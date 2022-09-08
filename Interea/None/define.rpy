@@ -1,2 +1,2 @@
 init python:
-   config.default_language = "Schinese"
+   config.default_language = "Schinese"1
