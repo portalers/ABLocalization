@@ -1,0 +1,168 @@
+# TODO: Translation updated at 2021-07-14 16:50
+
+translate Tchinese strings:
+
+    # game/screens.rpy:575
+    old "About"
+    new ""
+
+    # game/screens.rpy:582
+    old "{font=font/DenseLetters-nRgDO.otf}Version [config.version!t]\n"
+    new ""
+
+    # game/screens.rpy:588
+    old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
+    new ""
+
+    # game/screens.rpy:616
+    old "Save"
+    new ""
+
+    # game/screens.rpy:623
+    old "Load"
+    new ""
+
+    # game/screens.rpy:628
+    old "Page {}"
+    new ""
+
+    # game/screens.rpy:628
+    old "Automatic saves"
+    new ""
+
+    # game/screens.rpy:628
+    old "Quick saves"
+    new ""
+
+    # game/screens.rpy:670
+    old "{#file_time}%A, %B %d %Y, %H:%M"
+    new ""
+
+    # game/screens.rpy:670
+    old "empty slot"
+    new ""
+
+    # game/screens.rpy:687
+    old "<"
+    new ""
+
+    # game/screens.rpy:690
+    old "{#auto_page}A"
+    new ""
+
+    # game/screens.rpy:693
+    old "{#quick_page}Q"
+    new ""
+
+    # game/screens.rpy:699
+    old ">"
+    new ""
+
+    # game/screens.rpy:744
+    old "Preferences"
+    new ""
+
+    # game/screens.rpy:755
+    old "Display"
+    new ""
+
+    # game/screens.rpy:756
+    old "Window"
+    new ""
+
+    # game/screens.rpy:757
+    old "Fullscreen"
+    new ""
+
+    # game/screens.rpy:761
+    old "Rollback Side"
+    new ""
+
+    # game/screens.rpy:762
+    old "Disable"
+    new ""
+
+    # game/screens.rpy:763
+    old "Left"
+    new ""
+
+    # game/screens.rpy:764
+    old "Right"
+    new ""
+
+    # game/screens.rpy:768
+    old "Skip"
+    new ""
+
+    # game/screens.rpy:769
+    old "Unseen Text"
+    new ""
+
+    # game/screens.rpy:770
+    old "After Choices"
+    new ""
+
+    # game/screens.rpy:771
+    old "Transitions"
+    new ""
+
+    # game/screens.rpy:780
+    old "Font"
+    new ""
+
+    # game/screens.rpy:781
+    old "Default"
+    new ""
+
+    # game/screens.rpy:782
+    old "OpenDyslexic"
+    new ""
+
+    # game/screens.rpy:789
+    old "Text Speed"
+    new ""
+
+    # game/screens.rpy:793
+    old "Auto Forward Time"
+    new ""
+
+    # game/screens.rpy:801
+    old "Music Volume"
+    new ""
+
+    # game/screens.rpy:808
+    old "Sound Volume"
+    new ""
+
+    # game/screens.rpy:814
+    old "Test"
+    new ""
+
+    # game/screens.rpy:819
+    old "Mute All"
+    new ""
+
+    # game/screens.rpy:912
+    old "History"
+    new ""
+
+    # game/screens.rpy:942
+    old "The dialogue history is empty."
+    new ""
+
+    # game/screens.rpy:1064
+    old "Skipping"
+    new ""
+
+    # game/screens.rpy:1284
+    old "Back"
+    new ""
+
+    # game/screens.rpy:1286
+    old "Auto"
+    new ""
+
+    # game/screens.rpy:1287
+    old "Menu"
+    new ""
+
