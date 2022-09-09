@@ -26,3 +26,7 @@ Icebearsan：[B站链接](https://space.bilibili.com/112873242)
 滝沢狼谷：[B站链接](https://space.bilibili.com/4877352)
 
 >主要更新Echo系列视频
+
+### 汉化组官方B站链接
+
+Bilibili：[B站链接](https://space.bilibili.com/1571398540)
