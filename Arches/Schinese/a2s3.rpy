@@ -1264,7 +1264,7 @@ translate Schinese a2s3_504524d2:
 translate Schinese a2s3_447cff86:
 
     # b "\"Boy, you're really startin' to piss me off. If you don't do what the fuck I tell you--\""
-    b "\"你小子真的很烦啊，再不乖乖听话-\""
+    b "\"你小子可真烦啊，再不乖乖听话-\""
 
 # game/a2s3.rpy:273
 translate Schinese a2s3_e3728d29:
@@ -1276,7 +1276,7 @@ translate Schinese a2s3_e3728d29:
 translate Schinese a2s3_fb63b811:
 
     # b "\"--I'm gonna take it out on your little cock sock yote, you understand me? Now, SHUT UP!\""
-    b "\"-我就把气撒在你的小情人儿上，明白了吗？现在，闭嘴！\""
+    b "\"-我就把气撒在你的小情人儿身上，听到没有？现在，{b}闭嘴！{/b}\""
 
 # game/a2s3.rpy:275
 translate Schinese a2s3_2eb50c30:
@@ -1444,13 +1444,13 @@ translate Schinese a2s3_b1245a04:
 translate Schinese a2s3_e23c2787:
 
     # "For several years, he moved from city to city, sometimes in surrounding states, before settling in Payton."
-    "数年时间里，他四处漂泊，辗转于城市之间，并最终在佩顿扎根。"
+    "他漂泊多年，辗转于城市之间，并最终在佩顿扎根。"
 
 # game/a2s3.rpy:309
 translate Schinese a2s3_1dfc365c:
 
     # "He stocked shelves at a grocery store, and the extra money he saved up would fund his weed supply."
-    "他干着在超市里摆货架的活儿，将省下的钱全部用来购买大麻。"
+    "他干着在超市里摆货架的活儿，把省下的钱全部用来购买大麻。"
 
 # game/a2s3.rpy:310
 translate Schinese a2s3_185cf418:
@@ -2512,7 +2512,7 @@ translate Schinese a2s3_03cad4de:
 translate Schinese a2s3_d5bf590e:
 
     # b "\"Ha! I'll fuckin' bet! I didn't even measure what I gave ya 'cuz I thought you'd only take one swallow. It was a fuck-ton, though.\""
-    b "\"哈！我就知道！我原本以为你只会喝一小口，就没控制药量，结果你他妈一口气全干了。\""
+    b "\"哈！那还用说！我原以为你只会喝一小口，就没控制量，结果你他妈一口气全干了。\""
 
 # game/a2s3.rpy:549
 translate Schinese a2s3_44045982:
@@ -2536,7 +2536,7 @@ translate Schinese a2s3_2b7303c6:
 translate Schinese a2s3_64b4c568:
 
     # "Whatever he took is very obviously kicking in, and it's definitely not calming him down."
-    "他吃的药明显已经起效了，可他一点儿也没有平静下来。"
+    "他吃的药明显已经生效了，可他一点儿也没有平静下来。"
 
 # game/a2s3.rpy:554
 translate Schinese a2s3_6ad7897d:
@@ -2566,7 +2566,7 @@ translate Schinese a2s3_75f29bd0:
 translate Schinese a2s3_4a7f8ec4:
 
     # b "\"Fuck! You better not fall asleep or go all delirious on me, understand? Because if you do, I'll probably just kill ya.\""
-    b "\"操！你他妈最好别睡过去，也别胡诌诌，懂？不然老子就宰了你。\""
+    b "\"操！你他妈最好别睡过去，也别胡诌诌，懂？当心老子宰了你。\""
 
 # game/a2s3.rpy:562
 translate Schinese a2s3_24f2830f:
@@ -2579,6 +2579,7 @@ translate Schinese a2s3_45052ec4:
 
     # "He's reached the stage where he feels solidly stuck in a deep dream, one that he'll be in for several more hours."
     "他感觉自己被困在梦境深处，而这个梦还将持续数个小时。"
+
 # game/a2s3.rpy:564
 translate Schinese a2s3_d35a52b6:
 
@@ -2589,7 +2590,7 @@ translate Schinese a2s3_d35a52b6:
 translate Schinese a2s3_055f71f7:
 
     # b "\"Hey, what's the matter? Am I makin' you feel uncomfortable? Is there somethin' wrong with me?\""
-    b "\"喂，你搞毛啊？不舒服？看我不爽？\""
+    b "\"干嘛呢你？不舒服？看老子不爽？\""
 
 # game/a2s3.rpy:566
 translate Schinese a2s3_5d13374a:
@@ -2613,7 +2614,7 @@ translate Schinese a2s3_1c517862:
 translate Schinese a2s3_7da49b5d:
 
     # b "\"Well, no shit, kid. You think I was blowin' my nose in there, or somethin'?\""
-    b "\"不然呢，你小子以为我在擤鼻涕么？\""
+    b "\"不然呢，你小子当擤鼻涕么？\""
 
 # game/a2s3.rpy:574
 translate Schinese a2s3_cea220b7:
@@ -2625,31 +2626,31 @@ translate Schinese a2s3_cea220b7:
 translate Schinese a2s3_865ff666:
 
     # b "\"Why would I wanna see that shit when I got you? I don't like the ones out here, that's why I took it. Wanna guess what I'm on?\""
-    b "\"那还要你干屁啊？老子就是不想看才吃的。猜猜那是什么？\""
+    b "\"那还要你干屁啊？老子就是不想看才吃的。猜猜是什么？\""
 
 # game/a2s3.rpy:577
 translate Schinese a2s3_2eede739:
 
     # "Cameron doesn't, but now that he knows cowering isn't going to help him, he plays along."
-    "Cameron猜不到，但还是配合起Brian，因为他知道畏惧于事无补。"
+    "Cameron不想猜，但还是配合着Brian，因为他知道畏惧于事无补。"
 
 # game/a2s3.rpy:579
 translate Schinese a2s3_8aab4ab0:
 
     # c "\"Um, maybe cocaine? Adderall?\""
-    c "\"呃，可卡因？安非他明？\""
+    c "\"呃，可卡因？阿德拉？\""
 
 # game/a2s3.rpy:581
 translate Schinese a2s3_e22d25bc:
 
     # b "\"You fuckin' kiddin' me, kid? Adderall? Do I look like a college brat tryin' to pull an all-nighter? Shit's like a cup of coffee to me.\""
-    b "\"你他妈逗我呢？安非他明？老子看起来像要通宵的大学生吗？那玩意儿对我来说也就一杯咖啡的程度。\""
+    b "\"你他妈逗我呢？阿德拉？老子看起来像要熬夜的小屁孩吗？对我来说，那玩意儿顶多相当于一杯咖啡。\""
 
 # game/a2s3.rpy:582
 translate Schinese a2s3_46e920af:
 
     # "Cameron doesn't say anything, but Brian keeps quiet, like he's waiting for the next guess."
-    "Cameron没有说什么，但Brian保持了沉默，好像在等待下一个猜测。"
+    "Cameron没有继续说什么，但Brian保持了沉默，像是在等待下一个猜测。"
 
 # game/a2s3.rpy:584
 translate Schinese a2s3_c9ee8514:
@@ -2667,7 +2668,7 @@ translate Schinese a2s3_4d041a29:
 translate Schinese a2s3_a61a8e66:
 
     # c "\"... Okay. Sorry, I never really did stims.\""
-    c "\"...这样啊。对不起，我很久没有这么上头了。\""
+    c "\"...这样啊。对不起，我对兴奋剂类的接触不多。\""
 
 # game/a2s3.rpy:589
 translate Schinese a2s3_9821382e:
@@ -2721,7 +2722,7 @@ translate Schinese a2s3_27c45631:
 translate Schinese a2s3_ddf13418:
 
     # "As the crazed bear is shadowboxing about twenty feet away, Cameron begins to realize he might be able to run."
-    "看着疯狂的熊在大约20英尺远的地方打太极拳，Cameron惊觉逃跑的机会到了。"
+    "看着疯狂的熊在大约20英尺远的地方打太极拳，Cameron惊觉逃跑的机会来了。"
 
 # game/a2s3.rpy:602
 translate Schinese a2s3_61e5d512:
@@ -2733,7 +2734,7 @@ translate Schinese a2s3_61e5d512:
 translate Schinese a2s3_e5b1fc45:
 
     # "He's starting to forget that he even exists."
-    "他开始忘记自己的存在。"
+    "他甚至开始遗忘自己的存在。"
 
 # game/a2s3.rpy:604
 translate Schinese a2s3_2a0b8004:
@@ -2745,7 +2746,7 @@ translate Schinese a2s3_2a0b8004:
 translate Schinese a2s3_cd0da42a:
 
     # "The desert is full of cracks and crevices that he might be able to squeeze into to wait ou--"
-    "沙漠里到处都是裂痕和岩缝，他可以挤进去等-"
+    "沙漠里到处都是裂痕和岩缝，他可以挤进去-"
 
 # game/a2s3.rpy:608
 translate Schinese a2s3_9ed4fa30:
@@ -2757,7 +2758,7 @@ translate Schinese a2s3_9ed4fa30:
 translate Schinese a2s3_e1d45ad1:
 
     # b "\"Fuck! Gotta relax. It's been a... It's been a while, so I'm... gettin' a huge rush. Gotta... remember, phew! I ain't as young as I used to be. My heart's probably gonna give any day now.\""
-    b "\"操！我得冷静一下，有段时间...没吸了，比我想得还要...猛。吁，身体不比当年了，什么时候抽过去也不奇怪。\""
+    b "\"操！我得缓...缓一缓，有段时间没吸了，比我想得还...还要猛。吁，身体不比当年了，什么时候死了也不奇怪。\""
 
 # game/a2s3.rpy:610
 translate Schinese a2s3_6325dce2:
@@ -2787,19 +2788,19 @@ translate Schinese a2s3_1eb6d168:
 translate Schinese a2s3_36505a6e:
 
     # c "\"I'm going to help you calm down some spirits...\""
-    c "\"我来帮你平息一下精神...\""
+    c "\"我来帮你平复心情...\""
 
 # game/a2s3.rpy:617
 translate Schinese a2s3_e18b3955:
 
     # "Cameron wants to say \"and then you'll let me go\", but Brian doesn't keep promises, and bringing it up might only trigger him to do more terrible things."
-    "Cameron想要说\"然后你就放我走\"，但Brian从不信守承诺，提起这件事只会让他更加出格。"
+    "Cameron想要说\"然后你就放我走\"，但Brian从不遵守约定，提起这件事只会更加刺激他。"
 
 # game/a2s3.rpy:618
 translate Schinese a2s3_37bd4117:
 
     # "That, and now that they're outside, Cameron is sure he can feel Devon's presence, alive, but hurt, and the coyote is desperately trying to figure out what to do next."
-    "而且来到外面后，Cameron能明确感知到Devon的存在。他还活着，但受了伤，郊狼为此绞尽了脑汁。"
+    "而且来到外面后，Cameron能明确感知到Devon的存在。虽然受了伤，但还活着，郊狼为此绞尽了脑汁。"
 
 # game/a2s3.rpy:619
 translate Schinese a2s3_ae2c6c87:
@@ -2811,19 +2812,19 @@ translate Schinese a2s3_ae2c6c87:
 translate Schinese a2s3_57444140:
 
     # b "\"What about your bear? Maybe I was just gettin' the wrong vibes, but I thought he's your boyfriend.\""
-    b "\"在想你的熊么？也许是我误会了，不过你们俩真的像一对儿。\""
+    b "\"放不下你的熊么？也许是我误会了，不过你们俩真的像一对儿。\""
 
 # game/a2s3.rpy:622
 translate Schinese a2s3_dea331fd:
 
     # c "\"Of course, that's why I'm doing this!\""
-    c "\"是的，我这么做都是为了他！\""
+    c "\"是的。为了他，我做什么都可以！\""
 
 # game/a2s3.rpy:624
 translate Schinese a2s3_adb8ab64:
 
     # b "\"Oh fuck! I forgot to tell ya he overheated in the van. Got distracted with you and left him in there too long.\""
-    b "\"操！忘了说了，为了不让你分心，我把他锁在了货车那儿，八成已经热晕了。\""
+    b "\"操！忘了说了，为了不让你分心，我把他锁在了货车那儿，八成热晕过去了吧。\""
 
 # game/a2s3.rpy:626
 translate Schinese a2s3_dfca84a5:
@@ -2841,7 +2842,7 @@ translate Schinese a2s3_794e1ae3:
 translate Schinese a2s3_0c69cf7e:
 
     # "But should he act terrified to satisfy the bear?"
-    "但他是否应该用恐惧来满足熊？"
+    "但他是否应该用恐惧来满足熊呢？"
 
 # game/a2s3.rpy:629
 translate Schinese a2s3_b5d84e26:
@@ -2853,7 +2854,7 @@ translate Schinese a2s3_b5d84e26:
 translate Schinese a2s3_d2be2f36:
 
     # b "\"Naw, he's fine. Just wanted to make sure the feelings between the two of you are mutual. Your face said it all.\""
-    b "\"他没事儿，我只是想确认一下你们俩是不是情投意合。你的表情已经告诉我了。\""
+    b "\"他没事儿，我只是想看看你们俩是不是相互喜欢。你的表情已经告诉我了。\""
 
 # game/a2s3.rpy:632
 translate Schinese a2s3_516dbf19:
@@ -2871,7 +2872,7 @@ translate Schinese a2s3_3f215d5e:
 translate Schinese a2s3_c246697c:
 
     # c "\"Holy shit, you really got me there. I thought {i}my{/i} heart was about to give out.\""
-    c "\"哇，你真让我感动，{b}我{/b}差点就要崩溃了。\""
+    c "\"哇，真是被你吓到了，{b}我{/b}差点就要崩溃了。\""
 
 # game/a2s3.rpy:637
 translate Schinese a2s3_978421e8:
@@ -2883,7 +2884,7 @@ translate Schinese a2s3_978421e8:
 translate Schinese a2s3_a6926c63:
 
     # c "\"Oh thanks, but you know drugs. They make everything seem better! I think I'm more on the ugly side of things, if I'm being honest. I mean, I haven't showered in a while either.\""
-    c "\"噢，谢谢。不过你也知道，毒品会让一切看起来更好！虽然说实话，我更喜欢丑陋的一面。我是说，我挺久没洗澡的了。"\""
+    c "\"噢，谢谢。不过你也知道，毒品会让一切看起来更好！虽然说实话，我更喜欢丑陋的一面。我是说，我挺久没洗澡的了。\""
 
 # game/a2s3.rpy:640
 translate Schinese a2s3_d418d162:
@@ -2925,7 +2926,7 @@ translate Schinese a2s3_4739c54b:
 translate Schinese a2s3_13b32b8b:
 
     # "Ten, fifteen, sometimes even twenty hours of non-stop physical, and mental torture, and it would go on, and on, and on, and wouldn't stop until the bear's exhausted body would pass out."
-    "10、15，有时甚至是20个小时不间断的折磨。肉体上的、精神上的，折磨会一直持续下去，直到筋疲力尽的熊昏睡过去。"
+    "10、15，有时甚至是20个小时不间断的折磨。肉体上的、精神上的，持续性的折磨，直到筋疲力尽的熊昏睡过去。"
 
 # game/a2s3.rpy:649
 translate Schinese a2s3_a4f653e9:
@@ -2985,13 +2986,13 @@ translate Schinese a2s3_6b527f3c:
 translate Schinese a2s3_6f358b4d:
 
     # "For whatever reason, either because he's outside, or because he's spacing out even more, he's certain of that."
-    "不知出于什么原因，或是因为他在室外，或是因为他更加恍惚，然而他可以肯定。"
+    "不知出于什么原因。或许因为他在室外，或许因为他更加恍惚，但他就是知道。"
 
 # game/a2s3.rpy:662
 translate Schinese a2s3_7f89ee05:
 
     # "He'd never been close friends with the cat, but Cameron had gotten to know him, and that feeling, that amalgamation of a person that is Artie, it's still out there."
-    "他算不上那只猫的密友，但Cameron足够了解他。这种感觉，一体的人，即Artie，它就在那里。"
+    "他算不上那只猫的密友，却也足够了解他。这种感觉，一体的人，即Artie，它就在那里。"
 
 # game/a2s3.rpy:663
 translate Schinese a2s3_b7fabac6:
@@ -3171,13 +3172,13 @@ translate Schinese a2s3_4b15829b:
 translate Schinese a2s3_55c0ba5a:
 
     # "He'll rip his throat out."
-    "他要把他的喉咙撕碎。"
+    "他要撕碎他的喉咙。"
 
 # game/a2s3.rpy:698
 translate Schinese a2s3_f9c86d94:
 
     # "But while that fire is rekindled in his chest, he can't fight whatever drug the bear gave him."
-    "但就算胸口重新燃起了火焰，他也无法对抗熊给他下的药物。"
+    "但就算胸口重新燃起了火焰，他还是抵抗不了熊给他下的药。"
 
 # game/a2s3.rpy:699
 translate Schinese a2s3_61a97d87:
@@ -3531,7 +3532,7 @@ translate Schinese a2s3_1ee0909f:
 translate Schinese a2s3_5b92ec58:
 
     # d "\"No, dammit, please!\""
-    d "\"可恶，可恶！\""
+    d "\"可恶，可恶啊！\""
 
 # game/a2s3.rpy:803
 translate Schinese a2s3_5ff9fa1b:
@@ -3573,19 +3574,19 @@ translate Schinese a2s3_ebe4eb97:
 translate Schinese a2s3_a5301104:
 
     # "So, he continues to rest, waiting to see if his coyote comes to free him, and hopefully then he can finally get his claws on Brian."
-    "于是乎，他安顿下来，等待着他的郊狼前来解救，他发誓要让Brian血债血偿。"
+    "于是乎，他安顿下来，等待着他的郊狼前来解救。他发誓要让Brian血债血偿。"
 
 # game/a2s3.rpy:814
 translate Schinese a2s3_ec829221:
 
     # b "\"You been standin' there for a good ten minutes. So, what'd you see?\""
-    b "\"你都站了十分钟了。你看到了什么？\""
+    b "\"你都站了十分钟了，看到什么没有？\""
 
 # game/a2s3.rpy:816
 translate Schinese a2s3_3e3ad05f:
 
     # c "\"Well, I'm having trouble because they won't talk to me.\""
-    c "\"那个，事情有点难办，他们不肯跟我说话。\""
+    c "\"那个，事情有点复杂，他们不肯跟我说话。\""
 
 # game/a2s3.rpy:818
 translate Schinese a2s3_233c9b98:
@@ -3621,19 +3622,19 @@ translate Schinese a2s3_e9ffabc2:
 translate Schinese a2s3_5fbb9a8f:
 
     # b "\"You sneaky fuckin' faggot.\""
-    b "\"你这个狡猾的小基佬。\""
+    b "\"心怀鬼胎的小基佬。\""
 
 # game/a2s3.rpy:835
 translate Schinese a2s3_b891b9b7:
 
     # "He violently shakes cameron, and the coyote twists his body, grabbing the bear's forearm and trying to get his legs lifted up and wrapped around the bear's bicep to lessen the pressure, but Brian won't allow it."
-    "他剧烈摇晃起cameron。郊狼扭动身体，抓住熊的前臂，试图把腿抬起来，缠住熊的二头肌以减轻压力。但Brian不允许。"
+    "他剧烈摇晃着cameron。郊狼扭动身体，抓住熊的前臂，试图把腿抬起来，缠住熊的二头肌以减轻压力。但Brian不允许。"
 
 # game/a2s3.rpy:836
 translate Schinese a2s3_383c482b:
 
     # b "\"You know you said everything out loud just now?\""
-    b "\"你刚刚全说出来了，没印象么？\""
+    b "\"你刚刚全说出来了，不记得了？\""
 
 # game/a2s3.rpy:837
 translate Schinese a2s3_e227fc87:
@@ -3681,25 +3682,25 @@ translate Schinese a2s3_7ac219ce:
 translate Schinese a2s3_516364d1:
 
     # "In that moment, it isn't the crushing pressure on his neck, or the horrid, rancid breath that's coming from the old bear that Cameron notices most."
-    "在这千钧一发之际，Cameron最关注的不是脖子上的压迫感，也不是那只老熊发出的酸臭气息。"
+    "在这千钧一发之际，Cameron最在意的不是脖子上的压迫感，也不是那头老熊呼出的酸臭气息。"
 
 # game/a2s3.rpy:849
 translate Schinese a2s3_2d586e69:
 
     # "It's that Brian doesn't even seem angry."
-    "而是Brian看起来一点都不生气。"
+    "而是Brian看起来一点也不生气。"
 
 # game/a2s3.rpy:850
 translate Schinese a2s3_530ee50f:
 
     # "He's doesn't seem enraged that the coyote had been contacting Devon."
-    "他并没有因郊狼联系的人是Devon而生气。"
+    "他没有因郊狼联系的人是Devon而生气。"
 
 # game/a2s3.rpy:851
 translate Schinese a2s3_91622815:
 
     # "He doesn't seem upset that Cameron broke his word to help the old bear with his demons."
-    "也没有因Cameron违背了诺言，没有帮助老熊对付他的恶魔而生气。"
+    "也没有因Cameron违背了诺言，帮助他铲除心魔而生气。"
 
 # game/a2s3.rpy:852
 translate Schinese a2s3_d7e324f0:
@@ -3711,19 +3712,19 @@ translate Schinese a2s3_d7e324f0:
 translate Schinese a2s3_a2642e66:
 
     # "Vaguely, Cameron can sense a battle taking place inside Brian."
-    "Cameron隐约意识到Brian正在挣扎。"
+    "Cameron隐约察觉到，Brian正在挣扎。"
 
 # game/a2s3.rpy:854
 translate Schinese a2s3_c2ab00f4:
 
     # "He desperately wants to have his way with Cameron, but he also wants Cameron to exorcise the ghosts."
-    "他急切地想和Cameron发生关系，但也希望Cameron能驱除鬼魂。"
+    "他迫不及待地想和Cameron发生‘关系’，但也希望Cameron能够驱魔。"
 
 # game/a2s3.rpy:855
 translate Schinese a2s3_7e98f9f5:
 
     # "But Cameron can also sense that Brian is realizing his plans were doomed from the start."
-    "Cameron还意识到，Brian从一开始就不看好这个计划。"
+    "Cameron还察觉到，Brian从一开始就不看好这个计划。"
 
 # game/a2s3.rpy:856
 translate Schinese a2s3_4d26426d:
@@ -3831,13 +3832,13 @@ translate Schinese a2s3_7dbb0b50:
 translate Schinese a2s3_067bc6e2:
 
     # "Brian's voice trembles with cruel, passionate emotion, and nuzzles the coyote."
-    "Brian的声音因残忍、狂热的感情而颤动，他用鼻子轻轻地去蹭郊狼。"
+    "Brian的声音因残忍、狂热的感情而躁动，他轻轻地去蹭郊狼的鼻头。"
 
 # game/a2s3.rpy:877
 translate Schinese a2s3_7c6dfdad:
 
     # "He squeezes harder, and Cameron's eyes roll up, all while putting the key in his own pocket, but he's not sure it matters."
-    "他更加用力地挤压，Cameron的眼睛不住翻腾。同时，虽然不确定这有没有意义，他把钥匙放进了自己的口袋。"
+    "他加重了力道，Cameron的眼睛不住翻腾。同时，虽然不确定还有没有意义，他把钥匙放进了自己的口袋。"
 
 # game/a2s3.rpy:878
 translate Schinese a2s3_0d2afc55:
@@ -3849,13 +3850,13 @@ translate Schinese a2s3_0d2afc55:
 translate Schinese a2s3_c36f8fc3:
 
     # "As he fades into darkness, Cameron feels a part of himself die."
-    "随着Cameron慢慢沉入黑暗，他确信自己的一部分死了。"
+    "随着意识逐渐涣散，Cameron确信自己一只脚已经踏进了鬼门关。"
 
 # game/a2s3.rpy:880
 translate Schinese a2s3_cb09fcb3:
 
     # "The trip peaks, and suddenly Cameron is everything at once."
-    "幻觉之旅达到顶峰，突然间，Cameron成为了一切。"
+    "幻觉之旅达到了顶峰，突然间，Cameron成为了世间万物。"
 
 # game/a2s3.rpy:881
 translate Schinese a2s3_1f6eaff2:
@@ -3891,7 +3892,7 @@ translate Schinese a2s3_e560d947:
 translate Schinese a2s3_cb47dfcc:
 
     # "And because of that, he can see everything."
-    "正因如此，他得以看到一切。"
+    "正因为如此，他得以看到一切。"
 
 # game/a2s3.rpy:891
 translate Schinese a2s3_fec97169:
