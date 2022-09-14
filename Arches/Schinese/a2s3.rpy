@@ -2872,13 +2872,13 @@ translate Schinese a2s3_3f215d5e:
 translate Schinese a2s3_c246697c:
 
     # c "\"Holy shit, you really got me there. I thought {i}my{/i} heart was about to give out.\""
-    c "\"哇，真是被你吓到了，{b}我{/b}差点就要崩溃了。\""
+    c "\"哇，真是被你吓到了，{b}我{/b}几乎就要崩溃了。\""
 
 # game/a2s3.rpy:637
 translate Schinese a2s3_978421e8:
 
     # b "\"Damn, you're cute. Cutest little yote I've ever seen.\""
-    b "\"见鬼，你真可爱，是我见过最可爱的小狼。\""
+    b "\"操，你怎么这么可爱。\""
 
 # game/a2s3.rpy:639
 translate Schinese a2s3_a6926c63:
@@ -2896,13 +2896,13 @@ translate Schinese a2s3_d418d162:
 translate Schinese a2s3_4700619b:
 
     # b "\"Naw, you were cute before I amped up. Also, I've had guys shit themselves, either because they were scared, or they thought it would stop me doin' what I did.\""
-    b "\"不不，我在上头前就觉得你可爱了。我之前遇到的竟是些有眼无珠的家伙，要么怕我，要么以为能阻止我。\""
+    b "\"不不，我老早就觉得你可爱了。之前遇到的竟是些不知天高地厚的家伙，要么怕我，要么以为能违抗我。\""
 
 # game/a2s3.rpy:644
 translate Schinese a2s3_341526df:
 
     # b "\"It didn't, because this shit I'm on makes me horny as fuck. So not only do ya look cute, it is cute, thinkin' that it might help ya.\""
-    b "\"但还不是被嗑药后的老子给干趴了。所以说啊，你不只是看起来可爱，你就是很可爱。懂了没？\""
+    b "\"但还不是被老子给干趴了。所以说啊，你不只是看起来可爱，你就是很可爱。懂我意思不？\""
 
 # game/a2s3.rpy:645
 translate Schinese a2s3_e5f4a4e1:
@@ -3130,7 +3130,7 @@ translate Schinese a2s3_e02b7ac9:
 translate Schinese a2s3_900056ab:
 
     # "After several seconds he stops, and after blinking away the blur of tears, he sees that while some fur is missing, he barely broke the skin."
-    "几秒钟后，他松开口，眨了眨眼睛，抹去泪痕。这时，他发现虽然掉了一些毛，但底下的皮几乎没有破。"
+    "几秒钟后，他松开口，眨了眨眼睛，抹去泪痕。也就在这时，他发现虽然腕部掉了一些毛，但底下的皮几乎没有破。"
 
 # game/a2s3.rpy:691
 translate Schinese a2s3_acb479f9:
@@ -3142,13 +3142,13 @@ translate Schinese a2s3_acb479f9:
 translate Schinese a2s3_b276e77c:
 
     # "The metal enclosure makes the laugh sound loud and hollow, and that's when Devon stops as he realizes how unhinged he sounds, how he shouldn't be acting like this."
-    "笑声在金属车厢内回荡，空洞而又嘹亮。听到这声音有多么不正常，Devon这才停了下来，他清楚自己不该崩溃。"
+    "笑声在金属车厢内反射，空洞而又嘹亮。听到这声音有多么不正常，Devon终于停下，他清楚自己不该崩溃。"
 
 # game/a2s3.rpy:693
 translate Schinese a2s3_547c2750:
 
     # "He doesn't have a right to break down."
-    "他没有崩溃的权利。"
+    "他没有权利崩溃。"
 
 # game/a2s3.rpy:694
 translate Schinese a2s3_92356d96:
@@ -3622,7 +3622,7 @@ translate Schinese a2s3_e9ffabc2:
 translate Schinese a2s3_5fbb9a8f:
 
     # b "\"You sneaky fuckin' faggot.\""
-    b "\"心怀鬼胎的小基佬。\""
+    b "\"狡猾的小基佬。\""
 
 # game/a2s3.rpy:835
 translate Schinese a2s3_b891b9b7:
