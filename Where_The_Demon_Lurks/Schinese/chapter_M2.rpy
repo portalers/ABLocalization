@@ -916,7 +916,7 @@ translate Schinese chapter_M2_b670730c:
 translate Schinese chapter_M2_26446eed:
 
     # p neutral talk "Oh, you gave me the half with the pineapple on it…."
-    p neutral talk "你给我的是有菠萝的一半..."
+    p neutral talk "哦，你给了我有菠萝的一半..."
 
 # game/story/chapter_M2.rpy:352
 translate Schinese chapter_M2_c1283de8:
@@ -928,7 +928,7 @@ translate Schinese chapter_M2_c1283de8:
 translate Schinese chapter_M2_0eee89d0:
 
     # p annoyed "I never said that. I tolerate it at most."
-    p annoyed "谁说的，我顶多就是不反感而已。"
+    p annoyed "谁说的，我顶多只是不反感。"
 
 # game/story/chapter_M2.rpy:356
 translate Schinese chapter_M2_7ecf52d2:
@@ -1150,25 +1150,25 @@ translate Schinese morris_call_a_room_fit_for_king_883aa741:
 translate Schinese morris_call_a_room_fit_for_king_5a9ef910:
 
     # "Guilt and concern sledgehammers your heart into a million pieces. You feel tears building up but you slap your cheeks to snap out of it. The time for crying will come later, after King is saved."
-    "Guilt and concern sledgehammers your heart into a million pieces. You feel tears building up but you slap your cheeks to snap out of it. The time for crying will come later, after King is saved."
+    "惭愧与不安将你的心击碎成了无数片。泪水在你的眼眶里打转，你拍拍脸，努力让自己振作起来。今后有的是哭的时间，等到救回King以后。"
 
 # game/story/chapter_M2.rpy:460
 translate Schinese morris_call_a_room_fit_for_king_97397849:
 
     # "Gripping the book tightly you burn the instructions into your memory before getting to work."
-    "Gripping the book tightly you burn the instructions into your memory before getting to work."
+    "你把书攥在手中，将上面的吩咐牢牢刻进脑子里，然后才开始工作。"
 
 # game/story/chapter_M2.rpy:491
 translate Schinese morris_call_a_room_fit_for_king_28c272be:
 
     # "Through the day you barely have a chance to catch a breath while juggling between managing the counter, restocking the shelves and figuring out the paperwork to order new supplies."
-    "Through the day you barely have a chance to catch a breath while juggling between managing the counter, restocking the shelves and figuring out the paperwork to order new supplies."
+    "你同时忙着管理收银台、补充货架上的商品，和拟定采购新物资的文书工作，一天下来连喘气都顾不上。"
 
 # game/story/chapter_M2.rpy:499
 translate Schinese morris_call_a_room_fit_for_king_fd571bbb:
 
     # "The end of your shift cannot come sooner. Your arms shiver as the temperature inside the shop drops. Mike enters in his raincoat, smiling and looking ready to take your place."
-    "The end of your shift cannot come sooner. Your arms shiver as the temperature inside the shop drops. Mike enters in his raincoat, smiling and looking ready to take your place."
+    "很快，你的轮班结束了。随着店内温度的下降，你的手臂也开始颤抖。Mike穿着雨衣走了进来，他面带微笑，似乎做好了接替你的准备。"
 
 # game/story/chapter_M2.rpy:503
 translate Schinese morris_call_a_room_fit_for_king_c2b7f58f:
@@ -1186,13 +1186,13 @@ translate Schinese morris_call_a_room_fit_for_king_84ec9089:
 translate Schinese morris_call_a_room_fit_for_king_6499a036:
 
     # Mike "Me either, you can borrow my raincoat if you need it."
-    Mike "我也没有，不过雨衣可以借你穿。"
+    Mike "我也没有，不过我的雨衣可以借你穿。"
 
 # game/story/chapter_M2.rpy:509
 translate Schinese morris_call_a_room_fit_for_king_9f969942:
 
     # p talk "No, it’s fine. You might need it yourself later. I have a friend coming over. He’ll probably have a spare. See you."
-    p talk "No, it’s fine. You might need it yourself later. I have a friend coming over. He’ll probably have a spare. See you."
+    p talk "不必了，你可能还得用。我待会儿有个朋友要来，他应该有备用的。回头见。"
 
 # game/story/chapter_M2.rpy:511
 translate Schinese morris_call_a_room_fit_for_king_a35da155:
@@ -1204,37 +1204,37 @@ translate Schinese morris_call_a_room_fit_for_king_a35da155:
 translate Schinese morris_call_a_room_fit_for_king_0f1e62f7:
 
     # "Stepping outside the shop’s awning does little to protect you from the cold, wet wind blowing against your mane. Soon enough, the pitter-patter turns to rumbles as a torrent of rain blankets the streets."
-    "Stepping outside the shop’s awning does little to protect you from the cold, wet wind blowing against your mane. Soon enough, the pitter-patter turns to rumbles as a torrent of rain blankets the streets."
+    "店门口的遮阳篷并不能保护你免受冷风的侵袭。淅淅沥沥的雨很快演变成了倾盆大雨，如一盆水倒扣在了街道上。"
 
 # game/story/chapter_M2.rpy:522
 translate Schinese morris_call_a_room_fit_for_king_b0368da3:
 
     # p "This doesn’t look like it will clear up fast. I better call him to come–"
-    p "看来一时半会停不下来，我最好打电话叫他-"
+    p "这雨可有得下了，我最好打电话叫他-"
 
 # game/story/chapter_M2.rpy:529
 translate Schinese morris_call_a_room_fit_for_king_2f9b2b46:
 
     # "Too late, in the distance you can see Morris running over."
-    "太迟了，你看到Morris从远处奔来。"
+    "太迟了，你看到Morris从远方奔来。"
 
 # game/story/chapter_M2.rpy:531
 translate Schinese morris_call_a_room_fit_for_king_c6f940e0:
 
     # M nervous "Sorry I’m late. Walking through this rain is like fighting a waterfall. Ready to go?"
-    M nervous "对不起，我迟到了，Walking through this rain is like fighting a waterfall. Ready to go?"
+    M nervous "对不起，我迟到了。这场雨下得跟瀑布似的。你准备好了吗？"
 
 # game/story/chapter_M2.rpy:533
 translate Schinese morris_call_a_room_fit_for_king_ad60d14f:
 
     # p -left talk "Why are you in such a hurry?"
-    p -left talk "Why are you in such a hurry?"
+    p -left talk "干嘛这么急啊？"
 
 # game/story/chapter_M2.rpy:535
 translate Schinese morris_call_a_room_fit_for_king_2ed79c68:
 
     # M neutral talk "I just got a call, another client can’t wait any longer. They need me to help them with an issue at their house. So, after we deal with King’s place, we’ve got to go there."
-    M neutral talk "I just got a call, another client can’t wait any longer. They need me to help them with an issue at their house. So, after we deal with King’s place, we’ve got to go there."
+    M neutral talk "我刚接到一位客户的电话，说他已经不能再等了，催我过去帮他们家驱魔。所以处理完King的事情后，我们必须尽快赶到。"
 
 # game/story/chapter_M2.rpy:537
 translate Schinese morris_call_a_room_fit_for_king_43ffe06f:
@@ -1246,49 +1246,49 @@ translate Schinese morris_call_a_room_fit_for_king_43ffe06f:
 translate Schinese morris_call_a_room_fit_for_king_9248939e:
 
     # M talk "Yes, we. I’m not making twice the trip to drop you off then head to their place."
-    M talk "Yes, we. I’m not making twice the trip to drop you off then head to their place."
+    M talk "是的，我们。我可不想多跑一趟。"
 
 # game/story/chapter_M2.rpy:541
 translate Schinese morris_call_a_room_fit_for_king_2e8f8197:
 
     # "Your lips curl into a frown, just when you thought you could have the night to yourself."
-    "Your lips curl into a frown, just when you thought you could have the night to yourself."
+    "你皱起眉头，看来今晚是没法独享了。"
 
 # game/story/chapter_M2.rpy:543
 translate Schinese morris_call_a_room_fit_for_king_2ee964e3:
 
     # p "Alright… I guess."
-    p "行吧..."
+    p "也不是...不行。"
 
 # game/story/chapter_M2.rpy:545
 translate Schinese morris_call_a_room_fit_for_king_c4372d74:
 
     # M talk "Let’s go!"
-    M talk "Let’s go!"
+    M talk "那我们走吧！"
 
 # game/story/chapter_M2.rpy:547
 translate Schinese morris_call_a_room_fit_for_king_b3d07837:
 
     # p neutral talk "Wait, I don’t have an umbrella."
-    p neutral talk "等等，我没有伞啊。"
+    p neutral talk "等一下，我没有伞啊。"
 
 # game/story/chapter_M2.rpy:549
 translate Schinese morris_call_a_room_fit_for_king_5925df02:
 
     # M talk "Oh, then we’ll share. There’s enough room here."
-    M talk "Oh, then we’ll share. There’s enough room here."
+    M talk "噢，没关系，我的伞很大的。"
 
 # game/story/chapter_M2.rpy:551
 translate Schinese morris_call_a_room_fit_for_king_582df2b2:
 
     # p nervous "You don’t think it’s weird? Two guys, one umbrella?"
-    p nervous "不觉得奇怪吗？两个大男人，用一把伞？"
+    p nervous "两个大老爷们儿，用一把伞？未免太诡异了吧？"
 
 # game/story/chapter_M2.rpy:553
 translate Schinese morris_call_a_room_fit_for_king_d910b75c:
 
     # M annoyed "Does it look like we have a choice? Come on, it’s that or I’m going without you."
-    M annoyed "你以为选择很充裕是不是？赶紧的，要么跟上，要么我自己去。"
+    M annoyed "你以为我愿意是不是？赶紧的，不然我自己去。"
 
 # game/story/chapter_M2.rpy:563
 translate Schinese morris_call_a_room_fit_for_king_c999079c:
@@ -1300,31 +1300,31 @@ translate Schinese morris_call_a_room_fit_for_king_c999079c:
 translate Schinese morris_call_a_room_fit_for_king_77630837:
 
     # "Sticking close to him, you both walk through the rain to King’s apartment."
-    "Sticking close to him, you both walk through the rain to King’s apartment."
+    "你们肩并着肩，冒雨走向King的公寓。"
 
 # game/story/chapter_M2.rpy:573
 translate Schinese morris_call_a_room_fit_for_king_15ed19d2:
 
     # "With every step your mind questions your very presence."
-    "With every step your mind questions your very presence."
+    "每走一步，你都在怀疑自己的‘气场’。"
 
 # game/story/chapter_M2.rpy:575
 translate Schinese morris_call_a_room_fit_for_king_37e02784:
 
     # p "{i}He’s not saying anything, should I?{/i}" (cb_no_talk=True)
-    p "{i}He’s not saying anything, should I?{/i}" (cb_no_talk=True)
+    p "{b}反正他也没说什么，对吧？{/b}" (cb_no_talk=True)
 
 # game/story/chapter_M2.rpy:578
 translate Schinese morris_call_a_room_fit_for_king_c47edf3c:
 
     # p "{i}I haven’t showered since this morning, maybe he noticed it but doesn’t want to point it out.{/i}" (cb_no_talk=True)
-    p "{i}I haven’t showered since this morning, maybe he noticed it but doesn’t want to point it out.{/i}" (cb_no_talk=True)
+    p "{b}也许他注意到我从今早开始还没洗过澡，只是不想把气氛弄僵。{/b}" (cb_no_talk=True)
 
 # game/story/chapter_M2.rpy:581
 translate Schinese morris_call_a_room_fit_for_king_abb4c4ac:
 
     # "Your shoulder brushes against his. You instinctively shuffle aside but the boar’s hand reaches out and pulls you closer to him."
-    "Your shoulder brushes against his. You instinctively shuffle aside but the boar’s hand reaches out and pulls you closer to him."
+    "你本能地向外挪去，却被野猪搂得更近了。"
 
 # game/story/chapter_M2.rpy:583
 translate Schinese morris_call_a_room_fit_for_king_d73eef3b:
@@ -1336,163 +1336,163 @@ translate Schinese morris_call_a_room_fit_for_king_d73eef3b:
 translate Schinese morris_call_a_room_fit_for_king_8e2c1597:
 
     # "The warmth of his firm grip fills you with reassurance. Seeing that Morris is unbothered by your closeness, you begin to hear the rain again."
-    "The warmth of his firm grip fills you with reassurance. Seeing that Morris is unbothered by your closeness, you begin to hear the rain again."
+    "他那结实的臂膀让你感到温暖与安心。见Morris并不在意，你转而听起了雨声。"
 
 # game/story/chapter_M2.rpy:587
 translate Schinese morris_call_a_room_fit_for_king_65ee56d6:
 
     # p "You know, this rain wouldn’t be so bad if I was at home with a hot mug of soup."
-    p "You know, this rain wouldn’t be so bad if I was at home with a hot mug of soup."
+    p "这种天气，回到家喝上一碗热汤是再舒服不过的了。"
 
 # game/story/chapter_M2.rpy:589
 translate Schinese morris_call_a_room_fit_for_king_5e7a8334:
 
     # M neutral talk "You make soup? I usually make coffee."
-    M neutral talk "You make soup? I usually make coffee."
+    M neutral talk "汤吗？我一般会煮咖啡。"
 
 # game/story/chapter_M2.rpy:591
 translate Schinese morris_call_a_room_fit_for_king_b44afccb:
 
     # p "Something warm on a cool rainy day always hits the spot."
-    p "Something warm on a cool rainy day always hits the spot."
+    p "阴雨天就适合热腾腾的东西。"
 
 # game/story/chapter_M2.rpy:593
 translate Schinese morris_call_a_room_fit_for_king_c8a4b973:
 
     # M talk "That it does."
-    M talk "That it does."
+    M talk "确实。"
 
 # game/story/chapter_M2.rpy:597
 translate Schinese morris_call_a_room_fit_for_king_4b3ae751:
 
     # "For the rest of the walk you do your best to keep your eyes on the footpath, all the while you both keep each other close."
-    "For the rest of the walk you do your best to keep your eyes on the footpath, all the while you both keep each other close."
+    "在剩下的路程中，你尽自己最大的努力把注意力放在人行道上，而不是彼此紧紧相依的你们。"
 
 # game/story/chapter_M2.rpy:607
 translate Schinese morris_call_a_room_fit_for_king_99574f25:
 
     # "You arrive at King’s apartment but stop outside."
-    "You arrive at King’s apartment but stop outside."
+    "你们抵达了King的公寓，停在门口。"
 
 # game/story/chapter_M2.rpy:614
 translate Schinese morris_call_a_room_fit_for_king_0500128d:
 
     # p "What’s the plan?"
-    p "What’s the plan?"
+    p "有什么计划吗？"
 
 # game/story/chapter_M2.rpy:617
 translate Schinese morris_call_a_room_fit_for_king_12b080d2:
 
     # M "First, we get in. You wouldn’t happen to have a key to his place?"
-    M "First, we get in. You wouldn’t happen to have a key to his place?"
+    M "首先，咱们得进去。别告诉我你刚好有他家的门钥匙？"
 
 # game/story/chapter_M2.rpy:619
 translate Schinese morris_call_a_room_fit_for_king_53976138:
 
     # "You shake your head."
-    "You shake your head."
+    "你摇摇头。"
 
 # game/story/chapter_M2.rpy:621
 translate Schinese morris_call_a_room_fit_for_king_d15058a5:
 
     # M neutral talk "Then we’re breaking in. Just be my lookout while I pick the lock."
-    M neutral talk "Then we’re breaking in. Just be my lookout while I pick the lock."
+    M neutral talk "那咱们就闯进去。我负责撬锁，你负责望风。"
 
 # game/story/chapter_M2.rpy:623
 translate Schinese morris_call_a_room_fit_for_king_70352304:
 
     # p question "You know how to pick locks?"
-    p question "You know how to pick locks?"
+    p question "你还会撬锁？"
 
 # game/story/chapter_M2.rpy:625
 translate Schinese morris_call_a_room_fit_for_king_08be23e0:
 
     # M talk "It’s handy in this job."
-    M talk "It’s handy in this job."
+    M talk "干这行，没点儿手艺可不行。"
 
 # game/story/chapter_M2.rpy:627
 translate Schinese morris_call_a_room_fit_for_king_c324424b:
 
     # p nervous "What if someone catches us?"
-    p nervous "What if someone catches us?"
+    p nervous "如果我们被人发现了呢？"
 
 # game/story/chapter_M2.rpy:629
 translate Schinese morris_call_a_room_fit_for_king_9310daf3:
 
     # M talk "I’ll be fine, I mean, my contract does state that you bear all responsibilities in the case of legal complications for my actions."
-    M talk "I’ll be fine, I mean, my contract does state that you bear all responsibilities in the case of legal complications for my actions."
+    M talk "放心，我不会有事的。合同上明文规定了，我引发的法律纠纷将由你全权承担。"
 
 # game/story/chapter_M2.rpy:631
 translate Schinese morris_call_a_room_fit_for_king_82c79a7d:
 
     # p angry "I didn’t agree to that! Heck, I didn’t even sign anything."
-    p angry "I didn’t agree to that! Heck, I didn’t even sign anything."
+    p angry "别自做主张啊喂！我都还没签字呐。"
 
 # game/story/chapter_M2.rpy:633
 translate Schinese morris_call_a_room_fit_for_king_f32f240d:
 
     # M talk "I’m joking, we’re both done for if someone reports us. So keep an eye out while I do my job."
-    M talk "I’m joking, we’re both done for if someone reports us. So keep an eye out while I do my job."
+    M talk "开玩笑的。这事儿要是捅到警察局，咱们就全完了。所以请你务必打起十二分精神。"
 
 # game/story/chapter_M2.rpy:635
 translate Schinese morris_call_a_room_fit_for_king_afd7c4ea:
 
     # p neutral talk "There’s also the bigger problem of how we maintain King’s place while he’s not around."
-    p neutral talk "There’s also the bigger problem of how we maintain King’s place while he’s not around."
+    p neutral talk "还有个更大的问题。King不在的这段时间里，谁来供他的公寓。"
 
 # game/story/chapter_M2.rpy:637
 translate Schinese morris_call_a_room_fit_for_king_7358eff1:
 
     # M talk "You guys still covering for him at work?"
-    M talk "You guys still covering for him at work?"
+    M talk "他的班还是你们在替？"
 
 # game/story/chapter_M2.rpy:639
 translate Schinese morris_call_a_room_fit_for_king_af22aaa4:
 
     # p talk "Technically, we had to put in a notice to HQ that King’s on unpaid leave for a few months to manage his studies. That’s why I’m worried, no way can I cover the rent for two places."
-    p talk "Technically, we had to put in a notice to HQ that King’s on unpaid leave for a few months to manage his studies. That’s why I’m worried, no way can I cover the rent for two places."
+    p talk "严格来说，我们必须通知总部，说King要休几个月的无薪假，好完成自己的学业。这就是我担心的原因，我不可能付得起两份房租。"
 
 # game/story/chapter_M2.rpy:641
 translate Schinese morris_call_a_room_fit_for_king_253b53d4:
 
     # M talk "Doubt you can afford it, you remember how the inside of his place looked?"
-    M talk "Doubt you can afford it, you remember how the inside of his place looked?"
+    M talk "恐怕他这一份都够呛，还记得里面的装潢么？"
 
 # game/story/chapter_M2.rpy:643
 translate Schinese morris_call_a_room_fit_for_king_b5d0783b:
 
     # p talk "I’d guess it would take at least two convenience store manager salaries to afford this."
-    p talk "I’d guess it would take at least two convenience store manager salaries to afford this."
+    p talk "据我猜测，住得起这种地方的人，薪水起码得有便利店经理的两倍。"
 
 # game/story/chapter_M2.rpy:645
 translate Schinese morris_call_a_room_fit_for_king_bd633831:
 
     # M talk "His parents must be helping with the rental. Have you figured out how you’re going to convince the parents?"
-    M talk "His parents must be helping with the rental. Have you figured out how you’re going to convince the parents?"
+    M talk "一定是他父母付的房租，你有把握说服他们吗？"
 
 # game/story/chapter_M2.rpy:647
 translate Schinese morris_call_a_room_fit_for_king_4e7637ee:
 
     # p nervous "No… Do I really have to do it?"
-    p nervous "No… Do I really have to do it?"
+    p nervous "没有...我一定要这么做吗？"
 
 # game/story/chapter_M2.rpy:649
 translate Schinese morris_call_a_room_fit_for_king_a5bac8aa:
 
     # M @ annoyed "Yes, cause you’re the one who knows him best. Now come on."
-    M @ annoyed "Yes, cause you’re the one who knows him best. Now come on."
+    M @ annoyed "是的，因为你最了解他。加油吧。"
 
 # game/story/chapter_M2.rpy:652
 translate Schinese morris_call_a_room_fit_for_king_d04d650b:
 
     # "Both of you take the elevator up to King’s place."
-    "Both of you take the elevator up to King’s place."
+    "你们乘电梯去了King的住处。"
 
 # game/story/chapter_M2.rpy:666
 translate Schinese morris_call_a_room_fit_for_king_b5c368f2:
 
     # "Outside of King’s door, you look around to make sure the coast is clear."
-    "Outside of King’s door, you look around to make sure the coast is clear."
+    "你警惕地环顾四周，以确保周围没有危险。"
 
 # game/story/chapter_M2.rpy:668
 translate Schinese morris_call_a_room_fit_for_king_45c41b91:
@@ -1504,7 +1504,7 @@ translate Schinese morris_call_a_room_fit_for_king_45c41b91:
 translate Schinese morris_call_a_room_fit_for_king_f08ec4d0:
 
     # "He takes out a paperclip and a screwdriver and begins tinkering with the lock."
-    "He takes out a paperclip and a screwdriver and begins tinkering with the lock."
+    "他拿出螺丝刀与一根回形针，开始撬锁。"
 
 # game/story/chapter_M2.rpy:672
 translate Schinese morris_call_a_room_fit_for_king_e1d9c497:
@@ -1522,13 +1522,13 @@ translate Schinese morris_call_a_room_fit_for_king_5fdbf493:
 translate Schinese morris_call_a_room_fit_for_king_6be76ec3:
 
     # p "Can you hurry it up? Someone could show up at any second."
-    p "Can you hurry it up? Someone could show up at any second."
+    p "你能快点儿吗？我总感觉有人在看。"
 
 # game/story/chapter_M2.rpy:681
 translate Schinese morris_call_a_room_fit_for_king_ea5ea0ee:
 
     # M nervous "I didn’t say I was an expert. Hold it."
-    M nervous "I didn’t say I was an expert. Hold it."
+    M nervous "我又不是闯空门专家。你再坚持一下。"
 
 # game/story/chapter_M2.rpy:683
 translate Schinese morris_call_a_room_fit_for_king_f1abe6bd:
