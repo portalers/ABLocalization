@@ -2764,7 +2764,7 @@ translate Schinese a2s3_e1d45ad1:
 translate Schinese a2s3_6325dce2:
 
     # "{i}Please{/i}, please, {i}let your heart give out. Please just die and let this nightmare, this decades-long nightmare you've created, end.{/i}"
-    "{b}求求你{/b}，求求你，{b}请你去死吧。让这场噩梦，这场你创造的几十年的噩梦，结束吧。{/b}"
+    "{b}求求你{/b}，求求你，{b}请你去死吧。让这场由你创造的，持续了数十年的噩梦，结束吧。{/b}"
 
 # game/a2s3.rpy:612
 translate Schinese a2s3_cd74ca37:
@@ -3418,7 +3418,7 @@ translate Schinese a2s3_c4c23de0:
 translate Schinese a2s3_0b8961c8:
 
     # c "\"Well, Brian drugged me with shrooms, and I'm tripping absolute balls right now. Hallucinogens enhance my abilities, and I think I kinda created this space. I really can't make this stuff up.\""
-    c "\"我猜但我们是我创造了这个空间。Brian给我喂了迷幻剂，这增强了我的能力。\""
+    c "\"我猜是我创造了这个空间。Brian给我吃了迷幻剂，这增强了我的能力。\""
 
 # game/a2s3.rpy:764
 translate Schinese a2s3_bc24bfe1:
@@ -3430,7 +3430,7 @@ translate Schinese a2s3_bc24bfe1:
 translate Schinese a2s3_8f215085:
 
     # d "\"Maybe you're right. But he drugged me too, ya know. This could still all be me.\""
-    d "\"也许你是对的，不过我也被他下了药，没准这是我的独角戏呢。\""
+    d "\"也许你是对的，不过我也被他下了药，没准这是我的戏呢。\""
 
 # game/a2s3.rpy:768
 translate Schinese a2s3_37d92cfd:
