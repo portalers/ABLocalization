@@ -3196,7 +3196,7 @@ translate Tchinese a2s2_83cf68bd:
 translate Tchinese a2s2_63c5328b:
 
     # "\"{i}Torque.{/i}\""
-    "\"{b}力矩。{/b}\""
+    "\"{b}轉矩。{/b}\""
 
 # game/a2s2.rpy:830
 translate Tchinese a2s2_fec97169:
