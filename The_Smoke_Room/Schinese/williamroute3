@@ -13917,19 +13917,19 @@ translate Schinese hattie_014e912e:
 translate Schinese hattie_c202f164:
 
     # m "\"Did I just see you wag?\""
-    m "“你还学会开玩笑了？”"
+    m "“我是不是看见你摇尾巴了？”"
 
 # game/williamroute3.rpy:5233
 translate Schinese hattie_b443150c:
 
     # wi "\"Coyotes don’t wag, Sam.\""
-    wi "“郊狼从不开玩笑，Sam。”"
+    wi "“在郊狼身上可不叫摇尾，Sam。”"
 
 # game/williamroute3.rpy:5236
 translate Schinese hattie_73323149:
 
     # wi "\"You saw me use my tail to keep balance, yes.\""
-    wi "“因为他们有用来保持平衡的尾巴。”"
+    wi "“是用来保持平衡的手段。”"
 
 # game/williamroute3.rpy:5238
 translate Schinese hattie_87fbe28c:
