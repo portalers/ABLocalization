@@ -892,7 +892,7 @@ translate Schinese williamroute3_62ce6491:
 translate Schinese williamroute3_143f56c3:
 
     # "When we climb the stairs and reach the foyer, the tobacco smell is cloying."
-    "我们爬上楼梯，抵达门厅，一股令人作呕的烟草味迎面扑来。"
+    "我们爬上楼梯，抵达门厅，一股呛人的烟草味迎面扑来。"
 
 # game/williamroute3.rpy:246
 translate Schinese williamroute3_ed9ed18f:
@@ -14151,7 +14151,7 @@ translate Schinese hattie_76a6efeb:
 translate Schinese hattie_df0d8f8f:
 
     # "I’m the one who opens up the door."
-    "我替他开了们。"
+    "我替他开了门。"
 
 # game/williamroute3.rpy:5331
 translate Schinese hattie_33720127:
@@ -14205,7 +14205,7 @@ translate Schinese hattie_2651c78f:
 translate Schinese hattie_98cf617e:
 
     # wi "\"But I will need you in top form today.\""
-    wi "“我需要你今天全力以赴。”"
+    wi "“我需要你今天全力扑在案件上。”"
 
 # game/williamroute3.rpy:5350
 translate Schinese hattie_f7df5212:
@@ -17265,7 +17265,7 @@ translate Schinese hattie_3a078719:
 translate Schinese hattie_aa6c6eba:
 
     # "I check beneath her dress and gag from the sour smell."
-    "我检查了她的裙子下面，酸臭的味道令人作呕。"
+    "我检查了她的裙子下面，酸臭的味道让人直想吐。"
 
 # game/williamroute3.rpy:6412
 translate Schinese hattie_04896972:
@@ -17421,7 +17421,7 @@ translate Schinese hattie_2402d8c7:
 translate Schinese hattie_d7ee95b2:
 
     # to "\"Is that not supposed to happen?\""
-    to "“不该缠的吗？”"
+    to "“这样的吗？”"
 
 # game/williamroute3.rpy:6472
 translate Schinese hattie_0985d243:
@@ -17433,7 +17433,7 @@ translate Schinese hattie_0985d243:
 translate Schinese hattie_052a483a:
 
     # to "\"It’s sliding out pretty easy now.\""
-    to "“现在很轻松就滑出来了。”"
+    to "“现在出来就很轻松了。”"
 
 # game/williamroute3.rpy:6476
 translate Schinese hattie_b96b8b27:
