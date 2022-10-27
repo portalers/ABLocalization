@@ -274,7 +274,7 @@ translate Schinese a_room_fit_for_king_9b410c7b:
 translate Schinese a_room_fit_for_king_0355bffc:
 
     # "Fortis rapidly presses another button so the doors can close and begin moving again. The elevator jolts, bringing back King’s motion sickness with it."
-    "Fortis赶忙按下另一个按钮，电梯旋即开始移动，晃得King直恶心。"
+    "Fortis急忙按下另一个按钮，于是乎电梯再次开始了移动，晃得King直恶心。"
 
 # game/story/chapter_King.rpy:156
 translate Schinese a_room_fit_for_king_5dca6daa:
@@ -388,13 +388,13 @@ translate Schinese a_room_fit_for_king_ccf9249e:
 translate Schinese a_room_fit_for_king_6630f768:
 
     # Fort "It’s one of the mildest physical torture chambers. Thought it could work for you."
-    Fort "最温和的拷问室之一，我还以为你可以呢。"
+    Fort "最温和的拷问室之一，我还以为你受得了呢。"
 
 # game/story/chapter_King.rpy:211
 translate Schinese a_room_fit_for_king_3e4dcced:
 
     # K trembling "What was that {i}thing{/i}? I couldn’t stop looking at it."
-    K trembling "那{b}东西{/b}呢？我就是忍不住盯着它。"
+    K trembling "那{b}东西{/b}是什么？我就是忍不住盯着它。"
 
 # game/story/chapter_King.rpy:213
 translate Schinese a_room_fit_for_king_14053f6e:
@@ -406,7 +406,7 @@ translate Schinese a_room_fit_for_king_14053f6e:
 translate Schinese a_room_fit_for_king_a9298ab9:
 
     # K frustration "What in the world made you think that would be a safe place for me?"
-    K frustration "你是哪根筋搭错了才觉得我受得了？"
+    K frustration "你是哪根筋搭错了才觉得我受得了的？"
 
 # game/story/chapter_King.rpy:217
 translate Schinese a_room_fit_for_king_5b105fcf:
@@ -520,7 +520,7 @@ translate Schinese a_room_fit_for_king_a08b69f9:
 translate Schinese a_room_fit_for_king_b1568f8a:
 
     # "He could go home… he could warn [name] that Vendrake’s coming…"
-    "他可以回家...警告[name]，Vendrake要来了..."
+    "他可以回家...警告[name]，Vendrake的来袭..."
 
 # game/story/chapter_King.rpy:284
 translate Schinese a_room_fit_for_king_0c0445eb:
@@ -712,19 +712,19 @@ translate Schinese a_room_fit_for_king_30cab528:
 translate Schinese a_room_fit_for_king_7d47b14c:
 
     # Amar "I’m already on it. [name] previously wanted to acquire mortal snacks without going through the hassle of travelling to the mortal plane."
-    Amar "我已经在行动了。[name]曾说想要人界的零食，但又不想把时间浪费在穿越位面上。"
+    Amar "我已经在干了。[name]曾说想吃人界的零食，但又不想把时间浪费在穿越位面上。"
 
 # game/story/chapter_King.rpy:372
 translate Schinese a_room_fit_for_king_58279a45:
 
     # Amar "So, he requested that I build a processor that could churn out the things he wanted."
-    Amar "于是乎，我根据他的要求发明了一台加工器，可以生产出他想要的东西。"
+    Amar "于是乎，我根据他的要求发明了一台加工器，可以生产出他想要的食物。"
 
 # game/story/chapter_King.rpy:374
 translate Schinese a_room_fit_for_king_b103e3a0:
 
     # Amar "I just need to make sure it’s working right, and check if it still has that bug whereby it explodes when coming in contact with water."
-    Amar "我只需要确保它还能正常运转，并检查那个错误是否还在，即遇水就炸。"
+    Amar "我只需要确保它还能正常运转，再检查一下那个遇水就炸的毛病修好了没有。"
 
 # game/story/chapter_King.rpy:376
 translate Schinese a_room_fit_for_king_57ae100b:
@@ -1049,4 +1049,132 @@ translate Schinese a_room_fit_for_king_335ae17c:
 
     # K serious "Now how do I steal the key from that walking bulldozer?"
     K serious "现在，我该如何从那台行走的推土机上把钥匙偷过来呢？"
+
+# TODO: Translation updated at 2022-08-25 11:58
+
+# game/story/chapter_King.rpy:4
+translate Schinese a_room_fit_for_king_a08be6b8:
+
+    # "It seems that you have seen this part of King's story before. It'd be great if you want to see it again, but it could be a chore if you've read this many times. So, would you like to skip this scene?{nw}{done}"
+    "似乎你已经观看过King的这部分故事了。重温一下是不错，但同一段内容读太多遍也是个苦差事。那么，要跳过这一幕吗？{nw}{done}"
+
+# game/story/chapter_King.rpy:8
+translate Schinese a_room_fit_for_king_8d423780:
+
+    # "King, having been captured by the demons of the Underworld, is placed under the care of Fortis, the General of Physical Torture."
+    "King落入了冥界，而后交由拷问将军Fortis照顾。"
+
+# game/story/chapter_King.rpy:9
+translate Schinese a_room_fit_for_king_b4150436:
+
+    # "The two do not hit it off well and King is imprisoned in the company's pantry. An exclusive generals only pantry, but the place hasn’t even been restocked!"
+    "二人不欢而散，King被囚禁在了将军专用的茶水间，这里甚至不会补货！"
+
+# game/story/chapter_King.rpy:10
+translate Schinese a_room_fit_for_king_f73c30a5:
+
+    # "King—despite learning that [name] is a demon—plans to escape the Underworld and warn his friend of Vendrake's future attacks."
+    "尽管得知[name]是恶魔，但King仍计划逃离冥界，并警告自己的朋友小心Vendrake的袭击。"
+
+# game/story/chapter_King.rpy:69
+translate Schinese a_room_fit_for_king_9cab0dc0:
+
+    # Fort annoyed "Relax, that’s noth—"
+    Fort "放松，没-"
+
+# game/story/chapter_King.rpy:85
+translate Schinese a_room_fit_for_king_46eef8d7:
+
+    # Fort @ annoyed "Now zip it or he’s going back on you."
+    Fort @ annoyed "闭上你的嘴，如果你不想再被捆的话。"
+
+# game/story/chapter_King.rpy:170
+translate Schinese a_room_fit_for_king_51d7292f:
+
+    # Fort annoyed "Yes, and don’t ask. Now, how about here."
+    Fort annoyed "是的，还有不许再问问题了。嗯，这里怎么样。"
+
+# game/story/chapter_King.rpy:186
+translate Schinese a_room_fit_for_king_eaa2c52d:
+
+    # "The door opens to a desert plane. There’s only one thing that stands out; a silent mass of people huddled around something."
+    "这一次，门外是平平无奇的沙漠，只有一处异常醒目：一群人沉默地簇拥在某个物体周围。"
+
+# game/story/chapter_King.rpy:221
+translate Schinese a_room_fit_for_king_2bddb85f:
+
+    # Fort neutral2 "It’s one of the mildest physical torture chambers. Thought it could work for you."
+    Fort neutral2 "最温和的拷问室之一，我还以为你受得了呢。"
+
+# game/story/chapter_King.rpy:225
+translate Schinese a_room_fit_for_king_971d40e7:
+
+    # Fort laugh "Mmm, yes, that’d be the demon Akios. You don’t want to find out what happens when the souls stop looking at them."
+    Fort laugh "噢，是恶魔Akios。你不会想知道把视线从他身上移开的灵魂会发生什么的。"
+
+# game/story/chapter_King.rpy:229
+translate Schinese a_room_fit_for_king_37147605:
+
+    # Fort neutral1 "I don’t know, Akios seemed pretty popular with mortal souls, your kind can’t seem to take your eyes off of them."
+    Fort neutral1 "我哪知道。Akios有引人注目的能力，我寻思着他应该挺受灵魂欢迎的。"
+
+# game/story/chapter_King.rpy:233
+translate Schinese a_room_fit_for_king_61c08f04:
+
+    # Fort annoyed "Fine, then I’m using plan B."
+    Fort annoyed "行吧，那就B计划。"
+
+# game/story/chapter_King.rpy:300
+translate Schinese a_room_fit_for_king_0d64661a:
+
+    # Fort neutral1 "Enjoy your afterlife!"
+    Fort neutral1 "尽情享受你的死后世界吧！"
+
+# game/story/chapter_King.rpy:335
+translate Schinese a_room_fit_for_king_f1fb7f19:
+
+    # Fort @ annoyed "Come on, food is food. It’s not like you’re trying to build muscle or anything."
+    Fort @ annoyed "拜托，有的吃就不错了，你又不需要增肌什么的。"
+
+# game/story/chapter_King.rpy:365
+translate Schinese a_room_fit_for_king_25be5c11:
+
+    # Fort neutral2 "Oh really now? You were that sure those were the only things I would have done?"
+    Fort neutral2 "哦？真的吗？你就这么肯定我不会干别的？"
+
+# game/story/chapter_King.rpy:374
+translate Schinese a_room_fit_for_king_2d8f4f44:
+
+    # Fort @ laugh "Yeah, typical Amare."
+    Fort @ laugh "不愧是你，Amare。"
+
+# game/story/chapter_King.rpy:389
+translate Schinese a_room_fit_for_king_20724319:
+
+    # Fort confused "Then you do it, if you’re such an expert!"
+    Fort confused "你行你上啊，大专家！"
+
+# game/story/chapter_King.rpy:397
+translate Schinese a_room_fit_for_king_43266ea4:
+
+    # Fort @ annoyed "Ugh."
+    Fort @ annoyed "呃。"
+
+# game/story/chapter_King.rpy:401
+translate Schinese a_room_fit_for_king_c9717ce9:
+
+    # Fort @ annoyed "You’re a prisoner, what do you need entertainment for?"
+    Fort @ annoyed "你是个囚犯，娱哪门子乐？"
+
+# game/story/chapter_King.rpy:499
+translate Schinese a_room_fit_for_king_5a7e8c09:
+
+    # Fort confused "What?"
+    Fort confused "哈？"
+
+translate Schinese strings:
+
+    # game/story/chapter_King.rpy:5
+    old "It seems that you have seen this part of King's story before. It'd be great if you want to see it again, but it could be a chore if you've read this many times. So, would you like to skip this scene?{fast}"
+    new "似乎你已经观看过King的这部分故事了。重温一下是不错，但同一段内容读太多遍也是个苦差事。那么，要跳过这一幕吗？{fast}"
 
