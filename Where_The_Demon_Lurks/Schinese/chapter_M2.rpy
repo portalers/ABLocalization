@@ -2554,7 +2554,7 @@ translate Schinese chapter_m2_king_search_ade1b323:
 translate Schinese chapter_m2_king_search_b6d7bb9e:
 
     # Pa "It’s still a silly idea. How is this going to help you with your degree? Better you cancel, and just forget the idea."
-    Pa "我还是不看好，这对你的学位有什么帮助？你最好取消，忘掉这个孩子气的想法吧。"
+    Pa "我还是不看好，这对你的学位有什么帮助？你最好忘掉这个孩子气的想法吧。"
 
 # game/story/chapter_M2.rpy:1138
 translate Schinese chapter_m2_king_search_00c8fd2e:
@@ -2566,25 +2566,25 @@ translate Schinese chapter_m2_king_search_00c8fd2e:
 translate Schinese chapter_m2_king_search_1065356e:
 
     # p_text "I know about food Pa, bodybuilders need to eat too. Plus I want to use this time to figure myself out."
-    p_text "我了解食物，阿爸，健美运动员也需要吃东西。此外，我想利用这段时间来了解自己。"
+    p_text "烹饪是我的专长，阿爸，就算健美运动员也需要吃东西的。此外，我想利用这段时间来了解自己。"
 
 # game/story/chapter_M2.rpy:1142
 translate Schinese chapter_m2_king_search_6aaf3ce9:
 
     # Pa "This again, Ah Boy don’t waste your time and energy on something like this. Studying is important, my friend is looking for someone to manage his business, and I already said you would be looking for a job after you graduate."
-    Pa "我再说一遍，儿子，不要把时间和精力浪费在这种事情上，专心学习。我都已经打点好了，等你毕业，可以去我的一个朋友那里当业务经理。"
+    Pa "我再说一遍，儿子，不要把时间和精力浪费在无用功上，专心学习。我已经打点好了，等你毕业了，可以去我的一个朋友那里当业务经理。"
 
 # game/story/chapter_M2.rpy:1144
 translate Schinese chapter_m2_king_search_3badd399:
 
     # Ma "Maybe you can talk to the camp people. Ask to just let you stay there for a week, but not for three months."
-    Ma "不然你和夏令营里的人谈谈，看只干一周行不行。"
+    Ma "要不你跟夏令营那边谈谈，看只干一周行不行。"
 
 # game/story/chapter_M2.rpy:1146
 translate Schinese chapter_m2_king_search_2ce46e6e:
 
     # p_text "No, I want to stay for the whole thing. This is important to me, I promised the camp I would help out."
-    p_text "不，我不会半途而废的。这对我很重要，我答应过他们要帮忙的。"
+    p_text "我不能半途而废，这对我很重要，我答应过他们要帮忙了。"
 
 # game/story/chapter_M2.rpy:1148
 translate Schinese chapter_m2_king_search_1b833e2c:
@@ -2722,7 +2722,7 @@ translate Schinese chapter_m2_parent_reply_17ff67dc:
 translate Schinese chapter_m2_parent_reply_f6b831b5:
 
     # p_text "It’s somewhere in the forest area in Kibbleton. They don’t show up on the GPS cause they are brand new."
-    p_text "基布莱顿森林，这是个新开发的景点，所以GPS上也不显示。"
+    p_text "基布莱顿森林，这是个新开发的景点，所以GPS上不显示。"
 
 # game/story/chapter_M2.rpy:1204
 translate Schinese chapter_m2_parent_reply_b46d7d1e:
@@ -4456,5 +4456,5 @@ translate Schinese strings:
 
     # game/story/chapter_M2.rpy:2106
     old "Morris is... Morris is... pretty ok, I guess? Sure he might wipe me out on the spot if he ever finds out what I really am, but he's been nothing but helpful since we teamed up. I'm not sure how long he has had that bandaged hand though, I think he should get it checked, it kind of smells. Still, I'm glad he helped out with King and his parents. I wouldn't have been able to even think about that part of his life on my own. Guess you can't just get transported into another dimension and expect nothing to change at home. Note to self though; watch out for Morris' real power level, the guy's stronger than he looks."
-    new "Morris...Morris他是一个...好人？自我们合作以来，他可帮了我不少次，虽然他知道我的真实身份后八成会把我当场灭掉。说起来他的手包扎多久了？都有点发臭了，他真应该去医院看看。不过，我还是很高兴他帮助了King和King的父母。我甚至想不到他都经历过什么，看来就算被传送到的另一个维度，也不能宅在家里无所事事呀。注意：当心Morris的真正实力，这家伙不可貌相。"
+    new "Morris...Morris他是一个...好人？我们才认识短短几天，他就帮了我大忙，虽然他知道我的真实身份后八成会当场灭了我吧。说起来他的手包扎多久了？都有异味了，他真的应该去医院看看，不过我还是很高兴他帮助了King和King的父母。而最神秘的当属他的过去，我甚至想象不出他都经历了什么，看来就算被平白无故传送到异世界，也不能宅在家里无所事事呀。注意：当心Morris真正的实力，这家伙不可貌相。"
 
