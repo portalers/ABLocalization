@@ -778,7 +778,7 @@ translate Schinese chapter_M2_c0c3ec3a:
 translate Schinese chapter_M2_a4b68784:
 
     # M nervous "Do I have that plain of a face that you don’t remember me?"
-    M nervous "难道你不记得我了？我的脸就这么平凡吗？"
+    M nervous "难道你不记得我了？我的脸就这么路人吗？"
 
 # game/story/chapter_M2.rpy:305
 translate Schinese chapter_M2_77c42ea7:
@@ -3610,7 +3610,7 @@ translate Schinese chapter_m2_parent_reply_0ad55543:
 translate Schinese chapter_m2_parent_reply_93879d4a:
 
     # T annoyed "Hah, that sounds like you’re just using me for free labour."
-    T annoyed "你这不就是把我当成免费劳力嘛。"
+    T annoyed "你这不就是把我当成工具人嘛。"
 
 # game/story/chapter_M2.rpy:1667
 translate Schinese chapter_m2_parent_reply_96ec7d42:
