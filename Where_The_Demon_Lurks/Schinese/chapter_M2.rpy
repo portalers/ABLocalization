@@ -4366,7 +4366,7 @@ translate Schinese chapter_m2_parent_reply_5f4050c7:
 translate Schinese chapter_m2_parent_reply_7f82ed65:
 
     # M sad "Honestly, there’s nothing much about me to love."
-    M sad "说实话吧，我这种人不值得爱。"
+    M sad "说实话吧，我没有资本去谈情说爱。"
 
 # game/story/chapter_M2.rpy:2108
 translate Schinese chapter_m2_parent_reply_5161691a:
@@ -4378,13 +4378,13 @@ translate Schinese chapter_m2_parent_reply_5161691a:
 translate Schinese chapter_m2_parent_reply_a9a6a437:
 
     # p neutral talk "What about romantic movies and tv shows?"
-    p neutral talk "那你对爱情电影和电视剧怎么看？"
+    p neutral talk "爱情电影和电视剧里不是也有类似的桥段吗？"
 
 # game/story/chapter_M2.rpy:2112
 translate Schinese chapter_m2_parent_reply_fbc33636:
 
     # M talk "That’s a different story."
-    M talk "这就是另一码事了。"
+    M talk "那是另一码事了。"
 
 # game/story/chapter_M2.rpy:2114
 translate Schinese chapter_m2_parent_reply_96b79638:
