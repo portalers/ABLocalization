@@ -46,7 +46,7 @@ translate Schinese chapter_M2_be533adf:
 translate Schinese chapter_M2_19a86ace:
 
     # p "Excuse the mess. I’ll clean up first, just sit wherever."
-    p "屋子很乱，请见谅。我先打扫一下，你随便坐。"
+    p "屋子比较乱，别介意啊。我先收拾一下，你随便坐。"
 
 # game/story/chapter_M2.rpy:27
 translate Schinese chapter_M2_a4894e95:
@@ -1732,7 +1732,7 @@ translate Schinese morris_call_a_room_fit_for_king_20113459:
 translate Schinese morris_call_a_room_fit_for_king_6fba0f28:
 
     # M "Don’t worry sir, that’s why we’re here, to hopefully purify and improve the spiritual health of King’s home, just like yours."
-    M "别担心，先生，这就是我们在这里的原因了。我们希望净化和改善King家的属灵健康，就像您家那样。"
+    M "别担心，先生，这就是我们在这里的原因了。我们旨在净化和改善King家的属灵健康，就像您家那样。"
 
 # game/story/chapter_M2.rpy:807
 translate Schinese morris_call_a_room_fit_for_king_82d2a12d:
@@ -1744,7 +1744,7 @@ translate Schinese morris_call_a_room_fit_for_king_82d2a12d:
 translate Schinese morris_call_a_room_fit_for_king_036c838d:
 
     # M talk "Why of course, I couldn’t help but notice the beautiful ornament you placed outside your door."
-    M talk "当然啦，那装饰美得让我不住侧目。"
+    M talk "当然啦，瞧瞧那装饰，美得让我挪不开眼睛呢。"
 
 # game/story/chapter_M2.rpy:811
 translate Schinese morris_call_a_room_fit_for_king_720f8e18:
@@ -1756,7 +1756,7 @@ translate Schinese morris_call_a_room_fit_for_king_720f8e18:
 translate Schinese morris_call_a_room_fit_for_king_82f08958:
 
     # "You swear that you’ve never seen that before."
-    "你发誓自己"
+    "你发誓你之前明明没有见过这东西。"
 
 # game/story/chapter_M2.rpy:815
 translate Schinese morris_call_a_room_fit_for_king_b04aa9b9:
