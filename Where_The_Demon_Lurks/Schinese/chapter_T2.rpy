@@ -2080,7 +2080,7 @@ translate Schinese toast_call_a_room_fit_for_king_19b12cd7:
 translate Schinese toast_call_a_room_fit_for_king_e5b58541:
 
     # p "I’m beginning to suspect you died a pretty while back."
-    p "我开始怀疑你其实是个老古董了。"
+    p "我开始怀疑你不是最近死的了。"
 
 # game/story/chapter_T2.rpy:1097
 translate Schinese toast_call_a_room_fit_for_king_a2cf0ffe:
@@ -2290,13 +2290,13 @@ translate Schinese toast_call_a_room_fit_for_king_35f0a969:
 translate Schinese toast_call_a_room_fit_for_king_aeca1f74:
 
     # "Craning your head, you’re able to look at the screen at an odd angle; a fox is speaking to a female cat about how much he wanted to marry her after today."
-    "接着探出头，直至可以以一个奇怪的角度看到屏幕：一只狐狸正对着一只母猫许下约定，说等他回来就娶对方为妻。"
+    "接着探出头，直至可以以一个奇怪的角度看到屏幕：一只狐狸正在跟一只母猫说等自己回来就娶她为妻。"
 
 # game/story/chapter_T2.rpy:1200
 translate Schinese toast_call_a_room_fit_for_king_d03bc023:
 
     # "Your concentration waxes and wanes, you struggle to make sense of the dialogue as you're only able to focus onto pieces of it."
-    "半睡半醒的你很难跟上剧情发展，因为你只能听懂其中一小部分对话。"
+    "半睡半醒的你很难跟上他们的对话，因为你只能听懂其中的一小部分。"
 
 # game/story/chapter_T2.rpy:1216
 translate Schinese toast_call_a_room_fit_for_king_f9ddd9f7:
@@ -2410,13 +2410,13 @@ translate Schinese toast_call_a_room_fit_for_king_111ee307:
 translate Schinese toast_call_a_room_fit_for_king_83b9bf51:
 
     # "It’s been so long since you’ve had someone on top of you, you’re not sure how to react."
-    "许久没有男人滋润的你慌了神。"
+    "你已经很久没有被压在下面了，你不知所措。"
 
 # game/story/chapter_T2.rpy:1276
 translate Schinese toast_call_a_room_fit_for_king_8a8ba91c:
 
     # "The longer you look at him the more you become aware that you can actually see through his ethereal clothes. His heavy, heaving, pectorals are inches away from your face."
-    "你越是打量他，就越无法忽视那半透明的衣服，还有近在你眼前的双峰。"
+    "你越是打量他，就越意识到自己可以看穿那半透明的衣服。他厚实、起伏的胸肌离你的脸近在咫尺。"
 
 # game/story/chapter_T2.rpy:1278
 translate Schinese toast_call_a_room_fit_for_king_d1b1e314:
@@ -2434,7 +2434,7 @@ translate Schinese toast_call_a_room_fit_for_king_28019e0c:
 translate Schinese toast_call_a_room_fit_for_king_848bfc92:
 
     # T "[name]... I don’t think I can hold on anymore."
-    T "[name]...我好像快不行了。"
+    T "[name]...我再也撑不住了。"
 
 # game/story/chapter_T2.rpy:1284
 translate Schinese toast_call_a_room_fit_for_king_76be8390:
@@ -2446,7 +2446,7 @@ translate Schinese toast_call_a_room_fit_for_king_76be8390:
 translate Schinese toast_call_a_room_fit_for_king_b715adb2:
 
     # p "{i}Is he coming onto me? But, his eyes look unfocused and he’s swaying from side to side.{/i}"
-    p "{b}他在挑逗我吗？可是他的目光呆滞，身体还左右摇摆。{/b}"
+    p "{b}他在挑逗我吗？可是他的目光呆滞，身体还在左右摇摆。{/b}"
 
 # game/story/chapter_T2.rpy:1289
 translate Schinese toast_call_a_room_fit_for_king_5216e5eb:
@@ -2734,13 +2734,13 @@ translate Schinese toast_call_a_room_fit_for_king_106ef13a:
 translate Schinese toast_call_a_room_fit_for_king_f0621ae9:
 
     # M "It’ll be easier if you surrender. I’m not letting you and your pet ghost have your way with the people of this town."
-    M "还不乖乖束手就擒，我是不会让你和你的幽灵宠物在镇上放肆的。"
+    M "乖乖束手就擒吧，我不会让你和你的幽灵宠物在这个镇上为所欲为的。"
 
 # game/story/chapter_T2.rpy:1463
 translate Schinese toast_call_a_room_fit_for_king_5f0b99ae:
 
     # p annoyed "You’re not listening to me. Argh, that’s it, you leave me no choice."
-    p annoyed "你怎么就是不听人说话呢。行，这是你逼我的。"
+    p annoyed "你怎么就是不听呢。行，这是你逼我的。"
 
 # game/story/chapter_T2.rpy:1465
 translate Schinese toast_call_a_room_fit_for_king_15bd1d09:
@@ -2878,7 +2878,7 @@ translate Schinese toast_call_a_room_fit_for_king_40366b15:
 translate Schinese toast_call_a_room_fit_for_king_eee97e0f:
 
     # "He undoes his magic circles, his pace is slow as he enters your unit, and as you go in you hope Toast is doing alright."
-    "他解除了自己的魔法阵，迈着缓慢的步伐走进你的房间。与此同时，你只希望Toast安然无恙。"
+    "他解除了他的魔法圈，迈着缓慢的步伐走进你的房间。与此同时，你只希望Toast安然无恙。"
 
 # game/story/chapter_T2.rpy:1527
 translate Schinese toast_call_a_room_fit_for_king_de9475ea:
@@ -3808,49 +3808,55 @@ translate Schinese strings:
 
     # game/story/chapter_T2.rpy:800
     old "Dominate him with your title"
-    new "用你的名号征服他"
+    new "用你的名号威吓他"
 
     # game/story/chapter_T2.rpy:800
     old "Pacify him with your weakness"
-    new "用你的软弱安抚他"
+    new "用你的柔弱安抚他"
 
     # game/story/chapter_T2.rpy:1848
     old "I want to say I thought this through, but I’m not sure anymore. Now, I’ve gotten tangled up with this ghost to save King. In exchange, I promised to help him get into Up Above... Oh boy, I don’t know if Gary is going to allow that. If Gary hasn’t said no, my promise isn’t a lie, right? I worry if this guy’s all that dependable. He has a temper for sure and is pretty reckless too. However, he’s been honest when he tries to help me. I hope this all works out, somehow."
-    new "我本以为自己下定了决心，却依旧摇摆不定。如今，我为了救King与那个幽灵纠缠在一起。作为交换，我答应他帮他去天界...天，我都不知道Gary会不会同意。但就算他反对，我又没有有食言，对吧？我更担心这家伙是否真的那么可靠。他无疑非常易怒，而且鲁莽，但他想要帮助的我心无疑是真诚的。总之，希望一切顺利吧。"
+    new "我本以为自己下定了决心，却依旧摇摆不定。如今，我为了救King与那个幽灵纠缠在一起。作为交换，我答应他帮他去天界...天，我连Gary那关都不知道能不能过呢。但就算他反对，我又不没有食言，对吧？我更担心这家伙是否真的那么可靠。他无疑非常暴躁，而且鲁莽，但他想要帮助的我心无疑是真诚的。总之，希望一切顺利吧。"
 
     # game/story/chapter_T2.rpy:1850
     old "I’ve met this guy, like twice, and he’s already trying to kill me? That’s a new record. He really despises demons and ghosts. To be fair, yes, our kind has a history of bewitching, possessing and even attempting to bend the will of mortal kind, but that was a long time ago. I’m different. I guess in the right light, his determination can be kind of sexy. A no-nonsense guy who’d do everything in his power to protect what he believes in. Punishing any demon that gets in his way... What am I writing?\nDespite his dubious hustle, Morris is tough. The end."
-    new "我才见过这家伙两次，他就想着杀我了？好一个新纪录，看来他真的很鄙视恶魔和幽灵。平心而论，我们是有蛊惑、附身，甚至扭曲凡人的意志的历史，但那已经是旧账了呀。我又不一样。不过换个角度看，他还挺性感的：一个不苟言笑的驱魔师，会竭尽所能地守护自己的信仰，铲除一切妨碍他的恶魔...我在写什么玩意儿？\n尽管Morris说自己很忙这件事值得怀疑，但他本人是条汉子。完毕。"
+    new "我才见过这家伙两次，他就想着杀我了？好个新纪录，看来他真的很鄙视恶魔和幽灵。平心而论，我们是有蛊惑、附身，甚至扭曲凡人的意志的历史，但那已经是旧账了呀。我又不一样。不过换个角度看，他还挺性感的：一个不苟言笑的驱魔师，会竭尽所能地守护自己的信仰，铲除一切妨碍他的恶魔...我在写什么玩意儿？\n尽管Morris说自己很忙这件事值得怀疑，但他本人是条汉子。完毕。"
 
-# TODO: Translation updated at 2022-08-24 15:44
+# TODO: Translation updated at 2022-08-25 11:58
 
 # game/story/chapter_T2.rpy:721
 translate Schinese chapter_T2_b874e796:
 
     # "Your head tenses at the conundrum presented to you. Without his friend, —even if his friend was a valid option in the first place— there’s no way now that Toast can help you."
-    "你顿时感到头疼不已。无论那位朋友是否能够派上用场，反正Toast是不能了。"
+    "Your head tenses at the conundrum presented to you. Without his friend, —even if his friend was a valid option in the first place— there’s no way now that Toast can help you."
 
 # game/story/chapter_T2.rpy:802
 translate Schinese chapter_T2_4c9271d9:
 
     # "Your eyes narrow."
-    "你很有眼光嘛。"
+    "Your eyes narrow."
+
+# game/story/chapter_T2.rpy:864
+translate Schinese chapter_T2_29ec888e:
+
+    # "You ponder your answers as your eyes flick between the hyena and at the abandoned toast in front of you."
+    "You ponder your answers as your eyes flick between the hyena and at the abandoned toast in front of you."
 
 # game/story/chapter_T2.rpy:1486
 translate Schinese toast_call_a_room_fit_for_king_91f769be:
 
     # p "Yes, there’s a strange person putting up weird papers around my apartment—"
-    p "是的，有个怪人正在我家附近张贴奇怪的纸-"
+    p "Yes, there’s a strange person putting up weird papers around my apartment—"
 
 # game/story/chapter_T2.rpy:1528
 translate Schinese toast_call_a_room_fit_for_king_d4b18b9e:
 
     # T @ angry "What's he doing here?"
-    T @ angry "这家伙怎么在这儿？"
+    T @ angry "What's he doing here?"
 
 # game/story/chapter_T2.rpy:1881
 translate Schinese toast_call_a_room_fit_for_king_b70dfd98:
 
     # T "No, I hum a song. I sang it to P.B whenever he had trouble falling asleep."
-    T "才不是呢，我会哼歌。每当P.B失眠，我都会唱歌给他听。"
+    T "No, I hum a song. I sang it to P.B whenever he had trouble falling asleep."
 
