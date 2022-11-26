@@ -3204,3 +3204,41 @@ translate Schinese a2s2_fec97169:
     # "To be continued..."
     "未完待续..."
 
+# TODO: Translation updated at 2022-11-26 22:32
+
+# game/a2s2.rpy:157
+translate Schinese a2s2_21887091:
+
+    # "...like himself."
+    "...like himself."
+
+# game/a2s2.rpy:644
+translate Schinese a2s2_0842f802:
+
+    # "A moment seems to blank out of existence from Cameron's memory because the next thing he knows, he's already standing up, the chair sliding back behind him."
+    "A moment seems to blank out of existence from Cameron's memory because the next thing he knows, he's already standing up, the chair sliding back behind him."
+
+# game/a2s2.rpy:683
+translate Schinese a2s2_c739c4cb:
+
+    # c "\"Oh my god,{w=0.3} why!?{w=0.4} It ruined my life!\""
+    c "\"Oh my god,{w=0.3} why!?{w=0.4} It ruined my life!\""
+
+# game/a2s2.rpy:723
+translate Schinese a2s2_dfe82f26:
+
+    # "But that's when odd, slightly curved glowing red lines begin expanding and shrinking behind his eyelids, and Cameron whines at the terrible reminder of what's going to happen."
+    "But that's when odd, slightly curved glowing red lines begin expanding and shrinking behind his eyelids, and Cameron whines at the terrible reminder of what's going to happen."
+
+# game/a2s2.rpy:730
+translate Schinese a2s2_435ac479:
+
+    # b "\"Listen! What you do next is gonna determine what's gonna happen to ya.\""
+    b "\"Listen! What you do next is gonna determine what's gonna happen to ya.\""
+
+# game/a2s2.rpy:736
+translate Schinese a2s2_900bfd02:
+
+    # b "\"I need you to talk to some folks I used to know.{w} If you're really one of those psychics, if you can fix my problems, I'll let you go like nothin' happened.\""
+    b "\"I need you to talk to some folks I used to know.{w} If you're really one of those psychics, if you can fix my problems, I'll let you go like nothin' happened.\""
+

@@ -6148,9 +6148,7 @@ translate Tchinese start_9d171fd9:
 translate Tchinese start_6c947f4d:
 
     # "And I don’t much like the idea of wading through the water to get back into it tomorrow."
-    "我努力不去想明天上船需要蹚水這一事實。"
-
-# TODO: Translation updated at 2022-09-02 01:09
+    "我努力不去想明天上船需要蹚水這一事實。"# TODO: Translation updated at 2022-11-26 22:36
 
 # game/script.rpy:120
 translate Tchinese start_36db0d2d:

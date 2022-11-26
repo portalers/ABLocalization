@@ -3108,3 +3108,17 @@ translate Schinese a1s3_90776cee:
     # "Then he pushes through, and tumbles into dark, thick, blackness."
     "然后他强行挤进窗口，跌入了伸手不见五指的黑暗之中。"
 
+# TODO: Translation updated at 2022-11-26 22:32
+
+# game/a1s3.rpy:37
+translate Schinese a1s3_22a34cb3:
+
+    # d "\"It was in the middle of the night!\""
+    d "\"It was in the middle of the night!\""
+
+# game/a1s3.rpy:372
+translate Schinese a1s3_05e90a5f:
+
+    # d "\"Super psychic? {w=0.3}As opposed to what, sorta psychic?\""
+    d "\"Super psychic? {w=0.3}As opposed to what, sorta psychic?\""
+

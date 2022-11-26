@@ -3898,4 +3898,275 @@ translate Tchinese a2s3_cb47dfcc:
 translate Tchinese a2s3_fec97169:
 
     # "To be continued..."
-    "未完待續..."
+    "未完待續..."# TODO: Translation updated at 2022-11-26 22:30
+
+# game/a2s3.rpy:111
+translate Tchinese a2s3_aa8f2806:
+
+    # c "\"Is Devon,{w=0.3} the bear.{cps=3}..{/cps}{w=0.4} is he still alive?\""
+    c "\"Is Devon,{w=0.3} the bear.{cps=3}..{/cps}{w=0.4} is he still alive?\""
+
+# game/a2s3.rpy:128
+translate Tchinese a2s3_07dbf9fe:
+
+    # "His tone sounds genuine, and even though Cameron will never trust him, he has to hold on to some hope."
+    "His tone sounds genuine, and even though Cameron will never trust him, he has to hold on to some hope."
+
+# game/a2s3.rpy:134
+translate Tchinese a2s3_ad42d10b:
+
+    # "Cameron isn't sure how best to respond to that, so he doesn't."
+    "Cameron isn't sure how best to respond to that, so he doesn't."
+
+# game/a2s3.rpy:151
+translate Tchinese a2s3_6c652800:
+
+    # c "\"And Arturo.{cps=3}..{/cps}{w=0.4} The cat?{w=0.3} Is he...\""
+    c "\"And Arturo.{cps=3}..{/cps}{w=0.4} The cat?{w=0.3} Is he...\""
+
+# game/a2s3.rpy:192
+translate Tchinese a2s3_8fe5accb:
+
+    # "That's his name: Arturo Herrera."
+    "That's his name: Arturo Herrera."
+
+# game/a2s3.rpy:204
+translate Tchinese a2s3_e6334b6d:
+
+    # "She was upset because another girl at school was being mean to her."
+    "She was upset because another girl at school was being mean to her."
+
+# game/a2s3.rpy:224
+translate Tchinese a2s3_150ae367:
+
+    # "...Cameron, THC cartridge, visions, ghosts, panic, bear, gunshot--"
+    "...Cameron, THC cartridge, visions, ghosts, panic, bear, gunshot--"
+
+# game/a2s3.rpy:270
+translate Tchinese a2s3_20fdae8f:
+
+    # c "\"...ruined my life...\""
+    c "\"...ruined my life...\""
+
+# game/a2s3.rpy:286
+translate Tchinese a2s3_1c4f6bc5:
+
+    # c "\"...me go!{w=0.3} I can't breathe...\""
+    c "\"...me go!{w=0.3} I can't breathe...\""
+
+# game/a2s3.rpy:289
+translate Tchinese a2s3_73d79feb:
+
+    # c "\"I'm sorry!{w=0.3} I'm sorry!\""
+    c "\"I'm sorry!{w=0.3} I'm sorry!\""
+
+# game/a2s3.rpy:292
+translate Tchinese a2s3_ea8eca2c:
+
+    # c "\"DEVON!{w=0.3} HELP ME!{w=0.3} DEVON!{w=0.3} DEVON!\""
+    c "\"DEVON!{w=0.3} HELP ME!{w=0.3} DEVON!{w=0.3} DEVON!\""
+
+# game/a2s3.rpy:351
+translate Tchinese a2s3_19427867:
+
+    # d "\"Please,{w=0.3} please help me.\""
+    d "\"Please,{w=0.3} please help me.\""
+
+# game/a2s3.rpy:365
+translate Tchinese a2s3_61ce15a5:
+
+    # "His teeth snap together, and the next thing the bear knows is that his head is resting against the metal cage partition that separates the back of the van from the seats." with vpunch
+    "His teeth snap together, and the next thing the bear knows is that his head is resting against the metal cage partition that separates the back of the van from the seats." with vpunch
+
+# game/a2s3.rpy:498
+translate Tchinese a2s3_5180e34f:
+
+    # b "\"Cameron!\"" with vpunch
+    b "\"Cameron!\"" with vpunch
+
+# game/a2s3.rpy:503
+translate Tchinese a2s3_69c661b0:
+
+    # c "\"Wh-What?{w=0.3} What is it?\""
+    c "\"Wh-What?{w=0.3} What is it?\""
+
+# game/a2s3.rpy:518
+translate Tchinese a2s3_ec23adcb:
+
+    # "Cameron isn't able to stand with his weak, shaking legs and sits down heavily on the ground, looking up at the looming bear." with vpunch
+    "Cameron isn't able to stand with his weak, shaking legs and sits down heavily on the ground, looking up at the looming bear." with vpunch
+
+# game/a2s3.rpy:519
+translate Tchinese a2s3_6414b990:
+
+    # b "\"Kept callin' your name and you wouldn't answer.{w} I told you to let me know if the visions were starting."
+    b "\"Kept callin' your name and you wouldn't answer.{w} I told you to let me know if the visions were starting."
+
+# game/a2s3.rpy:532
+translate Tchinese a2s3_594c2e3f:
+
+    # "Brian, the visions, the people he'd just felt, it's not an easy thing to just shrug off."
+    "Brian, the visions, the people he'd just felt, it's not an easy thing to just shrug off."
+
+# game/a2s3.rpy:548
+translate Tchinese a2s3_5619236e:
+
+    # "Cameron watches the luminous arches writhe about, convulsing, almost like they're mirroring the coyote's inner turmoil." with vpunch
+    "Cameron watches the luminous arches writhe about, convulsing, almost like they're mirroring the coyote's inner turmoil." with vpunch
+
+# game/a2s3.rpy:553
+translate Tchinese a2s3_97d0513d:
+
+    # b "\"Hm?{w=0.3} What's that you're sayin'?\""
+    b "\"Hm?{w=0.3} What's that you're sayin'?\""
+
+# game/a2s3.rpy:564
+translate Tchinese a2s3_7edd70c4:
+
+    # c "\"No-{w=0.3}Nothing!{w=0.3} Nothing!\""
+    c "\"No-{w=0.3}Nothing!{w=0.3} Nothing!\""
+
+# game/a2s3.rpy:568
+translate Tchinese a2s3_be78a4d4:
+
+    # "But to Cameron's relief, the bear pauses, then slowly drops his fist."
+    "But to Cameron's relief, the bear pauses, then slowly drops his fist."
+
+# game/a2s3.rpy:598
+translate Tchinese a2s3_ca361ae9:
+
+    # "He helps make sure she goes to bed at the right time."
+    "He helps make sure she goes to bed at the right time."
+
+# game/a2s3.rpy:602
+translate Tchinese a2s3_f5b52daf:
+
+    # "He told her she was definitely worth it, and that they just need to be prepared."
+    "He told her she was definitely worth it, and that they just need to be prepared."
+
+# game/a2s3.rpy:796
+translate Tchinese a2s3_5756a477:
+
+    # b "\"Why would I wanna see that shit when I got you? I don't like the ones out here, that's why I took it.{w} Wanna guess what I'm on?\""
+    b "\"Why would I wanna see that shit when I got you? I don't like the ones out here, that's why I took it.{w} Wanna guess what I'm on?\""
+
+# game/a2s3.rpy:850
+translate Tchinese a2s3_99f9ab58:
+
+    # b "\"Fuck! Gotta relax. It's been a... It's been a while, so I'm... gettin' a huge rush.{w} Gotta... remember, phew! I ain't as young as I used to be. My heart's probably gonna give any day now.\""
+    b "\"Fuck! Gotta relax. It's been a... It's been a while, so I'm... gettin' a huge rush.{w} Gotta... remember, phew! I ain't as young as I used to be. My heart's probably gonna give any day now.\""
+
+# game/a2s3.rpy:952
+translate Tchinese a2s3_506a6d2a:
+
+    # d "\"Please...{w=0.3} please.{cps=3}..{/cps}{w=0.4} please...\""
+    d "\"Please...{w=0.3} please.{cps=3}..{/cps}{w=0.4} please...\""
+
+# game/a2s3.rpy:974
+translate Tchinese a2s3_0c17fee9:
+
+    # "Either way, it's powerful, and Devon knows he probably won't be able to do much for another hour or two, so he lays down, trying to keep his ears open so he can be ready for the old bear if he comes back."
+    "Either way, it's powerful, and Devon knows he probably won't be able to do much for another hour or two, so he lays down, trying to keep his ears open so he can be ready for the old bear if he comes back."
+
+# game/a2s3.rpy:981
+translate Tchinese a2s3_02b1b9f3:
+
+    # unk "\"Matty!{w=0.3} MATEO!\""
+    unk "\"Matty!{w=0.3} MATEO!\""
+
+# game/a2s3.rpy:988
+translate Tchinese a2s3_91da41ca:
+
+    # centerdia "\"Why couldn't you just watch her!?\""
+    centerdia "\"Why couldn't you just watch her!?\""
+
+# game/a2s3.rpy:1004
+translate Tchinese a2s3_a31febc2:
+
+    # c "\"Devon!{w=0.3} It's me!{w=0.3} I'm here!\""
+    c "\"Devon!{w=0.3} It's me!{w=0.3} I'm here!\""
+
+# game/a2s3.rpy:1017
+translate Tchinese a2s3_fdb4bd78:
+
+    # d "\"N-No, no, none of us are okay, you're not okay.{w} I don't even know if you're alive.\""
+    d "\"N-No, no, none of us are okay, you're not okay.{w} I don't even know if you're alive.\""
+
+# game/a2s3.rpy:1022
+translate Tchinese a2s3_6f903a70:
+
+    # c "\"I'm doing this through like.{cps=3}..{/cps}{w=0.4} my mind,{w=0.3} I think?\""
+    c "\"I'm doing this through like.{cps=3}..{/cps}{w=0.4} my mind,{w=0.3} I think?\""
+
+# game/a2s3.rpy:1039
+translate Tchinese a2s3_2286e5aa:
+
+    # d "\"Yeah, you know what? Fuck you. FUCK. YOU. You are exactly what I was hoping you'd be. You don't exist.{w} My sick, fucked up mind is making up this version of you that I have no right to create, and, and--\""
+    d "\"Yeah, you know what? Fuck you. FUCK. YOU. You are exactly what I was hoping you'd be. You don't exist.{w} My sick, fucked up mind is making up this version of you that I have no right to create, and, and--\""
+
+# game/a2s3.rpy:1088
+translate Tchinese a2s3_1c46c3fc:
+
+    # c "\"Well, Brian drugged me with shrooms, and I'm tripping absolute balls right now.{w} Hallucinogens enhance my abilities, and I think I kinda created this space. I really can't make this stuff up.\""
+    c "\"Well, Brian drugged me with shrooms, and I'm tripping absolute balls right now.{w} Hallucinogens enhance my abilities, and I think I kinda created this space. I really can't make this stuff up.\""
+
+# game/a2s3.rpy:1099
+translate Tchinese a2s3_a7dc534f:
+
+    # c "\"You don't give psychedelics to someone you're trying to sedate.\""
+    c "\"You don't give psychedelics to someone you're trying to sedate.\""
+
+# game/a2s3.rpy:1100
+translate Tchinese a2s3_26bfca95:
+
+    # c "\"Anyway, it turns out I'm not that different from my mom. It's all arches. I see them when I take certain drugs.\""
+    c "\"Anyway, it turns out I'm not that different from my mom. It's all arches. I see them when I take certain drugs.\""
+
+# game/a2s3.rpy:1154
+translate Tchinese a2s3_1c857faf:
+
+    # d "\"Brian?{w=0.3} Is he there with you?\""
+    d "\"Brian?{w=0.3} Is he there with you?\""
+
+# game/a2s3.rpy:1201
+translate Tchinese a2s3_74878f7e:
+
+    # "Cameron screams, clawing and clutching at the huge fist on his ear, Brian twisting it viciously before lifting up so that Cameron's feet actually lift off the ground." with vpunch
+    "Cameron screams, clawing and clutching at the huge fist on his ear, Brian twisting it viciously before lifting up so that Cameron's feet actually lift off the ground." with vpunch
+
+# game/a2s3.rpy:1239
+translate Tchinese a2s3_f8104611:
+
+    # "He doesn't seem enraged that the coyote had been contacting Devon."
+    "He doesn't seem enraged that the coyote had been contacting Devon."
+
+# game/a2s3.rpy:1283
+translate Tchinese a2s3_1925d50f:
+
+    # centered "{cps=45}He's been shot in the head,{w=0.3} he's been hung from a tree,{p=0.3} he's been beaten to death,{w=0.3} he's swimming under an arch,{p=0.3} he's in a space shuttle smashing into the ocean,{w=0.3} he's a dead town."
+    centered "{cps=45}He's been shot in the head,{w=0.3} he's been hung from a tree,{p=0.3} he's been beaten to death,{w=0.3} he's swimming under an arch,{p=0.3} he's in a space shuttle smashing into the ocean,{w=0.3} he's a dead town."
+
+# game/a2s3.rpy:1285
+translate Tchinese a2s3_b465af3a:
+
+    # centered "{cps=45}Dead,{w=0.3} but with working reflexes,{w=0.3} using{p=0.01} tools still clutched in its grasp."
+    centered "{cps=45}Dead,{w=0.3} but with working reflexes,{w=0.3} using{p=0.01} tools still clutched in its grasp."
+
+# game/a2s3.rpy:1286
+translate Tchinese a2s3_a60278ec:
+
+    # centered "{cps=45}Cameron disappears,{w=0.3} and these thoughts{p=0.01} and feelings are no longer his,{w=0.3} because he isn't who he is."
+    centered "{cps=45}Cameron disappears,{w=0.3} and these thoughts{p=0.01} and feelings are no longer his,{w=0.3} because he isn't who he is."
+
+# game/a2s3.rpy:1287
+translate Tchinese a2s3_49969722:
+
+    # centered "{cps=45}He is everything."
+    centered "{cps=45}He is everything."
+
+# game/a2s3.rpy:1288
+translate Tchinese a2s3_2795cc1a:
+
+    # centered "{cps=45}And because of that,{w=0.3} he can see everything."
+    centered "{cps=45}And because of that,{w=0.3} he can see everything."
+

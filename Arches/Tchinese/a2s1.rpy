@@ -3480,3 +3480,59 @@ translate Tchinese a2s1_2c6b6ba2:
     # "He's holding a shotgun."
     "端著一柄獵槍的熊。"
 
+# TODO: Translation updated at 2022-11-26 22:30
+
+# game/a2s1.rpy:75
+translate Tchinese a2s1_267c7e61:
+
+    # c "\"Artie? {w=0.3}Guys? {w=0.3}You can't really be doing this to me, right?\""
+    c "\"Artie? {w=0.3}Guys? {w=0.3}You can't really be doing this to me, right?\""
+
+# game/a2s1.rpy:99
+translate Tchinese a2s1_56bcace0:
+
+    # d "\"Cameron!? {w=0.3}Honey, {w=0.3}are you in here?\""
+    d "\"Cameron!? {w=0.3}Honey, {w=0.3}are you in here?\""
+
+# game/a2s1.rpy:118
+translate Tchinese a2s1_5edb4dce:
+
+    # "{i}{cps=40}Something happened...{w=0.4} It's a little complicated...{/i}"
+    "{i}{cps=40}Something happened...{w=0.4} It's a little complicated...{/i}"
+
+# game/a2s1.rpy:835
+translate Tchinese a2s1_8701d45e:
+
+    # unk3 "{sc}{font=ui/raven.ttf}\"No! {w=0.3}Get away!\"{/sc}"
+    unk3 "{sc}{font=ui/raven.ttf}\"No! {w=0.3}Get away!\"{/sc}"
+
+# game/a2s1.rpy:837
+translate Tchinese a2s1_6f72d4d5:
+
+    # unk3 "{sc}{font=ui/raven.ttf}\"Stupid fucking cunt! {w=0.3}Cheating whore!\"{/sc}"
+    unk3 "{sc}{font=ui/raven.ttf}\"Stupid fucking cunt! {w=0.3}Cheating whore!\"{/sc}"
+
+# game/a2s1.rpy:840
+translate Tchinese a2s1_9a8796e6:
+
+    # unk3 "{sc}{font=ui/raven.ttf}\"He's dead, {w=0.3}you can stop now.\"{/sc}"
+    unk3 "{sc}{font=ui/raven.ttf}\"He's dead, {w=0.3}you can stop now.\"{/sc}"
+
+# game/a2s1.rpy:841
+translate Tchinese a2s1_c4391f82:
+
+    # unk3 "{sc}{font=ui/raven.ttf}\"Naw, {w=0.3}he's still twitching.\"{/sc}"
+    unk3 "{sc}{font=ui/raven.ttf}\"Naw, {w=0.3}he's still twitching.\"{/sc}"
+
+# game/a2s1.rpy:847
+translate Tchinese a2s1_908fe30d:
+
+    # unk3 "{sc}{font=ui/raven.ttf}\"If you let me go, {w=0.3}I won't tell anyone. {w=0.4}I swear to God!\"{/sc}"
+    unk3 "{sc}{font=ui/raven.ttf}\"If you let me go, {w=0.3}I won't tell anyone. {w=0.4}I swear to God!\"{/sc}"
+
+# game/a2s1.rpy:849
+translate Tchinese a2s1_0713dc66:
+
+    # unk3 "{sc}{font=ui/raven.ttf}\"Stop! {w=0.3}Stop! {w=0.3}Just Stop!\"{/sc}"
+    unk3 "{sc}{font=ui/raven.ttf}\"Stop! {w=0.3}Stop! {w=0.3}Just Stop!\"{/sc}"
+

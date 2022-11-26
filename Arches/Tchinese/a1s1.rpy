@@ -3888,3 +3888,179 @@ translate Tchinese a1s1_f6f8b90b:
     # "The floor seems to fall out from under Devon, and he feels like he's falling into an abyss."
     "腳下的地板彷彿塌了下去，Devon感到自己如墜深淵。"
 
+# TODO: Translation updated at 2022-11-26 22:30
+
+# game/a1s1.rpy:32
+translate Tchinese a1s1_ff0d2057:
+
+    # "But now, when it matters most, he can't do it."
+    "But now, when it matters most, he can't do it."
+
+# game/a1s1.rpy:33
+translate Tchinese a1s1_f52b6fde:
+
+    # "The fastest freshman at a D1 university is no faster than an old druggie."
+    "The fastest freshman at a D1 university is no faster than an old druggie."
+
+# game/a1s1.rpy:36
+translate Tchinese a1s1_276b4863:
+
+    # "The man had given him something.{w} He'd told him it was for the pain, but the pain is still there, and now he can't even stand."
+    "The man had given him something.{w} He'd told him it was for the pain, but the pain is still there, and now he can't even stand."
+
+# game/a1s1.rpy:37
+translate Tchinese a1s1_d38fe481:
+
+    # "His balance is shot and he keeps stumbling until he's just crawling on all fours."
+    "His balance is shot and he keeps stumbling until he's just crawling on all fours."
+
+# game/a1s1.rpy:39
+translate Tchinese a1s1_299b9d48:
+
+    # "This makes him realize something else: {w}He's going to die."
+    "This makes him realize something else: {w}He's going to die."
+
+# game/a1s1.rpy:41
+translate Tchinese a1s1_63cee6f8:
+
+    # "He lays there in the dirt, sobbing, even though tears don't come out."
+    "He lays there in the dirt, sobbing, even though tears don't come out."
+
+# game/a1s1.rpy:42
+translate Tchinese a1s1_57b06010:
+
+    # "He'd run out of those after all the things the man did to him."
+    "He'd run out of those after all the things the man did to him."
+
+# game/a1s1.rpy:51
+translate Tchinese a1s1_064206e8:
+
+    # "His mother is a devout Catholic, and even though he never believed, he promises this light that he'll become a believer right here and now if it saves him."
+    "His mother is a devout Catholic, and even though he never believed, he promises this light that he'll become a believer right here and now if it saves him."
+
+# game/a1s1.rpy:69
+translate Tchinese a1s1_a3505dbb:
+
+    # "At the time, he'd just rolled his eyes and didn't respond."
+    "At the time, he'd just rolled his eyes and didn't respond."
+
+# game/a1s1.rpy:70
+translate Tchinese a1s1_fb7a94ce:
+
+    # "He thought he'd be able to do that the next day, or the day after that."
+    "He thought he'd be able to do that the next day, or the day after that."
+
+# game/a1s1.rpy:71
+translate Tchinese a1s1_8c685078:
+
+    # "After he'd been kidnapped, the man took his phone and sat it on the counter."
+    "After he'd been kidnapped, the man took his phone and sat it on the counter."
+
+# game/a1s1.rpy:79
+translate Tchinese a1s1_21688229:
+
+    # centertext "{cps=1}...{w=1.0}{nw}"
+    centertext "{cps=1}...{w=1.0}{nw}"
+
+# game/a1s1.rpy:80
+translate Tchinese a1s1_922a6e4b:
+
+    # centertext "But there's nothing."
+    centertext "But there's nothing."
+
+# game/a1s1.rpy:87
+translate Tchinese a1s1_b794033c:
+
+    # "Cameron holds on to the seat tightly, the coyote's teeth rattling together with every pothole they hit."
+    "Cameron holds on to the seat tightly, the coyote's teeth rattling together with every pothole they hit."
+
+# game/a1s1.rpy:117
+translate Tchinese a1s1_ab38c3f9:
+
+    # d "\"Nicer weather, {w=0.3}nicer scenery, {w=0.3}and nicer people.\""
+    d "\"Nicer weather, {w=0.3}nicer scenery, {w=0.3}and nicer people.\""
+
+# game/a1s1.rpy:122
+translate Tchinese a1s1_5c33a566:
+
+    # c "\"Normal ones?{w=0.3} The ones that baptize dead people and wear Jesus jammies under their clothes?\""
+    c "\"Normal ones?{w=0.3} The ones that baptize dead people and wear Jesus jammies under their clothes?\""
+
+# game/a1s1.rpy:234
+translate Tchinese a1s1_0d4f6bf6:
+
+    # d "\"O-Okay.{w} Um, {w=0.3}but while I'm giving you that sec, {w=0.3}I'm sorry for teasing you and being all gross.\""
+    d "\"O-Okay.{w} Um, {w=0.3}but while I'm giving you that sec, {w=0.3}I'm sorry for teasing you and being all gross.\""
+
+# game/a1s1.rpy:309
+translate Tchinese a1s1_0b52989f:
+
+    # d "\"But seriously, {w=0.3}if you ever feel like.{cps=3}..{/cps}{w=0.4} I dunno, {w=0.3}you're just not into it, just let me know.\""
+    d "\"But seriously, {w=0.3}if you ever feel like.{cps=3}..{/cps}{w=0.4} I dunno, {w=0.3}you're just not into it, just let me know.\""
+
+# game/a1s1.rpy:324
+translate Tchinese a1s1_99d184bc:
+
+    # c "\"That we have a purpose in life, {w=0.3}a {i}reason{/i}.\""
+    c "\"That we have a purpose in life, {w=0.3}a {i}reason{/i}.\""
+
+# game/a1s1.rpy:325
+translate Tchinese a1s1_4e3b6bfd:
+
+    # c "\"Reason, {w=0.3}purpose, {w=0.3}and the meaning of life means nothing to the universe.\""
+    c "\"Reason, {w=0.3}purpose, {w=0.3}and the meaning of life means nothing to the universe.\""
+
+# game/a1s1.rpy:459
+translate Tchinese a1s1_71032f10:
+
+    # "Devon frowns as they pull into the parking lot of the motel, staring at the graffiti-covered walls."
+    "Devon frowns as they pull into the parking lot of the motel, staring at the graffiti-covered walls."
+
+# game/a1s1.rpy:550
+translate Tchinese a1s1_c696ee31:
+
+    # d "\"Yo, Cam.\""
+    d "\"Yo, Cam.\""
+
+# game/a1s1.rpy:553
+translate Tchinese a1s1_1c948f78:
+
+    # c "\"See? Number 8. And the door over there is number 3.\""
+    c "\"See? Number 8. And the door over there is number 3.\""
+
+# game/a1s1.rpy:554
+translate Tchinese a1s1_bfb97470:
+
+    # c "\"So, counting in this direction--\""
+    c "\"So, counting in this direction--\""
+
+# game/a1s1.rpy:611
+translate Tchinese a1s1_ff182db6:
+
+    # d "\"--he says something horrific happens between a backpacker and an Outback redneck every other year, or so.\""
+    d "\"--he says something horrific happens between a backpacker and an Outback redneck every other year, or so.\""
+
+# game/a1s1.rpy:867
+translate Tchinese a1s1_f3c1a9ef_1:
+
+    # ".{cps=1}..{/cps}{w=1.0}{nw}"
+    ".{cps=1}..{/cps}{w=1.0}{nw}"
+
+# game/a1s1.rpy:900
+translate Tchinese a1s1_cff625bd:
+
+    # d "\"Yo, {w=0.3}Lupita! {w=0.3}Tell my boyfriend what it's like.\""
+    d "\"Yo, {w=0.3}Lupita! {w=0.3}Tell my boyfriend what it's like.\""
+
+# game/a1s1.rpy:942
+translate Tchinese a1s1_b437df31:
+
+    # d "\"Wait! {w=0.3}Stop!\""
+    d "\"Wait! {w=0.3}Stop!\""
+
+# game/a1s1.rpy:957
+translate Tchinese a1s1_c7250a1b:
+
+    # d "\"Okay, okay. {w}Just take deep breaths, {w=0.3}okay?\""
+    d "\"Okay, okay. {w}Just take deep breaths, {w=0.3}okay?\""
+

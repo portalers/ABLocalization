@@ -4020,3 +4020,71 @@ translate Tchinese a1s2_8f5367b5:
     # "He needs this."
     "他必須這麼做。"
 
+# TODO: Translation updated at 2022-11-26 22:30
+
+# game/a1s2.rpy:94
+translate Tchinese a1s2_34748316:
+
+    # "Yet.{cps=3}..{/cps}{w=0.4} there it is, {w=0.4}right in front of them."
+    "Yet.{cps=3}..{/cps}{w=0.4} there it is, {w=0.4}right in front of them."
+
+# game/a1s2.rpy:180
+translate Tchinese a1s2_dc0a8e49:
+
+    # "Cameron flinches and raises his arms up, crossing one wrist over the other, covering his face like he thinks Dev is going to..." with vpunch
+    "Cameron flinches and raises his arms up, crossing one wrist over the other, covering his face like he thinks Dev is going to..." with vpunch
+
+# game/a1s2.rpy:246
+translate Tchinese a1s2_0922430e:
+
+    # d "\"Uh, not really. Just surprised me.\""
+    d "\"Uh, not really. Just surprised me.\""
+
+# game/a1s2.rpy:681
+translate Tchinese a1s2_39f9acac:
+
+    # d "\"Ahh!\"" with vpunch
+    d "\"Ahh!\"" with vpunch
+
+# game/a1s2.rpy:745
+translate Tchinese a1s2_54fae032:
+
+    # "Dev's large rear hits the ground with a thump as he reaches down to massage the back of his thigh." with vpunch
+    "Dev's large rear hits the ground with a thump as he reaches down to massage the back of his thigh." with vpunch
+
+# game/a1s2.rpy:1053
+translate Tchinese a1s2_d21ee14f:
+
+    # "Cameron tries to lighten the mood a bit, not liking the conflicts they're having on this little \"trip\"."
+    "Cameron tries to lighten the mood a bit, not liking the conflicts they're having on this little \"trip\"."
+
+# game/a1s2.rpy:1084
+translate Tchinese a1s2_d098e42f:
+
+    # "Devon frowns deeply at the coyote."
+    "Devon frowns deeply at the coyote."
+
+# game/a1s2.rpy:1085
+translate Tchinese a1s2_807ab3a7:
+
+    # d "\"Listen, babe. I know you can see things that I can't and all, but I gotta be honest and say that no one's gonna care.{w} They're dead; the girl and more than likely her ex, too.\""
+    d "\"Listen, babe. I know you can see things that I can't and all, but I gotta be honest and say that no one's gonna care.{w} They're dead; the girl and more than likely her ex, too.\""
+
+# game/a1s2.rpy:1088
+translate Tchinese a1s2_084cb9c4:
+
+    # c "\"And she might have siblings who are still alive, or...{w} I dunno, I think {i}someone{/i} probably gives enough of a shit to want to know!\""
+    c "\"And she might have siblings who are still alive, or...{w} I dunno, I think {i}someone{/i} probably gives enough of a shit to want to know!\""
+
+# game/a1s2.rpy:1152
+translate Tchinese a1s2_5ea7bf4e:
+
+    # "Devon sounds incredulous and Cameron can understand why, but despite what the bear said moments ago, he still wanted to explore further."
+    "Devon sounds incredulous and Cameron can understand why, but despite what the bear said moments ago, he still wanted to explore further."
+
+# game/a1s2.rpy:1157
+translate Tchinese a1s2_3d8e13d9:
+
+    # "Devon looks down at Cameron, apparently at a loss for words."
+    "Devon looks down at Cameron, apparently at a loss for words."
+
