@@ -4086,5 +4086,5 @@ translate Schinese a1s2_5ea7bf4e:
 translate Schinese a1s2_3d8e13d9:
 
     # "Devon looks down at Cameron, apparently at a loss for words."
-    "Dev看向Cameron，不知说什么才好。"
+    "Dev看着Cameron，不知说什么才好。"
 
