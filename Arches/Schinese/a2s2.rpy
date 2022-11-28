@@ -4,7 +4,7 @@
 translate Schinese a2s2_3f669028:
 
     # "Devon stares, feeling himself become oddly detached from the situation."
-    "Devon呆呆注视着对方，感觉眼前看到的一切都不真实。"
+    "Devon呆呆注视着对方，感觉眼前的一切是那么的超现实。"
 
 # game/a2s2.rpy:4
 translate Schinese a2s2_111328cc:
