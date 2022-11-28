@@ -3240,5 +3240,5 @@ translate Schinese a2s2_435ac479:
 translate Schinese a2s2_900bfd02:
 
     # b "\"I need you to talk to some folks I used to know.{w} If you're really one of those psychics, if you can fix my problems, I'll let you go like nothin' happened.\""
-    b "\"我呢，想让你跟几个故人见见。{w}如果你当真是灵媒，治好了我的心病，我自然会放你一马。\""
+    b "\"我呢，想让你跟几个故人见见。{w}如果你当真是灵媒，治好了我的心病，我自然不会为难你。\""
 
