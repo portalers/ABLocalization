@@ -76,19 +76,19 @@ translate Schinese a1s3_6a3b6b7c:
 translate Schinese a1s3_0e26a6fd:
 
     # d "\"It was in the middle of the night, so you know, shadows and shit.\""
-    d "\"当时正值半夜，你也知道，影子之类乱七八糟的。\""
+    d "\"当时正值午夜，你也知道，影子之类乱七八糟的。\""
 
 # game/a1s3.rpy:31
 translate Schinese a1s3_13c38ed1:
 
     # a "\"Huh, hard to imagine you overreacting like that, Dev.{w} Glad you guys are okay though. Must have been rough looking at how deep the tires went.\""
-    a "\"没想到你也会这么大惊小怪的，Dev，{w}不过人没事就好。看这轮胎陷得，你们一定遭罪了。\""
+    a "\"没想到你也会这么大惊小怪的，Dev，{w}不过人没事就好。看这轮胎陷得，你们一定遭老鼻子罪了。\""
 
 # game/a1s3.rpy:33
 translate Schinese a1s3_b3369a68:
 
     # d "\"It was. Hey, how long do you need to recharge for the drive? I can take the wheel if you're too worn out.\""
-    d "\"的确。那啥，你要休息多久才能开？实在累得慌我可以替你。\""
+    d "\"确实。我说，你到底要休息多久？实在不行我替你开。\""
 
 # game/a1s3.rpy:35
 translate Schinese a1s3_c96139ca:
@@ -3114,11 +3114,11 @@ translate Schinese a1s3_90776cee:
 translate Schinese a1s3_22a34cb3:
 
     # d "\"It was in the middle of the night!\""
-    d "\"It was in the middle of the night!\""
+    d "\"当时正值午夜啊！\""
 
 # game/a1s3.rpy:372
 translate Schinese a1s3_05e90a5f:
 
     # d "\"Super psychic? {w=0.3}As opposed to what, sorta psychic?\""
-    d "\"Super psychic? {w=0.3}As opposed to what, sorta psychic?\""
+    d "\"超级灵媒？{w=0.4}对比什么的，半吊子灵媒？\""
 
