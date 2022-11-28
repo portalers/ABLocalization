@@ -7026,7 +7026,7 @@ translate Schinese start_c133b04f:
 translate Schinese start_ae8d2579:
 
     # to "\"The Angry Anchors? All right, let's goooo!\""
-    to "“愤怒的锚？看起来很酷嘛！”
+    to "“愤怒的锚？看起来很酷嘛！”"
 
 # game/script.rpy:1860
 translate Schinese start_f2cf7d84:
@@ -7418,3 +7418,25 @@ translate Schinese start_12099bcc:
     # wi "\"Feels to me like there’s enough scares if life that you don’t need to go lookin’ for ‘em.\""
     wi "“不用刻意去找，人这一生需要害怕的已经够多了。”"
 
+#衣服选项
+translate Schinese strings:
+    old "Shirt"
+    new "  衬衫"
+
+    old "Shorts"
+    new "  短裤"
+
+    old "Armbands"
+    new "  臂带"
+
+    old "Accessory 1 (Behind)"
+    new "配件1 (后方)"
+
+    old "Accessory 2 (Front)"
+    new "配件2 (前方)"
+
+    old "Accessory 1 (Back)"
+    new "配件1 (后方)"
+
+    old "Save Outfit"
+    new "保存服装"

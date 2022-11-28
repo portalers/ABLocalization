@@ -22,7 +22,7 @@ translate Tchinese start_f0b23352:
 translate Tchinese start_c59e2e9c:
 
     # wi "“That should have made everything go faster, not the other way around.”"
-    wi "“他們理應速去速回，而不是搞得拖拖拉拉。”"
+    wi "“他們應該快去快回，而不是搞得拖拖拉拉。”"
 
 # game/script.rpy:78
 translate Tchinese start_a52f4c93:
@@ -514,7 +514,7 @@ translate Tchinese start_1d37b680:
 translate Tchinese start_ed7e1538:
 
     # "The inside of Nik’s ears burn bright red and he looks like he’s about to die."
-    "Nik的耳郭燒得通紅，怕不是要原地去世。"
+    "Nik的耳廓燒得通紅，怕不是要原地升天。"
 
 # game/script.rpy:239
 translate Tchinese start_fb70dcdf:
@@ -718,7 +718,7 @@ translate Tchinese start_ffd9bfb7:
 translate Tchinese start_311a96bf:
 
     # m "“So what are the sweat bands for?”"
-    m "“所以那兩條吸汗帶是幹嘛用的？”"
+    m "“所以那兩條止汗帶是幹嘛用的？”"
 
 # game/script.rpy:317
 translate Tchinese start_d2ff7946:
@@ -748,7 +748,7 @@ translate Tchinese start_40d6a2f0:
 translate Tchinese start_63a840a4:
 
     # cl "“...so is that why you went for the sweat bands?”"
-    cl "“……於是你最終選擇了吸汗帶？”"
+    cl "“……於是你最終選擇了止汗帶？”"
 
 # game/script.rpy:332
 translate Tchinese start_0e20c076:
@@ -760,7 +760,7 @@ translate Tchinese start_0e20c076:
 translate Tchinese start_09c3573a:
 
     # to "“Sweat bands mean I have double the wrist protection.”"
-    to "“吸汗帶可以為我的手腕帶來雙重保護。”"
+    to "“止汗帶可以為我的手腕帶來雙重保護。”"
 
 # game/script.rpy:335
 translate Tchinese start_0466f6bf:
@@ -1162,7 +1162,7 @@ translate Tchinese start_71646b53:
 translate Tchinese start_b6cd9117:
 
     # m "“Bums me out.”"
-    m "“你可拉倒吧。”"
+    m "“糟透了。”"
 
 # game/script.rpy:492
 translate Tchinese start_77faf802:
@@ -1672,7 +1672,7 @@ translate Tchinese start_af264788:
 translate Tchinese start_f243514a:
 
     # m "“Hop any higher, Cliff, and you might take off.”"
-    m "“再嗨一點，你都能原地升天了，Cliff。”"
+    m "“再嗨一點，你就能原地升天了，Cliff。”"
 
 # game/script.rpy:619
 translate Tchinese start_a2f995e7:
@@ -1864,7 +1864,7 @@ translate Tchinese start_867659e5:
 translate Tchinese start_d8aea6b6:
 
     # wi "“You would say that.”"
-    wi "“你就吹吧。”"
+    wi "“都給你講。”"
 
 # game/script.rpy:707
 translate Tchinese start_278add53:
@@ -1900,7 +1900,7 @@ translate Tchinese start_71c0e939:
 translate Tchinese start_b91fdb1b:
 
     # wi "“That can’t be that hard.”"
-    wi "“有那麼誇張嗎。”"
+    wi "“有那麼誇張嗎？”"
 
 # game/script.rpy:722
 translate Tchinese start_210d4485:
@@ -1978,7 +1978,7 @@ translate Tchinese start_ca5125ed:
 translate Tchinese start_5e26d6c6:
 
     # "I feel splashes of cold water on my face before I can see Will’s water gun."
-    "我還來不及看清Will的水槍，就被冷水糊了一臉。"
+    "我還來不及看清Will的水槍，就被冷水噴了一臉。"
 
 # game/script.rpy:751
 translate Tchinese start_f8a534b7:
@@ -2008,7 +2008,7 @@ translate Tchinese start_a0695919:
 translate Tchinese start_9365d492:
 
     # m "“So be nice to me.”"
-    m "“所以都放乖點。”"
+    m "“所以照子給我放亮點。”"
 
 # game/script.rpy:762
 translate Tchinese start_c2051756:
@@ -2452,7 +2452,7 @@ translate Tchinese start_7b388ca4:
 translate Tchinese start_f8ea8190:
 
     # ni "“We aren’t wearing this at the pier, right?”"
-    ni "“我們在碼頭上不穿這身吧？”"
+    ni "“我們在碼頭上不會這樣穿吧？”"
 
 # game/script.rpy:942
 translate Tchinese start_0ad4e83c:
@@ -4852,7 +4852,7 @@ translate Tchinese start_3a8c3849:
 translate Tchinese start_3d68ba70:
 
     # m "“Wait, don’t you mean a squid?”"
-    m "“等一下，你的意思是，烏賊？”"
+    m "“等一下，你的意思是，魷魚？”"
 
 # game/script.rpy:1839
 translate Tchinese start_90c52bed:
@@ -6148,1271 +6148,1295 @@ translate Tchinese start_9d171fd9:
 translate Tchinese start_6c947f4d:
 
     # "And I don’t much like the idea of wading through the water to get back into it tomorrow."
-    "我努力不去想明天上船需要蹚水這一事實。"# TODO: Translation updated at 2022-11-26 22:36
+    "我努力不去想明天上船需要蹚水這一事實。"
+
+# TODO: Translation updated at 2022-11-26 22:36
 
 # game/script.rpy:120
 translate Tchinese start_36db0d2d:
 
     # "Me and will have turned around in our seats and we’re starin’ at him."
-    "Me and will have turned around in our seats and we’re starin’ at him."
+    "我跟Will回頭望向他。"
 
 # game/script.rpy:127
 translate Tchinese start_acc43adf:
 
     # ni "\"Chocolate. Chocolate mint. Chocolate Strawberry. Blueberry Muffin.\""
-    ni "\"Chocolate. Chocolate mint. Chocolate Strawberry. Blueberry Muffin.\""
+    ni "“巧克力、巧克力薄荷、巧克力草莓、藍莓瑪芬。”"
 
 # game/script.rpy:131
 translate Tchinese start_7b74a156:
 
     # ni "\"The kind you can only find during easter.\""
-    ni "\"The kind you can only find during easter.\""
+    ni "“復活節限定的那種。”"
 
 # game/script.rpy:142
 translate Tchinese start_12abb83c:
 
     # "Will snorts through his nose and taps at the mounted phone at his dashboard."
-    "Will snorts through his nose and taps at the mounted phone at his dashboard."
+    "Will不屑地哼了聲，敲了敲固定在儀錶盤上的手機。"
 
 # game/script.rpy:149
 translate Tchinese start_b2d3267c:
 
     # to "\"Well Howdy William!\""
-    to "\"Well Howdy William!\""
+    to "“你好呀，William！”"
 
 # game/script.rpy:154
 translate Tchinese start_74340117:
 
     # to "\"Well we’re already in line, it’s just a really nice store.\""
-    to "\"Well we’re already in line, it’s just a really nice store.\""
+    to "“我們已經在排隊了，只是這家店太熱門啦。”"
 
 # game/script.rpy:166
 translate Tchinese start_df39bee8:
 
     # to "\"It matters William.\""
-    to "\"It matters William.\""
+    to "“這很重要，William。”"
 
 # game/script.rpy:172
 translate Tchinese start_d1fa784a:
 
     # to "\"It’s the creamy Queso and the crunch corn chip that makes the nacho such a delightful treat.\""
-    to "\"It’s the creamy Queso and the crunch corn chip that makes the nacho such a delightful treat.\""
+    to "“乳香四溢的乳酪配上又酥又脆的玉米片，這才是一道完整的美味。”"
 
 # game/script.rpy:181
 translate Tchinese start_ed050d98:
 
     # mu "\"He’s right you know.\""
-    mu "\"He’s right you know.\""
+    mu "“沒錯沒錯。”"
 
 # game/script.rpy:201
 translate Tchinese start_6947bd15:
 
     # m "\"Aint gotta be stranded if they wait long enough for the right trucker.\""
-    m "\"Aint gotta be stranded if they wait long enough for the right trucker.\""
+    m "“沒人會被困在這裡的，只要一直等，總能遇上好心的司機。”"
 
 # game/script.rpy:223
 translate Tchinese start_b5695892:
 
     # m "\"You know, if you asked I could be as nasty as--.\""
-    m "\"You know, if you asked I could be as nasty as--.\""
+    m "“不過你喜歡的話，我也不是不可以──”"
 
 # game/script.rpy:234
 translate Tchinese start_e3fd6328:
 
     # cl "\"Well all I had to do is lift my paw and could feel all of this sexual tension coalesce on the breeze and I just had to make my appearance.\""
-    cl "\"Well all I had to do is lift my paw and could feel all of this sexual tension coalesce on the breeze and I just had to make my appearance.\""
+    cl "“我只需要抬起爪子，感受在微風中躁動的荷爾蒙，接著我就閃亮登場啦。”"
 
 # game/script.rpy:239
 translate Tchinese start_e0eb52da:
 
     # "Will looks like he had just accidentally ran over somebody and his foot was close to the petal."
-    "Will looks like he had just accidentally ran over somebody and his foot was close to the petal."
+    "Will則是像不小心撞到誰一樣，把腳懸在油門上方。"
 
 # game/script.rpy:296
 translate Tchinese start_34a0f081:
 
     # to "\"Well of course I did!\""
-    to "\"Well of course I did!\""
+    to "“那是當然！”"
 
 # game/script.rpy:320
 translate Tchinese start_c251eed7:
 
     # to "\"Well we’re not gonna be in the truck the whole day.\""
-    to "\"Well we’re not gonna be in the truck the whole day.\""
+    to "“但也不是一路都要待在車裡嘛。”"
 
 # game/script.rpy:326
 translate Tchinese start_7345ad2d:
 
     # to "\"I could have had leather straps instead, but the man at the mall told me people only wear just one of those, and it felt weird to wear too asymmetrical.\""
-    to "\"I could have had leather straps instead, but the man at the mall told me people only wear just one of those, and it felt weird to wear too asymmetrical.\""
+    to "“我本來想用皮帶代替，不過店裡的人說這東西一般綁一條就夠了，而且我又不喜歡不對稱穿搭。”"
 
 # game/script.rpy:329
 translate Tchinese start_bdd181cb:
 
     # cl "\"...So is that why you went for the sweat bands?\""
-    cl "\"...So is that why you went for the sweat bands?\""
+    cl "“……然後你最終選擇了止汗帶？”"
 
 # game/script.rpy:332
 translate Tchinese start_8c1b8593:
 
     # to "\"Well of course!\""
-    to "\"Well of course!\""
+    to "“正確！”"
 
 # game/script.rpy:344
 translate Tchinese start_a9ff8fc1:
 
     # to "\"Well at least HE has some taste!\""
-    to "\"Well at least HE has some taste!\""
+    to "“至少{b}他{/b}的品味還不錯！”"
 
 # game/script.rpy:363
 translate Tchinese start_bb0638dc:
 
     # to "\"You’d be surprised how many stories I hear about young people trying to steal stores.\""
-    to "\"You’d be surprised how many stories I hear about young people trying to steal stores.\""
+    to "“沒想到吧，不少年輕人都對物資儲備點虎視眈眈呢。”"
 
 # game/script.rpy:376
 translate Tchinese start_81a3918b:
 
     # to "\"Well how’d they get caught?!\""
-    to "\"Well how’d they get caught?!\""
+    to "“他們是怎麼落網的？！”"
 
 # game/script.rpy:431
 translate Tchinese start_4d7d3713:
 
     # ni "\"Bait box.\""
-    ni "\"Bait box.\""
+    ni "\"餌料盒。\""
 
 # game/script.rpy:458
 translate Tchinese start_af7b0d41:
 
     # wi "\"Six people aint gonna fit in these seats.\""
-    wi "\"Six people aint gonna fit in these seats.\""
+    wi "“車裡可容不下六個人。”"
 
 # game/script.rpy:461
 translate Tchinese start_c2bcbb4e:
 
     # ni "\"I do not mind being the junk in your trunk William.\""
-    ni "\"I do not mind being the junk in your trunk William.\""
+    ni "“我不介意去你的後庭一遊，William。”"
 
 # game/script.rpy:486
 translate Tchinese start_29396df7:
 
     # to "\"Aint that a gay disease?\""
-    to "\"Aint that a gay disease?\""
+    to "“那不是個只傳染同性戀的疾病嗎？”"
 
 # game/script.rpy:490
 translate Tchinese start_0a6d6d63:
 
     # wi "\" It’s good sometimes when the radio is educational.\""
-    wi "\" It’s good sometimes when the radio is educational.\""
+    wi "“廣播偶爾也能起到不錯的教育意義。”"
 
 # game/script.rpy:504
 translate Tchinese start_ca773612:
 
     # to "\"Well that’s the crazy thing.\""
-    to "\"Well that’s the crazy thing.\""
+    to "“這才是最精彩的部分。”"
 
 # game/script.rpy:507
 translate Tchinese start_ce9eb288:
 
     # to "\"Well there’s a bunch of scientist who study paintings.\""
-    to "\"Well there’s a bunch of scientist who study paintings.\""
+    to "“嗯，有很多科學家都研究起了古代繪畫。”"
 
 # game/script.rpy:529
 translate Tchinese start_28c7b78f:
 
     # to "\"Well seeing how I don’t want to know much more about the devil’s lettuce, that show sounds not for me.\""
-    to "\"Well seeing how I don’t want to know much more about the devil’s lettuce, that show sounds not for me.\""
+    to "“我想我對這破草的了解已經夠多了，跳過。”"
 
 # game/script.rpy:551
 translate Tchinese start_98288c53:
 
     # to "\"Well apple butter my bread, how have you not heard of the Loch Ness monster?\""
-    to "\"Well apple butter my bread, how have you not heard of the Loch Ness monster?\""
+    to "“我的奶油蘋果派啊，你居然沒有聽過尼斯湖水怪？”"
 
 # game/script.rpy:555
 translate Tchinese start_69326608:
 
     # to "\"Well they call her Nessie and she’s real.\""
-    to "\"Well they call her Nessie and she’s real.\""
+    to "“真的，還有人家叫做Nessie。”"
 
 # game/script.rpy:565
 translate Tchinese start_8fa4c1cb:
 
     # "We ran into more than a few roadside dinosaurs."
-    "We ran into more than a few roadside dinosaurs."
+    "沿途還碰見不少恐龍雕塑。"
 
 # game/script.rpy:570
 translate Tchinese start_6d4cee08:
 
     # to "\"Told ya they’re real William.\""
-    to "\"Told ya they’re real William.\""
+    to "“就跟你說它們是真的了，William。”"
 
 # game/script.rpy:576
 translate Tchinese start_3131d926:
 
     # mu "\"The truth is out there William.\""
-    mu "\"The truth is out there William.\""
+    mu "“真相就在眼前，William。”"
 
 # game/script.rpy:579
 translate Tchinese start_b63a9669:
 
     # to "\"Aint no doubt about that!\""
-    to "\"Aint no doubt about that!\""
+    to "\"真得不能更真了！\""
 
 # game/script.rpy:616
 translate Tchinese start_a307659a:
 
     # m "\"Hop any higher Cliff and you might take off.\""
-    m "\"Hop any higher Cliff and you might take off.\""
+    m "“再嗨一點，你都能原地升天了，Cliff。”"
 
 # game/script.rpy:622
 translate Tchinese start_89b15088:
 
     # m "\"If by retro you mean puke stains from the 70’s are still there then yeah.\""
-    m "\"If by retro you mean puke stains from the 70’s are still there then yeah.\""
+    m "“是挺懷舊的，如果算上那些70年代的汙漬的話。”"
 
 # game/script.rpy:654
 translate Tchinese start_769ff62b:
 
     # mu "\"If anybody can pull off summer vibes best, it’s you Samuel.\""
-    mu "\"If anybody can pull off summer vibes best, it’s you Samuel.\""
+    mu "“要問誰最能營造夏日氛圍，那非你莫屬了，Samuel。”"
 
 # game/script.rpy:665
 translate Tchinese start_f8c2531b:
 
     # mu "\"Might have something to do with the fact that you can charge viewers for your instagram pictures.\""
-    mu "\"Might have something to do with the fact that you can charge viewers for your instagram pictures.\""
+    mu "“大概因為你在Instagram上的照片是有償的吧。”"
 
 # game/script.rpy:668
 translate Tchinese start_eafec89f:
 
     # m "\"Well that’s not because of the outfits.\""
-    m "\"Well that’s not because of the outfits.\""
+    m "“那又不是因為衣服。”"
 
 # game/script.rpy:692
 translate Tchinese start_7c2e92ed:
 
     # wi "\"Well why on earth would y’all let him do that?\""
-    wi "\"Well why on earth would y’all let him do that?\""
+    wi "“他？你們是腦子不好使了？”"
 
 # game/script.rpy:770
 translate Tchinese start_8c0d5d31:
 
     # to "\"We call these fellahs hush puppies!\""
-    to "\"We call these fellahs hush puppies!\""
+    to "“我們稱呼他為‘安靜小狗’！”"
 
 # game/script.rpy:787
 translate Tchinese start_2182730a:
 
     # to "\"And you say ‘Hush, puppy!’.\""
-    to "\"And you say ‘Hush, puppy!’.\""
+    to "“由此得名‘安靜小狗’！”"
 
 # game/script.rpy:806
 translate Tchinese start_0a6ddcd8:
 
     # m "\"Well I’m not hungry, so I’ll get that shopping out of the way.\""
-    m "\"Well I’m not hungry, so I’ll get that shopping out of the way.\""
+    m "“我還不餓，不急著去購物。”"
 
 # game/script.rpy:836
 translate Tchinese start_f2d37d51:
 
     # m "\"Y’all gott come in just one at a time or I’ll get overwhelmed.\""
-    m "\"Y’all gott come in just one at a time or I’ll get overwhelmed.\""
+    m "“你們一個一個去，不然我忙不過來。”"
 
 # game/script.rpy:924
 translate Tchinese start_8f232ae2:
 
     # ni "\"And I feel that khakies are always a respectable choice.\""
-    ni "\"And I feel that khakies are always a respectable choice.\""
+    ni "“我一向認為卡其色是一種得體的選擇。”"
 
 # game/script.rpy:947
 translate Tchinese start_969224eb:
 
     # ni "\"Of course\""
-    ni "\"Of course\""
+    ni "“的確。”"
 
 # game/script.rpy:955
 translate Tchinese start_c7275c04:
 
     # "I know he’s gonna be loud, but at least it’ll be fun."
-    "I know he’s gonna be loud, but at least it’ll be fun."
+    "我知道Ta很吵，但至少會很有趣。"
 
 # game/script.rpy:962
 translate Tchinese start_b7b2b1f9:
 
     # m "\"Well it’s not like I knew.\""
-    m "\"Well it’s not like I knew.\""
+    m "“我又不是不知道。”"
 
 # game/script.rpy:1001
 translate Tchinese start_1897a16f:
 
     # cl "\"The Hawaian shirt is often Will's look when the weather's hot. I wonder if he'll like one on me?\""
-    cl "\"The Hawaian shirt is often Will's look when the weather's hot. I wonder if he'll like one on me?\""
+    cl "“夏威夷衫啊，Will倒是總穿，不知他看到我會作何感想？”"
 
 # game/script.rpy:1018
 translate Tchinese start_68097b14:
 
     # cl "\"I already know I'll have all eyes on me with thise bottom, though I suppose we can hardly call this a bottom.\""
-    cl "\"I already know I'll have all eyes on me with thise bottom, though I suppose we can hardly call this a bottom.\""
+    cl "“穿上這條褲子，我一定能成為全場的焦點，儘管我很難將其稱之為褲子。”"
 
 # game/script.rpy:1036
 translate Tchinese start_251c6654:
 
     # m "\"Make sure we wait for the beach for we put these outfits on, okay?\""
-    m "\"Make sure we wait for the beach for we put these outfits on, okay?\""
+    m "“務必等到了海灘再穿，聽到沒？”"
 
 # game/script.rpy:1041
 translate Tchinese start_7bc8e8c6:
 
     # m "Well it’s more like I don’t want us to get arrested, but that’s fine too."
-    m "Well it’s more like I don’t want us to get arrested, but that’s fine too."
+    m "我更多是不想被警察抓，不過隨你怎麼理解吧。"
 
 # game/script.rpy:1081
 translate Tchinese start_690a9543:
 
     # mu "\"This top combo just makes me wanna sing the na na na song from My Chemical Romance\""
-    mu "\"This top combo just makes me wanna sing the na na na song from My Chemical Romance\""
+    mu "“穿著這件上衣，我不禁想要高歌一曲‘na na na’，就是我的另類羅曼史出的那首。”"
 
 # game/script.rpy:1089
 translate Tchinese start_8f066450:
 
     # mu "\"Fishnets are one of the few things you can wear that makes you look sluttier than wearing nothing at all.\""
-    mu "\"Fishnets are one of the few things you can wear that makes you look sluttier than wearing nothing at all.\""
+    mu "“漁網衣是為數不多穿了比沒穿更色的衣服。”"
 
 # game/script.rpy:1104
 translate Tchinese start_7e763e86:
 
     # mu "\"Daring today, aren't we.\""
-    mu "\"Daring today, aren't we.\""
+    mu "“大膽的一天，是不是啊？”"
 
 # game/script.rpy:1110
 translate Tchinese start_b0e8e112:
 
     # mu "\"And now when you look at my ass you're really seeing stars.\""
-    mu "\"And now when you look at my ass you're really seeing stars.\""
+    mu "“現在我的屁股上真的能看到星星了。”"
 
 # game/script.rpy:1116
 translate Tchinese start_2e497908:
 
     # mu "\"And you know... these trunks make me thing I'd make a hot soldier, if I weren't terrified of the military industrial complex.\""
-    mu "\"And you know... these trunks make me thing I'd make a hot soldier, if I weren't terrified of the military industrial complex.\""
+    mu "“其實這條泳褲讓我覺得……我也能成為一名性感的士兵，要不是我害怕軍工鐵三角的話。”"
 
 # game/script.rpy:1120
 translate Tchinese start_e4139e31:
 
     # mu "\"And floral trunks? I like them because they're busy. Like me. \""
-    mu "\"And floral trunks? I like them because they're busy. Like me. \""
+    mu "“花褲？我喜歡，因為它很熱鬧，就跟我一樣。”"
 
 # game/script.rpy:1124
 translate Tchinese start_527a595f:
 
     # mu "\"And the trunks are nice too, though I'm not sure how long I'll be wearing them when the right mood strikes. \""
-    mu "\"And the trunks are nice too, though I'm not sure how long I'll be wearing them when the right mood strikes. \""
+    mu "“這條泳褲不賴嘛，就是不知道我多久才會看膩它。”"
 
 # game/script.rpy:1225
 translate Tchinese start_a27eedc2:
 
     # wi "\"That's a harness, Sam.\""
-    wi "\"That's a harness, Sam.\""
+    wi "“這是背帶，Sam。”"
 
 # game/script.rpy:1228
 translate Tchinese start_346c5381:
 
     # m "\"And?\""
-    m "\"And?\""
+    m "“所以呢？”"
 
 # game/script.rpy:1231
 translate Tchinese start_07d41d0a:
 
     # wi "\"One, that means it's going to be expensive.\""
-    wi "\"One, that means it's going to be expensive.\""
+    wi "“其一，它很貴。”"
 
 # game/script.rpy:1233
 translate Tchinese start_2eab4c84:
 
     # wi "\"Two, we're going to an island not Folsom street.\""
-    wi "\"Two, we're going to an island not Folsom street.\""
+    wi "“其二，我們是去度假，不是參加同志大遊行。”"
 
 # game/script.rpy:1236
 translate Tchinese start_dc3d7079:
 
     # m "\"You're worth it.\""
-    m "\"You're worth it.\""
+    m "“能看你穿一次也值了。”"
 
 # game/script.rpy:1239
 translate Tchinese start_23e2ed02:
 
     # wi "\"You're not even using your own money, you're using Cliff's.\""
-    wi "\"You're not even using your own money, you're using Cliff's.\""
+    wi "“你甚至用的不是你的錢，是Cliff的。”"
 
 # game/script.rpy:1242
 translate Tchinese start_7ee26c4d:
 
     # m "\"This isn't about them right now.\""
-    m "\"This isn't about them right now.\""
+    m "“不要岔開話題。”"
 
 # game/script.rpy:1245
 translate Tchinese start_fe5d30cb:
 
     # wi "\"....\""
-    wi "\"....\""
+    wi "“……”"
 
 # game/script.rpy:1264
 translate Tchinese start_caae0de0:
 
     # wi "\"Somehow I doubt these are designed to camoflage anything.\""
-    wi "\"Somehow I doubt these are designed to camoflage anything.\""
+    wi "“我總覺得這設計是用來偽裝的。”"
 
 # game/script.rpy:1270
 translate Tchinese start_c273a26c:
 
     # wi "\"You know, when I look at these trunks, I'm reminded that I actually am certified by the red cross for life guard duty.\""
-    wi "\"You know, when I look at these trunks, I'm reminded that I actually am certified by the red cross for life guard duty.\""
+    wi "“看到這條泳褲，我會想起自己其實還是紅十字會認證的救生員。”"
 
 # game/script.rpy:1307
 translate Tchinese start_edafa71d:
 
     # wi "\"Well at least blowjobs are nice.\""
-    wi "\"Well at least blowjobs are nice.\""
+    wi "“看在這話的份上。”"
 
 # game/script.rpy:1320
 translate Tchinese start_bc71ad2f:
 
     # wi "\"And it's not Halloween, Sam.\""
-    wi "\"And it's not Halloween, Sam.\""
+    wi "“今天又不是萬聖節，Sam。”"
 
 # game/script.rpy:1323
 translate Tchinese start_0b89b8c8:
 
     # m "\"I thought you liked captain Adastra.\""
-    m "\"I thought you liked captain Adastra.\""
+    m "“我還以為你喜歡Adastra裡的船長呢。”"
 
 # game/script.rpy:1326
 translate Tchinese start_f3812ba5:
 
     # wi "\"That's Murdoch.\""
-    wi "\"That's Murdoch.\""
+    wi "“別把我跟Murdoch混為一談。”"
 
 # game/script.rpy:1327
 translate Tchinese start_031585c2:
 
     # wi "\"I don't know anything about this show\""
-    wi "\"I don't know anything about this show\""
+    wi "“我從來沒看過那個節目。”"
 
 # game/script.rpy:1330
 translate Tchinese start_f94d4cfc:
 
     # m "\"At least it's not a Chris Pratt costume.\""
-    m "\"At least it's not a Chris Pratt costume.\""
+    m "“至少不是Chris Pratt的同款。”"
 
 # game/script.rpy:1332
 translate Tchinese start_ff2f067c:
 
     # wi "\"Stop speaking.\""
-    wi "\"Stop speaking.\""
+    wi "“說夠了吧。”"
 
 # game/script.rpy:1362
 translate Tchinese start_2da4e02c:
 
     # wi "\"I think he’d feel left out\""
-    wi "\"I think he’d feel left out\""
+    wi "“他可能會覺得自己被冷落了。”"
 
 # game/script.rpy:1368
 translate Tchinese start_78892c22:
 
     # wi "\"Okay I fucking hate the 'Life’s A Beach' tank.\""
-    wi "\"Okay I fucking hate the 'Life’s A Beach' tank.\""
+    wi "“對，我他媽煩死那條‘生活是一片海灘’的背心了。”"
 
 # game/script.rpy:1371
 translate Tchinese start_1d27123c:
 
     # m "\"He’s thriving William.\""
-    m "\"He’s thriving William.\""
+    m "“他還在發育，William。”"
 
 # game/script.rpy:1417
 translate Tchinese start_36584059:
 
     # "man" "\"Y’all have her until 12:00 pm tomorrow.\""
-    "man" "\"Y’all have her until 12:00 pm tomorrow.\""
+    "男人" "“我就把她交給你們了，直到明天下午十二點。”"
 
 # game/script.rpy:1418
 translate Tchinese start_931434a9:
 
     # "man" "\"Try not to catch any mermaids, y’hear?\""
-    "man" "\"Try not to catch any mermaids, y’hear?\""
+    "男人" "“可別拿她去抓美人魚啊？”"
 
 # game/script.rpy:1422
 translate Tchinese start_eb31605c:
 
     # to "\"Well how do ya catch those?\""
-    to "\"Well how do ya catch those?\""
+    to "“還能抓美人魚？”"
 
 # game/script.rpy:1423
 translate Tchinese start_60161c90:
 
     # "man" "\"That’s just a figure of speech sonny.\""
-    "man" "\"That’s just a figure of speech sonny.\""
+    "男人" "“這只是個比喻，孩子。”"
 
 # game/script.rpy:1430
 translate Tchinese start_5688c018:
 
     # "man" "\"Mostly just meant take good care of the boat ‘cause if anything did happen then the spike to your friend’s insurance rate aint gonna be pretty.\""
-    "man" "\"Mostly just meant take good care of the boat ‘cause if anything did happen then the spike to your friend’s insurance rate aint gonna be pretty.\""
+    "男人" "“我是要你們照顧好這艘船。萬一發生了什麼事，我想你朋友的保險賠償肯定不怎麼樂觀。”"
 
 # game/script.rpy:1436
 translate Tchinese start_74c5c3b1:
 
     # "man" "\"I’m just yankin’ y’alls chain.\""
-    "man" "\"I’m just yankin’ y’alls chain.\""
+    "男人" "“開玩笑的。”"
 
 # game/script.rpy:1437
 translate Tchinese start_9267a5c9:
 
     # "man" "\"Aside from the insurance part.\""
-    "man" "\"Aside from the insurance part.\""
+    "男人" "“除了保險的那部分。”"
 
 # game/script.rpy:1438
 translate Tchinese start_a5e996be:
 
     # "man" "\"That’s still true.\""
-    "man" "\"That’s still true.\""
+    "男人" "“別怪我沒有提醒你們。”"
 
 # game/script.rpy:1443
 translate Tchinese start_bf5cfccf:
 
     # ni "\"Well I have the keys now.\""
-    ni "\"Well I have the keys now.\""
+    ni "“我拿到鑰匙了。”"
 
 # game/script.rpy:1469
 translate Tchinese start_b34cad8a:
 
     # mu "\"...So we don’t get sea sick?\""
-    mu "\"...So we don’t get sea sick?\""
+    mu "“……這樣我們就不會暈船了？”"
 
 # game/script.rpy:1538
 translate Tchinese start_f61680cf:
 
     # ni "\"Well now that I am moving around in them, I think they have grown on me.\""
-    ni "\"Well now that I am moving around in them, I think they have grown on me.\""
+    ni "“我穿著它們到處走動，感覺都成了自己身體的一部分了。”"
 
 # game/script.rpy:1543
 translate Tchinese start_1869047e:
 
     # ni "\"This was gift from my late grandmother.\""
-    ni "\"This was gift from my late grandmother.\""
+    ni "“我已故祖母的遺物。”"
 
 # game/script.rpy:1545
 translate Tchinese start_3aca5dd6:
 
     # wi "\"Bullshit it wasn't.\""
-    wi "\"Bullshit it wasn't.\""
+    wi "“你就繼續胡扯去吧。”"
 
 # game/script.rpy:1551
 translate Tchinese start_3a7c31d6:
 
     # cl "\"Well I think it looks fun!\""
-    cl "\"Well I think it looks fun!\""
+    cl "“我覺得很有趣呀！”"
 
 # game/script.rpy:1552
 translate Tchinese start_c28e92de:
 
     # wi "\"Well maybe for everybody other than Nik.\""
-    wi "\"Well maybe for everybody other than Nik.\""
+    wi "“只要別穿在Nik身上。”"
 
 # game/script.rpy:1571
 translate Tchinese start_66bb425d:
 
     # to "\"Well thank goodness for that!\""
-    to "\"Well thank goodness for that!\""
+    to "“謝天謝地！”"
 
 # game/script.rpy:1576
 translate Tchinese start_56f14fb1:
 
     # mu "\"Well I don’t want to be the last one to change...\""
-    mu "\"Well I don’t want to be the last one to change...\""
+    mu "“哎，我不想最後才換衣服……”"
 
 # game/script.rpy:1577
 translate Tchinese start_cbc9767f:
 
     # m "\"You too William.\""
-    m "\"You too William.\""
+    m "“還有你，William。”"
 
 # game/script.rpy:1580
 translate Tchinese start_512fc542:
 
     # m "\"Well if it makes you feel better having your hand held.\""
-    m "\"Well if it makes you feel better having your hand held.\""
+    m "“如果這能讓你感覺好點的話。”"
 
 # game/script.rpy:1611
 translate Tchinese start_46975f54:
 
     # cl "\"Well I like horror.\""
-    cl "\"Well I like horror.\""
+    cl "“我喜歡恐怖。”"
 
 # game/script.rpy:1613
 translate Tchinese start_252804c0:
 
     # m "\"My eyes is more on this fantasy game they keep teasing.\""
-    m "\"My eyes is more on this fantasy game they keep teasing.\""
+    m "“我更喜歡他們開發的一個奇幻風遊戲。”"
 
 # game/script.rpy:1624
 translate Tchinese start_459ca456:
 
     # m "\"Well the future is now.\""
-    m "\"Well the future is now.\""
+    m "“以前不是，現在可以是。”"
 
 # game/script.rpy:1634
 translate Tchinese start_e357d3d7:
 
     # to "\"Aint they a landlocked town in the middle of the dessert?\""
-    to "\"Aint they a landlocked town in the middle of the dessert?\""
+    to "“可那裡不是內陸城鎮嗎？”"
 
 # game/script.rpy:1635
 translate Tchinese start_bd7958e8:
 
     # to "\"How come they have so many anchor on everything?\""
-    to "\"How come they have so many anchor on everything?\""
+    to "“怎麼所有東西上面都有錨？”"
 
 # game/script.rpy:1647
 translate Tchinese start_11c3657d:
 
     # wi "\"Suns out, Guns out indeedy, Sam.\""
-    wi "\"Suns out, Guns out indeedy, Sam.\""
+    wi "“夏日風情，Sam。”"
 
 # game/script.rpy:1728
 translate Tchinese start_ad254893:
 
     # wi "\"Matter-o-fact, yes indeedy.\""
-    wi "\"Matter-o-fact, yes indeedy.\""
+    wi "“確實有。”"
 
 # game/script.rpy:1736
 translate Tchinese start_e4974050:
 
     # "Murdoch breaks out in hysterics while Nik's wise widen."
-    "Murdoch breaks out in hysterics while Nik's wise widen."
+    "Murdoch突然狂笑不止，Nik則瞪大了眼睛。"
 
 # game/script.rpy:1737
 translate Tchinese start_18c199dd:
 
     # ni "\"Well that's not something I'll ever see again.\""
-    ni "\"Well that's not something I'll ever see again.\""
+    ni "“真是絕景啊。”"
 
 # game/script.rpy:1747
 translate Tchinese start_921baf55:
 
     # wi "\"Todd you've known I'm gay for years.\""
-    wi "\"Todd you've known I'm gay for years.\""
+    wi "“你幾年前就知道我是gay了，Todd。”"
 
 # game/script.rpy:1749
 translate Tchinese start_5776a030:
 
     # to "\"Well uh, sure uh, But I mean...\""
-    to "\"Well uh, sure uh, But I mean...\""
+    to "“呃，是啦，可……”"
 
 # game/script.rpy:1776
 translate Tchinese start_2d4b104e:
 
     # mu "\"Oh wow.\""
-    mu "\"Oh wow.\""
+    mu "“哇哦。”"
 
 # game/script.rpy:1777
 translate Tchinese start_c3444d2a:
 
     # mu "\"Williamicussy real.\""
-    mu "\"Williamicussy real.\""
+    mu "“Williamicussy竟然真的存在”"
 
 # game/script.rpy:1779
 translate Tchinese start_c2008751:
 
     # wi "\"What the fuck are you saying?\""
-    wi "\"What the fuck are you saying?\""
+    wi "“什麼東西？”"
 
 # game/script.rpy:1781
 translate Tchinese start_adbe4afe:
 
     # "Murdoch drops to the ground cackling.\""
-    "Murdoch drops to the ground cackling.\""
+    "Murdoch笑得前仰後合。"
 
 # game/script.rpy:1782
 translate Tchinese start_6b469859:
 
     # ni "\"I don't know why, William, but your outfit makes me feel safe.\""
-    ni "\"I don't know why, William, but your outfit makes me feel safe.\""
+    ni "我不知道為什麼，William，但你的這身衣服讓人很安心。"
 
 # game/script.rpy:1784
 translate Tchinese start_e388052a:
 
     # wi "\"Well it makes me feel unsafe.\""
-    wi "\"Well it makes me feel unsafe.\""
+    wi "“讓我很不安心。”"
 
 # game/script.rpy:1786
 translate Tchinese start_64d24902:
 
     # to "\"Oh wow.\""
-    to "\"Oh wow.\""
+    to "“哇哦。”"
 
 # game/script.rpy:1787
 translate Tchinese start_071dce8f:
 
     # to "\"Is that one of them anime cosplays?\""
-    to "\"Is that one of them anime cosplays?\""
+    to "這難道是動漫的Cos服？\""
 
 # game/script.rpy:1788
 translate Tchinese start_fe7da1ff:
 
     # to "\"I love anime.\""
-    to "\"I love anime.\""
+    to "“我超愛動漫的。”"
 
 # game/script.rpy:1790
 translate Tchinese start_e8a60115:
 
     # wi "\"Todd.\""
-    wi "\"Todd.\""
+    wi "“Todd。”"
 
 # game/script.rpy:1792
 translate Tchinese start_33ae6514:
 
     # wi "\"I don't even watch this show and I know it's Europa inspired.\""
-    wi "\"I don't even watch this show and I know it's Europa inspired.\""
+    wi "“我根本沒看過那部劇，但也知道它的靈感來自於歐羅巴。”"
 
 # game/script.rpy:1794
 translate Tchinese start_915723c9_1:
 
     # to "\"Right. Right.\""
-    to "\"Right. Right.\""
+    to "“好吧，好吧。”"
 
 # game/script.rpy:1795
 translate Tchinese start_b50797f2:
 
     # cl "\"You know plenty, of anime is Europa inspired.\""
-    cl "\"You know plenty, of anime is Europa inspired.\""
+    cl "“你知道的挺多嘛，不過不少動漫的靈感都來自於歐羅巴。”"
 
 # game/script.rpy:1796
 translate Tchinese start_43da58c7:
 
     # m "\"...wait, is adastra an anime?\""
-    m "\"...wait, is adastra an anime?\""
+    m "“……先等一下，Adastra是動漫嗎？”"
 
 # game/script.rpy:1797
 translate Tchinese start_be8acbba:
 
     # mu "\"No.\""
-    mu "\"No.\""
+    mu "“不是。”"
 
 # game/script.rpy:1799
 translate Tchinese start_a160c8f1:
 
     # wi "\"Sometimes I hate you, Sam.\""
-    wi "\"Sometimes I hate you, Sam.\""
+    wi "“你有時候還真招人恨啊，Sam。”"
 
 # game/script.rpy:1819
 translate Tchinese start_b5843111:
 
     # wi "\"Well, good news actually.\""
-    wi "\"Well, good news actually.\""
+    wi "“算了，我公布個好消息。”"
 
 # game/script.rpy:1820
 translate Tchinese start_67ab6aaa:
 
     # wi "\"I bought you some clothes.\""
-    wi "\"I bought you some clothes.\""
+    wi "“我給你買了幾件衣服。“"
 
 # game/script.rpy:1822
 translate Tchinese start_6c6621f6:
 
     # to "\"...really?!\""
-    to "\"...really?!\""
+    to "“……真的嗎？！”"
 
 # game/script.rpy:1823
 translate Tchinese start_f7277e34:
 
     # wi "\"Sure did!\""
-    wi "\"Sure did!\""
+    wi "“當然！”"
 
 # game/script.rpy:1824
 translate Tchinese start_466e2c32:
 
     # m "\"So why exactly did you buy him new clothes, Will?\""
-    m "\"So why exactly did you buy him new clothes, Will?\""
+    m "“你這是鬧哪齣，Will？”"
 
 # game/script.rpy:1825
 translate Tchinese start_116b40f9:
 
     # wi "\"Because I'm nice.\""
-    wi "\"Because I'm nice.\""
+    wi "“因為我是個好人。”"
 
 # game/script.rpy:1827
 translate Tchinese start_9554999e:
 
     # to "\"Well I can't argue with that!\""
-    to "\"Well I can't argue with that!\""
+    to "“嗯，我同意！”"
 
 # game/script.rpy:1829
 translate Tchinese start_a59541b2:
 
     # m "\"Really? 'Cause frome what I remember you saying--\""
-    m "\"Really? 'Cause frome what I remember you saying--\""
+    m "“是嗎？我怎麼記得你說……”"
 
 # game/script.rpy:1830
 translate Tchinese start_339a7b68:
 
     # wi "\"Merry Christmas Todd.\""
-    wi "\"Merry Christmas Todd.\""
+    wi "“聖誕節快樂，Todd。”"
 
 # game/script.rpy:1838
 translate Tchinese start_366d6486:
 
     # to "\"But I was already wearing this.\""
-    to "\"But I was already wearing this.\""
+    to "“我之前穿的就是這件呀？”"
 
 # game/script.rpy:1839
 translate Tchinese start_51f82b77:
 
     # wi "\"Guess I forgot to get the new shirt.\""
-    wi "\"Guess I forgot to get the new shirt.\""
+    wi "“我好像忘記買上衣了。”"
 
 # game/script.rpy:1840
 translate Tchinese start_42aea651:
 
     # wi "\"Oops.\""
-    wi "\"Oops.\""
+    wi "“咳。”"
 
 # game/script.rpy:1841
 translate Tchinese start_1e468106:
 
     # wi "\"Uh, psyche I guess.\""
-    wi "\"Uh, psyche I guess.\""
+    wi "“心理作用。”"
 
 # game/script.rpy:1843
 translate Tchinese start_0e82caa4:
 
     # to "\"Aw come on!\""
-    to "\"Aw come on!\""
+    to "“這種事情不要啊！”"
 
 # game/script.rpy:1847
 translate Tchinese start_228cba7a:
 
     # to "\"Let's go Aubergines!\""
-    to "\"Let's go Aubergines!\""
+    to "“我們上，茄茄！”"
 
 # game/script.rpy:1849
 translate Tchinese start_56e36bcf:
 
     # wi "\"...they named their team after eggplants?\""
-    wi "\"...they named their team after eggplants?\""
+    wi "“……他們給自己的隊伍取名為茄子？”"
 
 # game/script.rpy:1851
 translate Tchinese start_25e5e369:
 
     # to "\"No Will, it's a European thing.\""
-    to "\"No Will, it's a European thing.\""
+    to "“不，Will，這是歐洲那邊的叫法。”"
 
 # game/script.rpy:1853
 translate Tchinese start_a5908e3a:
 
     # to "\"It's different.\""
-    to "\"It's different.\""
+    to "“是兩碼事哦。”"
 
 # game/script.rpy:1855
 translate Tchinese start_c133b04f:
 
     # cl "\"....\""
-    cl "\"....\""
+    cl "“……”"
 
 # game/script.rpy:1858
 translate Tchinese start_ae8d2579:
 
     # to "\"The Angry Anchors? All right, let's goooo!\""
-    to "\"The Angry Anchors? All right, let's goooo!\""
+    to "“憤怒的錨？看起來很酷嘛！”"
 
 # game/script.rpy:1860
 translate Tchinese start_f2cf7d84:
 
     # m "\"Anchors?\""
-    m "\"Anchors?\""
+    m "“錨？”"
 
 # game/script.rpy:1861
 translate Tchinese start_29f6ec8c:
 
     # m "\"For a sports team?\""
-    m "\"For a sports team?\""
+    m "“哪支隊伍的嗎？”"
 
 # game/script.rpy:1862
 translate Tchinese start_072dde6d:
 
     # wi "\"I've seen worse sports mascots.\""
-    wi "\"I've seen worse sports mascots.\""
+    wi "“更爛的吉祥物我也見過。”"
 
 # game/script.rpy:1865
 translate Tchinese start_1cf125a8:
 
     # to "\"Nice and breezy.\""
-    to "\"Nice and breezy.\""
+    to "“好看又好穿。”"
 
 # game/script.rpy:1866
 translate Tchinese start_e3f55cec:
 
     # m "\"Arms down, todd.\""
-    m "\"Arms down, todd.\""
+    m "“把手臂放下，Todd。”"
 
 # game/script.rpy:1868
 translate Tchinese start_744e8fd4:
 
     # to "\"Oh. Sorry.\""
-    to "\"Oh. Sorry.\""
+    to "“啊，不好意思。”"
 
 # game/script.rpy:1871
 translate Tchinese start_6cc40705:
 
     # to "\"I've been told I'm pretty good at taking orders!\""
-    to "\"I've been told I'm pretty good at taking orders!\""
+    to "“有很多人誇過我紀律嚴明哦！”"
 
 # game/script.rpy:1873
 translate Tchinese start_c4b62f04:
 
     # m "\"How good?\""
-    m "\"How good?\""
+    m "“有多嚴明？”"
 
 # game/script.rpy:1877
 translate Tchinese start_9b486dfb:
 
     # to "\"Well don't I feel snug as a bug.\""
-    to "\"Well don't I feel snug as a bug.\""
+    to "“我如同小蟲一般自在。”"
 
 # game/script.rpy:1879
 translate Tchinese start_9d5b4f04:
 
     # m "\"Like a fruit fly.\""
-    m "\"Like a fruit fly.\""
+    m "“像一隻果蠅。”"
 
 # game/script.rpy:1880
 translate Tchinese start_e6197c13:
 
     # ni "\"Samuel...\""
-    ni "\"Samuel...\""
+    ni "“Samuel……”"
 
 # game/script.rpy:1882
 translate Tchinese start_bf318a9f:
 
     # to "\"I suppose that works!\""
-    to "\"I suppose that works!\""
+    to "“我不在意！”"
 
 # game/script.rpy:1886
 translate Tchinese start_1e290940:
 
     # to "\"This one's nice because it lets my chest breath.\""
-    to "\"This one's nice because it lets my chest breath.\""
+    to "“我喜歡這件衣服，因為我的胸口也可以自由呼吸。”"
 
 # game/script.rpy:1888
 translate Tchinese start_764840dd:
 
     # wi "\"Keep talking like that and I'll get you a bra.\""
-    wi "\"Keep talking like that and I'll get you a bra.\""
+    wi "“再講黃色笑話，我就去給你買個胸罩戴上。”"
 
 # game/script.rpy:1889
 translate Tchinese start_f84060fd:
 
     # m "\"You're one to talk will.\""
-    m "\"You're one to talk will.\""
+    m "“只有你這麼覺得吧。”"
 
 # game/script.rpy:1892
 translate Tchinese start_9a94418e:
 
     # to "\"Tuna colors!\""
-    to "\"Tuna colors!\""
+    to "“鮪魚色！”"
 
 # game/script.rpy:1894
 translate Tchinese start_5f7ef70a:
 
     # to "\"You shouldn't have!\""
-    to "\"You shouldn't have!\""
+    to "“你們都沒有吧！”"
 
 # game/script.rpy:1899
 translate Tchinese start_f3970934:
 
     # to "\"Aw dang, same trunks?\""
-    to "\"Aw dang, same trunks?\""
+    to "“欸，同一條褲子？”"
 
 # game/script.rpy:1901
 translate Tchinese start_207d99d9:
 
     # m "\"They look nice on you.\""
-    m "\"They look nice on you.\""
+    m "“原來的就挺不錯了。”"
 
 # game/script.rpy:1903
 translate Tchinese start_0cabff3c:
 
     # to "\"Well thank you, Sam. That's mighty kid of you to say!\""
-    to "\"Well thank you, Sam. That's mighty kid of you to say!\""
+    to "“謝謝你，Sam，你說的有道理！”"
 
 # game/script.rpy:1905
 translate Tchinese start_fec33ccd:
 
     # to "\"I think.\""
-    to "\"I think.\""
+    to "“大概有。”"
 
 # game/script.rpy:1909
 translate Tchinese start_5cff6f48:
 
     # to "\"And new trunks too?\""
-    to "\"And new trunks too?\""
+    to "“新褲子？”"
 
 # game/script.rpy:1911
 translate Tchinese start_10989033:
 
     # to "\"Can't beat a classic\""
-    to "\"Can't beat a classic\""
+    to "“果然還是經典好啊。”"
 
 # game/script.rpy:1914
 translate Tchinese start_d95d096b:
 
     # to "\"With these I'll be even more aerodynamic.\""
-    to "\"With these I'll be even more aerodynamic.\""
+    to "“穿上這條泳褲，我一定更加符合空氣動力學。”"
 
 # game/script.rpy:1916
 translate Tchinese start_279c0e83:
 
     # wi "\"...Hydrodynamic.\""
-    wi "\"...Hydrodynamic.\""
+    wi "“……是流體力學吧。”"
 
 # game/script.rpy:1918
 translate Tchinese start_7cd15afb:
 
     # to "\"Hydrodynamic!\""
-    to "\"Hydrodynamic!\""
+    to "“流體力學！”"
 
 # game/script.rpy:1921
 translate Tchinese start_61405f21:
 
     # to "\"Aww it's got little flowers on it.\""
-    to "\"Aww it's got little flowers on it.\""
+    to "“上面有小花花耶。”"
 
 # game/script.rpy:1923
 translate Tchinese start_bf9def6b:
 
     # to "\"You sayin' I smell like flowers Will?\""
-    to "\"You sayin' I smell like flowers Will?\""
+    to "“暗指我如花似玉嗎，Will？”"
 
 # game/script.rpy:1925
 translate Tchinese start_475ef323:
 
     # wi "\"A corpse flower maybe.\""
-    wi "\"A corpse flower maybe.\""
+    wi "“大王花還差不多。”"
 
 # game/script.rpy:1927
 translate Tchinese start_afc997b0:
 
     # to "\"Hey!\""
-    to "\"Hey!\""
+    to "“嘿！”"
 
 # game/script.rpy:1930
 translate Tchinese start_8c3dcb22:
 
     # to "\"I will proudly support the LGBT community with these trunks.\""
-    to "\"I will proudly support the LGBT community with these trunks.\""
+    to "“穿著這條泳褲，我就能更有底氣地為LGBT群體發聲了。”"
 
 # game/script.rpy:1932
 translate Tchinese start_0b2dd503:
 
     # to "\"Thank you William.\""
-    to "\"Thank you William.\""
+    to "“謝謝你，William”"
 
 # game/script.rpy:1934
 translate Tchinese start_2f70b3e7:
 
     # m "\"I know of a fun way to offer a membership.\""
-    m "\"I know of a fun way to offer a membership.\""
+    m "“你感興趣的話，我知道一種有趣的入會方式。”"
 
 # game/script.rpy:1935
 translate Tchinese start_916641d6_2:
 
     # wi "\"Stop.\""
-    wi "\"Stop.\""
+    wi "“停。”"
 
 # game/script.rpy:1938
 translate Tchinese start_ff3b9038:
 
     # to "\"I think my tail might be a little bit too big for booty shorts William.\""
-    to "\"I think my tail might be a little bit too big for booty shorts William.\""
+    to "“這條熱褲對我的尾巴來說好像有點小，William。”"
 
 # game/script.rpy:1940
 translate Tchinese start_d0f380fe:
 
     # wi "\"Why are you calling these booty shorts?\""
-    wi "\"Why are you calling these booty shorts?\""
+    wi "“為什麼是熱褲？”"
 
 # game/script.rpy:1941
 translate Tchinese start_232b7b10:
 
     # mu "\"Because he knows they're all about being down with the thiccness.\""
-    mu "\"Because he knows they're all about being down with the thiccness.\""
+    mu "“在他看來又薄又短的都是吧。”"
 
 # game/script.rpy:1943
 translate Tchinese start_f9836864:
 
     # to "\"The blessing and the curse of every otter.\""
-    to "\"The blessing and the curse of every otter.\""
+    to "“這是每隻水獺的一生之敵。”"
 
 # game/script.rpy:1947
 translate Tchinese start_5a63ece1:
 
     # to "\"Aint these uh...\""
-    to "\"Aint these uh...\""
+    to "“這條，呃……”"
 
 # game/script.rpy:1948
 translate Tchinese start_82540dff:
 
     # to "\"Just a bit revealing?\""
-    to "\"Just a bit revealing?\""
+    to "“是不是有點暴露？”"
 
 # game/script.rpy:1949
 translate Tchinese start_fcb4f92b:
 
     # wi "\"Yes, but if I have to look stupid then so do you.\""
-    wi "\"Yes, but if I have to look stupid then so do you.\""
+    wi "“是，但總不能只有我一個人出洋相吧。”"
 
 # game/script.rpy:1951
 translate Tchinese start_475db392:
 
     # to "\"I think I kind of like 'em, actually.\""
-    to "\"I think I kind of like 'em, actually.\""
+    to "“其實，我還蠻喜歡的呢。”"
 
 # game/script.rpy:1953
 translate Tchinese start_096c5957:
 
     # to "\"So this it what they mean when they say Activated.\""
-    to "\"So this it what they mean when they say Activated.\""
+    to "“這就是所謂的覺醒了吧。”"
 
 # game/script.rpy:1954
 translate Tchinese start_ecbdf93a:
 
     # wi "\"Okay Todd.\""
-    wi "\"Okay Todd.\""
+    wi "“好吧。”"
 
 # game/script.rpy:2016
 translate Tchinese start_6e84f183:
 
     # wi "\"That’s how you know how you’ve won.\""
-    wi "\"That’s how you know how you’ve won.\""
+    wi "“有就代表你贏了。”"
 
 # game/script.rpy:2017
 translate Tchinese start_8eb179f2:
 
     # to "\"Well I was hopin’ you’d buy me a box of those wasabi peanuts if I won.\""
-    to "\"Well I was hopin’ you’d buy me a box of those wasabi peanuts if I won.\""
+    to "“這樣的話，我希望你請我吃芥末花生。”"
 
 # game/script.rpy:2019
 translate Tchinese start_cdc4f5b9:
 
     # wi "\"You might think I’m your’re opponent, but the real opponent is time.\""
-    wi "\"You might think I’m your’re opponent, but the real opponent is time.\""
+    wi "“你可能覺得是在跟我比賽，但真正的對手其實是時間。”"
 
 # game/script.rpy:2021
 translate Tchinese start_b024c414:
 
     # to "\"Well I guess that makes all sorts of sense, William!\""
-    to "\"Well I guess that makes all sorts of sense, William!\""
+    to "“說得有道理，William！”"
 
 # game/script.rpy:2040
 translate Tchinese start_5b7c5ba9:
 
     # "Well it’s definitely alive."
-    "Well it’s definitely alive."
+    "反正是活的，"
 
 # game/script.rpy:2063
 translate Tchinese start_2294eaf1:
 
     # "Cliff and Murdoch are sun bathing."
-    "Cliff and Murdoch are sun bathing."
+    "Cliff和Murdoch在曬太陽。"
 
 # game/script.rpy:2081
 translate Tchinese start_0e0e4485:
 
     # m "\"Well then why are you listening to it now?\""
-    m "\"Well then why are you listening to it now?\""
+    m "“也沒必要現在聽吧？”"
 
 # game/script.rpy:2093
 translate Tchinese start_bf252309:
 
     # mu "\"Well in part it’s about domestic abuse.\""
-    mu "\"Well in part it’s about domestic abuse.\""
+    mu "“這個嘛，有關家庭虐待的。”"
 
 # game/script.rpy:2112
 translate Tchinese start_f41d9b3f:
 
     # mu "\"And that makes that books scarier.\""
-    mu "\"And that makes that books scarier.\""
+    mu "“從而給該作渲染上了一絲恐怖色彩。”"
 
 # game/script.rpy:2115
 translate Tchinese start_4dfc1059:
 
     # mu "\"The stepmother is a literal monster as opposed to anything too realistically heavy, but I think the the threat’s still evident.\""
-    mu "\"The stepmother is a literal monster as opposed to anything too realistically heavy, but I think the the threat’s still evident.\""
+    mu "“裡面的繼母與現實無關，就是字面意義上的怪物，所以不可避免地有驚悚元素。”"
 
 # game/script.rpy:2164
 translate Tchinese start_88eb3200:
 
     # mu "\"Well maybe you won’t see it coming if you think he’s hot?\""
-    mu "\"Well maybe you won’t see it coming if you think he’s hot?\""
+    mu "“假如對方是你的天菜，你還會如此聯想嗎？”"
 
 # game/script.rpy:2170
 translate Tchinese start_6029cac2:
 
     # mu "\"But terror is the things that reminds us we still wanna live, right?\""
-    mu "\"But terror is the things that reminds us we still wanna live, right?\""
+    mu "“但恐懼也能激發我們的求生欲，不是嗎？”"
 
 # game/script.rpy:2180
 translate Tchinese start_4fbe50a9:
 
     # wi "\"The only thing between a guy’s legs today is Todd’s tail after? I challenged him to a buoy race!\""
-    wi "\"The only thing between a guy’s legs today is Todd’s tail after? I challenged him to a buoy race!\""
+    wi "“今天兩腿間唯一的東西，就是輸了浮標比賽的Todd夾著的尾巴！”"
 
 # game/script.rpy:2188
 translate Tchinese start_f0d85dd2:
 
     # to "\"I don’t like not being able to see the water under my legs in the ocean.\""
-    to "\"I don’t like not being able to see the water under my legs in the ocean.\""
+    to "“我不喜歡看不見底的深水。”"
 
 # game/script.rpy:2232
 translate Tchinese start_7b266c0c:
 
     # wi "\"Well it won’t be calamari but you packed a curry.\""
-    wi "\"Well it won’t be calamari but you packed a curry.\""
+    wi "“你都帶咖哩了。”"
 
 # game/script.rpy:2293
 translate Tchinese start_790d595e:
 
     # wi "\"Sovereign Nations.\""
-    wi "\"Sovereign Nations.\""
+    wi "“主權國。”"
 
 # game/script.rpy:2310
 translate Tchinese start_3efeec6d:
 
     # to "\"Well somebody is takin’ my goshdarn peanuts and I’d like to believe it’s ghosts and not y’all!\""
-    to "\"Well somebody is takin’ my goshdarn peanuts and I’d like to believe it’s ghosts and not y’all!\""
+    to "“有人他媽的偷了我的花生，我想相信這是幽靈做的，而不是你們！”"
 
 # game/script.rpy:2312
 translate Tchinese start_fb566d96:
 
     # mu "\"Well you know Todd...\""
-    mu "\"Well you know Todd...\""
+    mu "“Todd，要我說……”"
 
 # game/script.rpy:2439
 translate Tchinese start_916641d6_3:
 
     # wi "\"Stop.\""
-    wi "\"Stop.\""
+    wi "“住口。”"
 
 # game/script.rpy:2442
 translate Tchinese start_8dbc98d4:
 
     # mu "\"There might be some diatoms mixed in there so probably best not to risk it\""
-    mu "\"There might be some diatoms mixed in there so probably best not to risk it\""
+    mu "“可能有矽藻混在其中，還是不要冒險為好。”"
 
 # game/script.rpy:2484
 translate Tchinese start_12099bcc:
 
     # wi "\"Feels to me like there’s enough scares if life that you don’t need to go lookin’ for ‘em.\""
-    wi "\"Feels to me like there’s enough scares if life that you don’t need to go lookin’ for ‘em.\""
+    wi "“不用刻意去找，人這一生需要害怕的已經夠多了。”"
 
+#衣服選項
+translate Tchinese strings:
+    old "Shirt"
+    new "  襯衫"
+
+    old "Shorts"
+    new "  短褲"
+
+    old "Armbands"
+    new "  臂帶"
+
+    old "Accessory 1 (Behind)"
+    new "配件1 (後方)"
+
+    old "Accessory 2 (Front)"
+    new "配件2 (前方)"
+
+    old "Accessory 1 (Back)"
+    new "配件1 (後方)"
+
+    old "Save Outfit"
+    new "保存服裝"
