@@ -3486,53 +3486,53 @@ translate Schinese a2s1_2c6b6ba2:
 translate Schinese a2s1_267c7e61:
 
     # c "\"Artie? {w=0.3}Guys? {w=0.3}You can't really be doing this to me, right?\""
-    c "\"Artie? {w=0.3}Guys? {w=0.3}You can't really be doing this to me, right?\""
+    c "\"Artie？{w=0.3}伙计们？{w=0.3}这不是真的吧？\""
 
 # game/a2s1.rpy:99
 translate Schinese a2s1_56bcace0:
 
     # d "\"Cameron!? {w=0.3}Honey, {w=0.3}are you in here?\""
-    d "\"Cameron!? {w=0.3}Honey, {w=0.3}are you in here?\""
+    d "\"Cameron？！{w=0.3}亲爱的，{w=0.3}你在里面吗？\""
 
 # game/a2s1.rpy:118
 translate Schinese a2s1_5edb4dce:
 
     # "{i}{cps=40}Something happened...{w=0.4} It's a little complicated...{/i}"
-    "{i}{cps=40}Something happened...{w=0.4} It's a little complicated...{/i}"
+    "{b}{cps=40}出了点意外...{w=0.4}事情有些复杂...{/b}"
 
 # game/a2s1.rpy:835
 translate Schinese a2s1_8701d45e:
 
     # unk3 "{sc}{font=ui/raven.ttf}\"No! {w=0.3}Get away!\"{/sc}"
-    unk3 "{sc}{font=ui/raven.ttf}\"No! {w=0.3}Get away!\"{/sc}"
+    unk3 "{sc}{font=ui/raven.ttf}\"不！{w=0.3}放开我！\"{/sc}"
 
 # game/a2s1.rpy:837
 translate Schinese a2s1_6f72d4d5:
 
     # unk3 "{sc}{font=ui/raven.ttf}\"Stupid fucking cunt! {w=0.3}Cheating whore!\"{/sc}"
-    unk3 "{sc}{font=ui/raven.ttf}\"Stupid fucking cunt! {w=0.3}Cheating whore!\"{/sc}"
+    unk3 "{sc}{font=ui/raven.ttf}\"下贱的妓女！{w=0.3}臭婊子！\"{/sc}"
 
 # game/a2s1.rpy:840
 translate Schinese a2s1_9a8796e6:
 
     # unk3 "{sc}{font=ui/raven.ttf}\"He's dead, {w=0.3}you can stop now.\"{/sc}"
-    unk3 "{sc}{font=ui/raven.ttf}\"He's dead, {w=0.3}you can stop now.\"{/sc}"
+    unk3 "{sc}{font=ui/raven.ttf}\"他已经死了，{w=0.3}你可以停手了。\"{/sc}"
 
 # game/a2s1.rpy:841
 translate Schinese a2s1_c4391f82:
 
     # unk3 "{sc}{font=ui/raven.ttf}\"Naw, {w=0.3}he's still twitching.\"{/sc}"
-    unk3 "{sc}{font=ui/raven.ttf}\"Naw, {w=0.3}he's still twitching.\"{/sc}"
+    unk3 "{sc}{font=ui/raven.ttf}\"不，{w=0.3}他还在抽搐。\"{/sc}"
 
 # game/a2s1.rpy:847
 translate Schinese a2s1_908fe30d:
 
     # unk3 "{sc}{font=ui/raven.ttf}\"If you let me go, {w=0.3}I won't tell anyone. {w=0.4}I swear to God!\"{/sc}"
-    unk3 "{sc}{font=ui/raven.ttf}\"If you let me go, {w=0.3}I won't tell anyone. {w=0.4}I swear to God!\"{/sc}"
+    unk3 "{sc}{font=ui/raven.ttf}\"放了我吧，{w=0.3}我不会告诉任何人的，{w=0.4}我发誓！\"{/sc}"
 
 # game/a2s1.rpy:849
 translate Schinese a2s1_0713dc66:
 
     # unk3 "{sc}{font=ui/raven.ttf}\"Stop! {w=0.3}Stop! {w=0.3}Just Stop!\"{/sc}"
-    unk3 "{sc}{font=ui/raven.ttf}\"Stop! {w=0.3}Stop! {w=0.3}Just Stop!\"{/sc}"
+    unk3 "{sc}{font=ui/raven.ttf}\"不要！{w=0.3}不要！{w=0.3}住手啊！\"{/sc}"
 
