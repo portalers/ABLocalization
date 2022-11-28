@@ -292,7 +292,7 @@ translate Schinese a1s1_514c3503:
 translate Schinese a1s1_5590cfd5:
 
     # "Just so he can respond somehow."
-    "哪怕只说上一句话。"
+    "哪怕说上一句话。"
 
 # game/a1s1.rpy:79
 translate Schinese a1s1_1b3d4f03:
@@ -3676,7 +3676,7 @@ translate Schinese a1s1_9945c36c:
 translate Schinese a1s1_a54bd6df:
 
     # c "\"Wait, {w=0.3}wait. {w=0.5}Just let me catch my breath, {w=0.3}okay?\""
-    c "\"等，{w=0.3}等一下。{w=0.5}让我喘口气，{w=0.3}好吗？\""
+    c "\"等，{w=0.3}等一下。{w=0.5}让我喘口气，{w=0.3}行吗？\""
 
 # game/a1s1.rpy:951
 translate Schinese a1s1_85ccfcde:
@@ -3894,67 +3894,67 @@ translate Schinese a1s1_f6f8b90b:
 translate Schinese a1s1_ff0d2057:
 
     # "But now, when it matters most, he can't do it."
-    "But now, when it matters most, he can't do it."
+    可是现在，在这最关键的时刻，他却做不到。"
 
 # game/a1s1.rpy:33
 translate Schinese a1s1_f52b6fde:
 
     # "The fastest freshman at a D1 university is no faster than an old druggie."
-    "The fastest freshman at a D1 university is no faster than an old druggie."
+    "D1大学速度最快的新生比不过一个上了年纪的瘾君子。"
 
 # game/a1s1.rpy:36
 translate Schinese a1s1_276b4863:
 
     # "The man had given him something.{w} He'd told him it was for the pain, but the pain is still there, and now he can't even stand."
-    "The man had given him something.{w} He'd told him it was for the pain, but the pain is still there, and now he can't even stand."
+    "那人曾给过他一些东西。{w}对方声称是用来止痛的，但疼痛依旧存在，而现在他甚至已经站不稳了。"
 
 # game/a1s1.rpy:37
 translate Schinese a1s1_d38fe481:
 
     # "His balance is shot and he keeps stumbling until he's just crawling on all fours."
-    "His balance is shot and he keeps stumbling until he's just crawling on all fours."
+    "他终于失去了平衡，踉跄倒地，艰难地用四肢爬行。"
 
 # game/a1s1.rpy:39
 translate Schinese a1s1_299b9d48:
 
     # "This makes him realize something else: {w}He's going to die."
-    "This makes him realize something else: {w}He's going to die."
+    "这还令他意识到一件事：{w}他就要死了。"
 
 # game/a1s1.rpy:41
 translate Schinese a1s1_63cee6f8:
 
     # "He lays there in the dirt, sobbing, even though tears don't come out."
-    "He lays there in the dirt, sobbing, even though tears don't come out."
+    "他仰面朝天，泣不成声，却没有一滴泪水流出。"
 
 # game/a1s1.rpy:42
 translate Schinese a1s1_57b06010:
 
     # "He'd run out of those after all the things the man did to him."
-    "He'd run out of those after all the things the man did to him."
+    "在遭受过那个人的种种虐待之后，他早就已经哭干了眼睛。"
 
 # game/a1s1.rpy:51
 translate Schinese a1s1_064206e8:
 
     # "His mother is a devout Catholic, and even though he never believed, he promises this light that he'll become a believer right here and now if it saves him."
-    "His mother is a devout Catholic, and even though he never believed, he promises this light that he'll become a believer right here and now if it saves him."
+    "他的母亲是一位虔诚的天主教徒，尽管他本人并不信教，但他还是向着那束光祈祷：倘若能够获得救赎，他愿意立刻皈依祂的怀抱。"
 
 # game/a1s1.rpy:69
 translate Schinese a1s1_a3505dbb:
 
     # "At the time, he'd just rolled his eyes and didn't respond."
-    "At the time, he'd just rolled his eyes and didn't respond."
+    "可他只是对着消息翻了个白眼。"
 
 # game/a1s1.rpy:70
 translate Schinese a1s1_fb7a94ce:
 
     # "He thought he'd be able to do that the next day, or the day after that."
-    "He thought he'd be able to do that the next day, or the day after that."
+    "他本想第二天，或过几天再回复的。"
 
 # game/a1s1.rpy:71
 translate Schinese a1s1_8c685078:
 
     # "After he'd been kidnapped, the man took his phone and sat it on the counter."
-    "After he'd been kidnapped, the man took his phone and sat it on the counter."
+    "在被绑架之后，那个男人抢走了他的手机。"
 
 # game/a1s1.rpy:79
 translate Schinese a1s1_21688229:
@@ -3966,79 +3966,79 @@ translate Schinese a1s1_21688229:
 translate Schinese a1s1_922a6e4b:
 
     # centertext "But there's nothing."
-    centertext "But there's nothing."
+    centertext "然而回答他的只有虚无。"
 
 # game/a1s1.rpy:87
 translate Schinese a1s1_b794033c:
 
     # "Cameron holds on to the seat tightly, the coyote's teeth rattling together with every pothole they hit."
-    "Cameron holds on to the seat tightly, the coyote's teeth rattling together with every pothole they hit."
+    "Cameron紧紧抓着座椅，每驶过一个坑，这只郊狼的牙齿都会嘎嘎作响。"
 
 # game/a1s1.rpy:117
 translate Schinese a1s1_ab38c3f9:
 
     # d "\"Nicer weather, {w=0.3}nicer scenery, {w=0.3}and nicer people.\""
-    d "\"Nicer weather, {w=0.3}nicer scenery, {w=0.3}and nicer people.\""
+    d "\"气候宜人，{w=0.4}风景秀丽，{w=0.4}而且人美心善。\""
 
 # game/a1s1.rpy:122
 translate Schinese a1s1_5c33a566:
 
     # c "\"Normal ones?{w=0.3} The ones that baptize dead people and wear Jesus jammies under their clothes?\""
-    c "\"Normal ones?{w=0.3} The ones that baptize dead people and wear Jesus jammies under their clothes?\""
+    c "\"普通人？{w=0.3}你是说那些为死者受洗，在衣服底下裹布的家伙？\""
 
 # game/a1s1.rpy:234
 translate Schinese a1s1_0d4f6bf6:
 
     # d "\"O-Okay.{w} Um, {w=0.3}but while I'm giving you that sec, {w=0.3}I'm sorry for teasing you and being all gross.\""
-    d "\"O-Okay.{w} Um, {w=0.3}but while I'm giving you that sec, {w=0.3}I'm sorry for teasing you and being all gross.\""
+    d "\"好-好吧。{w}呃，{w=0.3}很抱歉捉弄了你，{w=0.3}还表现得那么下流。\""
 
 # game/a1s1.rpy:309
 translate Schinese a1s1_0b52989f:
 
     # d "\"But seriously, {w=0.3}if you ever feel like.{cps=3}..{/cps}{w=0.4} I dunno, {w=0.3}you're just not into it, just let me know.\""
-    d "\"But seriously, {w=0.3}if you ever feel like.{cps=3}..{/cps}{w=0.4} I dunno, {w=0.3}you're just not into it, just let me know.\""
+    d "\"不过说正经的，{w=0.3}要是你感觉哪怕一点点{cps=3}...{/cps}{w=0.4}我也不清楚。{w=0.3}总之，不对劲的话一定要告诉我。\""
 
 # game/a1s1.rpy:324
 translate Schinese a1s1_99d184bc:
 
     # c "\"That we have a purpose in life, {w=0.3}a {i}reason{/i}.\""
-    c "\"That we have a purpose in life, {w=0.3}a {i}reason{/i}.\""
+    c "\"我们坚信人生围绕着一个目的，{w=0.3}一个{b}理由{/b}。\""
 
 # game/a1s1.rpy:325
 translate Schinese a1s1_4e3b6bfd:
 
     # c "\"Reason, {w=0.3}purpose, {w=0.3}and the meaning of life means nothing to the universe.\""
-    c "\"Reason, {w=0.3}purpose, {w=0.3}and the meaning of life means nothing to the universe.\""
+    c "\"目的，{w=0.3}理由，{w=0.3}以及生命的意义，对这个宇宙而言不过沧海一粟。\""
 
 # game/a1s1.rpy:459
 translate Schinese a1s1_71032f10:
 
     # "Devon frowns as they pull into the parking lot of the motel, staring at the graffiti-covered walls."
-    "Devon frowns as they pull into the parking lot of the motel, staring at the graffiti-covered walls."
+    "Dev皱着眉头把车开进汽车旅馆的停车场，环顾起满是涂鸦的墙壁。"
 
 # game/a1s1.rpy:550
 translate Schinese a1s1_c696ee31:
 
     # d "\"Yo, Cam.\""
-    d "\"Yo, Cam.\""
+    d "\"那个，Cam。\""
 
 # game/a1s1.rpy:553
 translate Schinese a1s1_1c948f78:
 
     # c "\"See? Number 8. And the door over there is number 3.\""
-    c "\"See? Number 8. And the door over there is number 3.\""
+    c "\"看到了吗？8号。那边的门是3号。\""
 
 # game/a1s1.rpy:554
 translate Schinese a1s1_bfb97470:
 
     # c "\"So, counting in this direction--\""
-    c "\"So, counting in this direction--\""
+    c "\"所以，朝这个方向数-\""
 
 # game/a1s1.rpy:611
 translate Schinese a1s1_ff182db6:
 
     # d "\"--he says something horrific happens between a backpacker and an Outback redneck every other year, or so.\""
-    d "\"--he says something horrific happens between a backpacker and an Outback redneck every other year, or so.\""
+    d "\"-说背包客和乡下人之间每年都会爆发几场可怕的冲突。\""
 
 # game/a1s1.rpy:867
 translate Schinese a1s1_f3c1a9ef_1:
@@ -4050,17 +4050,17 @@ translate Schinese a1s1_f3c1a9ef_1:
 translate Schinese a1s1_cff625bd:
 
     # d "\"Yo, {w=0.3}Lupita! {w=0.3}Tell my boyfriend what it's like.\""
-    d "\"Yo, {w=0.3}Lupita! {w=0.3}Tell my boyfriend what it's like.\""
+    d "\"哟，{w=0.3}Lupita!{w=0.3}过来跟我男票说道说道。\""
 
 # game/a1s1.rpy:942
 translate Schinese a1s1_b437df31:
 
     # d "\"Wait! {w=0.3}Stop!\""
-    d "\"Wait! {w=0.3}Stop!\""
+    d "\"住手！{w=0.3}不要！\""
 
 # game/a1s1.rpy:957
 translate Schinese a1s1_c7250a1b:
 
     # d "\"Okay, okay. {w}Just take deep breaths, {w=0.3}okay?\""
-    d "\"Okay, okay. {w}Just take deep breaths, {w=0.3}okay?\""
+    d "\"嗯。{w}慢慢地，{w=0.3}深呼吸。\""
 
