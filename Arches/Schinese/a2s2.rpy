@@ -4,7 +4,7 @@
 translate Schinese a2s2_3f669028:
 
     # "Devon stares, feeling himself become oddly detached from the situation."
-    "Devon呆呆注视着对方，感觉眼前的一切不太真实。"
+    "Devon呆呆注视着对方，感觉眼前看到的一切都不真实。"
 
 # game/a2s2.rpy:4
 translate Schinese a2s2_111328cc:
@@ -3210,35 +3210,35 @@ translate Schinese a2s2_fec97169:
 translate Schinese a2s2_21887091:
 
     # "...like himself."
-    "...like himself."
+    "...他自己。"
 
 # game/a2s2.rpy:644
 translate Schinese a2s2_0842f802:
 
     # "A moment seems to blank out of existence from Cameron's memory because the next thing he knows, he's already standing up, the chair sliding back behind him."
-    "A moment seems to blank out of existence from Cameron's memory because the next thing he knows, he's already standing up, the chair sliding back behind him."
+    "Cameron的大脑似乎宕机了一段时间，因为接下来他知道的，是自己已经站了起来，身后的椅子哗啦一声倒在地上。"
 
 # game/a2s2.rpy:683
 translate Schinese a2s2_c739c4cb:
 
     # c "\"Oh my god,{w=0.3} why!?{w=0.4} It ruined my life!\""
-    c "\"Oh my god,{w=0.3} why!?{w=0.4} It ruined my life!\""
+    c "\"{w=0.3}为什么！？{w=0.4}我的人生都是被它毁了！\""
 
 # game/a2s2.rpy:723
 translate Schinese a2s2_dfe82f26:
 
     # "But that's when odd, slightly curved glowing red lines begin expanding and shrinking behind his eyelids, and Cameron whines at the terrible reminder of what's going to happen."
-    "But that's when odd, slightly curved glowing red lines begin expanding and shrinking behind his eyelids, and Cameron whines at the terrible reminder of what's going to happen."
+    "然而就在这时，奇异的、呈弯曲状的金色光线开始在他的眼皮里收缩与扩张，这是一种可怕的预警，Cameron因此哀嚎不止。"
 
 # game/a2s2.rpy:730
 translate Schinese a2s2_435ac479:
 
     # b "\"Listen! What you do next is gonna determine what's gonna happen to ya.\""
-    b "\"Listen! What you do next is gonna determine what's gonna happen to ya.\""
+    b "\"听着！你的下场，取决于你能不能让我满意。\""
 
 # game/a2s2.rpy:736
 translate Schinese a2s2_900bfd02:
 
     # b "\"I need you to talk to some folks I used to know.{w} If you're really one of those psychics, if you can fix my problems, I'll let you go like nothin' happened.\""
-    b "\"I need you to talk to some folks I used to know.{w} If you're really one of those psychics, if you can fix my problems, I'll let you go like nothin' happened.\""
+    b "\"我呢，想让你跟几个故人见见。{w}如果你当真是灵媒，治好了我的心病，我自然会放你一马。\""
 
