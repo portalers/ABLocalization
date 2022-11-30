@@ -4,7 +4,7 @@
 translate Schinese start_282f3c5b:
 
     # wi "“The hell’s takin’ them so long?”"
-    wi "“怎么去了这么还没有回来？”"
+    wi "“怎么这么久还没有回来？”"
 
 # game/script.rpy:71
 translate Schinese start_0a60144d:
@@ -2848,19 +2848,19 @@ translate Schinese start_85e97413:
 translate Schinese start_99dcbaa7:
 
     # mu "“And floral trunks? I like them because they're busy. Like me.”"
-    mu "“花泳裤？我喜欢，因为它们杂乱无章，就像我一样。”"
+    mu "“花裤子？我喜欢，因为它们令人目不暇接，就像我一样。”"
 
 # game/script.rpy:1122
 translate Schinese start_90e42c80:
 
     # mu "“And I love these trunks. If it's not green, pink and white are my colors.”"
-    mu "“我喜欢这条泳裤，可惜是绿色的。我更钟爱粉色和白色。”"
+    mu "“我喜欢这条泳裤，可惜是绿色的，我更钟爱粉色和白色。”"
 
 # game/script.rpy:1124
 translate Schinese start_ecaf5145:
 
     # mu "“And the trunks are nice too, though I'm not sure how long I'll be wearing them when the right mood strikes.”"
-    mu "“这条泳裤不赖，就是不知道我的一时兴起能持续多久。”"
+    mu "“这条泳裤不赖，就是不知道穿多久我会腻。”"
 
 # game/script.rpy:1131
 translate Schinese start_d75408a2:
@@ -2884,13 +2884,13 @@ translate Schinese start_817f13f1:
 translate Schinese start_0f9f6023:
 
     # "That takes him off guard so hard that he’s blushing."
-    "他猝不及防，脸红了。"
+    "他的脸猝不及防地红了起来。"
 
 # game/script.rpy:1141
 translate Schinese start_05885ff6:
 
     # mu "“I’ll get you back for this.”"
-    mu "“走着瞧吧。”"
+    mu "“咱们走着瞧。”"
 
 # game/script.rpy:1149
 translate Schinese start_ca7b8f0f:
@@ -2908,7 +2908,7 @@ translate Schinese start_2f023c78:
 translate Schinese start_23367831:
 
     # wi "“I thought I said once already today that this is a vacation, not a porno.”"
-    wi "“不要让我重复一遍，我们是在度假，不是来演色情片的。”"
+    wi "“不要让我再重复一遍，咱们是在度假，不是来演黄片的。”"
 
 # game/script.rpy:1157
 translate Schinese start_1029abaf:
@@ -2920,19 +2920,19 @@ translate Schinese start_1029abaf:
 translate Schinese start_ba788e58:
 
     # wi "“And I’m supposed to trust you to pick that, huh?”"
-    wi "“哼，那你会选吗？”"
+    wi "“我应该相信你吗？”"
 
 # game/script.rpy:1163
 translate Schinese start_f8bf46df:
 
     # m "“Turns out you gotta!”"
-    m "“事实证明这是必要的！”"
+    m "“你不信也晚啦！”"
 
 # game/script.rpy:1166
 translate Schinese start_16f48781:
 
     # wi "“At least it’s not my money...”"
-    wi "“至少花的不是老子的钱...”"
+    wi "“至少花的不是我的钱...”"
 
 # game/script.rpy:1181
 translate Schinese start_2de0ada3:
@@ -2956,7 +2956,7 @@ translate Schinese start_ed59a00d:
 translate Schinese start_b0556008:
 
     # wi "“This top is practically what I was already wearing.”"
-    wi "“这件上衣和我之前穿的差不多。”"
+    wi "“这上衣和我之前穿的那件差不多。”"
 
 # game/script.rpy:1192
 translate Schinese start_9bfc03d6:
@@ -2986,7 +2986,7 @@ translate Schinese start_4970d56d:
 translate Schinese start_49202b82:
 
     # wi "“Heh. Sometimes I miss the skyline on this top.”"
-    wi "“有时候，我真的很想念远方的天际线。”"
+    wi "“城市上的天际线啊，有时候还挺怀念的。”"
 
 # game/script.rpy:1205
 translate Schinese start_15cb09bb:
@@ -3046,7 +3046,7 @@ translate Schinese start_41dd0f11:
 translate Schinese start_584e6403:
 
     # wi "“I'm glad you like the trunks I picked out, Sam, because I like them too.”"
-    wi "“我很高兴你喜欢我选的裤子，因为我也喜欢。”"
+    wi "“你喜欢我原来的裤子，很好，因为我也喜欢。”"
 
 # game/script.rpy:1230
 translate Schinese start_816680c2:
@@ -4024,7 +4024,7 @@ translate Schinese start_3bc1aeb5:
 translate Schinese start_b3b81ed3:
 
     # cl "“Perhaps there were a fair amount of smelters for ship items.”"
-    cl "“有很多冶炼厂生产船舶用品也不奇怪。”"
+    cl "“有很多生产船舶用品的冶炼厂也不奇怪。”"
 
 # game/script.rpy:1600
 translate Schinese start_73432a49:
@@ -4186,7 +4186,7 @@ translate Schinese start_d3d02cff:
 translate Schinese start_035a6b56:
 
     # "Even Todd is getting wide-eyed looking at me."
-    "就看Todd都睁大眼睛。"
+    "就连Todd都睁大了眼睛。"
 
 # game/script.rpy:1640
 translate Schinese start_5e5758c1:
@@ -7420,23 +7420,24 @@ translate Schinese start_12099bcc:
 
 #衣服选项
 translate Schinese strings:
+
     old "Shirt"
-    new "  衬衫"
+    new "上衣"
 
     old "Shorts"
-    new "  短裤"
+    new "短裤"
 
     old "Armbands"
-    new "  臂带"
+    new "腕带"
 
     old "Accessory 1 (Behind)"
-    new "配件1 (后方)"
+    new "配饰1"
 
     old "Accessory 2 (Front)"
-    new "配件2 (前方)"
+    new "配饰2"
 
     old "Accessory 1 (Back)"
-    new "配件1 (后方)"
+    new "配饰1"
 
     old "Save Outfit"
-    new "保存服装"
+    new "保存"
