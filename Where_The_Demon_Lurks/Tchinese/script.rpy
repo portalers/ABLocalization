@@ -1,6 +1,6 @@
 # TODO: Translation updated at 2021-11-07 21:50
 
-translate Schinese strings:
+translate Tchinese strings:
 
     # game/script.rpy:41
     old "Vendrake{#speakingName}"
@@ -24,7 +24,7 @@ translate Schinese strings:
 
     # game/script.rpy:47
     old "Son{#speakingName}"
-    new "儿子{#speakingName}"
+    new "兒子{#speakingName}"
 
     # game/script.rpy:48
     old "Morris{#speakingName}"
@@ -40,15 +40,15 @@ translate Schinese strings:
 
     # game/script.rpy:51
     old "Dog{#speakingName}"
-    new "狗子{#speakingName}"
+    new "Dog{#speakingName}"
 
     # game/script.rpy:52
     old "Ghost{#speakingName}"
-    new "幽灵{#speakingName}"
+    new "Ghost{#speakingName}"
 
     # game/script.rpy:53
     old "Boar{#speakingName}"
-    new "野猪{#speakingName}"
+    new "Boar{#speakingName}"
 
     # game/script.rpy:55
     old "King{#speakingName}"
@@ -72,15 +72,15 @@ translate Schinese strings:
 
     # game/script.rpy:60
     old "Staff{#speakingName}"
-    new "工作人员{#speakingName}"
+    new "工作人員{#speakingName}"
 
     # game/script.rpy:114
     old "This visual novel may contain mature/suggestive themes,\nby proceeding forward you agree that you are of appropriate age from your \nrespective country to be exposed to these types of materials."
-    new "This visual novel may contain mature/suggestive themes,\nby proceeding forward you agree that you are of appropriate age from your \nrespective country to be exposed to these types of materials."
+    new "這部視覺小說可能包含成熟/性暗示之內容，若繼續遊玩則代表您已同意您已符合所處國家之適當年齡，可接觸到相關題材之內容。"
 
-# TODO: Translation updated at 2022-12-08 00:20
+# TODO: Translation updated at 2022-12-08 00:21
 
-translate Schinese strings:
+translate Tchinese strings:
 
     # game/script.rpy:52
     old "Gin{#speakingName}"

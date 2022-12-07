@@ -1,44 +1,44 @@
-translate Schinese strings:
+translate Tchinese strings:
 
     # renpy/common/00accessibility.rpy:28
     old "Self-voicing disabled."
-    new "自动语音关闭。"
+    new "自動語音關閉。"
 
     # renpy/common/00accessibility.rpy:29
     old "Clipboard voicing enabled. "
-    new "剪贴板语音启用。"
+    new "剪貼板語音啟用。"
 
     # renpy/common/00accessibility.rpy:30
     old "Self-voicing enabled. "
-    new "自动语音启用。"
+    new "自動語音啟用。"
 
     # renpy/common/00accessibility.rpy:32
     old "bar"
-    new "条"
+    new "條"
 
     # renpy/common/00accessibility.rpy:33
     old "selected"
-    new "选中"
+    new "選中"
 
     # renpy/common/00accessibility.rpy:34
     old "viewport"
-    new "视口"
+    new "視口"
 
     # renpy/common/00accessibility.rpy:35
     old "horizontal scroll"
-    new "水平滚动"
+    new "水平滾動"
 
     # renpy/common/00accessibility.rpy:36
     old "vertical scroll"
-    new "垂直滚动"
+    new "垂直滾動"
 
     # renpy/common/00accessibility.rpy:37
     old "activate"
-    new "激活"
+    new "啟動"
 
     # renpy/common/00accessibility.rpy:38
     old "deactivate"
-    new "关闭"
+    new "關閉"
 
     # renpy/common/00accessibility.rpy:39
     old "increase"
@@ -46,15 +46,15 @@ translate Schinese strings:
 
     # renpy/common/00accessibility.rpy:40
     old "decrease"
-    new "减少"
+    new "減少"
 
     # renpy/common/00accessibility.rpy:128
     old "Font Override"
-    new "字体覆盖"
+    new "字體覆蓋"
 
     # renpy/common/00accessibility.rpy:132
     old "Default"
-    new "默认"
+    new "默認"
 
     # renpy/common/00accessibility.rpy:136
     old "DejaVu Sans"
@@ -66,43 +66,43 @@ translate Schinese strings:
 
     # renpy/common/00accessibility.rpy:146
     old "Text Size Scaling"
-    new "文本字体缩放"
+    new "文本字體縮放"
 
     # renpy/common/00accessibility.rpy:152
     old "Reset"
-    new "重置"
+    new "重設"
 
     # renpy/common/00accessibility.rpy:158
     old "Line Spacing Scaling"
-    new "行间距缩放"
+    new "行間距縮放"
 
     # renpy/common/00accessibility.rpy:171
     old "Self-Voicing"
-    new "自动语音"
+    new "自動語音"
 
     # renpy/common/00accessibility.rpy:175
     old "Off"
-    new "关"
+    new "關"
 
     # renpy/common/00accessibility.rpy:179
     old "Text-to-speech"
-    new "语音合成"
+    new "語音合成"
 
     # renpy/common/00accessibility.rpy:183
     old "Clipboard"
-    new "剪贴板"
+    new "剪貼板"
 
     # renpy/common/00accessibility.rpy:187
     old "Debug"
-    new "调试"
+    new "除錯"
 
     # renpy/common/00accessibility.rpy:193
     old "Self-Voicing Volume Drop"
-    new "自动语音音量下降"
+    new "自動語音音量下降"
 
     # renpy/common/00accessibility.rpy:202
     old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
-    new "这个菜单上的选项意在改善可用性。也许不是在所有的游戏中都起作用，一些选项的组合甚至可能让游戏没法玩。这不是游戏或引擎的问题。为了在改变字体时获得最好的结果，请保持字体大小和原来一样。"
+    new "這個菜單上的選項意在改善可用性。也許不是在所有的遊戲中都起作用，一些選項的組合甚至可能讓遊戲沒辦法玩。這不是遊戲或引擎的問題。為了在改變字體時獲得最好的結果，請保持字體大小和原來一樣。"
 
     # renpy/common/00accessibility.rpy:207
     old "Return"
@@ -266,39 +266,39 @@ translate Schinese strings:
 
     # renpy/common/00action_file.rpy:363
     old "Save slot %s: [text]"
-    new "存档 %s: [text]"
+    new "存檔 %s: [text]"
 
     # renpy/common/00action_file.rpy:444
     old "Load slot %s: [text]"
-    new "存档 %s: [text]"
+    new "存檔 %s: [text]"
 
     # renpy/common/00action_file.rpy:497
     old "Delete slot [text]"
-    new "删除存档 [text]"
+    new "刪除存檔 [text]"
 
     # renpy/common/00action_file.rpy:576
     old "File page auto"
-    new "自动存档页"
+    new "自動存檔頁"
 
     # renpy/common/00action_file.rpy:578
     old "File page quick"
-    new "快速存档页"
+    new "快速存檔頁"
 
     # renpy/common/00action_file.rpy:580
     old "File page [text]"
-    new "存档页 [text]"
+    new "存檔頁 [text]"
 
     # renpy/common/00action_file.rpy:779
     old "Next file page."
-    new "下一页。"
+    new "下一頁。"
 
     # renpy/common/00action_file.rpy:851
     old "Previous file page."
-    new "上一页。"
+    new "上一頁。"
 
     # renpy/common/00action_file.rpy:912
     old "Quick save complete."
-    new "快速保存完毕。"
+    new "快速保存完畢。"
 
     # renpy/common/00action_file.rpy:930
     old "Quick save."
@@ -306,15 +306,15 @@ translate Schinese strings:
 
     # renpy/common/00action_file.rpy:949
     old "Quick load."
-    new "快速读取。"
+    new "快速讀取。"
 
     # renpy/common/00action_other.rpy:375
     old "Language [text]"
-    new "语言 [text]"
+    new "語言 [text]"
 
     # renpy/common/00director.rpy:708
     old "The interactive director is not enabled here."
-    new "这里不能用交互式编导器。"
+    new "這裡不能用互動式編導器。"
 
     # renpy/common/00director.rpy:1481
     old "⬆"
@@ -358,7 +358,7 @@ translate Schinese strings:
 
     # renpy/common/00director.rpy:1631
     old "Change"
-    new "改变"
+    new "改變"
 
     # renpy/common/00director.rpy:1633
     old "Add"
@@ -374,111 +374,111 @@ translate Schinese strings:
 
     # renpy/common/00director.rpy:1674
     old "Statement:"
-    new "语句："
+    new "語句："
 
     # renpy/common/00director.rpy:1695
     old "Tag:"
-    new "标签："
+    new "標籤："
 
     # renpy/common/00director.rpy:1711
     old "Attributes:"
-    new "属性："
+    new "屬性："
 
     # renpy/common/00director.rpy:1729
     old "Transforms:"
-    new "变换："
+    new "變換："
 
     # renpy/common/00director.rpy:1748
     old "Behind:"
-    new "后置:"
+    new "後置:"
 
     # renpy/common/00director.rpy:1767
     old "Transition:"
-    new "转场："
+    new "轉場："
 
     # renpy/common/00director.rpy:1785
     old "Channel:"
-    new "频道："
+    new "頻道："
 
     # renpy/common/00director.rpy:1803
     old "Audio Filename:"
-    new "音频文件名："
+    new "音訊檔案名："
 
     # renpy/common/00gui.rpy:382
     old "Are you sure?"
-    new "你确定？"
+    new "你確定？"
 
     # renpy/common/00gui.rpy:383
     old "Are you sure you want to delete this save?"
-    new "你确定要删除这个存档吗？"
+    new "你確定要刪除這個存檔嗎？"
 
     # renpy/common/00gui.rpy:384
     old "Are you sure you want to overwrite your save?"
-    new "你确定要覆盖这个存档吗？"
+    new "你確定要覆蓋這個存檔嗎？"
 
     # renpy/common/00gui.rpy:385
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
-    new "读取会失去未保存的进度。\n你确定要这么做吗？"
+    new "讀取會失去未保存的進度。\n你確定要這麼做嗎？"
 
     # renpy/common/00gui.rpy:386
     old "Are you sure you want to quit?"
-    new "你确定要退出吗？"
+    new "你確定要退出嗎？"
 
     # renpy/common/00gui.rpy:387
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
-    new "你确定要返回主菜单吗？\n未保存的进度会丢失。"
+    new "你確定要返回主選單嗎？\n未保存的進度會遺失。"
 
     # renpy/common/00gui.rpy:388
     old "Are you sure you want to end the replay?"
-    new "你确定要结束回想吗？"
+    new "你確定要結束回想嗎？"
 
     # renpy/common/00gui.rpy:389
     old "Are you sure you want to begin skipping?"
-    new "你确定要开始跳过吗？"
+    new "你確定要開始跳過嗎？"
 
     # renpy/common/00gui.rpy:390
     old "Are you sure you want to skip to the next choice?"
-    new "你确定要跳到下一个选项吗？"
+    new "你確定要跳到下一個選項嗎？"
 
     # renpy/common/00gui.rpy:391
     old "Are you sure you want to skip unseen dialogue to the next choice?"
-    new "你确定要跳过还没看过的对话，直到下一个选项吗？"
+    new "你確定要跳過還沒看過的對話，直到下一個選項嗎？"
 
     # renpy/common/00keymap.rpy:300
     old "Failed to save screenshot as %s."
-    new "无法将截屏保存为%s。"
+    new "無法將截螢幕保護程式存為%s。"
 
     # renpy/common/00keymap.rpy:312
     old "Saved screenshot as %s."
-    new "截屏保存为%s。"
+    new "截螢幕保護程式存為%s。"
 
     # renpy/common/00library.rpy:195
     old "Skip Mode"
-    new "跳过模式"
+    new "跳過模式"
 
     # renpy/common/00library.rpy:281
     old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
-    new "这个程序包含了许多许可证下的免费软件，包括MIT许可证和GNU Lesser通用公共许可证。完整的软件列表，包括全部源代码的链接，可以在{a=https://www.renpy.org/l/license}这里{/a}找到。"
+    new "這個程序包含了許多許可證下的免費軟體，包括MIT許可證和GNU Lesser通用公共許可證。完整的軟體列表，包括全部原始碼的連結，可以在{a=https://www.renpy.org/l/license}這裡{/a}找到。"
 
     # renpy/common/00preferences.rpy:240
     old "display"
-    new "显示"
+    new "顯示"
 
     # renpy/common/00preferences.rpy:252
     old "transitions"
-    new "转场"
+    new "轉場"
 
     # renpy/common/00preferences.rpy:261
     old "skip transitions"
-    new "跳过转场"
+    new "跳過轉場"
 
     # renpy/common/00preferences.rpy:263
     old "video sprites"
-    new "视频精灵"
+    new "影片精靈"
 
     # renpy/common/00preferences.rpy:272
     old "show empty window"
-    new "显示空窗口"
+    new "顯示空窗口"
 
     # renpy/common/00preferences.rpy:281
     old "text speed"
@@ -486,59 +486,59 @@ translate Schinese strings:
 
     # renpy/common/00preferences.rpy:289
     old "joystick"
-    new "摇杆"
+    new "搖杆"
 
     # renpy/common/00preferences.rpy:289
     old "joystick..."
-    new "摇杆……"
+    new "搖杆……"
 
     # renpy/common/00preferences.rpy:296
     old "skip"
-    new "跳过"
+    new "跳過"
 
     # renpy/common/00preferences.rpy:299
     old "skip unseen [text]"
-    new "跳过未读[text]"
+    new "跳過未讀[text]"
 
     # renpy/common/00preferences.rpy:304
     old "skip unseen text"
-    new "跳过未读文本"
+    new "跳過未讀文本"
 
     # renpy/common/00preferences.rpy:306
     old "begin skipping"
-    new "开始跳过"
+    new "開始跳過"
 
     # renpy/common/00preferences.rpy:310
     old "after choices"
-    new "选择后"
+    new "選擇後"
 
     # renpy/common/00preferences.rpy:317
     old "skip after choices"
-    new "选择后跳过"
+    new "選擇後跳過"
 
     # renpy/common/00preferences.rpy:319
     old "auto-forward time"
-    new "自动前进时间"
+    new "自動前進時間"
 
     # renpy/common/00preferences.rpy:333
     old "auto-forward"
-    new "自动前进"
+    new "自動前進"
 
     # renpy/common/00preferences.rpy:340
     old "Auto forward"
-    new "自动前进"
+    new "自動前進"
 
     # renpy/common/00preferences.rpy:343
     old "auto-forward after click"
-    new "点击后自动前进"
+    new "點擊後自動前進"
 
     # renpy/common/00preferences.rpy:352
     old "automatic move"
-    new "自动移动"
+    new "自動移動"
 
     # renpy/common/00preferences.rpy:361
     old "wait for voice"
-    new "等待语音"
+    new "等待語音"
 
     # renpy/common/00preferences.rpy:370
     old "voice sustain"
@@ -546,23 +546,23 @@ translate Schinese strings:
 
     # renpy/common/00preferences.rpy:379
     old "self voicing"
-    new "自动语音"
+    new "自動語音"
 
     # renpy/common/00preferences.rpy:388
     old "self voicing volume drop"
-    new "自动语音音量下降"
+    new "自動語音音量下降"
 
     # renpy/common/00preferences.rpy:396
     old "clipboard voicing"
-    new "剪贴板语音"
+    new "剪貼板語音"
 
     # renpy/common/00preferences.rpy:405
     old "debug voicing"
-    new "调试语音"
+    new "除錯語音"
 
     # renpy/common/00preferences.rpy:414
     old "emphasize audio"
-    new "强调音"
+    new "強調音"
 
     # renpy/common/00preferences.rpy:423
     old "rollback side"
@@ -570,11 +570,11 @@ translate Schinese strings:
 
     # renpy/common/00preferences.rpy:433
     old "gl powersave"
-    new "gl省电"
+    new "gl省電"
 
     # renpy/common/00preferences.rpy:439
     old "gl framerate"
-    new "gl帧率"
+    new "gl幀率"
 
     # renpy/common/00preferences.rpy:442
     old "gl tearing"
@@ -582,23 +582,23 @@ translate Schinese strings:
 
     # renpy/common/00preferences.rpy:445
     old "font transform"
-    new "字体变换"
+    new "字體變換"
 
     # renpy/common/00preferences.rpy:448
     old "font size"
-    new "字体大小"
+    new "字體大小"
 
     # renpy/common/00preferences.rpy:456
     old "font line spacing"
-    new "字体行距"
+    new "字體行距"
 
     # renpy/common/00preferences.rpy:464
     old "system cursor"
-    new "系统光标"
+    new "系統游標"
 
     # renpy/common/00preferences.rpy:484
     old "music volume"
-    new "音乐"
+    new "音樂"
 
     # renpy/common/00preferences.rpy:485
     old "sound volume"
@@ -606,75 +606,75 @@ translate Schinese strings:
 
     # renpy/common/00preferences.rpy:486
     old "voice volume"
-    new "语音"
+    new "語音"
 
     # renpy/common/00preferences.rpy:487
     old "mute music"
-    new "音乐静音"
+    new "音樂靜音"
 
     # renpy/common/00preferences.rpy:488
     old "mute sound"
-    new "音效静音"
+    new "音效靜音"
 
     # renpy/common/00preferences.rpy:489
     old "mute voice"
-    new "语音静音"
+    new "語音靜音"
 
     # renpy/common/00preferences.rpy:490
     old "mute all"
-    new "全部静音"
+    new "全部靜音"
 
     # renpy/common/00preferences.rpy:571
     old "Clipboard voicing enabled. Press 'shift+C' to disable."
-    new "剪贴板语音已启用。按 'shift+C' 关闭。"
+    new "剪貼板語音已啟用。按 'shift+C' 關閉。"
 
     # renpy/common/00preferences.rpy:573
     old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
-    new "自动语音会说“[renpy.display.tts.last]”。按 'alt+shift+V' 关闭。"
+    new "自動語音會說“[renpy.display.tts.last]”。按 'alt+shift+V' 關閉。"
 
     # renpy/common/00preferences.rpy:575
     old "Self-voicing enabled. Press 'v' to disable."
-    new "自动语音已启动。按 'v' 关闭。"
+    new "自動語音已啟動。按 'v' 關閉。"
 
     # renpy/common/00iap.rpy:219
     old "Contacting App Store\nPlease Wait..."
-    new "正在连接应用商店\n请等待……"
+    new "正在連接應用商店\n請等待……"
 
     # renpy/common/00updater.rpy:374
     old "The Ren'Py Updater is not supported on mobile devices."
-    new "Ren'Py更新器不支持移动设备。"
+    new "Ren'Py更新器不支持移動設備。"
 
     # renpy/common/00updater.rpy:496
     old "An error is being simulated."
-    new "正在模拟错误。"
+    new "正在模擬錯誤。"
 
     # renpy/common/00updater.rpy:680
     old "Either this project does not support updating, or the update status file was deleted."
-    new "此工程不支持更新，或者更新状态文件已删除。"
+    new "此工程不支持更新，或者更新狀態文件已刪除。"
 
     # renpy/common/00updater.rpy:694
     old "This account does not have permission to perform an update."
-    new "此帐户没有执行更新的权限。"
+    new "此帳戶沒有執行更新的權限。"
 
     # renpy/common/00updater.rpy:697
     old "This account does not have permission to write the update log."
-    new "此帐户没有写入更新日志的权限。"
+    new "此帳戶沒有寫入更新日誌的權限。"
 
     # renpy/common/00updater.rpy:724
     old "Could not verify update signature."
-    new "不能验证更新签名。"
+    new "不能驗證更新簽名。"
 
     # renpy/common/00updater.rpy:995
     old "The update file was not downloaded."
-    new "更新文件未下载。"
+    new "更新文件未下載。"
 
     # renpy/common/00updater.rpy:1013
     old "The update file does not have the correct digest - it may have been corrupted."
-    new "更新文件没有正确的摘要 - 可能已损坏。"
+    new "更新文件沒有正確的摘要 - 可能已損壞。"
 
     # renpy/common/00updater.rpy:1067
     old "While unpacking {}, unknown type {}."
-    new "解压 {} 时，未知类型 {}."
+    new "解壓 {} 時，未知類型 {}."
 
     # renpy/common/00updater.rpy:1433
     old "Updater"
@@ -682,31 +682,31 @@ translate Schinese strings:
 
     # renpy/common/00updater.rpy:1440
     old "An error has occured:"
-    new "发生错误："
+    new "發生錯誤："
 
     # renpy/common/00updater.rpy:1442
     old "Checking for updates."
-    new "检查更新"
+    new "檢查更新"
 
     # renpy/common/00updater.rpy:1444
     old "This program is up to date."
-    new "本程序已最新。"
+    new "本程式已最新。"
 
     # renpy/common/00updater.rpy:1446
     old "[u.version] is available. Do you want to install it?"
-    new "[u.version]可用。你想安装吗？"
+    new "[u.version]可用。你想安裝嗎？"
 
     # renpy/common/00updater.rpy:1448
     old "Preparing to download the updates."
-    new "准备下载更新。"
+    new "準備下載更新。"
 
     # renpy/common/00updater.rpy:1450
     old "Downloading the updates."
-    new "下载更新。"
+    new "下載更新。"
 
     # renpy/common/00updater.rpy:1452
     old "Unpacking the updates."
-    new "解压更新。"
+    new "解壓更新。"
 
     # renpy/common/00updater.rpy:1454
     old "Finishing up."
@@ -714,11 +714,11 @@ translate Schinese strings:
 
     # renpy/common/00updater.rpy:1456
     old "The updates have been installed. The program will restart."
-    new "更新已安装。程序将重新启动。"
+    new "更新已安裝。程序將重新啟動。"
 
     # renpy/common/00updater.rpy:1458
     old "The updates have been installed."
-    new "更新已安装。"
+    new "更新已安裝。"
 
     # renpy/common/00updater.rpy:1460
     old "The updates were cancelled."
@@ -726,11 +726,11 @@ translate Schinese strings:
 
     # renpy/common/00updater.rpy:1475
     old "Proceed"
-    new "继续"
+    new "繼續"
 
     # renpy/common/00gallery.rpy:590
     old "Image [index] of [count] locked."
-    new "图像 [index] / [count] 锁定。"
+    new "圖像 [index] / [count] 鎖定。"
 
     # renpy/common/00gallery.rpy:610
     old "prev"
@@ -738,15 +738,15 @@ translate Schinese strings:
 
     # renpy/common/00gallery.rpy:611
     old "next"
-    new "后"
+    new "後"
 
     # renpy/common/00gallery.rpy:612
     old "slideshow"
-    new "幻灯片"
+    new "幻燈片"
 
     # renpy/common/00gallery.rpy:613
     old "return"
-    new "后退"
+    new "後退"
 
     # renpy/common/00gltest.rpy:89
     old "Renderer"
@@ -754,59 +754,59 @@ translate Schinese strings:
 
     # renpy/common/00gltest.rpy:93
     old "Automatically Choose"
-    new "自动选择"
+    new "自動選擇"
 
     # renpy/common/00gltest.rpy:100
     old "Force GL Renderer"
-    new "强制GL渲染器"
+    new "強制GL渲染器"
 
     # renpy/common/00gltest.rpy:105
     old "Force ANGLE Renderer"
-    new "强制ANGLE渲染器"
+    new "強制ANGLE渲染器"
 
     # renpy/common/00gltest.rpy:110
     old "Force GLES Renderer"
-    new "强制GLES渲染器"
+    new "強制GLES渲染器"
 
     # renpy/common/00gltest.rpy:116
     old "Force GL2 Renderer"
-    new "强制GL2渲染器"
+    new "強制GL2渲染器"
 
     # renpy/common/00gltest.rpy:121
     old "Force ANGLE2 Renderer"
-    new "强制ANGLE2渲染器"
+    new "強制ANGLE2渲染器"
 
     # renpy/common/00gltest.rpy:126
     old "Force GLES2 Renderer"
-    new "强制GLES2渲染器"
+    new "強制GLES2渲染器"
 
     # renpy/common/00gltest.rpy:132
     old "Gamepad"
-    new "游戏手柄"
+    new "遊戲手把"
 
     # renpy/common/00gltest.rpy:136
     old "Enable (No Blocklist)"
-    new "启用（无黑名单）"
+    new "啟用（無黑名單）"
 
     # renpy/common/00gltest.rpy:140
     old "Enable"
-    new "启用"
+    new "啟用"
 
     # renpy/common/00gltest.rpy:150
     old "Calibrate"
-    new "校准"
+    new "校準"
 
     # renpy/common/00gltest.rpy:159
     old "Powersave"
-    new "省电"
+    new "省電"
 
     # renpy/common/00gltest.rpy:173
     old "Framerate"
-    new "帧率"
+    new "幀率"
 
     # renpy/common/00gltest.rpy:177
     old "Screen"
-    new "屏幕"
+    new "螢幕"
 
     # renpy/common/00gltest.rpy:181
     old "60"
@@ -822,7 +822,7 @@ translate Schinese strings:
 
     # renpy/common/00gltest.rpy:207
     old "Changes will take effect the next time this program is run."
-    new "更改将在下次运行此程序时生效。"
+    new "更改將在下次運行此程序時生效。"
 
     # renpy/common/00gltest.rpy:214
     old "Quit"
@@ -834,99 +834,99 @@ translate Schinese strings:
 
     # renpy/common/00gltest.rpy:247
     old "This computer is using software rendering."
-    new "此电脑正在使用软件渲染。"
+    new "此電腦正在使用軟體渲染。"
 
     # renpy/common/00gltest.rpy:249
     old "This game requires use of GL2 that can't be initialised."
-    new "这个游戏需要使用GL2，无法初始化。"
+    new "這個遊戲需要使用GL2，無法初始化。"
 
     # renpy/common/00gltest.rpy:251
     old "This computer has a problem displaying graphics: [problem]."
-    new "此电脑显示图形遇到问题：[problem]."
+    new "此電腦顯示圖形遇到問題：[problem]."
 
     # renpy/common/00gltest.rpy:255
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
-    new "图形驱动程序可能已过期或无法正常工作。这可能导致图形显示缓慢或错误。"
+    new "圖形驅動程序可能已過期或無法正常工作。這可能導致圖形顯示緩慢或錯誤。"
 
     # renpy/common/00gltest.rpy:259
     old "The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer."
-    new "{a=edit:1:log.txt}log.txt{/a}或许包含了帮助你判断电脑问题的信息。"
+    new "{a=edit:1:log.txt}log.txt{/a}或許包含了幫助你判斷電腦問題的訊息。"
 
     # renpy/common/00gltest.rpy:264
     old "More details on how to fix this can be found in the {a=[url]}documentation{/a}."
-    new "你可在{a=[url]}文档{/a}中找到更多的解决方案。"
+    new "你可在{a=[url]}文件{/a}中找到更多的解決方案。"
 
     # renpy/common/00gltest.rpy:269
     old "Continue, Show this warning again"
-    new "继续，下次显示此警告"
+    new "繼續，下次顯示此警告"
 
     # renpy/common/00gltest.rpy:273
     old "Continue, Don't show warning again"
-    new "继续，不再出现警告"
+    new "繼續，不再出現警告"
 
     # renpy/common/00gltest.rpy:281
     old "Change render options"
-    new "更改渲染器选项"
+    new "更改渲染器選項"
 
     # renpy/common/00gamepad.rpy:32
     old "Select Gamepad to Calibrate"
-    new "选择要校准的游戏手柄"
+    new "選擇要校準的遊戲手把"
 
     # renpy/common/00gamepad.rpy:35
     old "No Gamepads Available"
-    new "没有可用的游戏手柄"
+    new "沒有可用的遊戲手把"
 
     # renpy/common/00gamepad.rpy:54
     old "Calibrating [name] ([i]/[total])"
-    new "校准 [name] ([i]/[total])"
+    new "校準 [name] ([i]/[total])"
 
     # renpy/common/00gamepad.rpy:58
     old "Press or move the '[control!s]' [kind]."
-    new "按下或移动 '[control!s]' [kind]."
+    new "按下或移動 '[control!s]' [kind]."
 
     # renpy/common/00gamepad.rpy:68
     old "Skip (A)"
-    new "跳过 (A)"
+    new "跳過 (A)"
 
     # renpy/common/00gamepad.rpy:71
     old "Back (B)"
-    new "后退 (B)"
+    new "後退 (B)"
 
     # renpy/common/_errorhandling.rpym:542
     old "Open"
-    new "打开"
+    new "打開"
 
     # renpy/common/_errorhandling.rpym:544
     old "Opens the traceback.txt file in a text editor."
-    new "在文本编辑器中打开 traceback.txt 。"
+    new "在文本編輯器中打開 traceback.txt 。"
 
     # renpy/common/_errorhandling.rpym:546
     old "Copy BBCode"
-    new "复制BBCode"
+    new "複製BBCode"
 
     # renpy/common/_errorhandling.rpym:548
     old "Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
-    new "以BBcode复制 traceback.txt 文件到论坛如 https://lemmasoft.renai.us/ 。"
+    new "以BBcode複製 traceback.txt 文件到論壇如 https://lemmasoft.renai.us/ 。"
 
     # renpy/common/_errorhandling.rpym:550
     old "Copy Markdown"
-    new "复制Markdown"
+    new "複製Markdown"
 
     # renpy/common/_errorhandling.rpym:552
     old "Copies the traceback.txt file to the clipboard as Markdown for Discord."
-    new "以Markdown复制 traceback.txt 文件到Discord。"
+    new "以Markdown複製 traceback.txt 文件到Discord。"
 
     # renpy/common/_errorhandling.rpym:581
     old "An exception has occurred."
-    new "发生异常。"
+    new "發生異常。"
 
     # renpy/common/_errorhandling.rpym:604
     old "Rollback"
-    new "回滚"
+    new "後退"
 
     # renpy/common/_errorhandling.rpym:606
     old "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
-    new "尝试会滚到之前的时间，这将允许你保存或选择不同的选项。"
+    new "嘗試會滾到之前的時間，這將允許你保存或選擇不同的選項。"
 
     # renpy/common/_errorhandling.rpym:609
     old "Ignore"
@@ -934,19 +934,19 @@ translate Schinese strings:
 
     # renpy/common/_errorhandling.rpym:613
     old "Ignores the exception, allowing you to continue."
-    new "忽略异常，允许您继续。"
+    new "忽略異常，允許您繼續。"
 
     # renpy/common/_errorhandling.rpym:615
     old "Ignores the exception, allowing you to continue. This often leads to additional errors."
-    new "忽略异常，允许您继续。这通常会导致额外的错误。"
+    new "忽略異常，允許您繼續。這通常會導致額外的錯誤。"
 
     # renpy/common/_errorhandling.rpym:619
     old "Reload"
-    new "重新加载"
+    new "重新載入"
 
     # renpy/common/_errorhandling.rpym:621
     old "Reloads the game from disk, saving and restoring game state if possible."
-    new "从硬盘重新加载游戏，并尝试保存和恢复游戏状态。"
+    new "從硬碟重新載入遊戲，並嘗試保存和恢復遊戲狀態。"
 
     # renpy/common/_errorhandling.rpym:624
     old "Console"
@@ -954,33 +954,29 @@ translate Schinese strings:
 
     # renpy/common/_errorhandling.rpym:626
     old "Opens a console to allow debugging the problem."
-    new "打开控制台以允许调试问题。"
+    new "打開控制台以允許除錯問題。"
 
     # renpy/common/_errorhandling.rpym:639
     old "Quits the game."
-    new "退出游戏。"
+    new "退出遊戲。"
 
     # renpy/common/_errorhandling.rpym:660
     old "Parsing the script failed."
-    new "解析脚本失败。"
+    new "解析腳本失敗。"
 
     # renpy/common/_errorhandling.rpym:686
     old "Opens the errors.txt file in a text editor."
-    new "在文本编辑器中打开 errors.txt 文件。"
+    new "在文本編輯器中打開 errors.txt 文件。"
 
     # renpy/common/_errorhandling.rpym:690
     old "Copies the errors.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
-    new "以BBcode复制 errors.txt 文件到论坛如 https://lemmasoft.renai.us/ 。"
+    new "以BBcode複製 errors.txt 文件到論壇如 https://lemmasoft.renai.us/ 。"
 
     # renpy/common/_errorhandling.rpym:694
     old "Copies the errors.txt file to the clipboard as Markdown for Discord."
-    new "以Markdown复制 errors.txt 文件到Discord。"
+    new "以Markdown複製 errors.txt 文件到Discord。"# TODO: Translation updated at 2022-12-08 00:21
 
-
-
-# TODO: Translation updated at 2022-12-08 00:20
-
-translate Schinese strings:
+translate Tchinese strings:
 
     # renpy/common/00accessibility.rpy:180
     old "High Contrast Text"

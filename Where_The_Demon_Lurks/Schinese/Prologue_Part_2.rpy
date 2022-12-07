@@ -1920,3 +1920,161 @@ translate Schinese prologue_part_2_39e036de:
     # Fort -left "Treason!"
     Fort -left "叛徒！"
 
+# TODO: Translation updated at 2022-12-08 00:18
+
+# game/story/Prologue_Part_2.rpy:125
+translate Schinese prologue_part_2_85794198:
+
+    # Fort laugh "HERE!"
+    Fort laugh "HERE!"
+
+# game/story/Prologue_Part_2.rpy:135
+translate Schinese prologue_part_2_36dcf159:
+
+    # Fort confused "You calling me stupid or you telling me to shut up?"
+    Fort confused "You calling me stupid or you telling me to shut up?"
+
+# game/story/Prologue_Part_2.rpy:137
+translate Schinese prologue_part_2_0a0254b0:
+
+    # Nox "..." (cb_no_talk=True)
+    Nox "..." (cb_no_talk=True)
+
+# game/story/Prologue_Part_2.rpy:161
+translate Schinese prologue_part_2_4c5a2d7b:
+
+    # Amar talk "Last, but not least: Lord [name], Ruler of the Underworld and Judge of All Mortal Souls?"
+    Amar talk "Last, but not least: Lord [name], Ruler of the Underworld and Judge of All Mortal Souls?"
+
+# game/story/Prologue_Part_2.rpy:163
+translate Schinese prologue_part_2_872c5c2b:
+
+    # p talk "Here."
+    p talk "Here."
+
+# game/story/Prologue_Part_2.rpy:188
+translate Schinese prologue_part_2_961f244e:
+
+    # Fort @ laugh "{sc=3}{b}I DO!{/b}{/sc}"
+    Fort @ laugh "{sc=3}{b}I DO!{/b}{/sc}"
+
+# game/story/Prologue_Part_2.rpy:278
+translate Schinese prologue_part_2_1b6b7bec:
+
+    # Fort shocked "Boss, it’s not that you can’t go drinking. But it might be best to avoid doing so during working hours?"
+    Fort shocked "Boss, it’s not that you can’t go drinking. But it might be best to avoid doing so during working hours?"
+
+# game/story/Prologue_Part_2.rpy:280
+translate Schinese prologue_part_2_98431a91:
+
+    # Fort confused "You set an example, whether you realise it or not."
+    Fort confused "You set an example, whether you realise it or not."
+
+# game/story/Prologue_Part_2.rpy:319
+translate Schinese prologue_part_2_0a0254b0_1:
+
+    # Nox "..." (cb_no_talk=True)
+    Nox "..." (cb_no_talk=True)
+
+# game/story/Prologue_Part_2.rpy:346
+translate Schinese prologue_part_2_d76c3c51:
+
+    # p "Vendrake! " with vpunch
+    p "Vendrake! " with vpunch
+
+# game/story/Prologue_Part_2.rpy:356
+translate Schinese prologue_part_2_c8095401:
+
+    # extend "I’m suspending your role as second-in-command until you learn to be less of a thorn in my side!" with vpunch
+    extend "I’m suspending your role as second-in-command until you learn to be less of a thorn in my side!" with vpunch
+
+# game/story/Prologue_Part_2.rpy:918
+translate Schinese prologue_part_2_8d4e043f:
+
+    # Fort neutral2 "Oh no, you can’t say that after the scene you pulled back in the meeting room."
+    Fort neutral2 "Oh no, you can’t say that after the scene you pulled back in the meeting room."
+
+# game/story/Prologue_Part_2.rpy:922
+translate Schinese prologue_part_2_f37f0ed3:
+
+    # Fort annoyed "Amare!"
+    Fort annoyed "Amare!"
+
+# game/story/Prologue_Part_2.rpy:930
+translate Schinese prologue_part_2_505a1369:
+
+    # Fort confused "Where’s your fire, boy? Where’s the demon that I trained when he was just in diapers?"
+    Fort confused "Where’s your fire, boy? Where’s the demon that I trained when he was just in diapers?"
+
+# game/story/Prologue_Part_2.rpy:932
+translate Schinese prologue_part_2_22909b3d:
+
+    # Fort @ pose2 "Where’s your fight back?"
+    Fort @ pose2 "Where’s your fight back?"
+
+# game/story/Prologue_Part_2.rpy:957
+translate Schinese prologue_part_2_cb7c280f:
+
+    # p talk "Thank you for the offer, Amare. {done}Thing is, I am not sure finding the spirit to fight back is enough to keep me here."
+    p talk "Thank you for the offer, Amare. {done}Thing is, I am not sure finding the spirit to fight back is enough to keep me here."
+
+# game/story/Prologue_Part_2.rpy:963
+translate Schinese prologue_part_2_ddcb4e42:
+
+    # Amar shocked "You want to quit?"
+    Amar shocked "You want to quit?"
+
+# game/story/Prologue_Part_2.rpy:991
+translate Schinese prologue_part_2_0850739d:
+
+    # Amar shocked "Fortis! You’re suffocating our Lord!"
+    Amar shocked "Fortis! You’re suffocating our Lord!"
+
+# game/story/Prologue_Part_2.rpy:1042
+translate Schinese prologue_part_2_8335e004:
+
+    # Fort confused "Cologne? I don’t wear cologne."
+    Fort confused "Cologne? I don’t wear cologne."
+
+# game/story/Prologue_Part_2.rpy:1057
+translate Schinese prologue_part_2_5cca9a0c:
+
+    # p talk "What do you say if we go back to my office and just play a round of go-kart racing with some drinks?"
+    p talk "What do you say if we go back to my office and just play a round of go-kart racing with some drinks?"
+
+# game/story/Prologue_Part_2.rpy:1059
+translate Schinese prologue_part_2_51b51131:
+
+    # Fort laugh pose2 "I’m game! I’ll beat all your butts!"
+    Fort laugh pose2 "I’m game! I’ll beat all your butts!"
+
+# game/story/Prologue_Part_2.rpy:1135
+translate Schinese prologue_part_2_6908a265:
+
+    # Amar shocked "Nox? Why are you here?"
+    Amar shocked "Nox? Why are you here?"
+
+# game/story/Prologue_Part_2.rpy:1164
+translate Schinese prologue_part_2_60c5293f:
+
+    # Fort confused "Yeah, quit fooling around with your toys and give the boss his office back!"
+    Fort confused "Yeah, quit fooling around with your toys and give the boss his office back!"
+
+# game/story/Prologue_Part_2.rpy:1194
+translate Schinese prologue_part_2_497a81ec:
+
+    # Fort -left annoyed "Treason!"
+    Fort -left annoyed "Treason!"
+
+# game/story/Prologue_Part_2.rpy:1344
+translate Schinese prologue_part_2_c6537e81:
+
+    # Amar shocked "Ahhh!"
+    Amar shocked "Ahhh!"
+
+# game/story/Prologue_Part_2.rpy:1379
+translate Schinese prologue_part_2_23b89c77:
+
+    # Amar shocked "Nox! What are you doing?"
+    Amar shocked "Nox! What are you doing?"
+

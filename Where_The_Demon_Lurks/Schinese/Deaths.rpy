@@ -138,3 +138,23 @@ translate Schinese death_9d8b2aac:
     # "Unknown" "My shoulders feel so heavy lately. I need more deep heating cream."
     "Unknown" "My shoulders feel so heavy lately. I need more deep heating cream."
 
+# TODO: Translation updated at 2022-12-08 00:18
+
+# game/story/Deaths.rpy:13
+translate Schinese death_2d479009:
+
+    # "Unknown" "You can’t talk, can you? Not that you should, considering you’ve never been here before."
+    "Unknown" "You can’t talk, can you? Not that you should, considering you’ve never been here before."
+
+# game/story/Deaths.rpy:24
+translate Schinese death_c277f548:
+
+    # "Unknown" "Alright, don’t ask any questions. Not that you can. Before they become aware that you’re here, I’m sending you back to the moment of your death. You won’t recall that we ever talked, of course."
+    "Unknown" "Alright, don’t ask any questions. Not that you can. Before they become aware that you’re here, I’m sending you back to the moment of your death. You won’t recall that we ever talked, of course."
+
+# game/story/Deaths.rpy:36
+translate Schinese death_0944ab75:
+
+    # "Unknown" "My shoulders feel so heavy lately. I need more of that deep heating cream."
+    "Unknown" "My shoulders feel so heavy lately. I need more of that deep heating cream."
+

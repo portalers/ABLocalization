@@ -2026,3 +2026,143 @@ translate Schinese name_input_75b58267:
     # Fort pose1 neutral2 "You’re not a dad yet, Boss."
     Fort pose1 neutral2 "您还没孩子呐，老大。"
 
+# TODO: Translation updated at 2022-12-08 00:18
+
+# game/story/Prologue_Part_1.rpy:351
+translate Schinese name_input_609fe9e4:
+
+    # Amar smile "I see. If my Lord wants to know about me, I have my specs right here."
+    Amar smile "I see. If my Lord wants to know about me, I have my specs right here."
+
+# game/story/Prologue_Part_1.rpy:365
+translate Schinese name_input_971744a6:
+
+    # Amar neutral "Would you like me to display the contents on my brain for you, my Lord? I can get a machine to show you the shape of my brain in little time."
+    Amar neutral "Would you like me to display the contents on my brain for you, my Lord? I can get a machine to show you the shape of my brain in little time."
+
+# game/story/Prologue_Part_1.rpy:379
+translate Schinese name_input_c7d8511f:
+
+    # Amar sad "Oh… so my fridge didn’t learn to run yet?"
+    Amar sad "Oh… so my fridge didn’t learn to run yet?"
+
+# game/story/Prologue_Part_1.rpy:387
+translate Schinese name_input_8a815067:
+
+    # Amar -hand1 hand2 hand3 smile "Yeah! I can make it run after the souls and trap them in a black hole that sends them back into the never-ending cycle of running and getting trapped!"
+    Amar -hand1 hand2 hand3 smile "Yeah! I can make it run after the souls and trap them in a black hole that sends them back into the never-ending cycle of running and getting trapped!"
+
+# game/story/Prologue_Part_1.rpy:397
+translate Schinese name_input_9a4e0a1f:
+
+    # Amar neutral "Yes, I need them to fix or modify the torture machines we use. Since souls tend to become accustomed to their torturing over time, we need to change their hellish experience every so often."
+    Amar neutral "Yes, I need them to fix or modify the torture machines we use. Since souls tend to become accustomed to their torturing over time, we need to change their hellish experience every so often."
+
+# game/story/Prologue_Part_1.rpy:409
+translate Schinese name_input_584df2c9:
+
+    # Amar -hand2 -hand3 hand1 smile "Exactly!"
+    Amar -hand2 -hand3 hand1 smile "Exactly!"
+
+# game/story/Prologue_Part_1.rpy:415
+translate Schinese name_input_e89ba46b:
+
+    # Amar sad "I ran the proposal with the research committee, but it’s been stuck in the pending phase for over a hundred years. I just need to test the prototype somewhere."
+    Amar sad "I ran the proposal with the research committee, but it’s been stuck in the pending phase for over a hundred years. I just need to test the prototype somewhere."
+
+# game/story/Prologue_Part_1.rpy:421
+translate Schinese name_input_30d6142b:
+
+    # Amar smile "Really? That’s all I would need to get started."
+    Amar smile "Really? That’s all I would need to get started."
+
+# game/story/Prologue_Part_1.rpy:488
+translate Schinese name_input_67459b7f:
+
+    # Fort pose2 laugh "HEY, BOSS! GET OVER HERE!"
+    Fort pose2 laugh "HEY, BOSS! GET OVER HERE!"
+
+# game/story/Prologue_Part_1.rpy:496
+translate Schinese name_input_98190c97:
+
+    # Fort neutral2 "Heck yeah! Boss it is then! Now that’s a title for someone with {sc=2}power!{/sc}"
+    Fort neutral2 "Heck yeah! Boss it is then! Now that’s a title for someone with {sc=2}power!{/sc}"
+
+# game/story/Prologue_Part_1.rpy:506
+translate Schinese name_input_da4043be:
+
+    # Fort laugh "Heck yeah there’s more to it than that. I run a team of torture demons! That means coming up with new torture techniques, and planning out the work schedule so my staff can keep busy."
+    Fort laugh "Heck yeah there’s more to it than that. I run a team of torture demons! That means coming up with new torture techniques, and planning out the work schedule so my staff can keep busy."
+
+# game/story/Prologue_Part_1.rpy:508
+translate Schinese name_input_5cc4dba7:
+
+    # Fort neutral2 pose2 "We demons may be tough, but wear and tear happens if you keep pushing your team or yourself too hard. Besides, you can’t grow muscles without rest!"
+    Fort neutral2 pose2 "We demons may be tough, but wear and tear happens if you keep pushing your team or yourself too hard. Besides, you can’t grow muscles without rest!"
+
+# game/story/Prologue_Part_1.rpy:512
+translate Schinese name_input_258628ab:
+
+    # Fort pose3 "Heck yeah, I recommend we start everyone on a protein-only diet!"
+    Fort pose3 "Heck yeah, I recommend we start everyone on a protein-only diet!"
+
+# game/story/Prologue_Part_1.rpy:530
+translate Schinese name_input_08535022:
+
+    # Fort pose1 neutral1 "Right, don’t think your underlings are loyal to you out of love alone. We’re all demons, creatures born from chaos to manage chaos."
+    Fort pose1 neutral1 "Right, don’t think your underlings are loyal to you out of love alone. We’re all demons, creatures born from chaos to manage chaos."
+
+# game/story/Prologue_Part_1.rpy:534
+translate Schinese name_input_3e5374c0:
+
+    # Fort @ sad "If you start showing weakness, someone’s going to get the bright idea they can take your place."
+    Fort @ sad "If you start showing weakness, someone’s going to get the bright idea they can take your place."
+
+# game/story/Prologue_Part_1.rpy:547
+translate Schinese name_input_764e0e33:
+
+    # Fort annoyed "Like rerunning those old dream ads?"
+    Fort annoyed "Like rerunning those old dream ads?"
+
+# game/story/Prologue_Part_1.rpy:551
+translate Schinese name_input_0cf69638:
+
+    # Fort confused "You can do that with the Internet?"
+    Fort confused "You can do that with the Internet?"
+
+# game/story/Prologue_Part_1.rpy:555
+translate Schinese name_input_bb077a2a:
+
+    # Fort shocked "Uhh… stuff."
+    Fort shocked "Uhh… stuff."
+
+# game/story/Prologue_Part_1.rpy:557
+translate Schinese name_input_2f946db7:
+
+    # Fort confused "Does Vendrake know about this?"
+    Fort confused "Does Vendrake know about this?"
+
+# game/story/Prologue_Part_1.rpy:563
+translate Schinese name_input_83d52725:
+
+    # Fort neutral1 "Maybe I can do a training video. You know, show how powerful our demons are. That oughta scare those mortals down the right path."
+    Fort neutral1 "Maybe I can do a training video. You know, show how powerful our demons are. That oughta scare those mortals down the right path."
+
+# game/story/Prologue_Part_1.rpy:824
+translate Schinese name_input_11d01329:
+
+    # Amar "Who’s he?" (cb_no_talk=True)
+    Amar "Who’s he?" (cb_no_talk=True)
+
+# game/story/Prologue_Part_1.rpy:837
+translate Schinese name_input_3d18f97e:
+
+    # Amar "Oh right, right. Hello, Lord [name]." (cb_no_talk=True)
+    Amar "Oh right, right. Hello, Lord [name]." (cb_no_talk=True)
+
+# game/story/Prologue_Part_1.rpy:943
+translate Schinese name_input_396294b0:
+
+    # Fort annoyed "No, he approved my idea first, so that takes priority."
+    Fort annoyed "No, he approved my idea first, so that takes priority."
+

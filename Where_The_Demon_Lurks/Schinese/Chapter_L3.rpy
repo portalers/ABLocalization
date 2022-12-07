@@ -5150,3 +5150,887 @@ translate Schinese strings:
     old "Pick Toast"
     new "Pick Toast"
 
+# TODO: Translation updated at 2022-12-08 00:18
+
+# game/story/Chapter_L3.rpy:17
+translate Schinese chapter_L3_5287a94c:
+
+    # "The evening sun paints the sky a warm orange hue. Though the peaceful atmosphere would be welcoming for anyone after a day of hard work, you still have things to do."
+    "The evening sun paints the sky a warm orange hue. Though the peaceful atmosphere would be welcoming for anyone after a day of hard work, you still have things to do."
+
+# game/story/Chapter_L3.rpy:20
+translate Schinese chapter_L3_5cb24b89:
+
+    # "Lucian leads you to the shopping district. At the entrance he pulls out his H.A.L.O and taps it twice on the top."
+    "Lucian leads you to the shopping district. At the entrance he pulls out his H.A.L.O and taps it twice on the top."
+
+# game/story/Chapter_L3.rpy:40
+translate Schinese chapter_L3_72e16025:
+
+    # "He suddenly pivots and walks into a boutique."
+    "He suddenly pivots and walks into a boutique."
+
+# game/story/Chapter_L3.rpy:46
+translate Schinese chapter_L3_90a8d57a:
+
+    # "You follow him inside, being led around the shop."
+    "You follow him inside, being led around the shop."
+
+# game/story/Chapter_L3.rpy:49
+translate Schinese chapter_L3_f781d6bb:
+
+    # "He walks straight through a rack of dresses that you have to hurriedly pull off his head on his way back out of the store."
+    "He walks straight through a rack of dresses that you have to hurriedly pull off his head on his way back out of the store."
+
+# game/story/Chapter_L3.rpy:62
+translate Schinese chapter_L3_7607c250:
+
+    # "The pinging rises and falls with no discernible pattern, but the dog relentlessly follows its beck and call, leading him into yet another store."
+    "The pinging rises and falls with no discernible pattern, but the dog relentlessly follows its beck and call, leading him into yet another store."
+
+# game/story/Chapter_L3.rpy:66
+translate Schinese chapter_L3_addb58cb:
+
+    # "Within five minutes, someone screams, followed by a loud slapping sound."
+    "Within five minutes, someone screams, followed by a loud slapping sound."
+
+# game/story/Chapter_L3.rpy:75
+translate Schinese chapter_L3_2508685a:
+
+    # "Lucian rushes out of the store and briskly walks past you. He’s covering his left cheek with one hand while his other hand keeps a steady grip on the H.A.L.O, never taking his eyes off it."
+    "Lucian rushes out of the store and briskly walks past you. He’s covering his left cheek with one hand while his other hand keeps a steady grip on the H.A.L.O, never taking his eyes off it."
+
+# game/story/Chapter_L3.rpy:88
+translate Schinese chapter_L3_61dd10bc:
+
+    # "He mumbles something to himself before walking through a crowd — cutting off, and bumping into anyone he crosses, despite their exasperated cries."
+    "He mumbles something to himself before walking through a crowd — cutting off, and bumping into anyone he crosses, despite their exasperated cries."
+
+# game/story/Chapter_L3.rpy:91
+translate Schinese chapter_L3_05a23d51:
+
+    # "You walk behind him with your head low."
+    "You walk behind him with your head low."
+
+# game/story/Chapter_L3.rpy:96
+translate Schinese chapter_L3_2a74aa94:
+
+    # "Reaching out and seizingLucian’s wrist, you yank him to a halt."
+    "Reaching out and seizingLucian’s wrist, you yank him to a halt."
+
+# game/story/Chapter_L3.rpy:98
+translate Schinese chapter_L3_7ebe4d00:
+
+    # p "Dude, stop running around at random. You’re bothering people."
+    p "Dude, stop running around at random. You’re bothering people."
+
+# game/story/Chapter_L3.rpy:104
+translate Schinese chapter_L3_851fa6b9:
+
+    # L "It doesn’t have to be a literal gate, it’s just a name. The thing could be floating for all I know."
+    L "It doesn’t have to be a literal gate, it’s just a name. The thing could be floating for all I know."
+
+# game/story/Chapter_L3.rpy:106
+translate Schinese chapter_L3_ed13628c:
+
+    # p @ confused "There’s clearly nothing here."
+    p @ confused "There’s clearly nothing here."
+
+# game/story/Chapter_L3.rpy:108
+translate Schinese chapter_L3_14765f95:
+
+    # L sad "Well… Welllll… But the H.A.L.O."
+    L sad "Well… Welllll… But the H.A.L.O."
+
+# game/story/Chapter_L3.rpy:177
+translate Schinese chapter_L3_5ce32c99:
+
+    # "It’s the only stall still open. The rest had either closed for the day, or were never in business to begin with."
+    "It’s the only stall still open. The rest had either closed for the day, or were never in business to begin with."
+
+# game/story/Chapter_L3.rpy:179
+translate Schinese chapter_L3_f53a9aa2:
+
+    # "Considering you have nothing to lose, you head over to the chicken rice stall in question."
+    "Considering you have nothing to lose, you head over to the chicken rice stall in question."
+
+# game/story/Chapter_L3.rpy:201
+translate Schinese chapter_L3_d1091eda:
+
+    # Vendor "Of course, my chicken rice is the best in town. I’ve been selling it for a decade."
+    Vendor "Of course, my chicken rice is the best in town. I’ve been selling it for a decade."
+
+# game/story/Chapter_L3.rpy:203
+translate Schinese chapter_L3_96df9544:
+
+    # Vendor "Trust me, try elsewhere all you like, but you’ll love mine so much you’ll be back in no time."
+    Vendor "Trust me, try elsewhere all you like, but you’ll love mine so much you’ll be back in no time."
+
+# game/story/Chapter_L3.rpy:207
+translate Schinese chapter_L3_73821d65:
+
+    # Vendor "I’m here from breakfast to dusk."
+    Vendor "I’m here from breakfast to dusk."
+
+# game/story/Chapter_L3.rpy:209
+translate Schinese chapter_L3_46d6ec1f:
+
+    # p smile "Hey, then you must have seen a boatload of interesting things go on around here. My friend and I are actually looking into supernatural spots in the town."
+    p smile "Hey, then you must have seen a boatload of interesting things go on around here. My friend and I are actually looking into supernatural spots in the town."
+
+# game/story/Chapter_L3.rpy:219
+translate Schinese chapter_L3_33d43a41:
+
+    # Vendor "Maybe, or maybe not. I’ve got a lot of chicken and pork to sell. Perhaps if I had less on my plate, I could recall better."
+    Vendor "Maybe, or maybe not. I’ve got a lot of chicken and pork to sell. Perhaps if I had less on my plate, I could recall better."
+
+# game/story/Chapter_L3.rpy:235
+translate Schinese chapter_L3_e6dcd2a4:
+
+    # "He points down the road to his left, leading beyond several rows of closed shop lots."
+    "He points down the road to his left, leading beyond several rows of closed shop lots."
+
+# game/story/Chapter_L3.rpy:239
+translate Schinese chapter_L3_11188b8a:
+
+    # Vendor "That's Doberwalk 1. We are on Doberwalk 2. All the businesses that used to be on Doberwalk 1 either moved here or closed down permanently."
+    Vendor "That's Doberwalk 1. We are on Doberwalk 2. All the businesses that used to be on Doberwalk 1 either moved here or closed down permanently."
+
+# game/story/Chapter_L3.rpy:249
+translate Schinese chapter_L3_dc2fdc42:
+
+    # Vendor "Since then, those who walk that street sometimes hear a painful scream come from the arcade."
+    Vendor "Since then, those who walk that street sometimes hear a painful scream come from the arcade."
+
+# game/story/Chapter_L3.rpy:253
+translate Schinese chapter_L3_6b5cfb2f:
+
+    # p shocked "What? I’ve never heard of that one."
+    p shocked "What? I’ve never heard of that one."
+
+# game/story/Chapter_L3.rpy:255
+translate Schinese chapter_L3_86f18880:
+
+    # Vendor "It's bad for business to talk about it. People who know someone was murdered instinctively wonder if they will be next."
+    Vendor "It's bad for business to talk about it. People who know someone was murdered instinctively wonder if they will be next."
+
+# game/story/Chapter_L3.rpy:263
+translate Schinese chapter_L3_a0c73a6f:
+
+    # "The man trails off. You’re curious, but you decide not to press it."
+    "The man trails off. You’re curious, but you decide not to press it."
+
+# game/story/Chapter_L3.rpy:267
+translate Schinese chapter_L3_57642e21:
+
+    # "He hands you the food in a bright purple plastic bag, handing him money in return."
+    "He hands you the food in a bright purple plastic bag, handing him money in return."
+
+# game/story/Chapter_L3.rpy:283
+translate Schinese chapter_L3_6e014ecb:
+
+    # "You ponder about the new information as you walk over to find your stray angel."
+    "You ponder about the new information as you walk over to find your stray angel."
+
+# game/story/Chapter_L3.rpy:292
+translate Schinese chapter_L3_99ed79b9:
+
+    # p @ confused "Well, any luck?"
+    p @ confused "Well, any luck?"
+
+# game/story/Chapter_L3.rpy:298
+translate Schinese chapter_L3_1d19e3b6:
+
+    # "The radar display shows a dot moving across the screen before bumping on the edge of the display and moving in a perpendicular direction."
+    "The radar display shows a dot moving across the screen before bumping on the edge of the display and moving in a perpendicular direction."
+
+# game/story/Chapter_L3.rpy:302
+translate Schinese chapter_L3_60dc6973:
+
+    # L shocked "I know what it looks like, but I’m confident we can catch that gate if we find the boundaries that cause the gate to bounce around."
+    L shocked "I know what it looks like, but I’m confident we can catch that gate if we find the boundaries that cause the gate to bounce around."
+
+# game/story/Chapter_L3.rpy:308
+translate Schinese chapter_L3_314bdda6:
+
+    # p talk "The chicken rice vendor I talked to mentioned a former arcade where someone died. Since then, no one goes to that area."
+    p talk "The chicken rice vendor I talked to mentioned a former arcade where someone died. Since then, no one goes to that area."
+
+# game/story/Chapter_L3.rpy:366
+translate Schinese chapter_L3_arcade2_9e78b7e3:
+
+    # "Weeds have taken root in the cracked walkways."
+    "Weeds have taken root in the cracked walkways."
+
+# game/story/Chapter_L3.rpy:379
+translate Schinese chapter_L3_arcade2_d0b89b9f:
+
+    # p "Would you relax? If I'm wrong about this we can go chase that bouncing Gate whenever."
+    p "Would you relax? If I'm wrong about this we can go chase that bouncing Gate whenever."
+
+# game/story/Chapter_L3.rpy:391
+translate Schinese chapter_L3_arcade2_8859a75a:
+
+    # "A splattered smear of red paint lies faded upon the metal surface."
+    "A splattered smear of red paint lies faded upon the metal surface."
+
+# game/story/Chapter_L3.rpy:393
+translate Schinese chapter_L3_arcade2_913ee19f:
+
+    # L neutral talk "What happened to this place? And what’s with the slapdash paint job?"
+    L neutral talk "What happened to this place? And what’s with the slapdash paint job?"
+
+# game/story/Chapter_L3.rpy:414
+translate Schinese chapter_L3_arcade2_d74fe641:
+
+    # L "Your optimism — much like this plan — is not very inspiring. There’s still no sign of the Gate."
+    L "Your optimism — much like this plan — is not very inspiring. There’s still no sign of the Gate."
+
+# game/story/Chapter_L3.rpy:480
+translate Schinese chapter_L3_arcade2_017ea6f2:
+
+    # p shocked "No, don’t!"
+    p shocked "No, don’t!"
+
+# game/story/Chapter_L3.rpy:482
+translate Schinese chapter_L3_arcade2_4f00762d:
+
+    # extend annoyed "Toast, you better have a good explanation for why you’re here"
+    extend annoyed "Toast, you better have a good explanation for why you’re here"
+
+# game/story/Chapter_L3.rpy:490
+translate Schinese chapter_L3_arcade2_f283c1b9:
+
+    # L neutral talk "Me? Hello? I do not get into trouble."
+    L neutral talk "Me? Hello? I do not get into trouble."
+
+# game/story/Chapter_L3.rpy:526
+translate Schinese chapter_L3_arcade2_443cb995:
+
+    # "You give your eyes some time to adjust to the dark. The only light is from the doorway you entered from, and it’s rapidly fading as dusk approaches."
+    "You give your eyes some time to adjust to the dark. The only light is from the doorway you entered from, and it’s rapidly fading as dusk approaches."
+
+# game/story/Chapter_L3.rpy:536
+translate Schinese chapter_L3_arcade2_7f76cae4:
+
+    # "A soft thud followed by a click of a tongue alerts you. You turn your flashlight to the source, hoping to meet its source, but all you find is Lucian rubbing his snout. "
+    "A soft thud followed by a click of a tongue alerts you. You turn your flashlight to the source, hoping to meet its source, but all you find is Lucian rubbing his snout. "
+
+# game/story/Chapter_L3.rpy:541
+translate Schinese chapter_L3_arcade2_f385a9bb:
+
+    # "The arcade had seen better days. A thick layer of dust coats almost everything. Numerous arcade cabinets are lined up in aisles full of twists and turns, like a maze."
+    "The arcade had seen better days. A thick layer of dust coats almost everything. Numerous arcade cabinets are lined up in aisles full of twists and turns, like a maze."
+
+# game/story/Chapter_L3.rpy:543
+translate Schinese chapter_L3_arcade2_86328b72:
+
+    # "He pulls out the H.A.L.O again but it does not make a sound."
+    "He pulls out the H.A.L.O again but it does not make a sound."
+
+# game/story/Chapter_L3.rpy:551
+translate Schinese chapter_L3_arcade2_1253f427:
+
+    # "You both approach the counter, it too, is blanketed in dust. Behind that, there’s a cabinet with many compartments gathering cobwebs. You imagine it used to be filled with prizes to be won."
+    "You both approach the counter, it too, is blanketed in dust. Behind that, there’s a cabinet with many compartments gathering cobwebs. You imagine it used to be filled with prizes to be won."
+
+# game/story/Chapter_L3.rpy:553
+translate Schinese chapter_L3_arcade2_0e148d85:
+
+    # "Above the cabinet is an old notice board filled with past years of gaming tournament ads."
+    "Above the cabinet is an old notice board filled with past years of gaming tournament ads."
+
+# game/story/Chapter_L3.rpy:562
+translate Schinese chapter_L3_arcade2_1f49a96a:
+
+    # p "Nothing down here. Help me search the cabinet."
+    p "Nothing down here. Help me search the cabinet."
+
+# game/story/Chapter_L3.rpy:566
+translate Schinese chapter_L3_arcade2_2132afee:
+
+    # "You and Lucian heave the cabinet away from the wall but find nothing behind or below it."
+    "You and Lucian heave the cabinet away from the wall but find nothing behind or below it."
+
+# game/story/Chapter_L3.rpy:576
+translate Schinese chapter_L3_arcade2_d9ef2f55:
+
+    # "Lucian pushes the cabinet back into position before walking over to the notifice board."
+    "Lucian pushes the cabinet back into position before walking over to the notifice board."
+
+# game/story/Chapter_L3.rpy:583
+translate Schinese chapter_L3_arcade2_f582ccd9:
+
+    # "The dog stares at the notice board."
+    "The dog stares at the notice board."
+
+# game/story/Chapter_L3.rpy:585
+translate Schinese chapter_L3_arcade2_813f6a9a:
+
+    # p question "Did you see something?"
+    p question "Did you see something?"
+
+# game/story/Chapter_L3.rpy:597
+translate Schinese chapter_L3_arcade2_770b7637:
+
+    # "Taking down the board, he sets it on top of the counter."
+    "Taking down the board, he sets it on top of the counter."
+
+# game/story/Chapter_L3.rpy:605
+translate Schinese chapter_L3_arcade2_8d700950:
+
+    # p neutral talk "It's just a bunch of posters."
+    p neutral talk "It's just a bunch of posters."
+
+# game/story/Chapter_L3.rpy:609
+translate Schinese chapter_L3_arcade2_1f499b60:
+
+    # p talk "If I wanted to hide a spell, I don’t think I would hide it in plain sight."
+    p talk "If I wanted to hide a spell, I don’t think I would hide it in plain sight."
+
+# game/story/Chapter_L3.rpy:615
+translate Schinese chapter_L3_arcade2_3ad4c150:
+
+    # "Once congealed, gooey tendrils start to emerge and link up with their neighbours."
+    "Once congealed, gooey tendrils start to emerge and link up with their neighbours."
+
+# game/story/Chapter_L3.rpy:637
+translate Schinese chapter_L3_arcade2_2a223237:
+
+    # "Glowing white cracks form across the entire wall and the shelf in front. It shatters and the space is replaced with rows of yellowed bones and skulls arranged in the shape of a gate."
+    "Glowing white cracks form across the entire wall and the shelf in front. It shatters and the space is replaced with rows of yellowed bones and skulls arranged in the shape of a gate."
+
+# game/story/Chapter_L3.rpy:654
+translate Schinese chapter_L3_arcade2_37e04459:
+
+    # L talk "Darn it, should've known it wouldn’t be so easy."
+    L talk "Darn it, should've known it wouldn’t be so easy."
+
+# game/story/Chapter_L3.rpy:723
+translate Schinese chapter_L3_arcade2_ff11fdb1:
+
+    # "You share worried glances at one another and Lucian puts a finger to his lips."
+    "You share worried glances at one another and Lucian puts a finger to his lips."
+
+# game/story/Chapter_L3.rpy:733
+translate Schinese chapter_L3_arcade2_46450e8d:
+
+    # Person_A "You think it could have been a bunch of teens just like the other night?"
+    Person_A "You think it could have been a bunch of teens just like the other night?"
+
+# game/story/Chapter_L3.rpy:739
+translate Schinese chapter_L3_arcade2_fdd71b47:
+
+    # Person_A "Nah, let’s just check the place to be sure, and fix the door. Last time, those dumb teens were smoking behind the arcade cabinets."
+    Person_A "Nah, let’s just check the place to be sure, and fix the door. Last time, those dumb teens were smoking behind the arcade cabinets."
+
+# game/story/Chapter_L3.rpy:775
+translate Schinese chapter_L3_arcade2_05b633fd:
+
+    # "Lucian taps you on the shoulder to get your attention. He points to himself then the door, then to you, he gestures to run."
+    "Lucian taps you on the shoulder to get your attention. He points to himself then the door, then to you, he gestures to run."
+
+# game/story/Chapter_L3.rpy:810
+translate Schinese chapter_L3_arcade2_32c657d8:
+
+    # "Toast’s sudden volunteering throws you off, but he has a determined look in his eyes. He’s been reliable so far."
+    "Toast’s sudden volunteering throws you off, but he has a determined look in his eyes. He’s been reliable so far."
+
+# game/story/Chapter_L3.rpy:812
+translate Schinese chapter_L3_arcade2_311ae49a:
+
+    # "But… one of those goons said they could smell a soul. A normal person wouldn’t know that."
+    "But… one of those goons said they could smell a soul. A normal person wouldn’t know that."
+
+# game/story/Chapter_L3.rpy:814
+translate Schinese chapter_L3_arcade2_57ea93bb:
+
+    # "Your gaze falls on Lucian, perhaps his plan would be the safest, but if he fails, King is as good as dead."
+    "Your gaze falls on Lucian, perhaps his plan would be the safest, but if he fails, King is as good as dead."
+
+# game/story/Chapter_L3.rpy:816
+translate Schinese chapter_L3_arcade2_8d17ac50:
+
+    # "You have the least to lose here. Perhaps you’re the best option."
+    "You have the least to lose here. Perhaps you’re the best option."
+
+# game/story/Chapter_L3.rpy:824
+translate Schinese chapter_L3_distraction_6cf8cc70:
+
+    # p scared "No, I’m doing it. I’ll get their attention and you guys run for it!"
+    p scared "No, I’m doing it. I’ll get their attention and you guys run for it!"
+
+# game/story/Chapter_L3.rpy:844
+translate Schinese chapter_L3_distraction_7d132b01:
+
+    # "You manage to run into the alley outside. The guards give chase, yelling at you to stop."
+    "You manage to run into the alley outside. The guards give chase, yelling at you to stop."
+
+# game/story/Chapter_L3.rpy:868
+translate Schinese chapter_L3_distraction_d2f11c14:
+
+    # "Lucian conjures a feather and tosses it onto the floor. It bounces back up like it’s made of rubber."
+    "Lucian conjures a feather and tosses it onto the floor. It bounces back up like it’s made of rubber."
+
+# game/story/Chapter_L3.rpy:879
+translate Schinese chapter_L3_distraction_7328c517:
+
+    # "The feather ricochets off the cabinet pulling the attention of the guards."
+    "The feather ricochets off the cabinet pulling the attention of the guards."
+
+# game/story/Chapter_L3.rpy:881
+translate Schinese chapter_L3_distraction_9e6a6562:
+
+    # "It bounces again, and again. Slamming against the door and crashing into some rubbish bins outside."
+    "It bounces again, and again. Slamming against the door and crashing into some rubbish bins outside."
+
+# game/story/Chapter_L3.rpy:890
+translate Schinese chapter_L3_distraction_d96f3b91:
+
+    # "As their footsteps fade off into the distance, you audibly gasp."
+    "As their footsteps fade off into the distance, you audibly gasp."
+
+# game/story/Chapter_L3.rpy:929
+translate Schinese chapter_L3_distraction_5acf7082:
+
+    # "The ghost floats upwards and heads in the direction of the guards."
+    "The ghost floats upwards and heads in the direction of the guards."
+
+# game/story/Chapter_L3.rpy:931
+translate Schinese chapter_L3_distraction_41216309:
+
+    # "You and Lucian rush off the other way and hurry to your apartment."
+    "You and Lucian rush off the other way and hurry to your apartment."
+
+# game/story/Chapter_L3.rpy:966
+translate Schinese chapter_L3_distraction_c15535fe:
+
+    # "Toast floats out of the building while the goons give chase."
+    "Toast floats out of the building while the goons give chase."
+
+# game/story/Chapter_L3.rpy:988
+translate Schinese chapter_L3_apartment_0902fa41:
+
+    # "You stop to catch your breath. Lucian, on the other hand, keeps a close watch of your surroundings."
+    "You stop to catch your breath. Lucian, on the other hand, keeps a close watch of your surroundings."
+
+# game/story/Chapter_L3.rpy:1000
+translate Schinese chapter_L3_apartment_691ab4d8:
+
+    # L sad "Well, he has avoided capture by my hands, I would think he can avoid a few regular hooligans."
+    L sad "Well, he has avoided capture by my hands, I would think he can avoid a few regular hooligans."
+
+# game/story/Chapter_L3.rpy:1004
+translate Schinese chapter_L3_apartment_7fde37d0:
+
+    # L annoyed "Yes, they were able to detect souls…"
+    L annoyed "Yes, they were able to detect souls…"
+
+# game/story/Chapter_L3.rpy:1008
+translate Schinese chapter_L3_apartment_c80fd9fe:
+
+    # L "No, I doubt it, the magic used to hide the gate didn’t incorporate any markings of our kind."
+    L "No, I doubt it, the magic used to hide the gate didn’t incorporate any markings of our kind."
+
+# game/story/Chapter_L3.rpy:1010
+translate Schinese chapter_L3_apartment_0b1a751b:
+
+    # "You both reach the apartment entrance and climb the steps."
+    "You both reach the apartment entrance and climb the steps."
+
+# game/story/Chapter_L3.rpy:1064
+translate Schinese chapter_L3_apartment_192dbf4c:
+
+    # "You reheat and set down the chicken rice on the table before digging in. "
+    "You reheat and set down the chicken rice on the table before digging in. "
+
+# game/story/Chapter_L3.rpy:1114
+translate Schinese chapter_L3_apartment_48176f28:
+
+    # L "This is what I deserve for screwing up today, ok?"
+    L "This is what I deserve for screwing up today, ok?"
+
+# game/story/Chapter_L3.rpy:1119
+translate Schinese chapter_L3_apartment_d3e3ace1:
+
+    # extend sad "I could have, no, I should have done more."
+    extend sad "I could have, no, I should have done more."
+
+# game/story/Chapter_L3.rpy:1125
+translate Schinese chapter_L3_apartment_a610967a:
+
+    # L "It’s useless, I didn’t scan the keyholes. They probably tightened security by now, so we can't go back again."
+    L "It’s useless, I didn’t scan the keyholes. They probably tightened security by now, so we can't go back again."
+
+# game/story/Chapter_L3.rpy:1127
+translate Schinese chapter_L3_apartment_5855a131:
+
+    # L annoyed "I can’t waste time doubting myself any longer, I need to get back there!"
+    L annoyed "I can’t waste time doubting myself any longer, I need to get back there!"
+
+# game/story/Chapter_L3.rpy:1129
+translate Schinese chapter_L3_apartment_02452942:
+
+    # p angry "No! We don’t know who those people are or what they can do. They made a freaking gate using bones!" with vpunch
+    p angry "No! We don’t know who those people are or what they can do. They made a freaking gate using bones!" with vpunch
+
+# game/story/Chapter_L3.rpy:1133
+translate Schinese chapter_L3_apartment_b32dfb3a:
+
+    # L sad "I’m so stupid. I should have taken those hooligans out and interrogated them."
+    L sad "I’m so stupid. I should have taken those hooligans out and interrogated them."
+
+# game/story/Chapter_L3.rpy:1135
+translate Schinese chapter_L3_apartment_27e03a41:
+
+    # "He ruffles his own fur, practically pulling it out."
+    "He ruffles his own fur, practically pulling it out."
+
+# game/story/Chapter_L3.rpy:1137
+translate Schinese chapter_L3_apartment_4e127b75:
+
+    # p neutral talk "Which could have gotten you, or both of us hurt."
+    p neutral talk "Which could have gotten you, or both of us hurt."
+
+# game/story/Chapter_L3.rpy:1145
+translate Schinese chapter_L3_apartment_e24c450f:
+
+    # L sad "No… I can’t mess up… Not angels. Especially those that are worth anything to God."
+    L sad "No… I can’t mess up… Not angels. Especially those that are worth anything to God."
+
+# game/story/Chapter_L3.rpy:1147
+translate Schinese chapter_L3_apartment_f51b4124:
+
+    # "Lucian’s words draw you to his eyes, your image reflected upon their surface."
+    "Lucian’s words draw you to his eyes, your image reflected upon their surface."
+
+# game/story/Chapter_L3.rpy:1238
+translate Schinese chapter_L3_apartment_beac7a5c:
+
+    # L annoyed "You may not."
+    L annoyed "You may not."
+
+# game/story/Chapter_L3.rpy:1263
+translate Schinese chapter_L3_apartment_dd463c72:
+
+    # L "A waste of time. Your kind can’t take in anything physical without a body, yet you retrain your living need for food, for sex, and for drinks."
+    L "A waste of time. Your kind can’t take in anything physical without a body, yet you retrain your living need for food, for sex, and for drinks."
+
+# game/story/Chapter_L3.rpy:1274
+translate Schinese chapter_L3_apartment_c99cb0be:
+
+    # L " I need to ask you about those hooligans you evaded Toast. Did you get a good look at them? What did they look like? Did they wear anything distinctive?"
+    L " I need to ask you about those hooligans you evaded Toast. Did you get a good look at them? What did they look like? Did they wear anything distinctive?"
+
+# game/story/Chapter_L3.rpy:1317
+translate Schinese chapter_L3_apartment_ce6a121f:
+
+    # p "Hear me out, you get the sofa, I’ll be near you. If anything happens, we’re close to the door, you get to rest, and I’ll be on alert."
+    p "Hear me out, you get the sofa, I’ll be near you. If anything happens, we’re close to the door, you get to rest, and I’ll be on alert."
+
+# game/story/Chapter_L3.rpy:1319
+translate Schinese chapter_L3_apartment_b7cb71b5:
+
+    # "Lucian takes a spoonful of chicken rice and chews on it."
+    "Lucian takes a spoonful of chicken rice and chews on it."
+
+# game/story/Chapter_L3.rpy:1325
+translate Schinese chapter_L3_apartment_82875308:
+
+    # L "Fine, I’ll humour you."
+    L "Fine, I’ll humour you."
+
+# game/story/Chapter_L3.rpy:1378
+translate Schinese chapter_L3_bed_78207b47:
+
+    # p @ nervous "A typo. They printed way too many and haven’t fixed it since my dad was in office."
+    p @ nervous "A typo. They printed way too many and haven’t fixed it since my dad was in office."
+
+# game/story/Chapter_L3.rpy:1410
+translate Schinese chapter_L3_bed_f1c7cb7c:
+
+    # p "Exactly, I don’t like it as much as you do, but we’re obviously stuck, and he might even know about who would be behind this."
+    p "Exactly, I don’t like it as much as you do, but we’re obviously stuck, and he might even know about who would be behind this."
+
+# game/story/Chapter_L3.rpy:1414
+translate Schinese chapter_L3_bed_e915b7b3:
+
+    # L neutral "My goodness, I just know this is going to affect my promotion. It’s going to be another hundred years before I get another chance at it."
+    L neutral "My goodness, I just know this is going to affect my promotion. It’s going to be another hundred years before I get another chance at it."
+
+# game/story/Chapter_L3.rpy:1416
+translate Schinese chapter_L3_bed_17804bd7:
+
+    # p "Drama queen alert. Relax, I think Gary is pretty understanding, and even if you didn’t get the promotion, what’s the big deal?"
+    p "Drama queen alert. Relax, I think Gary is pretty understanding, and even if you didn’t get the promotion, what’s the big deal?"
+
+# game/story/Chapter_L3.rpy:1442
+translate Schinese chapter_L3_bed_73d518de:
+
+    # L_nt "So you being sent here had something to do with your job?"
+    L_nt "So you being sent here had something to do with your job?"
+
+# game/story/Chapter_L3.rpy:1446
+translate Schinese chapter_L3_bed_33d50907:
+
+    # p "Could we... maybe not talk about that for now?"
+    p "Could we... maybe not talk about that for now?"
+
+# game/story/Chapter_L3.rpy:1450
+translate Schinese chapter_L3_bed_d012a056:
+
+    # "An audible sniffle echoes off the walls."
+    "An audible sniffle echoes off the walls."
+
+# game/story/Chapter_L3.rpy:1454
+translate Schinese chapter_L3_bed_e6e8c520:
+
+    # p "Umm, Morris, whether we want to ask him to help us find the keys to open the Underworld Gate."
+    p "Umm, Morris, whether we want to ask him to help us find the keys to open the Underworld Gate."
+
+# game/story/Chapter_L3.rpy:1456
+translate Schinese chapter_L3_bed_57d1990c:
+
+    # L neutral "Well, I’ll admit you’re right. We don’t have any other alternatives for now. I’ll follow your lead."
+    L neutral "Well, I’ll admit you’re right. We don’t have any other alternatives for now. I’ll follow your lead."
+
+# game/story/Chapter_L3.rpy:1526
+translate Schinese chapter_L3_morning_60efccc4:
+
+    # "You’re stuck working for the rest of the day. To your horror, a promo sale is on today. A popular children’s video game that involves catching cute mascot characters is collaborating with a hotdog company."
+    "You’re stuck working for the rest of the day. To your horror, a promo sale is on today. A popular children’s video game that involves catching cute mascot characters is collaborating with a hotdog company."
+
+# game/story/Chapter_L3.rpy:1528
+translate Schinese chapter_L3_morning_b3dba84d:
+
+    # "For every three hotdogs bought, a customer gets a sticker. Collect ten and they can exchange it for a random package that may, or may not, contain a rare figurine."
+    "For every three hotdogs bought, a customer gets a sticker. Collect ten and they can exchange it for a random package that may, or may not, contain a rare figurine."
+
+# game/story/Chapter_L3.rpy:1530
+translate Schinese chapter_L3_morning_2137dfe2:
+
+    # "You wish you could open them all and take the prizes for yourself, but that would be against the rules."
+    "You wish you could open them all and take the prizes for yourself, but that would be against the rules."
+
+# game/story/Chapter_L3.rpy:1532
+translate Schinese chapter_L3_morning_9528c3e9:
+
+    # "The unrelenting onslaught of customers drains your energy dry. The end of the shift couldn’t come any sooner."
+    "The unrelenting onslaught of customers drains your energy dry. The end of the shift couldn’t come any sooner."
+
+# game/story/Chapter_L3.rpy:1554
+translate Schinese chapter_L3_morris_28e70096:
+
+    # L "Not much, I just got here."
+    L "Not much, I just got here."
+
+# game/story/Chapter_L3.rpy:1564
+translate Schinese chapter_L3_morris_08f6c887:
+
+    # p "Hehe— Let’s go before Morris closes up."
+    p "Hehe— Let’s go before Morris closes up."
+
+# game/story/Chapter_L3.rpy:1620
+translate Schinese chapter_L3_memory_586fd0af:
+
+    # "It was a day from when you just started taking on your role as ruler of the Underworld."
+    "It was a day from when you just started taking on your role as ruler of the Underworld."
+
+# game/story/Chapter_L3.rpy:1633
+translate Schinese chapter_L3_memory_c44aa160:
+
+    # p "Which brings up the question, why do we even torture them in the place? The soul energy output barely reaches what Above makes with their method."
+    p "Which brings up the question, why do we even torture them in the place? The soul energy output barely reaches what Above makes with their method."
+
+# game/story/Chapter_L3.rpy:1639
+translate Schinese chapter_L3_memory_6d0393ec:
+
+    # p sad "I just don’t see the point. We need that soul energy to build the Underworld, to pay our employees and to keep the world in balance. So , why aren’t we switching to a more productive method?"
+    p sad "I just don’t see the point. We need that soul energy to build the Underworld, to pay our employees and to keep the world in balance. So , why aren’t we switching to a more productive method?"
+
+# game/story/Chapter_L3.rpy:1651
+translate Schinese chapter_L3_memory_a32cfafd:
+
+    # Ven "Sometimes the end goal is meaningless if the methods used to achieve it ruins whatever value that goal had in the first place."
+    Ven "Sometimes the end goal is meaningless if the methods used to achieve it ruins whatever value that goal had in the first place."
+
+# game/story/Chapter_L3.rpy:1677
+translate Schinese chapter_L3_morris2_e88460b9:
+
+    # "You turn around an unfamiliar alleyway to meet Lucian's vexed expression. He makes you feel like a sheep who strayed too far from the flock."
+    "You turn around an unfamiliar alleyway to meet Lucian's vexed expression. He makes you feel like a sheep who strayed too far from the flock."
+
+# game/story/Chapter_L3.rpy:1694
+translate Schinese chapter_L3_morris2_4996def3:
+
+    # "Approaching the office, you see a flight of stairs on the side of the building leading to the second floor. Right above the entrance to the stairs is a sign that reads, “Morris Boaris, Exorcism Extraordinaire.”"
+    "Approaching the office, you see a flight of stairs on the side of the building leading to the second floor. Right above the entrance to the stairs is a sign that reads, “Morris Boaris, Exorcism Extraordinaire.”"
+
+# game/story/Chapter_L3.rpy:1749
+translate Schinese chapter_L3_morris2_94b02644:
+
+    # p nervous "No, it wasn’t his fault, he took a demon's attack that was meant for me. Now the boss of these demons are sending more of them after me!"
+    p nervous "No, it wasn’t his fault, he took a demon's attack that was meant for me. Now the boss of these demons are sending more of them after me!"
+
+# game/story/Chapter_L3.rpy:1766
+translate Schinese chapter_L3_morris2_0dcd7dd6:
+
+    # p nervous "Because in college I was in a super goth phase, and accidentally summoned a demon, and uhhh, you know, I wished for something, didn’t honour the bargain. I’ve been on the run since."
+    p nervous "Because in college I was in a super goth phase, and accidentally summoned a demon, and uhhh, you know, I wished for something, didn’t honour the bargain. I’ve been on the run since."
+
+# game/story/Chapter_L3.rpy:1769
+translate Schinese chapter_L3_morris2_bfae4ca2:
+
+    # "Morris and Lucian’s jaws drops."
+    "Morris and Lucian’s jaws drops."
+
+# game/story/Chapter_L3.rpy:1857
+translate Schinese chapter_L3_morris2_0d5cfabc:
+
+    # "With a snap of his finger, the feather floats mid-air and shoots to the ceiling, burying itself like a knife before dissipating away."
+    "With a snap of his finger, the feather floats mid-air and shoots to the ceiling, burying itself like a knife before dissipating away."
+
+# game/story/Chapter_L3.rpy:1958
+translate Schinese chapter_L3_morris2_460ceb61:
+
+    # p question "Yeah, well you're naive, an—and… you’re too cocky!"
+    p question "Yeah, well you're naive, an—and… you’re too cocky!"
+
+# game/story/Chapter_L3.rpy:1966
+translate Schinese chapter_L3_morris2_d3ca19c3:
+
+    # L smirk "He might not be willing to help us, but he did say he’s restocking exorcism materials. Odds are, we could at least meet someone who knows other exorcists."
+    L smirk "He might not be willing to help us, but he did say he’s restocking exorcism materials. Odds are, we could at least meet someone who knows other exorcists."
+
+# game/story/Chapter_L3.rpy:1975
+translate Schinese chapter_L3_morris2_aad8c8f2:
+
+    # "Once Lucian’s certain that Morris is far enough away, you tail him carefully."
+    "Once Lucian’s certain that Morris is far enough away, you tail him carefully."
+
+# game/story/Chapter_L3.rpy:1994
+translate Schinese chapter_L3_gin_c19e40f4:
+
+    # "You’ve been following Morris for about an hour. Your feet ache and the streets are dark."
+    "You’ve been following Morris for about an hour. Your feet ache and the streets are dark."
+
+# game/story/Chapter_L3.rpy:2056
+translate Schinese chapter_L3_gin_ea649179:
+
+    # "You struggle to keep up with Lucian, but eventually Morris stops."
+    "You struggle to keep up with Lucian, but eventually Morris stops."
+
+# game/story/Chapter_L3.rpy:2079
+translate Schinese chapter_L3_gin_805e8dc0:
+
+    # Gin "Oh Morris, must you really spend this beautiful date night talking to the likes of me?"
+    Gin "Oh Morris, must you really spend this beautiful date night talking to the likes of me?"
+
+# game/story/Chapter_L3.rpy:2149
+translate Schinese chapter_L3_gin_68b1ed33:
+
+    # L "Maybe… but don’t you think there is something weird about his appearance?"
+    L "Maybe… but don’t you think there is something weird about his appearance?"
+
+# game/story/Chapter_L3.rpy:2293
+translate Schinese chapter_L3_gin_c86dfa8d:
+
+    # "Lucian counters with a kick to the snake’s face. Gin takes the full brunt of the hit, toppling back but stopping his fall with his tail and bouncing back up again. "
+    "Lucian counters with a kick to the snake’s face. Gin takes the full brunt of the hit, toppling back but stopping his fall with his tail and bouncing back up again. "
+
+# game/story/Chapter_L3.rpy:2458
+translate Schinese chapter_L3_gin_52fa837e:
+
+    # L "Morris, hear him out. I wouldn’t go out of my way to get another mortal’s help if it wasn’t the only option."
+    L "Morris, hear him out. I wouldn’t go out of my way to get another mortal’s help if it wasn’t the only option."
+
+# game/story/Chapter_L3.rpy:2485
+translate Schinese chapter_L3_gin_f04600fc:
+
+    # M "To be clear, I don’t trust either of you. You’ve just demonstrated that you’re both capable of causing deadly trouble just by showing up in places. Typical of celestial beings."
+    M "To be clear, I don’t trust either of you. You’ve just demonstrated that you’re both capable of causing deadly trouble just by showing up in places. Typical of celestial beings."
+
+# game/story/Chapter_L3.rpy:2501
+translate Schinese chapter_L3_gin_62adbcc5:
+
+    # "But that means saying farewell to King, farewell to the life you’ve made here."
+    "But that means saying farewell to King, farewell to the life you’ve made here."
+
+# game/story/Chapter_L3.rpy:2568
+translate Schinese chapter_L3_gin_eb20cecd:
+
+    # L_nt "We should give it a try. Mythical creature or not, we don’t have any other way around this. Unless, Morris, do you know how to get to the Underworld?"
+    L_nt "We should give it a try. Mythical creature or not, we don’t have any other way around this. Unless, Morris, do you know how to get to the Underworld?"
+
+# game/story/Chapter_L3.rpy:2649
+translate Schinese chapter_L3_gin_d389a3ca:
+
+    # M "Yes, they are my very enthusiastic customers, who followed me here… and reminded me I had to get something from you. Sure, there was a rocky introduction, but we can do business, can we not?"
+    M "Yes, they are my very enthusiastic customers, who followed me here… and reminded me I had to get something from you. Sure, there was a rocky introduction, but we can do business, can we not?"
+
+# game/story/Chapter_L3.rpy:2651
+translate Schinese chapter_L3_gin_3face0d8:
+
+    # Gin "You expect me to believe that dog and his fists, and that absent-minded looking cat are just your customers? They broke my disguise!"
+    Gin "You expect me to believe that dog and his fists, and that absent-minded looking cat are just your customers? They broke my disguise!"
+
+# game/story/Chapter_L3.rpy:2669
+translate Schinese chapter_L3_gin_e852dbf1:
+
+    # "Lucian remains unfazed, choosing to wear a bored expression towards Gin."
+    "Lucian remains unfazed, choosing to wear a bored expression towards Gin."
+
+# game/story/Chapter_L3.rpy:2747
+translate Schinese chapter_L3_gin_28f74ac6:
+
+    # p_mono @ question "Looks like these bunch aren’t just the town nuisance around here."
+    p_mono @ question "Looks like these bunch aren’t just the town nuisance around here."
+
+# game/story/Chapter_L3.rpy:2753
+translate Schinese chapter_L3_gin_8569eb35:
+
+    # Gin "Mr. K has given me the honour to remove this eyesore of a cult, and I am forcing it upon you two."
+    Gin "Mr. K has given me the honour to remove this eyesore of a cult, and I am forcing it upon you two."
+
+# game/story/Chapter_L3.rpy:2773
+translate Schinese chapter_L3_gin_a55a5a0a:
+
+    # Gin " I looked into the group and learnt a majority of the members joined because of the leader’s ability to predict people’s deaths. In other words, by joining the cult, its members feel they are sheltered from death."
+    Gin " I looked into the group and learnt a majority of the members joined because of the leader’s ability to predict people’s deaths. In other words, by joining the cult, its members feel they are sheltered from death."
+
+# game/story/Chapter_L3.rpy:2787
+translate Schinese chapter_L3_gin_4693f8d7:
+
+    # Gin "Do this, and I’ll give you information on how to get your keys."
+    Gin "Do this, and I’ll give you information on how to get your keys."
+
+# game/story/Chapter_L3.rpy:2818
+translate Schinese chapter_L3_gin_946485e2:
+
+    # Gin "It’s a demon, Morris. Rotten little creatures that we’ll all be happier without. Tell you what, I’ll be nice and even offer you the three remaining batteries you desire as payment."
+    Gin "It’s a demon, Morris. Rotten little creatures that we’ll all be happier without. Tell you what, I’ll be nice and even offer you the three remaining batteries you desire as payment."
+
+# game/story/Chapter_L3.rpy:2849
+translate Schinese chapter_L3_gin_1ffa464a:
+
+    # p "The demons who are after me. Look, I really don’t see another way to get those keys."
+    p "The demons who are after me. Look, I really don’t see another way to get those keys."
+
+# game/story/Chapter_L3.rpy:2929
+translate Schinese chapter_L3_gin_a4697c80:
+
+    # Gin "Good luck, and if any of you plan to perish, do make sure your insurances is renewed."
+    Gin "Good luck, and if any of you plan to perish, do make sure your insurances is renewed."
+
+# game/story/Chapter_L3.rpy:2935
+translate Schinese chapter_L3_gin_e672bf21:
+
+    # "Snapping his fingers, Gin disappears. All that remains is the old can by the wall."
+    "Snapping his fingers, Gin disappears. All that remains is the old can by the wall."
+
+# game/story/Chapter_L3.rpy:2962
+translate Schinese chapter_L3_gin_8e7577e1:
+
+    # "You pass the black cube to Lucian."
+    "You pass the black cube to Lucian."
+

@@ -7396,3 +7396,119 @@ translate Schinese ch1_cleanup_fa833b70:
     # K "Hey, [name]." (cb_no_talk=True)
     K "那个，[name]。" (cb_no_talk=True)
 
+# TODO: Translation updated at 2022-12-08 00:18
+
+# game/story/Chapter_1.rpy:251
+translate Schinese chapter_1_d550ccfc:
+
+    # K talk "Kept you waiting, huh?"
+    K talk "Kept you waiting, huh?"
+
+# game/story/Chapter_1.rpy:257
+translate Schinese chapter_1_7b2648a7:
+
+    # K talk "The usual spot?"
+    K talk "The usual spot?"
+
+# game/story/Chapter_1.rpy:897
+translate Schinese chapter_1_738fd397:
+
+    # Fort annoyed "Get—"
+    Fort annoyed "Get—"
+
+# game/story/Chapter_1.rpy:905
+translate Schinese chapter_1_125725fd:
+
+    # Fort laugh "{sc}{b}Together!{/b}{/sc}"
+    Fort laugh "{sc}{b}Together!{/b}{/sc}"
+
+# game/story/Chapter_1.rpy:907
+translate Schinese chapter_1_34c26b2d:
+
+    # Fort pose1 annoyed "Come on, if you’re down, the staff won’t work. Got to keep the energy up. Just get your coffee and get back onto the torture floor." with hpunch
+    Fort pose1 annoyed "Come on, if you’re down, the staff won’t work. Got to keep the energy up. Just get your coffee and get back onto the torture floor." with hpunch
+
+# game/story/Chapter_1.rpy:937
+translate Schinese chapter_1_2260621a:
+
+    # Fort neutral1 "Humph, this fridge is full. I should probably throw some stuff out like this bottle of soda that nobody ever drinks."
+    Fort neutral1 "Humph, this fridge is full. I should probably throw some stuff out like this bottle of soda that nobody ever drinks."
+
+# game/story/Chapter_1.rpy:950
+translate Schinese chapter_1_ab93d831:
+
+    # Amar angry "Fahrenheit!"
+    Amar angry "Fahrenheit!"
+
+# game/story/Chapter_1.rpy:979
+translate Schinese chapter_1_206bc1cf:
+
+    # Fort confused "Woah, woah. Calm down there, kitty. I was just joking."
+    Fort confused "Woah, woah. Calm down there, kitty. I was just joking."
+
+# game/story/Chapter_1.rpy:983
+translate Schinese chapter_1_ba571bb8:
+
+    # Fort neutral1 "What were you doing down there? Looking for inspiration for the new projects Vendrake has got you on?"
+    Fort neutral1 "What were you doing down there? Looking for inspiration for the new projects Vendrake has got you on?"
+
+# game/story/Chapter_1.rpy:989
+translate Schinese chapter_1_f2f0a30e:
+
+    # Fort confused "Then how did you get here?"
+    Fort confused "Then how did you get here?"
+
+# game/story/Chapter_1.rpy:991
+translate Schinese chapter_1_3ba71097:
+
+    # Amar neutral "Easy, I painted my face on a sack of bolts and played a tape of me knocking metal."
+    Amar neutral "Easy, I painted my face on a sack of bolts and played a tape of me knocking metal."
+
+# game/story/Chapter_1.rpy:993
+translate Schinese chapter_1_644e87f9:
+
+    # Fort shocked "You’re kidding."
+    Fort shocked "You’re kidding."
+
+# game/story/Chapter_1.rpy:997
+translate Schinese chapter_1_af0d45ac:
+
+    # Fort sad "Oh. Well, you better get back soon. They’ll cause trouble again if they find out you’re missing."
+    Fort sad "Oh. Well, you better get back soon. They’ll cause trouble again if they find out you’re missing."
+
+# game/story/Chapter_1.rpy:1005
+translate Schinese chapter_1_4ec29510:
+
+    # Fort sad "You seen the coffee?"
+    Fort sad "You seen the coffee?"
+
+# game/story/Chapter_1.rpy:1035
+translate Schinese chapter_1_a1da8829:
+
+    # Amar angry "Oh no, don’t tell me you’re taking his side."
+    Amar angry "Oh no, don’t tell me you’re taking his side."
+
+# game/story/Chapter_1.rpy:1037
+translate Schinese chapter_1_6e4b2ca4:
+
+    # Fort shocked "That's not what I mean. You didn’t forget what happened last time you tried to launch your “rebellion” against Vendrake, did you?"
+    Fort shocked "That's not what I mean. You didn’t forget what happened last time you tried to launch your “rebellion” against Vendrake, did you?"
+
+# game/story/Chapter_1.rpy:1043
+translate Schinese chapter_1_20593091:
+
+    # Fort sad "Then why are you still doing this?"
+    Fort sad "Then why are you still doing this?"
+
+# game/story/Chapter_1.rpy:1062
+translate Schinese chapter_1_ef5836d7:
+
+    # Fort sad "{sc=2}I… I can’t. I’m sorry, I can’t...{/sc}"
+    Fort sad "{sc=2}I… I can’t. I’m sorry, I can’t...{/sc}"
+
+# game/story/Chapter_1.rpy:1706
+translate Schinese chapter_1_439a6203:
+
+    # "The boar seals the jar and turns to look into your dazed eyes."
+    "The boar seals the jar and turns to look into your dazed eyes."
+

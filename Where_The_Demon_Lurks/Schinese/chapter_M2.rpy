@@ -4458,3 +4458,23 @@ translate Schinese strings:
     old "Morris is... Morris is... pretty ok, I guess? Sure he might wipe me out on the spot if he ever finds out what I really am, but he's been nothing but helpful since we teamed up. I'm not sure how long he has had that bandaged hand though, I think he should get it checked, it kind of smells. Still, I'm glad he helped out with King and his parents. I wouldn't have been able to even think about that part of his life on my own. Guess you can't just get transported into another dimension and expect nothing to change at home. Note to self though; watch out for Morris' real power level, the guy's stronger than he looks."
     new "Morris...Morris他是一个...好人？我们才认识短短几天，他就帮了我大忙，虽然他知道我的真实身份后八成会当场灭了我吧。说起来他的手包扎多久了？都有异味了，他真的应该去医院看看，不过我还是很高兴他帮助了King和King的父母。而最神秘的当属他的过去，我甚至想象不出他都经历了什么，看来就算被平白无故传送到异世界，也不能宅在家里无所事事呀。注意：当心Morris真正的实力，这家伙不可貌相。"
 
+# TODO: Translation updated at 2022-12-08 00:18
+
+# game/story/chapter_M2.rpy:315
+translate Schinese chapter_M2_4aff9e7c:
+
+    # M nervous "Plus there were some other hiccups along the way, but I'd rather not talk about that."
+    M nervous "Plus there were some other hiccups along the way, but I'd rather not talk about that."
+
+# game/story/chapter_M2.rpy:326
+translate Schinese chapter_M2_b64d0756:
+
+    # "Your ears tickle as a warmth creeps over it. Both of you retract your hands as they touched."
+    "Your ears tickle as a warmth creeps over it. Both of you retract your hands as they touched."
+
+# game/story/chapter_M2.rpy:815
+translate Schinese morris_call_a_room_fit_for_king_0f4d2f7e:
+
+    # Tw "Oh shucks, that little thing, I made that on his birthday."
+    Tw "Oh shucks, that little thing, I made that on his birthday."
+
