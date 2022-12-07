@@ -3856,7 +3856,7 @@ translate Schinese a2s3_c36f8fc3:
 translate Schinese a2s3_cb09fcb3:
 
     # "The trip peaks, and suddenly Cameron is everything at once."
-    "幻觉之旅达到了顶峰，突然间，Cameron成为了世间万物。"
+    "幻觉逐渐趋向顶峰，突然间，Cameron成为了世间万物。"
 
 # game/a2s3.rpy:881
 translate Schinese a2s3_1f6eaff2:
