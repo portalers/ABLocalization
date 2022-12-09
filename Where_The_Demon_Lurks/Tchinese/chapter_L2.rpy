@@ -2818,29 +2818,28 @@ translate Tchinese strings:
 translate Tchinese chapter_L2_f83acaf7:
 
     # p neutral talk "And now that you’ve found me, you’ll stick out like a sore thumb in town if people see you avoiding food like the plague."
-    p neutral talk "And now that you’ve found me, you’ll stick out like a sore thumb in town if people see you avoiding food like the plague."
+    p neutral talk "既然你已經找到我了，再像躲瘟疫一樣躲吃的就太格格不入了。"
 
 # game/story/chapter_L2.rpy:271
 translate Tchinese chapter_L2_5aa7c608:
 
     # "Lucian continues to eat the noodles in silence, but his tail would wag every so often against the floor, producing short but quick, audible tapping noises."
-    "Lucian continues to eat the noodles in silence, but his tail would wag every so often against the floor, producing short but quick, audible tapping noises."
+    "Lucian繼續默默吃著麵條，尾巴卻不時在地板上搖來搖去，發出清脆的敲擊聲。"
 
 # game/story/chapter_L2.rpy:1074
 translate Tchinese chapter_L2_0a7df691:
 
     # "A lady dressed in a bright red dress approaches with two menus in her hands."
-    "A lady dressed in a bright red dress approaches with two menus in her hands."
+    "一位身著鮮紅色連衣裙的女士拿著兩份菜單迎了上來。"
 
 # game/story/chapter_L2.rpy:1371
 translate Tchinese chapter_L2_16ae277d:
 
     # "The smell of food instantly eases the tension and your worries melt away."
-    "The smell of food instantly eases the tension and your worries melt away."
+    "食物的香氣瀰漫開來，化解了你們的憂慮。"
 
 # game/story/chapter_L2.rpy:1526
 translate Tchinese chapter_L2_5a32e957:
 
     # "Come dusk, the search for the Gate begins again."
-    "Come dusk, the search for the Gate begins again."
-
+    "黃昏時刻，尋找冥界之門的行動再度開啟了。"
