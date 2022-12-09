@@ -4,7 +4,7 @@
 translate Schinese chapter_2_35f5707a:
 
     # "In the Demon Lord’s office, Vendrake sits behind his desk while swirling his coffee mug, which reads “#1 Boss”."
-    "Vendrake坐在魔王专属办公室中，旋动着写有‘#1 Boss’字样的咖啡杯。"
+    "Vendrake坐在魔王专属办公室中，摩挲着写有‘#1 Boss’字样的咖啡杯。"
 
 # game/story/chapter_2.rpy:26
 translate Schinese chapter_2_9a264229:
