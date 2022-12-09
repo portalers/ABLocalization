@@ -76,7 +76,7 @@ translate Schinese strings:
 
     # game/script.rpy:114
     old "This visual novel may contain mature/suggestive themes,\nby proceeding forward you agree that you are of appropriate age from your \nrespective country to be exposed to these types of materials."
-    new "This visual novel may contain mature/suggestive themes,\nby proceeding forward you agree that you are of appropriate age from your \nrespective country to be exposed to these types of materials."
+    new "该视觉小说可能包含成人/性暗示元素，在进行阅读之前，请先确保您的年龄符合相关法律的规定。"
 
 # TODO: Translation updated at 2022-12-08 00:20
 
@@ -96,67 +96,67 @@ translate Schinese strings:
 
     # game/script.rpy:55
     old "Male Nurse{#speakingName}"
-    new "Male Nurse{#speakingName}"
+    new "男护士{#speakingName}"
 
     # game/script.rpy:56
     old "Female Nurse{#speakingName}"
-    new "Female Nurse{#speakingName}"
+    new "女护士{#speakingName}"
 
     # game/script.rpy:68
     old "Waitress{#speakingName}"
-    new "Waitress{#speakingName}"
+    new "女服务员{#speakingName}"
 
     # game/script.rpy:69
     old "Imp Demon{#speakingName}"
-    new "Imp Demon{#speakingName}"
+    new "小恶魔{#speakingName}"
 
     # game/script.rpy:70
     old "Freelancer{#speakingName}"
-    new "Freelancer{#speakingName}"
+    new "自业者{#speakingName}"
 
     # game/script.rpy:71
     old "Former Freelancer{#speakingName}"
-    new "Former Freelancer{#speakingName}"
+    new "前自业者{#speakingName}"
 
     # game/script.rpy:72
     old "Eyeball{#speakingName}"
-    new "Eyeball{#speakingName}"
+    new "眼球{#speakingName}"
 
     # game/script.rpy:73
     old "Ah Pa{#speakingName}"
-    new "Ah Pa{#speakingName}"
+    new "阿爸{#speakingName}"
 
     # game/script.rpy:74
     old "Ah Ma{#speakingName}"
-    new "Ah Ma{#speakingName}"
+    new "阿妈{#speakingName}"
 
     # game/script.rpy:75
     old "Wolf A{#speakingName}"
-    new "Wolf A{#speakingName}"
+    new "狼 A{#speakingName}"
 
     # game/script.rpy:76
     old "Wolf B{#speakingName}"
-    new "Wolf B{#speakingName}"
+    new "狼 B{#speakingName}"
 
     # game/script.rpy:77
     old "Tall Woman{#speakingName}"
-    new "Tall Woman{#speakingName}"
+    new "高个子的女人{#speakingName}"
 
     # game/script.rpy:78
     old "Short Man{#speakingName}"
-    new "Short Man{#speakingName}"
+    new "矮个子的男人{#speakingName}"
 
     # game/script.rpy:79
     old "Vendor{#speakingName}"
-    new "Vendor{#speakingName}"
+    new "小贩{#speakingName}"
 
     # game/script.rpy:80
     old "Person A{#speakingName}"
-    new "Person A{#speakingName}"
+    new "路人 A{#speakingName}"
 
     # game/script.rpy:81
     old "Person B{#speakingName}"
-    new "Person B{#speakingName}"
+    new "路人 B{#speakingName}"
 
     # game/script.rpy:82
     old "Mike{#speakingName}"
