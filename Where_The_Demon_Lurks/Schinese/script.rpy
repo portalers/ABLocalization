@@ -56,19 +56,19 @@ translate Schinese strings:
 
     # game/script.rpy:56
     old "Hood 1{#speakingName}"
-    new "Hood 1{#speakingName}"
+    new "兜帽人 1{#speakingName}"
 
     # game/script.rpy:57
     old "Hood 2{#speakingName}"
-    new "Hood 2{#speakingName}"
+    new "兜帽人 2{#speakingName}"
 
     # game/script.rpy:58
     old "Hood 3{#speakingName}"
-    new "Hood 3{#speakingName}"
+    new "兜帽人 3{#speakingName}"
 
     # game/script.rpy:59
     old "Hood 4{#speakingName}"
-    new "Hood 4{#speakingName}"
+    new "兜帽人 4{#speakingName}"
 
     # game/script.rpy:60
     old "Staff{#speakingName}"
