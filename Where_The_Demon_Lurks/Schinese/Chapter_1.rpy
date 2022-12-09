@@ -6858,7 +6858,7 @@ translate Schinese chapter_1_936c42e2:
 translate Schinese chapter_1_30b8edb1:
 
     # Fort pose1 "Come on, if you’re down, the staff won’t work. Got to keep the energy up. Just get your coffee and get back onto the torture floor." with hpunch
-    Fort pose1 "加油啊，你不以身作则怎么行！快喝杯咖啡提提神，拷问区还需要你。" with hpunch
+    Fort pose1 "加油啊，我，你不以身作则怎么行！快喝杯咖啡提提神，拷问区还需要你。" with hpunch
 
 # game/story/Chapter_1.rpy:934
 translate Schinese chapter_1_427201ae:
@@ -7402,113 +7402,113 @@ translate Schinese ch1_cleanup_fa833b70:
 translate Schinese chapter_1_d550ccfc:
 
     # K talk "Kept you waiting, huh?"
-    K talk "Kept you waiting, huh?"
+    # K talk "久等了吧？"
 
 # game/story/Chapter_1.rpy:257
 translate Schinese chapter_1_7b2648a7:
 
     # K talk "The usual spot?"
-    K talk "The usual spot?"
+    K talk "老地方？"
 
 # game/story/Chapter_1.rpy:897
 translate Schinese chapter_1_738fd397:
 
     # Fort annoyed "Get—"
-    Fort annoyed "Get—"
+    Fort annoyed "振-"
 
 # game/story/Chapter_1.rpy:905
 translate Schinese chapter_1_125725fd:
 
     # Fort laugh "{sc}{b}Together!{/b}{/sc}"
-    Fort laugh "{sc}{b}Together!{/b}{/sc}"
+    Fort laugh "{sc}{b}振作起来！{/b}{/sc}"
 
 # game/story/Chapter_1.rpy:907
 translate Schinese chapter_1_34c26b2d:
 
     # Fort pose1 annoyed "Come on, if you’re down, the staff won’t work. Got to keep the energy up. Just get your coffee and get back onto the torture floor." with hpunch
-    Fort pose1 annoyed "Come on, if you’re down, the staff won’t work. Got to keep the energy up. Just get your coffee and get back onto the torture floor." with hpunch
+    Fort pose1 annoyed "加油啊，我，你不以身作则怎么行！快喝杯咖啡提提神，拷问区还需要你。" with hpunch
 
 # game/story/Chapter_1.rpy:937
 translate Schinese chapter_1_2260621a:
 
     # Fort neutral1 "Humph, this fridge is full. I should probably throw some stuff out like this bottle of soda that nobody ever drinks."
-    Fort neutral1 "Humph, this fridge is full. I should probably throw some stuff out like this bottle of soda that nobody ever drinks."
+    Fort neutral1 "哼哼，冰箱满了呢，看来只能扔点东西了，比如这瓶没人爱的苏打水。"
 
 # game/story/Chapter_1.rpy:950
 translate Schinese chapter_1_ab93d831:
 
     # Amar angry "Fahrenheit!"
-    Amar angry "Fahrenheit!"
+    Amar angry "哎呦我去！"
 
 # game/story/Chapter_1.rpy:979
 translate Schinese chapter_1_206bc1cf:
 
     # Fort confused "Woah, woah. Calm down there, kitty. I was just joking."
-    Fort confused "Woah, woah. Calm down there, kitty. I was just joking."
+    Fort confused "别急啊，小猫咪，我开玩笑的。"
 
 # game/story/Chapter_1.rpy:983
 translate Schinese chapter_1_ba571bb8:
 
     # Fort neutral1 "What were you doing down there? Looking for inspiration for the new projects Vendrake has got you on?"
-    Fort neutral1 "What were you doing down there? Looking for inspiration for the new projects Vendrake has got you on?"
+    Fort neutral1 "你在这儿干什么？为Vendrake交给你的新项目找灵感吗？"
 
 # game/story/Chapter_1.rpy:989
 translate Schinese chapter_1_f2f0a30e:
 
     # Fort confused "Then how did you get here?"
-    Fort confused "Then how did you get here?"
+    Fort confused "那你是怎么甩开他们的？"
 
 # game/story/Chapter_1.rpy:991
 translate Schinese chapter_1_3ba71097:
 
     # Amar neutral "Easy, I painted my face on a sack of bolts and played a tape of me knocking metal."
-    Amar neutral "Easy, I painted my face on a sack of bolts and played a tape of me knocking metal."
+    Amar neutral "简单，我把我的帅脸画在了一袋螺栓上，再配合播放录有打铁声音的磁带。"
 
 # game/story/Chapter_1.rpy:993
 translate Schinese chapter_1_644e87f9:
 
     # Fort shocked "You’re kidding."
-    Fort shocked "You’re kidding."
+    Fort shocked "这也行。"
 
 # game/story/Chapter_1.rpy:997
 translate Schinese chapter_1_af0d45ac:
 
     # Fort sad "Oh. Well, you better get back soon. They’ll cause trouble again if they find out you’re missing."
-    Fort sad "Oh. Well, you better get back soon. They’ll cause trouble again if they find out you’re missing."
+    Fort sad "唉，总之，你还是快回去吧。要是被那些家伙发现，你指定没好果子吃。"
 
 # game/story/Chapter_1.rpy:1005
 translate Schinese chapter_1_4ec29510:
 
     # Fort sad "You seen the coffee?"
-    Fort sad "You seen the coffee?"
+    Fort sad "你看见咖啡了吗？"
 
 # game/story/Chapter_1.rpy:1035
 translate Schinese chapter_1_a1da8829:
 
     # Amar angry "Oh no, don’t tell me you’re taking his side."
-    Amar angry "Oh no, don’t tell me you’re taking his side."
+    Amar angry "天，别告诉我你站在他那边。"
 
 # game/story/Chapter_1.rpy:1037
 translate Schinese chapter_1_6e4b2ca4:
 
     # Fort shocked "That's not what I mean. You didn’t forget what happened last time you tried to launch your “rebellion” against Vendrake, did you?"
-    Fort shocked "That's not what I mean. You didn’t forget what happened last time you tried to launch your “rebellion” against Vendrake, did you?"
+    Fort shocked "我不是这个意思。你没有忘记上次，你试图‘谋反’时发生的事吧？"
 
 # game/story/Chapter_1.rpy:1043
 translate Schinese chapter_1_20593091:
 
     # Fort sad "Then why are you still doing this?"
-    Fort sad "Then why are you still doing this?"
+    Fort sad "你为什么就是不肯放弃呢？"
 
 # game/story/Chapter_1.rpy:1062
 translate Schinese chapter_1_ef5836d7:
 
     # Fort sad "{sc=2}I… I can’t. I’m sorry, I can’t...{/sc}"
-    Fort sad "{sc=2}I… I can’t. I’m sorry, I can’t...{/sc}"
+    Fort sad "{sc=2}我...我不能...帮你，对不起...{/sc}"
 
 # game/story/Chapter_1.rpy:1706
 translate Schinese chapter_1_439a6203:
 
     # "The boar seals the jar and turns to look into your dazed eyes."
-    "The boar seals the jar and turns to look into your dazed eyes."
+    "野猪封好罐子，转头对上你迷茫的眼睛。"
 
