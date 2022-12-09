@@ -7492,7 +7492,7 @@ translate Schinese chapter_1_a1da8829:
 translate Schinese chapter_1_6e4b2ca4:
 
     # Fort shocked "That's not what I mean. You didn’t forget what happened last time you tried to launch your “rebellion” against Vendrake, did you?"
-    Fort shocked "我不是这个意思。你没有忘记上次，你试图‘谋反’时发生的事吧？"
+    Fort shocked "我不是这个意思。你没有忘记上次，你企图‘谋反’时发生的事吧？"
 
 # game/story/Chapter_1.rpy:1043
 translate Schinese chapter_1_20593091:
