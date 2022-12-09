@@ -4464,17 +4464,17 @@ translate Schinese strings:
 translate Schinese chapter_M2_4aff9e7c:
 
     # M nervous "Plus there were some other hiccups along the way, but I'd rather not talk about that."
-    M nervous "Plus there were some other hiccups along the way, but I'd rather not talk about that."
+    M nervous "此外还有一些插曲，不过那都是后话了。"
 
 # game/story/chapter_M2.rpy:326
 translate Schinese chapter_M2_b64d0756:
 
     # "Your ears tickle as a warmth creeps over it. Both of you retract your hands as they touched."
-    "Your ears tickle as a warmth creeps over it. Both of you retract your hands as they touched."
+    "你们二人连忙把手缩了回去。一股暖流涌上你的心头，弄得你心里痒痒的。"
 
 # game/story/chapter_M2.rpy:815
 translate Schinese morris_call_a_room_fit_for_king_0f4d2f7e:
 
     # Tw "Oh shucks, that little thing, I made that on his birthday."
-    Tw "Oh shucks, that little thing, I made that on his birthday."
+    Tw "哎呀，这个小玩意儿是我在他生日那天做的。"
 
