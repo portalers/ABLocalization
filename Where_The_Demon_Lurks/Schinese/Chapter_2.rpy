@@ -2716,7 +2716,7 @@ translate Schinese chapter_2_410ef310:
 translate Schinese chapter_2_4bcc7f93:
 
     # Nox "This is enough, Lord Vendrake."
-    Nox "够了，Vendrake殿下。"
+    Nox "且慢，Vendrake殿下。"
 
 # game/story/chapter_2.rpy:1611
 translate Schinese chapter_2_e3a999b7:
@@ -2728,7 +2728,7 @@ translate Schinese chapter_2_e3a999b7:
 translate Schinese chapter_2_bdfdd670:
 
     # Nox "Delivering death is beyond our jurisdictions."
-    Nox "给予死亡超出了我们的管辖范围。"
+    Nox "我们的职责并不包括给予死亡。"
 
 # game/story/chapter_2.rpy:1615
 translate Schinese chapter_2_8b90f5cd:
@@ -5282,59 +5282,58 @@ translate Schinese strings:
 translate Schinese chapter_2_0827986d:
 
     # Amar talk "What?"
-    Amar talk "What?"
+    Amar talk "干嘛？"
 
 # game/story/chapter_2.rpy:1195
 translate Schinese chapter_2_1d56d215:
 
     # Amar talk "Obviously because he triggered the fail safe mechanism. I got the alert just now."
-    Amar talk "Obviously because he triggered the fail safe mechanism. I got the alert just now."
+    Amar talk "很简单，因为他触发了保险机制。我刚刚收到警报。"
 
 # game/story/chapter_2.rpy:1197
 translate Schinese chapter_2_837266bc:
 
     # Amar angry "That dingbat shot a mortal! Look, he’s in here!"
-    Amar angry "That dingbat shot a mortal! Look, he’s in here!"
+    Amar angry "那个蠢货射杀了一个凡人！不信你看！"
 
 # game/story/chapter_2.rpy:1248
 translate Schinese chapter_2_60428331:
 
     # Amar neutral talk "You already cut coffee privileges a month back."
-    Amar neutral talk "You already cut coffee privileges a month back."
+    Amar neutral talk "免费咖啡早在上个月就被你取消了。"
 
 # game/story/chapter_2.rpy:1301
 translate Schinese chapter_2_178f9190:
 
     # Fort annoyed "You can't do that! He'll see us. He'll see all of this! Living mortals aren't supposed to be here."
-    Fort annoyed "You can't do that! He'll see us. He'll see all of this! Living mortals aren't supposed to be here."
+    Fort annoyed "不可以！他会看到咱们的！这儿不该出现活着的凡人。"
 
 # game/story/chapter_2.rpy:1321
 translate Schinese chapter_2_e57f3a28:
 
     # Amar neutral talk "Tsk."
-    Amar neutral talk "Tsk."
+    Amar neutral talk "啧。"
 
 # game/story/chapter_2.rpy:1632
 translate Schinese chapter_2_9ff4010f:
 
     # Nox talk "He is not dead yet."
-    Nox talk "He is not dead yet."
+    Nox talk "因为他还没有死。"
 
 # game/story/chapter_2.rpy:1654
 translate Schinese chapter_2_36f37978:
 
     # Nox talk "This is enough, Lord Vendrake."
-    Nox talk "This is enough, Lord Vendrake."
+    Nox "且慢，Vendrake殿下。"
 
 # game/story/chapter_2.rpy:1738
 translate Schinese chapter_2_adf13a98:
 
     # Fort annoyed "Where exactly do you think I’m supposed to put him? We didn’t build dungeons for keeping living mortals!"
-    Fort annoyed "Where exactly do you think I’m supposed to put him? We didn’t build dungeons for keeping living mortals!"
+    Fort annoyed "我们的地牢可不是建给活着的凡人住的！"
 
 # game/story/chapter_2.rpy:1813
 translate Schinese chapter_2_50cfee3f:
 
     # Amar "So are we done here?" (cb_no_talk=True)
-    Amar "So are we done here?" (cb_no_talk=True)
-
+    Amar "没我们什么事儿了吧？" (cb_no_talk=True)
