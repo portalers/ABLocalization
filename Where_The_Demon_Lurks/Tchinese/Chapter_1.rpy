@@ -7298,161 +7298,160 @@ translate Tchinese ch1_cleanup_fa833b70:
 translate Tchinese chapter_1_d550ccfc:
 
     # K talk "Kept you waiting, huh?"
-    K talk "Kept you waiting, huh?"
+    K talk "久等了嗎？"
 
 # game/story/Chapter_1.rpy:257
 translate Tchinese chapter_1_7b2648a7:
 
     # K talk "The usual spot?"
-    K talk "The usual spot?"
+    K talk "老地方？"
 
 # game/story/Chapter_1.rpy:897
 translate Tchinese chapter_1_738fd397:
 
     # Fort annoyed "Get—"
-    Fort annoyed "Get—"
+    Fort annoyed "振──"
 
 # game/story/Chapter_1.rpy:905
 translate Tchinese chapter_1_125725fd:
 
     # Fort laugh "{sc}{b}Together!{/b}{/sc}"
-    Fort laugh "{sc}{b}Together!{/b}{/sc}"
+    Fort laugh "{sc}{b}振作起來！{/b}{/sc}"
 
 # game/story/Chapter_1.rpy:907
 translate Tchinese chapter_1_34c26b2d:
 
     # Fort pose1 annoyed "Come on, if you’re down, the staff won’t work. Got to keep the energy up. Just get your coffee and get back onto the torture floor." with hpunch
-    Fort pose1 annoyed "Come on, if you’re down, the staff won’t work. Got to keep the energy up. Just get your coffee and get back onto the torture floor." with hpunch
+    Fort pose1 annoyed "加油啊，你不以身作則怎麼行！快喝杯咖啡提提神，拷問區還需要你。" with hpunch
 
 # game/story/Chapter_1.rpy:937
 translate Tchinese chapter_1_2260621a:
 
     # Fort neutral1 "Humph, this fridge is full. I should probably throw some stuff out like this bottle of soda that nobody ever drinks."
-    Fort neutral1 "Humph, this fridge is full. I should probably throw some stuff out like this bottle of soda that nobody ever drinks."
+    Fort neutral1 "哼哼，冰箱滿了呢，看來只能扔點東西了，比如這瓶沒人愛的蘇打水。"
 
 # game/story/Chapter_1.rpy:950
 translate Tchinese chapter_1_ab93d831:
 
     # Amar angry "Fahrenheit!"
-    Amar angry "Fahrenheit!"
+    Amar angry "靠夭！"
 
 # game/story/Chapter_1.rpy:977
 translate Tchinese chapter_1_427201ae:
 
     # Amar only_hand1 "Can’t you see who’s name is on the bottle?"
-    Amar only_hand1 "Can’t you see who’s name is on the bottle?"
+    Amar only_hand1 "你沒看見瓶子上有名字嗎？"
 
 # game/story/Chapter_1.rpy:979
 translate Tchinese chapter_1_206bc1cf:
 
     # Fort confused "Woah, woah. Calm down there, kitty. I was just joking."
-    Fort confused "Woah, woah. Calm down there, kitty. I was just joking."
+    Fort confused "哇哦。別急啊，小貓咪，我就是開個玩笑。"
 
 # game/story/Chapter_1.rpy:983
 translate Tchinese chapter_1_ba571bb8:
 
     # Fort neutral1 "What were you doing down there? Looking for inspiration for the new projects Vendrake has got you on?"
-    Fort neutral1 "What were you doing down there? Looking for inspiration for the new projects Vendrake has got you on?"
+    Fort neutral1 "你在這裡幹什麼？為Vendrake交給你的新案找靈感嗎？"
 
 # game/story/Chapter_1.rpy:989
 translate Tchinese chapter_1_f2f0a30e:
 
     # Fort confused "Then how did you get here?"
-    Fort confused "Then how did you get here?"
+    Fort confused "那你是怎麼甩開他們的？"
 
 # game/story/Chapter_1.rpy:991
 translate Tchinese chapter_1_3ba71097:
 
     # Amar neutral "Easy, I painted my face on a sack of bolts and played a tape of me knocking metal."
-    Amar neutral "Easy, I painted my face on a sack of bolts and played a tape of me knocking metal."
+    Amar neutral "很簡單，我把我的帥臉畫在了一袋螺栓上，再配合播放錄有打鐵聲音的磁帶。"
 
 # game/story/Chapter_1.rpy:993
 translate Tchinese chapter_1_644e87f9:
 
     # Fort shocked "You’re kidding."
-    Fort shocked "You’re kidding."
+    Fort shocked "你開玩笑的吧？"
 
 # game/story/Chapter_1.rpy:997
 translate Tchinese chapter_1_af0d45ac:
 
     # Fort sad "Oh. Well, you better get back soon. They’ll cause trouble again if they find out you’re missing."
-    Fort sad "Oh. Well, you better get back soon. They’ll cause trouble again if they find out you’re missing."
+    Fort sad "咳，總之，你還是快回去吧。要是被那些傢伙發現，肯定又要大亂了。"
 
 # game/story/Chapter_1.rpy:999
 translate Tchinese chapter_1_a5897c80:
 
     # Amar hand2_3 "Not until I come up with some new idea to take Vendrake down."
-    Amar hand2_3 "Not until I come up with some new idea to take Vendrake down."
+    Amar hand2_3 "不可能，除非我想到怎麼扳倒Vendrake。"
 
 # game/story/Chapter_1.rpy:1005
 translate Tchinese chapter_1_4ec29510:
 
     # Fort sad "You seen the coffee?"
-    Fort sad "You seen the coffee?"
+    Fort sad "你看見咖啡了嗎？"
 
 # game/story/Chapter_1.rpy:1020
 translate Tchinese chapter_1_6e885cb0:
 
     # "He pours the instant mix into the machine and turns it on."
-    "He pours the instant mix into the machine and turns it on."
+    "他往機器中倒入咖啡粉，然後啟動。"
 
 # game/story/Chapter_1.rpy:1035
 translate Tchinese chapter_1_a1da8829:
 
     # Amar angry "Oh no, don’t tell me you’re taking his side."
-    Amar angry "Oh no, don’t tell me you’re taking his side."
+    Amar angry "喔不，別告訴我你站在他那邊。"
 
 # game/story/Chapter_1.rpy:1037
 translate Tchinese chapter_1_6e4b2ca4:
 
     # Fort shocked "That's not what I mean. You didn’t forget what happened last time you tried to launch your “rebellion” against Vendrake, did you?"
-    Fort shocked "That's not what I mean. You didn’t forget what happened last time you tried to launch your “rebellion” against Vendrake, did you?"
+    Fort shocked "我不是這個意思。你沒有忘記上次，你試圖反抗Vendrake時發生的事吧？"
 
 # game/story/Chapter_1.rpy:1043
 translate Tchinese chapter_1_20593091:
 
     # Fort sad "Then why are you still doing this?"
-    Fort sad "Then why are you still doing this?"
+    Fort sad "那你為什麼就是不肯放棄呢？"
 
 # game/story/Chapter_1.rpy:1045
 translate Tchinese chapter_1_dec6d1f8:
 
     # Amar only_hand1 "Because I’m doing what’s right! [name] is out there and he’s the Demon Lord. Not Vendrake. We need to fight back or he’ll turn this whole company to a new hell for demons. You’re supposed to be helping me!"
-    Amar only_hand1 "Because I’m doing what’s right! [name] is out there and he’s the Demon Lord. Not Vendrake. We need to fight back or he’ll turn this whole company to a new hell for demons. You’re supposed to be helping me!"
+    Amar only_hand1 "我自認沒有做錯！[name]還活著，他才是真正的魔王！我們必須反抗，否則他會把整間公司變成惡魔的地獄！你應該幫我才是！"
 
 # game/story/Chapter_1.rpy:1062
 translate Tchinese chapter_1_ef5836d7:
 
     # Fort sad "{sc=2}I… I can’t. I’m sorry, I can’t...{/sc}"
-    Fort sad "{sc=2}I… I can’t. I’m sorry, I can’t...{/sc}"
+    Fort sad "{sc=2}我……我不能……幫你，對不起……{/sc}"
 
 # game/story/Chapter_1.rpy:1393
 translate Tchinese chapter_1_46bcc734:
 
     # "The golden retriever growls and conjures up three more feathers."
-    "The golden retriever growls and conjures up three more feathers."
+    "金毛低吼著，又凝聚出三根羽毛。"
 
 # game/story/Chapter_1.rpy:1498
 translate Tchinese chapter_1_345b0f68:
 
     # "The golden retriever ceases his attacks."
-    "The golden retriever ceases his attacks."
+    "金毛停止了攻擊。"
 
 # game/story/Chapter_1.rpy:1706
 translate Tchinese chapter_1_439a6203:
 
     # "The boar seals the jar and turns to look into your dazed eyes."
-    "The boar seals the jar and turns to look into your dazed eyes."
+    "野豬封好罐子，轉頭對上你迷茫的眼睛。"
 
 # game/story/Chapter_1.rpy:2241
 translate Tchinese chapter_1_6e5b9656:
 
     # L -left talk neutral "Find me at the Lazadus Warehouse. [name], I know you need help, that's why I’m here. Just trust me and come find me so we can talk this through."
-    L -left talk neutral "Find me at the Lazadus Warehouse. [name], I know you need help, that's why I’m here. Just trust me and come find me so we can talk this through."
+    L -left talk neutral "去Lazadus倉庫找我，[name]。我知道你需要幫助，這也是我此行的目的。相信我，我們可以好好談談。"
 
 # game/story/Chapter_1.rpy:2410
 translate Tchinese chapter_1_1ec962d1:
 
     # K "{i}[name], da shop's closed for three days to fix all the damage. Want 2 come 2 my place and do DDXIV all night?{i}"
-    K "{i}[name], da shop's closed for three days to fix all the damage. Want 2 come 2 my place and do DDXIV all night?{i}"
-
+    K "{i}[name]，我們店要關門維修三天，要不要來我家通宵打DDXIV？{i}"
