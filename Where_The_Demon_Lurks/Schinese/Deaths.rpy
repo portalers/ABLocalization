@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-11-15 13:14
+# TODO: Translation updated at 2022-12-09 14:28
 
 # game/story/Deaths.rpy:11
 translate Schinese death_4c3ef161:
@@ -22,7 +22,7 @@ translate Schinese death_f6074618:
 translate Schinese death_daf9d837:
 
     # "Unknown" "But… I wasn’t expecting you here, at least not this early."
-    "Unknown" "不过...还真是出乎我的意料啊，没想到会这么早。"
+    "Unknown" "只不过...我没料到会这么早。"
 
 # game/story/Deaths.rpy:15
 translate Schinese death_37c0bff8:
@@ -106,7 +106,7 @@ translate Schinese death_37f0b463_3:
 translate Schinese death_4dd6e3d1:
 
     # "Unknown" "[name]... Please, just be more careful."
-    "Unknown" "[name]...拜托，再小心一点。"
+    "Unknown" "[name]...拜托，请再小心一点。"
 
 # game/story/Deaths.rpy:31
 translate Schinese death_12a47622_1:
@@ -130,31 +130,11 @@ translate Schinese death_53e4ad20:
 translate Schinese death_03fbc5e7:
 
     # "Welcome to the Demon Lord Death Processing System. You have been registered for a restart. Please hold while our services search through the sea of consciousness to find your corpse."
-    "欢迎来到魔王死亡处理系统。您已注册重新启动程序，请稍候，我们的服务人员在意识之海中搜寻您的尸体。"
+    "欢迎来到已故魔王处理系统。您已注册重新启动程序，请稍候，我们的服务人员在意识之海中搜寻您的尸体。"
 
 # game/story/Deaths.rpy:36
 translate Schinese death_9d8b2aac:
 
     # "Unknown" "My shoulders feel so heavy lately. I need more deep heating cream."
-    "Unknown" "我的肩膀感觉好重，我需要更多的深度热霜。"
-
-# TODO: Translation updated at 2022-12-08 00:18
-
-# game/story/Deaths.rpy:13
-translate Schinese death_2d479009:
-
-    # "Unknown" "You can’t talk, can you? Not that you should, considering you’ve never been here before."
-    "Unknown" "说不了话吗？没办法，毕竟这是你第一次来这里。"
-
-# game/story/Deaths.rpy:24
-translate Schinese death_c277f548:
-
-    # "Unknown" "Alright, don’t ask any questions. Not that you can. Before they become aware that you’re here, I’m sending you back to the moment of your death. You won’t recall that we ever talked, of course."
-    "Unknown" "好吧，什么也别问，当然你也问不了。在他们发现你之前，我要把你重置到你死前的那一刻。当然，你不会记得我们有过这样的对话。"
-
-# game/story/Deaths.rpy:36
-translate Schinese death_0944ab75:
-
-    # "Unknown" "My shoulders feel so heavy lately. I need more of that deep heating cream."
-    "Unknown" "我的肩膀感觉好重，我需要更多的深度暖霜。"
+    "Unknown" "我的肩膀最近感觉好重，我需要更多的深度暖霜。"
 
