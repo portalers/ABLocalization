@@ -4464,17 +4464,16 @@ translate Tchinese strings:
 translate Tchinese chapter_M2_4aff9e7c:
 
     # M nervous "Plus there were some other hiccups along the way, but I'd rather not talk about that."
-    M nervous "Plus there were some other hiccups along the way, but I'd rather not talk about that."
+    M nervous "此外還有一些插曲，不過那都是後話了。"
 
 # game/story/chapter_M2.rpy:326
 translate Tchinese chapter_M2_b64d0756:
 
     # "Your ears tickle as a warmth creeps over it. Both of you retract your hands as they touched."
-    "Your ears tickle as a warmth creeps over it. Both of you retract your hands as they touched."
+    "你們二人連忙把手縮了回去。一股暖流湧上你的心頭，弄得你心裡癢癢的。"
 
 # game/story/chapter_M2.rpy:815
 translate Tchinese morris_call_a_room_fit_for_king_0f4d2f7e:
 
     # Tw "Oh shucks, that little thing, I made that on his birthday."
-    Tw "Oh shucks, that little thing, I made that on his birthday."
-
+    Tw "哎，這個小東西是我在他生日那天做的。"
