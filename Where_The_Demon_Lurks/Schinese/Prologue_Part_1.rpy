@@ -2032,137 +2032,137 @@ translate Schinese name_input_75b58267:
 translate Schinese name_input_609fe9e4:
 
     # Amar smile "I see. If my Lord wants to know about me, I have my specs right here."
-    Amar smile "I see. If my Lord wants to know about me, I have my specs right here."
+    Amar smile "原来如此。既然殿下想要了解我，我这里刚好有配置。"
 
 # game/story/Prologue_Part_1.rpy:365
 translate Schinese name_input_971744a6:
 
     # Amar neutral "Would you like me to display the contents on my brain for you, my Lord? I can get a machine to show you the shape of my brain in little time."
-    Amar neutral "Would you like me to display the contents on my brain for you, my Lord? I can get a machine to show you the shape of my brain in little time."
+    Amar neutral "您想看我大脑的内容物吗，殿下？通过一种机器，我可以在短时间内呈现给您。"
 
 # game/story/Prologue_Part_1.rpy:379
 translate Schinese name_input_c7d8511f:
 
     # Amar sad "Oh… so my fridge didn’t learn to run yet?"
-    Amar sad "Oh… so my fridge didn’t learn to run yet?"
+    Amar sad "诶...所以我的冰箱还没有学会跑步？"
 
 # game/story/Prologue_Part_1.rpy:387
 translate Schinese name_input_8a815067:
 
     # Amar -hand1 hand2 hand3 smile "Yeah! I can make it run after the souls and trap them in a black hole that sends them back into the never-ending cycle of running and getting trapped!"
-    Amar -hand1 hand2 hand3 smile "Yeah! I can make it run after the souls and trap them in a black hole that sends them back into the never-ending cycle of running and getting trapped!"
+    Amar -hand1 hand2 hand3 smile "对哦！我可以让它把灵魂赶进黑洞，再释放出来，使它们无限奔跑下去!"
 
 # game/story/Prologue_Part_1.rpy:397
 translate Schinese name_input_9a4e0a1f:
 
     # Amar neutral "Yes, I need them to fix or modify the torture machines we use. Since souls tend to become accustomed to their torturing over time, we need to change their hellish experience every so often."
-    Amar neutral "Yes, I need them to fix or modify the torture machines we use. Since souls tend to become accustomed to their torturing over time, we need to change their hellish experience every so often."
+    Amar neutral "是的，我需要用它们来修理和改进我们的刑具。因为随着时间的推移，灵魂会对刑罚习以为常，所以我们时不时就要改变策略。"
 
 # game/story/Prologue_Part_1.rpy:409
 translate Schinese name_input_584df2c9:
 
     # Amar -hand2 -hand3 hand1 smile "Exactly!"
-    Amar -hand2 -hand3 hand1 smile "Exactly!"
+    Amar -hand2 -hand3 hand1 smile "正是！"
 
 # game/story/Prologue_Part_1.rpy:415
 translate Schinese name_input_e89ba46b:
 
     # Amar sad "I ran the proposal with the research committee, but it’s been stuck in the pending phase for over a hundred years. I just need to test the prototype somewhere."
-    Amar sad "I ran the proposal with the research committee, but it’s been stuck in the pending phase for over a hundred years. I just need to test the prototype somewhere."
+    Amar sad "只是我缺少一处测试原型机的地点。我和研究委员会一起提交了这项提案，但它已经被搁置上百年了。"
 
 # game/story/Prologue_Part_1.rpy:421
 translate Schinese name_input_30d6142b:
 
     # Amar smile "Really? That’s all I would need to get started."
-    Amar smile "Really? That’s all I would need to get started."
+    Amar smile "真的吗？这样就万事俱备了。"
 
 # game/story/Prologue_Part_1.rpy:488
 translate Schinese name_input_67459b7f:
 
     # Fort pose2 laugh "HEY, BOSS! GET OVER HERE!"
-    Fort pose2 laugh "HEY, BOSS! GET OVER HERE!"
+    Fort pose2 laugh "{b}嗨，老大！快来快来！{/b}"
 
 # game/story/Prologue_Part_1.rpy:496
 translate Schinese name_input_98190c97:
 
     # Fort neutral2 "Heck yeah! Boss it is then! Now that’s a title for someone with {sc=2}power!{/sc}"
-    Fort neutral2 "Heck yeah! Boss it is then! Now that’s a title for someone with {sc=2}power!{/sc}"
+    Fort neutral2 "说得太对了！不愧是老大！现在，我要把它列为只有{sc=2}强者{/sc}才配拥有的头衔。"
 
 # game/story/Prologue_Part_1.rpy:506
 translate Schinese name_input_da4043be:
 
     # Fort laugh "Heck yeah there’s more to it than that. I run a team of torture demons! That means coming up with new torture techniques, and planning out the work schedule so my staff can keep busy."
-    Fort laugh "Heck yeah there’s more to it than that. I run a team of torture demons! That means coming up with new torture techniques, and planning out the work schedule so my staff can keep busy."
+    Fort laugh "可不是嘛，还有一整队拷问恶魔需要我调教呢！这意味着我要琢磨出新的拷问技，排好班，让我的员工们能长期干下去。"
 
 # game/story/Prologue_Part_1.rpy:508
 translate Schinese name_input_5cc4dba7:
 
     # Fort neutral2 pose2 "We demons may be tough, but wear and tear happens if you keep pushing your team or yourself too hard. Besides, you can’t grow muscles without rest!"
-    Fort neutral2 pose2 "We demons may be tough, but wear and tear happens if you keep pushing your team or yourself too hard. Besides, you can’t grow muscles without rest!"
+    Fort neutral2 pose2 "我们恶魔是很健壮，但也扛不住过劳死。再说，不休息可长不出肌肉！"
 
 # game/story/Prologue_Part_1.rpy:512
 translate Schinese name_input_258628ab:
 
     # Fort pose3 "Heck yeah, I recommend we start everyone on a protein-only diet!"
-    Fort pose3 "Heck yeah, I recommend we start everyone on a protein-only diet!"
+    Fort pose3 "可不是嘛，我建议大伙从现在开始只吃蛋白质！"
 
 # game/story/Prologue_Part_1.rpy:530
 translate Schinese name_input_08535022:
 
     # Fort pose1 neutral1 "Right, don’t think your underlings are loyal to you out of love alone. We’re all demons, creatures born from chaos to manage chaos."
-    Fort pose1 neutral1 "Right, don’t think your underlings are loyal to you out of love alone. We’re all demons, creatures born from chaos to manage chaos."
+    Fort pose1 neutral1 "总之，不要指望下属的忠诚是出于对您的爱。我们是恶魔，是从混沌中诞生，掌管混沌的生物。"
 
 # game/story/Prologue_Part_1.rpy:534
 translate Schinese name_input_3e5374c0:
 
     # Fort @ sad "If you start showing weakness, someone’s going to get the bright idea they can take your place."
-    Fort @ sad "If you start showing weakness, someone’s going to get the bright idea they can take your place."
+    Fort @ sad "只要您表现出一丝软弱，马上就有人惦记上您的位子。"
 
 # game/story/Prologue_Part_1.rpy:547
 translate Schinese name_input_764e0e33:
 
     # Fort annoyed "Like rerunning those old dream ads?"
-    Fort annoyed "Like rerunning those old dream ads?"
+    Fort annoyed "像从前那样，一遍又一遍地托梦？"
 
 # game/story/Prologue_Part_1.rpy:551
 translate Schinese name_input_0cf69638:
 
     # Fort confused "You can do that with the Internet?"
-    Fort confused "You can do that with the Internet?"
+    Fort confused "互联网还能这么用？"
 
 # game/story/Prologue_Part_1.rpy:555
 translate Schinese name_input_bb077a2a:
 
     # Fort shocked "Uhh… stuff."
-    Fort shocked "Uhh… stuff."
+    Fort shocked "就...网上冲浪呗。"
 
 # game/story/Prologue_Part_1.rpy:557
 translate Schinese name_input_2f946db7:
 
     # Fort confused "Does Vendrake know about this?"
-    Fort confused "Does Vendrake know about this?"
+    Fort confused "Vendrake知道吗？"
 
 # game/story/Prologue_Part_1.rpy:563
 translate Schinese name_input_83d52725:
 
     # Fort neutral1 "Maybe I can do a training video. You know, show how powerful our demons are. That oughta scare those mortals down the right path."
-    Fort neutral1 "Maybe I can do a training video. You know, show how powerful our demons are. That oughta scare those mortals down the right path."
+    Fort neutral1 "也许我可以把训练过程录下来，让凡人见识一下我们恶魔的强大，指定吓得他们不敢作恶。"
 
 # game/story/Prologue_Part_1.rpy:824
 translate Schinese name_input_11d01329:
 
     # Amar "Who’s he?" (cb_no_talk=True)
-    Amar "Who’s he?" (cb_no_talk=True)
+    Amar "他是谁？" (cb_no_talk=True)
 
 # game/story/Prologue_Part_1.rpy:837
 translate Schinese name_input_3d18f97e:
 
     # Amar "Oh right, right. Hello, Lord [name]." (cb_no_talk=True)
-    Amar "Oh right, right. Hello, Lord [name]." (cb_no_talk=True)
+    Amar "对哦，你好啊，[name]殿下。" (cb_no_talk=True)
 
 # game/story/Prologue_Part_1.rpy:943
 translate Schinese name_input_396294b0:
 
     # Fort annoyed "No, he approved my idea first, so that takes priority."
-    Fort annoyed "No, he approved my idea first, so that takes priority."
+    Fort annoyed "不，他先批准了我的，所以要以我为准。"
 
