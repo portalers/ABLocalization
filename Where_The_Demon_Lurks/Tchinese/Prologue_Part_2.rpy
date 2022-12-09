@@ -1830,31 +1830,31 @@ translate Tchinese strings:
 translate Tchinese prologue_part_2_acb94b06:
 
     # Amar only_hand1 "Never, my Lord! We have to follow procedure, 70%% of all successful meetings always start with a proper attendance call."
-    Amar only_hand1 "Never, my Lord! We have to follow procedure, 70%% of all successful meetings always start with a proper attendance call."
+    Amar only_hand1 "萬萬不可，殿下！我們必須嚴格遵循程序，百分之七十的成功會議都是以合乎規範的點名開始的。"
 
 # game/story/Prologue_Part_2.rpy:108
 translate Tchinese prologue_part_2_6c0a7078:
 
     # Amar hand2_3 "Additionally, we cannot discount the psychological effect of an attendance call to a demon's attention. It releases —"
-    Amar hand2_3 "Additionally, we cannot discount the psychological effect of an attendance call to a demon's attention. It releases —"
+    Amar hand2_3 "此外，我們不能忽視點名對惡魔注意力的心理作用，這會紓解──"
 
 # game/story/Prologue_Part_2.rpy:125
 translate Tchinese prologue_part_2_85794198:
 
     # Fort laugh "HERE!"
-    Fort laugh "HERE!"
+    Fort laugh "{b}到！{/b}"
 
 # game/story/Prologue_Part_2.rpy:131
 translate Tchinese prologue_part_2_511608bc:
 
     # Fort @ pose3 "The loudest is the strongest at roll call!"
-    Fort @ pose3 "The loudest is the strongest at roll call!"
+    Fort @ pose3 "嗓門是實力的一部分！"
 
 # game/story/Prologue_Part_2.rpy:135
 translate Tchinese prologue_part_2_36dcf159:
 
     # Fort confused "You calling me stupid or you telling me to shut up?"
-    Fort confused "You calling me stupid or you telling me to shut up?"
+    Fort confused "你是在罵我蠢，還是想叫我閉嘴？"
 
 # game/story/Prologue_Part_2.rpy:137
 translate Tchinese prologue_part_2_0a0254b0:
@@ -1926,125 +1926,103 @@ translate Tchinese prologue_part_2_d76c3c51:
 translate Tchinese prologue_part_2_c8095401:
 
     # extend "I’m suspending your role as second-in-command until you learn to be less of a thorn in my side!" with vpunch
-    extend "I’m suspending your role as second-in-command until you learn to be less of a thorn in my side!" with vpunch
+    extend "我要無限期暫停你副官的職務，直到你學會別做別人的眼中釘！" with vpunch
 
 # game/story/Prologue_Part_2.rpy:912
 translate Tchinese prologue_part_2_36fa5887:
 
     # Amar only_hand1 "We were concerned about you, Lord [name]."
-    Amar only_hand1 "We were concerned about you, Lord [name]."
+    Amar only_hand1 "我們很擔心您，[name]殿下。"
 
 # game/story/Prologue_Part_2.rpy:918
 translate Tchinese prologue_part_2_8d4e043f:
 
     # Fort neutral2 "Oh no, you can’t say that after the scene you pulled back in the meeting room."
-    Fort neutral2 "Oh no, you can’t say that after the scene you pulled back in the meeting room."
+    Fort neutral2 "別這樣，會議室裡大家都看到了。"
 
 # game/story/Prologue_Part_2.rpy:922
 translate Tchinese prologue_part_2_f37f0ed3:
 
     # Fort annoyed "Amare!"
-    Fort annoyed "Amare!"
+    Fort annoyed "Amare！"
 
 # game/story/Prologue_Part_2.rpy:930
 translate Tchinese prologue_part_2_505a1369:
 
     # Fort confused "Where’s your fire, boy? Where’s the demon that I trained when he was just in diapers?"
-    Fort confused "Where’s your fire, boy? Where’s the demon that I trained when he was just in diapers?"
+    Fort confused "你的激情在哪裡，孩子？那個剛穿上尿布就跟我一起訓練的惡魔跑哪裡去了？"
 
 # game/story/Prologue_Part_2.rpy:932
 translate Tchinese prologue_part_2_22909b3d:
 
     # Fort @ pose2 "Where’s your fight back?"
-    Fort @ pose2 "Where’s your fight back?"
+    Fort @ pose2 "你的還擊呢？"
 
 # game/story/Prologue_Part_2.rpy:957
 translate Tchinese prologue_part_2_cb7c280f:
 
     # p talk "Thank you for the offer, Amare. {done}Thing is, I am not sure finding the spirit to fight back is enough to keep me here."
-    p talk "Thank you for the offer, Amare. {done}Thing is, I am not sure finding the spirit to fight back is enough to keep me here."
+    p talk "感謝你的提議，Amare。{done}可問題是，我不確定找回反擊精神是否足以讓我留下。"
 
 # game/story/Prologue_Part_2.rpy:963
 translate Tchinese prologue_part_2_ddcb4e42:
 
     # Amar shocked "You want to quit?"
-    Amar shocked "You want to quit?"
+    Amar shocked "您想要辭職嗎？"
 
 # game/story/Prologue_Part_2.rpy:991
 translate Tchinese prologue_part_2_0850739d:
 
     # Amar shocked "Fortis! You’re suffocating our Lord!"
-    Amar shocked "Fortis! You’re suffocating our Lord!"
+    Amar shocked "Fortis！殿下要窒息了！"
 
 # game/story/Prologue_Part_2.rpy:1042
 translate Tchinese prologue_part_2_8335e004:
 
     # Fort confused "Cologne? I don’t wear cologne."
-    Fort confused "Cologne? I don’t wear cologne."
+    Fort confused "古龍水？我不噴古龍水啊。"
 
 # game/story/Prologue_Part_2.rpy:1057
 translate Tchinese prologue_part_2_5cca9a0c:
 
     # p talk "What do you say if we go back to my office and just play a round of go-kart racing with some drinks?"
-    p talk "What do you say if we go back to my office and just play a round of go-kart racing with some drinks?"
+    p talk "誰想去我的辦公室，邊喝邊玩卡丁車？"
 
 # game/story/Prologue_Part_2.rpy:1059
 translate Tchinese prologue_part_2_51b51131:
 
     # Fort laugh pose2 "I’m game! I’ll beat all your butts!"
-    Fort laugh pose2 "I’m game! I’ll beat all your butts!"
+    Fort laugh pose2 "算我一個！看我不把你們打得落花流水！"
 
 # game/story/Prologue_Part_2.rpy:1135
 translate Tchinese prologue_part_2_6908a265:
 
     # Amar shocked "Nox? Why are you here?"
-    Amar shocked "Nox? Why are you here?"
+    Amar shocked "Nox？你怎麼也來了？"
 
 # game/story/Prologue_Part_2.rpy:1149
 translate Tchinese prologue_part_2_4a225c22:
-
-    # "From behind his back {nw}"
-    "From behind his back {nw}"
-
-# game/story/Prologue_Part_2.rpy:1155
-translate Tchinese prologue_part_2_8d8c51ee:
-
-    # extend "he pulls a short scepter, its length made from solid gold. An enchanting blood-red ruby sits at the top, clenched within Vendrake’s demonic claws."
-    extend "he pulls a short scepter, its length made from solid gold. An enchanting blood-red ruby sits at the top, clenched within Vendrake’s demonic claws."
 
 # game/story/Prologue_Part_2.rpy:1164
 translate Tchinese prologue_part_2_60c5293f:
 
     # Fort confused "Yeah, quit fooling around with your toys and give the boss his office back!"
-    Fort confused "Yeah, quit fooling around with your toys and give the boss his office back!"
+    Fort confused "就是，別再擺弄你的那些玩具了，快把辦公室還給老大！"
 
 # game/story/Prologue_Part_2.rpy:1194
 translate Tchinese prologue_part_2_497a81ec:
 
     # Fort -left annoyed "Treason!"
-    Fort -left annoyed "Treason!"
+    Fort -left annoyed "叛徒！"
 
 # game/story/Prologue_Part_2.rpy:1344
 translate Tchinese prologue_part_2_c6537e81:
 
     # Amar shocked "Ahhh!"
-    Amar shocked "Ahhh!"
+    Amar shocked "啊──！"
 
 # game/story/Prologue_Part_2.rpy:1379
 translate Tchinese prologue_part_2_23b89c77:
 
     # Amar shocked "Nox! What are you doing?"
-    Amar shocked "Nox! What are you doing?"
-
-# game/story/Prologue_Part_2.rpy:1503
-translate Tchinese prologue_part_2_f7308450:
-
-    # "Vendrake tosses you into the air again,{nw}"
-    "Vendrake tosses you into the air again,{nw}"
-
-# game/story/Prologue_Part_2.rpy:1535
-translate Tchinese prologue_part_2_defa4fbf:
-
-    # extend " firing a blast of green energy at you."
-    extend " firing a blast of green energy at you."
-
+    Amar shocked "Nox！你還愣著幹什麼？"
