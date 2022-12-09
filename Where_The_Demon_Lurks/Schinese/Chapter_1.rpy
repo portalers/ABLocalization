@@ -7402,7 +7402,7 @@ translate Schinese ch1_cleanup_fa833b70:
 translate Schinese chapter_1_d550ccfc:
 
     # K talk "Kept you waiting, huh?"
-    # K talk "久等了吧？"
+    K talk "久等了吧？"
 
 # game/story/Chapter_1.rpy:257
 translate Schinese chapter_1_7b2648a7:
