@@ -5282,59 +5282,58 @@ translate Tchinese strings:
 translate Tchinese chapter_2_0827986d:
 
     # Amar talk "What?"
-    Amar talk "What?"
+    Amar talk "幹嘛？"
 
 # game/story/chapter_2.rpy:1195
 translate Tchinese chapter_2_1d56d215:
 
     # Amar talk "Obviously because he triggered the fail safe mechanism. I got the alert just now."
-    Amar talk "Obviously because he triggered the fail safe mechanism. I got the alert just now."
+    Amar talk "很簡單，因為他觸發了保險機制。我剛剛收到警報。"
 
 # game/story/chapter_2.rpy:1197
 translate Tchinese chapter_2_837266bc:
 
     # Amar angry "That dingbat shot a mortal! Look, he’s in here!"
-    Amar angry "That dingbat shot a mortal! Look, he’s in here!"
+    Amar angry "那個蠢貨射殺了一個凡人！你看！"
 
 # game/story/chapter_2.rpy:1248
 translate Tchinese chapter_2_60428331:
 
     # Amar neutral talk "You already cut coffee privileges a month back."
-    Amar neutral talk "You already cut coffee privileges a month back."
+    Amar neutral talk "你早在上個月就取消免費咖啡了。"
 
 # game/story/chapter_2.rpy:1301
 translate Tchinese chapter_2_178f9190:
 
     # Fort annoyed "You can't do that! He'll see us. He'll see all of this! Living mortals aren't supposed to be here."
-    Fort annoyed "You can't do that! He'll see us. He'll see all of this! Living mortals aren't supposed to be here."
+    Fort annoyed "不可以！他會看到我們的！這裡不該出現活著的凡人。"
 
 # game/story/chapter_2.rpy:1321
 translate Tchinese chapter_2_e57f3a28:
 
     # Amar neutral talk "Tsk."
-    Amar neutral talk "Tsk."
+    Amar neutral talk "嘖。"
 
 # game/story/chapter_2.rpy:1632
 translate Tchinese chapter_2_9ff4010f:
 
     # Nox talk "He is not dead yet."
-    Nox talk "He is not dead yet."
+    Nox talk "因為他還沒有死。"
 
 # game/story/chapter_2.rpy:1654
 translate Tchinese chapter_2_36f37978:
 
     # Nox talk "This is enough, Lord Vendrake."
-    Nox talk "This is enough, Lord Vendrake."
+    Nox talk "夠了，Vendrake殿下。"
 
 # game/story/chapter_2.rpy:1738
 translate Tchinese chapter_2_adf13a98:
 
     # Fort annoyed "Where exactly do you think I’m supposed to put him? We didn’t build dungeons for keeping living mortals!"
-    Fort annoyed "Where exactly do you think I’m supposed to put him? We didn’t build dungeons for keeping living mortals!"
+    Fort annoyed "我們的地牢不是建來給活著的凡人住的！"
 
 # game/story/chapter_2.rpy:1813
 translate Tchinese chapter_2_50cfee3f:
 
     # Amar "So are we done here?" (cb_no_talk=True)
-    Amar "So are we done here?" (cb_no_talk=True)
-
+    Amar "沒我們什麼事了吧？" (cb_no_talk=True)
