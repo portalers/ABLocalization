@@ -2818,29 +2818,29 @@ translate Schinese strings:
 translate Schinese chapter_L2_f83acaf7:
 
     # p neutral talk "And now that you’ve found me, you’ll stick out like a sore thumb in town if people see you avoiding food like the plague."
-    p neutral talk "And now that you’ve found me, you’ll stick out like a sore thumb in town if people see you avoiding food like the plague."
+    p neutral talk "你已经找到我了不是吗，再像躲瘟疫一样躲着食物也太格格不入了。"
 
 # game/story/chapter_L2.rpy:271
 translate Schinese chapter_L2_5aa7c608:
 
     # "Lucian continues to eat the noodles in silence, but his tail would wag every so often against the floor, producing short but quick, audible tapping noises."
-    "Lucian continues to eat the noodles in silence, but his tail would wag every so often against the floor, producing short but quick, audible tapping noises."
+    "Lucian继续默默吃着方便面，尾巴却不时在地板上摇来摇去，发出清脆的敲击声。"
 
 # game/story/chapter_L2.rpy:1074
 translate Schinese chapter_L2_0a7df691:
 
     # "A lady dressed in a bright red dress approaches with two menus in her hands."
-    "A lady dressed in a bright red dress approaches with two menus in her hands."
+    "一位身着鲜红色连衣裙的女士拿着两份菜单迎了上来。"
 
 # game/story/chapter_L2.rpy:1371
 translate Schinese chapter_L2_16ae277d:
 
     # "The smell of food instantly eases the tension and your worries melt away."
-    "The smell of food instantly eases the tension and your worries melt away."
+    "食物的香气弥漫开来，化解了你们的忧虑。"
 
 # game/story/chapter_L2.rpy:1526
 translate Schinese chapter_L2_5a32e957:
 
     # "Come dusk, the search for the Gate begins again."
-    "Come dusk, the search for the Gate begins again."
+    "夜幕降临，寻找冥界之门的行动再度开始。"
 
