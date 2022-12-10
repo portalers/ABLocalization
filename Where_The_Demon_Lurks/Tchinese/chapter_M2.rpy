@@ -562,13 +562,13 @@ translate Tchinese chapter_M2_25654d60:
 translate Tchinese chapter_M2_b4503810:
 
     # p question "Yeah, it’s what this pizza came with. You don’t like pineapple on your pizza?"
-    p question "對啊，他是這披薩的基本配料。你不喜歡鳳梨嗎？"
+    p question "對啊，他是這個口味的基本配料。你不喜歡鳳梨嗎？"
 
 # game/story/chapter_M2.rpy:233
 translate Tchinese chapter_M2_c21a9e00:
 
     # M "Blergh— I’m all for sweets but that thing does not belong on a pizza."
-    M "噁——喜歡是喜歡，但披薩上放甜食可是禁忌啊。"
+    M "噁──喜歡是喜歡，但披薩上放甜食可是禁忌啊。"
 
 # game/story/chapter_M2.rpy:235
 translate Tchinese chapter_M2_d2e6acbc:
@@ -604,7 +604,7 @@ translate Tchinese chapter_M2_060742cf:
 translate Tchinese chapter_M2_1cf5d94a:
 
     # M "Ahh…"
-    M "呼..."
+    M "呼……"
 
 # game/story/chapter_M2.rpy:247
 translate Tchinese chapter_M2_59ccef8b:
@@ -850,7 +850,7 @@ translate Tchinese chapter_M2_9e098097:
 translate Tchinese chapter_M2_117f235f:
 
     # M "No, no it’s ok. I wasn’t paying attention."
-    M "不——不好意思，是我沒注意。"
+    M "不──不好意思，是我沒注意。"
 
 # game/story/chapter_M2.rpy:330
 translate Tchinese chapter_M2_0549ea20:
@@ -976,7 +976,7 @@ translate Tchinese chapter_M2_6fd890b0:
 translate Tchinese chapter_M2_90362408:
 
     # M neutral talk "Alright, I think you’re set for tonight. If anything goes bump in the night, call me, maybe I can join in on the fun."
-    M neutral talk "我想你可以睡個安穩覺了。萬一發生什麼事，打電話給我，也許我可以一起玩。"
+    M neutral talk "我想你可以睡個安穩覺了。萬一發生什麼事，打電話給我，也許我可以一起玩玩。"
 
 # game/story/chapter_M2.rpy:378
 translate Tchinese chapter_M2_d2a1e531:
@@ -1144,7 +1144,7 @@ translate Tchinese morris_call_a_room_fit_for_king_0228736f:
 translate Tchinese morris_call_a_room_fit_for_king_883aa741:
 
     # "I believe in you! – King."
-    "‘我相信你哦！’—King"
+    "‘我相信你哦！’──King"
 
 # game/story/chapter_M2.rpy:458
 translate Tchinese morris_call_a_room_fit_for_king_5a9ef910:
@@ -1210,7 +1210,7 @@ translate Tchinese morris_call_a_room_fit_for_king_0f1e62f7:
 translate Tchinese morris_call_a_room_fit_for_king_b0368da3:
 
     # p "This doesn’t look like it will clear up fast. I better call him to come–"
-    p "這雨可有得下了，我最好打電話叫他——"
+    p "這雨可有得下了，我最好打電話叫他──"
 
 # game/story/chapter_M2.rpy:529
 translate Tchinese morris_call_a_room_fit_for_king_2f9b2b46:
@@ -1288,7 +1288,7 @@ translate Tchinese morris_call_a_room_fit_for_king_582df2b2:
 translate Tchinese morris_call_a_room_fit_for_king_d910b75c:
 
     # M annoyed "Does it look like we have a choice? Come on, it’s that or I’m going without you."
-    M annoyed "你以為我願意是不是？快一點，不然我自己去。"
+    M annoyed "你以為我願意是不是？快一點，不然我自己撐。"
 
 # game/story/chapter_M2.rpy:563
 translate Tchinese morris_call_a_room_fit_for_king_c999079c:
@@ -1546,7 +1546,7 @@ translate Tchinese morris_call_a_room_fit_for_king_babe5679:
 translate Tchinese morris_call_a_room_fit_for_king_b7963553:
 
     # "You widen your stance and put on your best quivering smile."
-    "你身體一橫，擺出自己最燦爛的微笑——儘管眼角有些顫。"
+    "你身體一橫，擺出自己最燦爛的微笑──儘管眼角有些顫。"
 
 # game/story/chapter_M2.rpy:695
 translate Tchinese morris_call_a_room_fit_for_king_d94989d8:
@@ -1600,7 +1600,7 @@ translate Tchinese morris_call_a_room_fit_for_king_28b68f63:
 translate Tchinese morris_call_a_room_fit_for_king_43616ce4:
 
     # Sm "Wha-what is this?"
-    Sm "這——這是？"
+    Sm "這──這是？"
 
 # game/story/chapter_M2.rpy:736
 translate Tchinese morris_call_a_room_fit_for_king_aac775ff:
@@ -2128,13 +2128,13 @@ translate Tchinese chapter_m2_king_search_066f0471:
 translate Tchinese chapter_m2_king_search_0446e7a4:
 
     # p question "Nedwin? That’s the name of the Overlord from DD XIV."
-    p question "Nedwin？這是DD14裡霸王的名字。"
+    p question "Nedwin？這是DD14裡霸主的名字。"
 
 # game/story/chapter_M2.rpy:988
 translate Tchinese chapter_m2_king_search_15d85ef5:
 
     # p shocked "Overlord, High Lord, Queen of Meals, wait, it’s not Queen of Meals, it’s Queen of Seals, all three titles are from the game."
-    p shocked "霸王、領主、料理女王，不對，不是料理女王，是海豹女王，這些都是遊戲中的角色。"
+    p shocked "霸主、領主、料理女王，不對，不是料理女王，是海豹女王，這些都是遊戲中的角色。"
 
 # game/story/chapter_M2.rpy:990
 translate Tchinese chapter_m2_king_search_ee7ac439:
@@ -2446,7 +2446,7 @@ translate Tchinese chapter_m2_king_search_10b82a7d:
 translate Tchinese chapter_m2_king_search_f5d69cc9:
 
     # p "Uhh... Uhh... King would say, maybe..."
-    p "呃……呃……King會怎麼說呢..."
+    p "呃……呃……King會怎麼說呢……"
 
 # game/story/chapter_M2.rpy:1101
 translate Tchinese chapter_m2_king_search_0e7a919a:
@@ -2830,7 +2830,7 @@ translate Tchinese chapter_m2_parent_reply_e17738e2:
 translate Tchinese chapter_m2_parent_reply_0aaccbd2:
 
     # Ma "Ah Boy, Ah Boy, one more thing, you know our neighbours? Their son Johnny just told them he also wants to date guys, I talked to his mom and we both think you two should meet him when you come home for break."
-    Ma "親愛的，還有一件事，你還記得我們的鄰居嗎？他們家的小子Johnny不久前剛出了櫃，我跟他媽商量了一下，覺得你們兩個應該見一面。”"
+    Ma "親愛的，還有一件事，你還記得我們的鄰居嗎？他們家的小子Johnny不久前剛出了櫃，我跟他媽商量了一下，覺得你們兩個應該見一面。"
 
 # game/story/chapter_M2.rpy:1241
 translate Tchinese chapter_m2_parent_reply_b7e29f7e:
@@ -3070,7 +3070,7 @@ translate Tchinese chapter_m2_parent_reply_6f0a3e55:
 translate Tchinese chapter_m2_parent_reply_fa23435d:
 
     # p "Agreed— Wh-what? Toast? What are you doing here?" (cb_no_talk=True)
-    p "我同意——咦？Toast？你怎麼也在？" (cb_no_talk=True)
+    p "我同意──咦？Toast？你怎麼也在？" (cb_no_talk=True)
 
 # game/story/chapter_M2.rpy:1412
 translate Tchinese chapter_m2_parent_reply_e6b2e17a:
@@ -3124,7 +3124,7 @@ translate Tchinese chapter_m2_parent_reply_40d2c3c8:
 translate Tchinese chapter_m2_parent_reply_9b86661c:
 
     # T "It’s the cult, they–"
-    T "關於邪教的，他們——"
+    T "關於邪教的，他們──"
 
 # game/story/chapter_M2.rpy:1434
 translate Tchinese chapter_m2_parent_reply_6dd8e796:
@@ -3244,7 +3244,7 @@ translate Tchinese chapter_m2_parent_reply_82921ab5:
 translate Tchinese chapter_m2_parent_reply_54980045:
 
     # M serious "Alright–"
-    M serious "好吧——"
+    M serious "好吧──"
 
 # game/story/chapter_M2.rpy:1494
 translate Tchinese chapter_m2_parent_reply_f160ce16:
@@ -3256,7 +3256,7 @@ translate Tchinese chapter_m2_parent_reply_f160ce16:
 translate Tchinese chapter_m2_parent_reply_2a674860:
 
     # M "I’m not trusting you whether you’re an idiot or not, for all I know that’s all a facade. I’m giving you the benefit of a doubt [name], if that ghost–"
-    M "你是不是白痴與我無關，我知道那全是你裝出來的假象。[name]，看在你的面子上，我姑且相信那幽靈是無辜的，如果他——"
+    M "你是不是白痴與我無關，我知道那全是你裝出來的假象。[name]，看在你的面子上，我姑且相信那幽靈是無辜的，如果他──"
 
 # game/story/chapter_M2.rpy:1498
 translate Tchinese chapter_m2_parent_reply_42ed05b3:
@@ -3280,7 +3280,7 @@ translate Tchinese chapter_m2_parent_reply_0d781db5:
 translate Tchinese chapter_m2_parent_reply_91fb707c:
 
     # T "Or I can hightail it out of here! Goodbye sucke–" (cb_no_talk=True)
-    T "又或者我可以直接拍拍屁股走人！拜啦笨——" (cb_no_talk=True)
+    T "又或者我可以直接拍拍屁股走人！拜啦呆──" (cb_no_talk=True)
 
 # game/story/chapter_M2.rpy:1526
 translate Tchinese chapter_m2_parent_reply_f9118f2a:
@@ -3598,7 +3598,7 @@ translate Tchinese chapter_m2_parent_reply_9f8d7801:
 translate Tchinese chapter_m2_parent_reply_37122f8d:
 
     # T shocked "M-Me?"
-    T shocked "我——我？"
+    T shocked "我──我？"
 
 # game/story/chapter_M2.rpy:1663
 translate Tchinese chapter_m2_parent_reply_0ad55543:
@@ -4120,7 +4120,7 @@ translate Tchinese chapter_m2_parent_reply_0e5b10f3:
 translate Tchinese chapter_m2_parent_reply_fb4c5d22:
 
     # p talk "Anyways, that was pretty cool seeing you do actual exorcism work."
-    p talk "總之，看你驅魔真是太——酷了。"
+    p talk "總之，看你驅魔真是太──酷了。"
 
 # game/story/chapter_M2.rpy:2025
 translate Tchinese chapter_m2_parent_reply_fe93bf5c:
@@ -4456,7 +4456,7 @@ translate Tchinese strings:
 
     # game/story/chapter_M2.rpy:2106
     old "Morris is... Morris is... pretty ok, I guess? Sure he might wipe me out on the spot if he ever finds out what I really am, but he's been nothing but helpful since we teamed up. I'm not sure how long he has had that bandaged hand though, I think he should get it checked, it kind of smells. Still, I'm glad he helped out with King and his parents. I wouldn't have been able to even think about that part of his life on my own. Guess you can't just get transported into another dimension and expect nothing to change at home. Note to self though; watch out for Morris' real power level, the guy's stronger than he looks."
-    new "Morris...Morris他是一個……好人？我們才認識短短幾天，他就幫了我大忙，雖然他知道我的真實身份後八成會當場滅了我吧。說起來他的手包紮多久了？都有異味了，他真的應該去醫院看看，不過我還是很高興他幫助了King和King的父母。而最神秘的就屬他的過去，我甚至想像不出他都經歷了什麼，看來就算被平白無故傳送到異世界，也不能宅在家裡無所事事呀。注意：當心Morris真正的實力，這傢伙不可貌相。"
+    new "Morris……Morris他是一個……好人？我們才認識短短幾天，他就幫了我大忙，雖然他知道我的真實身份後八成會當場滅了我吧。説起來他的手包扎多久了？都有味道了，他真的該去醫院看看，不過我還是很高興他幫助了King和King的父母。而最神秘的就屬他的過去，我甚至想像不出他都經歷了什麽，看來就算被平白無故傳送到另一個世界，也不能宅在家無所事事呀。注意：當心Morris真正的實力，這野豬不可貌相。"
 
 # TODO: Translation updated at 2022-12-08 00:08
 

@@ -1234,7 +1234,7 @@ translate Schinese chapter_L2_3d47f439:
 translate Schinese chapter_L2_044514d9:
 
     # p "WHATEVER’S MAKING THAT NOISE, SHUT UP!"
-    p "{b}还让不让人睡觉了！/b}"
+    p "{b}还让不让人睡觉了！{/b}"
 
 # game/story/chapter_L2.rpy:659
 translate Schinese chapter_L2_64d45b0b:

@@ -3816,11 +3816,11 @@ translate Tchinese strings:
 
     # game/story/chapter_T2.rpy:1848
     old "I want to say I thought this through, but I’m not sure anymore. Now, I’ve gotten tangled up with this ghost to save King. In exchange, I promised to help him get into Up Above... Oh boy, I don’t know if Gary is going to allow that. If Gary hasn’t said no, my promise isn’t a lie, right? I worry if this guy’s all that dependable. He has a temper for sure and is pretty reckless too. However, he’s been honest when he tries to help me. I hope this all works out, somehow."
-    new "我本以為自己下定了決心，卻依舊搖擺不定。如今，我為了救King與那個幽靈糾纏在一起。作為交換，我答應他幫他去天界……天吶，我連Gary那關都不知道能不能過呢。但就算他反對，我又沒有食言，對吧？我更擔心這傢伙是否真的那麼可靠。他無疑非常暴躁，而且魯莽，但他想要幫助的我心無疑是真誠的。總之，希望一切順利吧。"
+    new "我本以爲自己下定了决心，但依舊摇擺不定。\n如今，我爲了救King與那個幽靈糾纏在一起。\n作爲交换，我答應他幫他去天界……天哪，我連Gary那關都不知道能不能過呢。\n但就算他反對，我又没有食言，對吧？我更擔心這家伙是否真的那麽可靠。\n他無疑非常暴躁，而且魯莽，但他想要幫助的我心無疑是真誠的。\n總之，希望一切順利吧。"
 
     # game/story/chapter_T2.rpy:1850
     old "I’ve met this guy, like twice, and he’s already trying to kill me? That’s a new record. He really despises demons and ghosts. To be fair, yes, our kind has a history of bewitching, possessing and even attempting to bend the will of mortal kind, but that was a long time ago. I’m different. I guess in the right light, his determination can be kind of sexy. A no-nonsense guy who’d do everything in his power to protect what he believes in. Punishing any demon that gets in his way... What am I writing?\nDespite his dubious hustle, Morris is tough. The end."
-    new "我才見過這傢伙兩次，他就想著殺我了？好個新紀錄，看來他真的很鄙視惡魔和幽靈。平心而論，我們是有蠱惑、附身，甚至扭曲凡人的意志的歷史，但那已經是舊帳了呀。我又不一樣。不過換個角度看，他還挺性感的：一個不苟言笑的驅魔師，會竭盡所能地守護自己的信仰，剷除一切妨礙他的惡魔……我在寫什麼東西？\n儘管Morris說自己很忙這件事值得懷疑，但他本人是條漢子。完畢。"
+    new "我才見過這家伙兩次，他就想著殺我了？看來他真的很鄙視惡魔和幽靈。\n平心而論，我們是有蠱惑、附身，甚至扭曲凡人的意志的歷史，但那已經是舊帳了呀。\n我又不一樣。不過换個角度看，他還挺性感的：一個不苟言笑的驅魔師，會竭盡所能地守護自己的信仰，消滅一切妨礙他的惡魔……我在寫什麽東西？\n先不談Morris説自己很忙這件事值得懷疑，但他本人是條漢子。\n完畢。"
 
 # TODO: Translation updated at 2022-08-24 15:44
 

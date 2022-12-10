@@ -4,7 +4,7 @@
 translate Tchinese chapter_1_acfa1333:
 
     # "Ding, dong, bing bong~!"
-    "叮咚，叮咚~！"
+    "叮咚，叮咚～！"
 
 # game/story/Chapter_1.rpy:16
 translate Tchinese chapter_1_c4def5a1:
@@ -562,7 +562,7 @@ translate Tchinese chapter_1_44ee9103:
 translate Tchinese chapter_1_dc6181f8:
 
     # p "Don’t get your fleece in a bunch. There’s tons of other stuff we can do. Like dungeons, dailies, plus you know maybe the Overlord is not such a bad guy, who are we to judge?"
-    p "別炸毛嘛，還有很多事可以做啊，比如地下城跟每日任務。再說了，霸王又不一定是個壞傢伙，我們沒理由非要去打敗他呀？"
+    p "別炸毛嘛，還有很多事可以做啊，比如地下城跟每日任務。再說了，霸主又不一定是個壞傢伙，我們沒理由非要去打敗他呀？"
 
 # game/story/Chapter_1.rpy:354
 translate Tchinese chapter_1_016b8296:
@@ -904,7 +904,7 @@ translate Tchinese chapter_1_3283b765:
 translate Tchinese chapter_1_d97f00c5:
 
     # "You struggle to think as every thought is cut off by their continuous chatter."
-    "不絕於耳的傳教聲使你心緒如麻，難以思考。"
+    "不絕於耳的傳教聲使你心亂如麻，難以思考。"
 
 # game/story/Chapter_1.rpy:551
 translate Tchinese chapter_1_20d027f7:
@@ -1222,7 +1222,7 @@ translate Tchinese chapter_1_6f652b66:
 translate Tchinese chapter_1_e0c6d575:
 
     # p smile "It’s the Overlord..."
-    p smile "是霸王呢……"
+    p smile "是霸主呢……"
 
 # game/story/Chapter_1.rpy:757
 translate Tchinese chapter_1_0fbd62aa:
@@ -1312,7 +1312,7 @@ translate Tchinese chapter_1_675e1ba5:
 translate Tchinese chapter_1_0bb69203:
 
     # "The branches sway and rustle as you fill your stomach with the “Overlord” King prepared. It’s so damn sweet."
-    "微風吹拂，樹枝搖曳，你與‘霸王’決戰。這場面不可謂不甜蜜。"
+    "微風吹拂，樹枝搖曳，你與‘霸主’決戰。這場面不可謂不甜蜜。"
 
 # game/story/Chapter_1.rpy:789
 translate Tchinese chapter_1_6eb85b27:
@@ -1654,7 +1654,7 @@ translate Tchinese chapter_1_2a29819e:
 translate Tchinese chapter_1_eab3ba9f:
 
     # "Fortis lets out an exhausted sigh. This isn’t the first time the scientist has been plotting against their new leader."
-    "Fortis疲憊地嘆了口氣，這位科學家密謀推翻他們的新領袖已經不是第一次了。"
+    "Fortis疲憊地嘆了口氣，這位科學家密謀推翻他們的新上司已經不是第一次了。"
 
 # game/story/Chapter_1.rpy:959
 translate Tchinese chapter_1_47ecf39c:
@@ -1858,7 +1858,7 @@ translate Tchinese chapter_1_db9e2153:
 translate Tchinese chapter_1_acfa1333_1:
 
     # "Ding, dong, bing bong~!"
-    "叮咚，叮咚~！"
+    "叮咚，叮咚～！"
 
 # game/story/Chapter_1.rpy:1076
 translate Tchinese chapter_1_6d67d832:
@@ -2320,7 +2320,7 @@ translate Tchinese chapter_1_b41d9cfe:
 translate Tchinese chapter_1_acfa1333_2:
 
     # "Ding, dong, bing bong~!"
-    "叮咚，叮咚~！"
+    "叮咚，叮咚～！"
 
 # game/story/Chapter_1.rpy:1436
 translate Tchinese chapter_1_b4863dc9:
@@ -4498,7 +4498,7 @@ translate Tchinese ch1_cleanup_d49713d9:
 translate Tchinese ch1_cleanup_13bf4c84:
 
     # K "{bt=4}Hey, hey, hey, cutie butt.{/bt}"
-    K "{bt=4}呦，這是哪個大可愛啊？{/bt}"
+    K "{bt=4}呦，這是哪裡來的大可愛啊？{/bt}"
 
 # game/story/Chapter_1.rpy:2894
 translate Tchinese ch1_cleanup_71770f95:
@@ -4696,7 +4696,7 @@ translate Tchinese ch1_cleanup_a028606a:
 translate Tchinese ch1_cleanup_994b5ed6:
 
     # K "I don’t know."
-    K "可是，我不確定。"
+    K "我拿不定主意。"
 
 # game/story/Chapter_1.rpy:2987
 translate Tchinese ch1_cleanup_e4ef0d5f:
@@ -4822,7 +4822,7 @@ translate Tchinese ch1_cleanup_0bccf10a:
 translate Tchinese ch1_cleanup_6b91b385:
 
     # p "Got to say, I’m loving the art direction for this series."
-    p "不得不說，我挺佩服這部番的美工的。"
+    p "不得不說，我挺佩服這部的作畫。"
 
 # game/story/Chapter_1.rpy:3067
 translate Tchinese ch1_cleanup_769a1bdb:
@@ -4840,7 +4840,7 @@ translate Tchinese ch1_cleanup_87a9cef3:
 translate Tchinese ch1_cleanup_fc175297:
 
     # p "You and the hundreds of so-called “fans” of the visual novel online."
-    p "你們這些所謂的‘原著黨’啊..."
+    p "你們這些所謂的‘原作黨’啊..."
 
 # game/story/Chapter_1.rpy:3073
 translate Tchinese ch1_cleanup_f7b63b60:
@@ -5038,7 +5038,7 @@ translate Tchinese ch1_cleanup_a72bb8c2:
 translate Tchinese ch1_cleanup_7ec0f404:
 
     # p "If everything’s all good, then when do we gotta get back to work?"
-    p "也就是說萬事大吉了，那我們什麼時候覆工？"
+    p "也就是說萬事大吉了，那我們什麼時候復工？"
 
 # game/story/Chapter_1.rpy:3168
 translate Tchinese ch1_cleanup_cde5a212:
@@ -5074,7 +5074,7 @@ translate Tchinese ch1_cleanup_a9b3e903:
 translate Tchinese ch1_cleanup_14256e4a:
 
     # p "King, I’m just worried I’ll mess things up. I don’t exactly have the best track record with leading anything."
-    p "我只是擔心自己會惹禍，King。我不適合做領導，從來都不適合。"
+    p "我只是擔心自己會惹禍，King。我不適合當上司，從來都不適合。"
 
 # game/story/Chapter_1.rpy:3180
 translate Tchinese ch1_cleanup_ded05e1a:
@@ -5422,7 +5422,7 @@ translate Tchinese ch1_cleanup_5ab45014:
 translate Tchinese ch1_cleanup_eace4901:
 
     # T "Heck yeah, it’s me, your ol’ buddy, Toast. Bring it in, man."
-    T "沒錯，是你的好哥們，Toast。來抱一個~"
+    T "沒錯，是你的好哥們，Toast。來抱一個～"
 
 # game/story/Chapter_1.rpy:3373
 translate Tchinese ch1_cleanup_214ae0dd:
@@ -5554,7 +5554,7 @@ translate Tchinese ch1_cleanup_f02e2283:
 translate Tchinese ch1_cleanup_84d53b54:
 
     # T "Don’t be so shy, buddy! This goes to show you got a leader that looks out for his underlings."
-    T "好哥們，別害羞！這代表你有一個體恤下屬的領導。"
+    T "好哥們，別害羞！這代表你有一個體恤下屬的上司。"
 
 # game/story/Chapter_1.rpy:3429
 translate Tchinese ch1_cleanup_0b7e9d02:
@@ -6124,7 +6124,7 @@ translate Tchinese ch1_cleanup_6d82a266:
 translate Tchinese ch1_cleanup_b092fa63:
 
     # M left serious "Relax, I just hit the part of his body that’s carrying all his tension. Usually, they don’t faint like that unless they’re bottling a lot of it."
-    M left serious "別緊張，我只是按了他承載緊張情緒的部位。一般不會暈倒的，除非裡面裝了太多。"
+    M left serious "別緊張，我只是按了他承載緊張情緒的穴位。一般不會暈倒的，除非裡面累積太多。"
 
 # game/story/Chapter_1.rpy:3964
 translate Tchinese ch1_cleanup_65a9354f:
@@ -6448,7 +6448,7 @@ translate Tchinese ch1_cleanup_a244447a:
 translate Tchinese ch1_cleanup_e6661f09:
 
     # p smile "Heck no, let's go dailies!"
-    p smile "不可能的。快上線！"
+    p smile "不可能。快上線！"
 
 # game/story/Chapter_1.rpy:4161
 translate Tchinese ch1_cleanup_e03c860d:
@@ -6472,7 +6472,7 @@ translate Tchinese ch1_cleanup_54bd6006:
 translate Tchinese ch1_cleanup_cf87a8dc:
 
     # "Every few seconds he dozes off, but is awakened not too long after by the pull of gravity on his head."
-    "不到數秒鐘他就進入了夢鄉，但隨後又被嚮往自由的頭驚醒，如此反覆。"
+    "不到數秒鐘他就進入了夢鄉，但隨後又被嚮往自由的腦袋驚醒，如此反覆。"
 
 # game/story/Chapter_1.rpy:4173
 translate Tchinese ch1_cleanup_8ae1e0d9:
@@ -6628,7 +6628,7 @@ translate Tchinese ch1_cleanup_cb43a288:
 translate Tchinese ch1_cleanup_1849a7ba:
 
     # K "Hmm, I saw a thread online about a magical tree in some country that could grant wishes if you threw your wishes onto its branches."
-    K "嗯，我之前刷到一篇帖子，說某個國家長有一棵神奇的樹。只要把願望扔到樹枝上，無論什麼都能實現。"
+    K "嗯，我之前滑到一篇文章，說某個國家長有一棵神奇的樹。只要把願望扔到樹枝上，無論什麼都能實現。"
 
 # game/story/Chapter_1.rpy:4238
 translate Tchinese ch1_cleanup_16e3b1ee:
@@ -6778,7 +6778,7 @@ translate Tchinese strings:
 
     # game/story/Chapter_1.rpy:21
     old "“Sunny Fruits, Sunny Fruits, the friendliest family mart in town! Rain or shine we'll be there to serve you with a smile.“ That's the franchise jingle that I had to learn on the first day of the job. Sunny Fruits is a rising franchise in this part of the country. According to the employee handbook, the business person who started the franchise started with just a fruit stand by the streets. Then they came into a great fortune one day and decided to go into the convenience store industry."
-    new "‘陽光超市，陽光超市，鎮上最友好的全家便利商店！無論颳風還是下雨，我們都將竭誠為您服務。’這是我在入職第一天就必須學會的廣告詞。陽光超市是這個地區新興的特營店。根據員工手冊記載，創始人起初只是在街邊擺水果攤的。後來他們一夜暴富，決定進軍便利商店行業。"
+    new "『陽光超市，陽光超市，鎮上最友好的全家便利商店！無論刮風還是下雨，我們都將竭誠爲您服務。』\n這是我在入職第一天就必須學會的廣告詞。\n陽光超市是這個地區新興的特營店。\n根據員工手册記載，創始人起初只是在街邊擺水果攤的。\n後來他們一夜暴富，便進軍向便利商店發展。"
 
     # game/story/Chapter_1.rpy:787
     old "King{#journal}"
@@ -6786,7 +6786,7 @@ translate Tchinese strings:
 
     # game/story/Chapter_1.rpy:787
     old "King's my friend and I'm forever indebted to him for helping me rebuild my life after... the event. He's sweet, has a talent for cooking and cares a whole lot;  he's arguably the nicest soul I've ever met. Even after I found my own place, he still checks up on me and I appreciate that. I wish I could repay him somehow for all his generosity. I can't imagine what would have happened if I didn't run into him that day..."
-    new "King是我的朋友，他在……那個事件發生後幫助我重建了新的生活。他的大恩大德，我會永遠銘記心中。他人很可愛，有烹飪天賦，還特别照顧我，可以説是我見過最善良的人。即使在我找到住處後，他仍時不時過來看我，我對此非常感激。真希望我可以報答他的慷慨。我不敢想像，假如那天没有遇到他的話，我……"
+    new "King是我的朋友，他在……那個事件發生後幫助我重建了新的生活。\n他的大恩大德，我會永遠銘記心中。\n他人很可愛，有烹飪天賦，還特别照顧我，可以説是我見過最善良的人。\n即使在我找到住處後，他仍時不時過來看我，我對此非常感激。\n真希望我可以報答他的慷慨。\n我不敢想像，假如那天没有遇到他的話，我……"
 
     # game/story/Chapter_1.rpy:2324
     old "Lucian{#journal}"
@@ -6794,8 +6794,7 @@ translate Tchinese strings:
 
     # game/story/Chapter_1.rpy:2324
     old "Just my luck! Right when I'm starting to get used to my mortal life, a freaking angel shows up! Why? Gary sure wasn't in a rush to send help when I tried to reach him before. Then again, he did say that most prayers end up in his spam bin. Still, I don't like him! Just cuz he looks good in some designer clothes and has that anime-boy-haircut, doesn't mean he gets a free pass to act like the most important person in the room...right? Ughhhh, he's just so smug, I can pull off an anime haircut too! If... I had my old build..."
-    new "倒楣！就在我開始習慣凡人生活的時候，一個怪天使出現了！可是爲什麽？Gary明明把我之前的求助當耳邊風。不過，他確實有説大部分祈禱最後都進了他的垃圾信箱。可我還是不喜歡那個天使！他穿著名牌服裝，留著殺馬特頭，但這不意味著他高人一等……不是嗎？可惡，他也太自以爲是了，我也要做個酷炫的造型！前提是…等我恢復從前的身材…"
-
+    new "倒楣！就在我開始習慣凡人生活的時候，一個怪天使出現了！可是爲什麽？Gary明明把我之前的求助當耳邊風。\n不過，他確實有説大部分祈禱最後都進了他的垃圾信箱。\n可我還是不喜歡那個天使！他穿著名牌服裝，留著殺馬特頭，但這不意味著他高人一等……不是嗎？\n可惡，他也太自以爲是了，我也要做個酷炫的造型！前提是……等我恢復從前的身材……"
     # game/story/Chapter_1.rpy:2375
     old "Put your bed away"
     new "整理你的床"
@@ -6814,11 +6813,11 @@ translate Tchinese strings:
 
     # game/story/Chapter_1.rpy:2601
     old "If the Underworld is a soul crushing company, the Up Above is a five star hotel. The perfect place to have all your dreams and desires come true, if your soul passes judgement. I've always considered Gary to be lucky to run the place. I mean, who wouldn't want to run a chill place where you make everyone happy until they turn into pure energy? Wish I could get a place there myself, but for some reason it's always fully booked."
-    new "如果説冥界是一間主打靈魂粉碎的公司，那天界就是五星級酒店了：一個只有通過了審判的靈魂才能去往的、可以實現一切夢想的完美世界。Gary那家伙可真走運，畢竟誰不想經營一個讓靈魂幸福到化作純粹能量的地方呢？我都想去體驗一番了，但不知道爲什麽，那地方總是客滿。"
+    new "如果説冥界是一間主打靈魂粉碎的公司，那天界就是五星級酒店了：一個只有通過了審判的靈魂才能去往的、可以實現一切夢想的完美世界。\nGary那家伙可真走運，畢竟誰不想經營一個讓靈魂幸福到化作純粹能量的地方呢？\n我都想去體驗一番了，但不知道爲什麽，那地方總是客滿。"
 
     # game/story/Chapter_1.rpy:3003
     old "Agree to watch the show"
-    new "同意看番"
+    new "同意邊吃邊看番劇"
 
     # game/story/Chapter_1.rpy:3003
     old "Ask to eat and talk"
@@ -6830,7 +6829,7 @@ translate Tchinese strings:
 
     # game/story/Chapter_1.rpy:3531
     old "This ghost is dumb."
-    new "這個幽靈腦筋不太好使。"
+    new "這個幽靈腦筋不太正常。"
 
     # game/story/Chapter_1.rpy:4138
     old "Morris{#journal}"
@@ -6838,7 +6837,7 @@ translate Tchinese strings:
 
     # game/story/Chapter_1.rpy:4138
     old "So this silver-tongued piggy is an exorcist, huh? A crooked one at that if how he acted in the shop is any indicator of how he conducts his work. Not that I blame him, exorcists are a dying breed ever since Paw legislated strict restrictions on demonic influences here on Earth. If he were to find out what I really am, I doubt he'd just let me leave town."
-    new "所以這頭伶牙俐齒的小猪是個驅魔師？要不是他在超商露了一手，我還以爲他是江湖騙子呢。倒也不是不能理解，自從老爸頒布了法律，嚴格限制惡魔在人界的活動後，驅魔師這個職業就瀕臨滅绝了。如果他發現我的真實身份，怕不是會直接把我趕出鎮子吧。"
+    new "所以這頭伶牙俐齒的小猪是個驅魔師？\n要不是他在超商露了一手，我還以爲他是江湖騙子呢。\n倒也不是不能理解，自從老爸頒布了法律，嚴格限制惡魔在人界的活動後，驅魔師這個職業就瀕臨滅绝了。\n如果他發現我的真實身份，怕不是會直接把我趕出鎮子吧。"
 
 # game/story/Chapter_1.rpy:3172
 translate Tchinese ch1_cleanup_a4fa1789:
@@ -7171,7 +7170,7 @@ translate Tchinese ch1_cleanup_06ad76f3:
 translate Tchinese ch1_cleanup_c3a721b4:
 
     # K talk neutral "Hmm…"
-    K talk neutral "嗯..."
+    K talk neutral "嗯……"
 
 # game/story/Chapter_1.rpy:3265
 translate Tchinese ch1_cleanup_11f82e45:

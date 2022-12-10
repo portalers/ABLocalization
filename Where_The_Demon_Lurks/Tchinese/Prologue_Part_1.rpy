@@ -340,7 +340,7 @@ translate Tchinese name_input_83d4aefe:
 translate Tchinese name_input_41cf74f3:
 
     # "He also goes into a long explanation about his role as Chief of Security, how his forces patrol the Underworld to maintain order, and the various boring documents they fill out on a daily basis to do so."
-    "他還詳細說明了他作為保安主管的職責：他的部隊如何在冥界巡邏、維持秩序，以及他們每天都要為此填寫各種無聊的文件。"
+    "他還詳細說明了他作為保安上司的職責：他的部隊如何在冥界巡邏、維持秩序，以及他們每天都要為此填寫各種無聊的文件。"
 
 # game/story/Prologue_Part_1.rpy:246
 translate Tchinese name_input_e03101fd:
@@ -1396,7 +1396,7 @@ translate Tchinese name_input_ae76c473:
 translate Tchinese name_input_781e9ebb:
 
     # Ven "That’s our leader, Lord [name]."
-    Ven "他是我們的領袖，[name]殿下。"
+    Ven "他是我們的上司，[name]殿下。"
 
 # game/story/Prologue_Part_1.rpy:822
 translate Tchinese name_input_1af296d4:
@@ -1492,7 +1492,7 @@ translate Tchinese name_input_c8fd66e5:
 translate Tchinese name_input_92645c7a:
 
     # p shocked "Th-there's more?"
-    p shocked "還─還有？"
+    p shocked "還──還有？"
 
 # game/story/Prologue_Part_1.rpy:877
 translate Tchinese name_input_9003a963:
@@ -1853,7 +1853,7 @@ translate Tchinese strings:
 
     # game/story/Prologue_Part_1.rpy:413
     old "Amare is the self proclaimed genius of the Underworld. Paw's dad created him, which makes him the third general to be created by the Demon Lords past. The dude's mad about tech and machinery. He's always looking into how things work and how he can upgrade his own inventions. Although, he can go overboard sometimes and when he does go off the deep end, he commits to it. Once, I asked him to recreate this console I saw on earth but he made it into a flying drone that blasted lasers every time I pressed a button. . . I just wanted to play Wowzer's Odyssey."
-    new "Amare自詡為冥界的天才. 他是老爸的爸爸創造的，也就是第三個將軍。這人超沉迷科技跟機械的。他想知道事物的運作方式，然後再運用在他自己的發明上。不過，有時候他是有點超過，而且還會越陷越深。曾經有一次，我請他幫我仿造一個我在地面上看過的遊戲機，但他做出來的卻是每次我按下按鈕都會發射出雷射激光的無人機……我就只是想玩Wowzer's Odyssey而已啊。"
+    new "Amare自詡爲冥界的天才，他是老爸的爸爸創造的，也就是第三個將軍。\n這人超沉迷科技跟機械的，他想知道事物的運作方式，然後再運用在他自己的發明上。\n不過，有時候他是有點超過，而且還會越陷越深。\n曾經有一次，我請他幫我仿造一個我在地面上看過的游戲機，但他做出來的東西是每次我按下按鈕都會發射出雷射激光的無人機……我就只是想玩Wowzer's Odyssey而已啊。"
 
     # game/story/Prologue_Part_1.rpy:503
     old "Demons{#journal}"
@@ -1861,7 +1861,7 @@ translate Tchinese strings:
 
     # game/story/Prologue_Part_1.rpy:503
     old "There's a word for those of us who live and work in the Underworld, demons. It took great-great grandpa thousands of years of PR to get the people from earth to have the word stick in their own mortal lexicon. I heard they ran nightmare ads among famous philosophers and poets back then. I've seen some of those old ads. It's usually a demon in a bowtie going, “Sinners beware, stay off the path of righteous living, and you'll win a free trip to the Underworld with your personal torture demon to torment you for the unfathomable eternity of non-existence itself!“ which was then followed up with a free tour that may or may not mentally scar the fragile mortal."
-    new "有個詞被用來描述我們這些在冥界生活工作的存在「惡魔」。曾曾祖父靠著上千年的人際交流，才讓這個專有名詞流傳在地表上的人界。我聽説他們以前會散播惡夢廣告給著名的哲學家或詩人。我看過一些，通常會有個打著領帶的惡魔告訴他們：「聽好了罪人們，只要你走在邪門歪道上，就能免費獲取通往冥界的旅行資格，包辦你個人的折磨惡魔，給予你永劫不復的苦痛！」然後附贈一趟免費但可能會讓脆弱的凡人留下心理創傷的體驗之旅。"
+    new "有個詞被用來描述我們這些在冥界生活工作的存在「惡魔」。\n曾曾祖父靠著上千年的人際交流，才讓這個專有名詞流傳在地表上的人界。\n我聽説他們以前會散播惡夢廣告給著名的哲學家或詩人。\n我看過一些，通常會有個打著領帶的惡魔告訴他們：\n「聽好了罪人們，只要你走在邪門歪道上，就能免費獲取通往冥界的旅行資格，包辦你個人的折磨惡魔，給予你永劫不復的苦痛！」\n然後附贈一趟免費但可能會讓脆弱的凡人留下心理創傷的體驗之旅。"
 
     # game/story/Prologue_Part_1.rpy:554
     old "Fortis{#journal}"
@@ -1869,7 +1869,7 @@ translate Tchinese strings:
 
     # game/story/Prologue_Part_1.rpy:554
     old "Fortis and I are close, like, he's a demon I can have a drink with anytime. Great grandpa created him and his brothers to help guard the Underworld from any soul dumb enough to attempt escaping. Despite his single head, he's actually a cerberus demon. Anyone who dares to point that out would be punched into next week. His greatest passions are working out, getting others to workout, and his brothers. Heck, sometimes I've been so unlucky to have been roped along into his cruel training regiment. Ugh, it's already exercise just from evading him during his workout highs."
-    new "Fortis跟我很親近，是我隨時都能一起喝一杯的惡魔。曾祖父創造了他和他的兄弟們來防止任何愚蠢的靈魂逃離冥界。雖然只有一顆頭，但他是條三頭犬。够種在他面前提到這個的，會被他揍得生活不能自理一星期。他最熱衷的就是健身，讓其他人，還有他的兄弟們也健身。唉，有時候我也會不幸被拉去陪他做那些殘酷的訓練。嗚啊，光是要在他健身到忘我時躲著他，本身就是一種體能訓練了。"
+    new "Fortis跟我很親近，是我隨時都能一起喝一杯的惡魔。\n曾祖父創造了他和他的兄弟們來防止任何愚蠢的靈魂逃離冥界。\n雖然只有一顆頭，但他是條三頭犬。\n帶種在他面前提到這個的，會被他揍得生活不能自理一星期。\n他最熱衷的就是健身，讓其他人，還有他的兄弟們也健身。\n唉，有時候我也會不幸被拉去陪他做那些殘酷的訓練。\n嗚啊，光是要在他健身到忘我時躲著他，本身就是一種體能訓練了。"
 
     # game/story/Prologue_Part_1.rpy:712
     old "Nox{#journal}"
@@ -1877,7 +1877,7 @@ translate Tchinese strings:
 
     # game/story/Prologue_Part_1.rpy:712
     old "Nox, another name for the night. He was the last general to be created; Paw made him. Yet, I never saw them close with each other. Maybe it has to do with how he's often asking questions that don't really have any answer to them. The other generals don't seem to be interested in his questions, guess that's why he bothers me with them most of the time. At least he's pretty dependable and skilled... a little too skilled, I just can't beat the guy in any 2P matches. "
-    new "Nox，夜晚的别稱。他是最後一位被創造出來的將軍：由我老爸，可是我從來没見他們兩個有多親近。即便跟我在一起的時候，他也總是保持一定的距離感。他很少提到自己，我只知道他一直在找機會放松。他的神秘感跟他在格鬥游戲中的水平不相上下，我從來就没在雙人對戰中贏過他。"
+    new "Nox，夜晚的别稱。\n他是最後一位被創造出來的將軍：由我老爸，可是我從來没見他們兩個有多親近。\n即便跟我在一起的時候，他也總是保持一定的距離感。\n他很少提到自己，我只知道他一直在找機會放松。\n他的神秘感跟他在格鬥游戲中的水平不相上下，我從來就没在雙人對戰中贏過他。"
 
 # TODO: Translation updated at 2022-03-07 15:28
 

@@ -72,7 +72,7 @@ translate Tchinese strings:
 
     # game/script.rpy:60
     old "Staff{#speakingName}"
-    new "工作人員{#speakingName}"
+    new "Staff{#speakingName}"
 
     # game/script.rpy:114
     old "This visual novel may contain mature/suggestive themes,\nby proceeding forward you agree that you are of appropriate age from your \nrespective country to be exposed to these types of materials."

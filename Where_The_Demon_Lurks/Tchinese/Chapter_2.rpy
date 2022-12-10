@@ -3400,7 +3400,7 @@ translate Tchinese lucian_route_start_0626e6d5:
 translate Tchinese lucian_route_start_100ca7db:
 
     # p "One of them came, and now I think King’s trapped in the Underworld."
-    p "他們中的一員發現了我們，我想King已經被關進冥界了。"
+    p "他們之中的一員發現了我們，我想King已經被關進冥界了。"
 
 # game/story/chapter_2.rpy:2003
 translate Tchinese lucian_route_start_9ebfa007:
@@ -4536,7 +4536,7 @@ translate Tchinese toast_route_start_2c4e1f8b:
 translate Tchinese toast_route_start_ff0c2625:
 
     # T "I just got here! This stupid town is so confusing. Luckily I used my brain muscle to remember this place."
-    T "我剛到！這個小鎮的路太迷了，幸虧我的腦筋好使。"
+    T "我剛到！這個小鎮的路太亂了，幸虧我的腦筋靈活。"
 
 # game/story/chapter_2.rpy:2491
 translate Tchinese toast_route_start_1fbdf84f:
@@ -4728,7 +4728,7 @@ translate Tchinese toast_route_start_ccca11a2:
 translate Tchinese toast_route_start_8cb99b28:
 
     # T neutral talk "Then you’ll have to believe me if I take you to him! Come on!"
-    T neutral talk "見到他以後，你就不信也得信了！快來！"
+    T neutral talk "見到他以後，你就算不信也得信了！快來！"
 
 # game/story/chapter_2.rpy:2562
 translate Tchinese toast_route_start_8f58de8b:
@@ -4812,7 +4812,7 @@ translate Tchinese toast_route_start_08860baf:
 translate Tchinese toast_route_start_acfa1333:
 
     # "Ding, dong, bing bong~!"
-    "叮咚，叮咚~！"
+    "叮咚，叮咚～！"
 
 # game/story/chapter_2.rpy:2602
 translate Tchinese toast_route_start_8bd1e211:
@@ -5196,7 +5196,7 @@ translate Tchinese toast_route_start_0a812c93:
 translate Tchinese toast_route_start_54f26931:
 
     # T "Guess I’ll keep watch then. I’ll keep you safe, underling."
-    T "那我就去放哨吧。我會保護你的，部下。"
+    T "那我就去放哨吧。我會保護你的，小弟。"
 
 # game/story/chapter_2.rpy:2856
 translate Tchinese toast_route_start_221c5235:
@@ -5274,7 +5274,7 @@ translate Tchinese strings:
 
     # game/story/chapter_2.rpy:2052
     old "Freelancer, it’s a code word referring to demons who make contracts with mortals. Fulfilling a mortal’s wish, in exchange for possessing their bodies for a set amount of time. Or so they say— most of the time, the mortal gets put in a situation where they regret taking part in the contract to begin with. Generally, low level demons aren’t allowed on Earth outside of company business... The Demon Lord can send out demons as Freelancers, but must fill the necessary documents in triplicate. Additionally, each demon who has been approved must sit through orientation on how to be a mortal. A real snooze fest, or so I hear. There’s even an hour-long talk on the importance of blinking. Although, I wonder how many thugs Vendrake sent in order to find me."
-    new "自業者，指的是與凡人簽訂契約的惡魔。他們會實現凡人的一個心願，並以此來交換身體的主導權，雖然聽他們說，大部分凡人都悔不當初。一般而言，除非執行公務，否則低級惡魔是不被允許出現在人界的。魔王可以以自業者的形式派遣惡魔，但必須簽署一式三份的必要文件。此外，每個被選中的惡魔都必須參加如何扮演凡人的培訓會，其中光是眨眼的重要性就要聽足足一個小時，真不愧是酣睡節呢，至少我是這樣聽說的。不過，我更想知道Vendrake派了多少惡棍來搜捕我。"
+    new "自業者，指的是與凡人簽訂契約的惡魔。\n他們會實現凡人的一個心願，以此來交换身體的主導權，雖然聽他們説，大部分凡人都悔不當初。\n一般而言，除非執行公務，否則低級惡魔是不被允許出現在人界的。\n魔王可以以自業者的形式派遣惡魔，但必須簽署一式三份的必要文件。\n此外，每個被選中的惡魔都必須參加如何扮演凡人的培訓會，其中光是眨眼的重要性就要聽足足一個小時，真不愧是酣睡節呢，\n至少我是這樣聽説的。不過，我更想知道Vendrake派了多少惡棍來搜捕我。"
 
 # TODO: Translation updated at 2022-12-08 00:08
 

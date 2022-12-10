@@ -340,7 +340,7 @@ translate Tchinese prologue_part_2_f2b26576:
 translate Tchinese prologue_part_2_4824f930:
 
     # Ven "This is a disgrace. Never in thousands of years have we ever lost souls like that. The souls literally walked back to their bodies and came back alive!"
-    Ven "何等恥辱。幾千年來，我們從未像這樣遺失過靈魂。逃之夭夭的靈魂回到了自己的身體，死而復生了！"
+    Ven "何等恥辱。幾千年來，我們從未像這樣遺失過靈魂。那些逃之夭夭的靈魂都回到了自己的身體，死而復生了！"
 
 # game/story/Prologue_Part_2.rpy:227
 translate Tchinese prologue_part_2_2f7af86b:
@@ -370,7 +370,7 @@ translate Tchinese prologue_part_2_f45458b8:
 translate Tchinese prologue_part_2_d4d22460:
 
     # Amar "Well, my Lord… the demons were interrogated. They said they believed it was okay to drink on the job because they saw…"
-    Amar "這，殿下…經過審問，當事惡魔聲稱在工作期間飲酒是正常行為，因為他們看到……"
+    Amar "這，殿下……經過審問，當事惡魔聲稱在工作期間飲酒是正常行為，因為他們看到……"
 
 # game/story/Prologue_Part_2.rpy:241
 translate Tchinese prologue_part_2_86638b5e:
@@ -706,7 +706,7 @@ translate Tchinese prologue_part_2_feefd790:
 translate Tchinese prologue_part_2_b875af24:
 
     # p "Fine."
-    p "行吧。"
+    p "好吧。"
 
 # game/story/Prologue_Part_2.rpy:514
 translate Tchinese prologue_part_2_df8462f9:
@@ -1204,7 +1204,7 @@ translate Tchinese prologue_part_2_1956faa8:
 translate Tchinese prologue_part_2_d4672632:
 
     # Fort "You’re you, and you’re going to have a hard time becoming Demon Lord, but you shouldn’t see yourself as a failure. You just need to keep trying and you’ll get it somehow."
-    Fort "沒有人一出生就是失敗者，哪怕不適合當魔王好不好，你就是你。只要不斷努力，你的夢想總有一天會實現的。"
+    Fort "沒有人一出生就是失敗者，哪怕魔王當得不夠好，你就是你。只要不斷努力，你的夢想總有一天會實現的。"
 
 # game/story/Prologue_Part_2.rpy:1007
 translate Tchinese prologue_part_2_9dfd8913:
@@ -1288,7 +1288,7 @@ translate Tchinese prologue_part_2_7c637ad7:
 translate Tchinese prologue_part_2_374ec17b:
 
     # "Vendrake is standing in front of your desk with his hands behind his back."
-    "Vendrake正站在你的書桌前，雙手背後。"
+    "Vendrake正站在你的書桌前，雙手交叉於背後。"
 
 # game/story/Prologue_Part_2.rpy:1085
 translate Tchinese prologue_part_2_bbff6caa:
@@ -1379,6 +1379,18 @@ translate Tchinese prologue_part_2_e601d514:
 
     # "Vendrake points the blue sphere at you and a bolt of lightning fires forth, the blast moving with such speed you have no time to move."
     "Vendrake用藍色寶珠指向你，一道電光射出，其速度之快令你無從閃避。"
+
+# game/story/Prologue_Part_2.rpy:1491
+translate Tchinese prologue_part_2_f7308450:
+
+    # "Vendrake tosses you into the air again,{nw}"
+    "Vendrake再度將你舉到半空中。{nw}"
+
+# game/story/Prologue_Part_2.rpy:1523
+translate Tchinese prologue_part_2_defa4fbf:
+
+    # extend " firing a blast of green energy at you."
+    extend "緊接著射出一發綠色能量球。"
 
 # game/story/Prologue_Part_2.rpy:1164
 translate Tchinese prologue_part_2_12c2c756:
@@ -1808,7 +1820,7 @@ translate Tchinese strings:
 
     # game/story/Prologue_Part_2.rpy:29
     old "Vendrake's like that grumpy uncle in the family that nags to everyone about how things were better back in the old days. Paw said that great-great-grandpa created Vendrake when the Underworld was first established. He's the first and oldest demon, not to mention the stuffiest. Every day it's '[name] file this report.' and '[name] put that tablet down and eat your dinner!' It's even worse when he barks at me about needing to give a lengthy speech for the opening of every new torture building. So infuriating."
-    new "Vendrake就像每個家庭總會出現一兩個那種成天貴古賤今的的老大叔。爸說曾曾祖父在冥界形成時創造了Vendrake。他是最初也是最老的惡魔，還是最古板的。每天都「[name]，寫好這份報告。」來、「[name]，把那塊板子放下好好吃飯！」去的。最糟的就是每次在有新折磨設施開張時，他都會吼著要我發表又臭又長的致詞。煩死了。"
+    new "Vendrake就像每個家庭總會出現一兩個那種成天貴古賤今的的老大叔。\n爸説曾曾祖父在冥界形成時創造了Vendrake。\n他是最初也是最老的惡魔，還是最古板的。\n每天都「[name]，寫好這份報告。」來、「[name]，把那塊板子放下好好吃飯！」去的。\n最糟的就是每次在有新折磨設施開張時，他都會吼著要我發表又臭又長的致詞。\n煩死了。"
 
     # game/story/Prologue_Part_2.rpy:169
     old "Underworld{#journal}"
@@ -1816,7 +1828,7 @@ translate Tchinese strings:
 
     # game/story/Prologue_Part_2.rpy:169
     old "The Underworld is the inverse of Up Above. I don't know how deep into the abyss this place goes but I tried dropping a coin out the window a few decades back when I was a kid and I haven't heard it land since. Each floor isn't the same, some are as small as a broom closet, some are huge enough to be able to accommodate entire cities within it, and some are literal office spaces. Though, most are office spaces. Paw taught me that the Underworld would expand according to the needs of the current ruling Demon Lord, but every time I try to have my own arcade room or my own private movie theater, Vendrake will inevitably show up and turn it into another freaking file room!"
-    new "冥界是天堂的相反存在。我是不知道這裡到底有多深，但我幾十年前還小的時候曾把一枚硬幣拋出窗外，至今都沒聽見它掉到地上的聲音。這裡每層不盡相同，有些就跟清潔用品間一樣小，有些則大到能裝下整座城市，還有的就完全是辦公用區。應該說，大部分都是辦公用區。老爸有跟我說過，冥界會依現任魔王的需求而擴展。但每當我心想要自己的遊戲廳或個人影院的時候，Vendrake都會跑來把它搞成新的一間文件室！"
+    new "冥界是天堂相反的存在。\n我是不知道冥界到底有多深，但我幾十年前還小的時候曾把一枚硬幣扔出窗外，至今都没聽見它掉到地上的聲音。\n這地方每層不盡相同，有些就跟清潔用品間一樣小，有些則大到能裝下整座城市，還有的就完全是辦公用區。應該説，大部分都是辦公用區。\n老爸有跟我説過，冥界會依現任魔王的需求而擴展。\n但每當我心想要自己的游戲廳或個人影院的時候，Vendrake都會跑來把它搞成新的一間文件室！"
 
     # game/story/Prologue_Part_2.rpy:437
     old "Demon Lord{#journal}"
@@ -1824,7 +1836,9 @@ translate Tchinese strings:
 
     # game/story/Prologue_Part_2.rpy:437
     old "Of all the jobs in the Underworld, being Demon Lord is the most boring of all. Ever since Paw revolutionized the system there's nothing to do but file paperwork, go to meetings, approve new torture techniques, go to meetings, announce that we have new office printers, go to more meetings, review every single demon's work performance, go to more fucking meetings about the next meeting. AHHHHHHHHHHH! WHY ARE THERE SO MANY FUCKING MEETINGS?!"
-    new "冥界那麽多的職業，就屬魔王最無聊。自從老爸改格體系後，就只剩下文書工作、開會、審核新的刑訊技術、開一堆會、發公告説辦公室有新印刷機、開更多會、考核每一個惡魔的績效、開更多他媽的關於下一場會議的會。{b}啊─────────！哪來這麼多會要開啊？！{/b}"# TODO: Translation updated at 2022-12-08 00:08
+    new "冥界那麽多的職業，就屬魔王最無聊。\n自從老爸改格體系後，就只剩下文書工作、開會、審核新的刑訊技術、開一堆會、發公告説辦公室有新印刷機、開更多會、考核每一個惡魔的績效、開更多他媽的關於下一場會議的會。\n{b}啊─────────！\n哪來這麽多會要開啊？！{/b}"
+
+# TODO: Translation updated at 2022-12-08 00:08
 
 # game/story/Prologue_Part_2.rpy:106
 translate Tchinese prologue_part_2_acb94b06:
@@ -1866,61 +1880,61 @@ translate Tchinese prologue_part_2_0a0254b0:
 translate Tchinese prologue_part_2_4c5a2d7b:
 
     # Amar talk "Last, but not least: Lord [name], Ruler of the Underworld and Judge of All Mortal Souls?"
-    Amar talk "Last, but not least: Lord [name], Ruler of the Underworld and Judge of All Mortal Souls?"
+    Amar talk "最後但同樣重要的，冥界的統治者與凡人靈魂的審判者，[name]殿下。"
 
 # game/story/Prologue_Part_2.rpy:163
 translate Tchinese prologue_part_2_872c5c2b:
 
     # p talk "Here."
-    p talk "Here."
+    p talk "在這。"
 
 # game/story/Prologue_Part_2.rpy:175
 translate Tchinese prologue_part_2_a71c1058:
 
     # "Amare lists the decisions made last time."
-    "Amare lists the decisions made last time."
+    "Amare回顧了之前的提案。"
 
 # game/story/Prologue_Part_2.rpy:177
 translate Tchinese prologue_part_2_c5dcac1b:
 
     # "The list included adding more lava to the lava pit so that souls attempting to cross them get burnt easier, Amare’s request for new tools for his workshop, and the rejection of Nox’s request for a torture massage chair."
-    "The list included adding more lava to the lava pit so that souls attempting to cross them get burnt easier, Amare’s request for new tools for his workshop, and the rejection of Nox’s request for a torture massage chair."
+    "提案包含了在熔岩坑中加入更多岩漿，以燒死試圖穿越那裡的靈魂，Amare要求為他的工坊增添新工具、以及被駁回了的Nox有關折磨按摩椅的提議。"
 
 # game/story/Prologue_Part_2.rpy:188
 translate Tchinese prologue_part_2_961f244e:
 
     # Fort @ laugh "{sc=3}{b}I DO!{/b}{/sc}"
-    Fort @ laugh "{sc=3}{b}I DO!{/b}{/sc}"
+    Fort @ laugh "{sc=3}{b}沒有！{/b}{/sc}"
 
 # game/story/Prologue_Part_2.rpy:217
 translate Tchinese prologue_part_2_f15cee84:
 
     # Fort @ pose4 "{sc=3}I MADE THOSE OUT-OF-SHAPE HALFWITS SQUAT UNTIL THEIR LEGS TURNED {para}TO ASHES!{/sc}"
-    Fort @ pose4 "{sc=3}I MADE THOSE OUT-OF-SHAPE HALFWITS SQUAT UNTIL THEIR LEGS TURNED {para}TO ASHES!{/sc}"
+    Fort @ pose4 "{sc=3}我已經罰那幾個不成器的蠢貨深蹲，直到他們的腿化為{para}粉末為止！{/sc}"
 
 # game/story/Prologue_Part_2.rpy:278
 translate Tchinese prologue_part_2_1b6b7bec:
 
     # Fort shocked "Boss, it’s not that you can’t go drinking. But it might be best to avoid doing so during working hours?"
-    Fort shocked "Boss, it’s not that you can’t go drinking. But it might be best to avoid doing so during working hours?"
+    Fort shocked "老大，不是禁止您喝酒，但最好別挑在工作時間喝？"
 
 # game/story/Prologue_Part_2.rpy:280
 translate Tchinese prologue_part_2_98431a91:
 
     # Fort confused "You set an example, whether you realise it or not."
-    Fort confused "You set an example, whether you realise it or not."
+    Fort confused "無論您有沒有自覺，您都在以身作則。"
 
 # game/story/Prologue_Part_2.rpy:319
 translate Tchinese prologue_part_2_0a0254b0_1:
 
     # Nox "..." (cb_no_talk=True)
-    Nox "..." (cb_no_talk=True)
+    Nox "……" (cb_no_talk=True)
 
 # game/story/Prologue_Part_2.rpy:346
 translate Tchinese prologue_part_2_d76c3c51:
 
     # p "Vendrake! " with vpunch
-    p "Vendrake! " with vpunch
+    p "Vendrake！" with vpunch
 
 # game/story/Prologue_Part_2.rpy:356
 translate Tchinese prologue_part_2_c8095401:
@@ -2000,8 +2014,17 @@ translate Tchinese prologue_part_2_6908a265:
     # Amar shocked "Nox? Why are you here?"
     Amar shocked "Nox？你怎麼也來了？"
 
-# game/story/Prologue_Part_2.rpy:1149
+# game/story/Prologue_Part_2.rpy:1131
 translate Tchinese prologue_part_2_4a225c22:
+
+    # "From behind his back {nw}"
+    "Vendrake把手伸向背後。{nw}"
+
+# game/story/Prologue_Part_2.rpy:1137
+translate Tchinese prologue_part_2_8d8c51ee:
+
+    # extend "he pulls a short scepter, its length made from solid gold. An enchanting blood-red ruby sits at the top, clenched within Vendrake’s demonic claws."
+    extend "抽出一把由純金打造而成的短杖，用手緊握著鑲嵌在其頂端的血色寶石。"
 
 # game/story/Prologue_Part_2.rpy:1164
 translate Tchinese prologue_part_2_60c5293f:

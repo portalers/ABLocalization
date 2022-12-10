@@ -232,7 +232,7 @@ translate Tchinese chapter_L2_4d857519:
 translate Tchinese chapter_L2_45b0e6e8:
 
     # "Defeated, you bury the jar underneath the beanbag topped with a pile of unwashed work clothes."
-    "尋找未果，你乾脆把罐子埋在懶人沙發和一堆沒洗的工作服下面。"
+    "尋找未果，你乾脆把罐子埋在懶骨頭和一堆沒洗的工作服下面。"
 
 # game/story/chapter_L2.rpy:144
 translate Tchinese chapter_L2_67053525:
@@ -256,7 +256,7 @@ translate Tchinese chapter_L2_60153fde:
 translate Tchinese chapter_L2_3980bb4d:
 
     # p "Oh, thanks, man. Sounds like an exhausting job."
-    p "哇，聽起來就很累人。謝了，伙伴。"
+    p "哇，聽起來就很累人。謝了，老兄。"
 
 # game/story/chapter_L2.rpy:152
 translate Tchinese chapter_L2_d29555dc:
@@ -820,7 +820,7 @@ translate Tchinese chapter_L2_817f0150:
 translate Tchinese chapter_L2_6ae24b07:
 
     # G "Go for Gary."
-    G "去找Gary。"
+    G "這裡是Gary。"
 
 # game/story/chapter_L2.rpy:490
 translate Tchinese chapter_L2_17ee1efa:
@@ -874,7 +874,7 @@ translate Tchinese chapter_L2_2da9e324:
 translate Tchinese chapter_L2_d910a88b:
 
     # G "Oh right! My bad, man, I’ve just been swamped with all these commissions to draw."
-    G "啊哈！抱歉了伙伴，我這有一大堆的委託，都快火燒眉毛了。"
+    G "啊哈！抱歉了，我這有一大堆的委託，都快火燒眉毛了。"
 
 # game/story/chapter_L2.rpy:508
 translate Tchinese chapter_L2_bbfea8b5:
@@ -1012,7 +1012,7 @@ translate Tchinese chapter_L2_7d2626b0:
 translate Tchinese chapter_L2_c2c984db:
 
     # L sad "It’s… an anomaly of a town, my Lord. There are ghosts and exorcists running about. Do we have any souls with information about this place? I’d like to be prepared."
-    L sad "這座小鎮……非同一般，大人，遍布著幽靈和驅魔師。我們有什麼相關訊息嗎？我想提前做好準備。"
+    L sad "這座小鎮……非同一般，大人，遍佈著幽靈和驅魔師。我們有什麼相關訊息嗎？我想提前做好準備。"
 
 # game/story/chapter_L2.rpy:554
 translate Tchinese chapter_L2_db8afe5d:
@@ -1234,7 +1234,7 @@ translate Tchinese chapter_L2_3d47f439:
 translate Tchinese chapter_L2_044514d9:
 
     # p "WHATEVER’S MAKING THAT NOISE, SHUT UP!"
-    p "{b}還讓不讓人睡覺了！/b}"
+    p "{b}還讓不讓人睡覺啊！{/b}"
 
 # game/story/chapter_L2.rpy:659
 translate Tchinese chapter_L2_64d45b0b:
@@ -1870,7 +1870,7 @@ translate Tchinese chapter_L2_4f832e52:
 translate Tchinese chapter_L2_582b7840:
 
     # "From the outside, the single-story cafe has a quaint rustic feel to it."
-    "從外觀上看，這家單層咖啡館給人以古樸的鄉村氣息。"
+    "從外觀上看，這家透天咖啡館給人以古樸的鄉村氣息。"
 
 # game/story/chapter_L2.rpy:1056
 translate Tchinese chapter_L2_6727b0a7:
@@ -2326,7 +2326,7 @@ translate Tchinese chapter_L2_8286f75a:
 translate Tchinese chapter_L2_585cdc9c:
 
     # L sad "[name], I need more than that. Have you been to other Red Zones?"
-    L sad "我們已知的太少了，[name]。你去過其他紅區嗎？"
+    L sad "我們了解的太少了，[name]。你去過其他紅區嗎？"
 
 # game/story/chapter_L2.rpy:1329
 translate Tchinese chapter_L2_53bfc7f2:
@@ -2452,7 +2452,7 @@ translate Tchinese chapter_L2_1543e4aa:
 translate Tchinese chapter_L2_7a06d68d:
 
     # "She also places two ramekins on the table, one of tartar sauce and the other mayonnaise."
-    "她還在桌上放了兩個小盤子，一個盛著塔塔醬，另一個則是美乃滋。"
+    "她還在桌上放了兩個小盤子，一個盛著塔塔醬，另一個則是美奶滋。"
 
 # game/story/chapter_L2.rpy:1380
 translate Tchinese chapter_L2_ed418a7e:
@@ -2802,7 +2802,7 @@ translate Tchinese strings:
 
     # game/story/chapter_L2.rpy:1055
     old "I usually come to the Six Fan cafe near the beginning of the month, cause that’s when I actually have enough money to spend eating out. The place used to be an empty shop front before some guy came over to rent it last year. If I recall correctly, it started out as a tour agency of some sort. The kind that takes you around the town on a supernatural trip, but it went bust after a few months. The owner of Six Fan is said to be related to the guy who ran that tour agency before. I wonder what happened to him?"
-    new "我常在月初來這家店吃飯，實際上是因為那時我口袋裡還有閒錢。在去年被人租下之前，這地方一直無人問津。如果我沒記錯的話，它最初是家旅行社來著，就是帶你體驗鎮上的超自然現象之類的，不過沒幾個月就倒閉了。聽說六扇門的老闆跟之前經營旅行社的人有親戚關係，不知道他現在怎麼樣了。"
+    new "我常在月初來這家店吃飯，實際上是因爲那時我口袋還有閑錢。\n在去年被人租下之前，這地方一直無人問津。\n如果我沒記錯的話，它最初是家旅行社來著，就是帶你體驗鎮上的超自然現象之類的，不過沒幾個月就倒閉了。聽説六扇門的店長跟之前經營旅行社的人是親戚，不知道他現在怎麽樣了。"
 
     # game/story/chapter_L2.rpy:1355
     old "Red Zones{#journal}"
@@ -2810,7 +2810,7 @@ translate Tchinese strings:
 
     # game/story/chapter_L2.rpy:1355
     old "I’ve been to two other Red Zones before I arrived in Kibbleton. I’ve got to be honest, I can’t really remember them in detail, with me running for my life and all. There was a city, it had this mega corporation that everyone was working for. Like the whole company had its hands in the city’s activities. The second place was nice, they all had this dragon god they all celebrated. It was a nice place, but it felt like I didn’t really belong there if I wasn’t a fan of their god. So far, minus the gang problem and the new cult in town, Kibbleton is pretty alright, but if what Lucian says is true..."
-    new "在到達基布爾頓之前，我曾經去過兩個紅區。不過說實話，我忙於奔命，哪有功夫記清楚它們的細節呢？總之第一座城市有一間所有人都為之工作的大公司，它就像是陰影，籠罩了城市的各個方面。第二個鄉鎮就好很多，人們會為龍神舉行慶典，可我總覺得自己不屬於那裡，畢竟我又不是龍神的粉絲。至於基布爾頓嘛，除去幫派問題和新興的邪教其實還不錯，但假如Lucian所言屬實……"
+    new "在到達基布爾頓之前，我曾經去過兩個紅區。\n不過説實話，我忙於奔命，哪有功夫記清楚它們的細節呢？\n總之第一座城市有一間所有人都爲其工作的大公司，它就像是陰影，籠罩了城市的各個方面。\n第二個鄉鎮就好很多，人們會爲龍神舉行慶典，可我總覺得自己不屬於那地方，畢竟我又不是龍神的粉絲。\n至於基布爾頓嘛，除去幫派問題和新興的邪教其實還不錯，但假如Lucian所言屬實……"
 
 # TODO: Translation updated at 2022-12-08 00:08
 
