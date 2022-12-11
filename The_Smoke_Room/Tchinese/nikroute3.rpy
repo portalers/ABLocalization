@@ -8914,7 +8914,7 @@ translate Tchinese sny1_7bbc129a:
 translate Tchinese sny1_df5c91e4:
 
     # co "\"Somebody's been careless with the packaging!\""
-    co "\"這些包裝被人亂動了！\""
+    co "\"包装的人也太不小心了！\""
 
 # game/nikroute3.rpy:2520
 translate Tchinese sny1_fec97169:
