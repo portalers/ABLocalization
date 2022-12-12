@@ -3828,35 +3828,34 @@ translate Schinese strings:
 translate Schinese chapter_T2_b874e796:
 
     # "Your head tenses at the conundrum presented to you. Without his friend, —even if his friend was a valid option in the first place— there’s no way now that Toast can help you."
-    "Your head tenses at the conundrum presented to you. Without his friend, —even if his friend was a valid option in the first place— there’s no way now that Toast can help you."
-
+    "你顿时感到头疼不已。先不论那位朋友是否是一个有效的选择，Toast现在已经帮不上你的忙了。"
 # game/story/chapter_T2.rpy:802
 translate Schinese chapter_T2_4c9271d9:
 
     # "Your eyes narrow."
-    "Your eyes narrow."
+    "你很有眼光嘛。"
 
 # game/story/chapter_T2.rpy:864
 translate Schinese chapter_T2_29ec888e:
 
     # "You ponder your answers as your eyes flick between the hyena and at the abandoned toast in front of you."
-    "You ponder your answers as your eyes flick between the hyena and at the abandoned toast in front of you."
+    "你一边思考答案，眼睛在鬣狗和被抛弃的吐司之间来回闪烁。"
 
 # game/story/chapter_T2.rpy:1486
 translate Schinese toast_call_a_room_fit_for_king_91f769be:
 
     # p "Yes, there’s a strange person putting up weird papers around my apartment—"
-    p "Yes, there’s a strange person putting up weird papers around my apartment—"
+    p "是的，有个怪人正在我家附近张贴奇怪的纸-"
 
 # game/story/chapter_T2.rpy:1528
 translate Schinese toast_call_a_room_fit_for_king_d4b18b9e:
 
     # T @ angry "What's he doing here?"
-    T @ angry "What's he doing here?"
+    T @ angry "这家伙怎么在这儿？"
 
 # game/story/chapter_T2.rpy:1881
 translate Schinese toast_call_a_room_fit_for_king_b70dfd98:
 
     # T "No, I hum a song. I sang it to P.B whenever he had trouble falling asleep."
-    T "No, I hum a song. I sang it to P.B whenever he had trouble falling asleep."
+    T "才不是呢，我会哼歌。每当P.B失眠，我都会唱给他听。"
 
