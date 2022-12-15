@@ -18458,7 +18458,7 @@ translate Tchinese sellcomp_7ebd0faa:
 translate Tchinese sellcomp_96dfca92:
 
     # m "\"You asked...\""
-    m "“是你問的…”"
+    m "“是你問的……”"
 
 # game/nikroute2.rpy:6045
 translate Tchinese sellcomp_86ab899c:

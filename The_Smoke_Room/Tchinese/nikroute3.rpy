@@ -202,7 +202,7 @@ translate Tchinese nikroute3_b18c3d3a:
 translate Tchinese nikroute3_7775bceb:
 
     # "Yao exhales and Nik rubs the back of his head, clawing through his scalp nervously."
-    "Yao呼了口氣，而Nik揉著他的後腦勺，不安地用爪撓著頭皮。"
+    "Yao呼了口氣，而Nik揉著他的後腦杓，不安地用爪撓著頭皮。"
 
 # game/nikroute3.rpy:70
 translate Tchinese nikroute3_35dd0143:
@@ -400,7 +400,7 @@ translate Tchinese nikroute3_fdcfd18e:
 translate Tchinese nikroute3_1f03bedf:
 
     # ya "\"If somebody knows we were going to be there tonight because they learned it from stalking you, then that might explain some things.\""
-    ya "\"如果有人因為跟蹤你而知道我們今晚會在那出現，事情就有解釋了。\""
+    ya "\"如果有人因為跟蹤你而知道我們今晚會在那出現，就能夠解釋這件事了。\""
 
 # game/nikroute3.rpy:118
 translate Tchinese nikroute3_490be5f4:
@@ -1162,7 +1162,7 @@ translate Tchinese nikroute3_b31c55f9:
 translate Tchinese nikroute3_bd9ab840:
 
     # ni "\"I think our superiors need to learn the consequences of their actions.\""
-    ni "\"領導們必須明白自己暴行的後果。\""
+    ni "\"那些上層必須明白自己暴行的後果。\""
 
 # game/nikroute3.rpy:342
 translate Tchinese nikroute3_b78733b3:
@@ -1192,7 +1192,7 @@ translate Tchinese nikroute3_3e8f1a1a:
 translate Tchinese nikroute3_534587b8:
 
     # pa "\"They’re already thinin’ us out.\""
-    pa "\"他們已經在削弱咱們了。\""
+    pa "\"他們已經在削弱我們了。\""
 
 # game/nikroute3.rpy:350
 translate Tchinese nikroute3_55b0a2d2:
@@ -1204,7 +1204,7 @@ translate Tchinese nikroute3_55b0a2d2:
 translate Tchinese nikroute3_240fd0eb:
 
     # pa "\"They end up sending the national guard for us and we’re finished.\""
-    pa "\"一但他們出動國民兵來這，咱們就完了。\""
+    pa "\"一但他們出動國民兵來這，我們就完了。\""
 
 # game/nikroute3.rpy:354
 translate Tchinese nikroute3_3cfacb18:
@@ -1456,7 +1456,7 @@ translate Tchinese nikroute3_17213c67:
 translate Tchinese nikroute3_3ce8e4e4:
 
     # pa "\"They’ve already been trying to kill us, Nik.\""
-    pa "\"他們早就想幹掉咱們了，Nik。\""
+    pa "\"他們早就想幹掉我們了，Nik。\""
 
 # game/nikroute3.rpy:435
 translate Tchinese nikroute3_98051065:
@@ -1558,13 +1558,13 @@ translate Tchinese nikroute3_f1eec6fb:
 translate Tchinese nikroute3_0419679e:
 
     # "My heart starts pounding when I look in the direction of the scent."
-    "我往氣味的方向看，心臟跳得老快。"
+    "我往氣味的方向看，心臟跳得飛快。"
 
 # game/nikroute3.rpy:463
 translate Tchinese nikroute3_dee49f4c:
 
     # "It’s just the sable."
-    "還好那隻黑貂而已。"
+    "只是那隻黑貂罷了。"
 
 # game/nikroute3.rpy:464
 translate Tchinese nikroute3_0de15d3a:
@@ -1666,7 +1666,7 @@ translate Tchinese nikroute3_2c083235:
 translate Tchinese nikroute3_40801670:
 
     # m "\"Suits me fine.\""
-    m "\"行。\""
+    m "\"好。\""
 
 # game/nikroute3.rpy:500
 translate Tchinese nikroute3_4a69bc5b:
@@ -1828,7 +1828,7 @@ translate Tchinese nikroute3_f04e95de:
 translate Tchinese nikroute3_571b5765:
 
     # m "\"I was exposed to it through no fault of my own.\""
-    m "\"我是被害得不小心攝入的。\""
+    m "\"我是不小心吸到別人呼出來的。\""
 
 # game/nikroute3.rpy:538
 translate Tchinese nikroute3_a97c81a1:
@@ -1840,7 +1840,7 @@ translate Tchinese nikroute3_a97c81a1:
 translate Tchinese nikroute3_a68859a0:
 
     # mu "\"Well, ah, I don’t actually care about any of that.\""
-    mu "\"其實嘛，其實這部分我無所謂的。\""
+    mu "\"其實嘛，這部分我無所謂的。\""
 
 # game/nikroute3.rpy:541
 translate Tchinese nikroute3_02784371:
@@ -2290,7 +2290,7 @@ translate Tchinese nikroute3_f12bde08:
 translate Tchinese nikroute3_30813e94:
 
     # ji "\"Am I right?\""
-    ji "\"對不對？\""
+    ji "\"對吧？\""
 
 # game/nikroute3.rpy:659
 translate Tchinese nikroute3_ca127b7a:
@@ -2944,19 +2944,19 @@ translate Tchinese nikroute3_e69813a6:
 translate Tchinese nikroute3_218c03ad:
 
     # ni "\"You earned yours. I should get my own.\""
-    ni "\"你掙了你的份，我的我自己掙。\""
+    ni "\"你賺了你的份，我的我自己賺。\""
 
 # game/nikroute3.rpy:832
 translate Tchinese nikroute3_e3aeef4c:
 
     # m "\"I don’t want you to go back underground.\""
-    m "\"我不想你再回去地下了。\""
+    m "\"我不想要再讓你回地下了。\""
 
 # game/nikroute3.rpy:833
 translate Tchinese nikroute3_46fba87a:
 
     # m "\"How could you after what you heard?\""
-    m "\"你難道忘了你聽到的\""
+    m "\"你難道忘了你聽到的？\""
 
 # game/nikroute3.rpy:834
 translate Tchinese nikroute3_585fbf23:
@@ -3112,7 +3112,7 @@ translate Tchinese nikroute3_5b364786:
 translate Tchinese nikroute3_c5e155e8:
 
     # m "\"I told you what happened the night that Jack drove a pickaxe into my skull.\""
-    m "\"Jack用鎬子砸我頭那晚的事，我是告訴過你。\""
+    m "\"我是告訴過你，Jack用鎬子砸我頭那晚的事。\""
 
 # game/nikroute3.rpy:865
 translate Tchinese nikroute3_8bc0508c:
@@ -3124,7 +3124,7 @@ translate Tchinese nikroute3_8bc0508c:
 translate Tchinese nikroute3_2d805dc8:
 
     # m "\"There was something in the room with me.\""
-    m "\"那空間裡除了我還有其他存在，\""
+    m "\"那空間裡除了我之外，還有其他東西在，\""
 
 # game/nikroute3.rpy:867
 translate Tchinese nikroute3_0aa53ad5:
@@ -3148,7 +3148,7 @@ translate Tchinese nikroute3_c1cd3b9f:
 translate Tchinese nikroute3_e3750933:
 
     # m "\"And the way I heard it move was like no thing I ever heard move.\""
-    m "\"我從沒聽過其他生物活動時發出那東西一樣的聲響。\""
+    m "\"我從沒聽過其他生物在活動時可以發出跟那東西一樣的聲響。\""
 
 # game/nikroute3.rpy:871
 translate Tchinese nikroute3_14c7807a:
@@ -3196,19 +3196,19 @@ translate Tchinese nikroute3_68cfd37b:
 translate Tchinese nikroute3_57612cf5:
 
     # m "\"I could have learned to forgive him, but I didn’t and I still don’t.\""
-    m "\"我可以選擇原諒他，但就連現在我都還沒。\""
+    m "\"我可以選擇原諒他，但就連現在我都沒這個念頭。\""
 
 # game/nikroute3.rpy:881
 translate Tchinese nikroute3_70e7a4ae:
 
     # m "\"So I thought whatever was coming for me knew it was my time to die.\""
-    m "\"所以我以為追著我的那東西要來宣告我的死期。\""
+    m "\"所以我以為追著我的那東西是要來宣告我的死期。\""
 
 # game/nikroute3.rpy:882
 translate Tchinese nikroute3_fb642b7f:
 
     # m "\"To drag me down to hell where I belong.\""
-    m "\"把我拖進我應該要下的地獄。\""
+    m "\"把我拖進那個我應該要下的地獄。\""
 
 # game/nikroute3.rpy:883
 translate Tchinese nikroute3_ab227e61:
@@ -3238,7 +3238,7 @@ translate Tchinese nikroute3_8a99518b:
 translate Tchinese nikroute3_48ea17fd:
 
     # m "\"If you saw it you gotta tell me.\""
-    m "\"有看見什麼的話就跟我講。\""
+    m "\"有看見什麼的話就跟我說。\""
 
 # game/nikroute3.rpy:890
 translate Tchinese nikroute3_2c2c40c5:
@@ -3280,7 +3280,7 @@ translate Tchinese nikroute3_7057f6a5:
 translate Tchinese nikroute3_6a4a6502:
 
     # ni "\"He tried to eat one of the glowing ones and he died.\""
-    ni "\"他吃了某種會發亮的，然後就死了。\""
+    ni "\"他吃了某種會發光的菇類，然後就死了。\""
 
 # game/nikroute3.rpy:898
 translate Tchinese nikroute3_81bbdcdc:
@@ -3292,7 +3292,7 @@ translate Tchinese nikroute3_81bbdcdc:
 translate Tchinese nikroute3_554a33de:
 
     # ni "\"It said that he glowed.\""
-    ni "\"還說他在發亮。\""
+    ni "\"還說他在發著光。\""
 
 # game/nikroute3.rpy:900
 translate Tchinese nikroute3_3816302b:
@@ -3412,7 +3412,7 @@ translate Tchinese nikroute3_c97c13cf:
 translate Tchinese nikroute3_3f375e33:
 
     # ni "\"All the while they still want you to be grateful that you’re here.\""
-    ni "\"他們還會要求你為能待在這感恩戴德。\""
+    ni "\"他們還會要求你為了能待在這裡，而要充滿感激。\""
 
 # game/nikroute3.rpy:926
 translate Tchinese nikroute3_ed6f4e0d:
@@ -3682,7 +3682,7 @@ translate Tchinese nikroute3_5f30ec25:
 translate Tchinese nikroute3_8948ef6b:
 
     # "Nick is scrubbing between his legs and the smell of wet badger and citrus is starting to fill the room."
-    "Nik正在擦他兩腿之間，濕了的貛味跟柑橘的氣味充斥整個房間。"
+    "Nik正在擦他兩腿之間，潮濕的貛味跟柑橘的氣味充斥整個房間。"
 
 # game/nikroute3.rpy:991
 translate Tchinese nikroute3_005203da:
@@ -3742,7 +3742,7 @@ translate Tchinese nikroute3_af7db179:
 translate Tchinese nikroute3_fdcfd18e_1:
 
     # m "\"Why?\""
-    m "\"幹嘛？\""
+    m "\"為什麼？\""
 
 # game/nikroute3.rpy:1008
 translate Tchinese nikroute3_63b14322:
@@ -3772,7 +3772,7 @@ translate Tchinese nikroute3_c8ae924a:
 translate Tchinese nikroute3_3cc361c7:
 
     # "Both of our buckets look pretty dark."
-    "我們兩桶水都黑了。"
+    "我們兩桶水都洗到黑了。"
 
 # game/nikroute3.rpy:1014
 translate Tchinese nikroute3_acc7291d:
@@ -3934,13 +3934,13 @@ translate Tchinese nikroute3_df151fcb:
 translate Tchinese nikroute3_90bdce67:
 
     # "His piece is trembling."
-    "他那根正顫抖著。"
+    "他的貛根正顫抖著。"
 
 # game/nikroute3.rpy:1051
 translate Tchinese nikroute3_4ac02e3d:
 
     # "A clear drop of pre beaded on his tip breaks away and splatters to the floor."
-    "一滴明液流出，落至地板。"
+    "一滴淫液流出，落至地板。"
 
 # game/nikroute3.rpy:1053
 translate Tchinese nikroute3_bb3f76c1:
@@ -3952,7 +3952,7 @@ translate Tchinese nikroute3_bb3f76c1:
 translate Tchinese sny2_8a2366e2:
 
     # ni "\"I see...\""
-    ni "\"這樣啊………\""
+    ni "\"我懂了………\""
 
 # game/nikroute3.rpy:1063
 translate Tchinese sny2_839f39d4:
@@ -4006,13 +4006,13 @@ translate Tchinese sny2_b876fedb:
 translate Tchinese sny2_932bf2e2:
 
     # "Then I take from the thrusts against my hand that he's still in a the mood for this."
-    "但從他挺入我的手中看來，他慾火仍未減退。"
+    "但從他挺入我的手中看來，他的慾火仍未減退。"
 
 # game/nikroute3.rpy:1080
 translate Tchinese sny2_b6f1a1a8:
 
     # m "\"I thought about that the first time you were my client and you swept me off of my feet.\""
-    m "\"你第一次光顧我的時候，我就想過要做那檔事，但你出乎我的意料，從情感上擄獲了我。\""
+    m "\"你第一次光顧我的時候，我就想過要這樣做了，但你出乎我的意料，從情感上擄獲了我。\""
 
 # game/nikroute3.rpy:1082
 translate Tchinese sny2_3363f0fb:
@@ -4126,7 +4126,7 @@ translate Tchinese sny2_2820c8e9:
 translate Tchinese sny2_3c4ed3b1:
 
     # m "\"Doctors sell them for constipation problems.\""
-    m "\"這是醫生賣給便秘問題用的。\""
+    m "\"這是醫生賣給有便秘問題的人用的。\""
 
 # game/nikroute3.rpy:1110
 translate Tchinese sny2_2dd7da24:
@@ -4138,7 +4138,7 @@ translate Tchinese sny2_2dd7da24:
 translate Tchinese sny2_016f1b40:
 
     # m "\"Not so glamorous but it gets the job done.\""
-    m "\"不怎麼雅觀但挺有用的。\""
+    m "\"不怎麼雅觀，但挺有用的。\""
 
 # game/nikroute3.rpy:1112
 translate Tchinese sny2_aca1041c:
@@ -4168,7 +4168,7 @@ translate Tchinese sny2_11eb8013:
 translate Tchinese sny2_5c4d138c:
 
     # m "\"It can pinch a bit.\""
-    m "\"是稍微有點刺激感。\""
+    m "\"是稍微有點刺激。\""
 
 # game/nikroute3.rpy:1118
 translate Tchinese sny2_8e06508d:
@@ -4270,7 +4270,7 @@ translate Tchinese sny2_e66b14d9:
 translate Tchinese sny2_db9cdbc6:
 
     # m "\"A great one.\""
-    m "\"很棒的。\""
+    m "\"很棒。\""
 
 # game/nikroute3.rpy:1143
 translate Tchinese sny2_4385815e:
@@ -4282,7 +4282,7 @@ translate Tchinese sny2_4385815e:
 translate Tchinese sny2_19a48d85:
 
     # "Let your middle finger sink in, slowly. Curl it toward the direction of my stomach once you’re deep."
-    "\"慢慢讓中指進去。夠深以後往我肚子的方向勾。\""
+    "\"慢慢讓中指進去。夠深以後再往我肚子的方向勾。\""
 
 # game/nikroute3.rpy:1145
 translate Tchinese sny2_e70cc4c3:
@@ -4324,19 +4324,19 @@ translate Tchinese sny2_17eaaef2:
 translate Tchinese sny2_83a43359:
 
     # "I look between my legs and I’m already leaking a massive string."
-    "我看向雙腿之間，早已流出一大道液體。"
+    "我看向雙腿之間，早已流出一大攤液體。"
 
 # game/nikroute3.rpy:1156
 translate Tchinese sny2_a545c82d:
 
     # "It’s like he’s wringing my damn body out and we haven’t even started yet."
-    "我們都還沒開始，他就快讓我去了。"
+    "我們都還沒開始，他就快讓我爽到升天了。"
 
 # game/nikroute3.rpy:1157
 translate Tchinese sny2_e0206d75:
 
     # m "\"Now put your tip against my hole and lean over me, like you’re about to do a push up.\""
-    m "\"現在把前端對準我的洞口，以伏地挺身的姿勢趴在我身上。\""
+    m "\"現在把你的肉棒前端對準我的後穴，以伏地挺身的姿勢趴在我身上。\""
 
 # game/nikroute3.rpy:1158
 translate Tchinese sny2_172fd86d:
@@ -4360,7 +4360,7 @@ translate Tchinese sny2_49d94e7e:
 translate Tchinese sny2_3316533e:
 
     # "He does, and it stings a bit."
-    "他照做，稍微刺痛到我。"
+    "他照做，這稍微刺痛到我。"
 
 # game/nikroute3.rpy:1163
 translate Tchinese sny2_9db48a11:
@@ -4432,13 +4432,13 @@ translate Tchinese sny2_be772f6d:
 translate Tchinese sny2_d685c2c8:
 
     # "He thrust in me again."
-    "他再度朝我挺進。"
+    "他再度朝我深入。"
 
 # game/nikroute3.rpy:1179
 translate Tchinese sny2_3344470f:
 
     # "It was slow, but it was clumsy."
-    "雖然不快，但挺笨拙。。"
+    "雖然不快，但挺笨拙。"
 
 # game/nikroute3.rpy:1180
 translate Tchinese sny2_1d3b8278:
@@ -4474,7 +4474,7 @@ translate Tchinese sny2_fd84a2c5:
 translate Tchinese sny2_1800d544:
 
     # m "\"Start thrusting.\""
-    m "\"可以抽插了。\""
+    m "\"可以開始動了。\""
 
 # game/nikroute3.rpy:1187
 translate Tchinese sny2_abbff9bc:
@@ -4486,13 +4486,13 @@ translate Tchinese sny2_abbff9bc:
 translate Tchinese sny2_2e59768d:
 
     # "His first few thrusts were insecure, but then they seated into something long, slow, and consistent."
-    "剛開始的幾下抽插很生硬，但漸漸轉為深長、緩慢、穩定的動作。"
+    "剛開始的幾下抽插做得很生硬，但漸漸轉為深長、緩慢、穩定的動作。"
 
 # game/nikroute3.rpy:1189
 translate Tchinese sny2_f2297ea4:
 
     # "They felt more deliberate."
-    "越來越熟練了。"
+    "越來越熟練。"
 
 # game/nikroute3.rpy:1191
 translate Tchinese sny2_6d6031ac:
@@ -4504,7 +4504,7 @@ translate Tchinese sny2_6d6031ac:
 translate Tchinese sny2_9ad80a86:
 
     # m "\"You’re the one with all the fat and the thick fur.\""
-    m "\"你才是脂肪多毛皮又後的那個吧。\""
+    m "\"你才是脂肪多毛皮又厚的那個吧。\""
 
 # game/nikroute3.rpy:1193
 translate Tchinese sny2_49664d57:
@@ -4522,7 +4522,7 @@ translate Tchinese sny2_764813cd:
 translate Tchinese sny2_720ba774:
 
     # "He tucks his arms under mine and pulls me tighter to him, stretching my spine a little."
-    "他雙手緊緊環抱住我，稍稍拉伸了我的被脊。"
+    "他雙手緊緊環抱住我，稍稍拉伸了我的背脊。"
 
 # game/nikroute3.rpy:1199
 translate Tchinese sny2_7c7d3643:
@@ -4546,7 +4546,7 @@ translate Tchinese sny2_02bf11d8:
 translate Tchinese sny2_c23cab92:
 
     # "He plunges in deep with a rough, savage thrust that makes my cock bounce."
-    "他用力深深挺入，讓我的屌彈了一下。"
+    "他用力深深挺入，讓我的肉棒抖動了一下。"
 
 # game/nikroute3.rpy:1203
 translate Tchinese sny2_7c89eeb8:
@@ -4570,7 +4570,7 @@ translate Tchinese sny2_ed692d0e:
 translate Tchinese sny2_452e140f:
 
     # "His chest rumbles, and he starts to rut."
-    "他胸腔一震，化為發情的猛獸。"
+    "他胸腔一震，化為發情的狂獸。"
 
 # game/nikroute3.rpy:1207
 translate Tchinese sny2_cc81e9a1:
@@ -4612,7 +4612,7 @@ translate Tchinese sny2_fc0bc510:
 translate Tchinese sny2_2787315d:
 
     # "He drags along my sensitive spot while I feel him pumping inside me and I feel myself start to spasm."
-    "他在灌入我體內時，一直擦過我的敏感點，讓我也開始痙孿。"
+    "他在把獾精灌入我體內時，一直擦過我的敏感點，讓我也開始痙孿。"
 
 # game/nikroute3.rpy:1216
 translate Tchinese sny2_84e80f49:
@@ -4624,7 +4624,7 @@ translate Tchinese sny2_84e80f49:
 translate Tchinese sny2_1a858717:
 
     # "My brow furrows and I’m overcome with elation as I feel myself start to shoot."
-    "我皺起眉頭，在快感淹沒下噴發。"
+    "我皺起眉頭，在情慾潮流的淹沒下噴發。"
 
 # game/nikroute3.rpy:1220
 translate Tchinese sny2_68667c52:
@@ -4696,7 +4696,7 @@ translate Tchinese sny2_7686386a:
 translate Tchinese sny2_34c5b77e:
 
     # "I squirm out from under him as slowly as I can, feeling his package rub against me as I do."
-    "我盡可能慢慢從他身下挪走，中途一直蹭到他那話兒。"
+    "我盡可能慢慢從他身下挪走，中途一直蹭到他的大凶器。"
 
 # game/nikroute3.rpy:1245
 translate Tchinese sny2_4e0315ac:
@@ -4840,7 +4840,7 @@ translate Tchinese sny2_65eaae40:
 translate Tchinese sny2_202264da:
 
     # "But I’m not going to stand around and listen."
-    "但我可不等他說完。"
+    "但我可等不了他把話說完。"
 
 # game/nikroute3.rpy:1279
 translate Tchinese sny2_d2f29bd2:
@@ -4858,7 +4858,7 @@ translate Tchinese sny2_adc5a7ec:
 translate Tchinese sny2_a48eb251:
 
     # "I loop around the balcony looking down to see Dora and a crowd of people surrounding her."
-    "我在露臺上繞著，看見樓下Dora夫人身邊為了一群人。"
+    "我在露臺上繞著，看見樓下Dora夫人身邊圍了一群人。"
 
 # game/nikroute3.rpy:1285
 translate Tchinese sny2_daf6db96:
@@ -4894,13 +4894,13 @@ translate Tchinese sny2_05d6c686:
 translate Tchinese sny2_ff8d61a5:
 
     # md "\"Well, if you were around a little more the past week you’d know it was my fault.\""
-    md "\"如果你這幾天來在這的時間多一點，就會知道這都是因為我了。\""
+    md "\"如果你這幾天來到這的時間再多一點，就會知道這都是因為我的緣故。\""
 
 # game/nikroute3.rpy:1296
 translate Tchinese sny2_ac94747a:
 
     # m "\"Huh?\""
-    m "\"蛤？\""
+    m "\"什麼？\""
 
 # game/nikroute3.rpy:1297
 translate Tchinese sny2_a340d8a8:
@@ -5206,7 +5206,7 @@ translate Tchinese sny2_52333f81:
 translate Tchinese sny2_3cc865b6:
 
     # m "\"I’ve been looking for somebody who might know a thing or two about things that impossible.\""
-    m "\"我一直在對不可思議的事有研究的人。\""
+    m "\"我一直在找對不可思議的事有研究的人。\""
 
 # game/nikroute3.rpy:1403
 translate Tchinese sny2_60c13183:
@@ -5644,7 +5644,7 @@ translate Tchinese sny2_773fa37e:
 translate Tchinese sny2_e52e9e62:
 
     # jam "\"Oh, and thank you once again for the performance, madam\""
-    jam "\"對了，再次謝謝你的演唱，夫人。\""
+    jam "\"對了，再次感謝你的演唱，夫人。\""
 
 # game/nikroute3.rpy:1568
 translate Tchinese sny2_4e22d41b:
@@ -5734,13 +5734,13 @@ translate Tchinese sny2_0cadb90e:
 translate Tchinese sny2_d5e82d59:
 
     # "As luck would have it, it’s fuckin’ roasting outside."
-    "天不我與，外頭熱死人了。"
+    "天不從人願，外頭熱死人了。"
 
 # game/nikroute3.rpy:1600
 translate Tchinese sny2_5ab9182c:
 
     # "I can already feel the sweat soak into my shirt."
-    "我上衣早就被汗水浸濕了。"
+    "我的上衣早就被汗水浸濕了。"
 
 # game/nikroute3.rpy:1602
 translate Tchinese sny2_9dba21a8:
@@ -5758,7 +5758,7 @@ translate Tchinese sny2_cf0912f9:
 translate Tchinese sny2_7f23e256:
 
     # ni "\"I just thought it was funny to watch him suffer.\""
-    ni "\"我只是覺得他痛苦的樣子很有趣。\""
+    ni "\"我只是覺得看他痛苦的樣子很有趣。\""
 
 # game/nikroute3.rpy:1607
 translate Tchinese sny2_a317d735:
@@ -5770,7 +5770,7 @@ translate Tchinese sny2_a317d735:
 translate Tchinese sny2_b84b4453:
 
     # m "\"What if any of your friends see us walking on up into James’ house?\""
-    m "\"要是你朋友看到我們去James家的行為怎麼辦？\""
+    m "\"要是你朋友看到我們去James家怎麼辦？\""
 
 # game/nikroute3.rpy:1609
 translate Tchinese sny2_b50f9ede:
@@ -5800,7 +5800,7 @@ translate Tchinese sny2_031a0f13:
 translate Tchinese sny2_9eb65357:
 
     # "It took a good twenty minute walk to get to the gate of their property."
-    "光是走到莊園大門前都花了足足二十分鐘。"
+    "光是走到莊園大門前就花了足足二十分鐘。"
 
 # game/nikroute3.rpy:1616
 translate Tchinese sny2_ce07b042:
@@ -6238,7 +6238,7 @@ translate Tchinese sny1_ce2c4353:
 translate Tchinese sny1_b63eb63e:
 
     # co "\"And this our home, not your business.\""
-    co "\"這裡是我們家，不是你公司。\""
+    co "\"這裡是我們家，又不是你的公司。\""
 
 # game/nikroute3.rpy:1765
 translate Tchinese sny1_07d1665c:
@@ -6370,7 +6370,7 @@ translate Tchinese sny1_3925b089:
 translate Tchinese sny1_f59bf851:
 
     # co "\"Would you believe that there are entire floors and rooms reserved for the servants that I’ve still never seen? \""
-    co "\"你敢相信嗎，這裡有一整個給傭人住的樓層，可我還連看都沒看過呢？\""
+    co "\"你敢信嗎，這裡有一整個給傭人住的樓層，可我還連看都沒看過呢？\""
 
 # game/nikroute3.rpy:1809
 translate Tchinese sny1_088807a1:
@@ -6982,7 +6982,7 @@ translate Tchinese sny1_3b7c317e:
 translate Tchinese sny1_d247b39e:
 
     # co "\"The first card I draw and you overturn represents something about your past.\""
-    co "\"我這就抽出第一張牌，由你翻開後將揭示你的過去。\""
+    co "\"我將抽出第一張牌，由你翻開後，這張卡將揭示你的過去。\""
 
 # game/nikroute3.rpy:1991
 translate Tchinese sny1_e6d22419:
@@ -7204,13 +7204,13 @@ translate Tchinese sny1_807017d0:
 translate Tchinese sny1_c594703f:
 
     # co "\"Or was in the process of ending, but delayed.\""
-    co "\"或者正步向結束，但被延誤了。\""
+    co "\"或者正邁向結束，但被延誤了。\""
 
 # game/nikroute3.rpy:2039
 translate Tchinese sny1_9f444f41:
 
     # co "\"I presume you haven't had an ongoing illness.\""
-    co "\"你想你沒有身患疾病吧。\""
+    co "\"我想你沒有身患疾病吧。\""
 
 # game/nikroute3.rpy:2040
 translate Tchinese sny1_3172dbbb:
@@ -7222,7 +7222,7 @@ translate Tchinese sny1_3172dbbb:
 translate Tchinese sny1_919835f1:
 
     # "I feel the back of my head."
-    "我集中感覺後腦杓。"
+    "我集中感覺著後腦杓。"
 
 # game/nikroute3.rpy:2042
 translate Tchinese sny1_3f9db048:
@@ -7720,7 +7720,7 @@ translate Tchinese sny1_39148ec7:
 translate Tchinese sny1_f8bca0e8:
 
     # co "\"Change through chaos, or violent destruction.\""
-    co "\"以混沌或者劇烈毀滅帶來改變。\""
+    co "\"以混沌或者劇烈毀滅所帶來的改變。\""
 
 # game/nikroute3.rpy:2158
 translate Tchinese sny1_b9351536:
@@ -7798,7 +7798,7 @@ translate Tchinese sny1_39148ec7_1:
 translate Tchinese sny1_f8bca0e8_1:
 
     # co "\"Change through chaos, or violent destruction.\""
-    co "\"以混沌或者劇烈毀滅帶來改變。\""
+    co "\"以混沌或者劇烈毀滅所帶來的改變。\""
 
 # game/nikroute3.rpy:2174
 translate Tchinese sny1_b9351536_1:
@@ -7978,7 +7978,7 @@ translate Tchinese sny1_c740a662:
 translate Tchinese sny1_d0384d56:
 
     # m "\"No?\""
-    m "\"沒啊？\""
+    m "\"沒？\""
 
 # game/nikroute3.rpy:2220
 translate Tchinese sny1_f39d8369:
@@ -8104,7 +8104,7 @@ translate Tchinese sny1_32b30c6b:
 translate Tchinese sny1_c849fb4c:
 
     # co "\"Could you put out four bowls and the yellow tub in the icebox on the table?\""
-    co "\"能請你拿四個碗跟冰櫃裡的黃桶子到桌上嗎？\""
+    co "\"能請你拿四個碗跟冰櫃裡的黃色桶子到桌上嗎？\""
 
 # game/nikroute3.rpy:2257
 translate Tchinese sny1_17a63d16:
@@ -8194,7 +8194,7 @@ translate Tchinese sny1_a9bcb275:
 translate Tchinese sny1_59698766:
 
     # m "\"Why’d it nearly kill me at first?\""
-    m "\"為什麼我剛開始差點掛了？\""
+    m "\"為什麼我覺得剛剛差點掛了？\""
 
 # game/nikroute3.rpy:2281
 translate Tchinese sny1_e070e47c:
@@ -8524,7 +8524,7 @@ translate Tchinese sny1_1f215b2f:
 translate Tchinese sny1_6696a7b8:
 
     # co "\"We haven’t bothered to replace it yet because we aren’t down here enough to be fussed with it\""
-    co "\"由於我們不常來這裡，也就沒趕著換掉了。\""
+    co "\"我們不常來這裡，也就沒急著換掉了。\""
 
 # game/nikroute3.rpy:2398
 translate Tchinese sny1_80be6b04:
@@ -8824,7 +8824,7 @@ translate Tchinese sny1_29dd3c13:
 translate Tchinese sny1_4e533a2e:
 
     # ni "\"In fact, it-\""
-    ni "\"甚至——\""
+    ni "\"甚至──\""
 
 # game/nikroute3.rpy:2482
 translate Tchinese sny1_70fe1b09:
@@ -8914,13 +8914,13 @@ translate Tchinese sny1_7bbc129a:
 translate Tchinese sny1_df5c91e4:
 
     # co "\"Somebody's been careless with the packaging!\""
-    co "\"包装的人也太不小心了！\""
+    co "\"這些包裝被人亂動了！\""
 
 # game/nikroute3.rpy:2520
 translate Tchinese sny1_fec97169:
 
     # "To be continued..."
-    "Nik跟我求婚了，好耶！"
+    "To be continued……"
 
 translate Tchinese strings:
 

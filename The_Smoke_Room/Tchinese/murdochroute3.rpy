@@ -1348,7 +1348,7 @@ translate Tchinese murdochroute3_b6e55e22:
 translate Tchinese murdochroute3_a20c56ed:
 
     # gr "\"I’m sorry our country failed you.\""
-    gr "\"對不起，咱們國家讓你失望了。\""
+    gr "\"對不起，我們國家讓你失望了。\""
 
 # game/murdochroute3.rpy:428
 translate Tchinese murdochroute3_5e313d3d:

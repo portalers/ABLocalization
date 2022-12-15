@@ -160,7 +160,7 @@ translate Tchinese aftercliffint2_15eb2ef2:
 translate Tchinese aftercliffint2_b5d1535f:
 
     # mu "\"Thankfully our patron should be coming along shortly.\""
-    mu "\"幸好咱們的贊助人不久就來了。\""
+    mu "\"幸好我們的贊助人不久就來了。\""
 
 # game/cliffroute3.rpy:1192
 translate Tchinese aftercliffint2_64546bde:

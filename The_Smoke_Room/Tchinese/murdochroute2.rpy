@@ -20554,7 +20554,7 @@ translate Tchinese muc0_509a443e:
 translate Tchinese muc0_55c4c45e:
 
     # mu "\"Back to the store for us, Sam.\""
-    mu "\"咱們回店裡去吧，Sam。\""
+    mu "\"我們回店裡去吧，Sam。\""
 
 # game/murdochroute2.rpy:5859
 translate Tchinese muc0_3be36b9f:
