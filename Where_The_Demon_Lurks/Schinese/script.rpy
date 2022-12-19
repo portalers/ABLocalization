@@ -76,7 +76,7 @@ translate Schinese strings:
 
     # game/script.rpy:114
     old "This visual novel may contain mature/suggestive themes,\nby proceeding forward you agree that you are of appropriate age from your \nrespective country to be exposed to these types of materials."
-    new "该视觉小说可能包含成人/性暗示元素，在进行阅读之前，请先确保您的年龄符合相关法律的规定。"
+    new "本视觉小说可能包含成人/性暗示元素，在阅读之前，请先确保您已达到所在国家允许阅读此类内容的法定年龄。"
 
 # TODO: Translation updated at 2022-12-08 00:20
 
@@ -112,11 +112,11 @@ translate Schinese strings:
 
     # game/script.rpy:70
     old "Freelancer{#speakingName}"
-    new "自业者{#speakingName}"
+    new "自由职业者{#speakingName}"
 
     # game/script.rpy:71
     old "Former Freelancer{#speakingName}"
-    new "前自业者{#speakingName}"
+    new "前自由职业者{#speakingName}"
 
     # game/script.rpy:72
     old "Eyeball{#speakingName}"
@@ -140,11 +140,11 @@ translate Schinese strings:
 
     # game/script.rpy:77
     old "Tall Woman{#speakingName}"
-    new "高个子的女人{#speakingName}"
+    new "高个子女人{#speakingName}"
 
     # game/script.rpy:78
     old "Short Man{#speakingName}"
-    new "矮个子的男人{#speakingName}"
+    new "矮个子男人{#speakingName}"
 
     # game/script.rpy:79
     old "Vendor{#speakingName}"
