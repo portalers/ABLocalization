@@ -80,7 +80,7 @@ translate Tchinese strings:
 
 # TODO: Translation updated at 2022-12-08 00:20
 
-translate Schinese strings:
+translate Tchinese strings:
 
     # game/script.rpy:52
     old "Gin{#speakingName}"
