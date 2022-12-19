@@ -1072,7 +1072,7 @@ translate Tchinese murdochroute2_f0754f50:
 translate Tchinese murdochroute2_9dbc59fc:
 
     # mu "\"But the photograph--\""
-    mu "“但是那張照片─”"
+    mu "“但是那張照片──”"
 
 # game/murdochroute2.rpy:267
 translate Tchinese murdochroute2_3440bd86:
@@ -1618,7 +1618,7 @@ translate Tchinese murdochroute2_8206e154:
 translate Tchinese murdochroute2_98fa8510:
 
     # "Murdoch's other sister, sporting an emerald plaid summer dress, glides toward us."
-    "Murdoch的另一個姐妹─穿著一件翡翠格紋的夏裝─朝我們無聲走了過來。"
+    "Murdoch的另一個姐妹──穿著一件翡翠格紋的夏裝──朝我們無聲走了過來。"
 
 # game/murdochroute2.rpy:449
 translate Tchinese murdochroute2_c31db000:
@@ -3178,19 +3178,19 @@ translate Tchinese murdochroute2_66c4228f:
 translate Tchinese murdochroute2_7032f55c:
 
     # no "\"A bloated body ...sustained in sloth.\""
-    no "“臃腫的身體...在懶惰中浮沉。”"
+    no "“臃腫的身體……在懶惰中浮沉。”"
 
 # game/murdochroute2.rpy:956
 translate Tchinese murdochroute2_cd682d7c:
 
     # no "\"...damnation reeks...clings...\""
-    no "“...詛咒的氣味...揮之不去...”"
+    no "“……詛咒的氣味……揮之不去……”"
 
 # game/murdochroute2.rpy:957
 translate Tchinese murdochroute2_ad65b13b:
 
     # no "\"... I will sprout in your dying skin.\""
-    no "“...我將在你垂死的皮膚上抽芽。”"
+    no "“……我將在你垂死的皮膚上抽芽。”"
 
 # game/murdochroute2.rpy:958
 translate Tchinese murdochroute2_d42762ac:
@@ -3208,13 +3208,13 @@ translate Tchinese murdochroute2_76fdfac9:
 translate Tchinese murdochroute2_bdb17727:
 
     # no "\"...with your bloated bellies...\""
-    no "“...脹著肚子...”"
+    no "“……脹著肚子……”"
 
 # game/murdochroute2.rpy:961
 translate Tchinese murdochroute2_7339fa46:
 
     # no "\"...dragging ...stuffed with my bounty.\""
-    no "“...拖走...塞滿我的賞賜。”"
+    no "“……拖走……塞滿我的賞賜。”"
 
 # game/murdochroute2.rpy:965
 translate Tchinese murdochroute2_be14164d:
@@ -3250,25 +3250,25 @@ translate Tchinese murdochroute2_f68cf17a:
 translate Tchinese murdochroute2_657bf833:
 
     # no "\"...kill him...\""
-    no "“...殺了他....”"
+    no "“……殺了他……”"
 
 # game/murdochroute2.rpy:972
 translate Tchinese murdochroute2_657bf833_1:
 
     # no "\"...kill him...\""
-    no "“...殺了他...”"
+    no "“……殺了他……”"
 
 # game/murdochroute2.rpy:973
 translate Tchinese murdochroute2_8974e906:
 
     # no "\"...save yourself and kill him...\""
-    no "“...殺人救己....”"
+    no "“……殺人救己……”"
 
 # game/murdochroute2.rpy:974
 translate Tchinese murdochroute2_d46fbbe0:
 
     # no "\"}...no sex, no food, no laughter in death... just sand... just clay... just oblivion and mud...\""
-    no "“}...没有性，没有食物，没有死亡的歡笑...只有沙子...只有黏土...只有遺忘與泥濘。”"
+    no "“}……没有性，没有食物，没有死亡的歡笑……只有沙子……只有黏土……只有遺忘與泥濘。”"
 
 # game/murdochroute2.rpy:975
 translate Tchinese murdochroute2_b1f0478d:
@@ -3280,25 +3280,25 @@ translate Tchinese murdochroute2_b1f0478d:
 translate Tchinese murdochroute2_cc5b861c:
 
     # no "\"...every memory will unspool... every touch you feel will numb.\""
-    no "“...所有的記憶都將消失...你的每一次觸摸都將麻木。”"
+    no "“……所有的記憶都將消失……你的每一次觸摸都將麻木。”"
 
 # game/murdochroute2.rpy:977
 translate Tchinese murdochroute2_a3094fbe:
 
     # no "\"...how sad for you to die...\""
-    no "“...你的死亡多麽悲哀...”"
+    no "“……你的死亡多麽悲哀……”"
 
 # game/murdochroute2.rpy:978
 translate Tchinese murdochroute2_3398e4fa:
 
     # no "\"...how soon for you to die...\""
-    no "“...你的死亡何時到來...”"
+    no "“……你的死亡何時到來……”"
 
 # game/murdochroute2.rpy:979
 translate Tchinese murdochroute2_7e9c1639:
 
     # no "\"...humiliated harlot...\""
-    no "“...淫貨...”"
+    no "“……淫貨……”"
 
 # game/murdochroute2.rpy:980
 translate Tchinese murdochroute2_3ea2e0b8:
@@ -3334,7 +3334,7 @@ translate Tchinese murdochroute2_a8d53e93:
 translate Tchinese murdochroute2_82478683:
 
     # no "\"...kill the fox...\""
-    no "“...殺了那隻狐狸...”"
+    no "“……殺了那隻狐狸……”"
 
 # game/murdochroute2.rpy:988
 translate Tchinese murdochroute2_7aeef3a2:
@@ -3346,7 +3346,7 @@ translate Tchinese murdochroute2_7aeef3a2:
 translate Tchinese murdochroute2_1a9d8109:
 
     # no "\"...il...the...ox...\""
-    no "“...殺...那...狸...”"
+    no "“……殺……那……狸……”"
 
 # game/murdochroute2.rpy:990
 translate Tchinese murdochroute2_23138e39:
@@ -3400,13 +3400,13 @@ translate Tchinese murdochroute2_6a0bdefd:
 translate Tchinese murdochroute2_77f3e141:
 
     # mu "\"...please stop crying.\""
-    mu "“...請不要哭了。”"
+    mu "“……請不要哭了。”"
 
 # game/murdochroute2.rpy:1002
 translate Tchinese murdochroute2_97c0218f:
 
     # mu "\"...I promise it's okay.\""
-    mu "“...我保證沒事的。”"
+    mu "“……我保證沒事的。”"
 
 # game/murdochroute2.rpy:1004
 translate Tchinese murdochroute2_7c04a447:
@@ -3418,7 +3418,7 @@ translate Tchinese murdochroute2_7c04a447:
 translate Tchinese murdochroute2_f1107157:
 
     # "I open my eyes to see if he is crying too... or if he looks scared... or disgusted..."
-    "我睜開眼，去看他是否也在哭泣...或是恐懼...或是厭惡..."
+    "我睜開眼，去看他是否也在哭泣……或是恐懼……或是厭惡……"
 
 # game/murdochroute2.rpy:1007
 translate Tchinese murdochroute2_fbe4b499:
@@ -3556,7 +3556,7 @@ translate Tchinese murdochroute2_f40faec4:
 translate Tchinese murdochroute2_31046ee4:
 
     # mu "\"So I know that... unique things happen here.\""
-    mu "“所以我知道...這裡有不同尋常的事情發生。”"
+    mu "“所以我知道……這裡有不同尋常的事情發生。”"
 
 # game/murdochroute2.rpy:1044
 translate Tchinese murdochroute2_7cc0e6a2:
@@ -3604,13 +3604,13 @@ translate Tchinese murdochroute2_f7aa92e0:
 translate Tchinese murdochroute2_010c83d7:
 
     # mu "\"And in a town where people are constantly being touched, and remade... slowly...\""
-    mu "“鎮子上的人們被觸及，重塑...緩慢地...”"
+    mu "“鎮子上的人們被觸及，重塑……緩慢地……”"
 
 # game/murdochroute2.rpy:1060
 translate Tchinese murdochroute2_46812749:
 
     # mu "\"A case of the bad humors sounds a lot less threatening to say...\""
-    mu "“一個差勁的幽默聽起來沒那麼陰鬱...”"
+    mu "“一個差勁的幽默聽起來沒那麼陰鬱……”"
 
 # game/murdochroute2.rpy:1062
 translate Tchinese murdochroute2_1b5b756f:
@@ -3688,7 +3688,7 @@ translate Tchinese murdochroute2_8981ad97:
 translate Tchinese murdochroute2_707a988d_1:
 
     # mu "\"Well...\""
-    mu "\"嗯...\""
+    mu "\"嗯……\""
 
 # game/murdochroute2.rpy:1082
 translate Tchinese murdochroute2_bcd8a28c:
@@ -3790,7 +3790,7 @@ translate Tchinese murdochroute2_2da8e2e4:
 translate Tchinese murdochroute2_5917d0bd:
 
     # "Maybe..."
-    "也許..."
+    "也許……"
 
 # game/murdochroute2.rpy:1106
 translate Tchinese murdochroute2_363e8476:
@@ -3940,7 +3940,7 @@ translate Tchinese murdochroute2_f125f7b1:
 translate Tchinese murdochroute2_03e04bb0:
 
     # mu "\"And considering what we both saw tonight... We know that my testimony won't always be accurate anyhow.\""
-    mu "\"而且就我們今晚看到的而言...我的證詞不絕對準確，你我都知道。\""
+    mu "\"而且就我們今晚看到的而言……我的證詞不絕對準確，你我都知道。\""
 
 # game/murdochroute2.rpy:1153
 translate Tchinese murdochroute2_fd7a1606:
@@ -3964,13 +3964,13 @@ translate Tchinese murdochroute2_8e16731b:
 translate Tchinese murdochroute2_965f14cd:
 
     # mu "\"I'm fairly certain that the core of the photo, what's contained in the pictures, doesn't change...\""
-    mu "\"我可以肯定地說，照片的核心，也就是圖片的內容是不會改變的...\""
+    mu "\"我可以肯定地說，照片的核心，也就是圖片的內容是不會改變的……\""
 
 # game/murdochroute2.rpy:1159
 translate Tchinese murdochroute2_a4bce533:
 
     # mu "\"... just the perception of the person who's looking.\""
-    mu "\"...不同的是觀看者的認識。\""
+    mu "\"……不同的是觀看者的認識。\""
 
 # game/murdochroute2.rpy:1161
 translate Tchinese murdochroute2_940b9b0f:
@@ -4714,7 +4714,7 @@ translate Tchinese murdochroute2_ae8231bd:
 translate Tchinese murdochroute2_defd4d37:
 
     # ra "\"Well...\""
-    ra "\"唔...\""
+    ra "\"唔……\""
 
 # game/murdochroute2.rpy:1373
 translate Tchinese murdochroute2_ba21d8ef:
@@ -4984,7 +4984,7 @@ translate Tchinese murdochroute2_a47dfee0:
 translate Tchinese murdochroute2_d0345d1a:
 
     # m "\"Regardless...\""
-    m "\"總之...\""
+    m "\"總之……\""
 
 # game/murdochroute2.rpy:1440
 translate Tchinese murdochroute2_4e8ac010:
@@ -4996,7 +4996,7 @@ translate Tchinese murdochroute2_4e8ac010:
 translate Tchinese murdochroute2_173b2dcc:
 
     # m "\"Samuel Ayers... Murdoch Byrnes...\""
-    m "\"Samuel Ayers...Murdoch Byrnes...\""
+    m "\"Samuel Ayers……Murdoch Byrnes……\""
 
 # game/murdochroute2.rpy:1443
 translate Tchinese murdochroute2_e1cd5249:
@@ -5008,7 +5008,7 @@ translate Tchinese murdochroute2_e1cd5249:
 translate Tchinese murdochroute2_688f7f91:
 
     # m "\"...and the pharmacy rat...\""
-    m "\"...還有藥房裡的老鼠....\""
+    m "\"……還有藥房裡的老鼠……\""
 
 # game/murdochroute2.rpy:1447
 translate Tchinese murdochroute2_50d4ff50:
@@ -5020,7 +5020,7 @@ translate Tchinese murdochroute2_50d4ff50:
 translate Tchinese murdochroute2_6f70ca52:
 
     # m "\"...went to lake Emma July 8th...\""
-    m "\"...在七月八日晚上八點半...\""
+    m "\"……在七月八日晚上八點半……\""
 
 # game/murdochroute2.rpy:1449
 translate Tchinese murdochroute2_b06e1674:
@@ -5032,7 +5032,7 @@ translate Tchinese murdochroute2_b06e1674:
 translate Tchinese murdochroute2_3953b9cf:
 
     # mu "\"Eight-fifty...\""
-    mu "\"是八點五十...\""
+    mu "\"是八點五十……\""
 
 # game/murdochroute2.rpy:1452
 translate Tchinese murdochroute2_13dd0b1b:
@@ -5224,13 +5224,13 @@ translate Tchinese murdochroute2_003f2ad9:
 translate Tchinese murdochroute2_a363dabf:
 
     # mu "\"So as I was saying...\""
-    mu "\"正如我所說...\""
+    mu "\"正如我所說……\""
 
 # game/murdochroute2.rpy:1505
 translate Tchinese murdochroute2_09690b89:
 
     # mu "\"... my grandmother certainly wasn't a Christian.\""
-    mu "\"...我的祖母當然不是基督徒，\""
+    mu "\"……我的祖母當然不是基督徒，\""
 
 # game/murdochroute2.rpy:1507
 translate Tchinese murdochroute2_207bdb05:
@@ -5542,7 +5542,7 @@ translate Tchinese murdochroute2_6627f17b:
 translate Tchinese murdochroute2_e9c47a3e:
 
     # mu "\"Except...\""
-    mu "\"只是...\""
+    mu "\"只是……\""
 
 # game/murdochroute2.rpy:1601
 translate Tchinese murdochroute2_6ee8029d:
@@ -5800,7 +5800,7 @@ translate Tchinese murdochroute2_905b8e72_1:
 translate Tchinese murdochroute2_3feb647e:
 
     # ra "\"Whatever works for you. Alcohol. Psilocybin. Cannabis.\""
-    ra "\"對自己有用就行。酒精、迷幻蘑菇、大麻...\""
+    ra "\"對自己有用就行。酒精、迷幻蘑菇、大麻……\""
 
 # game/murdochroute2.rpy:1671
 translate Tchinese murdochroute2_1e558d67:
@@ -5920,7 +5920,7 @@ translate Tchinese murdochroute2_ebb73dc7:
 translate Tchinese murdochroute2_596aae0c:
 
     # m "\"...\""
-    m "\"...\""
+    m "\"……\""
 
 # game/murdochroute2.rpy:1703
 translate Tchinese murdochroute2_16bb212b:
@@ -6352,13 +6352,13 @@ translate Tchinese murdochroute2_b13fd40e:
 translate Tchinese murdochroute2_fd7e81eb_1:
 
     # m "\"So...\""
-    m "\"那麼...\""
+    m "\"那麼……\""
 
 # game/murdochroute2.rpy:1823
 translate Tchinese murdochroute2_c95c7a51:
 
     # m "\"...is there some other reason the two of you stalk this location?\""
-    m "\"...你們兩個偷來這裡還有什麼原因？\""
+    m "\"……你們兩個偷來這裡還有什麼原因？\""
 
 # game/murdochroute2.rpy:1824
 translate Tchinese murdochroute2_203616a6:
@@ -6958,7 +6958,7 @@ translate Tchinese murdochroute2_6cf867c1:
 translate Tchinese murdochroute2_27a70459:
 
     # mu "\"If they're doing something harmful, we should probably interrupt--\""
-    mu "\"如果他在幹什麼勾當，我們應該制止─\""
+    mu "\"如果他在幹什麼勾當，我們應該制止──\""
 
 # game/murdochroute2.rpy:1969
 translate Tchinese murdochroute2_05610e57:
@@ -7006,13 +7006,13 @@ translate Tchinese murdochroute2_9e3a8df7:
 translate Tchinese murdochroute2_c469d2f8:
 
     # mu "\"No...\""
-    mu "\"不...\""
+    mu "\"不……\""
 
 # game/murdochroute2.rpy:1977
 translate Tchinese murdochroute2_d45f964b:
 
     # mu "\"That couldn't be a--\""
-    mu "\"不可能─\""
+    mu "\"不可能──\""
 
 # game/murdochroute2.rpy:1978
 translate Tchinese murdochroute2_3427be79:
@@ -7450,7 +7450,7 @@ translate Tchinese murdochroute2_4b1cfd5d:
 translate Tchinese murdochroute2_161a6ef3:
 
     # "...What did she mean by that?"
-    "...這話是什麼意思？"
+    "……這話是什麼意思？"
 
 # game/murdochroute2.rpy:2104
 translate Tchinese murdochroute2_de363db8:
@@ -7840,7 +7840,7 @@ translate Tchinese murdochroute2_0e46693e:
 translate Tchinese murdochroute2_7dd6b5fe:
 
     # mu "\"Sam...\""
-    mu "\"Sam...\""
+    mu "\"Sam……\""
 
 # game/murdochroute2.rpy:2206
 translate Tchinese murdochroute2_51e2c810:
@@ -7858,7 +7858,7 @@ translate Tchinese murdochroute2_c8802ce8:
 translate Tchinese murdochroute2_18357f5e:
 
     # m "\"...But since the two of you need to be in a better mood to take care of business so to speak.\""
-    m "\"不過既然你們二位需要更好的狀態來...這麼說吧，處理一下。\""
+    m "\"不過既然你們二位需要更好的狀態來……這麼說吧，處理一下。\""
 
 # game/murdochroute2.rpy:2209
 translate Tchinese murdochroute2_cdf064e8:
@@ -8062,7 +8062,7 @@ translate Tchinese murdochroute2_03d2a2fc:
 translate Tchinese murdochroute2_7dd6b5fe_1:
 
     # mu "\"Sam...\""
-    mu "\"Sam...\""
+    mu "\"Sam……\""
 
 # game/murdochroute2.rpy:2255
 translate Tchinese murdochroute2_952b57ee:
@@ -8314,7 +8314,7 @@ translate Tchinese murdochroute2_68f3021e:
 translate Tchinese murdochroute2_199bf9f2:
 
     # ra "\"Ah...\""
-    ra "\"啊...\""
+    ra "\"啊……\""
 
 # game/murdochroute2.rpy:2305
 translate Tchinese murdochroute2_0a5df974:
@@ -8470,7 +8470,7 @@ translate Tchinese murdochroute2_a66c57a3:
 translate Tchinese murdochroute2_681e0b80:
 
     # ra "\"...\""
-    ra "\"...\""
+    ra "\"……\""
 
 # game/murdochroute2.rpy:2331
 translate Tchinese murdochroute2_1d2e7d0d_1:
@@ -8896,7 +8896,7 @@ translate Tchinese murdochroute2_75e6d0f4:
 translate Tchinese murdochroute2_681e0b80_1:
 
     # ra "\"...\""
-    ra "\"...\""
+    ra "\"……\""
 
 # game/murdochroute2.rpy:2410
 translate Tchinese murdochroute2_7b298d5c:
@@ -8938,7 +8938,7 @@ translate Tchinese murdochroute2_71eec1c0:
 translate Tchinese murdochroute2_e7ccb796:
 
     # mu "\"...\""
-    mu "\"...\""
+    mu "\"……\""
 
 # game/murdochroute2.rpy:2418
 translate Tchinese murdochroute2_70913a11:
@@ -9016,7 +9016,7 @@ translate Tchinese murdochroute2_83352fcd:
 translate Tchinese murdochroute2_10309a58:
 
     # m "\"And you're not there because...?\""
-    m "\"那你沒有過去是因為...？\""
+    m "\"那你沒有過去是因為……？\""
 
 # game/murdochroute2.rpy:2439
 translate Tchinese murdochroute2_eb34cf97:
@@ -9418,25 +9418,25 @@ translate Tchinese murdochroute2_99dcd978:
 translate Tchinese murdochroute2_31bce3ee:
 
     # ra "\"But even if you planned on whoring forever...\""
-    ra "\"但要是你打算當一輩子妓女...\""
+    ra "\"但要是你打算當一輩子妓女……\""
 
 # game/murdochroute2.rpy:2544
 translate Tchinese murdochroute2_d723a7f4:
 
     # ra "\"...I hope you're bright enough to know that doing it here is a death wish.\""
-    ra "\"...希望你的腦子足夠好使，知道這不過是自尋死路。\""
+    ra "\"……希望你的腦子足夠好使，知道這不過是自尋死路。\""
 
 # game/murdochroute2.rpy:2546
 translate Tchinese murdochroute2_430a102d:
 
     # ra "\"So if the two of you end up depending on one another more than you think you should...\""
-    ra "\"所以，如果最後你們兩個人相互依賴的程度超過了自己的預期...\""
+    ra "\"所以，如果最後你們兩個人相互依賴的程度超過了自己的預期……\""
 
 # game/murdochroute2.rpy:2547
 translate Tchinese murdochroute2_6e7a33ac:
 
     # ra "\"...an escape plan would be shrewd.\""
-    ra "\"...計劃逃跑才是長遠之計。\""
+    ra "\"……計劃逃跑才是長遠之計。\""
 
 # game/murdochroute2.rpy:2548
 translate Tchinese murdochroute2_739a1f09:
@@ -9706,7 +9706,7 @@ translate Tchinese murdochroute2_abdbd8f7:
 translate Tchinese murdochroute2_de7b25f1:
 
     # m "\"Speakin' of which...\""
-    m "\"說到這裡...\""
+    m "\"說到這裡……\""
 
 # game/murdochroute2.rpy:2618
 translate Tchinese murdochroute2_519184f6:
@@ -9778,7 +9778,7 @@ translate Tchinese murdochroute2_ac504003:
 translate Tchinese murdochroute2_7ee278e6:
 
     # cy "\"I'd take you there but...\""
-    cy "\"我可以帶你過去，不過...\""
+    cy "\"我可以帶你過去，不過……\""
 
 # game/murdochroute2.rpy:2637
 translate Tchinese murdochroute2_37209350:
@@ -9868,13 +9868,13 @@ translate Tchinese murdochroute2_786af2ba:
 translate Tchinese murdochroute2_416431f4:
 
     # "Holly's there too..."
-    "Holly也在..."
+    "Holly也在……"
 
 # game/murdochroute2.rpy:2661
 translate Tchinese murdochroute2_5fe05e6c:
 
     # "...sitting next to her fiance, whose dick I drained just a few nights ago."
-    "...坐在她那位幾天前差點被我吸乾的未婚夫旁邊。"
+    "……坐在她那位幾天前差點被我吸乾的未婚夫旁邊。"
 
 # game/murdochroute2.rpy:2662
 translate Tchinese murdochroute2_8b7f158c:
@@ -10534,13 +10534,13 @@ translate Tchinese murdochroute2_7ed63e2c:
 translate Tchinese murdochroute2_49c56294:
 
     # "I have to admit..."
-    "我必須承認..."
+    "我必須承認……"
 
 # game/murdochroute2.rpy:2928
 translate Tchinese murdochroute2_a0829494:
 
     # "...I probably won't ever get an opportunity to see a telescope ever again if I pass this up."
-    "...要是錯過這個機會，我可能就再也無緣見到望遠鏡了。"
+    "……要是錯過這個機會，我可能就再也無緣見到望遠鏡了。"
 
 # game/murdochroute2.rpy:2929
 translate Tchinese murdochroute2_1c63da82:
@@ -10660,7 +10660,7 @@ translate Tchinese murdochroute2_ced0b97a:
 translate Tchinese murdochroute2_73527b50:
 
     # dh "\"Seems like it will be just the two of us after all, Mr...?\""
-    dh "\"看來只剩我們兩個人了，這位先生...？\""
+    dh "\"看來只剩我們兩個人了，這位先生……？\""
 
 # game/murdochroute2.rpy:2976
 translate Tchinese murdochroute2_927cb84e:
@@ -10702,7 +10702,7 @@ translate Tchinese murdochroute2_96a7ab42:
 translate Tchinese murdochroute2_9fe1728d:
 
     # m "\"...Sure thing.\""
-    m "\"...當然可以。\""
+    m "\"……當然可以。\""
 
 # game/murdochroute2.rpy:2989
 translate Tchinese murdochroute2_59b2bdb7:
@@ -10774,7 +10774,7 @@ translate Tchinese murdochroute2_4d14cc7e:
 translate Tchinese murdochroute2_5ceddce4:
 
     # m "\"...Sorry.\""
-    m "\"...不好意思。\""
+    m "\"……不好意思。\""
 
 # game/murdochroute2.rpy:3005
 translate Tchinese murdochroute2_4916e06b:
@@ -10960,13 +10960,13 @@ translate Tchinese murdochroute2_6aab303b:
 translate Tchinese murdochroute2_6d95cb23:
 
     # dh "\"A star chart maps every direction of the sky at once in a circular map...\""
-    dh "\"星圖是同時繪製了所有方位天空的圓形地圖...\""
+    dh "\"星圖是同時繪製了所有方位天空的圓形地圖……\""
 
 # game/murdochroute2.rpy:3059
 translate Tchinese murdochroute2_ab729fcf:
 
     # dh "\"...And you can turn it different directions to see which direction of the night sky you're staring at.\""
-    dh "\"...通過轉動它，你就可以得知自己正望著哪個方向的夜空。\""
+    dh "\"……通過轉動它，你就可以得知自己正望著哪個方向的夜空。\""
 
 # game/murdochroute2.rpy:3060
 translate Tchinese murdochroute2_b384eac6:
@@ -11014,7 +11014,7 @@ translate Tchinese murdochroute2_24e3b751:
 translate Tchinese murdochroute2_d4e2ee0c:
 
     # m "\"You know...\""
-    m "\"那什麼...\""
+    m "\"那什麼……\""
 
 # game/murdochroute2.rpy:3073
 translate Tchinese murdochroute2_0a8da3c0:
@@ -11032,13 +11032,13 @@ translate Tchinese murdochroute2_4accb293:
 translate Tchinese murdochroute2_ebc1750f:
 
     # dh "\"It's a place where you pay a lot of money to access equipment you can't normally afford...\""
-    dh "\"在那裡，你需要花大筆的錢來使用一般人根本買不起的設備...\""
+    dh "\"在那裡，你需要花大筆的錢來使用一般人根本買不起的設備……\""
 
 # game/murdochroute2.rpy:3077
 translate Tchinese murdochroute2_c076547e:
 
     # dh "\"...and where you do a lot of hard work, so other people can steal your credit.\""
-    dh "\"...還是一個辛苦得來的成果會被別人堂而皇之竊取的地方。\""
+    dh "\"……還是一個辛苦得來的成果會被別人堂而皇之竊取的地方。\""
 
 # game/murdochroute2.rpy:3078
 translate Tchinese murdochroute2_2d6ee573_3:
@@ -11206,7 +11206,7 @@ translate Tchinese murdochroute2_f34dbba4:
 translate Tchinese murdochroute2_f2647143:
 
     # "...Am I actually enjoying this?"
-    "...我真的很享受這些嗎？"
+    "……我真的很享受這些嗎？"
 
 # game/murdochroute2.rpy:3118
 translate Tchinese murdochroute2_6ee5e8b6:
@@ -11236,7 +11236,7 @@ translate Tchinese murdochroute2_74617209:
 translate Tchinese murdochroute2_c9e2017b:
 
     # m "\"...What does visual magnitude mean?\""
-    m "\"...目視星等是什麼？\""
+    m "\"……目視星等是什麼？\""
 
 # game/murdochroute2.rpy:3126
 translate Tchinese murdochroute2_f7086f75:
@@ -11248,7 +11248,7 @@ translate Tchinese murdochroute2_f7086f75:
 translate Tchinese murdochroute2_061b54fc:
 
     # dh "\"Sol is magnitude −26.74 and marked as rank 1, because it's the brightest.\""
-    dh "\"Sol的視星等為─26.74，被標記為一等，因為它是最明亮的。\""
+    dh "\"Sol的視星等為──26.74，被標記為一等，因為它是最明亮的。\""
 
 # game/murdochroute2.rpy:3130
 translate Tchinese murdochroute2_4f5494e3:
@@ -11332,13 +11332,13 @@ translate Tchinese murdochroute2_f01fe3ae:
 translate Tchinese murdochroute2_efccfaf5:
 
     # "I..."
-    "我..."
+    "我……"
 
 # game/murdochroute2.rpy:3152
 translate Tchinese murdochroute2_73a6318c:
 
     # "...really don't feel like doing this."
-    "...實在是不喜歡這些。"
+    "……實在是不喜歡這些。"
 
 # game/murdochroute2.rpy:3155
 translate Tchinese murdochroute2_06dcec7c:
@@ -11380,7 +11380,7 @@ translate Tchinese murdochroute2_8e51d810:
 translate Tchinese murdochroute2_eea4c47b:
 
     # bl "\"Sorry I'm early Miz Byrnes, but--\""
-    bl "\"不好意思，我來早了，Byrnes小姐，但是─\""
+    bl "\"不好意思，我來早了，Byrnes小姐，但是──\""
 
 # game/murdochroute2.rpy:3168
 translate Tchinese murdochroute2_98662624:
@@ -11584,7 +11584,7 @@ translate Tchinese murdochroute2_31754330:
 translate Tchinese murdochroute2_ce9658ad:
 
     # bl "\"Although...\""
-    bl "\"還有...\""
+    bl "\"還有……\""
 
 # game/murdochroute2.rpy:3228
 translate Tchinese murdochroute2_01a294f2:
@@ -11608,7 +11608,7 @@ translate Tchinese murdochroute2_e8304c8f:
 translate Tchinese murdochroute2_605c42d2:
 
     # "As if that’s ever stopped you wandering around before..."
-    "好像妳之前在乎過一樣..."
+    "好像妳之前在乎過一樣……"
 
 # game/murdochroute2.rpy:3235
 translate Tchinese murdochroute2_6a086732:
@@ -11854,7 +11854,7 @@ translate Tchinese murdochroute2_8426ff5a:
 translate Tchinese murdochroute2_193551f6:
 
     # m "\"...Huh?\""
-    m "\"...蛤？\""
+    m "\"……蛤？\""
 
 # game/murdochroute2.rpy:3304
 translate Tchinese murdochroute2_0b3a1aac:
@@ -11986,7 +11986,7 @@ translate Tchinese murdochroute2_3a09b209:
 translate Tchinese murdochroute2_077e6105:
 
     # bl "\"...you really don’t have a clue about anything people say, do you?\""
-    bl "\"...看來你是真對別人過說的話一無所知啊？\""
+    bl "\"……看來你是真對別人過說的話一無所知啊？\""
 
 # game/murdochroute2.rpy:3345
 translate Tchinese murdochroute2_9c9c0710:
@@ -12052,7 +12052,7 @@ translate Tchinese murdochroute2_496f535c:
 translate Tchinese murdochroute2_ff86b96c:
 
     # bl "\"Listen...\""
-    bl "\"聽著...\""
+    bl "\"聽著……\""
 
 # game/murdochroute2.rpy:3365
 translate Tchinese murdochroute2_d339238c:
@@ -12190,7 +12190,7 @@ translate Tchinese murdochroute2_d75492ef:
 translate Tchinese murdochroute2_281e3622:
 
     # "And if it is..."
-    "若果真如此..."
+    "若果真如此……"
 
 # game/murdochroute2.rpy:3403
 translate Tchinese murdochroute2_3a005fec:
@@ -12214,7 +12214,7 @@ translate Tchinese murdochroute2_011afb91:
 translate Tchinese murdochroute2_1dc344db:
 
     # m "\"...Where should I meet you, then?\""
-    m "\"...去哪找妳？\""
+    m "\"……去哪找妳？\""
 
 # game/murdochroute2.rpy:3407
 translate Tchinese murdochroute2_6ff25107:
@@ -12322,7 +12322,7 @@ translate Tchinese murdochroute2_5ab86e18:
 translate Tchinese murdochroute2_ed8b056e:
 
     # cy "\"...You’re gonna be able to make rent this month, won’t ya?\""
-    cy "\"...你應該付得起這個月的房租吧？\""
+    cy "\"……你應該付得起這個月的房租吧？\""
 
 # game/murdochroute2.rpy:3442
 translate Tchinese murdochroute2_05943df9:
@@ -12448,7 +12448,7 @@ translate Tchinese murdochroute2_8594c1c0:
 translate Tchinese murdochroute2_efc7a309:
 
     # no "\"...\""
-    no "\"...\""
+    no "\"……\""
 
 # game/murdochroute2.rpy:3476
 translate Tchinese murdochroute2_42ce3a2d:
@@ -12898,13 +12898,13 @@ translate Tchinese murdochroute2_6f53ac81:
 translate Tchinese murdochroute2_39556fa3:
 
     # "I really don’t know much about her other than she has a fiance..."
-    "我對她一點也不了解，只知道她有一位未婚夫..."
+    "我對她一點也不了解，只知道她有一位未婚夫……"
 
 # game/murdochroute2.rpy:3607
 translate Tchinese murdochroute2_cbf8714f:
 
     # "...And that he cums a lot."
-    "...射得很多。"
+    "……射得很多。"
 
 # game/murdochroute2.rpy:3609
 translate Tchinese murdochroute2_deb238ad:
@@ -12958,7 +12958,7 @@ translate Tchinese murdochroute2_7301f086:
 translate Tchinese murdochroute2_ec3e4d11:
 
     # m "\"...Can I help you, ma’am?\""
-    m "\"...有什麼能效勞的嗎，女士？\""
+    m "\"……有什麼能效勞的嗎，女士？\""
 
 # game/murdochroute2.rpy:3632
 translate Tchinese murdochroute2_49a2b0ca:
@@ -13240,7 +13240,7 @@ translate Tchinese murdochroute2_c7ffa99c:
 translate Tchinese murdochroute2_64c24d1b:
 
     # "...Where the hell is that damn girl, then?"
-    "...話說，那個死小妮子跑哪裡去了？"
+    "……話說，那個死小妮子跑哪裡去了？"
 
 # game/murdochroute2.rpy:3724
 translate Tchinese murdochroute2_71ad499c:
@@ -13456,7 +13456,7 @@ translate Tchinese murdochroute2_b67a71b9:
 translate Tchinese murdochroute2_69d26cae:
 
     # bl "\"At least... that’s what people tell me.\""
-    bl "\"至少...他們是這麼告訴我的。\""
+    bl "\"至少……他們是這麼告訴我的。\""
 
 # game/murdochroute2.rpy:3792
 translate Tchinese murdochroute2_386e5609:
@@ -13492,7 +13492,7 @@ translate Tchinese murdochroute2_44aecadf:
 translate Tchinese murdochroute2_3e4b7d7d:
 
     # "Whoever’s doing this..."
-    "不管是誰做的..."
+    "不管是誰做的……"
 
 # game/murdochroute2.rpy:3802
 translate Tchinese murdochroute2_7b4d9c9f:
@@ -13726,13 +13726,13 @@ translate Tchinese murdochroute2_aa4e9397:
 translate Tchinese murdochroute2_b7b2498e:
 
     # bl "\"Besides... you should take a look at the framing of the tunnels.\""
-    bl "\"再說...你應該看到那條隧道的框架了吧。\""
+    bl "\"再說……你應該看到那條隧道的框架了吧。\""
 
 # game/murdochroute2.rpy:3855
 translate Tchinese murdochroute2_93214926:
 
     # "...huh."
-    "...嗯。"
+    "……嗯。"
 
 # game/murdochroute2.rpy:3856
 translate Tchinese murdochroute2_bf1da6c0:
@@ -13774,7 +13774,7 @@ translate Tchinese murdochroute2_59eb8ff7:
 translate Tchinese murdochroute2_5f93068d:
 
     # bl "\"Nobody but me and Melissa...\""
-    bl "\"沒有，除了我和Melissa...\""
+    bl "\"沒有，除了我和Melissa……\""
 
 # game/murdochroute2.rpy:3863
 translate Tchinese murdochroute2_80b74cf4:
@@ -14398,7 +14398,7 @@ translate Tchinese murdochroute2_e2dd286a:
 translate Tchinese murdochroute2_e305903c:
 
     # m "\"Well there was subtraction and addition...\""
-    m "\"唔，有加減法...\""
+    m "\"唔，有加減法……\""
 
 # game/murdochroute2.rpy:3999
 translate Tchinese murdochroute2_befb963d:
@@ -14422,7 +14422,7 @@ translate Tchinese murdochroute2_67452316:
 translate Tchinese murdochroute2_7f4b75c7:
 
     # m "\"Well most folks learn about all the battles...\""
-    m "\"最著名的幾場戰役我還是學過的....\""
+    m "\"最著名的幾場戰役我還是學過的……\""
 
 # game/murdochroute2.rpy:4003
 translate Tchinese murdochroute2_2de0a1c9:
@@ -14452,7 +14452,7 @@ translate Tchinese murdochroute2_21c99e40:
 translate Tchinese murdochroute2_24f87434:
 
     # bl "\"...what?\""
-    bl "\"...你說什麼？\""
+    bl "\"……你說什麼？\""
 
 # game/murdochroute2.rpy:4008
 translate Tchinese murdochroute2_9e713d94:
@@ -14590,13 +14590,13 @@ translate Tchinese murdochroute2_e0b7261f:
 translate Tchinese murdochroute2_b1d5a649:
 
     # m "\"Maybe this stuff is all ordinary when you have so many teachers to answer your questions...\""
-    m "\"也許有那麼多老師來解答你的問題，對妳來說很普通...\""
+    m "\"也許有那麼多老師來解答你的問題，對妳來說很普通……\""
 
 # game/murdochroute2.rpy:4031
 translate Tchinese murdochroute2_d9661d60:
 
     # m "\"...and you can just run along down to one of those fancy candy stores poppin’ up downtown with some pocket money and get a whole box of taffy.\""
-    m "\"...妳也可以直接拿著零用錢，到鎮中心的高檔糖果店買上一整盒的太妃糖。\""
+    m "\"……妳也可以直接拿著零用錢，到鎮中心的高檔糖果店買上一整盒的太妃糖。\""
 
 # game/murdochroute2.rpy:4032
 translate Tchinese murdochroute2_18826d3a:
@@ -14626,19 +14626,19 @@ translate Tchinese murdochroute2_ee5e61b0:
 translate Tchinese murdochroute2_853c4fb8:
 
     # bl "\"I’d track down every rapist and bigot in this filthy community...\""
-    bl "\"我會追查這個骯髒社區裡的每一個強姦犯和偏執狂...\""
+    bl "\"我會追查這個骯髒社區裡的每一個強姦犯和偏執狂……\""
 
 # game/murdochroute2.rpy:4043
 translate Tchinese murdochroute2_8cd1501c:
 
     # bl "\"...overpower them...\""
-    bl "\"...制服他們...\""
+    bl "\"……制服他們……\""
 
 # game/murdochroute2.rpy:4045
 translate Tchinese murdochroute2_6469ff41:
 
-    # bl "\"...then find the biggest stick with rusted nails I could wrap my claws around, and fuck them bloody.\""
-    bl "\"...然後找一根我能握住的最粗的鏽狼牙棒，狠狠地操他們。\""
+    # bl "\"……then find the biggest stick with rusted nails I could wrap my claws around, and fuck them bloody.\""
+    bl "\"……然後找一根我能握住的最粗的鏽狼牙棒，狠狠地操他們。\""
 
 # game/murdochroute2.rpy:4047
 translate Tchinese murdochroute2_6452816b:
@@ -14830,7 +14830,7 @@ translate Tchinese murdochroute2_02be1ca3:
 translate Tchinese murdochroute2_14854625:
 
     # m "\"Listen, kid... I’ve got an engagement I gotta keep.\""
-    m "\"聽著，孩子...我得去赴約了。\""
+    m "\"聽著，孩子……我得去赴約了。\""
 
 # game/murdochroute2.rpy:4098
 translate Tchinese murdochroute2_3ae3128b:
@@ -14872,7 +14872,7 @@ translate Tchinese murdochroute2_783095f3:
 translate Tchinese murdochroute2_6d403c93:
 
     # "And... she's already gone."
-    "不過...她已經走遠了。"
+    "不過……她已經走遠了。"
 
 # game/murdochroute2.rpy:4109
 translate Tchinese murdochroute2_41d13c8b:
@@ -15124,7 +15124,7 @@ translate Tchinese murdochroute2_028aab38:
 translate Tchinese murdochroute2_4bfd99af:
 
     # m "\"...you’re welcome?\""
-    m "\"...不客氣？\""
+    m "\"……不客氣？\""
 
 # game/murdochroute2.rpy:4182
 translate Tchinese murdochroute2_31bacef0:
@@ -15142,13 +15142,13 @@ translate Tchinese murdochroute2_7c0b9965:
 translate Tchinese murdochroute2_12b09edf:
 
     # ho "\"Murdoch, why don’t you take...\""
-    ho "\"Murdoch，你不介意帶...\""
+    ho "\"Murdoch，你不介意帶……\""
 
 # game/murdochroute2.rpy:4188
 translate Tchinese murdochroute2_acf0f32a:
 
     # ho "\"...Mr. Ayers, was it?\""
-    ho "\"...Ayers先生來著？\""
+    ho "\"……Ayers先生來著？\""
 
 # game/murdochroute2.rpy:4190
 translate Tchinese murdochroute2_0ea4d33c:
@@ -15172,7 +15172,7 @@ translate Tchinese murdochroute2_ec2dd720:
 translate Tchinese murdochroute2_ba95ba1c:
 
     # m "\"...lead the way.\""
-    m "\"...麻煩帶路。\""
+    m "\"……麻煩帶路。\""
 
 # game/murdochroute2.rpy:4199
 translate Tchinese murdochroute2_80b4e47b:
@@ -15232,7 +15232,7 @@ translate Tchinese murdochroute2_9a0a3b7e:
 translate Tchinese murdochroute2_0623bcbe:
 
     # m "\"...oh.\""
-    m "\"...啊。\""
+    m "\"……啊。\""
 
 # game/murdochroute2.rpy:4211
 translate Tchinese murdochroute2_ff9cf546:
@@ -15454,7 +15454,7 @@ translate Tchinese murdochroute2_c3ce9be2:
 translate Tchinese murdochroute2_764acdbb:
 
     # mu "\"Perhaps both Sam and Jim would prefer to talk about something other than work--\""
-    mu "\"也許Sam和Jim喜歡討論工作以外的事情─\""
+    mu "\"也許Sam和Jim喜歡討論工作以外的事情──\""
 
 # game/murdochroute2.rpy:4291
 translate Tchinese murdochroute2_75767bde:
@@ -15640,7 +15640,7 @@ translate Tchinese murdochroute2_676a1465:
 translate Tchinese murdochroute2_008bc5c6:
 
     # "...that’s a brave thing to say in this house, in this room."
-    "...他還真敢說。在這間房子、這個房間裡──"
+    "……他還真敢說。在這間房子、這個房間裡──"
 
 # game/murdochroute2.rpy:4370
 translate Tchinese murdochroute2_176006f8:
@@ -16030,7 +16030,7 @@ translate Tchinese murdochroute2_9decf0fa:
 translate Tchinese murdochroute2_87d5b8c9:
 
     # "That’s... probably true, in some broad sense?"
-    "從廣義上講...倒也沒錯？"
+    "從廣義上講……倒也沒錯？"
 
 # game/murdochroute2.rpy:4520
 translate Tchinese murdochroute2_9fd8be50:
@@ -16144,7 +16144,7 @@ translate Tchinese murdochroute2_c3a1d958:
 translate Tchinese murdochroute2_0f725c5c:
 
     # gr "\"Well that’s delightful, dear...\""
-    gr "\"這真令人高興，親愛的...\""
+    gr "\"這真令人高興，親愛的……\""
 
 # game/murdochroute2.rpy:4573
 translate Tchinese murdochroute2_4174b864:
@@ -16282,7 +16282,7 @@ translate Tchinese murdochroute2_88313645:
 translate Tchinese murdochroute2_fcb00f9e:
 
     # "I thought this was a dinner party... not another job assignment."
-    "我還以為這只是一次家宴...誰承想又接到一份工作。"
+    "我還以為這只是一次家宴……誰承想又接到一份工作。"
 
 # game/murdochroute2.rpy:4625
 translate Tchinese murdochroute2_cb0c96af:
@@ -28568,3 +28568,148 @@ translate Tchinese strings:
     old "500?"
     new "500？"
 
+# TODO: Translation updated at 2022-06-12 19:30
+
+# game/murdochroute2.rpy:151
+translate Tchinese murdochroute2_cdfede9c:
+
+    # "Still, I need some directions..."
+    "不過，我需要一些指引……"
+
+# game/murdochroute2.rpy:153
+translate Tchinese murdochroute2_54a4b01e:
+
+    # meunk "\"Dead birds. Nothing good about it at all.\""
+    meunk "\"死鳥，真是不祥之兆。\""
+
+# game/murdochroute2.rpy:159
+translate Tchinese murdochroute2_e22e672d:
+
+    # "???" "\"Yeah, birds don't live for very long Melissa...\""
+    "？？？" "\"是啊，鳥是活不久的，Melissa……\""
+
+# game/murdochroute2.rpy:160
+translate Tchinese murdochroute2_5607a55f:
+
+    # me "\"Twenty of them? Just up and died?\""
+    me "\"二十隻耶？就這麼死了？\""
+
+# game/murdochroute2.rpy:166
+translate Tchinese murdochroute2_deda1168:
+
+    # me "\"And why not the work of providence?\""
+    me "\"那它們為什麼不能蒙主寵召？\""
+
+# game/murdochroute2.rpy:170
+translate Tchinese murdochroute2_4a36d371:
+
+    # me "\"Or bothered by all things great and small.\""
+    me "\"又或是忙於一切，不論偉大與渺小。\""
+
+# game/murdochroute2.rpy:171
+translate Tchinese murdochroute2_89837a80:
+
+    # me "\"Twenty small things to be exact.\""
+    me "\"確切來說，二十隻的渺小。\""
+
+# game/murdochroute2.rpy:175
+translate Tchinese murdochroute2_c007f1d4:
+
+    # me "\"Course I did.\""
+    me "\"當然了。\""
+
+# game/murdochroute2.rpy:179
+translate Tchinese murdochroute2_073b9ef6:
+
+    # me "\"Oh, I know you could Blithe, but this was different!\""
+    me "\"噢，我知道你可以Blithe，但這是不一樣的！\""
+
+# game/murdochroute2.rpy:180
+translate Tchinese murdochroute2_bed30221:
+
+    # me "\"I swear on the Bible.\""
+    me "\"我以聖經起誓。\""
+
+# game/murdochroute2.rpy:187
+translate Tchinese murdochroute2_ced8d856:
+
+    # me "\"Well...\""
+    me "\"話說……\""
+
+# game/murdochroute2.rpy:193
+translate Tchinese murdochroute2_609f3565:
+
+    # me "\"Some man is minding us.\""
+    me "\"有人在看我們。\""
+
+# game/murdochroute2.rpy:258
+translate Tchinese murdochroute2_72c92604:
+
+    # m "\"We both had one thing on our mind yesterday...\""
+    m "\"我們都有自己的心事……\""
+
+# game/murdochroute2.rpy:889
+translate Tchinese murdochroute2_64b8e645:
+
+    # mu "\"What I saw yesterday was a photograph I took in 1905.\""
+    mu "\"我昨天看到的，是我在1905年拍攝的一張照片。\""
+
+# game/murdochroute2.rpy:956
+translate Tchinese murdochroute2_cd682d7c:
+
+    # no "\"...damnation reeks...clings...\""
+    no "\"……詛咒的氣味……揮之不去……\""
+
+# game/murdochroute2.rpy:971
+translate Tchinese murdochroute2_657bf833:
+
+    # no "\"...kill him...\""
+    no "\"……殺了他……\""
+
+# game/murdochroute2.rpy:972
+translate Tchinese murdochroute2_657bf833_1:
+
+    # no "\"...kill him...\""
+    no "\"……殺了他……\""
+
+# game/murdochroute2.rpy:973
+translate Tchinese murdochroute2_8974e906:
+
+    # no "\"...save yourself and kill him...\""
+    no "\"……殺人救己……\""
+
+# game/murdochroute2.rpy:977
+translate Tchinese murdochroute2_a3094fbe:
+
+    # no "\"...how sad for you to die...\""
+    no "\"……你的死亡多麼悲哀……\""
+
+# game/murdochroute2.rpy:1417
+translate Tchinese murdochroute2_9ef0e929:
+
+    # m "\"And you want to take me there now?\""
+    m "\"所以你們現在要帶我去那裡？\""
+
+# game/murdochroute2.rpy:1445
+translate Tchinese murdochroute2_688f7f91:
+
+    # m "\"...and the pharmacy rat...\""
+    m "\"……還有藥房裡的老鼠……\""
+
+# game/murdochroute2.rpy:1451
+translate Tchinese murdochroute2_3953b9cf:
+
+    # mu "\"Eight-fifty...\""
+    mu "\"是八點五十……\""
+
+# game/murdochroute2.rpy:2265
+translate Tchinese murdochroute2_22a2bd62:
+
+    # m "\"Both you and Ralph admitted that you used to spy on me, day one...\""
+    m "\"你和Ralph從一開始就承認曾經覬覦我了……\""
+
+# game/murdochroute2.rpy:2617
+translate Tchinese murdochroute2_de7b25f1:
+
+    # m "\"Speakin' of which...\""
+    m "\"說到這裡……\""

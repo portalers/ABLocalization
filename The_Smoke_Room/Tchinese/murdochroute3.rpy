@@ -1438,5 +1438,5 @@ translate Tchinese murdochroute3_084c0f57:
 translate Tchinese murdochroute3_fec97169:
 
     # "To be continued..."
-    "To be continued..."
+    "未完待續……"
 

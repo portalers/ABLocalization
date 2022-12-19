@@ -1240,7 +1240,7 @@ translate Tchinese aftercliffint2_92e51e09:
 translate Tchinese aftercliffint2_bd02c515:
 
     # jeb "\"You are in an unfamiliar community in the middle of the woods, full of people who either cannot help you or cannot understand you.\""
-    jeb "\"你身處森林中的陌生群落，這裡人要不是沒法幫你要不根本沒法溝通。\""
+    jeb "\"你身處森林中的陌生群落，這裡的人要不是沒法幫你要不根本沒法溝通。\""
 
 # game/cliffroute3.rpy:1543
 translate Tchinese aftercliffint2_797ddb7b:
@@ -1486,7 +1486,7 @@ translate Tchinese aftercliffint2_d31589f1:
 translate Tchinese aftercliffint2_fb4e6b09:
 
     # cl "\"But so many things have gone wrong.\""
-    cl "\"我們遇到的麻煩還不少嗎。\""
+    cl "\"我們遇到的麻煩還不少嗎？\""
 
 # game/cliffroute3.rpy:1621
 translate Tchinese aftercliffint2_80d4fa3e:
@@ -1540,7 +1540,7 @@ translate Tchinese aftercliffint2_80461c61:
 translate Tchinese aftercliffint2_044b5a00:
 
     # mu "\"If your ideas about intoxicating gas are true, then we were already subjected to an altered experience before he started drinking.\""
-    mu "\"如果你致患氣體的猜想沒錯，那在他喝酒之前我們精神早就失常了。\""
+    mu "\"如果你對致患氣體的猜想沒錯，那在他喝酒之前我們精神早就失常了。\""
 
 # game/cliffroute3.rpy:1638
 translate Tchinese aftercliffint2_571a8ffc:
@@ -1924,7 +1924,7 @@ translate Tchinese aftercliffint2_149e13a1:
 translate Tchinese aftercliffint2_2eabb610:
 
     # "Men with guns leer at me from wooden outposts about six feet into the air."
-    "少說六呎高的木製哨塔上有持槍的人們盯著我看。"
+    "少說有六尺高的木製哨塔上有持槍的人們盯著我看。"
 
 # game/cliffroute3.rpy:1747
 translate Tchinese aftercliffint2_e4c22600:
@@ -2794,13 +2794,13 @@ translate Tchinese aftercliffint2_5dc7196f:
 translate Tchinese aftercliffint2_d4e2ee0c:
 
     # m "\"You know...\""
-    m "\"你知道吧……\""
+    m "\"你應該知道……\""
 
 # game/cliffroute3.rpy:2044
 translate Tchinese aftercliffint2_f2b9fa8d:
 
     # m "\"That little stoat fellah road all the way across the sea just to hear about stuff like this.\""
-    m "\"那個小鼬千里迢迢跨海而來就是想聽這種事。\""
+    m "\"那隻鼬仔千里迢迢跨海而來就是想聽這種事。\""
 
 # game/cliffroute3.rpy:2046
 translate Tchinese aftercliffint2_752e53c2:
@@ -3100,7 +3100,7 @@ translate Tchinese aftercliffint2_59fbd826:
 translate Tchinese aftercliffint2_4c504395:
 
     # ts "\"I don’t have any business there.\""
-    ts "\"我沒事要去那邊。\""
+    ts "\"我沒有什麼事需要去那邊。\""
 
 # game/cliffroute3.rpy:2152
 translate Tchinese aftercliffint2_567c7842:
@@ -3334,7 +3334,7 @@ translate Tchinese aftercliffint2_86c6bff9:
 translate Tchinese aftercliffint2_2b2964ba:
 
     # ts "\"This way.\""
-    ts "\"這邊走\""
+    ts "\"這邊走。\""
 
 # game/cliffroute3.rpy:2240
 translate Tchinese aftercliffint2_b649ef1a:
@@ -3796,7 +3796,7 @@ translate Tchinese aftercliffint2_07982627:
 translate Tchinese aftercliffint2_1237ed87:
 
     # m "\"Don’t touch it!\""
-    m "\"不要碰啦！\""
+    m "\"別碰那！\""
 
 # game/cliffroute3.rpy:2378
 translate Tchinese aftercliffint2_ddae4756:
@@ -4353,19 +4353,3 @@ translate Tchinese strings:
     # game/cliffroute3.rpy:240
     old "That this was a fun diversion. But the future holds many hoops."
     new "That this was a fun diversion. But the future holds many hoops."
-
-    # game/cliffroute3.rpy:843
-    old "Do you think a train transportation network would be helpful for the people in this settlement?"
-    new "Do you think a train transportation network would be helpful for the people in this settlement?"
-
-    # game/cliffroute3.rpy:843
-    old "There are plans to expand the Echo train station through the settlement."
-    new "There are plans to expand the Echo train station through the settlement."
-
-    # game/cliffroute3.rpy:1034
-    old "If more people with money came through the area, wouldn’t there be more supplies, and thus... more business?"
-    new "If more people with money came through the area, wouldn’t there be more supplies, and thus... more business?"
-
-    # game/cliffroute3.rpy:1034
-    old "Why is there only enough local business for one store?"
-    new "Why is there only enough local business for one store?"

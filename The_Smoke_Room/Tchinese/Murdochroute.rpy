@@ -16,7 +16,7 @@ translate Tchinese Murdochroute_6ba16c4a:
 translate Tchinese Murdochroute_06f9fb96:
 
     # mu "\"But if that’s the case, perhaps you shouldn’t? As you said... you’re hurting for funds.\""
-    mu "“但如果是這樣，你也許不該接受？如你所言...自己正為錢所困。”"
+    mu "“但如果是這樣，你也許不該接受？如你所言……自己正為錢所困。”"
 
 # game/Murdochroute.rpy:13
 translate Tchinese Murdochroute_c92a3008:
@@ -142,7 +142,7 @@ translate Tchinese Murdochroute_d8328643:
 translate Tchinese Murdochroute_52cfa452:
 
     # cl "\"Well...I do wish to ask you some things about the Meseta tribe...\""
-    cl "“好吧...我也確實想問你一些關於梅塞塔部落的事。”"
+    cl "“好吧……我也確實想問你一些關於梅塞塔部落的事。”"
 
 # game/Murdochroute.rpy:43
 translate Tchinese Murdochroute_fd34d9d9:
@@ -154,7 +154,7 @@ translate Tchinese Murdochroute_fd34d9d9:
 translate Tchinese Murdochroute_ab9fc4dc:
 
     # cy "\"We can talk about anything you like... but first, tell me more about Batavia...\""
-    cy "“你想談什麼都可以...不過首先，多跟我說說巴達維亞吧。”"
+    cy "“你想談什麼都可以……不過首先，多跟我說說巴達維亞吧。”"
 
 # game/Murdochroute.rpy:45
 translate Tchinese Murdochroute_cd654b31:
@@ -214,7 +214,7 @@ translate Tchinese Murdochroute_39973400:
 translate Tchinese Murdochroute_a9cdfb68:
 
     # "There’s an area in the corner for notes and all it says is... for impropriety."
-    "角落裡有片區域，上面只寫著...因不當行為。"
+    "角落裡有片區域，上面只寫著……因不當行為。"
 
 # game/Murdochroute.rpy:61
 translate Tchinese Murdochroute_3c8b20ee:
@@ -238,13 +238,13 @@ translate Tchinese Murdochroute_43983d3e:
 translate Tchinese Murdochroute_04101890:
 
     # "Not enough to live on for much longer after... but there’s no question in my mind that my luck will turn around if I can haul my ass out of this town."
-    "雖說不足以維持之後的生活...但是我堅信，如果搬出這座小鎮，自己一定能時來運轉。"
+    "雖說不足以維持之後的生活……但是我堅信，如果搬出這座小鎮，自己一定能時來運轉。"
 
 # game/Murdochroute.rpy:65
 translate Tchinese Murdochroute_44a5b6ee:
 
     # m "\"Just seems a bit stupid to leave a paper trail like this... but then again nothing you’ve done seems particularly bright.\""
-    m "“就這樣留下一張書面記錄，似乎有些欠考慮...不過，反正你從始至終好像沒有特別聰明的行為。”"
+    m "“就這樣留下一張書面記錄，似乎有些欠考慮……不過，反正你從始至終好像沒有特別聰明的行為。”"
 
 # game/Murdochroute.rpy:66
 translate Tchinese Murdochroute_59fd3f95:
@@ -418,7 +418,7 @@ translate Tchinese Murdochroute_12bd28ac:
 translate Tchinese Murdochroute_c95007f3:
 
     # m "\"...But I figure if we run out of time then I’m winning regardless.\""
-    m "“...但我想說時間過了的話還是算我贏。”"
+    m "“……但我想說時間過了的話還是算我贏。”"
 
 # game/Murdochroute.rpy:109
 translate Tchinese Murdochroute_045c5e4d:
@@ -448,19 +448,19 @@ translate Tchinese Murdochroute_e8a65233:
 translate Tchinese Murdochroute_b29aae65:
 
     # mu "\"Nothing I haven’t smelled before. I stop by that one’s office enough times in the week. I’d warn him, but I don’t exactly have that sort of...\""
-    mu "“也不是我第一次聞到了。我每週在他辦公室停留的時間夠久的了。我是想勸告他，不過我並沒有那種...”"
+    mu "“也不是我第一次聞到了。我每週在他辦公室停留的時間夠久的了。我是想勸告他，不過我並沒有那種……”"
 
 # game/Murdochroute.rpy:117
 translate Tchinese Murdochroute_05307f93:
 
     # "His eyes list over me."
-    "他望了過來..."
+    "他望了過來……"
 
 # game/Murdochroute.rpy:118
 translate Tchinese Murdochroute_7bd6240a:
 
     # mu "\"...well.\""
-    mu "“...嗯。”"
+    mu "“……嗯。”"
 
 # game/Murdochroute.rpy:119
 translate Tchinese Murdochroute_1bbefd17:
@@ -478,7 +478,7 @@ translate Tchinese Murdochroute_de1e7b93:
 translate Tchinese Murdochroute_9652ffc8:
 
     # mu "\"...Leverage, I suppose.\""
-    mu "“...影響力，我想。”"
+    mu "“……影響力，我想。”"
 
 # game/Murdochroute.rpy:122
 translate Tchinese Murdochroute_ddbf9772:
@@ -496,19 +496,19 @@ translate Tchinese Murdochroute_ffb8f36e:
 translate Tchinese Murdochroute_3b31bf95:
 
     # mu "\"That is to say... you still have a scent, of course, but there’s a particular trace to...\""
-    mu "“換句話說...你身上的當然是有氣味，但是那股特別的味道是從...”"
+    mu "“換句話說……你身上的當然是有氣味，但是那股特別的味道是從……”"
 
 # game/Murdochroute.rpy:128
 translate Tchinese Murdochroute_430cac38:
 
     # "The fox is blushing now..."
-    "狐狸臉紅了..."
+    "狐狸臉紅了……"
 
 # game/Murdochroute.rpy:129
 translate Tchinese Murdochroute_45bf61ad:
 
     # "...as if doesn’t wish to say seed..."
-    "...似乎他不想說精液這個詞..."
+    "……似乎他不想說精液這個詞……"
 
 # game/Murdochroute.rpy:131
 translate Tchinese Murdochroute_5068f70e:
@@ -748,7 +748,7 @@ translate Tchinese Murdochroute_20ea0091:
 translate Tchinese Murdochroute_8b4c2353:
 
     # m "\"Thought I saw a Tarantula...\""
-    m "“我以為看到了一隻狼蛛...”"
+    m "“我以為看到了一隻狼蛛……”"
 
 # game/Murdochroute.rpy:182
 translate Tchinese Murdochroute_04517014:
@@ -760,7 +760,7 @@ translate Tchinese Murdochroute_04517014:
 translate Tchinese Murdochroute_5144cfe5:
 
     # mu "\"Your scream is... awful...\""
-    mu "“你的尖叫很...可怕...”"
+    mu "“你的尖叫很……可怕……”"
 
 # game/Murdochroute.rpy:184
 translate Tchinese Murdochroute_94420940:
@@ -784,19 +784,19 @@ translate Tchinese Murdochroute_42e9796e:
 translate Tchinese Murdochroute_46599598:
 
     # "I wanted to yell that spiders don’t bother me..."
-    "我很想大吼不是因為蜘蛛的關係..."
+    "我很想大吼不是因為蜘蛛的關係……"
 
 # game/Murdochroute.rpy:189
 translate Tchinese Murdochroute_6877b693:
 
     # "...but they do when my hand looks like one!"
-    "...而是我的爪子看起來像一隻蜘蛛！"
+    "……而是我的爪子看起來像一隻蜘蛛！"
 
 # game/Murdochroute.rpy:190
 translate Tchinese Murdochroute_095ea9d7:
 
     # "What's wrong with me...?"
-    "我到底是怎麼了...？"
+    "我到底是怎麼了……？"
 
 # game/Murdochroute.rpy:191
 translate Tchinese Murdochroute_aae57f31:
@@ -814,7 +814,7 @@ translate Tchinese Murdochroute_cb85fc0d:
 translate Tchinese Murdochroute_776603b5:
 
     # mu "\"Anywhere with the right people can feel like home, you know...\""
-    mu "“和對的人在一起，任何地方都會有家的感覺，你知道...”"
+    mu "“和對的人在一起，任何地方都會有家的感覺，你知道……”"
 
 # game/Murdochroute.rpy:197
 translate Tchinese Murdochroute_87d8e76f:
@@ -850,13 +850,13 @@ translate Tchinese Murdochroute_14eafa96:
 translate Tchinese Murdochroute_3b9383db:
 
     # mu "\"Most folks around here don’t have a reliable way to take photos. It's pretty precious to me...\""
-    mu "“這裡大部分人沒有可靠的拍照方法，它對我來說十分珍貴...”"
+    mu "“這裡大部分人沒有可靠的拍照方法，它對我來說十分珍貴……”"
 
 # game/Murdochroute.rpy:204
 translate Tchinese Murdochroute_63260a41:
 
     # mu "\"...Plus, it ensures I'll have something people around here will always need.\""
-    mu "“...另外，它可以確保我擁有一些，這裡的人永遠會需要的東西。”"
+    mu "“……另外，它可以確保我擁有一些，這裡的人永遠會需要的東西。”"
 
 # game/Murdochroute.rpy:205
 translate Tchinese Murdochroute_0ffcc785:
@@ -904,7 +904,7 @@ translate Tchinese Murdochroute_3ae102d3:
 translate Tchinese Murdochroute_31997890:
 
     # "There’s some shine to his coat from the heat outside, but I smell aftershave and lemon more than fox... maybe even a bit of polish from the suspenders around his shoulders."
-    "外面的炎熱讓他的皮毛有些許光澤。不過比起狐狸味，我聞到更多的是鬚後水和檸檬...也許還有他肩帶上的一絲上光劑味。"
+    "外面的炎熱讓他的皮毛有些許光澤。不過比起狐狸味，我聞到更多的是鬚後水和檸檬……也許還有他肩帶上的一絲上光劑味。"
 
 # game/Murdochroute.rpy:216
 translate Tchinese Murdochroute_17f45567:
@@ -1012,13 +1012,13 @@ translate Tchinese Murdochroute_de5c5b3c:
 translate Tchinese Murdochroute_a1ea7dd0:
 
     # mu "\"The terms of my bet...\""
-    mu "“我賭注的條件...”"
+    mu "“我賭注的條件……”"
 
 # game/Murdochroute.rpy:243
 translate Tchinese Murdochroute_97e60f0f:
 
     # mu "\"...are that you’ll finish before me, Sam.\""
-    mu "“...是你會在我之前完事，Sam”"
+    mu "“……是你會在我之前完事，Sam”"
 
 # game/Murdochroute.rpy:245
 translate Tchinese Murdochroute_53a5c24d:
@@ -1132,7 +1132,7 @@ translate Tchinese Murdochroute_69f73be7:
 translate Tchinese Murdochroute_9558ee55:
 
     # "They drop from his waist, causing his cock, already hard, to bounce when his clothes hit the floor."
-    "褲子自他的腰間掉下，他─已經硬了─的老二因此跳動起來。"
+    "褲子自他的腰間掉下，他──已經硬了──的老二因此跳動起來。"
 
 # game/Murdochroute.rpy:270
 translate Tchinese Murdochroute_326a778b:
@@ -1186,7 +1186,7 @@ translate Tchinese Murdochroute_53b6b29a:
 translate Tchinese Murdochroute_1f12e908:
 
     # m "\"Jesus. I thought you were already entirely hard before...\""
-    m "“哎呀。我還以為你之前已經完全硬了...”"
+    m "“哎呀。我還以為你之前已經完全硬了……”"
 
 # game/Murdochroute.rpy:281
 translate Tchinese Murdochroute_d036d548:
@@ -1270,7 +1270,7 @@ translate Tchinese Murdochroute_36da5d8b:
 translate Tchinese Murdochroute_8d01696e:
 
     # m "\"Now how on...\""
-    m "“那現在...”"
+    m "“那現在……”"
 
 # game/Murdochroute.rpy:300
 translate Tchinese Murdochroute_8cade829:
@@ -1288,7 +1288,7 @@ translate Tchinese Murdochroute_12d495f8:
 translate Tchinese Murdochroute_b6e6c79e:
 
     # mu "\"So William’s that big? Shouldn’t surprise me I suppose. Though you’re a bit daunting... yourself...\""
-    mu "“所以William的那麼大？我想也沒必要驚訝，雖然你有些...退縮...”"
+    mu "“所以William的那麼大？我想也沒必要驚訝，雖然你有些……退縮……”"
 
 # game/Murdochroute.rpy:303
 translate Tchinese Murdochroute_a793cf55:
@@ -1444,7 +1444,7 @@ translate Tchinese Murdochroute_048913a9:
 translate Tchinese Murdochroute_11b4ec82:
 
     # "His back arches needfully, and I make sure to keep suckling until he’s panting, that I’m certain he’s whining."
-    "他的背弓得很厲害，我盡力保持著吮吸，直至他氣喘吁吁地抱怨起來─我很確定。"
+    "他的背弓得很厲害，我盡力保持著吮吸，直至他氣喘吁吁地抱怨起來──我很確定。"
 
 # game/Murdochroute.rpy:339
 translate Tchinese Murdochroute_57008db4:
@@ -1504,7 +1504,7 @@ translate Tchinese Murdochroute_0afadcd0:
 translate Tchinese Murdochroute_d281f73d:
 
     # mu "\"One... two... three.\""
-    mu "“一...二...三。”"
+    mu "“一……二……三。”"
 
 # game/Murdochroute.rpy:353
 translate Tchinese Murdochroute_0fb36a3d:
@@ -1540,7 +1540,7 @@ translate Tchinese Murdochroute_606664d2:
 translate Tchinese Murdochroute_32a256e5:
 
     # "As I fuck him... I can't shake one thing from my mind."
-    "在上他的時候...有一件事，我無法從腦海中擺脫。"
+    "在上他的時候……有一件事，我無法從腦海中擺脫。"
 
 # game/Murdochroute.rpy:359
 translate Tchinese Murdochroute_60c914dd:
@@ -1630,7 +1630,7 @@ translate Tchinese Murdochroute_3b271173:
 translate Tchinese Murdochroute_3a797c14:
 
     # "I feel sad, dumbfounded, stupid..."
-    "我感覺悲傷，茫然，愚蠢..."
+    "我感覺悲傷，茫然，愚蠢……"
 
 # game/Murdochroute.rpy:383
 translate Tchinese Murdochroute_7f3a70c8:
@@ -1642,13 +1642,13 @@ translate Tchinese Murdochroute_7f3a70c8:
 translate Tchinese Murdochroute_7c36d754:
 
     # "I don’t know if it’s the exertion of fucking, or the sudden rush of anxiety that’s causing my head to swim..."
-    "我不知道導致自己頭暈目眩的原因是做得太賣力了，還是突然奔湧而上的焦慮..."
+    "我不知道導致自己頭暈目眩的原因是做得太賣力了，還是突然奔湧而上的焦慮……"
 
 # game/Murdochroute.rpy:385
 translate Tchinese Murdochroute_aa3c6af2:
 
     # "...but I can’t do much else but look down at the bed I’ve made for myself, watch Murdoch’s dick throb and twitch as I pull out of him, then lower my head onto it."
-    "...但是我無能為力，只能低頭看著我為自己做的床，看著我從Murdoch身體中拔出來時他跳動的老二，然後低頭湊過去。"
+    "……但是我無能為力，只能低頭看著我為自己做的床，看著我從Murdoch身體中拔出來時他跳動的老二，然後低頭湊過去。"
 
 # game/Murdochroute.rpy:386
 translate Tchinese Murdochroute_d06abdde:
@@ -1714,13 +1714,13 @@ translate Tchinese Murdochroute_aa0038dd:
 translate Tchinese Murdochroute_1dedd44b:
 
     # "I think about pictures... remembering how the film has to be taken out in a special room, or else all of the pictures get ruined."
-    "我思索著照片的事...記得膠捲必須在一個特別的房間裡取出來，否則全部的照片都會毀掉。"
+    "我思索著照片的事……記得膠捲必須在一個特別的房間裡取出來，否則全部的照片都會毀掉。"
 
 # game/Murdochroute.rpy:400
 translate Tchinese Murdochroute_3a155649:
 
     # "Then I think what the fox said the other day-- that these pictures are probably useless."
-    "接著我想起了狐狸前些時候說過的話─這些照片可能派不上用場。"
+    "接著我想起了狐狸前些時候說過的話──這些照片可能派不上用場。"
 
 # game/Murdochroute.rpy:401
 translate Tchinese Murdochroute_e027fec0:
@@ -1786,7 +1786,7 @@ translate Tchinese Murdochroute_59a89643:
 translate Tchinese Murdochroute_2a6d71c4:
 
     # "I hope for a second that the film I just ruined weren’t too expensive... but then I remember that I owe this cock a week’s salary that I ain’t got, and I feel less bad."
-    "希望剛剛毀掉的膠片不會太貴...但接著我想起來，自己未來一週的薪水還欠著這個混蛋，心裡也沒那麼糟了。"
+    "希望剛剛毀掉的膠片不會太貴……但接著我想起來，自己未來一週的薪水還欠著這個混蛋，心裡也沒那麼糟了。"
 
 # game/Murdochroute.rpy:412
 translate Tchinese Murdochroute_4f5790b5:
@@ -1846,7 +1846,7 @@ translate Tchinese Murdochroute_5955ef02:
 translate Tchinese Murdochroute_9cd7723f:
 
     # mu "\"Good morning Sam. The riot’s gone... at least for now...\""
-    mu "“早安，Sam。騷亂已經過去了...至少現在是這樣...”"
+    mu "“早安，Sam。騷亂已經過去了……至少現在是這樣……”"
 
 # game/Murdochroute.rpy:429
 translate Tchinese Murdochroute_890b1615:
@@ -1870,7 +1870,7 @@ translate Tchinese Murdochroute_bd905db9:
 translate Tchinese Murdochroute_9b495e0a:
 
     # mu "\"For now, perhaps.... But, that reminds me...\""
-    mu "“目前為止，也許是...不過，這提醒了我...”"
+    mu "“目前為止，也許是……不過，這提醒了我……”"
 
 # game/Murdochroute.rpy:435
 translate Tchinese Murdochroute_7f621506:
@@ -1996,19 +1996,19 @@ translate Tchinese Murdochroute_80babad5:
 translate Tchinese Murdochroute_510574de:
 
     # "It hurts to get hard again this soon after a night like that..."
-    "經過了那樣的夜晚後，這麼快又硬起來還是有點疼..."
+    "經過了那樣的夜晚後，這麼快又硬起來還是有點疼……"
 
 # game/Murdochroute.rpy:465
 translate Tchinese Murdochroute_d017319c:
 
     # "And after waking up with morning wood..."
-    "還是帶著晨勃醒來後..."
+    "還是帶著晨勃醒來後……"
 
 # game/Murdochroute.rpy:466
 translate Tchinese Murdochroute_d13ad9b7:
 
     # "...but thankfully he doesn’t linger anywhere for too long."
-    "...謝天謝地，他沒有在哪個地方逗留過太久。"
+    "……謝天謝地，他沒有在哪個地方逗留過太久。"
 
 # game/Murdochroute.rpy:467
 translate Tchinese Murdochroute_97b30379:
@@ -2020,7 +2020,7 @@ translate Tchinese Murdochroute_97b30379:
 translate Tchinese Murdochroute_c812716e:
 
     # "The job is quick and thorough... a bit different from all of the slow and sloppy teasing he did last night."
-    "他的行動又快又細緻...與昨晚慢而慵懶的挑逗有些不同。"
+    "他的行動又快又細緻……與昨晚慢而慵懶的挑逗有些不同。"
 
 # game/Murdochroute.rpy:470
 translate Tchinese Murdochroute_69b8ec10:
@@ -2032,7 +2032,7 @@ translate Tchinese Murdochroute_69b8ec10:
 translate Tchinese Murdochroute_c9be637d:
 
     # m "\"Now hold on...\""
-    m "“等會...”"
+    m "“等會……”"
 
 # game/Murdochroute.rpy:472
 translate Tchinese Murdochroute_e9cbbded:
@@ -2110,7 +2110,7 @@ translate Tchinese Murdochroute_f0ab7d68:
 translate Tchinese Murdochroute_ab3c72b1:
 
     # m "\"...Fine.\""
-    m "“...好吧。”"
+    m "“……好吧。”"
 
 # game/Murdochroute.rpy:488
 translate Tchinese Murdochroute_bc6bb7b4:
@@ -2170,7 +2170,7 @@ translate Tchinese Murdochroute_84b70941:
 translate Tchinese Murdochroute_9ebb63c1:
 
     # mu "\"I’m more used to musicians... clerks... the occasional accountant. It’s nice to be with somebody who knows how to use all of their body.\""
-    mu "“我更習慣音樂家...職員...臨時會計。很高興和一個知道如何運用全身的人打交道。”"
+    mu "“我更習慣音樂家……職員……臨時會計。很高興和一個知道如何運用全身的人打交道。”"
 
 # game/Murdochroute.rpy:503
 translate Tchinese Murdochroute_e403dcc9:
@@ -2182,7 +2182,7 @@ translate Tchinese Murdochroute_e403dcc9:
 translate Tchinese Murdochroute_e2e6f42c:
 
     # mu "\"Got those from lifting boxes and moving equipment... running to and fro, often the same routes and the same paths... every day.\""
-    mu "“抬箱子和搬運設備得來的...反覆奔波，經常是同樣的路線、同樣的道路...每天如此。”"
+    mu "“抬箱子和搬運設備得來的……反覆奔波，經常是同樣的路線、同樣的道路...每天如此。”"
 
 # game/Murdochroute.rpy:507
 translate Tchinese Murdochroute_7c123c4d:
@@ -2194,7 +2194,7 @@ translate Tchinese Murdochroute_7c123c4d:
 translate Tchinese Murdochroute_56509973:
 
     # mu "\"Funny thing about taking pictures of the same places... they’re never the same.\""
-    mu "“在同一個地方拍照是件有趣的事...它們永遠不會相同。”"
+    mu "“在同一個地方拍照是件有趣的事……它們永遠不會相同。”"
 
 # game/Murdochroute.rpy:511
 translate Tchinese Murdochroute_bbcd1eeb:
@@ -2206,7 +2206,7 @@ translate Tchinese Murdochroute_bbcd1eeb:
 translate Tchinese Murdochroute_488a876e:
 
     # mu "\"Everybody keeps becoming different... they’re always changing, even after you blink.\""
-    mu "“所有人都在不斷變化...永遠，即便只是眨眼的功夫。”"
+    mu "“所有人都在不斷變化……永遠，即便只是眨眼的功夫。”"
 
 # game/Murdochroute.rpy:514
 translate Tchinese Murdochroute_d300c2c8:
@@ -2296,7 +2296,7 @@ translate Tchinese Murdochroute_5a5bdc8b:
 translate Tchinese Murdochroute_3333348d:
 
     # "He looks broken... full of worry and fear, his lower jaw trembling."
-    "他看起來很無力...充滿了憂慮與恐懼，下巴哆嗦著。"
+    "他看起來很無力……充滿了憂慮與恐懼，下巴哆嗦著。"
 
 # game/Murdochroute.rpy:533
 translate Tchinese Murdochroute_1e34ef86:
@@ -2314,7 +2314,7 @@ translate Tchinese Murdochroute_46c5c931:
 translate Tchinese Murdochroute_cabc15f5:
 
     # mu "\"Souls? Well, yes... But I don’t believe a photograph could steal a soul and keep them prisoner.\""
-    mu "“靈魂？嗯，是的...不過我不相信照片會偷走靈魂，並將它們囚禁起來。”"
+    mu "“靈魂？嗯，是的……不過我不相信照片會偷走靈魂，並將它們囚禁起來。”"
 
 # game/Murdochroute.rpy:537
 translate Tchinese Murdochroute_7769e5f2:
@@ -2410,7 +2410,7 @@ translate Tchinese Murdochroute_353c5c5e:
 translate Tchinese Murdochroute_75d16310:
 
     # mu "\"So... regarding our arrangement...\""
-    mu "“那麼...關於我們的安排...”"
+    mu "“那麼……關於我們的安排……”"
 
 # game/Murdochroute.rpy:559
 translate Tchinese Murdochroute_4f30983b:
@@ -2458,31 +2458,31 @@ translate Tchinese Murdochroute_f8bd94ef:
 translate Tchinese Murdochroute_b9115e53:
 
     # "Come to think of it... he was awake for God knows how long when I was sleeping."
-    "試想一下...在我睡著的時候，天知道他有多少時間是醒著的。"
+    "試想一下……在我睡著的時候，天知道他有多少時間是醒著的。"
 
 # game/Murdochroute.rpy:570
 translate Tchinese Murdochroute_249e2708:
 
     # "He could have done anything here while I was asleep..."
-    "在我睡著的時候，他可以做任何事..."
+    "在我睡著的時候，他可以做任何事……"
 
 # game/Murdochroute.rpy:572
 translate Tchinese Murdochroute_dfbe3877:
 
     # mu "\"Thought it would make sense to look there when... I stumbled across your wallet.\""
-    mu "“我是有原因才看那裡面的，然後...我無意中發現了你的錢包。”"
+    mu "“我是有原因才看那裡面的，然後……我無意中發現了你的錢包。”"
 
 # game/Murdochroute.rpy:573
 translate Tchinese Murdochroute_6b1bb8ec:
 
     # "Snooping around... messing with my things..."
-    "四處偷窺...翻弄我的東西..."
+    "四處偷窺……翻弄我的東西……"
 
 # game/Murdochroute.rpy:575
 translate Tchinese Murdochroute_1839aec3:
 
     # mu "\"I remembered that you said you needed the money. I’m ashamed to admit it but... I did peek. You’re utterly broke.\""
-    mu "“我記得你說過自己需要錢。很慚愧，但是我承認...我確實偷看了。你徹底破產了。”"
+    mu "“我記得你說過自己需要錢。很慚愧，但是我承認……我確實偷看了。你徹底破產了。”"
 
 # game/Murdochroute.rpy:576
 translate Tchinese Murdochroute_2099491d:
@@ -2500,7 +2500,7 @@ translate Tchinese Murdochroute_658099cc:
 translate Tchinese Murdochroute_db656c63:
 
     # "If he could smell William, maybe he can smell old blood, too..."
-    "如果他能聞到William的味道，也許，他也能聞到殘血味..."
+    "如果他能聞到William的味道，也許，他也能聞到殘血味……"
 
 # game/Murdochroute.rpy:579
 translate Tchinese Murdochroute_80f1253f:
@@ -2536,7 +2536,7 @@ translate Tchinese Murdochroute_cc514e53:
 translate Tchinese Murdochroute_8c174bc4:
 
     # "It probably wouldn’t be very difficult..."
-    "應該不會很難..."
+    "應該不會很難……"
 
 # game/Murdochroute.rpy:587
 translate Tchinese Murdochroute_0d9a8c75:
@@ -2548,7 +2548,7 @@ translate Tchinese Murdochroute_0d9a8c75:
 translate Tchinese Murdochroute_86e684d5:
 
     # "...to snap it."
-    "...折斷它。"
+    "……折斷它。"
 
 # game/Murdochroute.rpy:589
 translate Tchinese Murdochroute_db897408:
@@ -2680,19 +2680,19 @@ translate Tchinese Murdochroute_0455c120:
 translate Tchinese Murdochroute_8ec36ec8:
 
     # mu "\"You're one of the strongest looking men I've seen in a long while...\""
-    mu "“你是我長時間以來，見過的最強壯的男人之一...”"
+    mu "“你是我長時間以來，見過的最強壯的男人之一……”"
 
 # game/Murdochroute.rpy:623
 translate Tchinese Murdochroute_94921271:
 
     # mu "\"...and you're, well...\""
-    mu "“...而且你，嗯...”"
+    mu "“……而且你，嗯……”"
 
 # game/Murdochroute.rpy:624
 translate Tchinese Murdochroute_fa055824:
 
     # mu "\"...like me, so to speak.\""
-    mu "“...可以說，和我一樣。”"
+    mu "“……可以說，和我一樣。”"
 
 # game/Murdochroute.rpy:625
 translate Tchinese Murdochroute_27bf15ba:
@@ -2752,7 +2752,7 @@ translate Tchinese Murdochroute_8bc47329:
 translate Tchinese Murdochroute_c86355ec:
 
     # m "\"I just... well, I don’t know really what to say.\""
-    m "“我只是...好吧，我真的不知道該說什麼。”"
+    m "“我只是……好吧，我真的不知道該說什麼。”"
 
 # game/Murdochroute.rpy:639
 translate Tchinese Murdochroute_0e17a39c:
@@ -2824,13 +2824,13 @@ translate Tchinese Murdochroute_9b306c21:
 translate Tchinese Murdochroute_a6fc869b:
 
     # "And it would mean that I’d be seeing him during the day... in public."
-    "而且這意味著我會在白天見到他...在公共場合。"
+    "而且這意味著我會在白天見到他……在公共場合。"
 
 # game/Murdochroute.rpy:655
 translate Tchinese Murdochroute_6a80bf15:
 
     # "A proper job, with proper work...in the daylight..."
-    "一個堂堂正正的職業，在白日之下...做正當的工作..."
+    "一個堂堂正正的職業，在白日之下……做正當的工作……"
 
 # game/Murdochroute.rpy:656
 translate Tchinese Murdochroute_58750d26:
@@ -2902,19 +2902,19 @@ translate Tchinese Murdochroute_4d484fe8:
 translate Tchinese Murdochroute_e267eb71:
 
     # "Red’s General Store..."
-    "Red的雜貨店..."
+    "Red的雜貨店……"
 
 # game/Murdochroute.rpy:671
 translate Tchinese Murdochroute_185e6bed:
 
     # "It’s certainly big... but the outside of it is cluttered with crates and boxes."
-    "它確實很大...外面凌亂堆滿了板條箱與盒子。"
+    "它確實很大……外面凌亂堆滿了板條箱與盒子。"
 
 # game/Murdochroute.rpy:672
 translate Tchinese Murdochroute_a1735fa2:
 
     # "The glass windows are covered with hanging odds and ends, and racks of jams... ointments... candies."
-    "玻璃窗口上掛滿了零碎的小玩意，還有一排排的果醬...藥膏...糖果。"
+    "玻璃窗口上掛滿了零碎的小玩意，還有一排排的果醬……藥膏……糖果。"
 
 # game/Murdochroute.rpy:675
 translate Tchinese Murdochroute_3ccc9834:
@@ -2974,13 +2974,13 @@ translate Tchinese Murdochroute_d561dadf:
 translate Tchinese Murdochroute_3804ceb3:
 
     # "Well he’s... social."
-    "他很...社會。"
+    "他很……社會。"
 
 # game/Murdochroute.rpy:694
 translate Tchinese Murdochroute_b437b4ad:
 
     # m "\"So you must be... Red then?\""
-    m "“所以您一定是...Red了？（Red：人名/紅色）”"
+    m "“所以您一定是……Red了？（Red：人名/紅色）”"
 
 # game/Murdochroute.rpy:696
 translate Tchinese Murdochroute_e2910f4f:
@@ -3100,7 +3100,7 @@ translate Tchinese Murdochroute_fbbc4505:
 translate Tchinese Murdochroute_50671149:
 
     # m "\"Well then... ‘sir.’ What’s the first thing that you’ll have me do today, since we’re going to be busy?\""
-    m "“那麼...‘先生’。既然今天我們會很忙，你讓我做的第一件事是什麼？”"
+    m "“那麼……‘先生’。既然今天我們會很忙，你讓我做的第一件事是什麼？”"
 
 # game/Murdochroute.rpy:729
 translate Tchinese Murdochroute_acc1e625:
@@ -3244,7 +3244,7 @@ translate Tchinese Murdochroute_19511bd5:
 translate Tchinese Murdochroute_eb48f19e:
 
     # "Rows of photographs, at least a hundred or so, dangle from the strings, attached by clothespins."
-    "一排排照片─至少有一百張左右─被晾衣夾懸掛在上面。"
+    "一排排照片──至少有一百張左右──被晾衣夾懸掛在上面。"
 
 # game/Murdochroute.rpy:765
 translate Tchinese Murdochroute_bdab1126:
@@ -3436,7 +3436,7 @@ translate Tchinese Murdochroute_3f41054d:
 translate Tchinese Murdochroute_58ea1f80:
 
     # "I listen for breathing that isn't my own, or the fox's, and I can swear that I hear it."
-    "我聽到了呼吸聲─不是我自己的，也不是那隻狐狸的，而且我確信自己沒有聽錯。"
+    "我聽到了呼吸聲──不是我自己的，也不是那隻狐狸的，而且我確信自己沒有聽錯。"
 
 # game/Murdochroute.rpy:816
 translate Tchinese Murdochroute_22404b80:
@@ -3538,7 +3538,7 @@ translate Tchinese Murdochroute_42339201:
 translate Tchinese Murdochroute_34b28b11:
 
     # "The fox pauses, then hums."
-    "“嗯...”"
+    "“嗯……”"
 
 # game/Murdochroute.rpy:845
 translate Tchinese Murdochroute_046d3f16:
@@ -3688,19 +3688,19 @@ translate Tchinese Murdochroute_ab53a992:
 translate Tchinese Murdochroute_e6aee0e5:
 
     # m "\"Well, uh....\"" nointeract
-    m "“這個，呃...”" nointeract
+    m "“這個，呃……”" nointeract
 
 # game/Murdochroute.rpy:894
 translate Tchinese Murdochroute_5a72311c:
 
     # mu "\"Well, ah... let’s revisit this at another time.\""
-    mu "“啊，好吧...這個改日再談。”"
+    mu "“啊，好吧……這個改日再談。”"
 
 # game/Murdochroute.rpy:898
 translate Tchinese Murdochroute_5a72311c_1:
 
     # mu "\"Well, ah... let’s revisit this at another time.\""
-    mu "“啊，好吧...這個改日再談。”"
+    mu "“啊，好吧……這個改日再談。”"
 
 # game/Murdochroute.rpy:902
 translate Tchinese Murdochroute_690568a3:
@@ -3766,7 +3766,7 @@ translate Tchinese Murdochroute_cd5a44fc_1:
 translate Tchinese Murdochroute_e01a81e8:
 
     # mu "\"Nothing serious... one of the shots got ruined.\""
-    mu "“不是什麼大問題...其中一張照片被毀了。”"
+    mu "“不是什麼大問題……其中一張照片被毀了。”"
 
 # game/Murdochroute.rpy:922
 translate Tchinese Murdochroute_9d05c65b:
@@ -3856,7 +3856,7 @@ translate Tchinese Murdochroute_ff634927:
 translate Tchinese Murdochroute_328b7bed:
 
     # "I suspect that I can slip away from him at some point and mess with the film as it dries..."
-    "我不懷疑自己能找機會從他身邊溜走，趁膠片變乾的時候毀掉它..."
+    "我不懷疑自己能找機會從他身邊溜走，趁膠片變乾的時候毀掉它……"
 
 # game/Murdochroute.rpy:947
 translate Tchinese Murdochroute_4bc87c82:
@@ -4510,7 +4510,7 @@ translate Tchinese Murdochroute_70b30741:
 translate Tchinese Murdochroute_5cc4ec50:
 
     # ra "\"My king, my gentleman.... please don’t threaten me with a good time.\""
-    ra "“這位先生...請不要用美好時光來威脅我。”"
+    ra "“這位先生……請不要用美好時光來威脅我。”"
 
 # game/Murdochroute.rpy:1158
 translate Tchinese Murdochroute_8f8f6a20:
@@ -4630,7 +4630,7 @@ translate Tchinese Murdochroute_7ff3e17d:
 translate Tchinese Murdochroute_cd8e7396:
 
     # "I’m not really... processing this man’s question."
-    "我不是很...能處理這個人的提問。"
+    "我不是很……能處理這個人的提問。"
 
 # game/Murdochroute.rpy:1202
 translate Tchinese Murdochroute_b4268990:
@@ -4648,7 +4648,7 @@ translate Tchinese Murdochroute_3d631a6d:
 translate Tchinese Murdochroute_96f201dd:
 
     # "Aren’t... most kinds of fruit spreads placed next to one another?"
-    "水果果醬...不是大多都挨著放的嗎？"
+    "果醬……不是大多都挨著放的嗎？"
 
 # game/Murdochroute.rpy:1209
 translate Tchinese Murdochroute_26113de2:
@@ -4690,7 +4690,7 @@ translate Tchinese Murdochroute_3cf31ef1:
 translate Tchinese Murdochroute_a20cefa7:
 
     # "..."
-    "..."
+    "……"
 
 # game/Murdochroute.rpy:1225
 translate Tchinese Murdochroute_de5a8476:
@@ -4744,7 +4744,7 @@ translate Tchinese Murdochroute_d211499a:
 translate Tchinese Murdochroute_554f8429:
 
     # mu "\"...I hadn’t been told.\""
-    mu "“...我沒有被告知。”"
+    mu "“……我沒有被告知。”"
 
 # game/Murdochroute.rpy:1252
 translate Tchinese Murdochroute_bcba5786:
@@ -4828,7 +4828,7 @@ translate Tchinese Murdochroute_d2c1e858:
 translate Tchinese Murdochroute_ec304d91:
 
     # mu "\"...and for my pa being the way that he is.\""
-    mu "“...還有為我爸的行為抱歉，他就是這樣。”"
+    mu "“……還有為我爸的行為抱歉，他就是這樣。”"
 
 # game/Murdochroute.rpy:1286
 translate Tchinese Murdochroute_d43eeb9f:
@@ -4930,7 +4930,7 @@ translate Tchinese Murdochroute_4ae36d33:
 translate Tchinese Murdochroute_a82db7f4:
 
     # m "\"I don’t really keep track of the ones I’ve been on... more on where I’m going, and where I’ve come from.\""
-    m "“我不怎麼記事...除了自己要去哪裡，以及從哪裡來。”"
+    m "“我不怎麼記事……除了自己要去哪裡，以及從哪裡來。”"
 
 # game/Murdochroute.rpy:1321
 translate Tchinese Murdochroute_78cbadce:
@@ -5110,7 +5110,7 @@ translate Tchinese Murdochroute_4802ffb1:
 translate Tchinese Murdochroute_29c5a16c:
 
     # mu "\"But the simplest version goes... 'Was it hungry?'\""
-    mu "“但最簡單的說法是...‘它餓了嗎？’'”"
+    mu "“但最簡單的說法是……‘它餓了嗎？’'”"
 
 # game/Murdochroute.rpy:1366
 translate Tchinese Murdochroute_67d0b84a:
@@ -5158,7 +5158,7 @@ translate Tchinese Murdochroute_e05032ac:
 translate Tchinese Murdochroute_ff03ba20:
 
     # m "\"You know....\""
-    m "“你知道的...”"
+    m "“你知道的……”"
 
 # game/Murdochroute.rpy:1380
 translate Tchinese Murdochroute_d420922d:
@@ -5188,7 +5188,7 @@ translate Tchinese Murdochroute_84cd28c9:
 translate Tchinese Murdochroute_02c118b8:
 
     # mu "\"I don’t think... it would be a stretch to say that there are dangerous things that exist out in the world that could cause us harm.\""
-    mu "“我不知道...如果說世界上存在著可能會傷害我們的危險之物，那就太誇張了。”"
+    mu "“我不知道……如果說世界上存在著可能會傷害我們的危險之物，那就太誇張了。”"
 
 # game/Murdochroute.rpy:1389
 translate Tchinese Murdochroute_a415f836:
@@ -5542,13 +5542,13 @@ translate Tchinese Murdochroute_e9ad7e5f:
 translate Tchinese Murdochroute_dcf71bd3:
 
     # "{color=#96D7A1}???" "\"Unsex me here, and fill me from the crown to the toe...\""
-    "{color=#96D7A1}???" " “解除我的女性的柔弱，用最兇惡的殘忍自頂至踵...”"
+    "{color=#96D7A1}???" " “解除我的女性的柔弱，用最兇惡的殘忍自頂至踵……”"
 
 # game/Murdochroute.rpy:1465
 translate Tchinese Murdochroute_06ad95ae:
 
     # "{color=#96D7A1}???" "\"...topful, of direst cruelty.\""
-    "{color=#96D7A1}???" " “...貫注在我的全身。”"
+    "{color=#96D7A1}???" " “……貫注在我的全身。”"
 
 # game/Murdochroute.rpy:1467
 translate Tchinese Murdochroute_3075b016:
@@ -5566,7 +5566,7 @@ translate Tchinese Murdochroute_da21f0dc:
 translate Tchinese Murdochroute_1ab37b79:
 
     # "{color=#96D7A1}???" "\"...A moment if you please.\""
-    "{color=#96D7A1}???" " “...請稍等片刻。”"
+    "{color=#96D7A1}???" " “……請稍等片刻。”"
 
 # game/Murdochroute.rpy:1472
 translate Tchinese Murdochroute_0690425e:
@@ -5668,13 +5668,13 @@ translate Tchinese Murdochroute_c1841489:
 translate Tchinese Murdochroute_06d8cb62:
 
     # "{color=#96D7A1}???" "\"But you’d think he’d have the time to say hello to me himself...\""
-    "{color=#96D7A1}???" " “不過他應該有時間親自向我打招呼，你不覺得嗎...”"
+    "{color=#96D7A1}???" " “不過他應該有時間親自向我打招呼，你不覺得嗎……”"
 
 # game/Murdochroute.rpy:1511
 translate Tchinese Murdochroute_ae3012c0:
 
     # "{color=#96D7A1}???" "\"...especially after getting himself a helper.\""
-    "{color=#96D7A1}???" " “...尤其是在給自己找了個幫手之後。”"
+    "{color=#96D7A1}???" " “……尤其是在給自己找了個幫手之後。”"
 
 # game/Murdochroute.rpy:1513
 translate Tchinese Murdochroute_f3219dcd:
@@ -5854,7 +5854,7 @@ translate Tchinese Murdochroute_7459b7e6:
 translate Tchinese Murdochroute_80b23b18:
 
     # dh "\"And... also because I don’t mean to come across as ungrateful.\""
-    dh "“還有...我不想給人沒心肝的印象。”"
+    dh "“還有……我不想給人沒心肝的印象。”"
 
 # game/Murdochroute.rpy:1569
 translate Tchinese Murdochroute_f9bd2f1a:
@@ -5866,7 +5866,7 @@ translate Tchinese Murdochroute_f9bd2f1a:
 translate Tchinese Murdochroute_2f5154ec:
 
     # m "\"Are... Are you alright?\""
-    m "“你...還好吧？”"
+    m "“你……還好吧？”"
 
 # game/Murdochroute.rpy:1573
 translate Tchinese Murdochroute_5db8f627:
@@ -5950,13 +5950,13 @@ translate Tchinese Murdochroute_670f2411:
 translate Tchinese Murdochroute_1a97fa03:
 
     # "I grab the book, and pull it from the shelf..."
-    "我抓住書，把它從書架上抽出來..."
+    "我抓住書，把它從書架上抽出來……"
 
 # game/Murdochroute.rpy:1598
 translate Tchinese Murdochroute_a4b350f8:
 
     # "...and then a page slips out."
-    "...然後一張書頁滑了出去。"
+    "……然後一張書頁滑了出去。"
 
 # game/Murdochroute.rpy:1599
 translate Tchinese Murdochroute_f62fd4ea:
@@ -6682,7 +6682,7 @@ translate Tchinese Murdochroute_59eeac53:
 translate Tchinese Murdochroute_2f1674de:
 
     # mu "\"Just like we said....\""
-    mu "“就像我們說過的那樣...”"
+    mu "“就像我們說過的那樣……”"
 
 # game/Murdochroute.rpy:1802
 translate Tchinese Murdochroute_995bdb12:
@@ -6886,7 +6886,7 @@ translate Tchinese Murdochroute_17df0a8d:
 translate Tchinese Murdochroute_cbde3242:
 
     # m "\"I...\""
-    m "“我...”"
+    m "“我……”"
 
 # game/Murdochroute.rpy:1854
 translate Tchinese Murdochroute_4852eba0:
@@ -7012,7 +7012,7 @@ translate Tchinese Murdochroute_0be30090:
 translate Tchinese Murdochroute_d580c706:
 
     # "It feels more like excitement... and exhaustion."
-    "更像是興奮...但精疲力盡。"
+    "更像是興奮……但精疲力盡。"
 
 # game/Murdochroute.rpy:1888
 translate Tchinese Murdochroute_17f648f8:

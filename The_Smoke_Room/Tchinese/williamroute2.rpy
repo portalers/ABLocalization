@@ -13208,3 +13208,233 @@ translate Tchinese strings:
     old "Witches."
     new "女巫。"
 
+# TODO: Translation updated at 2022-12-20 02:52
+
+# game/williamroute2.rpy:649
+translate Tchinese williamroute2_f3ddbf24:
+
+    # mar "\"Hello, hello?\""
+    mar "\"Hello, hello?\""
+
+# game/williamroute2.rpy:653
+translate Tchinese williamroute2_cd15d62e:
+
+    # mar "\"Mr. Bronson, you’ve brought Mr. Adler for a visit! And someone new as well?\""
+    mar "\"Mr. Bronson, you’ve brought Mr. Adler for a visit! And someone new as well?\""
+
+# game/williamroute2.rpy:660
+translate Tchinese williamroute2_723bb2ca:
+
+    # mar "\"Right as rain drops! Come in, come in, you boys must be starving!\""
+    mar "\"Right as rain drops! Come in, come in, you boys must be starving!\""
+
+# game/williamroute2.rpy:674
+translate Tchinese williamroute2_a63e7faf:
+
+    # mar "\"I’ll be back with a slice of warm pie for each of you in a jiffy.\""
+    mar "\"I’ll be back with a slice of warm pie for each of you in a jiffy.\""
+
+# game/williamroute2.rpy:692
+translate Tchinese williamroute2_91bb8fca:
+
+    # mar "\"It’s rude to stare, you know! My dollies are shy!\""
+    mar "\"It’s rude to stare, you know! My dollies are shy!\""
+
+# game/williamroute2.rpy:706
+translate Tchinese williamroute2_2089e693:
+
+    # mar "\"Well, truth be told, I’m too simple to make anything pretty.\""
+    mar "\"Well, truth be told, I’m too simple to make anything pretty.\""
+
+# game/williamroute2.rpy:709
+translate Tchinese williamroute2_a4f84c50:
+
+    # mar "\"But I don’t think you have to be pretty to be loved.\""
+    mar "\"But I don’t think you have to be pretty to be loved.\""
+
+# game/williamroute2.rpy:711
+translate Tchinese williamroute2_2184c04d:
+
+    # mar "\"And I love these dollies very much.\""
+    mar "\"And I love these dollies very much.\""
+
+# game/williamroute2.rpy:713
+translate Tchinese williamroute2_23383437:
+
+    # mar "\"Some girls at the schoolyard were nice enough to show me how to make them, but I still have to practice.\""
+    mar "\"Some girls at the schoolyard were nice enough to show me how to make them, but I still have to practice.\""
+
+# game/williamroute2.rpy:720
+translate Tchinese williamroute2_4e477522:
+
+    # mar "\"Maybe.\""
+    mar "\"Maybe.\""
+
+# game/williamroute2.rpy:731
+translate Tchinese williamroute2_abcabc8c:
+
+    # mar "\"Well he usually turns up at that awful saloon, drinking all of that poison.\""
+    mar "\"Well he usually turns up at that awful saloon, drinking all of that poison.\""
+
+# game/williamroute2.rpy:734
+translate Tchinese williamroute2_f5fbde67:
+
+    # mar "\"Sometimes it takes a while for him to get back, but he always comes back.\""
+    mar "\"Sometimes it takes a while for him to get back, but he always comes back.\""
+
+# game/williamroute2.rpy:739
+translate Tchinese williamroute2_8f685918:
+
+    # mar "\"It’s just never been three days before?\""
+    mar "\"It’s just never been three days before?\""
+
+# game/williamroute2.rpy:744
+translate Tchinese williamroute2_b9f3dc8d:
+
+    # mar "\"I used to be bossy about not letting him go there.\""
+    mar "\"I used to be bossy about not letting him go there.\""
+
+# game/williamroute2.rpy:747
+translate Tchinese williamroute2_2fc3903c:
+
+    # mar "\"But I’ve been good for a whole year.\""
+    mar "\"But I’ve been good for a whole year.\""
+
+# game/williamroute2.rpy:751
+translate Tchinese williamroute2_ee79c299:
+
+    # mar "\"No, I don’t tell him what to do anymore.\""
+    mar "\"No, I don’t tell him what to do anymore.\""
+
+# game/williamroute2.rpy:754
+translate Tchinese williamroute2_68ca60be:
+
+    # mar "\"He’s nicer when he gets what he wants.\""
+    mar "\"He’s nicer when he gets what he wants.\""
+
+# game/williamroute2.rpy:761
+translate Tchinese williamroute2_5cdc800e:
+
+    # mar "\"But isn’t everyone?\""
+    mar "\"But isn’t everyone?\""
+
+# game/williamroute2.rpy:767
+translate Tchinese williamroute2_2cd1bfbc:
+
+    # mar "\"I know grandmama’s shawl isn’t pretty anymore either.\""
+    mar "\"I know grandmama’s shawl isn’t pretty anymore either.\""
+
+# game/williamroute2.rpy:777
+translate Tchinese williamroute2_1dc4d8a7:
+
+    # mar "\"The way it sags reminds me of mama’s smile.\""
+    mar "\"The way it sags reminds me of mama’s smile.\""
+
+# game/williamroute2.rpy:779
+translate Tchinese williamroute2_0f34fb46:
+
+    # mar "\"Sometimes she has to smile for me when things aren’t so good.\""
+    mar "\"Sometimes she has to smile for me when things aren’t so good.\""
+
+# game/williamroute2.rpy:785
+translate Tchinese williamroute2_b0df2343:
+
+    # mar "\"It’s fun to arrange things in the house how I want them.\""
+    mar "\"It’s fun to arrange things in the house how I want them.\""
+
+# game/williamroute2.rpy:788
+translate Tchinese williamroute2_b7447156:
+
+    # mar "\"But I think I’ve had my fun.\""
+    mar "\"But I think I’ve had my fun.\""
+
+# game/williamroute2.rpy:791
+translate Tchinese williamroute2_c94314bc:
+
+    # mar "\"Enough fun for a while.\""
+    mar "\"Enough fun for a while.\""
+
+# game/williamroute2.rpy:796
+translate Tchinese williamroute2_f1a16954:
+
+    # mar "\"When do you think he’s coming back?\""
+    mar "\"When do you think he’s coming back?\""
+
+# game/williamroute2.rpy:807
+translate Tchinese williamroute2_ee171b03:
+
+    # mar "\"That’s what he said.\""
+    mar "\"That’s what he said.\""
+
+# game/williamroute2.rpy:809
+translate Tchinese williamroute2_dcd6368f:
+
+    # mar "\"But he had already went in the morning.\""
+    mar "\"But he had already went in the morning.\""
+
+# game/williamroute2.rpy:811
+translate Tchinese williamroute2_5416409e:
+
+    # mar "\"He never comes back and then goes to the saloon again.\""
+    mar "\"He never comes back and then goes to the saloon again.\""
+
+# game/williamroute2.rpy:814
+translate Tchinese williamroute2_62a4b4fc:
+
+    # mar "\"He always stayed as long as he could.\""
+    mar "\"He always stayed as long as he could.\""
+
+# game/williamroute2.rpy:817
+translate Tchinese williamroute2_551fc2e9:
+
+    # mar "\"But that’s what he did that day.\""
+    mar "\"But that’s what he did that day.\""
+
+# game/williamroute2.rpy:823
+translate Tchinese williamroute2_9044e146:
+
+    # mar "\"Sometimes he’d threaten to take a train and leave me all alone if I wasn’t good.\""
+    mar "\"Sometimes he’d threaten to take a train and leave me all alone if I wasn’t good.\""
+
+# game/williamroute2.rpy:826
+translate Tchinese williamroute2_ff555044:
+
+    # mar "\"Sometimes I thought that this would be swell...\""
+    mar "\"Sometimes I thought that this would be swell...\""
+
+# game/williamroute2.rpy:829
+translate Tchinese williamroute2_ed147b13:
+
+    # mar "\"...because it might mean that I could share my pies how I’d like, and play with my toys for as long and as much as I wanted.\""
+    mar "\"...because it might mean that I could share my pies how I’d like, and play with my toys for as long and as much as I wanted.\""
+
+# game/williamroute2.rpy:832
+translate Tchinese williamroute2_af00f244:
+
+    # mar "\"But I never, never said that to him!\""
+    mar "\"But I never, never said that to him!\""
+
+# game/williamroute2.rpy:835
+translate Tchinese williamroute2_20e48c2c:
+
+    # mar "\"So I don’t think he took the train.\""
+    mar "\"So I don’t think he took the train.\""
+
+# game/williamroute2.rpy:838
+translate Tchinese williamroute2_18f17ea1:
+
+    # mar "\"But sooner or later, he’d always bring up walking those tracks.\""
+    mar "\"But sooner or later, he’d always bring up walking those tracks.\""
+
+# game/williamroute2.rpy:841
+translate Tchinese williamroute2_f0c6357f:
+
+    # mar "\"Maybe he wanted a model train.\""
+    mar "\"Maybe he wanted a model train.\""
+
+# game/williamroute2.rpy:844
+translate Tchinese williamroute2_64dac620:
+
+    # mar "\"Maybe he liked his toys too, but he just didn’t want to tell me about it.\""
+    mar "\"Maybe he liked his toys too, but he just didn’t want to tell me about it.\""
+

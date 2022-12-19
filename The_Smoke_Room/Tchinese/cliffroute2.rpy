@@ -3496,13 +3496,13 @@ translate Tchinese cliffroute2_ae4b8978:
 translate Tchinese cliffroute2_2be76ee2:
 
     # "Step…"
-    "一步…"
+    "一步……"
 
 # game/cliffroute2.rpy:967
 translate Tchinese cliffroute2_c65b699d:
 
     # "...by step."
-    "…接一步。"
+    "……接一步。"
 
 # game/cliffroute2.rpy:969
 translate Tchinese cliffroute2_eb31e0bd:
@@ -5284,7 +5284,7 @@ translate Tchinese aftercanyon_d82ceb5a:
 translate Tchinese aftercanyon_89be4680:
 
     # m "\"S-s-spiders?\""
-    m "“蜘─蜘──蜘蛛？”"
+    m "“蜘──蜘──蜘蛛？”"
 
 # game/cliffroute2.rpy:1374
 translate Tchinese aftercanyon_67ef9331:
@@ -6196,7 +6196,7 @@ translate Tchinese aftercanyon_26d1dab3:
 translate Tchinese aftercanyon_209afefa:
 
     # m "\"You've got to believe me, I didn't -- didn't… he attacked me…\""
-    m "“相信我，我真──真的沒有…是他襲擊了我…”"
+    m "“相信我，我真──真的沒有……是他襲擊了我……”"
 
 # game/cliffroute2.rpy:1566
 translate Tchinese aftercanyon_5fb585db:
@@ -6676,7 +6676,7 @@ translate Tchinese aftercanyon_8059cacc:
 translate Tchinese aftercanyon_1e8f1f3c:
 
     # cl "\"W-well, o-o-our camp was attacked by some manner…\""
-    cl "“這──這個，我─我─我們的營地遭到了某種…”"
+    cl "“這──這個，我──我──我們的營地遭到了某種……”"
 
 # game/cliffroute2.rpy:1671
 translate Tchinese aftercanyon_3a9a2298:
@@ -6892,7 +6892,7 @@ translate Tchinese aftercanyon_e8687668:
 translate Tchinese aftercanyon_88080027:
 
     # m "\"Lauda-what?\""
-    m "“鴉片─什麼？”"
+    m "“鴉片──什麼？”"
 
 # game/cliffroute2.rpy:1734
 translate Tchinese aftercanyon_802cac20:
@@ -9178,7 +9178,7 @@ translate Tchinese aftercanyon_6b7bb03d:
 translate Tchinese aftercanyon_483688c6:
 
     # cl "\"T-thank you, Mr. Avery.\""
-    cl "“謝─謝謝你，Avery先生。”"
+    cl "“謝──謝謝你，Avery先生。”"
 
 # game/cliffroute2.rpy:2348
 translate Tchinese aftercanyon_23ad252d:
@@ -11902,7 +11902,7 @@ translate Tchinese aftercanyon_6a6b61cc:
 translate Tchinese aftercanyon_60b9ade7:
 
     # cl "\"I, uh, it's for… how do I put this...\""
-    cl "“我，呃，就是…怎麼說好呢…”"
+    cl "“我，呃，就是……怎麼說好呢……”"
 
 # game/cliffroute2.rpy:3046
 translate Tchinese aftercanyon_0f21049b:
@@ -16258,7 +16258,7 @@ translate Tchinese hh_d12e2a51:
 translate Tchinese hh_27bbace5:
 
     # cl "\"Y-y-y-yes!\""
-    cl "“是─是─是─是的！”"
+    cl "“是──是──是──是的！”"
 
 # game/cliffroute2.rpy:4194
 translate Tchinese hh_8e7afdab:
@@ -16330,7 +16330,7 @@ translate Tchinese hh_d338a72b:
 translate Tchinese hh_855fa534:
 
     # av "\"Jeb, no. I don't think it's safe to-\""
-    av "“不行，Jeb，這裡恐怕不安全─”"
+    av "“不行，Jeb，這裡恐怕不安全──”"
 
 # game/cliffroute2.rpy:4216
 translate Tchinese hh_8e0fd438:
@@ -16546,7 +16546,7 @@ translate Tchinese hh_0a5c9a00:
 translate Tchinese hh_092e8e0e:
 
     # cl "\"...I'd like to pay my respects...\""
-    cl "“…我想表達自己的敬意…”"
+    cl "“……我想表達自己的敬意……”"
 
 # game/cliffroute2.rpy:4277
 translate Tchinese hh_55336a0e:
@@ -21886,7 +21886,7 @@ translate Tchinese hh_9fcce399:
 translate Tchinese hh_880c937c:
 
     # cl "\"Could you... stay… a few moments… longer?\""
-    cl "“你能…再…多待…一會嗎？”"
+    cl "“你能……再……多待……一會嗎？”"
 
 # game/cliffroute2.rpy:5433
 translate Tchinese hh_43e12dd4:

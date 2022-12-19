@@ -25406,7 +25406,7 @@ translate Tchinese youdidit_d2a52d3a:
 translate Tchinese youdidit_fec97169:
 
     # "To be continued..."
-    "To be continued..."
+    "未完待續……"
 
 translate Tchinese strings:
 
@@ -25761,4 +25761,12 @@ translate Tchinese sny1_1818c436:
 
     # pounk "\"Porter, actually.\""
     pounk "“事實上，我是Porter。”"
+
+# TODO: Translation updated at 2022-12-20 02:52
+
+# game/nikroute2.rpy:6551
+translate Tchinese sellcomp_7b89fabb:
+
+    # di "\"I think he’s a good boy. He’s not the sharpest tool in the shed, but he’s young.\""
+    di "\"I think he’s a good boy. He’s not the sharpest tool in the shed, but he’s young.\""
 
