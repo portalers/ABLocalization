@@ -1,3 +1,5 @@
+# TODO: Translation updated at 2022-12-23 16:06
+
 # game/cliffroute.rpy:8
 translate Tchinese cliffroute_38b05af4:
 
@@ -7486,22 +7488,6 @@ translate Tchinese after_smc1_01667ad5:
     # "I feel I'm going to have to start watching my back with him around."
     "我覺得在他身邊時，自己必須小心警戒身後。"
 
-translate Tchinese strings:
-
-    # game/cliffroute.rpy:1740
-    old "Do I?"
-    new "我的意見是？"
-
-    # game/cliffroute.rpy:1740
-    old "I do"
-    new "不贊成"
-
-    # game/cliffroute.rpy:1740
-    old "I don't"
-    new "沒有異議"
-
-# TODO: Translation updated at 2022-04-15 22:58
-
 # game/cliffroute.rpy:12
 translate Tchinese cliffroute_13d6feaf:
 
@@ -7879,7 +7865,6 @@ translate Tchinese cliffroute_a4048204:
 
     # cl "\"Thank you for the lovely experience. I'll have to return for more lessons soon.\""
     cl "“感謝你帶來的美好體驗，我還會回來上課的，很快。”"
-
 
 # game/cliffroute.rpy:553
 translate Tchinese cliffroute_276fb56a:
@@ -8550,4 +8535,16 @@ translate Tchinese strings:
     # game/cliffroute.rpy:1749
     old "Don't object"
     new "不反對"
+
+    # game/cliffroute.rpy:1740
+    old "Do I?"
+    new "我的意見是？"
+
+    # game/cliffroute.rpy:1740
+    old "I do"
+    new "不贊成"
+
+    # game/cliffroute.rpy:1740
+    old "I don't"
+    new "沒有異議"
 

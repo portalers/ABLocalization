@@ -20112,23 +20112,6 @@ translate Schinese hh_cb244947:
     # "To be continued…"
     "未完待续..."
 
-translate Schinese strings:
-
-    # game/cliffroute2.rpy:978
-    old "Shove him"
-    new "推下去"
-
-    # game/cliffroute2.rpy:3813
-    old "Follow Cliff and Murdoch"
-    new "跟上Cliff和Murdoch"
-
-    # game/cliffroute2.rpy:3813
-    old "Stay with Jeb and Avery"
-    new "与Jeb和Avery待一起"
-
-
-# TODO: Translation updated at 2022-04-16 12:06
-
 # game/cliffroute2.rpy:17
 translate Schinese cliffroute2_be1b0675:
 
@@ -26801,18 +26784,6 @@ translate Schinese hh_9f5c3f83:
     # mu "\"I know just the song…\""
     mu "\"我刚好想到一曲...\""
 
-translate Schinese strings:
-
-    # game/cliffroute2.rpy:3315
-    old "Take the map"
-    new "拿走地图"
-
-    # game/cliffroute2.rpy:3315
-    old "Leave the map"
-    new "不拿地图"
-
-# TODO: Translation updated at 2022-04-22 11:59
-
 # game/cliffroute2.rpy:3392
 translate Schinese maphogan_81ed0cc0:
 
@@ -27665,3 +27636,24 @@ translate Schinese maphogan_280c5c1e:
     # "The weasel falls silent."
     "鼬陷入了沉默。"
 
+translate Schinese strings:
+
+    # game/cliffroute2.rpy:3315
+    old "Take the map"
+    new "拿走地图"
+
+    # game/cliffroute2.rpy:3315
+    old "Leave the map"
+    new "不拿地图"
+
+    # game/cliffroute2.rpy:978
+    old "Shove him"
+    new "推下去"
+
+    # game/cliffroute2.rpy:3813
+    old "Follow Cliff and Murdoch"
+    new "跟上Cliff和Murdoch"
+
+    # game/cliffroute2.rpy:3813
+    old "Stay with Jeb and Avery"
+    new "与Jeb和Avery待一起"

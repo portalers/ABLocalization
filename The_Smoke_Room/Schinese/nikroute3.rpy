@@ -8947,3 +8947,4 @@ translate Schinese strings:
     # game/nikroute3.rpy:1714
     old "I'm good."
     new "不用了。"
+

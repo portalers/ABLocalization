@@ -1,3 +1,5 @@
+# TODO: Translation updated at 2022-12-23 16:06
+
 # game/williamroute.rpy:3
 translate Tchinese williamroute_218ecce7:
 
@@ -8422,11 +8424,11 @@ translate Tchinese williamroute_9206859d:
     # "Maybe next time I should ask what scares you."
     "也許下一次，我應該問問你內心中的恐懼。"
 
-# TODO: Translation updated at 2021-12-17 22:04
-
 # game/williamroute.rpy:1523
 translate Tchinese williamroute_6ede209b:
 
     # m "\"Is that what Todd dreams about whenever he tastes Mrs. Greene’s pies?\""
     m "“Todd就是夢見自己在那個‘堂’裡品嚐Greene太太的派的嗎？”"
+
+translate Tchinese strings:
 

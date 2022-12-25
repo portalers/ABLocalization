@@ -1,3 +1,5 @@
+# TODO: Translation updated at 2022-12-23 16:06
+
 # game/williamroute.rpy:3
 translate Schinese williamroute_218ecce7:
 
@@ -8421,3 +8423,6 @@ translate Schinese williamroute_9206859d:
 
     # "Maybe next time I should ask what scares you."
     "也许下一次，我应该问问你内心中的恐惧。"
+
+translate Schinese strings:
+

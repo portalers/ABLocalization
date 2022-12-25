@@ -1130,10 +1130,6 @@ translate Tchinese strings:
     old "Parsing the script failed."
     new "解析腳本失敗。"
 
-# TODO: Translation updated at 2022-12-20 02:52
-
-translate Tchinese strings:
-
     # renpy/common/00action_other.rpy:703
     old "Open [text] directory."
     new "Open [text] directory."

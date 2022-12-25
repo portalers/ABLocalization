@@ -4344,12 +4344,3 @@ translate Tchinese aftercliffint2_fec97169:
     # "To be continued..."
     "To be continued..."
 
-translate Tchinese strings:
-
-    # game/cliffroute3.rpy:240
-    old "That as strange as life can be, I'd like you in mine as much as possible."
-    new "That as strange as life can be, I'd like you in mine as much as possible."
-
-    # game/cliffroute3.rpy:240
-    old "That this was a fun diversion. But the future holds many hoops."
-    new "That this was a fun diversion. But the future holds many hoops."

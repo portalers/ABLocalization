@@ -3928,8 +3928,7 @@ translate Tchinese commonroute_db63532e:
 translate Tchinese commonroute_efd8322f:
 
     # "The rat smiles and takes his winnings and the wolf slaps another dollar bill on the table. They often get a little rowdy, but they know not to push it too far. They’re here so much, this is almost their home as much as mine; though I wouldn’t exactly call ‘em family."
-    "老鼠笑著拿走了他贏的錢，狼又把一美元拍在桌子上。他們經常發生些小的爭執，不過都知道不要太極端。"
-    "他們來這裡的次數之多，簡直像是和我一樣把這裡當成了家─雖然我不會管他們叫做家人。"
+    "老鼠笑著拿走了他贏的錢，狼又把一美元拍在桌子上。他們經常發生些小的爭執，不過都知道不要太極端。\n他們來這裡的次數之多，簡直像是和我一樣把這裡當成了家─雖然我不會管他們叫做家人。"
 
 # game/commonroute.rpy:829
 translate Tchinese commonroute_63232624:
@@ -6421,26 +6420,6 @@ translate Tchinese commonroute_90524780:
     # cy "\"Then attend to one of them! We’re going to have to find somewhere for the rest.\""
     cy "“那就專注其中一個！我們得找個休息的地方。”"
 
-translate Tchinese strings:
-
-    # game/commonroute.rpy:1436
-    old "Fit Cliff in for a booking."
-    new "安排Cliff的預定"
-
-    # game/commonroute.rpy:1436
-    old "Take on Murdoch’s bet."
-    new "接受Murdoch的賭注"
-
-    # game/commonroute.rpy:1436
-    old "See if Nikolai is here."
-    new "去找Nikolai"
-
-    # game/commonroute.rpy:1436
-    old "Tell William the truth."
-    new "告訴William真相"
-
-# TODO: Translation updated at 2022-12-20 02:52
-
 # game/commonroute.rpy:831
 translate Tchinese commonroute_08cb88ea:
 
@@ -6602,4 +6581,22 @@ translate Tchinese commonroute_ae38fe9e:
 
     # mu "\"Good thing that my family's balls at it here, then. Clean cut grocers and schoolteachers. No pirates, no bandits, no upstart revolutionaries.\""
     mu "\"Good thing that my family's balls at it here, then. Clean cut grocers and schoolteachers. No pirates, no bandits, no upstart revolutionaries.\""
+
+translate Tchinese strings:
+
+    # game/commonroute.rpy:1436
+    old "Fit Cliff in for a booking."
+    new "安排Cliff的預定"
+
+    # game/commonroute.rpy:1436
+    old "Take on Murdoch’s bet."
+    new "接受Murdoch的賭注"
+
+    # game/commonroute.rpy:1436
+    old "See if Nikolai is here."
+    new "去找Nikolai"
+
+    # game/commonroute.rpy:1436
+    old "Tell William the truth."
+    new "告訴William真相"
 

@@ -1,3 +1,5 @@
+# TODO: Translation updated at 2022-12-23 16:06
+
 # game/nikroute.rpy:3
 translate Schinese nikroute_38b05af4:
 
@@ -6549,7 +6551,6 @@ translate Schinese nikroute_91559ea8:
 
     # "Yao leads us inside."
     "Yao带领我们走了进去。"
-# TODO: Translation updated at 2022-04-16 12:06
 
 # game/nikroute.rpy:1176
 translate Schinese nikroute_5ede5f07:
@@ -6610,4 +6611,6 @@ translate Schinese nikroute_9e885f95:
 
     # chsb "\"And occasionally interpret for the men who can't speak the local language.\""
     chsb "\"还有偶尔给不会本地话的人当翻译。\""
+
+translate Schinese strings:
 

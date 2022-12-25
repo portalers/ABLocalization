@@ -12318,89 +12318,6 @@ translate Schinese hattie_fec97169:
     # "To be continued..."
     "未完待续..."
 
-translate Schinese strings:
-
-    old "..."
-    new "……"
-
-    # game/williamroute3.rpy:680
-    old "Take care of that, Cocksucker."
-    new "帮他射出来，基佬。"
-
-    # game/williamroute3.rpy:680
-    old "He’ll be able to use his own hands once I’m done with this."
-    new "他可以自己打出来，等我完事以后。"
-
-    # game/williamroute3.rpy:1351
-    old "Where am I going first?"
-    new "从哪里开始？"
-
-    # game/williamroute3.rpy:1351
-    old "City Hall."
-    new "镇公所。"
-
-    # game/williamroute3.rpy:1351
-    old "The Stag."
-    new "Stag酒馆。"
-
-    # game/williamroute3.rpy:1953
-    old "What should I do right now?"
-    new "我该怎么做？"
-
-    # game/williamroute3.rpy:1953
-    old "Talk to the Mayor."
-    new "去找Mayor。"
-
-    # game/williamroute3.rpy:1953
-    old "Talk to James."
-    new "跟上James。"
-
-    # game/williamroute3.rpy:2798
-    old "Where should I look right now?"
-    new "现在调查哪里？"
-
-    # game/williamroute3.rpy:2798
-    old "Check the upper beams"
-    new "梁上。"
-
-    # game/williamroute3.rpy:2798
-    old "Check out the bar."
-    new "吧台。"
-
-    # game/williamroute3.rpy:2850
-    old "Who should I approach?"
-    new "要找谁搭话？"
-
-    # game/williamroute3.rpy:2850
-    old "Talk to the sable."
-    new "黑貂。"
-
-    # game/williamroute3.rpy:2850
-    old "Talk to the miners."
-    new "矿工们。"
-
-    # game/williamroute3.rpy:3874
-    old "Now, who would be the most useful to talk to?"
-    new "谁最值得交谈？"
-
-    # game/williamroute3.rpy:3874
-    old "Talk to Dora."
-    new "Dora。"
-
-    # game/williamroute3.rpy:3874
-    old "Talk to Harlan."
-    new "Harlan。"
-
-    # game/williamroute3.rpy:3874
-    old "Talk to Ethel."
-    new "Ethel。"
-
-    # game/williamroute3.rpy:3874
-    old "Talk to Cynthia."
-    new "Cynthia。"
-
-# TODO: Translation updated at 2022-09-27 14:24
-
 # game/williamroute3.rpy:1059
 translate Schinese willbedchoice_7df56f8c:
 
@@ -19558,4 +19475,85 @@ translate Schinese hattie_c5ebdb8a:
 
     # gr "\"The men have work to do at closing time.\""
     gr "“我们的员工在打样时间可是很忙的。”"
+
+translate Schinese strings:
+
+    old "..."
+    new "……"
+
+    # game/williamroute3.rpy:680
+    old "Take care of that, Cocksucker."
+    new "帮他射出来，基佬。"
+
+    # game/williamroute3.rpy:680
+    old "He’ll be able to use his own hands once I’m done with this."
+    new "他可以自己打出来，等我完事以后。"
+
+    # game/williamroute3.rpy:1351
+    old "Where am I going first?"
+    new "从哪里开始？"
+
+    # game/williamroute3.rpy:1351
+    old "City Hall."
+    new "镇公所。"
+
+    # game/williamroute3.rpy:1351
+    old "The Stag."
+    new "Stag酒馆。"
+
+    # game/williamroute3.rpy:1953
+    old "What should I do right now?"
+    new "我该怎么做？"
+
+    # game/williamroute3.rpy:1953
+    old "Talk to the Mayor."
+    new "去找Mayor。"
+
+    # game/williamroute3.rpy:1953
+    old "Talk to James."
+    new "跟上James。"
+
+    # game/williamroute3.rpy:2798
+    old "Where should I look right now?"
+    new "现在调查哪里？"
+
+    # game/williamroute3.rpy:2798
+    old "Check the upper beams"
+    new "梁上。"
+
+    # game/williamroute3.rpy:2798
+    old "Check out the bar."
+    new "吧台。"
+
+    # game/williamroute3.rpy:2850
+    old "Who should I approach?"
+    new "要找谁搭话？"
+
+    # game/williamroute3.rpy:2850
+    old "Talk to the sable."
+    new "黑貂。"
+
+    # game/williamroute3.rpy:2850
+    old "Talk to the miners."
+    new "矿工们。"
+
+    # game/williamroute3.rpy:3874
+    old "Now, who would be the most useful to talk to?"
+    new "谁最值得交谈？"
+
+    # game/williamroute3.rpy:3874
+    old "Talk to Dora."
+    new "Dora。"
+
+    # game/williamroute3.rpy:3874
+    old "Talk to Harlan."
+    new "Harlan。"
+
+    # game/williamroute3.rpy:3874
+    old "Talk to Ethel."
+    new "Ethel。"
+
+    # game/williamroute3.rpy:3874
+    old "Talk to Cynthia."
+    new "Cynthia。"
 

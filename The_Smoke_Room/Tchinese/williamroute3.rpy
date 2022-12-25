@@ -12324,95 +12324,11 @@ translate Tchinese hattie_fec97169:
     # "To be continued..."
     "未完待續……"
 
-translate Tchinese strings:
-
-    # game/williamroute3.rpy:660
-    old "..."
-    new "……"
-
-    # game/williamroute3.rpy:660
-    old "Take care of that, Cocksucker."
-    new "幫他射出來，吸屌的。"
-
-    # game/williamroute3.rpy:660
-    old "He’ll be able to use his own hands once I’m done with this."
-    new "他可以自己打出來，等我完事以後。"
-
-    # game/williamroute3.rpy:1364
-    old "Where am I going first?"
-    new "從哪裡開始？"
-
-    # game/williamroute3.rpy:1364
-    old "City Hall."
-    new "鎮公所。"
-
-    # game/williamroute3.rpy:1364
-    old "The Stag."
-    new "Stag酒館。"
-
-    # game/williamroute3.rpy:1744
-    old "What should I do right now?"
-    new "我該怎麼做？"
-
-    # game/williamroute3.rpy:1744
-    old "Talk to the Mayor."
-    new "去找Mayor。"
-
-    # game/williamroute3.rpy:1744
-    old "Talk to James."
-    new "跟上James。"
-
-    # game/williamroute3.rpy:2351
-    old "Where should I look right now?"
-    new "現在調查哪裡？"
-
-    # game/williamroute3.rpy:2351
-    old "Check the upper beams"
-    new "梁上。"
-
-    # game/williamroute3.rpy:2351
-    old "Check out the bar."
-    new "吧檯。"
-
-    # game/williamroute3.rpy:2401
-    old "Who should I approach?"
-    new "要找誰搭話？"
-
-    # game/williamroute3.rpy:2401
-    old "Talk to the sable."
-    new "黑貂。"
-
-    # game/williamroute3.rpy:2401
-    old "Talk to the miners."
-    new "礦工們。"
-
-    # game/williamroute3.rpy:3172
-    old "Now, who would be the most useful to talk to?"
-    new "誰最值得交談？"
-
-    # game/williamroute3.rpy:3172
-    old "Talk to Dora."
-    new "Dora。"
-
-    # game/williamroute3.rpy:3172
-    old "Talk to Harlan."
-    new "Harlan。"
-
-    # game/williamroute3.rpy:3172
-    old "Talk to Ethel."
-    new "Ethel。"
-
-    # game/williamroute3.rpy:3172
-    old "Talk to Cynthia."
-    new "Cynthia。"
-
 # game/williamroute3.rpy:3875
 translate Tchinese hipinvestigation_1417259d:
 
     # "The only other person who’d be easy to access is Ethel, sitting along on the couch."
     "唯一方便問話的另一個人是坐在沙發上的Ethel。"
-
-# TODO: Translation updated at 2022-04-15 22:58
 
 # game/williamroute3.rpy:2532
 translate Tchinese williamchallmenu_aed84f50:
@@ -12737,9 +12653,6 @@ translate Tchinese endofwillchallinterviews2_f53ed23b:
 
     # "I think it’s about time to head back to the station."
     "是時候回局裡了。"
-
-
-# TODO: Translation updated at 2022-09-27 14:24
 
 # game/williamroute3.rpy:1059
 translate Tchinese willbedchoice_7df56f8c:
@@ -19897,7 +19810,7 @@ translate Tchinese hattie_b61f0723:
 translate Tchinese hattie_c5ebdb8a:
 
     # gr "\"The men have work to do at closing time.\""
-    gr "“我們的員工在打樣時間可是很忙的。”"# TODO: Translation updated at 2022-12-20 02:52
+    gr "“我們的員工在打樣時間可是很忙的。”"
 
 # game/williamroute3.rpy:5696
 translate Tchinese hattie_ded1d576:
@@ -20144,4 +20057,86 @@ translate Tchinese hattie_161d49dd:
 
     # "And he opens it."
     "And he opens it."
+
+translate Tchinese strings:
+
+    # game/williamroute3.rpy:660
+    old "..."
+    new "……"
+
+    # game/williamroute3.rpy:660
+    old "Take care of that, Cocksucker."
+    new "幫他射出來，吸屌的。"
+
+    # game/williamroute3.rpy:660
+    old "He’ll be able to use his own hands once I’m done with this."
+    new "他可以自己打出來，等我完事以後。"
+
+    # game/williamroute3.rpy:1364
+    old "Where am I going first?"
+    new "從哪裡開始？"
+
+    # game/williamroute3.rpy:1364
+    old "City Hall."
+    new "鎮公所。"
+
+    # game/williamroute3.rpy:1364
+    old "The Stag."
+    new "Stag酒館。"
+
+    # game/williamroute3.rpy:1744
+    old "What should I do right now?"
+    new "我該怎麼做？"
+
+    # game/williamroute3.rpy:1744
+    old "Talk to the Mayor."
+    new "去找Mayor。"
+
+    # game/williamroute3.rpy:1744
+    old "Talk to James."
+    new "跟上James。"
+
+    # game/williamroute3.rpy:2351
+    old "Where should I look right now?"
+    new "現在調查哪裡？"
+
+    # game/williamroute3.rpy:2351
+    old "Check the upper beams"
+    new "梁上。"
+
+    # game/williamroute3.rpy:2351
+    old "Check out the bar."
+    new "吧檯。"
+
+    # game/williamroute3.rpy:2401
+    old "Who should I approach?"
+    new "要找誰搭話？"
+
+    # game/williamroute3.rpy:2401
+    old "Talk to the sable."
+    new "黑貂。"
+
+    # game/williamroute3.rpy:2401
+    old "Talk to the miners."
+    new "礦工們。"
+
+    # game/williamroute3.rpy:3172
+    old "Now, who would be the most useful to talk to?"
+    new "誰最值得交談？"
+
+    # game/williamroute3.rpy:3172
+    old "Talk to Dora."
+    new "Dora。"
+
+    # game/williamroute3.rpy:3172
+    old "Talk to Harlan."
+    new "Harlan。"
+
+    # game/williamroute3.rpy:3172
+    old "Talk to Ethel."
+    new "Ethel。"
+
+    # game/williamroute3.rpy:3172
+    old "Talk to Cynthia."
+    new "Cynthia。"
 

@@ -1,3 +1,5 @@
+# TODO: Translation updated at 2022-12-23 16:06
+
 # game/williamroute2.rpy:12
 translate Schinese williamroute2_5cf8bf4a:
 

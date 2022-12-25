@@ -1,3 +1,5 @@
+# TODO: Translation updated at 2022-12-23 16:06
+
 # game/Murdochroute.rpy:8
 translate Schinese Murdochroute_cf4c7735:
 

@@ -1,3 +1,5 @@
+# TODO: Translation updated at 2022-07-07 15:37
+
 # game/nikroute.rpy:3
 translate Tchinese nikroute_38b05af4:
 
@@ -6550,8 +6552,6 @@ translate Tchinese nikroute_91559ea8:
     # "Yao leads us inside."
     "Yao帶領我們走進礦井。"
 
-# TODO: Translation updated at 2022-04-15 22:58
-
 # game/nikroute.rpy:1176
 translate Tchinese nikroute_5ede5f07:
 
@@ -6611,4 +6611,6 @@ translate Tchinese nikroute_9e885f95:
 
     # chsb "\"And occasionally interpret for the men who can't speak the local language.\""
     chsb "“偶爾也幫不會說當地語言的人翻譯。”"
+
+translate Tchinese strings:
 

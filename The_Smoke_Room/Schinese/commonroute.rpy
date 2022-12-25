@@ -1,3 +1,5 @@
+# TODO: Translation updated at 2022-12-23 16:06
+
 # game/commonroute.rpy:7
 translate Schinese commonroute_ed791d5b:
 

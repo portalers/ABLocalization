@@ -8922,33 +8922,6 @@ translate Tchinese sny1_fec97169:
     # "To be continued..."
     "未完待續……"
 
-translate Tchinese strings:
-
-    # game/nikroute3.rpy:1056
-    old "I..."
-    new "我……"
-
-    # game/nikroute3.rpy:1056
-    old "I need to think on it."
-    new "讓我考慮考慮。"
-
-    # game/nikroute3.rpy:1056
-    old "Absolutely."
-    new "完全願意。"
-
-    # game/nikroute3.rpy:1714
-    old "Am I into this?"
-    new "我想這麼做嗎？"
-
-    # game/nikroute3.rpy:1714
-    old "Yeah!"
-    new "好耶！"
-
-    # game/nikroute3.rpy:1714
-    old "I'm good."
-    new "不用了。"
-# TODO: Translation updated at 2022-12-20 02:52
-
 # game/nikroute3.rpy:54
 translate Tchinese nikroute3_8eb35f61:
 
@@ -12074,4 +12047,30 @@ translate Tchinese sny3_fec97169:
 
     # "To be continued..."
     "To be continued..."
+
+translate Tchinese strings:
+
+    # game/nikroute3.rpy:1056
+    old "I..."
+    new "我……"
+
+    # game/nikroute3.rpy:1056
+    old "I need to think on it."
+    new "讓我考慮考慮。"
+
+    # game/nikroute3.rpy:1056
+    old "Absolutely."
+    new "完全願意。"
+
+    # game/nikroute3.rpy:1714
+    old "Am I into this?"
+    new "我想這麼做嗎？"
+
+    # game/nikroute3.rpy:1714
+    old "Yeah!"
+    new "好耶！"
+
+    # game/nikroute3.rpy:1714
+    old "I'm good."
+    new "不用了。"
 

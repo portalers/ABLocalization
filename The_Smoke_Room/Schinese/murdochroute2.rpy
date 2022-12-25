@@ -1,3 +1,5 @@
+# TODO: Translation updated at 2022-12-23 16:06
+
 # game/murdochroute2.rpy:11
 translate Schinese murdochroute2_47a8bff9:
 
@@ -11385,8 +11387,6 @@ translate Schinese murdochroute2_98662624:
 
     # "She stops climbing when her gaze meets mine."
     "她与我四目相对，停在了楼梯上。"
-
-# TODO: Translation updated at 2021-06-05 14:22
 
 # game/murdochroute2.rpy:3163
 translate Schinese murdochroute2_63fb1600:
@@ -28572,7 +28572,7 @@ translate Schinese strings:
 
     # game/murdochroute2.rpy:6386
     old "500?"
-    new "500？"# TODO: Translation updated at 2022-06-12 19:30
+    new "500？"
 
 # game/murdochroute2.rpy:151
 translate Schinese murdochroute2_cdfede9c:

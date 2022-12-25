@@ -1,3 +1,5 @@
+# TODO: Translation updated at 2022-12-23 16:06
+
 # game/cliffroute.rpy:8
 translate Schinese cliffroute_38b05af4:
 
@@ -7486,22 +7488,6 @@ translate Schinese after_smc1_01667ad5:
     # "I feel I'm going to have to start watching my back with him around."
     "我觉得在他身边时，自己必须小心警戒身后。"
 
-translate Schinese strings:
-
-    # game/cliffroute.rpy:1745
-    old "Do I?"
-    new "我的意见是？"
-
-    # game/cliffroute.rpy:1745
-    old "I do"
-    new "不赞成"
-
-    # game/cliffroute.rpy:1745
-    old "I don't"
-    new "没有异议"
-
-# TODO: Translation updated at 2022-04-16 12:06
-
 # game/cliffroute.rpy:12
 translate Schinese cliffroute_13d6feaf:
 
@@ -8550,3 +8536,14 @@ translate Schinese strings:
     old "Don't object"
     new "不反对"
 
+    # game/cliffroute.rpy:1745
+    old "Do I?"
+    new "我的意见是？"
+
+    # game/cliffroute.rpy:1745
+    old "I do"
+    new "不赞成"
+
+    # game/cliffroute.rpy:1745
+    old "I don't"
+    new "没有异议"

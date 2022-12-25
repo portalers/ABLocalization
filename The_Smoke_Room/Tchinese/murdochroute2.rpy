@@ -28542,34 +28542,6 @@ translate Tchinese mdq2_9ec80b3b:
     # "I almost forget to take the suit with me, but I snatch it up from the closet right before I leave."
     "我差點就忘了正裝，但在臨走前從衣櫃帶上了。"
 
-translate Tchinese strings:
-
-    # game/murdochroute2.rpy:5463
-    old "He looks..."
-    new "他看起來……"
-
-    # game/murdochroute2.rpy:5463
-    old "Just fine"
-    new "挺不賴的"
-
-    # game/murdochroute2.rpy:6397
-    old "Well let’s see..."
-    new "這個嘛……"
-
-    # game/murdochroute2.rpy:6397
-    old "300?"
-    new "300？"
-
-    # game/murdochroute2.rpy:6397
-    old "400?"
-    new "400？"
-
-    # game/murdochroute2.rpy:6397
-    old "500?"
-    new "500？"
-
-# TODO: Translation updated at 2022-06-12 19:30
-
 # game/murdochroute2.rpy:151
 translate Tchinese murdochroute2_cdfede9c:
 
@@ -28713,3 +28685,30 @@ translate Tchinese murdochroute2_de7b25f1:
 
     # m "\"Speakin' of which...\""
     m "\"說到這裡……\""
+
+translate Tchinese strings:
+
+    # game/murdochroute2.rpy:5463
+    old "He looks..."
+    new "他看起來……"
+
+    # game/murdochroute2.rpy:5463
+    old "Just fine"
+    new "挺不賴的"
+
+    # game/murdochroute2.rpy:6397
+    old "Well let’s see..."
+    new "這個嘛……"
+
+    # game/murdochroute2.rpy:6397
+    old "300?"
+    new "300？"
+
+    # game/murdochroute2.rpy:6397
+    old "400?"
+    new "400？"
+
+    # game/murdochroute2.rpy:6397
+    old "500?"
+    new "500？"
+
