@@ -6553,5 +6553,3 @@ translate Schinese nikroute_91559ea8:
 # TODO: Translation updated at 2022-04-16 12:06
 
 # game/nikroute.rpy:1176
-translate Schinese strings:
-

@@ -8937,26 +8937,27 @@ translate Schinese sny3_fec97169:
 
 translate Schinese strings:
 
-    # game/nikroute3.rpy:1056
+    # game/nikroute3.rpy:1263
     old "I..."
-    new "我..."
+    new ""
 
-    # game/nikroute3.rpy:1056
+    # game/nikroute3.rpy:1263
     old "I need to think on it."
-    new "我想考虑考虑。"
+    new ""
 
-    # game/nikroute3.rpy:1056
+    # game/nikroute3.rpy:1263
     old "Absolutely."
-    new "完全愿意。"
+    new ""
 
-    # game/nikroute3.rpy:1714
+    # game/nikroute3.rpy:1954
     old "Am I into this?"
-    new "我想这么做吗？"
+    new ""
 
-    # game/nikroute3.rpy:1714
+    # game/nikroute3.rpy:1954
     old "Yeah!"
-    new "好耶！"
+    new ""
 
-    # game/nikroute3.rpy:1714
+    # game/nikroute3.rpy:1954
     old "I'm good."
-    new "不用了。"
+    new ""
+

@@ -19712,85 +19712,83 @@ translate Schinese hattie_fec97169:
 
 translate Schinese strings:
 
+    # game/williamroute3.rpy:682
     old "..."
-    new "……"
+    new ""
 
-    # game/williamroute3.rpy:680
+    # game/williamroute3.rpy:682
     old "Take care of that, Cocksucker."
-    new "帮他射出来，基佬。"
+    new ""
 
-    # game/williamroute3.rpy:680
+    # game/williamroute3.rpy:682
     old "He’ll be able to use his own hands once I’m done with this."
-    new "他可以自己打出来，等我完事以后。"
+    new ""
 
-    # game/williamroute3.rpy:1351
+    # game/williamroute3.rpy:1354
     old "Where am I going first?"
-    new "从哪里开始？"
+    new ""
 
-    # game/williamroute3.rpy:1351
+    # game/williamroute3.rpy:1354
     old "City Hall."
-    new "镇公所。"
+    new ""
 
-    # game/williamroute3.rpy:1351
+    # game/williamroute3.rpy:1354
     old "The Stag."
-    new "Stag酒馆。"
+    new ""
 
-    # game/williamroute3.rpy:1953
+    # game/williamroute3.rpy:1955
     old "What should I do right now?"
-    new "我该怎么做？"
+    new ""
 
-    # game/williamroute3.rpy:1953
+    # game/williamroute3.rpy:1955
     old "Talk to the Mayor."
-    new "去找Mayor。"
+    new ""
 
-    # game/williamroute3.rpy:1953
+    # game/williamroute3.rpy:1955
     old "Talk to James."
-    new "跟上James。"
+    new ""
 
-    # game/williamroute3.rpy:2798
+    # game/williamroute3.rpy:2800
     old "Where should I look right now?"
-    new "现在调查哪里？"
+    new ""
 
-    # game/williamroute3.rpy:2798
+    # game/williamroute3.rpy:2800
     old "Check the upper beams"
-    new "梁上。"
+    new ""
 
-    # game/williamroute3.rpy:2798
+    # game/williamroute3.rpy:2800
     old "Check out the bar."
-    new "吧台。"
+    new ""
 
-    # game/williamroute3.rpy:2850
+    # game/williamroute3.rpy:2852
     old "Who should I approach?"
-    new "要找谁搭话？"
+    new ""
 
-    # game/williamroute3.rpy:2850
+    # game/williamroute3.rpy:2852
     old "Talk to the sable."
-    new "黑貂。"
+    new ""
 
-    # game/williamroute3.rpy:2850
+    # game/williamroute3.rpy:2852
     old "Talk to the miners."
-    new "矿工们。"
+    new ""
 
-    # game/williamroute3.rpy:3874
+    # game/williamroute3.rpy:3884
     old "Now, who would be the most useful to talk to?"
-    new "谁最值得交谈？"
+    new ""
 
-    # game/williamroute3.rpy:3874
+    # game/williamroute3.rpy:3884
     old "Talk to Dora."
-    new "Dora。"
+    new ""
 
-    # game/williamroute3.rpy:3874
+    # game/williamroute3.rpy:3884
     old "Talk to Harlan."
-    new "Harlan。"
+    new ""
 
-    # game/williamroute3.rpy:3874
+    # game/williamroute3.rpy:3884
     old "Talk to Ethel."
-    new "Ethel。"
+    new ""
 
-    # game/williamroute3.rpy:3874
+    # game/williamroute3.rpy:3884
     old "Talk to Cynthia."
-    new "Cynthia。"
+    new ""
 
-# TODO: Translation updated at 2022-09-27 14:24
-
-# game/williamroute3.rpy:1059

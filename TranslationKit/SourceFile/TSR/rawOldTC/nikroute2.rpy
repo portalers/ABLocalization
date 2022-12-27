@@ -9428,7 +9428,7 @@ translate Tchinese sny1_3a4e5e3e:
 translate Tchinese sny1_4884eea5:
 
     # "I rub the back of my neck, feeling the pressure there, and let out a breath of air."
-     "我揉了揉僵硬的脖子，吐出一大口氣。"
+    "我揉了揉僵硬的脖子，吐出一大口氣。"
 
 # game/nikroute2.rpy:2770
 translate Tchinese sny1_20dcc83c:
@@ -9620,7 +9620,7 @@ translate Tchinese sny1_07d6a5f0:
 translate Tchinese sny1_43f4af88:
 
     # "I blink from that sudden, loud vocalization that’s still ringing in my ears, and then I sit up and look around."
-   "突如其來的巨大聲響迴盪在我的耳邊，我眨眨眼，起身環顧四周。"
+    "突如其來的巨大聲響迴盪在我的耳邊，我眨眨眼，起身環顧四周。"
 
 # game/nikroute2.rpy:2828
 translate Tchinese sny1_61a7c116:
@@ -9680,7 +9680,7 @@ translate Tchinese sny1_ef1d7b03:
 translate Tchinese sny1_a242ff3d:
 
     # "But the snoring continues."
-   "然而鼾聲依舊。"
+    "然而鼾聲依舊。"
 
 # game/nikroute2.rpy:2840
 translate Tchinese sny1_7618d923:
@@ -10202,7 +10202,7 @@ translate Tchinese sny1_936204db:
 translate Tchinese sny1_af2eca74:
 
     # "He looks at me as if he expects me to respond to that, but it’s true, so I have nothing to add."
-   "他看著我，像是在期待我的反應，但這是事實，所以我也沒有什麼好說的。"
+    "他看著我，像是在期待我的反應，但這是事實，所以我也沒有什麼好說的。"
 
 # game/nikroute2.rpy:2981
 translate Tchinese sny1_6f054db3:
@@ -10298,7 +10298,7 @@ translate Tchinese sny1_7ba70a68:
 translate Tchinese sny1_01dd1be9:
 
     # ben "\"I think you’ll do just fine.\""
-   ben "“我看好你，小子。”"
+    ben "“我看好你，小子。”"
 
 # game/nikroute2.rpy:3014
 translate Tchinese sny1_1dfc7b4e_1:
@@ -10802,7 +10802,7 @@ translate Tchinese sny1_50fbb6a7:
 translate Tchinese sny1_84143c64:
 
     # bk "\"We haven’t made much progress on expanding the main shaft or digging deeper, and the exposed veins will be picked dry before long.\""
-   bk "“開拓主井和深挖方面的進展不大，用不了多久，露天礦脈便會被挖個一乾二淨。”"
+    bk "“開拓主井和深挖方面的進展不大，用不了多久，露天礦脈便會被挖個一乾二淨。”"
 
 # game/nikroute2.rpy:3209
 translate Tchinese sny1_1241cca5:
@@ -13556,7 +13556,7 @@ translate Tchinese sny1_3750563c:
 translate Tchinese sny1_b9861be3:
 
     # bk "\"If any of my boys saw you get a complete set of sparkling new tools you’d have made a bitter enemy out of every one of ‘em.\""
-   bk "“看見這套亮閃閃的新工具，沒哪個伙伴不會眼紅的。”"
+    bk "“看見這套亮閃閃的新工具，沒哪個伙伴不會眼紅的。”"
 
 # game/nikroute2.rpy:4199
 translate Tchinese sny1_2cb1ec0e:
@@ -17744,7 +17744,7 @@ translate Tchinese sellcomp_4021fba1:
 translate Tchinese sellcomp_eb2f1b15:
 
     # m "\"Wait for what?\""
-   m "“等什麼？”"
+    m "“等什麼？”"
 
 # game/nikroute2.rpy:5799
 translate Tchinese sellcomp_b4b5fc60:
@@ -17912,7 +17912,7 @@ translate Tchinese sellcomp_82fd1119:
 translate Tchinese sellcomp_73512fc7:
 
     # m "\"I’d hope so.\""
-   m "“我希望如此。”"
+    m "“我希望如此。”"
 
 # game/nikroute2.rpy:5849
 translate Tchinese sellcomp_1ace9b0e:
@@ -18128,7 +18128,7 @@ translate Tchinese sellcomp_cfac2243:
 translate Tchinese sellcomp_ba988e02:
 
     # "He looks away."
-   "他別過目光。"
+    "他別過目光。"
 
 # game/nikroute2.rpy:5927
 translate Tchinese sellcomp_9922a9e0:
@@ -18272,7 +18272,7 @@ translate Tchinese sellcomp_c806ebc0:
 translate Tchinese sellcomp_e63db8c0:
 
     # "I see his balls retract and the skin beneath his taint start to spasm."
-   "我看見他的卵蛋收縮、後庭上方的皮膚一緊。"
+    "我看見他的卵蛋收縮、後庭上方的皮膚一緊。"
 
 # game/nikroute2.rpy:5979
 translate Tchinese sellcomp_fd84a2c5:
@@ -22646,7 +22646,7 @@ translate Tchinese locker1bright_f004484a:
 translate Tchinese locker1bright_ae7f833b:
 
     # ni "\"Did you just use a contraction?\""
-   ni "“你剛剛是不是用了簡稱？”"
+    ni "“你剛剛是不是用了簡稱？”"
 
 # game/nikroute2.rpy:7719
 translate Tchinese locker1bright_c3b4965f:

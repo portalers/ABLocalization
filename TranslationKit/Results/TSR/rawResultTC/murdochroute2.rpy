@@ -28542,30 +28542,27 @@ translate Tchinese mdq2_9ec80b3b:
 
 translate Tchinese strings:
 
-    # game/murdochroute2.rpy:5463
+    # game/murdochroute2.rpy:5462
     old "He looks..."
-    new "他看起來……"
+    new ""
 
-    # game/murdochroute2.rpy:5463
+    # game/murdochroute2.rpy:5462
     old "Just fine"
-    new "挺不賴的"
+    new ""
 
-    # game/murdochroute2.rpy:6397
+    # game/murdochroute2.rpy:6396
     old "Well let’s see..."
-    new "這個嘛……"
+    new ""
 
-    # game/murdochroute2.rpy:6397
+    # game/murdochroute2.rpy:6396
     old "300?"
-    new "300？"
+    new ""
 
-    # game/murdochroute2.rpy:6397
+    # game/murdochroute2.rpy:6396
     old "400?"
-    new "400？"
+    new ""
 
-    # game/murdochroute2.rpy:6397
+    # game/murdochroute2.rpy:6396
     old "500?"
-    new "500？"
+    new ""
 
-# TODO: Translation updated at 2022-06-12 19:30
-
-# game/murdochroute2.rpy:151

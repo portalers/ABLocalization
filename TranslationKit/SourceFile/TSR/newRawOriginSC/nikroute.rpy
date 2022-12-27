@@ -6551,6 +6551,3 @@ translate Schinese nikroute_91559ea8:
 
     # "Yao leads us inside."
     ""
-
-translate Schinese strings:
-

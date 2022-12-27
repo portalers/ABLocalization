@@ -9430,7 +9430,7 @@ translate Tchinese sny1_3a4e5e3e:
 translate Tchinese sny1_4884eea5:
 
     # "I rub the back of my neck, feeling the pressure there, and let out a breath of air."
-     "我揉了揉僵硬的脖子，吐出一大口氣。"
+    "我揉了揉僵硬的脖子，吐出一大口氣。"
 
 # game/nikroute2.rpy:2770
 translate Tchinese sny1_20dcc83c:
@@ -9622,7 +9622,7 @@ translate Tchinese sny1_07d6a5f0:
 translate Tchinese sny1_43f4af88:
 
     # "I blink from that sudden, loud vocalization that’s still ringing in my ears, and then I sit up and look around."
-   "突如其來的巨大聲響迴盪在我的耳邊，我眨眨眼，起身環顧四周。"
+    "突如其來的巨大聲響迴盪在我的耳邊，我眨眨眼，起身環顧四周。"
 
 # game/nikroute2.rpy:2828
 translate Tchinese sny1_61a7c116:
@@ -9682,7 +9682,7 @@ translate Tchinese sny1_ef1d7b03:
 translate Tchinese sny1_a242ff3d:
 
     # "But the snoring continues."
-   "然而鼾聲依舊。"
+    "然而鼾聲依舊。"
 
 # game/nikroute2.rpy:2840
 translate Tchinese sny1_7618d923:
@@ -10204,7 +10204,7 @@ translate Tchinese sny1_936204db:
 translate Tchinese sny1_af2eca74:
 
     # "He looks at me as if he expects me to respond to that, but it’s true, so I have nothing to add."
-   "他看著我，像是在期待我的反應，但這是事實，所以我也沒有什麼好說的。"
+    "他看著我，像是在期待我的反應，但這是事實，所以我也沒有什麼好說的。"
 
 # game/nikroute2.rpy:2981
 translate Tchinese sny1_6f054db3:
@@ -10300,7 +10300,7 @@ translate Tchinese sny1_7ba70a68:
 translate Tchinese sny1_01dd1be9:
 
     # ben "\"I think you’ll do just fine.\""
-   ben "“我看好你，小子。”"
+    ben "“我看好你，小子。”"
 
 # game/nikroute2.rpy:3014
 translate Tchinese sny1_1dfc7b4e_1:
@@ -10804,7 +10804,7 @@ translate Tchinese sny1_50fbb6a7:
 translate Tchinese sny1_84143c64:
 
     # bk "\"We haven’t made much progress on expanding the main shaft or digging deeper, and the exposed veins will be picked dry before long.\""
-   bk "“開拓主井和深挖方面的進展不大，用不了多久，露天礦脈便會被挖個一乾二淨。”"
+    bk "“開拓主井和深挖方面的進展不大，用不了多久，露天礦脈便會被挖個一乾二淨。”"
 
 # game/nikroute2.rpy:3209
 translate Tchinese sny1_1241cca5:
@@ -13558,7 +13558,7 @@ translate Tchinese sny1_3750563c:
 translate Tchinese sny1_b9861be3:
 
     # bk "\"If any of my boys saw you get a complete set of sparkling new tools you’d have made a bitter enemy out of every one of ‘em.\""
-   bk "“看見這套亮閃閃的新工具，沒哪個伙伴不會眼紅的。”"
+    bk "“看見這套亮閃閃的新工具，沒哪個伙伴不會眼紅的。”"
 
 # game/nikroute2.rpy:4199
 translate Tchinese sny1_2cb1ec0e:
@@ -17748,7 +17748,7 @@ translate Tchinese sellcomp_4021fba1:
 translate Tchinese sellcomp_eb2f1b15:
 
     # m "\"Wait for what?\""
-   m "“等什麼？”"
+    m "“等什麼？”"
 
 # game/nikroute2.rpy:5799
 translate Tchinese sellcomp_b4b5fc60:
@@ -17916,7 +17916,7 @@ translate Tchinese sellcomp_82fd1119:
 translate Tchinese sellcomp_73512fc7:
 
     # m "\"I’d hope so.\""
-   m "“我希望如此。”"
+    m "“我希望如此。”"
 
 # game/nikroute2.rpy:5849
 translate Tchinese sellcomp_1ace9b0e:
@@ -18132,7 +18132,7 @@ translate Tchinese sellcomp_cfac2243:
 translate Tchinese sellcomp_ba988e02:
 
     # "He looks away."
-   "他別過目光。"
+    "他別過目光。"
 
 # game/nikroute2.rpy:5927
 translate Tchinese sellcomp_9922a9e0:
@@ -18276,7 +18276,7 @@ translate Tchinese sellcomp_c806ebc0:
 translate Tchinese sellcomp_e63db8c0:
 
     # "I see his balls retract and the skin beneath his taint start to spasm."
-   "我看見他的卵蛋收縮、後庭上方的皮膚一緊。"
+    "我看見他的卵蛋收縮、後庭上方的皮膚一緊。"
 
 # game/nikroute2.rpy:5979
 translate Tchinese sellcomp_fd84a2c5:
@@ -22650,7 +22650,7 @@ translate Tchinese locker1bright_f004484a:
 translate Tchinese locker1bright_ae7f833b:
 
     # ni "\"Did you just use a contraction?\""
-   ni "“你剛剛是不是用了簡稱？”"
+    ni "“你剛剛是不是用了簡稱？”"
 
 # game/nikroute2.rpy:7719
 translate Tchinese locker1bright_c3b4965f:
@@ -25410,132 +25410,125 @@ translate Tchinese strings:
 
     # game/nikroute2.rpy:1352
     old "Should I shut him down?"
-    new "我該讓他閉嘴嗎？"
+    new ""
 
     # game/nikroute2.rpy:1352
     old "This is all way too suspicious."
-    new "這也太可疑了。"
+    new ""
 
     # game/nikroute2.rpy:1352
     old "Maybe not. He seems helpful."
-    new "算了，他好像派的上用場。"
+    new ""
 
-    # game/nikroute2.rpy:5497
+    # game/nikroute2.rpy:5499
     old "Who should I name?"
-    new "我該說誰？"
+    new ""
 
-    # game/nikroute2.rpy:5497
+    # game/nikroute2.rpy:5499
     old "Nik."
-    new "Nik。"
+    new ""
 
-    # game/nikroute2.rpy:5497
+    # game/nikroute2.rpy:5499
     old "Yao."
-    new "Yao。"
+    new ""
 
-    # game/nikroute2.rpy:5497
+    # game/nikroute2.rpy:5499
     old "Ben."
-    new "Ben。"
+    new ""
 
-    # game/nikroute2.rpy:5497
+    # game/nikroute2.rpy:5499
     old "Felipe."
-    new "Felipe。"
+    new ""
 
-    # game/nikroute2.rpy:5497
+    # game/nikroute2.rpy:5499
     old "Paul."
-    new "Paul。"
+    new ""
 
-    # game/nikroute2.rpy:5497
+    # game/nikroute2.rpy:5499
     old "Dimitri."
-    new "Dimitri。"
+    new ""
 
-    # game/nikroute2.rpy:7425
+    # game/nikroute2.rpy:7427
     old "...what was my combination again?"
-    new "……我的鎖頭組合是什麼來著？"
+    new ""
 
-    # game/nikroute2.rpy:7425
+    # game/nikroute2.rpy:7427
     old "8 turning right."
-    new "右轉8。"
+    new ""
 
-    # game/nikroute2.rpy:7425
+    # game/nikroute2.rpy:7427
     old "8 turning left."
-    new "左轉8。"
+    new ""
 
-    # game/nikroute2.rpy:7425
+    # game/nikroute2.rpy:7427
     old "9 turning left."
-    new "左轉9。"
+    new ""
 
-    # game/nikroute2.rpy:7430
+    # game/nikroute2.rpy:7432
     old "15 Turning left."
-    new "左轉15。"
+    new ""
 
-    # game/nikroute2.rpy:7430
+    # game/nikroute2.rpy:7432
     old "16 Turning left."
-    new "左轉16。"
+    new ""
 
-    # game/nikroute2.rpy:7433
+    # game/nikroute2.rpy:7435
     old "3 turning left."
-    new "左轉3。"
+    new ""
 
-    # game/nikroute2.rpy:7433
+    # game/nikroute2.rpy:7435
     old "4 Turning left."
-    new "左轉4。"
+    new ""
 
-    # game/nikroute2.rpy:7433
+    # game/nikroute2.rpy:7435
     old "5 Turning left."
-    new "左轉5。"
+    new ""
 
-    # game/nikroute2.rpy:7483
+    # game/nikroute2.rpy:7485
     old "15 Turning right."
-    new "右轉15。"
+    new ""
 
-    # game/nikroute2.rpy:7483
+    # game/nikroute2.rpy:7485
     old "16 Turning right."
-    new "右轉16。"
+    new ""
 
-    # game/nikroute2.rpy:8368
+    # game/nikroute2.rpy:8370
     old "Choose a direction."
-    new "選擇方向。"
-
-    # game/nikroute2.rpy:8368
-    old "Straight"
-    new "直走"
-
-    # game/nikroute2.rpy:8402
-    old "Straight, right, left, left, right, pass one. What's the next direction?"
-    new "直走、右轉、左轉、左轉、右轉、經過一個岔路。下個方向是？"
-
-    # game/nikroute2.rpy:8436
-    old "I passed one, then went right. What's the next direction?"
-    new "我過了一個岔路，然後右轉。接下來是哪個方向？"
-
-    # game/nikroute2.rpy:8469
-    old "Was it the left tunnel or the right tunnel that leads out?"
-    new "左邊跟右邊的隧道哪個通向出口？"
-
-    # game/nikroute2.rpy:8469
-    old "The map's right, my left."
-    new "地圖的右邊，我的左邊。"
-
-    # game/nikroute2.rpy:8469
-    old "The map's left, my right,"
-    new "地圖的左邊，我的右邊。"
-
-# TODO: Translation updated at 2021-12-17 22:04
-
-# game/nikroute2.rpy:7918
+    new ""
 
     # game/nikroute2.rpy:8370
     old "Left."
-    new "向左"
+    new ""
 
     # game/nikroute2.rpy:8370
     old "Straight."
-    new "直走"
+    new ""
 
     # game/nikroute2.rpy:8370
     old "Right."
-    new "向右"
+    new ""
 
-# TODO: Translation updated at 2022-04-15 22:58
+    # game/nikroute2.rpy:8404
+    old "Straight, right, left, left, right, pass one. What's the next direction?"
+    new ""
 
-# game/nikroute2.rpy:1924
+    # game/nikroute2.rpy:8438
+    old "I passed one, then went right. What's the next direction?"
+    new ""
+
+    # game/nikroute2.rpy:8471
+    old "Was it the left tunnel or the right tunnel that leads out?"
+    new ""
+
+    # game/nikroute2.rpy:8471
+    old "The map's right, my left."
+    new ""
+
+    # game/nikroute2.rpy:8471
+    old "Straight"
+    new ""
+
+    # game/nikroute2.rpy:8471
+    old "The map's left, my right,"
+    new ""
+

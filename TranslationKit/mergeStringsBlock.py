@@ -2,12 +2,11 @@ def normalizeFile(rawFile, S0T1):
     localRawFile = rawFile[:]
     pattern = ['translate Schinese ', 'translate Tchinese ']
     tmpContent = []
-
-    #construct field: {'headerWords':[str, str, ...], 'content':[{hash:[str, str, str]}, {hash:[str, str, str]}, ...]}
-    newOriginDict = {'headerWords':[], 'orderedHash':[], 'content':[], 'duplicateHash':False}
-    
+    newOriginDict = {'headerWords':[], 'orderedHash':[], 'content':[], 'duplicateHash':False, 'cotainStringsBlock':False}
 
     rawFileHash = [line for line in localRawFile if pattern[S0T1] in line]
+    if rawFileHash.count(pattern[S0T1]+'strings:\n'):
+        newOriginDict['cotainStringsBlock'] = True
     newOriginDict['headerWords'].extend(localRawFile[:localRawFile.index(rawFileHash[0])])
 
     #merge and condense 'translate [TranslationFile] strings' text blocks to the bottom of the file
@@ -16,6 +15,12 @@ def normalizeFile(rawFile, S0T1):
         startPositionHash = rawFileHash.index(pattern[S0T1]+'strings:\n')
         startPositionContent = localRawFile.index(pattern[S0T1]+'strings:\n')
         try:
+            while rawFileHash[startPositionHash+1] == pattern[S0T1]+'strings:\n':
+                rawFileHash.pop(startPositionHash+1)
+                localRawFile.pop(startPositionContent)
+                nextPatterPosAtLocalRaw = localRawFile.index(pattern[S0T1]+'strings:\n')+1
+                localRawFile.insert(startPositionContent, pattern[S0T1]+'strings:\n')
+                localRawFile.pop(nextPatterPosAtLocalRaw)
             endPositionContent = localRawFile.index(rawFileHash[startPositionHash+1])
         except:
             endPositionContent = len(localRawFile)

@@ -27,5 +27,5 @@ if __name__ == "__main__":
         print(f)
         findDiff.findDiff(fNew=newOriginSCPath+f, fOld=oldSCPath+f, diffResult=resultSCPath+diffPath+diffPrefix+f, S0T1=0, followOrginOrder=True)
         findDiff.findDiff(fNew=newOriginTCPath+f, fOld=oldTCPath+f, diffResult=resultTCPath+diffPath+diffPrefix+f, S0T1=1, followOrginOrder=True)
-        initNewTransFile.initNewTransFileHiTole(fNew=newOriginSCPath+f, fOld=oldSCPath+f, initResult=resultSCPath+f, S0T1=0)
-        initNewTransFile.initNewTransFileHiTole(fNew=newOriginTCPath+f, fOld=oldTCPath+f, initResult=resultTCPath+f, S0T1=1)
+        initNewTransFile.initNewTransFileHiTole(fNew=newOriginSCPath+f, fOld=oldSCPath+f, initResult=resultSCPath+f, S0T1=0, stringsBlockOverride=False)
+        initNewTransFile.initNewTransFileHiTole(fNew=newOriginTCPath+f, fOld=oldTCPath+f, initResult=resultTCPath+f, S0T1=1, stringsBlockOverride=False)

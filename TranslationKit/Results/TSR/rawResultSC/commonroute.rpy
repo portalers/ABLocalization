@@ -6453,18 +6453,19 @@ translate Schinese commonroute_90524780:
 
 translate Schinese strings:
 
-    # game/commonroute.rpy:1436
+    # game/commonroute.rpy:1555
     old "Fit Cliff in for a booking."
-    new "安排Cliff的预定"
+    new ""
 
-    # game/commonroute.rpy:1436
+    # game/commonroute.rpy:1555
     old "Take on Murdoch’s bet."
-    new "接受Murdoch的赌注"
+    new ""
 
-    # game/commonroute.rpy:1436
+    # game/commonroute.rpy:1555
     old "See if Nikolai is here."
-    new "去找Nikolai"
+    new ""
 
-    # game/commonroute.rpy:1436
+    # game/commonroute.rpy:1555
     old "Tell William the truth."
-    new "告诉William真相"
+    new ""
+

@@ -7815,27 +7815,15 @@ translate Schinese after_smc1_dd95f616:
 
 translate Schinese strings:
 
-    # game/cliffroute.rpy:1745
+    # game/cliffroute.rpy:1814
     old "Do I?"
-    new "我的意见是？"
+    new ""
 
-    # game/cliffroute.rpy:1745
-    old "I do"
-    new "不赞成"
-
-    # game/cliffroute.rpy:1745
-    old "I don't"
-    new "没有异议"
-
-# TODO: Translation updated at 2022-04-16 12:06
-
-# game/cliffroute.rpy:12
-
-    # game/cliffroute.rpy:1749
+    # game/cliffroute.rpy:1814
     old "Attempt to raise an objection"
-    new "提出异议"
+    new ""
 
-    # game/cliffroute.rpy:1749
+    # game/cliffroute.rpy:1814
     old "Don't object"
-    new "不反对"
+    new ""
 

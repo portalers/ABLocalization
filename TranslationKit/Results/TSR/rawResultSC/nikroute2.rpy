@@ -25409,134 +25409,125 @@ translate Schinese strings:
 
     # game/nikroute2.rpy:1352
     old "Should I shut him down?"
-    new "我该让他闭嘴吗？"
+    new ""
 
     # game/nikroute2.rpy:1352
     old "This is all way too suspicious."
-    new "这也太可疑了。"
+    new ""
 
     # game/nikroute2.rpy:1352
     old "Maybe not. He seems helpful."
-    new "算了，他好像派的上用场。"
+    new ""
 
-    # game/nikroute2.rpy:5497
+    # game/nikroute2.rpy:5499
     old "Who should I name?"
-    new "我该说谁？"
+    new ""
 
-    # game/nikroute2.rpy:5497
+    # game/nikroute2.rpy:5499
     old "Nik."
-    new "Nik。"
+    new ""
 
-    # game/nikroute2.rpy:5497
+    # game/nikroute2.rpy:5499
     old "Yao."
-    new "Yao。"
+    new ""
 
-    # game/nikroute2.rpy:5497
+    # game/nikroute2.rpy:5499
     old "Ben."
-    new "Ben。"
+    new ""
 
-    # game/nikroute2.rpy:5497
+    # game/nikroute2.rpy:5499
     old "Felipe."
-    new "Felipe。"
+    new ""
 
-    # game/nikroute2.rpy:5497
+    # game/nikroute2.rpy:5499
     old "Paul."
-    new "Paul。"
+    new ""
 
-    # game/nikroute2.rpy:5497
+    # game/nikroute2.rpy:5499
     old "Dimitri."
-    new "Dimitri。"
+    new ""
 
-    # game/nikroute2.rpy:7425
+    # game/nikroute2.rpy:7427
     old "...what was my combination again?"
-    new "...我的密码是多少来着？"
+    new ""
 
-    # game/nikroute2.rpy:7425
+    # game/nikroute2.rpy:7427
     old "8 turning right."
-    new "右转8。"
+    new ""
 
-    # game/nikroute2.rpy:7425
+    # game/nikroute2.rpy:7427
     old "8 turning left."
-    new "左转8。"
+    new ""
 
-    # game/nikroute2.rpy:7425
+    # game/nikroute2.rpy:7427
     old "9 turning left."
-    new "左转9。"
+    new ""
 
-    # game/nikroute2.rpy:7430
+    # game/nikroute2.rpy:7432
     old "15 Turning left."
-    new "左转15。"
+    new ""
 
-    # game/nikroute2.rpy:7430
+    # game/nikroute2.rpy:7432
     old "16 Turning left."
-    new "左转16。"
+    new ""
 
-    # game/nikroute2.rpy:7433
+    # game/nikroute2.rpy:7435
     old "3 turning left."
-    new "左转3。"
+    new ""
 
-    # game/nikroute2.rpy:7433
+    # game/nikroute2.rpy:7435
     old "4 Turning left."
-    new "左转4。"
+    new ""
 
-    # game/nikroute2.rpy:7433
+    # game/nikroute2.rpy:7435
     old "5 Turning left."
-    new "左转5。"
+    new ""
 
-    # game/nikroute2.rpy:7483
+    # game/nikroute2.rpy:7485
     old "15 Turning right."
-    new "右转15。"
+    new ""
 
-    # game/nikroute2.rpy:7483
+    # game/nikroute2.rpy:7485
     old "16 Turning right."
-    new "右转16。"
+    new ""
 
-    # game/nikroute2.rpy:8368
+    # game/nikroute2.rpy:8370
     old "Choose a direction."
-    new "选择方向。"
+    new ""
 
-    # game/nikroute2.rpy:8368
+    # game/nikroute2.rpy:8370
     old "Left."
-    new "左边。"
+    new ""
 
-    # game/nikroute2.rpy:8368
+    # game/nikroute2.rpy:8370
     old "Straight."
-    new "对面。"
+    new ""
 
-    # game/nikroute2.rpy:8368
+    # game/nikroute2.rpy:8370
     old "Right."
-    new "右边。"
+    new ""
 
-    # game/nikroute2.rpy:8402
+    # game/nikroute2.rpy:8404
     old "Straight, right, left, left, right, pass one. What's the next direction?"
-    new "直走、右转、左转、左转、右转、经过一个岔路。下个方向是？"
+    new ""
 
-    # game/nikroute2.rpy:8436
+    # game/nikroute2.rpy:8438
     old "I passed one, then went right. What's the next direction?"
-    new "我过了一个岔路，然后右转。接下来是哪个方向？"
+    new ""
 
-    # game/nikroute2.rpy:8469
+    # game/nikroute2.rpy:8471
     old "Was it the left tunnel or the right tunnel that leads out?"
-    new "左边和右边的隧道哪个通向出口？"
+    new ""
 
-    # game/nikroute2.rpy:8469
+    # game/nikroute2.rpy:8471
     old "The map's right, my left."
-    new "地图的右边，我的左边。"
-
-    # game/nikroute2.rpy:8469
-    old "The map's left, my right."
-    new "地图的左边，我的右边。"
-
-translate Schinese strings:
+    new ""
 
     # game/nikroute2.rpy:8471
     old "Straight"
-    new "对面"
+    new ""
 
     # game/nikroute2.rpy:8471
     old "The map's left, my right,"
-    new "地图的左边，我的右边。"
+    new ""
 
-# TODO: Translation updated at 2022-04-16 12:06
-
-# game/nikroute2.rpy:1924
