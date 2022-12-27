@@ -28546,28 +28546,27 @@ translate Schinese mdq2_9ec80b3b:
 
 translate Schinese strings:
 
-    # game/murdochroute2.rpy:5454
+    # game/murdochroute2.rpy:5462
     old "He looks..."
-    new "他看起来..."
+    new ""
 
-    # game/murdochroute2.rpy:5454
+    # game/murdochroute2.rpy:5462
     old "Just fine"
-    new "挺不赖的"
+    new ""
 
-    # game/murdochroute2.rpy:6386
+    # game/murdochroute2.rpy:6396
     old "Well let’s see..."
-    new "这个嘛..."
+    new ""
 
-    # game/murdochroute2.rpy:6386
+    # game/murdochroute2.rpy:6396
     old "300?"
-    new "300？"
+    new ""
 
-    # game/murdochroute2.rpy:6386
+    # game/murdochroute2.rpy:6396
     old "400?"
-    new "400？"
+    new ""
 
-    # game/murdochroute2.rpy:6386
+    # game/murdochroute2.rpy:6396
     old "500?"
-    new "500？"# TODO: Translation updated at 2022-06-12 19:30
+    new ""
 
-# game/murdochroute2.rpy:151

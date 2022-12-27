@@ -7816,27 +7816,15 @@ translate Tchinese after_smc1_dd95f616:
 
 translate Tchinese strings:
 
-    # game/cliffroute.rpy:1740
+    # game/cliffroute.rpy:1814
     old "Do I?"
-    new "我的意見是？"
+    new ""
 
-    # game/cliffroute.rpy:1740
-    old "I do"
-    new "不贊成"
-
-    # game/cliffroute.rpy:1740
-    old "I don't"
-    new "沒有異議"
-
-# TODO: Translation updated at 2022-04-15 22:58
-
-# game/cliffroute.rpy:12
-
-    # game/cliffroute.rpy:1749
+    # game/cliffroute.rpy:1814
     old "Attempt to raise an objection"
-    new "提出異議"
+    new ""
 
-    # game/cliffroute.rpy:1749
+    # game/cliffroute.rpy:1814
     old "Don't object"
-    new "不反對"
+    new ""
 

@@ -37,14 +37,19 @@ def initNewTransFile(fNew, fOld, initResult, S0T1):
 
 #High tolerance, Low efficiency, High memory, High cumulative error
 #For lazy tails, but still need to do a manual check to the 'translate [TranslationFile] strings' text block at the bottom
-def initNewTransFileHiTole(fNew, fOld, initResult, S0T1):
+def initNewTransFileHiTole(fNew, fOld, initResult, S0T1, stringsBlockOverride=False):
     with open(fNew, 'r') as fn, open(fOld, 'r') as fo, open(initResult, 'w') as r:
         fnOrigin = fn.readlines()
         foOrigin = fo.readlines()
         fnRefinedDict = mergeStringsBlock.normalizeFile(fnOrigin, S0T1)
         foRefinedDict = mergeStringsBlock.normalizeFile(foOrigin, S0T1)
-        
-        for i in range(len(fnRefinedDict['orderedHash'])):
+
+        if fnRefinedDict['cotainStringsBlock'] and not stringsBlockOverride:
+            workScope = len(fnRefinedDict['orderedHash'])-1
+        else:
+            workScope = len(fnRefinedDict['orderedHash'])
+
+        for i in range(workScope):
             try:
                 pos = foRefinedDict['orderedHash'].index(fnRefinedDict['orderedHash'][i])
                 fnRefinedDict['content'][i][fnRefinedDict['orderedHash'][i]] = foRefinedDict['content'][pos][foRefinedDict['orderedHash'][pos]]

@@ -1439,5 +1439,3 @@ translate Schinese murdochroute3_fec97169:
 
     # "To be continued..."
     "未完待续..."
-translate Schinese strings:
-

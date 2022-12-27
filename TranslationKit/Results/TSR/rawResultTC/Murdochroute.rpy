@@ -7103,13 +7103,13 @@ translate Tchinese strings:
 
     # game/Murdochroute.rpy:889
     old "Half?"
-    new "一半？"
+    new ""
 
     # game/Murdochroute.rpy:889
     old "A quarter?"
-    new "四分之一？"
+    new ""
 
     # game/Murdochroute.rpy:889
     old "Half a quarter?"
-    new "八分之一？"
+    new ""
 

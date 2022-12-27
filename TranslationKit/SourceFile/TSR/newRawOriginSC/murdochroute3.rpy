@@ -1439,6 +1439,3 @@ translate Schinese murdochroute3_fec97169:
 
     # "To be continued..."
     ""
-
-translate Schinese strings:
-

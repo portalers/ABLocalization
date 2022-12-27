@@ -6452,22 +6452,19 @@ translate Tchinese commonroute_90524780:
 
 translate Tchinese strings:
 
-    # game/commonroute.rpy:1436
+    # game/commonroute.rpy:1555
     old "Fit Cliff in for a booking."
-    new "安排Cliff的預定"
+    new ""
 
-    # game/commonroute.rpy:1436
+    # game/commonroute.rpy:1555
     old "Take on Murdoch’s bet."
-    new "接受Murdoch的賭注"
+    new ""
 
-    # game/commonroute.rpy:1436
+    # game/commonroute.rpy:1555
     old "See if Nikolai is here."
-    new "去找Nikolai"
+    new ""
 
-    # game/commonroute.rpy:1436
+    # game/commonroute.rpy:1555
     old "Tell William the truth."
-    new "告訴William真相"
+    new ""
 
-# TODO: Translation updated at 2022-12-20 02:52
-
-# game/commonroute.rpy:831

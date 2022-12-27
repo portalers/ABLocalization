@@ -13137,75 +13137,75 @@ translate Schinese sw2_733de148:
 
 translate Schinese strings:
 
-    # game/williamroute2.rpy:1101
+    # game/williamroute2.rpy:1236
     old "What can I even say?"
-    new "还有什么好说的呢？"
+    new ""
 
-    # game/williamroute2.rpy:1101
+    # game/williamroute2.rpy:1236
     old "Nothing. Remind him of his heartbeat."
-    new "什么也不说，点醒他的心意。"
+    new ""
 
-    # game/williamroute2.rpy:1101
+    # game/williamroute2.rpy:1236
     old "I think your duty to your family is noble."
-    new "我觉得你对自己的家庭已经仁至义尽了。"
+    new ""
 
-    # game/williamroute2.rpy:1101
+    # game/williamroute2.rpy:1236
     old "You made a hard choice."
-    new "你做了一个艰难的选择。"
+    new ""
 
-    # game/williamroute2.rpy:1101
+    # game/williamroute2.rpy:1236
     old "It’s okay to be a little bit selfish."
-    new "稍微自私点也没有关系。"
+    new ""
 
-    # game/williamroute2.rpy:2370
+    # game/williamroute2.rpy:2507
     old "I know what I need to do now."
-    new "我需要马上做些什么。"
+    new ""
 
-    # game/williamroute2.rpy:2370
+    # game/williamroute2.rpy:2507
     old "Call out to them."
-    new "招呼他们。"
+    new ""
 
-    # game/williamroute2.rpy:2370
+    # game/williamroute2.rpy:2507
     old "Hide."
-    new "藏起来。"
+    new ""
 
-    # game/williamroute2.rpy:2429
+    # game/williamroute2.rpy:2567
     old "What next?"
-    new "接下来呢？"
+    new ""
 
-    # game/williamroute2.rpy:2429
+    # game/williamroute2.rpy:2567
     old "Crouch and wait for him to leave"
-    new "蹲下身子等他离开。"
+    new ""
 
-    # game/williamroute2.rpy:2429
+    # game/williamroute2.rpy:2567
     old "Get into the office quickly"
-    new "迅速溜进办公室。"
+    new ""
 
-    # game/williamroute2.rpy:3189
+    # game/williamroute2.rpy:3389
     old "Trust William and use the bridge quickly."
-    new "相信William，快速穿过桥。"
+    new ""
 
-    # game/williamroute2.rpy:3189
+    # game/williamroute2.rpy:3389
     old "Trust Nik and avoid the bridge."
-    new "相信Nik，绕开桥。"
+    new ""
 
-    # game/williamroute2.rpy:3357
+    # game/williamroute2.rpy:3557
     old "Well..."
-    new "呃..."
+    new ""
 
-    # game/williamroute2.rpy:3357
+    # game/williamroute2.rpy:3557
     old "Sometimes people can hallucinate."
-    new "有时人们会产生幻觉。"
+    new ""
 
-    # game/williamroute2.rpy:3357
+    # game/williamroute2.rpy:3557
     old "I hear stories about gasses in the mines."
-    new "听说矿井里有瓦斯。"
+    new ""
 
-    # game/williamroute2.rpy:3357
+    # game/williamroute2.rpy:3557
     old "Nothing was wrong with you."
-    new "你没有错。"
+    new ""
 
-    # game/williamroute2.rpy:3357
+    # game/williamroute2.rpy:3557
     old "Witches."
-    new "女巫。"
+    new ""
 
