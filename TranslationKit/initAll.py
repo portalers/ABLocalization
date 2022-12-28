@@ -2,17 +2,10 @@ import os ,findDiff, initNewTransFile
 
 sysFiles = ['.DS_Store', '.AppleDouble', '.LSOverride', 'Thumbs.db', 'Thumbs.db:encryptable', 'ehthumbs.db', 'ehthumbs_vista.db', 'Desktop.ini', 'desktop.ini']
 
-# oldSCPath = './SourceFile/TSR/oldSC/'
-# oldTCPath = './SourceFile/TSR/oldTC/'
-# newOriginSCPath = './SourceFile/TSR/newOriginSC/'
-# newOriginTCPath = './SourceFile/TSR/newOriginTC/'
-# resultSCPath = './Results/TSR/resultSC/'
-# resultTCPath = './Results/TSR/resultTC/'
-
-oldSCPath = './SourceFile/TSR/rawOldSC/'
-oldTCPath = './SourceFile/TSR/rawOldTC/'
 newOriginSCPath = './SourceFile/TSR/newRawOriginSC/'
 newOriginTCPath = './SourceFile/TSR/newRawOriginTC/'
+oldSCPath = './SourceFile/TSR/rawOldSC/'
+oldTCPath = './SourceFile/TSR/rawOldTC/'
 resultSCPath = './Results/TSR/rawResultSC/'
 resultTCPath = './Results/TSR/rawResultTC/'
 

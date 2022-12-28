@@ -2,7 +2,7 @@ def normalizeFile(rawFile, S0T1):
     localRawFile = rawFile[:]
     pattern = ['translate Schinese ', 'translate Tchinese ']
     tmpContent = []
-    newOriginDict = {'headerWords':[], 'orderedHash':[], 'content':[], 'duplicateHash':False, 'cotainStringsBlock':False}
+    newOriginDict = {'headerWords':[], 'orderedHash':[], 'content':[], 'duplicateHash':False, 'cotainStringsBlock':False, 'errorLog':{}}
 
     rawFileHash = [line for line in localRawFile if pattern[S0T1] in line]
     if rawFileHash.count(pattern[S0T1]+'strings:\n'):
@@ -48,6 +48,7 @@ def normalizeFile(rawFile, S0T1):
         newOriginDict['duplicateHash'] = True
         dupHash = [str(rawFileHash.count(dh))+'* '+dh[:-2] for dh in rawFileHash if rawFileHash.count(dh)>1]
         print("Error, there is/are duplicate content in this file and might cause malfunction(s) into renpy")
+        newOriginDict['errorLog'] = set(dupHash)
         print(set(dupHash))
         print("Before cleaning them or choosing which line(s) to keep, the initial file is not correct.")
 
