@@ -18535,7 +18535,7 @@ translate Tchinese hattie_991e950f:
 translate Tchinese hattie_67a32388:
 
     # wi "\"More like the kind of lock that keeps you out long enough to get caught trying to break in.\""
-    wi "“它的目的只是為了拖累想闖進去的傢伙，好讓被當場抓住。”"
+    wi "“它的目的只是為了拖累想闖進去的傢伙，好讓他被當場抓住。”"
 
 # game/williamroute3.rpy:6742
 translate Tchinese hattie_5fa99210:
@@ -19909,7 +19909,7 @@ translate Tchinese hattie_ded1d576:
 translate Tchinese hattie_40542c5a:
 
     # "It takes us about a ten minute hike before we see any trace of anything at all down the dirt road."
-    "徒步下行在泥濘的道路十幾分鐘之後，我們在任何情況下還是找不到一點蛛絲馬跡。"
+    "徒步下行在泥濘的道路十幾分鐘之後，我們還是找不到一丁點兒蛛絲馬跡。"
 
 # game/williamroute3.rpy:5713
 translate Tchinese hattie_1d63be66:
@@ -19933,7 +19933,7 @@ translate Tchinese hattie_8efffaf6:
 translate Tchinese hattie_fb840429:
 
     # "I know Todd said he wanted to leave but I make sure to turn over ever shovel, every can, every piece of junk I can find."
-    "我知道Todd想離開，但我還是想著實的挖好每一鏟，翻出每個桶子，反覆查看我能找到的每片垃圾。"
+    "我知道Todd想離開這裡，但我還是想確實找遍每把鏟子後面，每個罐子裡面，每片雜物的前後每一面。"
 
 # game/williamroute3.rpy:5872
 translate Tchinese hattie_2a698289:
@@ -20023,13 +20023,13 @@ translate Tchinese hattie_a791c02c:
 translate Tchinese hattie_e131da58:
 
     # to "\"Mostly because I know he's not supposed to.\""
-    to "“就是因為在社會教條上，我知道，他這樣做不應該。”"
+    to "“誠如社會教義所言，我知道，他這麽做不應該。”"
 
 # game/williamroute3.rpy:5983
 translate Tchinese hattie_9b2799d2:
 
     # to "\"And also because I think it’s easy to see why he’d want you to.\""
-    to "“但且因為在我的立場上，我思索，\n有了個顯而易見的原因，他想要跟你在一起，並沒有所謂應不應該。”"
+    to "“但以我的立場而言，我思索找到了一個顯而易見的原因：\n他想要跟你在一起，真沒有所謂應不應該。”"
 
 # game/williamroute3.rpy:5984
 translate Tchinese hattie_245e69ea:
@@ -20041,7 +20041,7 @@ translate Tchinese hattie_245e69ea:
 translate Tchinese hattie_fe4e6a81:
 
     # "I knew there was something funny about this one when I worked him up to spankin' himself off at the Sherrif's office."
-    "我想起有件趣事，之前他在警長室，\n同樣的話題，他被我弄生氣到拍他自己的屁股。"
+    "我想起有件趣事，之前他在警長室，同樣的話題，他被我弄生氣到拍他自己的屁股。"
 
 # game/williamroute3.rpy:5986
 translate Tchinese hattie_eaa113bf:

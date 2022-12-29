@@ -18535,7 +18535,7 @@ translate Tchinese hattie_991e950f:
 translate Tchinese hattie_67a32388:
 
     # wi "\"More like the kind of lock that keeps you out long enough to get caught trying to break in.\""
-    wi "“它的目的只是為了拖累想闖進去的傢伙，好讓被當場抓住。”"
+    wi "“它的目的只是為了拖累想闖進去的傢伙，好讓他被當場抓住。”"
 
 # game/williamroute3.rpy:6742
 translate Tchinese hattie_5fa99210:
@@ -19933,7 +19933,7 @@ translate Tchinese hattie_8efffaf6:
 translate Tchinese hattie_fb840429:
 
     # "I know Todd said he wanted to leave but I make sure to turn over ever shovel, every can, every piece of junk I can find."
-    "我知道Todd想離開，但我還是想著實的挖好每一鏟，翻出每個桶子，反覆查看我能找到的每片垃圾。"
+    "我知道Todd想離開，但我還是想著實的拿轉起每把鏟子，倒翻出每個桶子，前後查看我能找到的每片垃圾。"
 
 # game/williamroute3.rpy:5872
 translate Tchinese hattie_2a698289:
@@ -19945,7 +19945,7 @@ translate Tchinese hattie_2a698289:
 translate Tchinese hattie_807c0e77:
 
     # "When hr figures out I'm determined to be thorough, he sags a bit and starts helping me sort through the junk."
-    "不過當他明白我是真心要做到底時，他開始把腰彎下一點然後幫我整理遍地的垃圾。"
+    "不過當他明白我是真心要做到底時，他開始把腰彎下一點然後幫我整理遍地的雜物。"
 
 # game/williamroute3.rpy:5874
 translate Tchinese hattie_0616f54a:

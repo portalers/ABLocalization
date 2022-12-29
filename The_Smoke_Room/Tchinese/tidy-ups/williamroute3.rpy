@@ -11036,7 +11036,7 @@ translate Tchinese hipinvestigation1_3bd10918:
 # game/williamroute3.rpy:3503
 translate Tchinese hipinvestigation1_55f2ebde:
 
-    # cy "“……Another?”"
+    # cy "“...Another?”"
     cy "“……又一起？”"
 
 # game/williamroute3.rpy:3504
@@ -11048,7 +11048,7 @@ translate Tchinese hipinvestigation1_8ce61eb8:
 # game/williamroute3.rpy:3505
 translate Tchinese hipinvestigation1_e78f319a:
 
-    # wi "“Can you tell me anything…… and I mean anything about James Hendricks?”"
+    # wi "“Can you tell me anything... and I mean anything about James Hendricks?”"
     wi "“你知道什麼嗎……我是指關於James Hendricks？”"
 
 # game/williamroute3.rpy:3507
@@ -11234,7 +11234,7 @@ translate Tchinese hattie_b1b1c8bf:
 # game/williamroute3.rpy:3558
 translate Tchinese hattie_d885f22f:
 
-    # "Nik found him drunk there once…… after downing a whole glass of absinthe."
+    # "Nik found him drunk there once... after downing a whole glass of absinthe."
     "有一次，Nik發現他在樓下醉得不省人事……他喝了一整杯苦艾酒。"
 
 # game/williamroute3.rpy:3559
@@ -14757,7 +14757,7 @@ translate Tchinese hattie_6456f1e3:
 translate Tchinese hattie_60c8d2fa_1:
 
     # wi "\"Marcy...\""
-    wi "Marcy……"
+    wi "“Marcy……”"
 
 # game/williamroute3.rpy:5603
 translate Tchinese hattie_d8723232:
@@ -14769,7 +14769,7 @@ translate Tchinese hattie_d8723232:
 translate Tchinese hattie_fe2749be:
 
     # mar "\"...Hmm?\""
-    mar "……嗯？"
+    mar "“……嗯？”"
 
 # game/williamroute3.rpy:5606
 translate Tchinese hattie_290f18c3:
@@ -14847,7 +14847,7 @@ translate Tchinese hattie_b34b4ec7:
 translate Tchinese hattie_5a81fe2a:
 
     # wi "\"I thought I had explained to you that she’s a suspect?!\""
-    wi ""
+    wi "“我不是跟你解釋過她是嫌疑犯嗎？！”"
 
 # game/williamroute3.rpy:5602
 translate Tchinese hattie_0d1ea0af:
@@ -14865,25 +14865,25 @@ translate Tchinese hattie_06910504:
 translate Tchinese hattie_7c3bebd7:
 
     # wi "\"Scout the property and wait for her to calm down.\""
-    wi ""
+    wi "“在附近搜索，等待她平靜下來。”"
 
 # game/williamroute3.rpy:5608
 translate Tchinese hattie_05d4b1c1:
 
     # m "\"And how long is that gonna take?\""
-    m ""
+    m "“然後這需要多久呢？”"
 
 # game/williamroute3.rpy:5611
 translate Tchinese hattie_5cd2ba2c:
 
     # wi "\"Could be a few hours, could be a few days.\""
-    wi ""
+    wi "“有可能是幾小時，也有可能變好幾天。”"
 
 # game/williamroute3.rpy:5613
 translate Tchinese hattie_dec8a06c:
 
     # wi "\"Now we just gotta hope for the best that she’s isn’t guilty and that she’ll be in the right mind to cooperate in the future.\""
-    wi ""
+    wi "“只能寄希望於她是清白的，自願配合我們的工作了。”"
 
 # game/williamroute3.rpy:5616
 translate Tchinese hattie_f31d6c2e:
@@ -14913,7 +14913,7 @@ translate Tchinese hattie_1abaacd3:
 translate Tchinese hattie_8349bc1f:
 
     # wi "\"I don't think we'll find anything, but something is better than nothing.\""
-    wi ""
+    wi "“我不覺得我們會找到有用的東西，但有東西總比沒東西好。”"
 
 # game/williamroute3.rpy:5630
 translate Tchinese hattie_66bcb7de:
@@ -14931,43 +14931,43 @@ translate Tchinese hattie_4833b8e9:
 translate Tchinese hattie_2e7df407:
 
     # "I scratch the back of my head."
-    ""
+    "我撓撓我的後腦杓。"
 
 # game/williamroute3.rpy:5636
 translate Tchinese hattie_1e4a109f:
 
     # m "\"You know, this aint my job, Will.\""
-    m ""
+    m "“你知道嗎，Will，這不是我的工作。”"
 
 # game/williamroute3.rpy:5638
 translate Tchinese hattie_71b173b2:
 
     # wi "\"I know, but it's close where I'll be for the next few days, and I think it would be best for you to keep by.\""
-    wi ""
+    wi "“我知道，但我這幾天都會在附近，\n而且我想，最好你也可以待在旁邊。”"
 
 # game/williamroute3.rpy:5640
 translate Tchinese hattie_7a5c6441:
 
     # m "\"I get that, but I have other things that I could be doing right now.\""
-    m ""
+    m "“我明白了，但現在我還有其他事情要去做。”"
 
 # game/williamroute3.rpy:5642
 translate Tchinese hattie_4cf47544:
 
     # wi "\"Like I said before, I don't think we're going to find anything.\""
-    wi ""
+    wi "“就如同我之前所說的，這邊很難找到線索。”"
 
 # game/williamroute3.rpy:5644
 translate Tchinese hattie_c0c26de3:
 
     # wi "\"I know it's been a long day.\""
-    wi ""
+    wi "“然後忙到天也晚了。”"
 
 # game/williamroute3.rpy:5645
 translate Tchinese hattie_966a4c91:
 
     # wi "\"If y'all don't find anything in a few hours, you and Todd can head off home or back to the office.\""
-    wi ""
+    wi "“如果接下來的幾小時內如果你們全部都不到，\n你跟Todd看要不直接回家，或回到辦公室吧。”"
 
 # game/williamroute3.rpy:5647
 translate Tchinese hattie_91d36133:
@@ -14979,13 +14979,13 @@ translate Tchinese hattie_91d36133:
 translate Tchinese hattie_ec2cc410:
 
     # m "\"Alright\""
-    m ""
+    m "“好吧。”"
 
 # game/williamroute3.rpy:5650
 translate Tchinese hattie_ff90e985:
 
     # m "\"Guess I’m with you for the next few hours, Mr. Bronson.\""
-    m ""
+    m "“我想接下來的幾個小時我得跟你一起共渡了，Mr. Bronson。”"
 
 # game/williamroute3.rpy:5652
 translate Tchinese hattie_1e5c8fde:
@@ -15051,13 +15051,13 @@ translate Tchinese hattie_c09cd9b1:
 translate Tchinese hattie_9a06bc8e:
 
     # "The Greenes’ property is a lot bigger than I thought it would be, though I suppose it makes sense they’d have more room per how far away from down town they are."
-    "“Greenes家的占地面積比我想像中要大得多，不過也不奇怪，畢竟這裡屬於鎮上的邊緣地帶。”"
+    "“Greene家族的占地面積比我想像中要大得多，不過也不奇怪，畢竟這裡屬於鎮上的邊緣地帶。”"
 
 # game/williamroute3.rpy:5699
 translate Tchinese hattie_40542c5a:
 
     # "It takes us about a ten minute hike before we see any trace of anything at all down the dirt road."
-    "徒步下行在泥濘的道路十幾分鐘之後，我們在任何情況下還是找不到一點蛛絲馬跡。"
+    "徒步下行在泥濘的道路十幾分鐘之後，我們還是找不到一丁點兒蛛絲馬跡。"
 
 # game/williamroute3.rpy:5713
 translate Tchinese hattie_d220e3f1:
@@ -15573,7 +15573,7 @@ translate Tchinese hattie_7b577c37:
 translate Tchinese hattie_fb840429:
 
     # "I know Todd said he wanted to leave but I make sure to turn over ever shovel, every can, every piece of junk I can find."
-    "我知道Todd想離開，但我還是想著實的拿轉起每把鏟子，倒翻出每個桶子，前後查看我能找到的每片垃圾。"
+    "我知道Todd想離開這裡，但我還是想確實找遍每把鏟子後面，每個罐子裡面，每片雜物的前後每一面。"
 
 # game/williamroute3.rpy:5872
 translate Tchinese hattie_2a698289:
@@ -15585,13 +15585,13 @@ translate Tchinese hattie_2a698289:
 translate Tchinese hattie_807c0e77:
 
     # "When hr figures out I'm determined to be thorough, he sags a bit and starts helping me sort through the junk."
-    "不過當他明白我是真心要做到底時，他開始把腰彎下一點然後幫我整理遍地的雜物。"
+    "不過當他明白我是真心要做到底時，他開始把腰彎下一點然後幫我整理遍地的垃圾。"
 
 # game/williamroute3.rpy:5874
 translate Tchinese hattie_0616f54a:
 
     # "After a decent while we sort through more paint cans than I can count."
-    "經過幾個怡人的片刻，然後我們分類出一大堆油漆桶，多到我數不完。"
+    "經過幾個怡人的片刻，然候我們分類出一大堆油漆桶，多到我數不完。"
 
 # game/williamroute3.rpy:5875
 translate Tchinese hattie_0d17bc8c:
@@ -15993,13 +15993,13 @@ translate Tchinese hattie_a791c02c:
 translate Tchinese hattie_e131da58:
 
     # to "\"Mostly because I know he's not supposed to.\""
-    to "“就是因為在社會教條上，我知道，他這樣做不應該。”"
+    to "“誠如社會教義所言，我知道，他這麽做不應該。”"
 
 # game/williamroute3.rpy:5983
 translate Tchinese hattie_9b2799d2:
 
     # to "\"And also because I think it’s easy to see why he’d want you to.\""
-    to "“但且因為在我的立場上，我思索，\n有了個顯而易見的原因，他想要跟你在一起，並沒有所謂應不應該。”"
+    to "“但以我的立場而言，我思索找到了一個顯而易見的原因：\n他想要跟你在一起，真沒有所謂應不應該。”"
 
 # game/williamroute3.rpy:5984
 translate Tchinese hattie_245e69ea:
@@ -16011,7 +16011,7 @@ translate Tchinese hattie_245e69ea:
 translate Tchinese hattie_fe4e6a81:
 
     # "I knew there was something funny about this one when I worked him up to spankin' himself off at the Sherrif's office."
-    "我想起有件趣事，之前他在警長室，\n同樣的話題，他被我弄生氣到拍他自己的屁股。"
+    "我想起有件趣事，之前他在警長室，同樣的話題，他被我弄生氣到拍他自己的屁股。"
 
 # game/williamroute3.rpy:5986
 translate Tchinese hattie_eaa113bf:
@@ -16023,7 +16023,7 @@ translate Tchinese hattie_eaa113bf:
 translate Tchinese hattie_a1546a2f:
 
     # "Maybe the all the anxiety's loosened his tongue a bout."
-    "大概是因為這次所有捆綁在他嘴巴的焦慮鬆開了吧"
+    "大概是因為這次所有捆綁在他嘴巴的焦慮鬆開了吧。"
 
 # game/williamroute3.rpy:5988
 translate Tchinese hattie_600fa234:
@@ -16292,7 +16292,7 @@ translate Tchinese hattie_2b60186e:
 # game/williamroute3.rpy:6055
 translate Tchinese hattie_45e44ca8:
 
-    # m "\"……with money.\""
+    # m "\"...with money.\""
     m "“記得帶錢……。”"
 
 # game/williamroute3.rpy:6057
@@ -18527,7 +18527,6 @@ translate Tchinese hattie_161d49dd:
     # "And he opens it."
     "他把冰櫃打開了"
 
-
 translate Tchinese hattie_1fdd65ee:
 
     # "The ice box is separated into different sorts of shelves."
@@ -19719,81 +19718,81 @@ translate Tchinese strings:
 
     # game/williamroute3.rpy:682
     old "..."
-    new ""
+    new "……"
 
     # game/williamroute3.rpy:682
     old "Take care of that, Cocksucker."
-    new ""
+    new "幫他射出來，吸屌的"
 
     # game/williamroute3.rpy:682
     old "He’ll be able to use his own hands once I’m done with this."
-    new ""
+    new "他可以自己打出來，等我完事以後。"
 
     # game/williamroute3.rpy:1354
     old "Where am I going first?"
-    new ""
+    new "從哪裡開始？"
 
     # game/williamroute3.rpy:1354
     old "City Hall."
-    new ""
+    new "鎮公所。"
 
     # game/williamroute3.rpy:1354
     old "The Stag."
-    new ""
+    new "Stag酒館。"
 
     # game/williamroute3.rpy:1955
     old "What should I do right now?"
-    new ""
+    new "我該怎麼做？"
 
     # game/williamroute3.rpy:1955
     old "Talk to the Mayor."
-    new ""
+    new "去找Mayor。"
 
     # game/williamroute3.rpy:1955
     old "Talk to James."
-    new ""
+    new "跟上James。"
 
     # game/williamroute3.rpy:2800
     old "Where should I look right now?"
-    new ""
+    new "現在調查哪裡？"
 
     # game/williamroute3.rpy:2800
     old "Check the upper beams"
-    new ""
+    new "梁上。"
 
     # game/williamroute3.rpy:2800
     old "Check out the bar."
-    new ""
+    new "吧檯。"
 
     # game/williamroute3.rpy:2852
     old "Who should I approach?"
-    new ""
+    new "要找誰搭話？"
 
     # game/williamroute3.rpy:2852
     old "Talk to the sable."
-    new ""
+    new "黑貂。"
 
     # game/williamroute3.rpy:2852
     old "Talk to the miners."
-    new ""
+    new "礦工們。"
 
     # game/williamroute3.rpy:3884
     old "Now, who would be the most useful to talk to?"
-    new ""
+    new "誰最值得交談？"
 
     # game/williamroute3.rpy:3884
     old "Talk to Dora."
-    new ""
+    new "Dora。"
 
     # game/williamroute3.rpy:3884
     old "Talk to Harlan."
-    new ""
+    new "Harlan。"
 
     # game/williamroute3.rpy:3884
     old "Talk to Ethel."
-    new ""
+    new "Ethel。"
 
     # game/williamroute3.rpy:3884
     old "Talk to Cynthia."
-    new ""
+    new "Cynthia。"
 

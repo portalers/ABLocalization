@@ -2122,7 +2122,7 @@ translate Tchinese williamroute2_da7a15db:
 translate Tchinese williamroute2_91bb8fca:
 
     # mar "\"It’s rude to stare, you know! My dollies are shy!\""
-    mar "“直盯盯得看是很不禮貌的，你知道的吧！我的娃娃會害羞的！”"
+    mar "“直盯盯得看是很不禮貌的，你知道的吧！ 我的娃娃會害羞的！”"
 
 # game/williamroute2.rpy:706
 translate Tchinese williamroute2_ce6acfd7:
@@ -4996,7 +4996,7 @@ translate Tchinese after_sw1_93062fde:
 translate Tchinese after_sw1_3bb6af3e:
 
     # mu "\"But it wouldn’t make sense for there to be a...\""
-    mu "Murdoch話說到一半，皺起眉頭。"
+    mu "Murdoch話說到一半，皺起眉頭……"
 
 # game/williamroute2.rpy:1460
 translate Tchinese after_sw1_cc5db2ee:
@@ -6508,7 +6508,7 @@ translate Tchinese after_sw1_018d675d:
 translate Tchinese after_sw1_6fe8b942:
 
     # m "\"...but that’s different--\""
-    m "“……但這不是一回事──”"
+    m "“……但這不是──回事──”"
 
 # game/williamroute2.rpy:1878
 translate Tchinese after_sw1_8a0409aa:
@@ -9034,7 +9034,7 @@ translate Tchinese dd2b_f0505257:
 translate Tchinese dd2b_895258f6:
 
     # m "\"So everytime you hear somebody say something stupid or evil.\""
-    m "“所以每次聽到什麼愚蠢或惡毒的話時……”"
+    m "“所以每次聽到什麼愚蠢或惡毒的話時。”"
 
 # game/williamroute2.rpy:2715
 translate Tchinese dd2b_88dd2c1f:
@@ -10636,7 +10636,7 @@ translate Tchinese dd2b_234e32a9:
 translate Tchinese dd2b_70b2a1b7:
 
     # "It’s suspended over a chasm that whistles with the draft rising from below."
-    "吊橋懸掛在深坑之上，伴隨呼嘯而出的氣流不斷擺動，發出刺耳的嘎吱聲……"
+    "吊橋懸掛在深坑之上，伴隨呼嘯而出的氣流不斷擺動，發出刺耳的嘎吱聲。"
 
 # game/williamroute2.rpy:3197
 translate Tchinese dd2b_4f9aaa04:
@@ -13138,73 +13138,73 @@ translate Tchinese strings:
 
     # game/williamroute2.rpy:1236
     old "What can I even say?"
-    new ""
+    new "還有什麼好說的呢？"
 
     # game/williamroute2.rpy:1236
     old "Nothing. Remind him of his heartbeat."
-    new ""
+    new "什麼也不說，點醒他的心意。"
 
     # game/williamroute2.rpy:1236
     old "I think your duty to your family is noble."
-    new ""
+    new "我覺得你對於家庭的責任是高尚的。"
 
     # game/williamroute2.rpy:1236
     old "You made a hard choice."
-    new ""
+    new "你做了一個艱難的選擇。"
 
     # game/williamroute2.rpy:1236
     old "It’s okay to be a little bit selfish."
-    new ""
+    new "稍微自私點也沒有關係。"
 
     # game/williamroute2.rpy:2507
     old "I know what I need to do now."
-    new ""
+    new "我需要做些什麼。"
 
     # game/williamroute2.rpy:2507
     old "Call out to them."
-    new ""
+    new "招呼他們。"
 
     # game/williamroute2.rpy:2507
     old "Hide."
-    new ""
+    new "藏起來。"
 
     # game/williamroute2.rpy:2567
     old "What next?"
-    new ""
+    new "接下來呢？"
 
     # game/williamroute2.rpy:2567
     old "Crouch and wait for him to leave"
-    new ""
+    new "蹲下身子等他離開。"
 
     # game/williamroute2.rpy:2567
     old "Get into the office quickly"
-    new ""
+    new "迅速溜進辦公室。"
 
     # game/williamroute2.rpy:3389
     old "Trust William and use the bridge quickly."
-    new ""
+    new "相信William，快速穿過橋。"
 
     # game/williamroute2.rpy:3389
     old "Trust Nik and avoid the bridge."
-    new ""
+    new "相信Nik，繞開橋。"
 
     # game/williamroute2.rpy:3557
     old "Well..."
-    new ""
+    new "呃……"
 
     # game/williamroute2.rpy:3557
     old "Sometimes people can hallucinate."
-    new ""
+    new "有時人們會產生幻覺。"
 
     # game/williamroute2.rpy:3557
     old "I hear stories about gasses in the mines."
-    new ""
+    new "我聽說礦井裡有瓦斯。"
 
     # game/williamroute2.rpy:3557
     old "Nothing was wrong with you."
-    new ""
+    new "你沒有錯。"
 
     # game/williamroute2.rpy:3557
     old "Witches."
-    new ""
+    new "女巫。"
 
