@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-07 15:37
+﻿# TODO: Translation updated at 2022-12-23 16:06
 
 # game/commonroute.rpy:7
 translate Tchinese commonroute_ed791d5b:
@@ -268,7 +268,7 @@ translate Tchinese commonroute_333aca36:
 translate Tchinese commonroute_066a55f8:
 
     # cy "\"Well I mean the down-on-your-knees-and-clasp-your-paws-to-heaven kind of praying.\""
-    cy "“我指的是，跪─下─抱─起─爪─子─向─天─堂─禱─告，那種禱告。”"
+    cy "“我指的是，跪──下──抱──起──爪──子──向──天──堂──禱──告，那種禱告。”"
 
 # game/commonroute.rpy:60
 translate Tchinese commonroute_9cb94fa1:
@@ -3859,36 +3859,36 @@ translate Tchinese commonroute_6c2a0940:
     "Huxley" "“Marcy告訴我地毯還在。”"
 
 # game/commonroute.rpy:815
-translate Tchinese commonroute_05ed7736:
+translate Tchinese commonroute_08cb88ea:
 
-    # "Reed" "\"Does Marcy pay your bills?\""
-    "Reed" "“Marcy替你付帳嗎？”"
+    # re "\"Does Marcy pay your bills?\""
+    re "“Marcy替你付帳嗎？"
 
-# game/commonroute.rpy:816
+# game/commonroute.rpy:837
 translate Tchinese commonroute_376b6e5e:
 
     # "Huxley" "\"No.\""
     "Huxley" "“不。”"
 
 # game/commonroute.rpy:817
-translate Tchinese commonroute_3d20e2bb:
+translate Tchinese commonroute_f395b12f:
 
-    # "Reed" "\"Does Marcy know anything of the world beyond fussing, tidying, and playing with wooden puzzles all day when you’re not about to coddle her?\""
-    "Reed" "“除了瞎忙一氣、整理、整天玩木製拼圖外，Marcy還知道什麼麼，當你不寵著她的時候？”"
+    # re "\"Does Marcy know anything of the world beyond fussing, tidying, and playing with wooden puzzles all day when you’re not about to coddle her?\""
+    re "“除了瞎忙一氣、整理、整天玩木製拼圖外，Marcy還知道什麼嗎，當你不寵著她的時候？”"
 
-# game/commonroute.rpy:818
-translate Tchinese commonroute_031aba46:
+# game/commonroute.rpy:840
+translate Tchinese commonroute_de549008:
 
-    # "Huxley" "\"No but the damn rug is her mother’s. It’s filthy.\""
+    # "Huxley" "\"No, but the damn rug is her mother’s. It’s filthy.\""
     "Huxley" "“不，但那條該死的地毯是她媽的，髒死了。”"
 
-# game/commonroute.rpy:819
-translate Tchinese commonroute_01b3deba:
+# game/commonroute.rpy:843
+translate Tchinese commonroute_4b9b8d91:
 
-    # "Reed" "\"So she should clean it then.\""
-    "Reed" "“那她應該把它弄乾淨。”"
+    # re "\"So she should clean it then.\""
+    re "“那她應該把它弄乾淨。”"
 
-# game/commonroute.rpy:820
+# game/commonroute.rpy:851
 translate Tchinese commonroute_9e152619:
 
     # "I watch them take turns drawing cards."
@@ -3901,36 +3901,42 @@ translate Tchinese commonroute_075f41e3:
     "Huxley" "“她試過，不過她沒那麼機靈。我要看吐那東西了。”"
 
 # game/commonroute.rpy:822
-translate Tchinese commonroute_bc3f1c34:
+translate Tchinese commonroute_68f0b73e:
 
-    # "Reed" "\"So do something about it, then.\""
-    "Reed" "“那麼，做些什麼。”"
+    # re "\"So do something about it, then.\""
+    re "“那麼，做些什麼。”"
 
-# game/commonroute.rpy:823
+# game/commonroute.rpy:857
 translate Tchinese commonroute_5d98e3f9:
 
     # "Huxley" "\"Royal flush.\""
     "Huxley" "“皇家同花順。”"
 
 # game/commonroute.rpy:824
-translate Tchinese commonroute_968888e1:
+translate Tchinese commonroute_9df68357:
 
-    # "Reed" "\"Sunavabitch. Stop distractin’ me with your damn stories.\""
-    "Reed" "“媽的，別用你倒楣的故事分散我的注意。”"
+    # re "\"Sunavabitch. Stop distractin’ me with your damn stories.\""
+    re "“媽的，別用你倒霉的故事分散我的注意。”"
 
-# game/commonroute.rpy:825
+# game/commonroute.rpy:864
 translate Tchinese commonroute_db63532e:
 
     # "Huxley" "\"Mind yer business and you’ll win some.\""
     "Huxley" "“管好自己的事，你會贏的。”"
 
 # game/commonroute.rpy:826
-translate Tchinese commonroute_efd8322f:
+translate Tchinese commonroute_c4bdf5e9:
 
-    # "The rat smiles and takes his winnings and the wolf slaps another dollar bill on the table. They often get a little rowdy, but they know not to push it too far. They’re here so much, this is almost their home as much as mine; though I wouldn’t exactly call ‘em family."
-    "老鼠笑著拿走了他贏的錢，狼又把一美元拍在桌子上。他們經常發生些小的爭執，不過都知道不要太極端。\n他們來這裡的次數之多，簡直像是和我一樣把這裡當成了家─雖然我不會管他們叫做家人。"
+    # "The rat smiles and takes his winnings and the wolf slaps another dollar bill on the table."
+    "老鼠笑著拿走了他贏的錢，狼又把一美元拍在桌子上。"
 
-# game/commonroute.rpy:829
+# game/commonroute.rpy:868
+translate Tchinese commonroute_472e839e:
+
+    # "They often get a little rowdy, but they know not to push it too far. They’re here so much, this is almost their home as much as mine; though I wouldn’t exactly call ‘em family."
+    "他們經常發生些小的爭執，不過都知道不要太極端，他們來這裡的次數之多，簡直像是和我一樣把這裡當成了家——雖然我不會管他們叫做家人。"
+
+# game/commonroute.rpy:975
 translate Tchinese commonroute_63232624:
 
     # "Wouldn’t be surprised if they didn’t even know who I was."
@@ -4297,12 +4303,12 @@ translate Tchinese commonroute_29c2e36b:
     "那你應該同樣知道必須通過秘密管道來找我，你這個蠢貨。"
 
 # game/commonroute.rpy:930
-translate Tchinese commonroute_d04b7666:
+translate Tchinese commonroute_f7aedd51:
 
-    # "Reed" "\"You should stop yelling.\""
-    "Reed" "“你應該停止這麼大聲。”"
+    # re "\"You should stop yelling.\""
+    re "“你應該停止這麼大聲。”"
 
-# game/commonroute.rpy:931
+# game/commonroute.rpy:983
 translate Tchinese commonroute_a9a24ce5:
 
     # cl "\"I—I hadn’t realized that I was.\""
@@ -4315,16 +4321,16 @@ translate Tchinese commonroute_eb4b1dc1:
     "他不是。"
 
 # game/commonroute.rpy:933
-translate Tchinese commonroute_858d88ba:
+translate Tchinese commonroute_86ac297b:
 
-    # "Reed" "\"I think we need to have a talk outside, fella. \""
-    "Reed" "“我想我們得到外面談談，小夥子。”"
+    # re "\"I think we need to have a talk outside, fella. \""
+    re "“我想我們得到外面談談，伙計。”"
 
-# game/commonroute.rpy:934
+# game/commonroute.rpy:1045
 translate Tchinese commonroute_21d9bde4:
 
     # "I quietly thank the lord that Reed doesn’t know about any of my clients, now."
-    "我靜靜地為Reed─目前─還不知道我任何一位客戶的事而感到慶幸。"
+    "我靜靜地為Reed————目前————還不知道我任何一位客戶的事而感到慶幸。"
 
 # game/commonroute.rpy:935
 translate Tchinese commonroute_feaeab6f:
@@ -4495,12 +4501,12 @@ translate Tchinese commonroute_c8d26628:
     cl "“重申一遍，我不是有意製造爭論或大吵大鬧的。我真的認為我的消息來源可靠。他們說，Sanguaro的臀能夠滿足花花公子的好奇心。”"
 
 # game/commonroute.rpy:980
-translate Tchinese commonroute_d9fe5092:
+translate Tchinese commonroute_5c0bdd4a:
 
-    # "Reed" "\"What in the name of God is wrong with this filthy Limey?\""
-    "Reed" "“看在上帝的份上，這個下流的英國佬是怎麼回事？”"
+    # re "\"What in the name of God is wrong with this filthy Limey?\""
+    re "“看在上帝的份上，這個下流的英國佬是怎麼回事？”"
 
-# game/commonroute.rpy:981
+# game/commonroute.rpy:1053
 translate Tchinese commonroute_7916bfec:
 
     # "Huxley" "\"There were kids in there, you goddamn pervert.\""
@@ -4519,24 +4525,24 @@ translate Tchinese commonroute_bef4f694:
     "Cynthia有一些關於他的下流故事。"
 
 # game/commonroute.rpy:984
-translate Tchinese commonroute_ae1da25d:
+translate Tchinese commonroute_247cd440:
 
-    # "Reed" "\"What kind of shithole are you from that produces men like you? Educated men no less.\""
-    "Reed" "“什麼樣的鬼地方能產出你這種人？居然還受過教育。”"
+    # re "\"What kind of shithole are you from that produces men like you? Educated men no less.\""
+    re "“什麼樣的鬼地方能產出你這種人？居然還受過教育。”"
 
-# game/commonroute.rpy:985
+# game/commonroute.rpy:1059
 translate Tchinese commonroute_2d26af80:
 
     # "Huxley" "\"Educated, he says. Probably why he’s here; degenerate like him got chased out from where he came from.\""
     "Huxley" "“受過教育，聽他說吧。也許這就是他這樣墮落的人出現在這的原因，從出生地被趕出來的。”"
 
 # game/commonroute.rpy:986
-translate Tchinese commonroute_43cdae70:
+translate Tchinese commonroute_ab5f2810:
 
-    # "Reed" "\"Wouldn’t be the first faggot to lie.\""
-    "Reed" "“不會是第一個說瞎話的基佬。”"
+    # re "\"Wouldn’t be the first faggot to lie.\""
+    re "“不會是第一個說瞎話的基佬。”"
 
-# game/commonroute.rpy:987
+# game/commonroute.rpy:1067
 translate Tchinese commonroute_84672b56:
 
     # "Huxley" "\"Not so sure he’s a faggot. Caught him makin’ eyes at Marcy.\""
@@ -4549,12 +4555,12 @@ translate Tchinese commonroute_49ae6b44:
     "狼鬨笑了起來。"
 
 # game/commonroute.rpy:989
-translate Tchinese commonroute_42437580:
+translate Tchinese commonroute_851ba106:
 
-    # "Reed" "\"Well who don’t? She’s a nasty bitch.\""
-    "Reed" "“誰不是呢？那個婊子勾人得很。”"
+    # re "\"Well who don’t? She’s a nasty bitch.\""
+    re "“誰不是呢？那個婊子勾人得很。”"
 
-# game/commonroute.rpy:990
+# game/commonroute.rpy:1114
 translate Tchinese commonroute_4811f7f0:
 
     # "Huxley" "\"He’s a filthy bastard who just wants to fuck anything, isn’t he?\""
@@ -4663,12 +4669,12 @@ translate Tchinese commonroute_133dba05:
     "Huxley" "“靠！”"
 
 # game/commonroute.rpy:1015
-translate Tchinese commonroute_17415979:
+translate Tchinese commonroute_22f95eac:
 
-    # "Reed" "\"I’m not paying another fucking fine. Let’s get out of here before we’re recognized. I like booze better than I had candy asses.\""
-    "Reed" "“我不會再交他媽的罰金了，在被認出來之前我們快離開。比起一個窩囊廢我更願意和酒打交道。”"
+    # re "\"I’m not paying another fucking fine. Let’s get out of here before we’re recognized. I like booze better than I had candy asses.\""
+    re "“我不會再交他媽的罰金了，在被認出來之前我們快離開。比起一個窩囊廢我更願意和酒打交道。”"
 
-# game/commonroute.rpy:1016
+# game/commonroute.rpy:1252
 translate Tchinese commonroute_bc71f4a2:
 
     # "The two quickly run off, leaving the weasel curled on the ground, covered in dirt and bruises, tears streaming from his eyes."
@@ -5269,12 +5275,18 @@ translate Tchinese commonroute_ffd8393d:
     "他嗅了嗅空氣，眼睛睜得更大了。"
 
 # game/commonroute.rpy:1149
-translate Tchinese commonroute_69f792d8:
+translate Tchinese commonroute_c1c6c0ea:
 
-    # mu "\"Ha! But his scent is on you... so maybe not. Either way, it’s not really my business.\""
+    # mu "\"Ha! But his scent is on you... so maybe you are blackmailing him.\""
     mu "“哈！不過你身上有他的氣味……所以也許不是。不管怎樣，這不關我的事。”"
 
-# game/commonroute.rpy:1150
+# game/commonroute.rpy:1254
+translate Tchinese commonroute_4efd987d:
+
+    # mu "\"Either way, it’s not really my business.\""
+    mu "“不管怎樣，這不關我的事。”"
+
+# game/commonroute.rpy:1261
 translate Tchinese commonroute_7a57d39c:
 
     # "I can feel my tail twist up and a little bit of heat rises to my ears."
@@ -5299,48 +5311,66 @@ translate Tchinese commonroute_4d5873dc:
     "狐狸朝妓院輕彈了一下耳朵，然後在空中比劃了一個擼的動作。"
 
 # game/commonroute.rpy:1154
-translate Tchinese commonroute_12766217:
+translate Tchinese commonroute_0070fe7c:
 
-    # mu "\"Just paying for something I can get for free. That’s all.\""
+    # mu "\"Just that he's paying for something I can get for free. That’s all.\""
     mu "“為我可以免費得到的東西付錢而已，就這樣。”"
 
-# game/commonroute.rpy:1155
+# game/commonroute.rpy:1264
 translate Tchinese commonroute_21bfbe61:
 
     # "I certainly wasn’t expecting an answer like that, but I can’t help but laugh."
     "我當然沒料到會有這樣一個答案，不過還是忍不住笑了出來。"
 
 # game/commonroute.rpy:1156
-translate Tchinese commonroute_97ed2ef5:
+translate Tchinese commonroute_41fe9b4b:
 
-    # m "\"Sounds like being a sucker.\""
+    # m "\"Sounds like you're just a sucker.\""
     m "“聽起來像個傻瓜。”"
 
-# game/commonroute.rpy:1158
+# game/commonroute.rpy:1267
 translate Tchinese commonroute_6d9ce7e3:
 
     # mu "\"Not the word choice I’d use for this conversation. Not wrong to some effect.\""
     mu "“我不會在這場談話中選用這種詞。不過某種意義上來說沒錯。”"
 
 # game/commonroute.rpy:1159
-translate Tchinese commonroute_1939486d:
+translate Tchinese commonroute_e235a16e:
 
-    # "He shrugs."
-    "他聳了聳肩。"
+    # "He puts his thumb inside of his cheek and pokes it with his cheek."
+    "他把拇指壓進他的臉頰裡，再用臉頰推回拇指。"
 
-# game/commonroute.rpy:1161
-translate Tchinese commonroute_e87eae9b:
+# game/commonroute.rpy:1268
+translate Tchinese commonroute_4427bffc:
 
-    # mu "\"Maybe I’ll have some questions of my own tonight when William shows up. And maybe some answers, too.\""
-    mu "“也許今晚William現身時候，我會有一些自己的問題，還有一些答案。”"
+    # "Then he shrugs when he sees I'm not amused."
+    "看到我不太領情，他聳了聳肩。"
 
-# game/commonroute.rpy:1162
-translate Tchinese commonroute_d4c06f3a:
+# game/commonroute.rpy:1270
+translate Tchinese commonroute_e7f81680:
 
-    # m "\"Answers.\""
-    m "“答案。”"
+    # mu "\"Maybe I’ll have some questions of my own for you tonight when William shows up.\""
+    mu "“也許當我今晚看到William現身時候，我想問的一些問題也一起出來了呢。”"
 
-# game/commonroute.rpy:1164
+# game/commonroute.rpy:1272
+translate Tchinese commonroute_e96dc677:
+
+    # "He looks me up and down like he's sizing me up."
+    "他把我用視線上下打量了一遍，從頭到尾。"
+
+# game/commonroute.rpy:1274
+translate Tchinese commonroute_dc4d3972:
+
+    # mu "\"And maybe I'll give you some answers to some questions, too.\""
+    mu "“而且也許，你想知道一些問題的答案，我說不定也會告訴你喔。”"
+
+# game/commonroute.rpy:1276
+translate Tchinese commonroute_d5cb327b:
+
+    # m "\"Answers....\""
+    m "“答案……”"
+
+# game/commonroute.rpy:1284
 translate Tchinese commonroute_1ca79906:
 
     # mu "\"Yeah. Like how to have fun around here. Breaks my heart to see a newcomer so gloomy.\""
@@ -5365,12 +5395,12 @@ translate Tchinese commonroute_2f3373fb:
     "聽起來像是Jack會說的那種屁話。"
 
 # game/commonroute.rpy:1169
-translate Tchinese commonroute_8986596a:
+translate Tchinese commonroute_a05d73b0:
 
-    # mu "\"If anything, I could help on the connections end. I’ve got more than a few. Third generation, born and raised.\""
+    # mu "\"If anything, I could help you out on the connections end. I’ve got more than a few. Third generation, born and raised.\""
     mu "“如果有的話，我可以幫忙牽線，我還是有些關係的。土生土長的第三代。”"
 
-# game/commonroute.rpy:1170
+# game/commonroute.rpy:1293
 translate Tchinese commonroute_51e4eb20:
 
     # m "\"Sounds suspect.\""
@@ -5395,12 +5425,12 @@ translate Tchinese commonroute_c8aecf7a:
     m "“恐怕我不希望那種名聲。”"
 
 # game/commonroute.rpy:1177
-translate Tchinese commonroute_60fa2c33:
+translate Tchinese commonroute_ae38fe9e:
 
-    # mu "\"Good thing that we’re balls at it here, then. Clean cut grocers and schoolteachers. No pirates, no bandits, no upstart revolutionaries.\""
+    # mu "\"Good thing that my family's balls at it here, then. Clean cut grocers and schoolteachers. No pirates, no bandits, no upstart revolutionaries.\""
     mu "“那麼，還好我們有勇氣留下。乾淨的雜貨店和教師。沒有海盜，沒有強盜，沒有自命不凡的革命者。”"
 
-# game/commonroute.rpy:1179
+
 translate Tchinese commonroute_a98caf29:
 
     # mu "\"Bit pathetic if you ask me. But it puts bread on the table in an up and coming city like Echo. It would bode well to have your name established on the map early. \""
@@ -6420,183 +6450,21 @@ translate Tchinese commonroute_90524780:
     # cy "\"Then attend to one of them! We’re going to have to find somewhere for the rest.\""
     cy "“那就專注其中一個！我們得找個休息的地方。”"
 
-# game/commonroute.rpy:831
-translate Tchinese commonroute_08cb88ea:
-
-    # re "\"Does Marcy pay your bills?\""
-    re "\"Does Marcy pay your bills?\""
-
-# game/commonroute.rpy:837
-translate Tchinese commonroute_f395b12f:
-
-    # re "\"Does Marcy know anything of the world beyond fussing, tidying, and playing with wooden puzzles all day when you’re not about to coddle her?\""
-    re "\"Does Marcy know anything of the world beyond fussing, tidying, and playing with wooden puzzles all day when you’re not about to coddle her?\""
-
-# game/commonroute.rpy:840
-translate Tchinese commonroute_de549008:
-
-    # "Huxley" "\"No, but the damn rug is her mother’s. It’s filthy.\""
-    "Huxley" "\"No, but the damn rug is her mother’s. It’s filthy.\""
-
-# game/commonroute.rpy:843
-translate Tchinese commonroute_4b9b8d91:
-
-    # re "\"So she should clean it then.\""
-    re "\"So she should clean it then.\""
-
-# game/commonroute.rpy:851
-translate Tchinese commonroute_68f0b73e:
-
-    # re "\"So do something about it, then.\""
-    re "\"So do something about it, then.\""
-
-# game/commonroute.rpy:857
-translate Tchinese commonroute_9df68357:
-
-    # re "\"Sunavabitch. Stop distractin’ me with your damn stories.\""
-    re "\"Sunavabitch. Stop distractin’ me with your damn stories.\""
-
-# game/commonroute.rpy:864
-translate Tchinese commonroute_c4bdf5e9:
-
-    # "The rat smiles and takes his winnings and the wolf slaps another dollar bill on the table."
-    "The rat smiles and takes his winnings and the wolf slaps another dollar bill on the table."
-
-# game/commonroute.rpy:868
-translate Tchinese commonroute_472e839e:
-
-    # "They often get a little rowdy, but they know not to push it too far. They’re here so much, this is almost their home as much as mine; though I wouldn’t exactly call ‘em family."
-    "They often get a little rowdy, but they know not to push it too far. They’re here so much, this is almost their home as much as mine; though I wouldn’t exactly call ‘em family."
-
-# game/commonroute.rpy:975
-translate Tchinese commonroute_f7aedd51:
-
-    # re "\"You should stop yelling.\""
-    re "\"You should stop yelling.\""
-
-# game/commonroute.rpy:983
-translate Tchinese commonroute_86ac297b:
-
-    # re "\"I think we need to have a talk outside, fella. \""
-    re "\"I think we need to have a talk outside, fella. \""
-
-# game/commonroute.rpy:1045
-translate Tchinese commonroute_5c0bdd4a:
-
-    # re "\"What in the name of God is wrong with this filthy Limey?\""
-    re "\"What in the name of God is wrong with this filthy Limey?\""
-
-# game/commonroute.rpy:1053
-translate Tchinese commonroute_247cd440:
-
-    # re "\"What kind of shithole are you from that produces men like you? Educated men no less.\""
-    re "\"What kind of shithole are you from that produces men like you? Educated men no less.\""
-
-# game/commonroute.rpy:1059
-translate Tchinese commonroute_ab5f2810:
-
-    # re "\"Wouldn’t be the first faggot to lie.\""
-    re "\"Wouldn’t be the first faggot to lie.\""
-
-# game/commonroute.rpy:1067
-translate Tchinese commonroute_851ba106:
-
-    # re "\"Well who don’t? She’s a nasty bitch.\""
-    re "\"Well who don’t? She’s a nasty bitch.\""
-
-# game/commonroute.rpy:1114
-translate Tchinese commonroute_22f95eac:
-
-    # re "\"I’m not paying another fucking fine. Let’s get out of here before we’re recognized. I like booze better than I had candy asses.\""
-    re "\"I’m not paying another fucking fine. Let’s get out of here before we’re recognized. I like booze better than I had candy asses.\""
-
-# game/commonroute.rpy:1252
-translate Tchinese commonroute_c1c6c0ea:
-
-    # mu "\"Ha! But his scent is on you... so maybe you are blackmailing him.\""
-    mu "\"Ha! But his scent is on you... so maybe you are blackmailing him.\""
-
-# game/commonroute.rpy:1254
-translate Tchinese commonroute_4efd987d:
-
-    # mu "\"Either way, it’s not really my business.\""
-    mu "\"Either way, it’s not really my business.\""
-
-# game/commonroute.rpy:1261
-translate Tchinese commonroute_0070fe7c:
-
-    # mu "\"Just that he's paying for something I can get for free. That’s all.\""
-    mu "\"Just that he's paying for something I can get for free. That’s all.\""
-
-# game/commonroute.rpy:1264
-translate Tchinese commonroute_41fe9b4b:
-
-    # m "\"Sounds like you're just a sucker.\""
-    m "\"Sounds like you're just a sucker.\""
-
-# game/commonroute.rpy:1267
-translate Tchinese commonroute_e235a16e:
-
-    # "He puts his thumb inside of his cheek and pokes it with his cheek."
-    "He puts his thumb inside of his cheek and pokes it with his cheek."
-
-# game/commonroute.rpy:1268
-translate Tchinese commonroute_4427bffc:
-
-    # "Then he shrugs when he sees I'm not amused."
-    "Then he shrugs when he sees I'm not amused."
-
-# game/commonroute.rpy:1270
-translate Tchinese commonroute_e7f81680:
-
-    # mu "\"Maybe I’ll have some questions of my own for you tonight when William shows up.\""
-    mu "\"Maybe I’ll have some questions of my own for you tonight when William shows up.\""
-
-# game/commonroute.rpy:1272
-translate Tchinese commonroute_e96dc677:
-
-    # "He looks me up and down like he's sizing me up."
-    "He looks me up and down like he's sizing me up."
-
-# game/commonroute.rpy:1274
-translate Tchinese commonroute_dc4d3972:
-
-    # mu "\"And maybe I'll give you some answers to some questions, too.\""
-    mu "\"And maybe I'll give you some answers to some questions, too.\""
-
-# game/commonroute.rpy:1276
-translate Tchinese commonroute_d5cb327b:
-
-    # m "\"Answers....\""
-    m "\"Answers....\""
-
-# game/commonroute.rpy:1284
-translate Tchinese commonroute_a05d73b0:
-
-    # mu "\"If anything, I could help you out on the connections end. I’ve got more than a few. Third generation, born and raised.\""
-    mu "\"If anything, I could help you out on the connections end. I’ve got more than a few. Third generation, born and raised.\""
-
-# game/commonroute.rpy:1293
-translate Tchinese commonroute_ae38fe9e:
-
-    # mu "\"Good thing that my family's balls at it here, then. Clean cut grocers and schoolteachers. No pirates, no bandits, no upstart revolutionaries.\""
-    mu "\"Good thing that my family's balls at it here, then. Clean cut grocers and schoolteachers. No pirates, no bandits, no upstart revolutionaries.\""
-
 translate Tchinese strings:
 
-    # game/commonroute.rpy:1436
+    # game/commonroute.rpy:1555
     old "Fit Cliff in for a booking."
     new "安排Cliff的預定"
 
-    # game/commonroute.rpy:1436
+    # game/commonroute.rpy:1555
     old "Take on Murdoch’s bet."
     new "接受Murdoch的賭注"
 
-    # game/commonroute.rpy:1436
+    # game/commonroute.rpy:1555
     old "See if Nikolai is here."
     new "去找Nikolai"
 
-    # game/commonroute.rpy:1436
+    # game/commonroute.rpy:1555
     old "Tell William the truth."
     new "告訴William真相"
 

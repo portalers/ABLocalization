@@ -5158,7 +5158,7 @@ translate Tchinese cityhallnight_9074298e:
 translate Tchinese cityhallnight_be4d0438:
 
     # m "“{i}...These things hast thou done, and I kept silence; thou thoughtest that I was altogether such an one as thyself: but I will reprove thee, and set them in order before thine eyes.{/i}”"
-    m "“{b}...你行了這些事，我還閉口不言。你想我恰和你一樣。其實我要責備你，將這些事擺在你眼前。{/b}”"
+    m "“{b}……你行了這些事，我還閉口不言。你想我恰和你一樣。其實我要責備你，將這些事擺在你眼前。{/b}”"
 
 # game/williamroute3.rpy:1423
 translate Tchinese cityhallnight_144050d8:
@@ -10743,7 +10743,7 @@ translate Tchinese hipinvestigation1_f392891e:
 translate Tchinese hipinvestigation1_d0b6aff4:
 
     # wi "“And if it turned out you had a bad habit of breaching confidentiality of your coworkers’ clients...”"
-    wi "“要是結果證明你有洩露同事客戶機密的壞習慣...”"
+    wi "“要是結果證明你有洩露同事客戶機密的壞習慣……”"
 
 # game/williamroute3.rpy:3407
 translate Tchinese hipinvestigation1_dac58737:
@@ -11036,7 +11036,7 @@ translate Tchinese hipinvestigation1_3bd10918:
 # game/williamroute3.rpy:3503
 translate Tchinese hipinvestigation1_55f2ebde:
 
-    # cy "“...Another?”"
+    # cy "“……Another?”"
     cy "“……又一起？”"
 
 # game/williamroute3.rpy:3504
@@ -11048,7 +11048,7 @@ translate Tchinese hipinvestigation1_8ce61eb8:
 # game/williamroute3.rpy:3505
 translate Tchinese hipinvestigation1_e78f319a:
 
-    # wi "“Can you tell me anything... and I mean anything about James Hendricks?”"
+    # wi "“Can you tell me anything…… and I mean anything about James Hendricks?”"
     wi "“你知道什麼嗎……我是指關於James Hendricks？”"
 
 # game/williamroute3.rpy:3507
@@ -11234,8 +11234,8 @@ translate Tchinese hattie_b1b1c8bf:
 # game/williamroute3.rpy:3558
 translate Tchinese hattie_d885f22f:
 
-    # "Nik found him drunk there once... after downing a whole glass of absinthe."
-    "有一次，Nik發現他在樓下醉得不省人事...他喝了一整杯苦艾酒。"
+    # "Nik found him drunk there once…… after downing a whole glass of absinthe."
+    "有一次，Nik發現他在樓下醉得不省人事……他喝了一整杯苦艾酒。"
 
 # game/williamroute3.rpy:3559
 translate Tchinese hattie_2a23630b:
@@ -11841,7 +11841,7 @@ translate Tchinese hattie_8e66311e:
 translate Tchinese hattie_e7a02582:
 
     # "Some how... some way..."
-    "怎麼…回事…"
+    "怎麼……回事……"
 
 # game/williamroute3.rpy:3778
 translate Tchinese hattie_2fac6b73:
@@ -12789,7 +12789,7 @@ translate Tchinese hattie_4338d52a:
 translate Tchinese hattie_661eefa0:
 
     # wi "\"What else did he leave...\""
-    wi "“他還留了什麼...”"
+    wi "“他還留了什麼……”"
 
 # game/williamroute3.rpy:4878
 translate Tchinese hattie_1d4b68aa:
@@ -12801,7 +12801,7 @@ translate Tchinese hattie_1d4b68aa:
 translate Tchinese hattie_7985ac56:
 
     # m "\"It says something.\""
-    m "“上面寫著...”"
+    m "“上面寫著。”"
 
 # game/williamroute3.rpy:4882
 translate Tchinese hattie_919a7594:
@@ -13017,7 +13017,7 @@ translate Tchinese hattie_c7c03101:
 translate Tchinese hattie_f8e62f42:
 
     # wi "\"It was her apartment back at the city...\""
-    wi "“在她城裡的公寓...”"
+    wi "“在她城裡的公寓……”"
 
 # game/williamroute3.rpy:4947
 translate Tchinese hattie_4c7df872:
@@ -13143,7 +13143,7 @@ translate Tchinese hattie_5e0a03ff:
 translate Tchinese hattie_696250a8:
 
     # wi "\"The stories I hear go something like this...\""
-    wi "“我聽到的故事大抵是這樣的...”"
+    wi "“我聽到的故事大抵是這樣的……”"
 
 # game/williamroute3.rpy:4993
 translate Tchinese hattie_776d2c93:
@@ -13245,7 +13245,7 @@ translate Tchinese hattie_75605b87:
 translate Tchinese hattie_8734440b:
 
     # m "\"...You think that has something to do with everything that’s been going on in Echo?\""
-    m "“...這跟回音鎮發生的一切有關係嗎？”"
+    m "“……這跟回音鎮發生的一切有關係嗎？”"
 
 # game/williamroute3.rpy:5033
 translate Tchinese hattie_03cfee80:
@@ -13611,7 +13611,7 @@ translate Tchinese hattie_5a60241b:
 translate Tchinese hattie_d7e26a73:
 
     # wi "\"The prior sheriff’s leave was... sudden, but the city hall sent out a scouting campaign, paraded me around town to talk about my experiences, then held the election.\""
-    wi "“前任警長走得...很突然。鎮公所辦了一場招募會，他們帶著我招搖過市，到處宣傳我的資歷，之後進行了選舉。”"
+    wi "“前任警長走得……很突然。鎮公所辦了一場招募會，他們帶著我招搖過市，到處宣傳我的資歷，之後進行了選舉。”"
 
 # game/williamroute3.rpy:5166
 translate Tchinese hattie_8e36c8c9:
@@ -13929,7 +13929,7 @@ translate Tchinese hattie_952e89e8:
 translate Tchinese hattie_bcb9e0fb:
 
     # m "\"Why don’t you just...\""
-    m "“為什麼你不...”"
+    m "“為什麼你不……”"
 
 # game/williamroute3.rpy:5280
 translate Tchinese hattie_ccc29e1f:
@@ -13959,7 +13959,7 @@ translate Tchinese hattie_d47c792f:
 translate Tchinese hattie_21a56dca:
 
     # wi "\"For his belt...\""
-    wi "“腰上的鏈子...”"
+    wi "“腰上的鏈子……”"
 
 # game/williamroute3.rpy:5291
 translate Tchinese hattie_6f40f7c3:
@@ -13971,7 +13971,7 @@ translate Tchinese hattie_6f40f7c3:
 translate Tchinese hattie_f414e3bd:
 
     # wi "\"You know...\""
-    wi "“你知道嗎...”"
+    wi "“你知道嗎……”"
 
 # game/williamroute3.rpy:5296
 translate Tchinese hattie_ead69f52:
@@ -14223,7 +14223,7 @@ translate Tchinese hattie_7e83e41a:
 translate Tchinese hattie_9e867d3e:
 
     # wi "\"The last time we were there, it looked to me like she was stuck in place...\""
-    wi "“上次過去的時候，她給我一種悵然若失的感覺...”"
+    wi "“上次過去的時候，她給我一種悵然若失的感覺……”"
 
 # game/williamroute3.rpy:5404
 translate Tchinese hattie_be001484:
@@ -14277,7 +14277,7 @@ translate Tchinese hattie_b725ea87:
 translate Tchinese hattie_b83c49ac:
 
     # to "\"Sir...\""
-    to "“長官...”"
+    to "“長官……”"
 
 # game/williamroute3.rpy:5427
 translate Tchinese hattie_1bcfff34:
@@ -14313,7 +14313,7 @@ translate Tchinese hattie_895f004a:
 translate Tchinese hattie_134cb451:
 
     # m "\"So, the gun...\""
-    m "“所以，那把槍...”"
+    m "“所以，那把槍……”"
 
 # game/williamroute3.rpy:5447
 translate Tchinese hattie_584c8322:
@@ -14601,7 +14601,7 @@ translate Tchinese hattie_47ba7ea6:
 translate Tchinese hattie_60c8d2fa:
 
     # wi "\"Marcy...\""
-    wi "“Marcy...”"
+    wi "“Marcy……”"
 
 # game/williamroute3.rpy:5540
 translate Tchinese hattie_5ef4cf62:
@@ -14619,7 +14619,7 @@ translate Tchinese hattie_9bc14aae:
 translate Tchinese hattie_0adad0db:
 
     # mar "\"Yes...\""
-    mar "“是的...”"
+    mar "“是的……”"
 
 # game/williamroute3.rpy:5546
 translate Tchinese hattie_846ed126:
@@ -14679,7 +14679,7 @@ translate Tchinese hattie_ea484525:
 translate Tchinese hattie_df3068bc:
 
     # wi "\"Your dollies aren’t alive, Marcy...\""
-    wi "“娃娃是死的，Marcy...”"
+    wi "“娃娃是死的，Marcy……”"
 
 # game/williamroute3.rpy:5566
 translate Tchinese hattie_4296fdc0:
@@ -14733,7 +14733,7 @@ translate Tchinese hattie_510a18ec_1:
 translate Tchinese hattie_5e4e43fa:
 
     # m "\"Ma’am...\""
-    m "“太太...”"
+    m "“太太……”"
 
 # game/williamroute3.rpy:5592
 translate Tchinese hattie_94fb2aa2:
@@ -14757,7 +14757,7 @@ translate Tchinese hattie_6456f1e3:
 translate Tchinese hattie_60c8d2fa_1:
 
     # wi "\"Marcy...\""
-    wi "Marcy..."
+    wi "Marcy……"
 
 # game/williamroute3.rpy:5603
 translate Tchinese hattie_d8723232:
@@ -14769,7 +14769,7 @@ translate Tchinese hattie_d8723232:
 translate Tchinese hattie_fe2749be:
 
     # mar "\"...Hmm?\""
-    mar "...嗯？"
+    mar "……嗯？"
 
 # game/williamroute3.rpy:5606
 translate Tchinese hattie_290f18c3:
@@ -14787,7 +14787,7 @@ translate Tchinese hattie_030b811a:
 translate Tchinese hattie_d11f456a:
 
     # wi "\"...I’ll take that as a yes.\""
-    wi "“...我就當你答應了。”"
+    wi "“……我就當你答應了。”"
 
 # game/williamroute3.rpy:5611
 translate Tchinese hattie_df1fdd89:
@@ -14823,7 +14823,7 @@ translate Tchinese hattie_55556d56:
 translate Tchinese hattie_ccb924e5:
 
     # m "\"...I’m afraid of that woman.\""
-    m "“...真是怕了那個女人了。”"
+    m "“……真是怕了那個女人了。”"
 
 # game/williamroute3.rpy:5629
 translate Tchinese hattie_9e98ef13:
@@ -14841,7 +14841,7 @@ translate Tchinese hattie_81f3d44f:
 translate Tchinese hattie_b34b4ec7:
 
     # to "\"Well I don’t think you should have lied to her...\""
-    to "“我覺得不該騙她...”"
+    to "“我覺得不該騙她……”"
 
 # game/williamroute3.rpy:5637
 translate Tchinese hattie_5a81fe2a:
@@ -15021,7 +15021,7 @@ translate Tchinese hattie_159ea86a:
 translate Tchinese hattie_ded1d576:
 
     # to "\"We can start with a general sweep of the perimeter.\""
-    to "\"We can start with a general sweep of the perimeter.\""
+    to "“我們可以從周圍來個常規掃蕩。”"
 
 # game/williamroute3.rpy:5710
 translate Tchinese hattie_4f347139:
@@ -15057,7 +15057,7 @@ translate Tchinese hattie_9a06bc8e:
 translate Tchinese hattie_40542c5a:
 
     # "It takes us about a ten minute hike before we see any trace of anything at all down the dirt road."
-    "It takes us about a ten minute hike before we see any trace of anything at all down the dirt road."
+    "徒步下行在泥濘的道路十幾分鐘之後，我們在任何情況下還是找不到一點蛛絲馬跡。"
 
 # game/williamroute3.rpy:5713
 translate Tchinese hattie_d220e3f1:
@@ -15069,19 +15069,19 @@ translate Tchinese hattie_d220e3f1:
 translate Tchinese hattie_1d63be66:
 
     # m "\"Just how big is the Greene property?\""
-    m "\"Just how big is the Greene property?\""
+    m "“Greene家到底多大啊？”"
 
 # game/williamroute3.rpy:5715
 translate Tchinese hattie_407a49da:
 
     # to "\"Fifty acres, roughly.\""
-    to "\"Fifty acres, roughly.\""
+    to "“50英畝吧，大概。”"
 
 # game/williamroute3.rpy:5717
 translate Tchinese hattie_8efffaf6:
 
     # "That's a huge amount of land for the little cabin to sit on."
-    "That's a huge amount of land for the little cabin to sit on."
+    "這麼大塊地上面就為了蓋間小屋。"
 
 # game/williamroute3.rpy:5871
 translate Tchinese hattie_f11165cf:
@@ -15177,13 +15177,13 @@ translate Tchinese hattie_c5b43340:
 translate Tchinese hattie_1aee1c21:
 
     # to "\"There’s a hoe, a shovel, a can of oil...\""
-    to "“有一把鋤頭、一把鏟子、一罐油...”"
+    to "“有一把鋤頭、一把鏟子、一罐油……”"
 
 # game/williamroute3.rpy:5737
 translate Tchinese hattie_b6d6a198:
 
     # to "\"A well-used bin with some pine needles on the bottom, a few cans of paint...\""
-    to "“一個經常使用的箱子，底部有一些鬆針、幾罐油漆...”"
+    to "“一個經常使用的箱子，底部有一些鬆針、幾罐油漆……”"
 
 # game/williamroute3.rpy:5739
 translate Tchinese hattie_2e2a76c6:
@@ -15213,7 +15213,7 @@ translate Tchinese hattie_a8ea3559:
 translate Tchinese hattie_a9ace878:
 
     # m "\"Right...\""
-    m "“好吧...”"
+    m "“好吧……”"
 
 # game/williamroute3.rpy:5748
 translate Tchinese hattie_1a7c286e:
@@ -15573,73 +15573,73 @@ translate Tchinese hattie_7b577c37:
 translate Tchinese hattie_fb840429:
 
     # "I know Todd said he wanted to leave but I make sure to turn over ever shovel, every can, every piece of junk I can find."
-    "I know Todd said he wanted to leave but I make sure to turn over ever shovel, every can, every piece of junk I can find."
+    "我知道Todd想離開，但我還是想著實的拿轉起每把鏟子，倒翻出每個桶子，前後查看我能找到的每片垃圾。"
 
 # game/williamroute3.rpy:5872
 translate Tchinese hattie_2a698289:
 
     # "Todd just awkwardly stands by the door, looking out of it as if he won't leave until I go with him."
-    "Todd just awkwardly stands by the door, looking out of it as if he won't leave until I go with him."
+    "Todd一直尷尬地站在門旁，把頭撇開，彷彿表達我不跟他一起走，他也不願意離開似的。"
 
 # game/williamroute3.rpy:5873
 translate Tchinese hattie_807c0e77:
 
     # "When hr figures out I'm determined to be thorough, he sags a bit and starts helping me sort through the junk."
-    "When hr figures out I'm determined to be thorough, he sags a bit and starts helping me sort through the junk."
+    "不過當他明白我是真心要做到底時，他開始把腰彎下一點然後幫我整理遍地的雜物。"
 
 # game/williamroute3.rpy:5874
 translate Tchinese hattie_0616f54a:
 
     # "After a decent while we sort through more paint cans than I can count."
-    "After a decent while we sort through more paint cans than I can count."
+    "經過幾個怡人的片刻，然後我們分類出一大堆油漆桶，多到我數不完。"
 
 # game/williamroute3.rpy:5875
 translate Tchinese hattie_0d17bc8c:
 
     # "I check under the slats in the floorboard."
-    "I check under the slats in the floorboard."
+    "我往底層狹板裡面看。"
 
 # game/williamroute3.rpy:5876
 translate Tchinese hattie_43b70aba:
 
     # "One of them goes back in quick-like when I see an angry looking black scorpion skittering towards the direction of my arm."
-    "One of them goes back in quick-like when I see an angry looking black scorpion skittering towards the direction of my arm."
+    "那一團裡面其中一隻突然回神，剎那間我看到一隻兇惡的黑蠍子往我手臂的方向躍衝。"
 
 # game/williamroute3.rpy:5877
 translate Tchinese hattie_b901d6dd:
 
     # "I wipe my brow with the back of my arm and keep looking."
-    "I wipe my brow with the back of my arm and keep looking."
+    "我用我的手臂背部撥弄我的眉毛，並且保持警戒。"
 
 # game/williamroute3.rpy:5878
 translate Tchinese hattie_2ead9414:
 
     # "Todd looks at me back with that wide stare."
-    "Todd looks at me back with that wide stare."
+    "Todd在我後面瞪大了雙眼看著。"
 
 # game/williamroute3.rpy:5880
 translate Tchinese hattie_75253576:
 
     # m "\"Find anything yet?\""
-    m "\"Find anything yet?\""
+    m "“有找到任何東西嗎？”"
 
 # game/williamroute3.rpy:5882
 translate Tchinese hattie_aeca2ff7:
 
     # "He shakes his head."
-    "He shakes his head."
+    "他搖搖頭。"
 
 # game/williamroute3.rpy:5883
 translate Tchinese hattie_a54f5bd4:
 
     # m "\"Well, we've got just a few more things to look through.\""
-    m "\"Well, we've got just a few more things to look through.\""
+    m "“嗯，咱們找到一些東西可以看看了。”"
 
 # game/williamroute3.rpy:5885
 translate Tchinese hattie_1afe2c29:
 
     # m "\"Do you know if Marcy owned the house before Huxley?\""
-    m "\"Do you know if Marcy owned the house before Huxley?\""
+    m "“你知道是否Marcy在Huxley之前就擁有這間房了嗎？”"
 
 # game/williamroute3.rpy:5964
 translate Tchinese hattie_b87741b0:
@@ -15753,7 +15753,7 @@ translate Tchinese hattie_f9764291:
 translate Tchinese hattie_7e0b53c2:
 
     # to "\"Now wait just a minute...\""
-    to "“給我慢著...”"
+    to "“給我慢著……”"
 
 # game/williamroute3.rpy:5889
 translate Tchinese hattie_4c05b311:
@@ -15843,7 +15843,7 @@ translate Tchinese hattie_dc8c5989:
 translate Tchinese hattie_a45edeb3:
 
     # m "\"And if you’re always more personal with men than women, well...\""
-    m "“而總是跟雄性私交...”"
+    m "“而總是跟雄性私交……”"
 
 # game/williamroute3.rpy:5912
 translate Tchinese hattie_646f2fb4:
@@ -15891,7 +15891,7 @@ translate Tchinese hattie_f9dac82b:
 translate Tchinese hattie_7fe12bbe:
 
     # m "\"...Were you thinking about some she-otter, or were you thinking about him?\""
-    m "“...你在‘那個’的時候，腦子裡想的是其他雌性水獺，還是雄性？”"
+    m "“……你在‘那個’的時候，腦子裡想的是其他雌性水獺，還是雄性？”"
 
 # game/williamroute3.rpy:5926
 translate Tchinese hattie_ac1935ae:
@@ -15921,13 +15921,13 @@ translate Tchinese hattie_85d7b6f1:
 translate Tchinese hattie_7991c023:
 
     # to "\"Ah...\""
-    to "“呃...”"
+    to "“呃……”"
 
 # game/williamroute3.rpy:5933
 translate Tchinese hattie_12c0e03b:
 
     # to "\"You’re definitely sleepin’ with Mr. Adler, then, ain’t you?\""
-    to "\"You’re definitely sleepin’ with Mr. Adler, then, ain’t you?\""
+    to "“你一定跟Adler先生睡在一起，不是嗎？”"
 
 # game/williamroute3.rpy:5969
 translate Tchinese hattie_91fc7c40:
@@ -15945,7 +15945,7 @@ translate Tchinese hattie_64905f91:
 translate Tchinese hattie_cc16147f:
 
     # to "\"It's just a lot to take in when I start to really think about it.\""
-    to "\"It's just a lot to take in when I start to really think about it.\""
+    to "“當我開始正視的時候，這些事多到難以消化。”"
 
 # game/williamroute3.rpy:5979
 translate Tchinese hattie_512d25d8:
@@ -15975,7 +15975,7 @@ translate Tchinese hattie_d92013fd_1:
 translate Tchinese hattie_02c6f6f0:
 
     # to "\"So, uh...\""
-    to "“所以，呃...”"
+    to "“所以，呃……”"
 
 # game/williamroute3.rpy:5946
 translate Tchinese hattie_df940e67:
@@ -15987,55 +15987,55 @@ translate Tchinese hattie_df940e67:
 translate Tchinese hattie_a791c02c:
 
     # "He pauses, stammering a bit, like he's trying to spit something out."
-    "He pauses, stammering a bit, like he's trying to spit something out."
+    "他停下話語，又結結巴巴了一下，好像努力想吐出些什麼。"
 
 # game/williamroute3.rpy:5981
 translate Tchinese hattie_e131da58:
 
     # to "\"Mostly because I know he's not supposed to.\""
-    to "\"Mostly because I know he's not supposed to.\""
+    to "“就是因為在社會教條上，我知道，他這樣做不應該。”"
 
 # game/williamroute3.rpy:5983
 translate Tchinese hattie_9b2799d2:
 
     # to "\"And also because I think it’s easy to see why he’d want you to.\""
-    to "\"And also because I think it’s easy to see why he’d want you to.\""
+    to "“但且因為在我的立場上，我思索，\n有了個顯而易見的原因，他想要跟你在一起，並沒有所謂應不應該。”"
 
 # game/williamroute3.rpy:5984
 translate Tchinese hattie_245e69ea:
 
     # "Now there's a confession."
-    "Now there's a confession."
+    "坦承於此。"
 
 # game/williamroute3.rpy:5985
 translate Tchinese hattie_fe4e6a81:
 
     # "I knew there was something funny about this one when I worked him up to spankin' himself off at the Sherrif's office."
-    "I knew there was something funny about this one when I worked him up to spankin' himself off at the Sherrif's office."
+    "我想起有件趣事，之前他在警長室，\n同樣的話題，他被我弄生氣到拍他自己的屁股。"
 
 # game/williamroute3.rpy:5986
 translate Tchinese hattie_eaa113bf:
 
     # "But something's put him in an earnest mood."
-    "But something's put him in an earnest mood."
+    "但這次不知道為什麼，他坦然於胸的侃侃而談。"
 
 # game/williamroute3.rpy:5987
 translate Tchinese hattie_a1546a2f:
 
     # "Maybe the all the anxiety's loosened his tongue a bout."
-    "Maybe the all the anxiety's loosened his tongue a bout."
+    "大概是因為這次所有捆綁在他嘴巴的焦慮鬆開了吧"
 
 # game/williamroute3.rpy:5988
 translate Tchinese hattie_600fa234:
 
     # "I heard before from Cynthia that otters get squeaky when they're scared, and also when they're in a mood."
-    "I heard before from Cynthia that otters get squeaky when they're scared, and also when they're in a mood."
+    "我聽Cynthia說過，水獺在被嚇到或高興的時候都會破口發出叫聲。"
 
 # game/williamroute3.rpy:5989
 translate Tchinese hattie_aea84397:
 
     # "Maybe Todd's the kind to mix those two emotions up."
-    "Maybe Todd's the kind to mix those two emotions up."
+    "現在Tobb應該是兩種情緒混合在一起了吧。"
 
 # game/williamroute3.rpy:5992
 translate Tchinese hattie_acdd4207:
@@ -16047,7 +16047,7 @@ translate Tchinese hattie_acdd4207:
 translate Tchinese hattie_64f2e4c3:
 
     # to "\"Well I try not to get stiff at all, Mr. Ayers.\""
-    to "\"Well I try not to get stiff at all, Mr. Ayers.\""
+    to "“呃，我窮盡全力不讓自己有反應了，Ayers先生。”"
 
 # game/williamroute3.rpy:6032
 translate Tchinese hattie_520f9104:
@@ -16083,7 +16083,7 @@ translate Tchinese hattie_e1216bff:
 translate Tchinese hattie_c5a30825:
 
     # to "\"Mr. Ayers...\""
-    to "“Ayers先生...”"
+    to "“Ayers先生……”"
 
 # game/williamroute3.rpy:5962
 translate Tchinese hattie_78cc6cc5:
@@ -16161,7 +16161,7 @@ translate Tchinese hattie_0c5b4015:
 translate Tchinese hattie_c5a30825_1:
 
     # to "\"Mr. Ayers...\""
-    to "“Ayers先生...”"
+    to "“Ayers先生……”"
 
 # game/williamroute3.rpy:5985
 translate Tchinese hattie_0ae41e3c:
@@ -16191,7 +16191,7 @@ translate Tchinese hattie_94bb64c2:
 translate Tchinese hattie_1a26fc21:
 
     # to "\"I don’t know if I'd feel right doing something like that in Marcy’s shed.\""
-    to "\"I don’t know if I'd feel right doing something like that in Marcy’s shed.\""
+    to "“我感覺在別人家的棚子，如Marcy家的，做這檔事我不知道對不對。”"
 
 # game/williamroute3.rpy:6041
 translate Tchinese hattie_c2fb3868:
@@ -16227,37 +16227,37 @@ translate Tchinese hattie_bef5f7e9:
 translate Tchinese hattie_ba982ccc:
 
     # to "\"Feels less disrespectful to indugle in earthly pleasures out in nature.\""
-    to "\"Feels less disrespectful to indugle in earthly pleasures out in nature.\""
+    to "“在寬闊的大自然中解放塵世間的慾望，讓我沒有那麼多罪惡感。”"
 
 # game/williamroute3.rpy:6042
 translate Tchinese hattie_cc5b4b5a:
 
     # to "\"Plus, there’s coverage behind the shed.\""
-    to "\"Plus, there’s coverage behind the shed.\""
+    to "“而且，躲到棚子後面還有個掩護。”"
 
 # game/williamroute3.rpy:6043
 translate Tchinese hattie_387b04b7:
 
     # to "\"And Aint nobody comes this way.\""
-    to "\"And Aint nobody comes this way.\""
+    to "“應該沒有人會從那個方向來看到這裡。”"
 
 # game/williamroute3.rpy:6045
 translate Tchinese hattie_acd6fa37:
 
     # to "\"You, ah, really wanna do this?\""
-    to "\"You, ah, really wanna do this?\""
+    to "“你，呃，真的確定要做嗎？”"
 
 # game/williamroute3.rpy:6046
 translate Tchinese hattie_9dba80a9:
 
     # m "\"Do you?\""
-    m "\"Do you?\""
+    m "“你呢？”"
 
 # game/williamroute3.rpy:6048
 translate Tchinese hattie_c1cd832a:
 
     # "I'm asking him and myself both the question at the same time."
-    "I'm asking him and myself both the question at the same time."
+    "我同時問了自己跟對方一樣的問題。"
 
 # game/williamroute3.rpy:6053
 translate Tchinese hattie_8bdd5ca4:
@@ -16281,25 +16281,25 @@ translate Tchinese hattie_2d9a04e7:
 translate Tchinese hattie_e8e295eb:
 
     # m "\"How about I just give you a taste of the experience?\""
-    m "\"How about I just give you a taste of the experience?\""
+    m "“就淺嚐一下這滋味如何？”"
 
 # game/williamroute3.rpy:6054
 translate Tchinese hattie_2b60186e:
 
     # m "\"We can do something quick and easy and then you can vist me later...\""
-    m "\"We can do something quick and easy and then you can vist me later...\""
+    m "“我們就簡單快速地做完半套，\n你還想要更多的話，之後再來找我……”"
 
 # game/williamroute3.rpy:6055
 translate Tchinese hattie_45e44ca8:
 
-    # m "\"...with money.\""
-    m "\"...with money.\""
+    # m "\"……with money.\""
+    m "“記得帶錢……。”"
 
 # game/williamroute3.rpy:6057
 translate Tchinese hattie_bda909df:
 
     # to "\"Well how quick is quick?\""
-    to "\"Well how quick is quick?\""
+    to "“呃，簡單快速是多簡單快速？”"
 
 # game/williamroute3.rpy:6855
 translate Tchinese hattie_f5598544:
@@ -16323,7 +16323,7 @@ translate Tchinese hattie_078e1d26:
 translate Tchinese hattie_968b3c02:
 
     # to "\"...Why not?\""
-    to "“...為什麼不能？”"
+    to "“……為什麼不能？”"
 
 # game/williamroute3.rpy:6024
 translate Tchinese hattie_6340d63b:
@@ -16395,7 +16395,7 @@ translate Tchinese hattie_d5943414:
 translate Tchinese hattie_5fb6b170:
 
     # to "\"D-don’t remind me.\""
-    to "“不-不用你提醒。”"
+    to "“不──不用你提醒。”"
 
 # game/williamroute3.rpy:6042
 translate Tchinese hattie_f8ed53df:
@@ -16491,7 +16491,7 @@ translate Tchinese hattie_d980d9b1:
 translate Tchinese hattie_d8192972:
 
     # to "\"I don’t...\""
-    to "“我不...”"
+    to "“我不……”"
 
 # game/williamroute3.rpy:6064
 translate Tchinese hattie_d6218935:
@@ -16545,7 +16545,7 @@ translate Tchinese hattie_b844e866:
 translate Tchinese hattie_c62976ce:
 
     # m "\"Gonna ask you again...\""
-    m "“再問你一次...”"
+    m "“再問你一次……”"
 
 # game/williamroute3.rpy:6078
 translate Tchinese hattie_6b939ab8:
@@ -17271,7 +17271,7 @@ translate Tchinese hattie_3f9a9d83:
 translate Tchinese hattie_9d71ee4f:
 
     # to "\"M-ma’am...\""
-    to "“太-太太...”"
+    to "“太──太太……”"
 
 # game/williamroute3.rpy:6352
 translate Tchinese hattie_f8281bdc:
@@ -17301,7 +17301,7 @@ translate Tchinese hattie_0fa98db1:
 translate Tchinese hattie_8e0e3b7a:
 
     # to "\"That’s...\""
-    to "“這是...”"
+    to "“這是……”"
 
 # game/williamroute3.rpy:6362
 translate Tchinese hattie_0202494b:
@@ -17349,7 +17349,7 @@ translate Tchinese hattie_a440cd09:
 translate Tchinese hattie_73fcd3fb:
 
     # to "\"I, uh, um... ok!\""
-    to "“我，呃...是！”"
+    to "“我，呃……是！”"
 
 # game/williamroute3.rpy:6381
 translate Tchinese hattie_60b803d5:
@@ -17367,7 +17367,7 @@ translate Tchinese hattie_42585a89:
 translate Tchinese hattie_db4f1c3a:
 
     # wi "\"Deep breaths, M-ma’am...\""
-    wi "“深呼吸，女士...”"
+    wi "“深呼吸，女士……”"
 
 # game/williamroute3.rpy:6392
 translate Tchinese hattie_248fe356:
@@ -17427,7 +17427,7 @@ translate Tchinese hattie_554499e4:
 translate Tchinese hattie_d8945a11:
 
     # to "\"C-can, we do that, M-ma’am...?\""
-    to "“我-我們該怎麼做，太-太太...？”"
+    to "“我──我們該怎麼做，太──太太……？”"
 
 # game/williamroute3.rpy:6417
 translate Tchinese hattie_34d8c6d7:
@@ -17745,7 +17745,7 @@ translate Tchinese hattie_dd387de8:
 translate Tchinese hattie_414eae9a:
 
     # wi "\"...What?\""
-    wi "“...什麼？”"
+    wi "“……什麼？”"
 
 # game/williamroute3.rpy:6522
 translate Tchinese hattie_43dc3b16:
@@ -17853,13 +17853,13 @@ translate Tchinese hattie_ee13d0be:
 translate Tchinese hattie_8d9f89d6:
 
     # "I’ve seen this root before."
-    "這植物...我有所耳聞。"
+    "這植物……我有所耳聞。"
 
 # game/williamroute3.rpy:6560
 translate Tchinese hattie_a2f914fe:
 
     # "...Did she really think this was a better fate for them than living with her husband?"
-    "...她真的認為比起和丈夫一起生活，這才是它更好的歸宿嗎？"
+    "……她真的認為比起和丈夫一起生活，這才是它更好的歸宿嗎？"
 
 # game/williamroute3.rpy:6561
 translate Tchinese hattie_99c3cc66:
@@ -17943,7 +17943,7 @@ translate Tchinese hattie_7a345c40:
 translate Tchinese hattie_7b35235d:
 
     # "But her bed..."
-    "然而她的床..."
+    "然而她的床……"
 
 # game/williamroute3.rpy:6582
 translate Tchinese hattie_24c9afa7:
@@ -17973,7 +17973,7 @@ translate Tchinese hattie_0cd13c3a:
 translate Tchinese hattie_b1f049de:
 
     # "It’s... I think she mentioned it’s her grandma’s burial shroud."
-    "這...我記得她提到過，是她奶奶的裹屍布。"
+    "這……我記得她提到過，是她奶奶的裹屍布。"
 
 # game/williamroute3.rpy:6587
 translate Tchinese hattie_36f61241:
@@ -18087,7 +18087,7 @@ translate Tchinese hattie_435042d0:
 translate Tchinese hattie_6a2742f0:
 
     # "Oh, God..."
-    "天啊..."
+    "天啊……"
 
 # game/williamroute3.rpy:6636
 translate Tchinese hattie_dbb89bd1:
@@ -18213,13 +18213,13 @@ translate Tchinese hattie_f17df39a:
 translate Tchinese hattie_6a00bfcf:
 
     # wi "\"...You do?\""
-    wi "“...有嗎？”"
+    wi "“……有嗎？”"
 
 # game/williamroute3.rpy:6685
 translate Tchinese hattie_93da2f0b:
 
     # to "\"...She used to make tarts.\""
-    to "“...她過去常做餡餅。”"
+    to "“……她過去常做餡餅。”"
 
 # game/williamroute3.rpy:6687
 translate Tchinese hattie_ca100712:
@@ -18297,7 +18297,7 @@ translate Tchinese hattie_3f868868:
 translate Tchinese hattie_a7423163:
 
     # to "\"Well I’ll be...\""
-    to "“哇，誰能想到...”"
+    to "“哇，誰能想到……”"
 
 # game/williamroute3.rpy:6729
 translate Tchinese hattie_c9d8f951:
@@ -18363,7 +18363,7 @@ translate Tchinese hattie_7fe9e355:
 translate Tchinese hattie_d37b508d:
 
     # wi "\"I think I have more than enough excuses to do this by now...\""
-    wi "“這也是迫不得已...”"
+    wi "“這也是迫不得已……”"
 
 # game/williamroute3.rpy:6749
 translate Tchinese hattie_c6567d5d:
@@ -18495,7 +18495,7 @@ translate Tchinese hattie_99fdda2d:
 translate Tchinese hattie_08958eaa_1:
 
     # to "\"Well, ah...\""
-    to "“唔...”"
+    to "“唔……”"
 
 # game/williamroute3.rpy:6798
 translate Tchinese hattie_b330cfb2:
@@ -18525,7 +18525,7 @@ translate Tchinese hattie_9dab0ed2:
 translate Tchinese hattie_161d49dd:
 
     # "And he opens it."
-    "And he opens it."
+    "他把冰櫃打開了"
 
 
 translate Tchinese hattie_1fdd65ee:
@@ -18597,7 +18597,7 @@ translate Tchinese hattie_6090e02c:
 translate Tchinese hattie_364f2d0a:
 
     # wi "\"Now don’t take this personal...\""
-    wi "“別往心裡去...”"
+    wi "“別往心裡去……”"
 
 # game/williamroute3.rpy:6825
 translate Tchinese hattie_0d66210c:
@@ -18639,13 +18639,13 @@ translate Tchinese hattie_e4cb4b5e:
 translate Tchinese hattie_1d2ac54f:
 
     # to "\"Y-yeah, and the crib.\""
-    to "“是-是啊，還有那張嬰兒床。”"
+    to "“是──是啊，還有那張嬰兒床。”"
 
 # game/williamroute3.rpy:6844
 translate Tchinese hattie_af2bcbf5:
 
     # wi "\"Okay...fine.\""
-    wi "...好吧。"
+    wi "……好吧。"
 
 # game/williamroute3.rpy:6845
 translate Tchinese hattie_f6e76320:
@@ -18657,7 +18657,7 @@ translate Tchinese hattie_f6e76320:
 translate Tchinese hattie_f4b3bec8:
 
     # wi "\"So... the crib and this doll...\""
-    wi "“那麼...嬰兒床和娃娃...”"
+    wi "“那麼……嬰兒床和娃娃……”"
 
 # game/williamroute3.rpy:6850
 translate Tchinese hattie_0f90f765:
@@ -18693,7 +18693,7 @@ translate Tchinese hattie_aab25d51:
 translate Tchinese hattie_db9cd1c8:
 
     # wi "\"Why don’t we go find out...\""
-    wi "“咱們不妨去問...”"
+    wi "“咱們不妨去問……”"
 
 # game/williamroute3.rpy:6863
 translate Tchinese hattie_035f31a2:
@@ -18705,7 +18705,7 @@ translate Tchinese hattie_035f31a2:
 translate Tchinese hattie_8c4bd4e8:
 
     # wi "\"Say... Sam?\""
-    wi "“我說...Sam？”"
+    wi "“我說……Sam？”"
 
 # game/williamroute3.rpy:6873
 translate Tchinese hattie_bac208f2:
@@ -18741,7 +18741,7 @@ translate Tchinese hattie_89a8d797:
 translate Tchinese hattie_9788f6f8:
 
     # m "\"...Right.\""
-    m "“...是沒錯。”"
+    m "“……是沒錯。”"
 
 # game/williamroute3.rpy:6886
 translate Tchinese hattie_582b2f65:
@@ -18825,7 +18825,7 @@ translate Tchinese hattie_8e4063cb:
 translate Tchinese hattie_fad22cd7:
 
     # mar "\"Penelope...\""
-    mar "“Penelope...”"
+    mar "“Penelope……”"
 
 # game/williamroute3.rpy:6912
 translate Tchinese hattie_480e397b:
@@ -18969,7 +18969,7 @@ translate Tchinese hattie_9b949670:
 translate Tchinese hattie_986b76d2:
 
     # wi "\"Mrs. Greene...\""
-    wi "“Greene女士...”"
+    wi "“Greene女士……”"
 
 # game/williamroute3.rpy:6968
 translate Tchinese hattie_ae513beb:
@@ -18993,7 +18993,7 @@ translate Tchinese hattie_f52c9a45:
 translate Tchinese hattie_ccd3d05a:
 
     # mar "\"Not because I think it made him happy...\""
-    mar "“不只因為他喜歡...”"
+    mar "“不只因為他喜歡……”"
 
 # game/williamroute3.rpy:6979
 translate Tchinese hattie_cfec5e80:
@@ -19017,13 +19017,13 @@ translate Tchinese hattie_535faca0:
 translate Tchinese hattie_0e9d9fa7:
 
     # mar "\"I just think...\""
-    mar "“我只是想...”"
+    mar "“我只是想……”"
 
 # game/williamroute3.rpy:6988
 translate Tchinese hattie_f1cb38d1:
 
     # mar "\"I just think--\""
-    mar "“我只是想-”"
+    mar "“我只是想──”"
 
 # game/williamroute3.rpy:6993
 translate Tchinese hattie_f7a04e7b:
@@ -19053,7 +19053,7 @@ translate Tchinese hattie_9dcb51b8:
 translate Tchinese hattie_ced01c11:
 
     # mar "\"But I... want. To.\""
-    mar "“但我...{b}就要{/b}。”"
+    mar "“但我……{b}就要{/b}。”"
 
 # game/williamroute3.rpy:7004
 translate Tchinese hattie_fd3e1342:
@@ -19065,7 +19065,7 @@ translate Tchinese hattie_fd3e1342:
 translate Tchinese hattie_6f3901f9:
 
     # mar "\"Not even... dead...\""
-    mar "“就算...在他死後...”"
+    mar "“就算……在他死後……”"
 
 # game/williamroute3.rpy:7007
 translate Tchinese hattie_e304407f:
@@ -19089,13 +19089,13 @@ translate Tchinese hattie_cf920c58:
 translate Tchinese hattie_cb5b9a0e:
 
     # mar "\"Red... fox...\""
-    mar "“紅色的...狐狸...”"
+    mar "“紅色的……狐狸……”"
 
 # game/williamroute3.rpy:7011
 translate Tchinese hattie_4e267d77:
 
     # wi "\"Red...\""
-    wi "“紅色的...”"
+    wi "“紅色的……”"
 
 # game/williamroute3.rpy:7013
 translate Tchinese hattie_38037788:
@@ -19107,7 +19107,7 @@ translate Tchinese hattie_38037788:
 translate Tchinese hattie_ee759996:
 
     # "...That’s what I needed."
-    "...我需要的就是這個。"
+    "……我需要的就是這個。"
 
 # game/williamroute3.rpy:7016
 translate Tchinese hattie_adeb5fa0:
@@ -19125,7 +19125,7 @@ translate Tchinese hattie_771ed6b5:
 translate Tchinese hattie_508b0dc6:
 
     # to "\"Y-yes sir.\""
-    to "“是-是，長官。”"
+    to "“是──是，長官。”"
 
 # game/williamroute3.rpy:7022
 translate Tchinese hattie_4907097a:
@@ -19533,7 +19533,7 @@ translate Tchinese hattie_1439d779:
 translate Tchinese hattie_5270d2bd:
 
     # wi "\"...I’m sorry.\""
-    wi "“...抱歉。”"
+    wi "“……抱歉。”"
 
 # game/williamroute3.rpy:7141
 translate Tchinese hattie_b3ffcaa2:
@@ -19611,7 +19611,7 @@ translate Tchinese hattie_3763c887:
 translate Tchinese hattie_bca384dc:
 
     # mu "\"Although...\""
-    mu "“不過嘛...”"
+    mu "“不過嘛……”"
 
 # game/williamroute3.rpy:7164
 translate Tchinese hattie_05193031:
@@ -19695,7 +19695,7 @@ translate Tchinese hattie_2721a605:
 translate Tchinese hattie_6abf2b1a:
 
     # wi "\"I have just a few more questions...\""
-    wi "“我還有幾個問題...”"
+    wi "“我還有幾個問題……”"
 
 # game/williamroute3.rpy:7190
 translate Tchinese hattie_b61f0723:
