@@ -38,15 +38,15 @@ class TransFileHandler:
                 for line in sorted(list(diffResult)):
                     r.write(line+'\n')
 
-    def initNewTransFile(self, stringsBlockOverride=False, dupHashOverride=True) -> None:
-        fnRefinedDict = self.normalizeFile(self.rawDestinationFile, dupHashOverride)
-        foRefinedDict = self.normalizeFile(self.rawSourceFile, dupHashOverride)
+    def initNewTransFile(self, stringsBlockOverride=False, dupHashOverride=True, editFullwidthPunctuation=True) -> None:
+        fnRefinedDict = self.normalizeFile(self.rawDestinationFile, dupHashOverride, editFullwidthPunctuation)
+        foRefinedDict = self.normalizeFile(self.rawSourceFile, dupHashOverride, editFullwidthPunctuation)
         
         if fnRefinedDict['cotainStringsBlock'] and not stringsBlockOverride:
             workScope = len(fnRefinedDict['orderedHash'])-1
         else:
             workScope = len(fnRefinedDict['orderedHash'])
-
+        
         for i in range(workScope):
             try:
                 pos = foRefinedDict['orderedHash'].index(fnRefinedDict['orderedHash'][i])
@@ -63,98 +63,234 @@ class TransFileHandler:
             for l in outputContent:
                 r.write(l)
 
-    def normalizeFile(self, smudgyFile, dupHashOverride=True) -> dict:
-        localRawFile = smudgyFile[:]
+    def normalizeFile(self, smudgyFile, dupHashOverride=True, editFullwidthPunctuation=True) -> dict:
+        localRawFile = smudgyFile.copy()
         newOriginDict = {'headerWords':[], 'orderedHash':[], 'content':[], 'duplicateHash':False, 'cotainStringsBlock':False, 'errorLog':{}}
-        rawFileHash = [line for line in localRawFile if self.findHashPattern in line]
-        newOriginDict['headerWords'].extend(localRawFile[:localRawFile.index(rawFileHash[0])])
-        tmpContent = []
+        errorWords = [
+            "You're using the 'dupHashOverride' mode, it will only keep the lastest updated content.",
+            'All of the above are the dups you might want to clean from '+self.sourcePath+self.fileName,
+            "Error, there are duplicate contents in this file and might cause malfunction(s) into renpy.",
+            "The dups are from "+self.sourcePath+self.fileName,
+            "Before cleaning them or choosing which line(s) to remain, the result is empty."
+            ]
 
-        #merge and condense 'translate [TranslationFile] strings' text blocks to the bottom of the file
-        #there is still a chance that duplicate content in the block after merging, so a manual check is needed
-        if rawFileHash.count(self.stringsBlockPattern):
-            newOriginDict['cotainStringsBlock'] = True
-        while rawFileHash.count(self.stringsBlockPattern) > 0:
-            startPositionHash = rawFileHash.index(self.stringsBlockPattern)
-            startPositionContent = localRawFile.index(self.stringsBlockPattern)
-            try:
-                while rawFileHash[startPositionHash+1] == self.stringsBlockPattern:
-                    rawFileHash.pop(startPositionHash+1)
-                    localRawFile.pop(startPositionContent)
-                    nextPatterPosAtLocalRaw = localRawFile.index(self.stringsBlockPattern)+1
-                    localRawFile.insert(startPositionContent, self.stringsBlockPattern)
-                    localRawFile.pop(nextPatterPosAtLocalRaw)
-                endPositionContent = localRawFile.index(rawFileHash[startPositionHash+1])
-            except:
-                endPositionContent = len(localRawFile)
-
-            temLineCount = endPositionContent-startPositionContent
-            tmpContent.extend(localRawFile[startPositionContent+1:endPositionContent])
-
-            for i in range(temLineCount):
-                localRawFile.pop(startPositionContent)
-            rawFileHash.pop(startPositionHash)
-
-        if tmpContent:
-            rawFileHash.append(self.stringsBlockPattern)
-            localRawFile.append('\n')
-            localRawFile.append(self.stringsBlockPattern)
-            for l in tmpContent:
-                localRawFile.append(l)
-
-        if len(rawFileHash) == len(set(rawFileHash)):
-            for i in range(len(rawFileHash)-1):
-                newOriginDict['content'].append({ rawFileHash[i]:localRawFile[localRawFile.index(rawFileHash[i]):localRawFile.index(rawFileHash[i+1])] })
-            newOriginDict['content'].append({ rawFileHash[-1]:localRawFile[localRawFile.index(rawFileHash[-1]):] })
-            newOriginDict['orderedHash'].extend(rawFileHash)
-        else:
-            newOriginDict['duplicateHash'] = True
-            dupHash = [str(rawFileHash.count(dh))+'* '+dh[:-2] for dh in rawFileHash if rawFileHash.count(dh)>1]
-            newOriginDict['errorLog'] = set(dupHash)
-
-            #Only keep the lastest hash content.
-            if dupHashOverride:
-                print("You're using the 'dupHashOverride' mode, it will only keep the lastest updated content.")
-                print(set(dupHash))
-                print('All of the above are the dups you might want to clean from '+self.sourcePath+self.fileName)
-
-                currentHash = rawFileHash[0]
-                temData = []
-                for line in newOriginDict['headerWords']:
-                    localRawFile.pop(0)
-                localRawFile.pop(0)
-                for line in localRawFile:
-                    if  self.findHashPattern in line:
-                        temData.insert(0, currentHash)
-                        newOriginDict['content'].append({currentHash:temData})
-                        newOriginDict['orderedHash'].append(currentHash)
-                        temData = []
-                        currentHash = line
-                        if line == self.stringsBlockPattern:
-                            break
-                    else:
-                        temData.append(line)
-                if not newOriginDict['cotainStringsBlock']:
+        temData = []
+        currentHash = ""
+        for line in localRawFile:
+            if  self.findHashPattern in line:
+                if currentHash == "":
+                    newOriginDict['headerWords'] = temData
+                else:
                     temData.insert(0, currentHash)
                     newOriginDict['content'].append({currentHash:temData})
                     newOriginDict['orderedHash'].append(currentHash)
-                    temData = []
-
-                alreadyPopped = []
-                for dh in rawFileHash:
-                    if rawFileHash.count(dh)>1 and dh not in alreadyPopped:
-                        alreadyPopped.append(dh)
-                        while newOriginDict['orderedHash'].count(dh)>1:
-                            popPosition = newOriginDict['orderedHash'].index(dh)
-                            newOriginDict['orderedHash'].pop(popPosition)
-                            newOriginDict['content'].pop(popPosition)
+                temData = []
+                currentHash = line
             else:
-                print("Error, there are duplicate contents in this file and might cause malfunction(s) into renpy")
-                print(set(dupHash))
-                print("The dups are from "+self.sourcePath+self.fileName)
-                print("Before cleaning them or choosing which line(s) to remain, the result is wrong.")
-                newOriginDict['content'] = []
+                temData.append(line)
+        temData.insert(0, currentHash)
+        newOriginDict['content'].append({currentHash:temData})
+        newOriginDict['orderedHash'].append(currentHash)
+        temData = []
+
+        while newOriginDict['orderedHash'].count(self.stringsBlockPattern) > 0:
+            pos = newOriginDict['orderedHash'].index(self.stringsBlockPattern)
+            temData.extend(newOriginDict['content'].pop(pos)[self.stringsBlockPattern])
+            newOriginDict['orderedHash'].pop(pos)
+        if temData:
+            newOriginDict['cotainStringsBlock'] = True
+            newOriginDict['content'].append({self.stringsBlockPattern:temData})
+            newOriginDict['orderedHash'].append(self.stringsBlockPattern)
+        del temData
+        del currentHash
+        
+        if len(newOriginDict['orderedHash']) != len(set(newOriginDict['orderedHash'])):
+            dupHashMsg = str(set([str(newOriginDict['orderedHash'].count(hh))+'* '+hh for hh in newOriginDict['orderedHash'] if newOriginDict['orderedHash'].count(hh)>1]))
+            if dupHashOverride:
+                for hh in newOriginDict['orderedHash'].copy():
+                    while newOriginDict['orderedHash'].count(hh) > 1:
+                        pos = newOriginDict['orderedHash'].index(hh)
+                        newOriginDict['content'].pop(pos)
+                        newOriginDict['orderedHash'].pop(pos)
+                print(errorWords[0])
+                print(dupHashMsg)
+                print(errorWords[1])
+            else:
+                newOriginDict['duplicateHash'] = True
+                print(errorWords[2])
+                print(dupHashMsg)
+                print(errorWords[3])
+                print(errorWords[4])
+                newOriginDict['headerWords'] = [errorWords[2]+'\n', dupHashMsg+'\n', errorWords[3], errorWords[4]]
                 newOriginDict['orderedHash'] = []
-                newOriginDict['headerWords'] = []
-                
+                newOriginDict['content'] = []
+
+        if not newOriginDict['duplicateHash'] and editFullwidthPunctuation:
+            for i in range(len(newOriginDict['orderedHash'])-1):
+                newOriginDict['content'][i][newOriginDict['orderedHash'][i]] = self.editFuwiPunc(newOriginDict['content'][i][newOriginDict['orderedHash'][i]])
         return newOriginDict
+
+    def editFuwiPunc(self, contentLines):
+        # '!':'！', ':':'：', ',':':'、', hash tag(#) without following-a-space can't easily replace cuz of the syntax below, manually check please.
+        # define earned_points_info = _("[points]{image=points.png} 贏得點數")
+        # g "我很高興看到你 [earned_points_info!ti] "
+        # $ percent = 100.0 * points / max_points
+        # g "我百分之 [percent:.2] 喜歡你！"
+        # "{color=#f00}紅色{/color}, {color=#00ff00}綠色{/color}, {color=#0000ffff}藍色{/color}"
+        # 角色是???的也要人工看一下
+        contentLines = contentLines.copy()
+        targetPairs = {'...':'……',
+            '-':'──',
+            ',':'，',
+            '．':'。',
+            ':':'：',
+            '!':'！',
+            ':':'：',
+            '?':'？'
+        }
+        hardToFind = {'..':'……',
+        '.':'。',
+        '…':'……',
+        '—':'──',
+        }
+
+        nearestUpSideComment = []
+        validLineCount = []
+        addDoubleQuotes = False
+        ncPos = -1
+        for i in range(len(contentLines)):
+            if not contentLines[i].isspace() and '# ' in contentLines[i] and '# TODO' not in contentLines[i] and '# game' not in contentLines[i]:
+                nearestUpSideComment.append(i)
+            if not contentLines[i].isspace() and '# ' not in contentLines[i] and '$ ' not in contentLines[i] and '[' not in contentLines[i] and '{' not in contentLines[i] and self.findHashPattern not in contentLines[i]:
+                validLineCount.append(i)
+                for targ in targetPairs.keys():
+                    contentLines[i] = contentLines[i].replace(targ, targetPairs[targ])
+
+                #hardToFind
+                contentLines[i] = contentLines[i].replace('..', hardToFind['..'])
+
+                try:
+                    endPos = contentLines[i].rindex('"')
+                    if contentLines[i][endPos-1] == '.':
+                        contentLines[i] = contentLines[i][:endPos-1]+hardToFind['.']+contentLines[i][endPos:]
+                except:
+                    pass
+                
+
+                # contentLines[i] = self.findDupPunc('…', contentLines[i])
+                # contentLines[i] = self.findDupPunc('—', contentLines[i])
+                # contentLines[i] = self.findDupPunc('─', contentLines[i])
+                allMatches = [(m.start(0), m.end(0)) for m in re.finditer('…', contentLines[i])]
+                if allMatches:
+                    preMarked = ()
+                    singleMarks = []
+                    counter = 0
+                    tmplist = list(contentLines[i])
+                    for p in allMatches:
+                        if not preMarked or counter == 2:
+                            preMarked = p
+                            counter = 1
+                        elif p[0] == preMarked[1] and counter < 2:
+                            preMarked = p
+                            counter += 1
+                        else:
+                            singleMarks.append(preMarked)
+                            preMarked = p
+                    if counter < 2:
+                        singleMarks.append(allMatches[-1])
+                    singleMarks.reverse()
+                    for sm in singleMarks:
+                        tmplist.insert(sm[1], '…')
+                    contentLines[i] = ''.join(tmplist)
+
+                allMatches = [(m.start(0), m.end(0)) for m in re.finditer('—', contentLines[i])]
+                if allMatches:
+                    preMarked = ()
+                    singleMarks = []
+                    counter = 0
+                    tmplist = list(contentLines[i])
+                    for p in allMatches:
+                        if not preMarked or counter == 2:
+                            preMarked = p
+                            counter = 1
+                        elif p[0] == preMarked[1] and counter < 2:
+                            preMarked = p
+                            counter += 1
+                        else:
+                            singleMarks.append(preMarked)
+                            preMarked = p
+                    if counter < 2:
+                        singleMarks.append(allMatches[-1])
+                    singleMarks.reverse()
+                    for sm in singleMarks:
+                        tmplist.insert(sm[1], '─')
+                    contentLines[i] = ''.join(tmplist)
+
+                allMatches = [(m.start(0), m.end(0)) for m in re.finditer('─', contentLines[i])]
+                if allMatches:
+                    preMarked = ()
+                    singleMarks = []
+                    counter = 0
+                    tmplist = list(contentLines[i])
+                    for p in allMatches:
+                        if not preMarked or counter == 2:
+                            preMarked = p
+                            counter = 1
+                        elif p[0] == preMarked[1] and counter < 2:
+                            preMarked = p
+                            counter += 1
+                        else:
+                            singleMarks.append(preMarked)
+                            preMarked = p
+                    if counter < 2:
+                        singleMarks.append(allMatches[-1])
+                    singleMarks.reverse()
+                    for sm in singleMarks:
+                        tmplist.insert(sm[1], '─')
+                    contentLines[i] = ''.join(tmplist)
+                
+                contentLines[i] = contentLines[i].replace('？？？', '???')
+        if nearestUpSideComment and validLineCount:
+            for nc in nearestUpSideComment:
+                if nc < validLineCount[0]:
+                    ncPos = nc
+        if ncPos != -1:
+            try:
+                if contentLines[ncPos].index('\\"') != contentLines[ncPos].rindex('\\"'):
+                    addDoubleQuotes = True
+            except:
+                pass
+        if addDoubleQuotes:
+            try:
+                if not ('“' in contentLines[validLineCount[0]]  and '”' in contentLines[validLineCount[0]]):
+                    if contentLines[validLineCount[0]].index('\\"') != contentLines[validLineCount[0]].rindex('\\"'):
+                        contentLines[validLineCount[0]] = contentLines[validLineCount[0]][:contentLines[validLineCount[0]].index('\\"')]+'“'+contentLines[validLineCount[0]][contentLines[validLineCount[0]].index('\\"')+2:contentLines[validLineCount[0]].rindex('\\"')]+'”'+contentLines[validLineCount[0]][contentLines[validLineCount[0]].rindex('\\"')+2:]
+            except:
+                pass
+        return contentLines
+
+    def findDupPunc(self, puncPattern, puncSourceLine) -> str:
+
+        allMatches = [(m.start(0), m.end(0)) for m in re.finditer(puncPattern, puncSourceLine)]
+        if allMatches:
+            print(allMatches)
+            preMarked = ()
+            singleMarks = []
+            counter = 0
+            tmplist = list(puncSourceLine)
+            for p in allMatches:
+                if not preMarked or counter == 2:
+                    preMarked = p
+                    counter = 1
+                elif p[0] == preMarked[1] and counter < 2:
+                    preMarked = p
+                    counter += 1
+                else:
+                    singleMarks.append(preMarked)
+                    preMarked = p
+            if counter < 2:
+                singleMarks.append(allMatches[-1])
+            singleMarks.reverse()
+            for sm in singleMarks:
+                tmplist.insert(sm[1], puncPattern)
+            return ''.join(tmplist)

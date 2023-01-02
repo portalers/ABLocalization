@@ -2182,7 +2182,7 @@ translate Tchinese Murdochroute_e403dcc9:
 translate Tchinese Murdochroute_e2e6f42c:
 
     # mu "\"Got those from lifting boxes and moving equipment... running to and fro, often the same routes and the same paths... every day.\""
-    mu "“抬箱子和搬運設備得來的……反覆奔波，經常是同樣的路線、同樣的道路...每天如此。”"
+    mu "“抬箱子和搬運設備得來的……反覆奔波，經常是同樣的路線、同樣的道路……每天如此。”"
 
 # game/Murdochroute.rpy:507
 translate Tchinese Murdochroute_7c123c4d:
@@ -5884,7 +5884,7 @@ translate Tchinese Murdochroute_6a23153d:
 translate Tchinese Murdochroute_ac56523f:
 
     # dh "\"You’ve probably given one to all of my students by now..\""
-    dh "“你可能已經發給我的全部學生了。..”"
+    dh "“你可能已經發給我的全部學生了。……”"
 
 # game/Murdochroute.rpy:1579
 translate Tchinese Murdochroute_e29a84e6:
@@ -7097,7 +7097,6 @@ translate Tchinese Murdochroute_367d248d:
 
     # "But for now, it's time to go home."
     "不過現在，該回家了。"
-
 
 translate Tchinese strings:
 

@@ -14,8 +14,9 @@ if __name__ == "__main__":
 
         tmpTC = TranslationKit.TransFileHandler(sourcePath=oldTCPath, destinationPath=newOriginTCPath, resultPath=resultTCPath, fileName=f, tranlationName='Tchinese')
         tmpTC.findDiff(followOrginOrder=True)
-        tmpTC.initNewTransFile(stringsBlockOverride=False, dupHashOverride=True)
+        tmpTC.initNewTransFile(stringsBlockOverride=False, dupHashOverride=True, editFullwidthPunctuation=True)
         
         tmpSC = TranslationKit.TransFileHandler(sourcePath=oldSCPath, destinationPath=newOriginSCPath, resultPath=resultSCPath, fileName=f, tranlationName='Schinese')
         tmpSC.findDiff(followOrginOrder=True)
-        tmpSC.initNewTransFile(stringsBlockOverride=False, dupHashOverride=True)
+        tmpSC.initNewTransFile(stringsBlockOverride=False, dupHashOverride=True, editFullwidthPunctuation=True)
+        del tmpTC, tmpSC
