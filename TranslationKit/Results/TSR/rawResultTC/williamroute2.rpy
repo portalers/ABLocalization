@@ -2514,7 +2514,6 @@ translate Tchinese williamroute2_64dac620:
     # mar "\"Maybe he liked his toys too, but he just didn’t want to tell me about it.\""
     mar "“也許他也喜歡玩具，但就是不想告訴我。”"
 
-
 translate Tchinese williamroute2_22dfca09:
 
     # "My fork goes down."
@@ -5290,7 +5289,7 @@ translate Tchinese after_sw1_8b9b225e:
 translate Tchinese after_sw1_a47a3b86:
 
     # wi "\"But funny thing.\""
-    wi "“然而有趣的是─”"
+    wi "“然而有趣的是──”"
 
 # game/williamroute2.rpy:1553
 translate Tchinese after_sw1_447473bb:
@@ -12730,7 +12729,7 @@ translate Tchinese sw2_52d10123:
 translate Tchinese sw2_412507ab:
 
     # wi "\"Who?\""
-    wi "“我和誰?”"
+    wi "“我和誰？”"
 
 # game/williamroute2.rpy:3891
 translate Tchinese sw2_da95880a:
@@ -12778,7 +12777,7 @@ translate Tchinese sw2_e609d78c:
 translate Tchinese sw2_f82c51a3:
 
     # wi "\"Yes.\""
-    wi "\"肯定。\""
+    wi "“肯定。”"
 
 # game/williamroute2.rpy:3909
 translate Tchinese sw2_9018f488:
@@ -12808,13 +12807,13 @@ translate Tchinese sw2_78a4b356:
 translate Tchinese sw2_0eb2ab17:
 
     # wi "\"Well that’s what’s nice about the West, Sam--everybody gets to be in danger all of the time.\""
-    wi "\"西部好就好在，人人都時刻與危險相伴，Sam。\""
+    wi "“西部好就好在，人人都時刻與危險相伴，Sam。”"
 
 # game/williamroute2.rpy:3917
 translate Tchinese sw2_e5e65a33:
 
     # m "\"Yet you keep saying the Windy City is more exciting.\""
-    m "\"那你還一個勁地說風城更刺激。\""
+    m "“那你還一個勁地說風城更刺激。”"
 
 # game/williamroute2.rpy:3919
 translate Tchinese sw2_b38fbd0b:
@@ -13084,7 +13083,7 @@ translate Tchinese sw2_13a0f0ec:
 translate Tchinese sw2_76715582:
 
     # wi "\"Speaking of hard work... I won’t be able to see you until the weekend, won’t I Nik?\""
-    wi "“說到努力…週末之前你還能外出嗎，Nik？”"
+    wi "“說到努力……週末之前你還能外出嗎，Nik？”"
 
 # game/williamroute2.rpy:4024
 translate Tchinese sw2_a67255e0:

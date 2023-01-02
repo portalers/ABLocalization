@@ -2848,7 +2848,7 @@ translate Tchinese willbedchoice_f27c05e8:
 translate Tchinese willbedchoice_2b4d839e:
 
     # wi "“Shiiiiit!”"
-    wi "“操────!”"
+    wi "“操────！”"
 
 # game/williamroute3.rpy:696
 translate Tchinese willbedchoice_a71fdd8f:
@@ -18526,7 +18526,6 @@ translate Tchinese hattie_161d49dd:
 
     # "And he opens it."
     "他把冰櫃打開了"
-
 
 translate Tchinese hattie_1fdd65ee:
 
