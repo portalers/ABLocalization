@@ -4144,7 +4144,7 @@ translate Schinese Murdochroute_57c002af:
 translate Schinese Murdochroute_a1f4ddc5:
 
     # mu "\"{i}Ralph{/i}—\""
-    mu "“{i}Ralph{/i}-”"
+    mu "“{i}Ralph{/i}──”"
 
 # game/Murdochroute.rpy:1037
 translate Schinese Murdochroute_b3b81385:
@@ -5542,13 +5542,13 @@ translate Schinese Murdochroute_e9ad7e5f:
 translate Schinese Murdochroute_dcf71bd3:
 
     # "{color=#96D7A1}???" "\"Unsex me here, and fill me from the crown to the toe...\""
-    "{color=#96D7A1}???" "“解除我的女性的柔弱，用最凶恶的残忍自顶至踵...”"
+    "{color=#96D7A1}???" "“解除我的女性的柔弱，用最凶恶的残忍自顶至踵……”"
 
 # game/Murdochroute.rpy:1465
 translate Schinese Murdochroute_06ad95ae:
 
     # "{color=#96D7A1}???" "\"...topful, of direst cruelty.\""
-    "{color=#96D7A1}???" "“...贯注在我的全身。”"
+    "{color=#96D7A1}???" "“……贯注在我的全身。”"
 
 # game/Murdochroute.rpy:1467
 translate Schinese Murdochroute_3075b016:
@@ -5566,7 +5566,7 @@ translate Schinese Murdochroute_da21f0dc:
 translate Schinese Murdochroute_1ab37b79:
 
     # "{color=#96D7A1}???" "\"...A moment if you please.\""
-    "{color=#96D7A1}???" "“...请稍等片刻。”"
+    "{color=#96D7A1}???" "“……请稍等片刻。”"
 
 # game/Murdochroute.rpy:1472
 translate Schinese Murdochroute_0690425e:
@@ -5578,7 +5578,7 @@ translate Schinese Murdochroute_0690425e:
 translate Schinese Murdochroute_5154ec7f:
 
     # "{color=#96D7A1}???" "\"What does the passage mean, Blithe?\""
-    "{color=#96D7A1}???" "“这个段话是什么意思，Blithe?”"
+    "{color=#96D7A1}???" "“这个段话是什么意思，Blithe？”"
 
 # game/Murdochroute.rpy:1477
 translate Schinese Murdochroute_ac538374:
@@ -5668,13 +5668,13 @@ translate Schinese Murdochroute_c1841489:
 translate Schinese Murdochroute_06d8cb62:
 
     # "{color=#96D7A1}???" "\"But you’d think he’d have the time to say hello to me himself...\""
-    "{color=#96D7A1}???" "“不过他应该有时间亲自向我打招呼，你不觉得吗...”"
+    "{color=#96D7A1}???" "“不过他应该有时间亲自向我打招呼，你不觉得吗……”"
 
 # game/Murdochroute.rpy:1511
 translate Schinese Murdochroute_ae3012c0:
 
     # "{color=#96D7A1}???" "\"...especially after getting himself a helper.\""
-    "{color=#96D7A1}???" "“...尤其是在给自己找了个帮手之后。”"
+    "{color=#96D7A1}???" "“……尤其是在给自己找了个帮手之后。”"
 
 # game/Murdochroute.rpy:1513
 translate Schinese Murdochroute_f3219dcd:

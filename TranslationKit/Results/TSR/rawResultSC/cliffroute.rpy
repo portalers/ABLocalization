@@ -838,7 +838,7 @@ translate Schinese cliffroute_18d91c4c:
 translate Schinese cliffroute_0deff8ed:
 
     # cl "\"My goodness, you ARE built like a house.\""
-    cl "\"天啊，你的体格{b}确实{/b}无愧于房子的称号。\""
+    cl "“天啊，你的体格{b}确实{/b}无愧于房子的称号。”"
 
 # game/cliffroute.rpy:191
 translate Schinese cliffroute_09a7aad6:
@@ -2362,7 +2362,7 @@ translate Schinese cliffroute_87350f97:
 translate Schinese cliffroute_5a9f858c:
 
     # cl "\"Oh, my thesis? In a way, yes.\""
-    cl "\"噢，你是说我的{b}论{/b}文吗？在某种程度上，是的。\""
+    cl "“噢，你是说我的{b}论{/b}文吗？在某种程度上，是的。”"
 
 # game/cliffroute.rpy:497
 translate Schinese cliffroute_d4ae0a63:
@@ -2536,7 +2536,7 @@ translate Schinese cliffroute_37bf216e:
 translate Schinese cliffroute_6c5d960a:
 
     # cl "\"My thesis is going to be about what makes them {i}them{i}.\""
-    cl "\"我的论文就是关于是什么让他们成为了{i}他们{i}。\""
+    cl "“我的论文就是关于是什么让他们成为了{i}他们{i}。”"
 
 # game/cliffroute.rpy:534
 translate Schinese cliffroute_a90d9d1d:

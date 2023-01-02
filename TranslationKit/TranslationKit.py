@@ -112,16 +112,11 @@ class TransFileHandler:
                         pos = newOriginDict['orderedHash'].index(hh)
                         newOriginDict['content'].pop(pos)
                         newOriginDict['orderedHash'].pop(pos)
-                print(errorWords[0])
-                print(dupHashMsg)
-                print(errorWords[1])
+                print(errorWords[0], dupHashMsg, errorWords[1], sep='\n')
             else:
                 newOriginDict['duplicateHash'] = True
-                print(errorWords[2])
-                print(dupHashMsg)
-                print(errorWords[3])
-                print(errorWords[4])
-                newOriginDict['headerWords'] = [errorWords[2]+'\n', dupHashMsg+'\n', errorWords[3], errorWords[4]]
+                print(errorWords[2], dupHashMsg, errorWords[3], errorWords[4], sep='\n')
+                newOriginDict['headerWords'] = [errorWords[2]+'\n', dupHashMsg+'\n', errorWords[3]+'\n', errorWords[4]+'\n']
                 newOriginDict['orderedHash'] = []
                 newOriginDict['content'] = []
 
@@ -153,21 +148,23 @@ class TransFileHandler:
         '…':'……',
         '—':'──',
         }
+        mayDupPunc = ['…', '—', '─']
 
         nearestUpSideComment = []
         validLineCount = []
         addDoubleQuotes = False
         ncPos = -1
         for i in range(len(contentLines)):
-            if not contentLines[i].isspace() and '# ' in contentLines[i] and '# TODO' not in contentLines[i] and '# game' not in contentLines[i]:
+            if not contentLines[i].isspace() and contentLines[i].lstrip().startswith('#') and '# TODO' not in contentLines[i] and '# game' not in contentLines[i]:
                 nearestUpSideComment.append(i)
-            if not contentLines[i].isspace() and '# ' not in contentLines[i] and '$ ' not in contentLines[i] and '[' not in contentLines[i] and '{' not in contentLines[i] and self.findHashPattern not in contentLines[i]:
+            if not contentLines[i].isspace() and not contentLines[i].lstrip().startswith('#') and '$ ' not in contentLines[i] and '[' not in contentLines[i] and self.findHashPattern not in contentLines[i]:
                 validLineCount.append(i)
                 for targ in targetPairs.keys():
                     contentLines[i] = contentLines[i].replace(targ, targetPairs[targ])
 
                 #hardToFind
                 contentLines[i] = contentLines[i].replace('..', hardToFind['..'])
+                contentLines[i] = contentLines[i].replace('？？？', '???', 1)
 
                 try:
                     endPos = contentLines[i].rindex('"')
@@ -176,80 +173,9 @@ class TransFileHandler:
                 except:
                     pass
                 
-
-                # contentLines[i] = self.findDupPunc('…', contentLines[i])
-                # contentLines[i] = self.findDupPunc('—', contentLines[i])
-                # contentLines[i] = self.findDupPunc('─', contentLines[i])
-                allMatches = [(m.start(0), m.end(0)) for m in re.finditer('…', contentLines[i])]
-                if allMatches:
-                    preMarked = ()
-                    singleMarks = []
-                    counter = 0
-                    tmplist = list(contentLines[i])
-                    for p in allMatches:
-                        if not preMarked or counter == 2:
-                            preMarked = p
-                            counter = 1
-                        elif p[0] == preMarked[1] and counter < 2:
-                            preMarked = p
-                            counter += 1
-                        else:
-                            singleMarks.append(preMarked)
-                            preMarked = p
-                    if counter < 2:
-                        singleMarks.append(allMatches[-1])
-                    singleMarks.reverse()
-                    for sm in singleMarks:
-                        tmplist.insert(sm[1], '…')
-                    contentLines[i] = ''.join(tmplist)
-
-                allMatches = [(m.start(0), m.end(0)) for m in re.finditer('—', contentLines[i])]
-                if allMatches:
-                    preMarked = ()
-                    singleMarks = []
-                    counter = 0
-                    tmplist = list(contentLines[i])
-                    for p in allMatches:
-                        if not preMarked or counter == 2:
-                            preMarked = p
-                            counter = 1
-                        elif p[0] == preMarked[1] and counter < 2:
-                            preMarked = p
-                            counter += 1
-                        else:
-                            singleMarks.append(preMarked)
-                            preMarked = p
-                    if counter < 2:
-                        singleMarks.append(allMatches[-1])
-                    singleMarks.reverse()
-                    for sm in singleMarks:
-                        tmplist.insert(sm[1], '─')
-                    contentLines[i] = ''.join(tmplist)
-
-                allMatches = [(m.start(0), m.end(0)) for m in re.finditer('─', contentLines[i])]
-                if allMatches:
-                    preMarked = ()
-                    singleMarks = []
-                    counter = 0
-                    tmplist = list(contentLines[i])
-                    for p in allMatches:
-                        if not preMarked or counter == 2:
-                            preMarked = p
-                            counter = 1
-                        elif p[0] == preMarked[1] and counter < 2:
-                            preMarked = p
-                            counter += 1
-                        else:
-                            singleMarks.append(preMarked)
-                            preMarked = p
-                    if counter < 2:
-                        singleMarks.append(allMatches[-1])
-                    singleMarks.reverse()
-                    for sm in singleMarks:
-                        tmplist.insert(sm[1], '─')
-                    contentLines[i] = ''.join(tmplist)
+                for mdp in mayDupPunc:
+                    contentLines[i] = self.findDupPunc(mdp, contentLines[i])
                 
-                contentLines[i] = contentLines[i].replace('？？？', '???')
         if nearestUpSideComment and validLineCount:
             for nc in nearestUpSideComment:
                 if nc < validLineCount[0]:
@@ -262,18 +188,81 @@ class TransFileHandler:
                 pass
         if addDoubleQuotes:
             try:
-                if not ('“' in contentLines[validLineCount[0]]  and '”' in contentLines[validLineCount[0]]):
+                if '“' in contentLines[validLineCount[0]]  or '”' in contentLines[validLineCount[0]]:
+                    tmplist = list(contentLines[validLineCount[0]])
+                    itsPos = []
+                    popCounter = ''.join(tmplist).count('\\"')
+                    for i in range(popCounter):
+                        popPos = ''.join(tmplist).index('\\"')
+                        itsPos.append(popPos+i)
+                        tmplist.pop(popPos)
+                        tmplist.pop(popPos)
+
+                    tmplist.reverse()
+
+                    if tmplist[tmplist.index('"')+1] == '“' or tmplist[tmplist.index('"')+1] == '\\':
+                        tmplist[tmplist.index('"')+1] = '”'
+                    elif tmplist[tmplist.index('"')+1] != '”' and tmplist[tmplist.index('"')+1] != ' ' :
+                        tmplist.insert(tmplist.index('"')+1, '”')
+
+                    tmpPopPos = tmplist.index('"')
+                    tmplist.pop(tmpPopPos)
+
+                    if tmplist[tmplist.index('"')-1] == '”' or tmplist[tmplist.index('"')-1] == '\\':
+                        tmplist[tmplist.index('"')-1] = '“'
+                    elif tmplist[tmplist.index('"')-1] != '“' and tmplist[tmplist.index('"')-1] != ' ' :
+                        tmplist.insert(tmplist.index('"'), '“')
+                        insertPosOffset = True
+
+                    tmplist.insert(tmpPopPos, '"')
+                    tmplist.reverse()
+
+                    if insertPosOffset:
+                        itsPos = [itps+1 for itps in itsPos]
+
+                    for itps in itsPos:
+                        itsPos.insert(itps, '\\')
+                        itsPos.insert(itps, '"')
+                        
+                    contentLines[validLineCount[0]] = ''.join(tmplist)
+                else:
                     if contentLines[validLineCount[0]].index('\\"') != contentLines[validLineCount[0]].rindex('\\"'):
                         contentLines[validLineCount[0]] = contentLines[validLineCount[0]][:contentLines[validLineCount[0]].index('\\"')]+'“'+contentLines[validLineCount[0]][contentLines[validLineCount[0]].index('\\"')+2:contentLines[validLineCount[0]].rindex('\\"')]+'”'+contentLines[validLineCount[0]][contentLines[validLineCount[0]].rindex('\\"')+2:]
+                    else:
+                        tmplist = list(contentLines[validLineCount[0]])
+                        itsPos = []
+                        popCounter = ''.join(tmplist).count('\\"')
+                        for i in range(popCounter):
+                            popPos = ''.join(tmplist).index('\\"')
+                            itsPos.append(popPos+i)
+                            tmplist.pop(popPos)
+                            tmplist.pop(popPos)
+
+                        tmplist.reverse()
+                        tmplist.insert(tmplist.index('"')+1, '”')
+
+                        tmpPopPos = tmplist.index('"')
+                        tmplist.pop(tmpPopPos)
+
+                        tmplist.insert(tmplist.index('"'), '“')
+
+                        tmplist.insert(tmpPopPos, '"')
+                        tmplist.reverse()
+
+                        itsPos = [itps+1 for itps in itsPos]
+                        for itps in itsPos:
+                            itsPos.insert(itps, '\\')
+                            itsPos.insert(itps, '"')
+                            
+                        contentLines[validLineCount[0]] = ''.join(tmplist)
             except:
                 pass
         return contentLines
 
-    def findDupPunc(self, puncPattern, puncSourceLine) -> str:
+    def findDupPunc(self, puncPattern, puncSourceLine):
 
         allMatches = [(m.start(0), m.end(0)) for m in re.finditer(puncPattern, puncSourceLine)]
         if allMatches:
-            print(allMatches)
             preMarked = ()
             singleMarks = []
             counter = 0
@@ -293,4 +282,7 @@ class TransFileHandler:
             singleMarks.reverse()
             for sm in singleMarks:
                 tmplist.insert(sm[1], puncPattern)
+
             return ''.join(tmplist)
+        else:
+            return puncSourceLine

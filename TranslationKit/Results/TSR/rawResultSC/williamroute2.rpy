@@ -478,7 +478,7 @@ translate Schinese williamroute2_aa6c9430:
 translate Schinese williamroute2_4aa57f14:
 
     # m "“{cps=25}Well, I suppose, but if he hadn’t--{nw}"
-    m "“{cps=25}这，也许吧，但如果他没-{nw}"
+    m "“{cps=25}这，也许吧，但如果他没──{nw}"
 
 # game/williamroute2.rpy:152
 translate Schinese williamroute2_9b9f65d5:
@@ -6820,7 +6820,7 @@ translate Schinese after_sw1_95bdd800_1:
 translate Schinese after_sw1_5af778cc:
 
     # "{color=#AFE6E0}Lucy" "“I’m cold...”"
-    "{color=#AFE6E0}Lucy" "“我好冷...”"
+    "{color=#AFE6E0}Lucy" "“我好冷……”"
 
 # game/williamroute2.rpy:1885
 translate Schinese after_sw1_7cbc52e9:
@@ -6868,7 +6868,7 @@ translate Schinese after_sw1_b76bdb3a_1:
 translate Schinese after_sw1_7725be51:
 
     # "{color=#AFE6E0}Lucy" "“I’m flying...”"
-    "{color=#AFE6E0}Lucy" "“我在飞...”"
+    "{color=#AFE6E0}Lucy" "“我在飞……”"
 
 # game/williamroute2.rpy:1895
 translate Schinese after_sw1_807a09c8:
@@ -6910,7 +6910,7 @@ translate Schinese after_sw1_d2ef88e2:
 translate Schinese after_sw1_ed15ad6b:
 
     # cy "{cps=17}\"Sa--\"{nw}"
-    cy "{cps=17}\"Sa-\"{nw}"
+    cy "{cps=17}“Sa──”{nw}"
 
 # game/williamroute2.rpy:1912
 translate Schinese after_sw1_19b50e25:
@@ -11080,7 +11080,7 @@ translate Schinese go1_27b6cda5:
 translate Schinese go1_81e6c98d:
 
     # m "“HELP ME!”"
-    m "“{b}救救我!{/b}”"
+    m "“{b}救救我！{/b}”"
 
 # game/williamroute2.rpy:3224
 translate Schinese go1_7b44e980:

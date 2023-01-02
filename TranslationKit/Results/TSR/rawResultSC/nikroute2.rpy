@@ -5608,13 +5608,13 @@ translate Schinese sny1_d6bd08e7:
 translate Schinese sny1_c23c6290:
 
     # ni "\"WHY?\""
-    ni "\"{b}为什么？{/b}\""
+    ni "“{b}为什么？{/b}”"
 
 # game/nikroute2.rpy:1579
 translate Schinese sny1_c195b5e3:
 
     # ni "\"YOU ARE THE ONE WHO NEEDS PROTECTION!\""
-    ni "\"{b}需要保护的人明明是你啊！{/b}\""
+    ni "“{b}需要保护的人明明是你啊！{/b}”"
 
 # game/nikroute2.rpy:1580
 translate Schinese sny1_c04eff0a:
@@ -6820,7 +6820,7 @@ translate Schinese sny1_bbccc2f2:
 translate Schinese sny1_c9783832:
 
     # m "\"FUCK!\""
-    m "\"{b}我操！{/b}\""
+    m "“{b}我操！{/b}”"
 
 # game/nikroute2.rpy:1888
 translate Schinese sny1_06fd7faf:
@@ -9616,7 +9616,7 @@ translate Schinese sny1_36dcc9ae:
 translate Schinese sny1_07d6a5f0:
 
     # "???" "\"...DIE...\""
-    "???" "\"...{b}死{/b}...\""
+    "???" "“……{b}死{/b}……”"
 
 # game/nikroute2.rpy:2827
 translate Schinese sny1_43f4af88:
@@ -9658,7 +9658,7 @@ translate Schinese sny1_e8c6742b:
 translate Schinese sny1_289dc4c0:
 
     # "???" "\"YOU ALL DESERVE TO FUCKING DIE.\""
-    "？？？" "\"{b}你们全他妈该死。{/b}\""
+    "???" "“{b}你们全他妈该死。{/b}”"
 
 # game/nikroute2.rpy:2836
 translate Schinese sny1_914ad87d:
@@ -9994,7 +9994,7 @@ translate Schinese sny1_07a59643:
 translate Schinese sny1_dfa2bdb8:
 
     # "{color=#B08E65}???" "\"Top of the morning, men!\""
-    "{color=#B08E65}？？？" "\"早上好，哥们儿们！\""
+    "{color=#B08E65}???" "“早上好，哥们儿们！”"
 
 # game/nikroute2.rpy:2914
 translate Schinese sny1_7aaef92d:
@@ -10018,7 +10018,7 @@ translate Schinese sny1_ed0ca1d2:
 translate Schinese sny1_9308fa3f:
 
     # "{color=#B08E65}???" "\"Welcome to the CSCG family. My name’s Ben. You think of me as your guide today for all you newcomers.\""
-    "{color=#B08E65}？？？" "\"欢迎加入采矿业这个大家庭。我叫Ben，你们可以把我当做你们这些新手的向导。\""
+    "{color=#B08E65}???" "“欢迎加入采矿业这个大家庭。我叫Ben，你们可以把我当做你们这些新手的向导。”"
 
 # game/nikroute2.rpy:2921
 translate Schinese sny1_33a7ba5b:
@@ -11968,7 +11968,7 @@ translate Schinese sny1_8bfe77fb:
 translate Schinese sny1_653efeb0:
 
     # ni "\"BLAST!\""
-    ni "\"{b}爆破！{/b}\""
+    ni "“{b}爆破！{/b}”"
 
 # game/nikroute2.rpy:3667
 translate Schinese sny1_2ee818a6:
@@ -14680,7 +14680,7 @@ translate Schinese sny1_e9f1a195:
 translate Schinese sny1_5479ba4d:
 
     # bk "\"SWING!\""
-    bk "\"{b}快挥！{/b}\""
+    bk "“{b}快挥！{/b}”"
 
 # game/nikroute2.rpy:4674
 translate Schinese sny1_2b317304:
@@ -15418,7 +15418,7 @@ translate Schinese sny1_d9edd96b:
 translate Schinese sny1_84d356b9:
 
     # ni "\"Yao knows what, precisely?\""
-    ni "\"Yao{b}知道{/b}什么？\""
+    ni "“Yao{b}知道{/b}什么？”"
 
 # game/nikroute2.rpy:4984
 translate Schinese sny1_e966166c:
@@ -15502,7 +15502,7 @@ translate Schinese sny1_748563e2:
 translate Schinese sny1_0fa342b6:
 
     # ni "\"I am confident that I can protect myself and Samuel from any natural... or {i}unnatural{/i} element in a mine.\""
-    ni "\"我有信心保护我自己和Sam不受矿井中任何自然...或{b}不自然{/b}因素的危害。\""
+    ni "“我有信心保护我自己和Sam不受矿井中任何自然……或{b}不自然{/b}因素的危害。”"
 
 # game/nikroute2.rpy:5014
 translate Schinese sny1_74173cd8:

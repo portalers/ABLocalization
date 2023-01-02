@@ -19,4 +19,5 @@ if __name__ == "__main__":
         tmpSC = TranslationKit.TransFileHandler(sourcePath=oldSCPath, destinationPath=newOriginSCPath, resultPath=resultSCPath, fileName=f, tranlationName='Schinese')
         tmpSC.findDiff(followOrginOrder=True)
         tmpSC.initNewTransFile(stringsBlockOverride=False, dupHashOverride=True, editFullwidthPunctuation=True)
+        
         del tmpTC, tmpSC

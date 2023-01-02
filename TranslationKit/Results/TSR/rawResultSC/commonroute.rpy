@@ -352,7 +352,7 @@ translate Schinese commonroute_bba2e1f9:
 translate Schinese commonroute_166e2c80:
 
     # cy "\"Oh stop being so down all the time. Besides, we're uh, talking about you—\""
-    cy "“噢，别老是这么沮丧。再说了，我们，呃，正在讨论你—──”"
+    cy "“噢，别老是这么沮丧。再说了，我们，呃，正在讨论你——”"
 
 # game/commonroute.rpy:78
 translate Schinese commonroute_1f840ec3:
@@ -406,7 +406,7 @@ translate Schinese commonroute_1ddd870b:
 translate Schinese commonroute_ee783a59:
 
     # cy "\"Well, {i}I{/i} didn't look at the list. I would never...but Gabriel did.\""
-    cy "“啊，{b}我{/b}没有看那个名单，我永远不会的...不过Gabriel看了。”"
+    cy "“啊，{b}我{/b}没有看那个名单，我永远不会的……不过Gabriel看了。”"
 
 # game/commonroute.rpy:93
 translate Schinese commonroute_bfbf4a6c:

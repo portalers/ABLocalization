@@ -4834,7 +4834,7 @@ translate Schinese murdochroute2_094148d3:
 translate Schinese murdochroute2_95e4ec03:
 
     # m "\"So where is this 'spot?'\""
-    m "\"所以要去{b}哪{/b}？\""
+    m "“所以要去{b}哪{/b}？”"
 
 # game/murdochroute2.rpy:1405
 translate Schinese murdochroute2_00b54b66:
@@ -5440,7 +5440,7 @@ translate Schinese murdochroute2_f86bdd4a:
 translate Schinese murdochroute2_027c8cd3:
 
     # m "\"Where's 'here'?\""
-    m "\"到{b}哪{/b}了？\""
+    m "“到{b}哪{/b}了？”"
 
 # game/murdochroute2.rpy:1566
 translate Schinese murdochroute2_cc836b1d:
@@ -13253,7 +13253,7 @@ translate Schinese murdochroute2_71ad499c:
 translate Schinese murdochroute2_18ab6ebc:
 
     # m "\"MotherFUCK--\""
-    m "\"{b}操-{/b}}\""
+    m "“{b}操──{/b}}”"
 
 # game/murdochroute2.rpy:3722
 translate Schinese murdochroute2_90d025e4:
@@ -13397,7 +13397,7 @@ translate Schinese murdochroute2_a41b1a97:
 translate Schinese murdochroute2_50273816:
 
     # bl "\"Not until she got that letter saying {i}I’m gonna getcha{/i}.\""
-    bl "\"直至她收到一封上面写着{b}‘我会得到你的’{/b}的信。\""
+    bl "“直至她收到一封上面写着{b}‘我会得到你的’{/b}的信。”"
 
 # game/murdochroute2.rpy:3766
 translate Schinese murdochroute2_a0cee52b:
@@ -13439,7 +13439,7 @@ translate Schinese murdochroute2_50728b65:
 translate Schinese murdochroute2_2db217e6:
 
     # bl "\"It said {i}Anytime I want,{/i} and the envelope it came in had the missing half of her whiskers, and patches of her pubic hair.\""
-    bl "\"信上写着{b}‘只要我想’{/b}，信封里还有她少了的一半胡须，以及她的阴毛。\""
+    bl "“信上写着{b}‘只要我想’{/b}，信封里还有她少了的一半胡须，以及她的阴毛。”"
 
 # game/murdochroute2.rpy:3780
 translate Schinese murdochroute2_b445337a:
@@ -19229,7 +19229,7 @@ translate Schinese murdochroute2_f4f1d14f:
 translate Schinese murdochroute2_165b2b73:
 
     # m "\"Shut the HELL up.\""
-    m "\"给老子{b}闭嘴{/b}。\""
+    m "“给老子{b}闭嘴{/b}。”"
 
 # game/murdochroute2.rpy:5417
 translate Schinese murdochroute2_392293b8:
@@ -19577,7 +19577,7 @@ translate Schinese muc0_d89baaba:
 translate Schinese muc0_039f0d98:
 
     # m "\"Do you think {i}that’ll{/i} ever be possible?\""
-    m "\"你觉得{b}这{/b}有可能吗？\""
+    m "“你觉得{b}这{/b}有可能吗？”"
 
 # game/murdochroute2.rpy:5536
 translate Schinese muc0_2721a605:
@@ -19595,7 +19595,7 @@ translate Schinese muc0_b788fd32:
 translate Schinese muc0_14f484ff:
 
     # mu "\"But if it {i}were{/i} possible, would you be brave enough to go?\""
-    mu "\"不过就算{b}真有{/b}可能，你有那个胆量吗？\""
+    mu "“不过就算{b}真有{/b}可能，你有那个胆量吗？”"
 
 # game/murdochroute2.rpy:5543
 translate Schinese muc0_910f899d:
@@ -19673,7 +19673,7 @@ translate Schinese muc0_4afd71ae:
 translate Schinese muc0_dcd3461d:
 
     # m "\"But what if you {i}could{/i} go to outer space?\""
-    m "\"那假如你{b}能{/b}上太空呢？\""
+    m "“那假如你{b}能{/b}上太空呢？”"
 
 # game/murdochroute2.rpy:5572
 translate Schinese muc0_ab886419:
@@ -20753,7 +20753,7 @@ translate Schinese muc0_cb4a12a5:
 translate Schinese muc0_1fa3111e:
 
     # mu "\"{i}Temporarily closed. Come back in an hour.{i}\""
-    mu "\"{b}本店暂时关闭，请于一小时后光临。{/b}\""
+    mu "“{b}本店暂时关闭，请于一小时后光临。{/b}”"
 
 # game/murdochroute2.rpy:5908
 translate Schinese muc0_069ed982:
@@ -21821,7 +21821,7 @@ translate Schinese muc0_eec79599:
 translate Schinese muc0_36d8722b:
 
     # wi "\"...then maybe Sam could teach you a thing or two about {i}his{/i} profession.\""
-    wi "\"...你或许可以跟Sam学{b}一两招{/b}。\""
+    wi "“……你或许可以跟Sam学{b}一两招{/b}。”"
 
 # game/murdochroute2.rpy:6267
 translate Schinese muc0_bfd08c97:
@@ -24497,7 +24497,7 @@ translate Schinese mdq2_33672b3f:
 translate Schinese mdq2_2adfd8f3:
 
     # cy "\"How’s {i}proper{/i} work treating you?\""
-    cy "\"{b}正经{/b}工作感觉如何？\""
+    cy "“{b}正经{/b}工作感觉如何？”"
 
 # game/murdochroute2.rpy:7017
 translate Schinese mdq2_50b4382b:
@@ -24929,25 +24929,25 @@ translate Schinese mdq2_394bfb84:
 translate Schinese mdq2_0a1cb05c:
 
     # hounk "\"{i}I am not an angel, I asserted;{/i}\""
-    hounk "\"{b}「我不是天使，」我断言。{/b}\""
+    hounk "“{b}「我不是天使，」我断言。{/b}”"
 
 # game/murdochroute2.rpy:7129
 translate Schinese mdq2_689b8045:
 
     # hounk "\"{i}And I will not be one until I die.{/i}\""
-    hounk "\"{b}就是到死也不会是。{/b}\""
+    hounk "“{b}就是到死也不会是。{/b}”"
 
 # game/murdochroute2.rpy:7130
 translate Schinese mdq2_69ae8e10:
 
     # hounk "\"{i}I will be myself.{/i}\""
-    hounk "\"{b}我是我自己。{/b}\""
+    hounk "“{b}我是我自己。{/b}”"
 
 # game/murdochroute2.rpy:7132
 translate Schinese mdq2_15682e08:
 
     # hounk "\"{i}Mr. Rochester, you must neither expect nor exact anything celestial of me — for you will not get it, any more than I shall get it of you: which I do not at all anticipate.{/i}\""
-    hounk "\"{b}罗切斯特先生，你不该在我身上指望或强求天上才有的东西，你不会得到的，就像我无法从你那儿得到一样，而且我是一点也不指望的。{/b}\""
+    hounk "“{b}罗切斯特先生，你不该在我身上指望或强求天上才有的东西，你不会得到的，就像我无法从你那儿得到一样，而且我是一点也不指望的。{/b}”"
 
 # game/murdochroute2.rpy:7136
 translate Schinese mdq2_9f7a287c:
@@ -25001,7 +25001,7 @@ translate Schinese mdq2_243ae20a:
 translate Schinese mdq2_a6e98865:
 
     # msho "\"{i}I am not an angel.{i}\""
-    msho "\"{b}我不是天使。{/b}\""
+    msho "“{b}我不是天使。{/b}”"
 
 # game/murdochroute2.rpy:7153
 translate Schinese mdq2_990f8dbd:
@@ -25061,7 +25061,7 @@ translate Schinese mdq2_135c0d71:
 translate Schinese mdq2_ecd5588a:
 
     # msho "\"What does {i}celestial{/i} mean?\""
-    msho "\"{b}天上{/b}是指什么？\""
+    msho "“{b}天上{/b}是指什么？”"
 
 # game/murdochroute2.rpy:7183
 translate Schinese mdq2_84c3d5fc:
@@ -25115,7 +25115,7 @@ translate Schinese mdq2_a4160c3e:
 translate Schinese mdq2_d548432a:
 
     # msho "\"{i}For you will not get it, any more than I shall get it of you?{i}\""
-    msho "\"{b}你不会得到的，就像我无法从你那儿得到一样？{/b}\""
+    msho "“{b}你不会得到的，就像我无法从你那儿得到一样？{/b}”"
 
 # game/murdochroute2.rpy:7207
 translate Schinese mdq2_e523d6de:
@@ -25133,13 +25133,13 @@ translate Schinese mdq2_32530b0b:
 translate Schinese mdq2_4df01d0c:
 
     # msho "\"{i}Which I do not at all anticipate.{/i}\""
-    msho "\"{b}我也不会有所指望。{/b}\""
+    msho "“{b}我也不会有所指望。{/b}”"
 
 # game/murdochroute2.rpy:7213
 translate Schinese mdq2_f9aee7b2:
 
     # msho "\"She knows with {i}certainty{/I} she will not receive divinity.\""
-    msho "\"她{b}明确{/b}知道自己不会拥有神性。\""
+    msho "“她{b}明确{/b}知道自己不会拥有神性。”"
 
 # game/murdochroute2.rpy:7216
 translate Schinese mdq2_c87369c8:
@@ -25193,19 +25193,19 @@ translate Schinese mdq2_1e2817e5:
 translate Schinese mdq2_4171be4a:
 
     # bl "\"{i}Conventionality is not morality.{/i}\""
-    bl "\"{b}习俗不等于道德。{/b}\""
+    bl "“{b}习俗不等于道德。{/b}”"
 
 # game/murdochroute2.rpy:7242
 translate Schinese mdq2_d10c41e4:
 
     # bl "\"{i}Self-righteousness is not religion.{/i}\""
-    bl "\"{b}伪善不等于宗教。{/b}\""
+    bl "“{b}伪善不等于宗教。{/b}”"
 
 # game/murdochroute2.rpy:7247
 translate Schinese mdq2_f072054e:
 
     # bl "\"{i}To attack the first is not to assail the last.{/i}\""
-    bl "\"{b}抨击前者不等于谴责后者。{/b}\""
+    bl "“{b}抨击前者不等于谴责后者。{/b}”"
 
 # game/murdochroute2.rpy:7249
 translate Schinese mdq2_9d8a2c49:
@@ -25277,7 +25277,7 @@ translate Schinese mdq2_8c62b3dc:
 translate Schinese mdq2_761a2fba:
 
     # me "\"{i}I thought so too; {/i}\""
-    me "\"{b}这恰恰也是我的想法。{/b}\""
+    me "“{b}这恰恰也是我的想法。{/b}”"
 
 # game/murdochroute2.rpy:7281
 translate Schinese mdq2_5a76d61b:
@@ -25289,7 +25289,7 @@ translate Schinese mdq2_5a76d61b:
 translate Schinese mdq2_48426fe1:
 
     # me "\"{i}'I cry because I am miserable.'{/i}\""
-    me "\"{b}我是因为心里难受才哭的。{/b}\""
+    me "“{b}我是因为心里难受才哭的。{/b}”"
 
 # game/murdochroute2.rpy:7270
 translate Schinese mdq2_45d3174b:
@@ -25361,49 +25361,49 @@ translate Schinese mdq2_06e1c80d:
 translate Schinese mdq2_90a11344:
 
     # msho "\"{i}Do you think I am an automaton? — a machine without feelings?{/i}\""
-    msho "\"{b}你认为我是一个没有感情的机器人么？{/b}\""
+    msho "“{b}你认为我是一个没有感情的机器人么？{/b}”"
 
 # game/murdochroute2.rpy:7292
 translate Schinese mdq2_ae11f86d:
 
     # msho "\"{i}And can bear to have my morsel of bread snatched from my lips, and my drop of living water dashed from my cup?{/i}\""
-    msho "\"{b}难道你认为，我可以忍受让别人从我嘴边夺走我仅有的一小块面包，将我杯子里少量的救命水洒掉？{/b}\""
+    msho "“{b}难道你认为，我可以忍受让别人从我嘴边夺走我仅有的一小块面包，将我杯子里少量的救命水洒掉？{/b}”"
 
 # game/murdochroute2.rpy:7295
 translate Schinese mdq2_f2bf1eaa:
 
     # msho "\"{i}Do you think, because I am poor, obscure, plain, and little, I am soulless and heartless?{/i}\""
-    msho "\"{b}你认为，因为我一贫如洗、默默无闻、长相普通、身材矮小，所以我就没有感情不会心痛？{/b}\""
+    msho "“{b}你认为，因为我一贫如洗、默默无闻、长相普通、身材矮小，所以我就没有感情不会心痛？{/b}”"
 
 # game/murdochroute2.rpy:7298
 translate Schinese mdq2_55de1e06:
 
     # msho "\"{i}You think wrong! — I have as much soul as you — and full as much heart!{/i}\""
-    msho "\"{b}你想错了！我和你有同样的丰富的灵魂和心灵！{/b} \""
+    msho "“{b}你想错了！我和你有同样的丰富的灵魂和心灵！{/b} ”"
 
 # game/murdochroute2.rpy:7301
 translate Schinese mdq2_88bade7e:
 
     # msho "\"{i}And if God had gifted me with some beauty and much wealth, I should have made it as hard for you to leave me, as it is now for me to leave you.{/i}\""
-    msho "\"{b}要是上帝赐予我一点姿色和财富，我会使你难以离开我，就像现在我很难离开你一样。{/b} \""
+    msho "“{b}要是上帝赐予我一点姿色和财富，我会使你难以离开我，就像现在我很难离开你一样。{/b} ”"
 
 # game/murdochroute2.rpy:7304
 translate Schinese mdq2_1c994d22:
 
     # msho "\"{i}I am not talking to you now through the medium of custom, conventionalities, nor even of mortal flesh:{/i}\""
-    msho "\"{b}此刻我并非通过习俗或惯例的方式与你交谈，甚至不是通过凡人的肉体。{/b}\""
+    msho "“{b}此刻我并非通过习俗或惯例的方式与你交谈，甚至不是通过凡人的肉体。{/b}”"
 
 # game/murdochroute2.rpy:7307
 translate Schinese mdq2_b2f1cf24:
 
     # msho "\"{i}It is my spirit that addresses your spirit;{/i}\""
-    msho "\"{b}此刻是我的灵魂在与你的灵魂对话。{/b}\""
+    msho "“{b}此刻是我的灵魂在与你的灵魂对话。{/b}”"
 
 # game/murdochroute2.rpy:7310
 translate Schinese mdq2_28724771:
 
     # msho "\"{i}Just as if both had passed through the grave, and we stood at God's feet, equal — as we are!{/i}\""
-    msho "\"{b}正如我们穿过了坟墓，站在上帝的脚下，我们是平等的！{/b}\""
+    msho "“{b}正如我们穿过了坟墓，站在上帝的脚下，我们是平等的！{/b}”"
 
 # game/murdochroute2.rpy:7313
 translate Schinese mdq2_4f50e5b2:
@@ -25589,7 +25589,7 @@ translate Schinese mdq2_6a43590a:
 translate Schinese mdq2_eb74e733:
 
     # me "\"Like when Bailey Freeman says {i}you must be drinking milk{/i} when she really means you’re gaining weight?\""
-    me "\"比如Bailey Freeman说：{b}‘你平时有在喝牛奶吧’{/b}的时候，其实是在暗指你变胖了？\""
+    me "“比如Bailey Freeman说：{b}‘你平时有在喝牛奶吧’{/b}的时候，其实是在暗指你变胖了？”"
 
 # game/murdochroute2.rpy:7379
 translate Schinese mdq2_d7b060ef:
@@ -25613,7 +25613,7 @@ translate Schinese mdq2_e5433f94:
 translate Schinese mdq2_fbdfc97d:
 
     # bl "\"But it also means {i}The Whore{/i} ‘cause they’re lacking common sense?\""
-    bl "\"但由于他们没有相关知识，所以不知道拉普达也有{b}娼妓{/b}的意思。\""
+    bl "“但由于他们没有相关知识，所以不知道拉普达也有{b}娼妓{/b}的意思。”"
 
 # game/murdochroute2.rpy:7390
 translate Schinese mdq2_a04a3770:
@@ -25757,7 +25757,7 @@ translate Schinese mdq2_6fb456f3:
 translate Schinese mdq2_59edeb38:
 
     # me "\"BLITHE!\""
-    me "\"{b}BLITHE！{/b}\""
+    me "“{b}BLITHE！{/b}”"
 
 # game/murdochroute2.rpy:7442
 translate Schinese mdq2_ca0933c4:
@@ -25781,7 +25781,7 @@ translate Schinese mdq2_a61c3afc:
 translate Schinese mdq2_74f4598d:
 
     # me "\"All I know is that I’m probably going to get a letter any day now, and {i}you’re{/i} gonna be eating your words.\""
-    me "\"我一定能收到回信的，{b}你{/b}就等着瞧吧。\""
+    me "“我一定能收到回信的，{b}你{/b}就等着瞧吧。”"
 
 # game/murdochroute2.rpy:7449
 translate Schinese mdq2_ab58ca41:
@@ -28397,7 +28397,7 @@ translate Schinese mdq2_0ffb32b9:
 translate Schinese mdq2_02851a6d:
 
     # m "\"NO!\""
-    m "\"{b}不要！{/b}\""
+    m "“{b}不要！{/b}”"
 
 # game/murdochroute2.rpy:8013
 translate Schinese mdq2_1c3cda33:

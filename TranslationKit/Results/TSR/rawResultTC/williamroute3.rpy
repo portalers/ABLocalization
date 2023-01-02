@@ -19706,7 +19706,7 @@ translate Tchinese hattie_b61f0723:
 translate Tchinese hattie_c5ebdb8a:
 
     # gr "\"The men have work to do at closing time.\""
-    gr "“我們的員工在打樣時間可是很忙的。”"# TODO: Translation updated at 2022-12-20 02:52
+    gr "“我們的員工在打樣時間可是很忙的。”"# TODO： Translation updated at 2022──12──20 02：52
 
 # game/williamroute3.rpy:5696
 translate Tchinese hattie_fec97169:

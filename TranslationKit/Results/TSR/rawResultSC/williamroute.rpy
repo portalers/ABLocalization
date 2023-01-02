@@ -1168,7 +1168,7 @@ translate Schinese williamroute_8ad59ee3:
 translate Schinese williamroute_6833cbf6:
 
     # "...but the memories of {i}that{/i} place are warming me up to the idea of iron bars."
-    "...不过和{i}那个{/i}地方相比，铁栏反而更加温暖。"
+    "……不过和{i}那个{/i}地方相比，铁栏反而更加温暖。"
 
 # game/williamroute.rpy:284
 translate Schinese williamroute_d264475a:
@@ -2758,7 +2758,7 @@ translate Schinese williamroute_d4b9a5b1:
 translate Schinese williamroute_6adcba33:
 
     # m "\"But Nik--\""
-    m "“但是，Nik—──”"
+    m "“但是，Nik——”"
 
 # game/williamroute.rpy:690
 translate Schinese williamroute_8ca7faf1:
@@ -5620,7 +5620,7 @@ translate Schinese williamroute_87bf20bf:
 translate Schinese williamroute_d771b34c:
 
     # to "\"W-well, y-y’see, the next highest is a full house...\""
-    to "好──好吧，继续，再下一手牌是满堂红……”"
+    to "“好──好吧，继续，再下一手牌是满堂红……”"
 
 # game/williamroute.rpy:1523
 translate Schinese williamroute_6ede209b:

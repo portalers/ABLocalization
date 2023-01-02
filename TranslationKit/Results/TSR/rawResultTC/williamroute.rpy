@@ -5620,7 +5620,7 @@ translate Tchinese williamroute_87bf20bf:
 translate Tchinese williamroute_d771b34c:
 
     # to "\"W-well, y-y’see, the next highest is a full house...\""
-    to "好──好吧，繼續，再下一手牌是滿堂紅……”"
+    to "“好──好吧，繼續，再下一手牌是滿堂紅……”"
 
 # game/williamroute.rpy:1515
 translate Tchinese williamroute_6ede209b:

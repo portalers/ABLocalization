@@ -3910,7 +3910,7 @@ translate Tchinese nikroute_78ac8695:
 translate Tchinese nikroute_2f3e09b6:
 
     # wi "\"Nik, can you tell Sam where YOU saw him coming from after he was mugged?\""
-    wi "\"Nik，你能告訴Sam{b}你{/b}看到負傷的他是從哪走來的嗎？\""
+    wi "“Nik，你能告訴Sam{b}你{/b}看到負傷的他是從哪走來的嗎？”"
 
 # game/nikroute.rpy:835
 translate Tchinese nikroute_51f19f00:
@@ -4006,7 +4006,7 @@ translate Tchinese nikroute_8d025ab4:
 translate Tchinese nikroute_5dc96656:
 
     # wi "\"{i}Listen{/i}, Sam. I know you've been mugged before, it happens when you're out messin' around before the crack of dawn, but maybe it's something worth looking into if it happened the same ni--\""
-    wi "\"{i}你聽著{/i}，Sam。我知道你被打過幾次，通常都是你凌晨還在外遊蕩的時候。但這可能是條線索。如果在同一晚──\""
+    wi "“{i}你聽著{/i}，Sam。我知道你被打過幾次，通常都是你凌晨還在外遊蕩的時候。但這可能是條線索。如果在同一晚──”"
 
 # game/nikroute.rpy:859
 translate Tchinese nikroute_10dc4572:
@@ -5056,7 +5056,7 @@ translate Tchinese nikroute_cef0e35f:
 translate Tchinese nikroute_8331a49a:
 
     # m "\"Ha! Just because we're friends doesn't mean she'll go along with anything I suggest she do. What do you {i}want{/i} her to do anyway?\""
-    m "\"哈！她才不會因為我們是朋友就聽我的話咧。你是 {i}想要{/i} 她做什麼？\""
+    m "“哈！她才不會因為我們是朋友就聽我的話咧。你是 {i}想要{/i} 她做什麼？”"
 
 # game/nikroute.rpy:1089
 translate Tchinese nikroute_51461374:

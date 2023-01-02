@@ -6909,7 +6909,7 @@ translate Tchinese after_sw1_d2ef88e2:
 translate Tchinese after_sw1_ed15ad6b:
 
     # cy "{cps=17}\"Sa--\"{nw}"
-    cy "{cps=17}\"Sa──\"{nw}"
+    cy "{cps=17}“Sa──”{nw}"
 
 # game/williamroute2.rpy:1971
 translate Tchinese after_sw1_19b50e25:
@@ -11079,7 +11079,7 @@ translate Tchinese go1_27b6cda5:
 translate Tchinese go1_81e6c98d:
 
     # m "\"HELP ME!\""
-    m "“{b}救我!{/b}”"
+    m "“{b}救我！{/b}”"
 
 # game/williamroute2.rpy:3347
 translate Tchinese go1_7b44e980:

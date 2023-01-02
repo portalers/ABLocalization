@@ -5158,7 +5158,7 @@ translate Schinese cityhallnight_9074298e:
 translate Schinese cityhallnight_be4d0438:
 
     # m "\"{i}...These things hast thou done, and I kept silence; thou thoughtest that I was altogether such an one as thyself: but I will reprove thee, and set them in order before thine eyes.{/i}\""
-    m "“{b}...你行了这些事，我还闭口不言。你想我恰和你一样。其实我要责备你，将这些事摆在你眼前。{/b}”"
+    m "“{b}……你行了这些事，我还闭口不言。你想我恰和你一样。其实我要责备你，将这些事摆在你眼前。{/b}”"
 
 # game/williamroute3.rpy:1409
 translate Schinese cityhallnight_144050d8:
@@ -8722,7 +8722,7 @@ translate Schinese endofwillchallinterviews2_893908b2:
 translate Schinese endofwillchallinterviews2_b5573f03:
 
     # ni "\"He told {i}you{/i}.\""
-    ni "\"他告诉了{b}你{/b}。\""
+    ni "“他告诉了{b}你{/b}。”"
 
 # game/williamroute3.rpy:3433
 translate Schinese endofwillchallinterviews2_73da6b98:
@@ -19048,7 +19048,7 @@ translate Schinese hattie_9dcb51b8:
 translate Schinese hattie_ced01c11:
 
     # mar "\"But I... want. To.\""
-    mar "“但我...{b}就要{/b}。”"
+    mar "“但我……{b}就要{/b}。”"
 
 # game/williamroute3.rpy:7004
 translate Schinese hattie_fd3e1342:

@@ -9616,7 +9616,7 @@ translate Tchinese sny1_36dcc9ae:
 translate Tchinese sny1_07d6a5f0:
 
     # "???" "\"...DIE...\""
-    "???" "“...{b}死{/b}...”"
+    "???" "“……{b}死{/b}……”"
 
 # game/nikroute2.rpy:2827
 translate Tchinese sny1_43f4af88:
@@ -9658,7 +9658,7 @@ translate Tchinese sny1_e8c6742b:
 translate Tchinese sny1_289dc4c0:
 
     # "???" "\"YOU ALL DESERVE TO FUCKING DIE.\""
-    "？？？" "“{b}你們全他媽該死。{/b}”"
+    "???" "“{b}你們全他媽該死。{/b}”"
 
 # game/nikroute2.rpy:2836
 translate Tchinese sny1_914ad87d:
@@ -9994,7 +9994,7 @@ translate Tchinese sny1_07a59643:
 translate Tchinese sny1_dfa2bdb8:
 
     # "{color=#B08E65}???" "\"Top of the morning, men!\""
-    "{color=#B08E65}？？？" "“早安，老兄！”"
+    "{color=#B08E65}???" "“早安，老兄！”"
 
 # game/nikroute2.rpy:2914
 translate Tchinese sny1_7aaef92d:
@@ -10018,7 +10018,7 @@ translate Tchinese sny1_ed0ca1d2:
 translate Tchinese sny1_9308fa3f:
 
     # "{color=#B08E65}???" "\"Welcome to the CSCG family. My name’s Ben. You think of me as your guide today for all you newcomers.\""
-    "{color=#B08E65}？？？" "“歡迎加入CSCG礦場這個大家庭。我叫Ben，你們可以把我當做你們這些新手的嚮導。”"
+    "{color=#B08E65}???" "“歡迎加入CSCG礦場這個大家庭。我叫Ben，你們可以把我當做你們這些新手的嚮導。”"
 
 # game/nikroute2.rpy:2921
 translate Tchinese sny1_33a7ba5b:

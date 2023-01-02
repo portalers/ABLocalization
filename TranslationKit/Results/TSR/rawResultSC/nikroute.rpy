@@ -1900,7 +1900,7 @@ translate Schinese nikroute_21427282:
 translate Schinese nikroute_21838fbf:
 
     # m "\"But {i}I{/i} was wondering something, too...\""
-    m "“不过{i}我{/i}也想知道...”"
+    m "“不过{i}我{/i}也想知道……”"
 
 # game/nikroute.rpy:416
 translate Schinese nikroute_88175bd1:
@@ -3910,7 +3910,7 @@ translate Schinese nikroute_78ac8695:
 translate Schinese nikroute_2f3e09b6:
 
     # wi "\"Nik, can you tell Sam where YOU saw him coming from after he was mugged?\""
-    wi "\"Nik，你能告诉Sam，他被打劫后{i}你{i}看到他是从哪儿出来的么？\""
+    wi "“Nik，你能告诉Sam，他被打劫后{i}你{i}看到他是从哪儿出来的么？”"
 
 # game/nikroute.rpy:835
 translate Schinese nikroute_51f19f00:
@@ -4006,7 +4006,7 @@ translate Schinese nikroute_8d025ab4:
 translate Schinese nikroute_5dc96656:
 
     # wi "\"{i}Listen{/i}, Sam. I know you've been mugged before, it happens when you're out messin' around before the crack of dawn, but maybe it's something worth looking into if it happened the same ni--\""
-    wi "\"{b}听我说{/b}，Sam。我知道你之前在外面被人打劫过，在天还没亮的时候。也许这值得深挖。要是发生在同一晚-\""
+    wi "“{b}听我说{/b}，Sam。我知道你之前在外面被人打劫过，在天还没亮的时候。也许这值得深挖。要是发生在同一晚──”"
 
 # game/nikroute.rpy:859
 translate Schinese nikroute_10dc4572:
@@ -4528,7 +4528,7 @@ translate Schinese nikroute_4a42cf83:
 translate Schinese nikroute_57283c14:
 
     # "{i}Couldn't even do him the courtesy of closing his eyes and letting him rest forever...{/i}"
-    "{i}甚至没有让他瞑目，永远安息...{/i}"
+    "{i}甚至没有让他瞑目，永远安息……{/i}"
 
 # game/nikroute.rpy:980
 translate Schinese nikroute_51b2e74f:
@@ -5056,7 +5056,7 @@ translate Schinese nikroute_cef0e35f:
 translate Schinese nikroute_8331a49a:
 
     # m "\"Ha! Just because we're friends doesn't mean she'll go along with anything I suggest she do. What do you {i}want{/i} her to do anyway?\""
-    m "\"哈！我们是朋友并不意味着她会听取我的任何建议。总之，你{i}想{/i}让她做什么？\""
+    m "“哈！我们是朋友并不意味着她会听取我的任何建议。总之，你{i}想{/i}让她做什么？”"
 
 # game/nikroute.rpy:1089
 translate Schinese nikroute_51461374:
@@ -5410,7 +5410,7 @@ translate Schinese nikroute_bd1e600e:
 translate Schinese nikroute_548ac924:
 
     # "So when I said \"Lee-You\", he laughed and said Lee was alright."
-    "因此，当我发出 “Lee──You”的声音时，他笑着说叫他Lee就可以了。"
+    "“因此，当我发出 “Lee──You”的声音时，他笑着说叫他Lee就可以了。”"
 
 # game/nikroute.rpy:1160
 translate Schinese nikroute_1f186a5e:

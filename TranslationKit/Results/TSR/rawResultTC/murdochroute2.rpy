@@ -4834,7 +4834,7 @@ translate Tchinese murdochroute2_094148d3:
 translate Tchinese murdochroute2_95e4ec03:
 
     # m "\"So where is this 'spot?'\""
-    m "\"所以要去{b}哪{/b}？\""
+    m "“所以要去{b}哪{/b}？”"
 
 # game/murdochroute2.rpy:1407
 translate Tchinese murdochroute2_00b54b66:
@@ -5440,7 +5440,7 @@ translate Tchinese murdochroute2_f86bdd4a:
 translate Tchinese murdochroute2_027c8cd3:
 
     # m "\"Where's 'here'?\""
-    m "\"到{b}哪{/b}了？\""
+    m "“到{b}哪{/b}了？”"
 
 # game/murdochroute2.rpy:1568
 translate Tchinese murdochroute2_cc836b1d:
@@ -13249,7 +13249,7 @@ translate Tchinese murdochroute2_71ad499c:
 translate Tchinese murdochroute2_18ab6ebc:
 
     # m "\"MotherFUCK--\""
-    m "\"{b}喔幹──{/b}\""
+    m "“{b}喔幹──{/b}”"
 
 # game/murdochroute2.rpy:3728
 translate Tchinese murdochroute2_90d025e4:
@@ -13393,7 +13393,7 @@ translate Tchinese murdochroute2_a41b1a97:
 translate Tchinese murdochroute2_50273816:
 
     # bl "\"Not until she got that letter saying {i}I’m gonna getcha{/i}.\""
-    bl "\"直至她收到一封上面寫著{b}‘我會得到你的’{/b}的信。\""
+    bl "“直至她收到一封上面寫著{b}‘我會得到你的’{/b}的信。”"
 
 # game/murdochroute2.rpy:3772
 translate Tchinese murdochroute2_a0cee52b:
@@ -13435,7 +13435,7 @@ translate Tchinese murdochroute2_50728b65:
 translate Tchinese murdochroute2_2db217e6:
 
     # bl "\"It said {i}Anytime I want,{/i} and the envelope it came in had the missing half of her whiskers, and patches of her pubic hair.\""
-    bl "\"信上寫著{b}‘只要我想’{/b}，信封裡還有她少了的一半鬍鬚，以及她的陰毛。\""
+    bl "“信上寫著{b}‘只要我想’{/b}，信封裡還有她少了的一半鬍鬚，以及她的陰毛。”"
 
 # game/murdochroute2.rpy:3786
 translate Tchinese murdochroute2_b445337a:
@@ -19573,7 +19573,7 @@ translate Tchinese muc0_d89baaba:
 translate Tchinese muc0_039f0d98:
 
     # m "\"Do you think {i}that’ll{/i} ever be possible?\""
-    m "\"你覺得{i}這種事{/i}有可能嗎？\""
+    m "“你覺得{i}這種事{/i}有可能嗎？”"
 
 # game/murdochroute2.rpy:5545
 translate Tchinese muc0_2721a605:
@@ -19591,7 +19591,7 @@ translate Tchinese muc0_b788fd32:
 translate Tchinese muc0_14f484ff:
 
     # mu "\"But if it {i}were{/i} possible, would you be brave enough to go?\""
-    mu "\"但如果{i}真的{/i}可能，你夠膽去嗎？\""
+    mu "“但如果{i}真的{/i}可能，你夠膽去嗎？”"
 
 # game/murdochroute2.rpy:5552
 translate Tchinese muc0_910f899d:
@@ -19669,7 +19669,7 @@ translate Tchinese muc0_4afd71ae:
 translate Tchinese muc0_dcd3461d:
 
     # m "\"But what if you {i}could{/i} go to outer space?\""
-    m "\"那如果你{i}可以{/i}上宇宙的話呢？\""
+    m "“那如果你{i}可以{/i}上宇宙的話呢？”"
 
 # game/murdochroute2.rpy:5581
 translate Tchinese muc0_ab886419:
@@ -20749,7 +20749,7 @@ translate Tchinese muc0_cb4a12a5:
 translate Tchinese muc0_1fa3111e:
 
     # mu "\"{i}Temporarily closed. Come back in an hour.{i}\""
-    mu "\"{i}暫時閉店。請於一小時後再光臨。{i}\""
+    mu "“{i}暫時閉店。請於一小時後再光臨。{i}”"
 
 # game/murdochroute2.rpy:5919
 translate Tchinese muc0_069ed982:
@@ -21817,7 +21817,7 @@ translate Tchinese muc0_eec79599:
 translate Tchinese muc0_36d8722b:
 
     # wi "\"...then maybe Sam could teach you a thing or two about {i}his{/i} profession.\""
-    wi "\"……說不定Sam能給你露一兩手{i}他的{/i}專業。\""
+    wi "“……說不定Sam能給你露一兩手{i}他的{/i}專業。”"
 
 # game/murdochroute2.rpy:6278
 translate Tchinese muc0_bfd08c97:
@@ -24493,7 +24493,7 @@ translate Tchinese mdq2_33672b3f:
 translate Tchinese mdq2_2adfd8f3:
 
     # cy "\"How’s {i}proper{/i} work treating you?\""
-    cy "\"{i}正經{/i}工作如何？\""
+    cy "“{i}正經{/i}工作如何？”"
 
 # game/murdochroute2.rpy:7028
 translate Tchinese mdq2_50b4382b:
@@ -24925,25 +24925,25 @@ translate Tchinese mdq2_394bfb84:
 translate Tchinese mdq2_0a1cb05c:
 
     # hounk "\"{i}I am not an angel, I asserted;{/i}\""
-    hounk "\"{i}「我不是天使，」我斷言。{/i}\""
+    hounk "“{i}「我不是天使，」我斷言。{/i}”"
 
 # game/murdochroute2.rpy:7140
 translate Tchinese mdq2_689b8045:
 
     # hounk "\"{i}And I will not be one until I die.{/i}\""
-    hounk "\"{i}「到死也不會是。」{/i}\""
+    hounk "“{i}「到死也不會是。」{/i}”"
 
 # game/murdochroute2.rpy:7141
 translate Tchinese mdq2_69ae8e10:
 
     # hounk "\"{i}I will be myself.{/i}\""
-    hounk "\"{i}「我就是我自己。」{/i}\""
+    hounk "“{i}「我就是我自己。」{/i}”"
 
 # game/murdochroute2.rpy:7143
 translate Tchinese mdq2_15682e08:
 
     # hounk "\"{i}Mr. Rochester, you must neither expect nor exact anything celestial of me — for you will not get it, any more than I shall get it of you: which I do not at all anticipate.{/i}\""
-    hounk "\"{i}「羅切斯特先生，你不該在我身上期望或尋求天界才有的東西──你不會得到的，就像我無法從你那兒得到一樣；我也不會指望這點。」{/i}\""
+    hounk "“{i}「羅切斯特先生，你不該在我身上期望或尋求天界才有的東西──你不會得到的，就像我無法從你那兒得到一樣；我也不會指望這點。」{/i}”"
 
 # game/murdochroute2.rpy:7147
 translate Tchinese mdq2_9f7a287c:
@@ -24997,7 +24997,7 @@ translate Tchinese mdq2_243ae20a:
 translate Tchinese mdq2_a6e98865:
 
     # msho "\"{i}I am not an angel.{i}\""
-    msho "\"{i}我不是天使{i}\""
+    msho "“{i}我不是天使{i}”"
 
 # game/murdochroute2.rpy:7164
 translate Tchinese mdq2_990f8dbd:
@@ -25057,7 +25057,7 @@ translate Tchinese mdq2_135c0d71:
 translate Tchinese mdq2_ecd5588a:
 
     # msho "\"What does {i}celestial{/i} mean?\""
-    msho "\"{i}天界{/i}是指什麼？\""
+    msho "“{i}天界{/i}是指什麼？”"
 
 # game/murdochroute2.rpy:7194
 translate Tchinese mdq2_84c3d5fc:
@@ -25111,7 +25111,7 @@ translate Tchinese mdq2_a4160c3e:
 translate Tchinese mdq2_d548432a:
 
     # msho "\"{i}For you will not get it, any more than I shall get it of you?{i}\""
-    msho "\"{i}你不會得到的，就像我無法從你那兒得到一樣？{i}\""
+    msho "“{i}你不會得到的，就像我無法從你那兒得到一樣？{i}”"
 
 # game/murdochroute2.rpy:7218
 translate Tchinese mdq2_e523d6de:
@@ -25129,13 +25129,13 @@ translate Tchinese mdq2_32530b0b:
 translate Tchinese mdq2_4df01d0c:
 
     # msho "\"{i}Which I do not at all anticipate.{/i}\""
-    msho "\"{i}我也不會指望這點。{/i}\""
+    msho "“{i}我也不會指望這點。{/i}”"
 
 # game/murdochroute2.rpy:7224
 translate Tchinese mdq2_f9aee7b2:
 
     # msho "\"She knows with {i}certainty{/I} she will not receive divinity.\""
-    msho "\"她{i}很明確{/I}知道她不會有神性。\""
+    msho "“她{i}很明確{/I}知道她不會有神性。”"
 
 # game/murdochroute2.rpy:7227
 translate Tchinese mdq2_c87369c8:
@@ -25189,19 +25189,19 @@ translate Tchinese mdq2_1e2817e5:
 translate Tchinese mdq2_4171be4a:
 
     # bl "\"{i}Conventionality is not morality.{/i}\""
-    bl "\"{i}「習俗不等於道德。」{/i}\""
+    bl "“{i}「習俗不等於道德。」{/i}”"
 
 # game/murdochroute2.rpy:7253
 translate Tchinese mdq2_d10c41e4:
 
     # bl "\"{i}Self-righteousness is not religion.{/i}\""
-    bl "\"{i}「自以為是並非宗教。」{/i}\""
+    bl "“{i}「自以為是並非宗教。」{/i}”"
 
 # game/murdochroute2.rpy:7258
 translate Tchinese mdq2_f072054e:
 
     # bl "\"{i}To attack the first is not to assail the last.{/i}\""
-    bl "\"{i}「攻擊前者不代表批判後者。」{/i}\""
+    bl "“{i}「攻擊前者不代表批判後者。」{/i}”"
 
 # game/murdochroute2.rpy:7260
 translate Tchinese mdq2_9d8a2c49:
@@ -25261,31 +25261,31 @@ translate Tchinese mdq2_552ea873:
 translate Tchinese mdq2_856d74fb:
 
     # me "\"{i}'Oh! I daresay she is crying because she could not go out with Missis in the carriage,' interposed Bessie.{/i}\""
-    me "\"{i}「哦！我猜是因為不能跟其他小姐一起坐馬車出去才哭的。」貝茜插嘴道。{/i}\""
+    me "“{i}「哦！我猜是因為不能跟其他小姐一起坐馬車出去才哭的。」貝茜插嘴道。{/i}”"
 
 # game/murdochroute2.rpy:7279
 translate Tchinese mdq2_8c62b3dc:
 
     # me "\"{i}'Surely not! why, she is too old for such pettishness.'{/i}\""
-    me "\"{i}「肯定不是！她都那麼大了，怎麼會為這點小事鬧彆扭。」{/i}\""
+    me "“{i}「肯定不是！她都那麼大了，怎麼會為這點小事鬧彆扭。」{/i}”"
 
 # game/murdochroute2.rpy:7280
 translate Tchinese mdq2_761a2fba:
 
     # me "\"{i}I thought so too; {/i}\""
-    me "\"{i}這恰恰也是我的想法；{/i}\""
+    me "“{i}這恰恰也是我的想法；{/i}”"
 
 # game/murdochroute2.rpy:7281
 translate Tchinese mdq2_5a76d61b:
 
     # me "\"{i}And my self-esteem being wounded by the false charge, I answered promptly, 'I never cried for such a thing in my life: I hate going out in the carriage.'{/i}\""
-    me "\"{i}而她這麼冤枉我傷了我的自尊，所以我當即回答：「我長這麼大從來沒有為這種事哭過，我又不喜歡坐馬車。」{/i}\""
+    me "“{i}而她這麼冤枉我傷了我的自尊，所以我當即回答：「我長這麼大從來沒有為這種事哭過，我又不喜歡坐馬車。」{/i}”"
 
 # game/murdochroute2.rpy:7282
 translate Tchinese mdq2_48426fe1:
 
     # me "\"{i}'I cry because I am miserable.'{/i}\""
-    me "\"{i}「我是因為心裡難受才哭的。」{/i}\""
+    me "“{i}「我是因為心裡難受才哭的。」{/i}”"
 
 # game/murdochroute2.rpy:7284
 translate Tchinese mdq2_45d3174b:
@@ -25357,49 +25357,49 @@ translate Tchinese mdq2_06e1c80d:
 translate Tchinese mdq2_90a11344:
 
     # msho "\"{i}Do you think I am an automaton? — a machine without feelings?{/i}\""
-    msho "\"{i}「你以為我是一架機器？──一架沒有感情的機器？」{/i}\""
+    msho "“{i}「你以為我是一架機器？──一架沒有感情的機器？」{/i}”"
 
 # game/murdochroute2.rpy:7312
 translate Tchinese mdq2_ae11f86d:
 
     # msho "\"{i}And can bear to have my morsel of bread snatched from my lips, and my drop of living water dashed from my cup?{/i}\""
-    msho "\"{i}「能夠容忍別人把一口麵包從我搶走、把一滴生命之水從我杯中潑掉」{/i}\""
+    msho "“{i}「能夠容忍別人把一口麵包從我搶走、把一滴生命之水從我杯中潑掉」{/i}”"
 
 # game/murdochroute2.rpy:7315
 translate Tchinese mdq2_f2bf1eaa:
 
     # msho "\"{i}Do you think, because I am poor, obscure, plain, and little, I am soulless and heartless?{/i}\""
-    msho "\"{i}「你難道認為因為我一貧如洗、默默無聞、長相平庸、個子瘦小，我就沒有靈魂，沒有心腸了？」{/i}\""
+    msho "“{i}「你難道認為因為我一貧如洗、默默無聞、長相平庸、個子瘦小，我就沒有靈魂，沒有心腸了？」{/i}”"
 
 # game/murdochroute2.rpy:7318
 translate Tchinese mdq2_55de1e06:
 
     # msho "\"{i}You think wrong! — I have as much soul as you — and full as much heart!{/i}\""
-    msho "\"{i}「大錯特錯！──我的心靈跟你一樣豐富──心胸跟你一樣充實！」{/i} \""
+    msho "“{i}「大錯特錯！──我的心靈跟你一樣豐富──心胸跟你一樣充實！」{/i} ”"
 
 # game/murdochroute2.rpy:7321
 translate Tchinese mdq2_88bade7e:
 
     # msho "\"{i}And if God had gifted me with some beauty and much wealth, I should have made it as hard for you to leave me, as it is now for me to leave you.{/i}\""
-    msho "\"{i}「要是上帝賜予我一點姿色和充足的財富，我會使你同我現在一樣難分難捨。」{/i} \""
+    msho "“{i}「要是上帝賜予我一點姿色和充足的財富，我會使你同我現在一樣難分難捨。」{/i} ”"
 
 # game/murdochroute2.rpy:7324
 translate Tchinese mdq2_1c994d22:
 
     # msho "\"{i}I am not talking to you now through the medium of custom, conventionalities, nor even of mortal flesh:{/i}\""
-    msho "\"{i}「我不是根據習俗、常規，甚至也不是血肉之軀同你說話；」{/i}\""
+    msho "“{i}「我不是根據習俗、常規，甚至也不是血肉之軀同你說話；」{/i}”"
 
 # game/murdochroute2.rpy:7327
 translate Tchinese mdq2_b2f1cf24:
 
     # msho "\"{i}It is my spirit that addresses your spirit;{/i}\""
-    msho "\"{i}「而是我的靈魂同你的靈魂在對話；」{/i}\""
+    msho "“{i}「而是我的靈魂同你的靈魂在對話；」{/i}”"
 
 # game/murdochroute2.rpy:7330
 translate Tchinese mdq2_28724771:
 
     # msho "\"{i}Just as if both had passed through the grave, and we stood at God's feet, equal — as we are!{/i}\""
-    msho "\"{i}「就彷彿我們兩人穿過墳墓，站在上帝腳下，彼此平等──本來就如此！」{/i}\""
+    msho "“{i}「就彷彿我們兩人穿過墳墓，站在上帝腳下，彼此平等──本來就如此！」{/i}”"
 
 # game/murdochroute2.rpy:7333
 translate Tchinese mdq2_4f50e5b2:
@@ -25585,7 +25585,7 @@ translate Tchinese mdq2_6a43590a:
 translate Tchinese mdq2_eb74e733:
 
     # me "\"Like when Bailey Freeman says {i}you must be drinking milk{/i} when she really means you’re gaining weight?\""
-    me "\"比如Bailey Freeman說{i}你一定有在喝牛奶吧{/i}的時候，其實是指你變胖了嗎？\""
+    me "“比如Bailey Freeman說{i}你一定有在喝牛奶吧{/i}的時候，其實是指你變胖了嗎？”"
 
 # game/murdochroute2.rpy:7399
 translate Tchinese mdq2_d7b060ef:
@@ -25609,7 +25609,7 @@ translate Tchinese mdq2_e5433f94:
 translate Tchinese mdq2_fbdfc97d:
 
     # bl "\"But it also means {i}The Whore{/i} ‘cause they’re lacking common sense?\""
-    bl "\"但因為他們沒有這方面的知識，所以它的名字也有{i}娼妓{/i}的意思。\""
+    bl "“但因為他們沒有這方面的知識，所以它的名字也有{i}娼妓{/i}的意思。”"
 
 # game/murdochroute2.rpy:7410
 translate Tchinese mdq2_a04a3770:
@@ -25777,7 +25777,7 @@ translate Tchinese mdq2_a61c3afc:
 translate Tchinese mdq2_74f4598d:
 
     # me "\"All I know is that I’m probably going to get a letter any day now, and {i}you’re{/i} gonna be eating your words.\""
-    me "\"我只知道我隨時都可能會收到回信，{i}你{/i}等著瞧吧。\""
+    me "“我只知道我隨時都可能會收到回信，{i}你{/i}等著瞧吧。”"
 
 # game/murdochroute2.rpy:7469
 translate Tchinese mdq2_ab58ca41:
