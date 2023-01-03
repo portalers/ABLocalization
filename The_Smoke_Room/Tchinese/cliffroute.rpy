@@ -554,7 +554,7 @@ translate Tchinese cliffroute_26d81725:
 translate Tchinese cliffroute_ee860776:
 
     # "I squeeze his shoulder to snap him back to reality, but he ends up dropping the little bag and spilling most of its contents - mostly papers - on the floor."
-    "我捏了一下他的肩膀，想讓他回到現實中。但他最終不慎把那個書包摔了下來，裡面大部分東西──主要是紙張─灑落在地板上。"
+    "我捏了一下他的肩膀，想讓他回到現實中。但他最終不慎把那個書包摔了下來，裡面大部分東西──主要是紙張──灑落在地板上。"
 
 # game/cliffroute.rpy:141
 translate Tchinese cliffroute_6df3b39c:
@@ -740,7 +740,7 @@ translate Tchinese cliffroute_fcd21b01:
 translate Tchinese cliffroute_2c65aa72:
 
     # "He trembles against me, a shaky breath escaping his muzzle. There’s more of that mint."
-    "他在我面前顫抖，顫慄的呼吸從他嘴中逃逸出來─帶著更多薄荷味。"
+    "他在我面前顫抖，顫慄的呼吸從他嘴中逃逸出來──帶著更多薄荷味。"
 
 # game/cliffroute.rpy:180
 translate Tchinese cliffroute_2fe80bb8:
@@ -794,7 +794,7 @@ translate Tchinese cliffroute_18d91c4c:
 translate Tchinese cliffroute_0deff8ed:
 
     # cl "\"My goodness, you ARE built like a house.\""
-    cl "“我的天啊，你的體格─確實─像房子一樣。”"
+    cl "“我的天啊，你的體格──確實──像房子一樣。”"
 
 # game/cliffroute.rpy:191
 translate Tchinese cliffroute_09a7aad6:
@@ -1598,7 +1598,7 @@ translate Tchinese cliffroute_7329ed6e:
 translate Tchinese cliffroute_f3bdcefb:
 
     # cl "\"Granted, with women there's… different techniques involved, and different… parts, of course.\""
-    cl "“ 當然，和女人的話，會涉及到一些技巧,和一些不同的部位”"
+    cl "“ 當然，和女人的話，會涉及到一些技巧，和一些不同的部位”"
 
 # game/cliffroute.rpy:345
 translate Tchinese cliffroute_ee2efdb0:
@@ -1622,7 +1622,7 @@ translate Tchinese cliffroute_35b758e5:
 translate Tchinese cliffroute_ef26245a:
 
     # cl "\"Wait! What are you doing?!\""
-    cl "“等等！你在幹什麼？!”"
+    cl "“等等！你在幹什麼？！”"
 
 # game/cliffroute.rpy:349
 translate Tchinese cliffroute_0c1f27f3:
@@ -1784,7 +1784,7 @@ translate Tchinese cliffroute_14ca79dc:
 translate Tchinese cliffroute_17698498:
 
     # "Try to, because I can’t fuckin’ move."
-    "試著，因為我─他─媽一動也不能動。"
+    "試著，因為我──他──媽一動也不能動。"
 
 # game/cliffroute.rpy:382
 translate Tchinese cliffroute_c3c90583:
@@ -2492,7 +2492,7 @@ translate Tchinese cliffroute_6d684ef7:
 translate Tchinese cliffroute_b081fa9c:
 
     # cl "\"What I intend to do - after I find a guide, of course - is to go there and learn all there is to know.\""
-    cl "“我的打算是，前往並學習那裡的一切─當然，在找到一位嚮導之後。”"
+    cl "“我的打算是，前往並學習那裡的一切──當然，在找到一位嚮導之後。”"
 
 # game/cliffroute.rpy:528
 translate Tchinese cliffroute_9cc1052b:
@@ -4298,7 +4298,7 @@ translate Tchinese cliffroute_157cf880:
 translate Tchinese cliffroute_91b5b15b:
 
     # "None of it does."
-    "一切都是徒勞的."
+    "一切都是徒勞的。"
 
 # game/cliffroute.rpy:960
 translate Tchinese cliffroute_819bb62f:
@@ -4616,7 +4616,7 @@ translate Tchinese cliffroute_f5fe47d8:
 translate Tchinese cliffroute_03effb05:
 
     # cl "\"Again, I am a student!\""
-    cl "“再說一遍，我是一名學生!”"
+    cl "“再說一遍，我是一名學生！”"
 
 # game/cliffroute.rpy:1064
 translate Tchinese cliffroute_9d3eaacc:
@@ -4634,7 +4634,7 @@ translate Tchinese cliffroute_97ac349c:
 translate Tchinese cliffroute_5cd0fd71:
 
     # m "\"Your pleasure is my business.\""
-    m "\"讓你尋歡是我的工作。\""
+    m "“讓你尋歡是我的工作。”"
 
 # game/cliffroute.rpy:1069
 translate Tchinese cliffroute_6e5769f3:
@@ -4652,7 +4652,7 @@ translate Tchinese cliffroute_91ac6bb1:
 translate Tchinese cliffroute_fbdd35bc:
 
     # cl "\"Yes, well, hm…\""
-    cl "“好吧，這個，呃…”"
+    cl "“好吧，這個，呃……”"
 
 # game/cliffroute.rpy:1074
 translate Tchinese cliffroute_03e8da50:
@@ -4688,7 +4688,7 @@ translate Tchinese cliffroute_7a235cfd:
 translate Tchinese cliffroute_ca383bcb:
 
     # "I'd get to… leave Echo?"
-    "我有機會…離開回音鎮了？"
+    "我有機會……離開回音鎮了？"
 
 # game/cliffroute.rpy:1085
 translate Tchinese cliffroute_e690d341:
@@ -4718,7 +4718,7 @@ translate Tchinese cliffroute_6b41f662:
 translate Tchinese cliffroute_3aa2ef7b:
 
     # cl "\"I heard the wilderness around Echo is dangerous... and... and...\""
-    cl "“我聽說回音鎮周邊的荒野十分危險……還有…還有…”"
+    cl "“我聽說回音鎮周邊的荒野十分危險……還有……還有……”"
 
 # game/cliffroute.rpy:1094
 translate Tchinese cliffroute_d5423c1f:
@@ -5018,7 +5018,7 @@ translate Tchinese cliffroute_4db69d4a:
 translate Tchinese cliffroute_cae93064:
 
     # "One of the girls - an opossum - drapes herself over one of his shoulders, idly rubbin' his back."
-    "其中一位姑娘──一隻負鼠─搭在他的肩膀上，漫不經心地揉著他的背。"
+    "其中一位姑娘──一隻負鼠──搭在他的肩膀上，漫不經心地揉著他的背。"
 
 # game/cliffroute.rpy:1178
 translate Tchinese cliffroute_08f5b276:
@@ -6092,7 +6092,7 @@ translate Tchinese cliffroute_74607a4f:
 translate Tchinese cliffroute_7ece1e11:
 
     # cl "\"Blasted….\""
-    cl "“該死…”"
+    cl "“該死……”"
 
 # game/cliffroute.rpy:1464
 translate Tchinese cliffroute_e232ce8b:
@@ -6236,7 +6236,7 @@ translate Tchinese cliffroute_29d26cb1:
 translate Tchinese cliffroute_ed47ebab:
 
     # "It's thick, written in a language I don't know how to read - probably Batavian - but it has pictures."
-    "這本書很厚，用某種我不懂的語言書寫而成─可能是巴達維亞語──不過附有圖片。"
+    "這本書很厚，用某種我不懂的語言書寫而成──可能是巴達維亞語──不過附有圖片。"
 
 # game/cliffroute.rpy:1500
 translate Tchinese cliffroute_705c6706:
@@ -6326,7 +6326,7 @@ translate Tchinese cliffroute_5c25dc56:
 translate Tchinese cliffroute_f4818b96:
 
     # cl "\"Oh, Samuel! So sorry to have frightened you. I just… spilled some tea water on myself.\""
-    cl "“哦，Samuel！抱歉讓你受驚了。我只是… 不小心把茶水濺到了自己身上。”"
+    cl "“哦，Samuel！抱歉讓你受驚了。我只是…… 不小心把茶水濺到了自己身上。”"
 
 # game/cliffroute.rpy:1519
 translate Tchinese cliffroute_fa3bb2dc:
@@ -6620,7 +6620,7 @@ translate Tchinese cliffroute_b7de3076:
 translate Tchinese cliffroute_822038f0:
 
     # cl "\"Though there is…\""
-    cl "“儘管其中…”"
+    cl "“儘管其中……”"
 
 # game/cliffroute.rpy:1598
 translate Tchinese cliffroute_a6d2ffda:
@@ -6650,7 +6650,7 @@ translate Tchinese cliffroute_6d9db106:
 translate Tchinese cliffroute_39670d84:
 
     # cl "\"Not even the sheriff could help in the end…\""
-    cl "“到頭來，就連警長都幫不上忙…”"
+    cl "“到頭來，就連警長都幫不上忙……”"
 
 # game/cliffroute.rpy:1605
 translate Tchinese cliffroute_d945babb:
@@ -6752,7 +6752,7 @@ translate Tchinese cliffroute_77a8c592:
 translate Tchinese cliffroute_39c325d7:
 
     # cl "\"Now, watch my footwork…\""
-    cl "“現在，注意我的步法…”"
+    cl "“現在，注意我的步法……”"
 
 # game/cliffroute.rpy:1627
 translate Tchinese cliffroute_fea86743:
@@ -7202,7 +7202,7 @@ translate Tchinese smc1_ffb83d31:
 translate Tchinese smc1_605e9594:
 
     # m "\"Well, I, uh...\""
-    m "“這個，我，呃...”"
+    m "“這個，我，呃……”"
 
 # game/cliffroute.rpy:1747
 translate Tchinese smc1_1ad2bb5b:
@@ -7286,7 +7286,7 @@ translate Tchinese after_smc1_a16d0926:
 translate Tchinese after_smc1_4f89b44f:
 
     # mu "\"So, Sam…\""
-    mu "“那麼，Sam…”"
+    mu "“那麼，Sam……”"
 
 # game/cliffroute.rpy:1775
 translate Tchinese after_smc1_b978ec6f:
@@ -7486,23 +7486,6 @@ translate Tchinese after_smc1_01667ad5:
     # "I feel I'm going to have to start watching my back with him around."
     "我覺得在他身邊時，自己必須小心警戒身後。"
 
-translate Tchinese strings:
-
-    # game/cliffroute.rpy:1740
-    old "Do I?"
-    new "我的意見是？"
-
-    # game/cliffroute.rpy:1740
-    old "I do"
-    new "不贊成"
-
-    # game/cliffroute.rpy:1740
-    old "I don't"
-    new "沒有異議"
-
-# TODO: Translation updated at 2022-04-15 22:58
-
-# game/cliffroute.rpy:12
 translate Tchinese cliffroute_13d6feaf:
 
     # m "\"You. Weasel.\""
@@ -8542,6 +8525,22 @@ translate Tchinese after_smc1_dd95f616:
     "有他在身邊，我得小心提防了。"
 
 translate Tchinese strings:
+
+    # game/cliffroute.rpy:1740
+    old "Do I?"
+    new "我的意見是？"
+
+    # game/cliffroute.rpy:1740
+    old "I do"
+    new "不贊成"
+
+    # game/cliffroute.rpy:1740
+    old "I don't"
+    new "沒有異議"
+
+# TODO: Translation updated at 2022-04-15 22:58
+
+# game/cliffroute.rpy:12
 
     # game/cliffroute.rpy:1749
     old "Attempt to raise an objection"

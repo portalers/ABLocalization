@@ -214,7 +214,7 @@ translate Tchinese commonroute_8aef5afe:
 translate Tchinese commonroute_d9b887dd:
 
     # "The door slams open and I jump a foot in the air even though I'm on my knees."
-    "門砰地一聲打開了，我被嚇得跳了起來─不過依然保持著跪姿。"
+    "門砰地一聲打開了，我被嚇得跳了起來──不過依然保持著跪姿。"
 
 # game/commonroute.rpy:48
 translate Tchinese commonroute_5839574b:
@@ -622,7 +622,7 @@ translate Tchinese commonroute_73f8e77f:
 translate Tchinese commonroute_2e844220:
 
     # "I walk quickly through the streets, head down, paws in my pockets, the way I always walk."
-    "我匆匆穿過街道，低下頭，把爪子插在口袋裡─這是我一貫的走路方式。"
+    "我匆匆穿過街道，低下頭，把爪子插在口袋裡──這是我一貫的走路方式。"
 
 # game/commonroute.rpy:141
 translate Tchinese commonroute_2a9952df:
@@ -802,7 +802,7 @@ translate Tchinese commonroute_00200b14:
 translate Tchinese commonroute_7253d8a0:
 
     # "If this man is always this friendly then maybe our little \"partnership\" will work out after all."
-    "如果他一直如此親切，也許我們小小的\"夥伴關係\" 終歸會順利發展下去。"
+    "如果他一直如此親切，也許我們小小的“夥伴關係” 終歸會順利發展下去。"
 
 # game/commonroute.rpy:176
 translate Tchinese commonroute_bebd4496:
@@ -1294,7 +1294,7 @@ translate Tchinese commonroute_19994ebe:
 translate Tchinese commonroute_6a300b56:
 
     # ja "\"I know EXACTLY where we are. Don't worry your pretty little kitty head about that!\""
-    ja "“我─很清楚─我們在哪裡，你那可愛的貓咪腦袋就別擔心了。”"
+    ja "“我──很清楚──我們在哪裡，你那可愛的貓咪腦袋就別擔心了。”"
 
 # game/commonroute.rpy:262
 translate Tchinese commonroute_419beb4c:
@@ -2326,7 +2326,7 @@ translate Tchinese commonroute_40751ada:
 translate Tchinese commonroute_2d8e7067:
 
     # "I run into another wall hard, and I randomly pick the next direction, heading to the right again, still feeling around blindly with my torn up paws."
-    "重重撞上另一堵牆後，我隨機選擇了下一個方向─再次向右，仍然用滿是劃傷的爪子盲目地四處摸索。"
+    "重重撞上另一堵牆後，我隨機選擇了下一個方向──再次向右，仍然用滿是劃傷的爪子盲目地四處摸索。"
 
 # game/commonroute.rpy:450
 translate Tchinese commonroute_6d71ef33:
@@ -2572,7 +2572,7 @@ translate Tchinese commonroute_cbde3242:
 translate Tchinese commonroute_c3054137:
 
     # "I'm still numb, even though I realize this is real bad, having Nik see me like this after what I just did."
-    "我依然渾身麻木，儘管我知道被Nik看到這樣的自己實在是不妙─在不久前做過那樣的事後。"
+    "我依然渾身麻木，儘管我知道被Nik看到這樣的自己實在是不妙──在不久前做過那樣的事後。"
 
 # game/commonroute.rpy:497
 translate Tchinese commonroute_9b8a1c42:
@@ -2734,7 +2734,7 @@ translate Tchinese commonroute_6afde184:
 translate Tchinese commonroute_2662f66c:
 
     # "Nik stays silent as he watches me walk off, and it's right then that I remember I still got my knapsack on, something I hadn't noticed all that time in the cave."
-    "Nik沉默地目視著我的離開，也就在這時，我才想起自己還背著背包─在洞裡我一直沒有意識到。"
+    "Nik沉默地目視著我的離開，也就在這時，我才想起自己還背著背包──在洞裡我一直沒有意識到。"
 
 # game/commonroute.rpy:531
 translate Tchinese commonroute_b66ad66a:
@@ -2788,7 +2788,7 @@ translate Tchinese commonroute_1b4db877:
 translate Tchinese commonroute_1f3f92ed:
 
     # "I finally get to my own room and open the door, wincing as it makes the usual creaking sound that it always does, hoping to God that Cynthia isn't up to hear it."
-    "終於，我來到了自己的房間，打開門，對它發出的一貫的嘎吱聲皺起了眉─希望Cynthia還沒起床。"
+    "終於，我來到了自己的房間，打開門，對它發出的一貫的嘎吱聲皺起了眉──希望Cynthia還沒起床。"
 
 # game/commonroute.rpy:544
 translate Tchinese commonroute_380e495b:
@@ -2818,7 +2818,7 @@ translate Tchinese commonroute_b33f2b4c:
 translate Tchinese commonroute_e23ce11a:
 
     # "I can't see the back of my head, but when I turn it this way and that, I can tell from a few glances that it's a disaster back there."
-    "我看不見腦袋後面，不過來回扭動它的時候，我匆匆瞥到了幾眼─真是一場災難。"
+    "我看不見腦袋後面，不過來回扭動它的時候，我匆匆瞥到了幾眼──真是一場災難。"
 
 # game/commonroute.rpy:549
 translate Tchinese commonroute_22d91b41:
@@ -2884,7 +2884,7 @@ translate Tchinese commonroute_980a2a5e:
 translate Tchinese commonroute_c046925e:
 
     # "I feel something grab me, long, slender paws, fingers that grip into my clothes and roll me over."
-    "我覺得有什麼東西抓住了我─細長的尖爪，用手指緊抓著我的衣服，將我翻了過來。"
+    "我覺得有什麼東西抓住了我──細長的尖爪，用手指緊抓著我的衣服，將我翻了過來。"
 
 # game/commonroute.rpy:562
 translate Tchinese commonroute_602388e3:
@@ -2920,7 +2920,7 @@ translate Tchinese commonroute_1fafc296:
 translate Tchinese commonroute_4a43c7e8:
 
     # "I jolt awake in my bed, pulling my face away from the pillow, damp with my own saliva and streaked here and there with dark, red blood."
-    "我從床上猛然驚醒，把臉從枕頭裡拽了出來─被自己的口水浸濕，到處是暗紅色血跡的枕頭。"
+    "我從床上猛然驚醒，把臉從枕頭裡拽了出來──被自己的口水浸濕，到處是暗紅色血跡的枕頭。"
 
 # game/commonroute.rpy:572
 translate Tchinese commonroute_e1503a01:
@@ -3160,7 +3160,7 @@ translate Tchinese commonroute_07d2c35e:
 translate Tchinese commonroute_343137cf:
 
     # "No shouts of \"murder!\", no crowds of people running for the mines."
-    "沒有\"殺人了！\"的叫嚷，沒有一大群人聚集到礦井。"
+    "沒有“殺人了！”的叫嚷，沒有一大群人聚集到礦井。"
 
 # game/commonroute.rpy:639
 translate Tchinese commonroute_3a744576:
@@ -3262,7 +3262,7 @@ translate Tchinese commonroute_71e9380b:
 translate Tchinese commonroute_0f114b9f:
 
     # "And I wouldn’t be a murderer. If I was lucky, I wouldn’t have come to Echo. I still remember how Jack smelled when he mixed with his tobacco. And how he smelled right after he died. I still remember his laugh."
-    "我不會是殺人犯，如果幸運的話，我就不會來回音鎮。直到現在，我依然記得Jack和他的菸草摻雜在一起的味道，還有他剛死時候的味道,我依然記得他的笑聲。"
+    "我不會是殺人犯，如果幸運的話，我就不會來回音鎮。直到現在，我依然記得Jack和他的菸草摻雜在一起的味道，還有他剛死時候的味道，我依然記得他的笑聲。"
 
 # game/commonroute.rpy:676
 translate Tchinese commonroute_4f311d96:
@@ -3358,7 +3358,7 @@ translate Tchinese commonroute_4c8c5030:
 translate Tchinese commonroute_401bc465:
 
     # "Peter 5:8."
-    "彼得前書 5:8。"
+    "彼得前書 5：8。"
 
 # game/commonroute.rpy:703
 translate Tchinese commonroute_7429daae:
@@ -3574,7 +3574,7 @@ translate Tchinese commonroute_16ad460f:
 translate Tchinese commonroute_277488ed:
 
     # "\"Take the day off and mingle with some folks in the saloon. If you plan on going out, follow the safe route where trusted eyes will be on you. Spend some leisure time today. That’s not a request.\""
-    "“休息一天，和酒館裡的各位打打交道。如果你計畫外出，沿著安全的路線─有信任的目光看著你那種。度過一段閒暇時光。這不是請求。”"
+    "“休息一天，和酒館裡的各位打打交道。如果你計畫外出，沿著安全的路線──有信任的目光看著你那種。度過一段閒暇時光。這不是請求。”"
 
 # game/commonroute.rpy:752
 translate Tchinese commonroute_129c2868:
@@ -3929,7 +3929,7 @@ translate Tchinese commonroute_efd8322f:
 
     # "The rat smiles and takes his winnings and the wolf slaps another dollar bill on the table. They often get a little rowdy, but they know not to push it too far. They’re here so much, this is almost their home as much as mine; though I wouldn’t exactly call ‘em family."
     "老鼠笑著拿走了他贏的錢，狼又把一美元拍在桌子上。他們經常發生些小的爭執，不過都知道不要太極端。"
-    "他們來這裡的次數之多，簡直像是和我一樣把這裡當成了家─雖然我不會管他們叫做家人。"
+    "他們來這裡的次數之多，簡直像是和我一樣把這裡當成了家──雖然我不會管他們叫做家人。"
 
 # game/commonroute.rpy:829
 translate Tchinese commonroute_63232624:
@@ -4421,7 +4421,7 @@ translate Tchinese commonroute_2b2cb85c:
 translate Tchinese commonroute_4343a264:
 
     # "He leaves his beer, untouched, and swiftly escapes from the parlor out the front door."
-    "他丟下他的啤酒─原封未動的─迅速從酒廊前門逃了出去。"
+    "他丟下他的啤酒──原封未動的──迅速從酒廊前門逃了出去。"
 
 # game/commonroute.rpy:962
 translate Tchinese commonroute_badbab07:
@@ -5405,7 +5405,7 @@ translate Tchinese commonroute_60fa2c33:
 translate Tchinese commonroute_a98caf29:
 
     # mu "\"Bit pathetic if you ask me. But it puts bread on the table in an up and coming city like Echo. It would bode well to have your name established on the map early. \""
-    mu "“有些可悲，如果你問我的話。但是這能讓一個新興的城市─比如回音鎮，家家的桌子上能有麵包。早些讓自己的名字響亮是個好兆頭。”"
+    mu "“有些可悲，如果你問我的話。但是這能讓一個新興的城市──比如回音鎮，家家的桌子上能有麵包。早些讓自己的名字響亮是個好兆頭。”"
 
 # game/commonroute.rpy:1180
 translate Tchinese commonroute_3b528293:
@@ -5561,7 +5561,7 @@ translate Tchinese commonroute_8eabc5d4:
 translate Tchinese commonroute_f97b509b:
 
     # wi "\"Nothing prettier than white on black.\""
-    wi "\"沒什麼比黑底白紋更漂亮的了。\""
+    wi "“沒什麼比黑底白紋更漂亮的了。”"
 
 # game/commonroute.rpy:1220
 translate Tchinese commonroute_effa8255:
@@ -5573,7 +5573,7 @@ translate Tchinese commonroute_effa8255:
 translate Tchinese commonroute_7a7f98a1:
 
     # wi "\"You’re good at this.\""
-    wi "\"你很在行。\""
+    wi "“你很在行。”"
 
 # game/commonroute.rpy:1222
 translate Tchinese commonroute_052ff4be:
@@ -5585,7 +5585,7 @@ translate Tchinese commonroute_052ff4be:
 translate Tchinese commonroute_0e97bf35:
 
     # m "\"It’s not so difficult.\""
-    m "\"這沒多難。\""
+    m "“這沒多難。”"
 
 # game/commonroute.rpy:1228
 translate Tchinese commonroute_b30bbe58:
@@ -6161,7 +6161,7 @@ translate Tchinese commonroute_8de8ff08:
 translate Tchinese commonroute_e4e4a723:
 
     # mu "\"Not so much. I’m trained to think of ways to make money faster than I spend it.\""
-    mu "“算了。我被教導過─要想辦法讓賺錢的速度比花錢快。”"
+    mu "“算了。我被教導過──要想辦法讓賺錢的速度比花錢快。”"
 
 # game/commonroute.rpy:1380
 translate Tchinese commonroute_da96f001:
@@ -6421,31 +6421,10 @@ translate Tchinese commonroute_90524780:
     # cy "\"Then attend to one of them! We’re going to have to find somewhere for the rest.\""
     cy "“那就專注其中一個！我們得找個休息的地方。”"
 
-translate Tchinese strings:
-
-    # game/commonroute.rpy:1436
-    old "Fit Cliff in for a booking."
-    new "安排Cliff的預定"
-
-    # game/commonroute.rpy:1436
-    old "Take on Murdoch’s bet."
-    new "接受Murdoch的賭注"
-
-    # game/commonroute.rpy:1436
-    old "See if Nikolai is here."
-    new "去找Nikolai"
-
-    # game/commonroute.rpy:1436
-    old "Tell William the truth."
-    new "告訴William真相"
-
-# TODO: Translation updated at 2022-12-20 02:52
-
-# game/commonroute.rpy:831
 translate Tchinese commonroute_08cb88ea:
 
     # re "\"Does Marcy pay your bills?\""
-    re "“Marcy替你付帳嗎？"
+    re "“Marcy替你付帳嗎？”"
 
 # game/commonroute.rpy:837
 translate Tchinese commonroute_f395b12f:
@@ -6603,3 +6582,24 @@ translate Tchinese commonroute_ae38fe9e:
     # mu "\"Good thing that my family's balls at it here, then. Clean cut grocers and schoolteachers. No pirates, no bandits, no upstart revolutionaries.\""
     mu "“那麼，還好我們有勇氣留下。乾淨的雜貨店和教師。沒有海盜，沒有強盜，沒有自命不凡的革命者。”"
 
+translate Tchinese strings:
+
+    # game/commonroute.rpy:1436
+    old "Fit Cliff in for a booking."
+    new "安排Cliff的預定"
+
+    # game/commonroute.rpy:1436
+    old "Take on Murdoch’s bet."
+    new "接受Murdoch的賭注"
+
+    # game/commonroute.rpy:1436
+    old "See if Nikolai is here."
+    new "去找Nikolai"
+
+    # game/commonroute.rpy:1436
+    old "Tell William the truth."
+    new "告訴William真相"
+
+# TODO: Translation updated at 2022-12-20 02:52
+
+# game/commonroute.rpy:831

@@ -2848,7 +2848,7 @@ translate Tchinese willbedchoice_f27c05e8:
 translate Tchinese willbedchoice_2b4d839e:
 
     # wi "“Shiiiiit!”"
-    wi "“操────!”"
+    wi "“操────！”"
 
 # game/williamroute3.rpy:696
 translate Tchinese willbedchoice_a71fdd8f:
@@ -7072,7 +7072,7 @@ translate Tchinese williamchallmenu_6a92fa2f:
 translate Tchinese williamchallmenu_2569d3ab:
 
     # "{color=#836120}???" "“It’s only me.”"
-    "{color=#836120}？？？" "“是我啊。”"
+    "{color=#836120}???" "“是我啊。”"
 
 # game/williamroute3.rpy:2095
 translate Tchinese williamchallmenu_55612fbf:
@@ -7090,7 +7090,7 @@ translate Tchinese williamchallmenu_ec23044a:
 translate Tchinese williamchallmenu_0714ec62:
 
     # "{color=#836120}???" "“The librarian.”"
-    "{color=#836120}？？？" "“圖書管理員。”"
+    "{color=#836120}???" "“圖書管理員。”"
 
 # game/williamroute3.rpy:2100
 translate Tchinese williamchallmenu_94004a03:
@@ -7804,7 +7804,7 @@ translate Tchinese willstagmenu2_840a1793:
 translate Tchinese willstagmenu2_a39729fd:
 
     # "{color=#D0C8C6}???" "“If you insist, though I will be involved in my work.”"
-    "{color=#D0C8C6}？？？" "“如果你執意的話。我還有工作要忙。”"
+    "{color=#D0C8C6}???" "“如果你執意的話。我還有工作要忙。”"
 
 # game/williamroute3.rpy:2415
 translate Tchinese willstagmenu2_a1dc39fc:
@@ -7816,7 +7816,7 @@ translate Tchinese willstagmenu2_a1dc39fc:
 translate Tchinese willstagmenu2_9dd13382:
 
     # "{color=#D0C8C6}???" "“Translation.”"
-    "{color=#D0C8C6}？？？" "“翻譯。”"
+    "{color=#D0C8C6}???" "“翻譯。”"
 
 # game/williamroute3.rpy:2419
 translate Tchinese willstagmenu2_7099d768:
@@ -7828,7 +7828,7 @@ translate Tchinese willstagmenu2_7099d768:
 translate Tchinese willstagmenu2_6ac614fc:
 
     # "{color=#D0C8C6}???" "“Difficult not to.”"
-    "{color=#D0C8C6}？？？" "“很難不看出來。”"
+    "{color=#D0C8C6}???" "“很難不看出來。”"
 
 # game/williamroute3.rpy:2423
 translate Tchinese willstagmenu2_ae0434e5:
@@ -7852,7 +7852,7 @@ translate Tchinese willstagmenu2_b7645695:
 translate Tchinese willstagmenu2_03941203:
 
     # "{color=#D0C8C6}???" "“I no longer work there, so I would not know.”"
-    "{color=#D0C8C6}？？？" "“我已經不在那裡工作了，所以問我也是白搭。”"
+    "{color=#D0C8C6}???" "“我已經不在那裡工作了，所以問我也是白搭。”"
 
 # game/williamroute3.rpy:2429
 translate Tchinese willstagmenu2_9a494abd:
@@ -7870,7 +7870,7 @@ translate Tchinese willstagmenu2_24c1c2b8:
 translate Tchinese willstagmenu2_d79f0a78:
 
     # "{color=#D0C8C6}???" "“I can tell you something general.”"
-    "{color=#D0C8C6}？？？" "“我可以告訴你一些籠統的東西。”"
+    "{color=#D0C8C6}???" "“我可以告訴你一些籠統的東西。”"
 
 # game/williamroute3.rpy:2434
 translate Tchinese willstagmenu2_5a778fbf:
@@ -7882,25 +7882,25 @@ translate Tchinese willstagmenu2_5a778fbf:
 translate Tchinese willstagmenu2_a94570e4:
 
     # "{color=#D0C8C6}???" "“Mr. Hendricks, very blatantly, has favored employees.”"
-    "{color=#D0C8C6}？？？" "“Hendricks先生──極為明顯地──偏袒自己的員工。”"
+    "{color=#D0C8C6}???" "“Hendricks先生──極為明顯地──偏袒自己的員工。”"
 
 # game/williamroute3.rpy:2439
 translate Tchinese willstagmenu2_0a526afb:
 
     # "{color=#D0C8C6}???" "“However, so does Mr. Briggs.”"
-    "{color=#D0C8C6}？？？" "“但是，Briggs先生也一樣。”"
+    "{color=#D0C8C6}???" "“但是，Briggs先生也一樣。”"
 
 # game/williamroute3.rpy:2442
 translate Tchinese willstagmenu2_e5fef0fb:
 
     # "{color=#D0C8C6}???" "“There was very little overlap in those two groups, and it traditionally bred resentment.”"
-    "{color=#D0C8C6}？？？" "“這兩派幾乎不存在交集，自然而然地便滋生出了一種不滿情緒。”"
+    "{color=#D0C8C6}???" "“這兩派幾乎不存在交集，自然而然地便滋生出了一種不滿情緒。”"
 
 # game/williamroute3.rpy:2445
 translate Tchinese willstagmenu2_c1acdd7e:
 
     # "{color=#D0C8C6}???" "“But that’s all I can tell you.”"
-    "{color=#D0C8C6}？？？" "“我能說的就這麼多了。”"
+    "{color=#D0C8C6}???" "“我能說的就這麼多了。”"
 
 # game/williamroute3.rpy:2447
 translate Tchinese willstagmenu2_7dfb3dc5:
@@ -8368,7 +8368,7 @@ translate Tchinese endofwillstaginterviews2_051ededa:
 translate Tchinese endofwillstaginterviews2_e3430567:
 
     # "{color=#b35900}???" "“Bit hard out there for a law man, ain't it?”"
-    "{color=#b35900}？？？" "“對執法人員來說，外頭怕是不太友善吧？”"
+    "{color=#b35900}???" "“對執法人員來說，外頭怕是不太友善吧？”"
 
 # game/williamroute3.rpy:2649
 translate Tchinese endofwillstaginterviews2_a2ee704b:
@@ -8386,13 +8386,13 @@ translate Tchinese endofwillstaginterviews2_72a10e3c:
 translate Tchinese endofwillstaginterviews2_cc277334:
 
     # "{color=#b35900}???" "“Easy there, tough guy.”"
-    "{color=#b35900}？？？" "“放鬆點，硬漢。”"
+    "{color=#b35900}???" "“放鬆點，硬漢。”"
 
 # game/williamroute3.rpy:2654
 translate Tchinese endofwillstaginterviews2_968cb5c3:
 
     # "{color=#b35900}???" "“Who says I’m looking to get anywhere?”"
-    "{color=#b35900}？？？" "“誰說我想要得高分了？”"
+    "{color=#b35900}???" "“誰說我想要得高分了？”"
 
 # game/williamroute3.rpy:2656
 translate Tchinese endofwillstaginterviews2_6e55f9d0:
@@ -8416,7 +8416,7 @@ translate Tchinese endofwillstaginterviews2_0e4255ee:
 translate Tchinese endofwillstaginterviews2_f6530ea6:
 
     # "{color=#b35900}???" "“What’s so wrong with a game or two?”"
-    "{color=#b35900}？？？" "“此時不樂，更待何時？”"
+    "{color=#b35900}???" "“此時不樂，更待何時？”"
 
 # game/williamroute3.rpy:2662
 translate Tchinese endofwillstaginterviews2_1b5a838e:
@@ -12324,89 +12324,6 @@ translate Tchinese hattie_fec97169:
     # "To be continued..."
     "未完待續……"
 
-translate Tchinese strings:
-
-    # game/williamroute3.rpy:660
-    old "..."
-    new "……"
-
-    # game/williamroute3.rpy:660
-    old "Take care of that, Cocksucker."
-    new "幫他射出來，吸屌的。"
-
-    # game/williamroute3.rpy:660
-    old "He’ll be able to use his own hands once I’m done with this."
-    new "他可以自己打出來，等我完事以後。"
-
-    # game/williamroute3.rpy:1364
-    old "Where am I going first?"
-    new "從哪裡開始？"
-
-    # game/williamroute3.rpy:1364
-    old "City Hall."
-    new "鎮公所。"
-
-    # game/williamroute3.rpy:1364
-    old "The Stag."
-    new "Stag酒館。"
-
-    # game/williamroute3.rpy:1744
-    old "What should I do right now?"
-    new "我該怎麼做？"
-
-    # game/williamroute3.rpy:1744
-    old "Talk to the Mayor."
-    new "去找Mayor。"
-
-    # game/williamroute3.rpy:1744
-    old "Talk to James."
-    new "跟上James。"
-
-    # game/williamroute3.rpy:2351
-    old "Where should I look right now?"
-    new "現在調查哪裡？"
-
-    # game/williamroute3.rpy:2351
-    old "Check the upper beams"
-    new "梁上。"
-
-    # game/williamroute3.rpy:2351
-    old "Check out the bar."
-    new "吧檯。"
-
-    # game/williamroute3.rpy:2401
-    old "Who should I approach?"
-    new "要找誰搭話？"
-
-    # game/williamroute3.rpy:2401
-    old "Talk to the sable."
-    new "黑貂。"
-
-    # game/williamroute3.rpy:2401
-    old "Talk to the miners."
-    new "礦工們。"
-
-    # game/williamroute3.rpy:3172
-    old "Now, who would be the most useful to talk to?"
-    new "誰最值得交談？"
-
-    # game/williamroute3.rpy:3172
-    old "Talk to Dora."
-    new "Dora。"
-
-    # game/williamroute3.rpy:3172
-    old "Talk to Harlan."
-    new "Harlan。"
-
-    # game/williamroute3.rpy:3172
-    old "Talk to Ethel."
-    new "Ethel。"
-
-    # game/williamroute3.rpy:3172
-    old "Talk to Cynthia."
-    new "Cynthia。"
-
-# game/williamroute3.rpy:3875
 translate Tchinese hipinvestigation_1417259d:
 
     # "The only other person who’d be easy to access is Ethel, sitting along on the couch."
@@ -19897,7 +19814,7 @@ translate Tchinese hattie_b61f0723:
 translate Tchinese hattie_c5ebdb8a:
 
     # gr "\"The men have work to do at closing time.\""
-    gr "“我們的員工在打樣時間可是很忙的。”"# TODO: Translation updated at 2022-12-20 02:52
+    gr "“我們的員工在打樣時間可是很忙的。”"# TODO： Translation updated at 2022──12──20 02：52
 
 # game/williamroute3.rpy:5696
 translate Tchinese hattie_ded1d576:
@@ -20145,3 +20062,86 @@ translate Tchinese hattie_161d49dd:
     # "And he opens it."
     "他把冰櫃打開了"
 
+translate Tchinese strings:
+
+    # game/williamroute3.rpy:660
+    old "..."
+    new "……"
+
+    # game/williamroute3.rpy:660
+    old "Take care of that, Cocksucker."
+    new "幫他射出來，吸屌的。"
+
+    # game/williamroute3.rpy:660
+    old "He’ll be able to use his own hands once I’m done with this."
+    new "他可以自己打出來，等我完事以後。"
+
+    # game/williamroute3.rpy:1364
+    old "Where am I going first?"
+    new "從哪裡開始？"
+
+    # game/williamroute3.rpy:1364
+    old "City Hall."
+    new "鎮公所。"
+
+    # game/williamroute3.rpy:1364
+    old "The Stag."
+    new "Stag酒館。"
+
+    # game/williamroute3.rpy:1744
+    old "What should I do right now?"
+    new "我該怎麼做？"
+
+    # game/williamroute3.rpy:1744
+    old "Talk to the Mayor."
+    new "去找Mayor。"
+
+    # game/williamroute3.rpy:1744
+    old "Talk to James."
+    new "跟上James。"
+
+    # game/williamroute3.rpy:2351
+    old "Where should I look right now?"
+    new "現在調查哪裡？"
+
+    # game/williamroute3.rpy:2351
+    old "Check the upper beams"
+    new "梁上。"
+
+    # game/williamroute3.rpy:2351
+    old "Check out the bar."
+    new "吧檯。"
+
+    # game/williamroute3.rpy:2401
+    old "Who should I approach?"
+    new "要找誰搭話？"
+
+    # game/williamroute3.rpy:2401
+    old "Talk to the sable."
+    new "黑貂。"
+
+    # game/williamroute3.rpy:2401
+    old "Talk to the miners."
+    new "礦工們。"
+
+    # game/williamroute3.rpy:3172
+    old "Now, who would be the most useful to talk to?"
+    new "誰最值得交談？"
+
+    # game/williamroute3.rpy:3172
+    old "Talk to Dora."
+    new "Dora。"
+
+    # game/williamroute3.rpy:3172
+    old "Talk to Harlan."
+    new "Harlan。"
+
+    # game/williamroute3.rpy:3172
+    old "Talk to Ethel."
+    new "Ethel。"
+
+    # game/williamroute3.rpy:3172
+    old "Talk to Cynthia."
+    new "Cynthia。"
+
+# game/williamroute3.rpy:3875

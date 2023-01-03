@@ -5290,7 +5290,7 @@ translate Tchinese after_sw1_8b9b225e:
 translate Tchinese after_sw1_a47a3b86:
 
     # wi "\"But funny thing.\""
-    wi "“然而有趣的是─”"
+    wi "“然而有趣的是──”"
 
 # game/williamroute2.rpy:1553
 translate Tchinese after_sw1_447473bb:
@@ -6910,7 +6910,7 @@ translate Tchinese after_sw1_d2ef88e2:
 translate Tchinese after_sw1_ed15ad6b:
 
     # cy "{cps=17}\"Sa--\"{nw}"
-    cy "{cps=17}\"Sa──\"{nw}"
+    cy "{cps=17}“Sa──”{nw}"
 
 # game/williamroute2.rpy:1971
 translate Tchinese after_sw1_19b50e25:
@@ -11080,7 +11080,7 @@ translate Tchinese go1_27b6cda5:
 translate Tchinese go1_81e6c98d:
 
     # m "\"HELP ME!\""
-    m "“{b}救我!{/b}”"
+    m "“{b}救我！{/b}”"
 
 # game/williamroute2.rpy:3347
 translate Tchinese go1_7b44e980:
@@ -12730,7 +12730,7 @@ translate Tchinese sw2_52d10123:
 translate Tchinese sw2_412507ab:
 
     # wi "\"Who?\""
-    wi "“我和誰?”"
+    wi "“我和誰？”"
 
 # game/williamroute2.rpy:3891
 translate Tchinese sw2_da95880a:
@@ -12778,7 +12778,7 @@ translate Tchinese sw2_e609d78c:
 translate Tchinese sw2_f82c51a3:
 
     # wi "\"Yes.\""
-    wi "\"肯定。\""
+    wi "“肯定。”"
 
 # game/williamroute2.rpy:3909
 translate Tchinese sw2_9018f488:
@@ -12808,13 +12808,13 @@ translate Tchinese sw2_78a4b356:
 translate Tchinese sw2_0eb2ab17:
 
     # wi "\"Well that’s what’s nice about the West, Sam--everybody gets to be in danger all of the time.\""
-    wi "\"西部好就好在，人人都時刻與危險相伴，Sam。\""
+    wi "“西部好就好在，人人都時刻與危險相伴，Sam。”"
 
 # game/williamroute2.rpy:3917
 translate Tchinese sw2_e5e65a33:
 
     # m "\"Yet you keep saying the Windy City is more exciting.\""
-    m "\"那你還一個勁地說風城更刺激。\""
+    m "“那你還一個勁地說風城更刺激。”"
 
 # game/williamroute2.rpy:3919
 translate Tchinese sw2_b38fbd0b:
@@ -13084,7 +13084,7 @@ translate Tchinese sw2_13a0f0ec:
 translate Tchinese sw2_76715582:
 
     # wi "\"Speaking of hard work... I won’t be able to see you until the weekend, won’t I Nik?\""
-    wi "“說到努力…週末之前你還能外出嗎，Nik？”"
+    wi "“說到努力……週末之前你還能外出嗎，Nik？”"
 
 # game/williamroute2.rpy:4024
 translate Tchinese sw2_a67255e0:
@@ -13134,83 +13134,6 @@ translate Tchinese sw2_733de148:
     # wi "\"We’re off, then.\""
     wi "“那我們走吧。”"
 
-translate Tchinese strings:
-
-    # game/williamroute2.rpy:1160
-    old "What can I even say?"
-    new "還有什麼好說的呢？"
-
-    # game/williamroute2.rpy:1160
-    old "Nothing. Remind him of his heartbeat."
-    new "什麼也不說，點醒他的心意。"
-
-    # game/williamroute2.rpy:1160
-    old "I think your duty to your family is noble."
-    new "我覺得你對於家庭的責任是高尚的。"
-
-    # game/williamroute2.rpy:1160
-    old "You made a hard choice."
-    new "你做了一個艱難的選擇。"
-
-    # game/williamroute2.rpy:1160
-    old "It’s okay to be a little bit selfish."
-    new "稍微自私點也沒有關係。"
-
-    # game/williamroute2.rpy:2430
-    old "I know what I need to do now."
-    new "我需要做些什麼。"
-
-    # game/williamroute2.rpy:2430
-    old "Call out to them."
-    new "招呼他們。"
-
-    # game/williamroute2.rpy:2430
-    old "Hide."
-    new "藏起來。"
-
-    # game/williamroute2.rpy:2490
-    old "What next?"
-    new "接下來呢？"
-
-    # game/williamroute2.rpy:2490
-    old "Crouch and wait for him to leave"
-    new "蹲下身子等他離開。"
-
-    # game/williamroute2.rpy:2490
-    old "Get into the office quickly"
-    new "迅速溜進辦公室。"
-
-    # game/williamroute2.rpy:3312
-    old "Trust William and use the bridge quickly."
-    new "相信William，快速穿過橋。"
-
-    # game/williamroute2.rpy:3312
-    old "Trust Nik and avoid the bridge."
-    new "相信Nik，繞開橋。"
-
-    # game/williamroute2.rpy:3480
-    old "Well..."
-    new "呃……"
-
-    # game/williamroute2.rpy:3480
-    old "Sometimes people can hallucinate."
-    new "有時人們會產生幻覺。"
-
-    # game/williamroute2.rpy:3480
-    old "I hear stories about gasses in the mines."
-    new "我聽說礦井裡有瓦斯。"
-
-    # game/williamroute2.rpy:3480
-    old "Nothing was wrong with you."
-    new "你沒有錯。"
-
-    # game/williamroute2.rpy:3480
-    old "Witches."
-    new "女巫。"
-
-# TODO: Translation updated at 2022-12-20 02:52
-
-# game/williamroute2.rpy:649
 translate Tchinese williamroute2_f3ddbf24:
 
     # mar "\"Hello, hello?\""
@@ -13438,3 +13361,80 @@ translate Tchinese williamroute2_64dac620:
     # mar "\"Maybe he liked his toys too, but he just didn’t want to tell me about it.\""
     mar "“也許他也喜歡玩具，但就是不想告訴我。”"
 
+translate Tchinese strings:
+
+    # game/williamroute2.rpy:1160
+    old "What can I even say?"
+    new "還有什麼好說的呢？"
+
+    # game/williamroute2.rpy:1160
+    old "Nothing. Remind him of his heartbeat."
+    new "什麼也不說，點醒他的心意。"
+
+    # game/williamroute2.rpy:1160
+    old "I think your duty to your family is noble."
+    new "我覺得你對於家庭的責任是高尚的。"
+
+    # game/williamroute2.rpy:1160
+    old "You made a hard choice."
+    new "你做了一個艱難的選擇。"
+
+    # game/williamroute2.rpy:1160
+    old "It’s okay to be a little bit selfish."
+    new "稍微自私點也沒有關係。"
+
+    # game/williamroute2.rpy:2430
+    old "I know what I need to do now."
+    new "我需要做些什麼。"
+
+    # game/williamroute2.rpy:2430
+    old "Call out to them."
+    new "招呼他們。"
+
+    # game/williamroute2.rpy:2430
+    old "Hide."
+    new "藏起來。"
+
+    # game/williamroute2.rpy:2490
+    old "What next?"
+    new "接下來呢？"
+
+    # game/williamroute2.rpy:2490
+    old "Crouch and wait for him to leave"
+    new "蹲下身子等他離開。"
+
+    # game/williamroute2.rpy:2490
+    old "Get into the office quickly"
+    new "迅速溜進辦公室。"
+
+    # game/williamroute2.rpy:3312
+    old "Trust William and use the bridge quickly."
+    new "相信William，快速穿過橋。"
+
+    # game/williamroute2.rpy:3312
+    old "Trust Nik and avoid the bridge."
+    new "相信Nik，繞開橋。"
+
+    # game/williamroute2.rpy:3480
+    old "Well..."
+    new "呃……"
+
+    # game/williamroute2.rpy:3480
+    old "Sometimes people can hallucinate."
+    new "有時人們會產生幻覺。"
+
+    # game/williamroute2.rpy:3480
+    old "I hear stories about gasses in the mines."
+    new "我聽說礦井裡有瓦斯。"
+
+    # game/williamroute2.rpy:3480
+    old "Nothing was wrong with you."
+    new "你沒有錯。"
+
+    # game/williamroute2.rpy:3480
+    old "Witches."
+    new "女巫。"
+
+# TODO: Translation updated at 2022-12-20 02:52
+
+# game/williamroute2.rpy:649

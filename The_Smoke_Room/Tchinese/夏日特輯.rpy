@@ -214,7 +214,7 @@ translate Tchinese start_0eb0bfdd:
 translate Tchinese start_eb5437bf:
 
     # "???" "“’Ello?”"
-    "？？？" "“哈囉？”"
+    "???" "“哈囉？”"
 
 # game/script.rpy:145
 translate Tchinese start_d833232f:
@@ -4354,7 +4354,7 @@ translate Tchinese start_09295b69:
 translate Tchinese start_a4095883:
 
     # to "“You're red cross certified as well?”"
-    to "“你也有紅十字會的認證?”"
+    to "“你也有紅十字會的認證？”"
 
 # game/script.rpy:1686
 translate Tchinese start_8d9cfd31:
@@ -6282,7 +6282,7 @@ translate Tchinese start_81a3918b:
 translate Tchinese start_4d7d3713:
 
     # ni "\"Bait box.\""
-    ni "\"餌料盒。\""
+    ni "“餌料盒。”"
 
 # game/script.rpy:458
 translate Tchinese start_af7b0d41:
@@ -6360,7 +6360,7 @@ translate Tchinese start_3131d926:
 translate Tchinese start_b63a9669:
 
     # to "\"Aint no doubt about that!\""
-    to "\"真得不能更真了！\""
+    to "“真得不能更真了！”"
 
 # game/script.rpy:616
 translate Tchinese start_a307659a:
@@ -6858,7 +6858,7 @@ translate Tchinese start_64d24902:
 translate Tchinese start_071dce8f:
 
     # to "\"Is that one of them anime cosplays?\""
-    to "這難道是動漫的Cos服？\""
+    to "“這難道是動漫的Cos服？”"
 
 # game/script.rpy:1788
 translate Tchinese start_fe7da1ff:
@@ -6918,7 +6918,7 @@ translate Tchinese start_b5843111:
 translate Tchinese start_67ab6aaa:
 
     # wi "\"I bought you some clothes.\""
-    wi "“我給你買了幾件衣服。“"
+    wi "“我給你買了幾件衣服。”"
 
 # game/script.rpy:1822
 translate Tchinese start_6c6621f6:

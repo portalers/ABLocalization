@@ -1132,7 +1132,6 @@ translate Tchinese strings:
 
 # TODO: Translation updated at 2022-12-20 02:52
 
-translate Tchinese strings:
 
     # renpy/common/00action_other.rpy:703
     old "Open [text] directory."

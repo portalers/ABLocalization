@@ -2,14 +2,15 @@ import os, re
 
 class TransFileHandler:
 
-    def __init__(self, sourcePath, destinationPath, resultPath, fileName, tranlationName='Tchinese') -> None:
+    def __init__(self, sourcePath='./', destinationPath='./', resultPath='./', fileName="", tranlationName='Tchinese') -> None:
         self.sourcePath = sourcePath
         self.destinationPath = destinationPath
         self.resultPath = resultPath
         self.fileName = fileName
-        with open(self.destinationPath+self.fileName, 'r') as fn, open(self.sourcePath+self.fileName, 'r') as fo:
-            self.rawDestinationFile = fn.readlines()
-            self.rawSourceFile = fo.readlines()
+        if fileName:
+            with open(self.destinationPath+self.fileName, 'r') as fn, open(self.sourcePath+self.fileName, 'r') as fo:
+                self.rawDestinationFile = fn.readlines()
+                self.rawSourceFile = fo.readlines()
         self.findHashPattern = 'translate '+tranlationName
         self.stringsBlockPattern = self.findHashPattern+' strings:\n'
 
@@ -95,9 +96,10 @@ class TransFileHandler:
 
         while newOriginDict['orderedHash'].count(self.stringsBlockPattern) > 0:
             pos = newOriginDict['orderedHash'].index(self.stringsBlockPattern)
-            temData.extend(newOriginDict['content'].pop(pos)[self.stringsBlockPattern])
+            temData.extend(newOriginDict['content'].pop(pos)[self.stringsBlockPattern][1:])
             newOriginDict['orderedHash'].pop(pos)
         if temData:
+            temData.insert(0, self.stringsBlockPattern)
             newOriginDict['cotainStringsBlock'] = True
             newOriginDict['content'].append({self.stringsBlockPattern:temData})
             newOriginDict['orderedHash'].append(self.stringsBlockPattern)
@@ -105,7 +107,7 @@ class TransFileHandler:
         del currentHash
         
         if len(newOriginDict['orderedHash']) != len(set(newOriginDict['orderedHash'])):
-            dupHashMsg = str(set([str(newOriginDict['orderedHash'].count(hh))+'* '+hh for hh in newOriginDict['orderedHash'] if newOriginDict['orderedHash'].count(hh)>1]))
+            dupHashMsg = str(set([str(newOriginDict['orderedHash'].count(hh))+'* '+hh[:-2] for hh in newOriginDict['orderedHash'] if newOriginDict['orderedHash'].count(hh)>1]))
             if dupHashOverride:
                 for hh in newOriginDict['orderedHash'].copy():
                     while newOriginDict['orderedHash'].count(hh) > 1:
@@ -125,14 +127,12 @@ class TransFileHandler:
                 newOriginDict['content'][i][newOriginDict['orderedHash'][i]] = self.editFuwiPunc(newOriginDict['content'][i][newOriginDict['orderedHash'][i]])
         return newOriginDict
 
-    def editFuwiPunc(self, contentLines):
-        # '!':'！', ':':'：', ',':':'、', hash tag(#) without following-a-space can't easily replace cuz of the syntax below, manually check please.
+    def editFuwiPunc(self, contentLines) -> list:
+        # '!':'！', ':':'：', ',':':'、', are not easily replaced or fixed cuz of the syntax below, manually check ., '', [], $ and python code section please.
         # define earned_points_info = _("[points]{image=points.png} 贏得點數")
         # g "我很高興看到你 [earned_points_info!ti] "
         # $ percent = 100.0 * points / max_points
         # g "我百分之 [percent:.2] 喜歡你！"
-        # "{color=#f00}紅色{/color}, {color=#00ff00}綠色{/color}, {color=#0000ffff}藍色{/color}"
-        # 角色是???的也要人工看一下
         contentLines = contentLines.copy()
         targetPairs = {'...':'……',
             '-':'──',
@@ -145,8 +145,6 @@ class TransFileHandler:
         }
         hardToFind = {'..':'……',
         '.':'。',
-        '…':'……',
-        '—':'──',
         }
         mayDupPunc = ['…', '—', '─']
 
@@ -154,6 +152,7 @@ class TransFileHandler:
         validLineCount = []
         addDoubleQuotes = False
         ncPos = -1
+        
         for i in range(len(contentLines)):
             if not contentLines[i].isspace() and contentLines[i].lstrip().startswith('#') and '# TODO' not in contentLines[i] and '# game' not in contentLines[i]:
                 nearestUpSideComment.append(i)
@@ -162,16 +161,13 @@ class TransFileHandler:
                 for targ in targetPairs.keys():
                     contentLines[i] = contentLines[i].replace(targ, targetPairs[targ])
 
-                #hardToFind
                 contentLines[i] = contentLines[i].replace('..', hardToFind['..'])
                 contentLines[i] = contentLines[i].replace('？？？', '???', 1)
 
-                try:
+                if '"' in contentLines[i]:
                     endPos = contentLines[i].rindex('"')
                     if contentLines[i][endPos-1] == '.':
                         contentLines[i] = contentLines[i][:endPos-1]+hardToFind['.']+contentLines[i][endPos:]
-                except:
-                    pass
                 
                 for mdp in mayDupPunc:
                     contentLines[i] = self.findDupPunc(mdp, contentLines[i])
@@ -180,87 +176,18 @@ class TransFileHandler:
             for nc in nearestUpSideComment:
                 if nc < validLineCount[0]:
                     ncPos = nc
+
         if ncPos != -1:
-            try:
+            if '\\"' in contentLines[ncPos]:
                 if contentLines[ncPos].index('\\"') != contentLines[ncPos].rindex('\\"'):
                     addDoubleQuotes = True
-            except:
-                pass
+
         if addDoubleQuotes:
-            try:
-                if '“' in contentLines[validLineCount[0]]  or '”' in contentLines[validLineCount[0]]:
-                    tmplist = list(contentLines[validLineCount[0]])
-                    itsPos = []
-                    popCounter = ''.join(tmplist).count('\\"')
-                    for i in range(popCounter):
-                        popPos = ''.join(tmplist).index('\\"')
-                        itsPos.append(popPos+i)
-                        tmplist.pop(popPos)
-                        tmplist.pop(popPos)
-
-                    tmplist.reverse()
-
-                    if tmplist[tmplist.index('"')+1] == '“' or tmplist[tmplist.index('"')+1] == '\\':
-                        tmplist[tmplist.index('"')+1] = '”'
-                    elif tmplist[tmplist.index('"')+1] != '”' and tmplist[tmplist.index('"')+1] != ' ' :
-                        tmplist.insert(tmplist.index('"')+1, '”')
-
-                    tmpPopPos = tmplist.index('"')
-                    tmplist.pop(tmpPopPos)
-
-                    if tmplist[tmplist.index('"')-1] == '”' or tmplist[tmplist.index('"')-1] == '\\':
-                        tmplist[tmplist.index('"')-1] = '“'
-                    elif tmplist[tmplist.index('"')-1] != '“' and tmplist[tmplist.index('"')-1] != ' ' :
-                        tmplist.insert(tmplist.index('"'), '“')
-                        insertPosOffset = True
-
-                    tmplist.insert(tmpPopPos, '"')
-                    tmplist.reverse()
-
-                    if insertPosOffset:
-                        itsPos = [itps+1 for itps in itsPos]
-
-                    for itps in itsPos:
-                        itsPos.insert(itps, '\\')
-                        itsPos.insert(itps, '"')
-                        
-                    contentLines[validLineCount[0]] = ''.join(tmplist)
-                else:
-                    if contentLines[validLineCount[0]].index('\\"') != contentLines[validLineCount[0]].rindex('\\"'):
-                        contentLines[validLineCount[0]] = contentLines[validLineCount[0]][:contentLines[validLineCount[0]].index('\\"')]+'“'+contentLines[validLineCount[0]][contentLines[validLineCount[0]].index('\\"')+2:contentLines[validLineCount[0]].rindex('\\"')]+'”'+contentLines[validLineCount[0]][contentLines[validLineCount[0]].rindex('\\"')+2:]
-                    else:
-                        tmplist = list(contentLines[validLineCount[0]])
-                        itsPos = []
-                        popCounter = ''.join(tmplist).count('\\"')
-                        for i in range(popCounter):
-                            popPos = ''.join(tmplist).index('\\"')
-                            itsPos.append(popPos+i)
-                            tmplist.pop(popPos)
-                            tmplist.pop(popPos)
-
-                        tmplist.reverse()
-                        tmplist.insert(tmplist.index('"')+1, '”')
-
-                        tmpPopPos = tmplist.index('"')
-                        tmplist.pop(tmpPopPos)
-
-                        tmplist.insert(tmplist.index('"'), '“')
-
-                        tmplist.insert(tmpPopPos, '"')
-                        tmplist.reverse()
-
-                        itsPos = [itps+1 for itps in itsPos]
-                        for itps in itsPos:
-                            itsPos.insert(itps, '\\')
-                            itsPos.insert(itps, '"')
-                            
-                        contentLines[validLineCount[0]] = ''.join(tmplist)
-            except:
-                pass
+            for valico in validLineCount:
+                contentLines[valico] = self.addDoubQuo(contentLines[valico])
         return contentLines
 
-    def findDupPunc(self, puncPattern, puncSourceLine):
-
+    def findDupPunc(self, puncPattern, puncSourceLine) -> str:
         allMatches = [(m.start(0), m.end(0)) for m in re.finditer(puncPattern, puncSourceLine)]
         if allMatches:
             preMarked = ()
@@ -284,5 +211,89 @@ class TransFileHandler:
                 tmplist.insert(sm[1], puncPattern)
 
             return ''.join(tmplist)
+        return puncSourceLine
+    
+    def addDoubQuo(self, addQuoteLine) -> str:
+        if '“' in addQuoteLine  or '”' in addQuoteLine:
+            tmplist = list(addQuoteLine)
+            itsPos = []
+            # insertPosOffset = False
+            popCounter = ''.join(tmplist).count('\\"')
+            for i in range(popCounter):
+                popPos = ''.join(tmplist).index('\\"')
+                itsPos.append(popPos+i)
+                tmplist.pop(popPos)
+                tmplist.pop(popPos)
+
+            tmplist.reverse()
+
+            while tmplist[tmplist.index('"')+1] == ' ' or tmplist[tmplist.index('"')+1] == '　':
+                tmplist.pop(tmplist.index('"')+1)
+            if tmplist[tmplist.index('"')+1] == '“' or tmplist[tmplist.index('"')+1] == '\\':
+                tmplist[tmplist.index('"')+1] = '”'
+            elif tmplist[tmplist.index('"')+1] != '”' and '”' not in tmplist:
+                tmplist.insert(tmplist.index('"')+1, '”')
+
+            tmpPopPos = tmplist.index('"')
+            tmplist.pop(tmpPopPos)
+
+            while tmplist[tmplist.index('"')-1] == ' ' or tmplist[tmplist.index('"')+1] == '　':
+                tmplist.pop(tmplist.index('"')-1)
+            if tmplist[tmplist.index('"')-1] == '”' or tmplist[tmplist.index('"')-1] == '\\':
+                tmplist[tmplist.index('"')-1] = '“'
+            elif tmplist[tmplist.index('"')-1] != '“' and '“' not in tmplist:
+                tmplist.insert(tmplist.index('"'), '“')
+                # insertPosOffset = True
+
+            tmplist.insert(tmpPopPos, '"')
+            tmplist.reverse()
+
+            # if insertPosOffset:
+            #     itsPos = [itps+1 for itps in itsPos]
+
+            # for itps in itsPos:
+            #     tmplist.insert(itps, '"')
+            #     tmplist.insert(itps, '\\')
+                
+            addQuoteLine = ''.join(tmplist)
         else:
-            return puncSourceLine
+            if addQuoteLine.count('\\"'):
+                if addQuoteLine.index('\\"') != addQuoteLine.rindex('\\"'):
+                    addQuoteLine = addQuoteLine[:addQuoteLine.index('\\"')]+'“'+addQuoteLine[addQuoteLine.index('\\"')+2:addQuoteLine.rindex('\\"')]+'”'+addQuoteLine[addQuoteLine.rindex('\\"')+2:]
+                else:
+                    tmplist = list(addQuoteLine)
+                    popPos = ''.join(tmplist).index('\\"')
+                    tmplist.pop(popPos)
+                    tmplist.pop(popPos)
+
+                    tmplist.reverse()
+
+                    while tmplist[tmplist.index('"')+1] == ' ' or tmplist[tmplist.index('"')+1] == '　':
+                        tmplist.pop(tmplist.index('"')+1)
+                    if tmplist[tmplist.index('"')+1] == '\\':
+                        tmplist[tmplist.index('"')+1] = '”'
+                    elif tmplist[tmplist.index('"')+1] != '”' and '”' not in tmplist:
+                        tmplist.insert(tmplist.index('"')+1, '”')
+                        # insertPosOffset = True
+
+                    tmpPopPos = tmplist.index('"')
+                    tmplist.pop(tmpPopPos)
+
+                    while tmplist[tmplist.index('"')-1] == ' ' or tmplist[tmplist.index('"')+1] == '　':
+                        tmplist.pop(tmplist.index('"')-1)
+                    if tmplist[tmplist.index('"')-1] == '\\':
+                        tmplist[tmplist.index('"')-1] = '“'
+                    elif tmplist[tmplist.index('"')-1] != '“' and '“' not in tmplist:
+                        tmplist.insert(tmplist.index('"'), '“')
+                        # insertPosOffset = True
+
+                    tmplist.insert(tmpPopPos, '"')
+                    tmplist.reverse()
+
+                    # if insertPosOffset:
+                    #     popPos += 1 
+                    # tmplist.insert(popPos, '"')
+                    # tmplist.insert(popPos, '\\')
+                        
+                    addQuoteLine = ''.join(tmplist)
+        return addQuoteLine

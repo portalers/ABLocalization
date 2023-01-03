@@ -3214,7 +3214,7 @@ translate Tchinese start_619f5d14:
 translate Tchinese start_5adf236d:
 
     # "???" "\"We all want to wish you a Happy holidays from the Smoke Room team! We hope you enjoyed reading this bonus story! .\""
-    "???" "“The Smoke Room團隊的大家想向各位獻上節慶祝福！希望這個額外故事大家看得盡興！\""
+    "???" "“The Smoke Room團隊的大家想向各位獻上節慶祝福！希望這個額外故事大家看得盡興！”"
 
 # game/script.rpy:992
 translate Tchinese start_a20cefa7_1:
@@ -3250,7 +3250,7 @@ translate Tchinese start_a20cefa7_3:
 translate Tchinese start_860d3c3f:
 
     # sht "\"Thanks for making this experience wonderful! ¡Feliz Navidad y Feliz Año Nuevo a todes!\""
-    sht "“感謝大家帶來的反響！{font=DejaVuSans.ttf}¡Feliz Navidad y Feliz Año Nuevo a todes!{/font} (西班牙文：祝大家聖誕快樂！新年快樂！)”"
+    sht "“感謝大家帶來的反響！{font=DejaVuSans.ttf}¡Feliz Navidad y Feliz Año Nuevo a todes！{/font} (西班牙文：祝大家聖誕快樂！新年快樂！)”"
 
 # game/script.rpy:998
 translate Tchinese start_a20cefa7_4:
@@ -3274,7 +3274,7 @@ translate Tchinese start_a20cefa7_5:
 translate Tchinese start_fdffaa5e:
 
     # kar "\"Wishing you all colorful, warm and bright Holiday season – God Jul, Wesołych Świąt!\""
-    kar "“祝各位有個多采多姿、溫暖光明的假期 {font=DejaVuSans.ttf}God Jul, Wesołych Świąt!{/font} (波蘭語：聖誕快樂！)”"
+    kar "“祝各位有個多采多姿、溫暖光明的假期 {font=DejaVuSans.ttf}God Jul， Wesołych Świąt！{/font} (波蘭語：聖誕快樂！)”"
 
 # game/script.rpy:1002
 translate Tchinese start_a20cefa7_6:

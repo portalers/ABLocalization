@@ -2182,7 +2182,7 @@ translate Tchinese Murdochroute_e403dcc9:
 translate Tchinese Murdochroute_e2e6f42c:
 
     # mu "\"Got those from lifting boxes and moving equipment... running to and fro, often the same routes and the same paths... every day.\""
-    mu "“抬箱子和搬運設備得來的……反覆奔波，經常是同樣的路線、同樣的道路...每天如此。”"
+    mu "“抬箱子和搬運設備得來的……反覆奔波，經常是同樣的路線、同樣的道路……每天如此。”"
 
 # game/Murdochroute.rpy:507
 translate Tchinese Murdochroute_7c123c4d:
@@ -5530,25 +5530,25 @@ translate Tchinese Murdochroute_6203c389:
 translate Tchinese Murdochroute_ac3d4114:
 
     # "{color=#96D7A1}???" "\"The raven himself is hoarse that croaks the fatal entrance of Duncan under my battlements.\""
-    "{color=#96D7A1}???" " “報告鄧肯走進我這堡門來送死的烏鴉，它的叫聲是嘶啞的。”"
+    "{color=#96D7A1}???" "“報告鄧肯走進我這堡門來送死的烏鴉，它的叫聲是嘶啞的。”"
 
 # game/Murdochroute.rpy:1463
 translate Tchinese Murdochroute_e9ad7e5f:
 
     # "{color=#96D7A1}???" "\"Come, you spirits that tend on mortal thoughts.\""
-    "{color=#96D7A1}???" " “來，注視著人類惡念的魔鬼們。”"
+    "{color=#96D7A1}???" "“來，注視著人類惡念的魔鬼們。”"
 
 # game/Murdochroute.rpy:1464
 translate Tchinese Murdochroute_dcf71bd3:
 
     # "{color=#96D7A1}???" "\"Unsex me here, and fill me from the crown to the toe...\""
-    "{color=#96D7A1}???" " “解除我的女性的柔弱，用最兇惡的殘忍自頂至踵……”"
+    "{color=#96D7A1}???" "“解除我的女性的柔弱，用最兇惡的殘忍自頂至踵……”"
 
 # game/Murdochroute.rpy:1465
 translate Tchinese Murdochroute_06ad95ae:
 
     # "{color=#96D7A1}???" "\"...topful, of direst cruelty.\""
-    "{color=#96D7A1}???" " “……貫注在我的全身。”"
+    "{color=#96D7A1}???" "“……貫注在我的全身。”"
 
 # game/Murdochroute.rpy:1467
 translate Tchinese Murdochroute_3075b016:
@@ -5566,7 +5566,7 @@ translate Tchinese Murdochroute_da21f0dc:
 translate Tchinese Murdochroute_1ab37b79:
 
     # "{color=#96D7A1}???" "\"...A moment if you please.\""
-    "{color=#96D7A1}???" " “……請稍等片刻。”"
+    "{color=#96D7A1}???" "“……請稍等片刻。”"
 
 # game/Murdochroute.rpy:1472
 translate Tchinese Murdochroute_0690425e:
@@ -5578,7 +5578,7 @@ translate Tchinese Murdochroute_0690425e:
 translate Tchinese Murdochroute_5154ec7f:
 
     # "{color=#96D7A1}???" "\"What does the passage mean, Blithe?\""
-    "{color=#96D7A1}???" " “這個段話是什麼意思，Blithe？”"
+    "{color=#96D7A1}???" "“這個段話是什麼意思，Blithe？”"
 
 # game/Murdochroute.rpy:1477
 translate Tchinese Murdochroute_ac538374:
@@ -5602,7 +5602,7 @@ translate Tchinese Murdochroute_ec36926d:
 translate Tchinese Murdochroute_8ccd4633:
 
     # "{color=#96D7A1}???" "\"Why is the intersection of the roles ‘Lady’ and ‘murderer’ unnatural?\""
-    "{color=#96D7A1}???" " “為什麼‘夫人’和‘殺人犯’這兩個角色的重疊是不自然的？”"
+    "{color=#96D7A1}???" "“為什麼‘夫人’和‘殺人犯’這兩個角色的重疊是不自然的？”"
 
 # game/Murdochroute.rpy:1488
 translate Tchinese Murdochroute_fc640efd:
@@ -5626,13 +5626,13 @@ translate Tchinese Murdochroute_9373984f:
 translate Tchinese Murdochroute_306e0a00:
 
     # "{color=#96D7A1}???" "\"In the mind of the poet, in the midst of his world.\""
-    "{color=#96D7A1}???" " “在詩人的心中，在他的世界中。”"
+    "{color=#96D7A1}???" "“在詩人的心中，在他的世界中。”"
 
 # game/Murdochroute.rpy:1496
 translate Tchinese Murdochroute_682bc0b4:
 
     # "{color=#96D7A1}???" "\"Do not speak. Write.\""
-    "{color=#96D7A1}???" " “不要說話。寫。”"
+    "{color=#96D7A1}???" "“不要說話。寫。”"
 
 # game/Murdochroute.rpy:1499
 translate Tchinese Murdochroute_ea88ffae:
@@ -5650,7 +5650,7 @@ translate Tchinese Murdochroute_6023396f:
 translate Tchinese Murdochroute_88c25011:
 
     # "{color=#96D7A1}???" "\"My little brother is pushing his paperwork onto you?\""
-    "{color=#96D7A1}???" " “我弟弟把他的文件推給你了？”"
+    "{color=#96D7A1}???" "“我弟弟把他的文件推給你了？”"
 
 # game/Murdochroute.rpy:1505
 translate Tchinese Murdochroute_551e7560:
@@ -5662,19 +5662,19 @@ translate Tchinese Murdochroute_551e7560:
 translate Tchinese Murdochroute_c1841489:
 
     # "{color=#96D7A1}???" "\"He’s such a busy bee.\""
-    "{color=#96D7A1}???" " “他可真是個大忙人。”"
+    "{color=#96D7A1}???" "“他可真是個大忙人。”"
 
 # game/Murdochroute.rpy:1509
 translate Tchinese Murdochroute_06d8cb62:
 
     # "{color=#96D7A1}???" "\"But you’d think he’d have the time to say hello to me himself...\""
-    "{color=#96D7A1}???" " “不過他應該有時間親自向我打招呼，你不覺得嗎……”"
+    "{color=#96D7A1}???" "“不過他應該有時間親自向我打招呼，你不覺得嗎……”"
 
 # game/Murdochroute.rpy:1511
 translate Tchinese Murdochroute_ae3012c0:
 
     # "{color=#96D7A1}???" "\"...especially after getting himself a helper.\""
-    "{color=#96D7A1}???" " “……尤其是在給自己找了個幫手之後。”"
+    "{color=#96D7A1}???" "“……尤其是在給自己找了個幫手之後。”"
 
 # game/Murdochroute.rpy:1513
 translate Tchinese Murdochroute_f3219dcd:
@@ -5698,7 +5698,7 @@ translate Tchinese Murdochroute_5dd69108:
 translate Tchinese Murdochroute_5987a325:
 
     # "{color=#96D7A1}???" "\"But where are my manners.\""
-    "{color=#96D7A1}???" " “然而禮儀何在呢。”"
+    "{color=#96D7A1}???" "“然而禮儀何在呢。”"
 
 # game/Murdochroute.rpy:1519
 translate Tchinese Murdochroute_bbcde73d:
@@ -5884,7 +5884,7 @@ translate Tchinese Murdochroute_6a23153d:
 translate Tchinese Murdochroute_ac56523f:
 
     # dh "\"You’ve probably given one to all of my students by now..\""
-    dh "“你可能已經發給我的全部學生了。..”"
+    dh "“你可能已經發給我的全部學生了。……”"
 
 # game/Murdochroute.rpy:1579
 translate Tchinese Murdochroute_e29a84e6:
