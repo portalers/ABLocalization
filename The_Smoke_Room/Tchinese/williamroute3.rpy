@@ -20145,3 +20145,95 @@ translate Tchinese strings:
     new "Cynthia。"
 
 # game/williamroute3.rpy:3875
+# TODO: Translation updated at 2023-01-03 14:14
+
+# game/williamroute3.rpy:5599
+translate Tchinese hattie_5a81fe2a:
+
+    # wi "\"I thought I had explained to you that she’s a suspect?!\""
+    wi "\"I thought I had explained to you that she’s a suspect?!\""
+
+# game/williamroute3.rpy:5607
+translate Tchinese hattie_7c3bebd7:
+
+    # wi "\"Scout the property and wait for her to calm down.\""
+    wi "\"Scout the property and wait for her to calm down.\""
+
+# game/williamroute3.rpy:5608
+translate Tchinese hattie_05d4b1c1:
+
+    # m "\"And how long is that gonna take?\""
+    m "\"And how long is that gonna take?\""
+
+# game/williamroute3.rpy:5611
+translate Tchinese hattie_5cd2ba2c:
+
+    # wi "\"Could be a few hours, could be a few days.\""
+    wi "\"Could be a few hours, could be a few days.\""
+
+# game/williamroute3.rpy:5613
+translate Tchinese hattie_dec8a06c:
+
+    # wi "\"Now we just gotta hope for the best that she’s isn’t guilty and that she’ll be in the right mind to cooperate in the future.\""
+    wi "\"Now we just gotta hope for the best that she’s isn’t guilty and that she’ll be in the right mind to cooperate in the future.\""
+
+# game/williamroute3.rpy:5625
+translate Tchinese hattie_8349bc1f:
+
+    # wi "\"I don't think we'll find anything, but something is better than nothing.\""
+    wi "\"I don't think we'll find anything, but something is better than nothing.\""
+
+# game/williamroute3.rpy:5635
+translate Tchinese hattie_2e7df407:
+
+    # "I scratch the back of my head."
+    "I scratch the back of my head."
+
+# game/williamroute3.rpy:5636
+translate Tchinese hattie_1e4a109f:
+
+    # m "\"You know, this aint my job, Will.\""
+    m "\"You know, this aint my job, Will.\""
+
+# game/williamroute3.rpy:5638
+translate Tchinese hattie_71b173b2:
+
+    # wi "\"I know, but it's close where I'll be for the next few days, and I think it would be best for you to keep by.\""
+    wi "\"I know, but it's close where I'll be for the next few days, and I think it would be best for you to keep by.\""
+
+# game/williamroute3.rpy:5640
+translate Tchinese hattie_7a5c6441:
+
+    # m "\"I get that, but I have other things that I could be doing right now.\""
+    m "\"I get that, but I have other things that I could be doing right now.\""
+
+# game/williamroute3.rpy:5642
+translate Tchinese hattie_4cf47544:
+
+    # wi "\"Like I said before, I don't think we're going to find anything.\""
+    wi "\"Like I said before, I don't think we're going to find anything.\""
+
+# game/williamroute3.rpy:5644
+translate Tchinese hattie_c0c26de3:
+
+    # wi "\"I know it's been a long day.\""
+    wi "\"I know it's been a long day.\""
+
+# game/williamroute3.rpy:5645
+translate Tchinese hattie_966a4c91:
+
+    # wi "\"If y'all don't find anything in a few hours, you and Todd can head off home or back to the office.\""
+    wi "\"If y'all don't find anything in a few hours, you and Todd can head off home or back to the office.\""
+
+# game/williamroute3.rpy:5649
+translate Tchinese hattie_ec2cc410:
+
+    # m "\"Alright\""
+    m "\"Alright\""
+
+# game/williamroute3.rpy:5650
+translate Tchinese hattie_ff90e985:
+
+    # m "\"Guess I’m with you for the next few hours, Mr. Bronson.\""
+    m "\"Guess I’m with you for the next few hours, Mr. Bronson.\""
+

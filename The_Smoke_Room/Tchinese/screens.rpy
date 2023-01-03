@@ -370,4 +370,11 @@ translate Tchinese strings:
     new "關閉"
 
     old "Notebook updated."
-    new "筆記已更新"
+    new "筆記已更新"# TODO: Translation updated at 2023-01-03 14:14
+
+translate Tchinese strings:
+
+    # game/screens.rpy:1098
+    old "Mouse{#GUI}"
+    new "Mouse{#GUI}"
+

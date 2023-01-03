@@ -28539,32 +28539,49 @@ translate Tchinese murdochroute2_22a2bd62:
 translate Tchinese murdochroute2_de7b25f1:
 
     # m "\"Speakin' of which...\""
-    m "“說到這裡……”"translate Tchinese strings:
+    m "“說到這裡……”"
 
     # game/murdochroute2.rpy:5463
     old "He looks..."
     new "他看起來……"
 
-    # game/murdochroute2.rpy:5463
+# game/murdochroute2.rpy:151
+# TODO: Translation updated at 2023-01-03 14:14
+
+# game/murdochroute2.rpy:3186
+translate Tchinese murdochroute2_55a8f654:
+
+    # dh "\"Oh? But aren't the two of you already acquainted?\""
+    dh "“噢？但你們兩位不是早就認識了嗎？”"
+
+# game/murdochroute2.rpy:3193
+translate Tchinese murdochroute2_4653f8ab:
+
+    # "We both come to the understanding that we don’t need to go into details about where we were and when last night."
+    "我和她都心知肚明，沒有詳細說明昨晚之事的必要。"
+
+translate Tchinese strings:
+
+    # game/murdochroute2.rpy:5462
+    old "He looks..."
+    new "他看起來……"
+
+    # game/murdochroute2.rpy:5462
     old "Just fine"
     new "挺不賴的"
 
-    # game/murdochroute2.rpy:6397
+    # game/murdochroute2.rpy:6396
     old "Well let’s see..."
     new "這個嘛……"
 
-    # game/murdochroute2.rpy:6397
+    # game/murdochroute2.rpy:6396
     old "300?"
     new "300？"
 
-    # game/murdochroute2.rpy:6397
+    # game/murdochroute2.rpy:6396
     old "400?"
     new "400？"
 
-    # game/murdochroute2.rpy:6397
+    # game/murdochroute2.rpy:6396
     old "500?"
     new "500？"
-
-# TODO: Translation updated at 2022-06-12 19:30
-
-# game/murdochroute2.rpy:151
