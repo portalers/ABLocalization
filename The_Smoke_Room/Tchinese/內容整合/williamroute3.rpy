@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-23 16:06
+﻿# TODO: Translation updated at 2023-01-05 10:43
 
 # game/williamroute3.rpy:18
 translate Tchinese williamroute3_506ab1eb:
@@ -2848,7 +2848,7 @@ translate Tchinese willbedchoice_f27c05e8:
 translate Tchinese willbedchoice_2b4d839e:
 
     # wi "“Shiiiiit!”"
-    wi "“操────!”"
+    wi "“操────！”"
 
 # game/williamroute3.rpy:696
 translate Tchinese willbedchoice_a71fdd8f:
@@ -11036,7 +11036,7 @@ translate Tchinese hipinvestigation1_3bd10918:
 # game/williamroute3.rpy:3503
 translate Tchinese hipinvestigation1_55f2ebde:
 
-    # cy "“...Another?”"
+    # cy "“……Another?”"
     cy "“……又一起？”"
 
 # game/williamroute3.rpy:3504
@@ -11048,7 +11048,7 @@ translate Tchinese hipinvestigation1_8ce61eb8:
 # game/williamroute3.rpy:3505
 translate Tchinese hipinvestigation1_e78f319a:
 
-    # wi "“Can you tell me anything... and I mean anything about James Hendricks?”"
+    # wi "“Can you tell me anything…… and I mean anything about James Hendricks?”"
     wi "“你知道什麼嗎……我是指關於James Hendricks？”"
 
 # game/williamroute3.rpy:3507
@@ -11234,7 +11234,7 @@ translate Tchinese hattie_b1b1c8bf:
 # game/williamroute3.rpy:3558
 translate Tchinese hattie_d885f22f:
 
-    # "Nik found him drunk there once... after downing a whole glass of absinthe."
+    # "Nik found him drunk there once…… after downing a whole glass of absinthe."
     "有一次，Nik發現他在樓下醉得不省人事……他喝了一整杯苦艾酒。"
 
 # game/williamroute3.rpy:3559
@@ -14757,7 +14757,7 @@ translate Tchinese hattie_6456f1e3:
 translate Tchinese hattie_60c8d2fa_1:
 
     # wi "\"Marcy...\""
-    wi "“Marcy……”"
+    wi "Marcy……"
 
 # game/williamroute3.rpy:5603
 translate Tchinese hattie_d8723232:
@@ -14769,7 +14769,7 @@ translate Tchinese hattie_d8723232:
 translate Tchinese hattie_fe2749be:
 
     # mar "\"...Hmm?\""
-    mar "“……嗯？”"
+    mar "……嗯？"
 
 # game/williamroute3.rpy:5606
 translate Tchinese hattie_290f18c3:
@@ -14847,9 +14847,9 @@ translate Tchinese hattie_b34b4ec7:
 translate Tchinese hattie_5a81fe2a:
 
     # wi "\"I thought I had explained to you that she’s a suspect?!\""
-    wi "“我不是跟你解釋過她是嫌疑犯嗎？！”"
+    wi "“I thought I had explained to you that she’s a suspect？！”"
 
-# game/williamroute3.rpy:5602
+# game/williamroute3.rpy:5607
 translate Tchinese hattie_0d1ea0af:
 
     # wi "\"Now if she’s got something to hide then we’ll never get it out of her willingly.\""
@@ -14865,27 +14865,27 @@ translate Tchinese hattie_06910504:
 translate Tchinese hattie_7c3bebd7:
 
     # wi "\"Scout the property and wait for her to calm down.\""
-    wi "“在附近搜索，等待她平靜下來。”"
+    wi "“Scout the property and wait for her to calm down.”"
 
 # game/williamroute3.rpy:5608
 translate Tchinese hattie_05d4b1c1:
 
     # m "\"And how long is that gonna take?\""
-    m "“然後這需要多久呢？”"
+    m "“And how long is that gonna take？”"
 
 # game/williamroute3.rpy:5611
 translate Tchinese hattie_5cd2ba2c:
 
     # wi "\"Could be a few hours, could be a few days.\""
-    wi "“有可能是幾小時，也有可能變好幾天。”"
+    wi "“Could be a few hours， could be a few days.”"
 
 # game/williamroute3.rpy:5613
 translate Tchinese hattie_dec8a06c:
 
     # wi "\"Now we just gotta hope for the best that she’s isn’t guilty and that she’ll be in the right mind to cooperate in the future.\""
-    wi "“只能寄希望於她是清白的，自願配合我們的工作了。”"
+    wi "“Now we just gotta hope for the best that she’s isn’t guilty and that she’ll be in the right mind to cooperate in the future.”"
 
-# game/williamroute3.rpy:5616
+# game/williamroute3.rpy:5625
 translate Tchinese hattie_f31d6c2e:
 
     # wi "\"Until then we ought to look around.\""
@@ -14913,9 +14913,9 @@ translate Tchinese hattie_1abaacd3:
 translate Tchinese hattie_8349bc1f:
 
     # wi "\"I don't think we'll find anything, but something is better than nothing.\""
-    wi "“我不覺得我們會找到有用的東西，但有東西總比沒東西好。”"
+    wi "“I don't think we'll find anything， but something is better than nothing.”"
 
-# game/williamroute3.rpy:5630
+# game/williamroute3.rpy:5635
 translate Tchinese hattie_66bcb7de:
 
     # wi "\"You could start with her shed.\""
@@ -14931,45 +14931,45 @@ translate Tchinese hattie_4833b8e9:
 translate Tchinese hattie_2e7df407:
 
     # "I scratch the back of my head."
-    "我撓撓我的後腦杓。"
+    "I scratch the back of my head。"
 
 # game/williamroute3.rpy:5636
 translate Tchinese hattie_1e4a109f:
 
     # m "\"You know, this aint my job, Will.\""
-    m "“你知道嗎，Will，這不是我的工作。”"
+    m "“You know， this aint my job， Will.”"
 
 # game/williamroute3.rpy:5638
 translate Tchinese hattie_71b173b2:
 
     # wi "\"I know, but it's close where I'll be for the next few days, and I think it would be best for you to keep by.\""
-    wi "“我知道，但我這幾天都會在附近，\n而且我想，最好你也可以待在旁邊。”"
+    wi "“I know， but it's close where I'll be for the next few days， and I think it would be best for you to keep by.”"
 
 # game/williamroute3.rpy:5640
 translate Tchinese hattie_7a5c6441:
 
     # m "\"I get that, but I have other things that I could be doing right now.\""
-    m "“我明白了，但現在我還有其他事情要去做。”"
+    m "“I get that， but I have other things that I could be doing right now.”"
 
 # game/williamroute3.rpy:5642
 translate Tchinese hattie_4cf47544:
 
     # wi "\"Like I said before, I don't think we're going to find anything.\""
-    wi "“就如同我之前所說的，這邊很難找到線索。”"
+    wi "“Like I said before， I don't think we're going to find anything.”"
 
 # game/williamroute3.rpy:5644
 translate Tchinese hattie_c0c26de3:
 
     # wi "\"I know it's been a long day.\""
-    wi "“然後忙到天也晚了。”"
+    wi "“I know it's been a long day.”"
 
 # game/williamroute3.rpy:5645
 translate Tchinese hattie_966a4c91:
 
     # wi "\"If y'all don't find anything in a few hours, you and Todd can head off home or back to the office.\""
-    wi "“如果接下來的幾小時內如果你們全部都不到，\n你跟Todd看要不直接回家，或回到辦公室吧。”"
+    wi "“If y'all don't find anything in a few hours， you and Todd can head off home or back to the office.”"
 
-# game/williamroute3.rpy:5647
+# game/williamroute3.rpy:5649
 translate Tchinese hattie_91d36133:
 
     # wi "\"I need some time to myself to think about how we’re going about this again.\""
@@ -14979,15 +14979,14 @@ translate Tchinese hattie_91d36133:
 translate Tchinese hattie_ec2cc410:
 
     # m "\"Alright\""
-    m "“好吧。”"
+    m "“Alright”"
 
 # game/williamroute3.rpy:5650
 translate Tchinese hattie_ff90e985:
 
     # m "\"Guess I’m with you for the next few hours, Mr. Bronson.\""
-    m "“我想接下來的幾個小時我得跟你一起共渡了，Mr. Bronson。”"
+    m "“Guess I’m with you for the next few hours， Mr. Bronson.”"
 
-# game/williamroute3.rpy:5652
 translate Tchinese hattie_1e5c8fde:
 
     # to "\"Looks like I’ll get to show you the ropes for a spell!\""
@@ -15051,7 +15050,7 @@ translate Tchinese hattie_c09cd9b1:
 translate Tchinese hattie_9a06bc8e:
 
     # "The Greenes’ property is a lot bigger than I thought it would be, though I suppose it makes sense they’d have more room per how far away from down town they are."
-    "“Greene家族的占地面積比我想像中要大得多，不過也不奇怪，畢竟這裡屬於鎮上的邊緣地帶。”"
+    "“Greenes家的占地面積比我想像中要大得多，不過也不奇怪，畢竟這裡屬於鎮上的邊緣地帶。”"
 
 # game/williamroute3.rpy:5699
 translate Tchinese hattie_40542c5a:
@@ -15591,7 +15590,7 @@ translate Tchinese hattie_807c0e77:
 translate Tchinese hattie_0616f54a:
 
     # "After a decent while we sort through more paint cans than I can count."
-    "經過幾個怡人的片刻，然候我們分類出一大堆油漆桶，多到我數不完。"
+    "經過幾個怡人的片刻，然後我們分類出一大堆油漆桶，多到我數不完。"
 
 # game/williamroute3.rpy:5875
 translate Tchinese hattie_0d17bc8c:
@@ -16023,7 +16022,7 @@ translate Tchinese hattie_eaa113bf:
 translate Tchinese hattie_a1546a2f:
 
     # "Maybe the all the anxiety's loosened his tongue a bout."
-    "大概是因為這次所有捆綁在他嘴巴的焦慮鬆開了吧。"
+    "大概是因為這次所有捆綁在他嘴巴的焦慮鬆開了吧"
 
 # game/williamroute3.rpy:5988
 translate Tchinese hattie_600fa234:
@@ -16292,7 +16291,7 @@ translate Tchinese hattie_2b60186e:
 # game/williamroute3.rpy:6055
 translate Tchinese hattie_45e44ca8:
 
-    # m "\"...with money.\""
+    # m "\"……with money.\""
     m "“記得帶錢……。”"
 
 # game/williamroute3.rpy:6057
@@ -19706,7 +19705,7 @@ translate Tchinese hattie_b61f0723:
 translate Tchinese hattie_c5ebdb8a:
 
     # gr "\"The men have work to do at closing time.\""
-    gr "“我們的員工在打樣時間可是很忙的。”"# TODO: Translation updated at 2022-12-20 02:52
+    gr "“我們的員工在打樣時間可是很忙的。”"# TODO： Translation updated at 2022──12──20 02：52
 
 # game/williamroute3.rpy:5696
 translate Tchinese hattie_fec97169:
@@ -19722,7 +19721,7 @@ translate Tchinese strings:
 
     # game/williamroute3.rpy:682
     old "Take care of that, Cocksucker."
-    new "幫他射出來，吸屌的"
+    new "幫他射出來，吸屌的。"
 
     # game/williamroute3.rpy:682
     old "He’ll be able to use his own hands once I’m done with this."

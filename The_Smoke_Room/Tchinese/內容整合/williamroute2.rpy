@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-23 16:06
+﻿# TODO: Translation updated at 2023-01-05 10:43
 
 # game/williamroute2.rpy:12
 translate Tchinese williamroute2_5cf8bf4a:
@@ -2122,7 +2122,7 @@ translate Tchinese williamroute2_da7a15db:
 translate Tchinese williamroute2_91bb8fca:
 
     # mar "\"It’s rude to stare, you know! My dollies are shy!\""
-    mar "“直盯盯得看是很不禮貌的，你知道的吧！ 我的娃娃會害羞的！”"
+    mar "“直盯盯得看是很不禮貌的，你知道的吧！我的娃娃會害羞的！”"
 
 # game/williamroute2.rpy:706
 translate Tchinese williamroute2_ce6acfd7:
@@ -2513,7 +2513,6 @@ translate Tchinese williamroute2_64dac620:
 
     # mar "\"Maybe he liked his toys too, but he just didn’t want to tell me about it.\""
     mar "“也許他也喜歡玩具，但就是不想告訴我。”"
-
 
 translate Tchinese williamroute2_22dfca09:
 
@@ -4996,7 +4995,7 @@ translate Tchinese after_sw1_93062fde:
 translate Tchinese after_sw1_3bb6af3e:
 
     # mu "\"But it wouldn’t make sense for there to be a...\""
-    mu "Murdoch話說到一半，皺起眉頭……"
+    mu "Murdoch話說到一半，皺起眉頭。"
 
 # game/williamroute2.rpy:1460
 translate Tchinese after_sw1_cc5db2ee:
@@ -5290,7 +5289,7 @@ translate Tchinese after_sw1_8b9b225e:
 translate Tchinese after_sw1_a47a3b86:
 
     # wi "\"But funny thing.\""
-    wi "“然而有趣的是─”"
+    wi "“然而有趣的是──”"
 
 # game/williamroute2.rpy:1553
 translate Tchinese after_sw1_447473bb:
@@ -6508,7 +6507,7 @@ translate Tchinese after_sw1_018d675d:
 translate Tchinese after_sw1_6fe8b942:
 
     # m "\"...but that’s different--\""
-    m "“……但這不是──回事──”"
+    m "“……但這不是一回事──”"
 
 # game/williamroute2.rpy:1878
 translate Tchinese after_sw1_8a0409aa:
@@ -6910,7 +6909,7 @@ translate Tchinese after_sw1_d2ef88e2:
 translate Tchinese after_sw1_ed15ad6b:
 
     # cy "{cps=17}\"Sa--\"{nw}"
-    cy "{cps=17}\"Sa──\"{nw}"
+    cy "{cps=17}“Sa──”{nw}"
 
 # game/williamroute2.rpy:1971
 translate Tchinese after_sw1_19b50e25:
@@ -9034,7 +9033,7 @@ translate Tchinese dd2b_f0505257:
 translate Tchinese dd2b_895258f6:
 
     # m "\"So everytime you hear somebody say something stupid or evil.\""
-    m "“所以每次聽到什麼愚蠢或惡毒的話時。”"
+    m "“所以每次聽到什麼愚蠢或惡毒的話時……”"
 
 # game/williamroute2.rpy:2715
 translate Tchinese dd2b_88dd2c1f:
@@ -10636,7 +10635,7 @@ translate Tchinese dd2b_234e32a9:
 translate Tchinese dd2b_70b2a1b7:
 
     # "It’s suspended over a chasm that whistles with the draft rising from below."
-    "吊橋懸掛在深坑之上，伴隨呼嘯而出的氣流不斷擺動，發出刺耳的嘎吱聲。"
+    "吊橋懸掛在深坑之上，伴隨呼嘯而出的氣流不斷擺動，發出刺耳的嘎吱聲……"
 
 # game/williamroute2.rpy:3197
 translate Tchinese dd2b_4f9aaa04:
@@ -11080,7 +11079,7 @@ translate Tchinese go1_27b6cda5:
 translate Tchinese go1_81e6c98d:
 
     # m "\"HELP ME!\""
-    m "“{b}救我!{/b}”"
+    m "“{b}救我！{/b}”"
 
 # game/williamroute2.rpy:3347
 translate Tchinese go1_7b44e980:
@@ -12730,7 +12729,7 @@ translate Tchinese sw2_52d10123:
 translate Tchinese sw2_412507ab:
 
     # wi "\"Who?\""
-    wi "“我和誰?”"
+    wi "“我和誰？”"
 
 # game/williamroute2.rpy:3891
 translate Tchinese sw2_da95880a:
@@ -12778,7 +12777,7 @@ translate Tchinese sw2_e609d78c:
 translate Tchinese sw2_f82c51a3:
 
     # wi "\"Yes.\""
-    wi "\"肯定。\""
+    wi "“肯定。”"
 
 # game/williamroute2.rpy:3909
 translate Tchinese sw2_9018f488:
@@ -12808,13 +12807,13 @@ translate Tchinese sw2_78a4b356:
 translate Tchinese sw2_0eb2ab17:
 
     # wi "\"Well that’s what’s nice about the West, Sam--everybody gets to be in danger all of the time.\""
-    wi "\"西部好就好在，人人都時刻與危險相伴，Sam。\""
+    wi "“西部好就好在，人人都時刻與危險相伴，Sam。”"
 
 # game/williamroute2.rpy:3917
 translate Tchinese sw2_e5e65a33:
 
     # m "\"Yet you keep saying the Windy City is more exciting.\""
-    m "\"那你還一個勁地說風城更刺激。\""
+    m "“那你還一個勁地說風城更刺激。”"
 
 # game/williamroute2.rpy:3919
 translate Tchinese sw2_b38fbd0b:
@@ -13084,7 +13083,7 @@ translate Tchinese sw2_13a0f0ec:
 translate Tchinese sw2_76715582:
 
     # wi "\"Speaking of hard work... I won’t be able to see you until the weekend, won’t I Nik?\""
-    wi "“說到努力…週末之前你還能外出嗎，Nik？”"
+    wi "“說到努力……週末之前你還能外出嗎，Nik？”"
 
 # game/williamroute2.rpy:4024
 translate Tchinese sw2_a67255e0:

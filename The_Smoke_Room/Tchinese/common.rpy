@@ -1044,7 +1044,7 @@ translate Tchinese strings:
 
     # renpy/common/00gamepad.rpy:54
     old "Calibrating [name] ([i]/[total])"
-    new "正在校準 [name]（[i]/[total]）"
+    new "正在校準 [name]([i]/[total])"
 
     # renpy/common/00gamepad.rpy:58
     old "Press or move the '[control!s]' [kind]."
