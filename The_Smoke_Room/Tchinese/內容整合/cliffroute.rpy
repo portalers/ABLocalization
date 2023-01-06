@@ -7817,13 +7817,12 @@ translate Tchinese strings:
 
     # game/cliffroute.rpy:1814
     old "Do I?"
-    new ""
+    new "我的意見是？"
 
     # game/cliffroute.rpy:1814
     old "Attempt to raise an objection"
-    new ""
+    new "提出異議"
 
     # game/cliffroute.rpy:1814
     old "Don't object"
-    new ""
-
+    new "不反對"

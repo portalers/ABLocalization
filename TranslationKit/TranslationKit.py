@@ -28,8 +28,6 @@ class TransFileHandler:
 
         if not os.path.isdir(self.resultPath+diffPath):
             os.makedirs(self.resultPath+diffPath, mode=0o777)
-        if not os.path.isdir(self.resultPath+diffPath):
-            os.makedirs(self.resultPath+diffPath, mode=0o777)
 
         with open(self.resultPath+diffPath+diffPrefix+self.fileName, 'w') as r:
             if followOrginOrder:
@@ -40,8 +38,8 @@ class TransFileHandler:
                     r.write(line+'\n')
 
     def initNewTransFile(self, stringsBlockOverride=False, dupHashOverride=True, editFullwidthPunctuation=True) -> None:
-        fnRefinedDict = self.normalizeFile(self.rawDestinationFile, dupHashOverride, editFullwidthPunctuation)
-        foRefinedDict = self.normalizeFile(self.rawSourceFile, dupHashOverride, editFullwidthPunctuation)
+        fnRefinedDict = self.normalizeFile(self.rawDestinationFile, dupHashOverride, editFullwidthPunctuation, editFullwidthPunctuation=False)
+        foRefinedDict = self.normalizeFile(self.rawSourceFile, dupHashOverride, editFullwidthPunctuation, editFullwidthPunctuation)
         
         if fnRefinedDict['cotainStringsBlock'] and not stringsBlockOverride:
             workScope = len(fnRefinedDict['orderedHash'])-1

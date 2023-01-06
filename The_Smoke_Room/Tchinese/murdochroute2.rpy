@@ -28541,10 +28541,6 @@ translate Tchinese murdochroute2_de7b25f1:
     # m "\"Speakin' of which...\""
     m "“說到這裡……”"
 
-    # game/murdochroute2.rpy:5463
-    old "He looks..."
-    new "他看起來……"
-
 # game/murdochroute2.rpy:151
 # TODO: Translation updated at 2023-01-03 14:14
 

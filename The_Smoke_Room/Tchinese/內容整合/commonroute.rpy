@@ -6453,17 +6453,16 @@ translate Tchinese strings:
 
     # game/commonroute.rpy:1555
     old "Fit Cliff in for a booking."
-    new ""
+    new "安排Cliff的預定"
 
     # game/commonroute.rpy:1555
     old "Take on Murdoch’s bet."
-    new ""
+    new "接受Murdoch的賭注"
 
     # game/commonroute.rpy:1555
     old "See if Nikolai is here."
-    new ""
+    new "去找Nikolai"
 
     # game/commonroute.rpy:1555
     old "Tell William the truth."
-    new ""
-
+    new "告訴William真相"

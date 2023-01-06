@@ -8949,7 +8949,7 @@ translate Tchinese aftercliffint2_e6aedb7a:
 translate Tchinese aftercliffint2_fec97169:
 
     # "To be continued..."
-    "To be continued……"
+    "未完待續……"
 
 # TODO: Translation updated at 2023-01-03 14:14
 

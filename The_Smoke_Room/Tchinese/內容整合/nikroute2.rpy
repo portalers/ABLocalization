@@ -19624,7 +19624,7 @@ translate Tchinese sellcomp_204b08c7:
 translate Tchinese sellcomp_7b89fabb:
 
     # di "\"I think he’s a good boy. He’s not the sharpest tool in the shed, but he’s young.\""
-    di ""
+    di "\"I think he’s a good boy. He’s not the sharpest tool in the shed， but he’s young.\""
 
 # game/nikroute2.rpy:6554
 translate Tchinese sellcomp_67ccaa37:
@@ -25529,4 +25529,3 @@ translate Tchinese strings:
     # game/nikroute2.rpy:8471
     old "The map's left, my right,"
     new "地圖的左邊，我的右邊。"
-
