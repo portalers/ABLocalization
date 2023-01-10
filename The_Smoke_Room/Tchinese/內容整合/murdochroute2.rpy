@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-01-05 10:43
+﻿# TODO: Translation updated at 2023-01-09 01:04
 
 # game/murdochroute2.rpy:11
 translate Tchinese murdochroute2_47a8bff9:
@@ -9707,6 +9707,10 @@ translate Tchinese murdochroute2_de7b25f1:
 
     # m "\"Speakin' of which...\""
     m "“說到這裡……”"
+
+    # game/murdochroute2.rpy:5463
+    old "He looks……"
+    new "他看起來……"
 
 # game/murdochroute2.rpy:151
 # TODO: Translation updated at 2023-01-03 14:14
@@ -28569,4 +28573,3 @@ translate Tchinese strings:
     # game/murdochroute2.rpy:6396
     old "500?"
     new "500？"
-

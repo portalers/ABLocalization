@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-01-05 10:43
+﻿# TODO: Translation updated at 2023-01-09 01:04
 
 # game/nikroute2.rpy:10
 translate Tchinese nikroute2_ac8ac9d1:
@@ -16410,6 +16410,8 @@ translate Tchinese sny1_1818c436:
     # pounk "\"Porter, actually.\""
     pounk "“事實上，我是Porter。”"
 
+# TODO: Translation updated at 2022-12-20 02:52
+
 
 translate Tchinese sny1_e07a2de8:
 
@@ -19624,8 +19626,7 @@ translate Tchinese sellcomp_204b08c7:
 translate Tchinese sellcomp_7b89fabb:
 
     # di "\"I think he’s a good boy. He’s not the sharpest tool in the shed, but he’s young.\""
-    di "\"I think he’s a good boy. He’s not the sharpest tool in the shed， but he’s young.\""
-
+    di "@@@\"I think he’s a good boy. He’s not the sharpest tool in the shed, but he’s young.\""
 # game/nikroute2.rpy:6554
 translate Tchinese sellcomp_67ccaa37:
 
@@ -25529,3 +25530,4 @@ translate Tchinese strings:
     # game/nikroute2.rpy:8471
     old "The map's left, my right,"
     new "地圖的左邊，我的右邊。"
+

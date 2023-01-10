@@ -1,4 +1,5 @@
 import os, re
+from deep_translator import GoogleTranslator
 
 class TransFileHandler:
 
@@ -8,7 +9,7 @@ class TransFileHandler:
         self.resultPath = resultPath
         self.fileName = fileName
         if fileName:
-            with open(self.destinationPath+self.fileName, 'r') as fn, open(self.sourcePath+self.fileName, 'r') as fo:
+            with open(self.destinationPath+self.fileName, 'r', encoding="utf-8") as fn, open(self.sourcePath+self.fileName, 'r', encoding="utf-8") as fo:
                 self.rawDestinationFile = fn.readlines()
                 self.rawSourceFile = fo.readlines()
         self.findHashPattern = 'translate '+tranlationName
@@ -29,7 +30,7 @@ class TransFileHandler:
         if not os.path.isdir(self.resultPath+diffPath):
             os.makedirs(self.resultPath+diffPath, mode=0o777)
 
-        with open(self.resultPath+diffPath+diffPrefix+self.fileName, 'w') as r:
+        with open(self.resultPath+diffPath+diffPrefix+self.fileName, 'w', encoding="utf-8") as r:
             if followOrginOrder:
                 for line in followOriginOrderDiffResult:
                     r.write(line+'\n')
@@ -37,28 +38,50 @@ class TransFileHandler:
                 for line in sorted(list(diffResult)):
                     r.write(line+'\n')
 
-    def initNewTransFile(self, stringsBlockOverride=False, dupHashOverride=True, editFullwidthPunctuation=True) -> None:
-        fnRefinedDict = self.normalizeFile(self.rawDestinationFile, dupHashOverride, editFullwidthPunctuation, editFullwidthPunctuation=False)
-        foRefinedDict = self.normalizeFile(self.rawSourceFile, dupHashOverride, editFullwidthPunctuation, editFullwidthPunctuation)
-        
+    def initNewTransFile(self, stringsBlockOverride=False, dupHashOverride=True, editFullwidthPunctuation=True, useMT=False) -> None:
+        fnRefinedDict = self.normalizeFile(self.rawDestinationFile, dupHashOverride, editFullwidthPunctuation=False)
+        foRefinedDict = self.normalizeFile(self.rawSourceFile, dupHashOverride, editFullwidthPunctuation)
+
         if fnRefinedDict['cotainStringsBlock'] and not stringsBlockOverride:
             workScope = len(fnRefinedDict['orderedHash'])-1
         else:
             workScope = len(fnRefinedDict['orderedHash'])
-        
+
+        notMatcedhContentIndex = []
+        notMatcedhContent = []
         for i in range(workScope):
             try:
                 pos = foRefinedDict['orderedHash'].index(fnRefinedDict['orderedHash'][i])
                 fnRefinedDict['content'][i][fnRefinedDict['orderedHash'][i]] = foRefinedDict['content'][pos][foRefinedDict['orderedHash'][pos]]
             except:
-                pass
+                if useMT:
+                    notMatcedhContentIndex.append(i)
+                    notMatcedhContent.append(self.getLineContent(fnRefinedDict['content'][i][fnRefinedDict['orderedHash'][i]][3]))
+                else:
+                    tmpInfo = self.getLineContent(fnRefinedDict['content'][i][fnRefinedDict['orderedHash'][i]][3])
+                    fnRefinedDict['content'][i][fnRefinedDict['orderedHash'][i]][3] = fnRefinedDict['content'][i][fnRefinedDict['orderedHash'][i]][3][:tmpInfo['startPos']]+'@@@'+tmpInfo['line']+'"'
+        if notMatcedhContent:
+            translated = []
+            batchLines = [line['line'] for line in notMatcedhContent]
+            #make data pages
+            #Google Translate limits 6,000,000 characters per minute, 5 requests/second/user and 200,000 requests/day (Billable limit). https://stackoverflow.com/questions/4405861/google-translate-api-requests-limit
+            for i in range(0, len(batchLines), 100):
+                try:
+                    translated.extend(GoogleTranslator(source='en', target='zh-TW').translate_batch(batchLines[i:i+100]))
+                except:
+                    translated.extend(GoogleTranslator(source='en', target='zh-TW').translate_batch(batchLines[i:]))
+            for i in range(len(notMatcedhContentIndex)):
+                if translated[i]:
+                    fnRefinedDict['content'][notMatcedhContentIndex[i]][fnRefinedDict['orderedHash'][notMatcedhContentIndex[i]]][3] = fnRefinedDict['content'][notMatcedhContentIndex[i]][fnRefinedDict['orderedHash'][notMatcedhContentIndex[i]]][3][:notMatcedhContent[i]['startPos']]+'@@@'+translated[i]+'"'
+                else:
+                    fnRefinedDict['content'][notMatcedhContentIndex[i]][fnRefinedDict['orderedHash'][notMatcedhContentIndex[i]]][3] = fnRefinedDict['content'][notMatcedhContentIndex[i]][fnRefinedDict['orderedHash'][notMatcedhContentIndex[i]]][3][:notMatcedhContent[i]['startPos']]+'@@@"'
 
         outputContent = []
         outputContent.extend(fnRefinedDict['headerWords'])
         for i in range(len(fnRefinedDict['orderedHash'])):
             outputContent.extend(fnRefinedDict['content'][i][fnRefinedDict['orderedHash'][i]])
 
-        with open(self.resultPath+self.fileName, 'w') as r:
+        with open(self.resultPath+self.fileName, 'w', encoding="utf-8") as r:
             for l in outputContent:
                 r.write(l)
 
@@ -103,7 +126,7 @@ class TransFileHandler:
             newOriginDict['orderedHash'].append(self.stringsBlockPattern)
         del temData
         del currentHash
-        
+
         if len(newOriginDict['orderedHash']) != len(set(newOriginDict['orderedHash'])):
             dupHashMsg = str(set([str(newOriginDict['orderedHash'].count(hh))+'* '+hh[:-2] for hh in newOriginDict['orderedHash'] if newOriginDict['orderedHash'].count(hh)>1]))
             if dupHashOverride:
@@ -150,7 +173,7 @@ class TransFileHandler:
         validLineCount = []
         addDoubleQuotes = False
         ncPos = -1
-        
+
         for i in range(len(contentLines)):
             if not contentLines[i].isspace() and contentLines[i].lstrip().startswith('#') and '# TODO' not in contentLines[i] and '# game' not in contentLines[i]:
                 nearestUpSideComment.append(i)
@@ -166,10 +189,10 @@ class TransFileHandler:
                     endPos = contentLines[i].rindex('"')
                     if contentLines[i][endPos-1] == '.':
                         contentLines[i] = contentLines[i][:endPos-1]+hardToFind['.']+contentLines[i][endPos:]
-                
+
                 for mdp in mayDupPunc:
                     contentLines[i] = self.findDupPunc(mdp, contentLines[i])
-                
+
         if nearestUpSideComment and validLineCount:
             for nc in nearestUpSideComment:
                 if nc < validLineCount[0]:
@@ -210,7 +233,7 @@ class TransFileHandler:
 
             return ''.join(tmplist)
         return puncSourceLine
-    
+
     def addDoubQuo(self, addQuoteLine) -> str:
         if '“' in addQuoteLine  or '”' in addQuoteLine:
             tmplist = list(addQuoteLine)
@@ -252,7 +275,7 @@ class TransFileHandler:
             # for itps in itsPos:
             #     tmplist.insert(itps, '"')
             #     tmplist.insert(itps, '\\')
-                
+
             addQuoteLine = ''.join(tmplist)
         else:
             if addQuoteLine.count('\\"'):
@@ -289,9 +312,37 @@ class TransFileHandler:
                     tmplist.reverse()
 
                     # if insertPosOffset:
-                    #     popPos += 1 
+                    #     popPos += 1
                     # tmplist.insert(popPos, '"')
                     # tmplist.insert(popPos, '\\')
-                        
+
                     addQuoteLine = ''.join(tmplist)
         return addQuoteLine
+
+    def getLineContent(self, MTLine) -> str:
+        tmplist = list(MTLine)
+        itsPos = []
+        popCounter = ''.join(tmplist).count('\\"')
+        for i in range(popCounter):
+            popPos = ''.join(tmplist).index('\\"')
+            itsPos.append(popPos+i*2)
+            tmplist.pop(popPos)
+            tmplist.pop(popPos)
+
+        tmplist.reverse()
+
+        tmpPopEndPos = tmplist.index('"')
+        tmplist.pop(tmpPopEndPos)
+        tmpStartPos = tmplist.index('"')
+
+        tmplist.insert(tmpPopEndPos, '"')
+        correctStartPos = len(tmplist)-tmpStartPos-1
+        correctEndtPos = len(tmplist)-tmpPopEndPos-1
+        tmplist.reverse()
+
+        for itps in itsPos:
+            tmplist.insert(itps, '"')
+            tmplist.insert(itps, '\\')
+            correctEndtPos += 2
+
+        return {'line':''.join(tmplist[correctStartPos:correctEndtPos]), 'startPos':correctStartPos}

@@ -9,16 +9,21 @@ pathResource = ""
 pathDestination = ""
 pathResult = ""
 nameTranlation = 'Tchinese'
-stringsBlockOverride = False
 dupHashOverride = True
-editFullwidthPunctuation=True
+editFullwidthPunctuation = True
+stringsBlockOverride = False
+useMT = False
+doneText = ' done '
+
 
 app = customtkinter.CTk()
 app.geometry("960x540")
+app.minsize(960, 540)
 app.grid_rowconfigure(0, weight=1)
 app.grid_columnconfigure((0, 1, 2, 3, 4), weight=1)
 
 app.title("TransGUI-XD")
+
 
 def button_callback1():
     global pathResource
@@ -45,6 +50,7 @@ def button_callback3():
     print(pathResult)
 
 def button_callback4():
+
     if pathResource and pathDestination and pathResult and entry.get():
         if pathResource == pathDestination:
             resourceFiles = [f for f in os.listdir(pathResource) if f.endswith('.rpy') and os.path.isfile(os.path.join(pathResource, f)) and f not in not2TransFile]
@@ -54,9 +60,17 @@ def button_callback4():
                 i += 1
                 progressbar_1.set(i/len(resourceFiles))
                 tmpTC = TranslationKit.TransFileHandler(sourcePath=pathResource, destinationPath=pathResource, resultPath=pathResource, fileName=f, tranlationName=entry.get())
-                tmpTC.initNewTransFile(stringsBlockOverride=stringsBlockOverride, dupHashOverride=dupHashOverride, editFullwidthPunctuation=editFullwidthPunctuation)
+                tmpTC.initNewTransFile(stringsBlockOverride=stringsBlockOverride, dupHashOverride=dupHashOverride, editFullwidthPunctuation=editFullwidthPunctuation, useMT=useMT)
             del tmpTC
-            print('done')
+            print(f'{doneText:#^50}')
+            window = customtkinter.CTkToplevel(app)
+            window.title('完成提示')
+            window.geometry("320x180")
+            def destroy_windows():
+                progressbar_1.set(0.0)
+                window.destroy()
+            button_window = customtkinter.CTkButton(master=window, text='完成！', font=customtkinter.CTkFont(size=36), command=destroy_windows)
+            button_window.pack(padx=40, pady=30, fill="both", expand=True)
         else:
             resourceFiles = [f for f in os.listdir(pathResource) if f.endswith('.rpy') and os.path.isfile(os.path.join(pathResource, f)) and f not in not2TransFile]
             destinationFiles = [f for f in os.listdir(pathDestination) if f.endswith('.rpy') and os.path.isfile(os.path.join(pathDestination, f)) and f not in not2TransFile]
@@ -68,11 +82,20 @@ def button_callback4():
                 progressbar_1.set(i/len(resourceFiles))
                 tmpTC = TranslationKit.TransFileHandler(sourcePath=pathResource, destinationPath=pathDestination, resultPath=pathResult, fileName=f, tranlationName=entry.get())
                 tmpTC.findDiff(followOrginOrder=True)
-                tmpTC.initNewTransFile(stringsBlockOverride=stringsBlockOverride, dupHashOverride=dupHashOverride, editFullwidthPunctuation=editFullwidthPunctuation)
+                tmpTC.initNewTransFile(stringsBlockOverride=stringsBlockOverride, dupHashOverride=dupHashOverride, editFullwidthPunctuation=editFullwidthPunctuation, useMT=useMT)
             del tmpTC
-            print('done')
+            print(f'{doneText:#^50}')
+            window = customtkinter.CTkToplevel(app)
+            window.title('完成提示')
+            window.geometry("320x180")
+            def destroy_windows():
+                progressbar_1.set(0.0)
+                window.destroy()
+            button_window = customtkinter.CTkButton(master=window, text='完成！', font=customtkinter.CTkFont(size=36), command=destroy_windows)
+            button_window.pack(padx=40, pady=30, fill="both", expand=True)
 
 def button_callback5():
+
     if pathResult and entry.get():
         resourceFiles = [f for f in os.listdir(pathResult) if f.endswith('.rpy') and os.path.isfile(os.path.join(pathResult, f)) and f not in not2TransFile]
         i = 0
@@ -81,10 +104,19 @@ def button_callback5():
             i += 1
             progressbar_1.set(i/len(resourceFiles))
             tmpTC = TranslationKit.TransFileHandler(sourcePath=pathResult, destinationPath=pathResult, resultPath=pathResult, fileName=f, tranlationName=entry.get())
-            tmpTC.initNewTransFile(stringsBlockOverride=stringsBlockOverride, dupHashOverride=dupHashOverride, editFullwidthPunctuation=editFullwidthPunctuation)
+            if useMT:
+                tmpTC.rawSourceFile = []
+            tmpTC.initNewTransFile(stringsBlockOverride=stringsBlockOverride, dupHashOverride=dupHashOverride, editFullwidthPunctuation=editFullwidthPunctuation, useMT=useMT)
         del tmpTC
-
-
+        print(f'{doneText:#^50}')
+        window = customtkinter.CTkToplevel(app)
+        window.title('完成提示')
+        window.geometry("320x180")
+        def destroy_windows():
+            progressbar_1.set(0.0)
+            window.destroy()
+        button_window = customtkinter.CTkButton(master=window, text='完成！', font=customtkinter.CTkFont(size=36), command=destroy_windows)
+        button_window.pack(padx=40, pady=30, fill="both", expand=True)
 
 def checkbox_event1():
     print("checkbox1 toggled, current value:", check_var_1.get())
@@ -112,23 +144,26 @@ def checkbox_event3():
     print(stringsBlockOverride)
 
 def checkbox_event4():
-    print("checkbox4 toggled, current value:", check_var_4.get())
-    print("Not implemented yet.")
+    global useMT
+    if check_var_4.get() == 'on':
+        useMT = True
+    else:
+        useMT = False
+    print(useMT)
 
 def change_appearance_mode_event(appearance_mode_optionemenu):
     customtkinter.set_appearance_mode(appearance_mode_optionemenu)
 
 
 frame_1 = customtkinter.CTkFrame(master=app)
-frame_1.grid(row=0, column=0, rowspan=7, columnspan=1, sticky="nsew", pady=40, padx=(10,30))
+frame_1.grid(row=0, column=0, rowspan=8, columnspan=1, sticky="nsew", pady=40, padx=(10,30))
 frame_2 = customtkinter.CTkFrame(master=app)
-frame_2.grid(row=0, column=1, rowspan=7, columnspan=4, sticky="nsew", pady=40, padx=(0,10))
-
+frame_2.grid(row=0, column=1, rowspan=8, columnspan=4, sticky="nsew", pady=40, padx=(0,10))
 
 check_var_1 = tkinter.StringVar(master=frame_1, value="on")
 checkbox_1 = customtkinter.CTkCheckBox(master=frame_1, text="重複內容刪舊留新", command=checkbox_event1,
                                      variable=check_var_1, onvalue="on", offvalue="off")
-checkbox_1.grid(row=1, column=0, sticky="nsew", pady=(40,0), padx=20)
+checkbox_1.grid(row=1, column=0, sticky="nsew", pady=(20,0), padx=20)
 
 check_var_2 = tkinter.StringVar(master=frame_1, value="on")
 checkbox_2 = customtkinter.CTkCheckBox(master=frame_1, text="修飾標點符號", command=checkbox_event2,
@@ -141,9 +176,9 @@ checkbox_3 = customtkinter.CTkCheckBox(master=frame_1, text="Strings Block區域
 checkbox_3.grid(row=3, column=0, sticky="nsew", pady=(40,0), padx=20)
 
 check_var_4 = tkinter.StringVar(master=frame_1, value="off")
-checkbox_4 = customtkinter.CTkCheckBox(master=frame_1, text="新版未填寫入機翻\n(會有前綴'@@@')", command=checkbox_event4,
-                                     variable=check_var_3, onvalue="on", offvalue="off")
-checkbox_4.grid(row=4, column=0, sticky="nsew", pady=(40,0), padx=20)
+checkbox_4 = customtkinter.CTkCheckBox(master=frame_1, text="目標未填寫入機翻\n(會有前綴'@@@')\n大約500句/分\n很慢慎用", command=checkbox_event4,
+                                     variable=check_var_4, onvalue="on", offvalue="off")
+checkbox_4.grid(row=4, column=0, sticky="nsew", pady=(30,0), padx=20)
 
 entry_label = customtkinter.CTkLabel(master=frame_1, text="翻譯檔名稱(可輸入)：", anchor="w")
 entry_label.grid(row=5, column=0, sticky="nsew", pady=(40,0), padx=20)
@@ -182,14 +217,17 @@ text_3.grid(row=3, column=2, rowspan=1, columnspan=2, sticky="nsew", pady=(60,0)
 button_3 = customtkinter.CTkButton(master=frame_2, text='\U0001F4C1 輸出檔案/只做選項修飾路徑', fg_color='#41416A', hover_color='#2E2E5C', command=button_callback3)
 button_3.grid(row=3, column=4, rowspan=1, columnspan=1, sticky="nse", pady=(60,0), padx=0)
 
-button_4 = customtkinter.CTkButton(master=frame_2, text='\U000025B6  生成製作開始', font=customtkinter.CTkFont(size=40, weight='bold'), fg_color='#0091ea', width=400, height=102, command=button_callback4)
-button_4.grid(row=4, column=3, rowspan=2, columnspan=2, sticky="nsw", pady=(80,0), padx=(0, 40))
+button_4 = customtkinter.CTkButton(master=frame_2, text='\U000025B6  生成製作開始', font=customtkinter.CTkFont(size=40, weight='bold'), fg_color='#0091ea', width=400, height=120, command=button_callback4)
+button_4.grid(row=4, column=3, rowspan=3, columnspan=2, sticky="nsw", pady=(100,0), padx=(0, 40))
 
-button_5 = customtkinter.CTkButton(master=frame_2, text='只做選項修飾檔案啟動鈕\n(重複內容刪舊留新，修飾標點符號等等)',font=customtkinter.CTkFont(size=12), fg_color='#6B728E', hover_color='#46466F', width=100, height=14, command=button_callback5)
-button_5.grid(row=5, column=2, rowspan=1, columnspan=1, sticky="sw", pady=(80,0), padx=(20, 0))
+button_5_label = customtkinter.CTkLabel(master=frame_2, text="只做選項修飾檔案啟動鈕\n(重複內容刪舊留新，修飾標點符號等等)\n！！！特別注意！！！\n如果開啟使用'機翻'選項\n再點這個鈕是整份當新的送去機翻", anchor="center")
+button_5_label.grid(row=5, column=2, sticky="sw", pady=(100,0), padx=(20, 10))
+button_5 = customtkinter.CTkButton(master=frame_2, text='\U000025B6 只做選項修飾檔案啟動鈕',font=customtkinter.CTkFont(size=18), fg_color='#6B728E', hover_color='#46466F', width=100, height=28, command=button_callback5)
+button_5.grid(row=6, column=2, rowspan=1, columnspan=1, sticky="sw", pady=(0,0), padx=(20, 10))
 
 progressbar_1 = customtkinter.CTkProgressBar(master=app, progress_color='#4E9F3D', )
-progressbar_1.grid(row=6, column=0, rowspan=2, columnspan=5, sticky="nsew", pady=(10,20), padx=(10,10))
+progressbar_1.grid(row=7, column=0, rowspan=2, columnspan=5, sticky="nsew", pady=(10,20), padx=(10,10))
 progressbar_1.set(0.0)
+
 
 app.mainloop()

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-01-05 10:43
+﻿# TODO: Translation updated at 2023-01-09 01:04
 
 # game/cliffroute.rpy:8
 translate Tchinese cliffroute_38b05af4:
@@ -118,8 +118,7 @@ translate Tchinese cliffroute_5d99eed8:
 translate Tchinese cliffroute_cf603f34:
 
     # "He saunters off wearing that toothy smirk, slouching. Cliff casts his eyes to the floor, clutching his satchel tightly in front of him."
-    ""
-
+    "@@@He saunters off wearing that toothy smirk, slouching. Cliff casts his eyes to the floor, clutching his satchel tightly in front of him."
 # game/cliffroute.rpy:35
 translate Tchinese cliffroute_c6baee18:
 
@@ -2572,14 +2571,12 @@ translate Tchinese cliffroute_a7178b16:
 translate Tchinese cliffroute_2a37de96:
 
     # "He lingers there for a bit longer than I might like him to."
-    ""
-
+    "@@@He lingers there for a bit longer than I might like him to."
 # game/cliffroute.rpy:543
 translate Tchinese cliffroute_5c1fbc87:
 
     # "But his lips are warm."
-    ""
-
+    "@@@But his lips are warm."
 # game/cliffroute.rpy:545
 translate Tchinese cliffroute_a4048204:
 
@@ -2591,14 +2588,12 @@ translate Tchinese cliffroute_a4048204:
 translate Tchinese cliffroute_b059a0ef:
 
     # "You're welcome back so long as your wallet stays as stuffed as your pants are."
-    ""
-
+    "@@@You're welcome back so long as your wallet stays as stuffed as your pants are."
 # game/cliffroute.rpy:547
 translate Tchinese cliffroute_a5ff910f:
 
     # m "\"Don't be a stranger then.\""
-    m ""
-
+    m "@@@\"Don't be a stranger then.\""
 # game/cliffroute.rpy:548
 translate Tchinese cliffroute_b7c8d281:
 
@@ -2645,8 +2640,7 @@ translate Tchinese cliffroute_276fb56a:
 translate Tchinese cliffroute_5f9f1891:
 
     # "But then why do I feel so uneasy?"
-    ""
-
+    "@@@But then why do I feel so uneasy?"
 # game/cliffroute.rpy:560
 translate Tchinese cliffroute_ab387ed9:
 
@@ -2717,32 +2711,27 @@ translate Tchinese cliffroute_9fb8b30a:
 translate Tchinese cliffroute_547c28bd:
 
     # "None of them have ever payed as much as he does."
-    ""
-
+    "@@@None of them have ever payed as much as he does."
 # game/cliffroute.rpy:577
 translate Tchinese cliffroute_22e75e6c:
 
     # "And nothing in life is ever really free."
-    ""
-
+    "@@@And nothing in life is ever really free."
 # game/cliffroute.rpy:578
 translate Tchinese cliffroute_1481c9b8:
 
     # "I'll have to be firm if he ever forgets what I am, or what this is."
-    ""
-
+    "@@@I'll have to be firm if he ever forgets what I am, or what this is."
 # game/cliffroute.rpy:579
 translate Tchinese cliffroute_90803080:
 
     # "Hopefully I won't be put in that position."
-    ""
-
+    "@@@Hopefully I won't be put in that position."
 # game/cliffroute.rpy:580
 translate Tchinese cliffroute_ad54fd15:
 
     # m "\"I thought he was only gonna pay twice the usual?\""
-    m ""
-
+    m "@@@\"I thought he was only gonna pay twice the usual?\""
 # game/cliffroute.rpy:582
 translate Tchinese cliffroute_8fa9387c:
 
@@ -2759,8 +2748,7 @@ translate Tchinese cliffroute_c07fea95:
 translate Tchinese cliffroute_8f5d85c4:
 
     # cy "\"Do tell me when you've figured it out. I could use some extra spending money.\""
-    cy ""
-
+    cy "@@@\"Do tell me when you've figured it out. I could use some extra spending money.\""
 # game/cliffroute.rpy:587
 translate Tchinese cliffroute_8dbdc89a:
 
@@ -2795,8 +2783,7 @@ translate Tchinese cliffroute_77f219ac:
 translate Tchinese cliffroute_6749672e:
 
     # cy "\"We talked about my people.\""
-    cy ""
-
+    cy "@@@\"We talked about my people.\""
 # game/cliffroute.rpy:596
 translate Tchinese cliffroute_68795dca:
 
@@ -2807,14 +2794,12 @@ translate Tchinese cliffroute_68795dca:
 translate Tchinese cliffroute_b836596c:
 
     # "She exhales loudly, then nods."
-    ""
-
+    "@@@She exhales loudly, then nods."
 # game/cliffroute.rpy:598
 translate Tchinese cliffroute_8d77cd55:
 
     # "I decide to let it rest there."
-    ""
-
+    "@@@I decide to let it rest there."
 # game/cliffroute.rpy:599
 translate Tchinese cliffroute_aefff31e:
 
@@ -2903,8 +2888,7 @@ translate Tchinese cliffroute_493332eb:
 translate Tchinese cliffroute_401f1dbd:
 
     # "Grocery list in hand, I walk down Main Street, passing a few clients of mine trying their hardest to pretend they haven’t noticed me."
-    ""
-
+    "@@@Grocery list in hand, I walk down Main Street, passing a few clients of mine trying their hardest to pretend they haven’t noticed me."
 # game/cliffroute.rpy:623
 translate Tchinese cliffroute_1250215a:
 
@@ -2939,14 +2923,12 @@ translate Tchinese cliffroute_f232f030:
 translate Tchinese cliffroute_9b8b50e3:
 
     # "I pass William’s office and the barbershop, going over the items on the grocery list."
-    ""
-
+    "@@@I pass William’s office and the barbershop, going over the items on the grocery list."
 # game/cliffroute.rpy:629
 translate Tchinese cliffroute_c4abf1f0:
 
     # "I could cut through some alleys and save time, but the last thing I want right now is to get jumped by a drunk."
-    ""
-
+    "@@@I could cut through some alleys and save time, but the last thing I want right now is to get jumped by a drunk."
 # game/cliffroute.rpy:630
 translate Tchinese cliffroute_c576b1ee:
 
@@ -3005,14 +2987,12 @@ translate Tchinese cliffroute_67491752:
 translate Tchinese cliffroute_58c7d805:
 
     # "He makes eye contact with me and closes the distance between us with a brisk walk."
-    ""
-
+    "@@@He makes eye contact with me and closes the distance between us with a brisk walk."
 # game/cliffroute.rpy:641
 translate Tchinese cliffroute_91cc9b3c:
 
     # "So close I can smell his cologne."
-    ""
-
+    "@@@So close I can smell his cologne."
 # game/cliffroute.rpy:643
 translate Tchinese cliffroute_12041d9f:
 
@@ -3227,8 +3207,7 @@ translate Tchinese cliffroute_edf0b477:
 translate Tchinese cliffroute_38229ae1:
 
     # jam "\"Then if you’ll excuse me. Appointments to keep, business to take care of.\""
-    jam ""
-
+    jam "@@@\"Then if you’ll excuse me. Appointments to keep, business to take care of.\""
 # game/cliffroute.rpy:695
 translate Tchinese cliffroute_99c22078:
 
@@ -3257,20 +3236,17 @@ translate Tchinese cliffroute_1350df7d:
 translate Tchinese cliffroute_0c8b1eb4:
 
     # "Another lie."
-    ""
-
+    "@@@Another lie."
 # game/cliffroute.rpy:706
 translate Tchinese cliffroute_0c503509:
 
     # "Christ, we really was looking me up and down."
-    ""
-
+    "@@@Christ, we really was looking me up and down."
 # game/cliffroute.rpy:707
 translate Tchinese cliffroute_082fe324:
 
     # "Famous money is dangerous."
-    ""
-
+    "@@@Famous money is dangerous."
 # game/cliffroute.rpy:708
 translate Tchinese cliffroute_2cea7870:
 
@@ -3305,8 +3281,7 @@ translate Tchinese cliffroute_f31de65d:
 translate Tchinese cliffroute_0b8ce11c:
 
     # mu "\"What brings you here this sunny morning?\""
-    mu ""
-
+    mu "@@@\"What brings you here this sunny morning?\""
 # game/cliffroute.rpy:716
 translate Tchinese cliffroute_3523f97d:
 
@@ -3461,8 +3436,7 @@ translate Tchinese cliffroute_c499697b:
 translate Tchinese cliffroute_fff50c02:
 
     # m "\"I won't talk freely about visitors like that.\""
-    m ""
-
+    m "@@@\"I won't talk freely about visitors like that.\""
 # game/cliffroute.rpy:753
 translate Tchinese cliffroute_9716f17c:
 
@@ -3581,8 +3555,7 @@ translate Tchinese cliffroute_d211daee:
 translate Tchinese cliffroute_96317e00:
 
     # mu "\"Sheriff said none of the big players in town getting any rest until the perpetrator’s hanging from the gallows.\""
-    mu ""
-
+    mu "@@@\"Sheriff said none of the big players in town getting any rest until the perpetrator’s hanging from the gallows.\""
 # game/cliffroute.rpy:784
 translate Tchinese cliffroute_0ceadbb2:
 
@@ -3743,14 +3716,12 @@ translate Tchinese cliffroute_4a693a27:
 translate Tchinese cliffroute_28765e46:
 
     # "She puts on a glare the likes of which I've not seen in a while, her arms crossed."
-    ""
-
+    "@@@She puts on a glare the likes of which I've not seen in a while, her arms crossed."
 # game/cliffroute.rpy:819
 translate Tchinese cliffroute_2c609a73:
 
     # cy "\"Well I don’t know what the hell you were doing, but your next client’s here.\""
-    cy ""
-
+    cy "@@@\"Well I don’t know what the hell you were doing, but your next client’s here.\""
 # game/cliffroute.rpy:820
 translate Tchinese cliffroute_dd390890:
 
@@ -3947,8 +3918,7 @@ translate Tchinese cliffroute_4c62bf6a:
 translate Tchinese cliffroute_3abe21b2:
 
     # jam "\"Not just in this town, but perhaps the country.\""
-    jam ""
-
+    jam "@@@\"Not just in this town, but perhaps the country.\""
 # game/cliffroute.rpy:871
 translate Tchinese cliffroute_654de433:
 
@@ -4127,8 +4097,7 @@ translate Tchinese cliffroute_7c773a3c:
 translate Tchinese cliffroute_54e13ef8:
 
     # jam "\"No marks.\""
-    jam ""
-
+    jam "@@@\"No marks.\""
 # game/cliffroute.rpy:913
 translate Tchinese cliffroute_b6f884af:
 
@@ -4253,8 +4222,7 @@ translate Tchinese cliffroute_b845d903:
 translate Tchinese cliffroute_fddc5c50:
 
     # jam "\"I took the liberty of giving Madam Dora your payment before you arrived.\""
-    jam ""
-
+    jam "@@@\"I took the liberty of giving Madam Dora your payment before you arrived.\""
 # game/cliffroute.rpy:937
 translate Tchinese cliffroute_50f239d3:
 
@@ -4523,8 +4491,7 @@ translate Tchinese cliffroute_3ff99f4c:
 translate Tchinese cliffroute_dc809a73:
 
     # "As shady as the fucker is, he usually never misses an appointment with Ethel."
-    ""
-
+    "@@@As shady as the fucker is, he usually never misses an appointment with Ethel."
 # game/cliffroute.rpy:1012
 translate Tchinese cliffroute_ab4bfd20:
 
@@ -4727,14 +4694,12 @@ translate Tchinese cliffroute_f5fe47d8:
 translate Tchinese cliffroute_d7e4cbd5:
 
     # "He clicks his tongue."
-    ""
-
+    "@@@He clicks his tongue."
 # game/cliffroute.rpy:1080
 translate Tchinese cliffroute_0fa92afc:
 
     # cl "\"Again, I must remind you that I am merely a student!\""
-    cl ""
-
+    cl "@@@\"Again, I must remind you that I am merely a student!\""
 # game/cliffroute.rpy:1082
 translate Tchinese cliffroute_9d3eaacc:
 
@@ -4847,8 +4812,7 @@ translate Tchinese cliffroute_d5423c1f:
 translate Tchinese cliffroute_a3e705a0:
 
     # cl "\"I need a bodyguard.\""
-    cl ""
-
+    cl "@@@\"I need a bodyguard.\""
 # game/cliffroute.rpy:1116
 translate Tchinese cliffroute_3104df60:
 
@@ -4889,8 +4853,7 @@ translate Tchinese cliffroute_eceaccb1:
 translate Tchinese cliffroute_0acb906f:
 
     # "Might get bit by something venemous, or get heat stroke, but it’s better than waiting to die here."
-    ""
-
+    "@@@Might get bit by something venemous, or get heat stroke, but it’s better than waiting to die here."
 # game/cliffroute.rpy:1123
 translate Tchinese cliffroute_b8a4ff1e:
 
@@ -5393,14 +5356,12 @@ translate Tchinese cliffroute_beac1b56:
 translate Tchinese cliffroute_5e0b3ab6:
 
     # cy "\"Wouldn’t surprise me if he and Reed stayed overnight at the sheriff's again.\""
-    cy ""
-
+    cy "@@@\"Wouldn’t surprise me if he and Reed stayed overnight at the sheriff's again.\""
 # game/cliffroute.rpy:1260
 translate Tchinese cliffroute_9a277da4:
 
     # cy "\"Those two are always causin’ trouble.\""
-    cy ""
-
+    cy "@@@\"Those two are always causin’ trouble.\""
 # game/cliffroute.rpy:1262
 translate Tchinese cliffroute_f746f0c1:
 
@@ -5717,146 +5678,122 @@ translate Tchinese cliffroute_d24bfa28:
 translate Tchinese cliffroute_fe7ae584:
 
     # m "\"And where is exactly did you find somebody like that last minute?\""
-    m ""
-
+    m "@@@\"And where is exactly did you find somebody like that last minute?\""
 # game/cliffroute.rpy:1342
 translate Tchinese cliffroute_2b497c4a:
 
     # cl "\"Truth be told, I almost didn't!\""
-    cl ""
-
+    cl "@@@\"Truth be told, I almost didn't!\""
 # game/cliffroute.rpy:1343
 translate Tchinese cliffroute_877f1b61:
 
     # cl "\"But Murdoch took me to a charming little barn in some field filled with good men and good beer and the poor fellow was thirsty, so I wet his whistle and everything more or less worked out.\""
-    cl ""
-
+    cl "@@@\"But Murdoch took me to a charming little barn in some field filled with good men and good beer and the poor fellow was thirsty, so I wet his whistle and everything more or less worked out.\""
 # game/cliffroute.rpy:1345
 translate Tchinese cliffroute_6b089e3e:
 
     # m "\"This place have a name?\""
-    m ""
-
+    m "@@@\"This place have a name?\""
 # game/cliffroute.rpy:1347
 translate Tchinese cliffroute_e2fcb5ce:
 
     # cl "\"The Stag I think they called it?\""
-    cl ""
-
+    cl "@@@\"The Stag I think they called it?\""
 # game/cliffroute.rpy:1349
 translate Tchinese cliffroute_cacd5c31:
 
     # m "\"Rings a bell, but I've never been.\""
-    m ""
-
+    m "@@@\"Rings a bell, but I've never been.\""
 # game/cliffroute.rpy:1350
 translate Tchinese cliffroute_ddd2f339:
 
     # "I think I've heard Nik mention it to me a few times."
-    ""
-
+    "@@@I think I've heard Nik mention it to me a few times."
 # game/cliffroute.rpy:1352
 translate Tchinese cliffroute_4c64a443:
 
     # cl "\"It was less stiff than the Hip you know.\""
-    cl ""
-
+    cl "@@@\"It was less stiff than the Hip you know.\""
 # game/cliffroute.rpy:1353
 translate Tchinese cliffroute_d9872c5a:
 
     # cl "\"And much less judgmental, too, from what I could tell.\""
-    cl ""
-
+    cl "@@@\"And much less judgmental, too, from what I could tell.\""
 # game/cliffroute.rpy:1354
 translate Tchinese cliffroute_172b3f1d:
 
     # cl "\"The guide was willing to give me a dance since all of the men there are comfortable with that sort of thing.\""
-    cl ""
-
+    cl "@@@\"The guide was willing to give me a dance since all of the men there are comfortable with that sort of thing.\""
 # game/cliffroute.rpy:1356
 translate Tchinese cliffroute_430edd61:
 
     # "I chuckle a bit from the vision in my mind of a weasel this short trying to lead a horse in a waltz."
-    ""
-
+    "@@@I chuckle a bit from the vision in my mind of a weasel this short trying to lead a horse in a waltz."
 # game/cliffroute.rpy:1357
 translate Tchinese cliffroute_e97cf7e4:
 
     # m "\"So is that why you picked him out?\""
-    m ""
-
+    m "@@@\"So is that why you picked him out?\""
 # game/cliffroute.rpy:1359
 translate Tchinese cliffroute_3635085a:
 
     # cl "\"Oh, come now! Don't be so cheeky.\""
-    cl ""
-
+    cl "@@@\"Oh, come now! Don't be so cheeky.\""
 # game/cliffroute.rpy:1361
 translate Tchinese cliffroute_b90ab264:
 
     # cl "\"He told me he's like us, Sam!\""
-    cl ""
-
+    cl "@@@\"He told me he's like us, Sam!\""
 # game/cliffroute.rpy:1362
 translate Tchinese cliffroute_743aa166:
 
     # m "\"You just... told another stranger that?\""
-    m ""
-
+    m "@@@\"You just... told another stranger that?\""
 # game/cliffroute.rpy:1363
 translate Tchinese cliffroute_48806aed:
 
     # m "\"Right off the bat?\""
-    m ""
-
+    m "@@@\"Right off the bat?\""
 # game/cliffroute.rpy:1364
 translate Tchinese cliffroute_9b07ef03:
 
     # "I slick back the moisture on my forehead and pat down the top of my skull."
-    ""
-
+    "@@@I slick back the moisture on my forehead and pat down the top of my skull."
 # game/cliffroute.rpy:1365
 translate Tchinese cliffroute_aafd0b79:
 
     # m "\"Even after yesterday's incident?\""
-    m ""
-
+    m "@@@\"Even after yesterday's incident?\""
 # game/cliffroute.rpy:1366
 translate Tchinese cliffroute_f12da95e:
 
     # "Is he suicidal or somethin'?"
-    ""
-
+    "@@@Is he suicidal or somethin'?"
 # game/cliffroute.rpy:1368
 translate Tchinese cliffroute_885b3e3e:
 
     # cl "\"Well that's certainly been the least rational reaction by far.\""
-    cl ""
-
+    cl "@@@\"Well that's certainly been the least rational reaction by far.\""
 # game/cliffroute.rpy:1370
 translate Tchinese cliffroute_8c001503:
 
     # cl "\"And I'm not going to let one bad experience ruin my chance to meet new people and make new connections.\""
-    cl ""
-
+    cl "@@@\"And I'm not going to let one bad experience ruin my chance to meet new people and make new connections.\""
 # game/cliffroute.rpy:1371
 translate Tchinese cliffroute_ac3bc599:
 
     # cl "\"In fact, I've been told that those two ruffians have a terrible reputation.\""
-    cl ""
-
+    cl "@@@\"In fact, I've been told that those two ruffians have a terrible reputation.\""
 # game/cliffroute.rpy:1373
 translate Tchinese cliffroute_369085cd:
 
     # cl "\"Once the law deals with them, I doubt they'll be so cocky.\""
-    cl ""
-
+    cl "@@@\"Once the law deals with them, I doubt they'll be so cocky.\""
 # game/cliffroute.rpy:1375
 translate Tchinese cliffroute_b2b4eb2b:
 
     # cl "\"Speaking of which, there's the office just ahead.\""
-    cl ""
-
+    cl "@@@\"Speaking of which, there's the office just ahead.\""
 # game/cliffroute.rpy:1378
 translate Tchinese cliffroute_3a048ab3:
 
@@ -5915,8 +5852,7 @@ translate Tchinese cliffroute_90823684:
 translate Tchinese cliffroute_310d3a44:
 
     # "Reed" "\"We were playin' cards the other day, same thing we do every week.\""
-    "Reed" ""
-
+    "Reed" "@@@\"We were playin' cards the other day, same thing we do every week.\""
 # game/cliffroute.rpy:1390
 translate Tchinese cliffroute_9aac8d7a:
 
@@ -5963,8 +5899,7 @@ translate Tchinese cliffroute_51baeb60:
 translate Tchinese cliffroute_d125c743:
 
     # "Reed" "\"Wasn't dumb enough to make any.\""
-    "Reed" ""
-
+    "Reed" "@@@\"Wasn't dumb enough to make any.\""
 # game/cliffroute.rpy:1398
 translate Tchinese cliffroute_9990c822:
 
@@ -6101,8 +6036,7 @@ translate Tchinese cliffroute_fdcfd18e_1:
 translate Tchinese cliffroute_853f5bd3:
 
     # wi "\"We have a missing rat. Reported missing in the dead of night, right after the riots.\""
-    wi ""
-
+    wi "@@@\"We have a missing rat. Reported missing in the dead of night, right after the riots.\""
 # game/cliffroute.rpy:1431
 translate Tchinese cliffroute_b1e3eec6:
 
@@ -6113,8 +6047,7 @@ translate Tchinese cliffroute_b1e3eec6:
 translate Tchinese cliffroute_52a3ee58:
 
     # wi "\"Your friend over there might know him?\""
-    wi ""
-
+    wi "@@@\"Your friend over there might know him?\""
 # game/cliffroute.rpy:1436
 translate Tchinese cliffroute_82d0ad87:
 
@@ -6143,8 +6076,7 @@ translate Tchinese cliffroute_87fddae3:
 translate Tchinese cliffroute_6baf61b1:
 
     # wi "\"If one dead miner’s enough to spark a riot, a banker might get the whole town burned down. Folks ain’t gonna be happy.\""
-    wi ""
-
+    wi "@@@\"If one dead miner’s enough to spark a riot, a banker might get the whole town burned down. Folks ain’t gonna be happy.\""
 # game/cliffroute.rpy:1446
 translate Tchinese cliffroute_7a1c776e:
 
@@ -6185,8 +6117,7 @@ translate Tchinese cliffroute_00fe9e0e:
 translate Tchinese cliffroute_04533bd0:
 
     # wi "\"That's news to me.\""
-    wi ""
-
+    wi "@@@\"That's news to me.\""
 # game/cliffroute.rpy:1460
 translate Tchinese cliffroute_abe24e11:
 
@@ -6239,8 +6170,7 @@ translate Tchinese cliffroute_e78ea7bd:
 translate Tchinese cliffroute_7731ff7b:
 
     # wi "\"Might even learn a thing or two about how folks interact around here.\""
-    wi ""
-
+    wi "@@@\"Might even learn a thing or two about how folks interact around here.\""
 # game/cliffroute.rpy:1482
 translate Tchinese cliffroute_8b1cfe0c:
 
@@ -6257,8 +6187,7 @@ translate Tchinese cliffroute_e43b4f66:
 translate Tchinese cliffroute_b80b60d2:
 
     # cl "\"I've only been in this town for a fortnight and I've already been beaten, spat on, insulted, and generally treated like refuse by that awful person!\""
-    cl ""
-
+    cl "@@@\"I've only been in this town for a fortnight and I've already been beaten, spat on, insulted, and generally treated like refuse by that awful person!\""
 # game/cliffroute.rpy:1491
 translate Tchinese cliffroute_d64ba8e2:
 
@@ -6275,8 +6204,7 @@ translate Tchinese cliffroute_7c6717b5:
 translate Tchinese cliffroute_39731250:
 
     # wi "\"Oh, I'm sorry. Are you used to getting red carpet rolled out beneath your feet when you upset the peace?\""
-    wi ""
-
+    wi "@@@\"Oh, I'm sorry. Are you used to getting red carpet rolled out beneath your feet when you upset the peace?\""
 # game/cliffroute.rpy:1497
 translate Tchinese cliffroute_d72e7937:
 
@@ -6299,8 +6227,7 @@ translate Tchinese cliffroute_a9b0c57c:
 translate Tchinese cliffroute_43aab03e:
 
     # wi "\"The last thing I need right now is a lecture about manners from a noisy little faggot like you.\""
-    wi ""
-
+    wi "@@@\"The last thing I need right now is a lecture about manners from a noisy little faggot like you.\""
 # game/cliffroute.rpy:1508
 translate Tchinese cliffroute_f1c1b7c5:
 
@@ -6311,8 +6238,7 @@ translate Tchinese cliffroute_f1c1b7c5:
 translate Tchinese cliffroute_ae5a7f76:
 
     # "The sheriff and me are used to talkin' to each other like that, but Cliff recoils, clutching his satchel tight."
-    ""
-
+    "@@@The sheriff and me are used to talkin' to each other like that, but Cliff recoils, clutching his satchel tight."
 # game/cliffroute.rpy:1510
 translate Tchinese cliffroute_5c1e5614:
 
@@ -6341,14 +6267,12 @@ translate Tchinese cliffroute_c39eca3e:
 translate Tchinese cliffroute_9c0a2c07:
 
     # "I'm surprised he doesn't want to stop me or ask me any questions, but he looks like he's through with talking to anybody else tonight."
-    ""
-
+    "@@@I'm surprised he doesn't want to stop me or ask me any questions, but he looks like he's through with talking to anybody else tonight."
 # game/cliffroute.rpy:1518
 translate Tchinese cliffroute_d34b5331:
 
     # "Lucky me."
-    ""
-
+    "@@@Lucky me."
 # game/cliffroute.rpy:1525
 translate Tchinese cliffroute_6e889b50:
 
@@ -6377,8 +6301,7 @@ translate Tchinese cliffroute_74607a4f:
 translate Tchinese cliffroute_f7e660ac:
 
     # cl "\"Blasted...\""
-    cl ""
-
+    cl "@@@\"Blasted...\""
 # game/cliffroute.rpy:1530
 translate Tchinese cliffroute_e232ce8b:
 
@@ -6641,8 +6564,7 @@ translate Tchinese cliffroute_cb8bf6d6:
 translate Tchinese cliffroute_9a2c2267:
 
     # "That just makes me more concerned."
-    ""
-
+    "@@@That just makes me more concerned."
 # game/cliffroute.rpy:1593
 translate Tchinese cliffroute_5bbb8c3e:
 
@@ -6959,8 +6881,7 @@ translate Tchinese cliffroute_d945babb:
 translate Tchinese cliffroute_6b699037:
 
     # "I don't think I've had this much sugar in my life."
-    ""
-
+    "@@@I don't think I've had this much sugar in my life."
 # game/cliffroute.rpy:1676
 translate Tchinese cliffroute_ba22e524:
 
@@ -7283,44 +7204,37 @@ translate Tchinese cliffroute_1545fc34:
 translate Tchinese cliffroute_cab8cb87:
 
     # "Shivers run up my spine, memories of James from yesterday coming back to me."
-    ""
-
+    "@@@Shivers run up my spine, memories of James from yesterday coming back to me."
 # game/cliffroute.rpy:1754
 translate Tchinese cliffroute_01eb7775:
 
     # "Will Nik be okay if I do this?"
-    ""
-
+    "@@@Will Nik be okay if I do this?"
 # game/cliffroute.rpy:1755
 translate Tchinese cliffroute_617571c5:
 
     # "Leave Echo?"
-    ""
-
+    "@@@Leave Echo?"
 # game/cliffroute.rpy:1756
 translate Tchinese cliffroute_0e4f0414:
 
     # "Then again, Nik knows how to take care of himself."
-    ""
-
+    "@@@Then again, Nik knows how to take care of himself."
 # game/cliffroute.rpy:1757
 translate Tchinese cliffroute_c00251b5:
 
     # "If anybody's really in trouble it's probably me."
-    ""
-
+    "@@@If anybody's really in trouble it's probably me."
 # game/cliffroute.rpy:1758
 translate Tchinese cliffroute_099c34ae:
 
     # "He can't exactly do anything to Nik if I'm not even around."
-    ""
-
+    "@@@He can't exactly do anything to Nik if I'm not even around."
 # game/cliffroute.rpy:1759
 translate Tchinese cliffroute_17ff7d26:
 
     # "Can he?"
-    ""
-
+    "@@@Can he?"
 # game/cliffroute.rpy:1761
 translate Tchinese cliffroute_9e2896ec:
 
@@ -7331,8 +7245,7 @@ translate Tchinese cliffroute_9e2896ec:
 translate Tchinese cliffroute_685e30ff:
 
     # "I blink when the weasel's voice brings me back to reality."
-    ""
-
+    "@@@I blink when the weasel's voice brings me back to reality."
 # game/cliffroute.rpy:1764
 translate Tchinese cliffroute_a906d7b8:
 
@@ -7475,8 +7388,7 @@ translate Tchinese cliffroute_7f6b7b36:
 translate Tchinese cliffroute_9fa232af:
 
     # mu "\"Quite the rogue's gallery we’ve assembled, eh?\""
-    mu ""
-
+    mu "@@@\"Quite the rogue's gallery we’ve assembled, eh?\""
 # game/cliffroute.rpy:1801
 translate Tchinese cliffroute_a5af5e5f:
 
@@ -7487,8 +7399,7 @@ translate Tchinese cliffroute_a5af5e5f:
 translate Tchinese cliffroute_26a76045:
 
     # cl "\"Of course he is! Every expedition needs to be well-documented, and what better way to document than with a camera?\""
-    cl ""
-
+    cl "@@@\"Of course he is! Every expedition needs to be well-documented, and what better way to document than with a camera?\""
 # game/cliffroute.rpy:1805
 translate Tchinese cliffroute_ed65ef5d:
 
@@ -7505,20 +7416,17 @@ translate Tchinese cliffroute_538aac2d:
 translate Tchinese cliffroute_b064a3a2:
 
     # mu "\"We ended up talking while I was helping with delivery, I showed him some of my work, and some of the town, and he offered to hire me.\""
-    mu ""
-
+    mu "@@@\"We ended up talking while I was helping with delivery, I showed him some of my work, and some of the town, and he offered to hire me.\""
 # game/cliffroute.rpy:1810
 translate Tchinese cliffroute_61a73d91:
 
     # m "\"I heard.\""
-    m ""
-
+    m "@@@\"I heard.\""
 # game/cliffroute.rpy:1811
 translate Tchinese cliffroute_b99149f2:
 
     # "Photos and some of the town definitely ain’t the only thing he showed him."
-    ""
-
+    "@@@Photos and some of the town definitely ain’t the only thing he showed him."
 # game/cliffroute.rpy:1813
 translate Tchinese cliffroute_1b6536b1:
 
@@ -7529,44 +7437,37 @@ translate Tchinese cliffroute_1b6536b1:
 translate Tchinese mt1_ffb83d31:
 
     # "This fox could put my entire plan at risk."
-    ""
-
+    "@@@This fox could put my entire plan at risk."
 # game/cliffroute.rpy:1819
 translate Tchinese mt1_605e9594:
 
     # m "\"Well, I, uh...\""
-    m ""
-
+    m "@@@\"Well, I, uh...\""
 # game/cliffroute.rpy:1821
 translate Tchinese mt1_1ad2bb5b:
 
     # mu "\"Yes, Sam?\""
-    mu ""
-
+    mu "@@@\"Yes, Sam?\""
 # game/cliffroute.rpy:1822
 translate Tchinese mt1_ba1b74a6:
 
     # "I can already tell he can see right through me."
-    ""
-
+    "@@@I can already tell he can see right through me."
 # game/cliffroute.rpy:1823
 translate Tchinese mt1_530e9e94:
 
     # m "\"Ain't you s'pposed to help at the store?\""
-    m ""
-
+    m "@@@\"Ain't you s'pposed to help at the store?\""
 # game/cliffroute.rpy:1827
 translate Tchinese mt1_28746027:
 
     # "Gotta play nice for now. I can't afford them gettin' suspicious."
-    ""
-
+    "@@@Gotta play nice for now. I can't afford them gettin' suspicious."
 # game/cliffroute.rpy:1828
 translate Tchinese mt1_abd2ad33:
 
     # m "\"'Course not. Just didn't figure you were the adventurin' type.\""
-    m ""
-
+    m "@@@\"'Course not. Just didn't figure you were the adventurin' type.\""
 # game/cliffroute.rpy:1832
 translate Tchinese after_smc1_4c07c8ec:
 
@@ -7826,3 +7727,4 @@ translate Tchinese strings:
     # game/cliffroute.rpy:1814
     old "Don't object"
     new "不反對"
+
