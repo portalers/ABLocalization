@@ -38,7 +38,7 @@ class TransFileHandler:
                 for line in sorted(list(diffResult)):
                     r.write(line+'\n')
 
-    def initNewTransFile(self, stringsBlockOverride=False, dupHashOverride=True, editFullwidthPunctuation=True, useMT=False) -> None:
+    def initNewTransFile(self, stringsBlockOverride=False, dupHashOverride=True, editFullwidthPunctuation=True, newPrefix='@@@', useMT=False, MTLang='zh-TW') -> None:
         fnRefinedDict = self.normalizeFile(self.rawDestinationFile, dupHashOverride, editFullwidthPunctuation=False)
         foRefinedDict = self.normalizeFile(self.rawSourceFile, dupHashOverride, editFullwidthPunctuation)
 
@@ -59,22 +59,22 @@ class TransFileHandler:
                     notMatcedhContent.append(self.getLineContent(fnRefinedDict['content'][i][fnRefinedDict['orderedHash'][i]][3]))
                 else:
                     tmpInfo = self.getLineContent(fnRefinedDict['content'][i][fnRefinedDict['orderedHash'][i]][3])
-                    fnRefinedDict['content'][i][fnRefinedDict['orderedHash'][i]][3] = fnRefinedDict['content'][i][fnRefinedDict['orderedHash'][i]][3][:tmpInfo['startPos']]+'@@@'+tmpInfo['line']+'"'
+                    fnRefinedDict['content'][i][fnRefinedDict['orderedHash'][i]][3] = fnRefinedDict['content'][i][fnRefinedDict['orderedHash'][i]][3][:tmpInfo['startPos']]+newPrefix+tmpInfo['line']+'"'
         if notMatcedhContent:
             translated = []
             batchLines = [line['line'] for line in notMatcedhContent]
-            #make data pages
+            #Paging data
             #Google Translate limits 6,000,000 characters per minute, 5 requests/second/user and 200,000 requests/day (Billable limit). https://stackoverflow.com/questions/4405861/google-translate-api-requests-limit
             for i in range(0, len(batchLines), 100):
                 try:
-                    translated.extend(GoogleTranslator(source='en', target='zh-TW').translate_batch(batchLines[i:i+100]))
+                    translated.extend(GoogleTranslator(source='en', target=MTLang).translate_batch(batchLines[i:i+100]))
                 except:
-                    translated.extend(GoogleTranslator(source='en', target='zh-TW').translate_batch(batchLines[i:]))
+                    translated.extend(GoogleTranslator(source='en', target=MTLang).translate_batch(batchLines[i:]))
             for i in range(len(notMatcedhContentIndex)):
                 if translated[i]:
-                    fnRefinedDict['content'][notMatcedhContentIndex[i]][fnRefinedDict['orderedHash'][notMatcedhContentIndex[i]]][3] = fnRefinedDict['content'][notMatcedhContentIndex[i]][fnRefinedDict['orderedHash'][notMatcedhContentIndex[i]]][3][:notMatcedhContent[i]['startPos']]+'@@@'+translated[i]+'"'
+                    fnRefinedDict['content'][notMatcedhContentIndex[i]][fnRefinedDict['orderedHash'][notMatcedhContentIndex[i]]][3] = fnRefinedDict['content'][notMatcedhContentIndex[i]][fnRefinedDict['orderedHash'][notMatcedhContentIndex[i]]][3][:notMatcedhContent[i]['startPos']]+newPrefix+translated[i]+'"'
                 else:
-                    fnRefinedDict['content'][notMatcedhContentIndex[i]][fnRefinedDict['orderedHash'][notMatcedhContentIndex[i]]][3] = fnRefinedDict['content'][notMatcedhContentIndex[i]][fnRefinedDict['orderedHash'][notMatcedhContentIndex[i]]][3][:notMatcedhContent[i]['startPos']]+'@@@"'
+                    fnRefinedDict['content'][notMatcedhContentIndex[i]][fnRefinedDict['orderedHash'][notMatcedhContentIndex[i]]][3] = fnRefinedDict['content'][notMatcedhContentIndex[i]][fnRefinedDict['orderedHash'][notMatcedhContentIndex[i]]][3][:notMatcedhContent[i]['startPos']]+newPrefix+'"'
 
         outputContent = []
         outputContent.extend(fnRefinedDict['headerWords'])

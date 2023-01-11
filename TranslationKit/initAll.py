@@ -2,8 +2,11 @@ import os, TranslationKit
 
 pathResource = './TSR/resources(old)/'
 pathDestination = './TSR/destination(new)/'
-# resultTCPath = './TSR/results/'
-resultTCPath = './TSR/results_MTenable/'
+resultTCPath = './TSR/results/'
+# resultTCPath = './TSR/results_MTenable/'
+
+newPrefix = '@@@'
+MTLang = 'zh-TW'
 
 not2TransFile = ['define.rpy', 'options.rpy', 'screens.rpy']
 
@@ -16,6 +19,6 @@ if __name__ == "__main__":
         print(f)
         tmpTC = TranslationKit.TransFileHandler(sourcePath=pathResource, destinationPath=pathDestination, resultPath=resultTCPath, fileName=f, tranlationName='Tchinese')
         tmpTC.findDiff(followOrginOrder=True)
-        # tmpTC.initNewTransFile(stringsBlockOverride=False, dupHashOverride=True, editFullwidthPunctuation=True, useMT=False)
-        tmpTC.initNewTransFile(stringsBlockOverride=False, dupHashOverride=True, editFullwidthPunctuation=True, useMT=True)
+        tmpTC.initNewTransFile(stringsBlockOverride=False, dupHashOverride=True, editFullwidthPunctuation=True, newPrefix=newPrefix, useMT=False, MTLang=MTLang)
+        # tmpTC.initNewTransFile(stringsBlockOverride=False, dupHashOverride=True, editFullwidthPunctuation=True, newPrefix=newPrefix, useMT=True, MTLang=MTLang)
         del tmpTC
