@@ -1378,7 +1378,7 @@ translate Schinese murdochtent_89001692:
 translate Schinese murdochtent_41fc37a0:
 
     # mu "\"You got it, boss.\""
-    mu "\"我会照办的，老板。\""
+    mu "\"得令，老板。\""
 
 # game/cliffroute3.rpy:317
 translate Schinese murdochtent_5b538e8f:
@@ -4773,4555 +4773,4555 @@ translate Schinese strings:
     new "一家店能满足当地所有人吗？"
 
 # game/cliffroute3.rpy:1145
-translate Tchinese aftercliffint2_6759bac2:
+translate Schinese aftercliffint2_6759bac2:
 
     # "The outside of the inn looks more like a tenement house than a professional setup suited for comfort."
     "从外观就知道这家旅馆有多廉价。"
 
 # game/cliffroute3.rpy:1146
-translate Tchinese aftercliffint2_61d7fced:
+translate Schinese aftercliffint2_61d7fced:
 
     # "And the inside of the inn isn’t much to look at either."
     "内部也半斤八两。"
 
 # game/cliffroute3.rpy:1147
-translate Tchinese aftercliffint2_e2df418f:
+translate Schinese aftercliffint2_e2df418f:
 
     # "There’s a lobby with a desk and keys flanked on both sides."
     "大堂中有一张桌子，钥匙陈列在其两旁。"
 
 # game/cliffroute3.rpy:1148
-translate Tchinese aftercliffint2_d65c1fb8:
+translate Schinese aftercliffint2_d65c1fb8:
 
     # "Not so much a place for reception."
     "实在难以称得上是前台。"
 
 # game/cliffroute3.rpy:1149
-translate Tchinese aftercliffint2_f6b0b214:
+translate Schinese aftercliffint2_f6b0b214:
 
     # "The goose eying us warily doesn’t look Meseta."
     "一只看起来不像梅塞塔的鹅正仔细打量着我们。"
 
 # game/cliffroute3.rpy:1152
-translate Tchinese aftercliffint2_ac10f7ba:
+translate Schinese aftercliffint2_ac10f7ba:
 
     # mu "\"Good afternoon, ma’am.\""
     mu "“午安，女士。”"
 
 # game/cliffroute3.rpy:1154
-translate Tchinese aftercliffint2_fab71582:
+translate Schinese aftercliffint2_fab71582:
 
     # "Goose" "\"Good afternoon.\""
     "Goose" "“午安。”"
 
 # game/cliffroute3.rpy:1155
-translate Tchinese aftercliffint2_03220d4e:
+translate Schinese aftercliffint2_03220d4e:
 
     # "Goose" "\"Do you need a room for the night?\""
     "Goose" "“是想过夜吗？”"
 
 # game/cliffroute3.rpy:1157
-translate Tchinese aftercliffint2_d4e33644:
+translate Schinese aftercliffint2_d4e33644:
 
     # mu "\"Our company will staying for a week, if that isn’t a problem.\""
     mu "“我们一行人预计会待一周，如果方便的话。”"
 
 # game/cliffroute3.rpy:1159
-translate Tchinese aftercliffint2_40d2c52f:
+translate Schinese aftercliffint2_40d2c52f:
 
     # "Goose" "\"It shouldn’t be.\""
     "Goose" "“当然没问题。”"
 
 # game/cliffroute3.rpy:1160
-translate Tchinese aftercliffint2_97e185d7:
+translate Schinese aftercliffint2_97e185d7:
 
     # "Goose" "\"A week for one bedroom will cost you twenty-one dollars.\""
     "Goose" "“一间房一个礼拜二十一元。”"
 
 # game/cliffroute3.rpy:1162
-translate Tchinese aftercliffint2_5781e321:
+translate Schinese aftercliffint2_5781e321:
 
     # mu "\"Would it be alright if we have access to our rooms a little early?\""
     mu "“可以先入住吗？”"
 
 # game/cliffroute3.rpy:1165
-translate Tchinese aftercliffint2_e2cd9dc2:
+translate Schinese aftercliffint2_e2cd9dc2:
 
     # mu "\"We’ve run into several hardships on the road and would love an opportunity to calm ourselves and get our bearings.\""
     mu "“我们舟车劳顿，迫切需要一个能放松的地方。”"
 
 # game/cliffroute3.rpy:1167
-translate Tchinese aftercliffint2_85521f45:
+translate Schinese aftercliffint2_85521f45:
 
     # "The goose shook her beak."
     "鹅摇了摇喙。"
 
 # game/cliffroute3.rpy:1168
-translate Tchinese aftercliffint2_a4482547:
+translate Schinese aftercliffint2_a4482547:
 
     # "Goose" "\"Rooms can’t be rented without an upfront payment.\""
     "Goose" "“想用房，就先付钱。”"
 
 # game/cliffroute3.rpy:1170
-translate Tchinese aftercliffint2_b1b7b9fb:
+translate Schinese aftercliffint2_b1b7b9fb:
 
     # "Murdoch nods with understanding, as if he could recognize that tone of voice a mile away."
     "Murdoch会意地点了头，看样子他早就习惯这种语气了。"
 
 # game/cliffroute3.rpy:1172
-translate Tchinese aftercliffint2_a3e582e2:
+translate Schinese aftercliffint2_a3e582e2:
 
     # mu "\"Right then.\""
     mu "“好吧。”"
 
 # game/cliffroute3.rpy:1174
-translate Tchinese aftercliffint2_4e53cde5:
+translate Schinese aftercliffint2_4e53cde5:
 
     # "He turns to me."
     "他转向我。"
 
 # game/cliffroute3.rpy:1176
-translate Tchinese aftercliffint2_4bb6f380:
+translate Schinese aftercliffint2_4bb6f380:
 
     # mu "\"It seems like we may have to cough up the cash ourselves or wait for our benefactor to clear this up himself.\""
     mu "“看来咱们得自掏腰包了，要么就等金主大人亲自过来解决。”"
 
 # game/cliffroute3.rpy:1178
-translate Tchinese aftercliffint2_0931df65:
+translate Schinese aftercliffint2_0931df65:
 
     # "I gawk at him."
     "我瞠目结舌。"
 
 # game/cliffroute3.rpy:1180
-translate Tchinese aftercliffint2_753b0dee:
+translate Schinese aftercliffint2_753b0dee:
 
     # m "\"You think I have that much money?!\""
     m "“我哪来那么多钱？！”"
 
 # game/cliffroute3.rpy:1182
-translate Tchinese aftercliffint2_589f3b14:
+translate Schinese aftercliffint2_589f3b14:
 
     # mu "\"Well you do work at...\""
     mu "“咦，你不是在...”"
 
 # game/cliffroute3.rpy:1183
-translate Tchinese aftercliffint2_4dff92c2:
+translate Schinese aftercliffint2_4dff92c2:
 
     # "His voice trails off as the goose stares at us."
     "见鹅还盯着我们，他把话压了下去。"
 
 # game/cliffroute3.rpy:1185
-translate Tchinese aftercliffint2_6b636d80:
+translate Schinese aftercliffint2_6b636d80:
 
     # mu "\"...one of the finer establishments in Echo, do you not?\""
     mu "“...回音镇上一家有头有脸的单位工作吗？”"
 
 # game/cliffroute3.rpy:1186
-translate Tchinese aftercliffint2_6ad49127:
+translate Schinese aftercliffint2_6ad49127:
 
     # m "\"Not that fine.\""
     m "“也没那么高级。”"
 
 # game/cliffroute3.rpy:1188
-translate Tchinese aftercliffint2_15eb2ef2:
+translate Schinese aftercliffint2_15eb2ef2:
 
     # "He looks at me with skepticism at first, but then it turns into a gentle alarm."
     "他先是狐疑地看了我一眼，又略显警戒地说："
 
 # game/cliffroute3.rpy:1190
-translate Tchinese aftercliffint2_b5d1535f:
+translate Schinese aftercliffint2_b5d1535f:
 
     # mu "\"Thankfully our patron should be coming along shortly.\""
     mu "“好在他应该很快就会赶过来。”"
 
 # game/cliffroute3.rpy:1192
-translate Tchinese aftercliffint2_64546bde:
+translate Schinese aftercliffint2_64546bde:
 
     # m "\"...Ain’t there a difference, typically, between what’s short to us, and short to professor Tibbits?\""
     m "“...所谓的快，对Tibbits教授和其他人而言，恐怕不太一样吧？”"
 
 # game/cliffroute3.rpy:1194
-translate Tchinese aftercliffint2_291f9db9:
+translate Schinese aftercliffint2_291f9db9:
 
     # "Murdoch looks to be processing that."
     "Murdoch似乎意识到了什么。"
 
 # game/cliffroute3.rpy:1196
-translate Tchinese aftercliffint2_89332f02:
+translate Schinese aftercliffint2_89332f02:
 
     # mu "\"Oh God, we could be waiting for hours.\""
     mu "“天哪，咱们没准要等上几个小时。”"
 
 # game/cliffroute3.rpy:1198
-translate Tchinese aftercliffint2_1049413e:
+translate Schinese aftercliffint2_1049413e:
 
     # m "\"That’s what I’m sayin’.\""
     m "“我就是这个意思。”"
 
 # game/cliffroute3.rpy:1199
-translate Tchinese aftercliffint2_c83e2358:
+translate Schinese aftercliffint2_c83e2358:
 
     # "The goose cleared her throat."
     "鹅清了清嗓子。"
 
 # game/cliffroute3.rpy:1200
-translate Tchinese aftercliffint2_3ccd6066:
+translate Schinese aftercliffint2_3ccd6066:
 
     # "Goose" "\"Could you tell me your patron’s name?\""
     "Goose" "“可以告诉我你们赞助人的名字吗？”"
 
 # game/cliffroute3.rpy:1201
-translate Tchinese aftercliffint2_7e253f68:
+translate Schinese aftercliffint2_7e253f68:
 
     # "Goose" "\"I do have a booking here.\""
     "Goose" "“我这里确实有份预约。”"
 
 # game/cliffroute3.rpy:1203
-translate Tchinese aftercliffint2_d09bc1f7:
+translate Schinese aftercliffint2_d09bc1f7:
 
     # "Me and the red fox both let out sighs of relief."
     "我跟赤狐同时松了口气。"
 
 # game/cliffroute3.rpy:1205
-translate Tchinese aftercliffint2_45dfb108:
+translate Schinese aftercliffint2_45dfb108:
 
     # mu "\"Oh good.\""
     mu "“太好了。”"
 
 # game/cliffroute3.rpy:1207
-translate Tchinese aftercliffint2_a893c9f7:
+translate Schinese aftercliffint2_a893c9f7:
 
     # mu "\"Is there a Mr. Clifford Tibbits down on the page?\""
     mu "“上面可有Clifford Tibbits先生的名字？”"
 
 # game/cliffroute3.rpy:1209
-translate Tchinese aftercliffint2_bec4cd2b:
+translate Schinese aftercliffint2_bec4cd2b:
 
     # "The Goose flipped through her booklet with her bony talons."
     "鹅用她那干枯的爪子翻开书页。"
 
 # game/cliffroute3.rpy:1211
-translate Tchinese aftercliffint2_4373e4ee:
+translate Schinese aftercliffint2_4373e4ee:
 
     # "Goose" "\"I’m afraid there isn’t.\""
     "Goose" "“很不巧，没有。”"
 
 # game/cliffroute3.rpy:1212
-translate Tchinese aftercliffint2_735724c0:
+translate Schinese aftercliffint2_735724c0:
 
     # "Damn it."
     "该死。"
 
 # game/cliffroute3.rpy:1213
-translate Tchinese aftercliffint2_9f751f67:
+translate Schinese aftercliffint2_9f751f67:
 
     # m "\"Wait, wait.\""
     m "“等，等一下。”"
 
 # game/cliffroute3.rpy:1214
-translate Tchinese aftercliffint2_dd95bc4d:
+translate Schinese aftercliffint2_dd95bc4d:
 
     # m "\"Maybe he put it down as Jebidiah Coles?\""
     m "“兴许他用的是Jebidiah Coles？”"
 
 # game/cliffroute3.rpy:1216
-translate Tchinese aftercliffint2_5e0afd44:
+translate Schinese aftercliffint2_5e0afd44:
 
     # mu "\"There’s a good idea.\""
     mu "“有道理。”"
 
 # game/cliffroute3.rpy:1218
-translate Tchinese aftercliffint2_88445fc6:
+translate Schinese aftercliffint2_88445fc6:
 
     # "The fox leaned into the counter, placed his paw on his hips and gave the goose his best smile."
     "狐狸两手叉腰，把上半身湊近柜台，露出最灿烂的笑容。"
 
 # game/cliffroute3.rpy:1220
-translate Tchinese aftercliffint2_9562b133:
+translate Schinese aftercliffint2_9562b133:
 
     # mu "\"How about it?\""
     mu "“怎么样？”"
 
 # game/cliffroute3.rpy:1222
-translate Tchinese aftercliffint2_c2489f33:
+translate Schinese aftercliffint2_c2489f33:
 
     # "Goose" "\"Well there’s a name I recognize.\""
     "Goose" "“这名字我认得。”"
 
 # game/cliffroute3.rpy:1224
-translate Tchinese aftercliffint2_a4ca4166:
+translate Schinese aftercliffint2_a4ca4166:
 
     # "Goose" "\"But no, he isn’t booked either.\""
     "Goose" "“但可惜，也沒有他的预约。”"
 
 # game/cliffroute3.rpy:1225
-translate Tchinese aftercliffint2_e4e0f29d:
+translate Schinese aftercliffint2_e4e0f29d:
 
     # "Murdoch’s smile and his eyelids drop immediately."
     "Murdoch的笑容跟眼皮顿时一沉。"
 
 # game/cliffroute3.rpy:1226
-translate Tchinese aftercliffint2_4e53cde5_1:
+translate Schinese aftercliffint2_4e53cde5_1:
 
     # "He turns to me."
     "他转向我。"
 
 # game/cliffroute3.rpy:1228
-translate Tchinese aftercliffint2_918fb092:
+translate Schinese aftercliffint2_918fb092:
 
     # mu "\"We’re running out of options here.\""
     mu "“沒办法了。”"
 
 # game/cliffroute3.rpy:1229
-translate Tchinese aftercliffint2_afd9d6bb:
+translate Schinese aftercliffint2_afd9d6bb:
 
     # "I mutter under my breath."
     "我细声说："
 
 # game/cliffroute3.rpy:1230
-translate Tchinese aftercliffint2_55020754:
+translate Schinese aftercliffint2_55020754:
 
     # m "\"Might as well make something up.\""
     m "“再编个名字试试。”"
 
 # game/cliffroute3.rpy:1232
-translate Tchinese aftercliffint2_f177081c:
+translate Schinese aftercliffint2_f177081c:
 
     # "Something about me saying that makes Murdoch’s eyes snap open."
     "听到这话，Murdoch眼睛一亮。"
 
 # game/cliffroute3.rpy:1234
-translate Tchinese aftercliffint2_3d0f76ea:
+translate Schinese aftercliffint2_3d0f76ea:
 
     # mu "\"How about a Mr. Cornelis van Houwelinck?\""
     mu "“那上面有Cornelis van Houwelinck先生的名字吗？”"
 
 # game/cliffroute3.rpy:1236
-translate Tchinese aftercliffint2_107f0d9d:
+translate Schinese aftercliffint2_107f0d9d:
 
     # "That name sounds familiar."
     "听起来有点儿耳熟。"
 
 # game/cliffroute3.rpy:1237
-translate Tchinese aftercliffint2_38066ec0:
+translate Schinese aftercliffint2_38066ec0:
 
     # "Wasn’t he that painter Cliff mentioned?"
     "那不是Cliff提过的画家吗？"
 
 # game/cliffroute3.rpy:1238
-translate Tchinese aftercliffint2_343f8c18:
+translate Schinese aftercliffint2_343f8c18:
 
     # "We probably shouldn’t be wasting this lady’s time."
     "別再浪費这位女士的时间了。"
 
 # game/cliffroute3.rpy:1239
-translate Tchinese aftercliffint2_a3c81bcf:
+translate Schinese aftercliffint2_a3c81bcf:
 
     # "But the goose’s eyes flick up from her book."
     "但鹅从书上抬起目光。"
 
 # game/cliffroute3.rpy:1240
-translate Tchinese aftercliffint2_8827d792:
+translate Schinese aftercliffint2_8827d792:
 
     # "Goose" "\"How’s that spelled?\""
     "Goose" "“怎么拼？”"
 
 # game/cliffroute3.rpy:1241
-translate Tchinese aftercliffint2_9bc58be6:
+translate Schinese aftercliffint2_9bc58be6:
 
     # "Murdoch takes a piece of paper out of his pocket."
     "Murdoch从口袋里掏出一张纸。"
 
 # game/cliffroute3.rpy:1242
-translate Tchinese aftercliffint2_5477c4a0:
+translate Schinese aftercliffint2_5477c4a0:
 
     # "It looks slightly ripped and stained with dew."
     "有点破，还被露水打湿了。"
 
 # game/cliffroute3.rpy:1244
-translate Tchinese aftercliffint2_78b0774d:
+translate Schinese aftercliffint2_78b0774d:
 
     # mu "\"Like this.\""
     mu "“这里。”"
 
 # game/cliffroute3.rpy:1246
-translate Tchinese aftercliffint2_da726ae3:
+translate Schinese aftercliffint2_da726ae3:
 
     # "The goose leans forward, looking."
     "鹅倾身看了眼。"
 
 # game/cliffroute3.rpy:1247
-translate Tchinese aftercliffint2_66f67e9a:
+translate Schinese aftercliffint2_66f67e9a:
 
     # "Goose" "\"That’s him.\""
     "Goose" "“是他没错。”"
 
 # game/cliffroute3.rpy:1248
-translate Tchinese aftercliffint2_868147c5:
+translate Schinese aftercliffint2_868147c5:
 
     # "Goose" "\"I don’t much like giving out keys before a down payment, but this is your lucky day.\""
     "Goose" "“我就破一回例好了，今天算你们走运。”"
 
 # game/cliffroute3.rpy:1249
-translate Tchinese aftercliffint2_85c16ca6:
+translate Schinese aftercliffint2_85c16ca6:
 
     # "She unhooks a set of keys off the wall and sets them in the fox’s paw as he puts the paper in his vest jacket away."
     "她从墙上取下一串钥匙，递给正把纸揣回衣兜的狐狸。"
 
 # game/cliffroute3.rpy:1251
-translate Tchinese aftercliffint2_2bd574a3:
+translate Schinese aftercliffint2_2bd574a3:
 
     # "Goose" "\"Second floor, first door on the right.\""
     "Goose" "“二楼，右手第一间。”"
 
 # game/cliffroute3.rpy:1252
-translate Tchinese aftercliffint2_3cd37881:
+translate Schinese aftercliffint2_3cd37881:
 
     # "I don’t want to say anything now, but I get the feeling I need to know what the hell just happened."
     "我没开口，但暗想一定要把刚才的事问个明白。"
 
 # game/cliffroute3.rpy:1254
-translate Tchinese aftercliffint2_570f2d17:
+translate Schinese aftercliffint2_570f2d17:
 
     # "I keep my mouth shut for now and follow the fox up the narrow set of stairs to our room, his big tail almost hitting me in the face as we ascend."
     "我一路保持沉默，跟着狐狸登上狭窄的楼梯去往我们的房间，期间差点被他的大尾巴扫到脸。"
 
 # game/cliffroute3.rpy:1257
-translate Tchinese aftercliffint2_66a5b169:
+translate Schinese aftercliffint2_66a5b169:
 
     # "Once we’re inside I forget myself for a moment."
     "一进门，我却愣了一拍。"
 
 # game/cliffroute3.rpy:1258
-translate Tchinese aftercliffint2_497dd437:
+translate Schinese aftercliffint2_497dd437:
 
     # "This room is much bigger than I thought it would be considering the conditions of the inn."
     "以这旅店的格局来说，这间房比我想像中的大多了。"
 
 # game/cliffroute3.rpy:1260
-translate Tchinese aftercliffint2_98682a4b:
+translate Schinese aftercliffint2_98682a4b:
 
     # "It’s bigger than my room at the Hip."
     "比我在Hip的屋子都大。"
 
 # game/cliffroute3.rpy:1261
-translate Tchinese aftercliffint2_aae9b9ce:
+translate Schinese aftercliffint2_aae9b9ce:
 
     # "It ain’t exactly lavish, but I get the feeling it’s nice for a place such as this."
     "谈不上奢华，但在这种地方已经挺不错了。"
 
 # game/cliffroute3.rpy:1263
-translate Tchinese aftercliffint2_54c35003:
+translate Schinese aftercliffint2_54c35003:
 
     # mu "\"Only two beds, huh?\""
     mu "“只有两张床啊？”"
 
 # game/cliffroute3.rpy:1265
-translate Tchinese aftercliffint2_bc3fb93e:
+translate Schinese aftercliffint2_bc3fb93e:
 
     # mu "\"Seems like one of us might have to share with Jeb.\""
     mu "“看来得有人跟Jeb一起睡了。”"
 
 # game/cliffroute3.rpy:1267
-translate Tchinese aftercliffint2_370afe5a:
+translate Schinese aftercliffint2_370afe5a:
 
     # m "\"I know you’re not gonna pretend like what just happened didn’t happen.\""
     m "“你不会想蒙混过去吧。”"
 
 # game/cliffroute3.rpy:1268
-translate Tchinese aftercliffint2_2df77c1b:
+translate Schinese aftercliffint2_2df77c1b:
 
     # m "\"Who’s Corn van Hoolick?\""
     m "“Corn van Hoolick是谁？”"
 
 # game/cliffroute3.rpy:1270
-translate Tchinese aftercliffint2_a6640e2f:
+translate Schinese aftercliffint2_a6640e2f:
 
     # mu "\"It’s Mr. Tibbits’ real name.\""
     mu "“Tibbits先生的真名。”"
 
 # game/cliffroute3.rpy:1272
-translate Tchinese aftercliffint2_b598438f:
+translate Schinese aftercliffint2_b598438f:
 
     # mu "\"Or, at least the one he must go by in Europa.\""
     mu "“或者说，他在欧洲时不得不使用的名字。”"
 
 # game/cliffroute3.rpy:1274
-translate Tchinese aftercliffint2_c25c9926:
+translate Schinese aftercliffint2_c25c9926:
 
     # mu "\"Here.\""
     mu "“你看。”"
 
 # game/cliffroute3.rpy:1276
-translate Tchinese aftercliffint2_593bbbca:
+translate Schinese aftercliffint2_593bbbca:
 
     # "He takes a piece of paper out of his pocket and shows it to me."
     "他又从口袋中拿出那张纸。"
 
 # game/cliffroute3.rpy:1277
-translate Tchinese aftercliffint2_4f4de106:
+translate Schinese aftercliffint2_4f4de106:
 
     # "I squint my eyes, looking over the letters."
     "我眯眼端详上头的字母。"
 
 # game/cliffroute3.rpy:1278
-translate Tchinese aftercliffint2_4b007f73:
+translate Schinese aftercliffint2_4b007f73:
 
     # "I guess I butchered it a little."
     "我刚才念得的好像不太对。"
 
 # game/cliffroute3.rpy:1279
-translate Tchinese aftercliffint2_8b799908:
+translate Schinese aftercliffint2_8b799908:
 
     # m "\"So why’s he using a fake name?\""
     m "“那他为什么要用假名？”"
 
 # game/cliffroute3.rpy:1281
-translate Tchinese aftercliffint2_d3ad785e:
+translate Schinese aftercliffint2_d3ad785e:
 
     # mu "\"It might not have been his choice.\""
     mu "“也许是他身不由己。”"
 
 # game/cliffroute3.rpy:1282
-translate Tchinese aftercliffint2_65f02dcc:
+translate Schinese aftercliffint2_65f02dcc:
 
     # mu "\"My grandparents had to change their name when they immigrated, though they didn’t have to change them by very much.\""
     mu "“我祖父母移民的时候就换了名字，虽然变得不多就是了。”"
 
 # game/cliffroute3.rpy:1283
-translate Tchinese aftercliffint2_e47077ce:
+translate Schinese aftercliffint2_e47077ce:
 
     # "I think for a second and remember Nik mentioning something similar."
     "我想了想，回忆起Nik也说过类似的东西。"
 
 # game/cliffroute3.rpy:1284
-translate Tchinese aftercliffint2_bb35d912:
+translate Schinese aftercliffint2_bb35d912:
 
     # "Nicholas was his official name, though he still preferred Nikolai."
     "他的法定名字是Nicholas，但他还是比较喜欢Nikolai。"
 
 # game/cliffroute3.rpy:1285
-translate Tchinese aftercliffint2_f1a200a4:
+translate Schinese aftercliffint2_f1a200a4:
 
     # "But he asked us to keep calling him Nik to play it safe, because nobody would be able to tell the difference between that and Nick."
     "不过为了小心起见，他要我们叫他Nik，沒人能听出这跟Nick的差別。"
 
 # game/cliffroute3.rpy:1286
-translate Tchinese aftercliffint2_889bb741:
+translate Schinese aftercliffint2_889bb741:
 
     # m "\"How did you get that?\""
     m "“这是哪來的？”"
 
 # game/cliffroute3.rpy:1288
-translate Tchinese aftercliffint2_de922000:
+translate Schinese aftercliffint2_de922000:
 
     # mu "\"It was just lying around at the site where we got attacked.\""
     mu "“在我们遇袭的地点附近发现的。”"
 
 # game/cliffroute3.rpy:1290
-translate Tchinese aftercliffint2_82caed40:
+translate Schinese aftercliffint2_82caed40:
 
     # mu "\"I held onto it because I figured it was important identification papers, but it slipped my mind until you brought up fake names.\""
     mu "“因为是重要的身份证件，所以我一直带着，但直到被你提醒都忘了有这回事。”"
 
 # game/cliffroute3.rpy:1291
-translate Tchinese aftercliffint2_0869a12b:
+translate Schinese aftercliffint2_0869a12b:
 
     # m "\"Anyway...\""
     m "“总之...”"
 
 # game/cliffroute3.rpy:1293
-translate Tchinese aftercliffint2_92d3198f:
+translate Schinese aftercliffint2_92d3198f:
 
     # mu "\"What?\""
     mu "“总之？”"
 
 # game/cliffroute3.rpy:1294
-translate Tchinese aftercliffint2_db992aab:
+translate Schinese aftercliffint2_db992aab:
 
     # m "\"Either you or the professor are gonna have to share your bed with Jeb.\""
     m "“跟Jeb睡一张床的不是你就是教授了。”"
 
 # game/cliffroute3.rpy:1295
-translate Tchinese aftercliffint2_e0888583:
+translate Schinese aftercliffint2_e0888583:
 
     # mu "\"And why’s that?\""
     mu "“为什么？”"
 
 # game/cliffroute3.rpy:1296
-translate Tchinese aftercliffint2_220c9ef3:
+translate Schinese aftercliffint2_220c9ef3:
 
     # m "\"Because we’re both huge, and you’re both small.\""
     m "“因为我们俩个头大，你们俩个头小。”"
 
 # game/cliffroute3.rpy:1298
-translate Tchinese aftercliffint2_33731db7:
+translate Schinese aftercliffint2_33731db7:
 
     # mu "\"I am not small, Sam.\""
     mu "“我才不小，Sam。”"
 
 # game/cliffroute3.rpy:1299
-translate Tchinese aftercliffint2_6421b7be:
+translate Schinese aftercliffint2_6421b7be:
 
     # mu "\"I’m just as tall as most other men.\""
     mu "“我跟大部分男人一样高。”"
 
 # game/cliffroute3.rpy:1300
-translate Tchinese aftercliffint2_6a7d8fb5:
+translate Schinese aftercliffint2_6a7d8fb5:
 
     # m "\"Compared to me and Jeb you’re small.\""
     m "“跟我和Jeb比起来算小了。”"
 
 # game/cliffroute3.rpy:1302
-translate Tchinese aftercliffint2_05ea7382:
+translate Schinese aftercliffint2_05ea7382:
 
     # mu "\"So are most people.\""
     mu "“那大部分人也小。”"
 
 # game/cliffroute3.rpy:1303
-translate Tchinese aftercliffint2_a04e46b7:
+translate Schinese aftercliffint2_a04e46b7:
 
     # m "\"That’s beside the point.\""
     m "“重点不在这。”"
 
 # game/cliffroute3.rpy:1304
-translate Tchinese aftercliffint2_38009edc:
+translate Schinese aftercliffint2_38009edc:
 
     # m "\"That flimsy little bed couldn’t handle the both of us.\""
     m "“这床这么单薄，支撑不住我们两个。”"
 
 # game/cliffroute3.rpy:1306
-translate Tchinese aftercliffint2_f28d1953:
+translate Schinese aftercliffint2_f28d1953:
 
     # mu "\"Well what about the doctor?\""
     mu "“那医生呢？”"
 
 # game/cliffroute3.rpy:1308
-translate Tchinese aftercliffint2_5fcc3248:
+translate Schinese aftercliffint2_5fcc3248:
 
     # m "\"What about the doctor?\""
     m "“医生怎么了？”"
 
 # game/cliffroute3.rpy:1310
-translate Tchinese aftercliffint2_3f35990e:
+translate Schinese aftercliffint2_3f35990e:
 
     # mu "\"Where is exactly is he staying?\""
     mu "“他住在哪？”"
 
 # game/cliffroute3.rpy:1312
-translate Tchinese aftercliffint2_a557e684:
+translate Schinese aftercliffint2_a557e684:
 
     # mu "\"He and Jeb seem close.\""
     mu "“他跟Jeb挺熟的。”"
 
 # game/cliffroute3.rpy:1314
-translate Tchinese aftercliffint2_8e2d69df:
+translate Schinese aftercliffint2_8e2d69df:
 
     # mu "\"Maybe he’ll offer him a place to stay?\""
     mu "“说不定会邀请他过去住？”"
 
 # game/cliffroute3.rpy:1316
-translate Tchinese aftercliffint2_9cb66726:
+translate Schinese aftercliffint2_9cb66726:
 
     # m "\"Sounds like you just want a bed to yourself.\""
     m "“你只是想独占一整张床吧。”"
 
 # game/cliffroute3.rpy:1318
-translate Tchinese aftercliffint2_334e9065:
+translate Schinese aftercliffint2_334e9065:
 
     # mu "\"I just have some bad memories where I used to have to share a bedroom.\""
     mu "“我只是对跟人共用臥室有阴影。”"
 
 # game/cliffroute3.rpy:1320
-translate Tchinese aftercliffint2_0f757980:
+translate Schinese aftercliffint2_0f757980:
 
     # mu "\"We had tiny bunk beds we had to share.\""
     mu "“小时候的我们只能挤在一张小小的双层床上。”"
 
 # game/cliffroute3.rpy:1322
-translate Tchinese aftercliffint2_d4ff0828:
+translate Schinese aftercliffint2_d4ff0828:
 
     # mu "\"I’d wake up against the wall because I couldn’t breathe.\""
     mu "“常被墙壁挤压到无法呼吸而惊醒。”"
 
 # game/cliffroute3.rpy:1324
-translate Tchinese aftercliffint2_c57b74d6:
+translate Schinese aftercliffint2_c57b74d6:
 
     # m "\"Why didn’t you just sleep on the floor?\""
     m "“干嘛不直接睡地板？”"
 
 # game/cliffroute3.rpy:1326
-translate Tchinese aftercliffint2_e22bf365:
+translate Schinese aftercliffint2_e22bf365:
 
     # mu "\"Because I don’t want to wake up with cramps.\""
     mu "“我才不想一早起来就浑身抽筋。”"
 
 # game/cliffroute3.rpy:1327
-translate Tchinese aftercliffint2_177dece4:
+translate Schinese aftercliffint2_177dece4:
 
     # mu "\"Bad start to a heavy work day.\""
     mu "“不利于重体力劳作。”"
 
 # game/cliffroute3.rpy:1330
-translate Tchinese aftercliffint2_410f7b00:
+translate Schinese aftercliffint2_410f7b00:
 
     # "I’m about to say that he wouldn’t get as many cramps if he put some muscle on his back when I hear a knock on the door."
     "我正想说要是他背部肌肉再多点就不会那么容易抽筋，却听见了敲门声。"
 
 # game/cliffroute3.rpy:1333
-translate Tchinese aftercliffint2_178cc571:
+translate Schinese aftercliffint2_178cc571:
 
     # "He goes to open it and we see Cliff walk in through the door."
     "他去开门，Cliff便走进房间。"
 
 # game/cliffroute3.rpy:1338
-translate Tchinese aftercliffint2_04a29f0e:
+translate Schinese aftercliffint2_04a29f0e:
 
     # cl "\"There you are, men.\""
     cl "“你们都在啊。”"
 
 # game/cliffroute3.rpy:1340
-translate Tchinese aftercliffint2_c32a983e:
+translate Schinese aftercliffint2_c32a983e:
 
     # cl "\"I trust setting up the room wasn’t too much trouble?\""
     cl "“打点房间沒遇到太多麻烦吧？”"
 
 # game/cliffroute3.rpy:1343
-translate Tchinese aftercliffint2_3b5b7e87:
+translate Schinese aftercliffint2_3b5b7e87:
 
     # m "\"Truth be told--.\""
     m "“说实话-”"
 
 # game/cliffroute3.rpy:1345
-translate Tchinese aftercliffint2_ee49a50b:
+translate Schinese aftercliffint2_ee49a50b:
 
     # mu "\"They almost didn’t let us in.\""
     mu "“我们差点就要吃闭门羹了。”"
 
 # game/cliffroute3.rpy:1347
-translate Tchinese aftercliffint2_f1a8ccee:
+translate Schinese aftercliffint2_f1a8ccee:
 
     # mu "\"Did you pay?\""
     mu "“你付钱了吗？”"
 
 # game/cliffroute3.rpy:1350
-translate Tchinese aftercliffint2_66f70431:
+translate Schinese aftercliffint2_66f70431:
 
     # cl "\"I just paid off the room, so no need to trouble yourself with those worries.\""
     cl "“我刚刚付过了，这点你们不用担心。”"
 
 # game/cliffroute3.rpy:1353
-translate Tchinese aftercliffint2_bf4ac435:
+translate Schinese aftercliffint2_bf4ac435:
 
     # cl "\"Now that we’re here, let’s just let go of our travel worries and strategize how we’re going to spend our time here and how we’re going to make our way back.\""
     cl "“既来之则安之，别再烦恼路上的事，来商量一下驻留期间的行动跟回去的方法吧。”"
 
 # game/cliffroute3.rpy:1355
-translate Tchinese aftercliffint2_26158286:
+translate Schinese aftercliffint2_26158286:
 
     # "A week, huh?"
     "一个礼拜，是吧？"
 
 # game/cliffroute3.rpy:1356
-translate Tchinese aftercliffint2_db154d99:
+translate Schinese aftercliffint2_db154d99:
 
     # "That should be enough time to prep and plan a way out of here."
     "足够我做好跑路的准备跟打算了。"
 
 # game/cliffroute3.rpy:1357
-translate Tchinese aftercliffint2_083a2afb:
+translate Schinese aftercliffint2_083a2afb:
 
     # "If I walked I could probably make it on my own to camp Rosa."
     "走路应该到得了Rosa营地。"
 
 # game/cliffroute3.rpy:1358
-translate Tchinese aftercliffint2_ed4bd82f:
+translate Schinese aftercliffint2_ed4bd82f:
 
     # "But I can’t remember if they have a train station or not."
     "但我不记得那边有没有火车站。"
 
 # game/cliffroute3.rpy:1360
-translate Tchinese aftercliffint2_66bd250d:
+translate Schinese aftercliffint2_66bd250d:
 
     # cl "\"I have interviews with the Meseta in the morning from nine to noon, so we should wash and eat breakfast before eight.\""
     cl "“早上九点到中午我要采访梅塞塔人，所以我们应该在八点前完成洗漱和早餐。”"
 
 # game/cliffroute3.rpy:1363
-translate Tchinese aftercliffint2_62afea0d:
+translate Schinese aftercliffint2_62afea0d:
 
     # mu "\"Do you mind if I set up the closet for development?\""
     mu "“我能在衣柜里设置洗照片的器材吗？”"
 
 # game/cliffroute3.rpy:1366
-translate Tchinese aftercliffint2_2690e244:
+translate Schinese aftercliffint2_2690e244:
 
     # cl "\"You’re one step ahead of me, Murdoch.\""
     cl "“你比我想得还远一步，Murdoch。”"
 
 # game/cliffroute3.rpy:1369
-translate Tchinese aftercliffint2_b7fa5fbf:
+translate Schinese aftercliffint2_b7fa5fbf:
 
     # cl "\"Just please make sure to keep your chemicals sealed up tight before and after you use them.\""
     cl "“请务必记得把化学品封存好。”"
 
 # game/cliffroute3.rpy:1371
-translate Tchinese aftercliffint2_5fac5981:
+translate Schinese aftercliffint2_5fac5981:
 
     # cl "\"I only have one week to speak with the people here, and I wouldn’t want to embarrass myself with the limited time that I have.\""
     cl "“我只有一个礼拜的采访时间，可不能留下坏印象。”"
 
 # game/cliffroute3.rpy:1373
-translate Tchinese aftercliffint2_da57f4fd:
+translate Schinese aftercliffint2_da57f4fd:
 
     # m "\"You don’t need much more from me anymore, right?\""
     m "“总之没我什么事了吧？”"
 
 # game/cliffroute3.rpy:1375
-translate Tchinese aftercliffint2_10fd07e0:
+translate Schinese aftercliffint2_10fd07e0:
 
     # cl "\"Thankfully no since we’ve arrived.\""
     cl "“是的，幸好我们已经来到了目的地。”"
 
 # game/cliffroute3.rpy:1377
-translate Tchinese aftercliffint2_3ab3c814:
+translate Schinese aftercliffint2_3ab3c814:
 
     # cl "\"Though admittedly I would feel a lot better if you made the return trip with us as well.\""
     cl "“但我得说，如果回程时也能有你陪伴，那就再好不过了。”"
 
 # game/cliffroute3.rpy:1379
-translate Tchinese aftercliffint2_e43f72ed:
+translate Schinese aftercliffint2_e43f72ed:
 
     # m "\"Cliff.\""
     m "“Cliff。”"
 
 # game/cliffroute3.rpy:1382
-translate Tchinese aftercliffint2_4dbae28c:
+translate Schinese aftercliffint2_4dbae28c:
 
     # cl "\"I already know your circumstances.\""
     cl "“我明白你的处境。”"
 
 # game/cliffroute3.rpy:1383
-translate Tchinese aftercliffint2_7f071f01:
+translate Schinese aftercliffint2_7f071f01:
 
     # cl "\"I’m merely just voicing my concern after what we went through to get here.\""
     cl "“只是这路上艰难险阻，我放心不下。”"
 
 # game/cliffroute3.rpy:1385
-translate Tchinese aftercliffint2_52f9d9e2:
+translate Schinese aftercliffint2_52f9d9e2:
 
     # cl "\"It’s not exactly safe to go wondering about all alone after we found out what’s out there, is it?\""
     cl "“我们才刚死里逃生，要一个人离开此地恐怕也不安全吧？”"
 
 # game/cliffroute3.rpy:1387
-translate Tchinese aftercliffint2_1f228d29:
+translate Schinese aftercliffint2_1f228d29:
 
     # m "\"Okay.\""
     m "“行吧。”"
 
 # game/cliffroute3.rpy:1388
-translate Tchinese aftercliffint2_1628330c:
+translate Schinese aftercliffint2_1628330c:
 
     # m "\"It’s not safe much anywhere.\""
     m "“但附近就一定安全吗？”"
 
 # game/cliffroute3.rpy:1389
-translate Tchinese aftercliffint2_fa05601f:
+translate Schinese aftercliffint2_fa05601f:
 
     # "Especially not for me."
     "尤其是对我来说。"
 
 # game/cliffroute3.rpy:1391
-translate Tchinese aftercliffint2_3b3289cd:
+translate Schinese aftercliffint2_3b3289cd:
 
     # mu "\"I think he’s saying that at least there’s nothing here that will physically harm you.\""
     mu "“我想他只是在表达，这里没有会伤害你身体的东西。”"
 
 # game/cliffroute3.rpy:1392
-translate Tchinese aftercliffint2_27cebee6:
+translate Schinese aftercliffint2_27cebee6:
 
     # "Unless a couple of bounty hunters from Echo stroll in if Will decided to give them my name."
     "除非Will决定通缉我，把赏金猎人从回音引来。"
 
 # game/cliffroute3.rpy:1393
-translate Tchinese aftercliffint2_a84498d4:
+translate Schinese aftercliffint2_a84498d4:
 
     # "He must be putting the pieces together any day by now."
     "他迟早会串起全部线索的。"
 
 # game/cliffroute3.rpy:1394
-translate Tchinese aftercliffint2_f5122393:
+translate Schinese aftercliffint2_f5122393:
 
     # "And he knows where we went."
     "也知道我们的下落。"
 
 # game/cliffroute3.rpy:1396
-translate Tchinese aftercliffint2_e073ed53:
+translate Schinese aftercliffint2_e073ed53:
 
     # cl "\"I don’t think it’s smart for anybody to travel alone after what happened.\""
     cl "“都遭遇了那种事，独自上路实在称不上明智。”"
 
 # game/cliffroute3.rpy:1398
-translate Tchinese aftercliffint2_bca61215:
+translate Schinese aftercliffint2_bca61215:
 
     # m "\"Then I’ll find somebody to travel with.\""
     m "“那我就找个伴儿一起走。”"
 
 # game/cliffroute3.rpy:1399
-translate Tchinese aftercliffint2_e8ae3ca9:
+translate Schinese aftercliffint2_e8ae3ca9:
 
     # m "\"It’s not really either of your concern.\""
     m "“这跟你们没关系。”"
 
 # game/cliffroute3.rpy:1401
-translate Tchinese aftercliffint2_d2ff262a:
+translate Schinese aftercliffint2_d2ff262a:
 
     # cl "\"But it is of our concern.\""
     cl "“怎么没关系。”"
 
 # game/cliffroute3.rpy:1403
-translate Tchinese aftercliffint2_f4cc6c8b:
+translate Schinese aftercliffint2_f4cc6c8b:
 
     # cl "\"Just because you’re going your own way doesn’t mean we’ll stop being friends.\""
     cl "“哪怕你心意已决，也不代表我们就当不成朋友了。”"
 
 # game/cliffroute3.rpy:1405
-translate Tchinese aftercliffint2_c6efb785:
+translate Schinese aftercliffint2_c6efb785:
 
     # mu "\"I feel the same way.\""
     mu "“我深有同感。”"
 
 # game/cliffroute3.rpy:1407
-translate Tchinese aftercliffint2_961478c7:
+translate Schinese aftercliffint2_961478c7:
 
     # mu "\"I’ve been through more in the last few days with this group than I ever have before in my life.\""
     mu "“和你们结伴的这几天，比我这辈子的经历都要丰富。”"
 
 # game/cliffroute3.rpy:1410
-translate Tchinese aftercliffint2_90e2a1bc:
+translate Schinese aftercliffint2_90e2a1bc:
 
     # jeb "\"Y’all gettin’ sentimental without me?\""
     jeb "“在背着我交流感情？”"
 
 # game/cliffroute3.rpy:1412
-translate Tchinese aftercliffint2_aed438c8:
+translate Schinese aftercliffint2_aed438c8:
 
     # "We turned to see the horse crouching to stand in the small doorway as he made his way inside."
     "我们看向正弯腰走进矮小门框的马。"
 
 # game/cliffroute3.rpy:1414
-translate Tchinese aftercliffint2_641b9ba4:
+translate Schinese aftercliffint2_641b9ba4:
 
     # jeb "\"This a sewing circle or what?\""
     jeb "“这是什么缝纫技术会吗？”"
 
 # game/cliffroute3.rpy:1417
-translate Tchinese aftercliffint2_9f6b45ef:
+translate Schinese aftercliffint2_9f6b45ef:
 
     # cl "\"Just trying to keep our plans for the week ship-shape.\""
     cl "“只是在商讨这个礼拜的行程。”"
 
 # game/cliffroute3.rpy:1422
-translate Tchinese aftercliffint2_03d854a9:
+translate Schinese aftercliffint2_03d854a9:
 
     # m "\"I won’t be going back to Echo with the rest of you.\""
     m "“我不会跟你们回去的。”"
 
 # game/cliffroute3.rpy:1423
-translate Tchinese aftercliffint2_0fb79676:
+translate Schinese aftercliffint2_0fb79676:
 
     # "The mood is heavy again despite the weasel’s attempt at redirection."
     "虽然鼬尝试转移话题，但气氛再度变得凝重。"
 
 # game/cliffroute3.rpy:1425
-translate Tchinese aftercliffint2_20cb9572:
+translate Schinese aftercliffint2_20cb9572:
 
     # jeb "\"That so?\""
     jeb "“是吗？”"
 
 # game/cliffroute3.rpy:1428
-translate Tchinese aftercliffint2_13c2922a:
+translate Schinese aftercliffint2_13c2922a:
 
     # jeb "\"We’ll be worse off without you.\""
     jeb "“那就不太妙了。”"
 
 # game/cliffroute3.rpy:1430
-translate Tchinese aftercliffint2_d029554d:
+translate Schinese aftercliffint2_d029554d:
 
     # "That’s surprising to hear."
     "没想到他会这么说。"
 
 # game/cliffroute3.rpy:1432
-translate Tchinese aftercliffint2_8a06c2ba:
+translate Schinese aftercliffint2_8a06c2ba:
 
     # m "\"I don’t feel like I did much aside from gettin’ injured.\""
     m "“除了受伤，我好像也没干什么吧。”"
 
 # game/cliffroute3.rpy:1434
-translate Tchinese aftercliffint2_e22e60cf:
+translate Schinese aftercliffint2_e22e60cf:
 
     # jeb "\"You helped me dig.\""
     jeb "“你帮我挖了洞。”"
 
 # game/cliffroute3.rpy:1437
-translate Tchinese aftercliffint2_09be5966:
+translate Schinese aftercliffint2_09be5966:
 
     # jeb "\"And you didn’t panic when most people could have.\""
     jeb "“也没有在大多人可能-”"
 
 # game/cliffroute3.rpy:1440
-translate Tchinese aftercliffint2_fa5e3c16:
+translate Schinese aftercliffint2_fa5e3c16:
 
     # jeb "\"Maybe even should have.\""
     jeb "“甚至免不了惊慌失措的时候惊慌。”"
 
 # game/cliffroute3.rpy:1443
-translate Tchinese aftercliffint2_67230b88:
+translate Schinese aftercliffint2_67230b88:
 
     # jeb "\"Stable men are hard to find.\""
     jeb "“稳健的男人可不多得啊。”"
 
 # game/cliffroute3.rpy:1445
-translate Tchinese aftercliffint2_c57f04ca:
+translate Schinese aftercliffint2_c57f04ca:
 
     # "My smile is a bit strained."
     "我笑得有点僵硬。"
 
 # game/cliffroute3.rpy:1446
-translate Tchinese aftercliffint2_5f811912:
+translate Schinese aftercliffint2_5f811912:
 
     # m "\"You’re overselling my contributions\""
     m "“你过奖了。”"
 
 # game/cliffroute3.rpy:1448
-translate Tchinese aftercliffint2_218414f6:
+translate Schinese aftercliffint2_218414f6:
 
     # jeb "\"Not really.\""
     jeb "“并没有。”"
 
 # game/cliffroute3.rpy:1451
-translate Tchinese aftercliffint2_6e64fba7:
+translate Schinese aftercliffint2_6e64fba7:
 
     # jeb "\"Just a fact of the prairie.\""
     jeb "“这是事实。”"
 
 # game/cliffroute3.rpy:1454
-translate Tchinese aftercliffint2_99639818:
+translate Schinese aftercliffint2_99639818:
 
     # jeb "\"You’re all fine if at least one of you is.\""
     jeb "“只要有一个人好，大家就都好。”"
 
 # game/cliffroute3.rpy:1457
-translate Tchinese aftercliffint2_119e48a4:
+translate Schinese aftercliffint2_119e48a4:
 
     # jeb "\"And you’re a decent example for staying steady.\""
     jeb "“你是队里的顶梁柱。”"
 
 # game/cliffroute3.rpy:1460
-translate Tchinese aftercliffint2_dede86dc:
+translate Schinese aftercliffint2_dede86dc:
 
     # jeb "\"Better than I was, anyway, even if it wasn’t my fault.\""
     jeb "“总之比我强，虽然那不是我的错。”"
 
 # game/cliffroute3.rpy:1464
-translate Tchinese aftercliffint2_1d58efc9:
+translate Schinese aftercliffint2_1d58efc9:
 
     # cl "\"Well, Jeb is right about one thing.\""
     cl "“有一件事Jeb说得对。”"
 
 # game/cliffroute3.rpy:1467
-translate Tchinese aftercliffint2_9aaaef29:
+translate Schinese aftercliffint2_9aaaef29:
 
     # cl "\"We’re only better off with you around, Sam.\""
     cl "“我们有你陪着才会更好，Sam。”"
 
 # game/cliffroute3.rpy:1471
-translate Tchinese aftercliffint2_1a8f0962:
+translate Schinese aftercliffint2_1a8f0962:
 
     # jeb "\"Now wait just a minute.\""
     jeb "“慢着。”"
 
 # game/cliffroute3.rpy:1474
-translate Tchinese aftercliffint2_e0383a0d:
+translate Schinese aftercliffint2_e0383a0d:
 
     # jeb "\"What do you mean right about one thing?\""
     jeb "“‘有一件事’是什么意思？”"
 
 # game/cliffroute3.rpy:1477
-translate Tchinese aftercliffint2_11690d5e:
+translate Schinese aftercliffint2_11690d5e:
 
     # jeb "\"I was right about a lot of things.\""
     jeb "“我基本上都是对的。”"
 
 # game/cliffroute3.rpy:1479
-translate Tchinese aftercliffint2_f69d727d:
+translate Schinese aftercliffint2_f69d727d:
 
     # jeb "\"My animals are dead and my wagon got hacked up and I still got you where you needed to be.\""
     jeb "“我的动物们死了，驴车也坏了，还不是照样带你们抵达了目的地。”"
 
 # game/cliffroute3.rpy:1482
-translate Tchinese aftercliffint2_d97640bd:
+translate Schinese aftercliffint2_d97640bd:
 
     # cl "\"We ran into problems before the attack.\""
     cl "“我们早在被攻击前就有不少问题。”"
 
 # game/cliffroute3.rpy:1485
-translate Tchinese aftercliffint2_a4fa2f78:
+translate Schinese aftercliffint2_a4fa2f78:
 
     # cl "\"I’m late for my arrangements because of all the extra time spent in the woods.\""
     cl "“都是因为在森林里逗留太久，我才没有及时赴约。”"
 
 # game/cliffroute3.rpy:1486
-translate Tchinese aftercliffint2_c364a65c:
+translate Schinese aftercliffint2_c364a65c:
 
     # m "\"Extra time?\""
     m "“逗留太久？”"
 
 # game/cliffroute3.rpy:1487
-translate Tchinese aftercliffint2_50777fd3:
+translate Schinese aftercliffint2_50777fd3:
 
     # "...What is he talking about?"
     "...他在说什么？"
 
 # game/cliffroute3.rpy:1488
-translate Tchinese aftercliffint2_d3bb6f10:
+translate Schinese aftercliffint2_d3bb6f10:
 
     # "It’s only been a few days."
     "才过了几天啊。"
 
 # game/cliffroute3.rpy:1491
-translate Tchinese aftercliffint2_510bfcee:
+translate Schinese aftercliffint2_510bfcee:
 
     # cl "\"Oh, forget it.\""
     cl "“唉，算了。”"
 
 # game/cliffroute3.rpy:1492
-translate Tchinese aftercliffint2_f98cd16c:
+translate Schinese aftercliffint2_f98cd16c:
 
     # cl "\"We’re lucky we weren’t turned away at the gate is all.\""
     cl "“光是没有被拒之门外就该偷笑了。”"
 
 # game/cliffroute3.rpy:1494
-translate Tchinese aftercliffint2_64b43f08:
+translate Schinese aftercliffint2_64b43f08:
 
     # cl "\"I tell you what, Jebidiah.\""
     cl "“我来告诉你一件事吧，Jebediah。”"
 
 # game/cliffroute3.rpy:1497
-translate Tchinese aftercliffint2_db6ecf9d:
+translate Schinese aftercliffint2_db6ecf9d:
 
     # cl "\"Why don’t I just pay you for half of the trip, and you can just focus on resting up here?\""
     cl "“要不然我们的合作就到这里，你也能趁机休息一下？”"
 
 # game/cliffroute3.rpy:1500
-translate Tchinese aftercliffint2_aed78c40:
+translate Schinese aftercliffint2_aed78c40:
 
     # cl "\"I’ll pay for a new cart and new animals, but I’ll look into finding a different guide.\""
     cl "“我会支付一半的费用，以及赔偿你的损失，但向导我要另请高明。”"
 
 # game/cliffroute3.rpy:1503
-translate Tchinese aftercliffint2_55dfc958:
+translate Schinese aftercliffint2_55dfc958:
 
     # cl "\"What do you think of that?\""
     cl "“你意下如何？”"
 
 # game/cliffroute3.rpy:1506
-translate Tchinese aftercliffint2_663182c3:
+translate Schinese aftercliffint2_663182c3:
 
     # jeb "\"I think it’s stupid as hell considering I’ve got to go back that way anyhow.\""
     jeb "“愚蠢至极，我也要走同样的路回去啊。”"
 
 # game/cliffroute3.rpy:1509
-translate Tchinese aftercliffint2_ae8f0ae9:
+translate Schinese aftercliffint2_ae8f0ae9:
 
     # jeb "\"You’ll be hard-pressed to find somebody else short notice.\""
     jeb "“再说时间这么赶，你根本就找不到其他导游。”"
 
 # game/cliffroute3.rpy:1512
-translate Tchinese aftercliffint2_e38b9fdd:
+translate Schinese aftercliffint2_e38b9fdd:
 
     # mu "\"I also don’t think that’s such a good idea.\""
     mu "“我也觉得这不是个好主意。”"
 
 # game/cliffroute3.rpy:1513
-translate Tchinese aftercliffint2_502670b2:
+translate Schinese aftercliffint2_502670b2:
 
     # mu "\"My family will want me back in town as soon as possible.\""
     mu "“家里人希望我尽早回镇上。”"
 
 # game/cliffroute3.rpy:1515
-translate Tchinese aftercliffint2_504dfe79:
+translate Schinese aftercliffint2_504dfe79:
 
     # cl "\"Well I don’t want to pay top dollar just to get lost again.\""
     cl "“我可不想花大价钱买迷路受。”"
 
 # game/cliffroute3.rpy:1518
-translate Tchinese aftercliffint2_2c287d5c:
+translate Schinese aftercliffint2_2c287d5c:
 
     # jeb "\"I said that wasn’t my fault.\""
     jeb "“都说了那不是我的错。”"
 
 # game/cliffroute3.rpy:1521
-translate Tchinese aftercliffint2_17078eb2:
+translate Schinese aftercliffint2_17078eb2:
 
     # mu "\"It wasn’t.\""
     mu "“的确不是。”"
 
 # game/cliffroute3.rpy:1523
-translate Tchinese aftercliffint2_1de62dc1:
+translate Schinese aftercliffint2_1de62dc1:
 
     # mu "\"We have multiple different experienced trackers experience problems and inconsistencies.\""
     mu "“我们有很多经验老道的追踪人，但都不约而同地碰上了麻烦。”"
 
 # game/cliffroute3.rpy:1526
-translate Tchinese aftercliffint2_ba34db7d:
+translate Schinese aftercliffint2_ba34db7d:
 
     # cl "\"Then here’s what I think.\""
     cl "“我的看法是这样的：”"
 
 # game/cliffroute3.rpy:1527
-translate Tchinese aftercliffint2_79824527:
+translate Schinese aftercliffint2_79824527:
 
     # cl "\"The naked truth must be that something on that path, or in that forest, has altered our perception of space and time.\""
     cl "“有什么东西潜伏在路上或森林里，干扰了我们对时间与空间的认知。”"
 
 # game/cliffroute3.rpy:1529
-translate Tchinese aftercliffint2_8830d8d4:
+translate Schinese aftercliffint2_8830d8d4:
 
     # cl "\"I know there’s various types of hallucinogenic gasses that cause people to lose track of such things, and we must have fallen victim without realizing.\""
     cl "“能造成这种现象的致幻气体有很多，我们一定是在不知不觉中受到了影响。”"
 
 # game/cliffroute3.rpy:1532
-translate Tchinese aftercliffint2_611afa34:
+translate Schinese aftercliffint2_611afa34:
 
     # cl "\"That, or we all have a shared disease, though I must admit that I do not feel off or feverish.\""
     cl "“如若不然，就是我们同时患上了某种疾病，但我既没有感觉不舒服也没有发烧。”"
 
 # game/cliffroute3.rpy:1534
-translate Tchinese aftercliffint2_8cd3edda:
+translate Schinese aftercliffint2_8cd3edda:
 
     # cl "\"Drugging isn’t outside of the possibility either.\""
     cl "“中毒也是有可能的。”"
 
 # game/cliffroute3.rpy:1537
-translate Tchinese aftercliffint2_92e51e09:
+translate Schinese aftercliffint2_92e51e09:
 
     # jeb "\"Here’s something simpler Mr. Tibbits.\""
     jeb "“让我告诉你件更实际的事吧，Tibbits先生。”"
 
 # game/cliffroute3.rpy:1540
-translate Tchinese aftercliffint2_bd02c515:
+translate Schinese aftercliffint2_bd02c515:
 
     # jeb "\"You are in an unfamiliar community in the middle of the woods, full of people who either cannot help you or cannot understand you.\""
     jeb "“你正身处密林中的陌生部落，罕有帮手和能沟通的人。”"
 
 # game/cliffroute3.rpy:1543
-translate Tchinese aftercliffint2_797ddb7b:
+translate Schinese aftercliffint2_797ddb7b:
 
     # jeb "\"You are paying me to take you from point A to point B, and not much else.\""
     jeb "“你付钱找我，把你从A点带到B点，不多不少。”"
 
 # game/cliffroute3.rpy:1546
-translate Tchinese aftercliffint2_5f51ca74:
+translate Schinese aftercliffint2_5f51ca74:
 
     # jeb "\"You owe me half, and I’ll want that amount in full tonight.\""
     jeb "“现在你还欠着一半，我要你今晚就付清全额。”"
 
 # game/cliffroute3.rpy:1549
-translate Tchinese aftercliffint2_d1223e56:
+translate Schinese aftercliffint2_d1223e56:
 
     # cl "\"Fine.\""
     cl "“可以。”"
 
 # game/cliffroute3.rpy:1552
-translate Tchinese aftercliffint2_dd214b04:
+translate Schinese aftercliffint2_dd214b04:
 
     # "The weasel mutters under his breath, putting his bag on one of the beds and scrambling through its contents."
     "鼬低声答道，把背包放在一张床上摸索起来。"
 
 # game/cliffroute3.rpy:1555
-translate Tchinese aftercliffint2_b87848d0:
+translate Schinese aftercliffint2_b87848d0:
 
     # "He pulls out the pre-written check and hands it over to the horse."
     "他拿出一张事先写好的支票，交给了马。"
 
 # game/cliffroute3.rpy:1556
-translate Tchinese aftercliffint2_7c3b306c:
+translate Schinese aftercliffint2_7c3b306c:
 
     # cl "\"I hope you use this responsibly.\""
     cl "“但愿你能好好运用这笔钱。”"
 
 # game/cliffroute3.rpy:1558
-translate Tchinese aftercliffint2_667d19d5:
+translate Schinese aftercliffint2_667d19d5:
 
     # jeb "\"It’s mine.\""
     jeb "“这是我的钱。”"
 
 # game/cliffroute3.rpy:1561
-translate Tchinese aftercliffint2_58b21482:
+translate Schinese aftercliffint2_58b21482:
 
     # jeb "\"I’ll use it how I damn well please.\""
     jeb "“我想怎么用就他妈怎么用。”"
 
 # game/cliffroute3.rpy:1564
-translate Tchinese aftercliffint2_83c5ebe9:
+translate Schinese aftercliffint2_83c5ebe9:
 
     # jeb "\"Come find me in a week if you plan to make good on the prior arrangement.\""
     jeb "“要是你主意没变，就一周后再来找我。”"
 
 # game/cliffroute3.rpy:1566
-translate Tchinese aftercliffint2_0aac8244:
+translate Schinese aftercliffint2_0aac8244:
 
     # jeb "\"But this time I want you to pay up front.\""
     jeb "“但这次你得先付钱。”"
 
 # game/cliffroute3.rpy:1570
-translate Tchinese aftercliffint2_6bf791c0:
+translate Schinese aftercliffint2_6bf791c0:
 
     # "He ducked down and out of the room, slamming the door behind him."
     "他屈身走出房间，甩上门。"
 
 # game/cliffroute3.rpy:1572
-translate Tchinese aftercliffint2_f10c3dad:
+translate Schinese aftercliffint2_f10c3dad:
 
     # "We could hear him trot down the stairs in a hurry."
     "能听见他急躁的下楼声。"
 
 # game/cliffroute3.rpy:1574
-translate Tchinese aftercliffint2_fc7f749a:
+translate Schinese aftercliffint2_fc7f749a:
 
     # cl "\"And he didn’t even bother to tell us where to find him!\""
     cl "“他连要去哪找他都没说！”"
 
 # game/cliffroute3.rpy:1576
-translate Tchinese aftercliffint2_a6b09b07:
+translate Schinese aftercliffint2_a6b09b07:
 
     # m "\"I’m sure you’ll see him around.\""
     m "“一定能遇见的。”"
 
 # game/cliffroute3.rpy:1577
-translate Tchinese aftercliffint2_f343a5ca:
+translate Schinese aftercliffint2_f343a5ca:
 
     # m "\"Hard to stay hidden in a place like this.\""
     m "“这里就这么大，很难不被发现。”"
 
 # game/cliffroute3.rpy:1578
-translate Tchinese aftercliffint2_7e4386a3:
+translate Schinese aftercliffint2_7e4386a3:
 
     # "I don’t like how right I am right now."
     "我讨厌自己这话有多正确。"
 
 # game/cliffroute3.rpy:1582
-translate Tchinese aftercliffint2_944d1a9c:
+translate Schinese aftercliffint2_944d1a9c:
 
     # cl "\"I had thought if I laid out my reasoning he would comes to understand my concerns!\""
     cl "“我还以为只要跟他讲道理，他就会理解我的顾虑！”"
 
 # game/cliffroute3.rpy:1583
-translate Tchinese aftercliffint2_8f578c65:
+translate Schinese aftercliffint2_8f578c65:
 
     # cl "\"It isn’t as simple as going from point B to point A if there are dangerous miasmas flitting about the woods!\""
     cl "“如果森林里有危险的瘴气，可就不是从B点去A点那么简单了！”"
 
 # game/cliffroute3.rpy:1584
-translate Tchinese aftercliffint2_ca1bbcf2:
+translate Schinese aftercliffint2_ca1bbcf2:
 
     # cl "\"And then there’s that beast to consider!\""
     cl "“还有那头野兽！”"
 
 # game/cliffroute3.rpy:1585
-translate Tchinese aftercliffint2_69dd7a0a:
+translate Schinese aftercliffint2_69dd7a0a:
 
     # cl "\"If that patch of woods is its territory, does it make any sense to go traipsing around to provoke it again?\""
     cl "“假如那片森林是他的领土，哪有道理再过去挑衅它的？”"
 
 # game/cliffroute3.rpy:1586
-translate Tchinese aftercliffint2_11f8115a:
+translate Schinese aftercliffint2_11f8115a:
 
     # cl "\"Flinging ourselves to jaws both literal and proverbial is what that is if he intends to take the same path backwards.\""
     cl "“要是他打算用同样的方法回去，自寻死路这个词可就不仅仅是比喻了。”"
 
 # game/cliffroute3.rpy:1588
-translate Tchinese aftercliffint2_b90c842a:
+translate Schinese aftercliffint2_b90c842a:
 
     # mu "\"Cliff.\""
     mu "“Cliff。”"
 
 # game/cliffroute3.rpy:1592
-translate Tchinese aftercliffint2_b63a9171:
+translate Schinese aftercliffint2_b63a9171:
 
     # cl "\"What?!\""
     cl "“干嘛？！”"
 
 # game/cliffroute3.rpy:1594
-translate Tchinese aftercliffint2_114c5f8d:
+translate Schinese aftercliffint2_114c5f8d:
 
     # mu "\"You don’t have to diagram what you’re thinking.\""
     mu "“你不用把全部的想法都说出来。”"
 
 # game/cliffroute3.rpy:1595
-translate Tchinese aftercliffint2_6dfacddf:
+translate Schinese aftercliffint2_6dfacddf:
 
     # mu "\"I understand where you’re coming from.\""
     mu "“我明白你的意思。”"
 
 # game/cliffroute3.rpy:1596
-translate Tchinese aftercliffint2_a9b3b320:
+translate Schinese aftercliffint2_a9b3b320:
 
     # cl "\"That’s good!\""
     cl "“那太好了！”"
 
 # game/cliffroute3.rpy:1598
-translate Tchinese aftercliffint2_22ad071f:
+translate Schinese aftercliffint2_22ad071f:
 
     # mu "\"But you aren’t breathing enough.\""
     mu "“但你还是先冷静一下吧。”"
 
 # game/cliffroute3.rpy:1599
-translate Tchinese aftercliffint2_847d84a0:
+translate Schinese aftercliffint2_847d84a0:
 
     # mu "\"And Jeb is already gone.\""
     mu "“Jeb他早就走了。”"
 
 # game/cliffroute3.rpy:1601
-translate Tchinese aftercliffint2_b0050df1:
+translate Schinese aftercliffint2_b0050df1:
 
     # "He holds his hands to his temples."
     "他用双手抵着太阳穴。"
 
 # game/cliffroute3.rpy:1602
-translate Tchinese aftercliffint2_f3d10e6c:
+translate Schinese aftercliffint2_f3d10e6c:
 
     # cl "\"I know he’s gone.\""
     cl "“我知道。”"
 
 # game/cliffroute3.rpy:1603
-translate Tchinese aftercliffint2_2e53bf87:
+translate Schinese aftercliffint2_2e53bf87:
 
     # cl "\"I just thought if I didn’t explain, you both wouldn’t get it, and you’d both think I wasn’t acting in a rational capacity.\""
     cl "“我只是觉得，不把事情向你们两个解释清楚，你们也会认为我很不理性。”"
 
 # game/cliffroute3.rpy:1605
-translate Tchinese aftercliffint2_d2e2daa0:
+translate Schinese aftercliffint2_d2e2daa0:
 
     # "I looked at Murdoch to see his reaction to this."
     "我看向Murdoch，以确认他的反应。"
 
 # game/cliffroute3.rpy:1606
-translate Tchinese aftercliffint2_53dc59bc:
+translate Schinese aftercliffint2_53dc59bc:
 
     # "He’s looking at me too."
     "他同样看着我。"
 
 # game/cliffroute3.rpy:1608
-translate Tchinese aftercliffint2_0cd92ab6:
+translate Schinese aftercliffint2_0cd92ab6:
 
     # mu "\"I don’t think Jeb thought your thought process was questionable.\""
     mu "“我想，Jeb是能够理解你的逻辑的。”"
 
 # game/cliffroute3.rpy:1610
-translate Tchinese aftercliffint2_c059afc2:
+translate Schinese aftercliffint2_c059afc2:
 
     # mu "\"But...\""
     mu "“只是...”"
 
 # game/cliffroute3.rpy:1612
-translate Tchinese aftercliffint2_367bbaee:
+translate Schinese aftercliffint2_367bbaee:
 
     # m "\"It’s more like you care an awful lot about how people react to the same information that you get.\""
     m "“你太在意別人对同一件事的看法了。”"
 
 # game/cliffroute3.rpy:1613
-translate Tchinese aftercliffint2_971f2667:
+translate Schinese aftercliffint2_971f2667:
 
     # mu "\"You’re making decisions based on how they feel.\""
     mu "“你在根据他们的脸色做决定。”"
 
 # game/cliffroute3.rpy:1615
-translate Tchinese aftercliffint2_aa5330d4:
+translate Schinese aftercliffint2_aa5330d4:
 
     # cl "\"Well isn’t that what I’m supposed to be doing?\""
     cl "“这难道不是应该的吗？”"
 
 # game/cliffroute3.rpy:1617
-translate Tchinese aftercliffint2_92933756:
+translate Schinese aftercliffint2_92933756:
 
     # cl "\"What kind of message does it send when a guide isn’t concerned about the safety of his passage?\""
     cl "“一个向导不在意旅客的安全，这代表什么？”"
 
 # game/cliffroute3.rpy:1618
-translate Tchinese aftercliffint2_d31589f1:
+translate Schinese aftercliffint2_d31589f1:
 
     # m "\"He’s probably frustrated that you hired him for his expertise but doubt it whenever anything goes wrong.\""
     m "“他应该是在气你明明雇佣了他，却又总是质疑他的专业吧。”"
 
 # game/cliffroute3.rpy:1620
-translate Tchinese aftercliffint2_fb4e6b09:
+translate Schinese aftercliffint2_fb4e6b09:
 
     # cl "\"But so many things have gone wrong.\""
     cl "“我们遇到的麻烦还少吗？”"
 
 # game/cliffroute3.rpy:1621
-translate Tchinese aftercliffint2_80d4fa3e:
+translate Schinese aftercliffint2_80d4fa3e:
 
     # cl "\"Do you really think that none of them are his fault?\""
     cl "“你们真的觉得他一点错都没有？”"
 
 # game/cliffroute3.rpy:1623
-translate Tchinese aftercliffint2_1091ae5f:
+translate Schinese aftercliffint2_1091ae5f:
 
     # cl "\"That the drinking was appropriate when we were that close to death’s door?\""
     cl "“在我们生死攸关之际，他可是还在喝酒啊？”"
 
 # game/cliffroute3.rpy:1625
-translate Tchinese aftercliffint2_43049690:
+translate Schinese aftercliffint2_43049690:
 
     # mu "\"I think it’s fine to be mad about that.\""
     mu "“这点我自然也很生气。”"
 
 # game/cliffroute3.rpy:1627
-translate Tchinese aftercliffint2_0a439229:
+translate Schinese aftercliffint2_0a439229:
 
     # m "\"But he’s mixing up two different things.\""
     m "“你把事情搞混了。”"
 
 # game/cliffroute3.rpy:1629
-translate Tchinese aftercliffint2_9b77b1f9:
+translate Schinese aftercliffint2_9b77b1f9:
 
     # mu "\"Yeah.\""
     mu "“嗯。”"
 
 # game/cliffroute3.rpy:1631
-translate Tchinese aftercliffint2_c107de5e:
+translate Schinese aftercliffint2_c107de5e:
 
     # cl "\"What?\""
     cl "“搞混了？”"
 
 # game/cliffroute3.rpy:1633
-translate Tchinese aftercliffint2_b3b4eb1f:
+translate Schinese aftercliffint2_b3b4eb1f:
 
     # mu "\"I remember the times Jeb got drunk.\""
     mu "“我记得Jeb喝醉的时候。”"
 
 # game/cliffroute3.rpy:1634
-translate Tchinese aftercliffint2_80461c61:
+translate Schinese aftercliffint2_80461c61:
 
     # mu "\"They only happened after we got lost or attacked, not before.\""
     mu "“都是在我们迷路或被攻击之后，而不是之前。”"
 
 # game/cliffroute3.rpy:1636
-translate Tchinese aftercliffint2_044b5a00:
+translate Schinese aftercliffint2_044b5a00:
 
     # mu "\"If your ideas about intoxicating gas are true, then we were already subjected to an altered experience before he started drinking.\""
     mu "“如果你提出的致幻气体的猜想没有错，那在他喝酒之前我们就已经精神失常了。”"
 
 # game/cliffroute3.rpy:1638
-translate Tchinese aftercliffint2_571a8ffc:
+translate Schinese aftercliffint2_571a8ffc:
 
     # "The stoat’s lip trembled."
     "鼬的双唇颤动。"
 
 # game/cliffroute3.rpy:1640
-translate Tchinese aftercliffint2_3b721e61:
+translate Schinese aftercliffint2_3b721e61:
 
     # cl "\"I see...\""
     cl "“这样啊...”"
 
 # game/cliffroute3.rpy:1641
-translate Tchinese aftercliffint2_4c3e737e:
+translate Schinese aftercliffint2_4c3e737e:
 
     # "He took off his glasses to wipe them off, and then placed them back with trembling hands."
     "他摘下眼镜擦拭，并用颤抖的手戴回。"
 
 # game/cliffroute3.rpy:1643
-translate Tchinese aftercliffint2_3c7df3a0:
+translate Schinese aftercliffint2_3c7df3a0:
 
     # cl "\"You’re both right of course.\""
     cl "“你们说得没错。”"
 
 # game/cliffroute3.rpy:1644
-translate Tchinese aftercliffint2_428d13e9:
+translate Schinese aftercliffint2_428d13e9:
 
     # cl "\"I haven’t been acting as a gentleman should.\""
     cl "“这不是一个绅士应有的风度。”"
 
 # game/cliffroute3.rpy:1645
-translate Tchinese aftercliffint2_7162cb8f:
+translate Schinese aftercliffint2_7162cb8f:
 
     # cl "\"I shouldn’t expect others to react how I preconceive they should react.\""
     cl "“我不该期望他人完美符合我对他们的印象。”"
 
 # game/cliffroute3.rpy:1646
-translate Tchinese aftercliffint2_0e28cc57:
+translate Schinese aftercliffint2_0e28cc57:
 
     # cl "\"That’s not fair to anybody, is it?\""
     cl "“毕竟这样不公平，对吧？”"
 
 # game/cliffroute3.rpy:1648
-translate Tchinese aftercliffint2_1ae97136:
+translate Schinese aftercliffint2_1ae97136:
 
     # mu "\"Part of that is just management experience.\""
     mu "“还有些管理经验上的不足。”"
 
 # game/cliffroute3.rpy:1651
-translate Tchinese aftercliffint2_c5147177:
+translate Schinese aftercliffint2_c5147177:
 
     # cl "\"Well, yes, but that’s no excuse.\""
     cl "“没错，但这算不上借口。”"
 
 # game/cliffroute3.rpy:1652
-translate Tchinese aftercliffint2_fa499ee1:
+translate Schinese aftercliffint2_fa499ee1:
 
     # cl "\"This is my first expedition and I should be trying harder to be on my best behavior.\""
     cl "“这是我第一次实地考察，我本该更加努力，呈现出最好状态的。”"
 
 # game/cliffroute3.rpy:1653
-translate Tchinese aftercliffint2_23a0cf48:
+translate Schinese aftercliffint2_23a0cf48:
 
     # cl "\"I don’t know what I’m doing and this is the last impression the both of you will have of me if this really is our last week together.\""
     cl "“倘若这个礼拜是我们最后相处的时光，我不希望给你们留下差劲的印象。”"
 
 # game/cliffroute3.rpy:1655
-translate Tchinese aftercliffint2_eb9e462b:
+translate Schinese aftercliffint2_eb9e462b:
 
     # mu "\"I’m not going anywhere.\""
     mu "“我不会离开的啊。”"
 
 # game/cliffroute3.rpy:1656
-translate Tchinese aftercliffint2_5e1fdab8:
+translate Schinese aftercliffint2_5e1fdab8:
 
     # "I don’t have much I can add."
     "我就不多嘴了。"
 
 # game/cliffroute3.rpy:1657
-translate Tchinese aftercliffint2_495128eb:
+translate Schinese aftercliffint2_495128eb:
 
     # "I don’t think anybody can change who they are in just a week."
     "我是觉得人在一周内改变不了什么。"
 
 # game/cliffroute3.rpy:1658
-translate Tchinese aftercliffint2_6b313a25:
+translate Schinese aftercliffint2_6b313a25:
 
     # "Unless it’s something really bad."
     "除非遇到特别严重的情况。"
 
 # game/cliffroute3.rpy:1660
-translate Tchinese aftercliffint2_62d70c9e:
+translate Schinese aftercliffint2_62d70c9e:
 
     # m "\"Hey, professor?\""
     m "“话说，教授？”"
 
 # game/cliffroute3.rpy:1662
-translate Tchinese aftercliffint2_6178703a:
+translate Schinese aftercliffint2_6178703a:
 
     # cl "\"What, Samuel?\""
     cl "“什么事，Samuel？”"
 
 # game/cliffroute3.rpy:1663
-translate Tchinese aftercliffint2_a1fa977a:
+translate Schinese aftercliffint2_a1fa977a:
 
     # m "\"I’m going to remember you for who you are, not for who you want to be.\""
     m "“我记在脑子里的是你的为人，不是你想成为的人。”"
 
 # game/cliffroute3.rpy:1666
-translate Tchinese aftercliffint2_7f9611b4:
+translate Schinese aftercliffint2_7f9611b4:
 
     # cl "\"Well then that’s just utterly humiliating, then, isn’t it?\""
     cl "“那我岂不是要羞愧得无地自容了？”"
 
 # game/cliffroute3.rpy:1668
-translate Tchinese aftercliffint2_9b8bd757:
+translate Schinese aftercliffint2_9b8bd757:
 
     # m "\"I don’t think it is.\""
     m "“我不这么想。”"
 
 # game/cliffroute3.rpy:1669
-translate Tchinese aftercliffint2_f2e9b3ba:
+translate Schinese aftercliffint2_f2e9b3ba:
 
     # m "\"But it’s strange when I’m talkin’ to somebody who’s living in tomorrow, not today.\""
     m "“不过跟活在明天而非当下的人讲话感觉是挺怪的。”"
 
 # game/cliffroute3.rpy:1671
-translate Tchinese aftercliffint2_7cdf958b:
+translate Schinese aftercliffint2_7cdf958b:
 
     # cl "\"It’s cruel to even bring up tomorrow!\""
     cl "“还说明天，太残酷了吧！”"
 
 # game/cliffroute3.rpy:1672
-translate Tchinese aftercliffint2_e3cd6ff4:
+translate Schinese aftercliffint2_e3cd6ff4:
 
     # cl "\"I can’t be in this kind of mood when I wake up.\""
     cl "“我可不能怀着这种心情醒来啊。”"
 
 # game/cliffroute3.rpy:1674
-translate Tchinese aftercliffint2_715cd521:
+translate Schinese aftercliffint2_715cd521:
 
     # "The two of us look at one another again, and then back to Cliff."
     "我们两个再度面面相覷，然后转回Cliff。"
 
 # game/cliffroute3.rpy:1677
-translate Tchinese aftercliffint2_1b7b76bf:
+translate Schinese aftercliffint2_1b7b76bf:
 
     # cl "\"I just need some time to think.\""
     cl "“我需要一点时间来思考。”"
 
 # game/cliffroute3.rpy:1680
-translate Tchinese aftercliffint2_5bbe56f6:
+translate Schinese aftercliffint2_5bbe56f6:
 
     # "He walks out of the room, not exactly slamming the door, but not closing it gently, neither."
     "他走出房间，没有甩门，但也不是很轻盈地关上。"
 
 # game/cliffroute3.rpy:1682
-translate Tchinese aftercliffint2_3f2fcca9:
+translate Schinese aftercliffint2_3f2fcca9:
 
     # mu "\"...I don’t think he gets it.\""
     mu "“...他好像没懂。”"
 
 # game/cliffroute3.rpy:1683
-translate Tchinese aftercliffint2_d3018485:
+translate Schinese aftercliffint2_d3018485:
 
     # m "\"Well, at least something good came out of this.\""
     m "“算了，至少有个好消息。”"
 
 # game/cliffroute3.rpy:1685
-translate Tchinese aftercliffint2_892a783a:
+translate Schinese aftercliffint2_892a783a:
 
     # mu "\"What’s that?\""
     mu "“什么好消息？”"
 
 # game/cliffroute3.rpy:1687
-translate Tchinese aftercliffint2_d75a3b75:
+translate Schinese aftercliffint2_d75a3b75:
 
     # m "\"You’re definitely going to get one of the beds to yourself.\""
     m "“你肯定能独占一张床了。”"
 
 # game/cliffroute3.rpy:1689
-translate Tchinese aftercliffint2_97953b6b:
+translate Schinese aftercliffint2_97953b6b:
 
     # "He clicks his tongue, ignoring my comment as he shuffles through his pack, pulling out a dark curtain and jars of liquid in a can."
     "他砸了砸舌，不以为意地摸索起背包，拿出黑色的布帘跟几罐溶液。"
 
 # game/cliffroute3.rpy:1691
-translate Tchinese aftercliffint2_5fb41d14:
+translate Schinese aftercliffint2_5fb41d14:
 
     # mu "\"Maybe he’ll cheer up once I develop some of these photos.\""
     mu "“等我洗好这些照片，说不定他心情能好一点。”"
 
 # game/cliffroute3.rpy:1693
-translate Tchinese aftercliffint2_9f41f655:
+translate Schinese aftercliffint2_9f41f655:
 
     # mu "\"I think it can help somebody see a visual representation of where they’ve started and where they’ve come.\""
     mu "“能用视觉展现出一个人出发跟去了的地方，应该会有所帮助。”"
 
 # game/cliffroute3.rpy:1695
-translate Tchinese aftercliffint2_b135aa91:
+translate Schinese aftercliffint2_b135aa91:
 
     # m "\"Where they’ve come?\""
     m "“去了？”"
 
 # game/cliffroute3.rpy:1697
-translate Tchinese aftercliffint2_495e1035:
+translate Schinese aftercliffint2_495e1035:
 
     # m "\"Are you doing that in one of your nudie pictures?\""
     m "“你的那些裸照里也有吗？”"
 
 # game/cliffroute3.rpy:1699
-translate Tchinese aftercliffint2_7d9e41b7:
+translate Schinese aftercliffint2_7d9e41b7:
 
     # "He gives me a look."
     "他白了我一眼。"
 
 # game/cliffroute3.rpy:1700
-translate Tchinese aftercliffint2_25d4acd9:
+translate Schinese aftercliffint2_25d4acd9:
 
     # mu "\"You know that’s not what I meant.\""
     mu "“你知道我不是那个意思。”"
 
 # game/cliffroute3.rpy:1702
-translate Tchinese aftercliffint2_3c2ba297:
+translate Schinese aftercliffint2_3c2ba297:
 
     # mu "\"...that’s a bitch to time correctly, anyhow.\""
     mu "“...况且那时间难抓得很。”"
 
 # game/cliffroute3.rpy:1703
-translate Tchinese aftercliffint2_dddea4da:
+translate Schinese aftercliffint2_dddea4da:
 
     # m "\"Right then.\""
     m "“好吧。”"
 
 # game/cliffroute3.rpy:1704
-translate Tchinese aftercliffint2_5017ec71:
+translate Schinese aftercliffint2_5017ec71:
 
     # m "\"I’ll leave you to your secrets.\""
     m "“就不打探你的小秘密了。”"
 
 # game/cliffroute3.rpy:1706
-translate Tchinese aftercliffint2_df5b9040:
+translate Schinese aftercliffint2_df5b9040:
 
     # "He stopped shuffling through his back and looked in my direction."
     "他停止摸索，目光瞄向我。"
 
 # game/cliffroute3.rpy:1707
-translate Tchinese aftercliffint2_20afcf47:
+translate Schinese aftercliffint2_20afcf47:
 
     # mu "\"And where exactly are you going?\""
     mu "“你这是要去哪？”"
 
 # game/cliffroute3.rpy:1708
-translate Tchinese aftercliffint2_a4532431:
+translate Schinese aftercliffint2_a4532431:
 
     # m "\"Doing like y’all said.\""
     m "“照你们说的。”"
 
 # game/cliffroute3.rpy:1709
-translate Tchinese aftercliffint2_7718758e:
+translate Schinese aftercliffint2_7718758e:
 
     # m "\"If I’m going in a different direction, then I need to find folks who might go with me.\""
     m "“如果要跟你们走不同方向，我就得找能跟我同行的人。”"
 
 # game/cliffroute3.rpy:1710
-translate Tchinese aftercliffint2_4c922c45:
+translate Schinese aftercliffint2_4c922c45:
 
     # m "\"Safety in numbers.\""
     m "“人越多越安全。”"
 
 # game/cliffroute3.rpy:1712
-translate Tchinese aftercliffint2_6b26ca9f:
+translate Schinese aftercliffint2_6b26ca9f:
 
     # mu "\"That’s a good idea for general traveling purposes.\""
     mu "“一般情况下是这样。”"
 
 # game/cliffroute3.rpy:1713
-translate Tchinese aftercliffint2_b50a621f:
+translate Schinese aftercliffint2_b50a621f:
 
     # "The fox narrowed his eyes."
     "狐狸眯起眼。"
 
 # game/cliffroute3.rpy:1715
-translate Tchinese aftercliffint2_2b48d1e2:
+translate Schinese aftercliffint2_2b48d1e2:
 
     # mu "\"But truth be told, I don’t think numbers will help anyone who runs across that thing.\""
     mu "“但说实话，我觉得以东西来说，数量是不管用的。”"
 
 # game/cliffroute3.rpy:1716
-translate Tchinese aftercliffint2_0fc86a49:
+translate Schinese aftercliffint2_0fc86a49:
 
     # m "\"So what will help?\""
     m "“那什么管用？”"
 
 # game/cliffroute3.rpy:1718
-translate Tchinese aftercliffint2_1403a60c:
+translate Schinese aftercliffint2_1403a60c:
 
     # "He taps his chin."
     "他轻点下巴。"
 
 # game/cliffroute3.rpy:1720
-translate Tchinese aftercliffint2_2721a605:
+translate Schinese aftercliffint2_2721a605:
 
     # mu "\"I don’t know.\""
     mu "“不知道。”"
 
 # game/cliffroute3.rpy:1721
-translate Tchinese aftercliffint2_294ba701:
+translate Schinese aftercliffint2_294ba701:
 
     # mu "\"I guess the pessimistic answer is two or more groups traveling at the same starting point in different directions, isn’t it?\""
     mu "“悲观点的话，就找两队以上的人马，同时往不同的方向出发吧？”"
 
 # game/cliffroute3.rpy:1722
-translate Tchinese aftercliffint2_79cf6714:
+translate Schinese aftercliffint2_79cf6714:
 
     # m "\"Jesus.\""
     m "“天哪。”"
 
 # game/cliffroute3.rpy:1724
-translate Tchinese aftercliffint2_50bc3e61:
+translate Schinese aftercliffint2_50bc3e61:
 
     # mu "\"Always another thing to try if you run out of options, but I don’t put much stock in it myself.\""
     mu "“这也是没有办法的办法，我不建议你这么做。”"
 
 # game/cliffroute3.rpy:1725
-translate Tchinese aftercliffint2_50b93c5f:
+translate Schinese aftercliffint2_50b93c5f:
 
     # mu "\"But maybe we’ll stumble upon something.\""
     mu "“不过嘛，就算跌倒，也能从另一个角度看待问题。”"
 
 # game/cliffroute3.rpy:1727
-translate Tchinese aftercliffint2_d8b90d38:
+translate Schinese aftercliffint2_d8b90d38:
 
     # mu "\"That is usually how we get the answers to most things, isn’t it?\""
     mu "“大多事情的答案不都是这样来的吗？”"
 
 # game/cliffroute3.rpy:1728
-translate Tchinese aftercliffint2_3a354dd5:
+translate Schinese aftercliffint2_3a354dd5:
 
     # m "\"Just make sure you stumble first and make sure to tell me what you learn before you bleed out.\""
     m "“只要你当摔倒的那个，然后在失血过多前告诉我答案，我就没意见。”"
 
 # game/cliffroute3.rpy:1730
-translate Tchinese aftercliffint2_2f3f0666:
+translate Schinese aftercliffint2_2f3f0666:
 
     # "He looks away and gives me a short military salute as he busies himself with his chemicals, and I slink out the doorway."
     "他別开头，行了个军礼，又把弄起化学药品来，而我则无声离开了房间。"
 
 # game/cliffroute3.rpy:1736
-translate Tchinese aftercliffint2_59ee9098:
+translate Schinese aftercliffint2_59ee9098:
 
     # "I ask directions to the few people wandering outside, only met with avoidant glances, head shakes, and quick words in a language I don’t understand."
     "我向外面几个路人打听方向，得到的却只有闪躲的眼神、摇头，以及听不懂的只言片语。"
 
 # game/cliffroute3.rpy:1737
-translate Tchinese aftercliffint2_634da32c:
+translate Schinese aftercliffint2_634da32c:
 
     # "A raccoon points me in one direction, where I run into a trading post."
     "一只浣熊给我指了个方向，我照路来到一个贸易站。"
 
 # game/cliffroute3.rpy:1738
-translate Tchinese aftercliffint2_f58b4b60:
+translate Schinese aftercliffint2_f58b4b60:
 
     # "The woman running it isn’t much help, stating that the inn is the only place travelers coming and going tend to be during their time here."
     "那里的老板娘没说太多，只说来到这里的旅人一般不会造访其他地方。"
 
 # game/cliffroute3.rpy:1744
-translate Tchinese aftercliffint2_e0216c05:
+translate Schinese aftercliffint2_e0216c05:
 
     # "I make my way around the boundaries of the reservation at least twice."
     "我绕着保留区的边界走了至少两圈。"
 
 # game/cliffroute3.rpy:1745
-translate Tchinese aftercliffint2_149e13a1:
+translate Schinese aftercliffint2_149e13a1:
 
     # "It’s getting dark by now."
     "入夜了。"
 
 # game/cliffroute3.rpy:1746
-translate Tchinese aftercliffint2_2eabb610:
+translate Schinese aftercliffint2_2eabb610:
 
     # "Men with guns leer at me from wooden outposts about six feet into the air."
     "拿着枪的人从至少六英尺高的木制哨塔上向我投来目光。"
 
 # game/cliffroute3.rpy:1747
-translate Tchinese aftercliffint2_e4c22600:
+translate Schinese aftercliffint2_e4c22600:
 
     # "I’m strange to them, no doubt, but they don’t pay me much mind for long."
     "他们一定觉得我是个怪人，但也没把我当回事。"
 
 # game/cliffroute3.rpy:1748
-translate Tchinese aftercliffint2_24ec740e:
+translate Schinese aftercliffint2_24ec740e:
 
     # "While the south side is gated in an arc of wooden posts, the north is completely unguarded."
     "南边的门被木桩围了起来，北边却毫无警备。"
 
 # game/cliffroute3.rpy:1749
-translate Tchinese aftercliffint2_e94a62e8:
+translate Schinese aftercliffint2_e94a62e8:
 
     # "It doesn’t take me long to see why."
     "原因很明显。"
 
 # game/cliffroute3.rpy:1751
-translate Tchinese aftercliffint2_f3e353ba:
+translate Schinese aftercliffint2_f3e353ba:
 
     # "The reservation is built upon a precipice, and its deep canyon is too steep to climb with ease, condsierin’ the rapids running below it."
     "保留区建在悬崖边，山谷又深又陡，底下还有湍流，难以攀爬。"
 
 # game/cliffroute3.rpy:1752
-translate Tchinese aftercliffint2_b43f28d1:
+translate Schinese aftercliffint2_b43f28d1:
 
     # "There’s an unguarded post with a flimsy wooden gate to the west, posted before a thick tree line."
     "西边有个无人看守的哨所，再往前则是深邃的树林。"
 
 # game/cliffroute3.rpy:1753
-translate Tchinese aftercliffint2_831bf6eb:
+translate Schinese aftercliffint2_831bf6eb:
 
     # "I walk past the post, unsure if it’s still a part of the settlement’s boundaries or not."
     "我穿过那扇弱不禁风的木门，不确定自己还在不在保留区內。"
 
 # game/cliffroute3.rpy:1754
-translate Tchinese aftercliffint2_146a1a29:
+translate Schinese aftercliffint2_146a1a29:
 
     # "The woods here is thick with pine trees, and the sounds of the rapids are louder."
     "林子里长满了茂密的松树，越往前走，湍流声越大。"
 
 # game/cliffroute3.rpy:1756
-translate Tchinese aftercliffint2_686b2e21:
+translate Schinese aftercliffint2_686b2e21:
 
     # "I should go back."
     "就在我想回去的时候-"
 
 # game/cliffroute3.rpy:1761
-translate Tchinese aftercliffint2_6da8b4ab:
+translate Schinese aftercliffint2_6da8b4ab:
 
     # "But I stop when I hear drums."
     "却被一阵鼓声拦下了。"
 
 # game/cliffroute3.rpy:1762
-translate Tchinese aftercliffint2_730f8388:
+translate Schinese aftercliffint2_730f8388:
 
     # "They’re steady, monotone beats."
     "平稳而有规律的鼓声。"
 
 # game/cliffroute3.rpy:1763
-translate Tchinese aftercliffint2_837a26f1:
+translate Schinese aftercliffint2_837a26f1:
 
     # "I see movement between the trees and see a procession of mostly adult Meseta, walking in a row with a man at the front shaking a rattle."
     "透过树木间隙，我看到一个大多由成年梅塞塔人所组成的队伍，最前方的男人摇着波浪鼓。"
 
 # game/cliffroute3.rpy:1764
-translate Tchinese aftercliffint2_9a5ce255:
+translate Schinese aftercliffint2_9a5ce255:
 
     # "But there’s also two others I recognize."
     "有两个人我认识。"
 
 # game/cliffroute3.rpy:1766
-translate Tchinese aftercliffint2_fe18da34:
+translate Schinese aftercliffint2_fe18da34:
 
     # "There’s Yiska, that Bear from the trip, hitting a drum."
     "路上遇见的那头熊，Yiska，正在击鼓。"
 
 # game/cliffroute3.rpy:1768
-translate Tchinese aftercliffint2_cffc1f57:
+translate Schinese aftercliffint2_cffc1f57:
 
     # "And then there’s Cliff."
     "Cliff也在。"
 
 # game/cliffroute3.rpy:1769
-translate Tchinese aftercliffint2_544dddbd:
+translate Schinese aftercliffint2_544dddbd:
 
     # "He’s walking behind them, silent and focused, stepping to the sound of the instrument, as the man in front of them all chants, beating the top of the drum."
     "他踩着乐器的节奏，和着人们的诵唱，专注而沉默地走在队伍末尾。"
 
 # game/cliffroute3.rpy:1773
-translate Tchinese aftercliffint2_bcfacda7:
+translate Schinese aftercliffint2_bcfacda7:
 
     # "It looks like they’re doing something informal, but they’re carrying bags of stuff, and the chanting and the rattling seem to imply otherwise."
     "不像什么正规仪式，但他们搬着一袋袋东西，诵唱与鼓声也很庄重。"
 
 # game/cliffroute3.rpy:1775
-translate Tchinese aftercliffint2_1db7ecc5:
+translate Schinese aftercliffint2_1db7ecc5:
 
     # "I jump when I hear another drum."
     "又一道鼓声吓了我一跳。"
 
 # game/cliffroute3.rpy:1779
-translate Tchinese aftercliffint2_858ee342:
+translate Schinese aftercliffint2_858ee342:
 
     # "This beat is coming from behind me."
     "是从我身后传来的。"
 
 # game/cliffroute3.rpy:1780
-translate Tchinese aftercliffint2_e7f2edd3:
+translate Schinese aftercliffint2_e7f2edd3:
 
     # "I see Tsela standing at a well, looking down to hit the drum with the palm of his hands."
     "我看见Tsela站在一口井边，低头以双掌拍鼓。"
 
 # game/cliffroute3.rpy:1783
-translate Tchinese aftercliffint2_10b55324:
+translate Schinese aftercliffint2_10b55324:
 
     # "He looks up and stops playing when he notices me looking back."
     "发现我后，他抬起头来，停下了手里的动作。"
 
 # game/cliffroute3.rpy:1784
-translate Tchinese aftercliffint2_05d6c686:
+translate Schinese aftercliffint2_05d6c686:
 
     # m "\"What’s going on?\""
     m "“这是在做什么？”"
 
 # game/cliffroute3.rpy:1787
-translate Tchinese aftercliffint2_b0cf284b:
+translate Schinese aftercliffint2_b0cf284b:
 
     # "His eyes narrow and he goes back to beating the drum."
     "他眯起眼睛，再度击鼓。"
 
 # game/cliffroute3.rpy:1789
-translate Tchinese aftercliffint2_8f0ba31d:
+translate Schinese aftercliffint2_8f0ba31d:
 
     # ts "\"A disagreement is playing out.\""
     ts "“发生了一点摩擦。”"
 
 # game/cliffroute3.rpy:1792
-translate Tchinese aftercliffint2_63cef660:
+translate Schinese aftercliffint2_63cef660:
 
     # ts "\"Nothing to concern yourself with.\""
     ts "“不用你担心。”"
 
 # game/cliffroute3.rpy:1794
-translate Tchinese aftercliffint2_094a0193:
+translate Schinese aftercliffint2_094a0193:
 
     # "He let out a string of chants, then started to play his drum again."
     "他每诵唱一句，便随之击鼓。"
 
 # game/cliffroute3.rpy:1795
-translate Tchinese aftercliffint2_c068d6f1:
+translate Schinese aftercliffint2_c068d6f1:
 
     # "Another group of men passed by, some carrying pillows."
     "一群人带着几个枕头的人经过。"
 
 # game/cliffroute3.rpy:1796
-translate Tchinese aftercliffint2_8e7740b0:
+translate Schinese aftercliffint2_8e7740b0:
 
     # "Another, a paper lamp with wooden siding that had leaves whittled out of it."
     "还有个削去了叶片的木框纸灯。"
 
 # game/cliffroute3.rpy:1797
-translate Tchinese aftercliffint2_fd883bb2:
+translate Schinese aftercliffint2_fd883bb2:
 
     # m "\"Where are they taking all of that stuff?\""
     m "“他们要带那些东西去哪？”"
 
 # game/cliffroute3.rpy:1799
-translate Tchinese aftercliffint2_2ac23bce:
+translate Schinese aftercliffint2_2ac23bce:
 
     # ts "\"They’re burying Shilah’s things.\""
     ts "“去埋葬Shilah的所有物。”"
 
 # game/cliffroute3.rpy:1802
-translate Tchinese aftercliffint2_c25e3582:
+translate Schinese aftercliffint2_c25e3582:
 
     # m "\"Who?\""
     m "“谁？”"
 
 # game/cliffroute3.rpy:1804
-translate Tchinese aftercliffint2_4797100d:
+translate Schinese aftercliffint2_4797100d:
 
     # ts "\"He was our other companion.\""
     ts "“我们曾经的同伴。”"
 
 # game/cliffroute3.rpy:1807
-translate Tchinese aftercliffint2_3e48d73b:
+translate Schinese aftercliffint2_3e48d73b:
 
     # ts "\"On the hunting trip.\""
     ts "“卒于狩猎之道。”"
 
 # game/cliffroute3.rpy:1809
-translate Tchinese aftercliffint2_21910d93:
+translate Schinese aftercliffint2_21910d93:
 
     # "I think back and remember that they had mentioned traveling with another person."
     "我回想了一下，他们的确说过还有一个人。"
 
 # game/cliffroute3.rpy:1810
-translate Tchinese aftercliffint2_915e3559:
+translate Schinese aftercliffint2_915e3559:
 
     # m "\"Is this a funeral?\""
     m "“这是葬礼吗？”"
 
 # game/cliffroute3.rpy:1812
-translate Tchinese aftercliffint2_dcee4954:
+translate Schinese aftercliffint2_dcee4954:
 
     # ts "\"Not in your Christian sense, no.\""
     ts "“不是，和你们基督教不同。”"
 
 # game/cliffroute3.rpy:1815
-translate Tchinese aftercliffint2_b9198ad2:
+translate Schinese aftercliffint2_b9198ad2:
 
     # ts "\"We bury the lost, but we don’t hold funerals.\""
     ts "“我们会埋葬逝者，但不举办葬礼。”"
 
 # game/cliffroute3.rpy:1818
-translate Tchinese aftercliffint2_4cffd0db:
+translate Schinese aftercliffint2_4cffd0db:
 
     # ts "\"Shilah’s body is something we could not recover.\""
     ts "“我们找不回Shilah的尸首。”"
 
 # game/cliffroute3.rpy:1820
-translate Tchinese aftercliffint2_fe3f4ab6:
+translate Schinese aftercliffint2_fe3f4ab6:
 
     # m "\"...Couldn’t his family reuse his things?\""
     m "“...他的家人可以留着那些遗物啊？”"
 
 # game/cliffroute3.rpy:1821
-translate Tchinese aftercliffint2_341e5256:
+translate Schinese aftercliffint2_341e5256:
 
     # m "\"I don’t see the point in burying them.\""
     m "“何必要埋起来呢？”"
 
 # game/cliffroute3.rpy:1823
-translate Tchinese aftercliffint2_541b6089:
+translate Schinese aftercliffint2_541b6089:
 
     # ts "\"If they aren’t with the dead, then he might come looking for them.\""
     ts "“如果不在死者身旁，他可能会回来寻找。”"
 
 # game/cliffroute3.rpy:1825
-translate Tchinese aftercliffint2_51689b0d:
+translate Schinese aftercliffint2_51689b0d:
 
     # m "\"You mean like a ghost?\""
     m "“变成鬼吗？”"
 
 # game/cliffroute3.rpy:1827
-translate Tchinese aftercliffint2_30b64e2f:
+translate Schinese aftercliffint2_30b64e2f:
 
     # ts "\"I mean exactly a ghost.\""
     ts "“没错。”"
 
 # game/cliffroute3.rpy:1829
-translate Tchinese aftercliffint2_46d09626:
+translate Schinese aftercliffint2_46d09626:
 
     # m "\"I just ain’t ever heard of a ghost coming back to get his things.\""
     m "“真是新鲜的说法。”"
 
 # game/cliffroute3.rpy:1830
-translate Tchinese aftercliffint2_20625f6e:
+translate Schinese aftercliffint2_20625f6e:
 
     # m "\"People pass down the things they use all the time.\""
     m "“我们喜欢把东西传承下去。”"
 
 # game/cliffroute3.rpy:1831
-translate Tchinese aftercliffint2_29c110ea:
+translate Schinese aftercliffint2_29c110ea:
 
     # m "\"Never really saw one come back for their coat racks and griddles.\""
     m "“从没听哪家鬼回来找衣架或煎锅的。”"
 
 # game/cliffroute3.rpy:1833
-translate Tchinese aftercliffint2_44bf31fe:
+translate Schinese aftercliffint2_44bf31fe:
 
     # ts "\"Perhaps this is because your culture surrounds you with tortured spirits so often you have lost the ability to notice them, or how they make you ill.\""
     ts "“或许正因为如此，你们才反复高唱灵魂会受苦受难，导致无法再感受到祂们或祂们所招致的疾病。”"
 
 # game/cliffroute3.rpy:1835
-translate Tchinese aftercliffint2_b87a5973:
+translate Schinese aftercliffint2_b87a5973:
 
     # "I chuff."
     "我冷哼一声。"
 
 # game/cliffroute3.rpy:1836
-translate Tchinese aftercliffint2_f46f3c39:
+translate Schinese aftercliffint2_f46f3c39:
 
     # m "\"Ill in what sense?\""
     m "“疾病又是什么意思？”"
 
 # game/cliffroute3.rpy:1838
-translate Tchinese aftercliffint2_34d04922:
+translate Schinese aftercliffint2_34d04922:
 
     # ts "\"In spirit and body.\""
     ts "“精神和身体上的。”"
 
 # game/cliffroute3.rpy:1841
-translate Tchinese aftercliffint2_8088096e:
+translate Schinese aftercliffint2_8088096e:
 
     # ts "\"Your people have a bad relationship with the air and soil.\""
     ts "“你们的人跟空气与土壤的关系不合。”"
 
 # game/cliffroute3.rpy:1843
-translate Tchinese aftercliffint2_eed51b0b:
+translate Schinese aftercliffint2_eed51b0b:
 
     # m "\"I stopped going to church because people kept guilting me there, too.\""
     m "“我不再去教堂，也是因为那里的人会宣称我有罪。”"
 
 # game/cliffroute3.rpy:1845
-translate Tchinese aftercliffint2_48e2497b:
+translate Schinese aftercliffint2_48e2497b:
 
     # ts "\"Do not compare my people to your fantasies of world molded in your image.\""
     ts "“別把我们和你们自我幻想的世界相提并论。”"
 
 # game/cliffroute3.rpy:1847
-translate Tchinese aftercliffint2_61bc383b:
+translate Schinese aftercliffint2_61bc383b:
 
     # m "\"Didn’t mean offense.\""
     m "“无意冒犯。”"
 
 # game/cliffroute3.rpy:1848
-translate Tchinese aftercliffint2_f2fa7beb:
+translate Schinese aftercliffint2_f2fa7beb:
 
     # m "\"I’m just struggling to think of what makes somebody like you much different from the preacher who’d always tell me to pray more and do better in the eyes of the Lord.\""
     m "“不过我真的很难理解，你这样的人跟一直叫我祷告、叫我向上帝展现良善的牧师有什么不同。”"
 
 # game/cliffroute3.rpy:1850
-translate Tchinese aftercliffint2_b45b1116:
+translate Schinese aftercliffint2_b45b1116:
 
     # ts "\"The difference is that your people bend the world into your own image.\""
     ts "“区别在于，你们的人会把世界扭曲成自己想要的模样。”"
 
 # game/cliffroute3.rpy:1852
-translate Tchinese aftercliffint2_af7399d8:
+translate Schinese aftercliffint2_af7399d8:
 
     # m "\"I’d appreciate if you stopped saying {i}‘your people’{/i}.\""
     m "“算我求你了，別再说{b}‘你们的人’{/b}了。”"
 
 # game/cliffroute3.rpy:1853
-translate Tchinese aftercliffint2_820d3ae7:
+translate Schinese aftercliffint2_820d3ae7:
 
     # m "\"I don’t exactly claim any of this.\""
     m "“那些又不是我的主张。”"
 
 # game/cliffroute3.rpy:1855
-translate Tchinese aftercliffint2_a1033875:
+translate Schinese aftercliffint2_a1033875:
 
     # "A shadow of doubt crossed the kit fox’s face."
     "沙狐的脸闪过一丝疑惑。"
 
 # game/cliffroute3.rpy:1857
-translate Tchinese aftercliffint2_c86e14ed:
+translate Schinese aftercliffint2_c86e14ed:
 
     # ts "\"Then what exactly do you claim?\""
     ts "“那你主张什么？”"
 
 # game/cliffroute3.rpy:1860
-translate Tchinese aftercliffint2_b4ef3008:
+translate Schinese aftercliffint2_b4ef3008:
 
     # ts "\"What are your roots?\""
     ts "“你的根基是什么？”"
 
 # game/cliffroute3.rpy:1862
-translate Tchinese aftercliffint2_90848692:
+translate Schinese aftercliffint2_90848692:
 
     # "I stop and think for a bit."
     "我思考起来。"
 
 # game/cliffroute3.rpy:1863
-translate Tchinese aftercliffint2_47bfb26b:
+translate Schinese aftercliffint2_47bfb26b:
 
     # m "\"I guess I don’t know.\""
     m "“我也不清楚。”"
 
 # game/cliffroute3.rpy:1865
-translate Tchinese aftercliffint2_68917d14:
+translate Schinese aftercliffint2_68917d14:
 
     # ts "\"What do you mean you don’t know?\""
     ts "“什么叫不清楚？”"
 
 # game/cliffroute3.rpy:1867
-translate Tchinese aftercliffint2_cc9285ef:
+translate Schinese aftercliffint2_cc9285ef:
 
     # m "\"My parents didn’t know where we come from.\""
     m "“连我爸妈都不知道我们是哪里人。”"
 
 # game/cliffroute3.rpy:1868
-translate Tchinese aftercliffint2_7693bc61:
+translate Schinese aftercliffint2_7693bc61:
 
     # m "\"If my grandparents knew they never told.\""
     m "“就算我祖父母知道，他们也没说过。”"
 
 # game/cliffroute3.rpy:1869
-translate Tchinese aftercliffint2_ee720140:
+translate Schinese aftercliffint2_ee720140:
 
     # m "\"We followed and the law and the religion of our township, but that place and my family is practically dead to me.\""
     m "“我们遵守镇上的法律与信仰。但在我看来，那个地方和我的家人都跟死了没两样。”"
 
 # game/cliffroute3.rpy:1871
-translate Tchinese aftercliffint2_6172ce7c:
+translate Schinese aftercliffint2_6172ce7c:
 
     # ts "\"Yet you still claim Christendom without its congregations?\""
     ts "“你明明不去教会，却还自认为是基督徒？”"
 
 # game/cliffroute3.rpy:1873
-translate Tchinese aftercliffint2_b8d48463:
+translate Schinese aftercliffint2_b8d48463:
 
     # m "\"I guess.\""
     m "“差不多。”"
 
 # game/cliffroute3.rpy:1875
-translate Tchinese aftercliffint2_391ba24a:
+translate Schinese aftercliffint2_391ba24a:
 
     # ts "\"So you choose to bear the weight of a movement without knowing its impact on others?\""
     ts "“所以你不懂那宗教带来的影响，只是将它背负在身上？”"
 
 # game/cliffroute3.rpy:1878
-translate Tchinese aftercliffint2_0c548c55:
+translate Schinese aftercliffint2_0c548c55:
 
     # ts "\"You stumble in the dark, then.\""
     ts "“前途一片昏暗啊。”"
 
 # game/cliffroute3.rpy:1881
-translate Tchinese aftercliffint2_9eec08c1:
+translate Schinese aftercliffint2_9eec08c1:
 
     # ts "\"Hardly surprising.\""
     ts "“不意外。”"
 
 # game/cliffroute3.rpy:1883
-translate Tchinese aftercliffint2_14bd6e5e:
+translate Schinese aftercliffint2_14bd6e5e:
 
     # m "\"I still don’t see what make your faith so much better or different than mine.\""
     m "“我还是想不通，你们的信仰怎么就比我的好或不同了。”"
 
 # game/cliffroute3.rpy:1885
-translate Tchinese aftercliffint2_acceaf63:
+translate Schinese aftercliffint2_acceaf63:
 
     # ts "\"That’s apparent.\""
     ts "“很明显。”"
 
 # game/cliffroute3.rpy:1887
-translate Tchinese aftercliffint2_668393c7:
+translate Schinese aftercliffint2_668393c7:
 
     # ts "\"Our faith emphasizes the importance of noticing everybody’s role in the balance of everything.\""
     ts "“我们的信仰强调要顺应世间自然。”"
 
 # game/cliffroute3.rpy:1890
-translate Tchinese aftercliffint2_45f9d7fa:
+translate Schinese aftercliffint2_45f9d7fa:
 
     # ts "\"Not establishing dominion.\""
     ts "“而不是建立统治。”"
 
 # game/cliffroute3.rpy:1893
-translate Tchinese aftercliffint2_2d896672:
+translate Schinese aftercliffint2_2d896672:
 
     # ts "\"It’s the difference between speaking and listening.\""
     ts "“就像说话与聆听的差別。”"
 
 # game/cliffroute3.rpy:1896
-translate Tchinese aftercliffint2_60dc7571:
+translate Schinese aftercliffint2_60dc7571:
 
     # ts "\"Or like seeing the way a river flows, and taking the fish that you need from the current instead of building a dam to control where the fish must swim.\""
     ts "“或顺着河水的流向捕鱼，而不是建造限制魚群游动的水坝。”"
 
 # game/cliffroute3.rpy:1898
-translate Tchinese aftercliffint2_50124b33:
+translate Schinese aftercliffint2_50124b33:
 
     # m "\"What’s wrong with building a dam?\""
     m "“建水坝有哪里不好吗？”"
 
 # game/cliffroute3.rpy:1899
-translate Tchinese aftercliffint2_3b9098b0:
+translate Schinese aftercliffint2_3b9098b0:
 
     # "He twitches."
     "他眼睛抽搐了下。"
 
 # game/cliffroute3.rpy:1901
-translate Tchinese aftercliffint2_92aed735:
+translate Schinese aftercliffint2_92aed735:
 
     # ts "\"There’s nothing wrong with building a dam.\""
     ts "“没什么不好。”"
 
 # game/cliffroute3.rpy:1904
-translate Tchinese aftercliffint2_956b8ea1:
+translate Schinese aftercliffint2_956b8ea1:
 
     # ts "\"It was just an analogy.\""
     ts "“这只是个比喻。”"
 
 # game/cliffroute3.rpy:1906
-translate Tchinese aftercliffint2_1f228d29_1:
+translate Schinese aftercliffint2_1f228d29_1:
 
     # m "\"Okay.\""
     m "“好吧。”"
 
 # game/cliffroute3.rpy:1907
-translate Tchinese aftercliffint2_cb432169:
+translate Schinese aftercliffint2_cb432169:
 
     # m "\"This is stressing me out.\""
     m "“你说得我头都大了。”"
 
 # game/cliffroute3.rpy:1908
-translate Tchinese aftercliffint2_b76b6a92:
+translate Schinese aftercliffint2_b76b6a92:
 
     # "His lip curls down."
     "他嘴角沉了下来。"
 
 # game/cliffroute3.rpy:1909
-translate Tchinese aftercliffint2_ca41584e:
+translate Schinese aftercliffint2_ca41584e:
 
     # m "\"You got a lighter?\""
     m "“你有打火机吗？”"
 
 # game/cliffroute3.rpy:1911
-translate Tchinese aftercliffint2_767fc54f:
+translate Schinese aftercliffint2_767fc54f:
 
     # "He relaxes his face and looks away from me while he pulls something silver from his pocket."
     "他表情缓和了些，从口袋里取出一个银白色的东西。"
 
 # game/cliffroute3.rpy:1913
-translate Tchinese aftercliffint2_57fa1836:
+translate Schinese aftercliffint2_57fa1836:
 
     # ts "\"...sure.\""
     ts "“...有。”"
 
 # game/cliffroute3.rpy:1915
-translate Tchinese aftercliffint2_eaa2b196:
+translate Schinese aftercliffint2_eaa2b196:
 
     # "I take out one of the cigarettes I’ve been holding onto from my pocket and lean my head towards him."
     "我掏出随身携带着其中的一支烟，把头湊近他。"
 
 # game/cliffroute3.rpy:1917
-translate Tchinese aftercliffint2_7103544c:
+translate Schinese aftercliffint2_7103544c:
 
     # "He flips it open deftly and retreats it almost immediately after the first spark and the first catch of burnt paper."
     "他熟练地打开盖子，看到烟上冒火星后又马上抽回。"
 
 # game/cliffroute3.rpy:1919
-translate Tchinese aftercliffint2_1dfc7b4e:
+translate Schinese aftercliffint2_1dfc7b4e:
 
     # m "\"Thanks.\""
     m "“谢了。”"
 
 # game/cliffroute3.rpy:1921
-translate Tchinese aftercliffint2_8a523ee3:
+translate Schinese aftercliffint2_8a523ee3:
 
     # "He doesn’t answer, but he puts the lighter away."
     "他没有回答，只是收回打火机。"
 
 # game/cliffroute3.rpy:1923
-translate Tchinese aftercliffint2_89825a53:
+translate Schinese aftercliffint2_89825a53:
 
     # "I inhale the smoke, hold it, and then let it all out."
     "我深吸一口烟，憋了好一会儿才吐出去。"
 
 # game/cliffroute3.rpy:1924
-translate Tchinese aftercliffint2_03fb57bd:
+translate Schinese aftercliffint2_03fb57bd:
 
     # m "\"Anyway, you were saying something about an argument.\""
     m "“说起来，你刚刚提到了摩擦。”"
 
 # game/cliffroute3.rpy:1925
-translate Tchinese aftercliffint2_c283e92f:
+translate Schinese aftercliffint2_c283e92f:
 
     # m "\"What’s it about?\""
     m "“怎么了吗？”"
 
 # game/cliffroute3.rpy:1926
-translate Tchinese aftercliffint2_068f4ee7:
+translate Schinese aftercliffint2_068f4ee7:
 
     # "I gesture in the direction of the marching procession."
     "我指向队伍。"
 
 # game/cliffroute3.rpy:1928
-translate Tchinese aftercliffint2_0946032d:
+translate Schinese aftercliffint2_0946032d:
 
     # m "\"I thought this kind of stuff wasn’t allowed here, anyway.\""
     m "“我还以为在这里不能做这种事。”"
 
 # game/cliffroute3.rpy:1930
-translate Tchinese aftercliffint2_7f57f231:
+translate Schinese aftercliffint2_7f57f231:
 
     # ts "\"The clergy doesn’t care as much about the older generation does.\""
     ts "“那个神父跟老一辈不同，不是很在乎。”"
 
 # game/cliffroute3.rpy:1933
-translate Tchinese aftercliffint2_1130f079:
+translate Schinese aftercliffint2_1130f079:
 
     # ts "\"They know that we’ll be more cooperative if they let us practice, and they’re letting time and dogma do the rest of the work.\""
     ts "“为了安抚我们，他们愿意让我们举行仪式。至于剩下的工作，他们都交给时间和教义了。”"
 
 # game/cliffroute3.rpy:1935
-translate Tchinese aftercliffint2_d028a4e2:
+translate Schinese aftercliffint2_d028a4e2:
 
     # m "\"You seem a lot angrier than your friend.\""
     m "“总感觉你比你朋友还暴躁。”"
 
 # game/cliffroute3.rpy:1936
-translate Tchinese aftercliffint2_f0d332cc:
+translate Schinese aftercliffint2_f0d332cc:
 
     # "The bear in the distance hops as he beats his drum."
     "远处的熊随鼓声而跃步。"
 
 # game/cliffroute3.rpy:1938
-translate Tchinese aftercliffint2_334f3e36:
+translate Schinese aftercliffint2_334f3e36:
 
     # ts "\"Yiska is not troubled by present, or by the future.\""
     ts "“Yiska不为当下或未来所困。”"
 
 # game/cliffroute3.rpy:1941
-translate Tchinese aftercliffint2_31bf06fd:
+translate Schinese aftercliffint2_31bf06fd:
 
     # ts "\"He lives happily that way.\""
     ts "“就这样开心地活着。”"
 
 # game/cliffroute3.rpy:1944
-translate Tchinese aftercliffint2_33ac90fc:
+translate Schinese aftercliffint2_33ac90fc:
 
     # ts "\"He is a very harmonious person.\""
     ts "“是一个非常和谐的人。”"
 
 # game/cliffroute3.rpy:1947
-translate Tchinese aftercliffint2_ebd5efcb:
+translate Schinese aftercliffint2_ebd5efcb:
 
     # ts "\"This is why he leads the first night of this blessingway.\""
     ts "“所以他才会领导第一晚的祈福仪式。”"
 
 # game/cliffroute3.rpy:1949
-translate Tchinese aftercliffint2_f2fea95d:
+translate Schinese aftercliffint2_f2fea95d:
 
     # m "\"What’s that?\""
     m "“啥意思？”"
 
 # game/cliffroute3.rpy:1951
-translate Tchinese aftercliffint2_177a6e7a:
+translate Schinese aftercliffint2_177a6e7a:
 
     # ts "\"Mostly what it sounds like.\""
     ts "“字面意思。”"
 
 # game/cliffroute3.rpy:1954
-translate Tchinese aftercliffint2_00868a64:
+translate Schinese aftercliffint2_00868a64:
 
     # ts "\"But he would do better, at times, to recognize that we are surrounded by enemies and bad spirits.\""
     ts "“他做得很不错，但如果能认识到我们周遭还有许多敌人与恶灵就更好了。”"
 
 # game/cliffroute3.rpy:1957
-translate Tchinese aftercliffint2_bcc30502:
+translate Schinese aftercliffint2_bcc30502:
 
     # ts "\"Like the spirit we encountered in the woods who spilled blood.\""
     ts "“比如我们在森林里遇到的那个嗜血的魔物。”"
 
 # game/cliffroute3.rpy:1960
-translate Tchinese aftercliffint2_afd1642a:
+translate Schinese aftercliffint2_afd1642a:
 
     # ts "\"And the priest.\""
     ts "“和那个牧师。”"
 
 # game/cliffroute3.rpy:1963
-translate Tchinese aftercliffint2_b8c3af99:
+translate Schinese aftercliffint2_b8c3af99:
 
     # ts "\"And you and the other strangers.\""
     ts "“还有你跟其他异乡人。”"
 
 # game/cliffroute3.rpy:1965
-translate Tchinese aftercliffint2_e951f58c:
+translate Schinese aftercliffint2_e951f58c:
 
     # m "\"I’m sorry I exist.\""
-    m "“出现在你眼前我很抱歉。”"
+    m "“碍了你的眼，我很抱歉。”"
 
 # game/cliffroute3.rpy:1967
-translate Tchinese aftercliffint2_bba6bdde:
+translate Schinese aftercliffint2_bba6bdde:
 
     # ts "\"Me too.\""
     ts "“我同意。”"
 
 # game/cliffroute3.rpy:1970
-translate Tchinese aftercliffint2_ce65f685:
+translate Schinese aftercliffint2_ce65f685:
 
     # ts "\"But at least it is not your fault.\""
     ts "“但至少错不在你。”"
 
 # game/cliffroute3.rpy:1972
-translate Tchinese aftercliffint2_659f2752:
+translate Schinese aftercliffint2_659f2752:
 
     # "I rub my temple."
     "我揉了揉太阳穴。"
 
 # game/cliffroute3.rpy:1974
-translate Tchinese aftercliffint2_c1adc7ca:
+translate Schinese aftercliffint2_c1adc7ca:
 
     # ts "\"The enemyway is a different sort of practice.\""
-    ts "“驱敌仪式则不同。”"
+    ts "“驱邪仪式则不同。”"
 
 # game/cliffroute3.rpy:1977
-translate Tchinese aftercliffint2_69afed6b:
+translate Schinese aftercliffint2_69afed6b:
 
     # ts "\"It keeps the dead away.\""
     ts "“能够抵御死者。”"
 
 # game/cliffroute3.rpy:1980
-translate Tchinese aftercliffint2_62d0df9a:
+translate Schinese aftercliffint2_62d0df9a:
 
     # ts "\"The unnatural things that plagues us.\""
     ts "“以及对我们作祟的超自然存在。”"
 
 # game/cliffroute3.rpy:1982
-translate Tchinese aftercliffint2_c9dc6d41:
+translate Schinese aftercliffint2_c9dc6d41:
 
     # m "\"And does it work?\""
     m "“这有用吗？”"
 
 # game/cliffroute3.rpy:1984
-translate Tchinese aftercliffint2_a30436da:
+translate Schinese aftercliffint2_a30436da:
 
     # ts "\"Of course it works.\""
     ts "“当然有用。”"
 
 # game/cliffroute3.rpy:1986
-translate Tchinese aftercliffint2_aa2f64bc:
+translate Schinese aftercliffint2_aa2f64bc:
 
     # m "\"Uh huh.\""
     m "“是喔。”"
 
 # game/cliffroute3.rpy:1987
-translate Tchinese aftercliffint2_e06ab3a9:
+translate Schinese aftercliffint2_e06ab3a9:
 
     # "Why is everybody always so confident about these sorts of things?"
     "怎么一到这种时候，大家就都言之凿凿的？"
 
 # game/cliffroute3.rpy:1988
-translate Tchinese aftercliffint2_c2455e62:
+translate Schinese aftercliffint2_c2455e62:
 
     # "Wouldn’t everybody be doing these things if they worked?"
     "真有用的话就早点干啊？"
 
 # game/cliffroute3.rpy:1989
-translate Tchinese aftercliffint2_b9d91339:
+translate Schinese aftercliffint2_b9d91339:
 
     # "Then again... I’ve never needed this degree of spiritual protection before I came to Echo."
     "虽然...我是到了回音镇之后，才需要这种程度的保护的。"
 
 # game/cliffroute3.rpy:1990
-translate Tchinese aftercliffint2_3c5b9401:
+translate Schinese aftercliffint2_3c5b9401:
 
     # "Maybe just faith in something is enough to make a difference."
     "或许是因为他们的信仰过于虔诚。"
 
 # game/cliffroute3.rpy:1991
-translate Tchinese aftercliffint2_993c6cb9:
+translate Schinese aftercliffint2_993c6cb9:
 
     # "Or maybe I just keep running into prideful individuals."
     "也可能只是我碰见的人都很自傲。"
 
 # game/cliffroute3.rpy:1993
-translate Tchinese aftercliffint2_36cb5710:
+translate Schinese aftercliffint2_36cb5710:
 
     # m "\"Show me then.\""
     m "“证明给我看。”"
 
 # game/cliffroute3.rpy:1995
-translate Tchinese aftercliffint2_5c9b13d2:
+translate Schinese aftercliffint2_5c9b13d2:
 
     # "He glares at me a bit, then puts the drum beneath his arm."
     "他瞥了我一眼，把鼓夹在腋下。"
 
 # game/cliffroute3.rpy:1997
-translate Tchinese aftercliffint2_565e9f76:
+translate Schinese aftercliffint2_565e9f76:
 
     # ts "\"Not possible.\""
     ts "“不可能。”"
 
 # game/cliffroute3.rpy:2000
-translate Tchinese aftercliffint2_e21873cc:
+translate Schinese aftercliffint2_e21873cc:
 
     # ts "\"But I can show you parts.\""
     ts "“不过我可以向你透露一些。”"
 
 # game/cliffroute3.rpy:2002
-translate Tchinese aftercliffint2_b00fcb3b:
+translate Schinese aftercliffint2_b00fcb3b:
 
     # "He jerks his head in a direction into the woods."
     "他用头示意了一个方向。"
 
 # game/cliffroute3.rpy:2009
-translate Tchinese aftercliffint2_c008e4b6:
+translate Schinese aftercliffint2_c008e4b6:
 
     # "I follow him a little deeper until we come across a glade with another bonfire."
     "我跟着他稍微深入树林，来到一处有篝火的空地。"
 
 # game/cliffroute3.rpy:2011
-translate Tchinese aftercliffint2_2e1b3a36:
+translate Schinese aftercliffint2_2e1b3a36:
 
     # ts "\"Most of what I can show will not bear the same meaning or sentiment to an outsider, so you won’t get much out of this.\""
     ts "“我能展示出来的大部分内容，想必不会引起外乡人的共鸣，所以对你来说意义不大。”"
 
 # game/cliffroute3.rpy:2014
-translate Tchinese aftercliffint2_ab6af4de:
+translate Schinese aftercliffint2_ab6af4de:
 
     # "He starts beating his drum with one hand, then the other, in a steady beat."
     "他两手交替拍鼓。"
 
 # game/cliffroute3.rpy:2016
-translate Tchinese aftercliffint2_58f09625:
+translate Schinese aftercliffint2_58f09625:
 
     # ts "\"When warriors return to their families, there’s always the risk of bring back ghosts with them.\""
     ts "“战士归家时，也有将鬼魂一并带回的风险。”"
 
 # game/cliffroute3.rpy:2019
-translate Tchinese aftercliffint2_a673325e:
+translate Schinese aftercliffint2_a673325e:
 
     # "Then he stops again."
     "他停下动作。"
 
 # game/cliffroute3.rpy:2021
-translate Tchinese aftercliffint2_f9ab5256:
+translate Schinese aftercliffint2_f9ab5256:
 
     # ts "\"The first reason why this isn’t possible is that the ceremony doesn’t take place in one location or one night.\""
     ts "“我说不可能的第一个原因，是这个仪式並不只在一个地点举行，也不只一天。”"
 
 # game/cliffroute3.rpy:2024
-translate Tchinese aftercliffint2_892742fe:
+translate Schinese aftercliffint2_892742fe:
 
     # ts "\"It can take part for nine nights, alongside many other rituals.\""
     ts "“可能为期九天，期间还穿插着很多其他仪式。”"
 
 # game/cliffroute3.rpy:2027
-translate Tchinese aftercliffint2_60778282:
+translate Schinese aftercliffint2_60778282:
 
     # ts "\"We paint the sand with dry pigment, we sing, we pray...\""
     ts "“我们会用干燥的颜料在沙地上作画、歌诵、祷告...”"
 
 # game/cliffroute3.rpy:2030
-translate Tchinese aftercliffint2_9653d624:
+translate Schinese aftercliffint2_9653d624:
 
     # ts "\"And many bear the responsibility of moving the rattle we make from one site to another.\""
     ts "“光是把拨浪鼓从一个地方搬到另一个地方的人都有不少。”"
 
 # game/cliffroute3.rpy:2032
-translate Tchinese aftercliffint2_24093039:
+translate Schinese aftercliffint2_24093039:
 
     # m "\"That sounds time consuming.\""
     m "“听起来很费时间。”"
 
 # game/cliffroute3.rpy:2034
-translate Tchinese aftercliffint2_4409f887:
+translate Schinese aftercliffint2_4409f887:
 
     # ts "\"Our community loses much more than time when we start to neglect this ritual.\""
     ts "“若不重视仪式，我们部落损失的可就不只是时间了。”"
 
 # game/cliffroute3.rpy:2037
-translate Tchinese aftercliffint2_d9993007:
+translate Schinese aftercliffint2_d9993007:
 
     # ts "\"Shilah was a warrior.\""
     ts "“Shilah是一名战士。”"
 
 # game/cliffroute3.rpy:2040
-translate Tchinese aftercliffint2_6ced718b:
+translate Schinese aftercliffint2_6ced718b:
 
     # ts "\"So are we.\""
     ts "“我们也是。”"
 
 # game/cliffroute3.rpy:2042
-translate Tchinese aftercliffint2_5dc7196f:
+translate Schinese aftercliffint2_5dc7196f:
 
     # "He’s really unloading this all on me."
     "他还真是有话直说。"
 
 # game/cliffroute3.rpy:2043
-translate Tchinese aftercliffint2_d4e2ee0c:
+translate Schinese aftercliffint2_d4e2ee0c:
 
     # m "\"You know...\""
     m "“其实...”"
 
 # game/cliffroute3.rpy:2044
-translate Tchinese aftercliffint2_f2b9fa8d:
+translate Schinese aftercliffint2_f2b9fa8d:
 
     # m "\"That little stoat fellah road all the way across the sea just to hear about stuff like this.\""
     m "“那个鼬伙计不远万里而来，就是想听这些故事。”"
 
 # game/cliffroute3.rpy:2046
-translate Tchinese aftercliffint2_752e53c2:
+translate Schinese aftercliffint2_752e53c2:
 
     # "He leers at me."
     "他凝视着我。"
 
 # game/cliffroute3.rpy:2048
-translate Tchinese aftercliffint2_ef1dbf2a:
+translate Schinese aftercliffint2_ef1dbf2a:
 
     # ts "\"Yes.\""
     ts "“没错。”"
 
 # game/cliffroute3.rpy:2051
-translate Tchinese aftercliffint2_257f4daf:
+translate Schinese aftercliffint2_257f4daf:
 
     # ts "\"So he can bring it back across the sea.\""
     ts "“好把它带回海的另一边。”"
 
 # game/cliffroute3.rpy:2053
-translate Tchinese aftercliffint2_8619f2c6:
+translate Schinese aftercliffint2_8619f2c6:
 
     # "I shrug."
     "我耸耸肩。"
 
 # game/cliffroute3.rpy:2054
-translate Tchinese aftercliffint2_950c7b8b:
+translate Schinese aftercliffint2_950c7b8b:
 
     # m "\"So?\""
     m "“所以呢？”"
 
 # game/cliffroute3.rpy:2056
-translate Tchinese aftercliffint2_e9b5af62:
+translate Schinese aftercliffint2_e9b5af62:
 
     # ts "\"He’s a thief.\""
     ts "“他是个小偷。”"
 
 # game/cliffroute3.rpy:2058
-translate Tchinese aftercliffint2_1c8a6fbc:
+translate Schinese aftercliffint2_1c8a6fbc:
 
     # m "\"Of what, exactly?\""
     m "“偷了什么？”"
 
 # game/cliffroute3.rpy:2060
-translate Tchinese aftercliffint2_2662906e:
+translate Schinese aftercliffint2_2662906e:
 
     # ts "\"Of spirit and knowledge.\""
     ts "“精神和知识。”"
 
 # game/cliffroute3.rpy:2062
-translate Tchinese aftercliffint2_375a05da:
+translate Schinese aftercliffint2_375a05da:
 
     # m "\"So then what about me?\""
     m "“那我呢？”"
 
 # game/cliffroute3.rpy:2064
-translate Tchinese aftercliffint2_82986005:
+translate Schinese aftercliffint2_82986005:
 
     # ts "\"In truth, I’m telling you this because I do not think you have the capacity to remember the information to pass along.\""
     ts "“老实讲，我之所以告诉你，是看在你记忆力不佳的份上。”"
 
 # game/cliffroute3.rpy:2066
-translate Tchinese aftercliffint2_ac94747a:
+translate Schinese aftercliffint2_ac94747a:
 
     # m "\"Huh?\""
     m "“哈？”"
 
 # game/cliffroute3.rpy:2068
-translate Tchinese aftercliffint2_e01f9c72:
+translate Schinese aftercliffint2_e01f9c72:
 
     # ts "\"At least not details that matter.\""
     ts "“至少记不住重要的细节。”"
 
 # game/cliffroute3.rpy:2070
-translate Tchinese aftercliffint2_4c7c59cf:
+translate Schinese aftercliffint2_4c7c59cf:
 
     # "I blink again."
     "我再次眨眼。"
 
 # game/cliffroute3.rpy:2071
-translate Tchinese aftercliffint2_4b19dcf7:
+translate Schinese aftercliffint2_4b19dcf7:
 
     # m "\"You know what?\""
     m "“知道吗？”"
 
 # game/cliffroute3.rpy:2072
-translate Tchinese aftercliffint2_21b7082d:
+translate Schinese aftercliffint2_21b7082d:
 
     # m "\"I think you’re really rude.\""
     m "“你真的很没礼貌。”"
 
 # game/cliffroute3.rpy:2074
-translate Tchinese aftercliffint2_502cc5af:
+translate Schinese aftercliffint2_502cc5af:
 
     # ts "\"Or I just understand how things work.\""
     ts "“我只是看透了。”"
 
 # game/cliffroute3.rpy:2077
-translate Tchinese aftercliffint2_2f754c44:
+translate Schinese aftercliffint2_2f754c44:
 
     # ts "\"The people who come here to study us don’t want to make our lives better.\""
     ts "“他们之所以研究我们，並不是想改善我们的生活。”"
 
 # game/cliffroute3.rpy:2080
-translate Tchinese aftercliffint2_e5c6ccbe:
+translate Schinese aftercliffint2_e5c6ccbe:
 
     # ts "\"They want to make us like them, or kill us.\""
     ts "“而是想要我们归顺，或把我们赶尽杀绝。”"
 
 # game/cliffroute3.rpy:2083
-translate Tchinese aftercliffint2_09dfa72c:
+translate Schinese aftercliffint2_09dfa72c:
 
     # ts "\"If not our forms, then our spirit.\""
     ts "“软的不行，就来硬的。”"
 
 # game/cliffroute3.rpy:2086
-translate Tchinese aftercliffint2_639514f2:
+translate Schinese aftercliffint2_639514f2:
 
     # ts "\"I do not have to be comfortable with that.\""
     ts "“我没道理给那些人好眼色。”"
 
 # game/cliffroute3.rpy:2088
-translate Tchinese aftercliffint2_2341c5f9:
+translate Schinese aftercliffint2_2341c5f9:
 
     # m "\"...huh.\""
     m "“...唔。”"
 
 # game/cliffroute3.rpy:2090
-translate Tchinese aftercliffint2_dd71da53:
+translate Schinese aftercliffint2_dd71da53:
 
     # ts "\"What?!\""
     ts "“怎样？！”"
 
 # game/cliffroute3.rpy:2092
-translate Tchinese aftercliffint2_7e2937e9:
+translate Schinese aftercliffint2_7e2937e9:
 
     # m "\"Nothing, it’s just...\""
     m "“没事，只不过...”"
 
 # game/cliffroute3.rpy:2094
-translate Tchinese aftercliffint2_36ed9036:
+translate Schinese aftercliffint2_36ed9036:
 
     # m "\"You look and sound a lot like somebody I know right now.\""
     m "“你的相貌跟说话方式很像我认识的一个人。”"
 
 # game/cliffroute3.rpy:2096
-translate Tchinese aftercliffint2_2130013a:
+translate Schinese aftercliffint2_2130013a:
 
     # ts "\"Who?\""
     ts "“谁？”"
 
 # game/cliffroute3.rpy:2098
-translate Tchinese aftercliffint2_9d2b1aa5:
+translate Schinese aftercliffint2_9d2b1aa5:
 
     # m "\"Do you know Cynthia Tsosie?\""
     m "“你认识Cynthia Tsosie吗？”"
 
 # game/cliffroute3.rpy:2099
-translate Tchinese aftercliffint2_a9e96c47:
+translate Schinese aftercliffint2_a9e96c47:
 
     # "For the first time, he looks genuinely curious."
     "他第一次显露出浓厚的好奇心。"
 
 # game/cliffroute3.rpy:2102
-translate Tchinese aftercliffint2_39462aa4:
+translate Schinese aftercliffint2_39462aa4:
 
     # ts "\"They are my cousins.\""
     ts "“我们是表亲。”"
 
 # game/cliffroute3.rpy:2104
-translate Tchinese aftercliffint2_aa6124cd:
+translate Schinese aftercliffint2_aa6124cd:
 
     # ts "\"Though the Begay and the Tsosie families have not interacted for a long time.\""
     ts "“不过Begay家与Tsosie家已经许久没有来往了。”"
 
 # game/cliffroute3.rpy:2105
-translate Tchinese aftercliffint2_5a5a1e92:
+translate Schinese aftercliffint2_5a5a1e92:
 
     # ts "\"None of them live here anymore.\""
     ts "“这里更是没有一个他们家的人。”"
 
 # game/cliffroute3.rpy:2107
-translate Tchinese aftercliffint2_086ad5c9:
+translate Schinese aftercliffint2_086ad5c9:
 
     # m "\"I know one in Echo.\""
     m "“我知道有一个住在回音镇。”"
 
 # game/cliffroute3.rpy:2109
-translate Tchinese aftercliffint2_905a0b70:
+translate Schinese aftercliffint2_905a0b70:
 
     # ts "\"I knew Istad and Kele.\""
     ts "“我认识Istad和Kele。”"
 
 # game/cliffroute3.rpy:2110
-translate Tchinese aftercliffint2_f247d2f4:
+translate Schinese aftercliffint2_f247d2f4:
 
     # "Now he’s nodding."
     "他点点头。"
 
 # game/cliffroute3.rpy:2112
-translate Tchinese aftercliffint2_a29bf536:
+translate Schinese aftercliffint2_a29bf536:
 
     # ts "\"Cynthia was their daughter.\""
     ts "“Cynthia是他们的女儿。”"
 
 # game/cliffroute3.rpy:2114
-translate Tchinese aftercliffint2_c9cf79bb:
+translate Schinese aftercliffint2_c9cf79bb:
 
     # m "\"That’s what she was called here too?\""
     m "“她在这儿也叫这个名字？”"
 
 # game/cliffroute3.rpy:2116
-translate Tchinese aftercliffint2_0aed44e3:
+translate Schinese aftercliffint2_0aed44e3:
 
     # ts "\"Her father converted to Christianity.\""
     ts "“她父亲改信了基督教。”"
 
 # game/cliffroute3.rpy:2119
-translate Tchinese aftercliffint2_5c955d90:
+translate Schinese aftercliffint2_5c955d90:
 
     # ts "\"Her mother did not.\""
     ts "“但她母亲没有。”"
 
 # game/cliffroute3.rpy:2122
-translate Tchinese aftercliffint2_0df84fd8:
+translate Schinese aftercliffint2_0df84fd8:
 
     # ts "\"She traded in jewelry, and Cynthia helped her make this finery.\""
     ts "“她平日里做珠宝生意，Cynthia则帮忙做一些饰品。”"
 
 # game/cliffroute3.rpy:2125
-translate Tchinese aftercliffint2_2e099550:
+translate Schinese aftercliffint2_2e099550:
 
     # ts "\"This was a problem for the priests, because the nature of this work is religious, and their power to barter in the community was great.\""
     ts "“对牧师们来说是个麻烦，因为这道工艺的根本是信仰，在部落里举足轻重。”"
 
 # game/cliffroute3.rpy:2128
-translate Tchinese aftercliffint2_d46dc991:
+translate Schinese aftercliffint2_d46dc991:
 
     # ts "\"But the day they left was very strange.\""
     ts "“但他们离开得很诡异。”"
 
 # game/cliffroute3.rpy:2130
-translate Tchinese aftercliffint2_97379283:
+translate Schinese aftercliffint2_97379283:
 
     # "It looks like he’s trying hard to remember."
     "他似乎在努力回想。"
 
 # game/cliffroute3.rpy:2132
-translate Tchinese aftercliffint2_615977df:
+translate Schinese aftercliffint2_615977df:
 
     # ts "\"Her father needed medicine, but nobody would disclose the nature of his ailment.\""
     ts "“她的父亲需要药，可知道那病的人却一个也没有。”"
 
 # game/cliffroute3.rpy:2135
-translate Tchinese aftercliffint2_21c1dae9:
+translate Schinese aftercliffint2_21c1dae9:
 
     # ts "\"I was told that the whole family packed up for Camp Rosa, and nobody had seen them since.\""
     ts "“我只听说他们举家搬迁到了Rosa营地，之后就再没有他们的消息了。”"
 
 # game/cliffroute3.rpy:2138
-translate Tchinese aftercliffint2_6c34b403:
+translate Schinese aftercliffint2_6c34b403:
 
     # ts "\"Echo is in the opposite direction though.\""
     ts "“但回音镇是在反方向。”"
 
 # game/cliffroute3.rpy:2140
-translate Tchinese aftercliffint2_0c5c0722:
+translate Schinese aftercliffint2_0c5c0722:
 
     # m "\"Have you been to camp Rosa yourself?\""
     m "“你亲自去过Rosa营地吗？”"
 
 # game/cliffroute3.rpy:2142
-translate Tchinese aftercliffint2_11b0ad85:
+translate Schinese aftercliffint2_11b0ad85:
 
     # ts "\"Several times.\""
     ts "“去过几次。”"
 
 # game/cliffroute3.rpy:2144
-translate Tchinese aftercliffint2_ae5a33b2:
+translate Schinese aftercliffint2_ae5a33b2:
 
     # m "\"Is there a railroad?\""
     m "“那边有没有铁路？”"
 
 # game/cliffroute3.rpy:2146
-translate Tchinese aftercliffint2_f0169904:
+translate Schinese aftercliffint2_f0169904:
 
     # ts "\"No, but Providence has one and it’s closer.\""
     ts "“没，但普罗维登斯有，而且很近。”"
 
 # game/cliffroute3.rpy:2148
-translate Tchinese aftercliffint2_59fbd826:
+translate Schinese aftercliffint2_59fbd826:
 
     # m "\"...Could you take me there?\""
     m "“...你能为我带路吗？”"
 
 # game/cliffroute3.rpy:2150
-translate Tchinese aftercliffint2_4c504395:
+translate Schinese aftercliffint2_4c504395:
 
     # ts "\"I don’t have any business there.\""
     ts "“我没有过去的必要。”"
 
 # game/cliffroute3.rpy:2152
-translate Tchinese aftercliffint2_567c7842:
+translate Schinese aftercliffint2_567c7842:
 
     # m "\"I’ll pay you.\""
     m "“我出钱雇你。”"
 
 # game/cliffroute3.rpy:2154
-translate Tchinese aftercliffint2_2325e867:
+translate Schinese aftercliffint2_2325e867:
 
     # ts "\"How much?\""
     ts "“多少钱？”"
 
 # game/cliffroute3.rpy:2156
-translate Tchinese aftercliffint2_d3bb95b9:
+translate Schinese aftercliffint2_d3bb95b9:
 
     # m "\"I have a banking check for sixty dollars.\""
     m "“我手上有一张六十美元的支票。”"
 
 # game/cliffroute3.rpy:2158
-translate Tchinese aftercliffint2_32471aac:
+translate Schinese aftercliffint2_32471aac:
 
     # ts "\"I could do this trip for twenty if you have something more material to offer up front...\""
     ts "“二十美元就行，前提是你能拿点真正有价值的东西出来...”"
 
 # game/cliffroute3.rpy:2161
-translate Tchinese aftercliffint2_14835248:
+translate Schinese aftercliffint2_14835248:
 
     # ts "\"Paper money is fine when we get to our destination.\""
     ts "“到达目的地后，钞票才有用。”"
 
 # game/cliffroute3.rpy:2164
-translate Tchinese aftercliffint2_1c6c9bbe:
+translate Schinese aftercliffint2_1c6c9bbe:
 
     # ts "\"Isn’t so good in the desert.\""
     ts "“在沙漠里不过废纸一张。”"
 
 # game/cliffroute3.rpy:2166
-translate Tchinese aftercliffint2_26f6fb2d:
+translate Schinese aftercliffint2_26f6fb2d:
 
     # m "\"Providence has a phone, right?\""
     m "“普罗维登斯有电话吧？”"
 
 # game/cliffroute3.rpy:2168
-translate Tchinese aftercliffint2_c3c28fbb:
+translate Schinese aftercliffint2_c3c28fbb:
 
     # ts "\"So what?\""
     ts "“所以呢？”"
 
 # game/cliffroute3.rpy:2170
-translate Tchinese aftercliffint2_8a22f28b:
+translate Schinese aftercliffint2_8a22f28b:
 
     # m "\"I could get you a phone call with Cynthia.\""
     m "“我可以让你跟Cynthia说上话。”"
 
 # game/cliffroute3.rpy:2172
-translate Tchinese aftercliffint2_544780da:
+translate Schinese aftercliffint2_544780da:
 
     # ts "\"What makes you think I would want that?\""
     ts "“你凭什么认为我想跟她说话？”"
 
 # game/cliffroute3.rpy:2174
-translate Tchinese aftercliffint2_774ac0f4:
+translate Schinese aftercliffint2_774ac0f4:
 
     # m "\"Don’t you?\""
     m "“你不想吗？”"
 
 # game/cliffroute3.rpy:2176
-translate Tchinese aftercliffint2_c1c3ebff:
+translate Schinese aftercliffint2_c1c3ebff:
 
     # m "\"You said she was family.\""
     m "“她不是你的家人吗？”"
 
 # game/cliffroute3.rpy:2177
-translate Tchinese aftercliffint2_25e1e0a5:
+translate Schinese aftercliffint2_25e1e0a5:
 
     # "He pauses."
     "他愣住了。"
 
 # game/cliffroute3.rpy:2179
-translate Tchinese aftercliffint2_f2c22781:
+translate Schinese aftercliffint2_f2c22781:
 
     # ts "\"I do.\""
     ts "“我是想。”"
 
 # game/cliffroute3.rpy:2181
-translate Tchinese aftercliffint2_934429a3:
+translate Schinese aftercliffint2_934429a3:
 
     # ts "\"But I am also afraid of what I might find out if I do.\""
-    ts "“但也害怕可能会得知什么。”"
+    ts "“但也为此感到惴惴不安。”"
 
 # game/cliffroute3.rpy:2183
-translate Tchinese aftercliffint2_8ccd79b2:
+translate Schinese aftercliffint2_8ccd79b2:
 
     # "That’s an odd thing to say."
     "这话真怪。"
 
 # game/cliffroute3.rpy:2184
-translate Tchinese aftercliffint2_376213aa:
+translate Schinese aftercliffint2_376213aa:
 
     # "Then again, family business is often odd."
     "不过一家人的事通常都很怪。"
 
 # game/cliffroute3.rpy:2185
-translate Tchinese aftercliffint2_215d10f1:
+translate Schinese aftercliffint2_215d10f1:
 
     # "And more importantly, none of my business."
     "更重要的是，我管不着。"
 
 # game/cliffroute3.rpy:2186
-translate Tchinese aftercliffint2_6ff7072f:
+translate Schinese aftercliffint2_6ff7072f:
 
     # m "\"Is that enough to offer, or do I need to think of something else?\""
     m "“足够了吗，还是说你要更多？”"
 
 # game/cliffroute3.rpy:2188
-translate Tchinese aftercliffint2_c33529ba:
+translate Schinese aftercliffint2_c33529ba:
 
     # ts "\"Supply the food and the water and I will agree to this.\""
     ts "“包吃包喝我就去。”"
 
 # game/cliffroute3.rpy:2190
-translate Tchinese aftercliffint2_00a81c45:
+translate Schinese aftercliffint2_00a81c45:
 
     # m "\"Deal.\""
     m "“成交。”"
 
 # game/cliffroute3.rpy:2192
-translate Tchinese aftercliffint2_6da4250d:
+translate Schinese aftercliffint2_6da4250d:
 
     # "I hold out my hand to him and he grabs it."
     "我伸出一只手，他紧紧握住。"
 
 # game/cliffroute3.rpy:2194
-translate Tchinese aftercliffint2_9770bba8:
+translate Schinese aftercliffint2_9770bba8:
 
     # "His grip is tight for a paw so small."
     "他手虽小，力道却很大。"
 
 # game/cliffroute3.rpy:2195
-translate Tchinese aftercliffint2_296c7b48:
+translate Schinese aftercliffint2_296c7b48:
 
     # "It’s almost painful."
     "都快弄疼我了。"
 
 # game/cliffroute3.rpy:2198
-translate Tchinese aftercliffint2_5788d20b:
+translate Schinese aftercliffint2_5788d20b:
 
     # "He lets me go when we hear something."
     "有声音传来，他顿时松开了手。"
 
 # game/cliffroute3.rpy:2200
-translate Tchinese aftercliffint2_ccbc40c2:
+translate Schinese aftercliffint2_ccbc40c2:
 
     # m "\"What was that?\""
     m "“什么动静？”"
 
 # game/cliffroute3.rpy:2202
-translate Tchinese aftercliffint2_0476f7f6:
+translate Schinese aftercliffint2_0476f7f6:
 
     # ts "\"Sounded like a whinny.\""
     ts "“好像是嘶鸣声。”"
 
 # game/cliffroute3.rpy:2204
-translate Tchinese aftercliffint2_9e504049:
+translate Schinese aftercliffint2_9e504049:
 
     # m "\"Are there pack beasts nearby?\""
     m "“附近有群居动物吗？”"
 
 # game/cliffroute3.rpy:2206
-translate Tchinese aftercliffint2_692d09f7:
+translate Schinese aftercliffint2_692d09f7:
 
     # ts "\"Yeah, there’s a ranch outside the gate.\""
     ts "“嗯，大门外就有个牧场。”"
 
 # game/cliffroute3.rpy:2209
-translate Tchinese aftercliffint2_577b1003:
+translate Schinese aftercliffint2_577b1003:
 
     # "We hear another whinny."
     "又一阵嘶声传来。"
 
 # game/cliffroute3.rpy:2213
-translate Tchinese aftercliffint2_54c1029f:
+translate Schinese aftercliffint2_54c1029f:
 
     # "Then a startled bray, and something wet."
     "接着是惊呼，与液体飞溅的声音。"
 
 # game/cliffroute3.rpy:2214
-translate Tchinese aftercliffint2_5b5e5645:
+translate Schinese aftercliffint2_5b5e5645:
 
     # "There’s thrashing and galloping and slams into wood."
     "扭动、狂奔、撞到木头的声音此起彼伏。"
 
 # game/cliffroute3.rpy:2216
-translate Tchinese aftercliffint2_93720c2b:
+translate Schinese aftercliffint2_93720c2b:
 
     # m "\"Do they normally make those sounds?\""
     m "“这种声音很常见吗？”"
 
 # game/cliffroute3.rpy:2218
-translate Tchinese aftercliffint2_c2341620:
+translate Schinese aftercliffint2_c2341620:
 
     # m "\"You don’t think...\""
     m "“难道是...”"
 
 # game/cliffroute3.rpy:2221
-translate Tchinese aftercliffint2_bdde60a8:
+translate Schinese aftercliffint2_bdde60a8:
 
     # ts "\"Don’t assume the worst.\""
     ts "“別往坏处想。”"
 
 # game/cliffroute3.rpy:2224
-translate Tchinese aftercliffint2_b928c6d1:
+translate Schinese aftercliffint2_b928c6d1:
 
     # ts "\"Something probably snuck into the pen.\""
     ts "“也许只是有东西闯进了马厩。”"
 
 # game/cliffroute3.rpy:2227
-translate Tchinese aftercliffint2_db285114:
+translate Schinese aftercliffint2_db285114:
 
     # ts "\"We rely on these beasts for transport and food.\""
-    ts "“那些牲畜是我们出行与粮食的保障。”"
+    ts "“那些牲畜是我们出行与果腹的保障。”"
 
 # game/cliffroute3.rpy:2230
-translate Tchinese aftercliffint2_86c6bff9:
+translate Schinese aftercliffint2_86c6bff9:
 
     # ts "\"If something’s wrong then we need to tell the rancher.\""
     ts "“万一出了意外，我们有必要通知牧场主。”"
 
 # game/cliffroute3.rpy:2233
-translate Tchinese aftercliffint2_2b2964ba:
+translate Schinese aftercliffint2_2b2964ba:
 
     # ts "\"This way.\""
     ts "“这边走。”"
 
 # game/cliffroute3.rpy:2240
-translate Tchinese aftercliffint2_b649ef1a:
+translate Schinese aftercliffint2_b649ef1a:
 
     # "It's a lot darker in these parts of the woods."
     "这部分树林更是一片漆黑。"
 
 # game/cliffroute3.rpy:2241
-translate Tchinese aftercliffint2_383a0967:
+translate Schinese aftercliffint2_383a0967:
 
     # "If I try I can make out some shapes that might be barns in the distance but they look more like blobs to me."
     "虽然努力一点的话，我能辨认出远处可能是谷仓的轮廓。"
 
 # game/cliffroute3.rpy:2242
-translate Tchinese aftercliffint2_35e05435:
+translate Schinese aftercliffint2_35e05435:
 
     # "I feel the kit fox tug me by the cuff as he ducks, and I feel a board of a fence hit my stomach."
     "沙狐一边灵巧地前进，一边拽着我的袖口。与此同时，我感觉一块木栅栏结结实实地打在了我的肚子上。"
 
 # game/cliffroute3.rpy:2243
-translate Tchinese aftercliffint2_85d98f47:
+translate Schinese aftercliffint2_85d98f47:
 
     # m "\"Oof.\""
     m "“嗷。”"
 
 # game/cliffroute3.rpy:2244
-translate Tchinese aftercliffint2_c53a9dae:
+translate Schinese aftercliffint2_c53a9dae:
 
     # "He makes a shushing sound to me."
     "他噓了我一声。"
 
 # game/cliffroute3.rpy:2245
-translate Tchinese aftercliffint2_d7ffc7c7:
+translate Schinese aftercliffint2_d7ffc7c7:
 
     # m "\"Are we supposed to be out here?\""
     m "“我们来这儿没问题吗？”"
 
 # game/cliffroute3.rpy:2246
-translate Tchinese aftercliffint2_e7c52e29:
+translate Schinese aftercliffint2_e7c52e29:
 
     # "I can see enough of his face to tell he's rolling his eyes."
     "我依稀看见他翻了个白眼。"
 
 # game/cliffroute3.rpy:2247
-translate Tchinese aftercliffint2_1e8a0eb5:
+translate Schinese aftercliffint2_1e8a0eb5:
 
     # "He scampers through the fence, and I follow him mostly because I don't want to be by myself if somebody with a rifle comes across us."
     "他一个箭步跨过围栏，我也赶忙跟上，主要是我可不想独自一人被来福枪指着。"
 
 # game/cliffroute3.rpy:2248
-translate Tchinese aftercliffint2_81d47e17:
+translate Schinese aftercliffint2_81d47e17:
 
     # "I stumble around, looking for the direction he went in."
     "我跌跌撞撞地寻找他的身影。"
 
 # game/cliffroute3.rpy:2249
-translate Tchinese aftercliffint2_ba8ee9d7:
+translate Schinese aftercliffint2_ba8ee9d7:
 
     # ts "\"Here.\""
     ts "“我在这。”"
 
 # game/cliffroute3.rpy:2250
-translate Tchinese aftercliffint2_39fb3885:
+translate Schinese aftercliffint2_39fb3885:
 
     # m "\"Oh, there ya are.\""
     m "“噢，来了。”"
 
 # game/cliffroute3.rpy:2251
-translate Tchinese aftercliffint2_8458e9fd:
+translate Schinese aftercliffint2_8458e9fd:
 
     # "He's leaning against something big."
     "他靠在某个庞大的东西旁。"
 
 # game/cliffroute3.rpy:2252
-translate Tchinese aftercliffint2_1823f460:
+translate Schinese aftercliffint2_1823f460:
 
     # "I think for a moment it must be a sleeping mule, but it doesn't look like it's breathing evenly."
     "起初我以为那是头睡着的骡子，但它的呼吸又不太规律。"
 
 # game/cliffroute3.rpy:2253
-translate Tchinese aftercliffint2_65950cd7:
+translate Schinese aftercliffint2_65950cd7:
 
     # ts "\"Cold wound.\""
     ts "“旧伤。”"
 
 # game/cliffroute3.rpy:2254
-translate Tchinese aftercliffint2_0a01e62f:
+translate Schinese aftercliffint2_0a01e62f:
 
     # ts "\"It wasn't emboldened enough to finish.\""
-    ts "“那东西打退堂鼓了。”"
+    ts "“已经冷静下来了。”"
 
 # game/cliffroute3.rpy:2255
-translate Tchinese aftercliffint2_51e734c7:
+translate Schinese aftercliffint2_51e734c7:
 
     # m "\"Why's that?\""
     m "“怎么说？”"
 
 # game/cliffroute3.rpy:2256
-translate Tchinese aftercliffint2_1ebd8b93:
+translate Schinese aftercliffint2_1ebd8b93:
 
     # ts "\"Could be testing the boundaries of the herd.\""
     ts "“它可能是在测试牧群的警戒范围。”"
 
 # game/cliffroute3.rpy:2257
-translate Tchinese aftercliffint2_ff0fdd89:
+translate Schinese aftercliffint2_ff0fdd89:
 
     # ts "\"Could have been scared off or injured itself.\""
     ts "“也可能被吓到或弄伤了自己。”"
 
 # game/cliffroute3.rpy:2258
-translate Tchinese aftercliffint2_1ef764e5:
+translate Schinese aftercliffint2_1ef764e5:
 
     # "We look out to the pen in the woods and count more than fifty dark figures wading around."
-    "我们看向树林里的马厩，数出大约有五十道黑影蹚步。"
+    "我们看向树林里的马厩，数出大约有五十道正在蹚步的黑影。"
 
 # game/cliffroute3.rpy:2262
-translate Tchinese aftercliffint2_fb3f0678:
+translate Schinese aftercliffint2_fb3f0678:
 
     # ts "\"What we might have heard was one of the pack animal smelling the wound of the other animal.\""
-    ts "“我们听见的可能是其中一隻动物聞到了令一隻受伤的气味。”"
+    ts "“我们听见的可能是其中一只动物闻到了另一只受伤的血腥味。”"
 
 # game/cliffroute3.rpy:2263
-translate Tchinese aftercliffint2_e5dc01a6:
+translate Schinese aftercliffint2_e5dc01a6:
 
     # "Nothing to worry about then?"
-    "那就没什么好擔心的了？"
+    "是我大惊小怪了？"
 
 # game/cliffroute3.rpy:2264
-translate Tchinese aftercliffint2_c7adf68d:
+translate Schinese aftercliffint2_c7adf68d:
 
     # "I slack my shoulders and feel my neck relax."
-    "我放鬆双肩，頸部肌肉緩和。"
+    "我放松双肩，缓和颈部肌肉。"
 
 # game/cliffroute3.rpy:2265
-translate Tchinese aftercliffint2_dce64489:
+translate Schinese aftercliffint2_dce64489:
 
     # m "\"Thank God there’s nothing out here now.\""
-    m "“没什么就好，谢天谢地。”"
+    m "“没事就好，谢天谢地。”"
 
 # game/cliffroute3.rpy:2267
-translate Tchinese aftercliffint2_0b6a6b14:
+translate Schinese aftercliffint2_0b6a6b14:
 
     # m "\"Whatever it was must be gone.\""
-    m "“不管是什么，都已经走了。”"
+    m "“不管是哪种，都已经过去了。”"
 
 # game/cliffroute3.rpy:2271
-translate Tchinese aftercliffint2_88cbc710:
+translate Schinese aftercliffint2_88cbc710:
 
     # "That’s when I feel something touch me."
-    "就在这瞬间，我感到有东西碰了我。"
+    "就在这瞬间，我感觉有什么东西在摸我。"
 
 # game/cliffroute3.rpy:2272
-translate Tchinese aftercliffint2_504cb3fa:
+translate Schinese aftercliffint2_504cb3fa:
 
     # "It confuses me at first because it feels like the dainty sort of caress of a hand on my lower leg, except curls close to grip me."
-    "一开始我感到奇怪，因为感觉像是隻手在輕撫我的小腿，只差它抓住了我。"
+    "一开始我感到奇怪，因为就像是一只小手在轻抚我的小腿，要不是它抓住了我的话。"
 
 # game/cliffroute3.rpy:2273
-translate Tchinese aftercliffint2_18044466:
+translate Schinese aftercliffint2_18044466:
 
     # "That’s when I can feel how truly large the palm is."
-    "此时我才驚觉这手掌出奇的大。"
+    "此时我才惊觉这手掌出奇的大。"
 
 # game/cliffroute3.rpy:2275
-translate Tchinese aftercliffint2_bc3e2d00:
+translate Schinese aftercliffint2_bc3e2d00:
 
     # "I yowl as I feel it yank me off of my feet, slamming my back into the dirt."
-    "我的腳被它拽住，四腳朝天摔在土地上，害我慘叫一声。"
+    "它拽着我的腿，将我四脚朝天甩到地上，痛得我连连号角。"
 
 # game/cliffroute3.rpy:2279
-translate Tchinese aftercliffint2_894ba048:
+translate Schinese aftercliffint2_894ba048:
 
     # "I open my eyes and I see Tsela staring at me with wide eyes."
-    "我睜开眼睛，看见Tsela目瞪口呆地望着我。"
+    "我睁开眼睛，只见Tsela目瞪口呆地望着我。"
 
 # game/cliffroute3.rpy:2282
-translate Tchinese aftercliffint2_316f10f3:
+translate Schinese aftercliffint2_316f10f3:
 
     # "And rapidly, he becomes smaller."
-    "接着他急速縮小。"
+    "接着他急速缩小。"
 
 # game/cliffroute3.rpy:2284
-translate Tchinese aftercliffint2_e9bc27ef:
+translate Schinese aftercliffint2_e9bc27ef:
 
     # "Something's dragging me."
     "有东西正在把我拖走。"
 
 # game/cliffroute3.rpy:2301
-translate Tchinese aftercliffint2_4f558eb4:
+translate Schinese aftercliffint2_4f558eb4:
 
     # "I can see the stars and the trees sweep by as I realize the speed that I’m going."
-    "看见星星和树木飛逝而过，我才知道自己移动得有多快。"
+    "速度之快，我只看到星星和树木飞驰而过。"
 
 # game/cliffroute3.rpy:2303
-translate Tchinese aftercliffint2_c4f9868c:
+translate Schinese aftercliffint2_c4f9868c:
 
     # "Rocks and roots scrape against my shirt, ripping through, some scraping the skin."
-    "衣物沿路被石头跟树根擦破，皮膚也接着遭殃。"
+    "衣服被沿途的石子和树根划破，皮肤也不能幸免。"
 
 # game/cliffroute3.rpy:2310
-translate Tchinese aftercliffint2_bf8709ee:
+translate Schinese aftercliffint2_bf8709ee:
 
     # "I try to look forward to see what’s dragging me."
-    "我努力想往前看究竟是什么在拖着自己。"
+    "我努力看究竟是什么在拖着自己。"
 
 # game/cliffroute3.rpy:2311
-translate Tchinese aftercliffint2_bd684217:
+translate Schinese aftercliffint2_bd684217:
 
     # "But I don’t see anything, despite feeling that awful, monstrous claw clipping into me with its nails."
-    "可什么也看不见，只感觉到那可怕的怪物尖爪刺进肉体。"
+    "可什么也看不见，只感到那可怕的怪物刺进我肉体的利爪。"
 
 # game/cliffroute3.rpy:2312
-translate Tchinese aftercliffint2_495f088d:
+translate Schinese aftercliffint2_495f088d:
 
     # "I think about how above the canyon this settlement is."
-    "我开始想着这个群落到底離山谷有多高；"
+    "我不住地想这个部落到底离谷底有多高。"
 
 # game/cliffroute3.rpy:2313
-translate Tchinese aftercliffint2_0f3a637d:
+translate Schinese aftercliffint2_0f3a637d:
 
     # "I think about a chasm littered with bones that gets thinner and thinner the harder you’re pulled."
-    "想着白骨间的裂隙被越扯越薄。"
+    "想着一个被扯碎的骨片填满的鸿沟。"
 
 # game/cliffroute3.rpy:2315
-translate Tchinese aftercliffint2_9d091ab0:
+translate Schinese aftercliffint2_9d091ab0:
 
     # "But I stop moving."
     "然后我停住了。"
 
 # game/cliffroute3.rpy:2317
-translate Tchinese aftercliffint2_9dc351d0:
+translate Schinese aftercliffint2_9dc351d0:
 
     # "I stand up and I’m out in the middle of nowhere."
-    "我站起身，是个鳥不拉屎的地方。"
+    "我站起身，是个鸟不拉屎的地方。"
 
 # game/cliffroute3.rpy:2318
-translate Tchinese aftercliffint2_3ba71a7a:
+translate Schinese aftercliffint2_3ba71a7a:
 
     # "There’s no houses nearby."
     "附近没有房屋。"
 
 # game/cliffroute3.rpy:2319
-translate Tchinese aftercliffint2_246c70ae:
+translate Schinese aftercliffint2_246c70ae:
 
     # "No people."
-    "毫无人煙。"
+    "没有人烟。"
 
 # game/cliffroute3.rpy:2320
-translate Tchinese aftercliffint2_b34168cc:
+translate Schinese aftercliffint2_b34168cc:
 
     # "And when I try to stand on my left leg, it hurts."
-    "一把重心挪到左腳上就吃痛。"
+    "我吃痛地把重心挪到左脚上。"
 
 # game/cliffroute3.rpy:2321
-translate Tchinese aftercliffint2_2684c0b6:
+translate Schinese aftercliffint2_2684c0b6:
 
     # "It hurts real bad."
     "痛得要命。"
 
 # game/cliffroute3.rpy:2323
-translate Tchinese aftercliffint2_03ca1eee:
+translate Schinese aftercliffint2_03ca1eee:
 
     # "And what’s worse is that I can hear something breathing."
     "更糟的是，我听见了某种生物的呼吸声。"
 
 # game/cliffroute3.rpy:2324
-translate Tchinese aftercliffint2_a9c1db44:
+translate Schinese aftercliffint2_a9c1db44:
 
     # "I feel like it wants me to walk."
-    "感觉牠是想要我走动。"
+    "仿佛是要我走动。"
 
 # game/cliffroute3.rpy:2325
-translate Tchinese aftercliffint2_4022c7d1:
+translate Schinese aftercliffint2_4022c7d1:
 
     # "Wants me to try to make it back to town."
-    "想要我試着回到镇上。"
+    "要我试着回到镇上。"
 
 # game/cliffroute3.rpy:2326
-translate Tchinese aftercliffint2_e5cc963b:
+translate Schinese aftercliffint2_e5cc963b:
 
     # "There’s nowhere to go, or to hide, but back in the direction that I can from."
-    "没地方能去，也没地方躲，只能从哪来往哪去。"
+    "我无处可去，也无处可藏，只能转到来的方向。"
 
 # game/cliffroute3.rpy:2327
-translate Tchinese aftercliffint2_60220a67:
+translate Schinese aftercliffint2_60220a67:
 
     # "I can still see the trail that my own body made."
-    "我还看得见自己身体被拖行的軌跡。"
+    "我还看得见身体被拖行的轨迹。"
 
 # game/cliffroute3.rpy:2328
-translate Tchinese aftercliffint2_51d00bac:
+translate Schinese aftercliffint2_51d00bac:
 
     # "And I let out a yowl when I take my first step."
-    "才踏出第一步我就发出慘叫。"
+    "才迈出第一步，我就不禁发出慘叫。"
 
 # game/cliffroute3.rpy:2330
-translate Tchinese aftercliffint2_c5c1e8e1:
+translate Schinese aftercliffint2_c5c1e8e1:
 
     # "My ankle is swelling."
-    "腳踝腫了。"
+    "脚踝肿了。"
 
 # game/cliffroute3.rpy:2331
-translate Tchinese aftercliffint2_306181c0:
+translate Schinese aftercliffint2_306181c0:
 
     # "I’m going to have to crawl."
     "只能爬了。"
 
 # game/cliffroute3.rpy:2333
-translate Tchinese aftercliffint2_fe5edeae:
+translate Schinese aftercliffint2_fe5edeae:
 
     # "So I get to my knees, and I cry out again, feeling the stab in my leg."
-    "我双膝跪地，又因腿上的刺伤而哀嚎。"
+    "我双膝跪地，又因腿上的伤而哀嚎。"
 
 # game/cliffroute3.rpy:2334
-translate Tchinese aftercliffint2_d6475c7c:
+translate Schinese aftercliffint2_d6475c7c:
 
     # "Then I pull myself forward."
-    "然后拖着自己前进。"
+    "然后用手拖着自己。"
 
 # game/cliffroute3.rpy:2335
-translate Tchinese aftercliffint2_99e95aa9:
+translate Schinese aftercliffint2_99e95aa9:
 
     # "Tears pool down my cheeks as I scrabble forward, careful not to let my left foot touch the ground."
-    "我淚流满面地匍匐前进，避免左腳碰到地面。"
+    "我努力避免左脚碰到地面，泪流满面地匍匐前行。"
 
 # game/cliffroute3.rpy:2336
-translate Tchinese aftercliffint2_64d547eb:
+translate Schinese aftercliffint2_64d547eb:
 
     # "I feel a hot breath on my neck."
-    "頸部感到一陣溫熱的呼气。"
+    "一股温热的气流打在我的颈上。"
 
 # game/cliffroute3.rpy:2337
-translate Tchinese aftercliffint2_87bbaa49:
+translate Schinese aftercliffint2_87bbaa49:
 
     # "A long, spongy tongue starts to lap at my neck."
-    "一條又長又軟的舌头舔着我的脖子。"
+    "一条又长又软的舌头舔舐着我的脖子。"
 
 # game/cliffroute3.rpy:2339
-translate Tchinese aftercliffint2_567458ce:
+translate Schinese aftercliffint2_567458ce:
 
     # "And then I hear the gunshot."
-    "接着有声槍响。"
+    "接着有声枪响。"
 
 # game/cliffroute3.rpy:2341
-translate Tchinese aftercliffint2_3a329254:
+translate Schinese aftercliffint2_3a329254:
 
     # "It’s gone as if it was never there."
-    "那东西立刻消失得无影无蹤。"
+    "那东西立刻消失得无影无踪。"
 
 # game/cliffroute3.rpy:2343
-translate Tchinese aftercliffint2_7f306312:
+translate Schinese aftercliffint2_7f306312:
 
     # "And I see Tsela running towards me, hooking his rifle onto his back grabbing me by the suspenders and pulling me in quick bursts."
-    "我看见Tsela跑来，把来福槍掛在肩上，拉着我的吊带疾奔而出。"
+    "我看见Tsela跑了过来，他把来福枪挂在肩上，拽住我的背带疾驰而出。"
 
 # game/cliffroute3.rpy:2344
-translate Tchinese aftercliffint2_e3481ce3:
+translate Schinese aftercliffint2_e3481ce3:
 
     # "He looks right, and then left, wide-eyed, almost frenzied as he takes me back through the woods."
-    "他张大眼睛左顧右盼，近乎发狂般地带我橫越树林。"
+    "他张大眼睛左顾右盼，近乎发疯似的拉着我在林中狂奔。"
 
 # game/cliffroute3.rpy:2346
-translate Tchinese aftercliffint2_6febf8a2:
+translate Schinese aftercliffint2_6febf8a2:
 
     # "It’s hard to turn my head to look left or right."
     "我很难把头转往其他方向。"
 
 # game/cliffroute3.rpy:2348
-translate Tchinese aftercliffint2_859a4f47:
+translate Schinese aftercliffint2_859a4f47:
 
     # "Sometimes I think I hear breathing again on the right."
-    "不时感觉有呼吸声从又边传来。"
+    "不时有呼吸声从右侧传来。"
 
 # game/cliffroute3.rpy:2350
-translate Tchinese aftercliffint2_d151e2b7:
+translate Schinese aftercliffint2_d151e2b7:
 
     # "Sometimes it’s on the left."
-    "有时是左边。"
+    "时而是左侧。"
 
 # game/cliffroute3.rpy:2351
-translate Tchinese aftercliffint2_f39f57b2:
+translate Schinese aftercliffint2_f39f57b2:
 
     # "Sometimes its sounds like it’s coming from the trees, or from multiple places all at once."
-    "更有的时候听起来像树林各处一起发出的。"
+    "有时候听起来更像是来自树林各处。"
 
 # game/cliffroute3.rpy:2353
-translate Tchinese aftercliffint2_d4d9bb69:
+translate Schinese aftercliffint2_d4d9bb69:
 
     # "Tsela doesn’t stop dragging me."
     "Tsela一直拖着我。"
 
 # game/cliffroute3.rpy:2355
-translate Tchinese aftercliffint2_b258cc5e:
+translate Schinese aftercliffint2_b258cc5e:
 
     # ts "\"Use your legs if you can.\""
-    ts "“如果可以就动你自己的腿。”"
+    ts "“能跑就快跑。”"
 
 # game/cliffroute3.rpy:2356
-translate Tchinese aftercliffint2_9e10df19:
+translate Schinese aftercliffint2_9e10df19:
 
     # m "\"My right’s twisted!\""
-    m "“我右腳扭伤了！”"
+    m "“我的右脚扭伤了！”"
 
 # game/cliffroute3.rpy:2357
-translate Tchinese aftercliffint2_5fbb8ac2:
+translate Schinese aftercliffint2_5fbb8ac2:
 
     # ts "\"Then just the one!\""
-    ts "“那就动另一條！”"
+    ts "“那就动另一条！”"
 
 # game/cliffroute3.rpy:2358
-translate Tchinese aftercliffint2_9931d33a:
+translate Schinese aftercliffint2_9931d33a:
 
     # ts "\"You’re too heavy to drag.\""
-    ts "“你太重了我拖不动。”"
+    ts "“你太重了，我拖不动。”"
 
 # game/cliffroute3.rpy:2359
-translate Tchinese aftercliffint2_58f586b1:
+translate Schinese aftercliffint2_58f586b1:
 
     # ts "\"We have to move faster or I’ll have to drop you.\""
-    ts "“不加快速度我就要丟下你了。”"
+    ts "“不加快速度，我就要丟下你了。”"
 
 # game/cliffroute3.rpy:2361
-translate Tchinese aftercliffint2_80b9652f:
+translate Schinese aftercliffint2_80b9652f:
 
     # "Back through the gate."
     "再次穿越大门。"
 
 # game/cliffroute3.rpy:2364
-translate Tchinese aftercliffint2_2c5d7b9a:
+translate Schinese aftercliffint2_2c5d7b9a:
 
     # "Back to his cabin."
     "回到他的木屋。"
 
 # game/cliffroute3.rpy:2368
-translate Tchinese aftercliffint2_41394602:
+translate Schinese aftercliffint2_41394602:
 
     # "He slams the door and bolts the lock."
-    "他用力關门然后上鎖。"
+    "他用力锁上门。"
 
 # game/cliffroute3.rpy:2371
-translate Tchinese aftercliffint2_a8e5b403:
+translate Schinese aftercliffint2_a8e5b403:
 
     # "He pulls me over to a rug on the ground."
     "把我拉到一张地毯上。"
 
 # game/cliffroute3.rpy:2373
-translate Tchinese aftercliffint2_5319e7e9:
+translate Schinese aftercliffint2_5319e7e9:
 
     # ts "\"Show me your foot.\""
-    ts "“给我看看你的腿。”"
+    ts "“让我看看你的腿。”"
 
 # game/cliffroute3.rpy:2375
-translate Tchinese aftercliffint2_07982627:
+translate Schinese aftercliffint2_07982627:
 
     # "I pull up the sleeve and he bends down, holding it with one of his paws."
-    "我拉起褲管，他便蹲下用一隻手举起来。"
+    "我拉起裤管，他蹲下用一只手托起来。"
 
 # game/cliffroute3.rpy:2377
-translate Tchinese aftercliffint2_1237ed87:
+translate Schinese aftercliffint2_1237ed87:
 
     # m "\"Don’t touch it!\""
-    m "“別碰那！”"
+    m "“別碰那里！”"
 
 # game/cliffroute3.rpy:2378
-translate Tchinese aftercliffint2_ddae4756:
+translate Schinese aftercliffint2_ddae4756:
 
     # "He brushes up against the direction of my fur."
-    "他逆着我的毛髮一划。"
+    "他逆着我的毛发一划。"
 
 # game/cliffroute3.rpy:2380
-translate Tchinese aftercliffint2_76932425:
+translate Schinese aftercliffint2_76932425:
 
     # ts "\"Aside from the bruising, most of your skin is red, so no bleeding.\""
-    ts "“除了一些瘀青以外皮膚大部分都是紅的，没流血。”"
+    ts "“皮肤上有一些淤青，没有流血。”"
 
 # game/cliffroute3.rpy:2383
-translate Tchinese aftercliffint2_7ebfef3a:
+translate Schinese aftercliffint2_7ebfef3a:
 
     # ts "\"Your bones are in place.\""
-    ts "“骨头也没错位。”"
+    ts "“骨头也没有错位。”"
 
 # game/cliffroute3.rpy:2386
-translate Tchinese aftercliffint2_8f69746f:
+translate Schinese aftercliffint2_8f69746f:
 
     # ts "\"But you shouldn’t walk on this for several days.\""
-    ts "“但这几天內最好別走动。”"
+    ts "“但最好在床上静养几天。”"
 
 # game/cliffroute3.rpy:2388
-translate Tchinese aftercliffint2_350c003a:
+translate Schinese aftercliffint2_350c003a:
 
     # m "\"But I...!\""
-    m "“可是我……！”"
+    m "“可是...！”"
 
 # game/cliffroute3.rpy:2389
-translate Tchinese aftercliffint2_48e39f41:
+translate Schinese aftercliffint2_48e39f41:
 
     # "I try to stand again and feel the sharp sting in my ankle."
-    "我試着站起来，但腳踝一陣劇痛。"
+    "我试着站起来，但脚踝一阵剧痛。"
 
 # game/cliffroute3.rpy:2391
-translate Tchinese aftercliffint2_0fb8b380:
+translate Schinese aftercliffint2_0fb8b380:
 
     # m "\"... have to!\""
-    m "“……必須走！”"
+    m "“...我必须走！”"
 
 # game/cliffroute3.rpy:2392
-translate Tchinese aftercliffint2_e9f4ebff:
+translate Schinese aftercliffint2_e9f4ebff:
 
     # m "\"Argh!\""
     m "“呃啊！”"
 
 # game/cliffroute3.rpy:2393
-translate Tchinese aftercliffint2_42534165:
+translate Schinese aftercliffint2_42534165:
 
     # m "\"I only have a week to get out of this town...\""
-    m "“我只有一个礼拜的时间能離开这个小镇……”"
+    m "“我只有一周的时间离开...”"
 
 # game/cliffroute3.rpy:2394
-translate Tchinese aftercliffint2_bc20f042:
+translate Schinese aftercliffint2_bc20f042:
 
     # "And I don’t even want to wait that long."
-    "更何况我根本没打算乖乖待那么久。"
+    "更何况我根本没打算待那么久。"
 
 # game/cliffroute3.rpy:2395
-translate Tchinese aftercliffint2_9192b793:
+translate Schinese aftercliffint2_9192b793:
 
     # "Tsela shakes his head."
-    "Tsela搖头。"
+    "Tsela摇头道："
 
 # game/cliffroute3.rpy:2397
-translate Tchinese aftercliffint2_a9042891:
+translate Schinese aftercliffint2_a9042891:
 
     # ts "\"Foolish.\""
     ts "“愚蠢。”"
 
 # game/cliffroute3.rpy:2400
-translate Tchinese aftercliffint2_5ff64c6b:
+translate Schinese aftercliffint2_5ff64c6b:
 
     # ts "\"You won’t make it far on that leg.\""
-    ts "“靠那條腿是走不远的。”"
+    ts "“靠那条腿是走不远的。”"
 
 # game/cliffroute3.rpy:2402
-translate Tchinese aftercliffint2_f245bf28:
+translate Schinese aftercliffint2_f245bf28:
 
     # m "\"Do you have a car that could drive us?\""
-    m "“你有车能載人吗？”"
+    m "“你能载人的车吗？”"
 
 # game/cliffroute3.rpy:2404
-translate Tchinese aftercliffint2_f2c22781_1:
+translate Schinese aftercliffint2_f2c22781_1:
 
     # ts "\"I do.\""
-    ts "“我是有。”"
+    ts "“有是有。”"
 
 # game/cliffroute3.rpy:2406
-translate Tchinese aftercliffint2_eadc0f8b:
+translate Schinese aftercliffint2_eadc0f8b:
 
     # m "\"So what’s the problem?\""
-    m "“那不就没问题了？”"
+    m "“那不就行了？”"
 
 # game/cliffroute3.rpy:2408
-translate Tchinese aftercliffint2_2804115b:
+translate Schinese aftercliffint2_2804115b:
 
     # ts "\"Something might be following you.\""
     ts "“可能有东西跟着你。”"
 
 # game/cliffroute3.rpy:2410
-translate Tchinese aftercliffint2_6a20a80d:
+translate Schinese aftercliffint2_6a20a80d:
 
     # "I shake my head."
-    "我搖头。"
+    "我摇摇头。"
 
 # game/cliffroute3.rpy:2411
-translate Tchinese aftercliffint2_42a61855:
+translate Schinese aftercliffint2_42a61855:
 
     # m "\"You can’t prove that.\""
-    m "“你无憑无據。”"
+    m "“你又没法证明。”"
 
 # game/cliffroute3.rpy:2413
-translate Tchinese aftercliffint2_a3b7b8d9:
+translate Schinese aftercliffint2_a3b7b8d9:
 
     # m "\"It’s just gotta be some starving animal.\""
-    m "“肯定只是飢餓的动物。”"
+    m "“要我说，多半是饿了的动物。”"
 
 # game/cliffroute3.rpy:2414
-translate Tchinese aftercliffint2_edd6d70d:
+translate Schinese aftercliffint2_edd6d70d:
 
     # "I don’t even believe it when I say that, but I don’t want to think about any other possibility."
     "这话连我自己都不信，但我不敢想像其他可能性。"
 
 # game/cliffroute3.rpy:2416
-translate Tchinese aftercliffint2_ed4e2cab:
+translate Schinese aftercliffint2_ed4e2cab:
 
     # ts "\"No animal would be bold enough to come here with all of the noise and the smoke.\""
-    ts "“不会有动物膽敢闖来这种吵鬧又煙霧瀰漫的地方。”"
+    ts "“不会有动物胆敢闯进这种又吵、又烟雾弥漫的地方。”"
 
 # game/cliffroute3.rpy:2419
-translate Tchinese aftercliffint2_02e9ee3a:
+translate Schinese aftercliffint2_02e9ee3a:
 
     # ts "\"It’s something else.\""
-    ts "“是別的什么东西。”"
+    ts "“是其他东西。”"
 
 # game/cliffroute3.rpy:2422
-translate Tchinese aftercliffint2_14b7da30:
+translate Schinese aftercliffint2_14b7da30:
 
     # ts "\"And it showed when your party did.\""
-    ts "“在你们一行人来的时候就出現了。”"
+    ts "“而且你们一行人前脚刚到，后脚它就就出现了。”"
 
 # game/cliffroute3.rpy:2424
-translate Tchinese aftercliffint2_008b461d:
+translate Schinese aftercliffint2_008b461d:
 
     # m "\"I thought your group was attacked before us?\""
     m "“你们不是比我们还早被攻击吗？”"
 
 # game/cliffroute3.rpy:2425
-translate Tchinese aftercliffint2_0ae65a27:
+translate Schinese aftercliffint2_0ae65a27:
 
     # m "\"Maybe it’s hunting you?\""
-    m "“说不定是你被牠追着？”"
+    m "“没准它追的是你？”"
 
 # game/cliffroute3.rpy:2427
-translate Tchinese aftercliffint2_39994baa:
+translate Schinese aftercliffint2_39994baa:
 
     # "He mumbles something I don’t understand."
-    "他嘟嚷着我听不懂的话。"
+    "他嘟囔着我听不懂的话。"
 
 # game/cliffroute3.rpy:2429
-translate Tchinese aftercliffint2_873b6cb8:
+translate Schinese aftercliffint2_873b6cb8:
 
     # ts "\"We know that it will go after us at the very least.\""
-    ts "“至少我们知道牠会来追我们。”"
+    ts "“至少有一点可以肯定，它盯上我们了。”"
 
 # game/cliffroute3.rpy:2431
-translate Tchinese aftercliffint2_dc198858:
+translate Schinese aftercliffint2_dc198858:
 
     # m "\"Well I’ve still gotta leave town!\""
-    m "“但我还是得離开小镇！”"
+    m "“但我还是得离开！”"
 
 # game/cliffroute3.rpy:2433
-translate Tchinese aftercliffint2_105527d4:
+translate Schinese aftercliffint2_105527d4:
 
     # "He looks out of a window, craning his head."
     "他扭头看向窗外。"
 
 # game/cliffroute3.rpy:2435
-translate Tchinese aftercliffint2_759ac95e:
+translate Schinese aftercliffint2_759ac95e:
 
     # ts "\"It sounded like it was bothering the animals, so it’s a problem for the whole settlement now.\""
-    ts "“牠先前好像是在騷擾牲畜们，这下牠就是整个保留区的麻烦了。”"
+    ts "“先前骚扰牲畜的好像也是它，这下它就是整个定居点的麻烦了。”"
 
 # game/cliffroute3.rpy:2438
-translate Tchinese aftercliffint2_a414e7e6:
+translate Schinese aftercliffint2_a414e7e6:
 
     # ts "\"You should tell your anthropologist friend, so he can tell the Christians.\""
-    ts "“跟你那个人文學家朋友讲吧，让他去告诉那些基督徒。”"
+    ts "“跟你那个人文学家朋友谈谈吧，让他转告那些基督徒们。”"
 
 # game/cliffroute3.rpy:2441
-translate Tchinese aftercliffint2_d151e923:
+translate Schinese aftercliffint2_d151e923:
 
     # ts "\"If we put together a hunting party then we can be rid of it before it strikes.\""
-    ts "“组織一个獵殺队，在牠攻击前先下手为強。”"
+    ts "“组建一支猎杀队，在它攻击前先下手为強。”"
 
 # game/cliffroute3.rpy:2443
-translate Tchinese aftercliffint2_b1731847:
+translate Schinese aftercliffint2_b1731847:
 
     # m "\"You’re gonna try and kill it?\""
-    m "“你想殺牠？”"
+    m "“你想杀了它？”"
 
 # game/cliffroute3.rpy:2445
-translate Tchinese aftercliffint2_a52d9007:
+translate Schinese aftercliffint2_a52d9007:
 
     # ts "\"Ideally.\""
-    ts "“理想是。”"
+    ts "“这是最好的情况。”"
 
 # game/cliffroute3.rpy:2447
-translate Tchinese aftercliffint2_b9a272bd:
+translate Schinese aftercliffint2_b9a272bd:
 
     # m "\"But we couldn’t even see it the last time.\""
-    m "“可是上次我们连个影都没看到。”"
+    m "“可我们连它的影都没看到。”"
 
 # game/cliffroute3.rpy:2448
-translate Tchinese aftercliffint2_aa1f7377:
+translate Schinese aftercliffint2_aa1f7377:
 
     # m "\"And it’s fast!\""
-    m "“动作还很快！”"
+    m "“更别提它的速度那么快！”"
 
 # game/cliffroute3.rpy:2450
-translate Tchinese aftercliffint2_a928f592:
+translate Schinese aftercliffint2_a928f592:
 
     # ts "\"None of us are getting very far if this problem isn’t dealt with.\""
-    ts "“如果不解决这个麻烦，我们哪也去不了。”"
+    ts "“不解决这个麻烦，我们哪也去不了。”"
 
 # game/cliffroute3.rpy:2454
-translate Tchinese aftercliffint2_121ecf46:
+translate Schinese aftercliffint2_121ecf46:
 
     # "There’s a thump on the door."
-    "门发出了撞击声。"
+    "门外响起了撞击声。"
 
 # game/cliffroute3.rpy:2456
-translate Tchinese aftercliffint2_97acdd60:
+translate Schinese aftercliffint2_97acdd60:
 
     # "It’s sudden and forceful, like a single knock."
-    "突如其来而且很用力，像是敲了一声门。"
+    "突然而坚定，仿佛有人在敲门。"
 
 # game/cliffroute3.rpy:2457
-translate Tchinese aftercliffint2_fb3ae0db:
+translate Schinese aftercliffint2_fb3ae0db:
 
     # "But that’s not exactly right either."
-    "但这么说也不太精确。"
+    "但这么说又不太准确。"
 
 # game/cliffroute3.rpy:2459
-translate Tchinese aftercliffint2_4efe1b25:
+translate Schinese aftercliffint2_4efe1b25:
 
     # "Tsela stands and walks up to the door."
     "Tsela起身走到门前。"
 
 # game/cliffroute3.rpy:2461
-translate Tchinese aftercliffint2_a2f084a8:
+translate Schinese aftercliffint2_a2f084a8:
 
     # "He says something in his language."
-    "用他的語言说了点话。"
+    "用他们的语言说了几句话。"
 
 # game/cliffroute3.rpy:2463
-translate Tchinese aftercliffint2_81c15fee:
+translate Schinese aftercliffint2_81c15fee:
 
     # "There’s nobody there."
-    "没人回应。"
+    "无人应答。"
 
 # game/cliffroute3.rpy:2464
-translate Tchinese aftercliffint2_9de51b07:
+translate Schinese aftercliffint2_9de51b07:
 
     # "Then he tries again in Albion."
-    "他接着用Albion文说。"
+    "他接着用阿尔比恩语说："
 
 # game/cliffroute3.rpy:2466
-translate Tchinese aftercliffint2_0bebcff0:
+translate Schinese aftercliffint2_0bebcff0:
 
     # ts "\"Who’s there?\""
     ts "“是谁？”"
 
 # game/cliffroute3.rpy:2468
-translate Tchinese aftercliffint2_c8d821ed:
+translate Schinese aftercliffint2_c8d821ed:
 
     # "A deep, guttural voice replies?"
     "一声低沉的嗓音回应了？"
 
 # game/cliffroute3.rpy:2470
-translate Tchinese aftercliffint2_d4af3ed8:
+translate Schinese aftercliffint2_d4af3ed8:
 
     # ts "\"Yiska?\""
     ts "“Yiska？”"
 
 # game/cliffroute3.rpy:2472
-translate Tchinese aftercliffint2_6aea8e87:
+translate Schinese aftercliffint2_6aea8e87:
 
     # "We both wait for a reply."
-    "我们两个都在等候回应。"
+    "我们两个都在等待回答。"
 
 # game/cliffroute3.rpy:2474
-translate Tchinese aftercliffint2_734f6e89:
+translate Schinese aftercliffint2_734f6e89:
 
     # "There’s a soft shove again."
-    "又一下輕推。"
+    "又一下轻推。"
 
 # game/cliffroute3.rpy:2477
-translate Tchinese aftercliffint2_7ea1bead:
+translate Schinese aftercliffint2_7ea1bead:
 
     # "???" "\"Yiska’s there.\""
-    "???" "“Yiska在那。”"
+    "？？？" "“Yiska在那边。”"
 
 # game/cliffroute3.rpy:2479
-translate Tchinese aftercliffint2_a79349b2:
+translate Schinese aftercliffint2_a79349b2:
 
     # ts "\"What do you mean Yiska’s there?\""
-    ts "“什么叫Yiska在那？”"
+    ts "“什么叫Yiska在那边？”"
 
 # game/cliffroute3.rpy:2481
-translate Tchinese aftercliffint2_9aca7b84:
+translate Schinese aftercliffint2_9aca7b84:
 
     # ts "\"Who is this?\""
-    ts "“这是谁？”"
+    ts "“你究竟是谁？”"
 
 # game/cliffroute3.rpy:2483
-translate Tchinese aftercliffint2_5ef2450a:
+translate Schinese aftercliffint2_5ef2450a:
 
     # "Another thump."
     "又一次撞击。"
 
 # game/cliffroute3.rpy:2485
-translate Tchinese aftercliffint2_973989b3:
+translate Schinese aftercliffint2_973989b3:
 
     # ysunk "\"This is Yiska.\""
-    ysunk "“这是Yiska。”"
+    ysunk "“我是Yiska。”"
 
 # game/cliffroute3.rpy:2486
-translate Tchinese aftercliffint2_12b7de0c:
+translate Schinese aftercliffint2_12b7de0c:
 
     # "That sounded more like the bear this time."
-    "这次听起来比較像那隻熊了。"
+    "这次听起来比较像那头熊了。"
 
 # game/cliffroute3.rpy:2487
-translate Tchinese aftercliffint2_6aa6fece:
+translate Schinese aftercliffint2_6aa6fece:
 
     # m "\"Are y’all both roommates?\""
     m "“你们不是室友吗？”"
 
 # game/cliffroute3.rpy:2489
-translate Tchinese aftercliffint2_af1eb784:
+translate Schinese aftercliffint2_af1eb784:
 
     # "Tsela looks at me and holds up a single digit to his mouth."
-    "Tsela看着我，在嘴前豎起一根手指。"
+    "Tsela看着我，在嘴前竖起一根手指。"
 
 # game/cliffroute3.rpy:2491
-translate Tchinese aftercliffint2_1d8e34fe:
+translate Schinese aftercliffint2_1d8e34fe:
 
     # "He turns back to the door and makes noises I don’t understand."
     "他转向门，发出我听不懂的声音。"
 
 # game/cliffroute3.rpy:2493
-translate Tchinese aftercliffint2_1a420af0:
+translate Schinese aftercliffint2_1a420af0:
 
     # "The person at the other side of the door makes those noises back in a deeper voice."
-    "门对面的人用更低沉的音色发出相同的声音。"
+    "外面的人用更低沉的音色发出相同的声音。"
 
 # game/cliffroute3.rpy:2494
-translate Tchinese aftercliffint2_0af045da:
+translate Schinese aftercliffint2_0af045da:
 
     # "And the fox steps away."
-    "狐狸一听便从门前退开。"
+    "狐狸猛地从门前退开。"
 
 # game/cliffroute3.rpy:2495
-translate Tchinese aftercliffint2_2f5f6304:
+translate Schinese aftercliffint2_2f5f6304:
 
     # "He walks over slowly to the small window and pulls the curtains over it."
-    "他緩緩走到小窗边，掀起窗簾。"
+    "他一步步走到小窗边，掀起窗帘。"
 
 # game/cliffroute3.rpy:2496
-translate Tchinese aftercliffint2_de92f09b:
+translate Schinese aftercliffint2_de92f09b:
 
     # "A shadow passes, and he walks back slowly."
     "只见一道黑影闪过，他慢慢后退。"
 
 # game/cliffroute3.rpy:2498
-translate Tchinese aftercliffint2_90f09b9c:
+translate Schinese aftercliffint2_90f09b9c:
 
     # "I’m about to ask him what’s going on, but he puts a hand over my mouth, giving me a taste of clay and bark."
-    "我正想問他現在是什么情况，他却一隻手蓋住我的嘴，有泥土跟树皮的味道。"
+    "我正想问他现在是什么情况，他却用一只手盖住我的嘴，上面满是泥土与树皮的味道。"
 
 # game/cliffroute3.rpy:2499
-translate Tchinese aftercliffint2_2ca8c00b:
+translate Schinese aftercliffint2_2ca8c00b:
 
     # "He leans close to my ear and whispers."
-    "他湊近我的耳朵細語。"
+    "他对着我的耳朵细声说："
 
 # game/cliffroute3.rpy:2501
-translate Tchinese aftercliffint2_2bfd9591:
+translate Schinese aftercliffint2_2bfd9591:
 
     # ts "\"Spirit.\""
-    ts "“邪靈。”"
+    ts "“邪灵。”"
 
 # game/cliffroute3.rpy:2503
-translate Tchinese aftercliffint2_bb7b72e9:
+translate Schinese aftercliffint2_bb7b72e9:
 
     # "That confuses me."
-    "令我困惑。"
+    "我不太懂。"
 
 # game/cliffroute3.rpy:2504
-translate Tchinese aftercliffint2_5c4c5dbb:
+translate Schinese aftercliffint2_5c4c5dbb:
 
     # "It sounded like Yiska."
-    "听起来像是Yiska。"
+    "那声音听起来明明是Yiska。"
 
 # game/cliffroute3.rpy:2506
-translate Tchinese aftercliffint2_f11854e2:
+translate Schinese aftercliffint2_f11854e2:
 
     # "I try to talk again but he shakes his head."
-    "我再次想说点什么，但他直搖头。"
+    "我还想说点什么，可他直摇头。"
 
 # game/cliffroute3.rpy:2508
-translate Tchinese aftercliffint2_b9e98962:
+translate Schinese aftercliffint2_b9e98962:
 
     # ts "\"Do not leave tonight.\""
-    ts "“今晚別離开了。”"
+    ts "“今晚不要出去了。”"
 
 # game/cliffroute3.rpy:2511
-translate Tchinese aftercliffint2_cd04a694:
+translate Schinese aftercliffint2_cd04a694:
 
     # ts "\"Do not let anybody in until morning.\""
     ts "“天亮前別让任何人进来。”"
 
 # game/cliffroute3.rpy:2513
-translate Tchinese aftercliffint2_1f117808:
+translate Schinese aftercliffint2_1f117808:
 
     # m "\"But what if it’s somebody we know?\""
-    m "“要是我们认識的人怎么辦？”"
+    m "“那要是我们认识的人呢？”"
 
 # game/cliffroute3.rpy:2515
-translate Tchinese aftercliffint2_f245a119:
+translate Schinese aftercliffint2_f245a119:
 
     # ts "\"Especially if it’s somebody we know!\""
-    ts "“尤其是我们认識的人！”"
+    ts "“尤其是我们认识的人！”"
 
 # game/cliffroute3.rpy:2517
-translate Tchinese aftercliffint2_efde3a43:
+translate Schinese aftercliffint2_efde3a43:
 
     # "The light behind the curtain blackens."
-    "窗簾外的燈光變暗。"
+    "窗帘外的光簌地变暗了。"
 
 # game/cliffroute3.rpy:2520
-translate Tchinese aftercliffint2_4c037968:
+translate Schinese aftercliffint2_4c037968:
 
     # "I hear sniffing sounds."
     "我听见嗅声。"
 
 # game/cliffroute3.rpy:2522
-translate Tchinese aftercliffint2_f41bdf96:
+translate Schinese aftercliffint2_f41bdf96:
 
     # "Then something wet."
-    "然后是液体声。"
+    "还有流水声。"
 
 # game/cliffroute3.rpy:2524
-translate Tchinese aftercliffint2_08057af1:
+translate Schinese aftercliffint2_08057af1:
 
     # "A slow, scraping noise drags across the window."
-    "窗戶发出一陣漫長的刮擦声。"
+    "与长而缓慢的刮擦声。"
 
 # game/cliffroute3.rpy:2525
-translate Tchinese aftercliffint2_29ca2f8b:
+translate Schinese aftercliffint2_29ca2f8b:
 
     # "Then the shadow leaves."
-    "黑影離去了。"
+    "之后黑影离去了。"
 
 # game/cliffroute3.rpy:2528
-translate Tchinese aftercliffint2_4352d85c:
+translate Schinese aftercliffint2_4352d85c:
 
     # ts "\"Again.\""
     ts "“我再说一次。”"
 
 # game/cliffroute3.rpy:2531
-translate Tchinese aftercliffint2_1426595d:
+translate Schinese aftercliffint2_1426595d:
 
     # ts "\"...Nobody.\""
-    ts "“……谁都不行。”"
+    ts "“...谁都不行。”"
 
 # game/cliffroute3.rpy:2533
-translate Tchinese aftercliffint2_939874dc:
+translate Schinese aftercliffint2_939874dc:
 
     # m "\"But what about your hunting partner?\""
-    m "“那你的打獵搭檔怎么辦？”"
+    m "“那你的打猎搭档怎么办？”"
 
 # game/cliffroute3.rpy:2535
-translate Tchinese aftercliffint2_2a5db868:
+translate Schinese aftercliffint2_2a5db868:
 
     # ts "\"That wasn’t him.\""
     ts "“那不是他。”"
 
 # game/cliffroute3.rpy:2538
-translate Tchinese aftercliffint2_145b6f32:
+translate Schinese aftercliffint2_145b6f32:
 
     # ts "\"He won’t be back tonight.\""
     ts "“他今晚不会回来。”"
 
 # game/cliffroute3.rpy:2540
-translate Tchinese aftercliffint2_ed33ff24:
+translate Schinese aftercliffint2_ed33ff24:
 
     # "We listen for the bugs, and the wind, and the trace of any footsteps."
-    "我们仔細聆听蟲鳴、風吹还有任何腳步声。"
+    "我们仔细聆听虫鸣、风吹，以及任何脚步声。"
 
 # game/cliffroute3.rpy:2542
-translate Tchinese aftercliffint2_5bf9ccd6:
+translate Schinese aftercliffint2_5bf9ccd6:
 
     # "But there’s nothing."
     "但什么也没有。"
 
 # game/cliffroute3.rpy:2545
-translate Tchinese aftercliffint2_e81f9e2f:
+translate Schinese aftercliffint2_e81f9e2f:
 
     # ts "\"Get some sleep.\""
     ts "“睡吧。”"
 
 # game/cliffroute3.rpy:2548
-translate Tchinese aftercliffint2_4aa61d89:
+translate Schinese aftercliffint2_4aa61d89:
 
     # ts "\"I’ll know if you try to answer the door.\""
-    ts "“要是你去应去门我会知道的。”"
+    ts "“别试图去开门，我会知道的。”"
 
 # game/cliffroute3.rpy:2550
-translate Tchinese aftercliffint2_8edc5bd5:
+translate Schinese aftercliffint2_8edc5bd5:
 
     # m "\"How’s that?\""
     m "“为什么？”"
 
 # game/cliffroute3.rpy:2552
-translate Tchinese aftercliffint2_6706d86e:
+translate Schinese aftercliffint2_6706d86e:
 
     # ts "\"You make noise when you’re in pain.\""
-    ts "“你疼痛的时候会发出声音。”"
+    ts "“你藏不了吃痛的声音。”"
 
 # game/cliffroute3.rpy:2555
-translate Tchinese aftercliffint2_e6aedb7a:
+translate Schinese aftercliffint2_e6aedb7a:
 
     # ts "\"I’ll know.\""
-    ts "“我会知道的。”"
+    ts "“瞒不过我。”"
 
 # game/cliffroute3.rpy:2562
-translate Tchinese aftercliffint2_fec97169:
+translate Schinese aftercliffint2_fec97169:
 
     # "To be continued..."
-    "To be continued……"
+    "未完待续..."
 
 # TODO: Translation updated at 2023-01-03 14:14
 
 # game/cliffroute3.rpy:220
-translate Tchinese cliffroute3_45db4e9e:
+translate Schinese cliffroute3_45db4e9e:
 
     # mu "\"I was feeling awful lonely, you know. And after we had such a lovely evening at the springs the other night.\""
-    mu "“我着实感到寂寞难耐，尤其是在那个溫馨的泉水之夜后。”"
+    mu "“我着实感到寂寞难耐，尤其是在那个温馨的泉水之夜后。”"
 
 # game/cliffroute3.rpy:230
-translate Tchinese cliffroute3_27bb5261:
+translate Schinese cliffroute3_27bb5261:
 
     # cl "\"Well of course I did.\""
     cl "“那当然了。”"
 
 # game/cliffroute3.rpy:231
-translate Tchinese cliffroute3_0d6bd0bd:
+translate Schinese cliffroute3_0d6bd0bd:
 
     # mu "\"But what I'm saying is that it wasn't just another roll in the hay, right?\""
-    mu "“但我想说的是，那应该不只是隨便玩玩而已吧？”"
+    mu "“但我想说的是，那应该不只是随便玩玩而已吧？”"
 
 # game/cliffroute3.rpy:232
-translate Tchinese cliffroute3_624b0dfa:
+translate Schinese cliffroute3_624b0dfa:
 
     # mu "\"It was thrilling!\""
-    mu "“不只刺激極了！”"
+    mu "“何止刺激！”"
 
 # game/cliffroute3.rpy:233
-translate Tchinese cliffroute3_c90d9d47:
+translate Schinese cliffroute3_c90d9d47:
 
     # mu "\"And damn right special.\""
-    mu "“还特別得很。"
+    mu "“简直无与伦比。"
 
 # game/cliffroute3.rpy:234
-translate Tchinese cliffroute3_e1cead1d:
+translate Schinese cliffroute3_e1cead1d:
 
     # cl "\"No, no, I think so too.\""
-    cl "“你说的没错，我也这么想。”"
+    cl "“嗯，嗯，我深有同感。”"
 
 # game/cliffroute3.rpy:235
-translate Tchinese cliffroute3_8c83288c:
+translate Schinese cliffroute3_8c83288c:
 
     # mu "\"You'd like to keep doing things like that, right?\""
-    mu "“你应该也还想再做那些事，对吧？”"
+    mu "“相信你也一样觉得意犹未尽吧？”"
 
 # game/cliffroute3.rpy:236
-translate Tchinese cliffroute3_454b3f5e:
+translate Schinese cliffroute3_454b3f5e:
 
     # cl "\"Well, of course I would.\""
-    cl "“我当然是想了。”"
+    cl "“那当然了。”"
 
 # game/cliffroute3.rpy:237
-translate Tchinese cliffroute3_a7c1cd70:
+translate Schinese cliffroute3_a7c1cd70:
 
     # cl "\"At least whenever the circumstances allow.\""
-    cl "“如果找到机会的话。”"
+    cl "“如果我们还能找到机会的话。”"
 
 # game/cliffroute3.rpy:239
-translate Tchinese cliffroute3_856ca3b2:
+translate Schinese cliffroute3_856ca3b2:
 
     # mu "\"Well, what's that supposed to mean?\""
     mu "“你这话什么意思？”"
 
 # game/cliffroute3.rpy:244
-translate Tchinese murdochtent_9184fafa:
+translate Schinese murdochtent_9184fafa:
 
     # cl "\"I said that you were special to me and I meant it.\""
     cl "“我说过你们对我很特別，也是真心这么想的。”"
 
 # game/cliffroute3.rpy:245
-translate Tchinese murdochtent_26dd9d87:
+translate Schinese murdochtent_26dd9d87:
 
     # cl "\"The both of you\""
     cl "“你们两个都是。”"
 
 # game/cliffroute3.rpy:276
-translate Tchinese murdochtent_9afb1e70:
+translate Schinese murdochtent_9afb1e70:
 
     # cl "\"I had a fantastic go in the spings with you, but… I'd rather we stay on professional terms. At least for now.\""
-    cl "“跟你在泉水里的时光很美好，只是……我更希望大伙保持專注，至少目前是这样。”"
+    cl "“泉水里的那段时光很美妙，只是...我更希望大伙保持专注，至少目前是这样。”"
 
 # game/cliffroute3.rpy:280
-translate Tchinese murdochtent_3024dc9e:
+translate Schinese murdochtent_3024dc9e:
 
     # "For a moment, his expression shifts, and I see an intense emotion I've not seen before."
-    "有那么一瞬间，他的表情變了，我看到了一种前所未有的強烈情感。"
+    "有那么一瞬间，他的表情变了，我看到了一种前所未有的強烈情感。"
 
 # game/cliffroute3.rpy:282
-translate Tchinese murdochtent_002f9026:
+translate Schinese murdochtent_002f9026:
 
     # "Or something closer to an expression that feels like..."
-    "或更近似于……"
+    "或更近似于..."
 
 # game/cliffroute3.rpy:283
-translate Tchinese murdochtent_7311a9a5:
+translate Schinese murdochtent_7311a9a5:
 
     # "Nothing at all?"
     "虛无？"
 
 # game/cliffroute3.rpy:284
-translate Tchinese murdochtent_70aa10c9:
+translate Schinese murdochtent_70aa10c9:
 
     # "Disquieting."
     "令人不安。"
 
 # game/cliffroute3.rpy:285
-translate Tchinese murdochtent_9dab8dbc:
+translate Schinese murdochtent_9dab8dbc:
 
     # mu "\"Very well, sir.\""
     mu "“那好吧，先生。”"
 
 # game/cliffroute3.rpy:286
-translate Tchinese murdochtent_73835b72:
+translate Schinese murdochtent_73835b72:
 
     # mu "\"The photographs of your trip will be developed post-haste.\""
-    mu "“我会尽速你沖洗旅程中的照片。”"
+    mu "“我会尽快为你冲洗旅途中的相片。”"
 
 # game/cliffroute3.rpy:289
-translate Tchinese murdochtent_c4aa8a20:
+translate Schinese murdochtent_c4aa8a20:
 
     # "He quickly puts on that same cheeky grin again."
-    "他又迅速揚起了原本的奸笑。"
+    "他再度扬起一贯的奸笑。"
 
 # game/cliffroute3.rpy:290
-translate Tchinese murdochtent_1694c15b:
+translate Schinese murdochtent_1694c15b:
 
     # "Maybe he's fine after all?"
-    "也許他其实没什么问题吧？"
+    "他会没事的吧？"
 
 # game/cliffroute3.rpy:773
-translate Tchinese aftertent_0e36223e:
+translate Schinese aftertent_0e36223e:
 
     # ts "\"Tell me when he wants to discuss the attack with me.\""
     ts "“让他到时候过来吧。”"
 
 # game/cliffroute3.rpy:812
-translate Tchinese aftertent_815eff7b:
+translate Schinese aftertent_815eff7b:
 
     # ts "\"You are from Europa, yes?\""
-    ts "“你是从歐洲来的吧？”"
+    ts "“你是从欧洲来的？”"
 
 # game/cliffroute3.rpy:816
-translate Tchinese aftertent_ecc0d720:
+translate Schinese aftertent_ecc0d720:
 
     # ts "\"The truth is that it would have been best for everybody if your ancestors stayed there.\""
     ts "“別怪我话直，要是你的祖先能安分守己，对你们我们都好。”"
 
 # game/cliffroute3.rpy:821
-translate Tchinese aftertent_da1d3eca:
+translate Schinese aftertent_da1d3eca:
 
     # ts "\"Understanding one another also exposes vulnerabilities, yes?\""
     ts "“了解也会暴露出弱点，不是吗？”"
 
 # game/cliffroute3.rpy:823
-translate Tchinese aftertent_22e42be4:
+translate Schinese aftertent_22e42be4:
 
     # ts "\"Exploitable vulnerabilities.\""
     ts "“可利用的弱点。”"
 
 # game/cliffroute3.rpy:827
-translate Tchinese aftertent_23fa3e3b:
+translate Schinese aftertent_23fa3e3b:
 
     # ts "\"The collective information that my people give freely tends to be used by your people against them.\""
-    ts "“我们的无心之談，却被你们用来对付我们。”"
+    ts "“我们的无心之谈，却被你们拿来对付我们。”"
 
 # game/cliffroute3.rpy:828
-translate Tchinese aftertent_3c2dabae:
+translate Schinese aftertent_3c2dabae:
 
     # "The large bear shifts his weight."
     "大熊挪动重心。"
 
 # game/cliffroute3.rpy:830
-translate Tchinese aftertent_4f6310f4:
+translate Schinese aftertent_4f6310f4:
 
     # ys "\"Tsela is right.\""
     ys "“Tsela说的对。”"
 
 # game/cliffroute3.rpy:835
-translate Tchinese aftertent_059e42a8:
+translate Schinese aftertent_059e42a8:
 
     # ts "\"But now that we have talked so much already, you said that you had information to share?\""
-    ts "“不过既然都聊了这么久了，你是不是该分享一下情報了？”"
+    ts "“不过都聊了这么久了，你是不是也该分享一下情报了？”"
 
 # game/cliffroute3.rpy:839
-translate Tchinese aftertent_01289c38:
+translate Schinese aftertent_01289c38:
 
     # "But Tsela does have a point."
     "但Tsela说的有道理。"
 
 # game/cliffroute3.rpy:911
-translate Tchinese cliffint1_8e43bcfc:
+translate Schinese cliffint1_8e43bcfc:
 
     # "Tsela hisses something that I cannot understand."
     "Yiska发出我听不懂的噓声。"
 
 # game/cliffroute3.rpy:914
-translate Tchinese cliffint1_ebaa9124:
+translate Schinese cliffint1_ebaa9124:
 
     # "Yiska’s brow furrows and he looks a little sickened."
-    "Tsela眉头緊鎖，显得有些嫌惡。"
+    "Tsela眉头紧缩，显得有些厌恶。"
 
-translate Tchinese strings:
+translate Schinese strings:
 
     # game/cliffroute3.rpy:240
     old "That as strange as life can be, I'd like you in mine as much as possible."
-    new "不管生活有多曲折，我都希望能有你陪着。"
+    new "不论生活多么坎坷，我都希望有你陪着。"
 
     # game/cliffroute3.rpy:240
     old "That this was a fun diversion. But the future holds many hoops."
-    new "这是能好好转換心情，但未来还有很多變數。"
+    new "那是个不错的消遣方式，但未来还有很多变数。"
