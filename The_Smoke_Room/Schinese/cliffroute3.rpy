@@ -8286,13 +8286,13 @@ translate Schinese aftercliffint2_894ba048:
 translate Schinese aftercliffint2_316f10f3:
 
     # "And rapidly, he becomes smaller."
-    "接着他急速缩小。"
+    "然后他急剧缩小。"
 
 # game/cliffroute3.rpy:2284
 translate Schinese aftercliffint2_e9bc27ef:
 
     # "Something's dragging me."
-    "有东西正在把我拖走。"
+    "有东西正拖曳着我。"
 
 # game/cliffroute3.rpy:2301
 translate Schinese aftercliffint2_4f558eb4:
