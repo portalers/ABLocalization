@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-06 20:50
+# TODO: Translation updated at 2022-12-06 20:50
 
 # game/a3s1.rpy:5
 translate Schinese a3s1_00880592:
@@ -16,7 +16,7 @@ translate Schinese a3s1_6923244f:
 translate Schinese a3s1_6e6564e3:
 
     # "But it doesn't help them make sense of what's in front of them."
-    "但这无助于他们理解现在的情况。"
+    "但这无助于他们理解目前的情况。"
 
 # game/a3s1.rpy:14
 translate Schinese a3s1_e2f91d51:
@@ -34,7 +34,7 @@ translate Schinese a3s1_2d84c0e9:
 translate Schinese a3s1_c18d049b:
 
     # "These intrusive thoughts about not existing."
-    "质疑存在与否的侵入性思维开始云集。"
+    "对存在表示质疑的侵入性思维开始云集。"
 
 # game/a3s1.rpy:17
 translate Schinese a3s1_c2bec849:
@@ -52,7 +52,7 @@ translate Schinese a3s1_9662df53:
 translate Schinese a3s1_3a3da7cd:
 
     # "Fear rises up into his throat, something deep in his brain telling him to flee that voice, to escape from it."
-    "恐惧在他的喉咙里翻涌，他大脑深处的某个存在告诉他要远离那个声音，越远越好。"
+    "恐惧在他的喉咙里翻涌，他大脑深处的某些存在告诉他要远离那个声音，越远越好。"
 
 # game/a3s1.rpy:21
 translate Schinese a3s1_cfa75a69:
@@ -112,13 +112,13 @@ translate Schinese a3s1_7440dca2:
 translate Schinese a3s1_9824017b:
 
     # "In his mind's eye, he looks {i}forward{/i}, and he sees a myriad of people in front of him, though they're all the same people: Devon, Brian, and himself, locked in a vicious, spinning blur of claws and teeth, blood and horrific, unidentifiable viscera."
-    "他{b}极目远眺{/b}，看到有无数个相同的人：Devon、Brian、还有他自己，在一个充满恶意的地方僵持，用快到模糊的爪和牙洒下鲜血与难以辨别的脏器。"
+    "他{b}极目远眺{/b}，看到有无数个Devon、Brian、还有他自己，在一个满是恶意的地方，用快到模糊的爪和牙洒下鲜血与难以辨别的脏器。"
 
 # game/a3s1.rpy:32
 translate Schinese a3s1_9d95ffe2:
 
     # "It's confusing, seeing so many versions of himself and his boyfriend, and he turns his head to glance away, not wanting to see that violence."
-    "如此多版本的自己和男朋友让Cameron感到混乱，他转过头去，好避开这残暴的画面。"
+    "如此多版本的自己和男朋友让Cameron感到混乱，他转过头去，好避开这血淋淋的画面。"
 
 # game/a3s1.rpy:33
 translate Schinese a3s1_ebe9a70f:
@@ -172,7 +172,7 @@ translate Schinese a3s1_5023437a:
 translate Schinese a3s1_b1063d3c:
 
     # b "\"Heh, not yet, kid. We got a few things to do first, and you probably wanna see your boyfriend too, eh? Not sure you'll get to talk to him since he's knocked out.\""
-    b "\"不，小子，咱俩还有账要算呐，再说你不想见你的小男友了？虽然他昏了过去，不知道还能不能吭声。\""
+    b "\"当然没有，小子，咱俩还有账要算呐，再说你不想见你的小男友了？虽然他昏了过去，能吱一声就不错了。\""
 
 # game/a3s1.rpy:49
 translate Schinese a3s1_bf5b8b22:
@@ -190,25 +190,25 @@ translate Schinese a3s1_d2809e7c:
 translate Schinese a3s1_b1e3541c:
 
     # c "\"Wait, with what?\""
-    c "\"你对他做了什么？\""
+    c "\"你、对他做了什么？\""
 
 # game/a3s1.rpy:55
 translate Schinese a3s1_1226c258:
 
     # b "\"Relax, It's just Rohypnol. Sure, I gave him a good amount, but they're a few decades old because they made 'em illegal in the States back in the 90s, and you know, when pills get old, they don't work so good anymore--\""
-    b "\"放松，罗眠乐而已。 Sure, I gave him a good amount, but they're a few decades old because they made 'em illegal in the States back in the 90s, and you know, when pills get old, they don't work so good anymore--\""
+    b "\"放松，罗眠乐而已。我是喂了他不少，但毕竟是90年代前的老古董了，那会儿它还是合法的呐。你也知道，药过期了，就不怎么-\""
 
 # game/a3s1.rpy:56
 translate Schinese a3s1_ad2b7cd3:
 
     # "Brian goes on and on about Rohypnol and how it used to be the premiere date rape drug in the country."
-    "Brian goes on and on about Rohypnol and how it used to be the premiere date rape drug in the country."
+    "Brian滔滔不绝地讲起了罗眠乐，以及它是如何成为本国最早的迷奸药物。"
 
 # game/a3s1.rpy:58
 translate Schinese a3s1_2a9ed6f4:
 
     # "Cameron watches the bear's mouth move in waves and ripples, yellow teeth poking out from behind his lips as saliva collects and becomes frothy at the corners."
-    "Cameron watches the bear's mouth move in waves and ripples, yellow teeth poking out from behind his lips as saliva collects and becomes frothy at the corners."
+    "Cameron看着熊的嘴唇在波浪与涟漪中翻飞，喷吐出唾液形成的泡沫与后面黄色的牙齿。"
 
 # game/a3s1.rpy:59
 translate Schinese a3s1_4e6633ab:
@@ -238,13 +238,13 @@ translate Schinese a3s1_d3fa505b:
 translate Schinese a3s1_1a063583:
 
     # "I."
-    "这个我。"
+    "我。"
 
 # game/a3s1.rpy:64
 translate Schinese a3s1_d5e95f15:
 
     # "Me."
-    "那个我。"
+    "是我。"
 
 # game/a3s1.rpy:65
 translate Schinese a3s1_8859a18b:
@@ -256,697 +256,697 @@ translate Schinese a3s1_8859a18b:
 translate Schinese a3s1_e6efcfde:
 
     # "Simple concepts that aren't so simple anymore."
-    "一个简单，但又不再简单的概念。"
+    "一个简单，却又不再简单的概念。"
 
 # game/a3s1.rpy:67
 translate Schinese a3s1_605b8ae8:
 
     # "Just like in high school, he's stopped existing."
-    "Just like in high school, he's stopped existing."
+    "就像高中那时一样，他迷失了自我。"
 
 # game/a3s1.rpy:68
 translate Schinese a3s1_b5433a02:
 
     # "It's different this time, though."
-    "It's different this time, though."
+    "但又不太一样。"
 
 # game/a3s1.rpy:69
 translate Schinese a3s1_bcc7dae1:
 
     # "The Xanax is certainly quashing the panic he should be feeling right now, but this time, his perspective is from a completely different angle."
-    "The Xanax is certainly quashing the panic he should be feeling right now, but this time, his perspective is from a completely different angle."
+    "阿普唑仑的的确确缓解了他本应感到的恐慌，然而这一次，他站在一个完全不同的视角。"
 
 # game/a3s1.rpy:70
 translate Schinese a3s1_b6bd2126:
 
     # "Cameron's amalgamation does still exist, but the borders have dissolved, and he seems to be seeping into everything."
-    "Cameron's amalgamation does still exist, but the borders have dissolved, and he seems to be seeping into everything."
+    "Cameron这个个体依然存在，却又似乎溶解，渗透进了万物之中。"
 
 # game/a3s1.rpy:71
 translate Schinese a3s1_8dd52366:
 
     # "Despite already knowing he's insignificant, he's still awestruck by how small 'Cameron' is compared to the world."
-    "Despite already knowing he's insignificant, he's still awestruck by how small 'Cameron' is compared to the world."
+    "尽管明白自己有多么微不足道，但他仍为‘Cameron’在天地中的渺小而感到敬畏。"
 
 # game/a3s1.rpy:72
 translate Schinese a3s1_9d4b21b0:
 
     # "Even the bugs crawling beneath the leaves make Cameron feel small, an entire world he knows nothing about."
-    "Even the bugs crawling beneath the leaves make Cameron feel small, an entire world he knows nothing about."
+    "即便是树叶下爬行的昆虫，在他眼中也无比庞大。这是一个他一无所知的世界。"
 
 # game/a3s1.rpy:73
 translate Schinese a3s1_105b03af:
 
     # "But entangling his identity with the universe means he's also entangled with Brian."
-    "But entangling his identity with the universe means he's also entangled with Brian."
+    "但与万物纠缠在一起，也意味着他与Brian纠缠在一起。"
 
 # game/a3s1.rpy:74
 translate Schinese a3s1_d4aa31cd:
 
     # "The bear is missing parts of himself, kind of like Artie, shattered pieces and jagged holes pockmarking the landscape of his life."
-    "The bear is missing parts of himself, kind of like Artie, shattered pieces and jagged holes pockmarking the landscape of his life."
+    "和Artie很像，那头熊失去了自己的一部分，他支离破碎的人生布满了锯齿状的坑洞。"
 
 # game/a3s1.rpy:75
 translate Schinese a3s1_48c35972:
 
     # "Cameron almost feels sorry for him, that maybe if things had been just a little different, the odds just a little more in Brian's favor, he could have been a very different person."
-    "Cameron almost feels sorry for him, that maybe if things had been just a little different, the odds just a little more in Brian's favor, he could have been a very different person."
+    "Cameron几乎为他感到惋惜，如果命运能对他再仁慈一些，也许他会成为一个完全不同的人。"
 
 # game/a3s1.rpy:76
 translate Schinese a3s1_dce7e0c4:
 
     # "What's really disturbing though, is the genuine affection he has for Cameron, his urge to caress and hold the coyote, but..."
-    "What's really disturbing though, is the genuine affection he has for Cameron, his urge to caress and hold the coyote, but..."
+    "然而，真正令人不安的是他对Cameron的情感。他既有爱抚、拥抱郊狼的冲动..."
 
 # game/a3s1.rpy:77
 translate Schinese a3s1_ca2debdf:
 
     # "There's a hatred there too, a disgust for what Cameron is."
-    "There's a hatred there too, a disgust for what Cameron is."
+    "又有对Cameron的仇恨与厌恶。"
 
 # game/a3s1.rpy:78
 translate Schinese a3s1_b190fe83:
 
     # "Young, attractive, and a fag..."
-    "Young, attractive, and a fag..."
+    "年轻、充满魅力，还是个同性恋..."
 
 # game/a3s1.rpy:79
 translate Schinese a3s1_69e22556:
 
     # "Not just {i}queer{/i} like Brian considers himself to be, but a faggot."
-    "Not just {i}queer{/i} like Brian considers himself to be, but a faggot."
+    "不是Brian自我认知的{b}同志{/b}，而是基佬。"
 
 # game/a3s1.rpy:80
 translate Schinese a3s1_eff5ca1f:
 
     # "The kind of queer that acts real cute before fucking over the real men who should be doing all the fucking."
-    "The kind of queer that acts real cute before fucking over the real men who should be doing all the fucking."
+    "那种摇尾乞怜，只为跟别的男人上床的异端。"
 
 # game/a3s1.rpy:81
 translate Schinese a3s1_6209405b:
 
     # "So it feels good to punish Cameron, but it's even better to watch him suffer, to watch the way his body writhes, his mouth open for air, his eyes wide and fearful."
-    "So it feels good to punish Cameron, but it's even better to watch him suffer, to watch the way his body writhes, his mouth open for air, his eyes wide and fearful."
+    "所以他想要惩罚Cameron。亲眼看着他受苦、挣扎、喘不过气、眼睛里充满了恐惧，熊更是倍感愉悦。"
 
 # game/a3s1.rpy:82
 translate Schinese a3s1_1cded138:
 
     # "Cameron feels himself recoil from understanding Brian's thought process, a way of thinking he'd never consider himself."
-    "Cameron feels himself recoil from understanding Brian's thought process, a way of thinking he'd never consider himself."
+    "Cameron畏缩了，这种思维方式令他始料未及。"
 
 # game/a3s1.rpy:83
 translate Schinese a3s1_b664b584:
 
     # "But that thought process isn't what makes Brian the terrible person that he is."
-    "But that thought process isn't what makes Brian the terrible person that he is."
+    "但Brian堕落至此，其实并不是这个原因。"
 
 # game/a3s1.rpy:84
 translate Schinese a3s1_098c008e:
 
     # "Cameron knew a few guys from college who had interests similar to Brian."
-    "Cameron knew a few guys from college who had interests similar to Brian."
+    "Cameron认识几个有和Brian兴趣类似的大学同学。"
 
 # game/a3s1.rpy:85
 translate Schinese a3s1_0050d171:
 
     # "During his first year of dating Devon, Cameron had timidly asked him if he could gently close his teeth over the coyote's neck and growl."
-    "During his first year of dating Devon, Cameron had timidly asked him if he could gently close his teeth over the coyote's neck and growl."
+    "在和Devon交往的第一年，Cameron曾怯怯地问对方可否轻轻地咬住自己的脖子并咆哮。"
 
 # game/a3s1.rpy:86
 translate Schinese a3s1_03c945b2:
 
     # "Then Devon had a nightmare about tearing out Cameron's throat, and that was the end of that."
-    "Then Devon had a nightmare about tearing out Cameron's throat, and that was the end of that."
+    "之后Devon做了个噩梦，梦到他咬碎了Cameron的喉咙，这事便不了了之了。"
 
 # game/a3s1.rpy:87
 translate Schinese a3s1_81bdbd0f:
 
     # "So, to Cameron, Brian isn't all that strange."
-    "So, to Cameron, Brian isn't all that strange."
+    "所以对Cameron来说，Brian并不陌生。"
 
 # game/a3s1.rpy:88
 translate Schinese a3s1_9dc163c7:
 
     # "What makes Brian different isn't that he has fetishes."
-    "What makes Brian different isn't that he has fetishes."
+    "Brian的异常与他的性癖无关。"
 
 # game/a3s1.rpy:89
 translate Schinese a3s1_542cf7b8:
 
     # "He's not crazy."
-    "He's not crazy."
+    "他没有疯。"
 
 # game/a3s1.rpy:90
 translate Schinese a3s1_12ab8fe4:
 
     # "He's not a psychopath."
-    "He's not a psychopath."
+    "他不是精神病。"
 
 # game/a3s1.rpy:91
 translate Schinese a3s1_bfbcbbdf:
 
     # "No, the true root of Brian's evil is clear."
-    "No, the true root of Brian's evil is clear."
+    "他骨子里的恶再明显不过了。"
 
 # game/a3s1.rpy:92
 translate Schinese a3s1_0cf73f39:
 
     # "He's selfish, and he's never satisfied with what he gets."
-    "He's selfish, and he's never satisfied with what he gets."
+    "他永远不会知足。"
 
 # game/a3s1.rpy:93
 translate Schinese a3s1_e9907587:
 
     # "Selfish enough to put dozens of young people through hellish torture until they finally die."
-    "Selfish enough to put dozens of young people through hellish torture until they finally die."
+    "他自私到让数十个年轻人遭受地狱般的折磨，直到他们死去。"
 
 # game/a3s1.rpy:94
 translate Schinese a3s1_fbf907c6:
 
     # "All while having the capacity to control himself."
-    "All while having the capacity to control himself."
+    "同时还要有能力控制自己。"
 
 # game/a3s1.rpy:95
 translate Schinese a3s1_91cd0f06:
 
     # "All while having full access to alternatives to murder."
-    "All while having full access to alternatives to murder."
+    "所有这些，完全不至于用谋杀这一种方式。"
 
 # game/a3s1.rpy:96
 translate Schinese a3s1_1a5cdd59:
 
     # "All for his own fleeting, drug-fueled, sexual gratification because at one point, Brian decided that's what makes him feel good, so fuck this world that makes him feel bad."
-    "All for his own fleeting, drug-fueled, sexual gratification because at one point, Brian decided that's what makes him feel good, so fuck this world that makes him feel bad."
+    "所有这些，都只是为了满足他转瞬即逝的、在毒品驱动下的性快感。只是因为在某一时刻，Brian觉得这么做很爽，就让这个糟糕的世界去他妈的吧。"
 
 # game/a3s1.rpy:97
 translate Schinese a3s1_98b1d35a:
 
     # "But he'd found some release in strangling Cameron, and now his focus is turning back to a vague idea on how to use Cameron's abilities."
-    "But he'd found some release in strangling Cameron, and now his focus is turning back to a vague idea on how to use Cameron's abilities."
+    "不过他在勒死Cameron的过程中得到了一些释放，现在他的注意力又回到了如何利用Cameron的能力上。"
 
 # game/a3s1.rpy:98
 translate Schinese a3s1_6ac57383:
 
     # "Something to stop him from spending the rest of eternity with his victims torturing him."
-    "Something to stop him from spending the rest of eternity with his victims torturing him."
+    "如何阻止他在受害者的折磨下度过余生。"
 
 # game/a3s1.rpy:99
 translate Schinese a3s1_c8debf76:
 
     # "Cameron could spoil the ending for Brian, let him know that when everyone dies, they just cease to be what they were."
-    "Cameron could spoil the ending for Brian, let him know that when everyone dies, they just cease to be what they were."
+    "Cameron可能会为Brian带来一线生机，告诉他所有人死后都不再是原来的自己。"
 
 # game/a3s1.rpy:100
 translate Schinese a3s1_2fac8ceb:
 
     # "That's it."
-    "That's it."
+    "就是这样。"
 
 # game/a3s1.rpy:101
 translate Schinese a3s1_ad49f87d:
 
     # "Ghosts, demons, poltergeists?"
-    "Ghosts, demons, poltergeists?"
+    "幽灵、恶魔、促狭鬼？"
 
 # game/a3s1.rpy:102
 translate Schinese a3s1_4a7fdf72:
 
     # "Creations of the living... and whatever it is that's in Echo."
-    "Creations of the living... and whatever it is that's in Echo."
+    "变成新的造物...徘徊在回音中。"
 
 # game/a3s1.rpy:104
 translate Schinese a3s1_eb186a87:
 
     # "Cameron draws back at this point, getting overwhelmed by all the thoughts coming from the old bear, unable to understand them without more context."
-    "Cameron draws back at this point, getting overwhelmed by all the thoughts coming from the old bear, unable to understand them without more context."
+    "至此，Cameron无法继续了。他被老熊的思维洪流淹没，没有更多背景，就无从理解那些想法。"
 
 # game/a3s1.rpy:106
 translate Schinese a3s1_67ed1017:
 
     # "Looking {i}forward{/i}, he glimpses the various scenarios again, and the one constant is death."
-    "Looking {i}forward{/i}, he glimpses the various scenarios again, and the one constant is death."
+    "他望向{b}远方{/b}，再次瞥见了各种情景，其中唯一不变的是死亡。"
 
 # game/a3s1.rpy:107
 translate Schinese a3s1_ffd7f564:
 
     # "Most involve him dying, and a good amount involve Devon dying as well."
-    "Most involve him dying, and a good amount involve Devon dying as well."
+    "大多数涉及到他自己，还有相当一部分涉及到Devon。"
 
 # game/a3s1.rpy:108
 translate Schinese a3s1_611701c3:
 
     # "Cameron imagines that this is indicative of what's most likely to happen."
-    "Cameron imagines that this is indicative of what's most likely to happen."
+    "Cameron认为这是未来的可能性。"
 
 # game/a3s1.rpy:109
 translate Schinese a3s1_1bfe3f1e:
 
     # "But a few, just two, in fact, show Cameron and Devon surviving, with Brian either living or dying."
-    "But a few, just two, in fact, show Cameron and Devon surviving, with Brian either living or dying."
+    "然而先不论Brian的死活，Cameron和Devon一起幸存的结局寥寥无几-事实上只有两个。"
 
 # game/a3s1.rpy:110
 translate Schinese a3s1_b6a2ff66:
 
     # "Cameron doesn't care much about the latter, just as long as he can get Devon and himself out of Echo alive."
-    "Cameron doesn't care much about the latter, just as long as he can get Devon and himself out of Echo alive."
+    "Cameron并不关心前者，他只想和Devon一起活着离开回音镇。"
 
 # game/a3s1.rpy:111
 translate Schinese a3s1_3969caec:
 
     # "They can deal with Brian afterwards."
-    "They can deal with Brian afterwards."
+    "Brian的事可以之后再说。"
 
 # game/a3s1.rpy:112
 translate Schinese a3s1_8d0f2ef6:
 
     # "Cameron doesn't even care much if he doesn't make it, especially in this state of mind, but he won't accept not being able to save Devon."
-    "Cameron doesn't even care much if he doesn't make it, especially in this state of mind, but he won't accept not being able to save Devon."
+    "Cameron甚至不在乎他自己会怎么样，特别是在这种心境下。但唯有Devon，他无论如何也要拯救他。"
 
 # game/a3s1.rpy:113
 translate Schinese a3s1_fdbfabbc:
 
     # "Suddenly remembering what he had done earlier, Cameron tries to subtly brush his pocket, and is amazed that the key is still there."
-    "Suddenly remembering what he had done earlier, Cameron tries to subtly brush his pocket, and is amazed that the key is still there."
+    "突然，Cameron想起了早些时候。他轻抚衣兜，并惊讶地发现钥匙还在那里。"
 
 # game/a3s1.rpy:115
 translate Schinese a3s1_876b42e4:
 
     # "Does Brian know?"
-    "Does Brian know?"
+    "Brian知道吗？"
 
 # game/a3s1.rpy:116
 translate Schinese a3s1_058f3702:
 
     # "Well, he does know what Cameron had planned, but in his own excitement, and especially because he's tweaked out, he's hyperfocusing on other things."
-    "Well, he does know what Cameron had planned, but in his own excitement, and especially because he's tweaked out, he's hyperfocusing on other things."
+    "没错，他确实知道Cameron计划着什么。但出于兴奋，尤其是毒品带来的刺激，他早就把这件事抛到九霄云外了。"
 
 # game/a3s1.rpy:117
 translate Schinese a3s1_4d9ed053:
 
     # "He'd missed the key even being taken out of his pocket."
-    "He'd missed the key even being taken out of his pocket."
+    "甚至钥匙被偷走他也不曾察觉。"
 
 # game/a3s1.rpy:118
 translate Schinese a3s1_59fa1382:
 
     # "That, and Brian's memory is terrible."
-    "That, and Brian's memory is terrible."
+    "此外，Brian的记忆力极差。"
 
 # game/a3s1.rpy:119
 translate Schinese a3s1_74bc82ac:
 
     # "Decades of drugs at neurotoxic doses had dismantled who he used to be."
-    "Decades of drugs at neurotoxic doses had dismantled who he used to be."
+    "长年累月的毒素摧毁了他的神经。"
 
 # game/a3s1.rpy:120
 translate Schinese a3s1_b8811d5b:
 
     # "He doesn't even seem to remember why he choked Cameron in the first place."
-    "He doesn't even seem to remember why he choked Cameron in the first place."
+    "他似乎连为什么要掐死Cameron都不记得了。"
 
 # game/a3s1.rpy:122
 translate Schinese a3s1_dc1afe32:
 
     # b "\"...had to make connections down in Sonora. Stuff was over-the-fucking-counter there, so it was easy to get, but getting it over-the-fucking-border is a whole different issue--\""
-    b "\"...had to make connections down in Sonora. Stuff was over-the-fucking-counter there, so it was easy to get, but getting it over-the-fucking-border is a whole different issue--\""
+    b "\"...只能去索诺拉找找路子，那里有的是现货。不过弄到手容易，出州就-\""
 
 # game/a3s1.rpy:124
 translate Schinese a3s1_be5c9940:
 
     # "Brian suddenly stops talking, eyes narrowing."
-    "Brian suddenly stops talking, eyes narrowing."
+    "Brian突然停止了说话，眼睛眯成一条缝。"
 
 # game/a3s1.rpy:125
 translate Schinese a3s1_31d56de6:
 
     # "Cameron's pulse quickens as he wonders if Brian had just remembered his plan."
-    "Cameron's pulse quickens as he wonders if Brian had just remembered his plan."
+    "Cameron心砰砰的跳，生怕Brian如梦初醒。"
 
 # game/a3s1.rpy:128
 translate Schinese a3s1_0570e3ac:
 
     # c "\"What's wrong?\""
-    c "\"What's wrong?\""
+    c "\"你怎么了？\""
 
 # game/a3s1.rpy:129
 translate Schinese a3s1_ea8a1596:
 
     # "His voice is still rough from the strangling, a deep soreness starting to emanate from the core of his neck."
-    "His voice is still rough from the strangling, a deep soreness starting to emanate from the core of his neck."
+    "因为被勒着脖子，他的声音仍然粗哑，一股剧烈的疼痛窜上他的喉咙。"
 
 # game/a3s1.rpy:130
 translate Schinese a3s1_fe0037e7:
 
     # b "\"I dunno, I just like you better when you're smilin', but if I'm fuckin' borin' ya, just say so.\""
-    b "\"I dunno, I just like you better when you're smilin', but if I'm fuckin' borin' ya, just say so.\""
+    b "\"不知道，但我更喜欢你笑的时候，你要是感觉我无聊就直说。\""
 
 # game/a3s1.rpy:132
 translate Schinese a3s1_8798434f:
 
     # "It takes Cameron a few seconds to understand what Brian is even talking about, then a few more to scan the bear's thoughts."
-    "It takes Cameron a few seconds to understand what Brian is even talking about, then a few more to scan the bear's thoughts."
+    "Cameron花了好几秒钟才理解Brian在说什么，然后又花了几秒钟来读对方的心思。"
 
 # game/a3s1.rpy:133
 translate Schinese a3s1_bf2f6d18:
 
     # "In Brian's mind, his smiling has a lot to do with how interesting the bear's over-explanation of Rohypnol is, so Cameron quickly puts one on his face."
-    "In Brian's mind, his smiling has a lot to do with how interesting the bear's over-explanation of Rohypnol is, so Cameron quickly puts one on his face."
+    "看来Brian把他的笑与那番过渡说明是否有趣画了等号，于是Cameron赶忙摆出一张笑脸。"
 
 # game/a3s1.rpy:135
 translate Schinese a3s1_bff052b9:
 
     # c "\"Oh, sorry, it is really interesting. I'm just so overwhelmed with the drugs and--\""
-    c "\"Oh, sorry, it is really interesting. I'm just so overwhelmed with the drugs and--\""
+    c "\"噢，才不无聊呢。只是我吸了毒，不太能听进去-\""
 
 # game/a3s1.rpy:137
 translate Schinese a3s1_505143e9:
 
     # b "\"Shut up.\""
-    b "\"Shut up.\""
+    b "\"闭嘴。\""
 
 # game/a3s1.rpy:139
 translate Schinese a3s1_d0bd3f82:
 
     # "Cameron shuts up."
-    "Cameron shuts up."
+    "Cameron照做了。"
 
 # game/a3s1.rpy:142
 translate Schinese a3s1_2619f3a5:
 
     # "Brian starts to work his jaw, like he's chewing something before clenching his fist, and Cameron tenses up, preparing himself to be hit again."
-    "Brian starts to work his jaw, like he's chewing something before clenching his fist, and Cameron tenses up, preparing himself to be hit again."
+    "Brian好像在咀嚼什么东西一样活动起了下巴，接着又握紧拳头。Cameron心里一惊，做好再次被打的准备。"
 
 # game/a3s1.rpy:143
 translate Schinese a3s1_75a82be8:
 
     # b "\"You're cute, but not that cute, and I'm not that stupid. I hate fags like you, sucking up and sucking dick so you get what you really want.\""
-    b "\"You're cute, but not that cute, and I'm not that stupid. I hate fags like you, sucking up and sucking dick so you get what you really want.\""
+    b "\"你很可爱，但也没那么可爱，我也没那么蠢。我最讨厌的就是你这样的小基佬，又是拍马屁，又是献殷勤的，其实心里全他妈是小九九。\""
 
 # game/a3s1.rpy:144
 translate Schinese a3s1_b0c18809:
 
     # "Brian's mind flicks through a few faces, but the only one defined enough for Cameron to comprehend is a fox in a red hat."
-    "Brian's mind flicks through a few faces, but the only one defined enough for Cameron to comprehend is a fox in a red hat."
+    "Brian的脑中闪过几张脸，但Cameron只能分辨出一只戴着红色帽子的狐狸。"
 
 # game/a3s1.rpy:145
 translate Schinese a3s1_6193990c:
 
     # "Then Brian seems to relax, but the anger is still there, the bear having honed it to become more cool and collected, which only makes it all the more terrifying."
-    "Then Brian seems to relax, but the anger is still there, the bear having honed it to become more cool and collected, which only makes it all the more terrifying."
+    "说罢，Brian似乎恢复了理智，可他的愤怒依旧存在，并在熊的打磨下变得淡漠而冷静，显得尤为可怕。"
 
 # game/a3s1.rpy:146
 translate Schinese a3s1_0532fa57:
 
     # "Sure, stimulants increase empathy in a normal brain, but if Brian abused them to the point that amphetamines feel like caffeine, then it probably only increases his irritability and rage."
-    "Sure, stimulants increase empathy in a normal brain, but if Brian abused them to the point that amphetamines feel like caffeine, then it probably only increases his irritability and rage."
+    "诚然，兴奋剂可以起到提升正常人同理心的作用。但对Brian这种滥用毒品，把安非他明当成咖啡因用的人来说，这大概只会催生他的易怒和暴力程度。"
 
 # game/a3s1.rpy:147
 translate Schinese a3s1_1a31de6d:
 
     # "That's what his mother was like at the end, and it always confused Cameron as to why someone would want to do a drug that makes them feel worse."
-    "That's what his mother was like at the end, and it always confused Cameron as to why someone would want to do a drug that makes them feel worse."
+    "这就是他母亲最后的样子。Cameron不明白，为什么有人会想服用一种让他们感觉更糟的药物。"
 
 # game/a3s1.rpy:148
 translate Schinese a3s1_b6592d2a:
 
     # b "\"I got a better idea.\""
-    b "\"I got a better idea.\""
+    b "\"我想到一个好主意。\""
 
 # game/a3s1.rpy:153
 translate Schinese a3s1_aca69da8:
 
     # "Cameron gasps as Brian grabs him by the ear."
-    "Cameron gasps as Brian grabs him by the ear."
+    "Brian抓住Cameron的耳朵，Cameron倒抽了一口气。"
 
 # game/a3s1.rpy:154
 translate Schinese a3s1_987337a5:
 
     # c "\"No, no! Stop, I can walk with you. I won't try to run-- OW!\""
-    c "\"No, no! Stop, I can walk with you. I won't try to run-- OW!\""
+    c "\"不，不要！我会乖乖跟着你的，我不会逃跑-{b}嗷{/b}！\""
 
 # game/a3s1.rpy:155
 translate Schinese a3s1_5d29f70a:
 
     # "Cameron senses the bear's amusement at his fear of being pulled up by his ear again, and the coyote quickly stifles his begging, realizing it might shift Brian's interests back to using Cameron for torture rather than his abilities."
-    "Cameron senses the bear's amusement at his fear of being pulled up by his ear again, and the coyote quickly stifles his begging, realizing it might shift Brian's interests back to using Cameron for torture rather than his abilities."
+    "Cameron感觉他的害怕勾起了熊的兴趣，于是迅速抑制住自己的哀求：Brian可能会因此把心思转移回折磨Cameron，不是他的能力上。"
 
 # game/a3s1.rpy:156
 translate Schinese a3s1_fdcb8bf8:
 
     # "The pain had been blinding, but it's nothing, absolutely nothing compared to what this bear has done to others."
-    "The pain had been blinding, but it's nothing, absolutely nothing compared to what this bear has done to others."
+    "疼痛令他睁不开眼，但与其他的受害者相比，这根本不算什么。"
 
 # game/a3s1.rpy:157
 translate Schinese a3s1_46789eb1:
 
     # "Cameron manages to settle into a stumbling walk as Brian pulls him along, bent over and trying to see the ground in the darkness, all while he tries to carefully follow the bear's rough, unpredictable movements."
-    "Cameron manages to settle into a stumbling walk as Brian pulls him along, bent over and trying to see the ground in the darkness, all while he tries to carefully follow the bear's rough, unpredictable movements."
+    "Brian拽着Cameron的耳朵走了。踉踉跄跄的Cameron一边弯着腰，试图在黑暗中看清地面，另一边还要应付熊粗暴而难以捉摸的动作。"
 
 # game/a3s1.rpy:158
 translate Schinese a3s1_e0c3a977:
 
     # "Every minute or so, Cameron looks {i}forward{/i}, and sees the scenario he's aiming for, still within reach, so he keeps walking."
-    "Every minute or so, Cameron looks {i}forward{/i}, and sees the scenario he's aiming for, still within reach, so he keeps walking."
+    "每隔一分钟左右，Cameron都会看一眼{b}远方{/b}，看那理想中的情况是否仍在他力所能及的范围内。"
 
 # game/a3s1.rpy:159
 translate Schinese a3s1_993d1ff2:
 
     # "Meanwhile, a van emerges from the trees, parked a ways off the side of the road."
-    "Meanwhile, a van emerges from the trees, parked a ways off the side of the road."
+    "与此同时，离路边很远的树林中冒出了一辆货车。"
 
 # game/a3s1.rpy:161
 translate Schinese a3s1_448ad9db:
 
     # "Brian freezes, staring."
-    "Brian freezes, staring."
+    "Brian停在原地，凝视着那里。"
 
 # game/a3s1.rpy:162
 translate Schinese a3s1_1f22484b:
 
     # "Then he lets out a surprised laugh."
-    "Then he lets out a surprised laugh."
+    "然后发出惊讶的笑声。"
 
 # game/a3s1.rpy:165
 translate Schinese a3s1_d6d6ac50:
 
     # b "\"Well, I'll be damned. The fucker got away!\""
-    b "\"Well, I'll be damned. The fucker got away!\""
+    b "\"哎呀，那小混蛋竟然跑了！\""
 
 # game/a3s1.rpy:168
 translate Schinese a3s1_bc66b507:
 
     # c "\"Who?\""
-    c "\"Who?\""
+    c "\"谁啊？\""
 
 # game/a3s1.rpy:169
 translate Schinese a3s1_e3074341:
 
     # "The coyote winces as Brian continues to hold him by his ear."
-    "The coyote winces as Brian continues to hold him by his ear."
+    "Brian拽着郊狼继续向前，郊狼疼得直呲牙。"
 
 # game/a3s1.rpy:170
 translate Schinese a3s1_4d12d6db:
 
     # "Cameron hopes that he's talking about Devon, even though Cameron can sense the presence younger bear just ahead of them."
-    "Cameron hopes that he's talking about Devon, even though Cameron can sense the presence younger bear just ahead of them."
+    "Cameron希望Brian指的是Devon，尽管他能感知到年轻的熊就在他们前面。"
 
 # game/a3s1.rpy:171
 translate Schinese a3s1_c14f411f:
 
     # "The coyote would be glad to be proven wrong about these abilities, especially if it means Devon gets away, as much as that would make Cameron want to give up."
-    "The coyote would be glad to be proven wrong about these abilities, especially if it means Devon gets away, as much as that would make Cameron want to give up."
+    "如果这份能力被证明是错的也好，毕竟这意味着Devon成功逃脱了，但Cameron也会失去坚持下去的动力。"
 
 # game/a3s1.rpy:173
 translate Schinese a3s1_2bb86395:
 
     # b "\"That cat! I swear I shot him twice, too. Then again, he didn't do that weird jerking thing people do when you give 'em the kill shot, so I must've missed the second time. Thought maybe I'd just killed him with the first.\""
-    b "\"That cat! I swear I shot him twice, too. Then again, he didn't do that weird jerking thing people do when you give 'em the kill shot, so I must've missed the second time. Thought maybe I'd just killed him with the first.\""
+    b "\"那只猫！我发誓朝他开了两枪。不过话说回来，开第二枪的时候确实没见他抽搐来着，大概是射空了，我还以为一枪能结果了他呢。\""
 
 # game/a3s1.rpy:175
 translate Schinese a3s1_821bb5c6:
 
     # "Cameron looks where Brian is staring, and sees the spot where Arturo must have been."
-    "Cameron looks where Brian is staring, and sees the spot where Arturo must have been."
+    "Cameron看向Brian凝视着的地方，他确信Arturo在那里待过。"
 
 # game/a3s1.rpy:177
 translate Schinese a3s1_bfa03479:
 
     # "Dark stains cover the leaves, along with what looks like vomit, and Cameron feels his own stomach churn at the sight."
-    "Dark stains cover the leaves, along with what looks like vomit, and Cameron feels his own stomach churn at the sight."
+    "树叶上覆满了黑色的污渍与看起来像呕吐物的东西，看到这一幕，Cameron只感觉自己的胃在翻腾。"
 
 # game/a3s1.rpy:178
 translate Schinese a3s1_a423a389:
 
     # "It's difficult to connect his outgoing, oblivious friend to the mess, and Cameron feels guilt mingle with his misery as he realizes that what's happening to Artie is their fault."
-    "It's difficult to connect his outgoing, oblivious friend to the mess, and Cameron feels guilt mingle with his misery as he realizes that what's happening to Artie is their fault."
+    "他很难将他那外向、健忘的朋友与这不堪入目的场面联系起来。内疚与悔恨在他的内心交织，都是因为他们，Artie才落得如此遭遇。"
 
 # game/a3s1.rpy:179
 translate Schinese a3s1_295b6d49:
 
     # "But he knows Artie is far away now, miles away, and Cameron silently encourages the cat to keep going, to do whatever he can to save them and himself, even though he's clearly in terrible shape."
-    "But he knows Artie is far away now, miles away, and Cameron silently encourages the cat to keep going, to do whatever he can to save them and himself, even though he's clearly in terrible shape."
+    "不过他还知道，Artie此时正在数英里之外的一个地方。Cameron默默鼓励着那只猫，希望他拼尽全力活下去，尽管他的身体状况显然差到了极点。"
 
 # game/a3s1.rpy:180
 translate Schinese a3s1_a9a10d69:
 
     # "Cameron hopes Artie can hear him, even if he's awake right now."
-    "Cameron hopes Artie can hear him, even if he's awake right now."
+    "虽然Cameron清醒着，但他还是祈祷Artie能听到他的话。"
 
 # game/a3s1.rpy:182
 translate Schinese a3s1_dabca779:
 
     # "Cameron senses another ominous shift in the bear's motivation."
-    "Cameron senses another ominous shift in the bear's motivation."
+    "突然，Cameron感觉到了一个不详的兆头。"
 
 # game/a3s1.rpy:183
 translate Schinese a3s1_3582fcd7:
 
     # "Brian doesn't think that Artie will make it to the interstate, and he knows he should go looking for the cat."
-    "Brian doesn't think that Artie will make it to the interstate, and he knows he should go looking for the cat."
+    "Brian不觉得Artie能跑到州际公路，但他知道他应该去找那只猫。"
 
 # game/a3s1.rpy:184
 translate Schinese a3s1_5683b0a1:
 
     # "But everything is so fucked from the start: three young men who likely have close family and friend groups, all three of them injured, and beaten, and all three knowing full well what Brian is capable of..."
-    "But everything is so fucked from the start: three young men who likely have close family and friend groups, all three of them injured, and beaten, and all three knowing full well what Brian is capable of..."
+    "这一切从一开始就很操蛋：三个可能有亲密家人和朋友的青年受了伤、挨了揍，并且三个人都清楚地知道Brian会..."
 
 # game/a3s1.rpy:185
 translate Schinese a3s1_141c2aac:
 
     # "There's no point to it anymore."
-    "There's no point to it anymore."
+    "已经无所谓了。"
 
 # game/a3s1.rpy:186
 translate Schinese a3s1_7e6f0e85:
 
     # "Brian had almost reverted to thinking he'd get away with all of this somehow, but no."
-    "Brian had almost reverted to thinking he'd get away with all of this somehow, but no."
+    "Brian几乎以为他能想办法应付过去，但他不能。"
 
 # game/a3s1.rpy:187
 translate Schinese a3s1_edabfd48:
 
     # "This is the end."
-    "This is the end."
+    "这就是他的末路了。"
 
 # game/a3s1.rpy:189
 translate Schinese a3s1_dd088d51:
 
     # b "\"Well... Guess that's it, then. Figured it was gettin' close for a while now.\""
-    b "\"Well... Guess that's it, then. Figured it was gettin' close for a while now.\""
+    b "\"嗯...算了，反正也快结束了。\""
 
 # game/a3s1.rpy:191
 translate Schinese a3s1_bb5e4a24:
 
     # "The calm with which Brian accepts his nearing demise makes Cameron want to try to escape all over again."
-    "The calm with which Brian accepts his nearing demise makes Cameron want to try to escape all over again."
+    "Brian平静地接受了自己将死的事实，这让Cameron重新燃起了生的渴望。"
 
 # game/a3s1.rpy:192
 translate Schinese a3s1_dbbc5c28:
 
     # "Why can't this bear just end it without taking them down with him?"
-    "Why can't this bear just end it without taking them down with him?"
+    "为什么这头熊非要拉他们陪葬不可呢？"
 
 # game/a3s1.rpy:193
 translate Schinese a3s1_55b3c333:
 
     # "It's the end for him, not them."
-    "It's the end for him, not them."
+    "他已经无路可退了，可他们不是啊。"
 
 # game/a3s1.rpy:195
 translate Schinese a3s1_74b20b86:
 
     # c "\"Can I see Devon?\""
-    c "\"Can I see Devon?\""
+    c "\"我能见一见Devon吗？\""
 
 # game/a3s1.rpy:196
 translate Schinese a3s1_8e4397c2:
 
     # "Cameron half-heartedly smiles, hoping it might sway the bear, but he's not paying attention to the coyote."
-    "Cameron half-heartedly smiles, hoping it might sway the bear, but he's not paying attention to the coyote."
+    "Cameron半信半疑地笑了笑，希望能借此打动熊，但他压根没有注意到。"
 
 # game/a3s1.rpy:197
 translate Schinese a3s1_43cc9d26:
 
     # "Brian shakes his head at the sober version of himself, the version that actually did plan to let Cameron go, because why would he add to his problems by killing the yote if said yote could take them all away?"
-    "Brian shakes his head at the sober version of himself, the version that actually did plan to let Cameron go, because why would he add to his problems by killing the yote if said yote could take them all away?"
+    "Brian对清醒的自己摇了摇头，那个实际上打算放过Cameron的自己。既然郊狼能把他们都带走，那他为什么要杀死他，给自己找麻烦呢？"
 
 # game/a3s1.rpy:198
 translate Schinese a3s1_747075e2:
 
     # "That's why he'd tried to be nice to him, and then of course things got out of hand."
-    "That's why he'd tried to be nice to him, and then of course things got out of hand."
+    "这就是为什么他想对他好一些。然后不可避免地，事情失控了。"
 
 # game/a3s1.rpy:199
 translate Schinese a3s1_34c9d1da:
 
     # "Cameron begins to shake as he senses Brian's arousal and excitement."
-    "Cameron begins to shake as he senses Brian's arousal and excitement."
+    "Brian的兴奋与激动令Cameron颤抖不已。"
 
 # game/a3s1.rpy:200
 translate Schinese a3s1_b6c49f30:
 
     # "He's thinking about Cameron, about his baggie full of bath salts, and about how long it might take to find them in--"
-    "He's thinking about Cameron, about his baggie full of bath salts, and about how long it might take to find them in--"
+    "他在想Cameron、想那些装满浴盐的袋子、想要多久才能找到它们，就在-"
 
 # game/a3s1.rpy:202
 translate Schinese a3s1_2bb23d58:
 
     # "Cameron mentally blanches, unsure of what that dark place full of death is, but he knows he does not want to go there."
-    "Cameron mentally blanches, unsure of what that dark place full of death is, but he knows he does not want to go there."
+    "Cameron脑子里一片空白，他不确定那个充满死亡的黑暗之地是哪里，只知道自己绝对不想去。"
 
 # game/a3s1.rpy:203
 translate Schinese a3s1_1a364d14:
 
     # c "\"Where are you taking me?\""
-    c "\"Where are you taking me?\""
+    c "\"你要带我去哪？\""
 
 # game/a3s1.rpy:205
 translate Schinese a3s1_b0e93109:
 
     # b "\"You're the psychic. Figure it out.\""
-    b "\"You're the psychic. Figure it out.\""
+    b "\"用你的超能力琢磨吧。\""
 
 # game/a3s1.rpy:209
 translate Schinese a3s1_01bfdb8b:
 
     # "Keeping his hold on the coyote, Brian pulls Cameron toward the van."
-    "Keeping his hold on the coyote, Brian pulls Cameron toward the van."
+    "Brian攥着郊狼的耳朵，把他拽向货车。"
 
 # game/a3s1.rpy:213
 translate Schinese a3s1_f2d49571:
 
     # "It isn't long before Artie realizes that the lights along the interstate are actually a lot farther away than he had thought."
-    "It isn't long before Artie realizes that the lights along the interstate are actually a lot farther away than he had thought."
+    "没过多久，Artie就意识到公路上的灯光实际上比他想象的要远得多。"
 
 # game/a3s1.rpy:214
 translate Schinese a3s1_b9c8a743:
 
     # "He has no idea how long he's been walking, but it feels like at least an hour, and the road is maybe just a little closer."
-    "He has no idea how long he's been walking, but it feels like at least an hour, and the road is maybe just a little closer."
+    "他不清楚自己走了多久，感觉至少超过一小时了，但他与灯的距离才将将缩短一点点。"
 
 # game/a3s1.rpy:215
 translate Schinese a3s1_04352384:
 
     # "At this point, he's so weak, his movements so uncoordinated, that deep down, he knows his body is about to give up."
-    "At this point, he's so weak, his movements so uncoordinated, that deep down, he knows his body is about to give up."
+    "他拖着如此虚弱与不协调的身体走到现在，他知道自己很难再撑下去。"
 
 # game/a3s1.rpy:216
 translate Schinese a3s1_f9f904ae:
 
     # "Every dizzy spell, every wave of anxiety, it terrifies the cat that he might have another seizure, and if he does, he knows he won't be getting back up."
-    "Every dizzy spell, every wave of anxiety, it terrifies the cat that he might have another seizure, and if he does, he knows he won't be getting back up."
+    "每次眩晕，每次焦虑都令猫恐惧不已：他可能会再次癫痫发作，而一旦发作，他就再也站不起来了。"
 
 # game/a3s1.rpy:217
 translate Schinese a3s1_e63ef413:
 
     # "That's around the time that Artie sees a pair of headlights closer than the others."
-    "That's around the time that Artie sees a pair of headlights closer than the others."
+    "就在这个时候，Artie看到其中一对车灯接近了。"
 
 # game/a3s1.rpy:218
 translate Schinese a3s1_741ee6c0:
 
     # "And it gets closer and closer."
-    "And it gets closer and closer."
+    "并且越来越近。"
 
 # game/a3s1.rpy:219
 translate Schinese a3s1_0fe9fdfc:
@@ -958,13 +958,13 @@ translate Schinese a3s1_0fe9fdfc:
 translate Schinese a3s1_6f483fd4:
 
     # "And then the lights slow and Artie hears the sound of an engine."
-    "And then the lights slow and Artie hears the sound of an engine."
+    "然后灯光变慢，Artie听到了发动机的声音。"
 
 # game/a3s1.rpy:223
 translate Schinese a3s1_58c6e60a:
 
     # unk "\"What the FUCK are you doing standing there like a fucking IDIOT on the fucking ROAD!\""
-    unk "\"What the FUCK are you doing standing there like a fucking IDIOT on the fucking ROAD!\""
+    unk "\"谁{b}他妈{b/}教你像{b}傻逼{b/}一样杵站在{b}路{b/}中央的！\""
 
 # game/a3s1.rpy:224
 translate Schinese a3s1_382f37c8:
@@ -1006,7 +1006,7 @@ translate Schinese a3s1_d3c5e662:
 translate Schinese a3s1_b9e2e6e9:
 
     # "Weasel" "\"What happened to you?\""
-    "Weasel" "\"What happened to you?\""
+    "鼬" "\"你咋了？\""
 
 # game/a3s1.rpy:235
 translate Schinese a3s1_f47422cd:
@@ -1018,25 +1018,25 @@ translate Schinese a3s1_f47422cd:
 translate Schinese a3s1_b467e13d:
 
     # "Weasel" "\"Shit, there's no way! He couldn't be that fucking...\""
-    "Weasel" "\"Shit, there's no way! He couldn't be that fucking...\""
+    "鼬" "\"见鬼！难道是...\""
 
 # game/a3s1.rpy:238
 translate Schinese a3s1_4f6f51c9:
 
     # "The weasel trails off, then looks at Artie's face."
-    "The weasel trails off, then looks at Artie's face."
+    "鼬慢慢地不做声了，然后他打量起Artie的脸。"
 
 # game/a3s1.rpy:239
 translate Schinese a3s1_74e7f641:
 
     # "Weasel" "\"Who did this?\""
-    "Weasel" "\"Who did this?\""
+    "鼬" "\"这是谁干的？\""
 
 # game/a3s1.rpy:240
 translate Schinese a3s1_181508a1:
 
     # "Artie reluctantly opens his mouth, for some reason feeling almost embarrassed about his condition."
-    "Artie reluctantly opens his mouth, for some reason feeling almost embarrassed about his condition."
+    "Artie不情愿地开了口，不知为何，他对自己的处境感到难堪。"
 
 # game/a3s1.rpy:241
 translate Schinese a3s1_c96a8657:
@@ -1048,43 +1048,43 @@ translate Schinese a3s1_c96a8657:
 translate Schinese a3s1_cef366d4:
 
     # "The weasel stares at him with an odd look."
-    "The weasel stares at him with an odd look."
+    "鼬向他投去不解的目光。"
 
 # game/a3s1.rpy:244
 translate Schinese a3s1_c7418f38:
 
     # "Weasel" "\"Bar? Yeah, I was at the bar. It's closed.\""
-    "Weasel" "\"Bar? Yeah, I was at the bar. It's closed.\""
+    "鼬" "\"酒吧？啊，我之前是在那儿来着，那儿已经打烊了。\""
 
 # game/a3s1.rpy:245
 translate Schinese a3s1_bb6d19b1:
 
     # a "\"B-b-bear.\""
-    a "\"B-b-bear.\""
+    a "\"x-x-熊\""
 
 # game/a3s1.rpy:247
 translate Schinese a3s1_ff43aad8:
 
     # "Weasel" "\"Bear? Brian?\""
-    "Weasel" "\"Bear? Brian?\""
+    "鼬" "\"熊？Brian？\""
 
 # game/a3s1.rpy:248
 translate Schinese a3s1_36473fc6:
 
     # "Arturo nods and regrets it immediately as he almost falls over."
-    "Arturo nods and regrets it immediately as he almost falls over."
+    "Arturo点了点头，却又马上后悔了，因为这个动作害他差点摔倒。"
 
 # game/a3s1.rpy:250
 translate Schinese a3s1_bbffd8a4:
 
     # "Weasel" "\"Damn, you're real fucked up aren't ya?\""
-    "Weasel" "\"Damn, you're real fucked up aren't ya?\""
+    "鼬" "\"操，你知不知道自己惹上了多大的麻烦？\""
 
 # game/a3s1.rpy:251
 translate Schinese a3s1_37a4ea03:
 
     # "Arturo stares back at the weasel and notices the expression, like he's trying to decide something."
-    "Arturo stares back at the weasel and notices the expression, like he's trying to decide something."
+    "Arturo凝视着鼬。看他的表情，他似乎在决定什么。"
 
 # game/a3s1.rpy:252
 translate Schinese a3s1_67658e4e:
@@ -1108,7 +1108,7 @@ translate Schinese a3s1_36bf12c9:
 translate Schinese a3s1_ec34f452:
 
     # "Weasel" "\"Well, I'll be damned. This is it, then, isn't it? That stupid motherfucker. All right, get in. We're going to the hospital.\""
-    "Weasel" "\"Well, I'll be damned. This is it, then, isn't it? That stupid motherfucker. All right, get in. We're going to the hospital.\""
+    "鼬" "\"Well, I'll be damned. This is it, then, isn't it? That stupid motherfucker. All right, get in. We're going to the hospital.\""
 
 # game/a3s1.rpy:258
 translate Schinese a3s1_329df802:
@@ -1120,13 +1120,13 @@ translate Schinese a3s1_329df802:
 translate Schinese a3s1_e2de78f7:
 
     # "As he does, the weasel sucks in a breath, grimacing."
-    "As he does, the weasel sucks in a breath, grimacing."
+    "与此同时，他猛吸了一口气，表情扭曲。"
 
 # game/a3s1.rpy:260
 translate Schinese a3s1_3cf24a30:
 
     # "Weasel" "\"Jesus Christ, this is really makin' me not wanna do what I'm gonna have to do after this.\""
-    "Weasel" "\"Jesus Christ, this is really makin' me not wanna do what I'm gonna have to do after this.\""
+    "鼬" "\"老天爷啊，this is really makin' me not wanna do what I'm gonna have to do after this.\""
 
 # game/a3s1.rpy:261
 translate Schinese a3s1_d96ed108:
@@ -1138,37 +1138,37 @@ translate Schinese a3s1_d96ed108:
 translate Schinese a3s1_032fca8a:
 
     # a "\"F-f-f-free end...F-f-friends.\""
-    a "\"F-f-f-free end...F-f-friends.\""
+    a "\"朋-朋-朋-朋友...\""
 
 # game/a3s1.rpy:263
 translate Schinese a3s1_94d101c2:
 
     # "Weasel" "\"Yeah, yeah, I'll call Payton PD... once I drop ya off. Gotta make sure I can beat 'em back, though.\""
-    "Weasel" "\"Yeah, yeah, I'll call Payton PD... once I drop ya off. Gotta make sure I can beat 'em back, though.\""
+    "鼬" "\"知道了，知道了，我会打给佩顿警察局的...等送你到医院之后。不过，我还得确保能把他们打发回去。\""
 
 # game/a3s1.rpy:266
 translate Schinese a3s1_229c1129:
 
     # "Arturo decides that it's the weasel who's acting strange."
-    "Arturo decides that it's the weasel who's acting strange."
+    "Arturo觉得这只鼬言行间透露着古怪。"
 
 # game/a3s1.rpy:267
 translate Schinese a3s1_b0f8124b:
 
     # "But, as he starts to make a three-point turn to drive back toward the interstate, Arturo is only grateful."
-    "But, as he starts to make a three-point turn to drive back toward the interstate, Arturo is only grateful."
+    "但当他们掉头驶向州际公路时，Arturo的心里只有感激。"
 
 # game/a3s1.rpy:268
 translate Schinese a3s1_656db717:
 
     # "He's done what he can, and now the rest is up to God."
-    "He's done what he can, and now the rest is up to God."
+    "他已经做了他能做的，剩下的事就交给上帝吧。"
 
 # game/a3s1.rpy:269
 translate Schinese a3s1_1f090bca:
 
     # "He can only pray."
-    "He can only pray."
+    "他唯有祈祷。"
 
 # game/a3s1.rpy:270
 translate Schinese a3s1_8e7d40d6:
@@ -2932,55 +2932,55 @@ translate Schinese a3s1_f849efee:
 translate Schinese a3s1_1a151a60:
 
     # "Then Cameron screams, and Devon drops all attempts at stealth."
-    "Then Cameron screams, and Devon drops all attempts at stealth."
+    "随之响起的是Cameron的尖叫，Devon再也顾不上什么潜行了。"
 
 # game/a3s1.rpy:666
 translate Schinese a3s1_a55903a4:
 
     # d "\"Cam! BRIAN!\""
-    d "\"Cam! BRIAN!\""
+    d "\"Cam！{b}BRIAN！{/b}\""
 
 # game/a3s1.rpy:667
 translate Schinese a3s1_c4def511:
 
     # "He calls out to let Brian know he's there, to at least distract him from the coyote."
-    "He calls out to let Brian know he's there, to at least distract him from the coyote."
+    "他大声吼道，希望至少可以分散Brian对郊狼的注意力。"
 
 # game/a3s1.rpy:668
 translate Schinese a3s1_6666d4ed:
 
     # "Then he barrels his way through the darkness, trying to find what he's sure is the last turn."
-    "Then he barrels his way through the darkness, trying to find what he's sure is the last turn."
+    "接着他在黑暗中一路狂奔，试图找到那最后一个转角。"
 
 # game/a3s1.rpy:669
 translate Schinese a3s1_4f59d2cc:
 
     # "Why Brian has brought Cameron here, he doesn't know."
-    "Why Brian has brought Cameron here, he doesn't know."
+    "Brian为什么把Cameron带到这里，他不知道。"
 
 # game/a3s1.rpy:670
 translate Schinese a3s1_8ad21d3e:
 
     # "He doesn't even know what he's going to do when he meets them."
-    "He doesn't even know what he's going to do when he meets them."
+    "遇见他们之后该怎么做，他不知道。"
 
 # game/a3s1.rpy:671
 translate Schinese a3s1_cb177042:
 
     # "Well, anything."
-    "Well, anything."
+    "嗯，一切。"
 
 # game/a3s1.rpy:672
 translate Schinese a3s1_6adc21fc:
 
     # "He'll do anything."
-    "He'll do anything."
+    "他愿意做任何事。"
 
 # game/a3s1.rpy:679
 translate Schinese a3s1_e927c69e:
 
     # "Brian is looking a bit more distracted, starting to scan the tunnel wall before his eyes settle on what looks like a large crack from the ceiling to the ground."
-    "Brian is looking a bit more distracted, starting to scan the tunnel wall before his eyes settle on what looks like a large crack from the ceiling to the ground."
+    "Brian显得有些心烦意乱，他环顾四周，最后目光落在一条从地面延伸到洞顶的大裂缝上。"
 
 # game/a3s1.rpy:681
 translate Schinese a3s1_98255f80:
@@ -3166,25 +3166,25 @@ translate Schinese a3s1_af110831:
 translate Schinese a3s1_a55903a4_1:
 
     # d "\"Cam! BRIAN!\""
-    d "\"Cam! BRIAN!\""
+    d "\"Cam！{b}BRIAN！{/b}\""
 
 # game/a3s1.rpy:728
 translate Schinese a3s1_0b98ce77:
 
     # "Devon's voice is very close, maybe only a tunnel or two away."
-    "Devon's voice is very close, maybe only a tunnel or two away."
+    "Devon的声音很近，也许只有一两条隧道的距离。"
 
 # game/a3s1.rpy:729
 translate Schinese a3s1_b26483c0:
 
     # "Brian mumbles quietly next to Cameron's ear."
-    "Brian mumbles quietly next to Cameron's ear."
+    "Brian对着Cameron耳语道："
 
 # game/a3s1.rpy:730
 translate Schinese a3s1_b62a72dc:
 
     # b "\"Shut the fuck up right now, or I obliterate your other kidney, got it?\""
-    b "\"Shut the fuck up right now, or I obliterate your other kidney, got it?\""
+    b "\"闭上你的臭嘴，不然我就把你另一个腰子也割了，明白？\""
 
 # game/a3s1.rpy:731
 translate Schinese a3s1_fc0082d8:
@@ -3232,13 +3232,13 @@ translate Schinese a3s1_1d4f1192:
 translate Schinese a3s1_790de2bc:
 
     # "Cameron smells death."
-    "Cameron smells death."
+    "Cameron闻到了死亡的气息。"
 
 # game/a3s1.rpy:740
 translate Schinese a3s1_384eef51:
 
     # "He instinctively backs up, right into Brian."
-    "He instinctively backs up, right into Brian."
+    "他本能地后退，径直撞上Brian。"
 
 # game/a3s1.rpy:742
 translate Schinese a3s1_0c2428b4:
@@ -4390,7 +4390,7 @@ translate Schinese a3s1_931f35e7:
 translate Schinese a3s1_c698ad5a:
 
     # d "\"Daylight.\""
-    d "\"Daylight.\""
+    d "\"日光。\""
 
 # game/a3s1.rpy:1021
 translate Schinese a3s1_6bcae870:
@@ -4528,31 +4528,31 @@ translate Schinese a3s1_f4bb29b2:
 translate Schinese a3s1_0b527699:
 
     # c "\"Devon, whatever happens after this, I love you, and I'm so happy I met you.\""
-    c "\"Devon, whatever happens after this, I love you, and I'm so happy I met you.\""
+    c "\"不管之后还会发生什么，遇到你是我最大的幸运。我爱你，Devon。\""
 
 # game/a3s1.rpy:1045
 translate Schinese a3s1_0c2595a3:
 
     # d "\"Come on, you didn't have to say that first part. We made it. Okay? It's just... It's just a fork in the road.\""
-    d "\"Come on, you didn't have to say that first part. We made it. Okay? It's just... It's just a fork in the road.\""
+    d "\"前半句是没有必要的。 We made it. Okay? It's just... It's just a fork in the road.\""
 
 # game/a3s1.rpy:1046
 translate Schinese a3s1_02e62bd7:
 
     # "Cameron gasps."
-    "Cameron gasps."
+    "Cameron倒吸了一口气。"
 
 # game/a3s1.rpy:1047
 translate Schinese a3s1_02b09655:
 
     # c "\"Oh, Devon, Artie is alive! He went to get us help, I think... I hope.\""
-    c "\"Oh, Devon, Artie is alive! He went to get us help, I think... I hope.\""
+    c "\"对了，Devon，Artie还活着！我觉得...希望他去求救了。\""
 
 # game/a3s1.rpy:1048
 translate Schinese a3s1_6c767e27:
 
     # d "\"What? How?\""
-    d "\"What? How?\""
+    d "\"你是怎么知道的？\""
 
 # game/a3s1.rpy:1049
 translate Schinese a3s1_08068640:
@@ -4666,7 +4666,7 @@ translate Schinese a3s1_4197110b:
 translate Schinese a3s1_9bd687da:
 
     # c "\"Alright.\""
-    c "\"Alright.\""
+    c "\"好。\""
 
 # game/a3s1.rpy:1069
 translate Schinese a3s1_28ee3583:
@@ -4678,5 +4678,5 @@ translate Schinese a3s1_28ee3583:
 translate Schinese a3s1_fec97169:
 
     # "To be continued..."
-    "To be continued..."
+    "未完待续..."
 
