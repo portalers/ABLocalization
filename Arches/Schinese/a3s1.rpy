@@ -916,31 +916,31 @@ translate Schinese a3s1_01bfdb8b:
 translate Schinese a3s1_f2d49571:
 
     # "It isn't long before Artie realizes that the lights along the interstate are actually a lot farther away than he had thought."
-    "没过多久，Artie就意识到公路上的灯光实际上比他想象的要远得多。"
+    "没过多久，Artie就意识到公路上的灯其实比他想象的要远得多。"
 
 # game/a3s1.rpy:214
 translate Schinese a3s1_b9c8a743:
 
     # "He has no idea how long he's been walking, but it feels like at least an hour, and the road is maybe just a little closer."
-    "他不清楚自己走了多久，感觉至少超过一小时了，但他与灯的距离才将将缩短一点点。"
+    "他不清楚自己走了多久，感觉至少超过一小时，可他与光芒的距离才将将缩短一点。"
 
 # game/a3s1.rpy:215
 translate Schinese a3s1_04352384:
 
     # "At this point, he's so weak, his movements so uncoordinated, that deep down, he knows his body is about to give up."
-    "他拖着如此虚弱与不协调的身体走到现在，他知道自己很难再撑下去。"
+    "拖着如此虚弱与不协调的身体走到现在，他知道自己很难再撑下去。"
 
 # game/a3s1.rpy:216
 translate Schinese a3s1_f9f904ae:
 
     # "Every dizzy spell, every wave of anxiety, it terrifies the cat that he might have another seizure, and if he does, he knows he won't be getting back up."
-    "每次眩晕，每次焦虑都令猫恐惧不已：他可能会再次癫痫发作，而一旦发作，他就再也站不起来了。"
+    "每次眩晕、焦虑都令猫恐惧不已：他可能会再次癫痫发作，而一旦发作，他就再也站不起来了。"
 
 # game/a3s1.rpy:217
 translate Schinese a3s1_e63ef413:
 
     # "That's around the time that Artie sees a pair of headlights closer than the others."
-    "就在这个时候，Artie看到其中一对车灯接近了。"
+    "就在这个时候，Artie看到其中一对车灯向他靠近。"
 
 # game/a3s1.rpy:218
 translate Schinese a3s1_741ee6c0:
@@ -952,79 +952,79 @@ translate Schinese a3s1_741ee6c0:
 translate Schinese a3s1_0fe9fdfc:
 
     # "Artie notes that the lights are coming right toward him, and he doesn't bother getting off the road, feeling like this must be a light-at-the-end-of-the-tunnel situation."
-    "Artie notes that the lights are coming right toward him, and he doesn't bother getting off the road, feeling like this must be a light-at-the-end-of-the-tunnel situation."
+    "但Artie没有费力去闪躲，权当那是隧道尽头的一盏灯。"
 
 # game/a3s1.rpy:222
 translate Schinese a3s1_6f483fd4:
 
     # "And then the lights slow and Artie hears the sound of an engine."
-    "然后灯光变慢，Artie听到了发动机的声音。"
+    "然后灯光变慢，Artie听到了发动机的轰鸣。"
 
 # game/a3s1.rpy:223
 translate Schinese a3s1_58c6e60a:
 
     # unk "\"What the FUCK are you doing standing there like a fucking IDIOT on the fucking ROAD!\""
-    unk "\"谁{b}他妈{b/}教你像{b}傻逼{b/}一样杵站在{b}路{b/}中央的！\""
+    unk "\"谁{b}他妈{b/}教你像{b}傻逼{b/}一样杵在{b}路{b/}中间的！\""
 
 # game/a3s1.rpy:224
 translate Schinese a3s1_382f37c8:
 
     # "Artie's ears twitch, recognizing the voice from somewhere in his past, in what might as well be another life."
-    "Artie's ears twitch, recognizing the voice from somewhere in his past, in what might as well be another life."
+    "Artie抽了抽耳朵，他认得这个恍如隔世的声音。"
 
 # game/a3s1.rpy:225
 translate Schinese a3s1_ddc941d9:
 
     # "It's hard to tell because they're screaming at him."
-    "It's hard to tell because they're screaming at him."
+    "但要分辨很难，因为对方在冲他大吼大叫。"
 
 # game/a3s1.rpy:227
 translate Schinese a3s1_2c7450c7:
 
     # "A car door opens and Artie just stands there, lost in the light."
-    "A car door opens and Artie just stands there, lost in the light."
+    "一扇车门打开了，Artie只是站在那里，迷失在光芒中。"
 
 # game/a3s1.rpy:228
 translate Schinese a3s1_db70208c:
 
     # unk "\"I told you guys to fuck off! First the fuckin' bar is closed because of some fuckin' cold, and now you're still here to fuck with me? I just wanna cunting drink to cunting relax!\""
-    unk "\"I told you guys to fuck off! First the fuckin' bar is closed because of some fuckin' cold, and now you're still here to fuck with me? I just wanna cunting drink to cunting relax!\""
+    unk "\"老子叫你快滚！先是酒吧因为流感关了，又遇见你这么个听不懂人话的傻逼？老子不就想喝一杯吗！\""
 
 # game/a3s1.rpy:229
 translate Schinese a3s1_3e2dde01:
 
     # "Arturo furrows his brows, never having heard the curse word used in such a way."
-    "Arturo furrows his brows, never having heard the curse word used in such a way."
+    "Arturo皱起眉头，他从来没听过这么粗鲁的话。"
 
 # game/a3s1.rpy:230
 translate Schinese a3s1_d3c5e662:
 
     # "A figure starts to materialize in front of Arturo, and finally, he recognizes him."
-    "A figure starts to materialize in front of Arturo, and finally, he recognizes him."
+    "一个人影渐渐出现在Arturo面前，他终于认出了对方。"
 
 # game/a3s1.rpy:234
 translate Schinese a3s1_b9e2e6e9:
 
     # "Weasel" "\"What happened to you?\""
-    "鼬" "\"你咋了？\""
+    "鼬" "\"你有病啊？\""
 
 # game/a3s1.rpy:235
 translate Schinese a3s1_f47422cd:
 
     # "The weasel stares at him, then tilts his head to the side, squinting before reaching out and turning Arturo slightly by the shoulder."
-    "The weasel stares at him, then tilts his head to the side, squinting before reaching out and turning Arturo slightly by the shoulder."
+    "鼬盯着他，然后把脑袋歪向一边，眯起眼，伸手握住Arturo的肩膀，轻轻一转。"
 
 # game/a3s1.rpy:237
 translate Schinese a3s1_b467e13d:
 
     # "Weasel" "\"Shit, there's no way! He couldn't be that fucking...\""
-    "鼬" "\"见鬼！难道是...\""
+    "鼬" "\"操！不会吧！他难道是...\""
 
 # game/a3s1.rpy:238
 translate Schinese a3s1_4f6f51c9:
 
     # "The weasel trails off, then looks at Artie's face."
-    "鼬慢慢地不做声了，然后他打量起Artie的脸。"
+    "鼬慢慢地不做声了，转而打量起Artie的脸。"
 
 # game/a3s1.rpy:239
 translate Schinese a3s1_74e7f641:
@@ -1054,13 +1054,13 @@ translate Schinese a3s1_cef366d4:
 translate Schinese a3s1_c7418f38:
 
     # "Weasel" "\"Bar? Yeah, I was at the bar. It's closed.\""
-    "鼬" "\"酒吧？啊，我之前是在那儿来着，那儿已经打烊了。\""
+    "鼬" "\"酒吧？啊，我刚从那回来，那儿已经歇业了。\""
 
 # game/a3s1.rpy:245
 translate Schinese a3s1_bb6d19b1:
 
     # a "\"B-b-bear.\""
-    a "\"x-x-熊\""
+    a "\"...-熊\""
 
 # game/a3s1.rpy:247
 translate Schinese a3s1_ff43aad8:
@@ -1072,67 +1072,67 @@ translate Schinese a3s1_ff43aad8:
 translate Schinese a3s1_36473fc6:
 
     # "Arturo nods and regrets it immediately as he almost falls over."
-    "Arturo点了点头，却又马上后悔了，因为这个动作害他差点摔倒。"
+    "Arturo点点头，却又马上后悔了，因为这个动作害得他差点摔倒。"
 
 # game/a3s1.rpy:250
 translate Schinese a3s1_bbffd8a4:
 
     # "Weasel" "\"Damn, you're real fucked up aren't ya?\""
-    "鼬" "\"操，你知不知道自己惹上了多大的麻烦？\""
+    "鼬" "\"操，你知不知道你惹上了多大的麻烦？\""
 
 # game/a3s1.rpy:251
 translate Schinese a3s1_37a4ea03:
 
     # "Arturo stares back at the weasel and notices the expression, like he's trying to decide something."
-    "Arturo凝视着鼬。看他的表情，他似乎在决定什么。"
+    "Arturo凝视着鼬，那是一幅深思熟虑的表情。"
 
 # game/a3s1.rpy:252
 translate Schinese a3s1_67658e4e:
 
     # "It's not the right reaction to the situation, and Artie suddenly feels like he might be in danger, but he has no idea why."
-    "It's not the right reaction to the situation, and Artie suddenly feels like he might be in danger, but he has no idea why."
+    "这不是一般人的反应，虽然没有证据，但Artie突然觉得他可能陷入了危险。"
 
 # game/a3s1.rpy:253
 translate Schinese a3s1_35648ffb:
 
     # "All he remembers is that this old man had floored Devon with two swings, so combined with his current state, he can't do anything."
-    "All he remembers is that this old man had floored Devon with two swings, so combined with his current state, he can't do anything."
+    "他只记得这个老头儿两拳就能把Devon打翻在地。结合他目前的情况，他不过是一只待宰羔羊。"
 
 # game/a3s1.rpy:254
 translate Schinese a3s1_36bf12c9:
 
     # "Then, the weasel seems to come out of whatever it is he was thinking about."
-    "Then, the weasel seems to come out of whatever it is he was thinking about."
+    "然后，鼬似乎心中有了定夺。"
 
 # game/a3s1.rpy:256
 translate Schinese a3s1_ec34f452:
 
     # "Weasel" "\"Well, I'll be damned. This is it, then, isn't it? That stupid motherfucker. All right, get in. We're going to the hospital.\""
-    "鼬" "\"Well, I'll be damned. This is it, then, isn't it? That stupid motherfucker. All right, get in. We're going to the hospital.\""
+    "鼬" "\"见鬼，还是到了这一天么？那个没脑子的瘪三。哎，上车，咱们去医院。\""
 
 # game/a3s1.rpy:258
 translate Schinese a3s1_329df802:
 
     # "Arturo stumbles forward, and once the weasel realizes he's having trouble moving at all, he helps Arturo inside."
-    "Arturo stumbles forward, and once the weasel realizes he's having trouble moving at all, he helps Arturo inside."
+    "Arturo跌跌撞撞地走了几步，鼬见他行动困难，便上前去搀扶他。"
 
 # game/a3s1.rpy:259
 translate Schinese a3s1_e2de78f7:
 
     # "As he does, the weasel sucks in a breath, grimacing."
-    "与此同时，他猛吸了一口气，表情扭曲。"
+    "与此同时，他猛吸了一口气，表情瞬间扭曲。"
 
 # game/a3s1.rpy:260
 translate Schinese a3s1_3cf24a30:
 
     # "Weasel" "\"Jesus Christ, this is really makin' me not wanna do what I'm gonna have to do after this.\""
-    "鼬" "\"老天爷啊，this is really makin' me not wanna do what I'm gonna have to do after this.\""
+    "鼬" "\"老天爷啊，虽然饶不过，但至少让我体面点吧。\""
 
 # game/a3s1.rpy:261
 translate Schinese a3s1_d96ed108:
 
     # "Arturo isn't sure what the old weasel is talking about, but if he's taking him to the hospital, then he's at least on the right track."
-    "Arturo isn't sure what the old weasel is talking about, but if he's taking him to the hospital, then he's at least on the right track."
+    "Arturo听不懂鼬的话，但如果他真的会带他去医院，那事情还算是在正轨上。"
 
 # game/a3s1.rpy:262
 translate Schinese a3s1_032fca8a:
@@ -1144,13 +1144,13 @@ translate Schinese a3s1_032fca8a:
 translate Schinese a3s1_94d101c2:
 
     # "Weasel" "\"Yeah, yeah, I'll call Payton PD... once I drop ya off. Gotta make sure I can beat 'em back, though.\""
-    "鼬" "\"知道了，知道了，我会打给佩顿警察局的...等送你到医院之后。不过，我还得确保能把他们打发回去。\""
+    "鼬" "\"知道了，知道了，我会打给佩顿警察局的...等送你到医院之后。不过，我还得确保怎么糊弄过去。\""
 
 # game/a3s1.rpy:266
 translate Schinese a3s1_229c1129:
 
     # "Arturo decides that it's the weasel who's acting strange."
-    "Arturo觉得这只鼬言行间透露着古怪。"
+    "在Arturo看来，这只鼬的言行透露着古怪。"
 
 # game/a3s1.rpy:267
 translate Schinese a3s1_b0f8124b:
@@ -1162,7 +1162,7 @@ translate Schinese a3s1_b0f8124b:
 translate Schinese a3s1_656db717:
 
     # "He's done what he can, and now the rest is up to God."
-    "他已经做了他能做的，剩下的事就交给上帝吧。"
+    "他已经做了他能做的，剩下的就交给上帝吧。"
 
 # game/a3s1.rpy:269
 translate Schinese a3s1_1f090bca:
@@ -1174,517 +1174,517 @@ translate Schinese a3s1_1f090bca:
 translate Schinese a3s1_8e7d40d6:
 
     # "So he prays for Devon, Cameron, Maria, and himself, because if he survives, he knows the road in front of him is long, fractured, and broken."
-    "So he prays for Devon, Cameron, Maria, and himself, because if he survives, he knows the road in front of him is long, fractured, and broken."
+    "于是他为Devon、Cameron、Maria和他自己祈祷，因为就算幸存下来，他还有一条漫长、曲折、支离破碎的路要走。"
 
 # game/a3s1.rpy:274
 translate Schinese a3s1_2b052651:
 
     # "Devon feels his body bouncing and shaking on a hard, metallic surface, occasionally leaning from side to side, feeling like he's laying down in a car taking sharp turns."
-    "Devon feels his body bouncing and shaking on a hard, metallic surface, occasionally leaning from side to side, feeling like he's laying down in a car taking sharp turns."
+    "Devon感觉自己的身体在坚硬的金属表面上弹跳与摇晃，时不时还左右倾斜，仿佛他正躺在一辆急转弯的汽车里。"
 
 # game/a3s1.rpy:275
 translate Schinese a3s1_52fa9f06:
 
     # "The bear opens his eyes, groaning."
-    "The bear opens his eyes, groaning."
+    "熊呻吟着睁开眼睛。"
 
 # game/a3s1.rpy:276
 translate Schinese a3s1_7b47e375:
 
     # c "\"Dev?\""
-    c "\"Dev?\""
+    c "\"Dev？\""
 
 # game/a3s1.rpy:277
 translate Schinese a3s1_85de004f:
 
     # d "\"Nnh, Cam?\""
-    d "\"Nnh, Cam?\""
+    d "\"呃，Cam？\""
 
 # game/a3s1.rpy:278
 translate Schinese a3s1_afe61fc6:
 
     # "Is Cameron driving?"
-    "Is Cameron driving?"
+    "是Cameron在开车吗？"
 
 # game/a3s1.rpy:279
 translate Schinese a3s1_a77206d6:
 
     # "The coyote has his own sedan that he drives, but usually if they're out together, it's in Devon's jeep."
-    "The coyote has his own sedan that he drives, but usually if they're out together, it's in Devon's jeep."
+    "郊狼有他自己的小客车，不过一起出行的话，他们还是更倾向于Devon的吉普。"
 
 # game/a3s1.rpy:280
 translate Schinese a3s1_368648de:
 
     # "At first, he thinks maybe he's given the wheel to the coyote so he can rest, but they came in the Jeep, and Cameron can't drive standard, right?"
-    "At first, he thinks maybe he's given the wheel to the coyote so he can rest, but they came in the Jeep, and Cameron can't drive standard, right?"
+    "起初，他以为是自己开累了，所以把方向盘交给了郊狼。可他们是开吉普来的，Cameron没办法驾驭，对吧？"
 
 # game/a3s1.rpy:281
 translate Schinese a3s1_fe8a60c2:
 
     # "{i}Come on, stop assuming things{/i}."
-    "{i}Come on, stop assuming things{/i}."
+    "{b}得了吧，别瞎想了。{/b}."
 
 # game/a3s1.rpy:282
 translate Schinese a3s1_a9e0a75e:
 
     # "Lately, Cameron seemed to bristle whenever he did."
-    "Lately, Cameron seemed to bristle whenever he did."
+    "Cameron最近好像总是冒火。"
 
 # game/a3s1.rpy:283
 translate Schinese a3s1_89401cfd:
 
     # "Lately, as in ever since they got to Echo."
-    "Lately, as in ever since they got to Echo."
+    "最近，自从他们来到回音镇之后。"
 
 # game/a3s1.rpy:284
 translate Schinese a3s1_ae240436:
 
     # c "\"Devon? I'm here. How are you doing?\""
-    c "\"Devon? I'm here. How are you doing?\""
+    c "\"Devon？我来了，你还好吗？\""
 
 # game/a3s1.rpy:285
 translate Schinese a3s1_10511a7e:
 
     # "Cameron's concerned, gentle voice is clearly masking something strained and desperate underneath."
-    "Cameron's concerned, gentle voice is clearly masking something strained and desperate underneath."
+    "Cameron关切而温柔的声音掩盖不了他内心的紧张与绝望。"
 
 # game/a3s1.rpy:286
 translate Schinese a3s1_caa689a3:
 
     # d "\"Cameron? Whu-Whas it?\""
-    d "\"Cameron? Whu-Whas it?\""
+    d "\"Cameron？怎-怎么了？\""
 
 # game/a3s1.rpy:287
 translate Schinese a3s1_f901d549:
 
     # b "\"I told you, he's drugged up.\""
-    b "\"I told you, he's drugged up.\""
+    b "\"我不是告诉你了吗，他被我下了药。\""
 
 # game/a3s1.rpy:288
 translate Schinese a3s1_df9156ca:
 
     # c "\"But he can barely talk.\""
-    c "\"But he can barely talk.\""
+    c "\"可他连说话都勉强。\""
 
 # game/a3s1.rpy:289
 translate Schinese a3s1_1cbcbaf2:
 
     # d "\"Cam?\""
-    d "\"Cam?\""
+    d "\"Cam？\""
 
 # game/a3s1.rpy:290
 translate Schinese a3s1_822d58c8:
 
     # b "\"Exactly, I already told you I roofied him. It's like blacking out. Anyway, it's wearing off. He's just tired.\""
-    b "\"Exactly, I already told you I roofied him. It's like blacking out. Anyway, it's wearing off. He's just tired.\""
+    b "\"当然了，被药得像断了片一样。总之，药效应该减退了，他只是没有养足精神。\""
 
 # game/a3s1.rpy:291
 translate Schinese a3s1_d0a4f31b:
 
     # c "\"Is that blood? Why is he bleeding!?\""
-    c "\"Is that blood? Why is he bleeding!?\""
+    c "\"血？他为什么在流血？！\""
 
 # game/a3s1.rpy:292
 translate Schinese a3s1_f0fef879:
 
     # b "\"Did it to himself. Imagine what a mess we'd have if he wasn't drugged, right? Never trust a bear to stay put when you chain 'em up.\""
-    b "\"Did it to himself. Imagine what a mess we'd have if he wasn't drugged, right? Never trust a bear to stay put when you chain 'em up.\""
+    b "\"那是他自找的。看吧，要是没有下药，咱们可就有大麻烦了，不是吗？千万别指望你能把一头熊老老实实拴起来。\""
 
 # game/a3s1.rpy:293
 translate Schinese a3s1_e1e5b4aa:
 
     # c "\"Devon, can you hear me? Are you okay?\""
-    c "\"Devon, can you hear me? Are you okay?\""
+    c "\"听得到我说话吗，Devon？你还好吗？\""
 
 # game/a3s1.rpy:294
 translate Schinese a3s1_864eb30f:
 
     # d "\"Yeah, yes...\""
-    d "\"Yeah, yes...\""
+    d "\"嗯，好...\""
 
 # game/a3s1.rpy:296
 translate Schinese a3s1_0712d9d4:
 
     # "Then, he's drifting back to sleep again."
-    "Then, he's drifting back to sleep again."
+    "然后他又昏睡了过去。"
 
 # game/a3s1.rpy:297
 translate Schinese a3s1_69c8e41a:
 
     # "More sounds of driving on a rough road, gravel grinding under wheels and hitting the undercarriage."
-    "More sounds of driving on a rough road, gravel grinding under wheels and hitting the undercarriage."
+    "货车在崎岖的道路上越开越远，砾石被车轮碾碎，奋不顾身地撞向底盘。"
 
 # game/a3s1.rpy:300
 translate Schinese a3s1_adf3975c:
 
     # "When he comes to again, it's stopped and Devon realizes the van doors are open."
-    "When he comes to again, it's stopped and Devon realizes the van doors are open."
+    "当他再次醒来时，车已经停了，Devon发现货车的门开着。"
 
 # game/a3s1.rpy:301
 translate Schinese a3s1_daf32fe1:
 
     # b "\"Looks like it's wearing off just in time.\""
-    b "\"Looks like it's wearing off just in time.\""
+    b "\"看来药效过去得正是时候。\""
 
 # game/a3s1.rpy:302
 translate Schinese a3s1_f7d57235:
 
     # c "\"Can I go to him... please?\""
-    c "\"Can I go to him... please?\""
+    c "\"我能去他那里吗...求你了？\""
 
 # game/a3s1.rpy:303
 translate Schinese a3s1_2f5d256d:
 
     # "Devon sees that one of Cameron's ears is twisted in the older bear's grasp, the coyote's head tilted to the side, wincing as he tries to get a better look at Devon."
-    "Devon sees that one of Cameron's ears is twisted in the older bear's grasp, the coyote's head tilted to the side, wincing as he tries to get a better look at Devon."
+    "Devon看到Cameron的一只耳朵被那头熊死死攥在手中，为了更好地看清Devon，郊狼强忍着疼痛把头歪向一边。"
 
 # game/a3s1.rpy:304
 translate Schinese a3s1_2254ea5d:
 
     # "The younger bear becomes very still, seeing his best friend being held by the worst person he's ever met."
-    "The younger bear becomes very still, seeing his best friend being held by the worst person he's ever met."
+    "见自己最亲密的人被有史以来遇到的最坏的人抓着，年轻的熊一言不发。"
 
 # game/a3s1.rpy:305
 translate Schinese a3s1_652293b9:
 
     # "One of his soft, sensitive ears that Devon had played with countless times in the past is now twisted tightly onto itself."
-    "One of his soft, sensitive ears that Devon had played with countless times in the past is now twisted tightly onto itself."
+    "Devon曾把玩过无数次的，柔软而敏感的耳朵，现在却被拧成一团。"
 
 # game/a3s1.rpy:306
 translate Schinese a3s1_6b55cf2b:
 
     # "In Brian's other paw, he holds a shotgun."
-    "In Brian's other paw, he holds a shotgun."
+    "Brian用另一只手握着一把猎枪。"
 
 # game/a3s1.rpy:307
 translate Schinese a3s1_991e2c23:
 
     # "On top of it all, Brian looks angrier than usual."
-    "On top of it all, Brian looks angrier than usual."
+    "更重要的是，他显得尤为生气。"
 
 # game/a3s1.rpy:308
 translate Schinese a3s1_c33cb03e:
 
     # "In fact, he's looking at Cameron with an expression of utter contempt, all while Cameron isn't paying attention to him, looking intently at Devon instead."
-    "In fact, he's looking at Cameron with an expression of utter contempt, all while Cameron isn't paying attention to him, looking intently at Devon instead."
+    "事实上，他正用一种无比蔑视的表情瞪着Cameron，但Cameron没有注意，而是一心一意地看向Devon。"
 
 # game/a3s1.rpy:309
 translate Schinese a3s1_3bfde064:
 
     # b "\"Of course. Fuckin' typical. I'm glad I saved this.\""
-    b "\"Of course. Fuckin' typical. I'm glad I saved this.\""
+    b "\"当然可以，贱人，老子还省事了呢。\""
 
 # game/a3s1.rpy:310
 translate Schinese a3s1_a754be81:
 
     # "He suddenly grabs the coyote by the shoulders and turns Cameron around to face him, to face away from Devon."
-    "He suddenly grabs the coyote by the shoulders and turns Cameron around to face him, to face away from Devon."
+    "他冷不丁抓住郊狼的肩膀，转过身去，只给Devon留下一个背影。"
 
 # game/a3s1.rpy:311
 translate Schinese a3s1_e0362f60:
 
     # "Even so, there's no confusion as to what happens to Cameron next."
-    "Even so, there's no confusion as to what happens to Cameron next."
+    "即便如此，Cameron接下来会遭遇什么早已是不言而喻的。"
 
 # game/a3s1.rpy:312
 translate Schinese a3s1_d7363303:
 
     # "Brian turns slightly away from Cameron, then spins and sends the back of his fist across the coyote's muzzle."
-    "Brian turns slightly away from Cameron, then spins and sends the back of his fist across the coyote's muzzle."
+    "Brian微微侧身，用划破空气的拳头挥向郊狼的嘴。"
 
 # game/a3s1.rpy:315
 translate Schinese a3s1_16824cc8:
 
     # "The sound is so loud Devon is shocked awake, adrenaline compensating for the sedative."
-    "The sound is so loud Devon is shocked awake, adrenaline compensating for the sedative."
+    "那声音如此巨大，直接震醒了迷迷糊糊的Devon。肾上腺素取代了镇静剂，在他的血管内奔涌。"
 
 # game/a3s1.rpy:316
 translate Schinese a3s1_46259cad:
 
     # "At first, Devon refuses to believe what he just saw, that a sound like that could have been made with Cameron's muzzle."
-    "At first, Devon refuses to believe what he just saw, that a sound like that could have been made with Cameron's muzzle."
+    "Devon不敢相信那样的声音竟出自Cameron的嘴。"
 
 # game/a3s1.rpy:317
 translate Schinese a3s1_e46805fd:
 
     # "The coyote's head snaps to the right before he instantly starts to crumple, but Brian holds him up."
-    "The coyote's head snaps to the right before he instantly starts to crumple, but Brian holds him up."
+    "郊狼的头向右一歪，整个人随即瘫倒在地上，但Brian把他扶了起来。"
 
 # game/a3s1.rpy:318
 translate Schinese a3s1_c58d548f:
 
     # d "\"Hey!\""
-    d "\"Hey!\""
+    d "\"嘿！\""
 
 # game/a3s1.rpy:319
 translate Schinese a3s1_e3199ab0:
 
     # "Devon yells automatically, shocked by what he just saw."
-    "Devon yells automatically, shocked by what he just saw."
+    "Devon不由自主地喊道，他被眼前的一幕惊呆了。"
 
 # game/a3s1.rpy:320
 translate Schinese a3s1_adfe670d:
 
     # "He'd never seen someone hit that hard in his entire life."
-    "He'd never seen someone hit that hard in his entire life."
+    "他这辈子从没见过有人被打得这么惨。"
 
 # game/a3s1.rpy:321
 translate Schinese a3s1_898b6c7e:
 
     # "In the silence that follows, the distinct sound of something small clatters around the van, as if a plastic bead had been thrown against the metal walls."
-    "In the silence that follows, the distinct sound of something small clatters around the van, as if a plastic bead had been thrown against the metal walls."
+    "在随后的寂静中，货车周围突兀地响起了清脆的叮当声，仿佛是一颗被扔向金属墙壁的塑料珠。"
 
 # game/a3s1.rpy:322
 translate Schinese a3s1_091f7fec:
 
     # "Devon hears it land next to him, and looking down, he sees something long spinning in place before finally coming to a stop."
-    "Devon hears it land next to him, and looking down, he sees something long spinning in place before finally coming to a stop."
+    "Devon听见它落在了自己脚下，他定睛凝视，看到一个在原地旋转了许久才停下来的东西。"
 
 # game/a3s1.rpy:323
 translate Schinese a3s1_a18eca89:
 
     # "It's thin, white, and it starts wide, but tapers to a sharp point, and the Devon only has a moment to focus on it before he grunts as Cameron lands on top of him, Brian having pushed him over."
-    "It's thin, white, and it starts wide, but tapers to a sharp point, and the Devon only has a moment to focus on it before he grunts as Cameron lands on top of him, Brian having pushed him over."
+    "细而洁白，一开始很宽，却又逐渐变细，形成一个尖锐的点。还不待细看，Devon便闷哼一声，因为Brian把Cameron推到了他身上。"
 
 # game/a3s1.rpy:326
 translate Schinese a3s1_b9600c3e:
 
     # "As he's looking down at the coyote, Devon realizes it's one of Cameron's teeth, and rage overcomes the fear."
-    "As he's looking down at the coyote, Devon realizes it's one of Cameron's teeth, and rage overcomes the fear."
+    "Devon低头打量着郊狼，这才意识到那是Cameron的其中一颗牙齿，他终于怒不可遏。"
 
 # game/a3s1.rpy:328
 translate Schinese a3s1_3a1442c1:
 
     # d "\"HEEEEEY!\""
-    d "\"HEEEEEY!\""
+    d "\"{b}啊————！{/b}\""
 
 # game/a3s1.rpy:329
 translate Schinese a3s1_622c7e1a:
 
     # "All sense has seemingly left Devon, everything seemingly condensed down to that one word to express his rage."
-    "All sense has seemingly left Devon, everything seemingly condensed down to that one word to express his rage."
+    "Devon似乎失去了理智，他把千言万语浓缩成一个字，用来表达他的愤怒。"
 
 # game/a3s1.rpy:331
 translate Schinese a3s1_b6b9e443:
 
     # d "\"Cam? CAM!\""
-    d "\"Cam? CAM!\""
+    d "\"Cam？{b}CAM！{/b}\""
 
 # game/a3s1.rpy:332
 translate Schinese a3s1_d320ea9b:
 
     # "Panic is making him breathe fast, though he tries to keep his chest from heaving to avoid bouncing Cameron's head."
-    "Panic is making him breathe fast, though he tries to keep his chest from heaving to avoid bouncing Cameron's head."
+    "惊恐使得他呼吸急促，他尽量不让胸膛起伏，以免压到Cameron的头。"
 
 # game/a3s1.rpy:333
 translate Schinese a3s1_220d5102:
 
     # "Brian had hit him so hard that it definitely could have killed him."
-    "Brian had hit him so hard that it definitely could have killed him."
+    "Brian下这么重的手，Cameron一定会死的。"
 
 # game/a3s1.rpy:334
 translate Schinese a3s1_63f64119:
 
     # "What makes it all the more terrifying is the way Cameron's body went limp."
-    "What makes it all the more terrifying is the way Cameron's body went limp."
+    "更让人害怕的是，他的身体突然变得无力。"
 
 # game/a3s1.rpy:335
 translate Schinese a3s1_d2e3e0aa:
 
     # "It had been so reminiscent of Artie's sudden collapse when he had suddenly lost his life."
-    "It had been so reminiscent of Artie's sudden collapse when he had suddenly lost his life."
+    "就像Artie临死前那样倒下。"
 
 # game/a3s1.rpy:336
 translate Schinese a3s1_95f18904:
 
     # "But Cameron is breathing, though it's in a terrible, snorting way."
-    "But Cameron is breathing, though it's in a terrible, snorting way."
+    "然而Cameron还在呼吸，尽管艰难，却仍有气流通过他的鼻子。"
 
 # game/a3s1.rpy:337
 translate Schinese a3s1_b2ccfc32:
 
     # d "\"Cammy, baby, can you hear me?\""
-    d "\"Cammy, baby, can you hear me?\""
+    d "\"Cammy，亲爱的，你能听到吗？\""
 
 # game/a3s1.rpy:338
 translate Schinese a3s1_996492ab:
 
     # "The panic in his voice lowers to an almost pitiful whine as he stares at the coyote twitching, his eyes half open and his head turning back and forth slowly."
-    "The panic in his voice lowers to an almost pitiful whine as he stares at the coyote twitching, his eyes half open and his head turning back and forth slowly."
+    "他凝视着眼睛半睁、头慢慢地来回转动、正在抽搐的郊狼，声音从充满恐慌降低到近乎可怜的哀嚎。"
 
 # game/a3s1.rpy:339
 translate Schinese a3s1_8a210dc4:
 
     # b "\"Whoops, took out a bit more on him then I meant to, heh. Fuck, that hurt!\""
-    b "\"Whoops, took out a bit more on him then I meant to, heh. Fuck, that hurt!\""
+    b "\"喔哦，好像太用力了，还真他娘的疼！\""
 
 # game/a3s1.rpy:340
 translate Schinese a3s1_65301c4a:
 
     # "Brian shakes the paw he'd used to hit Cameron, as if it stings from the blow."
-    "Brian shakes the paw he'd used to hit Cameron, as if it stings from the blow."
+    "Brian甩了甩他用来打Cameron的那只爪子，好像它才是被打的那一方。"
 
 # game/a3s1.rpy:341
 translate Schinese a3s1_28267857:
 
     # "Devon's rage crescendos once more."
-    "Devon's rage crescendos once more."
+    "Devon再次愤怒到了极点。"
 
 # game/a3s1.rpy:343
 translate Schinese a3s1_056e9a93:
 
     # d "\"BRIAN! I will fucking kill you!\""
-    d "\"BRIAN! I will fucking kill you!\""
+    d "\"我要宰了你！{b}BRIAN！{/b}\""
 
 # game/a3s1.rpy:344
 translate Schinese a3s1_64d70c73:
 
     # "Brian looks surprised for just a second, then he goes on grinning, enjoying the reaction, as if he's watching a show."
-    "Brian looks surprised for just a second, then he goes on grinning, enjoying the reaction, as if he's watching a show."
+    "Brian只是惊讶了一瞬间，而后咧嘴大笑，仿佛是在欣赏一场演出，乐在其中。"
 
 # game/a3s1.rpy:345
 translate Schinese a3s1_4f16779b:
 
     # "This only makes Devon angrier."
-    "This only makes Devon angrier."
+    "而这只会让Devon更加愤怒。"
 
 # game/a3s1.rpy:346
 translate Schinese a3s1_6038d84c:
 
     # d "\"I'll knock every tooth out of your fucking head! I'll tear your throat out, I'll-- I'll...\""
-    d "\"I'll knock every tooth out of your fucking head! I'll tear your throat out, I'll-- I'll...\""
+    d "\"我要把你的每颗牙都打掉！我要撕碎你的喉咙，我要-我要...\""
 
 # game/a3s1.rpy:347
 translate Schinese a3s1_7dfa2b5f:
 
     # "Devon's voice weakens, breaks, then trails off under Brian's apparent glee at the younger bear's fury."
-    "Devon's voice weakens, breaks, then trails off under Brian's apparent glee at the younger bear's fury."
+    "与幸灾乐祸的Brian相反，Devon的声音越来越小，直至完全消失。"
 
 # game/a3s1.rpy:349
 translate Schinese a3s1_0013e04b:
 
     # "Realizing that Cameron's ears are twitching at his shouting, Devon returns his attention to Cameron as the coyote lets out a low, rasping groan."
-    "Realizing that Cameron's ears are twitching at his shouting, Devon returns his attention to Cameron as the coyote lets out a low, rasping groan."
+    "因为他察觉到Cameron的耳朵在因为他一吼一叫而抽动。Devon将注意力转回Cameron，郊狼发出低沉、刺耳的呻吟声。"
 
 # game/a3s1.rpy:351
 translate Schinese a3s1_77012e55:
 
     # d "\"Cameron, honey, you can hear me, right? Cameron?\""
-    d "\"Cameron, honey, you can hear me, right? Cameron?\""
+    d "\"Cameron，亲爱的，你能听到我说话，对吧？Cameron？\""
 
 # game/a3s1.rpy:352
 translate Schinese a3s1_3a898624:
 
     # "Meanwhile, blood oozes out of the coyote's nose and mouth, seeping into the fur on Devon's stomach and side."
-    "Meanwhile, blood oozes out of the coyote's nose and mouth, seeping into the fur on Devon's stomach and side."
+    "与此同时，鲜血从郊狼的鼻子和嘴里渗出，染红了Devon腰侧的毛。"
 
 # game/a3s1.rpy:353
 translate Schinese a3s1_edf290a1:
 
     # "Devon tries to keep his sobbing and gasping to a minimum as Cameron's head continues to rest over his diaphragm."
-    "Devon tries to keep his sobbing and gasping to a minimum as Cameron's head continues to rest over his diaphragm."
+    "Devon将Cameron的头保持在自己的腹部上方，努力把抽泣与喘息控制在最低限度。"
 
 # game/a3s1.rpy:354
 translate Schinese a3s1_d95014bb:
 
     # "Cameron's eyes flutter, then he blinks, and Devon sees the light of consciousness re-enter his eyes."
-    "Cameron's eyes flutter, then he blinks, and Devon sees the light of consciousness re-enter his eyes."
+    "Cameron的眼皮颤动着，然后眨了眨，Devon看到意识之光重新点亮了他的眼睛。"
 
 # game/a3s1.rpy:355
 translate Schinese a3s1_edf21c14:
 
     # d "\"Cam!\""
-    d "\"Cam!\""
+    d "\"Cam！\""
 
 # game/a3s1.rpy:356
 translate Schinese a3s1_395a5fef:
 
     # c "\"... Devon?\""
-    c "\"... Devon?\""
+    c "\"...Devon？\""
 
 # game/a3s1.rpy:358
 translate Schinese a3s1_02ee7593:
 
     # "Cameron grunts under his breath, lifting his head slightly."
-    "Cameron grunts under his breath, lifting his head slightly."
+    "Cameron微微扬起头，气若游丝。"
 
 # game/a3s1.rpy:359
 translate Schinese a3s1_a1399e3d:
 
     # "Brian already looks bored at the catastrophe he just created, and now he keeps looking over his shoulder into the darkness that stretches behind him, shifting impatiently."
-    "Brian already looks bored at the catastrophe he just created, and now he keeps looking over his shoulder into the darkness that stretches behind him, shifting impatiently."
+    "Brian则已经看腻这场戏了，他回首望向无边无际的黑暗，身体不耐烦地摇晃着。"
 
 # game/a3s1.rpy:360
 translate Schinese a3s1_89c1cad1:
 
     # b "\"Alright, make it quick, yote. We need to get movin'.\""
-    b "\"Alright, make it quick, yote. We need to get movin'.\""
+    b "\"好了，快起来，郊狼，咱们得行动了。\""
 
 # game/a3s1.rpy:362
 translate Schinese a3s1_ac0ab068:
 
     # d "\"Don't you touch him! You could have broken his fucking neck!\""
-    d "\"Don't you touch him! You could have broken his fucking neck!\""
+    d "\"不许你碰他！你这个混蛋差点扭断他的脖子！\""
 
 # game/a3s1.rpy:363
 translate Schinese a3s1_ffb214e5:
 
     # "Devon's voice cracks and turns hoarse again."
-    "Devon's voice cracks and turns hoarse again."
+    "Devon的声音再度嘶哑。"
 
 # game/a3s1.rpy:365
 translate Schinese a3s1_245e0b91:
 
     # "Brian bristles, finally reacting, but Devon turns his attention back to Cameron, continuing to try and gently coax him into a state of consciousness."
-    "Brian bristles, finally reacting, but Devon turns his attention back to Cameron, continuing to try and gently coax him into a state of consciousness."
+    "Brian终于被激怒了，但Devon又把注意力集中在Cameron身上，用温柔的话语哄他恢复意识。"
 
 # game/a3s1.rpy:366
 translate Schinese a3s1_48d58416:
 
     # d "\"Come on, baby, can you hear me? Can you understand what I'm saying?\""
-    d "\"Come on, baby, can you hear me? Can you understand what I'm saying?\""
+    d "\"加油，亲爱的，你听得到吗？能理解我的话吗？\""
 
 # game/a3s1.rpy:368
 translate Schinese a3s1_e5693074:
 
     # "Slowly, Cameron lifts his head, a mixture of drool and saliva connecting from his lip to Devon's fur in a long strand."
-    "Slowly, Cameron lifts his head, a mixture of drool and saliva connecting from his lip to Devon's fur in a long strand."
+    "Cameron缓慢抬起头，唾液从他的嘴唇连接到Devon的毛上，形成一条长长的线。"
 
 # game/a3s1.rpy:369
 translate Schinese a3s1_4a71d290:
 
     # c "\"I'm okay. I'm fine.\""
-    c "\"I'm okay. I'm fine.\""
+    c "\"我没事，没事。\""
 
 # game/a3s1.rpy:370
 translate Schinese a3s1_50d21259:
 
     # "Cameron sounds confused as he mumbles, trying to get up unsteadily."
-    "Cameron sounds confused as he mumbles, trying to get up unsteadily."
+    "Cameron困惑地嘟囔着，同时试图用颤颤巍巍的脚站起来。"
 
 # game/a3s1.rpy:371
 translate Schinese a3s1_897927f8:
 
     # d "\"No! Stay still.\""
-    d "\"No! Stay still.\""
+    d "\"别！不要动。\""
 
 # game/a3s1.rpy:372
 translate Schinese a3s1_bcc5d943:
 
     # b "\"No, get up. Didn't I tell you what I'd do to your bear if you don't--\""
-    b "\"No, get up. Didn't I tell you what I'd do to your bear if you don't--\""
+    b "\"赶紧起来。你要是不听话，你的熊可就-\""
 
 # game/a3s1.rpy:373
 translate Schinese a3s1_3eaa283a:
 
     # d "\"Then do it! Come over here and do it, you fucking coward! You fucking scum--\""
-    d "\"Then do it! Come over here and do it, you fucking coward! You fucking scum--\""
+    d "\"来啊！冲我来，你这个该死的懦夫！卑鄙的人渣-\""
 
 # game/a3s1.rpy:374
 translate Schinese a3s1_e469e249:
 
     # c "\"Devon.\""
-    c "\"Devon.\""
+    c "\"Devon。\""
 
 # game/a3s1.rpy:375
 translate Schinese a3s1_205a86d3:
@@ -1720,7 +1720,7 @@ translate Schinese a3s1_1b70d2b0:
 translate Schinese a3s1_049c9119:
 
     # c "\"The mines, that's right. I'm going to the mines, and I'm coming back for you.\""
-    c "\"The mines, that's right. I'm going to the mines, and I'm coming back for you.\""
+    c "\"矿井，没错，我要去矿井。别担心，我一定会回来找你的。\""
 
 # game/a3s1.rpy:381
 translate Schinese a3s1_0d8f9c07:
@@ -1732,7 +1732,7 @@ translate Schinese a3s1_0d8f9c07:
 translate Schinese a3s1_7bab3039:
 
     # d "\"What? What mines? Stay here.\""
-    d "\"What? What mines? Stay here.\""
+    d "\"管它什么矿井？不要去。\""
 
 # game/a3s1.rpy:383
 translate Schinese a3s1_9a73a48b:
@@ -1822,7 +1822,7 @@ translate Schinese a3s1_d44700b4:
 translate Schinese a3s1_0a6dc7b0:
 
     # b "\"Eh, you're fine.\""
-    b "\"Eh, you're fine.\""
+    b "\"恶，你们腻歪完了吧。\""
 
 # game/a3s1.rpy:399
 translate Schinese a3s1_d7554cbe:
@@ -1834,7 +1834,7 @@ translate Schinese a3s1_d7554cbe:
 translate Schinese a3s1_5be1dc2a:
 
     # b "\"Sit tight, kid. We'll be back in a little while. I promise.\""
-    b "\"Sit tight, kid. We'll be back in a little while. I promise.\""
+    b "\"坐在那里别动，小子。我们一会儿就回来，我保证。\""
 
 # game/a3s1.rpy:404
 translate Schinese a3s1_dd3f4a6a:
@@ -1852,7 +1852,7 @@ translate Schinese a3s1_0886745a:
 translate Schinese a3s1_83cc5367:
 
     # "The world is more dreamlike than his dreams."
-    "The world is more dreamlike than his dreams."
+    "这个世界远比梦境更光怪陆离。"
 
 # game/a3s1.rpy:407
 translate Schinese a3s1_e326755e:
@@ -1942,7 +1942,7 @@ translate Schinese a3s1_31a6344d:
 translate Schinese a3s1_abbec899:
 
     # b "\"Doesn't matter.\""
-    b "\"Doesn't matter.\""
+    b "\"这不重要。\""
 
 # game/a3s1.rpy:430
 translate Schinese a3s1_570c7e81:
