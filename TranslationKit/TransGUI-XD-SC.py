@@ -13,6 +13,7 @@ dupHashOverride = True
 editFullwidthPunctuation = False
 stringsBlockOverride = False
 useMT = False
+newContentAtBotm = True
 newPrefix = '@@@'
 MTLang='zh-CN'
 doneText = ' done '
@@ -67,7 +68,7 @@ def button_callback4():
                 progressbar_1.set(i/len(resourceFiles))
                 app.update()
                 tmpTC = TranslationKit.TransFileHandler(sourcePath=pathResource, destinationPath=pathResource, resultPath=pathResource, fileName=f, tranlationName=entry.get())
-                tmpTC.initNewTransFile(stringsBlockOverride=stringsBlockOverride, dupHashOverride=dupHashOverride, editFullwidthPunctuation=editFullwidthPunctuation, newPrefix=prefix.get(), useMT=useMT, MTLang=MTLang)
+                tmpTC.initNewTransFile(stringsBlockOverride=stringsBlockOverride, dupHashOverride=dupHashOverride, editFullwidthPunctuation=editFullwidthPunctuation, newContentAtBotm=newContentAtBotm, newPrefix=prefix.get(), useMT=useMT, MTLang=MTLang)
             del tmpTC
             print(f'{doneText:#^50}')
             window = customtkinter.CTkToplevel(app)
@@ -90,7 +91,7 @@ def button_callback4():
                 app.update()
                 tmpTC = TranslationKit.TransFileHandler(sourcePath=pathResource, destinationPath=pathDestination, resultPath=pathResult, fileName=f, tranlationName=entry.get())
                 tmpTC.findDiff(followOrginOrder=True)
-                tmpTC.initNewTransFile(stringsBlockOverride=stringsBlockOverride, dupHashOverride=dupHashOverride, editFullwidthPunctuation=editFullwidthPunctuation, newPrefix=prefix.get(), useMT=useMT, MTLang=MTLang)
+                tmpTC.initNewTransFile(stringsBlockOverride=stringsBlockOverride, dupHashOverride=dupHashOverride, editFullwidthPunctuation=editFullwidthPunctuation, newContentAtBotm=newContentAtBotm, newPrefix=prefix.get(), useMT=useMT, MTLang=MTLang)
             del tmpTC
             print(f'{doneText:#^50}')
             window = customtkinter.CTkToplevel(app)
@@ -115,7 +116,7 @@ def button_callback5():
             tmpTC = TranslationKit.TransFileHandler(sourcePath=pathResult, destinationPath=pathResult, resultPath=pathResult, fileName=f, tranlationName=entry.get())
             if useMT:
                 tmpTC.rawSourceFile = []
-            tmpTC.initNewTransFile(stringsBlockOverride=stringsBlockOverride, dupHashOverride=dupHashOverride, editFullwidthPunctuation=editFullwidthPunctuation, newPrefix=prefix.get(), useMT=useMT, MTLang=MTLang)
+            tmpTC.initNewTransFile(stringsBlockOverride=stringsBlockOverride, dupHashOverride=dupHashOverride, editFullwidthPunctuation=editFullwidthPunctuation, newContentAtBotm=newContentAtBotm, newPrefix=prefix.get(), useMT=useMT, MTLang=MTLang)
         del tmpTC
         print(f'{doneText:#^50}')
         window = customtkinter.CTkToplevel(app)
@@ -151,7 +152,6 @@ def checkbox_event3():
     else:
         stringsBlockOverride = False
     print(stringsBlockOverride)
-
 def checkbox_event4():
     global useMT
     if check_var_4.get() == 'on':
@@ -159,15 +159,22 @@ def checkbox_event4():
     else:
         useMT = False
     print(useMT)
+def checkbox_event5():
+    global newContentAtBotm
+    if check_var_5.get() == 'on':
+        newContentAtBotm = True
+    else:
+        newContentAtBotm = False
+    print(newContentAtBotm)
 
 def change_appearance_mode_event(appearance_mode_optionemenu):
     customtkinter.set_appearance_mode(appearance_mode_optionemenu)
 
 
 frame_1 = customtkinter.CTkFrame(master=app)
-frame_1.grid(row=0, column=0, rowspan=10, columnspan=1, sticky="nsew", pady=40, padx=(10,30))
+frame_1.grid(row=0, column=0, rowspan=11, columnspan=1, sticky="nsew", pady=40, padx=(10,30))
 frame_2 = customtkinter.CTkFrame(master=app)
-frame_2.grid(row=0, column=1, rowspan=10, columnspan=4, sticky="nsew", pady=40, padx=(0,10))
+frame_2.grid(row=0, column=1, rowspan=11, columnspan=4, sticky="nsew", pady=40, padx=(0,10))
 
 check_var_1 = tkinter.StringVar(master=frame_1, value="on")
 checkbox_1 = customtkinter.CTkCheckBox(master=frame_1, text="重复内容删旧留新", command=checkbox_event1,
@@ -177,35 +184,40 @@ checkbox_1.grid(row=1, column=0, sticky="nsew", pady=(20,0), padx=20)
 check_var_2 = tkinter.StringVar(master=frame_1, value="off")
 checkbox_2 = customtkinter.CTkCheckBox(master=frame_1, text="修饰标点符号", command=checkbox_event2,
                                      variable=check_var_2, onvalue="on", offvalue="off", font=customtkinter.CTkFont(family='STHeiti'))
-checkbox_2.grid(row=2, column=0, sticky="nsew", pady=(40,0), padx=20)
+checkbox_2.grid(row=2, column=0, sticky="nsew", pady=(20,0), padx=20)
 
 check_var_3 = tkinter.StringVar(master=frame_1, value="off")
 checkbox_3 = customtkinter.CTkCheckBox(master=frame_1, text="Strings Block区域\n来源资料覆盖目标", command=checkbox_event3,
                                      variable=check_var_3, onvalue="on", offvalue="off", font=customtkinter.CTkFont(family='STHeiti'))
-checkbox_3.grid(row=3, column=0, sticky="nsew", pady=(40,0), padx=20)
+checkbox_3.grid(row=3, column=0, sticky="nsew", pady=(20,0), padx=20)
 
 check_var_4 = tkinter.StringVar(master=frame_1, value="off")
 checkbox_4 = customtkinter.CTkCheckBox(master=frame_1, text="目标未填写入机翻\n(会有前缀'@@@')\n大约500句/分钟\n很慢慎用(谷歌)", command=checkbox_event4,
                                      variable=check_var_4, onvalue="on", offvalue="off", font=customtkinter.CTkFont(family='STHeiti'))
-checkbox_4.grid(row=4, column=0, sticky="nsew", pady=(30,0), padx=20)
+checkbox_4.grid(row=4, column=0, sticky="nsew", pady=(20,0), padx=20)
+
+check_var_5 = tkinter.StringVar(master=frame_1, value="on")
+checkbox_5 = customtkinter.CTkCheckBox(master=frame_1, text="新版增修集中在最下面\n不会加入前缀'@@@'\n但开启机翻还是会有", command=checkbox_event5,
+                                     variable=check_var_5, onvalue="on", offvalue="off", font=customtkinter.CTkFont(family='STHeiti'))
+checkbox_5.grid(row=5, column=0, sticky="nsew", pady=(20,0), padx=20)
 
 entry_label = customtkinter.CTkLabel(master=frame_1, text="翻译档名称(可输入)：", anchor="w", font=customtkinter.CTkFont(family='STHeiti'))
-entry_label.grid(row=5, column=0, sticky="nsew", pady=(30,0), padx=20)
+entry_label.grid(row=6, column=0, sticky="nsew", pady=(30,0), padx=20)
 entry = customtkinter.CTkEntry(master=frame_1, placeholder_text=nameTranlation)
 entry.insert(0, nameTranlation)
-entry.grid(row=6, column=0, sticky="nsew", pady=(0,0), padx=20)
+entry.grid(row=7, column=0, sticky="nsew", pady=(0,0), padx=20)
 
 prefix_label = customtkinter.CTkLabel(master=frame_1, text="未填/机翻前缀(不可空)：", anchor="w", font=customtkinter.CTkFont(family='STHeiti'))
-prefix_label.grid(row=7, column=0, sticky="nsew", pady=(0,0), padx=20)
+prefix_label.grid(row=8, column=0, sticky="nsew", pady=(0,0), padx=20)
 prefix = customtkinter.CTkEntry(master=frame_1, placeholder_text=newPrefix)
 prefix.insert(0, newPrefix)
-prefix.grid(row=8, column=0, sticky="nsew", pady=(0,20), padx=20)
+prefix.grid(row=9, column=0, sticky="nsew", pady=(0,20), padx=20)
 
 appearance_mode_label = customtkinter.CTkLabel(master=frame_1, text="主题颜色：", anchor="w", font=customtkinter.CTkFont(family='STHeiti'))
-appearance_mode_label.grid(row=9, column=0, sticky="nsew", pady=(10,0), padx=15)
+appearance_mode_label.grid(row=10, column=0, sticky="nsew", pady=(10,0), padx=15)
 appearance_mode_optionemenu = customtkinter.CTkOptionMenu(master=frame_1, values=["Dark", "Light", "System"],
                                                                        command=change_appearance_mode_event)
-appearance_mode_optionemenu.grid(row=10, column=0, sticky="nesw", pady=0, padx=(10,10))
+appearance_mode_optionemenu.grid(row=11, column=0, sticky="nesw", pady=0, padx=(10,10))
 
 
 text_1 = customtkinter.CTkTextbox(master=frame_2, width=560, height=20)
@@ -240,7 +252,7 @@ button_5 = customtkinter.CTkButton(master=frame_2, text='\U000025B6 只做选项
 button_5.grid(row=8, column=2, rowspan=1, columnspan=1, sticky="sw", pady=(0,0), padx=(40, 10))
 
 progressbar_1 = customtkinter.CTkProgressBar(master=app, progress_color='#4E9F3D')
-progressbar_1.grid(row=8, column=0, rowspan=2, columnspan=5, sticky="nsew", pady=(10,20), padx=(10,10))
+progressbar_1.grid(row=9, column=0, rowspan=2, columnspan=5, sticky="nsew", pady=(10,20), padx=(10,10))
 progressbar_1.set(0.0)
 
 

@@ -1,3 +1,5 @@
+# TODO: Translation updated at 2023-01-18 18:51
+
 # game/williamroute.rpy:3
 translate Tchinese williamroute_218ecce7:
 
@@ -68,7 +70,7 @@ translate Tchinese williamroute_a77731a1:
 translate Tchinese williamroute_7d02c32a:
 
     # cy "\"You know Sam, you really lucked out with the picks tonight. Why, if I were in your shoes--\""
-    cy "“Sam，你今晚的選項真好耶。哎，如果我是你——”"
+    cy "“Sam，你今晚的選項真好耶。哎，如果我是你──”"
 
 # game/williamroute.rpy:16
 translate Tchinese williamroute_3fc0acd8:
@@ -692,7 +694,7 @@ translate Tchinese williamroute_d54583cb:
 translate Tchinese williamroute_6787ff19:
 
     # m "\"William... I'm a murderer--\""
-    m "“William……我是個殺人犯——”"
+    m "“William……我是個殺人犯──”"
 
 # game/williamroute.rpy:163
 translate Tchinese williamroute_74674646:
@@ -1046,7 +1048,7 @@ translate Tchinese williamroute_9a2a4a3a:
 translate Tchinese williamroute_9737665a:
 
     # m "\"But what am {i}I{/i} supposed to do right now? This very night?\""
-    m "“但是{i}我{/i}現在該做什麼——我是說今晚？”"
+    m "“但是{i}我{/i}現在該做什麼──我是說今晚？”"
 
 # game/williamroute.rpy:257
 translate Tchinese williamroute_fa16db8e:
@@ -2756,7 +2758,7 @@ translate Tchinese williamroute_d4b9a5b1:
 translate Tchinese williamroute_6adcba33:
 
     # m "\"But Nik--\""
-    m "“可是Nik——”"
+    m "“可是Nik──”"
 
 # game/williamroute.rpy:682
 translate Tchinese williamroute_8ca7faf1:
@@ -3422,7 +3424,7 @@ translate Tchinese williamroute_1738a51e:
 translate Tchinese williamroute_e43a1887:
 
     # m "\"Somethin' about letting things fester.\""
-    m "“什麼把事情擺爛的——”"
+    m "“什麼把事情擺爛的──”"
 
 # game/williamroute.rpy:870
 translate Tchinese williamroute_834e0288:
@@ -4058,7 +4060,7 @@ translate Tchinese williamroute_612afcc9:
 translate Tchinese williamroute_457c2f2a:
 
     # wi "\"There’s a certain saying: ‘The smaller the town, the more vicious the politics.’\""
-    wi "“有句話說得好：‘城鎮越小，政治就越惡毒。”"
+    wi "“有句話說得好：‘城鎮越小，政治就越惡毒。’”"
 
 # game/williamroute.rpy:1039
 translate Tchinese williamroute_7b9da827:
@@ -5600,7 +5602,7 @@ translate Tchinese williamroute_b812bce2:
 translate Tchinese williamroute_5831ce78:
 
     # to "\"Well, uh, y’see--\""
-    to "“這個，呃，你看——”"
+    to "“這個，呃，你看──”"
 
 # game/williamroute.rpy:1507
 translate Tchinese williamroute_9ee14fcb:
@@ -5621,12 +5623,11 @@ translate Tchinese williamroute_d771b34c:
     to "“好──好吧，繼續，再下一手牌是滿堂紅……”"
 
 # game/williamroute.rpy:1515
-translate Tchinese williamroute_d534810b:
+translate Tchinese williamroute_6ede209b:
 
-    # m "\"Is that was Todd dreams about whenever he tastes Mrs. Greene’s pies?\""
+    # m "\"Is that what Todd dreams about whenever he tastes Mrs. Greene’s pies?\""
     m "“Todd就是夢見自己在那個‘堂’裡品嚐Greene太太的派的嗎？”"
 
-# game/williamroute.rpy:1517
 translate Tchinese williamroute_bf97daa8:
 
     # to "\"Now hold on just a second!\""
@@ -8422,11 +8423,4 @@ translate Tchinese williamroute_9206859d:
     # "Maybe next time I should ask what scares you."
     "也許下一次，我應該問問你內心中的恐懼。"
 
-# TODO: Translation updated at 2021-12-17 22:04
-
-# game/williamroute.rpy:1523
-translate Tchinese williamroute_6ede209b:
-
-    # m "\"Is that what Todd dreams about whenever he tastes Mrs. Greene’s pies?\""
-    m "“Todd就是夢見自己在那個‘堂’裡品嚐Greene太太的派的嗎？”"
 

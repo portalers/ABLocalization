@@ -19,6 +19,6 @@ if __name__ == "__main__":
         print(f)
         tmpTC = TranslationKit.TransFileHandler(sourcePath=pathResource, destinationPath=pathDestination, resultPath=resultTCPath, fileName=f, tranlationName='Tchinese')
         tmpTC.findDiff(followOrginOrder=True)
-        tmpTC.initNewTransFile(stringsBlockOverride=False, dupHashOverride=True, editFullwidthPunctuation=True, newPrefix=newPrefix, useMT=False, MTLang=MTLang)
-        # tmpTC.initNewTransFile(stringsBlockOverride=False, dupHashOverride=True, editFullwidthPunctuation=True, newPrefix=newPrefix, useMT=True, MTLang=MTLang)
+        tmpTC.initNewTransFile(stringsBlockOverride=False, dupHashOverride=True, editFullwidthPunctuation=True, newContentAtBotm=False, newPrefix='@@@', useMT=False, MTLang='zh-TW')
+        # tmpTC.initNewTransFile(stringsBlockOverride=False, dupHashOverride=True, editFullwidthPunctuation=True, newContentAtBotm=False, newPrefix='@@@', useMT=True, MTLang='zh-TW')
         del tmpTC

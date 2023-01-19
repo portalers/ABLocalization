@@ -1,3 +1,5 @@
+# TODO: Translation updated at 2023-01-18 18:51
+
 # game/nikroute.rpy:3
 translate Tchinese nikroute_38b05af4:
 
@@ -5489,12 +5491,12 @@ translate Tchinese nikroute_9dd16c59:
     "他以與那隻野兔相同的語言向對方說了些話，然後轉而面向我。"
 
 # game/nikroute.rpy:1175
-translate Tchinese nikroute_0c22cf5b:
+translate Tchinese nikroute_5ede5f07:
 
-    # "{color=#D0C8C6}Weasel" "\"What are you doing here?\""
-    "{color=#D0C8C6}Weasel" "“你來這幹嘛？”"
+    # chwz "\"What are you doing here?\""
+    chwz "“你來這幹嘛？”"
 
-# game/nikroute.rpy:1177
+# game/nikroute.rpy:1183
 translate Tchinese nikroute_abef62b5:
 
     # m "\"Uh... Just passing through. I'll leave in a second.\""
@@ -5513,12 +5515,12 @@ translate Tchinese nikroute_85eee10c:
     "鼬繼續跟野兔說話，然後再度看向我。"
 
 # game/nikroute.rpy:1182
-translate Tchinese nikroute_7b0d035f:
+translate Tchinese nikroute_b2479c55:
 
-    # "{color=#D0C8C6}Weasel" "\"Did someone tell you about this place?\""
-    "{color=#D0C8C6}Weasel" "“有人跟你提過這裡的事？”"
+    # chwz "\"Did someone tell you about this place?\""
+    chwz "“有人跟你提過這裡的事？”"
 
-# game/nikroute.rpy:1184
+# game/nikroute.rpy:1205
 translate Tchinese nikroute_5ff982d5:
 
     # "I look at him, and at the same time he brings something up to his mouth."
@@ -5597,12 +5599,12 @@ translate Tchinese nikroute_4e41744d:
     "他的眼神迷離，好像在看我身後數裡的距離似的。"
 
 # game/nikroute.rpy:1204
-translate Tchinese nikroute_0dde334f:
+translate Tchinese nikroute_d6f0f8d9:
 
-    # "{color=#D0C8C6}Weasel" "\"Your fur is very white for a mountain lion.\""
-    "{color=#D0C8C6}Weasel" "“以一隻美洲獅來說，你毛還真白。”"
+    # chwz "\"Your fur is very white for a mountain lion.\""
+    chwz "“以一隻美洲獅來說，你毛還真白。”"
 
-# game/nikroute.rpy:1206
+# game/nikroute.rpy:1210
 translate Tchinese nikroute_fb923c94:
 
     # "I bristle."
@@ -5615,48 +5617,48 @@ translate Tchinese nikroute_e12cc9c2:
     m "“是喔？以一隻鼬來說你的毛還真黑啊。”"
 
 # game/nikroute.rpy:1209
-translate Tchinese nikroute_5d385192:
+translate Tchinese nikroute_3856306c:
 
-    # "{color=#D0C8C6}Weasel" "\"Sable.\""
-    "{color=#D0C8C6}Weasel" "“黑貂。”"
+    # chwz "\"Sable.\""
+    chwz "“黑貂。”"
 
-# game/nikroute.rpy:1210
+# game/nikroute.rpy:1213
 translate Tchinese nikroute_df8ec4bc_4:
 
     # m "\"What?\""
     m "“什麼？”"
 
 # game/nikroute.rpy:1212
-translate Tchinese nikroute_c4e991e4:
+translate Tchinese nikroute_13728dc8:
 
-    # "{color=#D0C8C6}Weasel" "\"I am a Sable.\""
-    "{color=#D0C8C6}Weasel" "“我是隻黑貂。”"
+    # chwz "\"I am a Sable.\""
+    chwz "“我是隻黑貂。”"
 
-# game/nikroute.rpy:1213
+# game/nikroute.rpy:1216
 translate Tchinese nikroute_6614bb15:
 
     # m "\"Never heard of that.\""
     m "“聽都沒聽過。”"
 
 # game/nikroute.rpy:1215
-translate Tchinese nikroute_b38b9b9b:
+translate Tchinese nikroute_99c33552:
 
-    # "{color=#D0C8C6}Sable" "\"Most here haven't.\""
-    "{color=#D0C8C6}Sable" "“這裡大多數人都沒有。”"
+    # chsb "\"Most here haven't.\""
+    chsb "“這裡大多數人都沒有。”"
 
-# game/nikroute.rpy:1216
+# game/nikroute.rpy:1219
 translate Tchinese nikroute_fb425dd4:
 
     # "I sigh, deciding I can probably go now."
     "我嘆了口氣，想說差不多能離開了。"
 
 # game/nikroute.rpy:1218
-translate Tchinese nikroute_697cddb7:
+translate Tchinese nikroute_8f6b4453:
 
-    # "{color=#D0C8C6}Sable" "\"Would you like to try? It sends the sadness and pain away for a while.\""
-    "{color=#D0C8C6}Sable" "“你想試試嗎？這能暫時舒緩哀愁跟痛苦。”"
+    # chsb "\"Would you like to try? It sends the sadness and pain away for a while.\""
+    chsb "“你想試試嗎？這能暫時舒緩哀愁跟痛苦。”"
 
-# game/nikroute.rpy:1219
+# game/nikroute.rpy:1233
 translate Tchinese nikroute_04b233c2:
 
     # "He holds up the shiny pipe, almost glittering from the light that comes in through the doorway."
@@ -5705,36 +5707,35 @@ translate Tchinese nikroute_bbc867fb:
     "也許是因為我作為警長的朋友，才希望大家都能安分守法──雖然連我自己都沒做到就是了。"
 
 # game/nikroute.rpy:1232
-translate Tchinese nikroute_d1e216be:
+translate Tchinese nikroute_f5bd9285:
 
-    # "{color=#D0C8C6}Sable" "\"This is better, for less money. That's important for men like me who can no longer work.\""
-    "{color=#D0C8C6}Sable" "“這才好，更便宜。對像我這種再也沒辦法工作的人來說可重要了。”"
+    # chsb "\"This is better, for less money. That's important for men like me who can no longer work.\""
+    chsb "“這才好，更便宜。對像我這種再也沒辦法工作的人來說可重要了。”"
 
-# game/nikroute.rpy:1233
+# game/nikroute.rpy:1236
 translate Tchinese nikroute_6f1fbcca:
 
     # "I look at his hand again and he smiles."
     "我再度看著他的手，他則揚起微笑。"
 
 # game/nikroute.rpy:1235
-translate Tchinese nikroute_bc677701:
+translate Tchinese nikroute_7bb86772:
 
-    # "{color=#D0C8C6}Sable" "\"Caught in the machinery at the mines. Now I use my feet to pick up trash for pennies.\""
-    "{color=#D0C8C6}Sable" "“在礦坑被機器給弄斷了。現在我只能用腳撿垃圾來換點錢。”"
+    # chsb "\"Caught in the machinery at the mines. Now I use my feet to pick up trash for pennies.\""
+    chsb "“在礦坑被機器給弄斷了。現在我只能用腳撿垃圾來換點錢。”"
 
-# game/nikroute.rpy:1236
+# game/nikroute.rpy:1239
 translate Tchinese nikroute_9bb92fdd:
 
     # "The sable looks over at the hare who is hunched over, looking like he's sewing something."
     "貂把目光移往正彎著腰的野兔上，對方好像正在縫東西。"
 
 # game/nikroute.rpy:1238
-translate Tchinese nikroute_374cd24c:
+translate Tchinese nikroute_9e885f95:
 
-    # "{color=#D0C8C6}Sable" "\"And occasionally interpret for the men who can't speak the local language.\""
-    "{color=#D0C8C6}Sable" "“偶爾也幫不會說當地語言的人翻譯。”"
+    # chsb "\"And occasionally interpret for the men who can't speak the local language.\""
+    chsb "“偶爾也幫不會說當地語言的人翻譯。”"
 
-# game/nikroute.rpy:1240
 translate Tchinese nikroute_c3e56336:
 
     # "I think whatever the guy is on--I know what it is, I just can't remember the name--is making him more talkative too."
@@ -6549,66 +6550,4 @@ translate Tchinese nikroute_91559ea8:
 
     # "Yao leads us inside."
     "Yao帶領我們走進礦井。"
-
-# TODO: Translation updated at 2022-04-15 22:58
-
-# game/nikroute.rpy:1176
-translate Tchinese nikroute_5ede5f07:
-
-    # chwz "\"What are you doing here?\""
-    chwz "“你來這幹嘛？”"
-
-# game/nikroute.rpy:1183
-translate Tchinese nikroute_b2479c55:
-
-    # chwz "\"Did someone tell you about this place?\""
-    chwz "“有人跟你提過這裡的事？”"
-
-# game/nikroute.rpy:1205
-translate Tchinese nikroute_d6f0f8d9:
-
-    # chwz "\"Your fur is very white for a mountain lion.\""
-    chwz "“以一隻美洲獅來說，你毛還真白。”"
-
-# game/nikroute.rpy:1210
-translate Tchinese nikroute_3856306c:
-
-    # chwz "\"Sable.\""
-    chwz "“黑貂。”"
-
-# game/nikroute.rpy:1213
-translate Tchinese nikroute_13728dc8:
-
-    # chwz "\"I am a Sable.\""
-    chwz "“我是隻黑貂。”"
-
-# game/nikroute.rpy:1216
-translate Tchinese nikroute_99c33552:
-
-    # chsb "\"Most here haven't.\""
-    chsb "“這裡大多數人都沒有。”"
-
-# game/nikroute.rpy:1219
-translate Tchinese nikroute_8f6b4453:
-
-    # chsb "\"Would you like to try? It sends the sadness and pain away for a while.\""
-    chsb "“你想試試嗎？這能暫時舒緩哀愁跟痛苦。”"
-
-# game/nikroute.rpy:1233
-translate Tchinese nikroute_f5bd9285:
-
-    # chsb "\"This is better, for less money. That's important for men like me who can no longer work.\""
-    chsb "“這才好，更便宜。對像我這種再也沒辦法工作的人來說可重要了。”"
-
-# game/nikroute.rpy:1236
-translate Tchinese nikroute_7bb86772:
-
-    # chsb "\"Caught in the machinery at the mines. Now I use my feet to pick up trash for pennies.\""
-    chsb "“在礦坑被機器給弄斷了。現在我只能用腳撿垃圾來換點錢。”"
-
-# game/nikroute.rpy:1239
-translate Tchinese nikroute_9e885f95:
-
-    # chsb "\"And occasionally interpret for the men who can't speak the local language.\""
-    chsb "“偶爾也幫不會說當地語言的人翻譯。”"
 

@@ -1,3 +1,5 @@
+# TODO: Translation updated at 2023-01-18 18:51
+
 # game/nikroute2.rpy:10
 translate Tchinese nikroute2_ac8ac9d1:
 
@@ -5144,7 +5146,7 @@ translate Tchinese sny1_5b718db2:
 translate Tchinese sny1_6afffa9a:
 
     # m "\"Who’s us exactly?\""
-    m "“‘我們’指的是？\”"
+    m "“‘我們’指的是？”"
 
 # game/nikroute2.rpy:1442
 translate Tchinese sny1_f77156c6:
@@ -6917,120 +6919,120 @@ translate Tchinese sny1_a14328b3:
     "如果要問我他們打架誰會贏，我還真答不上來。"
 
 # game/nikroute2.rpy:1923
-translate Tchinese sny1_93bef364:
+translate Tchinese sny1_d1fa6368:
 
-    # "{color=#4B7894}Bear" "\"I told you, the canary was down and the sunavabitch wanted to stay.\""
-    "{color=#4B7894}Bear" "“我說過了，金絲雀都倒下了，那狗娘養的卻還想待在那。”"
+    # dibr "\"I told you, the canary was down and the sunavabitch wanted to stay.\""
+    dibr "“我說過了，金絲雀都倒下了，那狗娘養的卻還想待在那。”"
 
-# game/nikroute2.rpy:1928
-translate Tchinese sny1_c11081d9:
+# game/nikroute2.rpy:1929
+translate Tchinese sny1_01dd1405:
 
-    # "{color=#558247}Jackrabbit" "\"Jesus.\""
-    "{color=#558247}Jackrabbit" "“天啊。”"
+    # fejr "\"Jesus.\""
+    fejr "“天啊。”"
 
-# game/nikroute2.rpy:1932
-translate Tchinese sny1_aae71607:
+# game/nikroute2.rpy:1933
+translate Tchinese sny1_09bd557a:
 
-    # "{color=#DC143C}Wolverine" "\"So let ‘im stay.\""
-    "{color=#DC143C}Wolverine" "“那就讓他待著啊。”"
+    # pawv "\"So let ‘im stay.\""
+    pawv "“那就讓他待著啊。”"
 
-# game/nikroute2.rpy:1935
-translate Tchinese sny1_71c89993:
+# game/nikroute2.rpy:1936
+translate Tchinese sny1_0621c433:
 
-    # "{color=#4B7894}Bear" "\"He coulda died.\""
-    "{color=#4B7894}Bear" "“他搞不好會死欸。”"
+    # dibr "\"He coulda died.\""
+    dibr "“他搞不好會死欸。”"
 
-# game/nikroute2.rpy:1940
-translate Tchinese sny1_892858d2:
+# game/nikroute2.rpy:1941
+translate Tchinese sny1_ba9ac905:
 
-    # "{color=#DC143C}Wolverine" "\"A lot more men will be in danger if he ever leads a crew.\""
-    "{color=#DC143C}Wolverine" "“如果他哪天當上領隊，那會有更多人有危險。”"
+    # pawv "\"A lot more men will be in danger if he ever leads a crew.\""
+    pawv "“如果他哪天當上領隊，那會有更多人有危險。”"
 
-# game/nikroute2.rpy:1943
-translate Tchinese sny1_98531a56:
+# game/nikroute2.rpy:1944
+translate Tchinese sny1_1d1434d3:
 
-    # "{color=#4B7894}Bear" "\"I can’t see that happening.\""
-    "{color=#4B7894}Bear" "“我不覺得有這可能性。”"
+    # dibr "\"I can’t see that happening.\""
+    dibr "“我不覺得有這可能性。”"
 
-# game/nikroute2.rpy:1946
-translate Tchinese sny1_d76f3e68:
+# game/nikroute2.rpy:1947
+translate Tchinese sny1_a7a158ad:
 
-    # "{color=#4B7894}Bear" "\"He ain’t nobody important.\""
-    "{color=#4B7894}Bear" "“他根本無足輕重。”"
+    # dibr "\"He ain’t nobody important.\""
+    dibr "“他根本無足輕重。”"
 
-# game/nikroute2.rpy:1949
-translate Tchinese sny1_e02854b7:
+# game/nikroute2.rpy:1950
+translate Tchinese sny1_13f161dc:
 
-    # "{color=#DC143C}Wolverine" "\"Maybe not now he ain’t.\""
-    "{color=#DC143C}Wolverine" "“現在可能是這樣。”"
+    # pawv "\"Maybe not now he ain’t.\""
+    pawv "“現在可能是這樣。”"
 
-# game/nikroute2.rpy:1952
-translate Tchinese sny1_c75f0b03:
+# game/nikroute2.rpy:1953
+translate Tchinese sny1_4e55e5d5:
 
-    # "{color=#DC143C}Wolverine" "\"But I tell you, these young bootlickers rise faster in ranks than weeds in pig shit.\""
-    "{color=#DC143C}Wolverine" "“但我告訴你，這些年輕的馬屁精，職位比豬糞坑的雜草升得都快。”"
+    # pawv "\"But I tell you, these young bootlickers rise faster in ranks than weeds in pig shit.\""
+    pawv "“但我告訴你，這些年輕的馬屁精，職位比豬糞坑的雜草升得都快。”"
 
-# game/nikroute2.rpy:1955
-translate Tchinese sny1_176bd72e:
+# game/nikroute2.rpy:1956
+translate Tchinese sny1_aef07bc5:
 
-    # "{color=#DC143C}Wolverine" "\"You could find yerself in a situation where the bird passes out and he says you can’t leave.\""
-    "{color=#DC143C}Wolverine" "“指不定哪天就算鳥昏了他都不准你走。”"
+    # pawv "\"You could find yerself in a situation where the bird passes out and he says you can’t leave.\""
+    pawv "“說不定哪天就算鳥都死了他也不准你走。”"
 
-# game/nikroute2.rpy:1958
-translate Tchinese sny1_af3777b6:
+# game/nikroute2.rpy:1959
+translate Tchinese sny1_19aa7aee:
 
-    # "{color=#4B7894}Bear" "\"Nonsense.\""
-    "{color=#4B7894}Bear" "“胡扯。”"
+    # dibr "\"Nonsense.\""
+    dibr "“胡扯。”"
 
-# game/nikroute2.rpy:1961
-translate Tchinese sny1_ab351741:
+# game/nikroute2.rpy:1962
+translate Tchinese sny1_11bf2e92:
 
-    # "{color=#DC143C}Wolverine" "\"Nonsense yerself.\""
-    "{color=#DC143C}Wolverine" "“胡扯個屁。”"
+    # pawv "\"Nonsense yerself.\""
+    pawv "“胡扯個屁。”"
 
-# game/nikroute2.rpy:1964
-translate Tchinese sny1_9b15734b:
+# game/nikroute2.rpy:1965
+translate Tchinese sny1_7724dba2:
 
-    # "{color=#4B7894}Bear" "\"He ain’t evil.\""
-    "{color=#4B7894}Bear" "“他又不是壞人。”"
+    # dibr "\"He ain’t evil.\""
+    dibr "“他又不是壞人。”"
 
-# game/nikroute2.rpy:1967
-translate Tchinese sny1_e8c7910b:
+# game/nikroute2.rpy:1968
+translate Tchinese sny1_ff37aa6f:
 
-    # "{color=#4B7894}Bear" "\"He’s just an asshole.\""
-    "{color=#4B7894}Bear" "“只是個機掰人。”"
+    # dibr "\"He’s just an asshole.\""
+    dibr "“只是個機掰人。”"
 
-# game/nikroute2.rpy:1970
-translate Tchinese sny1_71f7eda8:
+# game/nikroute2.rpy:1971
+translate Tchinese sny1_bd629da2:
 
-    # "{color=#DC143C}Wolverine" "\"Same difference.\""
-    "{color=#DC143C}Wolverine" "“沒差啦。”"
+    # pawv "\"Same difference.\""
+    pawv "“沒差啦。”"
 
-# game/nikroute2.rpy:1973
-translate Tchinese sny1_3a53de04:
+# game/nikroute2.rpy:1974
+translate Tchinese sny1_dd207844:
 
-    # "{color=#4B7894}Bear" "\"So then what does that make you, then?\""
-    "{color=#4B7894}Bear" "“那你又是什麼？”"
+    # dibr "\"So then what does that make you, then?\""
+    dibr "“那你又是什麼？”"
 
-# game/nikroute2.rpy:1976
-translate Tchinese sny1_89605bd7:
+# game/nikroute2.rpy:1977
+translate Tchinese sny1_658dadeb:
 
-    # "{color=#DC143C}Wolverine" "\"A rascal.\""
-    "{color=#DC143C}Wolverine" "“無賴。”"
+    # pawv "\"A rascal.\""
+    pawv "“無賴。”"
 
-# game/nikroute2.rpy:1981
+# game/nikroute2.rpy:1986
 translate Tchinese sny1_3152a434:
 
     # "They both start laughing and the tension melts like butter on a hot skillet."
     "“他們兩個同時應聲大笑，緊張的氛圍像熱鍋上的奶油一樣頓時化開。”"
 
 # game/nikroute2.rpy:1985
-translate Tchinese sny1_1e121c7c:
+translate Tchinese sny1_9ffa140a:
 
-    # "{color=#558247}Jackrabbit" "\"Boys.\""
-    "{color=#558247}Jackrabbit" "“小子們。”"
+    # fejr "\"Boys.\""
+    fejr "“小子們。”"
 
-# game/nikroute2.rpy:1990
+# game/nikroute2.rpy:2011
 translate Tchinese sny1_dc2e1280:
 
     # "The two look at the rabbit’s gaze, then follow it to me and Yao."
@@ -7073,12 +7075,12 @@ translate Tchinese sny1_a6678bca:
     "狼貛則行了個高爾夫拍手。"
 
 # game/nikroute2.rpy:2010
-translate Tchinese sny1_0a813aea:
+translate Tchinese sny1_23ae602b:
 
-    # "{color=#4B7894}Bear" "\"Welcome!\""
-    "{color=#4B7894}Bear" "“歡迎你！”"
+    # dibr "\"Welcome!\""
+    dibr "“歡迎你！”"
 
-# game/nikroute2.rpy:2013
+# game/nikroute2.rpy:2023
 translate Tchinese sny1_955d47d2:
 
     # fe "\"Congratulations!\""
@@ -7091,18 +7093,18 @@ translate Tchinese sny1_2ab8cee8:
     ya "“Nik說你們可能有人已經見過他了？”"
 
 # game/nikroute2.rpy:2022
-translate Tchinese sny1_db50f901:
+translate Tchinese sny1_5c000126:
 
-    # "{color=#4B7894}Bear" "\"Nope.\""
-    "{color=#4B7894}Bear" "“不認識。”"
+    # dibr "\"Nope.\""
+    dibr "“不認識。”"
 
-# game/nikroute2.rpy:2029
-translate Tchinese sny1_d0806ed6:
+# game/nikroute2.rpy:2031
+translate Tchinese sny1_0692f18f:
 
-    # "{color=#DC143C}Wolverine" "\"Nada.\""
-    "{color=#DC143C}Wolverine" "“沒。”"
+    # pawv "\"Nada.\""
+    pawv "“沒。”"
 
-# game/nikroute2.rpy:2032
+# game/nikroute2.rpy:2044
 translate Tchinese sny1_5d2c0b65:
 
     # fe "\"Can’t say I have, either.\""
@@ -7115,12 +7117,12 @@ translate Tchinese sny1_ba4b89e1:
     "真尷尬，但在意料之中。"
 
 # game/nikroute2.rpy:2042
-translate Tchinese sny1_5ae53d88:
+translate Tchinese sny1_b36e225c:
 
-    # "{color=#D0C8C6}???" "\"I have.\""
-    "{color=#D0C8C6}???" "“我有。”"
+    # unkch "\"I have.\""
+    unkch "“我有。”"
 
-# game/nikroute2.rpy:2043
+# game/nikroute2.rpy:2529
 translate Tchinese sny1_addf27e9:
 
     # "I’ve heard that voice before."
@@ -8507,54 +8509,54 @@ translate Tchinese sny1_457d85a2:
     "他氣勢洶洶地走來。"
 
 # game/nikroute2.rpy:2527
-translate Tchinese sny1_c75cf387:
+translate Tchinese sny1_f4039867:
 
-    # "{color=#B08E65}Dog" "\"What’s the matter old man? Pouring one out for your weary bones?\""
-    "{color=#B08E65}Dog" "“怎麼了老頭？是在向你的老骨頭敬酒嗎？”"
+    # bendg "\"What’s the matter old man? Pouring one out for your weary bones?\""
+    bendg "“怎麼了老頭？是在向你的老骨頭敬酒嗎？”"
 
-# game/nikroute2.rpy:2528
+# game/nikroute2.rpy:2531
 translate Tchinese sny1_12343550:
 
     # di "\"Just mourning for the patience in me, slowly dying.\""
     di "“只是在追悼我緩慢死去的耐心罷了。”"
 
 # game/nikroute2.rpy:2529
-translate Tchinese sny1_965ccbb4:
+translate Tchinese sny1_2098b0c8:
 
-    # "{color=#B08E65}Dog" "\"Say it with me: twenty pounds of silver!\""
-    "{color=#B08E65}Dog" "“跟我一起說：二十磅的銀子！”"
+    # bendg "\"Say it with me: twenty pounds of silver!\""
+    bendg "“跟我一起說：二十磅的銀子！”"
 
-# game/nikroute2.rpy:2530
-translate Tchinese sny1_cd53d38d:
+# game/nikroute2.rpy:2532
+translate Tchinese sny1_7dceca4d:
 
-    # "{color=#B08E65}Dog" "\"We got a ten percent split between the lot of us, and not a lick for you!\""
-    "{color=#B08E65}Dog " "“我們平分了一成的抽成，你一杯羹都分不到！”"
+    # bendg "\"We got a ten percent split between the lot of us, and not a lick for you!\""
+    bendg "“我們分了一成的抽成，你一杯羹都分不到！”"
 
-# game/nikroute2.rpy:2531
+# game/nikroute2.rpy:2534
 translate Tchinese sny1_20a03542:
 
     # di "\"That would cover the cost of your tombstone alright.\""
     di "“那就夠付你的墓碑錢了。”"
 
 # game/nikroute2.rpy:2532
-translate Tchinese sny1_a5d1f6cd:
+translate Tchinese sny1_280f7b7c:
 
-    # "{color=#B08E65}Dog" "\"Why can’t you admit that I was right and you were wrong?\""
-    "{color=#B08E65}Dog " "“你為什麼就不承認我對你錯呢？”"
+    # bendg "\"Why can’t you admit that I was right and you were wrong?\""
+    bendg "“你為什麼就不承認我對你錯呢？”"
 
-# game/nikroute2.rpy:2533
+# game/nikroute2.rpy:2536
 translate Tchinese sny1_e0641ad4:
 
     # di "\"Because you coulda died!\""
     di "“因為你可能會死啊！”"
 
 # game/nikroute2.rpy:2534
-translate Tchinese sny1_6a378ea4:
+translate Tchinese sny1_01954bab:
 
-    # "{color=#B08E65}Dog" "\"But we didn’t, and we’re richer for it!\""
-    "{color=#B08E65}Dog " "“但我們沒死，還發大財了！”"
+    # bendg "\"But we didn’t, and we’re richer for it!\""
+    bendg "“但我們沒死，還發大財了！”"
 
-# game/nikroute2.rpy:2540
+# game/nikroute2.rpy:2546
 translate Tchinese sny1_d0563ead:
 
     # "The wolverine stood up and punched the dog in the face."
@@ -8567,12 +8569,12 @@ translate Tchinese sny1_d16cd9b4:
     "他整條狗360度旋轉，伴隨著慘叫撞壞了一個木桶。"
 
 # game/nikroute2.rpy:2544
-translate Tchinese sny1_7d834c92:
+translate Tchinese sny1_abf2d9bf:
 
-    # "{color=#DC143C}Wolverine" "\"Let’s see you use some of that silver for caps.\""
-    "{color=#DC143C}Wolverine" "“你就用那錢當醫藥費吧。”"
+    # pawv "\"Let’s see you use some of that silver for caps.\""
+    pawv "“你就用那錢當醫藥費吧。”"
 
-# game/nikroute2.rpy:2545
+# game/nikroute2.rpy:2573
 translate Tchinese sny1_a5a7b6ad:
 
     # "I’d expect the music to stop if this were the Hip."
@@ -8657,18 +8659,18 @@ translate Tchinese sny1_f77d83e1:
     "我還能聽到身後男人們的叫囂。"
 
 # game/nikroute2.rpy:2571
-translate Tchinese sny1_bb8c430a:
+translate Tchinese sny1_c8b989b3:
 
-    # "{color=#B08E65}Dog" "\"I’ll fine you for this, you bag of shit!\""
-    "{color=#B08E65}Dog " "“我會向你要賠償費的，你個死鬼！”"
-
-# game/nikroute2.rpy:2572
-translate Tchinese sny1_f3d288a0:
-
-    # "{color=#DC143C}Wolverine" "\"Worth every penny, pretty boy!\""
-    "{color=#DC143C}Wolverine" "“付多少都值，小男孩！”"
+    # bendg "\"I’ll fine you for this, you bag of shit!\""
+    bendg "“我會向你要賠償費的，你個死鬼！”"
 
 # game/nikroute2.rpy:2574
+translate Tchinese sny1_c0446a2a:
+
+    # pawv "\"Worth every penny, pretty boy!\""
+    pawv "“付多少都值，小男孩！”"
+
+# game/nikroute2.rpy:3107
 translate Tchinese sny1_91856043:
 
     # "As I land and turn, I already see Chang and Yao heading for the door."
@@ -10571,12 +10573,12 @@ translate Tchinese sny1_a00af1e5:
     "他關掉機器的開關，看向我們。"
 
 # game/nikroute2.rpy:3105
-translate Tchinese sny1_2b663c30:
+translate Tchinese sny1_e0aa7067:
 
-    # "{color=#836120}???" "\"Beckett’s fine.\""
-    "{color=#836120}???" "“叫我Beckett就好。”"
+    # pounk "\"Beckett’s fine.\""
+    pounk "“叫我Beckett就好。”"
 
-# game/nikroute2.rpy:3107
+# game/nikroute2.rpy:4399
 translate Tchinese sny1_a7bb8238:
 
     # "His voice sounds surly and gruff."
@@ -13961,12 +13963,12 @@ translate Tchinese sny1_362629af:
     fe "“我去搬木頭。”"
 
 # game/nikroute2.rpy:4397
-translate Tchinese sny1_3b270652:
+translate Tchinese sny1_f65a642d:
 
-    # "{color=#DC143C}Wolverine" "\"Of course you’re fetching the wood.\""
-    "{color=#DC143C}Wolverine" "“你果然要去搬木頭。”"
+    # pawv "\"Of course you’re fetching the wood.\""
+    pawv "“你果然要去搬木頭。”"
 
-# game/nikroute2.rpy:4399
+# game/nikroute2.rpy:4409
 translate Tchinese sny1_4b2c643e:
 
     # "The stout wolverine is here too."
@@ -13985,18 +13987,18 @@ translate Tchinese sny1_6e722833:
     fe "“那還屬你最厲害了。”"
 
 # game/nikroute2.rpy:4407
-translate Tchinese sny1_e40def3d:
+translate Tchinese sny1_79ca47f5:
 
-    # "{color=#DC143C}Wolverine" "\"The best?\""
-    "{color=#DC143C}Wolverine" "“最厲害？”"
+    # pawv "\"The best?\""
+    pawv "“最厲害？”"
 
-# game/nikroute2.rpy:4411
-translate Tchinese sny1_b0db851b:
+# game/nikroute2.rpy:4413
+translate Tchinese sny1_cfd2b8de:
 
-    # "{color=#DC143C}Wolverine" "\"You always know just what to say.\""
-    "{color=#DC143C}Wolverine" "“你可真會說話。”"
+    # pawv "\"You always know just what to say.\""
+    pawv "“你可真會說話。”"
 
-# game/nikroute2.rpy:4416
+# game/nikroute2.rpy:5332
 translate Tchinese sny1_f7271435:
 
     # "The two of them went off."
@@ -16385,12 +16387,12 @@ translate Tchinese sny1_eaf8ea31:
     "然後就看到有個坐在一疊報紙旁的男人在發現我時站了起來。"
 
 # game/nikroute2.rpy:5330
-translate Tchinese sny1_a9f2542b:
+translate Tchinese sny1_1def21c4:
 
-    # "{color=#836120}???" "\"I’m loath to turn anybody away for their interest in reading but I’m afraid the library is closed.\""
-    "{color=#836120}???" "“我真的不樂意打消他人讀書的念頭，只怕圖書館已經關門啦。”"
+    # pounk "\"I’m loath to turn anybody away for their interest in reading but I’m afraid the library is closed.\""
+    pounk "“我實在不忍心拒絕任何一位讀者，但恐怕圖書館已經閉館了。”"
 
-# game/nikroute2.rpy:5332
+# game/nikroute2.rpy:5338
 translate Tchinese sny1_1c80866b:
 
     # "The man has a reedy, sing-song voice and a very expressive smile, but if he had a slightly different tone of voice, he’d sound just like..."
@@ -16403,12 +16405,12 @@ translate Tchinese sny1_94686af6:
     m "“……Beckett？”"
 
 # game/nikroute2.rpy:5336
-translate Tchinese sny1_898dba54:
+translate Tchinese sny1_1818c436:
 
-    # "{color=#836120}???" "\"Porter, actually.\""
-    "{color=#836120}???" "“是Porter，其實。”"
+    # pounk "\"Porter, actually.\""
+    pounk "“事實上，我是Porter。”"
 
-# game/nikroute2.rpy:5338
+# game/nikroute2.rpy:8834
 translate Tchinese sny1_e07a2de8:
 
     # "He said that somewhat stiffly."
@@ -19619,12 +19621,12 @@ translate Tchinese sellcomp_204b08c7:
     "Dimitri拍了拍我的肩膀。"
 
 # game/nikroute2.rpy:6549
-translate Tchinese sellcomp_02125d54:
+translate Tchinese sellcomp_7b89fabb:
 
-    # di "\"I think he’s a good boy. He’s not the brightest tool in the shed, but he’s young.\""
+    # di "\"I think he’s a good boy. He’s not the sharpest tool in the shed, but he’s young.\""
     di "“我認為他是個好孩子。他或許不太出色，但他還年輕。”"
 
-# game/nikroute2.rpy:6552
+# game/nikroute2.rpy:6554
 translate Tchinese sellcomp_67ccaa37:
 
     # di "\"You’re allowed to be a little bit stupid when you’re young.\""
@@ -23147,12 +23149,11 @@ translate Tchinese locker1bright_642eb8a4:
     ni "“是網格形狀，Sam。”"
 
 # game/nikroute2.rpy:7916
-translate Tchinese locker1bright_fda65f54:
+translate Tchinese locker1bright_3f524f8a:
 
-    # "Nick raises his arms tall and straight, and then puts them in a cross formation."
+    # "Nik raises his arms tall and straight, and then puts them in a cross formation."
     "Nik直直舉起雙臂，然後擺成交叉的姿勢。"
 
-# game/nikroute2.rpy:7918
 translate Tchinese locker1bright_2e111adf:
 
     # ni "\"Good mining tunnels do not sprawl and wander.\""
@@ -25403,239 +25404,6 @@ translate Tchinese youdidit_d2a52d3a:
     ya "“我很高興你們三個談好彼此的立場了。”"
 
 # game/nikroute2.rpy:8834
-translate Tchinese youdidit_fec97169:
-
-    # "To be continued..."
-    "未完待續……"
-
-translate Tchinese locker1bright_3f524f8a:
-
-    # "Nik raises his arms tall and straight, and then puts them in a cross formation."
-    "Nik直直舉起雙臂，然後擺成交叉的姿勢。"
-
-translate Tchinese sny1_d1fa6368:
-
-    # dibr "\"I told you, the canary was down and the sunavabitch wanted to stay.\""
-    dibr "“我說過了，金絲雀都倒下了，那狗娘養的卻還想待在那。”"
-
-# game/nikroute2.rpy:1929
-translate Tchinese sny1_01dd1405:
-
-    # fejr "\"Jesus.\""
-    fejr "“天啊。”"
-
-# game/nikroute2.rpy:1933
-translate Tchinese sny1_09bd557a:
-
-    # pawv "\"So let ‘im stay.\""
-    pawv "“那就讓他待著啊。”"
-
-# game/nikroute2.rpy:1936
-translate Tchinese sny1_0621c433:
-
-    # dibr "\"He coulda died.\""
-    dibr "“他搞不好會死欸。”"
-
-# game/nikroute2.rpy:1941
-translate Tchinese sny1_ba9ac905:
-
-    # pawv "\"A lot more men will be in danger if he ever leads a crew.\""
-    pawv "“如果他哪天當上領隊，那會有更多人有危險。”"
-
-# game/nikroute2.rpy:1944
-translate Tchinese sny1_1d1434d3:
-
-    # dibr "\"I can’t see that happening.\""
-    dibr "“我不覺得有這可能性。”"
-
-# game/nikroute2.rpy:1947
-translate Tchinese sny1_a7a158ad:
-
-    # dibr "\"He ain’t nobody important.\""
-    dibr "“他根本無足輕重。”"
-
-# game/nikroute2.rpy:1950
-translate Tchinese sny1_13f161dc:
-
-    # pawv "\"Maybe not now he ain’t.\""
-    pawv "“現在可能是這樣。”"
-
-# game/nikroute2.rpy:1953
-translate Tchinese sny1_4e55e5d5:
-
-    # pawv "\"But I tell you, these young bootlickers rise faster in ranks than weeds in pig shit.\""
-    pawv "“但我告訴你，這些年輕的馬屁精，職位比豬糞坑的雜草升得都快。”"
-
-# game/nikroute2.rpy:1956
-translate Tchinese sny1_aef07bc5:
-
-    # pawv "\"You could find yerself in a situation where the bird passes out and he says you can’t leave.\""
-    pawv "“說不定哪天就算鳥都死了他也不准你走。”"
-
-# game/nikroute2.rpy:1959
-translate Tchinese sny1_19aa7aee:
-
-    # dibr "\"Nonsense.\""
-    dibr "“胡扯。”"
-
-# game/nikroute2.rpy:1962
-translate Tchinese sny1_11bf2e92:
-
-    # pawv "\"Nonsense yerself.\""
-    pawv "“胡扯個屁。”"
-
-# game/nikroute2.rpy:1965
-translate Tchinese sny1_7724dba2:
-
-    # dibr "\"He ain’t evil.\""
-    dibr "“他又不是壞人。”"
-
-# game/nikroute2.rpy:1968
-translate Tchinese sny1_ff37aa6f:
-
-    # dibr "\"He’s just an asshole.\""
-    dibr "“只是個機掰人。”"
-
-# game/nikroute2.rpy:1971
-translate Tchinese sny1_bd629da2:
-
-    # pawv "\"Same difference.\""
-    pawv "“沒差啦。”"
-
-# game/nikroute2.rpy:1974
-translate Tchinese sny1_dd207844:
-
-    # dibr "\"So then what does that make you, then?\""
-    dibr "“那你又是什麼？”"
-
-# game/nikroute2.rpy:1977
-translate Tchinese sny1_658dadeb:
-
-    # pawv "\"A rascal.\""
-    pawv "“無賴。”"
-
-# game/nikroute2.rpy:1986
-translate Tchinese sny1_9ffa140a:
-
-    # fejr "\"Boys.\""
-    fejr "“小子們。”"
-
-# game/nikroute2.rpy:2011
-translate Tchinese sny1_23ae602b:
-
-    # dibr "\"Welcome!\""
-    dibr "“歡迎你！”"
-
-# game/nikroute2.rpy:2023
-translate Tchinese sny1_5c000126:
-
-    # dibr "\"Nope.\""
-    dibr "“不認識。”"
-
-# game/nikroute2.rpy:2031
-translate Tchinese sny1_0692f18f:
-
-    # pawv "\"Nada.\""
-    pawv "“沒。”"
-
-# game/nikroute2.rpy:2044
-translate Tchinese sny1_b36e225c:
-
-    # unkch "\"I have.\""
-    unkch "“我有。”"
-
-# game/nikroute2.rpy:2529
-translate Tchinese sny1_f4039867:
-
-    # bendg "\"What’s the matter old man? Pouring one out for your weary bones?\""
-    bendg "“怎麼了老頭？是在向你的老骨頭敬酒嗎？”"
-
-# game/nikroute2.rpy:2531
-translate Tchinese sny1_2098b0c8:
-
-    # bendg "\"Say it with me: twenty pounds of silver!\""
-    bendg "“跟我一起說：二十磅的銀子！”"
-
-# game/nikroute2.rpy:2532
-translate Tchinese sny1_7dceca4d:
-
-    # bendg "\"We got a ten percent split between the lot of us, and not a lick for you!\""
-    bendg "“我們分了一成的抽成，你一杯羹都分不到！”"
-
-# game/nikroute2.rpy:2534
-translate Tchinese sny1_280f7b7c:
-
-    # bendg "\"Why can’t you admit that I was right and you were wrong?\""
-    bendg "“你為什麼就不承認我對你錯呢？”"
-
-# game/nikroute2.rpy:2536
-translate Tchinese sny1_01954bab:
-
-    # bendg "\"But we didn’t, and we’re richer for it!\""
-    bendg "“但我們沒死，還發大財了！”"
-
-# game/nikroute2.rpy:2546
-translate Tchinese sny1_abf2d9bf:
-
-    # pawv "\"Let’s see you use some of that silver for caps.\""
-    pawv "“你就用那錢當醫藥費吧。”"
-
-# game/nikroute2.rpy:2573
-translate Tchinese sny1_c8b989b3:
-
-    # bendg "\"I’ll fine you for this, you bag of shit!\""
-    bendg "“我會向你要賠償費的，你個死鬼！”"
-
-# game/nikroute2.rpy:2574
-translate Tchinese sny1_c0446a2a:
-
-    # pawv "\"Worth every penny, pretty boy!\""
-    pawv "“付多少都值，小男孩！”"
-
-# game/nikroute2.rpy:3107
-translate Tchinese sny1_e0aa7067:
-
-    # pounk "\"Beckett’s fine.\""
-    pounk "“叫我Beckett就好。”"
-
-# game/nikroute2.rpy:4399
-translate Tchinese sny1_f65a642d:
-
-    # pawv "\"Of course you’re fetching the wood.\""
-    pawv "“你果然要去搬木頭。”"
-
-# game/nikroute2.rpy:4409
-translate Tchinese sny1_79ca47f5:
-
-    # pawv "\"The best?\""
-    pawv "“最厲害？”"
-
-# game/nikroute2.rpy:4413
-translate Tchinese sny1_cfd2b8de:
-
-    # pawv "\"You always know just what to say.\""
-    pawv "“你可真會說話。”"
-
-# game/nikroute2.rpy:5332
-translate Tchinese sny1_1def21c4:
-
-    # pounk "\"I’m loath to turn anybody away for their interest in reading but I’m afraid the library is closed.\""
-    pounk "“我實在不忍心拒絕任何一位讀者，但恐怕圖書館已經閉館了。”"
-
-# game/nikroute2.rpy:5338
-translate Tchinese sny1_1818c436:
-
-    # pounk "\"Porter, actually.\""
-    pounk "“事實上，我是Porter。”"
-
-# TODO: Translation updated at 2022-12-20 02:52
-
-# game/nikroute2.rpy:6551
-translate Tchinese sellcomp_7b89fabb:
-
-    # di "\"I think he’s a good boy. He’s not the sharpest tool in the shed, but he’s young.\""
-    di "“I think he’s a good boy. He’s not the sharpest tool in the shed， but he’s young.”"
-
 translate Tchinese strings:
 
     # game/nikroute2.rpy:1352
@@ -25650,122 +25418,115 @@ translate Tchinese strings:
     old "Maybe not. He seems helpful."
     new "算了，他好像派的上用場。"
 
-    # game/nikroute2.rpy:5497
+    # game/nikroute2.rpy:5499
     old "Who should I name?"
     new "我該說誰？"
 
-    # game/nikroute2.rpy:5497
+    # game/nikroute2.rpy:5499
     old "Nik."
     new "Nik。"
 
-    # game/nikroute2.rpy:5497
+    # game/nikroute2.rpy:5499
     old "Yao."
     new "Yao。"
 
-    # game/nikroute2.rpy:5497
+    # game/nikroute2.rpy:5499
     old "Ben."
     new "Ben。"
 
-    # game/nikroute2.rpy:5497
+    # game/nikroute2.rpy:5499
     old "Felipe."
     new "Felipe。"
 
-    # game/nikroute2.rpy:5497
+    # game/nikroute2.rpy:5499
     old "Paul."
     new "Paul。"
 
-    # game/nikroute2.rpy:5497
+    # game/nikroute2.rpy:5499
     old "Dimitri."
     new "Dimitri。"
 
-    # game/nikroute2.rpy:7425
+    # game/nikroute2.rpy:7427
     old "...what was my combination again?"
     new "……我的鎖頭組合是什麼來著？"
 
-    # game/nikroute2.rpy:7425
+    # game/nikroute2.rpy:7427
     old "8 turning right."
     new "右轉8。"
 
-    # game/nikroute2.rpy:7425
+    # game/nikroute2.rpy:7427
     old "8 turning left."
     new "左轉8。"
 
-    # game/nikroute2.rpy:7425
+    # game/nikroute2.rpy:7427
     old "9 turning left."
     new "左轉9。"
 
-    # game/nikroute2.rpy:7430
+    # game/nikroute2.rpy:7432
     old "15 Turning left."
     new "左轉15。"
 
-    # game/nikroute2.rpy:7430
+    # game/nikroute2.rpy:7432
     old "16 Turning left."
     new "左轉16。"
 
-    # game/nikroute2.rpy:7433
+    # game/nikroute2.rpy:7435
     old "3 turning left."
     new "左轉3。"
 
-    # game/nikroute2.rpy:7433
+    # game/nikroute2.rpy:7435
     old "4 Turning left."
     new "左轉4。"
 
-    # game/nikroute2.rpy:7433
+    # game/nikroute2.rpy:7435
     old "5 Turning left."
     new "左轉5。"
 
-    # game/nikroute2.rpy:7483
+    # game/nikroute2.rpy:7485
     old "15 Turning right."
     new "右轉15。"
 
-    # game/nikroute2.rpy:7483
+    # game/nikroute2.rpy:7485
     old "16 Turning right."
     new "右轉16。"
 
-    # game/nikroute2.rpy:8368
+    # game/nikroute2.rpy:8370
     old "Choose a direction."
     new "選擇方向。"
 
-    # game/nikroute2.rpy:8368
-    old "Straight"
-    new "直走"
-
-    # game/nikroute2.rpy:8402
-    old "Straight, right, left, left, right, pass one. What's the next direction?"
-    new "直走、右轉、左轉、左轉、右轉、經過一個岔路。下個方向是？"
-
-    # game/nikroute2.rpy:8436
-    old "I passed one, then went right. What's the next direction?"
-    new "我過了一個岔路，然後右轉。接下來是哪個方向？"
-
-    # game/nikroute2.rpy:8469
-    old "Was it the left tunnel or the right tunnel that leads out?"
-    new "左邊跟右邊的隧道哪個通向出口？"
-
-    # game/nikroute2.rpy:8469
-    old "The map's right, my left."
-    new "地圖的右邊，我的左邊。"
-
-    # game/nikroute2.rpy:8469
-    old "The map's left, my right,"
-    new "地圖的左邊，我的右邊。"
-
-# TODO: Translation updated at 2021-12-17 22:04
-
-# game/nikroute2.rpy:7918
-
     # game/nikroute2.rpy:8370
     old "Left."
-    new "向左"
+    new "向左。"
 
     # game/nikroute2.rpy:8370
     old "Straight."
-    new "直走"
+    new "直走。"
 
     # game/nikroute2.rpy:8370
     old "Right."
-    new "向右"
+    new "向右。"
 
-# TODO: Translation updated at 2022-04-15 22:58
+    # game/nikroute2.rpy:8404
+    old "Straight, right, left, left, right, pass one. What's the next direction?"
+    new "直走、右轉、左轉、左轉、右轉、經過一個岔路。下個方向是？"
 
-# game/nikroute2.rpy:1924
+    # game/nikroute2.rpy:8438
+    old "I passed one, then went right. What's the next direction?"
+    new "我過了一個岔路，然後右轉。接下來是哪個方向？"
+
+    # game/nikroute2.rpy:8471
+    old "Was it the left tunnel or the right tunnel that leads out?"
+    new "左邊跟右邊的隧道哪個通向出口？"
+
+    # game/nikroute2.rpy:8471
+    old "The map's right, my left."
+    new "地圖的右邊，我的左邊。"
+
+    # game/nikroute2.rpy:8471
+    old "Straight"
+    new "直走"
+
+    # game/nikroute2.rpy:8471
+    old "The map's left, my right,"
+    new "地圖的左邊，我的右邊。"
+

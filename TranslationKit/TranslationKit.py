@@ -38,7 +38,7 @@ class TransFileHandler:
                 for line in sorted(list(diffResult)):
                     r.write(line+'\n')
 
-    def initNewTransFile(self, stringsBlockOverride=False, dupHashOverride=True, editFullwidthPunctuation=True, newPrefix='@@@', useMT=False, MTLang='zh-TW') -> None:
+    def initNewTransFile(self, stringsBlockOverride=False, dupHashOverride=True, editFullwidthPunctuation=True, newContentAtBotm=False, newPrefix='@@@', useMT=False, MTLang='zh-TW') -> None:
         fnRefinedDict = self.normalizeFile(self.rawDestinationFile, dupHashOverride, editFullwidthPunctuation=False)
         foRefinedDict = self.normalizeFile(self.rawSourceFile, dupHashOverride, editFullwidthPunctuation)
 
@@ -50,6 +50,8 @@ class TransFileHandler:
         notMatcedhContentIndex = []
         notMatcedhContent = []
         for i in range(workScope):
+            if newContentAtBotm and not useMT:
+                newPrefix = ""
             try:
                 pos = foRefinedDict['orderedHash'].index(fnRefinedDict['orderedHash'][i])
                 fnRefinedDict['content'][i][fnRefinedDict['orderedHash'][i]] = foRefinedDict['content'][pos][foRefinedDict['orderedHash'][pos]]
@@ -58,8 +60,9 @@ class TransFileHandler:
                     notMatcedhContentIndex.append(i)
                     notMatcedhContent.append(self.getLineContent(fnRefinedDict['content'][i][fnRefinedDict['orderedHash'][i]][3]))
                 else:
+                    notMatcedhContentIndex.append(i)
                     tmpInfo = self.getLineContent(fnRefinedDict['content'][i][fnRefinedDict['orderedHash'][i]][3])
-                    fnRefinedDict['content'][i][fnRefinedDict['orderedHash'][i]][3] = fnRefinedDict['content'][i][fnRefinedDict['orderedHash'][i]][3][:tmpInfo['startPos']]+newPrefix+tmpInfo['line']+'"'
+                    fnRefinedDict['content'][i][fnRefinedDict['orderedHash'][i]][3] = fnRefinedDict['content'][i][fnRefinedDict['orderedHash'][i]][3][:tmpInfo['startPos']]+newPrefix+tmpInfo['line']+'"\n'
         if notMatcedhContent:
             translated = []
             batchLines = [line['line'] for line in notMatcedhContent]
@@ -72,9 +75,27 @@ class TransFileHandler:
                     translated.extend(GoogleTranslator(source='en', target=MTLang).translate_batch(batchLines[i:]))
             for i in range(len(notMatcedhContentIndex)):
                 if translated[i]:
-                    fnRefinedDict['content'][notMatcedhContentIndex[i]][fnRefinedDict['orderedHash'][notMatcedhContentIndex[i]]][3] = fnRefinedDict['content'][notMatcedhContentIndex[i]][fnRefinedDict['orderedHash'][notMatcedhContentIndex[i]]][3][:notMatcedhContent[i]['startPos']]+newPrefix+translated[i]+'"'
+                    fnRefinedDict['content'][notMatcedhContentIndex[i]][fnRefinedDict['orderedHash'][notMatcedhContentIndex[i]]][3] = fnRefinedDict['content'][notMatcedhContentIndex[i]][fnRefinedDict['orderedHash'][notMatcedhContentIndex[i]]][3][:notMatcedhContent[i]['startPos']]+newPrefix+translated[i]+'"\n'
                 else:
-                    fnRefinedDict['content'][notMatcedhContentIndex[i]][fnRefinedDict['orderedHash'][notMatcedhContentIndex[i]]][3] = fnRefinedDict['content'][notMatcedhContentIndex[i]][fnRefinedDict['orderedHash'][notMatcedhContentIndex[i]]][3][:notMatcedhContent[i]['startPos']]+newPrefix+'"'
+                    fnRefinedDict['content'][notMatcedhContentIndex[i]][fnRefinedDict['orderedHash'][notMatcedhContentIndex[i]]][3] = fnRefinedDict['content'][notMatcedhContentIndex[i]][fnRefinedDict['orderedHash'][notMatcedhContentIndex[i]]][3][:notMatcedhContent[i]['startPos']]+newPrefix+'"\n'
+        if newContentAtBotm:
+            if fnRefinedDict['cotainStringsBlock']:
+                tmpStringBlockCont = fnRefinedDict['content'].pop(-1)
+                tmpStringBlock = fnRefinedDict['orderedHash'].pop(-1)
+            notMatcedhContentIndex.reverse()
+            tmpCont = []
+            tmpHash = []
+            for nmci in notMatcedhContentIndex:
+                tmpCont.append(fnRefinedDict['content'].pop(nmci))
+                tmpHash.append(fnRefinedDict['orderedHash'].pop(nmci))
+            tmpCont.reverse()
+            tmpHash.reverse()
+            fnRefinedDict['content'].extend(tmpCont)
+            fnRefinedDict['orderedHash'].extend(tmpHash)
+
+            if fnRefinedDict['cotainStringsBlock']:
+                fnRefinedDict['content'].append(tmpStringBlockCont)
+                fnRefinedDict['orderedHash'].append(tmpStringBlock)
 
         outputContent = []
         outputContent.extend(fnRefinedDict['headerWords'])
@@ -192,6 +213,7 @@ class TransFileHandler:
 
                 for mdp in mayDupPunc:
                     contentLines[i] = self.findDupPunc(mdp, contentLines[i])
+                contentLines[i] = contentLines[i].replace('——', '──')
 
         if nearestUpSideComment and validLineCount:
             for nc in nearestUpSideComment:
