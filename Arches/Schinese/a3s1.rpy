@@ -208,7 +208,7 @@ translate Schinese a3s1_ad2b7cd3:
 translate Schinese a3s1_2a9ed6f4:
 
     # "Cameron watches the bear's mouth move in waves and ripples, yellow teeth poking out from behind his lips as saliva collects and becomes frothy at the corners."
-    "Cameron看着熊的嘴唇在波浪与涟漪中翻飞，喷吐出唾液形成的泡沫与后面黄色的牙齿。"
+    "Cameron看着熊的嘴唇在波浪与涟漪中翻飞，喷吐出的唾液形成泡沫，映衬出后面黄色的牙。"
 
 # game/a3s1.rpy:59
 translate Schinese a3s1_4e6633ab:
@@ -244,7 +244,7 @@ translate Schinese a3s1_1a063583:
 translate Schinese a3s1_d5e95f15:
 
     # "Me."
-    "是我。"
+    "就是我。"
 
 # game/a3s1.rpy:65
 translate Schinese a3s1_8859a18b:
@@ -274,13 +274,13 @@ translate Schinese a3s1_b5433a02:
 translate Schinese a3s1_bcc7dae1:
 
     # "The Xanax is certainly quashing the panic he should be feeling right now, but this time, his perspective is from a completely different angle."
-    "阿普唑仑的的确确缓解了他本应感到的恐慌，然而这一次，他站在一个完全不同的视角。"
+    "阿普唑仑的的确确缓解了他本应感到的恐慌，然而这一次，他却站在一个完全不同的视角。"
 
 # game/a3s1.rpy:70
 translate Schinese a3s1_b6bd2126:
 
     # "Cameron's amalgamation does still exist, but the borders have dissolved, and he seems to be seeping into everything."
-    "Cameron这个个体依然存在，却又似乎溶解，渗透进了万物之中。"
+    "Cameron这个个体依旧存在，却又似乎溶解，渗透进了万物之中。"
 
 # game/a3s1.rpy:71
 translate Schinese a3s1_8dd52366:
