@@ -1720,7 +1720,7 @@ translate Schinese a2s3_ba8549b7:
 translate Schinese a2s3_f7b50f3d:
 
     # b "\"Quit that cryin'.\""
-    b "\"不准哭。\""
+    b "\"不许哭了。\""
 
 # game/a2s3.rpy:372
 translate Schinese a2s3_3bda999f:
@@ -1738,7 +1738,7 @@ translate Schinese a2s3_ff180289:
 translate Schinese a2s3_02cb0ee9:
 
     # b "\"I said to quit, not be quieter.\""
-    b "\"我是让你闭嘴，不是让你小声儿。\""
+    b "\"我的意思是闭嘴，不是让你小声哭。\""
 
 # game/a2s3.rpy:376
 translate Schinese a2s3_5ec9129c:
@@ -1972,7 +1972,7 @@ translate Schinese a2s3_06e4114c:
 translate Schinese a2s3_e15f07f7:
 
     # "Maria" "\"Born and sworn and... and to mourn and forlorn?\""
-    "Maria" "\"誓而为人...哀而为人？\""
+    "Maria" "\"出生，然后宣誓...哀悼，最后凄凉？\""
 
 # game/a2s3.rpy:429
 translate Schinese a2s3_3eedd0e2:
@@ -2620,7 +2620,7 @@ translate Schinese a2s3_7da49b5d:
 translate Schinese a2s3_cea220b7:
 
     # c "\"Well, I was thinking maybe we were going to see things together, and you'd take a downer, but it looks like you're on an upper.\""
-    c "\"呃，我在想，也许我们可以一起去见那些东西。你吃了镇静药，不过现在好像还是很嗨。\""
+    c "\"呃，我在想，也许我们可以一起看见那些东西。你吃了镇静药，不过现在好像还是很嗨。\""
 
 # game/a2s3.rpy:576
 translate Schinese a2s3_865ff666:
@@ -2764,7 +2764,7 @@ translate Schinese a2s3_e1d45ad1:
 translate Schinese a2s3_6325dce2:
 
     # "{i}Please{/i}, please, {i}let your heart give out. Please just die and let this nightmare, this decades-long nightmare you've created, end.{/i}"
-    "{b}求求你{/b}，求求你，{b}请你去死吧。让这场由你创造的，持续了数十年的噩梦，结束吧。{/b}"
+    "{b}求求你{/b}，求求你，{b}请你去死吧。让这场噩梦，这场你创造的几十年的噩梦，结束吧。{/b}"
 
 # game/a2s3.rpy:612
 translate Schinese a2s3_cd74ca37:
@@ -2896,7 +2896,7 @@ translate Schinese a2s3_d418d162:
 translate Schinese a2s3_4700619b:
 
     # b "\"Naw, you were cute before I amped up. Also, I've had guys shit themselves, either because they were scared, or they thought it would stop me doin' what I did.\""
-    b "\"不不，我老早就觉得你可爱了。之前遇到的竟是些不知天高地厚的家伙，要么怕我，要么以为能违抗我。\""
+    b "\"不不，我之前就觉得你可爱了。以往遇到的竟是些不知天高地厚的蠢蛋，要么怕我，要么胆敢违抗我。\""
 
 # game/a2s3.rpy:644
 translate Schinese a2s3_341526df:
@@ -2914,7 +2914,7 @@ translate Schinese a2s3_e5f4a4e1:
 translate Schinese a2s3_870453e1:
 
     # "Cameron saw the torture Brian inflicted, and the bear had to be drugged up whenever he was doing it."
-    "Cameron看到了，每次酷刑之前，熊都会服用兴奋剂。"
+    "Cameron看到了，每次实施酷刑之前，熊都会服用兴奋剂。"
 
 # game/a2s3.rpy:647
 translate Schinese a2s3_4739c54b:
@@ -3142,13 +3142,13 @@ translate Schinese a2s3_acb479f9:
 translate Schinese a2s3_b276e77c:
 
     # "The metal enclosure makes the laugh sound loud and hollow, and that's when Devon stops as he realizes how unhinged he sounds, how he shouldn't be acting like this."
-    "笑声在金属车厢内反射，空洞而又嘹亮。听到这声音有多么不正常，Devon终于停下，他清楚自己不该崩溃。"
+    "笑声在金属车厢内反射，空洞而又嘹亮。听到这声音有多么不正常，Devon终于停下，他明白他还不能崩溃。"
 
 # game/a2s3.rpy:693
 translate Schinese a2s3_547c2750:
 
     # "He doesn't have a right to break down."
-    "他没有权利崩溃。"
+    "他没有资格崩溃。"
 
 # game/a2s3.rpy:694
 translate Schinese a2s3_92356d96:
@@ -3418,7 +3418,7 @@ translate Schinese a2s3_c4c23de0:
 translate Schinese a2s3_0b8961c8:
 
     # c "\"Well, Brian drugged me with shrooms, and I'm tripping absolute balls right now. Hallucinogens enhance my abilities, and I think I kinda created this space. I really can't make this stuff up.\""
-    c "\"我猜是我创造了这个空间。Brian给我吃了迷幻剂，这增强了我的能力。\""
+    c "\"我猜但我们是我创造了这个空间。Brian给我喂了迷幻剂，这增强了我的能力。\""
 
 # game/a2s3.rpy:764
 translate Schinese a2s3_bc24bfe1:
@@ -3430,7 +3430,7 @@ translate Schinese a2s3_bc24bfe1:
 translate Schinese a2s3_8f215085:
 
     # d "\"Maybe you're right. But he drugged me too, ya know. This could still all be me.\""
-    d "\"也许你是对的，不过我也被他下了药，没准这里是我的空间呢。\""
+    d "\"也许你是对的，不过我也被他下了药，没准这是我的独角戏呢。\""
 
 # game/a2s3.rpy:768
 translate Schinese a2s3_37d92cfd:
@@ -3856,7 +3856,7 @@ translate Schinese a2s3_c36f8fc3:
 translate Schinese a2s3_cb09fcb3:
 
     # "The trip peaks, and suddenly Cameron is everything at once."
-    "幻觉逐渐趋向顶峰，突然间，Cameron成为了世间万物。"
+    "幻觉之旅达到了顶峰，突然间，Cameron成为了世间万物。"
 
 # game/a2s3.rpy:881
 translate Schinese a2s3_1f6eaff2:
@@ -3900,275 +3900,413 @@ translate Schinese a2s3_fec97169:
     # "To be continued..."
     "未完待续..."
 
-# TODO: Translation updated at 2022-11-26 22:32
+# TODO: Translation updated at 2023-01-22 01:17
+
+# game/a2s3.rpy:45
+translate Schinese a2s3_a81ba999:
+
+    # "Cameron's mouth is as dry as the desert surrounding them, likely due to a combination of drugs and fear, and he really does want to swallow the pill to get rid of the taste."
+    "Cameron's mouth is as dry as the desert surrounding them, likely due to a combination of drugs and fear, and he really does want to swallow the pill to get rid of the taste."
 
 # game/a2s3.rpy:111
 translate Schinese a2s3_aa8f2806:
 
     # c "\"Is Devon,{w=0.3} the bear.{cps=3}..{/cps}{w=0.4} is he still alive?\""
-    c "\"那头熊，{w=0.3}Devon.{cps=3}..{/cps}{w=0.4}他还活着吗？\""
+    c "\"Is Devon,{w=0.3} the bear.{cps=3}..{/cps}{w=0.4} is he still alive?\""
 
 # game/a2s3.rpy:128
 translate Schinese a2s3_07dbf9fe:
 
     # "His tone sounds genuine, and even though Cameron will never trust him, he has to hold on to some hope."
-    "听起来他没有撒谎，尽管Cameron这辈子再也不会相信他，但他绝不能放弃任何一丝希望。"
+    "His tone sounds genuine, and even though Cameron will never trust him, he has to hold on to some hope."
 
 # game/a2s3.rpy:134
 translate Schinese a2s3_ad42d10b:
 
     # "Cameron isn't sure how best to respond to that, so he doesn't."
-    "Cameron没有回答，他不确定该如何作答。"
+    "Cameron isn't sure how best to respond to that, so he doesn't."
 
 # game/a2s3.rpy:151
 translate Schinese a2s3_6c652800:
 
     # c "\"And Arturo.{cps=3}..{/cps}{w=0.4} The cat?{w=0.3} Is he...\""
-    c "\"还有Arturo.{cps=3}..{/cps}{w=0.4}那只猫？{w=0.3}他...\""
+    c "\"And Arturo.{cps=3}..{/cps}{w=0.4} The cat?{w=0.3} Is he...\""
 
 # game/a2s3.rpy:192
 translate Schinese a2s3_8fe5accb:
 
     # "That's his name: Arturo Herrera."
-    "这是他的名字：Arturo Herrera。"
+    "That's his name: Arturo Herrera."
 
 # game/a2s3.rpy:204
 translate Schinese a2s3_e6334b6d:
 
     # "She was upset because another girl at school was being mean to her."
-    "她被学校里的另一个女生欺负了，她不高兴。"
+    "She was upset because another girl at school was being mean to her."
 
 # game/a2s3.rpy:224
 translate Schinese a2s3_150ae367:
 
     # "...Cameron, THC cartridge, visions, ghosts, panic, bear, gunshot--"
-    "...Cameron，大麻烟，幻觉，幽灵，恐慌，熊，枪击-"
+    "...Cameron, THC cartridge, visions, ghosts, panic, bear, gunshot--"
+
+# game/a2s3.rpy:239
+translate Schinese a2s3_c9051a5e:
+
+    # "It's not terrible, but the deep, cold throb at the back of his head feels remarkably... wrong."
+    "It's not terrible, but the deep, cold throb at the back of his head feels remarkably... wrong."
+
+# game/a2s3.rpy:256
+translate Schinese a2s3_41a8a15d:
+
+    # "This is bad."
+    "This is bad."
+
+# game/a2s3.rpy:263
+translate Schinese a2s3_4b6bb740:
+
+    # a "\"I n-n-n-n-need... s-summon... something.\""
+    a "\"I n-n-n-n-need... s-summon... something.\""
+
+# game/a2s3.rpy:264
+translate Schinese a2s3_9b528e1a:
+
+    # "No, wrong words."
+    "No, wrong words."
 
 # game/a2s3.rpy:270
 translate Schinese a2s3_20fdae8f:
 
     # c "\"...ruined my life...\""
-    c "\"...毁了我的人生...\""
+    c "\"...ruined my life...\""
 
 # game/a2s3.rpy:286
 translate Schinese a2s3_1c4f6bc5:
 
     # c "\"...me go!{w=0.3} I can't breathe...\""
-    c "\"...放手！{w=0.3}我不能呼吸了...\""
+    c "\"...me go!{w=0.3} I can't breathe...\""
 
 # game/a2s3.rpy:289
 translate Schinese a2s3_73d79feb:
 
     # c "\"I'm sorry!{w=0.3} I'm sorry!\""
-    c "\"对不起！{w=0.3}对不起！\""
+    c "\"I'm sorry!{w=0.3} I'm sorry!\""
 
 # game/a2s3.rpy:292
 translate Schinese a2s3_ea8eca2c:
 
     # c "\"DEVON!{w=0.3} HELP ME!{w=0.3} DEVON!{w=0.3} DEVON!\""
-    c "\"{b}DEVON！{w=0.3}救救我！{w=0.3}DEVON！{w=0.3}DEVON！{/b}\""
+    c "\"DEVON!{w=0.3} HELP ME!{w=0.3} DEVON!{w=0.3} DEVON!\""
+
+# game/a2s3.rpy:295
+translate Schinese a2s3_83f3b96a:
+
+    # "The cat looks around desperately, hoping that Devon does come to help."
+    "The cat looks around desperately, hoping that Devon does come to help."
 
 # game/a2s3.rpy:351
 translate Schinese a2s3_19427867:
 
     # d "\"Please,{w=0.3} please help me.\""
-    d "\"上天啊，{w=0.3}帮帮我吧。\""
+    d "\"Please,{w=0.3} please help me.\""
 
 # game/a2s3.rpy:365
 translate Schinese a2s3_61ce15a5:
 
     # "His teeth snap together, and the next thing the bear knows is that his head is resting against the metal cage partition that separates the back of the van from the seats." with vpunch
-    "下一个瞬间，他发现自己咬紧了牙齿，不偏不倚地飞向将驾驶室与车厢分隔开的金属栅栏。"
+    "His teeth snap together, and the next thing the bear knows is that his head is resting against the metal cage partition that separates the back of the van from the seats." with vpunch
 
-# game/a2s3.rpy:498
+# game/a2s3.rpy:371
+translate Schinese a2s3_2beda2e8:
+
+    # "Feeling completely defeated, Devon continues to plead with the man."
+    "Feeling completely defeated, Devon continues to plead with the man."
+
+# game/a2s3.rpy:372
+translate Schinese a2s3_df6394b7:
+
+    # d "\"Wait... Just wait. Please, just tell me what you want. Is he okay?\""
+    d "\"Wait... Just wait. Please, just tell me what you want. Is he okay?\""
+
+# game/a2s3.rpy:383
+translate Schinese a2s3_68a189db:
+
+    # "He can only do what the older bear tells him to do, so he opens his muzzle."
+    "He can only do what the older bear tells him to do, so he opens his muzzle."
+
+# game/a2s3.rpy:398
+translate Schinese a2s3_4463e011:
+
+    # "His sobbing has trailed off, not much emotion left in him, just feeling numb."
+    "His sobbing has trailed off, not much emotion left in him, just feeling numb."
+
+# game/a2s3.rpy:462
+translate Schinese a2s3_26e23c2f:
+
+    # "For several years, he moved from city to city, sometimes in neighboring states, before settling in Payton."
+    "For several years, he moved from city to city, sometimes in neighboring states, before settling in Payton."
+
+# game/a2s3.rpy:475
+translate Schinese a2s3_504ac1c5:
+
+    # "Timothy Esposito was a skunk born in 1985 in the Midwest."
+    "Timothy Esposito was a skunk born in 1985 in the Midwest."
+
+# game/a2s3.rpy:476
+translate Schinese a2s3_b56267a7:
+
+    # "His hometown was a large, industrial city, one that had been in decay for his entire life."
+    "His hometown was a large, industrial city, one that had been in decay for his entire life."
+
+# game/a2s3.rpy:477
+translate Schinese a2s3_519e2b02:
+
+    # "So, he transplanted to Mesa, and in May 2005, that was where he attended a BDSM-themed event in an unused warehouse."
+    "So, he transplanted to Mesa, and in May 2005, that was where he attended a BDSM-themed event in an unused warehouse."
+
+# game/a2s3.rpy:499
 translate Schinese a2s3_5180e34f:
 
     # b "\"Cameron!\"" with vpunch
-    b "\"Cameron！\"" with vpunch
+    b "\"Cameron!\"" with vpunch
 
-# game/a2s3.rpy:503
+# game/a2s3.rpy:504
 translate Schinese a2s3_69c661b0:
 
     # c "\"Wh-What?{w=0.3} What is it?\""
-    c "\"怎-{w=0.3}怎么了？\""
+    c "\"Wh-What?{w=0.3} What is it?\""
 
-# game/a2s3.rpy:518
+# game/a2s3.rpy:519
 translate Schinese a2s3_ec23adcb:
 
     # "Cameron isn't able to stand with his weak, shaking legs and sits down heavily on the ground, looking up at the looming bear." with vpunch
-    "Cameron孱弱的双腿无法支撑起他的身体，他重重地跌坐在地上，抬头仰望耸立在面前的熊。" with vpunch
+    "Cameron isn't able to stand with his weak, shaking legs and sits down heavily on the ground, looking up at the looming bear." with vpunch
 
-# game/a2s3.rpy:519
+# game/a2s3.rpy:520
 translate Schinese a2s3_6414b990:
 
     # b "\"Kept callin' your name and you wouldn't answer.{w} I told you to let me know if the visions were starting."
-    b "\"我叫你那么多遍都不吭，不是告诉你看见鬼了就吱一声吗。"
+    b "\"Kept callin' your name and you wouldn't answer.{w} I told you to let me know if the visions were starting."
 
-# game/a2s3.rpy:532
+# game/a2s3.rpy:533
 translate Schinese a2s3_594c2e3f:
 
     # "Brian, the visions, the people he'd just felt, it's not an easy thing to just shrug off."
-    "Brian、幻觉、还有刚刚感受到的那些人，怎么可能轻易就翻过去。"
+    "Brian, the visions, the people he'd just felt, it's not an easy thing to just shrug off."
 
-# game/a2s3.rpy:548
+# game/a2s3.rpy:549
 translate Schinese a2s3_5619236e:
 
     # "Cameron watches the luminous arches writhe about, convulsing, almost like they're mirroring the coyote's inner turmoil." with vpunch
-    "鲜明的拱形在Cameron眼前蠕动、抽搐，犹如他混乱心绪的写照。" with vpunch
+    "Cameron watches the luminous arches writhe about, convulsing, almost like they're mirroring the coyote's inner turmoil." with vpunch
 
-# game/a2s3.rpy:553
+# game/a2s3.rpy:554
 translate Schinese a2s3_97d0513d:
 
     # b "\"Hm?{w=0.3} What's that you're sayin'?\""
-    b "\"哈？{w=0.3}你说啥？\""
+    b "\"Hm?{w=0.3} What's that you're sayin'?\""
 
-# game/a2s3.rpy:564
+# game/a2s3.rpy:565
 translate Schinese a2s3_7edd70c4:
 
     # c "\"No-{w=0.3}Nothing!{w=0.3} Nothing!\""
-    c "\"没-{w=0.3}没什么！{w=0.3}什么也没说！\""
+    c "\"No-{w=0.3}Nothing!{w=0.3} Nothing!\""
 
-# game/a2s3.rpy:568
+# game/a2s3.rpy:569
 translate Schinese a2s3_be78a4d4:
 
     # "But to Cameron's relief, the bear pauses, then slowly drops his fist."
-    "不过令Cameron松了口气的是，熊顿了顿，又慢慢放下了拳头。"
+    "But to Cameron's relief, the bear pauses, then slowly drops his fist."
 
-# game/a2s3.rpy:598
+# game/a2s3.rpy:599
 translate Schinese a2s3_ca361ae9:
 
     # "He helps make sure she goes to bed at the right time."
-    "确保她在正确的时间上床睡觉。"
+    "He helps make sure she goes to bed at the right time."
 
-# game/a2s3.rpy:602
+# game/a2s3.rpy:603
 translate Schinese a2s3_f5b52daf:
 
     # "He told her she was definitely worth it, and that they just need to be prepared."
-    "他则反驳她绝对配得上，他们只是需要做好准备。"
+    "He told her she was definitely worth it, and that they just need to be prepared."
 
-# game/a2s3.rpy:796
+# game/a2s3.rpy:660
+translate Schinese a2s3_6e261f3e:
+
+    # "And what he saw was probably just a product of his failing brain."
+    "And what he saw was probably just a product of his failing brain."
+
+# game/a2s3.rpy:797
 translate Schinese a2s3_5756a477:
 
     # b "\"Why would I wanna see that shit when I got you? I don't like the ones out here, that's why I took it.{w} Wanna guess what I'm on?\""
-    b "\"那还要你干屁啊？老子就是不想看才吃的。{w}猜猜是什么？\""
+    b "\"Why would I wanna see that shit when I got you? I don't like the ones out here, that's why I took it.{w} Wanna guess what I'm on?\""
 
-# game/a2s3.rpy:850
+# game/a2s3.rpy:851
 translate Schinese a2s3_99f9ab58:
 
     # b "\"Fuck! Gotta relax. It's been a... It's been a while, so I'm... gettin' a huge rush.{w} Gotta... remember, phew! I ain't as young as I used to be. My heart's probably gonna give any day now.\""
-    b "\"操！我得缓...缓一缓。有...有段时间没吸了，没想到这...这么刺激。吁！身体不比当年了，什么时候挂了也不奇怪。\""
+    b "\"Fuck! Gotta relax. It's been a... It's been a while, so I'm... gettin' a huge rush.{w} Gotta... remember, phew! I ain't as young as I used to be. My heart's probably gonna give any day now.\""
 
 # game/a2s3.rpy:952
 translate Schinese a2s3_506a6d2a:
 
     # d "\"Please...{w=0.3} please.{cps=3}..{/cps}{w=0.4} please...\""
-    d "\"求你了...{w=0.3}求你了.{cps=3}..{/cps}{w=0.4}求你了...\""
+    d "\"Please...{w=0.3} please.{cps=3}..{/cps}{w=0.4} please...\""
 
 # game/a2s3.rpy:974
 translate Schinese a2s3_0c17fee9:
 
     # "Either way, it's powerful, and Devon knows he probably won't be able to do much for another hour or two, so he lays down, trying to keep his ears open so he can be ready for the old bear if he comes back."
-    "先不管是哪种药，它的药效很强，Devon知道自己可能会丧失一两个小时的行动能力。于是他躺下，努力保持听力顺畅，以便在老熊回来时做好准备。"
+    "Either way, it's powerful, and Devon knows he probably won't be able to do much for another hour or two, so he lays down, trying to keep his ears open so he can be ready for the old bear if he comes back."
 
 # game/a2s3.rpy:981
 translate Schinese a2s3_02b1b9f3:
 
     # unk "\"Matty!{w=0.3} MATEO!\""
-    unk "\"Matty！{w=0.3}{b}MATEO！{/b}\""
+    unk "\"Matty!{w=0.3} MATEO!\""
 
 # game/a2s3.rpy:988
 translate Schinese a2s3_91da41ca:
 
     # centerdia "\"Why couldn't you just watch her!?\""
-    centerdia "\"你为什么不看好她！？\""
+    centerdia "\"Why couldn't you just watch her!?\""
 
 # game/a2s3.rpy:1004
 translate Schinese a2s3_a31febc2:
 
     # c "\"Devon!{w=0.3} It's me!{w=0.3} I'm here!\""
-    c "\"Devon！{w=0.3}是我啊！{w=0.3}我来了！\""
+    c "\"Devon!{w=0.3} It's me!{w=0.3} I'm here!\""
 
 # game/a2s3.rpy:1017
 translate Schinese a2s3_fdb4bd78:
 
     # d "\"N-No, no, none of us are okay, you're not okay.{w} I don't even know if you're alive.\""
-    d "\"不-不，我不好，你也不好，{w}我连你是死是活都不知道。\""
+    d "\"N-No, no, none of us are okay, you're not okay.{w} I don't even know if you're alive.\""
 
 # game/a2s3.rpy:1022
 translate Schinese a2s3_6f903a70:
 
     # c "\"I'm doing this through like.{cps=3}..{/cps}{w=0.4} my mind,{w=0.3} I think?\""
-    c "\"我们也许是在.{cps=3}..{/cps}{w=0.4}我的精神中交谈，{w=0.3}也许？\""
+    c "\"I'm doing this through like.{cps=3}..{/cps}{w=0.4} my mind,{w=0.3} I think?\""
 
 # game/a2s3.rpy:1039
 translate Schinese a2s3_2286e5aa:
 
     # d "\"Yeah, you know what? Fuck you. FUCK. YOU. You are exactly what I was hoping you'd be. You don't exist.{w} My sick, fucked up mind is making up this version of you that I have no right to create, and, and--\""
-    d "\"你懂什么？傻逼，{b}傻，逼{/b}。你不过是我希望中的样子，被我病态的大脑制造出来的幻象。可是，可是-\""
+    d "\"Yeah, you know what? Fuck you. FUCK. YOU. You are exactly what I was hoping you'd be. You don't exist.{w} My sick, fucked up mind is making up this version of you that I have no right to create, and, and--\""
+
+# game/a2s3.rpy:1045
+translate Schinese a2s3_f2ae4d2a:
+
+    # "He's never had a dream where he's felt this real before, this alive, and of course it's happening when he's feeling at his absolute worst."
+    "He's never had a dream where he's felt this real before, this alive, and of course it's happening when he's feeling at his absolute worst."
 
 # game/a2s3.rpy:1088
 translate Schinese a2s3_1c46c3fc:
 
     # c "\"Well, Brian drugged me with shrooms, and I'm tripping absolute balls right now.{w} Hallucinogens enhance my abilities, and I think I kinda created this space. I really can't make this stuff up.\""
-    c "\"Brian给我喂了致幻菇，我一定是受到它的影响，{w}能力增强，才创造了这个空间。不然光凭我一个人是绝对无法做到的。\""
+    c "\"Well, Brian drugged me with shrooms, and I'm tripping absolute balls right now.{w} Hallucinogens enhance my abilities, and I think I kinda created this space. I really can't make this stuff up.\""
 
 # game/a2s3.rpy:1099
 translate Schinese a2s3_a7dc534f:
 
     # c "\"You don't give psychedelics to someone you're trying to sedate.\""
-    c "\"哪有人会用迷幻剂让人镇定的啊。\""
+    c "\"You don't give psychedelics to someone you're trying to sedate.\""
 
 # game/a2s3.rpy:1100
 translate Schinese a2s3_26bfca95:
 
     # c "\"Anyway, it turns out I'm not that different from my mom. It's all arches. I see them when I take certain drugs.\""
-    c "\"话说回来，我发现我和我妈一样，当服用某些药物时，我就会看到拱形。\""
+    c "\"Anyway, it turns out I'm not that different from my mom. It's all arches. I see them when I take certain drugs.\""
+
+# game/a2s3.rpy:1105
+translate Schinese a2s3_9e2ee6f2:
+
+    # "Devon looks up at the patterns, and for the first time, he feels like this might actually be Cameron."
+    "Devon looks up at the patterns, and for the first time, he feels like this might actually be Cameron."
 
 # game/a2s3.rpy:1154
 translate Schinese a2s3_1c857faf:
 
     # d "\"Brian?{w=0.3} Is he there with you?\""
-    d "\"Brian？{w=0.3}他也在吗？\""
+    d "\"Brian?{w=0.3} Is he there with you?\""
+
+# game/a2s3.rpy:1170
+translate Schinese a2s3_9df931bf:
+
+    # "But doubt that it'd been real at all starts to creep in again, even though Cameron had convinced him at the time."
+    "But doubt that it'd been real at all starts to creep in again, even though Cameron had convinced him at the time."
 
 # game/a2s3.rpy:1201
 translate Schinese a2s3_74878f7e:
 
     # "Cameron screams, clawing and clutching at the huge fist on his ear, Brian twisting it viciously before lifting up so that Cameron's feet actually lift off the ground." with vpunch
-    "Brian攥住Cameron的耳朵，不顾他的尖叫与抓挠，恶狠狠地扭动拳头，把他拎到了空中。"
+    "Cameron screams, clawing and clutching at the huge fist on his ear, Brian twisting it viciously before lifting up so that Cameron's feet actually lift off the ground." with vpunch
+
+# game/a2s3.rpy:1216
+translate Schinese a2s3_d3b5e8d4:
+
+    # "He violently shakes Cameron, and the coyote twists his body, grabbing the bear's forearm and trying to get his legs lifted up and wrapped around the bear's bicep to lessen the pressure, but Brian won't allow it."
+    "He violently shakes Cameron, and the coyote twists his body, grabbing the bear's forearm and trying to get his legs lifted up and wrapped around the bear's bicep to lessen the pressure, but Brian won't allow it."
+
+# game/a2s3.rpy:1232
+translate Schinese a2s3_e8b5479e:
+
+    # "Instantly, Brian's huge, rugged muzzle is right next to his own much smaller, narrow snout, the bear snorting heavily."
+    "Instantly, Brian's huge, rugged muzzle is right next to his own much smaller, narrow snout, the bear snorting heavily."
 
 # game/a2s3.rpy:1239
 translate Schinese a2s3_f8104611:
 
     # "He doesn't seem enraged that the coyote had been contacting Devon."
-    "他没有因为郊狼偷偷联系了Devon而生气。"
+    "He doesn't seem enraged that the coyote had been contacting Devon."
 
-# game/a2s3.rpy:1283
-translate Schinese a2s3_1925d50f:
+# game/a2s3.rpy:1273
+translate Schinese a2s3_4df77dbc:
 
-    # centered "{cps=45}He's been shot in the head,{w=0.3} he's been hung from a tree,{p=0.3} he's been beaten to death,{w=0.3} he's swimming under an arch,{p=0.3} he's in a space shuttle smashing into the ocean,{w=0.3} he's a dead town."
-    centered "{cps=45}他头部中弹，{w=0.3}吊在枝杈上，{w=0.3}被殴打致死，{w=0.3}在拱桥下游泳，{p=0.3}同航天飞机一起坠向海洋，{w=0.3}他是一座死镇。"
+    # "Brian already heard his plan."
+    "Brian already heard his plan."
 
-# game/a2s3.rpy:1285
-translate Schinese a2s3_b465af3a:
+# game/a2s3.rpy:1274
+translate Schinese a2s3_13eec6e2:
 
-    # centered "{cps=45}Dead,{w=0.3} but with working reflexes,{w=0.3} using{p=0.01} tools still clutched in its grasp."
-    centered "{cps=45}已经死亡，{w=0.3}却仍在本能的驱动下，{w=0.3}牢牢{p=0.01}攥着昔日的工具。"
+    # "More importantly though, is that Brian isn't letting up."
+    "More importantly though, is that Brian isn't letting up."
+
+# game/a2s3.rpy:1280
+translate Schinese a2s3_4cebbdda:
+
+    # "He's a trailer home in the Northwest. He's a desert lake. He's a broken road. He's a trailer home in the Southwest. He's a train cutting through the wilderness."
+    "He's a trailer home in the Northwest. He's a desert lake. He's a broken road. He's a trailer home in the Southwest. He's a train cutting through the wilderness."
+
+# game/a2s3.rpy:1284
+translate Schinese a2s3_c95f369c:
+
+    # centered "{cps=45}He's being shot in the head.{w=0.3} He's being hung from a tree.{p=0.3} He's being beaten to death.{w=0.3} He's swimming under an arch.{p=0.3} He's stumbling into a pond.{p=0.3} He's in a space shuttle smashing into the ocean.{w=0.3} He's a dead town."
+    centered "{cps=45}He's being shot in the head.{w=0.3} He's being hung from a tree.{p=0.3} He's being beaten to death.{w=0.3} He's swimming under an arch.{p=0.3} He's stumbling into a pond.{p=0.3} He's in a space shuttle smashing into the ocean.{w=0.3} He's a dead town."
 
 # game/a2s3.rpy:1286
+translate Schinese a2s3_d93954c2:
+
+    # centered "{cps=45}Dead,{w=0.3} but with working reflexes,{w=0.3} using{p=0.01} the tools that it still holds tightly in its grasp."
+    centered "{cps=45}Dead,{w=0.3} but with working reflexes,{w=0.3} using{p=0.01} the tools that it still holds tightly in its grasp."
+
+# game/a2s3.rpy:1287
 translate Schinese a2s3_a60278ec:
 
     # centered "{cps=45}Cameron disappears,{w=0.3} and these thoughts{p=0.01} and feelings are no longer his,{w=0.3} because he isn't who he is."
-    centered "{cps=45}Cameron消失了，{w=0.3}这些感知{p=0.01}与想法不再属于他，{w=0.3}因为他不再是原来的自己。"
+    centered "{cps=45}Cameron disappears,{w=0.3} and these thoughts{p=0.01} and feelings are no longer his,{w=0.3} because he isn't who he is."
 
-# game/a2s3.rpy:1287
+# game/a2s3.rpy:1288
 translate Schinese a2s3_49969722:
 
     # centered "{cps=45}He is everything."
     centered "{cps=45}他是一切。"
 
-# game/a2s3.rpy:1288
+# game/a2s3.rpy:1289
 translate Schinese a2s3_2795cc1a:
 
     # centered "{cps=45}And because of that,{w=0.3} he can see everything."
-    centered "{cps=45}正因如此，{w=0.3}他得以看到一切。"
+    centered "{cps=45}正因为如此，{w=0.3}她得以看到一切。"
 
