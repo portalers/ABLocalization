@@ -5880,7 +5880,7 @@ translate Schinese a3s1_f8b31569:
 translate Schinese a3s1_defc07a8:
 
     # "Devon watches as Cameron's face becomes a bouquet of red ribbons, and the bear stumbles as the shot hits his arm as well."
-    "Devon看见Cameron的脸绽放出一束红色的丝带，而熊也因为这一枪击中了他的手臂而踉跄了下。"
+    "Devon看见Cameron的脸绽放出一束红色的丝带，熊也因为这一击伤到了他的手臂而踉跄了下。"
 
 # game/a3s1.rpy:1382
 translate Schinese a3s1_5cdf6504:
@@ -5892,7 +5892,7 @@ translate Schinese a3s1_5cdf6504:
 translate Schinese a3s1_59a0b254:
 
     # "In shock, Devon looks at his arm and sees the white of bone shards, at first thinking it's his own, but then he sees a few of Cameron's sharp teeth also embedded into his arm."
-    "震惊之余，Devon看向自己的手臂，他看到了白花花的骨头碎片。起初他以为是自己的，但随后，他观察到Cameron的几颗牙齿也深嵌在那里。"
+    "震惊之余，Devon看向自己的胳膊，他看到了白花花的骨头碎片。起初他以为是自己的，但随后，他观察到Cameron的几颗牙齿也深嵌在那里。"
 
 # game/a3s1.rpy:1391
 translate Schinese a3s1_1fe1a662:
