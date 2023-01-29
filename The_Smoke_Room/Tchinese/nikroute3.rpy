@@ -4438,7 +4438,7 @@ translate Tchinese sny2_10db7063:
 translate Tchinese sny2_f69c55ed:
 
     # m "\"It just shouldn’t keep hurting, if you’re curious.\""
-    m "“你在意的話，疼痛只要不一直持續就好。”"
+    m "“你在意的話，只要不一直持續讓我痛就好。”"
 
 # game/nikroute3.rpy:1392
 translate Tchinese sny2_d685c2c8:
@@ -5608,7 +5608,7 @@ translate Tchinese sny2_20e4624a:
 translate Tchinese sny2_9bffa991:
 
     # co "\"And I would find it ever so lovely to hear your thoughts on the metaphysical Mr. Ayers.\""
-    co "“也請你務必分享對形上學的看法，先生Ayers。”"
+    co "“也請你務必分享對形上學的看法，Ayers先生。”"
 
 # game/nikroute3.rpy:1548
 translate Tchinese sny2_c8fa6674:
@@ -8313,7 +8313,7 @@ translate Tchinese sny3_027bcfd3:
 translate Tchinese sny3_d788bd12:
 
     # hat "\"The master of the house is very insistent on potato bisque tonight.\""
-    hat "“老爺要求今晚吃法式土豆濃湯。”"
+    hat "“老爺要求今晚吃法式馬鈴薯濃湯。”"
 
 # game/nikroute3.rpy:2589
 translate Tchinese sny3_cdd1faac:
@@ -8493,7 +8493,7 @@ translate Tchinese sny3_bb670ef5:
 translate Tchinese sny3_48acdde1:
 
     # "She takes us through a counterclockwise path past a bench with weights, a subdivision with a pool table, and another section that looks like it has enough shelved goods to get the entirety of echo through the winter."
-    "她領著我們走過順時針方向的通道，經過有健身器材的長椅、有撞球桌的分區，以及另一個儲藏物資好像足夠讓整個Echo度過冬天的區域。"
+    "她領著我們走過順時針方向的通道，經過有健身器材的長椅、有撞球桌的分區，以及另一個儲藏物資好像足夠讓整個回音鎮度過冬天的區域。"
 
 # game/nikroute3.rpy:2383
 translate Tchinese sny3_fe085e5e:
@@ -8925,7 +8925,7 @@ translate Tchinese sny3_7bbc129a:
 translate Tchinese sny3_df5c91e4:
 
     # co "\"Somebody's been careless with the packaging!\""
-    co "“這些包裝被人亂動了！”"
+    co "“有人亂動過這些包裝！”"
 
 # game/nikroute3.rpy:2520
 translate Tchinese sny3_fec97169:

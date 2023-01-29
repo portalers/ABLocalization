@@ -2522,7 +2522,7 @@ translate Tchinese cliffroute_37bf216e:
 translate Tchinese cliffroute_6c5d960a:
 
     # cl "\"My thesis is going to be about what makes them {i}them{i}.\""
-    cl "“我的論文就是關於是什麼讓他們成為了{i}他們{i}。”"
+    cl "“我的論文就是關於是什麼讓他們成為了 {i}他們{i} 。”"
 
 # game/cliffroute.rpy:534
 translate Tchinese cliffroute_407e9c4a:
@@ -2684,7 +2684,7 @@ translate Tchinese cliffroute_1a54c63e:
 translate Tchinese cliffroute_e3101c49:
 
     # cy "\"As did I! As did {i}the madame{i}! What did you do to him?\""
-    cy "“我也是啊！還有{i}夫人{i}也是！你對他做了什麼？”"
+    cy "“我也是啊！還有 {i}夫人{i} 也是！你對他做了什麼？”"
 
 # game/cliffroute.rpy:574
 translate Tchinese cliffroute_f29328a1:

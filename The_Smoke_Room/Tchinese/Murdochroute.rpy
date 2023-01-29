@@ -1768,7 +1768,7 @@ translate Tchinese Murdochroute_200edd59:
 translate Tchinese Murdochroute_cac2f88c:
 
     # "Smart whores live longer."
-    "聰明的妓女活得更久。"
+    "聰明的娼妓活得更久。"
 
 # game/Murdochroute.rpy:409
 translate Tchinese Murdochroute_ece47130:
@@ -4048,13 +4048,13 @@ translate Tchinese Murdochroute_b6a7dfa4:
 translate Tchinese Murdochroute_0608ae76:
 
     # ra "\"Murdoch, why is there a harlot in this establishment?\""
-    ra "“Murdoch，為什麼店裡有一個妓女？”"
+    ra "“Murdoch，為什麼店裡有一個娼妓？”"
 
 # game/Murdochroute.rpy:1004
 translate Tchinese Murdochroute_187ceafc:
 
     # ra "\"Not that I have anything against harlots, but goodness, we just aren’t open yet.\""
-    ra "“我不是對妓女有什麼偏見，但是，天吶，我們還沒開門呢。”"
+    ra "“我不是對娼妓有什麼偏見，但是，天吶，我們還沒開門呢。”"
 
 # game/Murdochroute.rpy:1005
 translate Tchinese Murdochroute_8867799e:
@@ -4090,7 +4090,7 @@ translate Tchinese Murdochroute_28656fda:
 translate Tchinese Murdochroute_ff65b7db:
 
     # mu "\"{i}He is{/i} going to work here.\""
-    mu "“{i}他要{/i}在這裡工作。”"
+    mu "“ {i}他要{/i} 在這裡工作。”"
 
 # game/Murdochroute.rpy:1014
 translate Tchinese Murdochroute_4b6b24fc:
@@ -4216,13 +4216,13 @@ translate Tchinese Murdochroute_8b82eb7b:
 translate Tchinese Murdochroute_1a80c807:
 
     # ra "\"If it’s that you’re not the only whore in this room, that’s hardly a breakthrough.\""
-    ra "“如果是說你並非這房間裡唯一的妓女的話，那算不上什麼突破。”"
+    ra "“如果是說你並非這房間裡唯一的娼妓的話，那算不上什麼突破。”"
 
 # game/Murdochroute.rpy:1062
 translate Tchinese Murdochroute_77863eee:
 
     # m "\"Was more that Echo ain’t {i}that{/i} small.\""
-    m "“不只，回音鎮可沒{i}那麼{/i}小。”"
+    m "“不只，回音鎮可沒 {i}那麼{/i} 小。”"
 
 # game/Murdochroute.rpy:1064
 translate Tchinese Murdochroute_e828f6ca:
@@ -4492,7 +4492,7 @@ translate Tchinese Murdochroute_44b83604:
 translate Tchinese Murdochroute_b18f1909:
 
     # m "\"Whoring ain't the only thing I want to be good at, and a whore’s gotta eat.\""
-    m "“我不想只擅長做娼，況且妓女也是要吃飯的。”"
+    m "“我不想只擅長做娼，況且娼妓也是要吃飯的。”"
 
 # game/Murdochroute.rpy:1152
 translate Tchinese Murdochroute_d4521b62:
@@ -6166,7 +6166,7 @@ translate Tchinese Murdochroute_ca415719:
 translate Tchinese Murdochroute_e2ced939:
 
     # gr "\"But what {i}should{/i} change is what you consider most important.\""
-    gr "“不過{i}應該{/i}改變的，是什麼東西才是你認為最重要的。”"
+    gr "“不過 {i}應該{/i} 改變的，是什麼東西才是你認為最重要的。”"
 
 # game/Murdochroute.rpy:1645
 translate Tchinese Murdochroute_fab3b628:

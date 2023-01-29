@@ -226,7 +226,7 @@ translate Tchinese williamroute2_58ca62fc:
 translate Tchinese williamroute2_3d1d145a:
 
     # md "\"Stories about the sheriff’s {i}other deputy{/i} have flown the coop.\""
-    md "“關於警長的{i}另一個副手{/i}的故事已經悄然傳開了。”"
+    md "“關於警長的 {i}另一個副手{/i} 的故事已經悄然傳開了。”"
 
 # game/williamroute2.rpy:74
 translate Tchinese williamroute2_094bca5b:
@@ -9183,7 +9183,7 @@ translate Tchinese dd2b_cf521296:
 translate Tchinese dd2b_d07b0121:
 
     # no "\"You know it isn’t.\""
-    no "“你知道並非如此。”"
+    no "“你知道并非如此。”"
 
 # game/williamroute2.rpy:2754
 translate Tchinese dd2b_3e71407e:

@@ -184,7 +184,7 @@ translate Tchinese williamroute3_dd3c2352:
 translate Tchinese williamroute3_f66c725a:
 
     # "Because he really {i}should{/i} say no."
-    "因為他的確{b}應該{/b}回絕。"
+    "因為他的確 {i}應該{/i} 回絕。"
 
 # game/williamroute3.rpy:83
 translate Tchinese williamroute3_c0210ada:
@@ -5158,7 +5158,7 @@ translate Tchinese cityhallnight_9074298e:
 translate Tchinese cityhallnight_be4d0438:
 
     # m "“{i}...These things hast thou done, and I kept silence; thou thoughtest that I was altogether such an one as thyself: but I will reprove thee, and set them in order before thine eyes.{/i}”"
-    m "“{b}……你行了這些事，我還閉口不言。你想我恰和你一樣。其實我要責備你，將這些事擺在你眼前。{/b}”"
+    m "“{i}……你行了這些事，我還閉口不言。你想我恰和你一樣。其實我要責備你，將這些事擺在你眼前。{/i}”"
 
 # game/williamroute3.rpy:1423
 translate Tchinese cityhallnight_144050d8:
@@ -5176,7 +5176,7 @@ translate Tchinese cityhallnight_6b95949a:
 translate Tchinese cityhallnight_76cc25ea:
 
     # m "“{i}Now consider this, ye that forget God, lest I tear you in pieces, and there be none to deliver.{/i}”"
-    m "“{b}你們忘記神的，要思想這事，免得我把你們撕碎，無人搭救。{/b}”"
+    m "“{i}你們忘記神的，要思想這事，免得我把你們撕碎，無人搭救。{/i}”"
 
 # game/williamroute3.rpy:1432
 translate Tchinese cityhallnight_72641baa:
@@ -5470,7 +5470,7 @@ translate Tchinese cityhallnight_b6c25ab1:
 translate Tchinese cityhallnight_c0555e79:
 
     # wi "“Some kid tried to shoot up my office two nights ago using {i}Huxley’s{/i} pistol.”"
-    wi "“兩天前，有個孩子用{b}Huxley的{/b}槍射擊了我的辦公室。”"
+    wi "“兩天前，有個孩子用 {i}Huxley的{/i} 槍射擊了我的辦公室。”"
 
 # game/williamroute3.rpy:1549
 translate Tchinese cityhallnight_3d9c5a98:
@@ -5614,7 +5614,7 @@ translate Tchinese cityhallnight_27dfebf3:
 translate Tchinese cityhallnight_19c05960:
 
     # wi "“Yeah, I know. I saw what his {i}problems{/i} did to Marcy.”"
-    wi "“我知道。我看見他是怎麼{b}麻煩{/b}Marcy的了。”"
+    wi "“我知道。我看見他是怎麼 {i}麻煩{/i} Marcy的了。”"
 
 # game/williamroute3.rpy:1601
 translate Tchinese cityhallnight_197d1c3c:
@@ -6298,7 +6298,7 @@ translate Tchinese williamchallmenu_c6906d63:
 translate Tchinese williamchallmenu_5ad8f948:
 
     # fr "“That {i}company{/i} is our town’s life-blood, Adler!”"
-    fr "“那家{b}公司{/b}是我們鎮的命脈，Addler！”"
+    fr "“那家 {i}公司{/i} 是我們鎮的命脈，Addler！”"
 
 # game/williamroute3.rpy:1841
 translate Tchinese williamchallmenu_0097c4d4:
@@ -6376,7 +6376,7 @@ translate Tchinese williamchallmenu_481ca9df:
 translate Tchinese williamchallmenu_b5e24938:
 
     # fr "“And I’ll tell {i}you{/i} something, Mr. Adler!”"
-    fr "“我也告訴{b}你{/b}一件事，Adler先生！”"
+    fr "“我也告訴 {i}你{/i} 一件事，Adler先生！”"
 
 # game/williamroute3.rpy:1863
 translate Tchinese williamchallmenu_60c57586:
@@ -6592,7 +6592,7 @@ translate Tchinese williamchallmenu_f9727778:
 translate Tchinese williamchallmenu_9ec1d61d:
 
     # "{i}Dubliners{/i}, by James Joyce."
-    "{b}都柏林人{/b}，詹姆斯·喬伊斯著。"
+    "{i}都柏林人{/i}，詹姆斯·喬伊斯著。"
 
 # game/williamroute3.rpy:1936
 translate Tchinese williamchallmenu_0dd030e2:
@@ -6664,7 +6664,7 @@ translate Tchinese williamchallmenu_669f8599:
 translate Tchinese williamchallmenu_ec05e713:
 
     # "{i}Araby{/i}."
-    "{b}阿拉比{/b}。"
+    "{i}阿拉比{/i}。"
 
 # game/williamroute3.rpy:1956
 translate Tchinese williamchallmenu_86a5163b:
@@ -6748,7 +6748,7 @@ translate Tchinese williamchallmenu_b0038270:
 translate Tchinese williamchallmenu_b1c73d19:
 
     # jam "“But how about granting me some of {i}your{/i} generosity now?”"
-    jam "“回到正題，{b}你{/b}也對我慷慨一些如何？”"
+    jam "“回到正題， {i}你{/i} 也對我慷慨一些如何？”"
 
 # game/williamroute3.rpy:1982
 translate Tchinese williamchallmenu_8736b14b:
@@ -8722,7 +8722,7 @@ translate Tchinese endofwillchallinterviews2_893908b2:
 translate Tchinese endofwillchallinterviews2_b5573f03:
 
     # ni "\"He told {i}you{/i}.\""
-    ni "“他告訴了{b}你{/b}。”"
+    ni "“他告訴了 {i}你{/i} 。”"
 
 # game/williamroute3.rpy:3433
 translate Tchinese endofwillchallinterviews2_73da6b98:
@@ -8869,7 +8869,7 @@ translate Tchinese samstation_0c160453:
 translate Tchinese samstation_7099e7f8:
 
     # "Paul says, {i}For the mind that is set on the flesh is hostile to God, for it does not submit to God's law; indeed, it cannot.{/i}"
-    "聖保羅言：{b}原來體貼肉體的，就是與神為仇。因為不服神的律法，也是不能服。{/b}"
+    "聖保羅言：{i}原來體貼肉體的，就是與神為仇。因為不服神的律法，也是不能服。{/i}"
 
 # game/williamroute3.rpy:2807
 translate Tchinese samstation_5616e9be:
@@ -8893,7 +8893,7 @@ translate Tchinese samstation_ed814f27:
 translate Tchinese samstation_60718bd0:
 
     # "His advice is, more or less, {i}just don’t have it.{/i}"
-    "他的理念，或多或少，就是{b}捨棄肉體。{/b}"
+    "他的理念，或多或少，就是 {i}捨棄肉體。{/i}"
 
 # game/williamroute3.rpy:2811
 translate Tchinese samstation_321cc678:
@@ -8935,13 +8935,13 @@ translate Tchinese samstation_fe63a091:
 translate Tchinese samstation_1a092418:
 
     # "{i}If he sins against you seven times in one day, and each time he comes to you saying, 'I repent,' you must forgive him.{/i}"
-    "{b}倘若他一天七次得罪你，又七次迴轉，說：‘我懊悔了’，你總要饒恕他。{/b}"
+    "{i}倘若他一天七次得罪你，又七次迴轉，說：‘我懊悔了’，你總要饒恕他。{/i}"
 
 # game/williamroute3.rpy:2818
 translate Tchinese samstation_919ea684:
 
     # "{i}Not seven times. But seventy-seven times.{/i}"
-    "{b}不是到七次，乃是到七十個七次。{/b}"
+    "{i}不是到七次，乃是到七十個七次。{/i}"
 
 # game/williamroute3.rpy:2819
 translate Tchinese samstation_0c99983c:
@@ -9769,7 +9769,7 @@ translate Tchinese hipinvestigation_63176e12:
 translate Tchinese hipinvestigation_dbb51c0c:
 
     # "He did {i}what{/i}!?"
-    "他{b}什麼{/b}！？"
+    "他 {i}什麼{/i} ！？"
 
 # game/williamroute3.rpy:3117
 translate Tchinese hipinvestigation_db1d64e1:
@@ -12813,31 +12813,31 @@ translate Tchinese hattie_919a7594:
 translate Tchinese hattie_e959cc0b:
 
     # m "\"{i}I do so love a desk with a shine,{/i}\""
-    m "“{b}我尤其喜愛貴處明亮的書桌，{/b}”"
+    m "“{i}我尤其喜愛貴處明亮的書桌，{/i}”"
 
 # game/williamroute3.rpy:4885
 translate Tchinese hattie_a2f1ea6e:
 
     # m "\"{i}And I do so love the scent of pine,{/i}\""
-    m "“{b}松樹的清香也深得我心，{/b}”"
+    m "“{i}松樹的清香也深得我心，{/i}”"
 
 # game/williamroute3.rpy:4886
 translate Tchinese hattie_1f1c8ecc:
 
     # m "\"{i}For a sheriff of reputable achievance,{/i}\""
-    m "“{b}但作為一介功績顯赫的警長，{/b}”"
+    m "“{i}但作為一介功績顯赫的警長，{/i}”"
 
 # game/williamroute3.rpy:4887
 translate Tchinese hattie_5f51acfa:
 
     # m "\"{i}To address every public grievance,{/i}\""
-    m "“{b}請致力於解決百姓們的不滿，{/b}”"
+    m "“{i}請致力於解決百姓們的不滿，{/i}”"
 
 # game/williamroute3.rpy:4888
 translate Tchinese hattie_04773d8c:
 
     # m "\"{i}Whilst not buried ‘neath papers, supine!{/i}\""
-    m "“{b}而不是被埋在紙下喔！{/b}”"
+    m "“{i}而不是被埋在紙下喔！{/i}”"
 
 # game/williamroute3.rpy:4889
 translate Tchinese hattie_5b9e4ec7:

@@ -2920,7 +2920,7 @@ translate Tchinese cliffroute2_a5fbd220:
 translate Tchinese cliffroute2_f993132e:
 
     # mu "\"The weather's perfect for some {i}natuurfotografie{/i}.\""
-    mu "“這天氣對{i}natuurfotografie (自然攝影){/i}來說簡直完美。”"
+    mu "“這天氣對 {i}natuurfotografie (自然攝影){/i} 來說簡直完美。”"
 
 # game/cliffroute2.rpy:800
 translate Tchinese cliffroute2_d51e005d:
@@ -3784,7 +3784,7 @@ translate Tchinese shove_menu_7e13bb3f:
 translate Tchinese shove_menu_a2ae7974:
 
     # mu "\"I want to {i}help you{/i}.\""
-    mu "“我想{i}幫你{/i}。”"
+    mu "“我想 {i}幫你{/i} 。”"
 
 # game/cliffroute2.rpy:1031
 translate Tchinese shove_menu_47f79a52:
@@ -6730,7 +6730,7 @@ translate Tchinese aftercanyon_372eaef9:
 translate Tchinese aftercanyon_d9810ee8:
 
     # cl "\"I couldn't -- {i}we{/i} couldn't risk losing you.\""
-    cl "“我不能──{i}我們{/i}不能冒著失去你的風險。”"
+    cl "“我不能── {i}我們{/i} 不能冒著失去你的風險。”"
 
 # game/cliffroute2.rpy:1685
 translate Tchinese aftercanyon_b457b371:
@@ -7216,7 +7216,7 @@ translate Tchinese aftercanyon_064c3232:
 translate Tchinese aftercanyon_13d92ac0:
 
     # m "\"Did you {i}want{/i} to die?\""
-    m "“難道你{i}想{/i}找死嗎？”"
+    m "“難道你 {i}想{/i} 找死嗎？”"
 
 # game/cliffroute2.rpy:1817
 translate Tchinese aftercanyon_bd7a5275:
@@ -7762,7 +7762,7 @@ translate Tchinese aftercanyon_f5475483:
 translate Tchinese aftercanyon_c79a249d:
 
     # jeb "\"I {i}know{/i} this forest--\""
-    jeb "“我{i}了解{/i}這片森林──”"
+    jeb "“我 {i}了解{/i} 這片森林──”"
 
 # game/cliffroute2.rpy:1964
 translate Tchinese aftercanyon_d03328da:
@@ -9460,7 +9460,7 @@ translate Tchinese aftercanyon_822ac173:
 translate Tchinese aftercanyon_2641ca01:
 
     # m "\"I'm a whore, doctor. It's more like trouble has a knack for getting into me.\""
-    m "“我是個妓女，醫生，倒不如說麻煩總能不請自來。”"
+    m "“我是個娼妓，醫生，倒不如說麻煩總能不請自來。”"
 
 # game/cliffroute2.rpy:2440
 translate Tchinese aftercanyon_70f95e08:
@@ -9652,7 +9652,7 @@ translate Tchinese aftercanyon_009c7fd9:
 translate Tchinese aftercanyon_6df0b085:
 
     # av "\"Now that {i}ain't{/i} my story to tell.\""
-    av "“這就{i}不是{/i}我能訴說的了。”"
+    av "“這就 {i}不是{/i} 我能訴說的了。”"
 
 # game/cliffroute2.rpy:2497
 translate Tchinese aftercanyon_2cd2527f:
@@ -15058,7 +15058,7 @@ translate Tchinese hh_72784eff:
 translate Tchinese hh_e6afa5c9:
 
     # dkf "\"I always wanted to see a {i}real{/i} pistol.\""
-    dkf "“我一直想見識一下{b}真正的{/b}手槍。”"
+    dkf "“我一直想見識一下 {i}真正的{/i} 手槍。”"
 
 # game/cliffroute2.rpy:3868
 translate Tchinese hh_132beb2a:
@@ -17566,7 +17566,7 @@ translate Tchinese hh_49f31159:
 translate Tchinese hh_8185d237:
 
     # ed "\"Memory's getting a bit spotty. Coulda sworn you was one of the whores.\""
-    ed "“記性靠不住囉，我剛想說你是那裡的妓女來著。”"
+    ed "“記性靠不住囉，我剛想說你是那裡的娼妓來著。”"
 
 # game/cliffroute2.rpy:4575
 translate Tchinese hh_776cec60:

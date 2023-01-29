@@ -8020,13 +8020,13 @@ translate Tchinese sny1_8fe44148:
 translate Tchinese sny1_63ab506f:
 
     # m "\"I never expected to see something like this in Echo.\""
-    m "“我從沒想過會在Echo看見這種畫面。”"
+    m "“我從沒想過會在回音鎮看見這種畫面。”"
 
 # game/nikroute2.rpy:2332
 translate Tchinese sny1_6da9d3e7:
 
     # m "\"Payton has a place they call The Stag too.\""
-    m "“Payton也有間酒館叫Stag。”"
+    m "“沛頓也有間酒館叫Stag。”"
 
 # game/nikroute2.rpy:2333
 translate Tchinese sny1_b4b518c5:
@@ -9016,13 +9016,13 @@ translate Tchinese sny1_ef226014:
 translate Tchinese sny1_c59458ca:
 
     # ya "\"I have managed to trace over official layouts without anybody noticing.\""
-    ya "“我在沒人發現的情況下描好了官方構造。”"
+    ya "“我在沒人發現的情況下描好了官方結構圖。”"
 
 # game/nikroute2.rpy:2676
 translate Tchinese sny1_fb3cc789:
 
     # ya "\"But I have also added my own layouts to this-- the ones that I know they don’t know about.\""
-    ya "“不過我在這上面加了我自己的構造──我知道他們所不知道的部分。”"
+    ya "“不過我在這上面加了我自己的認知──我知道他們所不知道的部分。”"
 
 # game/nikroute2.rpy:2679
 translate Tchinese sny1_eab2304f:
@@ -9940,7 +9940,7 @@ translate Tchinese sny1_fb722638:
 translate Tchinese sny1_8adb57b0:
 
     # "{i}God must want me dead to put me with a man as slow as you{/i}."
-    "{b}上帝肯定是不想讓我活了，才會把你這麼個遲鈍的傢伙派過來。{/b}"
+    "{i}上帝肯定是不想讓我活了，才會把你這麼個遲鈍的傢伙派過來。{/i}"
 
 # game/nikroute2.rpy:2901
 translate Tchinese sny1_c0d42465:
@@ -10138,13 +10138,13 @@ translate Tchinese sny1_08fe5c64:
 translate Tchinese sny1_0c117387:
 
     # ben "\"Where’s your stuff?\""
-    ben "“你的傢伙事呢？”"
+    ben "“你的傢伙呢？”"
 
 # game/nikroute2.rpy:2959
 translate Tchinese sny1_100d5acc:
 
     # m "\"Stuff?\""
-    m "“傢伙事？”"
+    m "“傢伙？”"
 
 # game/nikroute2.rpy:2960
 translate Tchinese sny1_b11524d2:
@@ -11992,7 +11992,7 @@ translate Tchinese sny1_bc33225f:
 translate Tchinese sny1_b7045870:
 
     # "Then he holds the fuse to his lamp light."
-    "接著，他把引線伸到了帽燈里。"
+    "接著，他把引線伸到了帽燈裡。"
 
 # game/nikroute2.rpy:3675
 translate Tchinese sny1_e216e041:
@@ -14188,7 +14188,7 @@ translate Tchinese sny1_d534c35b:
 translate Tchinese sny1_998d99c4:
 
     # m "\"For, uh... Ruthenia, right?\""
-    m "“是，呃……羅賽尼亞的，沒錯吧？”"
+    m "“是，呃……魯塞尼亞的，沒錯吧？”"
 
 # game/nikroute2.rpy:4488
 translate Tchinese sny1_57af9962:
@@ -14584,7 +14584,7 @@ translate Tchinese sny1_4bb84225:
 translate Tchinese sny1_9aee9c38:
 
     # ben "\"He’s a novice though, he could really mess up your hand.\""
-    ben "“但他是個新手，可能會弄壞你的手。”"
+    ben "“但他是個新手，可能會讓你的手受傷。”"
 
 # game/nikroute2.rpy:4636
 translate Tchinese sny1_ff7f8ee3:
@@ -15112,7 +15112,7 @@ translate Tchinese sny1_4093e493:
 translate Tchinese sny1_67c5cb0c:
 
     # "He introduces me to the washing stations, which is more or less one massive room with a shower."
-    "他帶我來到洗浴區，基本上就是個有淋浴的大房間。"
+    "他帶我來到洗浴區，基本上就是個可以淋浴的大房間。"
 
 # game/nikroute2.rpy:4864
 translate Tchinese sny1_fb30f4ca:
@@ -15502,7 +15502,7 @@ translate Tchinese sny1_748563e2:
 translate Tchinese sny1_0fa342b6:
 
     # ni "\"I am confident that I can protect myself and Samuel from any natural... or {i}unnatural{/i} element in a mine.\""
-    ni "“我有信心保護我自己和Sam不受礦井中任何自然……或{b}不自然{/b}因素的危害。”"
+    ni "“我有信心保護我自己和Sam不受礦井中任何自然……或 {i}不自然{/i} 因素的危害。”"
 
 # game/nikroute2.rpy:5014
 translate Tchinese sny1_74173cd8:
@@ -15640,7 +15640,7 @@ translate Tchinese sny1_89357ba6:
 translate Tchinese sny1_f7a1bb5e:
 
     # "That sable from the tent who has dirt on me because I caught him smoking."
-    "那隻被我逮到在帳篷裡抽大麻而不爽我的黑貂。"
+    "那隻被我逮到在帳篷裡抽鴉片而不爽我的黑貂。"
 
 # game/nikroute2.rpy:5065
 translate Tchinese sny1_3d7b537e:
@@ -15994,7 +15994,7 @@ translate Tchinese sny1_20b1ec7b:
 translate Tchinese sny1_a3663e95:
 
     # ch "\"This is a shared space, so it is not ideal for sharing secrets.\""
-    ch "“這裡隔牆有耳，不太適合分享祕密。。”"
+    ch "“這裡隔牆有耳，不太適合分享祕密。”"
 
 # game/nikroute2.rpy:5198
 translate Tchinese sny1_49e4eb4a:
@@ -16420,7 +16420,7 @@ translate Tchinese sny1_e07a2de8:
 translate Tchinese sny1_bf268e85:
 
     # po "\"Now, I know that Echo’s not exactly the size of the Windy City yet, but I find it very queer indeed that somebody would know my brother’s name and invoke it in my presence. \""
-    po "“我是知道Echo不算什麼大城市，但不免因為有人敢在我面前提到我兄弟的名字而感到奇異。”"
+    po "“我是知道回音鎮不算什麼大城市，但不免因為有人敢在我面前提到我兄弟的名字而感到奇異。”"
 
 # game/nikroute2.rpy:5342
 translate Tchinese sny1_6674d86d:
@@ -17896,7 +17896,7 @@ translate Tchinese sellcomp_19f81e33:
 translate Tchinese sellcomp_d0ed5943:
 
     # "I demonstrate... just in case he’s watching again."
-    "我示範了一下……試圖確認他又在看。"
+    "我示範了一下……試圖確認他有繼續看著。"
 
 # game/nikroute2.rpy:5843
 translate Tchinese sellcomp_6123fd1f:
@@ -18232,7 +18232,7 @@ translate Tchinese sellcomp_86ffa629:
 translate Tchinese sellcomp_4971bf19:
 
     # "He grunts in surprise when my grip rotates around the base of his shaft; he grips me tight, much tighter than any rear I’ve been in."
-    "我在撸到他根部時轉動手掌，讓他驚訝地悶哼一聲；他緊握住我的肉棒，遠比任何我進過的後穴都來得緊實。"
+    "我在握到他根部時轉動手掌，讓他驚訝地悶哼一聲；他緊握住我的肉棒，遠比任何我進過的後穴都來得緊實。"
 
 # game/nikroute2.rpy:5965
 translate Tchinese sellcomp_3bddfcac:
@@ -19228,7 +19228,7 @@ translate Tchinese sellcomp_324306c6:
 translate Tchinese sellcomp_1876a738:
 
     # di "\"But there’s a lot more people who find that this kind of work isn’t for them, and they search for contract work above the surface.\""
-    di "“但更多人是發覺自己不適合這一行，轉而在地表上尋找其他合同工作。”"
+    di "“但更多人是發覺自己不適合這一行，轉而在地表上尋找其他約聘工作。”"
 
 # game/nikroute2.rpy:6357
 translate Tchinese sellcomp_0669146d:
@@ -22588,7 +22588,7 @@ translate Tchinese locker1bright_5e9835f0:
 translate Tchinese locker1bright_21928c32:
 
     # "As we walk, I count the tunnels to my left."
-    "在前進之餘，我屬著左手邊的隧道。"
+    "在前進之餘，我數著左手邊的隧道。"
 
 # game/nikroute2.rpy:7692
 translate Tchinese locker1bright_00caf3ea:
@@ -23733,7 +23733,7 @@ translate Tchinese locker1bright_9613c394:
 translate Tchinese locker1bright_03016300:
 
     # no "\"Leave... now...\""
-    no "“馬上……離開……”"
+    no "“马上……离开……”"
 
 # game/nikroute2.rpy:8144
 translate Tchinese locker1bright_95a2766e:
@@ -24033,7 +24033,7 @@ translate Tchinese locker1bright_303cb7af:
 translate Tchinese locker1bright_4dbde96e:
 
     # no "\"Go now go now go now GO NOW.\""
-    no "“快走快走快走{b}快走{/b}。”"
+    no "“快走快走快走 {i}快走{/i}。”"
 
 # game/nikroute2.rpy:8252
 translate Tchinese locker1bright_69d2353b:
