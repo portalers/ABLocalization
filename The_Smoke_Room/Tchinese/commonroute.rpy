@@ -610,7 +610,7 @@ translate Tchinese commonroute_9c9bc2fe:
 translate Tchinese commonroute_c7fc53b2:
 
     # "The streetwalkers stand in alleys and doorways, waiting for any of the drunk men wandering the streets to notice them."
-    "妓女們站在小巷與門口，等待著被在街上遊蕩的醉漢們注意到。"
+    "街妓們站在小巷與門口，等待著被在街上遊蕩的醉漢們注意到。"
 
 # game/commonroute.rpy:139
 translate Tchinese commonroute_73f8e77f:

@@ -634,7 +634,7 @@ translate Tchinese williamroute_db1f9500:
 translate Tchinese williamroute_f5479aff:
 
     # wi "\"I think... that putting a pickaxe between the eyes of that waste of space was the least stupid thing you've done during your stay in Echo.\""
-    wi "“我認為……用十字鎬砸在他那雙眼間無用的空間上是你在Echo裡做過最聰明的一件事。”"
+    wi "“我認為……用十字鎬砸在他那雙眼間無用的空間上是你在回音鎮裡做過最聰明的一件事。”"
 
 # game/williamroute.rpy:152
 translate Tchinese williamroute_df8ec4bc:
@@ -718,7 +718,7 @@ translate Tchinese williamroute_8396120f:
 translate Tchinese williamroute_02965890:
 
     # wi "\"Do you think you're the first to spill blood in Echo?\""
-    wi "“你以為自己是第一個讓Echo染血的人？”"
+    wi "“你以為自己是第一個讓回音鎮染血的人？”"
 
 # game/williamroute.rpy:168
 translate Tchinese williamroute_7bbbe9c7:

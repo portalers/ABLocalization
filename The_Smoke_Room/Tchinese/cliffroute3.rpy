@@ -4750,7 +4750,7 @@ translate Tchinese aftercliffint2_4dff92c2:
 translate Tchinese aftercliffint2_6b636d80:
 
     # mu "\"...one of the finer establishments in Echo, do you not?\""
-    mu "“……Echo鎮上比較高級的單位工作嗎？”"
+    mu "“……回音鎮上比較高級的單位工作嗎？”"
 
 # game/cliffroute3.rpy:1186
 translate Tchinese aftercliffint2_6ad49127:
@@ -5476,7 +5476,7 @@ translate Tchinese aftercliffint2_3b3289cd:
 translate Tchinese aftercliffint2_27cebee6:
 
     # "Unless a couple of bounty hunters from Echo stroll in if Will decided to give them my name."
-    "除非Will決定要通緝我，把賞金獵人從Echo引來。"
+    "除非Will決定要通緝我，把賞金獵人從回音鎮引來。"
 
 # game/cliffroute3.rpy:1393
 translate Tchinese aftercliffint2_a84498d4:
@@ -5560,7 +5560,7 @@ translate Tchinese aftercliffint2_9f6b45ef:
 translate Tchinese aftercliffint2_03d854a9:
 
     # m "\"I won’t be going back to Echo with the rest of you.\""
-    m "“我不會跟你們一起回Echo。”"
+    m "“我不會跟你們一起回回音鎮。”"
 
 # game/cliffroute3.rpy:1423
 translate Tchinese aftercliffint2_0fb79676:
@@ -7270,7 +7270,7 @@ translate Tchinese aftercliffint2_c2455e62:
 translate Tchinese aftercliffint2_b9d91339:
 
     # "Then again... I’ve never needed this degree of spiritual protection before I came to Echo."
-    "只不過……在我來Echo之前從未對這種級別的防護有需求。"
+    "只不過……在我來回音鎮之前從未對這種級別的防護有需求。"
 
 # game/cliffroute3.rpy:1990
 translate Tchinese aftercliffint2_3c5b9401:
@@ -7594,7 +7594,7 @@ translate Tchinese aftercliffint2_5a5a1e92:
 translate Tchinese aftercliffint2_086ad5c9:
 
     # m "\"I know one in Echo.\""
-    m "“我知道有一個人住在Echo。”"
+    m "“我知道有一個人住在回音鎮。”"
 
 # game/cliffroute3.rpy:2109
 translate Tchinese aftercliffint2_905a0b70:
@@ -7672,7 +7672,7 @@ translate Tchinese aftercliffint2_21c1dae9:
 translate Tchinese aftercliffint2_6c34b403:
 
     # ts "\"Echo is in the opposite direction though.\""
-    ts "“但Echo是在反方向。”"
+    ts "“但回音鎮是在反方向。”"
 
 # game/cliffroute3.rpy:2140
 translate Tchinese aftercliffint2_0c5c0722:

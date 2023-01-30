@@ -9388,7 +9388,7 @@ translate Tchinese murdochroute2_57464c52:
 translate Tchinese murdochroute2_d7b40bb4:
 
     # m "\"Lots of people fall in love with their whores.\""
-    m "“不少人會愛上自己的妓女。”"
+    m "“不少人會愛上自己的娼妓。”"
 
 # game/murdochroute2.rpy:2537
 translate Tchinese murdochroute2_a3f9b673:
@@ -17529,7 +17529,7 @@ translate Tchinese murdochroute2_45be6fc0:
 translate Tchinese murdochroute2_873aaa30:
 
     # m "\"You really want to see nothing, you should check out Payton.\""
-    m "“你想知道什麼叫空空如也，應該去看看Payton才對吧。”"
+    m "“你想知道什麼叫空空如也，應該去看看沛頓才對吧。”"
 
 # game/murdochroute2.rpy:5030
 translate Tchinese murdochroute2_8d4b3fe1:

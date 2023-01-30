@@ -9343,7 +9343,7 @@ translate Tchinese samstation_5dcd3dca:
 translate Tchinese samstation_9a16115f:
 
     # cy "“Happens to friends in Coalville. And in Payton. It’s definitely happened before here, too.”"
-    cy "“我在Coalville的朋友，在Payton的朋友都沒能倖免。這裡肯定也不例外。”"
+    cy "“我在Coalville的朋友，在沛頓的朋友都沒能倖免。這裡肯定也不例外。”"
 
 # game/williamroute3.rpy:2973
 translate Tchinese samstation_199be9df:
@@ -9613,7 +9613,7 @@ translate Tchinese hipinvestigation_3f672ecd:
 translate Tchinese hipinvestigation_ea657d7a:
 
     # "And it’s not just the prostitutes who love the madam."
-    "那位夫人也不僅僅受到妓女們的愛戴。"
+    "那位夫人也不僅僅受到娼妓們的愛戴。"
 
 # game/williamroute3.rpy:3073
 translate Tchinese hipinvestigation_12b7b074:
@@ -9823,7 +9823,7 @@ translate Tchinese hipinvestigation_7e304337:
 translate Tchinese hipinvestigation_1b064a8f:
 
     # cy "“You really think the word of one Meseta hooker is more trustworthy than the big shot Sheriff?”"
-    cy "“你真的認為一個梅塞塔妓女的話比大名鼎鼎的警長更可信嗎？”"
+    cy "“你真的認為一個梅塞塔娼妓的話比大名鼎鼎的警長更可信嗎？”"
 
 # game/williamroute3.rpy:3131
 translate Tchinese hipinvestigation_4d30801a:
