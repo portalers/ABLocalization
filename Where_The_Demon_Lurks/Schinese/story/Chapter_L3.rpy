@@ -502,13 +502,13 @@ translate Schinese chapter_L3_df665459:
 translate Schinese chapter_L3_feeaca46:
 
     # Vendor "There's some rumours that all the bad business started with the death of the arcade owner who owed money to the the local gang."
-    小贩 "据说啊，这一切都要从街机店老板的死开始，他欠了本地黑帮一大笔钱。"
+    小贩 "据说啊，这一切都要从街机厅老板的死开始，他欠了本地黑帮一大笔钱。"
 
 # game/story/Chapter_L3.rpy:247
 translate Schinese chapter_L3_20eb8b73:
 
     # Vendor "Since then, those who walk that street sometimes would hear a painful scream as they get closer to the arcade."
-    小贩 "从那以后，那条街就时不时发出痛苦的叫声，尤其是靠近拱廊的时候。"
+    小贩 "从那以后，那条街就时不时传来痛苦的叫声，尤其是街机厅的附近。"
 
 # game/story/Chapter_L3.rpy:249
 translate Schinese chapter_L3_f30824a9:
@@ -544,7 +544,7 @@ translate Schinese chapter_L3_b7707f8c:
 translate Schinese chapter_L3_a9772e64:
 
     # Vendor "Personally… I believe it… I walked that street a while back, I swear I heard… my–"
-    小贩 "要我说...我反正是信的...我前阵子刚走过那条街，亲耳听到-"
+    小贩 "反正...我本人是信的...我前阵子刚走过那条街，亲耳听到-"
 
 # game/story/Chapter_L3.rpy:261
 translate Schinese chapter_L3_6e5e1a42:
@@ -658,31 +658,31 @@ translate Schinese chapter_L3_785b6201:
 translate Schinese chapter_L3_d6685cce:
 
     # "Lucian taps his mouth with his forefinger. He gazes far in the direction of the street you mentioned then back at his tablet."
-    "Lucian用食指轻点嘴唇，远远地望向你提到的那条街，又把目光放回平板电脑上。"
+    "Lucian用食指轻点嘴唇，远远望向你提到的那条街，最后又把目光放回平板电脑上。"
 
 # game/story/Chapter_L3.rpy:320
 translate Schinese chapter_L3_aa766496:
 
     # L "No, no. We need to stick to this. This is Lord Gary’s plan, and he knows what’s best."
-    L "不，我们应该坚持这条线索，这是Gary大人的计划，他势必考虑得非常周全。"
+    L "不，我们应该去追这条线索，这是Gary大人经过深思熟虑后得出来的万全之策。"
 
 # game/story/Chapter_L3.rpy:322
 translate Schinese chapter_L3_3d7e9425:
 
     # p annoyed "Come on, we're wasting daylight chasing a screensaver."
-    p annoyed "得了吧，我才不要浪费时间去追一个屏保呢。"
+    p annoyed "免谈，我才不要把时间浪费在一个屏保上呢。"
 
 # game/story/Chapter_L3.rpy:324
 translate Schinese chapter_L3_2eb4f40d:
 
     # L annoyed "Lord Gary is never wrong. He made the perfect device for this task already."
-    L annoyed "Gary大人从不出错，他已经为这项任务提供了完美的设备。"
+    L annoyed "Gary大人永远是对的，他已经为这项任务提供了完美的设备。"
 
 # game/story/Chapter_L3.rpy:335
 translate Schinese chapter_L3_b18c0806:
 
     # p "Well I'm going with or without you then."
-    p "哼，反正我决定了。"
+    p "那我就一个人去。"
 
 # game/story/Chapter_L3.rpy:339
 translate Schinese chapter_L3_9993b94e:
@@ -700,7 +700,7 @@ translate Schinese chapter_L3_94b08f64:
 translate Schinese chapter_L3_6d35e529:
 
     # p "Here I go… All alone…" (cb_no_talk=True)
-    p "我去咯...一个人去..." (cb_no_talk=True)
+    p "我去咯...一个人..." (cb_no_talk=True)
 
 # game/story/Chapter_L3.rpy:345
 translate Schinese chapter_L3_5ef264ad:
@@ -712,187 +712,187 @@ translate Schinese chapter_L3_5ef264ad:
 translate Schinese chapter_L3_0375b2f2:
 
     # p "If this is real and I die, it's on you." (cb_no_talk=True)
-    p "如果那里真的闹鬼，我死了，你可是要承担责任的。" (cb_no_talk=True)
+    p "万一我有个三长两短，你可是要担责任的。" (cb_no_talk=True)
 
 # game/story/Chapter_L3.rpy:349
 translate Schinese chapter_L3_94c6be27:
 
     # L angry "Fine, I'm coming."
-    L angry "好吧，我也去。"
+    L angry "行吧，我知道了。"
 
 # game/story/Chapter_L3.rpy:362
 translate Schinese chapter_L3_arcade2_4d732a00:
 
     # "The streets of Doberwalk 1 bear the scars of a place long forgotten."
-    "The streets of Doberwalk 1 bear the scars of a place long forgotten."
+    "多宝路1号宛如一条被遗忘许久的疤痕。"
 
 # game/story/Chapter_L3.rpy:364
 translate Schinese chapter_L3_arcade2_ea83530d:
 
     # "Weeds have taken root in the cracked walkways in front every store."
-    "Weeds have taken root in the cracked walkways in front every store."
+    "地面龟裂，杂草丛生。"
 
 # game/story/Chapter_L3.rpy:366
 translate Schinese chapter_L3_arcade2_5a34c347:
 
     # "The road is now a milky grey; no one has bothered to retar it."
-    "The road is now a milky grey; no one has bothered to retar it."
+    "没有人愿意来修缮这条灰扑扑的路。"
 
 # game/story/Chapter_L3.rpy:375
 translate Schinese chapter_L3_arcade2_8f7dd534:
 
     # "Lucian, though by your side, would keep darting his head back to where you both came from."
-    "Lucian, though by your side, would keep darting his head back to where you both came from."
+    "Lucian，他虽然站在你旁边，却仍时不时地把头转向你们来的地方。"
 
 # game/story/Chapter_L3.rpy:377
 translate Schinese chapter_L3_arcade2_5b797e5a:
 
     # p "Would you relax, if I'm wrong about this we can go chase that bouncing Gate whenever."
-    p "麻烦你放松点，就算我错了，咱们再去追那个弹弹跳跳的门也不迟啊。"
+    p "拜托，放松点。就算我错了，咱们再去追那个弹弹门也不迟啊。"
 
 # game/story/Chapter_L3.rpy:379
 translate Schinese chapter_L3_arcade2_642b6c8a:
 
     # L "There's no guarantee it will still be there. If the Gate can move, anything is possible. It was a handful getting this far."
-    L "There's no guarantee it will still be there. If the Gate can move, anything is possible. It was a handful getting this far."
+    L "未必，那扇门可以移动，发生什么事也不奇怪，我们能追现在已经很不容易了。"
 
 # game/story/Chapter_L3.rpy:381
 translate Schinese chapter_L3_arcade2_ad7a4602:
 
     # "Your doubts resurface but you persist on forward until you reach the arcade."
-    "Your doubts resurface but you persist on forward until you reach the arcade."
+    "带着自己的疑虑，你坚持向前，直至来到街机厅。"
 
 # game/story/Chapter_L3.rpy:383
 translate Schinese chapter_L3_arcade2_f19db7c8:
 
     # "A two story structure with strips of white paint that has peeled off over time dangles delicately. They shiver against the gentle breeze."
-    "A two story structure with strips of white paint that has peeled off over time dangles delicately. They shiver against the gentle breeze."
+    "这是一栋两层楼的建筑，白色的漆面被岁月所剥落，迎着微风瑟瑟发抖。"
 
 # game/story/Chapter_L3.rpy:387
 translate Schinese chapter_L3_arcade2_cf44ec1d:
 
     # "The metal rafters have been pulled down on the main entrance."
-    "The metal rafters have been pulled down on the main entrance."
+    "大门口的金属椽也已经被拆掉了。"
 
 # game/story/Chapter_L3.rpy:389
 translate Schinese chapter_L3_arcade2_b5f59e19:
 
     # "A faded red smear of paint has merged with the metal."
-    "A faded red smear of paint has merged with the metal."
+    "一抹褪色的红色颜料几乎与金属融合在了一起。"
 
 # game/story/Chapter_L3.rpy:391
 translate Schinese chapter_L3_arcade2_d495e59a:
 
     # L neutral talk "What happened to this shop? Why did they paint it so haphazardly?"
-    L neutral talk "What happened to this shop? Why did they paint it so haphazardly?"
+    L neutral talk "这家店是怎么了？为何装修得如此杂乱？"
 
 # game/story/Chapter_L3.rpy:393
 translate Schinese chapter_L3_arcade2_d0ee118f:
 
     # p talk "It's not a paint job. It's a warning gangs use. They toss red paint on someone's property as a sign that they need to pay up or else…"
-    p talk "It's not a paint job. It's a warning gangs use. They toss red paint on someone's property as a sign that they need to pay up or else…"
+    p talk "和装修没关系，这是黑帮的警告。他们把红色油漆涂在别人的财产上，示意他们付钱，如若不然..."
 
 # game/story/Chapter_L3.rpy:395
 translate Schinese chapter_L3_arcade2_f84743eb:
 
     # L angry "What a disgusting mortal custom."
-    L angry "What a disgusting mortal custom."
+    L angry "多么令人作呕的凡间习俗。"
 
 # game/story/Chapter_L3.rpy:397
 translate Schinese chapter_L3_arcade2_87fa451b:
 
     # p talk "It's just how it's done. You borrow money from the wrong people then there’s a price to pay."
-    p talk "It's just how it's done. You borrow money from the wrong people then there’s a price to pay."
+    p talk "规矩如此，从不该借的人那里借钱，就得付出代价。"
 
 # game/story/Chapter_L3.rpy:399
 translate Schinese chapter_L3_arcade2_1bf06a56:
 
     # L "Money… The greed of mortals sits wrongly with me."
-    L "Money… The greed of mortals sits wrongly with me."
+    L "钱...凡人的贪婪让我感到恶心。"
 
 # game/story/Chapter_L3.rpy:401
 translate Schinese chapter_L3_arcade2_b6055f61:
 
     # p @ question "Is that your whole beef with their kind? They love money too much?"
-    p @ question "Is that your whole beef with their kind? They love money too much?"
+    p @ question "所以你才老是对他们发表不满吗？因为他们太爱钱了？"
 
 # game/story/Chapter_L3.rpy:403
 translate Schinese chapter_L3_arcade2_fb976e99:
 
     # L annoyed "It’s one on a very long list. Look, you don’t know what it's like having to attend to their every need in Heaven."
-    L annoyed "It’s one on a very long list. Look, you don’t know what it's like having to attend to their every need in Heaven."
+    L annoyed "这只是凡人众多缺点中的其中一项。在天界里，我们要尽量照顾他们的全部需求，你不明白那是种什么样的感受。"
 
 # game/story/Chapter_L3.rpy:406
 translate Schinese chapter_L3_arcade2_ce41b793:
 
     # L "Despite your judgement in the Underworld, the souls up there retain much of their personalities, and that shows in the fantasies that they ask Lord Gary to draw up."
-    L "Despite your judgement in the Underworld, the souls up there retain much of their personalities, and that shows in the fantasies that they ask Lord Gary to draw up."
+    L "不同于负责审判的冥界，去往天界的灵魂依然保留了生前的大部分个性，所以Gary大人不得不为他们一一绘制幻想。"
 
 # game/story/Chapter_L3.rpy:408
 translate Schinese chapter_L3_arcade2_2a21e3a3:
 
     # L sad "I just… I hate seeing Lord Gary working himself to the bone for them, when in life, they rather give their soul to money."
-    L sad "I just… I hate seeing Lord Gary working himself to the bone for them, when in life, they rather give their soul to money."
+    L sad "看到这种...为了金钱宁愿出卖灵魂的家伙，我真为Gary大人的呕心沥血感到不值。"
 
 # game/story/Chapter_L3.rpy:410
 translate Schinese chapter_L3_arcade2_7372efd3:
 
     # p talk "Cheer up, not everyone is like that."
-    p talk "Cheer up, not everyone is like that."
+    p talk "别丧气啦，灵魂也是有很多种的嘛。"
 
 # game/story/Chapter_L3.rpy:412
 translate Schinese chapter_L3_arcade2_6efd76d2:
 
     # L "Your optimism much like this plan, is not very inspiring. There’s no sign of the gate still."
-    L "Your optimism much like this plan, is not very inspiring. There’s no sign of the gate still."
+    L "你的乐观就和你的主意一样，没有鼓舞人心的效果。我仍然没有发现门的迹象。"
 
 # game/story/Chapter_L3.rpy:414
 translate Schinese chapter_L3_arcade2_f4fb4496:
 
     # p question "Shh, listen."
-    p question "Shh, listen."
+    p question "嘘，别出声。"
 
 # game/story/Chapter_L3.rpy:416
 translate Schinese chapter_L3_arcade2_432f9d39:
 
     # "Your ear perks up to the sound of a muffled scream."
-    "Your ear perks up to the sound of a muffled scream."
+    "你听到一声低沉的尖叫。"
 
 # game/story/Chapter_L3.rpy:418
 translate Schinese chapter_L3_arcade2_c3e081ab:
 
     # p "Did you hear that?"
-    p "Did you hear that?"
+    p "你听到了吗？"
 
 # game/story/Chapter_L3.rpy:420
 translate Schinese chapter_L3_arcade2_4704044e:
 
     # "Lucian raises his ears and looks about."
-    "Lucian raises his ears and looks about."
+    "Lucian竖起耳朵，看了看周围。"
 
 # game/story/Chapter_L3.rpy:422
 translate Schinese chapter_L3_arcade2_1b22274e:
 
     # "His eyes widen."
-    "His eyes widen."
+    "他睁大了眼睛。"
 
 # game/story/Chapter_L3.rpy:424
 translate Schinese chapter_L3_arcade2_6273703f:
 
     # L neutral talk "It's faint… almost ghost-like."
-    L neutral talk "It's faint… almost ghost-like."
+    L neutral talk "很微弱...像幽灵一样。"
 
 # game/story/Chapter_L3.rpy:426
 translate Schinese chapter_L3_arcade2_8b753469:
 
     # p neutral talk "It's coming from inside the arcade. Help me find a way in."
-    p neutral talk "It's coming from inside the arcade. Help me find a way in."
+    p neutral talk "在街机厅里面，帮我找条路进去。"
 
 # game/story/Chapter_L3.rpy:428
 translate Schinese chapter_L3_arcade2_0b9a606b:
 
     # "You circle the side of the arcade and find a side door with a lone window covered in yellow newspapers."
-    "You circle the side of the arcade and find a side door with a lone window covered in yellow newspapers."
+    "你绕到街机厅的侧面，发现了一扇侧门，'ling"
 
 # game/story/Chapter_L3.rpy:430
 translate Schinese chapter_L3_arcade2_6597a5c8:
