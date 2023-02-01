@@ -3894,7 +3894,7 @@ translate Schinese a1s1_f6f8b90b:
 translate Schinese a1s1_ff0d2057:
 
     # "But now, when it matters most, he can't do it."
-    可是现在，在这最关键的时刻，他却做不到。"
+    "可是现在，在这最关键的时刻，他却做不到。"
 
 # game/a1s1.rpy:33
 translate Schinese a1s1_f52b6fde:

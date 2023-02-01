@@ -10,7 +10,7 @@ translate Tchinese a1s3_d1b5f4df:
 translate Tchinese a1s3_5c396b85:
 
     # a "\"Shee-it, how'd you manage to do this? It looks like you literally drove straight off the road!\""
-    a "\"我靠，你們怎麼做到的？還真是夠‘離’譜的嘿！\""
+    a "“我靠，你們怎麼做到的？還真是夠‘離’譜的嘿！”"
 
 # game/a1s3.rpy:15
 translate Tchinese a1s3_a49deaa2:
@@ -58,7 +58,7 @@ translate Tchinese a1s3_d501a994:
 translate Tchinese a1s3_e61a9551:
 
     # d "\"We thought we saw something on the road and swerved. Was probably just a rock, or something.\""
-    d "\"我們在路上看到了某個東西，就打了個急轉彎，也許只是塊石頭或什麼的。\""
+    d "“我們在路上看到了某個東西，就打了個急轉彎，也許只是塊石頭或什麼的。”"
 
 # game/a1s3.rpy:25
 translate Tchinese a1s3_43497edb:
@@ -76,37 +76,37 @@ translate Tchinese a1s3_6a3b6b7c:
 translate Tchinese a1s3_0e26a6fd:
 
     # d "\"It was in the middle of the night, so you know, shadows and shit.\""
-    d "\"當時是大半夜，你也知道，影子之類亂七八糟的。\""
+    d "“當時是大半夜，你也知道，影子之類亂七八糟的。”"
 
 # game/a1s3.rpy:31
 translate Tchinese a1s3_13c38ed1:
 
     # a "\"Huh, hard to imagine you overreacting like that, Dev.{w} Glad you guys are okay though. Must have been rough looking at how deep the tires went.\""
-    a "\"沒想到你也會這麼大驚小怪的，Dev，{w}不過人沒事就好。看這輪胎陷得，你們一定遭罪了。\""
+    a "“沒想到你也會這麼大驚小怪的，Dev，{w}不過人沒事就好。看這輪胎陷得，你們一定遭罪了。”"
 
 # game/a1s3.rpy:33
 translate Tchinese a1s3_b3369a68:
 
     # d "\"It was. Hey, how long do you need to recharge for the drive? I can take the wheel if you're too worn out.\""
-    d "\"的確。嘿，你需要休息多久才能開車？如果真的累了我可以幫你開。\""
+    d "“的確。嘿，你需要休息多久才能開車？如果真的累了我可以幫你開。”"
 
 # game/a1s3.rpy:35
 translate Tchinese a1s3_c96139ca:
 
     # a "\"Ha! Right after you crashed your own car?\""
-    a "\"蛤？你可是剛把你的車給毀了！\""
+    a "“蛤？你可是剛把你的車給毀了！”"
 
 # game/a1s3.rpy:37
 translate Tchinese a1s3_053e94d6:
 
     # d "\"It was the middle of the night!\""
-    d "\"當時正值半夜！\""
+    d "“當時正值半夜！”"
 
 # game/a1s3.rpy:39
 translate Tchinese a1s3_6873f707:
 
     # a "\"Hey, I'm just playing, dude. Chill.\""
-    a "\"嘿，放鬆點，我不就開個玩笑嘛。\""
+    a "“嘿，放鬆點，我不就開個玩笑嘛。”"
 
 # game/a1s3.rpy:40
 translate Tchinese a1s3_734ba57b:
@@ -118,7 +118,7 @@ translate Tchinese a1s3_734ba57b:
 translate Tchinese a1s3_0dbd7b6c:
 
     # a "\"Uh, you guys alright? Kind of feels like I've walked in on a fight, or something.\""
-    a "\"呃，你們倆不要緊吧？不說我還以為你們剛吵了一架。\""
+    a "“呃，你們倆不要緊吧？不說我還以為你們剛吵了一架。”"
 
 # game/a1s3.rpy:44
 translate Tchinese a1s3_afd8f340:
@@ -130,7 +130,7 @@ translate Tchinese a1s3_afd8f340:
 translate Tchinese a1s3_d515020b:
 
     # d "\"No, I'm just really tired, man. We were up most of the night.\""
-    d "\"沒，我只是太累了，夥計。我們倆幾乎一整晚都沒闔眼。\""
+    d "“沒，我只是太累了，夥計。我們倆幾乎一整晚都沒闔眼。”"
 
 # game/a1s3.rpy:47
 translate Tchinese a1s3_0397b8c9:
@@ -148,19 +148,19 @@ translate Tchinese a1s3_80aa09d4:
 translate Tchinese a1s3_b5e0c835:
 
     # c "\"Uh, yeah, we're just tired. I think walking around a little bit would do us all some good.\""
-    c "\"呃，是啊，我們只是累了。我想四處走走對我們幾個都有好處。\""
+    c "“呃，是啊，我們只是累了。我想四處走走對我們幾個都有好處。”"
 
 # game/a1s3.rpy:52
 translate Tchinese a1s3_1a0cc3d4:
 
     # a "\"Ooh, Yeah! Last time I went ghost hunting with Dev it was real spooky, even though we didn't see anything.{w} One of my top ten highs. In fact...\""
-    a "\"好耶！上次我跟Dev去抓鬼的時候別提多刺激了，{w}可謂我的十大暴爽時刻之一，雖然最後毛都沒見到半根。說到這裡……\""
+    a "“好耶！上次我跟Dev去抓鬼的時候別提多刺激了，{w}可謂我的十大暴爽時刻之一，雖然最後毛都沒見到半根。說到這裡……”"
 
 # game/a1s3.rpy:55
 translate Tchinese a1s3_d508d073:
 
     # d "\"Highs?\""
-    d "\"暴爽？\""
+    d "“暴爽？”"
 
 # game/a1s3.rpy:56
 translate Tchinese a1s3_f069dcf5:
@@ -172,7 +172,7 @@ translate Tchinese a1s3_f069dcf5:
 translate Tchinese a1s3_e421ad03:
 
     # a "\"I got some oil cartridges from the dispensary on the way here. You guys wanna hit?\""
-    a "\"我從路上的藥店搞了點煙彈，你們倆想來一口嗎？\""
+    a "“我從路上的藥店搞了點煙彈，你們倆想來一口嗎？”"
 
 # game/a1s3.rpy:58
 translate Tchinese a1s3_76de8f82:
@@ -184,13 +184,13 @@ translate Tchinese a1s3_76de8f82:
 translate Tchinese a1s3_a8289e4f:
 
     # d "\"Naw, we're good, man. I don't know if it's a good idea for you to do that and drive, anyway.{w} Are you high right now, actually?\""
-    d "\"不了，我們很好。你確定抽完以後對開車沒影響嗎？{w}還有你是不是已經吸嗨了？\""
+    d "“不了，我們很好。你確定抽完以後對開車沒影響嗎？{w}還有你是不是已經吸嗨了？”"
 
 # game/a1s3.rpy:63
 translate Tchinese a1s3_d422f046:
 
     # a "\"Haha! No, and I'll have come down by the time we're done looking around.\""
-    a "\"哈哈！沒有的事，再說在附近繞個幾圈之後就會清醒了。\""
+    a "“哈哈！沒有的事，再說在附近繞個幾圈之後就會清醒了。”"
 
 # game/a1s3.rpy:65
 translate Tchinese a1s3_8ca64abf:
@@ -202,7 +202,7 @@ translate Tchinese a1s3_8ca64abf:
 translate Tchinese a1s3_27e3b117:
 
     # c "\"How do you know if I'm good?\""
-    c "\"你怎麼知道我好不好？\""
+    c "“你怎麼知道我好不好？”"
 
 # game/a1s3.rpy:67
 translate Tchinese a1s3_f8e556af:
@@ -214,19 +214,19 @@ translate Tchinese a1s3_f8e556af:
 translate Tchinese a1s3_77547abe:
 
     # d "\"What was that, honey?\""
-    d "\"你說什麼，親愛的？\""
+    d "“你說什麼，親愛的？”"
 
 # game/a1s3.rpy:72
 translate Tchinese a1s3_39e2345b:
 
     # c "\"You just said 'we're good' without even asking me.\""
-    c "\"你連問都沒問，就說‘我們’很好。\""
+    c "“你連問都沒問，就說‘我們’很好。”"
 
 # game/a1s3.rpy:74
 translate Tchinese a1s3_e43c139b:
 
     # d "\"Uh...\""
-    d "\"呃……\""
+    d "“呃……”"
 
 # game/a1s3.rpy:75
 translate Tchinese a1s3_d9898541:
@@ -238,13 +238,13 @@ translate Tchinese a1s3_d9898541:
 translate Tchinese a1s3_bc6c0ecd:
 
     # "The coyote would even joke that he's straight edge."
-    "郊狼甚至會開玩笑稱自己為直刃族。(*直刃族：來自於80年代的一項運動，主旨在降低慾望，回歸簡單生活，不吸毒、吸菸、飲酒…etc.)"
+    "郊狼甚至會開玩笑稱自己為直刃族。(*直刃族：來自於80年代的一項運動，主旨在降低慾望，回歸簡單生活，不吸毒、吸菸、飲酒……etc.)"
 
 # game/a1s3.rpy:77
 translate Tchinese a1s3_58a8f92d:
 
     # d "\"I just thought...\""
-    d "\"我只是覺得……\""
+    d "“我只是覺得……”"
 
 # game/a1s3.rpy:79
 translate Tchinese a1s3_c03409bc:
@@ -256,7 +256,7 @@ translate Tchinese a1s3_c03409bc:
 translate Tchinese a1s3_38e8fe94:
 
     # c "\"Anyway, I don't mind taking a hit, if that's okay with you, Artie.\""
-    c "\"總之，要是方便的話，我不介意來上一口，Artie.\""
+    c "“總之，要是方便的話，我不介意來上一口，Artie.”"
 
 # game/a1s3.rpy:82
 translate Tchinese a1s3_e9028969:
@@ -268,7 +268,7 @@ translate Tchinese a1s3_e9028969:
 translate Tchinese a1s3_3a045039:
 
     # a "\"Yeah, of course, dude.\""
-    a "\"當然，別見外，哥們。\""
+    a "“當然，別見外，哥們。”"
 
 # game/a1s3.rpy:86
 translate Tchinese a1s3_a2ca48e0:
@@ -280,7 +280,7 @@ translate Tchinese a1s3_a2ca48e0:
 translate Tchinese a1s3_9d124d5d:
 
     # d "\"Cameron, what are you doing!?\""
-    d "\"Cameron，你在幹什麼！？\""
+    d "“Cameron，你在幹什麼！？”"
 
 # game/a1s3.rpy:90
 translate Tchinese a1s3_fe6c6ef8:
@@ -310,7 +310,7 @@ translate Tchinese a1s3_dfec5caf:
 translate Tchinese a1s3_0d556245:
 
     # a "\"Ooookay, I'll just play along like everything's fine between you two.{w} Either way,{w=0.3} maybe we should just go?\""
-    a "\"好──吧，我就當你們兩個之間什麼事都沒有好了。{w}總之，{w=0.3}我們要不先回去？\""
+    a "“好──吧，我就當你們兩個之間什麼事都沒有好了。{w}總之，{w=0.3}我們要不先回去？”"
 
 # game/a1s3.rpy:97
 translate Tchinese a1s3_f56dc23b:
@@ -328,7 +328,7 @@ translate Tchinese a1s3_1740dc36:
 translate Tchinese a1s3_df608344:
 
     # d "\"Hey, you alright?\""
-    d "\"你沒事吧？\""
+    d "“你沒事吧？”"
 
 # game/a1s3.rpy:102
 translate Tchinese a1s3_971cd183:
@@ -340,19 +340,19 @@ translate Tchinese a1s3_971cd183:
 translate Tchinese a1s3_ef07a5a4:
 
     # a "\"Yeah, that's normal, especially with a big hit like that. You handle your weed pretty good?\""
-    a "\"誰叫他吸了那麼一大口。難不成你對大麻更駕輕就熟？\""
+    a "“誰叫他吸了那麼一大口。難不成你對大麻更駕輕就熟？”"
 
 # game/a1s3.rpy:108
 translate Tchinese a1s3_95a06577:
 
     # d "\"He doesn't smoke weed, dude. That's why I assumed--\""
-    d "\"他不抽大麻，老兄。所以我才──\""
+    d "“他不抽大麻，老兄。所以我才──”"
 
 # game/a1s3.rpy:109
 translate Tchinese a1s3_76de7b84:
 
     # c "\"I smoked... plenty back in... high school... Never hit... one of these though.\""
-    c "\"我在……高中的時候……抽過不少……不過這樣的……還是第一次。\""
+    c "“我在……高中的時候……抽過不少……不過這樣的……還是第一次。”"
 
 # game/a1s3.rpy:110
 translate Tchinese a1s3_b1811641:
@@ -364,25 +364,25 @@ translate Tchinese a1s3_b1811641:
 translate Tchinese a1s3_53d9e608:
 
     # c "\"That's harsh as fuck, like worse than a blunt.\""
-    c "\"太烈了，好像比小雪茄還烈。\""
+    c "“太烈了，好像比小雪茄還烈。”"
 
 # game/a1s3.rpy:113
 translate Tchinese a1s3_4c2bfba4:
 
     # a "\"You get used to it. Besides, you only need to hit it a few times to get high.\""
-    a "\"多抽幾次就習慣了。\""
+    a "“多抽幾次就習慣了。”"
 
 # game/a1s3.rpy:114
 translate Tchinese a1s3_b3b593d9:
 
     # c "\"Should I take another, then?\""
-    c "\"那，我再來一口？\""
+    c "“那，我再來一口？”"
 
 # game/a1s3.rpy:116
 translate Tchinese a1s3_aeda488d:
 
     # d "\"No, you shouldn't.\""
-    d "\"不可以。\""
+    d "“不可以。”"
 
 # game/a1s3.rpy:118
 translate Tchinese a1s3_434ddc19:
@@ -394,13 +394,13 @@ translate Tchinese a1s3_434ddc19:
 translate Tchinese a1s3_a3c0e654:
 
     # c "\"Why are you acting like this, Dev? It's just marijuana. I never complain when you drink.\""
-    c "\"你怎麼這樣，Dev？只是大麻而已。你喝酒我就從來沒抱怨過。\""
+    c "“你怎麼這樣，Dev？只是大麻而已。你喝酒我就從來沒抱怨過。”"
 
 # game/a1s3.rpy:121
 translate Tchinese a1s3_7afefd2d:
 
     # d "\"Because this isn't like you at all, Cameron.\""
-    d "\"因為這一點也不像你，Cameron。\""
+    d "“因為這一點也不像你，Cameron。”"
 
 # game/a1s3.rpy:122
 translate Tchinese a1s3_e959f449:
@@ -424,7 +424,7 @@ translate Tchinese a1s3_72a1d0ec:
 translate Tchinese a1s3_4c5ffbf7:
 
     # a "\"Well, uh, I think one hit is good for now, especially if this is your first time smoking in a while.{w} Let's see how you feel in twenty minutes.\""
-    a "\"咳，呃，我想一口暫時就夠了，尤其是你中間隔了那麼久。{w}先等二十分鐘看看效果好了。\""
+    a "“咳，呃，我想一口暫時就夠了，尤其是你中間隔了那麼久。{w}先等二十分鐘看看效果好了。”"
 
 # game/a1s3.rpy:127
 translate Tchinese a1s3_1ce84f9e:
@@ -436,13 +436,13 @@ translate Tchinese a1s3_1ce84f9e:
 translate Tchinese a1s3_9798bd03:
 
     # a "\"You sure you're good? I know we only got high together a few times, but I don't want you to feel left out.\""
-    a "\"你確定你還好嗎？我知道我們兩個只有一起嗨過幾次，不過別覺得自己被冷落了。\""
+    a "“你確定你還好嗎？我知道我們兩個只有一起嗨過幾次，不過別覺得自己被冷落了。”"
 
 # game/a1s3.rpy:130
 translate Tchinese a1s3_cc559c95:
 
     # d "\"No, it's not my thing.\""
-    d "\"不，我不喜歡毒品。\""
+    d "“不，我不喜歡毒品。”"
 
 # game/a1s3.rpy:131
 translate Tchinese a1s3_9aa6c74e:
@@ -454,13 +454,13 @@ translate Tchinese a1s3_9aa6c74e:
 translate Tchinese a1s3_c556dcea:
 
     # d "\"You told me back in college that it wasn't your thing either. That's the only reason why I said we were good. Sorry, man.\""
-    d "\"你在大學時候對我說了同樣的話，這也是我之所以替你回答‘好’的唯一原因。對不起，老兄。\""
+    d "“你在大學時候對我說了同樣的話，這也是我之所以替你回答‘好’的唯一原因。對不起，老兄。”"
 
 # game/a1s3.rpy:135
 translate Tchinese a1s3_d6959963:
 
     # c "\"No problem. It's just been a while, so why not have a go, right?\""
-    c "\"沒事。我只是有段時間沒抽了，試一試也沒什麼關係，對吧？\""
+    c "“沒事。我只是有段時間沒抽了，試一試也沒什麼關係，對吧？”"
 
 # game/a1s3.rpy:136
 translate Tchinese a1s3_c6426520:
@@ -472,7 +472,7 @@ translate Tchinese a1s3_c6426520:
 translate Tchinese a1s3_3f1e2a39:
 
     # d "\"I guess so.\""
-    d "\"也許吧。\""
+    d "“也許吧。”"
 
 # game/a1s3.rpy:139
 translate Tchinese a1s3_db35218b:
@@ -484,7 +484,7 @@ translate Tchinese a1s3_db35218b:
 translate Tchinese a1s3_fbd0ec38:
 
     # a "\"If it makes you feel better--\""
-    a "\"如果這能讓你感覺好些的話──\""
+    a "“如果這能讓你感覺好些的話──”"
 
 # game/a1s3.rpy:141
 translate Tchinese a1s3_e29bb712:
@@ -496,25 +496,25 @@ translate Tchinese a1s3_e29bb712:
 translate Tchinese a1s3_14498373:
 
     # a "\"--shit's a lot safer than alcohol, or most any drug, really.\""
-    a "\"──實際上這東西比酒，還有大部分毒品安全多了，我是說真的。\""
+    a "“──實際上這東西比酒，還有大部分毒品安全多了，我是說真的。”"
 
 # game/a1s3.rpy:145
 translate Tchinese a1s3_075fa474:
 
     # d "\"Oh, spare me, dude. I'm not in the mood for stoner talk right now.\""
-    d "\"饒了我吧，老兄。我現在沒心情跟你討論嗑藥的事。\""
+    d "“饒了我吧，老兄。我現在沒心情跟你討論嗑藥的事。”"
 
 # game/a1s3.rpy:147
 translate Tchinese a1s3_8646a78c:
 
     # c "\"It's true. I think it's physically impossible to overdose on it.\""
-    c "\"確實。也不會攝入過量。\""
+    c "“確實。也不會攝入過量。”"
 
 # game/a1s3.rpy:149
 translate Tchinese a1s3_765e6132:
 
     # d "\"That's not the point, Cam.{w} It's more.{cps=4}..{/cps}{w=0.4} mentally fucky, you know?\""
-    d "\"這不是重點，Cam。{w}它更多影響的是{cps=4}……{/cps}{w=0.4}心智，你明白嗎？\""
+    d "“這不是重點，Cam。{w}它更多影響的是{cps=4}……{/cps}{w=0.4}心智，你明白嗎？”"
 
 # game/a1s3.rpy:150
 translate Tchinese a1s3_22fe91a7:
@@ -526,7 +526,7 @@ translate Tchinese a1s3_22fe91a7:
 translate Tchinese a1s3_fecf1f56:
 
     # a "\"Depends on the person. I think Cameron's old enough to know what's good for him.\""
-    a "\"因人而異。Cameron不是小孩子了，我想他分得清什麼對自己好。\""
+    a "“因人而異。Cameron不是小孩子了，我想他分得清什麼對自己好。”"
 
 # game/a1s3.rpy:154
 translate Tchinese a1s3_7699b947:
@@ -586,7 +586,7 @@ translate Tchinese a1s3_68c0bf58:
 translate Tchinese a1s3_3f272c59:
 
     # c "\"{cps=20}Oh shit, {w=0.2}that's crazy.\""
-    c "\"{cps=20}喔操，{w=0.2}我肯定是瘋了。\""
+    c "“{cps=20}喔操，{w=0.2}我肯定是瘋了。”"
 
 # game/a1s3.rpy:177
 translate Tchinese a1s3_6483e954:
@@ -604,7 +604,7 @@ translate Tchinese a1s3_28252bc0:
 translate Tchinese a1s3_5e2590b6:
 
     # c "\"{cps=20}Whoa.\""
-    c "\"{cps=20}哇。\""
+    c "“{cps=20}哇。”"
 
 # game/a1s3.rpy:182
 translate Tchinese a1s3_06d0d0a3:
@@ -772,7 +772,7 @@ translate Tchinese a1s3_e1301017:
 translate Tchinese a1s3_74bb0761:
 
     # a "\"Oh yeah, he's blazed, haha!\""
-    a "\"他回過神來了，哈哈！\""
+    a "“他回過神來了，哈哈！”"
 
 # game/a1s3.rpy:218
 translate Tchinese a1s3_dba960bd:
@@ -784,13 +784,13 @@ translate Tchinese a1s3_dba960bd:
 translate Tchinese a1s3_f62c423b:
 
     # c "\"Huh?\""
-    c "\"嗯？\""
+    c "“嗯？”"
 
 # game/a1s3.rpy:222
 translate Tchinese a1s3_ea3455b4:
 
     # d "\"Babe, you alright?\""
-    d "\"你還好吧，寶貝？\""
+    d "“你還好吧，寶貝？”"
 
 # game/a1s3.rpy:223
 translate Tchinese a1s3_161e5838:
@@ -802,37 +802,37 @@ translate Tchinese a1s3_161e5838:
 translate Tchinese a1s3_0570e3ac:
 
     # c "\"What's wrong?\""
-    c "\"出什麼事了？\""
+    c "“出什麼事了？”"
 
 # game/a1s3.rpy:227
 translate Tchinese a1s3_3a0edea8:
 
     # a "\"I just asked if you're feeling okay, and you were totally spaced out.\""
-    a "\"我剛問了你一句感覺如何，你就不省人事了。\""
+    a "“我剛問了你一句感覺如何，你就不省人事了。”"
 
 # game/a1s3.rpy:229
 translate Tchinese a1s3_c98f2a87:
 
     # d "\"Artie, {w=0.3}just.{cps=4}..{/cps}{w=0.4}stop freaking him out.\""
-    d "\"Artie，{w=0.3}你{cps=4}……{/cps}{w=0.4}別嚇唬他。\""
+    d "“Artie，{w=0.3}你{cps=4}……{/cps}{w=0.4}別嚇唬他。”"
 
 # game/a1s3.rpy:231
 translate Tchinese a1s3_19942e52:
 
     # d "\"Everything's fine, alright, Cameron?\""
-    d "\"一切都很好，對吧，Cameron？\""
+    d "“一切都很好，對吧，Cameron？”"
 
 # game/a1s3.rpy:233
 translate Tchinese a1s3_016e9942:
 
     # c "\"I am fine!{w=0.3} It's you acting like something's wrong that's freaking me out right now.\""
-    c "\"我很好！{w=0.3}你們一臉大事不妙的樣子才真的嚇到我了。\""
+    c "“我很好！{w=0.3}你們一臉大事不妙的樣子才真的嚇到我了。”"
 
 # game/a1s3.rpy:237
 translate Tchinese a1s3_3f685a4a:
 
     # a "\"We are kinda being buzzkills, Devon.{w} You got water?{w=0.3} Let's get him a drink.\""
-    a "\"看來是我倆掃興了，{w}有水嗎，Devon？{w=0.3}給他來點。\""
+    a "“看來是我倆掃興了，{w}有水嗎，Devon？{w=0.3}給他來點。”"
 
 # game/a1s3.rpy:238
 translate Tchinese a1s3_f2c445bc:
@@ -844,7 +844,7 @@ translate Tchinese a1s3_f2c445bc:
 translate Tchinese a1s3_f34a82c8:
 
     # d "\"Sorry, let's get water, okay honey?\""
-    d "\"抱歉。我們去喝水好嗎，親愛的？\""
+    d "“抱歉。我們去喝水好嗎，親愛的？”"
 
 # game/a1s3.rpy:242
 translate Tchinese a1s3_afbc97f6:
@@ -892,13 +892,13 @@ translate Tchinese a1s3_c6b5e425:
 translate Tchinese a1s3_33f98a41:
 
     # c "\"Holy shit, I've never been this high before, and that was a single mouth hit. Oil cartridges are insane.\""
-    c "\"天，我從來沒有這麼嗨過，這還只是抽了一口。煙彈真是太瘋狂了。\""
+    c "“天，我從來沒有這麼嗨過，這還只是抽了一口。煙彈真是太瘋狂了。”"
 
 # game/a1s3.rpy:254
 translate Tchinese a1s3_b7975e8a:
 
     # a "\"Yeah, I swear it gets more potent every year. I'm not surprised it knocked you on your ass.\""
-    a "\"沒錯，而且一年比一年更強。對於你的慘敗我表示毫不意外。\""
+    a "“沒錯，而且一年比一年更強。對於你的慘敗我表示毫不意外。”"
 
 # game/a1s3.rpy:256
 translate Tchinese a1s3_cc6f4610:
@@ -910,13 +910,13 @@ translate Tchinese a1s3_cc6f4610:
 translate Tchinese a1s3_843748ff:
 
     # c "\"How long is the come up? Am I gonna get more high?\""
-    c "\"所以這種狀態會持續多久？我不會繼續嗨上去吧？\""
+    c "“所以這種狀態會持續多久？我不會繼續嗨上去吧？”"
 
 # game/a1s3.rpy:259
 translate Tchinese a1s3_73ec57d5:
 
     # a "\"Only if you take another hit. You want to?\""
-    a "\"除非你再來一口，想挑戰看看嗎？\""
+    a "“除非你再來一口，想挑戰看看嗎？”"
 
 # game/a1s3.rpy:260
 translate Tchinese a1s3_089a12af:
@@ -928,49 +928,49 @@ translate Tchinese a1s3_089a12af:
 translate Tchinese a1s3_3e3cbcd0:
 
     # c "\"Naw, I'm good, just wondering.\""
-    c "\"不了，我只是好奇。\""
+    c "“不了，我只是好奇。”"
 
 # game/a1s3.rpy:264
 translate Tchinese a1s3_36c536ba:
 
     # a "\"So just relax. You'll start coming down within an hour.\""
-    a "\"放輕鬆點就好，這藥效頂多持續一小時。\""
+    a "“放輕鬆點就好，這藥效頂多持續一小時。”"
 
 # game/a1s3.rpy:266
 translate Tchinese a1s3_1bb9f84e:
 
     # c "\"That sounds good. One time I did shrooms and I was stuck in it for eight hours.{w} It felt like forever,{w=0.3} like literally forever.\""
-    c "\"那就好。我有一次被迷幻菇迷了八個小時，{w}簡直像永遠一樣漫長，字面意思上的。\""
+    c "“那就好。我有一次被迷幻菇迷了八個小時，{w}簡直像永遠一樣漫長，字面意思上的。”"
 
 # game/a1s3.rpy:268
 translate Tchinese a1s3_2679d26e:
 
     # a "\"Eugh, no thanks, that shit freaks me out. I'm not into stuff that changes you for good, ya know?\""
-    a "\"噁，別提了，我也怕那東西。我不喜歡能永遠改變一個人的東西，懂我意思吧？\""
+    a "“噁，別提了，我也怕那東西。我不喜歡能永遠改變一個人的東西，懂我意思吧？”"
 
 # game/a1s3.rpy:270
 translate Tchinese a1s3_a5e43d4d:
 
     # c "\"Yeah, it definitely changed me, and not in a good way.{w} I mean,{w=0.3} some people change for the better, but others just kind of end up mentally fucked up, and that was me.\""
-    c "\"是啊，我毫無疑問被它改變了，而且是不好的方面。{w}我是說，{w=0.3}有人可能會變好，但更多人只會精神錯亂，我就屬於後者。\""
+    c "“是啊，我毫無疑問被它改變了，而且是不好的方面。{w}我是說，{w=0.3}有人可能會變好，但更多人只會精神錯亂，我就屬於後者。”"
 
 # game/a1s3.rpy:272
 translate Tchinese a1s3_af1f39c9:
 
     # a "\"No shit, what'd it do?\""
-    a "\"不是吧，什麼情況？\""
+    a "“不是吧，什麼情況？”"
 
 # game/a1s3.rpy:274
 translate Tchinese a1s3_d21a90e0:
 
     # c "\"Just the idea that a few nasty-tasting mushrooms can just change your entire universe makes everything feel... fake, I guess?\""
-    c "\"僅僅幾個味道難聞的蘑菇，就能改變你的整個世界，讓你感覺一切都是……虛假的？\""
+    c "“僅僅幾個味道難聞的蘑菇，就能改變你的整個世界，讓你感覺一切都是……虛假的？”"
 
 # game/a1s3.rpy:275
 translate Tchinese a1s3_117a78c0:
 
     # c "\"Like, everything that makes us who we are, our brain signals, or whatever, can be so easily manipulated.{w} You realize nothing's real, and for my friends that was something that actually motivated them to be better people. For me, I just cared less and less.\""
-    c "\"一切決定我們本質的東西，譬如大腦信號，諸如此類，都能被輕易操縱，{w}你會發現現實的存在毫無意義。對我的朋友們來說，這可以激勵他們成為更好的人。至於我，我只是變得越來越無所謂了。\""
+    c "“一切決定我們本質的東西，譬如大腦信號，諸如此類，都能被輕易操縱，{w}你會發現現實的存在毫無意義。對我的朋友們來說，這可以激勵他們成為更好的人。至於我，我只是變得越來越無所謂了。”"
 
 # game/a1s3.rpy:276
 translate Tchinese a1s3_544d69b7:
@@ -982,7 +982,7 @@ translate Tchinese a1s3_544d69b7:
 translate Tchinese a1s3_808ccb6e:
 
     # c "\"Sure, it opened up my mind, but no one ever tells you that you can't close it when you're done. You can't ever close it.{w} I should have listened when they told me I needed to be in a good place for it to have a good impact on me. I wasn't in a good place at all.\""
-    c "\"的確，它讓我開了竅，可從來沒有人告訴我這之後就再也回不去了。好的影響需要好的天資，{w}我真該聽他們的，我從來都沒有那個資格。\""
+    c "“的確，它讓我開了竅，可從來沒有人告訴我這之後就再也回不去了。好的影響需要好的天資，{w}我真該聽他們的，我從來都沒有那個資格。”"
 
 # game/a1s3.rpy:278
 translate Tchinese a1s3_f733d530:
@@ -1000,13 +1000,13 @@ translate Tchinese a1s3_f36acafe:
 translate Tchinese a1s3_60d10746:
 
     # a "\"Hey, dude, you okay?\""
-    a "\"不要緊吧，老兄？\""
+    a "“不要緊吧，老兄？”"
 
 # game/a1s3.rpy:284
 translate Tchinese a1s3_6f9f4ae9:
 
     # c "\"Um...\""
-    c "\"嗯……\""
+    c "“嗯……”"
 
 # game/a1s3.rpy:288
 translate Tchinese a1s3_953772b9:
@@ -1042,7 +1042,7 @@ translate Tchinese a1s3_e693d3e7:
 translate Tchinese a1s3_794b088e:
 
     # c "\"I'm sorry. {w=0.3}I thought this would help me see ghosts.{w} I don't even know why I did this.{w=0.3} I wasn't mad at you at all.\""
-    c "\"我沒有生你的氣，{w=0.3}我以為大麻能幫我看到鬼，{w}我甚至不知道自己為什麼要這樣做。{w=0.3}對不起。\""
+    c "“我沒有生你的氣，{w=0.3}我以為大麻能幫我看到鬼，{w}我甚至不知道自己為什麼要這樣做。{w=0.3}對不起。”"
 
 # game/a1s3.rpy:299
 translate Tchinese a1s3_6c68ee95:
@@ -1060,7 +1060,7 @@ translate Tchinese a1s3_331a8027:
 translate Tchinese a1s3_292d1a37:
 
     # d "\"Sit down and have some water, honey.\""
-    d "\"先坐下來喝點水，親愛的。\""
+    d "“先坐下來喝點水，親愛的。”"
 
 # game/a1s3.rpy:303
 translate Tchinese a1s3_912ce7bc:
@@ -1072,7 +1072,7 @@ translate Tchinese a1s3_912ce7bc:
 translate Tchinese a1s3_d25d0b98:
 
     # d "\"And food.\""
-    d "\"再吃點東西。\""
+    d "“再吃點東西。”"
 
 # game/a1s3.rpy:306
 translate Tchinese a1s3_7b42c674:
@@ -1090,19 +1090,19 @@ translate Tchinese a1s3_383d85e7:
 translate Tchinese a1s3_b456d12e:
 
     # c "\"Thanks, Devon. I'm sorry I'm such a piece of shit.\""
-    c "\"謝謝你，Devon。{w=0.4}對不起，我就是個白癡。\""
+    c "“謝謝你，Devon。{w=0.4}對不起，我就是個白癡。”"
 
 # game/a1s3.rpy:311
 translate Tchinese a1s3_fb9bc77b:
 
     # d "\"What? {w=0.4}Honey, {w=0.3}where did that come from?\""
-    d "\"啥？{w=0.4}親愛的，{w=0.3}你怎麼可以這樣說自己？\""
+    d "“啥？{w=0.4}親愛的，{w=0.3}你怎麼可以這樣說自己？”"
 
 # game/a1s3.rpy:313
 translate Tchinese a1s3_0a87cc2f:
 
     # c "\"I know that's something you wouldn't say, but I'd rather you tell me when I'm being awful. I don't wanna go back to the way I was.\""
-    c "\"因為我知道你不會說出口。但我寧願你罵我，也不想變回從前那個樣子。\""
+    c "“因為我知道你不會說出口。但我寧願你罵我，也不想變回從前那個樣子。”"
 
 # game/a1s3.rpy:314
 translate Tchinese a1s3_6bfa7953:
@@ -1114,13 +1114,13 @@ translate Tchinese a1s3_6bfa7953:
 translate Tchinese a1s3_47edb3f4:
 
     # a "\"Wow, this got you that fucked up, huh?\""
-    a "\"哇哦，你真是被搞得夠嗆的耶？\""
+    a "“哇哦，你真是被搞得夠嗆的耶？”"
 
 # game/a1s3.rpy:318
 translate Tchinese a1s3_56c13146:
 
     # d "\"That's all you gotta say, Artie?\""
-    d "\"還用得著你說？\""
+    d "“還用得著你說？”"
 
 # game/a1s3.rpy:319
 translate Tchinese a1s3_c89fdace:
@@ -1138,19 +1138,19 @@ translate Tchinese a1s3_6df9ea3d:
 translate Tchinese a1s3_6ba3c561:
 
     # a "\"Still, this is all pretty standard stuff, especially when you got low tolerance. And I'm not trying to be a dick when I say that I'm actually a little jealous.{w} Correct me if I'm wrong, Cam, but it looks cathartic as hell.\""
-    a "\"不過我還是得說，這些東西是完全符合標準的，尤其是對敏感的人而言。雖然這話聽起來混蛋，不過我其實還有點嫉妒來著，{w}你把情緒統統發洩出來了，是吧，Cam？\""
+    a "“不過我還是得說，這些東西是完全符合標準的，尤其是對敏感的人而言。雖然這話聽起來混蛋，不過我其實還有點嫉妒來著，{w}你把情緒統統發洩出來了，是吧，Cam？”"
 
 # game/a1s3.rpy:324
 translate Tchinese a1s3_7cd220ff:
 
     # d "\"You're not being a dick, it's just not a smart thing to say right now, Arturo.\""
-    d "\"你不是個混蛋，Arturo，只是這話放到現在不合適。\""
+    d "“你不是個混蛋，Arturo，只是這話放到現在不合適。”"
 
 # game/a1s3.rpy:326
 translate Tchinese a1s3_f90ab872:
 
     # c "\"Art's right. I feel really in touch with my feelings right now and--\""
-    c "\"Art說的沒錯，我現在充分了解了自己的心情──\""
+    c "“Art說的沒錯，我現在充分了解了自己的心情──”"
 
 # game/a1s3.rpy:327
 translate Tchinese a1s3_1ac26dfe:
@@ -1162,7 +1162,7 @@ translate Tchinese a1s3_1ac26dfe:
 translate Tchinese a1s3_983498d8:
 
     # c "\"{cps=30}Fuck, {w=0.3}that's good...\""
-    c "\"{cps=30}喔靠， {w=0.3}這好好吃……\""
+    c "“{cps=30}喔靠， {w=0.3}這好好吃……”"
 
 # game/a1s3.rpy:331
 translate Tchinese a1s3_b83602e3:
@@ -1192,19 +1192,19 @@ translate Tchinese a1s3_d8f93bae:
 translate Tchinese a1s3_6ac6f003:
 
     # a "\"Hey, let me in on some of that.\""
-    a "\"嘿，讓我也嚐嚐看。\""
+    a "“嘿，讓我也嚐嚐看。”"
 
 # game/a1s3.rpy:339
 translate Tchinese a1s3_8ad66755:
 
     # d "\"Alright, but eat slow. This food is for survival, not for your munchies.\""
-    d "\"好吧，不過省著點吃。這些是救命糧，不是給你當零食的。\""
+    d "“好吧，不過省著點吃。這些是救命糧，不是給你當零食的。”"
 
 # game/a1s3.rpy:341
 translate Tchinese a1s3_c72f4071:
 
     # a "\"We'll be out of here by noon, Dev, relax.\""
-    a "\"放鬆點，Dev，我們中午就撤了。\""
+    a "“放鬆點，Dev，我們中午就撤了。”"
 
 # game/a1s3.rpy:342
 translate Tchinese a1s3_c8b11da6:
@@ -1216,7 +1216,7 @@ translate Tchinese a1s3_c8b11da6:
 translate Tchinese a1s3_9750c8af:
 
     # d "\"Trust me, I'm trying.\""
-    d "\"相信我，我在努力了。\""
+    d "“相信我，我在努力了。”"
 
 # game/a1s3.rpy:350
 translate Tchinese a1s3_c620e113:
@@ -1228,7 +1228,7 @@ translate Tchinese a1s3_c620e113:
 translate Tchinese a1s3_49009c18:
 
     # a "\"Mmmfh, snacks are so much better when you're high versus like, an actual meal, ya know?\""
-    a "\"嗯姆，吸HIGH的時候，零食可比正餐好多了，懂我意思吧？\""
+    a "“嗯姆，吸HIGH的時候，零食可比正餐好多了，懂我意思吧？”"
 
 # game/a1s3.rpy:352
 translate Tchinese a1s3_19c6a40f:
@@ -1240,7 +1240,7 @@ translate Tchinese a1s3_19c6a40f:
 translate Tchinese a1s3_90a609b9:
 
     # d "\"I can't believe this.\""
-    d "\"不敢苟同。\""
+    d "“不敢苟同。”"
 
 # game/a1s3.rpy:354
 translate Tchinese a1s3_e1303127:
@@ -1258,7 +1258,7 @@ translate Tchinese a1s3_3da73017:
 translate Tchinese a1s3_38f07357:
 
     # a "\"Is Devon being a fucking nazi about everything new, or have you been putting up with this for a while? It's weird after knowing how he acted in college.\""
-    a "\"Devon是最近才變得這麼專橫，還是說你一直在忍著？上大學那個時候他可不會這樣。\""
+    a "“Devon是最近才變得這麼專橫，還是說你一直在忍著？上大學那個時候他可不會這樣。”"
 
 # game/a1s3.rpy:357
 translate Tchinese a1s3_f1af7b6c:
@@ -1270,7 +1270,7 @@ translate Tchinese a1s3_f1af7b6c:
 translate Tchinese a1s3_014b3256:
 
     # c "\"I've been doing some dangerous shit during our investigation and Dev is just trying to keep us safe.{w} He's wonderful and I love him.\""
-    c "\"都怪我總在調查中做危險的事，Dev只是想保護我們的安全。{w}他是個好男人，我愛他。\""
+    c "“都怪我總在調查中做危險的事，Dev只是想保護我們的安全。{w}他是個好男人，我愛他。”"
 
 # game/a1s3.rpy:359
 translate Tchinese a1s3_91c89a6d:
@@ -1282,13 +1282,13 @@ translate Tchinese a1s3_91c89a6d:
 translate Tchinese a1s3_92659c22:
 
     # a "\"Oh? You gonna let me in on what's going on between you two? Because I think we can all admit that it's been super awkward so far.\""
-    a "\"哦？你要告訴我你們之間到底發生了什麼嗎？有多尬明眼人都看得出來。\""
+    a "“哦？你要告訴我你們之間到底發生了什麼嗎？有多尬明眼人都看得出來。”"
 
 # game/a1s3.rpy:361
 translate Tchinese a1s3_5df73b69:
 
     # c "\"Hasn't it, though? This must be fuckin' weird for you!\""
-    c "\"就是說啊！你一定很納悶吧？\""
+    c "“就是說啊！你一定很納悶吧？”"
 
 # game/a1s3.rpy:362
 translate Tchinese a1s3_5ec25622:
@@ -1300,13 +1300,13 @@ translate Tchinese a1s3_5ec25622:
 translate Tchinese a1s3_912682ca:
 
     # d "\"It's... just not really something that you need to know about. I know that sounds rude, but--\""
-    d "\"你沒有……知道的必要。我知道這聽起來很沒禮貌，可是──\""
+    d "“你沒有……知道的必要。我知道這聽起來很沒禮貌，可是──”"
 
 # game/a1s3.rpy:364
 translate Tchinese a1s3_f9de195d:
 
     # c "\"I'm psychic.\""
-    c "\"我是靈媒。\""
+    c "“我是靈媒。”"
 
 # game/a1s3.rpy:365
 translate Tchinese a1s3_13706cef:
@@ -1318,13 +1318,13 @@ translate Tchinese a1s3_13706cef:
 translate Tchinese a1s3_f2d96f64:
 
     # a "\"Huh, like, you can see the future, or...?\""
-    a "\"啥，比如，你能預知未來，還是……？\""
+    a "“啥，比如，你能預知未來，還是……？”"
 
 # game/a1s3.rpy:367
 translate Tchinese a1s3_fa62f623:
 
     # c "\"I can see ghosts... and maybe the future, I don't really know how it works. I'm trying to figure it out.\""
-    c "\"我可以看到鬼……也許還有未來吧，具體什麼原理我也不清楚，我還在摸索。\""
+    c "“我可以看到鬼……也許還有未來吧，具體什麼原理我也不清楚，我還在摸索。”"
 
 # game/a1s3.rpy:368
 translate Tchinese a1s3_de746205:
@@ -1336,7 +1336,7 @@ translate Tchinese a1s3_de746205:
 translate Tchinese a1s3_ad0a626b:
 
     # a "\"{cps=20}Duuuude, {/cps}{w=0.3}that's fuckin' awesome!\""
-    a "\"{cps=20}太他媽酷了吧，{/cps}{w=0.3}哥們！\""
+    a "“{cps=20}太他媽酷了吧，{/cps}{w=0.3}哥們！”"
 
 # game/a1s3.rpy:370
 translate Tchinese a1s3_fbc09a67:
@@ -1354,43 +1354,43 @@ translate Tchinese a1s3_e5ea095a:
 translate Tchinese a1s3_6a74c4c0:
 
     # a "\"Shit, {w=0.3}I think my aunt was super psychic.\""
-    a "\"操，{w=0.3}那我姑媽應該是超級靈媒了。\""
+    a "“操，{w=0.3}那我姑媽應該是超級靈媒了。”"
 
 # game/a1s3.rpy:373
 translate Tchinese a1s3_9590796e:
 
     # d "\"Super psychic? {w=0.4}As opposed to what, sorta psychic?\""
-    d "\"超級靈媒？{w=0.4}對照物是什麼，半吊子靈媒？\""
+    d "“超級靈媒？{w=0.4}對照物是什麼，半吊子靈媒？”"
 
 # game/a1s3.rpy:374
 translate Tchinese a1s3_f4fc7389:
 
     # a "\"Naw, she had like, tarot cards, and shit and told half my siblings that were up to shady shit that the cartel was gonna 'disappear' them.\""
-    a "\"不是，她有塔羅牌之類的東西，還跟我的半數兄弟姐妹說他們在做見不得人的事，遲早會被卡特爾給‘滅了’。\"(*卡特爾：某販毒組織)"
+    a "“不是，她有塔羅牌之類的東西，還跟我的半數兄弟姐妹說他們在做見不得人的事，遲早會被卡特爾給‘滅了’。”(*卡特爾：某販毒組織)"
 
 # game/a1s3.rpy:375
 translate Tchinese a1s3_42b33063:
 
     # c "\"Well, did they get disappeared?\""
-    c "\"哎，那他們被‘滅了’嗎？\""
+    c "“哎，那他們被‘滅了’嗎？”"
 
 # game/a1s3.rpy:376
 translate Tchinese a1s3_500dff61:
 
     # a "\"I mean, one died during routine surgery, but the cartel wasn't involved... as far as I know!\""
-    a "\"其中一個死在了手術台上，不過和卡特爾無關……據我所知！\""
+    a "“其中一個死在了手術台上，不過和卡特爾無關……據我所知！”"
 
 # game/a1s3.rpy:377
 translate Tchinese a1s3_468072c6:
 
     # c "\"Ah-ha, that's so sad, I don't know why I laughed...\""
-    c "\"哈──哈，真是個悲傷的故事，可我怎麼這麼想笑呢……\""
+    c "“哈──哈，真是個悲傷的故事，可我怎麼這麼想笑呢……”"
 
 # game/a1s3.rpy:378
 translate Tchinese a1s3_ef7628e8:
 
     # a "\"It's cool, I get it.\""
-    a "\"沒關係，我懂。\""
+    a "“沒關係，我懂。”"
 
 # game/a1s3.rpy:379
 translate Tchinese a1s3_3d518d79:
@@ -1420,13 +1420,13 @@ translate Tchinese a1s3_ad646d05:
 translate Tchinese a1s3_0c9bc6bd:
 
     # c "\"I wanna go for a walk! Everything looks really neat right now.\""
-    c "\"我看東西已經不要緊了，我想去散個步！\""
+    c "“我看東西已經不要緊了，我想去散個步！”"
 
 # game/a1s3.rpy:392
 translate Tchinese a1s3_7c69f7aa:
 
     # a "\"Dope! Let's go see some ghosts!\""
-    a "\"大麻就是這樣的啦！我們去找阿飄吧！\""
+    a "“大麻就是這樣的啦！我們去找阿飄吧！”"
 
 # game/a1s3.rpy:394
 translate Tchinese a1s3_5505307a:
@@ -1480,13 +1480,13 @@ translate Tchinese a1s3_7897bebf:
 translate Tchinese a1s3_cd5e62d0:
 
     # d "\"We should only go as far as the motel. Cam and I had a brush with some gun-toting redneck near the other side of town last night.\""
-    d "\"我們最好只到汽車旅館那裡，我跟Cam昨晚在鎮子另一頭和一個持槍的鄉巴佬發生了點摩擦。\""
+    d "“我們最好只到汽車旅館那裡，我跟Cam昨晚在鎮子另一頭和一個持槍的鄉巴佬發生了點摩擦。”"
 
 # game/a1s3.rpy:415
 translate Tchinese a1s3_a9bf7a5c:
 
     # a "\"Whoa, {w=0.3}really?\""
-    a "\"哇，{w=0.3}真的？\""
+    a "“哇，{w=0.3}真的？”"
 
 # game/a1s3.rpy:416
 translate Tchinese a1s3_c6b5e425_1:
@@ -1498,13 +1498,13 @@ translate Tchinese a1s3_c6b5e425_1:
 translate Tchinese a1s3_4804166a:
 
     # c "\"One yelled at us from really far away and Dev ran so hard he got a gnarly cramp in his thigh.\""
-    c "\"那個人在很遠的地方喊的，嚇得Dev腿都跑抽筋了。\""
+    c "“那個人在很遠的地方喊的，嚇得Dev腿都跑抽筋了。”"
 
 # game/a1s3.rpy:420
 translate Tchinese a1s3_a1382d2b:
 
     # d "\"Again, he had a shotgun.{w} Doesn't that bother you guys?{w=0.3} Artie?\""
-    d "\"我再強調一遍，{w}那傢伙有把獵槍。難道你們不害怕嗎？{w=0.3}Artie？\""
+    d "“我再強調一遍，{w}那傢伙有把獵槍。難道你們不害怕嗎？{w=0.3}Artie？”"
 
 # game/a1s3.rpy:422
 translate Tchinese a1s3_22fe91a7_1:
@@ -1516,49 +1516,49 @@ translate Tchinese a1s3_22fe91a7_1:
 translate Tchinese a1s3_4c0712fe:
 
     # a "\"Meh, I've had guys flash their guns at me on the road because I flipped 'em off.{w} Every one of them is too chickenshit to shoot, and this was even when I flew the 'ol 'Azul y Blanco' on my car.\""
-    a "\"呿，來的路上還有人拿槍指著我呢，不就是被我比了中指嘛。{w}不過那群膽小鬼只會裝裝樣子罷了，白瞎了我車上掛著的‘ol 'Azul y Blanco’（白色和藍色）。\""
+    a "“呿，來的路上還有人拿槍指著我呢，不就是被我比了中指嘛。{w}不過那群膽小鬼只會裝裝樣子罷了，白瞎了我車上掛著的‘ol 'Azul y Blanco’（白色和藍色）。”"
 
 # game/a1s3.rpy:425
 translate Tchinese a1s3_2c1e6094:
 
     # d "\"Well, luckily for you, people here don't even know what that is.\""
-    d "\"那是你走運，這裡的人根本不認識那是什麼。\""
+    d "“那是你走運，這裡的人根本不認識那是什麼。”"
 
 # game/a1s3.rpy:426
 translate Tchinese a1s3_a5695500:
 
     # d "\"Now if I were to mount a Sonoran flag on my jeep while also flipping the bird...{w} Anyway,{w=0.3} I say we stick around this area, no further than the motel.\""
-    d "\"不信你換成索諾蘭旗試試……{w}總之，{w=0.3}我們就待在這附近，別再走遠了。\""
+    d "“不信你換成索諾蘭旗試試……{w}總之，{w=0.3}我們就待在這附近，別再走遠了。”"
 
 # game/a1s3.rpy:428
 translate Tchinese a1s3_7dda9d51:
 
     # c "\"You should be more careful though, Artie. I swear I hear a road rage story every few months where someone gets shot.\""
-    c "\"你應該多加小心，Artie。我每幾個月就會聽到怒路症引發的槍擊事故，不騙人。\""
+    c "“你應該多加小心，Artie。我每幾個月就會聽到怒路症引發的槍擊事故，不騙人。”"
 
 # game/a1s3.rpy:430
 translate Tchinese a1s3_bc69d855:
 
     # a "\"Honestly, Cam, if that's my fork in the road, I say let it happen.{w} You gotta live, and if that involves getting shot on the freeway because you made fun of someone's driving, then so be it.\""
-    a "\"我只能說，順其自然，Cam，{w}你總得從人生的岔路口選一條走下去。嘲諷別人開車爛而挨槍什麼的，這都是命。\""
+    a "“我只能說，順其自然，Cam，{w}你總得從人生的岔路口選一條走下去。嘲諷別人開車爛而挨槍什麼的，這都是命。”"
 
 # game/a1s3.rpy:432
 translate Tchinese a1s3_9acaade8:
 
     # c "\"Is it really a fork in the road if the other option is death?\""
-    c "\"那真的可以稱之為岔路口嗎？即便其他選項通向死亡？\""
+    c "“那真的可以稱之為岔路口嗎？即便其他選項通向死亡？”"
 
 # game/a1s3.rpy:434
 translate Tchinese a1s3_a0bf4e93:
 
     # a "\"Yeah, one of the roads just leads to a dead-end, or something. I dunno, I'm high as hell right now.\""
-    a "\"這個嘛，總有一條道路正好是死胡同，大概。我也不曉得怎麼說，我正嗨著呢。\""
+    a "“這個嘛，總有一條道路正好是死胡同，大概。我也不曉得怎麼說，我正嗨著呢。”"
 
 # game/a1s3.rpy:435
 translate Tchinese a1s3_6cf3b359:
 
     # c "\"I think the metaphor is more appropriate for longer term consequences though.\""
-    c "\"我認為這個比喻更適合長遠結果。\""
+    c "“我認為這個比喻更適合長遠結果。”"
 
 # game/a1s3.rpy:437
 translate Tchinese a1s3_7fa2e154:
@@ -1570,25 +1570,25 @@ translate Tchinese a1s3_7fa2e154:
 translate Tchinese a1s3_cbe4ec70:
 
     # c "\"You know, my mom always talks about her fork in the road being in the fifth grade, and that it lead to her having a shitty life.\""
-    c "\"你知道嗎，我媽總說她該死的一生都是在小學五年級時遇到的一個岔路口導致的。\""
+    c "“你知道嗎，我媽總說她該死的一生都是在小學五年級時遇到的一個岔路口導致的。”"
 
 # game/a1s3.rpy:443
 translate Tchinese a1s3_3149b95d:
 
     # a "\"Seems kinda young to have a decision like that come up.\""
-    a "\"這麼重大的決定是不是來得太早了點。\""
+    a "“這麼重大的決定是不是來得太早了點。”"
 
 # game/a1s3.rpy:444
 translate Tchinese a1s3_a2c6814c:
 
     # c "\"I think she just likes to be able to point at a moment everything went wrong, but anyway, they'd been hyping up this space shuttle launch for months and she'd decided she was going to be an astronaut.\""
-    c "\"我想她只是喜歡自己有自知之明罷了。回到正題，當時正值太空船的熱潮，於是她立志成為一名宇航員。\""
+    c "“我想她只是喜歡自己有自知之明罷了。回到正題，當時正值太空船的熱潮，於是她立志成為一名宇航員。”"
 
 # game/a1s3.rpy:445
 translate Tchinese a1s3_443ec7e1:
 
     # c "\"She went to the public library for the first time in her life to check out books about astrophysics and stuff.\""
-    c "\"她有生以來頭一次去公共圖書館借閱天體物理學相關的書籍。\""
+    c "“她有生以來頭一次去公共圖書館借閱天體物理學相關的書籍。”"
 
 # game/a1s3.rpy:447
 translate Tchinese a1s3_c0a8e3bd:
@@ -1600,25 +1600,25 @@ translate Tchinese a1s3_c0a8e3bd:
 translate Tchinese a1s3_1ea23d6b:
 
     # c "\"Then, while the whole class was watching the liftoff live on TV, it exploded, and even though her teacher turned it off and went about the day like nothing happened, they all knew those astronauts were dead.\""
-    c "\"然後，當著全班同學的面，飛機在發射過程中爆炸了。儘管她的老師馬上關掉了電視，裝作什麼都沒發生，可誰都知道那些宇航員已經活不成了。\""
+    c "“然後，當著全班同學的面，飛機在發射過程中爆炸了。儘管她的老師馬上關掉了電視，裝作什麼都沒發生，可誰都知道那些宇航員已經活不成了。”"
 
 # game/a1s3.rpy:450
 translate Tchinese a1s3_26d9756f:
 
     # c "\"It made her question all her plans and she drifted through life after that, not knowing what she wanted to be anymore.\""
-    c "\"這徹底打亂了她的計劃。此後她漂泊一生，失去了方向。\""
+    c "“這徹底打亂了她的計劃。此後她漂泊一生，失去了方向。”"
 
 # game/a1s3.rpy:452
 translate Tchinese a1s3_20337af4:
 
     # a "\"Damn.{cps=3}..{/cps}{w=0.4} that's fucked up, man.\""
-    a "\"媽的{cps=3}……{/cps}{w=0.4}這也太糟了吧，老兄。\""
+    a "“媽的{cps=3}……{/cps}{w=0.4}這也太糟了吧，老兄。”"
 
 # game/a1s3.rpy:454
 translate Tchinese a1s3_ad7b266b:
 
     # d "\"Do you know why that happened, by the way?\""
-    d "\"順便插一句，你們知道為什麼會這樣嗎？\""
+    d "“順便插一句，你們知道為什麼會這樣嗎？”"
 
 # game/a1s3.rpy:458
 translate Tchinese a1s3_ada80136:
@@ -1630,7 +1630,7 @@ translate Tchinese a1s3_ada80136:
 translate Tchinese a1s3_38e572ac:
 
     # c "\"Why my mom didn't know what to do? It's because she watched clips of smiling, waving astronauts getting on a space shuttle that then exploded live on TV, Devon.\""
-    c "\"我媽為什麼沒有了方向？因為她在電視上看到了宇航員微笑著登上太空船，然後爆炸的畫面。\""
+    c "“我媽為什麼沒有了方向？因為她在電視上看到了宇航員微笑著登上太空船，然後爆炸的畫面。”"
 
 # game/a1s3.rpy:460
 translate Tchinese a1s3_029cf5c4:
@@ -1642,25 +1642,25 @@ translate Tchinese a1s3_029cf5c4:
 translate Tchinese a1s3_f7bace6a:
 
     # d "\"No, I mean why that space shuttle exploded.\""
-    d "\"不，我的意思是太空船為什麼會爆炸。\""
+    d "“不，我的意思是太空船為什麼會爆炸。”"
 
 # game/a1s3.rpy:464
 translate Tchinese a1s3_638540e0:
 
     # c "\"Uh...\""
-    c "\"呃……\""
+    c "“呃……”"
 
 # game/a1s3.rpy:466
 translate Tchinese a1s3_9b30b32c:
 
     # a "\"Because rockets and fuel can cause explosions, right?\""
-    a "\"火箭和燃料不都會引起爆炸嗎？\""
+    a "“火箭和燃料不都會引起爆炸嗎？”"
 
 # game/a1s3.rpy:468
 translate Tchinese a1s3_043e40d9:
 
     # d "\"No, {w=0.4}well, {w=0.3}yeah, {w=0.4}but mainly--\""
-    d "\"不，{w=0.4}好吧，{w=0.3}沒錯，{w=0.4}但最主要的是──\""
+    d "“不，{w=0.4}好吧，{w=0.3}沒錯，{w=0.4}但最主要的是──”"
 
 # game/a1s3.rpy:470
 translate Tchinese a1s3_f26f7945:
@@ -1672,7 +1672,7 @@ translate Tchinese a1s3_f26f7945:
 translate Tchinese a1s3_f27faf0a:
 
     # d "\"It's because they didn't listen to their engineers.{w} You know, the people that stand between you and a pancaked shopping mall, or a freeway bridge collapsing during rush-hour... or an exploding space shuttle.\""
-    d "\"他們沒有聽工程師的話，{w}就是那些擋在你們跟倒塌的購物中心、或是在上班高峰期崩塌的高速公路橋……又或是爆炸的太空船之間的人。\""
+    d "“他們沒有聽工程師的話，{w}就是那些擋在你們跟倒塌的購物中心、或是在上班高峰期崩塌的高速公路橋……又或是爆炸的太空船之間的人。”"
 
 # game/a1s3.rpy:473
 translate Tchinese a1s3_b96c06ec:
@@ -1684,7 +1684,7 @@ translate Tchinese a1s3_b96c06ec:
 translate Tchinese a1s3_e3918d24:
 
     # d "\"ALWAYS listen to your engineer.\""
-    d "\"{b}永遠{/b}記得聽工程師的話。\""
+    d "“{b}永遠{/b}記得聽工程師的話。”"
 
 # game/a1s3.rpy:476
 translate Tchinese a1s3_8b627b93:
@@ -1696,31 +1696,31 @@ translate Tchinese a1s3_8b627b93:
 translate Tchinese a1s3_c672608d:
 
     # a "\"Well, if those engineers were like the ones at Pueblo, I'm willing to bet more people would have listened to them if they didn't act like such know-it-all pricks.\""
-    a "\"嘖，如果他們跟普韋布洛的工程師們一個德行，動不動就鼻子翹上天，我敢說想都別想。\""
+    a "“嘖，如果他們跟普韋布洛的工程師們一個德行，動不動就鼻子翹上天，我敢說想都別想。”"
 
 # game/a1s3.rpy:480
 translate Tchinese a1s3_049cc02c:
 
     # d "\"Someone's still sore from having to drop out of their major.\""
-    d "\"某個被勸退的傢伙開始說風涼話了。\""
+    d "“某個被勸退的傢伙開始說風涼話了。”"
 
 # game/a1s3.rpy:482
 translate Tchinese a1s3_26e3f6a3:
 
     # a "\"Fuck you, too.\""
-    a "\"去你媽的。\""
+    a "“去你媽的。”"
 
 # game/a1s3.rpy:484
 translate Tchinese a1s3_7f80bc55:
 
     # c "\"Hey, come on guys, we're feeling good right now.\""
-    c "\"拜託，兄弟們，不要壞了興致。\""
+    c "“拜託，兄弟們，不要壞了興致。”"
 
 # game/a1s3.rpy:486
 translate Tchinese a1s3_b6d60fac:
 
     # c "\"You know, Artie. I've dated an engineer for five years now. They gotta talk down to you to do their job.\""
-    c "\"知道嗎，Artie，我已經和一個工程師交往五年了。要想讓他們做事，你必須低聲下氣求人家。\""
+    c "“知道嗎，Artie，我已經和一個工程師交往五年了。要想讓他們做事，你必須低聲下氣求人家。”"
 
 # game/a1s3.rpy:487
 translate Tchinese a1s3_508e2f9b:
@@ -1738,7 +1738,7 @@ translate Tchinese a1s3_47fda5c5:
 translate Tchinese a1s3_c30e9d6c:
 
     # d "\"Babe, {w=0.3}I don't talk down to you.{cps=3}..{/cps}{w=0.4} I don't mean to, anyway.\""
-    d "\"我沒有對你擺過架子，{w=0.3}寶貝{cps=3}……{/cps}{w=0.4}至少我不是有意的。\""
+    d "“我沒有對你擺過架子，{w=0.3}寶貝{cps=3}……{/cps}{w=0.4}至少我不是有意的。”"
 
 # game/a1s3.rpy:492
 translate Tchinese a1s3_0f6cdeb9:
@@ -1750,19 +1750,19 @@ translate Tchinese a1s3_0f6cdeb9:
 translate Tchinese a1s3_2e3bdad6:
 
     # c "\"Hey, I'm just kidding. I agree with you: if people let disasters happen because they're too proud to listen to experts, then fuck 'em.{w} Maybe if they had, my mom would be on the space station right now.\""
-    c "\"開玩笑的啦。我同意你的觀點：要是有人驕傲得連專家的話都聽不進去，從而釀成了事故，那就讓他們見鬼去吧。{w}要不是那些傢伙，說不定我媽已經在太空站上了。\""
+    c "“開玩笑的啦。我同意你的觀點：要是有人驕傲得連專家的話都聽不進去，從而釀成了事故，那就讓他們見鬼去吧。{w}要不是那些傢伙，說不定我媽已經在太空站上了。”"
 
 # game/a1s3.rpy:496
 translate Tchinese a1s3_4d0d2418:
 
     # d "\"Maybe. Mistakes happen, though. They remind us to keep our guard up, because it always slips eventually, you know?\""
-    d "\"也許吧，不過失誤是難免的，這也提醒我們必須保持警惕，明白了嗎？\""
+    d "“也許吧，不過失誤是難免的，這也提醒我們必須保持警惕，明白了嗎？”"
 
 # game/a1s3.rpy:498
 translate Tchinese a1s3_8079e083:
 
     # c "\"I think I do.\""
-    c "\"我想我明白。\""
+    c "“我想我明白。”"
 
 # game/a1s3.rpy:500
 translate Tchinese a1s3_ab235439:
@@ -1792,7 +1792,7 @@ translate Tchinese a1s3_15f5d05e:
 translate Tchinese a1s3_a15666ff:
 
     # a "\"You know, it's kind of amazing to think about how you two are still together.\""
-    a "\"說起來，你們兩個走到現在還真是不可思議。\""
+    a "“說起來，你們兩個走到現在還真是不可思議。”"
 
 # game/a1s3.rpy:513
 translate Tchinese a1s3_d9fd07bc:
@@ -1804,55 +1804,55 @@ translate Tchinese a1s3_d9fd07bc:
 translate Tchinese a1s3_5d5afd81:
 
     # d "\"Why's that?\""
-    d "\"為什麼？\""
+    d "“為什麼？”"
 
 # game/a1s3.rpy:517
 translate Tchinese a1s3_383d7080:
 
     # a "\"Well, all our other friends didn't last more than a few years out of college, and if you think about it, you and Cam are probably the biggest opposites out of all those relationships.\""
-    a "\"你看我們那些大學朋友，哪個不是在一起一兩年之後就分了。仔細一想，你和Cam算是其中最另類的了。\""
+    a "“你看我們那些大學朋友，哪個不是在一起一兩年之後就分了。仔細一想，你和Cam算是其中最另類的了。”"
 
 # game/a1s3.rpy:519
 translate Tchinese a1s3_65f62884:
 
     # c "\"I think the most important thing in a relationship is getting along. If you can do that for ninety-nine percent of the time, you're probably set.{w} That, and having different hobbies and spending time apart adds to a healthy relationship.\""
-    c "\"我認為在一段感情中，最重要的是和睦相處。如果兩個人百分之九十九的時間都很融洽，那他們基本上才算穩定。{w}此外，不同的愛好和獨處時間也有利於保持關係的健康。\""
+    c "“我認為在一段感情中，最重要的是和睦相處。如果兩個人百分之九十九的時間都很融洽，那他們基本上才算穩定。{w}此外，不同的愛好和獨處時間也有利於保持關係的健康。”"
 
 # game/a1s3.rpy:521
 translate Tchinese a1s3_32e8fee2:
 
     # a "\"Man, sometimes you sound like a self-help relationship book, or something. Maybe that's why.\""
-    a "\"哈，有時你說起話來像本戀愛指南一樣，說不定這才是原因。\""
+    a "“哈，有時你說起話來像本戀愛指南一樣，說不定這才是原因。”"
 
 # game/a1s3.rpy:523
 translate Tchinese a1s3_8bcfcc71:
 
     # d "\"I think it's just that we're both reasonable people. That's usually all you need.\""
-    d "\"我想只是因為我們通情達理而已，一般做到這點就足夠了。\""
+    d "“我想只是因為我們通情達理而已，一般做到這點就足夠了。”"
 
 # game/a1s3.rpy:525
 translate Tchinese a1s3_61947213:
 
     # a "\"Well, I'm really happy it all worked out. Especially after your first relationship.{w} Honestly, looking back, I was basically setting Cam up to be your rebound.\""
-    a "\"是啊，真高興你們兩個修成正果，尤其是在談過那樣的初戀後。{w}說實話，現在回想起來，我差不多是把Cam當成你的備胎來著。\""
+    a "“是啊，真高興你們兩個修成正果，尤其是在談過那樣的初戀後。{w}說實話，現在回想起來，我差不多是把Cam當成你的備胎來著。”"
 
 # game/a1s3.rpy:527
 translate Tchinese a1s3_d72c76de:
 
     # a "\"I wasn't really meaning to, of course.\""
-    a "\"當然，我不是有意的啦。\""
+    a "“當然，我不是有意的啦。”"
 
 # game/a1s3.rpy:529
 translate Tchinese a1s3_c7f1d5e4:
 
     # d "\"You know, I forgot how you somehow manage to always say the wrong thing at the wrong time, Artie.\""
-    d "\"你不說我都忘了，你總是能在錯誤的時間說出錯誤的話，Artie。\""
+    d "“你不說我都忘了，你總是能在錯誤的時間說出錯誤的話，Artie。”"
 
 # game/a1s3.rpy:531
 translate Tchinese a1s3_17933fb6:
 
     # c "\"Well, it has been a long time, so I'm interested. I just wonder who you were with before me.{w} All you've said is that they were like, a month-long fling.\""
-    c "\"反正是很久以前的事了。不過我有點好奇在我前一個的是個怎樣的人，{w}記得你說他們兩個好像，風流了一個月？\""
+    c "“反正是很久以前的事了。不過我有點好奇在我前一個的是個怎樣的人，{w}記得你說他們兩個好像，風流了一個月？”"
 
 # game/a1s3.rpy:532
 translate Tchinese a1s3_92f750c2:
@@ -1864,19 +1864,19 @@ translate Tchinese a1s3_92f750c2:
 translate Tchinese a1s3_ed273a89:
 
     # a "\"He was a fox. Named Jesús, right, Devon?\""
-    a "\"他是一隻叫Jesús的狐狸，對吧，Devon？\""
+    a "“他是一隻叫Jesús的狐狸，對吧，Devon？”"
 
 # game/a1s3.rpy:535
 translate Tchinese a1s3_70cc8821:
 
     # d "\"I never brought him up because the relationship lasted literally two months.\""
-    d "\"我之所以從不提起他，是因為這段關係僅僅持續了兩個月。\""
+    d "“我之所以從不提起他，是因為這段關係僅僅持續了兩個月。”"
 
 # game/a1s3.rpy:537
 translate Tchinese a1s3_b959510d:
 
     # c "\"A fox, huh?\""
-    c "\"一隻狐狸？\""
+    c "“一隻狐狸？”"
 
 # game/a1s3.rpy:538
 translate Tchinese a1s3_68e32552:
@@ -1888,7 +1888,7 @@ translate Tchinese a1s3_68e32552:
 translate Tchinese a1s3_c94ccdb8:
 
     # a "\"Well yeah, it was short, but when he dumped Dev, like, he went the full chick flick route and laid in bed for a week eating ice cream.{w} I was so worried about him that I set the two of you up.\""
-    a "\"是挺短的，跟言情片一樣。Dev被甩之後在床上吃了足足一星期的冰淇淋，我那叫一個擔心啊，{w}這才撮合了你們兩個。\""
+    a "“是挺短的，跟言情片一樣。Dev被甩之後在床上吃了足足一星期的冰淇淋，我那叫一個擔心啊，{w}這才撮合了你們兩個。”"
 
 # game/a1s3.rpy:542
 translate Tchinese a1s3_1cd15632:
@@ -1900,19 +1900,19 @@ translate Tchinese a1s3_1cd15632:
 translate Tchinese a1s3_01454706:
 
     # d "\"Why did I ever tell you anything in confidence?\""
-    d "\"我是造了什麼孽才會告訴你的？\""
+    d "“我是造了什麼孽才會告訴你的？”"
 
 # game/a1s3.rpy:546
 translate Tchinese a1s3_0c5c55a6:
 
     # a "\"Well, it's more like I saw it. Like, the entire dorm did.\""
-    a "\"全宿舍都看得到好嗎。\""
+    a "“全宿舍都看得到好嗎。”"
 
 # game/a1s3.rpy:548
 translate Tchinese a1s3_5c8d5177:
 
     # c "\"Is that true, Devon?\""
-    c "\"是真的嗎，Devon？\""
+    c "“是真的嗎，Devon？”"
 
 # game/a1s3.rpy:549
 translate Tchinese a1s3_732d9384:
@@ -1924,7 +1924,7 @@ translate Tchinese a1s3_732d9384:
 translate Tchinese a1s3_045cf782:
 
     # c "\"You seemed so put together when I first met you.\""
-    c "\"我第一次見你的時候，你還蠻有精神的。\""
+    c "“我第一次見你的時候，你還蠻有精神的。”"
 
 # game/a1s3.rpy:551
 translate Tchinese a1s3_1d8d70ee:
@@ -1936,43 +1936,43 @@ translate Tchinese a1s3_1d8d70ee:
 translate Tchinese a1s3_43281921:
 
     # d "\"It wasn't you that set us up. You mentioned me to your girlfriend's friend who happened to be Cameron's friend. She set us up.\""
-    d "\"撮合我們倆的不是你。你跟你女朋友的朋友提到了我，而她恰好認識Cameron。是她撮合了我們。\""
+    d "“撮合我們倆的不是你。你跟你女朋友的朋友提到了我，而她恰好認識Cameron。是她撮合了我們。”"
 
 # game/a1s3.rpy:554
 translate Tchinese a1s3_6740eee6:
 
     # a "\"Yeah, yeah, you can word it how you like, but if I didn't remember them mentioning the 'super hot guitar coyote, too bad he's gay' dude, who knows where you'd be now?\""
-    a "\"是，是，隨你怎麼說吧。但要不是我記得她們提到過一個‘彈吉他的帥氣小哥，可惜是彎的’的郊狼，誰知道你現在在哪裡涼快呢？\""
+    a "“是，是，隨你怎麼說吧。但要不是我記得她們提到過一個‘彈吉他的帥氣小哥，可惜是彎的’的郊狼，誰知道你現在在哪裡涼快呢？”"
 
 # game/a1s3.rpy:556
 translate Tchinese a1s3_06a3a620:
 
     # c "\"Ah, yeah, that's me.\""
-    c "\"啊，沒錯，就是我。\""
+    c "“啊，沒錯，就是我。”"
 
 # game/a1s3.rpy:558
 translate Tchinese a1s3_f007111e:
 
     # a "\"And less than a week later, I knew it worked because I walked in on the two of you fucking.\""
-    a "\"而且不到一個星期，我就知道這事成了。因為我剛好撞見你們兩個在打炮。\""
+    a "“而且不到一個星期，我就知道這事成了。因為我剛好撞見你們兩個在打炮。”"
 
 # game/a1s3.rpy:560
 translate Tchinese a1s3_02c5e686:
 
     # c "\"Oh god, why are you bringing that up?\""
-    c "\"喔尬，為什麼要讓我想起來？\""
+    c "“喔尬，為什麼要讓我想起來？”"
 
 # game/a1s3.rpy:562
 translate Tchinese a1s3_21b64bff:
 
     # d "\"Yeah, why?\""
-    d "\"沒錯，為什麼？\""
+    d "“沒錯，為什麼？”"
 
 # game/a1s3.rpy:564
 translate Tchinese a1s3_4b76a309:
 
     # a "\"Because it was funny. Besides, I walked in on like, a dozen people going at it at some point.{w} Hell, back when the university library was open 24/7, you had a fifty-fifty chance of walking in on a pair of rats getting it on at 2 A.M.\""
-    a "\"多好玩啊，再說了，跟你們一樣想法的人隨便一抓就是一大把吶。{w}大學圖書館全年無休那段時間，半夜兩點的時候，你有百分之五十的機率在裡面撞見卿卿我我的狗男女，真是的。\""
+    a "“多好玩啊，再說了，跟你們一樣想法的人隨便一抓就是一大把吶。{w}大學圖書館全年無休那段時間，半夜兩點的時候，你有百分之五十的機率在裡面撞見卿卿我我的狗男女，真是的。”"
 
 # game/a1s3.rpy:565
 translate Tchinese a1s3_4349b4d6:
@@ -2140,19 +2140,19 @@ translate Tchinese a1s3_31a211eb:
 translate Tchinese a1s3_22523ade:
 
     # d "\"Alright! Ready to head out?\""
-    d "\"好啦！準備好出發了嗎？\""
+    d "“好啦！準備好出發了嗎？”"
 
 # game/a1s3.rpy:608
 translate Tchinese a1s3_498a6a45:
 
     # a "\"Man, we didn't even find anything scary.\""
-    a "\"完全不嚇人嘛，老兄。\""
+    a "“完全不嚇人嘛，老兄。”"
 
 # game/a1s3.rpy:610
 translate Tchinese a1s3_b2c076d3:
 
     # d "\"You don't look for scary things, you let them happen, and nothing happened, so...\""
-    d "\"只要你不去主動招惹他們，就什麼也不會發生，所以……\""
+    d "“只要你不去主動招惹他們，就什麼也不會發生，所以……”"
 
 # game/a1s3.rpy:611
 translate Tchinese a1s3_c71095b8:
@@ -2164,7 +2164,7 @@ translate Tchinese a1s3_c71095b8:
 translate Tchinese a1s3_18675062:
 
     # c "\"Hey Dev, please don't be mad at me.\""
-    c "\"Dev，請不要生我的氣。\""
+    c "“Dev，請不要生我的氣。”"
 
 # game/a1s3.rpy:615
 translate Tchinese a1s3_9411f80f:
@@ -2176,43 +2176,43 @@ translate Tchinese a1s3_9411f80f:
 translate Tchinese a1s3_f67b7a4f:
 
     # a "\"Aw, you guys gonna fight again?\""
-    a "\"哎，你們又要吵了？\""
+    a "“哎，你們又要吵了？”"
 
 # game/a1s3.rpy:619
 translate Tchinese a1s3_93e235a8:
 
     # c "\"Can I have five minutes alone, please?\""
-    c "\"能讓我單獨待五分鐘嗎，求你了？\""
+    c "“能讓我單獨待五分鐘嗎，求你了？”"
 
 # game/a1s3.rpy:621
 translate Tchinese a1s3_e4927efc:
 
     # d "\"No.\""
-    d "\"不能。\""
+    d "“不能。”"
 
 # game/a1s3.rpy:623
 translate Tchinese a1s3_60b1261d:
 
     # c "\"Just five minutes, I swear, and we'll be done!\""
-    c "\"只要五分鐘，然後我們就走，我發誓！\""
+    c "“只要五分鐘，然後我們就走，我發誓！”"
 
 # game/a1s3.rpy:625
 translate Tchinese a1s3_0f9754a3:
 
     # d "\"Cameron...\""
-    d "\"Cameron……\""
+    d "“Cameron……”"
 
 # game/a1s3.rpy:626
 translate Tchinese a1s3_2e77109f:
 
     # c "\"I can feel something. I don't know what, but you guys are making it hard to hear.\""
-    c "\"我能感覺到一些東西。我不確定那是什麼，但有你們在我聽不清。\""
+    c "“我能感覺到一些東西。我不確定那是什麼，但有你們在我聽不清。”"
 
 # game/a1s3.rpy:628
 translate Tchinese a1s3_b46be7ad:
 
     # d "\"Cameron, the motel is right there. I'm not leaving you here.\""
-    d "\"Cameron，汽車旅館就在旁邊，我絕不會把你一個人留在這裡的。\""
+    d "“Cameron，汽車旅館就在旁邊，我絕不會把你一個人留在這裡的。”"
 
 # game/a1s3.rpy:629
 translate Tchinese a1s3_91443abc:
@@ -2230,13 +2230,13 @@ translate Tchinese a1s3_9f39f9a5:
 translate Tchinese a1s3_40eefcb2:
 
     # a "\"Not to butt in, but how about this: me and Dev stand at the end of the road over there so we can see you, then we can make sure nothing bad happens.\""
-    a "\"別怪我插嘴，要不這樣吧：我跟Dev站在路頭那邊，這樣既可以看著你，也可以確保不會發生什麼不好的事。\""
+    a "“別怪我插嘴，要不這樣吧：我跟Dev站在路頭那邊，這樣既可以看著你，也可以確保不會發生什麼不好的事。”"
 
 # game/a1s3.rpy:634
 translate Tchinese a1s3_0f55af2d:
 
     # c "\"Please, Dev? I just really need to figure something out and it's gonna bother me forever if I don't. Please?\""
-    c "\"求你了，Dev？我真的需要一個答案，不然我會後悔一輩子的，求你了？\""
+    c "“求你了，Dev？我真的需要一個答案，不然我會後悔一輩子的，求你了？”"
 
 # game/a1s3.rpy:636
 translate Tchinese a1s3_3d8f5a08:
@@ -2254,13 +2254,13 @@ translate Tchinese a1s3_2dbd21d4:
 translate Tchinese a1s3_1dd5d39f:
 
     # d "\"Is.{cps=3}..{/cps}{w=0.4} is what you're doing safe? {w=0.4}Could it hurt you?\""
-    d "\"你{cps=3}……{/cps}{w=0.4}在做的事情安全嗎？{w=0.4}會傷到自己嗎？\""
+    d "“你{cps=3}……{/cps}{w=0.4}在做的事情安全嗎？{w=0.4}會傷到自己嗎？”"
 
 # game/a1s3.rpy:640
 translate Tchinese a1s3_31d749fa:
 
     # c "\"...I don't know, I don't think so.{w} It has more to do with me than ghosts, though.\""
-    c "\"……我不知道，但應該不會。{w}相較於鬼魂，這和我本身關係的更大，比較棘手。\""
+    c "“……我不知道，但應該不會。{w}相較於鬼魂，這和我本身關係的更大，比較棘手。”"
 
 # game/a1s3.rpy:642
 translate Tchinese a1s3_500bd22c:
@@ -2272,13 +2272,13 @@ translate Tchinese a1s3_500bd22c:
 translate Tchinese a1s3_7542d9e2:
 
     # d "\"Okay, we'll be up the road. Please be careful, and yell if you need us.\""
-    d "\"好吧，我們就在路邊。需要幫助記得叫我們，一定要注意安全。\""
+    d "“好吧，我們就在路邊。需要幫助記得叫我們，一定要注意安全。”"
 
 # game/a1s3.rpy:644
 translate Tchinese a1s3_29487ef6:
 
     # c "\"Okay. Thank you.\""
-    c "\"我知道了，謝謝你。\""
+    c "“我知道了，謝謝你。”"
 
 # game/a1s3.rpy:645
 translate Tchinese a1s3_3a64f9fc:
@@ -2320,7 +2320,7 @@ translate Tchinese a1s3_e5ff8e42:
 translate Tchinese a1s3_7be23bf6:
 
     # "{i}\"{cps=20}Meaning in nothing.\"{/i}"
-    "\"{b}毫無意義。{/b}\""
+    "“{b}毫無意義。{/b}”"
 
 # game/a1s3.rpy:658
 translate Tchinese a1s3_1c2e1984:
@@ -2686,7 +2686,7 @@ translate Tchinese a1s3_165f227b:
 translate Tchinese a1s3_a198837e:
 
     # c "\"Oh dammit, {w=0.3}dammit. {w=0.4}What am I doing?\""
-    c "\"喔操，{w=0.3}操。我究竟在做什麼啊？\""
+    c "“喔操，{w=0.3}操。我究竟在做什麼啊？”"
 
 # game/a1s3.rpy:735
 translate Tchinese a1s3_e319bbd5:
@@ -2704,19 +2704,19 @@ translate Tchinese a1s3_92af4980:
 translate Tchinese a1s3_7752940f:
 
     # a "\"So, {w=0.3}uh, {w=0.4}what's the deal, man?\""
-    a "\"那個……{w=0.3}呃，{w=0.4}怎麼搞的，老兄？\""
+    a "“那個……{w=0.3}呃，{w=0.4}怎麼搞的，老兄？”"
 
 # game/a1s3.rpy:747
 translate Tchinese a1s3_c33b6c4a:
 
     # d "\"Hm?\""
-    d "\"嗯？\""
+    d "“嗯？”"
 
 # game/a1s3.rpy:748
 translate Tchinese a1s3_f94f00e1:
 
     # a "\"You know what I'm talking about. What happened?{w} Did he see some fucked up shit earlier, because you seem really, really worried--\""
-    a "\"你懂我意思吧，發生什麼事了？{w}他之前是不是看到什麼不乾淨的東西了？你急得像──\""
+    a "“你懂我意思吧，發生什麼事了？{w}他之前是不是看到什麼不乾淨的東西了？你急得像──”"
 
 # game/a1s3.rpy:750
 translate Tchinese a1s3_45683df8:
@@ -2728,13 +2728,13 @@ translate Tchinese a1s3_45683df8:
 translate Tchinese a1s3_51f04092:
 
     # a "\"HEY! {w=0.3}WHAT THE FUCK!?\""
-    a "\"{b}嘿！{w=0.3}搞什麼！？{/b}\""
+    a "“{b}嘿！{w=0.3}搞什麼！？{/b}”"
 
 # game/a1s3.rpy:754
 translate Tchinese a1s3_c79d4f9f:
 
     # d "\"Ah!\""
-    d "\"哇！\""
+    d "“哇！”"
 
 # game/a1s3.rpy:756
 translate Tchinese a1s3_c04c6a1d:
@@ -2770,7 +2770,7 @@ translate Tchinese a1s3_fb7b49d4:
 translate Tchinese a1s3_7a9037b0:
 
     # a "\"Ah! {w=0.3}Fuck, {w=0.3}son of a bitch!\""
-    a "\"啊！{w=0.3}幹，{w=0.3}你個狗娘養的！\""
+    a "“啊！{w=0.3}幹，{w=0.3}你個狗娘養的！”"
 
 # game/a1s3.rpy:764
 translate Tchinese a1s3_1c042a2a:
@@ -2782,7 +2782,7 @@ translate Tchinese a1s3_1c042a2a:
 translate Tchinese a1s3_8edfc44a:
 
     # d "\"HEY!\""
-    d "\"{b}嘿！{/b}\""
+    d "“{b}嘿！{/b}”"
 
 # game/a1s3.rpy:768
 translate Tchinese a1s3_1d15b34a:
@@ -2794,7 +2794,7 @@ translate Tchinese a1s3_1d15b34a:
 translate Tchinese a1s3_1cdeefda:
 
     # unk "\"Hey.\""
-    unk "\"嘿。\""
+    unk "“嘿。”"
 
 # game/a1s3.rpy:770
 translate Tchinese a1s3_e68447c5:
@@ -2818,13 +2818,13 @@ translate Tchinese a1s3_4fe18767:
 translate Tchinese a1s3_dedf0f27:
 
     # d "\"You can't just fucking do that, man! What are you doing!?\""
-    d "\"你在做什麼！？你瘋了嗎老兄？\""
+    d "“你在做什麼！？你瘋了嗎老兄？”"
 
 # game/a1s3.rpy:775
 translate Tchinese a1s3_8cc961af:
 
     # unk "\"Adjustin' things.\""
-    unk "\"做些改裝。\""
+    unk "“做些改裝。”"
 
 # game/a1s3.rpy:776
 translate Tchinese a1s3_4b9c97f1:
@@ -2842,7 +2842,7 @@ translate Tchinese a1s3_5a65c75d:
 translate Tchinese a1s3_5f1324d7:
 
     # d "\"Why!? {w=0.3}Give me th--\""
-    d "\"憑什麼！？{w=0.3}快還回──\""
+    d "“憑什麼！？{w=0.3}快還回──”"
 
 # game/a1s3.rpy:779
 translate Tchinese a1s3_eda4a158:
@@ -2890,7 +2890,7 @@ translate Tchinese a1s3_de6aa8bf:
 translate Tchinese a1s3_572ab5d4:
 
     # d "\"{cps=20}Nyuuuuuuhhhhh....\""
-    d "\"{cps=20}哈，哈，哈，哈……\""
+    d "“{cps=20}哈，哈，哈，哈……”"
 
 # game/a1s3.rpy:799
 translate Tchinese a1s3_6e9bef23:
@@ -2908,7 +2908,7 @@ translate Tchinese a1s3_c652e0fa:
 translate Tchinese a1s3_eefae1e4:
 
     # unk "\"How was that, fatass?\""
-    unk "\"吃到教訓了嗎，死肥仔？\""
+    unk "“吃到教訓了嗎，死肥仔？”"
 
 # game/a1s3.rpy:803
 translate Tchinese a1s3_77f1b5b4:
@@ -2920,13 +2920,13 @@ translate Tchinese a1s3_77f1b5b4:
 translate Tchinese a1s3_2e316503:
 
     # a "\"Holy hell, man! {w=0.3}What the fuck is your problem!?\""
-    a "\"你他媽！{w=0.3}找碴是不是！？\""
+    a "“你他媽！{w=0.3}找碴是不是！？”"
 
 # game/a1s3.rpy:805
 translate Tchinese a1s3_1921386b:
 
     # unk "\"Oh, you wanna know?\""
-    unk "\"哦，你想知道？\""
+    unk "“哦，你想知道？”"
 
 # game/a1s3.rpy:806
 translate Tchinese a1s3_9f99f7fe:
@@ -2938,7 +2938,7 @@ translate Tchinese a1s3_9f99f7fe:
 translate Tchinese a1s3_245f8eff:
 
     # unk "\"I have a problem with sick FUCKS like you two dicking around in this place because you think it's funny.\""
-    unk "\"老子就是{b}不爽{/b}你們兩個白癡因為認為這很有趣，就在這裡胡搞瞎搞。\""
+    unk "“老子就是{b}不爽{/b}你們兩個白癡因為認為這很有趣，就在這裡胡搞瞎搞。”"
 
 # game/a1s3.rpy:814
 translate Tchinese a1s3_5a64c932:
@@ -2950,7 +2950,7 @@ translate Tchinese a1s3_5a64c932:
 translate Tchinese a1s3_291a1877:
 
     # unk "\"Where were you five years ago, huh? Back home with mommy and daddy, livin' in your middle-class houses?{w} Thought you'd come out and see what the crazy methheads are up to, how they all killed each other?\""
-    unk "\"五年前你們人呢，啊？躲爸媽懷裡去了？{w}現在想起從溫室裡出來，看我們這幫瘋子窩裡鬥了蛤？\""
+    unk "“五年前你們人呢，啊？躲爸媽懷裡去了？{w}現在想起從溫室裡出來，看我們這幫瘋子窩裡鬥了蛤？”"
 
 # game/a1s3.rpy:816
 translate Tchinese a1s3_3bfd2bab:
@@ -2968,7 +2968,7 @@ translate Tchinese a1s3_9f25cce2:
 translate Tchinese a1s3_f7fb6c01:
 
     # unk "\"Is this still fun?\""
-    unk "\"還好玩嗎？\""
+    unk "“還好玩嗎？”"
 
 # game/a1s3.rpy:819
 translate Tchinese a1s3_af092bd6:
@@ -2980,13 +2980,13 @@ translate Tchinese a1s3_af092bd6:
 translate Tchinese a1s3_ee9fa44b:
 
     # a "\"Dude, {w=0.3}listen. {w=0.4}We didn't mean--\""
-    a "\"聽著，老{w=0.3}兄，{w=0.4}我們不是──\""
+    a "“聽著，老{w=0.3}兄，{w=0.4}我們不是──”"
 
 # game/a1s3.rpy:821
 translate Tchinese a1s3_1a8c0c2e:
 
     # unk "\"You listen, {i}dude{/i}. I gave you assholes a whole fucking day to get the fuck out, but you're still here.{w} Since you're so goddamn comfortable, hope you don't mind bein' stuck here for good.\""
-    unk "\"你給我聽著，{b}老兄{/b}。我給了一整天時間讓你們滾蛋，你們非但不領情，還他媽挺快活的。{w}既然如此，希望你們別介意一輩子被困在這裡。\""
+    unk "“你給我聽著，{b}老兄{/b}。我給了一整天時間讓你們滾蛋，你們非但不領情，還他媽挺快活的。{w}既然如此，希望你們別介意一輩子被困在這裡。”"
 
 # game/a1s3.rpy:824
 translate Tchinese a1s3_728e0dd8:
@@ -2998,13 +2998,13 @@ translate Tchinese a1s3_728e0dd8:
 translate Tchinese a1s3_f310b633:
 
     # a "\"{cps=20}Holy shit...\""
-    a "\"{cps=20}我的天……\""
+    a "“{cps=20}我的天……”"
 
 # game/a1s3.rpy:827
 translate Tchinese a1s3_5962bbbf:
 
     # unk "\"It's a seven mile walk to the freeway. I suggest you leave the moment it gets cool. And that's friendly advice: there's much worse out here than me, you stupid fucks.\""
-    unk "\"到高速公路要走七英里，我建議你們天氣一涼就出發。再給你們這些蠢貨一個忠告：真正的惡人還在後頭吶。\""
+    unk "“到高速公路要走七英里，我建議你們天氣一涼就出發。再給你們這些蠢貨一個忠告：真正的惡人還在後頭吶。”"
 
 # game/a1s3.rpy:828
 translate Tchinese a1s3_f41caa42:
@@ -3016,7 +3016,7 @@ translate Tchinese a1s3_f41caa42:
 translate Tchinese a1s3_446c7d53:
 
     # d "\"Fuuuck, man. What did he do?\""
-    d "\"可惡，他做了什麼？\""
+    d "“可惡，他做了什麼？”"
 
 # game/a1s3.rpy:831
 translate Tchinese a1s3_0bcc3b8e:
@@ -3028,19 +3028,19 @@ translate Tchinese a1s3_0bcc3b8e:
 translate Tchinese a1s3_6f6f3cda:
 
     # a "\"I can't fucking believe this!\""
-    a "\"我真他媽的不敢相信！\""
+    a "“我真他媽的不敢相信！”"
 
 # game/a1s3.rpy:834
 translate Tchinese a1s3_1bd1e00b:
 
     # d "\"Hang on, I'm getting Cam.\""
-    d "\"堅持住，我去找Cam。\""
+    d "“堅持住，我去找Cam。”"
 
 # game/a1s3.rpy:835
 translate Tchinese a1s3_2c553e17:
 
     # a "\"Alright, man. I'll see if this thing is even worth coming back for.\""
-    a "\"好，我去檢查車子還值不值得你們回來。\""
+    a "“好，我去檢查車子還值不值得你們回來。”"
 
 # game/a1s3.rpy:838
 translate Tchinese a1s3_7357e22f:
@@ -3064,7 +3064,7 @@ translate Tchinese a1s3_dab8b248:
 translate Tchinese a1s3_418c7605:
 
     # d "\"Cameron!?\""
-    d "\"Cameron！？\""
+    d "“Cameron！？”"
 
 # game/a1s3.rpy:844
 translate Tchinese a1s3_8772f86e:
@@ -3076,7 +3076,7 @@ translate Tchinese a1s3_8772f86e:
 translate Tchinese a1s3_1ee0909f:
 
     # d "\"CAMERON!\""
-    d "\"{b}CAMERON！{/b}\""
+    d "“{b}CAMERON！{/b}”"
 
 # game/a1s3.rpy:847
 translate Tchinese a1s3_3512255f:
@@ -3114,11 +3114,11 @@ translate Tchinese a1s3_90776cee:
 translate Tchinese a1s3_22a34cb3:
 
     # d "\"It was in the middle of the night!\""
-    d "\"It was in the middle of the night!\""
+    d "“當時正值午夜啊！”"
 
 # game/a1s3.rpy:372
 translate Tchinese a1s3_05e90a5f:
 
     # d "\"Super psychic? {w=0.3}As opposed to what, sorta psychic?\""
-    d "\"Super psychic? {w=0.3}As opposed to what, sorta psychic?\""
+    d "\"超級靈媒？{w=0.4}對比什麼的，半吊子靈媒？\""
 

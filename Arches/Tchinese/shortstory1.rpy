@@ -298,7 +298,7 @@ translate Tchinese shortstory1_1044f0f1:
 translate Tchinese shortstory1_9ded35d7:
 
     # dev ".{cps=2}..{/cps}{w=0.5}But would you at least tell me if you see something that might... be important to me."
-    dev "…{cps=2}…{/cps}{w=0.5}能不能請你至少在看到……也許對我來說很……重要的東西時告訴我一聲？"
+    dev "……{cps=2}……{/cps}{w=0.5}能不能請你至少在看到……也許對我來說很……重要的東西時告訴我一聲？"
 
 # game/shortstory1.rpy:154
 translate Tchinese shortstory1_fb823d25:
