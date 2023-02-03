@@ -250,7 +250,7 @@ translate Tchinese a2s1_dab429e0:
 translate Tchinese a2s1_c077af16:
 
     # "But... there are some connections, and he can't deny that {i}something{/i} about the whole situation is off."
-    "但……他這麼想不是沒有根據的，肯定有{b}哪裡{/b}不對勁。"
+    "但……他這麼想不是沒有根據的，肯定有{i}哪裡{/i}不對勁。"
 
 # game/a2s1.rpy:53
 translate Tchinese a2s1_3dbb588a:
@@ -292,7 +292,7 @@ translate Tchinese a2s1_84104112:
 translate Tchinese a2s1_0241ded1:
 
     # "{i}\"{cps=30}Something is wrong.\"{/i}"
-    "{b}“{cps=30}哪裡{/b}不對勁。”{/b}"
+    "{i}“{cps=30}哪裡{/b}不對勁。”{/i}"
 
 # game/a2s1.rpy:61
 translate Tchinese a2s1_cc50fd86:
@@ -478,7 +478,7 @@ translate Tchinese a2s1_bff0128e:
 translate Tchinese a2s1_de9dd35a:
 
     # "{i}\"What{/i} are {i}you talking about?\"{/i}"
-    "{b}“你{/b}在{b}說什麼？”{/b}"
+    "{i}“你{/i}在{i}說什麼？”{/i}"
 
 # game/a2s1.rpy:110
 translate Tchinese a2s1_7949993b:
@@ -520,7 +520,7 @@ translate Tchinese a2s1_3f3f71d7:
 translate Tchinese a2s1_fe9adaa8:
 
     # "{i}{cps=30}Something happened...{w=0.4} It's a little complicated...{/i}"
-    "{b}{cps=30}出了點意外……{w=0.4}事情有些複雜……{/b}"
+    "{i}{cps=30}出了點意外……{w=0.4}事情有些複雜……{/i}"
 
 # game/a2s1.rpy:117
 translate Tchinese a2s1_bad620e9:
@@ -580,7 +580,7 @@ translate Tchinese a2s1_fac934de:
 translate Tchinese a2s1_e275dcf5:
 
     # "{i}You tell me, Devon.{/i}"
-    "{b}你告訴我，Devon。{/b}"
+    "{i}你告訴我，Devon。{/i}"
 
 # game/a2s1.rpy:127
 translate Tchinese a2s1_8fbc8fd9:
@@ -700,7 +700,7 @@ translate Tchinese a2s1_273b2780:
 translate Tchinese a2s1_9579c5e0:
 
     # d "\"What the {i}fuck{/i}?\""
-    d "“{b}怎麼{/b}搞得？”"
+    d "“{i}怎麼{/i}搞得？”"
 
 # game/a2s1.rpy:156
 translate Tchinese a2s1_79b83c63:
@@ -1156,7 +1156,7 @@ translate Tchinese a2s1_dadb6a3c:
 translate Tchinese a2s1_7c6ea42d:
 
     # d "\"You fucking {i}know{/i} he has problems, was on medication in college, and you just let him get stoned!?\""
-    d "“你他媽{b}明知{/b}他有精神問題和服藥史，還給他大麻？！”"
+    d "“你他媽{i}明知{/i}他有精神問題和服藥史，還給他大麻？！”"
 
 # game/a2s1.rpy:287
 translate Tchinese a2s1_2846f365:
@@ -1312,7 +1312,7 @@ translate Tchinese a2s1_2d156015:
 translate Tchinese a2s1_01da58f9:
 
     # "{i}\"{cps=30}Nowhere.\"{/i}"
-    "{b}“哪裡都不在。”{/b}"
+    "{i}“哪裡都不在。”{/i}"
 
 # game/a2s1.rpy:331
 translate Tchinese a2s1_d6da4bad:
@@ -1366,7 +1366,7 @@ translate Tchinese a2s1_d217ae2a:
 translate Tchinese a2s1_e9fdefe1:
 
     # "Devon would never do that, {w=0.4}would never {i}think{/i} to do that."
-    "Devon永遠不會那樣做，{w=0.4}也永遠不會{b}想{/b}那樣做。"
+    "Devon永遠不會那樣做，{w=0.4}也永遠不會{i}想{/i}那樣做。"
 
 # game/a2s1.rpy:341
 translate Tchinese a2s1_cd7f363f:
@@ -1606,7 +1606,7 @@ translate Tchinese a2s1_fb70ab3e:
 translate Tchinese a2s1_76128f65:
 
     # "While the shadow creature in the forest had been strange, he hadn't {i}seen{/i} it, he only heard someone recounting it."
-    "儘管森林裡的影子怪物已經夠離奇了，但他並沒有{b}看見{/b}，只是聽到他人講述。"
+    "儘管森林裡的影子怪物已經夠離奇了，但他並沒有{i}看見{/i}，只是聽到他人講述。"
 
 # game/a2s1.rpy:407
 translate Tchinese a2s1_43b3c79f:
@@ -1660,19 +1660,19 @@ translate Tchinese a2s1_6f08abff:
 translate Tchinese a2s1_cce0e7df:
 
     # "\"{cps=25}{i}...singing, {w=0.5}they sang...\"{/i}"
-    "“{cps=25}{b}……唱啊，{w=0.5}他們歌唱……”{/b}"
+    "“{cps=25}{i}……唱啊，{w=0.5}他們歌唱……”{/i}"
 
 # game/a2s1.rpy:417
 translate Tchinese a2s1_3077a361:
 
     # "\"{cps=25}{i}...sins of cities are always...\"{/i}"
-    "“{cps=25}{b}……世人皆有罪……”{/b}"
+    "“{cps=25}{i}……世人皆有罪……”{/i}"
 
 # game/a2s1.rpy:418
 translate Tchinese a2s1_64c0320f:
 
     # "\"{cps=25}{i}...you piece of shit, {w=0.5}stop doing...\"{/i}"
-    "“{cps=25}{b}……你個賤人，{w=0.5}還不住……”{/b}"
+    "“{cps=25}{i}……你個賤人，{w=0.5}還不住……”{/i}"
 
 # game/a2s1.rpy:420
 translate Tchinese a2s1_c3524eac:
@@ -1732,7 +1732,7 @@ translate Tchinese a2s1_57745346:
 translate Tchinese a2s1_16c09675:
 
     # "\"{cps=25}{i}It's something we should see, {w=0.3}you think you're special, {w=0.3}stupid shit...\"{/i}"
-    "“{cps=25}{b}我們早該料到的，{w=0.3}你這個自命不凡的{w=0.3}賤種……”{/b}"
+    "“{cps=25}{i}我們早該料到的，{w=0.3}你這個自命不凡的{w=0.3}賤種……”{/i}"
 
 # game/a2s1.rpy:434
 translate Tchinese a2s1_d5c71a29:
@@ -1786,7 +1786,7 @@ translate Tchinese a2s1_046be644:
 translate Tchinese a2s1_c8e58515:
 
     # "\"{cps=25}{i}...you stupid...\"{/i}"
-    "“{cps=25}{b}……你這個……”{/b}"
+    "“{cps=25}{i}……你這個……”{/i}"
 
 # game/a2s1.rpy:445
 translate Tchinese a2s1_bf09f582:
@@ -1804,7 +1804,7 @@ translate Tchinese a2s1_1dd8c02e:
 translate Tchinese a2s1_f94a4ecf:
 
     # "\"{cps=25}{i}...stupid sack of shit...\"{/i}"
-    "“{cps=25}{b}……賤種……”{/b}"
+    "“{cps=25}{i}……賤種……”{/i}"
 
 # game/a2s1.rpy:450
 translate Tchinese a2s1_3346915c:
@@ -1942,7 +1942,7 @@ translate Tchinese a2s1_14a05d04:
 translate Tchinese a2s1_240d5f64:
 
     # "\"{cps=25}{i}...sadness seems to always...\"{/i}"
-    "“{cps=25}{b}……悲傷也似永存……”{/b}"
+    "“{cps=25}{i}……悲傷也似永存……”{/i}"
 
 # game/a2s1.rpy:496
 translate Tchinese a2s1_09f6dfdd:
@@ -2008,7 +2008,7 @@ translate Tchinese a2s1_38375461:
 translate Tchinese a2s1_a91f5873:
 
     # "Of {i}course{/i} Devon wouldn't fuck with him over this, and Cameron can't understand why he'd thought that."
-    "Devon{b}當然{/b}不會拿這件事開玩笑，Cameron搞不懂自己怎麼會這麼想。"
+    "Devon{i}當然{/i}不會拿這件事開玩笑，Cameron搞不懂自己怎麼會這麼想。"
 
 # game/a2s1.rpy:507
 translate Tchinese a2s1_8949c0d5:
@@ -2038,7 +2038,7 @@ translate Tchinese a2s1_bb91dfde:
 translate Tchinese a2s1_c1532eaf:
 
     # "This.{cps=3}..{/cps}{w=0.4} This is {i}actually{/i} crazy."
-    "而這{cps=3}……{/cps}{w=0.4}是{b}真正的{/b}瘋狂。"
+    "而這{cps=3}……{/cps}{w=0.4}是{i}真正的{/i}瘋狂。"
 
 # game/a2s1.rpy:512
 translate Tchinese a2s1_0d6b594d:
@@ -2068,7 +2068,7 @@ translate Tchinese a2s1_99edf7da:
 translate Tchinese a2s1_4afb6542:
 
     # "{i}\"{cps=30}He already is.\"{/i}"
-    "{b}“{cps=30}他已經在懷疑了。”{/b}"
+    "{i}“{cps=30}他已經在懷疑了。”{/i}"
 
 # game/a2s1.rpy:517
 translate Tchinese a2s1_0356e72e:
@@ -2080,7 +2080,7 @@ translate Tchinese a2s1_0356e72e:
 translate Tchinese a2s1_f79a3045:
 
     # "{i}Stop it.{/i}"
-    "{b}到此為止吧。{/b}"
+    "{i}到此為止吧。{/i}"
 
 # game/a2s1.rpy:520
 translate Tchinese a2s1_566acfeb:
@@ -2092,7 +2092,7 @@ translate Tchinese a2s1_566acfeb:
 translate Tchinese a2s1_8021e722:
 
     # "\"{cps=25}{i}No, {w=0.3}but you're her son.\"{/i}"
-    "“{cps=25}{b}沒錯，{w=0.3}但你是她的兒子。”{/b}"
+    "“{cps=25}{i}沒錯，{w=0.3}但你是她的兒子。”{/i}"
 
 # game/a2s1.rpy:522
 translate Tchinese a2s1_c23f39e0:
@@ -2122,7 +2122,7 @@ translate Tchinese a2s1_96b17edd:
 translate Tchinese a2s1_a474a94c:
 
     # "\"{cps=25}{i}But is he?\"{/i}"
-    "“{cps=25}{b}你確定？”{/b}"
+    "“{cps=25}{i}你確定？”{/i}"
 
 # game/a2s1.rpy:528
 translate Tchinese a2s1_1fb96901:
@@ -2146,7 +2146,7 @@ translate Tchinese a2s1_f6a7f23e:
 translate Tchinese a2s1_e62d8344:
 
     # "{i}Good.{/i}"
-    "{b}很好。{/b}"
+    "{i}很好。{/i}"
 
 # game/a2s1.rpy:532
 translate Tchinese a2s1_07f2cba0:
@@ -3052,7 +3052,7 @@ translate Tchinese a2s1_0322ec0a:
 translate Tchinese a2s1_6650aa00:
 
     # unk3 "\"{cps=30}{i}Or minutes?\"{/i}"
-    unk3 "“{cps=30}{b}還是幾分鐘？”{/b}"
+    unk3 "“{cps=30}{i}還是幾分鐘？”{/i}"
 
 # game/a2s1.rpy:827
 translate Tchinese a2s1_098ac2c3:
@@ -3064,19 +3064,19 @@ translate Tchinese a2s1_098ac2c3:
 translate Tchinese a2s1_8b23f760:
 
     # unk3 "\"{cps=30}{i}Or hours?\"{/i}"
-    unk3 "“{cps=30}{b}或者幾小時？”{/b}"
+    unk3 "“{cps=30}{i}或者幾小時？”{/i}"
 
 # game/a2s1.rpy:829
 translate Tchinese a2s1_cdba786a:
 
     # unk3 "\"{cps=30}{i}Or has it been years?\"{/i}"
-    unk3 "“{cps=30}{b}亦或幾年？”{/b}"
+    unk3 "“{cps=30}{i}亦或幾年？”{/i}"
 
 # game/a2s1.rpy:830
 translate Tchinese a2s1_c0e9a232:
 
     # unk3 "\"{cps=30}{i}It doesn't matter when you're dead.\"{/i}"
-    unk3 "“{cps=30}{b}沒有人在乎你什麼時候死。”{/b}"
+    unk3 "“{cps=30}{i}沒有人在乎你什麼時候死。”{/i}"
 
 # game/a2s1.rpy:831
 translate Tchinese a2s1_1f4369ae:
@@ -3088,7 +3088,7 @@ translate Tchinese a2s1_1f4369ae:
 translate Tchinese a2s1_e89195e6:
 
     # unk3 "\"{cps=30}{i}There is no hell. {w=0.3}This is death. {w=0.3}This is what happens to everyone, Cameron.\"{/i}"
-    unk3 "“{cps=30}{b}不存在地獄。{w=0.3}這就是死亡{w=0.3}每個人都會迎來的死亡，Cameron。”{/b}"
+    unk3 "“{cps=30}{i}不存在地獄。{w=0.3}這就是死亡{w=0.3}每個人都會迎來的死亡，Cameron。”{/i}"
 
 # game/a2s1.rpy:833
 translate Tchinese a2s1_3c8019a1:
@@ -3454,7 +3454,7 @@ translate Tchinese a2s1_2fcfb766:
 translate Tchinese a2s1_32e566eb:
 
     # d "\"Yeah.{cps=3}..{/cps}{w=0.3} Yeah, {w=0.4}alright.\""
-    d "“是……{cps=3}……{/cps}{w=0.3}是啊，{w=0.4}你說得對。”"
+    d "“是…{cps=3}…{/cps}{w=0.3}是啊，{w=0.4}你說得對。”"
 
 # game/a2s1.rpy:933
 translate Tchinese a2s1_30d82cd4:

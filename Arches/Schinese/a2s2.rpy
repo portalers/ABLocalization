@@ -3242,3 +3242,12 @@ translate Schinese a2s2_900bfd02:
     # b "\"I need you to talk to some folks I used to know.{w} If you're really one of those psychics, if you can fix my problems, I'll let you go like nothin' happened.\""
     b "\"我呢，想让你跟几个故人见见。{w}如果你当真是灵媒，治好了我的心病，我自然不会为难你。\""
 
+
+# TODO: Translation updated at 2023-01-30 23:25
+
+# game/a2s2.rpy:818
+translate Schinese a2s2_cd3c4e66:
+
+    # "He just knows that they're horrific."
+    "只知道是非常、非常糟糕的意图。"
+

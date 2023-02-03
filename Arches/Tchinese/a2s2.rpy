@@ -406,7 +406,7 @@ translate Tchinese a2s2_4bd002d3:
 translate Tchinese a2s2_ef73dada:
 
     # "The fact that Cameron {i}still{/i} isn't waking up is slowly increasing his worry to the point of panic again."
-    "Cameron{b}仍未{/b}甦醒，光憑這一點，就足以把他的心提到喉頭了。"
+    "Cameron{i}仍未{/i}甦醒，光憑這一點，就足以把他的心提到喉頭了。"
 
 # game/a2s2.rpy:121
 translate Tchinese a2s2_1614ca27:
@@ -1282,7 +1282,7 @@ translate Tchinese a2s2_2b0a1a09:
 translate Tchinese a2s2_c3f2d6b0:
 
     # "He's not quite {i}that{/i} comfortable with him."
-    "倒也沒{b}那麼{/b}放鬆。"
+    "倒也沒{i}那麼{/i}放鬆。"
 
 # game/a2s2.rpy:356
 translate Tchinese a2s2_852594de:
@@ -1846,7 +1846,7 @@ translate Tchinese a2s2_609cca25:
 translate Tchinese a2s2_e1124662:
 
     # b "\"You shouldn't, but after my first time smoking, I felt high for fucking {i}years{/i} after, even when I wasn't touching the stuff.\""
-    b "“的確，但我第一次抽足足嗨了{b}好幾年{/b}，即便是在沒碰那東西的時候。”"
+    b "“的確，但我第一次抽足足嗨了{i}好幾年{/i}，即便是在沒碰那東西的時候。”"
 
 # game/a2s2.rpy:499
 translate Tchinese a2s2_a8962531:
@@ -2332,7 +2332,7 @@ translate Tchinese a2s2_4d264301:
 translate Tchinese a2s2_18ee4f37:
 
     # "{i}Arches and half-circles...{/i}"
-    "{b}拱形和半圓……{/b}"
+    "{i}拱形和半圓……{/i}"
 
 # game/a2s2.rpy:619
 translate Tchinese a2s2_d62d711b:
@@ -2692,7 +2692,7 @@ translate Tchinese a2s2_8c7c03f8:
 translate Tchinese a2s2_f28bc4ad:
 
     # "{i}This is a dream. It has to be a dream.{/i}"
-    "{b}是夢，這一定是個夢。{/b}"
+    "{i}是夢，這一定是個夢。{/i}"
 
 # game/a2s2.rpy:722
 translate Tchinese a2s2_72946028:
@@ -2764,7 +2764,7 @@ translate Tchinese a2s2_7a9fbf67:
 translate Tchinese a2s2_b8767c81:
 
     # "\"{i}A twisting force...{/i}\""
-    "“{b}扭曲的力量……{/b}”"
+    "“{i}扭曲的力量……{/i}”"
 
 # game/a2s2.rpy:743
 translate Tchinese a2s2_6677c130:
@@ -2914,7 +2914,7 @@ translate Tchinese a2s2_dc87074c:
 translate Tchinese a2s2_b8767c81_1:
 
     # "\"{i}A twisting force...{/i}\""
-    "“{b}扭曲的力量……{/b}”"
+    "“{i}扭曲的力量……{/i}”"
 
 # game/a2s2.rpy:772
 translate Tchinese a2s2_23418ee2:
@@ -2926,7 +2926,7 @@ translate Tchinese a2s2_23418ee2:
 translate Tchinese a2s2_6c634d9a:
 
     # "\"{i}... Around the point... Is equal to force times distance...{/i}\""
-    "“{b}……圍繞著這一點……等於力乘以距離……{/b}”"
+    "“{i}……圍繞著這一點……等於力乘以距離……{/i}”"
 
 # game/a2s2.rpy:774
 translate Tchinese a2s2_8bc9ba4b:
@@ -2938,7 +2938,7 @@ translate Tchinese a2s2_8bc9ba4b:
 translate Tchinese a2s2_02d9601b:
 
     # "\"{i}... Perpendicular to force...{/i}\""
-    "“{b}……垂直於力的方向……{/b}”"
+    "“{i}……垂直於力的方向……{/i}”"
 
 # game/a2s2.rpy:781
 translate Tchinese a2s2_b578e511:
@@ -3196,7 +3196,7 @@ translate Tchinese a2s2_83cf68bd:
 translate Tchinese a2s2_63c5328b:
 
     # "\"{i}Torque.{/i}\""
-    "“{b}轉矩。{/b}”"
+    "“{i}轉矩。{/i}”"
 
 # game/a2s2.rpy:830
 translate Tchinese a2s2_fec97169:
@@ -3241,4 +3241,12 @@ translate Tchinese a2s2_900bfd02:
 
     # b "\"I need you to talk to some folks I used to know.{w} If you're really one of those psychics, if you can fix my problems, I'll let you go like nothin' happened.\""
     b "\"我呢，想讓你跟幾個故人見見。{w}如果你當真是靈媒，治好了我的心病，我自然不會為難你。\""
+
+# TODO: Translation updated at 2023-01-30 23:25
+
+# game/a2s2.rpy:830
+translate Tchinese a2s2_cd3c4e66:
+
+    # "He just knows that they're horrific."
+    "只知道是非常、非常糟糕的意圖。"
 

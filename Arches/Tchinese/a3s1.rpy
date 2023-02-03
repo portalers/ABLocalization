@@ -28,7 +28,7 @@ translate Tchinese a3s1_e2f91d51:
 translate Tchinese a3s1_2d84c0e9:
 
     # "{i}Who's making sense of what that's in front of who?{/i}"
-    "{b}是誰在看誰面前的什麼？{/b}"
+    "{i}是誰在看誰面前的什麼？{/i}"
 
 # game/a3s1.rpy:16
 translate Tchinese a3s1_c18d049b:
@@ -40,7 +40,7 @@ translate Tchinese a3s1_c18d049b:
 translate Tchinese a3s1_c2bec849:
 
     # "{i}Who's having these thoughts?{/i}"
-    "{b}是誰在思考？{/b}"
+    "{i}是誰在思考？{/i}"
 
 # game/a3s1.rpy:19
 translate Tchinese a3s1_9662df53:
@@ -112,7 +112,7 @@ translate Tchinese a3s1_7440dca2:
 translate Tchinese a3s1_9824017b:
 
     # "In his mind's eye, he looks {i}forward{/i}, and he sees a myriad of people in front of him, though they're all the same people: Devon, Brian, and himself, locked in a vicious, spinning blur of claws and teeth, blood and horrific, unidentifiable viscera."
-    "他{b}極目遠眺{/b}，看到有無數個Devon、Brian、還有他自己，在一個滿是惡意的地方，用快到模糊的爪和牙灑下鮮血與難以辨別的臟器。"
+    "他{i}極目遠眺{/i}，看到有無數個Devon、Brian、還有他自己，在一個滿是惡意的地方，用快到模糊的爪和牙灑下鮮血與難以辨別的臟器。"
 
 # game/a3s1.rpy:32
 translate Tchinese a3s1_9d95ffe2:
@@ -124,7 +124,7 @@ translate Tchinese a3s1_9d95ffe2:
 translate Tchinese a3s1_ebe9a70f:
 
     # "Then, noticing something over his shoulder, he looks {i}back{/i}, and this time he sees one version of himself, along with Brian."
-    "就在這時，他注意到了什麼。他扭頭朝{b}後{/b}一看，在那裡的正是其中一個版本的自己，以及Brian。"
+    "就在這時，他注意到了什麼。他扭頭朝{i}後{/i}一看，在那裡的正是其中一個版本的自己，以及Brian。"
 
 # game/a3s1.rpy:34
 translate Tchinese a3s1_889e0fc2:
@@ -214,7 +214,7 @@ translate Tchinese a3s1_2a9ed6f4:
 translate Tchinese a3s1_4e6633ab:
 
     # "{i}Who's watching this?{/i}"
-    "{b}是誰在看著？{/b}"
+    "{i}是誰在看著？{/i}"
 
 # game/a3s1.rpy:60
 translate Tchinese a3s1_ca0e69b1:
@@ -226,7 +226,7 @@ translate Tchinese a3s1_ca0e69b1:
 translate Tchinese a3s1_0963b5db:
 
     # "I'm {i}watching this, and{/i} I {i}need to save Devon.{/i}"
-    "是我{b}在看，而且{/b}我{b}要救出Devon。{/b}"
+    "是我{i}在看，而且{/i}我{i}要救出Devon。{/i}"
 
 # game/a3s1.rpy:62
 translate Tchinese a3s1_d3fa505b:
@@ -334,7 +334,7 @@ translate Tchinese a3s1_b190fe83:
 translate Tchinese a3s1_69e22556:
 
     # "Not just {i}queer{/i} like Brian considers himself to be, but a faggot."
-    "不是Brian自我認知的{b}同志{/b}，而是基佬。"
+    "不是Brian自我認知的{i}同志{/i}，而是基佬。"
 
 # game/a3s1.rpy:80
 translate Tchinese a3s1_eff5ca1f:
@@ -484,7 +484,7 @@ translate Tchinese a3s1_eb186a87:
 translate Tchinese a3s1_67ed1017:
 
     # "Looking {i}forward{/i}, he glimpses the various scenarios again, and the one constant is death."
-    "他望向{b}遠方{/b}，再次瞥見了各種情景，其中唯一不變的是死亡。"
+    "他望向{i}遠方{/i}，再次瞥見了各種情景，其中唯一不變的是死亡。"
 
 # game/a3s1.rpy:107
 translate Tchinese a3s1_ffd7f564:
@@ -682,7 +682,7 @@ translate Tchinese a3s1_aca69da8:
 translate Tchinese a3s1_987337a5:
 
     # c "\"No, no! Stop, I can walk with you. I won't try to run-- OW!\""
-    c "“不，不要！我會乖乖跟著你的，我不會逃跑──{b}嗷{/b}！”"
+    c "“不，不要！我會乖乖跟著你的，我不會逃跑──{i}嗷{/i}！”"
 
 # game/a3s1.rpy:155
 translate Tchinese a3s1_5d29f70a:
@@ -706,7 +706,7 @@ translate Tchinese a3s1_46789eb1:
 translate Tchinese a3s1_e0c3a977:
 
     # "Every minute or so, Cameron looks {i}forward{/i}, and sees the scenario he's aiming for, still within reach, so he keeps walking."
-    "每隔一分鐘左右，Cameron都會看一眼{b}遠方{/b}，看那理想中的情況是否仍在他力所能及的範圍內。"
+    "每隔一分鐘左右，Cameron都會看一眼{i}遠方{/i}，看那理想中的情況是否仍在他力所能及的範圍內。"
 
 # game/a3s1.rpy:159
 translate Tchinese a3s1_993d1ff2:
@@ -1222,7 +1222,7 @@ translate Tchinese a3s1_368648de:
 translate Tchinese a3s1_fe8a60c2:
 
     # "{i}Come on, stop assuming things{/i}."
-    "{b}算了吧，別瞎想了。{/b}。"
+    "{i}算了吧，別瞎想了。{/i}。"
 
 # game/a3s1.rpy:282
 translate Tchinese a3s1_a9e0a75e:
@@ -1894,7 +1894,7 @@ translate Tchinese a3s1_e62c0a99:
 translate Tchinese a3s1_81286b32:
 
     # "{i}Who's in darkness?{/i}"
-    "{b}是誰沐浴著黑暗？{/b}"
+    "{i}是誰沐浴著黑暗？{/i}"
 
 # game/a3s1.rpy:418
 translate Tchinese a3s1_2b9f1415:
@@ -1906,7 +1906,7 @@ translate Tchinese a3s1_2b9f1415:
 translate Tchinese a3s1_f9d3e4f1:
 
     # "{i}Everything is in darkness{/i}."
-    "{b}一切盡在黑暗中。{/b}"
+    "{i}一切盡在黑暗中。{/i}"
 
 # game/a3s1.rpy:421
 translate Tchinese a3s1_ba16e7be:
@@ -2248,7 +2248,7 @@ translate Tchinese a3s1_c8d8940d:
 translate Tchinese a3s1_03f90af0:
 
     # "Cameron looks behind himself while also looking {i}back{/i}."
-    "Cameron不只是望著身後，他還在觀察{b}過去{/b}。"
+    "Cameron不只是望著身後，他還在觀察{i}過去{/i}。"
 
 # game/a3s1.rpy:508
 translate Tchinese a3s1_c6298f01:
@@ -2452,7 +2452,7 @@ translate Tchinese a3s1_de8a17f1:
 translate Tchinese a3s1_748a200d:
 
     # "\"{i}Smile{/i}.\""
-    "“{b}微笑{/b}。”"
+    "“{i}微笑{/i}。”"
 
 # game/a3s1.rpy:548
 translate Tchinese a3s1_fea54e77:
@@ -2680,7 +2680,7 @@ translate Tchinese a3s1_37644bca:
 translate Tchinese a3s1_ad53c6ed:
 
     # "{i}Devon, where are you?{/i}"
-    "{b}你在哪裡，Devon？{/b}"
+    "{i}你在哪裡，Devon？{/i}"
 
 # game/a3s1.rpy:608
 translate Tchinese a3s1_f84f8765:
@@ -3088,7 +3088,7 @@ translate Tchinese a3s1_66dc5d9b:
 translate Tchinese a3s1_66f462ba:
 
     # "{i}Who's in hell?{/i}"
-    "{b}誰身在地獄？{/b}"
+    "{i}誰身在地獄？{/i}"
 
 # game/a3s1.rpy:712
 translate Tchinese a3s1_c53f782c:
@@ -3274,7 +3274,7 @@ translate Tchinese a3s1_7697122d:
 translate Tchinese a3s1_dd04cd5e:
 
     # c "\"Brian, just wait a second. Think about it. I can {i}help{/i} you. Why did you bring me here in the first place?\""
-    c "“請等一下，Brian。你好好想想，我可以{b}幫{/b}你啊。不然你為什麼要帶我來這裡？”"
+    c "“請等一下，Brian。你好好想想，我可以{i}幫{/i}你啊。不然你為什麼要帶我來這裡？”"
 
 # game/a3s1.rpy:753
 translate Tchinese a3s1_8e45a2f9:
@@ -3328,7 +3328,7 @@ translate Tchinese a3s1_cbe83146:
 translate Tchinese a3s1_9ee81ecf:
 
     # "{i}Until I met you{/i}."
-    "{b}直到遇見你為止。{/b}"
+    "{i}直到遇見你為止。{/i}"
 
 # game/a3s1.rpy:769
 translate Tchinese a3s1_2454d750:
@@ -3394,7 +3394,7 @@ translate Tchinese a3s1_078f2659:
 translate Tchinese a3s1_ca97d76e:
 
     # "\"{i}Everything's falling apart. You're spiraling.\""
-    "“{b}一切都分崩離析了，你在不斷攀升。{/b}”"
+    "“{i}一切都分崩離析了，你在不斷攀升。{/i}”"
 
 # game/a3s1.rpy:791
 translate Tchinese a3s1_2effc3ab:
@@ -3508,7 +3508,7 @@ translate Tchinese a3s1_34d3d628:
 translate Tchinese a3s1_52cd8309:
 
     # "{i}Get up!{/i}"
-    "{b}快動啊！{/b}"
+    "{i}快動啊！{/i}"
 
 # game/a3s1.rpy:819
 translate Tchinese a3s1_e413fbfc:
@@ -3940,7 +3940,7 @@ translate Tchinese a3s1_eb5cd7dc:
 translate Tchinese a3s1_32e76065:
 
     # "\"{i}Now you're thinking like an engineer!{/i}\""
-    "“{b}你開始像真正的工程師那樣思考了！{/b}”"
+    "“{i}你開始像真正的工程師那樣思考了！{/i}”"
 
 # game/a3s1.rpy:917
 translate Tchinese a3s1_15b0a726:
@@ -4126,7 +4126,7 @@ translate Tchinese a3s1_8534e654:
 translate Tchinese a3s1_737bcd28:
 
     # "After looking {i}forward{/i}, Cameron does the only thing he can think of."
-    "在展望過{b}遠方{/b}後，Cameron做了他唯一能想到的事情。"
+    "在展望過{i}遠方{/i}後，Cameron做了他唯一能想到的事情。"
 
 # game/a3s1.rpy:964
 translate Tchinese a3s1_8c67c880:
@@ -4366,7 +4366,7 @@ translate Tchinese a3s1_2d409ab2:
 translate Tchinese a3s1_aabdc534:
 
     # "These arches had tortured his mother, but this {i}feels{/i} like his mother, somehow."
-    "那些拱形曾折磨過他的母親，但這一次，他莫名{b}覺得{/b}拱形就像他的母親。"
+    "那些拱形曾折磨過他的母親，但這一次，他莫名{i}覺得{/i}拱形就像他的母親。"
 
 # game/a3s1.rpy:1016
 translate Tchinese a3s1_0ef003d8:
@@ -4618,7 +4618,7 @@ translate Tchinese a3s1_e77ef1e7:
 translate Tchinese a3s1_321b25e4:
 
     # "Looking {i}forward{/i} is no longer clear, but as Cameron uses the last of the psilocybin in his system to peer into their future, he becomes afraid by what he glimpses."
-    "{b}遠方{/b}已不再清晰，Cameron用他體內最後一點致幻菇去窺視他們的未來，卻只感到不寒而慄。"
+    "{i}遠方{/i}已不再清晰，Cameron用他體內最後一點致幻菇去窺視他們的未來，卻只感到不寒而慄。"
 
 # game/a3s1.rpy:1060
 translate Tchinese a3s1_0cbacbeb:
@@ -4698,7 +4698,7 @@ translate Tchinese a3s1_7600c805:
 translate Tchinese a3s1_6a8358b9:
 
     # "{i}You realize nothing's real...{i}"
-    "{b}一切都沒有意義……{/b}"
+    "{i}一切都沒有意義……{/i}"
 
 # game/a3s1.rpy:69
 translate Tchinese a3s1_8d16eecc:
@@ -4710,7 +4710,7 @@ translate Tchinese a3s1_8d16eecc:
 translate Tchinese a3s1_d4bbd480:
 
     # "In his mind's eye, he looks {i}forward{/i}, and he sees a myriad of people in front of him, though they're all the same people: Devon, Brian, and himself, locked in a vicious, spinning blur of claws, teeth, blood and horrific, unidentifiable viscera."
-    "他極目{b}遠眺{/b}，看到有無數個Devon、Brian、還有他自己，在一個滿是惡意的地方，用快到模糊的爪和牙灑下鮮血與難以辨別的臟器。"
+    "他極目{i}遠眺{/i}，看到有無數個Devon、Brian、還有他自己，在一個滿是惡意的地方，用快到模糊的爪和牙灑下鮮血與難以辨別的臟器。"
 
 # game/a3s1.rpy:148
 translate Tchinese a3s1_7d362edc:
@@ -4950,7 +4950,7 @@ translate Tchinese a3s1_ff80fccb:
 translate Tchinese a3s1_bd816e27:
 
     # c "\"{i}Artie, please...{/i}\""
-    c "“{b}拜託你了，Artie……{/b}”"
+    c "“{i}拜託你了，Artie……{/i}”"
 
 # game/a3s1.rpy:411
 translate Tchinese a3s1_e21a26c1:
@@ -5334,7 +5334,7 @@ translate Tchinese a3s1_602e7381:
 translate Tchinese a3s1_2a558284:
 
     # "{i}A top 100 school with the best ranked nursing and engineering programs in the region!{/i}"
-    "{b}世界百強大學，設有該地區頂尖的護理與工程專業！{/b}"
+    "{i}世界百強大學，設有該地區頂尖的護理與工程專業！{/i}"
 
 # game/a3s1.rpy:828
 translate Tchinese a3s1_206545e2:
@@ -6072,5 +6072,133 @@ translate Tchinese a3s1_84820cda:
 translate Tchinese a3s1_3972b060:
 
     # centertext "To be continued..."
-    centertext "未完待續..."
+    centertext "未完待續……"
+
+# TODO: Translation updated at 2023-01-30 23:25
+
+# game/a3s1.rpy:31
+translate Tchinese a3s1_f5076837:
+
+    # "It was exciting."
+    "It was exciting。"
+
+# game/a3s1.rpy:87
+translate Tchinese a3s1_1d59b6d8:
+
+    # "He'd even missed the key being taken out of his pocket."
+    "He'd even missed the key being taken out of his pocket。"
+
+# game/a3s1.rpy:119
+translate Tchinese a3s1_6e8ee11b:
+
+    # "Weasel" "\"Jesus Christ, this is really makin' me not wanna do what I'm gonna have to do after this. But ya know, everything's gotta end eventually.\""
+    "Weasel" "“老天爺啊。雖然我不想那麼做，不過嘛，一切都有結束的一天。”"
+
+# game/a3s1.rpy:269
+translate Tchinese a3s1_8c2ea207:
+
+    # "As he's looking down at the coyote and sees the blood beginning to seep from his mouth, Devon realizes the white thing is one of Cameron's teeth, and shocked anger overcomes the fear."
+    "Devon低頭打量著郊狼，意識到那是Cameron的其中一顆牙齒，他終於怒不可遏。"
+
+# game/a3s1.rpy:337
+translate Tchinese a3s1_2b6e9487:
+
+    # "Cameron crumples up as something jabs him hard in the sternum, twisting in on himself, feeling a blackhole open in his chest."
+    "有個東西狠狠戳在了Cameron的胸骨上，他頓時無力地倒下，扭動著身子，彷彿胸口被開了一個洞。"
+
+# game/a3s1.rpy:444
+translate Tchinese a3s1_af19205b:
+
+    # c "\"Wait, please don't-- Agh!\""
+    c "“等等，請不要——啊！”"
+
+# game/a3s1.rpy:496
+translate Tchinese a3s1_bbb37bd1:
+
+    # c "\"No, stop! Please!\""
+    c "“不要，求求你不要！”"
+
+# game/a3s1.rpy:753
+translate Tchinese a3s1_acbe6a4b:
+
+    # c "\"No... No... No, no, no, please don't do this! I can't... I can't--\""
+    c "“不，不，不，不，不，求求你別這樣！我不能……不能——”"
+
+# game/a3s1.rpy:773
+translate Tchinese a3s1_46f4008b:
+
+    # "Devon feels as if his guts are flattened to his spine before liquifying, the force actually lifting him off the ground for a half-second."
+    "Devon感覺五臟六腑都被壓扁，甩飛在了脊柱上，這股力甚至將他抬離了地面。"
+
+# game/a3s1.rpy:842
+translate Tchinese a3s1_1336e3e8:
+
+    # "So Devon Keeps his hold on the shotgun even as Brian starts trying to yank it from his weakened grasp, and he's starting to succeed."
+    "Devon只能繼續握著槍柄，即便Brian開始從虛弱的他手中奪回獵槍，並且占了上風。"
+
+# game/a3s1.rpy:851
+translate Tchinese a3s1_57c08cd7:
+
+    # "Devon hears a crunching sound just as he gets his first tiny sip of air, just as he hears Cameron's own air wheeze out in a yowl-like moan."
+    "Devon剛吸了一小口空氣，就聽到嘎吱嘎吱的聲音，摻雜著Cameron嗚咽的喘氣聲。"
+
+# game/a3s1.rpy:875
+translate Tchinese a3s1_9fb028f6:
+
+    # "Then Brian comes down on him again, and Cameron throws his left elbow back at the bear's face, only for Brian to sink his teeth into Cameron's forearm and elbow."
+    "然後Brian再次向他撲來，Cameron用自己的肘部反擊，結果反而被Brian咬住了前臂。"
+
+# game/a3s1.rpy:881
+translate Tchinese a3s1_07b5b159:
+
+    # "Brian panics and buries his fist up into Devon's stomach, but the younger bear is tensed up this time, and the fist gets no further than his stomach muscles."
+    "Brian驚慌失措地朝Devon的肚子揮出拳，但他太緊張了，拳頭都沒能打進Devon的腹肌。"
+
+# game/a3s1.rpy:894
+translate Tchinese a3s1_8cdeaa7b:
+
+    # "Then, as Brian lays dazed, Devon lays into his snout three times, full force, trying to pound every bit of agony into Brian that the old bear had given all of them."
+    "然後，趁著Brian茫然中之際，Devon第三次把嘴襲向他，全力以赴地，勢要將老熊給予他們的痛苦係數奉還。"
+
+# game/a3s1.rpy:903
+translate Tchinese a3s1_a37472fb:
+
+    # "Cameron's right arm is torn up as well, but since Brian isn't shaking his head this time, his bones at least remain intact."
+    "Cameron的左臂也不出意外地斷了，但由於這次Brian只是啃咬，沒有擺頭，所以至少骨頭還保持完好。"
+
+# game/a3s1.rpy:929
+translate Tchinese a3s1_17bb5716:
+
+    # "So, Devon focuses on destroying the other bear's arm."
+    "So， Devon focuses on destroying the other bear's arm。"
+
+# game/a3s1.rpy:940
+translate Tchinese a3s1_1f4dad5a:
+
+    # "For just a second, Brian goes limp, and Devon re-locks his ankles before lifting the limp arm away from his chest, curling up."
+    "只一瞬間，Brian就沒了力氣。Devon將癱軟的手臂從胸前抬高，折起來，又用腿鎖住。"
+
+# game/a3s1.rpy:949
+translate Tchinese a3s1_ecb27387:
+
+    # d "\"Need to get you out of here. Just let me see--\""
+    d "“Need to get you out of here. Just let me see——”"
+
+# game/a3s1.rpy:963
+translate Tchinese a3s1_bb57fe10:
+
+    # "Just as Devon remembers to keep an eye on Brian and his gun, the butt of the gun meets his side."
+    "Just as Devon remembers to keep an eye on Brian and his gun, the butt of the gun meets his side。"
+
+# game/a3s1.rpy:967
+translate Tchinese a3s1_1917bb64:
+
+    # b "\"God, you fucking ruined it! He was perfectly fine 'till you showed up. Now he's fuckin' mangled to the point he's not even fuckable!\""
+    b "“你把一切都毀了！在你出現之前他明明那麼乖，現在被搞成這副德行，誰他媽下得去屌啊！”"
+
+# game/a3s1.rpy:979
+translate Tchinese a3s1_80009c2d:
+
+    # b "\"Oh no, that was it? Is this it? What the fuck?\""
+    b "“不，難道是？是它？搞什麼？”"
 

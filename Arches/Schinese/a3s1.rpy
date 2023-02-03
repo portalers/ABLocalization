@@ -6074,3 +6074,131 @@ translate Schinese a3s1_3972b060:
     # centertext "To be continued..."
     centertext "未完待续..."
 
+# TODO: Translation updated at 2023-01-30 23:25
+
+# game/a3s1.rpy:31
+translate Schinese a3s1_f5076837:
+
+    # "It was exciting."
+    "It was exciting."
+
+# game/a3s1.rpy:87
+translate Schinese a3s1_1d59b6d8:
+
+    # "He'd even missed the key being taken out of his pocket."
+    "He'd even missed the key being taken out of his pocket."
+
+# game/a3s1.rpy:119
+translate Schinese a3s1_6e8ee11b:
+
+    # "Weasel" "\"Jesus Christ, this is really makin' me not wanna do what I'm gonna have to do after this. But ya know, everything's gotta end eventually.\""
+    "Weasel" "\"老天爷啊。虽然我不想那么做，不过嘛，一切都有结束的一天。\""
+
+# game/a3s1.rpy:269
+translate Schinese a3s1_8c2ea207:
+
+    # "As he's looking down at the coyote and sees the blood beginning to seep from his mouth, Devon realizes the white thing is one of Cameron's teeth, and shocked anger overcomes the fear."
+    "Devon低头打量着郊狼，意识到那是Cameron的其中一颗牙齿，他终于怒不可遏。"
+
+# game/a3s1.rpy:337
+translate Schinese a3s1_2b6e9487:
+
+    # "Cameron crumples up as something jabs him hard in the sternum, twisting in on himself, feeling a blackhole open in his chest."
+    "有个东西狠狠戳在了Cameron的胸骨上，他顿时无力地倒下，扭动着身子，仿佛胸口被开了一个洞。"
+
+# game/a3s1.rpy:444
+translate Schinese a3s1_af19205b:
+
+    # c "\"Wait, please don't-- Agh!\""
+    c "\"等等，请不要——啊！\""
+
+# game/a3s1.rpy:496
+translate Schinese a3s1_bbb37bd1:
+
+    # c "\"No, stop! Please!\""
+    c "\"不要，求求你不要！\""
+
+# game/a3s1.rpy:753
+translate Schinese a3s1_acbe6a4b:
+
+    # c "\"No... No... No, no, no, please don't do this! I can't... I can't--\""
+    c "\"不，不，不，不，不，求求你别这样！我不能..不能-\""
+
+# game/a3s1.rpy:773
+translate Schinese a3s1_46f4008b:
+
+    # "Devon feels as if his guts are flattened to his spine before liquifying, the force actually lifting him off the ground for a half-second."
+    "Devon感觉五脏六腑都被压扁，甩飞在了脊柱上，这股力甚至将他抬离了地面。"
+
+# game/a3s1.rpy:842
+translate Schinese a3s1_1336e3e8:
+
+    # "So Devon Keeps his hold on the shotgun even as Brian starts trying to yank it from his weakened grasp, and he's starting to succeed."
+    "Devon只能继续握着枪柄，即便Brian开始从虚弱的他手中夺回猎枪，并且占了上风。"
+
+# game/a3s1.rpy:851
+translate Schinese a3s1_57c08cd7:
+
+    # "Devon hears a crunching sound just as he gets his first tiny sip of air, just as he hears Cameron's own air wheeze out in a yowl-like moan."
+    "Devon刚吸了一小口空气，就听到嘎吱嘎吱的声音，掺杂着Cameron呜咽的喘气声。"
+
+# game/a3s1.rpy:875
+translate Schinese a3s1_9fb028f6:
+
+    # "Then Brian comes down on him again, and Cameron throws his left elbow back at the bear's face, only for Brian to sink his teeth into Cameron's forearm and elbow."
+    "然后Brian再次向他扑来，Cameron用自己的肘部反击，结果反而被Brian咬住了前臂。"
+
+# game/a3s1.rpy:881
+translate Schinese a3s1_07b5b159:
+
+    # "Brian panics and buries his fist up into Devon's stomach, but the younger bear is tensed up this time, and the fist gets no further than his stomach muscles."
+    "Brian惊慌失措地朝Devon的肚子挥出拳，但他太紧张了，拳头都没能打进Devon的腹肌。"
+
+# game/a3s1.rpy:894
+translate Schinese a3s1_8cdeaa7b:
+
+    # "Then, as Brian lays dazed, Devon lays into his snout three times, full force, trying to pound every bit of agony into Brian that the old bear had given all of them."
+    "然后，趁着Brian茫然中之际，Devon第三次把嘴袭向他，全力以赴地，势要将老熊给予他们的痛苦系数奉还。"
+
+# game/a3s1.rpy:903
+translate Schinese a3s1_a37472fb:
+
+    # "Cameron's right arm is torn up as well, but since Brian isn't shaking his head this time, his bones at least remain intact."
+    "Cameron的左臂也不出意外地断了，但由于这次Brian只是啃咬，没有摆头，所以至少骨头还保持完好。"
+
+# game/a3s1.rpy:929
+translate Schinese a3s1_17bb5716:
+
+    # "So, Devon focuses on destroying the other bear's arm."
+    "So, Devon focuses on destroying the other bear's arm."
+
+# game/a3s1.rpy:940
+translate Schinese a3s1_1f4dad5a:
+
+    # "For just a second, Brian goes limp, and Devon re-locks his ankles before lifting the limp arm away from his chest, curling up."
+    "只一瞬间，Brian就没了力气。Devon将瘫软的手臂从胸前抬高，折起来，又用腿锁住。"
+
+# game/a3s1.rpy:949
+translate Schinese a3s1_ecb27387:
+
+    # d "\"Need to get you out of here. Just let me see--\""
+    d "\"Need to get you out of here. Just let me see--\""
+
+# game/a3s1.rpy:963
+translate Schinese a3s1_bb57fe10:
+
+    # "Just as Devon remembers to keep an eye on Brian and his gun, the butt of the gun meets his side."
+    "Just as Devon remembers to keep an eye on Brian and his gun, the butt of the gun meets his side."
+
+# game/a3s1.rpy:967
+translate Schinese a3s1_1917bb64:
+
+    # b "\"God, you fucking ruined it! He was perfectly fine 'till you showed up. Now he's fuckin' mangled to the point he's not even fuckable!\""
+    b "\"你把一切都毁了！在你出现之前他明明那么乖，现在被搞成这副德行，谁他妈下得去屌啊！\""
+
+# game/a3s1.rpy:979
+translate Schinese a3s1_80009c2d:
+
+    # b "\"Oh no, that was it? Is this it? What the fuck?\""
+    b "\"不，难道是？是它？搞什么？\""
+

@@ -250,7 +250,7 @@ translate Tchinese shortstory1_039628df:
 translate Tchinese shortstory1_3fb77fcb:
 
     # "{i}You'd really like that, wouldn't you?{/i}"
-    "{b}這正是你希望的，不是嗎？{/b}"
+    "{i}這正是你希望的，不是嗎？{/i}"
 
 # game/shortstory1.rpy:138
 translate Tchinese shortstory1_c73908a4:
@@ -298,7 +298,7 @@ translate Tchinese shortstory1_1044f0f1:
 translate Tchinese shortstory1_9ded35d7:
 
     # dev ".{cps=2}..{/cps}{w=0.5}But would you at least tell me if you see something that might... be important to me."
-    dev "……{cps=2}……{/cps}{w=0.5}能不能請你至少在看到……也許對我來說很……重要的東西時告訴我一聲？"
+    dev "…{cps=2}…{/cps}{w=0.5}能不能請你至少在看到……也許對我來說很……重要的東西時告訴我一聲？"
 
 # game/shortstory1.rpy:154
 translate Tchinese shortstory1_fb823d25:
@@ -430,7 +430,7 @@ translate Tchinese shortstory1_1c7eec5d:
 translate Tchinese shortstory1_5a571d28:
 
     # "{i}{cps=30}Nowhere.{w} She's dead, {w=0.4}so she's nowhere.{w} I'm sorry.{i}"
-    "{b}{cps=30}哪裡都不在，{w}她已經死了，{w=0.4}不在這世間任何一個角落，{w}對不起。{b}"
+    "{i}{cps=30}哪裡都不在，{w}她已經死了，{w=0.4}不在這世間任何一個角落，{w}對不起。{/i}"
 
 # game/shortstory1.rpy:176
 translate Tchinese shortstory1_53ed3aae:

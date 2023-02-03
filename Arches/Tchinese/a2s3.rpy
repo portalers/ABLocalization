@@ -1138,7 +1138,7 @@ translate Tchinese a2s3_b6e6fddd:
 translate Tchinese a2s3_bbd10614:
 
     # d "\"Come {i}on{/i}, dammit. Please!\""
-    d "“快啊，{b}快啊{/b}！”"
+    d "“快啊，{i}快啊{/i}！”"
 
 # game/a2s3.rpy:248
 translate Tchinese a2s3_e5b8f074:
@@ -1294,7 +1294,7 @@ translate Tchinese a2s3_c7d2e886:
 translate Tchinese a2s3_8ef57192:
 
     # d "\"{i}Please{/i}, just let me see him so I know he's okay?\""
-    d "“{b}求求你{/b}，讓我見他一面就好。”"
+    d "“{i}求求你{/i}，讓我見他一面就好。”"
 
 # game/a2s3.rpy:278
 translate Tchinese a2s3_914133f6:
@@ -2584,7 +2584,7 @@ translate Tchinese a2s3_45052ec4:
 translate Tchinese a2s3_d35a52b6:
 
     # "{i}Who's dreaming?{/i}"
-    "{b}是誰的夢？{/b}"
+    "{i}是誰的夢？{/i}"
 
 # game/a2s3.rpy:565
 translate Tchinese a2s3_055f71f7:
@@ -2692,7 +2692,7 @@ translate Tchinese a2s3_8fc9d71f:
 translate Tchinese a2s3_de4959e6:
 
     # "{i}--no.{/i}"
-    "{b}──不。{/b}"
+    "{i}──不。{/i}"
 
 # game/a2s3.rpy:594
 translate Tchinese a2s3_ec87eedc:
@@ -2764,7 +2764,7 @@ translate Tchinese a2s3_e1d45ad1:
 translate Tchinese a2s3_6325dce2:
 
     # "{i}Please{/i}, please, {i}let your heart give out. Please just die and let this nightmare, this decades-long nightmare you've created, end.{/i}"
-    "{b}求求你{/b}，求求你，{b}請你去死吧。讓這場噩夢，這場你創造的幾十年的噩夢，結束吧。{/b}"
+    "{i}求求你{/i}，求求你，{i}請你去死吧。讓這場噩夢，這場你創造的幾十年的噩夢，結束吧。{/i}"
 
 # game/a2s3.rpy:612
 translate Tchinese a2s3_cd74ca37:
@@ -2872,7 +2872,7 @@ translate Tchinese a2s3_3f215d5e:
 translate Tchinese a2s3_c246697c:
 
     # c "\"Holy shit, you really got me there. I thought {i}my{/i} heart was about to give out.\""
-    c "“哇，真是被你嚇到了，{b}我{/b}幾乎就要崩潰了。”"
+    c "“哇，真是被你嚇到了，{i}我{/i}幾乎就要崩潰了。”"
 
 # game/a2s3.rpy:637
 translate Tchinese a2s3_978421e8:
@@ -2956,7 +2956,7 @@ translate Tchinese a2s3_2007017f:
 translate Tchinese a2s3_1bb2b85b:
 
     # "{i}Who's thinking these thoughts?{/i}"
-    "{b}誰在乎他怎麼樣啊？{/b}"
+    "{i}誰在乎他怎麼樣啊？{/i}"
 
 # game/a2s3.rpy:656
 translate Tchinese a2s3_da44a6a0:
@@ -3196,7 +3196,7 @@ translate Tchinese a2s3_e8e1b80a:
 translate Tchinese a2s3_d55dd294:
 
     # "{i}If Cameron dies, it doesn't matter if I escape. I won't be able to live with that.{/i}"
-    "{b}Cameron死了的話，我逃出去又有什麼意義呢，苟活下去又有什麼意義呢。{/b}"
+    "{i}Cameron死了的話，我逃出去又有什麼意義呢，苟活下去又有什麼意義呢。{/i}"
 
 # game/a2s3.rpy:705
 translate Tchinese a2s3_cd6b91b2:
@@ -3358,7 +3358,7 @@ translate Tchinese a2s3_8675afb4:
 translate Tchinese a2s3_4dc3eb79:
 
     # c "\"Devon, I know there isn't much I can do to convince you that I'm real. All I can say is that I {i}am{/i} real, and that I love you dearly.\""
-    c "“Devon，我知道我沒有辦法讓你相信，但我{b}確實{/b}是真的，我真心愛著你啊。”"
+    c "“Devon，我知道我沒有辦法讓你相信，但我{i}確實{/i}是真的，我真心愛著你啊。”"
 
 # game/a2s3.rpy:748
 translate Tchinese a2s3_d067140c:
@@ -3550,7 +3550,7 @@ translate Tchinese a2s3_3dc7675d:
 translate Tchinese a2s3_294f67de:
 
     # "\"{i}We're doing this together.{/i}\""
-    "“{b}我們一定可以共度難關。{/b}”"
+    "“{i}我們一定可以共度難關。{/i}”"
 
 # game/a2s3.rpy:806
 translate Tchinese a2s3_db673846:
@@ -3616,7 +3616,7 @@ translate Tchinese a2s3_e3b26b95:
 translate Tchinese a2s3_e9ffabc2:
 
     # c "\"AGGGH! STOP!\""
-    c "“{b}啊──────！不要！{/b}”"
+    c "“{b}啊────！不要！{/b}”"
 
 # game/a2s3.rpy:831
 translate Tchinese a2s3_5fbb9a8f:
@@ -3676,7 +3676,7 @@ translate Tchinese a2s3_13a18b94:
 translate Tchinese a2s3_7ac219ce:
 
     # "{i}...drowning{/i}"
-    "{b}……溺水{/b}"
+    "{i}……溺水{/i}"
 
 # game/a2s3.rpy:848
 translate Tchinese a2s3_516364d1:
@@ -3912,7 +3912,7 @@ translate Tchinese a2s3_a81ba999:
 translate Tchinese a2s3_aa8f2806:
 
     # c "\"Is Devon,{w=0.3} the bear.{cps=3}..{/cps}{w=0.4} is he still alive?\""
-    c "“那頭熊，{w=0.3}Devon.{cps=3}……{/cps}{w=0.4}他還活著嗎？”"
+    c "“那頭熊，{w=0.3}Devon…{cps=3}…{/cps}{w=0.4}他還活著嗎？”"
 
 # game/a2s3.rpy:128
 translate Tchinese a2s3_07dbf9fe:
@@ -3930,7 +3930,7 @@ translate Tchinese a2s3_ad42d10b:
 translate Tchinese a2s3_6c652800:
 
     # c "\"And Arturo.{cps=3}..{/cps}{w=0.4} The cat?{w=0.3} Is he...\""
-    c "“Arturo.{cps=3}……{/cps}{w=0.4} 那隻貓？{w=0.3} 他……”"
+    c "“Arturo…{cps=3}…{/cps}{w=0.4} 那隻貓？{w=0.3} 他……”"
 
 # game/a2s3.rpy:192
 translate Tchinese a2s3_8fe5accb:
@@ -4152,7 +4152,7 @@ translate Tchinese a2s3_99f9ab58:
 translate Tchinese a2s3_506a6d2a:
 
     # d "\"Please...{w=0.3} please.{cps=3}..{/cps}{w=0.4} please...\""
-    d "“Please……{w=0.3} please.{cps=3}……{/cps}{w=0.4} please……”"
+    d "“Please……{w=0.3} please…{cps=3}…{/cps}{w=0.4} please……”"
 
 # game/a2s3.rpy:974
 translate Tchinese a2s3_0c17fee9:

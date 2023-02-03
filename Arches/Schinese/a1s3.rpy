@@ -3122,3 +3122,11 @@ translate Schinese a1s3_05e90a5f:
     # d "\"Super psychic? {w=0.3}As opposed to what, sorta psychic?\""
     d "\"超级灵媒？{w=0.4}对比什么的，半吊子灵媒？\""
 
+# TODO: Translation updated at 2023-01-30 23:25
+
+# game/a1s3.rpy:853
+translate Schinese a1s3_a54be4e1:
+
+    # "Then he pushes through, and tumbles into thick darkness."
+    "然后他强行挤进窗口，跌入了伸手不见五指的黑暗之中。"
+

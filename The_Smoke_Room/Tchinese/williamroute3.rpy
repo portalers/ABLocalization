@@ -15994,7 +15994,7 @@ translate Tchinese hattie_a791c02c:
 translate Tchinese hattie_e131da58:
 
     # to "\"Mostly because I know he's not supposed to.\""
-    to "“誠如社會教義所言，我知道，他這麽做不應該。”"
+    to "“誠如社會教義所言，我知道，他這麼做不應該。”"
 
 # game/williamroute3.rpy:5983
 translate Tchinese hattie_9b2799d2:

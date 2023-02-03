@@ -694,7 +694,7 @@ translate Tchinese a1s3_854b6bac:
 translate Tchinese a1s3_a5d06a52:
 
     # "{i}Stop, {w=0.2}stop, {w=0.2}stop, {w=0.2}stop, {w=0.2}stop, {w=0.3}you stupid fucking idiot.{w=0.4} Stop psyching yourself out and man the fuck up!{/i}"
-    "{b}停下，{w=0.2}停下，{w=0.2}停下，{w=0.2}快停下，你個大白痴。{w=0.3}別再自己嚇唬自己了，拿出點男人的樣子來！{/b}"
+    "{i}停下，{w=0.2}停下，{w=0.2}停下，{w=0.2}快停下，你個大白痴。{w=0.3}別再自己嚇唬自己了，拿出點男人的樣子來！{/i}"
 
 # game/a1s3.rpy:204
 translate Tchinese a1s3_f2b17247:
@@ -1090,7 +1090,7 @@ translate Tchinese a1s3_383d85e7:
 translate Tchinese a1s3_b456d12e:
 
     # c "\"Thanks, Devon. I'm sorry I'm such a piece of shit.\""
-    c "“謝謝你，Devon。{w=0.4}對不起，我就是個白癡。”"
+    c "“謝謝你，Devon。對不起，我就是個白癡。”"
 
 # game/a1s3.rpy:311
 translate Tchinese a1s3_fb9bc77b:
@@ -2002,7 +2002,7 @@ translate Tchinese a1s3_98e83e4f:
 translate Tchinese a1s3_533ea4eb:
 
     # "When he first met Cameron, on the other hand, he was cute {i}and{/i} hot, especially with his guitar and voice, but that was just the surface stuff."
-    "另一方面，雖然Cameron給他的第一印象也是可愛{b}外加{/b}性感，更別提吉他彈得棒，聲音還好聽，但那些都只是表面上的。"
+    "另一方面，雖然Cameron給他的第一印象也是可愛{i}外加{/i}性感，更別提吉他彈得棒，聲音還好聽，但那些都只是表面上的。"
 
 # game/a1s3.rpy:574
 translate Tchinese a1s3_fa24d2fc:
@@ -2320,7 +2320,7 @@ translate Tchinese a1s3_e5ff8e42:
 translate Tchinese a1s3_7be23bf6:
 
     # "{i}\"{cps=20}Meaning in nothing.\"{/i}"
-    "“{b}毫無意義。{/b}”"
+    "“{i}毫無意義。{/i}”"
 
 # game/a1s3.rpy:658
 translate Tchinese a1s3_1c2e1984:
@@ -2404,7 +2404,7 @@ translate Tchinese a1s3_3a7f1eba:
 translate Tchinese a1s3_a80f000a:
 
     # "He needed to die.{w} He {i}had{/i} to die."
-    "他應該去死。{w}他{b}必須{/b}得死。"
+    "他應該去死。{w}他{i}必須{/i}得死。"
 
 # game/a1s3.rpy:673
 translate Tchinese a1s3_d2b9d851:
@@ -2488,7 +2488,7 @@ translate Tchinese a1s3_2cc6cbad:
 translate Tchinese a1s3_43080a92:
 
     # "{i}{cps=20}The window.{/i}"
-    "{b}{cps=20}那扇窗戶。{/b}"
+    "{i}{cps=20}那扇窗戶。{/i}"
 
 # game/a1s3.rpy:696
 translate Tchinese a1s3_15dfdf08:
@@ -2548,7 +2548,7 @@ translate Tchinese a1s3_731867ab:
 translate Tchinese a1s3_5ea21261:
 
     # "{i}Arches and half-circles.{/i}"
-    "{b}拱形和半圓。{/b}"
+    "{i}拱形和半圓。{/i}"
 
 # game/a1s3.rpy:706
 translate Tchinese a1s3_27567e70:
@@ -2986,7 +2986,7 @@ translate Tchinese a1s3_ee9fa44b:
 translate Tchinese a1s3_1a8c0c2e:
 
     # unk "\"You listen, {i}dude{/i}. I gave you assholes a whole fucking day to get the fuck out, but you're still here.{w} Since you're so goddamn comfortable, hope you don't mind bein' stuck here for good.\""
-    unk "“你給我聽著，{b}老兄{/b}。我給了一整天時間讓你們滾蛋，你們非但不領情，還他媽挺快活的。{w}既然如此，希望你們別介意一輩子被困在這裡。”"
+    unk "“你給我聽著，{i}老兄{/i}。我給了一整天時間讓你們滾蛋，你們非但不領情，還他媽挺快活的。{w}既然如此，希望你們別介意一輩子被困在這裡。”"
 
 # game/a1s3.rpy:824
 translate Tchinese a1s3_728e0dd8:
@@ -3120,5 +3120,13 @@ translate Tchinese a1s3_22a34cb3:
 translate Tchinese a1s3_05e90a5f:
 
     # d "\"Super psychic? {w=0.3}As opposed to what, sorta psychic?\""
-    d "\"超級靈媒？{w=0.4}對比什麼的，半吊子靈媒？\""
+    d "\"超級靈媒？{w=0.3}對比什麼的，半吊子靈媒？\""
+
+# TODO: Translation updated at 2023-01-30 23:25
+
+# game/a1s3.rpy:853
+translate Tchinese a1s3_a54be4e1:
+
+    # "Then he pushes through, and tumbles into thick darkness."
+    "然後他強行擠進窗口，跌入了伸手不見五指的黑暗之中。"
 

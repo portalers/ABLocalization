@@ -2464,7 +2464,7 @@ translate Tchinese nikroute3_426a2392:
 translate Tchinese nikroute3_2bc2e784:
 
     # "Cynthia sees me past the counter and I catch her following us."
-    "在吧台後的Cynthia見狀，跟了上來。"
+    "在吧檯後的Cynthia見狀，跟了上來。"
 
 # game/nikroute3.rpy:718
 translate Tchinese nikroute3_2bf46555:
@@ -4624,7 +4624,7 @@ translate Tchinese sny2_fc0bc510:
 translate Tchinese sny2_2787315d:
 
     # "He drags along my sensitive spot while I feel him pumping inside me and I feel myself start to spasm."
-    "他在把獾精灌入我體內時，一直擦過我的敏感點，讓我也開始痙孿。"
+    "他在把獾精灌入我體內時，一直擦過我的敏感點，讓我也開始痙攣。"
 
 # game/nikroute3.rpy:1216
 translate Tchinese sny2_84e80f49:
@@ -8079,7 +8079,7 @@ translate Tchinese sny3_b5366a13:
 translate Tchinese sny3_e9fcb0d3:
 
     # "There’s a ballroom with a fully stocked bar that’s even bigger than the Hip’s, and a gramophone."
-    "有一間舞廳的吧台甚至比Hip的還大，藏酒與設備俱全，還有台留聲機。"
+    "有一間舞廳的吧檯甚至比Hip的還大，藏酒與設備俱全，還有台留聲機。"
 
 # game/nikroute3.rpy:2241
 translate Tchinese sny3_2651e9cc:

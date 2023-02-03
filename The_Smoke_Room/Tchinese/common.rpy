@@ -168,7 +168,7 @@ translate Tchinese strings:
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Sun"
-    new "{#weekday_short}周日"
+    new "{#weekday_short}週日"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}January"
@@ -1148,4 +1148,3 @@ translate Tchinese strings:
     # renpy/common/00preferences.rpy:531
     old "mute main"
     new "mute main"
-

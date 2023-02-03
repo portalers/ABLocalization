@@ -5463,7 +5463,7 @@ translate Tchinese after_sw1_e62e93b6:
 translate Tchinese after_sw1_5c49ca2f:
 
     # "He pats me on the cheek with his paw, which smells like iron right now."
-    "他用爪子輕輕拍了拍我的臉頰，聞起來一股鐵銹味。"
+    "他用爪子輕輕拍了拍我的臉頰，聞起來一股鐵鏽味。"
 
 # game/williamroute2.rpy:1606
 translate Tchinese after_sw1_8692370d:
@@ -9183,7 +9183,7 @@ translate Tchinese dd2b_cf521296:
 translate Tchinese dd2b_d07b0121:
 
     # no "\"You know it isn’t.\""
-    no "“你知道并非如此。”"
+    no "“你知道並非如此。”"
 
 # game/williamroute2.rpy:2754
 translate Tchinese dd2b_3e71407e:

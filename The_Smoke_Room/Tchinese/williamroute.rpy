@@ -460,7 +460,7 @@ translate Tchinese williamroute_50936916:
 translate Tchinese williamroute_aa51b3c3:
 
     # "I have to stop to clear my throat."
-    "我停下來清了清哽嚥的喉嚨。"
+    "我停下來清了清哽咽的喉嚨。"
 
 # game/williamroute.rpy:110
 translate Tchinese williamroute_da5692e3:

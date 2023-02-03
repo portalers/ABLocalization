@@ -8344,7 +8344,7 @@ translate Tchinese sny1_a754c6b8:
 translate Tchinese sny1_926b917d:
 
     # ni "\"I admit, I do not understand what put me in this position.\""
-    ni "“我得承認，我不明白自己為什麼會被拱上台面。”"
+    ni "“我得承認，我不明白自己為什麼會被拱上檯面。”"
 
 # game/nikroute2.rpy:2448
 translate Tchinese sny1_4cbc09d0:
@@ -9574,7 +9574,7 @@ translate Tchinese sny1_628af33c:
 translate Tchinese sny1_a03a533d:
 
     # "I sit in my bed for a while, doing my best to make myself comfortable, fluffing the hard, flat pillow behind my head."
-    "我在床上坐了一會，把又硬又平的枕頭抖鬆，盡量讓自己過得舒服些。"
+    "我在床上坐了一會，把又硬又平的枕頭抖鬆，儘量讓自己過得舒服些。"
 
 # game/nikroute2.rpy:2816
 translate Tchinese sny1_1493c7cd:
@@ -17764,7 +17764,7 @@ translate Tchinese sellcomp_a0c658c3:
 translate Tchinese sellcomp_d40a98e4:
 
     # "And his shaft is long, and thick, and his tip is messy."
-    "而他的肉棒不僅很長而且粗大飽滿，前端也已經濕得一蹋糊塗。"
+    "而他的肉棒不僅很長而且粗大飽滿，前端也已經濕得一塌糊塗。"
 
 # game/nikroute2.rpy:5803
 translate Tchinese sellcomp_762179f4:
@@ -19252,7 +19252,7 @@ translate Tchinese sellcomp_cb02d75a:
 translate Tchinese sellcomp_d0d2573f:
 
     # di "\"Many won’t make the effort to know you if you before a year, because so many men come and go.\""
-    di "“很多人都懶得去認識來不到一年的家伙，畢竟太多人來來去去了。”"
+    di "“很多人都懶得去認識來不到一年的傢伙，畢竟太多人來來去去了。”"
 
 # game/nikroute2.rpy:6368
 translate Tchinese sellcomp_0ecd9bc6:
@@ -23733,7 +23733,7 @@ translate Tchinese locker1bright_9613c394:
 translate Tchinese locker1bright_03016300:
 
     # no "\"Leave... now...\""
-    no "“马上……离开……”"
+    no "“馬上……離開……”"
 
 # game/nikroute2.rpy:8144
 translate Tchinese locker1bright_95a2766e:
