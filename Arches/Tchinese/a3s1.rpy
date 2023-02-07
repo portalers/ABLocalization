@@ -76,7 +76,7 @@ translate Tchinese a3s1_3840de2e:
 translate Tchinese a3s1_2097d016:
 
     # "He remembers his situation, and he remembers that he's been drugged with shrooms and Xanax."
-    "他記得自己的處境，他記得自己被下了致幻菇和阿普唑侖。"
+    "他記得自己的處境，他記得自己被下了迷幻菇和贊安諾。"
 
 # game/a3s1.rpy:25
 translate Tchinese a3s1_c0a97f46:
@@ -112,7 +112,7 @@ translate Tchinese a3s1_7440dca2:
 translate Tchinese a3s1_9824017b:
 
     # "In his mind's eye, he looks {i}forward{/i}, and he sees a myriad of people in front of him, though they're all the same people: Devon, Brian, and himself, locked in a vicious, spinning blur of claws and teeth, blood and horrific, unidentifiable viscera."
-    "他{i}極目遠眺{/i}，看到有無數個Devon、Brian、還有他自己，在一個滿是惡意的地方，用快到模糊的爪和牙灑下鮮血與難以辨別的臟器。"
+    "他{b}極目遠眺{/b}，看到有無數個Devon、Brian、還有他自己，在一個滿是惡意的地方，用快到模糊的爪和牙灑下鮮血與難以辨別的臟器。"
 
 # game/a3s1.rpy:32
 translate Tchinese a3s1_9d95ffe2:
@@ -124,7 +124,7 @@ translate Tchinese a3s1_9d95ffe2:
 translate Tchinese a3s1_ebe9a70f:
 
     # "Then, noticing something over his shoulder, he looks {i}back{/i}, and this time he sees one version of himself, along with Brian."
-    "就在這時，他注意到了什麼。他扭頭朝{i}後{/i}一看，在那裡的正是其中一個版本的自己，以及Brian。"
+    "就在這時，他注意到了什麼。他扭頭朝{b}後{/b}一看，在那裡的正是其中一個版本的自己，以及Brian。"
 
 # game/a3s1.rpy:34
 translate Tchinese a3s1_889e0fc2:
@@ -172,7 +172,7 @@ translate Tchinese a3s1_5023437a:
 translate Tchinese a3s1_b1063d3c:
 
     # b "\"Heh, not yet, kid. We got a few things to do first, and you probably wanna see your boyfriend too, eh? Not sure you'll get to talk to him since he's knocked out.\""
-    b "“當然沒有，小子，咱倆還有帳要算吶，再說你不想見你的小男友了？雖然他昏了過去，能吱一聲就不錯了。”"
+    b "“當然沒有，小子，我們倆還有帳要算吶，再說你不想見你的小男友了？雖然他昏了過去，能吱一聲就不錯了。”"
 
 # game/a3s1.rpy:49
 translate Tchinese a3s1_bf5b8b22:
@@ -226,7 +226,7 @@ translate Tchinese a3s1_ca0e69b1:
 translate Tchinese a3s1_0963b5db:
 
     # "I'm {i}watching this, and{/i} I {i}need to save Devon.{/i}"
-    "是我{i}在看，而且{/i}我{i}要救出Devon。{/i}"
+    "是我{b}在看，而且{/b}我{b}要救出Devon。{/b}"
 
 # game/a3s1.rpy:62
 translate Tchinese a3s1_d3fa505b:
@@ -274,7 +274,7 @@ translate Tchinese a3s1_b5433a02:
 translate Tchinese a3s1_bcc7dae1:
 
     # "The Xanax is certainly quashing the panic he should be feeling right now, but this time, his perspective is from a completely different angle."
-    "阿普唑侖的的確確紓解了他本應感到的恐慌，然而這一次，他卻站在一個完全不同的視角。"
+    "贊安諾的確紓解了他本應感到的恐慌，然而這一次，他卻站在一個完全不同的視角。"
 
 # game/a3s1.rpy:70
 translate Tchinese a3s1_b6bd2126:
@@ -334,7 +334,7 @@ translate Tchinese a3s1_b190fe83:
 translate Tchinese a3s1_69e22556:
 
     # "Not just {i}queer{/i} like Brian considers himself to be, but a faggot."
-    "不是Brian自我認知的{i}同志{/i}，而是基佬。"
+    "不是Brian自己身而為人的身份認同的{b}同志{/b}，而是道具般的攪屎棍飛機杯。"
 
 # game/a3s1.rpy:80
 translate Tchinese a3s1_eff5ca1f:
@@ -442,7 +442,7 @@ translate Tchinese a3s1_1a5cdd59:
 translate Tchinese a3s1_98b1d35a:
 
     # "But he'd found some release in strangling Cameron, and now his focus is turning back to a vague idea on how to use Cameron's abilities."
-    "不過他在勒死Cameron的過程中得到了一些釋放，現在他的注意力又回到了如何利用Cameron的能力上。"
+    "不過他在勒掐Cameron的過程中得到了一些釋放，但現在他的注意力又回到了如何利用Cameron的能力上。"
 
 # game/a3s1.rpy:98
 translate Tchinese a3s1_6ac57383:
@@ -484,7 +484,7 @@ translate Tchinese a3s1_eb186a87:
 translate Tchinese a3s1_67ed1017:
 
     # "Looking {i}forward{/i}, he glimpses the various scenarios again, and the one constant is death."
-    "他望向{i}遠方{/i}，再次瞥見了各種情景，其中唯一不變的是死亡。"
+    "他望向{b}遠方{/b}，再次瞥見了各種情景，其中唯一不變的是死亡。"
 
 # game/a3s1.rpy:107
 translate Tchinese a3s1_ffd7f564:
@@ -568,7 +568,7 @@ translate Tchinese a3s1_b8811d5b:
 translate Tchinese a3s1_dc1afe32:
 
     # b "\"...had to make connections down in Sonora. Stuff was over-the-fucking-counter there, so it was easy to get, but getting it over-the-fucking-border is a whole different issue--\""
-    b "“……只能去索諾拉找找路子，那裡有的是現貨。不過弄到手容易，出州就──”"
+    b "“……只能去索諾蘭找找路子，那裡有的是現貨。不過弄到手容易，出州就──”"
 
 # game/a3s1.rpy:124
 translate Tchinese a3s1_be5c9940:
@@ -682,7 +682,7 @@ translate Tchinese a3s1_aca69da8:
 translate Tchinese a3s1_987337a5:
 
     # c "\"No, no! Stop, I can walk with you. I won't try to run-- OW!\""
-    c "“不，不要！我會乖乖跟著你的，我不會逃跑──{i}嗷{/i}！”"
+    c "“不，不要！我會乖乖跟著你的，我不會逃跑──{b}嗷{/b}！”"
 
 # game/a3s1.rpy:155
 translate Tchinese a3s1_5d29f70a:
@@ -706,7 +706,7 @@ translate Tchinese a3s1_46789eb1:
 translate Tchinese a3s1_e0c3a977:
 
     # "Every minute or so, Cameron looks {i}forward{/i}, and sees the scenario he's aiming for, still within reach, so he keeps walking."
-    "每隔一分鐘左右，Cameron都會看一眼{i}遠方{/i}，看那理想中的情況是否仍在他力所能及的範圍內。"
+    "每隔一分鐘左右，Cameron都會看一眼{b}遠方{/b}，看那理想中的情況是否仍在他力所能及的範圍內。"
 
 # game/a3s1.rpy:159
 translate Tchinese a3s1_993d1ff2:
@@ -1005,32 +1005,32 @@ translate Tchinese a3s1_d3c5e662:
 # game/a3s1.rpy:234
 translate Tchinese a3s1_b9e2e6e9:
 
-    # "鼬" "\"What happened to you?\""
-    "鼬" "“你有病啊？”"
+    # "Weasel" "\"What happened to you?\""
+    "Weasel" "“你有病啊？”"
 
 # game/a3s1.rpy:235
 translate Tchinese a3s1_f47422cd:
 
-    # "The 鼬 stares at him, then tilts his head to the side, squinting before reaching out and turning Arturo slightly by the shoulder."
+    # "The weasel stares at him, then tilts his head to the side, squinting before reaching out and turning Arturo slightly by the shoulder."
     "鼬盯著他，然後把腦袋歪向一邊，眯起眼，伸手握住Arturo的肩膀，輕輕一轉。"
 
 # game/a3s1.rpy:237
 translate Tchinese a3s1_b467e13d:
 
-    # "鼬" "\"Shit, there's no way! He couldn't be that fucking...\""
-    "鼬" "“操！不會吧！這小子難道是……”"
+    # "Weasel" "\"Shit, there's no way! He couldn't be that fucking...\""
+    "Weasel" "“操！不會吧！這小子難道是……”"
 
 # game/a3s1.rpy:238
 translate Tchinese a3s1_4f6f51c9:
 
-    # "The 鼬 trails off, then looks at Artie's face."
+    # "The weasel trails off, then looks at Artie's face."
     "鼬慢慢地不做聲了，轉而打量起Artie的臉。"
 
 # game/a3s1.rpy:239
 translate Tchinese a3s1_74e7f641:
 
-    # "鼬" "\"Who did this?\""
-    "鼬" "“這是誰做的？”"
+    # "Weasel" "\"Who did this?\""
+    "Weasel" "“這是誰做的？”"
 
 # game/a3s1.rpy:240
 translate Tchinese a3s1_181508a1:
@@ -1042,19 +1042,19 @@ translate Tchinese a3s1_181508a1:
 translate Tchinese a3s1_c96a8657:
 
     # a "\"B-b-b-baaar...\""
-    a "“B──b──b──baaar……”"
+    a "“ㄒ──ㄒ──ㄒ──ㄩㄥㄥˊ……”"
 
 # game/a3s1.rpy:242
 translate Tchinese a3s1_cef366d4:
 
-    # "The 鼬 stares at him with an odd look."
+    # "The weasel stares at him with an odd look."
     "鼬向他投去不解的目光。"
 
 # game/a3s1.rpy:244
 translate Tchinese a3s1_c7418f38:
 
-    # "鼬" "\"Bar? Yeah, I was at the bar. It's closed.\""
-    "鼬" "“酒吧？啊，我剛從那回來，那裡已經歇業了。”"
+    # "Weasel" "\"Bar? Yeah, I was at the bar. It's closed.\""
+    "Weasel" "“酒吧？啊，我剛從那回來，那裡已經歇業了。”"
 
 # game/a3s1.rpy:245
 translate Tchinese a3s1_bb6d19b1:
@@ -1065,8 +1065,8 @@ translate Tchinese a3s1_bb6d19b1:
 # game/a3s1.rpy:247
 translate Tchinese a3s1_ff43aad8:
 
-    # "鼬" "\"Bear? Brian?\""
-    "鼬" "“熊？Brian？”"
+    # "Weasel" "\"Bear? Brian?\""
+    "Weasel" "“熊？Brian？”"
 
 # game/a3s1.rpy:248
 translate Tchinese a3s1_36473fc6:
@@ -1077,8 +1077,8 @@ translate Tchinese a3s1_36473fc6:
 # game/a3s1.rpy:250
 translate Tchinese a3s1_bbffd8a4:
 
-    # "鼬" "\"Damn, you're real fucked up aren't ya?\""
-    "鼬" "“操，你知不知道你惹上了多大的麻煩？”"
+    # "Weasel" "\"Damn, you're real fucked up aren't ya?\""
+    "Weasel" "“操，你知不知道你惹上了多大的麻煩？”"
 
 # game/a3s1.rpy:251
 translate Tchinese a3s1_37a4ea03:
@@ -1107,31 +1107,31 @@ translate Tchinese a3s1_36bf12c9:
 # game/a3s1.rpy:256
 translate Tchinese a3s1_ec34f452:
 
-    # "鼬" "\"Well, I'll be damned. This is it, then, isn't it? That stupid motherfucker. All right, get in. We're going to the hospital.\""
-    "鼬" "“見鬼，還是到了這一天嗎？那個沒腦子的癟三。哎，上車，咱們去醫院。”"
+    # "Weasel" "\"Well, I'll be damned. This is it, then, isn't it? That stupid motherfucker. All right, get in. We're going to the hospital.\""
+    "Weasel" "“見鬼，還是到了這一天嗎？那個沒腦子的癟三。哎，上車，我們去醫院。”"
 
 # game/a3s1.rpy:258
 translate Tchinese a3s1_329df802:
 
-    # "Arturo stumbles forward, and once the 鼬 realizes he's having trouble moving at all, he helps Arturo inside."
+    # "Arturo stumbles forward, and once the weasel realizes he's having trouble moving at all, he helps Arturo inside."
     "Arturo跌跌撞撞地走了幾步，鼬見他行動困難，便上前去攙扶他。"
 
 # game/a3s1.rpy:259
 translate Tchinese a3s1_e2de78f7:
 
-    # "As he does, the 鼬 sucks in a breath, grimacing."
+    # "As he does, the weasel sucks in a breath, grimacing."
     "與此同時，他猛吸了一口氣，表情瞬間扭曲。"
 
 # game/a3s1.rpy:260
 translate Tchinese a3s1_3cf24a30:
 
-    # "鼬" "\"Jesus Christ, this is really makin' me not wanna do what I'm gonna have to do after this.\""
-    "鼬" "“老天爺啊，雖然饒不過，但至少讓我體面點吧。”"
+    # "Weasel" "\"Jesus Christ, this is really makin' me not wanna do what I'm gonna have to do after this.\""
+    "Weasel" "“老天爺啊，雖然饒不過，但至少讓我體面點吧。”"
 
 # game/a3s1.rpy:261
 translate Tchinese a3s1_d96ed108:
 
-    # "Arturo isn't sure what the old 鼬 is talking about, but if he's taking him to the hospital, then he's at least on the right track."
+    # "Arturo isn't sure what the old weasel is talking about, but if he's taking him to the hospital, then he's at least on the right track."
     "Arturo聽不懂鼬的話，但如果他真的會帶他去醫院，那事情還算是在正軌上。"
 
 # game/a3s1.rpy:262
@@ -1143,8 +1143,8 @@ translate Tchinese a3s1_032fca8a:
 # game/a3s1.rpy:263
 translate Tchinese a3s1_94d101c2:
 
-    # "鼬" "\"Yeah, yeah, I'll call Payton PD... once I drop ya off. Gotta make sure I can beat 'em back, though.\""
-    "鼬" "“知道了，知道了，我會打給佩頓警察局的……等送你到醫院之後。不過，我還得確保怎麼糊弄過去。”"
+    # "Weasel" "\"Yeah, yeah, I'll call Payton PD... once I drop ya off. Gotta make sure I can beat 'em back, though.\""
+    "Weasel" "“知道了，知道了，我會打給沛頓警察局的……等送你到醫院之後。不過，我還得確保怎麼糊弄過去。”"
 
 # game/a3s1.rpy:266
 translate Tchinese a3s1_229c1129:
@@ -1222,7 +1222,7 @@ translate Tchinese a3s1_368648de:
 translate Tchinese a3s1_fe8a60c2:
 
     # "{i}Come on, stop assuming things{/i}."
-    "{i}算了吧，別瞎想了。{/i}。"
+    "{i}算了吧，別瞎想了。{/i}"
 
 # game/a3s1.rpy:282
 translate Tchinese a3s1_a9e0a75e:
@@ -1288,7 +1288,7 @@ translate Tchinese a3s1_d0a4f31b:
 translate Tchinese a3s1_f0fef879:
 
     # b "\"Did it to himself. Imagine what a mess we'd have if he wasn't drugged, right? Never trust a bear to stay put when you chain 'em up.\""
-    b "“那是他自找的。看吧，要是沒有下藥，咱們可就有大麻煩了，不是嗎？千萬別指望你能把一頭熊老老實實拴起來。”"
+    b "“那是他自找的。看吧，要是沒有下藥，我們可就有大麻煩了，不是嗎？千萬別指望你能把一頭熊老老實實拴起來。”"
 
 # game/a3s1.rpy:293
 translate Tchinese a3s1_e1e5b4aa:
@@ -1456,7 +1456,7 @@ translate Tchinese a3s1_b9600c3e:
 translate Tchinese a3s1_3a1442c1:
 
     # d "\"HEEEEEY!\""
-    d "“{b}啊————！{/b}”"
+    d "“{b}啊────！{/b}”"
 
 # game/a3s1.rpy:329
 translate Tchinese a3s1_622c7e1a:
@@ -1840,7 +1840,7 @@ translate Tchinese a3s1_5be1dc2a:
 translate Tchinese a3s1_dd3f4a6a:
 
     # "Being knocked out, regaining consciousness, stumbling his way through the dark, all while on an untold amount of shrooms is... harrowing."
-    "被打暈、恢復知覺、在黑暗中蹣跚前行、還吃了不計其數的致幻菇，這真的不可謂不……慘痛。"
+    "被打暈、恢復知覺、在黑暗中蹣跚前行、還吃了不計其數的迷幻菇，這真的不可謂不……慘痛。"
 
 # game/a3s1.rpy:405
 translate Tchinese a3s1_0886745a:
@@ -2146,7 +2146,7 @@ translate Tchinese a3s1_ccb16d26:
 translate Tchinese a3s1_6fc5b9b8:
 
     # c "\"Wait, please don't--Ah!\""
-    c "“等等，請不要——啊！”"
+    c "“等等，請不要──啊！”"
 
 # game/a3s1.rpy:486
 translate Tchinese a3s1_7fb0f2bf:
@@ -2170,13 +2170,13 @@ translate Tchinese a3s1_87d925b8:
 translate Tchinese a3s1_3302a4bd:
 
     # b "\"You from Bridgetown? Timber city? Or did you just pick that up at the Goodwill?\""
-    b "“你是橋鎮人？那個伐木城市？還是說這衣服是你從二手店裡淘來的？”"
+    b "“你是橋鎮人？那個伐木城市？還是說這衣服是你從二手店裡買來的？”"
 
 # game/a3s1.rpy:491
 translate Tchinese a3s1_f7bbf573:
 
     # b "\"I always say, when you're shoppin' at the Goodwill, NEVER pick up clothes that have anything to do with a place. Fuck, just a few years back, I took a Weston sweatshirt from the Salvation Army and--\""
-    b "“我得說，{b}千萬別{/b}買跟地區掛鉤的衣服。他媽的，幾年前，我從救世軍那裡弄了件韋斯頓的運動衫，後來──”"
+    b "“我得說，{b}千萬別{/b}在二手店買衣服。他媽的，幾年前，我從救世軍那裡弄了件韋斯頓的棉織長袖衫，後來──”"
 
 # game/a3s1.rpy:493
 translate Tchinese a3s1_c9c8091b:
@@ -2248,7 +2248,7 @@ translate Tchinese a3s1_c8d8940d:
 translate Tchinese a3s1_03f90af0:
 
     # "Cameron looks behind himself while also looking {i}back{/i}."
-    "Cameron不只是望著身後，他還在觀察{i}過去{/i}。"
+    "Cameron不只是望著身後，他還在觀察{b}過去{/b}。"
 
 # game/a3s1.rpy:508
 translate Tchinese a3s1_c6298f01:
@@ -2524,7 +2524,7 @@ translate Tchinese a3s1_0ab71388:
 translate Tchinese a3s1_a899c747:
 
     # b "\"Xanax is like magic when you're panicking. Anyway, what is it that you do for a living, did it all pay off?\""
-    b "“阿普唑侖在鎮定方面有奇效。總之，你是靠什麼賺錢的？全薪嗎？”"
+    b "“贊安諾在鎮定方面有奇效。總之，你是靠什麼賺錢的？全薪嗎？”"
 
 # game/a3s1.rpy:568
 translate Tchinese a3s1_b5ea7bde:
@@ -2542,7 +2542,7 @@ translate Tchinese a3s1_30b4c2a0:
 translate Tchinese a3s1_0f7c45b2:
 
     # b "\"Sad, workin' for a country that we nuked twice. Back in the 80s, we used to beat people up for working for companies like that.\""
-    b "“可悲，為一個被咱們核過兩次的國家效力。放80年代，你這種人可是要被揍的。”"
+    b "“可悲，為一個被我們核過兩次的國家效力。放80年代，你這種人可是要被揍的。”"
 
 # game/a3s1.rpy:574
 translate Tchinese a3s1_cc840b02:
@@ -3184,7 +3184,7 @@ translate Tchinese a3s1_b26483c0:
 translate Tchinese a3s1_b62a72dc:
 
     # b "\"Shut the fuck up right now, or I obliterate your other kidney, got it?\""
-    b "“閉上你的臭嘴，不然我就把你另一個腰子也嘎了，明白？”"
+    b "“閉上你的臭嘴，不然我就把你另一個腰子也毀了，明白？”"
 
 # game/a3s1.rpy:731
 translate Tchinese a3s1_fc0082d8:
@@ -3274,7 +3274,7 @@ translate Tchinese a3s1_7697122d:
 translate Tchinese a3s1_dd04cd5e:
 
     # c "\"Brian, just wait a second. Think about it. I can {i}help{/i} you. Why did you bring me here in the first place?\""
-    c "“請等一下，Brian。你好好想想，我可以{i}幫{/i}你啊。不然你為什麼要帶我來這裡？”"
+    c "“請等一下，Brian。你好好想想，我可以{b}幫{/b}你啊。不然你為什麼要帶我來這裡？”"
 
 # game/a3s1.rpy:753
 translate Tchinese a3s1_8e45a2f9:
@@ -3394,7 +3394,7 @@ translate Tchinese a3s1_078f2659:
 translate Tchinese a3s1_ca97d76e:
 
     # "\"{i}Everything's falling apart. You're spiraling.\""
-    "“{i}一切都分崩離析了，你在不斷攀升。{/i}”"
+    "“{i}一切都解離了，你在不斷昇華。{/i}”"
 
 # game/a3s1.rpy:791
 translate Tchinese a3s1_2effc3ab:
@@ -3592,7 +3592,7 @@ translate Tchinese a3s1_a0244da5:
 translate Tchinese a3s1_da618687:
 
     # "And then, even more viciously than Devon had attacked Brian, the old bear begins to maul Cameron."
-    "然後，比Devon襲擊Brian還要惡毒地，老熊開始凌虐Cameron。"
+    "然後，比Devon之前襲擊Brian更加惡毒地，老熊現在開始凌虐Cameron。"
 
 # game/a3s1.rpy:846
 translate Tchinese a3s1_6762fd84:
@@ -3694,7 +3694,7 @@ translate Tchinese a3s1_dcf5eb89:
 translate Tchinese a3s1_1ff052e9:
 
     # "Devon can feel that he's truly stunned the old bear, at least for now, as Brian takes his fist back and resorts to panicked shoves instead of actually trying to fight."
-    "Devon感到他確實嚇住了老熊，至少目前是。Brian收回拳頭，轉而驚慌失措地推搡，沒有再認真反抗了。"
+    "Devon感到他確實嚇住了老熊，至少目前是。Brian收回拳頭，轉而驚慌失措地互推，沒有再認真反抗了。"
 
 # game/a3s1.rpy:865
 translate Tchinese a3s1_94079ecc:
@@ -3970,7 +3970,7 @@ translate Tchinese a3s1_1f899490:
 translate Tchinese a3s1_f4ec37c3:
 
     # c "\"He-- He didn't get me. Let's go!\""
-    c "“他──他沒能把我怎麼樣，咱們快走吧！”"
+    c "“他──他沒能把我怎麼樣，我們快走吧！”"
 
 # game/a3s1.rpy:922
 translate Tchinese a3s1_04771461:
@@ -4054,7 +4054,7 @@ translate Tchinese a3s1_4635e5f9:
 translate Tchinese a3s1_e2736112:
 
     # "Cameron's ability to see and feel things is fading, just as the effects of the shrooms are fading."
-    "Cameron看到和感知事物的能力正在消退，就像致幻菇的效果正在消退一樣。"
+    "Cameron看到和感知事物的能力正在消退，就像迷幻菇的效果正在消退一樣。"
 
 # game/a3s1.rpy:945
 translate Tchinese a3s1_f1dd788c:
@@ -4126,7 +4126,7 @@ translate Tchinese a3s1_8534e654:
 translate Tchinese a3s1_737bcd28:
 
     # "After looking {i}forward{/i}, Cameron does the only thing he can think of."
-    "在展望過{i}遠方{/i}後，Cameron做了他唯一能想到的事情。"
+    "在展望過{b}遠方{/b}後，Cameron做了他唯一能想到的事情。"
 
 # game/a3s1.rpy:964
 translate Tchinese a3s1_8c67c880:
@@ -4318,7 +4318,7 @@ translate Tchinese a3s1_8ccaeef9:
 translate Tchinese a3s1_536f4058:
 
     # "But a shroom trip can't emit light no matter how hard you're tripping."
-    "然而致幻菇所引發的幻覺是不可能發出那種光的，無論如何都不能。"
+    "然而迷幻菇所引發的幻覺是不可能發出那種光的，無論如何都不能。"
 
 # game/a3s1.rpy:1006
 translate Tchinese a3s1_e8693db6:
@@ -4342,7 +4342,7 @@ translate Tchinese a3s1_d092fd54:
 translate Tchinese a3s1_719ac69b:
 
     # c "\"I don't know, but I can see. Let's just get out of here... please.\""
-    c "“這很難解釋，但我看得見。咱們還是抓緊時間離開吧……拜託了。”"
+    c "“這很難解釋，但我看得見。我們還是抓緊時間離開吧……拜託了。”"
 
 # game/a3s1.rpy:1010
 translate Tchinese a3s1_92e4639e:
@@ -4366,7 +4366,7 @@ translate Tchinese a3s1_2d409ab2:
 translate Tchinese a3s1_aabdc534:
 
     # "These arches had tortured his mother, but this {i}feels{/i} like his mother, somehow."
-    "那些拱形曾折磨過他的母親，但這一次，他莫名{i}覺得{/i}拱形就像他的母親。"
+    "那些拱形曾折磨過他的母親，但這一次，他莫名{b}覺得{/b}拱形就像他的母親。"
 
 # game/a3s1.rpy:1016
 translate Tchinese a3s1_0ef003d8:
@@ -4450,7 +4450,7 @@ translate Tchinese a3s1_1bd1c4da:
 translate Tchinese a3s1_a32f26ff:
 
     # d "\"I think I hear a helicopter? And maybe a megaphone? Shit, did people come for us?\""
-    d "“我好像聽見了直升機的聲音？還有擴音器？天，有人來找咱們嗎？”"
+    d "“我好像聽見了直升機的聲音？還有擴音器？天，有人來找我們嗎？”"
 
 # game/a3s1.rpy:1031
 translate Tchinese a3s1_5abe9b09:
@@ -4534,7 +4534,7 @@ translate Tchinese a3s1_0b527699:
 translate Tchinese a3s1_0c2595a3:
 
     # d "\"Come on, you didn't have to say that first part. We made it. Okay? It's just... It's just a fork in the road.\""
-    d "“前半句是沒有必要的。咱們都熬到現在了，不是嗎？還……還有一個岔路口。”"
+    d "“前半句是沒有必要的。我們都熬到現在了，不是嗎？還……還有一個岔路口。”"
 
 # game/a3s1.rpy:1046
 translate Tchinese a3s1_02e62bd7:
@@ -4618,7 +4618,7 @@ translate Tchinese a3s1_e77ef1e7:
 translate Tchinese a3s1_321b25e4:
 
     # "Looking {i}forward{/i} is no longer clear, but as Cameron uses the last of the psilocybin in his system to peer into their future, he becomes afraid by what he glimpses."
-    "{i}遠方{/i}已不再清晰，Cameron用他體內最後一點致幻菇去窺視他們的未來，卻只感到不寒而慄。"
+    "{b}遠方{/b}已不再清晰，Cameron用他體內最後一點迷幻菇去窺視他們的未來，卻只感到不寒而慄。"
 
 # game/a3s1.rpy:1060
 translate Tchinese a3s1_0cbacbeb:
@@ -4710,13 +4710,13 @@ translate Tchinese a3s1_8d16eecc:
 translate Tchinese a3s1_d4bbd480:
 
     # "In his mind's eye, he looks {i}forward{/i}, and he sees a myriad of people in front of him, though they're all the same people: Devon, Brian, and himself, locked in a vicious, spinning blur of claws, teeth, blood and horrific, unidentifiable viscera."
-    "他極目{i}遠眺{/i}，看到有無數個Devon、Brian、還有他自己，在一個滿是惡意的地方，用快到模糊的爪和牙灑下鮮血與難以辨別的臟器。"
+    "他極目{b}遠眺{/b}，看到有無數個Devon、Brian、還有他自己，在一個滿是惡意的地方，用快到模糊的爪和牙灑下鮮血與難以辨別的臟器。"
 
 # game/a3s1.rpy:148
 translate Tchinese a3s1_7d362edc:
 
     # b "\"Heh, not yet, kid. We got a few things to do first, and you probably wanna see your boyfriend too, eh?{w} Not sure you'll get to talk to him since he's knocked out.\""
-    b "“當然沒有，小子，咱倆還有筆帳要算吶，再說你不想見你的小男友了？雖然他昏了過去，能吱一聲就不錯了。”"
+    b "“當然沒有，小子，我們倆還有筆帳要算吶，再說你不想見你的小男友了？雖然他昏了過去，能吱一聲就不錯了。”"
 
 # game/a3s1.rpy:182
 translate Tchinese a3s1_1296d745:
@@ -4758,7 +4758,7 @@ translate Tchinese a3s1_6f7eb5f9:
 translate Tchinese a3s1_8b76554d:
 
     # centertext "The Xanax is certainly quashing the panic he should be feeling right now, but this time, his perspective is from a completely different angle."
-    centertext "阿普唑侖的的確確紓解了他本應感到的恐慌，然而這一次，他卻站在一個完全不同的視角。"
+    centertext "贊安諾的確紓解了他本應感到的恐慌，然而這一次，他卻站在一個完全不同的視角。"
 
 # game/a3s1.rpy:189
 translate Tchinese a3s1_efa5ca6b:
@@ -4872,7 +4872,7 @@ translate Tchinese a3s1_44b05237:
 translate Tchinese a3s1_1816929b:
 
     # b "\"You're cute, but not that cute, and I'm not that stupid.{w} I hate fags like you, sucking up and sucking dick so you get what you really want.\""
-    b "“你很可愛，但沒那麼可愛，我也沒那麼蠢。{w}我最討厭你這樣的小基佬，又是拍馬屁，又是獻殷勤的，其實心裡全他媽是小九九。”"
+    b "“你很可愛，但沒那麼可愛，我也沒那麼蠢。{w}我最討厭你這樣的小基佬，又是拍馬屁，又是獻殷勤的，其實心裡全他媽是小盤算。”"
 
 # game/a3s1.rpy:312
 translate Tchinese a3s1_77f09aab:
@@ -4985,43 +4985,43 @@ translate Tchinese a3s1_b8dfd902:
 # game/a3s1.rpy:438
 translate Tchinese a3s1_3539685d:
 
-    # 鼬 "\"What happened to you?\""
-    "鼬" "“你有毛病啊？”"
+    # Weasel "\"What happened to you?\""
+    "Weasel" "“你有毛病啊？”"
 
 # game/a3s1.rpy:441
 translate Tchinese a3s1_dea9a264:
 
-    # 鼬 "\"Shit, there's no way! He couldn't be that fucking...\""
-    "鼬" "“操！不會吧！這小子難道是……”"
+    # Weasel "\"Shit, there's no way! He couldn't be that fucking...\""
+    "Weasel" "“操！不會吧！這小子難道是……”"
 
 # game/a3s1.rpy:443
 translate Tchinese a3s1_1f06f8e5:
 
-    # 鼬 "\"Who did this?\""
-    "鼬" "“這是誰做的？”"
+    # Weasel "\"Who did this?\""
+    "Weasel" "“這是誰做的？”"
 
 # game/a3s1.rpy:448
 translate Tchinese a3s1_400ab07c:
 
-    # 鼬 "\"Bar? Yeah, I was at the bar. It's closed.\""
-    "鼬" "“酒吧？啊，我剛從那回來，那裡已經歇業了。”"
+    # Weasel "\"Bar? Yeah, I was at the bar. It's closed.\""
+    "Weasel" "“酒吧？啊，我剛從那回來，那裡已經歇業了。”"
 
 # game/a3s1.rpy:451
 translate Tchinese a3s1_9ff50708:
 
-    # 鼬 "\"Bear? Brian?\""
-    "鼬" "“熊？Brian？”"
+    # Weasel "\"Bear? Brian?\""
+    "Weasel" "“熊？Brian？”"
 
 # game/a3s1.rpy:454
 translate Tchinese a3s1_29d2f010:
 
-    # 鼬 "\"Damn, you're real fucked up aren't ya?\""
-    "鼬" "“操，你知不知道你惹上了多大的麻煩？”"
+    # Weasel "\"Damn, you're real fucked up aren't ya?\""
+    "Weasel" "“操，你知不知道你惹上了多大的麻煩？”"
 
 # game/a3s1.rpy:455
 translate Tchinese a3s1_2560a5bb:
 
-    # "Arturo stares back at the 鼬 and notices his expression, like he's trying to decide something."
+    # "Arturo stares back at the weasel and notices his expression, like he's trying to decide something."
     "Arturo凝視著鼬，那是一幅深思熟慮的表情。"
 
 # game/a3s1.rpy:457
@@ -5033,32 +5033,32 @@ translate Tchinese a3s1_094d4e6b:
 # game/a3s1.rpy:460
 translate Tchinese a3s1_ff2d7ec1:
 
-    # 鼬 "\"Well, I'll be damned. This is it, then, isn't it? That stupid motherfucker.{w} All right, get in. We're going to the hospital.\""
-    "鼬" "“算了，我就當自認倒楣了。那個沒腦子的癟三。{w}上車，咱們去醫院。”"
+    # Weasel "\"Well, I'll be damned. This is it, then, isn't it? That stupid motherfucker.{w} All right, get in. We're going to the hospital.\""
+    "Weasel" "“算了，我就當自認倒楣了。那個沒腦子的癟三。{w}上車，我們去醫院。”"
 
 # game/a3s1.rpy:465
 translate Tchinese a3s1_38a41b8b:
 
-    # 鼬 "\"Jesus Christ, this is really makin' me not wanna do what I'm gonna have to do after this. But ya know, everything's gotta end eventually.\""
-    "鼬" "“老天爺啊。雖然我不想那麼做，不過嘛，一切都有結束的一天。”"
+    # Weasel "\"Jesus Christ, this is really makin' me not wanna do what I'm gonna have to do after this. But ya know, everything's gotta end eventually.\""
+    "Weasel" "“老天爺啊。雖然我不想那麼做，不過嘛，一切都有結束的一天。”"
 
 # game/a3s1.rpy:468
 translate Tchinese a3s1_8817e2a9:
 
-    # 鼬 "\"Yeah, yeah, I'll call Payton PD... once I drop ya off. Gotta make sure I can beat 'em back, though.\""
-    "鼬" "“知道，知道，我會打給佩頓警察局的……等送你到醫院之後。不過，我還得想個法子把他們懟回去。”"
+    # Weasel "\"Yeah, yeah, I'll call Payton PD... once I drop ya off. Gotta make sure I can beat 'em back, though.\""
+    "Weasel" "“知道，知道，我會打給佩頓警察局的……等送你到醫院之後。不過，我還得想個法子把他們懟回去。”"
 
 # game/a3s1.rpy:470
 translate Tchinese a3s1_3ce57452:
 
-    # "But, as the strange 鼬 starts to make a three-point turn to drive back toward the interstate, Arturo is only grateful."
+    # "But, as the strange weasel starts to make a three-point turn to drive back toward the interstate, Arturo is only grateful."
     "但當他們掉頭駛向州際公路時，Arturo的心裡只有感激。"
 
 # game/a3s1.rpy:494
 translate Tchinese a3s1_81fa4946:
 
     # "At first, he thinks maybe he's given the wheel to the coyote so that he himself can get some rest, but they came in the Jeep, and Cameron can't drive standard, right?"
-    "起初，他以為是自己開累了，於是把方向盤交給了郊狼。可他們是開吉普來的，Cameron駕馭不了，對吧？"
+    "一開始，他想說是他開車開到一半太累了，想小休息一下才換郊狼駕駛的；但又想了一下，他們不是開著吉普車來的嗎，Cameron不會開這種車不是嗎？"
 
 # game/a3s1.rpy:496
 translate Tchinese a3s1_22eb2fe4:
@@ -5076,7 +5076,7 @@ translate Tchinese a3s1_491934ac:
 translate Tchinese a3s1_b7fe7b16:
 
     # b "\"I told you, he's all drugged up.\""
-    b "“我不是告訴你了嗎，他被藥倒了。”"
+    b "“我不是告訴你了嗎，他被藥弄茫倒了。”"
 
 # game/a3s1.rpy:504
 translate Tchinese a3s1_1095ca0e:
@@ -5094,7 +5094,7 @@ translate Tchinese a3s1_372bb0ea:
 translate Tchinese a3s1_131d98a7:
 
     # b "\"Did it to himself. Imagine what a mess we'd have if he wasn't drugged, right?{w} Never trust a bear to stay put when you chain 'em up.\""
-    b "“那是他自找的。看吧，要是沒下藥，咱們可就有大麻煩了不是嗎？{w}千萬別指望你能把一頭熊老老實實拴起來。”"
+    b "“那是他自找的。看吧，要是沒下藥，我們可就有大麻煩了不是嗎？{w}千萬別指望你能把一頭熊老老實實拴起來。”"
 
 # game/a3s1.rpy:523
 translate Tchinese a3s1_7c8aa7f1:
@@ -5220,7 +5220,7 @@ translate Tchinese a3s1_52837f7e:
 translate Tchinese a3s1_b9e4e638:
 
     # c "\"Wait, please don't--\""
-    c "“等等，請不要——”"
+    c "“等等，請不要──”"
 
 # game/a3s1.rpy:770
 translate Tchinese a3s1_0c05a9bf:
@@ -5394,7 +5394,7 @@ translate Tchinese a3s1_c1669f25:
 translate Tchinese a3s1_ee987c28:
 
     # b "\"Xanax is like magic when you're panicking.{w} Anyway, what is it that you do for a living, did it all pay off?\""
-    b "“阿普唑侖在鎮定方面有奇效。{w}說起來，你靠什麼賺錢？是全薪嗎？”"
+    b "“贊安諾在鎮定方面有奇效。{w}說起來，你靠什麼賺錢？是全薪嗎？”"
 
 # game/a3s1.rpy:871
 translate Tchinese a3s1_7325d4b5:
@@ -5670,7 +5670,7 @@ translate Tchinese a3s1_8c35503a:
 translate Tchinese a3s1_fbd77c09:
 
     # "Devon can feel that he's truly stunned the old bear, at least for now, and as Brian takes his fist back, he resorts to panicked shoves instead of actually trying to fight."
-    "Devon感到他確實嚇住了老熊，至少目前是。Brian收回拳頭，轉而驚慌失措地推搡，沒有再認真反抗了。"
+    "Devon感到他確實嚇住了老熊，至少目前是。Brian收回拳頭，轉而驚慌失措地互推，沒有再認真反抗了。"
 
 # game/a3s1.rpy:1248
 translate Tchinese a3s1_1c368de4:
@@ -5856,7 +5856,7 @@ translate Tchinese a3s1_99f4d934:
 translate Tchinese a3s1_a241471e:
 
     # b "\"God, you fucking ruined it! He was perfectly fine 'till you showed up. Now he's fuckin' fucked up to the point he's not even fuckable!\""
-    b "“你把一切都毀了！在你出現之前他明明那麼乖，現在被搞成這副德行，誰他媽下得去屌啊！”"
+    b "“你把一切都毀了！他表現那麼來勁的前戲，直到你出現讓我現在屌都軟了！”"
 
 # game/a3s1.rpy:1367
 translate Tchinese a3s1_18068b7a:
@@ -6048,7 +6048,7 @@ translate Tchinese a3s1_e6cded95:
 translate Tchinese a3s1_bcf0a986:
 
     # "Looking {i}forward{/i} is no longer clear, but as Cameron uses the last of the psilocybin in his system to peer into their future, he becomes afraid by what he sees."
-    "{b}遠方{/b}已不再清晰，Cameron用他體內最後一點致幻菇去窺視他們的未來，卻只感到不寒而慄。"
+    "{b}遠方{/b}已不再清晰，Cameron用他體內最後一點迷幻菇去窺視他們的未來，卻只感到不寒而慄。"
 
 # game/a3s1.rpy:1547
 translate Tchinese a3s1_ec3078ab:
@@ -6080,13 +6080,13 @@ translate Tchinese a3s1_3972b060:
 translate Tchinese a3s1_f5076837:
 
     # "It was exciting."
-    "It was exciting。"
+    "那時真興奮。"
 
 # game/a3s1.rpy:87
 translate Tchinese a3s1_1d59b6d8:
 
     # "He'd even missed the key being taken out of his pocket."
-    "He'd even missed the key being taken out of his pocket。"
+    "甚至鑰匙被偷走他也不曾察覺。"
 
 # game/a3s1.rpy:119
 translate Tchinese a3s1_6e8ee11b:
@@ -6110,7 +6110,7 @@ translate Tchinese a3s1_2b6e9487:
 translate Tchinese a3s1_af19205b:
 
     # c "\"Wait, please don't-- Agh!\""
-    c "“等等，請不要——啊！”"
+    c "“等等，請不要──啊！”"
 
 # game/a3s1.rpy:496
 translate Tchinese a3s1_bbb37bd1:
@@ -6122,7 +6122,7 @@ translate Tchinese a3s1_bbb37bd1:
 translate Tchinese a3s1_acbe6a4b:
 
     # c "\"No... No... No, no, no, please don't do this! I can't... I can't--\""
-    c "“不，不，不，不，不，求求你別這樣！我不能……不能——”"
+    c "“不，不，不，不，不，求求你別這樣！我不能……不能──”"
 
 # game/a3s1.rpy:773
 translate Tchinese a3s1_46f4008b:
@@ -6170,7 +6170,7 @@ translate Tchinese a3s1_a37472fb:
 translate Tchinese a3s1_17bb5716:
 
     # "So, Devon focuses on destroying the other bear's arm."
-    "So， Devon focuses on destroying the other bear's arm。"
+    "於是，在報完牙齒的仇後，Devon盯上了另一頭的熊的手臂。"
 
 # game/a3s1.rpy:940
 translate Tchinese a3s1_1f4dad5a:
@@ -6182,23 +6182,31 @@ translate Tchinese a3s1_1f4dad5a:
 translate Tchinese a3s1_ecb27387:
 
     # d "\"Need to get you out of here. Just let me see--\""
-    d "“Need to get you out of here. Just let me see——”"
+    d "“我要先帶你出去。讓我看看──”"
 
 # game/a3s1.rpy:963
 translate Tchinese a3s1_bb57fe10:
 
     # "Just as Devon remembers to keep an eye on Brian and his gun, the butt of the gun meets his side."
-    "Just as Devon remembers to keep an eye on Brian and his gun, the butt of the gun meets his side。"
+    "就當Devon提醒自己要注意Brian跟他的獵槍時，槍托已經打到他這邊了。"
 
 # game/a3s1.rpy:967
 translate Tchinese a3s1_1917bb64:
 
     # b "\"God, you fucking ruined it! He was perfectly fine 'till you showed up. Now he's fuckin' mangled to the point he's not even fuckable!\""
-    b "“你把一切都毀了！在你出現之前他明明那麼乖，現在被搞成這副德行，誰他媽下得去屌啊！”"
+    b "“你把一切都毀了！他表現那麼來勁的前戲，直到你出現讓我現在屌都軟了！”"
 
 # game/a3s1.rpy:979
 translate Tchinese a3s1_80009c2d:
 
     # b "\"Oh no, that was it? Is this it? What the fuck?\""
     b "“不，難道是？是它？搞什麼？”"
+
+# TODO: Translation updated at 2023-02-06 19:13
+
+# game/a3s1.rpy:84
+translate Tchinese a3s1_b9bf72fe:
+
+    # "Cameron knows that most don't have a say in how their sexual intrests and fetishes develop, so the thoughts themselves aren't exactly evil, at least not to Cameron."
+    "Cameron知道，大部分人都無法奈何自己的性癖。那些想法本身並不是純粹的惡，至少在Cameron看來不是。"
 

@@ -16,7 +16,7 @@ translate Tchinese a1s2_7e1e67f1:
 translate Tchinese a1s2_adbec2dd:
 
     # "Cameron had wanted to take it a bit slower, to think things over before running away like this."
-    "Cameron本不想這麼趕的，他還沒來得及在離開之前把事情都想清楚。"
+    "Cameron本來不想這麼趕的，他還沒來得及在離開之前把事情都想清楚。"
 
 # game/a1s2.rpy:11
 translate Tchinese a1s2_407ea56e:
@@ -358,7 +358,7 @@ translate Tchinese a1s2_fbaf2e79:
 translate Tchinese a1s2_5cfca862:
 
     # c "\"But I {i}want{/i} to.\""
-    c "“但是我{i}想{/i}。”"
+    c "“但是我{b}想{/b}。”"
 
 # game/a1s2.rpy:70
 translate Tchinese a1s2_e0e796bb:
@@ -892,7 +892,7 @@ translate Tchinese a1s2_ec90a46f:
 translate Tchinese a1s2_60c03254:
 
     # d "{i}\"Listen{/i}, Cameron. Breathe with me.\""
-    d "“{i}聽我說{/i}，Cameron，跟著我呼吸。”"
+    d "“{b}聽我說{/b}，Cameron，跟著我呼吸。”"
 
 # game/a1s2.rpy:200
 translate Tchinese a1s2_b922794d:
@@ -1534,7 +1534,7 @@ translate Tchinese a1s2_71b5cf03:
 translate Tchinese a1s2_bb426656:
 
     # d "\"God-{i}dammit{/i}!\""
-    d "“真{i}見鬼{/i}！”"
+    d "“真{b}見鬼{/b}！”"
 
 # game/a1s2.rpy:380
 translate Tchinese a1s2_21e10172:
@@ -1702,7 +1702,7 @@ translate Tchinese a1s2_605a6957:
 translate Tchinese a1s2_aa1539b7:
 
     # "Cameron turns his phone off while Dev looks on."
-    "在Dve的旁觀下，Cameron關掉了手機。"
+    "在Dev的旁觀下，Cameron關掉了手機。"
 
 # game/a1s2.rpy:427
 translate Tchinese a1s2_22987918:
@@ -1906,7 +1906,7 @@ translate Tchinese a1s2_ad11fa37:
 translate Tchinese a1s2_11388089:
 
     # d "\"Dammit, I {i}just{/i} had a bar for a split sec.\""
-    d "“可惡，{i}剛剛{/i}有了格信號，一眨眼功夫不見了。”"
+    d "“可惡，{b}剛剛{/b}有了格信號，一眨眼功夫不見了。”"
 
 # game/a1s2.rpy:501
 translate Tchinese a1s2_39e1f3c4:
@@ -1990,7 +1990,7 @@ translate Tchinese a1s2_2ab30b3e:
 translate Tchinese a1s2_72c63602:
 
     # c "\"You suck {i}so{/i} much ass.\""
-    c "“你可{i}真{/i}愛說屁話。 ”"
+    c "“你可{b}真{/b}愛說屁話。 ”"
 
 # game/a1s2.rpy:524
 translate Tchinese a1s2_28a9d874:
@@ -2044,7 +2044,7 @@ translate Tchinese a1s2_cca0cee3:
 translate Tchinese a1s2_b0c4d914:
 
     # c "\"You know, trees should make it {i}harder{/i} to get a signal. Can you make a call?\""
-    c "“你不知道嗎，樹木會{i}阻礙{/i}訊號的接收。打個電話試試？”"
+    c "“你不知道嗎，樹木會{b}阻礙{/b}訊號的接收。打個電話試試？”"
 
 # game/a1s2.rpy:556
 translate Tchinese a1s2_c74bd221:
@@ -2074,7 +2074,7 @@ translate Tchinese a1s2_3424caa7:
 translate Tchinese a1s2_f84ac8a2:
 
     # c "\"Are you saying we're stuck here? {w=0.4}Like, {w=0.3}{i}really{/i} stuck?\""
-    c "“意思是我們被困在這裡了？{w=0.4}{i}真的{/i}{w=0.3}出不去了？”"
+    c "“意思是我們被困在這裡了？{w=0.4}{b}真的{/b}{w=0.3}出不去了？”"
 
 # game/a1s2.rpy:568
 translate Tchinese a1s2_0ed16504:
@@ -2392,7 +2392,7 @@ translate Tchinese a1s2_a3452d11:
 translate Tchinese a1s2_f1dc774f:
 
     # d "\"Th-That laugh? Yeah, sounded like a drunk dude kinda far away. You screaming is what made {i}me{/i} scream!\""
-    d "“那──那個笑聲？聽到了，有點像某個離得很遠的醉鬼。不過真正嚇到我的是{i}你的{/i}尖叫！”"
+    d "“那──那個笑聲？聽到了，有點像某個離得很遠的醉鬼。不過真正嚇到我的是{b}你的{/b}尖叫！”"
 
 # game/a1s2.rpy:683
 translate Tchinese a1s2_64ef492c:
@@ -2596,7 +2596,7 @@ translate Tchinese a1s2_db120325:
 translate Tchinese a1s2_8e6ed13c:
 
     # "Dev grunts as Cameron stretches his leg back again."
-    "Cameron把dev的腿重新拉直，熊哼哼道："
+    "Cameron把Dev的腿重新拉直，熊哼哼道："
 
 # game/a1s2.rpy:756
 translate Tchinese a1s2_aabc4c9e:
@@ -2716,7 +2716,7 @@ translate Tchinese a1s2_da024fe2:
 translate Tchinese a1s2_fb290e1c:
 
     # c "\"Listen, while we were in the forest, I... I dunno, I didn't see anything, but I think I did some 'light touch' sensing... the right way.\""
-    c "“聽著，在樹林裡的時候，我……我也不確定發生了什麼事，我什麼也沒看到。不過我想，我進行了一些‘輕觸’感應……以正確的方式。”"
+    c "“聽著，在樹林裡的時候，我……我也不確定發生了什麼事，我什麼也沒看到。不過我想，我進行了一些‘輕觸’感應……大概是以正確的方式。”"
 
 # game/a1s2.rpy:789
 translate Tchinese a1s2_639ab5ed:
@@ -2776,7 +2776,7 @@ translate Tchinese a1s2_d57ea51d:
 translate Tchinese a1s2_a8cbc73f:
 
     # "The chapter in {i}Haunted Echo{/i} titled \"Entities of Static\" described exactly that, and in the thick of trying to figure out whom to call, he hadn't realized that was the \"forest\"."
-    "在{i}鬧鬼的回音鎮{/i}一文中，一篇名為‘靜電實體’的章節正是描述了這一點。他此前一直忙著打電話，完全沒有意識到就是那片‘樹林’。"
+    "在{b}鬧鬼的回音鎮{/b}一文中，一篇名為‘靜電實體’的章節正是描述了這一點。他此前一直忙著打電話，完全沒有意識到就是那片‘樹林’。"
 
 # game/a1s2.rpy:805
 translate Tchinese a1s2_84c2a964:
@@ -2878,13 +2878,13 @@ translate Tchinese a1s2_8fdc6e80:
 translate Tchinese a1s2_34ebab5d:
 
     # "He'd last played it at Devon's parents' house because they wanted to hear him perform, and he'd just left it there in the jeep afterwards."
-    "他上一次彈還是在Dev父母家裡，應他們的要求，之後這吉他便再沒有離開過車子了。"
+    "這把吉他就一直放在這台吉普車上，他最後一次彈是在Dev父母家裡，整家人都希望聽他演奏的時候。"
 
 # game/a1s2.rpy:840
 translate Tchinese a1s2_345e1a52:
 
     # "He hadn't had a reason to play it since."
-    "從那以後，他便沒有了碰這把吉他的理由。"
+    "從那以後，他就沒有了碰這把吉他的理由。"
 
 # game/a1s2.rpy:841
 translate Tchinese a1s2_f16496a7:
@@ -2956,7 +2956,7 @@ translate Tchinese a1s2_5559cd1a:
 translate Tchinese a1s2_4c639921:
 
     # "He mumbles to himself quietly out of habit, knowing people didn't like hearing it since he was {i}good enough{/i}, which had been his goal."
-    "他習慣性地小聲嘀咕著，心裡明白在達到別人眼中{i}足夠優秀{/i}，即他曾經的目標之前，並不會有人想聽到這一番自艾。"
+    "他習慣性地小聲嘀咕著，心裡明白在達到別人眼中{b}足夠優秀{/b}之前：即他曾經的目標；並不會有人想聽到這一番自艾。"
 
 # game/a1s2.rpy:853
 translate Tchinese a1s2_516cbd40:
@@ -2968,7 +2968,7 @@ translate Tchinese a1s2_516cbd40:
 translate Tchinese a1s2_fdd5b053:
 
     # "He'd forced himself to learn how to become good enough, with all the awkward fingerings, the constant tuning, and the pain of holding down steel strings with his finger pads, even after he built up callouses."
-    "他強迫自己學會如何變得足夠好，就算長了老繭，他也要承受住用指墊按住鋼弦的痛苦，用笨拙的指法不斷調音。"
+    "他逼著自己練習直到完美，就算長了老繭，他也要承受住用指尖腹墊按住鋼弦的痛苦，用笨拙的指法不斷試音。"
 
 # game/a1s2.rpy:855
 translate Tchinese a1s2_4eb91748:
@@ -3016,7 +3016,7 @@ translate Tchinese a1s2_d8c239c6:
 translate Tchinese a1s2_c20e9acc:
 
     # "He tries to think of one of his less embarrassing songs, one of the ones where he wasn't just wearing the influence of cloudy, dreary, Northwestern cities on his sleeve, even though that's where he's from."
-    "他試圖回想起一首不那麼尬的歌，一首沒有被陰雲密布、枯燥無味的西北城市所影響的歌，即便那裡就是他的故鄉。"
+    "他試圖回想起一首不那麼尬的歌，一首沒有被陰雲密佈、枯燥無味的西北城市所影響的歌，即便那裡就是他的故鄉。"
 
 # game/a1s2.rpy:863
 translate Tchinese a1s2_2d76b86c:
@@ -3034,13 +3034,13 @@ translate Tchinese a1s2_8569635e:
 translate Tchinese a1s2_fbfa5aaa:
 
     # "While his idols of the '90s wove lyrics that forced the listener to delve into something complex, to find meaning in the metaphors and symbolism--"
-    "當那些90年代的偶像們編織歌詞，迫使聽眾深入鑽研，在隱喻和象徵中尋找意義時──"
+    "當那些90年代的正值成熟活躍的偶像們編織歌詞，迫使聽眾深入鑽研，在隱喻和象徵中尋找意義時──"
 
 # game/a1s2.rpy:866
 translate Tchinese a1s2_8254beaf:
 
     # "--singer-songwriters born {i}in{/i} the '90s, like himself, presented their lyrics in a more literal, honest way that often described specific situations with seemingly nothing hidden."
-    "──{i}出生於{/i}90年代的創作歌手們，比如他，正在以一種更直接、更坦率，不加掩飾的方式呈現自己的歌詞。"
+    "──{b}出生於{/b}90年代的新生創作歌手們，比如他，正在以一種更直接、更坦率，不加掩飾的方式呈現自己的歌詞。"
 
 # game/a1s2.rpy:867
 translate Tchinese a1s2_62e702c4:
@@ -3262,7 +3262,7 @@ translate Tchinese a1s2_794fd1ea:
 translate Tchinese a1s2_600bad2c:
 
     # "That voice, {w=0.4}well, {w=0.4}that {i}feeling{/i}, {w=0.5}it instantly made all the fur on the back of his neck stand up."
-    "那聲音，{w=0.4}不，{w=0.4}那股{i}感覺{/i}，{w=0.5}霎時令他不寒而慄。"
+    "那聲音，{w=0.4}不，{w=0.4}那股{b}感覺{/b}，{w=0.5}霎時令他不寒而慄。"
 
 # game/a1s2.rpy:933
 translate Tchinese a1s2_9f278704:
@@ -3400,7 +3400,7 @@ translate Tchinese a1s2_99957a8b:
 translate Tchinese a1s2_14eea6f5:
 
     # "Dev didn't want him doing this because he's had a change of heart, but so has Cameron, and this is {i}his{/i} choice to make."
-    "Dev不希望Cameron這麼做，因為他改變了主意，但Cameron又何嘗不是呢，這是{i}他自己{/i}的選擇。"
+    "Dev不希望Cameron這麼做，因為他改變了主意，但Cameron又何嘗不是呢，這是{b}他自己{/b}的選擇。"
 
 # game/a1s2.rpy:974
 translate Tchinese a1s2_5dae665e:
@@ -3724,7 +3724,7 @@ translate Tchinese a1s2_6a42a5af:
 translate Tchinese a1s2_86cf0204:
 
     # c "\"So, uh, it was a girl, teenager, a bobcat, from like, the 50s, I think? A student from Echo High School.\""
-    c "“所以，呃，是一個女孩，青少年，貓科，生活在50年代，大概？是回音鎮高中的學生。”"
+    c "“所以，呃，是一個女孩，青少女，貓科，生活在50年代，大概？是回音鎮高中的學生。”"
 
 # game/a1s2.rpy:1058
 translate Tchinese a1s2_5e932145:
@@ -3826,7 +3826,7 @@ translate Tchinese a1s2_15f485c2:
 translate Tchinese a1s2_5be9f0dd:
 
     # c "\"And she might have siblings who are still alive, or...{w} I dunno,{w=0.3} I think {i}someone{/i} probably gives enough of a shit to want to know!\""
-    c "“她或許有兄弟姐妹在世，或許……{w}我不知道，{w=0.3}但總有{i}一個{/i}在乎她，想要了解她遭遇的人吧！”"
+    c "“她或許有兄弟姐妹在世，或許……{w}我不知道，{w=0.3}但總有{b}一個{/b}在乎她，想要了解她遭遇的人吧！”"
 
 # game/a1s2.rpy:1087
 translate Tchinese a1s2_5639618d:
@@ -4026,7 +4026,7 @@ translate Tchinese a1s2_8f5367b5:
 translate Tchinese a1s2_34748316:
 
     # "Yet.{cps=3}..{/cps}{w=0.4} there it is, {w=0.4}right in front of them."
-    "然而.{cps=3}……{/cps}{w=0.4}那東西就在那裡，{w=0.4}就在他們正前方。"
+    "然而{cps=3}……{/cps}{w=0.4}那東西就在那裡，{w=0.4}就在他們正前方。"
 
 # game/a1s2.rpy:180
 translate Tchinese a1s2_dc0a8e49:
@@ -4074,7 +4074,7 @@ translate Tchinese a1s2_807ab3a7:
 translate Tchinese a1s2_084cb9c4:
 
     # c "\"And she might have siblings who are still alive, or...{w} I dunno, I think {i}someone{/i} probably gives enough of a shit to want to know!\""
-    c "“她或許有兄弟姐妹在世，或許……{w}我不知道，{w=0.3}但總有{i}一個人{/i}在乎她，想要了解她的遭遇吧！”"
+    c "“她或許有兄弟姐妹在世，或許……{w}我不知道，{w=0.3}但總有{b}一個人{/b}在乎她，想要了解她的遭遇吧！”"
 
 # game/a1s2.rpy:1152
 translate Tchinese a1s2_5ea7bf4e:

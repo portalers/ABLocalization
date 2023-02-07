@@ -406,7 +406,7 @@ translate Tchinese a2s2_4bd002d3:
 translate Tchinese a2s2_ef73dada:
 
     # "The fact that Cameron {i}still{/i} isn't waking up is slowly increasing his worry to the point of panic again."
-    "Cameron{i}仍未{/i}甦醒，光憑這一點，就足以把他的心提到喉頭了。"
+    "Cameron{b}仍未{/b}甦醒，光憑這一點，就足以把他的心提到喉頭了。"
 
 # game/a2s2.rpy:121
 translate Tchinese a2s2_1614ca27:
@@ -544,7 +544,7 @@ translate Tchinese a2s2_a5f47247:
 translate Tchinese a2s2_5501ec77:
 
     # "So he does the only thing he can think to do at this moment:"
-    "於是，他做了此刻他能想到的唯一一件事："
+    "於是，他做了此刻他能想到的唯一的一件事："
 
 # game/a2s2.rpy:166
 translate Tchinese a2s2_89f92c4e:
@@ -694,7 +694,7 @@ translate Tchinese a2s2_732a4cbf:
 translate Tchinese a2s2_cc4824fc:
 
     # c "\"Dev? Was he a bear?\""
-    c "“Dev？他是熊嗎？”"
+    c "“是Dev嗎？他是一隻熊嗎？”"
 
 # game/a2s2.rpy:207
 translate Tchinese a2s2_211d544f:
@@ -1282,7 +1282,7 @@ translate Tchinese a2s2_2b0a1a09:
 translate Tchinese a2s2_c3f2d6b0:
 
     # "He's not quite {i}that{/i} comfortable with him."
-    "倒也沒{i}那麼{/i}放鬆。"
+    "倒也沒{b}那麼{/b}放鬆。"
 
 # game/a2s2.rpy:356
 translate Tchinese a2s2_852594de:
@@ -1846,7 +1846,7 @@ translate Tchinese a2s2_609cca25:
 translate Tchinese a2s2_e1124662:
 
     # b "\"You shouldn't, but after my first time smoking, I felt high for fucking {i}years{/i} after, even when I wasn't touching the stuff.\""
-    b "“的確，但我第一次抽足足嗨了{i}好幾年{/i}，即便是在沒碰那東西的時候。”"
+    b "“的確，但我第一次抽足足嗨了{b}好幾年{/b}，即便是在沒碰那東西的時候。”"
 
 # game/a2s2.rpy:499
 translate Tchinese a2s2_a8962531:
@@ -2416,7 +2416,7 @@ translate Tchinese a2s2_cd8983ac:
 translate Tchinese a2s2_b4eb08eb:
 
     # "--into a demon."
-    "──一個惡魔。"
+    "──惡魔。"
 
 # game/a2s2.rpy:662
 translate Tchinese a2s2_f19f05ed:
@@ -3240,7 +3240,7 @@ translate Tchinese a2s2_435ac479:
 translate Tchinese a2s2_900bfd02:
 
     # b "\"I need you to talk to some folks I used to know.{w} If you're really one of those psychics, if you can fix my problems, I'll let you go like nothin' happened.\""
-    b "\"我呢，想讓你跟幾個故人見見。{w}如果你當真是靈媒，治好了我的心病，我自然不會為難你。\""
+    b "“我呢，想讓你跟一個故人見見。{w}如果你當真是靈媒，除了我的心病，說不定我一高興就放你一馬啦。”"
 
 # TODO: Translation updated at 2023-01-30 23:25
 

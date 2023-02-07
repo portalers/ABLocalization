@@ -394,7 +394,7 @@ translate Tchinese a1s1_f6def2e7:
 translate Tchinese a1s1_5e246a1d:
 
     # d "\"Aw, come on. You gotta admit there's something nice about {i}feeling{/i} the road.\""
-    d "“哎喲，少來了。你得學會{i}感受{/i}一路起伏顛簸的美妙。”"
+    d "“哎喲，少來了。你得學會{b}感受{/b}一路起伏顛簸的美妙。”"
 
 # game/a1s1.rpy:102
 translate Tchinese a1s1_87e5f6a7:
@@ -436,7 +436,7 @@ translate Tchinese a1s1_12586f28:
 translate Tchinese a1s1_bafb95ac:
 
     # c "\"AND It's even hotter than I remember.\""
-    c "“{b}而且{\b}，這裡比我記憶中的還要熱。”"
+    c "“{b}而且{/b}，這裡比我記憶中的還要熱。”"
 
 # game/a1s1.rpy:109
 translate Tchinese a1s1_51897e51:
@@ -736,7 +736,7 @@ translate Tchinese a1s1_d24a0e9a:
 translate Tchinese a1s1_4a035e79:
 
     # d "\"Wanna scout out the lake a bit before dark, and I also gotta take a {i}massive{/i} leak.\""
-    d "“我想在天黑前看一看這個湖，順便{i}拉閘洩洪{/i}。”"
+    d "“我想在天黑前看一看這個湖，順便{b}拉閘洩洪{/b}。”"
 
 # game/a1s1.rpy:159
 translate Tchinese a1s1_09de5db7:
@@ -874,7 +874,7 @@ translate Tchinese a1s1_698adc76:
 translate Tchinese a1s1_f51279e2:
 
     # "Devon is also aware of this.{w} {i}Painfully{/i} aware."
-    "Devon也明白。{w}{i}痛苦地{/i}明白著。"
+    "Devon也明白。{w}{b}痛苦地{/b}明白著。"
 
 # game/a1s1.rpy:197
 translate Tchinese a1s1_08400d00:
@@ -928,7 +928,7 @@ translate Tchinese a1s1_b8b723f9:
 translate Tchinese a1s1_c48fdc06:
 
     # "Cameron hugs himself a little tighter, realizing that now is the time to really talk about it."
-    "Cameron把自己抱得更緊了些，意識到是時候進行他一直以來所計劃的談話了。"
+    "Cameron把自己抱得更緊了些，他覺得是時候進行他一直以來所計劃的談話了。"
 
 # game/a1s1.rpy:206
 translate Tchinese a1s1_8b0fc843:
@@ -1036,7 +1036,7 @@ translate Tchinese a1s1_9f20ff1d:
 translate Tchinese a1s1_4cd4a1dc:
 
     # c "\"I would much rather hear you make poop jokes than act like {i}that{/i}.\""
-    c "“我寧願聽你講屎尿屁笑話，也不希望你表現成{i}那樣{/i}。”"
+    c "“我寧願聽你講屎尿屁笑話，也不希望你表現成{b}那樣{/b}。”"
 
 # game/a1s1.rpy:241
 translate Tchinese a1s1_2b58240f:
@@ -1120,7 +1120,7 @@ translate Tchinese a1s1_f641a5c0:
 translate Tchinese a1s1_d8ab8cc6:
 
     # c "\"--but what's important is if this helps {i}you{/i}, whether I think it's real or not.{w} You've done a lot for me, and I wanna be able to do something for you.\""
-    c "“──但我的個人看法一點也不重要，真正重要的是這能不能幫到{i}你{/i}。{w}你為我付出了那麼多，我也想為你做點什麼。”"
+    c "“──但我的個人看法一點也不重要，真正重要的是這能不能幫到{b}你{/b}。{w}你為我付出了那麼多，我也想為你做點什麼。”"
 
 # game/a1s1.rpy:265
 translate Tchinese a1s1_f76e7ae9:
@@ -1156,7 +1156,7 @@ translate Tchinese a1s1_4678c6ef:
 translate Tchinese a1s1_e854c66b:
 
     # c "\"Oh, I want to. I might not {i}like{/i} it, but I want to do it. If only for you.\""
-    c "“我願意去做。我可能{i}不喜歡{/i}，但心甘情願。只要是為了你。”"
+    c "“我願意去做。我可能{b}不喜歡{/b}，但心甘情願。只要是為了你。”"
 
 # game/a1s1.rpy:275
 translate Tchinese a1s1_482fe843:
@@ -1198,7 +1198,7 @@ translate Tchinese a1s1_2f0074b5:
 translate Tchinese a1s1_3aa81e77:
 
     # c "{i}\"Listen{/i}. I want you to find your answers, I REALLY do, but I think the worst thing I could do is lie to make you feel better.{w} I'm going to be completely honest about everything--\""
-    c "“{i}聽著{/i}，我希望你能夠找到答案，{b}真心{/b}，但我覺得自己能做到的無非只有撒謊來紓解你的情緒。{w}但現在，我會對你誠實地坦白一切──”"
+    c "“{b}聽著{/b}，我希望你能夠找到答案，{b}真心{/b}，但我覺得自己能做到的無非只有撒謊來紓解你的情緒。{w}但現在，我會對你誠實地坦白一切──”"
 
 # game/a1s1.rpy:287
 translate Tchinese a1s1_6a061a00:
@@ -1294,7 +1294,7 @@ translate Tchinese a1s1_f888b7fd:
 translate Tchinese a1s1_08aa7241:
 
     # c "\"I guess I just didn't want to be told that what I see must {i}mean{/i} something, you know?\""
-    c "“我想，我只是不喜歡別人告訴我那些‘東西’一定要有什麼{i}意義{/i}，你能理解嗎？”"
+    c "“我想，我只是不喜歡別人告訴我那些‘東西’一定要有什麼{b}意義{/b}，你能理解嗎？”"
 
 # game/a1s1.rpy:315
 translate Tchinese a1s1_c61b6f6a:
@@ -1330,7 +1330,7 @@ translate Tchinese a1s1_80b2f715:
 translate Tchinese a1s1_bebbf4b0:
 
     # c "\"That we have a purpose in life, {w=0.5}a {i}reason{/i}.\""
-    c "“我們堅信生活圍繞著一個目的，{w=0.5}圍繞著一個{i}理由{/i}。”"
+    c "“我們堅信生活圍繞著一個目的，{w=0.5}圍繞著一個{b}理由{/b}。”"
 
 # game/a1s1.rpy:321
 translate Tchinese a1s1_52a5d0e8:
@@ -1342,7 +1342,7 @@ translate Tchinese a1s1_52a5d0e8:
 translate Tchinese a1s1_bf50c8b0:
 
     # c "\"Everything just {i}is{/i}. Whether it has meaning is up to us.\""
-    c "“事物僅僅是{i}存在{/i}，有意義否取於我們自身。”"
+    c "“事物僅僅是{b}存在{/b}，有意義否取於我們自身。”"
 
 # game/a1s1.rpy:323
 translate Tchinese a1s1_e79f090c:
@@ -1354,7 +1354,7 @@ translate Tchinese a1s1_e79f090c:
 translate Tchinese a1s1_84da5eee:
 
     # c "\"I knew he'd been dealing drugs in a really risky way, so I knew his life was in danger, {i}and{/i} I was on fucking ketamine. All the reason is there.\""
-    c "“我知道他一直在冒險販毒，也知道他有生命危險，{i}而且{/i}我還他媽的在喀K他命。這一切都是原因。”"
+    c "“我知道他一直在冒險販毒，也知道他有生命危險，{b}而且{/b}我還他媽的在喀K他命。這一切都是原因。”"
 
 # game/a1s1.rpy:325
 translate Tchinese a1s1_83ddf916:
@@ -1408,7 +1408,7 @@ translate Tchinese a1s1_726e46cd:
 translate Tchinese a1s1_1a45d223:
 
     # c "\"We had this box fan in our trailer, and one day, after she turned it on, she asked me if I could hear someone talking {i}from{/i} the fan.\""
-    c "“我們的拖車房裡有個箱型風扇。某天在她打開風扇之後，她問我是否能聽到來自那{i}裡面{/i}的聲音。”"
+    c "“我們的拖車房裡有個箱型風扇。某天在她打開風扇之後，她問我是否能聽到來自那{b}裡面{/b}的聲音。”"
 
 # game/a1s1.rpy:335
 translate Tchinese a1s1_4dcf6108:
@@ -1480,7 +1480,7 @@ translate Tchinese a1s1_d06cdc04:
 translate Tchinese a1s1_d769537c:
 
     # c "\"On the last day, she told me that even {i}I{/i} looked like an arch, and that she thought the devil had taken me.\""
-    c "“在最後一天，她甚至說連{i}我{/i}都像一個拱門，我已經被魔鬼佔據了。”"
+    c "“在最後一天，她甚至說連{b}我{/b}都像一個拱門，我已經被魔鬼佔據了。”"
 
 # game/a1s1.rpy:347
 translate Tchinese a1s1_be76983d:
@@ -1540,7 +1540,7 @@ translate Tchinese a1s1_678dda7a:
 translate Tchinese a1s1_eabda934:
 
     # d "\"I would {i}never{/i} let that happen to you.{w} I know I say stupid shit about it, but I know it can be dangerous, and I'm always looking out for you.\""
-    d "“我{i}絕對不會{/i}讓這種事發生在你身上。{w}我是說過一些蠢話，但也深知其中的危險性，我會永遠保護你的。”"
+    d "“我{b}絕對不會{/b}讓這種事發生在你身上。{w}我是說過一些蠢話，但也深知其中的危險性，我會永遠保護你的。”"
 
 # game/a1s1.rpy:360
 translate Tchinese a1s1_1d38db35:
@@ -1552,7 +1552,7 @@ translate Tchinese a1s1_1d38db35:
 translate Tchinese a1s1_89049dde:
 
     # c "\"But I was high on my own drug of choice because I just didn't care.{w} But the thing is that even through that hell she was in, {i}she{/i} cared.\""
-    c "“染上毒品是我自己的選擇，反正我也不在乎。{w}可她不一樣，即便身處那樣的地獄，{i}她{/i}依然在乎我。”"
+    c "“染上毒品是我自己的選擇，反正我也不在乎。{w}可她不一樣，即便身處那樣的地獄，{b}她{/b}依然在乎我。”"
 
 # game/a1s1.rpy:362
 translate Tchinese a1s1_7c8ad51f:
@@ -1564,7 +1564,7 @@ translate Tchinese a1s1_7c8ad51f:
 translate Tchinese a1s1_2196f9be:
 
     # c "\"--she still noticed right away when my breathing wasn't right, and I woke up to her spraying Narcan up my nose.\""
-    c "“──她還是能立刻察覺到我呼吸的紊亂。醒過來時，我發現她正在朝我的鼻子噴鼻噴劑。”"
+    c "“──她還是能立刻察覺到我呼吸的紊亂。當我意識回來時，發現她正在朝我的鼻子噴鼻噴劑。”"
 
 # game/a1s1.rpy:364
 translate Tchinese a1s1_644038b9:
@@ -1726,7 +1726,7 @@ translate Tchinese a1s1_362d44da:
 translate Tchinese a1s1_af66cf2a:
 
     # "Does it matter what {i}he{/i} thinks about Cam's hallucinations?"
-    "{i}他{/i}對Cam幻視的看法真的重要嗎？"
+    "{b}他{/b}對Cam幻視的看法真的重要嗎？"
 
 # game/a1s1.rpy:413
 translate Tchinese a1s1_f683f231:
@@ -1834,7 +1834,7 @@ translate Tchinese a1s1_56c48ef3:
 translate Tchinese a1s1_62b22a81:
 
     # "And Devon would shut him up with one of those sugary abominations from Starbucks."
-    "Devon則會用星巴克的糖衣炮彈堵上他的嘴。"
+    "Devon則會用星巴克的星冰樂堵上他的嘴。"
 
 # game/a1s1.rpy:438
 translate Tchinese a1s1_ea57d48d:
@@ -1912,7 +1912,7 @@ translate Tchinese a1s1_33711d24:
 translate Tchinese a1s1_9c8f8d4d:
 
     # d "\"It didn't look {i}this{/i} bad in the pictures.\""
-    d "“照片上{i}不是{/i}這樣啊。”"
+    d "“照片上{b}不是{/b}這樣啊。”"
 
 # game/a1s1.rpy:465
 translate Tchinese a1s1_275ccc33:
@@ -1948,13 +1948,13 @@ translate Tchinese a1s1_b88d2ef4:
 translate Tchinese a1s1_11105943:
 
     # d "\"It's not {i}nice{/i} to do it in a place where a bunch of people got killed.\""
-    d "“在一個死過一堆人的地方塗鴉可談不上什麼{i}友好{/i}。”"
+    d "“在一個死過一堆人的地方塗鴉可談不上什麼{b}友好{/b}。”"
 
 # game/a1s1.rpy:477
 translate Tchinese a1s1_062da8fc:
 
     # c "\"Well, I think a lot of people would disapprove of what {i}we're{/i} doing, and I know {i}you're{/i} nice.\""
-    c "“哦？我想你我{i}現在{/i}要做的會收穫不少人的反對呢。但我知道{i}你{/i}很友好。”"
+    c "“哦？我想你我{b}現在{/b}要做的會收穫不少人的反對呢。但我知道{b}你{/b}很友好。”"
 
 # game/a1s1.rpy:479
 translate Tchinese a1s1_0aab9f9d:
@@ -1990,7 +1990,7 @@ translate Tchinese a1s1_1dbb72ee:
 translate Tchinese a1s1_c1147ec5:
 
     # "{i}...Well, {w=0.3}maybe that{/i} is {i}why.{/i}"
-    "……好吧，{w=0.3}也許原因就出在{i}這裡{/i}了。"
+    "……好吧，{w=0.3}也許原因就出在{b}這裡{/b}了。"
 
 # game/a1s1.rpy:490
 translate Tchinese a1s1_39d410ee:
@@ -2164,7 +2164,7 @@ translate Tchinese a1s1_e4e15ee3:
 translate Tchinese a1s1_6ff075e7:
 
     # "--but now he's becoming more aware of what a dumbass he is when it comes to communicating with actual {i}people{/i}, with his literal boyfriend."
-    "──但他如今才逐漸意識到，自己在與真正的{i}人{/i}──和他的男朋友──交流時是多麼愚蠢。"
+    "──但他如今才逐漸意識到，自己在與真正的{b}人{/b}──和他的男朋友──交流時是多麼愚蠢。"
 
 # game/a1s1.rpy:541
 translate Tchinese a1s1_e7f3e714:
@@ -2410,7 +2410,7 @@ translate Tchinese a1s1_6ce8595e:
 translate Tchinese a1s1_a6ddadac:
 
     # d "\"But while I was sorta joking earlier, if anyone tries anything, I {i}will{/i} do what needs to be done to stop them.\""
-    d "“雖然之前像是玩笑話，但如果有人不懷好意，我{i}一定{/i}會採取必要的行動阻止他們。”"
+    d "“雖然之前像是玩笑話，但如果有人不懷好意，我{b}一定{/b}會採取必要的行動阻止他們。”"
 
 # game/a1s1.rpy:608
 translate Tchinese a1s1_65b8cdcd:
@@ -2590,7 +2590,7 @@ translate Tchinese a1s1_3403fcae:
 translate Tchinese a1s1_b38b3391:
 
     # d "\"They single-handedly ruined the credibility of {i}actual{/i} investigations.\""
-    d "“他們憑一己之力毀了{i}真正的{/i}調查的可信度。”"
+    d "“他們憑一己之力毀了{b}真正的{/b}調查的可信度。”"
 
 # game/a1s1.rpy:677
 translate Tchinese a1s1_67ae3f19:
@@ -2692,7 +2692,7 @@ translate Tchinese a1s1_e4c8850b:
 translate Tchinese a1s1_8e12ace1:
 
     # c "\"And finally, {w=0.3}if you sense that the presence is hostile, always remember that it {i}can{/I} hurt you.{w} In these cases, they might not actually be a person.\""
-    c "“最後，{w=0.3}如果感知到敵意存在，要隨時提防{i}它{/i}的襲擊。{w}在這種情況下，對方多半不是人類。”"
+    c "“最後，{w=0.3}如果感知到敵意存在，要隨時提防{b}它{/b}的襲擊。{w}在這種情況下，對方多半不是人類。”"
 
 # game/a1s1.rpy:702
 translate Tchinese a1s1_d9f399f3:
@@ -2914,7 +2914,7 @@ translate Tchinese a1s1_e0330568:
 translate Tchinese a1s1_13aaa6d0:
 
     # "What the {i}fuck{/i} is he doing, bringing his boyfriend to this room, where {i}that{/i} happened?"
-    "你{i}他媽{/i}究竟在做什麼，把男朋友帶到一個發生過{i}那種事{/i}的房間裡？"
+    "你{b}他媽{/b}究竟在做什麼，把男朋友帶到一個發生過{b}那種事{/b}的房間裡？"
 
 # game/a1s1.rpy:763
 translate Tchinese a1s1_141f413e:
@@ -2926,7 +2926,7 @@ translate Tchinese a1s1_141f413e:
 translate Tchinese a1s1_4ebc2cde:
 
     # "He'd just assumed Cam would be used to scary shit, especially after he described that flat-faced creature in a raincoat that he'd been seeing since he was a kid."
-    "他本以為Cam能夠適應這些恐懼——尤其是在聽他描述了兒時所見的那個穿著雨衣的平臉生物之後。"
+    "他本以為Cam能夠適應這些恐懼──尤其是在聽他描述了兒時所見的那個穿著雨衣的平臉生物之後。"
 
 # game/a1s1.rpy:765
 translate Tchinese a1s1_30a7909b:
@@ -2956,7 +2956,7 @@ translate Tchinese a1s1_e8b39d47:
 translate Tchinese a1s1_12b90053:
 
     # "He's fucking {i}using{/i} Cameron for his own selfish reasons."
-    "他在{i}利用{/i}Cameron滿足自己的私心。"
+    "他在{b}利用{/b}Cameron滿足自己的私心。"
 
 # game/a1s1.rpy:771
 translate Tchinese a1s1_4455cc9f:
@@ -2968,7 +2968,7 @@ translate Tchinese a1s1_4455cc9f:
 translate Tchinese a1s1_52200bf9:
 
     # "That didn't mean that possibly seeing these awful things wouldn't {i}cause{/i} him to develop more issues."
-    "這並不代表他那些可能看見的恐怖現象不會使他{i}產生{/i}更多的問題。"
+    "這並不代表他那些可能看見的恐怖現象不會使他{b}產生{/b}更多的問題。"
 
 # game/a1s1.rpy:774
 translate Tchinese a1s1_75b735af:
@@ -3040,7 +3040,7 @@ translate Tchinese a1s1_9c4a8725:
 translate Tchinese a1s1_8bcf8e1e:
 
     # "It's happening, {w=0.4}but it feels so.{cps=3}..{/cps}{w=0.4} {i}wrong{/i}."
-    "有什麼正在發生，{w=0.4}但給人的感覺卻如此…{cps=3}…{/cps}{w=0.4}{i}邪惡{/i}。"
+    "有什麼正在發生，{w=0.4}但給人的感覺卻如此…{cps=3}…{/cps}{w=0.4}{b}邪惡{/b}。"
 
 # game/a1s1.rpy:787
 translate Tchinese a1s1_d6d8f6ee:
@@ -3094,7 +3094,7 @@ translate Tchinese a1s1_67048152:
 translate Tchinese a1s1_2df848b9:
 
     # "He could sense {i}someone{/i}, nothing like the monsters he'd seen in the past."
-    "他能感知到{i}一個人{/i}，跟他過去看到的那些怪物截然不同的存在。"
+    "他能感知到{b}一個人{/b}，跟他過去看到的那些怪物截然不同的存在。"
 
 # game/a1s1.rpy:802
 translate Tchinese a1s1_bed4b8e4:
@@ -3136,7 +3136,7 @@ translate Tchinese a1s1_e48a08b8:
 translate Tchinese a1s1_f0d399b5:
 
     # "This gives the coyote pause, because now this presence was trying to interact with {i}him{/i}."
-    "郊狼一愣，因為那個存在正試圖與{i}他{/i}交流。"
+    "郊狼一愣，因為那個存在正試圖與{b}他{/b}交流。"
 
 # game/a1s1.rpy:809
 translate Tchinese a1s1_629345d4:
@@ -3322,7 +3322,7 @@ translate Tchinese a1s1_d555686a:
 translate Tchinese a1s1_864a5b91:
 
     # "How could he do this!?"
-    "他怎麼能這樣做！？"
+    "他怎麼能變成這樣！？"
 
 # game/a1s1.rpy:861
 translate Tchinese a1s1_f3c1a9ef:
@@ -3472,13 +3472,13 @@ translate Tchinese a1s1_aa9e83a0:
 translate Tchinese a1s1_eb94cae6:
 
     # d "\"You fucking {i}begged{/i} Dylan not to leave you, just weeks after he punched you and gave you that scar. The one you said you got from falling against a cabinet. You're sick.\""
-    d "“就在Dylan打了你一拳、給你留下一道疤的幾週後，你他媽還{i}求著{/i}他不要拋棄你，還說那道疤是因為從儲藏櫃上摔了下來。你真噁心。”"
+    d "“就在Dylan打了你一拳、給你留下一道疤的幾週後，你他媽還{b}求著{/b}他不要拋棄你，還說那道疤是因為從儲藏櫃上摔了下來。你真噁心。”"
 
 # game/a1s1.rpy:889
 translate Tchinese a1s1_f05e4a07:
 
     # d "\"Meanwhile, you {i}let{/i} me put you in this situation. You said you {i}wanted{/i} it. Do you still want it?\""
-    d "“那時是你{i}求{/i}我把你拉入這種境地的。你說你{i}想要{/i}這樣。現在也依然如此嗎？”"
+    d "“那時是你{b}求{/b}我把你拉入這種境地的。你說你{b}想要{/b}這樣。現在也依然如此嗎？”"
 
 # game/a1s1.rpy:890
 translate Tchinese a1s1_579fd2eb:
@@ -3874,7 +3874,7 @@ translate Tchinese a1s1_2972b0ed:
 translate Tchinese a1s1_aa620dfc:
 
     # d "\"Cameron, {w=0.3}{i}please{/i} tell me.\""
-    d "“Cameron，{w=0.3}{i}求求你{/i}，告訴我。”"
+    d "“Cameron，{w=0.3}{b}求求你{/b}，告訴我。”"
 
 # game/a1s1.rpy:1047
 translate Tchinese a1s1_3100f23e:
@@ -4002,7 +4002,7 @@ translate Tchinese a1s1_0b52989f:
 translate Tchinese a1s1_99d184bc:
 
     # c "\"That we have a purpose in life, {w=0.3}a {i}reason{/i}.\""
-    c "“我們堅信人生圍繞著一個目的，{w=0.3}一個{i}理由{/i}。”"
+    c "“我們堅信人生圍繞著一個目的，{w=0.3}一個{b}理由{/b}。”"
 
 # game/a1s1.rpy:325
 translate Tchinese a1s1_4e3b6bfd:

@@ -250,7 +250,7 @@ translate Tchinese a2s1_dab429e0:
 translate Tchinese a2s1_c077af16:
 
     # "But... there are some connections, and he can't deny that {i}something{/i} about the whole situation is off."
-    "但……他這麼想不是沒有根據的，肯定有{i}哪裡{/i}不對勁。"
+    "但……他這麼想不是沒有根據的，肯定有{b}哪裡{/b}不對勁。"
 
 # game/a2s1.rpy:53
 translate Tchinese a2s1_3dbb588a:
@@ -478,7 +478,7 @@ translate Tchinese a2s1_bff0128e:
 translate Tchinese a2s1_de9dd35a:
 
     # "{i}\"What{/i} are {i}you talking about?\"{/i}"
-    "{i}“你{/i}在{i}說什麼？”{/i}"
+    "{b}“你{/b}在{b}說什麼？”{/b}"
 
 # game/a2s1.rpy:110
 translate Tchinese a2s1_7949993b:
@@ -700,7 +700,7 @@ translate Tchinese a2s1_273b2780:
 translate Tchinese a2s1_9579c5e0:
 
     # d "\"What the {i}fuck{/i}?\""
-    d "“{i}怎麼{/i}搞得？”"
+    d "“{b}怎麼{/b}搞得？”"
 
 # game/a2s1.rpy:156
 translate Tchinese a2s1_79b83c63:
@@ -1156,7 +1156,7 @@ translate Tchinese a2s1_dadb6a3c:
 translate Tchinese a2s1_7c6ea42d:
 
     # d "\"You fucking {i}know{/i} he has problems, was on medication in college, and you just let him get stoned!?\""
-    d "“你他媽{i}明知{/i}他有精神問題和服藥史，還給他大麻？！”"
+    d "“你他媽{b}明知{/b}他有精神問題和服藥史，還給他大麻？！”"
 
 # game/a2s1.rpy:287
 translate Tchinese a2s1_2846f365:
@@ -1198,7 +1198,7 @@ translate Tchinese a2s1_3fc937e6:
 translate Tchinese a2s1_8522d39d:
 
     # d "\"Fuck, man! His mom died because of this shit. What if he's wandering off into the middle of the desert right now, and...\""
-    d "“啊，操！他媽媽就因為這去世的。萬一他跑到沙漠裡……”"
+    d "“啊，操！他的媽媽就因為這樣去世的。萬一他跑到沙漠裡……”"
 
 # game/a2s1.rpy:296
 translate Tchinese a2s1_1b4fad0d:
@@ -1366,7 +1366,7 @@ translate Tchinese a2s1_d217ae2a:
 translate Tchinese a2s1_e9fdefe1:
 
     # "Devon would never do that, {w=0.4}would never {i}think{/i} to do that."
-    "Devon永遠不會那樣做，{w=0.4}也永遠不會{i}想{/i}那樣做。"
+    "Devon永遠不會那樣做，{w=0.4}也永遠不會{b}想{/b}那樣做。"
 
 # game/a2s1.rpy:341
 translate Tchinese a2s1_cd7f363f:
@@ -1450,7 +1450,7 @@ translate Tchinese a2s1_35ab694f:
 translate Tchinese a2s1_7a2d9612:
 
     # "As far as he knows, no one knows that he's here, all the way from Payton, and if he can get rid of the body, no one will ever know he did it."
-    "就他所知，沒有人知道他大老遠從佩頓過來。如果一切順利的話，真相將隨著屍體一起被埋葬。"
+    "就他所知，沒有人知道他大老遠從沛頓過來。如果一切順利的話，真相將隨著屍體一起被埋葬。"
 
 # game/a2s1.rpy:369
 translate Tchinese a2s1_533ea5db:
@@ -1516,7 +1516,7 @@ translate Tchinese a2s1_a316bfa9:
 translate Tchinese a2s1_99928ec8:
 
     # "He'd been the only one to laugh when it happened."
-    "事故發生時，他是唯一一個笑出聲的。"
+    "事故發生時，他是唯一那個笑出聲的。"
 
 # game/a2s1.rpy:383
 translate Tchinese a2s1_388237c4:
@@ -1606,7 +1606,7 @@ translate Tchinese a2s1_fb70ab3e:
 translate Tchinese a2s1_76128f65:
 
     # "While the shadow creature in the forest had been strange, he hadn't {i}seen{/i} it, he only heard someone recounting it."
-    "儘管森林裡的影子怪物已經夠離奇了，但他並沒有{i}看見{/i}，只是聽到他人講述。"
+    "儘管森林裡的影子怪物已經夠離奇了，但他並沒有{b}看見{/b}，只是聽到他人講述。"
 
 # game/a2s1.rpy:407
 translate Tchinese a2s1_43b3c79f:
@@ -1906,7 +1906,7 @@ translate Tchinese a2s1_ab2ccb15:
 translate Tchinese a2s1_96e60358:
 
     # "He almost wishes she'd scream at him and slap him like she did whenever she found his drugs... almost."
-    "他甚至希望她能恢復到一發現毒品，就對他大吼大叫、扇他耳光的時候……甚至。"
+    "他甚至渴望母親能恢復到當她一但發現他有毒品時，就對他大吼大叫、扇他耳光的時候……甚至。"
 
 # game/a2s1.rpy:474
 translate Tchinese a2s1_8affd554:
@@ -2008,7 +2008,7 @@ translate Tchinese a2s1_38375461:
 translate Tchinese a2s1_a91f5873:
 
     # "Of {i}course{/i} Devon wouldn't fuck with him over this, and Cameron can't understand why he'd thought that."
-    "Devon{i}當然{/i}不會拿這件事開玩笑，Cameron搞不懂自己怎麼會這麼想。"
+    "Devon{b}當然{/b}不會拿這件事開玩笑，Cameron搞不懂自己怎麼會這麼想。"
 
 # game/a2s1.rpy:507
 translate Tchinese a2s1_8949c0d5:
@@ -2038,7 +2038,7 @@ translate Tchinese a2s1_bb91dfde:
 translate Tchinese a2s1_c1532eaf:
 
     # "This.{cps=3}..{/cps}{w=0.4} This is {i}actually{/i} crazy."
-    "而這{cps=3}……{/cps}{w=0.4}是{i}真正的{/i}瘋狂。"
+    "而這{cps=3}……{/cps}{w=0.4}是{b}真正的{/b}瘋狂。"
 
 # game/a2s1.rpy:512
 translate Tchinese a2s1_0d6b594d:
@@ -2284,7 +2284,7 @@ translate Tchinese a2s1_43d301b7:
 translate Tchinese a2s1_cbe4a643:
 
     # "Even now, she struggles with her addiction to benzodiazepines, something carelessly prescribed to her so she'd stop wailing all the time."
-    "即使現在，她也在努力克服對苯二氮卓類藥物的依賴。一切都出自一個讓她止啼的，隨手的藥方。"
+    "即使現在，她也在努力克服對苯二氮平類藥物的依賴。不過會變成這樣，起因是一個為了讓她不再喧鬧整天，隨便亂開的藥方。"
 
 # game/a2s1.rpy:565
 translate Tchinese a2s1_0550e765:
@@ -3142,7 +3142,7 @@ translate Tchinese a2s1_705232e2:
 translate Tchinese a2s1_ec992351:
 
     # unk3 "{sc}{font=ui/raven.ttf}\"Naw, {w=0.4}he's still twitching.\"{/sc}"
-    unk3 "{sc}{font=font/raven2.ttf}{size=+20}“不對，{w=0.4}他還在抽動。”{/sc}"
+    unk3 "{sc}{font=font/raven2.ttf}{size=+20}“不對，{w=0.4}他還在抽搐。”{/sc}"
 
 # game/a2s1.rpy:842
 translate Tchinese a2s1_8403130b:
@@ -3178,7 +3178,7 @@ translate Tchinese a2s1_7995417e:
 translate Tchinese a2s1_dd655bcd:
 
     # unk3 "{sc}{font=ui/raven.ttf}\"No me mates, {w=0.3}por favor!\"{/sc}"
-    unk3 "{sc}{font=font/raven2.ttf}{size=+20}“是我阿兄弟們，{w=0.3}行行好！”{/sc}"
+    unk3 "{sc}{font=font/raven2.ttf}{size=+20}“是我啊兄弟們，{w=0.3}行行好！”{/sc}"
 
 # game/a2s1.rpy:849
 translate Tchinese a2s1_022c6267:

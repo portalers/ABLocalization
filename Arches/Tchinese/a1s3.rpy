@@ -316,7 +316,7 @@ translate Tchinese a1s3_0d556245:
 translate Tchinese a1s3_f56dc23b:
 
     # "Dev feels his chest loosen a bit with relief at hearing those words, at hearing some sense from someone other than himself, but Cameron frowns and opens his mouth--"
-    "聽到除自己以外的人說出還算近理的話，Dev總算稍稍鬆了口氣。然而Cameron皺著眉頭，張開嘴──"
+    "聽到除自己以外的人說出還算有理的話，Dev總算稍稍鬆了口氣。然而Cameron皺著眉頭，張開嘴──"
 
 # game/a1s3.rpy:99
 translate Tchinese a1s3_1740dc36:
@@ -340,7 +340,7 @@ translate Tchinese a1s3_971cd183:
 translate Tchinese a1s3_ef07a5a4:
 
     # a "\"Yeah, that's normal, especially with a big hit like that. You handle your weed pretty good?\""
-    a "“誰叫他吸了那麼一大口。難不成你對大麻更駕輕就熟？”"
+    a "“吸那麼大一口咳成這樣很正常。會吸那麼大口其實你跟大麻是老朋友嗎？”"
 
 # game/a1s3.rpy:108
 translate Tchinese a1s3_95a06577:
@@ -664,7 +664,7 @@ translate Tchinese a1s3_b575ed00:
 translate Tchinese a1s3_e038789c:
 
     # "But he always had an oxy back in those days to calm himself down, or at least whatever benzo he managed to steal from his mom's medicine cabinet."
-    "不過那些日子裡，他總能搜刮到奧施康定，再不然也可以從媽媽的藥櫃裡偷安非他命讓自己冷靜下來。(*奧施康定：處方止痛藥)"
+    "不過那些日子裡，他總能搜刮到奧施康定，再不然也可以從他媽媽的藥櫃裡偷安非他命讓自己冷靜下來。(*奧施康定：一款會上癮的處方止痛藥)"
 
 # game/a1s3.rpy:199
 translate Tchinese a1s3_79dba33a:
@@ -1048,7 +1048,7 @@ translate Tchinese a1s3_794b088e:
 translate Tchinese a1s3_6c68ee95:
 
     # "Devon studies Cameron closely for a moment, and Cameron's blood runs cold at the thought that, for whatever reason, what he just said is fucked up enough to make Devon question why he's with the crazy canine in the first place."
-    "Devon仍端詳著Cameron。一想到剛才的話糟糕到足以讓Devon質疑他究竟為什麼要和那隻瘋狗交往，Cameron不寒而慄。"
+    "Devon還在端詳地看著Cameron。然而Cameron一想到剛才的話糟糕到足以讓Devon懷疑他究竟為什麼要和我這種瘋狗交往，他不禁不寒而慄。"
 
 # game/a1s3.rpy:300
 translate Tchinese a1s3_331a8027:
@@ -2002,7 +2002,7 @@ translate Tchinese a1s3_98e83e4f:
 translate Tchinese a1s3_533ea4eb:
 
     # "When he first met Cameron, on the other hand, he was cute {i}and{/i} hot, especially with his guitar and voice, but that was just the surface stuff."
-    "另一方面，雖然Cameron給他的第一印象也是可愛{i}外加{/i}性感，更別提吉他彈得棒，聲音還好聽，但那些都只是表面上的。"
+    "另一方面，雖然Cameron給他的第一印象也是可愛{b}外加{/b}性感，更別提吉他彈得棒，聲音還好聽，但那些都只是表面上的。"
 
 # game/a1s3.rpy:574
 translate Tchinese a1s3_fa24d2fc:
@@ -2056,7 +2056,7 @@ translate Tchinese a1s3_43b0e2e4:
 translate Tchinese a1s3_77a411f1:
 
     # "The abyss he's felt below his feet since he was twelve, that emotional scar left over from the last traumatic event in his life, seems to yawn a bit wider."
-    "那道他自十二歲起就能感受到的深淵，他人生中唯一一次心理應激，彷彿在他腳下打了個大大的哈欠。"
+    "那是他12歲時發生的悲劇事件，在他幼小的心靈劃上一刀，沒有痊癒的裂縫如深淵一般，就在剛剛像是打哈欠微微張開了一些。"
 
 # game/a1s3.rpy:584
 translate Tchinese a1s3_16b9ffde:
@@ -2404,7 +2404,7 @@ translate Tchinese a1s3_3a7f1eba:
 translate Tchinese a1s3_a80f000a:
 
     # "He needed to die.{w} He {i}had{/i} to die."
-    "他應該去死。{w}他{i}必須{/i}得死。"
+    "他應該去死。{w}他{b}必須{/b}得死。"
 
 # game/a1s3.rpy:673
 translate Tchinese a1s3_d2b9d851:
@@ -2602,7 +2602,7 @@ translate Tchinese a1s3_4b3b95e2:
 translate Tchinese a1s3_45a0701a:
 
     # "So why is it acting different, more alive, as if the town is amplifying it?"
-    "那為何它不似從前，更具生氣，猶如被這個小鎮放大了？"
+    "但為何它不似從前，現在更具生氣，猶如被這個小鎮放大了？"
 
 # game/a1s3.rpy:718
 translate Tchinese a1s3_9a76bdd7:
@@ -2986,7 +2986,7 @@ translate Tchinese a1s3_ee9fa44b:
 translate Tchinese a1s3_1a8c0c2e:
 
     # unk "\"You listen, {i}dude{/i}. I gave you assholes a whole fucking day to get the fuck out, but you're still here.{w} Since you're so goddamn comfortable, hope you don't mind bein' stuck here for good.\""
-    unk "“你給我聽著，{i}老兄{/i}。我給了一整天時間讓你們滾蛋，你們非但不領情，還他媽挺快活的。{w}既然如此，希望你們別介意一輩子被困在這裡。”"
+    unk "“你給我聽著，{b}老兄{/b}。我給了一整天時間讓你們滾蛋，你們非但不領情，還他媽挺快活的。{w}既然如此，希望你們別介意一輩子被困在這裡。”"
 
 # game/a1s3.rpy:824
 translate Tchinese a1s3_728e0dd8:

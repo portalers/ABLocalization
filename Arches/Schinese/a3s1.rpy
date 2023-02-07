@@ -6202,3 +6202,11 @@ translate Schinese a3s1_80009c2d:
     # b "\"Oh no, that was it? Is this it? What the fuck?\""
     b "\"不，难道是？是它？搞什么？\""
 
+# TODO: Translation updated at 2023-02-06 19:13
+
+# game/a3s1.rpy:84
+translate Schinese a3s1_b9bf72fe:
+
+    # "Cameron knows that most don't have a say in how their sexual intrests and fetishes develop, so the thoughts themselves aren't exactly evil, at least not to Cameron."
+    "Cameron知道，大部分人都无法奈何自己的性癖。那些想法本身并不是纯粹的恶，至少在Cameron看来不是。"
+

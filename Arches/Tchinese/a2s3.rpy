@@ -1138,7 +1138,7 @@ translate Tchinese a2s3_b6e6fddd:
 translate Tchinese a2s3_bbd10614:
 
     # d "\"Come {i}on{/i}, dammit. Please!\""
-    d "“快啊，{i}快啊{/i}！”"
+    d "“快啊，{b}快啊{/b}！”"
 
 # game/a2s3.rpy:248
 translate Tchinese a2s3_e5b8f074:
@@ -1294,7 +1294,7 @@ translate Tchinese a2s3_c7d2e886:
 translate Tchinese a2s3_8ef57192:
 
     # d "\"{i}Please{/i}, just let me see him so I know he's okay?\""
-    d "“{i}求求你{/i}，讓我見他一面就好。”"
+    d "“{b}求求你{/b}，讓我見他一面就好。”"
 
 # game/a2s3.rpy:278
 translate Tchinese a2s3_914133f6:
@@ -2638,7 +2638,7 @@ translate Tchinese a2s3_2eede739:
 translate Tchinese a2s3_8aab4ab0:
 
     # c "\"Um, maybe cocaine? Adderall?\""
-    c "“呃，古柯鹼？阿德拉？”"
+    c "“呃，古柯鹼？阿德拉？”(*阿德拉：一款會上癮，通常治療過動症的處方藥)"
 
 # game/a2s3.rpy:581
 translate Tchinese a2s3_e22d25bc:
@@ -2764,7 +2764,7 @@ translate Tchinese a2s3_e1d45ad1:
 translate Tchinese a2s3_6325dce2:
 
     # "{i}Please{/i}, please, {i}let your heart give out. Please just die and let this nightmare, this decades-long nightmare you've created, end.{/i}"
-    "{i}求求你{/i}，求求你，{i}請你去死吧。讓這場噩夢，這場你創造的幾十年的噩夢，結束吧。{/i}"
+    "{b}求求你{/b}，求求你，{b}請你去死吧。讓這場噩夢，這場你創造的幾十年的噩夢，結束吧。{/b}"
 
 # game/a2s3.rpy:612
 translate Tchinese a2s3_cd74ca37:
@@ -2872,7 +2872,7 @@ translate Tchinese a2s3_3f215d5e:
 translate Tchinese a2s3_c246697c:
 
     # c "\"Holy shit, you really got me there. I thought {i}my{/i} heart was about to give out.\""
-    c "“哇，真是被你嚇到了，{i}我{/i}幾乎就要崩潰了。”"
+    c "“哇，真是被你嚇到了，{b}我{/b}幾乎就要崩潰了。”"
 
 # game/a2s3.rpy:637
 translate Tchinese a2s3_978421e8:
@@ -3070,7 +3070,7 @@ translate Tchinese a2s3_cd97e53c:
 translate Tchinese a2s3_882bdc8c:
 
     # "It's the only word he says with each grunt of exertion."
-    "這是他每次用力的時候哼的唯一一個詞。"
+    "這是他每次用力的時候哼的唯一的一個詞。"
 
 # game/a2s3.rpy:681
 translate Tchinese a2s3_257ac834:
@@ -3094,19 +3094,19 @@ translate Tchinese a2s3_756268dd:
 translate Tchinese a2s3_c70771ac:
 
     # "He killed them, all because he needed to find out."
-    "是他害了他們，只因為他想找出那個真相。"
+    "是他害了他們，只是因為他想找出那個真相。"
 
 # game/a2s3.rpy:685
 translate Tchinese a2s3_ab84ba60:
 
     # "Turns out he will find out, because they're going to die."
-    "他終究會找到的，因為他們全都命不久矣了。"
+    "他終究會找到的，因為他們全都要在黃泉相見了。"
 
 # game/a2s3.rpy:686
 translate Tchinese a2s3_51d43dd5:
 
     # "How could he do this to Cameron?"
-    "他怎麼對得起Cameron？"
+    "他怎麼可以這樣對Cameron？"
 
 # game/a2s3.rpy:687
 translate Tchinese a2s3_dc66e2af:
@@ -3358,7 +3358,7 @@ translate Tchinese a2s3_8675afb4:
 translate Tchinese a2s3_4dc3eb79:
 
     # c "\"Devon, I know there isn't much I can do to convince you that I'm real. All I can say is that I {i}am{/i} real, and that I love you dearly.\""
-    c "“Devon，我知道我沒有辦法讓你相信，但我{i}確實{/i}是真的，我真心愛著你啊。”"
+    c "“Devon，我知道我沒有辦法讓你相信，但我{b}確實{/b}是真的，我真心愛著你啊。”"
 
 # game/a2s3.rpy:748
 translate Tchinese a2s3_d067140c:
@@ -3960,19 +3960,19 @@ translate Tchinese a2s3_c9051a5e:
 translate Tchinese a2s3_41a8a15d:
 
     # "This is bad."
-    "This is bad。"
+    "真的太糟糟了。"
 
 # game/a2s3.rpy:263
 translate Tchinese a2s3_4b6bb740:
 
     # a "\"I n-n-n-n-need... s-summon... something.\""
-    a "“I n──n──n──n──need…… s──summon…… something.”"
+    a "“我需──需──需──需──需要…… 扌──扌召…… 亻十麼。”"
 
 # game/a2s3.rpy:264
 translate Tchinese a2s3_9b528e1a:
 
     # "No, wrong words."
-    "No， wrong words。"
+    "不，不對，不是這些字。"
 
 # game/a2s3.rpy:270
 translate Tchinese a2s3_20fdae8f:
@@ -4050,13 +4050,13 @@ translate Tchinese a2s3_26e23c2f:
 translate Tchinese a2s3_504ac1c5:
 
     # "Timothy Esposito was a skunk born in 1985 in the Midwest."
-    "Timothy Esposito was a skunk born in 1985 in the Midwest。"
+    "Timothy Esposito，一隻臭鼬，1985年出生於美國中西部。"
 
 # game/a2s3.rpy:476
 translate Tchinese a2s3_b56267a7:
 
     # "His hometown was a large, industrial city, one that had been in decay for his entire life."
-    "His hometown was a large， industrial city， one that had been in decay for his entire life。"
+    "他的故鄉是一座大型的工業城市，不過當時在他有限的生命裡，這座城市也經歷十幾年的衰敗。"
 
 # game/a2s3.rpy:477
 translate Tchinese a2s3_519e2b02:
@@ -4152,7 +4152,7 @@ translate Tchinese a2s3_99f9ab58:
 translate Tchinese a2s3_506a6d2a:
 
     # d "\"Please...{w=0.3} please.{cps=3}..{/cps}{w=0.4} please...\""
-    d "“Please……{w=0.3} please…{cps=3}…{/cps}{w=0.4} please……”"
+    d "“拜託……{w=0.3} 拜託…{cps=3}…{/cps}{w=0.4} 拜託啊……”"
 
 # game/a2s3.rpy:974
 translate Tchinese a2s3_0c17fee9:
@@ -4188,7 +4188,7 @@ translate Tchinese a2s3_fdb4bd78:
 translate Tchinese a2s3_6f903a70:
 
     # c "\"I'm doing this through like.{cps=3}..{/cps}{w=0.4} my mind,{w=0.3} I think?\""
-    c "“我們大概是在.{cps=3}……{/cps}{w=0.4} 精神中{w=0.3} 交談？”"
+    c "“我們大概是在{cps=3}……{/cps}{w=0.4}精神中{w=0.3}交談？”"
 
 # game/a2s3.rpy:1039
 translate Tchinese a2s3_2286e5aa:
@@ -4224,7 +4224,7 @@ translate Tchinese a2s3_26bfca95:
 translate Tchinese a2s3_9e2ee6f2:
 
     # "Devon looks up at the patterns, and for the first time, he feels like this might actually be Cameron."
-    "Devon looks up at the patterns， and for the first time， he feels like this might actually be Cameron。"
+    "Devon仰望著那些圖案，然後突然當頭棒喝，感覺到他極可能是真的Cameron。"
 
 # game/a2s3.rpy:1154
 translate Tchinese a2s3_1c857faf:
@@ -4236,7 +4236,7 @@ translate Tchinese a2s3_1c857faf:
 translate Tchinese a2s3_9df931bf:
 
     # "But doubt that it'd been real at all starts to creep in again, even though Cameron had convinced him at the time."
-    "But doubt that it'd been real at all starts to creep in again， even though Cameron had convinced him at the time。"
+    "但是這一切都太奇妙了，讓人不禁又開始懷疑起來，儘管從一開始到剛剛，Cameron就不斷說服對方是真的。"
 
 # game/a2s3.rpy:1201
 translate Tchinese a2s3_74878f7e:
@@ -4266,31 +4266,31 @@ translate Tchinese a2s3_f8104611:
 translate Tchinese a2s3_4df77dbc:
 
     # "Brian already heard his plan."
-    "Brian already heard his plan。"
+    "Brian早就聽到他的計畫了。"
 
 # game/a2s3.rpy:1274
 translate Tchinese a2s3_13eec6e2:
 
     # "More importantly though, is that Brian isn't letting up."
-    "More importantly though， is that Brian isn't letting up。"
+    "但眼下最緊急的，是Brian不肯放手。"
 
 # game/a2s3.rpy:1280
 translate Tchinese a2s3_4cebbdda:
 
     # "He's a trailer home in the Northwest. He's a desert lake. He's a broken road. He's a trailer home in the Southwest. He's a train cutting through the wilderness."
-    "He's a trailer home in the Northwest. He's a desert lake. He's a broken road. He's a trailer home in the Southwest. He's a train cutting through the wilderness。"
+    "他幻化成西北地區的一間拖車房、沙漠中的一處湖泊，人際罕見的一條破路；他又變成了西南地區的一間拖車房，那台劃破荒野的火車。"
 
 # game/a2s3.rpy:1284
 translate Tchinese a2s3_c95f369c:
 
     # centered "{cps=45}He's being shot in the head.{w=0.3} He's being hung from a tree.{p=0.3} He's being beaten to death.{w=0.3} He's swimming under an arch.{p=0.3} He's stumbling into a pond.{p=0.3} He's in a space shuttle smashing into the ocean.{w=0.3} He's a dead town."
-    centered "{cps=45}He's being shot in the head.{w=0.3} He's being hung from a tree.{p=0.3} He's being beaten to death.{w=0.3} He's swimming under an arch.{p=0.3} He's stumbling into a pond.{p=0.3} He's in a space shuttle smashing into the ocean.{w=0.3} He's a dead town。"
+    centered "{cps=45}他頭部中彈，{w=0.3}被吊在樹上，{p=0.3}被毆打致死，{w=0.3}在拱橋下游泳，{p=0.3}在踉蹌中跌入水塘，{p=0.3}在砸向海洋的太空梭中，{w=0.3}他是一座死鎮。"
 
 # game/a2s3.rpy:1286
 translate Tchinese a2s3_d93954c2:
 
     # centered "{cps=45}Dead,{w=0.3} but with working reflexes,{w=0.3} using{p=0.01} the tools that it still holds tightly in its grasp."
-    centered "{cps=45}Dead，{w=0.3} but with working reflexes，{w=0.3} using{p=0.01} the tools that it still holds tightly in its grasp。"
+    centered "{cps=45}死了，{w=0.3}但還有運動反射，{w=0.3}本能的{p=0.01}緊握著最後在手上的東西。"
 
 # game/a2s3.rpy:1287
 translate Tchinese a2s3_a60278ec:
@@ -4308,5 +4308,5 @@ translate Tchinese a2s3_49969722:
 translate Tchinese a2s3_2795cc1a:
 
     # centered "{cps=45}And because of that,{w=0.3} he can see everything."
-    centered "{cps=45}正因為如此，{w=0.3}她得以看到一切。"
+    centered "{cps=45}正因為如此，{w=0.3}他得以看到一切。"
 
