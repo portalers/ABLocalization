@@ -5856,7 +5856,7 @@ translate Tchinese a3s1_99f4d934:
 translate Tchinese a3s1_a241471e:
 
     # b "\"God, you fucking ruined it! He was perfectly fine 'till you showed up. Now he's fuckin' fucked up to the point he's not even fuckable!\""
-    b "“你把一切都毀了！他表現那麼來勁的前戲，直到你出現讓我現在屌都軟了！”"
+    b "“你把一切都毀了！他表現那麼乖巧可愛的前戲多麼來勁，你他媽非得出現把我弄軟屌了！！”"
 
 # game/a3s1.rpy:1367
 translate Tchinese a3s1_18068b7a:
@@ -6194,7 +6194,7 @@ translate Tchinese a3s1_bb57fe10:
 translate Tchinese a3s1_1917bb64:
 
     # b "\"God, you fucking ruined it! He was perfectly fine 'till you showed up. Now he's fuckin' mangled to the point he's not even fuckable!\""
-    b "“你把一切都毀了！他表現那麼來勁的前戲，直到你出現讓我現在屌都軟了！”"
+    b "“你把一切都毀了！他表現那麼乖巧可愛的前戲多麼來勁，你他媽非得出現把我弄軟屌了！！”"
 
 # game/a3s1.rpy:979
 translate Tchinese a3s1_80009c2d:

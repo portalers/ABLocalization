@@ -28567,3 +28567,11 @@ translate Tchinese strings:
     old "500?"
     new "500？"
 
+# TODO: Translation updated at 2023-02-08 19:10
+
+# game/murdochroute2.rpy:4561
+translate Tchinese murdochroute2_2354b162:
+
+    # ho "\"Important things. Reubin’s a doctor. Neil’s planning to run for Congress.\""
+    ho "“至關重要的事情。Raul是一名醫生，Neil計劃競選國會議員。”"
+

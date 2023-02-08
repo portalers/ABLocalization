@@ -3874,7 +3874,7 @@ translate Tchinese a2s3_b33dda79:
 translate Tchinese a2s3_37f50191:
 
     # "Dead, but with working reflexes, using tools still clutched in its grasp."
-    "死而不僵。"
+    "死了，但還殘存的運動反射，本能地緊握著最後在手中的東西。"
 
 # game/a2s3.rpy:886
 translate Tchinese a2s3_659a75b1:
@@ -4290,7 +4290,7 @@ translate Tchinese a2s3_c95f369c:
 translate Tchinese a2s3_d93954c2:
 
     # centered "{cps=45}Dead,{w=0.3} but with working reflexes,{w=0.3} using{p=0.01} the tools that it still holds tightly in its grasp."
-    centered "{cps=45}死了，{w=0.3}但還有運動反射，{w=0.3}本能的{p=0.01}緊握著最後在手上的東西。"
+    centered "{cps=45}死了，{w=0.3}但還殘存的運動反射，{w=0.3}本能地{p=0.01}緊握著最後在手中的東西。"
 
 # game/a2s3.rpy:1287
 translate Tchinese a2s3_a60278ec:

@@ -2056,7 +2056,7 @@ translate Tchinese a1s3_43b0e2e4:
 translate Tchinese a1s3_77a411f1:
 
     # "The abyss he's felt below his feet since he was twelve, that emotional scar left over from the last traumatic event in his life, seems to yawn a bit wider."
-    "那是他12歲時發生的悲劇事件，在他幼小的心靈劃上一刀，沒有痊癒的裂縫如深淵一般，就在剛剛像是打哈欠微微張開了一些。"
+    "那是他十二歲時發生的悲劇事件，在他幼小的心靈劃上一刀，沒有痊癒的裂縫如深淵一般，就在剛剛像是打哈欠微微張開了一些。"
 
 # game/a1s3.rpy:584
 translate Tchinese a1s3_16b9ffde:
