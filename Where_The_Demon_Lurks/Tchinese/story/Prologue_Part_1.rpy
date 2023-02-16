@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2021-10-20 18:31
+# TODO: Translation updated at 2023-02-15 21:54
 
 # game/story/Prologue_Part_1.rpy:16
 translate Tchinese prologue_part_1_463d48b4:
@@ -259,12 +259,18 @@ translate Tchinese name_input_9186d8b2:
     Ven "這就是先王時代我們熟悉新員工的方式。您應該為這不是提前錄製，而是現場演講而感到高興。"
 
 # game/story/Prologue_Part_1.rpy:153
-translate Tchinese name_input_5939cdb8:
+translate Tchinese name_input_8b30cd60:
 
-    # p neutral "I don’t want to come off as one of those snooty bosses that hides behind his desk all the time. It will be good to meet the generals in person and show that I’m relatable and approachable."
-    p neutral "我不想成為那種只會坐在書桌後面，目中無人的老闆。親自會見將軍們有利於表現出我的親和力，是件好事。"
+    # p neutral "I don’t want to come off as one of those snooty bosses that hides behind his desk all the time."
+    p neutral "我不想成為那種只會坐在書桌後面，鼻子都翹到天上去的老闆。"
 
-# game/story/Prologue_Part_1.rpy:155
+# game/story/Prologue_Part_1.rpy:159
+translate Tchinese name_input_6e0d8a68:
+
+    # p "It will be good to meet the generals in person and show that I’m relatable and approachable."
+    p "親自會見將軍們有利於表現出我的親和力。"
+
+# game/story/Prologue_Part_1.rpy:342
 translate Tchinese name_input_74998819:
 
     # Ven "Might I remind you, my Lord... this is a workplace, not a social club."
@@ -304,7 +310,7 @@ translate Tchinese name_input_dde85e23:
 translate Tchinese name_input_8fa1ca4a:
 
     # Ven "Now let’s begin the orientation. Do you remember what Form BTK-95 is for?"
-    Ven "現在我們開始培訓吧。您還記得BTK-95號表單的用途嗎？"
+    Ven "現在我們開始培訓吧。您還記得BTK──95號表單的用途嗎？"
 
 # game/story/Prologue_Part_1.rpy:171
 translate Tchinese name_input_2f1bb351:
@@ -463,12 +469,12 @@ translate Tchinese name_input_9112c4c3:
     "隨著‘乒’的聲音響徹整間工坊，蜘蛛機器人回到了各自的崗位上。"
 
 # game/story/Prologue_Part_1.rpy:334
-translate Tchinese name_input_7e974945:
+translate Tchinese name_input_87fde90a:
 
-    # Amar "I’m surprised to see you here today, my Lord."
-    Amar "沒想到今天會在這裡遇見您，殿下。"
+    # Amar hand1 -hand2 -hand3 "I’m surprised to see you here today, my Lord."
+    Amar hand1 -hand2 -hand3 "沒想到會在這裡遇見您，殿下。"
 
-# game/story/Prologue_Part_1.rpy:336
+# game/story/Prologue_Part_1.rpy:352
 translate Tchinese name_input_3b855a75:
 
     # "One of his floating arms tears off the note it was writing earlier and readies itself to jot down something new."
@@ -493,12 +499,12 @@ translate Tchinese name_input_82c22ba0:
     p neutral "我就是來拜訪一下各位將軍，好了解你們。畢竟第一天上任嘛，我想知道你們的……可以說是動力吧。"
 
 # game/story/Prologue_Part_1.rpy:344
-translate Tchinese name_input_ab4d8242:
+translate Tchinese name_input_609fe9e4:
 
-    # Amar "I see. If my Lord wants to know about me, I have my specs right here."
-    Amar "原來如此。既然殿下想要了解我，我這裡剛好有配置。"
+    # Amar smile "I see. If my Lord wants to know about me, I have my specs right here."
+    Amar smile "原來如此。既然殿下想要了解我，我這裡剛好有配置。"
 
-# game/story/Prologue_Part_1.rpy:346
+# game/story/Prologue_Part_1.rpy:365
 translate Tchinese name_input_cc97bc42:
 
     # Amar "Display specifications."
@@ -529,12 +535,12 @@ translate Tchinese name_input_c909dd3f:
     p neutral "停，停！我不想了解你的成分，{fast}我只是來聊天的，還有請教一下你的心得。"
 
 # game/story/Prologue_Part_1.rpy:356
-translate Tchinese name_input_172f1b46:
+translate Tchinese name_input_971744a6:
 
-    # Amar "Would you like me to display the contents on my brain for you, my Lord? I can get a machine to show you the shape of my brain in little time."
-    Amar "您想看我心臟的內容物嗎，殿下？我可以用一台機器在短時間內呈現給您。"
+    # Amar neutral "Would you like me to display the contents on my brain for you, my Lord? I can get a machine to show you the shape of my brain in little time."
+    Amar neutral "您想看我心臟的內容物嗎，殿下？我可以用一台機器在短時間內呈現給您。"
 
-# game/story/Prologue_Part_1.rpy:358
+# game/story/Prologue_Part_1.rpy:379
 translate Tchinese name_input_71478d63:
 
     # "A weak smile forms on your face."
@@ -553,24 +559,30 @@ translate Tchinese name_input_f1fb7e41:
     p neutral "好吧，我重問一遍。{fast}Amare，你在忙什麼？"
 
 # game/story/Prologue_Part_1.rpy:363
-translate Tchinese name_input_8841eaaa:
+translate Tchinese name_input_76c3961a:
 
-    # Amar "Ah yes, I received a call earlier asking if my refrigerator was running, and that I should catch it if it was. So I was performing a full diagnostic to see if my fridge had gained the ability to run, and to investigate what component gave it that new ability."
-    Amar "噢對，我早些時候接到一個電話，詢問我的冰箱是否在跑，並讓我看好它。於是我進行了一次全面診斷，看它是否具備了跑步的能力，並調查是哪個部件賦予了它這種新功能。"
+    # Amar "Ah yes, I received a call earlier asking if my refrigerator was running, and that I should catch it if it was."
+    Amar "對了，我稍早接到一通電話，問我的冰箱是不是在跑，還讓我看好它。"
 
-# game/story/Prologue_Part_1.rpy:365
+# game/story/Prologue_Part_1.rpy:373
+translate Tchinese name_input_cf447117:
+
+    # Amar "So I was performing a full diagnostic to see if my fridge had gained the ability to run, and to investigate what component gave it that new ability."
+    Amar "於是我進行了一次全方面的檢查，看其是否具備跑步的能力，並調查是哪個部件賦予了它這種全新功能。"
+
+# game/story/Prologue_Part_1.rpy:383
 translate Tchinese name_input_3375334f:
 
     # p "Amare, that was a prank call. Someone was just trying to trick you."
     p "那是個惡作劇電話，Amare，你被人耍了。"
 
 # game/story/Prologue_Part_1.rpy:367
-translate Tchinese name_input_9e7d6be5:
+translate Tchinese name_input_c7d8511f:
 
-    # Amar "Oh… so my fridge didn’t learn to run yet?"
-    Amar "喔……所以我的冰箱還沒有學會跑步？"
+    # Amar sad "Oh… so my fridge didn’t learn to run yet?"
+    Amar sad "喔……所以我的冰箱還沒有學會跑步？"
 
-# game/story/Prologue_Part_1.rpy:369
+# game/story/Prologue_Part_1.rpy:387
 translate Tchinese name_input_7508a8d9:
 
     # "His ears droop upon hearing the truth."
@@ -583,12 +595,12 @@ translate Tchinese name_input_262abef1:
     p "我想你可以讓它學會，只要你願意的話。"
 
 # game/story/Prologue_Part_1.rpy:373
-translate Tchinese name_input_f6c573d9:
+translate Tchinese name_input_8a815067:
 
-    # Amar "Yeah! I can make it run after the souls and trap them in a black hole that sends them back into the never-ending cycle of running and getting trapped!"
-    Amar "對啊！我可以讓它把靈魂趕進黑洞，再釋放出來，使它們無限跑下去!"
+    # Amar -hand1 hand2 hand3 smile "Yeah! I can make it run after the souls and trap them in a black hole that sends them back into the never-ending cycle of running and getting trapped!"
+    Amar -hand1 hand2 hand3 smile "對啊！我可以讓它把靈魂趕進黑洞，再釋放出來，使它們無限跑下去！"
 
-# game/story/Prologue_Part_1.rpy:375
+# game/story/Prologue_Part_1.rpy:397
 translate Tchinese name_input_088aac4b:
 
     # "His floating arms act fast and jot down his thoughts."
@@ -607,60 +619,66 @@ translate Tchinese name_input_8aebeeee:
     p "不得不說，你這裡的東西還真不少。"
 
 # game/story/Prologue_Part_1.rpy:381
-translate Tchinese name_input_0f12f94d:
+translate Tchinese name_input_9a4e0a1f:
 
-    # Amar "Yes, I need them to fix or modify the torture machines we use. Since souls tend to become accustomed to their torturing over time, we need to change their hellish experience every so often."
-    Amar "是的，我需要用它們來修理和改進我們的刑具。因為隨著時間的推移，靈魂會對刑罰習以為常，所以我們三不五時就要改變策略。"
+    # Amar neutral "Yes, I need them to fix or modify the torture machines we use. Since souls tend to become accustomed to their torturing over time, we need to change their hellish experience every so often."
+    Amar neutral "是的，我需要用它們來修理和改進我們的刑具。因為隨著時間的推移，靈魂會對刑罰習以為常，所以我們三不五時就要改變策略。"
 
-# game/story/Prologue_Part_1.rpy:383
+# game/story/Prologue_Part_1.rpy:409
 translate Tchinese name_input_170a16cb:
 
     # p "Although, it sounds like that would take up a lot of resources and effort."
     p "可是，聽起來很耗費資源和精力。"
 
 # game/story/Prologue_Part_1.rpy:385
-translate Tchinese name_input_4354a791:
+translate Tchinese name_input_4b86db30:
 
-    # Amar "It does, which is why I came up with an idea. As you know, we already have experience projecting the memories of souls. So what if every few hours we remove the soul’s most recent memories so that the soul does not remember the experience of their torture."
-    Amar "沒錯，正因為如此，我有個構思。如您所知，我們已經有了投射靈魂記憶的經驗。那麼，假設我們每隔幾小時移除一次靈魂最近的記憶，令它們不記得遭受過的刑罰……"
+    # Amar "It does, which is why I came up with an idea. As you know, we already have experience projecting the memories of souls."
+    Amar "沒錯，正因為如此，我有個構思。如您所知，我們已經有了投射靈魂記憶的經驗。"
 
-# game/story/Prologue_Part_1.rpy:387
+# game/story/Prologue_Part_1.rpy:397
+translate Tchinese name_input_60296f87:
+
+    # Amar "So what if every few hours we remove the soul’s most recent memories so that the soul does not remember the experience of their torture."
+    Amar "那麼，假如我們每隔幾個小時移除一次靈魂的記憶，令它們不記得受過的刑罰……"
+
+# game/story/Prologue_Part_1.rpy:401
 translate Tchinese name_input_f7dceeb5:
 
     # p "Then we can recycle the same torture method."
     p "我們就可以反覆利用了。"
 
 # game/story/Prologue_Part_1.rpy:389
-translate Tchinese name_input_641c8465:
+translate Tchinese name_input_584df2c9:
 
-    # Amar "Exactly!"
-    Amar "正是！"
+    # Amar -hand2 -hand3 hand1 smile "Exactly!"
+    Amar -hand2 -hand3 hand1 smile "正是！"
 
-# game/story/Prologue_Part_1.rpy:391
+# game/story/Prologue_Part_1.rpy:415
 translate Tchinese name_input_66e9ab3b:
 
     # p @ confused "So why aren’t you doing it then?"
     p @ confused "那你為什麼不去實施呢？"
 
 # game/story/Prologue_Part_1.rpy:393
-translate Tchinese name_input_862f9571:
+translate Tchinese name_input_e89ba46b:
 
-    # Amar "I ran the proposal with the research committee, but it’s been stuck in the pending phase for over a hundred years. I just need to test the prototype somewhere."
-    Amar "只缺一處測試原型機的地點。我和研究委員會一起提交了這項提案，但已經被擱置上百年了。"
+    # Amar sad "I ran the proposal with the research committee, but it’s been stuck in the pending phase for over a hundred years. I just need to test the prototype somewhere."
+    Amar sad "只缺一處測試原型機的地點。我和研究委員會一起提交了這項提案，但已經被擱置上百年了。"
 
-# game/story/Prologue_Part_1.rpy:395
+# game/story/Prologue_Part_1.rpy:421
 translate Tchinese name_input_0521a602:
 
     # p "Hmm, I might be able to help. What if I grant you permission to test it with a few souls in the physical punishment zone?"
     p "嗯，也許我可以，允許你用酷刑區的幾個靈魂作測試？"
 
 # game/story/Prologue_Part_1.rpy:397
-translate Tchinese name_input_1dcc4b44:
+translate Tchinese name_input_30d6142b:
 
-    # Amar "Really? That’s all I would need to get started."
-    Amar "真的嗎？這樣就萬事俱備了。"
+    # Amar smile "Really? That’s all I would need to get started."
+    Amar smile "真的嗎？這樣就萬事俱備了。"
 
-# game/story/Prologue_Part_1.rpy:399
+# game/story/Prologue_Part_1.rpy:488
 translate Tchinese name_input_f99080ef:
 
     # p "Then we have a plan. I’ll put it through after I’m done with my visit."
@@ -727,42 +745,42 @@ translate Tchinese name_input_4769272f:
     p "Fortis！"
 
 # game/story/Prologue_Part_1.rpy:463
-translate Tchinese name_input_6c7a9cf9:
+translate Tchinese name_input_67459b7f:
 
-    # Fort "HEY, BOSS! GET OVER HERE!"
-    Fort "{b}嗨，老大！快過來！{/b}"
+    # Fort pose2 laugh "HEY, BOSS! GET OVER HERE!"
+    Fort pose2 laugh "{b}嗨，老大！快過來！{/b}"
 
-# game/story/Prologue_Part_1.rpy:465
+# game/story/Prologue_Part_1.rpy:496
 translate Tchinese name_input_eb4bec1e:
 
     # p shocked "Fortis, volume!"
     p shocked "太大聲了，Fortis！"
 
 # game/story/Prologue_Part_1.rpy:467
-translate Tchinese name_input_191ee8fb:
+translate Tchinese name_input_51df1e2e:
 
-    # Fort "Whoops, my bad there, Boss. Wait, can I call you Boss? Or you prefer I call you ‘my Lord’, like everyone else?"
-    Fort "噢，我的錯，老大。等等，我能叫您老大嗎？還是您更喜歡我像其他人那樣叫您‘殿下’？"
+    # Fort pose4 "Whoops, my bad there, Boss. Wait, can I call you Boss? Or you prefer I call you ‘my Lord’, like everyone else?"
+    Fort pose4 "噢，瞧我這記性，抱歉了老大。等等，我能叫您老大嗎？還是您更喜歡我像其他人那樣叫您‘殿下’？"
 
-# game/story/Prologue_Part_1.rpy:469
+# game/story/Prologue_Part_1.rpy:557
 translate Tchinese name_input_ba3d51d6:
 
     # p neutral "Either way is fine, Fortis. You don’t have to go changing for me just cause I’ve got a new job."
     p neutral "都可以，Fortis。我只是得到了份新工作，你不必遷就我。"
 
 # game/story/Prologue_Part_1.rpy:474
-translate Tchinese name_input_3dd4051c:
+translate Tchinese name_input_98190c97:
 
-    # Fort "Heck yeah! Boss it is then! Now that’s a title for someone with {sc=2}power!{/sc}"
-    Fort "可不！那就還是老大了！現在，這是有{sc=2}權利{/sc}的惡魔才能擁有的頭銜了。"
+    # Fort neutral2 "Heck yeah! Boss it is then! Now that’s a title for someone with {sc=2}power!{/sc}"
+    Fort neutral2 "可不！那就還是老大了！現在，這是有{sc=2}權利{/sc}的惡魔才能擁有的頭銜了。"
 
-# game/story/Prologue_Part_1.rpy:473
-translate Tchinese name_input_2ec3785c:
+# game/story/Prologue_Part_1.rpy:506
+translate Tchinese name_input_24da8971:
 
-    # Fort "So what’s made you want to have this face-to-face meeting?"
-    Fort "所以是什麼風把您給吹來了？"
+    # Fort pose1 "So what’s made you want to have this face-to-face meeting?"
+    Fort pose1 "所以是什麼風把您給吹來了？"
 
-# game/story/Prologue_Part_1.rpy:475
+# game/story/Prologue_Part_1.rpy:502
 translate Tchinese name_input_01d84fc8:
 
     # p "I figured it would be the best way to get off on the right foot while introducing myself to you guys as the new Demon Lord."
@@ -781,46 +799,46 @@ translate Tchinese name_input_eafca2cf:
     p "那麼，公事在先。你一般在這裡做什麼？我知道你負責拷問區的運作，但肯定不止這些。"
 
 # game/story/Prologue_Part_1.rpy:481
-translate Tchinese name_input_51f1b24c:
+translate Tchinese name_input_da4043be:
 
-    # Fort "Heck yeah there’s more to it than that. I run a team of torture demons! That means coming up with new torture techniques, and planning out the work schedule so my staff can keep busy."
-    Fort "可不，還有一整隊拷問惡魔需要我管理呢！這意味著我要琢磨出新的拷問技，排好班，讓我的員工們能長期幹下去。"
+    # Fort laugh "Heck yeah there’s more to it than that. I run a team of torture demons! That means coming up with new torture techniques, and planning out the work schedule so my staff can keep busy."
+    Fort laugh "可不，還有一整隊拷問惡魔需要我管理呢！這意味著我要琢磨出新的拷問技，排好班，讓我的員工們能長期幹下去。"
 
-# game/story/Prologue_Part_1.rpy:487
-translate Tchinese name_input_76df4c79:
+# game/story/Prologue_Part_1.rpy:508
+translate Tchinese name_input_5cc4dba7:
 
-    # Fort "We demons may be tough, but wear and tear happens if you keep pushing your team or yourself too hard. Besides, you can’t grow muscles without rest!"
-    Fort "我們惡魔是很堅忍，但也受不了過勞死。再說，不休息可長不出肌肉！"
+    # Fort neutral2 pose2 "We demons may be tough, but wear and tear happens if you keep pushing your team or yourself too hard. Besides, you can’t grow muscles without rest!"
+    Fort neutral2 pose2 "我們惡魔是很堅忍，但也受不了過勞死。再說，不休息可長不出肌肉！"
 
-# game/story/Prologue_Part_1.rpy:485
+# game/story/Prologue_Part_1.rpy:512
 translate Tchinese name_input_203fc0f3:
 
     # p "Makes sense. As the second-oldest general out of the lot of them, you got any ideas for improving your work?"
     p "有道理。作為第二年長的將軍，你有什麼改進自己工作的想法嗎？"
 
 # game/story/Prologue_Part_1.rpy:487
-translate Tchinese name_input_6c69b65e:
+translate Tchinese name_input_258628ab:
 
-    # Fort "Heck yeah, I recommend we start everyone on a protein-only diet!"
-    Fort "可不，我建議大伙從現在開始只吃蛋白質！"
+    # Fort pose3 "Heck yeah, I recommend we start everyone on a protein-only diet!"
+    Fort pose3 "可不，我建議大伙從現在開始只吃蛋白質！"
 
-# game/story/Prologue_Part_1.rpy:489
+# game/story/Prologue_Part_1.rpy:530
 translate Tchinese name_input_254d4a72:
 
     # p "Come on now, seriously."
     p "拜託，認真點。"
 
 # game/story/Prologue_Part_1.rpy:494
-translate Tchinese name_input_c3db15b4:
+translate Tchinese name_input_1f6c16f9:
 
-    # Fort "Then... YOU’VE GOT TO KEEP TRAINING!"
-    Fort "那就……{b}您必須堅持鍛鍊！{/b}"
+    # Fort pose4 "Then... YOU’VE GOT TO KEEP TRAINING!"
+    Fort pose4 "那就……{b}您必須堅持鍛鍊！{/b}"
 
-# game/story/Prologue_Part_1.rpy:493
+# game/story/Prologue_Part_1.rpy:508
 translate Tchinese name_input_c7c3cd6e:
 
     # p shocked "M-me?!"
-    p shocked "什─我？！"
+    p shocked "什──我？！"
 
 # game/story/Prologue_Part_1.rpy:495
 translate Tchinese name_input_b18543a2:
@@ -829,12 +847,12 @@ translate Tchinese name_input_b18543a2:
     "Fortis在硬木地板上重重踏了一腳。" with vpunch
 
 # game/story/Prologue_Part_1.rpy:500
-translate Tchinese name_input_e53ae443:
+translate Tchinese name_input_38b8e734:
 
-    # Fort "YOU CAN’T LET A CUSHY CEO JOB TURN YOU INTO A BALL OF FLAB!"
-    Fort "{b}切莫被安逸的CEO工作養出一團肥肉！{/b}"
+    # Fort pose3 "YOU CAN’T LET A CUSHY CEO JOB TURN YOU INTO A BALL OF FLAB!"
+    Fort pose3 "{b}您可不能貪圖享樂，被CEO的工作變成一個肉球啊！{/b}"
 
-# game/story/Prologue_Part_1.rpy:499
+# game/story/Prologue_Part_1.rpy:516
 translate Tchinese name_input_da89dce0:
 
     # p annoyed "Fortis, volume."
@@ -847,24 +865,24 @@ translate Tchinese name_input_dc7c1059:
     "Fortis咳了一聲。"
 
 # game/story/Prologue_Part_1.rpy:505
-translate Tchinese name_input_8e3506e5:
+translate Tchinese name_input_08535022:
 
-    # Fort "Right, don’t think your underlings are loyal to you out of love alone. We’re all demons, creatures born from chaos to manage chaos."
-    Fort "總之，不要指望下屬的忠誠是出於對您的愛。我們都是惡魔，是從混沌中誕生，掌管混沌的生物。"
+    # Fort pose1 neutral1 "Right, don’t think your underlings are loyal to you out of love alone. We’re all demons, creatures born from chaos to manage chaos."
+    Fort pose1 neutral1 "總之，不要指望下屬的忠誠是出於對您的愛。我們都是惡魔，是從混沌中誕生，掌管混沌的生物。"
 
-# game/story/Prologue_Part_1.rpy:507
+# game/story/Prologue_Part_1.rpy:534
 translate Tchinese name_input_13c56440:
 
     # Fort "The reason the demons serve the Demon Lord is because they know he is the strongest there is here."
     Fort "惡魔們只信一個道理：強者為王。"
 
 # game/story/Prologue_Part_1.rpy:509
-translate Tchinese name_input_f06e4942:
+translate Tchinese name_input_3e5374c0:
 
-    # Fort "If you start showing weakness, someone’s going to get the bright idea they can take your place."
-    Fort "只要您表現出一絲軟弱，馬上就有人惦記上您的位子。"
+    # Fort @ sad "If you start showing weakness, someone’s going to get the bright idea they can take your place."
+    Fort @ sad "只要您表現出一絲軟弱，馬上就有人惦記上您的位子。"
 
-# game/story/Prologue_Part_1.rpy:511
+# game/story/Prologue_Part_1.rpy:547
 translate Tchinese name_input_a659aee7:
 
     # p "That’s why I’m doing this. If I can show I can make the Underworld better, they’ll know I’m just as capable as Paw."
@@ -883,12 +901,12 @@ translate Tchinese name_input_40be4fb5:
     p confused "蛤？"
 
 # game/story/Prologue_Part_1.rpy:517
-translate Tchinese name_input_1346b223:
+translate Tchinese name_input_2123acfb:
 
-    # Fort "JUST BELIEVE!"
-    Fort "{b}相信就對了！{/b}"
+    # Fort pose2 "JUST BELIEVE!"
+    Fort pose2 "{b}信就對了！{/b}"
 
-# game/story/Prologue_Part_1.rpy:519
+# game/story/Prologue_Part_1.rpy:1003
 translate Tchinese name_input_433b97fe:
 
     # p sad "Ok, ok. I believe you. Ehem—{done} moving on, maybe you’ll be interested in running an idea I have for advertising the Underworld to the people on Earth."
@@ -901,42 +919,42 @@ translate Tchinese name_input_b9439e7e:
     p neutral "好吧，好吧，我相信你。咳──{fast}繼續之前的話題。我有意向人界推廣冥界，不知道你怎麼看。"
 
 # game/story/Prologue_Part_1.rpy:522
-translate Tchinese name_input_d6ddce78:
+translate Tchinese name_input_764e0e33:
 
-    # Fort "Like rerunning those old dream ads?"
-    Fort "像從前那樣，一遍又一遍地託夢？"
+    # Fort annoyed "Like rerunning those old dream ads?"
+    Fort annoyed "像從前那樣，一遍又一遍地託夢？"
 
-# game/story/Prologue_Part_1.rpy:524
+# game/story/Prologue_Part_1.rpy:551
 translate Tchinese name_input_3b26e561:
 
     # p "Naw, those won’t work. People don’t take dreams that seriously anymore. I’m thinking of spreading fear about the Underworld using the Internet."
     p "不，沒用的，現代人已經不信夢境那一套了。我在想的是，透過網路宣揚冥界的恐怖。"
 
 # game/story/Prologue_Part_1.rpy:526
-translate Tchinese name_input_f3367fdf:
+translate Tchinese name_input_0cf69638:
 
-    # Fort "You can do that with the Internet?"
-    Fort "網路還能這麼玩？"
+    # Fort confused "You can do that with the Internet?"
+    Fort confused "網路還能這麼玩？"
 
-# game/story/Prologue_Part_1.rpy:528
+# game/story/Prologue_Part_1.rpy:555
 translate Tchinese name_input_ff4c381d:
 
     # p confused "Well yeah, what do you use it for?"
     p confused "是啊，不然你上網都幹嘛了？"
 
 # game/story/Prologue_Part_1.rpy:530
-translate Tchinese name_input_a8787a37:
+translate Tchinese name_input_bb077a2a:
 
-    # Fort "Uhh… stuff."
-    Fort "就……只是上網。"
+    # Fort shocked "Uhh… stuff."
+    Fort shocked "就……只是上網。"
 
-# game/story/Prologue_Part_1.rpy:532
-translate Tchinese name_input_1f7c7834:
+# game/story/Prologue_Part_1.rpy:557
+translate Tchinese name_input_2f946db7:
 
-    # Fort "Does Vendrake know about this?"
-    Fort "Vendrake知道嗎？"
+    # Fort confused "Does Vendrake know about this?"
+    Fort confused "Vendrake知道嗎？"
 
-# game/story/Prologue_Part_1.rpy:534
+# game/story/Prologue_Part_1.rpy:563
 translate Tchinese name_input_f37e4841:
 
     # p neutral "I’ll let him know later. It’s one of the perks of my position."
@@ -949,12 +967,12 @@ translate Tchinese name_input_bc1f063e:
     p "那好吧，至於廣告創意就交給你了，我會讓Nox幫你一把的。"
 
 # game/story/Prologue_Part_1.rpy:538
-translate Tchinese name_input_8d501f68:
+translate Tchinese name_input_83d52725:
 
-    # Fort "Maybe I can do a training video. You know, show how powerful our demons are. That oughta scare those mortals down the right path."
-    Fort "也許我可以把訓練過程錄下來，讓凡人見識一下我們惡魔的強大，說不定能嚇得他們不敢作惡。"
+    # Fort neutral1 "Maybe I can do a training video. You know, show how powerful our demons are. That oughta scare those mortals down the right path."
+    Fort neutral1 "也許我可以把訓練過程錄下來，讓凡人見識一下我們惡魔的強大，說不定能嚇得他們不敢作惡。"
 
-# game/story/Prologue_Part_1.rpy:540
+# game/story/Prologue_Part_1.rpy:824
 translate Tchinese name_input_4da0d7c2:
 
     # p "Sounds like a good idea."
@@ -973,36 +991,36 @@ translate Tchinese name_input_5b4cdf62:
     p "那就這麼定了。"
 
 # game/story/Prologue_Part_1.rpy:546
-translate Tchinese name_input_23b5eae3:
+translate Tchinese name_input_70b032e1:
 
-    # Fort "Sweet! I’ll catch ya later then, Boss! I’ve got a group cardio session with the next batch of torturers before their shift starts."
-    Fort "酷！那我先失陪了，老大！我要和一幫拷問者去做有氧運動，在他們輪班前。"
+    # Fort pose3 "Sweet! I’ll catch ya later then, Boss! I’ve got a group cardio session with the next batch of torturers before their shift starts."
+    Fort pose3 "酷！那我就先失陪了，老大！我還要在那一幫拷問者去輪班前一起去做有氧運動。"
 
-# game/story/Prologue_Part_1.rpy:548
+# game/story/Prologue_Part_1.rpy:561
 translate Tchinese name_input_a6363450:
 
     # p confused "I thought you only torture souls."
     p confused "我還以為你只負責拷問呢。"
 
 # game/story/Prologue_Part_1.rpy:550
-translate Tchinese name_input_52a1f59d:
+translate Tchinese name_input_e1939a5c:
 
-    # Fort "Hey, team exercise is good for morale. You might want to consider doing some too, you’re getting a gut."
-    Fort "集體鍛鍊有助於增長士氣。您要不要考慮考慮？我看您最近有小肚子了。"
+    # Fort pose4 "Hey, team exercise is good for morale. You might want to consider doing some too, you’re getting a gut."
+    Fort pose4 "集體鍛鍊有助於增長士氣。您要不要考慮考慮？我看您最近長肚肚了哦。"
 
-# game/story/Prologue_Part_1.rpy:552
+# game/story/Prologue_Part_1.rpy:567
 translate Tchinese name_input_fb1788a3:
 
     # p "It’s a dad bod. People find it sexy!"
     p "這叫老爹身材，是一種潮流！"
 
 # game/story/Prologue_Part_1.rpy:556
-translate Tchinese name_input_1639ed5a:
+translate Tchinese name_input_75b58267:
 
-    # Fort "You’re not a dad yet, Boss."
-    Fort "您還沒有孩子呢，老大。"
+    # Fort pose1 neutral2 "You’re not a dad yet, Boss."
+    Fort pose1 neutral2 "您還沒孩子吶，老大。"
 
-# game/story/Prologue_Part_1.rpy:564
+# game/story/Prologue_Part_1.rpy:351
 translate Tchinese name_input_234a674d:
 
     # "Fortis springs up and waves goodbye before opening a portal to leave."
@@ -1096,13 +1114,13 @@ translate Tchinese name_input_cbcd6695:
 translate Tchinese name_input_d0374ef8:
 
     # "\"Here are the forms requiring your review and approval. I started you easy with just a thousand documents to read.\"{para}-Vendrake"
-    "\"這是需要您審批的表單，為了方便您上手，我只準備了一千份。\"{para}─Vendrake"
+    "“這是需要您審批的表單，為了方便您上手，我只準備了一千份。”{para}──Vendrake"
 
 # game/story/Prologue_Part_1.rpy:648
 translate Tchinese name_input_ec7fbac4:
 
     # "\"P.S., my position about the Underworld as a beacon of judgement since the days of your father still stands.\""
-    "\"P.S.，自您父親的時代起，我便始終將冥界視作裁決的燈塔。\""
+    "“P.S.，自您父親的時代起，我便始終將冥界視作裁決的燈塔。”"
 
 # game/story/Prologue_Part_1.rpy:650
 translate Tchinese name_input_27c6a5fb:
@@ -1381,12 +1399,12 @@ translate Tchinese name_input_c53b5571:
     "Amare一臉茫然地看著Vendrake，然後是你。"
 
 # game/story/Prologue_Part_1.rpy:812
-translate Tchinese name_input_fd3efc3e:
+translate Tchinese name_input_11d01329:
 
-    # Amar "Who’s he?"
-    Amar "他是誰？"
+    # Amar "Who’s he?" (cb_no_talk=True)
+    Amar "他是誰？" (cb_no_talk=True)
 
-# game/story/Prologue_Part_1.rpy:815
+# game/story/Prologue_Part_1.rpy:837
 translate Tchinese name_input_ae76c473:
 
     # "Vendrake smacks his forehead."
@@ -1399,12 +1417,12 @@ translate Tchinese name_input_781e9ebb:
     Ven "他是我們的上司，[name]殿下。"
 
 # game/story/Prologue_Part_1.rpy:822
-translate Tchinese name_input_1af296d4:
+translate Tchinese name_input_3d18f97e:
 
-    # Amar "Oh right, right. Hello, Lord [name]."
-    Amar "對哦，你好啊，[name]殿下。"
+    # Amar "Oh right, right. Hello, Lord [name]." (cb_no_talk=True)
+    Amar "對哦，你好啊，[name]殿下。" (cb_no_talk=True)
 
-# game/story/Prologue_Part_1.rpy:825
+# game/story/Prologue_Part_1.rpy:943
 translate Tchinese name_input_ec816366:
 
     # p annoyed "Amare, what’s going on?"
@@ -1426,7 +1444,7 @@ translate Tchinese name_input_ed7e2d7e:
 translate Tchinese name_input_5d2caa4d:
 
     # Amar "Yes, that. Then the machine just...{w=0.5} what’s the word?{w=0.5} Ah, I can’t remember."
-    Amar "對，沒錯。然後機器就...{w=0.5}那個詞怎麼說的來著？{w=0.5}啊，我不記得了。"
+    Amar "對，沒錯。然後機器就……{w=0.5}那個詞怎麼說的來著？{w=0.5}啊，我不記得了。"
 
 # game/story/Prologue_Part_1.rpy:841
 translate Tchinese name_input_bf513b20:
@@ -1456,13 +1474,13 @@ translate Tchinese name_input_56b31aeb:
 translate Tchinese name_input_2350a61e:
 
     # Amar "Don’t worry, the effects will wear off in a few hours...{w=1.0} or was it a few weeks.{w=1.0}{nw}{done} Years? I don’t remember how long I set the machine to."
-    Amar "別擔心，幾個小時後就會失效...{w=1.0}或者幾週，{w=1.0}{nw}{done}還是幾年？我不記得把時間設定成多少了。"
+    Amar "別擔心，幾個小時後就會失效……{w=1.0}或者幾週，{w=1.0}{nw}{done}還是幾年？我不記得把時間設定成多少了。"
 
 # game/story/Prologue_Part_1.rpy:858
 translate Tchinese name_input_bc311272:
 
     # Amar "Don’t worry, the effects will wear off in a few hours... or was it a few weeks.{fast} Years? I don’t remember how long I set the machine to."
-    Amar "別擔心，幾個小時後就會失效...或者幾週，{fast}還是幾年？我不記得把時間設定成多少了。"
+    Amar "別擔心，幾個小時後就會失效……或者幾週，{fast}還是幾年？我不記得把時間設定成多少了。"
 
 # game/story/Prologue_Part_1.rpy:862
 translate Tchinese name_input_30444563:
@@ -1531,12 +1549,10 @@ translate Tchinese name_input_996ee2d6:
     Nox "他執意要拍健身影片，儘管我告訴他您已經批准了我的{para}計劃。"
 
 # game/story/Prologue_Part_1.rpy:929
-translate Tchinese name_input_17f637c0:
+translate Tchinese name_input_396294b0:
 
-    # Fort "No, he approved my idea first, so that takes priority."
-    Fort "他先批准了我的，所以要以我為優先。"
-
-# game/story/Prologue_Part_1.rpy:946
+    # Fort annoyed "No, he approved my idea first, so that takes priority."
+    Fort annoyed "他先批准了我的，所以要以我為優先。"
 translate Tchinese name_input_90905d7c:
 
     # Ven "Quiet! These two were at each other’s throat, literally. All the other staff were too busy watching their shenanigans to work!"
@@ -1684,9 +1700,8 @@ translate Tchinese name_input_363a5cb6:
 translate Tchinese name_input_54375b95:
 
     # Ven "Well then, I’m not going to let the Underworld fall, not even because of you. My. Lord."
-    Ven "我也不會讓冥界墮落下去，即便是因為你，殿下。"
+    Ven "我也不會讓冥界墮落下去，即便是因為您，殿下。"
 
-# game/story/Prologue_Part_1.rpy:1049
 translate Tchinese name_input_daa87e3e:
 
     # "Squeezing the report in your left hand, you feel your claws penetrating the already-thick papers, as they begin to bury through into the palm of your hand."
@@ -1814,354 +1829,67 @@ translate Tchinese name_input_0124c37b:
 
 translate Tchinese strings:
 
-
     # game/story/Prologue_Part_1.rpy:3
     old "{size=50}Prologue{/size}"
     new "{size=50}序章{/size}"
 
-    # game/story/Prologue_Part_1.rpy:86
-    old "Below in black ink is the name “Kobu”. Is the name on the tag correct?\n"
-    new "黑色墨水形成了‘Kobu’的字樣，這是你的名字嗎？\n"
-
-    # game/story/Prologue_Part_1.rpy:86
-    old "Kobu"
-    new "Kobu"
+    # game/story/Prologue_Part_1.rpy:82
+    old "Buttface{#joke_name}"
+    new "討厭鬼{#joke_name}"
 
     # game/story/Prologue_Part_1.rpy:83
     old "buttface{#joke_name}"
     new "討厭鬼{#joke_name}"
 
-    # game/story/Prologue_Part_1.rpy:98
-    old "Buttface{#joke_name}"
-    new "討厭鬼{#joke_name}"
-
-    # game/story/Prologue_Part_1.rpy:101
-    old "Is [name] correct?"
-    new "確定是[name]嗎？"
-
-    # game/story/Prologue_Part_1.rpy:101
-    old "Yes"
-    new "是"
-
-    # game/story/Prologue_Part_1.rpy:101
-    old "No"
-    new "否"
-
-    # game/story/Prologue_Part_1.rpy:409
-    old "Amare{#journal}"
-    new "Amare{#journal}"
-
-    # game/story/Prologue_Part_1.rpy:413
-    old "Amare is the self proclaimed genius of the Underworld. Paw's dad created him, which makes him the third general to be created by the Demon Lords past. The dude's mad about tech and machinery. He's always looking into how things work and how he can upgrade his own inventions. Although, he can go overboard sometimes and when he does go off the deep end, he commits to it. Once, I asked him to recreate this console I saw on earth but he made it into a flying drone that blasted lasers every time I pressed a button. . . I just wanted to play Wowzer's Odyssey."
-    new "Amare自詡爲冥界的天才，他是老爸的爸爸創造的，也就是第三個將軍。\n這人超沉迷科技跟機械的，他想知道事物的運作方式，然後再運用在他自己的發明上。\n不過，有時候他是有點超過，而且還會越陷越深。\n曾經有一次，我請他幫我仿造一個我在地面上看過的游戲機，但他做出來的東西是每次我按下按鈕都會發射出雷射激光的無人機……我就只是想玩Wowzer's Odyssey而已啊。"
-
-    # game/story/Prologue_Part_1.rpy:503
-    old "Demons{#journal}"
-    new "惡魔{#journal}"
-
-    # game/story/Prologue_Part_1.rpy:503
-    old "There's a word for those of us who live and work in the Underworld, demons. It took great-great grandpa thousands of years of PR to get the people from earth to have the word stick in their own mortal lexicon. I heard they ran nightmare ads among famous philosophers and poets back then. I've seen some of those old ads. It's usually a demon in a bowtie going, “Sinners beware, stay off the path of righteous living, and you'll win a free trip to the Underworld with your personal torture demon to torment you for the unfathomable eternity of non-existence itself!“ which was then followed up with a free tour that may or may not mentally scar the fragile mortal."
-    new "有個詞被用來描述我們這些在冥界生活工作的存在「惡魔」。\n曾曾祖父靠著上千年的人際交流，才讓這個專有名詞流傳在地表上的人界。\n我聽説他們以前會散播惡夢廣告給著名的哲學家或詩人。\n我看過一些，通常會有個打著領帶的惡魔告訴他們：\n「聽好了罪人們，只要你走在邪門歪道上，就能免費獲取通往冥界的旅行資格，包辦你個人的折磨惡魔，給予你永劫不復的苦痛！」\n然後附贈一趟免費但可能會讓脆弱的凡人留下心理創傷的體驗之旅。"
-
-    # game/story/Prologue_Part_1.rpy:554
-    old "Fortis{#journal}"
-    new "Fortis{#journal}"
-
-    # game/story/Prologue_Part_1.rpy:554
-    old "Fortis and I are close, like, he's a demon I can have a drink with anytime. Great grandpa created him and his brothers to help guard the Underworld from any soul dumb enough to attempt escaping. Despite his single head, he's actually a cerberus demon. Anyone who dares to point that out would be punched into next week. His greatest passions are working out, getting others to workout, and his brothers. Heck, sometimes I've been so unlucky to have been roped along into his cruel training regiment. Ugh, it's already exercise just from evading him during his workout highs."
-    new "Fortis跟我很親近，是我隨時都能一起喝一杯的惡魔。\n曾祖父創造了他和他的兄弟們來防止任何愚蠢的靈魂逃離冥界。\n雖然只有一顆頭，但他是條三頭犬。\n帶種在他面前提到這個的，會被他揍得生活不能自理一星期。\n他最熱衷的就是健身，讓其他人，還有他的兄弟們也健身。\n唉，有時候我也會不幸被拉去陪他做那些殘酷的訓練。\n嗚啊，光是要在他健身到忘我時躲著他，本身就是一種體能訓練了。"
-
-    # game/story/Prologue_Part_1.rpy:712
-    old "Nox{#journal}"
-    new "Nox{#journal}"
-
-    # game/story/Prologue_Part_1.rpy:712
-    old "Nox, another name for the night. He was the last general to be created; Paw made him. Yet, I never saw them close with each other. Maybe it has to do with how he's often asking questions that don't really have any answer to them. The other generals don't seem to be interested in his questions, guess that's why he bothers me with them most of the time. At least he's pretty dependable and skilled... a little too skilled, I just can't beat the guy in any 2P matches. "
-    new "Nox，夜晚的别稱。\n他是最後一位被創造出來的將軍：由我老爸，可是我從來没見他們兩個有多親近。\n即便跟我在一起的時候，他也總是保持一定的距離感。\n他很少提到自己，我只知道他一直在找機會放松。\n他的神秘感跟他在格鬥游戲中的水平不相上下，我從來就没在雙人對戰中贏過他。"
-
-# TODO: Translation updated at 2022-03-07 15:28
-
-# game/story/Prologue_Part_1.rpy:157
-translate Tchinese name_input_8b30cd60:
-
-    # p neutral "I don’t want to come off as one of those snooty bosses that hides behind his desk all the time."
-    p neutral "我不想成為那種只會坐在書桌後面，鼻子都翹到天上去的老闆。"
-
-# game/story/Prologue_Part_1.rpy:159
-translate Tchinese name_input_6e0d8a68:
-
-    # p "It will be good to meet the generals in person and show that I’m relatable and approachable."
-    p "親自會見將軍們有利於表現出我的親和力。"
-
-# game/story/Prologue_Part_1.rpy:342
-translate Tchinese name_input_87fde90a:
-
-    # Amar hand1 -hand2 -hand3 "I’m surprised to see you here today, my Lord."
-    Amar hand1 -hand2 -hand3 "沒想到會在這裡遇見您，殿下。"
-
-# game/story/Prologue_Part_1.rpy:352
-translate Tchinese name_input_c86f6753:
-
-    # Amar goggle2 "I see. If my Lord wants to know about me, I have my specs right here."
-    Amar goggle2 "原來如此。既然殿下想要了解我，我這裡剛好有配置。"
-
-# game/story/Prologue_Part_1.rpy:364
-translate Tchinese name_input_d6bfc702:
-
-    # Amar goggle1 "Would you like me to display the contents on my brain for you, my Lord? I can get a machine to show you the shape of my brain in little time."
-    Amar goggle1 "您想看我大腦裡的內容物嗎，殿下？透過使用一種機器，我可以在短時間內呈現給您。"
-
-# game/story/Prologue_Part_1.rpy:371
-translate Tchinese name_input_76c3961a:
-
-    # Amar "Ah yes, I received a call earlier asking if my refrigerator was running, and that I should catch it if it was."
-    Amar "對了，我稍早接到一通電話，問我的冰箱是不是在跑，還讓我看好它。"
-
-# game/story/Prologue_Part_1.rpy:373
-translate Tchinese name_input_cf447117:
-
-    # Amar "So I was performing a full diagnostic to see if my fridge had gained the ability to run, and to investigate what component gave it that new ability."
-    Amar "於是我進行了一次全方面的檢查，看其是否具備跑步的能力，並調查是哪個部件賦予了它這種全新功能。"
-
-# game/story/Prologue_Part_1.rpy:383
-translate Tchinese name_input_37614952:
-
-    # Amar -hand1 hand2 hand3 "Yeah! I can make it run after the souls and trap them in a black hole that sends them back into the never-ending cycle of running and getting trapped!"
-    Amar -hand1 hand2 hand3 "對哦！我可以讓它把靈魂趕進黑洞，再釋放出來，使它們無限奔跑下去!"
-
-# game/story/Prologue_Part_1.rpy:395
-translate Tchinese name_input_4b86db30:
-
-    # Amar "It does, which is why I came up with an idea. As you know, we already have experience projecting the memories of souls."
-    Amar "沒錯，正因為如此，我有個構思。如您所知，我們已經有了投射靈魂記憶的經驗。"
-
-# game/story/Prologue_Part_1.rpy:397
-translate Tchinese name_input_60296f87:
-
-    # Amar "So what if every few hours we remove the soul’s most recent memories so that the soul does not remember the experience of their torture."
-    Amar "那麼，假如我們每隔幾個小時移除一次靈魂的記憶，令它們不記得受過的刑罰……"
-
-# game/story/Prologue_Part_1.rpy:401
-translate Tchinese name_input_c3cd01b1:
-
-    # Amar -hand2 -hand3 hand1 "Exactly!"
-    Amar -hand2 -hand3 hand1 "正是！"
-
-# game/story/Prologue_Part_1.rpy:474
-translate Tchinese name_input_bede1265:
-
-    # Fort pose2 "HEY, BOSS! GET OVER HERE!"
-    Fort pose2 "{b}嗨，老大！快來快來！{/b}"
-
-# game/story/Prologue_Part_1.rpy:482
-translate Tchinese name_input_451c2cf5:
-
-    # Fort pose3 "Heck yeah! Boss it is then! Now that’s a title for someone with {sc=2}power!{/sc}"
-    Fort pose3 "說得太對了！不愧是老大！現在，我要這列為只有{sc=2}強者{/sc}才有資格擁有的頭銜。"
-
-# game/story/Prologue_Part_1.rpy:484
-translate Tchinese name_input_24da8971:
-
-    # Fort pose1 "So what’s made you want to have this face-to-face meeting?"
-    Fort pose1 "所以是什麼風把您給吹來了？"
-
-# game/story/Prologue_Part_1.rpy:502
-translate Tchinese name_input_1f6c16f9:
-
-    # Fort pose4 "Then... YOU’VE GOT TO KEEP TRAINING!"
-    Fort pose4 "那就……{b}您必須堅持鍛鍊！{/b}"
-
-# game/story/Prologue_Part_1.rpy:508
-translate Tchinese name_input_38b8e734:
-
-    # Fort pose3 "YOU CAN’T LET A CUSHY CEO JOB TURN YOU INTO A BALL OF FLAB!"
-    Fort pose3 "{b}您可不能貪圖享樂，被CEO的工作變成一個肉球啊！{/b}"
-
-# game/story/Prologue_Part_1.rpy:516
-translate Tchinese name_input_9780fc57:
-
-    # Fort pose1 "Right, don’t think your underlings are loyal to you out of love alone. We’re all demons, creatures born from chaos to manage chaos."
-    Fort pose1 "總之，不要指望下屬的忠誠是出於對您的愛。我們都是惡魔，是從混沌中誕生，掌管混沌的生物。"
-
-# game/story/Prologue_Part_1.rpy:528
-translate Tchinese name_input_2123acfb:
-
-    # Fort pose2 "JUST BELIEVE!"
-    Fort pose2 "{b}信就對了！{/b}"
-
-# game/story/Prologue_Part_1.rpy:1003
-translate Tchinese name_input_54375b95:
-
-    # Ven "Well then, I’m not going to let the Underworld fall, not even because of you. My. Lord."
-    Ven "我也不會讓冥界墮落下去，即便是因為您，殿下。"
-
-translate Tchinese strings:
-
     # game/story/Prologue_Part_1.rpy:90
     old "Below in black ink is the name “Kobu”. Is the name on the tag correct? Click Enter to confirm your choice.\n"
     new "黑色墨水形成了‘Kobu’的字樣，這就是你的名字了嗎？如果確定，請按下確認鍵。\n"
 
-# TODO: Translation updated at 2022-06-09 13:13
+    # game/story/Prologue_Part_1.rpy:90
+    old "Kobu"
+    new "Kobu"
 
-# game/story/Prologue_Part_1.rpy:478
-translate Tchinese name_input_51df1e2e:
+    # game/story/Prologue_Part_1.rpy:104
+    old "Is [name] correct?"
+    new "確定是[name]嗎？"
 
-    # Fort pose4 "Whoops, my bad there, Boss. Wait, can I call you Boss? Or you prefer I call you ‘my Lord’, like everyone else?"
-    Fort pose4 "噢，瞧我這記性，抱歉了老大。等等，我能叫您老大嗎？還是您更喜歡我像其他人那樣叫您‘殿下’？"
+    # game/story/Prologue_Part_1.rpy:104
+    old "Yes"
+    new "是"
 
-# game/story/Prologue_Part_1.rpy:557
-translate Tchinese name_input_70b032e1:
+    # game/story/Prologue_Part_1.rpy:104
+    old "No"
+    new "否"
 
-    # Fort pose3 "Sweet! I’ll catch ya later then, Boss! I’ve got a group cardio session with the next batch of torturers before their shift starts."
-    Fort pose3 "酷！那我就先失陪了，老大！我還要在那一幫拷問者去輪班前一起去做有氧運動。"
+    # game/story/Prologue_Part_1.rpy:435
+    old "Amare{#journal}"
+    new "Amare{#journal}"
 
-# game/story/Prologue_Part_1.rpy:561
-translate Tchinese name_input_e1939a5c:
+    # game/story/Prologue_Part_1.rpy:435
+    old "Amare is the self proclaimed genius of the Underworld. Paw's dad created him, which makes him the third general to be created by the Demon Lords past. The dude's mad about tech and machinery. He's always looking into how things work and how he can upgrade his own inventions. Although, he can go overboard sometimes and when he does go off the deep end, he commits to it. Once, I asked him to recreate this console I saw on earth but he made it into a flying drone that blasted lasers every time I pressed a button. . . I just wanted to play Wowzer's Odyssey."
+    new "Amare自詡爲冥界的天才，他是老爸的爸爸創造的，也就是第三個將軍。\n這人超沉迷科技跟機械的，他想知道事物的運作方式，然後再運用在他自己的發明上。\n不過，有時候他是有點超過，而且還會越陷越深。\n曾經有一次，我請他幫我仿造一個我在地面上看過的游戲機，但他做出來的東西是每次我按下按鈕都會發射出雷射激光的無人機……我就只是想玩Wowzer's Odyssey而已啊。"
 
-    # Fort pose4 "Hey, team exercise is good for morale. You might want to consider doing some too, you’re getting a gut."
-    Fort pose4 "集體鍛鍊有助於增長士氣。您要不要考慮考慮？我看您最近長肚肚了哦。"
+    # game/story/Prologue_Part_1.rpy:528
+    old "Demons{#journal}"
+    new "惡魔{#journal}"
 
-# game/story/Prologue_Part_1.rpy:567
-translate Tchinese name_input_75b58267:
+    # game/story/Prologue_Part_1.rpy:528
+    old "There's a word for those of us who live and work in the Underworld, demons. It took great-great grandpa thousands of years of PR to get the people from earth to have the word stick in their own mortal lexicon. I heard they ran nightmare ads among famous philosophers and poets back then. I've seen some of those old ads. It's usually a demon in a bowtie going, “Sinners beware, stay off the path of righteous living, and you'll win a free trip to the Underworld with your personal torture demon to torment you for the unfathomable eternity of non-existence itself!“ which was then followed up with a free tour that may or may not mentally scar the fragile mortal."
+    new "有個詞被用來描述我們這些在冥界生活工作的存在「惡魔」。\n曾曾祖父靠著上千年的人際交流，才讓這個專有名詞流傳在地表上的人界。\n我聽説他們以前會散播惡夢廣告給著名的哲學家或詩人。\n我看過一些，通常會有個打著領帶的惡魔告訴他們：\n「聽好了罪人們，只要你走在邪門歪道上，就能免費獲取通往冥界的旅行資格，包辦你個人的折磨惡魔，給予你永劫不復的苦痛！」\n然後附贈一趟免費但可能會讓脆弱的凡人留下心理創傷的體驗之旅。"
 
-    # Fort pose1 neutral2 "You’re not a dad yet, Boss."
-    Fort pose1 neutral2 "您還沒孩子吶，老大。"
-# TODO: Translation updated at 2022-12-08 00:08
+    # game/story/Prologue_Part_1.rpy:579
+    old "Fortis{#journal}"
+    new "Fortis{#journal}"
 
-# game/story/Prologue_Part_1.rpy:351
-translate Tchinese name_input_609fe9e4:
+    # game/story/Prologue_Part_1.rpy:579
+    old "Fortis and I are close, like, he's a demon I can have a drink with anytime. Great grandpa created him and his brothers to help guard the Underworld from any soul dumb enough to attempt escaping. Despite his single head, he's actually a cerberus demon. Anyone who dares to point that out would be punched into next week. His greatest passions are working out, getting others to workout, and his brothers. Heck, sometimes I've been so unlucky to have been roped along into his cruel training regiment. Ugh, it's already exercise just from evading him during his workout highs."
+    new "Fortis跟我很親近，是我隨時都能一起喝一杯的惡魔。\n曾祖父創造了他和他的兄弟們來防止任何愚蠢的靈魂逃離冥界。\n雖然只有一顆頭，但他是條三頭犬。\n帶種在他面前提到這個的，會被他揍得生活不能自理一星期。\n他最熱衷的就是健身，讓其他人，還有他的兄弟們也健身。\n唉，有時候我也會不幸被拉去陪他做那些殘酷的訓練。\n嗚啊，光是要在他健身到忘我時躲著他，本身就是一種體能訓練了。"
 
-    # Amar smile "I see. If my Lord wants to know about me, I have my specs right here."
-    Amar smile "原來如此。既然殿下想要了解我，我這裡剛好有配置。"
+    # game/story/Prologue_Part_1.rpy:718
+    old "Nox{#journal}"
+    new "Nox{#journal}"
 
-# game/story/Prologue_Part_1.rpy:365
-translate Tchinese name_input_971744a6:
+    # game/story/Prologue_Part_1.rpy:718
+    old "Nox, another name for the night. He was the last general to be created; Paw made him. Yet, I never saw them close with each other. Maybe it has to do with how he's often asking questions that don't really have any answer to them. The other generals don't seem to be interested in his questions, guess that's why he bothers me with them most of the time. At least he's pretty dependable and skilled... a little too skilled, I just can't beat the guy in any 2P matches. "
+    new "Nox，夜晚的别稱。\n他是最後一位被創造出來的將軍：由我老爸，可是我從來没見他們兩個有多親近。\n即便跟我在一起的時候，他也總是保持一定的距離感。\n他很少提到自己，我只知道他一直在找機會放松。\n他的神秘感跟他在格鬥游戲中的水平不相上下，我從來就没在雙人對戰中贏過他。"
 
-    # Amar neutral "Would you like me to display the contents on my brain for you, my Lord? I can get a machine to show you the shape of my brain in little time."
-    Amar neutral "您想看我心臟的內容物嗎，殿下？我可以用一台機器在短時間內呈現給您。"
-
-# game/story/Prologue_Part_1.rpy:379
-translate Tchinese name_input_c7d8511f:
-
-    # Amar sad "Oh… so my fridge didn’t learn to run yet?"
-    Amar sad "喔……所以我的冰箱還沒有學會跑步？"
-
-# game/story/Prologue_Part_1.rpy:387
-translate Tchinese name_input_8a815067:
-
-    # Amar -hand1 hand2 hand3 smile "Yeah! I can make it run after the souls and trap them in a black hole that sends them back into the never-ending cycle of running and getting trapped!"
-    Amar -hand1 hand2 hand3 smile "對啊！我可以讓它把靈魂趕進黑洞，再釋放出來，使它們無限跑下去!"
-
-# game/story/Prologue_Part_1.rpy:397
-translate Tchinese name_input_9a4e0a1f:
-
-    # Amar neutral "Yes, I need them to fix or modify the torture machines we use. Since souls tend to become accustomed to their torturing over time, we need to change their hellish experience every so often."
-    Amar neutral "是的，我需要用它們來修理和改進我們的刑具。因為隨著時間的推移，靈魂會對刑罰習以為常，所以我們三不五時就要改變策略。"
-
-# game/story/Prologue_Part_1.rpy:409
-translate Tchinese name_input_584df2c9:
-
-    # Amar -hand2 -hand3 hand1 smile "Exactly!"
-    Amar -hand2 -hand3 hand1 smile "正是！"
-
-# game/story/Prologue_Part_1.rpy:415
-translate Tchinese name_input_e89ba46b:
-
-    # Amar sad "I ran the proposal with the research committee, but it’s been stuck in the pending phase for over a hundred years. I just need to test the prototype somewhere."
-    Amar sad "只缺一處測試原型機的地點。我和研究委員會一起提交了這項提案，但已經被擱置上百年了。"
-
-# game/story/Prologue_Part_1.rpy:421
-translate Tchinese name_input_30d6142b:
-
-    # Amar smile "Really? That’s all I would need to get started."
-    Amar smile "真的嗎？這樣就萬事俱備了。"
-
-# game/story/Prologue_Part_1.rpy:488
-translate Tchinese name_input_67459b7f:
-
-    # Fort pose2 laugh "HEY, BOSS! GET OVER HERE!"
-    Fort pose2 laugh "{b}嗨，老大！快過來！{/b}"
-
-# game/story/Prologue_Part_1.rpy:496
-translate Tchinese name_input_98190c97:
-
-    # Fort neutral2 "Heck yeah! Boss it is then! Now that’s a title for someone with {sc=2}power!{/sc}"
-    Fort neutral2 "可不！那就還是老大了！現在，這是有{sc=2}權利{/sc}的惡魔才能擁有的頭銜了。"
-
-# game/story/Prologue_Part_1.rpy:506
-translate Tchinese name_input_da4043be:
-
-    # Fort laugh "Heck yeah there’s more to it than that. I run a team of torture demons! That means coming up with new torture techniques, and planning out the work schedule so my staff can keep busy."
-    Fort laugh "可不，還有一整隊拷問惡魔需要我管理呢！這意味著我要琢磨出新的拷問技，排好班，讓我的員工們能長期幹下去。"
-
-# game/story/Prologue_Part_1.rpy:508
-translate Tchinese name_input_5cc4dba7:
-
-    # Fort neutral2 pose2 "We demons may be tough, but wear and tear happens if you keep pushing your team or yourself too hard. Besides, you can’t grow muscles without rest!"
-    Fort neutral2 pose2 "我們惡魔是很堅忍，但也受不了過勞死。再說，不休息可長不出肌肉！"
-
-# game/story/Prologue_Part_1.rpy:512
-translate Tchinese name_input_258628ab:
-
-    # Fort pose3 "Heck yeah, I recommend we start everyone on a protein-only diet!"
-    Fort pose3 "可不，我建議大伙從現在開始只吃蛋白質！"
-
-# game/story/Prologue_Part_1.rpy:530
-translate Tchinese name_input_08535022:
-
-    # Fort pose1 neutral1 "Right, don’t think your underlings are loyal to you out of love alone. We’re all demons, creatures born from chaos to manage chaos."
-    Fort pose1 neutral1 "總之，不要指望下屬的忠誠是出於對您的愛。我們都是惡魔，是從混沌中誕生，掌管混沌的生物。"
-
-# game/story/Prologue_Part_1.rpy:534
-translate Tchinese name_input_3e5374c0:
-
-    # Fort @ sad "If you start showing weakness, someone’s going to get the bright idea they can take your place."
-    Fort @ sad "只要您表現出一絲軟弱，馬上就有人惦記上您的位子。"
-
-# game/story/Prologue_Part_1.rpy:547
-translate Tchinese name_input_764e0e33:
-
-    # Fort annoyed "Like rerunning those old dream ads?"
-    Fort annoyed "像從前那樣，一遍又一遍地託夢？"
-
-# game/story/Prologue_Part_1.rpy:551
-translate Tchinese name_input_0cf69638:
-
-    # Fort confused "You can do that with the Internet?"
-    Fort confused "網路還能這麼玩？"
-
-# game/story/Prologue_Part_1.rpy:555
-translate Tchinese name_input_bb077a2a:
-
-    # Fort shocked "Uhh… stuff."
-    Fort shocked "就……只是上網。"
-
-# game/story/Prologue_Part_1.rpy:557
-translate Tchinese name_input_2f946db7:
-
-    # Fort confused "Does Vendrake know about this?"
-    Fort confused "Vendrake知道嗎？"
-
-# game/story/Prologue_Part_1.rpy:563
-translate Tchinese name_input_83d52725:
-
-    # Fort neutral1 "Maybe I can do a training video. You know, show how powerful our demons are. That oughta scare those mortals down the right path."
-    Fort neutral1 "也許我可以把訓練過程錄下來，讓凡人見識一下我們惡魔的強大，說不定能嚇得他們不敢作惡。"
-
-# game/story/Prologue_Part_1.rpy:824
-translate Tchinese name_input_11d01329:
-
-    # Amar "Who’s he?" (cb_no_talk=True)
-    Amar "他是誰？" (cb_no_talk=True)
-
-# game/story/Prologue_Part_1.rpy:837
-translate Tchinese name_input_3d18f97e:
-
-    # Amar "Oh right, right. Hello, Lord [name]." (cb_no_talk=True)
-    Amar "對哦，你好啊，[name]殿下。" (cb_no_talk=True)
-
-# game/story/Prologue_Part_1.rpy:943
-translate Tchinese name_input_396294b0:
-
-    # Fort annoyed "No, he approved my idea first, so that takes priority."
-    Fort annoyed "他先批准了我的，所以要以我為優先。"

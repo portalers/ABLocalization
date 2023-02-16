@@ -1,6 +1,6 @@
-# TODO: Translation updated at 2021-10-31 11:05
+# TODO: Translation updated at 2023-02-15 21:54
 
-# game/story/Chapter_1.rpy:14
+# game/story/Chapter_1.rpy:15
 translate Tchinese chapter_1_acfa1333:
 
     # "Ding, dong, bing bong~!"
@@ -355,12 +355,12 @@ translate Tchinese chapter_1_c480f7cf:
     "你的肚子開始大聲抗議。"
 
 # game/story/Chapter_1.rpy:253
-translate Tchinese chapter_1_09c64215:
+translate Tchinese chapter_1_d550ccfc:
 
-    # K "Kept you waiting, huh?"
-    K "久等了嗎？"
+    # K talk "Kept you waiting, huh?"
+    K talk "久等了嗎？"
 
-# game/story/Chapter_1.rpy:256
+# game/story/Chapter_1.rpy:257
 translate Tchinese chapter_1_8846344d:
 
     # "The alpaca paces over to you."
@@ -373,12 +373,12 @@ translate Tchinese chapter_1_39ff590d:
     p "那麼我們去哪裡？"
 
 # game/story/Chapter_1.rpy:260
-translate Tchinese chapter_1_063f81a7:
+translate Tchinese chapter_1_7b2648a7:
 
-    # K "The usual spot?"
-    K "老地方？"
+    # K talk "The usual spot?"
+    K talk "老地方？"
 
-# game/story/Chapter_1.rpy:262
+# game/story/Chapter_1.rpy:897
 translate Tchinese chapter_1_baa52304:
 
     # p "Usual spot it is then. Lead the way."
@@ -403,12 +403,12 @@ translate Tchinese chapter_1_0be4e6bf:
     "你掏出手機。一道裂紋將螢幕的右下角和整塊螢幕分割開來，這是它前任主人留下的紀念。"
 
 # game/story/Chapter_1.rpy:284
-translate Tchinese chapter_1_73394a12:
+translate Tchinese chapter_1_4c3545b1:
 
-    # K "You’re still using that phone?"
-    K "你還在用那台舊手機啊？"
+    # K @ question "You’re still using that phone?"
+    K @ question "你還在用那台舊手機啊？"
 
-# game/story/Chapter_1.rpy:293
+# game/story/Chapter_1.rpy:308
 translate Tchinese chapter_1_ce29614a:
 
     # p "Yeah, it works."
@@ -451,12 +451,12 @@ translate Tchinese chapter_1_952d0611:
     p "說起來，那位哥哥好像心事重重啊，怎麼了？"
 
 # game/story/Chapter_1.rpy:310
-translate Tchinese chapter_1_8a5c6a68:
+translate Tchinese chapter_1_f9fec981:
 
-    # K "Brother? He has a name you know. Don’t tell me you forgot it?"
-    K "哥哥？他又不是沒有名字，別告訴我你這麼快就忘了？"
+    # K serious "Brother? He has a name you know. Don’t tell me you forgot it?"
+    K serious "哥哥？人家又不是沒有名字，別告訴我你這麼快就忘了？"
 
-# game/story/Chapter_1.rpy:312
+# game/story/Chapter_1.rpy:327
 translate Tchinese chapter_1_9c875488:
 
     # p "The only names I need to know are yours and the other NPCs in my game."
@@ -493,12 +493,12 @@ translate Tchinese chapter_1_9eee1257:
     "羊駝湊近你的臉，大聲強調她的名字。"
 
 # game/story/Chapter_1.rpy:329
-translate Tchinese chapter_1_7677b65e:
+translate Tchinese chapter_1_dd54e116:
 
-    # K "They really appreciate us taking their shifts so they can take care of their sick grandma."
-    K "他非常感謝我們兩個能替他們值班，這樣他們就有時間照顧生病的奶奶了。"
+    # K neutral "They really appreciate us taking their shifts so they can take care of their sick grandma."
+    K neutral "他非常感謝我倆能替他們值班，這樣他們就有時間照顧生病的奶奶了。"
 
-# game/story/Chapter_1.rpy:332
+# game/story/Chapter_1.rpy:346
 translate Tchinese chapter_1_d451eb23:
 
     # p "Is she getting better?"
@@ -547,12 +547,12 @@ translate Tchinese chapter_1_58d2596f:
     p question "我……略微看過一遍。"
 
 # game/story/Chapter_1.rpy:348
-translate Tchinese chapter_1_37545287:
+translate Tchinese chapter_1_bf36987c:
 
-    # K "How can you skim through that? It’s a half an hour battle that requires a full team and proper strategising."
-    K "略微？這可是有完善的團隊與正確的規劃都要打半個小時的高難本耶。"
+    # K frustration "How can you skim through that? It’s a half an hour battle that requires a full team and proper strategising."
+    K frustration "略微？那可是有完善的團隊與正確的規劃都要打半個小時的高難本啊。"
 
-# game/story/Chapter_1.rpy:350
+# game/story/Chapter_1.rpy:354
 translate Tchinese chapter_1_44ee9103:
 
     # "King crosses his arms in a huff and raises an eyebrow at you."
@@ -571,12 +571,12 @@ translate Tchinese chapter_1_016b8296:
     "羊駝目瞪口呆地看著你。"
 
 # game/story/Chapter_1.rpy:356
-translate Tchinese chapter_1_20b245c6:
+translate Tchinese chapter_1_3fa521ae:
 
-    # K "You must be the dullest adventurer ever."
-    K "你一定是史上最無趣的冒險者。"
+    # K talk neutral "You must be the dullest adventurer ever."
+    K talk neutral "你一定是史上最無趣的冒險者。"
 
-# game/story/Chapter_1.rpy:358
+# game/story/Chapter_1.rpy:417
 translate Tchinese chapter_1_96183aa8:
 
     # p smile "And you’re a walking rainbow lollipop."
@@ -637,12 +637,12 @@ translate Tchinese chapter_1_566e7671:
     "兜兜轉轉二十分鐘後，你們終於抵達了公園對面的一個十字路口。"
 
 # game/story/Chapter_1.rpy:402
-translate Tchinese chapter_1_47d2fced:
+translate Tchinese chapter_1_f8ff6d0d:
 
-    # K "Oh crap, it’s {i}those{/i} guys."
-    K "糟了，是{b}那些{/b}傢伙。"
+    # K shocked "Oh crap, it’s {i}those{/i} guys."
+    K shocked "不好，是{b}那些{/b}傢伙。"
 
-# game/story/Chapter_1.rpy:404
+# game/story/Chapter_1.rpy:423
 translate Tchinese chapter_1_372482f2:
 
     # "Buzzing around the main entrance are a group, comprised of six goons dressed in matching black hoodies."
@@ -655,12 +655,12 @@ translate Tchinese chapter_1_afedafa5:
     "他們正在兜售一種小冊子，蠱惑路人在請願書上簽字。"
 
 # game/story/Chapter_1.rpy:408
-translate Tchinese chapter_1_2bb1ea15:
+translate Tchinese chapter_1_bdb0cee5:
 
-    # K "We should go around. Take the side entrance."
-    K "我們還是繞道吧。"
+    # K serious "We should go around. Take the side entrance."
+    K serious "我們還是繞道吧。"
 
-# game/story/Chapter_1.rpy:410
+# game/story/Chapter_1.rpy:720
 translate Tchinese chapter_1_74f72a24:
 
     # p annoyed "But our spot is closest through the main entrance."
@@ -1021,12 +1021,12 @@ translate Tchinese chapter_1_70149e95:
     "King開懷大笑，坐在你旁邊。"
 
 # game/story/Chapter_1.rpy:689
-translate Tchinese chapter_1_da775c11:
+translate Tchinese chapter_1_77ac545c:
 
-    # K "You got the drinks?"
-    K "飲料帶了嗎？"
+    # K @ question "You got the drinks?"
+    K @ question "帶飲料了嗎？"
 
-# game/story/Chapter_1.rpy:691
+# game/story/Chapter_1.rpy:734
 translate Tchinese chapter_1_f1f00ab7:
 
     # p "Yeah, in my bag. Help yourself."
@@ -1063,24 +1063,24 @@ translate Tchinese chapter_1_d0124128:
     "然後靠在椅背上，長舒一口氣。"
 
 # game/story/Chapter_1.rpy:703
-translate Tchinese chapter_1_a1ed348c:
+translate Tchinese chapter_1_f8d38c59:
 
-    # K "I can’t believe they just ganged up on us like that. Someone should do something about them."
-    K "他們也太肆意妄為了吧，就沒人能管管他們嗎？"
+    # K serious "I can’t believe they just ganged up on us like that. Someone should do something about them."
+    K serious "不敢相信，他們也太肆意妄為了吧，就沒人能管管他們嗎？"
 
-# game/story/Chapter_1.rpy:705
+# game/story/Chapter_1.rpy:738
 translate Tchinese chapter_1_41cc460b:
 
     # p @ confused "Like who?"
     p @ confused "比如？"
 
 # game/story/Chapter_1.rpy:707
-translate Tchinese chapter_1_7a22ef0e:
+translate Tchinese chapter_1_38dc4b86:
 
-    # K "The police? Shouldn’t they be handling these kinds of cases? Well, I’m making a report."
-    K "比如警察，這類案件不該由他們負責嗎？總之，我這就報案。"
+    # K question "The police? Shouldn’t they be handling these kinds of cases? Well, I’m making a report."
+    K question "比如警察，這類案件不該由他們負責嗎？總之，我這就報案。"
 
-# game/story/Chapter_1.rpy:709
+# game/story/Chapter_1.rpy:748
 translate Tchinese chapter_1_aa89b443:
 
     # p "You know it won’t work."
@@ -1105,36 +1105,36 @@ translate Tchinese chapter_1_ce617998:
     "……"
 
 # game/story/Chapter_1.rpy:717
-translate Tchinese chapter_1_65f210b3:
+translate Tchinese chapter_1_153760b7:
 
-    # K "What do you mean this isn’t a job for the police? They’re harassing people on the streets!"
-    K "你說這不是警察的工作是什麼意思？他們在光天化日之下擾民欸！"
+    # K question "What do you mean this isn’t a job for the police? They’re harassing people on the streets!"
+    K question "你說這不是警察的工作是什麼意思？他們在光天化日之下擾民欸！"
 
-# game/story/Chapter_1.rpy:719
+# game/story/Chapter_1.rpy:752
 translate Tchinese chapter_1_ce617998_1:
 
     # "…"
     "……"
 
 # game/story/Chapter_1.rpy:721
-translate Tchinese chapter_1_5e88db83:
+translate Tchinese chapter_1_57f6120a:
 
-    # K "N-no they’re not hurting anyone… "
-    K "不，他們沒有傷人……"
+    # K sad "N-no they’re not hurting anyone… "
+    K sad "不，他們沒有傷人……"
 
-# game/story/Chapter_1.rpy:723
+# game/story/Chapter_1.rpy:756
 translate Tchinese chapter_1_ce617998_2:
 
     # "…"
     "……"
 
 # game/story/Chapter_1.rpy:725
-translate Tchinese chapter_1_0e006c76:
+translate Tchinese chapter_1_0570b795:
 
-    # K "So what? You’re just going to leave them be? Then what’s the point of having you guys? Where am I supposed to go—"
-    K "所以呢？就這樣放過他們？那要你們還有什麼用？我應該找誰──"
+    # K shocked "So what? You’re just going to leave them be? Then what’s the point of having you guys? Where am I supposed to go—"
+    K shocked "所以呢？就這樣放過他們？那要你們有何用？我該找誰──"
 
-# game/story/Chapter_1.rpy:727
+# game/story/Chapter_1.rpy:762
 translate Tchinese chapter_1_ce617998_3:
 
     # "…"
@@ -1147,12 +1147,12 @@ translate Tchinese chapter_1_ed135563:
     K "幫派？你在逗我嗎？別開玩笑了！"
 
 # game/story/Chapter_1.rpy:731
-translate Tchinese chapter_1_9075976c:
+translate Tchinese chapter_1_d666f19b:
 
-    # K "We need help, are you just going to let these weirdos run the streets?"
-    K "難道你打算讓那些怪人在街上橫行？在我們需要幫助的時候？"
+    # K frustration "We need help, are you just going to let these weirdos run the streets?"
+    K frustration "難道你打算讓那些怪人在街上橫行？在我們需要幫助的時候？"
 
-# game/story/Chapter_1.rpy:733
+# game/story/Chapter_1.rpy:768
 translate Tchinese chapter_1_dbcbd40a:
 
     # K "No, I am not being hysterical!"
@@ -1165,12 +1165,18 @@ translate Tchinese chapter_1_07ccca68:
     "King突然倒吸了一口氣。"
 
 # game/story/Chapter_1.rpy:737
-translate Tchinese chapter_1_c62bad29:
+translate Tchinese chapter_1_721ed9b8:
 
-    # K "Did you just call me Miss? That’s it, I’m obviously getting nowhere with this. Goodbye."
-    K "你剛才叫我女士！？那就這樣吧，我們沒什麼好談的了，再見。"
+    # K serious "What did you just call me Miss? "
+    K serious "你剛才叫我女士！？"
 
-# game/story/Chapter_1.rpy:739
+# game/story/Chapter_1.rpy:770
+translate Tchinese chapter_1_175347a0:
+
+    # extend frustration "That’s it, I’m obviously getting nowhere with this. Goodbye."
+    extend frustration "那就這樣吧，我們沒什麼好談的了，再見。"
+
+# game/story/Chapter_1.rpy:780
 translate Tchinese chapter_1_337de7e9:
 
     # "King angrily hangs up and sits next to you in a huff."
@@ -1195,12 +1201,12 @@ translate Tchinese chapter_1_dfe0ab73:
     "他揉著太陽穴，似乎想把報警的記憶抹去。"
 
 # game/story/Chapter_1.rpy:747
-translate Tchinese chapter_1_2ecd524b:
+translate Tchinese chapter_1_3e549801:
 
-    # K "Can we maybe just eat and move on?"
-    K "算了，我們還是吃飯吧。"
+    # K serious "Can we maybe just eat and move on?"
+    K serious "算了，我們還是吃飯吧。"
 
-# game/story/Chapter_1.rpy:749
+# game/story/Chapter_1.rpy:1084
 translate Tchinese chapter_1_776e308e:
 
     # p "Let’s."
@@ -1459,12 +1465,12 @@ translate Tchinese chapter_1_a303a1e3:
     "Fortis穩住身形。"
 
 # game/story/Chapter_1.rpy:865
-translate Tchinese chapter_1_c35789f0:
+translate Tchinese chapter_1_738fd397:
 
-    # Fort "Get—"
-    Fort "振──"
+    # Fort annoyed "Get—"
+    Fort annoyed "振──"
 
-# game/story/Chapter_1.rpy:867
+# game/story/Chapter_1.rpy:905
 translate Tchinese chapter_1_cd79a9a6:
 
     # "He slaps himself." with hpunch
@@ -1483,18 +1489,18 @@ translate Tchinese chapter_1_9240817f:
     "他又扇了自己一耳光。" with hpunch
 
 # game/story/Chapter_1.rpy:873
-translate Tchinese chapter_1_6e02c23b:
+translate Tchinese chapter_1_125725fd:
 
-    # Fort "{sc}{b}Together!{/b}{/sc}"
-    Fort "{sc}{b}振作起來！{/b}{/sc}"
+    # Fort laugh "{sc}{b}Together!{/b}{/sc}"
+    Fort laugh "{sc}{b}振作起來！{/b}{/sc}"
 
-# game/story/Chapter_1.rpy:875
-translate Tchinese chapter_1_80d0cc4d:
+# game/story/Chapter_1.rpy:907
+translate Tchinese chapter_1_34c26b2d:
 
-    # Fort "Come on, if you’re down, the staff won’t work. Got to keep the energy up. Just get your coffee and get back onto the torture floor." with hpunch
-    Fort "加油啊，你不以身作則怎麼行！快喝杯咖啡提提神，拷問區還需要你。" with hpunch
+    # Fort pose1 annoyed "Come on, if you’re down, the staff won’t work. Got to keep the energy up. Just get your coffee and get back onto the torture floor." with hpunch
+    Fort pose1 annoyed "加油啊，你不以身作則怎麼行！快喝杯咖啡提提神，拷問區還需要你。" with hpunch
 
-# game/story/Chapter_1.rpy:877
+# game/story/Chapter_1.rpy:937
 translate Tchinese chapter_1_272f45f8:
 
     # "After psyching himself up, he briskly enters the pantry."
@@ -1543,24 +1549,24 @@ translate Tchinese chapter_1_3ce8c117:
     "Fortis來到最近的冰箱前，拿出一瓶標有‘Amare的財產’的檸檬蘇打水。"
 
 # game/story/Chapter_1.rpy:901
-translate Tchinese chapter_1_e3f950aa:
+translate Tchinese chapter_1_2260621a:
 
-    # Fort "Humph, this fridge is full. I should probably throw some stuff out like this bottle of soda that nobody ever drinks."
-    Fort "哼哼，冰箱滿了呢，看來只能扔點東西了，比如這瓶沒人愛的蘇打水。"
+    # Fort neutral1 "Humph, this fridge is full. I should probably throw some stuff out like this bottle of soda that nobody ever drinks."
+    Fort neutral1 "哼哼，冰箱滿了呢，看來只能扔點東西了，比如這瓶沒人愛的蘇打水。"
 
-# game/story/Chapter_1.rpy:904
+# game/story/Chapter_1.rpy:950
 translate Tchinese chapter_1_afd0254e:
 
     # Amar "No!"
     Amar "別啊！"
 
 # game/story/Chapter_1.rpy:911
-translate Tchinese chapter_1_cd4a5ca1:
+translate Tchinese chapter_1_ab93d831:
 
-    # Amar "Fahrenheit!"
-    Amar "靠夭！"
+    # Amar angry "Fahrenheit!"
+    Amar angry "靠夭！"
 
-# game/story/Chapter_1.rpy:914
+# game/story/Chapter_1.rpy:977
 translate Tchinese chapter_1_a31a5c20:
 
     # "He knocks his head against the ceiling of the cabinet while trying to come out of it."
@@ -1579,30 +1585,30 @@ translate Tchinese chapter_1_c16c5695:
     "Amare一把奪過蘇打水，不滿地說道："
 
 # game/story/Chapter_1.rpy:933
-translate Tchinese chapter_1_a7f972c8:
+translate Tchinese chapter_1_427201ae:
 
-    # Amar "Can’t you see who’s name is on the bottle?"
-    Amar "你沒看見瓶子上有名字嗎？"
+    # Amar only_hand1 "Can’t you see who’s name is on the bottle?"
+    Amar only_hand1 "你沒看見瓶子上有名字嗎？"
 
-# game/story/Chapter_1.rpy:935
-translate Tchinese chapter_1_57cd0589:
+# game/story/Chapter_1.rpy:979
+translate Tchinese chapter_1_206bc1cf:
 
-    # Fort "Woah, woah. Calm down there, kitty. I was just joking."
-    Fort "哇哦。別急啊，小貓咪，我就是開個玩笑。"
+    # Fort confused "Woah, woah. Calm down there, kitty. I was just joking."
+    Fort confused "哇哦。別急啊，小貓咪，我就是開個玩笑。"
 
-# game/story/Chapter_1.rpy:937
+# game/story/Chapter_1.rpy:983
 translate Tchinese chapter_1_48ec8555:
 
     # "The cat demon faces Fortis, a scowl still plastered on his face."
     "貓咪惡魔瞪著Fortis，臉上仍掛著怒容。"
 
 # game/story/Chapter_1.rpy:939
-translate Tchinese chapter_1_b5771f9d:
+translate Tchinese chapter_1_ba571bb8:
 
-    # Fort "What were you doing down there? Looking for inspiration for the new projects Vendrake has got you on?"
-    Fort "你在這裡幹什麼？為Vendrake交給你的新案找靈感嗎？"
+    # Fort neutral1 "What were you doing down there? Looking for inspiration for the new projects Vendrake has got you on?"
+    Fort neutral1 "你在這裡幹什麼？為Vendrake交給你的新案找靈感嗎？"
 
-# game/story/Chapter_1.rpy:941
+# game/story/Chapter_1.rpy:989
 translate Tchinese chapter_1_15ba3f82:
 
     # "Amare scoffs."
@@ -1615,42 +1621,42 @@ translate Tchinese chapter_1_df39472b:
     Amar "差不多吧，我需要一個獨處的空間，Vendrake那群嘍囉跟蒼蠅一樣黏著我不放。"
 
 # game/story/Chapter_1.rpy:945
-translate Tchinese chapter_1_10757474:
+translate Tchinese chapter_1_f2f0a30e:
 
-    # Fort "Then how did you get here?"
-    Fort "那你是怎麼甩開他們的？"
+    # Fort confused "Then how did you get here?"
+    Fort confused "那你是怎麼甩開他們的？"
 
-# game/story/Chapter_1.rpy:947
-translate Tchinese chapter_1_d764b7db:
+# game/story/Chapter_1.rpy:991
+translate Tchinese chapter_1_3ba71097:
 
-    # Amar "Easy, I painted my face on a sack of bolts and played a tape of me knocking metal."
-    Amar "很簡單，我把我的帥臉畫在了一袋螺栓上，再配合播放錄有打鐵聲音的磁帶。"
+    # Amar neutral "Easy, I painted my face on a sack of bolts and played a tape of me knocking metal."
+    Amar neutral "很簡單，我把我的帥臉畫在了一袋螺栓上，再配合播放錄有打鐵聲音的磁帶。"
 
-# game/story/Chapter_1.rpy:949
-translate Tchinese chapter_1_de965147:
+# game/story/Chapter_1.rpy:993
+translate Tchinese chapter_1_644e87f9:
 
-    # Fort "You’re kidding."
-    Fort "你開玩笑的吧？"
+    # Fort shocked "You’re kidding."
+    Fort shocked "你開玩笑的吧？"
 
-# game/story/Chapter_1.rpy:951
+# game/story/Chapter_1.rpy:997
 translate Tchinese chapter_1_ee05b64a:
 
     # "Amare raises an eyebrow at Fortis."
     "Amare對Fortis挑了挑眉。"
 
 # game/story/Chapter_1.rpy:953
-translate Tchinese chapter_1_d08dd9fd:
+translate Tchinese chapter_1_af0d45ac:
 
-    # Fort "Oh. Well, you better get back soon. They’ll cause trouble again if they find out you’re missing."
-    Fort "咳，總之，你還是快回去吧。要是被那些傢伙發現，肯定又要大亂了。"
+    # Fort sad "Oh. Well, you better get back soon. They’ll cause trouble again if they find out you’re missing."
+    Fort sad "咳，總之，你還是快回去吧。要是被那些傢伙發現，肯定又要大亂了。"
 
-# game/story/Chapter_1.rpy:955
-translate Tchinese chapter_1_2a29819e:
+# game/story/Chapter_1.rpy:999
+translate Tchinese chapter_1_a5897c80:
 
-    # Amar "Not until I come up with some new idea to take Vendrake down."
-    Amar "不可能，除非我想到怎麼扳倒Vendrake。"
+    # Amar hand2_3 "Not until I come up with some new idea to take Vendrake down."
+    Amar hand2_3 "不可能，除非我想到怎麼扳倒Vendrake。"
 
-# game/story/Chapter_1.rpy:957
+# game/story/Chapter_1.rpy:1005
 translate Tchinese chapter_1_eab3ba9f:
 
     # "Fortis lets out an exhausted sigh. This isn’t the first time the scientist has been plotting against their new leader."
@@ -1663,12 +1669,12 @@ translate Tchinese chapter_1_47ecf39c:
     "看到Amare仍在堅持抗爭，Fortis心裡莫名的不是滋味。"
 
 # game/story/Chapter_1.rpy:961
-translate Tchinese chapter_1_9f0dd6dc:
+translate Tchinese chapter_1_4ec29510:
 
-    # Fort "You seen the coffee?"
-    Fort "你看見咖啡了嗎？"
+    # Fort sad "You seen the coffee?"
+    Fort sad "你看見咖啡了嗎？"
 
-# game/story/Chapter_1.rpy:963
+# game/story/Chapter_1.rpy:1020
 translate Tchinese chapter_1_cb8401c3:
 
     # Amar "Here."
@@ -1693,18 +1699,12 @@ translate Tchinese chapter_1_49590f19:
     "Fortis一聲不吭地走向咖啡機。"
 
 # game/story/Chapter_1.rpy:974
-translate Tchinese chapter_1_05a657e2:
+translate Tchinese chapter_1_6e885cb0:
 
-    # "He pours the instant mix into the machine and {nw}"
-    "他往機器中倒入咖啡粉，然後{nw}"
+    # "He pours the instant mix into the machine and turns it on."
+    "他往機器中倒入咖啡粉，然後啟動。"
 
-# game/story/Chapter_1.rpy:976
-translate Tchinese chapter_1_ccb271e5:
-
-    # extend "turns it on."
-    extend "啟動。"
-
-# game/story/Chapter_1.rpy:978
+# game/story/Chapter_1.rpy:1035
 translate Tchinese chapter_1_bbabafdb:
 
     # "The grumbling of the device reverberates through the pantry."
@@ -1729,18 +1729,18 @@ translate Tchinese chapter_1_0c09ff75:
     Fort "我不知道，只是……照Vendrake說的做，不是更好過點嗎？"
 
 # game/story/Chapter_1.rpy:989
-translate Tchinese chapter_1_6aac4e7e:
+translate Tchinese chapter_1_a1da8829:
 
-    # Amar "Oh no, don’t tell me you’re taking his side."
-    Amar "喔不，別告訴我你站在他那邊。"
+    # Amar angry "Oh no, don’t tell me you’re taking his side."
+    Amar angry "喔不，別告訴我你站在他那邊。"
 
-# game/story/Chapter_1.rpy:991
-translate Tchinese chapter_1_f44e062e:
+# game/story/Chapter_1.rpy:1037
+translate Tchinese chapter_1_6e4b2ca4:
 
-    # Fort "That's not what I mean. You didn’t forget what happened last time you tried to launch your “rebellion” against Vendrake, did you?"
-    Fort "我不是這個意思。你沒有忘記上次，你試圖反抗Vendrake時發生的事吧？"
+    # Fort shocked "That's not what I mean. You didn’t forget what happened last time you tried to launch your “rebellion” against Vendrake, did you?"
+    Fort shocked "我不是這個意思。你沒有忘記上次，你試圖反抗Vendrake時發生的事吧？"
 
-# game/story/Chapter_1.rpy:993
+# game/story/Chapter_1.rpy:1043
 translate Tchinese chapter_1_17768385:
 
     # Amar "Don’t you dare accuse me of forgetting. I watched every demon that went through his new Re-Education Program."
@@ -1753,18 +1753,18 @@ translate Tchinese chapter_1_9ef1b746:
     Amar "不間斷的培訓影片幾乎將他們榨乾，變成只知道工作的行屍走肉。"
 
 # game/story/Chapter_1.rpy:997
-translate Tchinese chapter_1_1b86f652:
+translate Tchinese chapter_1_20593091:
 
-    # Fort "Then why are you still doing this?"
-    Fort "那你為什麼就是不肯放棄呢？"
+    # Fort sad "Then why are you still doing this?"
+    Fort sad "那你為什麼就是不肯放棄呢？"
 
-# game/story/Chapter_1.rpy:1001
-translate Tchinese chapter_1_b44e3e37:
+# game/story/Chapter_1.rpy:1045
+translate Tchinese chapter_1_dec6d1f8:
 
-    # Amar "Because I’m doing what’s right! [name] is out there and he’s the Demon Lord. Not Vendrake. We need to fight back or he’ll turn this whole company to a new hell for demons. You’re supposed to be helping me!"
-    Amar "我自認沒有做錯！[name]還活著，他才是真正的魔王！我們必須反抗，否則他會把整間公司變成惡魔的地獄！你應該幫我才是！"
+    # Amar only_hand1 "Because I’m doing what’s right! [name] is out there and he’s the Demon Lord. Not Vendrake. We need to fight back or he’ll turn this whole company to a new hell for demons. You’re supposed to be helping me!"
+    Amar only_hand1 "我自認沒有做錯！[name]還活著，他才是真正的魔王！我們必須反抗，否則他會把整間公司變成惡魔的地獄！你應該幫我才是！"
 
-# game/story/Chapter_1.rpy:1005
+# game/story/Chapter_1.rpy:1062
 translate Tchinese chapter_1_c5cc6d1e:
 
     # "Fortis clenches his fists. Amare’s questioning begins to fade as the sound of his pounding heart is all that reaches his ears."
@@ -1777,12 +1777,12 @@ translate Tchinese chapter_1_fedf3751:
     "他顫抖著回答道："
 
 # game/story/Chapter_1.rpy:1015
-translate Tchinese chapter_1_a249b5de:
+translate Tchinese chapter_1_ef5836d7:
 
-    # Fort "{sc=2}I… I can’t. I’m sorry, I can’t...{/sc}"
-    Fort "{sc=2}我……我不能……幫你，對不起……{/sc}"
+    # Fort sad "{sc=2}I… I can’t. I’m sorry, I can’t...{/sc}"
+    Fort sad "{sc=2}我……我不能……幫你，對不起……{/sc}"
 
-# game/story/Chapter_1.rpy:1019
+# game/story/Chapter_1.rpy:1393
 translate Tchinese chapter_1_795b34fe:
 
     # "The pit of shame in Fortis’ heart stops him from going after his friend. He stands alone, a shadow of the proud demon he once was."
@@ -1813,24 +1813,24 @@ translate Tchinese chapter_1_51a11265:
     "每當他們在那裡大驚小怪，你都忍不住笑出聲來……因為他們只是在自己嚇自己而已。"
 
 # game/story/Chapter_1.rpy:1040
-translate Tchinese chapter_1_510087c7:
+translate Tchinese chapter_1_04121de6:
 
-    # K "Man, how do you watch those videos and laugh every time?"
-    K "天吶，這種影片你都能看樂了？"
+    # K @ question "Man, how do you watch those videos and laugh every time?"
+    K @ question "天吶，這種影片你都能看得津津有味？"
 
-# game/story/Chapter_1.rpy:1042
+# game/story/Chapter_1.rpy:1096
 translate Tchinese chapter_1_cff48641:
 
     # p "They’re hilarious, look at this one where he thinks he’s been possessed and is now scooting his butt all around the floor."
     p "多搞笑啊。快看，他以為自己被上身了，正到處亂爬呢。"
 
 # game/story/Chapter_1.rpy:1047
-translate Tchinese chapter_1_0c809375:
+translate Tchinese chapter_1_6b605026:
 
-    # K "No thank you. I’ve got to head out for a bit and deal with something at the bank. You mind watching the store while I’m gone?"
-    K "免了免了，我得去銀行辦點事，你可以幫我看一下店嗎？"
+    # K "No thank you. I’ve got to head out for a bit and deal with something at the bank. You mind watching the store while I’m gone?" (cb_no_talk=True)
+    K "免了免了，我得去銀行辦點事，你幫我看一下店？" (cb_no_talk=True)
 
-# game/story/Chapter_1.rpy:1055
+# game/story/Chapter_1.rpy:2276
 translate Tchinese chapter_1_338c9d52:
 
     # p left "You can count on me."
@@ -2227,12 +2227,12 @@ translate Tchinese chapter_1_90bc3a60:
     "並對著他吐舌頭。"
 
 # game/story/Chapter_1.rpy:1336
-translate Tchinese chapter_1_02b6e07a:
+translate Tchinese chapter_1_46bcc734:
 
-    # "The Golden Retriever growls and conjures up three more feathers."
+    # "The golden retriever growls and conjures up three more feathers."
     "金毛低吼著，又凝聚出三根羽毛。"
 
-# game/story/Chapter_1.rpy:1340
+# game/story/Chapter_1.rpy:1498
 translate Tchinese chapter_1_ce0cbaff:
 
     # Dog "Stay still!"
@@ -2335,12 +2335,12 @@ translate Tchinese chapter_1_862c56e7:
     p "又怎麼了？"
 
 # game/story/Chapter_1.rpy:1441
-translate Tchinese chapter_1_e97f9011:
+translate Tchinese chapter_1_345b0f68:
 
-    # "The Golden Retriever ceases his attacks."
+    # "The golden retriever ceases his attacks."
     "金毛停止了攻擊。"
 
-# game/story/Chapter_1.rpy:1444
+# game/story/Chapter_1.rpy:1706
 translate Tchinese chapter_1_945952cd:
 
     # "You turn to the entrance and see a stout boar enter."
@@ -2515,12 +2515,12 @@ translate Tchinese chapter_1_aa02c3c5:
     Boar "抓到了！！"
 
 # game/story/Chapter_1.rpy:1648
-translate Tchinese chapter_1_4a7baaa1:
+translate Tchinese chapter_1_439a6203:
 
-    # "The boar seals the jar and turns to look you in your dazed eyes."
+    # "The boar seals the jar and turns to look into your dazed eyes."
     "野豬封好罐子，轉頭對上你迷茫的眼睛。"
 
-# game/story/Chapter_1.rpy:1652
+# game/story/Chapter_1.rpy:2241
 translate Tchinese chapter_1_f908a6ae:
 
     # Boar "And that’s one successful exorcism."
@@ -2794,7 +2794,7 @@ translate Tchinese chapter_1_9f6f977d:
 translate Tchinese chapter_1_4be5a56e:
 
     # L "Yip!"
-    L "嗷!"
+    L "嗷！"
 
 # game/story/Chapter_1.rpy:1819
 translate Tchinese chapter_1_b20d5d82:
@@ -3133,12 +3133,12 @@ translate Tchinese chapter_1_a8678558:
     "Lucian轉向你。"
 
 # game/story/Chapter_1.rpy:2183
-translate Tchinese chapter_1_b25c4ab6:
+translate Tchinese chapter_1_6e5b9656:
 
-    # L -left talk neutral "Find me at the Lazadus Shipping Yard. [name], I know you need help, that's why I’m here. Just trust me and come find me so we can talk this through."
-    L -left talk neutral "去Lazadus貨運廠找我，[name]。我知道你需要幫助，這也是我此行的目的。相信我，我們可以好好談談。"
+    # L -left talk neutral "Find me at the Lazadus Warehouse. [name], I know you need help, that's why I’m here. Just trust me and come find me so we can talk this through."
+    L -left talk neutral "去Lazadus倉庫找我，[name]。我知道你需要幫助，這也是我此行的目的。相信我，我們可以好好談談。"
 
-# game/story/Chapter_1.rpy:2185
+# game/story/Chapter_1.rpy:2410
 translate Tchinese chapter_1_df2c73c0:
 
     # p confused "But I—"
@@ -3169,12 +3169,12 @@ translate Tchinese chapter_1_0dd319cd:
     "不到一個小時，在你拿著拖把打掃的時候，King回來了。"
 
 # game/story/Chapter_1.rpy:2223
-translate Tchinese chapter_1_06923098:
+translate Tchinese chapter_1_79c5a3b0:
 
-    # K "What the—"
-    K "我操──"
+    # K shocked "What the—"
+    K shocked "我靠"
 
-# game/story/Chapter_1.rpy:2226
+# game/story/Chapter_1.rpy:2287
 translate Tchinese chapter_1_1c47a22f:
 
     # p left talk "I can explain."
@@ -3199,12 +3199,12 @@ translate Tchinese chapter_1_3a9a2d6c:
     p shocked "是地震，發生了一場只集中在店裡的小型地震。"
 
 # game/story/Chapter_1.rpy:2234
-translate Tchinese chapter_1_c85c61fc:
+translate Tchinese chapter_1_f2006ba8:
 
-    # K "For real? Are you alright?"
-    K "真的？你沒受傷吧？"
+    # K serious "For real? Are you alright?"
+    K serious "真的？你沒受傷吧？"
 
-# game/story/Chapter_1.rpy:2236
+# game/story/Chapter_1.rpy:2293
 translate Tchinese chapter_1_ef9c6a0c:
 
     # p sad "I’m fine. Just a little shaken."
@@ -3217,12 +3217,12 @@ translate Tchinese chapter_1_ded05e1a:
     K "……"
 
 # game/story/Chapter_1.rpy:2240
-translate Tchinese chapter_1_8ab0b773:
+translate Tchinese chapter_1_07838b67:
 
-    # K "Well, HQ should probably just be glad the whole store didn’t come down in that case. But they’ll probably want the store recording as proof of what happened. Come on, let’s make sure our asses are secured."
-    K "真是不幸中的萬幸，不過總部可能需要監控作為證據。來吧，為了我們的飯碗，再加把勁。"
+    # K sad "Well, HQ should probably just be glad the whole store didn’t come down in that case. But they’ll probably want the store recording as proof of what happened. Come on, let’s make sure our asses are secured."
+    K sad "真是不幸中的萬幸，不過總部可能需要監控作為證據。來吧，為了我倆的飯碗，再努把力。"
 
-# game/story/Chapter_1.rpy:2242
+# game/story/Chapter_1.rpy:2320
 translate Tchinese chapter_1_3377cec3:
 
     # p talk neutral "Right…"
@@ -3277,12 +3277,12 @@ translate Tchinese chapter_1_ad39c08e:
     "在錄影中，正說話的你們突然轉向商店一側，之後Lucy瘋狂地揮舞雙手，貨架上的物品也紛紛被打翻。"
 
 # game/story/Chapter_1.rpy:2267
-translate Tchinese chapter_1_834e8ff3:
+translate Tchinese chapter_1_09553d61:
 
-    # K "Well, you’re handling it better than that customer."
-    K "你比那個顧客冷靜多了。"
+    # K neutral talk "Well, you’re handling it better than that customer."
+    K neutral talk "你比那個顧客冷靜多了嘛。"
 
-# game/story/Chapter_1.rpy:2269
+# game/story/Chapter_1.rpy:2328
 translate Tchinese chapter_1_30e6c1d9:
 
     # "You laugh nervously."
@@ -3301,12 +3301,12 @@ translate Tchinese chapter_1_0d879894:
     "錄影停在了驅魔人進店之時。"
 
 # game/story/Chapter_1.rpy:2275
-translate Tchinese chapter_1_67df249d:
+translate Tchinese chapter_1_df00a34d:
 
-    # K "There’s nothing else left on here."
-    K "後面就什麼都沒有了。"
+    # K serious "There’s nothing else left on here."
+    K serious "後面就什麼都沒有了。"
 
-# game/story/Chapter_1.rpy:2277
+# game/story/Chapter_1.rpy:2351
 translate Tchinese chapter_1_fc24e6f3:
 
     # p "I think the camera wires were chewed out by some pests, the earthquake must have been the last straw."
@@ -3337,12 +3337,12 @@ translate Tchinese chapter_1_f23f5d7f:
     K "蟲子啃壞了電線，是嗎？"
 
 # game/story/Chapter_1.rpy:2296
-translate Tchinese chapter_1_22e21f76:
+translate Tchinese chapter_1_9f22d653:
 
-    # K "Guess there isn’t much to eat in the trash anymore."
-    K "看來垃圾桶裡沒別的可吃了。"
+    # K neutral talk "Guess there isn’t much to eat in the trash anymore."
+    K neutral talk "看來垃圾桶已經滿足不了它們了。"
 
-# game/story/Chapter_1.rpy:2298
+# game/story/Chapter_1.rpy:2367
 translate Tchinese chapter_1_de54d193:
 
     # "He knows something is up. You almost want to tell him the truth, but doing so would only drag him into your own suffering."
@@ -3385,12 +3385,12 @@ translate Tchinese chapter_1_ec2c93e1:
     p smile "沒事，放心交給我。"
 
 # game/story/Chapter_1.rpy:2312
-translate Tchinese chapter_1_09be8489:
+translate Tchinese chapter_1_ed53af31:
 
-    # K "Sweet, I’ll help you out with restocking the place when I’m done."
-    K "加油哦，一寫完我就來幫你。"
+    # K neutral talk "Sweet, I’ll help you out with restocking the place when I’m done."
+    K neutral talk "加油，等寫完我就來幫你。"
 
-# game/story/Chapter_1.rpy:2317
+# game/story/Chapter_1.rpy:3041
 translate Tchinese chapter_1_f396a226:
 
     # "King walks off into the back room."
@@ -3451,12 +3451,10 @@ translate Tchinese chapter_1_53a24025:
     p "什麼啊？"
 
 # game/story/Chapter_1.rpy:2348
-translate Tchinese chapter_1_06dccbf8:
+translate Tchinese chapter_1_1ec962d1:
 
-    # K "{i}[name], da shop's closed for three days to fix all the damage. Want 2 come 2 my place and do DD XIV all night?{i}"
+    # K "{i}[name], da shop's closed for three days to fix all the damage. Want 2 come 2 my place and do DDXIV all night?{i}"
     K "{i}[name]，我們店要關門維修三天，要不要來我家通宵打DDXIV？{i}"
-
-# game/story/Chapter_1.rpy:2350
 translate Tchinese chapter_1_868502c6:
 
     # "Your sleepy eyes widen and you tap your reply back."
@@ -3814,7 +3812,7 @@ translate Tchinese ch1_cleanup_ff1bbe3f:
 translate Tchinese ch1_cleanup_ba12a950:
 
     # "{i}Supermarket sale today, don’t miss it this time! :D{i}"
-    "{i}今天是超市特賣日，這次一定！:D{i}"
+    "{i}今天是超市特賣日，這次一定！：D{i}"
 
 # game/story/Chapter_1.rpy:2506
 translate Tchinese ch1_cleanup_155d224d:
@@ -4681,12 +4679,12 @@ translate Tchinese ch1_cleanup_bb303f1f:
     p smile "太好吃了，簡直是人間美味啊！你真該開家自己的餐館。"
 
 # game/story/Chapter_1.rpy:2981
-translate Tchinese ch1_cleanup_a4acbfad:
+translate Tchinese ch1_cleanup_41d7a3c9:
 
-    # K "You think so?"
-    K "真的嗎？"
+    # K talk neutral "You think so?"
+    K talk neutral "真的嗎？"
 
-# game/story/Chapter_1.rpy:2983
+# game/story/Chapter_1.rpy:3051
 translate Tchinese ch1_cleanup_a028606a:
 
     # "King’s eyes practically light up from your compliment."
@@ -4711,24 +4709,24 @@ translate Tchinese ch1_cleanup_2e20c942:
     p talk neutral "別這麼說嘛，你的廚藝絕對夠了。是有什麼顧慮嗎？"
 
 # game/story/Chapter_1.rpy:2991
-translate Tchinese ch1_cleanup_c084a3cf:
+translate Tchinese ch1_cleanup_833609a4:
 
-    # K "Well, my parents are one thing. They still insist I use that degree of mine. Besides, what I like is watching people enjoy my food."
-    K "一方面是因為我的父母，他們堅持要我幹相關專業的工作。另一方面，其實我喜歡的不是烹飪，而是大家對我的料理大快朵頤享的樣子。"
+    # K serious "Well, my parents are one thing. They still insist I use that degree of mine. Besides, what I like is watching people enjoy my food."
+    K serious "一方面是因為我的父母，他們堅持要我從事相關專業的工作。另一方面，我喜歡的其實不是烹飪，而是大家對我的料理大快朵頤的模樣。"
 
-# game/story/Chapter_1.rpy:2993
+# game/story/Chapter_1.rpy:3055
 translate Tchinese ch1_cleanup_322ab0b6:
 
     # p talk "I think some people pay for others to watch them eat, you know."
     p talk "我懂，還有人專門花錢看主播吃飯呢。"
 
 # game/story/Chapter_1.rpy:2995
-translate Tchinese ch1_cleanup_6ca08ad3:
+translate Tchinese ch1_cleanup_54ef1392:
 
-    # K "What? No way!"
-    K "不可能吧？！"
+    # K shocked "What? No way!"
+    K shocked "什麼？開玩笑的吧？！"
 
-# game/story/Chapter_1.rpy:2997
+# game/story/Chapter_1.rpy:3061
 translate Tchinese ch1_cleanup_65033feb:
 
     # p talk "Yeah, you’d be surprised what you can find online."
@@ -4741,36 +4739,36 @@ translate Tchinese ch1_cleanup_c63071de:
     "你拿起更多雞翅。"
 
 # game/story/Chapter_1.rpy:3001
-translate Tchinese ch1_cleanup_cb490ecf:
+translate Tchinese ch1_cleanup_b334c118:
 
-    # K "Oh right, you mind if I continue the show on the TV while we eat?"
-    K "噢，對了，你不介意我邊吃邊看電視吧？"
+    # K question "Oh right, you mind if I continue the show on the TV while we eat?"
+    K question "噢，對了，你不介意我邊吃邊看電視吧？"
 
-# game/story/Chapter_1.rpy:3005
+# game/story/Chapter_1.rpy:3067
 translate Tchinese ch1_cleanup_01d9c99e:
 
     # p smile "Sure! Is this a new episode?"
     p smile "當然不介意啦！是最新一集嗎？"
 
 # game/story/Chapter_1.rpy:3007
-translate Tchinese ch1_cleanup_c49e2347:
+translate Tchinese ch1_cleanup_27528b54:
 
-    # K "Nah, I was just rewatching the series before you arrived. I think I’m at episode three."
-    K "不，你來的時候我剛看到第三集。"
+    # K neutral talk "Nah, I was just rewatching the series before you arrived. I think I’m at episode three."
+    K neutral talk "不是哦，你來的那個時候我剛看到第三集。"
 
-# game/story/Chapter_1.rpy:3009
+# game/story/Chapter_1.rpy:3071
 translate Tchinese ch1_cleanup_314b1f64:
 
     # p question "You got to watch episode five, man."
     p question "我跟你說，第五集啊──"
 
 # game/story/Chapter_1.rpy:3011
-translate Tchinese ch1_cleanup_841d63f7:
+translate Tchinese ch1_cleanup_8251866c:
 
-    # K "Shh, no spoilers."
-    K "噓────，不准劇透。"
+    # K @ frustration "Shh, no spoilers."
+    K @ frustration "噓，不准劇透。"
 
-# game/story/Chapter_1.rpy:3013
+# game/story/Chapter_1.rpy:3170
 translate Tchinese ch1_cleanup_2a22734b:
 
     # p smile "Right, right. Play it!"
@@ -4840,7 +4838,7 @@ translate Tchinese ch1_cleanup_87a9cef3:
 translate Tchinese ch1_cleanup_fc175297:
 
     # p "You and the hundreds of so-called “fans” of the visual novel online."
-    p "你們這些所謂的‘原作黨’啊..."
+    p "你們這些所謂的‘原作黨’啊……"
 
 # game/story/Chapter_1.rpy:3073
 translate Tchinese ch1_cleanup_f7b63b60:
@@ -4879,36 +4877,36 @@ translate Tchinese ch1_cleanup_166a5cde:
     p "傳奇卡車來囉！"
 
 # game/story/Chapter_1.rpy:3104
-translate Tchinese ch1_cleanup_36c92d40:
+translate Tchinese ch1_cleanup_ba5e1039:
 
-    # K "Oh, nooo!" (what_prefix="{bt}\"", what_suffix="\"{/bt}")
-    K "不────！" (what_prefix="{bt}\"", what_suffix="\"{/bt}")
+    # K shocked "Oh, nooo!" (what_prefix="{bt}\"", what_suffix="\"{/bt}")
+    K shocked "不────！" (what_prefix="{bt}\"", what_suffix="\"{/bt}")
 
-# game/story/Chapter_1.rpy:3112
+# game/story/Chapter_1.rpy:3186
 translate Tchinese ch1_cleanup_badbfbeb:
 
     # "He does a twirl and poses as though he has been rendered unconscious."
     "他先是旋轉了一圈，接著擺出不省人事的姿勢。"
 
 # game/story/Chapter_1.rpy:3116
-translate Tchinese ch1_cleanup_2a2ef974:
+translate Tchinese ch1_cleanup_1da0e66c:
 
-    # K "My dreams to be with my beloved Senpai are forever dashed." (what_prefix="{bt}\"", what_suffix="\"{/bt}")
-    K "對不起，我不能繼續……待在你身邊了，前輩。" (what_prefix="{bt}\"", what_suffix="\"{/bt}")
+    # K sad "My dreams to be with my beloved Senpai are forever dashed." (what_prefix="{bt}\"", what_suffix="\"{/bt}")
+    K sad "我不能繼續陪在……前輩身邊了。" (what_prefix="{bt}\"", what_suffix="\"{/bt}")
 
-# game/story/Chapter_1.rpy:3118
+# game/story/Chapter_1.rpy:3191
 translate Tchinese ch1_cleanup_3f3b7b39:
 
     # p question "No! I mustn't give up! For Senpai!" (what_prefix="{bt}\"", what_suffix="\"{/bt}")
     p question "不！為了前輩，我不能放棄！" (what_prefix="{bt}\"", what_suffix="\"{/bt}")
 
 # game/story/Chapter_1.rpy:3121
-translate Tchinese ch1_cleanup_83e45a5d:
+translate Tchinese ch1_cleanup_d052a17a:
 
-    # K "SEENNNNPAII!" (what_prefix="{bt=10}\"", what_suffix="\"{/bt}")
-    K "前輩──────！" (what_prefix="{bt=10}\"", what_suffix="\"{/bt}")
+    # K neutral talk "SEENNNNPAII!" (what_prefix="{bt=10}\"", what_suffix="\"{/bt}")
+    K neutral talk "前輩──────！" (what_prefix="{bt=10}\"", what_suffix="\"{/bt}")
 
-# game/story/Chapter_1.rpy:3123
+# game/story/Chapter_1.rpy:3201
 translate Tchinese ch1_cleanup_9659c83a:
 
     # "You both cross arms to form the X that Mizuki does in the show."
@@ -4933,48 +4931,48 @@ translate Tchinese ch1_cleanup_0a8cfeee:
     "你們兩個停止模仿秀，彼此哈哈大笑起來。"
 
 # game/story/Chapter_1.rpy:3131
-translate Tchinese ch1_cleanup_13e09924:
+translate Tchinese ch1_cleanup_31ce1141:
 
-    # K "You think they’ll ever let Mizuki be with senpai?"
-    K "你覺得他們會讓美月和前輩在一起嗎？"
+    # K @ question "You think they’ll ever let Mizuki be with senpai?"
+    K @ question "你覺得他們會讓美月和前輩修成正果嗎？"
 
-# game/story/Chapter_1.rpy:3133
+# game/story/Chapter_1.rpy:3205
 translate Tchinese ch1_cleanup_5e64cb0a:
 
     # p talk neutral "They have to, she’s the main character. Plus, she suffered so much traveling back in time to get her senpai’s attention, she deserves it."
     p talk neutral "肯定會吧，她可是女主欸。再說，為了引起前輩的注意，她無數次穿越時間，這是他應得的吧？"
 
 # game/story/Chapter_1.rpy:3135
-translate Tchinese ch1_cleanup_e87fe207:
+translate Tchinese ch1_cleanup_9b3adf65:
 
-    # K "But if you played the visual novel that the anime is based on, Mizuki has a chance to not end up with senpai."
-    K "可是，原作中也有二人各奔東西的壞結局。"
+    # K talk neutral "But if you played the visual novel that the anime is based on, Mizuki has a chance to not end up with senpai."
+    K talk neutral "可是，原作中也有二人各奔東西的壞結局。"
 
-# game/story/Chapter_1.rpy:3137
+# game/story/Chapter_1.rpy:3209
 translate Tchinese ch1_cleanup_d21a4092:
 
     # p shocked "No way!"
     p shocked "怎麼可能！"
 
 # game/story/Chapter_1.rpy:3139
-translate Tchinese ch1_cleanup_63394f43:
+translate Tchinese ch1_cleanup_a55e8388:
 
-    # K "For reals, you got to try it. It’s a classic."
-    K "真的，你去玩玩就知道了，太經典了。"
+    # K talk neutral "For reals, you got to try it. It’s a classic."
+    K talk neutral "真的，你去玩玩就知道了，這可是經典之作。"
 
-# game/story/Chapter_1.rpy:3142
+# game/story/Chapter_1.rpy:3214
 translate Tchinese ch1_cleanup_63ecac81:
 
     # p smile "Is it a new episode?"
     p smile "是最新一集嗎？"
 
 # game/story/Chapter_1.rpy:3144
-translate Tchinese ch1_cleanup_41e47464:
+translate Tchinese ch1_cleanup_fb231e6d:
 
-    # K "Nah, just rewatching the series for fun. I think I paused at episode three."
-    K "不，我在重溫呢，記得剛看到第三集。"
+    # K talk neutral "Nah, just rewatching the series for fun. I think I paused at episode three."
+    K talk neutral "不是哦，我在重溫呢，記得剛看到第三集。"
 
-# game/story/Chapter_1.rpy:3146
+# game/story/Chapter_1.rpy:3222
 translate Tchinese ch1_cleanup_952ae418:
 
     # p "Mmm, I think we can do that some other time. Let’s just chat and eat."
@@ -4993,12 +4991,12 @@ translate Tchinese ch1_cleanup_b3f6153d:
     p "對了，我們店的命運如何了？"
 
 # game/story/Chapter_1.rpy:3152
-translate Tchinese ch1_cleanup_7befb2a3:
+translate Tchinese ch1_cleanup_9693d471:
 
-    # K "Nothing much, they sent an investigator, asked a bunch of questions, interviewed other people around the shop, and checked the store video."
-    K "沒什麼，總部派了名調查員過來，問了一大堆問題，採訪了周圍的人，還看了半天的監控。"
+    # K serious "Nothing much, they sent an investigator, asked a bunch of questions, interviewed other people around the shop, and checked the store video."
+    K serious "沒什麼，總部派了名調查員過來，問了一大堆問題，在周圍採訪了一圈，還看了半天的監控。"
 
-# game/story/Chapter_1.rpy:3154
+# game/story/Chapter_1.rpy:3230
 translate Tchinese ch1_cleanup_0e1f5b27:
 
     # K "The investigator had a hard time believing the shop was struck by a localised earthquake though. He wanted to talk to you."
@@ -5017,42 +5015,60 @@ translate Tchinese ch1_cleanup_19213965:
     "King注意到了你不安，笑著說："
 
 # game/story/Chapter_1.rpy:3160
-translate Tchinese ch1_cleanup_7155a01b:
+translate Tchinese ch1_cleanup_6dd5da56:
 
-    # K "Don’t worry, I told him I got your written testimony and everything he needed to know was already on the video. I gave him a little wink and a nice back rub and he was all good to go."
-    K "放心，我告訴他我有你的書面證詞，事件經過無非就是監控播的那樣。我給他使了個眼色，又做了套舒服的背部按摩，就把他打發了。"
+    # K talk wink "Don’t worry, I told him I got your written testimony and everything he needed to know was already on the video. I gave him a little wink and a nice back rub and he was all good to go."
+    K talk wink "放心，我告訴他我拿到了你的書面證詞，事請經過無非就是監控播的那樣。我給他使了個眼色，外加一套舒服的背部按摩，把他打發了。"
 
-# game/story/Chapter_1.rpy:3162
+# game/story/Chapter_1.rpy:3234
 translate Tchinese ch1_cleanup_3d78a43d:
 
     # p "Thanks, King."
     p "謝謝你，King。"
 
 # game/story/Chapter_1.rpy:3164
-translate Tchinese ch1_cleanup_a72bb8c2:
+translate Tchinese ch1_cleanup_28209c8b:
 
-    # K "No problem, you’d do the same for me."
-    K "別見外啊，我們都認識多久了。"
+    # K talk neutral "No problem, you’d do the same for me."
+    K talk neutral "別見外，我倆誰跟誰啊。"
 
-# game/story/Chapter_1.rpy:3166
+# game/story/Chapter_1.rpy:3238
 translate Tchinese ch1_cleanup_7ec0f404:
 
     # p "If everything’s all good, then when do we gotta get back to work?"
     p "也就是說萬事大吉了，那我們什麼時候復工？"
 
 # game/story/Chapter_1.rpy:3168
-translate Tchinese ch1_cleanup_cde5a212:
+translate Tchinese ch1_cleanup_84e44ca1:
 
-    # K "Probably reopen by tomorrow. They’re just restocking the place and replacing the security cameras. I asked them to upgrade our staff room, but they said it was {i}\"unnecessary\"{i}."
-    K "預計明天吧。他們剛補完貨，還有更換了監視錄影機。我讓他們順便升級一下我們的員工室，但他們居然說{i}‘沒必要’{i}。"
+    # K talk neutral "Probably reopen by tomorrow. They’re just restocking the place and replacing the security cameras. "
+    K talk neutral "預計明天吧。他們剛補完貨，還有更換了監視錄影機。"
 
-# game/story/Chapter_1.rpy:3170
+# game/story/Chapter_1.rpy:3239
+translate Tchinese ch1_cleanup_86c5e87b:
+
+    # extend frustration "I asked them to upgrade our staff room, but they said it was {i}\"unnecessary\"{i}."
+    extend frustration "我讓他們順便升級一下我們的員工室，但他們居然說{i}‘沒必要’{i}。"
+
+# game/story/Chapter_1.rpy:3243
+translate Tchinese ch1_cleanup_a4fa1789:
+
+    # p "Damn, I thought we had three days."
+    p "可惡，我的三天假啊。"
+
+# game/story/Chapter_1.rpy:3174
+translate Tchinese ch1_cleanup_06ad76f3:
+
+    # K talk neutral "It can't be helped, HQ wants us back in business as soon as possible."
+    K talk neutral "沒辦法，總部希望我們盡快恢復營業。"
+
+# game/story/Chapter_1.rpy:3256
 translate Tchinese ch1_cleanup_fadaad0f:
 
     # K "By the way, I asked HQ and they said they are okay with me training you for the manager role."
-    K "順帶一提，我請示過總部，他們同意你參加經理的培訓了。"
+    K "順帶一提，我向上面請示過了，他們同意你參加經理的培訓。"
 
-# game/story/Chapter_1.rpy:3172
+# game/story/Chapter_1.rpy:3190
 translate Tchinese ch1_cleanup_3bbf69da:
 
     # p shocked "What? King!"
@@ -5077,42 +5093,42 @@ translate Tchinese ch1_cleanup_14256e4a:
     p "我只是擔心自己會惹禍，King。我不適合當上司，從來都不適合。"
 
 # game/story/Chapter_1.rpy:3180
-translate Tchinese ch1_cleanup_ded05e1a:
+translate Tchinese ch1_cleanup_c3a721b4:
 
-    # K "Hmm…"
-    K "嗯……"
+    # K talk neutral "Hmm…"
+    K talk neutral "嗯……"
 
-# game/story/Chapter_1.rpy:3184
+# game/story/Chapter_1.rpy:3265
 translate Tchinese ch1_cleanup_e34a670d:
 
     # "He grabs a tissue, rolls it into a ball, and throws it at your face."
-    "他拿起一張紙巾，揉成一團扔到你臉上。"
+    "他抓起一張紙巾，團成球扔到你臉上。"
 
-# game/story/Chapter_1.rpy:3187
+# game/story/Chapter_1.rpy:3360
 translate Tchinese ch1_cleanup_4aa8f7a8:
 
     # p question "Hey!"
     p question "嘿！"
 
 # game/story/Chapter_1.rpy:3189
-translate Tchinese ch1_cleanup_2cdb1b64:
+translate Tchinese ch1_cleanup_11f82e45:
 
-    # K "Sweetie, you’re too lost in your own head. I have faith that you’ll do the right thing, no matter what. That's why I believe you’ll do fine."
-    K "不要迷茫，親愛的。我之所以相信你，就是因為無論何時，你總會做對的事。"
+    # K talk neutral "Sweetie, you’re too lost in your own head. I have faith that you’ll do the right thing, no matter what. That's why I believe you’ll do fine."
+    K talk neutral "不要迷茫，親愛的。我之所以相信你，就是因為無論何時，你總會做對的事。"
 
-# game/story/Chapter_1.rpy:3191
+# game/story/Chapter_1.rpy:3269
 translate Tchinese ch1_cleanup_bbf32a64:
 
     # p "Some would call that an unnecessary gamble."
     p "這就是所謂的風險投資嗎。"
 
 # game/story/Chapter_1.rpy:3193
-translate Tchinese ch1_cleanup_2491f2bb:
+translate Tchinese ch1_cleanup_368cf65c:
 
-    # K "I mean, I gambled on you the night I took you in and helped nurse you back to health."
-    K "早在收留你的那個夜晚，我就把賭注押在你身上了。"
+    # K talk neutral "I mean, I gambled on you the night I took you in and helped nurse you back to health."
+    K talk neutral "早在收留你的那個夜晚，我就把賭注押在你身上了。"
 
-# game/story/Chapter_1.rpy:3195
+# game/story/Chapter_1.rpy:3275
 translate Tchinese ch1_cleanup_426af3b1:
 
     # p "Honestly, I thought you took me in cause you had a kink for wounded hunks."
@@ -5125,24 +5141,24 @@ translate Tchinese ch1_cleanup_34c91004:
     "King靠向右邊，笑嘻嘻地看著你的肚子。"
 
 # game/story/Chapter_1.rpy:3199
-translate Tchinese ch1_cleanup_eb9b54b4:
+translate Tchinese ch1_cleanup_4183812d:
 
-    # K "{i}Former{/i} hunk."
-    K "{i}前{/i}壯漢。"
+    # K talk neutral "{i}Former{/i} hunk."
+    K talk neutral "{i}前{/i}壯漢。"
 
-# game/story/Chapter_1.rpy:3201
+# game/story/Chapter_1.rpy:3279
 translate Tchinese ch1_cleanup_76be689d:
 
     # p "Hey, it’s not my fault. Who keeps feeding me these tasty dishes?"
     p "這能怪我嗎，是誰天天餵我山珍海味的？"
 
 # game/story/Chapter_1.rpy:3203
-translate Tchinese ch1_cleanup_d3fa979c:
+translate Tchinese ch1_cleanup_d6ce1694:
 
-    # K "Never heard you complain before."
-    K "也沒見你少吃啊。"
+    # K talk neutral "Never heard you complain before."
+    K talk neutral "也沒見你少吃啊。"
 
-# game/story/Chapter_1.rpy:3206
+# game/story/Chapter_1.rpy:3367
 translate Tchinese ch1_cleanup_c95ec1af:
 
     # "You continue your assault on the remaining poultry."
@@ -5263,24 +5279,30 @@ translate Tchinese ch1_cleanup_548ec4c4:
     p talk neutral "慢著，這裡鬧鬼，你還把我叫來？"
 
 # game/story/Chapter_1.rpy:3283
-translate Tchinese ch1_cleanup_ff991f66:
+translate Tchinese ch1_cleanup_b29df1d2:
 
-    # K "Well, I also called in an exorcist. So I figured, eh, things would be settled before game night. The guy should have already been and gone by now."
-    K "這個嘛，我還請了一位驅魔師。所以，呃，我想不會有事的，他應該已經出發了。"
+    # K neutral talk "Well, I also called in an exorcist. So I figured, eh, things would be settled before game night."
+    K neutral talk "這個嘛，我還請了一位驅魔師。所以，呃，我想不會有事的。"
 
-# game/story/Chapter_1.rpy:3285
+# game/story/Chapter_1.rpy:3369
+translate Tchinese ch1_cleanup_f7d6e650:
+
+    # extend serious " The guy should have already been and gone by now."
+    extend serious "他應該在來到路上了。"
+
+# game/story/Chapter_1.rpy:3373
 translate Tchinese ch1_cleanup_968758c9:
 
     # p question "An exorcist?"
     p question "驅魔師？"
 
 # game/story/Chapter_1.rpy:3287
-translate Tchinese ch1_cleanup_776452ed:
+translate Tchinese ch1_cleanup_e8adca6f:
 
-    # K "Yeah, a guy called Morris. I got his flier while shopping for groceries last night."
-    K "是啊，他叫Morris，我昨晚買菜時收到了他的傳單。"
+    # K neutral talk "Yeah, a guy called Morris. I got his flier while shopping for groceries last night."
+    K neutral talk "是啊，他叫Morris，我昨晚買菜時收到了他的傳單。"
 
-# game/story/Chapter_1.rpy:3289
+# game/story/Chapter_1.rpy:3654
 translate Tchinese ch1_cleanup_dea52625:
 
     # p "{i}Him again!{i}" (cb_no_talk=True)
@@ -5424,13 +5446,13 @@ translate Tchinese ch1_cleanup_eace4901:
     # T "Heck yeah, it’s me, your ol’ buddy, Toast. Bring it in, man."
     T "沒錯，是你的好哥們，Toast。來抱一個～"
 
-# game/story/Chapter_1.rpy:3373
+# game/story/Chapter_1.rpy:3379
 translate Tchinese ch1_cleanup_214ae0dd:
 
     # "He tries to hug you but ends up partially phasing through you, a cold tingle running down your spine as he does so."
     "他擺出熱情擁抱的架勢，卻反而穿過了你的身體，為你帶來一陣冰冷的刺痛。"
 
-# game/story/Chapter_1.rpy:3386
+# game/story/Chapter_1.rpy:3459
 translate Tchinese ch1_cleanup_66eb430c:
 
     # "For a brief second your heart feels heavy, a sadness that is not your own. Alarmed, you leap away from the ghost."
@@ -5578,9 +5600,9 @@ translate Tchinese ch1_cleanup_7e40147b:
 translate Tchinese ch1_cleanup_9ba3d952:
 
     # T "Whoops."
-    T "哎呀。"
+    T "哎呦。"
 
-# game/story/Chapter_1.rpy:3458
+# game/story/Chapter_1.rpy:3716
 translate Tchinese ch1_cleanup_90a6a5e5:
 
     # "He bends down to grab the bag, but it keeps slipping through his fingers."
@@ -5701,12 +5723,12 @@ translate Tchinese ch1_cleanup_4e5daa3f:
     p "你好。"
 
 # game/story/Chapter_1.rpy:3570
-translate Tchinese ch1_cleanup_12f27752:
+translate Tchinese ch1_cleanup_ab2f8022:
 
-    # K "Mr. Morris, this is my friend I told you about."
-    K "Morris先生，這就是我提過的那個朋友。"
+    # K "Mr. Morris, this is my friend I told you about." (cb_no_talk=True)
+    K "Morris先生，這就是我提過的那個朋友。" (cb_no_talk=True)
 
-# game/story/Chapter_1.rpy:3576
+# game/story/Chapter_1.rpy:3681
 translate Tchinese ch1_cleanup_0fe1c2e9:
 
     # M talk neutral "Nice to meet you."
@@ -5755,12 +5777,12 @@ translate Tchinese ch1_cleanup_d979addc:
     M "這不怪你。幽靈的本質鮮有人知，這也是我們幹這行的目的。"
 
 # game/story/Chapter_1.rpy:3598
-translate Tchinese ch1_cleanup_88e8b1bc:
+translate Tchinese ch1_cleanup_cda17e75:
 
-    # K "Thank goodness. What do we do?"
-    K "噢，謝天謝地，那我們該怎麼做呢？"
+    # K serious "Thank goodness. What do we do?"
+    K serious "啊，謝天謝地，那我們該怎麼辦呢？"
 
-# game/story/Chapter_1.rpy:3601
+# game/story/Chapter_1.rpy:3693
 translate Tchinese ch1_cleanup_9f3ecda4:
 
     # M -left talk "Well, for now, I need you to wait back at the elevator while your friend and I here set up the exorcism ritual."
@@ -5785,12 +5807,12 @@ translate Tchinese ch1_cleanup_c6d161a1:
     p annoyed "我{i}沒有{/i}被附身。"
 
 # game/story/Chapter_1.rpy:3609
-translate Tchinese ch1_cleanup_8ca1e1c2:
+translate Tchinese ch1_cleanup_eb570cce:
 
-    # K "That’s what a possessed person would say."
-    K "小偷會說自己偷了東西嗎？"
+    # K shocked "That’s what a possessed person would say."
+    K shocked "小偷會說自己偷了東西嗎？"
 
-# game/story/Chapter_1.rpy:3611
+# game/story/Chapter_1.rpy:3713
 translate Tchinese ch1_cleanup_ea4db273:
 
     # K "Hang on [name]! We'll save you!!"
@@ -5815,12 +5837,12 @@ translate Tchinese ch1_cleanup_a1fdbb0b:
     "King點點頭。"
 
 # game/story/Chapter_1.rpy:3627
-translate Tchinese ch1_cleanup_e6659c68:
+translate Tchinese ch1_cleanup_f3676cb3:
 
-    # K "Good luck, [name]. Please don’t be possessed."
-    K "祝你好運，[name]，千萬別輸啊。"
+    # K "Good luck, [name]. Please don’t be possessed." (cb_no_talk=True)
+    K "祝你好運，[name]，千萬別輸啊。" (cb_no_talk=True)
 
-# game/story/Chapter_1.rpy:3631
+# game/story/Chapter_1.rpy:3844
 translate Tchinese ch1_cleanup_20a45161:
 
     # "He leaves the apartment."
@@ -5938,9 +5960,9 @@ translate Tchinese ch1_cleanup_925ad2e1:
 translate Tchinese ch1_cleanup_8061346c:
 
     # M "Hey, I still cast protective charms around the place, okay. Now, you want to help your friend or not?"
-    M "我同樣施加了保護咒啊，你到底想不想讓我幫你的朋友？"
+    M "我姑且施加了保護咒的好嗎，你到底是不是在為朋友著想啊？"
 
-# game/story/Chapter_1.rpy:3717
+# game/story/Chapter_1.rpy:4154
 translate Tchinese ch1_cleanup_62987810:
 
     # p "You can’t charge King for this."
@@ -5989,12 +6011,12 @@ translate Tchinese ch1_cleanup_ca69278a:
     "看到你坐在客廳中央，一手拿著不規則的石頭，另一隻手拿著動漫公仔，頭上頂著蘋果，嘴裡還叼著一張黃色的符紙，羊駝瞳孔地震的看著你。"
 
 # game/story/Chapter_1.rpy:3758
-translate Tchinese ch1_cleanup_ae15d23b:
+translate Tchinese ch1_cleanup_df18496a:
 
-    # K "[name]! What happened to you?"
-    K "[name]！你怎麼了？"
+    # K shocked "[name]! What happened to you?"
+    K shocked "[name]！你怎麼了？"
 
-# game/story/Chapter_1.rpy:3760
+# game/story/Chapter_1.rpy:3854
 translate Tchinese ch1_cleanup_69bdee0d:
 
     # M "I've condensed the spirit's evil energy around [name]. It’s up to you now to whack it out of him."
@@ -6007,12 +6029,12 @@ translate Tchinese ch1_cleanup_253790df:
     M "拿著這個。"
 
 # game/story/Chapter_1.rpy:3768
-translate Tchinese ch1_cleanup_67fc48da:
+translate Tchinese ch1_cleanup_4e5b21e5:
 
-    # K "A broom?"
-    K "一把掃帚？"
+    # K question "A broom?"
+    K question "一把掃帚？"
 
-# game/story/Chapter_1.rpy:3771
+# game/story/Chapter_1.rpy:3984
 translate Tchinese ch1_cleanup_670f5e84:
 
     # M "You’re the master of the house! Dispel the evil spirit by whacking it away! Show it that you mean business."
@@ -6079,12 +6101,12 @@ translate Tchinese ch1_cleanup_4770a3ca:
     "你越過自己的肚子怒視驅魔師，他的臉頰微微鼓起，明顯是在憋笑。"
 
 # game/story/Chapter_1.rpy:3897
-translate Tchinese ch1_cleanup_ce1e5f37:
+translate Tchinese ch1_cleanup_0f5748db:
 
-    # K "What do we have to do?"
-    K "我們還要做什麼？"
+    # K "What do we have to do?" (cb_no_talk=True)
+    K "我們還要做什麼？" (cb_no_talk=True)
 
-# game/story/Chapter_1.rpy:3911
+# game/story/Chapter_1.rpy:4075
 translate Tchinese ch1_cleanup_510defb0:
 
     # M "I still need to cleanse your body of whatever curse it may have left behind. Stand still."
@@ -6163,12 +6185,12 @@ translate Tchinese ch1_cleanup_79772496:
     K "我感覺輕鬆多了。太神奇了，儀式成功了！"
 
 # game/story/Chapter_1.rpy:3982
-translate Tchinese ch1_cleanup_f7a97fc4:
+translate Tchinese ch1_cleanup_e28b65ef:
 
-    # K "[name], look at how nimble my limbs are."
-    K "[name]，看我的四肢多麼靈活。"
+    # K "[name], look at how nimble my limbs are." (cb_no_talk=True)
+    K "[name]，快看我靈活的四肢。" (cb_no_talk=True)
 
-# game/story/Chapter_1.rpy:3989
+# game/story/Chapter_1.rpy:4101
 translate Tchinese ch1_cleanup_0bc98d8d:
 
     # "He stretches out his hands from side-to-side and moves them up and down in a wave-like motion."
@@ -6187,12 +6209,12 @@ translate Tchinese ch1_cleanup_582c9178:
     M talk neutral "那麼，我在這裡的工作就完成了。"
 
 # game/story/Chapter_1.rpy:3998
-translate Tchinese ch1_cleanup_c40634a6:
+translate Tchinese ch1_cleanup_9228e037:
 
-    # K "Let me get your payment."
-    K "我來結帳。"
+    # K "Let me get your payment." (cb_no_talk=True)
+    K "我來結帳。" (cb_no_talk=True)
 
-# game/story/Chapter_1.rpy:4000
+# game/story/Chapter_1.rpy:4180
 translate Tchinese ch1_cleanup_8b68d9d4:
 
     # M "Thanks, but I’m not charging for this one. The ghost wasn’t much of a challenge, so I wouldn’t feel right taking your money."
@@ -6319,12 +6341,12 @@ translate Tchinese ch1_cleanup_5e6afee4:
     M serious "我幹這行很多年了，可以說是祖祖輩輩流傳下來的技藝。"
 
 # game/story/Chapter_1.rpy:4077
-translate Tchinese ch1_cleanup_05f5da9f:
+translate Tchinese ch1_cleanup_55ec41f5:
 
-    # K "A family of exorcists exists in this town?"
-    K "這個鎮還有驅魔世家的嗎？"
+    # K shocked "A family of exorcists exists in this town?"
+    K shocked "這個鎮還有驅魔世家的嗎？"
 
-# game/story/Chapter_1.rpy:4079
+# game/story/Chapter_1.rpy:4336
 translate Tchinese ch1_cleanup_af750d25:
 
     # M talk neutral "Nope, just me. The family isn’t from here. I left them to search for something important, and while I’m doing that, I figured I’d set up shop here and earn some cash while picking up information."
@@ -6439,12 +6461,12 @@ translate Tchinese ch1_cleanup_87d19d45:
     p "雖然我的臉現在還疼著呢，我都快累趴下了。"
 
 # game/story/Chapter_1.rpy:4150
-translate Tchinese ch1_cleanup_a244447a:
+translate Tchinese ch1_cleanup_57abcc4f:
 
-    # K "Not even enough for a round of DD XIV dailies?"
-    K "連DDXIV的每日都懶得打了？"
+    # K "Not even enough for a round of DDXIV dailies?"
+    K "連DD14的每日都懶得打了？"
 
-# game/story/Chapter_1.rpy:4152
+# game/story/Chapter_1.rpy:282
 translate Tchinese ch1_cleanup_e6661f09:
 
     # p smile "Heck no, let's go dailies!"
@@ -6607,12 +6629,12 @@ translate Tchinese ch1_cleanup_b9b3976d:
     p "噢，只是在想事情。"
 
 # game/story/Chapter_1.rpy:4228
-translate Tchinese ch1_cleanup_6dd6582e:
+translate Tchinese ch1_cleanup_28e53378:
 
-    # K "Penny for your thoughts."
-    K "在想什麼？"
+    # K "Penny for your thoughts." (cb_no_talk=True)
+    K "在想什麼？" (cb_no_talk=True)
 
-# game/story/Chapter_1.rpy:4232
+# game/story/Chapter_1.rpy:4377
 translate Tchinese ch1_cleanup_aa17aed3:
 
     # p -left confused "I thought you were sleepy."
@@ -6709,12 +6731,12 @@ translate Tchinese ch1_cleanup_e082bc17:
     p left sad "我希望……希望自己知道該許什麼願。"
 
 # game/story/Chapter_1.rpy:4265
-translate Tchinese ch1_cleanup_a828bc39:
+translate Tchinese ch1_cleanup_b6921c51:
 
-    # K "Don’t worry you’ll find out soon. Then maybe we can travel to that tree one day."
-    K "別擔心，你很快就會知道了。也許我們可以找個時間，親自過去看看那棵樹。"
+    # K "Don’t worry you’ll find out soon. Then maybe we can travel to that tree one day." (cb_no_talk=True)
+    K "別擔心，你很快就會知道了。也許我們可以找個時間，親自過去看看那棵樹。" (cb_no_talk=True)
 
-# game/story/Chapter_1.rpy:4267
+# game/story/Chapter_1.rpy:4387
 translate Tchinese ch1_cleanup_a84e60df:
 
     # p talk neutral "I’d like that."
@@ -6727,12 +6749,12 @@ translate Tchinese ch1_cleanup_8870cad7:
     "你們兩個都沉默了一會。"
 
 # game/story/Chapter_1.rpy:4271
-translate Tchinese ch1_cleanup_48fc42dc:
+translate Tchinese ch1_cleanup_fa833b70:
 
-    # K "Hey, [name]."
-    K "那個，[name]。"
+    # K "Hey, [name]." (cb_no_talk=True)
+    K "那個，[name]。" (cb_no_talk=True)
 
-# game/story/Chapter_1.rpy:4275
+# game/story/Chapter_1.rpy:251
 translate Tchinese ch1_cleanup_fbb1dd79:
 
     # p -left "Mmm?"
@@ -6757,11 +6779,6 @@ translate Tchinese ch1_cleanup_da4ac905:
     "你闔上雙眼，緩緩進入了夢鄉。"
 
 # game/story/Chapter_1.rpy:4290
-translate Tchinese ch1_cleanup_55566b14:
-
-    # "{b}TO BE CONTINUED....{/b}"
-    "{b}未完待續……{/b}"
-
 translate Tchinese strings:
 
     # game/story/Chapter_1.rpy:3
@@ -6772,685 +6789,71 @@ translate Tchinese strings:
     old "When a Bell Rings"
     new "當鈴聲響起之時"
 
-    # game/story/Chapter_1.rpy:21
+    # game/story/Chapter_1.rpy:22
     old "Sunny Fruits{#journal}"
     new "陽光超市{#journal}"
 
-    # game/story/Chapter_1.rpy:21
+    # game/story/Chapter_1.rpy:22
     old "“Sunny Fruits, Sunny Fruits, the friendliest family mart in town! Rain or shine we'll be there to serve you with a smile.“ That's the franchise jingle that I had to learn on the first day of the job. Sunny Fruits is a rising franchise in this part of the country. According to the employee handbook, the business person who started the franchise started with just a fruit stand by the streets. Then they came into a great fortune one day and decided to go into the convenience store industry."
     new "『陽光超市，陽光超市，鎮上最友好的全家便利商店！無論刮風還是下雨，我們都將竭誠爲您服務。』\n這是我在入職第一天就必須學會的廣告詞。\n陽光超市是這個地區新興的特營店。\n根據員工手册記載，創始人起初只是在街邊擺水果攤的。\n後來他們一夜暴富，便進軍向便利商店發展。"
 
-    # game/story/Chapter_1.rpy:787
+    # game/story/Chapter_1.rpy:822
     old "King{#journal}"
     new "King{#journal}"
 
-    # game/story/Chapter_1.rpy:787
+    # game/story/Chapter_1.rpy:822
     old "King's my friend and I'm forever indebted to him for helping me rebuild my life after... the event. He's sweet, has a talent for cooking and cares a whole lot;  he's arguably the nicest soul I've ever met. Even after I found my own place, he still checks up on me and I appreciate that. I wish I could repay him somehow for all his generosity. I can't imagine what would have happened if I didn't run into him that day..."
     new "King是我的朋友，他在……那個事件發生後幫助我重建了新的生活。\n他的大恩大德，我會永遠銘記心中。\n他人很可愛，有烹飪天賦，還特别照顧我，可以説是我見過最善良的人。\n即使在我找到住處後，他仍時不時過來看我，我對此非常感激。\n真希望我可以報答他的慷慨。\n我不敢想像，假如那天没有遇到他的話，我……"
 
-    # game/story/Chapter_1.rpy:2324
+    # game/story/Chapter_1.rpy:2398
     old "Lucian{#journal}"
     new "Lucian{#journal}"
 
-    # game/story/Chapter_1.rpy:2324
+    # game/story/Chapter_1.rpy:2398
     old "Just my luck! Right when I'm starting to get used to my mortal life, a freaking angel shows up! Why? Gary sure wasn't in a rush to send help when I tried to reach him before. Then again, he did say that most prayers end up in his spam bin. Still, I don't like him! Just cuz he looks good in some designer clothes and has that anime-boy-haircut, doesn't mean he gets a free pass to act like the most important person in the room...right? Ughhhh, he's just so smug, I can pull off an anime haircut too! If... I had my old build..."
     new "倒楣！就在我開始習慣凡人生活的時候，一個怪天使出現了！可是爲什麽？Gary明明把我之前的求助當耳邊風。\n不過，他確實有説大部分祈禱最後都進了他的垃圾信箱。\n可我還是不喜歡那個天使！他穿著名牌服裝，留著殺馬特頭，但這不意味著他高人一等……不是嗎？\n可惡，他也太自以爲是了，我也要做個酷炫的造型！前提是……等我恢復從前的身材……"
-    # game/story/Chapter_1.rpy:2375
+
+    # game/story/Chapter_1.rpy:2449
     old "Put your bed away"
     new "整理你的床"
 
-    # game/story/Chapter_1.rpy:2375
+    # game/story/Chapter_1.rpy:2449
     old "Clean up the pile of clothes in the corner"
     new "洗堆在牆角衣服"
 
-    # game/story/Chapter_1.rpy:2375
+    # game/story/Chapter_1.rpy:2449
     old "Clean up the rubbish on your table"
     new "打掃桌子上的垃圾"
 
-    # game/story/Chapter_1.rpy:2601
+    # game/story/Chapter_1.rpy:2675
     old "Up Above{#journal}"
     new "天界{#journal}"
 
-    # game/story/Chapter_1.rpy:2601
+    # game/story/Chapter_1.rpy:2675
     old "If the Underworld is a soul crushing company, the Up Above is a five star hotel. The perfect place to have all your dreams and desires come true, if your soul passes judgement. I've always considered Gary to be lucky to run the place. I mean, who wouldn't want to run a chill place where you make everyone happy until they turn into pure energy? Wish I could get a place there myself, but for some reason it's always fully booked."
     new "如果説冥界是一間主打靈魂粉碎的公司，那天界就是五星級酒店了：一個只有通過了審判的靈魂才能去往的、可以實現一切夢想的完美世界。\nGary那家伙可真走運，畢竟誰不想經營一個讓靈魂幸福到化作純粹能量的地方呢？\n我都想去體驗一番了，但不知道爲什麽，那地方總是客滿。"
 
-    # game/story/Chapter_1.rpy:3003
+    # game/story/Chapter_1.rpy:3082
     old "Agree to watch the show"
     new "同意邊吃邊看番劇"
 
-    # game/story/Chapter_1.rpy:3003
+    # game/story/Chapter_1.rpy:3082
     old "Ask to eat and talk"
     new "提議邊吃邊聊"
 
-    # game/story/Chapter_1.rpy:3531
+    # game/story/Chapter_1.rpy:3635
     old "Toast{#journal}"
     new "Toast{#journal}"
 
-    # game/story/Chapter_1.rpy:3531
+    # game/story/Chapter_1.rpy:3635
     old "This ghost is dumb."
     new "這個幽靈腦筋不太正常。"
 
-    # game/story/Chapter_1.rpy:4138
+    # game/story/Chapter_1.rpy:4263
     old "Morris{#journal}"
     new "Morris{#journal}"
 
-    # game/story/Chapter_1.rpy:4138
+    # game/story/Chapter_1.rpy:4263
     old "So this silver-tongued piggy is an exorcist, huh? A crooked one at that if how he acted in the shop is any indicator of how he conducts his work. Not that I blame him, exorcists are a dying breed ever since Paw legislated strict restrictions on demonic influences here on Earth. If he were to find out what I really am, I doubt he'd just let me leave town."
     new "所以這頭伶牙俐齒的小猪是個驅魔師？\n要不是他在超商露了一手，我還以爲他是江湖騙子呢。\n倒也不是不能理解，自從老爸頒布了法律，嚴格限制惡魔在人界的活動後，驅魔師這個職業就瀕臨滅绝了。\n如果他發現我的真實身份，怕不是會直接把我趕出鎮子吧。"
 
-# game/story/Chapter_1.rpy:3172
-translate Tchinese ch1_cleanup_a4fa1789:
-
-    # p "Damn, I thought we had three days."
-    p "可惡，我的三天假啊。"
-
-# game/story/Chapter_1.rpy:3174
-translate Tchinese ch1_cleanup_c8b21010:
-
-    # K "It can't be helped, HQ wants us back in business as soon as possible."
-    K "沒辦法，總部希望我們盡快恢復營業。"
-
-
-# game/story/Chapter_1.rpy:3175
-translate Tchinese ch1_cleanup_fadaad0f:
-
-    # K "By the way, I asked HQ and they said they are okay with me training you for the manager role."
-    K "順帶一提，我向上面請示過了，他們同意你參加經理的培訓。"
-
-# game/story/Chapter_1.rpy:3190
-translate Tchinese ch1_cleanup_e34a670d:
-
-    # "He grabs a tissue, rolls it into a ball, and throws it at your face."
-    "他抓起一張紙巾，團成球扔到你臉上。"
-
-# game/story/Chapter_1.rpy:3360
-translate Tchinese ch1_cleanup_eace4901:
-
-    # T "Heck yeah, it’s me, your ol’ buddy, Toast. Bring it in, man."
-    T "沒錯，是你的好哥們，Toast。來抱一個～"
-
-# game/story/Chapter_1.rpy:3379
-translate Tchinese ch1_cleanup_214ae0dd:
-
-    # "He tries to hug you but ends up partially phasing through you, a cold tingle running down your spine as he does so."
-    "他擺出熱情擁抱的架勢，卻反而穿過了你的身體，為你帶來一陣冰冷的刺痛。"
-
-# game/story/Chapter_1.rpy:3459
-translate Tchinese ch1_cleanup_9ba3d952:
-
-    # T "Whoops."
-    T "哎呦。"
-
-# game/story/Chapter_1.rpy:3716
-translate Tchinese ch1_cleanup_8061346c:
-
-    # M "Hey, I still cast protective charms around the place, okay. Now, you want to help your friend or not?"
-    M "我姑且施加了保護咒的好嗎，你到底是不是在為朋友著想啊？"
-
-# game/story/Chapter_1.rpy:4154
-translate Tchinese ch1_cleanup_57abcc4f:
-
-    # K "Not even enough for a round of DDXIV dailies?"
-    K "連DD14的每日都懶得打了？"
-
-# TODO: Translation updated at 2022-06-09 13:13
-
-# game/story/Chapter_1.rpy:282
-translate Tchinese chapter_1_4c3545b1:
-
-    # K @ question "You’re still using that phone?"
-    K @ question "你還在用那台舊手機啊？"
-
-# game/story/Chapter_1.rpy:308
-translate Tchinese chapter_1_f9fec981:
-
-    # K serious "Brother? He has a name you know. Don’t tell me you forgot it?"
-    K serious "哥哥？人家又不是沒有名字，別告訴我你這麼快就忘了？"
-
-# game/story/Chapter_1.rpy:327
-translate Tchinese chapter_1_dd54e116:
-
-    # K neutral "They really appreciate us taking their shifts so they can take care of their sick grandma."
-    K neutral "他非常感謝我倆能替他們值班，這樣他們就有時間照顧生病的奶奶了。"
-
-# game/story/Chapter_1.rpy:346
-translate Tchinese chapter_1_bf36987c:
-
-    # K frustration "How can you skim through that? It’s a half an hour battle that requires a full team and proper strategising."
-    K frustration "略微？那可是有完善的團隊與正確的規劃都要打半個小時的高難本啊。"
-
-# game/story/Chapter_1.rpy:354
-translate Tchinese chapter_1_3fa521ae:
-
-    # K talk neutral "You must be the dullest adventurer ever."
-    K talk neutral "你一定是史上最無趣的冒險者。"
-
-# game/story/Chapter_1.rpy:417
-translate Tchinese chapter_1_f8ff6d0d:
-
-    # K shocked "Oh crap, it’s {i}those{/i} guys."
-    K shocked "不好，是{b}那些{/b}傢伙。"
-
-# game/story/Chapter_1.rpy:423
-translate Tchinese chapter_1_bdb0cee5:
-
-    # K serious "We should go around. Take the side entrance."
-    K serious "我們還是繞道吧。"
-
-# game/story/Chapter_1.rpy:720
-translate Tchinese chapter_1_77ac545c:
-
-    # K @ question "You got the drinks?"
-    K @ question "帶飲料了嗎？"
-
-# game/story/Chapter_1.rpy:734
-translate Tchinese chapter_1_f8d38c59:
-
-    # K serious "I can’t believe they just ganged up on us like that. Someone should do something about them."
-    K serious "不敢相信，他們也太肆意妄為了吧，就沒人能管管他們嗎？"
-
-# game/story/Chapter_1.rpy:738
-translate Tchinese chapter_1_38dc4b86:
-
-    # K question "The police? Shouldn’t they be handling these kinds of cases? Well, I’m making a report."
-    K question "比如警察，這類案件不該由他們負責嗎？總之，我這就報案。"
-
-# game/story/Chapter_1.rpy:748
-translate Tchinese chapter_1_153760b7:
-
-    # K question "What do you mean this isn’t a job for the police? They’re harassing people on the streets!"
-    K question "你說這不是警察的工作是什麼意思？他們在光天化日之下擾民欸！"
-
-# game/story/Chapter_1.rpy:752
-translate Tchinese chapter_1_57f6120a:
-
-    # K sad "N-no they’re not hurting anyone… "
-    K sad "不，他們沒有傷人……"
-
-# game/story/Chapter_1.rpy:756
-translate Tchinese chapter_1_0570b795:
-
-    # K shocked "So what? You’re just going to leave them be? Then what’s the point of having you guys? Where am I supposed to go—"
-    K shocked "所以呢？就這樣放過他們？那要你們有何用？我該找誰──"
-
-# game/story/Chapter_1.rpy:762
-translate Tchinese chapter_1_d666f19b:
-
-    # K frustration "We need help, are you just going to let these weirdos run the streets?"
-    K frustration "難道你打算讓那些怪人在街上橫行？在我們需要幫助的時候？"
-
-# game/story/Chapter_1.rpy:768
-translate Tchinese chapter_1_721ed9b8:
-
-    # K serious "What did you just call me Miss? "
-    K serious "你剛才叫我女士！？"
-
-# game/story/Chapter_1.rpy:770
-translate Tchinese chapter_1_175347a0:
-
-    # extend frustration "That’s it, I’m obviously getting nowhere with this. Goodbye."
-    extend frustration "那就這樣吧，我們沒什麼好談的了，再見。"
-
-# game/story/Chapter_1.rpy:780
-translate Tchinese chapter_1_3e549801:
-
-    # K serious "Can we maybe just eat and move on?"
-    K serious "算了，我們還是吃飯吧。"
-
-# game/story/Chapter_1.rpy:1084
-translate Tchinese chapter_1_04121de6:
-
-    # K @ question "Man, how do you watch those videos and laugh every time?"
-    K @ question "天吶，這種影片你都能看得津津有味？"
-
-# game/story/Chapter_1.rpy:1096
-translate Tchinese chapter_1_6b605026:
-
-    # K "No thank you. I’ve got to head out for a bit and deal with something at the bank. You mind watching the store while I’m gone?" (cb_no_talk=True)
-    K "免了免了，我得去銀行辦點事，你幫我看一下店？" (cb_no_talk=True)
-
-# game/story/Chapter_1.rpy:2276
-translate Tchinese chapter_1_79c5a3b0:
-
-    # K shocked "What the—"
-    K shocked "我靠"
-
-# game/story/Chapter_1.rpy:2287
-translate Tchinese chapter_1_f2006ba8:
-
-    # K serious "For real? Are you alright?"
-    K serious "真的？你沒受傷吧？"
-
-# game/story/Chapter_1.rpy:2293
-translate Tchinese chapter_1_07838b67:
-
-    # K sad "Well, HQ should probably just be glad the whole store didn’t come down in that case. But they’ll probably want the store recording as proof of what happened. Come on, let’s make sure our asses are secured."
-    K sad "真是不幸中的萬幸，不過總部可能需要監控作為證據。來吧，為了我倆的飯碗，再努把力。"
-
-# game/story/Chapter_1.rpy:2320
-translate Tchinese chapter_1_09553d61:
-
-    # K neutral talk "Well, you’re handling it better than that customer."
-    K neutral talk "你比那個顧客冷靜多了嘛。"
-
-# game/story/Chapter_1.rpy:2328
-translate Tchinese chapter_1_df00a34d:
-
-    # K serious "There’s nothing else left on here."
-    K serious "後面就什麼都沒有了。"
-
-# game/story/Chapter_1.rpy:2351
-translate Tchinese chapter_1_9f22d653:
-
-    # K neutral talk "Guess there isn’t much to eat in the trash anymore."
-    K neutral talk "看來垃圾桶已經滿足不了它們了。"
-
-# game/story/Chapter_1.rpy:2367
-translate Tchinese chapter_1_ed53af31:
-
-    # K neutral talk "Sweet, I’ll help you out with restocking the place when I’m done."
-    K neutral talk "加油，等寫完我就來幫你。"
-
-# game/story/Chapter_1.rpy:3041
-translate Tchinese ch1_cleanup_41d7a3c9:
-
-    # K talk neutral "You think so?"
-    K talk neutral "真的嗎？"
-
-# game/story/Chapter_1.rpy:3051
-translate Tchinese ch1_cleanup_833609a4:
-
-    # K serious "Well, my parents are one thing. They still insist I use that degree of mine. Besides, what I like is watching people enjoy my food."
-    K serious "一方面是因為我的父母，他們堅持要我從事相關專業的工作。另一方面，我喜歡的其實不是烹飪，而是大家對我的料理大快朵頤的模樣。"
-
-# game/story/Chapter_1.rpy:3055
-translate Tchinese ch1_cleanup_54ef1392:
-
-    # K shocked "What? No way!"
-    K shocked "什麼？開玩笑的吧？！"
-
-# game/story/Chapter_1.rpy:3061
-translate Tchinese ch1_cleanup_b334c118:
-
-    # K question "Oh right, you mind if I continue the show on the TV while we eat?"
-    K question "噢，對了，你不介意我邊吃邊看電視吧？"
-
-# game/story/Chapter_1.rpy:3067
-translate Tchinese ch1_cleanup_27528b54:
-
-    # K neutral talk "Nah, I was just rewatching the series before you arrived. I think I’m at episode three."
-    K neutral talk "不是哦，你來的那個時候我剛看到第三集。"
-
-# game/story/Chapter_1.rpy:3071
-translate Tchinese ch1_cleanup_8251866c:
-
-    # K @ frustration "Shh, no spoilers."
-    K @ frustration "噓，不准劇透。"
-
-# game/story/Chapter_1.rpy:3170
-translate Tchinese ch1_cleanup_ba5e1039:
-
-    # K shocked "Oh, nooo!" (what_prefix="{bt}\"", what_suffix="\"{/bt}")
-    K shocked "不────！" (what_prefix="{bt}\"", what_suffix="\"{/bt}")
-
-# game/story/Chapter_1.rpy:3186
-translate Tchinese ch1_cleanup_1da0e66c:
-
-    # K sad "My dreams to be with my beloved Senpai are forever dashed." (what_prefix="{bt}\"", what_suffix="\"{/bt}")
-    K sad "我不能繼續陪在……前輩身邊了。" (what_prefix="{bt}\"", what_suffix="\"{/bt}")
-
-# game/story/Chapter_1.rpy:3191
-translate Tchinese ch1_cleanup_d052a17a:
-
-    # K neutral talk "SEENNNNPAII!" (what_prefix="{bt=10}\"", what_suffix="\"{/bt}")
-    K neutral talk "前輩──────！" (what_prefix="{bt=10}\"", what_suffix="\"{/bt}")
-
-# game/story/Chapter_1.rpy:3201
-translate Tchinese ch1_cleanup_31ce1141:
-
-    # K @ question "You think they’ll ever let Mizuki be with senpai?"
-    K @ question "你覺得他們會讓美月和前輩修成正果嗎？"
-
-# game/story/Chapter_1.rpy:3205
-translate Tchinese ch1_cleanup_9b3adf65:
-
-    # K talk neutral "But if you played the visual novel that the anime is based on, Mizuki has a chance to not end up with senpai."
-    K talk neutral "可是，原作中也有二人各奔東西的壞結局。"
-
-# game/story/Chapter_1.rpy:3209
-translate Tchinese ch1_cleanup_a55e8388:
-
-    # K talk neutral "For reals, you got to try it. It’s a classic."
-    K talk neutral "真的，你去玩玩就知道了，這可是經典之作。"
-
-# game/story/Chapter_1.rpy:3214
-translate Tchinese ch1_cleanup_fb231e6d:
-
-    # K talk neutral "Nah, just rewatching the series for fun. I think I paused at episode three."
-    K talk neutral "不是哦，我在重溫呢，記得剛看到第三集。"
-
-# game/story/Chapter_1.rpy:3222
-translate Tchinese ch1_cleanup_9693d471:
-
-    # K serious "Nothing much, they sent an investigator, asked a bunch of questions, interviewed other people around the shop, and checked the store video."
-    K serious "沒什麼，總部派了名調查員過來，問了一大堆問題，在周圍採訪了一圈，還看了半天的監控。"
-
-# game/story/Chapter_1.rpy:3230
-translate Tchinese ch1_cleanup_6dd5da56:
-
-    # K talk wink "Don’t worry, I told him I got your written testimony and everything he needed to know was already on the video. I gave him a little wink and a nice back rub and he was all good to go."
-    K talk wink "放心，我告訴他我拿到了你的書面證詞，事請經過無非就是監控播的那樣。我給他使了個眼色，外加一套舒服的背部按摩，把他打發了。"
-
-# game/story/Chapter_1.rpy:3234
-translate Tchinese ch1_cleanup_28209c8b:
-
-    # K talk neutral "No problem, you’d do the same for me."
-    K talk neutral "別見外，我倆誰跟誰啊。"
-
-# game/story/Chapter_1.rpy:3238
-translate Tchinese ch1_cleanup_84e44ca1:
-
-    # K talk neutral "Probably reopen by tomorrow. They’re just restocking the place and replacing the security cameras. "
-    K talk neutral "預計明天吧。他們剛補完貨，還有更換了監視錄影機。"
-
-# game/story/Chapter_1.rpy:3239
-translate Tchinese ch1_cleanup_86c5e87b:
-
-    # extend frustration "I asked them to upgrade our staff room, but they said it was {i}\"unnecessary\"{i}."
-    extend frustration "我讓他們順便升級一下我們的員工室，但他們居然說{i}‘沒必要’{i}。"
-
-# game/story/Chapter_1.rpy:3243
-translate Tchinese ch1_cleanup_06ad76f3:
-
-    # K talk neutral "It can't be helped, HQ wants us back in business as soon as possible."
-    K talk neutral "沒辦法，總部希望我們盡快恢復營業。"
-
-# game/story/Chapter_1.rpy:3256
-translate Tchinese ch1_cleanup_c3a721b4:
-
-    # K talk neutral "Hmm…"
-    K talk neutral "嗯……"
-
-# game/story/Chapter_1.rpy:3265
-translate Tchinese ch1_cleanup_11f82e45:
-
-    # K talk neutral "Sweetie, you’re too lost in your own head. I have faith that you’ll do the right thing, no matter what. That's why I believe you’ll do fine."
-    K talk neutral "不要迷茫，親愛的。我之所以相信你，就是因為無論何時，你總會做對的事。"
-
-# game/story/Chapter_1.rpy:3269
-translate Tchinese ch1_cleanup_368cf65c:
-
-    # K talk neutral "I mean, I gambled on you the night I took you in and helped nurse you back to health."
-    K talk neutral "早在收留你的那個夜晚，我就把賭注押在你身上了。"
-
-# game/story/Chapter_1.rpy:3275
-translate Tchinese ch1_cleanup_4183812d:
-
-    # K talk neutral "{i}Former{/i} hunk."
-    K talk neutral "{i}前{/i}壯漢。"
-
-# game/story/Chapter_1.rpy:3279
-translate Tchinese ch1_cleanup_d6ce1694:
-
-    # K talk neutral "Never heard you complain before."
-    K talk neutral "也沒見你少吃啊。"
-
-# game/story/Chapter_1.rpy:3367
-translate Tchinese ch1_cleanup_b29df1d2:
-
-    # K neutral talk "Well, I also called in an exorcist. So I figured, eh, things would be settled before game night."
-    K neutral talk "這個嘛，我還請了一位驅魔師。所以，呃，我想不會有事的。"
-
-# game/story/Chapter_1.rpy:3369
-translate Tchinese ch1_cleanup_f7d6e650:
-
-    # extend serious " The guy should have already been and gone by now."
-    extend serious "他應該在來到路上了。"
-
-# game/story/Chapter_1.rpy:3373
-translate Tchinese ch1_cleanup_e8adca6f:
-
-    # K neutral talk "Yeah, a guy called Morris. I got his flier while shopping for groceries last night."
-    K neutral talk "是啊，他叫Morris，我昨晚買菜時收到了他的傳單。"
-
-# game/story/Chapter_1.rpy:3654
-translate Tchinese ch1_cleanup_ab2f8022:
-
-    # K "Mr. Morris, this is my friend I told you about." (cb_no_talk=True)
-    K "Morris先生，這就是我提過的那個朋友。" (cb_no_talk=True)
-
-# game/story/Chapter_1.rpy:3681
-translate Tchinese ch1_cleanup_cda17e75:
-
-    # K serious "Thank goodness. What do we do?"
-    K serious "啊，謝天謝地，那我們該怎麼辦呢？"
-
-# game/story/Chapter_1.rpy:3693
-translate Tchinese ch1_cleanup_eb570cce:
-
-    # K shocked "That’s what a possessed person would say."
-    K shocked "小偷會說自己偷了東西嗎？"
-
-# game/story/Chapter_1.rpy:3713
-translate Tchinese ch1_cleanup_f3676cb3:
-
-    # K "Good luck, [name]. Please don’t be possessed." (cb_no_talk=True)
-    K "祝你好運，[name]，千萬別輸啊" (cb_no_talk=True)
-
-# game/story/Chapter_1.rpy:3844
-translate Tchinese ch1_cleanup_df18496a:
-
-    # K shocked "[name]! What happened to you?"
-    K shocked "[name]！你怎麼了？"
-
-# game/story/Chapter_1.rpy:3854
-translate Tchinese ch1_cleanup_4e5b21e5:
-
-    # K question "A broom?"
-    K question "一把掃帚？"
-
-# game/story/Chapter_1.rpy:3984
-translate Tchinese ch1_cleanup_0f5748db:
-
-    # K "What do we have to do?" (cb_no_talk=True)
-    K "我們還要做什麼？" (cb_no_talk=True)
-
-# game/story/Chapter_1.rpy:4075
-translate Tchinese ch1_cleanup_e28b65ef:
-
-    # K "[name], look at how nimble my limbs are." (cb_no_talk=True)
-    K "[name]，快看我靈活的四肢。" (cb_no_talk=True)
-
-# game/story/Chapter_1.rpy:4101
-translate Tchinese ch1_cleanup_9228e037:
-
-    # K "Let me get your payment." (cb_no_talk=True)
-    K "我來結帳。" (cb_no_talk=True)
-
-# game/story/Chapter_1.rpy:4180
-translate Tchinese ch1_cleanup_55ec41f5:
-
-    # K shocked "A family of exorcists exists in this town?"
-    K shocked "這個鎮還有驅魔世家的嗎？"
-
-# game/story/Chapter_1.rpy:4336
-translate Tchinese ch1_cleanup_28e53378:
-
-    # K "Penny for your thoughts." (cb_no_talk=True)
-    K "在想什麼？" (cb_no_talk=True)
-
-# game/story/Chapter_1.rpy:4377
-translate Tchinese ch1_cleanup_b6921c51:
-
-    # K "Don’t worry you’ll find out soon. Then maybe we can travel to that tree one day." (cb_no_talk=True)
-    K "別擔心，你很快就會知道了。也許我們可以找個時間，親自過去看看那棵樹。" (cb_no_talk=True)
-
-# game/story/Chapter_1.rpy:4387
-translate Tchinese ch1_cleanup_fa833b70:
-
-    # K "Hey, [name]." (cb_no_talk=True)
-    K "那個，[name]。" (cb_no_talk=True)
-# TODO: Translation updated at 2022-12-08 00:08
-
-# game/story/Chapter_1.rpy:251
-translate Tchinese chapter_1_d550ccfc:
-
-    # K talk "Kept you waiting, huh?"
-    K talk "久等了嗎？"
-
-# game/story/Chapter_1.rpy:257
-translate Tchinese chapter_1_7b2648a7:
-
-    # K talk "The usual spot?"
-    K talk "老地方？"
-
-# game/story/Chapter_1.rpy:897
-translate Tchinese chapter_1_738fd397:
-
-    # Fort annoyed "Get—"
-    Fort annoyed "振──"
-
-# game/story/Chapter_1.rpy:905
-translate Tchinese chapter_1_125725fd:
-
-    # Fort laugh "{sc}{b}Together!{/b}{/sc}"
-    Fort laugh "{sc}{b}振作起來！{/b}{/sc}"
-
-# game/story/Chapter_1.rpy:907
-translate Tchinese chapter_1_34c26b2d:
-
-    # Fort pose1 annoyed "Come on, if you’re down, the staff won’t work. Got to keep the energy up. Just get your coffee and get back onto the torture floor." with hpunch
-    Fort pose1 annoyed "加油啊，你不以身作則怎麼行！快喝杯咖啡提提神，拷問區還需要你。" with hpunch
-
-# game/story/Chapter_1.rpy:937
-translate Tchinese chapter_1_2260621a:
-
-    # Fort neutral1 "Humph, this fridge is full. I should probably throw some stuff out like this bottle of soda that nobody ever drinks."
-    Fort neutral1 "哼哼，冰箱滿了呢，看來只能扔點東西了，比如這瓶沒人愛的蘇打水。"
-
-# game/story/Chapter_1.rpy:950
-translate Tchinese chapter_1_ab93d831:
-
-    # Amar angry "Fahrenheit!"
-    Amar angry "靠夭！"
-
-# game/story/Chapter_1.rpy:977
-translate Tchinese chapter_1_427201ae:
-
-    # Amar only_hand1 "Can’t you see who’s name is on the bottle?"
-    Amar only_hand1 "你沒看見瓶子上有名字嗎？"
-
-# game/story/Chapter_1.rpy:979
-translate Tchinese chapter_1_206bc1cf:
-
-    # Fort confused "Woah, woah. Calm down there, kitty. I was just joking."
-    Fort confused "哇哦。別急啊，小貓咪，我就是開個玩笑。"
-
-# game/story/Chapter_1.rpy:983
-translate Tchinese chapter_1_ba571bb8:
-
-    # Fort neutral1 "What were you doing down there? Looking for inspiration for the new projects Vendrake has got you on?"
-    Fort neutral1 "你在這裡幹什麼？為Vendrake交給你的新案找靈感嗎？"
-
-# game/story/Chapter_1.rpy:989
-translate Tchinese chapter_1_f2f0a30e:
-
-    # Fort confused "Then how did you get here?"
-    Fort confused "那你是怎麼甩開他們的？"
-
-# game/story/Chapter_1.rpy:991
-translate Tchinese chapter_1_3ba71097:
-
-    # Amar neutral "Easy, I painted my face on a sack of bolts and played a tape of me knocking metal."
-    Amar neutral "很簡單，我把我的帥臉畫在了一袋螺栓上，再配合播放錄有打鐵聲音的磁帶。"
-
-# game/story/Chapter_1.rpy:993
-translate Tchinese chapter_1_644e87f9:
-
-    # Fort shocked "You’re kidding."
-    Fort shocked "你開玩笑的吧？"
-
-# game/story/Chapter_1.rpy:997
-translate Tchinese chapter_1_af0d45ac:
-
-    # Fort sad "Oh. Well, you better get back soon. They’ll cause trouble again if they find out you’re missing."
-    Fort sad "咳，總之，你還是快回去吧。要是被那些傢伙發現，肯定又要大亂了。"
-
-# game/story/Chapter_1.rpy:999
-translate Tchinese chapter_1_a5897c80:
-
-    # Amar hand2_3 "Not until I come up with some new idea to take Vendrake down."
-    Amar hand2_3 "不可能，除非我想到怎麼扳倒Vendrake。"
-
-# game/story/Chapter_1.rpy:1005
-translate Tchinese chapter_1_4ec29510:
-
-    # Fort sad "You seen the coffee?"
-    Fort sad "你看見咖啡了嗎？"
-
-# game/story/Chapter_1.rpy:1020
-translate Tchinese chapter_1_6e885cb0:
-
-    # "He pours the instant mix into the machine and turns it on."
-    "他往機器中倒入咖啡粉，然後啟動。"
-
-# game/story/Chapter_1.rpy:1035
-translate Tchinese chapter_1_a1da8829:
-
-    # Amar angry "Oh no, don’t tell me you’re taking his side."
-    Amar angry "喔不，別告訴我你站在他那邊。"
-
-# game/story/Chapter_1.rpy:1037
-translate Tchinese chapter_1_6e4b2ca4:
-
-    # Fort shocked "That's not what I mean. You didn’t forget what happened last time you tried to launch your “rebellion” against Vendrake, did you?"
-    Fort shocked "我不是這個意思。你沒有忘記上次，你試圖反抗Vendrake時發生的事吧？"
-
-# game/story/Chapter_1.rpy:1043
-translate Tchinese chapter_1_20593091:
-
-    # Fort sad "Then why are you still doing this?"
-    Fort sad "那你為什麼就是不肯放棄呢？"
-
-# game/story/Chapter_1.rpy:1045
-translate Tchinese chapter_1_dec6d1f8:
-
-    # Amar only_hand1 "Because I’m doing what’s right! [name] is out there and he’s the Demon Lord. Not Vendrake. We need to fight back or he’ll turn this whole company to a new hell for demons. You’re supposed to be helping me!"
-    Amar only_hand1 "我自認沒有做錯！[name]還活著，他才是真正的魔王！我們必須反抗，否則他會把整間公司變成惡魔的地獄！你應該幫我才是！"
-
-# game/story/Chapter_1.rpy:1062
-translate Tchinese chapter_1_ef5836d7:
-
-    # Fort sad "{sc=2}I… I can’t. I’m sorry, I can’t...{/sc}"
-    Fort sad "{sc=2}我……我不能……幫你，對不起……{/sc}"
-
-# game/story/Chapter_1.rpy:1393
-translate Tchinese chapter_1_46bcc734:
-
-    # "The golden retriever growls and conjures up three more feathers."
-    "金毛低吼著，又凝聚出三根羽毛。"
-
-# game/story/Chapter_1.rpy:1498
-translate Tchinese chapter_1_345b0f68:
-
-    # "The golden retriever ceases his attacks."
-    "金毛停止了攻擊。"
-
-# game/story/Chapter_1.rpy:1706
-translate Tchinese chapter_1_439a6203:
-
-    # "The boar seals the jar and turns to look into your dazed eyes."
-    "野豬封好罐子，轉頭對上你迷茫的眼睛。"
-
-# game/story/Chapter_1.rpy:2241
-translate Tchinese chapter_1_6e5b9656:
-
-    # L -left talk neutral "Find me at the Lazadus Warehouse. [name], I know you need help, that's why I’m here. Just trust me and come find me so we can talk this through."
-    L -left talk neutral "去Lazadus倉庫找我，[name]。我知道你需要幫助，這也是我此行的目的。相信我，我們可以好好談談。"
-
-# game/story/Chapter_1.rpy:2410
-translate Tchinese chapter_1_1ec962d1:
-
-    # K "{i}[name], da shop's closed for three days to fix all the damage. Want 2 come 2 my place and do DDXIV all night?{i}"
-    K "{i}[name]，我們店要關門維修三天，要不要來我家通宵打DDXIV？{i}"

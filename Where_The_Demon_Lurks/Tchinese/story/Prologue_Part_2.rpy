@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2021-10-31 11:05
+# TODO: Translation updated at 2023-02-15 21:54
 
 # game/story/Prologue_Part_2.rpy:9
 translate Tchinese prologue_part_2_42cfc623:
@@ -157,18 +157,18 @@ translate Tchinese prologue_part_2_9f084f02:
     p "這又沒有陌生人，Amare，不能跳過這個環節嗎？"
 
 # game/story/Prologue_Part_2.rpy:106
-translate Tchinese prologue_part_2_8073def2:
+translate Tchinese prologue_part_2_acb94b06:
 
-    # Amar "Never, my Lord! We have to follow procedure, 70%% of all successful meetings always start with a proper attendance call."
-    Amar "萬萬不可，殿下！我們必須嚴格遵循程序，百分之七十的成功會議都是以合乎規範的點名開始的。"
+    # Amar only_hand1 "Never, my Lord! We have to follow procedure, 70%% of all successful meetings always start with a proper attendance call."
+    Amar only_hand1 "萬萬不可，殿下！我們必須嚴格遵循程序，百分之七十的成功會議都是以合乎規範的點名開始的。"
 
 # game/story/Prologue_Part_2.rpy:108
-translate Tchinese prologue_part_2_931e5c55:
+translate Tchinese prologue_part_2_6c0a7078:
 
-    # Amar "Additionally, we cannot discount the psychological effect of an attendance call to a demon's attention. It releases —"
-    Amar "此外，我們不能忽視點名對惡魔注意力的心理作用，這會紓解──"
+    # Amar hand2_3 "Additionally, we cannot discount the psychological effect of an attendance call to a demon's attention. It releases —"
+    Amar hand2_3 "此外，我們不能忽視點名對惡魔注意力的心理作用，這會紓解──"
 
-# game/story/Prologue_Part_2.rpy:110
+# game/story/Prologue_Part_2.rpy:125
 translate Tchinese prologue_part_2_576420ac:
 
     # p @ annoyed "Alright! Just get on with it."
@@ -193,12 +193,12 @@ translate Tchinese prologue_part_2_d0262ba8:
     Amar "拷問將軍，Fortis？"
 
 # game/story/Prologue_Part_2.rpy:130
-translate Tchinese prologue_part_2_aa6e62b3:
+translate Tchinese prologue_part_2_85794198:
 
-    # Fort "HERE!"
-    Fort "{b}到！{/b}"
+    # Fort laugh "HERE!"
+    Fort laugh "{b}到！{/b}"
 
-# game/story/Prologue_Part_2.rpy:132
+# game/story/Prologue_Part_2.rpy:131
 translate Tchinese prologue_part_2_caac80a7:
 
     # "You plug your ears."
@@ -211,30 +211,30 @@ translate Tchinese prologue_part_2_d78be4b8:
     Amar "Fortis，你能不能不要每次都這麼大聲？"
 
 # game/story/Prologue_Part_2.rpy:136
-translate Tchinese prologue_part_2_6ed4fd82:
+translate Tchinese prologue_part_2_511608bc:
 
-    # Fort "The loudest is the strongest at roll call!"
-    Fort "嗓門是實力的一部分！"
+    # Fort @ pose3 "The loudest is the strongest at roll call!"
+    Fort @ pose3 "嗓門是實力的一部分！"
 
-# game/story/Prologue_Part_2.rpy:143
+# game/story/Prologue_Part_2.rpy:135
 translate Tchinese prologue_part_2_a5406b4b:
 
     # Nox "There is also strength in silence."
     Nox "沉默也是一種力量。"
 
 # game/story/Prologue_Part_2.rpy:145
-translate Tchinese prologue_part_2_3bf24036:
+translate Tchinese prologue_part_2_36dcf159:
 
-    # Fort "You calling me stupid or you telling me to shut up?"
-    Fort "你是在罵我蠢，還是想叫我閉嘴？"
+    # Fort confused "You calling me stupid or you telling me to shut up?"
+    Fort confused "你是在罵我蠢，還是想叫我閉嘴？"
 
-# game/story/Prologue_Part_2.rpy:147
-translate Tchinese prologue_part_2_3f8f752f:
+# game/story/Prologue_Part_2.rpy:137
+translate Tchinese prologue_part_2_0a0254b0:
 
-    # Nox "..."
-    Nox "..."
+    # Nox "..." (cb_no_talk=True)
+    Nox "……" (cb_no_talk=True)
 
-# game/story/Prologue_Part_2.rpy:149
+# game/story/Prologue_Part_2.rpy:161
 translate Tchinese prologue_part_2_9f2957a4:
 
     # Fort "No really, which is it?"
@@ -259,16 +259,16 @@ translate Tchinese prologue_part_2_a2263aca:
     Ven "在席，一如既往。"
 
 # game/story/Prologue_Part_2.rpy:171
-translate Tchinese prologue_part_2_6ace1508:
+translate Tchinese prologue_part_2_4c5a2d7b:
 
-    # Amar "Last, but not least: Lord [name], Ruler of the Underworld and Judge of All Mortal Souls?"
-    Amar "最後但同樣重要的，冥界的統治者與凡人靈魂的審判者，[name]殿下。"
+    # Amar talk "Last, but not least: Lord [name], Ruler of the Underworld and Judge of All Mortal Souls?"
+    Amar talk "最後但同樣重要的，冥界的統治者與凡人靈魂的審判者，[name]殿下。"
 
-# game/story/Prologue_Part_2.rpy:173
-translate Tchinese prologue_part_2_0562a7fb:
+# game/story/Prologue_Part_2.rpy:163
+translate Tchinese prologue_part_2_872c5c2b:
 
-    # p "Here."
-    p "在這。"
+    # p talk "Here."
+    p talk "在這。"
 
 # game/story/Prologue_Part_2.rpy:175
 translate Tchinese prologue_part_2_ff10e3f0:
@@ -289,12 +289,18 @@ translate Tchinese prologue_part_2_168f76ed:
     "記錄持續了整整半個小時。"
 
 # game/story/Prologue_Part_2.rpy:185
-translate Tchinese prologue_part_2_2d1fb36f:
+translate Tchinese prologue_part_2_a71c1058:
 
-    # "Amare lists the decisions made last time — such as adding more lava to the lava pit so that souls attempting to cross them get burnt easier, Amare’s request for new tools for his workshop, and the rejection of Nox’s request for a torture massage chair."
-    "Amare回顧了之前的提案，如在熔岩坑中加入更多岩漿，以燒死試圖穿越那裡的靈魂，Amare要求為他的工坊增添新工具、以及被駁回了的Nox有關折磨按摩椅的提議。"
+    # "Amare lists the decisions made last time."
+    "Amare回顧了之前的提案。"
 
-# game/story/Prologue_Part_2.rpy:187
+# game/story/Prologue_Part_2.rpy:177
+translate Tchinese prologue_part_2_c5dcac1b:
+
+    # "The list included adding more lava to the lava pit so that souls attempting to cross them get burnt easier, Amare’s request for new tools for his workshop, and the rejection of Nox’s request for a torture massage chair."
+    "提案包含了在熔岩坑中加入更多岩漿，以燒死試圖穿越那裡的靈魂，Amare要求為他的工坊增添新工具、以及被駁回了的Nox有關折磨按摩椅的提議。"
+
+# game/story/Prologue_Part_2.rpy:188
 translate Tchinese prologue_part_2_4a1991a3:
 
     # "Every general is listening intently to what Amare is reading."
@@ -307,12 +313,12 @@ translate Tchinese prologue_part_2_f49188b0:
     Amar "以上。有什麼異議嗎？"
 
 # game/story/Prologue_Part_2.rpy:197
-translate Tchinese prologue_part_2_adcd5010:
+translate Tchinese prologue_part_2_961f244e:
 
-    # Fort "{sc=3}{b}I DO!{/b}{/sc}"
-    Fort "{sc=3}{b}沒有！{/b}{/sc}"
+    # Fort @ laugh "{sc=3}{b}I DO!{/b}{/sc}"
+    Fort @ laugh "{sc=3}{b}沒有！{/b}{/sc}"
 
-# game/story/Prologue_Part_2.rpy:205
+# game/story/Prologue_Part_2.rpy:217
 translate Tchinese prologue_part_2_dfbc8d27:
 
     # Nox "I still want to revisit my massage chair proposal, but I accept."
@@ -349,12 +355,12 @@ translate Tchinese prologue_part_2_2f7af86b:
     p "別擔心，再把它們逮回來就是了。"
 
 # game/story/Prologue_Part_2.rpy:229
-translate Tchinese prologue_part_2_f173b4b3:
+translate Tchinese prologue_part_2_f15cee84:
 
-    # Fort "{sc=3}I MADE THOSE OUT-OF-SHAPE HALFWITS SQUAT UNTIL THEIR LEGS TURNED {para}TO ASHES!{/sc}"
-    Fort "{sc=3}{b}我已經罰那幾個不成器的蠢貨深蹲，直到他們的腿化為{para}粉末為止！{/b}{/sc}"
+    # Fort @ pose4 "{sc=3}I MADE THOSE OUT-OF-SHAPE HALFWITS SQUAT UNTIL THEIR LEGS TURNED {para}TO ASHES!{/sc}"
+    Fort @ pose4 "{sc=3}我已經罰那幾個不成器的蠢貨深蹲，直到他們的腿化為{para}粉末為止！{/sc}"
 
-# game/story/Prologue_Part_2.rpy:231
+# game/story/Prologue_Part_2.rpy:278
 translate Tchinese prologue_part_2_2e32d088:
 
     # p @ confusedleft "If Fortis has already dealt with the issue, why are we discussing this today?"
@@ -427,18 +433,18 @@ translate Tchinese prologue_part_2_2a97ff4a:
     "惡魔們面面相覷，然後一齊看向你。"
 
 # game/story/Prologue_Part_2.rpy:280
-translate Tchinese prologue_part_2_e93f694a:
+translate Tchinese prologue_part_2_1b6b7bec:
 
-    # Fort "Boss, it’s not that you can’t go drinking. But it might be best to avoid doing so during working hours?"
-    Fort "老大，不是不讓您喝酒，但最好別挑工作時間？"
+    # Fort shocked "Boss, it’s not that you can’t go drinking. But it might be best to avoid doing so during working hours?"
+    Fort shocked "老大，不是禁止您喝酒，但最好別挑在工作時間喝？"
 
-# game/story/Prologue_Part_2.rpy:282
-translate Tchinese prologue_part_2_8dc311f6:
+# game/story/Prologue_Part_2.rpy:280
+translate Tchinese prologue_part_2_98431a91:
 
-    # Fort "You set an example, whether you realise it or not."
-    Fort "無論您有沒有自覺，您都在以身作則。"
+    # Fort confused "You set an example, whether you realise it or not."
+    Fort confused "無論您有沒有自覺，您都在以身作則。"
 
-# game/story/Prologue_Part_2.rpy:284
+# game/story/Prologue_Part_2.rpy:319
 translate Tchinese prologue_part_2_cc71e937:
 
     # p @ annoyed "What, there’s no way anyone really cares."
@@ -487,12 +493,12 @@ translate Tchinese prologue_part_2_a8d2db4d:
     Amar "是啊，我可以準備一台檢查大腦的設備，並在短時間內從根本上消除您的焦慮。"
 
 # game/story/Prologue_Part_2.rpy:338
-translate Tchinese prologue_part_2_3f8f752f_1:
+translate Tchinese prologue_part_2_0a0254b0_1:
 
-    # Nox "..."
-    Nox "……"
+    # Nox "..." (cb_no_talk=True)
+    Nox "……" (cb_no_talk=True)
 
-# game/story/Prologue_Part_2.rpy:340
+# game/story/Prologue_Part_2.rpy:346
 translate Tchinese prologue_part_2_119ea248:
 
     # p sad "Can we please stop talking about my issues?"
@@ -523,18 +529,18 @@ translate Tchinese prologue_part_2_54ef7f78:
     p angry "Amare！把我的話記下來。"
 
 # game/story/Prologue_Part_2.rpy:365
-translate Tchinese prologue_part_2_4061d612:
+translate Tchinese prologue_part_2_d76c3c51:
 
-    # p "Vendrake" with vpunch
-    p "Vendrake" with vpunch
+    # p "Vendrake! " with vpunch
+    p "Vendrake！" with vpunch
 
-# game/story/Prologue_Part_2.rpy:375
-translate Tchinese prologue_part_2_7baef610:
+# game/story/Prologue_Part_2.rpy:356
+translate Tchinese prologue_part_2_c8095401:
 
-    # extend ", I’m suspending your role as second-in-command until you learn to be less of a thorn in my side!" with vpunch
-    extend "，我要無限期暫停你副官的職務，直到你學會別做別人的眼中釘！" with vpunch
+    # extend "I’m suspending your role as second-in-command until you learn to be less of a thorn in my side!" with vpunch
+    extend "我要無限期暫停你副官的職務，直到你學會別做別人的眼中釘！" with vpunch
 
-# game/story/Prologue_Part_2.rpy:393
+# game/story/Prologue_Part_2.rpy:912
 translate Tchinese prologue_part_2_6ab6b1b2:
 
     # "Your sudden outburst leaves everyone with their mouths hanging, especially Vendrake."
@@ -1057,12 +1063,12 @@ translate Tchinese prologue_part_2_321dd47b:
     "你轉過身，看到Fortis和Amare並排站在一起。"
 
 # game/story/Prologue_Part_2.rpy:893
-translate Tchinese prologue_part_2_df648f61:
+translate Tchinese prologue_part_2_36fa5887:
 
-    # Amar "We were concerned about you, Lord [name]."
-    Amar "我們很擔心您，[name]殿下。"
+    # Amar only_hand1 "We were concerned about you, Lord [name]."
+    Amar only_hand1 "我們很擔心您，[name]殿下。"
 
-# game/story/Prologue_Part_2.rpy:895
+# game/story/Prologue_Part_2.rpy:918
 translate Tchinese prologue_part_2_27997213:
 
     # "Overwhelmed by tiredness, you cannot even fake a smile."
@@ -1075,42 +1081,42 @@ translate Tchinese prologue_part_2_67fcf7b5:
     p "對不起，讓你們擔心了。我只是出來看看風景。"
 
 # game/story/Prologue_Part_2.rpy:899
-translate Tchinese prologue_part_2_e9ab606d:
+translate Tchinese prologue_part_2_8d4e043f:
 
-    # Fort "Oh no, you can’t say that after the scene you pulled back in the meeting room."
-    Fort "別這樣，會議室裡大家都看到了。"
+    # Fort neutral2 "Oh no, you can’t say that after the scene you pulled back in the meeting room."
+    Fort neutral2 "別這樣，會議室裡大家都看到了。"
 
-# game/story/Prologue_Part_2.rpy:901
+# game/story/Prologue_Part_2.rpy:922
 translate Tchinese prologue_part_2_b8e793a6:
 
     # Amar "I say this for myself, but Vendrake deserved it. That demon is always going on and on about regulations and messing with my creations."
     Amar "要我說，Vendrake活該。那個惡魔總是沒完沒了地念叨什麼規章制度，妨礙我的創作。"
 
 # game/story/Prologue_Part_2.rpy:903
-translate Tchinese prologue_part_2_cc2a015b:
+translate Tchinese prologue_part_2_f37f0ed3:
 
-    # Fort "Amare!"
-    Fort "Amare！"
+    # Fort annoyed "Amare!"
+    Fort annoyed "Amare！"
 
-# game/story/Prologue_Part_2.rpy:909
+# game/story/Prologue_Part_2.rpy:930
 translate Tchinese prologue_part_2_6c405e56:
 
     # "Fortis approaches you and puts a hand on your shoulder."
     "Fortis走上前，把手放在你的肩膀上。"
 
 # game/story/Prologue_Part_2.rpy:911
-translate Tchinese prologue_part_2_8b17d724:
+translate Tchinese prologue_part_2_505a1369:
 
-    # Fort "Where’s your fire, boy? Where’s the demon that I trained when he was just in diapers?"
-    Fort "你的激情在哪裡，孩子？那個剛穿上尿布就跟我一起訓練的惡魔跑哪裡去了？"
+    # Fort confused "Where’s your fire, boy? Where’s the demon that I trained when he was just in diapers?"
+    Fort confused "你的激情在哪裡，孩子？那個剛穿上尿布就跟我一起訓練的惡魔跑哪裡去了？"
 
-# game/story/Prologue_Part_2.rpy:913
-translate Tchinese prologue_part_2_6e2b6484:
+# game/story/Prologue_Part_2.rpy:932
+translate Tchinese prologue_part_2_22909b3d:
 
-    # Fort "Where’s your fight back?"
-    Fort "你的還擊呢？"
+    # Fort @ pose2 "Where’s your fight back?"
+    Fort @ pose2 "你的還擊呢？"
 
-# game/story/Prologue_Part_2.rpy:915
+# game/story/Prologue_Part_2.rpy:957
 translate Tchinese prologue_part_2_77ff0aa9:
 
     # p "I don’t know Fortis, maybe it’s gone. Maybe I never had it in the first place."
@@ -1141,12 +1147,12 @@ translate Tchinese prologue_part_2_498f5a7e:
     "他飄浮著的義肢朝你招了招手。儘管你的心情依舊陰鬱，但還是浮現出一絲笑意。"
 
 # game/story/Prologue_Part_2.rpy:936
-translate Tchinese prologue_part_2_2004a480:
+translate Tchinese prologue_part_2_cb7c280f:
 
-    # p "Thank you for the offer, Amare. {done}Thing is, I am not sure finding the spirit to fight back is enough to keep me here."
-    p "感謝你的提議，Amare。{done}可問題是，我不確定找回反擊精神是否足以讓我留下。"
+    # p talk "Thank you for the offer, Amare. {done}Thing is, I am not sure finding the spirit to fight back is enough to keep me here."
+    p talk "感謝你的提議，Amare。{done}可問題是，我不確定找回反擊精神是否足以讓我留下。"
 
-# game/story/Prologue_Part_2.rpy:937
+# game/story/Prologue_Part_2.rpy:963
 translate Tchinese prologue_part_2_2cf503e8:
 
     # p sad "Thank you for the offer, Amare. {fast}Thing is, I am not sure finding the spirit to fight back is enough to keep me here."
@@ -1159,12 +1165,12 @@ translate Tchinese prologue_part_2_9db48d11:
     p "這不僅僅是我的失職……我已經不知道自己在這家公司還有什麼意義了。"
 
 # game/story/Prologue_Part_2.rpy:941
-translate Tchinese prologue_part_2_c23ce49c:
+translate Tchinese prologue_part_2_ddcb4e42:
 
-    # Amar "You want to quit?"
-    Amar "您想要辭職嗎？"
+    # Amar shocked "You want to quit?"
+    Amar shocked "您想要辭職嗎？"
 
-# game/story/Prologue_Part_2.rpy:943
+# game/story/Prologue_Part_2.rpy:991
 translate Tchinese prologue_part_2_30b41449:
 
     # p "I—"
@@ -1189,12 +1195,12 @@ translate Tchinese prologue_part_2_79754a48:
     Fort "{b}{sc=7}千萬不能放棄啊，老大！{/sc}{/b}"
 
 # game/story/Prologue_Part_2.rpy:968
-translate Tchinese prologue_part_2_85c9cc6f:
+translate Tchinese prologue_part_2_0850739d:
 
-    # Amar "Fortis! You’re suffocating our Lord!"
-    Amar "Fortis！殿下要窒息了！"
+    # Amar shocked "Fortis! You’re suffocating our Lord!"
+    Amar shocked "Fortis！殿下要窒息了！"
 
-# game/story/Prologue_Part_2.rpy:986
+# game/story/Prologue_Part_2.rpy:1042
 translate Tchinese prologue_part_2_1956faa8:
 
     # "Amare grabs hold of the larger demon’s arms with all his hands and tries to pull him away, but Fortis is just too strong."
@@ -1219,12 +1225,12 @@ translate Tchinese prologue_part_2_457eae9d:
     p "好傢伙，你的古龍水味也太濃了。"
 
 # game/story/Prologue_Part_2.rpy:1014
-translate Tchinese prologue_part_2_0f23e650:
+translate Tchinese prologue_part_2_8335e004:
 
-    # Fort "Cologne? I don’t wear cologne."
-    Fort "古龍水？我不噴古龍水啊。"
+    # Fort confused "Cologne? I don’t wear cologne."
+    Fort confused "古龍水？我不噴古龍水啊。"
 
-# game/story/Prologue_Part_2.rpy:1016
+# game/story/Prologue_Part_2.rpy:1057
 translate Tchinese prologue_part_2_8a99b12f:
 
     # "You take a few short breaths before continuing to speak."
@@ -1255,18 +1261,18 @@ translate Tchinese prologue_part_2_aee45c84:
     "你嘆了口氣，不過得知有這些盟友的關心，你仍保持著充滿希望的微笑。"
 
 # game/story/Prologue_Part_2.rpy:1028
-translate Tchinese prologue_part_2_734cef6f:
+translate Tchinese prologue_part_2_5cca9a0c:
 
-    # p "What do you say if we go back to my office and just play a round of go-kart racing with some drinks?"
-    p "誰想去我的辦公室，邊喝邊玩卡丁車？"
+    # p talk "What do you say if we go back to my office and just play a round of go-kart racing with some drinks?"
+    p talk "誰想去我的辦公室，邊喝邊玩卡丁車？"
 
-# game/story/Prologue_Part_2.rpy:1030
-translate Tchinese prologue_part_2_d49f1426:
+# game/story/Prologue_Part_2.rpy:1059
+translate Tchinese prologue_part_2_51b51131:
 
-    # Fort "I’m game! I’ll beat all your butts!"
-    Fort "算我一個！看我不把你們打得落花流水！"
+    # Fort laugh pose2 "I’m game! I’ll beat all your butts!"
+    Fort laugh pose2 "算我一個！看我不把你們打得落花流水！"
 
-# game/story/Prologue_Part_2.rpy:1032
+# game/story/Prologue_Part_2.rpy:1135
 translate Tchinese prologue_part_2_f559c274:
 
     # Amar "Not if I get the blue star first."
@@ -1321,12 +1327,12 @@ translate Tchinese prologue_part_2_41b299a4:
     "從另一道傳送門中出現了Nox。"
 
 # game/story/Prologue_Part_2.rpy:1111
-translate Tchinese prologue_part_2_4702454b:
+translate Tchinese prologue_part_2_6908a265:
 
-    # Amar "Nox? Why are you here?"
-    Amar "Nox？你怎麼也來了？"
+    # Amar shocked "Nox? Why are you here?"
+    Amar shocked "Nox？你怎麼也來了？"
 
-# game/story/Prologue_Part_2.rpy:1119
+# game/story/Prologue_Part_2.rpy:1131
 translate Tchinese prologue_part_2_01ff6d64:
 
     # Nox "Vendrake summoned me, he said there was an important announcement."
@@ -1339,12 +1345,18 @@ translate Tchinese prologue_part_2_d87b2d34:
     Ven "是的，一項非常重要的通告，我希望大家都能在場。"
 
 # game/story/Prologue_Part_2.rpy:1132
-translate Tchinese prologue_part_2_7ac902bb:
+translate Tchinese prologue_part_2_4a225c22:
 
-    # "From behind his back he pulls a short scepter, its length made from solid gold. An enchanting blood-red ruby sits at the top, clenched within Vendrake’s demonic claws."
-    "Vendrake從身後抽出一把由純金打造而成的短杖，用手緊握著鑲嵌在其頂端的血色寶石。"
+    # "From behind his back {nw}"
+    "Vendrake把手伸向背後。{nw}"
 
-# game/story/Prologue_Part_2.rpy:1134
+# game/story/Prologue_Part_2.rpy:1137
+translate Tchinese prologue_part_2_8d8c51ee:
+
+    # extend "he pulls a short scepter, its length made from solid gold. An enchanting blood-red ruby sits at the top, clenched within Vendrake’s demonic claws."
+    extend "抽出一把由純金打造而成的短杖，用手緊握著鑲嵌在其頂端的血色寶石。"
+
+# game/story/Prologue_Part_2.rpy:1164
 translate Tchinese prologue_part_2_599393f1:
 
     # "Vendrake’s eyes glow a haunting yellow and a strange surge of power cackles through the air, originating from Vendrake’s scepter."
@@ -1357,12 +1369,12 @@ translate Tchinese prologue_part_2_197c9de9:
     p "Vendrake……你從哪弄到的？"
 
 # game/story/Prologue_Part_2.rpy:1140
-translate Tchinese prologue_part_2_7c1b920e:
+translate Tchinese prologue_part_2_60c5293f:
 
-    # Fort "Yeah, quit fooling around with your toys and give the boss his office back!"
-    Fort "就是，別再擺弄你的那些玩具了，快把辦公室還給老大！"
+    # Fort confused "Yeah, quit fooling around with your toys and give the boss his office back!"
+    Fort confused "就是，別再擺弄你的那些玩具了，快把辦公室還給老大！"
 
-# game/story/Prologue_Part_2.rpy:1144
+# game/story/Prologue_Part_2.rpy:1194
 translate Tchinese prologue_part_2_7557e5f4:
 
     # Ven "I don’t think so. That babbling slacker has wasted the Underworld’s time and will tarnish the title of Demon Lord no more!"
@@ -1381,18 +1393,6 @@ translate Tchinese prologue_part_2_e601d514:
     "Vendrake用藍色寶珠指向你，一道電光射出，其速度之快令你無從閃避。"
 
 # game/story/Prologue_Part_2.rpy:1491
-translate Tchinese prologue_part_2_f7308450:
-
-    # "Vendrake tosses you into the air again,{nw}"
-    "Vendrake再度將你舉到半空中。{nw}"
-
-# game/story/Prologue_Part_2.rpy:1523
-translate Tchinese prologue_part_2_defa4fbf:
-
-    # extend " firing a blast of green energy at you."
-    extend "緊接著射出一發綠色能量球。"
-
-# game/story/Prologue_Part_2.rpy:1164
 translate Tchinese prologue_part_2_12c2c756:
 
     # "It hits you square on the chest, sending you flying back." with hpunch
@@ -1405,12 +1405,12 @@ translate Tchinese prologue_part_2_370ff290:
     "你的整個身體被甩到了後方的書架上，肺裡的空氣都被擠了出來。"
 
 # game/story/Prologue_Part_2.rpy:1182
-translate Tchinese prologue_part_2_7992bc7a:
+translate Tchinese prologue_part_2_497a81ec:
 
-    # Fort "Treason!"
-    Fort "叛徒！"
+    # Fort -left annoyed "Treason!"
+    Fort -left annoyed "叛徒！"
 
-# game/story/Prologue_Part_2.rpy:1184
+# game/story/Prologue_Part_2.rpy:1344
 translate Tchinese prologue_part_2_0960f349:
 
     # "The imposing demon rushes for the second-in-command."
@@ -1561,12 +1561,12 @@ translate Tchinese prologue_part_2_854b4133:
     Ven "蠢貨！"
 
 # game/story/Prologue_Part_2.rpy:1330
-translate Tchinese prologue_part_2_6724eeef:
+translate Tchinese prologue_part_2_c6537e81:
 
-    # Amar "Ahhh!"
-    Amar "啊──！"
+    # Amar shocked "Ahhh!"
+    Amar shocked "啊──！"
 
-# game/story/Prologue_Part_2.rpy:1355
+# game/story/Prologue_Part_2.rpy:1379
 translate Tchinese prologue_part_2_f85fe63c:
 
     # Amar "No, just stop him Nox!"
@@ -1579,12 +1579,10 @@ translate Tchinese prologue_part_2_e0f94397:
     "青蛙惡魔站在原地一動不動。"
 
 # game/story/Prologue_Part_2.rpy:1369
-translate Tchinese prologue_part_2_16dd735e:
+translate Tchinese prologue_part_2_23b89c77:
 
-    # Amar "Nox! What are you doing?"
-    Amar "Nox！你還愣著幹什麼？"
-
-# game/story/Prologue_Part_2.rpy:1385
+    # Amar shocked "Nox! What are you doing?"
+    Amar shocked "Nox！你還愣著幹什麼？"
 translate Tchinese prologue_part_2_05390eac:
 
     # "He backs away and casts barriers onto the other two generals. Effectively sealing them away from battle."
@@ -1663,16 +1661,10 @@ translate Tchinese prologue_part_2_9522f0d8:
     "他法杖一揮，你的身體便像布娃娃一般被拋飛，撞穿了一座座書架。"
 
 # game/story/Prologue_Part_2.rpy:1463
-translate Tchinese prologue_part_2_7ba8164f:
-
-    # "Vendrake tosses you into the air again, firing a blast of green energy at you."
-    "Vendrake再度將你舉到空中，把綠色的能量球射向你。"
-
-# game/story/Prologue_Part_2.rpy:1471
 translate Tchinese prologue_part_2_320ed66b:
 
     # p "AUUUGGHHHHH!!!!!"
-    p "呃啊───────────────！！！！！"
+    p "呃啊────────────────！！！！！"
 
 # game/story/Prologue_Part_2.rpy:1473
 translate Tchinese prologue_part_2_b55c38dc:
@@ -1812,6 +1804,18 @@ translate Tchinese prologue_part_2_89f47cd8:
     # OP "So, this is where you've been hiding all this time."
     OP "原來你一直躲在這種地方啊。"
 
+translate Tchinese prologue_part_2_ac24b467:
+
+    # "Vendrake tosses you into the air again, {nw}"
+    "Vendrake再度將你舉到半空中。 {nw}"
+
+# game/story/Prologue_Part_2.rpy:1542
+translate Tchinese prologue_part_2_5b0b55cb:
+
+    # extend "firing a blast of green energy at you."
+    extend "緊接著射出一發綠色能量球。"
+
+# game/story/Prologue_Part_2.rpy:1550
 translate Tchinese strings:
 
     # game/story/Prologue_Part_2.rpy:29
@@ -1822,230 +1826,19 @@ translate Tchinese strings:
     old "Vendrake's like that grumpy uncle in the family that nags to everyone about how things were better back in the old days. Paw said that great-great-grandpa created Vendrake when the Underworld was first established. He's the first and oldest demon, not to mention the stuffiest. Every day it's '[name] file this report.' and '[name] put that tablet down and eat your dinner!' It's even worse when he barks at me about needing to give a lengthy speech for the opening of every new torture building. So infuriating."
     new "Vendrake就像每個家庭總會出現一兩個那種成天貴古賤今的的老大叔。\n爸説曾曾祖父在冥界形成時創造了Vendrake。\n他是最初也是最老的惡魔，還是最古板的。\n每天都「[name]，寫好這份報告。」來、「[name]，把那塊板子放下好好吃飯！」去的。\n最糟的就是每次在有新折磨設施開張時，他都會吼著要我發表又臭又長的致詞。\n煩死了。"
 
-    # game/story/Prologue_Part_2.rpy:169
+    # game/story/Prologue_Part_2.rpy:159
     old "Underworld{#journal}"
     new "冥界{#journal}"
 
-    # game/story/Prologue_Part_2.rpy:169
+    # game/story/Prologue_Part_2.rpy:159
     old "The Underworld is the inverse of Up Above. I don't know how deep into the abyss this place goes but I tried dropping a coin out the window a few decades back when I was a kid and I haven't heard it land since. Each floor isn't the same, some are as small as a broom closet, some are huge enough to be able to accommodate entire cities within it, and some are literal office spaces. Though, most are office spaces. Paw taught me that the Underworld would expand according to the needs of the current ruling Demon Lord, but every time I try to have my own arcade room or my own private movie theater, Vendrake will inevitably show up and turn it into another freaking file room!"
     new "冥界是天堂相反的存在。\n我是不知道冥界到底有多深，但我幾十年前還小的時候曾把一枚硬幣扔出窗外，至今都没聽見它掉到地上的聲音。\n這地方每層不盡相同，有些就跟清潔用品間一樣小，有些則大到能裝下整座城市，還有的就完全是辦公用區。應該説，大部分都是辦公用區。\n老爸有跟我説過，冥界會依現任魔王的需求而擴展。\n但每當我心想要自己的游戲廳或個人影院的時候，Vendrake都會跑來把它搞成新的一間文件室！"
 
-    # game/story/Prologue_Part_2.rpy:437
+    # game/story/Prologue_Part_2.rpy:436
     old "Demon Lord{#journal}"
     new "魔王{#journal}"
 
-    # game/story/Prologue_Part_2.rpy:437
+    # game/story/Prologue_Part_2.rpy:436
     old "Of all the jobs in the Underworld, being Demon Lord is the most boring of all. Ever since Paw revolutionized the system there's nothing to do but file paperwork, go to meetings, approve new torture techniques, go to meetings, announce that we have new office printers, go to more meetings, review every single demon's work performance, go to more fucking meetings about the next meeting. AHHHHHHHHHHH! WHY ARE THERE SO MANY FUCKING MEETINGS?!"
     new "冥界那麽多的職業，就屬魔王最無聊。\n自從老爸改格體系後，就只剩下文書工作、開會、審核新的刑訊技術、開一堆會、發公告説辦公室有新印刷機、開更多會、考核每一個惡魔的績效、開更多他媽的關於下一場會議的會。\n{b}啊─────────！\n哪來這麽多會要開啊？！{/b}"
 
-# TODO: Translation updated at 2022-12-08 00:08
-
-# game/story/Prologue_Part_2.rpy:106
-translate Tchinese prologue_part_2_acb94b06:
-
-    # Amar only_hand1 "Never, my Lord! We have to follow procedure, 70%% of all successful meetings always start with a proper attendance call."
-    Amar only_hand1 "萬萬不可，殿下！我們必須嚴格遵循程序，百分之七十的成功會議都是以合乎規範的點名開始的。"
-
-# game/story/Prologue_Part_2.rpy:108
-translate Tchinese prologue_part_2_6c0a7078:
-
-    # Amar hand2_3 "Additionally, we cannot discount the psychological effect of an attendance call to a demon's attention. It releases —"
-    Amar hand2_3 "此外，我們不能忽視點名對惡魔注意力的心理作用，這會紓解──"
-
-# game/story/Prologue_Part_2.rpy:125
-translate Tchinese prologue_part_2_85794198:
-
-    # Fort laugh "HERE!"
-    Fort laugh "{b}到！{/b}"
-
-# game/story/Prologue_Part_2.rpy:131
-translate Tchinese prologue_part_2_511608bc:
-
-    # Fort @ pose3 "The loudest is the strongest at roll call!"
-    Fort @ pose3 "嗓門是實力的一部分！"
-
-# game/story/Prologue_Part_2.rpy:135
-translate Tchinese prologue_part_2_36dcf159:
-
-    # Fort confused "You calling me stupid or you telling me to shut up?"
-    Fort confused "你是在罵我蠢，還是想叫我閉嘴？"
-
-# game/story/Prologue_Part_2.rpy:137
-translate Tchinese prologue_part_2_0a0254b0:
-
-    # Nox "..." (cb_no_talk=True)
-    Nox "..." (cb_no_talk=True)
-
-# game/story/Prologue_Part_2.rpy:161
-translate Tchinese prologue_part_2_4c5a2d7b:
-
-    # Amar talk "Last, but not least: Lord [name], Ruler of the Underworld and Judge of All Mortal Souls?"
-    Amar talk "最後但同樣重要的，冥界的統治者與凡人靈魂的審判者，[name]殿下。"
-
-# game/story/Prologue_Part_2.rpy:163
-translate Tchinese prologue_part_2_872c5c2b:
-
-    # p talk "Here."
-    p talk "在這。"
-
-# game/story/Prologue_Part_2.rpy:175
-translate Tchinese prologue_part_2_a71c1058:
-
-    # "Amare lists the decisions made last time."
-    "Amare回顧了之前的提案。"
-
-# game/story/Prologue_Part_2.rpy:177
-translate Tchinese prologue_part_2_c5dcac1b:
-
-    # "The list included adding more lava to the lava pit so that souls attempting to cross them get burnt easier, Amare’s request for new tools for his workshop, and the rejection of Nox’s request for a torture massage chair."
-    "提案包含了在熔岩坑中加入更多岩漿，以燒死試圖穿越那裡的靈魂，Amare要求為他的工坊增添新工具、以及被駁回了的Nox有關折磨按摩椅的提議。"
-
-# game/story/Prologue_Part_2.rpy:188
-translate Tchinese prologue_part_2_961f244e:
-
-    # Fort @ laugh "{sc=3}{b}I DO!{/b}{/sc}"
-    Fort @ laugh "{sc=3}{b}沒有！{/b}{/sc}"
-
-# game/story/Prologue_Part_2.rpy:217
-translate Tchinese prologue_part_2_f15cee84:
-
-    # Fort @ pose4 "{sc=3}I MADE THOSE OUT-OF-SHAPE HALFWITS SQUAT UNTIL THEIR LEGS TURNED {para}TO ASHES!{/sc}"
-    Fort @ pose4 "{sc=3}我已經罰那幾個不成器的蠢貨深蹲，直到他們的腿化為{para}粉末為止！{/sc}"
-
-# game/story/Prologue_Part_2.rpy:278
-translate Tchinese prologue_part_2_1b6b7bec:
-
-    # Fort shocked "Boss, it’s not that you can’t go drinking. But it might be best to avoid doing so during working hours?"
-    Fort shocked "老大，不是禁止您喝酒，但最好別挑在工作時間喝？"
-
-# game/story/Prologue_Part_2.rpy:280
-translate Tchinese prologue_part_2_98431a91:
-
-    # Fort confused "You set an example, whether you realise it or not."
-    Fort confused "無論您有沒有自覺，您都在以身作則。"
-
-# game/story/Prologue_Part_2.rpy:319
-translate Tchinese prologue_part_2_0a0254b0_1:
-
-    # Nox "..." (cb_no_talk=True)
-    Nox "……" (cb_no_talk=True)
-
-# game/story/Prologue_Part_2.rpy:346
-translate Tchinese prologue_part_2_d76c3c51:
-
-    # p "Vendrake! " with vpunch
-    p "Vendrake！" with vpunch
-
-# game/story/Prologue_Part_2.rpy:356
-translate Tchinese prologue_part_2_c8095401:
-
-    # extend "I’m suspending your role as second-in-command until you learn to be less of a thorn in my side!" with vpunch
-    extend "我要無限期暫停你副官的職務，直到你學會別做別人的眼中釘！" with vpunch
-
-# game/story/Prologue_Part_2.rpy:912
-translate Tchinese prologue_part_2_36fa5887:
-
-    # Amar only_hand1 "We were concerned about you, Lord [name]."
-    Amar only_hand1 "我們很擔心您，[name]殿下。"
-
-# game/story/Prologue_Part_2.rpy:918
-translate Tchinese prologue_part_2_8d4e043f:
-
-    # Fort neutral2 "Oh no, you can’t say that after the scene you pulled back in the meeting room."
-    Fort neutral2 "別這樣，會議室裡大家都看到了。"
-
-# game/story/Prologue_Part_2.rpy:922
-translate Tchinese prologue_part_2_f37f0ed3:
-
-    # Fort annoyed "Amare!"
-    Fort annoyed "Amare！"
-
-# game/story/Prologue_Part_2.rpy:930
-translate Tchinese prologue_part_2_505a1369:
-
-    # Fort confused "Where’s your fire, boy? Where’s the demon that I trained when he was just in diapers?"
-    Fort confused "你的激情在哪裡，孩子？那個剛穿上尿布就跟我一起訓練的惡魔跑哪裡去了？"
-
-# game/story/Prologue_Part_2.rpy:932
-translate Tchinese prologue_part_2_22909b3d:
-
-    # Fort @ pose2 "Where’s your fight back?"
-    Fort @ pose2 "你的還擊呢？"
-
-# game/story/Prologue_Part_2.rpy:957
-translate Tchinese prologue_part_2_cb7c280f:
-
-    # p talk "Thank you for the offer, Amare. {done}Thing is, I am not sure finding the spirit to fight back is enough to keep me here."
-    p talk "感謝你的提議，Amare。{done}可問題是，我不確定找回反擊精神是否足以讓我留下。"
-
-# game/story/Prologue_Part_2.rpy:963
-translate Tchinese prologue_part_2_ddcb4e42:
-
-    # Amar shocked "You want to quit?"
-    Amar shocked "您想要辭職嗎？"
-
-# game/story/Prologue_Part_2.rpy:991
-translate Tchinese prologue_part_2_0850739d:
-
-    # Amar shocked "Fortis! You’re suffocating our Lord!"
-    Amar shocked "Fortis！殿下要窒息了！"
-
-# game/story/Prologue_Part_2.rpy:1042
-translate Tchinese prologue_part_2_8335e004:
-
-    # Fort confused "Cologne? I don’t wear cologne."
-    Fort confused "古龍水？我不噴古龍水啊。"
-
-# game/story/Prologue_Part_2.rpy:1057
-translate Tchinese prologue_part_2_5cca9a0c:
-
-    # p talk "What do you say if we go back to my office and just play a round of go-kart racing with some drinks?"
-    p talk "誰想去我的辦公室，邊喝邊玩卡丁車？"
-
-# game/story/Prologue_Part_2.rpy:1059
-translate Tchinese prologue_part_2_51b51131:
-
-    # Fort laugh pose2 "I’m game! I’ll beat all your butts!"
-    Fort laugh pose2 "算我一個！看我不把你們打得落花流水！"
-
-# game/story/Prologue_Part_2.rpy:1135
-translate Tchinese prologue_part_2_6908a265:
-
-    # Amar shocked "Nox? Why are you here?"
-    Amar shocked "Nox？你怎麼也來了？"
-
-# game/story/Prologue_Part_2.rpy:1131
-translate Tchinese prologue_part_2_4a225c22:
-
-    # "From behind his back {nw}"
-    "Vendrake把手伸向背後。{nw}"
-
-# game/story/Prologue_Part_2.rpy:1137
-translate Tchinese prologue_part_2_8d8c51ee:
-
-    # extend "he pulls a short scepter, its length made from solid gold. An enchanting blood-red ruby sits at the top, clenched within Vendrake’s demonic claws."
-    extend "抽出一把由純金打造而成的短杖，用手緊握著鑲嵌在其頂端的血色寶石。"
-
-# game/story/Prologue_Part_2.rpy:1164
-translate Tchinese prologue_part_2_60c5293f:
-
-    # Fort confused "Yeah, quit fooling around with your toys and give the boss his office back!"
-    Fort confused "就是，別再擺弄你的那些玩具了，快把辦公室還給老大！"
-
-# game/story/Prologue_Part_2.rpy:1194
-translate Tchinese prologue_part_2_497a81ec:
-
-    # Fort -left annoyed "Treason!"
-    Fort -left annoyed "叛徒！"
-
-# game/story/Prologue_Part_2.rpy:1344
-translate Tchinese prologue_part_2_c6537e81:
-
-    # Amar shocked "Ahhh!"
-    Amar shocked "啊──！"
-
-# game/story/Prologue_Part_2.rpy:1379
-translate Tchinese prologue_part_2_23b89c77:
-
-    # Amar shocked "Nox! What are you doing?"
-    Amar shocked "Nox！你還愣著幹什麼？"

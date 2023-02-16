@@ -1,6 +1,30 @@
-# TODO: Translation updated at 2022-06-09 13:13
+# TODO: Translation updated at 2023-02-15 21:54
+
+# game/story/chapter_King.rpy:4
+translate Tchinese a_room_fit_for_king_a08be6b8:
+
+    # "It seems that you have seen this part of King's story before. It'd be great if you want to see it again, but it could be a chore if you've read this many times. So, would you like to skip this scene?{nw}{done}"
+    "似乎你已經觀看過King的這部分故事了。重溫一下是不錯，但同一段內容讀太多遍也是個苦差事。那麼，要跳過這一幕嗎？{nw}{done}"
 
 # game/story/chapter_King.rpy:8
+translate Tchinese a_room_fit_for_king_8d423780:
+
+    # "King, having been captured by the demons of the Underworld, is placed under the care of Fortis, the General of Physical Torture."
+    "King落入了冥界，而後交由拷問將軍Fortis照顧。"
+
+# game/story/chapter_King.rpy:9
+translate Tchinese a_room_fit_for_king_b4150436:
+
+    # "The two do not hit it off well and King is imprisoned in the company's pantry. An exclusive generals only pantry, but the place hasn’t even been restocked!"
+    "二人不歡而散，King被囚禁在了將軍專用的茶水間，這裡甚至不會補貨！"
+
+# game/story/chapter_King.rpy:10
+translate Tchinese a_room_fit_for_king_f73c30a5:
+
+    # "King—despite learning that [name] is a demon—plans to escape the Underworld and warn his friend of Vendrake's future attacks."
+    "儘管得知[name]是惡魔，但King仍計劃逃離冥界，並警告自己的朋友小心Vendrake的襲擊。"
+
+# game/story/chapter_King.rpy:69
 translate Tchinese a_room_fit_for_king_8637b1da:
 
     # "Sitting in an elevator, King sits bound and gagged from head to toe. The soreness around his butt is replaced with a dull but numbing pain from staying still."
@@ -133,12 +157,12 @@ translate Tchinese a_room_fit_for_king_0bd5e5e8:
     Kage "哥！哥！他說他要舔我？噁！"
 
 # game/story/chapter_King.rpy:57
-translate Tchinese a_room_fit_for_king_b5cdbb35:
+translate Tchinese a_room_fit_for_king_9cab0dc0:
 
-    # Fort "Relax, that’s noth—"
+    # Fort annoyed "Relax, that’s noth—"
     Fort "放鬆，沒──"
 
-# game/story/chapter_King.rpy:59
+# game/story/chapter_King.rpy:85
 translate Tchinese a_room_fit_for_king_f06c8bcd:
 
     # Kage "Ahh! Ahh! He’s doing it bro! I can feel his slimy tongue spreading his mortal saliva on me!"
@@ -175,12 +199,12 @@ translate Tchinese a_room_fit_for_king_951cd75b:
     "Fortis指著嚇呆了的羊駝。"
 
 # game/story/chapter_King.rpy:73
-translate Tchinese a_room_fit_for_king_eab7dd00:
+translate Tchinese a_room_fit_for_king_46eef8d7:
 
-    # Fort "Now zip it or he’s going back on you."
-    Fort "閉上嘴，如果你不想再被捆的話。"
+    # Fort @ annoyed "Now zip it or he’s going back on you."
+    Fort @ annoyed "閉上你的嘴，如果你不想再被捆的話。"
 
-# game/story/chapter_King.rpy:75
+# game/story/chapter_King.rpy:170
 translate Tchinese a_room_fit_for_king_0f976ba2:
 
     # "Fortis points to his right forearm."
@@ -283,12 +307,12 @@ translate Tchinese a_room_fit_for_king_5dca6daa:
     K question "那傢伙是不是有，三個──"
 
 # game/story/chapter_King.rpy:158
-translate Tchinese a_room_fit_for_king_29bacaeb:
+translate Tchinese a_room_fit_for_king_51d7292f:
 
-    # Fort "Yes, and don’t ask. Now, how about here."
-    Fort "是的，還有不許再問問題了。嗯，這裡怎麼樣。"
+    # Fort annoyed "Yes, and don’t ask. Now, how about here."
+    Fort annoyed "是的，還有不許再問問題了。嗯，這裡怎麼樣。"
 
-# game/story/chapter_King.rpy:160
+# game/story/chapter_King.rpy:186
 translate Tchinese a_room_fit_for_king_da33e057:
 
     # "While Fortis inputs the next combination, King leans to the side and squints to see the buttons. To his dismay, the panel is decorated with symbols beyond his comprehension."
@@ -301,12 +325,12 @@ translate Tchinese a_room_fit_for_king_09e5c8b4:
     "沒過多久，電梯就又停了。"
 
 # game/story/chapter_King.rpy:174
-translate Tchinese a_room_fit_for_king_1ba2f75e:
+translate Tchinese a_room_fit_for_king_eaa2c52d:
 
-    # "The door opens to a desert plain. There’s only one thing that stands out; a silent mass of people huddled around something."
-    "這次門外通向平平無奇的沙漠，只有一處異常醒目：一群人沉默地簇擁在什麼東西周圍。"
+    # "The door opens to a desert plane. There’s only one thing that stands out; a silent mass of people huddled around something."
+    "這一次，門外是平平無奇的沙漠，只有一處異常醒目：一群人沉默地簇擁在某個物體周圍。"
 
-# game/story/chapter_King.rpy:176
+# game/story/chapter_King.rpy:221
 translate Tchinese a_room_fit_for_king_24658720:
 
     # "The alpaca blinks. Before him are beings on their knees, looking up with reverence. The outline of their incorporeal bodies is barely maintained as the wisps of their essence flow back and forth, like smoke in the wind."
@@ -385,48 +409,48 @@ translate Tchinese a_room_fit_for_king_ccf9249e:
     K "那是什麼地方？"
 
 # game/story/chapter_King.rpy:209
-translate Tchinese a_room_fit_for_king_6630f768:
+translate Tchinese a_room_fit_for_king_2bddb85f:
 
-    # Fort "It’s one of the mildest physical torture chambers. Thought it could work for you."
-    Fort "最溫和的拷問室之一，我還以為你可以呢。"
+    # Fort neutral2 "It’s one of the mildest physical torture chambers. Thought it could work for you."
+    Fort neutral2 "最溫和的拷問室之一，我還以為你受得了呢。"
 
-# game/story/chapter_King.rpy:211
+# game/story/chapter_King.rpy:225
 translate Tchinese a_room_fit_for_king_3e4dcced:
 
     # K trembling "What was that {i}thing{/i}? I couldn’t stop looking at it."
     K trembling "那{b}東西{/b}呢？我就是忍不住盯著它。"
 
 # game/story/chapter_King.rpy:213
-translate Tchinese a_room_fit_for_king_14053f6e:
+translate Tchinese a_room_fit_for_king_971d40e7:
 
-    # Fort " Mmm, yes, that’d be the demon Akios. You don’t want to find out what happens when the souls stop looking at them."
-    Fort "欸，哦，是惡魔Akios。你不會想知道把視線從他身上移開的惡魔會發生什麼的。"
+    # Fort laugh "Mmm, yes, that’d be the demon Akios. You don’t want to find out what happens when the souls stop looking at them."
+    Fort laugh "噢，是惡魔Akios。你不會想知道把視線從他身上移開的靈魂會發生什麼的。"
 
-# game/story/chapter_King.rpy:215
+# game/story/chapter_King.rpy:229
 translate Tchinese a_room_fit_for_king_a9298ab9:
 
     # K frustration "What in the world made you think that would be a safe place for me?"
     K frustration "你是哪根筋搭錯了才覺得我受得了？"
 
 # game/story/chapter_King.rpy:217
-translate Tchinese a_room_fit_for_king_5b105fcf:
+translate Tchinese a_room_fit_for_king_37147605:
 
-    # Fort "I don’t know, Akios seemed pretty popular with mortal souls, your kind can’t seem to take your eyes off of them."
-    Fort "不知道。Akios有引人注目的能力，我尋思著他應該挺受靈魂歡迎的。"
+    # Fort neutral1 "I don’t know, Akios seemed pretty popular with mortal souls, your kind can’t seem to take your eyes off of them."
+    Fort neutral1 "我哪知道。Akios有引人注目的能力，我尋思著他應該挺受靈魂歡迎的。"
 
-# game/story/chapter_King.rpy:219
+# game/story/chapter_King.rpy:233
 translate Tchinese a_room_fit_for_king_e53729e3:
 
     # K serious "I don’t think those souls have a choice in the matter."
     K serious "我不認為靈魂們有選擇的餘地。"
 
 # game/story/chapter_King.rpy:221
-translate Tchinese a_room_fit_for_king_0072cfd8:
+translate Tchinese a_room_fit_for_king_61c08f04:
 
-    # Fort "Fine, then I’m using plan B."
-    Fort "好吧，那就執行B計劃。"
+    # Fort annoyed "Fine, then I’m using plan B."
+    Fort annoyed "好吧，那就B計劃。"
 
-# game/story/chapter_King.rpy:225
+# game/story/chapter_King.rpy:300
 translate Tchinese a_room_fit_for_king_8896a718:
 
     # "Fortis presses another series of buttons and the elevator opens up to a plain looking office space."
@@ -535,12 +559,12 @@ translate Tchinese a_room_fit_for_king_f2ba5cb3:
     K question "等一下！你要去哪？"
 
 # game/story/chapter_King.rpy:288
-translate Tchinese a_room_fit_for_king_88b54378:
+translate Tchinese a_room_fit_for_king_0d64661a:
 
-    # Fort "Enjoy your afterlife!"
-    Fort "盡情享受死後世界吧！"
+    # Fort neutral1 "Enjoy your afterlife!"
+    Fort neutral1 "盡情享受你的死後世界吧！"
 
-# game/story/chapter_King.rpy:291
+# game/story/chapter_King.rpy:335
 translate Tchinese a_room_fit_for_king_5b5fd421:
 
     # "Fortis heads for the portal."
@@ -589,12 +613,12 @@ translate Tchinese a_room_fit_for_king_92cb4226:
     "Fortis翻了個白眼。"
 
 # game/story/chapter_King.rpy:319
-translate Tchinese a_room_fit_for_king_6726e598:
+translate Tchinese a_room_fit_for_king_f1fb7f19:
 
-    # Fort "Come on, food is food. It’s not like you’re trying to build muscle or anything."
-    Fort "拜託，有的吃就不錯了，你又不需要增肌什麼的。"
+    # Fort @ annoyed "Come on, food is food. It’s not like you’re trying to build muscle or anything."
+    Fort @ annoyed "拜託，有的吃就不錯了，你又不需要增肌什麼的。"
 
-# game/story/chapter_King.rpy:321
+# game/story/chapter_King.rpy:365
 translate Tchinese a_room_fit_for_king_56376067:
 
     # "Ping. Pong. Ping."
@@ -643,12 +667,12 @@ translate Tchinese a_room_fit_for_king_b60f8dd9:
     Amar "很簡單，據我推斷，你要嘛按Vendrake的字面意思執行，要嘛找一個對他來說最安全的房間，也就是這裡。"
 
 # game/story/chapter_King.rpy:348
-translate Tchinese a_room_fit_for_king_b494a182:
+translate Tchinese a_room_fit_for_king_25be5c11:
 
-    # Fort "Oh really now? You were that sure those were the only things I would have done?"
-    Fort "真的嗎？你就那麼確定我不會幹別的？"
+    # Fort neutral2 "Oh really now? You were that sure those were the only things I would have done?"
+    Fort neutral2 "哦？真的嗎？你就這麼肯定我不會幹別的？"
 
-# game/story/chapter_King.rpy:350
+# game/story/chapter_King.rpy:374
 translate Tchinese a_room_fit_for_king_3b18f24e:
 
     # "There is a silence that drags on for a few seconds before Amare responds."
@@ -661,12 +685,12 @@ translate Tchinese a_room_fit_for_king_44ed3e87:
     Amar "你和那個凡人出去的時候，我竊聽了他。"
 
 # game/story/chapter_King.rpy:354
-translate Tchinese a_room_fit_for_king_ac4328bd:
+translate Tchinese a_room_fit_for_king_2d8f4f44:
 
-    # Fort "Yeah, typical Amare."
-    Fort "哼，不愧是你，Amare。"
+    # Fort @ laugh "Yeah, typical Amare."
+    Fort @ laugh "不愧是你，Amare。"
 
-# game/story/chapter_King.rpy:356
+# game/story/chapter_King.rpy:389
 translate Tchinese a_room_fit_for_king_1ca48d9b:
 
     # "A small spider bot no bigger than a grain of rice leaps off King’s shoulder unnoticed, and crawls up the ceiling to sit on the P.A. speaker."
@@ -703,12 +727,12 @@ translate Tchinese a_room_fit_for_king_09497926:
     Amar "總而言之，羊駝是對的。如果我們要把他毫髮無傷地送回人界，就必須滿足他最基本的需求。"
 
 # game/story/chapter_King.rpy:368
-translate Tchinese a_room_fit_for_king_30cab528:
+translate Tchinese a_room_fit_for_king_20724319:
 
-    # Fort "Then you do it, if you’re such an expert!"
-    Fort "你行你上啊，大專家！"
+    # Fort confused "Then you do it, if you’re such an expert!"
+    Fort confused "你行你上啊，大專家！"
 
-# game/story/chapter_King.rpy:370
+# game/story/chapter_King.rpy:397
 translate Tchinese a_room_fit_for_king_7d47b14c:
 
     # Amar "I’m already on it. [name] previously wanted to acquire mortal snacks without going through the hassle of travelling to the mortal plane."
@@ -727,24 +751,24 @@ translate Tchinese a_room_fit_for_king_b103e3a0:
     Amar "我只需要確保它還能正常運轉，並檢查那個錯誤是否還在，即遇水就炸。"
 
 # game/story/chapter_King.rpy:376
-translate Tchinese a_room_fit_for_king_57ae100b:
+translate Tchinese a_room_fit_for_king_43266ea4:
 
-    # Fort "Ugh."
-    Fort "呃。"
+    # Fort @ annoyed "Ugh."
+    Fort @ annoyed "呃。"
 
-# game/story/chapter_King.rpy:378
+# game/story/chapter_King.rpy:401
 translate Tchinese a_room_fit_for_king_baa745de:
 
     # K "Right, and…and that means I need entertainment too!"
     K "對了，我……我還需要娛樂！"
 
 # game/story/chapter_King.rpy:380
-translate Tchinese a_room_fit_for_king_5d8bea9e:
+translate Tchinese a_room_fit_for_king_c9717ce9:
 
-    # Fort "You’re a prisoner, what do you need entertainment for?"
-    Fort "你是個囚犯，娛哪門子樂？"
+    # Fort @ annoyed "You’re a prisoner, what do you need entertainment for?"
+    Fort @ annoyed "你是個囚犯，娛哪門子樂？"
 
-# game/story/chapter_King.rpy:382
+# game/story/chapter_King.rpy:499
 translate Tchinese a_room_fit_for_king_785a3519:
 
     # K "Well–"
@@ -814,7 +838,7 @@ translate Tchinese a_room_fit_for_king_6a11742e:
 translate Tchinese a_room_fit_for_king_7e715d10:
 
     # Fort "Excuse me! I happen to be very well read! I’m not the second strongest demon general just by getting by on my strength alone!"
-    Fort "你再說一遍？！我好歹也是博覽過群書！我可不是光靠蠻力才成為第二強的惡魔將軍的!"
+    Fort "你再說一遍？！我好歹也是博覽過群書！我可不是光靠蠻力才成為第二強的惡魔將軍的！"
 
 # game/story/chapter_King.rpy:410
 translate Tchinese a_room_fit_for_king_10b4a584:
@@ -937,12 +961,11 @@ translate Tchinese a_room_fit_for_king_0fc4581e:
     K serious "好吧，不過既然沒得挑的話，我還需要一盒衛生紙。"
 
 # game/story/chapter_King.rpy:478
-translate Tchinese a_room_fit_for_king_77c12f49:
+translate Tchinese a_room_fit_for_king_5a7e8c09:
 
-    # Fort "What?"
-    Fort "啥？"
+    # Fort confused "What?"
+    Fort confused "蛤？"
 
-# game/story/chapter_King.rpy:480
 translate Tchinese a_room_fit_for_king_fbf9c36b:
 
     # K shocked "For the inspirational sports stories segments. You know, the parts where they talk about how they got into the sports and all that."
@@ -1050,130 +1073,10 @@ translate Tchinese a_room_fit_for_king_335ae17c:
     # K serious "Now how do I steal the key from that walking bulldozer?"
     K serious "現在，我該如何從那台行走的推土機上把鑰匙偷過來呢？"
 
-# TODO: Translation updated at 2022-08-25 11:58
-
 # game/story/chapter_King.rpy:4
-translate Tchinese a_room_fit_for_king_a08be6b8:
-
-    # "It seems that you have seen this part of King's story before. It'd be great if you want to see it again, but it could be a chore if you've read this many times. So, would you like to skip this scene?{nw}{done}"
-    "似乎你已經觀看過King的這部分故事了。重溫一下是不錯，但同一段內容讀太多遍也是個苦差事。那麼，要跳過這一幕嗎？{nw}{done}"
-
-# game/story/chapter_King.rpy:8
-translate Tchinese a_room_fit_for_king_8d423780:
-
-    # "King, having been captured by the demons of the Underworld, is placed under the care of Fortis, the General of Physical Torture."
-    "King落入了冥界，而後交由拷問將軍Fortis照顧。"
-
-# game/story/chapter_King.rpy:9
-translate Tchinese a_room_fit_for_king_b4150436:
-
-    # "The two do not hit it off well and King is imprisoned in the company's pantry. An exclusive generals only pantry, but the place hasn’t even been restocked!"
-    "二人不歡而散，King被囚禁在了將軍專用的茶水間，這裡甚至不會補貨！"
-
-# game/story/chapter_King.rpy:10
-translate Tchinese a_room_fit_for_king_f73c30a5:
-
-    # "King—despite learning that [name] is a demon—plans to escape the Underworld and warn his friend of Vendrake's future attacks."
-    "儘管得知[name]是惡魔，但King仍計劃逃離冥界，並警告自己的朋友小心Vendrake的襲擊。"
-
-# game/story/chapter_King.rpy:69
-translate Tchinese a_room_fit_for_king_9cab0dc0:
-
-    # Fort annoyed "Relax, that’s noth—"
-    Fort "放鬆，沒──"
-
-# game/story/chapter_King.rpy:85
-translate Tchinese a_room_fit_for_king_46eef8d7:
-
-    # Fort @ annoyed "Now zip it or he’s going back on you."
-    Fort @ annoyed "閉上你的嘴，如果你不想再被捆的話。"
-
-# game/story/chapter_King.rpy:170
-translate Tchinese a_room_fit_for_king_51d7292f:
-
-    # Fort annoyed "Yes, and don’t ask. Now, how about here."
-    Fort annoyed "是的，還有不許再問問題了。嗯，這裡怎麼樣。"
-
-# game/story/chapter_King.rpy:186
-translate Tchinese a_room_fit_for_king_eaa2c52d:
-
-    # "The door opens to a desert plane. There’s only one thing that stands out; a silent mass of people huddled around something."
-    "這一次，門外是平平無奇的沙漠，只有一處異常醒目：一群人沉默地簇擁在某個物體周圍。"
-
-# game/story/chapter_King.rpy:221
-translate Tchinese a_room_fit_for_king_2bddb85f:
-
-    # Fort neutral2 "It’s one of the mildest physical torture chambers. Thought it could work for you."
-    Fort neutral2 "最溫和的拷問室之一，我還以為你受得了呢。"
-
-# game/story/chapter_King.rpy:225
-translate Tchinese a_room_fit_for_king_971d40e7:
-
-    # Fort laugh "Mmm, yes, that’d be the demon Akios. You don’t want to find out what happens when the souls stop looking at them."
-    Fort laugh "噢，是惡魔Akios。你不會想知道把視線從他身上移開的靈魂會發生什麼的。"
-
-# game/story/chapter_King.rpy:229
-translate Tchinese a_room_fit_for_king_37147605:
-
-    # Fort neutral1 "I don’t know, Akios seemed pretty popular with mortal souls, your kind can’t seem to take your eyes off of them."
-    Fort neutral1 "我哪知道。Akios有引人注目的能力，我尋思著他應該挺受靈魂歡迎的。"
-
-# game/story/chapter_King.rpy:233
-translate Tchinese a_room_fit_for_king_61c08f04:
-
-    # Fort annoyed "Fine, then I’m using plan B."
-    Fort annoyed "好吧，那就B計劃。"
-
-# game/story/chapter_King.rpy:300
-translate Tchinese a_room_fit_for_king_0d64661a:
-
-    # Fort neutral1 "Enjoy your afterlife!"
-    Fort neutral1 "盡情享受你的死後世界吧！"
-
-# game/story/chapter_King.rpy:335
-translate Tchinese a_room_fit_for_king_f1fb7f19:
-
-    # Fort @ annoyed "Come on, food is food. It’s not like you’re trying to build muscle or anything."
-    Fort @ annoyed "拜託，有的吃就不錯了，你又不需要增肌什麼的。"
-
-# game/story/chapter_King.rpy:365
-translate Tchinese a_room_fit_for_king_25be5c11:
-
-    # Fort neutral2 "Oh really now? You were that sure those were the only things I would have done?"
-    Fort neutral2 "哦？真的嗎？你就這麼肯定我不會幹別的？"
-
-# game/story/chapter_King.rpy:374
-translate Tchinese a_room_fit_for_king_2d8f4f44:
-
-    # Fort @ laugh "Yeah, typical Amare."
-    Fort @ laugh "不愧是你，Amare。"
-
-# game/story/chapter_King.rpy:389
-translate Tchinese a_room_fit_for_king_20724319:
-
-    # Fort confused "Then you do it, if you’re such an expert!"
-    Fort confused "你行你上啊，大專家！"
-
-# game/story/chapter_King.rpy:397
-translate Tchinese a_room_fit_for_king_43266ea4:
-
-    # Fort @ annoyed "Ugh."
-    Fort @ annoyed "呃。"
-
-# game/story/chapter_King.rpy:401
-translate Tchinese a_room_fit_for_king_c9717ce9:
-
-    # Fort @ annoyed "You’re a prisoner, what do you need entertainment for?"
-    Fort @ annoyed "你是個囚犯，娛哪門子樂？"
-
-# game/story/chapter_King.rpy:499
-translate Tchinese a_room_fit_for_king_5a7e8c09:
-
-    # Fort confused "What?"
-    Fort confused "蛤？"
-
 translate Tchinese strings:
 
     # game/story/chapter_King.rpy:5
     old "It seems that you have seen this part of King's story before. It'd be great if you want to see it again, but it could be a chore if you've read this many times. So, would you like to skip this scene?{fast}"
     new "似乎你已經觀看過King的這部分故事了。重溫一下是不錯，但同一段內容讀太多遍也是個苦差事。那麼，要跳過這一幕嗎？{fast}"
+

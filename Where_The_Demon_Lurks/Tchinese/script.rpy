@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2021-11-07 21:50
+# TODO: Translation updated at 2023-02-15 21:54
 
 translate Tchinese strings:
 
@@ -22,65 +22,21 @@ translate Tchinese strings:
     old "Unknown Person{#speakingName}"
     new "神秘人{#speakingName}"
 
-    # game/script.rpy:47
+    # game/script.rpy:48
     old "Son{#speakingName}"
     new "兒子{#speakingName}"
 
-    # game/script.rpy:48
+    # game/script.rpy:49
     old "Morris{#speakingName}"
     new "Morris{#speakingName}"
 
-    # game/script.rpy:49
+    # game/script.rpy:50
     old "Lucian{#speakingName}"
     new "Lucian{#speakingName}"
 
-    # game/script.rpy:50
+    # game/script.rpy:51
     old "Toast{#speakingName}"
     new "Toast{#speakingName}"
-
-    # game/script.rpy:51
-    old "Dog{#speakingName}"
-    new "狗{#speakingName}"
-
-    # game/script.rpy:52
-    old "Ghost{#speakingName}"
-    new "幽靈{#speakingName}"
-
-    # game/script.rpy:53
-    old "Boar{#speakingName}"
-    new "野豬{#speakingName}"
-
-    # game/script.rpy:55
-    old "King{#speakingName}"
-    new "King{#speakingName}"
-
-    # game/script.rpy:56
-    old "Hood 1{#speakingName}"
-    new "兜帽人 1{#speakingName}"
-
-    # game/script.rpy:57
-    old "Hood 2{#speakingName}"
-    new "兜帽人 2{#speakingName}"
-
-    # game/script.rpy:58
-    old "Hood 3{#speakingName}"
-    new "兜帽人 3{#speakingName}"
-
-    # game/script.rpy:59
-    old "Hood 4{#speakingName}"
-    new "兜帽人 4{#speakingName}"
-
-    # game/script.rpy:60
-    old "Staff{#speakingName}"
-    new "工作人員{#speakingName}"
-
-    # game/script.rpy:114
-    old "This visual novel may contain mature/suggestive themes,\nby proceeding forward you agree that you are of appropriate age from your \nrespective country to be exposed to these types of materials."
-    new "本視覺小說可能包含成人/性暗示元素，在閱讀之前，請先確保您已達到所在國家允許閱讀此類內容的法定年齡。"
-
-# TODO: Translation updated at 2022-12-08 00:20
-
-translate Tchinese strings:
 
     # game/script.rpy:52
     old "Gin{#speakingName}"
@@ -101,6 +57,42 @@ translate Tchinese strings:
     # game/script.rpy:56
     old "Female Nurse{#speakingName}"
     new "女護士{#speakingName}"
+
+    # game/script.rpy:58
+    old "Dog{#speakingName}"
+    new "狗{#speakingName}"
+
+    # game/script.rpy:59
+    old "Ghost{#speakingName}"
+    new "幽靈{#speakingName}"
+
+    # game/script.rpy:60
+    old "Boar{#speakingName}"
+    new "野豬{#speakingName}"
+
+    # game/script.rpy:62
+    old "King{#speakingName}"
+    new "King{#speakingName}"
+
+    # game/script.rpy:63
+    old "Hood 1{#speakingName}"
+    new "兜帽人 1{#speakingName}"
+
+    # game/script.rpy:64
+    old "Hood 2{#speakingName}"
+    new "兜帽人 2{#speakingName}"
+
+    # game/script.rpy:65
+    old "Hood 3{#speakingName}"
+    new "兜帽人 3{#speakingName}"
+
+    # game/script.rpy:66
+    old "Hood 4{#speakingName}"
+    new "兜帽人 4{#speakingName}"
+
+    # game/script.rpy:67
+    old "Staff{#speakingName}"
+    new "工作人員{#speakingName}"
 
     # game/script.rpy:68
     old "Waitress{#speakingName}"
@@ -161,4 +153,32 @@ translate Tchinese strings:
     # game/script.rpy:82
     old "Mike{#speakingName}"
     new "Mike{#speakingName}"
+
+    # game/script.rpy:84
+    old "Customer{#speakingName}"
+    new "顧客{#speakingName}"
+
+    # game/script.rpy:85
+    old "Tall Freelancer{#speakingName}"
+    new "高個子自由職業者{#speakingName}"
+
+    # game/script.rpy:86
+    old "Lady{#speakingName}"
+    new "淑女{#speakingName}"
+
+    # game/script.rpy:87
+    old "Dude{#speakingName}"
+    new "紳士{#speakingName}"
+
+    # game/script.rpy:88
+    old "Simulda{#speakingName}"
+    new "Simulda{#speakingName}"
+
+    # game/script.rpy:89
+    old "Former Freelancer 2{#speakingName}"
+    new "前自由職業者 2{#speakingName}"
+
+    # game/script.rpy:216
+    old "This visual novel may contain mature/suggestive themes,\nby proceeding forward you agree that you are of appropriate age from your \nrespective country to be exposed to these types of materials."
+    new "本視覺小說可能包含成人/性暗示元素，在閱讀之前，請先確保您已達到所在國家允許閱讀此類內容的法定年齡。"
 

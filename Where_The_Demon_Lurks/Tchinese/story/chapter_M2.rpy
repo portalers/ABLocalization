@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2022-08-25 11:58
+# TODO: Translation updated at 2023-02-15 21:54
 
 # game/story/chapter_M2.rpy:5
 translate Tchinese chapter_M2_5e9e11b2:
@@ -811,12 +811,12 @@ translate Tchinese chapter_M2_5d67d6af:
     M neutral talk "起初我製作了一些傳單，卻不小心把電話號碼印錯了，害得一間不幸的洗衣店連續幾個月接到莫名其妙的電話。"
 
 # game/story/chapter_M2.rpy:315
-translate Tchinese chapter_M2_d55a4534:
+translate Tchinese chapter_M2_4aff9e7c:
 
-    # M nervous "Plus there were some other hiccups along the way, but I rather not talk about that."
+    # M nervous "Plus there were some other hiccups along the way, but I'd rather not talk about that."
     M nervous "此外還有一些插曲，不過那都是後話了。"
 
-# game/story/chapter_M2.rpy:318
+# game/story/chapter_M2.rpy:326
 translate Tchinese chapter_M2_124f034d:
 
     # "Leaning back, his gaze travels across the room. You nod and watch him finish up a slice in silence while your mind runs over the excuses to give to the others at the shop tomorrow about King’s absence."
@@ -841,12 +841,12 @@ translate Tchinese chapter_M2_8a22c8da:
     p scared "哎呀！"
 
 # game/story/chapter_M2.rpy:326
-translate Tchinese chapter_M2_9e098097:
+translate Tchinese chapter_M2_b64d0756:
 
-    # "Your ears tickle as a warmth creeps over it. Both of you pull retract your hands as they touched."
+    # "Your ears tickle as a warmth creeps over it. Both of you retract your hands as they touched."
     "你們二人連忙把手縮了回去。一股暖流湧上你的心頭，弄得你心裡癢癢的。"
 
-# game/story/chapter_M2.rpy:328
+# game/story/chapter_M2.rpy:815
 translate Tchinese chapter_M2_117f235f:
 
     # M "No, no it’s ok. I wasn’t paying attention."
@@ -1759,12 +1759,10 @@ translate Tchinese morris_call_a_room_fit_for_king_82f08958:
     "你發誓你之前明明沒有見過這東西。"
 
 # game/story/chapter_M2.rpy:815
-translate Tchinese morris_call_a_room_fit_for_king_b04aa9b9:
+translate Tchinese morris_call_a_room_fit_for_king_0f4d2f7e:
 
-    # Tw "Oh shuck, that little thing, I made that on his birthday."
+    # Tw "Oh shucks, that little thing, I made that on his birthday."
     Tw "哎，這個小東西是我在他生日那天做的。"
-
-# game/story/chapter_M2.rpy:818
 translate Tchinese morris_call_a_room_fit_for_king_da745a43:
 
     # Sm "And I love it so much, sweetheart. What did I do to deserve you?"
@@ -4438,42 +4436,23 @@ translate Tchinese strings:
     old "Reply calmly"
     new "冷靜地回答"
 
-    # game/story/chapter_M2.rpy:1862
+    # game/story/chapter_M2.rpy:1860
     old "{sc=5}{color=f00}“You will never get rid of me!”{/color}{/sc}"
     new "{sc=5}{color=f00}“你永遠別想擺脫我！”{/color}{/sc}"
 
-    # game/story/chapter_M2.rpy:1864
+    # game/story/chapter_M2.rpy:1862
     old "{sc=5}{color=f00}“Don’t leave me!”{/color}{/sc}"
     new "{sc=5}{color=f00}“不要離開我！”{/color}{/sc}"
 
-    # game/story/chapter_M2.rpy:1866
+    # game/story/chapter_M2.rpy:1864
     old "{sc=5}{color=f00}“We’re a family! You won’t break us apart!”{/color}{/sc}"
     new "{sc=5}{color=f00}“我們是一家人！你休想把這個家拆散！”{/color}{/sc}"
 
-    # game/story/chapter_M2.rpy:1868
+    # game/story/chapter_M2.rpy:1866
     old "{sc=5}{color=f00}“Come back to me.”{/color}{/sc}"
     new "{sc=5}{color=f00}“回到我身邊。”{/color}{/sc}"
 
-    # game/story/chapter_M2.rpy:2106
+    # game/story/chapter_M2.rpy:2104
     old "Morris is... Morris is... pretty ok, I guess? Sure he might wipe me out on the spot if he ever finds out what I really am, but he's been nothing but helpful since we teamed up. I'm not sure how long he has had that bandaged hand though, I think he should get it checked, it kind of smells. Still, I'm glad he helped out with King and his parents. I wouldn't have been able to even think about that part of his life on my own. Guess you can't just get transported into another dimension and expect nothing to change at home. Note to self though; watch out for Morris' real power level, the guy's stronger than he looks."
     new "Morris……Morris他是一個……好人？我們才認識短短幾天，他就幫了我大忙，雖然他知道我的真實身份後八成會當場滅了我吧。説起來他的手包扎多久了？都有味道了，他真的該去醫院看看，不過我還是很高興他幫助了King和King的父母。而最神秘的就屬他的過去，我甚至想像不出他都經歷了什麽，看來就算被平白無故傳送到另一個世界，也不能宅在家無所事事呀。注意：當心Morris真正的實力，這野豬不可貌相。"
 
-# TODO: Translation updated at 2022-12-08 00:08
-
-# game/story/chapter_M2.rpy:315
-translate Tchinese chapter_M2_4aff9e7c:
-
-    # M nervous "Plus there were some other hiccups along the way, but I'd rather not talk about that."
-    M nervous "此外還有一些插曲，不過那都是後話了。"
-
-# game/story/chapter_M2.rpy:326
-translate Tchinese chapter_M2_b64d0756:
-
-    # "Your ears tickle as a warmth creeps over it. Both of you retract your hands as they touched."
-    "你們二人連忙把手縮了回去。一股暖流湧上你的心頭，弄得你心裡癢癢的。"
-
-# game/story/chapter_M2.rpy:815
-translate Tchinese morris_call_a_room_fit_for_king_0f4d2f7e:
-
-    # Tw "Oh shucks, that little thing, I made that on his birthday."
-    Tw "哎，這個小東西是我在他生日那天做的。"

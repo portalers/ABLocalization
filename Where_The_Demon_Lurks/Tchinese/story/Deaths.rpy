@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-09 14:28
+﻿# TODO: Translation updated at 2023-02-15 21:54
 
 # game/story/Deaths.rpy:11
 translate Tchinese death_4c3ef161:
@@ -7,18 +7,6 @@ translate Tchinese death_4c3ef161:
     "Unknown" "什麼？你從哪冒出來的？"
 
 # game/story/Deaths.rpy:12
-translate Tchinese death_37f0b463:
-
-    # p "…"
-    p "……"
-
-# game/story/Deaths.rpy:13
-translate Tchinese death_f6074618:
-
-    # "Unknown" "You can’t talk can you? Not that I imagine that you can, considering you’ve never been here before."
-    "Unknown" "說不了話嗎？沒辦法，畢竟這是你第一次來這裡。"
-
-# game/story/Deaths.rpy:14
 translate Tchinese death_daf9d837:
 
     # "Unknown" "But… I wasn’t expecting you here, at least not this early."
@@ -31,24 +19,12 @@ translate Tchinese death_37c0bff8:
     "Unknown" "你都做了什麼？"
 
 # game/story/Deaths.rpy:16
-translate Tchinese death_37f0b463_1:
-
-    # p "…"
-    p "……"
-
-# game/story/Deaths.rpy:17
 translate Tchinese death_a6b0d196:
 
     # "Unknown" "Good grief, I was really hoping you lived a fuller life before this… "
     "Unknown" "唉，我曾滿心期待你能活出個樣子……"
 
 # game/story/Deaths.rpy:18
-translate Tchinese death_37f0b463_2:
-
-    # p "…"
-    p "……"
-
-# game/story/Deaths.rpy:19
 translate Tchinese death_b60eddf3:
 
     # "Unknown" "I guess this is how it ends. You’re dead."
@@ -67,24 +43,6 @@ translate Tchinese death_0ec10e93:
     "Unknown" "其實還有很多人在等你，譬如那個羊駝少年。"
 
 # game/story/Deaths.rpy:22
-translate Tchinese death_fc2f8352:
-
-    # "Unknown" " …"
-    "Unknown" "……"
-
-# game/story/Deaths.rpy:23
-translate Tchinese death_12a47622:
-
-    # "Unknown" "…"
-    "Unknown" "……"
-
-# game/story/Deaths.rpy:24
-translate Tchinese death_4d52ad74:
-
-    # "Unknown" "Alright, don’t ask any questions. Not that you can. Before they become aware that you’re here, I’m resetting you back to the moment of your death. You won’t even remember we ever had this conversation."
-    "Unknown" "好吧，什麼也別問，當然你也問不了。在他們發現你之前，我要把你重設到你死前的那一刻。你甚至不會記得我們有過這樣的對話。"
-
-# game/story/Deaths.rpy:25
 translate Tchinese death_02913ca1:
 
     # "Unknown" "Now, don’t waste this."
@@ -97,24 +55,12 @@ translate Tchinese death_d9b15c00:
     "Unknown" "又來了？我不是剛把你送回去嗎？"
 
 # game/story/Deaths.rpy:28
-translate Tchinese death_37f0b463_3:
-
-    # p "…"
-    p "……"
-
-# game/story/Deaths.rpy:29
 translate Tchinese death_4dd6e3d1:
 
     # "Unknown" "[name]... Please, just be more careful."
     "Unknown" "[name]……拜託，請再小心一點。"
 
 # game/story/Deaths.rpy:31
-translate Tchinese death_12a47622_1:
-
-    # "Unknown" "…"
-    "Unknown" "……"
-
-# game/story/Deaths.rpy:32
 translate Tchinese death_4bf186c4:
 
     # "Unknown" "Ah… I am at a loss for words. So, what I’m going to do is… I’m going to set this process to automatic, and let it do its job."
@@ -133,8 +79,62 @@ translate Tchinese death_03fbc5e7:
     "歡迎來到已故魔王處理系統。您已註冊重新啟動程序，請稍候，我們的服務人員正在意識之海中搜尋您的屍體。"
 
 # game/story/Deaths.rpy:36
-translate Tchinese death_9d8b2aac:
+translate Tchinese death_c8ea8a4a:
 
-    # "Unknown" "My shoulders feel so heavy lately. I need more deep heating cream."
+    # p "..."
+    p "……"
+
+# game/story/Deaths.rpy:13
+translate Tchinese death_2d479009:
+
+    # "Unknown" "You can’t talk, can you? Not that you should, considering you’ve never been here before."
+    "Unknown" "說不了話嗎？沒辦法，畢竟這是你第一次來這裡。"
+
+# game/story/Deaths.rpy:14
+translate Tchinese death_c8ea8a4a_1:
+
+    # p "..."
+    p "……"
+
+# game/story/Deaths.rpy:17
+translate Tchinese death_c8ea8a4a_2:
+
+    # p "..."
+    p "……"
+
+# game/story/Deaths.rpy:19
+translate Tchinese death_0f9ce9dd:
+
+    # "Unknown" "..."
+    "Unknown" "……"
+
+# game/story/Deaths.rpy:23
+translate Tchinese death_7ddca8b5:
+
+    # "Unknown" "{space=10}..."
+    "Unknown" "{space=10}……"
+
+# game/story/Deaths.rpy:24
+translate Tchinese death_c277f548:
+
+    # "Unknown" "Alright, don’t ask any questions. Not that you can. Before they become aware that you’re here, I’m sending you back to the moment of your death. You won’t recall that we ever talked, of course."
+    "Unknown" "好吧，什麼也別問，當然你也問不了。在他們發現你之前，我要把你重設到你死前的那一刻。你甚至不會記得我們有過這樣的對話。"
+
+# game/story/Deaths.rpy:25
+translate Tchinese death_c8ea8a4a_3:
+
+    # p "..."
+    p "……"
+
+# game/story/Deaths.rpy:29
+translate Tchinese death_0f9ce9dd_1:
+
+    # "Unknown" "..."
+    "Unknown" "……"
+
+# game/story/Deaths.rpy:32
+translate Tchinese death_0944ab75:
+
+    # "Unknown" "My shoulders feel so heavy lately. I need more of that deep heating cream."
     "Unknown" "我的肩膀最近感覺好重，我需要更多的深度熱療按摩膏。"
 

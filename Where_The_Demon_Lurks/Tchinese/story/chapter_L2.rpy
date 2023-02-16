@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2022-06-09 13:13
+# TODO: Translation updated at 2023-02-15 21:54
 
 # game/story/chapter_L2.rpy:18
 translate Tchinese chapter_L2_fa3a4a01:
@@ -313,12 +313,12 @@ translate Tchinese chapter_L2_f4b3d741:
     L "我忙著找你呢，沒空跟當地人打交道。"
 
 # game/story/chapter_L2.rpy:170
-translate Tchinese chapter_L2_0b409c1c:
+translate Tchinese chapter_L2_f83acaf7:
 
-    # p neutral talk "And now you’ve found me, you’ll stick out like a sore thumb in town if people see you avoiding food like the plague."
+    # p neutral talk "And now that you’ve found me, you’ll stick out like a sore thumb in town if people see you avoiding food like the plague."
     p neutral talk "既然你已經找到我了，再像躲瘟疫一樣躲吃的就太格格不入了。"
 
-# game/story/chapter_L2.rpy:172
+# game/story/chapter_L2.rpy:271
 translate Tchinese chapter_L2_fa525e7d:
 
     # "Lucian throws his nose up in the air."
@@ -523,12 +523,12 @@ translate Tchinese chapter_L2_99704ebd:
     p "這還是最廉價的那種，等到了真正的餐館，你就能大飽口福了。"
 
 # game/story/chapter_L2.rpy:271
-translate Tchinese chapter_L2_23f9f940:
+translate Tchinese chapter_L2_5aa7c608:
 
-    # "Lucian continues to eat the noodles in silence but his tail would wag every so often against the floor, producing short but quick, audible tapping noises."
+    # "Lucian continues to eat the noodles in silence, but his tail would wag every so often against the floor, producing short but quick, audible tapping noises."
     "Lucian繼續默默吃著麵條，尾巴卻不時在地板上搖來搖去，發出清脆的敲擊聲。"
 
-# game/story/chapter_L2.rpy:273
+# game/story/chapter_L2.rpy:1074
 translate Tchinese chapter_L2_25510331:
 
     # "Your heart feels lighter, but at the same time, your eyelids are struggling to stay open."
@@ -1762,7 +1762,7 @@ translate Tchinese chapter_L2_0228736f:
 translate Tchinese chapter_L2_3d7d0d34:
 
     # "“I believe in you!”- King"
-    "‘我相信你哦！’─King"
+    "‘我相信你哦！’──King"
 
 # game/story/chapter_L2.rpy:964
 translate Tchinese chapter_L2_df716bb5:
@@ -1891,12 +1891,12 @@ translate Tchinese chapter_L2_2d0a6f8d:
     "走進咖啡館，廚房裡炸薯條的香氣頓時勾起了你的食慾。"
 
 # game/story/chapter_L2.rpy:1074
-translate Tchinese chapter_L2_47237148:
+translate Tchinese chapter_L2_0a7df691:
 
-    # "A lady dressed in a bright red dress approaches two menus in her hands."
+    # "A lady dressed in a bright red dress approaches with two menus in her hands."
     "一位身著鮮紅色連衣裙的女士拿著兩份菜單迎了上來。"
 
-# game/story/chapter_L2.rpy:1076
+# game/story/chapter_L2.rpy:1371
 translate Tchinese chapter_L2_2fe25d64:
 
     # Wait "Afternoon there—"
@@ -2437,12 +2437,12 @@ translate Tchinese chapter_L2_817e4a20:
     "配菜則是新鮮的蔬菜沙拉，以及平鋪在上面的焦香脆薯。"
 
 # game/story/chapter_L2.rpy:1371
-translate Tchinese chapter_L2_258366ef:
+translate Tchinese chapter_L2_16ae277d:
 
-    # "The smell of food instantly eases the tension and our worries melt away."
+    # "The smell of food instantly eases the tension and your worries melt away."
     "食物的香氣瀰漫開來，化解了你們的憂慮。"
 
-# game/story/chapter_L2.rpy:1373
+# game/story/chapter_L2.rpy:1526
 translate Tchinese chapter_L2_1543e4aa:
 
     # "There’s just something special about the food in this cafe that always makes you feel better."
@@ -2779,17 +2779,10 @@ translate Tchinese chapter_L2_67bc8d0c:
     "不管怎樣，午餐時間已接近尾聲。你返回了便利商店，並讓Lucian在裡屋等到你下班。"
 
 # game/story/chapter_L2.rpy:1526
-translate Tchinese chapter_L2_dce8ca95:
+translate Tchinese chapter_L2_5a32e957:
 
-    # "Come nightfall, the search for the Gate begins again."
-    "夜幕降臨，尋找冥界之門的行動再度開啟了。"
-
-# game/story/chapter_L2.rpy:1531
-translate Tchinese chapter_L2_55566b14:
-
-    # "{b}TO BE CONTINUED....{/b}"
-    "{b}未完待續……{/b}"
-
+    # "Come dusk, the search for the Gate begins again."
+    "黃昏時刻，尋找冥界之門的行動再度開啟了。"
 translate Tchinese strings:
 
     # game/story/chapter_L2.rpy:317
@@ -2812,34 +2805,3 @@ translate Tchinese strings:
     old "I’ve been to two other Red Zones before I arrived in Kibbleton. I’ve got to be honest, I can’t really remember them in detail, with me running for my life and all. There was a city, it had this mega corporation that everyone was working for. Like the whole company had its hands in the city’s activities. The second place was nice, they all had this dragon god they all celebrated. It was a nice place, but it felt like I didn’t really belong there if I wasn’t a fan of their god. So far, minus the gang problem and the new cult in town, Kibbleton is pretty alright, but if what Lucian says is true..."
     new "在到達基布爾頓之前，我曾經去過兩個紅區。\n不過説實話，我忙於奔命，哪有功夫記清楚它們的細節呢？\n總之第一座城市有一間所有人都爲其工作的大公司，它就像是陰影，籠罩了城市的各個方面。\n第二個鄉鎮就好很多，人們會爲龍神舉行慶典，可我總覺得自己不屬於那地方，畢竟我又不是龍神的粉絲。\n至於基布爾頓嘛，除去幫派問題和新興的邪教其實還不錯，但假如Lucian所言屬實……"
 
-# TODO: Translation updated at 2022-12-08 00:08
-
-# game/story/chapter_L2.rpy:170
-translate Tchinese chapter_L2_f83acaf7:
-
-    # p neutral talk "And now that you’ve found me, you’ll stick out like a sore thumb in town if people see you avoiding food like the plague."
-    p neutral talk "既然你已經找到我了，再像躲瘟疫一樣躲吃的就太格格不入了。"
-
-# game/story/chapter_L2.rpy:271
-translate Tchinese chapter_L2_5aa7c608:
-
-    # "Lucian continues to eat the noodles in silence, but his tail would wag every so often against the floor, producing short but quick, audible tapping noises."
-    "Lucian繼續默默吃著麵條，尾巴卻不時在地板上搖來搖去，發出清脆的敲擊聲。"
-
-# game/story/chapter_L2.rpy:1074
-translate Tchinese chapter_L2_0a7df691:
-
-    # "A lady dressed in a bright red dress approaches with two menus in her hands."
-    "一位身著鮮紅色連衣裙的女士拿著兩份菜單迎了上來。"
-
-# game/story/chapter_L2.rpy:1371
-translate Tchinese chapter_L2_16ae277d:
-
-    # "The smell of food instantly eases the tension and your worries melt away."
-    "食物的香氣瀰漫開來，化解了你們的憂慮。"
-
-# game/story/chapter_L2.rpy:1526
-translate Tchinese chapter_L2_5a32e957:
-
-    # "Come dusk, the search for the Gate begins again."
-    "黃昏時刻，尋找冥界之門的行動再度開啟了。"
