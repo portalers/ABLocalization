@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2021-10-16 16:00
+# TODO: Translation updated at 2023-02-17 19:22
 
 # game/scripts/chapter10.rpy:11
 translate Schinese chapter10_eda2ed42:
@@ -163,10 +163,10 @@ translate Schinese chapter10_16fea9e2:
     e "You jerk!"
 
 # game/scripts/chapter10.rpy:81
-translate Schinese chapter10_21da0247:
+translate Schinese chapter10_51da2c95:
 
-    # j "Haha, I know. But anwyay, let's get ouf of here, hospitals give me the creeps."
-    j "Haha, I know. But anwyay, let's get ouf of here, hospitals give me the creeps."
+    # j "Haha, I know. But anyway, let's get ouf of here, hospitals give me the creeps."
+    j "Haha, I know. But anyway, let's get ouf of here, hospitals give me the creeps."
 
 # game/scripts/chapter10.rpy:83
 translate Schinese chapter10_055a4304:
@@ -1513,10 +1513,10 @@ translate Schinese chapter10_3da6fd31:
     e "Oh, let me introduce you to my friends."
 
 # game/scripts/chapter10.rpy:640
-translate Schinese chapter10_c7db10b2:
+translate Schinese chapter10_96694064:
 
-    # "This is James, Oscar, and Max."
-    "This is James, Oscar, and Max."
+    # e "This is James, Oscar, and Max."
+    e "This is James, Oscar, and Max."
 
 # game/scripts/chapter10.rpy:642
 translate Schinese chapter10_02f0dbaa:
@@ -1896,1821 +1896,1827 @@ translate Schinese chapter10_aefd891a:
     # j "Sorry! I couldn't resist!"
     j "Sorry! I couldn't resist!"
 
-# game/scripts/chapter10.rpy:784
+# game/scripts/chapter10.rpy:785
 translate Schinese chapter10_f3545909:
 
     # o "Besides, it's you two who can't take your eyes... and hands.. off each other!"
     o "Besides, it's you two who can't take your eyes... and hands.. off each other!"
 
-# game/scripts/chapter10.rpy:786
+# game/scripts/chapter10.rpy:787
 translate Schinese chapter10_1a296db0:
 
     # "Edgar coughed."
     "Edgar coughed."
 
-# game/scripts/chapter10.rpy:788
+# game/scripts/chapter10.rpy:789
 translate Schinese chapter10_2d1e3830:
 
     # e "Uhm....."
     e "Uhm....."
 
-# game/scripts/chapter10.rpy:790
+# game/scripts/chapter10.rpy:791
 translate Schinese chapter10_a96fa0ad:
 
     # j "Well, Edgar's my boyfriend."
     j "Well, Edgar's my boyfriend."
 
-# game/scripts/chapter10.rpy:792
+# game/scripts/chapter10.rpy:793
 translate Schinese chapter10_4e1a7ed8:
 
     # "James smiled, and the whole table went silent."
     "James smiled, and the whole table went silent."
 
-# game/scripts/chapter10.rpy:794
+# game/scripts/chapter10.rpy:795
 translate Schinese chapter10_b5c748df:
 
     # m "Wh-whaaaaat??"
     m "Wh-whaaaaat??"
 
-# game/scripts/chapter10.rpy:796
+# game/scripts/chapter10.rpy:797
 translate Schinese chapter10_a7b2d621:
 
     # j "Yep. Boy. Friend."
     j "Yep. Boy. Friend."
 
-# game/scripts/chapter10.rpy:798
+# game/scripts/chapter10.rpy:799
 translate Schinese chapter10_dff60717:
 
     # "Ari grinned."
     "Ari grinned."
 
-# game/scripts/chapter10.rpy:800
+# game/scripts/chapter10.rpy:801
 translate Schinese chapter10_03e7f73c:
 
     # a "Aww, I'm happy for you two!"
     a "Aww, I'm happy for you two!"
 
-# game/scripts/chapter10.rpy:802
+# game/scripts/chapter10.rpy:803
 translate Schinese chapter10_8469cb62:
 
     # o "Wait, you can't just declare that. Is it true, Edgar?"
     o "Wait, you can't just declare that. Is it true, Edgar?"
 
-# game/scripts/chapter10.rpy:808
+# game/scripts/chapter10.rpy:809
 translate Schinese chapter10_5b493993:
 
     # e "Well, yeah... we've been together for a while. I guess we hadn't labeled it... but I'm happy to call him my boyfriend."
     e "Well, yeah... we've been together for a while. I guess we hadn't labeled it... but I'm happy to call him my boyfriend."
 
-# game/scripts/chapter10.rpy:810
+# game/scripts/chapter10.rpy:811
 translate Schinese chapter10_d8aa9f85:
 
     # "James gave Edgar a scratch behind the ears and gave him a kiss."
     "James gave Edgar a scratch behind the ears and gave him a kiss."
 
-# game/scripts/chapter10.rpy:816
+# game/scripts/chapter10.rpy:817
 translate Schinese chapter10_9b9c187a:
 
     # e "I don't know about that...!"
     e "I don't know about that...!"
 
-# game/scripts/chapter10.rpy:818
+# game/scripts/chapter10.rpy:819
 translate Schinese chapter10_f636e1d6:
 
     # j "It's ok, we're still figuring things out."
     j "It's ok, we're still figuring things out."
 
-# game/scripts/chapter10.rpy:820
+# game/scripts/chapter10.rpy:821
 translate Schinese chapter10_b44e1af9:
 
     # "James looked a little sad."
     "James looked a little sad."
 
-# game/scripts/chapter10.rpy:822
+# game/scripts/chapter10.rpy:823
 translate Schinese chapter10_cbcf7407:
 
     # o "James, I had no idea you were..."
     o "James, I had no idea you were..."
 
-# game/scripts/chapter10.rpy:824
+# game/scripts/chapter10.rpy:825
 translate Schinese chapter10_726273fd:
 
     # j "Gay? Yeah it feels weird to say out loud but.. it is what it is!"
     j "Gay? Yeah it feels weird to say out loud but.. it is what it is!"
 
-# game/scripts/chapter10.rpy:826
+# game/scripts/chapter10.rpy:827
 translate Schinese chapter10_3af82467:
 
     # e "Wait, why are you surprised at James but not me?"
     e "Wait, why are you surprised at James but not me?"
 
-# game/scripts/chapter10.rpy:828
+# game/scripts/chapter10.rpy:829
 translate Schinese chapter10_877e768d:
 
     # "Oscar blushed slightly, looking away and scratching his head."
     "Oscar blushed slightly, looking away and scratching his head."
 
-# game/scripts/chapter10.rpy:830
+# game/scripts/chapter10.rpy:831
 translate Schinese chapter10_6b6d0c17:
 
     # o "Well, uh...let's just say you're a bit more obvious when checking guys out."
     o "Well, uh...let's just say you're a bit more obvious when checking guys out."
 
-# game/scripts/chapter10.rpy:832
+# game/scripts/chapter10.rpy:833
 translate Schinese chapter10_f69904a8:
 
     # e "Hey! I'm not a pervert!"
     e "Hey! I'm not a pervert!"
 
-# game/scripts/chapter10.rpy:834
+# game/scripts/chapter10.rpy:835
 translate Schinese chapter10_ea1a0bdd:
 
     # o "No, I didn't mean it like that! Just... your eyes tend to linger."
     o "No, I didn't mean it like that! Just... your eyes tend to linger."
 
-# game/scripts/chapter10.rpy:836
+# game/scripts/chapter10.rpy:837
 translate Schinese chapter10_cb0ca723:
 
     # j "It's true, Edgar. They do."
     j "It's true, Edgar. They do."
 
-# game/scripts/chapter10.rpy:838
+# game/scripts/chapter10.rpy:839
 translate Schinese chapter10_4593c0bc:
 
     # e "B-but..."
     e "B-but..."
 
-# game/scripts/chapter10.rpy:840
+# game/scripts/chapter10.rpy:841
 translate Schinese chapter10_540ef44a:
 
     # j "It's alright. You just like to appreciate eye candy... that's all!"
     j "It's alright. You just like to appreciate eye candy... that's all!"
 
-# game/scripts/chapter10.rpy:842
+# game/scripts/chapter10.rpy:843
 translate Schinese chapter10_c0023ed5:
 
     # m "Love.... is LOVE!!!"
     m "Love.... is LOVE!!!"
 
-# game/scripts/chapter10.rpy:844
+# game/scripts/chapter10.rpy:845
 translate Schinese chapter10_42cda632:
 
     # "Everyone got quiet all of a sudden and stared at Max."
     "Everyone got quiet all of a sudden and stared at Max."
 
-# game/scripts/chapter10.rpy:846
+# game/scripts/chapter10.rpy:847
 translate Schinese chapter10_5376a2e5:
 
     # m "S-sorry I just had to say it. No matter what, love is a beautiful thing and we should cherish it."
     m "S-sorry I just had to say it. No matter what, love is a beautiful thing and we should cherish it."
 
-# game/scripts/chapter10.rpy:848
+# game/scripts/chapter10.rpy:849
 translate Schinese chapter10_d4823b15:
 
     # o "Well said, Max."
     o "Well said, Max."
 
-# game/scripts/chapter10.rpy:850
+# game/scripts/chapter10.rpy:851
 translate Schinese chapter10_bd274b0c:
 
     # a "Indeed."
     a "Indeed."
 
-# game/scripts/chapter10.rpy:852
+# game/scripts/chapter10.rpy:853
 translate Schinese chapter10_b8b979cd:
 
     # m "Sigh... I hope I can find a girlfriend someday."
     m "Sigh... I hope I can find a girlfriend someday."
 
-# game/scripts/chapter10.rpy:854
+# game/scripts/chapter10.rpy:855
 translate Schinese chapter10_178f69d2:
 
     # "Max shrunk down, his shoulders drooping."
     "Max shrunk down, his shoulders drooping."
 
-# game/scripts/chapter10.rpy:856
+# game/scripts/chapter10.rpy:857
 translate Schinese chapter10_31ec887e:
 
     # o "Hey, it's alright bud. One day you'll find her!"
     o "Hey, it's alright bud. One day you'll find her!"
 
-# game/scripts/chapter10.rpy:858
+# game/scripts/chapter10.rpy:859
 translate Schinese chapter10_46cc6587:
 
     # m "Really? Even ones that likes to play Caves n Creatures?"
     m "Really? Even ones that likes to play Caves n Creatures?"
 
-# game/scripts/chapter10.rpy:860
+# game/scripts/chapter10.rpy:861
 translate Schinese chapter10_6ef0baf0:
 
     # o "Er... of course! Lots of girls like to play that.. I'm sure..."
     o "Er... of course! Lots of girls like to play that.. I'm sure..."
 
-# game/scripts/chapter10.rpy:862
+# game/scripts/chapter10.rpy:863
 translate Schinese chapter10_decd8fb1:
 
     # m "I haven't even met one!"
     m "I haven't even met one!"
 
-# game/scripts/chapter10.rpy:864
+# game/scripts/chapter10.rpy:865
 translate Schinese chapter10_1a9b7a12:
 
     # a "Actually, my cousing likes to play and I think there's a few girls in his group."
     a "Actually, my cousing likes to play and I think there's a few girls in his group."
 
-# game/scripts/chapter10.rpy:866
+# game/scripts/chapter10.rpy:867
 translate Schinese chapter10_28dfb95f:
 
     # m "Wh-whoa really?"
     m "Wh-whoa really?"
 
-# game/scripts/chapter10.rpy:868
+# game/scripts/chapter10.rpy:869
 translate Schinese chapter10_91a2d17b:
 
     # "Max's ears perked up."
     "Max's ears perked up."
 
-# game/scripts/chapter10.rpy:870
+# game/scripts/chapter10.rpy:871
 translate Schinese chapter10_1664c9bf:
 
     # a "Yeah I'll give you his number. It might not lead to anything... but new friends are good too."
     a "Yeah I'll give you his number. It might not lead to anything... but new friends are good too."
 
-# game/scripts/chapter10.rpy:872
+# game/scripts/chapter10.rpy:873
 translate Schinese chapter10_c299ad5c:
 
     # m "Awesome! I'd love a new group to play with!"
     m "Awesome! I'd love a new group to play with!"
 
-# game/scripts/chapter10.rpy:875
+# game/scripts/chapter10.rpy:876
 translate Schinese chapter10_ad6c4d29:
 
     # "Edgar grinned and held on to James tightly."
     "Edgar grinned and held on to James tightly."
 
-# game/scripts/chapter10.rpy:877
+# game/scripts/chapter10.rpy:878
 translate Schinese chapter10_812751c9:
 
     # j "Isn't young love nice?"
     j "Isn't young love nice?"
 
-# game/scripts/chapter10.rpy:879
+# game/scripts/chapter10.rpy:880
 translate Schinese chapter10_7d36e262:
 
     # e "Hey.. we're young too you know."
     e "Hey.. we're young too you know."
 
-# game/scripts/chapter10.rpy:881
+# game/scripts/chapter10.rpy:882
 translate Schinese chapter10_12de0ca5:
 
     # j "I dunno, we're getting up there."
     j "I dunno, we're getting up there."
 
-# game/scripts/chapter10.rpy:883
+# game/scripts/chapter10.rpy:884
 translate Schinese chapter10_19cbc723:
 
     # e "Late 20s is not up there!!"
     e "Late 20s is not up there!!"
 
-# game/scripts/chapter10.rpy:885
+# game/scripts/chapter10.rpy:886
 translate Schinese chapter10_f6e121c4:
 
     # j "I heard once you're 30, you get taken to the farm."
     j "I heard once you're 30, you get taken to the farm."
 
-# game/scripts/chapter10.rpy:887
+# game/scripts/chapter10.rpy:888
 translate Schinese chapter10_82f7dbc9:
 
     # e "I haven't heard of such a thing."
     e "I haven't heard of such a thing."
 
-# game/scripts/chapter10.rpy:889
+# game/scripts/chapter10.rpy:890
 translate Schinese chapter10_e1ca6867:
 
     # j "Exactly. No one lives to tell."
     j "Exactly. No one lives to tell."
 
-# game/scripts/chapter10.rpy:891
+# game/scripts/chapter10.rpy:892
 translate Schinese chapter10_b8598cc4:
 
     # e "Well, as long as we go together, I don't mind."
     e "Well, as long as we go together, I don't mind."
 
-# game/scripts/chapter10.rpy:893
+# game/scripts/chapter10.rpy:894
 translate Schinese chapter10_c01f6143:
 
     # o "Ugh stop. You guys are gonna give me diabetes."
     o "Ugh stop. You guys are gonna give me diabetes."
 
-# game/scripts/chapter10.rpy:895
+# game/scripts/chapter10.rpy:896
 translate Schinese chapter10_24d31d52:
 
     # "Everyone laughed."
     "Everyone laughed."
 
-# game/scripts/chapter10.rpy:901
+# game/scripts/chapter10.rpy:902
 translate Schinese chapter10_c61ccfaf:
 
     # "The afternoon was filled with more chatting and eating."
     "The afternoon was filled with more chatting and eating."
 
-# game/scripts/chapter10.rpy:903
+# game/scripts/chapter10.rpy:904
 translate Schinese chapter10_d61e165c:
 
     # "Finally, the evening came."
     "Finally, the evening came."
 
-# game/scripts/chapter10.rpy:905
+# game/scripts/chapter10.rpy:906
 translate Schinese chapter10_811f73e5:
 
     # "The gang said their goodbyes, agreeing to meet again sometime later."
     "The gang said their goodbyes, agreeing to meet again sometime later."
 
-# game/scripts/chapter10.rpy:911
+# game/scripts/chapter10.rpy:912
 translate Schinese chapter10_09f9c1d8:
 
     # "Edgar and James walked home with full bellies."
     "Edgar and James walked home with full bellies."
 
-# game/scripts/chapter10.rpy:913
+# game/scripts/chapter10.rpy:914
 translate Schinese chapter10_b7e83514:
 
     # j "Wow, it was so nice to see everyone!"
     j "Wow, it was so nice to see everyone!"
 
-# game/scripts/chapter10.rpy:915
+# game/scripts/chapter10.rpy:916
 translate Schinese chapter10_b5f3a044:
 
     # e "Yeah... I missed just hanging out with the guys."
     e "Yeah... I missed just hanging out with the guys."
 
-# game/scripts/chapter10.rpy:917
+# game/scripts/chapter10.rpy:918
 translate Schinese chapter10_1c45be37:
 
     # j "And you get to keep your job too! That's pretty nifty."
     j "And you get to keep your job too! That's pretty nifty."
 
-# game/scripts/chapter10.rpy:919
+# game/scripts/chapter10.rpy:920
 translate Schinese chapter10_42d26efa:
 
     # e "I know, right? Rick is so nice. I feel like I actually belong there..."
     e "I know, right? Rick is so nice. I feel like I actually belong there..."
 
-# game/scripts/chapter10.rpy:922
+# game/scripts/chapter10.rpy:923
 translate Schinese chapter10_f8304de9:
 
     # j "So when are you gonna go look for your mom?"
     j "So when are you gonna go look for your mom?"
 
-# game/scripts/chapter10.rpy:924
+# game/scripts/chapter10.rpy:925
 translate Schinese chapter10_ac9eda51:
 
     # e "I think I'll go tomorrow."
     e "I think I'll go tomorrow."
 
-# game/scripts/chapter10.rpy:926
+# game/scripts/chapter10.rpy:927
 translate Schinese chapter10_cba5ea6d:
 
     # j "You're sure she's there?"
     j "You're sure she's there?"
 
-# game/scripts/chapter10.rpy:928
+# game/scripts/chapter10.rpy:929
 translate Schinese chapter10_ae115ab1:
 
     # e "I don't know, but ... it's the only place I can think of."
     e "I don't know, but ... it's the only place I can think of."
 
-# game/scripts/chapter10.rpy:930
+# game/scripts/chapter10.rpy:931
 translate Schinese chapter10_18f27a01:
 
     # "Edgar fidgeted."
     "Edgar fidgeted."
 
-# game/scripts/chapter10.rpy:932
+# game/scripts/chapter10.rpy:933
 translate Schinese chapter10_a54d0733:
 
     # j "I'll go with you too."
     j "I'll go with you too."
 
-# game/scripts/chapter10.rpy:934
+# game/scripts/chapter10.rpy:935
 translate Schinese chapter10_1c3741a1:
 
     # e "Thanks."
     e "Thanks."
 
-# game/scripts/chapter10.rpy:936
+# game/scripts/chapter10.rpy:937
 translate Schinese chapter10_bca6718c:
 
     # "They walked in the quiet streets. Edgar's body felt tired still, but his mind was at ease."
     "They walked in the quiet streets. Edgar's body felt tired still, but his mind was at ease."
 
-# game/scripts/chapter10.rpy:938
+# game/scripts/chapter10.rpy:939
 translate Schinese chapter10_1cc07ceb:
 
     # "Suddenly, there was a small voice behind them."
     "Suddenly, there was a small voice behind them."
 
-# game/scripts/chapter10.rpy:940
+# game/scripts/chapter10.rpy:941
 translate Schinese chapter10_2da2afc8:
 
     # unknownmary "Edgar?"
     unknownmary "Edgar?"
 
-# game/scripts/chapter10.rpy:948
+# game/scripts/chapter10.rpy:949
 translate Schinese chapter10_9419f66c:
 
     # "It was Mary."
     "It was Mary."
 
-# game/scripts/chapter10.rpy:952
+# game/scripts/chapter10.rpy:953
 translate Schinese chapter10_8db62e4c:
 
     # e "Oh, hi Mary...!"
     e "Oh, hi Mary...!"
 
-# game/scripts/chapter10.rpy:954
+# game/scripts/chapter10.rpy:955
 translate Schinese chapter10_b7af8a4d:
 
     # mary "Hi, sorry to sneak up on you, I was late for the dinner...so they told me to come this way."
     mary "Hi, sorry to sneak up on you, I was late for the dinner...so they told me to come this way."
 
-# game/scripts/chapter10.rpy:956
+# game/scripts/chapter10.rpy:957
 translate Schinese chapter10_4a17e55c:
 
     # e "Oh no problem. This is James, by the way. James, this is Mary."
     e "Oh no problem. This is James, by the way. James, this is Mary."
 
-# game/scripts/chapter10.rpy:960
+# game/scripts/chapter10.rpy:961
 translate Schinese chapter10_3a899a3a:
 
     # j "Nice to meet you!"
     j "Nice to meet you!"
 
-# game/scripts/chapter10.rpy:962
+# game/scripts/chapter10.rpy:963
 translate Schinese chapter10_898b21f5:
 
     # mary "You as well!"
     mary "You as well!"
 
-# game/scripts/chapter10.rpy:964
+# game/scripts/chapter10.rpy:965
 translate Schinese chapter10_0f1df528:
 
     # "Mary cleared her throat."
     "Mary cleared her throat."
 
-# game/scripts/chapter10.rpy:966
+# game/scripts/chapter10.rpy:967
 translate Schinese chapter10_b10c35d5:
 
     # mary "I just wanted to thank you for everything you've done."
     mary "I just wanted to thank you for everything you've done."
 
-# game/scripts/chapter10.rpy:968
+# game/scripts/chapter10.rpy:969
 translate Schinese chapter10_2cdb7003:
 
     # mary "Firion has been arrested for treason, and faces a long jail sentence."
     mary "Firion has been arrested for treason, and faces a long jail sentence."
 
-# game/scripts/chapter10.rpy:970
+# game/scripts/chapter10.rpy:971
 translate Schinese chapter10_86f9b779:
 
     # j "Well, that's a relief!"
     j "Well, that's a relief!"
 
-# game/scripts/chapter10.rpy:972
+# game/scripts/chapter10.rpy:973
 translate Schinese chapter10_6b7e0adb:
 
     # e "Yeah. I won't have to look behind my shoulder.."
     e "Yeah. I won't have to look behind my shoulder.."
 
-# game/scripts/chapter10.rpy:974
+# game/scripts/chapter10.rpy:975
 translate Schinese chapter10_41359c02:
 
     # mary "So I saw it on the news... the green drake was..."
     mary "So I saw it on the news... the green drake was..."
 
-# game/scripts/chapter10.rpy:976
+# game/scripts/chapter10.rpy:977
 translate Schinese chapter10_37340f91:
 
     # e "His name was Alpha Drake, but I called him Al."
     e "His name was Alpha Drake, but I called him Al."
 
-# game/scripts/chapter10.rpy:978
+# game/scripts/chapter10.rpy:979
 translate Schinese chapter10_791fe452:
 
     # e "He was... your father's invention come to life."
     e "He was... your father's invention come to life."
 
-# game/scripts/chapter10.rpy:980
+# game/scripts/chapter10.rpy:981
 translate Schinese chapter10_52faa541:
 
     # mary "Wow, Al... So he helped stop the destruction?"
     mary "Wow, Al... So he helped stop the destruction?"
 
-# game/scripts/chapter10.rpy:982
+# game/scripts/chapter10.rpy:983
 translate Schinese chapter10_05cb1510:
 
     # e "Yeah, it turns out he's an AI that has sympathy for living things."
     e "Yeah, it turns out he's an AI that has sympathy for living things."
 
-# game/scripts/chapter10.rpy:984
+# game/scripts/chapter10.rpy:985
 translate Schinese chapter10_231c5497:
 
     # mary "So that was the big breakthrough... an AI that can relate to us."
     mary "So that was the big breakthrough... an AI that can relate to us."
 
-# game/scripts/chapter10.rpy:988
+# game/scripts/chapter10.rpy:989
 translate Schinese chapter10_6411e5d1:
 
     # e "It looks like your father was under the guise of creating a military AI, but..."
     e "It looks like your father was under the guise of creating a military AI, but..."
 
-# game/scripts/chapter10.rpy:990
+# game/scripts/chapter10.rpy:991
 translate Schinese chapter10_77603515:
 
     # e "He was secretly creating a sympathetic AI. He could communicate with me telepathically too."
     e "He was secretly creating a sympathetic AI. He could communicate with me telepathically too."
 
-# game/scripts/chapter10.rpy:992
+# game/scripts/chapter10.rpy:993
 translate Schinese chapter10_87e824bd:
 
     # mary "Wow.. that is incredible."
     mary "Wow.. that is incredible."
 
-# game/scripts/chapter10.rpy:994
+# game/scripts/chapter10.rpy:995
 translate Schinese chapter10_adef3664:
 
     # mary "I did not know such a thing was possible."
     mary "I did not know such a thing was possible."
 
-# game/scripts/chapter10.rpy:996
+# game/scripts/chapter10.rpy:997
 translate Schinese chapter10_769d1e2c:
 
     # e "He was very kind. I'm sure your father put a lot of his personality in him."
     e "He was very kind. I'm sure your father put a lot of his personality in him."
 
-# game/scripts/chapter10.rpy:998
+# game/scripts/chapter10.rpy:999
 translate Schinese chapter10_e94f2413:
 
     # "Mary smiled sadly."
     "Mary smiled sadly."
 
-# game/scripts/chapter10.rpy:1000
+# game/scripts/chapter10.rpy:1001
 translate Schinese chapter10_2e6da52e:
 
     # mary "Where did... Al go?"
     mary "Where did... Al go?"
 
-# game/scripts/chapter10.rpy:1002
+# game/scripts/chapter10.rpy:1003
 translate Schinese chapter10_c99b85b8:
 
     # e "He left with Omega Drake. He said it was too dangerous for him to remain here."
     e "He left with Omega Drake. He said it was too dangerous for him to remain here."
 
-# game/scripts/chapter10.rpy:1004
+# game/scripts/chapter10.rpy:1005
 translate Schinese chapter10_86bbd208:
 
     # e "Omega Drake seemed to believe our society will create self-replicating AI and eventually destroy everything."
     e "Omega Drake seemed to believe our society will create self-replicating AI and eventually destroy everything."
 
-# game/scripts/chapter10.rpy:1006
+# game/scripts/chapter10.rpy:1007
 translate Schinese chapter10_bb70ebd4:
 
     # e "Al warned it was a possibility... so he will keep watch from afar."
     e "Al warned it was a possibility... so he will keep watch from afar."
 
-# game/scripts/chapter10.rpy:1008
+# game/scripts/chapter10.rpy:1009
 translate Schinese chapter10_e2f0d099:
 
     # mary "Hmm... perhaps we will see him again."
     mary "Hmm... perhaps we will see him again."
 
-# game/scripts/chapter10.rpy:1010
+# game/scripts/chapter10.rpy:1011
 translate Schinese chapter10_c95b1efd:
 
     # e "I hope so. I consider him a dear friend."
     e "I hope so. I consider him a dear friend."
 
-# game/scripts/chapter10.rpy:1012
+# game/scripts/chapter10.rpy:1013
 translate Schinese chapter10_a3ad6f9b:
 
     # "Mary looked up at the empty, black sky."
     "Mary looked up at the empty, black sky."
 
-# game/scripts/chapter10.rpy:1014
+# game/scripts/chapter10.rpy:1015
 translate Schinese chapter10_fa276d91:
 
     # mary "Well, Edgar, thank you for bringing closure to me."
     mary "Well, Edgar, thank you for bringing closure to me."
 
-# game/scripts/chapter10.rpy:1016
+# game/scripts/chapter10.rpy:1017
 translate Schinese chapter10_a2aad56f:
 
     # mary "I can never thank you enough. You have brought peace into my life again."
     mary "I can never thank you enough. You have brought peace into my life again."
 
-# game/scripts/chapter10.rpy:1018
+# game/scripts/chapter10.rpy:1019
 translate Schinese chapter10_fb3f1f4f:
 
     # e "Err.. no problem. Anytime!"
     e "Err.. no problem. Anytime!"
 
-# game/scripts/chapter10.rpy:1020
+# game/scripts/chapter10.rpy:1021
 translate Schinese chapter10_31621989:
 
     # mary "Goodbye, Edgar. James. Until we meet again."
     mary "Goodbye, Edgar. James. Until we meet again."
 
-# game/scripts/chapter10.rpy:1022
+# game/scripts/chapter10.rpy:1023
 translate Schinese chapter10_f45b2636:
 
     # e "Bye, Mary."
     e "Bye, Mary."
 
-# game/scripts/chapter10.rpy:1024
+# game/scripts/chapter10.rpy:1025
 translate Schinese chapter10_9254dc63:
 
     # j "Goodbye!"
     j "Goodbye!"
 
-# game/scripts/chapter10.rpy:1028
+# game/scripts/chapter10.rpy:1029
 translate Schinese chapter10_b5a0a5d9:
 
     # j "She seems nice."
     j "She seems nice."
 
-# game/scripts/chapter10.rpy:1030
+# game/scripts/chapter10.rpy:1031
 translate Schinese chapter10_da0e6e6e:
 
     # e "Yeah. It's too bad about her dad, but at least she doesn't have to worry about Firion anymore."
     e "Yeah. It's too bad about her dad, but at least she doesn't have to worry about Firion anymore."
 
-# game/scripts/chapter10.rpy:1032
+# game/scripts/chapter10.rpy:1033
 translate Schinese chapter10_fcceffc0:
 
     # j "Yeah."
     j "Yeah."
 
-# game/scripts/chapter10.rpy:1038
+# game/scripts/chapter10.rpy:1039
 translate Schinese chapter10_994561b3:
 
     # "They walked the rest of the way home, and went to sleep quickly, tired from the festive day."
     "They walked the rest of the way home, and went to sleep quickly, tired from the festive day."
 
-# game/scripts/chapter10.rpy:1042
+# game/scripts/chapter10.rpy:1043
 translate Schinese chapter10_5d2ee265:
 
     # "The morning came again, Edgar slowly waking from his groggy state."
     "The morning came again, Edgar slowly waking from his groggy state."
 
-# game/scripts/chapter10.rpy:1048
+# game/scripts/chapter10.rpy:1049
 translate Schinese chapter10_0fde9d56:
 
     # "Edgar opened his eyes to the familiar wolf, but a lot closer."
     "Edgar opened his eyes to the familiar wolf, but a lot closer."
 
-# game/scripts/chapter10.rpy:1050
+# game/scripts/chapter10.rpy:1051
 translate Schinese chapter10_d4612add:
 
     # "He had unconciously wrapped himself around him."
     "He had unconciously wrapped himself around him."
 
-# game/scripts/chapter10.rpy:1052
+# game/scripts/chapter10.rpy:1053
 translate Schinese chapter10_b33e1065:
 
     # "James was warm and his fur incredibly soft."
     "James was warm and his fur incredibly soft."
 
-# game/scripts/chapter10.rpy:1054
+# game/scripts/chapter10.rpy:1055
 translate Schinese chapter10_d675a000:
 
     # e "You're so..."
     e "You're so..."
 
-# game/scripts/chapter10.rpy:1056
+# game/scripts/chapter10.rpy:1057
 translate Schinese chapter10_3d5f5ccb:
 
     # j "Hmm?"
     j "Hmm?"
 
-# game/scripts/chapter10.rpy:1058
+# game/scripts/chapter10.rpy:1059
 translate Schinese chapter10_3b377d9d:
 
     # e "... Huggable..."
     e "... Huggable..."
 
-# game/scripts/chapter10.rpy:1060
+# game/scripts/chapter10.rpy:1061
 translate Schinese chapter10_e8e47d98:
 
     # j "Haha... well, thank you."
     j "Haha... well, thank you."
 
-# game/scripts/chapter10.rpy:1062
+# game/scripts/chapter10.rpy:1063
 translate Schinese chapter10_2e6085d1:
 
     # "James snuggled Edgar closer. He talked with his eyes closed."
     "James snuggled Edgar closer. He talked with his eyes closed."
 
-# game/scripts/chapter10.rpy:1064
+# game/scripts/chapter10.rpy:1065
 translate Schinese chapter10_d67fc8be:
 
     # "I slept really well. I had a dream about you."
     "I slept really well. I had a dream about you."
 
-# game/scripts/chapter10.rpy:1066
+# game/scripts/chapter10.rpy:1067
 translate Schinese chapter10_987e3d37:
 
     # e "Really?"
     e "Really?"
 
-# game/scripts/chapter10.rpy:1068
+# game/scripts/chapter10.rpy:1069
 translate Schinese chapter10_51e595ce:
 
     # j "Yeah. It was just us two, and you were climbing a tree trying to get an orange for me."
     j "Yeah. It was just us two, and you were climbing a tree trying to get an orange for me."
 
-# game/scripts/chapter10.rpy:1070
+# game/scripts/chapter10.rpy:1071
 translate Schinese chapter10_45a9491c:
 
     # e "An orange?"
     e "An orange?"
 
-# game/scripts/chapter10.rpy:1072
+# game/scripts/chapter10.rpy:1073
 translate Schinese chapter10_96289c10:
 
     # j "Yeah, it was weird. But you got it, and gave it to me, and it tasted amazing."
     j "Yeah, it was weird. But you got it, and gave it to me, and it tasted amazing."
 
-# game/scripts/chapter10.rpy:1074
+# game/scripts/chapter10.rpy:1075
 translate Schinese chapter10_3e24c012:
 
     # e "I didn't know you liked oranges that much."
     e "I didn't know you liked oranges that much."
 
-# game/scripts/chapter10.rpy:1076
+# game/scripts/chapter10.rpy:1077
 translate Schinese chapter10_6d803779:
 
     # j "Well, that one in particular was amazing. I can almost taste it now."
     j "Well, that one in particular was amazing. I can almost taste it now."
 
-# game/scripts/chapter10.rpy:1078
+# game/scripts/chapter10.rpy:1079
 translate Schinese chapter10_ce107e44:
 
     # e "I'll get us some oranges sometime."
     e "I'll get us some oranges sometime."
 
-# game/scripts/chapter10.rpy:1080
+# game/scripts/chapter10.rpy:1081
 translate Schinese chapter10_5de1f434:
 
     # j "Haha, dream come true huh?"
     j "Haha, dream come true huh?"
 
-# game/scripts/chapter10.rpy:1082
+# game/scripts/chapter10.rpy:1083
 translate Schinese chapter10_489918c6:
 
     # e "You big weirdo!"
     e "You big weirdo!"
 
-# game/scripts/chapter10.rpy:1084
+# game/scripts/chapter10.rpy:1085
 translate Schinese chapter10_52dc8329:
 
     # "Edgar snuggled up to him more, getting a faint scent of his musky odors."
     "Edgar snuggled up to him more, getting a faint scent of his musky odors."
 
-# game/scripts/chapter10.rpy:1086
+# game/scripts/chapter10.rpy:1087
 translate Schinese chapter10_4c21f514:
 
     # e "I wish we could just stay like this forever."
     e "I wish we could just stay like this forever."
 
-# game/scripts/chapter10.rpy:1088
+# game/scripts/chapter10.rpy:1089
 translate Schinese chapter10_e65cabed:
 
     # j "We can, if you'd like."
     j "We can, if you'd like."
 
-# game/scripts/chapter10.rpy:1090
+# game/scripts/chapter10.rpy:1091
 translate Schinese chapter10_0c2a4a7c:
 
     # e "Alright, you asked for it."
     e "Alright, you asked for it."
 
-# game/scripts/chapter10.rpy:1092
+# game/scripts/chapter10.rpy:1093
 translate Schinese chapter10_fa11c54a:
 
     # "James squeezed him."
     "James squeezed him."
 
-# game/scripts/chapter10.rpy:1094
+# game/scripts/chapter10.rpy:1095
 translate Schinese chapter10_78b5d4bf:
 
     # j "I signed up for this. I deserve it."
     j "I signed up for this. I deserve it."
 
-# game/scripts/chapter10.rpy:1096
+# game/scripts/chapter10.rpy:1097
 translate Schinese chapter10_1b998a9a:
 
     # "Edgar laughed."
     "Edgar laughed."
 
-# game/scripts/chapter10.rpy:1098
+# game/scripts/chapter10.rpy:1099
 translate Schinese chapter10_869ddbd4:
 
     # "They spent a while snuggling and later got up and showered."
     "They spent a while snuggling and later got up and showered."
 
-# game/scripts/chapter10.rpy:1106
+# game/scripts/chapter10.rpy:1107
 translate Schinese chapter10_32d8135e:
 
     # "Edgar was making coffee, as James came up behind him and massaged his back."
     "Edgar was making coffee, as James came up behind him and massaged his back."
 
-# game/scripts/chapter10.rpy:1108
+# game/scripts/chapter10.rpy:1109
 translate Schinese chapter10_7ff20f52:
 
     # e "I love it when you do that."
     e "I love it when you do that."
 
-# game/scripts/chapter10.rpy:1110
+# game/scripts/chapter10.rpy:1111
 translate Schinese chapter10_85f23662:
 
     # j "I know."
     j "I know."
 
-# game/scripts/chapter10.rpy:1113
+# game/scripts/chapter10.rpy:1114
 translate Schinese chapter10_f841850d:
 
     # "Edgar got up, feeling incredibly sore and tired."
     "Edgar got up, feeling incredibly sore and tired."
 
-# game/scripts/chapter10.rpy:1115
+# game/scripts/chapter10.rpy:1116
 translate Schinese chapter10_7bcd8523:
 
     # e "Ugh, everything hurts."
     e "Ugh, everything hurts."
 
-# game/scripts/chapter10.rpy:1117
+# game/scripts/chapter10.rpy:1118
 translate Schinese chapter10_0172e345:
 
     # "James slept in for longer, clearly having to recover from the ordeal."
     "James slept in for longer, clearly having to recover from the ordeal."
 
-# game/scripts/chapter10.rpy:1125
+# game/scripts/chapter10.rpy:1126
 translate Schinese chapter10_c91dbfab:
 
     # "Edgar made coffee, and James walked in, yawning and showing all his teeth."
     "Edgar made coffee, and James walked in, yawning and showing all his teeth."
 
-# game/scripts/chapter10.rpy:1127
+# game/scripts/chapter10.rpy:1128
 translate Schinese chapter10_74bbfe9b:
 
     # e "Mornin', sunshine!"
     e "Mornin', sunshine!"
 
-# game/scripts/chapter10.rpy:1129
+# game/scripts/chapter10.rpy:1130
 translate Schinese chapter10_d6b68000:
 
     # j "Hey, good morning! Sleep well last night?"
     j "Hey, good morning! Sleep well last night?"
 
-# game/scripts/chapter10.rpy:1131
+# game/scripts/chapter10.rpy:1132
 translate Schinese chapter10_dd6e8963:
 
     # e "About as well as a dried up toad on a hot summer day."
     e "About as well as a dried up toad on a hot summer day."
 
-# game/scripts/chapter10.rpy:1133
+# game/scripts/chapter10.rpy:1134
 translate Schinese chapter10_896cde47:
 
     # j "That's... grisly."
     j "That's... grisly."
 
-# game/scripts/chapter10.rpy:1135
+# game/scripts/chapter10.rpy:1136
 translate Schinese chapter10_adcad46d:
 
     # e "Haha I know."
     e "Haha I know."
 
-# game/scripts/chapter10.rpy:1140
+# game/scripts/chapter10.rpy:1141
 translate Schinese chapter10_ef14fda8:
 
     # j "So... today's the big day right?"
     j "So... today's the big day right?"
 
-# game/scripts/chapter10.rpy:1142
+# game/scripts/chapter10.rpy:1143
 translate Schinese chapter10_92f16cc0:
 
     # e "Yeah."
     e "Yeah."
 
-# game/scripts/chapter10.rpy:1144
+# game/scripts/chapter10.rpy:1145
 translate Schinese chapter10_65a289ef:
 
     # j "We're finally gonna go see your mom?"
     j "We're finally gonna go see your mom?"
 
-# game/scripts/chapter10.rpy:1146
+# game/scripts/chapter10.rpy:1147
 translate Schinese chapter10_c2c2f549:
 
     # e "Well, I think she's there. But I don't know."
     e "Well, I think she's there. But I don't know."
 
-# game/scripts/chapter10.rpy:1148
+# game/scripts/chapter10.rpy:1149
 translate Schinese chapter10_9dab03a3:
 
     # j "In your childhood home, right?"
     j "In your childhood home, right?"
 
-# game/scripts/chapter10.rpy:1150
+# game/scripts/chapter10.rpy:1151
 translate Schinese chapter10_92f16cc0_1:
 
     # e "Yeah."
     e "Yeah."
 
-# game/scripts/chapter10.rpy:1152
+# game/scripts/chapter10.rpy:1153
 translate Schinese chapter10_cc4e1273:
 
     # j "Well, there's no time to waste!"
     j "Well, there's no time to waste!"
 
-# game/scripts/chapter10.rpy:1154
+# game/scripts/chapter10.rpy:1155
 translate Schinese chapter10_9328f5ff:
 
     # "Edgar felt uneasy. It would be so weird if she wasn't there."
     "Edgar felt uneasy. It would be so weird if she wasn't there."
 
-# game/scripts/chapter10.rpy:1156
+# game/scripts/chapter10.rpy:1157
 translate Schinese chapter10_3643ff99:
 
     # "He didn't want to open that particular door. The despair of her not being there would be too much. But..."
     "He didn't want to open that particular door. The despair of her not being there would be too much. But..."
 
-# game/scripts/chapter10.rpy:1158
+# game/scripts/chapter10.rpy:1159
 translate Schinese chapter10_9b971ac4:
 
     # e "Yeah, I gotta find out if she's actually there. If not..."
     e "Yeah, I gotta find out if she's actually there. If not..."
 
-# game/scripts/chapter10.rpy:1160
+# game/scripts/chapter10.rpy:1161
 translate Schinese chapter10_234af950:
 
     # j "We'll cross that bridge when we get to it. C'mon!"
     j "We'll cross that bridge when we get to it. C'mon!"
 
-# game/scripts/chapter10.rpy:1165
+# game/scripts/chapter10.rpy:1166
 translate Schinese chapter10_229c8cc9:
 
     # "Edgar and James were riding in the backseat with Oscar and Max down the main road outside the city."
     "Edgar and James were riding in the backseat with Oscar and Max down the main road outside the city."
 
-# game/scripts/chapter10.rpy:1167
+# game/scripts/chapter10.rpy:1168
 translate Schinese chapter10_fd2b9640:
 
     # o "It's been ages since I left the city. It's so nice and peaceful out here."
     o "It's been ages since I left the city. It's so nice and peaceful out here."
 
-# game/scripts/chapter10.rpy:1171
+# game/scripts/chapter10.rpy:1172
 translate Schinese chapter10_e8a00ee6:
 
     # "There were wheat fields as far as the eye could see."
     "There were wheat fields as far as the eye could see."
 
-# game/scripts/chapter10.rpy:1173
+# game/scripts/chapter10.rpy:1174
 translate Schinese chapter10_010745ab:
 
     # "Edgar looked back, and saw the dark cloud that was the city."
     "Edgar looked back, and saw the dark cloud that was the city."
 
-# game/scripts/chapter10.rpy:1175
+# game/scripts/chapter10.rpy:1176
 translate Schinese chapter10_af1100c2:
 
     # m "Ahh! I don't have an internet signal out here!"
     m "Ahh! I don't have an internet signal out here!"
 
-# game/scripts/chapter10.rpy:1177
+# game/scripts/chapter10.rpy:1178
 translate Schinese chapter10_7614c513:
 
     # o "Oh, quit your whining."
     o "Oh, quit your whining."
 
-# game/scripts/chapter10.rpy:1179
+# game/scripts/chapter10.rpy:1180
 translate Schinese chapter10_1b998a9a_1:
 
     # "Edgar laughed."
     "Edgar laughed."
 
-# game/scripts/chapter10.rpy:1181
+# game/scripts/chapter10.rpy:1182
 translate Schinese chapter10_7023571f:
 
     # e "I... I'm nervous but, I also really hope she's there."
     e "I... I'm nervous but, I also really hope she's there."
 
-# game/scripts/chapter10.rpy:1183
+# game/scripts/chapter10.rpy:1184
 translate Schinese chapter10_20f3d9da:
 
     # "James put his paw on Edgar's shoulder."
     "James put his paw on Edgar's shoulder."
 
-# game/scripts/chapter10.rpy:1185
+# game/scripts/chapter10.rpy:1186
 translate Schinese chapter10_2071679c:
 
     # j "Don't worry, no matter what happens, I'll be there for you."
     j "Don't worry, no matter what happens, I'll be there for you."
 
-# game/scripts/chapter10.rpy:1187
+# game/scripts/chapter10.rpy:1188
 translate Schinese chapter10_88a4f534:
 
     # "Edgar smiled wearily."
     "Edgar smiled wearily."
 
-# game/scripts/chapter10.rpy:1193
+# game/scripts/chapter10.rpy:1194
 translate Schinese chapter10_41cecb21:
 
     # "After about an hour, they arrived at the old village."
     "After about an hour, they arrived at the old village."
 
-# game/scripts/chapter10.rpy:1195
+# game/scripts/chapter10.rpy:1196
 translate Schinese chapter10_cf74d54f:
 
     # "Edgar navigated Oscar through the dirt roads, until he saw his childhood home."
     "Edgar navigated Oscar through the dirt roads, until he saw his childhood home."
 
-# game/scripts/chapter10.rpy:1197
+# game/scripts/chapter10.rpy:1198
 translate Schinese chapter10_564a2b03:
 
     # e "This is it..."
     e "This is it..."
 
-# game/scripts/chapter10.rpy:1201
+# game/scripts/chapter10.rpy:1202
 translate Schinese chapter10_15355a37:
 
     # "Edgar got out and walked slowly, and James followed him."
     "Edgar got out and walked slowly, and James followed him."
 
-# game/scripts/chapter10.rpy:1203
+# game/scripts/chapter10.rpy:1204
 translate Schinese chapter10_3b155bf9:
 
     # o "We'll wait here."
     o "We'll wait here."
 
-# game/scripts/chapter10.rpy:1205
+# game/scripts/chapter10.rpy:1206
 translate Schinese chapter10_3390c0ea:
 
     # "Max stared ahead at the old house, looking somber."
     "Max stared ahead at the old house, looking somber."
 
-# game/scripts/chapter10.rpy:1207
+# game/scripts/chapter10.rpy:1208
 translate Schinese chapter10_af5473ab:
 
     # m "It looks like it's haunted or something."
     m "It looks like it's haunted or something."
 
-# game/scripts/chapter10.rpy:1209
+# game/scripts/chapter10.rpy:1210
 translate Schinese chapter10_ebe3e3a8:
 
     # o "Oh, hush!"
     o "Oh, hush!"
 
-# game/scripts/chapter10.rpy:1211
+# game/scripts/chapter10.rpy:1212
 translate Schinese chapter10_ef9cb70a:
 
     # "Edgar walked toward the door, as James waited behind him."
     "Edgar walked toward the door, as James waited behind him."
 
-# game/scripts/chapter10.rpy:1213
+# game/scripts/chapter10.rpy:1214
 translate Schinese chapter10_e69e6a3d:
 
     # "Suddenly, the door flew open."
     "Suddenly, the door flew open."
 
-# game/scripts/chapter10.rpy:1219
+# game/scripts/chapter10.rpy:1220
 translate Schinese chapter10_acbf6320:
 
     # mom "Oh my god... Edgar?! Edgar is that you?"
     mom "Oh my god... Edgar?! Edgar is that you?"
 
-# game/scripts/chapter10.rpy:1221
+# game/scripts/chapter10.rpy:1222
 translate Schinese chapter10_d2fd328f:
 
     # e "Mom!"
     e "Mom!"
 
-# game/scripts/chapter10.rpy:1223
+# game/scripts/chapter10.rpy:1224
 translate Schinese chapter10_054cd47c:
 
     # "She ran down the steps and towards him."
     "She ran down the steps and towards him."
 
-# game/scripts/chapter10.rpy:1227
+# game/scripts/chapter10.rpy:1228
 translate Schinese chapter10_09d1b184:
 
     # "Mijo, is that really you? I - I never thought I'd see you again!"
     "Mijo, is that really you? I - I never thought I'd see you again!"
 
-# game/scripts/chapter10.rpy:1229
+# game/scripts/chapter10.rpy:1230
 translate Schinese chapter10_483958c9:
 
     # "Tears ran down her eyes, and Edgar started shedding tears too."
     "Tears ran down her eyes, and Edgar started shedding tears too."
 
-# game/scripts/chapter10.rpy:1231
+# game/scripts/chapter10.rpy:1232
 translate Schinese chapter10_26403116:
 
     # e "Mom... I-"
     e "Mom... I-"
 
-# game/scripts/chapter10.rpy:1233
+# game/scripts/chapter10.rpy:1234
 translate Schinese chapter10_32ddb531:
 
     # mom "Oh, you look so thin! Have you been eating?!"
     mom "Oh, you look so thin! Have you been eating?!"
 
-# game/scripts/chapter10.rpy:1235
+# game/scripts/chapter10.rpy:1236
 translate Schinese chapter10_25af0e25:
 
     # mom "Let's get you some food!"
     mom "Let's get you some food!"
 
-# game/scripts/chapter10.rpy:1239
+# game/scripts/chapter10.rpy:1240
 translate Schinese chapter10_54da44e7:
 
     # e "Haha, I know mom. Oh, I want you to meet someone."
     e "Haha, I know mom. Oh, I want you to meet someone."
 
-# game/scripts/chapter10.rpy:1241
+# game/scripts/chapter10.rpy:1242
 translate Schinese chapter10_a618904c:
 
     # "James cleared his throat."
     "James cleared his throat."
 
-# game/scripts/chapter10.rpy:1245
+# game/scripts/chapter10.rpy:1246
 translate Schinese chapter10_d4966606:
 
     # j "H-hey, I'm James. Nice to meet you!"
     j "H-hey, I'm James. Nice to meet you!"
 
-# game/scripts/chapter10.rpy:1247
+# game/scripts/chapter10.rpy:1248
 translate Schinese chapter10_577e9fca:
 
     # mom "Oh, he's handsome! Is he your-"
     mom "Oh, he's handsome! Is he your-"
 
-# game/scripts/chapter10.rpy:1249
+# game/scripts/chapter10.rpy:1250
 translate Schinese chapter10_2a4b5ed8:
 
     # e "Mom!!!"
     e "Mom!!!"
 
-# game/scripts/chapter10.rpy:1251
+# game/scripts/chapter10.rpy:1252
 translate Schinese chapter10_919db019:
 
     # mom "Sorry, you know I like to snoop!"
     mom "Sorry, you know I like to snoop!"
 
-# game/scripts/chapter10.rpy:1254
+# game/scripts/chapter10.rpy:1255
 translate Schinese chapter10_7c94ea7f:
 
     # e "Oh, this is my friend James."
     e "Oh, this is my friend James."
 
-# game/scripts/chapter10.rpy:1256
+# game/scripts/chapter10.rpy:1257
 translate Schinese chapter10_a618904c_1:
 
     # "James cleared his throat."
     "James cleared his throat."
 
-# game/scripts/chapter10.rpy:1260
+# game/scripts/chapter10.rpy:1261
 translate Schinese chapter10_d4966606_1:
 
     # j "H-hey, I'm James. Nice to meet you!"
     j "H-hey, I'm James. Nice to meet you!"
 
-# game/scripts/chapter10.rpy:1262
+# game/scripts/chapter10.rpy:1263
 translate Schinese chapter10_73440602:
 
     # mom "Nice to meet you!"
     mom "Nice to meet you!"
 
-# game/scripts/chapter10.rpy:1266
+# game/scripts/chapter10.rpy:1267
 translate Schinese chapter10_04319760:
 
     # "Edgar motioned for Oscar and Max to come over."
     "Edgar motioned for Oscar and Max to come over."
 
-# game/scripts/chapter10.rpy:1268
+# game/scripts/chapter10.rpy:1269
 translate Schinese chapter10_46f1650b:
 
     # e "These are my other friends too, Oscar and Max."
     e "These are my other friends too, Oscar and Max."
 
-# game/scripts/chapter10.rpy:1272
+# game/scripts/chapter10.rpy:1273
 translate Schinese chapter10_922173ae:
 
     # o "Hey!"
     o "Hey!"
 
-# game/scripts/chapter10.rpy:1274
+# game/scripts/chapter10.rpy:1275
 translate Schinese chapter10_3f6b1de6:
 
     # m "Hello!"
     m "Hello!"
 
-# game/scripts/chapter10.rpy:1276
+# game/scripts/chapter10.rpy:1277
 translate Schinese chapter10_245bd976:
 
     # mom "Oh, we'll all have a nice dinner. How does enchiladas sound?"
     mom "Oh, we'll all have a nice dinner. How does enchiladas sound?"
 
-# game/scripts/chapter10.rpy:1278
+# game/scripts/chapter10.rpy:1279
 translate Schinese chapter10_99c45737:
 
     # e "That sounds great!"
     e "That sounds great!"
 
-# game/scripts/chapter10.rpy:1280
+# game/scripts/chapter10.rpy:1281
 translate Schinese chapter10_406027b6:
 
     # mom "Ok let's go. Edgar, come on you can help me. Don't be lazy."
     mom "Ok let's go. Edgar, come on you can help me. Don't be lazy."
 
-# game/scripts/chapter10.rpy:1282
+# game/scripts/chapter10.rpy:1283
 translate Schinese chapter10_729ee065:
 
     # e "Don't worry, I got this! I'm a cook now you know."
     e "Don't worry, I got this! I'm a cook now you know."
 
-# game/scripts/chapter10.rpy:1284
+# game/scripts/chapter10.rpy:1285
 translate Schinese chapter10_d98c60fb:
 
     # mom "Oh really? You'll have to tell me all about that."
     mom "Oh really? You'll have to tell me all about that."
 
-# game/scripts/chapter10.rpy:1286
+# game/scripts/chapter10.rpy:1287
 translate Schinese chapter10_22cd8ebe:
 
     # "Edgar smiled to James, and he smiled back his usual warm smile."
     "Edgar smiled to James, and he smiled back his usual warm smile."
 
-# game/scripts/chapter10.rpy:1288
+# game/scripts/chapter10.rpy:1289
 translate Schinese chapter10_1f8bc5ff:
 
     # "It let him know that everything was gonna be alright."
     "It let him know that everything was gonna be alright."
 
-# game/scripts/chapter10.rpy:1299
+# game/scripts/chapter10.rpy:1300
 translate Schinese chapter10_c0650ba1:
 
     # j "So... what are we doing today?"
     j "So... what are we doing today?"
 
-# game/scripts/chapter10.rpy:1301
+# game/scripts/chapter10.rpy:1302
 translate Schinese chapter10_a88c9524:
 
     # e "Oh, I dunno. I guess we can do whatever."
     e "Oh, I dunno. I guess we can do whatever."
 
-# game/scripts/chapter10.rpy:1303
+# game/scripts/chapter10.rpy:1304
 translate Schinese chapter10_4f8ac862:
 
     # j "I was thinking... Let's go to our special place. I really liked going the first time... What do you say?"
     j "I was thinking... Let's go to our special place. I really liked going the first time... What do you say?"
 
-# game/scripts/chapter10.rpy:1305
+# game/scripts/chapter10.rpy:1306
 translate Schinese chapter10_aef82a8e:
 
     # e "You mean that forest, right?"
     e "You mean that forest, right?"
 
-# game/scripts/chapter10.rpy:1307
+# game/scripts/chapter10.rpy:1308
 translate Schinese chapter10_ef313afe:
 
     # "James nodded."
     "James nodded."
 
-# game/scripts/chapter10.rpy:1309
+# game/scripts/chapter10.rpy:1310
 translate Schinese chapter10_b15f2c50:
 
     # "Edgar thought about it. After all he had been through, it would be nice to revisit that place."
     "Edgar thought about it. After all he had been through, it would be nice to revisit that place."
 
-# game/scripts/chapter10.rpy:1311
+# game/scripts/chapter10.rpy:1312
 translate Schinese chapter10_84ad35dc:
 
     # e "Yeah, that sounds like a nice time."
     e "Yeah, that sounds like a nice time."
 
-# game/scripts/chapter10.rpy:1313
+# game/scripts/chapter10.rpy:1314
 translate Schinese chapter10_89006351:
 
     # j "Alright, let's do it!"
     j "Alright, let's do it!"
 
-# game/scripts/chapter10.rpy:1319
+# game/scripts/chapter10.rpy:1320
 translate Schinese chapter10_a6326cc8:
 
     # "They walked through the woods in silence."
     "They walked through the woods in silence."
 
-# game/scripts/chapter10.rpy:1321
+# game/scripts/chapter10.rpy:1322
 translate Schinese chapter10_f9dc9cbc:
 
     # "The sounds of birds echoed in the forest. Edgar was reminded of his own trip through the forest on the outside of the city."
     "The sounds of birds echoed in the forest. Edgar was reminded of his own trip through the forest on the outside of the city."
 
-# game/scripts/chapter10.rpy:1325
+# game/scripts/chapter10.rpy:1326
 translate Schinese chapter10_e883d95f:
 
     # e "You know, I met Raven Cap right?"
     e "You know, I met Raven Cap right?"
 
-# game/scripts/chapter10.rpy:1327
+# game/scripts/chapter10.rpy:1328
 translate Schinese chapter10_a50e3aa6:
 
     # j "What??"
     j "What??"
 
-# game/scripts/chapter10.rpy:1329
+# game/scripts/chapter10.rpy:1330
 translate Schinese chapter10_bc20a68c:
 
     # e "I mean, I thought he was. But it was just an old raven."
     e "I mean, I thought he was. But it was just an old raven."
 
-# game/scripts/chapter10.rpy:1331
+# game/scripts/chapter10.rpy:1332
 translate Schinese chapter10_c3a1e6a0:
 
     # j "Aww. I'd like to meet him. Maybe Raven Cap is his alter ego!"
     j "Aww. I'd like to meet him. Maybe Raven Cap is his alter ego!"
 
-# game/scripts/chapter10.rpy:1333
+# game/scripts/chapter10.rpy:1334
 translate Schinese chapter10_3fef1810:
 
     # e "Hmm, it would be a pretty good cover. No one would suspect a lovely old man!"
     e "Hmm, it would be a pretty good cover. No one would suspect a lovely old man!"
 
-# game/scripts/chapter10.rpy:1335
+# game/scripts/chapter10.rpy:1336
 translate Schinese chapter10_b525efb2:
 
     # j "I'd like to go out there someday. Maybe I can meet him myself."
     j "I'd like to go out there someday. Maybe I can meet him myself."
 
-# game/scripts/chapter10.rpy:1337
+# game/scripts/chapter10.rpy:1338
 translate Schinese chapter10_b485dd2d:
 
     # e "Oh, no way. I've had enough of those woods for a lifetime."
     e "Oh, no way. I've had enough of those woods for a lifetime."
 
-# game/scripts/chapter10.rpy:1339
+# game/scripts/chapter10.rpy:1340
 translate Schinese chapter10_af9936b3:
 
     # j "Come on! Don't you want to see the stars at night, make s'mores, and cuddle next to a campfire?"
     j "Come on! Don't you want to see the stars at night, make s'mores, and cuddle next to a campfire?"
 
-# game/scripts/chapter10.rpy:1341
+# game/scripts/chapter10.rpy:1342
 translate Schinese chapter10_24e86f51:
 
     # e "... Damn it.. why do you have to make it sound so enticing?"
     e "... Damn it.. why do you have to make it sound so enticing?"
 
-# game/scripts/chapter10.rpy:1343
+# game/scripts/chapter10.rpy:1344
 translate Schinese chapter10_593d6be6:
 
     # j "Got him!"
     j "Got him!"
 
-# game/scripts/chapter10.rpy:1345
+# game/scripts/chapter10.rpy:1346
 translate Schinese chapter10_0c9d9353:
 
     # "They continued walking along the path, and they stopped at a familiar spot."
     "They continued walking along the path, and they stopped at a familiar spot."
 
-# game/scripts/chapter10.rpy:1351
+# game/scripts/chapter10.rpy:1352
 translate Schinese chapter10_fc5fe5a1:
 
     # "The Wolf and the Fox sat down next to each other."
     "The Wolf and the Fox sat down next to each other."
 
-# game/scripts/chapter10.rpy:1355
+# game/scripts/chapter10.rpy:1356
 translate Schinese chapter10_356ef332:
 
     # "Edgar looked out toward the city. It was as if nothing had touched it."
     "Edgar looked out toward the city. It was as if nothing had touched it."
 
-# game/scripts/chapter10.rpy:1357
+# game/scripts/chapter10.rpy:1358
 translate Schinese chapter10_f3a5dfbd:
 
     # "James put his arms around Edgar and nuzzled him with his snout."
     "James put his arms around Edgar and nuzzled him with his snout."
 
-# game/scripts/chapter10.rpy:1361
+# game/scripts/chapter10.rpy:1362
 translate Schinese chapter10_48299f5e:
 
     # j "You smell so good."
     j "You smell so good."
 
-# game/scripts/chapter10.rpy:1363
+# game/scripts/chapter10.rpy:1364
 translate Schinese chapter10_7e10e384:
 
     # e "Really? Like what?"
     e "Really? Like what?"
 
-# game/scripts/chapter10.rpy:1365
+# game/scripts/chapter10.rpy:1366
 translate Schinese chapter10_eac9ffab:
 
     # j "Like... tacos."
     j "Like... tacos."
 
-# game/scripts/chapter10.rpy:1367
+# game/scripts/chapter10.rpy:1368
 translate Schinese chapter10_89272113:
 
     # e "Well I'm a taco chef ya dingus."
     e "Well I'm a taco chef ya dingus."
 
-# game/scripts/chapter10.rpy:1369
+# game/scripts/chapter10.rpy:1370
 translate Schinese chapter10_e14af2f4:
 
     # j "Mmm.. it's making me hungry."
     j "Mmm.. it's making me hungry."
 
-# game/scripts/chapter10.rpy:1371
+# game/scripts/chapter10.rpy:1372
 translate Schinese chapter10_5f2befd8:
 
     # "James started play biting Edgar in the neck."
     "James started play biting Edgar in the neck."
 
-# game/scripts/chapter10.rpy:1373
+# game/scripts/chapter10.rpy:1374
 translate Schinese chapter10_ccf30c95:
 
     # e "Hey stop that! I'm not food!"
     e "Hey stop that! I'm not food!"
 
-# game/scripts/chapter10.rpy:1375
+# game/scripts/chapter10.rpy:1376
 translate Schinese chapter10_d4995409:
 
     # j "Sorry, I forget sometimes. You're just so tasty!"
     j "Sorry, I forget sometimes. You're just so tasty!"
 
-# game/scripts/chapter10.rpy:1377
+# game/scripts/chapter10.rpy:1378
 translate Schinese chapter10_2a30e647:
 
     # "James licked him."
     "James licked him."
 
-# game/scripts/chapter10.rpy:1379
+# game/scripts/chapter10.rpy:1380
 translate Schinese chapter10_234afa42:
 
     # e "Haha! Hey, cut it out!"
     e "Haha! Hey, cut it out!"
 
-# game/scripts/chapter10.rpy:1381
+# game/scripts/chapter10.rpy:1382
 translate Schinese chapter10_38d28f3b:
 
     # j "Alright, alright!"
     j "Alright, alright!"
 
-# game/scripts/chapter10.rpy:1383
+# game/scripts/chapter10.rpy:1384
 translate Schinese chapter10_92bbd710:
 
     # "James picked Edgar up and put him on his lap, hugging him."
     "James picked Edgar up and put him on his lap, hugging him."
 
-# game/scripts/chapter10.rpy:1387
+# game/scripts/chapter10.rpy:1388
 translate Schinese chapter10_d760dd27:
 
     # e "I forget how strong you are sometimes."
     e "I forget how strong you are sometimes."
 
-# game/scripts/chapter10.rpy:1389
+# game/scripts/chapter10.rpy:1390
 translate Schinese chapter10_c78a4b87:
 
     # j "Nah, you're just really light."
     j "Nah, you're just really light."
 
-# game/scripts/chapter10.rpy:1391
+# game/scripts/chapter10.rpy:1392
 translate Schinese chapter10_10616e6b:
 
     # "James held him tighter. In his arms, Edgar felt like nothing could go wrong, nothing could hurt him anymore."
     "James held him tighter. In his arms, Edgar felt like nothing could go wrong, nothing could hurt him anymore."
 
-# game/scripts/chapter10.rpy:1393
+# game/scripts/chapter10.rpy:1394
 translate Schinese chapter10_3df37a54:
 
     # "Edgar breathed out a long sigh. He felt like he had been holding his breath for ages."
     "Edgar breathed out a long sigh. He felt like he had been holding his breath for ages."
 
-# game/scripts/chapter10.rpy:1395
+# game/scripts/chapter10.rpy:1396
 translate Schinese chapter10_0890721b:
 
     # j "What's the matter?"
     j "What's the matter?"
 
-# game/scripts/chapter10.rpy:1397
+# game/scripts/chapter10.rpy:1398
 translate Schinese chapter10_bc73abcd:
 
     # e "Nothing, I'm just happy to be here."
     e "Nothing, I'm just happy to be here."
 
-# game/scripts/chapter10.rpy:1399
+# game/scripts/chapter10.rpy:1400
 translate Schinese chapter10_16170008:
 
     # e "I never thought we'd be like this again."
     e "I never thought we'd be like this again."
 
-# game/scripts/chapter10.rpy:1401
+# game/scripts/chapter10.rpy:1402
 translate Schinese chapter10_ae75e0e1:
 
     # j "Really? I was positive we would."
     j "Really? I was positive we would."
 
-# game/scripts/chapter10.rpy:1403
+# game/scripts/chapter10.rpy:1404
 translate Schinese chapter10_0b5f4b8c:
 
     # e "How could you be so sure?"
     e "How could you be so sure?"
 
-# game/scripts/chapter10.rpy:1405
+# game/scripts/chapter10.rpy:1406
 translate Schinese chapter10_0c7e1917:
 
     # j "I read the script."
     j "I read the script."
 
-# game/scripts/chapter10.rpy:1407
+# game/scripts/chapter10.rpy:1408
 translate Schinese chapter10_5e79eb78:
 
     # e "... the script?"
     e "... the script?"
 
-# game/scripts/chapter10.rpy:1409
+# game/scripts/chapter10.rpy:1410
 translate Schinese chapter10_a46eadbe:
 
     # j "Yeah it's like... a movie script. It's in my head. I always knew we would end up together, here. No matter what, I would make it happen."
     j "Yeah it's like... a movie script. It's in my head. I always knew we would end up together, here. No matter what, I would make it happen."
 
-# game/scripts/chapter10.rpy:1411
+# game/scripts/chapter10.rpy:1412
 translate Schinese chapter10_d2b7b892:
 
     # e "But you couldn't know for sure."
     e "But you couldn't know for sure."
 
-# game/scripts/chapter10.rpy:1413
+# game/scripts/chapter10.rpy:1414
 translate Schinese chapter10_f2abe73a:
 
     # j "Oh, but I did."
     j "Oh, but I did."
 
-# game/scripts/chapter10.rpy:1415
+# game/scripts/chapter10.rpy:1416
 translate Schinese chapter10_7a0fd9e1:
 
     # e "Haha, fine then... what happens after this?"
     e "Haha, fine then... what happens after this?"
 
-# game/scripts/chapter10.rpy:1417
+# game/scripts/chapter10.rpy:1418
 translate Schinese chapter10_cba74f22:
 
     # j "Well, that's where the movie ends. From here on out... it's whatever we make of it."
     j "Well, that's where the movie ends. From here on out... it's whatever we make of it."
 
-# game/scripts/chapter10.rpy:1419
+# game/scripts/chapter10.rpy:1420
 translate Schinese chapter10_3ffdaee0:
 
     # e "Is that so?"
     e "Is that so?"
 
-# game/scripts/chapter10.rpy:1421
+# game/scripts/chapter10.rpy:1422
 translate Schinese chapter10_bb4c40c2:
 
     # j "Yep."
     j "Yep."
 
-# game/scripts/chapter10.rpy:1423
+# game/scripts/chapter10.rpy:1424
 translate Schinese chapter10_d8770a4d:
 
     # e "Well, I want the happily ever after."
     e "Well, I want the happily ever after."
 
-# game/scripts/chapter10.rpy:1425
+# game/scripts/chapter10.rpy:1426
 translate Schinese chapter10_6793118d:
 
     # "James grinned."
     "James grinned."
 
-# game/scripts/chapter10.rpy:1427
+# game/scripts/chapter10.rpy:1428
 translate Schinese chapter10_32ff8930:
 
     # j "Well, this is real life. There is no happily ever after!"
     j "Well, this is real life. There is no happily ever after!"
 
-# game/scripts/chapter10.rpy:1429
+# game/scripts/chapter10.rpy:1430
 translate Schinese chapter10_2b71efe0:
 
     # e "Aw come on. You got my hopes up just to shoot them down."
     e "Aw come on. You got my hopes up just to shoot them down."
 
-# game/scripts/chapter10.rpy:1431
+# game/scripts/chapter10.rpy:1432
 translate Schinese chapter10_2e45dfba:
 
     # j "I'm sorry... but, it's not all bad."
     j "I'm sorry... but, it's not all bad."
 
-# game/scripts/chapter10.rpy:1433
+# game/scripts/chapter10.rpy:1434
 translate Schinese chapter10_888eb8a6:
 
     # e "Oh?"
     e "Oh?"
 
-# game/scripts/chapter10.rpy:1435
+# game/scripts/chapter10.rpy:1436
 translate Schinese chapter10_3cd31b62:
 
     # j "Yeah, I mean I've got you right where I want you."
     j "Yeah, I mean I've got you right where I want you."
 
-# game/scripts/chapter10.rpy:1437
+# game/scripts/chapter10.rpy:1438
 translate Schinese chapter10_a1f7e4d7:
 
     # e "What are you planning?"
     e "What are you planning?"
 
-# game/scripts/chapter10.rpy:1439
+# game/scripts/chapter10.rpy:1440
 translate Schinese chapter10_7106840b:
 
     # j "To make you the happiest fox ever."
     j "To make you the happiest fox ever."
 
-# game/scripts/chapter10.rpy:1441
+# game/scripts/chapter10.rpy:1442
 translate Schinese chapter10_82851831:
 
     # "Edgar smiled and closed his eyes."
     "Edgar smiled and closed his eyes."
 
-# game/scripts/chapter10.rpy:1443
+# game/scripts/chapter10.rpy:1444
 translate Schinese chapter10_049a0eab:
 
     # e "It's too late... I already am."
     e "It's too late... I already am."
 
-# game/scripts/chapter10.rpy:1452
+# game/scripts/chapter10.rpy:1453
 translate Schinese chapter10_49b4b184:
 
     # j "So... what are you doing today?"
     j "So... what are you doing today?"
 
-# game/scripts/chapter10.rpy:1454
+# game/scripts/chapter10.rpy:1455
 translate Schinese chapter10_a951017e:
 
     # "James stared at his coffee cup."
     "James stared at his coffee cup."
 
-# game/scripts/chapter10.rpy:1456
+# game/scripts/chapter10.rpy:1457
 translate Schinese chapter10_04d72fe0:
 
     # e "Oh, well... I was gonna go look for a new apartment."
     e "Oh, well... I was gonna go look for a new apartment."
 
-# game/scripts/chapter10.rpy:1458
+# game/scripts/chapter10.rpy:1459
 translate Schinese chapter10_50f54b5b:
 
     # e "I feel like I'm finally a little stable enough."
     e "I feel like I'm finally a little stable enough."
 
-# game/scripts/chapter10.rpy:1460
+# game/scripts/chapter10.rpy:1461
 translate Schinese chapter10_000f45e6:
 
     # e "Thanks so much for letting me stay here. I can't thank you enough."
     e "Thanks so much for letting me stay here. I can't thank you enough."
 
-# game/scripts/chapter10.rpy:1462
+# game/scripts/chapter10.rpy:1463
 translate Schinese chapter10_e6ea3011:
 
     # j "It's no problem. You were a good roommate... and watching movies with you was so fun!"
     j "It's no problem. You were a good roommate... and watching movies with you was so fun!"
 
-# game/scripts/chapter10.rpy:1464
+# game/scripts/chapter10.rpy:1465
 translate Schinese chapter10_7606ea7d:
 
     # "James smiled wearily."
     "James smiled wearily."
 
-# game/scripts/chapter10.rpy:1466
+# game/scripts/chapter10.rpy:1467
 translate Schinese chapter10_32fcb324:
 
     # e "Aww, well don't worry I can still come over and watch movies with you."
     e "Aww, well don't worry I can still come over and watch movies with you."
 
-# game/scripts/chapter10.rpy:1468
+# game/scripts/chapter10.rpy:1469
 translate Schinese chapter10_6d0502a9:
 
     # j "Really? That would be great!"
     j "Really? That would be great!"
 
-# game/scripts/chapter10.rpy:1470
+# game/scripts/chapter10.rpy:1471
 translate Schinese chapter10_1e8bbe13:
 
     # "James' smile perked up as usual."
     "James' smile perked up as usual."
 
-# game/scripts/chapter10.rpy:1472
+# game/scripts/chapter10.rpy:1473
 translate Schinese chapter10_ae8ef9e1:
 
     # j "You mind if I join you in apartment hunting?"
     j "You mind if I join you in apartment hunting?"
 
-# game/scripts/chapter10.rpy:1474
+# game/scripts/chapter10.rpy:1475
 translate Schinese chapter10_e7d8ee4b:
 
     # e "Yeah, you can come. I can't promise it will be fun though."
     e "Yeah, you can come. I can't promise it will be fun though."
 
-# game/scripts/chapter10.rpy:1480
+# game/scripts/chapter10.rpy:1481
 translate Schinese chapter10_ac671e07:
 
     # "After a day full of apartment hunting, and submitting applications, Edgar decided to walk the streets alone."
     "After a day full of apartment hunting, and submitting applications, Edgar decided to walk the streets alone."
 
-# game/scripts/chapter10.rpy:1482
+# game/scripts/chapter10.rpy:1483
 translate Schinese chapter10_f4ee811f:
 
     # "He walked, hearing the sounds of the city, and feeling the cold bitter air through his fur."
     "He walked, hearing the sounds of the city, and feeling the cold bitter air through his fur."
 
-# game/scripts/chapter10.rpy:1486
+# game/scripts/chapter10.rpy:1487
 translate Schinese chapter10_51762b0c:
 
     # "After all that happened, the craziest part was how quickly everything went back to 'normal.'"
     "After all that happened, the craziest part was how quickly everything went back to 'normal.'"
 
-# game/scripts/chapter10.rpy:1488
+# game/scripts/chapter10.rpy:1489
 translate Schinese chapter10_71623cde:
 
     # "He passed the site of the warzone, and saw cleanup robots picking up the disdcarded pieces of the BlackStar robots."
     "He passed the site of the warzone, and saw cleanup robots picking up the disdcarded pieces of the BlackStar robots."
 
-# game/scripts/chapter10.rpy:1490
+# game/scripts/chapter10.rpy:1491
 translate Schinese chapter10_2487b6e8:
 
     # "Everyone seemed to be going about their usual day, nonplussed about the situation."
     "Everyone seemed to be going about their usual day, nonplussed about the situation."
 
-# game/scripts/chapter10.rpy:1492
+# game/scripts/chapter10.rpy:1493
 translate Schinese chapter10_e5223e13:
 
     # e "Mom... I wonder..."
     e "Mom... I wonder..."
 
-# game/scripts/chapter10.rpy:1494
+# game/scripts/chapter10.rpy:1495
 translate Schinese chapter10_40f92ad5:
 
     # "He didn't know if he would ever see her again, but he hoped she was ok."
     "He didn't know if he would ever see her again, but he hoped she was ok."
 
-# game/scripts/chapter10.rpy:1496
+# game/scripts/chapter10.rpy:1497
 translate Schinese chapter10_46394242:
 
     # "As he walked, he felt a bittersweet sense."
     "As he walked, he felt a bittersweet sense."
 
-# game/scripts/chapter10.rpy:1498
+# game/scripts/chapter10.rpy:1499
 translate Schinese chapter10_9a48788d:
 
     # "His life was finally stable... it's what he wanted, right?"
     "His life was finally stable... it's what he wanted, right?"
 
-# game/scripts/chapter10.rpy:1500
+# game/scripts/chapter10.rpy:1501
 translate Schinese chapter10_ecfb0e85_1:
 
     # "Edgar sighed."
     "Edgar sighed."
 
-# game/scripts/chapter10.rpy:1502
+# game/scripts/chapter10.rpy:1503
 translate Schinese chapter10_83eb8bf2:
 
     # "As he passed a shop, something caught his eye."
     "As he passed a shop, something caught his eye."
 
-# game/scripts/chapter10.rpy:1506
+# game/scripts/chapter10.rpy:1507
 translate Schinese chapter10_0f2f7583:
 
     # "He turned to look, and saw it was a jewelry store."
     "He turned to look, and saw it was a jewelry store."
 
-# game/scripts/chapter10.rpy:1508
+# game/scripts/chapter10.rpy:1509
 translate Schinese chapter10_d7f90793:
 
     # "Edgar looked inside, and saw a necklace with a massive rare black opal stone."
     "Edgar looked inside, and saw a necklace with a massive rare black opal stone."
 
-# game/scripts/chapter10.rpy:1510
+# game/scripts/chapter10.rpy:1511
 translate Schinese chapter10_7ec5bb0b:
 
     # "The colors shimmered in greens, reds, and yellows against a dark blue rock."
     "The colors shimmered in greens, reds, and yellows against a dark blue rock."
 
-# game/scripts/chapter10.rpy:1512
+# game/scripts/chapter10.rpy:1513
 translate Schinese chapter10_3324803d:
 
     # e "Wow.. it's so pretty..."
     e "Wow.. it's so pretty..."
 
-# game/scripts/chapter10.rpy:1514
+# game/scripts/chapter10.rpy:1515
 translate Schinese chapter10_623db308:
 
     # "He eyed it and smirked to himself. It would be his soon enough."
     "He eyed it and smirked to himself. It would be his soon enough."
+
+translate Schinese strings:
+
+    # game/scripts/chapter10.rpy:804
+    old "Yeah"
+    new "Yeah"
 

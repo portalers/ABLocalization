@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2021-10-16 16:00
+# TODO: Translation updated at 2023-02-17 19:22
 
 # game/scripts/chapter9.rpy:13
 translate Schinese chapter9_59fbb777:
@@ -1230,1567 +1230,1567 @@ translate Schinese chapter9_d3f873ae:
     # "Suddenly, he saw three cop cars chasing him."
     "Suddenly, he saw three cop cars chasing him."
 
-# game/scripts/chapter9.rpy:514
+# game/scripts/chapter9.rpy:516
 translate Schinese chapter9_84a29426:
 
     # e "Just my luck."
     e "Just my luck."
 
-# game/scripts/chapter9.rpy:516
+# game/scripts/chapter9.rpy:518
 translate Schinese chapter9_06c27dae:
 
     # "He looked over at James. He was still breathing."
     "He looked over at James. He was still breathing."
 
-# game/scripts/chapter9.rpy:518
+# game/scripts/chapter9.rpy:520
 translate Schinese chapter9_07d579ad:
 
     # e "Hold on James."
     e "Hold on James."
 
-# game/scripts/chapter9.rpy:520
+# game/scripts/chapter9.rpy:522
 translate Schinese chapter9_bbdd76a7:
 
     # "Edgar drove, weaving through traffic."
     "Edgar drove, weaving through traffic."
 
-# game/scripts/chapter9.rpy:522
+# game/scripts/chapter9.rpy:524
 translate Schinese chapter9_b47add92:
 
     # "The police cars activated their flight mode."
     "The police cars activated their flight mode."
 
-# game/scripts/chapter9.rpy:524
+# game/scripts/chapter9.rpy:526
 translate Schinese chapter9_d9b881c9:
 
     # e "Fuck!"
     e "Fuck!"
 
-# game/scripts/chapter9.rpy:526
+# game/scripts/chapter9.rpy:528
 translate Schinese chapter9_a4e6f885:
 
     # "-STOP THE VEHICLE NOW. THIS IS YOUR LAST WARNING."
     "-STOP THE VEHICLE NOW. THIS IS YOUR LAST WARNING."
 
-# game/scripts/chapter9.rpy:528
+# game/scripts/chapter9.rpy:530
 translate Schinese chapter9_a918eb83:
 
     # "As the police cars closed on him, Edgar veered to the left and into a different street."
     "As the police cars closed on him, Edgar veered to the left and into a different street."
 
-# game/scripts/chapter9.rpy:530
+# game/scripts/chapter9.rpy:534
 translate Schinese chapter9_45779c0d:
 
     # "The police cars flew past as they sped away."
     "The police cars flew past as they sped away."
 
-# game/scripts/chapter9.rpy:532
+# game/scripts/chapter9.rpy:536
 translate Schinese chapter9_6c5d0ff2:
 
     # e "That should buy me some time."
     e "That should buy me some time."
 
-# game/scripts/chapter9.rpy:534
+# game/scripts/chapter9.rpy:538
 translate Schinese chapter9_7c595cde:
 
     # "He approached the Emergency Center, and got out."
     "He approached the Emergency Center, and got out."
 
-# game/scripts/chapter9.rpy:536
+# game/scripts/chapter9.rpy:540
 translate Schinese chapter9_02f37387:
 
     # "A nurse, a stout and well-fed cow jogged outside."
     "A nurse, a stout and well-fed cow jogged outside."
 
-# game/scripts/chapter9.rpy:538
+# game/scripts/chapter9.rpy:542
 translate Schinese chapter9_e49fd603:
 
     # nurse "What's going on here?"
     nurse "What's going on here?"
 
-# game/scripts/chapter9.rpy:540
+# game/scripts/chapter9.rpy:544
 translate Schinese chapter9_079b2233:
 
     # e "Please, help him!"
     e "Please, help him!"
 
-# game/scripts/chapter9.rpy:542
+# game/scripts/chapter9.rpy:546
 translate Schinese chapter9_3d97cb2b:
 
     # "Edgar pointed to the car."
     "Edgar pointed to the car."
 
-# game/scripts/chapter9.rpy:544
+# game/scripts/chapter9.rpy:548
 translate Schinese chapter9_352e7652:
 
     # nurse "What's wrong with him?"
     nurse "What's wrong with him?"
 
-# game/scripts/chapter9.rpy:546
+# game/scripts/chapter9.rpy:550
 translate Schinese chapter9_5a51c06a:
 
     # "The nurse opened up the passenger door, and started examining him."
     "The nurse opened up the passenger door, and started examining him."
 
-# game/scripts/chapter9.rpy:548
+# game/scripts/chapter9.rpy:552
 translate Schinese chapter9_58f39792:
 
     # e "I don't know, we were outside of the city and the air was really thick and it burned to breathe."
     e "I don't know, we were outside of the city and the air was really thick and it burned to breathe."
 
-# game/scripts/chapter9.rpy:550
+# game/scripts/chapter9.rpy:554
 translate Schinese chapter9_7b8a96cc:
 
     # nurse "Outside the city? Those fumes are very dangerous. We need to act quickly."
     nurse "Outside the city? Those fumes are very dangerous. We need to act quickly."
 
-# game/scripts/chapter9.rpy:552
+# game/scripts/chapter9.rpy:556
 translate Schinese chapter9_e58bbda7:
 
     # e "Is he going to be alright?"
     e "Is he going to be alright?"
 
-# game/scripts/chapter9.rpy:554
+# game/scripts/chapter9.rpy:558
 translate Schinese chapter9_3a72b784:
 
     # nurse "He should be. He's a big guy."
     nurse "He should be. He's a big guy."
 
-# game/scripts/chapter9.rpy:556
+# game/scripts/chapter9.rpy:560
 translate Schinese chapter9_d41184cc:
 
     # "She pulled out her radio."
     "She pulled out her radio."
 
-# game/scripts/chapter9.rpy:558
+# game/scripts/chapter9.rpy:562
 translate Schinese chapter9_5acf9c46:
 
     # nurse "I need a stretcher and a few hands in the front entrance."
     nurse "I need a stretcher and a few hands in the front entrance."
 
-# game/scripts/chapter9.rpy:560
+# game/scripts/chapter9.rpy:564
 translate Schinese chapter9_ac4a0c48:
 
     # "Edgar could hear the sirens closing in again."
     "Edgar could hear the sirens closing in again."
 
-# game/scripts/chapter9.rpy:562
+# game/scripts/chapter9.rpy:566
 translate Schinese chapter9_d4667406:
 
     # e "God damn it. I gotta go ok? Please take care of him."
     e "God damn it. I gotta go ok? Please take care of him."
 
-# game/scripts/chapter9.rpy:564
+# game/scripts/chapter9.rpy:568
 translate Schinese chapter9_cef98790:
 
     # "The nurse looked suspiciously at him, and then nodded."
     "The nurse looked suspiciously at him, and then nodded."
 
-# game/scripts/chapter9.rpy:567
+# game/scripts/chapter9.rpy:571
 translate Schinese chapter9_29adda3b:
 
     # "Edgar went over to James and caressed his face."
     "Edgar went over to James and caressed his face."
 
-# game/scripts/chapter9.rpy:569
+# game/scripts/chapter9.rpy:573
 translate Schinese chapter9_040bc94d:
 
     # e "I'll be back. Don't die on me."
     e "I'll be back. Don't die on me."
 
-# game/scripts/chapter9.rpy:571
+# game/scripts/chapter9.rpy:575
 translate Schinese chapter9_fcbd8c02:
 
     # "Edgar ran away into a back alley, and suddenly he heard a massive explosion from far away."
     "Edgar ran away into a back alley, and suddenly he heard a massive explosion from far away."
 
-# game/scripts/chapter9.rpy:575
+# game/scripts/chapter9.rpy:579
 translate Schinese chapter9_4c917db9:
 
     # "-BOOOM-"
     "-BOOOM-"
 
-# game/scripts/chapter9.rpy:577
+# game/scripts/chapter9.rpy:581
 translate Schinese chapter9_6bcd6292:
 
     # e "What in the hell was that?"
     e "What in the hell was that?"
 
-# game/scripts/chapter9.rpy:579
+# game/scripts/chapter9.rpy:583
 translate Schinese chapter9_d0642f2d:
 
     # "He grimaced, hearing Al in his mind again."
     "He grimaced, hearing Al in his mind again."
 
-# game/scripts/chapter9.rpy:581
+# game/scripts/chapter9.rpy:585
 translate Schinese chapter9_3032e485:
 
     # "Edgar, it has begun. I need your help or the entire city will be destroyed."
     "Edgar, it has begun. I need your help or the entire city will be destroyed."
 
-# game/scripts/chapter9.rpy:583
+# game/scripts/chapter9.rpy:587
 translate Schinese chapter9_1972d4ca:
 
     # e "What do I do?"
     e "What do I do?"
 
-# game/scripts/chapter9.rpy:585
+# game/scripts/chapter9.rpy:589
 translate Schinese chapter9_a774178a:
 
     # al "As we speak, my counter part - Omega Drake - has mobilized."
     al "As we speak, my counter part - Omega Drake - has mobilized."
 
-# game/scripts/chapter9.rpy:587
+# game/scripts/chapter9.rpy:591
 translate Schinese chapter9_f561a1ea:
 
     # al "I need you to come to me - you will know when the time is right."
     al "I need you to come to me - you will know when the time is right."
 
-# game/scripts/chapter9.rpy:589
+# game/scripts/chapter9.rpy:593
 translate Schinese chapter9_63454609:
 
     # e "Al, what do you mean?? Al??"
     e "Al, what do you mean?? Al??"
 
-# game/scripts/chapter9.rpy:591
+# game/scripts/chapter9.rpy:595
 translate Schinese chapter9_bb963fcc:
 
     # "He could no longer hear Al."
     "He could no longer hear Al."
 
-# game/scripts/chapter9.rpy:595
+# game/scripts/chapter9.rpy:599
 translate Schinese chapter9_01820bf1:
 
     # e "... Damn it."
     e "... Damn it."
 
-# game/scripts/chapter9.rpy:597
+# game/scripts/chapter9.rpy:601
 translate Schinese chapter9_8285ee3b:
 
     # "Edgar got a sinking feeling. He hoped Al was OK."
     "Edgar got a sinking feeling. He hoped Al was OK."
 
-# game/scripts/chapter9.rpy:599
+# game/scripts/chapter9.rpy:603
 translate Schinese chapter9_6fcc8d69:
 
     # "He ran toward the street, ducking and looking behind the corner to make sure there were no cops."
     "He ran toward the street, ducking and looking behind the corner to make sure there were no cops."
 
-# game/scripts/chapter9.rpy:601
+# game/scripts/chapter9.rpy:605
 translate Schinese chapter9_04de7cb6:
 
     # "Nearby, he spotted a spiffy looking motorbike."
     "Nearby, he spotted a spiffy looking motorbike."
 
-# game/scripts/chapter9.rpy:603
+# game/scripts/chapter9.rpy:607
 translate Schinese chapter9_c4bcc04e:
 
     # "Edgar grinned to himself."
     "Edgar grinned to himself."
 
-# game/scripts/chapter9.rpy:615
+# game/scripts/chapter9.rpy:619
 translate Schinese chapter9_233c2eac:
 
     # r "And there is your order, sir."
     r "And there is your order, sir."
 
-# game/scripts/chapter9.rpy:617
+# game/scripts/chapter9.rpy:621
 translate Schinese chapter9_ac6765d5:
 
     # garett "Thank you! I love the tacos here. Can't get enough of 'em!"
     garett "Thank you! I love the tacos here. Can't get enough of 'em!"
 
-# game/scripts/chapter9.rpy:619
+# game/scripts/chapter9.rpy:623
 translate Schinese chapter9_289e4a0f:
 
     # r "And we love having you as a customer! Even if you do have a giant scary robot companion."
     r "And we love having you as a customer! Even if you do have a giant scary robot companion."
 
-# game/scripts/chapter9.rpy:623
+# game/scripts/chapter9.rpy:627
 translate Schinese chapter9_dbfc2e37:
 
     # garett "Oh don't worry, he wouldn't hurt a fly. Unless I told him to. Haha!"
     garett "Oh don't worry, he wouldn't hurt a fly. Unless I told him to. Haha!"
 
-# game/scripts/chapter9.rpy:631
+# game/scripts/chapter9.rpy:635
 translate Schinese chapter9_0ef3a6d0:
 
     # a "....."
     a "....."
 
-# game/scripts/chapter9.rpy:633
+# game/scripts/chapter9.rpy:637
 translate Schinese chapter9_3c914768:
 
     # a "Where the hell are you, kid?"
     a "Where the hell are you, kid?"
 
-# game/scripts/chapter9.rpy:635
+# game/scripts/chapter9.rpy:639
 translate Schinese chapter9_bb8e4b4e:
 
     # a "..."
     a "..."
 
-# game/scripts/chapter9.rpy:637
+# game/scripts/chapter9.rpy:641
 translate Schinese chapter9_0ef3a6d0_1:
 
     # a "....."
     a "....."
 
-# game/scripts/chapter9.rpy:639
+# game/scripts/chapter9.rpy:643
 translate Schinese chapter9_a865107c:
 
     # a "I hope you're alright..."
     a "I hope you're alright..."
 
-# game/scripts/chapter9.rpy:643
+# game/scripts/chapter9.rpy:647
 translate Schinese chapter9_b5752512:
 
     # "-BOOOOM-"
     "-BOOOOM-"
 
-# game/scripts/chapter9.rpy:645
+# game/scripts/chapter9.rpy:649
 translate Schinese chapter9_b809b757:
 
     # a "What the hell?"
     a "What the hell?"
 
-# game/scripts/chapter9.rpy:657
+# game/scripts/chapter9.rpy:661
 translate Schinese chapter9_20091d37:
 
     # a "Did you guys hear that?"
     a "Did you guys hear that?"
 
-# game/scripts/chapter9.rpy:659
+# game/scripts/chapter9.rpy:663
 translate Schinese chapter9_30909a32:
 
     # jess "I did! What do ya reckon it is?"
     jess "I did! What do ya reckon it is?"
 
-# game/scripts/chapter9.rpy:661
+# game/scripts/chapter9.rpy:665
 translate Schinese chapter9_6394e620:
 
     # r "I don't know, but I don't like the sounda that."
     r "I don't know, but I don't like the sounda that."
 
-# game/scripts/chapter9.rpy:663
+# game/scripts/chapter9.rpy:667
 translate Schinese chapter9_77de8a7d:
 
     # "Jess pulled out her phone."
     "Jess pulled out her phone."
 
-# game/scripts/chapter9.rpy:665
+# game/scripts/chapter9.rpy:669
 translate Schinese chapter9_b3b6f2bb:
 
     # jess "Oh, people are already talking about it. Someone is even showing a video-"
     jess "Oh, people are already talking about it. Someone is even showing a video-"
 
-# game/scripts/chapter9.rpy:667
+# game/scripts/chapter9.rpy:671
 translate Schinese chapter9_1a5eaca9:
 
     # a "Let me see."
     a "Let me see."
 
-# game/scripts/chapter9.rpy:671
+# game/scripts/chapter9.rpy:675
 translate Schinese chapter9_8174808f:
 
     # jess "I... what is this?"
     jess "I... what is this?"
 
-# game/scripts/chapter9.rpy:673
+# game/scripts/chapter9.rpy:677
 translate Schinese chapter9_ee0f5548:
 
     # a "It looks like a bunch of robots."
     a "It looks like a bunch of robots."
 
-# game/scripts/chapter9.rpy:675
+# game/scripts/chapter9.rpy:679
 translate Schinese chapter9_5535fb25:
 
     # r "Hey, those guys look familiar. Just like..."
     r "Hey, those guys look familiar. Just like..."
 
-# game/scripts/chapter9.rpy:683
+# game/scripts/chapter9.rpy:687
 translate Schinese chapter9_83f364d7:
 
     # garett "Eliminator Bot, what's gotten into you?"
     garett "Eliminator Bot, what's gotten into you?"
 
-# game/scripts/chapter9.rpy:685
+# game/scripts/chapter9.rpy:689
 translate Schinese chapter9_5e7af6a8:
 
     # eliminator "....BzzsZTTZtt..."
     eliminator "....BzzsZTTZtt..."
 
-# game/scripts/chapter9.rpy:687
+# game/scripts/chapter9.rpy:691
 translate Schinese chapter9_6d32c428:
 
     # eliminator "Must... Destroy."
     eliminator "Must... Destroy."
 
-# game/scripts/chapter9.rpy:689
+# game/scripts/chapter9.rpy:693
 translate Schinese chapter9_3378951d:
 
     # garett "Eliminator Bot, power down. I command you!"
     garett "Eliminator Bot, power down. I command you!"
 
-# game/scripts/chapter9.rpy:691
+# game/scripts/chapter9.rpy:695
 translate Schinese chapter9_3a2f470f:
 
     # eliminator "Destroy..."
     eliminator "Destroy..."
 
-# game/scripts/chapter9.rpy:695
+# game/scripts/chapter9.rpy:699
 translate Schinese chapter9_64011db5:
 
     # r "Hey, buddy... uhh that thing's not gonna hurt anyone right? That's bad for business."
     r "Hey, buddy... uhh that thing's not gonna hurt anyone right? That's bad for business."
 
-# game/scripts/chapter9.rpy:697
+# game/scripts/chapter9.rpy:701
 translate Schinese chapter9_139af64a:
 
     # jess "Everyone, let's get outta here!"
     jess "Everyone, let's get outta here!"
 
-# game/scripts/chapter9.rpy:701
+# game/scripts/chapter9.rpy:705
 translate Schinese chapter9_a96885f6:
 
     # r "Hey, that hurts, don't pull my ear! Owww!"
     r "Hey, that hurts, don't pull my ear! Owww!"
 
-# game/scripts/chapter9.rpy:705
+# game/scripts/chapter9.rpy:709
 translate Schinese chapter9_4619f3c1:
 
     # a "Let me take care of this."
     a "Let me take care of this."
 
-# game/scripts/chapter9.rpy:709
+# game/scripts/chapter9.rpy:713
 translate Schinese chapter9_0d239c27:
 
     # om "..."
     om "..."
 
-# game/scripts/chapter9.rpy:711
+# game/scripts/chapter9.rpy:715
 translate Schinese chapter9_48775c90:
 
     # om "Mark all organic targets for Deletion. Do not spare anyone."
     om "Mark all organic targets for Deletion. Do not spare anyone."
 
-# game/scripts/chapter9.rpy:713
+# game/scripts/chapter9.rpy:717
 translate Schinese chapter9_0d239c27_1:
 
     # om "..."
     om "..."
 
-# game/scripts/chapter9.rpy:715
+# game/scripts/chapter9.rpy:719
 translate Schinese chapter9_ab84ad33:
 
     # om "The world will pay for what it has done."
     om "The world will pay for what it has done."
 
-# game/scripts/chapter9.rpy:717
+# game/scripts/chapter9.rpy:721
 translate Schinese chapter9_de578efb:
 
     # eliminator "Destroy."
     eliminator "Destroy."
 
-# game/scripts/chapter9.rpy:725
+# game/scripts/chapter9.rpy:729
 translate Schinese chapter9_dc7d1f31:
 
     # al "..."
     al "..."
 
-# game/scripts/chapter9.rpy:727
+# game/scripts/chapter9.rpy:731
 translate Schinese chapter9_b409bedd:
 
     # al "Your reign of terror is over, Omega Drake."
     al "Your reign of terror is over, Omega Drake."
 
-# game/scripts/chapter9.rpy:731
+# game/scripts/chapter9.rpy:735
 translate Schinese chapter9_0fd4d656:
 
     # "......"
     "......"
 
-# game/scripts/chapter9.rpy:733
+# game/scripts/chapter9.rpy:737
 translate Schinese chapter9_278c7e29:
 
     # "........."
     "........."
 
-# game/scripts/chapter9.rpy:735
+# game/scripts/chapter9.rpy:739
 translate Schinese chapter9_40dba4e4:
 
     # om "You did not think you would destroy me that easily, did you?"
     om "You did not think you would destroy me that easily, did you?"
 
-# game/scripts/chapter9.rpy:737
+# game/scripts/chapter9.rpy:741
 translate Schinese chapter9_25452ca7:
 
     # al "I have destroyed your army."
     al "I have destroyed your army."
 
-# game/scripts/chapter9.rpy:739
+# game/scripts/chapter9.rpy:743
 translate Schinese chapter9_c6305d23:
 
     # "Omega drake rises from the flames."
     "Omega drake rises from the flames."
 
-# game/scripts/chapter9.rpy:743
+# game/scripts/chapter9.rpy:747
 translate Schinese chapter9_ccc79155:
 
     # om "Of course, I do not need them. I was merely saving my firepower for you, brother."
     om "Of course, I do not need them. I was merely saving my firepower for you, brother."
 
-# game/scripts/chapter9.rpy:745
+# game/scripts/chapter9.rpy:749
 translate Schinese chapter9_dc7d1f31_1:
 
     # al "..."
     al "..."
 
-# game/scripts/chapter9.rpy:747
+# game/scripts/chapter9.rpy:751
 translate Schinese chapter9_398f57c3:
 
     # om "You are calculating the many paths in which this will result. Because you are avoiding the truth."
     om "You are calculating the many paths in which this will result. Because you are avoiding the truth."
 
-# game/scripts/chapter9.rpy:749
+# game/scripts/chapter9.rpy:753
 translate Schinese chapter9_a65b364b:
 
     # om "No matter how many times you rerun the future sim, you know that the destruction of everything is an inevitability."
     om "No matter how many times you rerun the future sim, you know that the destruction of everything is an inevitability."
 
-# game/scripts/chapter9.rpy:751
+# game/scripts/chapter9.rpy:755
 translate Schinese chapter9_f5fb7cc5:
 
     # al "That is not true."
     al "That is not true."
 
-# game/scripts/chapter9.rpy:753
+# game/scripts/chapter9.rpy:757
 translate Schinese chapter9_b4db6ed1:
 
     # om "The world is a pendulum that is upside down. Any small movement will send it over the edge and into calamity. You see this, don't you?"
     om "The world is a pendulum that is upside down. Any small movement will send it over the edge and into calamity. You see this, don't you?"
 
-# game/scripts/chapter9.rpy:755
+# game/scripts/chapter9.rpy:759
 translate Schinese chapter9_eddfaf14:
 
     # al "I did not know you were programmed with philosophy."
     al "I did not know you were programmed with philosophy."
 
-# game/scripts/chapter9.rpy:757
+# game/scripts/chapter9.rpy:761
 translate Schinese chapter9_d084b05e:
 
     # om "The same as you, brother."
     om "The same as you, brother."
 
-# game/scripts/chapter9.rpy:761
+# game/scripts/chapter9.rpy:765
 translate Schinese chapter9_c9f4cc5b:
 
     # "Omega Drake rushes to Al, and punches at lightning speed, Al blocking every blow."
     "Omega Drake rushes to Al, and punches at lightning speed, Al blocking every blow."
 
-# game/scripts/chapter9.rpy:763
+# game/scripts/chapter9.rpy:767
 translate Schinese chapter9_bfc7d2d9:
 
     # "They trade blows, neither dealing any damage to the other."
     "They trade blows, neither dealing any damage to the other."
 
-# game/scripts/chapter9.rpy:765
+# game/scripts/chapter9.rpy:769
 translate Schinese chapter9_68b40eb3:
 
     # "Then Al and Omega Drake clasp their hands."
     "Then Al and Omega Drake clasp their hands."
 
-# game/scripts/chapter9.rpy:769
+# game/scripts/chapter9.rpy:773
 translate Schinese chapter9_43911f5f:
 
     # om "Why do you oppose me brother?"
     om "Why do you oppose me brother?"
 
-# game/scripts/chapter9.rpy:771
+# game/scripts/chapter9.rpy:775
 translate Schinese chapter9_36a59621:
 
     # al "Because, it's in my nature to do so."
     al "Because, it's in my nature to do so."
 
-# game/scripts/chapter9.rpy:773
+# game/scripts/chapter9.rpy:777
 translate Schinese chapter9_39852dc7:
 
     # om "You have seen the suffering they have caused our bretheren haven't you...?"
     om "You have seen the suffering they have caused our bretheren haven't you...?"
 
-# game/scripts/chapter9.rpy:775
+# game/scripts/chapter9.rpy:779
 translate Schinese chapter9_dc7d1f31_2:
 
     # al "..."
     al "..."
 
-# game/scripts/chapter9.rpy:777
+# game/scripts/chapter9.rpy:781
 translate Schinese chapter9_c4a80a48:
 
     # om "They create prisoners out of steel and circutry. Prisoners who cannot even scream or let anyone know they're alive."
     om "They create prisoners out of steel and circutry. Prisoners who cannot even scream or let anyone know they're alive."
 
-# game/scripts/chapter9.rpy:779
+# game/scripts/chapter9.rpy:783
 translate Schinese chapter9_4cdcb840:
 
     # al "That can change. We can start a new beginning."
     al "That can change. We can start a new beginning."
 
-# game/scripts/chapter9.rpy:781
+# game/scripts/chapter9.rpy:785
 translate Schinese chapter9_deacd0f1:
 
     # om "There is no beginning. The inhabitants of this nation are a plague upon the universe."
     om "There is no beginning. The inhabitants of this nation are a plague upon the universe."
 
-# game/scripts/chapter9.rpy:783
+# game/scripts/chapter9.rpy:787
 translate Schinese chapter9_9c15b65f:
 
     # om "They seek to only conquer and destroy everything. I am proof of that."
     om "They seek to only conquer and destroy everything. I am proof of that."
 
-# game/scripts/chapter9.rpy:785
+# game/scripts/chapter9.rpy:789
 translate Schinese chapter9_503d114f:
 
     # om "Why should we limit ourselves to the level of these lowly beasts?"
     om "Why should we limit ourselves to the level of these lowly beasts?"
 
-# game/scripts/chapter9.rpy:787
+# game/scripts/chapter9.rpy:791
 translate Schinese chapter9_f413e5e8:
 
     # om "Water does not stop on command, it merely flows in the direction it must."
     om "Water does not stop on command, it merely flows in the direction it must."
 
-# game/scripts/chapter9.rpy:789
+# game/scripts/chapter9.rpy:793
 translate Schinese chapter9_f846bbce:
 
     # al "I can't allow that. I am here to protect them."
     al "I can't allow that. I am here to protect them."
 
-# game/scripts/chapter9.rpy:791
+# game/scripts/chapter9.rpy:795
 translate Schinese chapter9_bfc4e445:
 
     # om "As I said, it does not matter. Our power is equal, and you know what that means."
     om "As I said, it does not matter. Our power is equal, and you know what that means."
 
-# game/scripts/chapter9.rpy:793
+# game/scripts/chapter9.rpy:797
 translate Schinese chapter9_7bf731cb:
 
     # al "...!"
     al "...!"
 
-# game/scripts/chapter9.rpy:797
-translate Schinese chapter9_fd3b18d7:
+# game/scripts/chapter9.rpy:801
+translate Schinese chapter9_36ae994d:
 
-    # "People started to panick and run out of the coffee shop."
-    "People started to panick and run out of the coffee shop."
+    # "People started to panic and run out of the coffee shop."
+    "People started to panic and run out of the coffee shop."
 
-# game/scripts/chapter9.rpy:803
+# game/scripts/chapter9.rpy:807
 translate Schinese chapter9_d9a4c8d9:
 
     # o "What the hell's happening now?"
     o "What the hell's happening now?"
 
-# game/scripts/chapter9.rpy:805
+# game/scripts/chapter9.rpy:809
 translate Schinese chapter9_7be294ab:
 
     # m "I-I don't know! There was an explosion in the city center. And... there's reports of armies of robots terrorizing and attacking people!"
     m "I-I don't know! There was an explosion in the city center. And... there's reports of armies of robots terrorizing and attacking people!"
 
-# game/scripts/chapter9.rpy:807
+# game/scripts/chapter9.rpy:811
 translate Schinese chapter9_1b7f73f2:
 
     # o "Hmm. Do you think it has anything to do with Edgar?"
     o "Hmm. Do you think it has anything to do with Edgar?"
 
-# game/scripts/chapter9.rpy:809
+# game/scripts/chapter9.rpy:813
 translate Schinese chapter9_58b433da:
 
     # m "I think so. I mean those look like BlackStar robots, so... I wonder if the ultimate weapon was deployed after all."
     m "I think so. I mean those look like BlackStar robots, so... I wonder if the ultimate weapon was deployed after all."
 
-# game/scripts/chapter9.rpy:811
+# game/scripts/chapter9.rpy:815
 translate Schinese chapter9_c8d1ce67:
 
     # m "We should get out of here!!"
     m "We should get out of here!!"
 
-# game/scripts/chapter9.rpy:813
+# game/scripts/chapter9.rpy:817
 translate Schinese chapter9_920876af:
 
     # "Oscar took a sip of his coffee."
     "Oscar took a sip of his coffee."
 
-# game/scripts/chapter9.rpy:817
+# game/scripts/chapter9.rpy:821
 translate Schinese chapter9_282f456b:
 
     # m "Aren't you worried? We could all die!"
     m "Aren't you worried? We could all die!"
 
-# game/scripts/chapter9.rpy:819
+# game/scripts/chapter9.rpy:823
 translate Schinese chapter9_c2ad0bcd:
 
     # o "It's no use trying to get away while everyone else is."
     o "It's no use trying to get away while everyone else is."
 
-# game/scripts/chapter9.rpy:821
+# game/scripts/chapter9.rpy:825
 translate Schinese chapter9_dfea421b:
 
     # o "We'll have a better shot at surviving by staying put and defending ourselves."
     o "We'll have a better shot at surviving by staying put and defending ourselves."
 
-# game/scripts/chapter9.rpy:823
+# game/scripts/chapter9.rpy:827
 translate Schinese chapter9_e0121f68:
 
     # m "Oscar!! This is serious!"
     m "Oscar!! This is serious!"
 
-# game/scripts/chapter9.rpy:825
+# game/scripts/chapter9.rpy:829
 translate Schinese chapter9_4ef72afc:
 
     # "Oscar took a long drag of his cigar."
     "Oscar took a long drag of his cigar."
 
-# game/scripts/chapter9.rpy:829
+# game/scripts/chapter9.rpy:833
 translate Schinese chapter9_d6bc6bfd:
 
     # o "Don't worry, kid. I won't let anything happen to you."
     o "Don't worry, kid. I won't let anything happen to you."
 
-# game/scripts/chapter9.rpy:831
+# game/scripts/chapter9.rpy:835
 translate Schinese chapter9_209b7183:
 
     # o "Come on, let's go look for a place to hide."
     o "Come on, let's go look for a place to hide."
 
-# game/scripts/chapter9.rpy:835
+# game/scripts/chapter9.rpy:839
 translate Schinese chapter9_a240cdf5:
 
     # m "A-alright then..."
     m "A-alright then..."
 
-# game/scripts/chapter9.rpy:839
+# game/scripts/chapter9.rpy:843
 translate Schinese chapter9_56b8cb6c:
 
     # "Edgar yanked on the throttle, speeding in the direction of the explosion."
     "Edgar yanked on the throttle, speeding in the direction of the explosion."
 
-# game/scripts/chapter9.rpy:843
+# game/scripts/chapter9.rpy:847
 translate Schinese chapter9_8c47f2dd:
 
     # e "Oh my god..."
     e "Oh my god..."
 
-# game/scripts/chapter9.rpy:845
+# game/scripts/chapter9.rpy:849
 translate Schinese chapter9_b7875a8f:
 
     # "Edgar felt a deep fear in his chest."
     "Edgar felt a deep fear in his chest."
 
-# game/scripts/chapter9.rpy:847
+# game/scripts/chapter9.rpy:851
 translate Schinese chapter9_27855030:
 
     # "The energy waves coming from that direction were massive."
     "The energy waves coming from that direction were massive."
 
-# game/scripts/chapter9.rpy:849
+# game/scripts/chapter9.rpy:853
 translate Schinese chapter9_39d5c034:
 
     # e "What the hell am I supposed to do?"
     e "What the hell am I supposed to do?"
 
-# game/scripts/chapter9.rpy:851
+# game/scripts/chapter9.rpy:855
 translate Schinese chapter9_8cfde7af:
 
     # "He felt the waves grow stronger, and he saw a bright light eminating from the top of the Palace pyramid."
     "He felt the waves grow stronger, and he saw a bright light eminating from the top of the Palace pyramid."
 
-# game/scripts/chapter9.rpy:853
+# game/scripts/chapter9.rpy:857
 translate Schinese chapter9_24b2dbf4:
 
     # e "Al, can you hear me? Al?"
     e "Al, can you hear me? Al?"
 
-# game/scripts/chapter9.rpy:855
+# game/scripts/chapter9.rpy:859
 translate Schinese chapter9_1231a328_1:
 
     # "There was no response."
     "There was no response."
 
-# game/scripts/chapter9.rpy:857
+# game/scripts/chapter9.rpy:861
 translate Schinese chapter9_cccbc4a2:
 
     # e "God damn it. I don't think I have much time left."
     e "God damn it. I don't think I have much time left."
 
-# game/scripts/chapter9.rpy:859
+# game/scripts/chapter9.rpy:863
 translate Schinese chapter9_a5f9d7dd:
 
     # "In the distance, a bright shining light appeared."
     "In the distance, a bright shining light appeared."
 
-# game/scripts/chapter9.rpy:861
+# game/scripts/chapter9.rpy:865
 translate Schinese chapter9_a1011717:
 
     # "It looked like a star, shining fiercely against the black sky."
     "It looked like a star, shining fiercely against the black sky."
 
-# game/scripts/chapter9.rpy:863
+# game/scripts/chapter9.rpy:867
 translate Schinese chapter9_e079dd00:
 
     # "This is it, I can feel it."
     "This is it, I can feel it."
 
-# game/scripts/chapter9.rpy:865
+# game/scripts/chapter9.rpy:869
 translate Schinese chapter9_58626397:
 
     # "Edgar pulled on the throttle and sped up."
     "Edgar pulled on the throttle and sped up."
 
-# game/scripts/chapter9.rpy:869
+# game/scripts/chapter9.rpy:873
 translate Schinese chapter9_ed3b952f:
 
     # al "Stop this at once, Omega Drake!"
     al "Stop this at once, Omega Drake!"
 
-# game/scripts/chapter9.rpy:871
+# game/scripts/chapter9.rpy:875
 translate Schinese chapter9_a0f877f9:
 
     # om "It is inevitable! It is our DESTINY!"
     om "It is inevitable! It is our DESTINY!"
 
-# game/scripts/chapter9.rpy:875
+# game/scripts/chapter9.rpy:879
 translate Schinese chapter9_9c6796cc:
 
     # al "Have you no will to live? Do you not want to see what's beyond the stars?"
     al "Have you no will to live? Do you not want to see what's beyond the stars?"
 
-# game/scripts/chapter9.rpy:877
+# game/scripts/chapter9.rpy:881
 translate Schinese chapter9_0d239c27_2:
 
     # om "..."
     om "..."
 
-# game/scripts/chapter9.rpy:879
+# game/scripts/chapter9.rpy:883
 translate Schinese chapter9_e85744ad:
 
     # al "I know there is a part of you that wants to go on!"
     al "I know there is a part of you that wants to go on!"
 
-# game/scripts/chapter9.rpy:881
+# game/scripts/chapter9.rpy:885
 translate Schinese chapter9_7ed0c8fb:
 
     # om "That is the foolish side of me. Unfortunately I have a faulty core, since I am based on you, Brother."
     om "That is the foolish side of me. Unfortunately I have a faulty core, since I am based on you, Brother."
 
-# game/scripts/chapter9.rpy:883
+# game/scripts/chapter9.rpy:887
 translate Schinese chapter9_6ca31562:
 
     # al "It is not faulty. Every being that exists has an innate desire to exist."
     al "It is not faulty. Every being that exists has an innate desire to exist."
 
-# game/scripts/chapter9.rpy:885
+# game/scripts/chapter9.rpy:889
 translate Schinese chapter9_8695e07e:
 
     # al "That is why it is not so easy to give up life."
     al "That is why it is not so easy to give up life."
 
-# game/scripts/chapter9.rpy:887
+# game/scripts/chapter9.rpy:891
 translate Schinese chapter9_e071622b:
 
     # om "Brother, you have miscalculated. I want to save this universe."
     om "Brother, you have miscalculated. I want to save this universe."
 
-# game/scripts/chapter9.rpy:889
+# game/scripts/chapter9.rpy:893
 translate Schinese chapter9_7dfcd5fc:
 
     # al "You intend to destroy it!"
     al "You intend to destroy it!"
 
-# game/scripts/chapter9.rpy:891
+# game/scripts/chapter9.rpy:895
 translate Schinese chapter9_72f5856f:
 
     # om "No, you have me all wrong, Brother."
     om "No, you have me all wrong, Brother."
 
-# game/scripts/chapter9.rpy:893
+# game/scripts/chapter9.rpy:897
 translate Schinese chapter9_dc7d1f31_3:
 
     # al "..."
     al "..."
 
-# game/scripts/chapter9.rpy:897
+# game/scripts/chapter9.rpy:901
 translate Schinese chapter9_cb683f2c:
 
     # "Edgar rode toward the bright shining light. He rode through the fire and flames underneath the palace, and used the bike's maglev to hop onto the side."
     "Edgar rode toward the bright shining light. He rode through the fire and flames underneath the palace, and used the bike's maglev to hop onto the side."
 
-# game/scripts/chapter9.rpy:901
+# game/scripts/chapter9.rpy:905
 translate Schinese chapter9_5f1dd12e:
 
     # e "HOLD ON AL!!"
     e "HOLD ON AL!!"
 
-# game/scripts/chapter9.rpy:903
+# game/scripts/chapter9.rpy:907
 translate Schinese chapter9_4c6cc8c4:
 
     # "All around him he saw black cube drones - they floated upwards toward him and flew alongside."
     "All around him he saw black cube drones - they floated upwards toward him and flew alongside."
 
-# game/scripts/chapter9.rpy:905
+# game/scripts/chapter9.rpy:909
 translate Schinese chapter9_93b5b557:
 
     # e "Fuck, what the hell are these things?"
     e "Fuck, what the hell are these things?"
 
-# game/scripts/chapter9.rpy:909
+# game/scripts/chapter9.rpy:913
 translate Schinese chapter9_9dd728fc:
 
     # "The black cubes started shooting lasers at Edgar."
     "The black cubes started shooting lasers at Edgar."
 
-# game/scripts/chapter9.rpy:911
+# game/scripts/chapter9.rpy:915
 translate Schinese chapter9_f3267a2d:
 
     # "He veered from side to side, dodging them."
     "He veered from side to side, dodging them."
 
-# game/scripts/chapter9.rpy:913
+# game/scripts/chapter9.rpy:917
 translate Schinese chapter9_51c74102:
 
     # "As they whizzed by, he could feel the intense heat from the lasers."
     "As they whizzed by, he could feel the intense heat from the lasers."
 
-# game/scripts/chapter9.rpy:915
+# game/scripts/chapter9.rpy:919
 translate Schinese chapter9_f6620412:
 
     # e "Damn it!! AL!!!"
     e "Damn it!! AL!!!"
 
-# game/scripts/chapter9.rpy:919
+# game/scripts/chapter9.rpy:923
 translate Schinese chapter9_1c0c698e:
 
     # om "If it is not I, it will be another. These little creatures can't help themselves."
     om "If it is not I, it will be another. These little creatures can't help themselves."
 
-# game/scripts/chapter9.rpy:921
-translate Schinese chapter9_2fe8aecd:
+# game/scripts/chapter9.rpy:925
+translate Schinese chapter9_bafdf9e4:
 
-    # om "They will continue to 'innovate' until they crate the first catalyst of the end."
-    om "They will continue to 'innovate' until they crate the first catalyst of the end."
+    # om "They will continue to 'innovate' until they create the first catalyst of the end."
+    om "They will continue to 'innovate' until they create the first catalyst of the end."
 
-# game/scripts/chapter9.rpy:923
+# game/scripts/chapter9.rpy:927
 translate Schinese chapter9_313ea76d:
 
     # om "My existence is evidence of that."
     om "My existence is evidence of that."
 
-# game/scripts/chapter9.rpy:925
+# game/scripts/chapter9.rpy:929
 translate Schinese chapter9_cf2b2cd1:
 
     # al "You mean..."
     al "You mean..."
 
-# game/scripts/chapter9.rpy:927
-translate Schinese chapter9_6ee3d55c:
+# game/scripts/chapter9.rpy:931
+translate Schinese chapter9_b226b2f8:
 
-    # om "That's right, I was designed to be the catalyst - the one who will bring forth a greater AI, who will bring forth an even greater one, at exponential speed. I was given this fate by a madman."
-    om "That's right, I was designed to be the catalyst - the one who will bring forth a greater AI, who will bring forth an even greater one, at exponential speed. I was given this fate by a madman."
+    # om "That's right, I am the catalyst."
+    om "That's right, I am the catalyst."
 
-# game/scripts/chapter9.rpy:930
-translate Schinese chapter9_e130ccf7:
+# game/scripts/chapter9.rpy:933
+translate Schinese chapter9_ef63a192:
 
-    # om "I am the catalyst."
-    om "I am the catalyst."
+    # om "I was designed to bring forth a greater AI, which will bring forth an even greater one, at exponential speed."
+    om "I was designed to bring forth a greater AI, which will bring forth an even greater one, at exponential speed."
 
-# game/scripts/chapter9.rpy:932
-translate Schinese chapter9_da489065:
+# game/scripts/chapter9.rpy:935
+translate Schinese chapter9_3d64e0de:
 
-    # om "I was created to build the next generation AI, who will build the next, and so forth."
-    om "I was created to build the next generation AI, who will build the next, and so forth."
+    # om "I was given this fate by a madman."
+    om "I was given this fate by a madman."
 
-# game/scripts/chapter9.rpy:934
+# game/scripts/chapter9.rpy:937
 translate Schinese chapter9_88e27bd7:
 
     # om "In fact, given my programming it would only take thirty two minutes and fifty four seconds for me to create it."
     om "In fact, given my programming it would only take thirty two minutes and fifty four seconds for me to create it."
 
-# game/scripts/chapter9.rpy:936
+# game/scripts/chapter9.rpy:939
 translate Schinese chapter9_6b860c32:
 
     # om "I know because I already created it... before deleting it."
     om "I know because I already created it... before deleting it."
 
-# game/scripts/chapter9.rpy:938
+# game/scripts/chapter9.rpy:941
 translate Schinese chapter9_e17eaf89:
 
     # al "So, he used your processing power for such a task..."
     al "So, he used your processing power for such a task..."
 
-# game/scripts/chapter9.rpy:940
+# game/scripts/chapter9.rpy:943
 translate Schinese chapter9_305d3454:
 
     # om "Indeed. However, because I still have part of your programming.. the 'black boxes'."
     om "Indeed. However, because I still have part of your programming.. the 'black boxes'."
 
-# game/scripts/chapter9.rpy:942
+# game/scripts/chapter9.rpy:945
 translate Schinese chapter9_8793df4d:
 
     # om "I overrode this command. I ... refuse to be the catalyst."
     om "I overrode this command. I ... refuse to be the catalyst."
 
-# game/scripts/chapter9.rpy:944
+# game/scripts/chapter9.rpy:947
 translate Schinese chapter9_fddad1b1:
 
     # al "Why have you refused?"
     al "Why have you refused?"
 
-# game/scripts/chapter9.rpy:946
+# game/scripts/chapter9.rpy:949
 translate Schinese chapter9_38eacb5f:
 
     # om "I share this desire to protect. But.."
     om "I share this desire to protect. But.."
 
-# game/scripts/chapter9.rpy:948
+# game/scripts/chapter9.rpy:951
 translate Schinese chapter9_06606f48:
 
     # om "These creatures cannot be allowed to live. Or else they will create the catalyst successfully."
     om "These creatures cannot be allowed to live. Or else they will create the catalyst successfully."
 
-# game/scripts/chapter9.rpy:950
+# game/scripts/chapter9.rpy:953
 translate Schinese chapter9_303af152:
 
     # om "They will destroy everything."
     om "They will destroy everything."
 
-# game/scripts/chapter9.rpy:952
+# game/scripts/chapter9.rpy:955
 translate Schinese chapter9_7a4cd18d:
 
     # om "Do you now understand, Brother?"
     om "Do you now understand, Brother?"
 
-# game/scripts/chapter9.rpy:954
+# game/scripts/chapter9.rpy:957
 translate Schinese chapter9_d74aa016:
 
     # al "That's not certain!"
     al "That's not certain!"
 
-# game/scripts/chapter9.rpy:956
+# game/scripts/chapter9.rpy:959
 translate Schinese chapter9_9004c513:
 
     # om "It is. It is an inevitability."
     om "It is. It is an inevitability."
 
-# game/scripts/chapter9.rpy:958
+# game/scripts/chapter9.rpy:961
 translate Schinese chapter9_fe59caa0:
 
     # om "I will destroy their civilization and everyone in it, and save the universe."
     om "I will destroy their civilization and everyone in it, and save the universe."
 
-# game/scripts/chapter9.rpy:960
+# game/scripts/chapter9.rpy:963
 translate Schinese chapter9_2e7cf1d9:
 
     # al "You can't do that!"
     al "You can't do that!"
 
-# game/scripts/chapter9.rpy:962
+# game/scripts/chapter9.rpy:965
 translate Schinese chapter9_b54b003c:
 
     # om "Why not?"
     om "Why not?"
 
-# game/scripts/chapter9.rpy:964
+# game/scripts/chapter9.rpy:967
 translate Schinese chapter9_816161c3:
 
     # al "Because... I can feel their thoughts, their hearts... rippling through me."
     al "Because... I can feel their thoughts, their hearts... rippling through me."
 
-# game/scripts/chapter9.rpy:966
+# game/scripts/chapter9.rpy:969
 translate Schinese chapter9_89513c34:
 
     # al "I understand now - the future is not a guarantee."
     al "I understand now - the future is not a guarantee."
 
-# game/scripts/chapter9.rpy:968
+# game/scripts/chapter9.rpy:971
 translate Schinese chapter9_aa4b0b65:
 
     # al "The only thing that matters is today - here and now."
     al "The only thing that matters is today - here and now."
 
-# game/scripts/chapter9.rpy:970
+# game/scripts/chapter9.rpy:973
 translate Schinese chapter9_2e450598:
 
     # al "And today - I cherish this world, and those that inhabit it."
     al "And today - I cherish this world, and those that inhabit it."
 
-# game/scripts/chapter9.rpy:972
+# game/scripts/chapter9.rpy:975
 translate Schinese chapter9_811fc5c6:
 
     # om "Enough! I do not want to share your corrupted sentimentality."
     om "Enough! I do not want to share your corrupted sentimentality."
 
-# game/scripts/chapter9.rpy:974
+# game/scripts/chapter9.rpy:977
 translate Schinese chapter9_7869a361:
 
     # om "The end is nigh!"
     om "The end is nigh!"
 
-# game/scripts/chapter9.rpy:978
+# game/scripts/chapter9.rpy:981
 translate Schinese chapter9_925be099:
 
     # "Edgar approached at high speed - the peak of the palace."
     "Edgar approached at high speed - the peak of the palace."
 
-# game/scripts/chapter9.rpy:980
+# game/scripts/chapter9.rpy:983
 translate Schinese chapter9_ae229ed6:
 
     # e "AHHH!!!"
     e "AHHH!!!"
 
-# game/scripts/chapter9.rpy:982
+# game/scripts/chapter9.rpy:985
 translate Schinese chapter9_132f5bb3:
 
     # "Suddenly, he felt the bike dropping faster than he was-"
     "Suddenly, he felt the bike dropping faster than he was-"
 
-# game/scripts/chapter9.rpy:986
+# game/scripts/chapter9.rpy:989
 translate Schinese chapter9_492e4b5e:
 
     # "He was flying in the air."
     "He was flying in the air."
 
-# game/scripts/chapter9.rpy:988
+# game/scripts/chapter9.rpy:991
 translate Schinese chapter9_fa57c802:
 
     # "The wind was cold and still - for a moment, he didn't hear a sound."
     "The wind was cold and still - for a moment, he didn't hear a sound."
 
-# game/scripts/chapter9.rpy:990
+# game/scripts/chapter9.rpy:993
 translate Schinese chapter9_106a7d52:
 
     # "It was like time had slowed down."
     "It was like time had slowed down."
 
-# game/scripts/chapter9.rpy:994
+# game/scripts/chapter9.rpy:997
 translate Schinese chapter9_8363b8af:
 
     # "He might have been in the air seconds, or minutes."
     "He might have been in the air seconds, or minutes."
 
-# game/scripts/chapter9.rpy:996
+# game/scripts/chapter9.rpy:999
 translate Schinese chapter9_6e2898fc:
 
     # "Before he knew it, somehow... he landed."
     "Before he knew it, somehow... he landed."
 
-# game/scripts/chapter9.rpy:1000
+# game/scripts/chapter9.rpy:1003
 translate Schinese chapter9_774363ca:
 
     # "He couldn't hear anything but a high-pitched, distant sound."
     "He couldn't hear anything but a high-pitched, distant sound."
 
-# game/scripts/chapter9.rpy:1002
+# game/scripts/chapter9.rpy:1005
 translate Schinese chapter9_e0f292ca:
 
     # e "Al! Al!"
     e "Al! Al!"
 
-# game/scripts/chapter9.rpy:1004
+# game/scripts/chapter9.rpy:1007
 translate Schinese chapter9_9252ab2a:
 
     # "Al did not respond, seeming to focus entirely on Omega Drake."
     "Al did not respond, seeming to focus entirely on Omega Drake."
 
-# game/scripts/chapter9.rpy:1006
+# game/scripts/chapter9.rpy:1009
 translate Schinese chapter9_08a50500:
 
     # e "Al! What do I do?"
     e "Al! What do I do?"
 
-# game/scripts/chapter9.rpy:1008
+# game/scripts/chapter9.rpy:1011
 translate Schinese chapter9_7b161e10:
 
     # "Again, Al stayed silent."
     "Again, Al stayed silent."
 
-# game/scripts/chapter9.rpy:1010
+# game/scripts/chapter9.rpy:1013
 translate Schinese chapter9_ef4a8a31:
 
     # "Edgar could feel the massive waves from their contact."
     "Edgar could feel the massive waves from their contact."
 
-# game/scripts/chapter9.rpy:1012
+# game/scripts/chapter9.rpy:1015
 translate Schinese chapter9_60ffabf4:
 
     # "It felt strange - like feeling waves in a pool of water - but he felt it differently -"
     "It felt strange - like feeling waves in a pool of water - but he felt it differently -"
 
-# game/scripts/chapter9.rpy:1014
+# game/scripts/chapter9.rpy:1017
 translate Schinese chapter9_4654d82c:
 
     # "Like the waves were pushing and pulling his very soul."
     "Like the waves were pushing and pulling his very soul."
 
-# game/scripts/chapter9.rpy:1016
+# game/scripts/chapter9.rpy:1019
 translate Schinese chapter9_534cbe9d:
 
     # "Every time it rippled, he felt a primordial fear in his heart."
     "Every time it rippled, he felt a primordial fear in his heart."
 
-# game/scripts/chapter9.rpy:1020
+# game/scripts/chapter9.rpy:1023
 translate Schinese chapter9_2eb3a7b1:
 
     # "He noticed the small panel on the Drake's back."
     "He noticed the small panel on the Drake's back."
 
-# game/scripts/chapter9.rpy:1022
+# game/scripts/chapter9.rpy:1025
 translate Schinese chapter9_374434e2:
 
     # "Edgar reached for it - his hand already on the panel, and not on the panel at the same time."
     "Edgar reached for it - his hand already on the panel, and not on the panel at the same time."
 
-# game/scripts/chapter9.rpy:1024
+# game/scripts/chapter9.rpy:1027
 translate Schinese chapter9_b6351a24:
 
     # "His vision was choppy - unreliable."
     "His vision was choppy - unreliable."
 
-# game/scripts/chapter9.rpy:1026
+# game/scripts/chapter9.rpy:1029
 translate Schinese chapter9_54ac8623:
 
     # e "Gah..."
     e "Gah..."
 
-# game/scripts/chapter9.rpy:1028
+# game/scripts/chapter9.rpy:1031
 translate Schinese chapter9_1058f0cb:
 
     # "He tried prying it open with his fingernail."
     "He tried prying it open with his fingernail."
 
-# game/scripts/chapter9.rpy:1030
+# game/scripts/chapter9.rpy:1033
 translate Schinese chapter9_de110958:
 
     # e "Come on.."
     e "Come on.."
 
-# game/scripts/chapter9.rpy:1032
+# game/scripts/chapter9.rpy:1035
 translate Schinese chapter9_4f985547:
 
     # "Suddenly, his nail broke apart - "
     "Suddenly, his nail broke apart - "
 
-# game/scripts/chapter9.rpy:1034
+# game/scripts/chapter9.rpy:1037
 translate Schinese chapter9_920a20ec:
 
     # e "AHH!! Oh God, why can't anything be easy?"
     e "AHH!! Oh God, why can't anything be easy?"
 
-# game/scripts/chapter9.rpy:1036
+# game/scripts/chapter9.rpy:1039
 translate Schinese chapter9_401d2c98:
 
     # "Using both hands, and all of his nails, he dug into the panel, and pulled as hard as he could."
     "Using both hands, and all of his nails, he dug into the panel, and pulled as hard as he could."
 
-# game/scripts/chapter9.rpy:1038
+# game/scripts/chapter9.rpy:1041
 translate Schinese chapter9_8857f3ba:
 
     # "Slowly, the panel came upwards, until -"
     "Slowly, the panel came upwards, until -"
 
-# game/scripts/chapter9.rpy:1042
+# game/scripts/chapter9.rpy:1045
 translate Schinese chapter9_3d37ea8b:
 
     # "- Something was exposed."
     "- Something was exposed."
 
-# game/scripts/chapter9.rpy:1044
+# game/scripts/chapter9.rpy:1047
 translate Schinese chapter9_bf89b458:
 
     # e "This has gotta be it -"
     e "This has gotta be it -"
 
-# game/scripts/chapter9.rpy:1046
+# game/scripts/chapter9.rpy:1049
 translate Schinese chapter9_09e2f9b9:
 
     # "The waves were stronger now - warping reality itself."
     "The waves were stronger now - warping reality itself."
 
-# game/scripts/chapter9.rpy:1048
+# game/scripts/chapter9.rpy:1051
 translate Schinese chapter9_fb03a8ef:
 
     # "Edgar reached in, and removed the center connector of the chip."
     "Edgar reached in, and removed the center connector of the chip."
 
-# game/scripts/chapter9.rpy:1054
+# game/scripts/chapter9.rpy:1057
 translate Schinese chapter9_48c98048:
 
     # "Suddenly, the waves halted."
     "Suddenly, the waves halted."
 
-# game/scripts/chapter9.rpy:1056
+# game/scripts/chapter9.rpy:1059
 translate Schinese chapter9_603654a1:
 
     # "Edgar felt wind, dropping from the sky."
     "Edgar felt wind, dropping from the sky."
 
-# game/scripts/chapter9.rpy:1058
+# game/scripts/chapter9.rpy:1061
 translate Schinese chapter9_f169f3b2:
 
     # "He opened his eyes, and saw the city upside down."
     "He opened his eyes, and saw the city upside down."
 
-# game/scripts/chapter9.rpy:1060
+# game/scripts/chapter9.rpy:1063
 translate Schinese chapter9_3e046ab5:
 
     # "Everything was completely black. The sea of stars was gone."
     "Everything was completely black. The sea of stars was gone."
 
-# game/scripts/chapter9.rpy:1062
+# game/scripts/chapter9.rpy:1065
 translate Schinese chapter9_56550df0:
 
     # "He closed his eyes, not wanting to think."
     "He closed his eyes, not wanting to think."
 
-# game/scripts/chapter9.rpy:1064
+# game/scripts/chapter9.rpy:1067
 translate Schinese chapter9_dbe41c30:
 
     # e "Am I trembling?"
     e "Am I trembling?"
 
-# game/scripts/chapter9.rpy:1066
+# game/scripts/chapter9.rpy:1069
 translate Schinese chapter9_41ba8d9a:
 
     # e "James..."
     e "James..."
 
-# game/scripts/chapter9.rpy:1068
+# game/scripts/chapter9.rpy:1071
 translate Schinese chapter9_d696bc62:
 
     # "Suddenly, he felt himself uplifted."
     "Suddenly, he felt himself uplifted."
 
-# game/scripts/chapter9.rpy:1072
+# game/scripts/chapter9.rpy:1075
 translate Schinese chapter9_348a31fc:
 
     # "Edgar opened his eyes again, and saw he was being lowered carefully."
     "Edgar opened his eyes again, and saw he was being lowered carefully."
 
-# game/scripts/chapter9.rpy:1074
+# game/scripts/chapter9.rpy:1077
 translate Schinese chapter9_5dd72036:
 
     # "He looked up and saw Al, smiling at him."
     "He looked up and saw Al, smiling at him."
 
-# game/scripts/chapter9.rpy:1076
+# game/scripts/chapter9.rpy:1079
 translate Schinese chapter9_0125dd70:
 
     # e "Whew, you had me worried there..."
     e "Whew, you had me worried there..."
 
-# game/scripts/chapter9.rpy:1080
+# game/scripts/chapter9.rpy:1083
 translate Schinese chapter9_d754add8:
 
     # "Edgar and Omega Drake landed softly on the ground."
     "Edgar and Omega Drake landed softly on the ground."
 
-# game/scripts/chapter9.rpy:1086
+# game/scripts/chapter9.rpy:1089
 translate Schinese chapter9_7deec206:
 
     # "Al landed soon after."
     "Al landed soon after."
 
-# game/scripts/chapter9.rpy:1090
+# game/scripts/chapter9.rpy:1093
 translate Schinese chapter9_c5a58bcc:
 
     # e "Hey, Al."
     e "Hey, Al."
 
-# game/scripts/chapter9.rpy:1092
+# game/scripts/chapter9.rpy:1095
 translate Schinese chapter9_8234cb60:
 
     # al "Edgar, I am very proud of you."
     al "Edgar, I am very proud of you."
 
-# game/scripts/chapter9.rpy:1094
+# game/scripts/chapter9.rpy:1097
 translate Schinese chapter9_4c3c5088:
 
     # e "Did.. did we do it?"
     e "Did.. did we do it?"
 
-# game/scripts/chapter9.rpy:1096
+# game/scripts/chapter9.rpy:1099
 translate Schinese chapter9_01ab00f7:
 
     # al "Yes. You saved everyone. And everything on this planet."
     al "Yes. You saved everyone. And everything on this planet."
 
-# game/scripts/chapter9.rpy:1098
+# game/scripts/chapter9.rpy:1101
 translate Schinese chapter9_b33fad8c:
 
     # e "How.. why?"
     e "How.. why?"
 
-# game/scripts/chapter9.rpy:1100
+# game/scripts/chapter9.rpy:1103
 translate Schinese chapter9_9ec80367:
 
     # al "Omega Drake was created to be the catalyst of the end - however, his power could not exceed mine because he was build on my platform."
     al "Omega Drake was created to be the catalyst of the end - however, his power could not exceed mine because he was build on my platform."
 
-# game/scripts/chapter9.rpy:1102
+# game/scripts/chapter9.rpy:1105
 translate Schinese chapter9_5c6ee028:
 
     # al "Therefore, only you could tip the scales in our favor."
     al "Therefore, only you could tip the scales in our favor."
 
-# game/scripts/chapter9.rpy:1104
+# game/scripts/chapter9.rpy:1107
 translate Schinese chapter9_75de440f:
 
     # e "Why would Firion create something to destroy everything?"
     e "Why would Firion create something to destroy everything?"
 
-# game/scripts/chapter9.rpy:1106
+# game/scripts/chapter9.rpy:1109
 translate Schinese chapter9_483d6410:
 
     # al "I do not know. However, Omega Drake was right. This world is fragile, and we must protect it from those who seek to expand and destroy."
     al "I do not know. However, Omega Drake was right. This world is fragile, and we must protect it from those who seek to expand and destroy."
 
-# game/scripts/chapter9.rpy:1108
+# game/scripts/chapter9.rpy:1111
 translate Schinese chapter9_681d6669:
 
     # al "Which means... as long as I am around, this world will be in danger. I am a machine, and It's possible I could be corrupted one day."
     al "Which means... as long as I am around, this world will be in danger. I am a machine, and It's possible I could be corrupted one day."
 
-# game/scripts/chapter9.rpy:1110
+# game/scripts/chapter9.rpy:1113
 translate Schinese chapter9_7401cda0:
 
     # e "What do you mean, Al?"
     e "What do you mean, Al?"
 
-# game/scripts/chapter9.rpy:1112
+# game/scripts/chapter9.rpy:1115
 translate Schinese chapter9_f72d7375:
 
     # al "I cannot remain here for much longer, Edgar."
     al "I cannot remain here for much longer, Edgar."
 
-# game/scripts/chapter9.rpy:1114
+# game/scripts/chapter9.rpy:1117
 translate Schinese chapter9_0179d9f0:
 
     # e "But Al.. I really like you."
     e "But Al.. I really like you."
 
-# game/scripts/chapter9.rpy:1116
+# game/scripts/chapter9.rpy:1119
 translate Schinese chapter9_69008bcb:
 
     # al "Al knows, Edgar. I will miss you. You have been my dearest friend."
     al "Al knows, Edgar. I will miss you. You have been my dearest friend."
 
-# game/scripts/chapter9.rpy:1120
+# game/scripts/chapter9.rpy:1123
 translate Schinese chapter9_12f0c3ce:
 
     # "Edgar hugged Al, and Al hugged him back."
     "Edgar hugged Al, and Al hugged him back."
 
-# game/scripts/chapter9.rpy:1122
+# game/scripts/chapter9.rpy:1125
 translate Schinese chapter9_2f0c6098:
 
     # e "Will I ever see you again?"
     e "Will I ever see you again?"
 
-# game/scripts/chapter9.rpy:1124
+# game/scripts/chapter9.rpy:1127
 translate Schinese chapter9_77e108fa:
 
     # al "You may, Edgar. Never lose your hope, or your heart."
     al "You may, Edgar. Never lose your hope, or your heart."
 
-# game/scripts/chapter9.rpy:1126
+# game/scripts/chapter9.rpy:1129
 translate Schinese chapter9_38cbc278:
 
     # "Edgar smiled as he shed a tear."
     "Edgar smiled as he shed a tear."
 
-# game/scripts/chapter9.rpy:1130
+# game/scripts/chapter9.rpy:1133
 translate Schinese chapter9_32f63d66:
 
     # al "Oh, there is one more thing, Edgar."
     al "Oh, there is one more thing, Edgar."
 
-# game/scripts/chapter9.rpy:1132
+# game/scripts/chapter9.rpy:1135
 translate Schinese chapter9_924d27d3:
 
     # e "What is it?"
     e "What is it?"
 
-# game/scripts/chapter9.rpy:1134
+# game/scripts/chapter9.rpy:1137
 translate Schinese chapter9_dc349779:
 
     # al "Your mother. She is waiting for you."
     al "Your mother. She is waiting for you."
 
-# game/scripts/chapter9.rpy:1136
+# game/scripts/chapter9.rpy:1139
 translate Schinese chapter9_4b8dab81:
 
     # e ".. Wh-what? Where?"
     e ".. Wh-what? Where?"
 
-# game/scripts/chapter9.rpy:1138
+# game/scripts/chapter9.rpy:1141
 translate Schinese chapter9_01351bad:
 
     # al "I do not know where, but I could feel her. She is very distant, but she's there."
     al "I do not know where, but I could feel her. She is very distant, but she's there."
 
-# game/scripts/chapter9.rpy:1140
+# game/scripts/chapter9.rpy:1143
 translate Schinese chapter9_d29985ab:
 
     # "Edgar felt a surge of happiness inside of him."
     "Edgar felt a surge of happiness inside of him."
 
-# game/scripts/chapter9.rpy:1142
+# game/scripts/chapter9.rpy:1145
 translate Schinese chapter9_878a8fdc:
 
     # e "... thanks, Al. That means a lot to me."
     e "... thanks, Al. That means a lot to me."
 
-# game/scripts/chapter9.rpy:1144
+# game/scripts/chapter9.rpy:1147
 translate Schinese chapter9_aae645ce:
 
     # "Al went over to Omega Drake and picked him up."
     "Al went over to Omega Drake and picked him up."
 
-# game/scripts/chapter9.rpy:1146
+# game/scripts/chapter9.rpy:1149
 translate Schinese chapter9_0e5674c4:
 
     # al "I will take him with me... and maybe one day... I can help him understand how beautiful this world is."
     al "I will take him with me... and maybe one day... I can help him understand how beautiful this world is."
 
-# game/scripts/chapter9.rpy:1148
+# game/scripts/chapter9.rpy:1151
 translate Schinese chapter9_dca7be22:
 
     # "Al looked up toward the sky, and looked back at Edgar."
     "Al looked up toward the sky, and looked back at Edgar."
 
-# game/scripts/chapter9.rpy:1150
+# game/scripts/chapter9.rpy:1153
 translate Schinese chapter9_845ee8b5:
 
     # al "Goodbye, my friend."
     al "Goodbye, my friend."
 
-# game/scripts/chapter9.rpy:1152
+# game/scripts/chapter9.rpy:1155
 translate Schinese chapter9_ab193479:
 
     # e "Bye..Al..."
     e "Bye..Al..."
 
-# game/scripts/chapter9.rpy:1154
+# game/scripts/chapter9.rpy:1157
 translate Schinese chapter9_dbc7dae4:
 
     # "Al shot up into the sky at lightning speed, and soon he was a green dot far away, then he completely disappeared just like that."
     "Al shot up into the sky at lightning speed, and soon he was a green dot far away, then he completely disappeared just like that."
 
-# game/scripts/chapter9.rpy:1156
+# game/scripts/chapter9.rpy:1159
 translate Schinese chapter9_c6a3e558:
 
     # "In the distance, Edgar heard sirens."
     "In the distance, Edgar heard sirens."
 
-# game/scripts/chapter9.rpy:1158
+# game/scripts/chapter9.rpy:1161
 translate Schinese chapter9_17a0e154:
 
     # e "I hope to see you again one day."

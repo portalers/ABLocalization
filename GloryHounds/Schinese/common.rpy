@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-08-25 11:57
+﻿# TODO: Translation updated at 2023-02-17 21:42
 
 translate Schinese strings:
 
@@ -54,10 +54,6 @@ translate Schinese strings:
     old "Font Override"
     new "Font Override"
 
-    # renpy/common/00accessibility.rpy:142
-    old "Default"
-    new "Default"
-
     # renpy/common/00accessibility.rpy:146
     old "DejaVu Sans"
     new "DejaVu Sans"
@@ -85,10 +81,6 @@ translate Schinese strings:
     # renpy/common/00accessibility.rpy:182
     old "Enable"
     new "Enable"
-
-    # renpy/common/00accessibility.rpy:186
-    old "Disable"
-    new "Disable"
 
     # renpy/common/00accessibility.rpy:193
     old "Self-Voicing"
@@ -302,18 +294,6 @@ translate Schinese strings:
     old "File page [text]"
     new "File page [text]"
 
-    # renpy/common/00action_file.rpy:639
-    old "Page {}"
-    new "Page {}"
-
-    # renpy/common/00action_file.rpy:639
-    old "Automatic saves"
-    new "Automatic saves"
-
-    # renpy/common/00action_file.rpy:639
-    old "Quick saves"
-    new "Quick saves"
-
     # renpy/common/00action_file.rpy:780
     old "Next file page."
     new "Next file page."
@@ -434,43 +414,43 @@ translate Schinese strings:
     old "Audio Filename:"
     new "Audio Filename:"
 
-    # renpy/common/00gui.rpy:435
+    # renpy/common/00gui.rpy:445
     old "Are you sure?"
     new "Are you sure?"
 
-    # renpy/common/00gui.rpy:436
+    # renpy/common/00gui.rpy:446
     old "Are you sure you want to delete this save?"
     new "Are you sure you want to delete this save?"
 
-    # renpy/common/00gui.rpy:437
+    # renpy/common/00gui.rpy:447
     old "Are you sure you want to overwrite your save?"
     new "Are you sure you want to overwrite your save?"
 
-    # renpy/common/00gui.rpy:438
+    # renpy/common/00gui.rpy:448
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
     new "Loading will lose unsaved progress.\nAre you sure you want to do this?"
 
-    # renpy/common/00gui.rpy:439
+    # renpy/common/00gui.rpy:449
     old "Are you sure you want to quit?"
     new "Are you sure you want to quit?"
 
-    # renpy/common/00gui.rpy:440
+    # renpy/common/00gui.rpy:450
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
     new "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
 
-    # renpy/common/00gui.rpy:441
+    # renpy/common/00gui.rpy:451
     old "Are you sure you want to end the replay?"
     new "Are you sure you want to end the replay?"
 
-    # renpy/common/00gui.rpy:442
+    # renpy/common/00gui.rpy:452
     old "Are you sure you want to begin skipping?"
     new "Are you sure you want to begin skipping?"
 
-    # renpy/common/00gui.rpy:443
+    # renpy/common/00gui.rpy:453
     old "Are you sure you want to skip to the next choice?"
     new "Are you sure you want to skip to the next choice?"
 
-    # renpy/common/00gui.rpy:444
+    # renpy/common/00gui.rpy:454
     old "Are you sure you want to skip unseen dialogue to the next choice?"
     new "Are you sure you want to skip unseen dialogue to the next choice?"
 
@@ -690,174 +670,6 @@ translate Schinese strings:
     old "Self-voicing enabled. Press 'v' to disable."
     new "Self-voicing enabled. Press 'v' to disable."
 
-    # renpy/common/_compat/gamemenu.rpym:198
-    old "Empty Slot."
-    new "Empty Slot."
-
-    # renpy/common/_compat/gamemenu.rpym:355
-    old "Previous"
-    new "Previous"
-
-    # renpy/common/_compat/gamemenu.rpym:362
-    old "Next"
-    new "Next"
-
-    # renpy/common/_compat/preferences.rpym:428
-    old "Joystick Mapping"
-    new "Joystick Mapping"
-
-    # renpy/common/_developer/developer.rpym:38
-    old "Developer Menu"
-    new "Developer Menu"
-
-    # renpy/common/_developer/developer.rpym:43
-    old "Interactive Director (D)"
-    new "Interactive Director (D)"
-
-    # renpy/common/_developer/developer.rpym:45
-    old "Reload Game (Shift+R)"
-    new "Reload Game (Shift+R)"
-
-    # renpy/common/_developer/developer.rpym:47
-    old "Console (Shift+O)"
-    new "Console (Shift+O)"
-
-    # renpy/common/_developer/developer.rpym:49
-    old "Variable Viewer"
-    new "Variable Viewer"
-
-    # renpy/common/_developer/developer.rpym:51
-    old "Image Location Picker"
-    new "Image Location Picker"
-
-    # renpy/common/_developer/developer.rpym:53
-    old "Filename List"
-    new "Filename List"
-
-    # renpy/common/_developer/developer.rpym:57
-    old "Show Image Load Log (F4)"
-    new "Show Image Load Log (F4)"
-
-    # renpy/common/_developer/developer.rpym:60
-    old "Hide Image Load Log (F4)"
-    new "Hide Image Load Log (F4)"
-
-    # renpy/common/_developer/developer.rpym:63
-    old "Image Attributes"
-    new "Image Attributes"
-
-    # renpy/common/_developer/developer.rpym:90
-    old "[name] [attributes] (hidden)"
-    new "[name] [attributes] (hidden)"
-
-    # renpy/common/_developer/developer.rpym:94
-    old "[name] [attributes]"
-    new "[name] [attributes]"
-
-    # renpy/common/_developer/developer.rpym:143
-    old "Nothing to inspect."
-    new "Nothing to inspect."
-
-    # renpy/common/_developer/developer.rpym:154
-    old "Hide deleted"
-    new "Hide deleted"
-
-    # renpy/common/_developer/developer.rpym:154
-    old "Show deleted"
-    new "Show deleted"
-
-    # renpy/common/_developer/developer.rpym:278
-    old "Return to the developer menu"
-    new "Return to the developer menu"
-
-    # renpy/common/_developer/developer.rpym:443
-    old "Rectangle: %r"
-    new "Rectangle: %r"
-
-    # renpy/common/_developer/developer.rpym:448
-    old "Mouse position: %r"
-    new "Mouse position: %r"
-
-    # renpy/common/_developer/developer.rpym:453
-    old "Right-click or escape to quit."
-    new "Right-click or escape to quit."
-
-    # renpy/common/_developer/developer.rpym:485
-    old "Rectangle copied to clipboard."
-    new "Rectangle copied to clipboard."
-
-    # renpy/common/_developer/developer.rpym:488
-    old "Position copied to clipboard."
-    new "Position copied to clipboard."
-
-    # renpy/common/_developer/developer.rpym:506
-    old "Type to filter: "
-    new "Type to filter: "
-
-    # renpy/common/_developer/developer.rpym:633
-    old "Textures: [tex_count] ([tex_size_mb:.1f] MB)"
-    new "Textures: [tex_count] ([tex_size_mb:.1f] MB)"
-
-    # renpy/common/_developer/developer.rpym:637
-    old "Image cache: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
-    new "Image cache: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
-
-    # renpy/common/_developer/developer.rpym:647
-    old "✔ "
-    new "✔ "
-
-    # renpy/common/_developer/developer.rpym:650
-    old "✘ "
-    new "✘ "
-
-    # renpy/common/_developer/developer.rpym:655
-    old "\n{color=#cfc}✔ predicted image (good){/color}\n{color=#fcc}✘ unpredicted image (bad){/color}\n{color=#fff}Drag to move.{/color}"
-    new "\n{color=#cfc}✔ predicted image (good){/color}\n{color=#fcc}✘ unpredicted image (bad){/color}\n{color=#fff}Drag to move.{/color}"
-
-    # renpy/common/_developer/inspector.rpym:38
-    old "Displayable Inspector"
-    new "Displayable Inspector"
-
-    # renpy/common/_developer/inspector.rpym:61
-    old "Size"
-    new "Size"
-
-    # renpy/common/_developer/inspector.rpym:65
-    old "Style"
-    new "Style"
-
-    # renpy/common/_developer/inspector.rpym:71
-    old "Location"
-    new "Location"
-
-    # renpy/common/_developer/inspector.rpym:122
-    old "Inspecting Styles of [displayable_name!q]"
-    new "Inspecting Styles of [displayable_name!q]"
-
-    # renpy/common/_developer/inspector.rpym:139
-    old "displayable:"
-    new "displayable:"
-
-    # renpy/common/_developer/inspector.rpym:145
-    old "        (no properties affect the displayable)"
-    new "        (no properties affect the displayable)"
-
-    # renpy/common/_developer/inspector.rpym:147
-    old "        (default properties omitted)"
-    new "        (default properties omitted)"
-
-    # renpy/common/_developer/inspector.rpym:185
-    old "<repr() failed>"
-    new "<repr() failed>"
-
-    # renpy/common/_layout/classic_load_save.rpym:170
-    old "a"
-    new "a"
-
-    # renpy/common/_layout/classic_load_save.rpym:179
-    old "q"
-    new "q"
-
     # renpy/common/00iap.rpy:219
     old "Contacting App Store\nPlease Wait..."
     new "Contacting App Store\nPlease Wait..."
@@ -950,10 +762,6 @@ translate Schinese strings:
     old "Proceed"
     new "Proceed"
 
-    # renpy/common/00compat.rpy:364
-    old "Fullscreen"
-    new "Fullscreen"
-
     # renpy/common/00gallery.rpy:627
     old "Image [index] of [count] locked."
     new "Image [index] of [count] locked."
@@ -1006,17 +814,9 @@ translate Schinese strings:
     old "Force GLES2 Renderer"
     new "Force GLES2 Renderer"
 
-    # renpy/common/00gltest.rpy:132
-    old "Gamepad"
-    new "Gamepad"
-
     # renpy/common/00gltest.rpy:136
     old "Enable (No Blocklist)"
     new "Enable (No Blocklist)"
-
-    # renpy/common/00gltest.rpy:150
-    old "Calibrate"
-    new "Calibrate"
 
     # renpy/common/00gltest.rpy:159
     old "Powersave"

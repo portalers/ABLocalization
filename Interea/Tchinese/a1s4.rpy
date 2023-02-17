@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-06-21 12:17
+﻿# TODO: Translation updated at 2023-02-17 19:03
 
 # game/a1s4.rpy:3
 translate Tchinese a1s4_c8f6d5e5:
@@ -16,13 +16,13 @@ translate Tchinese a1s4_28593d45:
 translate Tchinese a1s4_1b1743a4:
 
     # m "\"Wow, this is really nice.\""
-    m "\"哇喔，真不錯。\""
+    m "“哇喔，真不錯。”"
 
 # game/a1s4.rpy:8
 translate Tchinese a1s4_e1e0214a:
 
     # a "\"It is.\""
-    a "\"是啊。\""
+    a "“是啊。”"
 
 # game/a1s4.rpy:9
 translate Tchinese a1s4_7e4beee8:
@@ -34,7 +34,7 @@ translate Tchinese a1s4_7e4beee8:
 translate Tchinese a1s4_75b46dda:
 
     # m "\"Haven't you been here before? This is where you stay when you're in Lux, right?\""
-    m "\"你沒見過嗎？那你在盧克斯的時候住哪？\""
+    m "“你沒見過嗎？那你在盧克斯的時候住哪？”"
 
 # game/a1s4.rpy:11
 translate Tchinese a1s4_c31cb455:
@@ -46,13 +46,13 @@ translate Tchinese a1s4_c31cb455:
 translate Tchinese a1s4_f02290b4:
 
     # a "\"Actually, I've never stayed here myself. This is my first visit to Lux as Emperor. My previous visits in my youth never lasted longer than a day.\""
-    a "\"其實，這是我作為皇帝頭一次拜訪盧克斯。我從來沒有單獨來過，偶爾幾次也都不超過一天。\""
+    a "“其實，這是我作為皇帝頭一次拜訪盧克斯。我從來沒有單獨來過，偶爾幾次也都不超過一天。”"
 
 # game/a1s4.rpy:15
 translate Tchinese a1s4_df135c6d:
 
     # a "\"Cassius is likely familiar with the place, though.\""
-    a "\"不過，Cassius應該很熟悉這個地方吧。\""
+    a "“不過，Cassius應該很熟悉這個地方吧。”"
 
 # game/a1s4.rpy:16
 translate Tchinese a1s4_381e8867:
@@ -100,7 +100,7 @@ translate Tchinese a1s4_090830ce:
 translate Tchinese a1s4_9e700aee:
 
     # m "\"Your grandfather, Vitus, right?\""
-    m "\"你的祖父是Vitus，對吧？\""
+    m "“你的祖父是Vitus，對吧？”"
 
 # game/a1s4.rpy:25
 translate Tchinese a1s4_6e78ad27:
@@ -112,7 +112,7 @@ translate Tchinese a1s4_6e78ad27:
 translate Tchinese a1s4_887950af:
 
     # a "\"Oh yes, Vitus. You've learned of him?\""
-    a "\"是啊，Vitus，你聽說過他？\""
+    a "“是啊，Vitus，你聽說過他？”"
 
 # game/a1s4.rpy:27
 translate Tchinese a1s4_3f4c2346:
@@ -130,13 +130,13 @@ translate Tchinese a1s4_df855989:
 translate Tchinese a1s4_ce21c430:
 
     # m "\"Just a little bit. I just remember that he ended up getting rid of most of the expensive stuff owned by the family and gave it to the people, or something.\""
-    m "\"略有耳聞，我只記得他最後把家裡大部分昂貴的東西都扔掉、送掉了，之類的。\""
+    m "“略有耳聞，我只記得他最後把家裡大部分昂貴的東西都扔掉、送掉了，之類的。”"
 
 # game/a1s4.rpy:31
 translate Tchinese a1s4_0ad7fef3:
 
     # a "\"He did! About a century ago the palace had far more decorations and murals. It was a very important step forward in the imperial family's relationship with the people.\""
-    a "\"沒錯！皇宮裡的裝飾品和壁畫比一個世紀前可少多了。由此，皇室與百姓的關係向前邁出了重要的一步。\""
+    a "“沒錯！皇宮裡的裝飾品和壁畫比一個世紀前可少多了。由此，皇室與百姓的關係向前邁出了重要的一步。”"
 
 # game/a1s4.rpy:32
 translate Tchinese a1s4_e9b7973a:
@@ -160,25 +160,25 @@ translate Tchinese a1s4_c0d7207a:
 translate Tchinese a1s4_ad0231d3:
 
     # m "\"Well, I guess I would have thought that might be the case for the villas too, especially in a region as poor as Lux. They don't have much wealth here, right?\""
-    m "\"我想這也適用於莊園，尤其是在盧克斯這樣貧窮的地區，不是嗎？\""
+    m "“我想這也適用於莊園，尤其是在盧克斯這樣貧窮的地區，不是嗎？”"
 
 # game/a1s4.rpy:37
 translate Tchinese a1s4_6768cc25:
 
     # a "\"Well, the mines and factories are prosperous enough. The issue is how the wealth is then distributed to the people.\""
-    a "\"這個嘛，他們有興旺的採礦業和製造業，問題出在財富的分配上。\""
+    a "“這個嘛，他們有興旺的採礦業和製造業，問題出在財富的分配上。”"
 
 # game/a1s4.rpy:39
 translate Tchinese a1s4_e7bdc042:
 
     # a "\"Unfortunately, the people of Lux seem intent on voting for the most extreme politicians, who then tend to be the most corrupt. It's a self-inflicted misery, unfortunately.\""
-    a "\"不幸的是，盧克斯的人民傾向於把選票投給最極端的政客，而那些人往往也是最腐敗的，這就是所謂的自食惡果吧。\""
+    a "“不幸的是，盧克斯的人民傾向於把選票投給最極端的政客，而那些人往往也是最腐敗的，這就是所謂的自食惡果吧。”"
 
 # game/a1s4.rpy:40
 translate Tchinese a1s4_fe10ab79:
 
     # m "\"Uh...\""
-    m "\"唔……\""
+    m "“唔……”"
 
 # game/a1s4.rpy:41
 translate Tchinese a1s4_ed15f95f:
@@ -196,7 +196,7 @@ translate Tchinese a1s4_4127e546:
 translate Tchinese a1s4_9eedba59:
 
     # a "\"I should not have to tell you once again that you can speak freely with me, [mc].\""
-    a "\"你不必對我有所隱瞞，這句話我已經說累了，[mc]。\""
+    a "“你不必對我有所隱瞞，這句話我已經說累了，[mc]。”"
 
 # game/a1s4.rpy:45
 translate Tchinese a1s4_453332bd:
@@ -208,85 +208,85 @@ translate Tchinese a1s4_453332bd:
 translate Tchinese a1s4_dbef5060:
 
     # m "\"I know, but I need to remember that Adastra isn't Earth, and sometimes it feels like it isn't my place--\""
-    m "\"我明白，但阿達斯特拉不是地球，這裡輪不到我評頭論──\""
+    m "“我明白，但阿達斯特拉不是地球，這裡輪不到我評頭論──”"
 
 # game/a1s4.rpy:48
 translate Tchinese a1s4_16ce9e05:
 
     # a "\"But it is. I want a human perspective.\""
-    a "\"輪得到，我想聽人類的看法。\""
+    a "“輪得到，我想聽人類的看法。”"
 
 # game/a1s4.rpy:49
 translate Tchinese a1s4_0ad4d9be:
 
     # m "\"Well, just remember it's only {i}my{/i} perspective.\""
-    m "\"好吧，但記住，這只是我{b}個人{/b}的觀點。\""
+    m "“好吧，但記住，這只是我{b}個人{/b}的觀點。”"
 
 # game/a1s4.rpy:51
 translate Tchinese a1s4_b6b84c66:
 
     # a "\"Alright.\""
-    a "\"好。\""
+    a "“好。”"
 
 # game/a1s4.rpy:52
 translate Tchinese a1s4_4dffe0aa:
 
     # m "\"And I think that when you say it's 'self-inflicted', it feels like you're just blaming them for a situation that isn't really their fault.\""
-    m "\"你的‘自食惡果’在我聽來只是在責怪人民，卻忽略了這並非他們的錯。\""
+    m "“你的‘自食惡果’在我聽來只是在責怪人民，卻忽略了這並非他們的錯。”"
 
 # game/a1s4.rpy:54
 translate Tchinese a1s4_629a5cf0:
 
     # a "\"Yes, I understand that, but what I said is mostly out of frustration. It's difficult to sway these people and at times I'm at a loss for what to do about the Lux problem.\""
-    a "\"可以理解，但其實我更多是在抱怨。這裡的人太頑固了，有時候，我是真的對盧克斯的問題束手無策。\""
+    a "“可以理解，但其實我更多是在抱怨。這裡的人太頑固了，有時候，我是真的對盧克斯的問題束手無策。”"
 
 # game/a1s4.rpy:55
 translate Tchinese a1s4_081ed66e:
 
     # m "\"Well, make sure you stop calling it the 'Lux problem', first of all.\""
-    m "\"首先，別再把這叫‘盧克斯的問題’了。\""
+    m "“首先，別再把這叫‘盧克斯的問題’了。”"
 
 # game/a1s4.rpy:57
 translate Tchinese a1s4_68785a87:
 
     # a "\"I'd never say that out loud to anyone else, of course.\""
-    a "\"放心，我只會在私下這樣說。\""
+    a "“放心，我只會在私下這樣說。”"
 
 # game/a1s4.rpy:58
 translate Tchinese a1s4_d03d8aaf:
 
     # m "\"But someone might hear you. We both know there can be ears anywhere.\""
-    m "\"但隔牆有耳。要知道，竊聽者可能無孔不入。\""
+    m "“但隔牆有耳。要知道，竊聽者可能無孔不入。”"
 
 # game/a1s4.rpy:60
 translate Tchinese a1s4_be7c6ded:
 
     # a "\"I suppose you're right. But that doesn't fix the actual issue.\""
-    a "\"也許吧，但一個叫法改變不了什麼。\""
+    a "“也許吧，但一個叫法改變不了什麼。”"
 
 # game/a1s4.rpy:61
 translate Tchinese a1s4_cd4e9792:
 
     # m "\"Have you tried building a better relationship with Lux?\""
-    m "\"你試過改善與盧克斯的關係嗎？\""
+    m "“你試過改善與盧克斯的關係嗎？”"
 
 # game/a1s4.rpy:62
 translate Tchinese a1s4_a8444d80:
 
     # a "\"Of course! But like I said, the funds we send them end up in pockets that we cannot trace. Attempts to regulate or even withhold funds end in riots.\""
-    a "\"當然了！但正如我說的那樣，撥給他們的資金最終流進了看不見的腰包，管控乃至扣押的手段都以暴亂告終了。\""
+    a "“當然了！但正如我說的那樣，撥給他們的資金最終流進了看不見的腰包，管控乃至扣押的手段都以暴亂告終了。”"
 
 # game/a1s4.rpy:63
 translate Tchinese a1s4_4b0ef07b:
 
     # a "\"Attempts to purge unqualified politicians from the ballots end in riots. Really, any attempts to make Lux resemble a civilized Adastran city end in riots that do not end until Adastra gives in to their demands.\""
-    a "\"清洗不合格政客的嘗試也以暴亂告終。說實話，任何讓盧克斯成為文明城市的企圖都會以暴亂告終，直到阿達斯特拉屈服於他們的要求。\""
+    a "“清洗不合格政客的嘗試也以暴亂告終。說實話，任何讓盧克斯成為文明城市的企圖都會以暴亂告終，直到阿達斯特拉屈服於他們的要求。”"
 
 # game/a1s4.rpy:65
 translate Tchinese a1s4_d94b6d4f:
 
     # a "\"Tell me, what the hell am I supposed to do to make them understand that Adastra simply wants what is best for them?\""
-    a "\"天啊，我到底該怎麼做，才能讓他們明白阿達斯特拉是為了他們好呢？\""
+    a "“天啊，我到底該怎麼做，才能讓他們明白阿達斯特拉是為了他們好呢？”"
 
 # game/a1s4.rpy:66
 translate Tchinese a1s4_1668eac3:
@@ -310,25 +310,25 @@ translate Tchinese a1s4_a9af86c6:
 translate Tchinese a1s4_568a54b3:
 
     # m "\"From what I understand, a lot of the problems in Lux come from its isolation, right?\""
-    m "\"據我所知，盧克斯不少的問題均來自於它的孤立，對不對？\""
+    m "“據我所知，盧克斯不少的問題均來自於它的孤立，對不對？”"
 
 # game/a1s4.rpy:71
 translate Tchinese a1s4_e844837a:
 
     # a "\"I would say so, yes.\""
-    a "\"我不否認。\""
+    a "“我不否認。”"
 
 # game/a1s4.rpy:72
 translate Tchinese a1s4_46631364:
 
     # m "\"Oh, and I think a few centuries back an emperor tried to, uh, 'calm the rebellious spirit of Luxians' by importing large amounts of hard liqour into the city... which I can't imagine had a good effect on the people.\""
-    m "\"記得幾個世紀前，有一位皇帝曾試圖通過向城市輸入大量烈酒，以撫平盧克斯人的叛逆精神……很難想像這會起到什麼積極作用。\""
+    m "“記得幾個世紀前，有一位皇帝曾試圖通過向城市輸入大量烈酒，以撫平盧克斯人的叛逆精神……很難想像這會起到什麼積極作用。”"
 
 # game/a1s4.rpy:74
 translate Tchinese a1s4_f7c47e71:
 
     # a "\"I... do not recall that policy? Did Com tell you that?\""
-    a "\"我……不記得有這個政策？是Com教你的嗎？\""
+    a "“我……不記得有這個政策？是Com教你的嗎？”"
 
 # game/a1s4.rpy:75
 translate Tchinese a1s4_ab6e2b8f:
@@ -346,31 +346,31 @@ translate Tchinese a1s4_cdf3cc8b:
 translate Tchinese a1s4_1d1d0e71:
 
     # m "\"I think so. Either way, maybe you can try to address those problems? How do you usually get from one city to another?\""
-    m "\"好像是。總之，也許你可以著手解決一下這些問題？你一般怎麼去另一個城市？\""
+    m "“好像是。總之，也許你可以著手解決一下這些問題？你一般怎麼去另一個城市？”"
 
 # game/a1s4.rpy:78
 translate Tchinese a1s4_3083b473:
 
     # a "\"Er, well, through flight, of course.\""
-    a "\"呃，當然是全程坐飛行器了。\""
+    a "“呃，當然是全程坐飛行器了。”"
 
 # game/a1s4.rpy:79
 translate Tchinese a1s4_7b5c4bbb:
 
     # m "\"Can a Luxian afford that?\""
-    m "\"盧克斯人坐得起嗎？\""
+    m "“盧克斯人坐得起嗎？”"
 
 # game/a1s4.rpy:80
 translate Tchinese a1s4_0f122bfa:
 
     # a "\"No, most can not. Most travel is done by automated chariots.\""
-    a "\"很少，這裡的主流出行方式是自動馬車。\""
+    a "“很少，這裡的主流出行方式是自動馬車。”"
 
 # game/a1s4.rpy:81
 translate Tchinese a1s4_afc784ca:
 
     # a "\"Though from Lux, I believe you must travel on foot out of the mountains first.\""
-    a "\"儘管如此，我想他們也得先徒步走出山區。\""
+    a "“儘管如此，我想他們也得先徒步走出山區。”"
 
 # game/a1s4.rpy:82
 translate Tchinese a1s4_e499761a:
@@ -382,67 +382,67 @@ translate Tchinese a1s4_e499761a:
 translate Tchinese a1s4_00c7039f:
 
     # m "\"Aren't the chariots really slow?\""
-    m "\"馬車不會太慢了嗎？\""
+    m "“馬車不會太慢了嗎？”"
 
 # game/a1s4.rpy:85
 translate Tchinese a1s4_90209258:
 
     # a "\"Well, they're twice that of walking speed, thus it would take about two weeks to travel from here to Adastra city. So not terrible.\""
-    a "\"唔，還好吧，從這裡到阿達斯特拉城大約需要兩週時間，比步行快一倍呢。\""
+    a "“唔，還好吧，從這裡到阿達斯特拉城大約需要兩週時間，比步行快一倍呢。”"
 
 # game/a1s4.rpy:86
 translate Tchinese a1s4_fb494f24:
 
     # m "\"How do they transport all the raw materials from the mining, or the goods from the factories?\""
-    m "\"那他們如何運輸礦上的原材料跟貨物？\""
+    m "“那他們如何運輸礦上的原材料跟貨物？”"
 
 # game/a1s4.rpy:88
 translate Tchinese a1s4_fdd0a598:
 
     # a "\"Those are moved by foot and chariot to a major river, then placed on boats.\""
-    a "\"先通過人力和馬車運到一條主要河流，再送上船。\""
+    a "“先通過人力和馬車運到一條主要河流，再送上船。”"
 
 # game/a1s4.rpy:89
 translate Tchinese a1s4_18914b20:
 
     # m "\"Do people travel on the boats?\""
-    m "\"人們能乘船旅行嗎？\""
+    m "“人們能乘船旅行嗎？”"
 
 # game/a1s4.rpy:91
 translate Tchinese a1s4_aa0cc286:
 
     # a "\"No, the boats are only for the transportation of goods and resources, and the river only connects to Tricelli. They refine the resources and distribute the goods to other cities. What are you going on about, anyway?\""
-    a "\"不，那些船只用來運輸貨物和資源，河也只通往特里切利。那裡的人會對資源進行提純，還有將貨物配送到其他城市。話說，你問這些做什麼？\""
+    a "“不，那些船只用來運輸貨物和資源，河也只通往特里切利。那裡的人會對資源進行提純，還有將貨物配送到其他城市。話說，你問這些做什麼？”"
 
 # game/a1s4.rpy:92
 translate Tchinese a1s4_0a6cd322:
 
     # m "\"I'm trying to figure out how people get around on Adastra. From what I can tell, the main problem here is how isolated it is. On Earth, if a state wants to unify its people, it connects its people.\""
-    m "\"我想知道阿達斯特拉人的出行方式。在我看來，孤立是這裡的根本問題。在我們地球，如果一個國家想要統一，就必須先聯繫起它的人民。\""
+    m "“我想知道阿達斯特拉人的出行方式。在我看來，孤立是這裡的根本問題。在我們地球，如果一個國家想要統一，就必須先聯繫起它的人民。”"
 
 # game/a1s4.rpy:93
 translate Tchinese a1s4_467d6084:
 
     # m "\"That's usually done through roads, trains, aircraft: you know, general public transport. It sounds like Adastra doesn't really have that.\""
-    m "\"比如公路、火車，飛機等公共交通，但阿達斯特拉好像都不具備。\""
+    m "“比如公路、火車，飛機等公共交通，但阿達斯特拉好像都不具備。”"
 
 # game/a1s4.rpy:95
 translate Tchinese a1s4_62810ab0:
 
     # a "\"Ah, yes, well, we already have the roads and they've served us well for thousands of years.\""
-    a "\"這，呃，我們有公路呀，它們為我們服務了數千年。\""
+    a "“這，呃，我們有公路呀，它們為我們服務了數千年。”"
 
 # game/a1s4.rpy:96
 translate Tchinese a1s4_7a2f3bcb:
 
     # m "\"And they only serve slow chariots. I'm not sure how the parents work, or if maybe you can ask Khemia for help, but high-speed transportation for the general public would probably be my first step.\""
-    m "\"但僅限慢車。我不清楚Parents的打算，也許你可以去問克米揚。至於我，我可能會把為人民提供高速交通作為第一步。\""
+    m "“但僅限慢車。我不清楚Parents的打算，也許你可以去問克米揚。至於我，我可能會把為人民提供高速交通作為第一步。”"
 
 # game/a1s4.rpy:98
 translate Tchinese a1s4_bc1991ae:
 
     # a "\"Hmm.\""
-    a "\"嗯……\""
+    a "“嗯……”"
 
 # game/a1s4.rpy:99
 translate Tchinese a1s4_47f0fc70:
@@ -454,31 +454,31 @@ translate Tchinese a1s4_47f0fc70:
 translate Tchinese a1s4_6dc0c78e:
 
     # m "\"Sorry, I don't know much about what's possible, so I probably sound crazy right now.\""
-    m "\"抱歉，聽起來很沒邏輯吧，我只是紙上談兵罷了。\""
+    m "“抱歉，聽起來很沒邏輯吧，我只是紙上談兵罷了。”"
 
 # game/a1s4.rpy:101
 translate Tchinese a1s4_76773796:
 
     # a "\"Well, it's certainly not an easy or quick proposition, but it's something that can be looked into. I appreciate the idea, though one of the reasons we've never pursued a better connection with Lux is because its people do not seem to want one.\""
-    a "\"這當然不是個簡單的命題，但可以被攻破。我很欣賞你的想法，雖然我們之所以沒有建立更加良好的外交關係，原因之一是這似乎有悖這裡的民意。\""
+    a "“這當然不是個簡單的命題，但可以被攻破。我很欣賞你的想法，雖然我們之所以沒有建立更加良好的外交關係，原因之一是這似乎有悖這裡的民意。”"
 
 # game/a1s4.rpy:102
 translate Tchinese a1s4_7b87d879:
 
     # m "\"Well, maybe it's {i}because{/i} they feel so isolated, like they're not part of Adastra. Over time, that could change.\""
-    m "\"也許是{b}因為{/b}他們感到孤單，覺得自己不是阿達斯特拉的一份子呢。不過隨著時間的推移，這種狀況會好轉的。\""
+    m "“也許是{b}因為{/b}他們感到孤單，覺得自己不是阿達斯特拉的一份子呢。不過隨著時間的推移，這種狀況會好轉的。”"
 
 # game/a1s4.rpy:104
 translate Tchinese a1s4_6f6dcc3b:
 
     # a "\"I suppose that could be the case. I'll ask some of the others about it.\""
-    a "\"希望如此，我會去請教其他人的。\""
+    a "“希望如此，我會去請教其他人的。”"
 
 # game/a1s4.rpy:105
 translate Tchinese a1s4_7a8aaaa6:
 
     # m "\"Maybe we could ask Magis, since he's coming with us now?\""
-    m "\"可以問問Magis，他不是要跟我們同行嗎？\""
+    m "“可以問問Magis，他不是要跟我們同行嗎？”"
 
 # game/a1s4.rpy:107
 translate Tchinese a1s4_0c269f82:
@@ -490,7 +490,7 @@ translate Tchinese a1s4_0c269f82:
 translate Tchinese a1s4_408dd5d9:
 
     # a "\"Yes, that will likely be necessary.\""
-    a "\"是啊，有這個必要。\""
+    a "“是啊，有這個必要。”"
 
 # game/a1s4.rpy:110
 translate Tchinese a1s4_c006c1f6:
@@ -532,13 +532,13 @@ translate Tchinese a1s4_fc351781:
 translate Tchinese a1s4_9a4430cc:
 
     # a "\"Thank you for speaking candidly with me, [mc]. You always have fantastic insight.\""
-    a "\"感謝你的肺腑之言，[mc]，你的見解總是很獨到。\""
+    a "“感謝你的肺腑之言，[mc]，你的見解總是很獨到。”"
 
 # game/a1s4.rpy:119
 translate Tchinese a1s4_aacc99e7:
 
     # m "\"Thanks. You're doing a fantastic job as an emperor.\""
-    m "\"謝謝，你也是一位出色的皇帝。\""
+    m "“謝謝，你也是一位出色的皇帝。”"
 
 # game/a1s4.rpy:122
 translate Tchinese a1s4_8b3f2e1d:
@@ -610,13 +610,13 @@ translate Tchinese a1s4_b2d873f9:
 translate Tchinese a1s4_c7fb1b9f:
 
     # a "\"Com?\""
-    a "\"Com？\""
+    a "“Com？”"
 
 # game/a1s4.rpy:141
 translate Tchinese a1s4_40f8d95d:
 
     # com "\"Yes, Amicus?\""
-    com "\"什麼事，Amicus？\""
+    com "“什麼事，Amicus？”"
 
 # game/a1s4.rpy:142
 translate Tchinese a1s4_ba902c21:
@@ -628,7 +628,7 @@ translate Tchinese a1s4_ba902c21:
 translate Tchinese a1s4_19984d03:
 
     # a "\"Who is at the door?\""
-    a "\"門外是誰？\""
+    a "“門外是誰？”"
 
 # game/a1s4.rpy:144
 translate Tchinese a1s4_c95106e1:
@@ -646,7 +646,7 @@ translate Tchinese a1s4_4f74acc8:
 translate Tchinese a1s4_af4dba03:
 
     # com "\"The Pharaoh's second son, Neferu, and the Khemian ambassador to Adastra, Brunis.\""
-    com "\"是法老的次子Neferu，以及克希米亞駐阿達斯特拉大使Brunis。\""
+    com "“是法老的次子Neferu，以及克希米亞駐阿達斯特拉大使Brunis。”"
 
 # game/a1s4.rpy:148
 translate Tchinese a1s4_8c27c761:
@@ -688,7 +688,7 @@ translate Tchinese a1s4_a30d9195:
 translate Tchinese a1s4_9dcfb04f:
 
     # a "\"What happened?\""
-    a "\"出了什麼事？\""
+    a "“出了什麼事？”"
 
 # game/a1s4.rpy:160
 translate Tchinese a1s4_6a10e988:
@@ -712,7 +712,7 @@ translate Tchinese a1s4_c8786686:
 translate Tchinese a1s4_a68626df:
 
     # br "\"Well, we were just out gettin' breakfast when we were, uh, harrassed, I guess.\""
-    br "\"我們不是剛出去吃早餐嘛，然後就被，呃，騷擾了。\""
+    br "“我們不是剛出去吃早餐嘛，然後就被，呃，騷擾了。”"
 
 # game/a1s4.rpy:165
 translate Tchinese a1s4_85c7c6d5:
@@ -724,13 +724,13 @@ translate Tchinese a1s4_85c7c6d5:
 translate Tchinese a1s4_deca3cc8:
 
     # a "\"And?\""
-    a "\"然後？\""
+    a "“然後？”"
 
 # game/a1s4.rpy:168
 translate Tchinese a1s4_5457e9ba:
 
     # br "\"Well, they started peltin' Neferu here with... I dunno, fruit, or vegetables or somethin'--\""
-    br "\"他們開始用……水果或蔬菜之類的東西扔Neferu……\""
+    br "“他們開始用……水果或蔬菜之類的東西扔Neferu……”"
 
 # game/a1s4.rpy:169
 translate Tchinese a1s4_7b404d0b:
@@ -742,13 +742,13 @@ translate Tchinese a1s4_7b404d0b:
 translate Tchinese a1s4_8c825070:
 
     # a "\"What about the curfew?\""
-    a "\"不是有宵禁嗎？\""
+    a "“不是有宵禁嗎？”"
 
 # game/a1s4.rpy:171
 translate Tchinese a1s4_9d15e48f:
 
     # br "\"It came from the windows. We went back to our flat, but then some of them did start start comin' out and formed a crowd at our door, demandin' we hand over Neferu.\""
-    br "\"他們隔著窗戶扔的。我們好不容易回到公寓，結果被一群人堵了門，要求我們交出Neferu。\""
+    br "“他們隔著窗戶扔的。我們好不容易回到公寓，結果被一群人堵了門，要求我們交出Neferu。”"
 
 # game/a1s4.rpy:172
 translate Tchinese a1s4_2b7fb36d:
@@ -760,13 +760,13 @@ translate Tchinese a1s4_2b7fb36d:
 translate Tchinese a1s4_926946f2:
 
     # br "\"Drones came in and stunned most of them, then we were told it'd be best for Neferu not to stay in the city.\""
-    br "\"無人機趕來救了場，並告知Neferu最好不要留在城裡。\""
+    br "“無人機趕來救了場，並告知Neferu最好不要留在城裡。”"
 
 # game/a1s4.rpy:175
 translate Tchinese a1s4_58892681:
 
     # a "\"Dammit!\""
-    a "\"媽的！\""
+    a "“媽的！”"
 
 # game/a1s4.rpy:176
 translate Tchinese a1s4_dc4a1fd5:
@@ -778,13 +778,13 @@ translate Tchinese a1s4_dc4a1fd5:
 translate Tchinese a1s4_403e62e7:
 
     # n "\"Do not worry yourself. They seemed satisfied enough when I was escorted from the city. There were no further issues, from what I was able to tell.\""
-    n "\"別擔心，他們似乎很滿意我被護送出城這一結果。除此之外，一切都好。\""
+    n "“別擔心，他們似乎很滿意我被護送出城這一結果。除此之外，一切都好。”"
 
 # game/a1s4.rpy:180
 translate Tchinese a1s4_0161b7a8:
 
     # br "\"Yeah, it was real isolated. Wasn't enough to get a big crowd goin'.\""
-    br "\"是的，這只是個別現象，不必大張旗鼓。\""
+    br "“是的，這只是個別現象，不必大張旗鼓。”"
 
 # game/a1s4.rpy:181
 translate Tchinese a1s4_413a402b:
@@ -802,25 +802,25 @@ translate Tchinese a1s4_31ea6f84:
 translate Tchinese a1s4_77ecf314:
 
     # a "\"Are you injured?\""
-    a "\"你沒受傷吧？\""
+    a "“你沒受傷吧？”"
 
 # game/a1s4.rpy:185
 translate Tchinese a1s4_29e35395:
 
     # n "\"No.\""
-    n "\"沒有。\""
+    n "“沒有。”"
 
 # game/a1s4.rpy:186
 translate Tchinese a1s4_af057a9e:
 
     # br "\"I mean, they nailed you pretty good on the head a few times. Even if it was just rotten fruit--\""
-    br "\"但他們好幾次正中了你的頭啊，即便只是腐爛的水果──\""
+    br "“但他們好幾次正中了你的頭啊，即便只是腐爛的水果──”"
 
 # game/a1s4.rpy:188
 translate Tchinese a1s4_52c1b5bc:
 
     # n "\"I am fine.\""
-    n "\"我很好。\""
+    n "“我很好。”"
 
 # game/a1s4.rpy:189
 translate Tchinese a1s4_6cbcce74:
@@ -838,25 +838,25 @@ translate Tchinese a1s4_2ce4d589:
 translate Tchinese a1s4_e005e441:
 
     # a "\"Alright, well, you are welcome to stay here. There's a spare room toward the back of the villa. What about you, Brunis?\""
-    a "\"好吧，莊園裡剛好有間空房，歡迎你留下。你要怎麼辦，Brunis？\""
+    a "“好吧，莊園裡剛好有間空房，歡迎你留下。你要怎麼辦，Brunis？”"
 
 # game/a1s4.rpy:193
 translate Tchinese a1s4_55537c0a:
 
     # br "\"Eh, I'll probably be sharin' that room with Nef, but I'll go back first and get our stuff.\""
-    br "\"唔，我跟Nef睡一間好了。不過在此之前，我得先回去拿行李。\""
+    br "“唔，我跟Nef睡一間好了。不過在此之前，我得先回去拿行李。”"
 
 # game/a1s4.rpy:194
 translate Tchinese a1s4_58dd8014:
 
     # a "\"Is that safe?\""
-    a "\"安全嗎？\""
+    a "“安全嗎？”"
 
 # game/a1s4.rpy:196
 translate Tchinese a1s4_fa5a5d7a:
 
     # br "\"Bjarni is getting it, but I'll meet him halfway since he wants to know a bit more about what happened.\""
-    br "\"Bjarni已經趕過去了。我們約好路上碰頭，因為他想知道更多細節。\""
+    br "“Bjarni已經趕過去了。我們約好路上碰頭，因為他想知道更多細節。”"
 
 # game/a1s4.rpy:197
 translate Tchinese a1s4_11ed7b42:
@@ -868,13 +868,13 @@ translate Tchinese a1s4_11ed7b42:
 translate Tchinese a1s4_a948c8a4:
 
     # a "\"Well, alright. Let me know if any other issues arise and I shall deal with them.\""
-    a "\"那好吧。如果出現其他問題，請告訴我，由我來處理。\""
+    a "“那好吧。如果出現其他問題，請告訴我，由我來處理。”"
 
 # game/a1s4.rpy:200
 translate Tchinese a1s4_8bbbdcb6:
 
     # br "\"Of course, Your Majesty.\""
-    br "\"遵命，陛下。\""
+    br "“遵命，陛下。”"
 
 # game/a1s4.rpy:202
 translate Tchinese a1s4_e368298b:
@@ -886,7 +886,7 @@ translate Tchinese a1s4_e368298b:
 translate Tchinese a1s4_710de74c:
 
     # n "\"Yes, see ya.\""
-    n "\"嗯，一會見。\""
+    n "“嗯，一會見。”"
 
 # game/a1s4.rpy:205
 translate Tchinese a1s4_c2a85115:
@@ -916,19 +916,19 @@ translate Tchinese a1s4_cef83682:
 translate Tchinese a1s4_a57243c8:
 
     # a "\"So... do you wish to speak more on the matter?\""
-    a "\"所以……你想就此事多聊幾句嗎？\""
+    a "“所以……你想就此事多聊幾句嗎？”"
 
 # game/a1s4.rpy:214
 translate Tchinese a1s4_29e35395_1:
 
     # n "\"No.\""
-    n "\"不想。\""
+    n "“不想。”"
 
 # game/a1s4.rpy:215
 translate Tchinese a1s4_24938eee:
 
     # a "\"Well, the room is right over there.\""
-    a "\"嗯，房間在那邊。\""
+    a "“嗯，房間在那邊。”"
 
 # game/a1s4.rpy:216
 translate Tchinese a1s4_9a04929e:
@@ -940,19 +940,19 @@ translate Tchinese a1s4_9a04929e:
 translate Tchinese a1s4_771daefe:
 
     # n "\"Thank you. Apologies again for bringing complications to--\""
-    n "\"感謝。造成的不便，我深感歉──\""
+    n "“感謝。造成的不便，我深感歉──”"
 
 # game/a1s4.rpy:218
 translate Tchinese a1s4_489bb71d:
 
     # a "\"Nevermind that. Go get settled.\""
-    a "\"別客氣了，好好休息。\""
+    a "“別客氣了，好好休息。”"
 
 # game/a1s4.rpy:220
 translate Tchinese a1s4_92fc65d4:
 
     # n "\"Why of course, Your Majesty.\""
-    n "\"承您吉言，陛下。\""
+    n "“承您吉言，陛下。”"
 
 # game/a1s4.rpy:221
 translate Tchinese a1s4_6220421e:
@@ -976,25 +976,25 @@ translate Tchinese a1s4_3a629c4a:
 translate Tchinese a1s4_3056f4f8:
 
     # a "\"Well, you'll have the place to yourself for the morning. [mc] and I are going out.\""
-    a "\"你可以獨自享受這個上午，我和[mc]要出去。\""
+    a "“你可以獨自享受這個上午，我和[mc]要出去。”"
 
 # game/a1s4.rpy:226
 translate Tchinese a1s4_8a5bb0f0:
 
     # n "\"Not into the city, I assume?\""
-    n "\"我猜不是去城裡吧？\""
+    n "“我猜不是去城裡吧？”"
 
 # game/a1s4.rpy:227
 translate Tchinese a1s4_42fce9cc:
 
     # a "\"Of course not, especially after what happened. It's a private outing.\""
-    a "\"當然不是，更別提還出了那種狀況。這是一次私人出遊。\""
+    a "“當然不是，更別提還出了那種狀況。這是一次私人出遊。”"
 
 # game/a1s4.rpy:229
 translate Tchinese a1s4_a1766535:
 
     # n "\"Enjoy yourselves, then.\""
-    n "\"那麼，祝二位玩得開心。\""
+    n "“那麼，祝二位玩得開心。”"
 
 # game/a1s4.rpy:230
 translate Tchinese a1s4_a47adee2:
@@ -1072,13 +1072,13 @@ translate Tchinese a1s4_e0cbd87f:
 translate Tchinese a1s4_d708a336:
 
     # a "\"How do you humans get around? Is Earth a perfect sphere with no geological features?\""
-    a "\"你們人類到底是怎麼旅行的？難道地球是一個沒有地質特徵的完美球體嗎？\""
+    a "“你們人類到底是怎麼旅行的？難道地球是一個沒有地質特徵的完美球體嗎？”"
 
 # game/a1s4.rpy:248
 translate Tchinese a1s4_63033175:
 
     # m "\"Well...\""
-    m "\"唔……\""
+    m "“唔……”"
 
 # game/a1s4.rpy:249
 translate Tchinese a1s4_16174334:
@@ -1090,19 +1090,19 @@ translate Tchinese a1s4_16174334:
 translate Tchinese a1s4_d6c26a9e:
 
     # m "\"If I were dressed the right way with the right kind of shoes, this would be less of a problem.\""
-    m "\"主要是因為我沒有合適的衣服跟鞋子。\""
+    m "“主要是因為我沒有合適的衣服跟鞋子。”"
 
 # game/a1s4.rpy:252
 translate Tchinese a1s4_84f8c34b:
 
     # a "\"Well, I hope you bring all of those things with you when you return.\""
-    a "\"這樣啊，那希望你回來的時候把東西都帶齊了。\""
+    a "“這樣啊，那希望你回來的時候把東西都帶齊了。”"
 
 # game/a1s4.rpy:253
 translate Tchinese a1s4_f84b1f76:
 
     # m "\"I'll make a mental note to do that.\""
-    m "\"我會記在心裡的。\""
+    m "“我會記在心裡的。”"
 
 # game/a1s4.rpy:254
 translate Tchinese a1s4_a8d606f5:
@@ -1126,19 +1126,19 @@ translate Tchinese a1s4_5d4a7b03:
 translate Tchinese a1s4_169d7262:
 
     # a "\"Shouldn't be long now. The hot springs are the main draw for tourism in this region. Most artificial baths are modeled after the composition of Luxian springs.\""
-    a "\"應該快到了。溫泉是當地旅遊業的一大支柱，不少人工浴場都參考了盧克斯的泉水成分。\""
+    a "“應該快到了。溫泉是當地旅遊業的一大支柱，不少人工浴場都參考了盧克斯的泉水成分。”"
 
 # game/a1s4.rpy:260
 translate Tchinese a1s4_85cea661:
 
     # a "\"It's healing for the body, and the mind.\""
-    a "\"滋養身體的同時還能治癒你的心。\""
+    a "“滋養身體的同時還能治癒你的心。”"
 
 # game/a1s4.rpy:261
 translate Tchinese a1s4_d0b62d81:
 
     # m "\"Mmh, well, I can't wait.\""
-    m "\"真是讓人迫不及待呢。\""
+    m "“真是讓人迫不及待呢。”"
 
 # game/a1s4.rpy:262
 translate Tchinese a1s4_4ec7a8dc:
@@ -1162,7 +1162,7 @@ translate Tchinese a1s4_52e696be:
 translate Tchinese a1s4_13938c21:
 
     # a "\"Oh look, they even prepared our towels.\""
-    a "\"看啊，他們連毛巾都準備好了。\""
+    a "“看啊，他們連毛巾都準備好了。”"
 
 # game/a1s4.rpy:269
 translate Tchinese a1s4_a5e11d1d:
@@ -1234,7 +1234,7 @@ translate Tchinese a1s4_73f94c4a:
 translate Tchinese a1s4_935a469c:
 
     # a "\"Ahhhhhhh... {i}Edapol{/i}, that's hot!\""
-    a "\"哈────────── {b}Edapol{/b}，好燙！\""
+    a "“哈────────── {b}Edapol{/b}，好燙！”"
 
 # game/a1s4.rpy:285
 translate Tchinese a1s4_a48f484e:
@@ -1258,7 +1258,7 @@ translate Tchinese a1s4_dcf54794:
 translate Tchinese a1s4_78afd67e:
 
     # a "\"So, are you coming in to join me, [mc]?\""
-    a "\"你不來陪我嗎，[mc]？\""
+    a "“你不來陪我嗎，[mc]？”"
 
 # game/a1s4.rpy:291
 translate Tchinese a1s4_c46aa194:
@@ -1270,13 +1270,13 @@ translate Tchinese a1s4_c46aa194:
 translate Tchinese a1s4_a081ded5:
 
     # a "\"I recommend the, what do you call it? Cannonball technique? It's a bit hotter than the palace bath.\""
-    a "\"我推薦你用──你說那叫什麼來著？炮彈式？這裡的水比浴場要燙一點。\""
+    a "“我推薦你用──你說那叫什麼來著？炮彈式？這裡的水比浴場要燙一點。”"
 
 # game/a1s4.rpy:293
 translate Tchinese a1s4_1f228d29:
 
     # m "\"Okay.\""
-    m "\"好吧。\""
+    m "“好吧。”"
 
 # game/a1s4.rpy:294
 translate Tchinese a1s4_19ec418e:
@@ -1324,25 +1324,25 @@ translate Tchinese a1s4_57e1f668:
 translate Tchinese a1s4_1b6b0b75:
 
     # a "\"Quite pleasant, isn't it?\""
-    a "\"是不是很舒服啊？\""
+    a "“是不是很舒服啊？”"
 
 # game/a1s4.rpy:305
 translate Tchinese a1s4_b98f272a:
 
     # m "\"Yeah, it's kind of amazing, actually.\""
-    m "\"嗯，棒極了。\""
+    m "“嗯，棒極了。”"
 
 # game/a1s4.rpy:306
 translate Tchinese a1s4_f5e244d3:
 
     # a "\"Nothing beats the real thing.\""
-    a "\"仿製品再好，也抵不過真貨。\""
+    a "“仿製品再好，也抵不過真貨。”"
 
 # game/a1s4.rpy:308
 translate Tchinese a1s4_1e923ed0:
 
     # a "\"Gods, I needed this.\""
-    a "\"呼，我要泡個痛快。\""
+    a "“呼，我要泡個痛快。”"
 
 # game/a1s4.rpy:309
 translate Tchinese a1s4_8a056ccc:
@@ -1372,13 +1372,13 @@ translate Tchinese a1s4_6482dfe5:
 translate Tchinese a1s4_0cb23c7d:
 
     # a "\"You alright, love?\""
-    a "\"你還好吧，親愛的？\""
+    a "“你還好吧，親愛的？”"
 
 # game/a1s4.rpy:315
 translate Tchinese a1s4_a03117fd:
 
     # m "\"Yeah, yeah, I'm good. This is great.\""
-    m "\"啊，嗯，沒事，這溫泉真不錯。\""
+    m "“啊，嗯，沒事，這溫泉真不錯。”"
 
 # game/a1s4.rpy:316
 translate Tchinese a1s4_de354d0e:
@@ -1390,19 +1390,19 @@ translate Tchinese a1s4_de354d0e:
 translate Tchinese a1s4_4df82805:
 
     # a "\"I suppose I should just admit that I came here for my own selfish reasons. I didn't even ask you if you wanted to come.\""
-    a "\"我得承認，我是出於私心才選了這地方，我甚至沒有問過你的意見。\""
+    a "“我得承認，我是出於私心才選了這地方，我甚至沒有問過你的意見。”"
 
 # game/a1s4.rpy:318
 translate Tchinese a1s4_7cc4018a:
 
     # m "\"No, no, I'm happy to be here, Amicus, especially with you.\""
-    m "\"不，不，我很滿意，Amicus，尤其是和你一起。\""
+    m "“不，不，我很滿意，Amicus，尤其是和你一起。”"
 
 # game/a1s4.rpy:319
 translate Tchinese a1s4_44aea0e3:
 
     # a "\"I don't want to say that you're hiding something from me, but you looked a bit upset, just now. Is it Neferu?\""
-    a "\"不是說你有事瞞著我，但你剛才好像不太高興，是因為Neferu嗎？\""
+    a "“不是說你有事瞞著我，但你剛才好像不太高興，是因為Neferu嗎？”"
 
 # game/a1s4.rpy:320
 translate Tchinese a1s4_660f078d:
@@ -1414,13 +1414,13 @@ translate Tchinese a1s4_660f078d:
 translate Tchinese a1s4_3cc3ae76:
 
     # m "\"Oh, no. I mean, I thought about asking to invite him, but didn't think either of you would care for it.\""
-    m "\"沒有啦，其實我是想邀請他的，但大概你們倆都不會喜歡。\""
+    m "“沒有啦，其實我是想邀請他的，但大概你們倆都不會喜歡。”"
 
 # game/a1s4.rpy:322
 translate Tchinese a1s4_b6b84c66_1:
 
     # a "\"Alright.\""
-    a "\"好吧。\""
+    a "“好吧。”"
 
 # game/a1s4.rpy:323
 translate Tchinese a1s4_b87be54d:
@@ -1432,25 +1432,25 @@ translate Tchinese a1s4_b87be54d:
 translate Tchinese a1s4_766928e4:
 
     # m "\"Okay, so seeing you so relaxed and happy made me happy, but also kind of sad because you don't look that way very often anymore.\""
-    m "\"唉，看到你這麼開心和放鬆，我既高興又難過，因為這注定不能長久。\""
+    m "“唉，看到你這麼開心和放鬆，我既高興又難過，因為這注定不能長久。”"
 
 # game/a1s4.rpy:326
 translate Tchinese a1s4_61559c50:
 
     # a "\"Ah, is that all? Don't worry about me, [mc], it's all part of the job. All things must come to an end, and that includes puphood. I'm happy to indulge in it once in a while, though.\""
-    a "\"欸，就這樣嗎？別擔心，[mc]，板著臉也是工作的一部分。再說包括童年在內，沒有什麼是永遠不會結束的，偶爾重溫下我就挺開心啦。\""
+    a "“欸，就這樣嗎？別擔心，[mc]，板著臉也是工作的一部分。再說包括童年在內，沒有什麼是永遠不會結束的，偶爾重溫下我就挺開心啦。”"
 
 # game/a1s4.rpy:327
 translate Tchinese a1s4_fb387f09:
 
     # m "\"Are there any natural springs near Adastra City?\""
-    m "\"阿達斯特拉城附近有天然溫泉嗎？\""
+    m "“阿達斯特拉城附近有天然溫泉嗎？”"
 
 # game/a1s4.rpy:329
 translate Tchinese a1s4_3cd8bf4f:
 
     # a "\"No, at least none worth your time, anyway.\""
-    a "\"起碼不值得特地去泡。\""
+    a "“起碼不值得特地去泡。”"
 
 # game/a1s4.rpy:330
 translate Tchinese a1s4_852fd21e:
@@ -1462,7 +1462,7 @@ translate Tchinese a1s4_852fd21e:
 translate Tchinese a1s4_59d64067:
 
     # a "\"I can already feel it nourishing my fur. I'm sure it's the same for you as well.\""
-    a "\"我已經感覺它在滋養我的毛髮了，你一定也感覺到了吧。\""
+    a "“我已經感覺它在滋養我的毛髮了，你一定也感覺到了吧。”"
 
 # game/a1s4.rpy:332
 translate Tchinese a1s4_1343d536:
@@ -1474,13 +1474,13 @@ translate Tchinese a1s4_1343d536:
 translate Tchinese a1s4_3ff99f4c:
 
     # m "\"Huh.\""
-    m "\"嗯。\""
+    m "“嗯。”"
 
 # game/a1s4.rpy:334
 translate Tchinese a1s4_1b04c14e:
 
     # a "\"Like I said, it has healing properties, and well, some say it has an effect on libido as well.\""
-    a "\"相傳除了治療，它還有助於重振雄風喔。\""
+    a "“相傳除了治療，它還有助於重振雄風喔。”"
 
 # game/a1s4.rpy:335
 translate Tchinese a1s4_777dbd10:
@@ -1492,13 +1492,13 @@ translate Tchinese a1s4_777dbd10:
 translate Tchinese a1s4_cc6aaa26:
 
     # m "\"Uh-huh.\""
-    m "\"嗯哼。\""
+    m "“嗯哼。”"
 
 # game/a1s4.rpy:338
 translate Tchinese a1s4_c2958d3d:
 
     # a "\"Indeed.\""
-    a "\"看來所言不虛呢。\""
+    a "“看來所言不虛呢。”"
 
 # game/a1s4.rpy:339
 translate Tchinese a1s4_134b5a66:
@@ -1522,7 +1522,7 @@ translate Tchinese a1s4_0b2068c6:
 translate Tchinese a1s4_a8f5c1a2:
 
     # a "\"Do you know what would really relax me?\""
-    a "\"你知道什麼東西能讓我真正放鬆嗎？\""
+    a "“你知道什麼東西能讓我真正放鬆嗎？”"
 
 # game/a1s4.rpy:343
 translate Tchinese a1s4_ef05e029:
@@ -1534,19 +1534,19 @@ translate Tchinese a1s4_ef05e029:
 translate Tchinese a1s4_8fba6ecf:
 
     # m "\"Amicus, if you're gonna say sex, that's not a true statement at all.\""
-    m "\"如果你指的是性的話，那不是實際存在的物品，Amicus。\""
+    m "“如果你指的是性的話，那不是實際存在的物品，Amicus。”"
 
 # game/a1s4.rpy:345
 translate Tchinese a1s4_bf40bd51:
 
     # a "\"After the fact, I mean.\""
-    a "\"我是說，事後。\""
+    a "“我是說，事後。”"
 
 # game/a1s4.rpy:346
 translate Tchinese a1s4_7086f0bb:
 
     # m "\"Well, I know rubbing that body of yours tends to get you relaxed. Maybe I can start with that? I didn't get to really give it to you last night.\""
-    m "\"我知道按摩可以，要不，我幫你把昨晚的份補回來？\""
+    m "“我知道按摩可以，要不，我幫你把昨晚的份補回來？”"
 
 # game/a1s4.rpy:348
 translate Tchinese a1s4_ee3b7ed3:
@@ -1558,19 +1558,19 @@ translate Tchinese a1s4_ee3b7ed3:
 translate Tchinese a1s4_7d95554a:
 
     # a "\"Heh, well, I don't want this to be one-sided.\""
-    a "\"真的嗎，希望我不是在自作多情。\""
+    a "“真的嗎，希望我不是在自作多情。”"
 
 # game/a1s4.rpy:350
 translate Tchinese a1s4_a1fe1e38:
 
     # m "\"It's not. I love rubbing down your body.\""
-    m "\"怎麼會呢，我就喜歡摸你。\""
+    m "“怎麼會呢，我就喜歡摸你。”"
 
 # game/a1s4.rpy:351
 translate Tchinese a1s4_4a0c7deb:
 
     # a "\"And why's that?\""
-    a "\"這又是為什麼呢？\""
+    a "“這又是為什麼呢？”"
 
 # game/a1s4.rpy:352
 translate Tchinese a1s4_ae09b00f:
@@ -1582,13 +1582,13 @@ translate Tchinese a1s4_ae09b00f:
 translate Tchinese a1s4_c7c1ffa1:
 
     # m "\"Because, I like to feel your big, strong body and imagine what you're about to do to me with it.\""
-    m "\"因為我喜歡感受你高大威猛的身體，想像如何被它一步步征服。\""
+    m "“因為我喜歡感受你高大威猛的身體，想像如何被它一步步征服。”"
 
 # game/a1s4.rpy:355
 translate Tchinese a1s4_bc4cb0e1:
 
     # a "\"Well, why don't you come over here and show me how you like to feel me?\""
-    a "\"既然如此，別在那裡乾看著呀？\""
+    a "“既然如此，別在那裡乾看著呀？”"
 
 # game/a1s4.rpy:356
 translate Tchinese a1s4_87849e86:
@@ -1606,19 +1606,19 @@ translate Tchinese a1s4_d7e3f50b:
 translate Tchinese a1s4_9318e2c1:
 
     # m "\"I wonder how long you'll be able to restrain yourself this time?\""
-    m "\"不知道這次你能忍多久呢？\""
+    m "“不知道這次你能忍多久呢？”"
 
 # game/a1s4.rpy:359
 translate Tchinese a1s4_f88d3474:
 
     # a "\"Let's find ou--\""
-    a "\"咱們拭目──\""
+    a "“咱們拭目──”"
 
 # game/a1s4.rpy:360
 translate Tchinese a1s4_330e9736:
 
     # ma "\"Good morning!\""
-    ma "\"早安啊！\""
+    ma "“早安啊！”"
 
 # game/a1s4.rpy:365
 translate Tchinese a1s4_a629e503:
@@ -1654,7 +1654,7 @@ translate Tchinese a1s4_87cae87b:
 translate Tchinese a1s4_44bf649e:
 
     # ma "\"Good morning to you as well, [mc]. Sorry if I startled you. I was just soaking in a spring further up the trail.\""
-    ma "\"您也早安，[mc]。抱歉驚擾到二位了，我在這邊泡就行。\""
+    ma "“您也早安，[mc]。抱歉驚擾到二位了，我在這邊泡就行。”"
 
 # game/a1s4.rpy:373
 translate Tchinese a1s4_c82b1a80:
@@ -1672,13 +1672,13 @@ translate Tchinese a1s4_d3ec9e61:
 translate Tchinese a1s4_a643917f:
 
     # m "\"Oh, no, just a little surprised is all.\""
-    m "\"不不，我們只是有點驚訝。\""
+    m "“不不，我們只是有點驚訝。”"
 
 # game/a1s4.rpy:377
 translate Tchinese a1s4_259e997a:
 
     # a "\"Yes, we were told the springs would be private for the day.\""
-    a "\"的確，我們被告知今天的溫泉不對外開放。\""
+    a "“的確，我們被告知今天的溫泉不對外開放。”"
 
 # game/a1s4.rpy:378
 translate Tchinese a1s4_00649cd8:
@@ -1702,7 +1702,7 @@ translate Tchinese a1s4_5b1d7a65:
 translate Tchinese a1s4_c9a2e4c0:
 
     # ma "\"Of course. I'll be taking my leave soon enough. I just wanted to make sure that the accommodations are to your liking.\""
-    ma "\"沒有錯，我只是來確認這裡的招待是否符合您的喜好，不會久留的。\""
+    ma "“沒有錯，我只是來確認這裡的招待是否符合您的喜好，不會久留的。”"
 
 # game/a1s4.rpy:383
 translate Tchinese a1s4_4b7f20ca:
@@ -1714,7 +1714,7 @@ translate Tchinese a1s4_4b7f20ca:
 translate Tchinese a1s4_60296dfa:
 
     # ma "\"That and I thought I might take the opportunity to get to know the head of the delegation and his companion a bit better.\""
-    ma "\"而且，我想我可以藉此機會 ，更好地了解一下代表團領袖和他的伴侶。\""
+    ma "“而且，我想我可以藉此機會 ，更好地了解一下代表團領袖和他的伴侶。”"
 
 # game/a1s4.rpy:385
 translate Tchinese a1s4_22454560:
@@ -1732,37 +1732,37 @@ translate Tchinese a1s4_d8d6b762:
 translate Tchinese a1s4_9f370388:
 
     # m "\"Yeah, it's great. Thank you, Magis.\""
-    m "\"啊，招待很周到，謝謝你的關心，Magis。\""
+    m "“啊，招待很周到，謝謝你的關心，Magis。”"
 
 # game/a1s4.rpy:388
 translate Tchinese a1s4_05996295:
 
     # ma "\"Of course, [mc]. I was not aware of your favorite drink, so I settled on {i}virdi{/i} since I understand not everyone enjoys their alcohol.\""
-    ma "\"您客氣了，[mc]。我知道不是所有人都喜歡喝酒，於是帶了{b}virdi{/b}來，如果合您口味的話就再好不過了。\""
+    ma "“您客氣了，[mc]。我知道不是所有人都喜歡喝酒，於是帶了{b}virdi{/b}來，如果合您口味的話就再好不過了。”"
 
 # game/a1s4.rpy:389
 translate Tchinese a1s4_923b1442:
 
     # m "\"That's perfect, actually, thanks again.\""
-    m "\"太棒了，請容我再次表達感謝。\""
+    m "“太棒了，請容我再次表達感謝。”"
 
 # game/a1s4.rpy:391
 translate Tchinese a1s4_2dd2c0ba:
 
     # a "\"Yes, the drinks are fantastic. It was good to speak to you today, Magis, but my companion and I were discussing some private matters--\""
-    a "\"是的，飲料很棒，很高興跟你談話，Magis，但我和我的伴侶正在討論一些私事……\""
+    a "“是的，飲料很棒，很高興跟你談話，Magis，但我和我的伴侶正在討論一些私事……”"
 
 # game/a1s4.rpy:393
 translate Tchinese a1s4_f61b0d7e:
 
     # ma "\"Oh, of course, I'll be on my way, but I did want to ask--\""
-    ma "\"噢，沒問題，我這就告辭。不過在此之前──\""
+    ma "“噢，沒問題，我這就告辭。不過在此之前──”"
 
 # game/a1s4.rpy:395
 translate Tchinese a1s4_fa934db8:
 
     # ma "\"Are you quite alright after our bout yesterday? I know you assured us of your wellness, but after reflecting on it overnight, I wanted to make sure.\""
-    ma "\"昨天比賽過後，您的身體還好嗎？我知道您向我們保證過，但經過一夜的思考，我想親自確認一下。\""
+    ma "“昨天比賽過後，您的身體還好嗎？我知道您向我們保證過，但經過一夜的思考，我想親自確認一下。”"
 
 # game/a1s4.rpy:396
 translate Tchinese a1s4_fe99d9ad:
@@ -1774,13 +1774,13 @@ translate Tchinese a1s4_fe99d9ad:
 translate Tchinese a1s4_711c02c6:
 
     # a "\"As I said yesterday, I am perfectly fine. Thank you.\""
-    a "\"正如我昨天說的，我很好，謝謝。\""
+    a "“正如我昨天說的，我很好，謝謝。”"
 
 # game/a1s4.rpy:398
 translate Tchinese a1s4_e918097f:
 
     # ma "\"Yes, I only ask again due to the fact that I understand the issue of optics when it comes to being a high-ranked official, especially while you are in Lux.\""
-    ma "\"嗯，我之所以這麼問，是因為我理解身居高位的煩惱，尤其是在盧克斯這樣的環境下。\""
+    ma "“嗯，我之所以這麼問，是因為我理解身居高位的煩惱，尤其是在盧克斯這樣的環境下。”"
 
 # game/a1s4.rpy:399
 translate Tchinese a1s4_29ca1f76:
@@ -1792,7 +1792,7 @@ translate Tchinese a1s4_29ca1f76:
 translate Tchinese a1s4_3bf259d9:
 
     # a "\"You forget yourself, Magis. The position of triumvirate is quite different from that of emperor. I say what I mean.\""
-    a "\"少得意忘形了，Magis，皇帝是你們三人執政團也難望其背的存在。我說沒事就是沒事。\""
+    a "“少得意忘形了，Magis，皇帝是你們三人執政團也難望其背的存在。我說沒事就是沒事。”"
 
 # game/a1s4.rpy:402
 translate Tchinese a1s4_2be7d386:
@@ -1816,7 +1816,7 @@ translate Tchinese a1s4_a3b8b9d5:
 translate Tchinese a1s4_f3da6510:
 
     # m "\"Amicus, YOU are forgetting yourself.\""
-    m "\"得意忘形的是{b}你{/b}吧，Amicus。\""
+    m "“得意忘形的是{b}你{/b}吧，Amicus。”"
 
 # game/a1s4.rpy:407
 translate Tchinese a1s4_448d9787:
@@ -1828,7 +1828,7 @@ translate Tchinese a1s4_448d9787:
 translate Tchinese a1s4_a3fdf57b:
 
     # m "\"Please excuse our emperor. We were up very late last night.\""
-    m "\"請見諒，我們昨天睡得很晚。\""
+    m "“請見諒，我們昨天睡得很晚。”"
 
 # game/a1s4.rpy:409
 translate Tchinese a1s4_315bd77a:
@@ -1876,7 +1876,7 @@ translate Tchinese a1s4_083c9b47:
 translate Tchinese a1s4_b83042af:
 
     # ma "\"Ah, I see. I do apologize for imposing myself upon you. I shouldn't have taken advantage of the situation in such a way.\""
-    ma "\"啊，原來如此。很抱歉，我不該利用二位出遊這個機會。\""
+    ma "“啊，原來如此。很抱歉，我不該利用二位出遊這個機會。”"
 
 # game/a1s4.rpy:418
 translate Tchinese a1s4_0ea59204:
@@ -1900,7 +1900,7 @@ translate Tchinese a1s4_5c2fa396:
 translate Tchinese a1s4_93b47522:
 
     # m "\"You didn't take advantage of the situation. It's just an inconvenient time, unfortunately.\""
-    m "\"你言過了，只是時間不湊巧而已。\""
+    m "“你言過了，只是時間不湊巧而已。”"
 
 # game/a1s4.rpy:423
 translate Tchinese a1s4_f2591a36:
@@ -1912,7 +1912,7 @@ translate Tchinese a1s4_f2591a36:
 translate Tchinese a1s4_73734357:
 
     # m "\"Why don't we meet later for lunch, or dinner?\""
-    m "\"我們何不午餐或晚餐的時候再見呢？\""
+    m "“我們何不午餐或晚餐的時候再見呢？”"
 
 # game/a1s4.rpy:425
 translate Tchinese a1s4_5e7e930c:
@@ -1924,7 +1924,7 @@ translate Tchinese a1s4_5e7e930c:
 translate Tchinese a1s4_6bcb4123:
 
     # m "\"How about dinner?\""
-    m "\"晚餐如何？\""
+    m "“晚餐如何？”"
 
 # game/a1s4.rpy:427
 translate Tchinese a1s4_18a49326:
@@ -1936,7 +1936,7 @@ translate Tchinese a1s4_18a49326:
 translate Tchinese a1s4_5d0df857:
 
     # ma "\"I would be honored.\""
-    ma "\"我很榮幸。\""
+    ma "“我很榮幸。”"
 
 # game/a1s4.rpy:431
 translate Tchinese a1s4_60d17a8b:
@@ -1978,7 +1978,7 @@ translate Tchinese a1s4_8e215bf5:
 translate Tchinese a1s4_83cab8e6:
 
     # ma "\"I'll meet you at your villa, if that's alright? Thirteenth hour?\""
-    ma "\"我會在第十三時造訪二位的莊園，這樣可以嗎？\""
+    ma "“我會在第十三時造訪二位的莊園，這樣可以嗎？”"
 
 # game/a1s4.rpy:438
 translate Tchinese a1s4_b309a69c:
@@ -1990,13 +1990,13 @@ translate Tchinese a1s4_b309a69c:
 translate Tchinese a1s4_64ecd67e:
 
     # m "\"That sounds good.\""
-    m "\"聽起來不錯。\""
+    m "“聽起來不錯。”"
 
 # game/a1s4.rpy:440
 translate Tchinese a1s4_3936663a:
 
     # ma "\"Alright, I will see you then. Have a nice soak, Your Highness.\""
-    ma "\"好的，那我們到時候見。祝您過得愉快，陛下。\""
+    ma "“好的，那我們到時候見。祝您過得愉快，陛下。”"
 
 # game/a1s4.rpy:442
 translate Tchinese a1s4_6cf676d7:
@@ -2014,13 +2014,13 @@ translate Tchinese a1s4_9b06f15e:
 translate Tchinese a1s4_b53e9a76:
 
     # m "\"Amicus, that was terrible.\""
-    m "\"你的態度太差了，Amicus。\""
+    m "“你的態度太差了，Amicus。”"
 
 # game/a1s4.rpy:445
 translate Tchinese a1s4_f27c8d9c:
 
     # a "\"I know.\""
-    a "\"我知道。\""
+    a "“我知道。”"
 
 # game/a1s4.rpy:446
 translate Tchinese a1s4_4823a06e:
@@ -2032,13 +2032,13 @@ translate Tchinese a1s4_4823a06e:
 translate Tchinese a1s4_0d1fec0b:
 
     # m "\"Well, at least you can try to salvage something over dinner.\""
-    m "\"唉，起碼你能在晚餐的時候挽回一下。\""
+    m "“唉，起碼你能在晚餐的時候挽回一下。”"
 
 # game/a1s4.rpy:448
 translate Tchinese a1s4_b244b381:
 
     # a "\"Yeah.\""
-    a "\"好。\""
+    a "“好。”"
 
 # game/a1s4.rpy:449
 translate Tchinese a1s4_b9238020:
@@ -2050,25 +2050,25 @@ translate Tchinese a1s4_b9238020:
 translate Tchinese a1s4_64525eee:
 
     # a "\"Thank you, [mc]. I was not handling that well.\""
-    a "\"謝謝你，[mc]，是我欠妥了。\""
+    a "“謝謝你，[mc]，是我欠妥了。”"
 
 # game/a1s4.rpy:451
 translate Tchinese a1s4_1b1f330f:
 
     # m "\"Happens to the best of us, but I think you should at least give the guy a chance.\""
-    m "\"人非聖賢，孰能無過，但你至少該給他個機會。\""
+    m "“人非聖賢，孰能無過，但你至少該給他個機會。”"
 
 # game/a1s4.rpy:452
 translate Tchinese a1s4_ec6af7aa:
 
     # a "\"Maybe. I just need more time after yesterday.\""
-    a "\"也許吧，只是我也有我的顧慮。\""
+    a "“也許吧，只是我也有我的顧慮。”"
 
 # game/a1s4.rpy:454
 translate Tchinese a1s4_83b24450:
 
     # m "\"Of course.\""
-    m "\"看得出來。\""
+    m "“看得出來。”"
 
 # game/a1s4.rpy:455
 translate Tchinese a1s4_6a72386e:
@@ -2104,49 +2104,49 @@ translate Tchinese a1s4_22200366:
 translate Tchinese a1s4_9125d018:
 
     # b "\"Your Highness, it seems that the situation in the city has become tense after the issue with the Khemians.\""
-    b "\"陛下，在與克米揚發生衝突後，該地的局勢驟然緊張了起來。\""
+    b "“陛下，在與克米揚發生衝突後，該地的局勢驟然緊張了起來。”"
 
 # game/a1s4.rpy:466
 translate Tchinese a1s4_01175140:
 
     # a "\"Of course it has.\""
-    a "\"不出所料。\""
+    a "“不出所料。”"
 
 # game/a1s4.rpy:467
 translate Tchinese a1s4_ee5a14a5:
 
     # b "\"There are rumors that a concerted protest is being planned around the twelfth hour.\""
-    b "\"根據傳言，他們準備在第十二時前後發動一場聯合抗議。\""
+    b "“根據傳言，他們準備在第十二時前後發動一場聯合抗議。”"
 
 # game/a1s4.rpy:469
 translate Tchinese a1s4_f4b2cd93:
 
     # a "\"What is the actual issue? Do they simply want the Khemians gone, or--\""
-    a "\"他們的真實訴求是什麼？驅逐克米揚，還是──\""
+    a "“他們的真實訴求是什麼？驅逐克米揚，還是──”"
 
 # game/a1s4.rpy:470
 translate Tchinese a1s4_7b864508:
 
     # b "\"The issue has become broader since then. While the initial complaints centered around the Khemians supposedly turning their noses up at Luxian culture--\""
-    b "\"最初，人們的抱怨集中在據稱對盧克斯文化不屑一顧的克米揚身上，但經過發酵──\""
+    b "“最初，人們的抱怨集中在據稱對盧克斯文化不屑一顧的克米揚身上，但經過發酵──”"
 
 # game/a1s4.rpy:471
 translate Tchinese a1s4_d098c481:
 
     # a "\"Of course.\""
-    a "\"我就知道。\""
+    a "“我就知道。”"
 
 # game/a1s4.rpy:472
 translate Tchinese a1s4_d7215efa:
 
     # b "\"Now it is more about why you, the emperor, would bring them along.\""
-    b "\"他們把矛頭轉向了將他們帶來的陛下您。\""
+    b "“他們把矛頭轉向了將他們帶來的陛下您。”"
 
 # game/a1s4.rpy:474
 translate Tchinese a1s4_d098c481_1:
 
     # a "\"Of course.\""
-    a "\"果不其然。\""
+    a "“果不其然。”"
 
 # game/a1s4.rpy:475
 translate Tchinese a1s4_6bfa7953:
@@ -2158,7 +2158,7 @@ translate Tchinese a1s4_6bfa7953:
 translate Tchinese a1s4_00ba2fd7:
 
     # m "\"Is there something we can do to appease them?\""
-    m "\"我們能做些什麼來安撫他們嗎？\""
+    m "“我們能做些什麼來安撫他們嗎？”"
 
 # game/a1s4.rpy:477
 translate Tchinese a1s4_3f54f71e:
@@ -2170,19 +2170,19 @@ translate Tchinese a1s4_3f54f71e:
 translate Tchinese a1s4_eac40832:
 
     # b "\"It's difficult to say. Once Luxians set their minds on something, especially something that makes them upset, it's hard to dissuade them.\""
-    b "\"很難，盧克斯人可謂是不撞南牆心不死的類型，尤其是在讓他們不爽的事情上。\""
+    b "“很難，盧克斯人可謂是不撞南牆心不死的類型，尤其是在讓他們不爽的事情上。”"
 
 # game/a1s4.rpy:480
 translate Tchinese a1s4_b756b31f:
 
     # m "\"What if Neferu, or Brunis apologize? Not that they should apologize for anything, but maybe that'll be enough to calm the people?\""
-    m "\"那讓Neferu或Brunis道歉呢？並不是說他們應該道歉，但也許能紓解局勢？\""
+    m "“那讓Neferu或Brunis道歉呢？並不是說他們應該道歉，但也許能紓解局勢？”"
 
 # game/a1s4.rpy:481
 translate Tchinese a1s4_b99f25af:
 
     # a "\"No, that will only make them more upset. Khemians come off as condescending whenever they're apologizing.\""
-    a "\"不，這只會進一步激怒人群，克米揚在道歉時總是喜歡擺出高人一等的架勢。\""
+    a "“不，這只會進一步激怒人群，克米揚在道歉時總是喜歡擺出高人一等的架勢。”"
 
 # game/a1s4.rpy:482
 translate Tchinese a1s4_94a0a7b9:
@@ -2194,7 +2194,7 @@ translate Tchinese a1s4_94a0a7b9:
 translate Tchinese a1s4_4e2430c2:
 
     # m "\"Are Neferu and Brunis here?\""
-    m "\"Neferu和Brunis在嗎？\""
+    m "“Neferu和Brunis在嗎？”"
 
 # game/a1s4.rpy:484
 translate Tchinese a1s4_45c19d19:
@@ -2206,7 +2206,7 @@ translate Tchinese a1s4_45c19d19:
 translate Tchinese a1s4_c213f9c4:
 
     # b "\"Er, yes, though Brunis wanted a private moment with Neferu.\""
-    b "\"呃，是的，不過Brunis想跟Neferu私下談談。\""
+    b "“呃，是的，不過Brunis想跟Neferu私下談談。”"
 
 # game/a1s4.rpy:487
 translate Tchinese a1s4_bbf41888:
@@ -2230,7 +2230,7 @@ translate Tchinese a1s4_77d0afdb:
 translate Tchinese a1s4_e4138c6a:
 
     # b "\"I regret to say it, but it might be best to simply leave within a few hours.\""
-    b "\"很遺憾，我們最好在幾個小時內撤離。\""
+    b "“很遺憾，我們最好在幾個小時內撤離。”"
 
 # game/a1s4.rpy:492
 translate Tchinese a1s4_671fe8bc:
@@ -2248,19 +2248,19 @@ translate Tchinese a1s4_8137e539:
 translate Tchinese a1s4_9df84f2c:
 
     # a "\"No, I cannot leave this city worse than it was when I arrived. That will mean absolute failure on Adastra's part. I must... make a speech, or something.\""
-    a "\"不，我不能就這樣離開，這意味著阿達斯特拉徹底的失敗。我必須……召開個演講之類的。\""
+    a "“不，我不能就這樣離開，這意味著阿達斯特拉徹底的失敗。我必須……召開個演講之類的。”"
 
 # game/a1s4.rpy:496
 translate Tchinese a1s4_bc102252:
 
     # b "\"I agree, but I'm not sure what else can be done. The longer we stay, the more time the city has to fester in its anger.\""
-    b "\"我同意，但這也是無奈之舉。我們待得越久，這座城市的怒火就燃得越旺。\""
+    b "“我同意，但這也是無奈之舉。我們待得越久，這座城市的怒火就燃得越旺。”"
 
 # game/a1s4.rpy:498
 translate Tchinese a1s4_77474ef4:
 
     # a "\"But I must.\""
-    a "\"我意已決。\""
+    a "“我意已決。”"
 
 # game/a1s4.rpy:499
 translate Tchinese a1s4_a33c98d2:
@@ -2278,7 +2278,7 @@ translate Tchinese a1s4_9d0e6b23:
 translate Tchinese a1s4_abbc37c4:
 
     # m "\"He's right, Amicus. If this city can get as bad as you say, it would be too dangerous for you to try and calm them.\""
-    m "\"他說的有道理，Amicus。如果這座城真像你描述的那麼糟糕，那安撫他們就太危險了。\""
+    m "“他說的有道理，Amicus。如果這座城真像你描述的那麼糟糕，那安撫他們就太危險了。”"
 
 # game/a1s4.rpy:502
 translate Tchinese a1s4_3f6b3fdf:
@@ -2296,13 +2296,13 @@ translate Tchinese a1s4_38815a1b:
 translate Tchinese a1s4_8c8c3a9a:
 
     # c "\"Amicus, what the hell!?\""
-    c "\"究竟是怎麼回事，Amicus！？\""
+    c "“究竟是怎麼回事，Amicus！？”"
 
 # game/a1s4.rpy:512
 translate Tchinese a1s4_e411e95e:
 
     # c "\"I'm absent for less than a single day and the city is ready for a riot!\""
-    c "\"我才出去不到一天，整座城市都要翻天了！\""
+    c "“我才出去不到一天，整座城市都要翻天了！”"
 
 # game/a1s4.rpy:513
 translate Tchinese a1s4_4c12a8a7:
@@ -2314,31 +2314,31 @@ translate Tchinese a1s4_4c12a8a7:
 translate Tchinese a1s4_7010f8b0:
 
     # a "\"Cass, now is NOT the time.\""
-    a "\"現在{b}不是{/b}時候，Cass。\""
+    a "“現在{b}不是{/b}時候，Cass。”"
 
 # game/a1s4.rpy:516
 translate Tchinese a1s4_c6aa5ec1:
 
     # c "\"Now IS the time! Amicus, Lux will tear itself apart over this!\""
-    c "\"現在{b}正是{/b}時候，Amicus！再這樣下去，盧克斯會分裂的！\""
+    c "“現在{b}正是{/b}時候，Amicus！再這樣下去，盧克斯會分裂的！”"
 
 # game/a1s4.rpy:518
 translate Tchinese a1s4_6928f92f:
 
     # a "\"What? Over perceived insults from the Khemians that likely didn't happen in the first place?\""
-    a "\"什麼？就因為受到──從一開始就不存在的──克米揚的蔑視？\""
+    a "“什麼？就因為受到──從一開始就不存在的──克米揚的蔑視？”"
 
 # game/a1s4.rpy:520
 translate Tchinese a1s4_1a3214c3:
 
     # c "\"No, Amicus, over {i}rumors{/i}. What actually happened doesn't matter. What does matter is that now they are saying Neferu spat on the food offered to him.\""
-    c "\"不，Amicus，因為{b}謠言{/b}。實際發生了什麼並不重要，重要的是，他們稱Neferu向提供給他的食物吐了口水。\""
+    c "“不，Amicus，因為{b}謠言{/b}。實際發生了什麼並不重要，重要的是，他們稱Neferu向提供給他的食物吐了口水。”"
 
 # game/a1s4.rpy:521
 translate Tchinese a1s4_90196a65:
 
     # a "\"Gods...\""
-    a "\"神啊……\""
+    a "“神啊……”"
 
 # game/a1s4.rpy:522
 translate Tchinese a1s4_ce194e6b:
@@ -2350,37 +2350,37 @@ translate Tchinese a1s4_ce194e6b:
 translate Tchinese a1s4_197e1204:
 
     # a "\"Well, I suppose I should prepare myself to give some sort of speech--\""
-    a "\"好吧，看來我應該準備演講──\""
+    a "“好吧，看來我應該準備演講──”"
 
 # game/a1s4.rpy:526
 translate Tchinese a1s4_65b75a52:
 
     # c "\"A--Are you serious, Amicus?\""
-    c "\"你──你沒在開玩笑吧，Amicus？\""
+    c "“你──你沒在開玩笑吧，Amicus？”"
 
 # game/a1s4.rpy:527
 translate Tchinese a1s4_d098c481_2:
 
     # a "\"Of course.\""
-    a "\"當然沒有。\""
+    a "“當然沒有。”"
 
 # game/a1s4.rpy:529
 translate Tchinese a1s4_d9f8259b:
 
     # c "\"You idiot.\""
-    c "\"白痴。\""
+    c "“白痴。”"
 
 # game/a1s4.rpy:531
 translate Tchinese a1s4_97dc373b:
 
     # a "\"Shut the hell up, Cass, you don't understand--\""
-    a "\"閉上你的嘴，Cass，你不了解──\""
+    a "“閉上你的嘴，Cass，你不了解──”"
 
 # game/a1s4.rpy:533
 translate Tchinese a1s4_20872c66:
 
     # c "\"I understand far more about this city than you ever will!\""
-    c "\"我比你們任何人都更了解這座城市！\""
+    c "“我比你們任何人都更了解這座城市！”"
 
 # game/a1s4.rpy:534
 translate Tchinese a1s4_d7caff86:
@@ -2398,13 +2398,13 @@ translate Tchinese a1s4_93600b99:
 translate Tchinese a1s4_6224e9a8:
 
     # c "\"They will kill you if you set foot in the amphitheater alone.\""
-    c "\"你敢隻身踏進競技場，他們就敢殺了你。\""
+    c "“你敢隻身踏進競技場，他們就敢殺了你。”"
 
 # game/a1s4.rpy:538
 translate Tchinese a1s4_9f5e516f:
 
     # b "\"There are drones that will protect him.\""
-    b "\"無人機可以保護他。\""
+    b "“無人機可以保護他。”"
 
 # game/a1s4.rpy:539
 translate Tchinese a1s4_4d19c5ff:
@@ -2416,7 +2416,7 @@ translate Tchinese a1s4_4d19c5ff:
 translate Tchinese a1s4_6fb2c0b0:
 
     # c "\"Oh yes, and that will lead to such a rebellion that the city will once again declare itself an independent city-state. Good luck trying to repair at any point during your rule, Amicus.\""
-    c "\"沒錯，而這將導致一場叛亂，盧克斯將再次宣布自己是一個獨立的城邦。祝你在統治期間好運，Amicus。\""
+    c "“沒錯，而這將導致一場叛亂，盧克斯將再次宣布自己是一個獨立的城邦。祝你在統治期間好運，Amicus。”"
 
 # game/a1s4.rpy:542
 translate Tchinese a1s4_0f1fabdc:
@@ -2428,7 +2428,7 @@ translate Tchinese a1s4_0f1fabdc:
 translate Tchinese a1s4_08cdbbdb:
 
     # a "\"Alright, then do you have anything to propose yourself, Cassius?\""
-    a "\"好吧，那你有什麼建議嗎，Cassius？\""
+    a "“好吧，那你有什麼建議嗎，Cassius？”"
 
 # game/a1s4.rpy:546
 translate Tchinese a1s4_5a3e4719:
@@ -2464,7 +2464,7 @@ translate Tchinese a1s4_f35d038d:
 translate Tchinese a1s4_827023db:
 
     # c "\"Therefore you might say that at least a small part of this is my fault.\""
-    c "\"釀成如今這個局面，也有一小部分錯在我。\""
+    c "“釀成如今這個局面，也有一小部分錯在我。”"
 
 # game/a1s4.rpy:553
 translate Tchinese a1s4_67d26330:
@@ -2476,7 +2476,7 @@ translate Tchinese a1s4_67d26330:
 translate Tchinese a1s4_3d7254bb:
 
     # c "\"A very small part, but a part nonetheless. Therefore, I shall give another speech.\""
-    c "\"很小一部分錯，但我畢竟難辭其咎。因此，我要再發表一篇演講。\""
+    c "“很小一部分錯，但我畢竟難辭其咎。因此，我要再發表一篇演講。”"
 
 # game/a1s4.rpy:557
 translate Tchinese a1s4_991b9af5:
@@ -2488,31 +2488,31 @@ translate Tchinese a1s4_991b9af5:
 translate Tchinese a1s4_3e7f3a6c:
 
     # c "\"And the people shall be allowed to actually attend the speech. None of this curfew nonsense. This is part of the reason they are so upset.\""
-    c "\"並且人民應該被允許參與進來。別搞什麼宵禁，這也是他們如此不安分的一部分原因。\""
+    c "“並且人民應該被允許參與進來。別搞什麼宵禁，這也是他們如此不安分的一部分原因。”"
 
 # game/a1s4.rpy:561
 translate Tchinese a1s4_896b601e:
 
     # a "\"Are you sure? I don't think I could let you--\""
-    a "\"你確定嗎？我不能讓你──\""
+    a "“你確定嗎？我不能讓你──”"
 
 # game/a1s4.rpy:563
 translate Tchinese a1s4_97b7a966:
 
     # c "\"Oh, stop it, Amicus. I know what I'm doing.\""
-    c "\"哦，得了吧，Amicus，我知道自己在做什麼。\""
+    c "“哦，得了吧，Amicus，我知道自己在做什麼。”"
 
 # game/a1s4.rpy:565
 translate Tchinese a1s4_41df33cb:
 
     # a "\"Do you?\""
-    a "\"真的？\""
+    a "“真的？”"
 
 # game/a1s4.rpy:567
 translate Tchinese a1s4_05d765fa:
 
     # c "\"I've given speeches in Lux at least half-a-dozen times, so yes, I do.\""
-    c "\"我在盧克斯至少演講過六次，所以是的。\""
+    c "“我在盧克斯至少演講過六次，所以是的。”"
 
 # game/a1s4.rpy:568
 translate Tchinese a1s4_fd99cf86:
@@ -2524,43 +2524,43 @@ translate Tchinese a1s4_fd99cf86:
 translate Tchinese a1s4_f7fc77dd:
 
     # c "\"Keep in mind that if I want this mission to succeed anywhere, it is here in Lux. I would not be able to bring myself to leave this city the way it is now.\""
-    c "\"我無法棄這座城市於不顧。聽好，如果現在逃了，那再去其他城市也只會是白費功夫。\""
+    c "“我無法棄這座城市於不顧。聽好，如果現在逃了，那再去其他城市也只會是白費功夫。”"
 
 # game/a1s4.rpy:571
 translate Tchinese a1s4_6337e1e7:
 
     # c "\"I would at least like them to have a little hope for the future, as that is all we can offer them at the moment.\""
-    c "\"祈禱他們對未來還抱有一絲希望吧，這是我們目前能提供的全部了。\""
+    c "“祈禱他們對未來還抱有一絲希望吧，這是我們目前能提供的全部了。”"
 
 # game/a1s4.rpy:572
 translate Tchinese a1s4_589cb050:
 
     # m "\"Maybe we could mention that infrastructure project we were talking about last night, Amicus?\""
-    m "\"也許可以講一下我們昨晚說過的有關基礎設施的計劃，Amicus?\""
+    m "“也許可以講一下我們昨晚說過的有關基礎設施的計劃，Amicus？”"
 
 # game/a1s4.rpy:576
 translate Tchinese a1s4_793972fa:
 
     # a "\"Er, possibly. It might be a bit early for that, though.\""
-    a "\"呃，現在可能還不是時候。\""
+    a "“呃，現在可能還不是時候。”"
 
 # game/a1s4.rpy:578
 translate Tchinese a1s4_98385450:
 
     # c "\"What are you on about?\""
-    c "\"你們在說什麼呢？\""
+    c "“你們在說什麼呢？”"
 
 # game/a1s4.rpy:580
 translate Tchinese a1s4_a9824a5b:
 
     # a "\"Well, we discussed tentative plans to better connect Lux to Adastra City, possibly by use of Khemian tech, but I don't think--\""
-    a "\"我們就如何完善盧克斯與阿達斯特拉城之間的交通進行了初步討論，或許會用到克希米亞的技術，但我不確定……\""
+    a "“我們就如何完善盧克斯與阿達斯特拉城之間的交通進行了初步討論，或許會用到克希米亞的技術，但我不確定……”"
 
 # game/a1s4.rpy:582
 translate Tchinese a1s4_9f417ed4:
 
     # c "\"Hmm...\""
-    c "\"嗯……\""
+    c "“嗯……”"
 
 # game/a1s4.rpy:583
 translate Tchinese a1s4_7f38d0a3:
@@ -2572,19 +2572,19 @@ translate Tchinese a1s4_7f38d0a3:
 translate Tchinese a1s4_8fa1ac54:
 
     # c "\"Actually, that does give me an idea. Where's the jackal?\""
-    c "\"我受到了啟發，胡狼在哪？\""
+    c "“我受到了啟發，胡狼在哪？”"
 
 # game/a1s4.rpy:586
 translate Tchinese a1s4_19cd58cc:
 
     # a "\"Here in the villa. Why?\""
-    a "\"在莊園裡，怎麼了？\""
+    a "“在莊園裡，怎麼了？”"
 
 # game/a1s4.rpy:588
 translate Tchinese a1s4_49681cdb:
 
     # c "\"Summon him. I have an idea, but it involves bringing him, and you along.\""
-    c "\"傳他過來。我想到一個主意，但需要他的配合，還有你的。\""
+    c "“傳他過來。我想到一個主意，但需要他的配合，還有你的。”"
 
 # game/a1s4.rpy:589
 translate Tchinese a1s4_3f39cacd:

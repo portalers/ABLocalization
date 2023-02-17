@@ -1,3 +1,5 @@
+# TODO: Translation updated at 2023-02-17 19:22
+
 # game/scripts/chapter8.rpy:19
 translate Schinese chapter8_e9b85e88:
 
@@ -887,10 +889,10 @@ translate Schinese chapter8_77fb0e4d:
     "He felt the soldier grab his hands and put cuffs on him."
 
 # game/scripts/chapter8.rpy:365
-translate Schinese chapter8_786f63ed:
+translate Schinese chapter8_d5831f7c:
 
-    # soldier "You are under arrest for high crimes against the nation of New Borealis!"
-    soldier "You are under arrest for high crimes against the nation of New Borealis!"
+    # soldier "You are under arrest for high crimes against the nation of Breisall!"
+    soldier "You are under arrest for high crimes against the nation of Breisall!"
 
 # game/scripts/chapter8.rpy:367
 translate Schinese chapter8_8a297540:
@@ -5193,54 +5195,6 @@ translate Schinese guarddogchoice_3ea4e540:
 
     # f "hahaha..."
     f "hahaha..."
-
-# game/scripts/chapter8.rpy:2107
-translate Schinese guarddogchoice_a20cefa7_3:
-
-    # "..."
-    "..."
-
-# game/scripts/chapter8.rpy:2109
-translate Schinese guarddogchoice_07bdde05:
-
-    # "....."
-    "....."
-
-# game/scripts/chapter8.rpy:2111
-translate Schinese guarddogchoice_3928a113:
-
-    # "......."
-    "......."
-
-# game/scripts/chapter8.rpy:2113
-translate Schinese guarddogchoice_6ea022d8:
-
-    # decker "Hey! It's me again."
-    decker "Hey! It's me again."
-
-# game/scripts/chapter8.rpy:2115
-translate Schinese guarddogchoice_027c35d7:
-
-    # decker "Sorry to interrupt the story, but this is all for now!"
-    decker "Sorry to interrupt the story, but this is all for now!"
-
-# game/scripts/chapter8.rpy:2117
-translate Schinese guarddogchoice_cf1d879f:
-
-    # decker "I think the next release will complete the story, or at least be close. Be on the lookout."
-    decker "I think the next release will complete the story, or at least be close. Be on the lookout."
-
-# game/scripts/chapter8.rpy:2119
-translate Schinese guarddogchoice_0b5fd321:
-
-    # decker "And thank you all for supporting this game, and sticking with me this far. I hope you enjoy the finale!"
-    decker "And thank you all for supporting this game, and sticking with me this far. I hope you enjoy the finale!"
-
-# game/scripts/chapter8.rpy:2121
-translate Schinese guarddogchoice_9b8ab518:
-
-    # decker "Take care~"
-    decker "Take care~"
 
 translate Schinese strings:
 

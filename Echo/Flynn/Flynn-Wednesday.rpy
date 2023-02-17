@@ -2444,7 +2444,7 @@ translate Schinese flynnwednesday_83361f6b:
 translate Schinese flynnwednesday_41572d3a:
 
     # "As we go inside I'm hit with a blast of warm air that's not much different than what's outside."
-  "一开门，一股和房子外面相差无几的热浪直接砸到了我的脸上。"
+    "一开门，一股和房子外面相差无几的热浪直接砸到了我的脸上。"
  
 # game/Flynn - Wednesday.rpy:551
 translate Schinese flynnwednesday_6a00fccc:

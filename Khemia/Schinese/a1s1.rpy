@@ -112,7 +112,7 @@ translate Schinese a1s1_6021d8c4:
 translate Schinese a1s1_bb72799a:
 
     # "The past is in the past..."
-     "往事已成过眼云烟。"
+    "往事已成过眼云烟。"
 
 # game/a1s1.rpy:26
 translate Schinese a1s1_c9e1be00:

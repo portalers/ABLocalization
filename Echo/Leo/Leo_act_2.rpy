@@ -7767,7 +7767,7 @@ translate Schinese leosunday_866c32bc:
 translate Schinese leosunday_5b90e3ad:
 
     # "He mumbles it, almost to himself."
-   "他的声音很小，就像是在自言自语一样。"
+    "他的声音很小，就像是在自言自语一样。"
 
 # game/Leo_act_2.rpy:1587
 translate Schinese leosunday_cb375bdd:
@@ -18711,7 +18711,7 @@ translate Schinese leosunday_3cbfd1db:
 translate Schinese leosunday_f4d91a7d:
 
     # "Even if we were able to get on a train, could that creature thing still get to us?"
- "退一万步讲，我们能登上火车的话，那个生物还能抓得到我们吗？"
+    "退一万步讲，我们能登上火车的话，那个生物还能抓得到我们吗？"
 
 # game/Leo_act_2.rpy:3812
 translate Schinese leosunday_d2d8ac8b:
@@ -20523,7 +20523,7 @@ translate Schinese leosunday_c0a21986:
 translate Schinese leosunday_e366e849:
 
     # "It's still dark, obviously, but I can make out the frown on her face as she seems to struggle for words."
- "很明显，现在还是深夜，但是我仍然能够看到她脸上的那种想努力组织语言而弄出来的褶皱。"
+    "很明显，现在还是深夜，但是我仍然能够看到她脸上的那种想努力组织语言而弄出来的褶皱。"
 
 # game/Leo_act_2.rpy:4165
 translate Schinese leosunday_55d39e45:

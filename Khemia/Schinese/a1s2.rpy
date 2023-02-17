@@ -4858,7 +4858,7 @@ translate Schinese a1s2_f547252f:
 translate Schinese a1s2_71462baa:
 
     # "\"{i}I know that you're here to gather intelligence, to better Adastra's position in the alliance, and to use me as a tool, just as Alexios used Cassius.{/i}\""
-      "\"{b}要知道，你是来收集情报的，为了改善阿达斯特拉在联盟中的地位。你把我当做工具，就像Alexios利用了Cassius那样-{/b}\""
+    "\"{b}要知道，你是来收集情报的，为了改善阿达斯特拉在联盟中的地位。你把我当做工具，就像Alexios利用了Cassius那样-{/b}\""
 
 # game/a1s2.rpy:918
 translate Schinese a1s2_ef5022ca:

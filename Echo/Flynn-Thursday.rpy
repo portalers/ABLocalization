@@ -39271,152 +39271,152 @@ translate Schinese UpdateBegin_9acf6865:
 # game/Flynn-Thursday.rpy:8555
 translate Schinese UpdateBegin_49a7eea7:
 
-       # "A gunshot."
-   "一声枪响。"
+    # "A gunshot."
+    "一声枪响。"
  
 # game/Flynn-Thursday.rpy:8557
 translate Schinese UpdateBegin_f01a24d5:
  
-   # "I try the door again, more fervently, hoping that I'm just pulling a Carl here and pulling when I should be pushing."
-   "我再次试着打开门，更用力地。我希望自己只是正拉着Carl，只要用推的就好了。"
+    # "I try the door again, more fervently, hoping that I'm just pulling a Carl here and pulling when I should be pushing."
+    "我再次试着打开门，更用力地。我希望自己只是正拉着Carl，只要用推的就好了。"
  
 # game/Flynn-Thursday.rpy:8558
 translate Schinese UpdateBegin_cbc4269d:
  
-   # "Still nothing."
-   "门仍然纹丝不动。"
+    # "Still nothing."
+    "门仍然纹丝不动。"
  
 # game/Flynn-Thursday.rpy:8559
 translate Schinese UpdateBegin_e852edda:
  
-   # m "\"Fuck...\""
-   m "\"他妈的...\""
+    # m "\"Fuck...\""
+    m "\"他妈的...\""
  
 # game/Flynn-Thursday.rpy:8561
 translate Schinese UpdateBegin_182af061:
  
-   # "More shots ring out, this time accompanied by a dull thud and the sound of stucco being shattered."
-   "更多的枪声传了过来，这次伴随着一阵灰泥碎裂的沉闷声响。"
+    # "More shots ring out, this time accompanied by a dull thud and the sound of stucco being shattered."
+    "更多的枪声传了过来，这次伴随着一阵灰泥碎裂的沉闷声响。"
  
 # game/Flynn-Thursday.rpy:8562
 translate Schinese UpdateBegin_16243580:
  
-   # "Those ones hit the building."
-   "子弹打在了建筑上。"
+    # "Those ones hit the building."
+    "子弹打在了建筑上。"
  
 # game/Flynn-Thursday.rpy:8563
 translate Schinese UpdateBegin_7b2afefd:
  
-   # "I get down on the floor, my heart pounding."
-   "我伏倒在地板上，心跳不止。"
+    # "I get down on the floor, my heart pounding."
+    "我伏倒在地板上，心跳不止。"
  
 # game/Flynn-Thursday.rpy:8564
 translate Schinese UpdateBegin_6d1fc241:
  
-   # "It still feels like I'm moving in slow-motion, even with the adrenaline pumping through my veins."
-   "即便血管中正泵动着肾上腺素，感觉我的动作还是拍着慢板。"
+    # "It still feels like I'm moving in slow-motion, even with the adrenaline pumping through my veins."
+    "即便血管中正泵动着肾上腺素，感觉我的动作还是拍着慢板。"
  
 # game/Flynn-Thursday.rpy:8565
 translate Schinese UpdateBegin_4d15baf9:
  
-   # "What the hell is wrong with me?"
-   "我到底是怎么了？"
+    # "What the hell is wrong with me?"
+    "我到底是怎么了？"
  
 # game/Flynn-Thursday.rpy:8566
 translate Schinese UpdateBegin_1bb0682b:
  
-   # "I hear the front door open, followed by more scurrying upon carpet."
-   "我听见前门被打开了，接着是碎步践踏地毯的声音。"
+    # "I hear the front door open, followed by more scurrying upon carpet."
+    "我听见前门被打开了，接着是碎步践踏地毯的声音。"
  
 # game/Flynn-Thursday.rpy:8567
 translate Schinese UpdateBegin_b48c0e10:
  
-   # "Why the hell are they running outside?"
-   "他们为什么要跑到外面去？"
+    # "Why the hell are they running outside?"
+    "他们为什么要跑到外面去？"
  
 # game/Flynn-Thursday.rpy:8568
 translate Schinese UpdateBegin_7ac23747:
  
-   # "I hear an engine start, then the splaying of gravel as what sounds like Leo's van drives off."
-   "我听见引擎发动的声音，然后是就像Leo的卡车驶去一样，石子路被碾过的声音。。"
+    # "I hear an engine start, then the splaying of gravel as what sounds like Leo's van drives off."
+    "我听见引擎发动的声音，然后是就像Leo的卡车驶去一样，石子路被碾过的声音。。"
  
 # game/Flynn-Thursday.rpy:8569
 translate Schinese UpdateBegin_1ae1407e:
  
-   # "They..."
-   "他们......"
+    # "They..."
+    "他们......"
  
 # game/Flynn-Thursday.rpy:8570
 translate Schinese UpdateBegin_0763f67e:
  
-   # "They left me?"
-   "他们扔下了我？"
+    # "They left me?"
+    "他们扔下了我？"
  
 # game/Flynn-Thursday.rpy:8571
 translate Schinese UpdateBegin_6d57a385:
  
-   # "Even Leo?"
-   "连Leo也一样？"
+    # "Even Leo?"
+    "连Leo也一样？"
  
 # game/Flynn-Thursday.rpy:8572
 translate Schinese UpdateBegin_93a3b4f4:
  
-   # "I crawl on the floor, making my way toward the corner of the room."
-   "我在地板上爬着，移向房间的角落。"
+    # "I crawl on the floor, making my way toward the corner of the room."
+    "我在地板上爬着，移向房间的角落。"
  
 # game/Flynn-Thursday.rpy:8573
 translate Schinese UpdateBegin_0577bc27:
  
-   # "I pinch myself, trying to snap out of this strange malaise."
-   "我掐了掐自己，试图从这镇怪异的萎靡中苏醒过来。"
+    # "I pinch myself, trying to snap out of this strange malaise."
+    "我掐了掐自己，试图从这镇怪异的萎靡中苏醒过来。"
  
 # game/Flynn-Thursday.rpy:8574
 translate Schinese UpdateBegin_8a42e3a6:
  
-   # "I can hear the occasional shout from out on the street, but it's all gibberish now."
-   "我能听到街道上偶然传来的大叫声，可现在那都很模糊不清。"
+    # "I can hear the occasional shout from out on the street, but it's all gibberish now."
+    "我能听到街道上偶然传来的大叫声，可现在那都很模糊不清。"
  
 # game/Flynn-Thursday.rpy:8575
 translate Schinese UpdateBegin_c242f919:
  
-   # "Leaning back against the wall, I rub my throbbing temples."
-   "背靠在墙上，我揉了揉阵阵作痛的太阳穴。"
+    # "Leaning back against the wall, I rub my throbbing temples."
+    "背靠在墙上，我揉了揉阵阵作痛的太阳穴。"
  
 # game/Flynn-Thursday.rpy:8576
 translate Schinese UpdateBegin_5414c8e8:
  
-   # "Tweakers..."
-   "瘾君子们......"
+    # "Tweakers..."
+    "瘾君子们......"
  
 # game/Flynn-Thursday.rpy:8577
 translate Schinese UpdateBegin_a539a515:
  
-   # "Couldn't have showed up at a better time."
-   "出现的时机可真的是太好了。"
+    # "Couldn't have showed up at a better time."
+    "出现的时机可真的是太好了。"
  
 # game/Flynn-Thursday.rpy:8578
 translate Schinese UpdateBegin_bec9627c:
  
-   # "I try to listen to see if the shouting is getting closer, but it's difficult to tell."
-   "我聆听着，看那些叫喊声有没有靠近这边，可是很难判断。"
+    # "I try to listen to see if the shouting is getting closer, but it's difficult to tell."
+    "我聆听着，看那些叫喊声有没有靠近这边，可是很难判断。"
  
 # game/Flynn-Thursday.rpy:8579
 translate Schinese UpdateBegin_8c0bdcd8:
  
-   # "If that really is Clint, this is really out of character for him."
-   "要是那真的是Clint，那可真的太出乎意料了、"
+    # "If that really is Clint, this is really out of character for him."
+    "要是那真的是Clint，那可真的太出乎意料了、"
  
 # game/Flynn-Thursday.rpy:8580
 translate Schinese UpdateBegin_c27eb6ff:
  
-   # "He never really was the singing type."
-   "他不是那种会高歌起舞的类型。"
+    # "He never really was the singing type."
+    "他不是那种会高歌起舞的类型。"
  
 # game/Flynn-Thursday.rpy:8581
 translate Schinese UpdateBegin_bd183609:
  
-   # "Screaming about faggots, yes, but singing? No."
-   "咒骂着死基佬的确是他会干的事，但唱歌？那可不会。"
+    # "Screaming about faggots, yes, but singing? No."
+    "咒骂着死基佬的确是他会干的事，但唱歌？那可不会。"
 
 # game/Flynn-Thursday.rpy:8582
 translate Schinese UpdateBegin_42cd2b4e:
