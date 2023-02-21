@@ -1434,12 +1434,6 @@ translate Schinese murdochroute3_084c0f57:
     # "Then I put my paw on the cold handle, twist it, and then tug it open."
     "用手握住冰凉的门把，把门打开。"
 
-# game/murdochroute3.rpy:457
-translate  murdochroute3_084c0f57:
-
-    # "Then I put my paw on the cold handle, twist it, and then tug it open."
-    "用手握住冰凉的门把，把门打开。"
-
 # game/murdochroute3.rpy:459
 translate Schinese murdochroute3_ea85d284:
 
@@ -4996,7 +4990,7 @@ translate Schinese murdochroute3_73abc689:
 translate Schinese murdochroute3_c1b2da66:
 
     # mu "\"I’m already talking with you like you’re gone!\""
-    mu "“你虽然站在这里，却又和不在有什么区别！”"
+    mu "“你虽然站在这里，却和不在又有什么区别！”"
 
 # game/murdochroute3.rpy:1511
 translate Schinese murdochroute3_f6527a10:
@@ -5014,7 +5008,7 @@ translate Schinese murdochroute3_e991ef5b:
 translate Schinese murdochroute3_f65040b0:
 
     # mu "\"I can see you, I can touch you, I can hear you!\""
-    mu "“明明我看得到你、碰得到你，也听得到你！”"
+    mu "“我看得到你、碰得到你，也听得到你！”"
 
 # game/murdochroute3.rpy:1517
 translate Schinese murdochroute3_c645b270:
@@ -9370,7 +9364,7 @@ translate Schinese murdochroute3_04ddf6f1:
 translate Schinese murdochroute3_fd7defcd:
 
     # mu "\"I slept with you because you’re a rich brat, and I love my sister.\""
-    mu "“我跟你睡是因为你有钱，而且我爱我的姐姐。”"
+    mu "“我跟你睡是因为你有钱，而且我希望我的姐姐能够得到幸福。”"
 
 # game/murdochroute3.rpy:2945
 translate Schinese murdochroute3_3e9ad445:
@@ -9394,7 +9388,7 @@ translate Schinese murdochroute3_e93b09ab:
 translate Schinese murdochroute3_1ef17b43:
 
     # "He’s just trying to diffuse the situation again, isn’t he?"
-    "他又想妥协了？"
+    "他又想委曲求全了？"
 
 # game/murdochroute3.rpy:2951
 translate Schinese murdochroute3_f15f6758:
@@ -9406,13 +9400,13 @@ translate Schinese murdochroute3_f15f6758:
 translate Schinese murdochroute3_7c0c6430:
 
     # ho "\"You stay quiet.\""
-    ho "“肃静。”"
+    ho "“安静。”"
 
 # game/murdochroute3.rpy:2957
 translate Schinese murdochroute3_e4b61c66:
 
     # ho "\"You’re not even involved in this.\""
-    ho "“这里没有你插嘴的份儿。”"
+    ho "“这里没有你插嘴的份。”"
 
 # game/murdochroute3.rpy:2962
 translate Schinese murdochroute3_ff929079:
@@ -10180,7 +10174,7 @@ translate Schinese murdochroute3_e9b602cd:
 translate Schinese murdochroute3_5f75bb4b:
 
     # ho "\"And please somebody cast the first stone if I’m lying about any of this!\""
-    ho "“如果我在这件事上有一丝虚假，欢迎任何人投石头砸我！”"
+    ho "“若我有半句虚言，欢迎任何人投石头砸我！”"
 
 # game/murdochroute3.rpy:3291
 translate Schinese murdochroute3_6e868817:
