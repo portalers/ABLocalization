@@ -2,7 +2,7 @@
 translate Schinese nikroute_38b05af4:
 
     # "While the fox's wager is tempting, it's just that: a wager."
-    "狐狸的赌注固然很诱人，但终究只是个赌。"
+    "狐狸的赌注固然诱人，但终究只是个赌。"
 
 # game/nikroute.rpy:4
 translate Schinese nikroute_fd1a7aec:
