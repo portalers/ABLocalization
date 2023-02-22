@@ -1742,7 +1742,7 @@ translate Schinese commonroute_b842dacc:
 translate Schinese commonroute_e8095aa0:
 
     # "As I stare down at Jack, at his fluttering eyelids and the blood coming out of his mouth, I realize how stupid I am."
-    "我低头看着杰克，看着他颤动的眼皮和嘴里流出的鲜血，意识到了自己是多么的愚蠢。"
+    "我低头看着杰克，看着他颤动的眼皮和嘴里流出的鲜血，意识到自己是多么的愚蠢。"
 
 # game/commonroute.rpy:348
 translate Schinese commonroute_1b24d84e:
@@ -1754,7 +1754,7 @@ translate Schinese commonroute_1b24d84e:
 translate Schinese commonroute_51dba0ac:
 
     # "Most people probably would have seen this coming a mile away, but I thought I knew Jack..."
-    "大部分人在一英里外就能预见到了，我还以为我了解Jack..."
+    "明眼人都知道这是个陷阱，但我以为我了解Jack..."
 
 # game/commonroute.rpy:350
 translate Schinese commonroute_18373ad0:
@@ -1766,19 +1766,19 @@ translate Schinese commonroute_18373ad0:
 translate Schinese commonroute_79fda133:
 
     # "The thought of so much gold, of living rich...I'd been completely blinded by the thought of it."
-    "这么多的金子，还有富足的生活...我完全被这个想法蒙蔽了双眼。"
+    "花不完的金子、衣食无忧的生活...我被这些想法彻底蒙蔽了双眼。"
 
 # game/commonroute.rpy:352
 translate Schinese commonroute_a7af5e1a:
 
     # "Jack starts to groan louder and move around more, so I reach over for his right paw, forcing it open and grabbing my coins."
-    "Jack的哼声和动作逐渐明显了起来，我掰开他的右爪，夺回了属于自己的硬币。"
+    "Jack的哼声和动作逐渐明显了起来，我掰开他的右爪，夺回属于我的硬币。"
 
 # game/commonroute.rpy:353
 translate Schinese commonroute_dbe17c68:
 
     # "I clutch them protectively to my chest as I stand up, feeling a sudden wave of dizziness as I do."
-    "我将它们紧紧抱胸前，站起身，突然感觉到一阵眩晕。"
+    "我将它们紧紧抱在胸前，站起身，突然感觉到一阵眩晕。"
 
 # game/commonroute.rpy:354
 translate Schinese commonroute_fcb4f19c:
@@ -6422,16 +6422,16 @@ translate Schinese strings:
 
     # game/commonroute.rpy:1436
     old "Fit Cliff in for a booking."
-    new "安排Cliff的预定"
+    new "安排Cliff的预定。"
 
     # game/commonroute.rpy:1436
     old "Take on Murdoch’s bet."
-    new "接受Murdoch的赌注"
+    new "和Murdoch打赌。"
 
     # game/commonroute.rpy:1436
     old "See if Nikolai is here."
-    new "去找Nikolai"
+    new "看Nikolai来了没有。"
 
     # game/commonroute.rpy:1436
     old "Tell William the truth."
-    new "告诉William真相"
+    new "告诉William真相。"
