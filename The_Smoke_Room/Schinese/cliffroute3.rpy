@@ -1780,7 +1780,7 @@ translate Schinese aftertent_de0fff49:
 translate Schinese aftertent_1aa2c300:
 
     # m "\"Are there a lot of folks living in the settlement?\""
-    m "\"定居点人多么？\""
+    m "\"部落人多么？\""
 
 # game/cliffroute3.rpy:425
 translate Schinese aftertent_64a4c892:
@@ -1960,7 +1960,7 @@ translate Schinese aftertent_b5bc4c30:
 translate Schinese aftertent_f9f41286:
 
     # "Jebediah beckons us near, and the sturdy metal gates open with a shriek that might very well be loud enough to wake up the entire settlement."
-    "Jebediah招手示意我们靠近。坚固的金属门被打开，发出刺耳的尖叫声，说不定能吵醒整个定居点的人。"
+    "Jebediah招手示意我们靠近。坚固的金属门被打开，发出刺耳的尖叫声，说不定能吵醒整个部落的人。"
 
 # game/cliffroute3.rpy:468
 translate Schinese aftertent_21f9d8a2:
@@ -2020,7 +2020,7 @@ translate Schinese aftertent_b0f60f11:
 translate Schinese aftertent_c3e934ad:
 
     # m "\"Odd to call this place a settlement when I don’t see nobody.\""
-    m "\"连个人影儿都没有，叫什么定居点啊。\""
+    m "\"连个人影儿都没有，叫什么部落啊。\""
 
 # game/cliffroute3.rpy:481
 translate Schinese aftertent_3771191e:
@@ -2062,7 +2062,7 @@ translate Schinese aftertent_aaeb83ea:
 translate Schinese aftertent_dc0d9884:
 
     # "We head down what I assume to be Main Street. Whereas Echo was lived-in and dirty, the settlement is immaculately clean, almost frighteningly so."
-    "我们沿着我认为的主街一路前进。有别于肮脏的回音镇，定居点一尘不染，干净得吓人。"
+    "我们沿着我认为的主街一路前进。有别于肮脏的回音镇，部落一尘不染，干净得吓人。"
 
 # game/cliffroute3.rpy:494
 translate Schinese aftertent_a14af4ba:
@@ -2590,7 +2590,7 @@ translate Schinese aftertent_bf6c0ad7:
 translate Schinese aftertent_c5b90281:
 
     # cl "\"I must say, I'm quite surprised to see a man of the cloth in a Meseta settlement.\""
-    cl "\"不得不说，没想到能在梅塞塔定居点里看到神职人员。\""
+    cl "\"不得不说，没想到能在梅塞塔部落里看到神职人员。\""
 
 # game/cliffroute3.rpy:633
 translate Schinese aftertent_49249f40:
@@ -2728,7 +2728,7 @@ translate Schinese aftertent_d4633e30:
 translate Schinese aftertent_3c1c4846:
 
     # cl "\"Are you referring to the settlement?\""
-    cl "\"你是指定居点吗？\""
+    cl "\"你是指部落吗？\""
 
 # game/cliffroute3.rpy:674
 translate Schinese aftertent_14eaea52:
@@ -2980,7 +2980,7 @@ translate Schinese aftertent_db96ab07:
 translate Schinese aftertent_4d31e99e:
 
     # ca "\"And please, do not disturb the military men stationed here. They only have the settlement's best interests at heart.\""
-    ca "\"还有，请不要打扰驻扎在此地的军人。为了定居点的最大利益，他们会不择手段。\""
+    ca "\"还有，请不要打扰驻扎在此地的军人。为了部落的最大利益，他们会不择手段。\""
 
 # game/cliffroute3.rpy:746
 translate Schinese aftertent_efb07866:
@@ -3280,7 +3280,7 @@ translate Schinese aftertent_03a15b07:
 translate Schinese aftertent_df90428c:
 
     # cl "\"This settlement seems a bit different from what I had pictured for a large Meseta community.\""
-    cl "\"这个定居点不太符合我想象中的大型梅塞塔社区。\""
+    cl "\"这个部落不太符合我想象中的大型梅塞塔社区。\""
 
 # game/cliffroute3.rpy:813
 translate Schinese aftertent_d18b5823:
@@ -4540,7 +4540,7 @@ translate Schinese aftercliffint2_c000f45c:
 translate Schinese aftercliffint2_81a0756d:
 
     # "Squirrel" "\"There is a trail leading west out of the settlement.\""
-    "松鼠" "\"西边有一条通往定居点外的小路。\""
+    "松鼠" "\"西边有一条通往部落外的小路。\""
 
 # game/cliffroute3.rpy:1069
 translate Schinese aftercliffint2_ccff3f23:
@@ -4732,7 +4732,7 @@ translate Schinese aftercliffint2_a9539d95:
 translate Schinese aftercliffint2_ea6b98aa:
 
     # "I don't know how to feel about this settlement quite yet."
-    "我还是不知道该如何看待这个定居点。"
+    "我还是不知道该如何看待这个部落。"
 
 # game/cliffroute3.rpy:1115
 translate Schinese aftercliffint2_065bf686:
@@ -4762,7 +4762,7 @@ translate Schinese strings:
 
     # game/cliffroute3.rpy:841
     old "There are plans to expand the Echo train station through the settlement."
-    new "回音火车站正计划修建直达定居点的铁路。"
+    new "回音火车站正计划修建直达部落的铁路。"
 
     # game/cliffroute3.rpy:995
     old "If more people with money came through the area, wouldn’t there be more supplies, and thus... more business?"
@@ -8754,7 +8754,7 @@ translate Schinese aftercliffint2_105527d4:
 translate Schinese aftercliffint2_759ac95e:
 
     # ts "\"It sounded like it was bothering the animals, so it’s a problem for the whole settlement now.\""
-    ts "“先前骚扰牲畜的好像也是它，这下它就是整个定居点的麻烦了。”"
+    ts "“先前骚扰牲畜的好像也是它，这下它就是整个部落的麻烦了。”"
 
 # game/cliffroute3.rpy:2438
 translate Schinese aftercliffint2_a414e7e6:
