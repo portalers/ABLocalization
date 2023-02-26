@@ -18411,7 +18411,7 @@ translate Schinese hattie_c9a35989:
 translate Schinese hattie_58a44039:
 
     # "There’s far less down here than I would have expected."
-    "底下的东西出乎意料得少。"
+    "底下的东西出人意料得少。"
 
 # game/williamroute3.rpy:6814
 translate Schinese hattie_c688a053:
@@ -19558,4 +19558,342 @@ translate Schinese hattie_c5ebdb8a:
 
     # gr "\"The men have work to do at closing time.\""
     gr "“我们的员工在打样时间可是很忙的。”"
+
+# TODO: Translation updated at 2023-02-21 21:31
+
+# game/williamroute3.rpy:5599
+translate Schinese hattie_5a81fe2a:
+
+    # wi "\"I thought I had explained to you that she’s a suspect?!\""
+    wi "“我不是跟你解释过她是嫌疑犯吗！”"
+
+# game/williamroute3.rpy:5607
+translate Schinese hattie_7c3bebd7:
+
+    # wi "\"Scout the property and wait for her to calm down.\""
+    wi "“在附近搜索，等待她平静下来。”"
+
+# game/williamroute3.rpy:5608
+translate Schinese hattie_05d4b1c1:
+
+    # m "\"And how long is that gonna take?\""
+    m "具体是等多久？"
+
+# game/williamroute3.rpy:5611
+translate Schinese hattie_5cd2ba2c:
+
+    # wi "\"Could be a few hours, could be a few days.\""
+    wi "可能是几小时，也可能是几天。"
+
+# game/williamroute3.rpy:5613
+translate Schinese hattie_dec8a06c:
+
+    # wi "\"Now we just gotta hope for the best that she’s isn’t guilty and that she’ll be in the right mind to cooperate in the future.\""
+    wi "“只能寄希望于她是清白的，并自愿配合我们的工作了。”"
+
+# game/williamroute3.rpy:5625
+translate Schinese hattie_8349bc1f:
+
+    # wi "\"I don't think we'll find anything, but something is better than nothing.\""
+    wi "我不觉得能找到什么，但总比干坐着强。"
+
+# game/williamroute3.rpy:5635
+translate Schinese hattie_2e7df407:
+
+    # "I scratch the back of my head."
+    "我挠了挠后脑勺。"
+
+# game/williamroute3.rpy:5636
+translate Schinese hattie_1e4a109f:
+
+    # m "\"You know, this aint my job, Will.\""
+    m "我说，这可不是我的工作啊，Will。"
+
+# game/williamroute3.rpy:5638
+translate Schinese hattie_71b173b2:
+
+    # wi "\"I know, but it's close where I'll be for the next few days, and I think it would be best for you to keep by.\""
+    wi "我知道。但我接下来要去的地方离那很近，你待在那我放心。"
+
+# game/williamroute3.rpy:5640
+translate Schinese hattie_7a5c6441:
+
+    # m "\"I get that, but I have other things that I could be doing right now.\""
+    m "我懂，但我还有其他事要做呢。"
+
+# game/williamroute3.rpy:5642
+translate Schinese hattie_4cf47544:
+
+    # wi "\"Like I said before, I don't think we're going to find anything.\""
+    wi "正如我之前说的，我不指望咱们能找到什么。"
+
+# game/williamroute3.rpy:5644
+translate Schinese hattie_c0c26de3:
+
+    # wi "\"I know it's been a long day.\""
+    wi "但今天绝对不一般。"
+
+# game/williamroute3.rpy:5645
+translate Schinese hattie_966a4c91:
+
+    # wi "\"If y'all don't find anything in a few hours, you and Todd can head off home or back to the office.\""
+    wi "如果过了几个小时，你和Todd还是一无所获的话，就各回各家吧。"
+
+# game/williamroute3.rpy:5649
+translate Schinese hattie_ec2cc410:
+
+    # m "\"Alright\""
+    m "行。"
+
+# game/williamroute3.rpy:5650
+translate Schinese hattie_ff90e985:
+
+    # m "\"Guess I’m with you for the next few hours, Mr. Bronson.\""
+    m "那么接下来就让我们好好相处吧，Bronson。"
+
+# game/williamroute3.rpy:5664
+translate Schinese hattie_ded1d576:
+
+    # to "\"We can start with a general sweep of the perimeter.\""
+    to "“一路搜查过去吧。”"
+
+# game/williamroute3.rpy:5678
+translate Schinese hattie_40542c5a:
+
+    # "It takes us about a ten minute hike before we see any trace of anything at all down the dirt road."
+    "我们走了大约十分钟的路，才看到土路有痕迹。"
+
+# game/williamroute3.rpy:5681
+translate Schinese hattie_1d63be66:
+
+    # m "\"Just how big is the Greene property?\""
+    m "Greene家的地有多大？"
+
+# game/williamroute3.rpy:5683
+translate Schinese hattie_407a49da:
+
+    # to "\"Fifty acres, roughly.\""
+    to "大约五十英亩吧。"
+
+# game/williamroute3.rpy:5685
+translate Schinese hattie_8efffaf6:
+
+    # "That's a huge amount of land for the little cabin to sit on."
+    "和小木屋相比还真是一大片土地。"
+
+# game/williamroute3.rpy:5839
+translate Schinese hattie_fb840429:
+
+    # "I know Todd said he wanted to leave but I make sure to turn over ever shovel, every can, every piece of junk I can find."
+    "我当然知道Todd不想待在这，但不把找到的每把铲子、每个罐子、每片垃圾都翻个个儿，我是不会善罢甘休的。"
+
+# game/williamroute3.rpy:5840
+translate Schinese hattie_2a698289:
+
+    # "Todd just awkwardly stands by the door, looking out of it as if he won't leave until I go with him."
+    "Todd尴尬地站在门口，看看外面，像是非要和我一起走。"
+
+# game/williamroute3.rpy:5841
+translate Schinese hattie_807c0e77:
+
+    # "When hr figures out I'm determined to be thorough, he sags a bit and starts helping me sort through the junk."
+    "在发现我的决心有多彻底后，他无奈地开始帮我梳理垃圾。"
+
+# game/williamroute3.rpy:5842
+translate Schinese hattie_0616f54a:
+
+    # "After a decent while we sort through more paint cans than I can count."
+    "又过了一会儿，我们整理出的油漆罐多得我都数不过来了。"
+
+# game/williamroute3.rpy:5843
+translate Schinese hattie_0d17bc8c:
+
+    # "I check under the slats in the floorboard."
+    "我还检查了地板的下面。"
+
+# game/williamroute3.rpy:5844
+translate Schinese hattie_43b70aba:
+
+    # "One of them goes back in quick-like when I see an angry looking black scorpion skittering towards the direction of my arm."
+    "看到一只愤怒的黑蝎子正准备朝我的手臂扑来，我连忙盖上木板。"
+
+# game/williamroute3.rpy:5845
+translate Schinese hattie_b901d6dd:
+
+    # "I wipe my brow with the back of my arm and keep looking."
+    "我用胳膊擦了擦额头，继续翻找。"
+
+# game/williamroute3.rpy:5846
+translate Schinese hattie_2ead9414:
+
+    # "Todd looks at me back with that wide stare."
+    "Todd瞪大眼睛看着我。"
+
+# game/williamroute3.rpy:5848
+translate Schinese hattie_75253576:
+
+    # m "\"Find anything yet?\""
+    m "你发现什么没有？"
+
+# game/williamroute3.rpy:5850
+translate Schinese hattie_aeca2ff7:
+
+    # "He shakes his head."
+    "他摇摇头。"
+
+# game/williamroute3.rpy:5851
+translate Schinese hattie_a54f5bd4:
+
+    # m "\"Well, we've got just a few more things to look through.\""
+    m "没事，还有其他地方呢。"
+
+# game/williamroute3.rpy:5853
+translate Schinese hattie_1afe2c29:
+
+    # m "\"Do you know if Marcy owned the house before Huxley?\""
+    m "这房子是Huxley的，还是Marcy的婚前财产？"
+
+# game/williamroute3.rpy:5932
+translate Schinese hattie_12c0e03b:
+
+    # to "\"You’re definitely sleepin’ with Mr. Adler, then, ain’t you?\""
+    to "“你跟Adler先生睡过了，对吗？”"
+
+# game/williamroute3.rpy:5937
+translate Schinese hattie_cc16147f:
+
+    # to "\"It's just a lot to take in when I start to really think about it.\""
+    to "一认真思考这件事，我的脑袋就会乱成一团。"
+
+# game/williamroute3.rpy:5947
+translate Schinese hattie_a791c02c:
+
+    # "He pauses, stammering a bit, like he's trying to spit something out."
+    "他愣了愣，结结巴巴的，好像要往外吐东西一样。"
+
+# game/williamroute3.rpy:5949
+translate Schinese hattie_e131da58:
+
+    # to "\"Mostly because I know he's not supposed to.\""
+    to "主要是因为我知道他不该这么做。"
+
+# game/williamroute3.rpy:5951
+translate Schinese hattie_9b2799d2:
+
+    # to "\"And also because I think it’s easy to see why he’d want you to.\""
+    to "也因为我理解他为什么想要你。"
+
+# game/williamroute3.rpy:5952
+translate Schinese hattie_245e69ea:
+
+    # "Now there's a confession."
+    "有人要坦白了。"
+
+# game/williamroute3.rpy:5953
+translate Schinese hattie_fe4e6a81:
+
+    # "I knew there was something funny about this one when I worked him up to spankin' himself off at the Sherrif's office."
+    "我就知道他偷偷摸摸在警署里撸管有内幕。"
+
+# game/williamroute3.rpy:5954
+translate Schinese hattie_eaa113bf:
+
+    # "But something's put him in an earnest mood."
+    "但他现在很严肃。"
+
+# game/williamroute3.rpy:5955
+translate Schinese hattie_a1546a2f:
+
+    # "Maybe the all the anxiety's loosened his tongue a bout."
+    "也许是压力太大，才一股脑说出来了吧。"
+
+# game/williamroute3.rpy:5956
+translate Schinese hattie_600fa234:
+
+    # "I heard before from Cynthia that otters get squeaky when they're scared, and also when they're in a mood."
+    "我以前听Cynthia说过，水獭在害怕的时候会发出吱吱声，在心情不好的时候也会。"
+
+# game/williamroute3.rpy:5957
+translate Schinese hattie_aea84397:
+
+    # "Maybe Todd's the kind to mix those two emotions up."
+    "也许Todd把这两种情绪混合在了一起。"
+
+# game/williamroute3.rpy:5960
+translate Schinese hattie_64f2e4c3:
+
+    # to "\"Well I try not to get stiff at all, Mr. Ayers.\""
+    to "“我已经很克制了，Ayers先生。”"
+
+# game/williamroute3.rpy:6000
+translate Schinese hattie_1a26fc21:
+
+    # to "\"I don’t know if I'd feel right doing something like that in Marcy’s shed.\""
+    to "“我觉得在Marcy的棚子里做这种事不太好。”"
+
+# game/williamroute3.rpy:6009
+translate Schinese hattie_ba982ccc:
+
+    # to "\"Feels less disrespectful to indugle in earthly pleasures out in nature.\""
+    to "在大自然中享受世俗的快乐，就没有那么不尊重人了。"
+
+# game/williamroute3.rpy:6010
+translate Schinese hattie_cc5b4b5a:
+
+    # to "\"Plus, there’s coverage behind the shed.\""
+    to "“而且棚子后面有遮挡。”"
+
+# game/williamroute3.rpy:6011
+translate Schinese hattie_387b04b7:
+
+    # to "\"And Aint nobody comes this way.\""
+    to "也没有人会来。"
+
+# game/williamroute3.rpy:6013
+translate Schinese hattie_acd6fa37:
+
+    # to "\"You, ah, really wanna do this?\""
+    to "“你，呃，是认真的吗？”"
+
+# game/williamroute3.rpy:6014
+translate Schinese hattie_9dba80a9:
+
+    # m "\"Do you?\""
+    m "你是吗？"
+
+# game/williamroute3.rpy:6016
+translate Schinese hattie_c1cd832a:
+
+    # "I'm asking him and myself both the question at the same time."
+    "我既是再问他，也是在问我自己。"
+
+# game/williamroute3.rpy:6021
+translate Schinese hattie_e8e295eb:
+
+    # m "\"How about I just give you a taste of the experience?\""
+    m "就让你尝尝鲜，如何？"
+
+# game/williamroute3.rpy:6022
+translate Schinese hattie_2b60186e:
+
+    # m "\"We can do something quick and easy and then you can vist me later...\""
+    m "咱们可以做一些简单快速的事情，之后你再..."
+
+# game/williamroute3.rpy:6023
+translate Schinese hattie_45e44ca8:
+
+    # m "\"...with money.\""
+    m "...拿着钱来找我。"
+
+# game/williamroute3.rpy:6025
+translate Schinese hattie_bda909df:
+
+    # to "\"Well how quick is quick?\""
+    to "快速是有多快？"
+
+# game/williamroute3.rpy:6823
+translate Schinese hattie_161d49dd:
+
+    # "And he opens it."
+    "他也把冰柜打开了。"
 
