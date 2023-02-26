@@ -25542,5 +25542,5 @@ translate Schinese strings:
 translate Schinese sellcomp_7b89fabb:
 
     # di "\"I think he’s a good boy. He’s not the sharpest tool in the shed, but he’s young.\""
-    di "“他是个好苗子，也许不太出色，但他还年轻。”"
+    di "“他是颗好苗子，也许不是最出色的，但他还年轻。”"
 
