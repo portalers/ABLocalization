@@ -4,7 +4,7 @@
 translate Schinese cliffroute_38b05af4:
 
     # "While the fox's wager is tempting, it's just that: a wager."
-    "狐狸的赌注固然很诱人，但终究只是一个赌。"
+    "虽然狐狸的赌注很诱人，但它只是一个赌注。"
 
 # game/cliffroute.rpy:9
 translate Schinese cliffroute_fd1a7aec:
@@ -2752,7 +2752,7 @@ translate Schinese cliffroute_c50e10a3:
 translate Schinese cliffroute_68795dca:
 
     # m "\"He mentioned a settlement. Ain't that where you’re from?\""
-    m "\"他话里的那个定居点，不就是你来的地方吗？\""
+    m "\"他话里的那个部落，不就是你来的地方吗？\""
 
 # game/cliffroute.rpy:589
 translate Schinese cliffroute_518ee73e:
@@ -2770,7 +2770,7 @@ translate Schinese cliffroute_aefff31e:
 translate Schinese cliffroute_ad17fc76:
 
     # cy "\"You mean besides the madame just about ready to throw herself at you?\""
-    cy "\"你是指除了夫人差点准备朝你投怀送抱以外？\""
+    cy "\"除了夫人差点准备朝你投怀送抱以外？\""
 
 # game/cliffroute.rpy:594
 translate Schinese cliffroute_e8ec87dd:
@@ -5362,7 +5362,7 @@ translate Schinese cliffroute_c519e557:
 translate Schinese cliffroute_d03d23b2:
 
     # cy "\"Is that where he's taking you, then? To the settlement?\""
-    cy "\"他要带你去哪儿？定居点吗？\""
+    cy "\"他要带你去哪儿？部落吗？\""
 
 # game/cliffroute.rpy:1258
 translate Schinese cliffroute_8ce61eb8:
@@ -8121,5 +8121,5 @@ translate Schinese mt1_28746027:
 translate Schinese mt1_abd2ad33:
 
     # m "\"'Course not. Just didn't figure you were the adventurin' type.\""
-    m "\"当然赞成，只是我没想到，原来你喜欢冒险。\""
+    m "\"当然赞成，只是没想到原来你喜欢冒险。\""
 
