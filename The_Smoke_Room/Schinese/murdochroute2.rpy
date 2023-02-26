@@ -1586,7 +1586,7 @@ translate Schinese murdochroute2_253422da:
 translate Schinese murdochroute2_d82c644c:
 
     # dh "\"Perhaps the both of you would get along famously.\""
-    dh "“说不定跟你们很合得来喔。”"
+    dh "“说不定你们很合得来呢。”"
 
 # game/murdochroute2.rpy:435
 translate Schinese murdochroute2_51bff9ad:
@@ -16114,7 +16114,7 @@ translate Schinese murdochroute2_df967197:
 translate Schinese murdochroute2_e699528d:
 
     # ho "\"Oh, they’re doing such great things.\""
-    ho "\"正为伟大的事业献身呐。\""
+    ho "\"为伟大的事业而献身。\""
 
 # game/murdochroute2.rpy:4553
 translate Schinese murdochroute2_dae31c95:
@@ -28710,11 +28710,31 @@ translate Schinese murdochroute2_3953b9cf:
 translate Schinese murdochroute2_22a2bd62:
 
     # m "\"Both you and Ralph admitted that you used to spy on me, day one...\""
-    m "\"你和Ralph从一开始就承认曾经觊觎我了...\""
+    m "\"你和Ralph从一开始就承认曾觊觎我了...\""
 
 # game/murdochroute2.rpy:2617
 translate Schinese murdochroute2_de7b25f1:
 
     # m "\"Speakin' of which...\""
-    m "\"说到这儿...\""
+    m "\"说到这...\""
+
+# TODO: Translation updated at 2023-02-21 21:31
+
+# game/murdochroute2.rpy:3186
+translate Schinese murdochroute2_55a8f654:
+
+    # dh "\"Oh? But aren't the two of you already acquainted?\""
+    dh "\"咦？你们之前不认识吗？\""
+
+# game/murdochroute2.rpy:3193
+translate Schinese murdochroute2_4653f8ab:
+
+    # "We both come to the understanding that we don’t need to go into details about where we were and when last night."
+    "我和她都心知肚明，没有必要提及昨晚的事。"
+
+# game/murdochroute2.rpy:4560
+translate Schinese murdochroute2_2354b162:
+
+    # ho "\"Important things. Reubin’s a doctor. Neil’s planning to run for Congress.\""
+    ho "\"非常伟大的事业。Reubin是一名医生，Neil计划竞选国会议员。\""
 
