@@ -12,8 +12,8 @@ translate Schinese strings:
     old "{color=#000000}{font=willfont.ttf}Cliff works with James for CGCS.{/font}{/color}"
     new "{color=#000000}{font=font/willfont.ttf}Cliff和James一起效力于CGCS。{/font}{/color}"
 
-    old "{color=#000000}{font=willfont.ttf}Cliff's real name is Cornelus. He claims he does not have his worker's perment.{/font} {/color}"
-    new "{color=#000000}{font=font/willfont.ttf}Cliff的真名是Cornelus，据本人称没有工作证。{/font} {/color}"
+    old "{color=#000000}{font=willfont.ttf}Cliff's real name is Cornelis. He claims he does not have his worker's perment.{/font} {/color}"
+    new "{color=#000000}{font=font/willfont.ttf}Cliff的真名是Cornelis，据他本人称没有工作证。{/font} {/color}"
 
     old "{color=#000000}{font=willfont.ttf}[stagnighttext]{/font}{/color}"
     new "{color=#000000}{font=font/willfont.ttf}[stagnighttext!t]{/font}{/color}"
@@ -89,7 +89,7 @@ translate Schinese strings:
     new "不知道stag的人们能提供些什么。"
 
     old "Hendricks is usually up to something. Worst thing is, it's probably not illegal."
-    new "Hendricks总是心怀鬼胎，更糟糕的是，他擅长钻法律的空子。"
+    new "Hendricks总是心怀鬼胎，更糟糕的是，他很擅长钻法律的空子。"
 
     old "City Hall holds a lot of secrets."
     new "镇公所里隐藏着许多秘密。"
@@ -108,5 +108,35 @@ translate Schinese strings:
 
     old "The staff at the hip turned a saloon in the middle of nowhere into a world-famous attraction."
     new "Hip从无名之地的酒吧发展成家喻户晓的景点，其员工功不可没。"
+
+    old "The body was in a ditch."
+    new "尸体之前在阴沟里。"
+    
+    old "Tutti-frutti."
+    new "什锦口味。"
+
+    old "Do I feel like making a mistake? Maybe."
+    new "我这么做是错的吗？或许吧。"
+
+    old "This looks like one of the film rolls Murdoch's used before."
+    new "看起来像Murdoch用过的胶卷。"
+
+    old "One of these flowers is definitely mugwart."
+    new "我很肯定这些草中有一种是艾蒿。"
+
+    old "A doll in the basement."
+    new "地下室里有个娃娃。"
+
+    old "It used to belong to Marcy's sister."
+    new "它曾经属于Marcy的姐妹。"
+
+    old "Slick, fellahs..."
+    new "巧舌如簧啊，伙计们..."
+
+    old "Her grandma's shroud was in the bed... I have a pretty good idea of what we'd find if we opened it."
+    new "床上是她奶奶的裹尸布...不难想象里面是什么。"
+
+    old "It's probably nothing."
+    new "也许是我想多了。"
 
 define cynthiatext = ""
