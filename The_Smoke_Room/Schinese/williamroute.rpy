@@ -8421,3 +8421,11 @@ translate Schinese williamroute_9206859d:
 
     # "Maybe next time I should ask what scares you."
     "也许下一次，我应该问问你内心中的恐惧。"
+# TODO: Translation updated at 2023-02-21 21:31
+
+# game/williamroute.rpy:1523
+translate Schinese williamroute_6ede209b:
+
+    # m "\"Is that what Todd dreams about whenever he tastes Mrs. Greene’s pies?\""
+    m "“Todd就是梦见自己在那个‘堂’里品尝Greene太太的派的吗？”"
+
