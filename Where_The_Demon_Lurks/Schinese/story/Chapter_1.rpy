@@ -7512,3 +7512,14 @@ translate Schinese chapter_1_439a6203:
     # "The boar seals the jar and turns to look into your dazed eyes."
     "野猪封好罐子，转头对上你迷茫的眼睛。"
 
+# game/story/Chapter_1.rpy:1332
+translate Schinese chapter_1_3a978ed8:
+
+    # Gho "Huh?" (cb_no_talk=True)
+    Gho "哈？" (cb_no_talk=True)
+
+# game/story/Chapter_1.rpy:1421
+translate Schinese chapter_1_9aa3e6a2:
+
+    # p angry "No! You’re making a mess of the store, and stop using your powers. Someone's going to see you on the recording!"
+    p angry "屁，你都快把我们店炸飞了！还有拜托你手下留情，监控会拍到的！"

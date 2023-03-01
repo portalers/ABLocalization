@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-02-17 21:42
+﻿# TODO: Translation updated at 2023-03-01 21:50
 
 # game/episode1.rpy:5
 translate Tchinese commonroute_e2c1c34e:
@@ -469,10 +469,10 @@ translate Tchinese commonroute_71ddc22e:
     "He did keep the stained glass windows. Even the church bell still works, allegedly, though I've never heard it ring."
 
 # game/episode1.rpy:172
-translate Tchinese commonroute_2fe4f824:
+translate Tchinese commonroute_d2d27052:
 
-    # wi "Lately the only thing anyone's talkin’ about is that art gallery across the street."
-    wi "Lately the only thing anyone's talkin’ about is that art gallery across the street."
+    # wi "Lately the only thing anyone's talkin’ about is that art gallery."
+    wi "Lately the only thing anyone's talkin’ about is that art gallery."
 
 # game/episode1.rpy:173
 translate Tchinese commonroute_b5504605:
@@ -1903,10 +1903,10 @@ translate Tchinese commonroute_9808957b:
     "Feels like the one place in town where things slow down a little."
 
 # game/episode1.rpy:687
-translate Tchinese commonroute_2c1cecd2:
+translate Tchinese commonroute_c2d29af5:
 
-    # "There's fewer screens, fewer obnoxious neon signs, and just a little past the Indian restaurant I always forget the name of, there's a little corner store."
-    "There's fewer screens, fewer obnoxious neon signs, and just a little past the Indian restaurant I always forget the name of, there's a little corner store."
+    # "There's fewer screens, fewer obnoxious neon signs, and just a little past the Indian restaurant I always wanted to try there's a little corner store."
+    "There's fewer screens, fewer obnoxious neon signs, and just a little past the Indian restaurant I always wanted to try there's a little corner store."
 
 # game/episode1.rpy:697
 translate Tchinese commonroute_090b161c:
@@ -2005,22 +2005,22 @@ translate Tchinese commonroute_9ebc2839:
     "It’s cluttered and claustrophobic in a way only the smallest of corner stores can manage."
 
 # game/episode1.rpy:724
-translate Tchinese commonroute_d28ab4a6:
+translate Tchinese commonroute_fa210e97:
 
-    # "There's bright, colorful foreign packaging on every shelf. I can't even begin to read the text on half of it."
-    "There's bright, colorful foreign packaging on every shelf. I can't even begin to read the text on half of it."
+    # "There's bright, colorful packaging on every shelf, imported from all over the world."
+    "There's bright, colorful packaging on every shelf, imported from all over the world."
 
 # game/episode1.rpy:725
-translate Tchinese commonroute_5df81c89:
+translate Tchinese commonroute_33774ffe:
 
-    # "Foreign sweets. Foreign booze. Foreign spices."
-    "Foreign sweets. Foreign booze. Foreign spices."
+    # "There are lots of foreign goods here. Sake. Changaa. Impossibly sour candy."
+    "There are lots of foreign goods here. Sake. Changaa. Impossibly sour candy."
 
 # game/episode1.rpy:726
-translate Tchinese commonroute_6b1c88cc:
+translate Tchinese commonroute_71dd00e1:
 
-    # "And my favorite, the foreign pastries they usually keep under glass near the counter."
-    "And my favorite, the foreign pastries they usually keep under glass near the counter."
+    # "And my favorite, the pastries they usually keep under glass near the counter.."
+    "And my favorite, the pastries they usually keep under glass near the counter.."
 
 # game/episode1.rpy:727
 translate Tchinese commonroute_adc2e9d3:
@@ -3187,10 +3187,10 @@ translate Tchinese commonroute_ece94cd1:
     "The fish redirects the glare at the dog in front of us."
 
 # game/episode1.rpy:1228
-translate Tchinese commonroute_46067dfc:
+translate Tchinese commonroute_81f3cc4e:
 
-    # ish "TO DAVY JONES'S LOCKER WITH YE!"
-    ish "TO DAVY JONES'S LOCKER WITH YE!"
+    # ish "TO DAVY JONES' LOCKER WITH YE!"
+    ish "TO DAVY JONES' LOCKER WITH YE!"
 
 # game/episode1.rpy:1230
 translate Tchinese commonroute_ead2d6d5:
@@ -4105,10 +4105,10 @@ translate Tchinese commonroute_afb1f0d7:
     "The screen flashes to life, lighting up the room and almost incinerating my retinas in the process."
 
 # game/episode1.rpy:1575
-translate Tchinese commonroute_90aa142b:
+translate Tchinese commonroute_fe5a6f9d:
 
-    # TV "Good evening, Alex de Rooij. The date is Friday, April 16, 2035. The time is 22:56."
-    TV "Good evening, Alex de Rooij. The date is Friday, April 16, 2035. The time is 22:56."
+    # TV "Good evening, Alex de Rooij. The date is Friday, April 20, 2035. The time is 22:56."
+    TV "Good evening, Alex de Rooij. The date is Friday, April 20, 2035. The time is 22:56."
 
 # game/episode1.rpy:1576
 translate Tchinese commonroute_60877da6:

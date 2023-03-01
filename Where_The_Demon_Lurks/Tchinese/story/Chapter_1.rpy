@@ -2191,24 +2191,12 @@ translate Tchinese chapter_1_f9dc0742:
     "他舉起右手，指尖凝聚出一根發光的白色羽毛。"
 
 # game/story/Chapter_1.rpy:1308
-translate Tchinese chapter_1_32ec74fa:
-
-    # p "That's..."
-    p "那是……"
-
-# game/story/Chapter_1.rpy:1312
 translate Tchinese chapter_1_d26ba806:
 
     # "With a flick of his wrist, the feather zooms towards the ghost."
     "他手腕輕輕一揮，羽毛便如箭一般射向鬼魂。"
 
 # game/story/Chapter_1.rpy:1313
-translate Tchinese chapter_1_6b4527a0:
-
-    # Gho "Huh?"
-    Gho "蛤？"
-
-# game/story/Chapter_1.rpy:1323
 translate Tchinese chapter_1_cd5703bc:
 
     # "The ghost’s body elongates and warps itself into the shape of a spring letting the arrow fly right through and buries itself in the barrier like a bolt on a dartboard."
@@ -2227,12 +2215,6 @@ translate Tchinese chapter_1_90bc3a60:
     "並對著他吐舌頭。"
 
 # game/story/Chapter_1.rpy:1336
-translate Tchinese chapter_1_46bcc734:
-
-    # "The golden retriever growls and conjures up three more feathers."
-    "金毛低吼著，又凝聚出三根羽毛。"
-
-# game/story/Chapter_1.rpy:1498
 translate Tchinese chapter_1_ce0cbaff:
 
     # Dog "Stay still!"
@@ -2287,12 +2269,6 @@ translate Tchinese chapter_1_1e204bdc:
     Dog "這是我的義務！"
 
 # game/story/Chapter_1.rpy:1421
-translate Tchinese chapter_1_9b16ecbd:
-
-    # p "No! You’re making a mess of the store, and stop using your powers. Someone's going to see you on the recording!"
-    p "狗屁，你都快把我們店炸飛了！還有拜託你手下留情，監控會拍到的！"
-
-# game/story/Chapter_1.rpy:1425
 translate Tchinese chapter_1_4ca8760e:
 
     # "You point to the camera right above you."
@@ -3455,6 +3431,8 @@ translate Tchinese chapter_1_1ec962d1:
 
     # K "{i}[name], da shop's closed for three days to fix all the damage. Want 2 come 2 my place and do DDXIV all night?{i}"
     K "{i}[name]，我們店要關門維修三天，要不要來我家通宵打DDXIV？{i}"
+
+# game/story/Chapter_1.rpy:2350
 translate Tchinese chapter_1_868502c6:
 
     # "Your sleepy eyes widen and you tap your reply back."
@@ -6778,7 +6756,21 @@ translate Tchinese ch1_cleanup_da4ac905:
     # "You close your eyes and slowly you drift off to sleep."
     "你闔上雙眼，緩緩進入了夢鄉。"
 
+# TODO: Translation updated at 2023-03-01 22:01
+
 # game/story/Chapter_1.rpy:4290
+translate Tchinese chapter_1_3a978ed8:
+
+    # Gho "Huh?" (cb_no_talk=True)
+    Gho "蛤？" (cb_no_talk=True)
+
+# game/story/Chapter_1.rpy:1407
+translate Tchinese chapter_1_9aa3e6a2:
+
+    # p angry "No! You’re making a mess of the store, and stop using your powers. Someone's going to see you on the recording!"
+    p angry "狗屁，你都快把我們店炸飛了！還有拜託你手下留情，監控會拍到的！"
+
+# game/story/Chapter_1.rpy:1606
 translate Tchinese strings:
 
     # game/story/Chapter_1.rpy:3
@@ -6805,55 +6797,55 @@ translate Tchinese strings:
     old "King's my friend and I'm forever indebted to him for helping me rebuild my life after... the event. He's sweet, has a talent for cooking and cares a whole lot;  he's arguably the nicest soul I've ever met. Even after I found my own place, he still checks up on me and I appreciate that. I wish I could repay him somehow for all his generosity. I can't imagine what would have happened if I didn't run into him that day..."
     new "King是我的朋友，他在……那個事件發生後幫助我重建了新的生活。\n他的大恩大德，我會永遠銘記心中。\n他人很可愛，有烹飪天賦，還特别照顧我，可以説是我見過最善良的人。\n即使在我找到住處後，他仍時不時過來看我，我對此非常感激。\n真希望我可以報答他的慷慨。\n我不敢想像，假如那天没有遇到他的話，我……"
 
-    # game/story/Chapter_1.rpy:2398
+    # game/story/Chapter_1.rpy:2524
     old "Lucian{#journal}"
     new "Lucian{#journal}"
 
-    # game/story/Chapter_1.rpy:2398
+    # game/story/Chapter_1.rpy:2524
     old "Just my luck! Right when I'm starting to get used to my mortal life, a freaking angel shows up! Why? Gary sure wasn't in a rush to send help when I tried to reach him before. Then again, he did say that most prayers end up in his spam bin. Still, I don't like him! Just cuz he looks good in some designer clothes and has that anime-boy-haircut, doesn't mean he gets a free pass to act like the most important person in the room...right? Ughhhh, he's just so smug, I can pull off an anime haircut too! If... I had my old build..."
     new "倒楣！就在我開始習慣凡人生活的時候，一個怪天使出現了！可是爲什麽？Gary明明把我之前的求助當耳邊風。\n不過，他確實有説大部分祈禱最後都進了他的垃圾信箱。\n可我還是不喜歡那個天使！他穿著名牌服裝，留著殺馬特頭，但這不意味著他高人一等……不是嗎？\n可惡，他也太自以爲是了，我也要做個酷炫的造型！前提是……等我恢復從前的身材……"
 
-    # game/story/Chapter_1.rpy:2449
+    # game/story/Chapter_1.rpy:2575
     old "Put your bed away"
     new "整理你的床"
 
-    # game/story/Chapter_1.rpy:2449
+    # game/story/Chapter_1.rpy:2575
     old "Clean up the pile of clothes in the corner"
     new "洗堆在牆角衣服"
 
-    # game/story/Chapter_1.rpy:2449
+    # game/story/Chapter_1.rpy:2575
     old "Clean up the rubbish on your table"
     new "打掃桌子上的垃圾"
 
-    # game/story/Chapter_1.rpy:2675
+    # game/story/Chapter_1.rpy:2801
     old "Up Above{#journal}"
     new "天界{#journal}"
 
-    # game/story/Chapter_1.rpy:2675
+    # game/story/Chapter_1.rpy:2801
     old "If the Underworld is a soul crushing company, the Up Above is a five star hotel. The perfect place to have all your dreams and desires come true, if your soul passes judgement. I've always considered Gary to be lucky to run the place. I mean, who wouldn't want to run a chill place where you make everyone happy until they turn into pure energy? Wish I could get a place there myself, but for some reason it's always fully booked."
     new "如果説冥界是一間主打靈魂粉碎的公司，那天界就是五星級酒店了：一個只有通過了審判的靈魂才能去往的、可以實現一切夢想的完美世界。\nGary那家伙可真走運，畢竟誰不想經營一個讓靈魂幸福到化作純粹能量的地方呢？\n我都想去體驗一番了，但不知道爲什麽，那地方總是客滿。"
 
-    # game/story/Chapter_1.rpy:3082
+    # game/story/Chapter_1.rpy:3208
     old "Agree to watch the show"
     new "同意邊吃邊看番劇"
 
-    # game/story/Chapter_1.rpy:3082
+    # game/story/Chapter_1.rpy:3208
     old "Ask to eat and talk"
     new "提議邊吃邊聊"
 
-    # game/story/Chapter_1.rpy:3635
+    # game/story/Chapter_1.rpy:3761
     old "Toast{#journal}"
     new "Toast{#journal}"
 
-    # game/story/Chapter_1.rpy:3635
+    # game/story/Chapter_1.rpy:3761
     old "This ghost is dumb."
     new "這個幽靈腦筋不太正常。"
 
-    # game/story/Chapter_1.rpy:4263
+    # game/story/Chapter_1.rpy:4389
     old "Morris{#journal}"
     new "Morris{#journal}"
 
-    # game/story/Chapter_1.rpy:4263
+    # game/story/Chapter_1.rpy:4389
     old "So this silver-tongued piggy is an exorcist, huh? A crooked one at that if how he acted in the shop is any indicator of how he conducts his work. Not that I blame him, exorcists are a dying breed ever since Paw legislated strict restrictions on demonic influences here on Earth. If he were to find out what I really am, I doubt he'd just let me leave town."
     new "所以這頭伶牙俐齒的小猪是個驅魔師？\n要不是他在超商露了一手，我還以爲他是江湖騙子呢。\n倒也不是不能理解，自從老爸頒布了法律，嚴格限制惡魔在人界的活動後，驅魔師這個職業就瀕臨滅绝了。\n如果他發現我的真實身份，怕不是會直接把我趕出鎮子吧。"
 

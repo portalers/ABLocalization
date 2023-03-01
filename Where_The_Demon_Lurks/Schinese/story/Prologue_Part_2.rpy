@@ -2078,3 +2078,14 @@ translate Schinese prologue_part_2_23b89c77:
     # Amar shocked "Nox! What are you doing?"
     Amar shocked "Nox！你还愣着干什么？"
 
+# game/story/Prologue_Part_2.rpy:1463
+translate Schinese prologue_part_2_ac24b467:
+
+    # "Vendrake tosses you into the air again, {nw}"
+    "Vendrake tosses you into the air again, {nw}"
+
+# game/story/Prologue_Part_2.rpy:1542
+translate Schinese prologue_part_2_5b0b55cb:
+
+    # extend "firing a blast of green energy at you."
+    extend "firing a blast of green energy at you."

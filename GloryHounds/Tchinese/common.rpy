@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-02-17 21:42
+﻿# TODO: Translation updated at 2023-03-01 21:50
 
 translate Tchinese strings:
 
@@ -85,10 +85,6 @@ translate Tchinese strings:
     # renpy/common/00accessibility.rpy:193
     old "Self-Voicing"
     new "Self-Voicing"
-
-    # renpy/common/00accessibility.rpy:197
-    old "Off"
-    new "Off"
 
     # renpy/common/00accessibility.rpy:201
     old "Text-to-speech"

@@ -1657,10 +1657,10 @@ translate Schinese chapter_L3_distraction_7328c517:
     "The feather ricochets off the cabinet pulling the attention of the guards."
 
 # game/story/Chapter_L3.rpy:877
-translate Schinese chapter_L3_distraction_9e6a6562:
+translate Schinese chapter_L3_distraction_db82f877:
 
-    # "It bounces again, and again. Slamming against the door and crashing into some rubbish bins outside."
-    "It bounces again, and again. Slamming against the door and crashing into some rubbish bins outside."
+    # "It bounces again and again. Slamming against the door and crashing into some rubbish bins outside."
+    "It bounces again and again. Slamming against the door and crashing into some rubbish bins outside."
 
 # game/story/Chapter_L3.rpy:879
 translate Schinese chapter_L3_distraction_24ef8d94:
@@ -4525,10 +4525,10 @@ translate Schinese chapter_L3_gin_dd521823:
     "Gin leers at Lucian."
 
 # game/story/Chapter_L3.rpy:2651
-translate Schinese chapter_L3_gin_cec351c9:
+translate Schinese chapter_L3_gin_c7bebaf0:
 
-    # Gin "Ohoho."
-    Gin "Ohoho."
+    # Gin neutral "Ohoho."
+    Gin neutral "Ohoho."
 
 # game/story/Chapter_L3.rpy:2657
 translate Schinese chapter_L3_gin_342cf220:

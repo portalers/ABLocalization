@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-02-17 21:42
+﻿# TODO: Translation updated at 2023-03-01 21:49
 
 translate Schinese strings:
 
@@ -146,187 +146,199 @@ translate Schinese strings:
     old "OpenDyslexic"
     new "OpenDyslexic"
 
-    # game/screens.rpy:883
+    # game/screens.rpy:876
+    old "Animated backgrounds"
+    new "Animated backgrounds"
+
+    # game/screens.rpy:877
+    old "On"
+    new "On"
+
+    # game/screens.rpy:878
+    old "Off"
+    new "Off"
+
+    # game/screens.rpy:888
     old "Text Speed"
     new "Text Speed"
 
-    # game/screens.rpy:887
+    # game/screens.rpy:892
     old "Auto-Forward Time"
     new "Auto-Forward Time"
 
-    # game/screens.rpy:894
+    # game/screens.rpy:899
     old "Music Volume"
     new "Music Volume"
 
-    # game/screens.rpy:901
+    # game/screens.rpy:906
     old "Sound Volume"
     new "Sound Volume"
 
-    # game/screens.rpy:907
+    # game/screens.rpy:912
     old "Test"
     new "Test"
 
-    # game/screens.rpy:911
+    # game/screens.rpy:916
     old "Voice Volume"
     new "Voice Volume"
 
-    # game/screens.rpy:922
+    # game/screens.rpy:927
     old "Mute All"
     new "Mute All"
 
-    # game/screens.rpy:1019
+    # game/screens.rpy:1024
     old "HISTORY"
     new "HISTORY"
 
-    # game/screens.rpy:1047
+    # game/screens.rpy:1052
     old "The dialogue history is empty."
     new "The dialogue history is empty."
 
-    # game/screens.rpy:1110
+    # game/screens.rpy:1115
     old "HELP"
     new "HELP"
 
-    # game/screens.rpy:1119
+    # game/screens.rpy:1124
     old "KEYBOARD"
     new "KEYBOARD"
 
-    # game/screens.rpy:1120
+    # game/screens.rpy:1125
     old "MOUSE"
     new "MOUSE"
 
-    # game/screens.rpy:1123
+    # game/screens.rpy:1128
     old "Gamepad"
     new "Gamepad"
 
-    # game/screens.rpy:1136
+    # game/screens.rpy:1141
     old "Enter"
     new "Enter"
 
-    # game/screens.rpy:1137
+    # game/screens.rpy:1142
     old "Advances dialogue and activates the interface."
     new "Advances dialogue and activates the interface."
 
-    # game/screens.rpy:1140
+    # game/screens.rpy:1145
     old "Space"
     new "Space"
 
-    # game/screens.rpy:1141
+    # game/screens.rpy:1146
     old "Advances dialogue without selecting choices."
     new "Advances dialogue without selecting choices."
 
-    # game/screens.rpy:1144
+    # game/screens.rpy:1149
     old "Arrow Keys"
     new "Arrow Keys"
 
-    # game/screens.rpy:1145
+    # game/screens.rpy:1150
     old "Navigate the interface."
     new "Navigate the interface."
 
-    # game/screens.rpy:1148
+    # game/screens.rpy:1153
     old "Escape"
     new "Escape"
 
-    # game/screens.rpy:1149
+    # game/screens.rpy:1154
     old "Accesses the game menu."
     new "Accesses the game menu."
 
-    # game/screens.rpy:1152
+    # game/screens.rpy:1157
     old "Ctrl"
     new "Ctrl"
 
-    # game/screens.rpy:1153
+    # game/screens.rpy:1158
     old "Skips dialogue while held down."
     new "Skips dialogue while held down."
 
-    # game/screens.rpy:1156
+    # game/screens.rpy:1161
     old "Tab"
     new "Tab"
 
-    # game/screens.rpy:1157
+    # game/screens.rpy:1162
     old "Toggles dialogue skipping."
     new "Toggles dialogue skipping."
 
-    # game/screens.rpy:1160
+    # game/screens.rpy:1165
     old "Page Up"
     new "Page Up"
 
-    # game/screens.rpy:1161
+    # game/screens.rpy:1166
     old "Rolls back to earlier dialogue."
     new "Rolls back to earlier dialogue."
 
-    # game/screens.rpy:1164
+    # game/screens.rpy:1169
     old "Page Down"
     new "Page Down"
 
-    # game/screens.rpy:1165
+    # game/screens.rpy:1170
     old "Rolls forward to later dialogue."
     new "Rolls forward to later dialogue."
 
-    # game/screens.rpy:1169
+    # game/screens.rpy:1174
     old "Hides the user interface."
     new "Hides the user interface."
 
-    # game/screens.rpy:1173
+    # game/screens.rpy:1178
     old "Takes a screenshot."
     new "Takes a screenshot."
 
-    # game/screens.rpy:1177
+    # game/screens.rpy:1182
     old "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
     new "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
 
-    # game/screens.rpy:1183
+    # game/screens.rpy:1188
     old "Left Click"
     new "Left Click"
 
-    # game/screens.rpy:1187
+    # game/screens.rpy:1192
     old "Middle Click"
     new "Middle Click"
 
-    # game/screens.rpy:1191
+    # game/screens.rpy:1196
     old "Right Click"
     new "Right Click"
 
-    # game/screens.rpy:1195
+    # game/screens.rpy:1200
     old "Mouse Wheel Up\nClick Rollback Side"
     new "Mouse Wheel Up\nClick Rollback Side"
 
-    # game/screens.rpy:1199
+    # game/screens.rpy:1204
     old "Mouse Wheel Down"
     new "Mouse Wheel Down"
 
-    # game/screens.rpy:1206
+    # game/screens.rpy:1211
     old "Right Trigger\nA/Bottom Button"
     new "Right Trigger\nA/Bottom Button"
 
-    # game/screens.rpy:1210
+    # game/screens.rpy:1215
     old "Left Trigger\nLeft Shoulder"
     new "Left Trigger\nLeft Shoulder"
 
-    # game/screens.rpy:1214
+    # game/screens.rpy:1219
     old "Right Shoulder"
     new "Right Shoulder"
 
-    # game/screens.rpy:1218
+    # game/screens.rpy:1223
     old "D-Pad, Sticks"
     new "D-Pad, Sticks"
 
-    # game/screens.rpy:1222
+    # game/screens.rpy:1227
     old "Start, Guide"
     new "Start, Guide"
 
-    # game/screens.rpy:1226
+    # game/screens.rpy:1231
     old "Y/Top Button"
     new "Y/Top Button"
 
-    # game/screens.rpy:1229
+    # game/screens.rpy:1234
     old "Calibrate"
     new "Calibrate"
 
-    # game/screens.rpy:1352
+    # game/screens.rpy:1398
     old "Skipping"
     new "Skipping"
 
-    # game/screens.rpy:1579
+    # game/screens.rpy:1625
     old "Menu"
     new "Menu"
 

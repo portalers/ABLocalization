@@ -1,6 +1,18 @@
-﻿# TODO: Translation updated at 2023-02-15 21:54
+﻿# TODO: Translation updated at 2023-03-01 22:01
 
 # game/story/Chapter_L3.rpy:17
+translate Tchinese chapter_L3_5287a94c:
+
+    # "The evening sun paints the sky a warm orange hue. Though the peaceful atmosphere would be welcoming for anyone after a day of hard work, you still have things to do."
+    "The evening sun paints the sky a warm orange hue. Though the peaceful atmosphere would be welcoming for anyone after a day of hard work, you still have things to do."
+
+# game/story/Chapter_L3.rpy:19
+translate Tchinese chapter_L3_5cb24b89:
+
+    # "Lucian leads you to the shopping district. At the entrance he pulls out his H.A.L.O and taps it twice on the top."
+    "Lucian leads you to the shopping district. At the entrance he pulls out his H.A.L.O and taps it twice on the top."
+
+# game/story/Chapter_L3.rpy:21
 translate Tchinese chapter_L3_c0f2a954:
 
     # "A layer of static covers the H.A.L.O, transforming it into a tablet."
@@ -37,12 +49,30 @@ translate Tchinese chapter_L3_9cbec2c4:
     L "不對……等一下——"
 
 # game/story/Chapter_L3.rpy:40
+translate Tchinese chapter_L3_72e16025:
+
+    # "He suddenly pivots and walks into a boutique."
+    "He suddenly pivots and walks into a boutique."
+
+# game/story/Chapter_L3.rpy:42
 translate Tchinese chapter_L3_8e15d2c0:
 
     # p shocked "Lucian!"
     p shocked "Lucian！"
 
 # game/story/Chapter_L3.rpy:46
+translate Tchinese chapter_L3_90a8d57a:
+
+    # "You follow him inside, being led around the shop."
+    "You follow him inside, being led around the shop."
+
+# game/story/Chapter_L3.rpy:48
+translate Tchinese chapter_L3_f781d6bb:
+
+    # "He walks straight through a rack of dresses that you have to hurriedly pull off his head on his way back out of the store."
+    "He walks straight through a rack of dresses that you have to hurriedly pull off his head on his way back out of the store."
+
+# game/story/Chapter_L3.rpy:50
 translate Tchinese chapter_L3_6cf2d98e:
 
     # p "Lucian, where the heck are you going?"
@@ -55,18 +85,60 @@ translate Tchinese chapter_L3_e1d04352:
     L "我在找信號，快跟上！"
 
 # game/story/Chapter_L3.rpy:62
+translate Tchinese chapter_L3_7607c250:
+
+    # "The pinging rises and falls with no discernible pattern, but the dog relentlessly follows its beck and call, leading him into yet another store."
+    "The pinging rises and falls with no discernible pattern, but the dog relentlessly follows its beck and call, leading him into yet another store."
+
+# game/story/Chapter_L3.rpy:63
 translate Tchinese chapter_L3_dcb514cf:
 
     # "You let him enter on his own."
     "這次你沒有和他一起。"
 
 # game/story/Chapter_L3.rpy:66
+translate Tchinese chapter_L3_addb58cb:
+
+    # "Within five minutes, someone screams, followed by a loud slapping sound."
+    "Within five minutes, someone screams, followed by a loud slapping sound."
+
+# game/story/Chapter_L3.rpy:74
+translate Tchinese chapter_L3_2508685a:
+
+    # "Lucian rushes out of the store and briskly walks past you. He’s covering his left cheek with one hand while his other hand keeps a steady grip on the H.A.L.O, never taking his eyes off it."
+    "Lucian rushes out of the store and briskly walks past you. He’s covering his left cheek with one hand while his other hand keeps a steady grip on the H.A.L.O, never taking his eyes off it."
+
+# game/story/Chapter_L3.rpy:87
+translate Tchinese chapter_L3_61dd10bc:
+
+    # "He mumbles something to himself before walking through a crowd — cutting off, and bumping into anyone he crosses, despite their exasperated cries."
+    "He mumbles something to himself before walking through a crowd — cutting off, and bumping into anyone he crosses, despite their exasperated cries."
+
+# game/story/Chapter_L3.rpy:90
+translate Tchinese chapter_L3_05a23d51:
+
+    # "You walk behind him with your head low."
+    "You walk behind him with your head low."
+
+# game/story/Chapter_L3.rpy:92
 translate Tchinese chapter_L3_67bc5b50:
 
     # p @ nervous "Sorry, sorry!"
     p @ nervous "對不起，對不起！"
 
 # game/story/Chapter_L3.rpy:96
+translate Tchinese chapter_L3_92c91b8c:
+
+    # "Reaching out and seizing Lucian’s wrist, you yank him to a halt."
+    "Reaching out and seizing Lucian’s wrist, you yank him to a halt."
+
+# game/story/Chapter_L3.rpy:97
+translate Tchinese chapter_L3_7ebe4d00:
+
+    # p "Dude, stop running around at random. You’re bothering people."
+    p "Dude, stop running around at random. You’re bothering people."
+
+# game/story/Chapter_L3.rpy:99
 translate Tchinese chapter_L3_3623fd8b:
 
     # L "But the H.A.L.O says the gate is somewhere here."
@@ -79,6 +151,24 @@ translate Tchinese chapter_L3_81c294f1:
     p "你見過誰家大門會跑的嗎？"
 
 # game/story/Chapter_L3.rpy:104
+translate Tchinese chapter_L3_851fa6b9:
+
+    # L "It doesn’t have to be a literal gate, it’s just a name. The thing could be floating for all I know."
+    L "It doesn’t have to be a literal gate, it’s just a name. The thing could be floating for all I know."
+
+# game/story/Chapter_L3.rpy:105
+translate Tchinese chapter_L3_ed13628c:
+
+    # p @ confused "There’s clearly nothing here."
+    p @ confused "There’s clearly nothing here."
+
+# game/story/Chapter_L3.rpy:107
+translate Tchinese chapter_L3_14765f95:
+
+    # L sad "Well… Welllll… But the H.A.L.O."
+    L sad "Well… Welllll… But the H.A.L.O."
+
+# game/story/Chapter_L3.rpy:111
 translate Tchinese chapter_L3_de124430:
 
     # p "It probably needs a good tap. Give it here."
@@ -161,96 +251,6 @@ translate Tchinese chapter_L3_d6d3e590:
 
     # p_mono confused "Where to start?"
     p_mono confused "從哪開始呢？"
-translate Tchinese chapter_L3_5287a94c:
-
-    # "The evening sun paints the sky a warm orange hue. Though the peaceful atmosphere would be welcoming for anyone after a day of hard work, you still have things to do."
-    "The evening sun paints the sky a warm orange hue. Though the peaceful atmosphere would be welcoming for anyone after a day of hard work, you still have things to do."
-
-# game/story/Chapter_L3.rpy:19
-translate Tchinese chapter_L3_5cb24b89:
-
-    # "Lucian leads you to the shopping district. At the entrance he pulls out his H.A.L.O and taps it twice on the top."
-    "Lucian leads you to the shopping district. At the entrance he pulls out his H.A.L.O and taps it twice on the top."
-
-# game/story/Chapter_L3.rpy:21
-translate Tchinese chapter_L3_72e16025:
-
-    # "He suddenly pivots and walks into a boutique."
-    "He suddenly pivots and walks into a boutique."
-
-# game/story/Chapter_L3.rpy:42
-translate Tchinese chapter_L3_90a8d57a:
-
-    # "You follow him inside, being led around the shop."
-    "You follow him inside, being led around the shop."
-
-# game/story/Chapter_L3.rpy:48
-translate Tchinese chapter_L3_f781d6bb:
-
-    # "He walks straight through a rack of dresses that you have to hurriedly pull off his head on his way back out of the store."
-    "He walks straight through a rack of dresses that you have to hurriedly pull off his head on his way back out of the store."
-
-# game/story/Chapter_L3.rpy:50
-translate Tchinese chapter_L3_7607c250:
-
-    # "The pinging rises and falls with no discernible pattern, but the dog relentlessly follows its beck and call, leading him into yet another store."
-    "The pinging rises and falls with no discernible pattern, but the dog relentlessly follows its beck and call, leading him into yet another store."
-
-# game/story/Chapter_L3.rpy:63
-translate Tchinese chapter_L3_addb58cb:
-
-    # "Within five minutes, someone screams, followed by a loud slapping sound."
-    "Within five minutes, someone screams, followed by a loud slapping sound."
-
-# game/story/Chapter_L3.rpy:74
-translate Tchinese chapter_L3_2508685a:
-
-    # "Lucian rushes out of the store and briskly walks past you. He’s covering his left cheek with one hand while his other hand keeps a steady grip on the H.A.L.O, never taking his eyes off it."
-    "Lucian rushes out of the store and briskly walks past you. He’s covering his left cheek with one hand while his other hand keeps a steady grip on the H.A.L.O, never taking his eyes off it."
-
-# game/story/Chapter_L3.rpy:87
-translate Tchinese chapter_L3_61dd10bc:
-
-    # "He mumbles something to himself before walking through a crowd — cutting off, and bumping into anyone he crosses, despite their exasperated cries."
-    "He mumbles something to himself before walking through a crowd — cutting off, and bumping into anyone he crosses, despite their exasperated cries."
-
-# game/story/Chapter_L3.rpy:90
-translate Tchinese chapter_L3_05a23d51:
-
-    # "You walk behind him with your head low."
-    "You walk behind him with your head low."
-
-# game/story/Chapter_L3.rpy:92
-translate Tchinese chapter_L3_92c91b8c:
-
-    # "Reaching out and seizing Lucian’s wrist, you yank him to a halt."
-    "Reaching out and seizing Lucian’s wrist, you yank him to a halt."
-
-# game/story/Chapter_L3.rpy:97
-translate Tchinese chapter_L3_7ebe4d00:
-
-    # p "Dude, stop running around at random. You’re bothering people."
-    p "Dude, stop running around at random. You’re bothering people."
-
-# game/story/Chapter_L3.rpy:99
-translate Tchinese chapter_L3_851fa6b9:
-
-    # L "It doesn’t have to be a literal gate, it’s just a name. The thing could be floating for all I know."
-    L "It doesn’t have to be a literal gate, it’s just a name. The thing could be floating for all I know."
-
-# game/story/Chapter_L3.rpy:105
-translate Tchinese chapter_L3_ed13628c:
-
-    # p @ confused "There’s clearly nothing here."
-    p @ confused "There’s clearly nothing here."
-
-# game/story/Chapter_L3.rpy:107
-translate Tchinese chapter_L3_14765f95:
-
-    # L sad "Well… Welllll… But the H.A.L.O."
-    L sad "Well… Welllll… But the H.A.L.O."
-
-# game/story/Chapter_L3.rpy:111
 translate Tchinese chapter_L3_2f45edee:
 
     # p_mono question "A gate that can break through the realm of the living? That would’ve taken up tons of soul energy… Not to mention the ritual would have required a lot of space."
@@ -1654,13 +1654,13 @@ translate Tchinese chapter_L3_distraction_7328c517:
     # "The feather ricochets off the cabinet pulling the attention of the guards."
     "The feather ricochets off the cabinet pulling the attention of the guards."
 
+# game/story/Chapter_L3.rpy:911
+translate Tchinese chapter_L3_distraction_db82f877:
+
+    # "It bounces again and again. Slamming against the door and crashing into some rubbish bins outside."
+    "It bounces again and again. Slamming against the door and crashing into some rubbish bins outside."
+
 # game/story/Chapter_L3.rpy:877
-translate Tchinese chapter_L3_distraction_9e6a6562:
-
-    # "It bounces again, and again. Slamming against the door and crashing into some rubbish bins outside."
-    "It bounces again, and again. Slamming against the door and crashing into some rubbish bins outside."
-
-# game/story/Chapter_L3.rpy:879
 translate Tchinese chapter_L3_distraction_24ef8d94:
 
     # Person_A "They’re making a run for it!"
@@ -4522,13 +4522,13 @@ translate Tchinese chapter_L3_gin_dd521823:
     # "Gin leers at Lucian."
     "Gin leers at Lucian."
 
+# game/story/Chapter_L3.rpy:2700
+translate Tchinese chapter_L3_gin_c7bebaf0:
+
+    # Gin neutral "Ohoho."
+    Gin neutral "Ohoho."
+
 # game/story/Chapter_L3.rpy:2651
-translate Tchinese chapter_L3_gin_cec351c9:
-
-    # Gin "Ohoho."
-    Gin "Ohoho."
-
-# game/story/Chapter_L3.rpy:2657
 translate Tchinese chapter_L3_gin_342cf220:
 
     # "He steps close to the angel and stares him down. The snake’s forked tongue darts in and out of his wicked smile."
@@ -5128,17 +5128,18 @@ translate Tchinese chapter_L3_gin_55566b14:
     # "{b}TO BE CONTINUED....{/b}"
     "{b}TO BE CONTINUED....{/b}"
 
+# game/story/Chapter_L3.rpy:2706
 translate Tchinese strings:
 
-    # game/story/Chapter_L3.rpy:815
+    # game/story/Chapter_L3.rpy:833
     old "Pick yourself"
     new "Pick yourself"
 
-    # game/story/Chapter_L3.rpy:815
+    # game/story/Chapter_L3.rpy:833
     old "Pick Lucian"
     new "Pick Lucian"
 
-    # game/story/Chapter_L3.rpy:815
+    # game/story/Chapter_L3.rpy:833
     old "Pick Toast"
     new "Pick Toast"
 
