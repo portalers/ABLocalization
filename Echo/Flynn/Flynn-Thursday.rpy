@@ -1,4 +1,6 @@
-﻿# game/Flynn-Thursday.rpy:14
+﻿# TODO: Translation updated at 2023-02-19 00:53
+
+# game/Flynn-Thursday.rpy:14
 translate Schinese flynnthursday_3b526b13:
 
     # "I open my eyes blearily, waking up to the sound of something pounding in the distance."
@@ -707,12 +709,12 @@ translate Schinese flynnthursday_8234aed2:
     "Leo不能接受我们的关系，那是我的错么？我有权做我想做的事情吧？"
 
 # game/Flynn-Thursday.rpy:136
-translate Schinese flynnthursday_364897ca:
+translate Schinese flynnthursday_36ac867c:
 
-    # "I sigh and press my forehead into the bed, much Flynn had pushed his head against the window."
+    # "I sigh and press my forehead into the bed."
     "我叹了口气，学着Flynn刚刚的动作将前额抵在了床上。"
 
-# game/Flynn-Thursday.rpy:137
+# game/Flynn-Thursday.rpy:145
 translate Schinese flynnthursday_f3ba083b:
 
     # "Staring at my crotch, that's when I realize that I'm still naked."
@@ -1025,12 +1027,12 @@ translate Schinese flynnthursday_9846ead0:
     f "\"那他该多洗洗的。\""
 
 # game/Flynn-Thursday.rpy:193
-translate Schinese flynnthursday_5ebeecd2:
+translate Schinese flynnthursday_7ff4af2d:
 
-    # "There's a small silence and I imagine that Leo just gave him a look that shattered any surely confidence he might have had."
+    # "There's a small silence and I imagine that Leo just gave him a look that shattered any surly confidence he might have had."
     "又是一阵短暂的沉默，我想现在Leo肯定一副自信全无的表情吧。"
 
-# game/Flynn-Thursday.rpy:194
+# game/Flynn-Thursday.rpy:202
 translate Schinese flynnthursday_8f535421:
 
     # f "\"Like I said, he was here for like an hour yesterday.\""
@@ -2705,12 +2707,12 @@ translate Schinese flynnthursday_e56e1cf1:
     c "\"不用担心，伙计，我经常没事儿去拿儿和他瞎聊。我们可以问问他。\""
 
 # game/Flynn-Thursday.rpy:505
-translate Schinese flynnthursday_ffbd9677:
+translate Schinese flynnthursday_e2252719:
 
-    # "Thing's aren't exactly cool between Flynn and I right now, but it's something to do."
+    # "Things aren't exactly cool between Flynn and I right now, but it's something to do."
     "如今的我和Flynn之间仍有些尴尬，可这的确是我该做的事。"
 
-# game/Flynn-Thursday.rpy:506
+# game/Flynn-Thursday.rpy:514
 translate Schinese flynnthursday_39efee91:
 
     # "I'm so behind on my project at this point, I don't have any excuses..."
@@ -2963,12 +2965,12 @@ translate Schinese flynnthursday_f3c21d5e:
     "Carl 叹了口气，拽开了门板。"
 
 # game/Flynn-Thursday.rpy:562
-translate Schinese flynnthursday_5f2a5838:
+translate Schinese flynnthursday_9dcf67ce:
 
-    # "A few crumpled receipts, my registration slip, an insurance brochure, and a pair slightly dusty sunglasses are visible in the compartment."
+    # "A few crumpled receipts, my registration slip, an insurance brochure, and a pair of slightly dusty sunglasses are visible in the compartment."
     "我在隔间里能看到几张皱巴巴的收据，我的车辆登记单，一张保险宣传单，以及一副占了点尘的太阳镜。"
 
-# game/Flynn-Thursday.rpy:563
+# game/Flynn-Thursday.rpy:571
 translate Schinese flynnthursday_e4af6d3a:
 
     # c "\"Aw, they're tortoise shell...\""
@@ -5219,12 +5221,12 @@ translate Schinese mailroom_96c65766:
     f "\"没人像我一样了解他。\""
 
 # game/Flynn-Thursday.rpy:1114
-translate Schinese mailroom_0efd339e:
+translate Schinese mailroom_69bc8b9b:
 
-    # m "\"You've said that, but that doesn't mean the crap he pulled on us - on TJ - was any way justified.\""
+    # m "\"You've said that, but that doesn't mean the crap he pulled on us - on TJ - was in any way justified.\""
     m "\"这话你早就说过，但这不代表他对我们——对TJ——做的那些事情就会变得有丝毫合理性。\""
 
-# game/Flynn-Thursday.rpy:1115
+# game/Flynn-Thursday.rpy:1123
 translate Schinese mailroom_da383ee9:
 
     # m "\"I'm pretty sure he genuinely enjoyed watching people get hurt.\""
@@ -5675,12 +5677,12 @@ translate Schinese documents_picking_location_69be35bc:
     "在该州的其他矿井，矿工们可能会在40摄氏度的环境下站在两英尺深的的脏水里——"
 
 # game/Flynn-Thursday.rpy:1228
-translate Schinese documents_picking_location_ad8ee3d7:
+translate Schinese documents_picking_location_e7b35a65:
 
-    # "-all the while with the looming threat of a cave-in being a very real threat, amplified with every strike of the sledgehammer."
+    # "-all while the threat of a cave-in loomed, amplified with every strike of the sledgehammer."
     "——一直以来，矿井塌方的威胁是一个非常现实的威胁，而且随着大锤的每一次冲击而加剧。"
 
-# game/Flynn-Thursday.rpy:1229
+# game/Flynn-Thursday.rpy:1237
 translate Schinese documents_picking_location_ee7fdefd:
 
     # "Yet even still, the mine managed to have one of the highest casualty rates for its workers in all the southwest."
@@ -5897,12 +5899,12 @@ translate Schinese documents_picking_location_0fc453f0:
     "肯定是她的一个远亲吧。"
 
 # game/Flynn-Thursday.rpy:1286
-translate Schinese documents_picking_location_e858d8bc:
+translate Schinese documents_picking_location_c3e0146f:
 
-    # "The rest of the documents in the folder just seems to consist mostly of proposed extensions and use changes for the building."
+    # "The rest of the documents in the folder just seem to consist of proposed additions and use changes for the building."
     "剩下的文件基本上是些对这栋建筑进行改动和扩展的提议。"
 
-# game/Flynn-Thursday.rpy:1287
+# game/Flynn-Thursday.rpy:1295
 translate Schinese documents_picking_location_cb0bcf5d:
 
     # "A lot of them didn't pan out."
@@ -7031,12 +7033,12 @@ translate Schinese documents_done_picking_58233945:
     da "\"那真是太酷了。\""
 
 # game/Flynn-Thursday.rpy:1565
-translate Schinese documents_done_picking_f6b2317c:
+translate Schinese documents_done_picking_41e9bcf9:
 
-    # "Carl's looks sidelong, then back to Daxton."
+    # "Carl looks off to the side, then back to Daxton."
     "Carl别过了眼神，然后看回Daxton。"
 
-# game/Flynn-Thursday.rpy:1566
+# game/Flynn-Thursday.rpy:1574
 translate Schinese documents_done_picking_40ba253b:
 
     # c "\"Glad you think so, I guess.\""
@@ -7397,12 +7399,12 @@ translate Schinese documents_done_picking_6bf96d4b:
     "蝾螈试着露出最纯洁的表情。"
 
 # game/Flynn-Thursday.rpy:1638
-translate Schinese documents_done_picking_1ea26aae:
+translate Schinese documents_done_picking_0907e192:
 
-    # "That lasts for about three second before breaking into a wry smile at Carl's groaning, the ram taking a long swig from his beer."
+    # "That lasts for about three seconds before breaking into a wry smile at Carl's groaning, the ram taking a long swig from his beer."
     "那之后大概三秒钟的停顿，被Carl 冷笑似的一声哼打断了。之后公羊灌了一大口啤酒。"
 
-# game/Flynn-Thursday.rpy:1639
+# game/Flynn-Thursday.rpy:1647
 translate Schinese documents_done_picking_22bc215c:
 
     # "He's grinning too now, though."
@@ -10589,12 +10591,12 @@ translate Schinese documents_done_picking_c3accef2:
     "几十年份量的陈年老烟味儿和尘味儿瞬时朝着我的鼻子冲了过来。"
 
 # game/Flynn-Thursday.rpy:2353
-translate Schinese documents_done_picking_076db820:
+translate Schinese documents_done_picking_0fab687d:
 
-    # "Daxton coughs, trying to muffle himself as we see the shadows of various patrons throuhout the dimly-lit bar."
+    # "Daxton coughs, trying to muffle himself as we see the shadows of various patrons throughout the dimly-lit bar."
     "Daxton咳了几声，似乎是想要屏住呼吸；而在这灯光昏暗的酒吧里，我们能看到好几个顾客的影子。"
 
-# game/Flynn-Thursday.rpy:2354
+# game/Flynn-Thursday.rpy:2362
 translate Schinese documents_done_picking_f1167a8d:
 
     # "Everything near the counter is illuminated up with a sort of green tinge, while the rest of establishment has red lighting."
@@ -11381,12 +11383,12 @@ translate Schinese documents_done_picking_c23eadc8:
     "他蠕动身躯，急忙从那只马的拥抱中扭出来，然后绊着走向了Flynn一一几乎是在Ryan身上爬过去。"
 
 # game/Flynn-Thursday.rpy:2506
-translate Schinese documents_done_picking_5a904aeb:
+translate Schinese documents_done_picking_13bd1d8c:
 
-    # "Everyone seems to freeze in place as the fox pushes her muzzle up close to Flynn's."
-    "看到狐狸把他的吻部靠近Flynn的， 所有人似乎都僵在了原地。"
+    # "Everyone seems to freeze in place as the fox pushes their muzzle up close to Flynn's."
+    "看到狐狸把他的吻部靠近Flynn的，所有人似乎都僵在了原地。"
 
-# game/Flynn-Thursday.rpy:2507
+# game/Flynn-Thursday.rpy:2515
 translate Schinese documents_done_picking_fd88a317:
 
     # "Flynn looks dull-eyed back at the fennec."
@@ -12299,12 +12301,12 @@ translate Schinese documents_done_picking_34c00f95:
     "我快速地打量四周，意识到地板是木质的，上面有一层灰尘、污物和花生壳。"
 
 # game/Flynn-Thursday.rpy:2677
-translate Schinese documents_done_picking_8f825fd6:
+translate Schinese documents_done_picking_8be3fb3f:
 
-    # "The smell of spilled beer, cigarettes, and sweat is a combination of the likes I've never smelt stronger."
+    # "The smell of spilled beer, cigarettes, and sweat is a combination of the likes of which I've never smelt stronger."
     "洒出来的啤酒，香烟和汗臭的味道混合起来，形成了一种我从未闻过的强烈味道。"
 
-# game/Flynn-Thursday.rpy:2678
+# game/Flynn-Thursday.rpy:2686
 translate Schinese documents_done_picking_f4a18c26:
 
     # "I turn, and Ryan's only a few feet in front of me, standing in the middle of the room with Casey. They're fucking."
@@ -12803,12 +12805,12 @@ translate Schinese documents_done_picking_2dffedfd:
     "这个大块头蜥蜴干咳了几下。"
 
 # game/Flynn-Thursday.rpy:2785
-translate Schinese documents_done_picking_62d579db:
+translate Schinese documents_done_picking_e683e4f2:
 
-    # f "\"I wasn't the one getting it in my dick, if that's what your asking. I'm a lizard, we don't got big urethras.\""
+    # f "\"I wasn't the one getting it in my dick, if that's what you're asking. I'm a lizard, we don't got big urethras.\""
     f "\"我可不是那种会把这东西放到我屌里面的人，如果你想问得是这个的话。而且我是条蜥蜴，我们的尿道不是很大。\""
 
-# game/Flynn-Thursday.rpy:2786
+# game/Flynn-Thursday.rpy:2794
 translate Schinese documents_done_picking_e3228594:
 
     # m "\"That's disgusting.\""
@@ -12821,12 +12823,12 @@ translate Schinese documents_done_picking_973dc273:
     "Flynn轻轻地自嘲了几声，他平时不会因为自己的笑话而笑出来，而且这次他的语气带着几丝难为情。"
 
 # game/Flynn-Thursday.rpy:2788
-translate Schinese documents_done_picking_74611cf4:
+translate Schinese documents_done_picking_7f6bc0dd:
 
-    # m "\"So -that's- where my missing handheld stylist went.\""
-    m "\"那——这么说的话——我以前丢了的手拿式按摩胶就是拿去干这个了啊。\""
+    # m "\"So -that's- where my missing handheld stylus went.\""
+    m "\"那——这么说的话——我以前丢了的手写笔就是拿去干这个了啊。\""
 
-# game/Flynn-Thursday.rpy:2789
+# game/Flynn-Thursday.rpy:3128
 translate Schinese documents_done_picking_65bb84ef:
 
     # f "\"Nah, that was probably Carl. I used one of your parents cantaloupes for gettin' off back in junior high, though.\""
@@ -14411,12 +14413,12 @@ translate Schinese documents_done_picking_2dffedfd_1:
     "这个大块头蜥蜴干咳了几下。"
 
 # game/Flynn-Thursday.rpy:3124
-translate Schinese documents_done_picking_62d579db_1:
+translate Schinese documents_done_picking_e683e4f2_1:
 
-    # f "\"I wasn't the one getting it in my dick, if that's what your asking. I'm a lizard, we don't got big urethras.\""
+    # f "\"I wasn't the one getting it in my dick, if that's what you're asking. I'm a lizard, we don't got big urethras.\""
     f "\"我可不是那种会把这东西放到我屌里面的人，如果你想问得是这个的话。而且我是条蜥蜴，我们的尿道不是很大。\""
 
-# game/Flynn-Thursday.rpy:3125
+# game/Flynn-Thursday.rpy:3123
 translate Schinese documents_done_picking_e3228594_1:
 
     # m "\"That's disgusting.\""
@@ -14429,12 +14431,12 @@ translate Schinese documents_done_picking_973dc273_1:
     "Flynn轻轻地自嘲了几声，他平时不会因为自己的笑话而笑出来，而且这次他的语气带着几丝难为情。"
 
 # game/Flynn-Thursday.rpy:3127
-translate Schinese documents_done_picking_7f6bc0dd:
+translate Schinese documents_done_picking_7f6bc0dd_1:
 
     # m "\"So -that's- where my missing handheld stylus went.\""
     m "\"那——这么说的话——我以前丢了的手写笔就是拿去干这个了啊。\""
 
-# game/Flynn-Thursday.rpy:3128
+# game/Flynn-Thursday.rpy:3126
 translate Schinese documents_done_picking_65bb84ef_1:
 
     # f "\"Nah, that was probably Carl. I used one of your parents cantaloupes for gettin' off back in junior high, though.\""
@@ -16937,12 +16939,12 @@ translate Schinese flynnfriday_4701361e:
     c "\"你说是就是吧。\""
 
 # game/Flynn-Thursday.rpy:3654
-translate Schinese flynnfriday_514964bf:
+translate Schinese flynnfriday_64a20060:
 
-    # "TJ seems to flinch at the lewd talk and Jenna quickly shifts her tone."
+    # "TJ flinches at the lewd talk and Jenna quickly shifts her tone."
     "TJ似乎并不满于这低俗的对话，而Jenna转言说道："
 
-# game/Flynn-Thursday.rpy:3655
+# game/Flynn-Thursday.rpy:3657
 translate Schinese flynnfriday_5798b0f7:
 
     # j "\"Continue, Chase.\""
@@ -17105,18 +17107,18 @@ translate Schinese flynnfriday_fe471560:
     da "\"但你们刚刚的意思是，那起矿井谋杀导致了回音镇的人口流失？\""
 
 # game/Flynn-Thursday.rpy:3683
-translate Schinese flynnfriday_a3d6a0af:
+translate Schinese flynnfriday_a3f7a264:
 
-    # j "\"The correlations do not imply causation, but this is for a journalism piece, not an academic paper.\""
+    # j "\"The correlations do not imply causation, but this is for Chase's video report, not an academic paper.\""
     j "\"关联并不代表着因果，但这是给新闻报道说明的，又不是什么学术研究。\""
 
-# game/Flynn-Thursday.rpy:3684
-translate Schinese flynnfriday_6175e3b0:
+# game/Flynn-Thursday.rpy:3686
+translate Schinese flynnfriday_0b01e4c0:
 
-    # j "\"Being interesting is more important than being thorough. At least these days.\""
+    # j "\"You know how it is. Being interesting is more important than being thorough.\""
     j "\"新闻的趣味性远比彻底性要重要，起码就这些时日而言。\""
 
-# game/Flynn-Thursday.rpy:3685
+# game/Flynn-Thursday.rpy:3687
 translate Schinese flynnfriday_923f5e64:
 
     # c "\"Your piece should be called {i}Top 10 Reasons Echo Depopulated from Evil Mine Murder - you won't believe reason #2{/i}.\""
@@ -18191,12 +18193,12 @@ translate Schinese flynnfriday_08572c8f:
     j "\"当然，Chase。\""
 
 # game/Flynn-Thursday.rpy:3961
-translate Schinese flynnfriday_2db5067e:
+translate Schinese flynnfriday_98354162:
 
-    # "Jenna sways her hips some, arms above her head, with her paws swaying in slow circles."
+    # "Jenna swaying her hips , arms above her head, with her paws swirling in slow circles."
     "Jenna把手举过了头顶，扭动起了她的臀部，她的爪子在空中慢慢地划着圈。"
 
-# game/Flynn-Thursday.rpy:3962
+# game/Flynn-Thursday.rpy:3964
 translate Schinese flynnfriday_71820b02:
 
     # "She's sort of like a less bawdy belly dancer."
@@ -18245,12 +18247,12 @@ translate Schinese flynnfriday_1d658ee9:
     t "\"过去几天我们都很想你，Chase。\""
 
 # game/Flynn-Thursday.rpy:3970
-translate Schinese flynnfriday_c340d909:
+translate Schinese flynnfriday_19518f5b:
 
-    # m "\"Thanks, TJ. I think I'll spending some more time with you guys the rest of the trip.\""
+    # m "\"Thanks, TJ. I think I'll be spending some more time with you guys for the rest of the week.\""
     m "\"谢谢，TJ，接下来的这段时间我会花更多时间陪你们的。\""
 
-# game/Flynn-Thursday.rpy:3971
+# game/Flynn-Thursday.rpy:3973
 translate Schinese flynnfriday_8ecff2e1:
 
     # "He smiles cheerily. Even Jenna looks pleased."
@@ -19739,12 +19741,12 @@ translate Schinese flynnfriday_c8848a24:
     "Daxton面露难色，他脸上的肌肉扭曲着，扯着嘴巴挤出了一个微笑。"
 
 # game/Flynn-Thursday.rpy:4301
-translate Schinese flynnfriday_c33ef1f0:
+translate Schinese flynnfriday_ac18ce01:
 
-    # da "\"Well, it's wasn't truly like a dream or nothing of the sort I'm familiar with.\""
+    # da "\"Well, it wasn't truly like a dream or nothing of the sort I'm familiar with.\""
     da "\"好吧，事实上这可能算不上是一场梦，但也不是任何我熟悉的任何东西。\""
 
-# game/Flynn-Thursday.rpy:4302
+# game/Flynn-Thursday.rpy:4304
 translate Schinese flynnfriday_27017a40:
 
     # da "\"Dreams are the sorting and categorizing of the happenings of the days by the subconscious of the mind.\""
@@ -22991,12 +22993,12 @@ translate Schinese flynnfriday_dff5dab3:
     "Jenna只是笑了笑，摇了摇头。"
 
 # game/Flynn-Thursday.rpy:4987
-translate Schinese flynnfriday_3f2c59b8:
+translate Schinese flynnfriday_eee87e33:
 
-    # j "\"It was called the {i}Smoke Room{/i}.\""
+    # j "\"It was called {i}The Smoke Room{/i}.\""
     j "\"那个地方叫做{i}吸烟室{/i}。\""
 
-# game/Flynn-Thursday.rpy:4988
+# game/Flynn-Thursday.rpy:4990
 translate Schinese flynnfriday_7afba655:
 
     # "Wait, what?"
@@ -23057,12 +23059,12 @@ translate Schinese flynnfriday_19098086:
     m "\"不是！不是我......是Flynn去了那个地方。\""
 
 # game/Flynn-Thursday.rpy:4998
-translate Schinese flynnfriday_cff91bcc:
+translate Schinese flynnfriday_9af113c0:
 
-    # m "\"It's right north of the reservation. There's no sign for it or anything, and it's like some sort of gay bar?\""
+    # m "\"It's right by the casino. There's no sign for it or anything, and it's like some sort of gay bar?\""
     m "\"就在保留地的正北方。没有任何标志，而且......感觉像是个Gay吧？\""
 
-# game/Flynn-Thursday.rpy:4999
+# game/Flynn-Thursday.rpy:5001
 translate Schinese flynnfriday_ba7e3ed8:
 
     # j "\"A gay bar? In this county?\""
@@ -24287,12 +24289,12 @@ translate Schinese flynnfriday_25499951:
     m "\"我也不知。\""
 
 # game/Flynn-Thursday.rpy:5235
-translate Schinese flynnfriday_3f1ff344:
+translate Schinese flynnfriday_d184e8e3:
 
-    # "I shrug, waving dismissively as I take my bowl."
+    # "I shrug, waving dismissively."
     "我耸耸肩，把碗从微波炉拿出来，轻蔑地挥了挥手。"
 
-# game/Flynn-Thursday.rpy:5237
+# game/Flynn-Thursday.rpy:5239
 translate Schinese flynnfriday_2060e8d9:
 
     # "When I look at Jenna again I can see the fur on her neck has lifted a little."
@@ -25085,12 +25087,12 @@ translate Schinese flynnsaturday_353c1373:
     "他的眼睛像碟子一样，看着我，等着我下一步怎么整他，完全听我的。"
 
 # game/Flynn-Thursday.rpy:5397
-translate Schinese flynnsaturday_35b135d8:
+translate Schinese flynnsaturday_900711da:
 
-    # "I bet he'd be really humiliated if I, you know..\""
-    "我打赌他会更加没脸见人，如果我，你懂的......\""
+    # "I bet he'd be really humiliated if I, you know.."
+    "我打赌他会更加没脸见人，如果我，你懂的......"
 
-# game/Flynn-Thursday.rpy:5398
+# game/Flynn-Thursday.rpy:5400
 translate Schinese flynnsaturday_f18d9d73:
 
     # "..unmasked him."
@@ -25331,12 +25333,12 @@ translate Schinese flynnsaturday_14b5c14d:
     dad "\"那就对了，把它放下来。\""
 
 # game/Flynn-Thursday.rpy:5447
-translate Schinese flynnsaturday_15fa04fa:
+translate Schinese flynnsaturday_7b26e142:
 
-    # "He holds up a pretty messed up looking bird. It's neck half-missing and blood still drips from the hole there."
+    # "He holds up a pretty messed up looking bird. Its neck is half-missing and blood still drips from the hole there."
     "他举起了一只看起来挺不妙的鸟。它的脖子缺了一半，血还在从那个洞里滴落着。"
 
-# game/Flynn-Thursday.rpy:5448
+# game/Flynn-Thursday.rpy:5450
 translate Schinese flynnsaturday_688e942e:
 
     # dad "\"You've never eaten dove, have you?\""
@@ -27245,12 +27247,12 @@ translate Schinese flynnsaturday_88c4f58b:
     m "\"难道不会觉得有些厌腻吗？\""
 
 # game/Flynn-Thursday.rpy:5843
-translate Schinese flynnsaturday_fa136853:
+translate Schinese flynnsaturday_b3bdd3c0:
 
-    # "The lynx dips his paws into his pockets, his lips pursing as he hesitates his response."
+    # "The lynx dips his paws into his pockets, his lips pursing as he delays his response."
     "山猫把爪子插进口袋，噘着嘴唇，似乎在犹豫要回应些什么。"
 
-# game/Flynn-Thursday.rpy:5844
+# game/Flynn-Thursday.rpy:5846
 translate Schinese flynnsaturday_f6ff3d1d:
 
     # t "\"Well, my parents didn't want me going out too far, or anywhere too dangerous.\""
@@ -28631,12 +28633,12 @@ translate Schinese flynnsaturday_a2dcf6ac:
     da "\"太棒了！\""
 
 # game/Flynn-Thursday.rpy:6178
-translate Schinese flynnsaturday_c09be025:
+translate Schinese flynnsaturday_afd393fb:
 
-    # da "\"You kinda look like your pledging Alpha Lambda, but it works.\""
+    # da "\"You kinda look like you're pledging Alpha Lambda, but it works.\""
     da "\"你看起来有点像要去荣誉协会宣誓一样，不过效果很好。\""
 
-# game/Flynn-Thursday.rpy:6179
+# game/Flynn-Thursday.rpy:6181
 translate Schinese flynnsaturday_fb70ab3e:
 
     # c "\"What?\""
@@ -29957,12 +29959,12 @@ translate Schinese flynnsaturday_b9b7c96a:
     "假如我不知道发生了什么，他红肿的眼睛或许会让我以为他刚嗨完。"
 
 # game/Flynn-Thursday.rpy:6444
-translate Schinese flynnsaturday_5930305d:
+translate Schinese flynnsaturday_67ab8a27:
 
-    # f "\"You've don't actually come inside here too often, do ya, Carl?\""
+    # f "\"You don't actually come inside here too often, do ya, Carl?\""
     f "\"你不常来这儿吧，Carl？\""
 
-# game/Flynn-Thursday.rpy:6445
+# game/Flynn-Thursday.rpy:6447
 translate Schinese flynnsaturday_e863dc1f:
 
     # "Carl shakes his head."
@@ -30071,12 +30073,12 @@ translate Schinese flynnsaturday_db21faf5:
     m "\"那......你又要回去搬货了吗?\""
 
 # game/Flynn-Thursday.rpy:6463
-translate Schinese flynnsaturday_c1958e16:
+translate Schinese flynnsaturday_1d80f319:
 
-    # "Flynn doesn't respond immediatley, as if weighing something in his mind."
+    # "Flynn doesn't respond immediately, as if weighing something in his mind."
     "Flynn没立刻回应，似乎是在心中衡量着什么。"
 
-# game/Flynn-Thursday.rpy:6465
+# game/Flynn-Thursday.rpy:6467
 translate Schinese flynnsaturday_82de6360:
 
     # "He pushes the power button on his desktop tower and the whir of the internal fan breaks the silence."
@@ -32015,12 +32017,12 @@ translate Schinese flynnsaturday_050e2259:
     "整个房间陷入一片死寂。"
 
 # game/Flynn-Thursday.rpy:6857
-translate Schinese flynnsaturday_e4d669c8:
+translate Schinese flynnsaturday_d242b6a7:
 
-    # "Jenna's glare is unwavering from Flynn, who's looking at the floor now."
+    # "Jenna's glare is not wavering from Flynn, who's looking at the floor now."
     "Jenna死死地瞪着Flynn，而Flynn正盯着地板。"
 
-# game/Flynn-Thursday.rpy:6858
+# game/Flynn-Thursday.rpy:6860
 translate Schinese flynnsaturday_5dcb21d2:
 
     # "Finally, she speaks again."
@@ -33059,12 +33061,12 @@ translate Schinese flynnsaturday_050e2259_1:
     "整个房间陷入一片死寂。"
 
 # game/Flynn-Thursday.rpy:7059
-translate Schinese flynnsaturday_e4d669c8_1:
+translate Schinese flynnsaturday_e4d669c8:
 
     # "Jenna's glare is unwavering from Flynn, who's looking at the floor now."
     "Jenna死死地瞪着Flynn，而Flynn正盯着地板。"
 
-# game/Flynn-Thursday.rpy:7060
+# game/Flynn-Thursday.rpy:6858
 translate Schinese flynnsaturday_5dcb21d2_1:
 
     # "Finally, she speaks again."
@@ -34121,12 +34123,12 @@ translate Schinese flynnsaturday_050e2259_2:
     "整个房间陷入一片死寂。"
 
 # game/Flynn-Thursday.rpy:7271
-translate Schinese flynnsaturday_e4d669c8_2:
+translate Schinese flynnsaturday_e4d669c8_1:
 
     # "Jenna's glare is unwavering from Flynn, who's looking at the floor now."
     "Jenna死死地瞪着Flynn，而Flynn正盯着地板。"
 
-# game/Flynn-Thursday.rpy:7272
+# game/Flynn-Thursday.rpy:7060
 translate Schinese flynnsaturday_5dcb21d2_2:
 
     # "Finally, she speaks again."
@@ -39440,7 +39442,7 @@ translate Schinese UpdateBegin_998bc6ea:
 translate Schinese UpdateBegin_229c7b07:
 
     # "There's a few binders and booklets near my side, with titles like \"Coalville Stormwater Drainage Plan 1999\" and \"Drought Resistant Plant Guide\"."
-    "我身边有一些活页夹和小册子，标题为“《 1999年科维尔暴雨排水计划》”和《抗旱植物指南》"。"
+    "我身边有一些活页夹和小册子，标题为“《 1999年科维尔暴雨排水计划》和《抗旱植物指南》”。"
 
 # game/Flynn-Thursday.rpy:8586
 translate Schinese UpdateBegin_0022f75e:
@@ -39509,12 +39511,12 @@ translate Schinese UpdateBegin_549fd2f0:
     "我下一眼看见的就是那东西正在我的胸口上。"
 
 # game/Flynn-Thursday.rpy:8597
-translate Schinese UpdateBegin_fac67c9f:
+translate Schinese UpdateBegin_6aa5d7de:
 
-    # "It moves faster than I can even see - it's pittering legs feeling like they're all over me."
-    "它快得我几乎都看不清 – 它那些让人不安的腿感觉像是在我身上到处游走。"
+    # "It moves faster than I can even see - its pittering legs feeling like they're all over me."
+    "它快得我几乎都看不清——它那些让人不安的腿感觉像是在我身上到处游走。"
 
-# game/Flynn-Thursday.rpy:8598
+# game/Flynn-Thursday.rpy:8599
 translate Schinese UpdateBegin_73a001dd:
 
     # "I grab the edges of my shirt, trying to fling it off, but it's already on my neck."
@@ -39809,12 +39811,12 @@ translate Schinese UpdateBegin_8f834c84:
     "当它们都从我的口中涌出的时候，我向前倾了一大步。"
 
 # game/Flynn-Thursday.rpy:8652
-translate Schinese UpdateBegin_da714804:
+translate Schinese UpdateBegin_b007fba2:
 
-    # "I can`t breathe, it burns so much."
+    # "I can't breathe, it burns so much."
     "那种灼烧感让我无法呼吸。"
 
-# game/Flynn-Thursday.rpy:8653
+# game/Flynn-Thursday.rpy:8655
 translate Schinese UpdateBegin_c0ce3fcd:
 
     # "I try to call out for help, but every time I open my mouth, it's just more vomit."
@@ -39881,12 +39883,12 @@ translate Schinese UpdateBegin_37fe3031:
     "我设法将自己从墙边挪开，踩到了一分钟前还没有的破旧地板上。"
 
 # game/Flynn-Thursday.rpy:8665
-translate Schinese UpdateBegin_e5f690fd:
+translate Schinese UpdateBegin_61057530:
 
-    # "I stumble past old wagon wheels and piles of what looks like bibles."
+    # "I stumble past old wagon wheels and piles of what appear to be bibles."
     "我跌跌撞撞地越过旧的马车车轮和一堆堆看起来像圣经的东西。"
 
-# game/Flynn-Thursday.rpy:8666
+# game/Flynn-Thursday.rpy:8668
 translate Schinese UpdateBegin_4bdacde9:
 
     # "Eventually I reach it, the light."
@@ -43367,12 +43369,12 @@ translate Schinese UpdateBegin_bf5ff0be:
     "那里现在也只是又一个旅客会过来自拍的景点罢了。"
 
 # game/Flynn-Thursday.rpy:9372
-translate Schinese UpdateBegin_8d01b9c1:
+translate Schinese UpdateBegin_7312c85a:
 
-    # "\"Man musn't forget the past, for the past will not forget man,\" it reads."
+    # "\"Man mustn't forget the past, for the past will not forget man,\" it reads."
     "\"人不可遗忘过去，因它永不逝去。\" 它写着。"
 
-# game/Flynn-Thursday.rpy:9373
+# game/Flynn-Thursday.rpy:9375
 translate Schinese UpdateBegin_460df172:
 
     # "It reminds me of that whole push from the County to make the mine some fucking tourist spot."
@@ -45568,979 +45570,979 @@ translate Schinese UpdateBegin_ff2e2f61:
     # j "\"How did it move?\""
     j "\"它怎么走动？\""
 
-# game/Flynn-Thursday.rpy:9803
+# game/Flynn-Thursday.rpy:10000
 translate Schinese UpdateBegin_e4dfb4ac:
 
     # t "\"Really fast, or not at all.\""
-    t "\"Really fast, or not at all.\""
+    t "@@@\"Really fast, or not at all.\""
 
-# game/Flynn-Thursday.rpy:9804
+# game/Flynn-Thursday.rpy:9806
 translate Schinese UpdateBegin_8c6c8af8:
 
     # t "\"It was l-like.. pictures, you know?\""
-    t "\"It was l-like.. pictures, you know?\""
+    t "@@@\"It was l-like.. pictures, you know?\""
 
-# game/Flynn-Thursday.rpy:9805
+# game/Flynn-Thursday.rpy:9807
 translate Schinese UpdateBegin_938987a8:
 
     # t "\"A slideshow that was being fast-forwarded.\""
-    t "\"A slideshow that was being fast-forwarded.\""
+    t "@@@\"A slideshow that was being fast-forwarded.\""
 
-# game/Flynn-Thursday.rpy:9806
+# game/Flynn-Thursday.rpy:9808
 translate Schinese UpdateBegin_f0d6291e:
 
     # "Carl finally looks up from his hooves, the ram appearing increasingly nervous."
-    "Carl finally looks up from his hooves, the ram appearing increasingly nervous."
+    "@@@Carl finally looks up from his hooves, the ram appearing increasingly nervous."
 
-# game/Flynn-Thursday.rpy:9807
+# game/Flynn-Thursday.rpy:9809
 translate Schinese UpdateBegin_a9382d85:
 
     # t "\"When i-it walked through the water, the water didn't move like a wake.\""
-    t "\"When i-it walked through the water, the water didn't move like a wake.\""
+    t "@@@\"When i-it walked through the water, the water didn't move like a wake.\""
 
-# game/Flynn-Thursday.rpy:9808
+# game/Flynn-Thursday.rpy:9810
 translate Schinese UpdateBegin_8fd2152e:
 
     # t "\"It just splashed out with each step.\""
-    t "\"It just splashed out with each step.\""
+    t "@@@\"It just splashed out with each step.\""
 
-# game/Flynn-Thursday.rpy:9809
+# game/Flynn-Thursday.rpy:9811
 translate Schinese UpdateBegin_94c42483:
 
     # j "\"Tell me about the face again, please?\""
-    j "\"Tell me about the face again, please?\""
+    j "@@@\"Tell me about the face again, please?\""
 
-# game/Flynn-Thursday.rpy:9810
+# game/Flynn-Thursday.rpy:9812
 translate Schinese UpdateBegin_a90dcab8:
 
     # t "\"Uh, o-okay.\""
-    t "\"Uh, o-okay.\""
+    t "@@@\"Uh, o-okay.\""
 
-# game/Flynn-Thursday.rpy:9811
+# game/Flynn-Thursday.rpy:9813
 translate Schinese UpdateBegin_621b9218:
 
     # "TJ's having such a hard time getting the words out, but Jenna doesn't stop."
-    "TJ's having such a hard time getting the words out, but Jenna doesn't stop."
+    "@@@TJ's having such a hard time getting the words out, but Jenna doesn't stop."
 
-# game/Flynn-Thursday.rpy:9812
+# game/Flynn-Thursday.rpy:9814
 translate Schinese UpdateBegin_58e116ef:
 
     # "She looks.. rapt?"
-    "She looks.. rapt?"
+    "@@@She looks.. rapt?"
 
-# game/Flynn-Thursday.rpy:9813
+# game/Flynn-Thursday.rpy:9815
 translate Schinese UpdateBegin_2fe1023c:
 
     # t "\"Three holes.\""
-    t "\"Three holes.\""
+    t "@@@\"Three holes.\""
 
-# game/Flynn-Thursday.rpy:9814
+# game/Flynn-Thursday.rpy:9816
 translate Schinese UpdateBegin_45312028:
 
     # t "\"Two for the eyes, one for the mouth.\""
-    t "\"Two for the eyes, one for the mouth.\""
+    t "@@@\"Two for the eyes, one for the mouth.\""
 
-# game/Flynn-Thursday.rpy:9815
+# game/Flynn-Thursday.rpy:9817
 translate Schinese UpdateBegin_d2fea6fe:
 
     # t "\"They weren't like.. bloody or anything - just empty, dark.\""
-    t "\"They weren't like.. bloody or anything - just empty, dark.\""
+    t "@@@\"They weren't like.. bloody or anything - just empty, dark.\""
 
-# game/Flynn-Thursday.rpy:9816
+# game/Flynn-Thursday.rpy:9818
 translate Schinese UpdateBegin_20f3420a:
 
     # "Everyone's silent for a moment."
-    "Everyone's silent for a moment."
+    "@@@Everyone's silent for a moment."
 
-# game/Flynn-Thursday.rpy:9819
+# game/Flynn-Thursday.rpy:9821
 translate Schinese UpdateBegin_8287a7e9:
 
     # "Then, next to me, Daxton rises up to his feet."
-    "Then, next to me, Daxton rises up to his feet."
+    "@@@Then, next to me, Daxton rises up to his feet."
 
-# game/Flynn-Thursday.rpy:9820
+# game/Flynn-Thursday.rpy:9822
 translate Schinese UpdateBegin_6518fdb0:
 
     # "The salamander walk around to where TJ's sitting, then points to something behind him."
-    "The salamander walk around to where TJ's sitting, then points to something behind him."
+    "@@@The salamander walk around to where TJ's sitting, then points to something behind him."
 
-# game/Flynn-Thursday.rpy:9821
+# game/Flynn-Thursday.rpy:9823
 translate Schinese UpdateBegin_c16f32bf:
 
     # da "\"Like this?\""
-    da "\"Like this?\""
+    da "@@@\"Like this?\""
 
-# game/Flynn-Thursday.rpy:9827
+# game/Flynn-Thursday.rpy:9829
 translate Schinese UpdateBegin_9023f804:
 
     # "He's pointing at.. the electrical socket?"
-    "He's pointing at.. the electrical socket?"
+    "@@@He's pointing at.. the electrical socket?"
 
-# game/Flynn-Thursday.rpy:9828
+# game/Flynn-Thursday.rpy:9830
 translate Schinese UpdateBegin_ae3dd578:
 
     # "TJ turns, looks at it, then he twitches as if startled."
-    "TJ turns, looks at it, then he twitches as if startled."
+    "@@@TJ turns, looks at it, then he twitches as if startled."
 
-# game/Flynn-Thursday.rpy:9829
+# game/Flynn-Thursday.rpy:9831
 translate Schinese UpdateBegin_11567223:
 
     # "He quickly wipes his eyes and nods."
-    "He quickly wipes his eyes and nods."
+    "@@@He quickly wipes his eyes and nods."
 
-# game/Flynn-Thursday.rpy:9830
+# game/Flynn-Thursday.rpy:9832
 translate Schinese UpdateBegin_bee16007:
 
     # "Daxton stares, slack-jawed."
-    "Daxton stares, slack-jawed."
+    "@@@Daxton stares, slack-jawed."
 
-# game/Flynn-Thursday.rpy:9837
+# game/Flynn-Thursday.rpy:9839
 translate Schinese UpdateBegin_ce493567:
 
     # "Leo takes a loud slurp from his smoothie."
-    "Leo takes a loud slurp from his smoothie."
+    "@@@Leo takes a loud slurp from his smoothie."
 
-# game/Flynn-Thursday.rpy:9838
+# game/Flynn-Thursday.rpy:9840
 translate Schinese UpdateBegin_41f17f50:
 
     # "There's a dribble of the pink liquid stuck in his fur around the edge of his jowls."
-    "There's a dribble of the pink liquid stuck in his fur around the edge of his jowls."
+    "@@@There's a dribble of the pink liquid stuck in his fur around the edge of his jowls."
 
-# game/Flynn-Thursday.rpy:9839
+# game/Flynn-Thursday.rpy:9841
 translate Schinese UpdateBegin_ce40a705:
 
     # l "\"Guys, am I missing something here?\""
-    l "\"Guys, am I missing something here?\""
+    l "@@@\"Guys, am I missing something here?\""
 
-# game/Flynn-Thursday.rpy:9841
+# game/Flynn-Thursday.rpy:9843
 translate Schinese UpdateBegin_68dfe9fe:
 
     # c "\"I saw it.\""
-    c "\"I saw it.\""
+    c "@@@\"I saw it.\""
 
-# game/Flynn-Thursday.rpy:9842
+# game/Flynn-Thursday.rpy:9844
 translate Schinese UpdateBegin_c0a4e1ad:
 
     # l "\"Saw what, Carl?\""
-    l "\"Saw what, Carl?\""
+    l "@@@\"Saw what, Carl?\""
 
-# game/Flynn-Thursday.rpy:9843
+# game/Flynn-Thursday.rpy:9845
 translate Schinese UpdateBegin_fd71f4e9:
 
     # c "\"That thing.\""
-    c "\"That thing.\""
+    c "@@@\"That thing.\""
 
-# game/Flynn-Thursday.rpy:9844
+# game/Flynn-Thursday.rpy:9846
 translate Schinese UpdateBegin_249939d1:
 
     # "Carl gestures toward the electrical outlet."
-    "Carl gestures toward the electrical outlet."
+    "@@@Carl gestures toward the electrical outlet."
 
-# game/Flynn-Thursday.rpy:9845
+# game/Flynn-Thursday.rpy:9847
 translate Schinese UpdateBegin_cb886977:
 
     # "I give him an incredulous look as we meet each others' glances for a second."
-    "I give him an incredulous look as we meet each others' glances for a second."
+    "@@@I give him an incredulous look as we meet each others' glances for a second."
 
-# game/Flynn-Thursday.rpy:9846
+# game/Flynn-Thursday.rpy:9848
 translate Schinese UpdateBegin_d4738187_1:
 
     # f "\"..yeah?\""
-    f "\"..yeah?\""
+    f "@@@\"..yeah?\""
 
-# game/Flynn-Thursday.rpy:9847
+# game/Flynn-Thursday.rpy:9849
 translate Schinese UpdateBegin_9de7ccf9:
 
     # f "\"I saw a pretty nifty light switch back when I was 13.\""
-    f "\"I saw a pretty nifty light switch back when I was 13.\""
+    f "@@@\"I saw a pretty nifty light switch back when I was 13.\""
 
-# game/Flynn-Thursday.rpy:9848
+# game/Flynn-Thursday.rpy:9850
 translate Schinese UpdateBegin_cfe1ee8b:
 
     # "I look to TJ."
-    "I look to TJ."
+    "@@@I look to TJ."
 
-# game/Flynn-Thursday.rpy:9849
+# game/Flynn-Thursday.rpy:9851
 translate Schinese UpdateBegin_758c00ea:
 
     # f "\"It didn't make me hide the truth about my friend's murder for 'bout a decade.\""
-    f "\"It didn't make me hide the truth about my friend's murder for 'bout a decade.\""
+    f "@@@\"It didn't make me hide the truth about my friend's murder for 'bout a decade.\""
 
-# game/Flynn-Thursday.rpy:9850
+# game/Flynn-Thursday.rpy:9852
 translate Schinese UpdateBegin_f1d18b94:
 
     # c "\"Shutup, dude.\""
-    c "\"Shutup, dude.\""
+    c "@@@\"Shutup, dude.\""
 
-# game/Flynn-Thursday.rpy:9851
+# game/Flynn-Thursday.rpy:9853
 translate Schinese UpdateBegin_6a80d502:
 
     # "I blink at Carl."
-    "I blink at Carl."
+    "@@@I blink at Carl."
 
-# game/Flynn-Thursday.rpy:9857
+# game/Flynn-Thursday.rpy:9859
 translate Schinese UpdateBegin_14aa52a8:
 
     # "He stands up, still staring at the socket."
-    "He stands up, still staring at the socket."
+    "@@@He stands up, still staring at the socket."
 
-# game/Flynn-Thursday.rpy:9858
+# game/Flynn-Thursday.rpy:9860
 translate Schinese UpdateBegin_4e84581a:
 
     # c "\"When I crashed my car that night, you remember?\""
-    c "\"When I crashed my car that night, you remember?\""
+    c "@@@\"When I crashed my car that night, you remember?\""
 
-# game/Flynn-Thursday.rpy:9859
+# game/Flynn-Thursday.rpy:9861
 translate Schinese UpdateBegin_0cc65867:
 
     # "I do."
-    "I do."
+    "@@@I do."
 
-# game/Flynn-Thursday.rpy:9860
+# game/Flynn-Thursday.rpy:9862
 translate Schinese UpdateBegin_b78e1661:
 
     # "Carl didn't want to talk about it for months after it happened."
-    "Carl didn't want to talk about it for months after it happened."
+    "@@@Carl didn't want to talk about it for months after it happened."
 
-# game/Flynn-Thursday.rpy:9861
+# game/Flynn-Thursday.rpy:9863
 translate Schinese UpdateBegin_d6a92d7b:
 
     # "I only found out about the truth then."
-    "I only found out about the truth then."
+    "@@@I only found out about the truth then."
 
-# game/Flynn-Thursday.rpy:9862
+# game/Flynn-Thursday.rpy:9864
 translate Schinese UpdateBegin_5ffb5ac5:
 
     # "It was after he dropped out of college."
-    "It was after he dropped out of college."
+    "@@@It was after he dropped out of college."
 
-# game/Flynn-Thursday.rpy:9863
+# game/Flynn-Thursday.rpy:9865
 translate Schinese UpdateBegin_a3b5ec98:
 
     # "Apparently it was way fucking past twilight and he was drugged out of his mind."
-    "Apparently it was way fucking past twilight and he was drugged out of his mind."
+    "@@@Apparently it was way fucking past twilight and he was drugged out of his mind."
 
-# game/Flynn-Thursday.rpy:9864
+# game/Flynn-Thursday.rpy:9866
 translate Schinese UpdateBegin_2823984e:
 
     # "That scabies-ridden, fatass Jeremy gave him acid in his trailer and he had a bad trip."
-    "That scabies-ridden, fatass Jeremy gave him acid in his trailer and he had a bad trip."
+    "@@@That scabies-ridden, fatass Jeremy gave him acid in his trailer and he had a bad trip."
 
-# game/Flynn-Thursday.rpy:9865
+# game/Flynn-Thursday.rpy:9867
 translate Schinese UpdateBegin_40775c07:
 
     # "Carl described some cartoon he put on: a tiger and a bird, with the tiger baking the bird alive."
-    "Carl described some cartoon he put on: a tiger and a bird, with the tiger baking the bird alive."
+    "@@@Carl described some cartoon he put on: a tiger and a bird, with the tiger baking the bird alive."
 
-# game/Flynn-Thursday.rpy:9866
+# game/Flynn-Thursday.rpy:9868
 translate Schinese UpdateBegin_9b152d07:
 
     # "He mentioned how vivid everything was, and how the fuckin' Jeremy wouldn't stop laughing."
-    "He mentioned how vivid everything was, and how the fuckin' Jeremy wouldn't stop laughing."
+    "@@@He mentioned how vivid everything was, and how the fuckin' Jeremy wouldn't stop laughing."
 
-# game/Flynn-Thursday.rpy:9867
+# game/Flynn-Thursday.rpy:9869
 translate Schinese UpdateBegin_0b91c137:
 
     # "He busted out of there and drove off all high-tail like."
-    "He busted out of there and drove off all high-tail like."
+    "@@@He busted out of there and drove off all high-tail like."
 
-# game/Flynn-Thursday.rpy:9868
+# game/Flynn-Thursday.rpy:9870
 translate Schinese UpdateBegin_6d2046a5:
 
     # "While making his way down Route 65, he swerved and hit a pole."
-    "While making his way down Route 65, he swerved and hit a pole."
+    "@@@While making his way down Route 65, he swerved and hit a pole."
 
-# game/Flynn-Thursday.rpy:9869
+# game/Flynn-Thursday.rpy:9871
 translate Schinese UpdateBegin_1602c353:
 
     # "The impact would have killed him if he weren't so thick-skulled."
-    "The impact would have killed him if he weren't so thick-skulled."
+    "@@@The impact would have killed him if he weren't so thick-skulled."
 
-# game/Flynn-Thursday.rpy:9870
+# game/Flynn-Thursday.rpy:9872
 translate Schinese UpdateBegin_347609e1:
 
     # "And of course, he told his dear-old-parents about it and they took the blame for everything."
-    "And of course, he told his dear-old-parents about it and they took the blame for everything."
+    "@@@And of course, he told his dear-old-parents about it and they took the blame for everything."
 
-# game/Flynn-Thursday.rpy:9871
+# game/Flynn-Thursday.rpy:9873
 translate Schinese UpdateBegin_1f9ea7dc:
 
     # "They didn't want him to be tested when the cops showed."
-    "They didn't want him to be tested when the cops showed."
+    "@@@They didn't want him to be tested when the cops showed."
 
-# game/Flynn-Thursday.rpy:9872
+# game/Flynn-Thursday.rpy:9874
 translate Schinese UpdateBegin_9721efb0:
 
     # "It wasn't until a couple months ago he told me, in his drug-addled mind, he thought he had driven to Pueblo and picked up Chase."
-    "It wasn't until a couple months ago he told me, in his drug-addled mind, he thought he had driven to Pueblo and picked up Chase."
+    "@@@It wasn't until a couple months ago he told me, in his drug-addled mind, he thought he had driven to Pueblo and picked up Chase."
 
-# game/Flynn-Thursday.rpy:9873
+# game/Flynn-Thursday.rpy:9875
 translate Schinese UpdateBegin_ccf9d672:
 
     # "Carl claimed he was talking to him the whole ride-back, telling him how college life was going and shit."
-    "Carl claimed he was talking to him the whole ride-back, telling him how college life was going and shit."
+    "@@@Carl claimed he was talking to him the whole ride-back, telling him how college life was going and shit."
 
-# game/Flynn-Thursday.rpy:9874
+# game/Flynn-Thursday.rpy:9876
 translate Schinese UpdateBegin_33f29629:
 
     # "Stroking his horns, mentioning how he missed him, and wanted him back as a roommate."
-    "Stroking his horns, mentioning how he missed him, and wanted him back as a roommate."
+    "@@@Stroking his horns, mentioning how he missed him, and wanted him back as a roommate."
 
-# game/Flynn-Thursday.rpy:9875
+# game/Flynn-Thursday.rpy:9877
 translate Schinese UpdateBegin_7ea37b00:
 
     # "You know, all the shit Chase never actually said after Carl dropped out."
-    "You know, all the shit Chase never actually said after Carl dropped out."
+    "@@@You know, all the shit Chase never actually said after Carl dropped out."
 
-# game/Flynn-Thursday.rpy:9876
+# game/Flynn-Thursday.rpy:9878
 translate Schinese UpdateBegin_39529c99:
 
     # "The fucker barely even responded to his messages."
-    "The fucker barely even responded to his messages."
+    "@@@The fucker barely even responded to his messages."
 
-# game/Flynn-Thursday.rpy:9877
+# game/Flynn-Thursday.rpy:9879
 translate Schinese UpdateBegin_c052908a:
 
     # "He could have sworn when he swerved off the road and struck the pole, he killed Chase - crushed somehow at impact."
-    "He could have sworn when he swerved off the road and struck the pole, he killed Chase - crushed somehow at impact."
+    "@@@He could have sworn when he swerved off the road and struck the pole, he killed Chase - crushed somehow at impact."
 
-# game/Flynn-Thursday.rpy:9878
+# game/Flynn-Thursday.rpy:9880
 translate Schinese UpdateBegin_4ecb1407:
 
     # "He wouldn't stop shaking."
-    "He wouldn't stop shaking."
+    "@@@He wouldn't stop shaking."
 
-# game/Flynn-Thursday.rpy:9879
+# game/Flynn-Thursday.rpy:9881
 translate Schinese UpdateBegin_9f0b9645:
 
     # "I made a joke that I would have helped him bury the body."
-    "I made a joke that I would have helped him bury the body."
+    "@@@I made a joke that I would have helped him bury the body."
 
-# game/Flynn-Thursday.rpy:9880
+# game/Flynn-Thursday.rpy:9882
 translate Schinese UpdateBegin_a20cefa7_5:
 
     # "..."
-    "..."
+    "@@@..."
 
-# game/Flynn-Thursday.rpy:9881
+# game/Flynn-Thursday.rpy:9883
 translate Schinese UpdateBegin_f8a625ab:
 
     # "I threw up later thinking about it."
-    "I threw up later thinking about it."
+    "@@@I threw up later thinking about it."
 
-# game/Flynn-Thursday.rpy:9882
+# game/Flynn-Thursday.rpy:9884
 translate Schinese UpdateBegin_b4b8a38b_1:
 
     # f "\"Yeah.\""
-    f "\"Yeah.\""
+    f "@@@\"Yeah.\""
 
-# game/Flynn-Thursday.rpy:9883
+# game/Flynn-Thursday.rpy:9885
 translate Schinese UpdateBegin_9eca5508:
 
     # "The ram is looking at me now with these really big, sad eyes."
-    "The ram is looking at me now with these really big, sad eyes."
+    "@@@The ram is looking at me now with these really big, sad eyes."
 
-# game/Flynn-Thursday.rpy:9884
+# game/Flynn-Thursday.rpy:9886
 translate Schinese UpdateBegin_078a8b8f:
 
     # "I never see him like this: sober and fully fucking aware of really bad shit."
-    "I never see him like this: sober and fully fucking aware of really bad shit."
+    "@@@I never see him like this: sober and fully fucking aware of really bad shit."
 
-# game/Flynn-Thursday.rpy:9885
+# game/Flynn-Thursday.rpy:9887
 translate Schinese UpdateBegin_8d23eb79:
 
     # "Usually the moment shit starts getting remotely bad, he tokes 'till his mind melts the \"horrors away\", as he calls them."
-    "Usually the moment shit starts getting remotely bad, he tokes 'till his mind melts the \"horrors away\", as he calls them."
+    "@@@Usually the moment shit starts getting remotely bad, he tokes 'till his mind melts the \"horrors away\", as he calls them."
 
-# game/Flynn-Thursday.rpy:9886
+# game/Flynn-Thursday.rpy:9888
 translate Schinese UpdateBegin_9c7bfc93:
 
     # "There's none of that shit here, that's for certain."
-    "There's none of that shit here, that's for certain."
+    "@@@There's none of that shit here, that's for certain."
 
-# game/Flynn-Thursday.rpy:9887
+# game/Flynn-Thursday.rpy:9889
 translate Schinese UpdateBegin_c6fd6f91:
 
     # "I never liked how it makes me feel, and Daxton's too nerdy to know any pot dealers."
-    "I never liked how it makes me feel, and Daxton's too nerdy to know any pot dealers."
+    "@@@I never liked how it makes me feel, and Daxton's too nerdy to know any pot dealers."
 
-# game/Flynn-Thursday.rpy:9888
+# game/Flynn-Thursday.rpy:9890
 translate Schinese UpdateBegin_21fb5290:
 
     # c "\"This is going to sound real nuts, but that thing TJ is describing, with the electrical socket face..\""
-    c "\"This is going to sound real nuts, but that thing TJ is describing, with the electrical socket face..\""
+    c "@@@\"This is going to sound real nuts, but that thing TJ is describing, with the electrical socket face..\""
 
-# game/Flynn-Thursday.rpy:9889
+# game/Flynn-Thursday.rpy:9891
 translate Schinese UpdateBegin_ca0f0862:
 
     # c "\"..it was chasing me that night, man.\""
-    c "\"..it was chasing me that night, man.\""
+    c "@@@\"..it was chasing me that night, man.\""
 
-# game/Flynn-Thursday.rpy:9890
+# game/Flynn-Thursday.rpy:9892
 translate Schinese UpdateBegin_4f0ac102:
 
     # c "\"I {i}saw{/i} it, exactly how TJ described - that's how it moved.\""
-    c "\"I {i}saw{/i} it, exactly how TJ described - that's how it moved.\""
+    c "@@@\"I {i}saw{/i} it, exactly how TJ described - that's how it moved.\""
 
-# game/Flynn-Thursday.rpy:9891
+# game/Flynn-Thursday.rpy:9893
 translate Schinese UpdateBegin_065acdc2:
 
     # c "\"I thought I had outran it, but then it was in the car with me where I thought Chase was, and I hit the fucking pole, man.\""
-    c "\"I thought I had outran it, but then it was in the car with me where I thought Chase was, and I hit the fucking pole, man.\""
+    c "@@@\"I thought I had outran it, but then it was in the car with me where I thought Chase was, and I hit the fucking pole, man.\""
 
-# game/Flynn-Thursday.rpy:9892
+# game/Flynn-Thursday.rpy:9894
 translate Schinese UpdateBegin_9b7c86f9:
 
     # l "\"Where Chase was?\""
-    l "\"Where Chase was?\""
+    l "@@@\"Where Chase was?\""
 
-# game/Flynn-Thursday.rpy:9893
+# game/Flynn-Thursday.rpy:9895
 translate Schinese UpdateBegin_c69358a2:
 
     # "Leo looks at Carl with raised eyebrows."
-    "Leo looks at Carl with raised eyebrows."
+    "@@@Leo looks at Carl with raised eyebrows."
 
-# game/Flynn-Thursday.rpy:9894
+# game/Flynn-Thursday.rpy:9896
 translate Schinese UpdateBegin_5a028c89:
 
     # "I let out a puff of exasperated air."
-    "I let out a puff of exasperated air."
+    "@@@I let out a puff of exasperated air."
 
-# game/Flynn-Thursday.rpy:9895
+# game/Flynn-Thursday.rpy:9897
 translate Schinese UpdateBegin_e1b30783:
 
     # f "\"You were tripping balls on acid.\""
-    f "\"You were tripping balls on acid.\""
+    f "@@@\"You were tripping balls on acid.\""
 
-# game/Flynn-Thursday.rpy:9896
+# game/Flynn-Thursday.rpy:9898
 translate Schinese UpdateBegin_0cc1e350:
 
     # "I look to the rest of the group."
-    "I look to the rest of the group."
+    "@@@I look to the rest of the group."
 
-# game/Flynn-Thursday.rpy:9897
+# game/Flynn-Thursday.rpy:9899
 translate Schinese UpdateBegin_412251f3:
 
     # f "\"That's why he thought he was with Chase.\""
-    f "\"That's why he thought he was with Chase.\""
+    f "@@@\"That's why he thought he was with Chase.\""
 
-# game/Flynn-Thursday.rpy:9898
+# game/Flynn-Thursday.rpy:9900
 translate Schinese UpdateBegin_b4fc7075:
 
     # "Leo's expression furrows."
-    "Leo's expression furrows."
+    "@@@Leo's expression furrows."
 
-# game/Flynn-Thursday.rpy:9899
+# game/Flynn-Thursday.rpy:9901
 translate Schinese UpdateBegin_29a7604d:
 
     # l "\"You've done acid, Carl?\""
-    l "\"You've done acid, Carl?\""
+    l "@@@\"You've done acid, Carl?\""
 
-# game/Flynn-Thursday.rpy:9900
+# game/Flynn-Thursday.rpy:9902
 translate Schinese UpdateBegin_077f4a04:
 
     # c "\"Yeah- er.. I know how it sounds.\""
-    c "\"Yeah- er.. I know how it sounds.\""
+    c "@@@\"Yeah- er.. I know how it sounds.\""
 
-# game/Flynn-Thursday.rpy:9901
+# game/Flynn-Thursday.rpy:9903
 translate Schinese UpdateBegin_54c755d8:
 
     # c "\"I thought it seemed familiar earlier when TJ was describing it at City Hall, but that face.. it was just like an outlet.\""
-    c "\"I thought it seemed familiar earlier when TJ was describing it at City Hall, but that face.. it was just like an outlet.\""
+    c "@@@\"I thought it seemed familiar earlier when TJ was describing it at City Hall, but that face.. it was just like an outlet.\""
 
-# game/Flynn-Thursday.rpy:9903
+# game/Flynn-Thursday.rpy:9905
 translate Schinese UpdateBegin_8f0c3d90:
 
     # "Daxton's nodding along with everything Carl says."
-    "Daxton's nodding along with everything Carl says."
+    "@@@Daxton's nodding along with everything Carl says."
 
-# game/Flynn-Thursday.rpy:9904
+# game/Flynn-Thursday.rpy:9906
 translate Schinese UpdateBegin_f45f4547:
 
     # da "\"Flynn, I literally was just telling you about this shit.\""
-    da "\"Flynn, I literally was just telling you about this shit.\""
+    da "@@@\"Flynn, I literally was just telling you about this shit.\""
 
-# game/Flynn-Thursday.rpy:9905
+# game/Flynn-Thursday.rpy:9907
 translate Schinese UpdateBegin_ab6b25bd:
 
     # da "\"I saw it in my dream, in the water.\""
-    da "\"I saw it in my dream, in the water.\""
+    da "@@@\"I saw it in my dream, in the water.\""
 
-# game/Flynn-Thursday.rpy:9906
+# game/Flynn-Thursday.rpy:9908
 translate Schinese UpdateBegin_ba9b3a61:
 
     # da "\"It's the second time I've seen it in two days.\""
-    da "\"It's the second time I've seen it in two days.\""
+    da "@@@\"It's the second time I've seen it in two days.\""
 
-# game/Flynn-Thursday.rpy:9908
+# game/Flynn-Thursday.rpy:9910
 translate Schinese UpdateBegin_fe6b834f:
 
     # j "\"I recognize it, too.\""
-    j "\"I recognize it, too.\""
+    j "@@@\"I recognize it, too.\""
 
-# game/Flynn-Thursday.rpy:9909
+# game/Flynn-Thursday.rpy:9911
 translate Schinese UpdateBegin_2f06ecf5:
 
     # j "\"Not in a dream or because of drugs, though.\""
-    j "\"Not in a dream or because of drugs, though.\""
+    j "@@@\"Not in a dream or because of drugs, though.\""
 
-# game/Flynn-Thursday.rpy:9910
+# game/Flynn-Thursday.rpy:9912
 translate Schinese UpdateBegin_978ecfa4:
 
     # "She looks over at TJ who appears even more frightened with the confessions from those around him."
-    "She looks over at TJ who appears even more frightened with the confessions from those around him."
+    "@@@She looks over at TJ who appears even more frightened with the confessions from those around him."
 
-# game/Flynn-Thursday.rpy:9911
+# game/Flynn-Thursday.rpy:9913
 translate Schinese UpdateBegin_05bb6ab8:
 
     # j "\"When I was younger.. well, much younger, I sometimes saw it during times I was really angry or sad.\""
-    j "\"When I was younger.. well, much younger, I sometimes saw it during times I was really angry or sad.\""
+    j "@@@\"When I was younger.. well, much younger, I sometimes saw it during times I was really angry or sad.\""
 
-# game/Flynn-Thursday.rpy:9912
+# game/Flynn-Thursday.rpy:9914
 translate Schinese UpdateBegin_8b3f958b:
 
     # j "\"It's the closest thing I've ever had to what my grandmother described as a 'spiritual experience'.\""
-    j "\"It's the closest thing I've ever had to what my grandmother described as a 'spiritual experience'.\""
+    j "@@@\"It's the closest thing I've ever had to what my grandmother described as a 'spiritual experience'.\""
 
-# game/Flynn-Thursday.rpy:9913
+# game/Flynn-Thursday.rpy:9915
 translate Schinese UpdateBegin_d438aedf:
 
     # j "\"When I told her about it, she told me it sounded a lot like a wendigo.\""
-    j "\"When I told her about it, she told me it sounded a lot like a wendigo.\""
+    j "@@@\"When I told her about it, she told me it sounded a lot like a wendigo.\""
 
-# game/Flynn-Thursday.rpy:9916
+# game/Flynn-Thursday.rpy:9918
 translate Schinese UpdateBegin_675f6813:
 
     # l "\"This is really silly, guys.\""
-    l "\"This is really silly, guys.\""
+    l "@@@\"This is really silly, guys.\""
 
-# game/Flynn-Thursday.rpy:9917
+# game/Flynn-Thursday.rpy:9919
 translate Schinese UpdateBegin_29660e39:
 
     # l "\"We just need to talk to Chase. He'll clear all of this up for us.\""
-    l "\"We just need to talk to Chase. He'll clear all of this up for us.\""
+    l "@@@\"We just need to talk to Chase. He'll clear all of this up for us.\""
 
-# game/Flynn-Thursday.rpy:9918
+# game/Flynn-Thursday.rpy:9920
 translate Schinese UpdateBegin_79fd87f6:
 
     # "Leo continues to eat, the one of us still doing so at this point."
-    "Leo continues to eat, the one of us still doing so at this point."
+    "@@@Leo continues to eat, the one of us still doing so at this point."
 
-# game/Flynn-Thursday.rpy:9919
+# game/Flynn-Thursday.rpy:9921
 translate Schinese UpdateBegin_c76d4435:
 
     # "Daxton gawks at him."
-    "Daxton gawks at him."
+    "@@@Daxton gawks at him."
 
-# game/Flynn-Thursday.rpy:9920
+# game/Flynn-Thursday.rpy:9922
 translate Schinese UpdateBegin_26fc2195:
 
     # da "\"Are you for real right now, man?\""
-    da "\"Are you for real right now, man?\""
+    da "@@@\"Are you for real right now, man?\""
 
-# game/Flynn-Thursday.rpy:9921
+# game/Flynn-Thursday.rpy:9923
 translate Schinese UpdateBegin_7d6cf913:
 
     # l "\"I'm the only one who's thinking real things right now, yeah.\""
-    l "\"I'm the only one who's thinking real things right now, yeah.\""
+    l "@@@\"I'm the only one who's thinking real things right now, yeah.\""
 
-# game/Flynn-Thursday.rpy:9922
+# game/Flynn-Thursday.rpy:9924
 translate Schinese UpdateBegin_9931b3db:
 
     # "The wolf scarfs down an incredibly large bite of salad."
-    "The wolf scarfs down an incredibly large bite of salad."
+    "@@@The wolf scarfs down an incredibly large bite of salad."
 
-# game/Flynn-Thursday.rpy:9923
+# game/Flynn-Thursday.rpy:9925
 translate Schinese UpdateBegin_78cc06b8:
 
     # "A guy like Leo probably needs to eat four meals a day with his wolf metabolism."
-    "A guy like Leo probably needs to eat four meals a day with his wolf metabolism."
+    "@@@A guy like Leo probably needs to eat four meals a day with his wolf metabolism."
 
-# game/Flynn-Thursday.rpy:9924
+# game/Flynn-Thursday.rpy:9926
 translate Schinese UpdateBegin_6c255663:
 
     # "His nose is starting to bleed too, probably cracking from how dehumidified I keep it in here."
-    "His nose is starting to bleed too, probably cracking from how dehumidified I keep it in here."
+    "@@@His nose is starting to bleed too, probably cracking from how dehumidified I keep it in here."
 
-# game/Flynn-Thursday.rpy:9925
+# game/Flynn-Thursday.rpy:9927
 translate Schinese UpdateBegin_b9bb9c8a:
 
     # j "\"So, despite all of us, sans you and Flynn, having had experiences with this.. thing, you want to completely disregard it?\""
-    j "\"So, despite all of us, sans you and Flynn, having had experiences with this.. thing, you want to completely disregard it?\""
+    j "@@@\"So, despite all of us, sans you and Flynn, having had experiences with this.. thing, you want to completely disregard it?\""
 
-# game/Flynn-Thursday.rpy:9926
+# game/Flynn-Thursday.rpy:9928
 translate Schinese UpdateBegin_3f479ff6:
 
     # "Leo just nods."
-    "Leo just nods."
+    "@@@Leo just nods."
 
-# game/Flynn-Thursday.rpy:9927
+# game/Flynn-Thursday.rpy:9929
 translate Schinese UpdateBegin_b80763e7:
 
     # "And to be fair, I'm fucking flabbergasted by what they're saying, as well."
-    "And to be fair, I'm fucking flabbergasted by what they're saying, as well."
+    "@@@And to be fair, I'm fucking flabbergasted by what they're saying, as well."
 
-# game/Flynn-Thursday.rpy:9928
+# game/Flynn-Thursday.rpy:9930
 translate Schinese UpdateBegin_68be740d:
 
     # "But at the same time, the coincidence of all this is just too much."
-    "But at the same time, the coincidence of all this is just too much."
+    "@@@But at the same time, the coincidence of all this is just too much."
 
-# game/Flynn-Thursday.rpy:9929
+# game/Flynn-Thursday.rpy:9931
 translate Schinese UpdateBegin_86de462a:
 
     # "TJ's tough to read now, but I don't doubt the sincerity of Carl, Jenna, or even Daxton in that they believe what they're saying."
-    "TJ's tough to read now, but I don't doubt the sincerity of Carl, Jenna, or even Daxton in that they believe what they're saying."
+    "@@@TJ's tough to read now, but I don't doubt the sincerity of Carl, Jenna, or even Daxton in that they believe what they're saying."
 
-# game/Flynn-Thursday.rpy:9930
+# game/Flynn-Thursday.rpy:9932
 translate Schinese UpdateBegin_341fe95f:
 
     # f "\"I just want the truth.\""
-    f "\"I just want the truth.\""
+    f "@@@\"I just want the truth.\""
 
-# game/Flynn-Thursday.rpy:9931
+# game/Flynn-Thursday.rpy:9933
 translate Schinese UpdateBegin_6ebcdb1d:
 
     # f "\"That's all I want.\""
-    f "\"That's all I want.\""
+    f "@@@\"That's all I want.\""
 
-# game/Flynn-Thursday.rpy:9932
+# game/Flynn-Thursday.rpy:9934
 translate Schinese UpdateBegin_3f739ce1_1:
 
     # "I sigh."
-    "I sigh."
+    "@@@I sigh."
 
-# game/Flynn-Thursday.rpy:9933
+# game/Flynn-Thursday.rpy:9935
 translate Schinese UpdateBegin_de030282:
 
     # f "\"I think we should talk to my aunt.\""
-    f "\"I think we should talk to my aunt.\""
+    f "@@@\"I think we should talk to my aunt.\""
 
-# game/Flynn-Thursday.rpy:9934
+# game/Flynn-Thursday.rpy:9936
 translate Schinese UpdateBegin_f0d4c625:
 
     # da "\"Why your aunt?\""
-    da "\"Why your aunt?\""
+    da "@@@\"Why your aunt?\""
 
-# game/Flynn-Thursday.rpy:9935
+# game/Flynn-Thursday.rpy:9937
 translate Schinese UpdateBegin_f90f6791:
 
     # f "\"She's good with this sorta shit.\""
-    f "\"She's good with this sorta shit.\""
+    f "@@@\"She's good with this sorta shit.\""
 
-# game/Flynn-Thursday.rpy:9936
+# game/Flynn-Thursday.rpy:9938
 translate Schinese UpdateBegin_17799653:
 
     # "I pause."
-    "I pause."
+    "@@@I pause."
 
-# game/Flynn-Thursday.rpy:9937
+# game/Flynn-Thursday.rpy:9939
 translate Schinese UpdateBegin_70d5bb17:
 
     # f "\"Well, I don't know what 'this' is that's happening but, fuck, I don't know what else to do.\""
-    f "\"Well, I don't know what 'this' is that's happening but, fuck, I don't know what else to do.\""
+    f "@@@\"Well, I don't know what 'this' is that's happening but, fuck, I don't know what else to do.\""
 
-# game/Flynn-Thursday.rpy:9938
+# game/Flynn-Thursday.rpy:9940
 translate Schinese UpdateBegin_cf3373ba:
 
     # "Leo just frowns at me."
-    "Leo just frowns at me."
+    "@@@Leo just frowns at me."
 
-# game/Flynn-Thursday.rpy:9939
+# game/Flynn-Thursday.rpy:9941
 translate Schinese UpdateBegin_ea090191:
 
     # "I frown back at him."
-    "I frown back at him."
+    "@@@I frown back at him."
 
-# game/Flynn-Thursday.rpy:9940
+# game/Flynn-Thursday.rpy:9942
 translate Schinese UpdateBegin_5cb79975:
 
     # f "\"You can go home if ya want. I know it's tempting now that Chase isn't here for you to stalk.\""
-    f "\"You can go home if ya want. I know it's tempting now that Chase isn't here for you to stalk.\""
+    f "@@@\"You can go home if ya want. I know it's tempting now that Chase isn't here for you to stalk.\""
 
-# game/Flynn-Thursday.rpy:9941
+# game/Flynn-Thursday.rpy:9943
 translate Schinese UpdateBegin_3fca2b12:
 
     # l "\"Chase'll track me down like he always does. He'd be right pissed if I let anything happen to you guys, though.\""
-    l "\"Chase'll track me down like he always does. He'd be right pissed if I let anything happen to you guys, though.\""
+    l "@@@\"Chase'll track me down like he always does. He'd be right pissed if I let anything happen to you guys, though.\""
 
-# game/Flynn-Thursday.rpy:9942
+# game/Flynn-Thursday.rpy:9944
 translate Schinese UpdateBegin_54e21895:
 
     # l "\"Who knows, maybe he's seen the 'wendigo' too.\""
-    l "\"Who knows, maybe he's seen the 'wendigo' too.\""
+    l "@@@\"Who knows, maybe he's seen the 'wendigo' too.\""
 
-# game/Flynn-Thursday.rpy:9943
+# game/Flynn-Thursday.rpy:9945
 translate Schinese UpdateBegin_93c9c51a:
 
     # "Daxton side-eyes me with a baffled look."
-    "Daxton side-eyes me with a baffled look."
+    "@@@Daxton side-eyes me with a baffled look."
 
-# game/Flynn-Thursday.rpy:9944
+# game/Flynn-Thursday.rpy:9946
 translate Schinese UpdateBegin_a7195617:
 
     # l "\"Do you have a spare gun I could borrow?\""
-    l "\"Do you have a spare gun I could borrow?\""
+    l "@@@\"Do you have a spare gun I could borrow?\""
 
-# game/Flynn-Thursday.rpy:9946
+# game/Flynn-Thursday.rpy:9948
 translate Schinese UpdateBegin_65c7a373:
 
     # j "\"Jesus, is this really what it's come to?\""
-    j "\"Jesus, is this really what it's come to?\""
+    j "@@@\"Jesus, is this really what it's come to?\""
 
-# game/Flynn-Thursday.rpy:9947
+# game/Flynn-Thursday.rpy:9949
 translate Schinese UpdateBegin_39290225:
 
     # "I look at Leo for a long moment."
-    "I look at Leo for a long moment."
+    "@@@I look at Leo for a long moment."
 
-# game/Flynn-Thursday.rpy:9948
+# game/Flynn-Thursday.rpy:9950
 translate Schinese UpdateBegin_bc1fa391:
 
     # "He's been sort of a gun nut as of late, which is real strange noting how against them he was in high school."
-    "He's been sort of a gun nut as of late, which is real strange noting how against them he was in high school."
+    "@@@He's been sort of a gun nut as of late, which is real strange noting how against them he was in high school."
 
-# game/Flynn-Thursday.rpy:9949
+# game/Flynn-Thursday.rpy:9951
 translate Schinese UpdateBegin_d5f5e124:
 
     # f "\"You licensed?\""
-    f "\"You licensed?\""
+    f "@@@\"You licensed?\""
 
-# game/Flynn-Thursday.rpy:9950
+# game/Flynn-Thursday.rpy:9952
 translate Schinese UpdateBegin_f1ebfc0e:
 
     # l "\"Yep, open carry. I know what I'm doing.\""
-    l "\"Yep, open carry. I know what I'm doing.\""
+    l "@@@\"Yep, open carry. I know what I'm doing.\""
 
-# game/Flynn-Thursday.rpy:9951
+# game/Flynn-Thursday.rpy:9953
 translate Schinese UpdateBegin_416f537f:
 
     # j "\"That's not saying much noting our state has the most lax weapon licensing standards in the nation.\""
-    j "\"That's not saying much noting our state has the most lax weapon licensing standards in the nation.\""
+    j "@@@\"That's not saying much noting our state has the most lax weapon licensing standards in the nation.\""
 
-# game/Flynn-Thursday.rpy:9952
+# game/Flynn-Thursday.rpy:9954
 translate Schinese UpdateBegin_ae04b00c:
 
     # "That's typical Jenna for ya: reality's going out the window but she'll still be there thrusting some socio-political bullet point in the middle of it."
-    "That's typical Jenna for ya: reality's going out the window but she'll still be there thrusting some socio-political bullet point in the middle of it."
+    "@@@That's typical Jenna for ya: reality's going out the window but she'll still be there thrusting some socio-political bullet point in the middle of it."
 
-# game/Flynn-Thursday.rpy:9953
+# game/Flynn-Thursday.rpy:9955
 translate Schinese UpdateBegin_8459affd:
 
     # f "\"All my shit's licensed for me and me alone.\""
-    f "\"All my shit's licensed for me and me alone.\""
+    f "@@@\"All my shit's licensed for me and me alone.\""
 
-# game/Flynn-Thursday.rpy:9954
+# game/Flynn-Thursday.rpy:9956
 translate Schinese UpdateBegin_31116c37:
 
     # "Leo just stares at me before walking off."
-    "Leo just stares at me before walking off."
+    "@@@Leo just stares at me before walking off."
 
-# game/Flynn-Thursday.rpy:9956
+# game/Flynn-Thursday.rpy:9958
 translate Schinese UpdateBegin_8bf3d3b8:
 
     # l "\"To your aunt's house, then.\""
-    l "\"To your aunt's house, then.\""
+    l "@@@\"To your aunt's house, then.\""
 
-# game/Flynn-Thursday.rpy:9958
+# game/Flynn-Thursday.rpy:9960
 translate Schinese UpdateBegin_75178b55:
 
     # "He grabs a flashlight and makes his way out the front door."
-    "He grabs a flashlight and makes his way out the front door."
+    "@@@He grabs a flashlight and makes his way out the front door."
 
-# game/Flynn-Thursday.rpy:9967
+# game/Flynn-Thursday.rpy:9969
 translate Schinese UpdateBegin_f5a06d74:
 
     # l "\"What?\""
-    l "\"What?\""
+    l "@@@\"What?\""
 
-# game/Flynn-Thursday.rpy:9968
+# game/Flynn-Thursday.rpy:9970
 translate Schinese UpdateBegin_754741b3:
 
     # "Leo crosses his arms firmly over his chest, the wolf having been the last one who was still actually eating dinner."
-    "Leo crosses his arms firmly over his chest, the wolf having been the last one who was still actually eating dinner."
+    "@@@Leo crosses his arms firmly over his chest, the wolf having been the last one who was still actually eating dinner."
 
-# game/Flynn-Thursday.rpy:9969
+# game/Flynn-Thursday.rpy:9971
 translate Schinese UpdateBegin_5770534f:
 
     # l "\"Guys, I understand the stress of all this, yeah? But seriously, this is too much.\""
-    l "\"Guys, I understand the stress of all this, yeah? But seriously, this is too much.\""
+    l "@@@\"Guys, I understand the stress of all this, yeah? But seriously, this is too much.\""
 
-# game/Flynn-Thursday.rpy:9970
+# game/Flynn-Thursday.rpy:9972
 translate Schinese UpdateBegin_3cd3b95f:
 
     # l "\"Jenna, you're pragmatic and all that, and to see you going off like this has me awfully concerned.\""
-    l "\"Jenna, you're pragmatic and all that, and to see you going off like this has me awfully concerned.\""
+    l "@@@\"Jenna, you're pragmatic and all that, and to see you going off like this has me awfully concerned.\""
 
-# game/Flynn-Thursday.rpy:9971
+# game/Flynn-Thursday.rpy:9973
 translate Schinese UpdateBegin_d0134053:
 
     # l "\"This isn't one of our old VHS horror movie nights.\""
-    l "\"This isn't one of our old VHS horror movie nights.\""
+    l "@@@\"This isn't one of our old VHS horror movie nights.\""
 
-# game/Flynn-Thursday.rpy:9972
+# game/Flynn-Thursday.rpy:9974
 translate Schinese UpdateBegin_0edd29e8:
 
     # "He looks to me now, his voice stern and steady."
-    "He looks to me now, his voice stern and steady."
+    "@@@He looks to me now, his voice stern and steady."
 
-# game/Flynn-Thursday.rpy:9973
+# game/Flynn-Thursday.rpy:9975
 translate Schinese UpdateBegin_46219a4c:
 
     # l "\"Sydney is not some zombie-thing rising from the lake to get revenge on us spring breakers.\""
-    l "\"Sydney is not some zombie-thing rising from the lake to get revenge on us spring breakers.\""
+    l "@@@\"Sydney is not some zombie-thing rising from the lake to get revenge on us spring breakers.\""
 
-# game/Flynn-Thursday.rpy:9974
+# game/Flynn-Thursday.rpy:9976
 translate Schinese UpdateBegin_d85385f0:
 
     # l "\"He was just a kid, and he died, and we need to move on.\""
-    l "\"He was just a kid, and he died, and we need to move on.\""
+    l "@@@\"He was just a kid, and he died, and we need to move on.\""
 
-# game/Flynn-Thursday.rpy:9975
+# game/Flynn-Thursday.rpy:9977
 translate Schinese UpdateBegin_c5f6ab82:
 
     # l "\"Forget, forgive - I don't give a damn, really.\""
-    l "\"Forget, forgive - I don't give a damn, really.\""
+    l "@@@\"Forget, forgive - I don't give a damn, really.\""
 
-# game/Flynn-Thursday.rpy:9976
+# game/Flynn-Thursday.rpy:9978
 translate Schinese UpdateBegin_9879896d:
 
     # "He brings his heavy paw up to his face, rubbing at the space between his eyes."
-    "He brings his heavy paw up to his face, rubbing at the space between his eyes."
+    "@@@He brings his heavy paw up to his face, rubbing at the space between his eyes."
 
-# game/Flynn-Thursday.rpy:9977
+# game/Flynn-Thursday.rpy:9979
 translate Schinese UpdateBegin_74e3a973:
 
     # "His nose is starting to bleed, probably cracking from how dehumidified I keep it in here."
-    "His nose is starting to bleed, probably cracking from how dehumidified I keep it in here."
+    "@@@His nose is starting to bleed, probably cracking from how dehumidified I keep it in here."
 
-# game/Flynn-Thursday.rpy:9978
+# game/Flynn-Thursday.rpy:9980
 translate Schinese UpdateBegin_d86f4345:
 
     # "I want to believe what he's saying."
-    "I want to believe what he's saying."
+    "@@@I want to believe what he's saying."
 
-# game/Flynn-Thursday.rpy:9979
+# game/Flynn-Thursday.rpy:9981
 translate Schinese UpdateBegin_c03d0df0:
 
     # "I'm ready to call all these fuckers out on their bullshit."
-    "I'm ready to call all these fuckers out on their bullshit."
+    "@@@I'm ready to call all these fuckers out on their bullshit."
 
-# game/Flynn-Thursday.rpy:9980
+# game/Flynn-Thursday.rpy:9982
 translate Schinese UpdateBegin_68be740d_1:
 
     # "But at the same time, the coincidence of all this is just too much."
-    "But at the same time, the coincidence of all this is just too much."
+    "@@@But at the same time, the coincidence of all this is just too much."
 
-# game/Flynn-Thursday.rpy:9981
+# game/Flynn-Thursday.rpy:9983
 translate Schinese UpdateBegin_86de462a_1:
 
     # "TJ's tough to read now, but I don't doubt the sincerity of Carl, Jenna, or even Daxton in that they believe what they're saying."
-    "TJ's tough to read now, but I don't doubt the sincerity of Carl, Jenna, or even Daxton in that they believe what they're saying."
+    "@@@TJ's tough to read now, but I don't doubt the sincerity of Carl, Jenna, or even Daxton in that they believe what they're saying."
 
-# game/Flynn-Thursday.rpy:9982
+# game/Flynn-Thursday.rpy:9984
 translate Schinese UpdateBegin_341fe95f_1:
 
     # f "\"I just want the truth.\""
-    f "\"I just want the truth.\""
+    f "@@@\"I just want the truth.\""
 
-# game/Flynn-Thursday.rpy:9983
+# game/Flynn-Thursday.rpy:9985
 translate Schinese UpdateBegin_6ebcdb1d_1:
 
     # f "\"That's all I want.\""
-    f "\"That's all I want.\""
+    f "@@@\"That's all I want.\""
 
-# game/Flynn-Thursday.rpy:9984
+# game/Flynn-Thursday.rpy:9986
 translate Schinese UpdateBegin_3f739ce1_2:
 
     # "I sigh."
-    "I sigh."
+    "@@@I sigh."
 
-# game/Flynn-Thursday.rpy:9985
+# game/Flynn-Thursday.rpy:9987
 translate Schinese UpdateBegin_de030282_1:
 
     # f "\"I think we should talk to my aunt.\""
-    f "\"I think we should talk to my aunt.\""
+    f "@@@\"I think we should talk to my aunt.\""
 
-# game/Flynn-Thursday.rpy:9986
+# game/Flynn-Thursday.rpy:9988
 translate Schinese UpdateBegin_f0d4c625_1:
 
     # da "\"Why your aunt?\""
-    da "\"Why your aunt?\""
+    da "@@@\"Why your aunt?\""
 
-# game/Flynn-Thursday.rpy:9987
+# game/Flynn-Thursday.rpy:9989
 translate Schinese UpdateBegin_f90f6791_1:
 
     # f "\"She's good with this sorta shit.\""
-    f "\"She's good with this sorta shit.\""
+    f "@@@\"She's good with this sorta shit.\""
 
-# game/Flynn-Thursday.rpy:9988
+# game/Flynn-Thursday.rpy:9990
 translate Schinese UpdateBegin_17799653_1:
 
     # "I pause."
-    "I pause."
+    "@@@I pause."
 
-# game/Flynn-Thursday.rpy:9989
+# game/Flynn-Thursday.rpy:9991
 translate Schinese UpdateBegin_70d5bb17_1:
 
     # f "\"Well, I don't know what 'this' is that's happening but, fuck, I don't know what else to do.\""
-    f "\"Well, I don't know what 'this' is that's happening but, fuck, I don't know what else to do.\""
+    f "@@@\"Well, I don't know what 'this' is that's happening but, fuck, I don't know what else to do.\""
 
-# game/Flynn-Thursday.rpy:9990
+# game/Flynn-Thursday.rpy:9992
 translate Schinese UpdateBegin_cf3373ba_1:
 
     # "Leo just frowns at me."
-    "Leo just frowns at me."
+    "@@@Leo just frowns at me."
 
-# game/Flynn-Thursday.rpy:9991
+# game/Flynn-Thursday.rpy:9993
 translate Schinese UpdateBegin_976d1bad:
 
     # l "\"I'm guessing you're wanting to go now, huh?\""
-    l "\"I'm guessing you're wanting to go now, huh?\""
+    l "@@@\"I'm guessing you're wanting to go now, huh?\""
 
-# game/Flynn-Thursday.rpy:9992
+# game/Flynn-Thursday.rpy:9994
 translate Schinese UpdateBegin_5cb79975_1:
 
     # f "\"You can go home if ya want. I know it's tempting now that Chase isn't here for you to stalk.\""
-    f "\"You can go home if ya want. I know it's tempting now that Chase isn't here for you to stalk.\""
+    f "@@@\"You can go home if ya want. I know it's tempting now that Chase isn't here for you to stalk.\""
 
-# game/Flynn-Thursday.rpy:9993
+# game/Flynn-Thursday.rpy:9995
 translate Schinese UpdateBegin_de6b9c67:
 
     # l "\"I just-...\""
-    l "\"I just-...\""
+    l "@@@\"I just-...\""
 
-# game/Flynn-Thursday.rpy:9994
+# game/Flynn-Thursday.rpy:9996
 translate Schinese UpdateBegin_8982c9db:
 
     # l "\"You're right partially.\""
-    l "\"You're right partially.\""
+    l "@@@\"You're right partially.\""
 
-# game/Flynn-Thursday.rpy:9995
+# game/Flynn-Thursday.rpy:9997
 translate Schinese UpdateBegin_75be4cd0:
 
     # l "\"I'm really wanting to talk to Chase alone about all this. The lying and stuff.\""
-    l "\"I'm really wanting to talk to Chase alone about all this. The lying and stuff.\""
+    l "@@@\"I'm really wanting to talk to Chase alone about all this. The lying and stuff.\""
 
-# game/Flynn-Thursday.rpy:9996
+# game/Flynn-Thursday.rpy:9998
 translate Schinese UpdateBegin_1939486d:
 
     # "He shrugs."
-    "He shrugs."
+    "@@@He shrugs."
 
-# game/Flynn-Thursday.rpy:9997
+# game/Flynn-Thursday.rpy:9999
 translate Schinese UpdateBegin_54e21895_1:
 
     # l "\"Who knows, maybe he's seen the 'wendigo' too.\""
-    l "\"Who knows, maybe he's seen the 'wendigo' too.\""
+    l "@@@\"Who knows, maybe he's seen the 'wendigo' too.\""
 
-# game/Flynn-Thursday.rpy:9998
+# game/Flynn-Thursday.rpy:10000
 translate Schinese UpdateBegin_a7195617_1:
 
     # l "\"Do you have a spare gun I could borrow?\""
-    l "\"Do you have a spare gun I could borrow?\""
+    l "@@@\"Do you have a spare gun I could borrow?\""
 
-# game/Flynn-Thursday.rpy:10000
+# game/Flynn-Thursday.rpy:10002
 translate Schinese UpdateBegin_65c7a373_1:
 
     # j "\"Jesus, is this really what it's come to?\""
@@ -47523,985 +47525,985 @@ translate Schinese UpdateBegin_f826547f:
 translate Schinese UpdateBegin_d35e8403:
 
     # "It's quiet when I enter, though I can hear the subtle sounds of shuffling paper coming from down the hall."
-    "It's quiet when I enter, though I can hear the subtle sounds of shuffling paper coming from down the hall."
+    "@@@It's quiet when I enter, though I can hear the subtle sounds of shuffling paper coming from down the hall."
 
 # game/Flynn-Thursday.rpy:10208
 translate Schinese UpdateBegin_b513084e:
 
     # "I'm starting to feel this strange sorta pang in my head, like someone's pressing an ice pack to the front of my skull."
-    "I'm starting to feel this strange sorta pang in my head, like someone's pressing an ice pack to the front of my skull."
+    "@@@I'm starting to feel this strange sorta pang in my head, like someone's pressing an ice pack to the front of my skull."
 
 # game/Flynn-Thursday.rpy:10209
 translate Schinese UpdateBegin_295d6dc7:
 
     # "Maybe it's because I'm nervous."
-    "Maybe it's because I'm nervous."
+    "@@@Maybe it's because I'm nervous."
 
 # game/Flynn-Thursday.rpy:10211
 translate Schinese UpdateBegin_54fb6d20:
 
     # "Regardless.. here I go."
-    "Regardless.. here I go."
+    "@@@Regardless.. here I go."
 
 # game/Flynn-Thursday.rpy:10217
 translate Schinese UpdateBegin_a7ac2d7c:
 
     # "I walk lightly, peering around the corner into Auntie's office."
-    "I walk lightly, peering around the corner into Auntie's office."
+    "@@@I walk lightly, peering around the corner into Auntie's office."
 
 # game/Flynn-Thursday.rpy:10218
 translate Schinese UpdateBegin_54bdf76f:
 
     # "Her fingers flick along various pages within a manila folder, her tropical flower-print scarf swaying with her every movement."
-    "Her fingers flick along various pages within a manila folder, her tropical flower-print scarf swaying with her every movement."
+    "@@@Her fingers flick along various pages within a manila folder, her tropical flower-print scarf swaying with her every movement."
 
 # game/Flynn-Thursday.rpy:10219
 translate Schinese UpdateBegin_81423d24:
 
     # "I watch her, illuminated only by the soft glow of the moonlight outside."
-    "I watch her, illuminated only by the soft glow of the moonlight outside."
+    "@@@I watch her, illuminated only by the soft glow of the moonlight outside."
 
 # game/Flynn-Thursday.rpy:10220
 translate Schinese UpdateBegin_5985494d:
 
     # "I'm wrought with this uneasy sorta feeling where I can't tell if she actually knows that I'm here or not, or whether she cares."
-    "I'm wrought with this uneasy sorta feeling where I can't tell if she actually knows that I'm here or not, or whether she cares."
+    "@@@I'm wrought with this uneasy sorta feeling where I can't tell if she actually knows that I'm here or not, or whether she cares."
 
 # game/Flynn-Thursday.rpy:10221
 translate Schinese UpdateBegin_afa1108e:
 
     # "It's a familiar feeling, but never one I quite got used to."
-    "It's a familiar feeling, but never one I quite got used to."
+    "@@@It's a familiar feeling, but never one I quite got used to."
 
 # game/Flynn-Thursday.rpy:10222
 translate Schinese UpdateBegin_82be80f0:
 
     # f "\"There's a hell of a ruckus outside. You looking for something?\""
-    f "\"There's a hell of a ruckus outside. You looking for something?\""
+    f "@@@\"There's a hell of a ruckus outside. You looking for something?\""
 
 # game/Flynn-Thursday.rpy:10223
 translate Schinese UpdateBegin_24b3e222:
 
     # ma "\"Anything of substance regardin' the whole hysteria business.\""
-    ma "\"Anything of substance regardin' the whole hysteria business.\""
+    ma "@@@\"Anything of substance regardin' the whole hysteria business.\""
 
 # game/Flynn-Thursday.rpy:10224
 translate Schinese UpdateBegin_a8b8ea50:
 
     # "She speaks plainly."
-    "She speaks plainly."
+    "@@@She speaks plainly."
 
 # game/Flynn-Thursday.rpy:10225
 translate Schinese UpdateBegin_2aa0ff41:
 
     # f "\"What?\""
-    f "\"What?\""
+    f "@@@\"What?\""
 
 # game/Flynn-Thursday.rpy:10226
 translate Schinese UpdateBegin_dbd21532:
 
     # ma "\"I'll tell ya in a second. Is Mark here yet?\""
-    ma "\"I'll tell ya in a second. Is Mark here yet?\""
+    ma "@@@\"I'll tell ya in a second. Is Mark here yet?\""
 
 # game/Flynn-Thursday.rpy:10227
 translate Schinese UpdateBegin_c9d0a1bf:
 
     # "She cranes her neck to peer out the tiny slitted window in the corner of her office, yet there's not much of a view other than the side of a sage bush."
-    "She cranes her neck to peer out the tiny slitted window in the corner of her office, yet there's not much of a view other than the side of a sage bush."
+    "@@@She cranes her neck to peer out the tiny slitted window in the corner of her office, yet there's not much of a view other than the side of a sage bush."
 
 # game/Flynn-Thursday.rpy:10228
 translate Schinese UpdateBegin_9fc7da3f:
 
     # f "\"I saw him pulling up in his SUV outside with like a whole convoy of folk following him.\""
-    f "\"I saw him pulling up in his SUV outside with like a whole convoy of folk following him.\""
+    f "@@@\"I saw him pulling up in his SUV outside with like a whole convoy of folk following him.\""
 
 # game/Flynn-Thursday.rpy:10229
 translate Schinese UpdateBegin_ca854db6:
 
     # f "\"This 'bout Clint?\""
-    f "\"This 'bout Clint?\""
+    f "@@@\"This 'bout Clint?\""
 
 # game/Flynn-Thursday.rpy:10230
 translate Schinese UpdateBegin_7810883d:
 
     # "She looks up, seeming to notice my repeater for the first time."
-    "She looks up, seeming to notice my repeater for the first time."
+    "@@@She looks up, seeming to notice my repeater for the first time."
 
 # game/Flynn-Thursday.rpy:10231
 translate Schinese UpdateBegin_73734b90:
 
     # "Her brow furrows."
-    "Her brow furrows."
+    "@@@Her brow furrows."
 
 # game/Flynn-Thursday.rpy:10232
 translate Schinese UpdateBegin_8c42fc81:
 
     # ma "\"Y'know, under any other circumstance, I'd give ya a chewing out for bringing that inside.\""
-    ma "\"Y'know, under any other circumstance, I'd give ya a chewing out for bringing that inside.\""
+    ma "@@@\"Y'know, under any other circumstance, I'd give ya a chewing out for bringing that inside.\""
 
 # game/Flynn-Thursday.rpy:10233
 translate Schinese UpdateBegin_4dc11830:
 
     # ma "\"I did hear he's been making a hell of a scene around town, waving a gun around.\""
-    ma "\"I did hear he's been making a hell of a scene around town, waving a gun around.\""
+    ma "@@@\"I did hear he's been making a hell of a scene around town, waving a gun around.\""
 
 # game/Flynn-Thursday.rpy:10234
 translate Schinese UpdateBegin_5f1781f5:
 
     # ma "\"Figured it was a meth binge until I saw Dale doing the same damn thing.\""
-    ma "\"Figured it was a meth binge until I saw Dale doing the same damn thing.\""
+    ma "@@@\"Figured it was a meth binge until I saw Dale doing the same damn thing.\""
 
 # game/Flynn-Thursday.rpy:10235
 translate Schinese UpdateBegin_e5acf840:
 
     # f "\"Diner Dale? That fucking otter is kind of a softie, ain't he? Ya don't think it's got to do with his painkiller addiction?\""
-    f "\"Diner Dale? That fucking otter is kind of a softie, ain't he? Ya don't think it's got to do with his painkiller addiction?\""
+    f "@@@\"Diner Dale? That fucking otter is kind of a softie, ain't he? Ya don't think it's got to do with his painkiller addiction?\""
 
 # game/Flynn-Thursday.rpy:10236
 translate Schinese UpdateBegin_b4091737:
 
     # ma "\"Tch, I popped four of the pills he takes earlier, y'know, for the aches. It ain't the sorta thing to put ya in a gunfightin' mood.\""
-    ma "\"Tch, I popped four of the pills he takes earlier, y'know, for the aches. It ain't the sorta thing to put ya in a gunfightin' mood.\""
+    ma "@@@\"Tch, I popped four of the pills he takes earlier, y'know, for the aches. It ain't the sorta thing to put ya in a gunfightin' mood.\""
 
 # game/Flynn-Thursday.rpy:10237
 translate Schinese UpdateBegin_2beca25e:
 
     # "I nod. Despite everything she's telling me, I can't really focus on it."
-    "I nod. Despite everything she's telling me, I can't really focus on it."
+    "@@@I nod. Despite everything she's telling me, I can't really focus on it."
 
 # game/Flynn-Thursday.rpy:10238
 translate Schinese UpdateBegin_1a5fc661:
 
     # "I keep looking back toward the closed reading room door behind me."
-    "I keep looking back toward the closed reading room door behind me."
+    "@@@I keep looking back toward the closed reading room door behind me."
 
 # game/Flynn-Thursday.rpy:10239
 translate Schinese UpdateBegin_a3cd4577:
 
     # "Fuck, might as well just get it over with."
-    "Fuck, might as well just get it over with."
+    "@@@Fuck, might as well just get it over with."
 
 # game/Flynn-Thursday.rpy:10240
 translate Schinese UpdateBegin_a5e8d1c4:
 
     # "I take a deep breath."
-    "I take a deep breath."
+    "@@@I take a deep breath."
 
 # game/Flynn-Thursday.rpy:10241
 translate Schinese UpdateBegin_cac8f814:
 
     # f "\"Did you let Chase out?\""
-    f "\"Did you let Chase out?\""
+    f "@@@\"Did you let Chase out?\""
 
 # game/Flynn-Thursday.rpy:10242
 translate Schinese UpdateBegin_02fe904b:
 
     # ma "\"What?\""
-    ma "\"What?\""
+    ma "@@@\"What?\""
 
 # game/Flynn-Thursday.rpy:10243
 translate Schinese UpdateBegin_d3722762:
 
     # "She seems confused at the sudden change of topic."
-    "She seems confused at the sudden change of topic."
+    "@@@She seems confused at the sudden change of topic."
 
 # game/Flynn-Thursday.rpy:10244
 translate Schinese UpdateBegin_d477c3c3:
 
     # ma "\"Chase, Leo's lover boy?\""
-    ma "\"Chase, Leo's lover boy?\""
+    ma "@@@\"Chase, Leo's lover boy?\""
 
 # game/Flynn-Thursday.rpy:10245
 translate Schinese UpdateBegin_686a5514:
 
     # f "\"Former lover boy.\""
-    f "\"Former lover boy.\""
+    f "@@@\"Former lover boy.\""
 
 # game/Flynn-Thursday.rpy:10246
 translate Schinese UpdateBegin_e8b8cd99:
 
     # f "\"He hasn't been pounding on the door to get out?\""
-    f "\"He hasn't been pounding on the door to get out?\""
+    f "@@@\"He hasn't been pounding on the door to get out?\""
 
 # game/Flynn-Thursday.rpy:10247
 translate Schinese UpdateBegin_f4969f2f:
 
     # ma "\"Boy, what are you talking about?\""
-    ma "\"Boy, what are you talking about?\""
+    ma "@@@\"Boy, what are you talking about?\""
 
 # game/Flynn-Thursday.rpy:10248
 translate Schinese UpdateBegin_152a97af:
 
     # ma "\"I haven't seen him since you brought him and the Hendricks boy to City Hall the other afternoon.\""
-    ma "\"I haven't seen him since you brought him and the Hendricks boy to City Hall the other afternoon.\""
+    ma "@@@\"I haven't seen him since you brought him and the Hendricks boy to City Hall the other afternoon.\""
 
 # game/Flynn-Thursday.rpy:10249
 translate Schinese UpdateBegin_36eae5ce:
 
     # "I turn, moving out to the hallway and unlocking the reading room door."
-    "I turn, moving out to the hallway and unlocking the reading room door."
+    "@@@I turn, moving out to the hallway and unlocking the reading room door."
 
 # game/Flynn-Thursday.rpy:10250
 translate Schinese UpdateBegin_f77684de:
 
     # "I always thought it was weird that it had a lock facing the hall, though I think Auntie mentioned there used to be a back exit through here."
-    "I always thought it was weird that it had a lock facing the hall, though I think Auntie mentioned there used to be a back exit through here."
+    "@@@I always thought it was weird that it had a lock facing the hall, though I think Auntie mentioned there used to be a back exit through here."
 
 # game/Flynn-Thursday.rpy:10251
 translate Schinese UpdateBegin_f0014cea:
 
     # f "\"What the hell...\""
-    f "\"What the hell...\""
+    f "@@@\"What the hell...\""
 
 # game/Flynn-Thursday.rpy:10252
 translate Schinese UpdateBegin_0e1608df:
 
     # ma "\"Flynn, what did you do?\""
-    ma "\"Flynn, what did you do?\""
+    ma "@@@\"Flynn, what did you do?\""
 
 # game/Flynn-Thursday.rpy:10253
 translate Schinese UpdateBegin_f60e034f:
 
     # "I ignore my aunt's exasperated voice as I push open the door, stepping into the dark room."
-    "I ignore my aunt's exasperated voice as I push open the door, stepping into the dark room."
+    "@@@I ignore my aunt's exasperated voice as I push open the door, stepping into the dark room."
 
 # game/Flynn-Thursday.rpy:10254
 translate Schinese UpdateBegin_bfe0fd89:
 
     # "It's mustier than a skunk's ass in here with all the rain damage - I can practically feel the mildew and mold on my toes as I run my hand along the wall."
-    "It's mustier than a skunk's ass in here with all the rain damage - I can practically feel the mildew and mold on my toes as I run my hand along the wall."
+    "@@@It's mustier than a skunk's ass in here with all the rain damage - I can practically feel the mildew and mold on my toes as I run my hand along the wall."
 
 # game/Flynn-Thursday.rpy:10257
 translate Schinese UpdateBegin_b27822fb:
 
     # "Eventually, I find the light switch."
-    "Eventually, I find the light switch."
+    "@@@Eventually, I find the light switch."
 
 # game/Flynn-Thursday.rpy:10258
 translate Schinese UpdateBegin_511274f8:
 
     # f "\"Chase?\""
-    f "\"Chase?\""
+    f "@@@\"Chase?\""
 
 # game/Flynn-Thursday.rpy:10259
 translate Schinese UpdateBegin_e1789c55:
 
     # c "\"He's not in here?\""
-    c "\"He's not in here?\""
+    c "@@@\"He's not in here?\""
 
 # game/Flynn-Thursday.rpy:10261
 translate Schinese UpdateBegin_a00df1f8:
 
     # "Carl's voice takes me by surprise, the ram standing slightly behind me."
-    "Carl's voice takes me by surprise, the ram standing slightly behind me."
+    "@@@Carl's voice takes me by surprise, the ram standing slightly behind me."
 
 # game/Flynn-Thursday.rpy:10263
 translate Schinese UpdateBegin_e56c3fde:
 
     # "And of course, Daxton's there too - the salamander gawping at the interior like he's in some kinda museum."
-    "And of course, Daxton's there too - the salamander gawping at the interior like he's in some kinda museum."
+    "@@@And of course, Daxton's there too - the salamander gawping at the interior like he's in some kinda museum."
 
 # game/Flynn-Thursday.rpy:10264
 translate Schinese UpdateBegin_167516ba:
 
     # da "\"I can't believe ya locked Chase up. Like, do city clerks have the authority to do that?\""
-    da "\"I can't believe ya locked Chase up. Like, do city clerks have the authority to do that?\""
+    da "@@@\"I can't believe ya locked Chase up. Like, do city clerks have the authority to do that?\""
 
 # game/Flynn-Thursday.rpy:10265
 translate Schinese UpdateBegin_60c63153:
 
     # c "\"Not unless he's like.. archiving him.\""
-    c "\"Not unless he's like.. archiving him.\""
+    c "@@@\"Not unless he's like.. archiving him.\""
 
 # game/Flynn-Thursday.rpy:10266
 translate Schinese UpdateBegin_46dd667a:
 
     # f "\"You told him!?\""
-    f "\"You told him!?\""
+    f "@@@\"You told him!?\""
 
 # game/Flynn-Thursday.rpy:10267
 translate Schinese UpdateBegin_8c52fca1:
 
     # "I glare down at the ram, who quickly throws up the flat of his paws defensively."
-    "I glare down at the ram, who quickly throws up the flat of his paws defensively."
+    "@@@I glare down at the ram, who quickly throws up the flat of his paws defensively."
 
 # game/Flynn-Thursday.rpy:10268
 translate Schinese UpdateBegin_d2df3934:
 
     # c "\"He's your roommate, dude, c'mon. It's not like he's part of the old group anyway.\""
-    c "\"He's your roommate, dude, c'mon. It's not like he's part of the old group anyway.\""
+    c "@@@\"He's your roommate, dude, c'mon. It's not like he's part of the old group anyway.\""
 
 # game/Flynn-Thursday.rpy:10269
 translate Schinese UpdateBegin_c86bbcf1:
 
     # "Fortunately, like Carl said, I don't see the rest of the gang."
-    "Fortunately, like Carl said, I don't see the rest of the gang."
+    "@@@Fortunately, like Carl said, I don't see the rest of the gang."
 
 # game/Flynn-Thursday.rpy:10270
 translate Schinese UpdateBegin_dd5b633c:
 
     # "Carl notices me peering past him and speaks up."
-    "Carl notices me peering past him and speaks up."
+    "@@@Carl notices me peering past him and speaks up."
 
 # game/Flynn-Thursday.rpy:10271
 translate Schinese UpdateBegin_21ceb293:
 
     # c "\"They're, uh, talking with Mark outside.\""
-    c "\"They're, uh, talking with Mark outside.\""
+    c "@@@\"They're, uh, talking with Mark outside.\""
 
 # game/Flynn-Thursday.rpy:10273
 translate Schinese UpdateBegin_77a3bafd:
 
     # ma "\"It's about time he showed up.\""
-    ma "\"It's about time he showed up.\""
+    ma "@@@\"It's about time he showed up.\""
 
 # game/Flynn-Thursday.rpy:10274
 translate Schinese UpdateBegin_b29dc72b:
 
     # c "\"Hi, Mayor.\""
-    c "\"Hi, Mayor.\""
+    c "@@@\"Hi, Mayor.\""
 
 # game/Flynn-Thursday.rpy:10275
 translate Schinese UpdateBegin_ef505884:
 
     # da "\"Hi.\""
-    da "\"Hi.\""
+    da "@@@\"Hi.\""
 
 # game/Flynn-Thursday.rpy:10276
 translate Schinese UpdateBegin_9265d49a:
 
     # "The two of them wave awkwardly."
-    "The two of them wave awkwardly."
+    "@@@The two of them wave awkwardly."
 
 # game/Flynn-Thursday.rpy:10278
 translate Schinese UpdateBegin_c9a8d00e:
 
     # "Auntie looks at the both of them with a sort of perplexed frown."
-    "Auntie looks at the both of them with a sort of perplexed frown."
+    "@@@Auntie looks at the both of them with a sort of perplexed frown."
 
 # game/Flynn-Thursday.rpy:10279
 translate Schinese UpdateBegin_2d36de0c:
 
     # ma "\"Hello, y'all.\""
-    ma "\"Hello, y'all.\""
+    ma "@@@\"Hello, y'all.\""
 
 # game/Flynn-Thursday.rpy:10280
 translate Schinese UpdateBegin_addd5617:
 
     # "She responds abruptly, quickly looking back up to me."
-    "She responds abruptly, quickly looking back up to me."
+    "@@@She responds abruptly, quickly looking back up to me."
 
 # game/Flynn-Thursday.rpy:10282
 translate Schinese UpdateBegin_bec16280:
 
     # ma "\"Now Flynn-\""
-    ma "\"Now Flynn-\""
+    ma "@@@\"Now Flynn-\""
 
 # game/Flynn-Thursday.rpy:10283
 translate Schinese UpdateBegin_95dc7442:
 
     # f "\"Just gimmie a sec. He's gotta still be in here.\""
-    f "\"Just gimmie a sec. He's gotta still be in here.\""
+    f "@@@\"Just gimmie a sec. He's gotta still be in here.\""
 
 # game/Flynn-Thursday.rpy:10284
 translate Schinese UpdateBegin_ffbe7884:
 
     # "I see a stained blue v-neck shirt laying on the ground in the corner, by the old bookshelves."
-    "I see a stained blue v-neck shirt laying on the ground in the corner, by the old bookshelves."
+    "@@@I see a stained blue v-neck shirt laying on the ground in the corner, by the old bookshelves."
 
 # game/Flynn-Thursday.rpy:10285
 translate Schinese UpdateBegin_d25ea6ee:
 
     # f "\"Chase!\""
-    f "\"Chase!\""
+    f "@@@\"Chase!\""
 
 # game/Flynn-Thursday.rpy:10286
 translate Schinese UpdateBegin_a501a202:
 
     # "Still no response."
-    "Still no response."
+    "@@@Still no response."
 
 # game/Flynn-Thursday.rpy:10287
 translate Schinese UpdateBegin_b910b92a:
 
     # "It's then I notice there's something moving on his shirt - little specks that seem to be gathering in the folds of the fabric."
-    "It's then I notice there's something moving on his shirt - little specks that seem to be gathering in the folds of the fabric."
+    "@@@It's then I notice there's something moving on his shirt - little specks that seem to be gathering in the folds of the fabric."
 
 # game/Flynn-Thursday.rpy:10288
 translate Schinese UpdateBegin_a10de1d2:
 
     # f "\"Oh, fuck me.\""
-    f "\"Oh, fuck me.\""
+    f "@@@\"Oh, fuck me.\""
 
 # game/Flynn-Thursday.rpy:10289
 translate Schinese UpdateBegin_2d7e038d:
 
     # "I hold out my arm across the doorway, pushing Carl and Daxton back."
-    "I hold out my arm across the doorway, pushing Carl and Daxton back."
+    "@@@I hold out my arm across the doorway, pushing Carl and Daxton back."
 
 # game/Flynn-Thursday.rpy:10293
 translate Schinese UpdateBegin_db41e824:
 
     # c "\"Dude, what?\""
-    c "\"Dude, what?\""
+    c "@@@\"Dude, what?\""
 
 # game/Flynn-Thursday.rpy:10294
 translate Schinese UpdateBegin_8842dca8:
 
     # f "\"Auntie, did Mark set off those bug bombs after work on Monday like I asked?\""
-    f "\"Auntie, did Mark set off those bug bombs after work on Monday like I asked?\""
+    f "@@@\"Auntie, did Mark set off those bug bombs after work on Monday like I asked?\""
 
 # game/Flynn-Thursday.rpy:10295
 translate Schinese UpdateBegin_b83a5f11:
 
     # ma "\"I'm assumin' by your tone that he did not.\""
-    ma "\"I'm assumin' by your tone that he did not.\""
+    ma "@@@\"I'm assumin' by your tone that he did not.\""
 
 # game/Flynn-Thursday.rpy:10296
 translate Schinese UpdateBegin_265f340b:
 
     # f "\"They hatched.\""
-    f "\"They hatched.\""
+    f "@@@\"They hatched.\""
 
 # game/Flynn-Thursday.rpy:10297
 translate Schinese UpdateBegin_99992c2b:
 
     # ma "\"Oh goodness.\""
-    ma "\"Oh goodness.\""
+    ma "@@@\"Oh goodness.\""
 
 # game/Flynn-Thursday.rpy:10298
 translate Schinese UpdateBegin_a99ecf19:
 
     # da "\"Can we not play the pronoun game right now? What are ya talkin' about?\""
-    da "\"Can we not play the pronoun game right now? What are ya talkin' about?\""
+    da "@@@\"Can we not play the pronoun game right now? What are ya talkin' about?\""
 
 # game/Flynn-Thursday.rpy:10299
 translate Schinese UpdateBegin_c9446946:
 
     # "I see the unused can sitting knocked over in the corner."
-    "I see the unused can sitting knocked over in the corner."
+    "@@@I see the unused can sitting knocked over in the corner."
 
 # game/Flynn-Thursday.rpy:10300
 translate Schinese UpdateBegin_bc003e62:
 
     # f "\"Stay back. Black widows.\""
-    f "\"Stay back. Black widows.\""
+    f "@@@\"Stay back. Black widows.\""
 
 # game/Flynn-Thursday.rpy:10302
 translate Schinese UpdateBegin_64ad2e95:
 
     # "I lower my arm and walk over to it, quickly popping the top and watching the fogger begin to mist the foul-smelling fumigation spray into the air."
-    "I lower my arm and walk over to it, quickly popping the top and watching the fogger begin to mist the foul-smelling fumigation spray into the air."
+    "@@@I lower my arm and walk over to it, quickly popping the top and watching the fogger begin to mist the foul-smelling fumigation spray into the air."
 
 # game/Flynn-Thursday.rpy:10303
 translate Schinese UpdateBegin_5258069b:
 
     # "The effect is near instant."
-    "The effect is near instant."
+    "@@@The effect is near instant."
 
 # game/Flynn-Thursday.rpy:10304
 translate Schinese UpdateBegin_f7c6c0bd:
 
     # "The skittering pattern of the little spiders begins to grow more erratic."
-    "The skittering pattern of the little spiders begins to grow more erratic."
+    "@@@The skittering pattern of the little spiders begins to grow more erratic."
 
 # game/Flynn-Thursday.rpy:10305
 translate Schinese UpdateBegin_c46fcb89:
 
     # "I watch as an adult one on Chase's shirt clambers on top of an increasingly still pile of the little spiders."
-    "I watch as an adult one on Chase's shirt clambers on top of an increasingly still pile of the little spiders."
+    "@@@I watch as an adult one on Chase's shirt clambers on top of an increasingly still pile of the little spiders."
 
 # game/Flynn-Thursday.rpy:10306
 translate Schinese UpdateBegin_5241e07c:
 
     # "It just sits there, writhing."
-    "It just sits there, writhing."
+    "@@@It just sits there, writhing."
 
 # game/Flynn-Thursday.rpy:10307
 translate Schinese UpdateBegin_3a98cc74:
 
     # "I can feel something on my foot too, but my scales are too thick for it to be of any threat to me."
-    "I can feel something on my foot too, but my scales are too thick for it to be of any threat to me."
+    "@@@I can feel something on my foot too, but my scales are too thick for it to be of any threat to me."
 
 # game/Flynn-Thursday.rpy:10308
 translate Schinese UpdateBegin_6ec062f8:
 
     # "I hear Carl mutter behind me."
-    "I hear Carl mutter behind me."
+    "@@@I hear Carl mutter behind me."
 
 # game/Flynn-Thursday.rpy:10309
 translate Schinese UpdateBegin_98198849:
 
     # c "\"I take back what I've always said, you do have balls.\""
-    c "\"I take back what I've always said, you do have balls.\""
+    c "@@@\"I take back what I've always said, you do have balls.\""
 
 # game/Flynn-Thursday.rpy:10310
 translate Schinese UpdateBegin_c1b5c856:
 
     # ma "\"Excuse me?\""
-    ma "\"Excuse me?\""
+    ma "@@@\"Excuse me?\""
 
 # game/Flynn-Thursday.rpy:10311
 translate Schinese UpdateBegin_cd539dc6:
 
     # c "\"..er, s-sorry, Mayor Moore.\""
-    c "\"..er, s-sorry, Mayor Moore.\""
+    c "@@@\"..er, s-sorry, Mayor Moore.\""
 
 # game/Flynn-Thursday.rpy:10312
 translate Schinese UpdateBegin_30d0ac9b:
 
     # ma "\"Boys, I do not have time for this.\""
-    ma "\"Boys, I do not have time for this.\""
+    ma "@@@\"Boys, I do not have time for this.\""
 
 # game/Flynn-Thursday.rpy:10313
 translate Schinese UpdateBegin_ae58b9cb:
 
     # "As I look past the shelves, I see a big lump of fur curled up in the corner under one of the old metal desks."
-    "As I look past the shelves, I see a big lump of fur curled up in the corner under one of the old metal desks."
+    "@@@As I look past the shelves, I see a big lump of fur curled up in the corner under one of the old metal desks."
 
 # game/Flynn-Thursday.rpy:10314
 translate Schinese UpdateBegin_0b4564ba:
 
     # "Oh fuck."
-    "Oh fuck."
+    "@@@Oh fuck."
 
 # game/Flynn-Thursday.rpy:10315
 translate Schinese UpdateBegin_65eb9f80:
 
     # "Oh. FUCK."
-    "Oh. FUCK."
+    "@@@Oh. FUCK."
 
 # game/Flynn-Thursday.rpy:10316
 translate Schinese UpdateBegin_abc9dbdd:
 
     # "I dash over, grabbing at the otter's scruff and yanking his ass out of there."
-    "I dash over, grabbing at the otter's scruff and yanking his ass out of there."
+    "@@@I dash over, grabbing at the otter's scruff and yanking his ass out of there."
 
 # game/Flynn-Thursday.rpy:10317
 translate Schinese UpdateBegin_7f0ebb30:
 
     # "He's surprisingly light, and I realize I've never picked him up before."
-    "He's surprisingly light, and I realize I've never picked him up before."
+    "@@@He's surprisingly light, and I realize I've never picked him up before."
 
 # game/Flynn-Thursday.rpy:10318
 translate Schinese UpdateBegin_8b447418:
 
     # da "\"Oh damn, is he okay?\""
-    da "\"Oh damn, is he okay?\""
+    da "@@@\"Oh damn, is he okay?\""
 
 # game/Flynn-Thursday.rpy:10319
 translate Schinese UpdateBegin_8bab9cf8:
 
     # f "\"Water, gimmie water!\""
-    f "\"Water, gimmie water!\""
+    f "@@@\"Water, gimmie water!\""
 
 # game/Flynn-Thursday.rpy:10320
 translate Schinese UpdateBegin_63613520:
 
     # ma "\"There's some in the mini-fridge, I'll get it.\""
-    ma "\"There's some in the mini-fridge, I'll get it.\""
+    ma "@@@\"There's some in the mini-fridge, I'll get it.\""
 
 # game/Flynn-Thursday.rpy:10325
 translate Schinese UpdateBegin_99a16adf:
 
     # "As I pull him into better light, he looks like absolute shit."
-    "As I pull him into better light, he looks like absolute shit."
+    "@@@As I pull him into better light, he looks like absolute shit."
 
 # game/Flynn-Thursday.rpy:10326
 translate Schinese UpdateBegin_52926be8:
 
     # "His lips are chapped bloody and the whites of his eyes are bloodshot."
-    "His lips are chapped bloody and the whites of his eyes are bloodshot."
+    "@@@His lips are chapped bloody and the whites of his eyes are bloodshot."
 
 # game/Flynn-Thursday.rpy:10327
 translate Schinese UpdateBegin_036fdc70:
 
     # "There's also dribbles of vomit on the floor, which I have the misfortune of stepping in."
-    "There's also dribbles of vomit on the floor, which I have the misfortune of stepping in."
+    "@@@There's also dribbles of vomit on the floor, which I have the misfortune of stepping in."
 
 # game/Flynn-Thursday.rpy:10328
 translate Schinese UpdateBegin_b4e36bcb:
 
     # "Vomit and spiders, fucking great."
-    "Vomit and spiders, fucking great."
+    "@@@Vomit and spiders, fucking great."
 
 # game/Flynn-Thursday.rpy:10329
 translate Schinese UpdateBegin_3efbec24:
 
     # f "\"Chase? Wake the fuck up.\""
-    f "\"Chase? Wake the fuck up.\""
+    f "@@@\"Chase? Wake the fuck up.\""
 
 # game/Flynn-Thursday.rpy:10330
 translate Schinese UpdateBegin_406419dd:
 
     # "I give his face a hard slap. Carl winces."
-    "I give his face a hard slap. Carl winces."
+    "@@@I give his face a hard slap. Carl winces."
 
 # game/Flynn-Thursday.rpy:10331
 translate Schinese UpdateBegin_89b643d8:
 
     # "The otter wheezes raspily, letting out a kind of low moan."
-    "The otter wheezes raspily, letting out a kind of low moan."
+    "@@@The otter wheezes raspily, letting out a kind of low moan."
 
 # game/Flynn-Thursday.rpy:10332
 translate Schinese UpdateBegin_203e1632:
 
     # c "\"Man, he's terrified of spiders...\""
-    c "\"Man, he's terrified of spiders...\""
+    c "@@@\"Man, he's terrified of spiders...\""
 
 # game/Flynn-Thursday.rpy:10333
 translate Schinese UpdateBegin_9421db9a:
 
     # f "\"I know.\""
-    f "\"I know.\""
+    f "@@@\"I know.\""
 
 # game/Flynn-Thursday.rpy:10334
 translate Schinese UpdateBegin_74fcfa7b:
 
     # c "\"Karma, right?\""
-    c "\"Karma, right?\""
+    c "@@@\"Karma, right?\""
 
 # game/Flynn-Thursday.rpy:10335
 translate Schinese UpdateBegin_ea2a8a93:
 
     # "The ram speaks in an uneasy tone, visibly uncomfortable at seeing Chase like this."
-    "The ram speaks in an uneasy tone, visibly uncomfortable at seeing Chase like this."
+    "@@@The ram speaks in an uneasy tone, visibly uncomfortable at seeing Chase like this."
 
 # game/Flynn-Thursday.rpy:10336
 translate Schinese UpdateBegin_ea167a0f:
 
     # f "\"Yeah. Maybe.\""
-    f "\"Yeah. Maybe.\""
+    f "@@@\"Yeah. Maybe.\""
 
 # game/Flynn-Thursday.rpy:10338
 translate Schinese UpdateBegin_a7e7f6f4:
 
     # "Next thing I know, Auntie's handing me a bottle of water. I bring it to his lips."
-    "Next thing I know, Auntie's handing me a bottle of water. I bring it to his lips."
+    "@@@Next thing I know, Auntie's handing me a bottle of water. I bring it to his lips."
 
 # game/Flynn-Thursday.rpy:10339
 translate Schinese UpdateBegin_f31614b0:
 
     # f "\"Drink, you stupid idiot.\""
-    f "\"Drink, you stupid idiot.\""
+    f "@@@\"Drink, you stupid idiot.\""
 
 # game/Flynn-Thursday.rpy:10340
 translate Schinese UpdateBegin_ca7b54da:
 
     # ma "\"If this was a prank of yours, it ain't a real gutbuster, Flynn.\""
-    ma "\"If this was a prank of yours, it ain't a real gutbuster, Flynn.\""
+    ma "@@@\"If this was a prank of yours, it ain't a real gutbuster, Flynn.\""
 
 # game/Flynn-Thursday.rpy:10341
 translate Schinese UpdateBegin_b37e0081:
 
     # ma "\"Move over, you're gonna drown him.\""
-    ma "\"Move over, you're gonna drown him.\""
+    ma "@@@\"Move over, you're gonna drown him.\""
 
 # game/Flynn-Thursday.rpy:10342
 translate Schinese UpdateBegin_2656bb51:
 
     # "I feel a weird tingle in the back of neck."
-    "I feel a weird tingle in the back of neck."
+    "@@@I feel a weird tingle in the back of neck."
 
 # game/Flynn-Thursday.rpy:10343
 translate Schinese UpdateBegin_4a67ae63:
 
     # "Reluctantly, I step aside."
-    "Reluctantly, I step aside."
+    "@@@Reluctantly, I step aside."
 
 # game/Flynn-Thursday.rpy:10344
 translate Schinese UpdateBegin_4a061a60:
 
     # "I look at Chase, and part of me hopes he never wakes up."
-    "I look at Chase, and part of me hopes he never wakes up."
+    "@@@I look at Chase, and part of me hopes he never wakes up."
 
 # game/Flynn-Thursday.rpy:10345
 translate Schinese UpdateBegin_51da3358:
 
     # "And I feel sick."
-    "And I feel sick."
+    "@@@And I feel sick."
 
 # game/Flynn-Thursday.rpy:10346
 translate Schinese UpdateBegin_c576fd2c:
 
     # da "\"Why is he just in his britches?\""
-    da "\"Why is he just in his britches?\""
+    da "@@@\"Why is he just in his britches?\""
 
 # game/Flynn-Thursday.rpy:10347
 translate Schinese UpdateBegin_83a5209c:
 
     # "I blink, glancing down and getting an eyeful of Chase's briefs."
-    "I blink, glancing down and getting an eyeful of Chase's briefs."
+    "@@@I blink, glancing down and getting an eyeful of Chase's briefs."
 
 # game/Flynn-Thursday.rpy:10348
 translate Schinese UpdateBegin_32df597e:
 
     # ma "\"You didn't.. undress him before you shoved him in there, right? Or was that part of it?\""
-    ma "\"You didn't.. undress him before you shoved him in there, right? Or was that part of it?\""
+    ma "@@@\"You didn't.. undress him before you shoved him in there, right? Or was that part of it?\""
 
 # game/Flynn-Thursday.rpy:10349
 translate Schinese UpdateBegin_581af4ea:
 
     # f "\"Jesus fu- no! God, no!\""
-    f "\"Jesus fu- no! God, no!\""
+    f "@@@\"Jesus fu- no! God, no!\""
 
 # game/Flynn-Thursday.rpy:10350
 translate Schinese UpdateBegin_075e3df2:
 
     # f "\"I didn't do that.\""
-    f "\"I didn't do that.\""
+    f "@@@\"I didn't do that.\""
 
 # game/Flynn-Thursday.rpy:10351
 translate Schinese UpdateBegin_d3d4077e:
 
     # "Daxton gives me a dubious look before shifting his concerned gaze back to the otter."
-    "Daxton gives me a dubious look before shifting his concerned gaze back to the otter."
+    "@@@Daxton gives me a dubious look before shifting his concerned gaze back to the otter."
 
 # game/Flynn-Thursday.rpy:10352
 translate Schinese UpdateBegin_b1b6dddb:
 
     # "Auntie, meanwhile, is propping his head up on a couple office chair cushions, quietly urging the otter to drink as she wets his lips."
-    "Auntie, meanwhile, is propping his head up on a couple office chair cushions, quietly urging the otter to drink as she wets his lips."
+    "@@@Auntie, meanwhile, is propping his head up on a couple office chair cushions, quietly urging the otter to drink as she wets his lips."
 
 # game/Flynn-Thursday.rpy:10353
 translate Schinese UpdateBegin_0c80c85b:
 
     # "They part for a moment, and Chase complies enough to get a swallow down."
-    "They part for a moment, and Chase complies enough to get a swallow down."
+    "@@@They part for a moment, and Chase complies enough to get a swallow down."
 
 # game/Flynn-Thursday.rpy:10354
 translate Schinese UpdateBegin_336b8987:
 
     # "Again, part of me breathes a sigh of relief, while the other half seems to be filled with this sort of.. angry dread."
-    "Again, part of me breathes a sigh of relief, while the other half seems to be filled with this sort of.. angry dread."
+    "@@@Again, part of me breathes a sigh of relief, while the other half seems to be filled with this sort of.. angry dread."
 
 # game/Flynn-Thursday.rpy:10355
 translate Schinese UpdateBegin_79d186b9:
 
     # "Don't wake up."
-    "Don't wake up."
+    "@@@Don't wake up."
 
 # game/Flynn-Thursday.rpy:10356
 translate Schinese UpdateBegin_4a270641:
 
     # "Daxton crouches down beside him, pulling back some of the fur around his collar bone and showing the swelling red skin beneath."
-    "Daxton crouches down beside him, pulling back some of the fur around his collar bone and showing the swelling red skin beneath."
+    "@@@Daxton crouches down beside him, pulling back some of the fur around his collar bone and showing the swelling red skin beneath."
 
 # game/Flynn-Thursday.rpy:10357
 translate Schinese UpdateBegin_c0530c06:
 
     # da "\"Musta been where he got bit. And of course, 911 ain't working.\""
-    da "\"Musta been where he got bit. And of course, 911 ain't working.\""
+    da "@@@\"Musta been where he got bit. And of course, 911 ain't working.\""
 
 # game/Flynn-Thursday.rpy:10359
 translate Schinese UpdateBegin_b06b7048:
 
     # "Carl chuckles nervously."
-    "Carl chuckles nervously."
+    "@@@Carl chuckles nervously."
 
 # game/Flynn-Thursday.rpy:10360
 translate Schinese UpdateBegin_ca07d9cc:
 
     # c "\"I guess it's, um.. too late to suck the venom out, right?\""
-    c "\"I guess it's, um.. too late to suck the venom out, right?\""
+    c "@@@\"I guess it's, um.. too late to suck the venom out, right?\""
 
 # game/Flynn-Thursday.rpy:10361
 translate Schinese UpdateBegin_48f4d749:
 
     # da "\"Ya know that doesn't actually work? It's just dumb old westerns that made people believe that crap.\""
-    da "\"Ya know that doesn't actually work? It's just dumb old westerns that made people believe that crap.\""
+    da "@@@\"Ya know that doesn't actually work? It's just dumb old westerns that made people believe that crap.\""
 
 # game/Flynn-Thursday.rpy:10362
 translate Schinese UpdateBegin_1705f11e:
 
     # c "\"Well, I had a great grandpa.. or, great-great grandpa who died of a spider bite.\""
-    c "\"Well, I had a great grandpa.. or, great-great grandpa who died of a spider bite.\""
+    c "@@@\"Well, I had a great grandpa.. or, great-great grandpa who died of a spider bite.\""
 
 # game/Flynn-Thursday.rpy:10363
 translate Schinese UpdateBegin_d2bb6d28:
 
     # c "\"I mean, I think it was a tarantula or something.\""
-    c "\"I mean, I think it was a tarantula or something.\""
+    c "@@@\"I mean, I think it was a tarantula or something.\""
 
 # game/Flynn-Thursday.rpy:10364
 translate Schinese UpdateBegin_b2d6e0fe:
 
     # da "\"Tarantulas ain't that venomous.\""
-    da "\"Tarantulas ain't that venomous.\""
+    da "@@@\"Tarantulas ain't that venomous.\""
 
 # game/Flynn-Thursday.rpy:10365
 translate Schinese UpdateBegin_6b9fd757:
 
     # c "\"He was old as hell and there might have been like.. a fuck-load of them. I dunno.\""
-    c "\"He was old as hell and there might have been like.. a fuck-load of them. I dunno.\""
+    c "@@@\"He was old as hell and there might have been like.. a fuck-load of them. I dunno.\""
 
 # game/Flynn-Thursday.rpy:10366
 translate Schinese UpdateBegin_2a499b33:
 
     # ma "\"Boys, this is real reassuring talk, but could one of y'all get me one of them first aid kits from the bathroom?\""
-    ma "\"Boys, this is real reassuring talk, but could one of y'all get me one of them first aid kits from the bathroom?\""
+    ma "@@@\"Boys, this is real reassuring talk, but could one of y'all get me one of them first aid kits from the bathroom?\""
 
 # game/Flynn-Thursday.rpy:10367
 translate Schinese UpdateBegin_856be351:
 
     # ma "\"It's just 'round the corner.\""
-    ma "\"It's just 'round the corner.\""
+    ma "@@@\"It's just 'round the corner.\""
 
 # game/Flynn-Thursday.rpy:10369
 translate Schinese UpdateBegin_3103f280:
 
     # "Daxton stands up again and nods, heading off."
-    "Daxton stands up again and nods, heading off."
+    "@@@Daxton stands up again and nods, heading off."
 
 # game/Flynn-Thursday.rpy:10370
 translate Schinese UpdateBegin_7bc90833:
 
     # "Chase's eyes are fluttering a bit now."
-    "Chase's eyes are fluttering a bit now."
+    "@@@Chase's eyes are fluttering a bit now."
 
 # game/Flynn-Thursday.rpy:10371
 translate Schinese UpdateBegin_253abf4a:
 
     # "Maybe he's having a seizure, or dreaming something real crazy. I can't tell."
-    "Maybe he's having a seizure, or dreaming something real crazy. I can't tell."
+    "@@@Maybe he's having a seizure, or dreaming something real crazy. I can't tell."
 
 # game/Flynn-Thursday.rpy:10373
 translate Schinese UpdateBegin_9903ae95:
 
     # "The salamander returns, clutching the thick metal case that looks like it's from the 90's."
-    "The salamander returns, clutching the thick metal case that looks like it's from the 90's."
+    "@@@The salamander returns, clutching the thick metal case that looks like it's from the 90's."
 
 # game/Flynn-Thursday.rpy:10374
 translate Schinese UpdateBegin_a8f6b85e:
 
     # "Auntie takes it, opening it up and grabbing what she needs like she's done this a hundred times before."
-    "Auntie takes it, opening it up and grabbing what she needs like she's done this a hundred times before."
+    "@@@Auntie takes it, opening it up and grabbing what she needs like she's done this a hundred times before."
 
 # game/Flynn-Thursday.rpy:10375
 translate Schinese UpdateBegin_5544a4c6:
 
     # "She applies the cold water to a piece of cloth and presses it against the spot near Chase's neck where the bite is."
-    "She applies the cold water to a piece of cloth and presses it against the spot near Chase's neck where the bite is."
+    "@@@She applies the cold water to a piece of cloth and presses it against the spot near Chase's neck where the bite is."
 
 # game/Flynn-Thursday.rpy:10376
 translate Schinese UpdateBegin_f67351df:
 
     # "Once it's damp, she takes an old tube of antibiotic cream and squeezes out about a quarter of the contents on the bite spot, then lathers it in."
-    "Once it's damp, she takes an old tube of antibiotic cream and squeezes out about a quarter of the contents on the bite spot, then lathers it in."
+    "@@@Once it's damp, she takes an old tube of antibiotic cream and squeezes out about a quarter of the contents on the bite spot, then lathers it in."
 
 # game/Flynn-Thursday.rpy:10377
 translate Schinese UpdateBegin_9eeab4b9:
 
     # "Chase winces, letting out a quiet cry."
-    "Chase winces, letting out a quiet cry."
+    "@@@Chase winces, letting out a quiet cry."
 
 # game/Flynn-Thursday.rpy:10378
 translate Schinese UpdateBegin_ba193fff:
 
     # m "\"Stop...\""
-    m "\"Stop...\""
+    m "@@@\"Stop...\""
 
 # game/Flynn-Thursday.rpy:10379
 translate Schinese UpdateBegin_834d1565:
 
     # "His voice is high-pitched and kind of pathetic, like a child's."
-    "His voice is high-pitched and kind of pathetic, like a child's."
+    "@@@His voice is high-pitched and kind of pathetic, like a child's."
 
 # game/Flynn-Thursday.rpy:10380
 translate Schinese UpdateBegin_e2d39986:
 
     # ma "\"Oh, don't whine, you're a big boy.\""
-    ma "\"Oh, don't whine, you're a big boy.\""
+    ma "@@@\"Oh, don't whine, you're a big boy.\""
 
 # game/Flynn-Thursday.rpy:10381
 translate Schinese UpdateBegin_75b676cb:
 
     # da "\"I'd be whinin' if I was in his position.\""
-    da "\"I'd be whinin' if I was in his position.\""
+    da "@@@\"I'd be whinin' if I was in his position.\""
 
 # game/Flynn-Thursday.rpy:10382
 translate Schinese UpdateBegin_aec40041:
 
     # da "\"It's kinda.. fitting, like Carl said, ain't it though?\""
-    da "\"It's kinda.. fitting, like Carl said, ain't it though?\""
+    da "@@@\"It's kinda.. fitting, like Carl said, ain't it though?\""
 
 # game/Flynn-Thursday.rpy:10384
 translate Schinese UpdateBegin_214e9f81:
 
     # "He looks to me, as if trying to gauge my expression."
-    "He looks to me, as if trying to gauge my expression."
+    "@@@He looks to me, as if trying to gauge my expression."
 
 # game/Flynn-Thursday.rpy:10385
 translate Schinese UpdateBegin_7c563bd6:
 
     # "I'm managing to keep pretty stone-faced, despite everything."
-    "I'm managing to keep pretty stone-faced, despite everything."
+    "@@@I'm managing to keep pretty stone-faced, despite everything."
 
 # game/Flynn-Thursday.rpy:10386
 translate Schinese UpdateBegin_fc5759e2:
 
     # da "\"If.. he did what y'all are saying he did.\""
-    da "\"If.. he did what y'all are saying he did.\""
+    da "@@@\"If.. he did what y'all are saying he did.\""
 
 # game/Flynn-Thursday.rpy:10387
 translate Schinese UpdateBegin_9a4bfac8:
 
     # "I can tell the weird distance Carl and I are keeping from him, despite his sorry state, is unnerving the salamander."
-    "I can tell the weird distance Carl and I are keeping from him, despite his sorry state, is unnerving the salamander."
+    "@@@I can tell the weird distance Carl and I are keeping from him, despite his sorry state, is unnerving the salamander."
 
 # game/Flynn-Thursday.rpy:10388
 translate Schinese UpdateBegin_e18edf31:
 
     # "Just a couple hours ago, it was all figured we were old friends and such."
-    "Just a couple hours ago, it was all figured we were old friends and such."
+    "@@@Just a couple hours ago, it was all figured we were old friends and such."
 
 # game/Flynn-Thursday.rpy:10390
 translate Schinese UpdateBegin_e8bed779:
 
     # "Chase begins to sit up, and it's like my heart lurches."
-    "Chase begins to sit up, and it's like my heart lurches."
+    "@@@Chase begins to sit up, and it's like my heart lurches."
 
 # game/Flynn-Thursday.rpy:10391
 translate Schinese UpdateBegin_526adc0b:
 
     # "I get that feeling in my skull again, like brain freeze."
-    "I get that feeling in my skull again, like brain freeze."
+    "@@@I get that feeling in my skull again, like brain freeze."
 
 # game/Flynn-Thursday.rpy:10392
 translate Schinese UpdateBegin_7072f3b4:
 
     # "No..."
-    "No..."
+    "@@@No..."
 
 # game/Flynn-Thursday.rpy:10394
 translate Schinese UpdateBegin_352a10d1:
 
     # "{cps=22}{font=ui/belligerent.ttf}No..."
-    "{cps=22}{font=ui/belligerent.ttf}No..."
+    "@@@{cps=22}{font=ui/belligerent.ttf}No..."
 
 # game/Flynn-Thursday.rpy:10395
 translate Schinese UpdateBegin_7261019a:
 
     # "Only Carl seems to notice as I clutch my temple, the ram giving me a nervous, concerned look."
-    "Only Carl seems to notice as I clutch my temple, the ram giving me a nervous, concerned look."
+    "@@@Only Carl seems to notice as I clutch my temple, the ram giving me a nervous, concerned look."
 
 # game/Flynn-Thursday.rpy:10396
 translate Schinese UpdateBegin_b7e051f8:
 
     # "Finally, Chase looks to me."
-    "Finally, Chase looks to me."
+    "@@@Finally, Chase looks to me."
 
 # game/Flynn-Thursday.rpy:10398
 translate Schinese UpdateBegin_469c9d21:
 
     # m "\"Flynn..?\""
-    m "\"Flynn..?\""
+    m "@@@\"Flynn..?\""
 
 # game/Flynn-Thursday.rpy:10399
 translate Schinese UpdateBegin_cd88e11f:
 
     # "Again, with the childlike voice."
-    "Again, with the childlike voice."
+    "@@@Again, with the childlike voice."
 
 # game/Flynn-Thursday.rpy:10400
 translate Schinese UpdateBegin_a861583a:
@@ -49425,14983 +49427,14983 @@ translate Schinese UpdateBegin_ab645843:
 translate Schinese UpdateBegin_9653b1bc:
 
     # l "\"You didn't need to run, you know that, I'm here.\""
-    l "\"You didn't need to run, you know that, I'm here.\""
+    l "@@@\"You didn't need to run, you know that, I'm here.\""
 
-# game/Flynn-Thursday.rpy:10608
+# game/Flynn-Thursday.rpy:10614
 translate Schinese UpdateBegin_dc373558:
 
     # "Chase manages to wriggle free, nearly stumbling back into a prickly pear cactus in the process."
-    "Chase manages to wriggle free, nearly stumbling back into a prickly pear cactus in the process."
+    "@@@Chase manages to wriggle free, nearly stumbling back into a prickly pear cactus in the process."
 
-# game/Flynn-Thursday.rpy:10609
+# game/Flynn-Thursday.rpy:10615
 translate Schinese UpdateBegin_8fe87bec:
 
     # "Leo catches him, holding onto his wrist."
-    "Leo catches him, holding onto his wrist."
+    "@@@Leo catches him, holding onto his wrist."
 
-# game/Flynn-Thursday.rpy:10611
+# game/Flynn-Thursday.rpy:10617
 translate Schinese UpdateBegin_00ba65f0:
 
     # "There a long moment where Leo is just looking at Chase's face, his expression shifting from the wide smile to a more vacant stare."
-    "There a long moment where Leo is just looking at Chase's face, his expression shifting from the wide smile to a more vacant stare."
+    "@@@There a long moment where Leo is just looking at Chase's face, his expression shifting from the wide smile to a more vacant stare."
 
-# game/Flynn-Thursday.rpy:10612
+# game/Flynn-Thursday.rpy:10618
 translate Schinese UpdateBegin_55fd4cfa:
 
     # m "\"I uh.. I got bit by a black widow. I'm okay now, but-\""
-    m "\"I uh.. I got bit by a black widow. I'm okay now, but-\""
+    m "@@@\"I uh.. I got bit by a black widow. I'm okay now, but-\""
 
-# game/Flynn-Thursday.rpy:10613
+# game/Flynn-Thursday.rpy:10619
 translate Schinese UpdateBegin_2c17f0cc:
 
     # l "\"You grew your goatee back. How'd that happen?\""
-    l "\"You grew your goatee back. How'd that happen?\""
+    l "@@@\"You grew your goatee back. How'd that happen?\""
 
-# game/Flynn-Thursday.rpy:10614
+# game/Flynn-Thursday.rpy:10620
 translate Schinese UpdateBegin_56905c1b:
 
     # m "\"Wh- what?\""
-    m "\"Wh- what?\""
+    m "@@@\"Wh- what?\""
 
-# game/Flynn-Thursday.rpy:10615
+# game/Flynn-Thursday.rpy:10621
 translate Schinese UpdateBegin_68e36136:
 
     # "Chase's eyes widen some, and he clutches at the ratty looking tuft of dyed fur on his chin."
-    "Chase's eyes widen some, and he clutches at the ratty looking tuft of dyed fur on his chin."
+    "@@@Chase's eyes widen some, and he clutches at the ratty looking tuft of dyed fur on his chin."
 
-# game/Flynn-Thursday.rpy:10616
+# game/Flynn-Thursday.rpy:10622
 translate Schinese UpdateBegin_7f900492:
 
     # l "\"That's a shame.. I always thought you looked cuter without it.\""
-    l "\"That's a shame.. I always thought you looked cuter without it.\""
+    l "@@@\"That's a shame.. I always thought you looked cuter without it.\""
 
-# game/Flynn-Thursday.rpy:10617
+# game/Flynn-Thursday.rpy:10623
 translate Schinese UpdateBegin_42fd04cc:
 
     # c "\"Dude, what the hell is happening?\""
-    c "\"Dude, what the hell is happening?\""
+    c "@@@\"Dude, what the hell is happening?\""
 
-# game/Flynn-Thursday.rpy:10618
+# game/Flynn-Thursday.rpy:10624
 translate Schinese UpdateBegin_7e0a486d:
 
     # "Carl speaks hushedly to me, and all I can respond with is an astonished shrug."
-    "Carl speaks hushedly to me, and all I can respond with is an astonished shrug."
+    "@@@Carl speaks hushedly to me, and all I can respond with is an astonished shrug."
 
-# game/Flynn-Thursday.rpy:10630
+# game/Flynn-Thursday.rpy:10636
 translate Schinese UpdateBegin_cb01aa81:
 
     # l "\"Chase.\""
-    l "\"Chase.\""
+    l "@@@\"Chase.\""
 
-# game/Flynn-Thursday.rpy:10632
-translate Schinese UpdateBegin_a16b7825:
+# game/Flynn-Thursday.rpy:10638
+translate Schinese UpdateBegin_a0d7c4c8:
 
-    # "Leo stops, rubbing the back of his neck and looking off to the side as he notes the otter's state of undress/"
-    "Leo stops, rubbing the back of his neck and looking off to the side as he notes the otter's state of undress/"
+    # "Leo stops, rubbing the back of his neck and looking off to the side as he notes the otter's state of undress."
+    "@@@Leo stops, rubbing the back of his neck and looking off to the side as he notes the otter's state of undress."
 
-# game/Flynn-Thursday.rpy:10633
+# game/Flynn-Thursday.rpy:10639
 translate Schinese UpdateBegin_5fde85cc:
 
     # l "\"You're back.. and you're naked.\""
-    l "\"You're back.. and you're naked.\""
+    l "@@@\"You're back.. and you're naked.\""
 
-# game/Flynn-Thursday.rpy:10634
+# game/Flynn-Thursday.rpy:10640
 translate Schinese UpdateBegin_42b898be:
 
     # "Chase has this weird sort of look on his face, like he's never seen Leo before in his life."
-    "Chase has this weird sort of look on his face, like he's never seen Leo before in his life."
+    "@@@Chase has this weird sort of look on his face, like he's never seen Leo before in his life."
 
-# game/Flynn-Thursday.rpy:10635
+# game/Flynn-Thursday.rpy:10641
 translate Schinese UpdateBegin_e098339b:
 
     # "Like this is some incredibly awkward encounter with a stranger."
-    "Like this is some incredibly awkward encounter with a stranger."
+    "@@@Like this is some incredibly awkward encounter with a stranger."
 
-# game/Flynn-Thursday.rpy:10636
+# game/Flynn-Thursday.rpy:10642
 translate Schinese UpdateBegin_a1b7bc85:
 
     # m "\"Uh, yeah.. black widow bit me.\""
-    m "\"Uh, yeah.. black widow bit me.\""
+    m "@@@\"Uh, yeah.. black widow bit me.\""
 
-# game/Flynn-Thursday.rpy:10637
+# game/Flynn-Thursday.rpy:10643
 translate Schinese UpdateBegin_16967e07:
 
     # l "\"And that made you.. naked?\""
-    l "\"And that made you.. naked?\""
+    l "@@@\"And that made you.. naked?\""
 
-# game/Flynn-Thursday.rpy:10638
+# game/Flynn-Thursday.rpy:10644
 translate Schinese UpdateBegin_d977fd92:
 
     # "Leo turns, looking to me suspiciously."
-    "Leo turns, looking to me suspiciously."
+    "@@@Leo turns, looking to me suspiciously."
 
-# game/Flynn-Thursday.rpy:10639
+# game/Flynn-Thursday.rpy:10645
 translate Schinese UpdateBegin_119096b0:
 
     # f "\"Fuck you, I didn't do it.\""
-    f "\"Fuck you, I didn't do it.\""
+    f "@@@\"Fuck you, I didn't do it.\""
 
-# game/Flynn-Thursday.rpy:10640
+# game/Flynn-Thursday.rpy:10646
 translate Schinese UpdateBegin_44bae5b7:
 
     # "God, I have no time for this shit anymore."
-    "God, I have no time for this shit anymore."
+    "@@@God, I have no time for this shit anymore."
 
-# game/Flynn-Thursday.rpy:10641
+# game/Flynn-Thursday.rpy:10647
 translate Schinese UpdateBegin_7f3ac515:
 
     # "Leo's brow furrows. I keep expecting him to jolt out his arm and slug me, but he just looks tired and confused."
-    "Leo's brow furrows. I keep expecting him to jolt out his arm and slug me, but he just looks tired and confused."
+    "@@@Leo's brow furrows. I keep expecting him to jolt out his arm and slug me, but he just looks tired and confused."
 
-# game/Flynn-Thursday.rpy:10642
+# game/Flynn-Thursday.rpy:10648
 translate Schinese UpdateBegin_5ba7b045:
 
     # m "\"I sat in the nest of a whole bunch of them and they got everywhere.\""
-    m "\"I sat in the nest of a whole bunch of them and they got everywhere.\""
+    m "@@@\"I sat in the nest of a whole bunch of them and they got everywhere.\""
 
-# game/Flynn-Thursday.rpy:10643
+# game/Flynn-Thursday.rpy:10649
 translate Schinese UpdateBegin_1f0e3ede:
 
     # l "\"That's awful. Are you alright?\""
-    l "\"That's awful. Are you alright?\""
+    l "@@@\"That's awful. Are you alright?\""
 
-# game/Flynn-Thursday.rpy:10644
+# game/Flynn-Thursday.rpy:10650
 translate Schinese UpdateBegin_8c674539:
 
     # "Leo brings his large paw up to Chase's shoulder."
-    "Leo brings his large paw up to Chase's shoulder."
+    "@@@Leo brings his large paw up to Chase's shoulder."
 
-# game/Flynn-Thursday.rpy:10645
+# game/Flynn-Thursday.rpy:10651
 translate Schinese UpdateBegin_c0242907:
 
     # "Chase flinches, and the wolf quickly releases his grasp, giving the otter a quizzical look."
-    "Chase flinches, and the wolf quickly releases his grasp, giving the otter a quizzical look."
+    "@@@Chase flinches, and the wolf quickly releases his grasp, giving the otter a quizzical look."
 
-# game/Flynn-Thursday.rpy:10646
+# game/Flynn-Thursday.rpy:10652
 translate Schinese UpdateBegin_fc3bc37b:
 
     # m "\"I'm okay.\""
-    m "\"I'm okay.\""
+    m "@@@\"I'm okay.\""
 
-# game/Flynn-Thursday.rpy:10647
+# game/Flynn-Thursday.rpy:10653
 translate Schinese UpdateBegin_2e3a3af0:
 
     # m "\"Well, not really. But, you know.\""
-    m "\"Well, not really. But, you know.\""
+    m "@@@\"Well, not really. But, you know.\""
 
-# game/Flynn-Thursday.rpy:10648
+# game/Flynn-Thursday.rpy:10654
 translate Schinese UpdateBegin_0a37ac74:
 
     # "He rubs the bite area on his neck, biting his cheek as he stares at the gravel between his feet."
-    "He rubs the bite area on his neck, biting his cheek as he stares at the gravel between his feet."
+    "@@@He rubs the bite area on his neck, biting his cheek as he stares at the gravel between his feet."
 
-# game/Flynn-Thursday.rpy:10649
+# game/Flynn-Thursday.rpy:10655
 translate Schinese UpdateBegin_90d89ab0:
 
     # l "\"I don't know, Chase. We need to get you to a doctor.\""
-    l "\"I don't know, Chase. We need to get you to a doctor.\""
+    l "@@@\"I don't know, Chase. We need to get you to a doctor.\""
 
-# game/Flynn-Thursday.rpy:10650
+# game/Flynn-Thursday.rpy:10656
 translate Schinese UpdateBegin_6b86e8aa:
 
     # l "\"But, I have to ask: why'd you run off earlier?\""
-    l "\"But, I have to ask: why'd you run off earlier?\""
+    l "@@@\"But, I have to ask: why'd you run off earlier?\""
 
-# game/Flynn-Thursday.rpy:10651
+# game/Flynn-Thursday.rpy:10657
 translate Schinese UpdateBegin_f4463bf5:
 
     # m "\"I.. didn't mean to.\""
-    m "\"I.. didn't mean to.\""
+    m "@@@\"I.. didn't mean to.\""
 
-# game/Flynn-Thursday.rpy:10652
+# game/Flynn-Thursday.rpy:10658
 translate Schinese UpdateBegin_0fdc75b9:
 
     # m "\"I just did.\""
-    m "\"I just did.\""
+    m "@@@\"I just did.\""
 
-# game/Flynn-Thursday.rpy:10653
+# game/Flynn-Thursday.rpy:10659
 translate Schinese UpdateBegin_e839d163:
 
     # l "\"Chase, that doesn't make any sense, yeah?\""
-    l "\"Chase, that doesn't make any sense, yeah?\""
+    l "@@@\"Chase, that doesn't make any sense, yeah?\""
 
-# game/Flynn-Thursday.rpy:10660
+# game/Flynn-Thursday.rpy:10666
 translate Schinese UpdateBegin_0d1a4677:
 
     # "Auntie begins to speak up again."
-    "Auntie begins to speak up again."
+    "@@@Auntie begins to speak up again."
 
-# game/Flynn-Thursday.rpy:10661
+# game/Flynn-Thursday.rpy:10667
 translate Schinese UpdateBegin_aa004a9e:
 
     # ma "\"Let's talk plainlike: most of ya are seein' things. Bad things.\""
-    ma "\"Let's talk plainlike: most of ya are seein' things. Bad things.\""
+    ma "@@@\"Let's talk plainlike: most of ya are seein' things. Bad things.\""
 
-# game/Flynn-Thursday.rpy:10662
+# game/Flynn-Thursday.rpy:10668
 translate Schinese UpdateBegin_876863f4:
 
     # ma "\"And some folk around here have started actin' real strange, more so than the usual suspects on their bouts with the happy juice.\""
-    ma "\"And some folk around here have started actin' real strange, more so than the usual suspects on their bouts with the happy juice.\""
+    ma "@@@\"And some folk around here have started actin' real strange, more so than the usual suspects on their bouts with the happy juice.\""
 
-# game/Flynn-Thursday.rpy:10663
+# game/Flynn-Thursday.rpy:10669
 translate Schinese UpdateBegin_12c79d15:
 
     # ma "\"And nobody's gettin' any tower or satellite signals for the phones and internet. Landline's fuzzy, too.\""
-    ma "\"And nobody's gettin' any tower or satellite signals for the phones and internet. Landline's fuzzy, too.\""
+    ma "@@@\"And nobody's gettin' any tower or satellite signals for the phones and internet. Landline's fuzzy, too.\""
 
-# game/Flynn-Thursday.rpy:10664
+# game/Flynn-Thursday.rpy:10670
 translate Schinese UpdateBegin_a14cedbd:
 
     # "A couple of people nod."
-    "A couple of people nod."
+    "@@@A couple of people nod."
 
-# game/Flynn-Thursday.rpy:10665
+# game/Flynn-Thursday.rpy:10671
 translate Schinese UpdateBegin_ad6df7f2:
 
     # "Micha's now looking over his shoulder, seemingly unfocused on what Auntie's saying."
-    "Micha's now looking over his shoulder, seemingly unfocused on what Auntie's saying."
+    "@@@Micha's now looking over his shoulder, seemingly unfocused on what Auntie's saying."
 
-# game/Flynn-Thursday.rpy:10667
+# game/Flynn-Thursday.rpy:10673
 translate Schinese UpdateBegin_895bca9f:
 
     # ma "\"Mark tried to head off to Payton to see if the county offices knew what was going on.\""
-    ma "\"Mark tried to head off to Payton to see if the county offices knew what was going on.\""
+    ma "@@@\"Mark tried to head off to Payton to see if the county offices knew what was going on.\""
 
-# game/Flynn-Thursday.rpy:10668
+# game/Flynn-Thursday.rpy:10674
 translate Schinese UpdateBegin_c20de8be:
 
     # ma "\"He got about as far as the Flint turnoff before he found himself on the old Route 65 leading back into town.\""
-    ma "\"He got about as far as the Flint turnoff before he found himself on the old Route 65 leading back into town.\""
+    ma "@@@\"He got about as far as the Flint turnoff before he found himself on the old Route 65 leading back into town.\""
 
-# game/Flynn-Thursday.rpy:10669
+# game/Flynn-Thursday.rpy:10675
 translate Schinese UpdateBegin_f38588fa:
 
     # ma "\"He tells me he tried three times to get through. No luck.\""
-    ma "\"He tells me he tried three times to get through. No luck.\""
+    ma "@@@\"He tells me he tried three times to get through. No luck.\""
 
-# game/Flynn-Thursday.rpy:10672
+# game/Flynn-Thursday.rpy:10678
 translate Schinese UpdateBegin_52521b13:
 
     # ma "\"Now I woulda slapped him on the head with a roll of newspaper and told him to take his clowning to the circus ..\""
-    ma "\"Now I woulda slapped him on the head with a roll of newspaper and told him to take his clowning to the circus ..\""
+    ma "@@@\"Now I woulda slapped him on the head with a roll of newspaper and told him to take his clowning to the circus ..\""
 
-# game/Flynn-Thursday.rpy:10673
+# game/Flynn-Thursday.rpy:10679
 translate Schinese UpdateBegin_9951c5ac:
 
     # ma "\"..if I hadn't heard the same sorta thing from my grandpa decades ago.\""
-    ma "\"..if I hadn't heard the same sorta thing from my grandpa decades ago.\""
+    ma "@@@\"..if I hadn't heard the same sorta thing from my grandpa decades ago.\""
 
-# game/Flynn-Thursday.rpy:10674
+# game/Flynn-Thursday.rpy:10680
 translate Schinese UpdateBegin_d26558db:
 
     # ma "\"Folk traveling in buggies trying to escape the madness of this town, but they got snared in one helluva web.\""
-    ma "\"Folk traveling in buggies trying to escape the madness of this town, but they got snared in one helluva web.\""
+    ma "@@@\"Folk traveling in buggies trying to escape the madness of this town, but they got snared in one helluva web.\""
 
-# game/Flynn-Thursday.rpy:10675
+# game/Flynn-Thursday.rpy:10681
 translate Schinese UpdateBegin_b0af6637:
 
     # ma "\"If ya've been thinking your dreams have been getting real queer like as of late, you ain't alone. It's been getting worse.\""
-    ma "\"If ya've been thinking your dreams have been getting real queer like as of late, you ain't alone. It's been getting worse.\""
+    ma "@@@\"If ya've been thinking your dreams have been getting real queer like as of late, you ain't alone. It's been getting worse.\""
 
-# game/Flynn-Thursday.rpy:10676
+# game/Flynn-Thursday.rpy:10682
 translate Schinese UpdateBegin_aac19cdb:
 
     # ma "\"Honestly, I was packing my bags to get out before it hit.\""
-    ma "\"Honestly, I was packing my bags to get out before it hit.\""
+    ma "@@@\"Honestly, I was packing my bags to get out before it hit.\""
 
-# game/Flynn-Thursday.rpy:10677
+# game/Flynn-Thursday.rpy:10683
 translate Schinese UpdateBegin_bfe4deb8:
 
     # "I wasn't ready to leave."
-    "I wasn't ready to leave."
+    "@@@I wasn't ready to leave."
 
-# game/Flynn-Thursday.rpy:10678
+# game/Flynn-Thursday.rpy:10684
 translate Schinese UpdateBegin_93c3bce4:
 
     # "I remember telling Auntie I wanted to stay for Carl's interview, but I wanted to also see if I could get to the bottom of shit with TJ, too."
-    "I remember telling Auntie I wanted to stay for Carl's interview, but I wanted to also see if I could get to the bottom of shit with TJ, too."
+    "@@@I remember telling Auntie I wanted to stay for Carl's interview, but I wanted to also see if I could get to the bottom of shit with TJ, too."
 
-# game/Flynn-Thursday.rpy:10679
+# game/Flynn-Thursday.rpy:10685
 translate Schinese UpdateBegin_c7aad82d:
 
     # j "\"So you're saying there's no way out? That we're in, what, an inescapable bubble?\""
-    j "\"So you're saying there's no way out? That we're in, what, an inescapable bubble?\""
+    j "@@@\"So you're saying there's no way out? That we're in, what, an inescapable bubble?\""
 
-# game/Flynn-Thursday.rpy:10680
+# game/Flynn-Thursday.rpy:10686
 translate Schinese UpdateBegin_6c212ada:
 
     # ma "\"Sweetheart, it's like the tide: it goes in, it's pulled out.\""
-    ma "\"Sweetheart, it's like the tide: it goes in, it's pulled out.\""
+    ma "@@@\"Sweetheart, it's like the tide: it goes in, it's pulled out.\""
 
-# game/Flynn-Thursday.rpy:10681
+# game/Flynn-Thursday.rpy:10687
 translate Schinese UpdateBegin_718b9f61:
 
     # ma "\"And sometimes it pulls stuff with it.\""
-    ma "\"And sometimes it pulls stuff with it.\""
+    ma "@@@\"And sometimes it pulls stuff with it.\""
 
-# game/Flynn-Thursday.rpy:10682
+# game/Flynn-Thursday.rpy:10688
 translate Schinese UpdateBegin_69f9b787:
 
     # ma "\"My Grandpa, God rest his soul, told me it was attracted to the uncouthness of man, the ires and desires with which we cannot unshackle ourselves.\""
-    ma "\"My Grandpa, God rest his soul, told me it was attracted to the uncouthness of man, the ires and desires with which we cannot unshackle ourselves.\""
+    ma "@@@\"My Grandpa, God rest his soul, told me it was attracted to the uncouthness of man, the ires and desires with which we cannot unshackle ourselves.\""
 
-# game/Flynn-Thursday.rpy:10683
+# game/Flynn-Thursday.rpy:10689
 translate Schinese UpdateBegin_5979c16c:
 
     # ma "\"Simple sin.\""
-    ma "\"Simple sin.\""
+    ma "@@@\"Simple sin.\""
 
-# game/Flynn-Thursday.rpy:10684
+# game/Flynn-Thursday.rpy:10690
 translate Schinese UpdateBegin_b28f60b6:
 
     # "A mournful look crosses her face and she takes a deep breath."
-    "A mournful look crosses her face and she takes a deep breath."
+    "@@@A mournful look crosses her face and she takes a deep breath."
 
-# game/Flynn-Thursday.rpy:10685
+# game/Flynn-Thursday.rpy:10691
 translate Schinese UpdateBegin_1fd4742d:
 
     # ma "\"Mark.\""
-    ma "\"Mark.\""
+    ma "@@@\"Mark.\""
 
-# game/Flynn-Thursday.rpy:10687
+# game/Flynn-Thursday.rpy:10693
 translate Schinese UpdateBegin_a1527bdd:
 
     # "She looks over to the horned toad, our town's treasurer."
-    "She looks over to the horned toad, our town's treasurer."
+    "@@@She looks over to the horned toad, our town's treasurer."
 
-# game/Flynn-Thursday.rpy:10688
+# game/Flynn-Thursday.rpy:10694
 translate Schinese UpdateBegin_11df65d8:
 
     # "He's standing by his black, four-door SUV."
-    "He's standing by his black, four-door SUV."
+    "@@@He's standing by his black, four-door SUV."
 
-# game/Flynn-Thursday.rpy:10689
+# game/Flynn-Thursday.rpy:10695
 translate Schinese UpdateBegin_46994df9:
 
     # "I always made fun of him for buying it."
-    "I always made fun of him for buying it."
+    "@@@I always made fun of him for buying it."
 
-# game/Flynn-Thursday.rpy:10690
+# game/Flynn-Thursday.rpy:10696
 translate Schinese UpdateBegin_94e4b908:
 
     # "Black cars in the desert ain't a good mix unless you're keen on baking."
-    "Black cars in the desert ain't a good mix unless you're keen on baking."
+    "@@@Black cars in the desert ain't a good mix unless you're keen on baking."
 
-# game/Flynn-Thursday.rpy:10691
+# game/Flynn-Thursday.rpy:10697
 translate Schinese UpdateBegin_a6f957ed:
 
     # "He reaches into the car and pulls out a lumpy.. something, wrapped in a flamboyantly colored beach towel."
-    "He reaches into the car and pulls out a lumpy.. something, wrapped in a flamboyantly colored beach towel."
+    "@@@He reaches into the car and pulls out a lumpy.. something, wrapped in a flamboyantly colored beach towel."
 
-# game/Flynn-Thursday.rpy:10692
+# game/Flynn-Thursday.rpy:10698
 translate Schinese UpdateBegin_42df4111:
 
     # "I recognize the faded logo in the corner as the one from Southwestern Adventures. An old souvenir, maybe."
-    "I recognize the faded logo in the corner as the one from Southwestern Adventures. An old souvenir, maybe."
+    "@@@I recognize the faded logo in the corner as the one from Southwestern Adventures. An old souvenir, maybe."
 
-# game/Flynn-Thursday.rpy:10693
+# game/Flynn-Thursday.rpy:10699
 translate Schinese UpdateBegin_fe7fe2b2:
 
     # "Mark hurks as he steps in front of the mayor with it, setting it on the ground."
-    "Mark hurks as he steps in front of the mayor with it, setting it on the ground."
+    "@@@Mark hurks as he steps in front of the mayor with it, setting it on the ground."
 
-# game/Flynn-Thursday.rpy:10694
+# game/Flynn-Thursday.rpy:10700
 translate Schinese UpdateBegin_899bddd7:
 
     # "The first thing I see are the feet sticking out of the end."
-    "The first thing I see are the feet sticking out of the end."
+    "@@@The first thing I see are the feet sticking out of the end."
 
-# game/Flynn-Thursday.rpy:10695
+# game/Flynn-Thursday.rpy:10701
 translate Schinese UpdateBegin_894a4057:
 
     # "Someone in the back, Heather I think, screams."
-    "Someone in the back, Heather I think, screams."
+    "@@@Someone in the back, Heather I think, screams."
 
-# game/Flynn-Thursday.rpy:10696
+# game/Flynn-Thursday.rpy:10702
 translate Schinese UpdateBegin_538f31b9:
 
     # "It's a banshee-like wail as Mark pulls back the fabric."
-    "It's a banshee-like wail as Mark pulls back the fabric."
+    "@@@It's a banshee-like wail as Mark pulls back the fabric."
 
-# game/Flynn-Thursday.rpy:10697
+# game/Flynn-Thursday.rpy:10703
 translate Schinese UpdateBegin_1d509667:
 
     # h "\"Noooooooooo!\""
-    h "\"Noooooooooo!\""
+    h "@@@\"Noooooooooo!\""
 
-# game/Flynn-Thursday.rpy:10698
+# game/Flynn-Thursday.rpy:10704
 translate Schinese UpdateBegin_3ce37810:
 
     # h "\"Keeeeiiiiith!\""
-    h "\"Keeeeiiiiith!\""
+    h "@@@\"Keeeeiiiiith!\""
 
-# game/Flynn-Thursday.rpy:10699
+# game/Flynn-Thursday.rpy:10705
 translate Schinese UpdateBegin_2c23da9e:
 
     # "It's not Keith."
-    "It's not Keith."
+    "@@@It's not Keith."
 
-# game/Flynn-Thursday.rpy:10700
+# game/Flynn-Thursday.rpy:10706
 translate Schinese UpdateBegin_0a5a97b1:
 
     # "At first it's difficult to tell exactly what I'm looking at, but after a few moments I can see clearly who it is."
-    "At first it's difficult to tell exactly what I'm looking at, but after a few moments I can see clearly who it is."
+    "@@@At first it's difficult to tell exactly what I'm looking at, but after a few moments I can see clearly who it is."
 
-# game/Flynn-Thursday.rpy:10708
+# game/Flynn-Thursday.rpy:10714
 translate Schinese UpdateBegin_dddf9fe0:
 
     # unk "\"That's.. that's Salem!\""
-    unk "\"That's.. that's Salem!\""
+    unk "@@@\"That's.. that's Salem!\""
 
-# game/Flynn-Thursday.rpy:10710
+# game/Flynn-Thursday.rpy:10716
 translate Schinese UpdateBegin_265124cd:
 
     # h "\"KEEEEEEEEEEITH!\""
-    h "\"KEEEEEEEEEEITH!\""
+    h "@@@\"KEEEEEEEEEEITH!\""
 
-# game/Flynn-Thursday.rpy:10711
+# game/Flynn-Thursday.rpy:10717
 translate Schinese UpdateBegin_ef07f4bd:
 
     # j "\"Jesus.\""
-    j "\"Jesus.\""
+    j "@@@\"Jesus.\""
 
-# game/Flynn-Thursday.rpy:10712
+# game/Flynn-Thursday.rpy:10718
 translate Schinese UpdateBegin_486d1b45:
 
     # t "\"No...\""
-    t "\"No...\""
+    t "@@@\"No...\""
 
-# game/Flynn-Thursday.rpy:10713
+# game/Flynn-Thursday.rpy:10719
 translate Schinese UpdateBegin_99606503:
 
     # "TJ begins to sob, his terrified sniffles mixing with Heather's confused, shrill cries."
-    "TJ begins to sob, his terrified sniffles mixing with Heather's confused, shrill cries."
+    "@@@TJ begins to sob, his terrified sniffles mixing with Heather's confused, shrill cries."
 
-# game/Flynn-Thursday.rpy:10714
+# game/Flynn-Thursday.rpy:10720
 translate Schinese UpdateBegin_e9205b13:
 
     # "The boar is covered in lacerations, most of which are on his face."
-    "The boar is covered in lacerations, most of which are on his face."
+    "@@@The boar is covered in lacerations, most of which are on his face."
 
-# game/Flynn-Thursday.rpy:10715
+# game/Flynn-Thursday.rpy:10721
 translate Schinese UpdateBegin_05016339:
 
     # "Two swipes of whatever cut him seem to have torn his eyes and part of his snout out."
-    "Two swipes of whatever cut him seem to have torn his eyes and part of his snout out."
+    "@@@Two swipes of whatever cut him seem to have torn his eyes and part of his snout out."
 
-# game/Flynn-Thursday.rpy:10716
+# game/Flynn-Thursday.rpy:10722
 translate Schinese UpdateBegin_626386af:
 
     # "I always thought when someone had their eyes taken out, it'd just be black holes inside, but it's pink."
-    "I always thought when someone had their eyes taken out, it'd just be black holes inside, but it's pink."
+    "@@@I always thought when someone had their eyes taken out, it'd just be black holes inside, but it's pink."
 
-# game/Flynn-Thursday.rpy:10717
+# game/Flynn-Thursday.rpy:10723
 translate Schinese UpdateBegin_82f4d95b:
 
     # "It's like I'm looking into the guy's brain."
-    "It's like I'm looking into the guy's brain."
+    "@@@It's like I'm looking into the guy's brain."
 
-# game/Flynn-Thursday.rpy:10718
+# game/Flynn-Thursday.rpy:10724
 translate Schinese UpdateBegin_0e915c8a:
 
     # "I feel like I'm gonna hurl."
-    "I feel like I'm gonna hurl."
+    "@@@I feel like I'm gonna hurl."
 
-# game/Flynn-Thursday.rpy:10724
+# game/Flynn-Thursday.rpy:10730
 translate Schinese UpdateBegin_05716faf:
 
     # ku "\"Wh- what happened to him?\""
-    ku "\"Wh- what happened to him?\""
+    ku "@@@\"Wh- what happened to him?\""
 
-# game/Flynn-Thursday.rpy:10725
+# game/Flynn-Thursday.rpy:10731
 translate Schinese UpdateBegin_4b0d69ab:
 
     # ma "\"He tried to leave.\""
-    ma "\"He tried to leave.\""
+    ma "@@@\"He tried to leave.\""
 
-# game/Flynn-Thursday.rpy:10726
+# game/Flynn-Thursday.rpy:10732
 translate Schinese UpdateBegin_61eb6694:
 
     # ku "\"Yeah but.. but how did {i}that{/i} happen?\""
-    ku "\"Yeah but.. but how did {i}that{/i} happen?\""
+    ku "@@@\"Yeah but.. but how did {i}that{/i} happen?\""
 
-# game/Flynn-Thursday.rpy:10727
+# game/Flynn-Thursday.rpy:10733
 translate Schinese UpdateBegin_27cd1d87:
 
     # "The raccoon, who up to this point I've never seen as anything but the strong, silent type, looks shaken up bad."
-    "The raccoon, who up to this point I've never seen as anything but the strong, silent type, looks shaken up bad."
+    "@@@The raccoon, who up to this point I've never seen as anything but the strong, silent type, looks shaken up bad."
 
-# game/Flynn-Thursday.rpy:10728
+# game/Flynn-Thursday.rpy:10734
 translate Schinese UpdateBegin_8a689797:
 
     # "He clutches his forehead with a paw, shaking his head."
-    "He clutches his forehead with a paw, shaking his head."
+    "@@@He clutches his forehead with a paw, shaking his head."
 
-# game/Flynn-Thursday.rpy:10730
+# game/Flynn-Thursday.rpy:10736
 translate Schinese UpdateBegin_6ef7d8f5:
 
     # ku "\"God, for a second he looked like.. he looked like somebody else.\""
-    ku "\"God, for a second he looked like.. he looked like somebody else.\""
+    ku "@@@\"God, for a second he looked like.. he looked like somebody else.\""
 
-# game/Flynn-Thursday.rpy:10731
+# game/Flynn-Thursday.rpy:10737
 translate Schinese UpdateBegin_11b19371:
 
     # "I barely know Salem. He's a recent move-in, who originally squatted on vacant land in an RV until the landowner started making him pay to live there."
-    "I barely know Salem. He's a recent move-in, who originally squatted on vacant land in an RV until the landowner started making him pay to live there."
+    "@@@I barely know Salem. He's a recent move-in, who originally squatted on vacant land in an RV until the landowner started making him pay to live there."
 
-# game/Flynn-Thursday.rpy:10732
+# game/Flynn-Thursday.rpy:10738
 translate Schinese UpdateBegin_b03ecd08:
 
     # "He kept to himself, never even said two words to the guy."
-    "He kept to himself, never even said two words to the guy."
+    "@@@He kept to himself, never even said two words to the guy."
 
-# game/Flynn-Thursday.rpy:10733
+# game/Flynn-Thursday.rpy:10739
 translate Schinese UpdateBegin_de902e91:
 
     # "That's an accomplishment when you're stuck in town with just about fifty people still living here."
-    "That's an accomplishment when you're stuck in town with just about fifty people still living here."
+    "@@@That's an accomplishment when you're stuck in town with just about fifty people still living here."
 
-# game/Flynn-Thursday.rpy:10735
+# game/Flynn-Thursday.rpy:10741
 translate Schinese UpdateBegin_c2474c0f:
 
     # ma "\"Mark tells me that the third time he tried to leave, he saw him just laying there on the side of the road next to his RV.\""
-    ma "\"Mark tells me that the third time he tried to leave, he saw him just laying there on the side of the road next to his RV.\""
+    ma "@@@\"Mark tells me that the third time he tried to leave, he saw him just laying there on the side of the road next to his RV.\""
 
-# game/Flynn-Thursday.rpy:10736
+# game/Flynn-Thursday.rpy:10742
 translate Schinese UpdateBegin_3c053e49:
 
     # ma "\"Dead as a doorknob.\""
-    ma "\"Dead as a doorknob.\""
+    ma "@@@\"Dead as a doorknob.\""
 
-# game/Flynn-Thursday.rpy:10737
+# game/Flynn-Thursday.rpy:10743
 translate Schinese UpdateBegin_946a8c86:
 
     # ma "\"So to answer your question, coonboy, I don't know.\""
-    ma "\"So to answer your question, coonboy, I don't know.\""
+    ma "@@@\"So to answer your question, coonboy, I don't know.\""
 
-# game/Flynn-Thursday.rpy:10738
+# game/Flynn-Thursday.rpy:10744
 translate Schinese UpdateBegin_18190eed:
 
     # ma "\"These things always.. end, but there's no clear definition of when or how.\""
-    ma "\"These things always.. end, but there's no clear definition of when or how.\""
+    ma "@@@\"These things always.. end, but there's no clear definition of when or how.\""
 
-# game/Flynn-Thursday.rpy:10739
+# game/Flynn-Thursday.rpy:10745
 translate Schinese UpdateBegin_df0d5c7b:
 
     # ma "\"I.. advise as I do in all trying times, to turn to the higher powers, pray and repent as you may.\""
-    ma "\"I.. advise as I do in all trying times, to turn to the higher powers, pray and repent as you may.\""
+    ma "@@@\"I.. advise as I do in all trying times, to turn to the higher powers, pray and repent as you may.\""
 
-# game/Flynn-Thursday.rpy:10740
+# game/Flynn-Thursday.rpy:10746
 translate Schinese UpdateBegin_547cf007:
 
     # "There's a shocked silence from those present."
-    "There's a shocked silence from those present."
+    "@@@There's a shocked silence from those present."
 
-# game/Flynn-Thursday.rpy:10741
+# game/Flynn-Thursday.rpy:10747
 translate Schinese UpdateBegin_d3203983:
 
     # "Daxton keeps shaking his head. Jenna tries her phone again. Micha stares off into the dark in the direction of the highway."
-    "Daxton keeps shaking his head. Jenna tries her phone again. Micha stares off into the dark in the direction of the highway."
+    "@@@Daxton keeps shaking his head. Jenna tries her phone again. Micha stares off into the dark in the direction of the highway."
 
-# game/Flynn-Thursday.rpy:10742
+# game/Flynn-Thursday.rpy:10748
 translate Schinese UpdateBegin_56e34a0c:
 
     # du "\"I know how to make the visions stop.\""
-    du "\"I know how to make the visions stop.\""
+    du "@@@\"I know how to make the visions stop.\""
 
-# game/Flynn-Thursday.rpy:10744
+# game/Flynn-Thursday.rpy:10750
 translate Schinese UpdateBegin_4b3ebe29:
 
     # "The weasel steps up to Auntie, though he's not looking at her."
-    "The weasel steps up to Auntie, though he's not looking at her."
+    "@@@The weasel steps up to Auntie, though he's not looking at her."
 
-# game/Flynn-Thursday.rpy:10745
+# game/Flynn-Thursday.rpy:10751
 translate Schinese UpdateBegin_996514ed:
 
     # ma "\"Yeah? What's your proposal, Duke?\""
-    ma "\"Yeah? What's your proposal, Duke?\""
+    ma "@@@\"Yeah? What's your proposal, Duke?\""
 
-# game/Flynn-Thursday.rpy:10746
+# game/Flynn-Thursday.rpy:10752
 translate Schinese UpdateBegin_42487d01:
 
     # "He points a pink finger toward Chase."
-    "He points a pink finger toward Chase."
+    "@@@He points a pink finger toward Chase."
 
-# game/Flynn-Thursday.rpy:10747
+# game/Flynn-Thursday.rpy:10753
 translate Schinese UpdateBegin_3767e812:
 
     # du "\"We stop {i}him{/i}.\""
-    du "\"We stop {i}him{/i}.\""
+    du "@@@\"We stop {i}him{/i}.\""
 
-# game/Flynn-Thursday.rpy:10749
+# game/Flynn-Thursday.rpy:10755
 translate Schinese UpdateBegin_79ba45ba:
 
     # "Chase sort of half-blinks, his bloodshot eyes aimed all unfocused-like at the scruffy weasel."
-    "Chase sort of half-blinks, his bloodshot eyes aimed all unfocused-like at the scruffy weasel."
+    "@@@Chase sort of half-blinks, his bloodshot eyes aimed all unfocused-like at the scruffy weasel."
 
-# game/Flynn-Thursday.rpy:10750
+# game/Flynn-Thursday.rpy:10756
 translate Schinese UpdateBegin_10dc9de8:
 
     # unk "\"What?\""
-    unk "\"What?\""
+    unk "@@@\"What?\""
 
-# game/Flynn-Thursday.rpy:10751
+# game/Flynn-Thursday.rpy:10757
 translate Schinese UpdateBegin_aabc5fbb:
 
     # "I can't discern who that voice came from."
-    "I can't discern who that voice came from."
+    "@@@I can't discern who that voice came from."
 
-# game/Flynn-Thursday.rpy:10752
+# game/Flynn-Thursday.rpy:10758
 translate Schinese UpdateBegin_f438d588:
 
     # du "\"This has all happened before.\""
-    du "\"This has all happened before.\""
+    du "@@@\"This has all happened before.\""
 
-# game/Flynn-Thursday.rpy:10753
+# game/Flynn-Thursday.rpy:10759
 translate Schinese UpdateBegin_588cbb1d:
 
     # "He looks toward Auntie, who nods inquisitively."
-    "He looks toward Auntie, who nods inquisitively."
+    "@@@He looks toward Auntie, who nods inquisitively."
 
-# game/Flynn-Thursday.rpy:10754
+# game/Flynn-Thursday.rpy:10760
 translate Schinese UpdateBegin_73611811:
 
     # du "\"And it's only gonna get worse.\""
-    du "\"And it's only gonna get worse.\""
+    du "@@@\"And it's only gonna get worse.\""
 
-# game/Flynn-Thursday.rpy:10755
+# game/Flynn-Thursday.rpy:10761
 translate Schinese UpdateBegin_3d9caf56:
 
     # du "\"It happened to my grandaddy, my daddy.. and now it's happenin' to me.\""
-    du "\"It happened to my grandaddy, my daddy.. and now it's happenin' to me.\""
+    du "@@@\"It happened to my grandaddy, my daddy.. and now it's happenin' to me.\""
 
-# game/Flynn-Thursday.rpy:10756
+# game/Flynn-Thursday.rpy:10762
 translate Schinese UpdateBegin_c72ea7fc:
 
     # du "\"Well, me and the rest of ya's.\""
-    du "\"Well, me and the rest of ya's.\""
+    du "@@@\"Well, me and the rest of ya's.\""
 
-# game/Flynn-Thursday.rpy:10757
+# game/Flynn-Thursday.rpy:10763
 translate Schinese UpdateBegin_efd3f4c0:
 
     # du "\"Dale's missing, Cynthia drove off into the desert, Clint and Jeremy are runnin' round, shooting and screaming at nothing...\""
-    du "\"Dale's missing, Cynthia drove off into the desert, Clint and Jeremy are runnin' round, shooting and screaming at nothing...\""
+    du "@@@\"Dale's missing, Cynthia drove off into the desert, Clint and Jeremy are runnin' round, shooting and screaming at nothing...\""
 
-# game/Flynn-Thursday.rpy:10758
+# game/Flynn-Thursday.rpy:10764
 translate Schinese UpdateBegin_13df1aa4:
 
     # du "\"Thing is, we've all got somethin' after us, somethin' bad - won't let ya leave when it starts...\""
-    du "\"Thing is, we've all got somethin' after us, somethin' bad - won't let ya leave when it starts...\""
+    du "@@@\"Thing is, we've all got somethin' after us, somethin' bad - won't let ya leave when it starts...\""
 
-# game/Flynn-Thursday.rpy:10759
+# game/Flynn-Thursday.rpy:10765
 translate Schinese UpdateBegin_0d8bcf8e:
 
     # mi "\"What's after you?\""
-    mi "\"What's after you?\""
+    mi "@@@\"What's after you?\""
 
-# game/Flynn-Thursday.rpy:10760
+# game/Flynn-Thursday.rpy:10766
 translate Schinese UpdateBegin_f14297ab:
 
     # "The raspy-voiced bat chimes up, still looking off into the desert away from the crowd."
-    "The raspy-voiced bat chimes up, still looking off into the desert away from the crowd."
+    "@@@The raspy-voiced bat chimes up, still looking off into the desert away from the crowd."
 
-# game/Flynn-Thursday.rpy:10761
+# game/Flynn-Thursday.rpy:10767
 translate Schinese UpdateBegin_7ff10d6f:
 
     # "Duke's quiet for a moment, rolling a handmade cigarette between his thumb and index finger."
-    "Duke's quiet for a moment, rolling a handmade cigarette between his thumb and index finger."
+    "@@@Duke's quiet for a moment, rolling a handmade cigarette between his thumb and index finger."
 
-# game/Flynn-Thursday.rpy:10762
+# game/Flynn-Thursday.rpy:10768
 translate Schinese UpdateBegin_8f5a5105:
 
     # du "\"It's always triggered by something.\""
-    du "\"It's always triggered by something.\""
+    du "@@@\"It's always triggered by something.\""
 
-# game/Flynn-Thursday.rpy:10763
+# game/Flynn-Thursday.rpy:10769
 translate Schinese UpdateBegin_63f3e8be:
 
     # "Duke begins to pace, still pointing at Chase."
-    "Duke begins to pace, still pointing at Chase."
+    "@@@Duke begins to pace, still pointing at Chase."
 
-# game/Flynn-Thursday.rpy:10764
+# game/Flynn-Thursday.rpy:10770
 translate Schinese UpdateBegin_c8aa47d3:
 
     # du "\"I seen ya here last week, before all the rest of your little friends showed up.\""
-    du "\"I seen ya here last week, before all the rest of your little friends showed up.\""
+    du "@@@\"I seen ya here last week, before all the rest of your little friends showed up.\""
 
-# game/Flynn-Thursday.rpy:10765
+# game/Flynn-Thursday.rpy:10771
 translate Schinese UpdateBegin_fafcb745:
 
     # du "\"Late at night, outside his house.\""
-    du "\"Late at night, outside his house.\""
+    du "@@@\"Late at night, outside his house.\""
 
-# game/Flynn-Thursday.rpy:10766
+# game/Flynn-Thursday.rpy:10772
 translate Schinese UpdateBegin_1a432425:
 
     # "He nods in Leo's direction, the wolf clasping Chase's shoulder protectively."
-    "He nods in Leo's direction, the wolf clasping Chase's shoulder protectively."
+    "@@@He nods in Leo's direction, the wolf clasping Chase's shoulder protectively."
 
-# game/Flynn-Thursday.rpy:10767
+# game/Flynn-Thursday.rpy:10773
 translate Schinese UpdateBegin_21f3d77c:
 
     # du "\"Just standin' there.\""
-    du "\"Just standin' there.\""
+    du "@@@\"Just standin' there.\""
 
-# game/Flynn-Thursday.rpy:10768
+# game/Flynn-Thursday.rpy:10774
 translate Schinese UpdateBegin_ee27e7f5:
 
     # du "\"For hours and hours.\""
-    du "\"For hours and hours.\""
+    du "@@@\"For hours and hours.\""
 
-# game/Flynn-Thursday.rpy:10769
+# game/Flynn-Thursday.rpy:10775
 translate Schinese UpdateBegin_0524e525:
 
     # du "\"I didn't even need to be asleep to see ya.\""
-    du "\"I didn't even need to be asleep to see ya.\""
+    du "@@@\"I didn't even need to be asleep to see ya.\""
 
-# game/Flynn-Thursday.rpy:10770
+# game/Flynn-Thursday.rpy:10776
 translate Schinese UpdateBegin_5f02a6a9:
 
     # "That last line rings strange, Duke saying it as if it makes perfect sense."
-    "That last line rings strange, Duke saying it as if it makes perfect sense."
+    "@@@That last line rings strange, Duke saying it as if it makes perfect sense."
 
-# game/Flynn-Thursday.rpy:10771
+# game/Flynn-Thursday.rpy:10777
 translate Schinese UpdateBegin_dfde48e9:
 
     # "Chase's gaze shifts to his feet, his legs beginning to tremble."
-    "Chase's gaze shifts to his feet, his legs beginning to tremble."
+    "@@@Chase's gaze shifts to his feet, his legs beginning to tremble."
 
-# game/Flynn-Thursday.rpy:10772
+# game/Flynn-Thursday.rpy:10778
 translate Schinese UpdateBegin_785f1583:
 
     # du "\"Hey..\""
-    du "\"Hey..\""
+    du "@@@\"Hey..\""
 
-# game/Flynn-Thursday.rpy:10773
+# game/Flynn-Thursday.rpy:10779
 translate Schinese UpdateBegin_eafc8413:
 
     # du "\"..I'm not saying you did it, or that ya were wantin' this all to happen.\""
-    du "\"..I'm not saying you did it, or that ya were wantin' this all to happen.\""
+    du "@@@\"..I'm not saying you did it, or that ya were wantin' this all to happen.\""
 
-# game/Flynn-Thursday.rpy:10774
+# game/Flynn-Thursday.rpy:10780
 translate Schinese UpdateBegin_8764c1bd:
 
     # "He steps over Salem's body, approaching the otter."
-    "He steps over Salem's body, approaching the otter."
+    "@@@He steps over Salem's body, approaching the otter."
 
-# game/Flynn-Thursday.rpy:10775
+# game/Flynn-Thursday.rpy:10781
 translate Schinese UpdateBegin_4d789ad1:
 
     # du "\"It's just that you gotta know somethin', anything that we can use to stop this.\""
-    du "\"It's just that you gotta know somethin', anything that we can use to stop this.\""
+    du "@@@\"It's just that you gotta know somethin', anything that we can use to stop this.\""
 
-# game/Flynn-Thursday.rpy:10776
+# game/Flynn-Thursday.rpy:10782
 translate Schinese UpdateBegin_5b53e235:
 
     # du "\"Cause anytime I ask big ol' Leo here, he just got this glazed look in his eyes - tellin' me where I can stick my inquiries.\""
-    du "\"Cause anytime I ask big ol' Leo here, he just got this glazed look in his eyes - tellin' me where I can stick my inquiries.\""
+    du "@@@\"Cause anytime I ask big ol' Leo here, he just got this glazed look in his eyes - tellin' me where I can stick my inquiries.\""
 
-# game/Flynn-Thursday.rpy:10777
+# game/Flynn-Thursday.rpy:10783
 translate Schinese UpdateBegin_e2ebef40:
 
     # m "\"Tha-that doesn't make sense."
-    m "\"Tha-that doesn't make sense."
+    m "@@@\"Tha-that doesn't make sense."
 
-# game/Flynn-Thursday.rpy:10778
+# game/Flynn-Thursday.rpy:10784
 translate Schinese UpdateBegin_f1fecac0:
 
     # du "\"Well...\""
-    du "\"Well...\""
+    du "@@@\"Well...\""
 
-# game/Flynn-Thursday.rpy:10779
+# game/Flynn-Thursday.rpy:10785
 translate Schinese UpdateBegin_ad8c2c43:
 
     # du "\"Uh.. my, uh, something.. someone told me that you would know.\""
-    du "\"Uh.. my, uh, something.. someone told me that you would know.\""
+    du "@@@\"Uh.. my, uh, something.. someone told me that you would know.\""
 
-# game/Flynn-Thursday.rpy:10780
+# game/Flynn-Thursday.rpy:10786
 translate Schinese UpdateBegin_7e0a27b2:
 
     # "It's at this point I see the black, metallic shape sticking out of the back of the weasel's trousers."
-    "It's at this point I see the black, metallic shape sticking out of the back of the weasel's trousers."
+    "@@@It's at this point I see the black, metallic shape sticking out of the back of the weasel's trousers."
 
-# game/Flynn-Thursday.rpy:10781
+# game/Flynn-Thursday.rpy:10787
 translate Schinese UpdateBegin_9565713d:
 
     # "He's got a gun."
-    "He's got a gun."
+    "@@@He's got a gun."
 
-# game/Flynn-Thursday.rpy:10782
+# game/Flynn-Thursday.rpy:10788
 translate Schinese UpdateBegin_2f41a690:
 
     # "Daxton flinches, seeing it too."
-    "Daxton flinches, seeing it too."
+    "@@@Daxton flinches, seeing it too."
 
-# game/Flynn-Thursday.rpy:10783
+# game/Flynn-Thursday.rpy:10789
 translate Schinese UpdateBegin_d536be17:
 
     # da "\"Oh shit.\""
-    da "\"Oh shit.\""
+    da "@@@\"Oh shit.\""
 
-# game/Flynn-Thursday.rpy:10784
+# game/Flynn-Thursday.rpy:10790
 translate Schinese UpdateBegin_33a99f70:
 
     # "He mutters, and I feel Carl step closer against me."
-    "He mutters, and I feel Carl step closer against me."
+    "@@@He mutters, and I feel Carl step closer against me."
 
-# game/Flynn-Thursday.rpy:10785
+# game/Flynn-Thursday.rpy:10791
 translate Schinese UpdateBegin_3340445e:
 
     # m "\"Wh-who?\""
-    m "\"Wh-who?\""
+    m "@@@\"Wh-who?\""
 
-# game/Flynn-Thursday.rpy:10786
+# game/Flynn-Thursday.rpy:10792
 translate Schinese UpdateBegin_9657f780:
 
     # du "\"SOMEONE. I. KNOW.\""
-    du "\"SOMEONE. I. KNOW.\""
+    du "@@@\"SOMEONE. I. KNOW.\""
 
-# game/Flynn-Thursday.rpy:10787
+# game/Flynn-Thursday.rpy:10793
 translate Schinese UpdateBegin_6375abe9:
 
     # "He yells, leaning in closer to Chase."
-    "He yells, leaning in closer to Chase."
+    "@@@He yells, leaning in closer to Chase."
 
-# game/Flynn-Thursday.rpy:10788
+# game/Flynn-Thursday.rpy:10794
 translate Schinese UpdateBegin_48ba8e2a:
 
     # "Leo steps completely in front of him - ears down with his fangs bared."
-    "Leo steps completely in front of him - ears down with his fangs bared."
+    "@@@Leo steps completely in front of him - ears down with his fangs bared."
 
-# game/Flynn-Thursday.rpy:10789
+# game/Flynn-Thursday.rpy:10795
 translate Schinese UpdateBegin_beb24d33:
 
     # du "\"It makes sense. Somethin' bad happens, and if you don't fix it, it won't stop comin' after ya.\""
-    du "\"It makes sense. Somethin' bad happens, and if you don't fix it, it won't stop comin' after ya.\""
+    du "@@@\"It makes sense. Somethin' bad happens, and if you don't fix it, it won't stop comin' after ya.\""
 
-# game/Flynn-Thursday.rpy:10792
+# game/Flynn-Thursday.rpy:10798
 translate Schinese UpdateBegin_16fcae9e:
 
     # "Leo lets out a deep, guttural rumble, looking like a feral ready to pounce."
-    "Leo lets out a deep, guttural rumble, looking like a feral ready to pounce."
+    "@@@Leo lets out a deep, guttural rumble, looking like a feral ready to pounce."
 
-# game/Flynn-Thursday.rpy:10793
+# game/Flynn-Thursday.rpy:10799
 translate Schinese UpdateBegin_5686bc36:
 
     # "Duke holds up his paws, smiling uneasily."
-    "Duke holds up his paws, smiling uneasily."
+    "@@@Duke holds up his paws, smiling uneasily."
 
-# game/Flynn-Thursday.rpy:10805
+# game/Flynn-Thursday.rpy:10811
 translate Schinese UpdateBegin_241e942b:
 
     # l "\"Maybe for you.\""
-    l "\"Maybe for you.\""
+    l "@@@\"Maybe for you.\""
 
-# game/Flynn-Thursday.rpy:10806
+# game/Flynn-Thursday.rpy:10812
 translate Schinese UpdateBegin_e248fa84:
 
     # "Leo's snarl turns into a tight, tepid frown."
-    "Leo's snarl turns into a tight, tepid frown."
+    "@@@Leo's snarl turns into a tight, tepid frown."
 
-# game/Flynn-Thursday.rpy:10807
+# game/Flynn-Thursday.rpy:10813
 translate Schinese UpdateBegin_7e2445b7:
 
     # "He looks unnerved - uneasy with Duke and what he's saying."
-    "He looks unnerved - uneasy with Duke and what he's saying."
+    "@@@He looks unnerved - uneasy with Duke and what he's saying."
 
-# game/Flynn-Thursday.rpy:10809
+# game/Flynn-Thursday.rpy:10815
 translate Schinese UpdateBegin_97c17c86:
 
     # du "\"This is all real timely with your friends showin' up.\""
-    du "\"This is all real timely with your friends showin' up.\""
+    du "@@@\"This is all real timely with your friends showin' up.\""
 
-# game/Flynn-Thursday.rpy:10810
+# game/Flynn-Thursday.rpy:10816
 translate Schinese UpdateBegin_f3dff737:
 
     # du "\"So what happened, Chase?\""
-    du "\"So what happened, Chase?\""
+    du "@@@\"So what happened, Chase?\""
 
-# game/Flynn-Thursday.rpy:10811
+# game/Flynn-Thursday.rpy:10817
 translate Schinese UpdateBegin_04a39272:
 
     # m "\"I don't know what you're talking about!\""
-    m "\"I don't know what you're talking about!\""
+    m "@@@\"I don't know what you're talking about!\""
 
-# game/Flynn-Thursday.rpy:10812
+# game/Flynn-Thursday.rpy:10818
 translate Schinese UpdateBegin_7d66e5e3:
 
     # "Auntie exchanges a glance with Mark, then they both look to Chase - seemingly unconcerned that Duke is packing."
-    "Auntie exchanges a glance with Mark, then they both look to Chase - seemingly unconcerned that Duke is packing."
+    "@@@Auntie exchanges a glance with Mark, then they both look to Chase - seemingly unconcerned that Duke is packing."
 
-# game/Flynn-Thursday.rpy:10813
+# game/Flynn-Thursday.rpy:10819
 translate Schinese UpdateBegin_eb80e23c:
 
     # du "\"Things are gettin' worse out 'ere, and unless we do somethin', we're all gonna end up like young Salem.\""
-    du "\"Things are gettin' worse out 'ere, and unless we do somethin', we're all gonna end up like young Salem.\""
+    du "@@@\"Things are gettin' worse out 'ere, and unless we do somethin', we're all gonna end up like young Salem.\""
 
-# game/Flynn-Thursday.rpy:10814
+# game/Flynn-Thursday.rpy:10820
 translate Schinese UpdateBegin_08910e5b:
 
     # "Duke's voice is dead and distant."
-    "Duke's voice is dead and distant."
+    "@@@Duke's voice is dead and distant."
 
-# game/Flynn-Thursday.rpy:10815
+# game/Flynn-Thursday.rpy:10821
 translate Schinese UpdateBegin_4de8b809:
 
     # ma "\"He's right.\""
-    ma "\"He's right.\""
+    ma "@@@\"He's right.\""
 
-# game/Flynn-Thursday.rpy:10816
+# game/Flynn-Thursday.rpy:10822
 translate Schinese UpdateBegin_f8be4300:
 
     # "Auntie's voice cuts through the air like a knife."
-    "Auntie's voice cuts through the air like a knife."
+    "@@@Auntie's voice cuts through the air like a knife."
 
-# game/Flynn-Thursday.rpy:10817
+# game/Flynn-Thursday.rpy:10823
 translate Schinese UpdateBegin_ac3b9779:
 
     # "Next thing I know, her and Mark are stepping up beside Duke."
-    "Next thing I know, her and Mark are stepping up beside Duke."
+    "@@@Next thing I know, her and Mark are stepping up beside Duke."
 
-# game/Flynn-Thursday.rpy:10818
+# game/Flynn-Thursday.rpy:10824
 translate Schinese UpdateBegin_b0d973b9:
 
     # ma "\"Flynn, c'mere.\""
-    ma "\"Flynn, c'mere.\""
+    ma "@@@\"Flynn, c'mere.\""
 
-# game/Flynn-Thursday.rpy:10819
+# game/Flynn-Thursday.rpy:10825
 translate Schinese UpdateBegin_ec346810:
 
     # "My heart lurches at hearing my name called, and I strain myself to keep a straight face."
-    "My heart lurches at hearing my name called, and I strain myself to keep a straight face."
+    "@@@My heart lurches at hearing my name called, and I strain myself to keep a straight face."
 
-# game/Flynn-Thursday.rpy:10820
+# game/Flynn-Thursday.rpy:10826
 translate Schinese UpdateBegin_baf577ca:
 
     # "I try not to look at the body as I walk up, feeling my backside illuminated by a dozen headlights and the gaze of the crowd."
-    "I try not to look at the body as I walk up, feeling my backside illuminated by a dozen headlights and the gaze of the crowd."
+    "@@@I try not to look at the body as I walk up, feeling my backside illuminated by a dozen headlights and the gaze of the crowd."
 
-# game/Flynn-Thursday.rpy:10821
+# game/Flynn-Thursday.rpy:10827
 translate Schinese UpdateBegin_7da7607d:
 
     # ma "\"Ya locked Chase in the Reading Room with all them spiders. Why?\""
-    ma "\"Ya locked Chase in the Reading Room with all them spiders. Why?\""
+    ma "@@@\"Ya locked Chase in the Reading Room with all them spiders. Why?\""
 
-# game/Flynn-Thursday.rpy:10822
+# game/Flynn-Thursday.rpy:10828
 translate Schinese UpdateBegin_e009818f:
 
     # j "\"You {i}what{/i}?\""
-    j "\"You {i}what{/i}?\""
+    j "@@@\"You {i}what{/i}?\""
 
-# game/Flynn-Thursday.rpy:10823
+# game/Flynn-Thursday.rpy:10829
 translate Schinese UpdateBegin_85ed9be6:
 
     # f "\"Didn't know 'bout the spiders at the time...\""
-    f "\"Didn't know 'bout the spiders at the time...\""
+    f "@@@\"Didn't know 'bout the spiders at the time...\""
 
-# game/Flynn-Thursday.rpy:10824
+# game/Flynn-Thursday.rpy:10830
 translate Schinese UpdateBegin_e8e979b1_1:
 
     # "I mumble."
-    "I mumble."
+    "@@@I mumble."
 
-# game/Flynn-Thursday.rpy:10825
+# game/Flynn-Thursday.rpy:10831
 translate Schinese UpdateBegin_49062d0f:
 
     # ma "\"Flynn.\""
-    ma "\"Flynn.\""
+    ma "@@@\"Flynn.\""
 
-# game/Flynn-Thursday.rpy:10826
+# game/Flynn-Thursday.rpy:10832
 translate Schinese UpdateBegin_dd974313:
 
     # "She looks away for a moment."
-    "She looks away for a moment."
+    "@@@She looks away for a moment."
 
-# game/Flynn-Thursday.rpy:10833
+# game/Flynn-Thursday.rpy:10839
 translate Schinese UpdateBegin_958489cb:
 
     # f "\"Pretty sure he killed Sydney.\""
-    f "\"Pretty sure he killed Sydney.\""
+    f "@@@\"Pretty sure he killed Sydney.\""
 
-# game/Flynn-Thursday.rpy:10837
+# game/Flynn-Thursday.rpy:10843
 translate Schinese UpdateBegin_958489cb_1:
 
     # f "\"Pretty sure he killed Sydney.\""
-    f "\"Pretty sure he killed Sydney.\""
+    f "@@@\"Pretty sure he killed Sydney.\""
 
-# game/Flynn-Thursday.rpy:10841
+# game/Flynn-Thursday.rpy:10847
 translate Schinese UpdateBegin_958489cb_2:
 
     # f "\"Pretty sure he killed Sydney.\""
-    f "\"Pretty sure he killed Sydney.\""
+    f "@@@\"Pretty sure he killed Sydney.\""
 
-# game/Flynn-Thursday.rpy:10845
+# game/Flynn-Thursday.rpy:10851
 translate Schinese UpdateBegin_9fd6b1f0:
 
     # "I clutch my head, the blood in my veins feeling cold."
-    "I clutch my head, the blood in my veins feeling cold."
+    "@@@I clutch my head, the blood in my veins feeling cold."
 
-# game/Flynn-Thursday.rpy:10846
+# game/Flynn-Thursday.rpy:10852
 translate Schinese UpdateBegin_fa7cfa7d:
 
     # "It's as if the gravel beneath my feet is turning to quicksand."
-    "It's as if the gravel beneath my feet is turning to quicksand."
+    "@@@It's as if the gravel beneath my feet is turning to quicksand."
 
-# game/Flynn-Thursday.rpy:10847
+# game/Flynn-Thursday.rpy:10853
 translate Schinese UpdateBegin_2012b415:
 
     # "My mouth moves as if to say more, but I manage to bite my tongue."
-    "My mouth moves as if to say more, but I manage to bite my tongue."
+    "@@@My mouth moves as if to say more, but I manage to bite my tongue."
 
-# game/Flynn-Thursday.rpy:10848
+# game/Flynn-Thursday.rpy:10854
 translate Schinese UpdateBegin_c8f3ab3d:
 
     # "This just makes the pain worse."
-    "This just makes the pain worse."
+    "@@@This just makes the pain worse."
 
-# game/Flynn-Thursday.rpy:10849
+# game/Flynn-Thursday.rpy:10855
 translate Schinese UpdateBegin_5bfc4471:
 
     # "What the fuck is happening?"
-    "What the fuck is happening?"
+    "@@@What the fuck is happening?"
 
-# game/Flynn-Thursday.rpy:10850
+# game/Flynn-Thursday.rpy:10856
 translate Schinese UpdateBegin_f395268f:
 
     # "I can see Jenna covering her face with both paws, seemingly in disbelief this is really happening."
-    "I can see Jenna covering her face with both paws, seemingly in disbelief this is really happening."
+    "@@@I can see Jenna covering her face with both paws, seemingly in disbelief this is really happening."
 
-# game/Flynn-Thursday.rpy:10851
+# game/Flynn-Thursday.rpy:10857
 translate Schinese UpdateBegin_68cde3e6:
 
     # "There's a few murmurs from the gathering."
-    "There's a few murmurs from the gathering."
+    "@@@There's a few murmurs from the gathering."
 
-# game/Flynn-Thursday.rpy:10852
+# game/Flynn-Thursday.rpy:10858
 translate Schinese UpdateBegin_90f042a9:
 
     # "Micha looks back at us, seemingly distracted from whatever was in the desert that he was staring at."
-    "Micha looks back at us, seemingly distracted from whatever was in the desert that he was staring at."
+    "@@@Micha looks back at us, seemingly distracted from whatever was in the desert that he was staring at."
 
-# game/Flynn-Thursday.rpy:10853
+# game/Flynn-Thursday.rpy:10859
 translate Schinese UpdateBegin_f2ed0f4e:
 
     # ma "\"You're talkin' 'bout your little friend who drowned in the lake a decade 'go?\""
-    ma "\"You're talkin' 'bout your little friend who drowned in the lake a decade 'go?\""
+    ma "@@@\"You're talkin' 'bout your little friend who drowned in the lake a decade 'go?\""
 
-# game/Flynn-Thursday.rpy:10854
+# game/Flynn-Thursday.rpy:10860
 translate Schinese UpdateBegin_b4b8a38b_2:
 
     # f "\"Yeah.\""
-    f "\"Yeah.\""
+    f "@@@\"Yeah.\""
 
-# game/Flynn-Thursday.rpy:10855
+# game/Flynn-Thursday.rpy:10861
 translate Schinese UpdateBegin_e5ae0820:
 
     # du "\"Wow, kid.\""
-    du "\"Wow, kid.\""
+    du "@@@\"Wow, kid.\""
 
-# game/Flynn-Thursday.rpy:10856
+# game/Flynn-Thursday.rpy:10862
 translate Schinese UpdateBegin_a125d09f:
 
     # "He clicks his tongue, shaking his head at the bedraggled looking otter."
-    "He clicks his tongue, shaking his head at the bedraggled looking otter."
+    "@@@He clicks his tongue, shaking his head at the bedraggled looking otter."
 
-# game/Flynn-Thursday.rpy:10857
+# game/Flynn-Thursday.rpy:10863
 translate Schinese UpdateBegin_ddf62190:
 
     # du "\"That's fucked up.\""
-    du "\"That's fucked up.\""
+    du "@@@\"That's fucked up.\""
 
-# game/Flynn-Thursday.rpy:10858
+# game/Flynn-Thursday.rpy:10864
 translate Schinese UpdateBegin_8b3980fc:
 
     # "Chase starts to look like TJ again, as if on the urge of breaking down into sobs."
-    "Chase starts to look like TJ again, as if on the urge of breaking down into sobs."
+    "@@@Chase starts to look like TJ again, as if on the urge of breaking down into sobs."
 
-# game/Flynn-Thursday.rpy:10859
+# game/Flynn-Thursday.rpy:10865
 translate Schinese UpdateBegin_55b9e7e2:
 
     # "He seems to be alternating from angry, sad, and confused.. over and over again."
-    "He seems to be alternating from angry, sad, and confused.. over and over again."
+    "@@@He seems to be alternating from angry, sad, and confused.. over and over again."
 
-# game/Flynn-Thursday.rpy:10863
+# game/Flynn-Thursday.rpy:10869
 translate Schinese UpdateBegin_7716667b:
 
     # l "\"It's bullshit and you know it, Flynn.\""
-    l "\"It's bullshit and you know it, Flynn.\""
+    l "@@@\"It's bullshit and you know it, Flynn.\""
 
-# game/Flynn-Thursday.rpy:10864
+# game/Flynn-Thursday.rpy:10870
 translate Schinese UpdateBegin_7e5454d5:
 
     # l "\"You killed Sydney, you fucker!\""
-    l "\"You killed Sydney, you fucker!\""
+    l "@@@\"You killed Sydney, you fucker!\""
 
-# game/Flynn-Thursday.rpy:10865
+# game/Flynn-Thursday.rpy:10871
 translate Schinese UpdateBegin_ac7a0ca5:
 
     # "The pain flares, my vision blurring for a second."
-    "The pain flares, my vision blurring for a second."
+    "@@@The pain flares, my vision blurring for a second."
 
-# game/Flynn-Thursday.rpy:10866
+# game/Flynn-Thursday.rpy:10872
 translate Schinese UpdateBegin_e337f4bd:
 
     # f "\"That's.. that's not true.\""
-    f "\"That's.. that's not true.\""
+    f "@@@\"That's.. that's not true.\""
 
-# game/Flynn-Thursday.rpy:10867
+# game/Flynn-Thursday.rpy:10873
 translate Schinese UpdateBegin_4bbab15f:
 
     # ma "\"I highly doubt that, loverboy.\""
-    ma "\"I highly doubt that, loverboy.\""
+    ma "@@@\"I highly doubt that, loverboy.\""
 
-# game/Flynn-Thursday.rpy:10868
+# game/Flynn-Thursday.rpy:10874
 translate Schinese UpdateBegin_7c8f50da:
 
     # l "\"I'll beat all of your asses if ya keep tellin' lies, yeah?\""
-    l "\"I'll beat all of your asses if ya keep tellin' lies, yeah?\""
+    l "@@@\"I'll beat all of your asses if ya keep tellin' lies, yeah?\""
 
-# game/Flynn-Thursday.rpy:10869
+# game/Flynn-Thursday.rpy:10875
 translate Schinese UpdateBegin_fcd1c146:
 
     # "He grins, eyeing the rifle in my hands."
-    "He grins, eyeing the rifle in my hands."
+    "@@@He grins, eyeing the rifle in my hands."
 
-# game/Flynn-Thursday.rpy:10870
+# game/Flynn-Thursday.rpy:10876
 translate Schinese UpdateBegin_e921061c:
 
     # "I clutch it more tightly."
-    "I clutch it more tightly."
+    "@@@I clutch it more tightly."
 
-# game/Flynn-Thursday.rpy:10871
+# game/Flynn-Thursday.rpy:10877
 translate Schinese UpdateBegin_9f8b85e7:
 
     # "Duke turns, thumbing toward the wolf."
-    "Duke turns, thumbing toward the wolf."
+    "@@@Duke turns, thumbing toward the wolf."
 
-# game/Flynn-Thursday.rpy:10872
+# game/Flynn-Thursday.rpy:10878
 translate Schinese UpdateBegin_2aff45ad:
 
     # du "\"It's already got him.\""
-    du "\"It's already got him.\""
+    du "@@@\"It's already got him.\""
 
-# game/Flynn-Thursday.rpy:10873
+# game/Flynn-Thursday.rpy:10879
 translate Schinese UpdateBegin_859e0271:
 
     # "He speaks with such idle non-chalance, not bothering to clarify what 'it' is."
-    "He speaks with such idle non-chalance, not bothering to clarify what 'it' is."
+    "@@@He speaks with such idle non-chalance, not bothering to clarify what 'it' is."
 
-# game/Flynn-Thursday.rpy:10878
+# game/Flynn-Thursday.rpy:10884
 translate Schinese UpdateBegin_cee93257:
 
     # l "\"This ain't right how you guys are handling this, yeah?\""
-    l "\"This ain't right how you guys are handling this, yeah?\""
+    l "@@@\"This ain't right how you guys are handling this, yeah?\""
 
-# game/Flynn-Thursday.rpy:10879
+# game/Flynn-Thursday.rpy:10885
 translate Schinese UpdateBegin_0182efeb:
 
     # l "\"Duke, Flynn, Mayor-lady, you really need to fuck off.\""
-    l "\"Duke, Flynn, Mayor-lady, you really need to fuck off.\""
+    l "@@@\"Duke, Flynn, Mayor-lady, you really need to fuck off.\""
 
-# game/Flynn-Thursday.rpy:10880
+# game/Flynn-Thursday.rpy:10886
 translate Schinese UpdateBegin_947ca77a:
 
     # l "\"We'll handle this.\""
-    l "\"We'll handle this.\""
+    l "@@@\"We'll handle this.\""
 
-# game/Flynn-Thursday.rpy:10881
+# game/Flynn-Thursday.rpy:10887
 translate Schinese UpdateBegin_ed40e64b:
 
     # du "\"I don't reckon I believe that.\""
-    du "\"I don't reckon I believe that.\""
+    du "@@@\"I don't reckon I believe that.\""
 
-# game/Flynn-Thursday.rpy:10883
+# game/Flynn-Thursday.rpy:10889
 translate Schinese UpdateBegin_241db6a0:
 
     # mi "\"Syd died like 10 years ago.\""
-    mi "\"Syd died like 10 years ago.\""
+    mi "@@@\"Syd died like 10 years ago.\""
 
-# game/Flynn-Thursday.rpy:10884
+# game/Flynn-Thursday.rpy:10890
 translate Schinese UpdateBegin_6f176f0c:
 
     # mi "\"This doesn't make any fucking sense.\""
-    mi "\"This doesn't make any fucking sense.\""
+    mi "@@@\"This doesn't make any fucking sense.\""
 
-# game/Flynn-Thursday.rpy:10885
+# game/Flynn-Thursday.rpy:10891
 translate Schinese UpdateBegin_55856500:
 
     # du "\"Well, this sorta murder happened before.\""
-    du "\"Well, this sorta murder happened before.\""
+    du "@@@\"Well, this sorta murder happened before.\""
 
-# game/Flynn-Thursday.rpy:10886
+# game/Flynn-Thursday.rpy:10892
 translate Schinese UpdateBegin_02ce0d98:
 
     # du "\"My grandpappy lived through this whole thing and stayed in the town after.\""
-    du "\"My grandpappy lived through this whole thing and stayed in the town after.\""
+    du "@@@\"My grandpappy lived through this whole thing and stayed in the town after.\""
 
-# game/Flynn-Thursday.rpy:10887
+# game/Flynn-Thursday.rpy:10893
 translate Schinese UpdateBegin_7942d97c:
 
     # ma "\"Yeah.. yeah, that's right. It happened weeks after the body was found.\""
-    ma "\"Yeah.. yeah, that's right. It happened weeks after the body was found.\""
+    ma "@@@\"Yeah.. yeah, that's right. It happened weeks after the body was found.\""
 
-# game/Flynn-Thursday.rpy:10888
+# game/Flynn-Thursday.rpy:10894
 translate Schinese UpdateBegin_bdb38302:
 
     # "Auntie rubs her thumb through her floral scarf, staring into the headlights of one of the old jeeps."
-    "Auntie rubs her thumb through her floral scarf, staring into the headlights of one of the old jeeps."
+    "@@@Auntie rubs her thumb through her floral scarf, staring into the headlights of one of the old jeeps."
 
-# game/Flynn-Thursday.rpy:10889
+# game/Flynn-Thursday.rpy:10895
 translate Schinese UpdateBegin_f7715925:
 
     # ma "\"The one in the mines. The air got all electric and fuzzy - folk went out of their heads.\""
-    ma "\"The one in the mines. The air got all electric and fuzzy - folk went out of their heads.\""
+    ma "@@@\"The one in the mines. The air got all electric and fuzzy - folk went out of their heads.\""
 
-# game/Flynn-Thursday.rpy:10890
+# game/Flynn-Thursday.rpy:10896
 translate Schinese UpdateBegin_6039c5a3:
 
     # "She's never talked about any of this before."
-    "She's never talked about any of this before."
+    "@@@She's never talked about any of this before."
 
-# game/Flynn-Thursday.rpy:10891
+# game/Flynn-Thursday.rpy:10897
 translate Schinese UpdateBegin_ab8a4633:
 
     # f "\"...How do you know that?\""
-    f "\"...How do you know that?\""
+    f "@@@\"...How do you know that?\""
 
-# game/Flynn-Thursday.rpy:10892
+# game/Flynn-Thursday.rpy:10898
 translate Schinese UpdateBegin_264efeaa:
 
     # ma "\"Brett gabbed 'bout it a lot when you were a youngin', and even before ya were born.\""
-    ma "\"Brett gabbed 'bout it a lot when you were a youngin', and even before ya were born.\""
+    ma "@@@\"Brett gabbed 'bout it a lot when you were a youngin', and even before ya were born.\""
 
-# game/Flynn-Thursday.rpy:10893
+# game/Flynn-Thursday.rpy:10899
 translate Schinese UpdateBegin_0dc1c838:
 
     # "Dad."
-    "Dad."
+    "@@@Dad."
 
-# game/Flynn-Thursday.rpy:10894
+# game/Flynn-Thursday.rpy:10900
 translate Schinese UpdateBegin_e97412f8:
 
     # ma "\"The whole superstition was part of his justification for making like a library and booking it.\""
-    ma "\"The whole superstition was part of his justification for making like a library and booking it.\""
+    ma "@@@\"The whole superstition was part of his justification for making like a library and booking it.\""
 
-# game/Flynn-Thursday.rpy:10895
+# game/Flynn-Thursday.rpy:10901
 translate Schinese UpdateBegin_1e0df205:
 
     # ma "\"Well, that and one other reason.\""
-    ma "\"Well, that and one other reason.\""
+    ma "@@@\"Well, that and one other reason.\""
 
-# game/Flynn-Thursday.rpy:10896
+# game/Flynn-Thursday.rpy:10902
 translate Schinese UpdateBegin_51e80a5e:
 
     # "I try to ignore the last comment, still focusing on the increasingly tense stare-down between Leo, Chase, and Duke."
-    "I try to ignore the last comment, still focusing on the increasingly tense stare-down between Leo, Chase, and Duke."
+    "@@@I try to ignore the last comment, still focusing on the increasingly tense stare-down between Leo, Chase, and Duke."
 
-# game/Flynn-Thursday.rpy:10897
+# game/Flynn-Thursday.rpy:10903
 translate Schinese UpdateBegin_af5784e2:
 
     # "I had heard Mom and Dad hated Echo, mainly the usual grumblings about godlessness."
-    "I had heard Mom and Dad hated Echo, mainly the usual grumblings about godlessness."
+    "@@@I had heard Mom and Dad hated Echo, mainly the usual grumblings about godlessness."
 
-# game/Flynn-Thursday.rpy:10898
+# game/Flynn-Thursday.rpy:10904
 translate Schinese UpdateBegin_5dfb7866:
 
     # "Any ailments they had were surely the fucking results of some latent sin."
-    "Any ailments they had were surely the fucking results of some latent sin."
+    "@@@Any ailments they had were surely the fucking results of some latent sin."
 
-# game/Flynn-Thursday.rpy:10899
+# game/Flynn-Thursday.rpy:10905
 translate Schinese UpdateBegin_780e0f38:
 
     # ma "\"Point is-\""
-    ma "\"Point is-\""
+    ma "@@@\"Point is-\""
 
-# game/Flynn-Thursday.rpy:10900
+# game/Flynn-Thursday.rpy:10906
 translate Schinese UpdateBegin_1baa95c3:
 
     # du "\"The ground beneath our feet is a tainted soil. Rotten, shaky loam.\""
-    du "\"The ground beneath our feet is a tainted soil. Rotten, shaky loam.\""
+    du "@@@\"The ground beneath our feet is a tainted soil. Rotten, shaky loam.\""
 
-# game/Flynn-Thursday.rpy:10901
+# game/Flynn-Thursday.rpy:10907
 translate Schinese UpdateBegin_2ed19524:
 
     # "Duke interrupts, but Auntie doesn't seem to mind."
-    "Duke interrupts, but Auntie doesn't seem to mind."
+    "@@@Duke interrupts, but Auntie doesn't seem to mind."
 
-# game/Flynn-Thursday.rpy:10902
+# game/Flynn-Thursday.rpy:10908
 translate Schinese UpdateBegin_89a2f72e:
 
     # "She's just frowning now, looking to the crowd of people."
-    "She's just frowning now, looking to the crowd of people."
+    "@@@She's just frowning now, looking to the crowd of people."
 
-# game/Flynn-Thursday.rpy:10903
+# game/Flynn-Thursday.rpy:10909
 translate Schinese UpdateBegin_8a03367f:
 
     # "Her scarf's come undone due to all the fidgeting, and all the old scars she has beneath are visible - tattered scales replaced with pink flesh."
-    "Her scarf's come undone due to all the fidgeting, and all the old scars she has beneath are visible - tattered scales replaced with pink flesh."
+    "@@@Her scarf's come undone due to all the fidgeting, and all the old scars she has beneath are visible - tattered scales replaced with pink flesh."
 
-# game/Flynn-Thursday.rpy:10904
+# game/Flynn-Thursday.rpy:10910
 translate Schinese UpdateBegin_341369b7:
 
     # du "\"It's more rotten in some places. Y'all know the ones.\""
-    du "\"It's more rotten in some places. Y'all know the ones.\""
+    du "@@@\"It's more rotten in some places. Y'all know the ones.\""
 
-# game/Flynn-Thursday.rpy:10905
+# game/Flynn-Thursday.rpy:10911
 translate Schinese UpdateBegin_f6b6eacd:
 
     # du "\"My grandpappy thought that 'cuz they didn't catch the murderer, it planted some seeds in the bad dirt.\""
-    du "\"My grandpappy thought that 'cuz they didn't catch the murderer, it planted some seeds in the bad dirt.\""
+    du "@@@\"My grandpappy thought that 'cuz they didn't catch the murderer, it planted some seeds in the bad dirt.\""
 
-# game/Flynn-Thursday.rpy:10906
+# game/Flynn-Thursday.rpy:10912
 translate Schinese UpdateBegin_cfaf684e:
 
     # du "\"But that ain't true.\""
-    du "\"But that ain't true.\""
+    du "@@@\"But that ain't true.\""
 
-# game/Flynn-Thursday.rpy:10907
+# game/Flynn-Thursday.rpy:10913
 translate Schinese UpdateBegin_78ad2d4a:
 
     # "Duke rubs at a scab along his forehead, squeezing his cigarette so hard that the ash starts pouring out the other side like toothpaste."
-    "Duke rubs at a scab along his forehead, squeezing his cigarette so hard that the ash starts pouring out the other side like toothpaste."
+    "@@@Duke rubs at a scab along his forehead, squeezing his cigarette so hard that the ash starts pouring out the other side like toothpaste."
 
-# game/Flynn-Thursday.rpy:10908
+# game/Flynn-Thursday.rpy:10914
 translate Schinese UpdateBegin_5c3a3fc9:
 
     # du "\"They caught 'im alright, then everything was okay for a while after they found 'im and he was killt.\""
-    du "\"They caught 'im alright, then everything was okay for a while after they found 'im and he was killt.\""
+    du "@@@\"They caught 'im alright, then everything was okay for a while after they found 'im and he was killt.\""
 
-# game/Flynn-Thursday.rpy:10909
+# game/Flynn-Thursday.rpy:10915
 translate Schinese UpdateBegin_fb1fc2a4:
 
     # f "\"What the fuck does this have to do with Sydney?\""
-    f "\"What the fuck does this have to do with Sydney?\""
+    f "@@@\"What the fuck does this have to do with Sydney?\""
 
-# game/Flynn-Thursday.rpy:10910
+# game/Flynn-Thursday.rpy:10916
 translate Schinese UpdateBegin_e7a683b0:
 
     # "Duke continues, ignoring me."
-    "Duke continues, ignoring me."
+    "@@@Duke continues, ignoring me."
 
-# game/Flynn-Thursday.rpy:10911
+# game/Flynn-Thursday.rpy:10917
 translate Schinese UpdateBegin_155c846e:
 
     # du "\"So I dunno what it is; if it's murder, or guilt, or not catchin' someone that did wrong—\""
-    du "\"So I dunno what it is; if it's murder, or guilt, or not catchin' someone that did wrong—\""
+    du "@@@\"So I dunno what it is; if it's murder, or guilt, or not catchin' someone that did wrong—\""
 
-# game/Flynn-Thursday.rpy:10912
+# game/Flynn-Thursday.rpy:10918
 translate Schinese UpdateBegin_0e8cd9a5:
 
     # "I shake my head. I can't believe this shit."
-    "I shake my head. I can't believe this shit."
+    "@@@I shake my head. I can't believe this shit."
 
-# game/Flynn-Thursday.rpy:10913
+# game/Flynn-Thursday.rpy:10919
 translate Schinese UpdateBegin_d4832b26:
 
     # f "\"Syd's not fucking haunting the town, you meth-addled cunt!\""
-    f "\"Syd's not fucking haunting the town, you meth-addled cunt!\""
+    f "@@@\"Syd's not fucking haunting the town, you meth-addled cunt!\""
 
-# game/Flynn-Thursday.rpy:10914
+# game/Flynn-Thursday.rpy:10920
 translate Schinese UpdateBegin_abc54586:
 
     # du "\"—but it started when you got here, so you gotta forgive me for wonderin' if one of you did somethin' bad—\""
-    du "\"—but it started when you got here, so you gotta forgive me for wonderin' if one of you did somethin' bad—\""
+    du "@@@\"—but it started when you got here, so you gotta forgive me for wonderin' if one of you did somethin' bad—\""
 
-# game/Flynn-Thursday.rpy:10915
+# game/Flynn-Thursday.rpy:10921
 translate Schinese UpdateBegin_55244ebc:
 
     # f "\"He was a fucking nine-year old!!\""
-    f "\"He was a fucking nine-year old!!\""
+    f "@@@\"He was a fucking nine-year old!!\""
 
-# game/Flynn-Thursday.rpy:10916
+# game/Flynn-Thursday.rpy:10922
 translate Schinese UpdateBegin_3b7d1a67:
 
     # du "\"—and brought that guilt back to this poisoned land to grow the seeds again...\""
-    du "\"—and brought that guilt back to this poisoned land to grow the seeds again...\""
+    du "@@@\"—and brought that guilt back to this poisoned land to grow the seeds again...\""
 
-# game/Flynn-Thursday.rpy:10917
+# game/Flynn-Thursday.rpy:10923
 translate Schinese UpdateBegin_71dd301f:
 
     # "Duke doesn't sound like himself at all, not even his recently crazed self."
-    "Duke doesn't sound like himself at all, not even his recently crazed self."
+    "@@@Duke doesn't sound like himself at all, not even his recently crazed self."
 
-# game/Flynn-Thursday.rpy:10918
+# game/Flynn-Thursday.rpy:10924
 translate Schinese UpdateBegin_dc51e121:
 
     # "Still, though I don't want to admit it, I start to have an idea of what Duke might be getting at."
-    "Still, though I don't want to admit it, I start to have an idea of what Duke might be getting at."
+    "@@@Still, though I don't want to admit it, I start to have an idea of what Duke might be getting at."
 
-# game/Flynn-Thursday.rpy:10919
+# game/Flynn-Thursday.rpy:10925
 translate Schinese UpdateBegin_c2ab8c1d:
 
     # "How this all fits into our history."
-    "How this all fits into our history."
+    "@@@How this all fits into our history."
 
-# game/Flynn-Thursday.rpy:10920
+# game/Flynn-Thursday.rpy:10926
 translate Schinese UpdateBegin_2314d2a6:
 
     # "And judging from the look on the gathered crowd's faces, the feeling appears mutual."
-    "And judging from the look on the gathered crowd's faces, the feeling appears mutual."
+    "@@@And judging from the look on the gathered crowd's faces, the feeling appears mutual."
 
-# game/Flynn-Thursday.rpy:10921
+# game/Flynn-Thursday.rpy:10927
 translate Schinese UpdateBegin_74ff98f5:
 
     # "There's murmured inquiries about what to do."
-    "There's murmured inquiries about what to do."
+    "@@@There's murmured inquiries about what to do."
 
-# game/Flynn-Thursday.rpy:10922
+# game/Flynn-Thursday.rpy:10928
 translate Schinese UpdateBegin_f3dde477:
 
     # "Heather is still quietly sobbing, asking a group of people who ignore her why no one is helping \"Keith\"."
-    "Heather is still quietly sobbing, asking a group of people who ignore her why no one is helping \"Keith\"."
+    "@@@Heather is still quietly sobbing, asking a group of people who ignore her why no one is helping \"Keith\"."
 
-# game/Flynn-Thursday.rpy:10923
+# game/Flynn-Thursday.rpy:10929
 translate Schinese UpdateBegin_7da390b4:
 
     # "Genevieve Sanders, a retired mail carrier from Payton, mentions something about a lynching."
-    "Genevieve Sanders, a retired mail carrier from Payton, mentions something about a lynching."
+    "@@@Genevieve Sanders, a retired mail carrier from Payton, mentions something about a lynching."
 
-# game/Flynn-Thursday.rpy:10927
+# game/Flynn-Thursday.rpy:10933
 translate Schinese UpdateBegin_5940eae1:
 
     # "Jenna's arms are crossed tight, her expression this sort of furrowed, indignant stare that slowly falters to upset confusion."
-    "Jenna's arms are crossed tight, her expression this sort of furrowed, indignant stare that slowly falters to upset confusion."
+    "@@@Jenna's arms are crossed tight, her expression this sort of furrowed, indignant stare that slowly falters to upset confusion."
 
-# game/Flynn-Thursday.rpy:10928
+# game/Flynn-Thursday.rpy:10934
 translate Schinese UpdateBegin_c7b48956:
 
     # "TJ's next to her, one paw on her arm."
-    "TJ's next to her, one paw on her arm."
+    "@@@TJ's next to her, one paw on her arm."
 
-# game/Flynn-Thursday.rpy:10929
+# game/Flynn-Thursday.rpy:10935
 translate Schinese UpdateBegin_367d1576:
 
     # "I can barely hear him, but he keeps saying he's sorry, over and over."
-    "I can barely hear him, but he keeps saying he's sorry, over and over."
+    "@@@I can barely hear him, but he keeps saying he's sorry, over and over."
 
-# game/Flynn-Thursday.rpy:10930
+# game/Flynn-Thursday.rpy:10936
 translate Schinese UpdateBegin_4fc0efa3:
 
     # "Leo begins to tug at Chase, pulling him back in the direction of the van."
-    "Leo begins to tug at Chase, pulling him back in the direction of the van."
+    "@@@Leo begins to tug at Chase, pulling him back in the direction of the van."
 
-# game/Flynn-Thursday.rpy:10931
+# game/Flynn-Thursday.rpy:10937
 translate Schinese UpdateBegin_02a93262:
 
     # "The two begin to hurriedly walk before Auntie speaks up."
-    "The two begin to hurriedly walk before Auntie speaks up."
+    "@@@The two begin to hurriedly walk before Auntie speaks up."
 
-# game/Flynn-Thursday.rpy:10932
+# game/Flynn-Thursday.rpy:10938
 translate Schinese UpdateBegin_e830e9d4:
 
     # ma "\"Stop.\""
-    ma "\"Stop.\""
+    ma "@@@\"Stop.\""
 
-# game/Flynn-Thursday.rpy:10933
+# game/Flynn-Thursday.rpy:10939
 translate Schinese UpdateBegin_b89450e2:
 
     # "I always had this niggling desire, this idea.. of getting justice for what happened."
-    "I always had this niggling desire, this idea.. of getting justice for what happened."
+    "@@@I always had this niggling desire, this idea.. of getting justice for what happened."
 
-# game/Flynn-Thursday.rpy:10934
+# game/Flynn-Thursday.rpy:10940
 translate Schinese UpdateBegin_71e49ad5:
 
     # "Syd deserved as much, but now, I can't say I'm feeling any catharsis or joy."
-    "Syd deserved as much, but now, I can't say I'm feeling any catharsis or joy."
+    "@@@Syd deserved as much, but now, I can't say I'm feeling any catharsis or joy."
 
-# game/Flynn-Thursday.rpy:10935
+# game/Flynn-Thursday.rpy:10941
 translate Schinese UpdateBegin_02558f62:
 
     # "Just this hollow rumbling from my insides, that this ain't right."
-    "Just this hollow rumbling from my insides, that this ain't right."
+    "@@@Just this hollow rumbling from my insides, that this ain't right."
 
-# game/Flynn-Thursday.rpy:10936
+# game/Flynn-Thursday.rpy:10942
 translate Schinese UpdateBegin_43a8abb4:
 
     # "This can't be how we fix shit."
-    "This can't be how we fix shit."
+    "@@@This can't be how we fix shit."
 
-# game/Flynn-Thursday.rpy:10937
+# game/Flynn-Thursday.rpy:10943
 translate Schinese UpdateBegin_9f3b92d3:
 
     # "Carl has his head down now, the ram acting small despite his burly proportions."
-    "Carl has his head down now, the ram acting small despite his burly proportions."
+    "@@@Carl has his head down now, the ram acting small despite his burly proportions."
 
-# game/Flynn-Thursday.rpy:10938
+# game/Flynn-Thursday.rpy:10944
 translate Schinese UpdateBegin_8c02b289:
 
     # "I just wanna move beside him, tuck him under my arm, and fuck off far away from here."
-    "I just wanna move beside him, tuck him under my arm, and fuck off far away from here."
+    "@@@I just wanna move beside him, tuck him under my arm, and fuck off far away from here."
 
-# game/Flynn-Thursday.rpy:10939
+# game/Flynn-Thursday.rpy:10945
 translate Schinese UpdateBegin_0f2a70b7:
 
     # ma "\"Get back over here.\""
-    ma "\"Get back over here.\""
+    ma "@@@\"Get back over here.\""
 
-# game/Flynn-Thursday.rpy:10943
+# game/Flynn-Thursday.rpy:10949
 translate Schinese UpdateBegin_f5689be9:
 
     # "Leo clutches Chase tighter, the otter wincing as he struggles to wriggle free from the wolf."
-    "Leo clutches Chase tighter, the otter wincing as he struggles to wriggle free from the wolf."
+    "@@@Leo clutches Chase tighter, the otter wincing as he struggles to wriggle free from the wolf."
 
-# game/Flynn-Thursday.rpy:10944
+# game/Flynn-Thursday.rpy:10950
 translate Schinese UpdateBegin_59abc449:
 
     # m "\"I.. I can walk on my own, Leo.\""
-    m "\"I.. I can walk on my own, Leo.\""
+    m "@@@\"I.. I can walk on my own, Leo.\""
 
-# game/Flynn-Thursday.rpy:10945
+# game/Flynn-Thursday.rpy:10951
 translate Schinese UpdateBegin_e636d637:
 
     # "Leo seems to ignore both the mayor and Chase as they approach the van."
-    "Leo seems to ignore both the mayor and Chase as they approach the van."
+    "@@@Leo seems to ignore both the mayor and Chase as they approach the van."
 
-# game/Flynn-Thursday.rpy:10946
+# game/Flynn-Thursday.rpy:10952
 translate Schinese UpdateBegin_9d4c5e6c:
 
     # "Jenna quickly shoves her phone into her purse, the fennec visibly trying not to look at the body as she, TJ, Carl, and Dax join them."
-    "Jenna quickly shoves her phone into her purse, the fennec visibly trying not to look at the body as she, TJ, Carl, and Dax join them."
+    "@@@Jenna quickly shoves her phone into her purse, the fennec visibly trying not to look at the body as she, TJ, Carl, and Dax join them."
 
-# game/Flynn-Thursday.rpy:10947
+# game/Flynn-Thursday.rpy:10953
 translate Schinese UpdateBegin_84fc4893_1:
 
     # f "\"Jesus.\""
-    f "\"Jesus.\""
+    f "@@@\"Jesus.\""
 
-# game/Flynn-Thursday.rpy:10948
+# game/Flynn-Thursday.rpy:10954
 translate Schinese UpdateBegin_0b9c32d6:
 
     # "I rub at my aching head."
-    "I rub at my aching head."
+    "@@@I rub at my aching head."
 
-# game/Flynn-Thursday.rpy:10949
+# game/Flynn-Thursday.rpy:10955
 translate Schinese UpdateBegin_1440e720:
 
     # "Fuck this, I gotta get out of here."
-    "Fuck this, I gotta get out of here."
+    "@@@Fuck this, I gotta get out of here."
 
-# game/Flynn-Thursday.rpy:10950
+# game/Flynn-Thursday.rpy:10956
 translate Schinese UpdateBegin_9e34464a:
 
     # "I hear a clicking noise to my side."
-    "I hear a clicking noise to my side."
+    "@@@I hear a clicking noise to my side."
 
-# game/Flynn-Thursday.rpy:10957
+# game/Flynn-Thursday.rpy:10963
 translate Schinese UpdateBegin_83eed534:
 
     # "Leo shakes his head."
-    "Leo shakes his head."
+    "@@@Leo shakes his head."
 
-# game/Flynn-Thursday.rpy:10958
+# game/Flynn-Thursday.rpy:10964
 translate Schinese UpdateBegin_b88fc585:
 
     # l "\"We're not sticking around for your shitty speeches.\""
-    l "\"We're not sticking around for your shitty speeches.\""
+    l "@@@\"We're not sticking around for your shitty speeches.\""
 
-# game/Flynn-Thursday.rpy:10959
+# game/Flynn-Thursday.rpy:10965
 translate Schinese UpdateBegin_9c991041:
 
     # l "\"We're leaving. Chase needs a doctor. Come on, guys.\""
-    l "\"We're leaving. Chase needs a doctor. Come on, guys.\""
+    l "@@@\"We're leaving. Chase needs a doctor. Come on, guys.\""
 
-# game/Flynn-Thursday.rpy:10960
+# game/Flynn-Thursday.rpy:10966
 translate Schinese UpdateBegin_aaa394b3:
 
     # "He makes a beckoning motion to us."
-    "He makes a beckoning motion to us."
+    "@@@He makes a beckoning motion to us."
 
-# game/Flynn-Thursday.rpy:10961
+# game/Flynn-Thursday.rpy:10967
 translate Schinese UpdateBegin_b050be0a:
 
     # "Jenna quickly shoves her phone into her purse, the fennec visibly trying not to look at the body as she, TJ, Carl, and Dax head to the van."
-    "Jenna quickly shoves her phone into her purse, the fennec visibly trying not to look at the body as she, TJ, Carl, and Dax head to the van."
+    "@@@Jenna quickly shoves her phone into her purse, the fennec visibly trying not to look at the body as she, TJ, Carl, and Dax head to the van."
 
-# game/Flynn-Thursday.rpy:10962
+# game/Flynn-Thursday.rpy:10968
 translate Schinese UpdateBegin_57b0d4a6:
 
     # "Just as I start to join them, I hear a clicking noise to my side."
-    "Just as I start to join them, I hear a clicking noise to my side."
+    "@@@Just as I start to join them, I hear a clicking noise to my side."
 
-# game/Flynn-Thursday.rpy:10968
+# game/Flynn-Thursday.rpy:10974
 translate Schinese UpdateBegin_2c104390:
 
     # "The horrible noise is deafening."
-    "The horrible noise is deafening."
+    "@@@The horrible noise is deafening."
 
-# game/Flynn-Thursday.rpy:10969
+# game/Flynn-Thursday.rpy:10975
 translate Schinese UpdateBegin_78a7cc6b:
 
     # "I clutch the sides of my head and crouch down."
-    "I clutch the sides of my head and crouch down."
+    "@@@I clutch the sides of my head and crouch down."
 
-# game/Flynn-Thursday.rpy:10970
+# game/Flynn-Thursday.rpy:10976
 translate Schinese UpdateBegin_a039de98:
 
     # "A brass shell casing falls and hits my leg. It's hot."
-    "A brass shell casing falls and hits my leg. It's hot."
+    "@@@A brass shell casing falls and hits my leg. It's hot."
 
-# game/Flynn-Thursday.rpy:10971
+# game/Flynn-Thursday.rpy:10977
 translate Schinese UpdateBegin_55f07766:
 
     # "Duke's pointing his pistol into the air."
-    "Duke's pointing his pistol into the air."
+    "@@@Duke's pointing his pistol into the air."
 
-# game/Flynn-Thursday.rpy:10972
+# game/Flynn-Thursday.rpy:10978
 translate Schinese UpdateBegin_7a3cc425:
 
     # "Our group stops in their tracks, TJ falling to the ground and covering his face."
-    "Our group stops in their tracks, TJ falling to the ground and covering his face."
+    "@@@Our group stops in their tracks, TJ falling to the ground and covering his face."
 
-# game/Flynn-Thursday.rpy:10973
+# game/Flynn-Thursday.rpy:10979
 translate Schinese UpdateBegin_cb077601:
 
     # "Heather is shrieking, screaming over and over again."
-    "Heather is shrieking, screaming over and over again."
+    "@@@Heather is shrieking, screaming over and over again."
 
-# game/Flynn-Thursday.rpy:10974
+# game/Flynn-Thursday.rpy:10980
 translate Schinese UpdateBegin_9044fec1:
 
     # "And then suddenly, she stops."
-    "And then suddenly, she stops."
+    "@@@And then suddenly, she stops."
 
-# game/Flynn-Thursday.rpy:10975
+# game/Flynn-Thursday.rpy:10981
 translate Schinese UpdateBegin_8706a7b2:
 
     # "There's some flailing of movement from the group that was standing near her, like the dancing you see at raves."
-    "There's some flailing of movement from the group that was standing near her, like the dancing you see at raves."
+    "@@@There's some flailing of movement from the group that was standing near her, like the dancing you see at raves."
 
-# game/Flynn-Thursday.rpy:10976
+# game/Flynn-Thursday.rpy:10982
 translate Schinese UpdateBegin_573c2910:
 
     # "When I look again, I can't see her anymore."
-    "When I look again, I can't see her anymore."
+    "@@@When I look again, I can't see her anymore."
 
-# game/Flynn-Thursday.rpy:10977
+# game/Flynn-Thursday.rpy:10983
 translate Schinese UpdateBegin_59209f59:
 
     # "Micha's gone too."
-    "Micha's gone too."
+    "@@@Micha's gone too."
 
-# game/Flynn-Thursday.rpy:10978
+# game/Flynn-Thursday.rpy:10984
 translate Schinese UpdateBegin_5abc48d5:
 
     # "Him and a few others scattered."
-    "Him and a few others scattered."
+    "@@@Him and a few others scattered."
 
-# game/Flynn-Thursday.rpy:10979
+# game/Flynn-Thursday.rpy:10985
 translate Schinese UpdateBegin_27862b54:
 
     # "I can faintly see the bat's silhouette in the distance, sprinting into the desert."
-    "I can faintly see the bat's silhouette in the distance, sprinting into the desert."
+    "@@@I can faintly see the bat's silhouette in the distance, sprinting into the desert."
 
-# game/Flynn-Thursday.rpy:10980
+# game/Flynn-Thursday.rpy:10986
 translate Schinese UpdateBegin_94c64aeb:
 
     # f "\"What the FUCK, Duke!?\""
-    f "\"What the FUCK, Duke!?\""
+    f "@@@\"What the FUCK, Duke!?\""
 
-# game/Flynn-Thursday.rpy:10981
+# game/Flynn-Thursday.rpy:10987
 translate Schinese UpdateBegin_1a3ef44d:
 
     # "I scream at the weasel."
-    "I scream at the weasel."
+    "@@@I scream at the weasel."
 
-# game/Flynn-Thursday.rpy:10982
+# game/Flynn-Thursday.rpy:10988
 translate Schinese UpdateBegin_99da5038:
 
     # du "\"Needed to get their attention, for the mayor, yeah?\""
-    du "\"Needed to get their attention, for the mayor, yeah?\""
+    du "@@@\"Needed to get their attention, for the mayor, yeah?\""
 
-# game/Flynn-Thursday.rpy:10983
+# game/Flynn-Thursday.rpy:10989
 translate Schinese UpdateBegin_107a909f:
 
     # f "\"That's no fucking excuse!\""
-    f "\"That's no fucking excuse!\""
+    f "@@@\"That's no fucking excuse!\""
 
-# game/Flynn-Thursday.rpy:10984
+# game/Flynn-Thursday.rpy:10990
 translate Schinese UpdateBegin_ef949ba1:
 
     # f "\"That shot could come back down and kill somebody!\""
-    f "\"That shot could come back down and kill somebody!\""
+    f "@@@\"That shot could come back down and kill somebody!\""
 
-# game/Flynn-Thursday.rpy:10985
+# game/Flynn-Thursday.rpy:10991
 translate Schinese UpdateBegin_c424939e:
 
     # "Duke clutches the pistol limply in his grasp, seemingly uncaring of where he's pointing the loaded weapon as he twirls his wrist about."
-    "Duke clutches the pistol limply in his grasp, seemingly uncaring of where he's pointing the loaded weapon as he twirls his wrist about."
+    "@@@Duke clutches the pistol limply in his grasp, seemingly uncaring of where he's pointing the loaded weapon as he twirls his wrist about."
 
-# game/Flynn-Thursday.rpy:10986
+# game/Flynn-Thursday.rpy:10992
 translate Schinese UpdateBegin_10c66e30:
 
     # du "\"It's a bit late for that now. Folk've been hurt already.\""
-    du "\"It's a bit late for that now. Folk've been hurt already.\""
+    du "@@@\"It's a bit late for that now. Folk've been hurt already.\""
 
-# game/Flynn-Thursday.rpy:10987
+# game/Flynn-Thursday.rpy:10993
 translate Schinese UpdateBegin_eaba2706:
 
     # du "\"And they'll continue to get hurt 'till we stop this.\""
-    du "\"And they'll continue to get hurt 'till we stop this.\""
+    du "@@@\"And they'll continue to get hurt 'till we stop this.\""
 
-# game/Flynn-Thursday.rpy:10988
+# game/Flynn-Thursday.rpy:10994
 translate Schinese UpdateBegin_d34537c6:
 
     # "I hear shouts of agreement from the remaining crowd."
-    "I hear shouts of agreement from the remaining crowd."
+    "@@@I hear shouts of agreement from the remaining crowd."
 
-# game/Flynn-Thursday.rpy:10989
+# game/Flynn-Thursday.rpy:10995
 translate Schinese UpdateBegin_72fd7ef6:
 
     # "Auntie just nods, and I can't help but give her a dumbfounded look."
-    "Auntie just nods, and I can't help but give her a dumbfounded look."
+    "@@@Auntie just nods, and I can't help but give her a dumbfounded look."
 
-# game/Flynn-Thursday.rpy:10990
+# game/Flynn-Thursday.rpy:10996
 translate Schinese UpdateBegin_2e05e69d:
 
     # "I clutch my repeater close."
-    "I clutch my repeater close."
+    "@@@I clutch my repeater close."
 
-# game/Flynn-Thursday.rpy:10992
+# game/Flynn-Thursday.rpy:10998
 translate Schinese UpdateBegin_8ad9d2ee:
 
     # ma "\"Spiders.\""
-    ma "\"Spiders.\""
+    ma "@@@\"Spiders.\""
 
-# game/Flynn-Thursday.rpy:10993
+# game/Flynn-Thursday.rpy:10999
 translate Schinese UpdateBegin_d71479e4:
 
     # ma "\"Spiders got him, that right, Flynn?\""
-    ma "\"Spiders got him, that right, Flynn?\""
+    ma "@@@\"Spiders got him, that right, Flynn?\""
 
-# game/Flynn-Thursday.rpy:10994
+# game/Flynn-Thursday.rpy:11000
 translate Schinese UpdateBegin_d45826ea:
 
     # "She points to Chase."
-    "She points to Chase."
+    "@@@She points to Chase."
 
-# game/Flynn-Thursday.rpy:10995
+# game/Flynn-Thursday.rpy:11001
 translate Schinese UpdateBegin_3dd96fec:
 
     # f "\"...Yeah? He sat in a nest of 'em.\""
-    f "\"...Yeah? He sat in a nest of 'em.\""
+    f "@@@\"...Yeah? He sat in a nest of 'em.\""
 
-# game/Flynn-Thursday.rpy:10996
+# game/Flynn-Thursday.rpy:11002
 translate Schinese UpdateBegin_3760e08b:
 
     # ma "\"Duke.\""
-    ma "\"Duke.\""
+    ma "@@@\"Duke.\""
 
-# game/Flynn-Thursday.rpy:10998
+# game/Flynn-Thursday.rpy:11004
 translate Schinese UpdateBegin_2018ae99:
 
     # "She holds up a finger, fast-walking back into the office without another word."
-    "She holds up a finger, fast-walking back into the office without another word."
+    "@@@She holds up a finger, fast-walking back into the office without another word."
 
-# game/Flynn-Thursday.rpy:10999
+# game/Flynn-Thursday.rpy:11005
 translate Schinese UpdateBegin_e51f16ab:
 
     # "Duke watches our group by the van. Everyone's quiet."
-    "Duke watches our group by the van. Everyone's quiet."
+    "@@@Duke watches our group by the van. Everyone's quiet."
 
-# game/Flynn-Thursday.rpy:11000
+# game/Flynn-Thursday.rpy:11006
 translate Schinese UpdateBegin_ed32653a:
 
     # "His pistol is aimed up at the sky."
-    "His pistol is aimed up at the sky."
+    "@@@His pistol is aimed up at the sky."
 
-# game/Flynn-Thursday.rpy:11002
+# game/Flynn-Thursday.rpy:11008
 translate Schinese UpdateBegin_917d27ad:
 
     # "After a minute, she returns with a piece of faded paper clutched in her hands."
-    "After a minute, she returns with a piece of faded paper clutched in her hands."
+    "@@@After a minute, she returns with a piece of faded paper clutched in her hands."
 
-# game/Flynn-Thursday.rpy:11003
+# game/Flynn-Thursday.rpy:11009
 translate Schinese UpdateBegin_fe368400:
 
     # "There's some old-timey writing on both sides of it."
-    "There's some old-timey writing on both sides of it."
+    "@@@There's some old-timey writing on both sides of it."
 
-# game/Flynn-Thursday.rpy:11004
+# game/Flynn-Thursday.rpy:11010
 translate Schinese UpdateBegin_7fb4bfde:
 
     # "She holds it up to Mark and Duke."
-    "She holds it up to Mark and Duke."
+    "@@@She holds it up to Mark and Duke."
 
-# game/Flynn-Thursday.rpy:11005
+# game/Flynn-Thursday.rpy:11011
 translate Schinese UpdateBegin_6a2b84a2:
 
     # "Mark uses his cell phone as a light as they begin to read, Duke lowering his gun."
-    "Mark uses his cell phone as a light as they begin to read, Duke lowering his gun."
+    "@@@Mark uses his cell phone as a light as they begin to read, Duke lowering his gun."
 
-# game/Flynn-Thursday.rpy:11006
+# game/Flynn-Thursday.rpy:11012
 translate Schinese UpdateBegin_f0b4b5b8:
 
     # "I can see Jenna moving by the edge of the fan."
-    "I can see Jenna moving by the edge of the fan."
+    "@@@I can see Jenna moving by the edge of the fan."
 
-# game/Flynn-Thursday.rpy:11007
+# game/Flynn-Thursday.rpy:11013
 translate Schinese UpdateBegin_c1f6d2fd:
 
     # "She's motioning toward me, then Duke."
-    "She's motioning toward me, then Duke."
+    "@@@She's motioning toward me, then Duke."
 
-# game/Flynn-Thursday.rpy:11008
+# game/Flynn-Thursday.rpy:11014
 translate Schinese UpdateBegin_c187d409:
 
     # "What does she want me to do? Disarm him?"
-    "What does she want me to do? Disarm him?"
+    "@@@What does she want me to do? Disarm him?"
 
-# game/Flynn-Thursday.rpy:11009
+# game/Flynn-Thursday.rpy:11015
 translate Schinese UpdateBegin_af790967:
 
     # "One quick chop of the wrist. That'd do it, I guess."
-    "One quick chop of the wrist. That'd do it, I guess."
+    "@@@One quick chop of the wrist. That'd do it, I guess."
 
-# game/Flynn-Thursday.rpy:11010
+# game/Flynn-Thursday.rpy:11016
 translate Schinese UpdateBegin_f5ef966a:
 
     # "I'd have to drop my repeater though."
-    "I'd have to drop my repeater though."
+    "@@@I'd have to drop my repeater though."
 
-# game/Flynn-Thursday.rpy:11011
+# game/Flynn-Thursday.rpy:11017
 translate Schinese UpdateBegin_88a2f765:
 
     # "I don't really wanna risk that, at least not yet."
-    "I don't really wanna risk that, at least not yet."
+    "@@@I don't really wanna risk that, at least not yet."
 
-# game/Flynn-Thursday.rpy:11012
+# game/Flynn-Thursday.rpy:11018
 translate Schinese UpdateBegin_92343152:
 
     # "Surprisingly, Chase speaks up."
-    "Surprisingly, Chase speaks up."
+    "@@@Surprisingly, Chase speaks up."
 
-# game/Flynn-Thursday.rpy:11013
+# game/Flynn-Thursday.rpy:11019
 translate Schinese UpdateBegin_6ccda299:
 
     # m "\"What's it say?\""
-    m "\"What's it say?\""
+    m "@@@\"What's it say?\""
 
-# game/Flynn-Thursday.rpy:11014
+# game/Flynn-Thursday.rpy:11020
 translate Schinese UpdateBegin_2f83a083:
 
     # ma "\"Boy, I think you know what it says. You were rooting through our stuff and plucking all these records Thursday.\""
-    ma "\"Boy, I think you know what it says. You were rooting through our stuff and plucking all these records Thursday.\""
+    ma "@@@\"Boy, I think you know what it says. You were rooting through our stuff and plucking all these records Thursday.\""
 
-# game/Flynn-Thursday.rpy:11015
+# game/Flynn-Thursday.rpy:11021
 translate Schinese UpdateBegin_6fa27a6e:
 
     # ma "\"James Hendricks' Notice of Death.\""
-    ma "\"James Hendricks' Notice of Death.\""
+    ma "@@@\"James Hendricks' Notice of Death.\""
 
-# game/Flynn-Thursday.rpy:11016
+# game/Flynn-Thursday.rpy:11022
 translate Schinese UpdateBegin_927afd37:
 
     # "Carl visibly stiffens."
-    "Carl visibly stiffens."
+    "@@@Carl visibly stiffens."
 
-# game/Flynn-Thursday.rpy:11017
+# game/Flynn-Thursday.rpy:11023
 translate Schinese UpdateBegin_51b40429:
 
     # ma "\"Guess what killed 'im? Spiders.\""
-    ma "\"Guess what killed 'im? Spiders.\""
+    ma "@@@\"Guess what killed 'im? Spiders.\""
 
-# game/Flynn-Thursday.rpy:11018
+# game/Flynn-Thursday.rpy:11024
 translate Schinese UpdateBegin_549abf35:
 
     # "I step up, squinting at the paper."
-    "I step up, squinting at the paper."
+    "@@@I step up, squinting at the paper."
 
-# game/Flynn-Thursday.rpy:11019
+# game/Flynn-Thursday.rpy:11025
 translate Schinese UpdateBegin_504f499f:
 
     # "It's a notice of death, alright, for reference in an estate transfer."
-    "It's a notice of death, alright, for reference in an estate transfer."
+    "@@@It's a notice of death, alright, for reference in an estate transfer."
 
-# game/Flynn-Thursday.rpy:11020
+# game/Flynn-Thursday.rpy:11026
 translate Schinese UpdateBegin_8e660c93:
 
     # "It's for a \"James Hendricks\", who passed away in 1913."
-    "It's for a \"James Hendricks\", who passed away in 1913."
+    "@@@It's for a \"James Hendricks\", who passed away in 1913."
 
-# game/Flynn-Thursday.rpy:11021
+# game/Flynn-Thursday.rpy:11027
 translate Schinese UpdateBegin_1a9433f1:
 
     # "The cause of death is listed as \"poison/infection (theraphosidae - tarantula)\"."
-    "The cause of death is listed as \"poison/infection (theraphosidae - tarantula)\"."
+    "@@@The cause of death is listed as \"poison/infection (theraphosidae - tarantula)\"."
 
-# game/Flynn-Thursday.rpy:11022
+# game/Flynn-Thursday.rpy:11028
 translate Schinese UpdateBegin_a27f317e:
 
     # f "\"Tarantula.\""
-    f "\"Tarantula.\""
+    f "@@@\"Tarantula.\""
 
-# game/Flynn-Thursday.rpy:11023
+# game/Flynn-Thursday.rpy:11029
 translate Schinese UpdateBegin_d058e89f:
 
     # "Chase shifts uncomfortably."
-    "Chase shifts uncomfortably."
+    "@@@Chase shifts uncomfortably."
 
-# game/Flynn-Thursday.rpy:11024
+# game/Flynn-Thursday.rpy:11030
 translate Schinese UpdateBegin_c153612e:
 
     # f "\"Chase's ass got planted on some Black Widows.\""
-    f "\"Chase's ass got planted on some Black Widows.\""
+    f "@@@\"Chase's ass got planted on some Black Widows.\""
 
-# game/Flynn-Thursday.rpy:11025
+# game/Flynn-Thursday.rpy:11031
 translate Schinese UpdateBegin_3faf7681:
 
     # f "\"And what does Carl's old great-whatever have to do with this?\""
-    f "\"And what does Carl's old great-whatever have to do with this?\""
+    f "@@@\"And what does Carl's old great-whatever have to do with this?\""
 
-# game/Flynn-Thursday.rpy:11026
+# game/Flynn-Thursday.rpy:11032
 translate Schinese UpdateBegin_6dad7326:
 
     # ma "\"James Hendricks, the first, was a notorious sodomite - like Chase.\""
-    ma "\"James Hendricks, the first, was a notorious sodomite - like Chase.\""
+    ma "@@@\"James Hendricks, the first, was a notorious sodomite - like Chase.\""
 
-# game/Flynn-Thursday.rpy:11027
+# game/Flynn-Thursday.rpy:11033
 translate Schinese UpdateBegin_3f739ce1_3:
 
     # "I sigh."
-    "I sigh."
+    "@@@I sigh."
 
-# game/Flynn-Thursday.rpy:11028
+# game/Flynn-Thursday.rpy:11034
 translate Schinese UpdateBegin_2aa0ff41_2:
 
     # f "\"What?\""
-    f "\"What?\""
+    f "@@@\"What?\""
 
-# game/Flynn-Thursday.rpy:11029
+# game/Flynn-Thursday.rpy:11035
 translate Schinese UpdateBegin_762a8bae:
 
     # du "\"You say he was looking at this the other day?\""
-    du "\"You say he was looking at this the other day?\""
+    du "@@@\"You say he was looking at this the other day?\""
 
-# game/Flynn-Thursday.rpy:11030
+# game/Flynn-Thursday.rpy:11036
 translate Schinese UpdateBegin_ec81ce62:
 
     # f "\"He's workin' on a school project. Hell, that's why he's here.\""
-    f "\"He's workin' on a school project. Hell, that's why he's here.\""
+    f "@@@\"He's workin' on a school project. Hell, that's why he's here.\""
 
-# game/Flynn-Thursday.rpy:11031
+# game/Flynn-Thursday.rpy:11037
 translate Schinese UpdateBegin_7057c2f9:
 
     # "So he claimed.."
-    "So he claimed.."
+    "@@@So he claimed.."
 
-# game/Flynn-Thursday.rpy:11032
+# game/Flynn-Thursday.rpy:11038
 translate Schinese UpdateBegin_d65163e1:
 
     # ma "\"Ya sure about that?\""
-    ma "\"Ya sure about that?\""
+    ma "@@@\"Ya sure about that?\""
 
-# game/Flynn-Thursday.rpy:11033
+# game/Flynn-Thursday.rpy:11039
 translate Schinese UpdateBegin_7aa1b3f4:
 
     # "Auntie seems to pry at my own niggling doubt."
-    "Auntie seems to pry at my own niggling doubt."
+    "@@@Auntie seems to pry at my own niggling doubt."
 
-# game/Flynn-Thursday.rpy:11034
+# game/Flynn-Thursday.rpy:11040
 translate Schinese UpdateBegin_5b0523fa:
 
     # "I look back at the pathetic looking otter."
-    "I look back at the pathetic looking otter."
+    "@@@I look back at the pathetic looking otter."
 
-# game/Flynn-Thursday.rpy:11035
+# game/Flynn-Thursday.rpy:11041
 translate Schinese UpdateBegin_0ecff436:
 
     # "He looks to me."
-    "He looks to me."
+    "@@@He looks to me."
 
-# game/Flynn-Thursday.rpy:11038
+# game/Flynn-Thursday.rpy:11044
 translate Schinese UpdateBegin_6b7ff527:
 
     # "And then Dax steps up."
-    "And then Dax steps up."
+    "@@@And then Dax steps up."
 
-# game/Flynn-Thursday.rpy:11039
+# game/Flynn-Thursday.rpy:11045
 translate Schinese UpdateBegin_4fcea323:
 
     # da "\"Hey, uh...\""
-    da "\"Hey, uh...\""
+    da "@@@\"Hey, uh...\""
 
-# game/Flynn-Thursday.rpy:11040
+# game/Flynn-Thursday.rpy:11046
 translate Schinese UpdateBegin_67acf96f:
 
     # "He stops just short of the body on the ground."
-    "He stops just short of the body on the ground."
+    "@@@He stops just short of the body on the ground."
 
-# game/Flynn-Thursday.rpy:11041
+# game/Flynn-Thursday.rpy:11047
 translate Schinese UpdateBegin_d41bc058:
 
     # "Daxton straightens his posture, folding his hands behind his back."
-    "Daxton straightens his posture, folding his hands behind his back."
+    "@@@Daxton straightens his posture, folding his hands behind his back."
 
-# game/Flynn-Thursday.rpy:11042
+# game/Flynn-Thursday.rpy:11048
 translate Schinese UpdateBegin_b9ce61e5:
 
     # da "\"Mister Duke, I-I think you're making a lot of really interesting headway into how we can solve all this.\""
-    da "\"Mister Duke, I-I think you're making a lot of really interesting headway into how we can solve all this.\""
+    da "@@@\"Mister Duke, I-I think you're making a lot of really interesting headway into how we can solve all this.\""
 
-# game/Flynn-Thursday.rpy:11043
+# game/Flynn-Thursday.rpy:11049
 translate Schinese UpdateBegin_26573e7b:
 
     # da "\"Ya know, much better than just.. hiding out in our houses from rampant chaos and the like.\""
-    da "\"Ya know, much better than just.. hiding out in our houses from rampant chaos and the like.\""
+    da "@@@\"Ya know, much better than just.. hiding out in our houses from rampant chaos and the like.\""
 
-# game/Flynn-Thursday.rpy:11044
+# game/Flynn-Thursday.rpy:11050
 translate Schinese UpdateBegin_09a60b28:
 
     # da "\"But, uh.. Salem, here..\""
-    da "\"But, uh.. Salem, here..\""
+    da "@@@\"But, uh.. Salem, here..\""
 
-# game/Flynn-Thursday.rpy:11045
+# game/Flynn-Thursday.rpy:11051
 translate Schinese UpdateBegin_7cc579bf:
 
     # "He uneasily gestures toward the corpse on the towel, the boar's hollow eye sockets still staring at the stars above."
-    "He uneasily gestures toward the corpse on the towel, the boar's hollow eye sockets still staring at the stars above."
+    "@@@He uneasily gestures toward the corpse on the towel, the boar's hollow eye sockets still staring at the stars above."
 
-# game/Flynn-Thursday.rpy:11046
+# game/Flynn-Thursday.rpy:11052
 translate Schinese UpdateBegin_2a427b09:
 
     # da "\"..whatever got him, I think stoppin'-slash-avoidin' that should be priority number one.\""
-    da "\"..whatever got him, I think stoppin'-slash-avoidin' that should be priority number one.\""
+    da "@@@\"..whatever got him, I think stoppin'-slash-avoidin' that should be priority number one.\""
 
-# game/Flynn-Thursday.rpy:11047
+# game/Flynn-Thursday.rpy:11053
 translate Schinese UpdateBegin_94ad2ee7:
 
     # da "\"Cause, I mean I've only known Chase 'bout half-a-week, but he doesn't seem like the sort to be capable of all this.\""
-    da "\"Cause, I mean I've only known Chase 'bout half-a-week, but he doesn't seem like the sort to be capable of all this.\""
+    da "@@@\"Cause, I mean I've only known Chase 'bout half-a-week, but he doesn't seem like the sort to be capable of all this.\""
 
-# game/Flynn-Thursday.rpy:11048
+# game/Flynn-Thursday.rpy:11054
 translate Schinese UpdateBegin_53ad38a1:
 
     # du "\"Kid, I've known Chase all my life and I'd reckon something similar.\""
-    du "\"Kid, I've known Chase all my life and I'd reckon something similar.\""
+    du "@@@\"Kid, I've known Chase all my life and I'd reckon something similar.\""
 
-# game/Flynn-Thursday.rpy:11049
+# game/Flynn-Thursday.rpy:11055
 translate Schinese UpdateBegin_b71ef961:
 
     # du "\"But at the end of the day, Chase didn't do this. It's what Chase did that did this.\""
-    du "\"But at the end of the day, Chase didn't do this. It's what Chase did that did this.\""
+    du "@@@\"But at the end of the day, Chase didn't do this. It's what Chase did that did this.\""
 
-# game/Flynn-Thursday.rpy:11050
+# game/Flynn-Thursday.rpy:11056
 translate Schinese UpdateBegin_6a9e6c60:
 
     # du "\"This town needs justice. Hell, that little Sydney kid needs justice.\""
-    du "\"This town needs justice. Hell, that little Sydney kid needs justice.\""
+    du "@@@\"This town needs justice. Hell, that little Sydney kid needs justice.\""
 
-# game/Flynn-Thursday.rpy:11051
+# game/Flynn-Thursday.rpy:11057
 translate Schinese UpdateBegin_a56474d0:
 
     # du "\"I'm gonna save all y'all.\""
-    du "\"I'm gonna save all y'all.\""
+    du "@@@\"I'm gonna save all y'all.\""
 
-# game/Flynn-Thursday.rpy:11052
+# game/Flynn-Thursday.rpy:11058
 translate Schinese UpdateBegin_5553b873:
 
     # du "\"And make it so she leaves me alone once and for all.\""
-    du "\"And make it so she leaves me alone once and for all.\""
+    du "@@@\"And make it so she leaves me alone once and for all.\""
 
-# game/Flynn-Thursday.rpy:11053
+# game/Flynn-Thursday.rpy:11059
 translate Schinese UpdateBegin_77678dbe:
 
     # da "\"Who, who leaves you alone?\""
-    da "\"Who, who leaves you alone?\""
+    da "@@@\"Who, who leaves you alone?\""
 
-# game/Flynn-Thursday.rpy:11054
+# game/Flynn-Thursday.rpy:11060
 translate Schinese UpdateBegin_17ca31c2:
 
     # "Duke doesn't respond, instead raising his pistol."
-    "Duke doesn't respond, instead raising his pistol."
+    "@@@Duke doesn't respond, instead raising his pistol."
 
-# game/Flynn-Thursday.rpy:11055
+# game/Flynn-Thursday.rpy:11061
 translate Schinese UpdateBegin_72e1ca0f:
 
     # "I can't tell who he's aiming at, his paw shaky."
-    "I can't tell who he's aiming at, his paw shaky."
+    "@@@I can't tell who he's aiming at, his paw shaky."
 
-# game/Flynn-Thursday.rpy:11056
+# game/Flynn-Thursday.rpy:11062
 translate Schinese UpdateBegin_36dc40e5:
 
     # "I need to do something, Jesus fuck..."
-    "I need to do something, Jesus fuck..."
+    "@@@I need to do something, Jesus fuck..."
 
-# game/Flynn-Thursday.rpy:11057
+# game/Flynn-Thursday.rpy:11063
 translate Schinese UpdateBegin_efccfaf5:
 
     # "I..."
-    "I..."
+    "@@@I..."
 
-# game/Flynn-Thursday.rpy:11065
+# game/Flynn-Thursday.rpy:11071
 translate Schinese UpdateBegin_50bd8ede:
 
     # "I stand there, and I can see Jenna beside the van looking at me pleadingly."
-    "I stand there, and I can see Jenna beside the van looking at me pleadingly."
+    "@@@I stand there, and I can see Jenna beside the van looking at me pleadingly."
 
-# game/Flynn-Thursday.rpy:11069
+# game/Flynn-Thursday.rpy:11075
 translate Schinese UpdateBegin_50bd8ede_1:
 
     # "I stand there, and I can see Jenna beside the van looking at me pleadingly."
-    "I stand there, and I can see Jenna beside the van looking at me pleadingly."
+    "@@@I stand there, and I can see Jenna beside the van looking at me pleadingly."
 
-# game/Flynn-Thursday.rpy:11073
+# game/Flynn-Thursday.rpy:11079
 translate Schinese UpdateBegin_50bd8ede_2:
 
     # "I stand there, and I can see Jenna beside the van looking at me pleadingly."
-    "I stand there, and I can see Jenna beside the van looking at me pleadingly."
+    "@@@I stand there, and I can see Jenna beside the van looking at me pleadingly."
 
-# game/Flynn-Thursday.rpy:11075
+# game/Flynn-Thursday.rpy:11081
 translate Schinese UpdateBegin_f3dfe306:
 
     # "Auntie's peering at me now, a strange look on her face."
-    "Auntie's peering at me now, a strange look on her face."
+    "@@@Auntie's peering at me now, a strange look on her face."
 
-# game/Flynn-Thursday.rpy:11076
+# game/Flynn-Thursday.rpy:11082
 translate Schinese UpdateBegin_661ada33:
 
     # "This isn't right.. I should do something."
-    "This isn't right.. I should do something."
+    "@@@This isn't right.. I should do something."
 
-# game/Flynn-Thursday.rpy:11077
+# game/Flynn-Thursday.rpy:11083
 translate Schinese UpdateBegin_b09e2ebe:
 
     # "My head is killing me, something's wrong."
-    "My head is killing me, something's wrong."
+    "@@@My head is killing me, something's wrong."
 
-# game/Flynn-Thursday.rpy:11078
+# game/Flynn-Thursday.rpy:11084
 translate Schinese UpdateBegin_6f3ae25b:
 
     # "And at the worst possible fucking time."
-    "And at the worst possible fucking time."
+    "@@@And at the worst possible fucking time."
 
-# game/Flynn-Thursday.rpy:11079
+# game/Flynn-Thursday.rpy:11085
 translate Schinese UpdateBegin_21e9141e:
 
     # "I grit my teeth, concentrating on what's really happening."
-    "I grit my teeth, concentrating on what's really happening."
+    "@@@I grit my teeth, concentrating on what's really happening."
 
-# game/Flynn-Thursday.rpy:11080
+# game/Flynn-Thursday.rpy:11086
 translate Schinese UpdateBegin_a1f6deff:
 
     # "Duke says something I can't quite make out and Daxton stammers back a retort."
-    "Duke says something I can't quite make out and Daxton stammers back a retort."
+    "@@@Duke says something I can't quite make out and Daxton stammers back a retort."
 
-# game/Flynn-Thursday.rpy:11081
+# game/Flynn-Thursday.rpy:11087
 translate Schinese UpdateBegin_6ca368db:
 
     # da "\"I-I've had visions of Chase too, but nothing that points toward that as a conclusion!\""
-    da "\"I-I've had visions of Chase too, but nothing that points toward that as a conclusion!\""
+    da "@@@\"I-I've had visions of Chase too, but nothing that points toward that as a conclusion!\""
 
-# game/Flynn-Thursday.rpy:11082
+# game/Flynn-Thursday.rpy:11088
 translate Schinese UpdateBegin_b1804813:
 
     # "Leo slides Chase behind him, the wolf's ears pinned to the side of his head."
-    "Leo slides Chase behind him, the wolf's ears pinned to the side of his head."
+    "@@@Leo slides Chase behind him, the wolf's ears pinned to the side of his head."
 
-# game/Flynn-Thursday.rpy:11088
+# game/Flynn-Thursday.rpy:11094
 translate Schinese UpdateBegin_bd0c2156:
 
     # "Despite the throbbing pain, I manage to pull up my gun and aim it at Duke."
-    "Despite the throbbing pain, I manage to pull up my gun and aim it at Duke."
+    "@@@Despite the throbbing pain, I manage to pull up my gun and aim it at Duke."
 
-# game/Flynn-Thursday.rpy:11090
+# game/Flynn-Thursday.rpy:11096
 translate Schinese UpdateBegin_749b1e7d:
 
     # f "\"Drop it, fucker.\""
-    f "\"Drop it, fucker.\""
+    f "@@@\"Drop it, fucker.\""
 
-# game/Flynn-Thursday.rpy:11091
+# game/Flynn-Thursday.rpy:11097
 translate Schinese UpdateBegin_f0ddb0fd:
 
     # ma "\"Flynn!\""
-    ma "\"Flynn!\""
+    ma "@@@\"Flynn!\""
 
-# game/Flynn-Thursday.rpy:11092
+# game/Flynn-Thursday.rpy:11098
 translate Schinese UpdateBegin_7d99210b:
 
     # unk "\"Let him die!\""
-    unk "\"Let him die!\""
+    unk "@@@\"Let him die!\""
 
-# game/Flynn-Thursday.rpy:11093
+# game/Flynn-Thursday.rpy:11099
 translate Schinese UpdateBegin_137220ed:
 
     # "Someone in the crowd yells."
-    "Someone in the crowd yells."
+    "@@@Someone in the crowd yells."
 
-# game/Flynn-Thursday.rpy:11094
+# game/Flynn-Thursday.rpy:11100
 translate Schinese UpdateBegin_34ca8706:
 
     # f "\"Fuck you!\""
-    f "\"Fuck you!\""
+    f "@@@\"Fuck you!\""
 
-# game/Flynn-Thursday.rpy:11095
+# game/Flynn-Thursday.rpy:11101
 translate Schinese UpdateBegin_bce927a8:
 
     # du "\"I ain't gonna kill him, Flynn. He just needs to stay put.\""
-    du "\"I ain't gonna kill him, Flynn. He just needs to stay put.\""
+    du "@@@\"I ain't gonna kill him, Flynn. He just needs to stay put.\""
 
-# game/Flynn-Thursday.rpy:11096
+# game/Flynn-Thursday.rpy:11102
 translate Schinese UpdateBegin_99d223ee:
 
     # du "\"If the spider bites get 'im, then that's fate.\""
-    du "\"If the spider bites get 'im, then that's fate.\""
+    du "@@@\"If the spider bites get 'im, then that's fate.\""
 
-# game/Flynn-Thursday.rpy:11097
+# game/Flynn-Thursday.rpy:11103
 translate Schinese UpdateBegin_59be7b82:
 
     # f "\"And if he doesn't stay put?\""
-    f "\"And if he doesn't stay put?\""
+    f "@@@\"And if he doesn't stay put?\""
 
-# game/Flynn-Thursday.rpy:11098
+# game/Flynn-Thursday.rpy:11104
 translate Schinese UpdateBegin_bc54c186:
 
     # du "\"I'll make 'im stay put.\""
-    du "\"I'll make 'im stay put.\""
+    du "@@@\"I'll make 'im stay put.\""
 
-# game/Flynn-Thursday.rpy:11099
+# game/Flynn-Thursday.rpy:11105
 translate Schinese UpdateBegin_b8ec8841:
 
     # f "\"The fuck you will, put the gun down!\""
-    f "\"The fuck you will, put the gun down!\""
+    f "@@@\"The fuck you will, put the gun down!\""
 
-# game/Flynn-Thursday.rpy:11100
+# game/Flynn-Thursday.rpy:11106
 translate Schinese UpdateBegin_27ffd370:
 
     # "Duke just stares ahead at the otter, pistol still raised."
-    "Duke just stares ahead at the otter, pistol still raised."
+    "@@@Duke just stares ahead at the otter, pistol still raised."
 
-# game/Flynn-Thursday.rpy:11101
+# game/Flynn-Thursday.rpy:11107
 translate Schinese UpdateBegin_22f8cde9:
 
     # "Daxton holds up his hands, ultimately stepping to the side and out of the line of fire."
-    "Daxton holds up his hands, ultimately stepping to the side and out of the line of fire."
+    "@@@Daxton holds up his hands, ultimately stepping to the side and out of the line of fire."
 
-# game/Flynn-Thursday.rpy:11102
+# game/Flynn-Thursday.rpy:11108
 translate Schinese UpdateBegin_89fa95e6:
 
     # da "\"You don't need to do th-\""
-    da "\"You don't need to do th-\""
+    da "@@@\"You don't need to do th-\""
 
-# game/Flynn-Thursday.rpy:11103
+# game/Flynn-Thursday.rpy:11109
 translate Schinese UpdateBegin_d27e9c99:
 
     # f "\"I SAID DROP IT!\""
-    f "\"I SAID DROP IT!\""
+    f "@@@\"I SAID DROP IT!\""
 
-# game/Flynn-Thursday.rpy:11104
+# game/Flynn-Thursday.rpy:11110
 translate Schinese UpdateBegin_5dea9d91:
 
     # f "\"WHY WON'T YOU FUCKING LISTEN TO ME!?\""
-    f "\"WHY WON'T YOU FUCKING LISTEN TO ME!?\""
+    f "@@@\"WHY WON'T YOU FUCKING LISTEN TO ME!?\""
 
-# game/Flynn-Thursday.rpy:11105
+# game/Flynn-Thursday.rpy:11111
 translate Schinese UpdateBegin_9863304e:
 
     # "Duke says nothing."
-    "Duke says nothing."
+    "@@@Duke says nothing."
 
-# game/Flynn-Thursday.rpy:11106
+# game/Flynn-Thursday.rpy:11112
 translate Schinese UpdateBegin_8d0d8f6c:
 
     # f "\"DO IT!\""
-    f "\"DO IT!\""
+    f "@@@\"DO IT!\""
 
-# game/Flynn-Thursday.rpy:11107
+# game/Flynn-Thursday.rpy:11113
 translate Schinese UpdateBegin_f3d0aaf6:
 
     # "I see the weasel exhale, traces of cigarette smoke leaving his nostrils and dissipating into the hazy air."
-    "I see the weasel exhale, traces of cigarette smoke leaving his nostrils and dissipating into the hazy air."
+    "@@@I see the weasel exhale, traces of cigarette smoke leaving his nostrils and dissipating into the hazy air."
 
-# game/Flynn-Thursday.rpy:11108
+# game/Flynn-Thursday.rpy:11114
 translate Schinese UpdateBegin_614ab5bb:
 
     # "Slowly, his wrist goes limp, and he lowers his arm to his side."
-    "Slowly, his wrist goes limp, and he lowers his arm to his side."
+    "@@@Slowly, his wrist goes limp, and he lowers his arm to his side."
 
-# game/Flynn-Thursday.rpy:11116
+# game/Flynn-Thursday.rpy:11122
 translate Schinese UpdateBegin_6a1dc291:
 
     # "I step over and knock the gun out of paw."
-    "I step over and knock the gun out of paw."
+    "@@@I step over and knock the gun out of paw."
 
-# game/Flynn-Thursday.rpy:11121
+# game/Flynn-Thursday.rpy:11127
 translate Schinese UpdateBegin_adb742ae:
 
     # "Next thing I know, Leo is sprinting across the parking lot."
-    "Next thing I know, Leo is sprinting across the parking lot."
+    "@@@Next thing I know, Leo is sprinting across the parking lot."
 
-# game/Flynn-Thursday.rpy:11124
+# game/Flynn-Thursday.rpy:11130
 translate Schinese UpdateBegin_aef2bac8:
 
     # "The wolf tackles the weasel to the ground, striking him in the jaw with a free fist."
-    "The wolf tackles the weasel to the ground, striking him in the jaw with a free fist."
+    "@@@The wolf tackles the weasel to the ground, striking him in the jaw with a free fist."
 
-# game/Flynn-Thursday.rpy:11125
+# game/Flynn-Thursday.rpy:11131
 translate Schinese UpdateBegin_1816d26a:
 
     # "Mark and Auntie quickly try to pull him off, and I scamper down to grab Duke's pistol before Leo does."
-    "Mark and Auntie quickly try to pull him off, and I scamper down to grab Duke's pistol before Leo does."
+    "@@@Mark and Auntie quickly try to pull him off, and I scamper down to grab Duke's pistol before Leo does."
 
-# game/Flynn-Thursday.rpy:11126
+# game/Flynn-Thursday.rpy:11132
 translate Schinese UpdateBegin_a0639b77:
 
     # l "\"Let me go! Let me go!\""
-    l "\"Let me go! Let me go!\""
+    l "@@@\"Let me go! Let me go!\""
 
-# game/Flynn-Thursday.rpy:11127
+# game/Flynn-Thursday.rpy:11133
 translate Schinese UpdateBegin_c7764e55:
 
     # f "\"We're leaving, Leo! C'mon.\""
-    f "\"We're leaving, Leo! C'mon.\""
+    f "@@@\"We're leaving, Leo! C'mon.\""
 
-# game/Flynn-Thursday.rpy:11128
+# game/Flynn-Thursday.rpy:11134
 translate Schinese UpdateBegin_536e3504:
 
     # "Duke whinges on the ground, one of his snaggleteeth hanging from his lower lip."
-    "Duke whinges on the ground, one of his snaggleteeth hanging from his lower lip."
+    "@@@Duke whinges on the ground, one of his snaggleteeth hanging from his lower lip."
 
-# game/Flynn-Thursday.rpy:11129
+# game/Flynn-Thursday.rpy:11135
 translate Schinese UpdateBegin_961aa9aa:
 
     # du "\"Ya doomed us, kid! And he's gonna get away with it!\""
-    du "\"Ya doomed us, kid! And he's gonna get away with it!\""
+    du "@@@\"Ya doomed us, kid! And he's gonna get away with it!\""
 
-# game/Flynn-Thursday.rpy:11130
+# game/Flynn-Thursday.rpy:11136
 translate Schinese UpdateBegin_8c9b7c1c:
 
     # "He stretches his mangy arm across the ground, pointing toward Chase."
-    "He stretches his mangy arm across the ground, pointing toward Chase."
+    "@@@He stretches his mangy arm across the ground, pointing toward Chase."
 
-# game/Flynn-Thursday.rpy:11131
+# game/Flynn-Thursday.rpy:11137
 translate Schinese UpdateBegin_b02c71ab:
 
     # "Auntie moves over beside me, resting her hand on my shoulder."
-    "Auntie moves over beside me, resting her hand on my shoulder."
+    "@@@Auntie moves over beside me, resting her hand on my shoulder."
 
-# game/Flynn-Thursday.rpy:11132
+# game/Flynn-Thursday.rpy:11138
 translate Schinese UpdateBegin_0cbe707f:
 
     # ma "\"Flynn, you can't make this decision for everyone.\""
-    ma "\"Flynn, you can't make this decision for everyone.\""
+    ma "@@@\"Flynn, you can't make this decision for everyone.\""
 
-# game/Flynn-Thursday.rpy:11133
+# game/Flynn-Thursday.rpy:11139
 translate Schinese UpdateBegin_c9798c78:
 
     # ma "\"There's something wrong with y-\""
-    ma "\"There's something wrong with y-\""
+    ma "@@@\"There's something wrong with y-\""
 
-# game/Flynn-Thursday.rpy:11134
+# game/Flynn-Thursday.rpy:11140
 translate Schinese UpdateBegin_1f54ea82:
 
     # f "\"I can't believe you entertained this fucking methhead's proposal.\""
-    f "\"I can't believe you entertained this fucking methhead's proposal.\""
+    f "@@@\"I can't believe you entertained this fucking methhead's proposal.\""
 
-# game/Flynn-Thursday.rpy:11135
+# game/Flynn-Thursday.rpy:11141
 translate Schinese UpdateBegin_4ce268ca:
 
     # f "\"I used to think you were a good person, y'know? But fuck that, witch trials it is.\""
-    f "\"I used to think you were a good person, y'know? But fuck that, witch trials it is.\""
+    f "@@@\"I used to think you were a good person, y'know? But fuck that, witch trials it is.\""
 
-# game/Flynn-Thursday.rpy:11136
+# game/Flynn-Thursday.rpy:11142
 translate Schinese UpdateBegin_99a34b1b:
 
     # "I spit on the ground."
-    "I spit on the ground."
+    "@@@I spit on the ground."
 
-# game/Flynn-Thursday.rpy:11137
+# game/Flynn-Thursday.rpy:11143
 translate Schinese UpdateBegin_fc950321:
 
     # "Auntie lowers her hand and begins to fidget with her scarf, her gaze shifting downcast."
-    "Auntie lowers her hand and begins to fidget with her scarf, her gaze shifting downcast."
+    "@@@Auntie lowers her hand and begins to fidget with her scarf, her gaze shifting downcast."
 
-# game/Flynn-Thursday.rpy:11138
+# game/Flynn-Thursday.rpy:11144
 translate Schinese UpdateBegin_e83a1a35:
 
     # ma "\"Used to think us Moores were immune to all this sordid business.\""
-    ma "\"Used to think us Moores were immune to all this sordid business.\""
+    ma "@@@\"Used to think us Moores were immune to all this sordid business.\""
 
-# game/Flynn-Thursday.rpy:11139
+# game/Flynn-Thursday.rpy:11145
 translate Schinese UpdateBegin_40ede7a3:
 
     # ma "\"But, I don't think you are. Not anymore.\""
-    ma "\"But, I don't think you are. Not anymore.\""
+    ma "@@@\"But, I don't think you are. Not anymore.\""
 
-# game/Flynn-Thursday.rpy:11140
+# game/Flynn-Thursday.rpy:11146
 translate Schinese UpdateBegin_d76467b8:
 
     # ma "\"Be careful, Flynn.\""
-    ma "\"Be careful, Flynn.\""
+    ma "@@@\"Be careful, Flynn.\""
 
-# game/Flynn-Thursday.rpy:11141
+# game/Flynn-Thursday.rpy:11147
 translate Schinese UpdateBegin_bd4aa5be:
 
     # "She turns, walking back toward Mark, who is busy re-wrapping Salem's body and bringing him inside."
-    "She turns, walking back toward Mark, who is busy re-wrapping Salem's body and bringing him inside."
+    "@@@She turns, walking back toward Mark, who is busy re-wrapping Salem's body and bringing him inside."
 
-# game/Flynn-Thursday.rpy:11142
+# game/Flynn-Thursday.rpy:11148
 translate Schinese UpdateBegin_44065c5a:
 
     # "It's rare to see her look so uneasy. Trying to run a shit town like Echo, ya get a thick skin for shit crumbling around ya, but nothing like this."
-    "It's rare to see her look so uneasy. Trying to run a shit town like Echo, ya get a thick skin for shit crumbling around ya, but nothing like this."
+    "@@@It's rare to see her look so uneasy. Trying to run a shit town like Echo, ya get a thick skin for shit crumbling around ya, but nothing like this."
 
-# game/Flynn-Thursday.rpy:11143
+# game/Flynn-Thursday.rpy:11149
 translate Schinese UpdateBegin_0b4b9e85:
 
     # "Daxton quickly helps Chase into the van, and the rest of the gang follows."
-    "Daxton quickly helps Chase into the van, and the rest of the gang follows."
+    "@@@Daxton quickly helps Chase into the van, and the rest of the gang follows."
 
-# game/Flynn-Thursday.rpy:11144
+# game/Flynn-Thursday.rpy:11150
 translate Schinese UpdateBegin_5a2e126a:
 
     # "I basically have to drag him by the shirt to get him to come with, the wolf snarling and swearing in his native tongue the whole time."
-    "I basically have to drag him by the shirt to get him to come with, the wolf snarling and swearing in his native tongue the whole time."
+    "@@@I basically have to drag him by the shirt to get him to come with, the wolf snarling and swearing in his native tongue the whole time."
 
-# game/Flynn-Thursday.rpy:11153
+# game/Flynn-Thursday.rpy:11159
 translate Schinese UpdateBegin_e43a1468:
 
     # du "\"You're dooming us, kid. And your friend's gonna get away with murder.\""
-    du "\"You're dooming us, kid. And your friend's gonna get away with murder.\""
+    du "@@@\"You're dooming us, kid. And your friend's gonna get away with murder.\""
 
-# game/Flynn-Thursday.rpy:11154
+# game/Flynn-Thursday.rpy:11160
 translate Schinese UpdateBegin_89305812:
 
     # "I scoff."
-    "I scoff."
+    "@@@I scoff."
 
-# game/Flynn-Thursday.rpy:11155
+# game/Flynn-Thursday.rpy:11161
 translate Schinese UpdateBegin_0ab918c9:
 
     # f "\"The fuck he will. Now shutup.\""
-    f "\"The fuck he will. Now shutup.\""
+    f "@@@\"The fuck he will. Now shutup.\""
 
-# game/Flynn-Thursday.rpy:11156
+# game/Flynn-Thursday.rpy:11162
 translate Schinese UpdateBegin_8278419d:
 
     # f "\"We're leaving.\""
-    f "\"We're leaving.\""
+    f "@@@\"We're leaving.\""
 
-# game/Flynn-Thursday.rpy:11157
+# game/Flynn-Thursday.rpy:11163
 translate Schinese UpdateBegin_b02c71ab_1:
 
     # "Auntie moves over beside me, resting her hand on my shoulder."
-    "Auntie moves over beside me, resting her hand on my shoulder."
+    "@@@Auntie moves over beside me, resting her hand on my shoulder."
 
-# game/Flynn-Thursday.rpy:11158
+# game/Flynn-Thursday.rpy:11164
 translate Schinese UpdateBegin_0cbe707f_1:
 
     # ma "\"Flynn, you can't make this decision for everyone.\""
-    ma "\"Flynn, you can't make this decision for everyone.\""
+    ma "@@@\"Flynn, you can't make this decision for everyone.\""
 
-# game/Flynn-Thursday.rpy:11159
+# game/Flynn-Thursday.rpy:11165
 translate Schinese UpdateBegin_c9798c78_1:
 
     # ma "\"There's something wrong with y-\""
-    ma "\"There's something wrong with y-\""
+    ma "@@@\"There's something wrong with y-\""
 
-# game/Flynn-Thursday.rpy:11160
+# game/Flynn-Thursday.rpy:11166
 translate Schinese UpdateBegin_1f54ea82_1:
 
     # f "\"I can't believe you entertained this fucking methhead's proposal.\""
-    f "\"I can't believe you entertained this fucking methhead's proposal.\""
+    f "@@@\"I can't believe you entertained this fucking methhead's proposal.\""
 
-# game/Flynn-Thursday.rpy:11161
+# game/Flynn-Thursday.rpy:11167
 translate Schinese UpdateBegin_4ce268ca_1:
 
     # f "\"I used to think you were a good person, y'know? But fuck that, witch trials it is.\""
-    f "\"I used to think you were a good person, y'know? But fuck that, witch trials it is.\""
+    f "@@@\"I used to think you were a good person, y'know? But fuck that, witch trials it is.\""
 
-# game/Flynn-Thursday.rpy:11162
+# game/Flynn-Thursday.rpy:11168
 translate Schinese UpdateBegin_99a34b1b_1:
 
     # "I spit on the ground."
-    "I spit on the ground."
+    "@@@I spit on the ground."
 
-# game/Flynn-Thursday.rpy:11163
+# game/Flynn-Thursday.rpy:11169
 translate Schinese UpdateBegin_fc950321_1:
 
     # "Auntie lowers her hand and begins to fidget with her scarf, her gaze shifting downcast."
-    "Auntie lowers her hand and begins to fidget with her scarf, her gaze shifting downcast."
+    "@@@Auntie lowers her hand and begins to fidget with her scarf, her gaze shifting downcast."
 
-# game/Flynn-Thursday.rpy:11164
+# game/Flynn-Thursday.rpy:11170
 translate Schinese UpdateBegin_e83a1a35_1:
 
     # ma "\"Used to think us Moores were immune to all this sordid business.\""
-    ma "\"Used to think us Moores were immune to all this sordid business.\""
+    ma "@@@\"Used to think us Moores were immune to all this sordid business.\""
 
-# game/Flynn-Thursday.rpy:11165
+# game/Flynn-Thursday.rpy:11171
 translate Schinese UpdateBegin_40ede7a3_1:
 
     # ma "\"But, I don't think you are. Not anymore.\""
-    ma "\"But, I don't think you are. Not anymore.\""
+    ma "@@@\"But, I don't think you are. Not anymore.\""
 
-# game/Flynn-Thursday.rpy:11166
+# game/Flynn-Thursday.rpy:11172
 translate Schinese UpdateBegin_d76467b8_1:
 
     # ma "\"Be careful, Flynn.\""
-    ma "\"Be careful, Flynn.\""
+    ma "@@@\"Be careful, Flynn.\""
 
-# game/Flynn-Thursday.rpy:11167
+# game/Flynn-Thursday.rpy:11173
 translate Schinese UpdateBegin_bd4aa5be_1:
 
     # "She turns, walking back toward Mark, who is busy re-wrapping Salem's body and bringing him inside."
-    "She turns, walking back toward Mark, who is busy re-wrapping Salem's body and bringing him inside."
+    "@@@She turns, walking back toward Mark, who is busy re-wrapping Salem's body and bringing him inside."
 
-# game/Flynn-Thursday.rpy:11168
+# game/Flynn-Thursday.rpy:11174
 translate Schinese UpdateBegin_44065c5a_1:
 
     # "It's rare to see her look so uneasy. Trying to run a shit town like Echo, ya get a thick skin for shit crumbling around ya, but nothing like this."
-    "It's rare to see her look so uneasy. Trying to run a shit town like Echo, ya get a thick skin for shit crumbling around ya, but nothing like this."
+    "@@@It's rare to see her look so uneasy. Trying to run a shit town like Echo, ya get a thick skin for shit crumbling around ya, but nothing like this."
 
-# game/Flynn-Thursday.rpy:11169
+# game/Flynn-Thursday.rpy:11175
 translate Schinese UpdateBegin_46256da1:
 
     # "Leo quickly helps Chase into the van, and the rest of the gang follows."
-    "Leo quickly helps Chase into the van, and the rest of the gang follows."
+    "@@@Leo quickly helps Chase into the van, and the rest of the gang follows."
 
-# game/Flynn-Thursday.rpy:11174
+# game/Flynn-Thursday.rpy:11180
 translate Schinese UpdateBegin_36b030d8:
 
     # "Syd's dad flashes in my mind."
-    "Syd's dad flashes in my mind."
+    "@@@Syd's dad flashes in my mind."
 
-# game/Flynn-Thursday.rpy:11176
+# game/Flynn-Thursday.rpy:11182
 translate Schinese UpdateBegin_3963dfdd:
 
     # "The hole in his head, the look in his eyes..."
-    "The hole in his head, the look in his eyes..."
+    "@@@The hole in his head, the look in his eyes..."
 
-# game/Flynn-Thursday.rpy:11177
+# game/Flynn-Thursday.rpy:11183
 translate Schinese UpdateBegin_5d39f36a:
 
     # "I keep my rifle clutched across my chest, pointed downward."
-    "I keep my rifle clutched across my chest, pointed downward."
+    "@@@I keep my rifle clutched across my chest, pointed downward."
 
-# game/Flynn-Thursday.rpy:11178
+# game/Flynn-Thursday.rpy:11184
 translate Schinese UpdateBegin_847599c0:
 
     # f "\"Dax..\""
-    f "\"Dax..\""
+    f "@@@\"Dax..\""
 
-# game/Flynn-Thursday.rpy:11179
+# game/Flynn-Thursday.rpy:11185
 translate Schinese UpdateBegin_2f763e94:
 
     # da "\"Er, yeah?\""
-    da "\"Er, yeah?\""
+    da "@@@\"Er, yeah?\""
 
-# game/Flynn-Thursday.rpy:11180
+# game/Flynn-Thursday.rpy:11186
 translate Schinese UpdateBegin_00e80fd1:
 
     # "He's staring wide-eyed at the gun in Duke's grasp, his blue hands in the air."
-    "He's staring wide-eyed at the gun in Duke's grasp, his blue hands in the air."
+    "@@@He's staring wide-eyed at the gun in Duke's grasp, his blue hands in the air."
 
-# game/Flynn-Thursday.rpy:11181
+# game/Flynn-Thursday.rpy:11187
 translate Schinese UpdateBegin_1e0f2131:
 
     # f "\"Ya gonna elaborate?\""
-    f "\"Ya gonna elaborate?\""
+    f "@@@\"Ya gonna elaborate?\""
 
-# game/Flynn-Thursday.rpy:11182
+# game/Flynn-Thursday.rpy:11188
 translate Schinese UpdateBegin_07eacc1a:
 
     # da "\"Oh, yeah, um...\""
-    da "\"Oh, yeah, um...\""
+    da "@@@\"Oh, yeah, um...\""
 
-# game/Flynn-Thursday.rpy:11183
+# game/Flynn-Thursday.rpy:11189
 translate Schinese UpdateBegin_ef505884_1:
 
     # da "\"Hi.\""
-    da "\"Hi.\""
+    da "@@@\"Hi.\""
 
-# game/Flynn-Thursday.rpy:11184
+# game/Flynn-Thursday.rpy:11190
 translate Schinese UpdateBegin_4deba0f5:
 
     # "Dax does this sort of awkward wave before slowly lowering his hands."
-    "Dax does this sort of awkward wave before slowly lowering his hands."
+    "@@@Dax does this sort of awkward wave before slowly lowering his hands."
 
-# game/Flynn-Thursday.rpy:11185
+# game/Flynn-Thursday.rpy:11191
 translate Schinese UpdateBegin_9bc622b5:
 
     # "Jesus Christ."
-    "Jesus Christ."
+    "@@@Jesus Christ."
 
-# game/Flynn-Thursday.rpy:11188
+# game/Flynn-Thursday.rpy:11194
 translate Schinese UpdateBegin_2ca8c0c6:
 
     # da "\"I'm sorry, I just.. I don't think this is right.\""
-    da "\"I'm sorry, I just.. I don't think this is right.\""
+    da "@@@\"I'm sorry, I just.. I don't think this is right.\""
 
-# game/Flynn-Thursday.rpy:11189
+# game/Flynn-Thursday.rpy:11195
 translate Schinese UpdateBegin_b4cf3905:
 
     # da "\"Perhaps we can perceive the guilts of others at times, in these sort of.. waking visions.\""
-    da "\"Perhaps we can perceive the guilts of others at times, in these sort of.. waking visions.\""
+    da "@@@\"Perhaps we can perceive the guilts of others at times, in these sort of.. waking visions.\""
 
-# game/Flynn-Thursday.rpy:11190
+# game/Flynn-Thursday.rpy:11196
 translate Schinese UpdateBegin_9e2691db:
 
     # da "\"You mention you see.. 'her'. I-I don't presume to be knowin' who 'her' is, but it also sounds like you've got some baggage, too?\""
-    da "\"You mention you see.. 'her'. I-I don't presume to be knowin' who 'her' is, but it also sounds like you've got some baggage, too?\""
+    da "@@@\"You mention you see.. 'her'. I-I don't presume to be knowin' who 'her' is, but it also sounds like you've got some baggage, too?\""
 
-# game/Flynn-Thursday.rpy:11193
+# game/Flynn-Thursday.rpy:11199
 translate Schinese UpdateBegin_5ce10f14:
 
     # du "\"You're testing me something fierce. Move, kid.\""
-    du "\"You're testing me something fierce. Move, kid.\""
+    du "@@@\"You're testing me something fierce. Move, kid.\""
 
-# game/Flynn-Thursday.rpy:11194
+# game/Flynn-Thursday.rpy:11200
 translate Schinese UpdateBegin_9eb7671d:
 
     # "Daxton flinches, and I gingerly take a few steps closer to the weasel."
-    "Daxton flinches, and I gingerly take a few steps closer to the weasel."
+    "@@@Daxton flinches, and I gingerly take a few steps closer to the weasel."
 
-# game/Flynn-Thursday.rpy:11195
+# game/Flynn-Thursday.rpy:11201
 translate Schinese UpdateBegin_f3ba9f34:
 
     # da "\"We, uh, needn't put all that out in the open with the details.\""
-    da "\"We, uh, needn't put all that out in the open with the details.\""
+    da "@@@\"We, uh, needn't put all that out in the open with the details.\""
 
-# game/Flynn-Thursday.rpy:11196
+# game/Flynn-Thursday.rpy:11202
 translate Schinese UpdateBegin_c5629e48:
 
     # da "\"I'm just sayin': to assume that this is all caused by Chase here is perhaps overstatin' Chase's importance.\""
-    da "\"I'm just sayin': to assume that this is all caused by Chase here is perhaps overstatin' Chase's importance.\""
+    da "@@@\"I'm just sayin': to assume that this is all caused by Chase here is perhaps overstatin' Chase's importance.\""
 
-# game/Flynn-Thursday.rpy:11197
+# game/Flynn-Thursday.rpy:11203
 translate Schinese UpdateBegin_cb4f7051:
 
     # da "\"And.. killing somebody - or even just lettin' them die - might just be fuelin' the madness at hand?\""
-    da "\"And.. killing somebody - or even just lettin' them die - might just be fuelin' the madness at hand?\""
+    da "@@@\"And.. killing somebody - or even just lettin' them die - might just be fuelin' the madness at hand?\""
 
-# game/Flynn-Thursday.rpy:11198
+# game/Flynn-Thursday.rpy:11204
 translate Schinese UpdateBegin_33a8216c:
 
     # da "\"In my 'dreams', the ones with Chase in them, nothing's pointing toward some.. deep, otherworldly call that he needs to perish.\""
-    da "\"In my 'dreams', the ones with Chase in them, nothing's pointing toward some.. deep, otherworldly call that he needs to perish.\""
+    da "@@@\"In my 'dreams', the ones with Chase in them, nothing's pointing toward some.. deep, otherworldly call that he needs to perish.\""
 
-# game/Flynn-Thursday.rpy:11199
+# game/Flynn-Thursday.rpy:11205
 translate Schinese UpdateBegin_94214add:
 
     # da "\"Even you, Miss Mayor, you can see the logic in that.\""
-    da "\"Even you, Miss Mayor, you can see the logic in that.\""
+    da "@@@\"Even you, Miss Mayor, you can see the logic in that.\""
 
-# game/Flynn-Thursday.rpy:11200
+# game/Flynn-Thursday.rpy:11206
 translate Schinese UpdateBegin_dae70071:
 
     # "Auntie stands with her hands on her hips, lips pursed."
-    "Auntie stands with her hands on her hips, lips pursed."
+    "@@@Auntie stands with her hands on her hips, lips pursed."
 
-# game/Flynn-Thursday.rpy:11201
+# game/Flynn-Thursday.rpy:11207
 translate Schinese UpdateBegin_e9745891:
 
     # da "\"And what counters madness? Logic.\""
-    da "\"And what counters madness? Logic.\""
+    da "@@@\"And what counters madness? Logic.\""
 
-# game/Flynn-Thursday.rpy:11202
+# game/Flynn-Thursday.rpy:11208
 translate Schinese UpdateBegin_5a1dcd04:
 
     # "Daxton smiles uneasily."
-    "Daxton smiles uneasily."
+    "@@@Daxton smiles uneasily."
 
-# game/Flynn-Thursday.rpy:11204
+# game/Flynn-Thursday.rpy:11210
 translate Schinese UpdateBegin_a6295c2e:
 
     # du "\"...\""
-    du "\"...\""
+    du "@@@\"...\""
 
-# game/Flynn-Thursday.rpy:11205
+# game/Flynn-Thursday.rpy:11211
 translate Schinese UpdateBegin_bc3806f7:
 
     # unk "\"Shoot 'em both!\""
-    unk "\"Shoot 'em both!\""
+    unk "@@@\"Shoot 'em both!\""
 
-# game/Flynn-Thursday.rpy:11206
+# game/Flynn-Thursday.rpy:11212
 translate Schinese UpdateBegin_137220ed_1:
 
     # "Someone in the crowd yells."
-    "Someone in the crowd yells."
+    "@@@Someone in the crowd yells."
 
-# game/Flynn-Thursday.rpy:11214
+# game/Flynn-Thursday.rpy:11220
 translate Schinese UpdateBegin_c34c99a5:
 
     # "I step over and smack Duke's wrist, the gun falling to the gravel beneath."
-    "I step over and smack Duke's wrist, the gun falling to the gravel beneath."
+    "@@@I step over and smack Duke's wrist, the gun falling to the gravel beneath."
 
-# game/Flynn-Thursday.rpy:11219
+# game/Flynn-Thursday.rpy:11225
 translate Schinese UpdateBegin_a79e1748:
 
     # "Next thing I know, Leo is sprinting across the gravel parking area."
-    "Next thing I know, Leo is sprinting across the gravel parking area."
+    "@@@Next thing I know, Leo is sprinting across the gravel parking area."
 
-# game/Flynn-Thursday.rpy:11222
+# game/Flynn-Thursday.rpy:11228
 translate Schinese UpdateBegin_aef2bac8_1:
 
     # "The wolf tackles the weasel to the ground, striking him in the jaw with a free fist."
-    "The wolf tackles the weasel to the ground, striking him in the jaw with a free fist."
+    "@@@The wolf tackles the weasel to the ground, striking him in the jaw with a free fist."
 
-# game/Flynn-Thursday.rpy:11223
+# game/Flynn-Thursday.rpy:11229
 translate Schinese UpdateBegin_1816d26a_1:
 
     # "Mark and Auntie quickly try to pull him off, and I scamper down to grab Duke's pistol before Leo does."
-    "Mark and Auntie quickly try to pull him off, and I scamper down to grab Duke's pistol before Leo does."
+    "@@@Mark and Auntie quickly try to pull him off, and I scamper down to grab Duke's pistol before Leo does."
 
-# game/Flynn-Thursday.rpy:11224
+# game/Flynn-Thursday.rpy:11230
 translate Schinese UpdateBegin_a0639b77_1:
 
     # l "\"Let me go! Let me go!\""
-    l "\"Let me go! Let me go!\""
+    l "@@@\"Let me go! Let me go!\""
 
-# game/Flynn-Thursday.rpy:11225
+# game/Flynn-Thursday.rpy:11231
 translate Schinese UpdateBegin_c7764e55_1:
 
     # f "\"We're leaving, Leo! C'mon.\""
-    f "\"We're leaving, Leo! C'mon.\""
+    f "@@@\"We're leaving, Leo! C'mon.\""
 
-# game/Flynn-Thursday.rpy:11226
+# game/Flynn-Thursday.rpy:11232
 translate Schinese UpdateBegin_536e3504_1:
 
     # "Duke whinges on the ground, one of his snaggleteeth hanging from his lower lip."
-    "Duke whinges on the ground, one of his snaggleteeth hanging from his lower lip."
+    "@@@Duke whinges on the ground, one of his snaggleteeth hanging from his lower lip."
 
-# game/Flynn-Thursday.rpy:11227
+# game/Flynn-Thursday.rpy:11233
 translate Schinese UpdateBegin_961aa9aa_1:
 
     # du "\"Ya doomed us, kid! And he's gonna get away with it!\""
-    du "\"Ya doomed us, kid! And he's gonna get away with it!\""
+    du "@@@\"Ya doomed us, kid! And he's gonna get away with it!\""
 
-# game/Flynn-Thursday.rpy:11228
+# game/Flynn-Thursday.rpy:11234
 translate Schinese UpdateBegin_8c9b7c1c_1:
 
     # "He stretches his mangy arm across the ground, pointing toward Chase."
-    "He stretches his mangy arm across the ground, pointing toward Chase."
+    "@@@He stretches his mangy arm across the ground, pointing toward Chase."
 
-# game/Flynn-Thursday.rpy:11229
+# game/Flynn-Thursday.rpy:11235
 translate Schinese UpdateBegin_b02c71ab_2:
 
     # "Auntie moves over beside me, resting her hand on my shoulder."
-    "Auntie moves over beside me, resting her hand on my shoulder."
+    "@@@Auntie moves over beside me, resting her hand on my shoulder."
 
-# game/Flynn-Thursday.rpy:11230
+# game/Flynn-Thursday.rpy:11236
 translate Schinese UpdateBegin_0cbe707f_2:
 
     # ma "\"Flynn, you can't make this decision for everyone.\""
-    ma "\"Flynn, you can't make this decision for everyone.\""
+    ma "@@@\"Flynn, you can't make this decision for everyone.\""
 
-# game/Flynn-Thursday.rpy:11231
+# game/Flynn-Thursday.rpy:11237
 translate Schinese UpdateBegin_c9798c78_2:
 
     # ma "\"There's something wrong with y-\""
-    ma "\"There's something wrong with y-\""
+    ma "@@@\"There's something wrong with y-\""
 
-# game/Flynn-Thursday.rpy:11232
+# game/Flynn-Thursday.rpy:11238
 translate Schinese UpdateBegin_1f54ea82_2:
 
     # f "\"I can't believe you entertained this fucking methhead's proposal.\""
-    f "\"I can't believe you entertained this fucking methhead's proposal.\""
+    f "@@@\"I can't believe you entertained this fucking methhead's proposal.\""
 
-# game/Flynn-Thursday.rpy:11233
+# game/Flynn-Thursday.rpy:11239
 translate Schinese UpdateBegin_4ce268ca_2:
 
     # f "\"I used to think you were a good person, y'know? But fuck that, witch trials it is.\""
-    f "\"I used to think you were a good person, y'know? But fuck that, witch trials it is.\""
+    f "@@@\"I used to think you were a good person, y'know? But fuck that, witch trials it is.\""
 
-# game/Flynn-Thursday.rpy:11234
+# game/Flynn-Thursday.rpy:11240
 translate Schinese UpdateBegin_99a34b1b_2:
 
     # "I spit on the ground."
-    "I spit on the ground."
+    "@@@I spit on the ground."
 
-# game/Flynn-Thursday.rpy:11235
+# game/Flynn-Thursday.rpy:11241
 translate Schinese UpdateBegin_fc950321_2:
 
     # "Auntie lowers her hand and begins to fidget with her scarf, her gaze shifting downcast."
-    "Auntie lowers her hand and begins to fidget with her scarf, her gaze shifting downcast."
+    "@@@Auntie lowers her hand and begins to fidget with her scarf, her gaze shifting downcast."
 
-# game/Flynn-Thursday.rpy:11236
+# game/Flynn-Thursday.rpy:11242
 translate Schinese UpdateBegin_e83a1a35_2:
 
     # ma "\"Used to think us Moores were immune to all this sordid business.\""
-    ma "\"Used to think us Moores were immune to all this sordid business.\""
+    ma "@@@\"Used to think us Moores were immune to all this sordid business.\""
 
-# game/Flynn-Thursday.rpy:11237
+# game/Flynn-Thursday.rpy:11243
 translate Schinese UpdateBegin_40ede7a3_2:
 
     # ma "\"But, I don't think you are. Not anymore.\""
-    ma "\"But, I don't think you are. Not anymore.\""
+    ma "@@@\"But, I don't think you are. Not anymore.\""
 
-# game/Flynn-Thursday.rpy:11238
+# game/Flynn-Thursday.rpy:11244
 translate Schinese UpdateBegin_d76467b8_2:
 
     # ma "\"Be careful, Flynn.\""
-    ma "\"Be careful, Flynn.\""
+    ma "@@@\"Be careful, Flynn.\""
 
-# game/Flynn-Thursday.rpy:11239
+# game/Flynn-Thursday.rpy:11245
 translate Schinese UpdateBegin_bd4aa5be_2:
 
     # "She turns, walking back toward Mark, who is busy re-wrapping Salem's body and bringing him inside."
-    "She turns, walking back toward Mark, who is busy re-wrapping Salem's body and bringing him inside."
+    "@@@She turns, walking back toward Mark, who is busy re-wrapping Salem's body and bringing him inside."
 
-# game/Flynn-Thursday.rpy:11240
+# game/Flynn-Thursday.rpy:11246
 translate Schinese UpdateBegin_44065c5a_2:
 
     # "It's rare to see her look so uneasy. Trying to run a shit town like Echo, ya get a thick skin for shit crumbling around ya, but nothing like this."
-    "It's rare to see her look so uneasy. Trying to run a shit town like Echo, ya get a thick skin for shit crumbling around ya, but nothing like this."
+    "@@@It's rare to see her look so uneasy. Trying to run a shit town like Echo, ya get a thick skin for shit crumbling around ya, but nothing like this."
 
-# game/Flynn-Thursday.rpy:11241
+# game/Flynn-Thursday.rpy:11247
 translate Schinese UpdateBegin_0b4b9e85_1:
 
     # "Daxton quickly helps Chase into the van, and the rest of the gang follows."
-    "Daxton quickly helps Chase into the van, and the rest of the gang follows."
+    "@@@Daxton quickly helps Chase into the van, and the rest of the gang follows."
 
-# game/Flynn-Thursday.rpy:11242
+# game/Flynn-Thursday.rpy:11248
 translate Schinese UpdateBegin_5a2e126a_1:
 
     # "I basically have to drag him by the shirt to get him to come with, the wolf snarling and swearing in his native tongue the whole time."
-    "I basically have to drag him by the shirt to get him to come with, the wolf snarling and swearing in his native tongue the whole time."
+    "@@@I basically have to drag him by the shirt to get him to come with, the wolf snarling and swearing in his native tongue the whole time."
 
-# game/Flynn-Thursday.rpy:11249
+# game/Flynn-Thursday.rpy:11255
 translate Schinese UpdateBegin_e43a1468_1:
 
     # du "\"You're dooming us, kid. And your friend's gonna get away with murder.\""
-    du "\"You're dooming us, kid. And your friend's gonna get away with murder.\""
+    du "@@@\"You're dooming us, kid. And your friend's gonna get away with murder.\""
 
-# game/Flynn-Thursday.rpy:11250
+# game/Flynn-Thursday.rpy:11256
 translate Schinese UpdateBegin_89305812_1:
 
     # "I scoff."
-    "I scoff."
+    "@@@I scoff."
 
-# game/Flynn-Thursday.rpy:11251
+# game/Flynn-Thursday.rpy:11257
 translate Schinese UpdateBegin_0ab918c9_1:
 
     # f "\"The fuck he will. Now shutup.\""
-    f "\"The fuck he will. Now shutup.\""
+    f "@@@\"The fuck he will. Now shutup.\""
 
-# game/Flynn-Thursday.rpy:11252
+# game/Flynn-Thursday.rpy:11258
 translate Schinese UpdateBegin_8278419d_1:
 
     # f "\"We're leaving.\""
-    f "\"We're leaving.\""
+    f "@@@\"We're leaving.\""
 
-# game/Flynn-Thursday.rpy:11253
+# game/Flynn-Thursday.rpy:11259
 translate Schinese UpdateBegin_d94cd617:
 
     # "Daxton blinks, letting out a relieved sigh."
-    "Daxton blinks, letting out a relieved sigh."
+    "@@@Daxton blinks, letting out a relieved sigh."
 
-# game/Flynn-Thursday.rpy:11254
+# game/Flynn-Thursday.rpy:11260
 translate Schinese UpdateBegin_9cd3d4bd:
 
     # da "\"Thanks, Flynn.\""
-    da "\"Thanks, Flynn.\""
+    da "@@@\"Thanks, Flynn.\""
 
-# game/Flynn-Thursday.rpy:11255
+# game/Flynn-Thursday.rpy:11261
 translate Schinese UpdateBegin_09a8063b:
 
     # "I grunt in response."
-    "I grunt in response."
+    "@@@I grunt in response."
 
-# game/Flynn-Thursday.rpy:11256
+# game/Flynn-Thursday.rpy:11262
 translate Schinese UpdateBegin_b02c71ab_3:
 
     # "Auntie moves over beside me, resting her hand on my shoulder."
-    "Auntie moves over beside me, resting her hand on my shoulder."
+    "@@@Auntie moves over beside me, resting her hand on my shoulder."
 
-# game/Flynn-Thursday.rpy:11257
+# game/Flynn-Thursday.rpy:11263
 translate Schinese UpdateBegin_0cbe707f_3:
 
     # ma "\"Flynn, you can't make this decision for everyone.\""
-    ma "\"Flynn, you can't make this decision for everyone.\""
+    ma "@@@\"Flynn, you can't make this decision for everyone.\""
 
-# game/Flynn-Thursday.rpy:11258
+# game/Flynn-Thursday.rpy:11264
 translate Schinese UpdateBegin_c9798c78_3:
 
     # ma "\"There's something wrong with y-\""
-    ma "\"There's something wrong with y-\""
+    ma "@@@\"There's something wrong with y-\""
 
-# game/Flynn-Thursday.rpy:11259
+# game/Flynn-Thursday.rpy:11265
 translate Schinese UpdateBegin_1f54ea82_3:
 
     # f "\"I can't believe you entertained this fucking methhead's proposal.\""
-    f "\"I can't believe you entertained this fucking methhead's proposal.\""
+    f "@@@\"I can't believe you entertained this fucking methhead's proposal.\""
 
-# game/Flynn-Thursday.rpy:11260
+# game/Flynn-Thursday.rpy:11266
 translate Schinese UpdateBegin_4ce268ca_3:
 
     # f "\"I used to think you were a good person, y'know? But fuck that, witch trials it is.\""
-    f "\"I used to think you were a good person, y'know? But fuck that, witch trials it is.\""
+    f "@@@\"I used to think you were a good person, y'know? But fuck that, witch trials it is.\""
 
-# game/Flynn-Thursday.rpy:11261
+# game/Flynn-Thursday.rpy:11267
 translate Schinese UpdateBegin_99a34b1b_3:
 
     # "I spit on the ground."
-    "I spit on the ground."
+    "@@@I spit on the ground."
 
-# game/Flynn-Thursday.rpy:11262
+# game/Flynn-Thursday.rpy:11268
 translate Schinese UpdateBegin_fc950321_3:
 
     # "Auntie lowers her hand and begins to fidget with her scarf, her gaze shifting downcast."
-    "Auntie lowers her hand and begins to fidget with her scarf, her gaze shifting downcast."
+    "@@@Auntie lowers her hand and begins to fidget with her scarf, her gaze shifting downcast."
 
-# game/Flynn-Thursday.rpy:11263
+# game/Flynn-Thursday.rpy:11269
 translate Schinese UpdateBegin_e83a1a35_3:
 
     # ma "\"Used to think us Moores were immune to all this sordid business.\""
-    ma "\"Used to think us Moores were immune to all this sordid business.\""
+    ma "@@@\"Used to think us Moores were immune to all this sordid business.\""
 
-# game/Flynn-Thursday.rpy:11264
+# game/Flynn-Thursday.rpy:11270
 translate Schinese UpdateBegin_40ede7a3_3:
 
     # ma "\"But, I don't think you are. Not anymore.\""
-    ma "\"But, I don't think you are. Not anymore.\""
+    ma "@@@\"But, I don't think you are. Not anymore.\""
 
-# game/Flynn-Thursday.rpy:11265
+# game/Flynn-Thursday.rpy:11271
 translate Schinese UpdateBegin_d76467b8_3:
 
     # ma "\"Be careful, Flynn.\""
-    ma "\"Be careful, Flynn.\""
+    ma "@@@\"Be careful, Flynn.\""
 
-# game/Flynn-Thursday.rpy:11266
+# game/Flynn-Thursday.rpy:11272
 translate Schinese UpdateBegin_bd4aa5be_3:
 
     # "She turns, walking back toward Mark, who is busy re-wrapping Salem's body and bringing him inside."
-    "She turns, walking back toward Mark, who is busy re-wrapping Salem's body and bringing him inside."
+    "@@@She turns, walking back toward Mark, who is busy re-wrapping Salem's body and bringing him inside."
 
-# game/Flynn-Thursday.rpy:11267
+# game/Flynn-Thursday.rpy:11273
 translate Schinese UpdateBegin_44065c5a_3:
 
     # "It's rare to see her look so uneasy. Trying to run a shit town like Echo, ya get a thick skin for shit crumbling around ya, but nothing like this."
-    "It's rare to see her look so uneasy. Trying to run a shit town like Echo, ya get a thick skin for shit crumbling around ya, but nothing like this."
+    "@@@It's rare to see her look so uneasy. Trying to run a shit town like Echo, ya get a thick skin for shit crumbling around ya, but nothing like this."
 
-# game/Flynn-Thursday.rpy:11268
+# game/Flynn-Thursday.rpy:11274
 translate Schinese UpdateBegin_46256da1_1:
 
     # "Leo quickly helps Chase into the van, and the rest of the gang follows."
-    "Leo quickly helps Chase into the van, and the rest of the gang follows."
+    "@@@Leo quickly helps Chase into the van, and the rest of the gang follows."
 
-# game/Flynn-Thursday.rpy:11291
+# game/Flynn-Thursday.rpy:11297
 translate Schinese flynnsunday_f7ded405:
 
     # "I stare into the rear view mirror, watching for any signs of taillights in our wake."
-    "I stare into the rear view mirror, watching for any signs of taillights in our wake."
+    "@@@I stare into the rear view mirror, watching for any signs of taillights in our wake."
 
-# game/Flynn-Thursday.rpy:11295
+# game/Flynn-Thursday.rpy:11301
 translate Schinese flynnsunday_35d89a88:
 
     # "Leo's driving, of course."
-    "Leo's driving, of course."
+    "@@@Leo's driving, of course."
 
-# game/Flynn-Thursday.rpy:11296
+# game/Flynn-Thursday.rpy:11302
 translate Schinese flynnsunday_3565c842:
 
     # "Carl's feeling woozy after everything that happened."
-    "Carl's feeling woozy after everything that happened."
+    "@@@Carl's feeling woozy after everything that happened."
 
-# game/Flynn-Thursday.rpy:11297
+# game/Flynn-Thursday.rpy:11303
 translate Schinese flynnsunday_bcc51c72:
 
     # "I wish I was sitting in the back with him, but unfortunately, my legs are too long."
-    "I wish I was sitting in the back with him, but unfortunately, my legs are too long."
+    "@@@I wish I was sitting in the back with him, but unfortunately, my legs are too long."
 
-# game/Flynn-Thursday.rpy:11298
+# game/Flynn-Thursday.rpy:11304
 translate Schinese flynnsunday_da4ae261:
 
     # "That, and Leo's van is clearly not designed for folks with thick tails, so I gotta sit with my cheeks straddling the edge to make room."
-    "That, and Leo's van is clearly not designed for folks with thick tails, so I gotta sit with my cheeks straddling the edge to make room."
+    "@@@That, and Leo's van is clearly not designed for folks with thick tails, so I gotta sit with my cheeks straddling the edge to make room."
 
-# game/Flynn-Thursday.rpy:11299
+# game/Flynn-Thursday.rpy:11305
 translate Schinese flynnsunday_067466f7:
 
     # "He's sitting in between Jenna and TJ, with Dax and Chase in the back."
-    "He's sitting in between Jenna and TJ, with Dax and Chase in the back."
+    "@@@He's sitting in between Jenna and TJ, with Dax and Chase in the back."
 
-# game/Flynn-Thursday.rpy:11300
+# game/Flynn-Thursday.rpy:11306
 translate Schinese flynnsunday_81030978:
 
     # "There's been some chatter about what happened, and what's bullshit and not bullshit."
-    "There's been some chatter about what happened, and what's bullshit and not bullshit."
+    "@@@There's been some chatter about what happened, and what's bullshit and not bullshit."
 
-# game/Flynn-Thursday.rpy:11301
+# game/Flynn-Thursday.rpy:11307
 translate Schinese flynnsunday_e7aa5fdb:
 
     # "TJ is the only one who's been quiet."
-    "TJ is the only one who's been quiet."
+    "@@@TJ is the only one who's been quiet."
 
-# game/Flynn-Thursday.rpy:11302
+# game/Flynn-Thursday.rpy:11308
 translate Schinese flynnsunday_b9891476:
 
     # "Though one thing is for certain: with everything that's happened, everyone seems pretty focused on getting out of town."
-    "Though one thing is for certain: with everything that's happened, everyone seems pretty focused on getting out of town."
+    "@@@Though one thing is for certain: with everything that's happened, everyone seems pretty focused on getting out of town."
 
-# game/Flynn-Thursday.rpy:11304
+# game/Flynn-Thursday.rpy:11310
 translate Schinese flynnsunday_a39b44a3:
 
     # "Leo doesn't floor it like I expected him to, but we move down the bench of the mountain and through the town speedily enough."
-    "Leo doesn't floor it like I expected him to, but we move down the bench of the mountain and through the town speedily enough."
+    "@@@Leo doesn't floor it like I expected him to, but we move down the bench of the mountain and through the town speedily enough."
 
-# game/Flynn-Thursday.rpy:11305
+# game/Flynn-Thursday.rpy:11311
 translate Schinese flynnsunday_a9b56a4f:
 
     # "I see Jenna look out her own window intently, and I can only imagine it's to see if she can spot Jeremy, maybe even her mother."
-    "I see Jenna look out her own window intently, and I can only imagine it's to see if she can spot Jeremy, maybe even her mother."
+    "@@@I see Jenna look out her own window intently, and I can only imagine it's to see if she can spot Jeremy, maybe even her mother."
 
-# game/Flynn-Thursday.rpy:11306
+# game/Flynn-Thursday.rpy:11312
 translate Schinese flynnsunday_b83c015c:
 
     # c "\"Dude, I don't feel good.\""
-    c "\"Dude, I don't feel good.\""
+    c "@@@\"Dude, I don't feel good.\""
 
-# game/Flynn-Thursday.rpy:11307
+# game/Flynn-Thursday.rpy:11313
 translate Schinese flynnsunday_b31ce7f1:
 
     # l "\"Chase got bit by a Black Widow and he's been complaining less than you, Carl.\""
-    l "\"Chase got bit by a Black Widow and he's been complaining less than you, Carl.\""
+    l "@@@\"Chase got bit by a Black Widow and he's been complaining less than you, Carl.\""
 
-# game/Flynn-Thursday.rpy:11308
+# game/Flynn-Thursday.rpy:11314
 translate Schinese flynnsunday_2be67f5c:
 
     # l "\"Speaking of, how are you holding up, Otter?\""
-    l "\"Speaking of, how are you holding up, Otter?\""
+    l "@@@\"Speaking of, how are you holding up, Otter?\""
 
-# game/Flynn-Thursday.rpy:11309
+# game/Flynn-Thursday.rpy:11315
 translate Schinese flynnsunday_18bd4af4:
 
     # "Chase gives a half-hearted thumbs up, the mustelid's forehead resting against the side of the window."
-    "Chase gives a half-hearted thumbs up, the mustelid's forehead resting against the side of the window."
+    "@@@Chase gives a half-hearted thumbs up, the mustelid's forehead resting against the side of the window."
 
-# game/Flynn-Thursday.rpy:11310
+# game/Flynn-Thursday.rpy:11316
 translate Schinese flynnsunday_394d8ff4:
 
     # m "\"Carl, just puke on the floor if you have to. I don't think Leo's gonna stop.\""
-    m "\"Carl, just puke on the floor if you have to. I don't think Leo's gonna stop.\""
+    m "@@@\"Carl, just puke on the floor if you have to. I don't think Leo's gonna stop.\""
 
-# game/Flynn-Thursday.rpy:11311
+# game/Flynn-Thursday.rpy:11317
 translate Schinese flynnsunday_5720f4e4:
 
     # "Carl leans over and puts his head between his knees, groaning."
-    "Carl leans over and puts his head between his knees, groaning."
+    "@@@Carl leans over and puts his head between his knees, groaning."
 
-# game/Flynn-Thursday.rpy:11312
+# game/Flynn-Thursday.rpy:11318
 translate Schinese flynnsunday_8e4910e1:
 
     # "That gets TJ's attention and he starts rubbing the ram's back slowly."
-    "That gets TJ's attention and he starts rubbing the ram's back slowly."
+    "@@@That gets TJ's attention and he starts rubbing the ram's back slowly."
 
-# game/Flynn-Thursday.rpy:11313
+# game/Flynn-Thursday.rpy:11319
 translate Schinese flynnsunday_8861e935:
 
     # c "\"Good thing smoothies probably aren't too bad on the way out...\""
-    c "\"Good thing smoothies probably aren't too bad on the way out...\""
+    c "@@@\"Good thing smoothies probably aren't too bad on the way out...\""
 
-# game/Flynn-Thursday.rpy:11314
+# game/Flynn-Thursday.rpy:11320
 translate Schinese flynnsunday_a790a773:
 
     # "TJ frowns."
-    "TJ frowns."
+    "@@@TJ frowns."
 
-# game/Flynn-Thursday.rpy:11316
+# game/Flynn-Thursday.rpy:11322
 translate Schinese flynnsunday_34450ea6:
 
     # "I turn the dial on the radio, but like the cell phone signal, I'm not getting anything."
-    "I turn the dial on the radio, but like the cell phone signal, I'm not getting anything."
+    "@@@I turn the dial on the radio, but like the cell phone signal, I'm not getting anything."
 
-# game/Flynn-Thursday.rpy:11317
+# game/Flynn-Thursday.rpy:11323
 translate Schinese flynnsunday_93a85588:
 
     # "For now, I just turn up the AC and aim it up toward my face."
-    "For now, I just turn up the AC and aim it up toward my face."
+    "@@@For now, I just turn up the AC and aim it up toward my face."
 
-# game/Flynn-Thursday.rpy:11318
+# game/Flynn-Thursday.rpy:11324
 translate Schinese flynnsunday_af0ec7ae:
 
     # "My head's still throbbing up a storm."
-    "My head's still throbbing up a storm."
+    "@@@My head's still throbbing up a storm."
 
-# game/Flynn-Thursday.rpy:11319
+# game/Flynn-Thursday.rpy:11325
 translate Schinese flynnsunday_41b6b2d9:
 
     # l "\"This feels like a dream, doesn't it?\""
-    l "\"This feels like a dream, doesn't it?\""
+    l "@@@\"This feels like a dream, doesn't it?\""
 
-# game/Flynn-Thursday.rpy:11320
+# game/Flynn-Thursday.rpy:11326
 translate Schinese flynnsunday_555e810b:
 
     # "Leo speaks softly, too quiet for anyone behind us to hear."
-    "Leo speaks softly, too quiet for anyone behind us to hear."
+    "@@@Leo speaks softly, too quiet for anyone behind us to hear."
 
-# game/Flynn-Thursday.rpy:11321
+# game/Flynn-Thursday.rpy:11327
 translate Schinese flynnsunday_d5817c4b:
 
     # f "\"I wouldn't know.\""
-    f "\"I wouldn't know.\""
+    f "@@@\"I wouldn't know.\""
 
-# game/Flynn-Thursday.rpy:11325
+# game/Flynn-Thursday.rpy:11331
 translate Schinese flynnsunday_71e1fde3:
 
     # l "\"You put Chase in danger.\""
-    l "\"You put Chase in danger.\""
+    l "@@@\"You put Chase in danger.\""
 
-# game/Flynn-Thursday.rpy:11326
+# game/Flynn-Thursday.rpy:11332
 translate Schinese flynnsunday_302e4f5f:
 
     # "Oh God..."
-    "Oh God..."
+    "@@@Oh God..."
 
-# game/Flynn-Thursday.rpy:11327
+# game/Flynn-Thursday.rpy:11333
 translate Schinese flynnsunday_2dafd045:
 
     # "I cross my forearms over the dashboard and lean my face into them."
-    "I cross my forearms over the dashboard and lean my face into them."
+    "@@@I cross my forearms over the dashboard and lean my face into them."
 
-# game/Flynn-Thursday.rpy:11328
+# game/Flynn-Thursday.rpy:11334
 translate Schinese flynnsunday_34608298:
 
     # f "\"I also saved his ass.\""
-    f "\"I also saved his ass.\""
+    f "@@@\"I also saved his ass.\""
 
-# game/Flynn-Thursday.rpy:11329
+# game/Flynn-Thursday.rpy:11335
 translate Schinese flynnsunday_6d6bab93:
 
     # "I keep my voice low."
-    "I keep my voice low."
+    "@@@I keep my voice low."
 
-# game/Flynn-Thursday.rpy:11330
+# game/Flynn-Thursday.rpy:11336
 translate Schinese flynnsunday_bfd128de:
 
     # "Out of the corner of my eye, I can see Carl perking up to listen in."
-    "Out of the corner of my eye, I can see Carl perking up to listen in."
+    "@@@Out of the corner of my eye, I can see Carl perking up to listen in."
 
-# game/Flynn-Thursday.rpy:11331
+# game/Flynn-Thursday.rpy:11337
 translate Schinese flynnsunday_5e9f1b0c:
 
     # l "\"Doesn't excuse it.\""
-    l "\"Doesn't excuse it.\""
+    l "@@@\"Doesn't excuse it.\""
 
-# game/Flynn-Thursday.rpy:11332
+# game/Flynn-Thursday.rpy:11338
 translate Schinese flynnsunday_0cdd12fe:
 
     # l "\"Seven years ago I swore to Chase I'd fuck up anybody who pulled anything like what you just did.\""
-    l "\"Seven years ago I swore to Chase I'd fuck up anybody who pulled anything like what you just did.\""
+    l "@@@\"Seven years ago I swore to Chase I'd fuck up anybody who pulled anything like what you just did.\""
 
-# game/Flynn-Thursday.rpy:11333
+# game/Flynn-Thursday.rpy:11339
 translate Schinese flynnsunday_8f28df06:
 
     # f "\"I'm not in the mood for this shit, Leo.\""
-    f "\"I'm not in the mood for this shit, Leo.\""
+    f "@@@\"I'm not in the mood for this shit, Leo.\""
 
-# game/Flynn-Thursday.rpy:11334
+# game/Flynn-Thursday.rpy:11340
 translate Schinese flynnsunday_ca52c897:
 
     # f "\"Ya wanna hit me? Sure, whatever keeps your alpha-dog juices flowing.\""
-    f "\"Ya wanna hit me? Sure, whatever keeps your alpha-dog juices flowing.\""
+    f "@@@\"Ya wanna hit me? Sure, whatever keeps your alpha-dog juices flowing.\""
 
-# game/Flynn-Thursday.rpy:11335
+# game/Flynn-Thursday.rpy:11341
 translate Schinese flynnsunday_afc1ba7f:
 
     # "Leo goes quiet for a second, seemingly not having expected me to relent."
-    "Leo goes quiet for a second, seemingly not having expected me to relent."
+    "@@@Leo goes quiet for a second, seemingly not having expected me to relent."
 
-# game/Flynn-Thursday.rpy:11336
+# game/Flynn-Thursday.rpy:11342
 translate Schinese flynnsunday_51fd7c11:
 
     # l "\"You're gonna stay away from him then?\""
-    l "\"You're gonna stay away from him then?\""
+    l "@@@\"You're gonna stay away from him then?\""
 
-# game/Flynn-Thursday.rpy:11337
+# game/Flynn-Thursday.rpy:11343
 translate Schinese flynnsunday_d32a700c:
 
     # f "\"Gladly.\""
-    f "\"Gladly.\""
+    f "@@@\"Gladly.\""
 
-# game/Flynn-Thursday.rpy:11338
+# game/Flynn-Thursday.rpy:11344
 translate Schinese flynnsunday_96b3e2d9:
 
     # l "\"Dunno if I believe you.\""
-    l "\"Dunno if I believe you.\""
+    l "@@@\"Dunno if I believe you.\""
 
-# game/Flynn-Thursday.rpy:11339
+# game/Flynn-Thursday.rpy:11345
 translate Schinese flynnsunday_463b25c5:
 
     # f "\"Jesus fuck.\""
-    f "\"Jesus fuck.\""
+    f "@@@\"Jesus fuck.\""
 
-# game/Flynn-Thursday.rpy:11340
+# game/Flynn-Thursday.rpy:11346
 translate Schinese flynnsunday_5880f33c:
 
     # "I can see him begin to fidget with the mirror, squinting at it for a second."
-    "I can see him begin to fidget with the mirror, squinting at it for a second."
+    "@@@I can see him begin to fidget with the mirror, squinting at it for a second."
 
-# game/Flynn-Thursday.rpy:11341
+# game/Flynn-Thursday.rpy:11347
 translate Schinese flynnsunday_bf41a97e:
 
     # "He pushes the cab light and the interior of the van is quickly illuminated in this sorta too-bright, amber glow."
-    "He pushes the cab light and the interior of the van is quickly illuminated in this sorta too-bright, amber glow."
+    "@@@He pushes the cab light and the interior of the van is quickly illuminated in this sorta too-bright, amber glow."
 
-# game/Flynn-Thursday.rpy:11342
+# game/Flynn-Thursday.rpy:11348
 translate Schinese flynnsunday_d9558395:
 
     # j "\"What is it Leo?\""
-    j "\"What is it Leo?\""
+    j "@@@\"What is it Leo?\""
 
-# game/Flynn-Thursday.rpy:11343
+# game/Flynn-Thursday.rpy:11349
 translate Schinese flynnsunday_b8ba04ce:
 
     # "I push myself up. Leo's still staring at the mirror."
-    "I push myself up. Leo's still staring at the mirror."
+    "@@@I push myself up. Leo's still staring at the mirror."
 
-# game/Flynn-Thursday.rpy:11345
+# game/Flynn-Thursday.rpy:11351
 translate Schinese flynnsunday_52611f86:
 
     # l "\"Chase, you shaved again.\""
-    l "\"Chase, you shaved again.\""
+    l "@@@\"Chase, you shaved again.\""
 
-# game/Flynn-Thursday.rpy:11346
+# game/Flynn-Thursday.rpy:11352
 translate Schinese flynnsunday_18a09b4d:
 
     # "Dax screams."
-    "Dax screams."
+    "@@@Dax screams."
 
-# game/Flynn-Thursday.rpy:11347
+# game/Flynn-Thursday.rpy:11353
 translate Schinese flynnsunday_40ea85ad:
 
     # da "\"What the fuck!?\""
-    da "\"What the fuck!?\""
+    da "@@@\"What the fuck!?\""
 
-# game/Flynn-Thursday.rpy:11348
+# game/Flynn-Thursday.rpy:11354
 translate Schinese flynnsunday_f0692c02:
 
     # "I, and the others, quickly turn around to see what the commotion is about."
-    "I, and the others, quickly turn around to see what the commotion is about."
+    "@@@I, and the others, quickly turn around to see what the commotion is about."
 
-# game/Flynn-Thursday.rpy:11349
+# game/Flynn-Thursday.rpy:11355
 translate Schinese flynnsunday_c6b374ea:
 
     # "For a split-second, I think I see something fading into the seat cushions between Dax and Chase."
-    "For a split-second, I think I see something fading into the seat cushions between Dax and Chase."
+    "@@@For a split-second, I think I see something fading into the seat cushions between Dax and Chase."
 
-# game/Flynn-Thursday.rpy:11350
+# game/Flynn-Thursday.rpy:11356
 translate Schinese flynnsunday_e3b96a72:
 
     # "It's this blackish-brown silhouette of a person."
-    "It's this blackish-brown silhouette of a person."
+    "@@@It's this blackish-brown silhouette of a person."
 
-# game/Flynn-Thursday.rpy:11351
+# game/Flynn-Thursday.rpy:11357
 translate Schinese flynnsunday_18f75138:
 
     # "It reminds me of how when you stare at a light for a while and close your eyes, you can still see it for a moment."
-    "It reminds me of how when you stare at a light for a while and close your eyes, you can still see it for a moment."
+    "@@@It reminds me of how when you stare at a light for a while and close your eyes, you can still see it for a moment."
 
-# game/Flynn-Thursday.rpy:11352
+# game/Flynn-Thursday.rpy:11358
 translate Schinese flynnsunday_ba8cf5ca:
 
     # "I blink, and it's gone."
-    "I blink, and it's gone."
+    "@@@I blink, and it's gone."
 
-# game/Flynn-Thursday.rpy:11353
+# game/Flynn-Thursday.rpy:11359
 translate Schinese flynnsunday_ac086de2:
 
     # da "\"You saw that, right!?\""
-    da "\"You saw that, right!?\""
+    da "@@@\"You saw that, right!?\""
 
-# game/Flynn-Thursday.rpy:11354
+# game/Flynn-Thursday.rpy:11360
 translate Schinese flynnsunday_278dac48:
 
     # f "\"What in the Sam Hill...\""
-    f "\"What in the Sam Hill...\""
+    f "@@@\"What in the Sam Hill...\""
 
-# game/Flynn-Thursday.rpy:11355
+# game/Flynn-Thursday.rpy:11361
 translate Schinese flynnsunday_69bce17f:
 
     # da "\"Tell me you saw that.\""
-    da "\"Tell me you saw that.\""
+    da "@@@\"Tell me you saw that.\""
 
-# game/Flynn-Thursday.rpy:11356
+# game/Flynn-Thursday.rpy:11362
 translate Schinese flynnsunday_4bdcd63a:
 
     # c "\"I-.. I don't know what I saw.\""
-    c "\"I-.. I don't know what I saw.\""
+    c "@@@\"I-.. I don't know what I saw.\""
 
-# game/Flynn-Thursday.rpy:11357
+# game/Flynn-Thursday.rpy:11363
 translate Schinese flynnsunday_99582815:
 
     # "Carl's rubbing his eyes."
-    "Carl's rubbing his eyes."
+    "@@@Carl's rubbing his eyes."
 
-# game/Flynn-Thursday.rpy:11358
+# game/Flynn-Thursday.rpy:11364
 translate Schinese flynnsunday_47e7eace:
 
     # j "\"I didn't see anything?\""
-    j "\"I didn't see anything?\""
+    j "@@@\"I didn't see anything?\""
 
-# game/Flynn-Thursday.rpy:11359
+# game/Flynn-Thursday.rpy:11365
 translate Schinese flynnsunday_ef52b786:
 
     # t "\"What happened?\""
-    t "\"What happened?\""
+    t "@@@\"What happened?\""
 
-# game/Flynn-Thursday.rpy:11360
+# game/Flynn-Thursday.rpy:11366
 translate Schinese flynnsunday_2eb64166:
 
     # da "\"Goddamn, I could feel that thing!\""
-    da "\"Goddamn, I could feel that thing!\""
+    da "@@@\"Goddamn, I could feel that thing!\""
 
-# game/Flynn-Thursday.rpy:11361
+# game/Flynn-Thursday.rpy:11367
 translate Schinese flynnsunday_ee15862d:
 
     # "Dax looks to Chase, who's clearly kinda out of it at this point."
-    "Dax looks to Chase, who's clearly kinda out of it at this point."
+    "@@@Dax looks to Chase, who's clearly kinda out of it at this point."
 
-# game/Flynn-Thursday.rpy:11362
+# game/Flynn-Thursday.rpy:11368
 translate Schinese flynnsunday_70fd31ea:
 
     # da "\"You remember when I told ya about how, in the dream-thing I had, I could feel your fur?\""
-    da "\"You remember when I told ya about how, in the dream-thing I had, I could feel your fur?\""
+    da "@@@\"You remember when I told ya about how, in the dream-thing I had, I could feel your fur?\""
 
-# game/Flynn-Thursday.rpy:11363
+# game/Flynn-Thursday.rpy:11369
 translate Schinese flynnsunday_c5242a0a:
 
     # da "\"It was just like that.\""
-    da "\"It was just like that.\""
+    da "@@@\"It was just like that.\""
 
-# game/Flynn-Thursday.rpy:11364
+# game/Flynn-Thursday.rpy:11370
 translate Schinese flynnsunday_8e7c688b:
 
     # m "\"Really? Huh.\""
-    m "\"Really? Huh.\""
+    m "@@@\"Really? Huh.\""
 
-# game/Flynn-Thursday.rpy:11365
+# game/Flynn-Thursday.rpy:11371
 translate Schinese flynnsunday_4b9e4006:
 
     # "Chase sounds nonplussed, the skin around his eyes a bit pale."
-    "Chase sounds nonplussed, the skin around his eyes a bit pale."
+    "@@@Chase sounds nonplussed, the skin around his eyes a bit pale."
 
-# game/Flynn-Thursday.rpy:11366
+# game/Flynn-Thursday.rpy:11372
 translate Schinese flynnsunday_25686a3c:
 
     # "It's unclear whether he saw what we did, the otter patting at the fabric of the spot where the silhouette was."
-    "It's unclear whether he saw what we did, the otter patting at the fabric of the spot where the silhouette was."
+    "@@@It's unclear whether he saw what we did, the otter patting at the fabric of the spot where the silhouette was."
 
-# game/Flynn-Thursday.rpy:11367
+# game/Flynn-Thursday.rpy:11373
 translate Schinese flynnsunday_fec4b83e:
 
     # da "\"It looked like you.\""
-    da "\"It looked like you.\""
+    da "@@@\"It looked like you.\""
 
-# game/Flynn-Thursday.rpy:11368
+# game/Flynn-Thursday.rpy:11374
 translate Schinese flynnsunday_f1b7dfab:
 
     # l "\"Relax, guys, it's just Chase.\""
-    l "\"Relax, guys, it's just Chase.\""
+    l "@@@\"Relax, guys, it's just Chase.\""
 
-# game/Flynn-Thursday.rpy:11369
+# game/Flynn-Thursday.rpy:11375
 translate Schinese flynnsunday_7dbcbd5b:
 
     # l "\"He wouldn't hurt a fly.\""
-    l "\"He wouldn't hurt a fly.\""
+    l "@@@\"He wouldn't hurt a fly.\""
 
-# game/Flynn-Thursday.rpy:11370
+# game/Flynn-Thursday.rpy:11376
 translate Schinese flynnsunday_4ade85a1:
 
     # "Chase - the real Chase - groans."
-    "Chase - the real Chase - groans."
+    "@@@Chase - the real Chase - groans."
 
-# game/Flynn-Thursday.rpy:11371
+# game/Flynn-Thursday.rpy:11377
 translate Schinese flynnsunday_c2e0d6c0:
 
     # m "\"Yeah, sure.\""
-    m "\"Yeah, sure.\""
+    m "@@@\"Yeah, sure.\""
 
-# game/Flynn-Thursday.rpy:11372
+# game/Flynn-Thursday.rpy:11378
 translate Schinese flynnsunday_ea30abe3:
 
     # "His voice is still weird and high-pitched, and it kinda seems like I'm the only person who's noticing it."
-    "His voice is still weird and high-pitched, and it kinda seems like I'm the only person who's noticing it."
+    "@@@His voice is still weird and high-pitched, and it kinda seems like I'm the only person who's noticing it."
 
-# game/Flynn-Thursday.rpy:11373
+# game/Flynn-Thursday.rpy:11379
 translate Schinese flynnsunday_0cc82504:
 
     # da "\"No, Leo, I'm talking about the fact that there were two friggen Chases next to me.\""
-    da "\"No, Leo, I'm talking about the fact that there were two friggen Chases next to me.\""
+    da "@@@\"No, Leo, I'm talking about the fact that there were two friggen Chases next to me.\""
 
-# game/Flynn-Thursday.rpy:11374
+# game/Flynn-Thursday.rpy:11380
 translate Schinese flynnsunday_4ec3b4c8:
 
     # f "\"Chase, do you know what's happening?\""
-    f "\"Chase, do you know what's happening?\""
+    f "@@@\"Chase, do you know what's happening?\""
 
-# game/Flynn-Thursday.rpy:11375
+# game/Flynn-Thursday.rpy:11381
 translate Schinese flynnsunday_5867e1c5:
 
     # "The otter grimaces some as he rolls his neck to look at me."
-    "The otter grimaces some as he rolls his neck to look at me."
+    "@@@The otter grimaces some as he rolls his neck to look at me."
 
-# game/Flynn-Thursday.rpy:11376
+# game/Flynn-Thursday.rpy:11382
 translate Schinese flynnsunday_17cc2eb1:
 
     # m "\"It's the Hysteria, man. It's like what the Mayor and Duke said. People see stuff and go nuts.\""
-    m "\"It's the Hysteria, man. It's like what the Mayor and Duke said. People see stuff and go nuts.\""
+    m "@@@\"It's the Hysteria, man. It's like what the Mayor and Duke said. People see stuff and go nuts.\""
 
-# game/Flynn-Thursday.rpy:11377
+# game/Flynn-Thursday.rpy:11383
 translate Schinese flynnsunday_b7582ad5:
 
     # m "\"I'm just glad I'm not the only one seeing this stupid shit anymore.\""
-    m "\"I'm just glad I'm not the only one seeing this stupid shit anymore.\""
+    m "@@@\"I'm just glad I'm not the only one seeing this stupid shit anymore.\""
 
-# game/Flynn-Thursday.rpy:11378
+# game/Flynn-Thursday.rpy:11384
 translate Schinese flynnsunday_115473b4:
 
     # j "\"So you're telling me that this is some sort of.. collective psychosis - that you all are witnessing hallucinations of the same thing?\""
-    j "\"So you're telling me that this is some sort of.. collective psychosis - that you all are witnessing hallucinations of the same thing?\""
+    j "@@@\"So you're telling me that this is some sort of.. collective psychosis - that you all are witnessing hallucinations of the same thing?\""
 
-# game/Flynn-Thursday.rpy:11379
+# game/Flynn-Thursday.rpy:11385
 translate Schinese flynnsunday_175ec4b9:
 
     # c "\"Dude, I've been on acid before. You can at least tell that something weird's happening in your body when stuff starts popping up.\""
-    c "\"Dude, I've been on acid before. You can at least tell that something weird's happening in your body when stuff starts popping up.\""
+    c "@@@\"Dude, I've been on acid before. You can at least tell that something weird's happening in your body when stuff starts popping up.\""
 
-# game/Flynn-Thursday.rpy:11380
+# game/Flynn-Thursday.rpy:11386
 translate Schinese flynnsunday_3d02f077:
 
     # c "\"All things considered, I'm like.. okay, and still could see whatever the hell that was.\""
-    c "\"All things considered, I'm like.. okay, and still could see whatever the hell that was.\""
+    c "@@@\"All things considered, I'm like.. okay, and still could see whatever the hell that was.\""
 
-# game/Flynn-Thursday.rpy:11381
+# game/Flynn-Thursday.rpy:11387
 translate Schinese flynnsunday_2a6fc366:
 
     # "Carl shifts nervously in his seat, the ram looking uncomfortable with having his back turned to the now empty space."
-    "Carl shifts nervously in his seat, the ram looking uncomfortable with having his back turned to the now empty space."
+    "@@@Carl shifts nervously in his seat, the ram looking uncomfortable with having his back turned to the now empty space."
 
-# game/Flynn-Thursday.rpy:11382
+# game/Flynn-Thursday.rpy:11388
 translate Schinese flynnsunday_c9c46e4c:
 
     # da "\"It's like.. {i}Shadow Chase{/i}?\""
-    da "\"It's like.. {i}Shadow Chase{/i}?\""
+    da "@@@\"It's like.. {i}Shadow Chase{/i}?\""
 
-# game/Flynn-Thursday.rpy:11383
+# game/Flynn-Thursday.rpy:11389
 translate Schinese flynnsunday_54e5e1c7:
 
     # c "\"I saw it in the rear-view mirror first.\""
-    c "\"I saw it in the rear-view mirror first.\""
+    c "@@@\"I saw it in the rear-view mirror first.\""
 
-# game/Flynn-Thursday.rpy:11384
+# game/Flynn-Thursday.rpy:11390
 translate Schinese flynnsunday_fdabff93:
 
     # "Leo's still looking in said mirror."
-    "Leo's still looking in said mirror."
+    "@@@Leo's still looking in said mirror."
 
-# game/Flynn-Thursday.rpy:11385
+# game/Flynn-Thursday.rpy:11391
 translate Schinese flynnsunday_8ba51c24:
 
     # "We're fucking fortunate we're on a straight shot road now."
-    "We're fucking fortunate we're on a straight shot road now."
+    "@@@We're fucking fortunate we're on a straight shot road now."
 
-# game/Flynn-Thursday.rpy:11386
+# game/Flynn-Thursday.rpy:11392
 translate Schinese flynnsunday_8e051d26:
 
     # l "\"He visits a lot.\""
-    l "\"He visits a lot.\""
+    l "@@@\"He visits a lot.\""
 
-# game/Flynn-Thursday.rpy:11387
+# game/Flynn-Thursday.rpy:11393
 translate Schinese flynnsunday_c04b74af:
 
     # "Jenna furrows her brow at the wolf."
-    "Jenna furrows her brow at the wolf."
+    "@@@Jenna furrows her brow at the wolf."
 
-# game/Flynn-Thursday.rpy:11388
+# game/Flynn-Thursday.rpy:11394
 translate Schinese flynnsunday_8f395a78:
 
     # j "\"Leo..\""
-    j "\"Leo..\""
+    j "@@@\"Leo..\""
 
-# game/Flynn-Thursday.rpy:11389
+# game/Flynn-Thursday.rpy:11395
 translate Schinese flynnsunday_dabe54d3:
 
     # "She pauses, noting the vacant look on Leo's face."
-    "She pauses, noting the vacant look on Leo's face."
+    "@@@She pauses, noting the vacant look on Leo's face."
 
-# game/Flynn-Thursday.rpy:11390
+# game/Flynn-Thursday.rpy:11396
 translate Schinese flynnsunday_0955059e:
 
     # j "\"..do you want me to drive for a bit?\""
-    j "\"..do you want me to drive for a bit?\""
+    j "@@@\"..do you want me to drive for a bit?\""
 
-# game/Flynn-Thursday.rpy:11391
+# game/Flynn-Thursday.rpy:11397
 translate Schinese flynnsunday_328655f8:
 
     # l "\"That's funny.\""
-    l "\"That's funny.\""
+    l "@@@\"That's funny.\""
 
-# game/Flynn-Thursday.rpy:11392
+# game/Flynn-Thursday.rpy:11398
 translate Schinese flynnsunday_7e2ad586:
 
     # j "\"I'm serious.\""
-    j "\"I'm serious.\""
+    j "@@@\"I'm serious.\""
 
-# game/Flynn-Thursday.rpy:11393
+# game/Flynn-Thursday.rpy:11399
 translate Schinese flynnsunday_0764ef20:
 
     # l "\"So am I.\""
-    l "\"So am I.\""
+    l "@@@\"So am I.\""
 
-# game/Flynn-Thursday.rpy:11394
+# game/Flynn-Thursday.rpy:11400
 translate Schinese flynnsunday_67def683:
 
     # j "\"Well, let's.. try not to think about this for now.\""
-    j "\"Well, let's.. try not to think about this for now.\""
+    j "@@@\"Well, let's.. try not to think about this for now.\""
 
-# game/Flynn-Thursday.rpy:11395
+# game/Flynn-Thursday.rpy:11401
 translate Schinese flynnsunday_a172086c:
 
     # da "\"That's a bit of a tall order.\""
-    da "\"That's a bit of a tall order.\""
+    da "@@@\"That's a bit of a tall order.\""
 
-# game/Flynn-Thursday.rpy:11396
+# game/Flynn-Thursday.rpy:11402
 translate Schinese flynnsunday_89709866:
 
     # "Jenna shrugs uncomfortably."
-    "Jenna shrugs uncomfortably."
+    "@@@Jenna shrugs uncomfortably."
 
-# game/Flynn-Thursday.rpy:11397
+# game/Flynn-Thursday.rpy:11403
 translate Schinese flynnsunday_466a6dee:
 
     # j "\"It's your choice.\""
-    j "\"It's your choice.\""
+    j "@@@\"It's your choice.\""
 
-# game/Flynn-Thursday.rpy:11398
+# game/Flynn-Thursday.rpy:11404
 translate Schinese flynnsunday_5331c4c1:
 
     # t "\"Can we just.. change the subject?\""
-    t "\"Can we just.. change the subject?\""
+    t "@@@\"Can we just.. change the subject?\""
 
-# game/Flynn-Thursday.rpy:11404
+# game/Flynn-Thursday.rpy:11410
 translate Schinese flynnsunday_b8476097:
 
     # l "\"You locked Chase in a spider infested room, then lied to us about it.\""
-    l "\"You locked Chase in a spider infested room, then lied to us about it.\""
+    l "@@@\"You locked Chase in a spider infested room, then lied to us about it.\""
 
-# game/Flynn-Thursday.rpy:11405
+# game/Flynn-Thursday.rpy:11411
 translate Schinese flynnsunday_f061d2a6:
 
     # "I sigh, crossing my forearms over the dashboard and leaning my face into them."
-    "I sigh, crossing my forearms over the dashboard and leaning my face into them."
+    "@@@I sigh, crossing my forearms over the dashboard and leaning my face into them."
 
-# game/Flynn-Thursday.rpy:11406
+# game/Flynn-Thursday.rpy:11412
 translate Schinese flynnsunday_8f28df06_1:
 
     # f "\"I'm not in the mood for this shit, Leo.\""
-    f "\"I'm not in the mood for this shit, Leo.\""
+    f "@@@\"I'm not in the mood for this shit, Leo.\""
 
-# game/Flynn-Thursday.rpy:11407
+# game/Flynn-Thursday.rpy:11413
 translate Schinese flynnsunday_ac68434d:
 
     # l "\"And then you risked your life to save him.\""
-    l "\"And then you risked your life to save him.\""
+    l "@@@\"And then you risked your life to save him.\""
 
-# game/Flynn-Thursday.rpy:11408
+# game/Flynn-Thursday.rpy:11414
 translate Schinese flynnsunday_f3f296d4:
 
     # l "\"Like with a gun and everything. Straight out of a scene in those westerns we used to watch - Payton Access channel, remember?\""
-    l "\"Like with a gun and everything. Straight out of a scene in those westerns we used to watch - Payton Access channel, remember?\""
+    l "@@@\"Like with a gun and everything. Straight out of a scene in those westerns we used to watch - Payton Access channel, remember?\""
 
-# game/Flynn-Thursday.rpy:11409
+# game/Flynn-Thursday.rpy:11415
 translate Schinese flynnsunday_38ce5037:
 
     # l "\"Scooter-guy back there reminded me of Deputy Jack from Tumbleweed Armadillo with his whole speech.\""
-    l "\"Scooter-guy back there reminded me of Deputy Jack from Tumbleweed Armadillo with his whole speech.\""
+    l "@@@\"Scooter-guy back there reminded me of Deputy Jack from Tumbleweed Armadillo with his whole speech.\""
 
-# game/Flynn-Thursday.rpy:11410
+# game/Flynn-Thursday.rpy:11416
 translate Schinese flynnsunday_f23f9a7a:
 
     # "I crane my head up a little, raising a brow at the wolf."
-    "I crane my head up a little, raising a brow at the wolf."
+    "@@@I crane my head up a little, raising a brow at the wolf."
 
-# game/Flynn-Thursday.rpy:11411
+# game/Flynn-Thursday.rpy:11417
 translate Schinese flynnsunday_44eade63:
 
     # "He seems pretty focused on the road."
-    "He seems pretty focused on the road."
+    "@@@He seems pretty focused on the road."
 
-# game/Flynn-Thursday.rpy:11412
+# game/Flynn-Thursday.rpy:11418
 translate Schinese flynnsunday_1a129b1c:
 
     # "Daxton and Chase are muttering about something in the back of the van, but I can't make any of it out."
-    "Daxton and Chase are muttering about something in the back of the van, but I can't make any of it out."
+    "@@@Daxton and Chase are muttering about something in the back of the van, but I can't make any of it out."
 
-# game/Flynn-Thursday.rpy:11413
+# game/Flynn-Thursday.rpy:11419
 translate Schinese flynnsunday_e0a1b670:
 
     # l "\"But.. why?\""
-    l "\"But.. why?\""
+    l "@@@\"But.. why?\""
 
-# game/Flynn-Thursday.rpy:11414
+# game/Flynn-Thursday.rpy:11420
 translate Schinese flynnsunday_ce3f625d:
 
     # l "\"I mean, you coulda finally gotten your revenge or whatever, yeah?\""
-    l "\"I mean, you coulda finally gotten your revenge or whatever, yeah?\""
+    l "@@@\"I mean, you coulda finally gotten your revenge or whatever, yeah?\""
 
-# game/Flynn-Thursday.rpy:11415
+# game/Flynn-Thursday.rpy:11421
 translate Schinese flynnsunday_c1fdbed0:
 
     # "It's hard to read the big wolf's expression. He's certainly different than his previous bullshit persona as the cheery spring break patriarch."
-    "It's hard to read the big wolf's expression. He's certainly different than his previous bullshit persona as the cheery spring break patriarch."
+    "@@@It's hard to read the big wolf's expression. He's certainly different than his previous bullshit persona as the cheery spring break patriarch."
 
-# game/Flynn-Thursday.rpy:11416
+# game/Flynn-Thursday.rpy:11422
 translate Schinese flynnsunday_e02f9674:
 
     # "He seems old. Way older than he actually is."
-    "He seems old. Way older than he actually is."
+    "@@@He seems old. Way older than he actually is."
 
-# game/Flynn-Thursday.rpy:11417
+# game/Flynn-Thursday.rpy:11423
 translate Schinese flynnsunday_9871fc8f:
 
     # f "\"Fucking hell, Leo, I don't want Chase dead.\""
-    f "\"Fucking hell, Leo, I don't want Chase dead.\""
+    f "@@@\"Fucking hell, Leo, I don't want Chase dead.\""
 
-# game/Flynn-Thursday.rpy:11418
+# game/Flynn-Thursday.rpy:11424
 translate Schinese flynnsunday_6ac389ae:
 
     # "My tone comes out more tired and exasperated than genuinely angry."
-    "My tone comes out more tired and exasperated than genuinely angry."
+    "@@@My tone comes out more tired and exasperated than genuinely angry."
 
-# game/Flynn-Thursday.rpy:11419
+# game/Flynn-Thursday.rpy:11425
 translate Schinese flynnsunday_341fe95f:
 
     # f "\"I just want the truth.\""
-    f "\"I just want the truth.\""
+    f "@@@\"I just want the truth.\""
 
-# game/Flynn-Thursday.rpy:11420
+# game/Flynn-Thursday.rpy:11426
 translate Schinese flynnsunday_a86700d3:
 
     # "Leo lets out a large breath through his nostrils, then slightly nods."
-    "Leo lets out a large breath through his nostrils, then slightly nods."
+    "@@@Leo lets out a large breath through his nostrils, then slightly nods."
 
-# game/Flynn-Thursday.rpy:11421
+# game/Flynn-Thursday.rpy:11427
 translate Schinese flynnsunday_786b44fc:
 
     # l "\"Yeah.\""
-    l "\"Yeah.\""
+    l "@@@\"Yeah.\""
 
-# game/Flynn-Thursday.rpy:11422
+# game/Flynn-Thursday.rpy:11428
 translate Schinese flynnsunday_f4f54f08:
 
     # l "\"To be honest, I didn't even think about Sydney when I set this all up, you know?\""
-    l "\"To be honest, I didn't even think about Sydney when I set this all up, you know?\""
+    l "@@@\"To be honest, I didn't even think about Sydney when I set this all up, you know?\""
 
-# game/Flynn-Thursday.rpy:11423
+# game/Flynn-Thursday.rpy:11429
 translate Schinese flynnsunday_07d173ed:
 
     # f "\"Of course you didn't.\""
-    f "\"Of course you didn't.\""
+    f "@@@\"Of course you didn't.\""
 
-# game/Flynn-Thursday.rpy:11424
+# game/Flynn-Thursday.rpy:11430
 translate Schinese flynnsunday_5aa2ed3c:
 
     # "Leo never really was one to dwell much on Syd's death beyond saying he'd protect the rest of us because of what happened."
-    "Leo never really was one to dwell much on Syd's death beyond saying he'd protect the rest of us because of what happened."
+    "@@@Leo never really was one to dwell much on Syd's death beyond saying he'd protect the rest of us because of what happened."
 
-# game/Flynn-Thursday.rpy:11425
+# game/Flynn-Thursday.rpy:11431
 translate Schinese flynnsunday_ff2b8a6f:
 
     # "Basically said shit was fucked up enough already, so ya might as well try to stay to positive and cherish what you've got now."
-    "Basically said shit was fucked up enough already, so ya might as well try to stay to positive and cherish what you've got now."
+    "@@@Basically said shit was fucked up enough already, so ya might as well try to stay to positive and cherish what you've got now."
 
-# game/Flynn-Thursday.rpy:11426
+# game/Flynn-Thursday.rpy:11432
 translate Schinese flynnsunday_df664b48:
 
     # "What he had was otter ass, so, I'm sure that made it easier."
-    "What he had was otter ass, so, I'm sure that made it easier."
+    "@@@What he had was otter ass, so, I'm sure that made it easier."
 
-# game/Flynn-Thursday.rpy:11427
+# game/Flynn-Thursday.rpy:11433
 translate Schinese flynnsunday_73970d06:
 
     # "There's a long pause."
-    "There's a long pause."
+    "@@@There's a long pause."
 
-# game/Flynn-Thursday.rpy:11428
+# game/Flynn-Thursday.rpy:11434
 translate Schinese flynnsunday_0c8b0b33:
 
     # f "\"And, egh..\""
-    f "\"And, egh..\""
+    f "@@@\"And, egh..\""
 
-# game/Flynn-Thursday.rpy:11429
+# game/Flynn-Thursday.rpy:11435
 translate Schinese flynnsunday_ace68391:
 
     # l "\"Hm?\""
-    l "\"Hm?\""
+    l "@@@\"Hm?\""
 
-# game/Flynn-Thursday.rpy:11430
+# game/Flynn-Thursday.rpy:11436
 translate Schinese flynnsunday_dce9ec52:
 
     # "I rub the back of my frilled head."
-    "I rub the back of my frilled head."
+    "@@@I rub the back of my frilled head."
 
-# game/Flynn-Thursday.rpy:11431
+# game/Flynn-Thursday.rpy:11437
 translate Schinese flynnsunday_c9508cc7:
 
     # f "\"Nevermind.\""
-    f "\"Nevermind.\""
+    f "@@@\"Nevermind.\""
 
-# game/Flynn-Thursday.rpy:11432
+# game/Flynn-Thursday.rpy:11438
 translate Schinese flynnsunday_b8db5fc1:
 
     # f "\"Nothin'.\""
-    f "\"Nothin'.\""
+    f "@@@\"Nothin'.\""
 
-# game/Flynn-Thursday.rpy:11433
+# game/Flynn-Thursday.rpy:11439
 translate Schinese flynnsunday_b1c61fef:
 
     # l "\"Mhm.\""
-    l "\"Mhm.\""
+    l "@@@\"Mhm.\""
 
-# game/Flynn-Thursday.rpy:11434
+# game/Flynn-Thursday.rpy:11440
 translate Schinese flynnsunday_97116a7b:
 
     # "Another long silence. Dax gives Chase a bottle of water and Carl starts to play a game on his phone."
-    "Another long silence. Dax gives Chase a bottle of water and Carl starts to play a game on his phone."
+    "@@@Another long silence. Dax gives Chase a bottle of water and Carl starts to play a game on his phone."
 
-# game/Flynn-Thursday.rpy:11437
+# game/Flynn-Thursday.rpy:11443
 translate Schinese flynnsunday_4d927e03:
 
     # "A few minutes later, we're already passing the lake."
-    "A few minutes later, we're already passing the lake."
+    "@@@A few minutes later, we're already passing the lake."
 
-# game/Flynn-Thursday.rpy:11439
+# game/Flynn-Thursday.rpy:11445
 translate Schinese flynnsunday_c61a185b:
 
     # c "\"Huh, so it's.. is it Sunday already? Sunday morning?\""
-    c "\"Huh, so it's.. is it Sunday already? Sunday morning?\""
+    c "@@@\"Huh, so it's.. is it Sunday already? Sunday morning?\""
 
-# game/Flynn-Thursday.rpy:11440
+# game/Flynn-Thursday.rpy:11446
 translate Schinese flynnsunday_8076707f:
 
     # f "\"That's what the clock says..\""
-    f "\"That's what the clock says..\""
+    f "@@@\"That's what the clock says..\""
 
-# game/Flynn-Thursday.rpy:11441
+# game/Flynn-Thursday.rpy:11447
 translate Schinese flynnsunday_e91b8685:
 
     # c "\"What a fucking day.\""
-    c "\"What a fucking day.\""
+    c "@@@\"What a fucking day.\""
 
-# game/Flynn-Thursday.rpy:11442
+# game/Flynn-Thursday.rpy:11448
 translate Schinese flynnsunday_dfdd99a9:
 
     # "I don't say anything in response."
-    "I don't say anything in response."
+    "@@@I don't say anything in response."
 
-# game/Flynn-Thursday.rpy:11444
+# game/Flynn-Thursday.rpy:11450
 translate Schinese flynnsunday_671f6ea9:
 
     # t "\"We never got to ask Flynn's aunt about the.. the thing.\""
-    t "\"We never got to ask Flynn's aunt about the.. the thing.\""
+    t "@@@\"We never got to ask Flynn's aunt about the.. the thing.\""
 
-# game/Flynn-Thursday.rpy:11445
+# game/Flynn-Thursday.rpy:11451
 translate Schinese flynnsunday_3ed3c1fd:
 
     # c "\"We could always go back and ask.\""
-    c "\"We could always go back and ask.\""
+    c "@@@\"We could always go back and ask.\""
 
-# game/Flynn-Thursday.rpy:11446
+# game/Flynn-Thursday.rpy:11452
 translate Schinese flynnsunday_61002096:
 
     # t "\"What? No, I just-...\""
-    t "\"What? No, I just-...\""
+    t "@@@\"What? No, I just-...\""
 
-# game/Flynn-Thursday.rpy:11447
+# game/Flynn-Thursday.rpy:11453
 translate Schinese flynnsunday_5b948333:
 
     # j "\"He's kidding, TJ.\""
-    j "\"He's kidding, TJ.\""
+    j "@@@\"He's kidding, TJ.\""
 
-# game/Flynn-Thursday.rpy:11448
+# game/Flynn-Thursday.rpy:11454
 translate Schinese flynnsunday_b86fe128:
 
     # t "\"Oh...\""
-    t "\"Oh...\""
+    t "@@@\"Oh...\""
 
-# game/Flynn-Thursday.rpy:11449
+# game/Flynn-Thursday.rpy:11455
 translate Schinese flynnsunday_bff036f1:
 
     # "The lynx stares at the space between his knees."
-    "The lynx stares at the space between his knees."
+    "@@@The lynx stares at the space between his knees."
 
-# game/Flynn-Thursday.rpy:11450
+# game/Flynn-Thursday.rpy:11456
 translate Schinese flynnsunday_44b5852f:
 
     # j "\"Do you actually think she'd know anything about it, Flynn?\""
-    j "\"Do you actually think she'd know anything about it, Flynn?\""
+    j "@@@\"Do you actually think she'd know anything about it, Flynn?\""
 
-# game/Flynn-Thursday.rpy:11451
+# game/Flynn-Thursday.rpy:11457
 translate Schinese flynnsunday_328adecb:
 
     # f "\"I don't know.\""
-    f "\"I don't know.\""
+    f "@@@\"I don't know.\""
 
-# game/Flynn-Thursday.rpy:11452
+# game/Flynn-Thursday.rpy:11458
 translate Schinese flynnsunday_daee5192:
 
     # j "\"She and Mark knew enough about what happened with that body, though...\""
-    j "\"She and Mark knew enough about what happened with that body, though...\""
+    j "@@@\"She and Mark knew enough about what happened with that body, though...\""
 
-# game/Flynn-Thursday.rpy:11454
+# game/Flynn-Thursday.rpy:11460
 translate Schinese flynnsunday_d0247396:
 
     # "Carl shivers and puts his head back down while TJ continues to rub his back."
-    "Carl shivers and puts his head back down while TJ continues to rub his back."
+    "@@@Carl shivers and puts his head back down while TJ continues to rub his back."
 
-# game/Flynn-Thursday.rpy:11455
+# game/Flynn-Thursday.rpy:11461
 translate Schinese flynnsunday_d258e5fd:
 
     # "A few minutes of silence go by before Carl speaks up again."
-    "A few minutes of silence go by before Carl speaks up again."
+    "@@@A few minutes of silence go by before Carl speaks up again."
 
-# game/Flynn-Thursday.rpy:11456
+# game/Flynn-Thursday.rpy:11462
 translate Schinese flynnsunday_d138a242:
 
     # c "\"That feels kinda nice.. reminds me of my mom.\""
-    c "\"That feels kinda nice.. reminds me of my mom.\""
+    c "@@@\"That feels kinda nice.. reminds me of my mom.\""
 
-# game/Flynn-Thursday.rpy:11457
+# game/Flynn-Thursday.rpy:11463
 translate Schinese flynnsunday_4405eecb:
 
     # t "\"Yeah, actually my mom did it too, thought it might help.\""
-    t "\"Yeah, actually my mom did it too, thought it might help.\""
+    t "@@@\"Yeah, actually my mom did it too, thought it might help.\""
 
-# game/Flynn-Thursday.rpy:11458
+# game/Flynn-Thursday.rpy:11464
 translate Schinese flynnsunday_e05a23f5:
 
     # c "\"Hey, I love you, just so you know. All of you guys. I'm glad we're getting out of here.\""
-    c "\"Hey, I love you, just so you know. All of you guys. I'm glad we're getting out of here.\""
+    c "@@@\"Hey, I love you, just so you know. All of you guys. I'm glad we're getting out of here.\""
 
-# game/Flynn-Thursday.rpy:11459
+# game/Flynn-Thursday.rpy:11465
 translate Schinese flynnsunday_ddd96ba8:
 
     # c "\"Fuck it, I'm going back to Pueblo.\""
-    c "\"Fuck it, I'm going back to Pueblo.\""
+    c "@@@\"Fuck it, I'm going back to Pueblo.\""
 
-# game/Flynn-Thursday.rpy:11460
+# game/Flynn-Thursday.rpy:11466
 translate Schinese flynnsunday_a1ff4a8f:
 
     # "I raise a brow-ridge at the ram."
-    "I raise a brow-ridge at the ram."
+    "@@@I raise a brow-ridge at the ram."
 
-# game/Flynn-Thursday.rpy:11461
+# game/Flynn-Thursday.rpy:11467
 translate Schinese flynnsunday_def7c25a:
 
     # c "\"And I'm taking you with me.\""
-    c "\"And I'm taking you with me.\""
+    c "@@@\"And I'm taking you with me.\""
 
-# game/Flynn-Thursday.rpy:11462
+# game/Flynn-Thursday.rpy:11468
 translate Schinese flynnsunday_60fffe22:
 
     # "He points a thick finger toward me, leaning forward enough that he pokes me in the shoulder."
-    "He points a thick finger toward me, leaning forward enough that he pokes me in the shoulder."
+    "@@@He points a thick finger toward me, leaning forward enough that he pokes me in the shoulder."
 
-# game/Flynn-Thursday.rpy:11463
+# game/Flynn-Thursday.rpy:11469
 translate Schinese flynnsunday_ae1775af:
 
     # "I restrain a smile, instead letting out an idle grunt."
-    "I restrain a smile, instead letting out an idle grunt."
+    "@@@I restrain a smile, instead letting out an idle grunt."
 
-# game/Flynn-Thursday.rpy:11464
+# game/Flynn-Thursday.rpy:11470
 translate Schinese flynnsunday_4fc82bff:
 
     # "Me? College?"
-    "Me? College?"
+    "@@@Me? College?"
 
-# game/Flynn-Thursday.rpy:11465
+# game/Flynn-Thursday.rpy:11471
 translate Schinese flynnsunday_f82e813e:
 
     # "What a thought."
-    "What a thought."
+    "@@@What a thought."
 
-# game/Flynn-Thursday.rpy:11466
+# game/Flynn-Thursday.rpy:11472
 translate Schinese flynnsunday_92d71a69:
 
     # "The idea of being around guys my age.. and Carl."
-    "The idea of being around guys my age.. and Carl."
+    "@@@The idea of being around guys my age.. and Carl."
 
-# game/Flynn-Thursday.rpy:11467
+# game/Flynn-Thursday.rpy:11473
 translate Schinese flynnsunday_b5b175a5:
 
     # "I'm not even sure what the hell I'd major in."
-    "I'm not even sure what the hell I'd major in."
+    "@@@I'm not even sure what the hell I'd major in."
 
-# game/Flynn-Thursday.rpy:11468
+# game/Flynn-Thursday.rpy:11474
 translate Schinese flynnsunday_b3c29560:
 
     # "Definitely not fucking Poli-Sci."
-    "Definitely not fucking Poli-Sci."
+    "@@@Definitely not fucking Poli-Sci."
 
-# game/Flynn-Thursday.rpy:11469
+# game/Flynn-Thursday.rpy:11475
 translate Schinese flynnsunday_ae93f633:
 
     # "I squeeze my wrist, trying to refocus."
-    "I squeeze my wrist, trying to refocus."
+    "@@@I squeeze my wrist, trying to refocus."
 
-# game/Flynn-Thursday.rpy:11470
+# game/Flynn-Thursday.rpy:11476
 translate Schinese flynnsunday_d58a1899:
 
     # t "\"I love you too Carl.. and everyone else.\""
-    t "\"I love you too Carl.. and everyone else.\""
+    t "@@@\"I love you too Carl.. and everyone else.\""
 
-# game/Flynn-Thursday.rpy:11471
+# game/Flynn-Thursday.rpy:11477
 translate Schinese flynnsunday_2d73a363:
 
     # c "\"You too, Captain Daxton.\""
-    c "\"You too, Captain Daxton.\""
+    c "@@@\"You too, Captain Daxton.\""
 
-# game/Flynn-Thursday.rpy:11472
+# game/Flynn-Thursday.rpy:11478
 translate Schinese flynnsunday_e52715d9:
 
     # da "\"Captain? Oh, I was promoted. Cool.\""
-    da "\"Captain? Oh, I was promoted. Cool.\""
+    da "@@@\"Captain? Oh, I was promoted. Cool.\""
 
-# game/Flynn-Thursday.rpy:11473
+# game/Flynn-Thursday.rpy:11479
 translate Schinese flynnsunday_68bc6678:
 
     # "Daxton seems distracted, watching Chase stare at his own fingertips."
-    "Daxton seems distracted, watching Chase stare at his own fingertips."
+    "@@@Daxton seems distracted, watching Chase stare at his own fingertips."
 
-# game/Flynn-Thursday.rpy:11474
+# game/Flynn-Thursday.rpy:11480
 translate Schinese flynnsunday_c806ebc0:
 
     # m "\"Yeah.\""
-    m "\"Yeah.\""
+    m "@@@\"Yeah.\""
 
-# game/Flynn-Thursday.rpy:11475
+# game/Flynn-Thursday.rpy:11481
 translate Schinese flynnsunday_e8b84390:
 
     # "Chase affirms his love for everyone with groggy monotone."
-    "Chase affirms his love for everyone with groggy monotone."
+    "@@@Chase affirms his love for everyone with groggy monotone."
 
-# game/Flynn-Thursday.rpy:11476
+# game/Flynn-Thursday.rpy:11482
 translate Schinese flynnsunday_5a9ca310:
 
     # "Jenna glances back at them before turning her attention out her own window."
-    "Jenna glances back at them before turning her attention out her own window."
+    "@@@Jenna glances back at them before turning her attention out her own window."
 
-# game/Flynn-Thursday.rpy:11477
+# game/Flynn-Thursday.rpy:11483
 translate Schinese flynnsunday_636b4bf0:
 
     # "Leo doesn't say anything from the front, his focus solely on the road ahead of him."
-    "Leo doesn't say anything from the front, his focus solely on the road ahead of him."
+    "@@@Leo doesn't say anything from the front, his focus solely on the road ahead of him."
 
-# game/Flynn-Thursday.rpy:11478
+# game/Flynn-Thursday.rpy:11484
 translate Schinese flynnsunday_2fafb875:
 
     # m "\"Are we at the clinic yet?\""
-    m "\"Are we at the clinic yet?\""
+    m "@@@\"Are we at the clinic yet?\""
 
-# game/Flynn-Thursday.rpy:11479
+# game/Flynn-Thursday.rpy:11485
 translate Schinese flynnsunday_a6c97a6f:
 
     # f "\"Still 'bout twenty minutes out.\""
-    f "\"Still 'bout twenty minutes out.\""
+    f "@@@\"Still 'bout twenty minutes out.\""
 
-# game/Flynn-Thursday.rpy:11480
+# game/Flynn-Thursday.rpy:11486
 translate Schinese flynnsunday_3c3472e8:
 
     # "I watch the desert whip by us, for the first time feeling somewhat safe as the town disappears behind us."
-    "I watch the desert whip by us, for the first time feeling somewhat safe as the town disappears behind us."
+    "@@@I watch the desert whip by us, for the first time feeling somewhat safe as the town disappears behind us."
 
-# game/Flynn-Thursday.rpy:11481
+# game/Flynn-Thursday.rpy:11487
 translate Schinese flynnsunday_45f367af:
 
     # "But, of course, it doesn't last long."
-    "But, of course, it doesn't last long."
+    "@@@But, of course, it doesn't last long."
 
-# game/Flynn-Thursday.rpy:11482
+# game/Flynn-Thursday.rpy:11488
 translate Schinese flynnsunday_852efb2b:
 
     # da "\"What's that? On the side of the road, there.\""
-    da "\"What's that? On the side of the road, there.\""
+    da "@@@\"What's that? On the side of the road, there.\""
 
-# game/Flynn-Thursday.rpy:11483
+# game/Flynn-Thursday.rpy:11489
 translate Schinese flynnsunday_63dadbae:
 
     # l "\"Mh?\""
-    l "\"Mh?\""
+    l "@@@\"Mh?\""
 
-# game/Flynn-Thursday.rpy:11484
+# game/Flynn-Thursday.rpy:11490
 translate Schinese flynnsunday_a140bea8:
 
     # "Leo's turns his head in the direction of something on the curb up ahead, we all do."
-    "Leo's turns his head in the direction of something on the curb up ahead, we all do."
+    "@@@Leo's turns his head in the direction of something on the curb up ahead, we all do."
 
-# game/Flynn-Thursday.rpy:11486
+# game/Flynn-Thursday.rpy:11492
 translate Schinese flynnsunday_e15910d5:
 
     # l "\"What is that?\""
-    l "\"What is that?\""
+    l "@@@\"What is that?\""
 
-# game/Flynn-Thursday.rpy:11487
+# game/Flynn-Thursday.rpy:11493
 translate Schinese flynnsunday_d7a0a74f:
 
     # t "\"Oh my gosh...\""
-    t "\"Oh my gosh...\""
+    t "@@@\"Oh my gosh...\""
 
-# game/Flynn-Thursday.rpy:11488
+# game/Flynn-Thursday.rpy:11494
 translate Schinese flynnsunday_179acf05:
 
     # "TJ covers his mouth, Carl sits up straight, trying to see."
-    "TJ covers his mouth, Carl sits up straight, trying to see."
+    "@@@TJ covers his mouth, Carl sits up straight, trying to see."
 
-# game/Flynn-Thursday.rpy:11489
+# game/Flynn-Thursday.rpy:11495
 translate Schinese flynnsunday_e90e106b:
 
     # "Leo slows down as we pass."
-    "Leo slows down as we pass."
+    "@@@Leo slows down as we pass."
 
-# game/Flynn-Thursday.rpy:11490
+# game/Flynn-Thursday.rpy:11496
 translate Schinese flynnsunday_5b8a6ad9:
 
     # "There's Chase's car, all of the windows shattered."
-    "There's Chase's car, all of the windows shattered."
+    "@@@There's Chase's car, all of the windows shattered."
 
-# game/Flynn-Thursday.rpy:11491
+# game/Flynn-Thursday.rpy:11497
 translate Schinese flynnsunday_70e0606f:
 
     # "And there's Duke, lying a dozen feet away from the open door of the driver's side."
-    "And there's Duke, lying a dozen feet away from the open door of the driver's side."
+    "@@@And there's Duke, lying a dozen feet away from the open door of the driver's side."
 
-# game/Flynn-Thursday.rpy:11492
+# game/Flynn-Thursday.rpy:11498
 translate Schinese flynnsunday_255059ee:
 
     # "And there, crouching over him, is something I can't explain."
-    "And there, crouching over him, is something I can't explain."
+    "@@@And there, crouching over him, is something I can't explain."
 
-# game/Flynn-Thursday.rpy:11493
+# game/Flynn-Thursday.rpy:11500
 translate Schinese flynnsunday_119fe033:
 
     # "Hairless, body and limbs long."
-    "Hairless, body and limbs long."
+    "@@@Hairless, body and limbs long."
 
-# game/Flynn-Thursday.rpy:11494
+# game/Flynn-Thursday.rpy:11501
 translate Schinese flynnsunday_c211935b:
 
     # "Way too long."
-    "Way too long."
+    "@@@Way too long."
 
-# game/Flynn-Thursday.rpy:11495
+# game/Flynn-Thursday.rpy:11502
 translate Schinese flynnsunday_1e51367f:
 
     # "The head comes up and all I see are three holes and blood."
-    "The head comes up and all I see are three holes and blood."
+    "@@@The head comes up and all I see are three holes and blood."
 
-# game/Flynn-Thursday.rpy:11496
+# game/Flynn-Thursday.rpy:11503
 translate Schinese flynnsunday_07c61fe2:
 
     # "TJ screams next to me and Leo shouts something before stepping on the gas, slamming me back into my seat."
-    "TJ screams next to me and Leo shouts something before stepping on the gas, slamming me back into my seat."
+    "@@@TJ screams next to me and Leo shouts something before stepping on the gas, slamming me back into my seat."
 
-# game/Flynn-Thursday.rpy:11497
+# game/Flynn-Thursday.rpy:11505
 translate Schinese flynnsunday_e26ca5da:
 
     # "I try to look back, but whatever it was is gone."
-    "I try to look back, but whatever it was is gone."
+    "@@@I try to look back, but whatever it was is gone."
 
-# game/Flynn-Thursday.rpy:11498
+# game/Flynn-Thursday.rpy:11506
 translate Schinese flynnsunday_63cd7fe1:
 
     # "At least.. it's gone from where it was, because I see something move next to my window, and I turn to face it..."
-    "At least.. it's gone from where it was, because I see something move next to my window, and I turn to face it..."
+    "@@@At least.. it's gone from where it was, because I see something move next to my window, and I turn to face it..."
 
-# game/Flynn-Thursday.rpy:11499
+# game/Flynn-Thursday.rpy:11507
 translate Schinese flynnsunday_01074ca6:
 
     # "And it stares back at me."
-    "And it stares back at me."
+    "@@@And it stares back at me."
 
-# game/Flynn-Thursday.rpy:11500
+# game/Flynn-Thursday.rpy:11508
 translate Schinese flynnsunday_e93430a6:
 
     # "But only for a moment."
-    "But only for a moment."
+    "@@@But only for a moment."
 
-# game/Flynn-Thursday.rpy:11501
+# game/Flynn-Thursday.rpy:11509
 translate Schinese flynnsunday_e6784299:
 
     # "That.. thing, whatever the fuck it is, disappears almost the instant I register that it's there."
-    "That.. thing, whatever the fuck it is, disappears almost the instant I register that it's there."
+    "@@@That.. thing, whatever the fuck it is, disappears almost the instant I register that it's there."
 
-# game/Flynn-Thursday.rpy:11502
+# game/Flynn-Thursday.rpy:11510
 translate Schinese flynnsunday_f55585fd:
 
     # "I'm only staring out into the blackness of the desert."
-    "I'm only staring out into the blackness of the desert."
+    "@@@I'm only staring out into the blackness of the desert."
 
-# game/Flynn-Thursday.rpy:11503
+# game/Flynn-Thursday.rpy:11511
 translate Schinese flynnsunday_a2a17239:
 
     # "Still, three holes; eyes, and a mouth, blink back at me in a sort of afterimage before that too vanishes."
-    "Still, three holes; eyes, and a mouth, blink back at me in a sort of afterimage before that too vanishes."
+    "@@@Still, three holes; eyes, and a mouth, blink back at me in a sort of afterimage before that too vanishes."
 
-# game/Flynn-Thursday.rpy:11504
+# game/Flynn-Thursday.rpy:11512
 translate Schinese flynnsunday_d43a5609:
 
     # t "\"It's him, it's him, it's him, it's him!!\""
-    t "\"It's him, it's him, it's him, it's him!!\""
+    t "@@@\"It's him, it's him, it's him, it's him!!\""
 
-# game/Flynn-Thursday.rpy:11505
+# game/Flynn-Thursday.rpy:11513
 translate Schinese flynnsunday_2c5046d9:
 
     # "TJ reaches up and grabs my arm, claws out."
-    "TJ reaches up and grabs my arm, claws out."
+    "@@@TJ reaches up and grabs my arm, claws out."
 
-# game/Flynn-Thursday.rpy:11506
+# game/Flynn-Thursday.rpy:11514
 translate Schinese flynnsunday_a0ce8ff4:
 
     # "I'm too shocked to even pull away as TJ leans forward next to me, staring out my window."
-    "I'm too shocked to even pull away as TJ leans forward next to me, staring out my window."
+    "@@@I'm too shocked to even pull away as TJ leans forward next to me, staring out my window."
 
-# game/Flynn-Thursday.rpy:11507
+# game/Flynn-Thursday.rpy:11515
 translate Schinese flynnsunday_1ae89b67:
 
     # "At least I know I'm not the only one that saw it."
-    "At least I know I'm not the only one that saw it."
+    "@@@At least I know I'm not the only one that saw it."
 
-# game/Flynn-Thursday.rpy:11508
+# game/Flynn-Thursday.rpy:11516
 translate Schinese flynnsunday_d735ade9:
 
     # "TJ squeaks again when no one answers him."
-    "TJ squeaks again when no one answers him."
+    "@@@TJ squeaks again when no one answers him."
 
-# game/Flynn-Thursday.rpy:11509
+# game/Flynn-Thursday.rpy:11517
 translate Schinese flynnsunday_001324b8:
 
     # t "\"It's real!?\""
-    t "\"It's real!?\""
+    t "@@@\"It's real!?\""
 
-# game/Flynn-Thursday.rpy:11510
+# game/Flynn-Thursday.rpy:11518
 translate Schinese flynnsunday_49a6ae55:
 
     # c "\"I dunno. S-some kind of animal, maybe?\""
-    c "\"I dunno. S-some kind of animal, maybe?\""
+    c "@@@\"I dunno. S-some kind of animal, maybe?\""
 
-# game/Flynn-Thursday.rpy:11511
+# game/Flynn-Thursday.rpy:11519
 translate Schinese flynnsunday_e8c208cc:
 
     # m "\"I've never seen anything like that before.\""
-    m "\"I've never seen anything like that before.\""
+    m "@@@\"I've never seen anything like that before.\""
 
-# game/Flynn-Thursday.rpy:11512
+# game/Flynn-Thursday.rpy:11520
 translate Schinese flynnsunday_512ec9fe:
 
     # c "\"Dude could have.. had a disease? Lost all of it's fur, or something, maybe Duke hit it.\""
-    c "\"Dude could have.. had a disease? Lost all of it's fur, or something, maybe Duke hit it.\""
+    c "@@@\"Dude could have.. had a disease? Lost all of it's fur, or something, maybe Duke hit it.\""
 
-# game/Flynn-Thursday.rpy:11513
+# game/Flynn-Thursday.rpy:11521
 translate Schinese flynnsunday_46f980dd:
 
     # t "\"But it was WALKING!\""
-    t "\"But it was WALKING!\""
+    t "@@@\"But it was WALKING!\""
 
-# game/Flynn-Thursday.rpy:11514
+# game/Flynn-Thursday.rpy:11522
 translate Schinese flynnsunday_437d47c3:
 
     # t "\"How is Duke here?! He was back at City Hall!\""
-    t "\"How is Duke here?! He was back at City Hall!\""
+    t "@@@\"How is Duke here?! He was back at City Hall!\""
 
-# game/Flynn-Thursday.rpy:11515
+# game/Flynn-Thursday.rpy:11523
 translate Schinese flynnsunday_b39b48f8:
 
     # c "\"Maybe it.. dragged him?\""
-    c "\"Maybe it.. dragged him?\""
+    c "@@@\"Maybe it.. dragged him?\""
 
-# game/Flynn-Thursday.rpy:11516
+# game/Flynn-Thursday.rpy:11524
 translate Schinese flynnsunday_e7feda16:
 
     # t "\"Faster than our car!? How'd he get Chase's Car?!\""
-    t "\"Faster than our car!? How'd he get Chase's Car?!\""
+    t "@@@\"Faster than our car!? How'd he get Chase's Car?!\""
 
-# game/Flynn-Thursday.rpy:11517
+# game/Flynn-Thursday.rpy:11525
 translate Schinese flynnsunday_6f878fb9:
 
     # m "\"I.. still have my keys on me! That's impossible!\""
-    m "\"I.. still have my keys on me! That's impossible!\""
+    m "@@@\"I.. still have my keys on me! That's impossible!\""
 
-# game/Flynn-Thursday.rpy:11518
+# game/Flynn-Thursday.rpy:11526
 translate Schinese flynnsunday_534ad51d:
 
     # c "\"Could've hotwired it, I don't know, man!\""
-    c "\"Could've hotwired it, I don't know, man!\""
+    c "@@@\"Could've hotwired it, I don't know, man!\""
 
-# game/Flynn-Thursday.rpy:11519
+# game/Flynn-Thursday.rpy:11527
 translate Schinese flynnsunday_44b6beb7:
 
     # "TJ leans back, looping his arm around Carl's, and I can see him shaking."
-    "TJ leans back, looping his arm around Carl's, and I can see him shaking."
+    "@@@TJ leans back, looping his arm around Carl's, and I can see him shaking."
 
-# game/Flynn-Thursday.rpy:11520
+# game/Flynn-Thursday.rpy:11528
 translate Schinese flynnsunday_32a1d761:
 
     # "I look over my shoulder, through the back window."
-    "I look over my shoulder, through the back window."
+    "@@@I look over my shoulder, through the back window."
 
-# game/Flynn-Thursday.rpy:11521
+# game/Flynn-Thursday.rpy:11529
 translate Schinese flynnsunday_838e5c66:
 
     # "Jesus fuck, just like Dax described."
-    "Jesus fuck, just like Dax described."
+    "@@@Jesus fuck, just like Dax described."
 
-# game/Flynn-Thursday.rpy:11522
+# game/Flynn-Thursday.rpy:11530
 translate Schinese flynnsunday_e8e2d411:
 
     # da "\"There! We've all seen it!\""
-    da "\"There! We've all seen it!\""
+    da "@@@\"There! We've all seen it!\""
 
-# game/Flynn-Thursday.rpy:11523
+# game/Flynn-Thursday.rpy:11531
 translate Schinese flynnsunday_eabbcf79:
 
     # j "\"It's.. how I remember, but I don't remember it ever moving that fast.\""
-    j "\"It's.. how I remember, but I don't remember it ever moving that fast.\""
+    j "@@@\"It's.. how I remember, but I don't remember it ever moving that fast.\""
 
-# game/Flynn-Thursday.rpy:11524
+# game/Flynn-Thursday.rpy:11532
 translate Schinese flynnsunday_aae552ba:
 
     # j "\"Or with, y'know, blood.\""
-    j "\"Or with, y'know, blood.\""
+    j "@@@\"Or with, y'know, blood.\""
 
-# game/Flynn-Thursday.rpy:11525
+# game/Flynn-Thursday.rpy:11533
 translate Schinese flynnsunday_751effbc:
 
     # "Jenna wrings her paws together, speaking quietly."
-    "Jenna wrings her paws together, speaking quietly."
+    "@@@Jenna wrings her paws together, speaking quietly."
 
-# game/Flynn-Thursday.rpy:11526
+# game/Flynn-Thursday.rpy:11534
 translate Schinese flynnsunday_340dfe1a:
 
     # "Her tone is thoughtful and worried, as if she's trying to rationalize this all to herself."
-    "Her tone is thoughtful and worried, as if she's trying to rationalize this all to herself."
+    "@@@Her tone is thoughtful and worried, as if she's trying to rationalize this all to herself."
 
-# game/Flynn-Thursday.rpy:11527
+# game/Flynn-Thursday.rpy:11535
 translate Schinese flynnsunday_13e4c405:
 
     # f "\"Fuck, that's what got Salem, isn't it?\""
-    f "\"Fuck, that's what got Salem, isn't it?\""
+    f "@@@\"Fuck, that's what got Salem, isn't it?\""
 
-# game/Flynn-Thursday.rpy:11528
+# game/Flynn-Thursday.rpy:11536
 translate Schinese flynnsunday_05ddcf80:
 
     # f "\"Jesus, don't fuckin' take your foot off the gas, Leo.\""
-    f "\"Jesus, don't fuckin' take your foot off the gas, Leo.\""
+    f "@@@\"Jesus, don't fuckin' take your foot off the gas, Leo.\""
 
-# game/Flynn-Thursday.rpy:11529
+# game/Flynn-Thursday.rpy:11537
 translate Schinese flynnsunday_1b3f0645:
 
     # "Leo doesn't respond, staring hard ahead."
-    "Leo doesn't respond, staring hard ahead."
+    "@@@Leo doesn't respond, staring hard ahead."
 
-# game/Flynn-Thursday.rpy:11530
+# game/Flynn-Thursday.rpy:11538
 translate Schinese flynnsunday_761cf5e3:
 
     # "He's squeezing on the wheel so hard, it looks like it's bending."
-    "He's squeezing on the wheel so hard, it looks like it's bending."
+    "@@@He's squeezing on the wheel so hard, it looks like it's bending."
 
-# game/Flynn-Thursday.rpy:11531
+# game/Flynn-Thursday.rpy:11539
 translate Schinese flynnsunday_54b55c59:
 
     # "I pull back the hammer on the repeater, holding the rifle across my chest with barrel pointed toward the window."
-    "I pull back the hammer on the repeater, holding the rifle across my chest with barrel pointed toward the window."
+    "@@@I pull back the hammer on the repeater, holding the rifle across my chest with barrel pointed toward the window."
 
-# game/Flynn-Thursday.rpy:11532
+# game/Flynn-Thursday.rpy:11540
 translate Schinese flynnsunday_bf3ab3d5:
 
     # "I remember Duke's pistol that I stowed in the car door holder earlier."
-    "I remember Duke's pistol that I stowed in the car door holder earlier."
+    "@@@I remember Duke's pistol that I stowed in the car door holder earlier."
 
-# game/Flynn-Thursday.rpy:11533
+# game/Flynn-Thursday.rpy:11541
 translate Schinese flynnsunday_e2c31d97:
 
     # "I grab it and toss it in the back seat."
-    "I grab it and toss it in the back seat."
+    "@@@I grab it and toss it in the back seat."
 
-# game/Flynn-Thursday.rpy:11534
+# game/Flynn-Thursday.rpy:11542
 translate Schinese flynnsunday_1a897ff7:
 
     # "Jenna grabs it without hesitation, aiming out the opposite side."
-    "Jenna grabs it without hesitation, aiming out the opposite side."
+    "@@@Jenna grabs it without hesitation, aiming out the opposite side."
 
-# game/Flynn-Thursday.rpy:11535
+# game/Flynn-Thursday.rpy:11543
 translate Schinese flynnsunday_56a6d28b:
 
     # da "\"This is friggen nuts.\""
-    da "\"This is friggen nuts.\""
+    da "@@@\"This is friggen nuts.\""
 
-# game/Flynn-Thursday.rpy:11538
+# game/Flynn-Thursday.rpy:11546
 translate Schinese flynnsunday_5cf84f4c:
 
     # "At this point Chase's car is a good distance away, only visible because the headlights are on, a streak of light fading out across the desert."
-    "At this point Chase's car is a good distance away, only visible because the headlights are on, a streak of light fading out across the desert."
+    "@@@At this point Chase's car is a good distance away, only visible because the headlights are on, a streak of light fading out across the desert."
 
-# game/Flynn-Thursday.rpy:11539
+# game/Flynn-Thursday.rpy:11547
 translate Schinese flynnsunday_b2a6878c:
 
     # m "\"Duke's dead, isn't he—\""
-    m "\"Duke's dead, isn't he—\""
+    m "@@@\"Duke's dead, isn't he—\""
 
-# game/Flynn-Thursday.rpy:11540
+# game/Flynn-Thursday.rpy:11548
 translate Schinese flynnsunday_8fc40576:
 
     # c "\"Bluuuuurgh...\""
-    c "\"Bluuuuurgh...\""
+    c "@@@\"Bluuuuurgh...\""
 
-# game/Flynn-Thursday.rpy:11541
+# game/Flynn-Thursday.rpy:11549
 translate Schinese flynnsunday_79e451d0:
 
     # "Some dry retching noises followed by heavy splattering sounds cuts me off."
-    "Some dry retching noises followed by heavy splattering sounds cuts me off."
+    "@@@Some dry retching noises followed by heavy splattering sounds cuts me off."
 
-# game/Flynn-Thursday.rpy:11542
+# game/Flynn-Thursday.rpy:11550
 translate Schinese flynnsunday_2ce15a6c:
 
     # "Carl is hunched over in the seat, head between his legs."
-    "Carl is hunched over in the seat, head between his legs."
+    "@@@Carl is hunched over in the seat, head between his legs."
 
-# game/Flynn-Thursday.rpy:11543
+# game/Flynn-Thursday.rpy:11551
 translate Schinese flynnsunday_bccfb373:
 
     # "It isn't hard to figure out what just happened, especially when the smell hits me."
-    "It isn't hard to figure out what just happened, especially when the smell hits me."
+    "@@@It isn't hard to figure out what just happened, especially when the smell hits me."
 
-# game/Flynn-Thursday.rpy:11544
+# game/Flynn-Thursday.rpy:11552
 translate Schinese flynnsunday_11103c73:
 
     # t "\"Oh my gosh! Carl!\""
-    t "\"Oh my gosh! Carl!\""
+    t "@@@\"Oh my gosh! Carl!\""
 
-# game/Flynn-Thursday.rpy:11545
+# game/Flynn-Thursday.rpy:11553
 translate Schinese flynnsunday_8c870ad3:
 
     # "TJ looks torn between blanching away and comforting the ram."
-    "TJ looks torn between blanching away and comforting the ram."
+    "@@@TJ looks torn between blanching away and comforting the ram."
 
-# game/Flynn-Thursday.rpy:11546
+# game/Flynn-Thursday.rpy:11554
 translate Schinese flynnsunday_2fd2d376:
 
     # "Carl comes back up, looking like he's about to say something before diving forward again."
-    "Carl comes back up, looking like he's about to say something before diving forward again."
+    "@@@Carl comes back up, looking like he's about to say something before diving forward again."
 
-# game/Flynn-Thursday.rpy:11547
+# game/Flynn-Thursday.rpy:11555
 translate Schinese flynnsunday_fafc00a8:
 
     # "A much louder retch, followed by a much quieter plopping sound follows."
-    "A much louder retch, followed by a much quieter plopping sound follows."
+    "@@@A much louder retch, followed by a much quieter plopping sound follows."
 
-# game/Flynn-Thursday.rpy:11548
+# game/Flynn-Thursday.rpy:11556
 translate Schinese flynnsunday_c7a4c92e:
 
     # "I grimace, feeling my own stomach roll."
-    "I grimace, feeling my own stomach roll."
+    "@@@I grimace, feeling my own stomach roll."
 
-# game/Flynn-Thursday.rpy:11549
+# game/Flynn-Thursday.rpy:11557
 translate Schinese flynnsunday_21d52f03:
 
     # da "\"God...\""
-    da "\"God...\""
+    da "@@@\"God...\""
 
-# game/Flynn-Thursday.rpy:11550
+# game/Flynn-Thursday.rpy:11558
 translate Schinese flynnsunday_49ea976a:
 
     # "Daxton's looking up at them, a paw up to his nose."
-    "Daxton's looking up at them, a paw up to his nose."
+    "@@@Daxton's looking up at them, a paw up to his nose."
 
-# game/Flynn-Thursday.rpy:11551
+# game/Flynn-Thursday.rpy:11559
 translate Schinese flynnsunday_be0b3930:
 
     # da "\"You okay, man?\""
-    da "\"You okay, man?\""
+    da "@@@\"You okay, man?\""
 
-# game/Flynn-Thursday.rpy:11552
+# game/Flynn-Thursday.rpy:11560
 translate Schinese flynnsunday_b6f2ef03:
 
     # "Carl keeps his head down a while longer, his fingers twisting into the fabric of his shorts."
-    "Carl keeps his head down a while longer, his fingers twisting into the fabric of his shorts."
+    "@@@Carl keeps his head down a while longer, his fingers twisting into the fabric of his shorts."
 
-# game/Flynn-Thursday.rpy:11553
+# game/Flynn-Thursday.rpy:11561
 translate Schinese flynnsunday_fd33264f:
 
     # "TJ tentatively rubs his back."
-    "TJ tentatively rubs his back."
+    "@@@TJ tentatively rubs his back."
 
-# game/Flynn-Thursday.rpy:11554
+# game/Flynn-Thursday.rpy:11562
 translate Schinese flynnsunday_b788dd8b:
 
     # c "\"I.. I would have done it out the window...I don't wanna open any of the windows now, though.\""
-    c "\"I.. I would have done it out the window...I don't wanna open any of the windows now, though.\""
+    c "@@@\"I.. I would have done it out the window...I don't wanna open any of the windows now, though.\""
 
-# game/Flynn-Thursday.rpy:11555
+# game/Flynn-Thursday.rpy:11563
 translate Schinese flynnsunday_cf2fd30c:
 
     # t "\"It's okay. Leo, are there any napkins up there?\""
-    t "\"It's okay. Leo, are there any napkins up there?\""
+    t "@@@\"It's okay. Leo, are there any napkins up there?\""
 
-# game/Flynn-Thursday.rpy:11556
+# game/Flynn-Thursday.rpy:11564
 translate Schinese flynnsunday_b45fbc79:
 
     # "Leo, who's been silent up until now, remains silent."
-    "Leo, who's been silent up until now, remains silent."
+    "@@@Leo, who's been silent up until now, remains silent."
 
-# game/Flynn-Thursday.rpy:11557
+# game/Flynn-Thursday.rpy:11565
 translate Schinese flynnsunday_acc6e91b:
 
     # "He's staring out the windshield hard, paws on the wheel in a death grip."
-    "He's staring out the windshield hard, paws on the wheel in a death grip."
+    "@@@He's staring out the windshield hard, paws on the wheel in a death grip."
 
-# game/Flynn-Thursday.rpy:11558
+# game/Flynn-Thursday.rpy:11566
 translate Schinese flynnsunday_6d4d3d65:
 
     # "Chase, meanwhile, is clutching at his chest - his eyes red and bleary."
-    "Chase, meanwhile, is clutching at his chest - his eyes red and bleary."
+    "@@@Chase, meanwhile, is clutching at his chest - his eyes red and bleary."
 
-# game/Flynn-Thursday.rpy:11559
+# game/Flynn-Thursday.rpy:11567
 translate Schinese flynnsunday_1c925f3c:
 
     # "He leans forward, and the sound of something wet hitting the fabric floormat is audible throughout the cabin."
-    "He leans forward, and the sound of something wet hitting the fabric floormat is audible throughout the cabin."
+    "@@@He leans forward, and the sound of something wet hitting the fabric floormat is audible throughout the cabin."
 
-# game/Flynn-Thursday.rpy:11560
+# game/Flynn-Thursday.rpy:11568
 translate Schinese flynnsunday_79f62898:
 
     # "Chase's puke sounds much less wet than Carl's, the retches more grotesque - I can practically feel the bile in my own esophagus."
-    "Chase's puke sounds much less wet than Carl's, the retches more grotesque - I can practically feel the bile in my own esophagus."
+    "@@@Chase's puke sounds much less wet than Carl's, the retches more grotesque - I can practically feel the bile in my own esophagus."
 
-# game/Flynn-Thursday.rpy:11561
+# game/Flynn-Thursday.rpy:11569
 translate Schinese flynnsunday_aec93f82:
 
     # "Daxton stops what he's doing and holds Chase."
-    "Daxton stops what he's doing and holds Chase."
+    "@@@Daxton stops what he's doing and holds Chase."
 
-# game/Flynn-Thursday.rpy:11562
+# game/Flynn-Thursday.rpy:11570
 translate Schinese flynnsunday_ccda7581:
 
     # m "\"Fuuuuuck!\""
-    m "\"Fuuuuuck!\""
+    m "@@@\"Fuuuuuck!\""
 
-# game/Flynn-Thursday.rpy:11563
+# game/Flynn-Thursday.rpy:11571
 translate Schinese flynnsunday_9c927bf0:
 
     # "The otter manages to exclaim in between the bouts of puking."
-    "The otter manages to exclaim in between the bouts of puking."
+    "@@@The otter manages to exclaim in between the bouts of puking."
 
-# game/Flynn-Thursday.rpy:11564
+# game/Flynn-Thursday.rpy:11572
 translate Schinese flynnsunday_5b37b7fa:
 
     # da "\"Drink some water!\""
-    da "\"Drink some water!\""
+    da "@@@\"Drink some water!\""
 
-# game/Flynn-Thursday.rpy:11566
+# game/Flynn-Thursday.rpy:11574
 translate Schinese flynnsunday_9ec8b505:
 
     # "During all this, I'm still glancing out the windows."
-    "During all this, I'm still glancing out the windows."
+    "@@@During all this, I'm still glancing out the windows."
 
-# game/Flynn-Thursday.rpy:11567
+# game/Flynn-Thursday.rpy:11575
 translate Schinese flynnsunday_d63a16e5:
 
     # "Not head-on, though, because I'm honestly fucking terrified I'm going to look straight into those eyes again."
-    "Not head-on, though, because I'm honestly fucking terrified I'm going to look straight into those eyes again."
+    "@@@Not head-on, though, because I'm honestly fucking terrified I'm going to look straight into those eyes again."
 
-# game/Flynn-Thursday.rpy:11568
+# game/Flynn-Thursday.rpy:11576
 translate Schinese flynnsunday_532e882b:
 
     # "We drive in silence for the next five minutes with no creature in sight, thankfully."
-    "We drive in silence for the next five minutes with no creature in sight, thankfully."
+    "@@@We drive in silence for the next five minutes with no creature in sight, thankfully."
 
-# game/Flynn-Thursday.rpy:11569
+# game/Flynn-Thursday.rpy:11577
 translate Schinese flynnsunday_bcd6777a:
 
     # "But I don't know what to think right now."
-    "But I don't know what to think right now."
+    "@@@But I don't know what to think right now."
 
-# game/Flynn-Thursday.rpy:11570
+# game/Flynn-Thursday.rpy:11578
 translate Schinese flynnsunday_70ea5633:
 
     # "There's no way what I saw was some \"animal\" like Carl implied."
-    "There's no way what I saw was some \"animal\" like Carl implied."
+    "@@@There's no way what I saw was some \"animal\" like Carl implied."
 
-# game/Flynn-Thursday.rpy:11571
+# game/Flynn-Thursday.rpy:11579
 translate Schinese flynnsunday_f82246bf:
 
     # "The way it moved, the way it was crouched, and most of all, its face..."
-    "The way it moved, the way it was crouched, and most of all, its face..."
+    "@@@The way it moved, the way it was crouched, and most of all, its face..."
 
-# game/Flynn-Thursday.rpy:11572
+# game/Flynn-Thursday.rpy:11580
 translate Schinese flynnsunday_29c552c5:
 
     # "I've never seen anything like it, at least anything that's not a Halloween costume."
-    "I've never seen anything like it, at least anything that's not a Halloween costume."
+    "@@@I've never seen anything like it, at least anything that's not a Halloween costume."
 
-# game/Flynn-Thursday.rpy:11573
+# game/Flynn-Thursday.rpy:11581
 translate Schinese flynnsunday_ba365602:
 
     # "Maybe.. maybe one of the locals dressed up in a costume, or something?"
-    "Maybe.. maybe one of the locals dressed up in a costume, or something?"
+    "@@@Maybe.. maybe one of the locals dressed up in a costume, or something?"
 
-# game/Flynn-Thursday.rpy:11574
+# game/Flynn-Thursday.rpy:11582
 translate Schinese flynnsunday_59cb2d36:
 
     # "Is this some sorta shitty prank show, like that one on the science fiction channel?"
-    "Is this some sorta shitty prank show, like that one on the science fiction channel?"
+    "@@@Is this some sorta shitty prank show, like that one on the science fiction channel?"
 
-# game/Flynn-Thursday.rpy:11575
+# game/Flynn-Thursday.rpy:11583
 translate Schinese flynnsunday_6edd9c6e:
 
     # "But then how the fuck did it keep up with the car?"
-    "But then how the fuck did it keep up with the car?"
+    "@@@But then how the fuck did it keep up with the car?"
 
-# game/Flynn-Thursday.rpy:11576
+# game/Flynn-Thursday.rpy:11584
 translate Schinese flynnsunday_0bb29703:
 
     # "Were we going that fast?"
-    "Were we going that fast?"
+    "@@@Were we going that fast?"
 
-# game/Flynn-Thursday.rpy:11577
+# game/Flynn-Thursday.rpy:11585
 translate Schinese flynnsunday_c0ccfe20:
 
     # "Leo did slow down a little."
-    "Leo did slow down a little."
+    "@@@Leo did slow down a little."
 
-# game/Flynn-Thursday.rpy:11578
+# game/Flynn-Thursday.rpy:11586
 translate Schinese flynnsunday_6b16cf08:
 
     # "I keep these thoughts to myself."
-    "I keep these thoughts to myself."
+    "@@@I keep these thoughts to myself."
 
-# game/Flynn-Thursday.rpy:11579
+# game/Flynn-Thursday.rpy:11587
 translate Schinese flynnsunday_ca6d0e8e:
 
     # "Everyone looks freaked out enough without any more speculation."
-    "Everyone looks freaked out enough without any more speculation."
+    "@@@Everyone looks freaked out enough without any more speculation."
 
-# game/Flynn-Thursday.rpy:11580
+# game/Flynn-Thursday.rpy:11588
 translate Schinese flynnsunday_1f4b8229:
 
     # "I feel trapped, like I'm stuck in a metal box I can barely move in, with a gun I can't aim."
-    "I feel trapped, like I'm stuck in a metal box I can barely move in, with a gun I can't aim."
+    "@@@I feel trapped, like I'm stuck in a metal box I can barely move in, with a gun I can't aim."
 
-# game/Flynn-Thursday.rpy:11581
+# game/Flynn-Thursday.rpy:11589
 translate Schinese flynnsunday_6733eb7e:
 
     # "If this thing can outrun and rip at cars, nothing is safe."
-    "If this thing can outrun and rip at cars, nothing is safe."
+    "@@@If this thing can outrun and rip at cars, nothing is safe."
 
-# game/Flynn-Thursday.rpy:11582
+# game/Flynn-Thursday.rpy:11590
 translate Schinese flynnsunday_ec14f39d:
 
     # "I just have to focus."
-    "I just have to focus."
+    "@@@I just have to focus."
 
-# game/Flynn-Thursday.rpy:11583
+# game/Flynn-Thursday.rpy:11591
 translate Schinese flynnsunday_52de681e:
 
     # "We're on our way out, and soon I'll be safe in a clinic, police station, or an applauding audience surrounded by a shit ton of cameras."
-    "We're on our way out, and soon I'll be safe in a clinic, police station, or an applauding audience surrounded by a shit ton of cameras."
+    "@@@We're on our way out, and soon I'll be safe in a clinic, police station, or an applauding audience surrounded by a shit ton of cameras."
 
-# game/Flynn-Thursday.rpy:11584
+# game/Flynn-Thursday.rpy:11592
 translate Schinese flynnsunday_d1fb6bc1:
 
     # "If it's the latter, I'm decking the first fucker that comes out with a microphone."
-    "If it's the latter, I'm decking the first fucker that comes out with a microphone."
+    "@@@If it's the latter, I'm decking the first fucker that comes out with a microphone."
 
-# game/Flynn-Thursday.rpy:11585
+# game/Flynn-Thursday.rpy:11593
 translate Schinese flynnsunday_41a9fea9:
 
     # "I try not to think about Duke by the car, Salem on the blanket, my aunt out there trying to keep everyone safe.."
-    "I try not to think about Duke by the car, Salem on the blanket, my aunt out there trying to keep everyone safe.."
+    "@@@I try not to think about Duke by the car, Salem on the blanket, my aunt out there trying to keep everyone safe.."
 
-# game/Flynn-Thursday.rpy:11586
+# game/Flynn-Thursday.rpy:11594
 translate Schinese flynnsunday_85d2cbc5:
 
     # "...with that thing."
-    "...with that thing."
+    "@@@...with that thing."
 
-# game/Flynn-Thursday.rpy:11587
+# game/Flynn-Thursday.rpy:11595
 translate Schinese flynnsunday_6a2124c7:
 
     # "I shake my head, trying to stay watch for any sign of movement."
-    "I shake my head, trying to stay watch for any sign of movement."
+    "@@@I shake my head, trying to stay watch for any sign of movement."
 
-# game/Flynn-Thursday.rpy:11588
+# game/Flynn-Thursday.rpy:11596
 translate Schinese flynnsunday_8b6d79e6:
 
     # t "\"Are you okay, Chase?\""
-    t "\"Are you okay, Chase?\""
+    t "@@@\"Are you okay, Chase?\""
 
-# game/Flynn-Thursday.rpy:11589
+# game/Flynn-Thursday.rpy:11597
 translate Schinese flynnsunday_e5402972:
 
     # "TJ's arm is still around Carl's, the lynx craning his neck to peer back at the hunched over otter."
-    "TJ's arm is still around Carl's, the lynx craning his neck to peer back at the hunched over otter."
+    "@@@TJ's arm is still around Carl's, the lynx craning his neck to peer back at the hunched over otter."
 
-# game/Flynn-Thursday.rpy:11590
+# game/Flynn-Thursday.rpy:11598
 translate Schinese flynnsunday_b7780a98:
 
     # m "\"I've never.. been so friggen scared in my life, but yeah, okay.\""
-    m "\"I've never.. been so friggen scared in my life, but yeah, okay.\""
+    m "@@@\"I've never.. been so friggen scared in my life, but yeah, okay.\""
 
-# game/Flynn-Thursday.rpy:11591
+# game/Flynn-Thursday.rpy:11599
 translate Schinese flynnsunday_6a83e22c:
 
     # "Chase grasps at his throat and neck, wincing heavily."
-    "Chase grasps at his throat and neck, wincing heavily."
+    "@@@Chase grasps at his throat and neck, wincing heavily."
 
-# game/Flynn-Thursday.rpy:11592
+# game/Flynn-Thursday.rpy:11600
 translate Schinese flynnsunday_d0bced6a:
 
     # m "\"It's getting.. harder.. to breathe.\""
-    m "\"It's getting.. harder.. to breathe.\""
+    m "@@@\"It's getting.. harder.. to breathe.\""
 
-# game/Flynn-Thursday.rpy:11593
+# game/Flynn-Thursday.rpy:11601
 translate Schinese flynnsunday_9d52f69c:
 
     # da "\"Hold on, Chase...\""
-    da "\"Hold on, Chase...\""
+    da "@@@\"Hold on, Chase...\""
 
-# game/Flynn-Thursday.rpy:11598
+# game/Flynn-Thursday.rpy:11606
 translate Schinese flynnsunday_207688ab:
 
     # l "\"No, how can...?\""
-    l "\"No, how can...?\""
+    l "@@@\"No, how can...?\""
 
-# game/Flynn-Thursday.rpy:11599
+# game/Flynn-Thursday.rpy:11607
 translate Schinese flynnsunday_ef11b31d:
 
     # l "\"...\""
-    l "\"...\""
+    l "@@@\"...\""
 
-# game/Flynn-Thursday.rpy:11600
+# game/Flynn-Thursday.rpy:11608
 translate Schinese flynnsunday_f5a06d74:
 
     # l "\"What?\""
-    l "\"What?\""
+    l "@@@\"What?\""
 
-# game/Flynn-Thursday.rpy:11602
+# game/Flynn-Thursday.rpy:11610
 translate Schinese flynnsunday_1489fbe9:
 
     # "The car lurches as Leo slows us down again."
-    "The car lurches as Leo slows us down again."
+    "@@@The car lurches as Leo slows us down again."
 
-# game/Flynn-Thursday.rpy:11603
+# game/Flynn-Thursday.rpy:11611
 translate Schinese flynnsunday_854fb35d:
 
     # "I squint my eyes, attempting to peer past the glare of the headlights' reach and into the darkness beyond."
-    "I squint my eyes, attempting to peer past the glare of the headlights' reach and into the darkness beyond."
+    "@@@I squint my eyes, attempting to peer past the glare of the headlights' reach and into the darkness beyond."
 
-# game/Flynn-Thursday.rpy:11604
+# game/Flynn-Thursday.rpy:11612
 translate Schinese flynnsunday_70aa36f2:
 
     # "But I don't see anything; just the road stretching ahead of us."
-    "But I don't see anything; just the road stretching ahead of us."
+    "@@@But I don't see anything; just the road stretching ahead of us."
 
-# game/Flynn-Thursday.rpy:11605
+# game/Flynn-Thursday.rpy:11613
 translate Schinese flynnsunday_f2269a6e:
 
     # "From the back seat, Chase's croaking, high-pitched voice pipes up."
-    "From the back seat, Chase's croaking, high-pitched voice pipes up."
+    "@@@From the back seat, Chase's croaking, high-pitched voice pipes up."
 
-# game/Flynn-Thursday.rpy:11606
+# game/Flynn-Thursday.rpy:11614
 translate Schinese flynnsunday_3c6a4d52:
 
     # m "\"What's wrong?\""
-    m "\"What's wrong?\""
+    m "@@@\"What's wrong?\""
 
-# game/Flynn-Thursday.rpy:11607
+# game/Flynn-Thursday.rpy:11615
 translate Schinese flynnsunday_1c6e9345:
 
     # "Leo's quiet for a moment."
-    "Leo's quiet for a moment."
+    "@@@Leo's quiet for a moment."
 
-# game/Flynn-Thursday.rpy:11608
+# game/Flynn-Thursday.rpy:11616
 translate Schinese flynnsunday_966b72d9:
 
     # "His face is blank, ears twitching."
-    "His face is blank, ears twitching."
+    "@@@His face is blank, ears twitching."
 
-# game/Flynn-Thursday.rpy:11612
+# game/Flynn-Thursday.rpy:11620
 translate Schinese flynnsunday_5ccbf014:
 
     # l "\"Don't worry about it, Otter.\""
-    l "\"Don't worry about it, Otter.\""
+    l "@@@\"Don't worry about it, Otter.\""
 
-# game/Flynn-Thursday.rpy:11613
+# game/Flynn-Thursday.rpy:11621
 translate Schinese flynnsunday_672515a8:
 
     # l "\"Just a little distracted, that's all.\""
-    l "\"Just a little distracted, that's all.\""
+    l "@@@\"Just a little distracted, that's all.\""
 
-# game/Flynn-Thursday.rpy:11614
+# game/Flynn-Thursday.rpy:11622
 translate Schinese flynnsunday_e4225ecc:
 
     # f "\"That's a fucking understatement.\""
-    f "\"That's a fucking understatement.\""
+    f "@@@\"That's a fucking understatement.\""
 
-# game/Flynn-Thursday.rpy:11615
+# game/Flynn-Thursday.rpy:11623
 translate Schinese flynnsunday_db169d6e:
 
     # t "\"Why'd we stop?\""
-    t "\"Why'd we stop?\""
+    t "@@@\"Why'd we stop?\""
 
-# game/Flynn-Thursday.rpy:11616
+# game/Flynn-Thursday.rpy:11624
 translate Schinese flynnsunday_45974b26:
 
     # "TJ sounds panicked, the lynx turned around in his seat as he stares out the back window."
-    "TJ sounds panicked, the lynx turned around in his seat as he stares out the back window."
+    "@@@TJ sounds panicked, the lynx turned around in his seat as he stares out the back window."
 
-# game/Flynn-Thursday.rpy:11617
+# game/Flynn-Thursday.rpy:11625
 translate Schinese flynnsunday_4046e097:
 
     # "It's the first time I've seen him in a car without his seatbelt on."
-    "It's the first time I've seen him in a car without his seatbelt on."
+    "@@@It's the first time I've seen him in a car without his seatbelt on."
 
-# game/Flynn-Thursday.rpy:11618
+# game/Flynn-Thursday.rpy:11626
 translate Schinese flynnsunday_746f61c5:
 
     # "Leo is silent, his vacant expression contorting to brief flickers of confusion."
-    "Leo is silent, his vacant expression contorting to brief flickers of confusion."
+    "@@@Leo is silent, his vacant expression contorting to brief flickers of confusion."
 
-# game/Flynn-Thursday.rpy:11619
+# game/Flynn-Thursday.rpy:11627
 translate Schinese flynnsunday_ac99de2a:
 
     # "He's looking to the mountains that surround Echo Canyon."
-    "He's looking to the mountains that surround Echo Canyon."
+    "@@@He's looking to the mountains that surround Echo Canyon."
 
-# game/Flynn-Thursday.rpy:11620
+# game/Flynn-Thursday.rpy:11628
 translate Schinese flynnsunday_970700c0:
 
     # j "\"Wait.. I know what you mean.\""
-    j "\"Wait.. I know what you mean.\""
+    j "@@@\"Wait.. I know what you mean.\""
 
-# game/Flynn-Thursday.rpy:11621
+# game/Flynn-Thursday.rpy:11629
 translate Schinese flynnsunday_3a6dc3cb:
 
     # "Jenna scoots forward to the edge of her seat, pointing to something outside."
-    "Jenna scoots forward to the edge of her seat, pointing to something outside."
+    "@@@Jenna scoots forward to the edge of her seat, pointing to something outside."
 
-# game/Flynn-Thursday.rpy:11622
+# game/Flynn-Thursday.rpy:11630
 translate Schinese flynnsunday_0e4bf30a:
 
     # j "\"The hills, those were on our right side a while ago.\""
-    j "\"The hills, those were on our right side a while ago.\""
+    j "@@@\"The hills, those were on our right side a while ago.\""
 
-# game/Flynn-Thursday.rpy:11623
+# game/Flynn-Thursday.rpy:11631
 translate Schinese flynnsunday_1fabe062:
 
     # j "\"We must have looped around.\""
-    j "\"We must have looped around.\""
+    j "@@@\"We must have looped around.\""
 
-# game/Flynn-Thursday.rpy:11624
+# game/Flynn-Thursday.rpy:11632
 translate Schinese flynnsunday_14ab30e7:
 
     # t "\"But we've been going straight this whole time!\""
-    t "\"But we've been going straight this whole time!\""
+    t "@@@\"But we've been going straight this whole time!\""
 
-# game/Flynn-Thursday.rpy:11625
+# game/Flynn-Thursday.rpy:11633
 translate Schinese flynnsunday_f9d36a96:
 
     # j "\"The only way we'd be going back this way is if we got turned around when we hit the main highway.\""
-    j "\"The only way we'd be going back this way is if we got turned around when we hit the main highway.\""
+    j "@@@\"The only way we'd be going back this way is if we got turned around when we hit the main highway.\""
 
-# game/Flynn-Thursday.rpy:11626
+# game/Flynn-Thursday.rpy:11634
 translate Schinese flynnsunday_cd217c32:
 
     # j "\"But we haven't hit the main highway, have we?\""
-    j "\"But we haven't hit the main highway, have we?\""
+    j "@@@\"But we haven't hit the main highway, have we?\""
 
-# game/Flynn-Thursday.rpy:11627
+# game/Flynn-Thursday.rpy:11635
 translate Schinese flynnsunday_94af40e0:
 
     # "Chase presses his furry cheek against the window, his tired eyes bulging."
-    "Chase presses his furry cheek against the window, his tired eyes bulging."
+    "@@@Chase presses his furry cheek against the window, his tired eyes bulging."
 
-# game/Flynn-Thursday.rpy:11628
+# game/Flynn-Thursday.rpy:11636
 translate Schinese flynnsunday_de245fb0:
 
     # m "\"What in the.. the goddamn...\""
-    m "\"What in the.. the goddamn...\""
+    m "@@@\"What in the.. the goddamn...\""
 
-# game/Flynn-Thursday.rpy:11629
+# game/Flynn-Thursday.rpy:11637
 translate Schinese flynnsunday_61f01206:
 
     # "He trails off."
-    "He trails off."
+    "@@@He trails off."
 
-# game/Flynn-Thursday.rpy:11630
+# game/Flynn-Thursday.rpy:11638
 translate Schinese flynnsunday_df81a37d:
 
     # da "\"So we just seamlessly transitioned from going one way to the other without any of us noticing?\""
-    da "\"So we just seamlessly transitioned from going one way to the other without any of us noticing?\""
+    da "@@@\"So we just seamlessly transitioned from going one way to the other without any of us noticing?\""
 
-# game/Flynn-Thursday.rpy:11631
+# game/Flynn-Thursday.rpy:11639
 translate Schinese flynnsunday_2e1f8b3b:
 
     # j "\"No, Leo must've gotten off and turned around on that side road that l-\""
-    j "\"No, Leo must've gotten off and turned around on that side road that l-\""
+    j "@@@\"No, Leo must've gotten off and turned around on that side road that l-\""
 
-# game/Flynn-Thursday.rpy:11632
+# game/Flynn-Thursday.rpy:11640
 translate Schinese flynnsunday_40d3481d:
 
     # l "\"There's no way!\""
-    l "\"There's no way!\""
+    l "@@@\"There's no way!\""
 
-# game/Flynn-Thursday.rpy:11634
+# game/Flynn-Thursday.rpy:11642
 translate Schinese flynnsunday_22e5a145:
 
     # "He slaps the steering wheel hard, a honk ringing out and echoing throughout the valley of desert scrub beyond the guardrail."
-    "He slaps the steering wheel hard, a honk ringing out and echoing throughout the valley of desert scrub beyond the guardrail."
+    "@@@He slaps the steering wheel hard, a honk ringing out and echoing throughout the valley of desert scrub beyond the guardrail."
 
-# game/Flynn-Thursday.rpy:11635
+# game/Flynn-Thursday.rpy:11643
 translate Schinese flynnsunday_06fe82de:
 
     # "TJ gasps, digging his claws into the fabric of his seat."
-    "TJ gasps, digging his claws into the fabric of his seat."
+    "@@@TJ gasps, digging his claws into the fabric of his seat."
 
-# game/Flynn-Thursday.rpy:11636
+# game/Flynn-Thursday.rpy:11644
 translate Schinese flynnsunday_a203fe42:
 
     # t "\"Please don't do that!\""
-    t "\"Please don't do that!\""
+    t "@@@\"Please don't do that!\""
 
-# game/Flynn-Thursday.rpy:11637
+# game/Flynn-Thursday.rpy:11645
 translate Schinese flynnsunday_85b35cc8:
 
     # t "\"Let's be quiet, okay?!\""
-    t "\"Let's be quiet, okay?!\""
+    t "@@@\"Let's be quiet, okay?!\""
 
-# game/Flynn-Thursday.rpy:11638
+# game/Flynn-Thursday.rpy:11646
 translate Schinese flynnsunday_b4eff541:
 
     # j "\"Leo, we're going the wrong way.\""
-    j "\"Leo, we're going the wrong way.\""
+    j "@@@\"Leo, we're going the wrong way.\""
 
-# game/Flynn-Thursday.rpy:11639
+# game/Flynn-Thursday.rpy:11647
 translate Schinese flynnsunday_625468c3:
 
     # "Jenna speaks as calmly as possible, clearly aware of the wolf's addled mental state, but also the fact that she's now holding Duke's pistol."
-    "Jenna speaks as calmly as possible, clearly aware of the wolf's addled mental state, but also the fact that she's now holding Duke's pistol."
+    "@@@Jenna speaks as calmly as possible, clearly aware of the wolf's addled mental state, but also the fact that she's now holding Duke's pistol."
 
-# game/Flynn-Thursday.rpy:11642
+# game/Flynn-Thursday.rpy:11650
 translate Schinese flynnsunday_2dd15ffc:
 
     # "Leo brings the car to a hard stop, throwing me forward into the seatbelt."
-    "Leo brings the car to a hard stop, throwing me forward into the seatbelt."
+    "@@@Leo brings the car to a hard stop, throwing me forward into the seatbelt."
 
-# game/Flynn-Thursday.rpy:11645
+# game/Flynn-Thursday.rpy:11653
 translate Schinese flynnsunday_3e6219e9:
 
     # "Then he does a quick three-point turn, shoving me right, then left before I'm smacked back into the seat as Leo accelerates again."
-    "Then he does a quick three-point turn, shoving me right, then left before I'm smacked back into the seat as Leo accelerates again."
+    "@@@Then he does a quick three-point turn, shoving me right, then left before I'm smacked back into the seat as Leo accelerates again."
 
-# game/Flynn-Thursday.rpy:11647
+# game/Flynn-Thursday.rpy:11655
 translate Schinese flynnsunday_f4b1da9a:
 
     # "I hear a soft thunk of flesh-on-glass, then a groan from the back - Chase rubbing his face with a sore looking nose."
-    "I hear a soft thunk of flesh-on-glass, then a groan from the back - Chase rubbing his face with a sore looking nose."
+    "@@@I hear a soft thunk of flesh-on-glass, then a groan from the back - Chase rubbing his face with a sore looking nose."
 
-# game/Flynn-Thursday.rpy:11648
+# game/Flynn-Thursday.rpy:11656
 translate Schinese flynnsunday_97392816:
 
     # "Injury upon injury."
-    "Injury upon injury."
+    "@@@Injury upon injury."
 
-# game/Flynn-Thursday.rpy:11649
+# game/Flynn-Thursday.rpy:11657
 translate Schinese flynnsunday_bca946c2:
 
     # da "\"You okay?\""
-    da "\"You okay?\""
+    da "@@@\"You okay?\""
 
-# game/Flynn-Thursday.rpy:11650
+# game/Flynn-Thursday.rpy:11658
 translate Schinese flynnsunday_c651d0c8:
 
     # m "\"No.\""
-    m "\"No.\""
+    m "@@@\"No.\""
 
-# game/Flynn-Thursday.rpy:11651
+# game/Flynn-Thursday.rpy:11659
 translate Schinese flynnsunday_9cfeb89f:
 
     # "He responds back hoarsely, sinking back further into the scratchy fabric of his seat."
-    "He responds back hoarsely, sinking back further into the scratchy fabric of his seat."
+    "@@@He responds back hoarsely, sinking back further into the scratchy fabric of his seat."
 
-# game/Flynn-Thursday.rpy:11652
+# game/Flynn-Thursday.rpy:11660
 translate Schinese flynnsunday_dc098548:
 
     # da "\"Oh. Same.\""
-    da "\"Oh. Same.\""
+    da "@@@\"Oh. Same.\""
 
-# game/Flynn-Thursday.rpy:11653
+# game/Flynn-Thursday.rpy:11661
 translate Schinese flynnsunday_d9ae5f44:
 
     # "Daxton does a curt nod."
-    "Daxton does a curt nod."
+    "@@@Daxton does a curt nod."
 
-# game/Flynn-Thursday.rpy:11655
+# game/Flynn-Thursday.rpy:11663
 translate Schinese flynnsunday_e3860eee:
 
     # "Leo is sitting upright, only moving with ridgid like a goddamn automaton."
-    "Leo is sitting upright, only moving with ridgid like a goddamn automaton."
+    "@@@Leo is sitting upright, only moving with ridgid like a goddamn automaton."
 
-# game/Flynn-Thursday.rpy:11656
+# game/Flynn-Thursday.rpy:11664
 translate Schinese flynnsunday_c36d82a1:
 
     # "We both stare out the windshield, eyes to the horizon."
-    "We both stare out the windshield, eyes to the horizon."
+    "@@@We both stare out the windshield, eyes to the horizon."
 
-# game/Flynn-Thursday.rpy:11657
+# game/Flynn-Thursday.rpy:11665
 translate Schinese flynnsunday_61953ce8:
 
     # "It's clear that Leo doesn't want any talking, so we're all quiet."
-    "It's clear that Leo doesn't want any talking, so we're all quiet."
+    "@@@It's clear that Leo doesn't want any talking, so we're all quiet."
 
-# game/Flynn-Thursday.rpy:11658
+# game/Flynn-Thursday.rpy:11666
 translate Schinese flynnsunday_6740b1eb:
 
     # "Even in the silence, I can feel the growing unease from those behind us: the trembling of muscles and clicking of claws."
-    "Even in the silence, I can feel the growing unease from those behind us: the trembling of muscles and clicking of claws."
+    "@@@Even in the silence, I can feel the growing unease from those behind us: the trembling of muscles and clicking of claws."
 
-# game/Flynn-Thursday.rpy:11659
+# game/Flynn-Thursday.rpy:11667
 translate Schinese flynnsunday_6f27f67d:
 
     # "I try to block it out, to just focus on watching what's ahead."
-    "I try to block it out, to just focus on watching what's ahead."
+    "@@@I try to block it out, to just focus on watching what's ahead."
 
-# game/Flynn-Thursday.rpy:11660
+# game/Flynn-Thursday.rpy:11668
 translate Schinese flynnsunday_8498f9ae:
 
     # "All things considered, it's not so bad as long as I can keep the fear from clouding my mind."
-    "All things considered, it's not so bad as long as I can keep the fear from clouding my mind."
+    "@@@All things considered, it's not so bad as long as I can keep the fear from clouding my mind."
 
-# game/Flynn-Thursday.rpy:11661
+# game/Flynn-Thursday.rpy:11669
 translate Schinese flynnsunday_e3ceaad5:
 
     # "Though, that could be said about most things in life."
-    "Though, that could be said about most things in life."
+    "@@@Though, that could be said about most things in life."
 
-# game/Flynn-Thursday.rpy:11662
+# game/Flynn-Thursday.rpy:11670
 translate Schinese flynnsunday_dd7b74ec:
 
     # "We just have to keep driving. To get out of this fucking town."
-    "We just have to keep driving. To get out of this fucking town."
+    "@@@We just have to keep driving. To get out of this fucking town."
 
-# game/Flynn-Thursday.rpy:11663
+# game/Flynn-Thursday.rpy:11671
 translate Schinese flynnsunday_fd698c32:
 
     # "We can't get sidetracked again, especially with that fucking eyeless thing around."
-    "We can't get sidetracked again, especially with that fucking eyeless thing around."
+    "@@@We can't get sidetracked again, especially with that fucking eyeless thing around."
 
-# game/Flynn-Thursday.rpy:11664
+# game/Flynn-Thursday.rpy:11672
 translate Schinese flynnsunday_f979a0d7:
 
     # "I wonder if it heard the horn earlier."
-    "I wonder if it heard the horn earlier."
+    "@@@I wonder if it heard the horn earlier."
 
-# game/Flynn-Thursday.rpy:11665
+# game/Flynn-Thursday.rpy:11673
 translate Schinese flynnsunday_b645daae:
 
     # "I focus on the mountains now, making sure that they don't disappear."
-    "I focus on the mountains now, making sure that they don't disappear."
+    "@@@I focus on the mountains now, making sure that they don't disappear."
 
-# game/Flynn-Thursday.rpy:11666
+# game/Flynn-Thursday.rpy:11674
 translate Schinese flynnsunday_2dd25bf5:
 
     # "They slope up and down gently under the moonlight, speckled with the dark spots of rock and vegetation."
-    "They slope up and down gently under the moonlight, speckled with the dark spots of rock and vegetation."
+    "@@@They slope up and down gently under the moonlight, speckled with the dark spots of rock and vegetation."
 
-# game/Flynn-Thursday.rpy:11667
+# game/Flynn-Thursday.rpy:11675
 translate Schinese flynnsunday_8ac106ca:
 
     # "Vaguely, I remember back when I was younger, leading Sydney around the bend and entertaining his explorer fantasies."
-    "Vaguely, I remember back when I was younger, leading Sydney around the bend and entertaining his explorer fantasies."
+    "@@@Vaguely, I remember back when I was younger, leading Sydney around the bend and entertaining his explorer fantasies."
 
-# game/Flynn-Thursday.rpy:11668
+# game/Flynn-Thursday.rpy:11676
 translate Schinese flynnsunday_b8c46ebc:
 
     # "I brought my B.B. gun and he'd run around, shooting at mesquite trees and looking for signs of lost native treasure."
-    "I brought my B.B. gun and he'd run around, shooting at mesquite trees and looking for signs of lost native treasure."
+    "@@@I brought my B.B. gun and he'd run around, shooting at mesquite trees and looking for signs of lost native treasure."
 
-# game/Flynn-Thursday.rpy:11669
+# game/Flynn-Thursday.rpy:11677
 translate Schinese flynnsunday_8b3d0c07:
 
     # "I told him that the pioneers thought there was a city of gold buried beneath the mountainous topsoil, waiting to be unearthed."
-    "I told him that the pioneers thought there was a city of gold buried beneath the mountainous topsoil, waiting to be unearthed."
+    "@@@I told him that the pioneers thought there was a city of gold buried beneath the mountainous topsoil, waiting to be unearthed."
 
-# game/Flynn-Thursday.rpy:11670
+# game/Flynn-Thursday.rpy:11678
 translate Schinese flynnsunday_0be1419d:
 
     # "He fuckin' loved that, even brought a little trench shovel to, as he put it, dig his own mine."
-    "He fuckin' loved that, even brought a little trench shovel to, as he put it, dig his own mine."
+    "@@@He fuckin' loved that, even brought a little trench shovel to, as he put it, dig his own mine."
 
-# game/Flynn-Thursday.rpy:11671
+# game/Flynn-Thursday.rpy:11679
 translate Schinese flynnsunday_646c9d0f:
 
     # "Pretty sure he thought that was the whole reason for Echo's old mine, to find the city and shit."
-    "Pretty sure he thought that was the whole reason for Echo's old mine, to find the city and shit."
+    "@@@Pretty sure he thought that was the whole reason for Echo's old mine, to find the city and shit."
 
-# game/Flynn-Thursday.rpy:11672
+# game/Flynn-Thursday.rpy:11680
 translate Schinese flynnsunday_d0ac8293:
 
     # "It wasn't a complete lie, either."
-    "It wasn't a complete lie, either."
+    "@@@It wasn't a complete lie, either."
 
-# game/Flynn-Thursday.rpy:11673
+# game/Flynn-Thursday.rpy:11681
 translate Schinese flynnsunday_b74d5525:
 
     # "The Ahacte tribe supposedly told the conquistador types that treasures and riches were stored aplenty in the Meseta territory around here centuries ago."
-    "The Ahacte tribe supposedly told the conquistador types that treasures and riches were stored aplenty in the Meseta territory around here centuries ago."
+    "@@@The Ahacte tribe supposedly told the conquistador types that treasures and riches were stored aplenty in the Meseta territory around here centuries ago."
 
-# game/Flynn-Thursday.rpy:11674
+# game/Flynn-Thursday.rpy:11682
 translate Schinese flynnsunday_b0d3131b:
 
     # "Of course, it was so they'd fuck off and bother their rivals instead of them, but the prospectors did eventually find gold in the mountains."
-    "Of course, it was so they'd fuck off and bother their rivals instead of them, but the prospectors did eventually find gold in the mountains."
+    "@@@Of course, it was so they'd fuck off and bother their rivals instead of them, but the prospectors did eventually find gold in the mountains."
 
-# game/Flynn-Thursday.rpy:11675
+# game/Flynn-Thursday.rpy:11683
 translate Schinese flynnsunday_693f1b82:
 
     # "All Syd ever found was some feldspar and alabaster quartz. He kept a whole collectio-"
-    "All Syd ever found was some feldspar and alabaster quartz. He kept a whole collectio-"
+    "@@@All Syd ever found was some feldspar and alabaster quartz. He kept a whole collectio-"
 
-# game/Flynn-Thursday.rpy:11676
+# game/Flynn-Thursday.rpy:11684
 translate Schinese flynnsunday_a9df9506:
 
     # "I blink, staring out the window as the mountains just...disappear, slope down into nothing."
-    "I blink, staring out the window as the mountains just...disappear, slope down into nothing."
+    "@@@I blink, staring out the window as the mountains just...disappear, slope down into nothing."
 
-# game/Flynn-Thursday.rpy:11677
+# game/Flynn-Thursday.rpy:11685
 translate Schinese flynnsunday_7210bdce:
 
     # "I squint, then I look out Chase's window in the back."
-    "I squint, then I look out Chase's window in the back."
+    "@@@I squint, then I look out Chase's window in the back."
 
-# game/Flynn-Thursday.rpy:11678
+# game/Flynn-Thursday.rpy:11686
 translate Schinese flynnsunday_84a6bd65:
 
     # "Sure enough, mountains."
-    "Sure enough, mountains."
+    "@@@Sure enough, mountains."
 
-# game/Flynn-Thursday.rpy:11679
+# game/Flynn-Thursday.rpy:11687
 translate Schinese flynnsunday_2cb403af:
 
     # f "\"Leo.\""
-    f "\"Leo.\""
+    f "@@@\"Leo.\""
 
-# game/Flynn-Thursday.rpy:11680
+# game/Flynn-Thursday.rpy:11688
 translate Schinese flynnsunday_d708915e:
 
     # l "\"Don't worry about it.\""
-    l "\"Don't worry about it.\""
+    l "@@@\"Don't worry about it.\""
 
-# game/Flynn-Thursday.rpy:11681
+# game/Flynn-Thursday.rpy:11689
 translate Schinese flynnsunday_f4e91194:
 
     # "Leo speeds up instead of turning around, though."
-    "Leo speeds up instead of turning around, though."
+    "@@@Leo speeds up instead of turning around, though."
 
-# game/Flynn-Thursday.rpy:11682
+# game/Flynn-Thursday.rpy:11690
 translate Schinese flynnsunday_49ddaafc:
 
     # c "\"Dude...\""
-    c "\"Dude...\""
+    c "@@@\"Dude...\""
 
-# game/Flynn-Thursday.rpy:11683
+# game/Flynn-Thursday.rpy:11691
 translate Schinese flynnsunday_f4e355fe:
 
     # t "\"Wh-what are you doing?\""
-    t "\"Wh-what are you doing?\""
+    t "@@@\"Wh-what are you doing?\""
 
-# game/Flynn-Thursday.rpy:11684
+# game/Flynn-Thursday.rpy:11692
 translate Schinese flynnsunday_f299e90a:
 
     # "TJ's claws come out against my skin again as he gets that scared cat look in his eyes."
-    "TJ's claws come out against my skin again as he gets that scared cat look in his eyes."
+    "@@@TJ's claws come out against my skin again as he gets that scared cat look in his eyes."
 
-# game/Flynn-Thursday.rpy:11685
+# game/Flynn-Thursday.rpy:11693
 translate Schinese flynnsunday_2dfa7414:
 
     # "Leo mumbles, mostly to himself."
-    "Leo mumbles, mostly to himself."
+    "@@@Leo mumbles, mostly to himself."
 
-# game/Flynn-Thursday.rpy:11686
+# game/Flynn-Thursday.rpy:11694
 translate Schinese flynnsunday_695d2c0c:
 
     # l "\"We're just confused. There's no way this leads back to Echo.\""
-    l "\"We're just confused. There's no way this leads back to Echo.\""
+    l "@@@\"We're just confused. There's no way this leads back to Echo.\""
 
-# game/Flynn-Thursday.rpy:11687
-translate Schinese flynnsunday_3eec038c:
+# game/Flynn-Thursday.rpy:11695
+translate Schinese flynnsunday_f20eae0b:
 
-    # j "\"Leo, slow down little.\""
-    j "\"Leo, slow down little.\""
+    # j "\"Leo, slow down a little.\""
+    j "@@@\"Leo, slow down a little.\""
 
-# game/Flynn-Thursday.rpy:11688
+# game/Flynn-Thursday.rpy:11696
 translate Schinese flynnsunday_6ea723dc:
 
     # "Leo lets out a small growl, and I instinctively clutch my rifle a little tighter."
-    "Leo lets out a small growl, and I instinctively clutch my rifle a little tighter."
+    "@@@Leo lets out a small growl, and I instinctively clutch my rifle a little tighter."
 
-# game/Flynn-Thursday.rpy:11689
+# game/Flynn-Thursday.rpy:11697
 translate Schinese flynnsunday_ac754168:
 
     # "This is getting out of hand, but I honest to God don't have a fucking better idea."
-    "This is getting out of hand, but I honest to God don't have a fucking better idea."
+    "@@@This is getting out of hand, but I honest to God don't have a fucking better idea."
 
-# game/Flynn-Thursday.rpy:11690
+# game/Flynn-Thursday.rpy:11698
 translate Schinese flynnsunday_7ac7ef07:
 
     # l "\"I'm gonna keep going until I see that car we passed.\""
-    l "\"I'm gonna keep going until I see that car we passed.\""
+    l "@@@\"I'm gonna keep going until I see that car we passed.\""
 
-# game/Flynn-Thursday.rpy:11691
+# game/Flynn-Thursday.rpy:11699
 translate Schinese flynnsunday_2ed88ac3:
 
     # "The tone in Leo's voice keeps any of those in the back from arguing."
-    "The tone in Leo's voice keeps any of those in the back from arguing."
+    "@@@The tone in Leo's voice keeps any of those in the back from arguing."
 
-# game/Flynn-Thursday.rpy:11692
+# game/Flynn-Thursday.rpy:11700
 translate Schinese flynnsunday_317ce832:
 
     # "Though I hate to admit it, something about his demeanor actually shuts me up, as well."
-    "Though I hate to admit it, something about his demeanor actually shuts me up, as well."
+    "@@@Though I hate to admit it, something about his demeanor actually shuts me up, as well."
 
-# game/Flynn-Thursday.rpy:11693
+# game/Flynn-Thursday.rpy:11701
 translate Schinese flynnsunday_3a394a86:
 
     # "Another minute of driving, more awkward silence, then—"
-    "Another minute of driving, more awkward silence, then—"
+    "@@@Another minute of driving, more awkward silence, then—"
 
-# game/Flynn-Thursday.rpy:11694
+# game/Flynn-Thursday.rpy:11702
 translate Schinese flynnsunday_0a9a3fd4:
 
     # "Leo hisses through his teeth."
-    "Leo hisses through his teeth."
+    "@@@Leo hisses through his teeth."
 
-# game/Flynn-Thursday.rpy:11695
+# game/Flynn-Thursday.rpy:11703
 translate Schinese flynnsunday_f9a82ff1:
 
     # "Straight ahead of us, a sign."
-    "Straight ahead of us, a sign."
+    "@@@Straight ahead of us, a sign."
 
-# game/Flynn-Thursday.rpy:11696
+# game/Flynn-Thursday.rpy:11704
 translate Schinese flynnsunday_df8ec4bc:
 
     # m "\"What?\""
-    m "\"What?\""
+    m "@@@\"What?\""
 
-# game/Flynn-Thursday.rpy:11697
+# game/Flynn-Thursday.rpy:11705
 translate Schinese flynnsunday_a82757ec:
 
     # "How in the shit?"
-    "How in the shit?"
+    "@@@How in the shit?"
 
-# game/Flynn-Thursday.rpy:11698
+# game/Flynn-Thursday.rpy:11706
 translate Schinese flynnsunday_6c8736da:
 
     # "{b}Echo Mine: Danicka Entrance{/b}."
-    "{b}Echo Mine: Danicka Entrance{/b}."
+    "@@@{b}Echo Mine: Danicka Entrance{/b}."
 
-# game/Flynn-Thursday.rpy:11699
+# game/Flynn-Thursday.rpy:11707
 translate Schinese flynnsunday_971848c6:
 
     # f "\"That's on the other side of town.\""
-    f "\"That's on the other side of town.\""
+    f "@@@\"That's on the other side of town.\""
 
-# game/Flynn-Thursday.rpy:11700
-translate Schinese flynnsunday_0729e381:
+# game/Flynn-Thursday.rpy:11708
+translate Schinese flynnsunday_e18738c2:
 
-    # "I say this as if it cannot possibly where we're at, though there it is."
-    "I say this as if it cannot possibly where we're at, though there it is."
+    # "I say this as if it cannot possibly be where we're at, though there it is."
+    "@@@I say this as if it cannot possibly be where we're at, though there it is."
 
-# game/Flynn-Thursday.rpy:11701
+# game/Flynn-Thursday.rpy:11709
 translate Schinese flynnsunday_2e7fc32a:
 
     # "It stands about eight feet tall, faded wood with that touristy wild west font placard that the county commissioned a couple years ago."
-    "It stands about eight feet tall, faded wood with that touristy wild west font placard that the county commissioned a couple years ago."
+    "@@@It stands about eight feet tall, faded wood with that touristy wild west font placard that the county commissioned a couple years ago."
 
-# game/Flynn-Thursday.rpy:11702
+# game/Flynn-Thursday.rpy:11710
 translate Schinese flynnsunday_d14ec7ba:
 
     # "The sign's only readable because our headlights are right on it, the original solar face lights having been destroyed by junkies a year ago."
-    "The sign's only readable because our headlights are right on it, the original solar face lights having been destroyed by junkies a year ago."
+    "@@@The sign's only readable because our headlights are right on it, the original solar face lights having been destroyed by junkies a year ago."
 
-# game/Flynn-Thursday.rpy:11703
+# game/Flynn-Thursday.rpy:11711
 translate Schinese flynnsunday_39c88e11:
 
     # "Leo thins his lips, driving right past it."
-    "Leo thins his lips, driving right past it."
+    "@@@Leo thins his lips, driving right past it."
 
-# game/Flynn-Thursday.rpy:11704
+# game/Flynn-Thursday.rpy:11712
 translate Schinese flynnsunday_83c86f10:
 
     # "The minutes pass and it becomes increasingly difficult to place exactly where we are."
-    "The minutes pass and it becomes increasingly difficult to place exactly where we are."
+    "@@@The minutes pass and it becomes increasingly difficult to place exactly where we are."
 
-# game/Flynn-Thursday.rpy:11705
+# game/Flynn-Thursday.rpy:11713
 translate Schinese flynnsunday_1d9641b1:
 
     # "On this side of town, I can see that smoke from earlier more clearly, too."
-    "On this side of town, I can see that smoke from earlier more clearly, too."
+    "@@@On this side of town, I can see that smoke from earlier more clearly, too."
 
-# game/Flynn-Thursday.rpy:11706
+# game/Flynn-Thursday.rpy:11714
 translate Schinese flynnsunday_b9ce0273:
 
     # "The smell, like burnt charcoal, seeps into the cabin through the A/C."
-    "The smell, like burnt charcoal, seeps into the cabin through the A/C."
+    "@@@The smell, like burnt charcoal, seeps into the cabin through the A/C."
 
-# game/Flynn-Thursday.rpy:11707
+# game/Flynn-Thursday.rpy:11715
 translate Schinese flynnsunday_60c6e7b9:
 
     # da "\"Leo, can I drive? I have better eyes for night stuff. Um, no offense, of course.\""
-    da "\"Leo, can I drive? I have better eyes for night stuff. Um, no offense, of course.\""
+    da "@@@\"Leo, can I drive? I have better eyes for night stuff. Um, no offense, of course.\""
 
-# game/Flynn-Thursday.rpy:11708
+# game/Flynn-Thursday.rpy:11716
 translate Schinese flynnsunday_4be30ba6:
 
     # "Leo says nothing, though the wolf begins to pull off to the side of the road.."
-    "Leo says nothing, though the wolf begins to pull off to the side of the road.."
+    "@@@Leo says nothing, though the wolf begins to pull off to the side of the road.."
 
-# game/Flynn-Thursday.rpy:11709
+# game/Flynn-Thursday.rpy:11717
 translate Schinese flynnsunday_42a9949c:
 
     # "..only to flip around and go the other way again."
-    "..only to flip around and go the other way again."
+    "@@@..only to flip around and go the other way again."
 
-# game/Flynn-Thursday.rpy:11710
+# game/Flynn-Thursday.rpy:11718
 translate Schinese flynnsunday_8a543b9e:
 
     # "Jenna lets out a strange sigh. It's laden with her common exasperation, but there's a slight quiver in her vocal chords."
-    "Jenna lets out a strange sigh. It's laden with her common exasperation, but there's a slight quiver in her vocal chords."
+    "@@@Jenna lets out a strange sigh. It's laden with her common exasperation, but there's a slight quiver in her vocal chords."
 
-# game/Flynn-Thursday.rpy:11711
+# game/Flynn-Thursday.rpy:11719
 translate Schinese flynnsunday_01bc7547:
 
     # "We keep going and more time passes."
-    "We keep going and more time passes."
+    "@@@We keep going and more time passes."
 
-# game/Flynn-Thursday.rpy:11712
+# game/Flynn-Thursday.rpy:11720
 translate Schinese flynnsunday_b5ae5f9a:
 
     # "Daxton mutters something I can't quite make out to Carl, who has been oddly silent - his paws over his face."
-    "Daxton mutters something I can't quite make out to Carl, who has been oddly silent - his paws over his face."
+    "@@@Daxton mutters something I can't quite make out to Carl, who has been oddly silent - his paws over his face."
 
-# game/Flynn-Thursday.rpy:11713
+# game/Flynn-Thursday.rpy:11721
 translate Schinese flynnsunday_ab54660a:
 
     # "I occasionally catch Chase look at me in the rear-view mirror."
-    "I occasionally catch Chase look at me in the rear-view mirror."
+    "@@@I occasionally catch Chase look at me in the rear-view mirror."
 
-# game/Flynn-Thursday.rpy:11714
+# game/Flynn-Thursday.rpy:11722
 translate Schinese flynnsunday_9a543175:
 
     # "Despite his shit with the spider bite, he looks more.. well, animated than I've seen him in a long time."
-    "Despite his shit with the spider bite, he looks more.. well, animated than I've seen him in a long time."
+    "@@@Despite his shit with the spider bite, he looks more.. well, animated than I've seen him in a long time."
 
-# game/Flynn-Thursday.rpy:11715
+# game/Flynn-Thursday.rpy:11723
 translate Schinese flynnsunday_7634896a:
 
     # "There's a lot less staring off into the distance and more active grimacing, muttered softcore swears, and darting eyes."
-    "There's a lot less staring off into the distance and more active grimacing, muttered softcore swears, and darting eyes."
+    "@@@There's a lot less staring off into the distance and more active grimacing, muttered softcore swears, and darting eyes."
 
-# game/Flynn-Thursday.rpy:11716
+# game/Flynn-Thursday.rpy:11724
 translate Schinese flynnsunday_675bc87f:
 
     # "I never realized how yellow his eyes are before. Were they always that bright?"
-    "I never realized how yellow his eyes are before. Were they always that bright?"
+    "@@@I never realized how yellow his eyes are before. Were they always that bright?"
 
-# game/Flynn-Thursday.rpy:11717
+# game/Flynn-Thursday.rpy:11725
 translate Schinese flynnsunday_8d747db6:
 
     # "More time passes, and as we round a bend, Jenna crawls halfway onto the mid-seat console and points ahead."
-    "More time passes, and as we round a bend, Jenna crawls halfway onto the mid-seat console and points ahead."
+    "@@@More time passes, and as we round a bend, Jenna crawls halfway onto the mid-seat console and points ahead."
 
-# game/Flynn-Thursday.rpy:11718
+# game/Flynn-Thursday.rpy:11726
 translate Schinese flynnsunday_8c4cbd92:
 
     # j "\"That's where Duke and Chase's car was.\""
-    j "\"That's where Duke and Chase's car was.\""
+    j "@@@\"That's where Duke and Chase's car was.\""
 
-# game/Flynn-Thursday.rpy:11719
+# game/Flynn-Thursday.rpy:11727
 translate Schinese flynnsunday_0375da1b:
 
     # da "\"It's not there now. How can you tell?\""
-    da "\"It's not there now. How can you tell?\""
+    da "@@@\"It's not there now. How can you tell?\""
 
-# game/Flynn-Thursday.rpy:11720
+# game/Flynn-Thursday.rpy:11728
 translate Schinese flynnsunday_91dedbcf:
 
     # "Daxton keeps craning his neck to see past me."
-    "Daxton keeps craning his neck to see past me."
+    "@@@Daxton keeps craning his neck to see past me."
 
-# game/Flynn-Thursday.rpy:11721
+# game/Flynn-Thursday.rpy:11729
 translate Schinese flynnsunday_b0d3a4ae:
 
     # "The corner looks familiar, but where's the car?"
-    "The corner looks familiar, but where's the car?"
+    "@@@The corner looks familiar, but where's the car?"
 
-# game/Flynn-Thursday.rpy:11722
+# game/Flynn-Thursday.rpy:11730
 translate Schinese flynnsunday_29b947dc:
 
     # j "\"I remember that.. thing. Its silhouette was outlined against that group of pinyon trees by the guardrail.\""
-    j "\"I remember that.. thing. Its silhouette was outlined against that group of pinyon trees by the guardrail.\""
+    j "@@@\"I remember that.. thing. Its silhouette was outlined against that group of pinyon trees by the guardrail.\""
 
-# game/Flynn-Thursday.rpy:11723
+# game/Flynn-Thursday.rpy:11731
 translate Schinese flynnsunday_297a226d:
 
     # "TJ makes a whining noise."
-    "TJ makes a whining noise."
+    "@@@TJ makes a whining noise."
 
-# game/Flynn-Thursday.rpy:11724
+# game/Flynn-Thursday.rpy:11732
 translate Schinese flynnsunday_e24ef398:
 
     # "I recognize it, too."
-    "I recognize it, too."
+    "@@@I recognize it, too."
 
-# game/Flynn-Thursday.rpy:11725
+# game/Flynn-Thursday.rpy:11733
 translate Schinese flynnsunday_23566ec3:
 
     # "There's no broken glass, tire marks, or blood, though. Absolutely no remnant of the memory to be found."
-    "There's no broken glass, tire marks, or blood, though. Absolutely no remnant of the memory to be found."
+    "@@@There's no broken glass, tire marks, or blood, though. Absolutely no remnant of the memory to be found."
 
-# game/Flynn-Thursday.rpy:11726
+# game/Flynn-Thursday.rpy:11734
 translate Schinese flynnsunday_599c65af:
 
     # m "\"God...\""
-    m "\"God...\""
+    m "@@@\"God...\""
 
-# game/Flynn-Thursday.rpy:11727
+# game/Flynn-Thursday.rpy:11735
 translate Schinese flynnsunday_abbc4737:
 
     # l "\"There's nothing there, don't worry.\""
-    l "\"There's nothing there, don't worry.\""
+    l "@@@\"There's nothing there, don't worry.\""
 
-# game/Flynn-Thursday.rpy:11728
+# game/Flynn-Thursday.rpy:11736
 translate Schinese flynnsunday_beaa1eb0:
 
     # "He, of course, is directing these reassurances solely to Chase."
-    "He, of course, is directing these reassurances solely to Chase."
+    "@@@He, of course, is directing these reassurances solely to Chase."
 
-# game/Flynn-Thursday.rpy:11729
+# game/Flynn-Thursday.rpy:11737
 translate Schinese flynnsunday_7bf3e3ca:
 
     # "His tone is so soft, it's almost cooing - treating Chase like a child."
-    "His tone is so soft, it's almost cooing - treating Chase like a child."
+    "@@@His tone is so soft, it's almost cooing - treating Chase like a child."
 
-# game/Flynn-Thursday.rpy:11730
+# game/Flynn-Thursday.rpy:11738
 translate Schinese flynnsunday_2ede0dca:
 
     # f "\"That's what's making US worried, you hollow-headed bitch."
-    f "\"That's what's making US worried, you hollow-headed bitch."
+    f "@@@\"That's what's making US worried, you hollow-headed bitch."
 
-# game/Flynn-Thursday.rpy:11731
+# game/Flynn-Thursday.rpy:11739
 translate Schinese flynnsunday_da0e96b0:
 
     # "Leo doesn't react right away, then out of the corner of my eye, he slowly begins to turn his head to look directly at me."
-    "Leo doesn't react right away, then out of the corner of my eye, he slowly begins to turn his head to look directly at me."
+    "@@@Leo doesn't react right away, then out of the corner of my eye, he slowly begins to turn his head to look directly at me."
 
-# game/Flynn-Thursday.rpy:11732
+# game/Flynn-Thursday.rpy:11740
 translate Schinese flynnsunday_29055683:
 
     # "It's fucking bizarre, he just stares - his gaze like a goddamn plastic doll's."
-    "It's fucking bizarre, he just stares - his gaze like a goddamn plastic doll's."
+    "@@@It's fucking bizarre, he just stares - his gaze like a goddamn plastic doll's."
 
-# game/Flynn-Thursday.rpy:11733
+# game/Flynn-Thursday.rpy:11741
 translate Schinese flynnsunday_a515f92d:
 
     # j "\"Flynn, just.. don't interact.\""
-    j "\"Flynn, just.. don't interact.\""
+    j "@@@\"Flynn, just.. don't interact.\""
 
-# game/Flynn-Thursday.rpy:11734
+# game/Flynn-Thursday.rpy:11742
 translate Schinese flynnsunday_2b6e7370:
 
     # da "\"Oh, jeez...\""
-    da "\"Oh, jeez...\""
+    da "@@@\"Oh, jeez...\""
 
-# game/Flynn-Thursday.rpy:11735
+# game/Flynn-Thursday.rpy:11743
 translate Schinese flynnsunday_c5cdd1ca:
 
     # f "\"I'm just gonna watch the mountains.\""
-    f "\"I'm just gonna watch the mountains.\""
+    f "@@@\"I'm just gonna watch the mountains.\""
 
-# game/Flynn-Thursday.rpy:11736
+# game/Flynn-Thursday.rpy:11744
 translate Schinese flynnsunday_18df0d2c:
 
     # da "\"Let us know if they decide to flip around.\""
-    da "\"Let us know if they decide to flip around.\""
+    da "@@@\"Let us know if they decide to flip around.\""
 
-# game/Flynn-Thursday.rpy:11737
+# game/Flynn-Thursday.rpy:11745
 translate Schinese flynnsunday_d7a1de2d:
 
     # "He lets out a dry, terrified chuckle."
-    "He lets out a dry, terrified chuckle."
+    "@@@He lets out a dry, terrified chuckle."
 
-# game/Flynn-Thursday.rpy:11738
+# game/Flynn-Thursday.rpy:11746
 translate Schinese flynnsunday_c90873ef:
 
     # "Jenna returns to her seat, her eyebrows scrunched."
-    "Jenna returns to her seat, her eyebrows scrunched."
+    "@@@Jenna returns to her seat, her eyebrows scrunched."
 
-# game/Flynn-Thursday.rpy:11739
+# game/Flynn-Thursday.rpy:11747
 translate Schinese flynnsunday_6816642c:
 
     # j "It's like we're stuck in some kind of loop."
-    j "It's like we're stuck in some kind of loop."
+    j "@@@It's like we're stuck in some kind of loop."
 
-# game/Flynn-Thursday.rpy:11740
+# game/Flynn-Thursday.rpy:11748
 translate Schinese flynnsunday_0fdce13b:
 
     # da "\"Heh...\""
-    da "\"Heh...\""
+    da "@@@\"Heh...\""
 
-# game/Flynn-Thursday.rpy:11741
+# game/Flynn-Thursday.rpy:11749
 translate Schinese flynnsunday_73ac0ce9:
 
     # "Jenna gives Daxton an inquisitive look, seemingly baffled anyone could find humor in this."
-    "Jenna gives Daxton an inquisitive look, seemingly baffled anyone could find humor in this."
+    "@@@Jenna gives Daxton an inquisitive look, seemingly baffled anyone could find humor in this."
 
-# game/Flynn-Thursday.rpy:11742
+# game/Flynn-Thursday.rpy:11750
 translate Schinese flynnsunday_c8071644:
 
     # j "\"What?\""
-    j "\"What?\""
+    j "@@@\"What?\""
 
-# game/Flynn-Thursday.rpy:11743
+# game/Flynn-Thursday.rpy:11751
 translate Schinese flynnsunday_c9162d8a:
 
     # da "\"It's just, well.. it's nothing.\""
-    da "\"It's just, well.. it's nothing.\""
+    da "@@@\"It's just, well.. it's nothing.\""
 
-# game/Flynn-Thursday.rpy:11744
+# game/Flynn-Thursday.rpy:11752
 translate Schinese flynnsunday_9a62058a:
 
     # j "\"Go on. We've got time, apparently.\""
-    j "\"Go on. We've got time, apparently.\""
+    j "@@@\"Go on. We've got time, apparently.\""
 
-# game/Flynn-Thursday.rpy:11745
+# game/Flynn-Thursday.rpy:11753
 translate Schinese flynnsunday_cef65efe:
 
     # da "\"Yeah, exactly, I mean...\""
-    da "\"Yeah, exactly, I mean...\""
+    da "@@@\"Yeah, exactly, I mean...\""
 
-# game/Flynn-Thursday.rpy:11746
+# game/Flynn-Thursday.rpy:11754
 translate Schinese flynnsunday_a493f68b:
 
     # "He exhales, shaking his head."
-    "He exhales, shaking his head."
+    "@@@He exhales, shaking his head."
 
-# game/Flynn-Thursday.rpy:11747
+# game/Flynn-Thursday.rpy:11755
 translate Schinese flynnsunday_76a4cde2:
 
     # da "\"In Adastra-\""
-    da "\"In Adastra-\""
+    da "@@@\"In Adastra-\""
 
-# game/Flynn-Thursday.rpy:11748
+# game/Flynn-Thursday.rpy:11756
 translate Schinese flynnsunday_93dcba51:
 
     # "Carl groans, his displeasure muffled by the paws over his face."
-    "Carl groans, his displeasure muffled by the paws over his face."
+    "@@@Carl groans, his displeasure muffled by the paws over his face."
 
-# game/Flynn-Thursday.rpy:11749
+# game/Flynn-Thursday.rpy:11757
 translate Schinese flynnsunday_f1a3dadf:
 
     # da "\"-'some kind of' was always the go-to line of Captain Amicus whenever he encountered something he didn't quite understand.\""
-    da "\"-'some kind of' was always the go-to line of Captain Amicus whenever he encountered something he didn't quite understand.\""
+    da "@@@\"-'some kind of' was always the go-to line of Captain Amicus whenever he encountered something he didn't quite understand.\""
 
-# game/Flynn-Thursday.rpy:11750
+# game/Flynn-Thursday.rpy:11758
 translate Schinese flynnsunday_50a95802:
 
     # "Daxton leans his head back, his bald noggin pushing into the headrest."
-    "Daxton leans his head back, his bald noggin pushing into the headrest."
+    "@@@Daxton leans his head back, his bald noggin pushing into the headrest."
 
-# game/Flynn-Thursday.rpy:11751
+# game/Flynn-Thursday.rpy:11759
 translate Schinese flynnsunday_489e80a7:
 
     # da "\"Some kind of alien transporter, some kind of time paradox, some kind of matter replicator, some kind of reproductive goo - and so on.\""
-    da "\"Some kind of alien transporter, some kind of time paradox, some kind of matter replicator, some kind of reproductive goo - and so on.\""
+    da "@@@\"Some kind of alien transporter, some kind of time paradox, some kind of matter replicator, some kind of reproductive goo - and so on.\""
 
-# game/Flynn-Thursday.rpy:11752
+# game/Flynn-Thursday.rpy:11760
 translate Schinese flynnsunday_f0e79fc6:
 
     # j "\"And this helps us how?\""
-    j "\"And this helps us how?\""
+    j "@@@\"And this helps us how?\""
 
-# game/Flynn-Thursday.rpy:11753
-translate Schinese flynnsunday_f3f04fbf:
+# game/Flynn-Thursday.rpy:11761
+translate Schinese flynnsunday_5f1586ab:
 
-    # da "\"It.. well, I don't think it does. It's just sort of is funny, I guess.\""
-    da "\"It.. well, I don't think it does. It's just sort of is funny, I guess.\""
+    # da "\"It.. well, I don't think it does. It's just sort of funny, I guess.\""
+    da "@@@\"It.. well, I don't think it does. It's just sort of funny, I guess.\""
 
-# game/Flynn-Thursday.rpy:11754
+# game/Flynn-Thursday.rpy:11762
 translate Schinese flynnsunday_3d36a456:
 
     # da "\"It's like I'm in an episode, with a group of wacky characters.\""
-    da "\"It's like I'm in an episode, with a group of wacky characters.\""
+    da "@@@\"It's like I'm in an episode, with a group of wacky characters.\""
 
-# game/Flynn-Thursday.rpy:11755
+# game/Flynn-Thursday.rpy:11763
 translate Schinese flynnsunday_5cc558d0:
 
     # j "\"Wacky, huh?\""
-    j "\"Wacky, huh?\""
+    j "@@@\"Wacky, huh?\""
 
-# game/Flynn-Thursday.rpy:11756
+# game/Flynn-Thursday.rpy:11764
 translate Schinese flynnsunday_2ac8d5c5:
 
     # "Jenna responds, monotone as she returns her focus to the window."
-    "Jenna responds, monotone as she returns her focus to the window."
+    "@@@Jenna responds, monotone as she returns her focus to the window."
 
-# game/Flynn-Thursday.rpy:11757
+# game/Flynn-Thursday.rpy:11765
 translate Schinese flynnsunday_71c30a06:
 
     # da "\"I'm just.. really glad I'm not alone.\""
-    da "\"I'm just.. really glad I'm not alone.\""
+    da "@@@\"I'm just.. really glad I'm not alone.\""
 
-# game/Flynn-Thursday.rpy:11758
+# game/Flynn-Thursday.rpy:11766
 translate Schinese flynnsunday_f64e4427:
 
     # "No one speaks after that."
-    "No one speaks after that."
+    "@@@No one speaks after that."
 
-# game/Flynn-Thursday.rpy:11759
+# game/Flynn-Thursday.rpy:11767
 translate Schinese flynnsunday_8c6e5e64:
 
     # "As the truck's engine pulls us up another hill, I see something come into the view through a clearing of cacti."
-    "As the truck's engine pulls us up another hill, I see something come into the view through a clearing of cacti."
+    "@@@As the truck's engine pulls us up another hill, I see something come into the view through a clearing of cacti."
 
-# game/Flynn-Thursday.rpy:11760
+# game/Flynn-Thursday.rpy:11768
 translate Schinese flynnsunday_d29e6cc0:
 
     # f "\"Oh, fuck me gently.\""
-    f "\"Oh, fuck me gently.\""
+    f "@@@\"Oh, fuck me gently.\""
 
-# game/Flynn-Thursday.rpy:11761
+# game/Flynn-Thursday.rpy:11769
 translate Schinese flynnsunday_6c8736da_1:
 
     # "{b}Echo Mine: Danicka Entrance{/b}."
-    "{b}Echo Mine: Danicka Entrance{/b}."
+    "@@@{b}Echo Mine: Danicka Entrance{/b}."
 
-# game/Flynn-Thursday.rpy:11762
+# game/Flynn-Thursday.rpy:11770
 translate Schinese flynnsunday_5650f47b:
 
     # t "\"Noooo...\""
-    t "\"Noooo...\""
+    t "@@@\"Noooo...\""
 
-# game/Flynn-Thursday.rpy:11763
+# game/Flynn-Thursday.rpy:11771
 translate Schinese flynnsunday_83ee1c5a:
 
     # "TJ whines."
-    "TJ whines."
+    "@@@TJ whines."
 
-# game/Flynn-Thursday.rpy:11765
+# game/Flynn-Thursday.rpy:11773
 translate Schinese flynnsunday_8e78cbf6:
 
     # "Leo slows down more and more until we come to a gentle stop."
-    "Leo slows down more and more until we come to a gentle stop."
+    "@@@Leo slows down more and more until we come to a gentle stop."
 
-# game/Flynn-Thursday.rpy:11766
+# game/Flynn-Thursday.rpy:11774
 translate Schinese flynnsunday_f5a8ffe6:
 
     # "We sit there in silence, staring at the faded text and the gravel trail that leads into the canyon head."
-    "We sit there in silence, staring at the faded text and the gravel trail that leads into the canyon head."
+    "@@@We sit there in silence, staring at the faded text and the gravel trail that leads into the canyon head."
 
-# game/Flynn-Thursday.rpy:11767
+# game/Flynn-Thursday.rpy:11775
 translate Schinese flynnsunday_76783752:
 
     # "Leo starts muttering darkly to himself, looking out the windows, then at the dashboard."
-    "Leo starts muttering darkly to himself, looking out the windows, then at the dashboard."
+    "@@@Leo starts muttering darkly to himself, looking out the windows, then at the dashboard."
 
-# game/Flynn-Thursday.rpy:11768
+# game/Flynn-Thursday.rpy:11776
 translate Schinese flynnsunday_46d7e104:
 
     # "I don't ask him if he's okay, I know what the answer is."
-    "I don't ask him if he's okay, I know what the answer is."
+    "@@@I don't ask him if he's okay, I know what the answer is."
 
-# game/Flynn-Thursday.rpy:11769
+# game/Flynn-Thursday.rpy:11777
 translate Schinese flynnsunday_e0c7d182:
 
     # "TJ continues to make soft whimpering sounds, like he's trying not to cry."
-    "TJ continues to make soft whimpering sounds, like he's trying not to cry."
+    "@@@TJ continues to make soft whimpering sounds, like he's trying not to cry."
 
-# game/Flynn-Thursday.rpy:11770
+# game/Flynn-Thursday.rpy:11778
 translate Schinese flynnsunday_47e22903:
 
     # l "\"It's okay, it's just.. dark, and we're going off road somehow.\""
-    l "\"It's okay, it's just.. dark, and we're going off road somehow.\""
+    l "@@@\"It's okay, it's just.. dark, and we're going off road somehow.\""
 
-# game/Flynn-Thursday.rpy:11771
+# game/Flynn-Thursday.rpy:11779
 translate Schinese flynnsunday_bb3629ac:
 
     # "Leo whispers whatever comes to mind to explain what the fuck is happening."
-    "Leo whispers whatever comes to mind to explain what the fuck is happening."
+    "@@@Leo whispers whatever comes to mind to explain what the fuck is happening."
 
-# game/Flynn-Thursday.rpy:11772
+# game/Flynn-Thursday.rpy:11780
 translate Schinese flynnsunday_c22b1342:
 
     # "Carl still has his head down in his paws, completely quiet."
-    "Carl still has his head down in his paws, completely quiet."
+    "@@@Carl still has his head down in his paws, completely quiet."
 
-# game/Flynn-Thursday.rpy:11773
+# game/Flynn-Thursday.rpy:11781
 translate Schinese flynnsunday_bdd38b51:
 
     # "He could be asleep for all I know."
-    "He could be asleep for all I know."
+    "@@@He could be asleep for all I know."
 
-# game/Flynn-Thursday.rpy:11774
+# game/Flynn-Thursday.rpy:11782
 translate Schinese flynnsunday_3c4d1921:
 
     # "I think about suggesting that maybe we should just wait it out until morning in the car."
-    "I think about suggesting that maybe we should just wait it out until morning in the car."
+    "@@@I think about suggesting that maybe we should just wait it out until morning in the car."
 
-# game/Flynn-Thursday.rpy:11776
+# game/Flynn-Thursday.rpy:11784
 translate Schinese flynnsunday_235a9aeb:
 
     # "But as I open my mouth, I hear a scratching noise toward the back of the car."
-    "But as I open my mouth, I hear a scratching noise toward the back of the car."
+    "@@@But as I open my mouth, I hear a scratching noise toward the back of the car."
 
-# game/Flynn-Thursday.rpy:11777
+# game/Flynn-Thursday.rpy:11785
 translate Schinese flynnsunday_0a3ca0ac:
 
     # "TJ's ears perk up, which let's me know that I'm not the only one."
-    "TJ's ears perk up, which let's me know that I'm not the only one."
+    "@@@TJ's ears perk up, which let's me know that I'm not the only one."
 
-# game/Flynn-Thursday.rpy:11778
+# game/Flynn-Thursday.rpy:11786
 translate Schinese flynnsunday_698a0b5e:
 
     # "Instinctively, I turn around in my seat—"
-    "Instinctively, I turn around in my seat—"
+    "@@@Instinctively, I turn around in my seat—"
 
-# game/Flynn-Thursday.rpy:11782
+# game/Flynn-Thursday.rpy:11790
 translate Schinese flynnsunday_6e7b2688:
 
     # "Bits of glass fly into my face and the next thing I know, I'm down in my seat, head down with my rifle raised toward the hole."
-    "Bits of glass fly into my face and the next thing I know, I'm down in my seat, head down with my rifle raised toward the hole."
+    "@@@Bits of glass fly into my face and the next thing I know, I'm down in my seat, head down with my rifle raised toward the hole."
 
-# game/Flynn-Thursday.rpy:11783
+# game/Flynn-Thursday.rpy:11791
 translate Schinese flynnsunday_028d1659:
 
     # f "\"GET DOWN!\""
-    f "\"GET DOWN!\""
+    f "@@@\"GET DOWN!\""
 
-# game/Flynn-Thursday.rpy:11785
+# game/Flynn-Thursday.rpy:11793
 translate Schinese flynnsunday_e24c917d:
 
     # "Carl ducks, and Jenna and TJ lurch away to their respective sides of the car - TJ accidentally opening his car door and nearly tumbling out."
-    "Carl ducks, and Jenna and TJ lurch away to their respective sides of the car - TJ accidentally opening his car door and nearly tumbling out."
+    "@@@Carl ducks, and Jenna and TJ lurch away to their respective sides of the car - TJ accidentally opening his car door and nearly tumbling out."
 
-# game/Flynn-Thursday.rpy:11786
+# game/Flynn-Thursday.rpy:11794
 translate Schinese flynnsunday_d05e7487:
 
     # da "\"Close the door, close the door!!\""
-    da "\"Close the door, close the door!!\""
+    da "@@@\"Close the door, close the door!!\""
 
-# game/Flynn-Thursday.rpy:11787
+# game/Flynn-Thursday.rpy:11795
 translate Schinese flynnsunday_8606533f:
 
     # "Carl manages to get a hold on the lynx, trying to tug him back upright as TJ cries, flailing about."
-    "Carl manages to get a hold on the lynx, trying to tug him back upright as TJ cries, flailing about."
+    "@@@Carl manages to get a hold on the lynx, trying to tug him back upright as TJ cries, flailing about."
 
-# game/Flynn-Thursday.rpy:11788
+# game/Flynn-Thursday.rpy:11796
 translate Schinese flynnsunday_417be8e4:
 
     # "I can't get a good shot, Carl's big head bobbing up and around as something moves around outside toward the newly opened car door."
-    "I can't get a good shot, Carl's big head bobbing up and around as something moves around outside toward the newly opened car door."
+    "@@@I can't get a good shot, Carl's big head bobbing up and around as something moves around outside toward the newly opened car door."
 
-# game/Flynn-Thursday.rpy:11790
+# game/Flynn-Thursday.rpy:11798
 translate Schinese flynnsunday_3353a102:
 
     # "A shot rings out, though not from me."
-    "A shot rings out, though not from me."
+    "@@@A shot rings out, though not from me."
 
-# game/Flynn-Thursday.rpy:11791
+# game/Flynn-Thursday.rpy:11799
 translate Schinese flynnsunday_76ff9ed1:
 
     # "A wide-eyed looking Jenna holds her smoking pistol up and fires again."
-    "A wide-eyed looking Jenna holds her smoking pistol up and fires again."
+    "@@@A wide-eyed looking Jenna holds her smoking pistol up and fires again."
 
-# game/Flynn-Thursday.rpy:11793
+# game/Flynn-Thursday.rpy:11801
 translate Schinese flynnsunday_325ce393:
 
     # "The sharp {i}crack{/i} reverberates throughout the cabin once more."
-    "The sharp {i}crack{/i} reverberates throughout the cabin once more."
+    "@@@The sharp {i}crack{/i} reverberates throughout the cabin once more."
 
-# game/Flynn-Thursday.rpy:11795
+# game/Flynn-Thursday.rpy:11803
 translate Schinese flynnsunday_6eacfcfc:
 
     # "Carl, very much awake now, slams TJ's door shut and screams at Leo."
-    "Carl, very much awake now, slams TJ's door shut and screams at Leo."
+    "@@@Carl, very much awake now, slams TJ's door shut and screams at Leo."
 
-# game/Flynn-Thursday.rpy:11796
+# game/Flynn-Thursday.rpy:11804
 translate Schinese flynnsunday_89dcaaf7:
 
     # c "\"Go, Go, Go!\""
-    c "\"Go, Go, Go!\""
+    c "@@@\"Go, Go, Go!\""
 
-# game/Flynn-Thursday.rpy:11799
+# game/Flynn-Thursday.rpy:11807
 translate Schinese flynnsunday_b5a727ff:
 
     # "Leo's already on it, and I feel the car jolt forward."
-    "Leo's already on it, and I feel the car jolt forward."
+    "@@@Leo's already on it, and I feel the car jolt forward."
 
-# game/Flynn-Thursday.rpy:11800
+# game/Flynn-Thursday.rpy:11808
 translate Schinese flynnsunday_e855e8f2:
 
     # "Then I'm bouncing up and down in the seat as we go off-road, Leo not bothering with a three-point turn this time, instead going for a full U-turn."
-    "Then I'm bouncing up and down in the seat as we go off-road, Leo not bothering with a three-point turn this time, instead going for a full U-turn."
+    "@@@Then I'm bouncing up and down in the seat as we go off-road, Leo not bothering with a three-point turn this time, instead going for a full U-turn."
 
-# game/Flynn-Thursday.rpy:11801
+# game/Flynn-Thursday.rpy:11809
 translate Schinese flynnsunday_3225243e:
 
     # "We're back on the asphalt and speeding down the road when I feel it's safe enough to raise my head back up and look out the back window."
-    "We're back on the asphalt and speeding down the road when I feel it's safe enough to raise my head back up and look out the back window."
+    "@@@We're back on the asphalt and speeding down the road when I feel it's safe enough to raise my head back up and look out the back window."
 
-# game/Flynn-Thursday.rpy:11802
+# game/Flynn-Thursday.rpy:11810
 translate Schinese flynnsunday_1383c7a1:
 
     # "For a moment, I'm terrified that I'm going to find that thing crouched on the trunk, staring in at us—"
-    "For a moment, I'm terrified that I'm going to find that thing crouched on the trunk, staring in at us—"
+    "@@@For a moment, I'm terrified that I'm going to find that thing crouched on the trunk, staring in at us—"
 
-# game/Flynn-Thursday.rpy:11803
+# game/Flynn-Thursday.rpy:11811
 translate Schinese flynnsunday_b31db603:
 
     # "—but instead, all I see is a giant hole through the back window, the remaining glass jagged."
-    "—but instead, all I see is a giant hole through the back window, the remaining glass jagged."
+    "@@@—but instead, all I see is a giant hole through the back window, the remaining glass jagged."
 
-# game/Flynn-Thursday.rpy:11804
+# game/Flynn-Thursday.rpy:11812
 translate Schinese flynnsunday_cfdb4329:
 
     # da "\"Oh God! Are you guys okay!?\""
-    da "\"Oh God! Are you guys okay!?\""
+    da "@@@\"Oh God! Are you guys okay!?\""
 
-# game/Flynn-Thursday.rpy:11805
+# game/Flynn-Thursday.rpy:11813
 translate Schinese flynnsunday_1266605d:
 
     # "Daxton looks back and forth between us and the road behind the van."
-    "Daxton looks back and forth between us and the road behind the van."
+    "@@@Daxton looks back and forth between us and the road behind the van."
 
-# game/Flynn-Thursday.rpy:11806
+# game/Flynn-Thursday.rpy:11814
 translate Schinese flynnsunday_cc4a61ad:
 
     # "Chase, meanwhile, looks like he's about to throw up again, his mustelid features scrunched in a tight grimace as he shivers with fear and other general unwellness."
-    "Chase, meanwhile, looks like he's about to throw up again, his mustelid features scrunched in a tight grimace as he shivers with fear and other general unwellness."
+    "@@@Chase, meanwhile, looks like he's about to throw up again, his mustelid features scrunched in a tight grimace as he shivers with fear and other general unwellness."
 
-# game/Flynn-Thursday.rpy:11807
+# game/Flynn-Thursday.rpy:11815
 translate Schinese flynnsunday_957f52e6:
 
     # "I sit up fully, keeping my sights trained on the back."
-    "I sit up fully, keeping my sights trained on the back."
+    "@@@I sit up fully, keeping my sights trained on the back."
 
-# game/Flynn-Thursday.rpy:11808
+# game/Flynn-Thursday.rpy:11816
 translate Schinese flynnsunday_a7f06899:
 
     # f "\"Yeah!\""
-    f "\"Yeah!\""
+    f "@@@\"Yeah!\""
 
-# game/Flynn-Thursday.rpy:11809
+# game/Flynn-Thursday.rpy:11817
 translate Schinese flynnsunday_2b4d2596:
 
     # "I yell at him over the sound of the car and the wind whistling around behind me."
-    "I yell at him over the sound of the car and the wind whistling around behind me."
+    "@@@I yell at him over the sound of the car and the wind whistling around behind me."
 
-# game/Flynn-Thursday.rpy:11810
+# game/Flynn-Thursday.rpy:11818
 translate Schinese flynnsunday_b34e20c5:
 
     # f "\"Jenna, did you get it?!\""
-    f "\"Jenna, did you get it?!\""
+    f "@@@\"Jenna, did you get it?!\""
 
-# game/Flynn-Thursday.rpy:11811
+# game/Flynn-Thursday.rpy:11819
 translate Schinese flynnsunday_5f4e4674:
 
     # j "\"I don't know!\""
-    j "\"I don't know!\""
+    j "@@@\"I don't know!\""
 
-# game/Flynn-Thursday.rpy:11812
+# game/Flynn-Thursday.rpy:11820
 translate Schinese flynnsunday_485e2275:
 
     # "Carl is bent over in his seat, too, brushing glass from his hat and hoodie."
-    "Carl is bent over in his seat, too, brushing glass from his hat and hoodie."
+    "@@@Carl is bent over in his seat, too, brushing glass from his hat and hoodie."
 
-# game/Flynn-Thursday.rpy:11813
+# game/Flynn-Thursday.rpy:11821
 translate Schinese flynnsunday_64c30a7a:
 
     # "I look at TJ who's still crouched over in his own seat, covering his head."
-    "I look at TJ who's still crouched over in his own seat, covering his head."
+    "@@@I look at TJ who's still crouched over in his own seat, covering his head."
 
-# game/Flynn-Thursday.rpy:11814
+# game/Flynn-Thursday.rpy:11822
 translate Schinese flynnsunday_7962940c:
 
     # "Bits of glass are scattered on his back and head."
-    "Bits of glass are scattered on his back and head."
+    "@@@Bits of glass are scattered on his back and head."
 
-# game/Flynn-Thursday.rpy:11815
+# game/Flynn-Thursday.rpy:11823
 translate Schinese flynnsunday_63a92521:
 
     # "I pick some of the pieces out from the fur on his neck and lean over him."
-    "I pick some of the pieces out from the fur on his neck and lean over him."
+    "@@@I pick some of the pieces out from the fur on his neck and lean over him."
 
-# game/Flynn-Thursday.rpy:11816
+# game/Flynn-Thursday.rpy:11824
 translate Schinese flynnsunday_b3b4a614:
 
     # j "\"TJ, are you alright?\""
-    j "\"TJ, are you alright?\""
+    j "@@@\"TJ, are you alright?\""
 
-# game/Flynn-Thursday.rpy:11817
+# game/Flynn-Thursday.rpy:11825
 translate Schinese flynnsunday_1ca77580:
 
     # "TJ shudders and doesn't say anything as Jenna plucks some of the shards from under his collar."
-    "TJ shudders and doesn't say anything as Jenna plucks some of the shards from under his collar."
+    "@@@TJ shudders and doesn't say anything as Jenna plucks some of the shards from under his collar."
 
-# game/Flynn-Thursday.rpy:11818
+# game/Flynn-Thursday.rpy:11826
 translate Schinese flynnsunday_29dfb7a0:
 
     # da "\"What was that!?\""
-    da "\"What was that!?\""
+    da "@@@\"What was that!?\""
 
-# game/Flynn-Thursday.rpy:11819
+# game/Flynn-Thursday.rpy:11827
 translate Schinese flynnsunday_c05e0198:
 
     # "Daxton shouts back at us, staring through the window."
-    "Daxton shouts back at us, staring through the window."
+    "@@@Daxton shouts back at us, staring through the window."
 
-# game/Flynn-Thursday.rpy:11820
+# game/Flynn-Thursday.rpy:11828
 translate Schinese flynnsunday_ef7ce85b:
 
     # f "\"Fuck if I know!\""
-    f "\"Fuck if I know!\""
+    f "@@@\"Fuck if I know!\""
 
-# game/Flynn-Thursday.rpy:11821
+# game/Flynn-Thursday.rpy:11829
 translate Schinese flynnsunday_b6e883e3:
 
     # "I don't want to think about what I actually think it was. I just need to be ready if it comes again."
-    "I don't want to think about what I actually think it was. I just need to be ready if it comes again."
+    "@@@I don't want to think about what I actually think it was. I just need to be ready if it comes again."
 
-# game/Flynn-Thursday.rpy:11822
+# game/Flynn-Thursday.rpy:11830
 translate Schinese flynnsunday_dfc1a7b2:
 
     # "Leo keeps up the high speed, hitting some of the pot holes hard enough that I'm worried we're going to get a flat."
-    "Leo keeps up the high speed, hitting some of the pot holes hard enough that I'm worried we're going to get a flat."
+    "@@@Leo keeps up the high speed, hitting some of the pot holes hard enough that I'm worried we're going to get a flat."
 
-# game/Flynn-Thursday.rpy:11823
+# game/Flynn-Thursday.rpy:11831
 translate Schinese flynnsunday_4c7f2963:
 
     # "Then we'd be in some REAL deep shit."
-    "Then we'd be in some REAL deep shit."
+    "@@@Then we'd be in some REAL deep shit."
 
-# game/Flynn-Thursday.rpy:11824
+# game/Flynn-Thursday.rpy:11832
 translate Schinese flynnsunday_31c99092:
 
     # "We drive on for another five minutes in silence."
-    "We drive on for another five minutes in silence."
+    "@@@We drive on for another five minutes in silence."
 
-# game/Flynn-Thursday.rpy:11825
+# game/Flynn-Thursday.rpy:11833
 translate Schinese flynnsunday_2b4afc84:
 
     # "And then the sign appears in front of us again."
-    "And then the sign appears in front of us again."
+    "@@@And then the sign appears in front of us again."
 
-# game/Flynn-Thursday.rpy:11826
+# game/Flynn-Thursday.rpy:11834
 translate Schinese flynnsunday_885582dd:
 
     # "This time no one says anything and Leo doesn't bother turning around."
-    "This time no one says anything and Leo doesn't bother turning around."
+    "@@@This time no one says anything and Leo doesn't bother turning around."
 
-# game/Flynn-Thursday.rpy:11827
+# game/Flynn-Thursday.rpy:11835
 translate Schinese flynnsunday_71411545:
 
     # "I watch out my window as we fly past the historic path."
-    "I watch out my window as we fly past the historic path."
+    "@@@I watch out my window as we fly past the historic path."
 
-# game/Flynn-Thursday.rpy:11828
+# game/Flynn-Thursday.rpy:11836
 translate Schinese flynnsunday_64d677a1:
 
     # "But nothing happens."
-    "But nothing happens."
+    "@@@But nothing happens."
 
-# game/Flynn-Thursday.rpy:11829
+# game/Flynn-Thursday.rpy:11837
 translate Schinese flynnsunday_d48609eb:
 
     # "All I see is the tall piece of wood with the broken lights, and all I hear is the wind whipping around us."
-    "All I see is the tall piece of wood with the broken lights, and all I hear is the wind whipping around us."
+    "@@@All I see is the tall piece of wood with the broken lights, and all I hear is the wind whipping around us."
 
-# game/Flynn-Thursday.rpy:11830
+# game/Flynn-Thursday.rpy:11838
 translate Schinese flynnsunday_79528ed9:
 
     # "Jenna keeps a paw on TJ's back as he remains hunched over, the other still holding Duke's pistol."
-    "Jenna keeps a paw on TJ's back as he remains hunched over, the other still holding Duke's pistol."
+    "@@@Jenna keeps a paw on TJ's back as he remains hunched over, the other still holding Duke's pistol."
 
-# game/Flynn-Thursday.rpy:11831
+# game/Flynn-Thursday.rpy:11839
 translate Schinese flynnsunday_48d318bb:
 
     # "Carl sits quietly, staring out his window."
-    "Carl sits quietly, staring out his window."
+    "@@@Carl sits quietly, staring out his window."
 
-# game/Flynn-Thursday.rpy:11832
+# game/Flynn-Thursday.rpy:11840
 translate Schinese flynnsunday_9d986863:
 
     # "On the bright side, the bashed in back window has diminished the smell of sick, but the smoke smell is stronger than ever."
-    "On the bright side, the bashed in back window has diminished the smell of sick, but the smoke smell is stronger than ever."
+    "@@@On the bright side, the bashed in back window has diminished the smell of sick, but the smoke smell is stronger than ever."
 
-# game/Flynn-Thursday.rpy:11833
+# game/Flynn-Thursday.rpy:11841
 translate Schinese flynnsunday_4c272cbe:
 
     # "Sparse dots of light show up on the horizon, indicating where Echo is."
-    "Sparse dots of light show up on the horizon, indicating where Echo is."
+    "@@@Sparse dots of light show up on the horizon, indicating where Echo is."
 
-# game/Flynn-Thursday.rpy:11834
+# game/Flynn-Thursday.rpy:11842
 translate Schinese flynnsunday_390b4e82:
 
     # "That's when Leo speaks up."
-    "That's when Leo speaks up."
+    "@@@That's when Leo speaks up."
 
-# game/Flynn-Thursday.rpy:11835
+# game/Flynn-Thursday.rpy:11843
 translate Schinese flynnsunday_bbc8f83a:
 
     # l "\"How about we head back to my house? You guys can get some sleep while Chase and I figure out what to do next."
-    l "\"How about we head back to my house? You guys can get some sleep while Chase and I figure out what to do next."
+    l "@@@\"How about we head back to my house? You guys can get some sleep while Chase and I figure out what to do next."
 
-# game/Flynn-Thursday.rpy:11836
+# game/Flynn-Thursday.rpy:11844
 translate Schinese flynnsunday_8857234b:
 
     # "Leo pauses, waiting from an answer."
-    "Leo pauses, waiting from an answer."
+    "@@@Leo pauses, waiting from an answer."
 
-# game/Flynn-Thursday.rpy:11837
+# game/Flynn-Thursday.rpy:11845
 translate Schinese flynnsunday_930866a2:
 
     # m "\"What? Sure...\""
-    m "\"What? Sure...\""
+    m "@@@\"What? Sure...\""
 
-# game/Flynn-Thursday.rpy:11838
+# game/Flynn-Thursday.rpy:11846
 translate Schinese flynnsunday_d3d39c3a:
 
     # da "\"I'd rather not meet the same fate as that guy on the blanket. Yeah, I reckon that's sound.\""
-    da "\"I'd rather not meet the same fate as that guy on the blanket. Yeah, I reckon that's sound.\""
+    da "@@@\"I'd rather not meet the same fate as that guy on the blanket. Yeah, I reckon that's sound.\""
 
-# game/Flynn-Thursday.rpy:11839
+# game/Flynn-Thursday.rpy:11847
 translate Schinese flynnsunday_38ca80c6:
 
     # "I shift myself onto one knee in the seat, the old thing creaking under my weight."
-    "I shift myself onto one knee in the seat, the old thing creaking under my weight."
+    "@@@I shift myself onto one knee in the seat, the old thing creaking under my weight."
 
-# game/Flynn-Thursday.rpy:11840
+# game/Flynn-Thursday.rpy:11848
 translate Schinese flynnsunday_b779720e:
 
     # "I have to hunch low so that my head isn't smushed against the ceiling, quietly praying that Leo doesn't hit any serious bumps in the road."
-    "I have to hunch low so that my head isn't smushed against the ceiling, quietly praying that Leo doesn't hit any serious bumps in the road."
+    "@@@I have to hunch low so that my head isn't smushed against the ceiling, quietly praying that Leo doesn't hit any serious bumps in the road."
 
-# game/Flynn-Thursday.rpy:11841
+# game/Flynn-Thursday.rpy:11849
 translate Schinese flynnsunday_6e11facf:
 
     # "There's a sinking feeling in my stomach at the thought of going back to Echo."
-    "There's a sinking feeling in my stomach at the thought of going back to Echo."
+    "@@@There's a sinking feeling in my stomach at the thought of going back to Echo."
 
-# game/Flynn-Thursday.rpy:11842
+# game/Flynn-Thursday.rpy:11850
 translate Schinese flynnsunday_f31ee186:
 
     # "Part of me wonders whether Duke and Chase's car are still there, and we just imagined that whole grizzly scene."
-    "Part of me wonders whether Duke and Chase's car are still there, and we just imagined that whole grizzly scene."
+    "@@@Part of me wonders whether Duke and Chase's car are still there, and we just imagined that whole grizzly scene."
 
-# game/Flynn-Thursday.rpy:11844
+# game/Flynn-Thursday.rpy:11852
 translate Schinese flynnsunday_d353cc10:
 
     # "I stare out my window, watching the hills move slowly by under the moonlight as we turn onto Lake Emma Road."
-    "I stare out my window, watching the hills move slowly by under the moonlight as we turn onto Lake Emma Road."
+    "@@@I stare out my window, watching the hills move slowly by under the moonlight as we turn onto Lake Emma Road."
 
-# game/Flynn-Thursday.rpy:11845
+# game/Flynn-Thursday.rpy:11853
 translate Schinese flynnsunday_961f1b3e:
 
     # "Maybe taking one of the mountain roads out of town would be worth it, whether we'd have enough gas, when it happens."
-    "Maybe taking one of the mountain roads out of town would be worth it, whether we'd have enough gas, when it happens."
+    "@@@Maybe taking one of the mountain roads out of town would be worth it, whether we'd have enough gas, when it happens."
 
-# game/Flynn-Thursday.rpy:11846
+# game/Flynn-Thursday.rpy:11854
 translate Schinese flynnsunday_a20cefa7:
 
     # "..."
-    "..."
+    "@@@..."
 
-# game/Flynn-Thursday.rpy:11848
+# game/Flynn-Thursday.rpy:11856
 translate Schinese flynnsunday_d2d9752b:
 
     # "A crouched figure sits on the peak of a hill, just about 50 feet from where we are."
-    "A crouched figure sits on the peak of a hill, just about 50 feet from where we are."
+    "@@@A crouched figure sits on the peak of a hill, just about 50 feet from where we are."
 
-# game/Flynn-Thursday.rpy:11849
+# game/Flynn-Thursday.rpy:11857
 translate Schinese flynnsunday_c430875d:
 
     # "I squint at it, just barely able to make out what looks like shoulders and a head hunched up under the light of the moon."
-    "I squint at it, just barely able to make out what looks like shoulders and a head hunched up under the light of the moon."
+    "@@@I squint at it, just barely able to make out what looks like shoulders and a head hunched up under the light of the moon."
 
-# game/Flynn-Thursday.rpy:11850
+# game/Flynn-Thursday.rpy:11858
 translate Schinese flynnsunday_3ee000fb:
 
     # f "\"Oh shit...\""
-    f "\"Oh shit...\""
+    f "@@@\"Oh shit...\""
 
-# game/Flynn-Thursday.rpy:11851
+# game/Flynn-Thursday.rpy:11859
 translate Schinese flynnsunday_876cd8ce:
 
     # "I'm directly across from the thing when I open my mouth."
-    "I'm directly across from the thing when I open my mouth."
+    "@@@I'm directly across from the thing when I open my mouth."
 
-# game/Flynn-Thursday.rpy:11853
+# game/Flynn-Thursday.rpy:11861
 translate Schinese flynnsunday_372c518b:
 
     # "But I'm barely able to make a sound when it moves."
-    "But I'm barely able to make a sound when it moves."
+    "@@@But I'm barely able to make a sound when it moves."
 
-# game/Flynn-Thursday.rpy:11855
+# game/Flynn-Thursday.rpy:11863
 translate Schinese flynnsunday_f356ecad:
 
     # "It dashes down the hill in the blink of an eye, covering the distance between it and our car in a matter of two seconds."
-    "It dashes down the hill in the blink of an eye, covering the distance between it and our car in a matter of two seconds."
+    "@@@It dashes down the hill in the blink of an eye, covering the distance between it and our car in a matter of two seconds."
 
-# game/Flynn-Thursday.rpy:11856
+# game/Flynn-Thursday.rpy:11864
 translate Schinese flynnsunday_96b9aced:
 
     # "One moment I'm staring at a tiny black figure and the next it's right up against the car, smashing into the side between my door and Jenna's."
-    "One moment I'm staring at a tiny black figure and the next it's right up against the car, smashing into the side between my door and Jenna's."
+    "@@@One moment I'm staring at a tiny black figure and the next it's right up against the car, smashing into the side between my door and Jenna's."
 
-# game/Flynn-Thursday.rpy:11859
+# game/Flynn-Thursday.rpy:11867
 translate Schinese flynnsunday_15d6ec47:
 
     # "My head smacks into the glass and I see a flash of white."
-    "My head smacks into the glass and I see a flash of white."
+    "@@@My head smacks into the glass and I see a flash of white."
 
-# game/Flynn-Thursday.rpy:11860
+# game/Flynn-Thursday.rpy:11868
 translate Schinese flynnsunday_7d69af64:
 
     # "At the same time I hear Jenna shout at us to hold on, TJ screams, Carl yells..."
-    "At the same time I hear Jenna shout at us to hold on, TJ screams, Carl yells..."
+    "@@@At the same time I hear Jenna shout at us to hold on, TJ screams, Carl yells..."
 
-# game/Flynn-Thursday.rpy:11876
+# game/Flynn-Thursday.rpy:11884
 translate Schinese flynnsunday_57135507:
 
     # l "\"I don't...\""
-    l "\"I don't...\""
+    l "@@@\"I don't...\""
 
-# game/Flynn-Thursday.rpy:11877
+# game/Flynn-Thursday.rpy:11885
 translate Schinese flynnsunday_52068c91:
 
     # "Leo turns in his seat, looking out the passenger window, then his own."
-    "Leo turns in his seat, looking out the passenger window, then his own."
+    "@@@Leo turns in his seat, looking out the passenger window, then his own."
 
-# game/Flynn-Thursday.rpy:11878
+# game/Flynn-Thursday.rpy:11886
 translate Schinese flynnsunday_2b4034e9:
 
     # l "\"I'm heading the right way, right?\""
-    l "\"I'm heading the right way, right?\""
+    l "@@@\"I'm heading the right way, right?\""
 
-# game/Flynn-Thursday.rpy:11879
+# game/Flynn-Thursday.rpy:11887
 translate Schinese flynnsunday_db169d6e_1:
 
     # t "\"Why'd we stop?\""
-    t "\"Why'd we stop?\""
+    t "@@@\"Why'd we stop?\""
 
-# game/Flynn-Thursday.rpy:11880
+# game/Flynn-Thursday.rpy:11888
 translate Schinese flynnsunday_45974b26_1:
 
     # "TJ sounds panicked, the lynx turned around in his seat as he stares out the back window."
-    "TJ sounds panicked, the lynx turned around in his seat as he stares out the back window."
+    "@@@TJ sounds panicked, the lynx turned around in his seat as he stares out the back window."
 
-# game/Flynn-Thursday.rpy:11881
+# game/Flynn-Thursday.rpy:11889
 translate Schinese flynnsunday_4046e097_1:
 
     # "It's the first time I've seen him in a car without his seatbelt on."
-    "It's the first time I've seen him in a car without his seatbelt on."
+    "@@@It's the first time I've seen him in a car without his seatbelt on."
 
-# game/Flynn-Thursday.rpy:11882
+# game/Flynn-Thursday.rpy:11890
 translate Schinese flynnsunday_320e6740:
 
     # "Leo goes silent, a look of befuddlement crossing his red and white muzzle."
-    "Leo goes silent, a look of befuddlement crossing his red and white muzzle."
+    "@@@Leo goes silent, a look of befuddlement crossing his red and white muzzle."
 
-# game/Flynn-Thursday.rpy:11883
+# game/Flynn-Thursday.rpy:11891
 translate Schinese flynnsunday_ac99de2a_1:
 
     # "He's looking to the mountains that surround Echo Canyon."
-    "He's looking to the mountains that surround Echo Canyon."
+    "@@@He's looking to the mountains that surround Echo Canyon."
 
-# game/Flynn-Thursday.rpy:11884
+# game/Flynn-Thursday.rpy:11892
 translate Schinese flynnsunday_2d651311:
 
     # j "\"We aren't. Look.\""
-    j "\"We aren't. Look.\""
+    j "@@@\"We aren't. Look.\""
 
-# game/Flynn-Thursday.rpy:11885
+# game/Flynn-Thursday.rpy:11893
 translate Schinese flynnsunday_3a6dc3cb_1:
 
     # "Jenna scoots forward to the edge of her seat, pointing to something outside."
-    "Jenna scoots forward to the edge of her seat, pointing to something outside."
+    "@@@Jenna scoots forward to the edge of her seat, pointing to something outside."
 
-# game/Flynn-Thursday.rpy:11886
+# game/Flynn-Thursday.rpy:11894
 translate Schinese flynnsunday_0e4bf30a_1:
 
     # j "\"The hills, those were on our right side a while ago.\""
-    j "\"The hills, those were on our right side a while ago.\""
+    j "@@@\"The hills, those were on our right side a while ago.\""
 
-# game/Flynn-Thursday.rpy:11887
+# game/Flynn-Thursday.rpy:11895
 translate Schinese flynnsunday_1fabe062_1:
 
     # j "\"We must have looped around.\""
-    j "\"We must have looped around.\""
+    j "@@@\"We must have looped around.\""
 
-# game/Flynn-Thursday.rpy:11888
+# game/Flynn-Thursday.rpy:11896
 translate Schinese flynnsunday_14ab30e7_1:
 
     # t "\"But we've been going straight this whole time!\""
-    t "\"But we've been going straight this whole time!\""
+    t "@@@\"But we've been going straight this whole time!\""
 
-# game/Flynn-Thursday.rpy:11889
+# game/Flynn-Thursday.rpy:11897
 translate Schinese flynnsunday_f9d36a96_1:
 
     # j "\"The only way we'd be going back this way is if we got turned around when we hit the main highway.\""
-    j "\"The only way we'd be going back this way is if we got turned around when we hit the main highway.\""
+    j "@@@\"The only way we'd be going back this way is if we got turned around when we hit the main highway.\""
 
-# game/Flynn-Thursday.rpy:11890
+# game/Flynn-Thursday.rpy:11898
 translate Schinese flynnsunday_cd217c32_1:
 
     # j "\"But we haven't hit the main highway, have we?\""
-    j "\"But we haven't hit the main highway, have we?\""
+    j "@@@\"But we haven't hit the main highway, have we?\""
 
-# game/Flynn-Thursday.rpy:11891
+# game/Flynn-Thursday.rpy:11899
 translate Schinese flynnsunday_94af40e0_1:
 
     # "Chase presses his furry cheek against the window, his tired eyes bulging."
-    "Chase presses his furry cheek against the window, his tired eyes bulging."
+    "@@@Chase presses his furry cheek against the window, his tired eyes bulging."
 
-# game/Flynn-Thursday.rpy:11892
+# game/Flynn-Thursday.rpy:11900
 translate Schinese flynnsunday_de245fb0_1:
 
     # m "\"What in the.. the goddamn...\""
-    m "\"What in the.. the goddamn...\""
+    m "@@@\"What in the.. the goddamn...\""
 
-# game/Flynn-Thursday.rpy:11893
+# game/Flynn-Thursday.rpy:11901
 translate Schinese flynnsunday_61f01206_1:
 
     # "He trails off."
-    "He trails off."
+    "@@@He trails off."
 
-# game/Flynn-Thursday.rpy:11894
+# game/Flynn-Thursday.rpy:11902
 translate Schinese flynnsunday_df81a37d_1:
 
     # da "\"So we just seamlessly transitioned from going one way to the other without any of us noticing?\""
-    da "\"So we just seamlessly transitioned from going one way to the other without any of us noticing?\""
+    da "@@@\"So we just seamlessly transitioned from going one way to the other without any of us noticing?\""
 
-# game/Flynn-Thursday.rpy:11895
+# game/Flynn-Thursday.rpy:11903
 translate Schinese flynnsunday_2e1f8b3b_1:
 
     # j "\"No, Leo must've gotten off and turned around on that side road that l-\""
-    j "\"No, Leo must've gotten off and turned around on that side road that l-\""
+    j "@@@\"No, Leo must've gotten off and turned around on that side road that l-\""
 
-# game/Flynn-Thursday.rpy:11896
+# game/Flynn-Thursday.rpy:11904
 translate Schinese flynnsunday_9ec74199:
 
     # l "\"There's no way, I just-\""
-    l "\"There's no way, I just-\""
+    l "@@@\"There's no way, I just-\""
 
-# game/Flynn-Thursday.rpy:11898
+# game/Flynn-Thursday.rpy:11906
 translate Schinese flynnsunday_5a118beb:
 
     # "While trying to lean forward to get a better look at the mountains, Leo's elbow pushes down on the horn."
-    "While trying to lean forward to get a better look at the mountains, Leo's elbow pushes down on the horn."
+    "@@@While trying to lean forward to get a better look at the mountains, Leo's elbow pushes down on the horn."
 
-# game/Flynn-Thursday.rpy:11899
+# game/Flynn-Thursday.rpy:11907
 translate Schinese flynnsunday_06fe82de_1:
 
     # "TJ gasps, digging his claws into the fabric of his seat."
-    "TJ gasps, digging his claws into the fabric of his seat."
+    "@@@TJ gasps, digging his claws into the fabric of his seat."
 
-# game/Flynn-Thursday.rpy:11900
+# game/Flynn-Thursday.rpy:11908
 translate Schinese flynnsunday_a203fe42_1:
 
     # t "\"Please don't do that!\""
-    t "\"Please don't do that!\""
+    t "@@@\"Please don't do that!\""
 
-# game/Flynn-Thursday.rpy:11901
+# game/Flynn-Thursday.rpy:11909
 translate Schinese flynnsunday_ba50e5a8:
 
     # l "\"It was an accident, I swear!\""
-    l "\"It was an accident, I swear!\""
+    l "@@@\"It was an accident, I swear!\""
 
-# game/Flynn-Thursday.rpy:11902
+# game/Flynn-Thursday.rpy:11910
 translate Schinese flynnsunday_2a741a33:
 
     # t "\"Okay, just.. let's be quiet, okay?!\""
-    t "\"Okay, just.. let's be quiet, okay?!\""
+    t "@@@\"Okay, just.. let's be quiet, okay?!\""
 
-# game/Flynn-Thursday.rpy:11903
+# game/Flynn-Thursday.rpy:11911
 translate Schinese flynnsunday_b4eff541_1:
 
     # j "\"Leo, we're going the wrong way.\""
-    j "\"Leo, we're going the wrong way.\""
+    j "@@@\"Leo, we're going the wrong way.\""
 
-# game/Flynn-Thursday.rpy:11904
+# game/Flynn-Thursday.rpy:11912
 translate Schinese flynnsunday_1360de58:
 
     # "Jenna speaks as calmly as possible, clearly aware that the tension in here is getting increasingly high."
-    "Jenna speaks as calmly as possible, clearly aware that the tension in here is getting increasingly high."
+    "@@@Jenna speaks as calmly as possible, clearly aware that the tension in here is getting increasingly high."
 
-# game/Flynn-Thursday.rpy:11907
+# game/Flynn-Thursday.rpy:11915
 translate Schinese flynnsunday_2dd15ffc_1:
 
     # "Leo brings the car to a hard stop, throwing me forward into the seatbelt."
-    "Leo brings the car to a hard stop, throwing me forward into the seatbelt."
+    "@@@Leo brings the car to a hard stop, throwing me forward into the seatbelt."
 
-# game/Flynn-Thursday.rpy:11910
+# game/Flynn-Thursday.rpy:11918
 translate Schinese flynnsunday_3e6219e9_1:
 
     # "Then he does a quick three-point turn, shoving me right, then left before I'm smacked back into the seat as Leo accelerates again."
-    "Then he does a quick three-point turn, shoving me right, then left before I'm smacked back into the seat as Leo accelerates again."
+    "@@@Then he does a quick three-point turn, shoving me right, then left before I'm smacked back into the seat as Leo accelerates again."
 
-# game/Flynn-Thursday.rpy:11912
+# game/Flynn-Thursday.rpy:11920
 translate Schinese flynnsunday_f4b1da9a_1:
 
     # "I hear a soft thunk of flesh-on-glass, then a groan from the back - Chase rubbing his face with a sore looking nose."
-    "I hear a soft thunk of flesh-on-glass, then a groan from the back - Chase rubbing his face with a sore looking nose."
+    "@@@I hear a soft thunk of flesh-on-glass, then a groan from the back - Chase rubbing his face with a sore looking nose."
 
-# game/Flynn-Thursday.rpy:11913
+# game/Flynn-Thursday.rpy:11921
 translate Schinese flynnsunday_97392816_1:
 
     # "Injury upon injury."
-    "Injury upon injury."
+    "@@@Injury upon injury."
 
-# game/Flynn-Thursday.rpy:11914
+# game/Flynn-Thursday.rpy:11922
 translate Schinese flynnsunday_3cff42d5:
 
     # l "\"Sorry, Chase.\""
-    l "\"Sorry, Chase.\""
+    l "@@@\"Sorry, Chase.\""
 
-# game/Flynn-Thursday.rpy:11915
+# game/Flynn-Thursday.rpy:11923
 translate Schinese flynnsunday_bca946c2_1:
 
     # da "\"You okay?\""
-    da "\"You okay?\""
+    da "@@@\"You okay?\""
 
-# game/Flynn-Thursday.rpy:11916
+# game/Flynn-Thursday.rpy:11924
 translate Schinese flynnsunday_c651d0c8_1:
 
     # m "\"No.\""
-    m "\"No.\""
+    m "@@@\"No.\""
 
-# game/Flynn-Thursday.rpy:11917
+# game/Flynn-Thursday.rpy:11925
 translate Schinese flynnsunday_9cfeb89f_1:
 
     # "He responds back hoarsely, sinking back further into the scratchy fabric of his seat."
-    "He responds back hoarsely, sinking back further into the scratchy fabric of his seat."
+    "@@@He responds back hoarsely, sinking back further into the scratchy fabric of his seat."
 
-# game/Flynn-Thursday.rpy:11918
+# game/Flynn-Thursday.rpy:11926
 translate Schinese flynnsunday_dc098548_1:
 
     # da "\"Oh. Same.\""
-    da "\"Oh. Same.\""
+    da "@@@\"Oh. Same.\""
 
-# game/Flynn-Thursday.rpy:11919
+# game/Flynn-Thursday.rpy:11927
 translate Schinese flynnsunday_d9ae5f44_1:
 
     # "Daxton does a curt nod."
-    "Daxton does a curt nod."
+    "@@@Daxton does a curt nod."
 
-# game/Flynn-Thursday.rpy:11920
+# game/Flynn-Thursday.rpy:11928
 translate Schinese flynnsunday_f985ccc9:
 
     # "The wolf clutches the steering wheel with an iron grip."
-    "The wolf clutches the steering wheel with an iron grip."
+    "@@@The wolf clutches the steering wheel with an iron grip."
 
-# game/Flynn-Thursday.rpy:11921
+# game/Flynn-Thursday.rpy:11929
 translate Schinese flynnsunday_c36d82a1_1:
 
     # "We both stare out the windshield, eyes to the horizon."
-    "We both stare out the windshield, eyes to the horizon."
+    "@@@We both stare out the windshield, eyes to the horizon."
 
-# game/Flynn-Thursday.rpy:11922
+# game/Flynn-Thursday.rpy:11930
 translate Schinese flynnsunday_25f9d168:
 
     # "Nobody says anything for a while."
-    "Nobody says anything for a while."
+    "@@@Nobody says anything for a while."
 
-# game/Flynn-Thursday.rpy:11923
+# game/Flynn-Thursday.rpy:11931
 translate Schinese flynnsunday_6740b1eb_1:
 
     # "Even in the silence, I can feel the growing unease from those behind us: the trembling of muscles and clicking of claws."
-    "Even in the silence, I can feel the growing unease from those behind us: the trembling of muscles and clicking of claws."
+    "@@@Even in the silence, I can feel the growing unease from those behind us: the trembling of muscles and clicking of claws."
 
-# game/Flynn-Thursday.rpy:11924
+# game/Flynn-Thursday.rpy:11932
 translate Schinese flynnsunday_6f27f67d_1:
 
     # "I try to block it out, to just focus on watching what's ahead."
-    "I try to block it out, to just focus on watching what's ahead."
+    "@@@I try to block it out, to just focus on watching what's ahead."
 
-# game/Flynn-Thursday.rpy:11925
+# game/Flynn-Thursday.rpy:11933
 translate Schinese flynnsunday_8498f9ae_1:
 
     # "All things considered, it's not so bad as long as I can keep the fear from clouding my mind."
-    "All things considered, it's not so bad as long as I can keep the fear from clouding my mind."
+    "@@@All things considered, it's not so bad as long as I can keep the fear from clouding my mind."
 
-# game/Flynn-Thursday.rpy:11926
+# game/Flynn-Thursday.rpy:11934
 translate Schinese flynnsunday_e3ceaad5_1:
 
     # "Though, that could be said about most things in life."
-    "Though, that could be said about most things in life."
+    "@@@Though, that could be said about most things in life."
 
-# game/Flynn-Thursday.rpy:11927
+# game/Flynn-Thursday.rpy:11935
 translate Schinese flynnsunday_dd7b74ec_1:
 
     # "We just have to keep driving. To get out of this fucking town."
-    "We just have to keep driving. To get out of this fucking town."
+    "@@@We just have to keep driving. To get out of this fucking town."
 
-# game/Flynn-Thursday.rpy:11928
+# game/Flynn-Thursday.rpy:11936
 translate Schinese flynnsunday_fd698c32_1:
 
     # "We can't get sidetracked again, especially with that fucking eyeless thing around."
-    "We can't get sidetracked again, especially with that fucking eyeless thing around."
+    "@@@We can't get sidetracked again, especially with that fucking eyeless thing around."
 
-# game/Flynn-Thursday.rpy:11929
+# game/Flynn-Thursday.rpy:11937
 translate Schinese flynnsunday_f979a0d7_1:
 
     # "I wonder if it heard the horn earlier."
-    "I wonder if it heard the horn earlier."
+    "@@@I wonder if it heard the horn earlier."
 
-# game/Flynn-Thursday.rpy:11930
+# game/Flynn-Thursday.rpy:11938
 translate Schinese flynnsunday_b645daae_1:
 
     # "I focus on the mountains now, making sure that they don't disappear."
-    "I focus on the mountains now, making sure that they don't disappear."
+    "@@@I focus on the mountains now, making sure that they don't disappear."
 
-# game/Flynn-Thursday.rpy:11931
+# game/Flynn-Thursday.rpy:11939
 translate Schinese flynnsunday_2dd25bf5_1:
 
     # "They slope up and down gently under the moonlight, speckled with the dark spots of rock and vegetation."
-    "They slope up and down gently under the moonlight, speckled with the dark spots of rock and vegetation."
+    "@@@They slope up and down gently under the moonlight, speckled with the dark spots of rock and vegetation."
 
-# game/Flynn-Thursday.rpy:11932
+# game/Flynn-Thursday.rpy:11940
 translate Schinese flynnsunday_8ac106ca_1:
 
     # "Vaguely, I remember back when I was younger, leading Sydney around the bend and entertaining his explorer fantasies."
-    "Vaguely, I remember back when I was younger, leading Sydney around the bend and entertaining his explorer fantasies."
+    "@@@Vaguely, I remember back when I was younger, leading Sydney around the bend and entertaining his explorer fantasies."
 
-# game/Flynn-Thursday.rpy:11933
+# game/Flynn-Thursday.rpy:11941
 translate Schinese flynnsunday_b8c46ebc_1:
 
     # "I brought my B.B. gun and he'd run around, shooting at mesquite trees and looking for signs of lost native treasure."
-    "I brought my B.B. gun and he'd run around, shooting at mesquite trees and looking for signs of lost native treasure."
+    "@@@I brought my B.B. gun and he'd run around, shooting at mesquite trees and looking for signs of lost native treasure."
 
-# game/Flynn-Thursday.rpy:11934
+# game/Flynn-Thursday.rpy:11942
 translate Schinese flynnsunday_8b3d0c07_1:
 
     # "I told him that the pioneers thought there was a city of gold buried beneath the mountainous topsoil, waiting to be unearthed."
-    "I told him that the pioneers thought there was a city of gold buried beneath the mountainous topsoil, waiting to be unearthed."
+    "@@@I told him that the pioneers thought there was a city of gold buried beneath the mountainous topsoil, waiting to be unearthed."
 
-# game/Flynn-Thursday.rpy:11935
+# game/Flynn-Thursday.rpy:11943
 translate Schinese flynnsunday_0be1419d_1:
 
     # "He fuckin' loved that, even brought a little trench shovel to, as he put it, dig his own mine."
-    "He fuckin' loved that, even brought a little trench shovel to, as he put it, dig his own mine."
+    "@@@He fuckin' loved that, even brought a little trench shovel to, as he put it, dig his own mine."
 
-# game/Flynn-Thursday.rpy:11936
+# game/Flynn-Thursday.rpy:11944
 translate Schinese flynnsunday_646c9d0f_1:
 
     # "Pretty sure he thought that was the whole reason for Echo's old mine, to find the city and shit."
-    "Pretty sure he thought that was the whole reason for Echo's old mine, to find the city and shit."
+    "@@@Pretty sure he thought that was the whole reason for Echo's old mine, to find the city and shit."
 
-# game/Flynn-Thursday.rpy:11937
+# game/Flynn-Thursday.rpy:11945
 translate Schinese flynnsunday_d0ac8293_1:
 
     # "It wasn't a complete lie, either."
-    "It wasn't a complete lie, either."
+    "@@@It wasn't a complete lie, either."
 
-# game/Flynn-Thursday.rpy:11938
+# game/Flynn-Thursday.rpy:11946
 translate Schinese flynnsunday_b74d5525_1:
 
     # "The Ahacte tribe supposedly told the conquistador types that treasures and riches were stored aplenty in the Meseta territory around here centuries ago."
-    "The Ahacte tribe supposedly told the conquistador types that treasures and riches were stored aplenty in the Meseta territory around here centuries ago."
+    "@@@The Ahacte tribe supposedly told the conquistador types that treasures and riches were stored aplenty in the Meseta territory around here centuries ago."
 
-# game/Flynn-Thursday.rpy:11939
+# game/Flynn-Thursday.rpy:11947
 translate Schinese flynnsunday_b0d3131b_1:
 
     # "Of course, it was so they'd fuck off and bother their rivals instead of them, but the prospectors did eventually find gold in the mountains."
-    "Of course, it was so they'd fuck off and bother their rivals instead of them, but the prospectors did eventually find gold in the mountains."
+    "@@@Of course, it was so they'd fuck off and bother their rivals instead of them, but the prospectors did eventually find gold in the mountains."
 
-# game/Flynn-Thursday.rpy:11940
+# game/Flynn-Thursday.rpy:11948
 translate Schinese flynnsunday_693f1b82_1:
 
     # "All Syd ever found was some feldspar and alabaster quartz. He kept a whole collectio-"
-    "All Syd ever found was some feldspar and alabaster quartz. He kept a whole collectio-"
+    "@@@All Syd ever found was some feldspar and alabaster quartz. He kept a whole collectio-"
 
-# game/Flynn-Thursday.rpy:11941
+# game/Flynn-Thursday.rpy:11949
 translate Schinese flynnsunday_9bca7cb0:
 
     # "I blink, staring out the window as the mountains just.. disappear, slope down into nothing."
-    "I blink, staring out the window as the mountains just.. disappear, slope down into nothing."
+    "@@@I blink, staring out the window as the mountains just.. disappear, slope down into nothing."
 
-# game/Flynn-Thursday.rpy:11942
+# game/Flynn-Thursday.rpy:11950
 translate Schinese flynnsunday_7210bdce_1:
 
     # "I squint, then I look out Chase's window in the back."
-    "I squint, then I look out Chase's window in the back."
+    "@@@I squint, then I look out Chase's window in the back."
 
-# game/Flynn-Thursday.rpy:11943
+# game/Flynn-Thursday.rpy:11951
 translate Schinese flynnsunday_84a6bd65_1:
 
     # "Sure enough, mountains."
-    "Sure enough, mountains."
+    "@@@Sure enough, mountains."
 
-# game/Flynn-Thursday.rpy:11944
+# game/Flynn-Thursday.rpy:11952
 translate Schinese flynnsunday_2cb403af_1:
 
     # f "\"Leo.\""
-    f "\"Leo.\""
+    f "@@@\"Leo.\""
 
-# game/Flynn-Thursday.rpy:11945
+# game/Flynn-Thursday.rpy:11953
 translate Schinese flynnsunday_9b53b7a3:
 
     # l "\"God damnit...\""
-    l "\"God damnit...\""
+    l "@@@\"God damnit...\""
 
-# game/Flynn-Thursday.rpy:11946
+# game/Flynn-Thursday.rpy:11954
 translate Schinese flynnsunday_f4e91194_1:
 
     # "Leo speeds up instead of turning around, though."
-    "Leo speeds up instead of turning around, though."
+    "@@@Leo speeds up instead of turning around, though."
 
-# game/Flynn-Thursday.rpy:11947
+# game/Flynn-Thursday.rpy:11955
 translate Schinese flynnsunday_49ddaafc_1:
 
     # c "\"Dude...\""
-    c "\"Dude...\""
+    c "@@@\"Dude...\""
 
-# game/Flynn-Thursday.rpy:11948
+# game/Flynn-Thursday.rpy:11956
 translate Schinese flynnsunday_f4e355fe_1:
 
     # t "\"Wh-what are you doing?\""
-    t "\"Wh-what are you doing?\""
+    t "@@@\"Wh-what are you doing?\""
 
-# game/Flynn-Thursday.rpy:11949
+# game/Flynn-Thursday.rpy:11957
 translate Schinese flynnsunday_f299e90a_1:
 
     # "TJ's claws come out against my skin again as he gets that scared cat look in his eyes."
-    "TJ's claws come out against my skin again as he gets that scared cat look in his eyes."
+    "@@@TJ's claws come out against my skin again as he gets that scared cat look in his eyes."
 
-# game/Flynn-Thursday.rpy:11950
+# game/Flynn-Thursday.rpy:11958
 translate Schinese flynnsunday_2dfa7414_1:
 
     # "Leo mumbles, mostly to himself."
-    "Leo mumbles, mostly to himself."
+    "@@@Leo mumbles, mostly to himself."
 
-# game/Flynn-Thursday.rpy:11951
+# game/Flynn-Thursday.rpy:11959
 translate Schinese flynnsunday_da3e0742:
 
     # l "\"There's no way this leads back to Echo. No way, yeah?\""
-    l "\"There's no way this leads back to Echo. No way, yeah?\""
+    l "@@@\"There's no way this leads back to Echo. No way, yeah?\""
 
-# game/Flynn-Thursday.rpy:11952
-translate Schinese flynnsunday_3eec038c_1:
+# game/Flynn-Thursday.rpy:11960
+translate Schinese flynnsunday_f20eae0b_1:
 
-    # j "\"Leo, slow down little.\""
-    j "\"Leo, slow down little.\""
+    # j "\"Leo, slow down a little.\""
+    j "@@@\"Leo, slow down a little.\""
 
-# game/Flynn-Thursday.rpy:11953
+# game/Flynn-Thursday.rpy:11961
 translate Schinese flynnsunday_be75b668:
 
     # "Leo takes in a seething breath."
-    "Leo takes in a seething breath."
+    "@@@Leo takes in a seething breath."
 
-# game/Flynn-Thursday.rpy:11954
+# game/Flynn-Thursday.rpy:11962
 translate Schinese flynnsunday_912bea31:
 
     # l "\"Just trust me, okay?\""
-    l "\"Just trust me, okay?\""
+    l "@@@\"Just trust me, okay?\""
 
-# game/Flynn-Thursday.rpy:11955
+# game/Flynn-Thursday.rpy:11963
 translate Schinese flynnsunday_ac754168_1:
 
     # "This is getting out of hand, but I honest to God don't have a fucking better idea."
-    "This is getting out of hand, but I honest to God don't have a fucking better idea."
+    "@@@This is getting out of hand, but I honest to God don't have a fucking better idea."
 
-# game/Flynn-Thursday.rpy:11956
+# game/Flynn-Thursday.rpy:11964
 translate Schinese flynnsunday_7ac7ef07_1:
 
     # l "\"I'm gonna keep going until I see that car we passed.\""
-    l "\"I'm gonna keep going until I see that car we passed.\""
+    l "@@@\"I'm gonna keep going until I see that car we passed.\""
 
-# game/Flynn-Thursday.rpy:11957
+# game/Flynn-Thursday.rpy:11965
 translate Schinese flynnsunday_4ff998af:
 
     # "Judging by the silence, no one has any better ideas."
-    "Judging by the silence, no one has any better ideas."
+    "@@@Judging by the silence, no one has any better ideas."
 
-# game/Flynn-Thursday.rpy:11958
+# game/Flynn-Thursday.rpy:11966
 translate Schinese flynnsunday_6cff7d43:
 
     # "Fuck knows I don't."
-    "Fuck knows I don't."
+    "@@@Fuck knows I don't."
 
-# game/Flynn-Thursday.rpy:11959
+# game/Flynn-Thursday.rpy:11967
 translate Schinese flynnsunday_3a394a86_1:
 
     # "Another minute of driving, more awkward silence, then—"
-    "Another minute of driving, more awkward silence, then—"
+    "@@@Another minute of driving, more awkward silence, then—"
 
-# game/Flynn-Thursday.rpy:11960
+# game/Flynn-Thursday.rpy:11968
 translate Schinese flynnsunday_0a9a3fd4_1:
 
     # "Leo hisses through his teeth."
-    "Leo hisses through his teeth."
+    "@@@Leo hisses through his teeth."
 
-# game/Flynn-Thursday.rpy:11961
+# game/Flynn-Thursday.rpy:11969
 translate Schinese flynnsunday_f9a82ff1_1:
 
     # "Straight ahead of us, a sign."
-    "Straight ahead of us, a sign."
+    "@@@Straight ahead of us, a sign."
 
-# game/Flynn-Thursday.rpy:11962
+# game/Flynn-Thursday.rpy:11970
 translate Schinese flynnsunday_df8ec4bc_1:
 
     # m "\"What?\""
-    m "\"What?\""
+    m "@@@\"What?\""
 
-# game/Flynn-Thursday.rpy:11963
+# game/Flynn-Thursday.rpy:11971
 translate Schinese flynnsunday_a82757ec_1:
 
     # "How in the shit?"
-    "How in the shit?"
+    "@@@How in the shit?"
 
-# game/Flynn-Thursday.rpy:11964
+# game/Flynn-Thursday.rpy:11972
 translate Schinese flynnsunday_6c8736da_2:
 
     # "{b}Echo Mine: Danicka Entrance{/b}."
-    "{b}Echo Mine: Danicka Entrance{/b}."
+    "@@@{b}Echo Mine: Danicka Entrance{/b}."
 
-# game/Flynn-Thursday.rpy:11965
+# game/Flynn-Thursday.rpy:11973
 translate Schinese flynnsunday_971848c6_1:
 
     # f "\"That's on the other side of town.\""
-    f "\"That's on the other side of town.\""
+    f "@@@\"That's on the other side of town.\""
 
-# game/Flynn-Thursday.rpy:11966
-translate Schinese flynnsunday_0729e381_1:
+# game/Flynn-Thursday.rpy:11974
+translate Schinese flynnsunday_e18738c2_1:
 
-    # "I say this as if it cannot possibly where we're at, though there it is."
-    "I say this as if it cannot possibly where we're at, though there it is."
+    # "I say this as if it cannot possibly be where we're at, though there it is."
+    "@@@I say this as if it cannot possibly be where we're at, though there it is."
 
-# game/Flynn-Thursday.rpy:11967
+# game/Flynn-Thursday.rpy:11975
 translate Schinese flynnsunday_2e7fc32a_1:
 
     # "It stands about eight feet tall, faded wood with that touristy wild west font placard that the county commissioned a couple years ago."
-    "It stands about eight feet tall, faded wood with that touristy wild west font placard that the county commissioned a couple years ago."
+    "@@@It stands about eight feet tall, faded wood with that touristy wild west font placard that the county commissioned a couple years ago."
 
-# game/Flynn-Thursday.rpy:11968
+# game/Flynn-Thursday.rpy:11976
 translate Schinese flynnsunday_d14ec7ba_1:
 
     # "The sign's only readable because our headlights are right on it, the original solar face lights having been destroyed by junkies a year ago."
-    "The sign's only readable because our headlights are right on it, the original solar face lights having been destroyed by junkies a year ago."
+    "@@@The sign's only readable because our headlights are right on it, the original solar face lights having been destroyed by junkies a year ago."
 
-# game/Flynn-Thursday.rpy:11969
+# game/Flynn-Thursday.rpy:11977
 translate Schinese flynnsunday_39c88e11_1:
 
     # "Leo thins his lips, driving right past it."
-    "Leo thins his lips, driving right past it."
+    "@@@Leo thins his lips, driving right past it."
 
-# game/Flynn-Thursday.rpy:11970
+# game/Flynn-Thursday.rpy:11978
 translate Schinese flynnsunday_83c86f10_1:
 
     # "The minutes pass and it becomes increasingly difficult to place exactly where we are."
-    "The minutes pass and it becomes increasingly difficult to place exactly where we are."
+    "@@@The minutes pass and it becomes increasingly difficult to place exactly where we are."
 
-# game/Flynn-Thursday.rpy:11971
+# game/Flynn-Thursday.rpy:11979
 translate Schinese flynnsunday_1d9641b1_1:
 
     # "On this side of town, I can see that smoke from earlier more clearly, too."
-    "On this side of town, I can see that smoke from earlier more clearly, too."
+    "@@@On this side of town, I can see that smoke from earlier more clearly, too."
 
-# game/Flynn-Thursday.rpy:11972
+# game/Flynn-Thursday.rpy:11980
 translate Schinese flynnsunday_b9ce0273_1:
 
     # "The smell, like burnt charcoal, seeps into the cabin through the A/C."
-    "The smell, like burnt charcoal, seeps into the cabin through the A/C."
+    "@@@The smell, like burnt charcoal, seeps into the cabin through the A/C."
 
-# game/Flynn-Thursday.rpy:11973
+# game/Flynn-Thursday.rpy:11981
 translate Schinese flynnsunday_ee86fb59:
 
     # l "\"It's like a barbecue out there...\""
-    l "\"It's like a barbecue out there...\""
+    l "@@@\"It's like a barbecue out there...\""
 
-# game/Flynn-Thursday.rpy:11974
+# game/Flynn-Thursday.rpy:11982
 translate Schinese flynnsunday_b81ec782:
 
     # "Leo lets out a worried bit of laughter, though the wolf begins to pull off to the side of the road.."
-    "Leo lets out a worried bit of laughter, though the wolf begins to pull off to the side of the road.."
+    "@@@Leo lets out a worried bit of laughter, though the wolf begins to pull off to the side of the road.."
 
-# game/Flynn-Thursday.rpy:11975
+# game/Flynn-Thursday.rpy:11983
 translate Schinese flynnsunday_42a9949c_1:
 
     # "..only to flip around and go the other way again."
-    "..only to flip around and go the other way again."
+    "@@@..only to flip around and go the other way again."
 
-# game/Flynn-Thursday.rpy:11976
+# game/Flynn-Thursday.rpy:11984
 translate Schinese flynnsunday_5bafe40f:
 
     # "Jenna lets out a strange sigh. It's laden with exasperation, but there's a slight quiver in her vocal chords."
-    "Jenna lets out a strange sigh. It's laden with exasperation, but there's a slight quiver in her vocal chords."
+    "@@@Jenna lets out a strange sigh. It's laden with exasperation, but there's a slight quiver in her vocal chords."
 
-# game/Flynn-Thursday.rpy:11977
+# game/Flynn-Thursday.rpy:11985
 translate Schinese flynnsunday_01bc7547_1:
 
     # "We keep going and more time passes."
-    "We keep going and more time passes."
+    "@@@We keep going and more time passes."
 
-# game/Flynn-Thursday.rpy:11978
+# game/Flynn-Thursday.rpy:11986
 translate Schinese flynnsunday_b5ae5f9a_1:
 
     # "Daxton mutters something I can't quite make out to Carl, who has been oddly silent - his paws over his face."
-    "Daxton mutters something I can't quite make out to Carl, who has been oddly silent - his paws over his face."
+    "@@@Daxton mutters something I can't quite make out to Carl, who has been oddly silent - his paws over his face."
 
-# game/Flynn-Thursday.rpy:11979
+# game/Flynn-Thursday.rpy:11987
 translate Schinese flynnsunday_ab54660a_1:
 
     # "I occasionally catch Chase look at me in the rear-view mirror."
-    "I occasionally catch Chase look at me in the rear-view mirror."
+    "@@@I occasionally catch Chase look at me in the rear-view mirror."
 
-# game/Flynn-Thursday.rpy:11980
+# game/Flynn-Thursday.rpy:11988
 translate Schinese flynnsunday_9a543175_1:
 
     # "Despite his shit with the spider bite, he looks more.. well, animated than I've seen him in a long time."
-    "Despite his shit with the spider bite, he looks more.. well, animated than I've seen him in a long time."
+    "@@@Despite his shit with the spider bite, he looks more.. well, animated than I've seen him in a long time."
 
-# game/Flynn-Thursday.rpy:11981
+# game/Flynn-Thursday.rpy:11989
 translate Schinese flynnsunday_5b707540:
 
     # "There's a lot less staring off into the distance and more active grimacing, muttered softcore swears, and a darting gaze."
-    "There's a lot less staring off into the distance and more active grimacing, muttered softcore swears, and a darting gaze."
+    "@@@There's a lot less staring off into the distance and more active grimacing, muttered softcore swears, and a darting gaze."
 
-# game/Flynn-Thursday.rpy:11982
+# game/Flynn-Thursday.rpy:11990
 translate Schinese flynnsunday_675bc87f_1:
 
     # "I never realized how yellow his eyes are before. Were they always that bright?"
-    "I never realized how yellow his eyes are before. Were they always that bright?"
+    "@@@I never realized how yellow his eyes are before. Were they always that bright?"
 
-# game/Flynn-Thursday.rpy:11983
+# game/Flynn-Thursday.rpy:11991
 translate Schinese flynnsunday_8d747db6_1:
 
     # "More time passes, and as we round a bend, Jenna crawls halfway onto the mid-seat console and points ahead."
-    "More time passes, and as we round a bend, Jenna crawls halfway onto the mid-seat console and points ahead."
+    "@@@More time passes, and as we round a bend, Jenna crawls halfway onto the mid-seat console and points ahead."
 
-# game/Flynn-Thursday.rpy:11984
+# game/Flynn-Thursday.rpy:11992
 translate Schinese flynnsunday_8c4cbd92_1:
 
     # j "\"That's where Duke and Chase's car was.\""
-    j "\"That's where Duke and Chase's car was.\""
+    j "@@@\"That's where Duke and Chase's car was.\""
 
-# game/Flynn-Thursday.rpy:11985
+# game/Flynn-Thursday.rpy:11993
 translate Schinese flynnsunday_0375da1b_1:
 
     # da "\"It's not there now. How can you tell?\""
-    da "\"It's not there now. How can you tell?\""
+    da "@@@\"It's not there now. How can you tell?\""
 
-# game/Flynn-Thursday.rpy:11986
+# game/Flynn-Thursday.rpy:11994
 translate Schinese flynnsunday_91dedbcf_1:
 
     # "Daxton keeps craning his neck to see past me."
-    "Daxton keeps craning his neck to see past me."
+    "@@@Daxton keeps craning his neck to see past me."
 
-# game/Flynn-Thursday.rpy:11987
+# game/Flynn-Thursday.rpy:11995
 translate Schinese flynnsunday_b0d3a4ae_1:
 
     # "The corner looks familiar, but where's the car?"
-    "The corner looks familiar, but where's the car?"
+    "@@@The corner looks familiar, but where's the car?"
 
-# game/Flynn-Thursday.rpy:11988
+# game/Flynn-Thursday.rpy:11996
 translate Schinese flynnsunday_29b947dc_1:
 
     # j "\"I remember that.. thing. Its silhouette was outlined against that group of pinyon trees by the guardrail.\""
-    j "\"I remember that.. thing. Its silhouette was outlined against that group of pinyon trees by the guardrail.\""
+    j "@@@\"I remember that.. thing. Its silhouette was outlined against that group of pinyon trees by the guardrail.\""
 
-# game/Flynn-Thursday.rpy:11989
+# game/Flynn-Thursday.rpy:11997
 translate Schinese flynnsunday_297a226d_1:
 
     # "TJ makes a whining noise."
-    "TJ makes a whining noise."
+    "@@@TJ makes a whining noise."
 
-# game/Flynn-Thursday.rpy:11990
+# game/Flynn-Thursday.rpy:11998
 translate Schinese flynnsunday_e24ef398_1:
 
     # "I recognize it, too."
-    "I recognize it, too."
+    "@@@I recognize it, too."
 
-# game/Flynn-Thursday.rpy:11991
+# game/Flynn-Thursday.rpy:11999
 translate Schinese flynnsunday_23566ec3_1:
 
     # "There's no broken glass, tire marks, or blood, though. Absolutely no remnant of the memory to be found."
-    "There's no broken glass, tire marks, or blood, though. Absolutely no remnant of the memory to be found."
+    "@@@There's no broken glass, tire marks, or blood, though. Absolutely no remnant of the memory to be found."
 
-# game/Flynn-Thursday.rpy:11992
+# game/Flynn-Thursday.rpy:12000
 translate Schinese flynnsunday_599c65af_1:
 
     # m "\"God...\""
-    m "\"God...\""
+    m "@@@\"God...\""
 
-# game/Flynn-Thursday.rpy:11993
+# game/Flynn-Thursday.rpy:12001
 translate Schinese flynnsunday_a466453f:
 
     # l "\"There's nothing there...\""
-    l "\"There's nothing there...\""
+    l "@@@\"There's nothing there...\""
 
-# game/Flynn-Thursday.rpy:11994
+# game/Flynn-Thursday.rpy:12002
 translate Schinese flynnsunday_35574322:
 
     # "Leo speaks softly, as if talking to a child."
-    "Leo speaks softly, as if talking to a child."
+    "@@@Leo speaks softly, as if talking to a child."
 
-# game/Flynn-Thursday.rpy:11995
+# game/Flynn-Thursday.rpy:12003
 translate Schinese flynnsunday_833ebad5:
 
     # "It's unclear whether he's glad or upset that the grizzly scene is straight up gone."
-    "It's unclear whether he's glad or upset that the grizzly scene is straight up gone."
+    "@@@It's unclear whether he's glad or upset that the grizzly scene is straight up gone."
 
-# game/Flynn-Thursday.rpy:11996
-translate Schinese flynnsunday_ae960eaf:
+# game/Flynn-Thursday.rpy:12004
+translate Schinese flynnsunday_d92bd39a:
 
-    # f "\"That doesn't make any sense."
-    f "\"That doesn't make any sense."
+    # f "\"That doesn't make any sense.\""
+    f "@@@\"That doesn't make any sense.\""
 
-# game/Flynn-Thursday.rpy:11997
+# game/Flynn-Thursday.rpy:12005
 translate Schinese flynnsunday_2b6e7370_1:
 
     # da "\"Oh, jeez...\""
-    da "\"Oh, jeez...\""
+    da "@@@\"Oh, jeez...\""
 
-# game/Flynn-Thursday.rpy:11998
+# game/Flynn-Thursday.rpy:12006
 translate Schinese flynnsunday_e3db8e38:
 
     # "I look out the window."
-    "I look out the window."
+    "@@@I look out the window."
 
-# game/Flynn-Thursday.rpy:11999
+# game/Flynn-Thursday.rpy:12007
 translate Schinese flynnsunday_eec062e3:
 
     # f "\"I'm just gonna watch.. the mountains.\""
-    f "\"I'm just gonna watch.. the mountains.\""
+    f "@@@\"I'm just gonna watch.. the mountains.\""
 
-# game/Flynn-Thursday.rpy:12000
+# game/Flynn-Thursday.rpy:12008
 translate Schinese flynnsunday_18df0d2c_1:
 
     # da "\"Let us know if they decide to flip around.\""
-    da "\"Let us know if they decide to flip around.\""
+    da "@@@\"Let us know if they decide to flip around.\""
 
-# game/Flynn-Thursday.rpy:12001
+# game/Flynn-Thursday.rpy:12009
 translate Schinese flynnsunday_d7a1de2d_1:
 
     # "He lets out a dry, terrified chuckle."
-    "He lets out a dry, terrified chuckle."
+    "@@@He lets out a dry, terrified chuckle."
 
-# game/Flynn-Thursday.rpy:12002
+# game/Flynn-Thursday.rpy:12010
 translate Schinese flynnsunday_c90873ef_1:
 
     # "Jenna returns to her seat, her eyebrows scrunched."
-    "Jenna returns to her seat, her eyebrows scrunched."
+    "@@@Jenna returns to her seat, her eyebrows scrunched."
 
-# game/Flynn-Thursday.rpy:12003
+# game/Flynn-Thursday.rpy:12011
 translate Schinese flynnsunday_6816642c_1:
 
     # j "It's like we're stuck in some kind of loop."
-    j "It's like we're stuck in some kind of loop."
+    j "@@@It's like we're stuck in some kind of loop."
 
-# game/Flynn-Thursday.rpy:12004
+# game/Flynn-Thursday.rpy:12012
 translate Schinese flynnsunday_0fdce13b_1:
 
     # da "\"Heh...\""
-    da "\"Heh...\""
+    da "@@@\"Heh...\""
 
-# game/Flynn-Thursday.rpy:12005
+# game/Flynn-Thursday.rpy:12013
 translate Schinese flynnsunday_73ac0ce9_1:
 
     # "Jenna gives Daxton an inquisitive look, seemingly baffled anyone could find humor in this."
-    "Jenna gives Daxton an inquisitive look, seemingly baffled anyone could find humor in this."
+    "@@@Jenna gives Daxton an inquisitive look, seemingly baffled anyone could find humor in this."
 
-# game/Flynn-Thursday.rpy:12006
+# game/Flynn-Thursday.rpy:12014
 translate Schinese flynnsunday_c8071644_1:
 
     # j "\"What?\""
-    j "\"What?\""
+    j "@@@\"What?\""
 
-# game/Flynn-Thursday.rpy:12007
+# game/Flynn-Thursday.rpy:12015
 translate Schinese flynnsunday_c9162d8a_1:
 
     # da "\"It's just, well.. it's nothing.\""
-    da "\"It's just, well.. it's nothing.\""
+    da "@@@\"It's just, well.. it's nothing.\""
 
-# game/Flynn-Thursday.rpy:12008
+# game/Flynn-Thursday.rpy:12016
 translate Schinese flynnsunday_9a62058a_1:
 
     # j "\"Go on. We've got time, apparently.\""
-    j "\"Go on. We've got time, apparently.\""
+    j "@@@\"Go on. We've got time, apparently.\""
 
-# game/Flynn-Thursday.rpy:12009
+# game/Flynn-Thursday.rpy:12017
 translate Schinese flynnsunday_cef65efe_1:
 
     # da "\"Yeah, exactly, I mean...\""
-    da "\"Yeah, exactly, I mean...\""
+    da "@@@\"Yeah, exactly, I mean...\""
 
-# game/Flynn-Thursday.rpy:12010
+# game/Flynn-Thursday.rpy:12018
 translate Schinese flynnsunday_a493f68b_1:
 
     # "He exhales, shaking his head."
-    "He exhales, shaking his head."
+    "@@@He exhales, shaking his head."
 
-# game/Flynn-Thursday.rpy:12011
+# game/Flynn-Thursday.rpy:12019
 translate Schinese flynnsunday_76a4cde2_1:
 
     # da "\"In Adastra-\""
-    da "\"In Adastra-\""
+    da "@@@\"In Adastra-\""
 
-# game/Flynn-Thursday.rpy:12012
+# game/Flynn-Thursday.rpy:12020
 translate Schinese flynnsunday_93dcba51_1:
 
     # "Carl groans, his displeasure muffled by the paws over his face."
-    "Carl groans, his displeasure muffled by the paws over his face."
+    "@@@Carl groans, his displeasure muffled by the paws over his face."
 
-# game/Flynn-Thursday.rpy:12013
+# game/Flynn-Thursday.rpy:12021
 translate Schinese flynnsunday_f1a3dadf_1:
 
     # da "\"-'some kind of' was always the go-to line of Captain Amicus whenever he encountered something he didn't quite understand.\""
-    da "\"-'some kind of' was always the go-to line of Captain Amicus whenever he encountered something he didn't quite understand.\""
+    da "@@@\"-'some kind of' was always the go-to line of Captain Amicus whenever he encountered something he didn't quite understand.\""
 
-# game/Flynn-Thursday.rpy:12014
+# game/Flynn-Thursday.rpy:12022
 translate Schinese flynnsunday_50a95802_1:
 
     # "Daxton leans his head back, his bald noggin pushing into the headrest."
-    "Daxton leans his head back, his bald noggin pushing into the headrest."
+    "@@@Daxton leans his head back, his bald noggin pushing into the headrest."
 
-# game/Flynn-Thursday.rpy:12015
+# game/Flynn-Thursday.rpy:12023
 translate Schinese flynnsunday_489e80a7_1:
 
     # da "\"Some kind of alien transporter, some kind of time paradox, some kind of matter replicator, some kind of reproductive goo - and so on.\""
-    da "\"Some kind of alien transporter, some kind of time paradox, some kind of matter replicator, some kind of reproductive goo - and so on.\""
+    da "@@@\"Some kind of alien transporter, some kind of time paradox, some kind of matter replicator, some kind of reproductive goo - and so on.\""
 
-# game/Flynn-Thursday.rpy:12016
+# game/Flynn-Thursday.rpy:12024
 translate Schinese flynnsunday_f0e79fc6_1:
 
     # j "\"And this helps us how?\""
-    j "\"And this helps us how?\""
+    j "@@@\"And this helps us how?\""
 
-# game/Flynn-Thursday.rpy:12017
-translate Schinese flynnsunday_f3f04fbf_1:
+# game/Flynn-Thursday.rpy:12025
+translate Schinese flynnsunday_5f1586ab_1:
 
-    # da "\"It.. well, I don't think it does. It's just sort of is funny, I guess.\""
-    da "\"It.. well, I don't think it does. It's just sort of is funny, I guess.\""
+    # da "\"It.. well, I don't think it does. It's just sort of funny, I guess.\""
+    da "@@@\"It.. well, I don't think it does. It's just sort of funny, I guess.\""
 
-# game/Flynn-Thursday.rpy:12018
+# game/Flynn-Thursday.rpy:12026
 translate Schinese flynnsunday_3d36a456_1:
 
     # da "\"It's like I'm in an episode, with a group of wacky characters.\""
-    da "\"It's like I'm in an episode, with a group of wacky characters.\""
+    da "@@@\"It's like I'm in an episode, with a group of wacky characters.\""
 
-# game/Flynn-Thursday.rpy:12019
+# game/Flynn-Thursday.rpy:12027
 translate Schinese flynnsunday_5cc558d0_1:
 
     # j "\"Wacky, huh?\""
-    j "\"Wacky, huh?\""
+    j "@@@\"Wacky, huh?\""
 
-# game/Flynn-Thursday.rpy:12020
+# game/Flynn-Thursday.rpy:12028
 translate Schinese flynnsunday_2ac8d5c5_1:
 
     # "Jenna responds, monotone as she returns her focus to the window."
-    "Jenna responds, monotone as she returns her focus to the window."
+    "@@@Jenna responds, monotone as she returns her focus to the window."
 
-# game/Flynn-Thursday.rpy:12021
+# game/Flynn-Thursday.rpy:12029
 translate Schinese flynnsunday_71c30a06_1:
 
     # da "\"I'm just.. really glad I'm not alone.\""
-    da "\"I'm just.. really glad I'm not alone.\""
+    da "@@@\"I'm just.. really glad I'm not alone.\""
 
-# game/Flynn-Thursday.rpy:12022
+# game/Flynn-Thursday.rpy:12030
 translate Schinese flynnsunday_f64e4427_1:
 
     # "No one speaks after that."
-    "No one speaks after that."
+    "@@@No one speaks after that."
 
-# game/Flynn-Thursday.rpy:12023
+# game/Flynn-Thursday.rpy:12031
 translate Schinese flynnsunday_8c6e5e64_1:
 
     # "As the truck's engine pulls us up another hill, I see something come into the view through a clearing of cacti."
-    "As the truck's engine pulls us up another hill, I see something come into the view through a clearing of cacti."
+    "@@@As the truck's engine pulls us up another hill, I see something come into the view through a clearing of cacti."
 
-# game/Flynn-Thursday.rpy:12024
+# game/Flynn-Thursday.rpy:12032
 translate Schinese flynnsunday_d29e6cc0_1:
 
     # f "\"Oh, fuck me gently.\""
-    f "\"Oh, fuck me gently.\""
+    f "@@@\"Oh, fuck me gently.\""
 
-# game/Flynn-Thursday.rpy:12025
+# game/Flynn-Thursday.rpy:12033
 translate Schinese flynnsunday_6c8736da_3:
 
     # "{b}Echo Mine: Danicka Entrance{/b}."
-    "{b}Echo Mine: Danicka Entrance{/b}."
+    "@@@{b}Echo Mine: Danicka Entrance{/b}."
 
-# game/Flynn-Thursday.rpy:12026
+# game/Flynn-Thursday.rpy:12034
 translate Schinese flynnsunday_5650f47b_1:
 
     # t "\"Noooo...\""
-    t "\"Noooo...\""
+    t "@@@\"Noooo...\""
 
-# game/Flynn-Thursday.rpy:12027
+# game/Flynn-Thursday.rpy:12035
 translate Schinese flynnsunday_83ee1c5a_1:
 
     # "TJ whines."
-    "TJ whines."
+    "@@@TJ whines."
 
-# game/Flynn-Thursday.rpy:12029
+# game/Flynn-Thursday.rpy:12037
 translate Schinese flynnsunday_8e78cbf6_1:
 
     # "Leo slows down more and more until we come to a gentle stop."
-    "Leo slows down more and more until we come to a gentle stop."
+    "@@@Leo slows down more and more until we come to a gentle stop."
 
-# game/Flynn-Thursday.rpy:12030
+# game/Flynn-Thursday.rpy:12038
 translate Schinese flynnsunday_f5a8ffe6_1:
 
     # "We sit there in silence, staring at the faded text and the gravel trail that leads into the canyon head."
-    "We sit there in silence, staring at the faded text and the gravel trail that leads into the canyon head."
+    "@@@We sit there in silence, staring at the faded text and the gravel trail that leads into the canyon head."
 
-# game/Flynn-Thursday.rpy:12031
+# game/Flynn-Thursday.rpy:12039
 translate Schinese flynnsunday_76783752_1:
 
     # "Leo starts muttering darkly to himself, looking out the windows, then at the dashboard."
-    "Leo starts muttering darkly to himself, looking out the windows, then at the dashboard."
+    "@@@Leo starts muttering darkly to himself, looking out the windows, then at the dashboard."
 
-# game/Flynn-Thursday.rpy:12032
+# game/Flynn-Thursday.rpy:12040
 translate Schinese flynnsunday_46d7e104_1:
 
     # "I don't ask him if he's okay, I know what the answer is."
-    "I don't ask him if he's okay, I know what the answer is."
+    "@@@I don't ask him if he's okay, I know what the answer is."
 
-# game/Flynn-Thursday.rpy:12033
+# game/Flynn-Thursday.rpy:12041
 translate Schinese flynnsunday_e0c7d182_1:
 
     # "TJ continues to make soft whimpering sounds, like he's trying not to cry."
-    "TJ continues to make soft whimpering sounds, like he's trying not to cry."
+    "@@@TJ continues to make soft whimpering sounds, like he's trying not to cry."
 
-# game/Flynn-Thursday.rpy:12034
+# game/Flynn-Thursday.rpy:12042
 translate Schinese flynnsunday_47e22903_1:
 
     # l "\"It's okay, it's just.. dark, and we're going off road somehow.\""
-    l "\"It's okay, it's just.. dark, and we're going off road somehow.\""
+    l "@@@\"It's okay, it's just.. dark, and we're going off road somehow.\""
 
-# game/Flynn-Thursday.rpy:12035
+# game/Flynn-Thursday.rpy:12043
 translate Schinese flynnsunday_bb3629ac_1:
 
     # "Leo whispers whatever comes to mind to explain what the fuck is happening."
-    "Leo whispers whatever comes to mind to explain what the fuck is happening."
+    "@@@Leo whispers whatever comes to mind to explain what the fuck is happening."
 
-# game/Flynn-Thursday.rpy:12036
+# game/Flynn-Thursday.rpy:12044
 translate Schinese flynnsunday_c22b1342_1:
 
     # "Carl still has his head down in his paws, completely quiet."
-    "Carl still has his head down in his paws, completely quiet."
+    "@@@Carl still has his head down in his paws, completely quiet."
 
-# game/Flynn-Thursday.rpy:12037
+# game/Flynn-Thursday.rpy:12045
 translate Schinese flynnsunday_bdd38b51_1:
 
     # "He could be asleep for all I know."
-    "He could be asleep for all I know."
+    "@@@He could be asleep for all I know."
 
-# game/Flynn-Thursday.rpy:12038
+# game/Flynn-Thursday.rpy:12046
 translate Schinese flynnsunday_3c4d1921_1:
 
     # "I think about suggesting that maybe we should just wait it out until morning in the car."
-    "I think about suggesting that maybe we should just wait it out until morning in the car."
+    "@@@I think about suggesting that maybe we should just wait it out until morning in the car."
 
-# game/Flynn-Thursday.rpy:12040
+# game/Flynn-Thursday.rpy:12048
 translate Schinese flynnsunday_235a9aeb_1:
 
     # "But as I open my mouth, I hear a scratching noise toward the back of the car."
-    "But as I open my mouth, I hear a scratching noise toward the back of the car."
+    "@@@But as I open my mouth, I hear a scratching noise toward the back of the car."
 
-# game/Flynn-Thursday.rpy:12041
+# game/Flynn-Thursday.rpy:12049
 translate Schinese flynnsunday_0a3ca0ac_1:
 
     # "TJ's ears perk up, which let's me know that I'm not the only one."
-    "TJ's ears perk up, which let's me know that I'm not the only one."
+    "@@@TJ's ears perk up, which let's me know that I'm not the only one."
 
-# game/Flynn-Thursday.rpy:12042
+# game/Flynn-Thursday.rpy:12050
 translate Schinese flynnsunday_698a0b5e_1:
 
     # "Instinctively, I turn around in my seat—"
-    "Instinctively, I turn around in my seat—"
+    "@@@Instinctively, I turn around in my seat—"
 
-# game/Flynn-Thursday.rpy:12046
+# game/Flynn-Thursday.rpy:12054
 translate Schinese flynnsunday_6e7b2688_1:
 
     # "Bits of glass fly into my face and the next thing I know, I'm down in my seat, head down with my rifle raised toward the hole."
-    "Bits of glass fly into my face and the next thing I know, I'm down in my seat, head down with my rifle raised toward the hole."
+    "@@@Bits of glass fly into my face and the next thing I know, I'm down in my seat, head down with my rifle raised toward the hole."
 
-# game/Flynn-Thursday.rpy:12047
+# game/Flynn-Thursday.rpy:12055
 translate Schinese flynnsunday_028d1659_1:
 
     # f "\"GET DOWN!\""
-    f "\"GET DOWN!\""
+    f "@@@\"GET DOWN!\""
 
-# game/Flynn-Thursday.rpy:12049
+# game/Flynn-Thursday.rpy:12057
 translate Schinese flynnsunday_e24c917d_1:
 
     # "Carl ducks, and Jenna and TJ lurch away to their respective sides of the car - TJ accidentally opening his car door and nearly tumbling out."
-    "Carl ducks, and Jenna and TJ lurch away to their respective sides of the car - TJ accidentally opening his car door and nearly tumbling out."
+    "@@@Carl ducks, and Jenna and TJ lurch away to their respective sides of the car - TJ accidentally opening his car door and nearly tumbling out."
 
-# game/Flynn-Thursday.rpy:12050
+# game/Flynn-Thursday.rpy:12058
 translate Schinese flynnsunday_d05e7487_1:
 
     # da "\"Close the door, close the door!!\""
-    da "\"Close the door, close the door!!\""
+    da "@@@\"Close the door, close the door!!\""
 
-# game/Flynn-Thursday.rpy:12051
+# game/Flynn-Thursday.rpy:12059
 translate Schinese flynnsunday_8606533f_1:
 
     # "Carl manages to get a hold on the lynx, trying to tug him back upright as TJ cries, flailing about."
-    "Carl manages to get a hold on the lynx, trying to tug him back upright as TJ cries, flailing about."
+    "@@@Carl manages to get a hold on the lynx, trying to tug him back upright as TJ cries, flailing about."
 
-# game/Flynn-Thursday.rpy:12052
+# game/Flynn-Thursday.rpy:12060
 translate Schinese flynnsunday_417be8e4_1:
 
     # "I can't get a good shot, Carl's big head bobbing up and around as something moves around outside toward the newly opened car door."
-    "I can't get a good shot, Carl's big head bobbing up and around as something moves around outside toward the newly opened car door."
+    "@@@I can't get a good shot, Carl's big head bobbing up and around as something moves around outside toward the newly opened car door."
 
-# game/Flynn-Thursday.rpy:12054
+# game/Flynn-Thursday.rpy:12062
 translate Schinese flynnsunday_3353a102_1:
 
     # "A shot rings out, though not from me."
-    "A shot rings out, though not from me."
+    "@@@A shot rings out, though not from me."
 
-# game/Flynn-Thursday.rpy:12055
+# game/Flynn-Thursday.rpy:12063
 translate Schinese flynnsunday_76ff9ed1_1:
 
     # "A wide-eyed looking Jenna holds her smoking pistol up and fires again."
-    "A wide-eyed looking Jenna holds her smoking pistol up and fires again."
+    "@@@A wide-eyed looking Jenna holds her smoking pistol up and fires again."
 
-# game/Flynn-Thursday.rpy:12057
+# game/Flynn-Thursday.rpy:12065
 translate Schinese flynnsunday_325ce393_1:
 
     # "The sharp {i}crack{/i} reverberates throughout the cabin once more."
-    "The sharp {i}crack{/i} reverberates throughout the cabin once more."
+    "@@@The sharp {i}crack{/i} reverberates throughout the cabin once more."
 
-# game/Flynn-Thursday.rpy:12059
+# game/Flynn-Thursday.rpy:12067
 translate Schinese flynnsunday_6eacfcfc_1:
 
     # "Carl, very much awake now, slams TJ's door shut and screams at Leo."
-    "Carl, very much awake now, slams TJ's door shut and screams at Leo."
+    "@@@Carl, very much awake now, slams TJ's door shut and screams at Leo."
 
-# game/Flynn-Thursday.rpy:12060
+# game/Flynn-Thursday.rpy:12068
 translate Schinese flynnsunday_89dcaaf7_1:
 
     # c "\"Go, Go, Go!\""
-    c "\"Go, Go, Go!\""
+    c "@@@\"Go, Go, Go!\""
 
-# game/Flynn-Thursday.rpy:12063
+# game/Flynn-Thursday.rpy:12071
 translate Schinese flynnsunday_b5a727ff_1:
 
     # "Leo's already on it, and I feel the car jolt forward."
-    "Leo's already on it, and I feel the car jolt forward."
+    "@@@Leo's already on it, and I feel the car jolt forward."
 
-# game/Flynn-Thursday.rpy:12064
+# game/Flynn-Thursday.rpy:12072
 translate Schinese flynnsunday_e855e8f2_1:
 
     # "Then I'm bouncing up and down in the seat as we go off-road, Leo not bothering with a three-point turn this time, instead going for a full U-turn."
-    "Then I'm bouncing up and down in the seat as we go off-road, Leo not bothering with a three-point turn this time, instead going for a full U-turn."
+    "@@@Then I'm bouncing up and down in the seat as we go off-road, Leo not bothering with a three-point turn this time, instead going for a full U-turn."
 
-# game/Flynn-Thursday.rpy:12065
+# game/Flynn-Thursday.rpy:12073
 translate Schinese flynnsunday_3225243e_1:
 
     # "We're back on the asphalt and speeding down the road when I feel it's safe enough to raise my head back up and look out the back window."
-    "We're back on the asphalt and speeding down the road when I feel it's safe enough to raise my head back up and look out the back window."
+    "@@@We're back on the asphalt and speeding down the road when I feel it's safe enough to raise my head back up and look out the back window."
 
-# game/Flynn-Thursday.rpy:12066
+# game/Flynn-Thursday.rpy:12074
 translate Schinese flynnsunday_1383c7a1_1:
 
     # "For a moment, I'm terrified that I'm going to find that thing crouched on the trunk, staring in at us—"
-    "For a moment, I'm terrified that I'm going to find that thing crouched on the trunk, staring in at us—"
+    "@@@For a moment, I'm terrified that I'm going to find that thing crouched on the trunk, staring in at us—"
 
-# game/Flynn-Thursday.rpy:12067
+# game/Flynn-Thursday.rpy:12075
 translate Schinese flynnsunday_b31db603_1:
 
     # "—but instead, all I see is a giant hole through the back window, the remaining glass jagged."
-    "—but instead, all I see is a giant hole through the back window, the remaining glass jagged."
+    "@@@—but instead, all I see is a giant hole through the back window, the remaining glass jagged."
 
-# game/Flynn-Thursday.rpy:12068
+# game/Flynn-Thursday.rpy:12076
 translate Schinese flynnsunday_cfdb4329_1:
 
     # da "\"Oh God! Are you guys okay!?\""
-    da "\"Oh God! Are you guys okay!?\""
+    da "@@@\"Oh God! Are you guys okay!?\""
 
-# game/Flynn-Thursday.rpy:12069
+# game/Flynn-Thursday.rpy:12077
 translate Schinese flynnsunday_1266605d_1:
 
     # "Daxton looks back and forth between us and the road behind the van."
-    "Daxton looks back and forth between us and the road behind the van."
+    "@@@Daxton looks back and forth between us and the road behind the van."
 
-# game/Flynn-Thursday.rpy:12070
+# game/Flynn-Thursday.rpy:12078
 translate Schinese flynnsunday_093a2f07:
 
     # "Chase, meanwhile, looks like he's about to throw up again."
-    "Chase, meanwhile, looks like he's about to throw up again."
+    "@@@Chase, meanwhile, looks like he's about to throw up again."
 
-# game/Flynn-Thursday.rpy:12071
+# game/Flynn-Thursday.rpy:12079
 translate Schinese flynnsunday_7b488caa:
 
     # "His mustelid features are scrunched in a tight grimace as he presses himself against the seat."
-    "His mustelid features are scrunched in a tight grimace as he presses himself against the seat."
+    "@@@His mustelid features are scrunched in a tight grimace as he presses himself against the seat."
 
-# game/Flynn-Thursday.rpy:12072
+# game/Flynn-Thursday.rpy:12080
 translate Schinese flynnsunday_957f52e6_1:
 
     # "I sit up fully, keeping my sights trained on the back."
-    "I sit up fully, keeping my sights trained on the back."
+    "@@@I sit up fully, keeping my sights trained on the back."
 
-# game/Flynn-Thursday.rpy:12073
+# game/Flynn-Thursday.rpy:12081
 translate Schinese flynnsunday_a7f06899_1:
 
     # f "\"Yeah!\""
-    f "\"Yeah!\""
+    f "@@@\"Yeah!\""
 
-# game/Flynn-Thursday.rpy:12074
+# game/Flynn-Thursday.rpy:12082
 translate Schinese flynnsunday_2b4d2596_1:
 
     # "I yell at him over the sound of the car and the wind whistling around behind me."
-    "I yell at him over the sound of the car and the wind whistling around behind me."
+    "@@@I yell at him over the sound of the car and the wind whistling around behind me."
 
-# game/Flynn-Thursday.rpy:12075
+# game/Flynn-Thursday.rpy:12083
 translate Schinese flynnsunday_b34e20c5_1:
 
     # f "\"Jenna, did you get it?!\""
-    f "\"Jenna, did you get it?!\""
+    f "@@@\"Jenna, did you get it?!\""
 
-# game/Flynn-Thursday.rpy:12076
+# game/Flynn-Thursday.rpy:12084
 translate Schinese flynnsunday_5f4e4674_1:
 
     # j "\"I don't know!\""
-    j "\"I don't know!\""
+    j "@@@\"I don't know!\""
 
-# game/Flynn-Thursday.rpy:12077
+# game/Flynn-Thursday.rpy:12085
 translate Schinese flynnsunday_485e2275_1:
 
     # "Carl is bent over in his seat, too, brushing glass from his hat and hoodie."
-    "Carl is bent over in his seat, too, brushing glass from his hat and hoodie."
+    "@@@Carl is bent over in his seat, too, brushing glass from his hat and hoodie."
 
-# game/Flynn-Thursday.rpy:12078
+# game/Flynn-Thursday.rpy:12086
 translate Schinese flynnsunday_64c30a7a_1:
 
     # "I look at TJ who's still crouched over in his own seat, covering his head."
-    "I look at TJ who's still crouched over in his own seat, covering his head."
+    "@@@I look at TJ who's still crouched over in his own seat, covering his head."
 
-# game/Flynn-Thursday.rpy:12080
+# game/Flynn-Thursday.rpy:12088
 translate Schinese flynnsunday_7962940c_1:
 
     # "Bits of glass are scattered on his back and head."
-    "Bits of glass are scattered on his back and head."
+    "@@@Bits of glass are scattered on his back and head."
 
-# game/Flynn-Thursday.rpy:12081
+# game/Flynn-Thursday.rpy:12089
 translate Schinese flynnsunday_63a92521_1:
 
     # "I pick some of the pieces out from the fur on his neck and lean over him."
-    "I pick some of the pieces out from the fur on his neck and lean over him."
+    "@@@I pick some of the pieces out from the fur on his neck and lean over him."
 
-# game/Flynn-Thursday.rpy:12082
+# game/Flynn-Thursday.rpy:12090
 translate Schinese flynnsunday_b3b4a614_1:
 
     # j "\"TJ, are you alright?\""
-    j "\"TJ, are you alright?\""
+    j "@@@\"TJ, are you alright?\""
 
-# game/Flynn-Thursday.rpy:12083
+# game/Flynn-Thursday.rpy:12091
 translate Schinese flynnsunday_1ca77580_1:
 
     # "TJ shudders and doesn't say anything as Jenna plucks some of the shards from under his collar."
-    "TJ shudders and doesn't say anything as Jenna plucks some of the shards from under his collar."
+    "@@@TJ shudders and doesn't say anything as Jenna plucks some of the shards from under his collar."
 
-# game/Flynn-Thursday.rpy:12084
+# game/Flynn-Thursday.rpy:12092
 translate Schinese flynnsunday_29dfb7a0_1:
 
     # da "\"What was that!?\""
-    da "\"What was that!?\""
+    da "@@@\"What was that!?\""
 
-# game/Flynn-Thursday.rpy:12085
+# game/Flynn-Thursday.rpy:12093
 translate Schinese flynnsunday_c05e0198_1:
 
     # "Daxton shouts back at us, staring through the window."
-    "Daxton shouts back at us, staring through the window."
+    "@@@Daxton shouts back at us, staring through the window."
 
-# game/Flynn-Thursday.rpy:12086
+# game/Flynn-Thursday.rpy:12094
 translate Schinese flynnsunday_ef7ce85b_1:
 
     # f "\"Fuck if I know!\""
-    f "\"Fuck if I know!\""
+    f "@@@\"Fuck if I know!\""
 
-# game/Flynn-Thursday.rpy:12087
+# game/Flynn-Thursday.rpy:12095
 translate Schinese flynnsunday_b6e883e3_1:
 
     # "I don't want to think about what I actually think it was. I just need to be ready if it comes again."
-    "I don't want to think about what I actually think it was. I just need to be ready if it comes again."
+    "@@@I don't want to think about what I actually think it was. I just need to be ready if it comes again."
 
-# game/Flynn-Thursday.rpy:12088
+# game/Flynn-Thursday.rpy:12096
 translate Schinese flynnsunday_dfc1a7b2_1:
 
     # "Leo keeps up the high speed, hitting some of the pot holes hard enough that I'm worried we're going to get a flat."
-    "Leo keeps up the high speed, hitting some of the pot holes hard enough that I'm worried we're going to get a flat."
+    "@@@Leo keeps up the high speed, hitting some of the pot holes hard enough that I'm worried we're going to get a flat."
 
-# game/Flynn-Thursday.rpy:12089
+# game/Flynn-Thursday.rpy:12097
 translate Schinese flynnsunday_4c7f2963_1:
 
     # "Then we'd be in some REAL deep shit."
-    "Then we'd be in some REAL deep shit."
+    "@@@Then we'd be in some REAL deep shit."
 
-# game/Flynn-Thursday.rpy:12090
+# game/Flynn-Thursday.rpy:12098
 translate Schinese flynnsunday_31c99092_1:
 
     # "We drive on for another five minutes in silence."
-    "We drive on for another five minutes in silence."
+    "@@@We drive on for another five minutes in silence."
 
-# game/Flynn-Thursday.rpy:12091
+# game/Flynn-Thursday.rpy:12099
 translate Schinese flynnsunday_2b4afc84_1:
 
     # "And then the sign appears in front of us again."
-    "And then the sign appears in front of us again."
+    "@@@And then the sign appears in front of us again."
 
-# game/Flynn-Thursday.rpy:12092
+# game/Flynn-Thursday.rpy:12100
 translate Schinese flynnsunday_885582dd_1:
 
     # "This time no one says anything and Leo doesn't bother turning around."
-    "This time no one says anything and Leo doesn't bother turning around."
+    "@@@This time no one says anything and Leo doesn't bother turning around."
 
-# game/Flynn-Thursday.rpy:12093
+# game/Flynn-Thursday.rpy:12101
 translate Schinese flynnsunday_71411545_1:
 
     # "I watch out my window as we fly past the historic path."
-    "I watch out my window as we fly past the historic path."
+    "@@@I watch out my window as we fly past the historic path."
 
-# game/Flynn-Thursday.rpy:12094
+# game/Flynn-Thursday.rpy:12102
 translate Schinese flynnsunday_64d677a1_1:
 
     # "But nothing happens."
-    "But nothing happens."
+    "@@@But nothing happens."
 
-# game/Flynn-Thursday.rpy:12095
+# game/Flynn-Thursday.rpy:12103
 translate Schinese flynnsunday_d48609eb_1:
 
     # "All I see is the tall piece of wood with the broken lights, and all I hear is the wind whipping around us."
-    "All I see is the tall piece of wood with the broken lights, and all I hear is the wind whipping around us."
+    "@@@All I see is the tall piece of wood with the broken lights, and all I hear is the wind whipping around us."
 
-# game/Flynn-Thursday.rpy:12096
+# game/Flynn-Thursday.rpy:12104
 translate Schinese flynnsunday_79528ed9_1:
 
     # "Jenna keeps a paw on TJ's back as he remains hunched over, the other still holding Duke's pistol."
-    "Jenna keeps a paw on TJ's back as he remains hunched over, the other still holding Duke's pistol."
+    "@@@Jenna keeps a paw on TJ's back as he remains hunched over, the other still holding Duke's pistol."
 
-# game/Flynn-Thursday.rpy:12097
+# game/Flynn-Thursday.rpy:12105
 translate Schinese flynnsunday_48d318bb_1:
 
     # "Carl sits quietly, staring out his window."
-    "Carl sits quietly, staring out his window."
+    "@@@Carl sits quietly, staring out his window."
 
-# game/Flynn-Thursday.rpy:12098
+# game/Flynn-Thursday.rpy:12106
 translate Schinese flynnsunday_9d986863_1:
 
     # "On the bright side, the bashed in back window has diminished the smell of sick, but the smoke smell is stronger than ever."
-    "On the bright side, the bashed in back window has diminished the smell of sick, but the smoke smell is stronger than ever."
+    "@@@On the bright side, the bashed in back window has diminished the smell of sick, but the smoke smell is stronger than ever."
 
-# game/Flynn-Thursday.rpy:12099
+# game/Flynn-Thursday.rpy:12107
 translate Schinese flynnsunday_4c272cbe_1:
 
     # "Sparse dots of light show up on the horizon, indicating where Echo is."
-    "Sparse dots of light show up on the horizon, indicating where Echo is."
+    "@@@Sparse dots of light show up on the horizon, indicating where Echo is."
 
-# game/Flynn-Thursday.rpy:12100
+# game/Flynn-Thursday.rpy:12108
 translate Schinese flynnsunday_390b4e82_1:
 
     # "That's when Leo speaks up."
-    "That's when Leo speaks up."
+    "@@@That's when Leo speaks up."
 
-# game/Flynn-Thursday.rpy:12101
+# game/Flynn-Thursday.rpy:12109
 translate Schinese flynnsunday_cf4a5e2c:
 
     # l "\"A'ight, that's it. We're heading back to my place, shutting off all the lights, locking the doors, and eating toaster pastries until this all blows over."
-    l "\"A'ight, that's it. We're heading back to my place, shutting off all the lights, locking the doors, and eating toaster pastries until this all blows over."
+    l "@@@\"A'ight, that's it. We're heading back to my place, shutting off all the lights, locking the doors, and eating toaster pastries until this all blows over."
 
-# game/Flynn-Thursday.rpy:12102
+# game/Flynn-Thursday.rpy:12110
 translate Schinese flynnsunday_cecb6ee8:
 
     # "It's not the worst plan in the world, for sure."
-    "It's not the worst plan in the world, for sure."
+    "@@@It's not the worst plan in the world, for sure."
 
-# game/Flynn-Thursday.rpy:12103
+# game/Flynn-Thursday.rpy:12111
 translate Schinese flynnsunday_5c88f5da:
 
     # m "\"I.. egh, guess we have to.\""
-    m "\"I.. egh, guess we have to.\""
+    m "@@@\"I.. egh, guess we have to.\""
 
-# game/Flynn-Thursday.rpy:12104
+# game/Flynn-Thursday.rpy:12112
 translate Schinese flynnsunday_d3d39c3a_1:
 
     # da "\"I'd rather not meet the same fate as that guy on the blanket. Yeah, I reckon that's sound.\""
-    da "\"I'd rather not meet the same fate as that guy on the blanket. Yeah, I reckon that's sound.\""
+    da "@@@\"I'd rather not meet the same fate as that guy on the blanket. Yeah, I reckon that's sound.\""
 
-# game/Flynn-Thursday.rpy:12105
+# game/Flynn-Thursday.rpy:12113
 translate Schinese flynnsunday_38ca80c6_1:
 
     # "I shift myself onto one knee in the seat, the old thing creaking under my weight."
-    "I shift myself onto one knee in the seat, the old thing creaking under my weight."
+    "@@@I shift myself onto one knee in the seat, the old thing creaking under my weight."
 
-# game/Flynn-Thursday.rpy:12106
+# game/Flynn-Thursday.rpy:12114
 translate Schinese flynnsunday_fc534b15:
 
     # "I have to hunch low so that my head isn't smushed against the ceiling."
-    "I have to hunch low so that my head isn't smushed against the ceiling."
+    "@@@I have to hunch low so that my head isn't smushed against the ceiling."
 
-# game/Flynn-Thursday.rpy:12107
+# game/Flynn-Thursday.rpy:12115
 translate Schinese flynnsunday_634ae373:
 
     # "I just have to pray that Leo doesn't hit any sudden big bumps."
-    "I just have to pray that Leo doesn't hit any sudden big bumps."
+    "@@@I just have to pray that Leo doesn't hit any sudden big bumps."
 
-# game/Flynn-Thursday.rpy:12108
+# game/Flynn-Thursday.rpy:12116
 translate Schinese flynnsunday_6e11facf_1:
 
     # "There's a sinking feeling in my stomach at the thought of going back to Echo."
-    "There's a sinking feeling in my stomach at the thought of going back to Echo."
+    "@@@There's a sinking feeling in my stomach at the thought of going back to Echo."
 
-# game/Flynn-Thursday.rpy:12109
+# game/Flynn-Thursday.rpy:12117
 translate Schinese flynnsunday_f31ee186_1:
 
     # "Part of me wonders whether Duke and Chase's car are still there, and we just imagined that whole grizzly scene."
-    "Part of me wonders whether Duke and Chase's car are still there, and we just imagined that whole grizzly scene."
+    "@@@Part of me wonders whether Duke and Chase's car are still there, and we just imagined that whole grizzly scene."
 
-# game/Flynn-Thursday.rpy:12111
+# game/Flynn-Thursday.rpy:12119
 translate Schinese flynnsunday_d353cc10_1:
 
     # "I stare out my window, watching the hills move slowly by under the moonlight as we turn onto Lake Emma Road."
-    "I stare out my window, watching the hills move slowly by under the moonlight as we turn onto Lake Emma Road."
+    "@@@I stare out my window, watching the hills move slowly by under the moonlight as we turn onto Lake Emma Road."
 
-# game/Flynn-Thursday.rpy:12112
+# game/Flynn-Thursday.rpy:12120
 translate Schinese flynnsunday_961f1b3e_1:
 
     # "Maybe taking one of the mountain roads out of town would be worth it, whether we'd have enough gas, when it happens."
-    "Maybe taking one of the mountain roads out of town would be worth it, whether we'd have enough gas, when it happens."
+    "@@@Maybe taking one of the mountain roads out of town would be worth it, whether we'd have enough gas, when it happens."
 
-# game/Flynn-Thursday.rpy:12113
+# game/Flynn-Thursday.rpy:12121
 translate Schinese flynnsunday_a20cefa7_1:
 
     # "..."
-    "..."
+    "@@@..."
 
-# game/Flynn-Thursday.rpy:12115
+# game/Flynn-Thursday.rpy:12123
 translate Schinese flynnsunday_d2d9752b_1:
 
     # "A crouched figure sits on the peak of a hill, just about 50 feet from where we are."
-    "A crouched figure sits on the peak of a hill, just about 50 feet from where we are."
+    "@@@A crouched figure sits on the peak of a hill, just about 50 feet from where we are."
 
-# game/Flynn-Thursday.rpy:12116
+# game/Flynn-Thursday.rpy:12124
 translate Schinese flynnsunday_c430875d_1:
 
     # "I squint at it, just barely able to make out what looks like shoulders and a head hunched up under the light of the moon."
-    "I squint at it, just barely able to make out what looks like shoulders and a head hunched up under the light of the moon."
+    "@@@I squint at it, just barely able to make out what looks like shoulders and a head hunched up under the light of the moon."
 
-# game/Flynn-Thursday.rpy:12117
+# game/Flynn-Thursday.rpy:12125
 translate Schinese flynnsunday_3ee000fb_1:
 
     # f "\"Oh shit...\""
-    f "\"Oh shit...\""
+    f "@@@\"Oh shit...\""
 
-# game/Flynn-Thursday.rpy:12118
+# game/Flynn-Thursday.rpy:12126
 translate Schinese flynnsunday_876cd8ce_1:
 
     # "I'm directly across from the thing when I open my mouth."
-    "I'm directly across from the thing when I open my mouth."
+    "@@@I'm directly across from the thing when I open my mouth."
 
-# game/Flynn-Thursday.rpy:12120
+# game/Flynn-Thursday.rpy:12128
 translate Schinese flynnsunday_372c518b_1:
 
     # "But I'm barely able to make a sound when it moves."
-    "But I'm barely able to make a sound when it moves."
+    "@@@But I'm barely able to make a sound when it moves."
 
-# game/Flynn-Thursday.rpy:12122
+# game/Flynn-Thursday.rpy:12130
 translate Schinese flynnsunday_f356ecad_1:
 
     # "It dashes down the hill in the blink of an eye, covering the distance between it and our car in a matter of two seconds."
-    "It dashes down the hill in the blink of an eye, covering the distance between it and our car in a matter of two seconds."
+    "@@@It dashes down the hill in the blink of an eye, covering the distance between it and our car in a matter of two seconds."
 
-# game/Flynn-Thursday.rpy:12123
+# game/Flynn-Thursday.rpy:12131
 translate Schinese flynnsunday_96b9aced_1:
 
     # "One moment I'm staring at a tiny black figure and the next it's right up against the car, smashing into the side between my door and Jenna's."
-    "One moment I'm staring at a tiny black figure and the next it's right up against the car, smashing into the side between my door and Jenna's."
+    "@@@One moment I'm staring at a tiny black figure and the next it's right up against the car, smashing into the side between my door and Jenna's."
 
-# game/Flynn-Thursday.rpy:12126
+# game/Flynn-Thursday.rpy:12134
 translate Schinese flynnsunday_15d6ec47_1:
 
     # "My head smacks into the glass and I see a flash of white."
-    "My head smacks into the glass and I see a flash of white."
+    "@@@My head smacks into the glass and I see a flash of white."
 
-# game/Flynn-Thursday.rpy:12127
+# game/Flynn-Thursday.rpy:12135
 translate Schinese flynnsunday_7d69af64_1:
 
     # "At the same time I hear Jenna shout at us to hold on, TJ screams, Carl yells..."
-    "At the same time I hear Jenna shout at us to hold on, TJ screams, Carl yells..."
+    "@@@At the same time I hear Jenna shout at us to hold on, TJ screams, Carl yells..."
 
-# game/Flynn-Thursday.rpy:12133
+# game/Flynn-Thursday.rpy:12141
 translate Schinese flynnsunday_7062b802:
 
     # "The lake..."
-    "The lake..."
+    "@@@The lake..."
 
-# game/Flynn-Thursday.rpy:12134
+# game/Flynn-Thursday.rpy:12142
 translate Schinese flynnsunday_25ad1651:
 
     # "I watch as water begins to pool in through the broken window, the jagged glass getting carried in with the flow."
-    "I watch as water begins to pool in through the broken window, the jagged glass getting carried in with the flow."
+    "@@@I watch as water begins to pool in through the broken window, the jagged glass getting carried in with the flow."
 
-# game/Flynn-Thursday.rpy:12135
+# game/Flynn-Thursday.rpy:12143
 translate Schinese flynnsunday_dfb27e57:
 
     # "The van is already halfway submerged."
-    "The van is already halfway submerged."
+    "@@@The van is already halfway submerged."
 
-# game/Flynn-Thursday.rpy:12136
+# game/Flynn-Thursday.rpy:12144
 translate Schinese flynnsunday_7e66ad08:
 
     # "We crashed in the {i}fucking{/i} lake. How can that be? We were nowhere near it."
-    "We crashed in the {i}fucking{/i} lake. How can that be? We were nowhere near it."
+    "@@@We crashed in the {i}fucking{/i} lake. How can that be? We were nowhere near it."
 
-# game/Flynn-Thursday.rpy:12137
+# game/Flynn-Thursday.rpy:12145
 translate Schinese flynnsunday_3d47ab74:
 
     # "The water is shockingly cold, and rising up to my knees."
-    "The water is shockingly cold, and rising up to my knees."
+    "@@@The water is shockingly cold, and rising up to my knees."
 
-# game/Flynn-Thursday.rpy:12138
+# game/Flynn-Thursday.rpy:12146
 translate Schinese flynnsunday_4b0c411c:
 
     # "TJ yelps something incomprehensible."
-    "TJ yelps something incomprehensible."
+    "@@@TJ yelps something incomprehensible."
 
-# game/Flynn-Thursday.rpy:12139
+# game/Flynn-Thursday.rpy:12147
 translate Schinese flynnsunday_6a8501a6:
 
     # "I see Leo thrashing with his seatbelt, trying to get unbuckled as the car battery shorts out and the cabin lights go dark."
-    "I see Leo thrashing with his seatbelt, trying to get unbuckled as the car battery shorts out and the cabin lights go dark."
+    "@@@I see Leo thrashing with his seatbelt, trying to get unbuckled as the car battery shorts out and the cabin lights go dark."
 
-# game/Flynn-Thursday.rpy:12140
+# game/Flynn-Thursday.rpy:12148
 translate Schinese flynnsunday_e2d23382:
 
     # da "\"CARL!\""
-    da "\"CARL!\""
+    da "@@@\"CARL!\""
 
-# game/Flynn-Thursday.rpy:12141
+# game/Flynn-Thursday.rpy:12149
 translate Schinese flynnsunday_82c97c00:
 
     # "The hyperventilating ram splashes about behind."
-    "The hyperventilating ram splashes about behind."
+    "@@@The hyperventilating ram splashes about behind."
 
-# game/Flynn-Thursday.rpy:12142
+# game/Flynn-Thursday.rpy:12150
 translate Schinese flynnsunday_6f7a4dc9:
 
     # da "\"I can't open my door!\""
-    da "\"I can't open my door!\""
+    da "@@@\"I can't open my door!\""
 
-# game/Flynn-Thursday.rpy:12143
+# game/Flynn-Thursday.rpy:12151
 translate Schinese flynnsunday_035cf1d8:
 
     # "I can hear the sound of door handles being yanked."
-    "I can hear the sound of door handles being yanked."
+    "@@@I can hear the sound of door handles being yanked."
 
-# game/Flynn-Thursday.rpy:12144
+# game/Flynn-Thursday.rpy:12152
 translate Schinese flynnsunday_a52d08f7:
 
     # "I grab my own, press the unlock button and push outward, but the pressure of the water is too much. It doesn't budge."
-    "I grab my own, press the unlock button and push outward, but the pressure of the water is too much. It doesn't budge."
+    "@@@I grab my own, press the unlock button and push outward, but the pressure of the water is too much. It doesn't budge."
 
-# game/Flynn-Thursday.rpy:12145
+# game/Flynn-Thursday.rpy:12153
 translate Schinese flynnsunday_71822590:
 
     # "I try to wrangle my rifle up to butt the glass, but my seat got pushed too far up in the impact."
-    "I try to wrangle my rifle up to butt the glass, but my seat got pushed too far up in the impact."
+    "@@@I try to wrangle my rifle up to butt the glass, but my seat got pushed too far up in the impact."
 
-# game/Flynn-Thursday.rpy:12146
+# game/Flynn-Thursday.rpy:12154
 translate Schinese flynnsunday_3fad38ea:
 
     # "I can barely move with my chest pushed up against the dashboard."
-    "I can barely move with my chest pushed up against the dashboard."
+    "@@@I can barely move with my chest pushed up against the dashboard."
 
-# game/Flynn-Thursday.rpy:12147
+# game/Flynn-Thursday.rpy:12155
 translate Schinese flynnsunday_647be654:
 
     # "Straining to wriggle free, I end up scraping my head along the roof."
-    "Straining to wriggle free, I end up scraping my head along the roof."
+    "@@@Straining to wriggle free, I end up scraping my head along the roof."
 
-# game/Flynn-Thursday.rpy:12148
+# game/Flynn-Thursday.rpy:12156
 translate Schinese flynnsunday_2f4bbd3b:
 
     # f "\"Piece of shit!\""
-    f "\"Piece of shit!\""
+    f "@@@\"Piece of shit!\""
 
-# game/Flynn-Thursday.rpy:12149
+# game/Flynn-Thursday.rpy:12157
 translate Schinese flynnsunday_47fff406:
 
     # "Goddamn my stupid lanky ass."
-    "Goddamn my stupid lanky ass."
+    "@@@Goddamn my stupid lanky ass."
 
-# game/Flynn-Thursday.rpy:12150
+# game/Flynn-Thursday.rpy:12158
 translate Schinese flynnsunday_89aa118f:
 
     # da "\"Carl, use your head!\""
-    da "\"Carl, use your head!\""
+    da "@@@\"Carl, use your head!\""
 
-# game/Flynn-Thursday.rpy:12151
+# game/Flynn-Thursday.rpy:12159
 translate Schinese flynnsunday_d1dd2b90:
 
     # c "\"I-I don't know what to do, dude!\""
-    c "\"I-I don't know what to do, dude!\""
+    c "@@@\"I-I don't know what to do, dude!\""
 
-# game/Flynn-Thursday.rpy:12152
+# game/Flynn-Thursday.rpy:12160
 translate Schinese flynnsunday_4b80a088:
 
     # da "\"The horns! Do the ram thing!\""
-    da "\"The horns! Do the ram thing!\""
+    da "@@@\"The horns! Do the ram thing!\""
 
-# game/Flynn-Thursday.rpy:12153
+# game/Flynn-Thursday.rpy:12161
 translate Schinese flynnsunday_4b49e33c:
 
     # "I realize what Daxton's trying to say."
-    "I realize what Daxton's trying to say."
+    "@@@I realize what Daxton's trying to say."
 
-# game/Flynn-Thursday.rpy:12154
+# game/Flynn-Thursday.rpy:12162
 translate Schinese flynnsunday_1e734263:
 
     # f "\"Fuckin' species features. Go Carl!\""
-    f "\"Fuckin' species features. Go Carl!\""
+    f "@@@\"Fuckin' species features. Go Carl!\""
 
-# game/Flynn-Thursday.rpy:12155
+# game/Flynn-Thursday.rpy:12163
 translate Schinese flynnsunday_dc5db3ca:
 
     # c "\"Uh.. uh, okay!\""
-    c "\"Uh.. uh, okay!\""
+    c "@@@\"Uh.. uh, okay!\""
 
-# game/Flynn-Thursday.rpy:12156
+# game/Flynn-Thursday.rpy:12164
 translate Schinese flynnsunday_02441724:
 
     # "There's a shuffling a movement, followed by a hard slam."
-    "There's a shuffling a movement, followed by a hard slam."
+    "@@@There's a shuffling a movement, followed by a hard slam."
 
-# game/Flynn-Thursday.rpy:12158
+# game/Flynn-Thursday.rpy:12166
 translate Schinese flynnsunday_406933ea:
 
     # "Glass shatters and more water comes rushing in."
-    "Glass shatters and more water comes rushing in."
+    "@@@Glass shatters and more water comes rushing in."
 
-# game/Flynn-Thursday.rpy:12159
+# game/Flynn-Thursday.rpy:12167
 translate Schinese flynnsunday_92e855f9:
 
     # "There's a flurry of movement out my window as first Jenna, then Carl, then TJ go through the window."
-    "There's a flurry of movement out my window as first Jenna, then Carl, then TJ go through the window."
+    "@@@There's a flurry of movement out my window as first Jenna, then Carl, then TJ go through the window."
 
-# game/Flynn-Thursday.rpy:12161
+# game/Flynn-Thursday.rpy:12169
 translate Schinese flynnsunday_2ab914cd:
 
     # "Soon the water's up to nostrils, and my blood goes cold."
-    "Soon the water's up to nostrils, and my blood goes cold."
+    "@@@Soon the water's up to nostrils, and my blood goes cold."
 
-# game/Flynn-Thursday.rpy:12162
+# game/Flynn-Thursday.rpy:12170
 translate Schinese flynnsunday_970ef127:
 
     # "I remember my uncle telling me something after we watched a movie with a scene like this. Until the pressure is equalized, you can't open the door."
-    "I remember my uncle telling me something after we watched a movie with a scene like this. Until the pressure is equalized, you can't open the door."
+    "@@@I remember my uncle telling me something after we watched a movie with a scene like this. Until the pressure is equalized, you can't open the door."
 
-# game/Flynn-Thursday.rpy:12163
+# game/Flynn-Thursday.rpy:12171
 translate Schinese flynnsunday_2cbc8719:
 
     # "It doesn't stop me from wrenching on the handle, regardless."
-    "It doesn't stop me from wrenching on the handle, regardless."
+    "@@@It doesn't stop me from wrenching on the handle, regardless."
 
-# game/Flynn-Thursday.rpy:12167
+# game/Flynn-Thursday.rpy:12175
 translate Schinese flynnsunday_e10d51b3:
 
     # "I push my maw up to the roof and take a large breath before being fully submerged."
-    "I push my maw up to the roof and take a large breath before being fully submerged."
+    "@@@I push my maw up to the roof and take a large breath before being fully submerged."
 
-# game/Flynn-Thursday.rpy:12168
+# game/Flynn-Thursday.rpy:12176
 translate Schinese flynnsunday_15d0ffbf:
 
     # "The metal underbelly of the van scrapes against the rocks on the lake floor, which makes a downright horrifying sound underwater."
-    "The metal underbelly of the van scrapes against the rocks on the lake floor, which makes a downright horrifying sound underwater."
+    "@@@The metal underbelly of the van scrapes against the rocks on the lake floor, which makes a downright horrifying sound underwater."
 
-# game/Flynn-Thursday.rpy:12169
+# game/Flynn-Thursday.rpy:12177
 translate Schinese flynnsunday_8929f7bc:
 
     # "With one hard push, my door finally opens and I begin to squeeze my way out."
-    "With one hard push, my door finally opens and I begin to squeeze my way out."
+    "@@@With one hard push, my door finally opens and I begin to squeeze my way out."
 
-# game/Flynn-Thursday.rpy:12170
+# game/Flynn-Thursday.rpy:12178
 translate Schinese flynnsunday_9fb2671d:
 
     # "I look over my shoulder, seeing the faint outline of rust colored fur in the back of the van, Leo seemingly trying to get Chase."
-    "I look over my shoulder, seeing the faint outline of rust colored fur in the back of the van, Leo seemingly trying to get Chase."
+    "@@@I look over my shoulder, seeing the faint outline of rust colored fur in the back of the van, Leo seemingly trying to get Chase."
 
-# game/Flynn-Thursday.rpy:12172
+# game/Flynn-Thursday.rpy:12180
 translate Schinese flynnsunday_70e0fcc4:
 
     # "My lungs begin to burn and I realize I can't see the surface. I kick my legs, trying to push myself off the slimy lakebed."
-    "My lungs begin to burn and I realize I can't see the surface. I kick my legs, trying to push myself off the slimy lakebed."
+    "@@@My lungs begin to burn and I realize I can't see the surface. I kick my legs, trying to push myself off the slimy lakebed."
 
-# game/Flynn-Thursday.rpy:12173
+# game/Flynn-Thursday.rpy:12181
 translate Schinese flynnsunday_33c6b238:
 
     # "The pressure on my eardrums are like drills pushing into my skull."
-    "The pressure on my eardrums are like drills pushing into my skull."
+    "@@@The pressure on my eardrums are like drills pushing into my skull."
 
-# game/Flynn-Thursday.rpy:12174
+# game/Flynn-Thursday.rpy:12182
 translate Schinese flynnsunday_fcb9ad8a:
 
     # "The seconds pass: one, two, three, four, five.."
-    "The seconds pass: one, two, three, four, five.."
+    "@@@The seconds pass: one, two, three, four, five.."
 
-# game/Flynn-Thursday.rpy:12180
+# game/Flynn-Thursday.rpy:12188
 translate Schinese flynnsunday_4d12da32:
 
     # "..and finally I breach the surface."
-    "..and finally I breach the surface."
+    "@@@..and finally I breach the surface."
 
-# game/Flynn-Thursday.rpy:12181
+# game/Flynn-Thursday.rpy:12189
 translate Schinese flynnsunday_0b13d831:
 
     # "After a moment, the water splashes and Chase and Leo emerge from the depths."
-    "After a moment, the water splashes and Chase and Leo emerge from the depths."
+    "@@@After a moment, the water splashes and Chase and Leo emerge from the depths."
 
-# game/Flynn-Thursday.rpy:12182
+# game/Flynn-Thursday.rpy:12190
 translate Schinese flynnsunday_4e6609a1:
 
     # m "\"Leo, I'm a fucking otter! I-I'm fine...\""
-    m "\"Leo, I'm a fucking otter! I-I'm fine...\""
+    m "@@@\"Leo, I'm a fucking otter! I-I'm fine...\""
 
-# game/Flynn-Thursday.rpy:12183
+# game/Flynn-Thursday.rpy:12191
 translate Schinese flynnsunday_83044a1d:
 
     # c "\"Guys.. guys...\""
-    c "\"Guys.. guys...\""
+    c "@@@\"Guys.. guys...\""
 
-# game/Flynn-Thursday.rpy:12184
+# game/Flynn-Thursday.rpy:12192
 translate Schinese flynnsunday_b90a1c15:
 
     # "Carl pants, the ram appearing to be clutching one paw onto TJ's shoulder to keep afloat. He can't really swim well thanks to his hooves."
-    "Carl pants, the ram appearing to be clutching one paw onto TJ's shoulder to keep afloat. He can't really swim well thanks to his hooves."
+    "@@@Carl pants, the ram appearing to be clutching one paw onto TJ's shoulder to keep afloat. He can't really swim well thanks to his hooves."
 
-# game/Flynn-Thursday.rpy:12185
+# game/Flynn-Thursday.rpy:12193
 translate Schinese flynnsunday_f828877a:
 
     # "TJ looks to be struggling to keep their chins both above the water line."
-    "TJ looks to be struggling to keep their chins both above the water line."
+    "@@@TJ looks to be struggling to keep their chins both above the water line."
 
-# game/Flynn-Thursday.rpy:12186
+# game/Flynn-Thursday.rpy:12194
 translate Schinese flynnsunday_24cfd95c:
 
     # c "\"Where's Dudeman?\""
-    c "\"Where's Dudeman?\""
+    c "@@@\"Where's Dudeman?\""
 
-# game/Flynn-Thursday.rpy:12187
+# game/Flynn-Thursday.rpy:12195
 translate Schinese flynnsunday_c8071644_2:
 
     # j "\"What?\""
-    j "\"What?\""
+    j "@@@\"What?\""
 
-# game/Flynn-Thursday.rpy:12188
+# game/Flynn-Thursday.rpy:12196
 translate Schinese flynnsunday_8b3cf19f:
 
     # c "\"Daxton!\""
-    c "\"Daxton!\""
+    c "@@@\"Daxton!\""
 
-# game/Flynn-Thursday.rpy:12189
+# game/Flynn-Thursday.rpy:12197
 translate Schinese flynnsunday_10457fac:
 
     # j "\"I don't know. Did anyone see where that thing went?\""
-    j "\"I don't know. Did anyone see where that thing went?\""
+    j "@@@\"I don't know. Did anyone see where that thing went?\""
 
-# game/Flynn-Thursday.rpy:12190
+# game/Flynn-Thursday.rpy:12198
 translate Schinese flynnsunday_17754179:
 
     # t "\"We need to get out of the water! It can be in here with us, I-I know it!\""
-    t "\"We need to get out of the water! It can be in here with us, I-I know it!\""
+    t "@@@\"We need to get out of the water! It can be in here with us, I-I know it!\""
 
-# game/Flynn-Thursday.rpy:12191
+# game/Flynn-Thursday.rpy:12199
 translate Schinese flynnsunday_94ea80f0:
 
     # "TJ's voice sounds like a mix of a whisper and a shout."
-    "TJ's voice sounds like a mix of a whisper and a shout."
+    "@@@TJ's voice sounds like a mix of a whisper and a shout."
 
-# game/Flynn-Thursday.rpy:12192
+# game/Flynn-Thursday.rpy:12200
 translate Schinese flynnsunday_15a687fd:
 
     # t "\"Please!\""
-    t "\"Please!\""
+    t "@@@\"Please!\""
 
-# game/Flynn-Thursday.rpy:12193
+# game/Flynn-Thursday.rpy:12201
 translate Schinese flynnsunday_86a861bf:
 
     # "His voice cracks like a twelve year old's as he stutters from a mixture of the cold water and shock."
-    "His voice cracks like a twelve year old's as he stutters from a mixture of the cold water and shock."
+    "@@@His voice cracks like a twelve year old's as he stutters from a mixture of the cold water and shock."
 
-# game/Flynn-Thursday.rpy:12194
+# game/Flynn-Thursday.rpy:12202
 translate Schinese flynnsunday_bb841be1:
 
     # "I look around the mass of bobbing heads that surround me, but neither Daxton or whatever attacked us is anywhere in sight."
-    "I look around the mass of bobbing heads that surround me, but neither Daxton or whatever attacked us is anywhere in sight."
+    "@@@I look around the mass of bobbing heads that surround me, but neither Daxton or whatever attacked us is anywhere in sight."
 
-# game/Flynn-Thursday.rpy:12195
+# game/Flynn-Thursday.rpy:12203
 translate Schinese flynnsunday_19a659b4:
 
     # "In fact, land is like a.. hundred yards away?"
-    "In fact, land is like a.. hundred yards away?"
+    "@@@In fact, land is like a.. hundred yards away?"
 
-# game/Flynn-Thursday.rpy:12196
+# game/Flynn-Thursday.rpy:12204
 translate Schinese flynnsunday_c95ac419:
 
     # f "\"How in the FUCK-\""
-    f "\"How in the FUCK-\""
+    f "@@@\"How in the FUCK-\""
 
-# game/Flynn-Thursday.rpy:12197
+# game/Flynn-Thursday.rpy:12205
 translate Schinese flynnsunday_ebbee278:
 
     # c "\"Daxton! Dax!\""
-    c "\"Daxton! Dax!\""
+    c "@@@\"Daxton! Dax!\""
 
-# game/Flynn-Thursday.rpy:12198
+# game/Flynn-Thursday.rpy:12206
 translate Schinese flynnsunday_74506e00:
 
     # j "\"Carl, you need to stop yelling.\""
-    j "\"Carl, you need to stop yelling.\""
+    j "@@@\"Carl, you need to stop yelling.\""
 
-# game/Flynn-Thursday.rpy:12199
+# game/Flynn-Thursday.rpy:12207
 translate Schinese flynnsunday_f6b9bdc1:
 
     # "Jenna's tone is hushed but firm, the wet fennec looking like a soggy mop in the moonlight."
-    "Jenna's tone is hushed but firm, the wet fennec looking like a soggy mop in the moonlight."
+    "@@@Jenna's tone is hushed but firm, the wet fennec looking like a soggy mop in the moonlight."
 
-# game/Flynn-Thursday.rpy:12200
+# game/Flynn-Thursday.rpy:12208
 translate Schinese flynnsunday_a14d8d56:
 
     # "I notice a glint of steel and realize she's still holding Duke's gun."
-    "I notice a glint of steel and realize she's still holding Duke's gun."
+    "@@@I notice a glint of steel and realize she's still holding Duke's gun."
 
-# game/Flynn-Thursday.rpy:12201
+# game/Flynn-Thursday.rpy:12209
 translate Schinese flynnsunday_6f283bc2:
 
     # "I left mine on the lake floor."
-    "I left mine on the lake floor."
+    "@@@I left mine on the lake floor."
 
-# game/Flynn-Thursday.rpy:12202
+# game/Flynn-Thursday.rpy:12210
 translate Schinese flynnsunday_483ee61e:
 
     # j "\"TJ's right, we need to get to shore.\""
-    j "\"TJ's right, we need to get to shore.\""
+    j "@@@\"TJ's right, we need to get to shore.\""
 
-# game/Flynn-Thursday.rpy:12203
+# game/Flynn-Thursday.rpy:12211
 translate Schinese flynnsunday_7bdf5b1c:
 
     # "There's a coldness to her voice - one controlled by fear."
-    "There's a coldness to her voice - one controlled by fear."
+    "@@@There's a coldness to her voice - one controlled by fear."
 
-# game/Flynn-Thursday.rpy:12204
+# game/Flynn-Thursday.rpy:12212
 translate Schinese flynnsunday_83098de5:
 
     # "It takes her a moment to realize what she's saying and a horrible contortion of worry and guilt crosses her soaked features."
-    "It takes her a moment to realize what she's saying and a horrible contortion of worry and guilt crosses her soaked features."
+    "@@@It takes her a moment to realize what she's saying and a horrible contortion of worry and guilt crosses her soaked features."
 
-# game/Flynn-Thursday.rpy:12205
+# game/Flynn-Thursday.rpy:12213
 translate Schinese flynnsunday_6aa81e9d:
 
     # j "\"Chase, can you get him?\""
-    j "\"Chase, can you get him?\""
+    j "@@@\"Chase, can you get him?\""
 
-# game/Flynn-Thursday.rpy:12206
+# game/Flynn-Thursday.rpy:12214
 translate Schinese flynnsunday_5de49e48:
 
     # m "\"I don't know.. I just, I don't know...\""
-    m "\"I don't know.. I just, I don't know...\""
+    m "@@@\"I don't know.. I just, I don't know...\""
 
-# game/Flynn-Thursday.rpy:12207
+# game/Flynn-Thursday.rpy:12215
 translate Schinese flynnsunday_bef55ab4:
 
     # l "\"No way, you're in no condition.\""
-    l "\"No way, you're in no condition.\""
+    l "@@@\"No way, you're in no condition.\""
 
-# game/Flynn-Thursday.rpy:12208
+# game/Flynn-Thursday.rpy:12216
 translate Schinese flynnsunday_eb49b87f:
 
     # "TJ looks down, opening his mouth to speak, but nothing but whimpers escapes him."
-    "TJ looks down, opening his mouth to speak, but nothing but whimpers escapes him."
+    "@@@TJ looks down, opening his mouth to speak, but nothing but whimpers escapes him."
 
-# game/Flynn-Thursday.rpy:12209
+# game/Flynn-Thursday.rpy:12217
 translate Schinese flynnsunday_1dce5586:
 
     # f "\"Fuckin' 'ell, he's still probably all the way down in the van!\""
-    f "\"Fuckin' 'ell, he's still probably all the way down in the van!\""
+    f "@@@\"Fuckin' 'ell, he's still probably all the way down in the van!\""
 
-# game/Flynn-Thursday.rpy:12210
+# game/Flynn-Thursday.rpy:12218
 translate Schinese flynnsunday_30411d58:
 
     # c "\"We gotta get him!\""
-    c "\"We gotta get him!\""
+    c "@@@\"We gotta get him!\""
 
-# game/Flynn-Thursday.rpy:12211
+# game/Flynn-Thursday.rpy:12219
 translate Schinese flynnsunday_07b9d8ca:
 
     # j "\"He's a salamander, right? I know his kind can hold their breath a little longer than we can.\""
-    j "\"He's a salamander, right? I know his kind can hold their breath a little longer than we can.\""
+    j "@@@\"He's a salamander, right? I know his kind can hold their breath a little longer than we can.\""
 
-# game/Flynn-Thursday.rpy:12212
+# game/Flynn-Thursday.rpy:12220
 translate Schinese flynnsunday_20531e08:
 
     # f "\"Yeah, I don't know why the fuck he'd dawdle, though.\""
-    f "\"Yeah, I don't know why the fuck he'd dawdle, though.\""
+    f "@@@\"Yeah, I don't know why the fuck he'd dawdle, though.\""
 
-# game/Flynn-Thursday.rpy:12213
+# game/Flynn-Thursday.rpy:12221
 translate Schinese flynnsunday_f7e781e6:
 
     # f "\"Chase, you're the only fucker here who can hold your breath that long.\""
-    f "\"Chase, you're the only fucker here who can hold your breath that long.\""
+    f "@@@\"Chase, you're the only fucker here who can hold your breath that long.\""
 
-# game/Flynn-Thursday.rpy:12214
+# game/Flynn-Thursday.rpy:12222
 translate Schinese flynnsunday_81bd4193:
 
     # j "\"He can barely breathe as is, Flynn.\""
-    j "\"He can barely breathe as is, Flynn.\""
+    j "@@@\"He can barely breathe as is, Flynn.\""
 
-# game/Flynn-Thursday.rpy:12215
+# game/Flynn-Thursday.rpy:12223
 translate Schinese flynnsunday_eca2f5dd:
 
     # c "\"I'll do it, I'll do it!\""
-    c "\"I'll do it, I'll do it!\""
+    c "@@@\"I'll do it, I'll do it!\""
 
-# game/Flynn-Thursday.rpy:12216
+# game/Flynn-Thursday.rpy:12224
 translate Schinese flynnsunday_3e52ece6:
 
     # "Carl pushes himself off TJ."
-    "Carl pushes himself off TJ."
+    "@@@Carl pushes himself off TJ."
 
-# game/Flynn-Thursday.rpy:12217
+# game/Flynn-Thursday.rpy:12225
 translate Schinese flynnsunday_1f827cde:
 
     # c "\"I sink like a stone anyway.\""
-    c "\"I sink like a stone anyway.\""
+    c "@@@\"I sink like a stone anyway.\""
 
-# game/Flynn-Thursday.rpy:12218
+# game/Flynn-Thursday.rpy:12226
 translate Schinese flynnsunday_0e9d4c6a:
 
     # "Is he this fucking stupid?"
-    "Is he this fucking stupid?"
+    "@@@Is he this fucking stupid?"
 
-# game/Flynn-Thursday.rpy:12219
+# game/Flynn-Thursday.rpy:12227
 translate Schinese flynnsunday_212632e6:
 
     # "I swiflty doggy-paddle my way over, grabbing the ram's arm and forcing it around my shoulder."
-    "I swiflty doggy-paddle my way over, grabbing the ram's arm and forcing it around my shoulder."
+    "@@@I swiflty doggy-paddle my way over, grabbing the ram's arm and forcing it around my shoulder."
 
-# game/Flynn-Thursday.rpy:12220
+# game/Flynn-Thursday.rpy:12228
 translate Schinese flynnsunday_7009db39:
 
     # f "\"Yeah you fuckin' will, and how's your stoned ass gonna get the both of you back up?\""
-    f "\"Yeah you fuckin' will, and how's your stoned ass gonna get the both of you back up?\""
+    f "@@@\"Yeah you fuckin' will, and how's your stoned ass gonna get the both of you back up?\""
 
-# game/Flynn-Thursday.rpy:12223
+# game/Flynn-Thursday.rpy:12231
 translate Schinese flynnsunday_babd9018:
 
     # m "\"I think I can-\""
-    m "\"I think I can-\""
+    m "@@@\"I think I can-\""
 
-# game/Flynn-Thursday.rpy:12224
+# game/Flynn-Thursday.rpy:12232
 translate Schinese flynnsunday_fe496be8:
 
     # l "\"No. We need to get you to shore.\""
-    l "\"No. We need to get you to shore.\""
+    l "@@@\"No. We need to get you to shore.\""
 
-# game/Flynn-Thursday.rpy:12225
+# game/Flynn-Thursday.rpy:12233
 translate Schinese flynnsunday_146dcaf5:
 
     # "I notice Leo's paw wrapped around Chase's wrist, preventing the otter from diving."
-    "I notice Leo's paw wrapped around Chase's wrist, preventing the otter from diving."
+    "@@@I notice Leo's paw wrapped around Chase's wrist, preventing the otter from diving."
 
-# game/Flynn-Thursday.rpy:12226
+# game/Flynn-Thursday.rpy:12234
 translate Schinese flynnsunday_b41dad23:
 
     # "Daxton's down there and everyone's acting like a complete bag of assholes."
-    "Daxton's down there and everyone's acting like a complete bag of assholes."
+    "@@@Daxton's down there and everyone's acting like a complete bag of assholes."
 
-# game/Flynn-Thursday.rpy:12227
+# game/Flynn-Thursday.rpy:12235
 translate Schinese flynnsunday_2e09e8c2:
 
     # f "\"God, fuck it!\""
-    f "\"God, fuck it!\""
+    f "@@@\"God, fuck it!\""
 
-# game/Flynn-Thursday.rpy:12228
+# game/Flynn-Thursday.rpy:12236
 translate Schinese flynnsunday_68cd43ad:
 
     # f "\"Carl, try not to sink.\""
-    f "\"Carl, try not to sink.\""
+    f "@@@\"Carl, try not to sink.\""
 
-# game/Flynn-Thursday.rpy:12229
+# game/Flynn-Thursday.rpy:12237
 translate Schinese flynnsunday_96aa0b3f:
 
     # "The ram blinks as I push away from him, but then nods in understanding."
-    "The ram blinks as I push away from him, but then nods in understanding."
+    "@@@The ram blinks as I push away from him, but then nods in understanding."
 
-# game/Flynn-Thursday.rpy:12230
+# game/Flynn-Thursday.rpy:12238
 translate Schinese flynnsunday_b25251bd:
 
     # c "\"Oh, uh.. I'll be fine. Jesus, good luck, man.\""
-    c "\"Oh, uh.. I'll be fine. Jesus, good luck, man.\""
+    c "@@@\"Oh, uh.. I'll be fine. Jesus, good luck, man.\""
 
-# game/Flynn-Thursday.rpy:12234
+# game/Flynn-Thursday.rpy:12242
 translate Schinese flynnsunday_5c850cab:
 
     # "I take a deep breath, rolling my shoulders forward, and begin diving down."
-    "I take a deep breath, rolling my shoulders forward, and begin diving down."
+    "@@@I take a deep breath, rolling my shoulders forward, and begin diving down."
 
-# game/Flynn-Thursday.rpy:12235
+# game/Flynn-Thursday.rpy:12243
 translate Schinese flynnsunday_3789e3e7:
 
     # "I have to fight my body's own natural buoyancy to keep from returning to the surface. I kick hard."
-    "I have to fight my body's own natural buoyancy to keep from returning to the surface. I kick hard."
+    "@@@I have to fight my body's own natural buoyancy to keep from returning to the surface. I kick hard."
 
-# game/Flynn-Thursday.rpy:12237
+# game/Flynn-Thursday.rpy:12245
 translate Schinese flynnsunday_7b8dc060:
 
     # "I make myself open my eyes, and the first thing that hits me is how dark it is."
-    "I make myself open my eyes, and the first thing that hits me is how dark it is."
+    "@@@I make myself open my eyes, and the first thing that hits me is how dark it is."
 
-# game/Flynn-Thursday.rpy:12238
+# game/Flynn-Thursday.rpy:12246
 translate Schinese flynnsunday_59e2b470:
 
     # "Here I am: forcing myself to go deeper into the frigid nothingness like I know what the hell I'm doing."
-    "Here I am: forcing myself to go deeper into the frigid nothingness like I know what the hell I'm doing."
+    "@@@Here I am: forcing myself to go deeper into the frigid nothingness like I know what the hell I'm doing."
 
-# game/Flynn-Thursday.rpy:12239
+# game/Flynn-Thursday.rpy:12247
 translate Schinese flynnsunday_0d06506b:
 
     # "The pressure builds up again around my skull. I don't have time to acclimate or any of that other diver shit."
-    "The pressure builds up again around my skull. I don't have time to acclimate or any of that other diver shit."
+    "@@@The pressure builds up again around my skull. I don't have time to acclimate or any of that other diver shit."
 
-# game/Flynn-Thursday.rpy:12240
+# game/Flynn-Thursday.rpy:12248
 translate Schinese flynnsunday_ad9505dd:
 
     # "I'm tall, this should be easy. I just need to grab onto the van."
-    "I'm tall, this should be easy. I just need to grab onto the van."
+    "@@@I'm tall, this should be easy. I just need to grab onto the van."
 
-# game/Flynn-Thursday.rpy:12241
+# game/Flynn-Thursday.rpy:12249
 translate Schinese flynnsunday_74fac249:
 
     # "It wasn't that far down, was it?"
-    "It wasn't that far down, was it?"
+    "@@@It wasn't that far down, was it?"
 
-# game/Flynn-Thursday.rpy:12243
+# game/Flynn-Thursday.rpy:12251
 translate Schinese flynnsunday_87b0d5ce:
 
     # "Except I don't see the van."
-    "Except I don't see the van."
+    "@@@Except I don't see the van."
 
-# game/Flynn-Thursday.rpy:12246
+# game/Flynn-Thursday.rpy:12254
 translate Schinese flynnsunday_6a7fc167:
 
     # "What I do see are the blue of Daxton's eyes, staring at me through the murk."
-    "What I do see are the blue of Daxton's eyes, staring at me through the murk."
+    "@@@What I do see are the blue of Daxton's eyes, staring at me through the murk."
 
-# game/Flynn-Thursday.rpy:12247
+# game/Flynn-Thursday.rpy:12255
 translate Schinese flynnsunday_36c8acb6:
 
     # "I can't even see the rest of him."
-    "I can't even see the rest of him."
+    "@@@I can't even see the rest of him."
 
-# game/Flynn-Thursday.rpy:12248
+# game/Flynn-Thursday.rpy:12256
 translate Schinese flynnsunday_9cc81227:
 
     # "I wave, hoping the fluorescent orange markings on my body are enough to get his attention."
-    "I wave, hoping the fluorescent orange markings on my body are enough to get his attention."
+    "@@@I wave, hoping the fluorescent orange markings on my body are enough to get his attention."
 
-# game/Flynn-Thursday.rpy:12249
+# game/Flynn-Thursday.rpy:12257
 translate Schinese flynnsunday_170d800a:
 
     # "My lungs are starting to burn, and I have an increasing urge to just open my mouth and breathe in the water."
-    "My lungs are starting to burn, and I have an increasing urge to just open my mouth and breathe in the water."
+    "@@@My lungs are starting to burn, and I have an increasing urge to just open my mouth and breathe in the water."
 
-# game/Flynn-Thursday.rpy:12250
+# game/Flynn-Thursday.rpy:12258
 translate Schinese flynnsunday_b9fa4efc:
 
     # "No response. Just the eyes."
-    "No response. Just the eyes."
+    "@@@No response. Just the eyes."
 
-# game/Flynn-Thursday.rpy:12251
+# game/Flynn-Thursday.rpy:12259
 translate Schinese flynnsunday_a5d475d8:
 
     # "I swim closer and the eyes seem to get bigger."
-    "I swim closer and the eyes seem to get bigger."
+    "@@@I swim closer and the eyes seem to get bigger."
 
-# game/Flynn-Thursday.rpy:12252
+# game/Flynn-Thursday.rpy:12260
 translate Schinese flynnsunday_b002a2ce:
 
     # "Finally, I see the outline of Daxton - he's just floating there, not doing anything."
-    "Finally, I see the outline of Daxton - he's just floating there, not doing anything."
+    "@@@Finally, I see the outline of Daxton - he's just floating there, not doing anything."
 
-# game/Flynn-Thursday.rpy:12253
+# game/Flynn-Thursday.rpy:12261
 translate Schinese flynnsunday_9646f0bc:
 
     # "I reach out to him, and a flurry of bubbles escapes his maw."
-    "I reach out to him, and a flurry of bubbles escapes his maw."
+    "@@@I reach out to him, and a flurry of bubbles escapes his maw."
 
-# game/Flynn-Thursday.rpy:12254
+# game/Flynn-Thursday.rpy:12262
 translate Schinese flynnsunday_c6bfbeca:
 
     # "He's screaming, veins bulging along the side of his neck. The salamander swats at me, his slick skin sliding out of my grasp every time I try to grab him."
-    "He's screaming, veins bulging along the side of his neck. The salamander swats at me, his slick skin sliding out of my grasp every time I try to grab him."
+    "@@@He's screaming, veins bulging along the side of his neck. The salamander swats at me, his slick skin sliding out of my grasp every time I try to grab him."
 
-# game/Flynn-Thursday.rpy:12255
+# game/Flynn-Thursday.rpy:12263
 translate Schinese flynnsunday_8ac74875:
 
     # "I can't bare it in anymore, I have to come up for air."
-    "I can't bare it in anymore, I have to come up for air."
+    "@@@I can't bare it in anymore, I have to come up for air."
 
-# game/Flynn-Thursday.rpy:12256
+# game/Flynn-Thursday.rpy:12264
 translate Schinese flynnsunday_b1b88359:
 
     # "I manage to snag one of my claws on his stupid planet shirt and I tug hard."
-    "I manage to snag one of my claws on his stupid planet shirt and I tug hard."
+    "@@@I manage to snag one of my claws on his stupid planet shirt and I tug hard."
 
-# game/Flynn-Thursday.rpy:12257
+# game/Flynn-Thursday.rpy:12265
 translate Schinese flynnsunday_de13fb29:
 
     # "He thrashes, kicking and screaming into the void."
-    "He thrashes, kicking and screaming into the void."
+    "@@@He thrashes, kicking and screaming into the void."
 
-# game/Flynn-Thursday.rpy:12258
+# game/Flynn-Thursday.rpy:12266
 translate Schinese flynnsunday_f6ab904a:
 
     # "It feels like I'm pulling him into it. Is that what he sees?"
-    "It feels like I'm pulling him into it. Is that what he sees?"
+    "@@@It feels like I'm pulling him into it. Is that what he sees?"
 
-# game/Flynn-Thursday.rpy:12259
+# game/Flynn-Thursday.rpy:12267
 translate Schinese flynnsunday_70abcc9f:
 
     # "Can he see anything at all?"
-    "Can he see anything at all?"
+    "@@@Can he see anything at all?"
 
-# game/Flynn-Thursday.rpy:12260
+# game/Flynn-Thursday.rpy:12268
 translate Schinese flynnsunday_badf0a78:
 
     # "I'm starting to feel faint, the pounding of my heart in my chest deafening the already muffled cries of Daxton."
-    "I'm starting to feel faint, the pounding of my heart in my chest deafening the already muffled cries of Daxton."
+    "@@@I'm starting to feel faint, the pounding of my heart in my chest deafening the already muffled cries of Daxton."
 
-# game/Flynn-Thursday.rpy:12261
+# game/Flynn-Thursday.rpy:12269
 translate Schinese flynnsunday_8cf0ba09:
 
     # "{cps=22}{font=ui/belligerent.ttf}This is all so familiar."
-    "{cps=22}{font=ui/belligerent.ttf}This is all so familiar."
+    "@@@{cps=22}{font=ui/belligerent.ttf}This is all so familiar."
 
-# game/Flynn-Thursday.rpy:12262
+# game/Flynn-Thursday.rpy:12270
 translate Schinese flynnsunday_db7f94ae:
 
     # "Clenching my eyes shut, I scoop at the water like I'm climbing a mountain, legs kicking like crazy."
-    "Clenching my eyes shut, I scoop at the water like I'm climbing a mountain, legs kicking like crazy."
+    "@@@Clenching my eyes shut, I scoop at the water like I'm climbing a mountain, legs kicking like crazy."
 
-# game/Flynn-Thursday.rpy:12263
+# game/Flynn-Thursday.rpy:12271
 translate Schinese flynnsunday_46e92e11:
 
     # "Don't pass out, don't you fucking pass out..."
-    "Don't pass out, don't you fucking pass out..."
+    "@@@Don't pass out, don't you fucking pass out..."
 
-# game/Flynn-Thursday.rpy:12270
+# game/Flynn-Thursday.rpy:12278
 translate Schinese flynnsunday_8cf88f01:
 
     # "What seems like a geyser of water splashes up in front of us."
-    "What seems like a geyser of water splashes up in front of us."
+    "@@@What seems like a geyser of water splashes up in front of us."
 
-# game/Flynn-Thursday.rpy:12271
+# game/Flynn-Thursday.rpy:12279
 translate Schinese flynnsunday_bece1fc7:
 
     # "I gasp, straining for air."
-    "I gasp, straining for air."
+    "@@@I gasp, straining for air."
 
-# game/Flynn-Thursday.rpy:12272
+# game/Flynn-Thursday.rpy:12280
 translate Schinese flynnsunday_893786db:
 
     # "I find myself in an inadvertent embrace with Daxton, our bodies shivering together."
-    "I find myself in an inadvertent embrace with Daxton, our bodies shivering together."
+    "@@@I find myself in an inadvertent embrace with Daxton, our bodies shivering together."
 
-# game/Flynn-Thursday.rpy:12273
+# game/Flynn-Thursday.rpy:12281
 translate Schinese flynnsunday_c4172ed2:
 
     # f "\"Where the.. where in the shit did that voice come from?!\""
-    f "\"Where the.. where in the shit did that voice come from?!\""
+    f "@@@\"Where the.. where in the shit did that voice come from?!\""
 
-# game/Flynn-Thursday.rpy:12274
+# game/Flynn-Thursday.rpy:12282
 translate Schinese flynnsunday_474a07c1:
 
     # "As quickly as we embrace, Daxton shoves himself off me, jolting free. His gaze is still wild with terror."
-    "As quickly as we embrace, Daxton shoves himself off me, jolting free. His gaze is still wild with terror."
+    "@@@As quickly as we embrace, Daxton shoves himself off me, jolting free. His gaze is still wild with terror."
 
-# game/Flynn-Thursday.rpy:12275
+# game/Flynn-Thursday.rpy:12283
 translate Schinese flynnsunday_5ded30bf:
 
     # "He writhes within the water, as if it's some terrible force that's nipping away at him beneath the surface."
-    "He writhes within the water, as if it's some terrible force that's nipping away at him beneath the surface."
+    "@@@He writhes within the water, as if it's some terrible force that's nipping away at him beneath the surface."
 
-# game/Flynn-Thursday.rpy:12276
+# game/Flynn-Thursday.rpy:12284
 translate Schinese flynnsunday_d4cd7a91:
 
     # "The salamander takes off, swimming as fast as he can toward the shoreline."
-    "The salamander takes off, swimming as fast as he can toward the shoreline."
+    "@@@The salamander takes off, swimming as fast as he can toward the shoreline."
 
-# game/Flynn-Thursday.rpy:12277
+# game/Flynn-Thursday.rpy:12285
 translate Schinese flynnsunday_6ce6b7f7:
 
     # j "\"I think he's got the right idea! C'mon.\""
-    j "\"I think he's got the right idea! C'mon.\""
+    j "@@@\"I think he's got the right idea! C'mon.\""
 
-# game/Flynn-Thursday.rpy:12278
+# game/Flynn-Thursday.rpy:12286
 translate Schinese flynnsunday_523250b7:
 
     # "We all follow suit, though I'm having some trouble keeping up."
-    "We all follow suit, though I'm having some trouble keeping up."
+    "@@@We all follow suit, though I'm having some trouble keeping up."
 
-# game/Flynn-Thursday.rpy:12279
+# game/Flynn-Thursday.rpy:12287
 translate Schinese flynnsunday_a31e5f07:
 
     # "My arms are like jello."
-    "My arms are like jello."
+    "@@@My arms are like jello."
 
-# game/Flynn-Thursday.rpy:12280
+# game/Flynn-Thursday.rpy:12288
 translate Schinese flynnsunday_eb7b7fee:
 
     # "Unsurprisingly, Daxton's the first to the shore, then Jenna, TJ, Carl, Leo, Chase, and finally me."
-    "Unsurprisingly, Daxton's the first to the shore, then Jenna, TJ, Carl, Leo, Chase, and finally me."
+    "@@@Unsurprisingly, Daxton's the first to the shore, then Jenna, TJ, Carl, Leo, Chase, and finally me."
 
-# game/Flynn-Thursday.rpy:12281
+# game/Flynn-Thursday.rpy:12289
 translate Schinese flynnsunday_dec55948:
 
     # "All my adrenaline is completed tapped out at this point, and I fall to my knees in the sand."
-    "All my adrenaline is completed tapped out at this point, and I fall to my knees in the sand."
+    "@@@All my adrenaline is completed tapped out at this point, and I fall to my knees in the sand."
 
-# game/Flynn-Thursday.rpy:12283
+# game/Flynn-Thursday.rpy:12291
 translate Schinese flynnsunday_93806b37:
 
     # "Daxton's clearly trying to put some distance between him and the lake, though not going too far as to be out of sightline with the rest of us."
-    "Daxton's clearly trying to put some distance between him and the lake, though not going too far as to be out of sightline with the rest of us."
+    "@@@Daxton's clearly trying to put some distance between him and the lake, though not going too far as to be out of sightline with the rest of us."
 
-# game/Flynn-Thursday.rpy:12284
+# game/Flynn-Thursday.rpy:12292
 translate Schinese flynnsunday_a3657538:
 
     # "He paces back and forth, jittery."
-    "He paces back and forth, jittery."
+    "@@@He paces back and forth, jittery."
 
-# game/Flynn-Thursday.rpy:12285
+# game/Flynn-Thursday.rpy:12293
 translate Schinese flynnsunday_4530587b:
 
     # j "\"I can't believe you actually rescued him...\""
-    j "\"I can't believe you actually rescued him...\""
+    j "@@@\"I can't believe you actually rescued him...\""
 
-# game/Flynn-Thursday.rpy:12286
+# game/Flynn-Thursday.rpy:12294
 translate Schinese flynnsunday_6749ff4d:
 
     # "I grunt, trying to rub what feels like lake gunk out of my eyes."
-    "I grunt, trying to rub what feels like lake gunk out of my eyes."
+    "@@@I grunt, trying to rub what feels like lake gunk out of my eyes."
 
-# game/Flynn-Thursday.rpy:12287
+# game/Flynn-Thursday.rpy:12295
 translate Schinese flynnsunday_ba0c4af0:
 
     # f "\"Dax.\""
-    f "\"Dax.\""
+    f "@@@\"Dax.\""
 
-# game/Flynn-Thursday.rpy:12289
+# game/Flynn-Thursday.rpy:12297
 translate Schinese flynnsunday_2303b29b:
 
     # "Daxton stops."
-    "Daxton stops."
+    "@@@Daxton stops."
 
-# game/Flynn-Thursday.rpy:12290
+# game/Flynn-Thursday.rpy:12298
 translate Schinese flynnsunday_5fe2e56c:
 
     # f "\"The hell were ya doin' doing there?\""
-    f "\"The hell were ya doin' doing there?\""
+    f "@@@\"The hell were ya doin' doing there?\""
 
-# game/Flynn-Thursday.rpy:12291
+# game/Flynn-Thursday.rpy:12299
 translate Schinese flynnsunday_bc0537c4:
 
     # da "\"Tryin' to save you.\""
-    da "\"Tryin' to save you.\""
+    da "@@@\"Tryin' to save you.\""
 
-# game/Flynn-Thursday.rpy:12292
+# game/Flynn-Thursday.rpy:12300
 translate Schinese flynnsunday_7d99d395:
 
     # "His tone is intense, the salamander clearly trying to reconcile whatever the hell happened back there."
-    "His tone is intense, the salamander clearly trying to reconcile whatever the hell happened back there."
+    "@@@His tone is intense, the salamander clearly trying to reconcile whatever the hell happened back there."
 
-# game/Flynn-Thursday.rpy:12293
+# game/Flynn-Thursday.rpy:12301
 translate Schinese flynnsunday_952331d7:
 
     # f "\"The hell you were. That's what I was doin'.\""
-    f "\"The hell you were. That's what I was doin'.\""
+    f "@@@\"The hell you were. That's what I was doin'.\""
 
-# game/Flynn-Thursday.rpy:12294
+# game/Flynn-Thursday.rpy:12302
 translate Schinese flynnsunday_90110624:
 
     # da "\"I thought I saw you.. drift off further down into the lake. You weren't moving."
-    da "\"I thought I saw you.. drift off further down into the lake. You weren't moving."
+    da "@@@\"I thought I saw you.. drift off further down into the lake. You weren't moving."
 
-# game/Flynn-Thursday.rpy:12295
+# game/Flynn-Thursday.rpy:12303
 translate Schinese flynnsunday_49ac7b24:
 
     # da "\"Anytime I tried to grab ya, you just drifted further off, always with your back facing me.\""
-    da "\"Anytime I tried to grab ya, you just drifted further off, always with your back facing me.\""
+    da "@@@\"Anytime I tried to grab ya, you just drifted further off, always with your back facing me.\""
 
-# game/Flynn-Thursday.rpy:12296
+# game/Flynn-Thursday.rpy:12304
 translate Schinese flynnsunday_fa927ae3:
 
     # da "\"Eventually I couldn't see ya anymore, it was too dark.\""
-    da "\"Eventually I couldn't see ya anymore, it was too dark.\""
+    da "@@@\"Eventually I couldn't see ya anymore, it was too dark.\""
 
-# game/Flynn-Thursday.rpy:12297
+# game/Flynn-Thursday.rpy:12305
 translate Schinese flynnsunday_b2047e30:
 
     # "He rubs his hands over his biceps rapidly, trying to warm himself."
-    "He rubs his hands over his biceps rapidly, trying to warm himself."
+    "@@@He rubs his hands over his biceps rapidly, trying to warm himself."
 
-# game/Flynn-Thursday.rpy:12298
+# game/Flynn-Thursday.rpy:12306
 translate Schinese flynnsunday_7ea9ad3f:
 
     # f "\"Did you hear the voice, too?\""
-    f "\"Did you hear the voice, too?\""
+    f "@@@\"Did you hear the voice, too?\""
 
-# game/Flynn-Thursday.rpy:12299
+# game/Flynn-Thursday.rpy:12307
 translate Schinese flynnsunday_23347dcf:
 
     # da "\"No? There wasn't any noise but the water.. rushing around my head.\""
-    da "\"No? There wasn't any noise but the water.. rushing around my head.\""
+    da "@@@\"No? There wasn't any noise but the water.. rushing around my head.\""
 
-# game/Flynn-Thursday.rpy:12301
+# game/Flynn-Thursday.rpy:12309
 translate Schinese flynnsunday_8888b73e:
 
     # "He exhales, looking briefly at Carl, then back to me."
-    "He exhales, looking briefly at Carl, then back to me."
+    "@@@He exhales, looking briefly at Carl, then back to me."
 
-# game/Flynn-Thursday.rpy:12302
+# game/Flynn-Thursday.rpy:12310
 translate Schinese flynnsunday_42125f14:
 
     # da "\"I'm sorry I panicked. When you touched me down there, I didn't realize it was you.\""
-    da "\"I'm sorry I panicked. When you touched me down there, I didn't realize it was you.\""
+    da "@@@\"I'm sorry I panicked. When you touched me down there, I didn't realize it was you.\""
 
-# game/Flynn-Thursday.rpy:12303
+# game/Flynn-Thursday.rpy:12311
 translate Schinese flynnsunday_39387ace:
 
     # da "\"You were all.. red.\""
-    da "\"You were all.. red.\""
+    da "@@@\"You were all.. red.\""
 
-# game/Flynn-Thursday.rpy:12304
+# game/Flynn-Thursday.rpy:12312
 translate Schinese flynnsunday_511fdbab:
 
     # f "\"Red?\""
-    f "\"Red?\""
+    f "@@@\"Red?\""
 
-# game/Flynn-Thursday.rpy:12305
+# game/Flynn-Thursday.rpy:12313
 translate Schinese flynnsunday_44b52097:
 
     # da "\"At first, and then.. well, I flipped my shit I guess until we hit the surface and you were there and I got overwhelmed and-\""
-    da "\"At first, and then.. well, I flipped my shit I guess until we hit the surface and you were there and I got overwhelmed and-\""
+    da "@@@\"At first, and then.. well, I flipped my shit I guess until we hit the surface and you were there and I got overwhelmed and-\""
 
-# game/Flynn-Thursday.rpy:12306
+# game/Flynn-Thursday.rpy:12314
 translate Schinese flynnsunday_32f5ab35:
 
     # f "\"You hugged me.\""
-    f "\"You hugged me.\""
+    f "@@@\"You hugged me.\""
 
-# game/Flynn-Thursday.rpy:12307
+# game/Flynn-Thursday.rpy:12315
 translate Schinese flynnsunday_23647486:
 
     # "He cocks his head slightly."
-    "He cocks his head slightly."
+    "@@@He cocks his head slightly."
 
-# game/Flynn-Thursday.rpy:12308
+# game/Flynn-Thursday.rpy:12316
 translate Schinese flynnsunday_4811a527:
 
     # da "\"..Pretty sure you were the one who was hugging me.\""
-    da "\"..Pretty sure you were the one who was hugging me.\""
+    da "@@@\"..Pretty sure you were the one who was hugging me.\""
 
-# game/Flynn-Thursday.rpy:12309
+# game/Flynn-Thursday.rpy:12317
 translate Schinese flynnsunday_b1028321:
 
     # f "\"Don't think so.\""
-    f "\"Don't think so.\""
+    f "@@@\"Don't think so.\""
 
-# game/Flynn-Thursday.rpy:12310
+# game/Flynn-Thursday.rpy:12318
 translate Schinese flynnsunday_2542daee:
 
     # "I did."
-    "I did."
+    "@@@I did."
 
-# game/Flynn-Thursday.rpy:12311
+# game/Flynn-Thursday.rpy:12319
 translate Schinese flynnsunday_c1a2cb70:
 
     # f "\"You swear you didn't hear a voice?\""
-    f "\"You swear you didn't hear a voice?\""
+    f "@@@\"You swear you didn't hear a voice?\""
 
-# game/Flynn-Thursday.rpy:12312
+# game/Flynn-Thursday.rpy:12320
 translate Schinese flynnsunday_9b50357d:
 
     # "He holds up the flat of his palms, shaking his head."
-    "He holds up the flat of his palms, shaking his head."
+    "@@@He holds up the flat of his palms, shaking his head."
 
-# game/Flynn-Thursday.rpy:12313
+# game/Flynn-Thursday.rpy:12321
 translate Schinese flynnsunday_d5512976:
 
     # da "\"I swear it, man. Out of all the surreal whatnots that've been transpirin', voices ain't one of them.\""
-    da "\"I swear it, man. Out of all the surreal whatnots that've been transpirin', voices ain't one of them.\""
+    da "@@@\"I swear it, man. Out of all the surreal whatnots that've been transpirin', voices ain't one of them.\""
 
-# game/Flynn-Thursday.rpy:12314
+# game/Flynn-Thursday.rpy:12322
 translate Schinese flynnsunday_194d7404:
 
     # "I frown. Daxton looks back toward the water, then backsteps a few more paces."
-    "I frown. Daxton looks back toward the water, then backsteps a few more paces."
+    "@@@I frown. Daxton looks back toward the water, then backsteps a few more paces."
 
-# game/Flynn-Thursday.rpy:12316
+# game/Flynn-Thursday.rpy:12324
 translate Schinese flynnsunday_44b1bea1:
 
     # "I'm not just imagining this, am I?"
-    "I'm not just imagining this, am I?"
+    "@@@I'm not just imagining this, am I?"
 
-# game/Flynn-Thursday.rpy:12317
+# game/Flynn-Thursday.rpy:12325
 translate Schinese flynnsunday_bcb33b3d:
 
     # "Fucking hell."
-    "Fucking hell."
+    "@@@Fucking hell."
 
-# game/Flynn-Thursday.rpy:12322
+# game/Flynn-Thursday.rpy:12330
 translate Schinese flynnsunday_40846fdc:
 
     # "Chase seems to be trying to uncoil himself from Leo, his breath wheezy and he soon breaks out into a raspy cough."
-    "Chase seems to be trying to uncoil himself from Leo, his breath wheezy and he soon breaks out into a raspy cough."
+    "@@@Chase seems to be trying to uncoil himself from Leo, his breath wheezy and he soon breaks out into a raspy cough."
 
-# game/Flynn-Thursday.rpy:12324
+# game/Flynn-Thursday.rpy:12332
 translate Schinese flynnsunday_0a1416f4:
 
     # "Leo quickly rewraps an arm around him, patting his back gently with one of his massive paws."
-    "Leo quickly rewraps an arm around him, patting his back gently with one of his massive paws."
+    "@@@Leo quickly rewraps an arm around him, patting his back gently with one of his massive paws."
 
-# game/Flynn-Thursday.rpy:12325
+# game/Flynn-Thursday.rpy:12333
 translate Schinese flynnsunday_fdd79391:
 
     # l "\"Easy, easy.. we're safe now.\""
-    l "\"Easy, easy.. we're safe now.\""
+    l "@@@\"Easy, easy.. we're safe now.\""
 
-# game/Flynn-Thursday.rpy:12326
+# game/Flynn-Thursday.rpy:12334
 translate Schinese flynnsunday_2bb51d8d:
 
     # f "\"The fuck we are.\""
-    f "\"The fuck we are.\""
+    f "@@@\"The fuck we are.\""
 
-# game/Flynn-Thursday.rpy:12327
+# game/Flynn-Thursday.rpy:12335
 translate Schinese flynnsunday_57c4e860:
 
     # "I peer around. Even with my eyes having adjusted to the dark, I'm still having a hell of a time seeing beyond 20 yards or so."
-    "I peer around. Even with my eyes having adjusted to the dark, I'm still having a hell of a time seeing beyond 20 yards or so."
+    "@@@I peer around. Even with my eyes having adjusted to the dark, I'm still having a hell of a time seeing beyond 20 yards or so."
 
-# game/Flynn-Thursday.rpy:12329
+# game/Flynn-Thursday.rpy:12337
 translate Schinese flynnsunday_7d0f8530:
 
     # "Jenna gives me a quick nod, holding up Duke's pistol to show me she still has it."
-    "Jenna gives me a quick nod, holding up Duke's pistol to show me she still has it."
+    "@@@Jenna gives me a quick nod, holding up Duke's pistol to show me she still has it."
 
-# game/Flynn-Thursday.rpy:12330
+# game/Flynn-Thursday.rpy:12338
 translate Schinese flynnsunday_fd383015:
 
     # "The soaked fennec would look comical were it not for the direness of the situation. She must put so much conditioner into her fur to keep it that fluffy."
-    "The soaked fennec would look comical were it not for the direness of the situation. She must put so much conditioner into her fur to keep it that fluffy."
+    "@@@The soaked fennec would look comical were it not for the direness of the situation. She must put so much conditioner into her fur to keep it that fluffy."
 
-# game/Flynn-Thursday.rpy:12331
+# game/Flynn-Thursday.rpy:12339
 translate Schinese flynnsunday_75955a17:
 
     # c "\"Woah, that's two saves now, dude.\""
-    c "\"Woah, that's two saves now, dude.\""
+    c "@@@\"Woah, that's two saves now, dude.\""
 
-# game/Flynn-Thursday.rpy:12332
+# game/Flynn-Thursday.rpy:12340
 translate Schinese flynnsunday_c2750605:
 
     # "Carl proceeds to fall flat on his back, spread-eagle in the sand - his hefty gut rising and falling."
-    "Carl proceeds to fall flat on his back, spread-eagle in the sand - his hefty gut rising and falling."
+    "@@@Carl proceeds to fall flat on his back, spread-eagle in the sand - his hefty gut rising and falling."
 
-# game/Flynn-Thursday.rpy:12333
+# game/Flynn-Thursday.rpy:12341
 translate Schinese flynnsunday_ba06aacb:
 
     # c "\"You're pretty good at this crazy-land stuff.\""
-    c "\"You're pretty good at this crazy-land stuff.\""
+    c "@@@\"You're pretty good at this crazy-land stuff.\""
 
-# game/Flynn-Thursday.rpy:12334
+# game/Flynn-Thursday.rpy:12342
 translate Schinese flynnsunday_79ad40f4:
 
     # "He sounds so casual about it, like this is one of his video games and I'm somehow not getting my ass kicked at it."
-    "He sounds so casual about it, like this is one of his video games and I'm somehow not getting my ass kicked at it."
+    "@@@He sounds so casual about it, like this is one of his video games and I'm somehow not getting my ass kicked at it."
 
-# game/Flynn-Thursday.rpy:12335
+# game/Flynn-Thursday.rpy:12343
 translate Schinese flynnsunday_d717091b:
 
     # l "\"C'mon everyone, let's get a move on.\""
-    l "\"C'mon everyone, let's get a move on.\""
+    l "@@@\"C'mon everyone, let's get a move on.\""
 
-# game/Flynn-Thursday.rpy:12336
+# game/Flynn-Thursday.rpy:12344
 translate Schinese flynnsunday_9304b8fe:
 
     # t "\"He.. didn't—didn't deserve...\""
-    t "\"He.. didn't—didn't deserve...\""
+    t "@@@\"He.. didn't—didn't deserve...\""
 
-# game/Flynn-Thursday.rpy:12337
+# game/Flynn-Thursday.rpy:12345
 translate Schinese flynnsunday_93281de6:
 
     # "TJ mumbles something, the lynx sitting with his arms around his knees, staring out into the lake."
-    "TJ mumbles something, the lynx sitting with his arms around his knees, staring out into the lake."
+    "@@@TJ mumbles something, the lynx sitting with his arms around his knees, staring out into the lake."
 
-# game/Flynn-Thursday.rpy:12338
+# game/Flynn-Thursday.rpy:12346
 translate Schinese flynnsunday_8e8c3a2d:
 
     # "He makes an effort to scramble back a few feet as the tide comes in."
-    "He makes an effort to scramble back a few feet as the tide comes in."
+    "@@@He makes an effort to scramble back a few feet as the tide comes in."
 
-# game/Flynn-Thursday.rpy:12340
+# game/Flynn-Thursday.rpy:12348
 translate Schinese flynnsunday_12d9b67e:
 
     # "Jenna moves over beside him, hugging the lynx from the side."
-    "Jenna moves over beside him, hugging the lynx from the side."
+    "@@@Jenna moves over beside him, hugging the lynx from the side."
 
-# game/Flynn-Thursday.rpy:12341
+# game/Flynn-Thursday.rpy:12349
 translate Schinese flynnsunday_0fcd8903:
 
     # j "\"Shh, we just need to get to Leo's.\""
-    j "\"Shh, we just need to get to Leo's.\""
+    j "@@@\"Shh, we just need to get to Leo's.\""
 
-# game/Flynn-Thursday.rpy:12342
+# game/Flynn-Thursday.rpy:12350
 translate Schinese flynnsunday_e9e833df:
 
     # "Leo lives on the outskirts of town by the old railway tracks. It's fairly isolated from the rest of the town."
-    "Leo lives on the outskirts of town by the old railway tracks. It's fairly isolated from the rest of the town."
+    "@@@Leo lives on the outskirts of town by the old railway tracks. It's fairly isolated from the rest of the town."
 
-# game/Flynn-Thursday.rpy:12343
+# game/Flynn-Thursday.rpy:12351
 translate Schinese flynnsunday_320e6152:
 
     # "Going there is not the worst idea, but if that fucking thing could catch us in a van going fifty..."
-    "Going there is not the worst idea, but if that fucking thing could catch us in a van going fifty..."
+    "@@@Going there is not the worst idea, but if that fucking thing could catch us in a van going fifty..."
 
-# game/Flynn-Thursday.rpy:12344
+# game/Flynn-Thursday.rpy:12352
 translate Schinese flynnsunday_8225b0ed:
 
     # "Fuck, I saw how it moved, too: like a strobe light was being turned off and on, and it got closer with every pulse."
-    "Fuck, I saw how it moved, too: like a strobe light was being turned off and on, and it got closer with every pulse."
+    "@@@Fuck, I saw how it moved, too: like a strobe light was being turned off and on, and it got closer with every pulse."
 
-# game/Flynn-Thursday.rpy:12345
+# game/Flynn-Thursday.rpy:12353
 translate Schinese flynnsunday_8002e0da:
 
     # l "\"That {i}is{/i} still the plan.\""
-    l "\"That {i}is{/i} still the plan.\""
+    l "@@@\"That {i}is{/i} still the plan.\""
 
-# game/Flynn-Thursday.rpy:12346
+# game/Flynn-Thursday.rpy:12354
 translate Schinese flynnsunday_3a313170:
 
     # "Leo affirms this with a nod, the wolf standing upright and ready. He's trying not to show his exhaustion and fear."
-    "Leo affirms this with a nod, the wolf standing upright and ready. He's trying not to show his exhaustion and fear."
+    "@@@Leo affirms this with a nod, the wolf standing upright and ready. He's trying not to show his exhaustion and fear."
 
-# game/Flynn-Thursday.rpy:12347
+# game/Flynn-Thursday.rpy:12355
 translate Schinese flynnsunday_45fffd86:
 
     # "TJ's just looking at Chase now, and he's got a shimmer in his eyes. He's crying again."
-    "TJ's just looking at Chase now, and he's got a shimmer in his eyes. He's crying again."
+    "@@@TJ's just looking at Chase now, and he's got a shimmer in his eyes. He's crying again."
 
-# game/Flynn-Thursday.rpy:12348
+# game/Flynn-Thursday.rpy:12356
 translate Schinese flynnsunday_2420d64c:
 
     # t "\"Chase, did Sydney, how long did he—did he—\""
-    t "\"Chase, did Sydney, how long did he—did he—\""
+    t "@@@\"Chase, did Sydney, how long did he—did he—\""
 
-# game/Flynn-Thursday.rpy:12349
+# game/Flynn-Thursday.rpy:12357
 translate Schinese flynnsunday_1b237eb1:
 
     # "He's cut off before he can finish."
-    "He's cut off before he can finish."
+    "@@@He's cut off before he can finish."
 
-# game/Flynn-Thursday.rpy:12350
+# game/Flynn-Thursday.rpy:12358
 translate Schinese flynnsunday_e1e1dfb1:
 
     # j "\"C'mon, TJ, we have to go.\""
-    j "\"C'mon, TJ, we have to go.\""
+    j "@@@\"C'mon, TJ, we have to go.\""
 
-# game/Flynn-Thursday.rpy:12351
+# game/Flynn-Thursday.rpy:12359
 translate Schinese flynnsunday_dc43f0b8:
 
     # "Chase looks over at him. His expression is harder to read."
-    "Chase looks over at him. His expression is harder to read."
+    "@@@Chase looks over at him. His expression is harder to read."
 
-# game/Flynn-Thursday.rpy:12352
+# game/Flynn-Thursday.rpy:12360
 translate Schinese flynnsunday_2aa0ff41:
 
     # f "\"What?\""
-    f "\"What?\""
+    f "@@@\"What?\""
 
-# game/Flynn-Thursday.rpy:12353
+# game/Flynn-Thursday.rpy:12361
 translate Schinese flynnsunday_4f240b38:
 
     # "Everyone but Chase seems to be pretending they're not hearing the whimpering TJ, ushering him along."
-    "Everyone but Chase seems to be pretending they're not hearing the whimpering TJ, ushering him along."
+    "@@@Everyone but Chase seems to be pretending they're not hearing the whimpering TJ, ushering him along."
 
-# game/Flynn-Thursday.rpy:12354
+# game/Flynn-Thursday.rpy:12362
 translate Schinese flynnsunday_85130c8b:
 
     # "I rise up to my feet, nearly tripping over myself as I get used to solid ground again."
-    "I rise up to my feet, nearly tripping over myself as I get used to solid ground again."
+    "@@@I rise up to my feet, nearly tripping over myself as I get used to solid ground again."
 
-# game/Flynn-Thursday.rpy:12357
+# game/Flynn-Thursday.rpy:12365
 translate Schinese flynnsunday_28d8e54d:
 
     # "Jenna pulls TJ up with her, trying to move the lynx along."
-    "Jenna pulls TJ up with her, trying to move the lynx along."
+    "@@@Jenna pulls TJ up with her, trying to move the lynx along."
 
-# game/Flynn-Thursday.rpy:12362
+# game/Flynn-Thursday.rpy:12370
 translate Schinese flynnsunday_ea75f67a:
 
     # "For some reason, she's hobbling a bit - like her foot is injured."
-    "For some reason, she's hobbling a bit - like her foot is injured."
+    "@@@For some reason, she's hobbling a bit - like her foot is injured."
 
-# game/Flynn-Thursday.rpy:12363
+# game/Flynn-Thursday.rpy:12371
 translate Schinese flynnsunday_60784e1d:
 
     # "Leo also follows suit, helping Chase up the shallow incline through the loamy soil into a basin of dry grass."
-    "Leo also follows suit, helping Chase up the shallow incline through the loamy soil into a basin of dry grass."
+    "@@@Leo also follows suit, helping Chase up the shallow incline through the loamy soil into a basin of dry grass."
 
-# game/Flynn-Thursday.rpy:12364
+# game/Flynn-Thursday.rpy:12372
 translate Schinese flynnsunday_6dac9a71:
 
     # "TJ peers back over at his shoulder. He's still looking at Chase."
-    "TJ peers back over at his shoulder. He's still looking at Chase."
+    "@@@TJ peers back over at his shoulder. He's still looking at Chase."
 
-# game/Flynn-Thursday.rpy:12366
+# game/Flynn-Thursday.rpy:12374
 translate Schinese flynnsunday_371d5761:
 
     # "That's when I notice the large rock with the sole pinyon tree overhanging it."
-    "That's when I notice the large rock with the sole pinyon tree overhanging it."
+    "@@@That's when I notice the large rock with the sole pinyon tree overhanging it."
 
-# game/Flynn-Thursday.rpy:12367
+# game/Flynn-Thursday.rpy:12375
 translate Schinese flynnsunday_46b7ee85:
 
     # "There's little bullet holes in the side of the trunk, .22 caliber."
-    "There's little bullet holes in the side of the trunk, .22 caliber."
+    "@@@There's little bullet holes in the side of the trunk, .22 caliber."
 
-# game/Flynn-Thursday.rpy:12368
+# game/Flynn-Thursday.rpy:12376
 translate Schinese flynnsunday_df1cc06c:
 
     # "I made those."
-    "I made those."
+    "@@@I made those."
 
-# game/Flynn-Thursday.rpy:12369
+# game/Flynn-Thursday.rpy:12377
 translate Schinese flynnsunday_4586ab45:
 
     # "I look around and right where Carl's laying, I see it."
-    "I look around and right where Carl's laying, I see it."
+    "@@@I look around and right where Carl's laying, I see it."
 
-# game/Flynn-Thursday.rpy:12370
+# game/Flynn-Thursday.rpy:12378
 translate Schinese flynnsunday_e4c1bc0d:
 
     # "His blank stare, the blue eyes - he reminded me of a fish."
-    "His blank stare, the blue eyes - he reminded me of a fish."
+    "@@@His blank stare, the blue eyes - he reminded me of a fish."
 
-# game/Flynn-Thursday.rpy:12371
+# game/Flynn-Thursday.rpy:12379
 translate Schinese flynnsunday_56727923:
 
     # f "\"This is where it happened.\""
-    f "\"This is where it happened.\""
+    f "@@@\"This is where it happened.\""
 
-# game/Flynn-Thursday.rpy:12376
+# game/Flynn-Thursday.rpy:12384
 translate Schinese flynnsunday_babd9018_1:
 
     # m "\"I think I can-\""
-    m "\"I think I can-\""
+    m "@@@\"I think I can-\""
 
-# game/Flynn-Thursday.rpy:12377
+# game/Flynn-Thursday.rpy:12385
 translate Schinese flynnsunday_9599bb22:
 
     # l "\"No way, man. Keep Chase upright for me, Flynn?\""
-    l "\"No way, man. Keep Chase upright for me, Flynn?\""
+    l "@@@\"No way, man. Keep Chase upright for me, Flynn?\""
 
-# game/Flynn-Thursday.rpy:12378
+# game/Flynn-Thursday.rpy:12386
 translate Schinese flynnsunday_308c07b3:
 
     # "The wolf rolls his shoulders forward and dives underwater."
-    "The wolf rolls his shoulders forward and dives underwater."
+    "@@@The wolf rolls his shoulders forward and dives underwater."
 
-# game/Flynn-Thursday.rpy:12379
+# game/Flynn-Thursday.rpy:12387
 translate Schinese flynnsunday_2ed71922:
 
     # "I quickly paddle over with Carl now clinging to my back."
-    "I quickly paddle over with Carl now clinging to my back."
+    "@@@I quickly paddle over with Carl now clinging to my back."
 
-# game/Flynn-Thursday.rpy:12380
+# game/Flynn-Thursday.rpy:12388
 translate Schinese flynnsunday_c375c354:
 
     # "Chase takes hold of my outstretched hand, nervously peering into the depths below."
-    "Chase takes hold of my outstretched hand, nervously peering into the depths below."
+    "@@@Chase takes hold of my outstretched hand, nervously peering into the depths below."
 
-# game/Flynn-Thursday.rpy:12381
+# game/Flynn-Thursday.rpy:12389
 translate Schinese flynnsunday_9a34b2bd:
 
     # "He accepts the help, but he seems fairly alright with keeping himself afloat."
-    "He accepts the help, but he seems fairly alright with keeping himself afloat."
+    "@@@He accepts the help, but he seems fairly alright with keeping himself afloat."
 
-# game/Flynn-Thursday.rpy:12382
+# game/Flynn-Thursday.rpy:12390
 translate Schinese flynnsunday_23788866:
 
     # "We float there in silence. I try to see what's going on beneath the waves but the visibility is frankly ass soup."
-    "We float there in silence. I try to see what's going on beneath the waves but the visibility is frankly ass soup."
+    "@@@We float there in silence. I try to see what's going on beneath the waves but the visibility is frankly ass soup."
 
-# game/Flynn-Thursday.rpy:12383
+# game/Flynn-Thursday.rpy:12391
 translate Schinese flynnsunday_e6e9657b:
 
     # "Leo's never really been a stellar swimmer. Fuck, Chase wasn't even that good either, beyond not needing to come up for air for a long time."
-    "Leo's never really been a stellar swimmer. Fuck, Chase wasn't even that good either, beyond not needing to come up for air for a long time."
+    "@@@Leo's never really been a stellar swimmer. Fuck, Chase wasn't even that good either, beyond not needing to come up for air for a long time."
 
-# game/Flynn-Thursday.rpy:12384
+# game/Flynn-Thursday.rpy:12392
 translate Schinese flynnsunday_3f94884d:
 
     # "Better than me, at least. When the water gets cold, I start.. shutting down, I guess."
-    "Better than me, at least. When the water gets cold, I start.. shutting down, I guess."
+    "@@@Better than me, at least. When the water gets cold, I start.. shutting down, I guess."
 
-# game/Flynn-Thursday.rpy:12385
+# game/Flynn-Thursday.rpy:12393
 translate Schinese flynnsunday_0d6feafb:
 
     # "My muscles already are starting to feel rubbery and the urge for heat is strong."
-    "My muscles already are starting to feel rubbery and the urge for heat is strong."
+    "@@@My muscles already are starting to feel rubbery and the urge for heat is strong."
 
-# game/Flynn-Thursday.rpy:12386
+# game/Flynn-Thursday.rpy:12394
 translate Schinese flynnsunday_c94c7215:
 
     # "It's the worst in my feet, where the water's deepest and the moonlight can't reach."
-    "It's the worst in my feet, where the water's deepest and the moonlight can't reach."
+    "@@@It's the worst in my feet, where the water's deepest and the moonlight can't reach."
 
-# game/Flynn-Thursday.rpy:12387
+# game/Flynn-Thursday.rpy:12395
 translate Schinese flynnsunday_c6a0d11c:
 
     # "Fortunately, Carl and Chase are warm, the two clinging to me in silence."
-    "Fortunately, Carl and Chase are warm, the two clinging to me in silence."
+    "@@@Fortunately, Carl and Chase are warm, the two clinging to me in silence."
 
-# game/Flynn-Thursday.rpy:12388
+# game/Flynn-Thursday.rpy:12396
 translate Schinese flynnsunday_05586acc:
 
     # "I can feel the ram's whiskered chin on the back of my neck, and Chase's shuddered breathing on my shoulder."
-    "I can feel the ram's whiskered chin on the back of my neck, and Chase's shuddered breathing on my shoulder."
+    "@@@I can feel the ram's whiskered chin on the back of my neck, and Chase's shuddered breathing on my shoulder."
 
-# game/Flynn-Thursday.rpy:12389
+# game/Flynn-Thursday.rpy:12397
 translate Schinese flynnsunday_701c0ead:
 
     # "Were it any other time, it might actually be comforting."
-    "Were it any other time, it might actually be comforting."
+    "@@@Were it any other time, it might actually be comforting."
 
-# game/Flynn-Thursday.rpy:12390
+# game/Flynn-Thursday.rpy:12398
 translate Schinese flynnsunday_347b56ca:
 
     # "But right now, I just hate the waiting."
-    "But right now, I just hate the waiting."
+    "@@@But right now, I just hate the waiting."
 
-# game/Flynn-Thursday.rpy:12391
+# game/Flynn-Thursday.rpy:12399
 translate Schinese flynnsunday_d9ef3287:
 
     # "I hate not being able to do anything but tread water."
-    "I hate not being able to do anything but tread water."
+    "@@@I hate not being able to do anything but tread water."
 
-# game/Flynn-Thursday.rpy:12392
+# game/Flynn-Thursday.rpy:12400
 translate Schinese flynnsunday_da858372:
 
     # "I {i}definitely{/i} hate not knowing what's out there in the hills, or how the fuck we even got in the middle of the damn lake."
-    "I {i}definitely{/i} hate not knowing what's out there in the hills, or how the fuck we even got in the middle of the damn lake."
+    "@@@I {i}definitely{/i} hate not knowing what's out there in the hills, or how the fuck we even got in the middle of the damn lake."
 
-# game/Flynn-Thursday.rpy:12393
+# game/Flynn-Thursday.rpy:12401
 translate Schinese flynnsunday_406126d7:
 
     # "Auntie's always warned me that the world's more than what we perceive, that our ideas of how reality works are limited to what we have experienced prior."
-    "Auntie's always warned me that the world's more than what we perceive, that our ideas of how reality works are limited to what we have experienced prior."
+    "@@@Auntie's always warned me that the world's more than what we perceive, that our ideas of how reality works are limited to what we have experienced prior."
 
-# game/Flynn-Thursday.rpy:12394
+# game/Flynn-Thursday.rpy:12402
 translate Schinese flynnsunday_ce1490d0:
 
     # "I ain't ever been stuck in a fucking road time loop, attacked by a pissed off electrical-socket-man, or launched into the middle of a lake before.."
-    "I ain't ever been stuck in a fucking road time loop, attacked by a pissed off electrical-socket-man, or launched into the middle of a lake before.."
+    "@@@I ain't ever been stuck in a fucking road time loop, attacked by a pissed off electrical-socket-man, or launched into the middle of a lake before.."
 
-# game/Flynn-Thursday.rpy:12395
-translate Schinese flynnsunday_20bb8213:
+# game/Flynn-Thursday.rpy:12403
+translate Schinese flynnsunday_1b1d3434:
 
-    # "..so everything kinda just feels.. unreal.\""
-    "..so everything kinda just feels.. unreal.\""
+    # "..so everything kinda just feels.. unreal."
+    "@@@..so everything kinda just feels.. unreal."
 
-# game/Flynn-Thursday.rpy:12396
+# game/Flynn-Thursday.rpy:12404
 translate Schinese flynnsunday_391c8bf2:
 
     # "A full minute has passed now."
-    "A full minute has passed now."
+    "@@@A full minute has passed now."
 
-# game/Flynn-Thursday.rpy:12397
+# game/Flynn-Thursday.rpy:12405
 translate Schinese flynnsunday_9d469299:
 
     # "Fuck."
-    "Fuck."
+    "@@@Fuck."
 
-# game/Flynn-Thursday.rpy:12398
+# game/Flynn-Thursday.rpy:12406
 translate Schinese flynnsunday_d0502bf1:
 
     # m "\"He should have surfaced by now...\""
-    m "\"He should have surfaced by now...\""
+    m "@@@\"He should have surfaced by now...\""
 
-# game/Flynn-Thursday.rpy:12399
+# game/Flynn-Thursday.rpy:12407
 translate Schinese flynnsunday_c2e2db01:
 
     # c "\"This is Leo we're talking about. He wouldn't have come up for air if he saw that Dudeman was stuck down there.\""
-    c "\"This is Leo we're talking about. He wouldn't have come up for air if he saw that Dudeman was stuck down there.\""
+    c "@@@\"This is Leo we're talking about. He wouldn't have come up for air if he saw that Dudeman was stuck down there.\""
 
-# game/Flynn-Thursday.rpy:12400
+# game/Flynn-Thursday.rpy:12408
 translate Schinese flynnsunday_db5c924c:
 
     # f "\"God, this is so stupid.\""
-    f "\"God, this is so stupid.\""
+    f "@@@\"God, this is so stupid.\""
 
-# game/Flynn-Thursday.rpy:12401
+# game/Flynn-Thursday.rpy:12409
 translate Schinese flynnsunday_605cfc46:
 
     # f "\"Jenna, TJ, help keep these two afloat. I'm going down.\""
-    f "\"Jenna, TJ, help keep these two afloat. I'm going down.\""
+    f "@@@\"Jenna, TJ, help keep these two afloat. I'm going down.\""
 
-# game/Flynn-Thursday.rpy:12402
+# game/Flynn-Thursday.rpy:12410
 translate Schinese flynnsunday_69455d87:
 
     # "The fennec gives me a solemn looking nod."
-    "The fennec gives me a solemn looking nod."
+    "@@@The fennec gives me a solemn looking nod."
 
-# game/Flynn-Thursday.rpy:12403
+# game/Flynn-Thursday.rpy:12411
 translate Schinese flynnsunday_a41f8d60:
 
     # "She begins to swim over to me when what seems like a geyser of water splashes up in front of us, followed by strained gasps for air."
-    "She begins to swim over to me when what seems like a geyser of water splashes up in front of us, followed by strained gasps for air."
+    "@@@She begins to swim over to me when what seems like a geyser of water splashes up in front of us, followed by strained gasps for air."
 
-# game/Flynn-Thursday.rpy:12404
+# game/Flynn-Thursday.rpy:12412
 translate Schinese flynnsunday_90e4e965:
 
     # "Daxton's blue eyes are wide, his slick form quivering in the wolf's arms."
-    "Daxton's blue eyes are wide, his slick form quivering in the wolf's arms."
+    "@@@Daxton's blue eyes are wide, his slick form quivering in the wolf's arms."
 
-# game/Flynn-Thursday.rpy:12406
+# game/Flynn-Thursday.rpy:12414
 translate Schinese flynnsunday_744c6e49:
 
     # "With a quick shove, the salamander jolts free, and he begins to swim to shore with gasping panic."
-    "With a quick shove, the salamander jolts free, and he begins to swim to shore with gasping panic."
+    "@@@With a quick shove, the salamander jolts free, and he begins to swim to shore with gasping panic."
 
-# game/Flynn-Thursday.rpy:12407
+# game/Flynn-Thursday.rpy:12415
 translate Schinese flynnsunday_1ff01588:
 
     # "We all follow suit, though I end up quickly behind trying to support Carl and Chase."
-    "We all follow suit, though I end up quickly behind trying to support Carl and Chase."
+    "@@@We all follow suit, though I end up quickly behind trying to support Carl and Chase."
 
-# game/Flynn-Thursday.rpy:12408
+# game/Flynn-Thursday.rpy:12416
 translate Schinese flynnsunday_88fc9704:
 
     # "Daxton's the first to the shore, then Jenna, TJ, Leo, and finally us."
-    "Daxton's the first to the shore, then Jenna, TJ, Leo, and finally us."
+    "@@@Daxton's the first to the shore, then Jenna, TJ, Leo, and finally us."
 
-# game/Flynn-Thursday.rpy:12409
+# game/Flynn-Thursday.rpy:12417
 translate Schinese flynnsunday_dec55948_1:
 
     # "All my adrenaline is completed tapped out at this point, and I fall to my knees in the sand."
-    "All my adrenaline is completed tapped out at this point, and I fall to my knees in the sand."
+    "@@@All my adrenaline is completed tapped out at this point, and I fall to my knees in the sand."
 
-# game/Flynn-Thursday.rpy:12410
+# game/Flynn-Thursday.rpy:12418
 translate Schinese flynnsunday_a31e5f07_1:
 
     # "My arms are like jello."
-    "My arms are like jello."
+    "@@@My arms are like jello."
 
-# game/Flynn-Thursday.rpy:12411
+# game/Flynn-Thursday.rpy:12419
 translate Schinese flynnsunday_941d9934:
 
     # m "\"Thanks, Flynn...\""
-    m "\"Thanks, Flynn...\""
+    m "@@@\"Thanks, Flynn...\""
 
-# game/Flynn-Thursday.rpy:12413
+# game/Flynn-Thursday.rpy:12421
 translate Schinese flynnsunday_432141c0:
 
     # "Chase uncoils himself from me, his voice wheezy and breaks out into a raspy cough."
-    "Chase uncoils himself from me, his voice wheezy and breaks out into a raspy cough."
+    "@@@Chase uncoils himself from me, his voice wheezy and breaks out into a raspy cough."
 
-# game/Flynn-Thursday.rpy:12414
+# game/Flynn-Thursday.rpy:12422
 translate Schinese flynnsunday_1769a3d4:
 
     # "Leo quickly hurries over, taking Chase under his arm."
-    "Leo quickly hurries over, taking Chase under his arm."
+    "@@@Leo quickly hurries over, taking Chase under his arm."
 
-# game/Flynn-Thursday.rpy:12416
+# game/Flynn-Thursday.rpy:12424
 translate Schinese flynnsunday_fdd79391_1:
 
     # l "\"Easy, easy.. we're safe now.\""
-    l "\"Easy, easy.. we're safe now.\""
+    l "@@@\"Easy, easy.. we're safe now.\""
 
-# game/Flynn-Thursday.rpy:12417
+# game/Flynn-Thursday.rpy:12425
 translate Schinese flynnsunday_2bb51d8d_1:
 
     # f "\"The fuck we are.\""
-    f "\"The fuck we are.\""
+    f "@@@\"The fuck we are.\""
 
-# game/Flynn-Thursday.rpy:12418
+# game/Flynn-Thursday.rpy:12426
 translate Schinese flynnsunday_57c4e860_1:
 
     # "I peer around. Even with my eyes having adjusted to the dark, I'm still having a hell of a time seeing beyond 20 yards or so."
-    "I peer around. Even with my eyes having adjusted to the dark, I'm still having a hell of a time seeing beyond 20 yards or so."
+    "@@@I peer around. Even with my eyes having adjusted to the dark, I'm still having a hell of a time seeing beyond 20 yards or so."
 
-# game/Flynn-Thursday.rpy:12420
+# game/Flynn-Thursday.rpy:12428
 translate Schinese flynnsunday_7d0f8530_1:
 
     # "Jenna gives me a quick nod, holding up Duke's pistol to show me she still has it."
-    "Jenna gives me a quick nod, holding up Duke's pistol to show me she still has it."
+    "@@@Jenna gives me a quick nod, holding up Duke's pistol to show me she still has it."
 
-# game/Flynn-Thursday.rpy:12421
+# game/Flynn-Thursday.rpy:12429
 translate Schinese flynnsunday_fd383015_1:
 
     # "The soaked fennec would look comical were it not for the direness of the situation. She must put so much conditioner into her fur to keep it that fluffy."
-    "The soaked fennec would look comical were it not for the direness of the situation. She must put so much conditioner into her fur to keep it that fluffy."
+    "@@@The soaked fennec would look comical were it not for the direness of the situation. She must put so much conditioner into her fur to keep it that fluffy."
 
-# game/Flynn-Thursday.rpy:12422
+# game/Flynn-Thursday.rpy:12430
 translate Schinese flynnsunday_9bae4588:
 
     # c "\"Yeah, thanks, dude.\""
-    c "\"Yeah, thanks, dude.\""
+    c "@@@\"Yeah, thanks, dude.\""
 
-# game/Flynn-Thursday.rpy:12423
+# game/Flynn-Thursday.rpy:12431
 translate Schinese flynnsunday_c2750605_1:
 
     # "Carl proceeds to fall flat on his back, spread-eagle in the sand - his hefty gut rising and falling."
-    "Carl proceeds to fall flat on his back, spread-eagle in the sand - his hefty gut rising and falling."
+    "@@@Carl proceeds to fall flat on his back, spread-eagle in the sand - his hefty gut rising and falling."
 
-# game/Flynn-Thursday.rpy:12424
+# game/Flynn-Thursday.rpy:12432
 translate Schinese flynnsunday_5eb316bd:
 
     # l "\"Yeah.. well, everyone okay, at least?\""
-    l "\"Yeah.. well, everyone okay, at least?\""
+    l "@@@\"Yeah.. well, everyone okay, at least?\""
 
-# game/Flynn-Thursday.rpy:12425
+# game/Flynn-Thursday.rpy:12433
 translate Schinese flynnsunday_9304b8fe_1:
 
     # t "\"He.. didn't—didn't deserve...\""
-    t "\"He.. didn't—didn't deserve...\""
+    t "@@@\"He.. didn't—didn't deserve...\""
 
-# game/Flynn-Thursday.rpy:12426
+# game/Flynn-Thursday.rpy:12434
 translate Schinese flynnsunday_93281de6_1:
 
     # "TJ mumbles something, the lynx sitting with his arms around his knees, staring out into the lake."
-    "TJ mumbles something, the lynx sitting with his arms around his knees, staring out into the lake."
+    "@@@TJ mumbles something, the lynx sitting with his arms around his knees, staring out into the lake."
 
-# game/Flynn-Thursday.rpy:12427
+# game/Flynn-Thursday.rpy:12435
 translate Schinese flynnsunday_8e8c3a2d_1:
 
     # "He makes an effort to scramble back a few feet as the tide comes in."
-    "He makes an effort to scramble back a few feet as the tide comes in."
+    "@@@He makes an effort to scramble back a few feet as the tide comes in."
 
-# game/Flynn-Thursday.rpy:12429
+# game/Flynn-Thursday.rpy:12437
 translate Schinese flynnsunday_12d9b67e_1:
 
     # "Jenna moves over beside him, hugging the lynx from the side."
-    "Jenna moves over beside him, hugging the lynx from the side."
+    "@@@Jenna moves over beside him, hugging the lynx from the side."
 
-# game/Flynn-Thursday.rpy:12430
+# game/Flynn-Thursday.rpy:12438
 translate Schinese flynnsunday_0fcd8903_1:
 
     # j "\"Shh, we just need to get to Leo's.\""
-    j "\"Shh, we just need to get to Leo's.\""
+    j "@@@\"Shh, we just need to get to Leo's.\""
 
-# game/Flynn-Thursday.rpy:12431
+# game/Flynn-Thursday.rpy:12439
 translate Schinese flynnsunday_e9e833df_1:
 
     # "Leo lives on the outskirts of town by the old railway tracks. It's fairly isolated from the rest of the town."
-    "Leo lives on the outskirts of town by the old railway tracks. It's fairly isolated from the rest of the town."
+    "@@@Leo lives on the outskirts of town by the old railway tracks. It's fairly isolated from the rest of the town."
 
-# game/Flynn-Thursday.rpy:12432
+# game/Flynn-Thursday.rpy:12440
 translate Schinese flynnsunday_320e6152_1:
 
     # "Going there is not the worst idea, but if that fucking thing could catch us in a van going fifty..."
-    "Going there is not the worst idea, but if that fucking thing could catch us in a van going fifty..."
+    "@@@Going there is not the worst idea, but if that fucking thing could catch us in a van going fifty..."
 
-# game/Flynn-Thursday.rpy:12433
+# game/Flynn-Thursday.rpy:12441
 translate Schinese flynnsunday_8225b0ed_1:
 
     # "Fuck, I saw how it moved, too: like a strobe light was being turned off and on, and it got closer with every pulse."
-    "Fuck, I saw how it moved, too: like a strobe light was being turned off and on, and it got closer with every pulse."
+    "@@@Fuck, I saw how it moved, too: like a strobe light was being turned off and on, and it got closer with every pulse."
 
-# game/Flynn-Thursday.rpy:12434
+# game/Flynn-Thursday.rpy:12442
 translate Schinese flynnsunday_8002e0da_1:
 
     # l "\"That {i}is{/i} still the plan.\""
-    l "\"That {i}is{/i} still the plan.\""
+    l "@@@\"That {i}is{/i} still the plan.\""
 
-# game/Flynn-Thursday.rpy:12435
+# game/Flynn-Thursday.rpy:12443
 translate Schinese flynnsunday_3a313170_1:
 
     # "Leo affirms this with a nod, the wolf standing upright and ready. He's trying not to show his exhaustion and fear."
-    "Leo affirms this with a nod, the wolf standing upright and ready. He's trying not to show his exhaustion and fear."
+    "@@@Leo affirms this with a nod, the wolf standing upright and ready. He's trying not to show his exhaustion and fear."
 
-# game/Flynn-Thursday.rpy:12436
+# game/Flynn-Thursday.rpy:12444
 translate Schinese flynnsunday_45fffd86_1:
 
     # "TJ's just looking at Chase now, and he's got a shimmer in his eyes. He's crying again."
-    "TJ's just looking at Chase now, and he's got a shimmer in his eyes. He's crying again."
+    "@@@TJ's just looking at Chase now, and he's got a shimmer in his eyes. He's crying again."
 
-# game/Flynn-Thursday.rpy:12437
+# game/Flynn-Thursday.rpy:12445
 translate Schinese flynnsunday_2420d64c_1:
 
     # t "\"Chase, did Sydney, how long did he—did he—\""
-    t "\"Chase, did Sydney, how long did he—did he—\""
+    t "@@@\"Chase, did Sydney, how long did he—did he—\""
 
-# game/Flynn-Thursday.rpy:12438
+# game/Flynn-Thursday.rpy:12446
 translate Schinese flynnsunday_1b237eb1_1:
 
     # "He's cut off before he can finish."
-    "He's cut off before he can finish."
+    "@@@He's cut off before he can finish."
 
-# game/Flynn-Thursday.rpy:12439
+# game/Flynn-Thursday.rpy:12447
 translate Schinese flynnsunday_e1e1dfb1_1:
 
     # j "\"C'mon, TJ, we have to go.\""
-    j "\"C'mon, TJ, we have to go.\""
+    j "@@@\"C'mon, TJ, we have to go.\""
 
-# game/Flynn-Thursday.rpy:12440
+# game/Flynn-Thursday.rpy:12448
 translate Schinese flynnsunday_5c502eec:
 
     # "Chase looks over at him. His expression is harder to read. He's just.. weak."
-    "Chase looks over at him. His expression is harder to read. He's just.. weak."
+    "@@@Chase looks over at him. His expression is harder to read. He's just.. weak."
 
-# game/Flynn-Thursday.rpy:12441
+# game/Flynn-Thursday.rpy:12449
 translate Schinese flynnsunday_2aa0ff41_1:
 
     # f "\"What?\""
-    f "\"What?\""
+    f "@@@\"What?\""
 
-# game/Flynn-Thursday.rpy:12442
+# game/Flynn-Thursday.rpy:12450
 translate Schinese flynnsunday_8414f5d1:
 
     # "Everyone seems to be pretending they're not hearing the whimpering TJ, ushering him along."
-    "Everyone seems to be pretending they're not hearing the whimpering TJ, ushering him along."
+    "@@@Everyone seems to be pretending they're not hearing the whimpering TJ, ushering him along."
 
-# game/Flynn-Thursday.rpy:12443
+# game/Flynn-Thursday.rpy:12451
 translate Schinese flynnsunday_85130c8b_1:
 
     # "I rise up to my feet, nearly tripping over myself as I get used to solid ground again."
-    "I rise up to my feet, nearly tripping over myself as I get used to solid ground again."
+    "@@@I rise up to my feet, nearly tripping over myself as I get used to solid ground again."
 
-# game/Flynn-Thursday.rpy:12446
+# game/Flynn-Thursday.rpy:12454
 translate Schinese flynnsunday_28d8e54d_1:
 
     # "Jenna pulls TJ up with her, trying to move the lynx along."
-    "Jenna pulls TJ up with her, trying to move the lynx along."
+    "@@@Jenna pulls TJ up with her, trying to move the lynx along."
 
-# game/Flynn-Thursday.rpy:12447
+# game/Flynn-Thursday.rpy:12455
 translate Schinese flynnsunday_0fe44c5e:
 
     # l "\"We'll get ya laid down here in a bit, Chase. I'll see what meds I've got in my cabinet.\""
-    l "\"We'll get ya laid down here in a bit, Chase. I'll see what meds I've got in my cabinet.\""
+    l "@@@\"We'll get ya laid down here in a bit, Chase. I'll see what meds I've got in my cabinet.\""
 
-# game/Flynn-Thursday.rpy:12452
+# game/Flynn-Thursday.rpy:12460
 translate Schinese flynnsunday_ea75f67a_1:
 
     # "For some reason, she's hobbling a bit - like her foot is injured."
-    "For some reason, she's hobbling a bit - like her foot is injured."
+    "@@@For some reason, she's hobbling a bit - like her foot is injured."
 
-# game/Flynn-Thursday.rpy:12453
+# game/Flynn-Thursday.rpy:12461
 translate Schinese flynnsunday_60784e1d_1:
 
     # "Leo also follows suit, helping Chase up the shallow incline through the loamy soil into a basin of dry grass."
-    "Leo also follows suit, helping Chase up the shallow incline through the loamy soil into a basin of dry grass."
+    "@@@Leo also follows suit, helping Chase up the shallow incline through the loamy soil into a basin of dry grass."
 
-# game/Flynn-Thursday.rpy:12454
+# game/Flynn-Thursday.rpy:12462
 translate Schinese flynnsunday_6dac9a71_1:
 
     # "TJ peers back over at his shoulder. He's still looking at Chase."
-    "TJ peers back over at his shoulder. He's still looking at Chase."
+    "@@@TJ peers back over at his shoulder. He's still looking at Chase."
 
-# game/Flynn-Thursday.rpy:12456
+# game/Flynn-Thursday.rpy:12464
 translate Schinese flynnsunday_371d5761_1:
 
     # "That's when I notice the large rock with the sole pinyon tree overhanging it."
-    "That's when I notice the large rock with the sole pinyon tree overhanging it."
+    "@@@That's when I notice the large rock with the sole pinyon tree overhanging it."
 
-# game/Flynn-Thursday.rpy:12457
+# game/Flynn-Thursday.rpy:12465
 translate Schinese flynnsunday_46b7ee85_1:
 
     # "There's little bullet holes in the side of the trunk, .22 caliber."
-    "There's little bullet holes in the side of the trunk, .22 caliber."
+    "@@@There's little bullet holes in the side of the trunk, .22 caliber."
 
-# game/Flynn-Thursday.rpy:12458
+# game/Flynn-Thursday.rpy:12466
 translate Schinese flynnsunday_df1cc06c_1:
 
     # "I made those."
-    "I made those."
+    "@@@I made those."
 
-# game/Flynn-Thursday.rpy:12459
+# game/Flynn-Thursday.rpy:12467
 translate Schinese flynnsunday_4586ab45_1:
 
     # "I look around and right where Carl's laying, I see it."
-    "I look around and right where Carl's laying, I see it."
+    "@@@I look around and right where Carl's laying, I see it."
 
-# game/Flynn-Thursday.rpy:12460
+# game/Flynn-Thursday.rpy:12468
 translate Schinese flynnsunday_e4c1bc0d_1:
 
     # "His blank stare, the blue eyes - he reminded me of a fish."
-    "His blank stare, the blue eyes - he reminded me of a fish."
+    "@@@His blank stare, the blue eyes - he reminded me of a fish."
 
-# game/Flynn-Thursday.rpy:12461
+# game/Flynn-Thursday.rpy:12469
 translate Schinese flynnsunday_56727923_1:
 
     # f "\"This is where it happened.\""
-    f "\"This is where it happened.\""
+    f "@@@\"This is where it happened.\""
 
-# game/Flynn-Thursday.rpy:12463
+# game/Flynn-Thursday.rpy:12471
 translate Schinese flynnsunday_884b6eb5:
 
     # "Carl sits upright, still clearly trying to catch his breath."
-    "Carl sits upright, still clearly trying to catch his breath."
+    "@@@Carl sits upright, still clearly trying to catch his breath."
 
-# game/Flynn-Thursday.rpy:12464
+# game/Flynn-Thursday.rpy:12472
 translate Schinese flynnsunday_de1e1d46:
 
     # "At first he doesn't seem to understand, but then the realization hits him as he sees the tree."
-    "At first he doesn't seem to understand, but then the realization hits him as he sees the tree."
+    "@@@At first he doesn't seem to understand, but then the realization hits him as he sees the tree."
 
-# game/Flynn-Thursday.rpy:12465
+# game/Flynn-Thursday.rpy:12473
 translate Schinese flynnsunday_0ce4662d:
 
     # c "\"Oh, shit...\""
-    c "\"Oh, shit...\""
+    c "@@@\"Oh, shit...\""
 
-# game/Flynn-Thursday.rpy:12467
+# game/Flynn-Thursday.rpy:12475
 translate Schinese flynnsunday_cdb9a8f7:
 
     # "Carl rises up to his hooves, gawking at the tree. He's still."
-    "Carl rises up to his hooves, gawking at the tree. He's still."
+    "@@@Carl rises up to his hooves, gawking at the tree. He's still."
 
-# game/Flynn-Thursday.rpy:12468
+# game/Flynn-Thursday.rpy:12476
 translate Schinese flynnsunday_406326a0:
 
     # c "\"...\""
-    c "\"...\""
+    c "@@@\"...\""
 
-# game/Flynn-Thursday.rpy:12469
+# game/Flynn-Thursday.rpy:12477
 translate Schinese flynnsunday_c9b16a52:
 
     # c "\"That thing I saw when I wrecked my car, the one that brought us here just now.. it did it for a reason, y'know?\""
-    c "\"That thing I saw when I wrecked my car, the one that brought us here just now.. it did it for a reason, y'know?\""
+    c "@@@\"That thing I saw when I wrecked my car, the one that brought us here just now.. it did it for a reason, y'know?\""
 
-# game/Flynn-Thursday.rpy:12470
+# game/Flynn-Thursday.rpy:12478
 translate Schinese flynnsunday_5e9841ba:
 
     # c "\"I mean, I used to think my house was haunted.\""
-    c "\"I mean, I used to think my house was haunted.\""
+    c "@@@\"I mean, I used to think my house was haunted.\""
 
-# game/Flynn-Thursday.rpy:12471
+# game/Flynn-Thursday.rpy:12479
 translate Schinese flynnsunday_545583ba:
 
     # c "\"That it comes with the territory of big, spooky mansions.\""
-    c "\"That it comes with the territory of big, spooky mansions.\""
+    c "@@@\"That it comes with the territory of big, spooky mansions.\""
 
-# game/Flynn-Thursday.rpy:12472
+# game/Flynn-Thursday.rpy:12480
 translate Schinese flynnsunday_2f57aa7a:
 
     # c "\"But.. maybe it's us?\""
-    c "\"But.. maybe it's us?\""
+    c "@@@\"But.. maybe it's us?\""
 
-# game/Flynn-Thursday.rpy:12473
+# game/Flynn-Thursday.rpy:12481
 translate Schinese flynnsunday_c9951a95:
 
     # "Carl extends out his paws to his surroundings. I assume he means the whole group."
-    "Carl extends out his paws to his surroundings. I assume he means the whole group."
+    "@@@Carl extends out his paws to his surroundings. I assume he means the whole group."
 
-# game/Flynn-Thursday.rpy:12474
+# game/Flynn-Thursday.rpy:12482
 translate Schinese flynnsunday_089028a6:
 
     # "I sigh, feeling rather vulnerable out in the open without my repeater."
-    "I sigh, feeling rather vulnerable out in the open without my repeater."
+    "@@@I sigh, feeling rather vulnerable out in the open without my repeater."
 
-# game/Flynn-Thursday.rpy:12475
+# game/Flynn-Thursday.rpy:12483
 translate Schinese flynnsunday_35f0f51e:
 
     # f "\"The hysteria, it's affecting the whole town. Everyone goes crazy in their own way.\""
-    f "\"The hysteria, it's affecting the whole town. Everyone goes crazy in their own way.\""
+    f "@@@\"The hysteria, it's affecting the whole town. Everyone goes crazy in their own way.\""
 
-# game/Flynn-Thursday.rpy:12476
+# game/Flynn-Thursday.rpy:12484
 translate Schinese flynnsunday_decfc5ec:
 
     # f "\"S'what my Aunt always told me.\""
-    f "\"S'what my Aunt always told me.\""
+    f "@@@\"S'what my Aunt always told me.\""
 
-# game/Flynn-Thursday.rpy:12477
+# game/Flynn-Thursday.rpy:12485
 translate Schinese flynnsunday_3ea6b0db:
 
     # "And it even got her in the end."
-    "And it even got her in the end."
+    "@@@And it even got her in the end."
 
-# game/Flynn-Thursday.rpy:12478
+# game/Flynn-Thursday.rpy:12486
 translate Schinese flynnsunday_00668328:
 
     # "I wonder if she's okay, or if they found some other poor schmuck to blame the end times on."
-    "I wonder if she's okay, or if they found some other poor schmuck to blame the end times on."
+    "@@@I wonder if she's okay, or if they found some other poor schmuck to blame the end times on."
 
-# game/Flynn-Thursday.rpy:12479
+# game/Flynn-Thursday.rpy:12487
 translate Schinese flynnsunday_57410e79:
 
     # c "\"Then why're we all seeing this?\""
-    c "\"Then why're we all seeing this?\""
+    c "@@@\"Then why're we all seeing this?\""
 
-# game/Flynn-Thursday.rpy:12480
+# game/Flynn-Thursday.rpy:12488
 translate Schinese flynnsunday_9c523111:
 
     # "He gesticulates with a swirl of his hand to the tree and then the lake itself, before letting his arm fall limply at his side."
-    "He gesticulates with a swirl of his hand to the tree and then the lake itself, before letting his arm fall limply at his side."
+    "@@@He gesticulates with a swirl of his hand to the tree and then the lake itself, before letting his arm fall limply at his side."
 
-# game/Flynn-Thursday.rpy:12481
+# game/Flynn-Thursday.rpy:12489
 translate Schinese flynnsunday_dbf04f3c:
 
     # c "\"We're all here for a reason.\""
-    c "\"We're all here for a reason.\""
+    c "@@@\"We're all here for a reason.\""
 
-# game/Flynn-Thursday.rpy:12483
+# game/Flynn-Thursday.rpy:12491
 translate Schinese flynnsunday_96f21974:
 
     # "We meet each others' gaze, and Carl suddenly let's out a small chuckle, rubbing the space between his horns."
-    "We meet each others' gaze, and Carl suddenly let's out a small chuckle, rubbing the space between his horns."
+    "@@@We meet each others' gaze, and Carl suddenly let's out a small chuckle, rubbing the space between his horns."
 
-# game/Flynn-Thursday.rpy:12484
+# game/Flynn-Thursday.rpy:12492
 translate Schinese flynnsunday_cc1de951:
 
     # c "\"Unless.. I'm just imagining you seeing this.\""
-    c "\"Unless.. I'm just imagining you seeing this.\""
+    c "@@@\"Unless.. I'm just imagining you seeing this.\""
 
-# game/Flynn-Thursday.rpy:12485
+# game/Flynn-Thursday.rpy:12493
 translate Schinese flynnsunday_77fd3864:
 
     # "I let out a puff of air and rub my face."
-    "I let out a puff of air and rub my face."
+    "@@@I let out a puff of air and rub my face."
 
-# game/Flynn-Thursday.rpy:12486
+# game/Flynn-Thursday.rpy:12494
 translate Schinese flynnsunday_bfed1277:
 
     # f "\"You're dreaming about me, huh?\""
-    f "\"You're dreaming about me, huh?\""
+    f "@@@\"You're dreaming about me, huh?\""
 
-# game/Flynn-Thursday.rpy:12487
+# game/Flynn-Thursday.rpy:12495
 translate Schinese flynnsunday_48ee8afa:
 
     # c "\"Seems like it.\""
-    c "\"Seems like it.\""
+    c "@@@\"Seems like it.\""
 
-# game/Flynn-Thursday.rpy:12488
+# game/Flynn-Thursday.rpy:12496
 translate Schinese flynnsunday_1939486d:
 
     # "He shrugs."
-    "He shrugs."
+    "@@@He shrugs."
 
-# game/Flynn-Thursday.rpy:12489
+# game/Flynn-Thursday.rpy:12497
 translate Schinese flynnsunday_a2a44571:
 
     # f "\"Next time, cut out the horror games before going to bed, yeah?\""
-    f "\"Next time, cut out the horror games before going to bed, yeah?\""
+    f "@@@\"Next time, cut out the horror games before going to bed, yeah?\""
 
-# game/Flynn-Thursday.rpy:12490
+# game/Flynn-Thursday.rpy:12498
 translate Schinese flynnsunday_1711de52:
 
     # c "\"I haven't seen a single zombie, it's bullshit.\""
-    c "\"I haven't seen a single zombie, it's bullshit.\""
+    c "@@@\"I haven't seen a single zombie, it's bullshit.\""
 
-# game/Flynn-Thursday.rpy:12492
+# game/Flynn-Thursday.rpy:12500
 translate Schinese flynnsunday_2537b0b6:
 
     # "He looks toward the lake and sombers."
-    "He looks toward the lake and sombers."
+    "@@@He looks toward the lake and sombers."
 
-# game/Flynn-Thursday.rpy:12493
+# game/Flynn-Thursday.rpy:12501
 translate Schinese flynnsunday_e024bdcc:
 
     # c "\"...Just kidding.\""
-    c "\"...Just kidding.\""
+    c "@@@\"...Just kidding.\""
 
-# game/Flynn-Thursday.rpy:12494
+# game/Flynn-Thursday.rpy:12502
 translate Schinese flynnsunday_b4b8a38b:
 
     # f "\"Yeah.\""
-    f "\"Yeah.\""
+    f "@@@\"Yeah.\""
 
-# game/Flynn-Thursday.rpy:12495
+# game/Flynn-Thursday.rpy:12503
 translate Schinese flynnsunday_c142052c:
 
     # "I'm not immediately sure what to say."
-    "I'm not immediately sure what to say."
+    "@@@I'm not immediately sure what to say."
 
-# game/Flynn-Thursday.rpy:12496
+# game/Flynn-Thursday.rpy:12504
 translate Schinese flynnsunday_0e9140d7:
 
     # "In the distance, the group looks to be trudging through the dried up reeds and heading toward the train tracks down the pass."
-    "In the distance, the group looks to be trudging through the dried up reeds and heading toward the train tracks down the pass."
+    "@@@In the distance, the group looks to be trudging through the dried up reeds and heading toward the train tracks down the pass."
 
-# game/Flynn-Thursday.rpy:12497
+# game/Flynn-Thursday.rpy:12505
 translate Schinese flynnsunday_611da5a5:
 
     # "They're not waiting for us.."
-    "They're not waiting for us.."
+    "@@@They're not waiting for us.."
 
-# game/Flynn-Thursday.rpy:12498
+# game/Flynn-Thursday.rpy:12506
 translate Schinese flynnsunday_0b03362f:
 
     # "..which, I guess is understandable, noting Chase's condition."
-    "..which, I guess is understandable, noting Chase's condition."
+    "@@@..which, I guess is understandable, noting Chase's condition."
 
-# game/Flynn-Thursday.rpy:12499
+# game/Flynn-Thursday.rpy:12507
 translate Schinese flynnsunday_04cdb683:
 
     # "Carl's watching them too, though he doesn't seem overly antsy to rejoin them."
-    "Carl's watching them too, though he doesn't seem overly antsy to rejoin them."
+    "@@@Carl's watching them too, though he doesn't seem overly antsy to rejoin them."
 
-# game/Flynn-Thursday.rpy:12500
+# game/Flynn-Thursday.rpy:12508
 translate Schinese flynnsunday_747c9641:
 
     # f "\"If Syd were.. y'know.. a ghost or spirit or something, he wouldn't hurt us.\""
-    f "\"If Syd were.. y'know.. a ghost or spirit or something, he wouldn't hurt us.\""
+    f "@@@\"If Syd were.. y'know.. a ghost or spirit or something, he wouldn't hurt us.\""
 
-# game/Flynn-Thursday.rpy:12502
+# game/Flynn-Thursday.rpy:12510
 translate Schinese flynnsunday_71e2d119:
 
     # "Carl looks a little surprised, shifting his attention back toward me."
-    "Carl looks a little surprised, shifting his attention back toward me."
+    "@@@Carl looks a little surprised, shifting his attention back toward me."
 
-# game/Flynn-Thursday.rpy:12503
+# game/Flynn-Thursday.rpy:12511
 translate Schinese flynnsunday_b87b381c:
 
     # c "\"What makes you so sure?\""
-    c "\"What makes you so sure?\""
+    c "@@@\"What makes you so sure?\""
 
-# game/Flynn-Thursday.rpy:12504
+# game/Flynn-Thursday.rpy:12512
 translate Schinese flynnsunday_cf2aa6d7:
 
     # "I can tell by the tone in Carl's voice that he doubts that."
-    "I can tell by the tone in Carl's voice that he doubts that."
+    "@@@I can tell by the tone in Carl's voice that he doubts that."
 
-# game/Flynn-Thursday.rpy:12505
+# game/Flynn-Thursday.rpy:12513
 translate Schinese flynnsunday_6b9a4d3d:
 
     # "I remember Carl was really sensitive growing up - sheltered by his folks somethin' fierce."
-    "I remember Carl was really sensitive growing up - sheltered by his folks somethin' fierce."
+    "@@@I remember Carl was really sensitive growing up - sheltered by his folks somethin' fierce."
 
-# game/Flynn-Thursday.rpy:12506
+# game/Flynn-Thursday.rpy:12514
 translate Schinese flynnsunday_d95c727c:
 
     # "He'd cry and eat, and eat and cry. Was basically a fat, spoiled TJ."
-    "He'd cry and eat, and eat and cry. Was basically a fat, spoiled TJ."
+    "@@@He'd cry and eat, and eat and cry. Was basically a fat, spoiled TJ."
 
-# game/Flynn-Thursday.rpy:12507
+# game/Flynn-Thursday.rpy:12515
 translate Schinese flynnsunday_44773e96:
 
     # "It took me a while to figure him out, and for Syd, he didn't really have much grace with the sensitive types."
-    "It took me a while to figure him out, and for Syd, he didn't really have much grace with the sensitive types."
+    "@@@It took me a while to figure him out, and for Syd, he didn't really have much grace with the sensitive types."
 
-# game/Flynn-Thursday.rpy:12508
+# game/Flynn-Thursday.rpy:12516
 translate Schinese flynnsunday_4a16adae:
 
     # f "\"He was cool.\""
-    f "\"He was cool.\""
+    f "@@@\"He was cool.\""
 
-# game/Flynn-Thursday.rpy:12509
+# game/Flynn-Thursday.rpy:12517
 translate Schinese flynnsunday_02b08b3c:
 
     # f "\"I know you two never got along, but he had things rough at home. He loved hangin' out with the group and all.\""
-    f "\"I know you two never got along, but he had things rough at home. He loved hangin' out with the group and all.\""
+    f "@@@\"I know you two never got along, but he had things rough at home. He loved hangin' out with the group and all.\""
 
-# game/Flynn-Thursday.rpy:12510
+# game/Flynn-Thursday.rpy:12518
 translate Schinese flynnsunday_8280672c:
 
     # f "\"Hell, he thought TJ was cool.\""
-    f "\"Hell, he thought TJ was cool.\""
+    f "@@@\"Hell, he thought TJ was cool.\""
 
-# game/Flynn-Thursday.rpy:12511
+# game/Flynn-Thursday.rpy:12519
 translate Schinese flynnsunday_eddd08fc:
 
     # c "\"What? No way.\""
-    c "\"What? No way.\""
+    c "@@@\"What? No way.\""
 
-# game/Flynn-Thursday.rpy:12512
+# game/Flynn-Thursday.rpy:12520
 translate Schinese flynnsunday_88b7dc79:
 
     # f "\"Well, he never said as much plain-like. He just.. wanted to be him, I guess.\""
-    f "\"Well, he never said as much plain-like. He just.. wanted to be him, I guess.\""
+    f "@@@\"Well, he never said as much plain-like. He just.. wanted to be him, I guess.\""
 
-# game/Flynn-Thursday.rpy:12513
+# game/Flynn-Thursday.rpy:12521
 translate Schinese flynnsunday_31949c0a:
 
     # f "\"To believe God was real and had a plan, to be good without havin' to try so hard, to have folks who gave a shit about him...\""
-    f "\"To believe God was real and had a plan, to be good without havin' to try so hard, to have folks who gave a shit about him...\""
+    f "@@@\"To believe God was real and had a plan, to be good without havin' to try so hard, to have folks who gave a shit about him...\""
 
-# game/Flynn-Thursday.rpy:12514
+# game/Flynn-Thursday.rpy:12522
 translate Schinese flynnsunday_6d0f34e9:
 
     # c "\"Dude, those last six months...\""
-    c "\"Dude, those last six months...\""
+    c "@@@\"Dude, those last six months...\""
 
-# game/Flynn-Thursday.rpy:12515
+# game/Flynn-Thursday.rpy:12523
 translate Schinese flynnsunday_f51bae45:
 
     # "I think back to Chase's words."
-    "I think back to Chase's words."
+    "@@@I think back to Chase's words."
 
-# game/Flynn-Thursday.rpy:12516
+# game/Flynn-Thursday.rpy:12524
 translate Schinese flynnsunday_4988f2ea:
 
     # f "\"I know. He wasn't himself. Not really.\""
-    f "\"I know. He wasn't himself. Not really.\""
+    f "@@@\"I know. He wasn't himself. Not really.\""
 
-# game/Flynn-Thursday.rpy:12517
+# game/Flynn-Thursday.rpy:12525
 translate Schinese flynnsunday_ec90262e:
 
     # "After a long pause, he shrugs."
-    "After a long pause, he shrugs."
+    "@@@After a long pause, he shrugs."
 
-# game/Flynn-Thursday.rpy:12518
+# game/Flynn-Thursday.rpy:12526
 translate Schinese flynnsunday_f92f10b3:
 
     # c "\"If you say so, I believe it.\""
-    c "\"If you say so, I believe it.\""
+    c "@@@\"If you say so, I believe it.\""
 
-# game/Flynn-Thursday.rpy:12519
+# game/Flynn-Thursday.rpy:12527
 translate Schinese flynnsunday_295d192d:
 
     # c "\"I was different then too, I guess.\""
-    c "\"I was different then too, I guess.\""
+    c "@@@\"I was different then too, I guess.\""
 
-# game/Flynn-Thursday.rpy:12521
+# game/Flynn-Thursday.rpy:12529
 translate Schinese flynnsunday_d1e275cd:
 
     # c "\"I was just a child and now I'm a man-child.\""
-    c "\"I was just a child and now I'm a man-child.\""
+    c "@@@\"I was just a child and now I'm a man-child.\""
 
-# game/Flynn-Thursday.rpy:12522
+# game/Flynn-Thursday.rpy:12530
 translate Schinese flynnsunday_32e0caa0:
 
     # f "\"Heh.\""
-    f "\"Heh.\""
+    f "@@@\"Heh.\""
 
-# game/Flynn-Thursday.rpy:12523
+# game/Flynn-Thursday.rpy:12531
 translate Schinese flynnsunday_65752824:
 
     # "I wave off the thought. At least Carl seems calmer now, or at least is doing a good job at blocking out the terror."
-    "I wave off the thought. At least Carl seems calmer now, or at least is doing a good job at blocking out the terror."
+    "@@@I wave off the thought. At least Carl seems calmer now, or at least is doing a good job at blocking out the terror."
 
-# game/Flynn-Thursday.rpy:12525
+# game/Flynn-Thursday.rpy:12533
 translate Schinese flynnsunday_7927d2aa:
 
     # "He's still got his tie on, though his shirt's completely soaked through and I can see his chest underneath when he faces the moonlight."
-    "He's still got his tie on, though his shirt's completely soaked through and I can see his chest underneath when he faces the moonlight."
+    "@@@He's still got his tie on, though his shirt's completely soaked through and I can see his chest underneath when he faces the moonlight."
 
-# game/Flynn-Thursday.rpy:12526
+# game/Flynn-Thursday.rpy:12534
 translate Schinese flynnsunday_d18996fd:
 
     # f "\"Man, if this wasn't real..\""
-    f "\"Man, if this wasn't real..\""
+    f "@@@\"Man, if this wasn't real..\""
 
-# game/Flynn-Thursday.rpy:12527
+# game/Flynn-Thursday.rpy:12535
 translate Schinese flynnsunday_b10c6baa:
 
     # f "\"..anything you'd wanna say to not-real me?\""
-    f "\"..anything you'd wanna say to not-real me?\""
+    f "@@@\"..anything you'd wanna say to not-real me?\""
 
-# game/Flynn-Thursday.rpy:12528
+# game/Flynn-Thursday.rpy:12536
 translate Schinese flynnsunday_a060bb7b:
 
     # "Without hesitation, Carl speaks."
-    "Without hesitation, Carl speaks."
+    "@@@Without hesitation, Carl speaks."
 
-# game/Flynn-Thursday.rpy:12529
+# game/Flynn-Thursday.rpy:12537
 translate Schinese flynnsunday_6a85ee2a:
 
     # c "\"Not a real big fan of fishing, dude.\""
-    c "\"Not a real big fan of fishing, dude.\""
+    c "@@@\"Not a real big fan of fishing, dude.\""
 
-# game/Flynn-Thursday.rpy:12530
-translate Schinese flynnsunday_d40bd992:
+# game/Flynn-Thursday.rpy:12538
+translate Schinese flynnsunday_d2782387:
 
-    # "I furrow my brow at him and sigh, before beginng to trudge through the sand after the others."
-    "I furrow my brow at him and sigh, before beginng to trudge through the sand after the others."
+    # "I furrow my brow at him and sigh, before beginning to trudge through the sand after the others."
+    "@@@I furrow my brow at him and sigh, before beginning to trudge through the sand after the others."
 
-# game/Flynn-Thursday.rpy:12532
+# game/Flynn-Thursday.rpy:12540
 translate Schinese flynnsunday_009d8aff:
 
     # "I can't even see them now. They must have picked up the pace."
-    "I can't even see them now. They must have picked up the pace."
+    "@@@I can't even see them now. They must have picked up the pace."
 
-# game/Flynn-Thursday.rpy:12533
+# game/Flynn-Thursday.rpy:12541
 translate Schinese flynnsunday_2d0c9075:
 
     # c "\"Dude..\""
-    c "\"Dude..\""
+    c "@@@\"Dude..\""
 
-# game/Flynn-Thursday.rpy:12534
+# game/Flynn-Thursday.rpy:12542
 translate Schinese flynnsunday_97e3752b:
 
     # "I stop. His voice is softer, apologetic."
-    "I stop. His voice is softer, apologetic."
+    "@@@I stop. His voice is softer, apologetic."
 
-# game/Flynn-Thursday.rpy:12536
+# game/Flynn-Thursday.rpy:12544
 translate Schinese flynnsunday_cba032df:
 
     # c "\"..but I like when you take me out, even if it seems like.. I'm whining the whole time.\""
-    c "\"..but I like when you take me out, even if it seems like.. I'm whining the whole time.\""
+    c "@@@\"..but I like when you take me out, even if it seems like.. I'm whining the whole time.\""
 
-# game/Flynn-Thursday.rpy:12537
+# game/Flynn-Thursday.rpy:12545
 translate Schinese flynnsunday_11121246:
 
     # f "\"Hm.\""
-    f "\"Hm.\""
+    f "@@@\"Hm.\""
 
-# game/Flynn-Thursday.rpy:12538
+# game/Flynn-Thursday.rpy:12546
 translate Schinese flynnsunday_29c2ab02:
 
     # f "\"There's no 'seems like' about it. You {i}do{/i} whine the whole time.\""
-    f "\"There's no 'seems like' about it. You {i}do{/i} whine the whole time.\""
+    f "@@@\"There's no 'seems like' about it. You {i}do{/i} whine the whole time.\""
 
-# game/Flynn-Thursday.rpy:12539
+# game/Flynn-Thursday.rpy:12547
 translate Schinese flynnsunday_c7fa6f4e:
 
     # "A brief, sad smile crosses his thick muzzle."
-    "A brief, sad smile crosses his thick muzzle."
+    "@@@A brief, sad smile crosses his thick muzzle."
 
-# game/Flynn-Thursday.rpy:12542
+# game/Flynn-Thursday.rpy:12550
 translate Schinese flynnsunday_ad4a9681:
 
     # da "\"You guys are still here?\""
-    da "\"You guys are still here?\""
+    da "@@@\"You guys are still here?\""
 
-# game/Flynn-Thursday.rpy:12543
+# game/Flynn-Thursday.rpy:12551
 translate Schinese flynnsunday_5f2ca27f:
 
     # "The salamander peers at us worriedly."
-    "The salamander peers at us worriedly."
+    "@@@The salamander peers at us worriedly."
 
-# game/Flynn-Thursday.rpy:12544
+# game/Flynn-Thursday.rpy:12552
 translate Schinese flynnsunday_03d166fd:
 
     # "Carl and I exchange glances, then nod."
-    "Carl and I exchange glances, then nod."
+    "@@@Carl and I exchange glances, then nod."
 
-# game/Flynn-Thursday.rpy:12545
+# game/Flynn-Thursday.rpy:12553
 translate Schinese flynnsunday_17629237:
 
     # da "\"Good, that's.. good. Umm.\""
-    da "\"Good, that's.. good. Umm.\""
+    da "@@@\"Good, that's.. good. Umm.\""
 
-# game/Flynn-Thursday.rpy:12546
+# game/Flynn-Thursday.rpy:12554
 translate Schinese flynnsunday_7313d314:
 
     # da "\"I lost the group.\""
-    da "\"I lost the group.\""
+    da "@@@\"I lost the group.\""
 
-# game/Flynn-Thursday.rpy:12547
+# game/Flynn-Thursday.rpy:12555
 translate Schinese flynnsunday_92896a4f:
 
     # da "\"I don't know where Leo's house is and they kept walking faster and then they just..\""
-    da "\"I don't know where Leo's house is and they kept walking faster and then they just..\""
+    da "@@@\"I don't know where Leo's house is and they kept walking faster and then they just..\""
 
-# game/Flynn-Thursday.rpy:12548
+# game/Flynn-Thursday.rpy:12556
 translate Schinese flynnsunday_5a887738:
 
     # "Daxton toys with his zipper at the bottom of his hoodie."
-    "Daxton toys with his zipper at the bottom of his hoodie."
+    "@@@Daxton toys with his zipper at the bottom of his hoodie."
 
-# game/Flynn-Thursday.rpy:12549
+# game/Flynn-Thursday.rpy:12557
 translate Schinese flynnsunday_b7c2d1a4:
 
     # da "\"..musta gotten ahead of me.\""
-    da "\"..musta gotten ahead of me.\""
+    da "@@@\"..musta gotten ahead of me.\""
 
-# game/Flynn-Thursday.rpy:12550
+# game/Flynn-Thursday.rpy:12558
 translate Schinese flynnsunday_fd4cb0c7:
 
     # c "\"It's okay.\""
-    c "\"It's okay.\""
+    c "@@@\"It's okay.\""
 
-# game/Flynn-Thursday.rpy:12551
+# game/Flynn-Thursday.rpy:12559
 translate Schinese flynnsunday_3a989d6a:
 
     # c "\"I think we're supposed to be here.\""
-    c "\"I think we're supposed to be here.\""
+    c "@@@\"I think we're supposed to be here.\""
 
-# game/Flynn-Thursday.rpy:12552
+# game/Flynn-Thursday.rpy:12560
 translate Schinese flynnsunday_c0457b50:
 
     # c "\"Right, dude?\""
-    c "\"Right, dude?\""
+    c "@@@\"Right, dude?\""
 
-# game/Flynn-Thursday.rpy:12553
+# game/Flynn-Thursday.rpy:12561
 translate Schinese flynnsunday_bfad11e2:
 
     # "Carl looks to me."
-    "Carl looks to me."
+    "@@@Carl looks to me."
 
-# game/Flynn-Thursday.rpy:12554
+# game/Flynn-Thursday.rpy:12562
 translate Schinese flynnsunday_3bc23d1a:
 
     # "I cross my arms, unsure how confident I feel about this whole tapping into paranatural hunches."
-    "I cross my arms, unsure how confident I feel about this whole tapping into paranatural hunches."
+    "@@@I cross my arms, unsure how confident I feel about this whole tapping into paranatural hunches."
 
-# game/Flynn-Thursday.rpy:12555
+# game/Flynn-Thursday.rpy:12563
 translate Schinese flynnsunday_cf31bf0a:
 
     # f "\"I.. I dunno. It's just a feelin'.\""
-    f "\"I.. I dunno. It's just a feelin'.\""
+    f "@@@\"I.. I dunno. It's just a feelin'.\""
 
-# game/Flynn-Thursday.rpy:12556
+# game/Flynn-Thursday.rpy:12564
 translate Schinese flynnsunday_0a46f1bf:
 
     # f "\"The thing coulda killed us easy-like and didn't. Instead, we're here.\""
-    f "\"The thing coulda killed us easy-like and didn't. Instead, we're here.\""
+    f "@@@\"The thing coulda killed us easy-like and didn't. Instead, we're here.\""
 
-# game/Flynn-Thursday.rpy:12560
+# game/Flynn-Thursday.rpy:12568
 translate Schinese flynnsunday_43e20706:
 
     # "Daxton gives Carl and I a nervous look, clearly putting a wide berth between him and the lake.\""
-    "Daxton gives Carl and I a nervous look, clearly putting a wide berth between him and the lake.\""
+    "@@@Daxton gives Carl and I a nervous look, clearly putting a wide berth between him and the lake.\""
 
-# game/Flynn-Thursday.rpy:12561
+# game/Flynn-Thursday.rpy:12569
 translate Schinese flynnsunday_3a8baa8c:
 
     # da "\"Um, okay.\""
-    da "\"Um, okay.\""
+    da "@@@\"Um, okay.\""
 
-# game/Flynn-Thursday.rpy:12562
+# game/Flynn-Thursday.rpy:12570
 translate Schinese flynnsunday_2da14d2d:
 
     # "He seems jittery, which I suppose is valid."
-    "He seems jittery, which I suppose is valid."
+    "@@@He seems jittery, which I suppose is valid."
 
-# game/Flynn-Thursday.rpy:12563
+# game/Flynn-Thursday.rpy:12571
 translate Schinese flynnsunday_bfcd391e:
 
     # c "\"I can't believe Leo actually rescued you...\""
-    c "\"I can't believe Leo actually rescued you...\""
+    c "@@@\"I can't believe Leo actually rescued you...\""
 
-# game/Flynn-Thursday.rpy:12564
+# game/Flynn-Thursday.rpy:12572
 translate Schinese flynnsunday_6749ff4d_1:
 
     # "I grunt, trying to rub what feels like lake gunk out of my eyes."
-    "I grunt, trying to rub what feels like lake gunk out of my eyes."
+    "@@@I grunt, trying to rub what feels like lake gunk out of my eyes."
 
-# game/Flynn-Thursday.rpy:12565
+# game/Flynn-Thursday.rpy:12573
 translate Schinese flynnsunday_e0dc87d9:
 
     # f "\"Why'd you even need savin'? You're a natural water boy.\""
-    f "\"Why'd you even need savin'? You're a natural water boy.\""
+    f "@@@\"Why'd you even need savin'? You're a natural water boy.\""
 
-# game/Flynn-Thursday.rpy:12567
+# game/Flynn-Thursday.rpy:12575
 translate Schinese flynnsunday_a2e35dc5:
 
     # "Daxton rubs the back of his neck, his eyes flicking up as he tries to clearly recall whatever the fuck happened to him."
-    "Daxton rubs the back of his neck, his eyes flicking up as he tries to clearly recall whatever the fuck happened to him."
+    "@@@Daxton rubs the back of his neck, his eyes flicking up as he tries to clearly recall whatever the fuck happened to him."
 
-# game/Flynn-Thursday.rpy:12568
+# game/Flynn-Thursday.rpy:12576
 translate Schinese flynnsunday_56d621f5:
 
     # da "\"I was tryin' to save you.\""
-    da "\"I was tryin' to save you.\""
+    da "@@@\"I was tryin' to save you.\""
 
-# game/Flynn-Thursday.rpy:12569
+# game/Flynn-Thursday.rpy:12577
 translate Schinese flynnsunday_d2b3524f:
 
     # "His tone is concerned, the salamander peering at me as if afraid I might crumble in front of him."
-    "His tone is concerned, the salamander peering at me as if afraid I might crumble in front of him."
+    "@@@His tone is concerned, the salamander peering at me as if afraid I might crumble in front of him."
 
-# game/Flynn-Thursday.rpy:12570
+# game/Flynn-Thursday.rpy:12578
 translate Schinese flynnsunday_b93ee019:
 
     # f "\"The hell you were. I got out of there on my own like two minutes before Leo dragged your slimy ass up from the depths.\""
-    f "\"The hell you were. I got out of there on my own like two minutes before Leo dragged your slimy ass up from the depths.\""
+    f "@@@\"The hell you were. I got out of there on my own like two minutes before Leo dragged your slimy ass up from the depths.\""
 
-# game/Flynn-Thursday.rpy:12571
+# game/Flynn-Thursday.rpy:12579
 translate Schinese flynnsunday_90110624_1:
 
     # da "\"I thought I saw you.. drift off further down into the lake. You weren't moving."
-    da "\"I thought I saw you.. drift off further down into the lake. You weren't moving."
+    da "@@@\"I thought I saw you.. drift off further down into the lake. You weren't moving."
 
-# game/Flynn-Thursday.rpy:12572
+# game/Flynn-Thursday.rpy:12580
 translate Schinese flynnsunday_49ac7b24_1:
 
     # da "\"Anytime I tried to grab ya, you just drifted further off, always with your back facing me.\""
-    da "\"Anytime I tried to grab ya, you just drifted further off, always with your back facing me.\""
+    da "@@@\"Anytime I tried to grab ya, you just drifted further off, always with your back facing me.\""
 
-# game/Flynn-Thursday.rpy:12573
+# game/Flynn-Thursday.rpy:12581
 translate Schinese flynnsunday_fa927ae3_1:
 
     # da "\"Eventually I couldn't see ya anymore, it was too dark.\""
-    da "\"Eventually I couldn't see ya anymore, it was too dark.\""
+    da "@@@\"Eventually I couldn't see ya anymore, it was too dark.\""
 
-# game/Flynn-Thursday.rpy:12574
+# game/Flynn-Thursday.rpy:12582
 translate Schinese flynnsunday_b2047e30_1:
 
     # "He rubs his hands over his biceps rapidly, trying to warm himself."
-    "He rubs his hands over his biceps rapidly, trying to warm himself."
+    "@@@He rubs his hands over his biceps rapidly, trying to warm himself."
 
-# game/Flynn-Thursday.rpy:12575
+# game/Flynn-Thursday.rpy:12583
 translate Schinese flynnsunday_8888b73e_1:
 
     # "He exhales, looking briefly at Carl, then back to me."
-    "He exhales, looking briefly at Carl, then back to me."
+    "@@@He exhales, looking briefly at Carl, then back to me."
 
-# game/Flynn-Thursday.rpy:12576
+# game/Flynn-Thursday.rpy:12584
 translate Schinese flynnsunday_d1ffa205:
 
     # da "\"I'm sorry, I don't really understand what happened. There's not a lot goin' on right now I can really explain.\""
-    da "\"I'm sorry, I don't really understand what happened. There's not a lot goin' on right now I can really explain.\""
+    da "@@@\"I'm sorry, I don't really understand what happened. There's not a lot goin' on right now I can really explain.\""
 
-# game/Flynn-Thursday.rpy:12578
+# game/Flynn-Thursday.rpy:12586
 translate Schinese flynnsunday_1a53f204:
 
     # f "\"That makes three of us here.\""
-    f "\"That makes three of us here.\""
+    f "@@@\"That makes three of us here.\""
 
-# game/Flynn-Thursday.rpy:12580
+# game/Flynn-Thursday.rpy:12588
 translate Schinese flynnsunday_954022d8:
 
     # da "\"So, where's 'here', exactly?\""
-    da "\"So, where's 'here', exactly?\""
+    da "@@@\"So, where's 'here', exactly?\""
 
-# game/Flynn-Thursday.rpy:12581
+# game/Flynn-Thursday.rpy:12589
 translate Schinese flynnsunday_cc0fdd8d:
 
     # c "\"Where our friend died.. well, where he drowned and later died in a hospital.\""
-    c "\"Where our friend died.. well, where he drowned and later died in a hospital.\""
+    c "@@@\"Where our friend died.. well, where he drowned and later died in a hospital.\""
 
-# game/Flynn-Thursday.rpy:12582
+# game/Flynn-Thursday.rpy:12590
 translate Schinese flynnsunday_fca0ac09:
 
     # "Carl's bluntness takes even me off guard. There's no coldness in his tone though, just the truth of it."
-    "Carl's bluntness takes even me off guard. There's no coldness in his tone though, just the truth of it."
+    "@@@Carl's bluntness takes even me off guard. There's no coldness in his tone though, just the truth of it."
 
-# game/Flynn-Thursday.rpy:12583
+# game/Flynn-Thursday.rpy:12591
 translate Schinese flynnsunday_94ecc4b9:
 
     # da "\"That's.. terrifying. I'm sorry I asked.\""
-    da "\"That's.. terrifying. I'm sorry I asked.\""
+    da "@@@\"That's.. terrifying. I'm sorry I asked.\""
 
-# game/Flynn-Thursday.rpy:12584
+# game/Flynn-Thursday.rpy:12592
 translate Schinese flynnsunday_308bc771:
 
     # "After a moment, he speaks again."
-    "After a moment, he speaks again."
+    "@@@After a moment, he speaks again."
 
-# game/Flynn-Thursday.rpy:12585
+# game/Flynn-Thursday.rpy:12593
 translate Schinese flynnsunday_01066f2a:
 
     # da "\"And.. sorry for your loss.\""
-    da "\"And.. sorry for your loss.\""
+    da "@@@\"And.. sorry for your loss.\""
 
-# game/Flynn-Thursday.rpy:12586
+# game/Flynn-Thursday.rpy:12594
 translate Schinese flynnsunday_c5c13037:
 
     # da "\"I feel like this past week, I've just been a dingleberry on you guys.\""
-    da "\"I feel like this past week, I've just been a dingleberry on you guys.\""
+    da "@@@\"I feel like this past week, I've just been a dingleberry on you guys.\""
 
-# game/Flynn-Thursday.rpy:12587
+# game/Flynn-Thursday.rpy:12595
 translate Schinese flynnsunday_fd4cb0c7_1:
 
     # c "\"It's okay.\""
-    c "\"It's okay.\""
+    c "@@@\"It's okay.\""
 
-# game/Flynn-Thursday.rpy:12588
+# game/Flynn-Thursday.rpy:12596
 translate Schinese flynnsunday_d656ec31:
 
     # c "\"It's cool you're here.\""
-    c "\"It's cool you're here.\""
+    c "@@@\"It's cool you're here.\""
 
-# game/Flynn-Thursday.rpy:12589
+# game/Flynn-Thursday.rpy:12597
 translate Schinese flynnsunday_9f1f0043:
 
     # "Everyone goes quiet."
-    "Everyone goes quiet."
+    "@@@Everyone goes quiet."
 
-# game/Flynn-Thursday.rpy:12590
+# game/Flynn-Thursday.rpy:12598
 translate Schinese flynnsunday_fcb515a8:
 
     # "Daxton occasionally looks over his shoulder to see if there's any sign the group sent someone back for us, but no such luck."
-    "Daxton occasionally looks over his shoulder to see if there's any sign the group sent someone back for us, but no such luck."
+    "@@@Daxton occasionally looks over his shoulder to see if there's any sign the group sent someone back for us, but no such luck."
 
-# game/Flynn-Thursday.rpy:12591
+# game/Flynn-Thursday.rpy:12599
 translate Schinese flynnsunday_7f485848:
 
     # "I'm starting to realize how exhausted I am. Coasting on adrenaline for an hour straight will really take the wind out of ya."
-    "I'm starting to realize how exhausted I am. Coasting on adrenaline for an hour straight will really take the wind out of ya."
+    "@@@I'm starting to realize how exhausted I am. Coasting on adrenaline for an hour straight will really take the wind out of ya."
 
-# game/Flynn-Thursday.rpy:12592
+# game/Flynn-Thursday.rpy:12600
 translate Schinese flynnsunday_5652c4f8:
 
     # "I lower myself first to a squat, then sit cross-legged in the sand."
-    "I lower myself first to a squat, then sit cross-legged in the sand."
+    "@@@I lower myself first to a squat, then sit cross-legged in the sand."
 
-# game/Flynn-Thursday.rpy:12593
+# game/Flynn-Thursday.rpy:12601
 translate Schinese flynnsunday_5b916b53:
 
     # "Despite all the water and vegetation, the air still feels kinda dry and smokey."
-    "Despite all the water and vegetation, the air still feels kinda dry and smokey."
+    "@@@Despite all the water and vegetation, the air still feels kinda dry and smokey."
 
-# game/Flynn-Thursday.rpy:12594
+# game/Flynn-Thursday.rpy:12602
 translate Schinese flynnsunday_d0da57d8:
 
     # f "\"I wonder where that fire's comin' from.\""
-    f "\"I wonder where that fire's comin' from.\""
+    f "@@@\"I wonder where that fire's comin' from.\""
 
-# game/Flynn-Thursday.rpy:12595
+# game/Flynn-Thursday.rpy:12603
 translate Schinese flynnsunday_a20cefa7_2:
 
     # "..."
-    "..."
+    "@@@..."
 
-# game/Flynn-Thursday.rpy:12596
+# game/Flynn-Thursday.rpy:12604
 translate Schinese flynnsunday_77d65967:
 
     # "No response."
-    "No response."
+    "@@@No response."
 
-# game/Flynn-Thursday.rpy:12597
+# game/Flynn-Thursday.rpy:12605
 translate Schinese flynnsunday_aa0fdfa5:
 
     # "I look over and Carl and Daxton are sitting together, watching the tide. They look as tired as I am."
-    "I look over and Carl and Daxton are sitting together, watching the tide. They look as tired as I am."
+    "@@@I look over and Carl and Daxton are sitting together, watching the tide. They look as tired as I am."
 
-# game/Flynn-Thursday.rpy:12598
+# game/Flynn-Thursday.rpy:12606
 translate Schinese flynnsunday_d2e07de7:
 
     # c "\"What do you want to happen here?\""
-    c "\"What do you want to happen here?\""
+    c "@@@\"What do you want to happen here?\""
 
-# game/Flynn-Thursday.rpy:12599
+# game/Flynn-Thursday.rpy:12607
 translate Schinese flynnsunday_75373da4:
 
     # "Carl eventually speaks, his tone droll and somewhat monotone."
-    "Carl eventually speaks, his tone droll and somewhat monotone."
+    "@@@Carl eventually speaks, his tone droll and somewhat monotone."
 
-# game/Flynn-Thursday.rpy:12600
+# game/Flynn-Thursday.rpy:12608
 translate Schinese flynnsunday_9bc194bf:
 
     # "I look toward the tree with all the bullet holes."
-    "I look toward the tree with all the bullet holes."
+    "@@@I look toward the tree with all the bullet holes."
 
-# game/Flynn-Thursday.rpy:12601
+# game/Flynn-Thursday.rpy:12609
 translate Schinese flynnsunday_55957fcb:
 
     # f "\"I just.. I want to know what happened.\""
-    f "\"I just.. I want to know what happened.\""
+    f "@@@\"I just.. I want to know what happened.\""
 
-# game/Flynn-Thursday.rpy:12611
+# game/Flynn-Thursday.rpy:12619
 translate Schinese flynnsunday_a20cefa7_3:
 
     # "..."
-    "..."
+    "@@@..."
 
-# game/Flynn-Thursday.rpy:12612
+# game/Flynn-Thursday.rpy:12620
 translate Schinese flynnsunday_3acb1959:
 
     # "They're gone?"
-    "They're gone?"
+    "@@@They're gone?"
 
-# game/Flynn-Thursday.rpy:12613
+# game/Flynn-Thursday.rpy:12621
 translate Schinese flynnsunday_733780cb:
 
     # "I spy the ass prints of Carl and Dax in the sand next to me, but they're nowhere in sight."
-    "I spy the ass prints of Carl and Dax in the sand next to me, but they're nowhere in sight."
+    "@@@I spy the ass prints of Carl and Dax in the sand next to me, but they're nowhere in sight."
 
-# game/Flynn-Thursday.rpy:12614
+# game/Flynn-Thursday.rpy:12622
 translate Schinese flynnsunday_b934c75a:
 
     # "I quickly rise to my feet, hesitant to call out to them noting what happened earlier."
-    "I quickly rise to my feet, hesitant to call out to them noting what happened earlier."
+    "@@@I quickly rise to my feet, hesitant to call out to them noting what happened earlier."
 
-# game/Flynn-Thursday.rpy:12616
+# game/Flynn-Thursday.rpy:12624
 translate Schinese flynnsunday_6fde707a:
 
     # "I move up to the top of the hill next to us, stepping through the dry grass."
-    "I move up to the top of the hill next to us, stepping through the dry grass."
+    "@@@I move up to the top of the hill next to us, stepping through the dry grass."
 
-# game/Flynn-Thursday.rpy:12617
+# game/Flynn-Thursday.rpy:12625
 translate Schinese flynnsunday_30d20fe8:
 
     # "As I look around, I see no movement beyond the rolling tide of the waves, illuminated only by the slight moonlight."
-    "As I look around, I see no movement beyond the rolling tide of the waves, illuminated only by the slight moonlight."
+    "@@@As I look around, I see no movement beyond the rolling tide of the waves, illuminated only by the slight moonlight."
 
-# game/Flynn-Thursday.rpy:12618
+# game/Flynn-Thursday.rpy:12626
 translate Schinese flynnsunday_70ec02d7:
 
     # f "\"Fuuuuuck...\""
-    f "\"Fuuuuuck...\""
+    f "@@@\"Fuuuuuck...\""
 
-# game/Flynn-Thursday.rpy:12619
+# game/Flynn-Thursday.rpy:12627
 translate Schinese flynnsunday_80f89c24:
 
     # "My whole plan of waiting here for something to happen seemed a lot better when I had others around."
-    "My whole plan of waiting here for something to happen seemed a lot better when I had others around."
+    "@@@My whole plan of waiting here for something to happen seemed a lot better when I had others around."
 
-# game/Flynn-Thursday.rpy:12620
-translate Schinese flynnsunday_743161ee:
+# game/Flynn-Thursday.rpy:12628
+translate Schinese flynnsunday_01a3b835:
 
-    # "Now that I'm alone and unarmed, my gall is starting to fucking wain."
-    "Now that I'm alone and unarmed, my gall is starting to fucking wain."
+    # "Now that I'm alone and unarmed, my gall is starting to fucking wane."
+    "@@@Now that I'm alone and unarmed, my gall is starting to fucking wane."
 
-# game/Flynn-Thursday.rpy:12621
+# game/Flynn-Thursday.rpy:12629
 translate Schinese flynnsunday_2ec47511:
 
     # "They must have went to Leo's house.. I mean, surely they'd fucking wake me first, right?"
-    "They must have went to Leo's house.. I mean, surely they'd fucking wake me first, right?"
+    "@@@They must have went to Leo's house.. I mean, surely they'd fucking wake me first, right?"
 
-# game/Flynn-Thursday.rpy:12622
+# game/Flynn-Thursday.rpy:12630
 translate Schinese flynnsunday_680c7ab1:
 
     # "Did I even pass out?"
-    "Did I even pass out?"
+    "@@@Did I even pass out?"
 
-# game/Flynn-Thursday.rpy:12623
+# game/Flynn-Thursday.rpy:12631
 translate Schinese flynnsunday_7481b188:
 
     # "It felt more like I just blinked and then bam.. gone."
-    "It felt more like I just blinked and then bam.. gone."
+    "@@@It felt more like I just blinked and then bam.. gone."
 
-# game/Flynn-Thursday.rpy:12625
+# game/Flynn-Thursday.rpy:12633
 translate Schinese flynnsunday_ef6a9084:
 
     # "For a moment, it feels like something's tugging the back of my shirt."
-    "For a moment, it feels like something's tugging the back of my shirt."
+    "@@@For a moment, it feels like something's tugging the back of my shirt."
 
-# game/Flynn-Thursday.rpy:12627
+# game/Flynn-Thursday.rpy:12635
 translate Schinese flynnsunday_ac79cb2d:
 
     # "I turn, expecting to see the bulbous face of Carl at my side, but there's no one there."
-    "I turn, expecting to see the bulbous face of Carl at my side, but there's no one there."
+    "@@@I turn, expecting to see the bulbous face of Carl at my side, but there's no one there."
 
-# game/Flynn-Thursday.rpy:12628
+# game/Flynn-Thursday.rpy:12636
 translate Schinese flynnsunday_9c7a2a89:
 
     # f "\"Hey assholes.. where are you?\""
-    f "\"Hey assholes.. where are you?\""
+    f "@@@\"Hey assholes.. where are you?\""
 
-# game/Flynn-Thursday.rpy:12629
+# game/Flynn-Thursday.rpy:12637
 translate Schinese flynnsunday_402edb83:
 
     # "I let out a harsh whisper directed at the desert scrub around me."
-    "I let out a harsh whisper directed at the desert scrub around me."
+    "@@@I let out a harsh whisper directed at the desert scrub around me."
 
-# game/Flynn-Thursday.rpy:12630
+# game/Flynn-Thursday.rpy:12638
 translate Schinese flynnsunday_a20cefa7_4:
 
     # "..."
-    "..."
+    "@@@..."
 
-# game/Flynn-Thursday.rpy:12631
+# game/Flynn-Thursday.rpy:12639
 translate Schinese flynnsunday_71de5ba9:
 
     # "Again, no response."
-    "Again, no response."
+    "@@@Again, no response."
 
-# game/Flynn-Thursday.rpy:12632
+# game/Flynn-Thursday.rpy:12640
 translate Schinese flynnsunday_89f31c69:
 
     # "I sigh, rubbing my palms over my face."
-    "I sigh, rubbing my palms over my face."
+    "@@@I sigh, rubbing my palms over my face."
 
-# game/Flynn-Thursday.rpy:12633
+# game/Flynn-Thursday.rpy:12641
 translate Schinese flynnsunday_d056c6bc:
 
     # "There's no choice. Gotta get to Leo's."
-    "There's no choice. Gotta get to Leo's."
+    "@@@There's no choice. Gotta get to Leo's."
 
-# game/Flynn-Thursday.rpy:12637
+# game/Flynn-Thursday.rpy:12645
 translate Schinese flynnsunday_ddd2bbdc:
 
     # "My gaze drifts back to the beach and the bullet-ridden pinyon tree."
-    "My gaze drifts back to the beach and the bullet-ridden pinyon tree."
+    "@@@My gaze drifts back to the beach and the bullet-ridden pinyon tree."
 
-# game/Flynn-Thursday.rpy:12638
+# game/Flynn-Thursday.rpy:12646
 translate Schinese flynnsunday_50c277bc:
 
     # "I'm struck with a strange sense of solace - as if the spot would be somehow tranquil to me if circumstances were different."
-    "I'm struck with a strange sense of solace - as if the spot would be somehow tranquil to me if circumstances were different."
+    "@@@I'm struck with a strange sense of solace - as if the spot would be somehow tranquil to me if circumstances were different."
 
-# game/Flynn-Thursday.rpy:12639
+# game/Flynn-Thursday.rpy:12647
 translate Schinese flynnsunday_c4df292a:
 
     # "For now, I take stock of what's still in my soggy pockets: keys, phone (dead as hell, probably fried), and an old granola bar wrapper."
-    "For now, I take stock of what's still in my soggy pockets: keys, phone (dead as hell, probably fried), and an old granola bar wrapper."
+    "@@@For now, I take stock of what's still in my soggy pockets: keys, phone (dead as hell, probably fried), and an old granola bar wrapper."
 
-# game/Flynn-Thursday.rpy:12640
+# game/Flynn-Thursday.rpy:12648
 translate Schinese flynnsunday_c60d8b61:
 
     # "With a grunt, I make my way off the beach and toward the rail tracks."
-    "With a grunt, I make my way off the beach and toward the rail tracks."
+    "@@@With a grunt, I make my way off the beach and toward the rail tracks."
 
-# game/Flynn-Thursday.rpy:12644
+# game/Flynn-Thursday.rpy:12652
 translate Schinese flynnsunday_50c0b378:
 
     # "I follow the familiar route, passing the occasional abandoned freighter car."
-    "I follow the familiar route, passing the occasional abandoned freighter car."
+    "@@@I follow the familiar route, passing the occasional abandoned freighter car."
 
-# game/Flynn-Thursday.rpy:12645
+# game/Flynn-Thursday.rpy:12653
 translate Schinese flynnsunday_bbf7710c:
 
     # "It's been about fifteen minutes and so far no sight or sound of the gang, or any other miscellaneous townfolk."
-    "It's been about fifteen minutes and so far no sight or sound of the gang, or any other miscellaneous townfolk."
+    "@@@It's been about fifteen minutes and so far no sight or sound of the gang, or any other miscellaneous townfolk."
 
-# game/Flynn-Thursday.rpy:12646
+# game/Flynn-Thursday.rpy:12654
 translate Schinese flynnsunday_dd5216f9:
 
     # "I inadvertently find myself walking on top of the rails, balancing like I'm a kid again."
-    "I inadvertently find myself walking on top of the rails, balancing like I'm a kid again."
+    "@@@I inadvertently find myself walking on top of the rails, balancing like I'm a kid again."
 
-# game/Flynn-Thursday.rpy:12647
+# game/Flynn-Thursday.rpy:12655
 translate Schinese flynnsunday_02f22730:
 
     # "It kinda keeps the edge off and softens the noise of my footsteps, though it ain't very time efficient."
-    "It kinda keeps the edge off and softens the noise of my footsteps, though it ain't very time efficient."
+    "@@@It kinda keeps the edge off and softens the noise of my footsteps, though it ain't very time efficient."
 
-# game/Flynn-Thursday.rpy:12648
+# game/Flynn-Thursday.rpy:12656
 translate Schinese flynnsunday_41ab894d:
 
     # "It feels like by now I should be able to see Leo's house, but so far, nothing."
-    "It feels like by now I should be able to see Leo's house, but so far, nothing."
+    "@@@It feels like by now I should be able to see Leo's house, but so far, nothing."
 
-# game/Flynn-Thursday.rpy:12650
+# game/Flynn-Thursday.rpy:12658
 translate Schinese flynnsunday_92686d84:
 
     # "It isn't until the tracks dead-end perpendicular to the highway that I realize I'm being fucked with again."
-    "It isn't until the tracks dead-end perpendicular to the highway that I realize I'm being fucked with again."
+    "@@@It isn't until the tracks dead-end perpendicular to the highway that I realize I'm being fucked with again."
 
-# game/Flynn-Thursday.rpy:12651
+# game/Flynn-Thursday.rpy:12659
 translate Schinese flynnsunday_74298382:
 
     # "I stand at the edge of the pavement, where the old bike lane has been overtaken by weeds - pavement crumbling to gravel."
-    "I stand at the edge of the pavement, where the old bike lane has been overtaken by weeds - pavement crumbling to gravel."
+    "@@@I stand at the edge of the pavement, where the old bike lane has been overtaken by weeds - pavement crumbling to gravel."
 
-# game/Flynn-Thursday.rpy:12652
+# game/Flynn-Thursday.rpy:12660
 translate Schinese flynnsunday_62f8a3bc:
 
     # "I had hoped that the spatially-fucky shenanigans would end once we.. \"exited\" the van. But goddamn, why would it?"
-    "I had hoped that the spatially-fucky shenanigans would end once we.. \"exited\" the van. But goddamn, why would it?"
+    "@@@I had hoped that the spatially-fucky shenanigans would end once we.. \"exited\" the van. But goddamn, why would it?"
 
-# game/Flynn-Thursday.rpy:12653
+# game/Flynn-Thursday.rpy:12661
 translate Schinese flynnsunday_b09b89c8:
 
     # "{cps=22}{font=ui/belligerent.ttf}You're going the right way."
-    "{cps=22}{font=ui/belligerent.ttf}You're going the right way."
+    "@@@{cps=22}{font=ui/belligerent.ttf}You're going the right way."
 
-# game/Flynn-Thursday.rpy:12654
+# game/Flynn-Thursday.rpy:12662
 translate Schinese flynnsunday_2f9e3d01:
 
     # "The back of my skull tingles and I cup hands over the sides of my head."
-    "The back of my skull tingles and I cup hands over the sides of my head."
+    "@@@The back of my skull tingles and I cup hands over the sides of my head."
 
-# game/Flynn-Thursday.rpy:12655
+# game/Flynn-Thursday.rpy:12663
 translate Schinese flynnsunday_fd112be5:
 
     # "That wasn't my goddamn thought..."
-    "That wasn't my goddamn thought..."
+    "@@@That wasn't my goddamn thought..."
 
-# game/Flynn-Thursday.rpy:12656
+# game/Flynn-Thursday.rpy:12664
 translate Schinese flynnsunday_e3a0003e:
 
     # f "\"To Leo's?\""
-    f "\"To Leo's?\""
+    f "@@@\"To Leo's?\""
 
-# game/Flynn-Thursday.rpy:12657
+# game/Flynn-Thursday.rpy:12665
 translate Schinese flynnsunday_fe41cbae:
 
     # "I ask aloud, like the fucking loony I am."
-    "I ask aloud, like the fucking loony I am."
+    "@@@I ask aloud, like the fucking loony I am."
 
-# game/Flynn-Thursday.rpy:12658
+# game/Flynn-Thursday.rpy:12666
 translate Schinese flynnsunday_3a5740be:
 
     # "I wait."
-    "I wait."
+    "@@@I wait."
 
-# game/Flynn-Thursday.rpy:12659
+# game/Flynn-Thursday.rpy:12667
 translate Schinese flynnsunday_77d65967_1:
 
     # "No response."
-    "No response."
+    "@@@No response."
 
-# game/Flynn-Thursday.rpy:12660
+# game/Flynn-Thursday.rpy:12668
 translate Schinese flynnsunday_d9174c9d:
 
     # "I clench my fists to my sides."
-    "I clench my fists to my sides."
+    "@@@I clench my fists to my sides."
 
-# game/Flynn-Thursday.rpy:12661
+# game/Flynn-Thursday.rpy:12669
 translate Schinese flynnsunday_17dd5ed9:
 
     # f "\"Fuck it! Fuck this!\""
-    f "\"Fuck it! Fuck this!\""
+    f "@@@\"Fuck it! Fuck this!\""
 
-# game/Flynn-Thursday.rpy:12662
+# game/Flynn-Thursday.rpy:12670
 translate Schinese flynnsunday_7a97da10:
 
     # "I take off in a run down the road, keeping the powerlines on my right."
-    "I take off in a run down the road, keeping the powerlines on my right."
+    "@@@I take off in a run down the road, keeping the powerlines on my right."
 
-# game/Flynn-Thursday.rpy:12663
+# game/Flynn-Thursday.rpy:12671
 translate Schinese flynnsunday_8ffe0f78:
 
     # "I run mindlessly, knowing damn well the nature of the loop but trying not to think about it."
-    "I run mindlessly, knowing damn well the nature of the loop but trying not to think about it."
+    "@@@I run mindlessly, knowing damn well the nature of the loop but trying not to think about it."
 
-# game/Flynn-Thursday.rpy:12664
+# game/Flynn-Thursday.rpy:12672
 translate Schinese flynnsunday_9a32c724:
 
     # "I'm not usually the sort to do my running in Echo on account of the century's worth of broken glass that lines the sides of roads."
-    "I'm not usually the sort to do my running in Echo on account of the century's worth of broken glass that lines the sides of roads."
+    "@@@I'm not usually the sort to do my running in Echo on account of the century's worth of broken glass that lines the sides of roads."
 
-# game/Flynn-Thursday.rpy:12665
+# game/Flynn-Thursday.rpy:12673
 translate Schinese flynnsunday_96c13b6c:
 
     # "That, and the fact that the sight of a 6'7\" gila sprinting tends to naturally raise alarm, even with folk who already know who I am."
-    "That, and the fact that the sight of a 6'7\" gila sprinting tends to naturally raise alarm, even with folk who already know who I am."
+    "@@@That, and the fact that the sight of a 6'7\" gila sprinting tends to naturally raise alarm, even with folk who already know who I am."
 
-# game/Flynn-Thursday.rpy:12666
+# game/Flynn-Thursday.rpy:12674
 translate Schinese flynnsunday_cc17c2df:
 
     # "Somewhere between 30 minutes and an hour passes before I see something ahead."
-    "Somewhere between 30 minutes and an hour passes before I see something ahead."
+    "@@@Somewhere between 30 minutes and an hour passes before I see something ahead."
 
-# game/Flynn-Thursday.rpy:12674
+# game/Flynn-Thursday.rpy:12682
 translate Schinese flynnsunday_e16346e2:
 
     # "I stop somewhere along the centerline of the winding old highway, the cracked asphalt feeling like it's chipping away at my already blistered heels."
-    "I stop somewhere along the centerline of the winding old highway, the cracked asphalt feeling like it's chipping away at my already blistered heels."
+    "@@@I stop somewhere along the centerline of the winding old highway, the cracked asphalt feeling like it's chipping away at my already blistered heels."
 
-# game/Flynn-Thursday.rpy:12676
+# game/Flynn-Thursday.rpy:12684
 translate Schinese flynnsunday_b0c1ddc2:
 
     # "I stare at the faded red building. My truck is parked in the front for some reason."
-    "I stare at the faded red building. My truck is parked in the front for some reason."
+    "@@@I stare at the faded red building. My truck is parked in the front for some reason."
 
-# game/Flynn-Thursday.rpy:12677
+# game/Flynn-Thursday.rpy:12685
 translate Schinese flynnsunday_65ef4ab1:
 
     # f "\"Why the fuck am I here?\""
-    f "\"Why the fuck am I here?\""
+    f "@@@\"Why the fuck am I here?\""
 
-# game/Flynn-Thursday.rpy:12678
+# game/Flynn-Thursday.rpy:12686
 translate Schinese flynnsunday_a44f8a61:
 
     # "{cps=22}{font=ui/belligerent.ttf}Right. Why do you come here?"
-    "{cps=22}{font=ui/belligerent.ttf}Right. Why do you come here?"
+    "@@@{cps=22}{font=ui/belligerent.ttf}Right. Why do you come here?"
 
-# game/Flynn-Thursday.rpy:12679
+# game/Flynn-Thursday.rpy:12687
 translate Schinese flynnsunday_5a8c92b2:
 
     # "The voice in my head is clearer than before, like some harsh whisper coming from inside the back of my neck and slinking its way into my head."
-    "The voice in my head is clearer than before, like some harsh whisper coming from inside the back of my neck and slinking its way into my head."
+    "@@@The voice in my head is clearer than before, like some harsh whisper coming from inside the back of my neck and slinking its way into my head."
 
-# game/Flynn-Thursday.rpy:12680
+# game/Flynn-Thursday.rpy:12688
 translate Schinese flynnsunday_0ae07a63:
 
     # "It almost feels like I thought the words myself."
-    "It almost feels like I thought the words myself."
+    "@@@It almost feels like I thought the words myself."
 
-# game/Flynn-Thursday.rpy:12681
+# game/Flynn-Thursday.rpy:12689
 translate Schinese flynnsunday_c790bed1:
 
     # f "\"Is that a fucking clue?\""
-    f "\"Is that a fucking clue?\""
+    f "@@@\"Is that a fucking clue?\""
 
-# game/Flynn-Thursday.rpy:12682
+# game/Flynn-Thursday.rpy:12690
 translate Schinese flynnsunday_97852998:
 
     # "{cps=22}{font=ui/belligerent.ttf}It's a mystery."
-    "{cps=22}{font=ui/belligerent.ttf}It's a mystery."
+    "@@@{cps=22}{font=ui/belligerent.ttf}It's a mystery."
 
-# game/Flynn-Thursday.rpy:12683
+# game/Flynn-Thursday.rpy:12691
 translate Schinese flynnsunday_f92b8d05:
 
     # "My thought was rhetorical, and hearing it respond so aptly takes me off guard."
-    "My thought was rhetorical, and hearing it respond so aptly takes me off guard."
+    "@@@My thought was rhetorical, and hearing it respond so aptly takes me off guard."
 
-# game/Flynn-Thursday.rpy:12684
+# game/Flynn-Thursday.rpy:12692
 translate Schinese flynnsunday_607f9656:
 
     # "I clutch my throbbing head in both hands. I've gone full fucking schizo."
-    "I clutch my throbbing head in both hands. I've gone full fucking schizo."
+    "@@@I clutch my throbbing head in both hands. I've gone full fucking schizo."
 
-# game/Flynn-Thursday.rpy:12685
+# game/Flynn-Thursday.rpy:12693
 translate Schinese flynnsunday_76bfee75:
 
     # "When the weird shit's on the outside, it's one thing, but on the inside..."
-    "When the weird shit's on the outside, it's one thing, but on the inside..."
+    "@@@When the weird shit's on the outside, it's one thing, but on the inside..."
 
-# game/Flynn-Thursday.rpy:12686
+# game/Flynn-Thursday.rpy:12694
 translate Schinese flynnsunday_9894bf96:
 
     # "I grimace, bracing myself against the gate in front of me."
-    "I grimace, bracing myself against the gate in front of me."
+    "@@@I grimace, bracing myself against the gate in front of me."
 
-# game/Flynn-Thursday.rpy:12687
+# game/Flynn-Thursday.rpy:12695
 translate Schinese flynnsunday_b567af76:
 
     # "Gate?"
-    "Gate?"
+    "@@@Gate?"
 
-# game/Flynn-Thursday.rpy:12688
+# game/Flynn-Thursday.rpy:12696
 translate Schinese flynnsunday_9baf8eb1:
 
     # "There's no gate in front of this place in real life."
-    "There's no gate in front of this place in real life."
+    "@@@There's no gate in front of this place in real life."
 
-# game/Flynn-Thursday.rpy:12689
+# game/Flynn-Thursday.rpy:12697
 translate Schinese flynnsunday_03b4b7e1:
 
     # "I take a closer look, and see the entire place is fenced off, like some kinda high security complex."
-    "I take a closer look, and see the entire place is fenced off, like some kinda high security complex."
+    "@@@I take a closer look, and see the entire place is fenced off, like some kinda high security complex."
 
-# game/Flynn-Thursday.rpy:12690
+# game/Flynn-Thursday.rpy:12698
 translate Schinese flynnsunday_f501264d:
 
     # "A tarnished, rebar gate is the only entrance point - my truck just on the other side."
-    "A tarnished, rebar gate is the only entrance point - my truck just on the other side."
+    "@@@A tarnished, rebar gate is the only entrance point - my truck just on the other side."
 
-# game/Flynn-Thursday.rpy:12691
+# game/Flynn-Thursday.rpy:12699
 translate Schinese flynnsunday_fcc0329d:
 
     # "It's only about up to my chest in terms of height, though it's got security spikes about every foot along the top."
-    "It's only about up to my chest in terms of height, though it's got security spikes about every foot along the top."
+    "@@@It's only about up to my chest in terms of height, though it's got security spikes about every foot along the top."
 
-# game/Flynn-Thursday.rpy:12692
+# game/Flynn-Thursday.rpy:12700
 translate Schinese flynnsunday_081fcd67:
 
     # "A single keylock is all that keeps each side of the gate together."
-    "A single keylock is all that keeps each side of the gate together."
+    "@@@A single keylock is all that keeps each side of the gate together."
 
-# game/Flynn-Thursday.rpy:12693
+# game/Flynn-Thursday.rpy:12701
 translate Schinese flynnsunday_57c2e89b:
 
     # "It doesn't look too sturdy."
-    "It doesn't look too sturdy."
+    "@@@It doesn't look too sturdy."
 
-# game/Flynn-Thursday.rpy:12694
+# game/Flynn-Thursday.rpy:12702
 translate Schinese flynnsunday_9c6caea5:
 
     # "I eye the truck through the bars, and then check to make sure I still have my keys in my pocket."
-    "I eye the truck through the bars, and then check to make sure I still have my keys in my pocket."
+    "@@@I eye the truck through the bars, and then check to make sure I still have my keys in my pocket."
 
-# game/Flynn-Thursday.rpy:12695
+# game/Flynn-Thursday.rpy:12703
 translate Schinese flynnsunday_4f6ea54d:
 
     # "Sure enough, I feel the familiar leather saguaro keychain between my fingers."
-    "Sure enough, I feel the familiar leather saguaro keychain between my fingers."
+    "@@@Sure enough, I feel the familiar leather saguaro keychain between my fingers."
 
-# game/Flynn-Thursday.rpy:12699
+# game/Flynn-Thursday.rpy:12707
 translate Schinese flynnsunday_009afe52:
 
     # "Without even thinking, I take out my keys, flipping through to the ones for City Hall."
-    "Without even thinking, I take out my keys, flipping through to the ones for City Hall."
+    "@@@Without even thinking, I take out my keys, flipping through to the ones for City Hall."
 
-# game/Flynn-Thursday.rpy:12700
+# game/Flynn-Thursday.rpy:12708
 translate Schinese flynnsunday_5f4c926c:
 
     # "I grab the sides of the lock and push in the key, twisting."
-    "I grab the sides of the lock and push in the key, twisting."
+    "@@@I grab the sides of the lock and push in the key, twisting."
 
-# game/Flynn-Thursday.rpy:12702
+# game/Flynn-Thursday.rpy:12710
 translate Schinese flynnsunday_336e813e:
 
     # "To my surprise, I keep turning my wrist without resistance, and hear a soft click as the fastening point comes unlatched."
-    "To my surprise, I keep turning my wrist without resistance, and hear a soft click as the fastening point comes unlatched."
+    "@@@To my surprise, I keep turning my wrist without resistance, and hear a soft click as the fastening point comes unlatched."
 
-# game/Flynn-Thursday.rpy:12703
+# game/Flynn-Thursday.rpy:12711
 translate Schinese flynnsunday_d53299fc:
 
     # "I stare at the lock, feeling some fleeting sense of accomplishment."
-    "I stare at the lock, feeling some fleeting sense of accomplishment."
+    "@@@I stare at the lock, feeling some fleeting sense of accomplishment."
 
-# game/Flynn-Thursday.rpy:12704
+# game/Flynn-Thursday.rpy:12712
 translate Schinese flynnsunday_c7a69433:
 
     # "It soon falters as I note that the lock being there in the first place doesn't make a lick of sense."
-    "It soon falters as I note that the lock being there in the first place doesn't make a lick of sense."
+    "@@@It soon falters as I note that the lock being there in the first place doesn't make a lick of sense."
 
-# game/Flynn-Thursday.rpy:12705
+# game/Flynn-Thursday.rpy:12713
 translate Schinese flynnsunday_5f293c7b:
 
     # f "\"What in the fuckin' fuck...\""
-    f "\"What in the fuckin' fuck...\""
+    f "@@@\"What in the fuckin' fuck...\""
 
-# game/Flynn-Thursday.rpy:12706
+# game/Flynn-Thursday.rpy:12714
 translate Schinese flynnsunday_e8ce5a08:
 
     # "Also, the tips of my fingers that were grabbing the lock appear to have been stained black - paint of some kind."
-    "Also, the tips of my fingers that were grabbing the lock appear to have been stained black - paint of some kind."
+    "@@@Also, the tips of my fingers that were grabbing the lock appear to have been stained black - paint of some kind."
 
-# game/Flynn-Thursday.rpy:12707
+# game/Flynn-Thursday.rpy:12715
 translate Schinese flynnsunday_81cff31e:
 
     # "Someone must have painted the lock recently, though the fence itself still looks pretty faded."
-    "Someone must have painted the lock recently, though the fence itself still looks pretty faded."
+    "@@@Someone must have painted the lock recently, though the fence itself still looks pretty faded."
 
-# game/Flynn-Thursday.rpy:12710
+# game/Flynn-Thursday.rpy:12718
 translate Schinese flynnsunday_27a1b71a:
 
     # "Without even thinking, I grab the keylock and wrench it backward."
-    "Without even thinking, I grab the keylock and wrench it backward."
+    "@@@Without even thinking, I grab the keylock and wrench it backward."
 
-# game/Flynn-Thursday.rpy:12712
+# game/Flynn-Thursday.rpy:12720
 translate Schinese flynnsunday_ebc90caa:
 
     # "I can hear the old metal moan as the rusted fastening bonds begin to crack like snapped pretzels."
-    "I can hear the old metal moan as the rusted fastening bonds begin to crack like snapped pretzels."
+    "@@@I can hear the old metal moan as the rusted fastening bonds begin to crack like snapped pretzels."
 
-# game/Flynn-Thursday.rpy:12713
+# game/Flynn-Thursday.rpy:12721
 translate Schinese flynnsunday_d90b27ac:
 
     # "I take a deep breath and heave back again, harder this time - my tail slapping the dirt out of some primal instinct."
-    "I take a deep breath and heave back again, harder this time - my tail slapping the dirt out of some primal instinct."
+    "@@@I take a deep breath and heave back again, harder this time - my tail slapping the dirt out of some primal instinct."
 
-# game/Flynn-Thursday.rpy:12714
+# game/Flynn-Thursday.rpy:12722
 translate Schinese flynnsunday_745c9e8f:
 
     # f "\"Fuckin' thing, fuck off...\""
-    f "\"Fuckin' thing, fuck off...\""
+    f "@@@\"Fuckin' thing, fuck off...\""
 
-# game/Flynn-Thursday.rpy:12715
+# game/Flynn-Thursday.rpy:12723
 translate Schinese flynnsunday_04bc74db:
 
     # "I bite my lip, feeling the metal actually bend in my hands - bracing myself for the hard snap as the final soldered point breaks."
-    "I bite my lip, feeling the metal actually bend in my hands - bracing myself for the hard snap as the final soldered point breaks."
+    "@@@I bite my lip, feeling the metal actually bend in my hands - bracing myself for the hard snap as the final soldered point breaks."
 
-# game/Flynn-Thursday.rpy:12717
+# game/Flynn-Thursday.rpy:12725
 translate Schinese flynnsunday_67bb757e:
 
     # "The lock falls between my feet."
-    "The lock falls between my feet."
+    "@@@The lock falls between my feet."
 
-# game/Flynn-Thursday.rpy:12718
+# game/Flynn-Thursday.rpy:12726
 translate Schinese flynnsunday_43a6b187:
 
     # "I stare at the lock, feeling some fleeting sensation of accomplishment."
-    "I stare at the lock, feeling some fleeting sensation of accomplishment."
+    "@@@I stare at the lock, feeling some fleeting sensation of accomplishment."
 
-# game/Flynn-Thursday.rpy:12719
+# game/Flynn-Thursday.rpy:12727
 translate Schinese flynnsunday_c7a69433_1:
 
     # "It soon falters as I note that the lock being there in the first place doesn't make a lick of sense."
-    "It soon falters as I note that the lock being there in the first place doesn't make a lick of sense."
+    "@@@It soon falters as I note that the lock being there in the first place doesn't make a lick of sense."
 
-# game/Flynn-Thursday.rpy:12720
+# game/Flynn-Thursday.rpy:12728
 translate Schinese flynnsunday_5f293c7b_1:
 
     # f "\"What in the fuckin' fuck...\""
-    f "\"What in the fuckin' fuck...\""
+    f "@@@\"What in the fuckin' fuck...\""
 
-# game/Flynn-Thursday.rpy:12721
+# game/Flynn-Thursday.rpy:12729
 translate Schinese flynnsunday_bcf8d887:
 
     # "Also, the insides of my palms appear to have been stained black - paint of some kind."
-    "Also, the insides of my palms appear to have been stained black - paint of some kind."
+    "@@@Also, the insides of my palms appear to have been stained black - paint of some kind."
 
-# game/Flynn-Thursday.rpy:12722
+# game/Flynn-Thursday.rpy:12730
 translate Schinese flynnsunday_81cff31e_1:
 
     # "Someone must have painted the lock recently, though the fence itself still looks pretty faded."
-    "Someone must have painted the lock recently, though the fence itself still looks pretty faded."
+    "@@@Someone must have painted the lock recently, though the fence itself still looks pretty faded."
 
-# game/Flynn-Thursday.rpy:12724
+# game/Flynn-Thursday.rpy:12732
 translate Schinese flynnsunday_24299165:
 
     # "I wipe my hands off on the back of my pants and push open the gate."
-    "I wipe my hands off on the back of my pants and push open the gate."
+    "@@@I wipe my hands off on the back of my pants and push open the gate."
 
-# game/Flynn-Thursday.rpy:12725
+# game/Flynn-Thursday.rpy:12733
 translate Schinese flynnsunday_931d0a12:
 
     # "It only opens about six feet wide, nowhere near enough room to get my truck through."
-    "It only opens about six feet wide, nowhere near enough room to get my truck through."
+    "@@@It only opens about six feet wide, nowhere near enough room to get my truck through."
 
-# game/Flynn-Thursday.rpy:12726
+# game/Flynn-Thursday.rpy:12734
 translate Schinese flynnsunday_9733bf41:
 
     # "If I revved hard and gunned it, I could probably break through, though I've got a feeling that's not what I'm supposed to do."
-    "If I revved hard and gunned it, I could probably break through, though I've got a feeling that's not what I'm supposed to do."
+    "@@@If I revved hard and gunned it, I could probably break through, though I've got a feeling that's not what I'm supposed to do."
 
-# game/Flynn-Thursday.rpy:12727
+# game/Flynn-Thursday.rpy:12735
 translate Schinese flynnsunday_6815f1a8:
 
     # "There's not really a fence in front of this place. This isn't fucking real, but I'm seeing it."
-    "There's not really a fence in front of this place. This isn't fucking real, but I'm seeing it."
+    "@@@There's not really a fence in front of this place. This isn't fucking real, but I'm seeing it."
 
-# game/Flynn-Thursday.rpy:12728
+# game/Flynn-Thursday.rpy:12736
 translate Schinese flynnsunday_629d139d:
 
     # "So -why- am I seeing it? That's the fucking question, right?"
-    "So -why- am I seeing it? That's the fucking question, right?"
+    "@@@So -why- am I seeing it? That's the fucking question, right?"
 
-# game/Flynn-Thursday.rpy:12729
+# game/Flynn-Thursday.rpy:12737
 translate Schinese flynnsunday_d8f2150e:
 
     # "Duke's words from earlier come to mind:"
-    "Duke's words from earlier come to mind:"
+    "@@@Duke's words from earlier come to mind:"
 
-# game/Flynn-Thursday.rpy:12730
+# game/Flynn-Thursday.rpy:12738
 translate Schinese flynnsunday_d328578e:
 
     # "\"Thing is, we've all got somethin' after us, somethin' bad - won't let ya leave when it starts...\""
-    "\"Thing is, we've all got somethin' after us, somethin' bad - won't let ya leave when it starts...\""
+    "@@@\"Thing is, we've all got somethin' after us, somethin' bad - won't let ya leave when it starts...\""
 
-# game/Flynn-Thursday.rpy:12731
+# game/Flynn-Thursday.rpy:12739
 translate Schinese flynnsunday_cd4f5e09:
 
     # "\"What's after you?\""
-    "\"What's after you?\""
+    "@@@\"What's after you?\""
 
-# game/Flynn-Thursday.rpy:12732
+# game/Flynn-Thursday.rpy:12740
 translate Schinese flynnsunday_3b840ab7:
 
     # "As if knowing would fucking help right now, if not just be even more confusing in the long run."
-    "As if knowing would fucking help right now, if not just be even more confusing in the long run."
+    "@@@As if knowing would fucking help right now, if not just be even more confusing in the long run."
 
-# game/Flynn-Thursday.rpy:12733
+# game/Flynn-Thursday.rpy:12741
 translate Schinese flynnsunday_f93a6abd:
 
     # "I half-expect the voice from earlier to speak again, but it's silent - just a dull throb in the back of my head."
-    "I half-expect the voice from earlier to speak again, but it's silent - just a dull throb in the back of my head."
+    "@@@I half-expect the voice from earlier to speak again, but it's silent - just a dull throb in the back of my head."
 
-# game/Flynn-Thursday.rpy:12734
+# game/Flynn-Thursday.rpy:12742
 translate Schinese flynnsunday_a70417b6:
 
     # "The smart thing to do - the logical thing, as Dax would put it - would be to sit down under a nice tree and just.. ride this out like a bad trip."
-    "The smart thing to do - the logical thing, as Dax would put it - would be to sit down under a nice tree and just.. ride this out like a bad trip."
+    "@@@The smart thing to do - the logical thing, as Dax would put it - would be to sit down under a nice tree and just.. ride this out like a bad trip."
 
-# game/Flynn-Thursday.rpy:12735
+# game/Flynn-Thursday.rpy:12743
 translate Schinese flynnsunday_7a5e6c0b:
 
     # "Maybe get some sleep. That could fix it. Like turning a computer off and on again."
-    "Maybe get some sleep. That could fix it. Like turning a computer off and on again."
+    "@@@Maybe get some sleep. That could fix it. Like turning a computer off and on again."
 
-# game/Flynn-Thursday.rpy:12736
+# game/Flynn-Thursday.rpy:12744
 translate Schinese flynnsunday_60cbe990:
 
     # "I peer up at the sky."
-    "I peer up at the sky."
+    "@@@I peer up at the sky."
 
-# game/Flynn-Thursday.rpy:12737
+# game/Flynn-Thursday.rpy:12745
 translate Schinese flynnsunday_3481d984:
 
     # "The red lights from the building make it seem as though the sky itself was blood-red, expanding to various pinkish hues to the horizon."
-    "The red lights from the building make it seem as though the sky itself was blood-red, expanding to various pinkish hues to the horizon."
+    "@@@The red lights from the building make it seem as though the sky itself was blood-red, expanding to various pinkish hues to the horizon."
 
-# game/Flynn-Thursday.rpy:12738
+# game/Flynn-Thursday.rpy:12746
 translate Schinese flynnsunday_cc136cce:
 
     # "...Like fucking hell I could get a wink in during this shit."
-    "...Like fucking hell I could get a wink in during this shit."
+    "@@@...Like fucking hell I could get a wink in during this shit."
 
-# game/Flynn-Thursday.rpy:12739
+# game/Flynn-Thursday.rpy:12747
 translate Schinese flynnsunday_0db4b926:
 
     # "The pounding in the back of my skull just keeps thudding away, a constant beat that reverberates through my head like a cavern."
-    "The pounding in the back of my skull just keeps thudding away, a constant beat that reverberates through my head like a cavern."
+    "@@@The pounding in the back of my skull just keeps thudding away, a constant beat that reverberates through my head like a cavern."
 
-# game/Flynn-Thursday.rpy:12740
+# game/Flynn-Thursday.rpy:12748
 translate Schinese flynnsunday_ab3030bb:
 
     # "I step up to the door with the engraved bit of signage next to it."
-    "I step up to the door with the engraved bit of signage next to it."
+    "@@@I step up to the door with the engraved bit of signage next to it."
 
-# game/Flynn-Thursday.rpy:12741
+# game/Flynn-Thursday.rpy:12749
 translate Schinese flynnsunday_2f34dedd:
 
     # "\"{i}{b}Here for the seed?{/i}{/b}\""
-    "\"{i}{b}Here for the seed?{/i}{/b}\""
+    "@@@\"{i}{b}Here for the seed?{/i}{/b}\""
 
-# game/Flynn-Thursday.rpy:12742
+# game/Flynn-Thursday.rpy:12750
 translate Schinese flynnsunday_a20cefa7_5:
 
     # "..."
-    "..."
+    "@@@..."
 
-# game/Flynn-Thursday.rpy:12743
+# game/Flynn-Thursday.rpy:12751
 translate Schinese flynnsunday_55aeea6e:
 
     # "That of course ain't what it usually says."
-    "That of course ain't what it usually says."
+    "@@@That of course ain't what it usually says."
 
-# game/Flynn-Thursday.rpy:12744
+# game/Flynn-Thursday.rpy:12752
 translate Schinese flynnsunday_c2faa2c4:
 
     # "The cheeky-ass winking smiley face is still there, though."
-    "The cheeky-ass winking smiley face is still there, though."
+    "@@@The cheeky-ass winking smiley face is still there, though."
 
-# game/Flynn-Thursday.rpy:12745
+# game/Flynn-Thursday.rpy:12753
 translate Schinese flynnsunday_bea05e9f:
 
     # "I let out a short sigh."
-    "I let out a short sigh."
+    "@@@I let out a short sigh."
 
-# game/Flynn-Thursday.rpy:12746
+# game/Flynn-Thursday.rpy:12754
 translate Schinese flynnsunday_b4fc0d1f:
 
     # f "\"You fuckin' idiot.\""
-    f "\"You fuckin' idiot.\""
+    f "@@@\"You fuckin' idiot.\""
 
-# game/Flynn-Thursday.rpy:12748
+# game/Flynn-Thursday.rpy:12756
 translate Schinese flynnsunday_46ab941a:
 
     # "I turn the handle and pull, but it doesn't budge."
-    "I turn the handle and pull, but it doesn't budge."
+    "@@@I turn the handle and pull, but it doesn't budge."
 
-# game/Flynn-Thursday.rpy:12749
+# game/Flynn-Thursday.rpy:12757
 translate Schinese flynnsunday_cf1d8e42:
 
     # "I push next, and still nothing."
-    "I push next, and still nothing."
+    "@@@I push next, and still nothing."
 
-# game/Flynn-Thursday.rpy:12750
+# game/Flynn-Thursday.rpy:12758
 translate Schinese flynnsunday_da0c8a2d:
 
     # "The handle shouldn't turn if it's locked. I'd know, I've been here before when it was."
-    "The handle shouldn't turn if it's locked. I'd know, I've been here before when it was."
+    "@@@The handle shouldn't turn if it's locked. I'd know, I've been here before when it was."
 
-# game/Flynn-Thursday.rpy:12751
+# game/Flynn-Thursday.rpy:12759
 translate Schinese flynnsunday_a96ab161:
 
     # "I push once more and am surprised that it gives - the door opening."
-    "I push once more and am surprised that it gives - the door opening."
+    "@@@I push once more and am surprised that it gives - the door opening."
 
-# game/Flynn-Thursday.rpy:12752
+# game/Flynn-Thursday.rpy:12760
 translate Schinese flynnsunday_9a2eba7a:
 
     # "I only leave it open a crack, still a bit wary about whatever weirdness lies within."
-    "I only leave it open a crack, still a bit wary about whatever weirdness lies within."
+    "@@@I only leave it open a crack, still a bit wary about whatever weirdness lies within."
 
-# game/Flynn-Thursday.rpy:12753
+# game/Flynn-Thursday.rpy:12761
 translate Schinese flynnsunday_599cba15:
 
     # "The first thing I notice is the burning smell. It's stronger than it is outside."
-    "The first thing I notice is the burning smell. It's stronger than it is outside."
+    "@@@The first thing I notice is the burning smell. It's stronger than it is outside."
 
-# game/Flynn-Thursday.rpy:12754
+# game/Flynn-Thursday.rpy:12762
 translate Schinese flynnsunday_90c6e708:
 
     # "It's hot as hell, too."
-    "It's hot as hell, too."
+    "@@@It's hot as hell, too."
 
-# game/Flynn-Thursday.rpy:12756
+# game/Flynn-Thursday.rpy:12764
 translate Schinese flynnsunday_7baab70b:
 
     # "If this place had a kitchen, I'd swear something was being overcooked in it."
-    "If this place had a kitchen, I'd swear something was being overcooked in it."
+    "@@@If this place had a kitchen, I'd swear something was being overcooked in it."
 
-# game/Flynn-Thursday.rpy:12761
+# game/Flynn-Thursday.rpy:12769
 translate Schinese flynnsunday_2e31c5ac:
 
     # "At first, it's quiet. Nothing but the creaking wood beneath my feet."
-    "At first, it's quiet. Nothing but the creaking wood beneath my feet."
+    "@@@At first, it's quiet. Nothing but the creaking wood beneath my feet."
 
-# game/Flynn-Thursday.rpy:12762
+# game/Flynn-Thursday.rpy:12770
 translate Schinese flynnsunday_ad712781:
 
     # "Then.."
-    "Then.."
+    "@@@Then.."
 
-# game/Flynn-Thursday.rpy:12764
+# game/Flynn-Thursday.rpy:12772
 translate Schinese flynnsunday_dbea6ed8:
 
     # "..music starts to play."
-    "..music starts to play."
+    "@@@..music starts to play."
 
-# game/Flynn-Thursday.rpy:12765
+# game/Flynn-Thursday.rpy:12773
 translate Schinese flynnsunday_65c1d006:
 
     # "I notice the boxy television set in the corner of the room is turned on, a grainy, old cricket match on the screen."
-    "I notice the boxy television set in the corner of the room is turned on, a grainy, old cricket match on the screen."
+    "@@@I notice the boxy television set in the corner of the room is turned on, a grainy, old cricket match on the screen."
 
-# game/Flynn-Thursday.rpy:12766
+# game/Flynn-Thursday.rpy:12774
 translate Schinese flynnsunday_65a678d8:
 
     # "It's all very much the same from what I remember, except for a lone otter sitting at the bar counter."
-    "It's all very much the same from what I remember, except for a lone otter sitting at the bar counter."
+    "@@@It's all very much the same from what I remember, except for a lone otter sitting at the bar counter."
 
-# game/Flynn-Thursday.rpy:12767
+# game/Flynn-Thursday.rpy:12775
 translate Schinese flynnsunday_48e3ab58:
 
     # "He's holding something to his head.. an icepack, and he's nursing some shitty import pale ale in his free paw."
-    "He's holding something to his head.. an icepack, and he's nursing some shitty import pale ale in his free paw."
+    "@@@He's holding something to his head.. an icepack, and he's nursing some shitty import pale ale in his free paw."
 
-# game/Flynn-Thursday.rpy:12768
+# game/Flynn-Thursday.rpy:12776
 translate Schinese flynnsunday_9063f3f7:
 
     # "There's no one else in here but him, at least in the front area."
-    "There's no one else in here but him, at least in the front area."
+    "@@@There's no one else in here but him, at least in the front area."
 
-# game/Flynn-Thursday.rpy:12769
+# game/Flynn-Thursday.rpy:12777
 translate Schinese flynnsunday_e8b64cfb:
 
     # f "\"Hey, you!\""
-    f "\"Hey, you!\""
+    f "@@@\"Hey, you!\""
 
-# game/Flynn-Thursday.rpy:12770
+# game/Flynn-Thursday.rpy:12778
 translate Schinese flynnsunday_b08d5d13:
 
     # "The otter's posture stiffens."
-    "The otter's posture stiffens."
+    "@@@The otter's posture stiffens."
 
-# game/Flynn-Thursday.rpy:12771
+# game/Flynn-Thursday.rpy:12779
 translate Schinese flynnsunday_4ad59776:
 
     # f "\"Yeah, you! Are you real?\""
-    f "\"Yeah, you! Are you real?\""
+    f "@@@\"Yeah, you! Are you real?\""
 
-# game/Flynn-Thursday.rpy:12772
+# game/Flynn-Thursday.rpy:12780
 translate Schinese flynnsunday_10dc9de8:
 
     # unk "\"What?\""
-    unk "\"What?\""
+    unk "@@@\"What?\""
 
-# game/Flynn-Thursday.rpy:12773
+# game/Flynn-Thursday.rpy:12781
 translate Schinese flynnsunday_240919eb:
 
     # "He responds back, his tone exasperated and groggy."
-    "He responds back, his tone exasperated and groggy."
+    "@@@He responds back, his tone exasperated and groggy."
 
-# game/Flynn-Thursday.rpy:12774
+# game/Flynn-Thursday.rpy:12782
 translate Schinese flynnsunday_49fd23cd:
 
     # "Confusion. That's a.. good sign, I guess."
-    "Confusion. That's a.. good sign, I guess."
+    "@@@Confusion. That's a.. good sign, I guess."
 
-# game/Flynn-Thursday.rpy:12775
+# game/Flynn-Thursday.rpy:12783
 translate Schinese flynnsunday_a497d4e5:
 
     # "I step a little closer, the otter using the bar counter to rotate himself in his swivel bar stool."
-    "I step a little closer, the otter using the bar counter to rotate himself in his swivel bar stool."
+    "@@@I step a little closer, the otter using the bar counter to rotate himself in his swivel bar stool."
 
-# game/Flynn-Thursday.rpy:12776
+# game/Flynn-Thursday.rpy:12784
 translate Schinese flynnsunday_13584d89:
 
     # "He's decked out in a skull t-shirt, cargo pants, and one of those lame scout caps that only jarheads, leather daddies, and theater kids wear."
-    "He's decked out in a skull t-shirt, cargo pants, and one of those lame scout caps that only jarheads, leather daddies, and theater kids wear."
+    "@@@He's decked out in a skull t-shirt, cargo pants, and one of those lame scout caps that only jarheads, leather daddies, and theater kids wear."
 
-# game/Flynn-Thursday.rpy:12777
+# game/Flynn-Thursday.rpy:12785
 translate Schinese flynnsunday_bbdf1d36:
 
     # "He seems dazed, squinting at me like I'm a bright light."
-    "He seems dazed, squinting at me like I'm a bright light."
+    "@@@He seems dazed, squinting at me like I'm a bright light."
 
-# game/Flynn-Thursday.rpy:12778
+# game/Flynn-Thursday.rpy:12786
 translate Schinese flynnsunday_918669ef:
 
     # unk "\"Someone tunin' up an orchestra in here?\""
-    unk "\"Someone tunin' up an orchestra in here?\""
+    unk "@@@\"Someone tunin' up an orchestra in here?\""
 
-# game/Flynn-Thursday.rpy:12779
+# game/Flynn-Thursday.rpy:12787
 translate Schinese flynnsunday_2aa0ff41_2:
 
     # f "\"What?\""
-    f "\"What?\""
+    f "@@@\"What?\""
 
-# game/Flynn-Thursday.rpy:12780
+# game/Flynn-Thursday.rpy:12788
 translate Schinese flynnsunday_ab7c17b6:
 
     # "After a moment, something seems to click and his eyes widen slightly - a long smile crossing his snouty muzzle."
-    "After a moment, something seems to click and his eyes widen slightly - a long smile crossing his snouty muzzle."
+    "@@@After a moment, something seems to click and his eyes widen slightly - a long smile crossing his snouty muzzle."
 
-# game/Flynn-Thursday.rpy:12781
+# game/Flynn-Thursday.rpy:12789
 translate Schinese flynnsunday_e77cc921:
 
     # unk "\"Motherfucker.\""
-    unk "\"Motherfucker.\""
+    unk "@@@\"Motherfucker.\""
 
-# game/Flynn-Thursday.rpy:12782
+# game/Flynn-Thursday.rpy:12790
 translate Schinese flynnsunday_bb64db51:
 
     # "He pushes himself to his feet, making his way through the bar's haze."
-    "He pushes himself to his feet, making his way through the bar's haze."
+    "@@@He pushes himself to his feet, making his way through the bar's haze."
 
-# game/Flynn-Thursday.rpy:12785
+# game/Flynn-Thursday.rpy:12793
 translate Schinese flynnsunday_435a09d0:
 
     # unk "\"What are ya doing here, you big-ass bitch?\""
-    unk "\"What are ya doing here, you big-ass bitch?\""
+    unk "@@@\"What are ya doing here, you big-ass bitch?\""
 
-# game/Flynn-Thursday.rpy:12786
+# game/Flynn-Thursday.rpy:12794
 translate Schinese flynnsunday_79d6da65:
 
     # "He claps my shoulder roughly, then pulls me into a tight hug."
-    "He claps my shoulder roughly, then pulls me into a tight hug."
+    "@@@He claps my shoulder roughly, then pulls me into a tight hug."
 
-# game/Flynn-Thursday.rpy:12787
+# game/Flynn-Thursday.rpy:12795
 translate Schinese flynnsunday_6171302f:
 
     # "For an otter, he's got a strong grip, and I actually urk aloud as he pats my back."
-    "For an otter, he's got a strong grip, and I actually urk aloud as he pats my back."
+    "@@@For an otter, he's got a strong grip, and I actually urk aloud as he pats my back."
 
-# game/Flynn-Thursday.rpy:12788
+# game/Flynn-Thursday.rpy:12796
 translate Schinese flynnsunday_b93975e3:
 
     # f "\"The fuck? What the hell are {i}you{/i} doin'?\""
-    f "\"The fuck? What the hell are {i}you{/i} doin'?\""
+    f "@@@\"The fuck? What the hell are {i}you{/i} doin'?\""
 
-# game/Flynn-Thursday.rpy:12789
+# game/Flynn-Thursday.rpy:12797
 translate Schinese flynnsunday_509eef1d:
 
     # "After a moment, he pulls away, raising a shadowed brow beneath his hat."
-    "After a moment, he pulls away, raising a shadowed brow beneath his hat."
+    "@@@After a moment, he pulls away, raising a shadowed brow beneath his hat."
 
-# game/Flynn-Thursday.rpy:12790
+# game/Flynn-Thursday.rpy:12798
 translate Schinese flynnsunday_52d85597:
 
     # "It's then I notice his eyes: baby blue.. almost grey."
-    "It's then I notice his eyes: baby blue.. almost grey."
+    "@@@It's then I notice his eyes: baby blue.. almost grey."
 
-# game/Flynn-Thursday.rpy:12791
+# game/Flynn-Thursday.rpy:12799
 translate Schinese flynnsunday_20d5a23a:
 
     # "Not a common color for his kind of otter."
-    "Not a common color for his kind of otter."
+    "@@@Not a common color for his kind of otter."
 
-# game/Flynn-Thursday.rpy:12792
+# game/Flynn-Thursday.rpy:12800
 translate Schinese flynnsunday_dd0e6d5a:
 
     # "There's some bags under them though, like he hasn't slept in some time."
-    "There's some bags under them though, like he hasn't slept in some time."
+    "@@@There's some bags under them though, like he hasn't slept in some time."
 
-# game/Flynn-Thursday.rpy:12793
+# game/Flynn-Thursday.rpy:12801
 translate Schinese flynnsunday_b1f36f5e:
 
     # unk "\"I was fixing to ask you the same thing.\""
-    unk "\"I was fixing to ask you the same thing.\""
+    unk "@@@\"I was fixing to ask you the same thing.\""
 
-# game/Flynn-Thursday.rpy:12794
+# game/Flynn-Thursday.rpy:12802
 translate Schinese flynnsunday_15a40642:
 
     # unk "\"It's been dead all night, and I wasn't expecting company.\""
-    unk "\"It's been dead all night, and I wasn't expecting company.\""
+    unk "@@@\"It's been dead all night, and I wasn't expecting company.\""
 
-# game/Flynn-Thursday.rpy:12795
+# game/Flynn-Thursday.rpy:12803
 translate Schinese flynnsunday_ed45cc42:
 
     # unk "\"It's kinda unreal seeing you here like this, though. It's been..\""
-    unk "\"It's kinda unreal seeing you here like this, though. It's been..\""
+    unk "@@@\"It's kinda unreal seeing you here like this, though. It's been..\""
 
-# game/Flynn-Thursday.rpy:12796
+# game/Flynn-Thursday.rpy:12804
 translate Schinese flynnsunday_d2a9f934:
 
     # "He huffs, astonished and with a slight air of sheepishness."
-    "He huffs, astonished and with a slight air of sheepishness."
+    "@@@He huffs, astonished and with a slight air of sheepishness."
 
-# game/Flynn-Thursday.rpy:12797
+# game/Flynn-Thursday.rpy:12805
 translate Schinese flynnsunday_c9238d47:
 
     # unk "\"..well, a while.\""
-    unk "\"..well, a while.\""
+    unk "@@@\"..well, a while.\""
 
-# game/Flynn-Thursday.rpy:12798
+# game/Flynn-Thursday.rpy:12806
 translate Schinese flynnsunday_49be2061:
 
     # "He folds his arms over his chest, the otter looking up at me from beneath the brim of his hat with a sort of wry expression."
-    "He folds his arms over his chest, the otter looking up at me from beneath the brim of his hat with a sort of wry expression."
+    "@@@He folds his arms over his chest, the otter looking up at me from beneath the brim of his hat with a sort of wry expression."
 
-# game/Flynn-Thursday.rpy:12799
+# game/Flynn-Thursday.rpy:12807
 translate Schinese flynnsunday_db691b83:
 
     # "He seems happy to see me."
-    "He seems happy to see me."
+    "@@@He seems happy to see me."
 
-# game/Flynn-Thursday.rpy:12800
+# game/Flynn-Thursday.rpy:12808
 translate Schinese flynnsunday_276ad740:
 
     # "And it's all so.. familiar."
-    "And it's all so.. familiar."
+    "@@@And it's all so.. familiar."
 
-# game/Flynn-Thursday.rpy:12801
+# game/Flynn-Thursday.rpy:12809
 translate Schinese flynnsunday_6f754093:
 
     # f "\"Wait a second...\""
-    f "\"Wait a second...\""
+    f "@@@\"Wait a second...\""
 
-# game/Flynn-Thursday.rpy:12802
+# game/Flynn-Thursday.rpy:12810
 translate Schinese flynnsunday_2cc7b95a:
 
     # "I blink."
-    "I blink."
+    "@@@I blink."
 
-# game/Flynn-Thursday.rpy:12803
+# game/Flynn-Thursday.rpy:12811
 translate Schinese flynnsunday_5cdd1266:
 
     # f "\"Jesus fuck, {i}Syd{/i}!?\""
-    f "\"Jesus fuck, {i}Syd{/i}!?\""
+    f "@@@\"Jesus fuck, {i}Syd{/i}!?\""
 
-# game/Flynn-Thursday.rpy:12804
+# game/Flynn-Thursday.rpy:12812
 translate Schinese flynnsunday_21ad1f7c:
 
     # "He lets out an amused noise, nodding."
-    "He lets out an amused noise, nodding."
+    "@@@He lets out an amused noise, nodding."
 
-# game/Flynn-Thursday.rpy:12805
+# game/Flynn-Thursday.rpy:12813
 translate Schinese flynnsunday_4d0440f3:
 
     # sy "\"Yeah!\""
-    sy "\"Yeah!\""
+    sy "@@@\"Yeah!\""
 
-# game/Flynn-Thursday.rpy:12806
+# game/Flynn-Thursday.rpy:12814
 translate Schinese flynnsunday_6fbd299b:
 
     # sy "\"Wait...\""
-    sy "\"Wait...\""
+    sy "@@@\"Wait...\""
 
-# game/Flynn-Thursday.rpy:12807
+# game/Flynn-Thursday.rpy:12815
 translate Schinese flynnsunday_7e0ee04a:
 
     # sy "\"Don't you even try to tell me that you're here by coincidence.\""
-    sy "\"Don't you even try to tell me that you're here by coincidence.\""
+    sy "@@@\"Don't you even try to tell me that you're here by coincidence.\""
 
-# game/Flynn-Thursday.rpy:12808
+# game/Flynn-Thursday.rpy:12816
 translate Schinese flynnsunday_b8c91de5:
 
     # "He's.. an adult? Fucking six feet tall, I'd reckon."
-    "He's.. an adult? Fucking six feet tall, I'd reckon."
+    "@@@He's.. an adult? Fucking six feet tall, I'd reckon."
 
-# game/Flynn-Thursday.rpy:12809
+# game/Flynn-Thursday.rpy:12817
 translate Schinese flynnsunday_a35f9075:
 
     # "He's in shape too, rocking a full-on muscle shirt."
-    "He's in shape too, rocking a full-on muscle shirt."
+    "@@@He's in shape too, rocking a full-on muscle shirt."
 
-# game/Flynn-Thursday.rpy:12810
+# game/Flynn-Thursday.rpy:12818
 translate Schinese flynnsunday_7c9f8110:
 
     # "I look around, as if expecting to see Chase round a corner with a video-camera and a shit-eating grin."
-    "I look around, as if expecting to see Chase round a corner with a video-camera and a shit-eating grin."
+    "@@@I look around, as if expecting to see Chase round a corner with a video-camera and a shit-eating grin."
 
-# game/Flynn-Thursday.rpy:12811
+# game/Flynn-Thursday.rpy:12819
 translate Schinese flynnsunday_11638272:
 
     # "There's still no one around but us, though."
-    "There's still no one around but us, though."
+    "@@@There's still no one around but us, though."
 
-# game/Flynn-Thursday.rpy:12812
+# game/Flynn-Thursday.rpy:12820
 translate Schinese flynnsunday_2f3c816a:
 
     # f "\"I'm sure there's a reason {i}I'm{/i} here...\""
-    f "\"I'm sure there's a reason {i}I'm{/i} here...\""
+    f "@@@\"I'm sure there's a reason {i}I'm{/i} here...\""
 
-# game/Flynn-Thursday.rpy:12813
+# game/Flynn-Thursday.rpy:12821
 translate Schinese flynnsunday_75518684:
 
     # "He seems to perk up some, doing a one-handed finger gun gesture my way while the other nurses an icepack against his head."
-    "He seems to perk up some, doing a one-handed finger gun gesture my way while the other nurses an icepack against his head."
+    "@@@He seems to perk up some, doing a one-handed finger gun gesture my way while the other nurses an icepack against his head."
 
-# game/Flynn-Thursday.rpy:12814
+# game/Flynn-Thursday.rpy:12822
 translate Schinese flynnsunday_127117c1:
 
     # sy "\"Knew it. I mean, I'm glad, yeah!\""
-    sy "\"Knew it. I mean, I'm glad, yeah!\""
+    sy "@@@\"Knew it. I mean, I'm glad, yeah!\""
 
-# game/Flynn-Thursday.rpy:12815
+# game/Flynn-Thursday.rpy:12823
 translate Schinese flynnsunday_82a19c87:
 
     # sy "\"Did you get my Christmas package? I wasn't sure you'd like it. Saw them in the Macy-May's Thrift down in Elwin.\""
-    sy "\"Did you get my Christmas package? I wasn't sure you'd like it. Saw them in the Macy-May's Thrift down in Elwin.\""
+    sy "@@@\"Did you get my Christmas package? I wasn't sure you'd like it. Saw them in the Macy-May's Thrift down in Elwin.\""
 
-# game/Flynn-Thursday.rpy:12816
+# game/Flynn-Thursday.rpy:12824
 translate Schinese flynnsunday_88a86ba4:
 
     # sy "\"Haunted Hacienda, Deadly Love Rivals II, Final Obsession, The Choir Boy, and Whore Sleuth - shitty b-movies I got from the bargain bin.\""
-    sy "\"Haunted Hacienda, Deadly Love Rivals II, Final Obsession, The Choir Boy, and Whore Sleuth - shitty b-movies I got from the bargain bin.\""
+    sy "@@@\"Haunted Hacienda, Deadly Love Rivals II, Final Obsession, The Choir Boy, and Whore Sleuth - shitty b-movies I got from the bargain bin.\""
 
-# game/Flynn-Thursday.rpy:12817
+# game/Flynn-Thursday.rpy:12825
 translate Schinese flynnsunday_4cc86df8:
 
     # sy "\"Y'know the sort: not a lot of plot to get in the way of the film.\""
-    sy "\"Y'know the sort: not a lot of plot to get in the way of the film.\""
+    sy "@@@\"Y'know the sort: not a lot of plot to get in the way of the film.\""
 
-# game/Flynn-Thursday.rpy:12818
+# game/Flynn-Thursday.rpy:12826
 translate Schinese flynnsunday_730151dd:
 
     # sy "\"Plus, I bundled them up with a buncha Crossfire Shooting mags.\""
-    sy "\"Plus, I bundled them up with a buncha Crossfire Shooting mags.\""
+    sy "@@@\"Plus, I bundled them up with a buncha Crossfire Shooting mags.\""
 
-# game/Flynn-Thursday.rpy:12819
+# game/Flynn-Thursday.rpy:12827
 translate Schinese flynnsunday_d739559a:
 
     # sy "\"Oh yeah! I also threw in some jerky I got from a trade show after my match in Desert Springs.\""
-    sy "\"Oh yeah! I also threw in some jerky I got from a trade show after my match in Desert Springs.\""
+    sy "@@@\"Oh yeah! I also threw in some jerky I got from a trade show after my match in Desert Springs.\""
 
-# game/Flynn-Thursday.rpy:12820
+# game/Flynn-Thursday.rpy:12828
 translate Schinese flynnsunday_c4a2b4c7:
 
     # sy "\"The jerky - it's super good - hatch green chili flavored. Y'know that's where they grow that shit en masse, right? World capital.\""
-    sy "\"The jerky - it's super good - hatch green chili flavored. Y'know that's where they grow that shit en masse, right? World capital.\""
+    sy "@@@\"The jerky - it's super good - hatch green chili flavored. Y'know that's where they grow that shit en masse, right? World capital.\""
 
-# game/Flynn-Thursday.rpy:12821
+# game/Flynn-Thursday.rpy:12829
 translate Schinese flynnsunday_f8dff869:
 
     # "I can't help but stare, absolutely flabbergasted."
-    "I can't help but stare, absolutely flabbergasted."
+    "@@@I can't help but stare, absolutely flabbergasted."
 
-# game/Flynn-Thursday.rpy:12822
+# game/Flynn-Thursday.rpy:12830
 translate Schinese flynnsunday_47b2039c:
 
     # "This is what he'd look like."
-    "This is what he'd look like."
+    "@@@This is what he'd look like."
 
-# game/Flynn-Thursday.rpy:12824
+# game/Flynn-Thursday.rpy:12832
 translate Schinese flynnsunday_0e83671d:
 
     # "When I don't immediately respond, his smile dissipates some."
-    "When I don't immediately respond, his smile dissipates some."
+    "@@@When I don't immediately respond, his smile dissipates some."
 
-# game/Flynn-Thursday.rpy:12825
+# game/Flynn-Thursday.rpy:12833
 translate Schinese flynnsunday_ce1ee6b9:
 
     # sy "\"Maybe you.. didn't get it. Fuckin' delivery guys, right? Probably some weasel or something with a good smeller-\""
-    sy "\"Maybe you.. didn't get it. Fuckin' delivery guys, right? Probably some weasel or something with a good smeller-\""
+    sy "@@@\"Maybe you.. didn't get it. Fuckin' delivery guys, right? Probably some weasel or something with a good smeller-\""
 
-# game/Flynn-Thursday.rpy:12826
+# game/Flynn-Thursday.rpy:12834
 translate Schinese flynnsunday_a9e92ed8:
 
     # "He honks his own black nose."
-    "He honks his own black nose."
+    "@@@He honks his own black nose."
 
-# game/Flynn-Thursday.rpy:12827
+# game/Flynn-Thursday.rpy:12835
 translate Schinese flynnsunday_a107ca0d:
 
     # sy "\"-pining for my jerky.\""
-    sy "\"-pining for my jerky.\""
+    sy "@@@\"-pining for my jerky.\""
 
-# game/Flynn-Thursday.rpy:12828
+# game/Flynn-Thursday.rpy:12836
 translate Schinese flynnsunday_3f612c58:
 
     # f "\"Am I fucking dreaming right now?\""
-    f "\"Am I fucking dreaming right now?\""
+    f "@@@\"Am I fucking dreaming right now?\""
 
-# game/Flynn-Thursday.rpy:12829
+# game/Flynn-Thursday.rpy:12837
 translate Schinese flynnsunday_69d15613:
 
     # f "\"Am I asleep, or just tripping?\""
-    f "\"Am I asleep, or just tripping?\""
+    f "@@@\"Am I asleep, or just tripping?\""
 
-# game/Flynn-Thursday.rpy:12830
+# game/Flynn-Thursday.rpy:12838
 translate Schinese flynnsunday_2e504a7f:
 
     # "The otter.. Sydney, he's looking at me more worriedly."
-    "The otter.. Sydney, he's looking at me more worriedly."
+    "@@@The otter.. Sydney, he's looking at me more worriedly."
 
-# game/Flynn-Thursday.rpy:12831
+# game/Flynn-Thursday.rpy:12839
 translate Schinese flynnsunday_2e2b5fa5:
 
     # sy "\"..you, uh.. wanna sit down or something?\""
-    sy "\"..you, uh.. wanna sit down or something?\""
+    sy "@@@\"..you, uh.. wanna sit down or something?\""
 
-# game/Flynn-Thursday.rpy:12832
+# game/Flynn-Thursday.rpy:12840
 translate Schinese flynnsunday_0d5c48cc:
 
     # f "\"Uh...\""
-    f "\"Uh...\""
+    f "@@@\"Uh...\""
 
-# game/Flynn-Thursday.rpy:12833
+# game/Flynn-Thursday.rpy:12841
 translate Schinese flynnsunday_5a88ffc1:
 
     # "I look around at the still empty bar."
-    "I look around at the still empty bar."
+    "@@@I look around at the still empty bar."
 
-# game/Flynn-Thursday.rpy:12834
+# game/Flynn-Thursday.rpy:12842
 translate Schinese flynnsunday_37cdee60:
 
     # "Façade or not, my legs are killing me."
-    "Façade or not, my legs are killing me."
+    "@@@Façade or not, my legs are killing me."
 
-# game/Flynn-Thursday.rpy:12835
+# game/Flynn-Thursday.rpy:12843
 translate Schinese flynnsunday_c61b465f:
 
     # f "\"..sure.\""
-    f "\"..sure.\""
+    f "@@@\"..sure.\""
 
-# game/Flynn-Thursday.rpy:12839
+# game/Flynn-Thursday.rpy:12847
 translate Schinese flynnsunday_5403b932:
 
     # "He motions toward some old wood and velvet barstools next to a raised table in the corner and we take our seats."
-    "He motions toward some old wood and velvet barstools next to a raised table in the corner and we take our seats."
+    "@@@He motions toward some old wood and velvet barstools next to a raised table in the corner and we take our seats."
 
-# game/Flynn-Thursday.rpy:12840
+# game/Flynn-Thursday.rpy:12848
 translate Schinese flynnsunday_32fa98dc:
 
     # "After Sydney grabs his drink of course."
-    "After Sydney grabs his drink of course."
+    "@@@After Sydney grabs his drink of course."
 
-# game/Flynn-Thursday.rpy:12843
+# game/Flynn-Thursday.rpy:12850
 translate Schinese flynnsunday_b34fe13c:
 
     # sy "\"I don't know where the bartender went.\""
-    sy "\"I don't know where the bartender went.\""
+    sy "@@@\"I don't know where the bartender went.\""
 
-# game/Flynn-Thursday.rpy:12844
+# game/Flynn-Thursday.rpy:12851
 translate Schinese flynnsunday_6f28f63d:
 
     # f "\"He's.. usually in the back.\""
-    f "\"He's.. usually in the back.\""
+    f "@@@\"He's.. usually in the back.\""
 
-# game/Flynn-Thursday.rpy:12845
+# game/Flynn-Thursday.rpy:12852
 translate Schinese flynnsunday_d9dd2826:
 
     # "I look toward the Smoke Room door."
-    "I look toward the Smoke Room door."
+    "@@@I look toward the Smoke Room door."
 
-# game/Flynn-Thursday.rpy:12846
+# game/Flynn-Thursday.rpy:12853
 translate Schinese flynnsunday_9d09ddad:
 
     # "Nothing seems to have changed about it."
-    "Nothing seems to have changed about it."
+    "@@@Nothing seems to have changed about it."
 
-# game/Flynn-Thursday.rpy:12847
+# game/Flynn-Thursday.rpy:12854
 translate Schinese flynnsunday_a48cb818:
 
     # sy "\"'He'?\""
-    sy "\"'He'?\""
+    sy "@@@\"'He'?\""
 
-# game/Flynn-Thursday.rpy:12848
+# game/Flynn-Thursday.rpy:12855
 translate Schinese flynnsunday_fed59c61:
 
     # f "\"Yeah. 'He' - big tiger fella. Only guy who works here, as far as I know.\""
-    f "\"Yeah. 'He' - big tiger fella. Only guy who works here, as far as I know.\""
+    f "@@@\"Yeah. 'He' - big tiger fella. Only guy who works here, as far as I know.\""
 
-# game/Flynn-Thursday.rpy:12849
+# game/Flynn-Thursday.rpy:12856
 translate Schinese flynnsunday_5e8680d0:
 
     # "He scrunches his brow, thinking for a moment."
-    "He scrunches his brow, thinking for a moment."
+    "@@@He scrunches his brow, thinking for a moment."
 
-# game/Flynn-Thursday.rpy:12850
+# game/Flynn-Thursday.rpy:12857
 translate Schinese flynnsunday_9ae449ac:
 
     # sy "\"Unless he got a sex and species change to become a bleach-blonde bunny with big, bouncing tits, I don't think so.\""
-    sy "\"Unless he got a sex and species change to become a bleach-blonde bunny with big, bouncing tits, I don't think so.\""
+    sy "@@@\"Unless he got a sex and species change to become a bleach-blonde bunny with big, bouncing tits, I don't think so.\""
 
-# game/Flynn-Thursday.rpy:12851
+# game/Flynn-Thursday.rpy:12858
 translate Schinese flynnsunday_701b9b9a:
 
     # "I grunt. What the hell's he talking about?"
-    "I grunt. What the hell's he talking about?"
+    "@@@I grunt. What the hell's he talking about?"
 
-# game/Flynn-Thursday.rpy:12852
+# game/Flynn-Thursday.rpy:12859
 translate Schinese flynnsunday_19cef54a:
 
     # f "\"He was into dressing up in chick-panties, but I don't think we're talking about the same person. Or the same bar.\""
-    f "\"He was into dressing up in chick-panties, but I don't think we're talking about the same person. Or the same bar.\""
+    f "@@@\"He was into dressing up in chick-panties, but I don't think we're talking about the same person. Or the same bar.\""
 
-# game/Flynn-Thursday.rpy:12853
+# game/Flynn-Thursday.rpy:12860
 translate Schinese flynnsunday_9bb01d1d:
 
     # "Syd snerks, looking at me a little wide-eyed."
-    "Syd snerks, looking at me a little wide-eyed."
+    "@@@Syd snerks, looking at me a little wide-eyed."
 
-# game/Flynn-Thursday.rpy:12854
+# game/Flynn-Thursday.rpy:12861
 translate Schinese flynnsunday_294bbfeb:
 
     # sy "\"Thinking of one of your gay bars, right?\""
-    sy "\"Thinking of one of your gay bars, right?\""
+    sy "@@@\"Thinking of one of your gay bars, right?\""
 
-# game/Flynn-Thursday.rpy:12855
+# game/Flynn-Thursday.rpy:12862
 translate Schinese flynnsunday_41ef4693:
 
     # f "\"The fuck are you talking about? This {i}is{/i} the gayest bar in the state.\""
-    f "\"The fuck are you talking about? This {i}is{/i} the gayest bar in the state.\""
+    f "@@@\"The fuck are you talking about? This {i}is{/i} the gayest bar in the state.\""
 
-# game/Flynn-Thursday.rpy:12856
+# game/Flynn-Thursday.rpy:12863
 translate Schinese flynnsunday_404617cd:
 
     # f "\"If this were real, there'd be twenty fuckin' dudes reaming each other behind that door as we speak, including the bartender.\""
-    f "\"If this were real, there'd be twenty fuckin' dudes reaming each other behind that door as we speak, including the bartender.\""
+    f "@@@\"If this were real, there'd be twenty fuckin' dudes reaming each other behind that door as we speak, including the bartender.\""
 
-# game/Flynn-Thursday.rpy:12857
+# game/Flynn-Thursday.rpy:12864
 translate Schinese flynnsunday_407e2934:
 
     # "I point to the familiar \"No Smoking\" labeled door, my tone more firm now."
-    "I point to the familiar \"No Smoking\" labeled door, my tone more firm now."
+    "@@@I point to the familiar \"No Smoking\" labeled door, my tone more firm now."
 
-# game/Flynn-Thursday.rpy:12858
+# game/Flynn-Thursday.rpy:12865
 translate Schinese flynnsunday_396450c6:
 
     # sy "\"Including you?\""
-    sy "\"Including you?\""
+    sy "@@@\"Including you?\""
 
-# game/Flynn-Thursday.rpy:12859
+# game/Flynn-Thursday.rpy:12866
 translate Schinese flynnsunday_de9aeff7:
 
     # "His comment has a derisive, teasing tone."
-    "His comment has a derisive, teasing tone."
+    "@@@His comment has a derisive, teasing tone."
 
-# game/Flynn-Thursday.rpy:12860
+# game/Flynn-Thursday.rpy:12867
 translate Schinese flynnsunday_2dfac84b:
 
     # "After a second, he blinks, looking back over his shoulder to see what I'm pointing at."
-    "After a second, he blinks, looking back over his shoulder to see what I'm pointing at."
+    "@@@After a second, he blinks, looking back over his shoulder to see what I'm pointing at."
 
-# game/Flynn-Thursday.rpy:12861
+# game/Flynn-Thursday.rpy:12868
 translate Schinese flynnsunday_8546e21c:
 
     # sy "\"You been porking guys who go to clown school? That's a goddamn tiny janitor's closet.\""
-    sy "\"You been porking guys who go to clown school? That's a goddamn tiny janitor's closet.\""
+    sy "@@@\"You been porking guys who go to clown school? That's a goddamn tiny janitor's closet.\""
 
-# game/Flynn-Thursday.rpy:12862
+# game/Flynn-Thursday.rpy:12869
 translate Schinese flynnsunday_c739fbe8:
 
     # sy "\"Says so on the door.\""
-    sy "\"Says so on the door.\""
+    sy "@@@\"Says so on the door.\""
 
-# game/Flynn-Thursday.rpy:12863
+# game/Flynn-Thursday.rpy:12870
 translate Schinese flynnsunday_7c306aaa:
 
     # "I squint at the door."
-    "I squint at the door."
+    "@@@I squint at the door."
 
-# game/Flynn-Thursday.rpy:12864
+# game/Flynn-Thursday.rpy:12871
 translate Schinese flynnsunday_89699a93:
 
     # "For a brief, fleeting moment, I can almost quite make out the little mop-and-bucket symbol posted in the center."
-    "For a brief, fleeting moment, I can almost quite make out the little mop-and-bucket symbol posted in the center."
+    "@@@For a brief, fleeting moment, I can almost quite make out the little mop-and-bucket symbol posted in the center."
 
-# game/Flynn-Thursday.rpy:12865
+# game/Flynn-Thursday.rpy:12872
 translate Schinese flynnsunday_b6bc33f3:
 
     # "But it's simply not there."
-    "But it's simply not there."
+    "@@@But it's simply not there."
 
-# game/Flynn-Thursday.rpy:12866
+# game/Flynn-Thursday.rpy:12873
 translate Schinese flynnsunday_7409a705:
 
     # sy "\"I honestly don't know why I came here tonight. I guess I just had a good feeling about it in my gut.\""
-    sy "\"I honestly don't know why I came here tonight. I guess I just had a good feeling about it in my gut.\""
+    sy "@@@\"I honestly don't know why I came here tonight. I guess I just had a good feeling about it in my gut.\""
 
-# game/Flynn-Thursday.rpy:12867
+# game/Flynn-Thursday.rpy:12874
 translate Schinese flynnsunday_1de75052:
 
     # sy "\"And by that I mean I saw the picture outside for their chipotle-dusted beer nuts and my stomach got a boner.\""
-    sy "\"And by that I mean I saw the picture outside for their chipotle-dusted beer nuts and my stomach got a boner.\""
+    sy "@@@\"And by that I mean I saw the picture outside for their chipotle-dusted beer nuts and my stomach got a boner.\""
 
-# game/Flynn-Thursday.rpy:12868
+# game/Flynn-Thursday.rpy:12875
 translate Schinese flynnsunday_88f36c08:
 
     # sy "\"..and I guess it also worked out since I got to see you!\""
-    sy "\"..and I guess it also worked out since I got to see you!\""
+    sy "@@@\"..and I guess it also worked out since I got to see you!\""
 
-# game/Flynn-Thursday.rpy:12869
+# game/Flynn-Thursday.rpy:12876
 translate Schinese flynnsunday_5f893502:
 
     # "He thrusts his arms toward me, trying to put on a cheeky, sarcastic grin, like he's trying to play off the statement as he realizes how sappy it sounds."
-    "He thrusts his arms toward me, trying to put on a cheeky, sarcastic grin, like he's trying to play off the statement as he realizes how sappy it sounds."
+    "@@@He thrusts his arms toward me, trying to put on a cheeky, sarcastic grin, like he's trying to play off the statement as he realizes how sappy it sounds."
 
-# game/Flynn-Thursday.rpy:12870
+# game/Flynn-Thursday.rpy:12877
 translate Schinese flynnsunday_582d3192:
 
     # "There, to my knowledge, has never been advertisements for spiced beer nuts posted outside the bar here."
-    "There, to my knowledge, has never been advertisements for spiced beer nuts posted outside the bar here."
+    "@@@There, to my knowledge, has never been advertisements for spiced beer nuts posted outside the bar here."
 
-# game/Flynn-Thursday.rpy:12871
+# game/Flynn-Thursday.rpy:12878
 translate Schinese flynnsunday_52c76ffe:
 
     # f "\"Jesus...\""
-    f "\"Jesus...\""
+    f "@@@\"Jesus...\""
 
-# game/Flynn-Thursday.rpy:12872
+# game/Flynn-Thursday.rpy:12879
 translate Schinese flynnsunday_90aceb7a:
 
     # "I slowly lean back into my chair, letting out a long exhale."
-    "I slowly lean back into my chair, letting out a long exhale."
+    "@@@I slowly lean back into my chair, letting out a long exhale."
 
-# game/Flynn-Thursday.rpy:12873
+# game/Flynn-Thursday.rpy:12880
 translate Schinese flynnsunday_d082ffac:
 
     # f "\"..it's real good to see you, too. More so than you probably know.\""
-    f "\"..it's real good to see you, too. More so than you probably know.\""
+    f "@@@\"..it's real good to see you, too. More so than you probably know.\""
 
-# game/Flynn-Thursday.rpy:12874
+# game/Flynn-Thursday.rpy:12881
 translate Schinese flynnsunday_8348ac72:
 
     # "He opens his muzzle to speak again, but I cut him off."
-    "He opens his muzzle to speak again, but I cut him off."
+    "@@@He opens his muzzle to speak again, but I cut him off."
 
-# game/Flynn-Thursday.rpy:12875
+# game/Flynn-Thursday.rpy:12882
 translate Schinese flynnsunday_da431501:
 
     # f "\"Syd, where do you think we are?\""
-    f "\"Syd, where do you think we are?\""
+    f "@@@\"Syd, where do you think we are?\""
 
-# game/Flynn-Thursday.rpy:12876
+# game/Flynn-Thursday.rpy:12883
 translate Schinese flynnsunday_0170b00e:
 
     # "He takes a swig from his beer, peering at me for a long moment before examining his surroundings."
-    "He takes a swig from his beer, peering at me for a long moment before examining his surroundings."
+    "@@@He takes a swig from his beer, peering at me for a long moment before examining his surroundings."
 
-# game/Flynn-Thursday.rpy:12877
+# game/Flynn-Thursday.rpy:12884
 translate Schinese flynnsunday_bbec75db:
 
     # sy "\"It's uh.. y'know...\""
-    sy "\"It's uh.. y'know...\""
+    sy "@@@\"It's uh.. y'know...\""
 
-# game/Flynn-Thursday.rpy:12878
+# game/Flynn-Thursday.rpy:12885
 translate Schinese flynnsunday_3ec2318a:
 
     # "He snaps his fingers a few times."
-    "He snaps his fingers a few times."
+    "@@@He snaps his fingers a few times."
 
-# game/Flynn-Thursday.rpy:12879
+# game/Flynn-Thursday.rpy:12886
 translate Schinese flynnsunday_3d3be19a:
 
     # sy "\"The beer nut place?\""
-    sy "\"The beer nut place?\""
+    sy "@@@\"The beer nut place?\""
 
-# game/Flynn-Thursday.rpy:12880
+# game/Flynn-Thursday.rpy:12887
 translate Schinese flynnsunday_faa6c009:
 
     # "He frowns, shifting his icepack back to his noggin."
-    "He frowns, shifting his icepack back to his noggin."
+    "@@@He frowns, shifting his icepack back to his noggin."
 
-# game/Flynn-Thursday.rpy:12881
+# game/Flynn-Thursday.rpy:12888
 translate Schinese flynnsunday_28ae9529:
 
     # sy "\"Fuck, I'm not that sauced. I just hit my head real hard on the counter when I was bending over to pick up my phone.\""
-    sy "\"Fuck, I'm not that sauced. I just hit my head real hard on the counter when I was bending over to pick up my phone.\""
+    sy "@@@\"Fuck, I'm not that sauced. I just hit my head real hard on the counter when I was bending over to pick up my phone.\""
 
-# game/Flynn-Thursday.rpy:12882
+# game/Flynn-Thursday.rpy:12889
 translate Schinese flynnsunday_144ba1f4:
 
     # sy "\"...\""
-    sy "\"...\""
+    sy "@@@\"...\""
 
-# game/Flynn-Thursday.rpy:12883
+# game/Flynn-Thursday.rpy:12890
 translate Schinese flynnsunday_575f7255:
 
     # sy "\"Shit, did we have plans to meet here? I genuinely don't fuckin' know.\""
-    sy "\"Shit, did we have plans to meet here? I genuinely don't fuckin' know.\""
+    sy "@@@\"Shit, did we have plans to meet here? I genuinely don't fuckin' know.\""
 
-# game/Flynn-Thursday.rpy:12884
+# game/Flynn-Thursday.rpy:12891
 translate Schinese flynnsunday_92788df2:
 
     # f "\"I sure as fuck didn't. I-..nhg.\""
-    f "\"I sure as fuck didn't. I-..nhg.\""
+    f "@@@\"I sure as fuck didn't. I-..nhg.\""
 
-# game/Flynn-Thursday.rpy:12885
+# game/Flynn-Thursday.rpy:12892
 translate Schinese flynnsunday_295210ae:
 
     # "I trail off for a moment, swallowing away the tight feeling in the back of my throat."
-    "I trail off for a moment, swallowing away the tight feeling in the back of my throat."
+    "@@@I trail off for a moment, swallowing away the tight feeling in the back of my throat."
 
-# game/Flynn-Thursday.rpy:12886
+# game/Flynn-Thursday.rpy:12893
 translate Schinese flynnsunday_d6a75100:
 
     # "I pull my phone from my pocket, turning it over in my hands. Still dead."
-    "I pull my phone from my pocket, turning it over in my hands. Still dead."
+    "@@@I pull my phone from my pocket, turning it over in my hands. Still dead."
 
-# game/Flynn-Thursday.rpy:12887
+# game/Flynn-Thursday.rpy:12894
 translate Schinese flynnsunday_22b32354:
 
     # f "\"I wasn't expectin' to ever see you again.\""
-    f "\"I wasn't expectin' to ever see you again.\""
+    f "@@@\"I wasn't expectin' to ever see you again.\""
 
-# game/Flynn-Thursday.rpy:12888
+# game/Flynn-Thursday.rpy:12895
 translate Schinese flynnsunday_bd5a2e6a:
 
     # "His blue eyes widen, the otter giving me that same, doe-eyed look he'd give me after we'd been hanging out and I'd say I have to go."
-    "His blue eyes widen, the otter giving me that same, doe-eyed look he'd give me after we'd been hanging out and I'd say I have to go."
+    "@@@His blue eyes widen, the otter giving me that same, doe-eyed look he'd give me after we'd been hanging out and I'd say I have to go."
 
-# game/Flynn-Thursday.rpy:12889
+# game/Flynn-Thursday.rpy:12896
 translate Schinese flynnsunday_4026de6b:
 
     # "He never wanted to go home."
-    "He never wanted to go home."
+    "@@@He never wanted to go home."
 
-# game/Flynn-Thursday.rpy:12890
+# game/Flynn-Thursday.rpy:12897
 translate Schinese flynnsunday_0c2a8fb9:
 
     # sy "\"L-look, I know after I bailed on the interview you set me up with, you were pretty pissed. Rightfully so, too, fully justified. I get that.\""
-    sy "\"L-look, I know after I bailed on the interview you set me up with, you were pretty pissed. Rightfully so, too, fully justified. I get that.\""
+    sy "@@@\"L-look, I know after I bailed on the interview you set me up with, you were pretty pissed. Rightfully so, too, fully justified. I get that.\""
 
-# game/Flynn-Thursday.rpy:12891
+# game/Flynn-Thursday.rpy:12898
 translate Schinese flynnsunday_5fa5a9da:
 
     # sy "\"I know.. I fucked up.\""
-    sy "\"I know.. I fucked up.\""
+    sy "@@@\"I know.. I fucked up.\""
 
-# game/Flynn-Thursday.rpy:12892
+# game/Flynn-Thursday.rpy:12899
 translate Schinese flynnsunday_2aa0ff41_3:
 
     # f "\"What?\""
-    f "\"What?\""
+    f "@@@\"What?\""
 
-# game/Flynn-Thursday.rpy:12893
+# game/Flynn-Thursday.rpy:12900
 translate Schinese flynnsunday_fd0c3fca:
 
     # sy "\"I'm trying to get clean, I swear to shit, it's just.. so fucking hard, y'know?\""
-    sy "\"I'm trying to get clean, I swear to shit, it's just.. so fucking hard, y'know?\""
+    sy "@@@\"I'm trying to get clean, I swear to shit, it's just.. so fucking hard, y'know?\""
 
-# game/Flynn-Thursday.rpy:12894
+# game/Flynn-Thursday.rpy:12901
 translate Schinese flynnsunday_b07eccf0:
 
     # f "\"You're on drugs?\""
-    f "\"You're on drugs?\""
+    f "@@@\"You're on drugs?\""
 
-# game/Flynn-Thursday.rpy:12895
+# game/Flynn-Thursday.rpy:12902
 translate Schinese flynnsunday_dc5df17b:
 
     # sy "\"No.. I mean, not right now. I'm sober as fuck.\""
-    sy "\"No.. I mean, not right now. I'm sober as fuck.\""
+    sy "@@@\"No.. I mean, not right now. I'm sober as fuck.\""
 
-# game/Flynn-Thursday.rpy:12896
+# game/Flynn-Thursday.rpy:12903
 translate Schinese flynnsunday_4911517b:
 
     # "I look to the ale in his paw."
-    "I look to the ale in his paw."
+    "@@@I look to the ale in his paw."
 
-# game/Flynn-Thursday.rpy:12897
+# game/Flynn-Thursday.rpy:12904
 translate Schinese flynnsunday_74feec24:
 
     # f "\"Sans the booze?\""
-    f "\"Sans the booze?\""
+    f "@@@\"Sans the booze?\""
 
-# game/Flynn-Thursday.rpy:12898
+# game/Flynn-Thursday.rpy:12905
 translate Schinese flynnsunday_d7d880d6:
 
     # sy "\"Egh...\""
-    sy "\"Egh...\""
+    sy "@@@\"Egh...\""
 
-# game/Flynn-Thursday.rpy:12899
+# game/Flynn-Thursday.rpy:12906
 translate Schinese flynnsunday_1e129f7d:
 
     # sy "\"Look, all the other guys I wrestle with at the road shows though, they're all on the shit.\""
-    sy "\"Look, all the other guys I wrestle with at the road shows though, they're all on the shit.\""
+    sy "@@@\"Look, all the other guys I wrestle with at the road shows though, they're all on the shit.\""
 
-# game/Flynn-Thursday.rpy:12900
+# game/Flynn-Thursday.rpy:12907
 translate Schinese flynnsunday_ec70aae0:
 
     # sy "\"Everyone's trying to bulk up and stuff so they actually get a pop when the crowd sees 'em.\""
-    sy "\"Everyone's trying to bulk up and stuff so they actually get a pop when the crowd sees 'em.\""
+    sy "@@@\"Everyone's trying to bulk up and stuff so they actually get a pop when the crowd sees 'em.\""
 
-# game/Flynn-Thursday.rpy:12901
+# game/Flynn-Thursday.rpy:12908
 translate Schinese flynnsunday_3f0dff21:
 
     # "His tone is completely defensive, the otter looking me straight in the eyes - searching for any sign of doubt."
-    "His tone is completely defensive, the otter looking me straight in the eyes - searching for any sign of doubt."
+    "@@@His tone is completely defensive, the otter looking me straight in the eyes - searching for any sign of doubt."
 
-# game/Flynn-Thursday.rpy:12902
+# game/Flynn-Thursday.rpy:12909
 translate Schinese flynnsunday_c3cccff9:
 
     # sy "\"There's this one guy, Cody Altaro, or.. well, he goes by the name Rico Renaissance now..\""
-    sy "\"There's this one guy, Cody Altaro, or.. well, he goes by the name Rico Renaissance now..\""
+    sy "@@@\"There's this one guy, Cody Altaro, or.. well, he goes by the name Rico Renaissance now..\""
 
-# game/Flynn-Thursday.rpy:12903
+# game/Flynn-Thursday.rpy:12910
 translate Schinese flynnsunday_91b7e568:
 
     # sy "\"..he's been getting booked as my rival and the bastard's up twenty-five pounds in two months.\""
-    sy "\"..he's been getting booked as my rival and the bastard's up twenty-five pounds in two months.\""
+    sy "@@@\"..he's been getting booked as my rival and the bastard's up twenty-five pounds in two months.\""
 
-# game/Flynn-Thursday.rpy:12904
+# game/Flynn-Thursday.rpy:12911
 translate Schinese flynnsunday_274fde49:
 
     # sy "\"Twenty-fucking-five pounds. No way in fuck is he doing that with chicken breast and protein shakes.\""
-    sy "\"Twenty-fucking-five pounds. No way in fuck is he doing that with chicken breast and protein shakes.\""
+    sy "@@@\"Twenty-fucking-five pounds. No way in fuck is he doing that with chicken breast and protein shakes.\""
 
-# game/Flynn-Thursday.rpy:12905
+# game/Flynn-Thursday.rpy:12912
 translate Schinese flynnsunday_1a006ab3:
 
     # f "\"Wait-wait-wait... you're telling me you wrestle for a living?\""
-    f "\"Wait-wait-wait... you're telling me you wrestle for a living?\""
+    f "@@@\"Wait-wait-wait... you're telling me you wrestle for a living?\""
 
-# game/Flynn-Thursday.rpy:12906
+# game/Flynn-Thursday.rpy:12913
 translate Schinese flynnsunday_b210452e:
 
     # "That would explain the muscle shirt and those tacky-ass wristbands."
-    "That would explain the muscle shirt and those tacky-ass wristbands."
+    "@@@That would explain the muscle shirt and those tacky-ass wristbands."
 
-# game/Flynn-Thursday.rpy:12907
+# game/Flynn-Thursday.rpy:12914
 translate Schinese flynnsunday_36dd3cdd:
 
     # f "\"Like, that's your actual goddamn job?\""
-    f "\"Like, that's your actual goddamn job?\""
+    f "@@@\"Like, that's your actual goddamn job?\""
 
-# game/Flynn-Thursday.rpy:12908
+# game/Flynn-Thursday.rpy:12915
 translate Schinese flynnsunday_66e00db9:
 
     # "Sydney leans back some, still peering at me with that same, searching look."
-    "Sydney leans back some, still peering at me with that same, searching look."
+    "@@@Sydney leans back some, still peering at me with that same, searching look."
 
-# game/Flynn-Thursday.rpy:12909
+# game/Flynn-Thursday.rpy:12916
 translate Schinese flynnsunday_8b72cf7d:
 
     # sy "\"Yeah? You used to go to my shows all the time.\""
-    sy "\"Yeah? You used to go to my shows all the time.\""
+    sy "@@@\"Yeah? You used to go to my shows all the time.\""
 
-# game/Flynn-Thursday.rpy:12910
+# game/Flynn-Thursday.rpy:12917
 translate Schinese flynnsunday_b78b8560:
 
     # sy "\"SFF? Sunday Funday Fights? It's mainly fucking juggalos and shit now, and we get paid in pennies and grass, but.. y'know, it's a start. I'm tough.\""
-    sy "\"SFF? Sunday Funday Fights? It's mainly fucking juggalos and shit now, and we get paid in pennies and grass, but.. y'know, it's a start. I'm tough.\""
+    sy "@@@\"SFF? Sunday Funday Fights? It's mainly fucking juggalos and shit now, and we get paid in pennies and grass, but.. y'know, it's a start. I'm tough.\""
 
-# game/Flynn-Thursday.rpy:12911
+# game/Flynn-Thursday.rpy:12918
 translate Schinese flynnsunday_2be14224:
 
     # "He sniffs, eyes drifting down to his arms on the sticky table surface. He doesn't seem grossed out by it."
-    "He sniffs, eyes drifting down to his arms on the sticky table surface. He doesn't seem grossed out by it."
+    "@@@He sniffs, eyes drifting down to his arms on the sticky table surface. He doesn't seem grossed out by it."
 
-# game/Flynn-Thursday.rpy:12912
+# game/Flynn-Thursday.rpy:12919
 translate Schinese flynnsunday_b5e1495d:
 
     # "Ryan told me they never clean up the front anymore."
-    "Ryan told me they never clean up the front anymore."
+    "@@@Ryan told me they never clean up the front anymore."
 
-# game/Flynn-Thursday.rpy:12913
+# game/Flynn-Thursday.rpy:12920
 translate Schinese flynnsunday_300802fd:
 
     # "Said not to touch the underside of the tables, since they're packed solid with two things: gum and cum."
-    "Said not to touch the underside of the tables, since they're packed solid with two things: gum and cum."
+    "@@@Said not to touch the underside of the tables, since they're packed solid with two things: gum and cum."
 
-# game/Flynn-Thursday.rpy:12914
+# game/Flynn-Thursday.rpy:12921
 translate Schinese flynnsunday_db3bf253:
 
     # "I notice patchy areas in his fur near his inner-elbows, and it takes me a moment to register."
-    "I notice patchy areas in his fur near his inner-elbows, and it takes me a moment to register."
+    "@@@I notice patchy areas in his fur near his inner-elbows, and it takes me a moment to register."
 
-# game/Flynn-Thursday.rpy:12915
+# game/Flynn-Thursday.rpy:12922
 translate Schinese flynnsunday_cc93507a:
 
     # "He's got fucking injection marks."
-    "He's got fucking injection marks."
+    "@@@He's got fucking injection marks."
 
-# game/Flynn-Thursday.rpy:12916
+# game/Flynn-Thursday.rpy:12923
 translate Schinese flynnsunday_5dfb1ba6:
 
     # "He seems to see me staring and pulls back his arms."
-    "He seems to see me staring and pulls back his arms."
+    "@@@He seems to see me staring and pulls back his arms."
 
-# game/Flynn-Thursday.rpy:12918
+# game/Flynn-Thursday.rpy:12925
 translate Schinese flynnsunday_a05053af:
 
     # "I gawk at him for a moment, Sydney bracing himself for whatever I'm about to say."
-    "I gawk at him for a moment, Sydney bracing himself for whatever I'm about to say."
+    "@@@I gawk at him for a moment, Sydney bracing himself for whatever I'm about to say."
 
-# game/Flynn-Thursday.rpy:12919
+# game/Flynn-Thursday.rpy:12926
 translate Schinese flynnsunday_67e8ef4c:
 
     # "It gives me a sinking feeling in my gut, but it makes sense."
-    "It gives me a sinking feeling in my gut, but it makes sense."
+    "@@@It gives me a sinking feeling in my gut, but it makes sense."
 
-# game/Flynn-Thursday.rpy:12920
+# game/Flynn-Thursday.rpy:12927
 translate Schinese flynnsunday_c5bee564:
 
     # "With the shit Syd dealt with growing up, every sign was pointing toward him getting some sorta chemical addiction down the road."
-    "With the shit Syd dealt with growing up, every sign was pointing toward him getting some sorta chemical addiction down the road."
+    "@@@With the shit Syd dealt with growing up, every sign was pointing toward him getting some sorta chemical addiction down the road."
 
-# game/Flynn-Thursday.rpy:12921
+# game/Flynn-Thursday.rpy:12928
 translate Schinese flynnsunday_1baef101:
 
     # f "\"It ain't just 'roids, is it?\""
-    f "\"It ain't just 'roids, is it?\""
+    f "@@@\"It ain't just 'roids, is it?\""
 
-# game/Flynn-Thursday.rpy:12922
+# game/Flynn-Thursday.rpy:12929
 translate Schinese flynnsunday_6daffb73:
 
     # sy "\"Heh, yeah, well.. you know me.\""
-    sy "\"Heh, yeah, well.. you know me.\""
+    sy "@@@\"Heh, yeah, well.. you know me.\""
 
-# game/Flynn-Thursday.rpy:12923
+# game/Flynn-Thursday.rpy:12930
 translate Schinese flynnsunday_90068908:
 
     # sy "\"I take some shit for, y'know, the mental stuff.\""
-    sy "\"I take some shit for, y'know, the mental stuff.\""
+    sy "@@@\"I take some shit for, y'know, the mental stuff.\""
 
-# game/Flynn-Thursday.rpy:12924
+# game/Flynn-Thursday.rpy:12931
 translate Schinese flynnsunday_28af8bcc:
 
     # f "\"Mental stuff? I'm assumin' it ain't prescription?\""
-    f "\"Mental stuff? I'm assumin' it ain't prescription?\""
+    f "@@@\"Mental stuff? I'm assumin' it ain't prescription?\""
 
-# game/Flynn-Thursday.rpy:12925
+# game/Flynn-Thursday.rpy:12932
 translate Schinese flynnsunday_e43c25a8:
 
     # sy "\"You assume.. correctly.\""
-    sy "\"You assume.. correctly.\""
+    sy "@@@\"You assume.. correctly.\""
 
-# game/Flynn-Thursday.rpy:12926
+# game/Flynn-Thursday.rpy:12933
 translate Schinese flynnsunday_f53495c4:
 
     # "He speaks slowly, twiddling his thumbs in his lap, his eyes dancing from the bottle in front of him, to me, and back again."
-    "He speaks slowly, twiddling his thumbs in his lap, his eyes dancing from the bottle in front of him, to me, and back again."
+    "@@@He speaks slowly, twiddling his thumbs in his lap, his eyes dancing from the bottle in front of him, to me, and back again."
 
-# game/Flynn-Thursday.rpy:12927
+# game/Flynn-Thursday.rpy:12934
 translate Schinese flynnsunday_219a61e1:
 
     # "I'm not sure what to say. We sort of just sit there in awkward silence."
-    "I'm not sure what to say. We sort of just sit there in awkward silence."
+    "@@@I'm not sure what to say. We sort of just sit there in awkward silence."
 
-# game/Flynn-Thursday.rpy:12928
+# game/Flynn-Thursday.rpy:12935
 translate Schinese flynnsunday_16cb2b86:
 
     # sy "\"I know you never really understood all the fucky stuff going on in my head.\""
-    sy "\"I know you never really understood all the fucky stuff going on in my head.\""
+    sy "@@@\"I know you never really understood all the fucky stuff going on in my head.\""
 
-# game/Flynn-Thursday.rpy:12929
+# game/Flynn-Thursday.rpy:12936
 translate Schinese flynnsunday_77eb6a47:
 
     # sy "\"I just.. wanna thank you for sticking around as long as you did. Can't say the same for anyone else.\""
-    sy "\"I just.. wanna thank you for sticking around as long as you did. Can't say the same for anyone else.\""
+    sy "@@@\"I just.. wanna thank you for sticking around as long as you did. Can't say the same for anyone else.\""
 
-# game/Flynn-Thursday.rpy:12930
+# game/Flynn-Thursday.rpy:12937
 translate Schinese flynnsunday_6e0952ab:
 
     # sy "\"I'm not really an easy person to have the back of, especially when I'm one person one minute and another the next.\""
-    sy "\"I'm not really an easy person to have the back of, especially when I'm one person one minute and another the next.\""
+    sy "@@@\"I'm not really an easy person to have the back of, especially when I'm one person one minute and another the next.\""
 
-# game/Flynn-Thursday.rpy:12931
+# game/Flynn-Thursday.rpy:12938
 translate Schinese flynnsunday_47344abe:
 
     # "I remember the shit Chase was talking about earlier. About the incident at the ice cream place in Pueblo."
-    "I remember the shit Chase was talking about earlier. About the incident at the ice cream place in Pueblo."
+    "@@@I remember the shit Chase was talking about earlier. About the incident at the ice cream place in Pueblo."
 
-# game/Flynn-Thursday.rpy:12932
+# game/Flynn-Thursday.rpy:12939
 translate Schinese flynnsunday_650d29e0:
 
     # "The way he just.. clicked and changed."
-    "The way he just.. clicked and changed."
+    "@@@The way he just.. clicked and changed."
 
-# game/Flynn-Thursday.rpy:12933
+# game/Flynn-Thursday.rpy:12940
 translate Schinese flynnsunday_7b9e592f:
 
     # "He continues speaking, the otter shifting his thick tail listlessly behind him."
-    "He continues speaking, the otter shifting his thick tail listlessly behind him."
+    "@@@He continues speaking, the otter shifting his thick tail listlessly behind him."
 
-# game/Flynn-Thursday.rpy:12934
+# game/Flynn-Thursday.rpy:12941
 translate Schinese flynnsunday_9cd18c5b:
 
     # sy "\"And tell your roommate Dax thanks as well. I know y'all both really tried to get me a stable job at that print shop.\""
-    sy "\"And tell your roommate Dax thanks as well. I know y'all both really tried to get me a stable job at that print shop.\""
+    sy "@@@\"And tell your roommate Dax thanks as well. I know y'all both really tried to get me a stable job at that print shop.\""
 
-# game/Flynn-Thursday.rpy:12935
+# game/Flynn-Thursday.rpy:12942
 translate Schinese flynnsunday_df97fecc:
 
     # sy "\"But fuck, it would have never worked out. A schizo like me can't hold a position like that.\""
-    sy "\"But fuck, it would have never worked out. A schizo like me can't hold a position like that.\""
+    sy "@@@\"But fuck, it would have never worked out. A schizo like me can't hold a position like that.\""
 
-# game/Flynn-Thursday.rpy:12936
+# game/Flynn-Thursday.rpy:12943
 translate Schinese flynnsunday_9c3cef75:
 
     # "Instead of Carl, Sydney was the one I would have been helping."
-    "Instead of Carl, Sydney was the one I would have been helping."
+    "@@@Instead of Carl, Sydney was the one I would have been helping."
 
-# game/Flynn-Thursday.rpy:12937
+# game/Flynn-Thursday.rpy:12944
 translate Schinese flynnsunday_7dccb669:
 
     # "I realize he's still out there, caught up in all this hysteria without me while I'm stuck in this place."
-    "I realize he's still out there, caught up in all this hysteria without me while I'm stuck in this place."
+    "@@@I realize he's still out there, caught up in all this hysteria without me while I'm stuck in this place."
 
-# game/Flynn-Thursday.rpy:12938
+# game/Flynn-Thursday.rpy:12945
 translate Schinese flynnsunday_594d1d24:
 
     # f "\"Syd, this isn't real.\""
-    f "\"Syd, this isn't real.\""
+    f "@@@\"Syd, this isn't real.\""
 
-# game/Flynn-Thursday.rpy:12939
+# game/Flynn-Thursday.rpy:12946
 translate Schinese flynnsunday_30810689:
 
     # "The otter gives me another strange look."
-    "The otter gives me another strange look."
+    "@@@The otter gives me another strange look."
 
-# game/Flynn-Thursday.rpy:12940
+# game/Flynn-Thursday.rpy:12947
 translate Schinese flynnsunday_96550a9a:
 
     # "He clearly was expecting me to be acting much differently than I am now."
-    "He clearly was expecting me to be acting much differently than I am now."
+    "@@@He clearly was expecting me to be acting much differently than I am now."
 
-# game/Flynn-Thursday.rpy:12941
+# game/Flynn-Thursday.rpy:12948
 translate Schinese flynnsunday_5c819f8d:
 
     # "Like, he'd been preparing to speak to me for some time now, and I've completely derailed his plans to get lot of the shit he wanted to say off his chest."
-    "Like, he'd been preparing to speak to me for some time now, and I've completely derailed his plans to get lot of the shit he wanted to say off his chest."
+    "@@@Like, he'd been preparing to speak to me for some time now, and I've completely derailed his plans to get lot of the shit he wanted to say off his chest."
 
-# game/Flynn-Thursday.rpy:12942
+# game/Flynn-Thursday.rpy:12949
 translate Schinese flynnsunday_c843dc6c:
 
     # f "\"You're not real. I'm just.. fucking dreaming right now.\""
-    f "\"You're not real. I'm just.. fucking dreaming right now.\""
+    f "@@@\"You're not real. I'm just.. fucking dreaming right now.\""
 
-# game/Flynn-Thursday.rpy:12943
+# game/Flynn-Thursday.rpy:12950
 translate Schinese flynnsunday_c1f00fc9:
 
     # sy "\"I thought you couldn't dream?\""
-    sy "\"I thought you couldn't dream?\""
+    sy "@@@\"I thought you couldn't dream?\""
 
-# game/Flynn-Thursday.rpy:12944
+# game/Flynn-Thursday.rpy:12951
 translate Schinese flynnsunday_59326b0b:
 
     # sy "\"You used to get annoyed as hell with me when I'd go off about the shit I'd dream about.\""
-    sy "\"You used to get annoyed as hell with me when I'd go off about the shit I'd dream about.\""
+    sy "@@@\"You used to get annoyed as hell with me when I'd go off about the shit I'd dream about.\""
 
-# game/Flynn-Thursday.rpy:12945
+# game/Flynn-Thursday.rpy:12952
 translate Schinese flynnsunday_0ea88f19:
 
     # f "\"Yeah, well.. I am now.\""
-    f "\"Yeah, well.. I am now.\""
+    f "@@@\"Yeah, well.. I am now.\""
 
-# game/Flynn-Thursday.rpy:12946
+# game/Flynn-Thursday.rpy:12953
 translate Schinese flynnsunday_d19b7188:
 
     # sy "\"How you would even know what a dream was if you had one? After all, you look more like you just woke up.\""
-    sy "\"How you would even know what a dream was if you had one? After all, you look more like you just woke up.\""
+    sy "@@@\"How you would even know what a dream was if you had one? After all, you look more like you just woke up.\""
 
-# game/Flynn-Thursday.rpy:12947
+# game/Flynn-Thursday.rpy:12954
 translate Schinese flynnsunday_c34caca4:
 
     # "I shake my head, watching the blurry brown and black form in front of me shift from side to side."
-    "I shake my head, watching the blurry brown and black form in front of me shift from side to side."
+    "@@@I shake my head, watching the blurry brown and black form in front of me shift from side to side."
 
-# game/Flynn-Thursday.rpy:12948
+# game/Flynn-Thursday.rpy:12955
 translate Schinese flynnsunday_ccb1b99b:
 
     # "I keep expecting him to just not be there when my vision refocuses."
-    "I keep expecting him to just not be there when my vision refocuses."
+    "@@@I keep expecting him to just not be there when my vision refocuses."
 
-# game/Flynn-Thursday.rpy:12949
+# game/Flynn-Thursday.rpy:12956
 translate Schinese flynnsunday_4683a1de:
 
     # f "\"Look, let me just.. lay this shit out plain-like:\""
-    f "\"Look, let me just.. lay this shit out plain-like:\""
+    f "@@@\"Look, let me just.. lay this shit out plain-like:\""
 
-# game/Flynn-Thursday.rpy:12950
+# game/Flynn-Thursday.rpy:12957
 translate Schinese flynnsunday_db0d9a52:
 
     # f "\"You can't be here, you're dead. You drowned over a decade ago, in Lake Emma. I think.. Chase did it.\""
-    f "\"You can't be here, you're dead. You drowned over a decade ago, in Lake Emma. I think.. Chase did it.\""
+    f "@@@\"You can't be here, you're dead. You drowned over a decade ago, in Lake Emma. I think.. Chase did it.\""
 
-# game/Flynn-Thursday.rpy:12951
+# game/Flynn-Thursday.rpy:12958
 translate Schinese flynnsunday_56657a93:
 
     # "Or at least I think he did..."
-    "Or at least I think he did..."
+    "@@@Or at least I think he did..."
 
-# game/Flynn-Thursday.rpy:12952
+# game/Flynn-Thursday.rpy:12959
 translate Schinese flynnsunday_00e07043:
 
     # "Sydney looks uncomfortable - as if the slight semblance that this is all some elaborate, fun ruse I'm pulling on him is looking increasingly unlikely."
-    "Sydney looks uncomfortable - as if the slight semblance that this is all some elaborate, fun ruse I'm pulling on him is looking increasingly unlikely."
+    "@@@Sydney looks uncomfortable - as if the slight semblance that this is all some elaborate, fun ruse I'm pulling on him is looking increasingly unlikely."
 
-# game/Flynn-Thursday.rpy:12953
+# game/Flynn-Thursday.rpy:12960
 translate Schinese flynnsunday_8df800ad:
 
     # sy "\"Okay, uh, well that didn't happen, no-nuts.\""
-    sy "\"Okay, uh, well that didn't happen, no-nuts.\""
+    sy "@@@\"Okay, uh, well that didn't happen, no-nuts.\""
 
-# game/Flynn-Thursday.rpy:12954
+# game/Flynn-Thursday.rpy:12961
 translate Schinese flynnsunday_6787d002:
 
     # sy "\"And Chase? That twink couldn't hurt a fly.\""
-    sy "\"And Chase? That twink couldn't hurt a fly.\""
+    sy "@@@\"And Chase? That twink couldn't hurt a fly.\""
 
-# game/Flynn-Thursday.rpy:12955
+# game/Flynn-Thursday.rpy:12962
 translate Schinese flynnsunday_26c0841f:
 
     # "He sighs, rotating his half-empty bottle of pale on the table and smearing the ring of condensation that forms beneath it."
-    "He sighs, rotating his half-empty bottle of pale on the table and smearing the ring of condensation that forms beneath it."
+    "@@@He sighs, rotating his half-empty bottle of pale on the table and smearing the ring of condensation that forms beneath it."
 
-# game/Flynn-Thursday.rpy:12956
+# game/Flynn-Thursday.rpy:12963
 translate Schinese flynnsunday_d7659cbb:
 
     # sy "\"I'm right fucking here and I just want to talk to you.\""
-    sy "\"I'm right fucking here and I just want to talk to you.\""
+    sy "@@@\"I'm right fucking here and I just want to talk to you.\""
 
-# game/Flynn-Thursday.rpy:12957
+# game/Flynn-Thursday.rpy:12964
 translate Schinese flynnsunday_3f669458:
 
     # "His tone turns terse - hurt, even."
-    "His tone turns terse - hurt, even."
+    "@@@His tone turns terse - hurt, even."
 
-# game/Flynn-Thursday.rpy:12958
+# game/Flynn-Thursday.rpy:12965
 translate Schinese flynnsunday_508c5e57:
 
     # f "\"No, shitbird. You died. TJ saw two bodies with brown fur writhing in the water before you drowned.\""
-    f "\"No, shitbird. You died. TJ saw two bodies with brown fur writhing in the water before you drowned.\""
+    f "@@@\"No, shitbird. You died. TJ saw two bodies with brown fur writhing in the water before you drowned.\""
 
-# game/Flynn-Thursday.rpy:12959
+# game/Flynn-Thursday.rpy:12966
 translate Schinese flynnsunday_0363a169:
 
     # f "\"They all thought ya died on your own somehow, like you passed out or some shit, but I knew better.\""
-    f "\"They all thought ya died on your own somehow, like you passed out or some shit, but I knew better.\""
+    f "@@@\"They all thought ya died on your own somehow, like you passed out or some shit, but I knew better.\""
 
-# game/Flynn-Thursday.rpy:12960
+# game/Flynn-Thursday.rpy:12967
 translate Schinese flynnsunday_1fcae41b:
 
     # "I see a flicker of realization in Sydney's eyes, and again, he shifts uncomfortably."
-    "I see a flicker of realization in Sydney's eyes, and again, he shifts uncomfortably."
+    "@@@I see a flicker of realization in Sydney's eyes, and again, he shifts uncomfortably."
 
-# game/Flynn-Thursday.rpy:12961
+# game/Flynn-Thursday.rpy:12968
 translate Schinese flynnsunday_c888a8cf:
 
     # sy "\"I think.. I remember what you're talking about.\""
-    sy "\"I think.. I remember what you're talking about.\""
+    sy "@@@\"I think.. I remember what you're talking about.\""
 
-# game/Flynn-Thursday.rpy:12962
+# game/Flynn-Thursday.rpy:12969
 translate Schinese flynnsunday_b4b4bfcb:
 
     # sy "\"But I'm not dead, I'm here, motherfucker! Feel me.\""
-    sy "\"But I'm not dead, I'm here, motherfucker! Feel me.\""
+    sy "@@@\"But I'm not dead, I'm here, motherfucker! Feel me.\""
 
-# game/Flynn-Thursday.rpy:12963
+# game/Flynn-Thursday.rpy:12970
 translate Schinese flynnsunday_8b6c1a97:
 
     # "He reaches across the table and takes my wrist, squeezing hard."
-    "He reaches across the table and takes my wrist, squeezing hard."
+    "@@@He reaches across the table and takes my wrist, squeezing hard."
 
-# game/Flynn-Thursday.rpy:12964
+# game/Flynn-Thursday.rpy:12971
 translate Schinese flynnsunday_3bbd639f:
 
     # "It's like he's trying to give me an indian burn, like he used to."
-    "It's like he's trying to give me an indian burn, like he used to."
+    "@@@It's like he's trying to give me an indian burn, like he used to."
 
-# game/Flynn-Thursday.rpy:12965
+# game/Flynn-Thursday.rpy:12972
 translate Schinese flynnsunday_ecbb2461:
 
     # "I yank back my hand."
-    "I yank back my hand."
+    "@@@I yank back my hand."
 
-# game/Flynn-Thursday.rpy:12966
+# game/Flynn-Thursday.rpy:12973
 translate Schinese flynnsunday_c5558ca9:
 
     # f "\"Fuck off.\""
-    f "\"Fuck off.\""
+    f "@@@\"Fuck off.\""
 
-# game/Flynn-Thursday.rpy:12967
+# game/Flynn-Thursday.rpy:12974
 translate Schinese flynnsunday_9d2e8bd1:
 
     # "He stares wide-eyed at me, his maw slightly agape."
-    "He stares wide-eyed at me, his maw slightly agape."
+    "@@@He stares wide-eyed at me, his maw slightly agape."
 
-# game/Flynn-Thursday.rpy:12968
+# game/Flynn-Thursday.rpy:12975
 translate Schinese flynnsunday_8b74bc5e:
 
     # "A moment passes before he speaks again."
-    "A moment passes before he speaks again."
+    "@@@A moment passes before he speaks again."
 
-# game/Flynn-Thursday.rpy:12969
+# game/Flynn-Thursday.rpy:12976
 translate Schinese flynnsunday_86b00742:
 
     # sy "\"Why are you acting like this? Like you can't fucking just enjoy goddamn company. Plus you're so damn intense?\""
-    sy "\"Why are you acting like this? Like you can't fucking just enjoy goddamn company. Plus you're so damn intense?\""
+    sy "@@@\"Why are you acting like this? Like you can't fucking just enjoy goddamn company. Plus you're so damn intense?\""
 
-# game/Flynn-Thursday.rpy:12970
+# game/Flynn-Thursday.rpy:12977
 translate Schinese flynnsunday_0da0aecc:
 
     # sy "\"You're not even high right now.\""
-    sy "\"You're not even high right now.\""
+    sy "@@@\"You're not even high right now.\""
 
-# game/Flynn-Thursday.rpy:12971
+# game/Flynn-Thursday.rpy:12978
 translate Schinese flynnsunday_bf81bf37:
 
     # "This isn't fucking fair."
-    "This isn't fucking fair."
+    "@@@This isn't fucking fair."
 
-# game/Flynn-Thursday.rpy:12972
+# game/Flynn-Thursday.rpy:12979
 translate Schinese flynnsunday_923f75f7:
 
     # sy "\"I'm your goddamn best friend. Hell, you're like my gay, scaley brother."
-    sy "\"I'm your goddamn best friend. Hell, you're like my gay, scaley brother."
+    sy "@@@\"I'm your goddamn best friend. Hell, you're like my gay, scaley brother."
 
-# game/Flynn-Thursday.rpy:12973
+# game/Flynn-Thursday.rpy:12980
 translate Schinese flynnsunday_62b1361b:
 
     # "It can't fuck with me like this. This is too real."
-    "It can't fuck with me like this. This is too real."
+    "@@@It can't fuck with me like this. This is too real."
 
-# game/Flynn-Thursday.rpy:12974
+# game/Flynn-Thursday.rpy:12981
 translate Schinese flynnsunday_c9e3c9c3:
 
     # "I quickly shake my head, closing my eyes."
-    "I quickly shake my head, closing my eyes."
+    "@@@I quickly shake my head, closing my eyes."
 
-# game/Flynn-Thursday.rpy:12975
+# game/Flynn-Thursday.rpy:12982
 translate Schinese flynnsunday_386472aa:
 
     # sy "\"You're dealing with {i}me{/i} right now, not the thing inside my head.\""
-    sy "\"You're dealing with {i}me{/i} right now, not the thing inside my head.\""
+    sy "@@@\"You're dealing with {i}me{/i} right now, not the thing inside my head.\""
 
-# game/Flynn-Thursday.rpy:12976
+# game/Flynn-Thursday.rpy:12983
 translate Schinese flynnsunday_436bfdf9:
 
     # sy "\"And that's fucking becoming a rarer and rarer thing these days so I'm just {i}really{/i} trying to enjoy what time I've got.\""
-    sy "\"And that's fucking becoming a rarer and rarer thing these days so I'm just {i}really{/i} trying to enjoy what time I've got.\""
+    sy "@@@\"And that's fucking becoming a rarer and rarer thing these days so I'm just {i}really{/i} trying to enjoy what time I've got.\""
 
-# game/Flynn-Thursday.rpy:12977
+# game/Flynn-Thursday.rpy:12984
 translate Schinese flynnsunday_0fa82b39:
 
     # sy "\"Just.. just talk to me. I don't want to think...\""
-    sy "\"Just.. just talk to me. I don't want to think...\""
+    sy "@@@\"Just.. just talk to me. I don't want to think...\""
 
-# game/Flynn-Thursday.rpy:12980
+# game/Flynn-Thursday.rpy:12987
 translate Schinese flynnsunday_9e619a32:
 
     # "He trails off, staring down at his lap."
-    "He trails off, staring down at his lap."
+    "@@@He trails off, staring down at his lap."
 
-# game/Flynn-Thursday.rpy:12981
+# game/Flynn-Thursday.rpy:12988
 translate Schinese flynnsunday_3457a751:
 
     # f "\"Think about what?\""
-    f "\"Think about what?\""
+    f "@@@\"Think about what?\""
 
-# game/Flynn-Thursday.rpy:12983
+# game/Flynn-Thursday.rpy:12990
 translate Schinese flynnsunday_a20cefa7_6:
 
     # "..."
-    "..."
+    "@@@..."
 
-# game/Flynn-Thursday.rpy:12984
+# game/Flynn-Thursday.rpy:12991
 translate Schinese flynnsunday_993bef03:
 
     # "There it is."
-    "There it is."
+    "@@@There it is."
 
-# game/Flynn-Thursday.rpy:12985
+# game/Flynn-Thursday.rpy:12992
 translate Schinese flynnsunday_eb2a4ec9:
 
     # "The change."
-    "The change."
+    "@@@The change."
 
-# game/Flynn-Thursday.rpy:12986
+# game/Flynn-Thursday.rpy:12993
 translate Schinese flynnsunday_aeb24c03:
 
     # "The music seems to sound further and further away until it dissipates entirely."
-    "The music seems to sound further and further away until it dissipates entirely."
+    "@@@The music seems to sound further and further away until it dissipates entirely."
 
-# game/Flynn-Thursday.rpy:12988
+# game/Flynn-Thursday.rpy:12995
 translate Schinese flynnsunday_eda2e4fd:
 
     # sy "...huh. Maybe you're right, Flynn."
-    sy "...huh. Maybe you're right, Flynn."
+    sy "@@@...huh. Maybe you're right, Flynn."
 
-# game/Flynn-Thursday.rpy:12989
+# game/Flynn-Thursday.rpy:12996
 translate Schinese flynnsunday_cd315fcf:
 
     # f "What the fuck are you talking about?"
-    f "What the fuck are you talking about?"
+    f "@@@What the fuck are you talking about?"
 
-# game/Flynn-Thursday.rpy:12990
+# game/Flynn-Thursday.rpy:12997
 translate Schinese flynnsunday_5ed2d771:
 
     # "The sick heat left forgotten in conversation began crawling up my back."
-    "The sick heat left forgotten in conversation began crawling up my back."
+    "@@@The sick heat left forgotten in conversation began crawling up my back."
 
-# game/Flynn-Thursday.rpy:12991
+# game/Flynn-Thursday.rpy:12998
 translate Schinese flynnsunday_65b80ace:
 
     # "Grabbing onto the table to help maintain my own posture, it's clear that something has shifted."
-    "Grabbing onto the table to help maintain my own posture, it's clear that something has shifted."
+    "@@@Grabbing onto the table to help maintain my own posture, it's clear that something has shifted."
 
-# game/Flynn-Thursday.rpy:12992
+# game/Flynn-Thursday.rpy:12999
 translate Schinese flynnsunday_5b71ddf7:
 
     # "The little bit of light in Sydney's eyes - just gone."
-    "The little bit of light in Sydney's eyes - just gone."
+    "@@@The little bit of light in Sydney's eyes - just gone."
 
-# game/Flynn-Thursday.rpy:12993
+# game/Flynn-Thursday.rpy:13000
 translate Schinese flynnsunday_6e201b5e:
 
     # sy "Two bodies."
-    sy "Two bodies."
+    sy "@@@Two bodies."
 
-# game/Flynn-Thursday.rpy:12994
+# game/Flynn-Thursday.rpy:13001
 translate Schinese flynnsunday_e956e03d:
 
     # f "What?"
-    f "What?"
+    f "@@@What?"
 
-# game/Flynn-Thursday.rpy:12995
+# game/Flynn-Thursday.rpy:13002
 translate Schinese flynnsunday_0ce17043:
 
     # sy "Two bodies, right? I remember now. Man, that shit fucking sucked, didn't it."
-    sy "Two bodies, right? I remember now. Man, that shit fucking sucked, didn't it."
+    sy "@@@Two bodies, right? I remember now. Man, that shit fucking sucked, didn't it."
 
-# game/Flynn-Thursday.rpy:12996
+# game/Flynn-Thursday.rpy:13003
 translate Schinese flynnsunday_c0589107:
 
     # "Shifting uncomfortably, the topic had reversed onto what he had previously denied."
-    "Shifting uncomfortably, the topic had reversed onto what he had previously denied."
+    "@@@Shifting uncomfortably, the topic had reversed onto what he had previously denied."
 
-# game/Flynn-Thursday.rpy:12997
+# game/Flynn-Thursday.rpy:13004
 translate Schinese flynnsunday_e43a277c:
 
     # f "...Two bodies, Syd.. You're fucking dead. I saw you. I looked you in the face and I saw nothing."
-    f "...Two bodies, Syd.. You're fucking dead. I saw you. I looked you in the face and I saw nothing."
+    f "@@@...Two bodies, Syd.. You're fucking dead. I saw you. I looked you in the face and I saw nothing."
 
-# game/Flynn-Thursday.rpy:13000
+# game/Flynn-Thursday.rpy:13007
 translate Schinese flynnsunday_72c30db4:
 
     # "I grip the edge of my seat, my gut feeling like it's twisting in on itself."
-    "I grip the edge of my seat, my gut feeling like it's twisting in on itself."
+    "@@@I grip the edge of my seat, my gut feeling like it's twisting in on itself."
 
-# game/Flynn-Thursday.rpy:13001
+# game/Flynn-Thursday.rpy:13008
 translate Schinese flynnsunday_7edef1cb:
 
     # "It's like I'm standing in front of a roaring fireplace, the smell of smoke and fresh ash licking my nostrils, while the heat tickles my scales."
-    "It's like I'm standing in front of a roaring fireplace, the smell of smoke and fresh ash licking my nostrils, while the heat tickles my scales."
+    "@@@It's like I'm standing in front of a roaring fireplace, the smell of smoke and fresh ash licking my nostrils, while the heat tickles my scales."
 
-# game/Flynn-Thursday.rpy:13002
+# game/Flynn-Thursday.rpy:13009
 translate Schinese flynnsunday_f59c328f:
 
     # "Sydney's gone forever. And all that's left is this."
-    "Sydney's gone forever. And all that's left is this."
+    "@@@Sydney's gone forever. And all that's left is this."
 
-# game/Flynn-Thursday.rpy:13003
+# game/Flynn-Thursday.rpy:13010
 translate Schinese flynnsunday_04037732:
 
     # f "\"Who are you?\""
-    f "\"Who are you?\""
+    f "@@@\"Who are you?\""
 
-# game/Flynn-Thursday.rpy:13004
+# game/Flynn-Thursday.rpy:13011
 translate Schinese flynnsunday_e033c850:
 
     # unk "\"{cps=22}{font=ui/belligerent.ttf}It feels different to me.\""
-    unk "\"{cps=22}{font=ui/belligerent.ttf}It feels different to me.\""
+    unk "@@@\"{cps=22}{font=ui/belligerent.ttf}It feels different to me.\""
 
-# game/Flynn-Thursday.rpy:13005
+# game/Flynn-Thursday.rpy:13012
 translate Schinese flynnsunday_2a1e4784:
 
     # "The thing that isn't Sydney looks around."
-    "The thing that isn't Sydney looks around."
+    "@@@The thing that isn't Sydney looks around."
 
-# game/Flynn-Thursday.rpy:13006
+# game/Flynn-Thursday.rpy:13013
 translate Schinese flynnsunday_79f09a34:
 
     # unk "\"{cps=22}{font=ui/belligerent.ttf}This is not the Smoke Room.\""
-    unk "\"{cps=22}{font=ui/belligerent.ttf}This is not the Smoke Room.\""
+    unk "@@@\"{cps=22}{font=ui/belligerent.ttf}This is not the Smoke Room.\""
 
-# game/Flynn-Thursday.rpy:13007
+# game/Flynn-Thursday.rpy:13014
 translate Schinese flynnsunday_c6ce3b04:
 
     # unk "\"{cps=22}{font=ui/belligerent.ttf}It looks like it.. but not to me.\""
-    unk "\"{cps=22}{font=ui/belligerent.ttf}It looks like it.. but not to me.\""
+    unk "@@@\"{cps=22}{font=ui/belligerent.ttf}It looks like it.. but not to me.\""
 
-# game/Flynn-Thursday.rpy:13008
+# game/Flynn-Thursday.rpy:13015
 translate Schinese flynnsunday_259eb856:
 
     # "The otter continues to stare off to the side before seeming to realize I asked a question."
-    "The otter continues to stare off to the side before seeming to realize I asked a question."
+    "@@@The otter continues to stare off to the side before seeming to realize I asked a question."
 
-# game/Flynn-Thursday.rpy:13009
+# game/Flynn-Thursday.rpy:13016
 translate Schinese flynnsunday_fc9c53d2:
 
     # unk "\"{cps=22}{font=ui/belligerent.ttf}Sam.. I am.\""
-    unk "\"{cps=22}{font=ui/belligerent.ttf}Sam.. I am.\""
+    unk "@@@\"{cps=22}{font=ui/belligerent.ttf}Sam.. I am.\""
 
-# game/Flynn-Thursday.rpy:13010
+# game/Flynn-Thursday.rpy:13017
 translate Schinese flynnsunday_1fae132d:
 
     # "While he speaks, he points toward you, across the table, with both hands."
-    "While he speaks, he points toward you, across the table, with both hands."
+    "@@@While he speaks, he points toward you, across the table, with both hands."
 
-# game/Flynn-Thursday.rpy:13011
+# game/Flynn-Thursday.rpy:13018
 translate Schinese flynnsunday_ca960e5c:
 
     # "There's something metal in his grasp - long, and with a barbed end."
-    "There's something metal in his grasp - long, and with a barbed end."
+    "@@@There's something metal in his grasp - long, and with a barbed end."
 
-# game/Flynn-Thursday.rpy:13012
+# game/Flynn-Thursday.rpy:13019
 translate Schinese flynnsunday_d2984268:
 
     # "I can't make out what it is, exactly."
-    "I can't make out what it is, exactly."
+    "@@@I can't make out what it is, exactly."
 
-# game/Flynn-Thursday.rpy:13013
+# game/Flynn-Thursday.rpy:13020
 translate Schinese flynnsunday_f23c8a5a:
 
     # "I swallow, and try to speak evenly."
-    "I swallow, and try to speak evenly."
+    "@@@I swallow, and try to speak evenly."
 
-# game/Flynn-Thursday.rpy:13014
+# game/Flynn-Thursday.rpy:13021
 translate Schinese flynnsunday_c1e1ea87:
 
     # f "\"Who's Sam?\""
-    f "\"Who's Sam?\""
+    f "@@@\"Who's Sam?\""
 
-# game/Flynn-Thursday.rpy:13015
+# game/Flynn-Thursday.rpy:13022
 translate Schinese flynnsunday_9100d49a:
 
     # unk "\"{cps=22}{font=ui/belligerent.ttf}A facsimile of a person that was. I'm dabbing myself with ink so I never dry. But it smudges.\""
-    unk "\"{cps=22}{font=ui/belligerent.ttf}A facsimile of a person that was. I'm dabbing myself with ink so I never dry. But it smudges.\""
+    unk "@@@\"{cps=22}{font=ui/belligerent.ttf}A facsimile of a person that was. I'm dabbing myself with ink so I never dry. But it smudges.\""
 
-# game/Flynn-Thursday.rpy:13030
+# game/Flynn-Thursday.rpy:13038
 translate Schinese flynnsunday_3eee860c:
 
     # unk "\"{cps=22}{font=ui/belligerent.ttf}A simulation.\""
-    unk "\"{cps=22}{font=ui/belligerent.ttf}A simulation.\""
+    unk "@@@\"{cps=22}{font=ui/belligerent.ttf}A simulation.\""
 
-# game/Flynn-Thursday.rpy:13031
+# game/Flynn-Thursday.rpy:13039
 translate Schinese flynnsunday_796049c9:
 
     # unk "\"{cps=22}{font=ui/belligerent.ttf}In here, I become we with you.\""
-    unk "\"{cps=22}{font=ui/belligerent.ttf}In here, I become we with you.\""
+    unk "@@@\"{cps=22}{font=ui/belligerent.ttf}In here, I become we with you.\""
 
-# game/Flynn-Thursday.rpy:13032
+# game/Flynn-Thursday.rpy:13040
 translate Schinese flynnsunday_ebf22a96:
 
     # f "\"Me?\""
-    f "\"Me?\""
+    f "@@@\"Me?\""
 
-# game/Flynn-Thursday.rpy:13033
+# game/Flynn-Thursday.rpy:13041
 translate Schinese flynnsunday_6e53eba7:
 
     # unk "\"{cps=22}{font=ui/belligerent.ttf}Podpalacz, no.\""
-    unk "\"{cps=22}{font=ui/belligerent.ttf}Podpalacz, no.\""
+    unk "@@@\"{cps=22}{font=ui/belligerent.ttf}Podpalacz, no.\""
 
-# game/Flynn-Thursday.rpy:13034
+# game/Flynn-Thursday.rpy:13042
 translate Schinese flynnsunday_307b4fb2:
 
     # "I'm not sure I hear that first part correctly."
-    "I'm not sure I hear that first part correctly."
+    "@@@I'm not sure I hear that first part correctly."
 
-# game/Flynn-Thursday.rpy:13035
+# game/Flynn-Thursday.rpy:13043
 translate Schinese flynnsunday_5f2ade4d:
 
     # unk "\"{cps=22}{font=ui/belligerent.ttf}At first they came through the gate, then they came through the stars.\""
-    unk "\"{cps=22}{font=ui/belligerent.ttf}At first they came through the gate, then they came through the stars.\""
+    unk "@@@\"{cps=22}{font=ui/belligerent.ttf}At first they came through the gate, then they came through the stars.\""
 
-# game/Flynn-Thursday.rpy:13036
+# game/Flynn-Thursday.rpy:13044
 translate Schinese flynnsunday_4775f95b:
 
     # "There is a pause."
-    "There is a pause."
+    "@@@There is a pause."
 
-# game/Flynn-Thursday.rpy:13037
+# game/Flynn-Thursday.rpy:13045
 translate Schinese flynnsunday_591078d7:
 
     # unk "\"{cps=22}{font=ui/belligerent.ttf}Did they come for you?\""
-    unk "\"{cps=22}{font=ui/belligerent.ttf}Did they come for you?\""
+    unk "@@@\"{cps=22}{font=ui/belligerent.ttf}Did they come for you?\""
 
-# game/Flynn-Thursday.rpy:13038
+# game/Flynn-Thursday.rpy:13046
 translate Schinese flynnsunday_22bd1dee:
 
     # "He looks at me, and I feel my legs begin to shake. I tremble, wishing I was anywhere but here."
-    "He looks at me, and I feel my legs begin to shake. I tremble, wishing I was anywhere but here."
+    "@@@He looks at me, and I feel my legs begin to shake. I tremble, wishing I was anywhere but here."
 
-# game/Flynn-Thursday.rpy:13039
+# game/Flynn-Thursday.rpy:13047
 translate Schinese flynnsunday_11c9be2f:
 
     # unk "\"{cps=22}{font=ui/belligerent.ttf}The others before, they bounce, undulating in constant, restless motion.\""
-    unk "\"{cps=22}{font=ui/belligerent.ttf}The others before, they bounce, undulating in constant, restless motion.\""
+    unk "@@@\"{cps=22}{font=ui/belligerent.ttf}The others before, they bounce, undulating in constant, restless motion.\""
 
-# game/Flynn-Thursday.rpy:13040
+# game/Flynn-Thursday.rpy:13048
 translate Schinese flynnsunday_416da8d5:
 
     # "The hollowed figure heaves, breathing heavily as he sways Sydney's body up and down."
-    "The hollowed figure heaves, breathing heavily as he sways Sydney's body up and down."
+    "@@@The hollowed figure heaves, breathing heavily as he sways Sydney's body up and down."
 
-# game/Flynn-Thursday.rpy:13041
+# game/Flynn-Thursday.rpy:13049
 translate Schinese flynnsunday_fc0daa83:
 
     # "He stares at me with eyes that remind me of the fish Carl and I catch at the pond."
-    "He stares at me with eyes that remind me of the fish Carl and I catch at the pond."
+    "@@@He stares at me with eyes that remind me of the fish Carl and I catch at the pond."
 
-# game/Flynn-Thursday.rpy:13042
+# game/Flynn-Thursday.rpy:13050
 translate Schinese flynnsunday_1850918d:
 
     # unk "\"{cps=22}{font=ui/belligerent.ttf}But that's not what you want. You want the answers?\""
-    unk "\"{cps=22}{font=ui/belligerent.ttf}But that's not what you want. You want the answers?\""
+    unk "@@@\"{cps=22}{font=ui/belligerent.ttf}But that's not what you want. You want the answers?\""
 
-# game/Flynn-Thursday.rpy:13043
+# game/Flynn-Thursday.rpy:13051
 translate Schinese flynnsunday_af76c4a5:
 
     # unk "\"{cps=22}{font=ui/belligerent.ttf}After all, it's a bit late for love, and too still for lust.\""
-    unk "\"{cps=22}{font=ui/belligerent.ttf}After all, it's a bit late for love, and too still for lust.\""
+    unk "@@@\"{cps=22}{font=ui/belligerent.ttf}After all, it's a bit late for love, and too still for lust.\""
 
-# game/Flynn-Thursday.rpy:13044
+# game/Flynn-Thursday.rpy:13052
 translate Schinese flynnsunday_0ea8a38e:
 
     # f "\"I.. I just fucking need to know what happened.\""
-    f "\"I.. I just fucking need to know what happened.\""
+    f "@@@\"I.. I just fucking need to know what happened.\""
 
-# game/Flynn-Thursday.rpy:13045
+# game/Flynn-Thursday.rpy:13053
 translate Schinese flynnsunday_2a3420ab:
 
     # f "\"To Sydney. So that this hysteria stops and that everyone else is safe again.\""
-    f "\"To Sydney. So that this hysteria stops and that everyone else is safe again.\""
+    f "@@@\"To Sydney. So that this hysteria stops and that everyone else is safe again.\""
 
-# game/Flynn-Thursday.rpy:13046
+# game/Flynn-Thursday.rpy:13054
 translate Schinese flynnsunday_9f4bc875:
 
     # unk "\"{cps=22}{font=ui/belligerent.ttf}That could help.\""
-    unk "\"{cps=22}{font=ui/belligerent.ttf}That could help.\""
+    unk "@@@\"{cps=22}{font=ui/belligerent.ttf}That could help.\""
 
-# game/Flynn-Thursday.rpy:13047
+# game/Flynn-Thursday.rpy:13055
 translate Schinese flynnsunday_c7b90653:
 
     # unk "\"{cps=22}{font=ui/belligerent.ttf}But are you sure you really want to know?\""
-    unk "\"{cps=22}{font=ui/belligerent.ttf}But are you sure you really want to know?\""
+    unk "@@@\"{cps=22}{font=ui/belligerent.ttf}But are you sure you really want to know?\""
 
-# game/Flynn-Thursday.rpy:13048
+# game/Flynn-Thursday.rpy:13056
 translate Schinese flynnsunday_55da6cca:
 
     # unk "\"{cps=22}{font=ui/belligerent.ttf}You can chase the truth until you're red in the face.\""
-    unk "\"{cps=22}{font=ui/belligerent.ttf}You can chase the truth until you're red in the face.\""
+    unk "@@@\"{cps=22}{font=ui/belligerent.ttf}You can chase the truth until you're red in the face.\""
 
-# game/Flynn-Thursday.rpy:13054
+# game/Flynn-Thursday.rpy:13058
 translate Schinese flynnsunday_e48bcfa3:
 
     # "The thing looks over toward the Smoke Room door. What was once Sydney raises his arm to point at it with unnatural, stuttery movement."
-    "The thing looks over toward the Smoke Room door. What was once Sydney raises his arm to point at it with unnatural, stuttery movement."
+    "@@@The thing looks over toward the Smoke Room door. What was once Sydney raises his arm to point at it with unnatural, stuttery movement."
 
-# game/Flynn-Thursday.rpy:13055
+# game/Flynn-Thursday.rpy:13059
 translate Schinese flynnsunday_ee9b724f:
 
     # unk "\"{cps=22}{font=ui/belligerent.ttf}It ebbs and flows like the tide.\""
-    unk "\"{cps=22}{font=ui/belligerent.ttf}It ebbs and flows like the tide.\""
+    unk "@@@\"{cps=22}{font=ui/belligerent.ttf}It ebbs and flows like the tide.\""
 
-# game/Flynn-Thursday.rpy:13057
+# game/Flynn-Thursday.rpy:13061
 translate Schinese flynnsunday_6ee64e4e:
 
     # unk "\"{cps=22}{font=ui/belligerent.ttf}You can ride it.\""
-    unk "\"{cps=22}{font=ui/belligerent.ttf}You can ride it.\""
+    unk "@@@\"{cps=22}{font=ui/belligerent.ttf}You can ride it.\""
 
-# game/Flynn-Thursday.rpy:13058
+# game/Flynn-Thursday.rpy:13062
 translate Schinese flynnsunday_4b169cf3:
 
     # unk "\"{cps=22}{font=ui/belligerent.ttf}Each time the tide comes in, it's a little less of what it once was - abstracted.\""
-    unk "\"{cps=22}{font=ui/belligerent.ttf}Each time the tide comes in, it's a little less of what it once was - abstracted.\""
+    unk "@@@\"{cps=22}{font=ui/belligerent.ttf}Each time the tide comes in, it's a little less of what it once was - abstracted.\""
 
-# game/Flynn-Thursday.rpy:13059
+# game/Flynn-Thursday.rpy:13063
 translate Schinese flynnsunday_b3f098fb:
 
     # unk "\"{cps=22}{font=ui/belligerent.ttf}It goes where sorrow sprouts, and takes with it what it can before rolling back out.\""
-    unk "\"{cps=22}{font=ui/belligerent.ttf}It goes where sorrow sprouts, and takes with it what it can before rolling back out.\""
+    unk "@@@\"{cps=22}{font=ui/belligerent.ttf}It goes where sorrow sprouts, and takes with it what it can before rolling back out.\""
 
-# game/Flynn-Thursday.rpy:13060
+# game/Flynn-Thursday.rpy:13064
 translate Schinese flynnsunday_0b8fb00c:
 
     # unk "\"{cps=22}{font=ui/belligerent.ttf}Some tides are particularly large.\""
-    unk "\"{cps=22}{font=ui/belligerent.ttf}Some tides are particularly large.\""
+    unk "@@@\"{cps=22}{font=ui/belligerent.ttf}Some tides are particularly large.\""
 
-# game/Flynn-Thursday.rpy:13063
+# game/Flynn-Thursday.rpy:13066
 translate Schinese flynnsunday_1500cabc:
 
     # "He waves a blurred paw at me, and again I see the metal thing grasped in his paw."
-    "He waves a blurred paw at me, and again I see the metal thing grasped in his paw."
+    "@@@He waves a blurred paw at me, and again I see the metal thing grasped in his paw."
 
-# game/Flynn-Thursday.rpy:13064
+# game/Flynn-Thursday.rpy:13067
 translate Schinese flynnsunday_2079f715:
 
     # "He seems to see me looking at it and holds it in front of me."
-    "He seems to see me looking at it and holds it in front of me."
+    "@@@He seems to see me looking at it and holds it in front of me."
 
-# game/Flynn-Thursday.rpy:13065
+# game/Flynn-Thursday.rpy:13068
 translate Schinese flynnsunday_0e4ce73e:
 
     # unk "\"{cps=22}{font=ui/belligerent.ttf}You burn them all down around you until only the truth remains.\""
-    unk "\"{cps=22}{font=ui/belligerent.ttf}You burn them all down around you until only the truth remains.\""
+    unk "@@@\"{cps=22}{font=ui/belligerent.ttf}You burn them all down around you until only the truth remains.\""
 
-# game/Flynn-Thursday.rpy:13066
+# game/Flynn-Thursday.rpy:13069
 translate Schinese flynnsunday_1f1a6327:
 
     # unk "\"{cps=22}{font=ui/belligerent.ttf}You needn't the superfluous kindling, for those are but the lies they tell others, and eventually themselves.\""
-    unk "\"{cps=22}{font=ui/belligerent.ttf}You needn't the superfluous kindling, for those are but the lies they tell others, and eventually themselves.\""
+    unk "@@@\"{cps=22}{font=ui/belligerent.ttf}You needn't the superfluous kindling, for those are but the lies they tell others, and eventually themselves.\""
 
-# game/Flynn-Thursday.rpy:13067
+# game/Flynn-Thursday.rpy:13070
 translate Schinese flynnsunday_eb6a5feb:
 
     # unk "\"{cps=22}{font=ui/belligerent.ttf}You'd make a good detective if you weren't marinating in your nepotistic squalor.\""
-    unk "\"{cps=22}{font=ui/belligerent.ttf}You'd make a good detective if you weren't marinating in your nepotistic squalor.\""
+    unk "@@@\"{cps=22}{font=ui/belligerent.ttf}You'd make a good detective if you weren't marinating in your nepotistic squalor.\""
 
-# game/Flynn-Thursday.rpy:13068
+# game/Flynn-Thursday.rpy:13071
 translate Schinese flynnsunday_2e7dbba3:
 
     # unk "\"{cps=22}{font=ui/belligerent.ttf}Unlovable, shameful, a sin to all who initially cared for you.\""
-    unk "\"{cps=22}{font=ui/belligerent.ttf}Unlovable, shameful, a sin to all who initially cared for you.\""
+    unk "@@@\"{cps=22}{font=ui/belligerent.ttf}Unlovable, shameful, a sin to all who initially cared for you.\""
 
-# game/Flynn-Thursday.rpy:13069
+# game/Flynn-Thursday.rpy:13072
 translate Schinese flynnsunday_856b8205:
 
     # unk "\"{cps=22}{font=ui/belligerent.ttf}Truly only belonging amongst the sawdust, semen, and ash - thoughts drowned out amidst the moaning and groaning of unfamiliar shadows.\""
-    unk "\"{cps=22}{font=ui/belligerent.ttf}Truly only belonging amongst the sawdust, semen, and ash - thoughts drowned out amidst the moaning and groaning of unfamiliar shadows.\""
+    unk "@@@\"{cps=22}{font=ui/belligerent.ttf}Truly only belonging amongst the sawdust, semen, and ash - thoughts drowned out amidst the moaning and groaning of unfamiliar shadows.\""
 
-# game/Flynn-Thursday.rpy:13070
+# game/Flynn-Thursday.rpy:13073
 translate Schinese flynnsunday_403b9e25:
 
     # unk "\"{cps=22}{font=ui/belligerent.ttf}The only one who precisely knew you, who precisely loved you.. ushered into the tide by those you thought fondly of.\""
-    unk "\"{cps=22}{font=ui/belligerent.ttf}The only one who precisely knew you, who precisely loved you.. ushered into the tide by those you thought fondly of.\""
+    unk "@@@\"{cps=22}{font=ui/belligerent.ttf}The only one who precisely knew you, who precisely loved you.. ushered into the tide by those you thought fondly of.\""
 
-# game/Flynn-Thursday.rpy:13071
+# game/Flynn-Thursday.rpy:13074
 translate Schinese flynnsunday_6ab8db9d:
 
     # unk "\"{cps=22}{font=ui/belligerent.ttf}And justice denied again and again and again...\""
-    unk "\"{cps=22}{font=ui/belligerent.ttf}And justice denied again and again and again...\""
+    unk "@@@\"{cps=22}{font=ui/belligerent.ttf}And justice denied again and again and again...\""
 
-# game/Flynn-Thursday.rpy:13072
+# game/Flynn-Thursday.rpy:13075
 translate Schinese flynnsunday_586e24b7:
 
     # "He presses the barbed tip of the rod into the table."
-    "He presses the barbed tip of the rod into the table."
+    "@@@He presses the barbed tip of the rod into the table."
 
-# game/Flynn-Thursday.rpy:13073
+# game/Flynn-Thursday.rpy:13076
 translate Schinese flynnsunday_88cd744a:
 
     # unk "\"{cps=22}{font=ui/belligerent.ttf}There were six and now there's five.\""
-    unk "\"{cps=22}{font=ui/belligerent.ttf}There were six and now there's five.\""
+    unk "@@@\"{cps=22}{font=ui/belligerent.ttf}There were six and now there's five.\""
 
-# game/Flynn-Thursday.rpy:13074
+# game/Flynn-Thursday.rpy:13077
 translate Schinese flynnsunday_005a090d:
 
     # "The distorted otter is looking at the thing in his grasp as he says this."
-    "The distorted otter is looking at the thing in his grasp as he says this."
+    "@@@The distorted otter is looking at the thing in his grasp as he says this."
 
-# game/Flynn-Thursday.rpy:13075
+# game/Flynn-Thursday.rpy:13078
 translate Schinese flynnsunday_0840b685:
 
     # "It's a fire poker."
-    "It's a fire poker."
+    "@@@It's a fire poker."
 
-# game/Flynn-Thursday.rpy:13076
+# game/Flynn-Thursday.rpy:13079
 translate Schinese flynnsunday_c6450df9:
 
     # "I hesitate to speak, my mouth feeling dry and my forked tongue caught between my teeth."
-    "I hesitate to speak, my mouth feeling dry and my forked tongue caught between my teeth."
+    "@@@I hesitate to speak, my mouth feeling dry and my forked tongue caught between my teeth."
 
-# game/Flynn-Thursday.rpy:13077
+# game/Flynn-Thursday.rpy:13080
 translate Schinese flynnsunday_aefb1c97:
 
     # f "\"Yeah.. I get it, but..\""
-    f "\"Yeah.. I get it, but..\""
+    f "@@@\"Yeah.. I get it, but..\""
 
-# game/Flynn-Thursday.rpy:13080
+# game/Flynn-Thursday.rpy:13083
 translate Schinese flynnsunday_a49ffe1e:
 
     # f "\"..are you what I saw earlier, in Leo's van?\""
-    f "\"..are you what I saw earlier, in Leo's van?\""
+    f "@@@\"..are you what I saw earlier, in Leo's van?\""
 
-# game/Flynn-Thursday.rpy:13081
+# game/Flynn-Thursday.rpy:13084
 translate Schinese flynnsunday_39a1b4c4:
 
     # unk "\"{cps=22}{font=ui/belligerent.ttf}No.\""
-    unk "\"{cps=22}{font=ui/belligerent.ttf}No.\""
+    unk "@@@\"{cps=22}{font=ui/belligerent.ttf}No.\""
 
-# game/Flynn-Thursday.rpy:13082
+# game/Flynn-Thursday.rpy:13085
 translate Schinese flynnsunday_6a1b5570:
 
     # f "\"Do you.. know what I'm talking about?\""
-    f "\"Do you.. know what I'm talking about?\""
+    f "@@@\"Do you.. know what I'm talking about?\""
 
-# game/Flynn-Thursday.rpy:13083
+# game/Flynn-Thursday.rpy:13086
 translate Schinese flynnsunday_46e5d6bc:
 
     # unk "\"{cps=22}{font=ui/belligerent.ttf}Yes. We were there.\""
-    unk "\"{cps=22}{font=ui/belligerent.ttf}Yes. We were there.\""
+    unk "@@@\"{cps=22}{font=ui/belligerent.ttf}Yes. We were there.\""
 
-# game/Flynn-Thursday.rpy:13084
+# game/Flynn-Thursday.rpy:13087
 translate Schinese flynnsunday_a0c37637:
 
     # "We. He keeps saying We."
-    "We. He keeps saying We."
+    "@@@We. He keeps saying We."
 
-# game/Flynn-Thursday.rpy:13086
+# game/Flynn-Thursday.rpy:13089
 translate Schinese flynnsunday_a84f1d50:
 
     # f "\"Well, what I just saw.. with Sydney, was that real?\""
-    f "\"Well, what I just saw.. with Sydney, was that real?\""
+    f "@@@\"Well, what I just saw.. with Sydney, was that real?\""
 
-# game/Flynn-Thursday.rpy:13087
+# game/Flynn-Thursday.rpy:13090
 translate Schinese flynnsunday_0eb824be:
 
     # unk "\"{cps=22}{font=ui/belligerent.ttf}It could be. Somewhere in here.\""
-    unk "\"{cps=22}{font=ui/belligerent.ttf}It could be. Somewhere in here.\""
+    unk "@@@\"{cps=22}{font=ui/belligerent.ttf}It could be. Somewhere in here.\""
 
-# game/Flynn-Thursday.rpy:13088
+# game/Flynn-Thursday.rpy:13091
 translate Schinese flynnsunday_2a712e43:
 
     # "He seems to be referring to the poker."
-    "He seems to be referring to the poker."
+    "@@@He seems to be referring to the poker."
 
-# game/Flynn-Thursday.rpy:13089
+# game/Flynn-Thursday.rpy:13092
 translate Schinese flynnsunday_28e83d19:
 
     # "I reach for it, but my hand can't quite touch the metal. It phases right through it."
-    "I reach for it, but my hand can't quite touch the metal. It phases right through it."
+    "@@@I reach for it, but my hand can't quite touch the metal. It phases right through it."
 
-# game/Flynn-Thursday.rpy:13090
+# game/Flynn-Thursday.rpy:13093
 translate Schinese flynnsunday_2b78c32b:
 
     # "The hollowed-thing just stares at me, watching my futile attempt."
-    "The hollowed-thing just stares at me, watching my futile attempt."
+    "@@@The hollowed-thing just stares at me, watching my futile attempt."
 
-# game/Flynn-Thursday.rpy:13091
+# game/Flynn-Thursday.rpy:13094
 translate Schinese flynnsunday_5ef85b18:
 
     # "Slowly, I rise to my feet - my legs gelatin-like as I wobble some."
-    "Slowly, I rise to my feet - my legs gelatin-like as I wobble some."
+    "@@@Slowly, I rise to my feet - my legs gelatin-like as I wobble some."
 
-# game/Flynn-Thursday.rpy:13092
+# game/Flynn-Thursday.rpy:13095
 translate Schinese flynnsunday_b40e11dd:
 
     # "I manage to steady myself with my tail, grasping the sticky table for support."
-    "I manage to steady myself with my tail, grasping the sticky table for support."
+    "@@@I manage to steady myself with my tail, grasping the sticky table for support."
 
-# game/Flynn-Thursday.rpy:13093
+# game/Flynn-Thursday.rpy:13096
 translate Schinese flynnsunday_ab24a531:
 
     # "The distorted otter just watches me, somehow looking almost eager."
-    "The distorted otter just watches me, somehow looking almost eager."
+    "@@@The distorted otter just watches me, somehow looking almost eager."
 
-# game/Flynn-Thursday.rpy:13094
+# game/Flynn-Thursday.rpy:13097
 translate Schinese flynnsunday_18edd674:
 
     # "With no small amount of trepidation, I begin approaching the Smoke Room door, the sound of crackling flames growing louder the closer I get."
-    "With no small amount of trepidation, I begin approaching the Smoke Room door, the sound of crackling flames growing louder the closer I get."
+    "@@@With no small amount of trepidation, I begin approaching the Smoke Room door, the sound of crackling flames growing louder the closer I get."
 
-# game/Flynn-Thursday.rpy:13095
+# game/Flynn-Thursday.rpy:13098
 translate Schinese flynnsunday_bedb0f0c:
 
     # "This has to be it."
-    "This has to be it."
+    "@@@This has to be it."
 
-# game/Flynn-Thursday.rpy:13096
+# game/Flynn-Thursday.rpy:13099
 translate Schinese flynnsunday_b6ce24ab:
 
     # "The alternative being doing nothing, which while real damn appealing, probably wouldn't stop what's going on outside."
-    "The alternative being doing nothing, which while real damn appealing, probably wouldn't stop what's going on outside."
+    "@@@The alternative being doing nothing, which while real damn appealing, probably wouldn't stop what's going on outside."
 
-# game/Flynn-Thursday.rpy:13097
+# game/Flynn-Thursday.rpy:13100
 translate Schinese flynnsunday_66e092ce:
 
     # "If that's how this works, that is."
-    "If that's how this works, that is."
+    "@@@If that's how this works, that is."
 
-# game/Flynn-Thursday.rpy:13098
+# game/Flynn-Thursday.rpy:13101
 translate Schinese flynnsunday_d6fe3110:
 
     # "I grasp the handle."
-    "I grasp the handle."
+    "@@@I grasp the handle."
 
-# game/Flynn-Thursday.rpy:13099
+# game/Flynn-Thursday.rpy:13102
 translate Schinese flynnsunday_d78d88f7:
 
     # f "\"Fuck me...\""
-    f "\"Fuck me...\""
+    f "@@@\"Fuck me...\""
 
-# game/Flynn-Thursday.rpy:13100
+# game/Flynn-Thursday.rpy:13103
 translate Schinese flynnsunday_3a24774d:
 
     # unk "\"{cps=22}{font=ui/belligerent.ttf}Many have.\""
-    unk "\"{cps=22}{font=ui/belligerent.ttf}Many have.\""
+    unk "@@@\"{cps=22}{font=ui/belligerent.ttf}Many have.\""
 
-# game/Flynn-Thursday.rpy:13101
+# game/Flynn-Thursday.rpy:13104
 translate Schinese flynnsunday_d2700f3d:
 
     # "I stop, looking back over my shoulder."
-    "I stop, looking back over my shoulder."
+    "@@@I stop, looking back over my shoulder."
 
-# game/Flynn-Thursday.rpy:13102
+# game/Flynn-Thursday.rpy:13105
 translate Schinese flynnsunday_d1a0ccdc:
 
     # "The figure is leering closer now."
-    "The figure is leering closer now."
+    "@@@The figure is leering closer now."
 
-# game/Flynn-Thursday.rpy:13103
+# game/Flynn-Thursday.rpy:13106
 translate Schinese flynnsunday_2c8a8489:
 
     # f "\"...\""
-    f "\"...\""
+    f "@@@\"...\""
 
-# game/Flynn-Thursday.rpy:13104
+# game/Flynn-Thursday.rpy:13107
 translate Schinese flynnsunday_e3bb3a39:
 
     # f "\"Fuck you, too.\""
-    f "\"Fuck you, too.\""
+    f "@@@\"Fuck you, too.\""
 
-# game/Flynn-Thursday.rpy:13105
+# game/Flynn-Thursday.rpy:13108
 translate Schinese flynnsunday_760232d6:
 
     # "As I turn back to face the door, I swear I see the shape smile."
-    "As I turn back to face the door, I swear I see the shape smile."
+    "@@@As I turn back to face the door, I swear I see the shape smile."
 
-# game/Flynn-Thursday.rpy:13106
+# game/Flynn-Thursday.rpy:13109
 translate Schinese flynnsunday_5fbaef88:
 
     # "I turn the knob and step inside."
-    "I turn the knob and step inside."
+    "@@@I turn the knob and step inside."
 
-# game/Flynn-Thursday.rpy:13110
+# game/Flynn-Thursday.rpy:13113
 translate Schinese flynnsunday_36d35243:
 
     # "The air is absolutely electric, and I feel myself involuntarily shiver."
-    "The air is absolutely electric, and I feel myself involuntarily shiver."
+    "@@@The air is absolutely electric, and I feel myself involuntarily shiver."
 
-# game/Flynn-Thursday.rpy:13111
+# game/Flynn-Thursday.rpy:13114
 translate Schinese flynnsunday_860440e7:
 
     # "I brace myself against the wood sided walls, staring through the darkness."
-    "I brace myself against the wood sided walls, staring through the darkness."
+    "@@@I brace myself against the wood sided walls, staring through the darkness."
 
-# game/Flynn-Thursday.rpy:13112
+# game/Flynn-Thursday.rpy:13115
 translate Schinese flynnsunday_0d32b0a8:
 
     # "I've never seen it this empty before, and I get this sensation in my gut that something terrible happened here."
-    "I've never seen it this empty before, and I get this sensation in my gut that something terrible happened here."
+    "@@@I've never seen it this empty before, and I get this sensation in my gut that something terrible happened here."
 
-# game/Flynn-Thursday.rpy:13113
+# game/Flynn-Thursday.rpy:13116
 translate Schinese flynnsunday_d920c647:
 
     # "Looking back, I don't think the shape followed me."
-    "Looking back, I don't think the shape followed me."
+    "@@@Looking back, I don't think the shape followed me."
 
-# game/Flynn-Thursday.rpy:13114
+# game/Flynn-Thursday.rpy:13117
 translate Schinese flynnsunday_6c0c3dc7:
 
     # "{cps=22}{font=ui/belligerent.ttf}I'm still here."
-    "{cps=22}{font=ui/belligerent.ttf}I'm still here."
+    "@@@{cps=22}{font=ui/belligerent.ttf}I'm still here."
 
-# game/Flynn-Thursday.rpy:13115
+# game/Flynn-Thursday.rpy:13118
 translate Schinese flynnsunday_2e228a7a:
 
     # f "\"Goddamnit, leave me alone!\""
-    f "\"Goddamnit, leave me alone!\""
+    f "@@@\"Goddamnit, leave me alone!\""
 
-# game/Flynn-Thursday.rpy:13116
+# game/Flynn-Thursday.rpy:13119
 translate Schinese flynnsunday_95321f7e:
 
     # "I feel my blood chill, but I keep moving."
-    "I feel my blood chill, but I keep moving."
+    "@@@I feel my blood chill, but I keep moving."
 
-# game/Flynn-Thursday.rpy:13117
+# game/Flynn-Thursday.rpy:13120
 translate Schinese flynnsunday_bc4cc248:
 
     # "Just ignore it, just ignore it..."
-    "Just ignore it, just ignore it..."
+    "@@@Just ignore it, just ignore it..."
 
-# game/Flynn-Thursday.rpy:13118
+# game/Flynn-Thursday.rpy:13121
 translate Schinese flynnsunday_e8e1fe4e:
 
     # "{cps=22}{font=ui/belligerent.ttf}Just ignore it."
-    "{cps=22}{font=ui/belligerent.ttf}Just ignore it."
+    "@@@{cps=22}{font=ui/belligerent.ttf}Just ignore it."
 
-# game/Flynn-Thursday.rpy:13119
+# game/Flynn-Thursday.rpy:13122
 translate Schinese flynnsunday_8f646051:
 
     # "This version of the Smoke Room is impossibly large. I keep walking through the darkness, expecting to reach an end, but it doesn't happen."
-    "This version of the Smoke Room is impossibly large. I keep walking through the darkness, expecting to reach an end, but it doesn't happen."
+    "@@@This version of the Smoke Room is impossibly large. I keep walking through the darkness, expecting to reach an end, but it doesn't happen."
 
-# game/Flynn-Thursday.rpy:13120
+# game/Flynn-Thursday.rpy:13123
 translate Schinese flynnsunday_71ec837e:
 
     # "It just keeps looping in on itself."
-    "It just keeps looping in on itself."
+    "@@@It just keeps looping in on itself."
 
-# game/Flynn-Thursday.rpy:13121
+# game/Flynn-Thursday.rpy:13124
 translate Schinese flynnsunday_cfcc499c:
 
     # "I don't even know what I'm supposed to be looking for."
-    "I don't even know what I'm supposed to be looking for."
+    "@@@I don't even know what I'm supposed to be looking for."
 
-# game/Flynn-Thursday.rpy:13123
+# game/Flynn-Thursday.rpy:13126
 translate Schinese flynnsunday_716db331:
 
     # "I hear a sharp crack - a gunshot, followed by a low cry. Someone's wailing."
-    "I hear a sharp crack - a gunshot, followed by a low cry. Someone's wailing."
+    "@@@I hear a sharp crack - a gunshot, followed by a low cry. Someone's wailing."
 
-# game/Flynn-Thursday.rpy:13124
+# game/Flynn-Thursday.rpy:13127
 translate Schinese flynnsunday_a442c228:
 
     # "It doesn't sound like it's coming from inside, but rather a reverberating noise outside, far away."
-    "It doesn't sound like it's coming from inside, but rather a reverberating noise outside, far away."
+    "@@@It doesn't sound like it's coming from inside, but rather a reverberating noise outside, far away."
 
-# game/Flynn-Thursday.rpy:13125
+# game/Flynn-Thursday.rpy:13128
 translate Schinese flynnsunday_9de6b841:
 
     # "The whole room begins to vibrate, as if activated."
-    "The whole room begins to vibrate, as if activated."
+    "@@@The whole room begins to vibrate, as if activated."
 
-# game/Flynn-Thursday.rpy:13126
+# game/Flynn-Thursday.rpy:13129
 translate Schinese flynnsunday_5ae19fd3:
 
     # "The rumbling, it's stronger on one side of the room. I walk in that direction."
-    "The rumbling, it's stronger on one side of the room. I walk in that direction."
+    "@@@The rumbling, it's stronger on one side of the room. I walk in that direction."
 
-# game/Flynn-Thursday.rpy:13127
+# game/Flynn-Thursday.rpy:13130
 translate Schinese flynnsunday_0c4f713b:
 
     # "As I approach, I hear more wailing, more voices.. some sounding different and rather close."
-    "As I approach, I hear more wailing, more voices.. some sounding different and rather close."
+    "@@@As I approach, I hear more wailing, more voices.. some sounding different and rather close."
 
-# game/Flynn-Thursday.rpy:13128
+# game/Flynn-Thursday.rpy:13131
 translate Schinese flynnsunday_a5edf1d8:
 
     # da "\"Flynn!\""
-    da "\"Flynn!\""
+    da "@@@\"Flynn!\""
 
-# game/Flynn-Thursday.rpy:13129
+# game/Flynn-Thursday.rpy:13132
 translate Schinese flynnsunday_900f65ce:
 
     # "Now there's huffing and panting, the sound of hooves and soft feet upon a stone floor."
-    "Now there's huffing and panting, the sound of hooves and soft feet upon a stone floor."
+    "@@@Now there's huffing and panting, the sound of hooves and soft feet upon a stone floor."
 
-# game/Flynn-Thursday.rpy:13133
+# game/Flynn-Thursday.rpy:13136
 translate Schinese flynnsunday_89cca952:
 
     # "They're trying to catch up to me, at the other end of the long, cavernous hallway."
-    "They're trying to catch up to me, at the other end of the long, cavernous hallway."
+    "@@@They're trying to catch up to me, at the other end of the long, cavernous hallway."
 
-# game/Flynn-Thursday.rpy:13134
+# game/Flynn-Thursday.rpy:13137
 translate Schinese flynnsunday_4a20aa03:
 
     # "The rebar from before.. Jesus, I'm not in the Smoke Room."
-    "The rebar from before.. Jesus, I'm not in the Smoke Room."
+    "@@@The rebar from before.. Jesus, I'm not in the Smoke Room."
 
-# game/Flynn-Thursday.rpy:13135
+# game/Flynn-Thursday.rpy:13138
 translate Schinese flynnsunday_ee29abb3:
 
     # "I'm in the mines."
-    "I'm in the mines."
+    "@@@I'm in the mines."
 
-# game/Flynn-Thursday.rpy:13136
+# game/Flynn-Thursday.rpy:13139
 translate Schinese flynnsunday_3d92b249:
 
     # "And it's very, very hot."
-    "And it's very, very hot."
+    "@@@And it's very, very hot."
 
-# game/Flynn-Thursday.rpy:13137
+# game/Flynn-Thursday.rpy:13140
 translate Schinese flynnsunday_d77e032d:
 
     # "I feel my whole body rumble, like shockwaves are bouncing my insides."
-    "I feel my whole body rumble, like shockwaves are bouncing my insides."
+    "@@@I feel my whole body rumble, like shockwaves are bouncing my insides."
 
-# game/Flynn-Thursday.rpy:13138
+# game/Flynn-Thursday.rpy:13141
 translate Schinese flynnsunday_d34fc7b8:
 
     # "Kinetic energy.. electricity - like a thousand subwoofers reverberating from the stone walls."
-    "Kinetic energy.. electricity - like a thousand subwoofers reverberating from the stone walls."
+    "@@@Kinetic energy.. electricity - like a thousand subwoofers reverberating from the stone walls."
 
-# game/Flynn-Thursday.rpy:13139
+# game/Flynn-Thursday.rpy:13142
 translate Schinese flynnsunday_2c5d7524:
 
     # unk "\"{cps=22}{font=ui/belligerent.ttf}We're here.\""
-    unk "\"{cps=22}{font=ui/belligerent.ttf}We're here.\""
+    unk "@@@\"{cps=22}{font=ui/belligerent.ttf}We're here.\""
 
-# game/Flynn-Thursday.rpy:13140
+# game/Flynn-Thursday.rpy:13143
 translate Schinese flynnsunday_b7b54d85:
 
     # unk "\"{cps=22}{font=ui/belligerent.ttf}The source.\""
-    unk "\"{cps=22}{font=ui/belligerent.ttf}The source.\""
+    unk "@@@\"{cps=22}{font=ui/belligerent.ttf}The source.\""
 
-# game/Flynn-Thursday.rpy:13141
+# game/Flynn-Thursday.rpy:13144
 translate Schinese flynnsunday_3e5a4c6f:
 
     # unk "\"{cps=22}{font=ui/belligerent.ttf}The.. {i}seed{/i}.\""
-    unk "\"{cps=22}{font=ui/belligerent.ttf}The.. {i}seed{/i}.\""
+    unk "@@@\"{cps=22}{font=ui/belligerent.ttf}The.. {i}seed{/i}.\""
 
-# game/Flynn-Thursday.rpy:13142
+# game/Flynn-Thursday.rpy:13145
 translate Schinese flynnsunday_89e3a208:
 
     # c "\"Dude!\""
-    c "\"Dude!\""
+    c "@@@\"Dude!\""
 
-# game/Flynn-Thursday.rpy:13146
+# game/Flynn-Thursday.rpy:13149
 translate Schinese flynnsunday_41a3c1ff:
 
     # f "\"S-...stay back!\""
-    f "\"S-...stay back!\""
+    f "@@@\"S-...stay back!\""
 
-# game/Flynn-Thursday.rpy:13147
+# game/Flynn-Thursday.rpy:13150
 translate Schinese flynnsunday_f276f849:
 
     # "Initially, it's like a cold shower - an icy sensation that presses against my front and washes over me like a tide."
-    "Initially, it's like a cold shower - an icy sensation that presses against my front and washes over me like a tide."
+    "@@@Initially, it's like a cold shower - an icy sensation that presses against my front and washes over me like a tide."
 
-# game/Flynn-Thursday.rpy:13148
+# game/Flynn-Thursday.rpy:13151
 translate Schinese flynnsunday_b5f42e7c:
 
     # "I recoil, but there's nowhere to withdraw back to."
-    "I recoil, but there's nowhere to withdraw back to."
+    "@@@I recoil, but there's nowhere to withdraw back to."
 
-# game/Flynn-Thursday.rpy:13153
+# game/Flynn-Thursday.rpy:13156
 translate Schinese flynnsunday_88cfff98:
 
     # "At first measure, the body is unable to discern extreme cold from extreme heat, though that time soon passes and the burning feels all too real."
-    "At first measure, the body is unable to discern extreme cold from extreme heat, though that time soon passes and the burning feels all too real."
+    "@@@At first measure, the body is unable to discern extreme cold from extreme heat, though that time soon passes and the burning feels all too real."
 
-# game/Flynn-Thursday.rpy:13155
+# game/Flynn-Thursday.rpy:13158
 translate Schinese flynnsunday_685f38f6:
 
     # "I can feel it seep in between the cracks of my scales and lick at the more vulnerable flesh beneath."
-    "I can feel it seep in between the cracks of my scales and lick at the more vulnerable flesh beneath."
+    "@@@I can feel it seep in between the cracks of my scales and lick at the more vulnerable flesh beneath."
 
-# game/Flynn-Thursday.rpy:13156
+# game/Flynn-Thursday.rpy:13159
 translate Schinese flynnsunday_ee0dd8b5:
 
     # "I'm standing in fire, but I don't see it."
-    "I'm standing in fire, but I don't see it."
+    "@@@I'm standing in fire, but I don't see it."
 
-# game/Flynn-Thursday.rpy:13157
+# game/Flynn-Thursday.rpy:13160
 translate Schinese flynnsunday_20e4edd6:
 
     # "I see nothing."
-    "I see nothing."
+    "@@@I see nothing."
 
-# game/Flynn-Thursday.rpy:13158
+# game/Flynn-Thursday.rpy:13161
 translate Schinese flynnsunday_b2292e91:
 
     # "I can't even tell where it's coming from. Wherever I go, the burning follows."
-    "I can't even tell where it's coming from. Wherever I go, the burning follows."
+    "@@@I can't even tell where it's coming from. Wherever I go, the burning follows."
 
-# game/Flynn-Thursday.rpy:13159
+# game/Flynn-Thursday.rpy:13162
 translate Schinese flynnsunday_3c92a756:
 
     # "The fabric of my clothes ripples and the seams begin to snap away. Some of it falls to the floor, while the rest clings to my body like new skin."
-    "The fabric of my clothes ripples and the seams begin to snap away. Some of it falls to the floor, while the rest clings to my body like new skin."
+    "@@@The fabric of my clothes ripples and the seams begin to snap away. Some of it falls to the floor, while the rest clings to my body like new skin."
 
-# game/Flynn-Thursday.rpy:13160
+# game/Flynn-Thursday.rpy:13163
 translate Schinese flynnsunday_7b7150cd:
 
     # "Even the air I breathe burns, making my insides boil."
-    "Even the air I breathe burns, making my insides boil."
+    "@@@Even the air I breathe burns, making my insides boil."
 
-# game/Flynn-Thursday.rpy:13161
+# game/Flynn-Thursday.rpy:13164
 translate Schinese flynnsunday_9b684e4d:
 
     # "This isn't in my head. This is real.. I'm burning."
-    "This isn't in my head. This is real.. I'm burning."
+    "@@@This isn't in my head. This is real.. I'm burning."
 
-# game/Flynn-Thursday.rpy:13162
+# game/Flynn-Thursday.rpy:13165
 translate Schinese flynnsunday_69b7c335:
 
     # "I flail into the darkness, running now."
-    "I flail into the darkness, running now."
+    "@@@I flail into the darkness, running now."
 
-# game/Flynn-Thursday.rpy:13163
+# game/Flynn-Thursday.rpy:13166
 translate Schinese flynnsunday_cd2cb313:
 
     # "After a while, it feels like I'm practically gliding."
-    "After a while, it feels like I'm practically gliding."
+    "@@@After a while, it feels like I'm practically gliding."
 
-# game/Flynn-Thursday.rpy:13164
+# game/Flynn-Thursday.rpy:13167
 translate Schinese flynnsunday_4b2951a9:
 
     # "I hear a sound and move toward it."
-    "I hear a sound and move toward it."
+    "@@@I hear a sound and move toward it."
 
-# game/Flynn-Thursday.rpy:13165
+# game/Flynn-Thursday.rpy:13168
 translate Schinese flynnsunday_e064354a:
 
     # f "\"Fucking help me...\""
-    f "\"Fucking help me...\""
+    f "@@@\"Fucking help me...\""
 
-# game/Flynn-Thursday.rpy:13166
+# game/Flynn-Thursday.rpy:13169
 translate Schinese flynnsunday_b3541f4d:
 
     # "I utter, my voice raspy and light."
-    "I utter, my voice raspy and light."
+    "@@@I utter, my voice raspy and light."
 
-# game/Flynn-Thursday.rpy:13168
+# game/Flynn-Thursday.rpy:13171
 translate Schinese flynnsunday_574c8f7b:
 
     # "Footsteps - there are several of them, and a bonfire."
-    "Footsteps - there are several of them, and a bonfire."
+    "@@@Footsteps - there are several of them, and a bonfire."
 
-# game/Flynn-Thursday.rpy:13169
+# game/Flynn-Thursday.rpy:13172
 translate Schinese flynnsunday_48daffc8:
 
     # "I see the silhouettes of people running, flailing about just like me."
-    "I see the silhouettes of people running, flailing about just like me."
+    "@@@I see the silhouettes of people running, flailing about just like me."
 
-# game/Flynn-Thursday.rpy:13170
+# game/Flynn-Thursday.rpy:13173
 translate Schinese flynnsunday_bc8ddb56:
 
     # "Panic, everywhere."
-    "Panic, everywhere."
+    "@@@Panic, everywhere."
 
-# game/Flynn-Thursday.rpy:13171
+# game/Flynn-Thursday.rpy:13174
 translate Schinese flynnsunday_e303c86d:
 
     # "A woman, Genevieve Sanders - the mail carrier, is standing above the fire."
-    "A woman, Genevieve Sanders - the mail carrier, is standing above the fire."
+    "@@@A woman, Genevieve Sanders - the mail carrier, is standing above the fire."
 
-# game/Flynn-Thursday.rpy:13172
+# game/Flynn-Thursday.rpy:13175
 translate Schinese flynnsunday_5fa3240a:
 
     # "A gun is in her hands. Salem's body is burning."
-    "A gun is in her hands. Salem's body is burning."
+    "@@@A gun is in her hands. Salem's body is burning."
 
-# game/Flynn-Thursday.rpy:13173
+# game/Flynn-Thursday.rpy:13176
 translate Schinese flynnsunday_448ee7ec:
 
     # "And beside her is Auntie, face down with a bloody hole in the back of her head."
-    "And beside her is Auntie, face down with a bloody hole in the back of her head."
+    "@@@And beside her is Auntie, face down with a bloody hole in the back of her head."
 
-# game/Flynn-Thursday.rpy:13174
+# game/Flynn-Thursday.rpy:13177
 translate Schinese flynnsunday_4e000f22:
 
     # f "\"No...\""
-    f "\"No...\""
+    f "@@@\"No...\""
 
-# game/Flynn-Thursday.rpy:13175
+# game/Flynn-Thursday.rpy:13178
 translate Schinese flynnsunday_202d81d6:
 
     # "I pinch myself, trying to wake up."
-    "I pinch myself, trying to wake up."
+    "@@@I pinch myself, trying to wake up."
 
-# game/Flynn-Thursday.rpy:13176
+# game/Flynn-Thursday.rpy:13179
 translate Schinese flynnsunday_4876b0b0:
 
     # "I pinch so hard, I feel the scale on my arm split in half, and blood that seems like it's boiling pools from it."
-    "I pinch so hard, I feel the scale on my arm split in half, and blood that seems like it's boiling pools from it."
+    "@@@I pinch so hard, I feel the scale on my arm split in half, and blood that seems like it's boiling pools from it."
 
-# game/Flynn-Thursday.rpy:13177
+# game/Flynn-Thursday.rpy:13180
 translate Schinese flynnsunday_b323efcb:
 
     # "It quickly evaporates, and all that's left is a mark of reddish-pink flesh beneath, scar tissue."
-    "It quickly evaporates, and all that's left is a mark of reddish-pink flesh beneath, scar tissue."
+    "@@@It quickly evaporates, and all that's left is a mark of reddish-pink flesh beneath, scar tissue."
 
-# game/Flynn-Thursday.rpy:13178
+# game/Flynn-Thursday.rpy:13181
 translate Schinese flynnsunday_699ebf2c:
 
     # "I look up, and she's still standing there - mouth agape, like she's frozen, but her eyes follow me in realtime."
-    "I look up, and she's still standing there - mouth agape, like she's frozen, but her eyes follow me in realtime."
+    "@@@I look up, and she's still standing there - mouth agape, like she's frozen, but her eyes follow me in realtime."
 
-# game/Flynn-Thursday.rpy:13179
+# game/Flynn-Thursday.rpy:13182
 translate Schinese flynnsunday_eaece11f:
 
     # "She sees me.. but it's like she can't act."
-    "She sees me.. but it's like she can't act."
+    "@@@She sees me.. but it's like she can't act."
 
-# game/Flynn-Thursday.rpy:13180
+# game/Flynn-Thursday.rpy:13183
 translate Schinese flynnsunday_34a89e65:
 
     # f "\"Why? Fucking.. WHY?!\""
-    f "\"Why? Fucking.. WHY?!\""
+    f "@@@\"Why? Fucking.. WHY?!\""
 
-# game/Flynn-Thursday.rpy:13181
+# game/Flynn-Thursday.rpy:13184
 translate Schinese flynnsunday_42129209:
 
     # "I receive no answer from the horrified visage."
-    "I receive no answer from the horrified visage."
+    "@@@I receive no answer from the horrified visage."
 
-# game/Flynn-Thursday.rpy:13182
+# game/Flynn-Thursday.rpy:13185
 translate Schinese flynnsunday_319418ef:
 
     # "She's still holding the gun."
-    "She's still holding the gun."
+    "@@@She's still holding the gun."
 
-# game/Flynn-Thursday.rpy:13183
+# game/Flynn-Thursday.rpy:13186
 translate Schinese flynnsunday_4940c97b:
 
     # "{cps=22}{font=ui/belligerent.ttf}She'll do it again."
-    "{cps=22}{font=ui/belligerent.ttf}She'll do it again."
+    "@@@{cps=22}{font=ui/belligerent.ttf}She'll do it again."
 
-# game/Flynn-Thursday.rpy:13184
+# game/Flynn-Thursday.rpy:13187
 translate Schinese flynnsunday_bbf43c94:
 
     # "She'll do it again."
-    "She'll do it again."
+    "@@@She'll do it again."
 
-# game/Flynn-Thursday.rpy:13187
+# game/Flynn-Thursday.rpy:13190
 translate Schinese flynnsunday_bb56290a:
 
     # "I lunge, and it's like she's made of sand, flesh dissolving away beneath my claws as I touch her."
-    "I lunge, and it's like she's made of sand, flesh dissolving away beneath my claws as I touch her."
+    "@@@I lunge, and it's like she's made of sand, flesh dissolving away beneath my claws as I touch her."
 
-# game/Flynn-Thursday.rpy:13189
+# game/Flynn-Thursday.rpy:13192
 translate Schinese flynnsunday_bb56290a_1:
 
     # "I lunge, and it's like she's made of sand, flesh dissolving away beneath my claws as I touch her."
-    "I lunge, and it's like she's made of sand, flesh dissolving away beneath my claws as I touch her."
+    "@@@I lunge, and it's like she's made of sand, flesh dissolving away beneath my claws as I touch her."
 
-# game/Flynn-Thursday.rpy:13191
+# game/Flynn-Thursday.rpy:13194
 translate Schinese flynnsunday_bb56290a_2:
 
     # "I lunge, and it's like she's made of sand, flesh dissolving away beneath my claws as I touch her."
-    "I lunge, and it's like she's made of sand, flesh dissolving away beneath my claws as I touch her."
+    "@@@I lunge, and it's like she's made of sand, flesh dissolving away beneath my claws as I touch her."
 
-# game/Flynn-Thursday.rpy:13195
+# game/Flynn-Thursday.rpy:13198
 translate Schinese flynnsunday_4558be36:
 
     # "And then, it's like a rope wrapped around my waist yanks me back."
-    "And then, it's like a rope wrapped around my waist yanks me back."
+    "@@@And then, it's like a rope wrapped around my waist yanks me back."
 
-# game/Flynn-Thursday.rpy:13196
+# game/Flynn-Thursday.rpy:13199
 translate Schinese flynnsunday_61d4fc88:
 
     # "The wind is like sandpaper against my burning head as I fly through blurred shapes and silhouettes."
-    "The wind is like sandpaper against my burning head as I fly through blurred shapes and silhouettes."
+    "@@@The wind is like sandpaper against my burning head as I fly through blurred shapes and silhouettes."
 
-# game/Flynn-Thursday.rpy:13197
+# game/Flynn-Thursday.rpy:13200
 translate Schinese flynnsunday_77aaff3f:
 
     # "What'd I do? Was that real?"
-    "What'd I do? Was that real?"
+    "@@@What'd I do? Was that real?"
 
-# game/Flynn-Thursday.rpy:13198
+# game/Flynn-Thursday.rpy:13201
 translate Schinese flynnsunday_07c81af7:
 
     # "Oh, God, Auntie..."
-    "Oh, God, Auntie..."
+    "@@@Oh, God, Auntie..."
 
-# game/Flynn-Thursday.rpy:13199
+# game/Flynn-Thursday.rpy:13202
 translate Schinese flynnsunday_c84e9894:
 
     # "Jesus, fuck, what's happening?"
-    "Jesus, fuck, what's happening?"
+    "@@@Jesus, fuck, what's happening?"
 
-# game/Flynn-Thursday.rpy:13202
+# game/Flynn-Thursday.rpy:13205
 translate Schinese flynnsunday_c7cb3b83:
 
     # "Next thing I know, I'm in front of City Hall again."
-    "Next thing I know, I'm in front of City Hall again."
+    "@@@Next thing I know, I'm in front of City Hall again."
 
-# game/Flynn-Thursday.rpy:13203
+# game/Flynn-Thursday.rpy:13206
 translate Schinese flynnsunday_38b1ad43:
 
     # "Though.. everything's different."
-    "Though.. everything's different."
+    "@@@Though.. everything's different."
 
-# game/Flynn-Thursday.rpy:13204
+# game/Flynn-Thursday.rpy:13207
 translate Schinese flynnsunday_4039d2e6:
 
     # "There's a crowd gathered around the large tree outside, and their clothes are all old-timey like."
-    "There's a crowd gathered around the large tree outside, and their clothes are all old-timey like."
+    "@@@There's a crowd gathered around the large tree outside, and their clothes are all old-timey like."
 
-# game/Flynn-Thursday.rpy:13205
+# game/Flynn-Thursday.rpy:13208
 translate Schinese flynnsunday_b8aa69a4:
 
     # "Men in suspenders, women in prairie-blouses."
-    "Men in suspenders, women in prairie-blouses."
+    "@@@Men in suspenders, women in prairie-blouses."
 
-# game/Flynn-Thursday.rpy:13206
+# game/Flynn-Thursday.rpy:13209
 translate Schinese flynnsunday_0372c037:
 
     # "Their faces are furious blurs, polygonal masses of fur and teeth that seem to exude their emotion more strongly than their distinct facial features."
-    "Their faces are furious blurs, polygonal masses of fur and teeth that seem to exude their emotion more strongly than their distinct facial features."
+    "@@@Their faces are furious blurs, polygonal masses of fur and teeth that seem to exude their emotion more strongly than their distinct facial features."
 
-# game/Flynn-Thursday.rpy:13207
+# game/Flynn-Thursday.rpy:13210
 translate Schinese flynnsunday_6166abf5:
 
     # "A Meseta fennec stands upon a wooden stool with a noose wrapped around his neck - the priest next to him reading his last rites."
-    "A Meseta fennec stands upon a wooden stool with a noose wrapped around his neck - the priest next to him reading his last rites."
+    "@@@A Meseta fennec stands upon a wooden stool with a noose wrapped around his neck - the priest next to him reading his last rites."
 
-# game/Flynn-Thursday.rpy:13208
+# game/Flynn-Thursday.rpy:13211
 translate Schinese flynnsunday_8ddd4046:
 
     # "The man is so angry, so hurt.. tears like waterfalls down his matted, yellow cheeks."
-    "The man is so angry, so hurt.. tears like waterfalls down his matted, yellow cheeks."
+    "@@@The man is so angry, so hurt.. tears like waterfalls down his matted, yellow cheeks."
 
-# game/Flynn-Thursday.rpy:13209
+# game/Flynn-Thursday.rpy:13212
 translate Schinese flynnsunday_fae194ef:
 
     # "Someone hurls a piece of hardtack that hits him square in the jaw, but he doesn't react."
-    "Someone hurls a piece of hardtack that hits him square in the jaw, but he doesn't react."
+    "@@@Someone hurls a piece of hardtack that hits him square in the jaw, but he doesn't react."
 
-# game/Flynn-Thursday.rpy:13210
+# game/Flynn-Thursday.rpy:13213
 translate Schinese flynnsunday_d729cd69:
 
     # "The cries of the crowd are obscured, distorted. Something about a child or children."
-    "The cries of the crowd are obscured, distorted. Something about a child or children."
+    "@@@The cries of the crowd are obscured, distorted. Something about a child or children."
 
-# game/Flynn-Thursday.rpy:13211
+# game/Flynn-Thursday.rpy:13214
 translate Schinese flynnsunday_11727268:
 
     # "There's a man at the edge of the crowd, a ram. The one the fennec is staring at."
-    "There's a man at the edge of the crowd, a ram. The one the fennec is staring at."
+    "@@@There's a man at the edge of the crowd, a ram. The one the fennec is staring at."
 
-# game/Flynn-Thursday.rpy:13212
+# game/Flynn-Thursday.rpy:13215
 translate Schinese flynnsunday_e295edad:
 
     # "He looks like Carl."
-    "He looks like Carl."
+    "@@@He looks like Carl."
 
-# game/Flynn-Thursday.rpy:13213
+# game/Flynn-Thursday.rpy:13216
 translate Schinese flynnsunday_d5b5790a:
 
     # "The ram pivots on his hooves, turning to walk away but stops when he sees me, his expression vacant."
-    "The ram pivots on his hooves, turning to walk away but stops when he sees me, his expression vacant."
+    "@@@The ram pivots on his hooves, turning to walk away but stops when he sees me, his expression vacant."
 
-# game/Flynn-Thursday.rpy:13214
+# game/Flynn-Thursday.rpy:13217
 translate Schinese flynnsunday_aa94acf0:
 
     # "The fennec shouts indiscernible hatred at the man, and just then the stool is kicked out from beneath him."
-    "The fennec shouts indiscernible hatred at the man, and just then the stool is kicked out from beneath him."
+    "@@@The fennec shouts indiscernible hatred at the man, and just then the stool is kicked out from beneath him."
 
-# game/Flynn-Thursday.rpy:13217
+# game/Flynn-Thursday.rpy:13220
 translate Schinese flynnsunday_b869bf5a:
 
     # "As he sways, feet kicking and dribblets of piss cascading down his overalls, it's as if the ground itself begins to bounce."
-    "As he sways, feet kicking and dribblets of piss cascading down his overalls, it's as if the ground itself begins to bounce."
+    "@@@As he sways, feet kicking and dribblets of piss cascading down his overalls, it's as if the ground itself begins to bounce."
 
-# game/Flynn-Thursday.rpy:13218
+# game/Flynn-Thursday.rpy:13221
 translate Schinese flynnsunday_6ec3a8d9:
 
     # "It's something so palpable and awful that it's beyond words, that I can feel within my mind more readily than the burning of my flesh."
-    "It's something so palpable and awful that it's beyond words, that I can feel within my mind more readily than the burning of my flesh."
+    "@@@It's something so palpable and awful that it's beyond words, that I can feel within my mind more readily than the burning of my flesh."
 
-# game/Flynn-Thursday.rpy:13219
+# game/Flynn-Thursday.rpy:13222
 translate Schinese flynnsunday_b6dff3e2:
 
     # "The stony faces of the mob seem completely unaware that their actions are feeding something far greater than they will ever know."
-    "The stony faces of the mob seem completely unaware that their actions are feeding something far greater than they will ever know."
+    "@@@The stony faces of the mob seem completely unaware that their actions are feeding something far greater than they will ever know."
 
-# game/Flynn-Thursday.rpy:13222
+# game/Flynn-Thursday.rpy:13225
 translate Schinese flynnsunday_248b1d00:
 
     # "I'm sucked away again, and feel my scales fall from my body like black and orange confetti."
-    "I'm sucked away again, and feel my scales fall from my body like black and orange confetti."
+    "@@@I'm sucked away again, and feel my scales fall from my body like black and orange confetti."
 
-# game/Flynn-Thursday.rpy:13223
+# game/Flynn-Thursday.rpy:13226
 translate Schinese flynnsunday_5a337f71:
 
     # "My thudding heartbeat is becoming increasingly irregular."
-    "My thudding heartbeat is becoming increasingly irregular."
+    "@@@My thudding heartbeat is becoming increasingly irregular."
 
-# game/Flynn-Thursday.rpy:13229
+# game/Flynn-Thursday.rpy:13232
 translate Schinese flynnsunday_96340b53:
 
     # "I'm standing behind a shelf now."
-    "I'm standing behind a shelf now."
+    "@@@I'm standing behind a shelf now."
 
-# game/Flynn-Thursday.rpy:13230
+# game/Flynn-Thursday.rpy:13233
 translate Schinese flynnsunday_e85e5a6b:
 
     # "There's someone in a hoodie next to me, but he doesn't notice I'm here."
-    "There's someone in a hoodie next to me, but he doesn't notice I'm here."
+    "@@@There's someone in a hoodie next to me, but he doesn't notice I'm here."
 
-# game/Flynn-Thursday.rpy:13231
+# game/Flynn-Thursday.rpy:13234
 translate Schinese flynnsunday_ceed7eb2:
 
     # "He's got a camcorder."
-    "He's got a camcorder."
+    "@@@He's got a camcorder."
 
-# game/Flynn-Thursday.rpy:13232
+# game/Flynn-Thursday.rpy:13235
 translate Schinese flynnsunday_15d47ee8:
 
     # "I think it's.. it's Salem? He's younger."
-    "I think it's.. it's Salem? He's younger."
+    "@@@I think it's.. it's Salem? He's younger."
 
-# game/Flynn-Thursday.rpy:13235
+# game/Flynn-Thursday.rpy:13238
 translate Schinese flynnsunday_5ba1ff47:
 
     # "A large bear - larger than me by a couple inches - steps out from what looks like the bathroom door."
-    "A large bear - larger than me by a couple inches - steps out from what looks like the bathroom door."
+    "@@@A large bear - larger than me by a couple inches - steps out from what looks like the bathroom door."
 
-# game/Flynn-Thursday.rpy:13236
+# game/Flynn-Thursday.rpy:13239
 translate Schinese flynnsunday_ab651e94:
 
     # "It's Brian.. meth dealer who lives in a trailer on the outskirts of the old city limits."
-    "It's Brian.. meth dealer who lives in a trailer on the outskirts of the old city limits."
+    "@@@It's Brian.. meth dealer who lives in a trailer on the outskirts of the old city limits."
 
-# game/Flynn-Thursday.rpy:13237
+# game/Flynn-Thursday.rpy:13240
 translate Schinese flynnsunday_6489cf2f:
 
     # "I see him at the Smoke Room sometimes. He deals there."
-    "I see him at the Smoke Room sometimes. He deals there."
+    "@@@I see him at the Smoke Room sometimes. He deals there."
 
-# game/Flynn-Thursday.rpy:13238
+# game/Flynn-Thursday.rpy:13241
 translate Schinese flynnsunday_fb9faba6:
 
     # "Neither of them are looking in my direction."
-    "Neither of them are looking in my direction."
+    "@@@Neither of them are looking in my direction."
 
-# game/Flynn-Thursday.rpy:13239
+# game/Flynn-Thursday.rpy:13242
 translate Schinese flynnsunday_a06341fc:
 
     # "I soon see why."
-    "I soon see why."
+    "@@@I soon see why."
 
-# game/Flynn-Thursday.rpy:13240
+# game/Flynn-Thursday.rpy:13243
 translate Schinese flynnsunday_95c242fa:
 
     # "There's a fennec on.. what looks like a rack nearby."
-    "There's a fennec on.. what looks like a rack nearby."
+    "@@@There's a fennec on.. what looks like a rack nearby."
 
-# game/Flynn-Thursday.rpy:13241
+# game/Flynn-Thursday.rpy:13244
 translate Schinese flynnsunday_d57e3aa4:
 
     # "One of his eyeballs is gone, but he's still alive."
-    "One of his eyeballs is gone, but he's still alive."
+    "@@@One of his eyeballs is gone, but he's still alive."
 
-# game/Flynn-Thursday.rpy:13242
+# game/Flynn-Thursday.rpy:13245
 translate Schinese flynnsunday_dab19632:
 
     # "On the television behind Brian, a slideshow of grotesque images flashes by - one of the fennec's missing eye on the Smoke Room counter."
-    "On the television behind Brian, a slideshow of grotesque images flashes by - one of the fennec's missing eye on the Smoke Room counter."
+    "@@@On the television behind Brian, a slideshow of grotesque images flashes by - one of the fennec's missing eye on the Smoke Room counter."
 
-# game/Flynn-Thursday.rpy:13243
+# game/Flynn-Thursday.rpy:13246
 translate Schinese flynnsunday_24f21f16:
 
     # "It looks like the place was closed, so nobody could walk in and see what they were doing."
-    "It looks like the place was closed, so nobody could walk in and see what they were doing."
+    "@@@It looks like the place was closed, so nobody could walk in and see what they were doing."
 
-# game/Flynn-Thursday.rpy:13244
+# game/Flynn-Thursday.rpy:13247
 translate Schinese flynnsunday_d1c2c687:
 
     # "In the \"real\" world, the fennec's words are garbled and distorted, as if coming from an old VHS."
-    "In the \"real\" world, the fennec's words are garbled and distorted, as if coming from an old VHS."
+    "@@@In the \"real\" world, the fennec's words are garbled and distorted, as if coming from an old VHS."
 
-# game/Flynn-Thursday.rpy:13245
+# game/Flynn-Thursday.rpy:13248
 translate Schinese flynnsunday_4cb16113:
 
     # "He's feigning love for the bear, asking for him to hold him tender-like instead of whatever else he has planned."
-    "He's feigning love for the bear, asking for him to hold him tender-like instead of whatever else he has planned."
+    "@@@He's feigning love for the bear, asking for him to hold him tender-like instead of whatever else he has planned."
 
-# game/Flynn-Thursday.rpy:13246
+# game/Flynn-Thursday.rpy:13249
 translate Schinese flynnsunday_055a1fd9:
 
     # "The fennec's face becomes increasingly blurry."
-    "The fennec's face becomes increasingly blurry."
+    "@@@The fennec's face becomes increasingly blurry."
 
-# game/Flynn-Thursday.rpy:13247
+# game/Flynn-Thursday.rpy:13250
 translate Schinese flynnsunday_02a2e0af:
 
     # "{cps=22}{font=ui/belligerent.ttf}Is that Danny? Casey? ..Keith?"
-    "{cps=22}{font=ui/belligerent.ttf}Is that Danny? Casey? ..Keith?"
+    "@@@{cps=22}{font=ui/belligerent.ttf}Is that Danny? Casey? ..Keith?"
 
-# game/Flynn-Thursday.rpy:13248
+# game/Flynn-Thursday.rpy:13251
 translate Schinese flynnsunday_89f1c6a5:
 
     # "{cps=22}{font=ui/belligerent.ttf}There were so many, they blur together."
-    "{cps=22}{font=ui/belligerent.ttf}There were so many, they blur together."
+    "@@@{cps=22}{font=ui/belligerent.ttf}There were so many, they blur together."
 
-# game/Flynn-Thursday.rpy:13249
+# game/Flynn-Thursday.rpy:13252
 translate Schinese flynnsunday_c8afa67a:
 
     # "Salem's grinning, the reflection of his camcorder screen leaving a stark glint in his eyes."
-    "Salem's grinning, the reflection of his camcorder screen leaving a stark glint in his eyes."
+    "@@@Salem's grinning, the reflection of his camcorder screen leaving a stark glint in his eyes."
 
-# game/Flynn-Thursday.rpy:13250
+# game/Flynn-Thursday.rpy:13253
 translate Schinese flynnsunday_77dc28b9:
 
     # "I feel myself move out from behind the shelf, beyond my own will."
-    "I feel myself move out from behind the shelf, beyond my own will."
+    "@@@I feel myself move out from behind the shelf, beyond my own will."
 
-# game/Flynn-Thursday.rpy:13251
+# game/Flynn-Thursday.rpy:13254
 translate Schinese flynnsunday_ff2a10d6:
 
     # "There's a rumbling pull in my gut.. I'll be pulled away any moment now."
-    "There's a rumbling pull in my gut.. I'll be pulled away any moment now."
+    "@@@There's a rumbling pull in my gut.. I'll be pulled away any moment now."
 
-# game/Flynn-Thursday.rpy:13254
+# game/Flynn-Thursday.rpy:13257
 translate Schinese flynnsunday_c66872a6:
 
     # "Brian sees me, his eyes going as large as saucers."
-    "Brian sees me, his eyes going as large as saucers."
+    "@@@Brian sees me, his eyes going as large as saucers."
 
-# game/Flynn-Thursday.rpy:13255
+# game/Flynn-Thursday.rpy:13258
 translate Schinese flynnsunday_bb19b5b4:
 
     # br "\"They're real-\""
-    br "\"They're real-\""
+    br "@@@\"They're real-\""
 
-# game/Flynn-Thursday.rpy:13256
+# game/Flynn-Thursday.rpy:13259
 translate Schinese flynnsunday_c31aee98:
 
     # "-is all he can get out before my hands pass through his gut."
-    "-is all he can get out before my hands pass through his gut."
+    "@@@-is all he can get out before my hands pass through his gut."
 
-# game/Flynn-Thursday.rpy:13258
+# game/Flynn-Thursday.rpy:13261
 translate Schinese flynnsunday_9b4c8f39:
 
     # "The hairy flesh seems like it practically disintegrates at my fingertips until I notice that it's all splattered on the wall beside me."
-    "The hairy flesh seems like it practically disintegrates at my fingertips until I notice that it's all splattered on the wall beside me."
+    "@@@The hairy flesh seems like it practically disintegrates at my fingertips until I notice that it's all splattered on the wall beside me."
 
-# game/Flynn-Thursday.rpy:13259
+# game/Flynn-Thursday.rpy:13262
 translate Schinese flynnsunday_ccefa8e6:
 
     # "As I'm pulled away, I can just make out the tusked, smiling face of Salem."
-    "As I'm pulled away, I can just make out the tusked, smiling face of Salem."
+    "@@@As I'm pulled away, I can just make out the tusked, smiling face of Salem."
 
-# game/Flynn-Thursday.rpy:13260
+# game/Flynn-Thursday.rpy:13263
 translate Schinese flynnsunday_483710e2:
 
     # "It's full of shock, but the smile remains.. and so does the maimed fennec."
-    "It's full of shock, but the smile remains.. and so does the maimed fennec."
+    "@@@It's full of shock, but the smile remains.. and so does the maimed fennec."
 
-# game/Flynn-Thursday.rpy:13262
+# game/Flynn-Thursday.rpy:13265
 translate Schinese flynnsunday_df381507:
 
     # "My scarred body lunges, and suddenly Salem's eyes no longer glint."
-    "My scarred body lunges, and suddenly Salem's eyes no longer glint."
+    "@@@My scarred body lunges, and suddenly Salem's eyes no longer glint."
 
-# game/Flynn-Thursday.rpy:13263
+# game/Flynn-Thursday.rpy:13266
 translate Schinese flynnsunday_4ae0ddb8:
 
     # "{cps=22}{font=ui/belligerent.ttf}Full circle..."
-    "{cps=22}{font=ui/belligerent.ttf}Full circle..."
+    "@@@{cps=22}{font=ui/belligerent.ttf}Full circle..."
 
-# game/Flynn-Thursday.rpy:13264
+# game/Flynn-Thursday.rpy:13267
 translate Schinese flynnsunday_55637a92:
 
     # br "\"They're real!\""
-    br "\"They're real!\""
+    br "@@@\"They're real!\""
 
-# game/Flynn-Thursday.rpy:13265
+# game/Flynn-Thursday.rpy:13268
 translate Schinese flynnsunday_6d99f9b3:
 
     # "As I'm pulled away, I can just make out the astonished face of Brian."
-    "As I'm pulled away, I can just make out the astonished face of Brian."
+    "@@@As I'm pulled away, I can just make out the astonished face of Brian."
 
-# game/Flynn-Thursday.rpy:13266
+# game/Flynn-Thursday.rpy:13269
 translate Schinese flynnsunday_2aa109a4:
 
     # "He looks like he's in awe, a sense of knowing underlying his fucked up features."
-    "He looks like he's in awe, a sense of knowing underlying his fucked up features."
+    "@@@He looks like he's in awe, a sense of knowing underlying his fucked up features."
 
-# game/Flynn-Thursday.rpy:13267
+# game/Flynn-Thursday.rpy:13270
 translate Schinese flynnsunday_85da2b45:
 
     # "I don't see what happens to the fennec."
-    "I don't see what happens to the fennec."
+    "@@@I don't see what happens to the fennec."
 
-# game/Flynn-Thursday.rpy:13269
+# game/Flynn-Thursday.rpy:13272
 translate Schinese flynnsunday_316da2cd:
 
     # "My scarred body lunges, and the fennec's head is crushed - the brain and all the fears and pain contained within, gone in an instant."
-    "My scarred body lunges, and the fennec's head is crushed - the brain and all the fears and pain contained within, gone in an instant."
+    "@@@My scarred body lunges, and the fennec's head is crushed - the brain and all the fears and pain contained within, gone in an instant."
 
-# game/Flynn-Thursday.rpy:13270
+# game/Flynn-Thursday.rpy:13273
 translate Schinese flynnsunday_55637a92_1:
 
     # br "\"They're real!\""
-    br "\"They're real!\""
+    br "@@@\"They're real!\""
 
-# game/Flynn-Thursday.rpy:13271
+# game/Flynn-Thursday.rpy:13274
 translate Schinese flynnsunday_6d99f9b3_1:
 
     # "As I'm pulled away, I can just make out the astonished face of Brian."
-    "As I'm pulled away, I can just make out the astonished face of Brian."
+    "@@@As I'm pulled away, I can just make out the astonished face of Brian."
 
-# game/Flynn-Thursday.rpy:13272
+# game/Flynn-Thursday.rpy:13275
 translate Schinese flynnsunday_2aa109a4_1:
 
     # "He looks like he's in awe, a sense of knowing underlying his fucked up features."
-    "He looks like he's in awe, a sense of knowing underlying his fucked up features."
+    "@@@He looks like he's in awe, a sense of knowing underlying his fucked up features."
 
-# game/Flynn-Thursday.rpy:13273
+# game/Flynn-Thursday.rpy:13276
 translate Schinese flynnsunday_0eb46829:
 
     # "Salem doesn't take his gaze off the camcorder screen."
-    "Salem doesn't take his gaze off the camcorder screen."
+    "@@@Salem doesn't take his gaze off the camcorder screen."
 
-# game/Flynn-Thursday.rpy:13277
+# game/Flynn-Thursday.rpy:13280
 translate Schinese flynnsunday_1ba3fa18:
 
     # "I gasp into the void, the fresh blood mixing with my own."
-    "I gasp into the void, the fresh blood mixing with my own."
+    "@@@I gasp into the void, the fresh blood mixing with my own."
 
-# game/Flynn-Thursday.rpy:13278
+# game/Flynn-Thursday.rpy:13281
 translate Schinese flynnsunday_235f8af4:
 
     # "My actions no longer feel entirely of my own volition. It's like something pulling in my skull.."
-    "My actions no longer feel entirely of my own volition. It's like something pulling in my skull.."
+    "@@@My actions no longer feel entirely of my own volition. It's like something pulling in my skull.."
 
-# game/Flynn-Thursday.rpy:13279
+# game/Flynn-Thursday.rpy:13282
 translate Schinese flynnsunday_f34eae05:
 
     # "..like back at City Hall, when I condemned Chase."
-    "..like back at City Hall, when I condemned Chase."
+    "@@@..like back at City Hall, when I condemned Chase."
 
-# game/Flynn-Thursday.rpy:13280
+# game/Flynn-Thursday.rpy:13283
 translate Schinese flynnsunday_657ce03e:
 
     # "{cps=22}{font=ui/belligerent.ttf}We make the justice.. we're given."
-    "{cps=22}{font=ui/belligerent.ttf}We make the justice.. we're given."
+    "@@@{cps=22}{font=ui/belligerent.ttf}We make the justice.. we're given."
 
-# game/Flynn-Thursday.rpy:13292
+# game/Flynn-Thursday.rpy:13295
 translate Schinese flynnsunday_0950a570:
 
     # "I pop back in front of the familiar ram and salamander, like all that had happened was some horrible vision."
-    "I pop back in front of the familiar ram and salamander, like all that had happened was some horrible vision."
+    "@@@I pop back in front of the familiar ram and salamander, like all that had happened was some horrible vision."
 
-# game/Flynn-Thursday.rpy:13293
+# game/Flynn-Thursday.rpy:13296
 translate Schinese flynnsunday_f17a2ee9:
 
     # "But my body feels the same, and the gaping expressions of the duo show no sign of relief."
-    "But my body feels the same, and the gaping expressions of the duo show no sign of relief."
+    "@@@But my body feels the same, and the gaping expressions of the duo show no sign of relief."
 
-# game/Flynn-Thursday.rpy:13294
+# game/Flynn-Thursday.rpy:13297
 translate Schinese flynnsunday_2ece7740:
 
     # f "\"Caaaaaaaaaar-\""
-    f "\"Caaaaaaaaaar-\""
+    f "@@@\"Caaaaaaaaaar-\""
 
-# game/Flynn-Thursday.rpy:13295
+# game/Flynn-Thursday.rpy:13298
 translate Schinese flynnsunday_917e5677:
 
     # "I can barely make the noises with my throat the way it is."
-    "I can barely make the noises with my throat the way it is."
+    "@@@I can barely make the noises with my throat the way it is."
 
-# game/Flynn-Thursday.rpy:13296
+# game/Flynn-Thursday.rpy:13299
 translate Schinese flynnsunday_51fb8a2a:
 
     # "I can practically feel my vocal cords snap away as I speak, letting me only exude a guttural growl."
-    "I can practically feel my vocal cords snap away as I speak, letting me only exude a guttural growl."
+    "@@@I can practically feel my vocal cords snap away as I speak, letting me only exude a guttural growl."
 
-# game/Flynn-Thursday.rpy:13297
+# game/Flynn-Thursday.rpy:13300
 translate Schinese flynnsunday_84e5ef49:
 
     # "I reach out to him, seeing the sinewy red appendage my arm has become."
-    "I reach out to him, seeing the sinewy red appendage my arm has become."
+    "@@@I reach out to him, seeing the sinewy red appendage my arm has become."
 
-# game/Flynn-Thursday.rpy:13298
+# game/Flynn-Thursday.rpy:13301
 translate Schinese flynnsunday_089d73a4:
 
     # f "\"{b}HHHHHHHAAAAAAAAAAAAAAAAAA{/b}!\""
-    f "\"{b}HHHHHHHAAAAAAAAAAAAAAAAAA{/b}!\""
+    f "@@@\"{b}HHHHHHHAAAAAAAAAAAAAAAAAA{/b}!\""
 
-# game/Flynn-Thursday.rpy:13299
+# game/Flynn-Thursday.rpy:13302
 translate Schinese flynnsunday_9bd4d9b0:
 
     # "The tunnel shakes around me."
-    "The tunnel shakes around me."
+    "@@@The tunnel shakes around me."
 
-# game/Flynn-Thursday.rpy:13305
+# game/Flynn-Thursday.rpy:13308
 translate Schinese flynnsunday_af3d188e:
 
     # "Carl and Dax both turn and flee - salamander screaming his absolute lungs out."
-    "Carl and Dax both turn and flee - salamander screaming his absolute lungs out."
+    "@@@Carl and Dax both turn and flee - salamander screaming his absolute lungs out."
 
-# game/Flynn-Thursday.rpy:13306
+# game/Flynn-Thursday.rpy:13309
 translate Schinese flynnsunday_71d26969:
 
     # "I'm terrifying to them."
-    "I'm terrifying to them."
+    "@@@I'm terrifying to them."
 
-# game/Flynn-Thursday.rpy:13307
+# game/Flynn-Thursday.rpy:13310
 translate Schinese flynnsunday_cc7ac02f:
 
     # "As they're about to round the corner, I see Carl hesitate. He looks back to me."
-    "As they're about to round the corner, I see Carl hesitate. He looks back to me."
+    "@@@As they're about to round the corner, I see Carl hesitate. He looks back to me."
 
-# game/Flynn-Thursday.rpy:13308
+# game/Flynn-Thursday.rpy:13311
 translate Schinese flynnsunday_134389df:
 
     # "I can't see his expression, and I can't call out to him."
-    "I can't see his expression, and I can't call out to him."
+    "@@@I can't see his expression, and I can't call out to him."
 
-# game/Flynn-Thursday.rpy:13309
+# game/Flynn-Thursday.rpy:13312
 translate Schinese flynnsunday_cd98629b:
 
     # "I have to let him know I'm still in here..."
-    "I have to let him know I'm still in here..."
+    "@@@I have to let him know I'm still in here..."
 
-# game/Flynn-Thursday.rpy:13310
+# game/Flynn-Thursday.rpy:13313
 translate Schinese flynnsunday_8ce20f52:
 
     # "With some strained effort, I turn my wrist around and close.. all but one of my fingers."
-    "With some strained effort, I turn my wrist around and close.. all but one of my fingers."
+    "@@@With some strained effort, I turn my wrist around and close.. all but one of my fingers."
 
-# game/Flynn-Thursday.rpy:13311
+# game/Flynn-Thursday.rpy:13314
 translate Schinese flynnsunday_593645ce:
 
     # "The ram continues to stare as the rumbling increases."
-    "The ram continues to stare as the rumbling increases."
+    "@@@The ram continues to stare as the rumbling increases."
 
-# game/Flynn-Thursday.rpy:13315
+# game/Flynn-Thursday.rpy:13318
 translate Schinese flynnsunday_e752187c:
 
     # "I'm pulled away once more."
-    "I'm pulled away once more."
+    "@@@I'm pulled away once more."
 
-# game/Flynn-Thursday.rpy:13317
+# game/Flynn-Thursday.rpy:13320
 translate Schinese flynnsunday_f5a6a169:
 
     # "It goes on like this."
-    "It goes on like this."
+    "@@@It goes on like this."
 
-# game/Flynn-Thursday.rpy:13319
+# game/Flynn-Thursday.rpy:13322
 translate Schinese flynnsunday_2b292d74:
 
     # "At each stop, I lose more of myself - mentally and physically."
-    "At each stop, I lose more of myself - mentally and physically."
+    "@@@At each stop, I lose more of myself - mentally and physically."
 
-# game/Flynn-Thursday.rpy:13320
+# game/Flynn-Thursday.rpy:13323
 translate Schinese flynnsunday_6b553309:
 
     # "Each visage that appears before me some new unspeakable evil I hadn't fathomed existing."
-    "Each visage that appears before me some new unspeakable evil I hadn't fathomed existing."
+    "@@@Each visage that appears before me some new unspeakable evil I hadn't fathomed existing."
 
-# game/Flynn-Thursday.rpy:13321
+# game/Flynn-Thursday.rpy:13324
 translate Schinese flynnsunday_03f81af7:
 
     # "From time to time, I let the thing inside my head take more and more control."
-    "From time to time, I let the thing inside my head take more and more control."
+    "@@@From time to time, I let the thing inside my head take more and more control."
 
-# game/Flynn-Thursday.rpy:13322
+# game/Flynn-Thursday.rpy:13325
 translate Schinese flynnsunday_7c66a475:
 
     # "Sometimes, I don't have the control in the first place - when the suffering is strongest."
-    "Sometimes, I don't have the control in the first place - when the suffering is strongest."
+    "@@@Sometimes, I don't have the control in the first place - when the suffering is strongest."
 
-# game/Flynn-Thursday.rpy:13323
+# game/Flynn-Thursday.rpy:13326
 translate Schinese flynnsunday_80b2f974:
 
     # "Where Sam thrives, he.. drives."
-    "Where Sam thrives, he.. drives."
+    "@@@Where Sam thrives, he.. drives."
 
-# game/Flynn-Thursday.rpy:13324
+# game/Flynn-Thursday.rpy:13327
 translate Schinese flynnsunday_4347c6ae:
 
     # "Like my body, I become numb."
-    "Like my body, I become numb."
+    "@@@Like my body, I become numb."
 
-# game/Flynn-Thursday.rpy:13326
+# game/Flynn-Thursday.rpy:13329
 translate Schinese flynnsunday_82e667aa:
 
     # "All but my vision and hearing is gone, and they're swiftly fading, too."
-    "All but my vision and hearing is gone, and they're swiftly fading, too."
+    "@@@All but my vision and hearing is gone, and they're swiftly fading, too."
 
-# game/Flynn-Thursday.rpy:13327
+# game/Flynn-Thursday.rpy:13330
 translate Schinese flynnsunday_b9f3d9d1:
 
     # "I keep closing my eyes, waiting for it to end, but it doesn't."
-    "I keep closing my eyes, waiting for it to end, but it doesn't."
+    "@@@I keep closing my eyes, waiting for it to end, but it doesn't."
 
-# game/Flynn-Thursday.rpy:13329
+# game/Flynn-Thursday.rpy:13332
 translate Schinese flynnsunday_fa272201:
 
     # "I can't die."
-    "I can't die."
+    "@@@I can't die."
 
-# game/Flynn-Thursday.rpy:13331
+# game/Flynn-Thursday.rpy:13334
 translate Schinese flynnsunday_a20cefa7_7:
 
     # "..."
-    "..."
+    "@@@..."
 
-# game/Flynn-Thursday.rpy:13334
+# game/Flynn-Thursday.rpy:13337
 translate Schinese flynnsunday_3e6d0880:
 
     # "I hear the soft pitter of feet on a rocky embankment."
-    "I hear the soft pitter of feet on a rocky embankment."
+    "@@@I hear the soft pitter of feet on a rocky embankment."
 
-# game/Flynn-Thursday.rpy:13335
+# game/Flynn-Thursday.rpy:13338
 translate Schinese flynnsunday_ef769180:
 
     # "Somewhere down the way, stones are being skipped."
-    "Somewhere down the way, stones are being skipped."
+    "@@@Somewhere down the way, stones are being skipped."
 
-# game/Flynn-Thursday.rpy:13336
+# game/Flynn-Thursday.rpy:13339
 translate Schinese flynnsunday_87a89de2:
 
     # "{i}CLAP!{/i}"
-    "{i}CLAP!{/i}"
+    "@@@{i}CLAP!{/i}"
 
-# game/Flynn-Thursday.rpy:13337
+# game/Flynn-Thursday.rpy:13340
 translate Schinese flynnsunday_5e9eaa09:
 
     # "Someone threw in a big one."
-    "Someone threw in a big one."
+    "@@@Someone threw in a big one."
 
-# game/Flynn-Thursday.rpy:13338
+# game/Flynn-Thursday.rpy:13341
 translate Schinese flynnsunday_2e186b33:
 
     # "Then.. sniffling, followed by a low sob."
-    "Then.. sniffling, followed by a low sob."
+    "@@@Then.. sniffling, followed by a low sob."
 
-# game/Flynn-Thursday.rpy:13339
+# game/Flynn-Thursday.rpy:13342
 translate Schinese flynnsunday_ac46c89e:
 
     # "Crying has become so familiar to me. I hear it more than anything else, it feels like."
-    "Crying has become so familiar to me. I hear it more than anything else, it feels like."
+    "@@@Crying has become so familiar to me. I hear it more than anything else, it feels like."
 
-# game/Flynn-Thursday.rpy:13340
+# game/Flynn-Thursday.rpy:13343
 translate Schinese flynnsunday_c66c5f29:
 
     # "{cps=22}{font=ui/belligerent.ttf}It's like singing, isn't it? Purest expression of emotion."
-    "{cps=22}{font=ui/belligerent.ttf}It's like singing, isn't it? Purest expression of emotion."
+    "@@@{cps=22}{font=ui/belligerent.ttf}It's like singing, isn't it? Purest expression of emotion."
 
-# game/Flynn-Thursday.rpy:13341
+# game/Flynn-Thursday.rpy:13344
 translate Schinese flynnsunday_a0cba698:
 
     # "Fuck you."
-    "Fuck you."
+    "@@@Fuck you."
 
-# game/Flynn-Thursday.rpy:13342
+# game/Flynn-Thursday.rpy:13345
 translate Schinese flynnsunday_7d823dd3:
 
     # "But this one.. this one is more familiar."
-    "But this one.. this one is more familiar."
+    "@@@But this one.. this one is more familiar."
 
-# game/Flynn-Thursday.rpy:13343
+# game/Flynn-Thursday.rpy:13346
 translate Schinese flynnsunday_0993fcb7:
 
     # "{cps=22}{font=ui/belligerent.ttf}To me as well."
-    "{cps=22}{font=ui/belligerent.ttf}To me as well."
+    "@@@{cps=22}{font=ui/belligerent.ttf}To me as well."
 
-# game/Flynn-Thursday.rpy:13344
+# game/Flynn-Thursday.rpy:13347
 translate Schinese flynnsunday_a0c66a1a:
 
     # "I can just make out the audible sound of little pebbles rolling down a hill, followed by a heavy thud."
-    "I can just make out the audible sound of little pebbles rolling down a hill, followed by a heavy thud."
+    "@@@I can just make out the audible sound of little pebbles rolling down a hill, followed by a heavy thud."
 
-# game/Flynn-Thursday.rpy:13345
+# game/Flynn-Thursday.rpy:13348
 translate Schinese flynnsunday_b016884b:
 
     # "I turn to see a faint grey silhouette, with big, blue eyes."
-    "I turn to see a faint grey silhouette, with big, blue eyes."
+    "@@@I turn to see a faint grey silhouette, with big, blue eyes."
 
-# game/Flynn-Thursday.rpy:13346
+# game/Flynn-Thursday.rpy:13349
 translate Schinese flynnsunday_48229c1d:
 
     # t "\"Wha-..what?\""
-    t "\"Wha-..what?\""
+    t "@@@\"Wha-..what?\""
 
-# game/Flynn-Thursday.rpy:13347
+# game/Flynn-Thursday.rpy:13350
 translate Schinese flynnsunday_c474d137:
 
     # "The voice hits me like electricity."
-    "The voice hits me like electricity."
+    "@@@The voice hits me like electricity."
 
-# game/Flynn-Thursday.rpy:13348
+# game/Flynn-Thursday.rpy:13351
 translate Schinese flynnsunday_fff5084c:
 
     # "This is it."
-    "This is it."
+    "@@@This is it."
 
-# game/Flynn-Thursday.rpy:13349
+# game/Flynn-Thursday.rpy:13352
 translate Schinese flynnsunday_87e56eea:
 
     # "I'm what he saw that day, on the beach by the outlet."
-    "I'm what he saw that day, on the beach by the outlet."
+    "@@@I'm what he saw that day, on the beach by the outlet."
 
-# game/Flynn-Thursday.rpy:13350
+# game/Flynn-Thursday.rpy:13353
 translate Schinese flynnsunday_5de3ed66:
 
     # "{cps=22}{font=ui/belligerent.ttf}Finally."
-    "{cps=22}{font=ui/belligerent.ttf}Finally."
+    "@@@{cps=22}{font=ui/belligerent.ttf}Finally."
 
-# game/Flynn-Thursday.rpy:13351
+# game/Flynn-Thursday.rpy:13354
 translate Schinese flynnsunday_3e01fdba:
 
     # "He screams. They always scream."
-    "He screams. They always scream."
+    "@@@He screams. They always scream."
 
-# game/Flynn-Thursday.rpy:13352
+# game/Flynn-Thursday.rpy:13355
 translate Schinese flynnsunday_d0de23eb:
 
     # "I have to follow him. I have to see it."
-    "I have to follow him. I have to see it."
+    "@@@I have to follow him. I have to see it."
 
-# game/Flynn-Thursday.rpy:13356
+# game/Flynn-Thursday.rpy:13359
 translate Schinese flynnsunday_f7adc61e:
 
     # "I descend beneath the waves, and I see excess fat drift from my body into the tidal current."
-    "I descend beneath the waves, and I see excess fat drift from my body into the tidal current."
+    "@@@I descend beneath the waves, and I see excess fat drift from my body into the tidal current."
 
-# game/Flynn-Thursday.rpy:13357
+# game/Flynn-Thursday.rpy:13360
 translate Schinese flynnsunday_7ce9fe2e:
 
     # "The water is abrasive, but I'm able to glide through it - swimming without swimming."
-    "The water is abrasive, but I'm able to glide through it - swimming without swimming."
+    "@@@The water is abrasive, but I'm able to glide through it - swimming without swimming."
 
-# game/Flynn-Thursday.rpy:13359
+# game/Flynn-Thursday.rpy:13362
 translate Schinese flynnsunday_a448eb3d:
 
     # "Something pops, and suddenly I can't see from my left eye."
-    "Something pops, and suddenly I can't see from my left eye."
+    "@@@Something pops, and suddenly I can't see from my left eye."
 
-# game/Flynn-Thursday.rpy:13360
+# game/Flynn-Thursday.rpy:13363
 translate Schinese flynnsunday_53b1a51a:
 
     # "There's white water ahead - thrashing movement."
-    "There's white water ahead - thrashing movement."
+    "@@@There's white water ahead - thrashing movement."
 
-# game/Flynn-Thursday.rpy:13361
+# game/Flynn-Thursday.rpy:13364
 translate Schinese flynnsunday_ecc1539a:
 
     # "A slight bit of reddish-pink mist dissolves in the current in front of me."
-    "A slight bit of reddish-pink mist dissolves in the current in front of me."
+    "@@@A slight bit of reddish-pink mist dissolves in the current in front of me."
 
-# game/Flynn-Thursday.rpy:13363
+# game/Flynn-Thursday.rpy:13366
 translate Schinese flynnsunday_50e9bd2d:
 
     # "{cps=10}No..."
-    "{cps=10}No..."
+    "@@@{cps=10}No..."
 
-# game/Flynn-Thursday.rpy:13364
+# game/Flynn-Thursday.rpy:13367
 translate Schinese flynnsunday_ef995ade:
 
     # "NOOO!"
-    "NOOO!"
+    "@@@NOOO!"
 
-# game/Flynn-Thursday.rpy:13365
+# game/Flynn-Thursday.rpy:13368
 translate Schinese flynnsunday_4506044d:
 
     # "I strain myself to hear, trying to keep absolutely still."
-    "I strain myself to hear, trying to keep absolutely still."
+    "@@@I strain myself to hear, trying to keep absolutely still."
 
-# game/Flynn-Thursday.rpy:13366
+# game/Flynn-Thursday.rpy:13369
 translate Schinese flynnsunday_d196f197:
 
     # "But other than the faint occasional splash, there's nothing."
-    "But other than the faint occasional splash, there's nothing."
+    "@@@But other than the faint occasional splash, there's nothing."
 
-# game/Flynn-Thursday.rpy:13367
+# game/Flynn-Thursday.rpy:13370
 translate Schinese flynnsunday_1922c1de:
 
     # "Eventually, the splashing stops, and I know my best friend is dead."
-    "Eventually, the splashing stops, and I know my best friend is dead."
+    "@@@Eventually, the splashing stops, and I know my best friend is dead."
 
-# game/Flynn-Thursday.rpy:13368
+# game/Flynn-Thursday.rpy:13371
 translate Schinese flynnsunday_8feb6833:
 
     # "I rest in the current, and the voice in my mind is fortuitously silent - not pressing me into movement or action."
-    "I rest in the current, and the voice in my mind is fortuitously silent - not pressing me into movement or action."
+    "@@@I rest in the current, and the voice in my mind is fortuitously silent - not pressing me into movement or action."
 
-# game/Flynn-Thursday.rpy:13371
+# game/Flynn-Thursday.rpy:13374
 translate Schinese flynnsunday_75113d26:
 
     # "And though my eyesight is gone, and my skull punctuated with nothing but empty sockets and orifices, I see something."
-    "And though my eyesight is gone, and my skull punctuated with nothing but empty sockets and orifices, I see something."
+    "@@@And though my eyesight is gone, and my skull punctuated with nothing but empty sockets and orifices, I see something."
 
-# game/Flynn-Thursday.rpy:13372
+# game/Flynn-Thursday.rpy:13375
 translate Schinese flynnsunday_cf793958:
 
     # "Bright blue eyes and starry skin. It's Daxton, I'm sure of it."
-    "Bright blue eyes and starry skin. It's Daxton, I'm sure of it."
+    "@@@Bright blue eyes and starry skin. It's Daxton, I'm sure of it."
 
-# game/Flynn-Thursday.rpy:13373
+# game/Flynn-Thursday.rpy:13376
 translate Schinese flynnsunday_d437ee88:
 
     # "He does not move, though I can read the intent in his eyes that he very much wants to."
-    "He does not move, though I can read the intent in his eyes that he very much wants to."
+    "@@@He does not move, though I can read the intent in his eyes that he very much wants to."
 
-# game/Flynn-Thursday.rpy:13374
+# game/Flynn-Thursday.rpy:13377
 translate Schinese flynnsunday_d7be1589:
 
     # "Instead, he remains motionless, and we stare at each other."
-    "Instead, he remains motionless, and we stare at each other."
+    "@@@Instead, he remains motionless, and we stare at each other."
 
-# game/Flynn-Thursday.rpy:13375
+# game/Flynn-Thursday.rpy:13378
 translate Schinese flynnsunday_6819be81:
 
     # "I imagine speaking to him, telling him what's happened to me."
-    "I imagine speaking to him, telling him what's happened to me."
+    "@@@I imagine speaking to him, telling him what's happened to me."
 
-# game/Flynn-Thursday.rpy:13376
+# game/Flynn-Thursday.rpy:13379
 translate Schinese flynnsunday_1585c828:
 
     # "My words are rambling, my mind not what it used to be, but it doesn't seem to matter. He meets my gaze regardless."
-    "My words are rambling, my mind not what it used to be, but it doesn't seem to matter. He meets my gaze regardless."
+    "@@@My words are rambling, my mind not what it used to be, but it doesn't seem to matter. He meets my gaze regardless."
 
-# game/Flynn-Thursday.rpy:13377
+# game/Flynn-Thursday.rpy:13380
 translate Schinese flynnsunday_eb1c7040:
 
     # "I ask him if Carl's alright and of course he doesn't respond. I then simply state that I hope he's okay."
-    "I ask him if Carl's alright and of course he doesn't respond. I then simply state that I hope he's okay."
+    "@@@I ask him if Carl's alright and of course he doesn't respond. I then simply state that I hope he's okay."
 
-# game/Flynn-Thursday.rpy:13378
+# game/Flynn-Thursday.rpy:13381
 translate Schinese flynnsunday_c97cd87c:
 
     # "I go on, and tell him about all the crap the ram and I have been through, about how much I hope he fucking makes it out decently enough."
-    "I go on, and tell him about all the crap the ram and I have been through, about how much I hope he fucking makes it out decently enough."
+    "@@@I go on, and tell him about all the crap the ram and I have been through, about how much I hope he fucking makes it out decently enough."
 
-# game/Flynn-Thursday.rpy:13379
+# game/Flynn-Thursday.rpy:13382
 translate Schinese flynnsunday_bc8fc088:
 
     # "I'm sure they'll give him another shot at the interview on account of town-wide madness."
-    "I'm sure they'll give him another shot at the interview on account of town-wide madness."
+    "@@@I'm sure they'll give him another shot at the interview on account of town-wide madness."
 
-# game/Flynn-Thursday.rpy:13380
+# game/Flynn-Thursday.rpy:13383
 translate Schinese flynnsunday_056d48ca:
 
     # "I tell him I hope it's over now, wherever he is."
-    "I tell him I hope it's over now, wherever he is."
+    "@@@I tell him I hope it's over now, wherever he is."
 
-# game/Flynn-Thursday.rpy:13381
+# game/Flynn-Thursday.rpy:13384
 translate Schinese flynnsunday_749b00c1:
 
     # "And finally.. I apologize for what an absolute ass I was to him, when he deserved goddamn none of my angsty bullshit."
-    "And finally.. I apologize for what an absolute ass I was to him, when he deserved goddamn none of my angsty bullshit."
+    "@@@And finally.. I apologize for what an absolute ass I was to him, when he deserved goddamn none of my angsty bullshit."
 
-# game/Flynn-Thursday.rpy:13382
+# game/Flynn-Thursday.rpy:13385
 translate Schinese flynnsunday_d03cc098:
 
     # "He never shows any indication of understanding, or even blinking."
-    "He never shows any indication of understanding, or even blinking."
+    "@@@He never shows any indication of understanding, or even blinking."
 
-# game/Flynn-Thursday.rpy:13383
+# game/Flynn-Thursday.rpy:13386
 translate Schinese flynnsunday_d787de23:
 
     # "Most surprisingly of all, it feels as though hours pass and the hysteria simply holds on whisking me away."
-    "Most surprisingly of all, it feels as though hours pass and the hysteria simply holds on whisking me away."
+    "@@@Most surprisingly of all, it feels as though hours pass and the hysteria simply holds on whisking me away."
 
-# game/Flynn-Thursday.rpy:13386
+# game/Flynn-Thursday.rpy:13389
 translate Schinese flynnsunday_f7c52141:
 
     # "No rumbling, no fire, no screeches into sudden chaos.."
-    "No rumbling, no fire, no screeches into sudden chaos.."
+    "@@@No rumbling, no fire, no screeches into sudden chaos.."
 
-# game/Flynn-Thursday.rpy:13396
+# game/Flynn-Thursday.rpy:13399
 translate Schinese flynnsunday_c060533b:
 
     # "..just a slow, eventual feeling of drifting away somewhere else. Somewhere dry."
-    "..just a slow, eventual feeling of drifting away somewhere else. Somewhere dry."
+    "@@@..just a slow, eventual feeling of drifting away somewhere else. Somewhere dry."
 
-# game/Flynn-Thursday.rpy:13397
+# game/Flynn-Thursday.rpy:13400
 translate Schinese flynnsunday_fa9ee175:
 
     # "There's the telltale sound of a hot water heater rumbling nearby."
-    "There's the telltale sound of a hot water heater rumbling nearby."
+    "@@@There's the telltale sound of a hot water heater rumbling nearby."
 
-# game/Flynn-Thursday.rpy:13398
+# game/Flynn-Thursday.rpy:13401
 translate Schinese flynnsunday_3076a343:
 
     # "It's humming away. Someone must be taking a shower, or it's laundry day."
-    "It's humming away. Someone must be taking a shower, or it's laundry day."
+    "@@@It's humming away. Someone must be taking a shower, or it's laundry day."
 
-# game/Flynn-Thursday.rpy:13399
+# game/Flynn-Thursday.rpy:13402
 translate Schinese flynnsunday_350be8b7:
 
     # "I feel the vibrations more than I actually hear the thing."
-    "I feel the vibrations more than I actually hear the thing."
+    "@@@I feel the vibrations more than I actually hear the thing."
 
-# game/Flynn-Thursday.rpy:13400
+# game/Flynn-Thursday.rpy:13403
 translate Schinese flynnsunday_a4995e7d:
 
     # "Then, a faint whimper."
-    "Then, a faint whimper."
+    "@@@Then, a faint whimper."
 
-# game/Flynn-Thursday.rpy:13401
+# game/Flynn-Thursday.rpy:13404
 translate Schinese flynnsunday_95397f87:
 
     # "The sound is stifled, as if the upset individual is trying to hold back tears."
-    "The sound is stifled, as if the upset individual is trying to hold back tears."
+    "@@@The sound is stifled, as if the upset individual is trying to hold back tears."
 
-# game/Flynn-Thursday.rpy:13402
+# game/Flynn-Thursday.rpy:13405
 translate Schinese flynnsunday_bd4916cb:
 
     # "It's high pitch, feminine.. a girl. The distortion is only slight."
-    "It's high pitch, feminine.. a girl. The distortion is only slight."
+    "@@@It's high pitch, feminine.. a girl. The distortion is only slight."
 
-# game/Flynn-Thursday.rpy:13403
+# game/Flynn-Thursday.rpy:13406
 translate Schinese flynnsunday_476c0f9a:
 
     # "I bring my hand up and feel wooden slats, and when I push harder, the whole surface bends and folds outward. It's a closet door."
-    "I bring my hand up and feel wooden slats, and when I push harder, the whole surface bends and folds outward. It's a closet door."
+    "@@@I bring my hand up and feel wooden slats, and when I push harder, the whole surface bends and folds outward. It's a closet door."
 
-# game/Flynn-Thursday.rpy:13404
+# game/Flynn-Thursday.rpy:13407
 translate Schinese flynnsunday_9db455eb:
 
     # "The sniffling stops."
-    "The sniffling stops."
+    "@@@The sniffling stops."
 
-# game/Flynn-Thursday.rpy:13405
+# game/Flynn-Thursday.rpy:13408
 translate Schinese flynnsunday_4c5790cd:
 
     # "Slowly, I hold up my hand and do a small wave - gentle movements, as I'm sure the distortion is making it look faster."
-    "Slowly, I hold up my hand and do a small wave - gentle movements, as I'm sure the distortion is making it look faster."
+    "@@@Slowly, I hold up my hand and do a small wave - gentle movements, as I'm sure the distortion is making it look faster."
 
-# game/Flynn-Thursday.rpy:13406
+# game/Flynn-Thursday.rpy:13409
 translate Schinese flynnsunday_eff9b4f7:
 
     # "It's quiet."
-    "It's quiet."
+    "@@@It's quiet."
 
-# game/Flynn-Thursday.rpy:13407
+# game/Flynn-Thursday.rpy:13410
 translate Schinese flynnsunday_d9259e99:
 
     # "All I can hear is the water heater in the girl's room."
-    "All I can hear is the water heater in the girl's room."
+    "@@@All I can hear is the water heater in the girl's room."
 
-# game/Flynn-Thursday.rpy:13408
+# game/Flynn-Thursday.rpy:13411
 translate Schinese flynnsunday_746b1797:
 
     # "There's the shuffling of sheets, then small footsteps."
-    "There's the shuffling of sheets, then small footsteps."
+    "@@@There's the shuffling of sheets, then small footsteps."
 
-# game/Flynn-Thursday.rpy:13412
+# game/Flynn-Thursday.rpy:13415
 translate Schinese flynnsunday_22287ae3:
 
     # unk "\"Hi..\""
-    unk "\"Hi..\""
+    unk "@@@\"Hi..\""
 
-# game/Flynn-Thursday.rpy:13413
+# game/Flynn-Thursday.rpy:13416
 translate Schinese flynnsunday_a79fd6f8:
 
     # "Her voice is timid."
-    "Her voice is timid."
+    "@@@Her voice is timid."
 
-# game/Flynn-Thursday.rpy:13414
+# game/Flynn-Thursday.rpy:13417
 translate Schinese flynnsunday_a4cbcb8b:
 
     # "There's another long pause."
-    "There's another long pause."
+    "@@@There's another long pause."
 
-# game/Flynn-Thursday.rpy:13415
+# game/Flynn-Thursday.rpy:13418
 translate Schinese flynnsunday_6673f81a:
 
     # unk "\"..are you real?\""
-    unk "\"..are you real?\""
+    unk "@@@\"..are you real?\""
 
-# game/Flynn-Thursday.rpy:13416
+# game/Flynn-Thursday.rpy:13419
 translate Schinese flynnsunday_a3506f66:
 
     # "I think for a moment."
-    "I think for a moment."
+    "@@@I think for a moment."
 
-# game/Flynn-Thursday.rpy:13417
+# game/Flynn-Thursday.rpy:13420
 translate Schinese flynnsunday_e44064b6:
 
     # "Then slowly, I shake my head."
-    "Then slowly, I shake my head."
+    "@@@Then slowly, I shake my head."
 
-# game/Flynn-Thursday.rpy:13455
+# game/Flynn-Thursday.rpy:13458
 translate Schinese flynnend_9f795a14:
 
     # "Five years later..."
-    "Five years later..."
+    "@@@Five years later..."
 
-# game/Flynn-Thursday.rpy:13459
+# game/Flynn-Thursday.rpy:13462
 translate Schinese flynnend_dd31f3df:
 
     # dev "\"Seriously! This is gonna be such a good fucking time. You'll be glad you came.\""
-    dev "\"Seriously! This is gonna be such a good fucking time. You'll be glad you came.\""
+    dev "@@@\"Seriously! This is gonna be such a good fucking time. You'll be glad you came.\""
 
-# game/Flynn-Thursday.rpy:13460
+# game/Flynn-Thursday.rpy:13463
 translate Schinese flynnend_17ddc076:
 
     # "The big grizzly bear nudges the coyote playfully, almost knocking the canine into the passenger window."
-    "The big grizzly bear nudges the coyote playfully, almost knocking the canine into the passenger window."
+    "@@@The big grizzly bear nudges the coyote playfully, almost knocking the canine into the passenger window."
 
-# game/Flynn-Thursday.rpy:13461
+# game/Flynn-Thursday.rpy:13464
 translate Schinese flynnend_6558d484:
 
     # cam "\"Ow! Keep your paws on the wheel.. or your paw, at least.\""
-    cam "\"Ow! Keep your paws on the wheel.. or your paw, at least.\""
+    cam "@@@\"Ow! Keep your paws on the wheel.. or your paw, at least.\""
 
-# game/Flynn-Thursday.rpy:13462
+# game/Flynn-Thursday.rpy:13465
 translate Schinese flynnend_eea317aa:
 
     # "Cameron eyes the giant, half-eaten burger in the bear's equally giant paw."
-    "Cameron eyes the giant, half-eaten burger in the bear's equally giant paw."
+    "@@@Cameron eyes the giant, half-eaten burger in the bear's equally giant paw."
 
-# game/Flynn-Thursday.rpy:13463
+# game/Flynn-Thursday.rpy:13466
 translate Schinese flynnend_879a4ded:
 
     # "Dev's other paw casually steers the wheel, elbow resting out through the open window."
-    "Dev's other paw casually steers the wheel, elbow resting out through the open window."
+    "@@@Dev's other paw casually steers the wheel, elbow resting out through the open window."
 
-# game/Flynn-Thursday.rpy:13464
+# game/Flynn-Thursday.rpy:13467
 translate Schinese flynnend_21e7a158:
 
     # "The bear looks happier than he's been in a while, somehow grinning as he chews."
-    "The bear looks happier than he's been in a while, somehow grinning as he chews."
+    "@@@The bear looks happier than he's been in a while, somehow grinning as he chews."
 
-# game/Flynn-Thursday.rpy:13466
+# game/Flynn-Thursday.rpy:13469
 translate Schinese flynnend_2eb98cda:
 
     # "The coyote sighs and stares out his own window, watching the desert landscape fly by."
-    "The coyote sighs and stares out his own window, watching the desert landscape fly by."
+    "@@@The coyote sighs and stares out his own window, watching the desert landscape fly by."
 
-# game/Flynn-Thursday.rpy:13467
+# game/Flynn-Thursday.rpy:13470
 translate Schinese flynnend_78ca0760:
 
     # "It was nothing like this in his home town, and he found himself wishing he was back amongst the pine forests."
-    "It was nothing like this in his home town, and he found himself wishing he was back amongst the pine forests."
+    "@@@It was nothing like this in his home town, and he found himself wishing he was back amongst the pine forests."
 
-# game/Flynn-Thursday.rpy:13468
+# game/Flynn-Thursday.rpy:13471
 translate Schinese flynnend_0b65d0aa:
 
     # "Something he'd been wishing since he moved to Pueblo for school."
-    "Something he'd been wishing since he moved to Pueblo for school."
+    "@@@Something he'd been wishing since he moved to Pueblo for school."
 
-# game/Flynn-Thursday.rpy:13469
+# game/Flynn-Thursday.rpy:13472
 translate Schinese flynnend_aa633fce:
 
     # "Technically, this was his natural habitat, but he found the whole place...depressing somehow."
-    "Technically, this was his natural habitat, but he found the whole place...depressing somehow."
+    "@@@Technically, this was his natural habitat, but he found the whole place...depressing somehow."
 
-# game/Flynn-Thursday.rpy:13470
+# game/Flynn-Thursday.rpy:13473
 translate Schinese flynnend_3657e3dc:
 
     # "Empty and dry and rough..."
-    "Empty and dry and rough..."
+    "@@@Empty and dry and rough..."
 
-# game/Flynn-Thursday.rpy:13471
+# game/Flynn-Thursday.rpy:13474
 translate Schinese flynnend_5a438a5e:
 
     # dev "\"What'cha pouting for?\""
-    dev "\"What'cha pouting for?\""
+    dev "@@@\"What'cha pouting for?\""
 
-# game/Flynn-Thursday.rpy:13472
+# game/Flynn-Thursday.rpy:13475
 translate Schinese flynnend_06ed19d4:
 
     # cam "\"I'm not pouting.\""
-    cam "\"I'm not pouting.\""
+    cam "@@@\"I'm not pouting.\""
 
-# game/Flynn-Thursday.rpy:13473
+# game/Flynn-Thursday.rpy:13476
 translate Schinese flynnend_9d209783:
 
     # dev "\"Yeah you are.\""
-    dev "\"Yeah you are.\""
+    dev "@@@\"Yeah you are.\""
 
-# game/Flynn-Thursday.rpy:13474
+# game/Flynn-Thursday.rpy:13477
 translate Schinese flynnend_50be262f:
 
     # "Cameron sighs, deciding to change the subject."
-    "Cameron sighs, deciding to change the subject."
+    "@@@Cameron sighs, deciding to change the subject."
 
-# game/Flynn-Thursday.rpy:13475
+# game/Flynn-Thursday.rpy:13478
 translate Schinese flynnend_20c2f165:
 
     # cam "\"So why couldn't Larry go again?\""
-    cam "\"So why couldn't Larry go again?\""
+    cam "@@@\"So why couldn't Larry go again?\""
 
-# game/Flynn-Thursday.rpy:13476
+# game/Flynn-Thursday.rpy:13479
 translate Schinese flynnend_dfda4895:
 
     # dev "\"I dunno, said something about his car breaking down. Think he just flaked though.\""
-    dev "\"I dunno, said something about his car breaking down. Think he just flaked though.\""
+    dev "@@@\"I dunno, said something about his car breaking down. Think he just flaked though.\""
 
-# game/Flynn-Thursday.rpy:13477
+# game/Flynn-Thursday.rpy:13480
 translate Schinese flynnend_17158aa2:
 
     # cam "\"Aren't there other haunted places in Pueblo that we could have gone to, like by the school?\""
-    cam "\"Aren't there other haunted places in Pueblo that we could have gone to, like by the school?\""
+    cam "@@@\"Aren't there other haunted places in Pueblo that we could have gone to, like by the school?\""
 
-# game/Flynn-Thursday.rpy:13478
+# game/Flynn-Thursday.rpy:13481
 translate Schinese flynnend_055e2a80:
 
     # "The bear shakes his head, letting go of the wheel to crumple up the foil that had packaged his sandwich, tossing it into the back."
-    "The bear shakes his head, letting go of the wheel to crumple up the foil that had packaged his sandwich, tossing it into the back."
+    "@@@The bear shakes his head, letting go of the wheel to crumple up the foil that had packaged his sandwich, tossing it into the back."
 
-# game/Flynn-Thursday.rpy:13479
+# game/Flynn-Thursday.rpy:13482
 translate Schinese flynnend_527a0e70:
 
     # dev "\"Not like Echo, dude. This place is the most haunted town in the entire fucking world.\""
-    dev "\"Not like Echo, dude. This place is the most haunted town in the entire fucking world.\""
+    dev "@@@\"Not like Echo, dude. This place is the most haunted town in the entire fucking world.\""
 
-# game/Flynn-Thursday.rpy:13480
+# game/Flynn-Thursday.rpy:13483
 translate Schinese flynnend_3ae3f1f1:
 
     # "Cameron sighs once again, then suddenly grasps his seat as the car swerves and turns hard onto a smaller road, heading toward a big blue lake."
-    "Cameron sighs once again, then suddenly grasps his seat as the car swerves and turns hard onto a smaller road, heading toward a big blue lake."
+    "@@@Cameron sighs once again, then suddenly grasps his seat as the car swerves and turns hard onto a smaller road, heading toward a big blue lake."
 
-# game/Flynn-Thursday.rpy:13481
+# game/Flynn-Thursday.rpy:13484
 translate Schinese flynnend_fdc38477:
 
     # cam "\"What the fuck!?\""
-    cam "\"What the fuck!?\""
+    cam "@@@\"What the fuck!?\""
 
-# game/Flynn-Thursday.rpy:13482
+# game/Flynn-Thursday.rpy:13485
 translate Schinese flynnend_b0a1bb91:
 
     # dev "\"Whoops! Sorry, almost missed the turn...\""
-    dev "\"Whoops! Sorry, almost missed the turn...\""
+    dev "@@@\"Whoops! Sorry, almost missed the turn...\""
 
-# game/Flynn-Thursday.rpy:13484
+# game/Flynn-Thursday.rpy:13487
 translate Schinese flynnend_4241f4d8:
 
     # "The drive continues, and eventually the map on the dash chimes, indicating they've reached their destination."
-    "The drive continues, and eventually the map on the dash chimes, indicating they've reached their destination."
+    "@@@The drive continues, and eventually the map on the dash chimes, indicating they've reached their destination."
 
-# game/Flynn-Thursday.rpy:13488
+# game/Flynn-Thursday.rpy:13491
 translate Schinese flynnend_957e11e2:
 
     # cam "\"Why?\""
-    cam "\"Why?\""
+    cam "@@@\"Why?\""
 
-# game/Flynn-Thursday.rpy:13489
+# game/Flynn-Thursday.rpy:13492
 translate Schinese flynnend_19dfb75d:
 
     # dev "\"Because a lot of shit happened here.\""
-    dev "\"Because a lot of shit happened here.\""
+    dev "@@@\"Because a lot of shit happened here.\""
 
-# game/Flynn-Thursday.rpy:13490
+# game/Flynn-Thursday.rpy:13493
 translate Schinese flynnend_893aece7:
 
     # "The grizzly hops out of the car, making the entire thing tilt sideways as he squeezes his bulk out before reaching back in for the camera bag."
-    "The grizzly hops out of the car, making the entire thing tilt sideways as he squeezes his bulk out before reaching back in for the camera bag."
+    "@@@The grizzly hops out of the car, making the entire thing tilt sideways as he squeezes his bulk out before reaching back in for the camera bag."
 
-# game/Flynn-Thursday.rpy:13491
+# game/Flynn-Thursday.rpy:13494
 translate Schinese flynnend_7a358b81:
 
     # "He takes out a small, compact camcorder from inside and wraps it around his wrist."
-    "He takes out a small, compact camcorder from inside and wraps it around his wrist."
+    "@@@He takes out a small, compact camcorder from inside and wraps it around his wrist."
 
-# game/Flynn-Thursday.rpy:13492
+# game/Flynn-Thursday.rpy:13495
 translate Schinese flynnend_3b1e371f:
 
     # "He flicks a switch and Cameron sees the familiar red recording light flashing."
-    "He flicks a switch and Cameron sees the familiar red recording light flashing."
+    "@@@He flicks a switch and Cameron sees the familiar red recording light flashing."
 
-# game/Flynn-Thursday.rpy:13493
+# game/Flynn-Thursday.rpy:13496
 translate Schinese flynnend_3be1cbd9:
 
     # "He points the lens at the coyote, and he quickly covers his face - letting out a frustrated sigh."
-    "He points the lens at the coyote, and he quickly covers his face - letting out a frustrated sigh."
+    "@@@He points the lens at the coyote, and he quickly covers his face - letting out a frustrated sigh."
 
-# game/Flynn-Thursday.rpy:13494
+# game/Flynn-Thursday.rpy:13498
 translate Schinese flynnend_6569d200:
 
     # cam "\"I'm not the horror you're after, Dev.\""
-    cam "\"I'm not the horror you're after, Dev.\""
+    cam "@@@\"I'm not the horror you're after, Dev.\""
 
-# game/Flynn-Thursday.rpy:13495
+# game/Flynn-Thursday.rpy:13499
 translate Schinese flynnend_e1435700:
 
     # "With that, he unbuckles and slides out of the car."
-    "With that, he unbuckles and slides out of the car."
+    "@@@With that, he unbuckles and slides out of the car."
 
-# game/Flynn-Thursday.rpy:13496
+# game/Flynn-Thursday.rpy:13504
 translate Schinese flynnend_7670d607:
 
     # "The bear waits for him, reaching out a large, padded paw."
-    "The bear waits for him, reaching out a large, padded paw."
+    "@@@The bear waits for him, reaching out a large, padded paw."
 
-# game/Flynn-Thursday.rpy:13497
+# game/Flynn-Thursday.rpy:13505
 translate Schinese flynnend_e6cf4578:
 
     # "Cameron takes it and is immediately drawn into a tight embrace and a kiss."
-    "Cameron takes it and is immediately drawn into a tight embrace and a kiss."
+    "@@@Cameron takes it and is immediately drawn into a tight embrace and a kiss."
 
-# game/Flynn-Thursday.rpy:13498
+# game/Flynn-Thursday.rpy:13506
 translate Schinese flynnend_4bb8de79:
 
     # "The coyote tenses up for a moment, then waits until Devon releases him."
-    "The coyote tenses up for a moment, then waits until Devon releases him."
+    "@@@The coyote tenses up for a moment, then waits until Devon releases him."
 
-# game/Flynn-Thursday.rpy:13499
+# game/Flynn-Thursday.rpy:13508
 translate Schinese flynnend_0ece88b0:
 
     # cam "\"Ugh, can you not do that right after you eat a big, greasy hamburger?\""
-    cam "\"Ugh, can you not do that right after you eat a big, greasy hamburger?\""
+    cam "@@@\"Ugh, can you not do that right after you eat a big, greasy hamburger?\""
 
-# game/Flynn-Thursday.rpy:13500
+# game/Flynn-Thursday.rpy:13509
 translate Schinese flynnend_f8346ee9:
 
     # "Cameron makes a show of wiping his lips."
-    "Cameron makes a show of wiping his lips."
+    "@@@Cameron makes a show of wiping his lips."
 
-# game/Flynn-Thursday.rpy:13501
+# game/Flynn-Thursday.rpy:13510
 translate Schinese flynnend_3c54d228:
 
     # "Devon rolls his eyes."
-    "Devon rolls his eyes."
+    "@@@Devon rolls his eyes."
 
-# game/Flynn-Thursday.rpy:13502
+# game/Flynn-Thursday.rpy:13511
 translate Schinese flynnend_cd719123:
 
     # dev "\"No pleasing you, is there?\""
-    dev "\"No pleasing you, is there?\""
+    dev "@@@\"No pleasing you, is there?\""
 
-# game/Flynn-Thursday.rpy:13504
+# game/Flynn-Thursday.rpy:13516
 translate Schinese flynnend_69288000:
 
     # "Nevertheless, the grizzly holds out his paw again and Cameron takes it, the two of them walking toward the town center."
-    "Nevertheless, the grizzly holds out his paw again and Cameron takes it, the two of them walking toward the town center."
+    "@@@Nevertheless, the grizzly holds out his paw again and Cameron takes it, the two of them walking toward the town center."
 
-# game/Flynn-Thursday.rpy:13505
+# game/Flynn-Thursday.rpy:13517
 translate Schinese flynnend_320c13b8:
 
     # "It's not a pleasant walk, most of the infrastructure in pretty shoddy condition - overgrown in places sage brush and dry vegetation."
-    "It's not a pleasant walk, most of the infrastructure in pretty shoddy condition - overgrown in places sage brush and dry vegetation."
+    "@@@It's not a pleasant walk, most of the infrastructure in pretty shoddy condition - overgrown in places sage brush and dry vegetation."
 
-# game/Flynn-Thursday.rpy:13506
+# game/Flynn-Thursday.rpy:13518
 translate Schinese flynnend_55c29d66:
 
     # cam "\"So where are we meeting this guy?\""
-    cam "\"So where are we meeting this guy?\""
+    cam "@@@\"So where are we meeting this guy?\""
 
-# game/Flynn-Thursday.rpy:13507
+# game/Flynn-Thursday.rpy:13519
 translate Schinese flynnend_125a33c1:
 
     # dev "\"I told you: the old civic building.\""
-    dev "\"I told you: the old civic building.\""
+    dev "@@@\"I told you: the old civic building.\""
 
-# game/Flynn-Thursday.rpy:13508
+# game/Flynn-Thursday.rpy:13520
 translate Schinese flynnend_aa63d509:
 
     # cam "\"Wait, you mean City Hall?\""
-    cam "\"Wait, you mean City Hall?\""
+    cam "@@@\"Wait, you mean City Hall?\""
 
-# game/Flynn-Thursday.rpy:13509
+# game/Flynn-Thursday.rpy:13521
 translate Schinese flynnend_9bb90db4:
 
     # "Cameron recalls the late night rants with Devon over the phone, the bear regaling every last detail of the incident."
-    "Cameron recalls the late night rants with Devon over the phone, the bear regaling every last detail of the incident."
+    "@@@Cameron recalls the late night rants with Devon over the phone, the bear regaling every last detail of the incident."
 
-# game/Flynn-Thursday.rpy:13510
+# game/Flynn-Thursday.rpy:13522
 translate Schinese flynnend_02a1eec8:
 
     # cam "\"Where they shot the mayor?\""
-    cam "\"Where they shot the mayor?\""
+    cam "@@@\"Where they shot the mayor?\""
 
-# game/Flynn-Thursday.rpy:13511
+# game/Flynn-Thursday.rpy:13523
 translate Schinese flynnend_c9f78218:
 
     # dev "\"Yep.\""
-    dev "\"Yep.\""
+    dev "@@@\"Yep.\""
 
-# game/Flynn-Thursday.rpy:13512
+# game/Flynn-Thursday.rpy:13524
 translate Schinese flynnend_89bc8380:
 
     # "The coyote releases his paw from the large, clawed grip of his boyfriend, peering up at him with slightly wider eyes."
-    "The coyote releases his paw from the large, clawed grip of his boyfriend, peering up at him with slightly wider eyes."
+    "@@@The coyote releases his paw from the large, clawed grip of his boyfriend, peering up at him with slightly wider eyes."
 
-# game/Flynn-Thursday.rpy:13513
+# game/Flynn-Thursday.rpy:13525
 translate Schinese flynnend_68bc13d7:
 
     # cam "\"Damn, are you absolutely sure he's okay with this?\""
-    cam "\"Damn, are you absolutely sure he's okay with this?\""
+    cam "@@@\"Damn, are you absolutely sure he's okay with this?\""
 
-# game/Flynn-Thursday.rpy:13514
+# game/Flynn-Thursday.rpy:13526
 translate Schinese flynnend_5396501d:
 
     # dev "\"Yeah? Look, he's the one who did the report on this town after the happening in the first place.\""
-    dev "\"Yeah? Look, he's the one who did the report on this town after the happening in the first place.\""
+    dev "@@@\"Yeah? Look, he's the one who did the report on this town after the happening in the first place.\""
 
-# game/Flynn-Thursday.rpy:13515
+# game/Flynn-Thursday.rpy:13527
 translate Schinese flynnend_3f2adc88:
 
     # "Devon tries to put on a reassuring smile."
-    "Devon tries to put on a reassuring smile."
+    "@@@Devon tries to put on a reassuring smile."
 
-# game/Flynn-Thursday.rpy:13516
+# game/Flynn-Thursday.rpy:13528
 translate Schinese flynnend_4fa09301:
 
     # "He seems keenly aware that folk sometimes find his large, predator grin unnerving, but Cameron always told him it was cute."
-    "He seems keenly aware that folk sometimes find his large, predator grin unnerving, but Cameron always told him it was cute."
+    "@@@He seems keenly aware that folk sometimes find his large, predator grin unnerving, but Cameron always told him it was cute."
 
-# game/Flynn-Thursday.rpy:13517
+# game/Flynn-Thursday.rpy:13529
 translate Schinese flynnend_09710936:
 
     # dev "\"Aaaand.. he's gay, so, y'know.\""
-    dev "\"Aaaand.. he's gay, so, y'know.\""
+    dev "@@@\"Aaaand.. he's gay, so, y'know.\""
 
-# game/Flynn-Thursday.rpy:13518
+# game/Flynn-Thursday.rpy:13530
 translate Schinese flynnend_43b69e9f:
 
     # "The bear rewraps his paw around Cameron's own."
-    "The bear rewraps his paw around Cameron's own."
+    "@@@The bear rewraps his paw around Cameron's own."
 
-# game/Flynn-Thursday.rpy:13520
+# game/Flynn-Thursday.rpy:13532
 translate Schinese flynnend_2832103c:
 
     # dev "\"No need to be worried about.. that.\""
-    dev "\"No need to be worried about.. that.\""
+    dev "@@@\"No need to be worried about.. that.\""
 
-# game/Flynn-Thursday.rpy:13522
+# game/Flynn-Thursday.rpy:13534
 translate Schinese flynnend_071da81e:
 
     # "Eventually, the two the reach the old town center."
-    "Eventually, the two the reach the old town center."
+    "@@@Eventually, the two the reach the old town center."
 
-# game/Flynn-Thursday.rpy:13523
+# game/Flynn-Thursday.rpy:13535
 translate Schinese flynnend_b25ad66a:
 
     # "Sure enough, there's a man standing in the gravel parking lot with his paws in his pockets."
-    "Sure enough, there's a man standing in the gravel parking lot with his paws in his pockets."
+    "@@@Sure enough, there's a man standing in the gravel parking lot with his paws in his pockets."
 
-# game/Flynn-Thursday.rpy:13524
+# game/Flynn-Thursday.rpy:13536
 translate Schinese flynnend_77cd92d3:
 
     # "He doesn't appear to notice the two at first, and Devon takes the opportunity to film him from afar."
-    "He doesn't appear to notice the two at first, and Devon takes the opportunity to film him from afar."
+    "@@@He doesn't appear to notice the two at first, and Devon takes the opportunity to film him from afar."
 
-# game/Flynn-Thursday.rpy:13525
+# game/Flynn-Thursday.rpy:13537
 translate Schinese flynnend_47db1d6a:
 
     # "The sun's behind him, so it casts his front in shadowed silhouette - giving him an eerie visage which he might be able to use in the video."
-    "The sun's behind him, so it casts his front in shadowed silhouette - giving him an eerie visage which he might be able to use in the video."
+    "@@@The sun's behind him, so it casts his front in shadowed silhouette - giving him an eerie visage which he might be able to use in the video."
 
-# game/Flynn-Thursday.rpy:13526
+# game/Flynn-Thursday.rpy:13538
 translate Schinese flynnend_d740cf06:
 
     # "The civic building's roof is fully collapsed, a faded, grey tarp over the top of the walls all that's protecting the interior."
-    "The civic building's roof is fully collapsed, a faded, grey tarp over the top of the walls all that's protecting the interior."
+    "@@@The civic building's roof is fully collapsed, a faded, grey tarp over the top of the walls all that's protecting the interior."
 
-# game/Flynn-Thursday.rpy:13527
+# game/Flynn-Thursday.rpy:13539
 translate Schinese flynnend_9ae0a840:
 
     # "Like most of the structures they passed on the way in, a laminated Notice of Condemnation stamped with the County seal is posted to the front door."
-    "Like most of the structures they passed on the way in, a laminated Notice of Condemnation stamped with the County seal is posted to the front door."
+    "@@@Like most of the structures they passed on the way in, a laminated Notice of Condemnation stamped with the County seal is posted to the front door."
 
-# game/Flynn-Thursday.rpy:13528
+# game/Flynn-Thursday.rpy:13540
 translate Schinese flynnend_b127b538:
 
     # "After about 15 seconds or so, it's fairly clear the older guy is aware of the two college kids' presence as he cants his head in their direction."
-    "After about 15 seconds or so, it's fairly clear the older guy is aware of the two college kids' presence as he cants his head in their direction."
+    "@@@After about 15 seconds or so, it's fairly clear the older guy is aware of the two college kids' presence as he cants his head in their direction."
 
-# game/Flynn-Thursday.rpy:13529
+# game/Flynn-Thursday.rpy:13541
 translate Schinese flynnend_6460aa94:
 
     # "They quickly shuffle up, wearing sheepish smiles and already sweat-stained clothing."
-    "They quickly shuffle up, wearing sheepish smiles and already sweat-stained clothing."
+    "@@@They quickly shuffle up, wearing sheepish smiles and already sweat-stained clothing."
 
-# game/Flynn-Thursday.rpy:13532
+# game/Flynn-Thursday.rpy:13544
 translate Schinese flynnend_537381a9:
 
     # dev "\"Chase?\""
-    dev "\"Chase?\""
+    dev "@@@\"Chase?\""
 
-# game/Flynn-Thursday.rpy:13534
+# game/Flynn-Thursday.rpy:13546
 translate Schinese flynnend_93b351d2:
 
     # m "\"Yo.\""
-    m "\"Yo.\""
+    m "@@@\"Yo.\""
 
-# game/Flynn-Thursday.rpy:13535
+# game/Flynn-Thursday.rpy:13550
 translate Schinese flynnend_72b15356:
 
     # cam "\"Hi.\""
-    cam "\"Hi.\""
+    cam "@@@\"Hi.\""
 
-# game/Flynn-Thursday.rpy:13537
+# game/Flynn-Thursday.rpy:13552
 translate Schinese flynnend_61316fa6:
 
     # "The bearded otter seems to be looking at their held paws, which they quickly unclasp and shake his own in turn."
-    "The bearded otter seems to be looking at their held paws, which they quickly unclasp and shake his own in turn."
+    "@@@The bearded otter seems to be looking at their held paws, which they quickly unclasp and shake his own in turn."
 
-# game/Flynn-Thursday.rpy:13538
+# game/Flynn-Thursday.rpy:13553
 translate Schinese flynnend_dbd6e0af:
 
     # "He offers them a sort of melancholy smile."
-    "He offers them a sort of melancholy smile."
+    "@@@He offers them a sort of melancholy smile."
 
-# game/Flynn-Thursday.rpy:13539
+# game/Flynn-Thursday.rpy:13555
 translate Schinese flynnend_b6249f58:
 
     # m "\"You two been together long?\""
-    m "\"You two been together long?\""
+    m "@@@\"You two been together long?\""
 
-# game/Flynn-Thursday.rpy:13540
+# game/Flynn-Thursday.rpy:13556
 translate Schinese flynnend_f08d62b6:
 
     # cam "\"Oh, heh, sorta.\""
-    cam "\"Oh, heh, sorta.\""
+    cam "@@@\"Oh, heh, sorta.\""
 
-# game/Flynn-Thursday.rpy:13541
+# game/Flynn-Thursday.rpy:13557
 translate Schinese flynnend_e7384435:
 
     # "The coyote rubs the back of his neck, the bear wrapping an arm around his shoulder."
-    "The coyote rubs the back of his neck, the bear wrapping an arm around his shoulder."
+    "@@@The coyote rubs the back of his neck, the bear wrapping an arm around his shoulder."
 
-# game/Flynn-Thursday.rpy:13542
+# game/Flynn-Thursday.rpy:13558
 translate Schinese flynnend_8ad1b9e7:
 
     # dev "\"Yep, a while! Must have been tough growing up in the sticks out here - for a gay guy, especially.\""
-    dev "\"Yep, a while! Must have been tough growing up in the sticks out here - for a gay guy, especially.\""
+    dev "@@@\"Yep, a while! Must have been tough growing up in the sticks out here - for a gay guy, especially.\""
 
-# game/Flynn-Thursday.rpy:13543
+# game/Flynn-Thursday.rpy:13559
 translate Schinese flynnend_b3f56b43:
 
     # "Chase lets out a little amused grunt, reaching into his pocket and withdrawing a pack of cigarettes."
-    "Chase lets out a little amused grunt, reaching into his pocket and withdrawing a pack of cigarettes."
+    "@@@Chase lets out a little amused grunt, reaching into his pocket and withdrawing a pack of cigarettes."
 
-# game/Flynn-Thursday.rpy:13546
+# game/Flynn-Thursday.rpy:13562
 translate Schinese flynnend_1f10a8d3:
 
     # m "\"Yeah, I guess. My ex still lives down off Gretchen Way, you know by the old railyard?\""
-    m "\"Yeah, I guess. My ex still lives down off Gretchen Way, you know by the old railyard?\""
+    m "@@@\"Yeah, I guess. My ex still lives down off Gretchen Way, you know by the old railyard?\""
 
-# game/Flynn-Thursday.rpy:13547
+# game/Flynn-Thursday.rpy:13563
 translate Schinese flynnend_f29766f7:
 
     # "Devon nods."
-    "Devon nods."
+    "@@@Devon nods."
 
-# game/Flynn-Thursday.rpy:13548
+# game/Flynn-Thursday.rpy:13564
 translate Schinese flynnend_4e9ca554:
 
     # dev "\"Couldn't sell his property after what happened?\""
-    dev "\"Couldn't sell his property after what happened?\""
+    dev "@@@\"Couldn't sell his property after what happened?\""
 
-# game/Flynn-Thursday.rpy:13549
+# game/Flynn-Thursday.rpy:13565
 translate Schinese flynnend_753ffa03:
 
     # m "\"Mhm. Well, that and some other shit that we don't really need to get into.\""
-    m "\"Mhm. Well, that and some other shit that we don't really need to get into.\""
+    m "@@@\"Mhm. Well, that and some other shit that we don't really need to get into.\""
 
-# game/Flynn-Thursday.rpy:13554
+# game/Flynn-Thursday.rpy:13570
 translate Schinese flynnend_e2b18b6c:
 
     # m "\"Eh, I guess?\""
-    m "\"Eh, I guess?\""
+    m "@@@\"Eh, I guess?\""
 
-# game/Flynn-Thursday.rpy:13555
+# game/Flynn-Thursday.rpy:13571
 translate Schinese flynnend_2812e168:
 
     # m "\"I mean, I did have a boyfriend growing up here for a while, so I friggen lucked out there.\""
-    m "\"I mean, I did have a boyfriend growing up here for a while, so I friggen lucked out there.\""
+    m "@@@\"I mean, I did have a boyfriend growing up here for a while, so I friggen lucked out there.\""
 
-# game/Flynn-Thursday.rpy:13556
+# game/Flynn-Thursday.rpy:13572
 translate Schinese flynnend_04a4244a:
 
     # dev "\"If I recall, he was the one who helped you out during the incident, right? Leon?\""
-    dev "\"If I recall, he was the one who helped you out during the incident, right? Leon?\""
+    dev "@@@\"If I recall, he was the one who helped you out during the incident, right? Leon?\""
 
-# game/Flynn-Thursday.rpy:13557
+# game/Flynn-Thursday.rpy:13573
 translate Schinese flynnend_a540e63f:
 
     # m "\"Leo.\""
-    m "\"Leo.\""
+    m "@@@\"Leo.\""
 
-# game/Flynn-Thursday.rpy:13558
+# game/Flynn-Thursday.rpy:13574
 translate Schinese flynnend_96024134:
 
     # dev "\"Right.\""
-    dev "\"Right.\""
+    dev "@@@\"Right.\""
 
-# game/Flynn-Thursday.rpy:13559
+# game/Flynn-Thursday.rpy:13575
 translate Schinese flynnend_09021e1d:
 
     # "He quickly nods, muttering something about how he should know that before adjusting the camera on his shoulder."
-    "He quickly nods, muttering something about how he should know that before adjusting the camera on his shoulder."
+    "@@@He quickly nods, muttering something about how he should know that before adjusting the camera on his shoulder."
 
-# game/Flynn-Thursday.rpy:13560
+# game/Flynn-Thursday.rpy:13576
 translate Schinese flynnend_5a1d83d9:
 
     # dev "\"How's he doing?\""
-    dev "\"How's he doing?\""
+    dev "@@@\"How's he doing?\""
 
-# game/Flynn-Thursday.rpy:13561
+# game/Flynn-Thursday.rpy:13577
 translate Schinese flynnend_faced2b8:
 
     # m "\"I don't know. He doesn't really talk to me anymore.\""
-    m "\"I don't know. He doesn't really talk to me anymore.\""
+    m "@@@\"I don't know. He doesn't really talk to me anymore.\""
 
-# game/Flynn-Thursday.rpy:13563
+# game/Flynn-Thursday.rpy:13579
 translate Schinese flynnend_18ce1817:
 
     # cam "\"Oh, well, regardless.. must have been tough being the only gay kids out here growing up.\""
-    cam "\"Oh, well, regardless.. must have been tough being the only gay kids out here growing up.\""
+    cam "@@@\"Oh, well, regardless.. must have been tough being the only gay kids out here growing up.\""
 
-# game/Flynn-Thursday.rpy:13565
+# game/Flynn-Thursday.rpy:13581
 translate Schinese flynnend_cbd50b0f:
 
     # m "\"Yeah. Us and one other guy.\""
-    m "\"Yeah. Us and one other guy.\""
+    m "@@@\"Yeah. Us and one other guy.\""
 
-# game/Flynn-Thursday.rpy:13566
+# game/Flynn-Thursday.rpy:13582
 translate Schinese flynnend_a6d179b2:
 
     # "He sniffs, looking off to the side."
-    "He sniffs, looking off to the side."
+    "@@@He sniffs, looking off to the side."
 
-# game/Flynn-Thursday.rpy:13567
+# game/Flynn-Thursday.rpy:13583
 translate Schinese flynnend_b386b825:
 
     # m "\"Y'all mind if I smoke?\""
-    m "\"Y'all mind if I smoke?\""
+    m "@@@\"Y'all mind if I smoke?\""
 
-# game/Flynn-Thursday.rpy:13568
+# game/Flynn-Thursday.rpy:13584
 translate Schinese flynnend_93d6800b:
 
     # cam "\"Oh, uh, go ahead!\""
-    cam "\"Oh, uh, go ahead!\""
+    cam "@@@\"Oh, uh, go ahead!\""
 
-# game/Flynn-Thursday.rpy:13569
+# game/Flynn-Thursday.rpy:13585
 translate Schinese flynnend_3aba5bb1:
 
     # dev "\"Yeah, plenty of fresh air out here. I don't mind.\""
-    dev "\"Yeah, plenty of fresh air out here. I don't mind.\""
+    dev "@@@\"Yeah, plenty of fresh air out here. I don't mind.\""
 
-# game/Flynn-Thursday.rpy:13570
+# game/Flynn-Thursday.rpy:13586
 translate Schinese flynnend_fda39f39:
 
     # "The otter nods, sticking the cigarette between his lips, and flicking his lighter."
-    "The otter nods, sticking the cigarette between his lips, and flicking his lighter."
+    "@@@The otter nods, sticking the cigarette between his lips, and flicking his lighter."
 
-# game/Flynn-Thursday.rpy:13571
+# game/Flynn-Thursday.rpy:13587
 translate Schinese flynnend_9444b94d:
 
     # "However, he doesn't bring the flame up, instead just holding it out in front of him."
-    "However, he doesn't bring the flame up, instead just holding it out in front of him."
+    "@@@However, he doesn't bring the flame up, instead just holding it out in front of him."
 
-# game/Flynn-Thursday.rpy:13572
+# game/Flynn-Thursday.rpy:13588
 translate Schinese flynnend_5e499515:
 
     # "The seconds pass, and slowly he shifts the lighter in the direction of the old civic building."
-    "The seconds pass, and slowly he shifts the lighter in the direction of the old civic building."
+    "@@@The seconds pass, and slowly he shifts the lighter in the direction of the old civic building."
 
-# game/Flynn-Thursday.rpy:13573
+# game/Flynn-Thursday.rpy:13589
 translate Schinese flynnend_01a8f5ba:
 
     # "Cameron and Devon watch the otter expectantly. After everything he's been through, some oddball behavior is to be expected, after all."
-    "Cameron and Devon watch the otter expectantly. After everything he's been through, some oddball behavior is to be expected, after all."
+    "@@@Cameron and Devon watch the otter expectantly. After everything he's been through, some oddball behavior is to be expected, after all."
 
-# game/Flynn-Thursday.rpy:13574
+# game/Flynn-Thursday.rpy:13590
 translate Schinese flynnend_e84ac990:
 
     # dev "\"Soooo... I'm a big fan of your original report you did!\""
-    dev "\"Soooo... I'm a big fan of your original report you did!\""
+    dev "@@@\"Soooo... I'm a big fan of your original report you did!\""
 
-# game/Flynn-Thursday.rpy:13575
+# game/Flynn-Thursday.rpy:13591
 translate Schinese flynnend_0372cc96:
 
     # dev "\"Hell, I did my own little video on what happened when I was first starting my channel.\""
-    dev "\"Hell, I did my own little video on what happened when I was first starting my channel.\""
+    dev "@@@\"Hell, I did my own little video on what happened when I was first starting my channel.\""
 
-# game/Flynn-Thursday.rpy:13576
+# game/Flynn-Thursday.rpy:13592
 translate Schinese flynnend_2162ebd8:
 
     # m "\"I know. You used a lot of my footage.\""
-    m "\"I know. You used a lot of my footage.\""
+    m "@@@\"I know. You used a lot of my footage.\""
 
-# game/Flynn-Thursday.rpy:13577
+# game/Flynn-Thursday.rpy:13594
 translate Schinese flynnend_af0061d5:
 
     # "Devon begins looking a little nervous, laughing some to try and lighten the mood."
-    "Devon begins looking a little nervous, laughing some to try and lighten the mood."
+    "@@@Devon begins looking a little nervous, laughing some to try and lighten the mood."
 
-# game/Flynn-Thursday.rpy:13578
+# game/Flynn-Thursday.rpy:13595
 translate Schinese flynnend_5b5864b9:
 
     # dev "\"I credited you, of course. I'm just some haunting vlogger. You're like a professional journalist and everything.\""
-    dev "\"I credited you, of course. I'm just some haunting vlogger. You're like a professional journalist and everything.\""
+    dev "@@@\"I credited you, of course. I'm just some haunting vlogger. You're like a professional journalist and everything.\""
 
-# game/Flynn-Thursday.rpy:13579
+# game/Flynn-Thursday.rpy:13596
 translate Schinese flynnend_8fbf103c:
 
     # "Chase finally lights his cigarette."
-    "Chase finally lights his cigarette."
+    "@@@Chase finally lights his cigarette."
 
-# game/Flynn-Thursday.rpy:13581
+# game/Flynn-Thursday.rpy:13598
 translate Schinese flynnend_c58351d3:
 
     # m "\"Was.\""
-    m "\"Was.\""
+    m "@@@\"Was.\""
 
-# game/Flynn-Thursday.rpy:13582
+# game/Flynn-Thursday.rpy:13600
 translate Schinese flynnend_e41b3ff2:
 
     # dev "\"Huh?\""
-    dev "\"Huh?\""
+    dev "@@@\"Huh?\""
 
-# game/Flynn-Thursday.rpy:13583
+# game/Flynn-Thursday.rpy:13602
 translate Schinese flynnend_510d75d2:
 
     # m "\"Was a \"professional journalist\". I got pushed out of my reporting gig with KGUA like two years ago now.\""
-    m "\"Was a \"professional journalist\". I got pushed out of my reporting gig with KGUA like two years ago now.\""
+    m "@@@\"Was a \"professional journalist\". I got pushed out of my reporting gig with KGUA like two years ago now.\""
 
-# game/Flynn-Thursday.rpy:13584
+# game/Flynn-Thursday.rpy:13603
 translate Schinese flynnend_c110c1df:
 
     # m "\"No one liked my stuff anymore. No matter what I did, it wasn't ever as good as that piece I finished in college.\""
-    m "\"No one liked my stuff anymore. No matter what I did, it wasn't ever as good as that piece I finished in college.\""
+    m "@@@\"No one liked my stuff anymore. No matter what I did, it wasn't ever as good as that piece I finished in college.\""
 
-# game/Flynn-Thursday.rpy:13585
+# game/Flynn-Thursday.rpy:13605
 translate Schinese flynnend_574b8564:
 
     # "Devon blinks."
-    "Devon blinks."
+    "@@@Devon blinks."
 
-# game/Flynn-Thursday.rpy:13586
+# game/Flynn-Thursday.rpy:13606
 translate Schinese flynnend_e1feb3fe:
 
     # dev "\"I'm sorry to hear that.\""
-    dev "\"I'm sorry to hear that.\""
+    dev "@@@\"I'm sorry to hear that.\""
 
-# game/Flynn-Thursday.rpy:13587
+# game/Flynn-Thursday.rpy:13607
 translate Schinese flynnend_740f1324:
 
     # "He pauses, thinking to himself for a moment."
-    "He pauses, thinking to himself for a moment."
+    "@@@He pauses, thinking to himself for a moment."
 
-# game/Flynn-Thursday.rpy:13588
+# game/Flynn-Thursday.rpy:13609
 translate Schinese flynnend_deff0d6f:
 
     # dev "\"You know, those news media companies are all fascist shit factories anyway.\""
-    dev "\"You know, those news media companies are all fascist shit factories anyway.\""
+    dev "@@@\"You know, those news media companies are all fascist shit factories anyway.\""
 
-# game/Flynn-Thursday.rpy:13589
+# game/Flynn-Thursday.rpy:13611
 translate Schinese flynnend_d7e7c0fc:
 
     # cam "\"Dev...\""
-    cam "\"Dev...\""
+    cam "@@@\"Dev...\""
 
-# game/Flynn-Thursday.rpy:13590
+# game/Flynn-Thursday.rpy:13612
 translate Schinese flynnend_e3ad772d:
 
     # dev "\"Without all that big billionaire funding, they'd be going the way of the dinosaurs - relegated to sports and weather for senior citizens.\""
-    dev "\"Without all that big billionaire funding, they'd be going the way of the dinosaurs - relegated to sports and weather for senior citizens.\""
+    dev "@@@\"Without all that big billionaire funding, they'd be going the way of the dinosaurs - relegated to sports and weather for senior citizens.\""
 
-# game/Flynn-Thursday.rpy:13592
+# game/Flynn-Thursday.rpy:13614
 translate Schinese flynnend_09a0c413:
 
     # "Chase stares blankly up at the much taller bear, unsure of how to respond to that."
-    "Chase stares blankly up at the much taller bear, unsure of how to respond to that."
+    "@@@Chase stares blankly up at the much taller bear, unsure of how to respond to that."
 
-# game/Flynn-Thursday.rpy:13593
+# game/Flynn-Thursday.rpy:13615
 translate Schinese flynnend_6cc5f0a8:
 
     # "Devon clears his throat."
-    "Devon clears his throat."
+    "@@@Devon clears his throat."
 
-# game/Flynn-Thursday.rpy:13594
+# game/Flynn-Thursday.rpy:13617
 translate Schinese flynnend_e681783d:
 
     # dev "\"And, uh, your social media profile said you were still-\""
-    dev "\"And, uh, your social media profile said you were still-\""
+    dev "@@@\"And, uh, your social media profile said you were still-\""
 
-# game/Flynn-Thursday.rpy:13595
+# game/Flynn-Thursday.rpy:13618
 translate Schinese flynnend_252a9a92:
 
     # m "\"I haven't updated that in a while.\""
-    m "\"I haven't updated that in a while.\""
+    m "@@@\"I haven't updated that in a while.\""
 
-# game/Flynn-Thursday.rpy:13596
+# game/Flynn-Thursday.rpy:13619
 translate Schinese flynnend_bd40fa7f:
 
     # dev "\"Ah.\""
-    dev "\"Ah.\""
+    dev "@@@\"Ah.\""
 
-# game/Flynn-Thursday.rpy:13597
+# game/Flynn-Thursday.rpy:13620
 translate Schinese flynnend_e7a874e5:
 
     # "Chase takes a long drag from his cigarette, stopping at the first speedbump."
-    "Chase takes a long drag from his cigarette, stopping at the first speedbump."
+    "@@@Chase takes a long drag from his cigarette, stopping at the first speedbump."
 
-# game/Flynn-Thursday.rpy:13598
+# game/Flynn-Thursday.rpy:13621
 translate Schinese flynnend_061006ec:
 
     # "He seems to become increasingly aware of the uneasy stares from the two college kids in front of him."
-    "He seems to become increasingly aware of the uneasy stares from the two college kids in front of him."
+    "@@@He seems to become increasingly aware of the uneasy stares from the two college kids in front of him."
 
-# game/Flynn-Thursday.rpy:13600
+# game/Flynn-Thursday.rpy:13623
 translate Schinese flynnend_98f8ff67:
 
     # m "\"Sorry, it's been.. a difficult few years for me.\""
-    m "\"Sorry, it's been.. a difficult few years for me.\""
+    m "@@@\"Sorry, it's been.. a difficult few years for me.\""
 
-# game/Flynn-Thursday.rpy:13601
+# game/Flynn-Thursday.rpy:13624
 translate Schinese flynnend_bd956890:
 
     # "The statement from the otter makes sense, looking at him now."
-    "The statement from the otter makes sense, looking at him now."
+    "@@@The statement from the otter makes sense, looking at him now."
 
-# game/Flynn-Thursday.rpy:13602
+# game/Flynn-Thursday.rpy:13625
 translate Schinese flynnend_81dea713:
 
     # "He's awfully haggard for someone in his mid-to-late 20's, his facial scruff untrimmed and the dye-job looking less than stellar."
-    "He's awfully haggard for someone in his mid-to-late 20's, his facial scruff untrimmed and the dye-job looking less than stellar."
+    "@@@He's awfully haggard for someone in his mid-to-late 20's, his facial scruff untrimmed and the dye-job looking less than stellar."
 
-# game/Flynn-Thursday.rpy:13603
+# game/Flynn-Thursday.rpy:13626
 translate Schinese flynnend_69e3087c:
 
     # "Cameron can't help but think he'd be kind of cute if he cleaned himself up a bit."
-    "Cameron can't help but think he'd be kind of cute if he cleaned himself up a bit."
+    "@@@Cameron can't help but think he'd be kind of cute if he cleaned himself up a bit."
 
-# game/Flynn-Thursday.rpy:13604
+# game/Flynn-Thursday.rpy:13627
 translate Schinese flynnend_440e4156:
 
     # "Or perhaps he just has a thing for sad eyes?"
-    "Or perhaps he just has a thing for sad eyes?"
+    "@@@Or perhaps he just has a thing for sad eyes?"
 
-# game/Flynn-Thursday.rpy:13605
+# game/Flynn-Thursday.rpy:13628
 translate Schinese flynnend_3cd78cef:
 
     # "Said sad eyes were fixated upon the civic building now, Chase's lips thinning tightly around his cigarette - squeezing ash from the tip."
-    "Said sad eyes were fixated upon the civic building now, Chase's lips thinning tightly around his cigarette - squeezing ash from the tip."
+    "@@@Said sad eyes were fixated upon the civic building now, Chase's lips thinning tightly around his cigarette - squeezing ash from the tip."
 
-# game/Flynn-Thursday.rpy:13606
+# game/Flynn-Thursday.rpy:13629
 translate Schinese flynnend_56bc59f3:
 
     # "The coyote steps up, placing a paw on the otter's shoulder."
-    "The coyote steps up, placing a paw on the otter's shoulder."
+    "@@@The coyote steps up, placing a paw on the otter's shoulder."
 
-# game/Flynn-Thursday.rpy:13607
+# game/Flynn-Thursday.rpy:13630
 translate Schinese flynnend_9d6574be:
 
     # cam "\"H-hey, it's alright. We don't want to put any pressure on you.\""
-    cam "\"H-hey, it's alright. We don't want to put any pressure on you.\""
+    cam "@@@\"H-hey, it's alright. We don't want to put any pressure on you.\""
 
-# game/Flynn-Thursday.rpy:13608
+# game/Flynn-Thursday.rpy:13631
 translate Schinese flynnend_7b885d8e:
 
     # cam "\"Right, Dev?\""
-    cam "\"Right, Dev?\""
+    cam "@@@\"Right, Dev?\""
 
-# game/Flynn-Thursday.rpy:13609
+# game/Flynn-Thursday.rpy:13632
 translate Schinese flynnend_748f76b8:
 
     # dev "\"Right!\""
-    dev "\"Right!\""
+    dev "@@@\"Right!\""
 
-# game/Flynn-Thursday.rpy:13610
+# game/Flynn-Thursday.rpy:13633
 translate Schinese flynnend_c6172e28:
 
     # "Devon sounds genuinely supportive. Chase can see why Cameron might be so taken with him."
-    "Devon sounds genuinely supportive. Chase can see why Cameron might be so taken with him."
+    "@@@Devon sounds genuinely supportive. Chase can see why Cameron might be so taken with him."
 
-# game/Flynn-Thursday.rpy:13611
+# game/Flynn-Thursday.rpy:13634
 translate Schinese flynnend_41f479c1:
 
     # "It would be nice to have something like that again, and he finds himself relishing the paw on his shoulder."
-    "It would be nice to have something like that again, and he finds himself relishing the paw on his shoulder."
+    "@@@It would be nice to have something like that again, and he finds himself relishing the paw on his shoulder."
 
-# game/Flynn-Thursday.rpy:13612
+# game/Flynn-Thursday.rpy:13635
 translate Schinese flynnend_4d05792d:
 
     # "He didn't realize he was so touch starved."
-    "He didn't realize he was so touch starved."
+    "@@@He didn't realize he was so touch starved."
 
-# game/Flynn-Thursday.rpy:13613
+# game/Flynn-Thursday.rpy:13636
 translate Schinese flynnend_f52ef80d:
 
     # "Still, Chase can't help but avoid their reassuring gazes, the otter rubbing at the old spider bite mark on his neck."
-    "Still, Chase can't help but avoid their reassuring gazes, the otter rubbing at the old spider bite mark on his neck."
+    "@@@Still, Chase can't help but avoid their reassuring gazes, the otter rubbing at the old spider bite mark on his neck."
 
-# game/Flynn-Thursday.rpy:13614
+# game/Flynn-Thursday.rpy:13637
 translate Schinese flynnend_6740ac14:
 
     # m "\"Let's uh.. let's begin, shall we?\""
-    m "\"Let's uh.. let's begin, shall we?\""
+    m "@@@\"Let's uh.. let's begin, shall we?\""
 
-# game/Flynn-Thursday.rpy:13617
+# game/Flynn-Thursday.rpy:13643
 translate Schinese flynnend_bfc8773c:
 
     # "The trio begins to head northward, past the burnt out newer buildings that went up in smoke during the hysteria."
-    "The trio begins to head northward, past the burnt out newer buildings that went up in smoke during the hysteria."
+    "@@@The trio begins to head northward, past the burnt out newer buildings that went up in smoke during the hysteria."
 
-# game/Flynn-Thursday.rpy:13618
+# game/Flynn-Thursday.rpy:13644
 translate Schinese flynnend_edc66a31:
 
     # "Devon finds an odd looking globe, broken in the middle of the road."
-    "Devon finds an odd looking globe, broken in the middle of the road."
+    "@@@Devon finds an odd looking globe, broken in the middle of the road."
 
-# game/Flynn-Thursday.rpy:13619
+# game/Flynn-Thursday.rpy:13645
 translate Schinese flynnend_cd9c110b:
 
     # "Cameron offers to carry it with them, though Devon seems rather adamant about not looting anything."
-    "Cameron offers to carry it with them, though Devon seems rather adamant about not looting anything."
+    "@@@Cameron offers to carry it with them, though Devon seems rather adamant about not looting anything."
 
-# game/Flynn-Thursday.rpy:13620
+# game/Flynn-Thursday.rpy:13646
 translate Schinese flynnend_1dd4dec0:
 
     # "Chase doesn't appear to care either way."
-    "Chase doesn't appear to care either way."
+    "@@@Chase doesn't appear to care either way."
 
-# game/Flynn-Thursday.rpy:13622
-translate Schinese flynnend_9c489554:
+# game/Flynn-Thursday.rpy:13648
+translate Schinese flynnend_024d4c15:
 
-    # "Eventually they arrive on the outskirts of the nearby - warning signs posted damn near everywhere."
-    "Eventually they arrive on the outskirts of the nearby - warning signs posted damn near everywhere."
+    # "Eventually they arrive on the outskirts of the nearby mine - warning signs posted damn near everywhere."
+    "@@@Eventually they arrive on the outskirts of the nearby mine - warning signs posted damn near everywhere."
 
-# game/Flynn-Thursday.rpy:13623
+# game/Flynn-Thursday.rpy:13649
 translate Schinese flynnend_3e12aee3:
 
     # "It looks like barbed wire fencing had started being erected along the main entrance."
-    "It looks like barbed wire fencing had started being erected along the main entrance."
+    "@@@It looks like barbed wire fencing had started being erected along the main entrance."
 
-# game/Flynn-Thursday.rpy:13624
+# game/Flynn-Thursday.rpy:13650
 translate Schinese flynnend_917bf16f:
 
     # "Though, Chase mentions the County gave up on trying to fully enclose it a couple months ago after folk kept cutting through it."
-    "Though, Chase mentions the County gave up on trying to fully enclose it a couple months ago after folk kept cutting through it."
+    "@@@Though, Chase mentions the County gave up on trying to fully enclose it a couple months ago after folk kept cutting through it."
 
-# game/Flynn-Thursday.rpy:13626
+# game/Flynn-Thursday.rpy:13652
 translate Schinese flynnend_343603b5:
 
     # m "\"So, uh, there's more than one entrance to the mine here. They're all barred off now.\""
-    m "\"So, uh, there's more than one entrance to the mine here. They're all barred off now.\""
+    m "@@@\"So, uh, there's more than one entrance to the mine here. They're all barred off now.\""
 
-# game/Flynn-Thursday.rpy:13627
+# game/Flynn-Thursday.rpy:13653
 translate Schinese flynnend_662a34b6:
 
     # m "\"I mean, the main entrance was locked up tight even before the crapshow five years ago.\""
-    m "\"I mean, the main entrance was locked up tight even before the crapshow five years ago.\""
+    m "@@@\"I mean, the main entrance was locked up tight even before the crapshow five years ago.\""
 
-# game/Flynn-Thursday.rpy:13628
+# game/Flynn-Thursday.rpy:13654
 translate Schinese flynnend_6bcd2b0b:
 
     # "Devon sets up his tripod, pointing it toward the black void between the rocks."
-    "Devon sets up his tripod, pointing it toward the black void between the rocks."
+    "@@@Devon sets up his tripod, pointing it toward the black void between the rocks."
 
-# game/Flynn-Thursday.rpy:13629
+# game/Flynn-Thursday.rpy:13655
 translate Schinese flynnend_a308c6f5:
 
     # dev "\"This is where they found the bodies?\""
-    dev "\"This is where they found the bodies?\""
+    dev "@@@\"This is where they found the bodies?\""
 
-# game/Flynn-Thursday.rpy:13630
+# game/Flynn-Thursday.rpy:13656
 translate Schinese flynnend_8fc4f227:
 
     # "Chase shakes his head."
-    "Chase shakes his head."
+    "@@@Chase shakes his head."
 
-# game/Flynn-Thursday.rpy:13631
+# game/Flynn-Thursday.rpy:13657
 translate Schinese flynnend_378aaabb:
 
     # m "\"That was off the side entrance in the A-level.\""
-    m "\"That was off the side entrance in the A-level.\""
+    m "@@@\"That was off the side entrance in the A-level.\""
 
-# game/Flynn-Thursday.rpy:13632
+# game/Flynn-Thursday.rpy:13658
 translate Schinese flynnend_48235ad8:
 
     # m "\"This is the main entrance.\""
-    m "\"This is the main entrance.\""
+    m "@@@\"This is the main entrance.\""
 
-# game/Flynn-Thursday.rpy:13633
+# game/Flynn-Thursday.rpy:13659
 translate Schinese flynnend_03dcf0c6:
 
     # m "\"It goes all the way from A-to-F level.\""
-    m "\"It goes all the way from A-to-F level.\""
+    m "@@@\"It goes all the way from A-to-F level.\""
 
-# game/Flynn-Thursday.rpy:13634
+# game/Flynn-Thursday.rpy:13660
 translate Schinese flynnend_a900e0fe:
 
     # cam "\"How deep is that?\""
-    cam "\"How deep is that?\""
+    cam "@@@\"How deep is that?\""
 
-# game/Flynn-Thursday.rpy:13635
+# game/Flynn-Thursday.rpy:13661
 translate Schinese flynnend_f141ec6a:
 
     # m "\"It depends.\""
-    m "\"It depends.\""
+    m "@@@\"It depends.\""
 
-# game/Flynn-Thursday.rpy:13636
+# game/Flynn-Thursday.rpy:13662
 translate Schinese flynnend_51757fdc:
 
     # m "\"The deepest shaft goes down 1,900 feet.\""
-    m "\"The deepest shaft goes down 1,900 feet.\""
+    m "@@@\"The deepest shaft goes down 1,900 feet.\""
 
-# game/Flynn-Thursday.rpy:13637
+# game/Flynn-Thursday.rpy:13663
 translate Schinese flynnend_54409039:
 
     # cam "\"Jeez...\""
-    cam "\"Jeez...\""
+    cam "@@@\"Jeez...\""
 
-# game/Flynn-Thursday.rpy:13638
+# game/Flynn-Thursday.rpy:13664
 translate Schinese flynnend_406b848a:
 
     # "Chase holds up his hand, gesturing behind him."
-    "Chase holds up his hand, gesturing behind him."
+    "@@@Chase holds up his hand, gesturing behind him."
 
-# game/Flynn-Thursday.rpy:13639
+# game/Flynn-Thursday.rpy:13665
 translate Schinese flynnend_643baace:
 
     # m "\"It's been like half a century since the mine's been active, so rotting supports and the like most certainly have caved in most of it.\""
-    m "\"It's been like half a century since the mine's been active, so rotting supports and the like most certainly have caved in most of it.\""
+    m "@@@\"It's been like half a century since the mine's been active, so rotting supports and the like most certainly have caved in most of it.\""
 
-# game/Flynn-Thursday.rpy:13640
+# game/Flynn-Thursday.rpy:13666
 translate Schinese flynnend_754638d1:
 
     # "Devon nods, a tight frown crossing the bear's broad muzzle."
-    "Devon nods, a tight frown crossing the bear's broad muzzle."
+    "@@@Devon nods, a tight frown crossing the bear's broad muzzle."
 
-# game/Flynn-Thursday.rpy:13641
+# game/Flynn-Thursday.rpy:13667
 translate Schinese flynnend_92548a1c:
 
     # "It's clear he's got something on his mind."
-    "It's clear he's got something on his mind."
+    "@@@It's clear he's got something on his mind."
 
-# game/Flynn-Thursday.rpy:13642
+# game/Flynn-Thursday.rpy:13668
 translate Schinese flynnend_905e3070:
 
     # dev "\"What about, uh.. y'know, that one guy?\""
-    dev "\"What about, uh.. y'know, that one guy?\""
+    dev "@@@\"What about, uh.. y'know, that one guy?\""
 
-# game/Flynn-Thursday.rpy:13643
+# game/Flynn-Thursday.rpy:13669
 translate Schinese flynnend_082d1406:
 
     # m "\"Hm?\""
-    m "\"Hm?\""
+    m "@@@\"Hm?\""
 
-# game/Flynn-Thursday.rpy:13644
+# game/Flynn-Thursday.rpy:13670
 translate Schinese flynnend_bef48389:
 
     # dev "\"The mayor's nephew.\""
-    dev "\"The mayor's nephew.\""
+    dev "@@@\"The mayor's nephew.\""
 
-# game/Flynn-Thursday.rpy:13645
+# game/Flynn-Thursday.rpy:13671
 translate Schinese flynnend_cc199b70:
 
     # dev "\"I've read the reports and all, but what's your take on what happened?\""
-    dev "\"I've read the reports and all, but what's your take on what happened?\""
+    dev "@@@\"I've read the reports and all, but what's your take on what happened?\""
 
-# game/Flynn-Thursday.rpy:13647
+# game/Flynn-Thursday.rpy:13673
 translate Schinese flynnend_68940515:
 
     # "Chase hesitates for a moment, not having expected the question."
-    "Chase hesitates for a moment, not having expected the question."
+    "@@@Chase hesitates for a moment, not having expected the question."
 
-# game/Flynn-Thursday.rpy:13648
+# game/Flynn-Thursday.rpy:13674
 translate Schinese flynnend_0582d5d0:
 
     # "Or, at least, hoping it wouldn't come up at all."
-    "Or, at least, hoping it wouldn't come up at all."
+    "@@@Or, at least, hoping it wouldn't come up at all."
 
-# game/Flynn-Thursday.rpy:13649
+# game/Flynn-Thursday.rpy:13675
 translate Schinese flynnend_28fa8dbf:
 
     # "The otter steps back, bringing his fingertips up to the bars of the mine."
-    "The otter steps back, bringing his fingertips up to the bars of the mine."
+    "@@@The otter steps back, bringing his fingertips up to the bars of the mine."
 
-# game/Flynn-Thursday.rpy:13650
+# game/Flynn-Thursday.rpy:13676
 translate Schinese flynnend_be486fe1:
 
     # "He touches them and the cave wall that they're embedded in."
-    "He touches them and the cave wall that they're embedded in."
+    "@@@He touches them and the cave wall that they're embedded in."
 
-# game/Flynn-Thursday.rpy:13651
+# game/Flynn-Thursday.rpy:13677
 translate Schinese flynnend_f5ef1755:
 
     # "He draws back and shows the two his blackened fingertips."
-    "He draws back and shows the two his blackened fingertips."
+    "@@@He draws back and shows the two his blackened fingertips."
 
-# game/Flynn-Thursday.rpy:13652
+# game/Flynn-Thursday.rpy:13678
 translate Schinese flynnend_e69a9ad3:
 
     # "The cave is scorched."
-    "The cave is scorched."
+    "@@@The cave is scorched."
 
-# game/Flynn-Thursday.rpy:13654
+# game/Flynn-Thursday.rpy:13680
 translate Schinese flynnend_d969487c:
 
     # m "\"Well, the theory is there were flammable gases that were ignited in the lowest levels.\""
-    m "\"Well, the theory is there were flammable gases that were ignited in the lowest levels.\""
+    m "@@@\"Well, the theory is there were flammable gases that were ignited in the lowest levels.\""
 
-# game/Flynn-Thursday.rpy:13655
+# game/Flynn-Thursday.rpy:13681
 translate Schinese flynnend_fb21d3e3:
 
     # m "\"It created this sustained burn that started billowing smoke up in the air for a couple weeks after the whole.. happening.\""
-    m "\"It created this sustained burn that started billowing smoke up in the air for a couple weeks after the whole.. happening.\""
+    m "@@@\"It created this sustained burn that started billowing smoke up in the air for a couple weeks after the whole.. happening.\""
 
-# game/Flynn-Thursday.rpy:13656
+# game/Flynn-Thursday.rpy:13682
 translate Schinese flynnend_ebeaa2c6:
 
     # dev "\"Yeah, I know that but.. why did he walk inside while it was like that?\""
-    dev "\"Yeah, I know that but.. why did he walk inside while it was like that?\""
+    dev "@@@\"Yeah, I know that but.. why did he walk inside while it was like that?\""
 
-# game/Flynn-Thursday.rpy:13657
+# game/Flynn-Thursday.rpy:13683
 translate Schinese flynnend_630d537a:
 
     # dev "\"You were one of the last people to see him, after all.\""
-    dev "\"You were one of the last people to see him, after all.\""
+    dev "@@@\"You were one of the last people to see him, after all.\""
 
-# game/Flynn-Thursday.rpy:13658
+# game/Flynn-Thursday.rpy:13684
 translate Schinese flynnend_c9f093a8:
 
     # dev "\"And those other two, they said they couldn't stop him after you left?\""
-    dev "\"And those other two, they said they couldn't stop him after you left?\""
+    dev "@@@\"And those other two, they said they couldn't stop him after you left?\""
 
-# game/Flynn-Thursday.rpy:13660
+# game/Flynn-Thursday.rpy:13686
 translate Schinese flynnend_289bfab3:
 
     # "Chase looks away, staring off into space."
-    "Chase looks away, staring off into space."
+    "@@@Chase looks away, staring off into space."
 
-# game/Flynn-Thursday.rpy:13661
+# game/Flynn-Thursday.rpy:13687
 translate Schinese flynnend_596aae0c:
 
     # m "\"...\""
-    m "\"...\""
+    m "@@@\"...\""
 
-# game/Flynn-Thursday.rpy:13662
+# game/Flynn-Thursday.rpy:13688
 translate Schinese flynnend_36252c23:
 
     # "He says nothing, and soon Devon and Cameron are exchanging nervous glances with one another."
-    "He says nothing, and soon Devon and Cameron are exchanging nervous glances with one another."
+    "@@@He says nothing, and soon Devon and Cameron are exchanging nervous glances with one another."
 
-# game/Flynn-Thursday.rpy:13665
+# game/Flynn-Thursday.rpy:13691
 translate Schinese flynnend_3f58cf61:
 
     # "Next thing they know, the otter is walking off without another word."
-    "Next thing they know, the otter is walking off without another word."
+    "@@@Next thing they know, the otter is walking off without another word."
 
-# game/Flynn-Thursday.rpy:13666
+# game/Flynn-Thursday.rpy:13692
 translate Schinese flynnend_274d0849:
 
     # dev "\"W-wait, hold on!\""
-    dev "\"W-wait, hold on!\""
+    dev "@@@\"W-wait, hold on!\""
 
-# game/Flynn-Thursday.rpy:13667
+# game/Flynn-Thursday.rpy:13693
 translate Schinese flynnend_54ac10d6:
 
     # "He swears under his breath, Cameron looking on with crossed arms as Chase heads toward his car."
-    "He swears under his breath, Cameron looking on with crossed arms as Chase heads toward his car."
+    "@@@He swears under his breath, Cameron looking on with crossed arms as Chase heads toward his car."
 
-# game/Flynn-Thursday.rpy:13668
+# game/Flynn-Thursday.rpy:13694
 translate Schinese flynnend_8adcc950:
 
     # dev "\"Ah, fuck...\""
-    dev "\"Ah, fuck...\""
+    dev "@@@\"Ah, fuck...\""
 
-# game/Flynn-Thursday.rpy:13669
+# game/Flynn-Thursday.rpy:13698
 translate Schinese flynnend_e351eee7:
 
     # cam "\"He's not gonna.. oh, damn, he totally is.\""
-    cam "\"He's not gonna.. oh, damn, he totally is.\""
+    cam "@@@\"He's not gonna.. oh, damn, he totally is.\""
 
-# game/Flynn-Thursday.rpy:13670
+# game/Flynn-Thursday.rpy:13699
 translate Schinese flynnend_591a5043:
 
     # dev "\"What the hell?\""
-    dev "\"What the hell?\""
+    dev "@@@\"What the hell?\""
 
-# game/Flynn-Thursday.rpy:13671
+# game/Flynn-Thursday.rpy:13700
 translate Schinese flynnend_32ef9f83:
 
     # "Devon whines."
-    "Devon whines."
+    "@@@Devon whines."
 
-# game/Flynn-Thursday.rpy:13672
+# game/Flynn-Thursday.rpy:13702
 translate Schinese flynnend_c82a4a4e:
 
     # dev "\"Fuck, I was being insensitive, wasn't I?\""
-    dev "\"Fuck, I was being insensitive, wasn't I?\""
+    dev "@@@\"Fuck, I was being insensitive, wasn't I?\""
 
-# game/Flynn-Thursday.rpy:13673
+# game/Flynn-Thursday.rpy:13703
 translate Schinese flynnend_5d283d54:
 
     # cam "\"You never know when you strike a nerve with these kinds of things.\""
-    cam "\"You never know when you strike a nerve with these kinds of things.\""
+    cam "@@@\"You never know when you strike a nerve with these kinds of things.\""
 
-# game/Flynn-Thursday.rpy:13674
+# game/Flynn-Thursday.rpy:13704
 translate Schinese flynnend_f51942cb:
 
     # dev "\"'These kind of things'?\""
-    dev "\"'These kind of things'?\""
+    dev "@@@\"'These kind of things'?\""
 
-# game/Flynn-Thursday.rpy:13675
+# game/Flynn-Thursday.rpy:13705
 translate Schinese flynnend_7490cd32:
 
     # dev "\"What do you mean?\""
-    dev "\"What do you mean?\""
+    dev "@@@\"What do you mean?\""
 
-# game/Flynn-Thursday.rpy:13676
+# game/Flynn-Thursday.rpy:13706
 translate Schinese flynnend_1478ad18:
 
     # "Devon quirks an curious brow towards the coyote, though judging by his grimaced reaction, Cam regrets bringing it up and doesn't speak further."
-    "Devon quirks an curious brow towards the coyote, though judging by his grimaced reaction, Cam regrets bringing it up and doesn't speak further."
+    "@@@Devon quirks an curious brow towards the coyote, though judging by his grimaced reaction, Cam regrets bringing it up and doesn't speak further."
 
-# game/Flynn-Thursday.rpy:13677
+# game/Flynn-Thursday.rpy:13707
 translate Schinese flynnend_e1c7a4db:
 
     # "They hear the sound of an engine starting in the distance."
-    "They hear the sound of an engine starting in the distance."
+    "@@@They hear the sound of an engine starting in the distance."
 
-# game/Flynn-Thursday.rpy:13678
+# game/Flynn-Thursday.rpy:13708
 translate Schinese flynnend_22146319:
 
     # "Devon sighs."
-    "Devon sighs."
+    "@@@Devon sighs."
 
-# game/Flynn-Thursday.rpy:13680
+# game/Flynn-Thursday.rpy:13710
 translate Schinese flynnend_9cc2fff9:
 
     # cam "\"Good thing we brought our jeep instead of riding with him, eh?\""
-    cam "\"Good thing we brought our jeep instead of riding with him, eh?\""
+    cam "@@@\"Good thing we brought our jeep instead of riding with him, eh?\""
 
-# game/Flynn-Thursday.rpy:13681
+# game/Flynn-Thursday.rpy:13711
 translate Schinese flynnend_5d7c572c:
 
     # dev "\"Fuck.\""
-    dev "\"Fuck.\""
+    dev "@@@\"Fuck.\""
 
-# game/Flynn-Thursday.rpy:13682
+# game/Flynn-Thursday.rpy:13712
 translate Schinese flynnend_c080d155:
 
     # "Cameron frowns, reaching up and holding the big guy's arm."
-    "Cameron frowns, reaching up and holding the big guy's arm."
+    "@@@Cameron frowns, reaching up and holding the big guy's arm."
 
-# game/Flynn-Thursday.rpy:13683
+# game/Flynn-Thursday.rpy:13713
 translate Schinese flynnend_f4eb6479:
 
     # cam "\"Hey, don't worry. I'll get the camera. Exploring on our own could be pretty cool, right?\""
-    cam "\"Hey, don't worry. I'll get the camera. Exploring on our own could be pretty cool, right?\""
+    cam "@@@\"Hey, don't worry. I'll get the camera. Exploring on our own could be pretty cool, right?\""
 
-# game/Flynn-Thursday.rpy:13684
+# game/Flynn-Thursday.rpy:13714
 translate Schinese flynnend_5e3ed757:
 
     # "The bear's nostrils flare in a hefty exhale."
-    "The bear's nostrils flare in a hefty exhale."
+    "@@@The bear's nostrils flare in a hefty exhale."
 
-# game/Flynn-Thursday.rpy:13685
+# game/Flynn-Thursday.rpy:13715
 translate Schinese flynnend_028bf04a:
 
     # dev "\"Yeah. I'll pull the jeep around.\""
-    dev "\"Yeah. I'll pull the jeep around.\""
+    dev "@@@\"Yeah. I'll pull the jeep around.\""
 
-# game/Flynn-Thursday.rpy:13687
+# game/Flynn-Thursday.rpy:13718
 translate Schinese flynnend_6b18b0e0:
 
     # "Cameron gives Devon a thumbs up before moving to grab the camera."
-    "Cameron gives Devon a thumbs up before moving to grab the camera."
+    "@@@Cameron gives Devon a thumbs up before moving to grab the camera."
 
-# game/Flynn-Thursday.rpy:13688
+# game/Flynn-Thursday.rpy:13720
 translate Schinese flynnend_d48e40d3:
 
     # "As he's about to close the viewfinder display, he notices a green square appear in the center of the frame."
-    "As he's about to close the viewfinder display, he notices a green square appear in the center of the frame."
+    "@@@As he's about to close the viewfinder display, he notices a green square appear in the center of the frame."
 
-# game/Flynn-Thursday.rpy:13689
+# game/Flynn-Thursday.rpy:13721
 translate Schinese flynnend_b9271afc:
 
     # "He leans down to look more closely, pressing the \"Display Adjust\" button.\""
-    "He leans down to look more closely, pressing the \"Display Adjust\" button.\""
+    "@@@He leans down to look more closely, pressing the \"Display Adjust\" button.\""
 
-# game/Flynn-Thursday.rpy:13690
+# game/Flynn-Thursday.rpy:13722
 translate Schinese flynnend_77613b42:
 
     # "{b}Face Detection: Disabled{/b}."
-    "{b}Face Detection: Disabled{/b}."
+    "@@@{b}Face Detection: Disabled{/b}."
 
-# game/Flynn-Thursday.rpy:13691
+# game/Flynn-Thursday.rpy:13723
 translate Schinese flynnend_87866e6a:
 
     # "The square vanishes."
-    "The square vanishes."
+    "@@@The square vanishes."
 
-# game/Flynn-Thursday.rpy:13692
+# game/Flynn-Thursday.rpy:13724
 translate Schinese flynnend_92c8fcb8:
 
     # cam "\"Huh?\""
-    cam "\"Huh?\""
+    cam "@@@\"Huh?\""
 
-# game/Flynn-Thursday.rpy:13693
+# game/Flynn-Thursday.rpy:13725
 translate Schinese flynnend_f8cbdd8e:
 
     # "He hits the button again."
-    "He hits the button again."
+    "@@@He hits the button again."
 
-# game/Flynn-Thursday.rpy:13694
+# game/Flynn-Thursday.rpy:13726
 translate Schinese flynnend_94026c15:
 
     # "The square returns."
-    "The square returns."
+    "@@@The square returns."
 
-# game/Flynn-Thursday.rpy:13695
+# game/Flynn-Thursday.rpy:13727
 translate Schinese flynnend_afce0add:
 
     # cam "\"That's weird.\""
-    cam "\"That's weird.\""
+    cam "@@@\"That's weird.\""
 
-# game/Flynn-Thursday.rpy:13696
+# game/Flynn-Thursday.rpy:13728
 translate Schinese flynnend_048cd7da:
 
     # "He flicks the switch on the side to auto white balance the image."
-    "He flicks the switch on the side to auto white balance the image."
+    "@@@He flicks the switch on the side to auto white balance the image."
 
-# game/Flynn-Thursday.rpy:13697
+# game/Flynn-Thursday.rpy:13729
 translate Schinese flynnend_ac69e0bc:
 
     # "The whole screen flashes as the lens adjusts, and as it comes into focus-"
-    "The whole screen flashes as the lens adjusts, and as it comes into focus-"
+    "@@@The whole screen flashes as the lens adjusts, and as it comes into focus-"
 
-# game/Flynn-Thursday.rpy:13699
+# game/Flynn-Thursday.rpy:13731
 translate Schinese flynnend_b8a6d3f7:
 
     # cam "\"FUCK!\""
-    cam "\"FUCK!\""
+    cam "@@@\"FUCK!\""
 
-# game/Flynn-Thursday.rpy:13700
+# game/Flynn-Thursday.rpy:13732
 translate Schinese flynnend_d37bba32:
 
     # "A lizard stands in the darkness behind the bars."
-    "A lizard stands in the darkness behind the bars."
+    "@@@A lizard stands in the darkness behind the bars."
 
-# game/Flynn-Thursday.rpy:13701
+# game/Flynn-Thursday.rpy:13733
 translate Schinese flynnend_92ab5ce6:
 
     # "But he can't stare, not really, because his eyes are gone - half of his muzzle missing."
-    "But he can't stare, not really, because his eyes are gone - half of his muzzle missing."
+    "@@@But he can't stare, not really, because his eyes are gone - half of his muzzle missing."
 
-# game/Flynn-Thursday.rpy:13702
+# game/Flynn-Thursday.rpy:13734
 translate Schinese flynnend_dd2bcdae:
 
     # "Cameron jumps back, tripping over the rocks and landing against the sharp edges."
-    "Cameron jumps back, tripping over the rocks and landing against the sharp edges."
+    "@@@Cameron jumps back, tripping over the rocks and landing against the sharp edges."
 
-# game/Flynn-Thursday.rpy:13703
+# game/Flynn-Thursday.rpy:13735
 translate Schinese flynnend_af6483e6:
 
     # "The coyote hisses in pain, but fear spurs him on, trying to scramble up the rocks after Devon."
-    "The coyote hisses in pain, but fear spurs him on, trying to scramble up the rocks after Devon."
+    "@@@The coyote hisses in pain, but fear spurs him on, trying to scramble up the rocks after Devon."
 
-# game/Flynn-Thursday.rpy:13704
+# game/Flynn-Thursday.rpy:13736
 translate Schinese flynnend_dd78c850:
 
     # "The bear's already turned around though, reaching down to pull Cameron up."
-    "The bear's already turned around though, reaching down to pull Cameron up."
+    "@@@The bear's already turned around though, reaching down to pull Cameron up."
 
-# game/Flynn-Thursday.rpy:13705
+# game/Flynn-Thursday.rpy:13740
 translate Schinese flynnend_a19efdd4:
 
     # dev "\"SHIT! You alright? What happened?\""
-    dev "\"SHIT! You alright? What happened?\""
+    dev "@@@\"SHIT! You alright? What happened?\""
 
-# game/Flynn-Thursday.rpy:13706
+# game/Flynn-Thursday.rpy:13741
 translate Schinese flynnend_08779f36:
 
     # "As Cameron clings to the large bear, he looks back.. but nothing's there."
-    "As Cameron clings to the large bear, he looks back.. but nothing's there."
+    "@@@As Cameron clings to the large bear, he looks back.. but nothing's there."
 
-# game/Flynn-Thursday.rpy:13707
+# game/Flynn-Thursday.rpy:13742
 translate Schinese flynnend_593a5b53:
 
     # cam "\"I.. I don't know, I saw—\""
-    cam "\"I.. I don't know, I saw—\""
+    cam "@@@\"I.. I don't know, I saw—\""
 
-# game/Flynn-Thursday.rpy:13708
+# game/Flynn-Thursday.rpy:13743
 translate Schinese flynnend_c292f817:
 
     # "Devon looks in the same direction, squinting."
-    "Devon looks in the same direction, squinting."
+    "@@@Devon looks in the same direction, squinting."
 
-# game/Flynn-Thursday.rpy:13709
+# game/Flynn-Thursday.rpy:13744
 translate Schinese flynnend_25ff98a0:
 
     # "Cameron stares a while longer, then turns back and shakes his head against Dev's chest."
-    "Cameron stares a while longer, then turns back and shakes his head against Dev's chest."
+    "@@@Cameron stares a while longer, then turns back and shakes his head against Dev's chest."
 
-# game/Flynn-Thursday.rpy:13710
+# game/Flynn-Thursday.rpy:13746
 translate Schinese flynnend_b93266d3:
 
     # "When Cameron looks up at the bear, he's grinning though."
-    "When Cameron looks up at the bear, he's grinning though."
+    "@@@When Cameron looks up at the bear, he's grinning though."
 
-# game/Flynn-Thursday.rpy:13711
+# game/Flynn-Thursday.rpy:13747
 translate Schinese flynnend_1504285d:
 
     # dev "\"Ho-lee shit, did you see a ghost!?\""
-    dev "\"Ho-lee shit, did you see a ghost!?\""
+    dev "@@@\"Ho-lee shit, did you see a ghost!?\""
 
-# game/Flynn-Thursday.rpy:13712
+# game/Flynn-Thursday.rpy:13748
 translate Schinese flynnend_fe2b67b2:
 
     # "The coyote scowls."
-    "The coyote scowls."
+    "@@@The coyote scowls."
 
-# game/Flynn-Thursday.rpy:13713
+# game/Flynn-Thursday.rpy:13749
 translate Schinese flynnend_73daaa74:
 
     # cam "\"What!? No, I just thought I saw something. It was probably the camera glitching out.\""
-    cam "\"What!? No, I just thought I saw something. It was probably the camera glitching out.\""
+    cam "@@@\"What!? No, I just thought I saw something. It was probably the camera glitching out.\""
 
-# game/Flynn-Thursday.rpy:13714
+# game/Flynn-Thursday.rpy:13750
 translate Schinese flynnend_57750a06:
 
     # "The bear gives him a knowing smile."
-    "The bear gives him a knowing smile."
+    "@@@The bear gives him a knowing smile."
 
-# game/Flynn-Thursday.rpy:13715
+# game/Flynn-Thursday.rpy:13751
 translate Schinese flynnend_9a66b041:
 
     # cam "\"What?\""
-    cam "\"What?\""
+    cam "@@@\"What?\""
 
-# game/Flynn-Thursday.rpy:13716
+# game/Flynn-Thursday.rpy:13752
 translate Schinese flynnend_338ffb78:
 
     # dev "\"You're gonna be a believer by the end of all this. I know it!\""
-    dev "\"You're gonna be a believer by the end of all this. I know it!\""
+    dev "@@@\"You're gonna be a believer by the end of all this. I know it!\""
 
-# game/Flynn-Thursday.rpy:13717
+# game/Flynn-Thursday.rpy:13753
 translate Schinese flynnend_331d0d5b:
 
     # "The grizzly hugs him tightly as Cameron frowns, still looking back at the cavern's entrance."
-    "The grizzly hugs him tightly as Cameron frowns, still looking back at the cavern's entrance."
+    "@@@The grizzly hugs him tightly as Cameron frowns, still looking back at the cavern's entrance."
 
-# game/Flynn-Thursday.rpy:13718
+# game/Flynn-Thursday.rpy:13754
 translate Schinese flynnend_28b3eb78:
 
     # "It had been so real."
-    "It had been so real."
+    "@@@It had been so real."
 
-# game/Flynn-Thursday.rpy:13719
+# game/Flynn-Thursday.rpy:13758
 translate Schinese flynnend_cfd4636e:
 
     # "But before he can even really collect himself, Devon is pulling him and the camera along, back to the jeep."
-    "But before he can even really collect himself, Devon is pulling him and the camera along, back to the jeep."
+    "@@@But before he can even really collect himself, Devon is pulling him and the camera along, back to the jeep."
 
 translate Schinese strings:
 
@@ -64539,166 +64541,167 @@ translate Schinese strings:
 
     # game/Flynn-Thursday.rpy:7393
     old "Condemn Flynn."
-    new "谴责Flynn."
+    new "谴责Flynn"
 
-    # game/Flynn-Thursday.rpy:10829
+    # game/Flynn-Thursday.rpy:10835
     old "Condemn Chase."
     new "谴责Chase。"
 
-    # game/Flynn-Thursday.rpy:11084
+    # game/Flynn-Thursday.rpy:11090
     old "Raise the repeater."
     new "Raise the repeater."
 
-    # game/Flynn-Thursday.rpy:11084
+    # game/Flynn-Thursday.rpy:11090
     old "Trust Daxton."
     new "Trust Daxton."
 
-    # game/Flynn-Thursday.rpy:12697
+    # game/Flynn-Thursday.rpy:12705
     old "Try your keys on the gate lock."
     new "Try your keys on the gate lock."
 
-    # game/Flynn-Thursday.rpy:12697
+    # game/Flynn-Thursday.rpy:12705
     old "Break the lock."
     new "Break the lock."
 
-    # game/Flynn-Thursday.rpy:13185
+    # game/Flynn-Thursday.rpy:13188
     old "Stop her."
     new "Stop her."
 
-    # game/Flynn-Thursday.rpy:13252
+    # game/Flynn-Thursday.rpy:13255
     old "Attack Brian."
     new "Attack Brian."
 
-    # game/Flynn-Thursday.rpy:13252
+    # game/Flynn-Thursday.rpy:13255
     old "Attack Salem."
     new "Attack Salem."
 
-    # game/Flynn-Thursday.rpy:13252
+    # game/Flynn-Thursday.rpy:13255
     old "Put the fennec out of his misery."
     new "Put the fennec out of his misery."
 
-    # game/Flynn-Thursday.rpy:13437
+    # game/Flynn-Thursday.rpy:13440
     old "Go to menu."
     new "Go to menu."
 
-    # game/Flynn-Thursday.rpy:13437
+    # game/Flynn-Thursday.rpy:13440
     old "Stay a while."
     new "Stay a while."
 
-    # 手机屏幕文本
-    old "with jenna n tj plyng futball"
-    new "在跟jenna和tj提球"
 
-    old "Sounds fun. Filming w/ Carl and Flynn here."
-    new "不错诶。我还在拍片儿，Carl和Flynn也在。"
+    # # 手机屏幕文本
+    # old "with jenna n tj plyng futball"
+    # new "在跟jenna和tj提球"
+
+    # old "Sounds fun. Filming w/ Carl and Flynn here."
+    # new "不错诶。我还在拍片儿，Carl和Flynn也在。"
     
-    old "get back to work. no texting."
-    new "好好工作，别玩手机。"
+    # old "get back to work. no texting."
+    # new "好好工作，别玩手机。"
     
-    old "Oh I'm so sorry sir."
-    new "噢，抱歉，先生。"
+    # old "Oh I'm so sorry sir."
+    # new "噢，抱歉，先生。"
     
-    old "thats \"oh Im so sorry -daddy-\" to you boy"
-    new "你该说 “噢，抱歉，爸爸”，孩子"
+    # old "thats \"oh Im so sorry -daddy-\" to you boy"
+    # new "你该说 “噢，抱歉，爸爸”，孩子"
     
-    old "Don't play gay chicken with me. I will win."
-    new "少给我玩鸡这套，你能比过我？"
+    # old "Don't play gay chicken with me. I will win."
+    # new "少给我玩鸡这套，你能比过我？"
 
-    old "i dont like chicken. i like COCK, boy"
-    new "鸡什么鸡，我要鸡巴，孩子"
+    # old "i dont like chicken. i like COCK, boy"
+    # new "鸡什么鸡，我要鸡巴，孩子"
 
-    old "You will not win this game sir."
-    new "都说了你比不过我的，先生。"
+    # old "You will not win this game sir."
+    # new "都说了你比不过我的，先生。"
     
-    old "-daddy-. i told you boy. dont make me spank u!!"
-    new "孩子，都说了要叫-爸爸-。别逼我打你屁股！"
+    # old "-daddy-. i told you boy. dont make me spank u!!"
+    # new "孩子，都说了要叫-爸爸-。别逼我打你屁股！"
     
-    old "I hope the AC breaks in there."
-    new "希望空调没事。"
+    # old "I hope the AC breaks in there."
+    # new "希望空调没事。"
     
-    old "i hope ur hymen breaks in there"
-    new "希望你膜没事。"
+    # old "i hope ur hymen breaks in there"
+    # new "希望你膜没事。"
     
-    old "What?"
-    new "什么？"
+    # old "What?"
+    # new "什么？"
     
-    old "u know, cause u n flynn r doing it now"
-    new "那啥，毕竟你跟Flynn在做那种事情"
+    # old "u know, cause u n flynn r doing it now"
+    # new "那啥，毕竟你跟Flynn在做那种事情"
     
-    old "I don't have a hymen as far as I know."
-    new "不是，我哪儿来的膜？"
+    # old "I don't have a hymen as far as I know."
+    # new "不是，我哪儿来的膜？"
     
-    old "well u r an otter & have musk glans down ther. 3rd hole"
-    new "你是只水獭，又有下面那暨香玩意儿。有三个洞了"
+    # old "well u r an otter & have musk glans down ther. 3rd hole"
+    # new "你是只水獭，又有下面那暨香玩意儿。有三个洞了"
     
-    old "hey. ur not at the motel??"
-    new "嘿，你不在汽车旅馆么？？"
+    # old "hey. ur not at the motel??"
+    # new "嘿，你不在汽车旅馆么？？"
 
-    old "With Carl, Daxton, and Flynn. About to eat dinner."
-    new "准备跟Carl，Daxton和Flynn他们搭伙吃饭呢。"
+    # old "With Carl, Daxton, and Flynn. About to eat dinner."
+    # new "准备跟Carl，Daxton和Flynn他们搭伙吃饭呢。"
 
-    old "of course u are."
-    new "不愧是你。"
+    # old "of course u are."
+    # new "不愧是你。"
 
-    old "We can all hang out tomorrow? Found some interesting stuff for my project at City Hall."
-    new "明天一起出去吧？镇公所那边有些有趣的东西，我想用在我的项目里。"
+    # old "We can all hang out tomorrow? Found some interesting stuff for my project at City Hall."
+    # new "明天一起出去吧？镇公所那边有些有趣的东西，我想用在我的项目里。"
 
-    old "need to talk to u 1 on 1"
-    new "我得跟你单独谈谈"
+    # old "need to talk to u 1 on 1"
+    # new "我得跟你单独谈谈"
 
-    old "What about?"
-    new "要谈什么？"
+    # old "What about?"
+    # new "要谈什么？"
 
-    old "u no exactly what"
-    new "你知道是什么"
+    # old "u no exactly what"
+    # new "你知道是什么"
 
-    old "No???"
-    new "我怎么知道了？？？"
+    # old "No???"
+    # new "我怎么知道了？？？"
 
-    old "im coming"
-    new "我在路上"
+    # old "im coming"
+    # new "我在路上"
 
-    old "everyone left. i think im alone at flynns now??"
-    new "大家都走了。我现在好像一个人在Flynn家？？"
+    # old "everyone left. i think im alone at flynns now??"
+    # new "大家都走了。我现在好像一个人在Flynn家？？"
 
-    old "Hey."
-    new "嘿。"
+    # old "Hey."
+    # new "嘿。"
 
-    old "Have to go. Srry Leo."
-    new "我得走了。抱歉，Leo。"
+    # old "Have to go. Srry Leo."
+    # new "我得走了。抱歉，Leo。"
 
-    old "r u srs??"
-    new "你认真的？？"
+    # old "r u srs??"
+    # new "你认真的？？"
 
-    old "were all gonna hng out at ur old hood tmrw @ 2. would b good if u came...."
-    new "我们一群人打算明天两点去你那片儿玩玩。当然如果你能来就更好了……"
+    # old "were all gonna hng out at ur old hood tmrw @ 2. would b good if u came...."
+    # new "我们一群人打算明天两点去你那片儿玩玩。当然如果你能来就更好了……"
 
-    old "I'll be there."
-    new "我会去的。"
+    # old "I'll be there."
+    # new "我会去的。"
 
-    old "Come to the Smoke Room alone."
-    new "一个人，到吸烟室来。"
+    # old "Come to the Smoke Room alone."
+    # new "一个人，到吸烟室来。"
 
-    old "Chase, Leo wants to set up his grill at the hill behind your house - around early afternoon, I think. If you want to stop by, you can."
-    new "Chase，Leo打算把烧烤架安在你家后面——就下午的时候。如果你想看看就过来吧。"
+    # old "Chase, Leo wants to set up his grill at the hill behind your house - around early afternoon, I think. If you want to stop by, you can."
+    # new "Chase，Leo打算把烧烤架安在你家后面——就下午的时候。如果你想看看就过来吧。"
 
-    old "ur hymen heal yet?"
-    new "处女膜修好没？"
+    # old "ur hymen heal yet?"
+    # new "处女膜修好没？"
 
-    old "come ovr?"
-    new "要过来吗？"
+    # old "come ovr?"
+    # new "要过来吗？"
 
-    old "I'll be over soon."
-    new "我很快就过来。"
+    # old "I'll be over soon."
+    # new "我很快就过来。"
 
-    old "Everything heals with time."
-    new "时间会修好一切的。"
+    # old "Everything heals with time."
+    # new "时间会修好一切的。"
 
-    old "cum over boy"
-    new "速来击剑"
+    # old "cum over boy"
+    # new "速来击剑"
 
-    old "hope ur camera is ok"
-    new "你相机没坏吧"
+    # old "hope ur camera is ok"
+    # new "你相机没坏吧"
 
-    old "It's fine."
-    new "还好。"
+    # old "It's fine."
+    # new "还好。"

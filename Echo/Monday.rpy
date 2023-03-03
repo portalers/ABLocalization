@@ -1,3 +1,5 @@
+# TODO: Translation updated at 2023-02-19 00:53
+
 # game/Monday.rpy:11
 translate Schinese monday_3fc1b0bb:
 
@@ -251,16 +253,16 @@ translate Schinese monday_861d6216:
     "当我们刚到这里时，我发现汽车旅馆里并没有游泳池，这让我失望透顶。"
 
 # game/Monday.rpy:63
-translate Schinese monday_e37d31d5:
+translate Schinese monday_41570ac0:
 
-    # "Being an otter, I liked to swim at LEAST once a day, if not more."
+    # "Being an otter, I usually like to swim at LEAST once a day, if not more."
     "作为一只水獭，我希望自己每天{b}至少{/b}游一次泳。"
 
 # game/Monday.rpy:64
-translate Schinese monday_f3d5bb4f:
+translate Schinese monday_ae652625:
 
-    # "At this point, it had been three."
-    "而到现在已经过去三天了。"
+    # "It's been three days, and I'm feeling antsy as hell for it.."
+    "@@@It's been three days, and I'm feeling antsy as hell for it.."
 
 # game/Monday.rpy:65
 translate Schinese monday_a551ecd8:
@@ -347,9 +349,9 @@ translate Schinese monday_67056415:
     "这个地方的干旱已经持续了三年，因此水位很低...最深处大约也只有十英尺的样子。"
 
 # game/Monday.rpy:85
-translate Schinese monday_14e29411:
+translate Schinese monday_09a5490a:
 
-    # "It's enough though and god...it feels good. It's spring, so the water is pretty cold."
+    # "It's enough though and God.. it feels good. It's spring, so the water is pretty cold."
     "不过已经足够了，天啊...感觉真舒服。由于是春天，河水也十分冰凉。"
 
 # game/Monday.rpy:87
@@ -953,15 +955,15 @@ translate Schinese monday_8344f23f:
     "Leo站了起来，从他的姿势，我可以看出来这只狼已经准备好和他干一架了。"
 
 # game/Monday.rpy:232
-translate Schinese monday_91777cba:
+translate Schinese monday_bd34ae68:
 
-    # "Memories are starting to flow back...TJ, Flynn thinking he'd done something...something to—\""
-    "记忆开始回溯...TJ，Flynn认为他做了什么...什么——\""
+    # "Memories are starting to flow back...TJ, Flynn thinking he'd done something...something to—"
+    "记忆开始回溯...TJ，Flynn认为他做了什么...什么——"
 
 # game/Monday.rpy:233
-translate Schinese monday_5b80ccd4:
+translate Schinese monday_cf714c0f:
 
-    # "I stand up, too."
+    # "I stand up, as well."
     "我也站了起来。"
 
 # game/Monday.rpy:234

@@ -1,3 +1,5 @@
+# TODO: Translation updated at 2023-02-19 00:53
+
 # game/Monday-TJ.rpy:4
 translate Schinese findtj_522e252e:
 

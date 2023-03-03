@@ -1,3 +1,5 @@
+# TODO: Translation updated at 2023-02-19 00:53
+
 # game/Flynn-Tuesday.rpy:14
 translate Schinese flynntuesday_55333dce:
 
@@ -185,11 +187,11 @@ translate Schinese flynntuesday_3e4f54d6:
     c "\"去问Chase吧。\""
  
 # game/Flynn-Tuesday.rpy:52
-translate Schinese flynntuesday_b3edf861:
+translate Schinese flynntuesday_3a0c6fe8:
 
-    # "I sit on a rock as I slowly real in my line, watching my spinner glisten under the water."
+    # "I sit on a rock as I slowly reel in my line, watching my spinner glisten under the water."
     "我坐在一块石头上，慢慢地放下线，注视着我的鱼钩在水下闪闪发光。"
- 
+
 # game/Flynn-Tuesday.rpy:53
 translate Schinese flynntuesday_ad267c8d:
 
@@ -641,11 +643,11 @@ translate Schinese flynntuesday_b4571204:
     "其实我有些后悔这么做了。如果这次搞出了点划伤或者溃疡的话，我得记得一定要在事后用双氧水泡一泡。"
  
 # game/Flynn-Tuesday.rpy:155
-translate Schinese flynntuesday_b57f831b:
+translate Schinese flynntuesday_3614c17c:
 
-    # "That's when one of my paws bump the log and I bob back up to the surface, wiping a paw across my eyes."
+    # "That's when one of my paws bumps the log and I bob back up to the surface, wiping a paw across my eyes."
     "与此同时，我的一只爪子碰到了木头，我赶紧浮了上来，用爪子擦了擦双眼。"
- 
+
 # game/Flynn-Tuesday.rpy:159
 translate Schinese flynntuesday_dac749a8:
 
@@ -1709,11 +1711,11 @@ translate Schinese flynntuesday_016509d6:
     "我调皮地咧嘴笑了笑。"
  
 # game/Flynn-Tuesday.rpy:364
-translate Schinese flynntuesday_650d297d:
+translate Schinese flynntuesday_75ef8c8d:
 
-    # "Wrapping my paw around Flynn's rock-solid member, I give a brisk, smooth pump"
+    # "Wrapping my paw around Flynn's rock-solid member, I give a brisk, smooth pump."
     "我将爪子环绕在Flynn的坚挺上，敏捷而轻柔地揉动着。"
- 
+
 # game/Flynn-Tuesday.rpy:365
 translate Schinese flynntuesday_e618e574:
 
@@ -1739,11 +1741,11 @@ translate Schinese flynntuesday_5f8b82f0:
     "Flynn是对的。Leo是个顽固的男朋友，不论是否在床上都是如此。"
  
 # game/Flynn-Tuesday.rpy:369
-translate Schinese flynntuesday_29c99fc4:
+translate Schinese flynntuesday_464b3f77:
 
-    # "With a lot coaxing I could eventually get him to see things my way, but that hardly ever happened."
+    # "With a lot of coaxing I could eventually get him to see things my way, but that hardly ever happened."
     "如果经过几番哄骗，也许我最终能让他以我的视角看待问题，但是这几乎从未发生过。"
- 
+
 # game/Flynn-Tuesday.rpy:370
 translate Schinese flynntuesday_e4043c9e:
 
@@ -1775,11 +1777,11 @@ translate Schinese flynntuesday_82ca0b45:
     m "\"嘿，我是个多才多艺的水獭。我喜欢权衡利弊。\""
  
 # game/Flynn-Tuesday.rpy:375
-translate Schinese flynntuesday_f85ca04f:
+translate Schinese flynntuesday_22814d1f:
 
-    # "I grin as Flynn guides my paws in his briefs, returning a smirk"
+    # "I grin as Flynn guides my paws in his briefs, returning a smirk."
     "随着Flynn牵引着我的爪子在他的内裤里探索，我随之咧嘴一笑。"
- 
+
 # game/Flynn-Tuesday.rpy:379
 translate Schinese flynntuesday_c3f71e8b:
 
@@ -2686,12 +2688,12 @@ translate Schinese flynntuesday_aa3ffd3b_2:
     # "My phone buzzes again."
     "我的手机又嗡嗡震动了起来。"
  
-# game/Flynn-Tuesday.rpy:607
+# game/Flynn-Tuesday.rpy:608
 translate Schinese flynntuesday_0ae9bcd0_6:
 
     # ""
     ""
- 
+
 # game/Flynn-Tuesday.rpy:608
 translate Schinese flynntuesday_a60ebaef:
 
@@ -2699,7 +2701,7 @@ translate Schinese flynntuesday_a60ebaef:
     "我本想对Jenna说些别的，但是我听到了TJ的开门声，于是我只好再次闭上嘴巴，合上眼睛了。 "
  
 translate Schinese strings:
- 
+
     # game/Flynn-Tuesday.rpy:266
     old "Switch the positions."
     new "交换姿势。"
@@ -2720,25 +2722,25 @@ translate Schinese strings:
     old "Grope him some more."
     new "再多摸几下。"
 
-    # 手机屏幕文本
-    old "I forgto to tell you that were having a surprise party for carl tomorrow"
-    new "忘告诉你了 我们明天要给Carl办个惊喜派对"
+    # # 手机屏幕文本
+    # old "I forgto to tell you that were having a surprise party for carl tomorrow"
+    # new "忘告诉你了 我们明天要给Carl办个惊喜派对"
  
-    old "You're telling us this now? It's not until next month."
-    new "你现在说这个？他生日明明是下个月的事情。"
+    # old "You're telling us this now? It's not until next month."
+    # new "你现在说这个？他生日明明是下个月的事情。"
  
-    old "Sorry but were going to the store tomorrow to get some presents so don't worry about it"
-    new "抱歉抱歉 不过我们明天会去商店买点礼物 别太担心"
+    # old "Sorry but were going to the store tomorrow to get some presents so don't worry about it"
+    # new "抱歉抱歉 不过我们明天会去商店买点礼物 别太担心"
  
-    old "I have a lot to do tomorrow. I was planning to go to get some footage in the morning."
-    new "我明天有不少计划，早上我准备去拍拍镜头。"
+    # old "I have a lot to do tomorrow. I was planning to go to get some footage in the morning."
+    # new "我明天有不少计划，早上我准备去拍拍镜头。"
  
-    old "I guess I can get the present for you but youre definitely going to the party and then were gonna go out to see a movie"
-    new "我帮你去买吧 不过派对你得来 然后我们打堆去看看电影"
+    # old "I guess I can get the present for you but youre definitely going to the party and then were gonna go out to see a movie"
+    # new "我帮你去买吧 不过派对你得来 然后我们打堆去看看电影"
  
-    old "I can go to the party, but I might need to stay and do more project stuff. What about Flynn?"
-    new "派对我能去，但我得多留会儿做做项目。那Flynn怎么办？"
+    # old "I can go to the party, but I might need to stay and do more project stuff. What about Flynn?"
+    # new "派对我能去，但我得多留会儿做做项目。那Flynn怎么办？"
  
-    old "I had a talk with him its fine."
-    new "没事，我会和他谈谈的。"
+    # old "I had a talk with him its fine."
+    # new "没事，我会和他谈谈的。"
  

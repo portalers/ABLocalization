@@ -1,4 +1,6 @@
-﻿# game/Leo-Wednesday.rpy:12
+﻿# TODO: Translation updated at 2023-02-19 00:53
+
+# game/Leo-Wednesday.rpy:12
 translate Schinese leowednesday_cf387036:
 
     # "I stare out the window as we roll down the dusty streets of Echo."
@@ -245,9 +247,9 @@ translate Schinese leowednesday_322d126b:
     "Janice正看着我们，微笑着。"
 
 # game/Leo-Wednesday.rpy:55
-translate Schinese leowednesday_fb8392e5:
+translate Schinese leowednesday_c985b528:
 
-    # "It's a weird smile because the it isn't touching her eyes."
+    # "It's a weird smile because it isn't touching her eyes."
     "她诡异地笑着，眼里却没有一丝笑意。"
 
 # game/Leo-Wednesday.rpy:56
@@ -875,9 +877,9 @@ translate Schinese leowednesday_0269370e:
     l "\"我们在房子里快速找一遍吧。这地方挺大的。\""
 
 # game/Leo-Wednesday.rpy:203
-translate Schinese leowednesday_2922634b:
+translate Schinese leowednesday_f37b9bf3:
 
-    # "Flynn heads back upstairs and Jenna Leo head for the downstairs."
+    # "Flynn heads back upstairs and Leo head for the downstairs with Jenna."
     "Flynn重新上了楼，而Jenna和Leo前往了楼下。"
 
 # game/Leo-Wednesday.rpy:204

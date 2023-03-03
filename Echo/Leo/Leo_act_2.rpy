@@ -1,4 +1,6 @@
-﻿# game/Leo_act_2.rpy:6
+﻿# TODO: Translation updated at 2023-02-19 00:53
+
+# game/Leo_act_2.rpy:6
 translate Schinese leoact2_b2d02904:
 
     # "The darkness that surrounds me is painful."
@@ -552,16 +554,16 @@ translate Schinese leoact2_a037c9d7:
     "意识到自己可能在哪里后，我的呼吸再次急促起来。"
 
 # game/Leo_act_2.rpy:113
-translate Schinese leoact2_288eec4a:
+translate Schinese leoact2_4dd8a3d8:
 
-    # "Brian got into the house when I was in Leo's room."
+    # "Brian got me when I was trying to run and hide."
     "我躲在Leo房间里时，Brian闯了进来。"
 
 # game/Leo_act_2.rpy:114
-translate Schinese leoact2_2744b88c:
+translate Schinese leoact2_d38a4ad7:
 
-    # "He attacked me."
-    "他袭击了我。"
+    # "He just fucking.. attacked me."
+    "他妈的... 他袭击了我。"
 
 # game/Leo_act_2.rpy:115
 translate Schinese leoact2_02513e4d:
@@ -2598,9 +2600,9 @@ translate Schinese leoact2_aefb542f:
     "他把厚重的熊爪伸到了我的脑袋上，玩弄着什么我所看不到的东西。."
 
 # game/Leo_act_2.rpy:552
-translate Schinese leoact2_e0a2e824:
+translate Schinese leoact2_734fc029:
 
-    # "Wit one quick motion the strap comes back down over my neck and my eyes widen."
+    # "With one quick motion the strap comes back down over my neck and my eyes widen."
     "伴随着一个快速的小动作，皮带又系回到了我的脖子上，我瞠圆了双眸。"
 
 # game/Leo_act_2.rpy:553
@@ -7032,9 +7034,9 @@ translate Schinese leosunday_cf7feccc:
     "我的心砰砰直跳，几乎是从房门一路摔进了房间。"
 
 # game/Leo_act_2.rpy:1442
-translate Schinese leosunday_19c05d66:
+translate Schinese leosunday_87c88f0d:
 
-    # "This one has a few chair stacked up against the side of the wall and what looks like a closet door."
+    # "This one has a few chairs stacked up against the side of the wall and what looks like a closet door."
     "这个房间有几把椅子叠放在墙边，墙上有扇看上去像是壁橱门的地方。"
 
 # game/Leo_act_2.rpy:1443
@@ -12096,9 +12098,9 @@ translate Schinese leosunday_c4c2b735:
     "见他发抖，我给了他条毯子，他接过紧紧地围在了他的肩上。"
 
 # game/Leo_act_2.rpy:2488
-translate Schinese leosunday_f7c72e04:
+translate Schinese leosunday_7dc81d25:
 
-    # "It's hasn't stopped the shivering, though."
+    # "It hasn't stopped the shivering, though."
     "但那也没能止住他的颤栗。"
 
 # game/Leo_act_2.rpy:2489
@@ -13590,12 +13592,12 @@ translate Schinese leosunday_86f5de65:
     m "\"我们应该回汽车旅馆去吗？\""
 
 # game/Leo_act_2.rpy:2791
-translate Schinese leosunday_d5ff891d:
+translate Schinese leosunday_83eed534_1:
 
-    # "Leo's shakes his head."
-    "Leo摇了摇头。"
+    # "Leo shakes his head."
+    "Leo摇摇头。"
 
-# game/Leo_act_2.rpy:2792
+# game/Leo_act_2.rpy:2920
 translate Schinese leosunday_644933e3:
 
     # l "\"No, I'm not staying here another minute. I'd rather start walking, actually.\""
@@ -14166,12 +14168,12 @@ translate Schinese leosunday_deb6cf0c:
     m "\"我不会有事的，你找钥匙的时候我帮忙找Carl，这样我们能更快离开这儿。\""
 
 # game/Leo_act_2.rpy:2919
-translate Schinese leosunday_83eed534_1:
+translate Schinese leosunday_83eed534_2:
 
     # "Leo shakes his head."
-    "Leo摇摇头。"
+    "Leo摇了摇头。"
 
-# game/Leo_act_2.rpy:2920
+# game/Leo_act_2.rpy:3679
 translate Schinese leosunday_6acf68d5:
 
     # l "\"Gotta stick together.\""
@@ -15150,9 +15152,9 @@ translate Schinese leosunday_29c6533e:
     "Carl将他的目光转向正点了点头的TJ。"
 
 # game/Leo_act_2.rpy:3129
-translate Schinese leosunday_1167affd:
+translate Schinese leosunday_1b7f830e:
 
-    # t "\"Yeah, I was seeing things too. People Chasing me. I'm okay now, though.\""
+    # t "\"Yeah, I was seeing things too. People chasing me. I'm okay now, though.\""
     t "\"嗯，我当时也看到了东西。人们在追我。但我现在没事了。\""
 
 # game/Leo_act_2.rpy:3130
@@ -15210,9 +15212,9 @@ translate Schinese leosunday_d58a1899:
     t "\"我也爱你Carl...还有你们大家。\""
 
 # game/Leo_act_2.rpy:3139
-translate Schinese leosunday_24dce16e:
+translate Schinese leosunday_f486a742:
 
-    # c "\"You too, raccoon-man\""
+    # c "\"You too, raccoon-man.\""
     c "\"你也是，浣熊男。\""
 
 # game/Leo_act_2.rpy:3140
@@ -16092,12 +16094,12 @@ translate Schinese leosunday_010474e0:
     l "\"我们不可能再回回音镇的。\""
 
 # game/Leo_act_2.rpy:3293
-translate Schinese leosunday_abfe47e1:
+translate Schinese leosunday_244dac46:
 
-    # ku "\"Leo, slow down little.\""
+    # ku "\"Leo, slow down a little.\""
     ku "\"Leo，开慢一点啊。\""
 
-# game/Leo_act_2.rpy:3294
+# game/Leo_act_2.rpy:3296
 translate Schinese leosunday_7f65630c:
 
     # "Leo lets out a small growl but relents and TJ's grip on my arm loosens some."
@@ -18048,12 +18050,12 @@ translate Schinese leosunday_6673de12:
     ku "\"Leo，你就...先把枪放下来，可以吗？你可以放在你身后的梳妆台上，或者其他的什么地方也行。\""
 
 # game/Leo_act_2.rpy:3678
-translate Schinese leosunday_83eed534_2:
+translate Schinese leosunday_83eed534_3:
 
     # "Leo shakes his head."
     "Leo摇了摇头。"
 
-# game/Leo_act_2.rpy:3679
+# game/Leo_act_2.rpy:3681
 translate Schinese leosunday_4905ceff:
 
     # l "\"I'm not risking our lives again, Kud.\""
@@ -23346,12 +23348,12 @@ translate Schinese leosunday_c60a3b26:
     "这里很小，大概只有15英尺长，10英尺宽。"
 
 # game/Leo_act_2.rpy:4707
-translate Schinese leosunday_01c6fa72:
+translate Schinese leosunday_5ee99a95:
 
-    # "It's narrow enough that Brian takes up most of the space and I'd be hard pressed to get passed him."
+    # "It's narrow enough that Brian takes up most of the space and I'd be hard-pressed to get past him."
     "狭小使得Brian占据了这里大部分空间，我很难从他身边挤过。"
 
-# game/Leo_act_2.rpy:4708
+# game/Leo_act_2.rpy:4710
 translate Schinese leosunday_8384f5e4:
 
     # "I draw my knees up to my chest and hug them, feeling numb."
@@ -26088,36 +26090,36 @@ translate Schinese leosunday_0491c965:
     "为Duke的死，去你妈的。"
 
 # game/Leo_act_2.rpy:5240
-translate Schinese leosunday_022f0028:
+translate Schinese leosunday_9255ee05:
 
-    # "{cps=22}{font=ui/belligerent.ttf}Fuck you for hurting Clifford."
-    "{cps=22}{font=ui/belligerent.ttf}为Clifford痛苦，去你妈的。"
+    # "{cps=22}{font=ui/belligerent.ttf}Fuck you for hurting Cliff."
+    "{cps=22}{font=ui/belligerent.ttf}为Cliff痛苦，去你妈的。"
 
-# game/Leo_act_2.rpy:5241
+# game/Leo_act_2.rpy:5243
 translate Schinese leosunday_738afbc1:
 
     # "Fuck you for what's buried in the mines."
     "为埋葬在矿井下的人，去你妈的。"
 
 # game/Leo_act_2.rpy:5242
-translate Schinese leosunday_53fe64f0:
+translate Schinese leosunday_f6296d84:
 
-    # "{cps=22}{font=ui/belligerent.ttf}Fuck you for hurting Nikolai."
-    "{cps=22}{font=ui/belligerent.ttf}为Nikolai的痛苦，去你妈的。"
+    # "{cps=22}{font=ui/belligerent.ttf}Fuck you for hurting Nik."
+    "{cps=22}{font=ui/belligerent.ttf}为Nik的痛苦，去你妈的。"
 
-# game/Leo_act_2.rpy:5243
+# game/Leo_act_2.rpy:5245
 translate Schinese leosunday_ec49edc5:
 
     # "Fuck you for twisting my friends into something they're not."
     "为被扭曲了的我的朋友们，去你妈的。"
 
 # game/Leo_act_2.rpy:5244
-translate Schinese leosunday_6c5bceab:
+translate Schinese leosunday_07903895:
 
-    # "{cps=22}{font=ui/belligerent.ttf}Fuck you for hurting Cynthia."
-    "{cps=22}{font=ui/belligerent.ttf}为Cynthia的痛苦，去你妈的。"
+    # "{cps=22}{font=ui/belligerent.ttf}Fuck you for hurting Cynthia and Murdoch"
+    "{cps=22}{font=ui/belligerent.ttf}为Cynthia和Murdoch的痛苦，去你妈的。"
 
-# game/Leo_act_2.rpy:5245
+# game/Leo_act_2.rpy:5247
 translate Schinese leosunday_b965e645:
 
     # "And fuck you for {cps=22}{font=ui/belligerent.ttf}ruining my life."
@@ -28419,19 +28421,19 @@ translate Schinese strings:
     old "Go for Duke's gun."
     new "去夺Duke的枪。"
 
-    # game/Leo_act_2.rpy:4861
+    # game/Leo_act_2.rpy:4863
     old "Look to the right."
     new "看向右边。"
 
-    # game/Leo_act_2.rpy:4917
+    # game/Leo_act_2.rpy:4919
     old "Get up."
     new "起身。"
 
-    # game/Leo_act_2.rpy:5136
+    # game/Leo_act_2.rpy:5138
     old "\"It's over.\""
     new "\"我们已经结束了。\""
 
-    # game/Leo_act_2.rpy:5136
+    # game/Leo_act_2.rpy:5138
     old "\"We'll work something out.\""
     new "\"我们会一起解决。\""
 

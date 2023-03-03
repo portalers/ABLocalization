@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2021-04-02 17:20
+# TODO: Translation updated at 2023-02-19 00:53
 
 # game/Carl-Friday.rpy:11
 translate Schinese carlfriday_4a86c24e:

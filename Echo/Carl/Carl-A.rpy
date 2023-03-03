@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2021-04-02 17:20
+# TODO: Translation updated at 2023-02-19 00:53
 
 # game/Carl-A.rpy:7
 translate Schinese carla_efb68a3e:
@@ -1201,10 +1201,10 @@ translate Schinese carla_bf500bc3:
     m "\"Did you say something?\""
 
 # game/Carl-A.rpy:248
-translate Schinese carla_6595508f:
+translate Schinese carla_e9813b80:
 
-    # "She doesn't respond so."
-    "She doesn't respond so."
+    # "She doesn't respond."
+    "She doesn't respond."
 
 # game/Carl-A.rpy:249
 translate Schinese carla_ae60f94f:
@@ -2563,10 +2563,10 @@ translate Schinese carla_d299ddf9:
     "I yelp again, much more loudly this time as I crumple to the ground."
 
 # game/Carl-A.rpy:523
-translate Schinese carla_dfda74c1:
+translate Schinese carla_014a0e2f:
 
-    # "Carl swears and jump over me at Jenna."
-    "Carl swears and jump over me at Jenna."
+    # "Carl swears and jumps over me at Jenna."
+    "Carl swears and jumps over me at Jenna."
 
 # game/Carl-A.rpy:524
 translate Schinese carla_2c0d0086:
@@ -3619,10 +3619,10 @@ translate Schinese carla_98564df3:
     "It takes me a second to realize she's talking to me."
 
 # game/Carl-A.rpy:741
-translate Schinese carla_16527ec5:
+translate Schinese carla_a9e96b34:
 
-    # "It she really that gone?"
-    "It she really that gone?"
+    # "Is she really that far gone?"
+    "Is she really that far gone?"
 
 # game/Carl-A.rpy:742
 translate Schinese carla_740e17e6:
@@ -5185,10 +5185,10 @@ translate Schinese carla_08c22234:
     "We lay there a while longer, Jenna busy hacking at the rope, Carl choosing to stare up at the ceiling."
 
 # game/Carl-A.rpy:1037
-translate Schinese carla_8c9b49bc:
+translate Schinese carla_9d3d968b:
 
-    # "That almost peaceful silence is shattered as a husky stumbles into the door frame, clutching onto as he practically trips in."
-    "That almost peaceful silence is shattered as a husky stumbles into the door frame, clutching onto as he practically trips in."
+    # "That almost peaceful silence is shattered as a husky stumbles into the door frame, grasping the wall as he practically trips in."
+    "That almost peaceful silence is shattered as a husky stumbles into the door frame, grasping the wall as he practically trips in."
 
 # game/Carl-A.rpy:1039
 translate Schinese carla_04241f4d:
@@ -6685,10 +6685,10 @@ translate Schinese carla_8f11beb7:
     "Somehow, I'm already there, like I just teleported straight down to stand on the road in front of Carl's house."
 
 # game/Carl-A.rpy:1314
-translate Schinese carla_b8629aa5:
+translate Schinese carla_79adaebf:
 
-    # "I stare down the slope toward the town and there, next to the road is a wooden platform build under a tree."
-    "I stare down the slope toward the town and there, next to the road is a wooden platform build under a tree."
+    # "I stare down the slope toward the town and there, next to the road is a wooden platform built out under a tree."
+    "I stare down the slope toward the town and there, next to the road is a wooden platform built out under a tree."
 
 # game/Carl-A.rpy:1315
 translate Schinese carla_a0e8437b:
@@ -10717,10 +10717,10 @@ translate Schinese carla_5574051a:
     "My feet dangle over the edge."
 
 # game/Carl-A.rpy:2108
-translate Schinese carla_d3c589b2:
+translate Schinese carla_21f02287:
 
-    # c "\"Is your ankle okay? I told you wait. I just needed a minute.\""
-    c "\"Is your ankle okay? I told you wait. I just needed a minute.\""
+    # c "\"Is your ankle okay? I told you to wait. I just needed a minute.\""
+    c "\"Is your ankle okay? I told you to wait. I just needed a minute.\""
 
 # game/Carl-A.rpy:2109
 translate Schinese carla_e499761a:
@@ -12487,10 +12487,10 @@ translate Schinese carla_0303c8e4:
     "I think to the tree outside in front of the house, but Carl shakes his head."
 
 # game/Carl-A.rpy:2437
-translate Schinese carla_70aca65d:
+translate Schinese carla_7821a9fd:
 
-    # c "\"Doesn't really matter know that we're free of this shit. Let's find the keys and get the hell out.\""
-    c "\"Doesn't really matter know that we're free of this shit. Let's find the keys and get the hell out.\""
+    # c "\"Doesn't really matter now that we're free of this shit. Let's find the keys and get the hell out.\""
+    c "\"Doesn't really matter now that we're free of this shit. Let's find the keys and get the hell out.\""
 
 # game/Carl-A.rpy:2438
 translate Schinese carla_e3d7f932:

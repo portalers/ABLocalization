@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-04-02 17:20
+﻿# TODO: Translation updated at 2023-02-19 00:53
 
 # game/TJ-Thursday.rpy:12
 translate Schinese tjthursday_0c14aa6d:
@@ -1543,10 +1543,10 @@ translate Schinese tjthursday_f0f1d907:
     m "\"Okay...\""
 
 # game/TJ-Thursday.rpy:329
-translate Schinese tjthursday_78a7d4af:
+translate Schinese tjthursday_441bad4a:
 
-    # "I end up letting TJ pick the toppings since he's the vegetarian."
-    "I end up letting TJ pick the toppings since he's the vegetarian."
+    # "I end up letting TJ pick the toppings since he's got that special dietary where he can't eat gluten."
+    "I end up letting TJ pick the toppings since he's got that special dietary where he can't eat gluten."
 
 # game/TJ-Thursday.rpy:330
 translate Schinese tjthursday_916f051a:
@@ -4614,4595 +4614,4596 @@ translate Schinese tjthursday_8fa4c914:
     # m "\"The sun's almost gone anyway.\""
     m "\"The sun's almost gone anyway.\""
 
-# game/TJ-Thursday.rpy:934
+# game/TJ-Thursday.rpy:935
 translate Schinese tjthursday_bf82017e:
 
     # "Carl smirks at me."
     "Carl smirks at me."
 
-# game/TJ-Thursday.rpy:935
+# game/TJ-Thursday.rpy:936
 translate Schinese tjthursday_b8b780ec:
 
     # c "\"I sweat walking in the winter time.\""
     c "\"I sweat walking in the winter time.\""
 
-# game/TJ-Thursday.rpy:936
+# game/TJ-Thursday.rpy:937
 translate Schinese tjthursday_02285235:
 
     # m "\"You can take a shower at the motel.\""
     m "\"You can take a shower at the motel.\""
 
-# game/TJ-Thursday.rpy:937
+# game/TJ-Thursday.rpy:938
 translate Schinese tjthursday_e7eea356:
 
     # "Carl blows his breath out loudly, frowning."
     "Carl blows his breath out loudly, frowning."
 
-# game/TJ-Thursday.rpy:938
+# game/TJ-Thursday.rpy:939
 translate Schinese tjthursday_30a5ea1f:
 
     # c "\"Okay, but I'm gonna put on more deodorant before we go.\""
     c "\"Okay, but I'm gonna put on more deodorant before we go.\""
 
-# game/TJ-Thursday.rpy:941
+# game/TJ-Thursday.rpy:942
 translate Schinese tjthursday_2d325ef5:
 
     # "The walk back isn't so bad."
     "The walk back isn't so bad."
 
-# game/TJ-Thursday.rpy:942
+# game/TJ-Thursday.rpy:943
 translate Schinese tjthursday_2ded716e:
 
     # "Carl makes it out to be a lot worse than it is with all his gasping and wiping his face constantly."
     "Carl makes it out to be a lot worse than it is with all his gasping and wiping his face constantly."
 
-# game/TJ-Thursday.rpy:943
+# game/TJ-Thursday.rpy:944
 translate Schinese tjthursday_cc05eeab:
 
     # "TJ gets a text from Jenna to meet at the diner instead of the motel since she's going there for dinner anyway."
     "TJ gets a text from Jenna to meet at the diner instead of the motel since she's going there for dinner anyway."
 
-# game/TJ-Thursday.rpy:946
+# game/TJ-Thursday.rpy:947
 translate Schinese tjthursday_9cc6405d:
 
     # "Once we walk in, Carl lets out a gasping groan of relief that turns a few heads."
     "Once we walk in, Carl lets out a gasping groan of relief that turns a few heads."
 
-# game/TJ-Thursday.rpy:947
+# game/TJ-Thursday.rpy:948
 translate Schinese tjthursday_b0e4194d:
 
     # "Jenna looks up from a corner booth and waves at us."
     "Jenna looks up from a corner booth and waves at us."
 
-# game/TJ-Thursday.rpy:948
+# game/TJ-Thursday.rpy:949
 translate Schinese tjthursday_d501f15b:
 
     # "I wave back and start making my way over."
     "I wave back and start making my way over."
 
-# game/TJ-Thursday.rpy:949
+# game/TJ-Thursday.rpy:950
 translate Schinese tjthursday_bb58b883:
 
     # c "\"Goin' to the bathroom; gotta wipe my pits.\""
     c "\"Goin' to the bathroom; gotta wipe my pits.\""
 
-# game/TJ-Thursday.rpy:950
+# game/TJ-Thursday.rpy:951
 translate Schinese tjthursday_28a0e452:
 
     # "TJ makes a sour face as he follows me to the table."
     "TJ makes a sour face as he follows me to the table."
 
-# game/TJ-Thursday.rpy:951
+# game/TJ-Thursday.rpy:952
 translate Schinese tjthursday_22087c96:
 
     # "Jenna scoots in so we can slide in next to her."
     "Jenna scoots in so we can slide in next to her."
 
-# game/TJ-Thursday.rpy:953
+# game/TJ-Thursday.rpy:954
 translate Schinese tjthursday_b8b78a14:
 
     # j "\"So what's this all about?\""
     j "\"So what's this all about?\""
 
-# game/TJ-Thursday.rpy:954
+# game/TJ-Thursday.rpy:955
 translate Schinese tjthursday_f17c2eec:
 
     # m "\"Carl found a treasure hunt that Sydney made.\""
     m "\"Carl found a treasure hunt that Sydney made.\""
 
-# game/TJ-Thursday.rpy:955
+# game/TJ-Thursday.rpy:956
 translate Schinese tjthursday_d28cdfb8:
 
     # "Jenna toys with her brown, leather purse, staring at it."
     "Jenna toys with her brown, leather purse, staring at it."
 
-# game/TJ-Thursday.rpy:956
+# game/TJ-Thursday.rpy:957
 translate Schinese tjthursday_3efeed93:
 
     # j "\"Oookay. Like, a map, or something?\""
     j "\"Oookay. Like, a map, or something?\""
 
-# game/TJ-Thursday.rpy:957
+# game/TJ-Thursday.rpy:958
 translate Schinese tjthursday_70c44db5:
 
     # m "\"A letter.\""
     m "\"A letter.\""
 
-# game/TJ-Thursday.rpy:958
+# game/TJ-Thursday.rpy:959
 translate Schinese tjthursday_43770dd2:
 
     # j "\"What are you going to do with it?\""
     j "\"What are you going to do with it?\""
 
-# game/TJ-Thursday.rpy:959
+# game/TJ-Thursday.rpy:960
 translate Schinese tjthursday_63033175:
 
     # m "\"Well...\""
     m "\"Well...\""
 
-# game/TJ-Thursday.rpy:960
+# game/TJ-Thursday.rpy:961
 translate Schinese tjthursday_3d0c4640:
 
     # "I look over at TJ, but he doesn't say anything, instead looking out the window at the sunset."
     "I look over at TJ, but he doesn't say anything, instead looking out the window at the sunset."
 
-# game/TJ-Thursday.rpy:961
+# game/TJ-Thursday.rpy:962
 translate Schinese tjthursday_b8c0118a:
 
     # m "\"We're thinking about doing it.\""
     m "\"We're thinking about doing it.\""
 
-# game/TJ-Thursday.rpy:962
+# game/TJ-Thursday.rpy:963
 translate Schinese tjthursday_2a82c38b:
 
     # j "\"You're thinking about going on the treasure hunt?\""
     j "\"You're thinking about going on the treasure hunt?\""
 
-# game/TJ-Thursday.rpy:963
+# game/TJ-Thursday.rpy:964
 translate Schinese tjthursday_c806ebc0:
 
     # m "\"Yeah.\""
     m "\"Yeah.\""
 
-# game/TJ-Thursday.rpy:964
+# game/TJ-Thursday.rpy:965
 translate Schinese tjthursday_defc5fee:
 
     # j "\"I mean—\""
     j "\"I mean—\""
 
-# game/TJ-Thursday.rpy:965
+# game/TJ-Thursday.rpy:966
 translate Schinese tjthursday_c2be8152:
 
     # "Jenna pauses, clearly trying to choose her words carefully."
     "Jenna pauses, clearly trying to choose her words carefully."
 
-# game/TJ-Thursday.rpy:966
+# game/TJ-Thursday.rpy:967
 translate Schinese tjthursday_5c106637:
 
     # j "\"I mean, would there be anything left of it at this point? It would have to be at least eleven years old by now.\""
     j "\"I mean, would there be anything left of it at this point? It would have to be at least eleven years old by now.\""
 
-# game/TJ-Thursday.rpy:967
+# game/TJ-Thursday.rpy:968
 translate Schinese tjthursday_3e0b130c:
 
     # "Jenna looks over at TJ, studying his reaction."
     "Jenna looks over at TJ, studying his reaction."
 
-# game/TJ-Thursday.rpy:969
+# game/TJ-Thursday.rpy:970
 translate Schinese tjthursday_8fe0cfca:
 
     # "He doesn't give her anything, though, still staring out the window."
     "He doesn't give her anything, though, still staring out the window."
 
-# game/TJ-Thursday.rpy:970
+# game/TJ-Thursday.rpy:971
 translate Schinese tjthursday_7afd09c9:
 
     # "I spread my hands out on the table, instantly regretting it as I feel the grease slide around under the pads."
     "I spread my hands out on the table, instantly regretting it as I feel the grease slide around under the pads."
 
-# game/TJ-Thursday.rpy:971
+# game/TJ-Thursday.rpy:972
 translate Schinese tjthursday_65d9a584:
 
     # m "\"We're seeing it more as a closure sort of thing...a send off. We're not really expecting to find something.\""
     m "\"We're seeing it more as a closure sort of thing...a send off. We're not really expecting to find something.\""
 
-# game/TJ-Thursday.rpy:972
+# game/TJ-Thursday.rpy:973
 translate Schinese tjthursday_8bbbff81:
 
     # "TJ finally looks back at us."
     "TJ finally looks back at us."
 
-# game/TJ-Thursday.rpy:973
+# game/TJ-Thursday.rpy:974
 translate Schinese tjthursday_eb24565d:
 
     # t "\"He made it for us, so I feel like we should do it...for him.\""
     t "\"He made it for us, so I feel like we should do it...for him.\""
 
-# game/TJ-Thursday.rpy:974
+# game/TJ-Thursday.rpy:975
 translate Schinese tjthursday_4ccfdb6f:
 
     # j "\"Hmmm...\""
     j "\"Hmmm...\""
 
-# game/TJ-Thursday.rpy:975
+# game/TJ-Thursday.rpy:976
 translate Schinese tjthursday_fdc56813:
 
     # "Jenna stares back down at her purse."
     "Jenna stares back down at her purse."
 
-# game/TJ-Thursday.rpy:976
+# game/TJ-Thursday.rpy:977
 translate Schinese tjthursday_a468c7e9:
 
     # j "\"I guess Flynn won't be involved?\""
     j "\"I guess Flynn won't be involved?\""
 
-# game/TJ-Thursday.rpy:977
+# game/TJ-Thursday.rpy:978
 translate Schinese tjthursday_c651d0c8:
 
     # m "\"No.\""
     m "\"No.\""
 
-# game/TJ-Thursday.rpy:978
+# game/TJ-Thursday.rpy:979
 translate Schinese tjthursday_8df0e623:
 
     # j "\"And Leo?\""
     j "\"And Leo?\""
 
-# game/TJ-Thursday.rpy:979
+# game/TJ-Thursday.rpy:980
 translate Schinese tjthursday_bdd1d2af:
 
     # t "\"He's going to be busy for most of the week. I don't think he'd really want to anyway.\""
     t "\"He's going to be busy for most of the week. I don't think he'd really want to anyway.\""
 
-# game/TJ-Thursday.rpy:980
+# game/TJ-Thursday.rpy:981
 translate Schinese tjthursday_5072630f:
 
     # j "\"Why not?\""
     j "\"Why not?\""
 
-# game/TJ-Thursday.rpy:981
+# game/TJ-Thursday.rpy:982
 translate Schinese tjthursday_2fa06772:
 
     # "Now TJ looks like he's trying to choose his words carefully."
     "Now TJ looks like he's trying to choose his words carefully."
 
-# game/TJ-Thursday.rpy:982
+# game/TJ-Thursday.rpy:983
 translate Schinese tjthursday_8b687f3b:
 
     # t "\"He pretends like it never happened. I don't want to bring it back up for him.\""
     t "\"He pretends like it never happened. I don't want to bring it back up for him.\""
 
-# game/TJ-Thursday.rpy:983
+# game/TJ-Thursday.rpy:984
 translate Schinese tjthursday_2e87696b:
 
     # "No one says anything else until Carl shows back up, the fur on his head and face a little wet."
     "No one says anything else until Carl shows back up, the fur on his head and face a little wet."
 
-# game/TJ-Thursday.rpy:985
+# game/TJ-Thursday.rpy:986
 translate Schinese tjthursday_67ffddea:
 
     # c "\"Hey, Jenna.\""
     c "\"Hey, Jenna.\""
 
-# game/TJ-Thursday.rpy:986
+# game/TJ-Thursday.rpy:987
 translate Schinese tjthursday_8bbbd3a5:
 
     # j "\"Carl.\""
     j "\"Carl.\""
 
-# game/TJ-Thursday.rpy:987
+# game/TJ-Thursday.rpy:988
 translate Schinese tjthursday_ed877054:
 
     # "Jenna nods at him as he sits across from me."
     "Jenna nods at him as he sits across from me."
 
-# game/TJ-Thursday.rpy:988
+# game/TJ-Thursday.rpy:989
 translate Schinese tjthursday_adf87aa0:
 
     # "He reaches across the table, snatching up a menu from the metal holder in the center."
     "He reaches across the table, snatching up a menu from the metal holder in the center."
 
-# game/TJ-Thursday.rpy:989
+# game/TJ-Thursday.rpy:990
 translate Schinese tjthursday_b9f04058:
 
     # c "\"I'll pay if anyone wants something.\""
     c "\"I'll pay if anyone wants something.\""
 
-# game/TJ-Thursday.rpy:990
+# game/TJ-Thursday.rpy:991
 translate Schinese tjthursday_56f23af8:
 
     # "Jenna curls a lip in disgust, but I'm starving so I start browsing the menu as well."
     "Jenna curls a lip in disgust, but I'm starving so I start browsing the menu as well."
 
-# game/TJ-Thursday.rpy:991
+# game/TJ-Thursday.rpy:992
 translate Schinese tjthursday_0ca21c5e:
 
     # "TJ goes back to staring out the window and I can see his ears twitching around."
     "TJ goes back to staring out the window and I can see his ears twitching around."
 
-# game/TJ-Thursday.rpy:992
+# game/TJ-Thursday.rpy:993
 translate Schinese tjthursday_25cbc514:
 
     # j "\"Sooo, where's this treasure hunt thing?\""
     j "\"Sooo, where's this treasure hunt thing?\""
 
-# game/TJ-Thursday.rpy:993
+# game/TJ-Thursday.rpy:994
 translate Schinese tjthursday_e1ee29ad:
 
     # "Carl looks up and sees that Jenna's staring at him."
     "Carl looks up and sees that Jenna's staring at him."
 
-# game/TJ-Thursday.rpy:994
+# game/TJ-Thursday.rpy:995
 translate Schinese tjthursday_983bc679:
 
     # c "\"Huh? Oh I have it. I'm gonna order real quick though if Chase is ready.\""
     c "\"Huh? Oh I have it. I'm gonna order real quick though if Chase is ready.\""
 
-# game/TJ-Thursday.rpy:995
+# game/TJ-Thursday.rpy:996
 translate Schinese tjthursday_7a04d3fb:
 
     # "I nod and Carl waves his menu at Janice who quickly bustles our way with a tray of glasses of water."
     "I nod and Carl waves his menu at Janice who quickly bustles our way with a tray of glasses of water."
 
-# game/TJ-Thursday.rpy:996
+# game/TJ-Thursday.rpy:997
 translate Schinese tjthursday_fd6a8f38:
 
     # "She's wearing pants now, but there's definitely still something off about her."
     "She's wearing pants now, but there's definitely still something off about her."
 
-# game/TJ-Thursday.rpy:997
+# game/TJ-Thursday.rpy:998
 translate Schinese tjthursday_4dc1ae44:
 
     # "Her eyes are wide, her smile more like a grimace as she sets down our glasses and straws."
     "Her eyes are wide, her smile more like a grimace as she sets down our glasses and straws."
 
-# game/TJ-Thursday.rpy:998
+# game/TJ-Thursday.rpy:999
 translate Schinese tjthursday_1c646ba6:
 
     # "She takes our orders well enough, though, and Jenna waits patiently as Carl and I order a meal and TJ gets a smoothie."
     "She takes our orders well enough, though, and Jenna waits patiently as Carl and I order a meal and TJ gets a smoothie."
 
-# game/TJ-Thursday.rpy:999
+# game/TJ-Thursday.rpy:1000
 translate Schinese tjthursday_a5468773:
 
     # "Carl methodically tears off one end of the wrapper off his straw before he blows on the other end, shooting the rest of the wrapper at me."
     "Carl methodically tears off one end of the wrapper off his straw before he blows on the other end, shooting the rest of the wrapper at me."
 
-# game/TJ-Thursday.rpy:1000
+# game/TJ-Thursday.rpy:1001
 translate Schinese tjthursday_eadaf331:
 
     # "I flinch and try to catch it, failing as it falls to the floor."
     "I flinch and try to catch it, failing as it falls to the floor."
 
-# game/TJ-Thursday.rpy:1001
+# game/TJ-Thursday.rpy:1002
 translate Schinese tjthursday_70f31a59:
 
     # "Jenna clears her throat loudly."
     "Jenna clears her throat loudly."
 
-# game/TJ-Thursday.rpy:1002
+# game/TJ-Thursday.rpy:1003
 translate Schinese tjthursday_18a72e0a:
 
     # j "\"So, where is it?\""
     j "\"So, where is it?\""
 
-# game/TJ-Thursday.rpy:1003
+# game/TJ-Thursday.rpy:1004
 translate Schinese tjthursday_bde7e580:
 
     # "Carl looks at her, the straw still in his mouth."
     "Carl looks at her, the straw still in his mouth."
 
-# game/TJ-Thursday.rpy:1004
+# game/TJ-Thursday.rpy:1005
 translate Schinese tjthursday_914e36dd:
 
     # c "\"Huh? Oh right.\""
     c "\"Huh? Oh right.\""
 
-# game/TJ-Thursday.rpy:1005
+# game/TJ-Thursday.rpy:1006
 translate Schinese tjthursday_36660aa8:
 
     # "Carl reaches into his pocket then pulls out the envelope."
     "Carl reaches into his pocket then pulls out the envelope."
 
-# game/TJ-Thursday.rpy:1006
+# game/TJ-Thursday.rpy:1007
 translate Schinese tjthursday_b5579c7b:
 
     # "He pushes it onto the table, face-up."
     "He pushes it onto the table, face-up."
 
-# game/TJ-Thursday.rpy:1007
+# game/TJ-Thursday.rpy:1008
 translate Schinese tjthursday_949ab1d4:
 
     # "There's writing in black marker on the front;"
     "There's writing in black marker on the front;"
 
-# game/TJ-Thursday.rpy:1008
+# game/TJ-Thursday.rpy:1009
 translate Schinese tjthursday_ede67429:
 
     # "\"Tresure Hunt Number 7!\""
     "\"Tresure Hunt Number 7!\""
 
-# game/TJ-Thursday.rpy:1009
+# game/TJ-Thursday.rpy:1010
 translate Schinese tjthursday_c42ebd0c:
 
     # "We all stare at it."
     "We all stare at it."
 
-# game/TJ-Thursday.rpy:1010
+# game/TJ-Thursday.rpy:1011
 translate Schinese tjthursday_5ddc7e9f:
 
     # c "\"Uh, should I read it?\""
     c "\"Uh, should I read it?\""
 
-# game/TJ-Thursday.rpy:1011
+# game/TJ-Thursday.rpy:1012
 translate Schinese tjthursday_3155c7fd:
 
     # "Carl sets a hand down on the letter."
     "Carl sets a hand down on the letter."
 
-# game/TJ-Thursday.rpy:1012
+# game/TJ-Thursday.rpy:1013
 translate Schinese tjthursday_4848b9bf:
 
     # c "\"Or...someone else?\""
     c "\"Or...someone else?\""
 
-# game/TJ-Thursday.rpy:1013
+# game/TJ-Thursday.rpy:1014
 translate Schinese tjthursday_5f3b8f73:
 
     # "Carl's eyes briefly flick over to TJ, then quickly look back down at the letter."
     "Carl's eyes briefly flick over to TJ, then quickly look back down at the letter."
 
-# game/TJ-Thursday.rpy:1014
+# game/TJ-Thursday.rpy:1015
 translate Schinese tjthursday_02a68dde:
 
     # "TJ's hand comes up, then surreptitiously scratches at an ear before letting it fall back into his lap."
     "TJ's hand comes up, then surreptitiously scratches at an ear before letting it fall back into his lap."
 
-# game/TJ-Thursday.rpy:1015
+# game/TJ-Thursday.rpy:1016
 translate Schinese tjthursday_154bc430:
 
     # "It does seem appropriate that TJ open it, but if he doesn't want to..."
     "It does seem appropriate that TJ open it, but if he doesn't want to..."
 
-# game/TJ-Thursday.rpy:1016
+# game/TJ-Thursday.rpy:1017
 translate Schinese tjthursday_4b24c137:
 
     # "Carl looks just as hesitant, so I finally reach out and gently slide it out from under his hand."
     "Carl looks just as hesitant, so I finally reach out and gently slide it out from under his hand."
 
-# game/TJ-Thursday.rpy:1018
+# game/TJ-Thursday.rpy:1019
 translate Schinese tjthursday_3d89fcb9:
 
     # m "\"I can read it.\""
     m "\"I can read it.\""
 
-# game/TJ-Thursday.rpy:1019
+# game/TJ-Thursday.rpy:1020
 translate Schinese tjthursday_195d9b33:
 
     # "No one objects, so I open it carefully, not wanting to rip anything as I pry the adhesive apart."
     "No one objects, so I open it carefully, not wanting to rip anything as I pry the adhesive apart."
 
-# game/TJ-Thursday.rpy:1021
+# game/TJ-Thursday.rpy:1022
 translate Schinese tjthursday_6ce4be97:
 
     # "A chill goes up my spine for some reason."
     "A chill goes up my spine for some reason."
 
-# game/TJ-Thursday.rpy:1022
+# game/TJ-Thursday.rpy:1023
 translate Schinese tjthursday_78352c81:
 
     # "A strange, surreal vision comes to my mind's eye of inky blackness leaking out of the envelope, spilling slowly across the table."
     "A strange, surreal vision comes to my mind's eye of inky blackness leaking out of the envelope, spilling slowly across the table."
 
-# game/TJ-Thursday.rpy:1023
+# game/TJ-Thursday.rpy:1024
 translate Schinese tjthursday_30681b4c:
 
     # "I can feel it, too, like a cold draft is wafting from inside."
     "I can feel it, too, like a cold draft is wafting from inside."
 
-# game/TJ-Thursday.rpy:1024
+# game/TJ-Thursday.rpy:1025
 translate Schinese tjthursday_3d05ef10:
 
     # "I pause, feeling an emptiness in my chest."
     "I pause, feeling an emptiness in my chest."
 
-# game/TJ-Thursday.rpy:1025
+# game/TJ-Thursday.rpy:1026
 translate Schinese tjthursday_5d1a8c04:
 
     # "What the hell?"
     "What the hell?"
 
-# game/TJ-Thursday.rpy:1026
+# game/TJ-Thursday.rpy:1027
 translate Schinese tjthursday_af7dc7ab:
 
     # "I give my head a small shake, breaking out of the trance."
     "I give my head a small shake, breaking out of the trance."
 
-# game/TJ-Thursday.rpy:1027
+# game/TJ-Thursday.rpy:1028
 translate Schinese tjthursday_50fd0819:
 
     # "I guess it's only natural I feel this way."
     "I guess it's only natural I feel this way."
 
-# game/TJ-Thursday.rpy:1028
+# game/TJ-Thursday.rpy:1029
 translate Schinese tjthursday_649c856f:
 
     # "That's Sydney's handwriting on a letter sealed after he licked it."
     "That's Sydney's handwriting on a letter sealed after he licked it."
 
-# game/TJ-Thursday.rpy:1029
+# game/TJ-Thursday.rpy:1030
 translate Schinese tjthursday_54ae4c07:
 
     # "He loved making these treasure hunts."
     "He loved making these treasure hunts."
 
-# game/TJ-Thursday.rpy:1030
+# game/TJ-Thursday.rpy:1031
 translate Schinese tjthursday_7e277636:
 
     # "It's really sad, so it makes sense that I'd feel this sudden drop in mood."
     "It's really sad, so it makes sense that I'd feel this sudden drop in mood."
 
-# game/TJ-Thursday.rpy:1031
+# game/TJ-Thursday.rpy:1032
 translate Schinese tjthursday_7ec333c3:
 
     # "I swallow as I continue to pry it open, the feeling getting worse and worse as I do."
     "I swallow as I continue to pry it open, the feeling getting worse and worse as I do."
 
-# game/TJ-Thursday.rpy:1032
+# game/TJ-Thursday.rpy:1033
 translate Schinese tjthursday_d0596b22:
 
     # "When it's finally fully opened the feeling slowly subsides."
     "When it's finally fully opened the feeling slowly subsides."
 
-# game/TJ-Thursday.rpy:1033
+# game/TJ-Thursday.rpy:1034
 translate Schinese tjthursday_20ec2c8a:
 
     # "Tension in the air seems to melt away, too, like the whole town just let out a sigh of relief."
     "Tension in the air seems to melt away, too, like the whole town just let out a sigh of relief."
 
-# game/TJ-Thursday.rpy:1034
+# game/TJ-Thursday.rpy:1035
 translate Schinese tjthursday_f49a3128:
 
     # "I look up for a moment at the others, wondering if they're feeling the same way."
     "I look up for a moment at the others, wondering if they're feeling the same way."
 
-# game/TJ-Thursday.rpy:1035
+# game/TJ-Thursday.rpy:1036
 translate Schinese tjthursday_9682404f:
 
     # "It's hard to tell as they're all looking intently down at my hands."
     "It's hard to tell as they're all looking intently down at my hands."
 
-# game/TJ-Thursday.rpy:1036
+# game/TJ-Thursday.rpy:1037
 translate Schinese tjthursday_74d3d375:
 
     # "I quickly look down again and stick my fingers inside, feeling a piece of paper catch on a pad."
     "I quickly look down again and stick my fingers inside, feeling a piece of paper catch on a pad."
 
-# game/TJ-Thursday.rpy:1037
+# game/TJ-Thursday.rpy:1038
 translate Schinese tjthursday_af6d3f55:
 
     # "Gently, I press down on it and slowly slide it from the envelope."
     "Gently, I press down on it and slowly slide it from the envelope."
 
-# game/TJ-Thursday.rpy:1039
+# game/TJ-Thursday.rpy:1040
 translate Schinese tjthursday_63325155:
 
     # "It's bright white copy paper, folded once in half."
     "It's bright white copy paper, folded once in half."
 
-# game/TJ-Thursday.rpy:1040
+# game/TJ-Thursday.rpy:1041
 translate Schinese tjthursday_f4e75680:
 
     # "It's been creased so long that it's starting to part at the fold, in the middle part so that the edges are barely holding it together."
     "It's been creased so long that it's starting to part at the fold, in the middle part so that the edges are barely holding it together."
 
-# game/TJ-Thursday.rpy:1041
+# game/TJ-Thursday.rpy:1042
 translate Schinese tjthursday_3881dcfb:
 
     # "Black blotches bleed through the paper, probably written with the same thick marker that was used for the envelope."
     "Black blotches bleed through the paper, probably written with the same thick marker that was used for the envelope."
 
-# game/TJ-Thursday.rpy:1042
+# game/TJ-Thursday.rpy:1043
 translate Schinese tjthursday_f3c0ac19:
 
     # "I gently unfold it, not wanting to rip it apart more than it already has been been."
     "I gently unfold it, not wanting to rip it apart more than it already has been been."
 
-# game/TJ-Thursday.rpy:1043
+# game/TJ-Thursday.rpy:1044
 translate Schinese tjthursday_fd87dd3b:
 
     # "The big, blocky black letters are sloppy and childish."
     "The big, blocky black letters are sloppy and childish."
 
-# game/TJ-Thursday.rpy:1044
+# game/TJ-Thursday.rpy:1045
 translate Schinese tjthursday_72f36840:
 
     # "Even though it's only a few sentences, it covers the entire page."
     "Even though it's only a few sentences, it covers the entire page."
 
-# game/TJ-Thursday.rpy:1045
+# game/TJ-Thursday.rpy:1046
 translate Schinese tjthursday_06f65fba:
 
     # "The last few words trail off into a tiny, almost illegible scrawl."
     "The last few words trail off into a tiny, almost illegible scrawl."
 
-# game/TJ-Thursday.rpy:1046
+# game/TJ-Thursday.rpy:1047
 translate Schinese tjthursday_6fd4eeee:
 
     # "It droops off down the side of the paper as Sydney realized he'd ran out of room at the end."
     "It droops off down the side of the paper as Sydney realized he'd ran out of room at the end."
 
-# game/TJ-Thursday.rpy:1047
+# game/TJ-Thursday.rpy:1048
 translate Schinese tjthursday_01ca2f9f:
 
     # m "\"Okay...um...\""
     m "\"Okay...um...\""
 
-# game/TJ-Thursday.rpy:1048
+# game/TJ-Thursday.rpy:1049
 translate Schinese tjthursday_5414dda2:
 
     # "I clear my throat, then start reading aloud."
     "I clear my throat, then start reading aloud."
 
-# game/TJ-Thursday.rpy:1049
+# game/TJ-Thursday.rpy:1050
 translate Schinese tjthursday_3500dd4e:
 
     # "\"Welcome to tresure hunt number 7! This is the biggest one so far and it took a long time!\""
     "\"Welcome to tresure hunt number 7! This is the biggest one so far and it took a long time!\""
 
-# game/TJ-Thursday.rpy:1050
+# game/TJ-Thursday.rpy:1051
 translate Schinese tjthursday_44089f7c:
 
     # "\"So no cheating this time (I'm talking about you Carl and Chase no skipping steps!)\""
     "\"So no cheating this time (I'm talking about you Carl and Chase no skipping steps!)\""
 
-# game/TJ-Thursday.rpy:1051
+# game/TJ-Thursday.rpy:1052
 translate Schinese tjthursday_463e3d02:
 
     # "\"First clue: These things fly really high, its in there home with my comb.\""
     "\"First clue: These things fly really high, its in there home with my comb.\""
 
-# game/TJ-Thursday.rpy:1052
+# game/TJ-Thursday.rpy:1053
 translate Schinese tjthursday_1be03b78:
 
     # "\"(Chase you dont have to do this one i know you hate it! you'll see if you figure it out.)\""
     "\"(Chase you dont have to do this one i know you hate it! you'll see if you figure it out.)\""
 
-# game/TJ-Thursday.rpy:1053
+# game/TJ-Thursday.rpy:1054
 translate Schinese tjthursday_cd175431:
 
     # "\"Good luck guys!\""
     "\"Good luck guys!\""
 
-# game/TJ-Thursday.rpy:1054
+# game/TJ-Thursday.rpy:1055
 translate Schinese tjthursday_12648761:
 
     # "\"-Syd\""
     "\"-Syd\""
 
-# game/TJ-Thursday.rpy:1059
+# game/TJ-Thursday.rpy:1060
 translate Schinese tjthursday_889b8a4f:
 
     # "I feel my throat close up just a little as I stare down at his name."
     "I feel my throat close up just a little as I stare down at his name."
 
-# game/TJ-Thursday.rpy:1060
+# game/TJ-Thursday.rpy:1061
 translate Schinese tjthursday_adff586c:
 
     # "He always wanted to go by Syd, but it never stuck so none of us ever did."
     "He always wanted to go by Syd, but it never stuck so none of us ever did."
 
-# game/TJ-Thursday.rpy:1061
+# game/TJ-Thursday.rpy:1062
 translate Schinese tjthursday_aba28a59:
 
     # "It just didn't suit him."
     "It just didn't suit him."
 
-# game/TJ-Thursday.rpy:1062
+# game/TJ-Thursday.rpy:1063
 translate Schinese tjthursday_add17717:
 
     # "I look back up at the others."
     "I look back up at the others."
 
-# game/TJ-Thursday.rpy:1063
+# game/TJ-Thursday.rpy:1064
 translate Schinese tjthursday_69ab6bd2:
 
     # "Carl is still staring at the paper and TJ's looking out the window again."
     "Carl is still staring at the paper and TJ's looking out the window again."
 
-# game/TJ-Thursday.rpy:1064
+# game/TJ-Thursday.rpy:1065
 translate Schinese tjthursday_6eb0d3db:
 
     # "Jenna has a hand up to her mouth, staring as well."
     "Jenna has a hand up to her mouth, staring as well."
 
-# game/TJ-Thursday.rpy:1065
+# game/TJ-Thursday.rpy:1066
 translate Schinese tjthursday_7a5f9308:
 
     # j "\"Wow...\""
     j "\"Wow...\""
 
-# game/TJ-Thursday.rpy:1066
+# game/TJ-Thursday.rpy:1067
 translate Schinese tjthursday_e105f475:
 
     # "Then she wipes at her eyes and I look away."
     "Then she wipes at her eyes and I look away."
 
-# game/TJ-Thursday.rpy:1067
+# game/TJ-Thursday.rpy:1068
 translate Schinese tjthursday_48891717:
 
     # "I guess I never really thought about how this might affect Jenna."
     "I guess I never really thought about how this might affect Jenna."
 
-# game/TJ-Thursday.rpy:1068
+# game/TJ-Thursday.rpy:1069
 translate Schinese tjthursday_7b655ad9:
 
     # "She and Sydney never really got along because of the way he treated TJ."
     "She and Sydney never really got along because of the way he treated TJ."
 
-# game/TJ-Thursday.rpy:1069
+# game/TJ-Thursday.rpy:1070
 translate Schinese tjthursday_9833f208:
 
     # "But still, he was just a kid, like the rest of us."
     "But still, he was just a kid, like the rest of us."
 
-# game/TJ-Thursday.rpy:1070
+# game/TJ-Thursday.rpy:1071
 translate Schinese tjthursday_ce00530d:
 
     # "Carl lets out a ragged cough."
     "Carl lets out a ragged cough."
 
-# game/TJ-Thursday.rpy:1071
+# game/TJ-Thursday.rpy:1072
 translate Schinese tjthursday_83f017d0:
 
     # c "\"Uh, that whole cheating thing was totally you, Chase, not me.\""
     c "\"Uh, that whole cheating thing was totally you, Chase, not me.\""
 
-# game/TJ-Thursday.rpy:1073
+# game/TJ-Thursday.rpy:1074
 translate Schinese tjthursday_08d02d4f:
 
     # "I look up at Carl, raising a brow."
     "I look up at Carl, raising a brow."
 
-# game/TJ-Thursday.rpy:1074
+# game/TJ-Thursday.rpy:1075
 translate Schinese tjthursday_c8db8524:
 
     # m "\"You're the one that told me to do it.\""
     m "\"You're the one that told me to do it.\""
 
-# game/TJ-Thursday.rpy:1075
+# game/TJ-Thursday.rpy:1076
 translate Schinese tjthursday_bfffd289:
 
     # "Carl smirks."
     "Carl smirks."
 
-# game/TJ-Thursday.rpy:1076
+# game/TJ-Thursday.rpy:1077
 translate Schinese tjthursday_42321a83:
 
     # c "\"And you're the one that did it.\""
     c "\"And you're the one that did it.\""
 
-# game/TJ-Thursday.rpy:1077
+# game/TJ-Thursday.rpy:1078
 translate Schinese tjthursday_79dfc6a5:
 
     # t "\"What did you do?\""
     t "\"What did you do?\""
 
-# game/TJ-Thursday.rpy:1078
+# game/TJ-Thursday.rpy:1079
 translate Schinese tjthursday_1b5467b6:
 
     # "TJ asks quietly from his corner, finally looking away from the window."
     "TJ asks quietly from his corner, finally looking away from the window."
 
-# game/TJ-Thursday.rpy:1079
+# game/TJ-Thursday.rpy:1080
 translate Schinese tjthursday_397c78c3:
 
     # m "\"Well, Sydney liked to reuse certain hiding spots. I mean, there were only so many places he could use.\""
     m "\"Well, Sydney liked to reuse certain hiding spots. I mean, there were only so many places he could use.\""
 
-# game/TJ-Thursday.rpy:1080
+# game/TJ-Thursday.rpy:1081
 translate Schinese tjthursday_4d168160:
 
     # c "\"Yeah, and Chase went straight to Sydney's mailbox and ruined the whole thing like a boss.\""
     c "\"Yeah, and Chase went straight to Sydney's mailbox and ruined the whole thing like a boss.\""
 
-# game/TJ-Thursday.rpy:1081
+# game/TJ-Thursday.rpy:1082
 translate Schinese tjthursday_cc3dbf14:
 
     # m "\"I was like, eight!\""
     m "\"I was like, eight!\""
 
-# game/TJ-Thursday.rpy:1082
+# game/TJ-Thursday.rpy:1083
 translate Schinese tjthursday_76c95be0:
 
     # c "\"Turns out it was the last spot and he got the 'prize'.\""
     c "\"Turns out it was the last spot and he got the 'prize'.\""
 
-# game/TJ-Thursday.rpy:1083
+# game/TJ-Thursday.rpy:1084
 translate Schinese tjthursday_029bcf66:
 
     # "Carl makes finger quotes around the last word."
     "Carl makes finger quotes around the last word."
 
-# game/TJ-Thursday.rpy:1084
+# game/TJ-Thursday.rpy:1085
 translate Schinese tjthursday_b5315177:
 
     # m "\"Yeah, one of those plastic clapper things we used to get in elementary school for reading a lot.\""
     m "\"Yeah, one of those plastic clapper things we used to get in elementary school for reading a lot.\""
 
-# game/TJ-Thursday.rpy:1085
+# game/TJ-Thursday.rpy:1086
 translate Schinese tjthursday_5d50fc09:
 
     # c "\"He was so mad.\""
     c "\"He was so mad.\""
 
-# game/TJ-Thursday.rpy:1086
+# game/TJ-Thursday.rpy:1087
 translate Schinese tjthursday_bf023949_1:
 
     # m "\"Yeah...\""
     m "\"Yeah...\""
 
-# game/TJ-Thursday.rpy:1087
+# game/TJ-Thursday.rpy:1088
 translate Schinese tjthursday_95fd1f25:
 
     # "I remember dropping it on the ground because of how lame it was."
     "I remember dropping it on the ground because of how lame it was."
 
-# game/TJ-Thursday.rpy:1088
+# game/TJ-Thursday.rpy:1089
 translate Schinese tjthursday_8569b8bf:
 
     # "I also remember Sydney crying, but I'm not gonna bring that up."
     "I also remember Sydney crying, but I'm not gonna bring that up."
 
-# game/TJ-Thursday.rpy:1089
+# game/TJ-Thursday.rpy:1090
 translate Schinese tjthursday_6671f0f5:
 
     # "Carl seems to have at least lightened the mood, though, and Jenna's stopped wiping at her eyes."
     "Carl seems to have at least lightened the mood, though, and Jenna's stopped wiping at her eyes."
 
-# game/TJ-Thursday.rpy:1090
+# game/TJ-Thursday.rpy:1091
 translate Schinese tjthursday_78f42940:
 
     # "I'm starting to think TJ was right about this whole closure thing."
     "I'm starting to think TJ was right about this whole closure thing."
 
-# game/TJ-Thursday.rpy:1091
+# game/TJ-Thursday.rpy:1092
 translate Schinese tjthursday_299e09f4:
 
     # m "\"I know where he's talking about for this one, though.\""
     m "\"I know where he's talking about for this one, though.\""
 
-# game/TJ-Thursday.rpy:1092
+# game/TJ-Thursday.rpy:1093
 translate Schinese tjthursday_b10cb41c:
 
     # "I tap the paper with a finger."
     "I tap the paper with a finger."
 
-# game/TJ-Thursday.rpy:1093
+# game/TJ-Thursday.rpy:1094
 translate Schinese tjthursday_4f1147a2:
 
     # c "\"Yeah, it's the birdhouse.\""
     c "\"Yeah, it's the birdhouse.\""
 
-# game/TJ-Thursday.rpy:1094
+# game/TJ-Thursday.rpy:1095
 translate Schinese tjthursday_71852147:
 
     # j "\"Birdhouse? Where is that?\""
     j "\"Birdhouse? Where is that?\""
 
-# game/TJ-Thursday.rpy:1095
+# game/TJ-Thursday.rpy:1096
 translate Schinese tjthursday_acf9de1c:
 
     # t "\"The forest.\""
     t "\"The forest.\""
 
-# game/TJ-Thursday.rpy:1096
+# game/TJ-Thursday.rpy:1097
 translate Schinese tjthursday_3879d772:
 
     # "TJ sits up straighter, ears up as well."
     "TJ sits up straighter, ears up as well."
 
-# game/TJ-Thursday.rpy:1097
+# game/TJ-Thursday.rpy:1098
 translate Schinese tjthursday_c7b8778e:
 
     # t "\"The birdhouse is on one of the trees close to the road.\""
     t "\"The birdhouse is on one of the trees close to the road.\""
 
-# game/TJ-Thursday.rpy:1098
+# game/TJ-Thursday.rpy:1099
 translate Schinese tjthursday_6d8c785d:
 
     # j "\"Oh, well, I never went in there because of all the shit—sorry, stuff that would get in my fur.\""
     j "\"Oh, well, I never went in there because of all the shit—sorry, stuff that would get in my fur.\""
 
-# game/TJ-Thursday.rpy:1099
+# game/TJ-Thursday.rpy:1100
 translate Schinese tjthursday_69d3e3a6:
 
     # "TJ looks back out the window, the sun gone now, though the clouds in the sky are still tinged red."
     "TJ looks back out the window, the sun gone now, though the clouds in the sky are still tinged red."
 
-# game/TJ-Thursday.rpy:1100
+# game/TJ-Thursday.rpy:1101
 translate Schinese tjthursday_372cce72:
 
     # t "\"You guys want to do it tonight?\""
     t "\"You guys want to do it tonight?\""
 
-# game/TJ-Thursday.rpy:1101
+# game/TJ-Thursday.rpy:1102
 translate Schinese tjthursday_e38fc387:
 
     # c "\"Really? It's getting kinda late and we still gotta eat.\""
     c "\"Really? It's getting kinda late and we still gotta eat.\""
 
-# game/TJ-Thursday.rpy:1102
+# game/TJ-Thursday.rpy:1103
 translate Schinese tjthursday_c16154d1:
 
     # "Carl looks eagerly over at the front counter, through the small rectangle that lead to the kitchen."
     "Carl looks eagerly over at the front counter, through the small rectangle that lead to the kitchen."
 
-# game/TJ-Thursday.rpy:1103
+# game/TJ-Thursday.rpy:1104
 translate Schinese tjthursday_b10d143c:
 
     # t "\"We can use Chase's car. Besides, it might be kinda fun in the dark...\""
     t "\"We can use Chase's car. Besides, it might be kinda fun in the dark...\""
 
-# game/TJ-Thursday.rpy:1104
+# game/TJ-Thursday.rpy:1105
 translate Schinese tjthursday_9c910c0a:
 
     # "TJ adds the last bit meekly."
     "TJ adds the last bit meekly."
 
-# game/TJ-Thursday.rpy:1106
+# game/TJ-Thursday.rpy:1107
 translate Schinese tjthursday_92093a8f:
 
     # c "\"Uh, hell no?\""
     c "\"Uh, hell no?\""
 
-# game/TJ-Thursday.rpy:1107
+# game/TJ-Thursday.rpy:1108
 translate Schinese tjthursday_9f05530c:
 
     # j "\"As long as you guys know where it is it shouldn't be a problem.\""
     j "\"As long as you guys know where it is it shouldn't be a problem.\""
 
-# game/TJ-Thursday.rpy:1108
+# game/TJ-Thursday.rpy:1109
 translate Schinese tjthursday_b7ca32e9:
 
     # "I gently fold the letter back up and start tucking it back into the envelope."
     "I gently fold the letter back up and start tucking it back into the envelope."
 
-# game/TJ-Thursday.rpy:1109
+# game/TJ-Thursday.rpy:1110
 translate Schinese tjthursday_9689ae26:
 
     # t "\"Um, what was...what did he mean by saying you didn't have to do that one, Chase?\""
     t "\"Um, what was...what did he mean by saying you didn't have to do that one, Chase?\""
 
-# game/TJ-Thursday.rpy:1110
+# game/TJ-Thursday.rpy:1111
 translate Schinese tjthursday_1e51ad2f:
 
     # "I look up at TJ, then back down at the letter as I gently press the lid of the envelope closed."
     "I look up at TJ, then back down at the letter as I gently press the lid of the envelope closed."
 
-# game/TJ-Thursday.rpy:1111
+# game/TJ-Thursday.rpy:1112
 translate Schinese tjthursday_510fd7f9:
 
     # m "\"I thought I saw something and got scared one time. Was a long time ago, though.\""
     m "\"I thought I saw something and got scared one time. Was a long time ago, though.\""
 
-# game/TJ-Thursday.rpy:1112
+# game/TJ-Thursday.rpy:1113
 translate Schinese tjthursday_11d68cc2:
 
     # m "\"At least that's what I think he was talking about.\""
     m "\"At least that's what I think he was talking about.\""
 
-# game/TJ-Thursday.rpy:1114
+# game/TJ-Thursday.rpy:1115
 translate Schinese tjthursday_58b9bc4c:
 
     # "Jenna clears her throat, seeming to have collected herself."
     "Jenna clears her throat, seeming to have collected herself."
 
-# game/TJ-Thursday.rpy:1115
+# game/TJ-Thursday.rpy:1116
 translate Schinese tjthursday_c7d90366:
 
     # j "\"I think I remember that. My parents told me about it.\""
     j "\"I think I remember that. My parents told me about it.\""
 
-# game/TJ-Thursday.rpy:1116
+# game/TJ-Thursday.rpy:1117
 translate Schinese tjthursday_e499761a:
 
     # "I frown."
     "I frown."
 
-# game/TJ-Thursday.rpy:1117
+# game/TJ-Thursday.rpy:1118
 translate Schinese tjthursday_0b4eb0fa:
 
     # m "\"Really?\""
     m "\"Really?\""
 
-# game/TJ-Thursday.rpy:1118
+# game/TJ-Thursday.rpy:1119
 translate Schinese tjthursday_77d91202:
 
     # "I didn't like the idea of that."
     "I didn't like the idea of that."
 
-# game/TJ-Thursday.rpy:1119
+# game/TJ-Thursday.rpy:1120
 translate Schinese tjthursday_40300de8:
 
     # t "\"What did you see?\""
     t "\"What did you see?\""
 
-# game/TJ-Thursday.rpy:1120
+# game/TJ-Thursday.rpy:1121
 translate Schinese tjthursday_8619f2c6_1:
 
     # "I shrug."
     "I shrug."
 
-# game/TJ-Thursday.rpy:1121
+# game/TJ-Thursday.rpy:1122
 translate Schinese tjthursday_3b7eefcd:
 
     # m "\"A person in the trees.\""
     m "\"A person in the trees.\""
 
-# game/TJ-Thursday.rpy:1122
+# game/TJ-Thursday.rpy:1123
 translate Schinese tjthursday_d855d11c:
 
     # "A hanging person."
     "A hanging person."
 
-# game/TJ-Thursday.rpy:1123
+# game/TJ-Thursday.rpy:1124
 translate Schinese tjthursday_2ee0b12a:
 
     # t "\"Oh.\""
     t "\"Oh.\""
 
-# game/TJ-Thursday.rpy:1124
+# game/TJ-Thursday.rpy:1125
 translate Schinese tjthursday_aea188ca:
 
     # "TJ shudders."
     "TJ shudders."
 
-# game/TJ-Thursday.rpy:1125
+# game/TJ-Thursday.rpy:1126
 translate Schinese tjthursday_8d0d2a72:
 
     # c "\"So hell fuckin' no to going there tonight, then? Sorry for the F-word, Teej.\""
     c "\"So hell fuckin' no to going there tonight, then? Sorry for the F-word, Teej.\""
 
-# game/TJ-Thursday.rpy:1126
+# game/TJ-Thursday.rpy:1127
 translate Schinese tjthursday_6e2ce8bc:
 
     # m "\"It's fine, I saw a lot of things as a kid.\""
     m "\"It's fine, I saw a lot of things as a kid.\""
 
-# game/TJ-Thursday.rpy:1127
+# game/TJ-Thursday.rpy:1128
 translate Schinese tjthursday_8c5b523a:
 
     # "I'm not going to tell them how I'm definitely still scared of that place."
     "I'm not going to tell them how I'm definitely still scared of that place."
 
-# game/TJ-Thursday.rpy:1128
+# game/TJ-Thursday.rpy:1129
 translate Schinese tjthursday_3bcc4e0c:
 
     # "Besides, TJ looks really eager to start this so I'm not gonna ruin it for him."
     "Besides, TJ looks really eager to start this so I'm not gonna ruin it for him."
 
-# game/TJ-Thursday.rpy:1129
+# game/TJ-Thursday.rpy:1130
 translate Schinese tjthursday_d36470b6:
 
     # "But really, that's not what's bothering me right now."
     "But really, that's not what's bothering me right now."
 
-# game/TJ-Thursday.rpy:1130
+# game/TJ-Thursday.rpy:1131
 translate Schinese tjthursday_b1004add:
 
     # "I look down at my hands as I try to work out a time line in my head."
     "I look down at my hands as I try to work out a time line in my head."
 
-# game/TJ-Thursday.rpy:1131
+# game/TJ-Thursday.rpy:1132
 translate Schinese tjthursday_2b5165f1:
 
     # "When was it that that incident happened in the forest?"
     "When was it that that incident happened in the forest?"
 
-# game/TJ-Thursday.rpy:1132
+# game/TJ-Thursday.rpy:1133
 translate Schinese tjthursday_4c168247:
 
     # "I thought I'd been ten at the time since that was when I'd started going to a psychiatrist."
     "I thought I'd been ten at the time since that was when I'd started going to a psychiatrist."
 
-# game/TJ-Thursday.rpy:1133
+# game/TJ-Thursday.rpy:1134
 translate Schinese tjthursday_6104d72f:
 
     # "And I'd started going because of that."
     "And I'd started going because of that."
 
-# game/TJ-Thursday.rpy:1134
+# game/TJ-Thursday.rpy:1135
 translate Schinese tjthursday_00ba15eb:
 
     # "But that would be impossible, because..."
     "But that would be impossible, because..."
 
-# game/TJ-Thursday.rpy:1138
+# game/TJ-Thursday.rpy:1139
 translate Schinese tjthursday_397efa11:
 
     # ja "\"Here we are!\""
     ja "\"Here we are!\""
 
-# game/TJ-Thursday.rpy:1139
+# game/TJ-Thursday.rpy:1140
 translate Schinese tjthursday_b4c817bf:
 
     # "A plate with a massive burger and steak fries lands in front of my face."
     "A plate with a massive burger and steak fries lands in front of my face."
 
-# game/TJ-Thursday.rpy:1140
+# game/TJ-Thursday.rpy:1141
 translate Schinese tjthursday_b69c2cb3:
 
     # "The big coyote sets a smoothie down for TJ and an even bigger veggie burger down for Carl."
     "The big coyote sets a smoothie down for TJ and an even bigger veggie burger down for Carl."
 
-# game/TJ-Thursday.rpy:1141
+# game/TJ-Thursday.rpy:1142
 translate Schinese tjthursday_f24270b4:
 
     # t "\"Hey, Janice. Is Julian working today?\""
     t "\"Hey, Janice. Is Julian working today?\""
 
-# game/TJ-Thursday.rpy:1142
+# game/TJ-Thursday.rpy:1143
 translate Schinese tjthursday_1b4af382:
 
     # "Janice smiles at TJ."
     "Janice smiles at TJ."
 
-# game/TJ-Thursday.rpy:1143
+# game/TJ-Thursday.rpy:1144
 translate Schinese tjthursday_496e86aa:
 
     # ja "\"No, dear. He's only here when I'm not. He'll be in tomorrow if you're looking to find him.\""
     ja "\"No, dear. He's only here when I'm not. He'll be in tomorrow if you're looking to find him.\""
 
-# game/TJ-Thursday.rpy:1144
+# game/TJ-Thursday.rpy:1145
 translate Schinese tjthursday_46ae1606:
 
     # t "\"Okay, thanks.\""
     t "\"Okay, thanks.\""
 
-# game/TJ-Thursday.rpy:1145
+# game/TJ-Thursday.rpy:1146
 translate Schinese tjthursday_3ab5f821:
 
     # "Janice then clutches her tray to her chest and watches us for a moment."
     "Janice then clutches her tray to her chest and watches us for a moment."
 
-# game/TJ-Thursday.rpy:1146
+# game/TJ-Thursday.rpy:1147
 translate Schinese tjthursday_c982ae25:
 
     # ja "\"Listen, Chase and TJ, why don't you come by my house again when you get the chance?\""
     ja "\"Listen, Chase and TJ, why don't you come by my house again when you get the chance?\""
 
-# game/TJ-Thursday.rpy:1147
+# game/TJ-Thursday.rpy:1148
 translate Schinese tjthursday_5cf66d10:
 
     # "I look up at Janice and see that she's got a strange look on her face, confused and worried looking."
     "I look up at Janice and see that she's got a strange look on her face, confused and worried looking."
 
-# game/TJ-Thursday.rpy:1148
+# game/TJ-Thursday.rpy:1149
 translate Schinese tjthursday_8f9fb7b8:
 
     # t "\"What's wrong, Janice?\""
     t "\"What's wrong, Janice?\""
 
-# game/TJ-Thursday.rpy:1149
+# game/TJ-Thursday.rpy:1150
 translate Schinese tjthursday_fa87cfc4:
 
     # "TJ's voice is full of concern."
     "TJ's voice is full of concern."
 
-# game/TJ-Thursday.rpy:1150
+# game/TJ-Thursday.rpy:1151
 translate Schinese tjthursday_e311bc0f:
 
     # t "\"Did we do something wrong?\""
     t "\"Did we do something wrong?\""
 
-# game/TJ-Thursday.rpy:1151
+# game/TJ-Thursday.rpy:1152
 translate Schinese tjthursday_0802c886:
 
     # ja "\"No, no! You did everything wonderfully! I just want to have a talk about the way I acted the past few days.\""
     ja "\"No, no! You did everything wonderfully! I just want to have a talk about the way I acted the past few days.\""
 
-# game/TJ-Thursday.rpy:1152
+# game/TJ-Thursday.rpy:1153
 translate Schinese tjthursday_3f419645:
 
     # "Janice lets out an exasperated-sounding laugh."
     "Janice lets out an exasperated-sounding laugh."
 
-# game/TJ-Thursday.rpy:1153
+# game/TJ-Thursday.rpy:1154
 translate Schinese tjthursday_b165a987:
 
     # ja "\"Not really sure what came over me. Just now realizing how strange it all was.\""
     ja "\"Not really sure what came over me. Just now realizing how strange it all was.\""
 
-# game/TJ-Thursday.rpy:1154
+# game/TJ-Thursday.rpy:1155
 translate Schinese tjthursday_64622e37:
 
     # "She glances at Carl."
     "She glances at Carl."
 
-# game/TJ-Thursday.rpy:1155
+# game/TJ-Thursday.rpy:1156
 translate Schinese tjthursday_905528ad:
 
     # ja "\"But we can talk about it later, in person. Enjoy your dinner!\""
     ja "\"But we can talk about it later, in person. Enjoy your dinner!\""
 
-# game/TJ-Thursday.rpy:1157
+# game/TJ-Thursday.rpy:1158
 translate Schinese tjthursday_db14f0c3:
 
     # "She bustles off, tray still held against her body."
     "She bustles off, tray still held against her body."
 
-# game/TJ-Thursday.rpy:1158
+# game/TJ-Thursday.rpy:1159
 translate Schinese tjthursday_b0e859d6:
 
     # "Carl watches her go, stuffing a few fries into his mouth."
     "Carl watches her go, stuffing a few fries into his mouth."
 
-# game/TJ-Thursday.rpy:1159
+# game/TJ-Thursday.rpy:1160
 translate Schinese tjthursday_9bfe4d6d:
 
     # c "\"What was that about?\""
     c "\"What was that about?\""
 
-# game/TJ-Thursday.rpy:1160
+# game/TJ-Thursday.rpy:1161
 translate Schinese tjthursday_511a7243:
 
     # m "\"Um...\""
     m "\"Um...\""
 
-# game/TJ-Thursday.rpy:1161
+# game/TJ-Thursday.rpy:1162
 translate Schinese tjthursday_2c5d66d3:
 
     # "The way Janice had looked at Carl makes me think she doesn't want him knowing about what had happened."
     "The way Janice had looked at Carl makes me think she doesn't want him knowing about what had happened."
 
-# game/TJ-Thursday.rpy:1162
+# game/TJ-Thursday.rpy:1163
 translate Schinese tjthursday_f4a6d83c:
 
     # m "\"I think she just feels bad for making us work so much.\""
     m "\"I think she just feels bad for making us work so much.\""
 
-# game/TJ-Thursday.rpy:1163
+# game/TJ-Thursday.rpy:1164
 translate Schinese tjthursday_0d860074:
 
     # "I look over meaningfully at TJ."
     "I look over meaningfully at TJ."
 
-# game/TJ-Thursday.rpy:1164
+# game/TJ-Thursday.rpy:1165
 translate Schinese tjthursday_e08d1d65:
 
     # t "\"Oh! Uh, yeah, maybe...\""
     t "\"Oh! Uh, yeah, maybe...\""
 
-# game/TJ-Thursday.rpy:1165
+# game/TJ-Thursday.rpy:1166
 translate Schinese tjthursday_b59772ca:
 
     # "TJ quickly starts sucking on his straw."
     "TJ quickly starts sucking on his straw."
 
-# game/TJ-Thursday.rpy:1166
+# game/TJ-Thursday.rpy:1167
 translate Schinese tjthursday_c0a87ed5:
 
     # j "\"Well, she should.\""
     j "\"Well, she should.\""
 
-# game/TJ-Thursday.rpy:1167
+# game/TJ-Thursday.rpy:1168
 translate Schinese tjthursday_f1c4a314:
 
     # "Jenna's sitting back in the booth, having taken out her brush to start grooming the fur on her face and head."
     "Jenna's sitting back in the booth, having taken out her brush to start grooming the fur on her face and head."
 
-# game/TJ-Thursday.rpy:1168
+# game/TJ-Thursday.rpy:1169
 translate Schinese tjthursday_a315c011:
 
     # "I inconspicuously slide my plate a little further away from her."
     "I inconspicuously slide my plate a little further away from her."
 
-# game/TJ-Thursday.rpy:1169
+# game/TJ-Thursday.rpy:1170
 translate Schinese tjthursday_153a5129:
 
     # m "\"Well, once we finish we can go get my car and head to the forest.\""
     m "\"Well, once we finish we can go get my car and head to the forest.\""
 
-# game/TJ-Thursday.rpy:1171
+# game/TJ-Thursday.rpy:1172
 translate Schinese tjthursday_1307b840:
 
     # "As I lift my burger and take a bite, I look over at the counter where I see Janice leaning over her notepad."
     "As I lift my burger and take a bite, I look over at the counter where I see Janice leaning over her notepad."
 
-# game/TJ-Thursday.rpy:1172
+# game/TJ-Thursday.rpy:1173
 translate Schinese tjthursday_83764618:
 
     # "Her shoulders are shaking and it takes me a moment to realize that she's crying..."
     "Her shoulders are shaking and it takes me a moment to realize that she's crying..."
 
-# game/TJ-Thursday.rpy:1177
+# game/TJ-Thursday.rpy:1178
 translate Schinese tjthursday_c0371626:
 
     # "The \"forest\" is really just a patch of trees on the side of the road near Leo's house."
     "The \"forest\" is really just a patch of trees on the side of the road near Leo's house."
 
-# game/TJ-Thursday.rpy:1178
+# game/TJ-Thursday.rpy:1179
 translate Schinese tjthursday_186cce9f:
 
     # "While it's technically small, it still covers several acres which is enough to get lost in."
     "While it's technically small, it still covers several acres which is enough to get lost in."
 
-# game/TJ-Thursday.rpy:1179
+# game/TJ-Thursday.rpy:1180
 translate Schinese tjthursday_13187aee:
 
     # "The sky is a soft blue now, just enough light to see by."
     "The sky is a soft blue now, just enough light to see by."
 
-# game/TJ-Thursday.rpy:1180
+# game/TJ-Thursday.rpy:1181
 translate Schinese tjthursday_93eec4a1:
 
     # "It won't be long before that won't be the case, though."
     "It won't be long before that won't be the case, though."
 
-# game/TJ-Thursday.rpy:1182
+# game/TJ-Thursday.rpy:1183
 translate Schinese tjthursday_df0d82b1:
 
     # "I pull off to the side of the road in the spot where I think the birdhouse might be."
     "I pull off to the side of the road in the spot where I think the birdhouse might be."
 
-# game/TJ-Thursday.rpy:1184
+# game/TJ-Thursday.rpy:1185
 translate Schinese tjthursday_df2817a5:
 
     # "It's been well over a decade since the last time I've seen it."
     "It's been well over a decade since the last time I've seen it."
 
-# game/TJ-Thursday.rpy:1185
+# game/TJ-Thursday.rpy:1186
 translate Schinese tjthursday_cf253d2f:
 
     # "This is probably where the treasure hunt is going to end considering the time that's passed."
     "This is probably where the treasure hunt is going to end considering the time that's passed."
 
-# game/TJ-Thursday.rpy:1186
+# game/TJ-Thursday.rpy:1187
 translate Schinese tjthursday_2ae921b2:
 
     # "The birdhouse probably isn't even there anymore."
     "The birdhouse probably isn't even there anymore."
 
-# game/TJ-Thursday.rpy:1187
+# game/TJ-Thursday.rpy:1188
 translate Schinese tjthursday_376c5294:
 
     # "We all step out of the car into the warm, evening air."
     "We all step out of the car into the warm, evening air."
 
-# game/TJ-Thursday.rpy:1189
+# game/TJ-Thursday.rpy:1190
 translate Schinese tjthursday_caaa59cd:
 
     # "Carl folds his arms on the hood of the car and grins at me."
     "Carl folds his arms on the hood of the car and grins at me."
 
-# game/TJ-Thursday.rpy:1190
+# game/TJ-Thursday.rpy:1191
 translate Schinese tjthursday_8300a574:
 
     # c "\"See? Even with the sun gone it's roasting. 'Least you can drive me home now.\""
     c "\"See? Even with the sun gone it's roasting. 'Least you can drive me home now.\""
 
-# game/TJ-Thursday.rpy:1191
+# game/TJ-Thursday.rpy:1192
 translate Schinese tjthursday_c806ebc0_1:
 
     # m "\"Yeah.\""
     m "\"Yeah.\""
 
-# game/TJ-Thursday.rpy:1192
+# game/TJ-Thursday.rpy:1193
 translate Schinese tjthursday_ebfe6a68:
 
     # "I look over at Leo's house, but his truck is gone."
     "I look over at Leo's house, but his truck is gone."
 
-# game/TJ-Thursday.rpy:1193
+# game/TJ-Thursday.rpy:1194
 translate Schinese tjthursday_77f6e3b3:
 
     # "TJ catches my glance."
     "TJ catches my glance."
 
-# game/TJ-Thursday.rpy:1195
+# game/TJ-Thursday.rpy:1196
 translate Schinese tjthursday_dcbdf7b7:
 
     # t "\"I might tell him what's going on if we find something and you want him to join us.\""
     t "\"I might tell him what's going on if we find something and you want him to join us.\""
 
-# game/TJ-Thursday.rpy:1196
+# game/TJ-Thursday.rpy:1197
 translate Schinese tjthursday_eb6a65d9:
 
     # "TJ picks at his claws."
     "TJ picks at his claws."
 
-# game/TJ-Thursday.rpy:1197
+# game/TJ-Thursday.rpy:1198
 translate Schinese tjthursday_40bb0fd8:
 
     # m "\"It's alright.\""
     m "\"It's alright.\""
 
-# game/TJ-Thursday.rpy:1198
+# game/TJ-Thursday.rpy:1199
 translate Schinese tjthursday_ee0e6699:
 
     # "I give him a quick side hug as we step up to the edge of the trees."
     "I give him a quick side hug as we step up to the edge of the trees."
 
-# game/TJ-Thursday.rpy:1199
+# game/TJ-Thursday.rpy:1200
 translate Schinese tjthursday_2d9d57b0:
 
     # "I can see why TJ doesn't want to tell Leo about this."
     "I can see why TJ doesn't want to tell Leo about this."
 
-# game/TJ-Thursday.rpy:1200
+# game/TJ-Thursday.rpy:1201
 translate Schinese tjthursday_e8cc1e0e:
 
     # "He was right about Leo pretending it didn't happen."
     "He was right about Leo pretending it didn't happen."
 
-# game/TJ-Thursday.rpy:1201
+# game/TJ-Thursday.rpy:1202
 translate Schinese tjthursday_e5fc71f7:
 
     # "I can't imagine it would go well if we told him about drudging up old Sydney scavenger hunts."
     "I can't imagine it would go well if we told him about drudging up old Sydney scavenger hunts."
 
-# game/TJ-Thursday.rpy:1203
+# game/TJ-Thursday.rpy:1204
 translate Schinese tjthursday_18a72e0a_1:
 
     # j "\"So, where is it?\""
     j "\"So, where is it?\""
 
-# game/TJ-Thursday.rpy:1204
+# game/TJ-Thursday.rpy:1205
 translate Schinese tjthursday_33f591b8:
 
     # "Jenna looks into the empty ditch between us and the forest, wrinkling her nose at the old scraps of garbage inside."
     "Jenna looks into the empty ditch between us and the forest, wrinkling her nose at the old scraps of garbage inside."
 
-# game/TJ-Thursday.rpy:1205
+# game/TJ-Thursday.rpy:1206
 translate Schinese tjthursday_5a85a31a:
 
     # c "\"Well...\""
     c "\"Well...\""
 
-# game/TJ-Thursday.rpy:1206
+# game/TJ-Thursday.rpy:1207
 translate Schinese tjthursday_87a5ddc7:
 
     # "Carl looks up and down the tree line, squinting."
     "Carl looks up and down the tree line, squinting."
 
-# game/TJ-Thursday.rpy:1207
+# game/TJ-Thursday.rpy:1208
 translate Schinese tjthursday_37894017:
 
     # c "\"It kinda looks different now, but I think it's about here. It's only like, ten feet in, right?\""
     c "\"It kinda looks different now, but I think it's about here. It's only like, ten feet in, right?\""
 
-# game/TJ-Thursday.rpy:1208
+# game/TJ-Thursday.rpy:1209
 translate Schinese tjthursday_23b3c2a4:
 
     # "Carl looks at me."
     "Carl looks at me."
 
-# game/TJ-Thursday.rpy:1209
+# game/TJ-Thursday.rpy:1210
 translate Schinese tjthursday_09065236:
 
     # m "\"That sounds about right.\""
     m "\"That sounds about right.\""
 
-# game/TJ-Thursday.rpy:1210
+# game/TJ-Thursday.rpy:1211
 translate Schinese tjthursday_6064646d:
 
     # t "\"We can fan out and check all the trees that close to the road.\""
     t "\"We can fan out and check all the trees that close to the road.\""
 
-# game/TJ-Thursday.rpy:1212
+# game/TJ-Thursday.rpy:1213
 translate Schinese tjthursday_8d266bdc:
 
     # "TJ jumps across the ditch lightly, much more lightly than the clumsy hop I execute right after."
     "TJ jumps across the ditch lightly, much more lightly than the clumsy hop I execute right after."
 
-# game/TJ-Thursday.rpy:1216
+# game/TJ-Thursday.rpy:1217
 translate Schinese tjthursday_91ba6bf4:
 
     # "I land unevenly on the opposite incline and windmill my arms as I lean back."
     "I land unevenly on the opposite incline and windmill my arms as I lean back."
 
-# game/TJ-Thursday.rpy:1217
+# game/TJ-Thursday.rpy:1218
 translate Schinese tjthursday_0d6b6edf:
 
     # "Carl starts laughing before I even fall, but TJ reaches out and grabs me by the shirt, yanking me back up from the ditch."
     "Carl starts laughing before I even fall, but TJ reaches out and grabs me by the shirt, yanking me back up from the ditch."
 
-# game/TJ-Thursday.rpy:1219
+# game/TJ-Thursday.rpy:1220
 translate Schinese tjthursday_79104dae:
 
     # "I fall into him awkwardly and quickly step back, brushing myself off, even though there isn't anything on me."
     "I fall into him awkwardly and quickly step back, brushing myself off, even though there isn't anything on me."
 
-# game/TJ-Thursday.rpy:1220
+# game/TJ-Thursday.rpy:1221
 translate Schinese tjthursday_bf2f8a6a:
 
     # t "\"Are you okay?\""
     t "\"Are you okay?\""
 
-# game/TJ-Thursday.rpy:1221
+# game/TJ-Thursday.rpy:1222
 translate Schinese tjthursday_cac4092c:
 
     # m "\"I'm fine, thanks.\""
     m "\"I'm fine, thanks.\""
 
-# game/TJ-Thursday.rpy:1222
+# game/TJ-Thursday.rpy:1223
 translate Schinese tjthursday_2f862e82:
 
     # "I glare over at Carl who's still laughing."
     "I glare over at Carl who's still laughing."
 
-# game/TJ-Thursday.rpy:1223
+# game/TJ-Thursday.rpy:1224
 translate Schinese tjthursday_992bd054:
 
     # c "\"Did you even try, man?\""
     c "\"Did you even try, man?\""
 
-# game/TJ-Thursday.rpy:1224
+# game/TJ-Thursday.rpy:1225
 translate Schinese tjthursday_93a6d977:
 
     # "He leaps over easily, clearing the ditch along with a few more feet."
     "He leaps over easily, clearing the ditch along with a few more feet."
 
-# game/TJ-Thursday.rpy:1225
+# game/TJ-Thursday.rpy:1226
 translate Schinese tjthursday_d3794f63:
 
     # m "\"That's not fair, I'm an otter.\""
     m "\"That's not fair, I'm an otter.\""
 
-# game/TJ-Thursday.rpy:1227
+# game/TJ-Thursday.rpy:1228
 translate Schinese tjthursday_883e268f:
 
     # c "\"Don't let that hold you back from achieving your dreams.\""
     c "\"Don't let that hold you back from achieving your dreams.\""
 
-# game/TJ-Thursday.rpy:1228
+# game/TJ-Thursday.rpy:1229
 translate Schinese tjthursday_e76d5065:
 
     # "Jenna elects to delicately step around the garbage before climbing up the other side."
     "Jenna elects to delicately step around the garbage before climbing up the other side."
 
-# game/TJ-Thursday.rpy:1229
+# game/TJ-Thursday.rpy:1230
 translate Schinese tjthursday_5dc02c89:
 
     # t "\"It's okay, you swim better than any of us, Chase.\""
     t "\"It's okay, you swim better than any of us, Chase.\""
 
-# game/TJ-Thursday.rpy:1230
+# game/TJ-Thursday.rpy:1231
 translate Schinese tjthursday_3f739ce1_3:
 
     # "I sigh."
     "I sigh."
 
-# game/TJ-Thursday.rpy:1231
+# game/TJ-Thursday.rpy:1232
 translate Schinese tjthursday_88fb6682:
 
     # m "\"Thanks, TJ.\""
     m "\"Thanks, TJ.\""
 
-# game/TJ-Thursday.rpy:1232
+# game/TJ-Thursday.rpy:1233
 translate Schinese tjthursday_78980f7b:
 
     # "I turn back to the forest which is much darker as the light struggles to filter through the branches and leaves."
     "I turn back to the forest which is much darker as the light struggles to filter through the branches and leaves."
 
-# game/TJ-Thursday.rpy:1233
+# game/TJ-Thursday.rpy:1234
 translate Schinese tjthursday_a49749bb:
 
     # m "\"Well, let's start before it gets too dark.\""
     m "\"Well, let's start before it gets too dark.\""
 
-# game/TJ-Thursday.rpy:1237
+# game/TJ-Thursday.rpy:1238
 translate Schinese tjthursday_f649b2ad:
 
     # "As we spread out amongst the trees, I'm struck with how quiet it is."
     "As we spread out amongst the trees, I'm struck with how quiet it is."
 
-# game/TJ-Thursday.rpy:1238
+# game/TJ-Thursday.rpy:1239
 translate Schinese tjthursday_bda1becf:
 
     # "The only sound is the crunch of our feet on the dead vegetation and that starts to fade as the others move further away from me."
     "The only sound is the crunch of our feet on the dead vegetation and that starts to fade as the others move further away from me."
 
-# game/TJ-Thursday.rpy:1239
+# game/TJ-Thursday.rpy:1240
 translate Schinese tjthursday_d9da5086:
 
     # "I zigzag through the trees, trying to get a look at their full circumferences."
     "I zigzag through the trees, trying to get a look at their full circumferences."
 
-# game/TJ-Thursday.rpy:1240
+# game/TJ-Thursday.rpy:1241
 translate Schinese tjthursday_14c419fa:
 
     # "From what I remember, the birdhouse was a plain old wooden thing that hardly stood out from the trunk that it was attached to."
     "From what I remember, the birdhouse was a plain old wooden thing that hardly stood out from the trunk that it was attached to."
 
-# game/TJ-Thursday.rpy:1241
+# game/TJ-Thursday.rpy:1242
 translate Schinese tjthursday_860bf578:
 
     # "We might not see it even if we were looking right at it."
     "We might not see it even if we were looking right at it."
 
-# game/TJ-Thursday.rpy:1242
+# game/TJ-Thursday.rpy:1243
 translate Schinese tjthursday_ad268f68:
 
     # "While it's been a long time, walking between these trees does bring back some memories."
     "While it's been a long time, walking between these trees does bring back some memories."
 
-# game/TJ-Thursday.rpy:1243
+# game/TJ-Thursday.rpy:1244
 translate Schinese tjthursday_3846b056:
 
     # "We stopped coming here after what happened to Sydney, mainly because this was his favorite place to hang out."
     "We stopped coming here after what happened to Sydney, mainly because this was his favorite place to hang out."
 
-# game/TJ-Thursday.rpy:1244
+# game/TJ-Thursday.rpy:1245
 translate Schinese tjthursday_e49adff2:
 
     # "He liked to play capture the flag here."
     "He liked to play capture the flag here."
 
-# game/TJ-Thursday.rpy:1245
+# game/TJ-Thursday.rpy:1246
 translate Schinese tjthursday_d77f061a:
 
     # "I can still remember how fast he was, how I'd only catch glimpses of his tail between the trees before he disappeared with the flag."
     "I can still remember how fast he was, how I'd only catch glimpses of his tail between the trees before he disappeared with the flag."
 
-# game/TJ-Thursday.rpy:1246
+# game/TJ-Thursday.rpy:1247
 translate Schinese tjthursday_0a3d9294:
 
     # "His team won almost every time."
     "His team won almost every time."
 
-# game/TJ-Thursday.rpy:1247
+# game/TJ-Thursday.rpy:1248
 translate Schinese tjthursday_7f39cee3:
 
     # "The summer of 2002 was the last time we played."
     "The summer of 2002 was the last time we played."
 
-# game/TJ-Thursday.rpy:1248
+# game/TJ-Thursday.rpy:1249
 translate Schinese tjthursday_9352f791:
 
     # "Sydney had even been getting along better with TJ then."
     "Sydney had even been getting along better with TJ then."
 
-# game/TJ-Thursday.rpy:1249
+# game/TJ-Thursday.rpy:1250
 translate Schinese tjthursday_6944fb76:
 
     # "That might have been the best summer of my life until it happened."
     "That might have been the best summer of my life until it happened."
 
-# game/TJ-Thursday.rpy:1250
+# game/TJ-Thursday.rpy:1251
 translate Schinese tjthursday_f37b72be:
 
     # "It was almost like Echo saw us having too much fun and wanted to end it..."
     "It was almost like Echo saw us having too much fun and wanted to end it..."
 
-# game/TJ-Thursday.rpy:1251
+# game/TJ-Thursday.rpy:1252
 translate Schinese tjthursday_7eaca355:
 
     # "...for good."
     "...for good."
 
-# game/TJ-Thursday.rpy:1252
+# game/TJ-Thursday.rpy:1253
 translate Schinese tjthursday_570a6836:
 
     # "Sydney had still been a dick, though."
     "Sydney had still been a dick, though."
 
-# game/TJ-Thursday.rpy:1253
+# game/TJ-Thursday.rpy:1254
 translate Schinese tjthursday_3d77afb4:
 
     # "The image of Sydney whipping TJ mercilessly with the towel we used as a flag comes to mind."
     "The image of Sydney whipping TJ mercilessly with the towel we used as a flag comes to mind."
 
-# game/TJ-Thursday.rpy:1254
+# game/TJ-Thursday.rpy:1255
 translate Schinese tjthursday_39718388:
 
     # "I move closer to the edge of the tree line before slanting back in again."
     "I move closer to the edge of the tree line before slanting back in again."
 
-# game/TJ-Thursday.rpy:1255
+# game/TJ-Thursday.rpy:1256
 translate Schinese tjthursday_9406b8e5:
 
     # "Looking up between the branches, I see that the sky is a darker blue now."
     "Looking up between the branches, I see that the sky is a darker blue now."
 
-# game/TJ-Thursday.rpy:1256
+# game/TJ-Thursday.rpy:1257
 translate Schinese tjthursday_edd24e1c:
 
     # "Pretty soon it'll be pitch black."
     "Pretty soon it'll be pitch black."
 
-# game/TJ-Thursday.rpy:1257
+# game/TJ-Thursday.rpy:1258
 translate Schinese tjthursday_8a35cf6e:
 
     # "It was about this light the last time I was here."
     "It was about this light the last time I was here."
 
-# game/TJ-Thursday.rpy:1258
+# game/TJ-Thursday.rpy:1259
 translate Schinese tjthursday_36971799:
 
     # "I'd come alone and I was ten, maybe 9?"
     "I'd come alone and I was ten, maybe 9?"
 
-# game/TJ-Thursday.rpy:1259
+# game/TJ-Thursday.rpy:1260
 translate Schinese tjthursday_d5d37bc4:
 
     # "It's hard to remember now, but I think I'd gone there because I was sad."
     "It's hard to remember now, but I think I'd gone there because I was sad."
 
-# game/TJ-Thursday.rpy:1261
+# game/TJ-Thursday.rpy:1262
 translate Schinese tjthursday_2376e83e:
 
     # "I'd had good memories of the forest, so I thought going there might make me feel better."
     "I'd had good memories of the forest, so I thought going there might make me feel better."
 
-# game/TJ-Thursday.rpy:1262
+# game/TJ-Thursday.rpy:1263
 translate Schinese tjthursday_62ff2b4b:
 
     # "I was standing in the forest, waiting to see if I did feel better."
     "I was standing in the forest, waiting to see if I did feel better."
 
-# game/TJ-Thursday.rpy:1263
+# game/TJ-Thursday.rpy:1264
 translate Schinese tjthursday_5d18cb9e:
 
     # "It didn't happen, so I'd sat down in the leaves and started crying."
     "It didn't happen, so I'd sat down in the leaves and started crying."
 
-# game/TJ-Thursday.rpy:1264
+# game/TJ-Thursday.rpy:1265
 translate Schinese tjthursday_5e445def:
 
     # "I was there for maybe five minutes before I heard some branches creaking above me."
     "I was there for maybe five minutes before I heard some branches creaking above me."
 
-# game/TJ-Thursday.rpy:1266
+# game/TJ-Thursday.rpy:1267
 translate Schinese tjthursday_04ca554c:
 
     # "I'd looked and saw feet swinging around."
     "I'd looked and saw feet swinging around."
 
-# game/TJ-Thursday.rpy:1267
+# game/TJ-Thursday.rpy:1268
 translate Schinese tjthursday_f0b8761e:
 
     # "This confused me, so I stood up and backed away, staring up as I slowly realized I was seeing a fox being hung by its neck."
     "This confused me, so I stood up and backed away, staring up as I slowly realized I was seeing a fox being hung by its neck."
 
-# game/TJ-Thursday.rpy:1268
+# game/TJ-Thursday.rpy:1269
 translate Schinese tjthursday_a2acde96:
 
     # "Even now I can remember the way he looked, his overalls and his white shirt."
     "Even now I can remember the way he looked, his overalls and his white shirt."
 
-# game/TJ-Thursday.rpy:1269
+# game/TJ-Thursday.rpy:1270
 translate Schinese tjthursday_00f2063b:
 
     # "His head had been tilted down toward me, his tongue lulling out of his muzzle, his eyes blank."
     "His head had been tilted down toward me, his tongue lulling out of his muzzle, his eyes blank."
 
-# game/TJ-Thursday.rpy:1270
+# game/TJ-Thursday.rpy:1271
 translate Schinese tjthursday_a2ac6087:
 
     # "I can even remember what looked like pinkish red blood on the white fur of his chin."
     "I can even remember what looked like pinkish red blood on the white fur of his chin."
 
-# game/TJ-Thursday.rpy:1271
+# game/TJ-Thursday.rpy:1272
 translate Schinese tjthursday_b9f45726:
 
     # "Then I tripped over a branch and when I looked back up, he was gone."
     "Then I tripped over a branch and when I looked back up, he was gone."
 
-# game/TJ-Thursday.rpy:1272
+# game/TJ-Thursday.rpy:1273
 translate Schinese tjthursday_dec9e529:
 
     # "I can't remember much after that except that I'd gone home and told my parents."
     "I can't remember much after that except that I'd gone home and told my parents."
 
-# game/TJ-Thursday.rpy:1273
+# game/TJ-Thursday.rpy:1274
 translate Schinese tjthursday_1adb8101:
 
     # "That ended up with me seeing a doctor."
     "That ended up with me seeing a doctor."
 
-# game/TJ-Thursday.rpy:1274
+# game/TJ-Thursday.rpy:1275
 translate Schinese tjthursday_0e0fb969:
 
     # "They never found anything wrong with me, at least anything that might relate to seeing things."
     "They never found anything wrong with me, at least anything that might relate to seeing things."
 
-# game/TJ-Thursday.rpy:1275
+# game/TJ-Thursday.rpy:1276
 translate Schinese tjthursday_2d053d19:
 
     # "In the end we were told that sometimes kids hallucinate, that it would stop happening as I got older."
     "In the end we were told that sometimes kids hallucinate, that it would stop happening as I got older."
 
-# game/TJ-Thursday.rpy:1276
+# game/TJ-Thursday.rpy:1277
 translate Schinese tjthursday_9502d040:
 
     # "I hug myself, feeling cold and a little scared now that I've brought up that old memory."
     "I hug myself, feeling cold and a little scared now that I've brought up that old memory."
 
-# game/TJ-Thursday.rpy:1277
+# game/TJ-Thursday.rpy:1278
 translate Schinese tjthursday_29f6c589:
 
     # "While I know that I was at the age where kids hallucinate most often, I still can't get out of my mind how real it had been."
     "While I know that I was at the age where kids hallucinate most often, I still can't get out of my mind how real it had been."
 
-# game/TJ-Thursday.rpy:1278
+# game/TJ-Thursday.rpy:1279
 translate Schinese tjthursday_fcefaa49:
 
     # "Still, that's not exactly what's giving me the chills right now."
     "Still, that's not exactly what's giving me the chills right now."
 
-# game/TJ-Thursday.rpy:1279
+# game/TJ-Thursday.rpy:1280
 translate Schinese tjthursday_37eb7080:
 
     # "Because I just realized that that had been the summer after Sydney passed."
     "Because I just realized that that had been the summer after Sydney passed."
 
-# game/TJ-Thursday.rpy:1280
+# game/TJ-Thursday.rpy:1281
 translate Schinese tjthursday_6d396a74:
 
     # "That's why I was sad, because I remembered how happy the summer before that had been."
     "That's why I was sad, because I remembered how happy the summer before that had been."
 
-# game/TJ-Thursday.rpy:1281
+# game/TJ-Thursday.rpy:1282
 translate Schinese tjthursday_8cd0cbb9:
 
     # "So what Sydney wrote doesn't make any sense."
     "So what Sydney wrote doesn't make any sense."
 
-# game/TJ-Thursday.rpy:1282
+# game/TJ-Thursday.rpy:1283
 translate Schinese tjthursday_c24e54d2:
 
     # "Unless I'm going crazy..."
     "Unless I'm going crazy..."
 
-# game/TJ-Thursday.rpy:1283
+# game/TJ-Thursday.rpy:1284
 translate Schinese tjthursday_169f3ccc:
 
     # "A creak behind me makes me jump and I whirl around, eyes scanning the branches, terrified of what I might find."
     "A creak behind me makes me jump and I whirl around, eyes scanning the branches, terrified of what I might find."
 
-# game/TJ-Thursday.rpy:1284
+# game/TJ-Thursday.rpy:1285
 translate Schinese tjthursday_5081e1c2:
 
     # "But there's nothing there, just branches creaking in the wind."
     "But there's nothing there, just branches creaking in the wind."
 
-# game/TJ-Thursday.rpy:1286
+# game/TJ-Thursday.rpy:1287
 translate Schinese tjthursday_2d009864:
 
     # "I stare for a while longer before a shout from far down the line of trees makes me jump."
     "I stare for a while longer before a shout from far down the line of trees makes me jump."
 
-# game/TJ-Thursday.rpy:1287
+# game/TJ-Thursday.rpy:1288
 translate Schinese tjthursday_2998a683:
 
     # t "\"I found it!\""
     t "\"I found it!\""
 
-# game/TJ-Thursday.rpy:1288
+# game/TJ-Thursday.rpy:1289
 translate Schinese tjthursday_f74f9f98:
 
     # "It's TJ's voice, high-pitched and excited."
     "It's TJ's voice, high-pitched and excited."
 
-# game/TJ-Thursday.rpy:1289
+# game/TJ-Thursday.rpy:1290
 translate Schinese tjthursday_9e288e01:
 
     # "I shake myself out of my trance and start jogging towards where the lynx's voice came from."
     "I shake myself out of my trance and start jogging towards where the lynx's voice came from."
 
-# game/TJ-Thursday.rpy:1290
+# game/TJ-Thursday.rpy:1291
 translate Schinese tjthursday_7aa848d5:
 
     # "Maybe I've confused things and I'm just remembering things incorrectly."
     "Maybe I've confused things and I'm just remembering things incorrectly."
 
-# game/TJ-Thursday.rpy:1291
+# game/TJ-Thursday.rpy:1292
 translate Schinese tjthursday_f10094ee:
 
     # "It's the only thing that makes sense."
     "It's the only thing that makes sense."
 
-# game/TJ-Thursday.rpy:1292
+# game/TJ-Thursday.rpy:1293
 translate Schinese tjthursday_78913fc7:
 
     # "As I come up on the lynx, Carl and Jenna are already there, standing around a tree trunk."
     "As I come up on the lynx, Carl and Jenna are already there, standing around a tree trunk."
 
-# game/TJ-Thursday.rpy:1293
+# game/TJ-Thursday.rpy:1294
 translate Schinese tjthursday_57d1cfb3:
 
     # "Sure enough, a little wooden birdhouse is tied to the trunk with rusty wires."
     "Sure enough, a little wooden birdhouse is tied to the trunk with rusty wires."
 
-# game/TJ-Thursday.rpy:1296
+# game/TJ-Thursday.rpy:1297
 translate Schinese tjthursday_e4580938:
 
     # c "\"I can't believe it's still here.\""
     c "\"I can't believe it's still here.\""
 
-# game/TJ-Thursday.rpy:1298
+# game/TJ-Thursday.rpy:1299
 translate Schinese tjthursday_020354b3:
 
     # t "\"It does look pretty beat up.\""
     t "\"It does look pretty beat up.\""
 
-# game/TJ-Thursday.rpy:1300
+# game/TJ-Thursday.rpy:1301
 translate Schinese tjthursday_4f66437c:
 
     # "Jenna points to a little wooden plug in the opening."
     "Jenna points to a little wooden plug in the opening."
 
-# game/TJ-Thursday.rpy:1301
+# game/TJ-Thursday.rpy:1302
 translate Schinese tjthursday_373f7472:
 
     # j "\"It's closed up.\""
     j "\"It's closed up.\""
 
-# game/TJ-Thursday.rpy:1302
+# game/TJ-Thursday.rpy:1303
 translate Schinese tjthursday_62ed16a2:
 
     # m "\"Think it's been closed this whole time?\""
     m "\"Think it's been closed this whole time?\""
 
-# game/TJ-Thursday.rpy:1303
+# game/TJ-Thursday.rpy:1304
 translate Schinese tjthursday_47867822:
 
     # t "\"I dunno, maybe...\""
     t "\"I dunno, maybe...\""
 
-# game/TJ-Thursday.rpy:1304
+# game/TJ-Thursday.rpy:1305
 translate Schinese tjthursday_600cc41f:
 
     # "TJ pokes at the plug with a claw, then grips around the edges with all his claws before gently pulling the wooden, cork-like thing out."
     "TJ pokes at the plug with a claw, then grips around the edges with all his claws before gently pulling the wooden, cork-like thing out."
 
-# game/TJ-Thursday.rpy:1305
+# game/TJ-Thursday.rpy:1306
 translate Schinese tjthursday_95740645:
 
     # "A thick, sticky looking trail of cobwebs follows it."
     "A thick, sticky looking trail of cobwebs follows it."
 
-# game/TJ-Thursday.rpy:1306
+# game/TJ-Thursday.rpy:1307
 translate Schinese tjthursday_e88b59fd:
 
     # "We all stare into the dark hole that's revealed."
     "We all stare into the dark hole that's revealed."
 
-# game/TJ-Thursday.rpy:1307
+# game/TJ-Thursday.rpy:1308
 translate Schinese tjthursday_e535f377:
 
     # c "\"Chase, wanna reach in there? I'm sure there aren't any spiders.\""
     c "\"Chase, wanna reach in there? I'm sure there aren't any spiders.\""
 
-# game/TJ-Thursday.rpy:1308
+# game/TJ-Thursday.rpy:1309
 translate Schinese tjthursday_f4bb4552:
 
     # "I shiver involuntarily."
     "I shiver involuntarily."
 
-# game/TJ-Thursday.rpy:1309
+# game/TJ-Thursday.rpy:1310
 translate Schinese tjthursday_b60c20f2:
 
     # t "\"Uh, I don't really want to either.\""
     t "\"Uh, I don't really want to either.\""
 
-# game/TJ-Thursday.rpy:1310
+# game/TJ-Thursday.rpy:1311
 translate Schinese tjthursday_dcbfb4cc:
 
     # "Jenna sighs before pushing past TJ."
     "Jenna sighs before pushing past TJ."
 
-# game/TJ-Thursday.rpy:1311
+# game/TJ-Thursday.rpy:1312
 translate Schinese tjthursday_5cc9a4e3:
 
     # "Bending over, she picks up a twig and sticks it into the hole before swirling it around."
     "Bending over, she picks up a twig and sticks it into the hole before swirling it around."
 
-# game/TJ-Thursday.rpy:1312
+# game/TJ-Thursday.rpy:1313
 translate Schinese tjthursday_0faa5d57:
 
     # "When she pulls it back out it's like she's made a cotton candy cone of spider webs."
     "When she pulls it back out it's like she's made a cotton candy cone of spider webs."
 
-# game/TJ-Thursday.rpy:1313
+# game/TJ-Thursday.rpy:1314
 translate Schinese tjthursday_6e66acbc:
 
     # "She drops that then takes out her phone, turning on the flash before holding it up to the opening."
     "She drops that then takes out her phone, turning on the flash before holding it up to the opening."
 
-# game/TJ-Thursday.rpy:1314
+# game/TJ-Thursday.rpy:1315
 translate Schinese tjthursday_5c81335b:
 
     # j "\"Well...\""
     j "\"Well...\""
 
-# game/TJ-Thursday.rpy:1315
+# game/TJ-Thursday.rpy:1316
 translate Schinese tjthursday_cd726dbb:
 
     # "We all wait anxiously for her to say something."
     "We all wait anxiously for her to say something."
 
-# game/TJ-Thursday.rpy:1316
+# game/TJ-Thursday.rpy:1317
 translate Schinese tjthursday_54e0e63f:
 
     # j "\"There is something here.\""
     j "\"There is something here.\""
 
-# game/TJ-Thursday.rpy:1317
+# game/TJ-Thursday.rpy:1318
 translate Schinese tjthursday_62bcefa7:
 
     # "With that, she reaches in with just her fingers."
     "With that, she reaches in with just her fingers."
 
-# game/TJ-Thursday.rpy:1318
+# game/TJ-Thursday.rpy:1319
 translate Schinese tjthursday_d7596f70:
 
     # "After a few crinkling sounds, she pulls out a zip lock bag and inside is a folded up piece of paper and a blue comb."
     "After a few crinkling sounds, she pulls out a zip lock bag and inside is a folded up piece of paper and a blue comb."
 
-# game/TJ-Thursday.rpy:1319
+# game/TJ-Thursday.rpy:1320
 translate Schinese tjthursday_ea3676fb:
 
     # c "\"Ho—lee shit, no way...\""
     c "\"Ho—lee shit, no way...\""
 
-# game/TJ-Thursday.rpy:1320
+# game/TJ-Thursday.rpy:1321
 translate Schinese tjthursday_2892157d:
 
     # t "\"Well, no one ever comes back here, so I guess it makes sense.\""
     t "\"Well, no one ever comes back here, so I guess it makes sense.\""
 
-# game/TJ-Thursday.rpy:1321
+# game/TJ-Thursday.rpy:1322
 translate Schinese tjthursday_7e677a5d:
 
     # c "\"He actually put a comb in there to make it rhyme, haha.\""
     c "\"He actually put a comb in there to make it rhyme, haha.\""
 
-# game/TJ-Thursday.rpy:1322
+# game/TJ-Thursday.rpy:1323
 translate Schinese tjthursday_cb05a1d7:
 
     # "Jenna makes a few jerking motions away from the birdhouse to get rid of the cobwebs."
     "Jenna makes a few jerking motions away from the birdhouse to get rid of the cobwebs."
 
-# game/TJ-Thursday.rpy:1323
-translate Schinese tjthursday_c293da9a:
-
-    # "She looks around, the sticks it out to me."
-    "She looks around, the sticks it out to me."
-
 # game/TJ-Thursday.rpy:1324
+translate Schinese tjthursday_e1f561dd:
+
+    # "She looks around, then sticks it out to me."
+    "She looks around, then sticks it out to me."
+
+# game/TJ-Thursday.rpy:1325
 translate Schinese tjthursday_028659ed:
 
     # j "\"Since you read the last one.\""
     j "\"Since you read the last one.\""
 
-# game/TJ-Thursday.rpy:1325
+# game/TJ-Thursday.rpy:1326
 translate Schinese tjthursday_1f228d29_2:
 
     # m "\"Okay.\""
     m "\"Okay.\""
 
-# game/TJ-Thursday.rpy:1326
+# game/TJ-Thursday.rpy:1327
 translate Schinese tjthursday_c49367ae:
 
     # "I glance at TJ, but he doesn't make any indication that he might want it."
     "I glance at TJ, but he doesn't make any indication that he might want it."
 
-# game/TJ-Thursday.rpy:1327
+# game/TJ-Thursday.rpy:1328
 translate Schinese tjthursday_d257a1e4:
 
     # "The bag is covered in what looks like dirt and cobwebs, a few clumps of both dangle from the bottom."
     "The bag is covered in what looks like dirt and cobwebs, a few clumps of both dangle from the bottom."
 
-# game/TJ-Thursday.rpy:1328
+# game/TJ-Thursday.rpy:1329
 translate Schinese tjthursday_725b4c4c:
 
     # "I open it carefully and when I pull out the paper I can tell that it's been wet a few times."
     "I open it carefully and when I pull out the paper I can tell that it's been wet a few times."
 
-# game/TJ-Thursday.rpy:1329
+# game/TJ-Thursday.rpy:1330
 translate Schinese tjthursday_c2afee84:
 
     # "It's a little crumpled, but when I unfold it the water damage isn't bad enough that I can't read it."
     "It's a little crumpled, but when I unfold it the water damage isn't bad enough that I can't read it."
 
-# game/TJ-Thursday.rpy:1330
+# game/TJ-Thursday.rpy:1331
 translate Schinese tjthursday_9a42d454:
 
     # "Still, the paper immediately splits in two this time and I have to hold them up together as I read it."
     "Still, the paper immediately splits in two this time and I have to hold them up together as I read it."
 
-# game/TJ-Thursday.rpy:1331
+# game/TJ-Thursday.rpy:1332
 translate Schinese tjthursday_8432abc3:
 
     # "It's dark to the point where I have to have Carl hold up his phone to give me some light."
     "It's dark to the point where I have to have Carl hold up his phone to give me some light."
 
-# game/TJ-Thursday.rpy:1332
+# game/TJ-Thursday.rpy:1333
 translate Schinese tjthursday_848ddb1f:
 
     # "\"Good job! but that was a little easy right?\""
     "\"Good job! but that was a little easy right?\""
 
-# game/TJ-Thursday.rpy:1333
+# game/TJ-Thursday.rpy:1334
 translate Schinese tjthursday_86654e2f:
 
     # "\"Next we will find out how brave you are (I know this was already a scary test for Chase but that doesn't count).\""
     "\"Next we will find out how brave you are (I know this was already a scary test for Chase but that doesn't count).\""
 
-# game/TJ-Thursday.rpy:1334
+# game/TJ-Thursday.rpy:1335
 translate Schinese tjthursday_d6ba968d:
 
     # "{cps=22}{font=ui/belligerent.ttf}Do you really remember?"
     "{cps=22}{font=ui/belligerent.ttf}Do you really remember?"
 
-# game/TJ-Thursday.rpy:1335
+# game/TJ-Thursday.rpy:1336
 translate Schinese tjthursday_ec2eafaf:
 
     # "\"get a flashlight and make sure leo is with you!\""
     "\"get a flashlight and make sure leo is with you!\""
 
-# game/TJ-Thursday.rpy:1336
+# game/TJ-Thursday.rpy:1337
 translate Schinese tjthursday_55737712:
 
     # "\"Here it is!\""
     "\"Here it is!\""
 
-# game/TJ-Thursday.rpy:1337
+# game/TJ-Thursday.rpy:1338
 translate Schinese tjthursday_e132a4cc:
 
     # "\"Stay in school, it will be cool.\""
     "\"Stay in school, it will be cool.\""
 
-# game/TJ-Thursday.rpy:1338
+# game/TJ-Thursday.rpy:1339
 translate Schinese tjthursday_5dcb658d:
 
     # "\"We'll have fun in 301.\""
     "\"We'll have fun in 301.\""
 
-# game/TJ-Thursday.rpy:1339
+# game/TJ-Thursday.rpy:1340
 translate Schinese tjthursday_25679224:
 
     # "\"I hope you don't die!\""
     "\"I hope you don't die!\""
 
-# game/TJ-Thursday.rpy:1340
+# game/TJ-Thursday.rpy:1341
 translate Schinese tjthursday_12648761_1:
 
     # "\"-Syd\""
     "\"-Syd\""
 
-# game/TJ-Thursday.rpy:1342
+# game/TJ-Thursday.rpy:1343
 translate Schinese tjthursday_69d85654:
 
     # "We're all quiet for a moment, then TJ giggles."
     "We're all quiet for a moment, then TJ giggles."
 
-# game/TJ-Thursday.rpy:1343
+# game/TJ-Thursday.rpy:1344
 translate Schinese tjthursday_024fc14f:
 
     # "I look at him, but he's covering his mouth with a hand so I can't see him smiling."
     "I look at him, but he's covering his mouth with a hand so I can't see him smiling."
 
-# game/TJ-Thursday.rpy:1344
+# game/TJ-Thursday.rpy:1345
 translate Schinese tjthursday_9dd2975a:
 
     # t "\"That's not really a riddle, is it?\""
     t "\"That's not really a riddle, is it?\""
 
-# game/TJ-Thursday.rpy:1345
+# game/TJ-Thursday.rpy:1346
 translate Schinese tjthursday_ad10a89a:
 
     # "I smile."
     "I smile."
 
-# game/TJ-Thursday.rpy:1346
+# game/TJ-Thursday.rpy:1347
 translate Schinese tjthursday_4d996727:
 
     # m "\"Go easy on him; he was a kid.\""
     m "\"Go easy on him; he was a kid.\""
 
-# game/TJ-Thursday.rpy:1347
+# game/TJ-Thursday.rpy:1348
 translate Schinese tjthursday_c66f1ec5_1:
 
     # t "\"Sorry.\""
     t "\"Sorry.\""
 
-# game/TJ-Thursday.rpy:1348
+# game/TJ-Thursday.rpy:1349
 translate Schinese tjthursday_ea9beb29:
 
     # j "\"So the old school, in room 301? I assume that's what he meant by a test of courage.\""
     j "\"So the old school, in room 301? I assume that's what he meant by a test of courage.\""
 
-# game/TJ-Thursday.rpy:1349
+# game/TJ-Thursday.rpy:1350
 translate Schinese tjthursday_728f1fae:
 
     # c "\"Shi—shoot, he went in there all by himself? I wouldn't even do that now.\""
     c "\"Shi—shoot, he went in there all by himself? I wouldn't even do that now.\""
 
-# game/TJ-Thursday.rpy:1350
+# game/TJ-Thursday.rpy:1351
 translate Schinese tjthursday_ab867b36:
 
     # m "\"Yeah, that is a little weird...\""
     m "\"Yeah, that is a little weird...\""
 
-# game/TJ-Thursday.rpy:1351
+# game/TJ-Thursday.rpy:1352
 translate Schinese tjthursday_57bd93c1:
 
     # "The feeling that something isn't right grows inside my chest."
     "The feeling that something isn't right grows inside my chest."
 
-# game/TJ-Thursday.rpy:1352
+# game/TJ-Thursday.rpy:1353
 translate Schinese tjthursday_5e52bde8:
 
     # j "\"Well, we have to break the law to get in there. We'd be trespassing.\""
     j "\"Well, we have to break the law to get in there. We'd be trespassing.\""
 
-# game/TJ-Thursday.rpy:1353
+# game/TJ-Thursday.rpy:1354
 translate Schinese tjthursday_948822b3:
 
     # "Jenna glances at TJ because we all know the lynx wouldn't dare break the law."
     "Jenna glances at TJ because we all know the lynx wouldn't dare break the law."
 
-# game/TJ-Thursday.rpy:1354
+# game/TJ-Thursday.rpy:1355
 translate Schinese tjthursday_99463dad:
 
     # j "\"Besides, it's getting late. Maybe we can go check it out tomorrow. One of us can go in for you, TJ.\""
     j "\"Besides, it's getting late. Maybe we can go check it out tomorrow. One of us can go in for you, TJ.\""
 
-# game/TJ-Thursday.rpy:1355
+# game/TJ-Thursday.rpy:1356
 translate Schinese tjthursday_735f9f25:
 
     # "TJ looks up at the sky where stars are starting to twinkle through the branches."
     "TJ looks up at the sky where stars are starting to twinkle through the branches."
 
-# game/TJ-Thursday.rpy:1356
+# game/TJ-Thursday.rpy:1357
 translate Schinese tjthursday_1cf7ea49:
 
     # t "\"Well, if we're going to trespass, we should do it at night, right?\""
     t "\"Well, if we're going to trespass, we should do it at night, right?\""
 
-# game/TJ-Thursday.rpy:1358
+# game/TJ-Thursday.rpy:1359
 translate Schinese tjthursday_85962b40:
 
     # "Jenna's mouth falls open."
     "Jenna's mouth falls open."
 
-# game/TJ-Thursday.rpy:1360
+# game/TJ-Thursday.rpy:1361
 translate Schinese tjthursday_c8071644:
 
     # j "\"What?\""
     j "\"What?\""
 
-# game/TJ-Thursday.rpy:1361
+# game/TJ-Thursday.rpy:1362
 translate Schinese tjthursday_c3600b74:
 
     # "TJ looks flustered."
     "TJ looks flustered."
 
-# game/TJ-Thursday.rpy:1362
+# game/TJ-Thursday.rpy:1363
 translate Schinese tjthursday_136d4333:
 
     # t "\"I mean, we don't have all that much time left here so we should probably get as much of it done as we can.\""
     t "\"I mean, we don't have all that much time left here so we should probably get as much of it done as we can.\""
 
-# game/TJ-Thursday.rpy:1363
+# game/TJ-Thursday.rpy:1364
 translate Schinese tjthursday_45df6440:
 
     # m "\"So...you're okay with breaking the law?\""
     m "\"So...you're okay with breaking the law?\""
 
-# game/TJ-Thursday.rpy:1364
+# game/TJ-Thursday.rpy:1365
 translate Schinese tjthursday_f51f9baf:
 
     # t "\"Well...yeah, if it means we can finish this.\""
     t "\"Well...yeah, if it means we can finish this.\""
 
-# game/TJ-Thursday.rpy:1365
+# game/TJ-Thursday.rpy:1366
 translate Schinese tjthursday_26d58ca0:
 
     # "We all stare at him."
     "We all stare at him."
 
-# game/TJ-Thursday.rpy:1366
+# game/TJ-Thursday.rpy:1367
 translate Schinese tjthursday_79b780c2:
 
     # t "\"I—I don't know what else to say. I just really want to get this done...It feels right.\""
     t "\"I—I don't know what else to say. I just really want to get this done...It feels right.\""
 
-# game/TJ-Thursday.rpy:1367
+# game/TJ-Thursday.rpy:1368
 translate Schinese tjthursday_6e0f9ca3:
 
     # "We're quiet for a moment before Carl claps his hands together."
     "We're quiet for a moment before Carl claps his hands together."
 
-# game/TJ-Thursday.rpy:1368
+# game/TJ-Thursday.rpy:1369
 translate Schinese tjthursday_48300998:
 
     # c "\"Well, alright then, let's go! We've still got a few hours before I'm going to bed.\""
     c "\"Well, alright then, let's go! We've still got a few hours before I'm going to bed.\""
 
-# game/TJ-Thursday.rpy:1370
+# game/TJ-Thursday.rpy:1371
 translate Schinese tjthursday_7fc0c183:
 
     # "Jenna sighs loudly."
     "Jenna sighs loudly."
 
-# game/TJ-Thursday.rpy:1371
+# game/TJ-Thursday.rpy:1372
 translate Schinese tjthursday_1b8e9813:
 
     # j "\"Alright, but I wanna get back before 10 so that I can finish my papers.\""
     j "\"Alright, but I wanna get back before 10 so that I can finish my papers.\""
 
-# game/TJ-Thursday.rpy:1372
+# game/TJ-Thursday.rpy:1373
 translate Schinese tjthursday_333b76e8:
 
     # c "\"Yeah, yeah, don't worry. Onward!\""
     c "\"Yeah, yeah, don't worry. Onward!\""
 
-# game/TJ-Thursday.rpy:1374
+# game/TJ-Thursday.rpy:1375
 translate Schinese tjthursday_926b4c50:
 
     # "Carl marches ahead of us, taking a running leap to cross the ditch."
     "Carl marches ahead of us, taking a running leap to cross the ditch."
 
-# game/TJ-Thursday.rpy:1375
+# game/TJ-Thursday.rpy:1376
 translate Schinese tjthursday_7bfd0796:
 
     # "I look at TJ who's still looking fidgety again."
     "I look at TJ who's still looking fidgety again."
 
-# game/TJ-Thursday.rpy:1376
+# game/TJ-Thursday.rpy:1377
 translate Schinese tjthursday_a350c259:
 
     # m "\"Hey, we'll finish this before we have to leave, okay?\""
     m "\"Hey, we'll finish this before we have to leave, okay?\""
 
-# game/TJ-Thursday.rpy:1377
+# game/TJ-Thursday.rpy:1378
 translate Schinese tjthursday_4bf48f42:
 
     # "TJ gives me a small smile."
     "TJ gives me a small smile."
 
-# game/TJ-Thursday.rpy:1378
+# game/TJ-Thursday.rpy:1379
 translate Schinese tjthursday_68a1aeec_2:
 
     # t "\"Okay.\""
     t "\"Okay.\""
 
-# game/TJ-Thursday.rpy:1384
+# game/TJ-Thursday.rpy:1385
 translate Schinese tjthursday_f0f03c91:
 
     # "Carl says that a cop still patrols Echo randomly at least once a night."
     "Carl says that a cop still patrols Echo randomly at least once a night."
 
-# game/TJ-Thursday.rpy:1385
+# game/TJ-Thursday.rpy:1386
 translate Schinese tjthursday_6682f75c:
 
     # "Because of that, we let Jenna sit out in the car and keep watch."
     "Because of that, we let Jenna sit out in the car and keep watch."
 
-# game/TJ-Thursday.rpy:1386
+# game/TJ-Thursday.rpy:1387
 translate Schinese tjthursday_7e13fa08:
 
     # "If someone shows up she'll text us, which should give us time to get out the back of the school."
     "If someone shows up she'll text us, which should give us time to get out the back of the school."
 
-# game/TJ-Thursday.rpy:1387
+# game/TJ-Thursday.rpy:1388
 translate Schinese tjthursday_88e81aa8:
 
     # "It'll still look suspicious as hell, but as long as we're not caught on the property and have some sort of excuse we should be fine."
     "It'll still look suspicious as hell, but as long as we're not caught on the property and have some sort of excuse we should be fine."
 
-# game/TJ-Thursday.rpy:1388
+# game/TJ-Thursday.rpy:1389
 translate Schinese tjthursday_2bc6446c:
 
     # "...At least that's what Carl says."
     "...At least that's what Carl says."
 
-# game/TJ-Thursday.rpy:1389
+# game/TJ-Thursday.rpy:1390
 translate Schinese tjthursday_f98486ff:
 
     # "We stand there in front of the door and I notice that a couple chains hang loosely off the door, no lock to be found."
     "We stand there in front of the door and I notice that a couple chains hang loosely off the door, no lock to be found."
 
-# game/TJ-Thursday.rpy:1390
+# game/TJ-Thursday.rpy:1391
 translate Schinese tjthursday_ba2cb7fe:
 
     # m "\"Well, at least that hasn't changed.\""
     m "\"Well, at least that hasn't changed.\""
 
-# game/TJ-Thursday.rpy:1391
+# game/TJ-Thursday.rpy:1392
 translate Schinese tjthursday_d31e01d3_4:
 
     # "Carl shrugs."
     "Carl shrugs."
 
-# game/TJ-Thursday.rpy:1393
+# game/TJ-Thursday.rpy:1394
 translate Schinese tjthursday_e86a7413:
 
     # c "\"Teenagers break in all the time. No point in putting a lock back on every time.\""
     c "\"Teenagers break in all the time. No point in putting a lock back on every time.\""
 
-# game/TJ-Thursday.rpy:1395
+# game/TJ-Thursday.rpy:1396
 translate Schinese tjthursday_2066ab09:
 
     # "Carl gives the door a shove and it slides open very slowly, letting out an unearthly squeal as it does."
     "Carl gives the door a shove and it slides open very slowly, letting out an unearthly squeal as it does."
 
-# game/TJ-Thursday.rpy:1396
+# game/TJ-Thursday.rpy:1397
 translate Schinese tjthursday_6fe1bbe3:
 
     # "The three of us stand there, staring into the darkness."
     "The three of us stand there, staring into the darkness."
 
-# game/TJ-Thursday.rpy:1397
+# game/TJ-Thursday.rpy:1398
 translate Schinese tjthursday_f60cc1dc:
 
     # "TJ fidgets next to me."
     "TJ fidgets next to me."
 
-# game/TJ-Thursday.rpy:1398
+# game/TJ-Thursday.rpy:1399
 translate Schinese tjthursday_b89ddf88:
 
     # m "\"Having second thoughts?\""
     m "\"Having second thoughts?\""
 
-# game/TJ-Thursday.rpy:1400
+# game/TJ-Thursday.rpy:1401
 translate Schinese tjthursday_365f6138_1:
 
     # t "\"No!\""
     t "\"No!\""
 
-# game/TJ-Thursday.rpy:1401
+# game/TJ-Thursday.rpy:1402
 translate Schinese tjthursday_6e61e1ce:
 
     # "His voice comes out in a crackly squeak that Carl snorts at."
     "His voice comes out in a crackly squeak that Carl snorts at."
 
-# game/TJ-Thursday.rpy:1402
+# game/TJ-Thursday.rpy:1403
 translate Schinese tjthursday_f3579c51:
 
     # t "\"Just...just so dark.\""
     t "\"Just...just so dark.\""
 
-# game/TJ-Thursday.rpy:1403
+# game/TJ-Thursday.rpy:1404
 translate Schinese tjthursday_05b7c510:
 
     # c "\"Night time has a way of doing that, my man. Good thing I charged my phone before we left.\""
     c "\"Night time has a way of doing that, my man. Good thing I charged my phone before we left.\""
 
-# game/TJ-Thursday.rpy:1404
+# game/TJ-Thursday.rpy:1405
 translate Schinese tjthursday_94a86f3b:
 
     # "Carl takes out his phone from his pocket and holds it up before turning on the light."
     "Carl takes out his phone from his pocket and holds it up before turning on the light."
 
-# game/TJ-Thursday.rpy:1405
+# game/TJ-Thursday.rpy:1406
 translate Schinese tjthursday_b07258a2:
 
     # t "\"Uh, mine's almost dead.\""
     t "\"Uh, mine's almost dead.\""
 
-# game/TJ-Thursday.rpy:1406
+# game/TJ-Thursday.rpy:1407
 translate Schinese tjthursday_f2e25ff0:
 
     # m "\"We can share.\""
     m "\"We can share.\""
 
-# game/TJ-Thursday.rpy:1410
+# game/TJ-Thursday.rpy:1411
 translate Schinese tjthursday_d990de9a:
 
     # "Carl sweeps the light inside revealing graffiti covered walls and dirt covered floors."
     "Carl sweeps the light inside revealing graffiti covered walls and dirt covered floors."
 
-# game/TJ-Thursday.rpy:1411
+# game/TJ-Thursday.rpy:1412
 translate Schinese tjthursday_79d4bc50:
 
     # c "\"Nice.\""
     c "\"Nice.\""
 
-# game/TJ-Thursday.rpy:1412
+# game/TJ-Thursday.rpy:1413
 translate Schinese tjthursday_05da58f4:
 
     # "I look back and see Jenna staring at us from the car."
     "I look back and see Jenna staring at us from the car."
 
-# game/TJ-Thursday.rpy:1413
+# game/TJ-Thursday.rpy:1414
 translate Schinese tjthursday_46c74187:
 
     # "She gives me a thumbs up."
     "She gives me a thumbs up."
 
-# game/TJ-Thursday.rpy:1414
+# game/TJ-Thursday.rpy:1415
 translate Schinese tjthursday_21dfc2d8:
 
     # "I inhale deeply."
     "I inhale deeply."
 
-# game/TJ-Thursday.rpy:1415
+# game/TJ-Thursday.rpy:1416
 translate Schinese tjthursday_3ea3a50d:
 
     # m "\"Well...let's go.\""
     m "\"Well...let's go.\""
 
-# game/TJ-Thursday.rpy:1416
+# game/TJ-Thursday.rpy:1417
 translate Schinese tjthursday_8150785d:
 
     # "I take out my own phone and step inside and TJ follows me."
     "I take out my own phone and step inside and TJ follows me."
 
-# game/TJ-Thursday.rpy:1419
+# game/TJ-Thursday.rpy:1420
 translate Schinese tjthursday_d0c53440:
 
     # "Carl stands next to us, spinning in a circle."
     "Carl stands next to us, spinning in a circle."
 
-# game/TJ-Thursday.rpy:1421
+# game/TJ-Thursday.rpy:1422
 translate Schinese tjthursday_accdc8f3:
 
     # c "\"Well...it's not THAT creepy.\""
     c "\"Well...it's not THAT creepy.\""
 
-# game/TJ-Thursday.rpy:1423
+# game/TJ-Thursday.rpy:1424
 translate Schinese tjthursday_99d4219e:
 
     # t "\"Okay, so the rooms here are the 200s.\""
     t "\"Okay, so the rooms here are the 200s.\""
 
-# game/TJ-Thursday.rpy:1424
+# game/TJ-Thursday.rpy:1425
 translate Schinese tjthursday_c7d54778:
 
     # "TJ points up at a doorway next to us, a small label above it reading \"203\""
     "TJ points up at a doorway next to us, a small label above it reading \"203\""
 
-# game/TJ-Thursday.rpy:1425
+# game/TJ-Thursday.rpy:1426
 translate Schinese tjthursday_7f0e34cc:
 
     # t "\"So that means that we have to go up one floor.\""
     t "\"So that means that we have to go up one floor.\""
 
-# game/TJ-Thursday.rpy:1426
+# game/TJ-Thursday.rpy:1427
 translate Schinese tjthursday_7070d865:
 
     # "Carl sweeps his light around and points to the staircase."
     "Carl sweeps his light around and points to the staircase."
 
-# game/TJ-Thursday.rpy:1427
+# game/TJ-Thursday.rpy:1428
 translate Schinese tjthursday_7e20f4c7:
 
     # c "\"Shall we?\""
     c "\"Shall we?\""
 
-# game/TJ-Thursday.rpy:1428
+# game/TJ-Thursday.rpy:1429
 translate Schinese tjthursday_a2051caf:
 
     # m "\"Those things better be stable.\""
     m "\"Those things better be stable.\""
 
-# game/TJ-Thursday.rpy:1429
+# game/TJ-Thursday.rpy:1430
 translate Schinese tjthursday_ab39ee55:
 
     # "Carl points his light up the stair case."
     "Carl points his light up the stair case."
 
-# game/TJ-Thursday.rpy:1430
+# game/TJ-Thursday.rpy:1431
 translate Schinese tjthursday_fe4f8306:
 
     # c "\"I can see some graffiti up there. It's probably fine.\""
     c "\"I can see some graffiti up there. It's probably fine.\""
 
-# game/TJ-Thursday.rpy:1431
+# game/TJ-Thursday.rpy:1432
 translate Schinese tjthursday_36bfaa97:
 
     # "The ram leads the way, at first tentatively setting a hoof on the first step before testing the next."
     "The ram leads the way, at first tentatively setting a hoof on the first step before testing the next."
 
-# game/TJ-Thursday.rpy:1432
+# game/TJ-Thursday.rpy:1433
 translate Schinese tjthursday_edbe148c:
 
     # c "\"Yeah, it's good.\""
     c "\"Yeah, it's good.\""
 
-# game/TJ-Thursday.rpy:1433
+# game/TJ-Thursday.rpy:1434
 translate Schinese tjthursday_c09c1501:
 
     # "And with that he strides up the stairs while TJ and I following a little more hesitantly."
     "And with that he strides up the stairs while TJ and I following a little more hesitantly."
 
-# game/TJ-Thursday.rpy:1434
+# game/TJ-Thursday.rpy:1435
 translate Schinese tjthursday_c1eacd5c:
 
     # t "\"Why don't they just demolish this place?\""
     t "\"Why don't they just demolish this place?\""
 
-# game/TJ-Thursday.rpy:1435
+# game/TJ-Thursday.rpy:1436
 translate Schinese tjthursday_bd23ebef:
 
     # c "\"Heard they wanted to turn it into a museum...can't see why, though.\""
     c "\"Heard they wanted to turn it into a museum...can't see why, though.\""
 
-# game/TJ-Thursday.rpy:1436
+# game/TJ-Thursday.rpy:1437
 translate Schinese tjthursday_bd2220ab:
 
     # "Carl shines his light on the railing, the wood rotted and broken."
     "Carl shines his light on the railing, the wood rotted and broken."
 
-# game/TJ-Thursday.rpy:1437
+# game/TJ-Thursday.rpy:1438
 translate Schinese tjthursday_e927fa06:
 
     # c "\"Hey, do you guys remember when Chase saw someone staring out from one of the windows up here?\""
     c "\"Hey, do you guys remember when Chase saw someone staring out from one of the windows up here?\""
 
-# game/TJ-Thursday.rpy:1438
+# game/TJ-Thursday.rpy:1439
 translate Schinese tjthursday_e215e809:
 
     # t "\"Oh my gosh, pleeease don't talk about this right now.\""
     t "\"Oh my gosh, pleeease don't talk about this right now.\""
 
-# game/TJ-Thursday.rpy:1439
+# game/TJ-Thursday.rpy:1440
 translate Schinese tjthursday_dd743870:
 
     # c "\"Do you even remember that, Chase?\""
     c "\"Do you even remember that, Chase?\""
 
-# game/TJ-Thursday.rpy:1440
+# game/TJ-Thursday.rpy:1441
 translate Schinese tjthursday_079ead87:
 
     # m "\"Uh, yeah, actually...that was a long time ago.\""
     m "\"Uh, yeah, actually...that was a long time ago.\""
 
-# game/TJ-Thursday.rpy:1441
+# game/TJ-Thursday.rpy:1442
 translate Schinese tjthursday_7897b2a4:
 
     # "I hardly remembered it, but I do remember seeing a dark form in one of the windows."
     "I hardly remembered it, but I do remember seeing a dark form in one of the windows."
 
-# game/TJ-Thursday.rpy:1442
+# game/TJ-Thursday.rpy:1443
 translate Schinese tjthursday_e635688b:
 
     # "I'd been positive it was just an object sitting in the room, but I'd wanted to tell my friend that I'd seen a ghost."
     "I'd been positive it was just an object sitting in the room, but I'd wanted to tell my friend that I'd seen a ghost."
 
-# game/TJ-Thursday.rpy:1443
+# game/TJ-Thursday.rpy:1444
 translate Schinese tjthursday_fbf0df98:
 
     # "It was nothing like what I saw in the trees."
     "It was nothing like what I saw in the trees."
 
-# game/TJ-Thursday.rpy:1444
+# game/TJ-Thursday.rpy:1445
 translate Schinese tjthursday_0e217c10:
 
     # "Thinking about it is creeping me out though."
     "Thinking about it is creeping me out though."
 
-# game/TJ-Thursday.rpy:1445
+# game/TJ-Thursday.rpy:1446
 translate Schinese tjthursday_5c91a168:
 
     # t "\"Stooop.\""
     t "\"Stooop.\""
 
-# game/TJ-Thursday.rpy:1446
+# game/TJ-Thursday.rpy:1447
 translate Schinese tjthursday_530f2c39:
 
     # "TJ whines as we reach the top of the stairs then, clearly trying to change the subject, points up at the door."
     "TJ whines as we reach the top of the stairs then, clearly trying to change the subject, points up at the door."
 
-# game/TJ-Thursday.rpy:1447
+# game/TJ-Thursday.rpy:1448
 translate Schinese tjthursday_e56f838f:
 
     # t "\"Alright, 305, so maybe this way.. Chase, let me see your phone.\""
     t "\"Alright, 305, so maybe this way.. Chase, let me see your phone.\""
 
-# game/TJ-Thursday.rpy:1448
+# game/TJ-Thursday.rpy:1449
 translate Schinese tjthursday_a329ab5f:
 
     # "TJ takes it from me and points it up at the next door over.\""
     "TJ takes it from me and points it up at the next door over.\""
 
-# game/TJ-Thursday.rpy:1449
+# game/TJ-Thursday.rpy:1450
 translate Schinese tjthursday_dc0a7820:
 
     # t "\"Yeah, 304, so the last one down.\""
     t "\"Yeah, 304, so the last one down.\""
 
-# game/TJ-Thursday.rpy:1450
+# game/TJ-Thursday.rpy:1451
 translate Schinese tjthursday_8c2ccde6:
 
     # "He hands me back my phone and stands there a moment."
     "He hands me back my phone and stands there a moment."
 
-# game/TJ-Thursday.rpy:1452
+# game/TJ-Thursday.rpy:1453
 translate Schinese tjthursday_c1fe5f65:
 
     # "Carl chuckles."
     "Carl chuckles."
 
-# game/TJ-Thursday.rpy:1453
+# game/TJ-Thursday.rpy:1454
 translate Schinese tjthursday_10f86095:
 
     # c "\"Want me to go first? You scared?\""
     c "\"Want me to go first? You scared?\""
 
-# game/TJ-Thursday.rpy:1454
+# game/TJ-Thursday.rpy:1455
 translate Schinese tjthursday_3f176de3:
 
     # "TJ glares at him."
     "TJ glares at him."
 
-# game/TJ-Thursday.rpy:1455
+# game/TJ-Thursday.rpy:1456
 translate Schinese tjthursday_f6790731:
 
     # m "\"Come on, guys. I wanna get out of here, too.\""
     m "\"Come on, guys. I wanna get out of here, too.\""
 
-# game/TJ-Thursday.rpy:1456
+# game/TJ-Thursday.rpy:1457
 translate Schinese tjthursday_5823e3d9:
 
     # c "\"Okay, okay.\""
     c "\"Okay, okay.\""
 
-# game/TJ-Thursday.rpy:1457
+# game/TJ-Thursday.rpy:1458
 translate Schinese tjthursday_2e587ec3:
 
     # "Carl leads the way again, down the hall to the very end."
     "Carl leads the way again, down the hall to the very end."
 
-# game/TJ-Thursday.rpy:1458
+# game/TJ-Thursday.rpy:1459
 translate Schinese tjthursday_91fb8966:
 
     # "There's more stuff in the way on this floor with a lot of desks and chairs."
     "There's more stuff in the way on this floor with a lot of desks and chairs."
 
-# game/TJ-Thursday.rpy:1459
+# game/TJ-Thursday.rpy:1460
 translate Schinese tjthursday_606ae14a:
 
     # "Carl keeps his light up, counting down the doors."
     "Carl keeps his light up, counting down the doors."
 
-# game/TJ-Thursday.rpy:1461
+# game/TJ-Thursday.rpy:1462
 translate Schinese tjthursday_b39268c8:
 
     # c "\"303...and 302...Ah! 30—FUCK!\""
     c "\"303...and 302...Ah! 30—FUCK!\""
 
-# game/TJ-Thursday.rpy:1463
+# game/TJ-Thursday.rpy:1464
 translate Schinese tjthursday_432f5d14:
 
     # "TJ jumps a foot into the air and I point my light at Carl."
     "TJ jumps a foot into the air and I point my light at Carl."
 
-# game/TJ-Thursday.rpy:1464
+# game/TJ-Thursday.rpy:1465
 translate Schinese tjthursday_486a0250:
 
     # m "\"What!?\""
     m "\"What!?\""
 
-# game/TJ-Thursday.rpy:1465
+# game/TJ-Thursday.rpy:1466
 translate Schinese tjthursday_f91f6340:
 
     # "Carl turns around sheepishly, rubbing his hip."
     "Carl turns around sheepishly, rubbing his hip."
 
-# game/TJ-Thursday.rpy:1466
+# game/TJ-Thursday.rpy:1467
 translate Schinese tjthursday_d47a84bc:
 
     # c "\"Ran into this stupid desk. Hurt like a mother.\""
     c "\"Ran into this stupid desk. Hurt like a mother.\""
 
-# game/TJ-Thursday.rpy:1468
+# game/TJ-Thursday.rpy:1469
 translate Schinese tjthursday_b901e2df:
 
     # t "\"Really, Carl?\""
     t "\"Really, Carl?\""
 
-# game/TJ-Thursday.rpy:1469
+# game/TJ-Thursday.rpy:1470
 translate Schinese tjthursday_232407e8:
 
     # "TJ clings to me, taking a deep breath."
     "TJ clings to me, taking a deep breath."
 
-# game/TJ-Thursday.rpy:1473
+# game/TJ-Thursday.rpy:1474
 translate Schinese tjthursday_707c897e:
 
     # c "\"But here's the door.\""
     c "\"But here's the door.\""
 
-# game/TJ-Thursday.rpy:1474
+# game/TJ-Thursday.rpy:1475
 translate Schinese tjthursday_7c59e62c:
 
     # "Carl points the light back up above the door and sure enough there's a 301 up there."
     "Carl points the light back up above the door and sure enough there's a 301 up there."
 
-# game/TJ-Thursday.rpy:1475
+# game/TJ-Thursday.rpy:1476
 translate Schinese tjthursday_eb3e40b5:
 
     # "TJ and I stand next to him, both staring into the dark room."
     "TJ and I stand next to him, both staring into the dark room."
 
-# game/TJ-Thursday.rpy:1476
+# game/TJ-Thursday.rpy:1477
 translate Schinese tjthursday_6d484b42:
 
     # c "\"Hey, I think this might actually be the room you saw the thing staring at you from.\""
     c "\"Hey, I think this might actually be the room you saw the thing staring at you from.\""
 
-# game/TJ-Thursday.rpy:1477
+# game/TJ-Thursday.rpy:1478
 translate Schinese tjthursday_9148f4f7:
 
     # t "\"Carl.\""
     t "\"Carl.\""
 
-# game/TJ-Thursday.rpy:1478
+# game/TJ-Thursday.rpy:1479
 translate Schinese tjthursday_8e649a65:
 
     # "There's a warning tone in TJ's voice."
     "There's a warning tone in TJ's voice."
 
-# game/TJ-Thursday.rpy:1479
+# game/TJ-Thursday.rpy:1480
 translate Schinese tjthursday_a094b88f:
 
     # "I rub my chin."
     "I rub my chin."
 
-# game/TJ-Thursday.rpy:1480
+# game/TJ-Thursday.rpy:1481
 translate Schinese tjthursday_24552f90:
 
     # m "\"Actually, yeah, I think it is.\""
     m "\"Actually, yeah, I think it is.\""
 
-# game/TJ-Thursday.rpy:1481
+# game/TJ-Thursday.rpy:1482
 translate Schinese tjthursday_c26cd838:
 
     # "TJ sighs loudly and closes his eyes."
     "TJ sighs loudly and closes his eyes."
 
-# game/TJ-Thursday.rpy:1482
+# game/TJ-Thursday.rpy:1483
 translate Schinese tjthursday_5163d02f:
 
     # t "\"Guys, please, can we just—\""
     t "\"Guys, please, can we just—\""
 
-# game/TJ-Thursday.rpy:1484
+# game/TJ-Thursday.rpy:1485
 translate Schinese tjthursday_6c03eed6:
 
     # c "\"YAH!\""
     c "\"YAH!\""
 
-# game/TJ-Thursday.rpy:1487
+# game/TJ-Thursday.rpy:1488
 translate Schinese tjthursday_f828d049:
 
     # t "\"AAAAHH!\""
     t "\"AAAAHH!\""
 
-# game/TJ-Thursday.rpy:1488
+# game/TJ-Thursday.rpy:1489
 translate Schinese tjthursday_9231d48d:
 
     # "Carl thrusts his hands into TJ's side as he yells, sending TJ into a hysteric fit of screaming and grabbing on to me."
     "Carl thrusts his hands into TJ's side as he yells, sending TJ into a hysteric fit of screaming and grabbing on to me."
 
-# game/TJ-Thursday.rpy:1489
+# game/TJ-Thursday.rpy:1490
 translate Schinese tjthursday_4e04722c:
 
     # "I stumble as I try to keep the lynx from rending my flesh with his claws."
     "I stumble as I try to keep the lynx from rending my flesh with his claws."
 
-# game/TJ-Thursday.rpy:1491
+# game/TJ-Thursday.rpy:1492
 translate Schinese tjthursday_6609a6bc:
 
     # c "\"Oh shit, sorry, I—OW!\""
     c "\"Oh shit, sorry, I—OW!\""
 
-# game/TJ-Thursday.rpy:1493
+# game/TJ-Thursday.rpy:1494
 translate Schinese tjthursday_c200bd7a:
 
     # "Carl reaches out to, I assume, comfort TJ, but gets a backhand across the face in response."
     "Carl reaches out to, I assume, comfort TJ, but gets a backhand across the face in response."
 
-# game/TJ-Thursday.rpy:1494
+# game/TJ-Thursday.rpy:1495
 translate Schinese tjthursday_7d1af046:
 
     # t "\"YOU ASS!\""
     t "\"YOU ASS!\""
 
-# game/TJ-Thursday.rpy:1495
+# game/TJ-Thursday.rpy:1496
 translate Schinese tjthursday_3b9d2fe0:
 
     # "I watch the two of them with wide eyes, never having seen TJ so indignant."
     "I watch the two of them with wide eyes, never having seen TJ so indignant."
 
-# game/TJ-Thursday.rpy:1496
+# game/TJ-Thursday.rpy:1497
 translate Schinese tjthursday_2c6f4fe0:
 
     # "Carl stares back, a hand up to his cheek."
     "Carl stares back, a hand up to his cheek."
 
-# game/TJ-Thursday.rpy:1497
+# game/TJ-Thursday.rpy:1498
 translate Schinese tjthursday_ca9f9636:
 
     # c "\"Whoa.\""
     c "\"Whoa.\""
 
-# game/TJ-Thursday.rpy:1498
+# game/TJ-Thursday.rpy:1499
 translate Schinese tjthursday_4227f145:
 
     # t "\"Alright, let's start looking.\""
     t "\"Alright, let's start looking.\""
 
-# game/TJ-Thursday.rpy:1500
+# game/TJ-Thursday.rpy:1501
 translate Schinese tjthursday_9fc0335d:
 
     # "As if nothing had happened TJ takes my phone and strides into the room, his tail twitching in irritation."
     "As if nothing had happened TJ takes my phone and strides into the room, his tail twitching in irritation."
 
-# game/TJ-Thursday.rpy:1501
+# game/TJ-Thursday.rpy:1502
 translate Schinese tjthursday_70a8c6ce:
 
     # c "\"I can't believe you slapped me.\""
     c "\"I can't believe you slapped me.\""
 
-# game/TJ-Thursday.rpy:1502
+# game/TJ-Thursday.rpy:1503
 translate Schinese tjthursday_f5905c74:
 
     # "Carl calls after him, but gets no response."
     "Carl calls after him, but gets no response."
 
-# game/TJ-Thursday.rpy:1503
+# game/TJ-Thursday.rpy:1504
 translate Schinese tjthursday_452bffb0:
 
     # "I smile, trying not to laugh as I walk past the ram."
     "I smile, trying not to laugh as I walk past the ram."
 
-# game/TJ-Thursday.rpy:1504
+# game/TJ-Thursday.rpy:1505
 translate Schinese tjthursday_47deb5ec:
 
     # c "\"Can you?\""
     c "\"Can you?\""
 
-# game/TJ-Thursday.rpy:1505
+# game/TJ-Thursday.rpy:1506
 translate Schinese tjthursday_cab086a8:
 
     # "He asks me, rubbing his cheek as he follows me in."
     "He asks me, rubbing his cheek as he follows me in."
 
-# game/TJ-Thursday.rpy:1506
+# game/TJ-Thursday.rpy:1507
 translate Schinese tjthursday_f0cd1302:
 
     # m "\"Hey, you asked for it. Probably not the best time to be scaring him.\""
     m "\"Hey, you asked for it. Probably not the best time to be scaring him.\""
 
-# game/TJ-Thursday.rpy:1508
+# game/TJ-Thursday.rpy:1509
 translate Schinese tjthursday_f26ac3d2:
 
     # c "\"Yeah, whatever. What the hell are we looking for anyway?\""
     c "\"Yeah, whatever. What the hell are we looking for anyway?\""
 
-# game/TJ-Thursday.rpy:1509
+# game/TJ-Thursday.rpy:1510
 translate Schinese tjthursday_02513e4d:
 
     # "I look around."
     "I look around."
 
-# game/TJ-Thursday.rpy:1510
+# game/TJ-Thursday.rpy:1511
 translate Schinese tjthursday_a48f3a9a:
 
     # "From what I can see, there's not much left in the room."
     "From what I can see, there's not much left in the room."
 
-# game/TJ-Thursday.rpy:1511
+# game/TJ-Thursday.rpy:1512
 translate Schinese tjthursday_30e70a30:
 
     # "A few desks are pushed up against the wall and aside from a chalkboard and map at one end of the room, there's nothing else."
     "A few desks are pushed up against the wall and aside from a chalkboard and map at one end of the room, there's nothing else."
 
-# game/TJ-Thursday.rpy:1513
+# game/TJ-Thursday.rpy:1514
 translate Schinese tjthursday_9e0f154b:
 
     # "I go over to stand by TJ at the other end of the room, looking at the desks."
     "I go over to stand by TJ at the other end of the room, looking at the desks."
 
-# game/TJ-Thursday.rpy:1514
+# game/TJ-Thursday.rpy:1515
 translate Schinese tjthursday_05f45ce5:
 
     # m "\"There's not much in here, is there?\""
     m "\"There's not much in here, is there?\""
 
-# game/TJ-Thursday.rpy:1515
+# game/TJ-Thursday.rpy:1516
 translate Schinese tjthursday_9d761e8d:
 
     # "TJ sweeps the light around the room, frowning."
     "TJ sweeps the light around the room, frowning."
 
-# game/TJ-Thursday.rpy:1517
+# game/TJ-Thursday.rpy:1518
 translate Schinese tjthursday_279c9ce1:
 
     # t "\"Not really.\""
     t "\"Not really.\""
 
-# game/TJ-Thursday.rpy:1518
+# game/TJ-Thursday.rpy:1519
 translate Schinese tjthursday_7f45936a:
 
     # "He points the light at Carl who's at the other end of the room by the chalkboard."
     "He points the light at Carl who's at the other end of the room by the chalkboard."
 
-# game/TJ-Thursday.rpy:1519
+# game/TJ-Thursday.rpy:1520
 translate Schinese tjthursday_dcdd916a:
 
     # t "\"Anything written on the chalkboard, Carl?\""
     t "\"Anything written on the chalkboard, Carl?\""
 
-# game/TJ-Thursday.rpy:1520
+# game/TJ-Thursday.rpy:1521
 translate Schinese tjthursday_bc0ec301:
 
     # "Carl shines his light on the board, then gasps."
     "Carl shines his light on the board, then gasps."
 
-# game/TJ-Thursday.rpy:1521
+# game/TJ-Thursday.rpy:1522
 translate Schinese tjthursday_df8ec4bc:
 
     # m "\"What?\""
     m "\"What?\""
 
-# game/TJ-Thursday.rpy:1522
+# game/TJ-Thursday.rpy:1523
 translate Schinese tjthursday_609193f6:
 
     # c "\"There is. It's.. a whole lot of dick!\""
     c "\"There is. It's.. a whole lot of dick!\""
 
-# game/TJ-Thursday.rpy:1523
+# game/TJ-Thursday.rpy:1524
 translate Schinese tjthursday_39111796:
 
     # "Carl steps to the side, pointing his light at the board and, sure enough, it's covered in countless drawings of dicks."
     "Carl steps to the side, pointing his light at the board and, sure enough, it's covered in countless drawings of dicks."
 
-# game/TJ-Thursday.rpy:1524
+# game/TJ-Thursday.rpy:1525
 translate Schinese tjthursday_613345d4:
 
     # "TJ sighs."
     "TJ sighs."
 
-# game/TJ-Thursday.rpy:1525
+# game/TJ-Thursday.rpy:1526
 translate Schinese tjthursday_b535ad7e:
 
     # m "\"I mean, we were bound to hit a roadblock eventu—\""
     m "\"I mean, we were bound to hit a roadblock eventu—\""
 
-# game/TJ-Thursday.rpy:1527
+# game/TJ-Thursday.rpy:1528
 translate Schinese tjthursday_be5c0d20:
 
     # "I trail off, staring at the window at the far end of the room where I see a small-looking box on the ledge."
     "I trail off, staring at the window at the far end of the room where I see a small-looking box on the ledge."
 
-# game/TJ-Thursday.rpy:1528
+# game/TJ-Thursday.rpy:1529
 translate Schinese tjthursday_97e3eb46:
 
     # m "\"What's that?\""
     m "\"What's that?\""
 
-# game/TJ-Thursday.rpy:1529
+# game/TJ-Thursday.rpy:1530
 translate Schinese tjthursday_b91ba9c0:
 
     # "I point and TJ shines the light over at it."
     "I point and TJ shines the light over at it."
 
-# game/TJ-Thursday.rpy:1530
+# game/TJ-Thursday.rpy:1531
 translate Schinese tjthursday_772ef5df:
 
     # "A metal toolbox glints back at us."
     "A metal toolbox glints back at us."
 
-# game/TJ-Thursday.rpy:1532
+# game/TJ-Thursday.rpy:1533
 translate Schinese tjthursday_679863f4:
 
     # "TJ immediately walks over to it and I follow him."
     "TJ immediately walks over to it and I follow him."
 
-# game/TJ-Thursday.rpy:1533
+# game/TJ-Thursday.rpy:1534
 translate Schinese tjthursday_8f71b9ff:
 
     # "Carl joins us as TJ fiddles with the latches, popping them open."
     "Carl joins us as TJ fiddles with the latches, popping them open."
 
-# game/TJ-Thursday.rpy:1534
+# game/TJ-Thursday.rpy:1535
 translate Schinese tjthursday_62b5ddef:
 
     # "There's a soft creak as he lifts the lid, a tray extending out as he does."
     "There's a soft creak as he lifts the lid, a tray extending out as he does."
 
-# game/TJ-Thursday.rpy:1535
+# game/TJ-Thursday.rpy:1536
 translate Schinese tjthursday_959bcf76:
 
     # "And there, sitting in the tray, is another folded piece of paper."
     "And there, sitting in the tray, is another folded piece of paper."
 
-# game/TJ-Thursday.rpy:1536
+# game/TJ-Thursday.rpy:1537
 translate Schinese tjthursday_a2d1a20b:
 
     # m "\"There's no way.\""
     m "\"There's no way.\""
 
-# game/TJ-Thursday.rpy:1538
+# game/TJ-Thursday.rpy:1539
 translate Schinese tjthursday_38af1f91:
 
     # c "\"Yeah, that makes no sense.\""
     c "\"Yeah, that makes no sense.\""
 
-# game/TJ-Thursday.rpy:1540
+# game/TJ-Thursday.rpy:1541
 translate Schinese tjthursday_8db58372:
 
     # t "\"Why not?\""
     t "\"Why not?\""
 
-# game/TJ-Thursday.rpy:1541
+# game/TJ-Thursday.rpy:1542
 translate Schinese tjthursday_d5bfa0e0:
 
     # "TJ gently picks up the note, handing me back my phone."
     "TJ gently picks up the note, handing me back my phone."
 
-# game/TJ-Thursday.rpy:1542
+# game/TJ-Thursday.rpy:1543
 translate Schinese tjthursday_680d0fb1:
 
     # t "\"Shine that on this for me please.\""
     t "\"Shine that on this for me please.\""
 
-# game/TJ-Thursday.rpy:1543
+# game/TJ-Thursday.rpy:1544
 translate Schinese tjthursday_048827b4:
 
     # m "\"Someone would have taken it by now.\""
     m "\"Someone would have taken it by now.\""
 
-# game/TJ-Thursday.rpy:1544
+# game/TJ-Thursday.rpy:1545
 translate Schinese tjthursday_bf677d7d:
 
     # t "\"Well they didn't, see?\""
     t "\"Well they didn't, see?\""
 
-# game/TJ-Thursday.rpy:1545
+# game/TJ-Thursday.rpy:1546
 translate Schinese tjthursday_5d9b0182:
 
     # "TJ had unfolded it and he shows me the handwriting, the exact same we'd seen on the other two notes."
     "TJ had unfolded it and he shows me the handwriting, the exact same we'd seen on the other two notes."
 
-# game/TJ-Thursday.rpy:1546
+# game/TJ-Thursday.rpy:1547
 translate Schinese tjthursday_fe6a494d:
 
     # "I frown, but I don't say anything more."
     "I frown, but I don't say anything more."
 
-# game/TJ-Thursday.rpy:1547
+# game/TJ-Thursday.rpy:1548
 translate Schinese tjthursday_9ebb06d0:
 
     # "Maybe it did just sit here for the past ten years, no one wanting to bother with an old-looking toolbox."
     "Maybe it did just sit here for the past ten years, no one wanting to bother with an old-looking toolbox."
 
-# game/TJ-Thursday.rpy:1548
+# game/TJ-Thursday.rpy:1549
 translate Schinese tjthursday_054e5136:
 
     # "But this place is broken into regularly with the whole point being to tag or take stuff."
     "But this place is broken into regularly with the whole point being to tag or take stuff."
 
-# game/TJ-Thursday.rpy:1549
+# game/TJ-Thursday.rpy:1550
 translate Schinese tjthursday_f6e55d99:
 
     # "Someone definitely should have taken it by now."
     "Someone definitely should have taken it by now."
 
-# game/TJ-Thursday.rpy:1550
+# game/TJ-Thursday.rpy:1551
 translate Schinese tjthursday_d9f7f067:
 
     # "This was all on top of the idea that Sydney came in here as a little kid just to hide a note."
     "This was all on top of the idea that Sydney came in here as a little kid just to hide a note."
 
-# game/TJ-Thursday.rpy:1551
+# game/TJ-Thursday.rpy:1552
 translate Schinese tjthursday_b0ef1b21:
 
     # "Something isn't right, and I'm starting to feel uneasy."
     "Something isn't right, and I'm starting to feel uneasy."
 
-# game/TJ-Thursday.rpy:1552
+# game/TJ-Thursday.rpy:1553
 translate Schinese tjthursday_224e8a36:
 
     # "I don't have time to dwell on that, though, as TJ begins to read..."
     "I don't have time to dwell on that, though, as TJ begins to read..."
 
-# game/TJ-Thursday.rpy:1554
+# game/TJ-Thursday.rpy:1555
 translate Schinese tjthursday_7c01c190:
 
     # "\"So you went to the school!\""
     "\"So you went to the school!\""
 
-# game/TJ-Thursday.rpy:1555
+# game/TJ-Thursday.rpy:1556
 translate Schinese tjthursday_bc97de06:
 
     # "\"You found it with some tools.\""
     "\"You found it with some tools.\""
 
-# game/TJ-Thursday.rpy:1556
+# game/TJ-Thursday.rpy:1557
 translate Schinese tjthursday_191e8253:
 
     # "\"Next go to where I sleep.\""
     "\"Next go to where I sleep.\""
 
-# game/TJ-Thursday.rpy:1557
+# game/TJ-Thursday.rpy:1558
 translate Schinese tjthursday_f8659879:
 
     # "\"It's where I keep my secrets, something Chase can't keep!\""
     "\"It's where I keep my secrets, something Chase can't keep!\""
 
-# game/TJ-Thursday.rpy:1558
+# game/TJ-Thursday.rpy:1559
 translate Schinese tjthursday_12648761_2:
 
     # "\"-Syd\""
     "\"-Syd\""
 
-# game/TJ-Thursday.rpy:1560
+# game/TJ-Thursday.rpy:1561
 translate Schinese tjthursday_c8717594:
 
     # "It's silent for a moment as we all take that in."
     "It's silent for a moment as we all take that in."
 
-# game/TJ-Thursday.rpy:1561
+# game/TJ-Thursday.rpy:1562
 translate Schinese tjthursday_f7832a44:
 
     # "I feel my face flush and my fur prickle as I wonder what the hell that last line is supposed to mean."
     "I feel my face flush and my fur prickle as I wonder what the hell that last line is supposed to mean."
 
-# game/TJ-Thursday.rpy:1562
+# game/TJ-Thursday.rpy:1563
 translate Schinese tjthursday_9d08da4b:
 
     # "Carl and TJ don't look at me, but I can sense that they want to."
     "Carl and TJ don't look at me, but I can sense that they want to."
 
-# game/TJ-Thursday.rpy:1563
+# game/TJ-Thursday.rpy:1564
 translate Schinese tjthursday_8c198e6b:
 
     # "Carl is the first one to make a sound, clearing his throat."
     "Carl is the first one to make a sound, clearing his throat."
 
-# game/TJ-Thursday.rpy:1564
+# game/TJ-Thursday.rpy:1565
 translate Schinese tjthursday_e119639b:
 
     # c "\"Soooo, Sydney's bedroom, maybe?\""
     c "\"Soooo, Sydney's bedroom, maybe?\""
 
-# game/TJ-Thursday.rpy:1565
+# game/TJ-Thursday.rpy:1566
 translate Schinese tjthursday_1da2743a:
 
     # t "\"That's what I'm thinking. This is a kid writing this stuff, so it should be pretty straightforward.\""
     t "\"That's what I'm thinking. This is a kid writing this stuff, so it should be pretty straightforward.\""
 
-# game/TJ-Thursday.rpy:1566
+# game/TJ-Thursday.rpy:1567
 translate Schinese tjthursday_6a20a80d_2:
 
     # "I shake my head."
     "I shake my head."
 
-# game/TJ-Thursday.rpy:1567
+# game/TJ-Thursday.rpy:1568
 translate Schinese tjthursday_3e045a00:
 
     # m "\"Really guys?\""
     m "\"Really guys?\""
 
-# game/TJ-Thursday.rpy:1568
+# game/TJ-Thursday.rpy:1569
 translate Schinese tjthursday_cc063464:
 
     # "TJ finally looks over at me."
     "TJ finally looks over at me."
 
-# game/TJ-Thursday.rpy:1569
+# game/TJ-Thursday.rpy:1570
 translate Schinese tjthursday_2223d08d:
 
     # t "\"What?\""
     t "\"What?\""
 
-# game/TJ-Thursday.rpy:1570
+# game/TJ-Thursday.rpy:1571
 translate Schinese tjthursday_becf4f20:
 
     # "There's a defensive tone in TJ's voice, and I know he knows what I'm about to say."
     "There's a defensive tone in TJ's voice, and I know he knows what I'm about to say."
 
-# game/TJ-Thursday.rpy:1571
+# game/TJ-Thursday.rpy:1572
 translate Schinese tjthursday_c6ee8b9b:
 
     # m "\"This—this is way too much.\""
     m "\"This—this is way too much.\""
 
-# game/TJ-Thursday.rpy:1572
+# game/TJ-Thursday.rpy:1573
 translate Schinese tjthursday_83f51ead:
 
     # "TJ frowns at me."
     "TJ frowns at me."
 
-# game/TJ-Thursday.rpy:1573
+# game/TJ-Thursday.rpy:1574
 translate Schinese tjthursday_d774107b:
 
     # t "\"Too much what?\""
     t "\"Too much what?\""
 
-# game/TJ-Thursday.rpy:1574
+# game/TJ-Thursday.rpy:1575
 translate Schinese tjthursday_81eb6958:
 
     # m "\"Y—you know...\""
     m "\"Y—you know...\""
 
-# game/TJ-Thursday.rpy:1575
+# game/TJ-Thursday.rpy:1576
 translate Schinese tjthursday_7433b9cc:
 
     # "I trail off, not used to TJ looking at me this way."
     "I trail off, not used to TJ looking at me this way."
 
-# game/TJ-Thursday.rpy:1576
+# game/TJ-Thursday.rpy:1577
 translate Schinese tjthursday_b61556de:
 
     # "He lets the silence drag on and I look over to Carl for help."
     "He lets the silence drag on and I look over to Carl for help."
 
-# game/TJ-Thursday.rpy:1577
+# game/TJ-Thursday.rpy:1578
 translate Schinese tjthursday_feaf03c0:
 
     # "He clears his throat again."
     "He clears his throat again."
 
-# game/TJ-Thursday.rpy:1578
+# game/TJ-Thursday.rpy:1579
 translate Schinese tjthursday_c75494b9:
 
     # c "\"You know, Teej, this IS pretty weird. Like, someone would have probably taken it by now.\""
     c "\"You know, Teej, this IS pretty weird. Like, someone would have probably taken it by now.\""
 
-# game/TJ-Thursday.rpy:1579
+# game/TJ-Thursday.rpy:1580
 translate Schinese tjthursday_0d798cb5:
 
     # t "\"Why does that have to be the case? People could have just missed it. We almost did.\""
     t "\"Why does that have to be the case? People could have just missed it. We almost did.\""
 
-# game/TJ-Thursday.rpy:1580
+# game/TJ-Thursday.rpy:1581
 translate Schinese tjthursday_8cf43bb6:
 
     # "TJ looks back down at the note, holding it in both paws."
     "TJ looks back down at the note, holding it in both paws."
 
-# game/TJ-Thursday.rpy:1581
+# game/TJ-Thursday.rpy:1582
 translate Schinese tjthursday_1e9e6010:
 
     # "I reach out for it, but TJ pulls it back, like I'm going to try and steal it from him."
     "I reach out for it, but TJ pulls it back, like I'm going to try and steal it from him."
 
-# game/TJ-Thursday.rpy:1582
+# game/TJ-Thursday.rpy:1583
 translate Schinese tjthursday_0aea0ee0:
 
     # m "\"Um.. can I look at it for a sec?\""
     m "\"Um.. can I look at it for a sec?\""
 
-# game/TJ-Thursday.rpy:1583
+# game/TJ-Thursday.rpy:1584
 translate Schinese tjthursday_253a84f2:
 
     # "TJ hesitates, then holds it out to me slowly."
     "TJ hesitates, then holds it out to me slowly."
 
-# game/TJ-Thursday.rpy:1585
+# game/TJ-Thursday.rpy:1586
 translate Schinese tjthursday_fd6fa297:
 
     # "I eye the lynx as I reach out, taking the note from him gently."
     "I eye the lynx as I reach out, taking the note from him gently."
 
-# game/TJ-Thursday.rpy:1586
+# game/TJ-Thursday.rpy:1587
 translate Schinese tjthursday_012ef0cb:
 
     # "TJ's behavior alone has me deciding that this whole thing is definitely a bad idea."
     "TJ's behavior alone has me deciding that this whole thing is definitely a bad idea."
 
-# game/TJ-Thursday.rpy:1587
+# game/TJ-Thursday.rpy:1588
 translate Schinese tjthursday_183a0280:
 
     # "The note looks old just like the first two we found."
     "The note looks old just like the first two we found."
 
-# game/TJ-Thursday.rpy:1588
+# game/TJ-Thursday.rpy:1589
 translate Schinese tjthursday_1b47038c:
 
     # "The writing looks the same, too."
     "The writing looks the same, too."
 
-# game/TJ-Thursday.rpy:1589
+# game/TJ-Thursday.rpy:1590
 translate Schinese tjthursday_717b07d8:
 
     # "Maybe it is possible that Sydney came in here to hide the note, wanting to make this scavenger hunt especially scary for us."
     "Maybe it is possible that Sydney came in here to hide the note, wanting to make this scavenger hunt especially scary for us."
 
-# game/TJ-Thursday.rpy:1590
+# game/TJ-Thursday.rpy:1591
 translate Schinese tjthursday_fac6d3cb:
 
     # "But still, I can't shake the feeling that something is off about it."
     "But still, I can't shake the feeling that something is off about it."
 
-# game/TJ-Thursday.rpy:1591
+# game/TJ-Thursday.rpy:1592
 translate Schinese tjthursday_a4c995e7:
 
     # "I need to find time to really think about this."
     "I need to find time to really think about this."
 
-# game/TJ-Thursday.rpy:1592
+# game/TJ-Thursday.rpy:1593
 translate Schinese tjthursday_ed4e8ae3:
 
     # "For now though, I hand the paper back to TJ who takes it from me gingerly, as if worried it'll fall apart."
     "For now though, I hand the paper back to TJ who takes it from me gingerly, as if worried it'll fall apart."
 
-# game/TJ-Thursday.rpy:1593
+# game/TJ-Thursday.rpy:1594
 translate Schinese tjthursday_2058c03c:
 
     # t "\"Carl, do you know who lives in Sydney's old house now?\""
     t "\"Carl, do you know who lives in Sydney's old house now?\""
 
-# game/TJ-Thursday.rpy:1594
+# game/TJ-Thursday.rpy:1595
 translate Schinese tjthursday_613874d5:
 
     # "Carl tips his head back as if thinking."
     "Carl tips his head back as if thinking."
 
-# game/TJ-Thursday.rpy:1595
+# game/TJ-Thursday.rpy:1596
 translate Schinese tjthursday_2ed85b5b:
 
     # c "\"Huh, I can't remember his name, but he's a red panda, I think.\""
     c "\"Huh, I can't remember his name, but he's a red panda, I think.\""
 
-# game/TJ-Thursday.rpy:1596
+# game/TJ-Thursday.rpy:1597
 translate Schinese tjthursday_a0347d19:
 
     # t "\"Well, let's go then.\""
     t "\"Well, let's go then.\""
 
-# game/TJ-Thursday.rpy:1597
+# game/TJ-Thursday.rpy:1598
 translate Schinese tjthursday_5e318fb7:
 
     # "I give a start."
     "I give a start."
 
-# game/TJ-Thursday.rpy:1598
+# game/TJ-Thursday.rpy:1599
 translate Schinese tjthursday_3eb6b4a1:
 
     # m "\"To the house!?\""
     m "\"To the house!?\""
 
-# game/TJ-Thursday.rpy:1599
+# game/TJ-Thursday.rpy:1600
 translate Schinese tjthursday_f2dff2d3:
 
     # m "\"His family moved out right after...it happened. There's no way it's still there, TJ.\""
     m "\"His family moved out right after...it happened. There's no way it's still there, TJ.\""
 
-# game/TJ-Thursday.rpy:1600
+# game/TJ-Thursday.rpy:1601
 translate Schinese tjthursday_0ccd511c:
 
     # t "\"The other two were.\""
     t "\"The other two were.\""
 
-# game/TJ-Thursday.rpy:1601
+# game/TJ-Thursday.rpy:1602
 translate Schinese tjthursday_0a606d9f:
 
     # m "\"This is different, though.\""
     m "\"This is different, though.\""
 
-# game/TJ-Thursday.rpy:1602
+# game/TJ-Thursday.rpy:1603
 translate Schinese tjthursday_2fe6cda7:
 
     # t "\"Might as well try.\""
     t "\"Might as well try.\""
 
-# game/TJ-Thursday.rpy:1603
+# game/TJ-Thursday.rpy:1604
 translate Schinese tjthursday_d14e6f90:
 
     # "I can't imagine going up to the new homeowner and telling him about Sydney and this posthumous scavenger hunt, and him just letting us in."
     "I can't imagine going up to the new homeowner and telling him about Sydney and this posthumous scavenger hunt, and him just letting us in."
 
-# game/TJ-Thursday.rpy:1604
+# game/TJ-Thursday.rpy:1605
 translate Schinese tjthursday_2adbaa78:
 
     # "But the determined look on TJ's face tells me right away that I won't be able to talk him out of it."
     "But the determined look on TJ's face tells me right away that I won't be able to talk him out of it."
 
-# game/TJ-Thursday.rpy:1605
+# game/TJ-Thursday.rpy:1606
 translate Schinese tjthursday_3f739ce1_4:
 
     # "I sigh."
     "I sigh."
 
-# game/TJ-Thursday.rpy:1606
+# game/TJ-Thursday.rpy:1607
 translate Schinese tjthursday_d94f29b8:
 
     # m "\"Well...can we at least do it tomorrow?\""
     m "\"Well...can we at least do it tomorrow?\""
 
-# game/TJ-Thursday.rpy:1607
+# game/TJ-Thursday.rpy:1608
 translate Schinese tjthursday_023b43f9:
 
     # "I look at my phone."
     "I look at my phone."
 
-# game/TJ-Thursday.rpy:1608
+# game/TJ-Thursday.rpy:1609
 translate Schinese tjthursday_f91792e6:
 
     # m "\"It's almost 10.\""
     m "\"It's almost 10.\""
 
-# game/TJ-Thursday.rpy:1609
+# game/TJ-Thursday.rpy:1610
 translate Schinese tjthursday_6851e746:
 
     # "TJ doesn't say anything as he looks out the window, his face barely visible in the darkness."
     "TJ doesn't say anything as he looks out the window, his face barely visible in the darkness."
 
-# game/TJ-Thursday.rpy:1610
+# game/TJ-Thursday.rpy:1611
 translate Schinese tjthursday_1c2fcd00:
 
     # "Carl shifts around next to me."
     "Carl shifts around next to me."
 
-# game/TJ-Thursday.rpy:1611
+# game/TJ-Thursday.rpy:1612
 translate Schinese tjthursday_22429301:
 
     # c "\"Yeeeah, I'm gettin' pretty tired. We'll have all day tomorrow.\""
     c "\"Yeeeah, I'm gettin' pretty tired. We'll have all day tomorrow.\""
 
-# game/TJ-Thursday.rpy:1613
+# game/TJ-Thursday.rpy:1614
 translate Schinese tjthursday_b4a900c7:
 
     # "TJ suddenly turns around and heads for the door."
     "TJ suddenly turns around and heads for the door."
 
-# game/TJ-Thursday.rpy:1614
+# game/TJ-Thursday.rpy:1615
 translate Schinese tjthursday_18ae2aea:
 
     # t "\"Fine, but we are going. I am, at least.\""
     t "\"Fine, but we are going. I am, at least.\""
 
-# game/TJ-Thursday.rpy:1615
+# game/TJ-Thursday.rpy:1616
 translate Schinese tjthursday_b694076e:
 
     # "Carl glances at me, probably feeling as uneasy as I am."
     "Carl glances at me, probably feeling as uneasy as I am."
 
-# game/TJ-Thursday.rpy:1616
+# game/TJ-Thursday.rpy:1617
 translate Schinese tjthursday_dd79201b:
 
     # c "\"Hey, I'm comin' too. Just think it'll be easier.\""
     c "\"Hey, I'm comin' too. Just think it'll be easier.\""
 
-# game/TJ-Thursday.rpy:1617
+# game/TJ-Thursday.rpy:1618
 translate Schinese tjthursday_d74122d3:
 
     # "TJ doesn't respond and we make the rest of the treacherous journey out of the school in silence."
     "TJ doesn't respond and we make the rest of the treacherous journey out of the school in silence."
 
-# game/TJ-Thursday.rpy:1622
+# game/TJ-Thursday.rpy:1623
 translate Schinese tjthursday_44f5ebe5:
 
     # "Jenna looks up from her phone as I slide into the driver's seat."
     "Jenna looks up from her phone as I slide into the driver's seat."
 
-# game/TJ-Thursday.rpy:1623
+# game/TJ-Thursday.rpy:1624
 translate Schinese tjthursday_e4f589e7:
 
     # j "\"Find anything?\""
     j "\"Find anything?\""
 
-# game/TJ-Thursday.rpy:1624
+# game/TJ-Thursday.rpy:1625
 translate Schinese tjthursday_c806ebc0_2:
 
     # m "\"Yeah.\""
     m "\"Yeah.\""
 
-# game/TJ-Thursday.rpy:1625
+# game/TJ-Thursday.rpy:1626
 translate Schinese tjthursday_24f2bc6a:
 
     # j "\"Another note?\""
     j "\"Another note?\""
 
-# game/TJ-Thursday.rpy:1626
+# game/TJ-Thursday.rpy:1627
 translate Schinese tjthursday_c806ebc0_3:
 
     # m "\"Yeah.\""
     m "\"Yeah.\""
 
-# game/TJ-Thursday.rpy:1627
+# game/TJ-Thursday.rpy:1628
 translate Schinese tjthursday_dc1e5ac8:
 
     # j "\"Well, what did it say?\""
     j "\"Well, what did it say?\""
 
-# game/TJ-Thursday.rpy:1628
+# game/TJ-Thursday.rpy:1629
 translate Schinese tjthursday_e7498467:
 
     # "I busy myself with searching my pockets for the keys, so Jenna turns in her seat to look back at Carl and TJ."
     "I busy myself with searching my pockets for the keys, so Jenna turns in her seat to look back at Carl and TJ."
 
-# game/TJ-Thursday.rpy:1629
+# game/TJ-Thursday.rpy:1630
 translate Schinese tjthursday_730ee8c5:
 
     # j "\"Well?\""
     j "\"Well?\""
 
-# game/TJ-Thursday.rpy:1630
+# game/TJ-Thursday.rpy:1631
 translate Schinese tjthursday_ff5f4310:
 
     # t "\"Next one is at Sydney's old house.\""
     t "\"Next one is at Sydney's old house.\""
 
-# game/TJ-Thursday.rpy:1631
+# game/TJ-Thursday.rpy:1632
 translate Schinese tjthursday_88801202:
 
     # j "\"What? Really?\""
     j "\"What? Really?\""
 
-# game/TJ-Thursday.rpy:1632
+# game/TJ-Thursday.rpy:1633
 translate Schinese tjthursday_03aad537:
 
     # t "\"Yes, we're going there tomorrow.\""
     t "\"Yes, we're going there tomorrow.\""
 
-# game/TJ-Thursday.rpy:1633
+# game/TJ-Thursday.rpy:1634
 translate Schinese tjthursday_efd99433:
 
     # "TJ doesn't offer anything more, so Jenna turns back around in her seat and gives me a look."
     "TJ doesn't offer anything more, so Jenna turns back around in her seat and gives me a look."
 
-# game/TJ-Thursday.rpy:1634
+# game/TJ-Thursday.rpy:1635
 translate Schinese tjthursday_63b792ec:
 
     # "She seems to sense the mood though, and doesn't question any further."
     "She seems to sense the mood though, and doesn't question any further."
 
-# game/TJ-Thursday.rpy:1635
+# game/TJ-Thursday.rpy:1636
 translate Schinese tjthursday_34ba5415:
 
     # "As I stick the key into the ignition, TJ speaks up again."
     "As I stick the key into the ignition, TJ speaks up again."
 
-# game/TJ-Thursday.rpy:1636
+# game/TJ-Thursday.rpy:1637
 translate Schinese tjthursday_6f497d65:
 
     # t "\"Chase, what did he mean by you not keeping secrets?\""
     t "\"Chase, what did he mean by you not keeping secrets?\""
 
-# game/TJ-Thursday.rpy:1637
+# game/TJ-Thursday.rpy:1638
 translate Schinese tjthursday_934e08de:
 
     # "A moment of silence goes by before I answer."
     "A moment of silence goes by before I answer."
 
-# game/TJ-Thursday.rpy:1638
+# game/TJ-Thursday.rpy:1639
 translate Schinese tjthursday_b3480164:
 
     # m "\"I don't know, or I don't remember. It's been a long time.\""
     m "\"I don't know, or I don't remember. It's been a long time.\""
 
-# game/TJ-Thursday.rpy:1642
+# game/TJ-Thursday.rpy:1643
 translate Schinese tjthursday_6ddc45d9:
 
     # "I lay awake next to TJ, listening to the lynx's steady breathing."
     "I lay awake next to TJ, listening to the lynx's steady breathing."
 
-# game/TJ-Thursday.rpy:1643
+# game/TJ-Thursday.rpy:1644
 translate Schinese tjthursday_b462b2e4:
 
     # "I've been tossing and turning for the past three hours, trying to get some sleep, but my mind won't settle."
     "I've been tossing and turning for the past three hours, trying to get some sleep, but my mind won't settle."
 
-# game/TJ-Thursday.rpy:1644
+# game/TJ-Thursday.rpy:1645
 translate Schinese tjthursday_1850f413:
 
     # "This whole scavenger hunt has left me with such a bad taste in my mouth."
     "This whole scavenger hunt has left me with such a bad taste in my mouth."
 
-# game/TJ-Thursday.rpy:1645
+# game/TJ-Thursday.rpy:1646
 translate Schinese tjthursday_0e1d1164:
 
     # "Something about it is especially unsettling and I've turned it over and over in my mind, examining it from every angle and now I'm sure of it."
     "Something about it is especially unsettling and I've turned it over and over in my mind, examining it from every angle and now I'm sure of it."
 
-# game/TJ-Thursday.rpy:1646
+# game/TJ-Thursday.rpy:1647
 translate Schinese tjthursday_2b3f6856:
 
     # "I saw that fox hanging in the forest AFTER Sydney died."
     "I saw that fox hanging in the forest AFTER Sydney died."
 
-# game/TJ-Thursday.rpy:1647
+# game/TJ-Thursday.rpy:1648
 translate Schinese tjthursday_8f36f657:
 
     # "That's why I was there in the first place, that's why I'd been so sad."
     "That's why I was there in the first place, that's why I'd been so sad."
 
-# game/TJ-Thursday.rpy:1648
+# game/TJ-Thursday.rpy:1649
 translate Schinese tjthursday_2725fcda:
 
     # "I turn over on my side, gripping my pillow in both paws as I stare at the wall, still listening to TJ's soft snoring behind me."
     "I turn over on my side, gripping my pillow in both paws as I stare at the wall, still listening to TJ's soft snoring behind me."
 
-# game/TJ-Thursday.rpy:1649
+# game/TJ-Thursday.rpy:1650
 translate Schinese tjthursday_3d8f4e59:
 
     # "So how the hell is any of this happening?"
     "So how the hell is any of this happening?"
 
-# game/TJ-Thursday.rpy:1650
+# game/TJ-Thursday.rpy:1651
 translate Schinese tjthursday_96c9f6a6:
 
     # "It's scary, but not because I think Sydney's ghost is writing scavenger hunts, or some stupid shit like that."
     "It's scary, but not because I think Sydney's ghost is writing scavenger hunts, or some stupid shit like that."
 
-# game/TJ-Thursday.rpy:1651
+# game/TJ-Thursday.rpy:1652
 translate Schinese tjthursday_664af4fc:
 
     # "No, someone wrote the notes pretending to be Sydney, then planted them around the town for us to find."
     "No, someone wrote the notes pretending to be Sydney, then planted them around the town for us to find."
 
-# game/TJ-Thursday.rpy:1652
+# game/TJ-Thursday.rpy:1653
 translate Schinese tjthursday_1ebe025e:
 
     # "And that someone is likely one of us; Leo, Carl, Jenna, Flynn...or even TJ."
     "And that someone is likely one of us; Leo, Carl, Jenna, Flynn...or even TJ."
 
-# game/TJ-Thursday.rpy:1653
+# game/TJ-Thursday.rpy:1654
 translate Schinese tjthursday_27e6902a:
 
     # "Are any of us sick enough to do something like that?"
     "Are any of us sick enough to do something like that?"
 
-# game/TJ-Thursday.rpy:1654
+# game/TJ-Thursday.rpy:1655
 translate Schinese tjthursday_b0979834:
 
     # "And if so, who?"
     "And if so, who?"
 
-# game/TJ-Thursday.rpy:1655
+# game/TJ-Thursday.rpy:1656
 translate Schinese tjthursday_02efd71b:
 
     # "I try to remember if I'd told anyone about that incident in the forest before today, but I honestly can't remember."
     "I try to remember if I'd told anyone about that incident in the forest before today, but I honestly can't remember."
 
-# game/TJ-Thursday.rpy:1656
+# game/TJ-Thursday.rpy:1657
 translate Schinese tjthursday_3920998a:
 
     # "Apparently my mom had told some people about it.. Jenna's parents for one."
     "Apparently my mom had told some people about it.. Jenna's parents for one."
 
-# game/TJ-Thursday.rpy:1657
+# game/TJ-Thursday.rpy:1658
 translate Schinese tjthursday_442d4894:
 
     # "But I really can't imagine Jenna being among the aforementioned."
     "But I really can't imagine Jenna being among the aforementioned."
 
-# game/TJ-Thursday.rpy:1658
+# game/TJ-Thursday.rpy:1659
 translate Schinese tjthursday_71fbd14e:
 
     # "Whoever's writing them seems to like singling me out too, mentioning the forest and how I told \"secrets\"."
     "Whoever's writing them seems to like singling me out too, mentioning the forest and how I told \"secrets\"."
 
-# game/TJ-Thursday.rpy:1659
+# game/TJ-Thursday.rpy:1660
 translate Schinese tjthursday_34940e1c:
 
     # "I roll back to stare at the ceiling and start wondering about TJ."
     "I roll back to stare at the ceiling and start wondering about TJ."
 
-# game/TJ-Thursday.rpy:1660
+# game/TJ-Thursday.rpy:1661
 translate Schinese tjthursday_7dbb7cfe:
 
     # "He's been acting really strange the past few days, his bright, cheerful demeanor almost completely gone after we started the treasure hunt."
     "He's been acting really strange the past few days, his bright, cheerful demeanor almost completely gone after we started the treasure hunt."
 
-# game/TJ-Thursday.rpy:1661
+# game/TJ-Thursday.rpy:1662
 translate Schinese tjthursday_9617c833:
 
     # "I guess it's possible that he's upset enough to do something that's as crazy as this."
     "I guess it's possible that he's upset enough to do something that's as crazy as this."
 
-# game/TJ-Thursday.rpy:1662
+# game/TJ-Thursday.rpy:1663
 translate Schinese tjthursday_421fe7a2:
 
     # "Maybe it could make him feel like he's connecting to the person he'd watched die over a decade ago."
     "Maybe it could make him feel like he's connecting to the person he'd watched die over a decade ago."
 
-# game/TJ-Thursday.rpy:1663
+# game/TJ-Thursday.rpy:1664
 translate Schinese tjthursday_6eba9fa2:
 
     # "Maybe he did it a long time ago and it's only now that we've come across them?"
     "Maybe he did it a long time ago and it's only now that we've come across them?"
 
-# game/TJ-Thursday.rpy:1664
+# game/TJ-Thursday.rpy:1665
 translate Schinese tjthursday_728c70eb:
 
     # "Maybe he can't remember because he buried those memories?"
     "Maybe he can't remember because he buried those memories?"
 
-# game/TJ-Thursday.rpy:1665
+# game/TJ-Thursday.rpy:1666
 translate Schinese tjthursday_aa5da5ea:
 
     # "Those papers do seem pretty old."
     "Those papers do seem pretty old."
 
-# game/TJ-Thursday.rpy:1666
+# game/TJ-Thursday.rpy:1667
 translate Schinese tjthursday_b6825a72:
 
     # "But I can't shake the feeling that this person has it out for me in some way."
     "But I can't shake the feeling that this person has it out for me in some way."
 
-# game/TJ-Thursday.rpy:1667
+# game/TJ-Thursday.rpy:1668
 translate Schinese tjthursday_662273ef:
 
     # "I think about how Carl was the one to find the first letter."
     "I think about how Carl was the one to find the first letter."
 
-# game/TJ-Thursday.rpy:1668
+# game/TJ-Thursday.rpy:1669
 translate Schinese tjthursday_e7784495:
 
     # "But I almost immediately dismiss the idea that Carl might be involved."
     "But I almost immediately dismiss the idea that Carl might be involved."
 
-# game/TJ-Thursday.rpy:1669
+# game/TJ-Thursday.rpy:1670
 translate Schinese tjthursday_a9a4eda4:
 
     # "He would have no reason to do it..."
     "He would have no reason to do it..."
 
-# game/TJ-Thursday.rpy:1670
+# game/TJ-Thursday.rpy:1671
 translate Schinese tjthursday_ebbf62a4:
 
     # "...Unless."
     "...Unless."
 
-# game/TJ-Thursday.rpy:1671
+# game/TJ-Thursday.rpy:1672
 translate Schinese tjthursday_358ae58c:
 
     # "The only other person I can even imagine doing this is Flynn."
     "The only other person I can even imagine doing this is Flynn."
 
-# game/TJ-Thursday.rpy:1672
+# game/TJ-Thursday.rpy:1673
 translate Schinese tjthursday_7255b87d:
 
     # "He was the one most upset about Sydney's death, aside from TJ."
     "He was the one most upset about Sydney's death, aside from TJ."
 
-# game/TJ-Thursday.rpy:1673
+# game/TJ-Thursday.rpy:1674
 translate Schinese tjthursday_d7bd3167:
 
     # "Carl and Flynn seem to have grown pretty close over the past year or so."
     "Carl and Flynn seem to have grown pretty close over the past year or so."
 
-# game/TJ-Thursday.rpy:1674
+# game/TJ-Thursday.rpy:1675
 translate Schinese tjthursday_b1c3f883:
 
     # "Could the two of them be involved somehow?"
     "Could the two of them be involved somehow?"
 
-# game/TJ-Thursday.rpy:1675
+# game/TJ-Thursday.rpy:1676
 translate Schinese tjthursday_806dc803:
 
     # "It's pretty suspicious that it would just show up in Carl's basement."
     "It's pretty suspicious that it would just show up in Carl's basement."
 
-# game/TJ-Thursday.rpy:1676
+# game/TJ-Thursday.rpy:1677
 translate Schinese tjthursday_146355aa:
 
     # "I roll back to my side, preferring to stare at the wall."
     "I roll back to my side, preferring to stare at the wall."
 
-# game/TJ-Thursday.rpy:1677
+# game/TJ-Thursday.rpy:1678
 translate Schinese tjthursday_7f64333b:
 
     # "I don't like suspecting my friends like this, but this whole thing is messed up on so many levels, and I'm really worried about TJ."
     "I don't like suspecting my friends like this, but this whole thing is messed up on so many levels, and I'm really worried about TJ."
 
-# game/TJ-Thursday.rpy:1678
+# game/TJ-Thursday.rpy:1679
 translate Schinese tjthursday_c090be06:
 
     # "Depending on how this all ends, it could make things even worse for him."
     "Depending on how this all ends, it could make things even worse for him."
 
-# game/TJ-Thursday.rpy:1679
+# game/TJ-Thursday.rpy:1680
 translate Schinese tjthursday_9bbead1d:
 
     # "Considering how Flynn treated TJ at the river, I wouldn't be surprised if it's leading up to something terrible."
     "Considering how Flynn treated TJ at the river, I wouldn't be surprised if it's leading up to something terrible."
 
-# game/TJ-Thursday.rpy:1680
+# game/TJ-Thursday.rpy:1681
 translate Schinese tjthursday_f4213777:
 
     # "And on top of all of that, there's the insidious way that these rhymes refer to me..."
     "And on top of all of that, there's the insidious way that these rhymes refer to me..."
 
-# game/TJ-Thursday.rpy:1681
+# game/TJ-Thursday.rpy:1682
 translate Schinese tjthursday_8c3afb46:
 
     # "I decide that I'm going to have to do something after we find the next note, depending on what it says."
     "I decide that I'm going to have to do something after we find the next note, depending on what it says."
 
-# game/TJ-Thursday.rpy:1682
+# game/TJ-Thursday.rpy:1683
 translate Schinese tjthursday_03193670:
 
     # "If we even find it at all."
     "If we even find it at all."
 
-# game/TJ-Thursday.rpy:1684
+# game/TJ-Thursday.rpy:1685
 translate Schinese tjthursday_bf775f9d:
 
     # "I'm hoping that we don't..."
     "I'm hoping that we don't..."
 
-# game/TJ-Thursday.rpy:1691
+# game/TJ-Thursday.rpy:1692
 translate Schinese tjthursday_2eee3373:
 
     # c "\"If you go in I'll give you a dollar.\""
     c "\"If you go in I'll give you a dollar.\""
 
-# game/TJ-Thursday.rpy:1693
+# game/TJ-Thursday.rpy:1694
 translate Schinese tjthursday_564d4d01:
 
     # t "\"No.\""
     t "\"No.\""
 
-# game/TJ-Thursday.rpy:1695
+# game/TJ-Thursday.rpy:1696
 translate Schinese tjthursday_fd5d62a4:
 
     # c "\"Five bucks.\""
     c "\"Five bucks.\""
 
-# game/TJ-Thursday.rpy:1696
+# game/TJ-Thursday.rpy:1697
 translate Schinese tjthursday_098a1402:
 
     # t "\"Noo.\""
     t "\"Noo.\""
 
-# game/TJ-Thursday.rpy:1697
+# game/TJ-Thursday.rpy:1698
 translate Schinese tjthursday_fc949731:
 
     # c "\"Ten.\""
     c "\"Ten.\""
 
-# game/TJ-Thursday.rpy:1698
+# game/TJ-Thursday.rpy:1699
 translate Schinese tjthursday_966f8421:
 
     # t "\"Nooooo.\""
     t "\"Nooooo.\""
 
-# game/TJ-Thursday.rpy:1699
+# game/TJ-Thursday.rpy:1700
 translate Schinese tjthursday_3672d8e0:
 
     # c "\"You could buy like, twenty candy bars with that money.\""
     c "\"You could buy like, twenty candy bars with that money.\""
 
-# game/TJ-Thursday.rpy:1700
+# game/TJ-Thursday.rpy:1701
 translate Schinese tjthursday_302133a5:
 
     # t "\"I'm not going in!\""
     t "\"I'm not going in!\""
 
-# game/TJ-Thursday.rpy:1702
+# game/TJ-Thursday.rpy:1703
 translate Schinese tjthursday_dd2acdb4:
 
     # c "\"Alright, alright. Quit yelling.\""
     c "\"Alright, alright. Quit yelling.\""
 
-# game/TJ-Thursday.rpy:1706
+# game/TJ-Thursday.rpy:1707
 translate Schinese tjthursday_eb583c36:
 
     # "Carl and I swing side by side, synchronizing our legs so that we swing back and forth at the same time."
     "Carl and I swing side by side, synchronizing our legs so that we swing back and forth at the same time."
 
-# game/TJ-Thursday.rpy:1707
+# game/TJ-Thursday.rpy:1708
 translate Schinese tjthursday_6a796dc8:
 
     # "As always, it doesn't work because Carl's so much heavier than I am."
     "As always, it doesn't work because Carl's so much heavier than I am."
 
-# game/TJ-Thursday.rpy:1708
+# game/TJ-Thursday.rpy:1709
 translate Schinese tjthursday_79657a0d:
 
     # "The wind feels good on my fur, finally cooling me down after being out in the heat all day."
     "The wind feels good on my fur, finally cooling me down after being out in the heat all day."
 
-# game/TJ-Thursday.rpy:1709
+# game/TJ-Thursday.rpy:1710
 translate Schinese tjthursday_d43feb60:
 
     # "Toby sits on top of the slide next to us, watching with a bored look on his face."
     "Toby sits on top of the slide next to us, watching with a bored look on his face."
 
-# game/TJ-Thursday.rpy:1710
+# game/TJ-Thursday.rpy:1711
 translate Schinese tjthursday_fec28c53:
 
     # t "\"It's my turn, Chase.\""
     t "\"It's my turn, Chase.\""
 
-# game/TJ-Thursday.rpy:1711
+# game/TJ-Thursday.rpy:1712
 translate Schinese tjthursday_dbe9a302:
 
     # m "\"In a minute.\""
     m "\"In a minute.\""
 
-# game/TJ-Thursday.rpy:1712
+# game/TJ-Thursday.rpy:1713
 translate Schinese tjthursday_67a6e6fe:
 
     # t "\"It's been like, fifteen minutes!\""
     t "\"It's been like, fifteen minutes!\""
 
-# game/TJ-Thursday.rpy:1713
+# game/TJ-Thursday.rpy:1714
 translate Schinese tjthursday_4ef18f3e:
 
     # m "\"Nuh-uh.\""
     m "\"Nuh-uh.\""
 
-# game/TJ-Thursday.rpy:1714
+# game/TJ-Thursday.rpy:1715
 translate Schinese tjthursday_c6037134:
 
     # "Toby sighs and sits back, pouting."
     "Toby sighs and sits back, pouting."
 
-# game/TJ-Thursday.rpy:1715
+# game/TJ-Thursday.rpy:1716
 translate Schinese tjthursday_09baf5a7:
 
     # "I look back over at the old school and smile."
     "I look back over at the old school and smile."
 
-# game/TJ-Thursday.rpy:1716
+# game/TJ-Thursday.rpy:1717
 translate Schinese tjthursday_7429f762:
 
     # m "\"But if you go inside I'll let you."
     m "\"But if you go inside I'll let you."
 
-# game/TJ-Thursday.rpy:1717
+# game/TJ-Thursday.rpy:1718
 translate Schinese tjthursday_04cad5b1:
 
     # t "\"NO!\""
     t "\"NO!\""
 
-# game/TJ-Thursday.rpy:1718
+# game/TJ-Thursday.rpy:1719
 translate Schinese tjthursday_07023f0d:
 
     # "Toby's shout seems to echo around us and I giggle."
     "Toby's shout seems to echo around us and I giggle."
 
-# game/TJ-Thursday.rpy:1719
+# game/TJ-Thursday.rpy:1720
 translate Schinese tjthursday_294316b3:
 
     # m "\"Fine, fine...\""
     m "\"Fine, fine...\""
 
-# game/TJ-Thursday.rpy:1720
+# game/TJ-Thursday.rpy:1721
 translate Schinese tjthursday_011703f6:
 
     # "We swing a little longer, the rhythmic squeaking of the chains being the only sound."
     "We swing a little longer, the rhythmic squeaking of the chains being the only sound."
 
-# game/TJ-Thursday.rpy:1721
+# game/TJ-Thursday.rpy:1722
 translate Schinese tjthursday_315a6970:
 
     # c "\"When's Sydney coming back with the popsicles? He's taking forever.\""
     c "\"When's Sydney coming back with the popsicles? He's taking forever.\""
 
-# game/TJ-Thursday.rpy:1722
+# game/TJ-Thursday.rpy:1723
 translate Schinese tjthursday_b7862602:
 
     # m "\"Maybe his mom caught him and made him stay home?\""
     m "\"Maybe his mom caught him and made him stay home?\""
 
-# game/TJ-Thursday.rpy:1723
+# game/TJ-Thursday.rpy:1724
 translate Schinese tjthursday_7f59ca97:
 
     # c "\"Uggghhh...\""
     c "\"Uggghhh...\""
 
-# game/TJ-Thursday.rpy:1724
+# game/TJ-Thursday.rpy:1725
 translate Schinese tjthursday_813e1713:
 
     # "Carl leans far back in the swing and I feel the entire thing shift around."
     "Carl leans far back in the swing and I feel the entire thing shift around."
 
-# game/TJ-Thursday.rpy:1725
+# game/TJ-Thursday.rpy:1726
 translate Schinese tjthursday_05a0c78c:
 
     # "I wonder if it's going to collapse."
     "I wonder if it's going to collapse."
 
-# game/TJ-Thursday.rpy:1726
+# game/TJ-Thursday.rpy:1727
 translate Schinese tjthursday_4a53cb70:
 
     # c "\"We should go to your house, Chase. It's too hot.\""
     c "\"We should go to your house, Chase. It's too hot.\""
 
-# game/TJ-Thursday.rpy:1727
+# game/TJ-Thursday.rpy:1728
 translate Schinese tjthursday_e24614b4:
 
     # t "\"I wanna swing.\""
     t "\"I wanna swing.\""
 
-# game/TJ-Thursday.rpy:1728
+# game/TJ-Thursday.rpy:1729
 translate Schinese tjthursday_ab50225c:
 
     # "I lower my feet and let them kick through the dirt as I slow myself down, sending a cloud of dust in the air."
     "I lower my feet and let them kick through the dirt as I slow myself down, sending a cloud of dust in the air."
 
-# game/TJ-Thursday.rpy:1729
+# game/TJ-Thursday.rpy:1730
 translate Schinese tjthursday_244bab82:
 
     # "This talk about Sydney reminds me of something, something I'd been told about yesterday, and now that he isn't here..."
     "This talk about Sydney reminds me of something, something I'd been told about yesterday, and now that he isn't here..."
 
-# game/TJ-Thursday.rpy:1730
+# game/TJ-Thursday.rpy:1731
 translate Schinese tjthursday_e9717bd2:
 
     # m "\"Hey guys, my mom told me something about Syd yesterday.\""
     m "\"Hey guys, my mom told me something about Syd yesterday.\""
 
-# game/TJ-Thursday.rpy:1733
+# game/TJ-Thursday.rpy:1734
 translate Schinese tjthursday_b323f2a9:
 
     # "Toby's already slid down the slide and walked up next to me, holding one of the chains on the swing as he tries to push me out of the seat."
     "Toby's already slid down the slide and walked up next to me, holding one of the chains on the swing as he tries to push me out of the seat."
 
-# game/TJ-Thursday.rpy:1734
+# game/TJ-Thursday.rpy:1735
 translate Schinese tjthursday_f37fcef5:
 
     # m "\"Don't push me, Toby! Don't you wanna hear it? It's a secret.\""
     m "\"Don't push me, Toby! Don't you wanna hear it? It's a secret.\""
 
-# game/TJ-Thursday.rpy:1735
+# game/TJ-Thursday.rpy:1736
 translate Schinese tjthursday_691ab01e:
 
     # "I move to stand between the two swings as Carl kicks his hooves into the dirt next to us."
     "I move to stand between the two swings as Carl kicks his hooves into the dirt next to us."
 
-# game/TJ-Thursday.rpy:1736
+# game/TJ-Thursday.rpy:1737
 translate Schinese tjthursday_040cbc8b:
 
     # t "\"Keep swinging, Carl. I wanna swing with you!\""
     t "\"Keep swinging, Carl. I wanna swing with you!\""
 
-# game/TJ-Thursday.rpy:1737
+# game/TJ-Thursday.rpy:1738
 translate Schinese tjthursday_8a0dc105:
 
     # c "\"Wait, what's the secret?\""
     c "\"Wait, what's the secret?\""
 
-# game/TJ-Thursday.rpy:1738
+# game/TJ-Thursday.rpy:1739
 translate Schinese tjthursday_efd0527c:
 
     # t "\"Swing, Carl!\""
     t "\"Swing, Carl!\""
 
-# game/TJ-Thursday.rpy:1739
+# game/TJ-Thursday.rpy:1740
 translate Schinese tjthursday_00faab7b:
 
     # m "\"Wait a minute! It's really weird.\""
     m "\"Wait a minute! It's really weird.\""
 
-# game/TJ-Thursday.rpy:1740
+# game/TJ-Thursday.rpy:1741
 translate Schinese tjthursday_7e35ee12:
 
     # "That seems to finally catch Toby's attention and he settles down."
     "That seems to finally catch Toby's attention and he settles down."
 
-# game/TJ-Thursday.rpy:1741
+# game/TJ-Thursday.rpy:1742
 translate Schinese tjthursday_2223d08d_1:
 
     # t "\"What?\""
     t "\"What?\""
 
-# game/TJ-Thursday.rpy:1742
+# game/TJ-Thursday.rpy:1743
 translate Schinese tjthursday_9cf59da1:
 
     # "Carl and Toby stare at me and for the first time I feel a little worried about telling them, but having their full attention like this is kinda cool."
     "Carl and Toby stare at me and for the first time I feel a little worried about telling them, but having their full attention like this is kinda cool."
 
-# game/TJ-Thursday.rpy:1743
+# game/TJ-Thursday.rpy:1744
 translate Schinese tjthursday_32d8112b:
 
     # m "\"You know what happened to Syd's dad a while ago when school started, right?\""
     m "\"You know what happened to Syd's dad a while ago when school started, right?\""
 
-# game/TJ-Thursday.rpy:1744
+# game/TJ-Thursday.rpy:1745
 translate Schinese tjthursday_d62d711b:
 
     # c "\"Yeah.\""
     c "\"Yeah.\""
 
-# game/TJ-Thursday.rpy:1747
+# game/TJ-Thursday.rpy:1748
 translate Schinese tjthursday_ffa4bbfd:
 
     # "Carl's completely stopped on the swing now, staring at me."
     "Carl's completely stopped on the swing now, staring at me."
 
-# game/TJ-Thursday.rpy:1748
+# game/TJ-Thursday.rpy:1749
 translate Schinese tjthursday_b73ceb43:
 
     # m "\"Well.. my mom says the cops think it's really weird what happened.\""
     m "\"Well.. my mom says the cops think it's really weird what happened.\""
 
-# game/TJ-Thursday.rpy:1749
+# game/TJ-Thursday.rpy:1750
 translate Schinese tjthursday_7ac5b518:
 
     # t "\"Sydney's dad died. He's in heaven now.\""
     t "\"Sydney's dad died. He's in heaven now.\""
 
-# game/TJ-Thursday.rpy:1750
+# game/TJ-Thursday.rpy:1751
 translate Schinese tjthursday_ee02b4e8:
 
     # "Toby says it matter-of-factly and starts to swing a little again."
     "Toby says it matter-of-factly and starts to swing a little again."
 
-# game/TJ-Thursday.rpy:1751
+# game/TJ-Thursday.rpy:1752
 translate Schinese tjthursday_f90e0121:
 
     # t "\"Even if you're a Mormon you can go to heaven. My dad said so.\""
     t "\"Even if you're a Mormon you can go to heaven. My dad said so.\""
 
-# game/TJ-Thursday.rpy:1752
+# game/TJ-Thursday.rpy:1753
 translate Schinese tjthursday_b04dc3a4:
 
     # m "\"Yeah, but do you know how he died?\""
     m "\"Yeah, but do you know how he died?\""
 
-# game/TJ-Thursday.rpy:1753
+# game/TJ-Thursday.rpy:1754
 translate Schinese tjthursday_7e366458:
 
     # "I start whispering and look over my shoulder at the dirt road to see if Syd is coming."
     "I start whispering and look over my shoulder at the dirt road to see if Syd is coming."
 
-# game/TJ-Thursday.rpy:1754
+# game/TJ-Thursday.rpy:1755
 translate Schinese tjthursday_398a12ef:
 
     # "It's empty for now."
     "It's empty for now."
 
-# game/TJ-Thursday.rpy:1756
+# game/TJ-Thursday.rpy:1757
 translate Schinese tjthursday_53eb1892:
 
     # c "\"He accidentally got shot when he was hunting with Syd.\""
     c "\"He accidentally got shot when he was hunting with Syd.\""
 
-# game/TJ-Thursday.rpy:1757
+# game/TJ-Thursday.rpy:1758
 translate Schinese tjthursday_18e2419d:
 
     # "That's what the adults told us, that he was \"accidentally shot\", maybe while he was loading his gun."
     "That's what the adults told us, that he was \"accidentally shot\", maybe while he was loading his gun."
 
-# game/TJ-Thursday.rpy:1758
+# game/TJ-Thursday.rpy:1759
 translate Schinese tjthursday_7a5970b9:
 
     # m "\"My mom said they aren't sure if that really happened, though.\""
     m "\"My mom said they aren't sure if that really happened, though.\""
 
-# game/TJ-Thursday.rpy:1759
+# game/TJ-Thursday.rpy:1760
 translate Schinese tjthursday_008d18c9:
 
     # c "\"Whaddaya mean?\""
     c "\"Whaddaya mean?\""
 
-# game/TJ-Thursday.rpy:1760
+# game/TJ-Thursday.rpy:1761
 translate Schinese tjthursday_df1ddd77:
 
     # "Toby seems to have taken interest again and stops swinging, staring at me."
     "Toby seems to have taken interest again and stops swinging, staring at me."
 
-# game/TJ-Thursday.rpy:1761
+# game/TJ-Thursday.rpy:1762
 translate Schinese tjthursday_66b27740:
 
     # m "\"Well.. maybe Syd did something.\""
     m "\"Well.. maybe Syd did something.\""
 
-# game/TJ-Thursday.rpy:1762
+# game/TJ-Thursday.rpy:1763
 translate Schinese tjthursday_8bc5aab4_1:
 
     # "Carl frowns."
     "Carl frowns."
 
-# game/TJ-Thursday.rpy:1763
+# game/TJ-Thursday.rpy:1764
 translate Schinese tjthursday_5d703c92:
 
     # c "\"Like, Sydney did it?\""
     c "\"Like, Sydney did it?\""
 
-# game/TJ-Thursday.rpy:1764
+# game/TJ-Thursday.rpy:1765
 translate Schinese tjthursday_6631903c:
 
     # m "\"I mean, I don't know, but my mom said to be careful around him, just in case.\""
     m "\"I mean, I don't know, but my mom said to be careful around him, just in case.\""
 
-# game/TJ-Thursday.rpy:1765
+# game/TJ-Thursday.rpy:1766
 translate Schinese tjthursday_63af27f8:
 
     # "Toby's eyes suddenly widen even more as he suddenly understands."
     "Toby's eyes suddenly widen even more as he suddenly understands."
 
-# game/TJ-Thursday.rpy:1766
+# game/TJ-Thursday.rpy:1767
 translate Schinese tjthursday_ffab3885:
 
     # t "\"Sydney killed his dad!?\""
     t "\"Sydney killed his dad!?\""
 
-# game/TJ-Thursday.rpy:1767
+# game/TJ-Thursday.rpy:1768
 translate Schinese tjthursday_c424d0f9:
 
     # m "\"SHHH!\""
     m "\"SHHH!\""
 
-# game/TJ-Thursday.rpy:1768
+# game/TJ-Thursday.rpy:1769
 translate Schinese tjthursday_5c8a8f78:
 
     # "Toby flinches as I grab his muzzle with one paw, squeezing it shut."
     "Toby flinches as I grab his muzzle with one paw, squeezing it shut."
 
-# game/TJ-Thursday.rpy:1769
+# game/TJ-Thursday.rpy:1770
 translate Schinese tjthursday_9f409ee7:
 
     # m "\"You have to keep it a secret!\""
     m "\"You have to keep it a secret!\""
 
-# game/TJ-Thursday.rpy:1770
+# game/TJ-Thursday.rpy:1771
 translate Schinese tjthursday_f6b90d98:
 
     # "Toby just sits there, staring at me."
     "Toby just sits there, staring at me."
 
-# game/TJ-Thursday.rpy:1771
+# game/TJ-Thursday.rpy:1772
 translate Schinese tjthursday_a74f17b3:
 
     # "Carl does the same."
     "Carl does the same."
 
-# game/TJ-Thursday.rpy:1772
+# game/TJ-Thursday.rpy:1773
 translate Schinese tjthursday_bf971591:
 
     # "Now I kind of wish that I hadn't told them."
     "Now I kind of wish that I hadn't told them."
 
-# game/TJ-Thursday.rpy:1773
+# game/TJ-Thursday.rpy:1774
 translate Schinese tjthursday_f7a28a2d:
 
     # m "\"They don't know, though. My mom just said to be careful. That's it. It might have been an accident.\""
     m "\"They don't know, though. My mom just said to be careful. That's it. It might have been an accident.\""
 
-# game/TJ-Thursday.rpy:1774
+# game/TJ-Thursday.rpy:1775
 translate Schinese tjthursday_cb2cfa03:
 
     # "I talk kinda fast, like I'm trying to take back what I'd just said."
     "I talk kinda fast, like I'm trying to take back what I'd just said."
 
-# game/TJ-Thursday.rpy:1775
+# game/TJ-Thursday.rpy:1776
 translate Schinese tjthursday_68292615:
 
     # "I let go of Toby, but he just sits there and doesn't swing."
     "I let go of Toby, but he just sits there and doesn't swing."
 
-# game/TJ-Thursday.rpy:1776
+# game/TJ-Thursday.rpy:1777
 translate Schinese tjthursday_2dd997e6:
 
     # "Carl just stares at the ground, then his ears flick up."
     "Carl just stares at the ground, then his ears flick up."
 
-# game/TJ-Thursday.rpy:1777
+# game/TJ-Thursday.rpy:1778
 translate Schinese tjthursday_8aff9515:
 
     # "A few seconds later I hear scuffing footsteps making their way up the dirt road and I turn around to see Sydney jogging toward us."
     "A few seconds later I hear scuffing footsteps making their way up the dirt road and I turn around to see Sydney jogging toward us."
 
-# game/TJ-Thursday.rpy:1778
+# game/TJ-Thursday.rpy:1779
 translate Schinese tjthursday_b63c57fc:
 
     # "His arms are filled with colorful ice pops wrapped in plastic."
     "His arms are filled with colorful ice pops wrapped in plastic."
 
-# game/TJ-Thursday.rpy:1779
+# game/TJ-Thursday.rpy:1780
 translate Schinese tjthursday_b3f405eb:
 
     # sy "\"Hey, sorry, I had to go into the basement freezer to find some. They're Super Wolf pops.\""
     sy "\"Hey, sorry, I had to go into the basement freezer to find some. They're Super Wolf pops.\""
 
-# game/TJ-Thursday.rpy:1781
+# game/TJ-Thursday.rpy:1782
 translate Schinese tjthursday_07f0cabe:
 
     # "He stumbles up next to us, kicking up another cloud of dust."
     "He stumbles up next to us, kicking up another cloud of dust."
 
-# game/TJ-Thursday.rpy:1782
+# game/TJ-Thursday.rpy:1783
 translate Schinese tjthursday_f62927ca:
 
     # "He stands there for a second, breathing heavy, sweating through his thick fur."
     "He stands there for a second, breathing heavy, sweating through his thick fur."
 
-# game/TJ-Thursday.rpy:1783
+# game/TJ-Thursday.rpy:1784
 translate Schinese tjthursday_86f0fa00:
 
     # sy "\"Uh, grab one?\""
     sy "\"Uh, grab one?\""
 
-# game/TJ-Thursday.rpy:1784
+# game/TJ-Thursday.rpy:1785
 translate Schinese tjthursday_e9d3e8a3:
 
     # "The three of us reach out automatically and take one of our own."
     "The three of us reach out automatically and take one of our own."
 
-# game/TJ-Thursday.rpy:1785
+# game/TJ-Thursday.rpy:1786
 translate Schinese tjthursday_63e7a6ab:
 
     # "Mine is partially melted already, blue liquid pooling at one end of the plastic."
     "Mine is partially melted already, blue liquid pooling at one end of the plastic."
 
-# game/TJ-Thursday.rpy:1787
+# game/TJ-Thursday.rpy:1788
 translate Schinese tjthursday_170b4f2c:
 
     # "Sydney frowns at us."
     "Sydney frowns at us."
 
-# game/TJ-Thursday.rpy:1788
+# game/TJ-Thursday.rpy:1789
 translate Schinese tjthursday_db64838f:
 
     # sy "\"What were you guys talking about?\""
     sy "\"What were you guys talking about?\""
 
-# game/TJ-Thursday.rpy:1790
+# game/TJ-Thursday.rpy:1791
 translate Schinese tjthursday_583e7aa8:
 
     # c "\"Nothing.\""
     c "\"Nothing.\""
 
-# game/TJ-Thursday.rpy:1791
+# game/TJ-Thursday.rpy:1792
 translate Schinese tjthursday_9aa2cbf8:
 
     # "Carl says it almost before Sydney can finish his sentence."
     "Carl says it almost before Sydney can finish his sentence."
 
-# game/TJ-Thursday.rpy:1792
+# game/TJ-Thursday.rpy:1793
 translate Schinese tjthursday_d831d0b1:
 
     # "Sydney glares."
     "Sydney glares."
 
-# game/TJ-Thursday.rpy:1796
+# game/TJ-Thursday.rpy:1797
 translate Schinese tjthursday_ddf0353c:
 
     # sy "\"Yeah right, what were you saying about me?\""
     sy "\"Yeah right, what were you saying about me?\""
 
-# game/TJ-Thursday.rpy:1797
+# game/TJ-Thursday.rpy:1798
 translate Schinese tjthursday_b1f76ed1:
 
     # "Sydney turns on me and I just shake my head, busying myself with opening the plastic."
     "Sydney turns on me and I just shake my head, busying myself with opening the plastic."
 
-# game/TJ-Thursday.rpy:1798
+# game/TJ-Thursday.rpy:1799
 translate Schinese tjthursday_78b741a6:
 
     # "Then Sydney turns to Toby, his glare turning into a smirk."
     "Then Sydney turns to Toby, his glare turning into a smirk."
 
-# game/TJ-Thursday.rpy:1799
+# game/TJ-Thursday.rpy:1800
 translate Schinese tjthursday_b865fff2:
 
     # sy "\"Alright, Tobias, you'd better tell me what you were talking about!\""
     sy "\"Alright, Tobias, you'd better tell me what you were talking about!\""
 
-# game/TJ-Thursday.rpy:1800
+# game/TJ-Thursday.rpy:1801
 translate Schinese tjthursday_2ba6038a:
 
     # "I feel my stomach turn even as I open the package and turn it upside down to pour the sweet blue juice into my mouth."
     "I feel my stomach turn even as I open the package and turn it upside down to pour the sweet blue juice into my mouth."
 
-# game/TJ-Thursday.rpy:1801
+# game/TJ-Thursday.rpy:1802
 translate Schinese tjthursday_9dd0ea4d:
 
     # sy "\"Tell me or I'm gonna wrestle ya!\""
     sy "\"Tell me or I'm gonna wrestle ya!\""
 
-# game/TJ-Thursday.rpy:1802
+# game/TJ-Thursday.rpy:1803
 translate Schinese tjthursday_bf359920:
 
     # "Sydney goes at Toby with his paws up, baring his blunt claws."
     "Sydney goes at Toby with his paws up, baring his blunt claws."
 
-# game/TJ-Thursday.rpy:1803
+# game/TJ-Thursday.rpy:1804
 translate Schinese tjthursday_f9f68dd8:
 
     # "Toby eyes him for a moment, but once Sydney gets close the lynx twists out of the way like only a cat can."
     "Toby eyes him for a moment, but once Sydney gets close the lynx twists out of the way like only a cat can."
 
-# game/TJ-Thursday.rpy:1805
+# game/TJ-Thursday.rpy:1806
 translate Schinese tjthursday_475d68bd:
 
     # t "\"Don't touch me!\""
     t "\"Don't touch me!\""
 
-# game/TJ-Thursday.rpy:1806
+# game/TJ-Thursday.rpy:1807
 translate Schinese tjthursday_24ba0999:
 
     # "Toby hides behind Carl and I as Sydney turns to watch him, lowering his paws slowly."
     "Toby hides behind Carl and I as Sydney turns to watch him, lowering his paws slowly."
 
-# game/TJ-Thursday.rpy:1808
+# game/TJ-Thursday.rpy:1809
 translate Schinese tjthursday_2fe9f4ff:
 
     # sy "\"What's wrong?\""
     sy "\"What's wrong?\""
 
-# game/TJ-Thursday.rpy:1809
+# game/TJ-Thursday.rpy:1810
 translate Schinese tjthursday_d01f1b0c:
 
     # "Toby doesn't say anything, standing behind me quietly."
     "Toby doesn't say anything, standing behind me quietly."
 
-# game/TJ-Thursday.rpy:1810
+# game/TJ-Thursday.rpy:1811
 translate Schinese tjthursday_13976fb4:
 
     # "I can feel his cold ice pop pressing against my back."
     "I can feel his cold ice pop pressing against my back."
 
-# game/TJ-Thursday.rpy:1811
+# game/TJ-Thursday.rpy:1812
 translate Schinese tjthursday_e17f7066:
 
     # "We stand in silence for a while, and I can see Sydney trying to figure out what's going on."
     "We stand in silence for a while, and I can see Sydney trying to figure out what's going on."
 
-# game/TJ-Thursday.rpy:1812
+# game/TJ-Thursday.rpy:1813
 translate Schinese tjthursday_c180e617:
 
     # "I try to think of something fast."
     "I try to think of something fast."
 
-# game/TJ-Thursday.rpy:1813
+# game/TJ-Thursday.rpy:1814
 translate Schinese tjthursday_9e94ca8e:
 
     # m "\"Hey, lets go to my house and play on the trampoline!\""
     m "\"Hey, lets go to my house and play on the trampoline!\""
 
-# game/TJ-Thursday.rpy:1815
+# game/TJ-Thursday.rpy:1816
 translate Schinese tjthursday_4bca42a4:
 
     # c "\"Yeah!\""
     c "\"Yeah!\""
 
-# game/TJ-Thursday.rpy:1817
+# game/TJ-Thursday.rpy:1818
 translate Schinese tjthursday_e2b63e80:
 
     # "Carl hops out of the swing and starts walking toward the road."
     "Carl hops out of the swing and starts walking toward the road."
 
-# game/TJ-Thursday.rpy:1821
+# game/TJ-Thursday.rpy:1822
 translate Schinese tjthursday_7091bde9:
 
     # "I follow him as Toby clings to my side."
     "I follow him as Toby clings to my side."
 
-# game/TJ-Thursday.rpy:1822
+# game/TJ-Thursday.rpy:1823
 translate Schinese tjthursday_af3b6c71:
 
     # "Sydney doesn't follow and, after a moment I turn back to look at him."
     "Sydney doesn't follow and, after a moment I turn back to look at him."
 
-# game/TJ-Thursday.rpy:1823
+# game/TJ-Thursday.rpy:1824
 translate Schinese tjthursday_0115278b:
 
     # "He's glaring at me."
     "He's glaring at me."
 
-# game/TJ-Thursday.rpy:1824
+# game/TJ-Thursday.rpy:1825
 translate Schinese tjthursday_df8ec4bc_1:
 
     # m "\"What?\""
     m "\"What?\""
 
-# game/TJ-Thursday.rpy:1825
+# game/TJ-Thursday.rpy:1826
 translate Schinese tjthursday_d183b721:
 
     # "He goes on glaring before throwing his ice pop into the dirt and running past us."
     "He goes on glaring before throwing his ice pop into the dirt and running past us."
 
-# game/TJ-Thursday.rpy:1826
+# game/TJ-Thursday.rpy:1827
 translate Schinese tjthursday_9d567ff1:
 
     # sy "\"You guys suck!\""
     sy "\"You guys suck!\""
 
-# game/TJ-Thursday.rpy:1828
+# game/TJ-Thursday.rpy:1829
 translate Schinese tjthursday_51b7ad99:
 
     # "He runs up the road and back toward town, disappearing into the bright sunset."
     "He runs up the road and back toward town, disappearing into the bright sunset."
+
 
 translate Schinese strings:
 

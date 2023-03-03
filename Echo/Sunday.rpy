@@ -1,3 +1,5 @@
+# TODO: Translation updated at 2023-02-19 00:53
+
 # game/Sunday.rpy:11
 translate Schinese wideshot_ae21f8b6:
 
@@ -281,9 +283,9 @@ translate Schinese wideshot_b661380b:
     "就在此时，坐在Carl旁边的Flynn一把将公羊的裤子扯下了膝盖。"
 
 # game/Sunday.rpy:77
-translate Schinese wideshot_067a43bc:
+translate Schinese wideshot_a0ec4abe:
 
-    # "Even though Carl's pretty quick to pull them back back, I still get a pretty good view of his equally white balls dangling between his legs."
+    # "Even though Carl's pretty quick to pull them back up, I still get a pretty good view of his equally big white balls dangling between his legs."
     "就算Carl以光速提起裤子，我依然能清楚地捕捉到了他那对在两腿之间晃来晃去的纯白色蛋蛋。"
 
 # game/Sunday.rpy:78
@@ -311,9 +313,9 @@ translate Schinese wideshot_5caaa2f3:
     m "\"都快21的人了，还这么会玩，嗯？\""
 
 # game/Sunday.rpy:82
-translate Schinese wideshot_667c6a33:
+translate Schinese wideshot_3f5642b8:
 
-    # l "\"Yeah. It's a a little more awkward without you three around, though.\""
+    # l "\"Yeah. It's a little more awkward without you three around, though.\""
     l "\"是啊。不过没有你们三个在的时候会更尴尬些。\""
 
 # game/Sunday.rpy:83
@@ -383,9 +385,9 @@ translate Schinese wideshot_5f51a0eb:
     c "\"我不知道你们饿不饿，但我快饿疯了。我们去买点漏斗蛋糕吃吧。\""
 
 # game/Sunday.rpy:102
-translate Schinese wideshot_ea81fa2e:
+translate Schinese wideshot_52bc5e18:
 
-    # f "\"Jesus Carl, we just got here.\""
+    # f "\"Jesus, Carl, we just got here.\""
     f "\"上帝啊，Carl，我们明明才刚到。\""
 
 # game/Sunday.rpy:103
@@ -449,15 +451,15 @@ translate Schinese wideshot_5529f242:
     "TJ抬头望向那个高大而起伏的电动红钢过山车。"
 
 # game/Sunday.rpy:119
-translate Schinese wideshot_3cc7f65f:
+translate Schinese wideshot_c6232118:
 
-    # "It's definitely the most recognizable landmark in the park, you could see from almost anywhere in Payton."
+    # "It's definitely the most recognizable landmark in the park, you could see it from almost anywhere in Payton."
     "这个过山车无疑是公园里最有代表性的地标，无论在沛顿市的哪个角落都能够看见。"
 
 # game/Sunday.rpy:120
-translate Schinese wideshot_d2dac40c:
+translate Schinese wideshot_4c8fc4e7:
 
-    # l "\"Yep! Fastest, and tallest roller coaster in the West! I think it'll be worth it.\""
+    # l "\"Yep! Fastest and tallest roller coaster in the West! I think it'll be worth it.\""
     l "\"没错！这可是西部速度最快，高度最高的过山车！哪怕排个长队也值啊。\""
 
 # game/Sunday.rpy:121
@@ -503,9 +505,9 @@ translate Schinese wideshot_82183c8d:
     f "\"噢，少来了，TJ，你他妈已经是个成年人了！\""
 
 # game/Sunday.rpy:129
-translate Schinese wideshot_7b39a557:
+translate Schinese wideshot_b4490b2d:
 
-    # t "\"No! It's fine...I'm fine. I just haven't been on a roller coaster in a while.\""
+    # t "\"No! It's fine.. I'm fine. I just haven't been on a roller coaster in a while.\""
     t "\"不！没关系...我很好。我只是太久没坐过山车了。\""
 
 # game/Sunday.rpy:130
@@ -611,15 +613,15 @@ translate Schinese wideshot_1e4edd2e:
     "我对着他得意地笑着。"
 
 # game/Sunday.rpy:157
-translate Schinese wideshot_0d491acd:
+translate Schinese wideshot_71a5c4ee:
 
-    # m "\"I've ridden it before, Leo."
-    m "\"我以前可是坐过的，Leo。"
+    # m "\"I've ridden it before, Leo.\""
+    m "\"我以前可是坐过的，Leo。\""
 
 # game/Sunday.rpy:158
-translate Schinese wideshot_827c22d3:
+translate Schinese wideshot_7649fb5a:
 
-    # m "\"Though...your tail's kinda down, sure you're not nervous?\""
+    # m "\"Though.. your tail's kinda down, sure you're not nervous?\""
     m "\"而且...你尾巴有点下垂诶，你真的不紧张么？\""
 
 # game/Sunday.rpy:160
@@ -785,9 +787,9 @@ translate Schinese wideshot_ed4a2ded:
     "周围的人都开始看向我们。"
 
 # game/Sunday.rpy:194
-translate Schinese wideshot_4fa9f783:
+translate Schinese wideshot_e4c39df9:
 
-    # "Unfortunately, Flynn who is lined up with Carl towards the back, is paying very close attention, grinning like he knew this was going to happen."
+    # "Unfortunately, Flynn, who is lined up with Carl towards the back, is paying very close attention, grinning like he knew this was going to happen."
     "不幸的是，Flynn坐在Carl身旁，密切地向后张望着，脸上的坏笑似乎表示他早就料到了这种事情的发生。"
 
 # game/Sunday.rpy:196
@@ -1589,9 +1591,9 @@ translate Schinese wideshot_7c1b8a4f:
     c "\"小小的，不过很精神哦！\""
 
 # game/Sunday.rpy:391
-translate Schinese wideshot_55ce8840:
+translate Schinese wideshot_6a896702:
 
-    # "After a few seconds of tusseling and Carl getting smacked in the nose by TJ, somebody shushes us from behind and we're forced into silence."
+    # "After a few seconds of tussling and Carl getting smacked in the nose by TJ, somebody shushes us from behind and we're forced into silence."
     "他们之间扭打了一会儿，TJ甚至一拳打在了Carl的鼻子上，我能听见后面有人嘘声迫使我们安静下来。"
 
 # game/Sunday.rpy:392
@@ -2447,24 +2449,24 @@ translate Schinese wideshot_1d145470:
     l "\"好了，让我们开始吧。\""
 
 # game/Sunday.rpy:596
-translate Schinese wideshot_2c377be6:
+translate Schinese wideshot_4977fb1e:
 
-    # "Carny" "\"Step right up, test your strength! Three dollars, three tries. Ring the bell and win a prize!\""
-    "Carny" "\"站在这儿，测试你真正的力量吧！三美元，三次机会。把钟敲响，拿走奖励！\""
+    # car "\"Step right up, test your strength! Three dollars, three tries. Ring the bell and win a prize!\""
+    car "\"站在这儿，测试你真正的力量吧！三美元，三次机会。把钟敲响，拿走奖励！\""
 
-# game/Sunday.rpy:601
+# game/Sunday.rpy:604
 translate Schinese wideshot_518d5aac:
 
     # l "\"I'd like a try.\""
     l "\"让我先试试。\""
 
 # game/Sunday.rpy:602
-translate Schinese wideshot_f625f317:
+translate Schinese wideshot_852013e1:
 
-    # "Carny" "\"Ah, we have a taker! Big strong wolf like you would have no problem at all! Three dollars, please!\""
-    "Carny" "\"哈，新的挑战者来了！像你这样强壮的狼一定没有问题！请先拿出三美元吧！\""
+    # car "\"Ah, we have a taker! Big strong wolf like you would have no problem at all! Three dollars, please!\""
+    car "\"哈，新的挑战者来了！像你这样强壮的狼一定没有问题！请先拿出三美元吧！\""
 
-# game/Sunday.rpy:603
+# game/Sunday.rpy:606
 translate Schinese wideshot_8fe3323e:
 
     # "Leo hands over the money and the Carny hands him a mallet."
@@ -2525,12 +2527,12 @@ translate Schinese wideshot_4eeea46e:
     "我能感觉到这一锤非常用力，不过指针却只停在了40分的地方。"
 
 # game/Sunday.rpy:615
-translate Schinese wideshot_9d9bca5a:
+translate Schinese wideshot_918456f0:
 
-    # "Carny" "\"Oooh, almost, sir wolf, try again!\""
-    "Carny" "\"喔哦，差一点，狼先生，再试一次吧！\""
+    # car "\"Oooh, almost, sir wolf, try again!\""
+    car "\"喔哦，差一点，狼先生，再试一次吧！\""
 
-# game/Sunday.rpy:616
+# game/Sunday.rpy:621
 translate Schinese wideshot_01ba0495:
 
     # "Leo's brow furrows, and now I'm not so sure this was a good idea."
@@ -2549,12 +2551,12 @@ translate Schinese wideshot_c41e9acc:
     "这一次，指针停在了70分的位置。"
 
 # game/Sunday.rpy:621
-translate Schinese wideshot_e3c10fea:
+translate Schinese wideshot_1e34ed05:
 
-    # "Carny" "\"Even better! This time, put your back into it!\""
-    "Carny" "\"干得更漂亮了！这一次，拿出你全部的实力吧！\""
+    # car "\"Even better! This time, put your back into it!\""
+    car "\"干得更漂亮了！这一次，拿出你全部的实力吧！\""
 
-# game/Sunday.rpy:622
+# game/Sunday.rpy:627
 translate Schinese wideshot_44c981a4:
 
     # "I can hear Leo growling a little as he raises the mallet a final time and brings it down with a snarl, all the muscles in his arms standing out."
@@ -2579,12 +2581,12 @@ translate Schinese wideshot_d0c8056f:
     "Leo目瞪口呆地看着眼前的游戏。"
 
 # game/Sunday.rpy:629
-translate Schinese wideshot_362de595:
+translate Schinese wideshot_4e9aca46:
 
-    # "Carny" "\"So close! Three more dollars will get you three more tries! Would you like to try again?\""
-    "Carny" "\"差一点！三美元换三次机会！你想再试试吗？\""
+    # car "\"So close! Three more dollars will get you three more tries! Would you like to try again?\""
+    car "\"差一点！三美元换三次机会！你想再试试吗？\""
 
-# game/Sunday.rpy:632
+# game/Sunday.rpy:637
 translate Schinese wideshot_99d39ace:
 
     # j "\"Nope, my turn!\""
@@ -2597,18 +2599,18 @@ translate Schinese wideshot_cc5b53ba:
     "Jenna已经把钱拿给嘉年华的工作人员了。"
 
 # game/Sunday.rpy:634
-translate Schinese wideshot_8ff799d2:
+translate Schinese wideshot_e1a2b468:
 
-    # "Carny" "\"Oh-ho! A little battle between the sexes, eh?\""
-    "Carny" "\"噢—吼！这就是雌雄之战吗？\""
+    # car "\"Oh-ho! A little battle between the sexes, eh?\""
+    car "\"噢—吼！这就是雌雄之战吗？\""
 
-# game/Sunday.rpy:635
-translate Schinese wideshot_cd78af53:
+# game/Sunday.rpy:640
+translate Schinese wideshot_2993e5bf:
 
-    # "Carny" "\"Well step right up my fair fox maiden, how will you fare against the big bad wolf?\""
-    "Carny" "\"好了，请到这儿来，美丽的狐狸小姐，你该怎样挑战那只大坏狼呢？\""
+    # car "\"Well step right up my fair fox maiden, how will you fare against the big bad wolf?\""
+    car "\"好了，请到这儿来，美丽的狐狸小姐，你该怎样挑战那只大坏狼呢？\""
 
-# game/Sunday.rpy:636
+# game/Sunday.rpy:641
 translate Schinese wideshot_554b931f:
 
     # "Leo reluctantly hands the mallet to Jenna."
@@ -2687,36 +2689,36 @@ translate Schinese wideshot_a8636c78:
     "我们周围一些旁观的人也跟着欢呼起来。"
 
 # game/Sunday.rpy:658
-translate Schinese wideshot_fcde848e:
+translate Schinese wideshot_57e42134:
 
-    # "Carny" "\"O-Oh my! The fair fox has won! Come over and pick your prize!\""
-    "Carny" "\"我—我的天啊！这位美丽的狐狸小姐赢得了胜利！来拿走属于你的战利品吧！\""
-
-# game/Sunday.rpy:661
-translate Schinese wideshot_3d639951:
-
-    # "He glances at Leo"
-    "他看着Leo。"
-
-# game/Sunday.rpy:662
-translate Schinese wideshot_f0beea2f:
-
-    # "Carny" "\"Sorry buddy.\""
-    "Carny" "\".抱歉了，伙计。\""
-
-# game/Sunday.rpy:663
-translate Schinese wideshot_3ad692e6:
-
-    # "The Carny shoots a sympathetic, but also amused smile Leo's way before turning to the onlookers."
-    "嘉年华的工作人员向Leo露出了同情而又愉悦的微笑，然后朝着围观的群众走去。"
-
-# game/Sunday.rpy:664
-translate Schinese wideshot_4553a27f:
-
-    # "Carny" "\"See that? A female fox, half the size of this male wolf has rung the bell. Could one of you be next!?\""
-    "Carny" "\"看见了吗？一个只有雄狼一半体格的雌性狐狸敲响了钟。你们还有谁要来挑战吗！？\""
+    # car "\"O-Oh my! The fair fox has won! Come over and pick your prize!\""
+    car "\"我—我的天啊！这位美丽的狐狸小姐赢得了胜利！来拿走属于你的战利品吧！\""
 
 # game/Sunday.rpy:666
+translate Schinese wideshot_3f8844ec:
+
+    # "He glances at Leo."
+    "他看着Leo。"
+
+# game/Sunday.rpy:667
+translate Schinese wideshot_7205abc4:
+
+    # car "\"Sorry buddy.\""
+    car "\".抱歉了，伙计。\""
+
+# game/Sunday.rpy:668
+translate Schinese wideshot_a5a7bda8:
+
+    # "The feline shoots a sympathetic, but also amused smile Leo's way before turning to the onlookers."
+    "嘉年华的工作人员向Leo露出了同情而又愉悦的微笑，然后朝着围观的群众走去。"
+
+# game/Sunday.rpy:669
+translate Schinese wideshot_f48e0057:
+
+    # car "\"See that? A female fox, half the size of this male wolf has rung the bell. Could one of you be next!?\""
+    car "\"看见了吗？一个只有雄狼一半体格的雌性狐狸敲响了钟。你们还有谁要来挑战吗！？\""
+
+# game/Sunday.rpy:673
 translate Schinese wideshot_a6d293fb:
 
     # "Leo looks mortified, but quickly changes his expression to a sheepish grin."
@@ -3785,12 +3787,12 @@ translate Schinese wideshot_b6a748da:
     l "\"等等，你说‘曾经’？你...你没有丢掉—\""
 
 # game/Sunday.rpy:882
-translate Schinese wideshot_c4c3eb82:
+translate Schinese wideshot_4cc53704:
 
-    # m "\"No...no I still have it. It's just in a drawer in my dorm room.\""
+    # m "\"No.. no I still have it. It's just in a drawer in my dorm room.\""
     m "\"没有...我还留着呢。就放在我宿舍的抽屉里面。\""
 
-# game/Sunday.rpy:883
+# game/Sunday.rpy:888
 translate Schinese wideshot_91b138bd:
 
     # m "\"Honestly, If it was anything else, like one of those infinity bracelets we saw, I wouldn't have trouble wearing it...\""
@@ -4112,20 +4114,21 @@ translate Schinese strings:
     old "Lean on TJ"
     new "靠在TJ身上"
 
-    # game/Sunday.rpy:695
+    # game/Sunday.rpy:700
     old "Yes, I'm gay."
     new "嗯，我是同。"
 
-    # game/Sunday.rpy:695
+    # game/Sunday.rpy:700
     old "No, I'm bi."
     new "不，我是双。"
 
-    # 手机屏幕文本
-    old "We're kinda hungry. We should meet back up."
-    new "我们都饿了，找个地方汇合吧。"
+    # # 手机屏幕文本
+    # old "We're kinda hungry. We should meet back up."
+    # new "我们都饿了，找个地方汇合吧。"
 
-    old "k. mostly done wit rids anwya"
-    new "好。我们也玩得差不多了"
+    # old "k. mostly done wit rids anwya"
+    # new "好。我们也玩得差不多了"
 
-    old "meet @ food crt"
-    new "美食街见"
+    # old "meet @ food crt"
+    # new "美食街见"
+

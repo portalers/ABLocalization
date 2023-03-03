@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-04-02 17:20
+﻿# TODO: Translation updated at 2023-02-19 00:53
 
 # game/Carl-Wednesday.rpy:9
 translate Schinese carlwednesday_b4f35adf:
@@ -595,10 +595,10 @@ translate Schinese carlwednesday_d8e2eb02:
     "While it's something Flynn did to Carl a lot, the taboo act of grabbing someone's horn almost makes me gasp out loud."
 
 # game/Carl-Wednesday.rpy:148
-translate Schinese carlwednesday_f208267d:
+translate Schinese carlwednesday_7bedd9c2:
 
-    # c "\"Stoop.\""
-    c "\"Stoop.\""
+    # c "\"Sssstop...\""
+    c "\"Sssstop...\""
 
 # game/Carl-Wednesday.rpy:149
 translate Schinese carlwednesday_a8afc901:
@@ -763,10 +763,10 @@ translate Schinese carlwednesday_41c96430:
     f "\"Oh my God, loosen up. You're on vacation!\""
 
 # game/Carl-Wednesday.rpy:186
-translate Schinese carlwednesday_20866e2d:
+translate Schinese carlwednesday_27e5e712:
 
-    # "Flynn Starts cutting the slice even bigger than Carl's was."
-    "Flynn Starts cutting the slice even bigger than Carl's was."
+    # "Flynn starts cutting the slice even bigger than Carl's was."
+    "Flynn starts cutting the slice even bigger than Carl's was."
 
 # game/Carl-Wednesday.rpy:188
 translate Schinese carlwednesday_f1977462:
@@ -1549,10 +1549,10 @@ translate Schinese carlwednesday_b5da0dcd:
     "Carl's demeanor is a lot more relaxed now, obviously."
 
 # game/Carl-Wednesday.rpy:376
-translate Schinese carlwednesday_e807594c:
+translate Schinese carlwednesday_207ecbd4:
 
-    # "As is to emphasize that thought he takes another hit off his joint and holds his breath for a moment, then lets it out."
-    "As is to emphasize that thought he takes another hit off his joint and holds his breath for a moment, then lets it out."
+    # "As if to emphasize that thought he takes another hit off his joint and holds his breath for a moment, then lets it out."
+    "As if to emphasize that thought he takes another hit off his joint and holds his breath for a moment, then lets it out."
 
 # game/Carl-Wednesday.rpy:377
 translate Schinese carlwednesday_1d26908e:
@@ -2149,10 +2149,10 @@ translate Schinese carlwednesday_12a233be:
     c "\"No...NO! That's so fucking unfair!\""
 
 # game/Carl-Wednesday.rpy:491
-translate Schinese carlwednesday_68d13f07:
+translate Schinese carlwednesday_88d54710:
 
-    # "The quaver in Carl's voice doesn't exactly sound convincing, and the pot does't seem to be helping as I can see his fingers shaking."
-    "The quaver in Carl's voice doesn't exactly sound convincing, and the pot does't seem to be helping as I can see his fingers shaking."
+    # "The quiver in Carl's voice doesn't exactly sound convincing, and the pot doesn't seem to be helping as I can see his fingers shaking."
+    "The quiver in Carl's voice doesn't exactly sound convincing, and the pot doesn't seem to be helping as I can see his fingers shaking."
 
 # game/Carl-Wednesday.rpy:492
 translate Schinese carlwednesday_46327fe2:
@@ -2395,10 +2395,10 @@ translate Schinese carlwednesday_1db6301e:
     c "\"Yep, and thank Satan for it! I don't know how else I would have gotten over her.\""
 
 # game/Carl-Wednesday.rpy:548
-translate Schinese carlwednesday_4795da43:
+translate Schinese carlwednesday_bf32b330:
 
-    # c "\"Anyway, not to be dick, but...you're better for it.\""
-    c "\"Anyway, not to be dick, but...you're better for it.\""
+    # c "\"Anyway, not to be a dick, but.. you're better for it.\""
+    c "\"Anyway, not to be a dick, but.. you're better for it.\""
 
 # game/Carl-Wednesday.rpy:549
 translate Schinese carlwednesday_24d7048f:
@@ -2767,10 +2767,10 @@ translate Schinese carlwednesday_4e5a72c4:
     "He gazes at me lazily through lidded eyes, looking about ready to fall asleep."
 
 # game/Carl-Wednesday.rpy:616
-translate Schinese carlwednesday_9901b83b:
+translate Schinese carlwednesday_03534f63:
 
-    # c "\"Only...Only if you want\""
-    c "\"Only...Only if you want\""
+    # c "\"Only.. only if you want.\""
+    c "\"Only.. only if you want.\""
 
 # game/Carl-Wednesday.rpy:617
 translate Schinese carlwednesday_f41d50ec:
@@ -3709,10 +3709,10 @@ translate Schinese carlwednesday_23949a76:
     "I wince and cover my eyes, only to pull them back down immediately and see Jeremy leaping on Leo from behind and biting his ear."
 
 # game/Carl-Wednesday.rpy:805
-translate Schinese carlwednesday_e4203005:
+translate Schinese carlwednesday_7b68449c:
 
-    # "Leo screams in pain, but immediately twist and slam his knee into Jeremy's crotch."
-    "Leo screams in pain, but immediately twist and slam his knee into Jeremy's crotch."
+    # "Leo screams in pain, but immediately twists and slams his knee into Jeremy's crotch."
+    "Leo screams in pain, but immediately twists and slams his knee into Jeremy's crotch."
 
 # game/Carl-Wednesday.rpy:806
 translate Schinese carlwednesday_4f754e0f:

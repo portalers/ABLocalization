@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2021-04-02 17:20
+# TODO: Translation updated at 2023-02-19 00:53
 
 # game/Carl-B.rpy:7
 translate Schinese carlb_efb68a3e:
@@ -1099,10 +1099,10 @@ translate Schinese carlb_bf500bc3:
     m "\"Did you say something?\""
 
 # game/Carl-B.rpy:226
-translate Schinese carlb_6595508f:
+translate Schinese carlb_e9813b80:
 
-    # "She doesn't respond so."
-    "She doesn't respond so."
+    # "She doesn't respond."
+    "She doesn't respond."
 
 # game/Carl-B.rpy:227
 translate Schinese carlb_ae60f94f:
@@ -1783,10 +1783,10 @@ translate Schinese carlb_d299ddf9:
     "I yelp again, much more loudly this time as I crumple to the ground."
 
 # game/Carl-B.rpy:374
-translate Schinese carlb_dfda74c1:
+translate Schinese carlb_014a0e2f:
 
-    # "Carl swears and jump over me at Jenna."
-    "Carl swears and jump over me at Jenna."
+    # "Carl swears and jumps over me at Jenna."
+    "Carl swears and jumps over me at Jenna."
 
 # game/Carl-B.rpy:375
 translate Schinese carlb_2c0d0086:
@@ -2833,10 +2833,10 @@ translate Schinese carlb_98564df3:
     "It takes me a second to realize she's talking to me."
 
 # game/Carl-B.rpy:581
-translate Schinese carlb_16527ec5:
+translate Schinese carlb_a9e96b34:
 
-    # "It she really that gone?"
-    "It she really that gone?"
+    # "Is she really that far gone?"
+    "Is she really that far gone?"
 
 # game/Carl-B.rpy:582
 translate Schinese carlb_740e17e6:
@@ -4255,10 +4255,10 @@ translate Schinese carlb_48aa6cc4:
     m "\"Carl!\""
 
 # game/Carl-B.rpy:845
-translate Schinese carlb_69b5c5f1:
+translate Schinese carlb_7fc7d0a8:
 
-    # "I gasp at him and he moves at of the way as I run into the room."
-    "I gasp at him and he moves at of the way as I run into the room."
+    # "I gasp at him and he moves out of the way as I run into the room."
+    "I gasp at him and he moves out of the way as I run into the room."
 
 # game/Carl-B.rpy:846
 translate Schinese carlb_0ec837e2:
@@ -4297,10 +4297,10 @@ translate Schinese carlb_6c514555:
     "I saw as fast as I can, but the rope is thick and it takes a good minute to cut all the way through."
 
 # game/Carl-B.rpy:852
-translate Schinese carlb_abe016ae:
+translate Schinese carlb_dfaad0e1:
 
-    # "I'm a couple millimeters from the other end when the rope snaps all three of us come crashing to the ground."
-    "I'm a couple millimeters from the other end when the rope snaps all three of us come crashing to the ground."
+    # "I'm a couple millimeters from the other end when the rope snaps and all three of us come crashing to the ground."
+    "I'm a couple millimeters from the other end when the rope snaps and all three of us come crashing to the ground."
 
 # game/Carl-B.rpy:857
 translate Schinese carlb_a51b0534:
@@ -4441,10 +4441,10 @@ translate Schinese carlb_08c22234:
     "We lay there a while longer, Jenna busy hacking at the rope, Carl choosing to stare up at the ceiling."
 
 # game/Carl-B.rpy:882
-translate Schinese carlb_8c9b49bc:
+translate Schinese carlb_9d3d968b:
 
-    # "That almost peaceful silence is shattered as a husky stumbles into the door frame, clutching onto as he practically trips in."
-    "That almost peaceful silence is shattered as a husky stumbles into the door frame, clutching onto as he practically trips in."
+    # "That almost peaceful silence is shattered as a husky stumbles into the door frame, grasping the wall as he practically trips in."
+    "That almost peaceful silence is shattered as a husky stumbles into the door frame, grasping the wall as he practically trips in."
 
 # game/Carl-B.rpy:884
 translate Schinese carlb_04241f4d:
@@ -5605,10 +5605,10 @@ translate Schinese carlb_8f11beb7:
     "Somehow, I'm already there, like I just teleported straight down to stand on the road in front of Carl's house."
 
 # game/Carl-B.rpy:1098
-translate Schinese carlb_b8629aa5:
+translate Schinese carlb_79adaebf:
 
-    # "I stare down the slope toward the town and there, next to the road is a wooden platform build under a tree."
-    "I stare down the slope toward the town and there, next to the road is a wooden platform build under a tree."
+    # "I stare down the slope toward the town and there, next to the road is a wooden platform built out under a tree."
+    "I stare down the slope toward the town and there, next to the road is a wooden platform built out under a tree."
 
 # game/Carl-B.rpy:1099
 translate Schinese carlb_a0e8437b:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-04-02 17:20
+﻿# TODO: Translation updated at 2023-02-19 00:53
 
 # game/Carl-Thursday.rpy:12
 translate Schinese carlthursday_c65b0f17:
@@ -793,10 +793,10 @@ translate Schinese carlthursday_89280882:
     "From the looks of it some of this stuff isn't going to last much longer without proper preservation."
 
 # game/Carl-Thursday.rpy:162
-translate Schinese carlthursday_da6e1c8b:
+translate Schinese carlthursday_560bcd11:
 
-    # "Finally, I drag the tubs back and subconsciously taking note of exactly how I left them before heading back upstairs."
-    "Finally, I drag the tubs back and subconsciously taking note of exactly how I left them before heading back upstairs."
+    # "Finally, I drag the tubs back and subconsciously take note of exactly how I left them before heading back upstairs."
+    "Finally, I drag the tubs back and subconsciously take note of exactly how I left them before heading back upstairs."
 
 # game/Carl-Thursday.rpy:166
 translate Schinese carlthursday_9685f18a:
@@ -1585,10 +1585,10 @@ translate Schinese carlthursday_5d586017:
     m "\"So what kind of look do you wanna go for?\""
 
 # game/Carl-Thursday.rpy:307
-translate Schinese carlthursday_2fad351b:
+translate Schinese carlthursday_49c2e55c:
 
-    # "Carl looks at me like I'm crazy.\""
-    "Carl looks at me like I'm crazy.\""
+    # "Carl looks at me like I'm crazy."
+    "Carl looks at me like I'm crazy."
 
 # game/Carl-Thursday.rpy:308
 translate Schinese carlthursday_bf9d3466:
@@ -2365,372 +2365,378 @@ translate Schinese carlthursday_712f1ca8:
     c "\"I know, bro. It's cool.\""
 
 # game/Carl-Thursday.rpy:467
-translate Schinese carlthursday_b563f873:
+translate Schinese carlthursday_ad0bbc38:
 
-    # m "\"Seriously. I've been thinking—\""
-    m "\"Seriously. I've been thinking—\""
+    # m "\"Seriously. I've been thinking..\""
+    m "\"Seriously. I've been thinking..\""
 
 # game/Carl-Thursday.rpy:468
-translate Schinese carlthursday_b81d9d03:
+translate Schinese carlthursday_9857257e:
 
-    # c "\"Your main problem is worrying about going out in public, like a social anxiety.\""
-    c "\"Your main problem is worrying about going out in public, like a social anxiety.\""
+    # c "\"Oh no."
+    c "\"Oh no."
 
 # game/Carl-Thursday.rpy:469
+translate Schinese carlthursday_a3cf7960:
+
+    # m "\"Your main problem is worrying about going out in public, like a social anxiety.\""
+    m "\"Your main problem is worrying about going out in public, like a social anxiety.\""
+
+# game/Carl-Thursday.rpy:470
 translate Schinese carlthursday_93c09645:
 
     # c "\"Whoa, now you're sounding like Jenna.\""
     c "\"Whoa, now you're sounding like Jenna.\""
 
-# game/Carl-Thursday.rpy:470
+# game/Carl-Thursday.rpy:471
 translate Schinese carlthursday_6832b24b:
 
     # "We get to my car and he smiles at me over the roof while I unlock the doors."
     "We get to my car and he smiles at me over the roof while I unlock the doors."
 
-# game/Carl-Thursday.rpy:471
+# game/Carl-Thursday.rpy:472
 translate Schinese carlthursday_e0ec95a0:
 
     # m "\"I feel like if we can break through that, it'll help you out a bunch.\""
     m "\"I feel like if we can break through that, it'll help you out a bunch.\""
 
-# game/Carl-Thursday.rpy:472
+# game/Carl-Thursday.rpy:473
 translate Schinese carlthursday_a3e1cc82:
 
     # "I break eye contact as we both slide into our respective seats."
     "I break eye contact as we both slide into our respective seats."
 
-# game/Carl-Thursday.rpy:474
+# game/Carl-Thursday.rpy:475
 translate Schinese carlthursday_a9baab8b:
 
     # m "\"And I think this job will be a huge part of that, so I really want you to get it.\""
     m "\"And I think this job will be a huge part of that, so I really want you to get it.\""
 
-# game/Carl-Thursday.rpy:475
+# game/Carl-Thursday.rpy:476
 translate Schinese carlthursday_126d3e01:
 
     # "As I lean to the side to pull out my seatbelt, I feel something soft and warm press to my cheek."
     "As I lean to the side to pull out my seatbelt, I feel something soft and warm press to my cheek."
 
-# game/Carl-Thursday.rpy:476
+# game/Carl-Thursday.rpy:477
 translate Schinese carlthursday_1242fd7a:
 
     # "It only lasts for a second, then it's gone."
     "It only lasts for a second, then it's gone."
 
-# game/Carl-Thursday.rpy:477
+# game/Carl-Thursday.rpy:478
 translate Schinese carlthursday_d394e58c:
 
     # "I look over at Carl, but he's looking out the window."
     "I look over at Carl, but he's looking out the window."
 
-# game/Carl-Thursday.rpy:478
+# game/Carl-Thursday.rpy:479
 translate Schinese carlthursday_d7edacf9:
 
     # m "\"Did you just kiss me?\""
     m "\"Did you just kiss me?\""
 
-# game/Carl-Thursday.rpy:479
+# game/Carl-Thursday.rpy:480
 translate Schinese carlthursday_eae2c901:
 
     # c "\"Yeah bro.\""
     c "\"Yeah bro.\""
 
-# game/Carl-Thursday.rpy:480
+# game/Carl-Thursday.rpy:481
 translate Schinese carlthursday_3af574e3:
 
     # m "\"Are you high?\""
     m "\"Are you high?\""
 
-# game/Carl-Thursday.rpy:481
+# game/Carl-Thursday.rpy:482
 translate Schinese carlthursday_3a9c37c6:
 
     # c "\"No, I mean...maybe?\""
     c "\"No, I mean...maybe?\""
 
-# game/Carl-Thursday.rpy:482
+# game/Carl-Thursday.rpy:483
 translate Schinese carlthursday_f5608e95:
 
     # "He giggles."
     "He giggles."
 
-# game/Carl-Thursday.rpy:483
+# game/Carl-Thursday.rpy:484
 translate Schinese carlthursday_0cd5c6c8:
 
     # m "\"So yes.\""
     m "\"So yes.\""
 
-# game/Carl-Thursday.rpy:484
+# game/Carl-Thursday.rpy:485
 translate Schinese carlthursday_9a959dec:
 
     # "Slowly, I pull out of the parking space."
     "Slowly, I pull out of the parking space."
 
-# game/Carl-Thursday.rpy:486
+# game/Carl-Thursday.rpy:487
 translate Schinese carlthursday_d7b2cd08:
 
     # "If he hadn't made a move on me last night I might have been a little more shocked."
     "If he hadn't made a move on me last night I might have been a little more shocked."
 
-# game/Carl-Thursday.rpy:487
+# game/Carl-Thursday.rpy:488
 translate Schinese carlthursday_fbb0cdd0:
 
     # m "\"Where the hell did you get high anyway?\""
     m "\"Where the hell did you get high anyway?\""
 
-# game/Carl-Thursday.rpy:488
+# game/Carl-Thursday.rpy:489
 translate Schinese carlthursday_9239cf6e:
 
     # c "\"Alley behind the mall.\""
     c "\"Alley behind the mall.\""
 
-# game/Carl-Thursday.rpy:489
+# game/Carl-Thursday.rpy:490
 translate Schinese carlthursday_f9a81c46:
 
     # m "\"Charming.\""
     m "\"Charming.\""
 
-# game/Carl-Thursday.rpy:490
+# game/Carl-Thursday.rpy:491
 translate Schinese carlthursday_d76db7c6:
 
     # c "\"Yeah, pretty sure I've got a few needles stuck in my hooves.\""
     c "\"Yeah, pretty sure I've got a few needles stuck in my hooves.\""
 
-# game/Carl-Thursday.rpy:491
+# game/Carl-Thursday.rpy:492
 translate Schinese carlthursday_2f787c9e:
 
     # "We drive in silence for a while, Carl looking out at the desert scenery while I squint out the windshield, trying to see through the hazy orange sunset."
     "We drive in silence for a while, Carl looking out at the desert scenery while I squint out the windshield, trying to see through the hazy orange sunset."
 
-# game/Carl-Thursday.rpy:492
+# game/Carl-Thursday.rpy:493
 translate Schinese carlthursday_c4aa6538:
 
     # c "\"I did mean that, by the way.\""
     c "\"I did mean that, by the way.\""
 
-# game/Carl-Thursday.rpy:493
+# game/Carl-Thursday.rpy:494
 translate Schinese carlthursday_df8ec4bc:
 
     # m "\"What?\""
     m "\"What?\""
 
-# game/Carl-Thursday.rpy:494
+# game/Carl-Thursday.rpy:495
 translate Schinese carlthursday_a7280804:
 
     # c "\"Just...thanks.\""
     c "\"Just...thanks.\""
 
-# game/Carl-Thursday.rpy:495
+# game/Carl-Thursday.rpy:496
 translate Schinese carlthursday_910f899d:
 
     # m "\"Sure.\""
     m "\"Sure.\""
 
-# game/Carl-Thursday.rpy:496
+# game/Carl-Thursday.rpy:497
 translate Schinese carlthursday_1aeff074:
 
     # "I don't know what else to say, so I leave it at that and we drive along in pleasant silence."
     "I don't know what else to say, so I leave it at that and we drive along in pleasant silence."
 
-# game/Carl-Thursday.rpy:497
+# game/Carl-Thursday.rpy:498
 translate Schinese carlthursday_43d3c1c4:
 
     # "Carl still seems a little sad, and I can't pinpoint why."
     "Carl still seems a little sad, and I can't pinpoint why."
 
-# game/Carl-Thursday.rpy:498
+# game/Carl-Thursday.rpy:499
 translate Schinese carlthursday_c2f10320:
 
     # "I'm hoping that it's just a phase—"
     "I'm hoping that it's just a phase—"
 
-# game/Carl-Thursday.rpy:499
+# game/Carl-Thursday.rpy:500
 translate Schinese carlthursday_722bb479:
 
     # "—that by the time this interview is over he'll be able to get past his anxiety and finally be done feeling like a failure at everything."
     "—that by the time this interview is over he'll be able to get past his anxiety and finally be done feeling like a failure at everything."
 
-# game/Carl-Thursday.rpy:509
+# game/Carl-Thursday.rpy:510
 translate Schinese carlthursday_0f6b8541:
 
     # "I wake up to the feeling of a familiar, numbing heaviness in my body."
     "I wake up to the feeling of a familiar, numbing heaviness in my body."
 
-# game/Carl-Thursday.rpy:510
+# game/Carl-Thursday.rpy:511
 translate Schinese carlthursday_26f4e577:
 
     # "I try to move, tugging at what feels like a massive weight on my arms and legs, but all I can manage is to wiggle my fingers."
     "I try to move, tugging at what feels like a massive weight on my arms and legs, but all I can manage is to wiggle my fingers."
 
-# game/Carl-Thursday.rpy:511
+# game/Carl-Thursday.rpy:512
 translate Schinese carlthursday_5a25d844:
 
     # "It feels like someone's pressing down on my chest, trying to suffocate me."
     "It feels like someone's pressing down on my chest, trying to suffocate me."
 
-# game/Carl-Thursday.rpy:512
+# game/Carl-Thursday.rpy:513
 translate Schinese carlthursday_0ca161a0:
 
     # "And something's in the room with me."
     "And something's in the room with me."
 
-# game/Carl-Thursday.rpy:513
+# game/Carl-Thursday.rpy:514
 translate Schinese carlthursday_e2af9de6:
 
     # "I can't help myself; I open my eyes."
     "I can't help myself; I open my eyes."
 
-# game/Carl-Thursday.rpy:515
+# game/Carl-Thursday.rpy:516
 translate Schinese carlthursday_e977aa47:
 
     # "A blood red glow fills Carl's room, as if from a night light covered in blood."
     "A blood red glow fills Carl's room, as if from a night light covered in blood."
 
-# game/Carl-Thursday.rpy:516
+# game/Carl-Thursday.rpy:517
 translate Schinese carlthursday_59625a40:
 
     # "The sight would have made me whimper if I was able to make any kind of sound."
     "The sight would have made me whimper if I was able to make any kind of sound."
 
-# game/Carl-Thursday.rpy:517
+# game/Carl-Thursday.rpy:518
 translate Schinese carlthursday_11bfe69d:
 
     # "My eyes flick around the room."
     "My eyes flick around the room."
 
-# game/Carl-Thursday.rpy:518
+# game/Carl-Thursday.rpy:519
 translate Schinese carlthursday_3410c875:
 
     # "It looks strangely empty, a lot more empty than I remember it, as if Carl is in the middle of a move and he'd packed up all of his toys and decorations."
     "It looks strangely empty, a lot more empty than I remember it, as if Carl is in the middle of a move and he'd packed up all of his toys and decorations."
 
-# game/Carl-Thursday.rpy:519
+# game/Carl-Thursday.rpy:520
 translate Schinese carlthursday_6356ebc5:
 
     # "In fact, the only thing I recognize in his room is his bed, the blankets tossed back and empty."
     "In fact, the only thing I recognize in his room is his bed, the blankets tossed back and empty."
 
-# game/Carl-Thursday.rpy:520
+# game/Carl-Thursday.rpy:521
 translate Schinese carlthursday_0dd0f46c:
 
     # "I'm alone."
     "I'm alone."
 
-# game/Carl-Thursday.rpy:522
+# game/Carl-Thursday.rpy:523
 translate Schinese carlthursday_a20cefa7:
 
     # "..."
     "..."
 
-# game/Carl-Thursday.rpy:523
+# game/Carl-Thursday.rpy:524
 translate Schinese carlthursday_773f706c:
 
     # "I hear a chuckle, right next to my ear, and it's straight out of a horror movie."
     "I hear a chuckle, right next to my ear, and it's straight out of a horror movie."
 
-# game/Carl-Thursday.rpy:524
+# game/Carl-Thursday.rpy:525
 translate Schinese carlthursday_930b61ad:
 
     # "Whatever it is, it's right out of my line of sight and I can't turn my head to see what it is."
     "Whatever it is, it's right out of my line of sight and I can't turn my head to see what it is."
 
-# game/Carl-Thursday.rpy:525
+# game/Carl-Thursday.rpy:526
 translate Schinese carlthursday_df234784:
 
     # "My heartbeat picks up and I decide to close my eyes, knowing that nothing good will come out of opening them."
     "My heartbeat picks up and I decide to close my eyes, knowing that nothing good will come out of opening them."
 
-# game/Carl-Thursday.rpy:527
+# game/Carl-Thursday.rpy:528
 translate Schinese carlthursday_ae4e21e5:
 
     # "It breathes heavily in my ear for a while, then stops."
     "It breathes heavily in my ear for a while, then stops."
 
-# game/Carl-Thursday.rpy:529
+# game/Carl-Thursday.rpy:530
 translate Schinese carlthursday_a270b3a3:
 
     # "The weight lifts off of my body and I feel its presence leave."
     "The weight lifts off of my body and I feel its presence leave."
 
-# game/Carl-Thursday.rpy:531
+# game/Carl-Thursday.rpy:532
 translate Schinese carlthursday_22e576a0:
 
     # "I sit up, open my eyes again, and sigh with relief."
     "I sit up, open my eyes again, and sigh with relief."
 
-# game/Carl-Thursday.rpy:532
+# game/Carl-Thursday.rpy:533
 translate Schinese carlthursday_6ddbafa9:
 
     # "But then I realize the room is still empty, and so is Carl's bed."
     "But then I realize the room is still empty, and so is Carl's bed."
 
-# game/Carl-Thursday.rpy:534
+# game/Carl-Thursday.rpy:535
 translate Schinese carlthursday_a61628c5:
 
     # "???" "\"DIE!\""
     "???" "\"DIE!\""
 
-# game/Carl-Thursday.rpy:535
+# game/Carl-Thursday.rpy:536
 translate Schinese carlthursday_56ad44d6:
 
     # "Something yanks me out of bed and suddenly I'm being pulled by both feet down the hallway—"
     "Something yanks me out of bed and suddenly I'm being pulled by both feet down the hallway—"
 
-# game/Carl-Thursday.rpy:537
+# game/Carl-Thursday.rpy:538
 translate Schinese carlthursday_6895c102:
 
     # "Down the stairs—"
     "Down the stairs—"
 
-# game/Carl-Thursday.rpy:539
+# game/Carl-Thursday.rpy:540
 translate Schinese carlthursday_5d047538:
 
     # "Down the basement—"
     "Down the basement—"
 
-# game/Carl-Thursday.rpy:541
+# game/Carl-Thursday.rpy:542
 translate Schinese carlthursday_49ba0ebb:
 
     # "Towards the crawl space—"
     "Towards the crawl space—"
 
-# game/Carl-Thursday.rpy:542
+# game/Carl-Thursday.rpy:543
 translate Schinese carlthursday_fbf83181:
 
     # "Into darkness—"
     "Into darkness—"
 
-# game/Carl-Thursday.rpy:543
+# game/Carl-Thursday.rpy:544
 translate Schinese carlthursday_9ea4a5b0:
 
     # "Furry legs crawl all over my body and pin pricks pierce ever inch of my flesh."
     "Furry legs crawl all over my body and pin pricks pierce ever inch of my flesh."
 
-# game/Carl-Thursday.rpy:544
+# game/Carl-Thursday.rpy:545
 translate Schinese carlthursday_12a86254:
 
     # "I'd give anything to be able to scream right now."
     "I'd give anything to be able to scream right now."
 
-# game/Carl-Thursday.rpy:547
+# game/Carl-Thursday.rpy:548
 translate Schinese carlthursday_2b0c7d44:
 
     # "I gasp and jolt out of the paralysis."
     "I gasp and jolt out of the paralysis."
 
-# game/Carl-Thursday.rpy:548
+# game/Carl-Thursday.rpy:549
 translate Schinese carlthursday_bd96f618:
 
     # "I wait a good ten seconds before I'm convinced that I'm really out of it."
     "I wait a good ten seconds before I'm convinced that I'm really out of it."
 
-# game/Carl-Thursday.rpy:549
+# game/Carl-Thursday.rpy:550
 translate Schinese carlthursday_504ae064:
 
     # "Carl's snoring loudly in his bed, one arm dangling over the side while his belly rises and falls."
     "Carl's snoring loudly in his bed, one arm dangling over the side while his belly rises and falls."
 
-# game/Carl-Thursday.rpy:550
+# game/Carl-Thursday.rpy:551
 translate Schinese carlthursday_d4c3c4a7:
 
     # "I sit up and rub my face, wondering how the hell I'm gonna get back to sleep after that."

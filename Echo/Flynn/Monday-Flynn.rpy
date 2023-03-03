@@ -1,3 +1,5 @@
+# TODO: Translation updated at 2023-02-19 00:53
+
 # game/Monday-Flynn.rpy:3
 translate Schinese goafterflynn_62efc667:
 
@@ -23,10 +25,10 @@ translate Schinese goafterflynn_4a5fbbd7:
     m "\"总有人要对那个白痴讲讲道理。他真以为他能拍拍屁股走人？\""
 
 # game/Monday-Flynn.rpy:7
-translate Schinese goafterflynn_b40c37cd:
+translate Schinese goafterflynn_9fd0b95e:
 
-    # c "\"You know how he is..."
-    c "\"你知道他是个怎样的人..."
+    # c "\"You know how he is...\""
+    c "\"你知道他是个怎样的人...\""
 
 # game/Monday-Flynn.rpy:9
 translate Schinese goafterflynn_d95d0882:
@@ -1620,13 +1622,13 @@ translate Schinese strings:
     old "Onion rings."
     new "洋葱圈。"
 
-    # 手机屏幕文本
-    old "Are you okay?"
-    new "你还好吗？"
+    # # 手机屏幕文本
+    # old "Are you okay?"
+    # new "你还好吗？"
 
-    old "Everything is fine and I'm just trying to talk to Flynn."
-    new "都还好，我正试着跟Flynn谈谈。"
+    # old "Everything is fine and I'm just trying to talk to Flynn."
+    # new "都还好，我正试着跟Flynn谈谈。"
 
-    old "If he does anything, call me."
-    new "他要是做了什么，马上打给我。"
+    # old "If he does anything, call me."
+    # new "他要是做了什么，马上打给我。"
 

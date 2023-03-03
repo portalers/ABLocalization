@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2021-04-02 17:20
+# TODO: Translation updated at 2023-02-19 00:53
 
 # game/Carl-Mansion1.rpy:7
 translate Schinese mansion1_e15b4e3b:
@@ -685,10 +685,10 @@ translate Schinese mansion1_538bee48:
     c "\"That sounds like Raven...\""
 
 # game/Carl-Mansion1.rpy:142
-translate Schinese mansion1_fdf173be:
+translate Schinese mansion1_bd08ca79:
 
-    # "Carl start to hesitantly walk up the hallway and I move to follow...and immediately regret it as I put weight on my ankle."
-    "Carl start to hesitantly walk up the hallway and I move to follow...and immediately regret it as I put weight on my ankle."
+    # "Carl starts to hesitantly walk up the hallway and I move to follow...and immediately regret it as I put weight on my ankle."
+    "Carl starts to hesitantly walk up the hallway and I move to follow...and immediately regret it as I put weight on my ankle."
 
 # game/Carl-Mansion1.rpy:143
 translate Schinese mansion1_1fbd3017:

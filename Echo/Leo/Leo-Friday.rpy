@@ -1,4 +1,6 @@
-﻿# game/Leo-Friday.rpy:14
+﻿# TODO: Translation updated at 2023-02-19 00:53
+
+# game/Leo-Friday.rpy:14
 translate Schinese leofriday_8c4e5c77:
 
     # m "\"Wow.\""

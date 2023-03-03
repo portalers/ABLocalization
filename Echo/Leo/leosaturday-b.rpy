@@ -1,3 +1,5 @@
+# TODO: Translation updated at 2023-02-19 00:53
+
 # game/leosaturday-b.rpy:10
 translate Schinese leosaturdayb_84ecde3d:
 
@@ -4931,19 +4933,19 @@ translate Schinese leosaturdayb_d89b23d8:
     # "On the fifth swing the dimming finally turns to black."
     "在第五次挥动中，暗淡终于转变为了黑暗。"
 
-    # 手机屏幕文本
-    old "still @ pop's shop but b back soon"
-    new "还在我爸的店里 很快就回去"
+    # # 手机屏幕文本
+    # old "still @ pop's shop but b back soon"
+    # new "还在我爸的店里 很快就回去"
 
-    old "i think"
-    new "大概"
+    # old "i think"
+    # new "大概"
 
-    old "headin back"
-    new "我在回来的路上"
+    # old "headin back"
+    # new "我在回来的路上"
 
-    old "I'm hungry. We should meet at the diner."
-    new "我饿了，餐馆见吧。"
+    # old "I'm hungry. We should meet at the diner."
+    # new "我饿了，餐馆见吧。"
 
-    old "sure"
-    new "行"
+    # old "sure"
+    # new "行"
 

@@ -1,3 +1,5 @@
+# TODO: Translation updated at 2023-02-19 00:53
+
 # game/Saturday.rpy:12
 translate Schinese saturday_53ff9b18:
 
@@ -347,9 +349,9 @@ translate Schinese saturday_511ef9ca:
     "我透过后视镜再次看向Jenna，发现她早已放下书，目光望着窗外。"
 
 # game/Saturday.rpy:90
-translate Schinese saturday_9a6a20ef:
+translate Schinese saturday_d981dbb5:
 
-    # "I actually haven't given a whole lot of thought as to how I feel about the whole thing"
+    # "I actually haven't given a whole lot of thought as to how I feel about the whole thing."
     "我确实没考虑过自己对这整件事的感受。"
 
 # game/Saturday.rpy:94
@@ -611,9 +613,9 @@ translate Schinese saturday_c1fcf9d5:
     "我靠着座椅揉了会儿眼睛。"
 
 # game/Saturday.rpy:147
-translate Schinese saturday_e6178d45:
+translate Schinese saturday_23f5c192:
 
-    # m "\"Uuugh, Hope you're grateful TJ. I never wanna drive that long again.\""
+    # m "\"Uuugh. I hope you're grateful, TJ. I never wanna drive that long again.\""
     m "\"呃啊——你可得好好谢我，TJ。我再也不想开这么长时间的车了。\""
 
 # game/Saturday.rpy:148
@@ -857,9 +859,9 @@ translate Schinese saturday_98a39349:
     c "\"Chase！\""
 
 # game/Saturday.rpy:209
-translate Schinese saturday_d6d3b113:
+translate Schinese saturday_0c69c842:
 
-    # "I slap paws with him and pull him into a hug"
+    # "I slap paws with him and pull him into a hug."
     "我与他击掌相拥。"
 
 # game/Saturday.rpy:210
@@ -1799,9 +1801,9 @@ translate Schinese saturday_fd8b1ea1:
     c "\"傻瓜！注意种族特征！\""
 
 # game/Saturday.rpy:408
-translate Schinese saturday_4f3dc49d:
+translate Schinese saturday_52ac085f:
 
-    # "Species features was something we made up to make our tussels a little more fair."
+    # "Species features was something we made up to make our tussles a little more fair."
     "‘种族特征’—这是我们大家定下的，用来避免不公平打斗的规矩。"
 
 # game/Saturday.rpy:409
@@ -3215,3 +3217,4 @@ translate Schinese strings:
     # game/Saturday.rpy:91
     old "\"I'm nervous.\""
     new "\"我很紧张。\""
+

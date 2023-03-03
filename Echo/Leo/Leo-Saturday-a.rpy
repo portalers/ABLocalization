@@ -1,4 +1,6 @@
-﻿# game/Leo-Saturday-a.rpy:10
+﻿# TODO: Translation updated at 2023-02-19 00:53
+
+# game/Leo-Saturday-a.rpy:10
 translate Schinese leosaturdaya_84ecde3d:
 
     # "I sit on hard, uneven ground, shivering as I try to cover myself up with the blanket."
@@ -4808,19 +4810,19 @@ translate Schinese strings:
     old "The front doors."
     new "前门。"
 
-    # 手机屏幕文本
-    old "still @ pop's shop but b back soon"
-    new "还在我爸的店里 很快就回去"
+    # # 手机屏幕文本
+    # old "still @ pop's shop but b back soon"
+    # new "还在我爸的店里 很快就回去"
 
-    old "i think"
-    new "大概"
+    # old "i think"
+    # new "大概"
 
-    old "headin back"
-    new "我在回来的路上"
+    # old "headin back"
+    # new "我在回来的路上"
 
-    old "I'm hungry. We should meet at the diner."
-    new "我饿了，餐馆见吧。"
+    # old "I'm hungry. We should meet at the diner."
+    # new "我饿了，餐馆见吧。"
 
-    old "sure"
-    new "行"
+    # old "sure"
+    # new "行"
 

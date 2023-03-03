@@ -1,3 +1,5 @@
+# TODO: Translation updated at 2023-02-19 00:53
+
 # game/Monday-Carl.rpy:4
 translate Schinese sitwithcarl_35f375de:
 
@@ -527,10 +529,10 @@ translate Schinese sitwithcarl_0390bddd:
     "有时候我都会忘记Carl曾和我在Pueblo大学上过学。尽管只有一个学期，但那段时光我们相处得很愉快。"
 
 # game/Monday-Carl.rpy:99
-translate Schinese sitwithcarl_0b590550:
+translate Schinese sitwithcarl_fb63abaf:
 
-    # m "\"It's alright, haven't seen Chelsea at all though."
-    m "\"过得还行，不过我还没见过Chelsea呢。"
+    # m "\"It's alright, haven't seen Chelsea at all though.\""
+    m "\"过得还行，不过我还没见过Chelsea呢。\""
 
 # game/Monday-Carl.rpy:100
 translate Schinese sitwithcarl_1f19a9a7:

@@ -1,4 +1,6 @@
-﻿# game/Leo-Thursday.rpy:15
+﻿# TODO: Translation updated at 2023-02-19 00:53
+
+# game/Leo-Thursday.rpy:15
 translate Schinese leothursday_7d8ab34a:
 
     # "By morning, Leo seems to have perked up a little."
@@ -2405,9 +2407,9 @@ translate Schinese leothursday_c65d5a15:
     "不知怎的，Leo能一直把冰淇凌的话题挂在嘴边，甚至一路说到冰淇凌店去。"
 
 # game/Leo-Thursday.rpy:492
-translate Schinese leothursday_d789f5f2:
+translate Schinese leothursday_c8321fd7:
 
-    # "I decide the shots I got earlier in the day were too bright, not representative of the sad state of the town that I wanted"
+    # "I decide the shots I got earlier in the day were too bright, not representative of the sad state of the town that I wanted."
     "我觉得今天早些时候拍得那些照片太亮堂了，无法体现出我想要的那种城镇的感伤。"
 
 # game/Leo-Thursday.rpy:493

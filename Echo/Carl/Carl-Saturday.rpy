@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-04-02 17:20
+﻿# TODO: Translation updated at 2023-02-19 00:53
 
 # game/Carl-Saturday.rpy:16
 translate Schinese carlsaturday_c353bea7:
@@ -2041,10 +2041,10 @@ translate Schinese carlsaturday_186452c3:
     "Carl rubs my back as I rest my head in my paws."
 
 # game/Carl-Saturday.rpy:447
-translate Schinese carlsaturday_64fa4fb5:
+translate Schinese carlsaturday_8e03f801:
 
-    # "Vaguely, I can here more yelling behind me and Carl looks up, too."
-    "Vaguely, I can here more yelling behind me and Carl looks up, too."
+    # "Vaguely, I can hear more yelling behind me and Carl looks up, too."
+    "Vaguely, I can hear more yelling behind me and Carl looks up, too."
 
 # game/Carl-Saturday.rpy:448
 translate Schinese carlsaturday_8eef6367:

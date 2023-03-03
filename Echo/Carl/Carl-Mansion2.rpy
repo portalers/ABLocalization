@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-04-02 17:20
+﻿# TODO: Translation updated at 2023-02-19 00:53
 
 # game/Carl-Mansion2.rpy:3
 translate Schinese mansion2_8bb1c3ac:
@@ -7,10 +7,10 @@ translate Schinese mansion2_8bb1c3ac:
     ra "\"Jenna?\""
 
 # game/Carl-Mansion2.rpy:6
-translate Schinese mansion2_e80ce3ff:
+translate Schinese mansion2_b675e6ff:
 
-    # "Jenna stands there stoically, holding a what looks like a small, wooden stool."
-    "Jenna stands there stoically, holding a what looks like a small, wooden stool."
+    # "Jenna stands there stoically, holding what looks like a small, wooden stool."
+    "Jenna stands there stoically, holding what looks like a small, wooden stool."
 
 # game/Carl-Mansion2.rpy:7
 translate Schinese mansion2_d0f54cdf:
@@ -1375,10 +1375,10 @@ translate Schinese mansion2_a791b9e2:
     j "\"Hey, look.\""
 
 # game/Carl-Mansion2.rpy:291
-translate Schinese mansion2_b09fd4ed:
+translate Schinese mansion2_1a388628:
 
-    # "I looks up in time to see something dark flash across the fire."
-    "I looks up in time to see something dark flash across the fire."
+    # "I look up in time to see something dark flash across the fire."
+    "I look up in time to see something dark flash across the fire."
 
 # game/Carl-Mansion2.rpy:292
 translate Schinese mansion2_0bb51299:

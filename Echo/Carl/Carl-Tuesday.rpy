@@ -1,3 +1,5 @@
+# TODO: Translation updated at 2023-02-19 00:53
+
 # game/Carl-Tuesday.rpy:10
 translate Schinese carltuesday_d9f7fdd8:
 
@@ -473,9 +475,9 @@ translate Schinese carltuesday_868ae650:
     "另一样稀罕物是院子两边种着的两棵高大树木。"
 
 # game/Carl-Tuesday.rpy:120
-translate Schinese carltuesday_115ebb18:
+translate Schinese carltuesday_038169a0:
 
-    # "that's when I notice how empty one of them looks."
+    # "That's when I notice how empty one of them looks."
     "这时我才注意到其中一棵上面看起来空荡荡的。"
 
 # game/Carl-Tuesday.rpy:121
@@ -635,10 +637,10 @@ translate Schinese carltuesday_1d15ec9f:
     "我本能地捂住脸，但我还是听到一声闷响，接着是他沉重的呼吸声。"
 
 # game/Carl-Tuesday.rpy:156
-translate Schinese carltuesday_791799cf:
+translate Schinese carltuesday_839f80c0:
 
-    # "Slowly I lower my paws and find the chubby ram rolling back and forth on the ground, eyes wide as his mouth hanging open."
-    "我慢慢地放下爪子，发现那只圆胖的的公羊在地上来回滚动，双目圆睁"
+    # "Slowly I lower my paws and find the chubby ram rolling back and forth on the ground, eyes wide as his mouth hangs open."
+    "我慢慢地放下爪子，发现那只圆胖的的公羊在地上来回滚动，双目圆睁。"
 
 # game/Carl-Tuesday.rpy:157
 translate Schinese carltuesday_21b0e1da:
@@ -725,10 +727,10 @@ translate Schinese carltuesday_54117ac2:
     "他也笑了起来，肚子在我爪下轻轻颤动。"
 
 # game/Carl-Tuesday.rpy:171
-translate Schinese carltuesday_15120a4f:
+translate Schinese carltuesday_56050c23:
 
-    # c "\"Now you know why I don't go outside. Ugh\""
-    c "\"现在你知道为什么我宅着不出门了吧。嗯哼\""
+    # c "\"Now you know why I don't go outside. Ugh.\""
+    c "\"现在你知道为什么我宅着不出门了吧。嗯哼。\""
 
 # game/Carl-Tuesday.rpy:172
 translate Schinese carltuesday_af629145:
@@ -854,7 +856,7 @@ translate Schinese carltuesday_a72b57c4:
 translate Schinese carltuesday_0a6f712d:
 
     # "According to Carl, the first mansion was even bigger, though."
-    "不过，据Carl所说，这座豪宅最初甚至更大。
+    "不过，据Carl所说，这座豪宅最初甚至更大。"
 
 # game/Carl-Tuesday.rpy:198
 translate Schinese carltuesday_e43bf1d9:
@@ -869,9 +871,9 @@ translate Schinese carltuesday_c1c44d95:
     "顺着走廊，我们路过了一个小型家庭影院，它看起来像是一个带酒吧的娱乐室，然后是一个小健身房。"
 
 # game/Carl-Tuesday.rpy:200
-translate Schinese carltuesday_651c0949:
+translate Schinese carltuesday_031ef10e:
 
-    # "The quick glace I get shows at least ten fitness contraptions."
+    # "The quick glance I get shows at least ten fitness contraptions."
     "我随便扫一眼就看到了了至少十台健身器械。"
 
 # game/Carl-Tuesday.rpy:201
@@ -2081,9 +2083,9 @@ translate Schinese carltuesday_6916f269:
     c "\"我们可以步行过去拿。\""
 
 # game/Carl-Tuesday.rpy:434
-translate Schinese carltuesday_22ca6738:
+translate Schinese carltuesday_3170a6c2:
 
-    # "Carl seems pretty determined to make me stay, and there's not reason why I can't, so I relent."
+    # "Carl seems pretty determined to make me stay, and there's not one reason why I can't, so I relent."
     "Carl似乎打定主意要让我留下来过夜，我也没有理由不能留下来，所以我答应了。"
 
 # game/Carl-Tuesday.rpy:435
@@ -2218,17 +2220,16 @@ translate Schinese carltuesday_007162fb:
     # "During our past sleepovers Carl had always been afraid to be the last to fall asleep."
     "我们以往过夜时，Carl总是害怕最后一个睡着。"
 
-# game/Carl-Tuesday.rpy:466
 translate Schinese carltuesday_9795e26a:
 
     # "He'd try to keep me up by talking, rolling over on top of me...and sometimes by just throwing shit at me."
-    "He'd try to keep me up by talking, rolling over on top of me...and sometimes by just throwing shit at me."
+    "@@@He'd try to keep me up by talking, rolling over on top of me...and sometimes by just throwing shit at me."
 
 # game/Carl-Tuesday.rpy:467
 translate Schinese carltuesday_0f81690e:
 
     # "I wonder if that's what he's doing now."
-    "I wonder if that's what he's doing now."
+    "@@@I wonder if that's what he's doing now."
 
 # game/Carl-Tuesday.rpy:468
 translate Schinese carltuesday_03fd6a6f:
@@ -2240,1039 +2241,1039 @@ translate Schinese carltuesday_03fd6a6f:
 translate Schinese carltuesday_493373c6:
 
     # m "\"That's a lot to think about.\""
-    m "\"That's a lot to think about.\""
+    m "@@@\"That's a lot to think about.\""
 
 # game/Carl-Tuesday.rpy:470
 translate Schinese carltuesday_88b91b5e:
 
     # c "\"Not for me, heh.\""
-    c "\"Not for me, heh.\""
+    c "@@@\"Not for me, heh.\""
 
 # game/Carl-Tuesday.rpy:471
 translate Schinese carltuesday_a1be1a76:
 
     # "I look over at him again."
-    "I look over at him again."
+    "@@@I look over at him again."
 
 # game/Carl-Tuesday.rpy:472
 translate Schinese carltuesday_fa63385e:
 
     # "He's holding one paw up, looking through his fingers at the ceiling fan."
-    "He's holding one paw up, looking through his fingers at the ceiling fan."
+    "@@@He's holding one paw up, looking through his fingers at the ceiling fan."
 
 # game/Carl-Tuesday.rpy:473
 translate Schinese carltuesday_4c324a57:
 
     # m "\"You're just figuring things out.\""
-    m "\"You're just figuring things out.\""
+    m "@@@\"You're just figuring things out.\""
 
 # game/Carl-Tuesday.rpy:475
 translate Schinese carltuesday_3ece6df8:
 
     # "Carl lets his arm flop back down over his head, blowing out a sigh."
-    "Carl lets his arm flop back down over his head, blowing out a sigh."
+    "@@@Carl lets his arm flop back down over his head, blowing out a sigh."
 
 # game/Carl-Tuesday.rpy:476
 translate Schinese carltuesday_7e7feb00:
 
     # c "\"I'm not figuring things out, man.\""
-    c "\"I'm not figuring things out, man.\""
+    c "@@@\"I'm not figuring things out, man.\""
 
 # game/Carl-Tuesday.rpy:477
 translate Schinese carltuesday_73365198:
 
     # "I don't say anything. It's cool that he's reaching out to me, but I'm not sure I can offer any advice that he hasn't heard before."
-    "I don't say anything. It's cool that he's reaching out to me, but I'm not sure I can offer any advice that he hasn't heard before."
+    "@@@I don't say anything. It's cool that he's reaching out to me, but I'm not sure I can offer any advice that he hasn't heard before."
 
 # game/Carl-Tuesday.rpy:478
 translate Schinese carltuesday_0a4f66a8:
 
     # c "\"I just...I just wish I could be doing something.\""
-    c "\"I just...I just wish I could be doing something.\""
+    c "@@@\"I just...I just wish I could be doing something.\""
 
 # game/Carl-Tuesday.rpy:479
 translate Schinese carltuesday_a3506f66:
 
     # "I think for a moment."
-    "I think for a moment."
+    "@@@I think for a moment."
 
 # game/Carl-Tuesday.rpy:480
 translate Schinese carltuesday_3cb1859f:
 
     # m "\"You've done a lot more than some people I know.\""
-    m "\"You've done a lot more than some people I know.\""
+    m "@@@\"You've done a lot more than some people I know.\""
 
 # game/Carl-Tuesday.rpy:481
 translate Schinese carltuesday_2cc851af:
 
     # m "\"I mean, your art is great, you did go to school even if you dropped out, and you were working while you could.\""
-    m "\"I mean, your art is great, you did go to school even if you dropped out, and you were working while you could.\""
+    m "@@@\"I mean, your art is great, you did go to school even if you dropped out, and you were working while you could.\""
 
 # game/Carl-Tuesday.rpy:482
 translate Schinese carltuesday_ee939324:
 
     # m "\"There are a lot of people out there who can't even say that.\""
-    m "\"There are a lot of people out there who can't even say that.\""
+    m "@@@\"There are a lot of people out there who can't even say that.\""
 
 # game/Carl-Tuesday.rpy:483
 translate Schinese carltuesday_a846176f:
 
     # "Carl laughs, but it's a sad kind of laugh."
-    "Carl laughs, but it's a sad kind of laugh."
+    "@@@Carl laughs, but it's a sad kind of laugh."
 
 # game/Carl-Tuesday.rpy:484
 translate Schinese carltuesday_86df6a13:
 
     # c "\"Try saying that to my mom. She's always got something to do, always WANTS to do something.\""
-    c "\"Try saying that to my mom. She's always got something to do, always WANTS to do something.\""
+    c "@@@\"Try saying that to my mom. She's always got something to do, always WANTS to do something.\""
 
 # game/Carl-Tuesday.rpy:485
 translate Schinese carltuesday_a0964f2f:
 
     # c "\"I just...I just don't feel that."
-    c "\"I just...I just don't feel that."
+    c "@@@\"I just...I just don't feel that."
 
 # game/Carl-Tuesday.rpy:487
 translate Schinese carltuesday_66c26247:
 
     # "He turns his head towards me."
-    "He turns his head towards me."
+    "@@@He turns his head towards me."
 
 # game/Carl-Tuesday.rpy:488
 translate Schinese carltuesday_ec6c7849:
 
     # c "\"I {i}wish{/i} I did, Chase, but I just {i}can't{/i}.\""
-    c "\"I {i}wish{/i} I did, Chase, but I just {i}can't{/i}.\""
+    c "@@@\"I {i}wish{/i} I did, Chase, but I just {i}can't{/i}.\""
 
 # game/Carl-Tuesday.rpy:489
 translate Schinese carltuesday_f40e0cd8:
 
     # "His voice catches in his throat, and I shrink a bit into the bed and pretend not to notice."
-    "His voice catches in his throat, and I shrink a bit into the bed and pretend not to notice."
+    "@@@His voice catches in his throat, and I shrink a bit into the bed and pretend not to notice."
 
 # game/Carl-Tuesday.rpy:490
 translate Schinese carltuesday_eac6f515:
 
     # "The beer we've had is definitely partly to blame for this."
-    "The beer we've had is definitely partly to blame for this."
+    "@@@The beer we've had is definitely partly to blame for this."
 
 # game/Carl-Tuesday.rpy:491
 translate Schinese carltuesday_fd9c598c:
 
     # "He turns his head towards the wall, though, and I'm guiltily relieved that when he talks again his voice is under control."
-    "He turns his head towards the wall, though, and I'm guiltily relieved that when he talks again his voice is under control."
+    "@@@He turns his head towards the wall, though, and I'm guiltily relieved that when he talks again his voice is under control."
 
 # game/Carl-Tuesday.rpy:492
 translate Schinese carltuesday_deb50bb0:
 
     # c "\"I just wish it wasn't such a goddamn chore for me to just go outside, ya know?\""
-    c "\"I just wish it wasn't such a goddamn chore for me to just go outside, ya know?\""
+    c "@@@\"I just wish it wasn't such a goddamn chore for me to just go outside, ya know?\""
 
 # game/Carl-Tuesday.rpy:493
 translate Schinese carltuesday_00419bb5:
 
     # "I didn't know, but I nod anyway, even if he can't see."
-    "I didn't know, but I nod anyway, even if he can't see."
+    "@@@I didn't know, but I nod anyway, even if he can't see."
 
 # game/Carl-Tuesday.rpy:494
 translate Schinese carltuesday_ba13d82e:
 
     # "He's waiting for me to say something, though, so I clear my throat."
-    "He's waiting for me to say something, though, so I clear my throat."
+    "@@@He's waiting for me to say something, though, so I clear my throat."
 
 # game/Carl-Tuesday.rpy:498
 translate Schinese carltuesday_945d6ab3:
 
     # m "\"Don't take this the wrong way, but maybe you should see a therapist?\""
-    m "\"Don't take this the wrong way, but maybe you should see a therapist?\""
+    m "@@@\"Don't take this the wrong way, but maybe you should see a therapist?\""
 
 # game/Carl-Tuesday.rpy:500
 translate Schinese carltuesday_ca292873:
 
     # "He snorts and finally turns his head to look back at me, his horns bumping the wall loudly."
-    "He snorts and finally turns his head to look back at me, his horns bumping the wall loudly."
+    "@@@He snorts and finally turns his head to look back at me, his horns bumping the wall loudly."
 
 # game/Carl-Tuesday.rpy:501
 translate Schinese carltuesday_098b5d34:
 
     # c "\"Ha! I already do. I thought they'd just give me a pill to make things better, but apparently I have to actually make an effort, too.\""
-    c "\"Ha! I already do. I thought they'd just give me a pill to make things better, but apparently I have to actually make an effort, too.\""
+    c "@@@\"Ha! I already do. I thought they'd just give me a pill to make things better, but apparently I have to actually make an effort, too.\""
 
 # game/Carl-Tuesday.rpy:503
 translate Schinese carltuesday_579b423c:
 
     # c "\"And I'm like, isn't that why I'm seeing you, for the whole 'making an effort' thing?\""
-    c "\"And I'm like, isn't that why I'm seeing you, for the whole 'making an effort' thing?\""
+    c "@@@\"And I'm like, isn't that why I'm seeing you, for the whole 'making an effort' thing?\""
 
 # game/Carl-Tuesday.rpy:504
 translate Schinese carltuesday_875693dc:
 
     # "I laugh along with him."
-    "I laugh along with him."
+    "@@@I laugh along with him."
 
 # game/Carl-Tuesday.rpy:505
 translate Schinese carltuesday_02130f94:
 
     # m "\"Yeah, I can remember what that's like.\""
-    m "\"Yeah, I can remember what that's like.\""
+    m "@@@\"Yeah, I can remember what that's like.\""
 
 # game/Carl-Tuesday.rpy:507
 translate Schinese carltuesday_71667f3c:
 
     # m "\"You know, Carl, some people are just like that.\""
-    m "\"You know, Carl, some people are just like that.\""
+    m "@@@\"You know, Carl, some people are just like that.\""
 
 # game/Carl-Tuesday.rpy:509
 translate Schinese carltuesday_056b97bb:
 
     # "He looks down at me, but doesn't say anything."
-    "He looks down at me, but doesn't say anything."
+    "@@@He looks down at me, but doesn't say anything."
 
 # game/Carl-Tuesday.rpy:510
 translate Schinese carltuesday_cc6f2f35:
 
     # m "\"If it's so hard to get out, then just don't.\""
-    m "\"If it's so hard to get out, then just don't.\""
+    m "@@@\"If it's so hard to get out, then just don't.\""
 
 # game/Carl-Tuesday.rpy:511
 translate Schinese carltuesday_f6fa1af8:
 
     # m "\"People figure things out, eventually. And if you always just want to stay home then do that.\""
-    m "\"People figure things out, eventually. And if you always just want to stay home then do that.\""
+    m "@@@\"People figure things out, eventually. And if you always just want to stay home then do that.\""
 
 # game/Carl-Tuesday.rpy:512
 translate Schinese carltuesday_b32c5b8e:
 
     # m "\"Just, uh, try to figure out a way to sustain yourself. That's pretty much the gist of what my therapist told me; do what makes you happy.\""
-    m "\"Just, uh, try to figure out a way to sustain yourself. That's pretty much the gist of what my therapist told me; do what makes you happy.\""
+    m "@@@\"Just, uh, try to figure out a way to sustain yourself. That's pretty much the gist of what my therapist told me; do what makes you happy.\""
 
 # game/Carl-Tuesday.rpy:514
 translate Schinese carltuesday_79822797:
 
     # "He watches me for a few seconds."
-    "He watches me for a few seconds."
+    "@@@He watches me for a few seconds."
 
 # game/Carl-Tuesday.rpy:515
-translate Schinese carltuesday_10432af8:
+translate Schinese carltuesday_bc16c0e9:
 
-    # c "\"So is all that...is all those problems you had taken care of now?\""
-    c "\"So is all that...is all those problems you had taken care of now?\""
+    # c "\"So is all that.. are all those problems you had taken care of now?\""
+    c "@@@\"So is all that.. are all those problems you had taken care of now?\""
 
 # game/Carl-Tuesday.rpy:516
 translate Schinese carltuesday_118a2043:
 
     # m "\"I hope so.\""
-    m "\"I hope so.\""
+    m "@@@\"I hope so.\""
 
 # game/Carl-Tuesday.rpy:517
 translate Schinese carltuesday_162401d6:
 
     # "We lay in silence for a little while, before I finally speak up."
-    "We lay in silence for a little while, before I finally speak up."
+    "@@@We lay in silence for a little while, before I finally speak up."
 
 # game/Carl-Tuesday.rpy:518
 translate Schinese carltuesday_2b350497:
 
     # m "\"Listen, I'll probably come back a few times this week to work with that history stuff.\""
-    m "\"Listen, I'll probably come back a few times this week to work with that history stuff.\""
+    m "@@@\"Listen, I'll probably come back a few times this week to work with that history stuff.\""
 
 # game/Carl-Tuesday.rpy:519
-translate Schinese carltuesday_1a09ff0d:
+translate Schinese carltuesday_ee0ce558:
 
-    # m "\"Well, why don't we go out an {i}do{/i} something?\""
-    m "\"Well, why don't we go out an {i}do{/i} something?\""
+    # m "\"Well, why don't we go out and {i}do{/i} something?\""
+    m "@@@\"Well, why don't we go out and {i}do{/i} something?\""
 
 # game/Carl-Tuesday.rpy:521
 translate Schinese carltuesday_74e87039:
 
     # c "\"That would be nice...\""
-    c "\"That would be nice...\""
+    c "@@@\"That would be nice...\""
 
 # game/Carl-Tuesday.rpy:522
 translate Schinese carltuesday_173f9c64:
 
     # "I grin, glad at making Carl feel better."
-    "I grin, glad at making Carl feel better."
+    "@@@I grin, glad at making Carl feel better."
 
 # game/Carl-Tuesday.rpy:523
 translate Schinese carltuesday_c1230466:
 
     # m "\"Cool, let's plan on it.\""
-    m "\"Cool, let's plan on it.\""
+    m "@@@\"Cool, let's plan on it.\""
 
 # game/Carl-Tuesday.rpy:525
 translate Schinese carltuesday_8feeeece:
 
     # "Carl puts his paws behind his head and smiles."
-    "Carl puts his paws behind his head and smiles."
+    "@@@Carl puts his paws behind his head and smiles."
 
 # game/Carl-Tuesday.rpy:526
 translate Schinese carltuesday_fbf1158b:
 
     # c "\"It's cool that you're here, Chase.\""
-    c "\"It's cool that you're here, Chase.\""
+    c "@@@\"It's cool that you're here, Chase.\""
 
 # game/Carl-Tuesday.rpy:527
 translate Schinese carltuesday_9b78e6b5:
 
     # m "\"It's cool to be here, Carl.\""
-    m "\"It's cool to be here, Carl.\""
+    m "@@@\"It's cool to be here, Carl.\""
 
 # game/Carl-Tuesday.rpy:529
 translate Schinese carltuesday_95b49665:
 
     # c "\"And not just because it's nice to have someone to talk to.\""
-    c "\"And not just because it's nice to have someone to talk to.\""
+    c "@@@\"And not just because it's nice to have someone to talk to.\""
 
 # game/Carl-Tuesday.rpy:530
 translate Schinese carltuesday_ba8d8248:
 
     # m "\"Oh?\""
-    m "\"Oh?\""
+    m "@@@\"Oh?\""
 
 # game/Carl-Tuesday.rpy:532
 translate Schinese carltuesday_def34b9f:
 
     # c "\"No. This house is fucking haunted.\""
-    c "\"No. This house is fucking haunted.\""
+    c "@@@\"No. This house is fucking haunted.\""
 
 # game/Carl-Tuesday.rpy:541
 translate Schinese carltuesday_f56e2a17:
 
     # "I don't remember falling asleep, but it's at that moment that something wakes me up."
-    "I don't remember falling asleep, but it's at that moment that something wakes me up."
+    "@@@I don't remember falling asleep, but it's at that moment that something wakes me up."
 
 # game/Carl-Tuesday.rpy:542
 translate Schinese carltuesday_e1bf2a59:
 
     # "I jolt, then lay there, trying to remember where I am."
-    "I jolt, then lay there, trying to remember where I am."
+    "@@@I jolt, then lay there, trying to remember where I am."
 
 # game/Carl-Tuesday.rpy:543
 translate Schinese carltuesday_b3083ba0:
 
     # "Carl's house, that's right."
-    "Carl's house, that's right."
+    "@@@Carl's house, that's right."
 
 # game/Carl-Tuesday.rpy:544
 translate Schinese carltuesday_380246ce:
 
     # "I stare at the ceiling, wondering what time it is."
-    "I stare at the ceiling, wondering what time it is."
+    "@@@I stare at the ceiling, wondering what time it is."
 
 # game/Carl-Tuesday.rpy:545
 translate Schinese carltuesday_1be21769:
 
     # "I don't bother to look my phone, though, because I'm already starting to fall back asleep."
-    "I don't bother to look my phone, though, because I'm already starting to fall back asleep."
+    "@@@I don't bother to look my phone, though, because I'm already starting to fall back asleep."
 
 # game/Carl-Tuesday.rpy:547
 translate Schinese carltuesday_deac3191:
 
     # "A scraping noise from beneath me makes me jump and I prop myself up on my elbows, listening."
-    "A scraping noise from beneath me makes me jump and I prop myself up on my elbows, listening."
+    "@@@A scraping noise from beneath me makes me jump and I prop myself up on my elbows, listening."
 
 # game/Carl-Tuesday.rpy:548
 translate Schinese carltuesday_9c5e5d2b:
 
     # "Looking over, I see Carl's staring at the ceiling, eyes wide."
-    "Looking over, I see Carl's staring at the ceiling, eyes wide."
+    "@@@Looking over, I see Carl's staring at the ceiling, eyes wide."
 
 # game/Carl-Tuesday.rpy:549
 translate Schinese carltuesday_74dba477:
 
     # m "\"Carl?\""
-    m "\"Carl?\""
+    m "@@@\"Carl?\""
 
 # game/Carl-Tuesday.rpy:550
 translate Schinese carltuesday_865e78b6:
 
     # "I whisper it, and I'm not sure why."
-    "I whisper it, and I'm not sure why."
+    "@@@I whisper it, and I'm not sure why."
 
 # game/Carl-Tuesday.rpy:551
 translate Schinese carltuesday_7d2d9d46:
 
     # "He jumps, then looks at me, confused, like he'd just woken up."
-    "He jumps, then looks at me, confused, like he'd just woken up."
+    "@@@He jumps, then looks at me, confused, like he'd just woken up."
 
 # game/Carl-Tuesday.rpy:553
 translate Schinese carltuesday_f62c423b:
 
     # c "\"Huh?\""
-    c "\"Huh?\""
+    c "@@@\"Huh?\""
 
 # game/Carl-Tuesday.rpy:554
 translate Schinese carltuesday_994f6c7b:
 
     # m "\"Are you okay?\""
-    m "\"Are you okay?\""
+    m "@@@\"Are you okay?\""
 
 # game/Carl-Tuesday.rpy:555
 translate Schinese carltuesday_b64050e5:
 
     # c "\"Yeah, what's wrong?\""
-    c "\"Yeah, what's wrong?\""
+    c "@@@\"Yeah, what's wrong?\""
 
 # game/Carl-Tuesday.rpy:556
 translate Schinese carltuesday_f4e5145e:
 
     # m "\"I—I think I hear something.\""
-    m "\"I—I think I hear something.\""
+    m "@@@\"I—I think I hear something.\""
 
 # game/Carl-Tuesday.rpy:557
 translate Schinese carltuesday_ce408c10:
 
     # "His floppy ears perk up."
-    "His floppy ears perk up."
+    "@@@His floppy ears perk up."
 
 # game/Carl-Tuesday.rpy:558
 translate Schinese carltuesday_0295e8bd:
 
     # c "\"I don't—\""
-    c "\"I don't—\""
+    c "@@@\"I don't—\""
 
 # game/Carl-Tuesday.rpy:559
 translate Schinese carltuesday_00843de4:
 
     # "Then his eyes widen."
-    "Then his eyes widen."
+    "@@@Then his eyes widen."
 
 # game/Carl-Tuesday.rpy:560
 translate Schinese carltuesday_29f7d9e6:
 
     # "Although I didn't hear anything right then, he definitely did."
-    "Although I didn't hear anything right then, he definitely did."
+    "@@@Although I didn't hear anything right then, he definitely did."
 
 # game/Carl-Tuesday.rpy:561
 translate Schinese carltuesday_73dabd7e:
 
     # m "\"You hear it?\""
-    m "\"You hear it?\""
+    m "@@@\"You hear it?\""
 
 # game/Carl-Tuesday.rpy:562
 translate Schinese carltuesday_4d24b8af:
 
     # c "\"Yeah, like a scraping noise I told you about?\""
-    c "\"Yeah, like a scraping noise I told you about?\""
+    c "@@@\"Yeah, like a scraping noise I told you about?\""
 
 # game/Carl-Tuesday.rpy:563
 translate Schinese carltuesday_ba9c3ac4:
 
     # m "\"Yeah!\""
-    m "\"Yeah!\""
+    m "@@@\"Yeah!\""
 
 # game/Carl-Tuesday.rpy:565
 translate Schinese carltuesday_67ab9819:
 
     # "He looks happy."
-    "He looks happy."
+    "@@@He looks happy."
 
 # game/Carl-Tuesday.rpy:566
 translate Schinese carltuesday_bc3e9be2:
 
     # c "\"Ha! So I'm not fucking crazy!\""
-    c "\"Ha! So I'm not fucking crazy!\""
+    c "@@@\"Ha! So I'm not fucking crazy!\""
 
 # game/Carl-Tuesday.rpy:567
 translate Schinese carltuesday_00512e69:
 
     # "We both sit there and listen for a while, but it sounds like it stopped."
-    "We both sit there and listen for a while, but it sounds like it stopped."
+    "@@@We both sit there and listen for a while, but it sounds like it stopped."
 
 # game/Carl-Tuesday.rpy:568
 translate Schinese carltuesday_f31f1133:
 
     # c "\"Wanna go see what—\""
-    c "\"Wanna go see what—\""
+    c "@@@\"Wanna go see what—\""
 
 # game/Carl-Tuesday.rpy:570
 translate Schinese carltuesday_149cad05:
 
     # "Suddenly, his eyes widen and his muzzle drops open in shock."
-    "Suddenly, his eyes widen and his muzzle drops open in shock."
+    "@@@Suddenly, his eyes widen and his muzzle drops open in shock."
 
 # game/Carl-Tuesday.rpy:571
 translate Schinese carltuesday_d9f08854:
 
     # "I stare back."
-    "I stare back."
+    "@@@I stare back."
 
 # game/Carl-Tuesday.rpy:572
 translate Schinese carltuesday_486a0250:
 
     # m "\"What!?\""
-    m "\"What!?\""
+    m "@@@\"What!?\""
 
 # game/Carl-Tuesday.rpy:573
 translate Schinese carltuesday_a92d8650:
 
     # c "\"Did you fucking hear that!?\""
-    c "\"Did you fucking hear that!?\""
+    c "@@@\"Did you fucking hear that!?\""
 
 # game/Carl-Tuesday.rpy:574
 translate Schinese carltuesday_24fc76d8:
 
     # "I listen, feeling my heartbeat pick up now that Carl looks fucking terrified...but I don't hear anything."
-    "I listen, feeling my heartbeat pick up now that Carl looks fucking terrified...but I don't hear anything."
+    "@@@I listen, feeling my heartbeat pick up now that Carl looks fucking terrified...but I don't hear anything."
 
 # game/Carl-Tuesday.rpy:575
 translate Schinese carltuesday_486a0250_1:
 
     # m "\"What!?\""
-    m "\"What!?\""
+    m "@@@\"What!?\""
 
 # game/Carl-Tuesday.rpy:577
 translate Schinese carltuesday_be8c9704:
 
     # c "\"A fucking voice!\""
-    c "\"A fucking voice!\""
+    c "@@@\"A fucking voice!\""
 
 # game/Carl-Tuesday.rpy:578
 translate Schinese carltuesday_7d529342:
 
     # "The fur raises up all over my body as I listen."
-    "The fur raises up all over my body as I listen."
+    "@@@The fur raises up all over my body as I listen."
 
 # game/Carl-Tuesday.rpy:579
 translate Schinese carltuesday_05eb986c:
 
     # "But nothing. Carl definitely seems convinced, though, so I listen harder."
-    "But nothing. Carl definitely seems convinced, though, so I listen harder."
+    "@@@But nothing. Carl definitely seems convinced, though, so I listen harder."
 
 # game/Carl-Tuesday.rpy:580
 translate Schinese carltuesday_c919a722:
 
     # "I just start to make out what might be a voice when Carl sits up next to me and gets out of bed."
-    "I just start to make out what might be a voice when Carl sits up next to me and gets out of bed."
+    "@@@I just start to make out what might be a voice when Carl sits up next to me and gets out of bed."
 
 # game/Carl-Tuesday.rpy:581
 translate Schinese carltuesday_3c314115:
 
     # "I feel myself start to panic. Did some crazy hobo break into the house?"
-    "I feel myself start to panic. Did some crazy hobo break into the house?"
+    "@@@I feel myself start to panic. Did some crazy hobo break into the house?"
 
 # game/Carl-Tuesday.rpy:583
 translate Schinese carltuesday_2e7b49eb:
 
     # "Carl gets off the couch."
-    "Carl gets off the couch."
+    "@@@Carl gets off the couch."
 
 # game/Carl-Tuesday.rpy:584
 translate Schinese carltuesday_9881db88:
 
     # c "\"Come on.\""
-    c "\"Come on.\""
+    c "@@@\"Come on.\""
 
 # game/Carl-Tuesday.rpy:585
 translate Schinese carltuesday_d72ada8d:
 
     # m "\"What? What the fuck are we gonna do!? Let's call the cops!\""
-    m "\"What? What the fuck are we gonna do!? Let's call the cops!\""
+    m "@@@\"What? What the fuck are we gonna do!? Let's call the cops!\""
 
 # game/Carl-Tuesday.rpy:586
 translate Schinese carltuesday_087e6a14:
 
     # c "\"No, let's make sure, first. This has happened before.\""
-    c "\"No, let's make sure, first. This has happened before.\""
+    c "@@@\"No, let's make sure, first. This has happened before.\""
 
 # game/Carl-Tuesday.rpy:587
 translate Schinese carltuesday_46cc8e5b:
 
     # m "\"What? What do you mean?\""
-    m "\"What? What do you mean?\""
+    m "@@@\"What? What do you mean?\""
 
 # game/Carl-Tuesday.rpy:588
 translate Schinese carltuesday_4fb48d76:
 
     # "He puts a finger up to his lips."
-    "He puts a finger up to his lips."
+    "@@@He puts a finger up to his lips."
 
 # game/Carl-Tuesday.rpy:589
 translate Schinese carltuesday_c69c73b8:
 
     # c "\"Grab something.\""
-    c "\"Grab something.\""
+    c "@@@\"Grab something.\""
 
 # game/Carl-Tuesday.rpy:590
 translate Schinese carltuesday_df8ec4bc_1:
 
     # m "\"What?\""
-    m "\"What?\""
+    m "@@@\"What?\""
 
 # game/Carl-Tuesday.rpy:592
 translate Schinese carltuesday_601693b7:
 
     # "I follow Carl out into the kitchen and he starts rummaging through the drawers."
-    "I follow Carl out into the kitchen and he starts rummaging through the drawers."
+    "@@@I follow Carl out into the kitchen and he starts rummaging through the drawers."
 
 # game/Carl-Tuesday.rpy:593
 translate Schinese carltuesday_443655bd:
 
     # "I follow him, hugging my shoulders, feeling a lot colder right now."
-    "I follow him, hugging my shoulders, feeling a lot colder right now."
+    "@@@I follow him, hugging my shoulders, feeling a lot colder right now."
 
 # game/Carl-Tuesday.rpy:594
 translate Schinese carltuesday_9113047b:
 
     # "With the sound of metal sliding against metal Carl pulls out a giant steak knife."
-    "With the sound of metal sliding against metal Carl pulls out a giant steak knife."
+    "@@@With the sound of metal sliding against metal Carl pulls out a giant steak knife."
 
 # game/Carl-Tuesday.rpy:595
 translate Schinese carltuesday_7769cdb4:
 
     # m "\"What. The. Fuck!?\""
-    m "\"What. The. Fuck!?\""
+    m "@@@\"What. The. Fuck!?\""
 
 # game/Carl-Tuesday.rpy:596
 translate Schinese carltuesday_c57602b8:
 
     # c "\"Dude, I've been hearing this shit for the past month and I've been too scared to go down there, but now with you here—\""
-    c "\"Dude, I've been hearing this shit for the past month and I've been too scared to go down there, but now with you here—\""
+    c "@@@\"Dude, I've been hearing this shit for the past month and I've been too scared to go down there, but now with you here—\""
 
 # game/Carl-Tuesday.rpy:597
 translate Schinese carltuesday_f51a2c44:
 
     # "He flashes me a smile."
-    "He flashes me a smile."
+    "@@@He flashes me a smile."
 
 # game/Carl-Tuesday.rpy:598
 translate Schinese carltuesday_afc7516f:
 
     # c "\"I'm gonna find out what the fuck this is.\""
-    c "\"I'm gonna find out what the fuck this is.\""
+    c "@@@\"I'm gonna find out what the fuck this is.\""
 
 # game/Carl-Tuesday.rpy:599
 translate Schinese carltuesday_ecd71296:
 
     # c "\"Here.\""
-    c "\"Here.\""
+    c "@@@\"Here.\""
 
 # game/Carl-Tuesday.rpy:600
 translate Schinese carltuesday_a89126c7:
 
     # "He reaches into a spot between the fridge and the wall and pulls out a broom before sticking it out to me."
-    "He reaches into a spot between the fridge and the wall and pulls out a broom before sticking it out to me."
+    "@@@He reaches into a spot between the fridge and the wall and pulls out a broom before sticking it out to me."
 
 # game/Carl-Tuesday.rpy:601
 translate Schinese carltuesday_21ed01bf:
 
     # "I take it slowly."
-    "I take it slowly."
+    "@@@I take it slowly."
 
 # game/Carl-Tuesday.rpy:602
 translate Schinese carltuesday_664a4835:
 
     # m "\"What the hell am I supposed to do with this?\""
-    m "\"What the hell am I supposed to do with this?\""
+    m "@@@\"What the hell am I supposed to do with this?\""
 
 # game/Carl-Tuesday.rpy:603
 translate Schinese carltuesday_0d1e26c3:
 
     # c "\"Hit him. Come on!\""
-    c "\"Hit him. Come on!\""
+    c "@@@\"Hit him. Come on!\""
 
 # game/Carl-Tuesday.rpy:604
 translate Schinese carltuesday_98495cf0:
 
     # "Carl starts down the stairs and I follow behind, holding the broomstick in front of me like a sword."
-    "Carl starts down the stairs and I follow behind, holding the broomstick in front of me like a sword."
+    "@@@Carl starts down the stairs and I follow behind, holding the broomstick in front of me like a sword."
 
 # game/Carl-Tuesday.rpy:605
 translate Schinese carltuesday_a75a2683:
 
     # "I've never had to hit anyone with a stick before. I have no idea what I'm doing."
-    "I've never had to hit anyone with a stick before. I have no idea what I'm doing."
+    "@@@I've never had to hit anyone with a stick before. I have no idea what I'm doing."
 
 # game/Carl-Tuesday.rpy:608
 translate Schinese carltuesday_92f0221e:
 
     # "Once we get to the small door leading down to the crawl space, Carl pauses and we both listen."
-    "Once we get to the small door leading down to the crawl space, Carl pauses and we both listen."
+    "@@@Once we get to the small door leading down to the crawl space, Carl pauses and we both listen."
 
 # game/Carl-Tuesday.rpy:609
 translate Schinese carltuesday_f70d859e:
 
     # "It's silent for a while, then—"
-    "It's silent for a while, then—"
+    "@@@It's silent for a while, then—"
 
 # game/Carl-Tuesday.rpy:611
 translate Schinese carltuesday_a20cefa7:
 
     # "..."
-    "..."
+    "@@@..."
 
 # game/Carl-Tuesday.rpy:612
 translate Schinese carltuesday_5352251d:
 
     # m "\"Shit!\""
-    m "\"Shit!\""
+    m "@@@\"Shit!\""
 
 # game/Carl-Tuesday.rpy:613
 translate Schinese carltuesday_3a664c15:
 
     # "Carl looks at me like I'm crazy, not reacting to the noise at all."
-    "Carl looks at me like I'm crazy, not reacting to the noise at all."
+    "@@@Carl looks at me like I'm crazy, not reacting to the noise at all."
 
 # game/Carl-Tuesday.rpy:614
 translate Schinese carltuesday_6df00292:
 
     # c "\"Shh!\""
-    c "\"Shh!\""
+    c "@@@\"Shh!\""
 
 # game/Carl-Tuesday.rpy:615
 translate Schinese carltuesday_32f80123:
 
     # "He leans down, a paw on the handle."
-    "He leans down, a paw on the handle."
+    "@@@He leans down, a paw on the handle."
 
 # game/Carl-Tuesday.rpy:616
 translate Schinese carltuesday_4969b682:
 
     # "Looking back at me, he signals me with his eyes to be ready."
-    "Looking back at me, he signals me with his eyes to be ready."
+    "@@@Looking back at me, he signals me with his eyes to be ready."
 
 # game/Carl-Tuesday.rpy:617
 translate Schinese carltuesday_5b70a648:
 
     # "I grip onto the broom like a lifeline as I wait for him to swing the door open and, when he does—"
-    "I grip onto the broom like a lifeline as I wait for him to swing the door open and, when he does—"
+    "@@@I grip onto the broom like a lifeline as I wait for him to swing the door open and, when he does—"
 
 # game/Carl-Tuesday.rpy:621
 translate Schinese carltuesday_a20cefa7_1:
 
     # "..."
-    "..."
+    "@@@..."
 
 # game/Carl-Tuesday.rpy:622
 translate Schinese carltuesday_c58b41a1:
 
     # "Darkness."
-    "Darkness."
+    "@@@Darkness."
 
 # game/Carl-Tuesday.rpy:624
 translate Schinese carltuesday_732fa74e:
 
     # c "\"Shit.\""
-    c "\"Shit.\""
+    c "@@@\"Shit.\""
 
 # game/Carl-Tuesday.rpy:625
 translate Schinese carltuesday_de74a55f:
 
     # "So whatever's down here is just slinking around in complete darkness?"
-    "So whatever's down here is just slinking around in complete darkness?"
+    "@@@So whatever's down here is just slinking around in complete darkness?"
 
 # game/Carl-Tuesday.rpy:626
 translate Schinese carltuesday_9a2f822c:
 
     # c "\"H-hey!\""
-    c "\"H-hey!\""
+    c "@@@\"H-hey!\""
 
 # game/Carl-Tuesday.rpy:627
 translate Schinese carltuesday_0aeb1ca9:
 
     # "Carl says it unconvincingly, the fear clear in his voice."
-    "Carl says it unconvincingly, the fear clear in his voice."
+    "@@@Carl says it unconvincingly, the fear clear in his voice."
 
 # game/Carl-Tuesday.rpy:629
 translate Schinese carltuesday_24ded373:
 
     # "Then, after looking back at me-"
-    "Then, after looking back at me-"
+    "@@@Then, after looking back at me-"
 
 # game/Carl-Tuesday.rpy:630
 translate Schinese carltuesday_e2752b72:
 
     # c "\"Fuck it.\""
-    c "\"Fuck it.\""
+    c "@@@\"Fuck it.\""
 
 # game/Carl-Tuesday.rpy:632
 translate Schinese carltuesday_43f2905b:
 
     # "He jumps down into the crawl space, disappearing into the dark."
-    "He jumps down into the crawl space, disappearing into the dark."
+    "@@@He jumps down into the crawl space, disappearing into the dark."
 
 # game/Carl-Tuesday.rpy:633
 translate Schinese carltuesday_48aa6cc4:
 
     # m "\"Carl!\""
-    m "\"Carl!\""
+    m "@@@\"Carl!\""
 
 # game/Carl-Tuesday.rpy:634
 translate Schinese carltuesday_812b36a7:
 
     # "I stumble up to the edge of the steps, trying to squint into the black."
-    "I stumble up to the edge of the steps, trying to squint into the black."
+    "@@@I stumble up to the edge of the steps, trying to squint into the black."
 
 # game/Carl-Tuesday.rpy:635
 translate Schinese carltuesday_b97ebe2a:
 
     # "I hear Carl to the right, rustling around and cursing."
-    "I hear Carl to the right, rustling around and cursing."
+    "@@@I hear Carl to the right, rustling around and cursing."
 
 # game/Carl-Tuesday.rpy:639
 translate Schinese carltuesday_a5bc5038:
 
     # "That's when light floods the crawl space."
-    "That's when light floods the crawl space."
+    "@@@That's when light floods the crawl space."
 
 # game/Carl-Tuesday.rpy:640
 translate Schinese carltuesday_513e2590:
 
     # "I quickly wobble down the steps, knowing that if whatever is down here is gonna try to escape, it would be running right into me."
-    "I quickly wobble down the steps, knowing that if whatever is down here is gonna try to escape, it would be running right into me."
+    "@@@I quickly wobble down the steps, knowing that if whatever is down here is gonna try to escape, it would be running right into me."
 
 # game/Carl-Tuesday.rpy:641
 translate Schinese carltuesday_9c77adf1:
 
     # "Finally, I have a moment to catch my breath, standing several feet behind Carl as I look around, broom at the ready."
-    "Finally, I have a moment to catch my breath, standing several feet behind Carl as I look around, broom at the ready."
+    "@@@Finally, I have a moment to catch my breath, standing several feet behind Carl as I look around, broom at the ready."
 
 # game/Carl-Tuesday.rpy:642
 translate Schinese carltuesday_d4e30e5c:
 
     # c "\"There's nothing here...what the fuck?\""
-    c "\"There's nothing here...what the fuck?\""
+    c "@@@\"There's nothing here...what the fuck?\""
 
 # game/Carl-Tuesday.rpy:643
 translate Schinese carltuesday_48e32bd2:
 
     # "Sure enough, the crawl space looks empty. There aren't many places to hide, either."
-    "Sure enough, the crawl space looks empty. There aren't many places to hide, either."
+    "@@@Sure enough, the crawl space looks empty. There aren't many places to hide, either."
 
 # game/Carl-Tuesday.rpy:644
 translate Schinese carltuesday_de257664:
 
     # m "\"What the hell's going on, Carl?\""
-    m "\"What the hell's going on, Carl?\""
+    m "@@@\"What the hell's going on, Carl?\""
 
 # game/Carl-Tuesday.rpy:645
 translate Schinese carltuesday_0a692c0f:
 
     # "But he doesn't answer me. He's staring at the bins."
-    "But he doesn't answer me. He's staring at the bins."
+    "@@@But he doesn't answer me. He's staring at the bins."
 
 # game/Carl-Tuesday.rpy:646
 translate Schinese carltuesday_d5f4c346:
 
     # c "\"Did you put the bins back?\""
-    c "\"Did you put the bins back?\""
+    c "@@@\"Did you put the bins back?\""
 
 # game/Carl-Tuesday.rpy:647
 translate Schinese carltuesday_52adc5ec:
 
     # "I look down, and the bins are gone."
-    "I look down, and the bins are gone."
+    "@@@I look down, and the bins are gone."
 
 # game/Carl-Tuesday.rpy:648
 translate Schinese carltuesday_5461856a:
 
     # "I look back at where they were originally, and sure enough, they're neatly stacked right where we found them."
-    "I look back at where they were originally, and sure enough, they're neatly stacked right where we found them."
+    "@@@I look back at where they were originally, and sure enough, they're neatly stacked right where we found them."
 
 # game/Carl-Tuesday.rpy:649
-translate Schinese carltuesday_fa768c73:
+translate Schinese carltuesday_9046708a:
 
-    # m "\"I—"
-    m "\"I—"
+    # m "\"I—\""
+    m "@@@\"I—\""
 
 # game/Carl-Tuesday.rpy:650
 translate Schinese carltuesday_c13a42ec:
 
     # "I honestly don't remember. Did I move them back? Maybe, it would be something I might do. I try, but I just can't remember."
-    "I honestly don't remember. Did I move them back? Maybe, it would be something I might do. I try, but I just can't remember."
+    "@@@I honestly don't remember. Did I move them back? Maybe, it would be something I might do. I try, but I just can't remember."
 
 # game/Carl-Tuesday.rpy:651
 translate Schinese carltuesday_543c8b0a:
 
     # m "\"Maybe...\""
-    m "\"Maybe...\""
+    m "@@@\"Maybe...\""
 
 # game/Carl-Tuesday.rpy:652
 translate Schinese carltuesday_6ea50583:
 
     # c "\"Dude, come on.\""
-    c "\"Dude, come on.\""
+    c "@@@\"Dude, come on.\""
 
 # game/Carl-Tuesday.rpy:653
 translate Schinese carltuesday_5f9c6c61:
 
     # m "\"I really don't remember!\""
-    m "\"I really don't remember!\""
+    m "@@@\"I really don't remember!\""
 
 # game/Carl-Tuesday.rpy:654
 translate Schinese carltuesday_532d6b68:
 
     # "Carl walks further towards the back, ears perked, looking left and right as he clutches his knife."
-    "Carl walks further towards the back, ears perked, looking left and right as he clutches his knife."
+    "@@@Carl walks further towards the back, ears perked, looking left and right as he clutches his knife."
 
 # game/Carl-Tuesday.rpy:655
 translate Schinese carltuesday_1aa02a9d:
 
     # "I start to follow, but that's when I notice something at the left of my vision, on the ground."
-    "I start to follow, but that's when I notice something at the left of my vision, on the ground."
+    "@@@I start to follow, but that's when I notice something at the left of my vision, on the ground."
 
 # game/Carl-Tuesday.rpy:656
 translate Schinese carltuesday_069abfc6:
 
     # "Looking down, I see something fat and hairy ambling slowly over the tarp."
-    "Looking down, I see something fat and hairy ambling slowly over the tarp."
+    "@@@Looking down, I see something fat and hairy ambling slowly over the tarp."
 
 # game/Carl-Tuesday.rpy:657
 translate Schinese carltuesday_7d8d8ce2:
 
     # "A giant fucking tarantula."
-    "A giant fucking tarantula."
+    "@@@A giant fucking tarantula."
 
 # game/Carl-Tuesday.rpy:658
 translate Schinese carltuesday_6e9ce21d:
 
     # "The following few moments are a blur, but the next thing I know I'm going up the stairs on my feet and paws, grabbing at the door frame to pull myself up."
-    "The following few moments are a blur, but the next thing I know I'm going up the stairs on my feet and paws, grabbing at the door frame to pull myself up."
+    "@@@The following few moments are a blur, but the next thing I know I'm going up the stairs on my feet and paws, grabbing at the door frame to pull myself up."
 
 # game/Carl-Tuesday.rpy:660
 translate Schinese carltuesday_7d104057:
 
     # c "\"Chase, what happened!?\""
-    c "\"Chase, what happened!?\""
+    c "@@@\"Chase, what happened!?\""
 
 # game/Carl-Tuesday.rpy:662
 translate Schinese carltuesday_9632f740:
 
     # "I can hear him running up behind me, so I turn to warn him."
-    "I can hear him running up behind me, so I turn to warn him."
+    "@@@I can hear him running up behind me, so I turn to warn him."
 
 # game/Carl-Tuesday.rpy:663
 translate Schinese carltuesday_c538351d:
 
     # m "\"L—look out. A big-a big spider!\""
-    m "\"L—look out. A big-a big spider!\""
+    m "@@@\"L—look out. A big-a big spider!\""
 
 # game/Carl-Tuesday.rpy:664
 translate Schinese carltuesday_2916bec2:
 
     # "The breath keeps catching in my throat. I think I'm hyperventilating."
-    "The breath keeps catching in my throat. I think I'm hyperventilating."
+    "@@@The breath keeps catching in my throat. I think I'm hyperventilating."
 
 # game/Carl-Tuesday.rpy:665
 translate Schinese carltuesday_ab7a1b97:
 
     # "I'm still clutching at the door frame as Carl follows up behind me, his eyes wide."
-    "I'm still clutching at the door frame as Carl follows up behind me, his eyes wide."
+    "@@@I'm still clutching at the door frame as Carl follows up behind me, his eyes wide."
 
 # game/Carl-Tuesday.rpy:666
 translate Schinese carltuesday_3002ad82:
 
     # c "\"Wha-come on Chase, this is crazy.\""
-    c "\"Wha-come on Chase, this is crazy.\""
+    c "@@@\"Wha-come on Chase, this is crazy.\""
 
 # game/Carl-Tuesday.rpy:667
 translate Schinese carltuesday_263a4a83:
 
     # m "\"No, huge—a blond!\""
-    m "\"No, huge—a blond!\""
+    m "@@@\"No, huge—a blond!\""
 
 # game/Carl-Tuesday.rpy:668
 translate Schinese carltuesday_9847a57e:
 
     # c "\"No fucking way!\""
-    c "\"No fucking way!\""
+    c "@@@\"No fucking way!\""
 
 # game/Carl-Tuesday.rpy:669
 translate Schinese carltuesday_353203e1:
 
     # "Now he looks excited and he turns back to the crawl space."
-    "Now he looks excited and he turns back to the crawl space."
+    "@@@Now he looks excited and he turns back to the crawl space."
 
 # game/Carl-Tuesday.rpy:670
 translate Schinese carltuesday_77c1b286:
 
     # "I feel numb right now. This is all too much to handle. What the fuck is even going on?"
-    "I feel numb right now. This is all too much to handle. What the fuck is even going on?"
+    "@@@I feel numb right now. This is all too much to handle. What the fuck is even going on?"
 
 # game/Carl-Tuesday.rpy:671
 translate Schinese carltuesday_5139b031:
 
     # c "\"Which way!?\""
-    c "\"Which way!?\""
+    c "@@@\"Which way!?\""
 
 # game/Carl-Tuesday.rpy:672
 translate Schinese carltuesday_eed17937:
 
     # "Shakily, I point towards where the spider was crawling."
-    "Shakily, I point towards where the spider was crawling."
+    "@@@Shakily, I point towards where the spider was crawling."
 
 # game/Carl-Tuesday.rpy:673
 translate Schinese carltuesday_8c07e196:
 
     # "Carl squints, then walks down the steps, looking around."
-    "Carl squints, then walks down the steps, looking around."
+    "@@@Carl squints, then walks down the steps, looking around."
 
 # game/Carl-Tuesday.rpy:675
 translate Schinese carltuesday_7cb358f3:
 
     # m "\"Careful!\""
-    m "\"Careful!\""
+    m "@@@\"Careful!\""
 
 # game/Carl-Tuesday.rpy:676
 translate Schinese carltuesday_1c11f95f:
 
     # c "\"If it was really a blond there's not much to worry about. I hear they're actually pretty gentle.\""
-    c "\"If it was really a blond there's not much to worry about. I hear they're actually pretty gentle.\""
+    c "@@@\"If it was really a blond there's not much to worry about. I hear they're actually pretty gentle.\""
 
 # game/Carl-Tuesday.rpy:677
 translate Schinese carltuesday_a54c8f60:
 
     # "I gulp and don't say anything."
-    "I gulp and don't say anything."
+    "@@@I gulp and don't say anything."
 
 # game/Carl-Tuesday.rpy:678
 translate Schinese carltuesday_7f684a79:
 
     # "My head is pounding and buzzing which, for some reason, doesn't exactly feel like it has anything to do with the adrenaline rush."
-    "My head is pounding and buzzing which, for some reason, doesn't exactly feel like it has anything to do with the adrenaline rush."
+    "@@@My head is pounding and buzzing which, for some reason, doesn't exactly feel like it has anything to do with the adrenaline rush."
 
 # game/Carl-Tuesday.rpy:679
 translate Schinese carltuesday_a43eea92:
 
     # "It's more like a bad headache."
-    "It's more like a bad headache."
+    "@@@It's more like a bad headache."
 
 # game/Carl-Tuesday.rpy:680
 translate Schinese carltuesday_8cac4368:
 
     # "Carl looks around a while longer while I focus on the steps, making sure nothing starts crawling up them."
-    "Carl looks around a while longer while I focus on the steps, making sure nothing starts crawling up them."
+    "@@@Carl looks around a while longer while I focus on the steps, making sure nothing starts crawling up them."
 
 # game/Carl-Tuesday.rpy:681
 translate Schinese carltuesday_7d3750a4:
 
     # "I don't even care about the possible hobo anymore."
-    "I don't even care about the possible hobo anymore."
+    "@@@I don't even care about the possible hobo anymore."
 
 # game/Carl-Tuesday.rpy:683
 translate Schinese carltuesday_56321c73:
 
     # "Finally, Carl comes back, looking confused."
-    "Finally, Carl comes back, looking confused."
+    "@@@Finally, Carl comes back, looking confused."
 
 # game/Carl-Tuesday.rpy:684
 translate Schinese carltuesday_db88df25:
 
     # c "\"Well, there's nothing there. You know, sometimes I see shit when I'm really tired. Wanna go back upstairs?\""
-    c "\"Well, there's nothing there. You know, sometimes I see shit when I'm really tired. Wanna go back upstairs?\""
+    c "@@@\"Well, there's nothing there. You know, sometimes I see shit when I'm really tired. Wanna go back upstairs?\""
 
 # game/Carl-Tuesday.rpy:685
 translate Schinese carltuesday_4367dae0:
 
     # "There's nothing there."
-    "There's nothing there."
+    "@@@There's nothing there."
 
 # game/Carl-Tuesday.rpy:686
 translate Schinese carltuesday_8be6997d:
 
     # "This can't be happening again..."
-    "This can't be happening again..."
+    "@@@This can't be happening again..."
 
 translate Schinese strings:
 

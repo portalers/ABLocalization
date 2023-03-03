@@ -1,3 +1,5 @@
+# TODO: Translation updated at 2023-02-19 00:53
+
 # game/Monday-Jenna.rpy:2
 translate Schinese JennaMonday_beb736bc:
 
@@ -695,10 +697,10 @@ translate Schinese JennaMonday_de8e2a65:
     t "\"噢，那太好了！\""
 
 # game/Monday-Jenna.rpy:141
-translate Schinese JennaMonday_1f57bb01:
+translate Schinese JennaMonday_b920a255:
 
-    # "At that point all of TJ's gloomy demeanor disappears; his tail quirked and his ears up."
-    "在那一刻，TJ脸上所有的阴霾都消失了；他翘起尾巴，耳朵竖得老高。 "
+    # "At that point all of TJ's gloomy demeanor disappears; his tail quirked and his ears raised up."
+    "在那一刻，TJ脸上所有的阴霾都消失了；他翘起尾巴，耳朵竖得老高。"
 
 # game/Monday-Jenna.rpy:142
 translate Schinese JennaMonday_82d8a35b:

@@ -1,4 +1,6 @@
-﻿# game/Leo.rpy:4
+﻿# TODO: Translation updated at 2023-02-19 00:53
+
+# game/Leo.rpy:4
 translate Schinese leoandjenna_3b9eb996:
 
     # "I watch Jenna's tail disappear through the sage brush. They're headed down the same trail that I had used to get to Lake Emma."
@@ -959,9 +961,9 @@ translate Schinese leoandjenna_17edf3e7:
     "我爪子在他大腿上细细摩擦着，心中充满了思绪。"
 
 # game/Leo.rpy:201
-translate Schinese leoandjenna_5aaf1762:
+translate Schinese leoandjenna_97996a89:
 
-    # m "\"I mean, Is there really no way you could leave with me? It would make things so much easier.\""
+    # m "\"I mean, is there really no way you could leave with me? It would make things so much easier.\""
     m "\"我说，你真的不能和我一起离开吗？如果可以，事情就简单多了。\""
 
 # game/Leo.rpy:203
