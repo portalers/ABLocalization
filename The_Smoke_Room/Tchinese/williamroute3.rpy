@@ -8832,9 +8832,6 @@ translate Tchinese endofwillchallinterviews2_f53ed23b:
     # "I think it’s about time to head back to the station."
     "是時候回局裡了。"
 
-
-# TODO: Translation updated at 2022-09-27 14:24
-
 # game/williamroute3.rpy:1059
 translate Tchinese samstation_40a9aaea:
 
@@ -9992,8 +9989,6 @@ translate Tchinese hipinvestigation_1417259d:
 
     # "The only other person who’d be easy to access is Ethel, sitting along on the couch."
     "唯一方便問話的另一個人是坐在沙發上的Ethel。"
-
-# TODO: Translation updated at 2022-04-15 22:58
 
 # game/williamroute3.rpy:2532
 translate Tchinese hipinvestigation1_89f6e646:
@@ -19708,7 +19703,7 @@ translate Tchinese hattie_b61f0723:
 translate Tchinese hattie_c5ebdb8a:
 
     # gr "\"The men have work to do at closing time.\""
-    gr "“我們的員工在打樣時間可是很忙的。”"# TODO： Translation updated at 2022──12──20 02：52
+    gr "“我們的員工在打樣時間可是很忙的。”"
 
 # game/williamroute3.rpy:5696
 translate Tchinese hattie_fec97169:
