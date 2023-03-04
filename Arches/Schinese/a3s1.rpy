@@ -6080,19 +6080,19 @@ translate Schinese a3s1_3972b060:
 translate Schinese a3s1_f5076837:
 
     # "It was exciting."
-    "It was exciting."
+    "惊险万分。"
 
 # game/a3s1.rpy:87
 translate Schinese a3s1_1d59b6d8:
 
     # "He'd even missed the key being taken out of his pocket."
-    "He'd even missed the key being taken out of his pocket."
+    "甚至钥匙被偷走他也不曾察觉。"
 
 # game/a3s1.rpy:119
 translate Schinese a3s1_6e8ee11b:
 
     # "Weasel" "\"Jesus Christ, this is really makin' me not wanna do what I'm gonna have to do after this. But ya know, everything's gotta end eventually.\""
-    "Weasel" "\"老天爷啊。虽然我不想那么做，不过嘛，一切都有结束的一天。\""
+    "Weasel" "\"老天爷啊。虽然我不想那么做，不过嘛，一切都有结束的那天。\""
 
 # game/a3s1.rpy:269
 translate Schinese a3s1_8c2ea207:
@@ -6164,13 +6164,13 @@ translate Schinese a3s1_8cdeaa7b:
 translate Schinese a3s1_a37472fb:
 
     # "Cameron's right arm is torn up as well, but since Brian isn't shaking his head this time, his bones at least remain intact."
-    "Cameron的左臂也不出意外地断了，但由于这次Brian只是啃咬，没有摆头，所以至少骨头还保持完好。"
+    "Cameron的左臂也不出意外地断了，但由于这次Brian只是啃咬，没有摇头，所以至少骨头还保持完好。"
 
 # game/a3s1.rpy:929
 translate Schinese a3s1_17bb5716:
 
     # "So, Devon focuses on destroying the other bear's arm."
-    "So, Devon focuses on destroying the other bear's arm."
+    "于是，Devon盯上了另一头熊的手臂。"
 
 # game/a3s1.rpy:940
 translate Schinese a3s1_1f4dad5a:
@@ -6182,19 +6182,19 @@ translate Schinese a3s1_1f4dad5a:
 translate Schinese a3s1_ecb27387:
 
     # d "\"Need to get you out of here. Just let me see--\""
-    d "\"Need to get you out of here. Just let me see--\""
+    d "\"我要先带你出去，让我看看-\""
 
 # game/a3s1.rpy:963
 translate Schinese a3s1_bb57fe10:
 
     # "Just as Devon remembers to keep an eye on Brian and his gun, the butt of the gun meets his side."
-    "Just as Devon remembers to keep an eye on Brian and his gun, the butt of the gun meets his side."
+    "就在Devon想起要当心Brian和他的枪的时候，枪托触及了他的腰身。"
 
 # game/a3s1.rpy:967
 translate Schinese a3s1_1917bb64:
 
     # b "\"God, you fucking ruined it! He was perfectly fine 'till you showed up. Now he's fuckin' mangled to the point he's not even fuckable!\""
-    b "\"你把一切都毁了！在你出现之前他明明那么乖，现在被搞成这副德行，谁他妈下得去屌啊！\""
+    b "\"你把一切都毁了！在你出现之前他明明那么乖，现在变成这副德行，都没法下屌了！\""
 
 # game/a3s1.rpy:979
 translate Schinese a3s1_80009c2d:
