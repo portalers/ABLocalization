@@ -1234,7 +1234,7 @@ translate Schinese chapter_L2_3d47f439:
 translate Schinese chapter_L2_044514d9:
 
     # p "WHATEVER’S MAKING THAT NOISE, SHUT UP!"
-    p "{b}还让不让人睡觉了！{/b}"
+    p "{b}还让不让人睡觉了！/b}"
 
 # game/story/chapter_L2.rpy:659
 translate Schinese chapter_L2_64d45b0b:
@@ -2802,7 +2802,7 @@ translate Schinese strings:
 
     # game/story/chapter_L2.rpy:1055
     old "I usually come to the Six Fan cafe near the beginning of the month, cause that’s when I actually have enough money to spend eating out. The place used to be an empty shop front before some guy came over to rent it last year. If I recall correctly, it started out as a tour agency of some sort. The kind that takes you around the town on a supernatural trip, but it went bust after a few months. The owner of Six Fan is said to be related to the guy who ran that tour agency before. I wonder what happened to him?"
-    new "我常在月初来这家店吃饭，实际上是因为那时我口袋里还有闲钱。在去年被人租下之前，这地方一直无人问津。如果我没记错的话，它最初是家旅行社来着，就是带你体验镇上的超自然现象之类的，不过没几个月就倒闭了。听说六扇门的老板跟之前经营旅行社的人有亲戚关系，不知道他现在怎么样了。"
+    new "我常在月初来这家店吃饭，实际上是因为那时我口袋里还有闲钱。在去年被人租下之前，这地方一直无人问津。如果我没记错的话，它最初是家旅行社来着，就是带你体验镇上的超自然现象什么的，不过没几个月就倒闭了。听说六扇门的老板跟之前经营旅行社的人有亲戚关系，不知道他现在怎么样了。"
 
     # game/story/chapter_L2.rpy:1355
     old "Red Zones{#journal}"
@@ -2810,7 +2810,7 @@ translate Schinese strings:
 
     # game/story/chapter_L2.rpy:1355
     old "I’ve been to two other Red Zones before I arrived in Kibbleton. I’ve got to be honest, I can’t really remember them in detail, with me running for my life and all. There was a city, it had this mega corporation that everyone was working for. Like the whole company had its hands in the city’s activities. The second place was nice, they all had this dragon god they all celebrated. It was a nice place, but it felt like I didn’t really belong there if I wasn’t a fan of their god. So far, minus the gang problem and the new cult in town, Kibbleton is pretty alright, but if what Lucian says is true..."
-    new "在到达基布尔顿之前，我曾经去过两个红区。不过说实话，我忙于奔命，哪有功夫记清楚它们的细节呢？总之第一座城市有一间所有人都为之工作的大公司，它就像是阴影，笼罩了城市的方方面面。第二个乡镇就好很多，人们会为龙神举行庆典，可我总觉得自己不属于那里，毕竟我又不是龙神的粉丝。至于基布尔顿嘛，除去帮派问题和新兴的邪教其实还不错，但假如Lucian所言属实..."
+    new "在到达基布尔顿之前，我曾经去过两个红区。不过说实话，我疲于奔命，哪有功夫记清它们的细节呢？总之第一座城市有一间所有人都趋之若鹜的大公司，它就像是阴影，笼罩了城市的方方面面。第二个乡镇就好很多，人们会为龙神举行庆典，可我总觉得自己不属于那里，毕竟我又不是龙神的粉丝。至于基布尔顿嘛，除去帮派问题和新兴的邪教其实还不错，但假如Lucian所言属实..."
 
 # TODO: Translation updated at 2022-12-08 00:18
 
