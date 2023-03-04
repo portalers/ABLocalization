@@ -304,7 +304,7 @@ translate Schinese chapter_L3_9bc507b8:
 translate Schinese chapter_L3_1d374d12:
 
     # "Looking around your gaze falls upon a lonely street side vendor. Half of a roasted chicken hangs behind the food display case as though proudly announcing to the world, “Look at how good my food is, get it while it lasts.”"
-    "环顾四周后，你盯上了一个孤零零的街头小贩。他的食品展示柜里挂着半只烤鸡，仿佛在骄傲地向世界宣布：“如此美味，岂能错过。”"
+    "环顾四周后，你盯上了一个孤零零的街头Vendor。他的食品展示柜里挂着半只烤鸡，仿佛在骄傲地向世界宣布：“如此美味，岂能错过。”"
 
 # game/story/Chapter_L3.rpy:177
 translate Schinese chapter_L3_324ae9a4:
@@ -334,7 +334,7 @@ translate Schinese chapter_L3_1d69d057:
 translate Schinese chapter_L3_98f5859b:
 
     # Vendor "Hi there, want some chicken rice? I’ve got some juicy roasted chicken."
-    小贩 "你好呀，来点鸡肉饭吗？我家的烤鸡肉汁水很足喔。"
+    Vendor "你好呀，来点鸡肉饭吗？我家的烤鸡肉汁水很足喔。"
 
 # game/story/Chapter_L3.rpy:189
 translate Schinese chapter_L3_9c57980e:
@@ -346,7 +346,7 @@ translate Schinese chapter_L3_9c57980e:
 translate Schinese chapter_L3_39588761:
 
     # Vendor "I’ve got some roasted pork for another three dollars."
-    小贩 "我这儿还有烤猪肉，只要三美元呢。"
+    Vendor "我这儿还有烤猪肉，只要三美元呢。"
 
 # game/story/Chapter_L3.rpy:193
 translate Schinese chapter_L3_5e87c31a:
@@ -358,13 +358,13 @@ translate Schinese chapter_L3_5e87c31a:
 translate Schinese chapter_L3_cb0f49d4:
 
     # p question "Hmm… just chicken is five dollars already. I think, no."
-    p question "嗯...还是算了，光鸡肉饭就五美元了。"
+    p question "唔...还是算了，光鸡肉饭就五美元了。"
 
 # game/story/Chapter_L3.rpy:197
 translate Schinese chapter_L3_1602db83:
 
     # "The vendor nods and starts preparing the dish."
-    "小贩点了点头，开始准备你的食物。"
+    "Vendor点了点头，开始准备你的食物。"
 
 # game/story/Chapter_L3.rpy:199
 translate Schinese chapter_L3_3f1a6643:
@@ -376,13 +376,13 @@ translate Schinese chapter_L3_3f1a6643:
 translate Schinese chapter_L3_f35d51a0:
 
     # Vendor "Of course, my chicken rice is one of the best in this town and I’ve been selling it for a decade."
-    小贩 "那是当然的了，我卖了十年的鸡肉饭，在咱们镇上，我说第二就没人敢说第一。"
+    Vendor "那是当然的了，我卖了十年的鸡肉饭，在咱们镇上，我说第二就没人敢说第一。"
 
 # game/story/Chapter_L3.rpy:203
 translate Schinese chapter_L3_3eaeecbd:
 
     # Vendor "Trust me, you can try any other stall, but you’ll still come back to me."
-    小贩 "真不是我吹牛，您可以去别家试试，我不信您不回来。"
+    Vendor "真不是我吹牛，您可以去别家试试，我不信您不回来。"
 
 # game/story/Chapter_L3.rpy:205
 translate Schinese chapter_L3_17ed4217:
@@ -406,7 +406,7 @@ translate Schinese chapter_L3_19b6c6f4:
 translate Schinese chapter_L3_713462e3:
 
     # Vendor "Ah, you one of them Tube people?"
-    小贩 "咦，你们是油管主播吗？"
+    Vendor "咦，你们是油管主播吗？"
 
 # game/story/Chapter_L3.rpy:213
 translate Schinese chapter_L3_f64468a5:
@@ -418,7 +418,7 @@ translate Schinese chapter_L3_f64468a5:
 translate Schinese chapter_L3_6e700c13:
 
     # Vendor "Why don’t you take them to the old Kibbleton Hotel by the hillside? People are disappearing all the time over there."
-    小贩 "那咋不去山坡上的老基布尔顿酒店看看？那儿老有人失踪。"
+    Vendor "那咋不去山坡上的老基布尔顿酒店看看？那儿老有人失踪。"
 
 # game/story/Chapter_L3.rpy:217
 translate Schinese chapter_L3_67b82619:
@@ -430,7 +430,7 @@ translate Schinese chapter_L3_67b82619:
 translate Schinese chapter_L3_7d6d6c6c:
 
     # Vendor "Maybe I do, maybe I don’t. I’ve got a lot of chicken and pork to sell. Maybe if I’ve had less on my plate, I could recall better."
-    小贩 "谁知道呢，咱这是小本买卖，也许生意一多我就想起来了。"
+    Vendor "谁知道呢，咱这是小本买卖，也许生意一多我就想起来了。"
 
 # game/story/Chapter_L3.rpy:221
 translate Schinese chapter_L3_f21342f1:
@@ -466,7 +466,7 @@ translate Schinese chapter_L3_37645162:
 translate Schinese chapter_L3_feda4c01:
 
     # Vendor "So, you see that street over there?"
-    小贩 "看到那条街了吗？"
+    Vendor "看到那条街了吗？"
 
 # game/story/Chapter_L3.rpy:233
 translate Schinese chapter_L3_125aae65:
@@ -484,7 +484,7 @@ translate Schinese chapter_L3_60ee0409:
 translate Schinese chapter_L3_4039afd1:
 
     # Vendor "That's Doberwalk 1. We are on Doberwalk 2, all the businesses that used to be on Doberwalk 1 either moved here or closed down permanently."
-    小贩 "咱们这儿是多宝路2号，那里是多宝路1号。所有曾经在那儿做买卖的，要么搬到了这里，要么都关门大吉了。"
+    Vendor "咱们这儿是多宝路2号，那里是多宝路1号。所有曾经在那儿做买卖的，要么搬到了这里，要么都关门大吉了。"
 
 # game/story/Chapter_L3.rpy:241
 translate Schinese chapter_L3_99d25d4e:
@@ -496,25 +496,25 @@ translate Schinese chapter_L3_99d25d4e:
 translate Schinese chapter_L3_df665459:
 
     # Vendor "Yeah, probably has some shitty Feng Shui."
-    小贩 "是啊，大概风水不行吧。"
+    Vendor "是啊，大概风水不行吧。"
 
 # game/story/Chapter_L3.rpy:245
 translate Schinese chapter_L3_feeaca46:
 
     # Vendor "There's some rumours that all the bad business started with the death of the arcade owner who owed money to the the local gang."
-    小贩 "据说啊，这一切都要从街机店老板的死开始，他欠了本地黑帮一大笔钱。"
+    Vendor "据说啊，这一切都要从街机店老板的死开始，他欠了本地黑帮一大笔钱。"
 
 # game/story/Chapter_L3.rpy:247
 translate Schinese chapter_L3_20eb8b73:
 
     # Vendor "Since then, those who walk that street sometimes would hear a painful scream as they get closer to the arcade."
-    小贩 "从那以后，那条街就时不时发出痛苦的叫声，尤其是靠近拱廊的时候。"
+    Vendor "从那以后，那条街就时不时发出痛苦的叫声，尤其是靠近拱廊的时候。"
 
 # game/story/Chapter_L3.rpy:249
 translate Schinese chapter_L3_f30824a9:
 
     # Vendor "Or a sickeningly overpowering feeling of being watched by hundreds of eyes."
-    小贩 "还有一种被成千上万双眼睛盯着看的恶心感。"
+    Vendor "还有一种被成千上万双眼睛盯着看的恶心感。"
 
 # game/story/Chapter_L3.rpy:251
 translate Schinese chapter_L3_e8deceb3:
@@ -526,13 +526,13 @@ translate Schinese chapter_L3_e8deceb3:
 translate Schinese chapter_L3_623f3f3a:
 
     # Vendor "It's bad for business if people talk about this too much. Who would want to shop in a place where someone was murdered with no guarantee they won't be next."
-    小贩 "传得太多影响不好，谁会想在一个有人被杀的地方买东西呢？没人保证自己不是下一个。"
+    Vendor "传得太多影响不好，谁会想在一个有人被杀的地方买东西呢？没人保证自己不是下一个。"
 
 # game/story/Chapter_L3.rpy:255
 translate Schinese chapter_L3_6f87791c:
 
     # Vendor "That's the main reason we all shifted our premises here. Start clean."
-    小贩 "所以我们才都转移了过来，重新开始。"
+    Vendor "所以我们才都转移了过来，重新开始。"
 
 # game/story/Chapter_L3.rpy:257
 translate Schinese chapter_L3_b7707f8c:
@@ -544,7 +544,7 @@ translate Schinese chapter_L3_b7707f8c:
 translate Schinese chapter_L3_a9772e64:
 
     # Vendor "Personally… I believe it… I walked that street a while back, I swear I heard… my–"
-    小贩 "要我说...我反正是信的...我前阵子刚走过那条街，亲耳听到-"
+    Vendor "要我说...我反正是信的...我前阵子刚走过那条街，亲耳听到-"
 
 # game/story/Chapter_L3.rpy:261
 translate Schinese chapter_L3_6e5e1a42:
@@ -574,7 +574,7 @@ translate Schinese chapter_L3_277a3369:
 translate Schinese chapter_L3_48bca2b1:
 
     # "The vendor thanks you for patronage and begins to close his stall."
-    "小贩一边感谢你的惠顾，一边收起了摊。"
+    "Vendor一边感谢你的惠顾，一边收起了摊。"
 
 # game/story/Chapter_L3.rpy:281
 translate Schinese chapter_L3_310356ba:
@@ -646,7 +646,7 @@ translate Schinese chapter_L3_38f7f338:
 translate Schinese chapter_L3_13a5fa9e:
 
     # p talk "The chicken rice vendor I talked to mentioned a former arcade where someone died in it. Since then, no one goes to that area."
-    p talk "卖鸡肉饭的小贩说街机厅里曾发生过一起命案，从那以后，就没有人敢去那个街区了。"
+    p talk "卖鸡肉饭的Vendor说街机厅里曾发生过一起命案，从那以后，就没有人敢去那个街区了。"
 
 # game/story/Chapter_L3.rpy:308
 translate Schinese chapter_L3_785b6201:
@@ -5258,19 +5258,19 @@ translate Schinese chapter_L3_f53a9aa2:
 translate Schinese chapter_L3_d1091eda:
 
     # Vendor "Of course, my chicken rice is the best in town. I’ve been selling it for a decade."
-    小贩 "那是当然的，我卖了十年的鸡肉饭，在咱们镇上，我说第二就没人敢说第一。"
+    Vendor "那是当然的，我卖了十年的鸡肉饭，在咱们镇上，我说第二就没人敢说第一。"
 
 # game/story/Chapter_L3.rpy:202
 translate Schinese chapter_L3_96df9544:
 
     # Vendor "Trust me, try elsewhere all you like, but you’ll love mine so much you’ll be back in no time."
-    小贩 "真不是我吹牛，您可以去别家试试，我不信您不回来。"
+    Vendor "真不是我吹牛，您可以去别家试试，我不信您不回来。"
 
 # game/story/Chapter_L3.rpy:206
 translate Schinese chapter_L3_73821d65:
 
     # Vendor "I’m here from breakfast to dusk."
-    小贩 "从清晨到黄昏都在。"
+    Vendor "从清晨到黄昏都在。"
 
 # game/story/Chapter_L3.rpy:208
 translate Schinese chapter_L3_46d6ec1f:
@@ -5282,7 +5282,7 @@ translate Schinese chapter_L3_46d6ec1f:
 translate Schinese chapter_L3_33d43a41:
 
     # Vendor "Maybe, or maybe not. I’ve got a lot of chicken and pork to sell. Perhaps if I had less on my plate, I could recall better."
-    小贩 "谁知道呢，咱这是小本买卖，也许生意一多我就想起来了。"
+    Vendor "谁知道呢，咱这是小本买卖，也许生意一多我就想起来了。"
 
 # game/story/Chapter_L3.rpy:234
 translate Schinese chapter_L3_e6dcd2a4:
@@ -5294,13 +5294,13 @@ translate Schinese chapter_L3_e6dcd2a4:
 translate Schinese chapter_L3_11188b8a:
 
     # Vendor "That's Doberwalk 1. We are on Doberwalk 2. All the businesses that used to be on Doberwalk 1 either moved here or closed down permanently."
-    小贩 "咱们这儿是多宝路2号，那里是多宝路1号。所有曾经在那儿做买卖的，要么搬到了这里，要么都关门大吉了。"
+    Vendor "咱们这儿是多宝路2号，那里是多宝路1号。所有曾经在那儿做买卖的，要么搬到了这里，要么都关门大吉了。"
 
 # game/story/Chapter_L3.rpy:248
 translate Schinese chapter_L3_dc2fdc42:
 
     # Vendor "Since then, those who walk that street sometimes hear a painful scream come from the arcade."
-    小贩 "从那以后，那条街就时不时发出痛苦的叫声，尤其是靠近拱廊的时候。"
+    Vendor "从那以后，那条街就时不时发出痛苦的叫声，尤其是靠近拱廊的时候。"
 
 # game/story/Chapter_L3.rpy:252
 translate Schinese chapter_L3_6b5cfb2f:
@@ -5312,7 +5312,7 @@ translate Schinese chapter_L3_6b5cfb2f:
 translate Schinese chapter_L3_86f18880:
 
     # Vendor "It's bad for business to talk about it. People who know someone was murdered instinctively wonder if they will be next."
-    小贩 "传太多影响不好，谁会想在一个有人被杀的地方买东西呢？没人保证自己不是下一个。"
+    Vendor "传太多影响不好，谁会想在一个有人被杀的地方买东西呢？没人保证自己不是下一个。"
 
 # game/story/Chapter_L3.rpy:262
 translate Schinese chapter_L3_a0c73a6f:
@@ -5354,7 +5354,7 @@ translate Schinese chapter_L3_60dc6973:
 translate Schinese chapter_L3_314bdda6:
 
     # p talk "The chicken rice vendor I talked to mentioned a former arcade where someone died. Since then, no one goes to that area."
-    p talk "卖鸡肉饭的小贩说街机厅里曾发生过一起命案，从那以后，就没有人敢去那个街区了。"
+    p talk "卖鸡肉饭的Vendor说街机厅里曾发生过一起命案，从那以后，就没有人敢去那个街区了。"
 
 # game/story/Chapter_L3.rpy:365
 translate Schinese chapter_L3_arcade2_9e78b7e3:
