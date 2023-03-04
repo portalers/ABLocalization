@@ -6202,7 +6202,7 @@ translate Schinese ch1_cleanup_8b68d9d4:
 translate Schinese ch1_cleanup_8a41cca6:
 
     # K "Nonsense, you did a wonderful job, you deserve some kind of compensation. You’ll have a cup of coffee on me, and I won’t hear another word about it."
-    K "别开玩笑了，让您白跑一趟，我实在过意不去。至少，我请您喝杯咖啡吧，不许说不哦。"
+    K "别开玩笑了，让您白跑一趟，我实在过意不去。至少让我请您喝杯咖啡吧，不许说不哦。"
 
 # game/story/Chapter_1.rpy:4018
 translate Schinese ch1_cleanup_256819c7:
@@ -6778,7 +6778,7 @@ translate Schinese strings:
 
     # game/story/Chapter_1.rpy:21
     old "“Sunny Fruits, Sunny Fruits, the friendliest family mart in town! Rain or shine we'll be there to serve you with a smile.“ That's the franchise jingle that I had to learn on the first day of the job. Sunny Fruits is a rising franchise in this part of the country. According to the employee handbook, the business person who started the franchise started with just a fruit stand by the streets. Then they came into a great fortune one day and decided to go into the convenience store industry."
-    new "‘阳光超市，阳光超市，镇上最友好的全家便利店！无论刮风还是下雨，我们都将竭诚为您服务。’这是我在入职第一天就必须学会的广告词。阳光超市是这个地区新兴的特营店。根据员工手册记载，创始人起初只是在街边摆水果摊的。后来他们一夜暴富，决定进军便利店行业。"
+    new "“阳光超市，阳光超市，镇上最友好的全家便利店！无论刮风还是下雨，我们都将竭诚为您服务。”这是我在入职第一天就必须学会的广告词。阳光超市是这个地区新兴的特营店。根据员工手册记载，创始人起初只是在街边摆水果摊的。后来他们一夜暴富，决定进军便利店行业。"
 
     # game/story/Chapter_1.rpy:787
     old "King{#journal}"
@@ -7512,14 +7512,17 @@ translate Schinese chapter_1_439a6203:
     # "The boar seals the jar and turns to look into your dazed eyes."
     "野猪封好罐子，转头对上你迷茫的眼睛。"
 
-# game/story/Chapter_1.rpy:1332
+# TODO: Translation updated at 2023-02-27 17:53
+
+# game/story/Chapter_1.rpy:1405
 translate Schinese chapter_1_3a978ed8:
 
     # Gho "Huh?" (cb_no_talk=True)
     Gho "哈？" (cb_no_talk=True)
 
-# game/story/Chapter_1.rpy:1421
+# game/story/Chapter_1.rpy:1602
 translate Schinese chapter_1_9aa3e6a2:
 
     # p angry "No! You’re making a mess of the store, and stop using your powers. Someone's going to see you on the recording!"
-    p angry "屁，你都快把我们店炸飞了！还有拜托你手下留情，监控会拍到的！"
+    p angry "呸！你都快把我们店给炸飞了！还有拜托你手下留情，监控会拍到的！"
+
