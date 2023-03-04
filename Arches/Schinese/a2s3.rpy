@@ -3960,19 +3960,19 @@ translate Schinese a2s3_c9051a5e:
 translate Schinese a2s3_41a8a15d:
 
     # "This is bad."
-    "This is bad."
+    "大事不妙了。"
 
 # game/a2s3.rpy:263
 translate Schinese a2s3_4b6bb740:
 
     # a "\"I n-n-n-n-need... s-summon... something.\""
-    a "\"I n-n-n-n-need... s-summon... something.\""
+    a "\"我需-需-需-需-需要...帮-帮-帮扶。\""
 
 # game/a2s3.rpy:264
 translate Schinese a2s3_9b528e1a:
 
     # "No, wrong words."
-    "No, wrong words."
+    "不，不对。"
 
 # game/a2s3.rpy:270
 translate Schinese a2s3_20fdae8f:
@@ -4050,13 +4050,13 @@ translate Schinese a2s3_26e23c2f:
 translate Schinese a2s3_504ac1c5:
 
     # "Timothy Esposito was a skunk born in 1985 in the Midwest."
-    "Timothy Esposito was a skunk born in 1985 in the Midwest."
+    "Timothy Esposito，1985年出生于美国中西部。"
 
 # game/a2s3.rpy:476
 translate Schinese a2s3_b56267a7:
 
     # "His hometown was a large, industrial city, one that had been in decay for his entire life."
-    "His hometown was a large, industrial city, one that had been in decay for his entire life."
+    "他的家乡是一座不断衰败大型工业城市。"
 
 # game/a2s3.rpy:477
 translate Schinese a2s3_519e2b02:
@@ -4152,7 +4152,7 @@ translate Schinese a2s3_99f9ab58:
 translate Schinese a2s3_506a6d2a:
 
     # d "\"Please...{w=0.3} please.{cps=3}..{/cps}{w=0.4} please...\""
-    d "\"Please...{w=0.3} please.{cps=3}..{/cps}{w=0.4} please...\""
+    d "\"求求你...{w=0.3}求求你{cps=3}...{/cps}{w=0.4}求求你...\""
 
 # game/a2s3.rpy:974
 translate Schinese a2s3_0c17fee9:
@@ -4206,7 +4206,7 @@ translate Schinese a2s3_f2ae4d2a:
 translate Schinese a2s3_1c46c3fc:
 
     # c "\"Well, Brian drugged me with shrooms, and I'm tripping absolute balls right now.{w} Hallucinogens enhance my abilities, and I think I kinda created this space. I really can't make this stuff up.\""
-    c "\"我猜但我们是我创造了这个空间。{w}Brian给我喂了迷幻剂，这增强了我的能力。\""
+    c "\"我猜是我创造了这个空间。{w}Brian给我喂了迷幻剂，这增强了我的能力。\""
 
 # game/a2s3.rpy:1099
 translate Schinese a2s3_a7dc534f:
@@ -4218,13 +4218,13 @@ translate Schinese a2s3_a7dc534f:
 translate Schinese a2s3_26bfca95:
 
     # c "\"Anyway, it turns out I'm not that different from my mom. It's all arches. I see them when I take certain drugs.\""
-    c "\"话说回来，我发现我和我妈一样，当服用某些药物时，我就会看到拱形。\""
+    c "\"话说回来，我发现我和我妈一样，服用某些药物后会看到拱形。\""
 
 # game/a2s3.rpy:1105
 translate Schinese a2s3_9e2ee6f2:
 
     # "Devon looks up at the patterns, and for the first time, he feels like this might actually be Cameron."
-    "Devon looks up at the patterns, and for the first time, he feels like this might actually be Cameron."
+    "Devon仰望着那些图案，头一次觉得这那可能真的是Cameron。"
 
 # game/a2s3.rpy:1154
 translate Schinese a2s3_1c857faf:
@@ -4236,7 +4236,7 @@ translate Schinese a2s3_1c857faf:
 translate Schinese a2s3_9df931bf:
 
     # "But doubt that it'd been real at all starts to creep in again, even though Cameron had convinced him at the time."
-    "But doubt that it'd been real at all starts to creep in again, even though Cameron had convinced him at the time."
+    "只是刚刚发生的事仍令他感到将信将疑，尽管Cameron已经说服了他。"
 
 # game/a2s3.rpy:1201
 translate Schinese a2s3_74878f7e:
@@ -4266,31 +4266,31 @@ translate Schinese a2s3_f8104611:
 translate Schinese a2s3_4df77dbc:
 
     # "Brian already heard his plan."
-    "Brian already heard his plan."
+    "Brian已经听到他的计划了。"
 
 # game/a2s3.rpy:1274
 translate Schinese a2s3_13eec6e2:
 
     # "More importantly though, is that Brian isn't letting up."
-    "More importantly though, is that Brian isn't letting up."
+    "更重要的是，Brian没有停手。"
 
 # game/a2s3.rpy:1280
 translate Schinese a2s3_4cebbdda:
 
     # "He's a trailer home in the Northwest. He's a desert lake. He's a broken road. He's a trailer home in the Southwest. He's a train cutting through the wilderness."
-    "He's a trailer home in the Northwest. He's a desert lake. He's a broken road. He's a trailer home in the Southwest. He's a train cutting through the wilderness."
+    "他是西北地区的一间拖车房，是沙漠中的一处湖泊，是人际罕见的一条破路，是西南地区的一间拖车房，是划破荒野的一列火车。"
 
 # game/a2s3.rpy:1284
 translate Schinese a2s3_c95f369c:
 
     # centered "{cps=45}He's being shot in the head.{w=0.3} He's being hung from a tree.{p=0.3} He's being beaten to death.{w=0.3} He's swimming under an arch.{p=0.3} He's stumbling into a pond.{p=0.3} He's in a space shuttle smashing into the ocean.{w=0.3} He's a dead town."
-    centered "{cps=45}He's being shot in the head.{w=0.3} He's being hung from a tree.{p=0.3} He's being beaten to death.{w=0.3} He's swimming under an arch.{p=0.3} He's stumbling into a pond.{p=0.3} He's in a space shuttle smashing into the ocean.{w=0.3} He's a dead town."
+    centered "{cps=45}他头部中弹，{w=0.3}被吊在树上，{p=0.3}被殴打致死，{w=0.3}在拱桥下游泳，{p=0.3}失足掉进池塘里，{p=0.3}身处砸向海洋的航天飞机中，{w=0.3}他是一座死镇。"
 
 # game/a2s3.rpy:1286
 translate Schinese a2s3_d93954c2:
 
     # centered "{cps=45}Dead,{w=0.3} but with working reflexes,{w=0.3} using{p=0.01} the tools that it still holds tightly in its grasp."
-    centered "{cps=45}Dead,{w=0.3} but with working reflexes,{w=0.3} using{p=0.01} the tools that it still holds tightly in its grasp."
+    centered "{cps=45}死，{w=0.3}而不僵，{w=0.3} using{p=0.01}仍牢牢攥着那些人不放。"
 
 # game/a2s3.rpy:1287
 translate Schinese a2s3_a60278ec:
@@ -4308,5 +4308,5 @@ translate Schinese a2s3_49969722:
 translate Schinese a2s3_2795cc1a:
 
     # centered "{cps=45}And because of that,{w=0.3} he can see everything."
-    centered "{cps=45}正因为如此，{w=0.3}她得以看到一切。"
+    centered "{cps=45}正因为如此，{w=0.3}他得以看到一切。"
 
