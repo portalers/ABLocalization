@@ -334,7 +334,7 @@ translate Schinese chapter_L3_1d69d057:
 translate Schinese chapter_L3_98f5859b:
 
     # Vendor "Hi there, want some chicken rice? I’ve got some juicy roasted chicken."
-    Vendor "你好呀，来点鸡肉饭吗？我家的烤鸡肉汁水很足喔。"
+    Vendor "来点鸡肉饭吗？我家的烤鸡肉汁水很足喔。"
 
 # game/story/Chapter_L3.rpy:189
 translate Schinese chapter_L3_9c57980e:
@@ -346,7 +346,7 @@ translate Schinese chapter_L3_9c57980e:
 translate Schinese chapter_L3_39588761:
 
     # Vendor "I’ve got some roasted pork for another three dollars."
-    Vendor "我这儿还有烤猪肉，只要三美元呢。"
+    Vendor "我这里还有烤猪肉，只要三美元。"
 
 # game/story/Chapter_L3.rpy:193
 translate Schinese chapter_L3_5e87c31a:
@@ -382,7 +382,7 @@ translate Schinese chapter_L3_f35d51a0:
 translate Schinese chapter_L3_3eaeecbd:
 
     # Vendor "Trust me, you can try any other stall, but you’ll still come back to me."
-    Vendor "真不是我吹牛，您可以去别家试试，我不信您不回来。"
+    Vendor "不是我吹牛，您可以去别家试试，我不信您不回来。"
 
 # game/story/Chapter_L3.rpy:205
 translate Schinese chapter_L3_17ed4217:
@@ -400,13 +400,13 @@ translate Schinese chapter_L3_02e72fb6:
 translate Schinese chapter_L3_19b6c6f4:
 
     # p smile "Hey, then you must have seen a boat load of interesting things. My friend and I are actually looking into supernatural spots in the town."
-    p smile "哇，那你也算是老江湖了。不瞒你说，我和我的朋友正在研究镇上的超自然现象。"
+    p smile "哎，那你的阅历一定很丰富。不瞒你说，我和我的朋友正在研究镇上的超自然现象。"
 
 # game/story/Chapter_L3.rpy:211
 translate Schinese chapter_L3_713462e3:
 
     # Vendor "Ah, you one of them Tube people?"
-    Vendor "咦，你们是油管主播吗？"
+    Vendor "你们是油管主播吗？"
 
 # game/story/Chapter_L3.rpy:213
 translate Schinese chapter_L3_f64468a5:
@@ -418,19 +418,19 @@ translate Schinese chapter_L3_f64468a5:
 translate Schinese chapter_L3_6e700c13:
 
     # Vendor "Why don’t you take them to the old Kibbleton Hotel by the hillside? People are disappearing all the time over there."
-    Vendor "那咋不去山坡上的老基布尔顿酒店看看？那儿老有人失踪。"
+    Vendor "那咋不去山坡上的老基布尔顿酒店看看？那老有人失踪。"
 
 # game/story/Chapter_L3.rpy:217
 translate Schinese chapter_L3_67b82619:
 
     # p question "Yeah, we’ll check that out later, but what about here? Come on, you must know something interesting about this part of town?"
-    p question "呃，我们会去的，不过这里如何？一定有什么趣闻吧？"
+    p question "呃，我们会去的，不过这里如何？应该有什么趣闻吧？"
 
 # game/story/Chapter_L3.rpy:219
 translate Schinese chapter_L3_7d6d6c6c:
 
     # Vendor "Maybe I do, maybe I don’t. I’ve got a lot of chicken and pork to sell. Maybe if I’ve had less on my plate, I could recall better."
-    Vendor "谁知道呢，咱这是小本买卖，也许生意一多我就想起来了。"
+    Vendor "谁知道呢，咱是小本买卖，也许生意一多我就想起来了。"
 
 # game/story/Chapter_L3.rpy:221
 translate Schinese chapter_L3_f21342f1:
@@ -2776,7 +2776,7 @@ translate Schinese chapter_L3_bed_6caddd77:
 translate Schinese chapter_L3_bed_33d809be:
 
     # L angry "What’s the big deal? I’ve been working my whole life for this. I want to be one of Lord Gary’s top angels."这一生都在为此而努力
-    L angry "没什么大不了的？我这一生都在为此而努力，我想成为Gary大人的顶级天使之一。"
+    L angry "没什么大不了的？我这一生都在为此而努力，我想成为Gary大人的得力天使。"
 
 # game/story/Chapter_L3.rpy:1420
 translate Schinese chapter_L3_bed_1b143b72:
@@ -2800,7 +2800,7 @@ translate Schinese chapter_L3_bed_e4dd89b7:
 translate Schinese chapter_L3_bed_04110e0d:
 
     # L @ angry "Did it though? Did it ever come close to consuming you?"
-    L @ angry "是吗？你真的有投身到事业里吗，哪怕一天？"
+    L @ angry "是吗？你真的有把人生投入到事业里吗，哪怕一天？"
 
 # game/story/Chapter_L3.rpy:1429
 translate Schinese chapter_L3_bed_35f253b9:
@@ -2818,7 +2818,7 @@ translate Schinese chapter_L3_bed_37f0b463:
 translate Schinese chapter_L3_bed_b6828026:
 
     # L "I’m sorry… that was uncalled for."
-    L "对不起...当我没有说吧。"
+    L "对不起...是我多言了。"
 
 # game/story/Chapter_L3.rpy:1435
 translate Schinese chapter_L3_bed_4774ad42:
@@ -2860,7 +2860,7 @@ translate Schinese chapter_L3_bed_b9627bdf:
 translate Schinese chapter_L3_bed_69e0dd7c:
 
     # L "I just realised we went completely off topic. What were we talking about?"
-    L "跑题了，我们刚才是在说什么？"
+    L "我想我们跑题了，我们刚才是在说什么？"
 
 # game/story/Chapter_L3.rpy:1454
 translate Schinese chapter_L3_bed_46f5adb5:
@@ -2872,19 +2872,19 @@ translate Schinese chapter_L3_bed_46f5adb5:
 translate Schinese chapter_L3_bed_c4b8a7e7:
 
     # L neutral "Yeah, I guess you’re right, we don’t have any other alternatives for now. I’ll follow your lead then."
-    L neutral "嗯，既然没有其他选择，那我们就按你的思路进行吧。"
+    L neutral "嗯，既然没有其他选择，我们就按你的思路进行好了。"
 
 # game/story/Chapter_L3.rpy:1458
 translate Schinese chapter_L3_bed_d8f7b171:
 
     # p neutral "Ok. Guess we can meet him tomorrow after my shift."
-    p neutral "好的，我们明天一起去见他，等我下班之后。"
+    p neutral "好，我们明天一起去见他，等我下班之后。"
 
 # game/story/Chapter_L3.rpy:1460
 translate Schinese chapter_L3_bed_1444bc37:
 
     # L "I’ll be around."
-    L "我会待在你附近。"
+    L "我会去找你的。"
 
 # game/story/Chapter_L3.rpy:1467
 translate Schinese chapter_L3_bed_f39f2982:
@@ -2902,7 +2902,7 @@ translate Schinese chapter_L3_bed_76012a98:
 translate Schinese chapter_L3_morning_1527f016:
 
     # "In the morning, you awaken first. Lucian is still deep asleep so you let him be."
-    "早上，你率先醒来，见Lucian睡得正沉便没有叫醒他。"
+    "早上你率先醒来，见Lucian睡得正沉便没有叫醒他。"
 
 # game/story/Chapter_L3.rpy:1485
 translate Schinese chapter_L3_morning_ff6149c1:
@@ -6002,13 +6002,13 @@ translate Schinese chapter_L3_gin_e852dbf1:
 translate Schinese chapter_L3_gin_952f6390:
 
     # "Gin wraps his tail around Morris and pulls him close. The snake presses his face to Morris's. The snake’s forked tongue almost brushes against the boar’s ears."
-    "Gin一个甩尾将Morris缠到身边，与他面对着面，蛇的分叉舌头几乎碰到了野猪的耳朵。"
+    "Gin一个甩尾将Morris缠到身边，与他面对着面，蛇的分叉舌头几乎要碰到野猪的耳朵。"
 
 # game/story/Chapter_L3.rpy:2742
 translate Schinese chapter_L3_gin_28f74ac6:
 
     # p_mono @ question "Looks like these bunch aren’t just the town nuisance around here."
-    p_mono @ question "看来那些家伙比想象中的更加危险。"
+    p_mono @ question "看来那些帮派分子比我想象中的更加危险。"
 
 # game/story/Chapter_L3.rpy:2748
 translate Schinese chapter_L3_gin_8569eb35:
@@ -6020,7 +6020,7 @@ translate Schinese chapter_L3_gin_8569eb35:
 translate Schinese chapter_L3_gin_b55214e8:
 
     # Gin "I looked into the group and learnt a majority of the members joined because of the leader’s ability to predict people’s deaths. In other words, by joining the cult, its members feel they are sheltered from death."
-    Gin "我调查过这个组织，发现大多数成员加入的原因是因为教主有预测死亡的能力，据说加入该邪教，其成员就可以免于死亡。"
+    Gin "我调查过这个组织，发现大多数成员加入的原因是因为教主有预测死亡的能力。据说加入该教，就可以免于死亡。"
 
 # game/story/Chapter_L3.rpy:2782
 translate Schinese chapter_L3_gin_4693f8d7:
@@ -6032,25 +6032,25 @@ translate Schinese chapter_L3_gin_4693f8d7:
 translate Schinese chapter_L3_gin_946485e2:
 
     # Gin "It’s a demon, Morris. Rotten little creatures that we’ll all be happier without. Tell you what, I’ll be nice and even offer you the three remaining batteries you desire as payment."
-    Gin "那可是一个恶魔，Morris，腐朽的小生物，没有它我们都会过得更快乐的。不然这样吧，我就大发慈悲，把剩下的三颗电池也给你。"
+    Gin "那可是恶魔，Morris，腐朽的小生物，没有它我们都会过得更快乐的。不然这样吧，我就大发慈悲，把剩下的三颗电池也给你。"
 
 # game/story/Chapter_L3.rpy:2844
 translate Schinese chapter_L3_gin_1ffa464a:
 
     # p "The demons who are after me. Look, I really don’t see another way to get those keys."
-    p "就是追杀我的恶魔。听着，我实在想不到其他能获得钥匙的途径了。"
+    p "就是追杀我的恶魔。听着，我实在想不到其他能够获得钥匙的途径了。"
 
 # game/story/Chapter_L3.rpy:2924
 translate Schinese chapter_L3_gin_a4697c80:
 
     # Gin "Good luck, and if any of you plan to perish, do make sure your insurances is renewed."
-    Gin "祝你们好运。如果没有自信，记得提前买保险。"
+    Gin "祝你们好运。如果没有活下来的自信，记得先买份保险噢。"
 
 # game/story/Chapter_L3.rpy:2930
 translate Schinese chapter_L3_gin_e672bf21:
 
     # "Snapping his fingers, Gin disappears. All that remains is the old can by the wall."
-    "Gin打了个响指，消失了，只剩下墙边的那个旧罐子。"
+    "Gin打了个响指，消失了，只留下墙边的那个旧罐子。"
 
 # game/story/Chapter_L3.rpy:2957
 translate Schinese chapter_L3_gin_8e7577e1:
