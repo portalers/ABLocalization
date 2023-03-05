@@ -106,7 +106,7 @@ translate Schinese death_37f0b463_3:
 translate Schinese death_4dd6e3d1:
 
     # "Unknown" "[name]... Please, just be more careful."
-    "Unknown" "[name]...拜托，请再小心一点。"
+    "Unknown" "[name]...拜托，请你再小心一点。"
 
 # game/story/Deaths.rpy:31
 translate Schinese death_12a47622_1:
@@ -118,7 +118,7 @@ translate Schinese death_12a47622_1:
 translate Schinese death_4bf186c4:
 
     # "Unknown" "Ah… I am at a loss for words. So, what I’m going to do is… I’m going to set this process to automatic, and let it do its job."
-    "Unknown" "唉...我都不知道该说什么了。总之...先让我把这个过程设置成自行模式。"
+    "Unknown" "唉...我都不知道该说什么了。总之...先让我把这个过程设置成自动模式。"
 
 # game/story/Deaths.rpy:33
 translate Schinese death_53e4ad20:
@@ -180,7 +180,7 @@ translate Schinese death_7ddca8b5:
 translate Schinese death_c277f548:
 
     # "Unknown" "Alright, don’t ask any questions. Not that you can. Before they become aware that you’re here, I’m sending you back to the moment of your death. You won’t recall that we ever talked, of course."
-    "Unknown" "好吧，什么也别问，当然你也问不了。趁他们发现你之前，我要把你重置到你死前的那一刻。你甚至不会记得我们有过这段对话。"
+    "Unknown" "好吧，什么也别问，当然你也问不了。趁他们发现之前，我要把你重置到你死前的那一刻。你甚至不会记得我们有过这段对话。"
 
 # game/story/Deaths.rpy:28
 translate Schinese death_c8ea8a4a_3:
