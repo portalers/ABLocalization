@@ -3616,7 +3616,7 @@ translate Schinese chapter_L3_morris2_c9a37262:
 translate Schinese chapter_L3_morris2_fead91cf:
 
     # L "I know, I just enjoy rubbing it in your cute face either way."
-    L "我知道，我只是想在你可爱的脸蛋上撒点盐。"
+    L "我知道，我只是想看你这张可爱的脸蛋吃瘪。"
 
 # game/story/Chapter_L3.rpy:1937
 translate Schinese chapter_L3_morris2_04ad056d:
@@ -4546,7 +4546,7 @@ translate Schinese chapter_L3_gin_342cf220:
 translate Schinese chapter_L3_gin_51751a62:
 
     # Gin "Such a big mouth on your pretty face. How I want to just put a muzzle on it."
-    Gin "你漂亮的脸蛋上长着这么大一张嘴啊，我真想给它戴上个口套。"
+    Gin "你俊俏的脸上长着这么大一张嘴啊，我真想给它戴上个口套。"
 
 # game/story/Chapter_L3.rpy:2669
 translate Schinese chapter_L3_gin_01e05df9:
@@ -4738,13 +4738,13 @@ translate Schinese chapter_L3_gin_f0091823:
 translate Schinese chapter_L3_gin_d37fc241:
 
     # Gin "Because you will be dealing with the second issue."
-    Gin "因为要交给你的是第二个问题。"
+    Gin "因为你有属于你的任务。"
 
 # game/story/Chapter_L3.rpy:2759
 translate Schinese chapter_L3_gin_ac16ee9d:
 
     # p nervous "What exactly do you need us to do?"
-    p nervous "我们具体该怎么做？"
+    p nervous "我们具体应该怎么做？"
 
 # game/story/Chapter_L3.rpy:2761
 translate Schinese chapter_L3_gin_e761b7bc:
@@ -4762,7 +4762,7 @@ translate Schinese chapter_L3_gin_8470c9f1:
 translate Schinese chapter_L3_gin_9d2a6b7c:
 
     # Gin "Kill, run out of town, anything. Just make sure that scum can’t try the same thing twice."
-    Gin "杀死、驱逐，怎样都好。只要确保那个渣滓不会再做同样的事就行了。"
+    Gin "杀掉、驱逐，随便怎样都好。只要确保那个渣滓别死灰复燃就行了。"
 
 # game/story/Chapter_L3.rpy:2767
 translate Schinese chapter_L3_gin_7153fe34:
@@ -4774,7 +4774,7 @@ translate Schinese chapter_L3_gin_7153fe34:
 translate Schinese chapter_L3_gin_1b75dbe6:
 
     # Gin "The law moves too slowly, and there is no guarantee the more important artefacts the cult leader has won’t be moved before they are caught."
-    Gin "法律太慢了，邪教教主有时间转移他所拥有的重要法器。"
+    Gin "法律的进程太慢了，邪教教主有时间转移他所拥有的重要法器。"
 
 # game/story/Chapter_L3.rpy:2771
 translate Schinese chapter_L3_gin_215e1204:
@@ -4786,13 +4786,13 @@ translate Schinese chapter_L3_gin_215e1204:
 translate Schinese chapter_L3_gin_5067bebf:
 
     # Gin "I looked into the group and learnt a majority of the members joined because of the leader’s ability to predict people’s deaths, it is said that by joining the cult, members are sheltered from death."
-    Gin "我调查过这个组织，发现大多数成员加入的原因是因为教主有预测死亡的能力，据说加入该邪教，其成员就可以免于死亡。"
+    Gin "我调查过这个组织，发现大多数成员入教的原因是因为教主有预测死亡的能力。据说加入该邪教，就可以免于死亡。"
 
 # game/story/Chapter_L3.rpy:2775
 translate Schinese chapter_L3_gin_ff700ede:
 
     # L annoyed "Ridiculous."
-    L annoyed "荒谬。."
+    L annoyed "荒谬。"
 
 # game/story/Chapter_L3.rpy:2777
 translate Schinese chapter_L3_gin_95b7145e:
@@ -4804,25 +4804,25 @@ translate Schinese chapter_L3_gin_95b7145e:
 translate Schinese chapter_L3_gin_6c8a6a2d:
 
     # p "Did you even find out what this artefact looked like?"
-    p "那你知道这件法器是什么样子的吗？"
+    p "你知道那件法器是什么样子的吗？"
 
 # game/story/Chapter_L3.rpy:2781
 translate Schinese chapter_L3_gin_422fac05:
 
     # Gin "Why yes, it’s the hood that the leader wears. Destroy it, destroy the leader, and make sure to snoop around their computers as well."
-    Gin "当然了，就是教主头顶上的帽子。摧毁它、摧毁教主，进他们的电脑系统探寻探寻。"
+    Gin "当然，就是教主头顶上的帽子。摧毁它、摧毁教主，进他们的电脑系统探寻探寻。"
 
 # game/story/Chapter_L3.rpy:2783
 translate Schinese chapter_L3_gin_262aa337:
 
     # p confused "What are we searching for, cult porn files of their orgies?"
-    p confused "探寻什么，狂欢的色情影片吗？"
+    p confused "探寻什么，邪教徒的淫乱录像吗？"
 
 # game/story/Chapter_L3.rpy:2785
 translate Schinese chapter_L3_gin_38b3a164:
 
     # Gin "Cults aren’t built on faith and charisma anymore. These days they require connections and lots and lots of money, mostly illegally acquired of course. Make sure to be thorough and scrub everything."
-    Gin "邪教早就不建立在信仰和个人魅力的基础上了。如今，他们靠的是人脉和大量金钱，当然，大部分是非法所得。一定要把这些彻底清除干净。"
+    Gin "邪教早就不建立在信仰和个人魅力的基础上了。如今，他们靠的是人脉和大量金钱，当然，大部分是非法所得。势必要将这些连根拔除。"
 
 # game/story/Chapter_L3.rpy:2787
 translate Schinese chapter_L3_gin_f0092c9f:
@@ -4834,13 +4834,13 @@ translate Schinese chapter_L3_gin_f0092c9f:
 translate Schinese chapter_L3_gin_62ee77cf:
 
     # M @ annoyed "I don’t like this, I should be helping them."
-    M @ annoyed "听起来不妙，我得帮帮他们。"
+    M @ annoyed "听起来不太妙，我得帮帮他们。"
 
 # game/story/Chapter_L3.rpy:2791
 translate Schinese chapter_L3_gin_2d95dab3:
 
     # Gin "You won’t have the time. Our members reported that a demon has been leaving its presence around town."
-    Gin "你有你的任务，我们的成员报告说有一个恶魔在镇上出没。"
+    Gin "没那个时间给你挥霍，我们的成员报告说有一个恶魔在镇上出没。"
 
 # game/story/Chapter_L3.rpy:2793
 translate Schinese chapter_L3_gin_d6880e46:
@@ -4858,7 +4858,7 @@ translate Schinese chapter_L3_gin_8ea2ca80:
 translate Schinese chapter_L3_gin_f2dcc28a:
 
     # Gin "Here I was thinking who I could send for this, and here you are. It must be fate."
-    Gin "就在我想着该派谁去做这件事的时候，你来了，这一定是命运使然。"
+    Gin "就在我想着该派谁去做这件事的时候，你出现了，这一定是命运使然。"
 
 # game/story/Chapter_L3.rpy:2808
 translate Schinese chapter_L3_gin_d0f7a90e:
@@ -4996,7 +4996,7 @@ translate Schinese chapter_L3_gin_db084292:
 translate Schinese chapter_L3_gin_c2dd1f04:
 
     # L annoyed "Do I have to touch that? I don’t have any disinfectant on me."
-    L annoyed "一定要碰那个吗？我没有带消毒剂啊。"
+    L annoyed "不握不行吗？我身上没有带消毒剂。"
 
 # game/story/Chapter_L3.rpy:2880
 translate Schinese chapter_L3_gin_d7818bc6:
