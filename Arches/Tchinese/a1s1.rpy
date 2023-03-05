@@ -3900,7 +3900,7 @@ translate Tchinese a1s1_ff0d2057:
 translate Tchinese a1s1_f52b6fde:
 
     # "The fastest freshman at a D1 university is no faster than an old druggie."
-    "D1大學速度最快的新生比不過一個上了年紀的癮君子。"
+    "第一級別大學裡速度最快的新生卻比不過一個上了年紀的癮君子。\n(*第一級別：校際體育賽事的最高級別)"
 
 # game/a1s1.rpy:36
 translate Tchinese a1s1_276b4863:

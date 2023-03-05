@@ -4278,7 +4278,8 @@ translate Tchinese a2s3_13eec6e2:
 translate Tchinese a2s3_4cebbdda:
 
     # "He's a trailer home in the Northwest. He's a desert lake. He's a broken road. He's a trailer home in the Southwest. He's a train cutting through the wilderness."
-    "他幻化成西北地區的一間拖車房、沙漠中的一處湖泊，人際罕見的一條破路；他又變成了西南地區的一間拖車房，那台劃破荒野的火車。"
+    "他變化成了在西北地區的一間拖車房、沙漠中的一處湖泊，人際罕見的一條破路；"
+    "他又幻化成了西南地區的一間拖車房，也是那台火車劃破荒野的火車。"
 
 # game/a2s3.rpy:1284
 translate Tchinese a2s3_c95f369c:

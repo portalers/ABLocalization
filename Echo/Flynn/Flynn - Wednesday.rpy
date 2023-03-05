@@ -76,7 +76,7 @@ translate Schinese flynnwednesday_40a2eac9:
 translate Schinese flynnwednesday_55916472:
 
     # "I remember my parents saying that after it closed down it was a rite of passage to sneak into the school at night and graffiti up the walls."
-    "@@@I remember my parents saying that after it closed down it was a rite of passage to sneak into the school at night and graffiti up the walls."
+    "我记得父母曾和我说过，自从学校关停后，于夜里溜进学校然后在墙上涂鸦已经成为了每个人的必行。"
 
 # game/Flynn - Wednesday.rpy:28
 translate Schinese flynnwednesday_a4d39941:
@@ -1456,7 +1456,7 @@ translate Schinese flynnwednesday_d23469e3:
 translate Schinese flynnwednesday_0014b2bf:
 
     # "Flynn only flinches a little, but doesn't move, just folding his arms, staring hard at the wolf."
-    "@@@Flynn only flinches a little, but doesn't move, just folding his arms, staring hard at the wolf."
+    "Flynn只显得有点畏缩，但他并没有挪开步子，他就站在那儿双手抱胸，直勾勾地盯着Leo。"
 
 # game/Flynn - Wednesday.rpy:350
 translate Schinese flynnwednesday_1ea5c2a5:
@@ -1822,7 +1822,7 @@ translate Schinese flynnwednesday_22dc98a7:
 translate Schinese flynnwednesday_c3f1d4f2:
 
     # "The only sign of modernity is an oddly placed, long patch of asphalt and two tall lampposts at the end of it."
-    "@@@The only sign of modernity is an oddly placed, long patch of asphalt and two tall lampposts at the end of it."
+    "这里唯一能展现出现代气息的就只有一块位置奇怪的长段柏油路，在这路的尽头还装有两盏高高的路灯。"
 
 # game/Flynn - Wednesday.rpy:431
 translate Schinese flynnwednesday_5cf2c6aa:
@@ -2110,7 +2110,7 @@ translate Schinese flynnwednesday_9406e39b:
 translate Schinese flynnwednesday_9ab4e717:
 
     # f "\"Yeah, you can apologize, but in the end all it's doing is making YOU feel better while fixin' nothin'.\""
-    f "@@@\"Yeah, you can apologize, but in the end all it's doing is making YOU feel better while fixin' nothin'.\""
+    f "\"是，你可以道歉，是到头来你就只让{b}你自己{/b}心情变得好了点，但其实什么也没有好转。\""
 
 # game/Flynn - Wednesday.rpy:483
 translate Schinese flynnwednesday_0d6efde7:
@@ -2440,7 +2440,7 @@ translate Schinese flynnwednesday_8a046d8d:
 translate Schinese flynnwednesday_b3107466:
 
     # "On the way up to the door I feel his thick tail bump against my own, though it's soft enough that I'm not sure if it's on purpose."
-    "@@@On the way up to the door I feel his thick tail bump against my own, though it's soft enough that I'm not sure if it's on purpose."
+    "在走去大门的路上，Flynn的大尾巴时不时撞上了我的尾巴，尽管只是很温柔的一碰，但我还是止不住去想他是不是故意的。"
 
 # game/Flynn - Wednesday.rpy:550
 translate Schinese flynnwednesday_41572d3a:
@@ -3580,7 +3580,7 @@ translate Schinese flynnwednesday_aebb23e2:
 translate Schinese flynnwednesday_c51ae837:
 
     # f "\"It won't.\""
-    f "@@@\"It won't.\""
+    f "\"不会动手的。\""
 
 # game/Flynn - Wednesday.rpy:759
 translate Schinese flynnwednesday_09af577a:

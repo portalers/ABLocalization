@@ -304,7 +304,7 @@ translate Schinese chapter_L3_9bc507b8:
 translate Schinese chapter_L3_1d374d12:
 
     # "Looking around your gaze falls upon a lonely street side vendor. Half of a roasted chicken hangs behind the food display case as though proudly announcing to the world, “Look at how good my food is, get it while it lasts.”"
-    "环顾四周后，你盯上了一个孤零零的街头Vendor。他的食品展示柜里挂着半只烤鸡，仿佛在骄傲地向世界宣布：“如此美味，岂能错过。”"
+    "环顾四周后，你盯上了一个孤零零的街头小贩。他的食品展示柜里挂着半只烤鸡，仿佛在骄傲地向世界宣布：“如此美味，岂能错过。”"
 
 # game/story/Chapter_L3.rpy:177
 translate Schinese chapter_L3_324ae9a4:
@@ -364,7 +364,7 @@ translate Schinese chapter_L3_cb0f49d4:
 translate Schinese chapter_L3_1602db83:
 
     # "The vendor nods and starts preparing the dish."
-    "Vendor点了点头，开始准备你的食物。"
+    "小贩点了点头，开始准备你的食物。"
 
 # game/story/Chapter_L3.rpy:199
 translate Schinese chapter_L3_3f1a6643:
@@ -574,7 +574,7 @@ translate Schinese chapter_L3_277a3369:
 translate Schinese chapter_L3_48bca2b1:
 
     # "The vendor thanks you for patronage and begins to close his stall."
-    "Vendor一边感谢你的惠顾，一边收起了摊。"
+    "小贩一边感谢你的惠顾，一边收起了摊。"
 
 # game/story/Chapter_L3.rpy:281
 translate Schinese chapter_L3_310356ba:
@@ -646,7 +646,7 @@ translate Schinese chapter_L3_38f7f338:
 translate Schinese chapter_L3_13a5fa9e:
 
     # p talk "The chicken rice vendor I talked to mentioned a former arcade where someone died in it. Since then, no one goes to that area."
-    p talk "卖鸡肉饭的Vendor说街机厅里曾发生过一起命案，从那以后，就没有人敢去那个街区了。"
+    p talk "卖鸡肉饭的小贩说街机厅里曾发生过一起命案，从那以后，就没有人敢去那个街区了。"
 
 # game/story/Chapter_L3.rpy:308
 translate Schinese chapter_L3_785b6201:
@@ -5354,7 +5354,7 @@ translate Schinese chapter_L3_60dc6973:
 translate Schinese chapter_L3_314bdda6:
 
     # p talk "The chicken rice vendor I talked to mentioned a former arcade where someone died. Since then, no one goes to that area."
-    p talk "卖鸡肉饭的Vendor说街机厅里曾发生过一起命案，从那以后，就没有人敢去那个街区了。"
+    p talk "卖鸡肉饭的小贩说街机厅里曾发生过一起命案，从那以后，就没有人敢去那个街区了。"
 
 # game/story/Chapter_L3.rpy:365
 translate Schinese chapter_L3_arcade2_9e78b7e3:
