@@ -2086,7 +2086,7 @@ translate Tchinese a2s3_c19780c7:
 translate Tchinese a2s3_c2531754:
 
     # "--Now he's here, on the ground, his nose and forehead stinging from where it slammed into the asphalt, and the rest of his body just aches."
-    "──然後就出現在了這裡，鼻子與額頭朝下，被柏油馬路撞得生痛。"
+    "──然後就出現在了這裡，鼻子與額頭朝下，被柏油馬路撞得頭疼。"
 
 # game/a2s3.rpy:450
 translate Tchinese a2s3_76f712a0:
@@ -4044,7 +4044,7 @@ translate Tchinese a2s3_4463e011:
 translate Tchinese a2s3_26e23c2f:
 
     # "For several years, he moved from city to city, sometimes in neighboring states, before settling in Payton."
-    "他漂泊多年，輾轉於城市之間，並最終在佩頓扎根。"
+    "他漂泊多年，輾轉於城市之間，並最終在沛頓扎根。"
 
 # game/a2s3.rpy:475
 translate Tchinese a2s3_504ac1c5:

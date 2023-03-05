@@ -3930,13 +3930,13 @@ translate Tchinese a1s1_63cee6f8:
 translate Tchinese a1s1_57b06010:
 
     # "He'd run out of those after all the things the man did to him."
-    "在遭受過那個人的種種虐待之後，他早就已經哭乾了眼睛。"
+    "在經歷過那個男人的種種虐刑後，他的眼淚早已乾涸。"
 
 # game/a1s1.rpy:51
 translate Tchinese a1s1_064206e8:
 
     # "His mother is a devout Catholic, and even though he never believed, he promises this light that he'll become a believer right here and now if it saves him."
-    "他的母親是一位虔誠的天主教徒，儘管他本人並不信教，但他還是向著那束光祈禱：倘若能夠獲得救贖，他願意立刻皈依祂的懷抱。"
+    "他的母親是一位虔誠的天主教徒，儘管他本人不信教，但他依然向那道光祈禱著，倘若能獲得救贖，他願意立刻順從祂的道。"
 
 # game/a1s1.rpy:69
 translate Tchinese a1s1_a3505dbb:
@@ -3984,7 +3984,7 @@ translate Tchinese a1s1_ab38c3f9:
 translate Tchinese a1s1_5c33a566:
 
     # c "\"Normal ones?{w=0.3} The ones that baptize dead people and wear Jesus jammies under their clothes?\""
-    c "“普通人？{w=0.3}你是說那些為死者受洗，在衣服內裡再穿層袍子的傢伙？”"
+    c "“普通人？{w=0.3}你是說那些為死者受洗，在衣服底下穿著加門的基督徒？”\n (*加門：一種摩門教徒的內衣)"
 
 # game/a1s1.rpy:234
 translate Tchinese a1s1_0d4f6bf6:

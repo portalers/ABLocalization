@@ -4120,7 +4120,7 @@ translate Tchinese a3s1_ef3d22d3:
 translate Tchinese a3s1_8534e654:
 
     # "Devon leans over Cameron's body, an expression of untold anguish on his face as he starts to let out a low, terrible groan that rises in pitch to a howl--"
-    "Devon倚靠在Cameron的屍體上，臉上流露出難以言喻的痛苦表情。他開始發出一種低沉、駭人的呻吟，一聲賽過一聲，最後變成嚎叫──"
+    "Devon倚靠在Cameron的屍體上，臉上流露出難以言喻的痛苦表情。他開始發出一種低沉、駭人的呻吟，一聲勝過一聲，最後變成嚎叫──"
 
 # game/a3s1.rpy:962
 translate Tchinese a3s1_737bcd28:
@@ -5046,7 +5046,7 @@ translate Tchinese a3s1_38a41b8b:
 translate Tchinese a3s1_8817e2a9:
 
     # Weasel "\"Yeah, yeah, I'll call Payton PD... once I drop ya off. Gotta make sure I can beat 'em back, though.\""
-    "Weasel" "“知道，知道，我會打給佩頓警察局的……等送你到醫院之後。不過，我還得想個法子把他們懟回去。”"
+    "Weasel" "“知道，知道，我會打給沛頓警察局的……等送你到醫院之後。不過，我還得想個法子把他們懟回去。”"
 
 # game/a3s1.rpy:470
 translate Tchinese a3s1_3ce57452:
@@ -5604,7 +5604,7 @@ translate Tchinese a3s1_6a94787f:
 translate Tchinese a3s1_732f8a1c:
 
     # "He struggles with the shotgun, but it suddenly opens up and Devon doesn't know anything about working guns."
-    "他勉強夠到了獵槍，但獵槍突然上了膛，而Devon又對槍枝一無所知。"
+    "他勉強搆到了獵槍，但獵槍突然上了膛，而Devon又對槍枝一無所知。"
 
 # game/a3s1.rpy:1213
 translate Tchinese a3s1_e2183c83:
