@@ -3406,7 +3406,7 @@ translate Schinese chapter_L3_morris2_6ea8251b:
 translate Schinese chapter_L3_morris2_defbb543:
 
     # p_nt "He is a…. Holy person from the same city I hailed from."
-    p_nt "他是...和我来自同一个城市的圣人。"
+    p_nt "他是...跟我来自同一个城市的圣职者。"
 
 # game/story/Chapter_L3.rpy:1800
 translate Schinese chapter_L3_morris2_9900f781:
