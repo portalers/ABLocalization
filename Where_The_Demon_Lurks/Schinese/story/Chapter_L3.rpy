@@ -4078,7 +4078,7 @@ translate Schinese chapter_L3_gin_a31aa8c5:
 translate Schinese chapter_L3_gin_3e1aac28:
 
     # "A gust of icy cold wind blows from the assailant’s back."
-    "一股冰冷的风从Gin的背后刮来。"
+    "一股凛冽的风从Gin的背后刮来。"
 
 # game/story/Chapter_L3.rpy:2409
 translate Schinese chapter_L3_gin_5141fed2:
