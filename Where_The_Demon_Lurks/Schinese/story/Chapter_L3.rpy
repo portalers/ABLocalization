@@ -4072,7 +4072,7 @@ translate Schinese chapter_L3_gin_0ea2e083:
 translate Schinese chapter_L3_gin_a31aa8c5:
 
     # M "Turn flesh to ice. Capture this moment in icy prison! By my name, suspend my foe in time! Beku!"
-    M "冰凝成形，化为监牢！以吾之名，冻结吾的敌人！Beku（印尼语，意为冻结）！"
+    M "冰凝成形，化为监牢！以吾之名，冻结吾的敌人！冰冻！"
 
 # game/story/Chapter_L3.rpy:2403
 translate Schinese chapter_L3_gin_3e1aac28:
