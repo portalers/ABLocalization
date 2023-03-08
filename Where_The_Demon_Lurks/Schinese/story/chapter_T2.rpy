@@ -1168,7 +1168,7 @@ translate Schinese chapter_T2_33cabc19:
 translate Schinese chapter_T2_be5be445:
 
     # p "Ok, let’s see why this got him so excited."
-    p "好了，让我看看他为什么突然暴走了。"
+    p "好了，让我看看他突然暴走的原因。"
 
 # game/story/chapter_T2.rpy:712
 translate Schinese chapter_T2_b039f36a:
@@ -3586,13 +3586,13 @@ translate Schinese toast_call_a_room_fit_for_king_a223e028:
 translate Schinese toast_call_a_room_fit_for_king_c6c3049d:
 
     # M neutral talk "But you’re still not getting a TV! What I have is way more important than that. You’ll see."
-    M neutral talk "不过电视你就别惦记了！我的礼物比它重要得多，你会看到的。"
+    M neutral talk "不过电视你就别惦记了！我的礼物比电视重要得多，你就瞧好吧。"
 
 # game/story/chapter_T2.rpy:1803
 translate Schinese toast_call_a_room_fit_for_king_1ff74e3a:
 
     # p neutral talk "Hang on, before you go."
-    p neutral talk "还有一件事，先别走。"
+    p neutral talk "你先别走，还有一件事。"
 
 # game/story/chapter_T2.rpy:1805
 translate Schinese toast_call_a_room_fit_for_king_a6dea860:
@@ -3828,12 +3828,13 @@ translate Schinese strings:
 translate Schinese chapter_T2_b874e796:
 
     # "Your head tenses at the conundrum presented to you. Without his friend, —even if his friend was a valid option in the first place— there’s no way now that Toast can help you."
-    "你顿时感到头疼不已。先不论那位朋友是否是一个有效的选择，Toast现在已经帮不上你的忙了。"
+    "面对摆在你面前的难题，你感到头疼不已。先不论那位朋友是否可靠，Toast显然帮不上你的忙了。"
+
 # game/story/chapter_T2.rpy:802
 translate Schinese chapter_T2_4c9271d9:
 
     # "Your eyes narrow."
-    "你很有眼光嘛。"
+    "你眯起眼睛。"
 
 # game/story/chapter_T2.rpy:864
 translate Schinese chapter_T2_29ec888e:
@@ -3845,17 +3846,17 @@ translate Schinese chapter_T2_29ec888e:
 translate Schinese toast_call_a_room_fit_for_king_91f769be:
 
     # p "Yes, there’s a strange person putting up weird papers around my apartment—"
-    p "是的，有个怪人正在我家附近张贴奇怪的纸-"
+    p "是的，有个怪人正在我家附近张贴可疑的纸-"
 
 # game/story/chapter_T2.rpy:1528
 translate Schinese toast_call_a_room_fit_for_king_d4b18b9e:
 
     # T @ angry "What's he doing here?"
-    T @ angry "这家伙怎么在这儿？"
+    T @ angry "他怎么在这儿？"
 
 # game/story/chapter_T2.rpy:1881
 translate Schinese toast_call_a_room_fit_for_king_b70dfd98:
 
     # T "No, I hum a song. I sang it to P.B whenever he had trouble falling asleep."
-    T "才不是呢，我会哼歌。每当P.B失眠，我都会唱给他听。"
+    T "才不是呢，我会哼歌。每当P.B失眠，我都会哼给他听。"
 
