@@ -5170,19 +5170,19 @@ translate Schinese chapter_T3_option_a192fc35:
 translate Schinese chapter_T3_option_5ee6d784:
 
     # M shocked "What are you doing?"
-    M shocked "你在干什么？"
+    M shocked "你干嘛？"
 
 # game/story/Chapter_T3.rpy:2956
 translate Schinese chapter_T3_option_54085df7:
 
     # p question "Play along."
-    p question "跟你合作啊。"
+    p question "配合一下。"
 
 # game/story/Chapter_T3.rpy:2958
 translate Schinese chapter_T3_option_2210092c:
 
     # "You whisper, taking off the boar’s watch and showing it to the demon."
-    "你低声说，故意取下野猪的手表，让恶魔看到。"
+    "你低声说道，并有意取下野猪的手表，让恶魔看到。"
 
 # game/story/Chapter_T3.rpy:2960
 translate Schinese chapter_T3_option_991a737d:
