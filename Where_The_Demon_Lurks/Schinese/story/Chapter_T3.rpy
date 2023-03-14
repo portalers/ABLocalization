@@ -1120,7 +1120,7 @@ translate Schinese chapter_T3_store_3a51f27d:
 translate Schinese chapter_T3_store_8cc7397f:
 
     # T "Don’t give me that bull- You know what I mean! A man’s pride and joy!"
-    T "别装蒜了，你清楚得很！那可是一个男人的骄傲和自豪啊！"
+    T "别装蒜了！那可是一个男人的骄傲和自豪啊！"
 
 # game/story/Chapter_T3.rpy:619
 translate Schinese chapter_T3_store_2c86ecc3:
@@ -1150,7 +1150,7 @@ translate Schinese chapter_T3_store_45e194f4:
 translate Schinese chapter_T3_store_edfc4cea:
 
     # M "Enough! Concussa!"
-    M "够了！冲击！"
+    M "够了！Concussa！"
 
 # game/story/Chapter_T3.rpy:637
 translate Schinese chapter_T3_store_dde6bb62:
@@ -1258,7 +1258,7 @@ translate Schinese chapter_T3_store_2ec44167:
 translate Schinese chapter_T3_store_0c82dc43:
 
     # M "Concussa!"
-    M "冲击！"
+    M "Concussa！"
 
 # game/story/Chapter_T3.rpy:694
 translate Schinese chapter_T3_store_17df7336:
@@ -3208,7 +3208,7 @@ translate Schinese chapter_T3_lucian_2332edb7:
 translate Schinese chapter_T3_lucian_8540f937:
 
     # p angry "Keep your hands off of it! Concussa!"
-    p angry "把你的爪子拿开！冲击！"
+    p angry "把你的爪子拿开！Concussa！"
 
 # game/story/Chapter_T3.rpy:1509
 translate Schinese chapter_T3_lucian_99143ce7:
