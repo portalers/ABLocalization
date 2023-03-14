@@ -5302,7 +5302,7 @@ translate Schinese chapter_T3_option_cf069bae:
 translate Schinese chapter_T3_option_46718bd5:
 
     # M "Blast his ass, before he can attack!"
-    M "先下手为强！"
+    M "趁现在！"
 
 # game/story/Chapter_T3.rpy:3133
 translate Schinese chapter_T3_option_fc3f75a9:
@@ -5326,7 +5326,7 @@ translate Schinese chapter_T3_option_7696776c:
 translate Schinese chapter_T3_option_f6a00b48:
 
     # p angry "Magic might not be able to touch you, but good ol’ fists still can! Toast!"
-    p angry "魔法或许不行，但拳头仍然可以！Toast!"
+    p angry "魔法或许不行，但拳头可不一定！Toast!"
 
 # game/story/Chapter_T3.rpy:3170
 translate Schinese chapter_T3_option_baea256d:
