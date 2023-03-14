@@ -4744,7 +4744,7 @@ translate Schinese chapter_T3_freelancer_40b72f0d:
 translate Schinese chapter_T3_freelancer_6cbcfb42:
 
     # "As the smoke clears, Morris casually walks over to you with a piece of pizza in his mouth."
-    "烟雾散去，Morris嘴里叼着一块披萨，闲庭信步地走到你身边。"
+    "烟雾散去，Morris嘴里叼着一块披萨，闲庭信步地走到你们身边。"
 
 # game/story/Chapter_T3.rpy:2536
 translate Schinese chapter_T3_freelancer_b5f26d1b:
