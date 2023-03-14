@@ -4,13 +4,13 @@
 translate Schinese chapter_T3_7c75de0a:
 
     # "The world is soaked in inky darkness. A lone, brightly light figure stands before you — like a single brilliant star in the night sky."
-    "整个世界沉浸在一片漆黑之中。一个孤独而明亮的身影伫立在你面前，宛如夜空中一颗璀璨的明星。"
+    "整个世界沉浸在一片漆黑之中。一个孤独而明亮的身影伫立在你的面前，宛如夜空中一颗璀璨的明星。"
 
 # game/story/Chapter_T3.rpy:16
 translate Schinese chapter_T3_31e230f0:
 
     # "You recognise the flowing hair and his usual radiant golden jewellery - Lucian."
-    "你认得他那飘逸的发型与灿烂夺目的金饰：Lucian。"
+    "你认得那飘逸的发型与灿烂夺目的金饰：对方是Lucian。"
 
 # game/story/Chapter_T3.rpy:21
 translate Schinese chapter_T3_1a2ffdf6:
@@ -22,7 +22,7 @@ translate Schinese chapter_T3_1a2ffdf6:
 translate Schinese chapter_T3_53174f18:
 
     # "The dog mouths something, and you instantly understand it as, 'Goodbye.’"
-    "他的嘴一张一合，你立刻就明白那个词是‘再见’。"
+    "他的嘴一张一合，你立刻就明白那个词是‘永别了’。"
 
 # game/story/Chapter_T3.rpy:60
 translate Schinese chapter_T3_c054dc12:
