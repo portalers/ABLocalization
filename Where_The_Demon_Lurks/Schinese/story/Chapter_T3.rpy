@@ -5062,13 +5062,13 @@ translate Schinese chapter_T3_freelancer_4c371b23:
 translate Schinese chapter_T3_freelancer_8af6259f:
 
     # Simulda "This is some of my best work."
-    Simulda "这是我最得意的作品之一。"
+    Simulda "这也是我的得意之作。"
 
 # game/story/Chapter_T3.rpy:2818
 translate Schinese chapter_T3_freelancer_96a9db35:
 
     # "He steals skills with his right hand, and projects it with his left… "
-    "他用右手窃取技能，然后用左手投射..."
+    "他用右手窃取技能，再用左手投射..."
 
 # game/story/Chapter_T3.rpy:2820
 translate Schinese chapter_T3_freelancer_814eb322:
