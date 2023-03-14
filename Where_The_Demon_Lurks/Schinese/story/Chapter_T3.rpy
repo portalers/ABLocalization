@@ -5664,5 +5664,5 @@ translate Schinese strings:
 
     # game/story/Chapter_T3.rpy:3296
     old "Simulda, the fusion demon. They are among the few demons instructed to punish souls that lived a life of sloth or materialism. I recall they would make souls live out their existence, melding their flesh with the very objects they coveted as mortals. Their bodies were broken by Simulda and reshaped again, and again. However, I never knew they were that into performance. It feels like they’d rather be a magician in life, but I think they’d do better in a slasher film than on the streets of Vegas."
-    new "Simulda，融合恶魔。它们是少数接到了指示，惩罚那些过着懒惰或物欲生活的灵魂的恶魔之一。我记得它们会让灵魂活成他们想要的样子，把他们的肉体与他们作为凡人时所垂涎的物品融合在一起。他们的身体被Simulda破坏，并一次又一次地重组。不过我都不知道它们的表演欲有这么强，感觉它们更想当魔术师呢。虽然在我看来，比起在拉斯维加斯的街头卖艺，它们更适合去演血浆片就是了。"
+    new "Simulda，融合恶魔。它们是少数接到了指示，惩罚那些过着懒惰或物欲生活的灵魂的恶魔之一。我记得它们会根据灵魂心里想的，把他们的肉体与他们作为凡人时所垂涎的物品融合在一起。他们的身体被Simulda破坏，并一次又一次地重组。不过我都不知道它们的表演欲有这么强，感觉它们更愿意当魔术师呢。虽然在我看来，比起在拉斯维加斯的街头卖艺，它们更适合去演血浆片就是了。"
 
