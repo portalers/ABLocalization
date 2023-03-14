@@ -5056,13 +5056,13 @@ translate Schinese chapter_T3_freelancer_1d6c1f6e:
 translate Schinese chapter_T3_freelancer_4c371b23:
 
     # "He spins around."
-    "他转了个身。"
+    "他转了几圈。"
 
 # game/story/Chapter_T3.rpy:2816
 translate Schinese chapter_T3_freelancer_8af6259f:
 
     # Simulda "This is some of my best work."
-    Simulda "这将成为我最出色的作品之一。"
+    Simulda "这是我最得意的作品之一。"
 
 # game/story/Chapter_T3.rpy:2818
 translate Schinese chapter_T3_freelancer_96a9db35:
