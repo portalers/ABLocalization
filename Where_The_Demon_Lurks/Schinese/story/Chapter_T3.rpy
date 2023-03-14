@@ -5278,7 +5278,7 @@ translate Schinese chapter_T3_option_ce7fd320:
 translate Schinese chapter_T3_option_3d95cac7:
 
     # "You try to land a punch at the demon’s head but Simulda has the greater reach. He forces you onto your knees with an uppercut to the stomach."
-    "你试图攻击恶魔的脑袋，但Simulda的拳头比你先一步抵达。他用一记上勾拳击中了你的腹部，迫使你跪倒在地。"
+    "你意图攻击恶魔的脑袋，但Simulda的拳头比你先一步抵达。他用一记上勾拳击中了你的腹部，迫使你跪倒在地。"
 
 # game/story/Chapter_T3.rpy:3081
 translate Schinese chapter_T3_option_803d2d83:
