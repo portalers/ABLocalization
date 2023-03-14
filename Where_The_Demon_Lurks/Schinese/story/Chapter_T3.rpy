@@ -4996,7 +4996,7 @@ translate Schinese chapter_T3_freelancer_a5e6385f:
 translate Schinese chapter_T3_freelancer_10107c90:
 
     # Simulda "Do you now? Please, sing my praises, let your thoughts be filled with me and only me, a performer’s greatest accomplishment."
-    Simulda "是吗？那么，请称颂我吧，请只想着我一个人吧，这就是一介表演者最伟大的成就了。"
+    Simulda "是吗？那么，请称颂我吧，请只注视着我一个人吧，这就是一介表演者最伟大的成就了。"
 
 # game/story/Chapter_T3.rpy:2800
 translate Schinese chapter_T3_freelancer_c9b080f9:
