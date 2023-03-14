@@ -5344,7 +5344,7 @@ translate Schinese chapter_T3_option_4514e849:
 translate Schinese chapter_T3_option_aa8cc5d7:
 
     # "Toast throws a punch at the demon! Simulda ducks down, reaching for the ground to try to absorb some form advantage."
-    "Toast朝恶魔挥出一拳！Simulda蹲下来，把手往下伸，试图吸收拳头的势能。"
+    "Toast朝恶魔挥出一拳！Simulda蹲下来，把手伸向大地，试图吸收某种对他有利的特性。"
 
 # game/story/Chapter_T3.rpy:3196
 translate Schinese chapter_T3_option_64d677a1:
