@@ -5254,7 +5254,7 @@ translate Schinese chapter_T3_option_b6472fd2:
 translate Schinese chapter_T3_option_6b48a5e6:
 
     # M "You try to hold back with a hole in your shoulder!"
-    M "肩膀上被开了个洞，你叫我克制？！"
+    M "肩膀上被开了个洞，你叫我怎么克制？！"
 
 # game/story/Chapter_T3.rpy:3055
 translate Schinese chapter_T3_option_0b909129:
@@ -5266,13 +5266,13 @@ translate Schinese chapter_T3_option_0b909129:
 translate Schinese chapter_T3_option_7a73be12:
 
     # "You take the chance and run over with Morris’s watch but Simulda is aware of your presence."
-    "你抓住机会，拿着Morris的手表跑过去，却被Simulda发觉了。"
+    "你抓住机会，拿着Morris的手表跑过去，却被Simulda察觉到了。"
 
 # game/story/Chapter_T3.rpy:3067
 translate Schinese chapter_T3_option_ce7fd320:
 
     # Simulda "Trying to sneak up on me? You’re a hundred years too young [name]!"
-    Simulda "想偷袭我？你还年轻了一百年呐！"
+    Simulda "想偷袭我？你还早了一百年呐！"
 
 # game/story/Chapter_T3.rpy:3073
 translate Schinese chapter_T3_option_3d95cac7:
