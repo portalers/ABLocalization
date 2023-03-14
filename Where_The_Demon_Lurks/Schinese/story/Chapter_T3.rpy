@@ -5290,7 +5290,7 @@ translate Schinese chapter_T3_option_803d2d83:
 translate Schinese chapter_T3_option_1808edb1:
 
     # Simulda "Fool! You’ve handed me your own demise!"
-    Simulda "蠢货！你把自己的命给丢了！"
+    Simulda "蠢货！这下你的命归我了！"
 
 # game/story/Chapter_T3.rpy:3103
 translate Schinese chapter_T3_option_cf069bae:
@@ -5302,7 +5302,7 @@ translate Schinese chapter_T3_option_cf069bae:
 translate Schinese chapter_T3_option_46718bd5:
 
     # M "Blast his ass, before he can attack!"
-    M "在他进攻之前，灭了他！"
+    M "先下手为强！"
 
 # game/story/Chapter_T3.rpy:3133
 translate Schinese chapter_T3_option_fc3f75a9:
