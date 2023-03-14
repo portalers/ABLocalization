@@ -82,7 +82,7 @@ translate Schinese chapter_T3_7b6974a1:
 translate Schinese chapter_T3_8881e69f:
 
     # p annoyed "Ugh!"
-    p annoyed "呃啊！"
+    p annoyed "哎呀！"
 
 # game/story/Chapter_T3.rpy:137
 translate Schinese chapter_T3_bcbf88b5:
@@ -94,7 +94,7 @@ translate Schinese chapter_T3_bcbf88b5:
 translate Schinese chapter_T3_d338ca6f:
 
     # T smile "Hey, morning there bud!"
-    T smile "早啊，哥们！"
+    T smile "早上好啊，哥们！"
 
 # game/story/Chapter_T3.rpy:146
 translate Schinese chapter_T3_e5caf69a:
@@ -112,13 +112,13 @@ translate Schinese chapter_T3_2353fc0a:
 translate Schinese chapter_T3_b3806bc3:
 
     # p "You could’ve gotten us into a lot of trouble. What if the landlord complains?"
-    p "净惹麻烦，要是房东投诉可怎么办？"
+    p "可能会惹来麻烦的，要是房东投诉怎么办？"
 
 # game/story/Chapter_T3.rpy:150
 translate Schinese chapter_T3_253ea7fe:
 
     # T "Come on, it’s a good song. They wouldn’t care."
-    T "这首歌多好听啊，我想他能理解的。"
+    T "别紧张嘛，多好听的歌，我想他不会介意吧。"
 
 # game/story/Chapter_T3.rpy:152
 translate Schinese chapter_T3_3fd689fe:
@@ -214,7 +214,7 @@ translate Schinese chapter_T3_c396e3ab:
 translate Schinese chapter_T3_067571ff:
 
     # p_nt "Lalala, time for work! Gotta shower!"
-    p_nt "咳咳咳，该上班了！我去个洗澡！"
+    p_nt "咳咳咳，该上班了！我去洗澡！"
 
 # game/story/Chapter_T3.rpy:179
 translate Schinese chapter_T3_18d5a27f:
