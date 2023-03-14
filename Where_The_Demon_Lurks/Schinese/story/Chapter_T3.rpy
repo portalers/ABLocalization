@@ -5080,19 +5080,19 @@ translate Schinese chapter_T3_freelancer_814eb322:
 translate Schinese chapter_T3_freelancer_31f5a2dc:
 
     # p angry "Yeah, well we’re going to kick your butt back to the Underworld, then you can open your blasted art gallery there!"
-    p angry "是啊，我们要把你赶回冥界，你就在那儿开你那该死的美术馆吧！"
+    p angry "好啊，我们要把你赶回冥界，你就在那儿开你那该死的美术馆吧！"
 
 # game/story/Chapter_T3.rpy:2831
 translate Schinese chapter_T3_option_d01b691e:
 
     # p_nt "Fire at him! I’ll redirect the blast."
-    p_nt "全力攻击！我来改变方向。"
+    p_nt "上！我来改变他攻击的方向。"
 
 # game/story/Chapter_T3.rpy:2852
 translate Schinese chapter_T3_option_ee44095f:
 
     # "Your allies hear you and proceed to run around the demon while blasting their attacks at him."
-    "盟友们听到了你的声音，开始在恶魔的周围奔跑，同时向他发动攻击。"
+    "盟友们听到了你的声音，开始在恶魔的周围奔跑，并伺机发动袭击。"
 
 # game/story/Chapter_T3.rpy:2874
 translate Schinese chapter_T3_option_5625d0cd:
@@ -5104,13 +5104,13 @@ translate Schinese chapter_T3_option_5625d0cd:
 translate Schinese chapter_T3_option_12cc0871:
 
     # "You raise your hand and will portals to appear wherever the demon attempts to redirect the attacks."
-    "你举起手，意图将传送门设置在恶魔输出的路径上。"
+    "你举起手，意图将传送门设置在恶魔的输出路径上。"
 
 # game/story/Chapter_T3.rpy:2879
 translate Schinese chapter_T3_option_a258da66:
 
     # "However, your powers do not obey your command."
-    "然而，你的力量并不肯服从你的命令。"
+    "然而，你却心有余而力不足。"
 
 # game/story/Chapter_T3.rpy:2885
 translate Schinese chapter_T3_option_88f685a6:
