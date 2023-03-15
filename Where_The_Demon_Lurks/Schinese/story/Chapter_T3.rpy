@@ -5386,7 +5386,7 @@ translate Schinese chapter_T3_option_0dd3037b:
 translate Schinese chapter_T3_option_8c5a6754:
 
     # "Toast throws a barrage of punches at the demon. Simulda’s face is bruised over and over with every hit."
-    "Toast拳风如雷，汹涌澎湃，每一击都打得Simulda的脸伤痕累累。"
+    "Toast的拳头如连珠炮一般连绵不绝地轰向Simulda，打得他鼻青脸肿，伤痕累累。"
 
 # game/story/Chapter_T3.rpy:3282
 translate Schinese chapter_T3_option_c75b91d1:
