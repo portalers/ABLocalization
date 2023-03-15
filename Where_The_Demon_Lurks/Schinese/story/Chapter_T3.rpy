@@ -5152,7 +5152,7 @@ translate Schinese chapter_T3_option_2a7c795f:
 translate Schinese chapter_T3_option_e4035990:
 
     # "You die unceremoniously."
-    "你唐突地死了。"
+    "你不明不白地死了。"
 
 # game/story/Chapter_T3.rpy:2946
 translate Schinese chapter_T3_option_0633f99e:
@@ -5182,7 +5182,7 @@ translate Schinese chapter_T3_option_54085df7:
 translate Schinese chapter_T3_option_2210092c:
 
     # "You whisper, taking off the boar’s watch and showing it to the demon."
-    "你低声说道，并有意取下野猪的手表，让恶魔看到。"
+    "你低声说道，并刻意取下野猪的手表，让恶魔看到。"
 
 # game/story/Chapter_T3.rpy:2960
 translate Schinese chapter_T3_option_991a737d:
