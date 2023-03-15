@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-02-15 21:54
+# TODO: Translation updated at 2023-03-15 21:27
 
 # game/story/chapter_T2.rpy:7
 translate Tchinese chapter_T2_316fbf79:
@@ -274,7 +274,7 @@ translate Tchinese chapter_T2_8caaaeeb:
 translate Tchinese chapter_T2_df802f35:
 
     # p "Phew— he’s gone."
-    p "呼——他已經走了。"
+    p "呼──他已經走了。"
 
 # game/story/chapter_T2.rpy:245
 translate Tchinese chapter_T2_afd09168:

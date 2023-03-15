@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-02-15 21:54
+# TODO: Translation updated at 2023-03-15 21:27
 
 # game/story/Chapter_1.rpy:15
 translate Tchinese chapter_1_acfa1333:
@@ -2203,6 +2203,12 @@ translate Tchinese chapter_1_cd5703bc:
     "幽靈拉長身體，並扭曲成彈簧的形狀，羽毛的箭因此直接飛過，插在了屏障上，猶如鏢靶上的飛鏢。"
 
 # game/story/Chapter_1.rpy:1332
+translate Tchinese chapter_1_3a978ed8:
+
+    # Gho "Huh?" (cb_no_talk=True)
+    Gho "蛤？" (cb_no_talk=True)
+
+# game/story/Chapter_1.rpy:1407
 translate Tchinese chapter_1_5f97e599:
 
     # "The ghost sniffs at the feather and then turns to the dog."
@@ -2269,6 +2275,12 @@ translate Tchinese chapter_1_1e204bdc:
     Dog "這是我的義務！"
 
 # game/story/Chapter_1.rpy:1421
+translate Tchinese chapter_1_9aa3e6a2:
+
+    # p angry "No! You’re making a mess of the store, and stop using your powers. Someone's going to see you on the recording!"
+    p angry "狗屁，你都快把我們店炸飛了！還有拜託你手下留情，監控會拍到的！"
+
+# game/story/Chapter_1.rpy:1606
 translate Tchinese chapter_1_4ca8760e:
 
     # "You point to the camera right above you."
@@ -6759,18 +6771,6 @@ translate Tchinese ch1_cleanup_da4ac905:
 # TODO: Translation updated at 2023-03-01 22:01
 
 # game/story/Chapter_1.rpy:4290
-translate Tchinese chapter_1_3a978ed8:
-
-    # Gho "Huh?" (cb_no_talk=True)
-    Gho "蛤？" (cb_no_talk=True)
-
-# game/story/Chapter_1.rpy:1407
-translate Tchinese chapter_1_9aa3e6a2:
-
-    # p angry "No! You’re making a mess of the store, and stop using your powers. Someone's going to see you on the recording!"
-    p angry "狗屁，你都快把我們店炸飛了！還有拜託你手下留情，監控會拍到的！"
-
-# game/story/Chapter_1.rpy:1606
 translate Tchinese strings:
 
     # game/story/Chapter_1.rpy:3

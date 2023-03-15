@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-02-15 21:54
+# TODO: Translation updated at 2023-03-15 21:27
 
 # game/story/Prologue_Part_2.rpy:9
 translate Tchinese prologue_part_2_42cfc623:
@@ -1661,6 +1661,18 @@ translate Tchinese prologue_part_2_9522f0d8:
     "他法杖一揮，你的身體便像布娃娃一般被拋飛，撞穿了一座座書架。"
 
 # game/story/Prologue_Part_2.rpy:1463
+translate Tchinese prologue_part_2_ac24b467:
+
+    # "Vendrake tosses you into the air again, {nw}"
+    "Vendrake再度將你舉到半空中。 {nw}"
+
+# game/story/Prologue_Part_2.rpy:1542
+translate Tchinese prologue_part_2_5b0b55cb:
+
+    # extend "firing a blast of green energy at you."
+    extend "緊接著射出一發綠色能量球。"
+
+# game/story/Prologue_Part_2.rpy:1550
 translate Tchinese prologue_part_2_320ed66b:
 
     # p "AUUUGGHHHHH!!!!!"
@@ -1804,18 +1816,6 @@ translate Tchinese prologue_part_2_89f47cd8:
     # OP "So, this is where you've been hiding all this time."
     OP "原來你一直躲在這種地方啊。"
 
-translate Tchinese prologue_part_2_ac24b467:
-
-    # "Vendrake tosses you into the air again, {nw}"
-    "Vendrake再度將你舉到半空中。 {nw}"
-
-# game/story/Prologue_Part_2.rpy:1542
-translate Tchinese prologue_part_2_5b0b55cb:
-
-    # extend "firing a blast of green energy at you."
-    extend "緊接著射出一發綠色能量球。"
-
-# game/story/Prologue_Part_2.rpy:1550
 translate Tchinese strings:
 
     # game/story/Prologue_Part_2.rpy:29
@@ -1840,5 +1840,5 @@ translate Tchinese strings:
 
     # game/story/Prologue_Part_2.rpy:436
     old "Of all the jobs in the Underworld, being Demon Lord is the most boring of all. Ever since Paw revolutionized the system there's nothing to do but file paperwork, go to meetings, approve new torture techniques, go to meetings, announce that we have new office printers, go to more meetings, review every single demon's work performance, go to more fucking meetings about the next meeting. AHHHHHHHHHHH! WHY ARE THERE SO MANY FUCKING MEETINGS?!"
-    new "冥界那麽多的職業，就屬魔王最無聊。\n自從老爸改格體系後，就只剩下文書工作、開會、審核新的刑訊技術、開一堆會、發公告説辦公室有新印刷機、開更多會、考核每一個惡魔的績效、開更多他媽的關於下一場會議的會。\n{b}啊─────────！\n哪來這麽多會要開啊？！{/b}"
+    new "冥界那麽多的職業，就屬魔王最無聊。\n自從老爸改格體系後，就只剩下文書工作、開會、審核新的刑訊技術、開一堆會、發公告説辦公室有新印刷機、開更多會、考核每一個惡魔的績效、開更多他媽的關於下一場會議的會。\n{b}啊～～～！\n哪來這麽多會要開啊？！{/b}"
 

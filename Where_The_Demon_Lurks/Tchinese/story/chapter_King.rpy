@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-02-15 21:54
+# TODO: Translation updated at 2023-03-15 21:27
 
 # game/story/chapter_King.rpy:4
 translate Tchinese a_room_fit_for_king_a08be6b8:
@@ -100,7 +100,7 @@ translate Tchinese a_room_fit_for_king_60365c8b:
 translate Tchinese a_room_fit_for_king_7a48b4a2:
 
     # K "Mmmmng!"
-    K "唔——！"
+    K "唔──！"
 
 # game/story/chapter_King.rpy:39
 translate Tchinese a_room_fit_for_king_ca562d17:

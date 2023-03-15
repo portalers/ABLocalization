@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-02-15 21:54
+# TODO: Translation updated at 2023-03-15 21:27
 
 # game/story/chapter_2.rpy:24
 translate Tchinese chapter_2_35f5707a:
@@ -1678,7 +1678,7 @@ translate Tchinese chapter_2_86f95736:
 translate Tchinese chapter_2_7ab9ae3b:
 
     # F "NOOOOOO!!"
-    F "{b}不————！！{/b}"
+    F "{b}不────！！{/b}"
 
 # game/story/chapter_2.rpy:987
 translate Tchinese chapter_2_46bbb24d:

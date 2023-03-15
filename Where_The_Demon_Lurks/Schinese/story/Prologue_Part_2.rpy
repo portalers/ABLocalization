@@ -2089,3 +2089,4 @@ translate Schinese prologue_part_2_5b0b55cb:
 
     # extend "firing a blast of green energy at you."
     extend "firing a blast of green energy at you."
+

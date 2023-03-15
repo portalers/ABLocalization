@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-02-15 21:54
+# TODO: Translation updated at 2023-03-15 21:27
 
 # game/story/chapter_M2.rpy:5
 translate Tchinese chapter_M2_5e9e11b2:
@@ -1763,6 +1763,8 @@ translate Tchinese morris_call_a_room_fit_for_king_0f4d2f7e:
 
     # Tw "Oh shucks, that little thing, I made that on his birthday."
     Tw "哎，這個小東西是我在他生日那天做的。"
+
+# game/story/chapter_M2.rpy:816
 translate Tchinese morris_call_a_room_fit_for_king_da745a43:
 
     # Sm "And I love it so much, sweetheart. What did I do to deserve you?"
@@ -3386,7 +3388,7 @@ translate Tchinese chapter_m2_parent_reply_83f74c17:
 translate Tchinese chapter_m2_parent_reply_238b2f14:
 
     # T annoyed "Blergh— this house stinks! Who died in here?"
-    T annoyed "噁——這房子真臭！有人死在裡面了？"
+    T annoyed "噁──這房子真臭！有人死在裡面了？"
 
 # game/story/chapter_M2.rpy:1576
 translate Tchinese chapter_m2_parent_reply_9e406ad1:
@@ -4397,11 +4399,6 @@ translate Tchinese chapter_m2_parent_reply_a4981c47:
     "你滿懷希望，期待明天能夠取得進展。"
 
 # game/story/chapter_M2.rpy:2118
-translate Tchinese chapter_m2_parent_reply_55566b14:
-
-    # "{b}TO BE CONTINUED....{/b}"
-    "{b}未完待續……{/b}"
-
 translate Tchinese strings:
 
     # game/story/chapter_M2.rpy:715
