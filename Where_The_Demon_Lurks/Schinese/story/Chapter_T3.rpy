@@ -2488,7 +2488,7 @@ translate Schinese chapter_T3_lucian_8b263505:
 translate Schinese chapter_T3_lucian_4b7c6799:
 
     # p_nt "I saw the stuff he used, it won’t kill anyone."
-    p_nt "我看过他用的食材，吃不死人的。"
+    p_nt "他的食材经过我把关，吃不死人的。"
 
 # game/story/Chapter_T3.rpy:1239
 translate Schinese chapter_T3_lucian_ae1d0509:
