@@ -4330,7 +4330,7 @@ translate Schinese chapter_T3_freelancer_194ce63a:
 translate Schinese chapter_T3_freelancer_bcabadb3:
 
     # "You hear the sound of metal cutting through flesh. Toast growls as the cards have buried themselves deep into his right forearm."
-    "伴随着金属撕裂肉体的声音，纸牌深深扎进了Toast的右前臂，他不禁发出嚎叫。"
+    "伴随着金属撕裂肉体的声音，纸牌深深扎进了Toast的右前臂，他不禁嚎叫。"
 
 # game/story/Chapter_T3.rpy:2005
 translate Schinese chapter_T3_freelancer_515244db:
@@ -4444,13 +4444,13 @@ translate Schinese chapter_T3_freelancer_c513b631:
 translate Schinese chapter_T3_freelancer_fefd98f3:
 
     # "At the end of the volley Simulda throws his arms wide, and lets out a loud, “Tada!”"
-    "在齐射结束后，Simulda还不忘张开双臂，发出‘嗒嗒！’的喝彩。”"
+    "在齐射结束后，Simulda还不忘张开双臂，发出‘嗒嗒！’的喝彩。"
 
 # game/story/Chapter_T3.rpy:2217
 translate Schinese chapter_T3_freelancer_a3ccbf71:
 
     # Simulda "Two can play at that game!"
-    Simulda "不要打扰我们的二人时光！"
+    Simulda "这场游戏容不下第三者！"
 
 # game/story/Chapter_T3.rpy:2218
 translate Schinese chapter_T3_freelancer_8ff794cb:
@@ -4780,7 +4780,7 @@ translate Schinese chapter_T3_freelancer_327aff65:
 translate Schinese chapter_T3_freelancer_aba13953:
 
     # L @ annoyed "How nice of you to pick up food on your way here. We were just fending for our lives."
-    L @ annoyed "当我们陷入水深火热的时候，你还在来的路上给自己买了吃的，真是太感谢你了。"
+    L @ annoyed "感谢你在我们生死攸关之刻还不忘从路上买了食物。"
 
 # game/story/Chapter_T3.rpy:2562
 translate Schinese chapter_T3_freelancer_4e5970ac:
@@ -5020,7 +5020,7 @@ translate Schinese chapter_T3_freelancer_0065f18e:
 translate Schinese chapter_T3_freelancer_67addb66:
 
     # Simulda "That won’t do you any good!"
-    Simulda "那又有何妨！"
+    Simulda "但说无妨！"
 
 # game/story/Chapter_T3.rpy:2804
 translate Schinese chapter_T3_freelancer_ab773a1e:
@@ -5038,13 +5038,13 @@ translate Schinese chapter_T3_freelancer_77da2d5c:
 translate Schinese chapter_T3_freelancer_01b1bf3a:
 
     # "Simulda laughs in a low tone."
-    "Simulda阴沉地笑了。"
+    "Simulda阴森地笑了。"
 
 # game/story/Chapter_T3.rpy:2807
 translate Schinese chapter_T3_freelancer_4c3b7d18:
 
     # Simulda "Fabulous! It is exactly that. My performance would be even greater in the Underworld, where I wouldn’t need to rely on these pathetic mortal objects that crumble after I use them. Alas, it is suffering that inspires artists to create."
-    Simulda "太棒了！正是如此。只可惜来到人界后，我不得不依赖这些可怜的一次性道具。唉，正是苦难激发了艺术家的灵感啊。"
+    Simulda "太棒了！正是如此。只可惜来到人界后，我的实力大不如从前，不得不依赖这些可怜的一次性道具。唉，苦难会激发艺术家的灵感啊。"
 
 # game/story/Chapter_T3.rpy:2809
 translate Schinese chapter_T3_freelancer_1d6c1f6e:
@@ -5074,13 +5074,13 @@ translate Schinese chapter_T3_freelancer_96a9db35:
 translate Schinese chapter_T3_freelancer_814eb322:
 
     # "Your eyes widen as an idea comes to mind."
-    "你心生一计。"
+    "你突然心生一计。"
 
 # game/story/Chapter_T3.rpy:2821
 translate Schinese chapter_T3_freelancer_31f5a2dc:
 
     # p angry "Yeah, well we’re going to kick your butt back to the Underworld, then you can open your blasted art gallery there!"
-    p angry "好啊，我们要把你赶回冥界，你就在那儿开你那该死的美术馆吧！"
+    p angry "我们要把你赶回冥界，你就在那儿开你那该死的美术馆吧！"
 
 # game/story/Chapter_T3.rpy:2831
 translate Schinese chapter_T3_option_d01b691e:
