@@ -18851,7 +18851,7 @@ translate Schinese hh_a7fddb13:
 translate Schinese hh_56eb3719:
 
     # mu "\"That's what Jeb said before.\""
-    mu ""
+    mu "@@@"
 
 # game/cliffroute2.rpy:4863
 translate Schinese hh_07abe1c6:
@@ -18881,7 +18881,7 @@ translate Schinese hh_e2d4f181:
 translate Schinese hh_ddb4a920:
 
     # av "\"Don't blame him. Seeing something like this… it can do things to the body just as well as the mind.\""
-    av ""
+    av "@@@"
 
 # game/cliffroute2.rpy:4873
 translate Schinese hh_36d1d32c:
@@ -18929,7 +18929,7 @@ translate Schinese hh_aeca2ff7:
 translate Schinese hh_1e1e3b29:
 
     # av "\"This is unlike anything I've seen in person before.\""
-    av ""
+    av "@@@"
 
 # game/cliffroute2.rpy:4880
 translate Schinese hh_cbd812e7:
@@ -18959,7 +18959,7 @@ translate Schinese hh_cfb5f423:
 translate Schinese hh_9e3496a9:
 
     # mu "\"I'd rather not be here any longer than I have to.\""
-    mu ""
+    mu "@@@"
 
 # game/cliffroute2.rpy:4915
 translate Schinese hh_906b3e3f:
@@ -19073,7 +19073,7 @@ translate Schinese hh_d338a72b:
 translate Schinese hh_f36055c1:
 
     # av "\"Jeb, I don't think that it's safe to-\""
-    av ""
+    av "@@@"
 
 # game/cliffroute2.rpy:4927
 translate Schinese hh_8e0fd438:
@@ -19109,13 +19109,13 @@ translate Schinese hh_03f612e9:
 translate Schinese hh_ec75c54d:
 
     # "He mentioned this person before."
-    ""
+    "@@@"
 
 # game/cliffroute2.rpy:4928
 translate Schinese hh_40cd226d:
 
     # "I can tell now that this was more about whoever he was than the donkeys."
-    ""
+    "@@@"
 
 # game/cliffroute2.rpy:4941
 translate Schinese hh_828b7f8a:
@@ -19163,7 +19163,7 @@ translate Schinese hh_02018564:
 translate Schinese hh_251c5ac1:
 
     # "It might be the first time he's called me by name."
-    ""
+    "@@@"
 
 # game/cliffroute2.rpy:4967
 translate Schinese hh_bc83f3e9:
@@ -19253,7 +19253,7 @@ translate Schinese hh_db859148:
 translate Schinese hh_4c5e9e12:
 
     # m "\"I can help you after we dig.\""
-    m ""
+    m "@@@"
 
 # game/cliffroute2.rpy:4986
 translate Schinese hh_d9d9bb57:
@@ -19325,25 +19325,25 @@ translate Schinese hh_938f81a9:
 translate Schinese hh_e54b56c5:
 
     # "We found some more shovels among the remains of the wagon, and we're up to our necks in dirt about now."
-    ""
+    "@@@"
 
 # game/cliffroute2.rpy:4987
 translate Schinese hh_30fae5f2:
 
     # "Even Cliff is helping us dig."
-    ""
+    "@@@"
 
 # game/cliffroute2.rpy:4988
 translate Schinese hh_7d8468b6:
 
     # "Haven't heard him complain yet, surprisingly."
-    ""
+    "@@@"
 
 # game/cliffroute2.rpy:4989
 translate Schinese hh_7cc7d8a5:
 
     # "Maybe all that work with Manaba did him some good."
-    ""
+    "@@@"
 
 # game/cliffroute2.rpy:4994
 translate Schinese hh_820a3f45:
@@ -19361,13 +19361,13 @@ translate Schinese hh_73e495b0:
 translate Schinese hh_d2575e0d:
 
     # m "\"I'm fine.\""
-    m ""
+    m "@@@"
 
 # game/cliffroute2.rpy:4995
 translate Schinese hh_35cdcd8d:
 
     # m "\"More worried about you at this point.\""
-    m ""
+    m "@@@"
 
 # game/cliffroute2.rpy:5009
 translate Schinese hh_8e2c5c4a:
@@ -19409,7 +19409,7 @@ translate Schinese hh_88c75f32:
 translate Schinese hh_01f23b55:
 
     # m "\"That's what I've been asking for days.\""
-    m ""
+    m "@@@"
 
 # game/cliffroute2.rpy:5077
 translate Schinese hh_ff1b2398:
@@ -19595,7 +19595,7 @@ translate Schinese hh_e80f5281:
 translate Schinese hh_90f38d0a:
 
     # cl "\"Terrible disease. I'm so sorry.\""
-    cl ""
+    cl "@@@"
 
 # game/cliffroute2.rpy:5091
 translate Schinese hh_23e14ff6:
@@ -19625,13 +19625,13 @@ translate Schinese hh_9b5923ca:
 translate Schinese hh_cadf2cda:
 
     # jeb "\"I couldn't sell any books and I couldn't protect our investment.\""
-    jeb ""
+    jeb "@@@"
 
 # game/cliffroute2.rpy:5092
 translate Schinese hh_bf0e8435:
 
     # jeb "\"That was that last thing we did together before he left me forever.\""
-    jeb ""
+    jeb "@@@"
 
 # game/cliffroute2.rpy:5100
 translate Schinese hh_d633d24d:
@@ -19655,7 +19655,7 @@ translate Schinese hh_07bba624:
 translate Schinese hh_e2a56f9e:
 
     # jeb "\"Don't apologize. It's not like you brought that beast here.\""
-    jeb ""
+    jeb "@@@"
 
 # game/cliffroute2.rpy:5311
 translate Schinese hh_8b12f432:
@@ -20465,7 +20465,7 @@ translate Schinese hh_bd7e21b3:
 translate Schinese hh_d596cf5f:
 
     # cl "\"But I think I might take a long bath in that spring first.\""
-    cl ""
+    cl "@@@"
 
 # game/cliffroute2.rpy:5324
 translate Schinese hh_c887ee8c:
@@ -21545,7 +21545,7 @@ translate Schinese smcbath_1e69bc08:
 translate Schinese smcbath_9d3eaacc:
 
     # m "\"Right.\""
-    m ""
+    m "@@@"
 
 # game/cliffroute2.rpy:6019
 translate Schinese smcbath_a9f76d53:
@@ -24059,7 +24059,7 @@ translate Schinese scbath_a832590c:
 translate Schinese scbath_7a21367f:
 
     # "It's a beautiful night out."
-    ""
+    "@@@"
 
 # game/cliffroute2.rpy:6042
 translate Schinese scbath_2e2f9601:
@@ -28097,7 +28097,7 @@ translate Schinese hh_a7fddb13:
 translate Schinese hh_56eb3719:
 
     # mu "\"That's what Jeb said before.\""
-    mu ""
+    mu "@@@"
 
 # game/cliffroute2.rpy:4863
 translate Schinese hh_07abe1c6:
@@ -28127,7 +28127,7 @@ translate Schinese hh_e2d4f181:
 translate Schinese hh_ddb4a920:
 
     # av "\"Don't blame him. Seeing something like this… it can do things to the body just as well as the mind.\""
-    av ""
+    av "@@@"
 
 # game/cliffroute2.rpy:4873
 translate Schinese hh_36d1d32c:
@@ -28175,7 +28175,7 @@ translate Schinese hh_aeca2ff7:
 translate Schinese hh_1e1e3b29:
 
     # av "\"This is unlike anything I've seen in person before.\""
-    av ""
+    av "@@@"
 
 # game/cliffroute2.rpy:4880
 translate Schinese hh_cbd812e7:
@@ -28205,7 +28205,7 @@ translate Schinese hh_cfb5f423:
 translate Schinese hh_9e3496a9:
 
     # mu "\"I'd rather not be here any longer than I have to.\""
-    mu ""
+    mu "@@@"
 
 # game/cliffroute2.rpy:4915
 translate Schinese hh_906b3e3f:
@@ -28319,7 +28319,7 @@ translate Schinese hh_d338a72b:
 translate Schinese hh_f36055c1:
 
     # av "\"Jeb, I don't think that it's safe to-\""
-    av ""
+    av "@@@"
 
 # game/cliffroute2.rpy:4927
 translate Schinese hh_8e0fd438:
@@ -28355,13 +28355,13 @@ translate Schinese hh_03f612e9:
 translate Schinese hh_ec75c54d:
 
     # "He mentioned this person before."
-    ""
+    "@@@"
 
 # game/cliffroute2.rpy:4928
 translate Schinese hh_40cd226d:
 
     # "I can tell now that this was more about whoever he was than the donkeys."
-    ""
+    "@@@"
 
 # game/cliffroute2.rpy:4941
 translate Schinese hh_828b7f8a:
@@ -28409,7 +28409,7 @@ translate Schinese hh_02018564:
 translate Schinese hh_251c5ac1:
 
     # "It might be the first time he's called me by name."
-    ""
+    "@@@"
 
 # game/cliffroute2.rpy:4967
 translate Schinese hh_bc83f3e9:
@@ -28499,7 +28499,7 @@ translate Schinese hh_db859148:
 translate Schinese hh_4c5e9e12:
 
     # m "\"I can help you after we dig.\""
-    m ""
+    m "@@@"
 
 # game/cliffroute2.rpy:4986
 translate Schinese hh_d9d9bb57:
@@ -28571,25 +28571,25 @@ translate Schinese hh_938f81a9:
 translate Schinese hh_e54b56c5:
 
     # "We found some more shovels among the remains of the wagon, and we're up to our necks in dirt about now."
-    ""
+    "@@@"
 
 # game/cliffroute2.rpy:4987
 translate Schinese hh_30fae5f2:
 
     # "Even Cliff is helping us dig."
-    ""
+    "@@@"
 
 # game/cliffroute2.rpy:4988
 translate Schinese hh_7d8468b6:
 
     # "Haven't heard him complain yet, surprisingly."
-    ""
+    "@@@"
 
 # game/cliffroute2.rpy:4989
 translate Schinese hh_7cc7d8a5:
 
     # "Maybe all that work with Manaba did him some good."
-    ""
+    "@@@"
 
 # game/cliffroute2.rpy:4994
 translate Schinese hh_820a3f45:
@@ -28607,13 +28607,13 @@ translate Schinese hh_73e495b0:
 translate Schinese hh_d2575e0d:
 
     # m "\"I'm fine.\""
-    m ""
+    m "@@@"
 
 # game/cliffroute2.rpy:4995
 translate Schinese hh_35cdcd8d:
 
     # m "\"More worried about you at this point.\""
-    m ""
+    m "@@@"
 
 # game/cliffroute2.rpy:5009
 translate Schinese hh_8e2c5c4a:
@@ -28655,7 +28655,7 @@ translate Schinese hh_88c75f32:
 translate Schinese hh_01f23b55:
 
     # m "\"That's what I've been asking for days.\""
-    m ""
+    m "@@@"
 
 # game/cliffroute2.rpy:5077
 translate Schinese hh_ff1b2398:

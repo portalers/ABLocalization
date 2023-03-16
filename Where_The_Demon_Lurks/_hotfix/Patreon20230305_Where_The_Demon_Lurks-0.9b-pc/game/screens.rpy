@@ -371,14 +371,14 @@ screen main_menu():
         import time
         year, month, day, hour, minute, second, dow, doy, dst = time.localtime()
         if hour >=6  and hour <=12:
-            if renpy.music.get_playing("music") != "music/menu.ogg":
-                renpy.music.play("music/menu.ogg","music", loop=True)
+            if renpy.music.get_playing("music") != "audio/music/menu.ogg":
+                renpy.music.play("audio/music/menu.ogg","music", loop=True)
         elif hour > 12 and hour <=18:
-            if renpy.music.get_playing("music") != "music/WTDL_-_Chillax_in_the_Mortal_Realm_Kubo_4.ogg":
-                renpy.music.play("music/WTDL_-_Chillax_in_the_Mortal_Realm_Kubo_4.ogg","music", loop=True)
+            if renpy.music.get_playing("music") != "audio/music/WTDL_-_Chillax_in_the_Mortal_Realm_Kubo_4.ogg":
+                renpy.music.play("audio/music/WTDL_-_Chillax_in_the_Mortal_Realm_Kubo_4.ogg","music", loop=True)
         else:
-            if renpy.music.get_playing("music") != "music/menunight.ogg":
-                renpy.music.play("music/menunight.ogg","music", loop=True)
+            if renpy.music.get_playing("music") != "audio/music/menunight.ogg":
+                renpy.music.play("audio/music/menunight.ogg","music", loop=True)
     add "gui/Title.png" pos(60, 55)
     ## The use statement includes another screen inside this one. The actual
     ## contents of the main menu are in the navigation screen.
@@ -814,7 +814,7 @@ screen preferences():
                         textbutton _("On") action [SetField(persistent, "discord_active", True), Function(init_discord), If(main_menu,
                             Function(main_menu_update_discord),
                             Function(update_discord)),
-                            Function(init_discord), If(main_menu,
+                        Function(init_discord), If(main_menu,
                             Function(main_menu_update_discord),
                             Function(update_discord))]
 
@@ -1323,7 +1323,7 @@ screen quick_menu():
     #         textbutton _("Skip") action Skip() alternate Skip(fast=True, confirm=True)
     #         textbutton _("Auto") action Preference("auto-forward", "toggle")
     #         textbutton _("Menu") action ShowMenu()
-
+## Ensure this appears on top of other screens.
     zorder 100
 
     if quick_menu:

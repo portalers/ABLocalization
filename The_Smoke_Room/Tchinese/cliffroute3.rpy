@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-01-18 18:51
+# TODO: Translation updated at 2023-02-08 19:10
 
 # game/cliffroute3.rpy:13
 translate Tchinese cliffroute3_bf256e58:
@@ -8950,7 +8950,7 @@ translate Tchinese aftercliffint2_e6aedb7a:
 translate Tchinese aftercliffint2_fec97169:
 
     # "To be continued..."
-    "To be continued……"
+    "未完待續……"
 
 # TODO: Translation updated at 2023-01-03 14:14
 
