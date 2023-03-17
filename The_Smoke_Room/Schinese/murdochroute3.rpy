@@ -5446,7 +5446,7 @@ translate Schinese murdochroute3_597d8891:
 translate Schinese murdochroute3_96b57d6d:
 
     # ra "\"No, you’re leaving me alone with them.\""
-    ra "“不行，你们必须把我留在他们那儿。”"
+    ra "“不行，你们必须把我留下。”"
 
 # game/murdochroute3.rpy:1648
 translate Schinese murdochroute3_4f12187f:
@@ -5494,7 +5494,7 @@ translate Schinese murdochroute3_8156f3b0:
 translate Schinese murdochroute3_cb588754:
 
     # ra "\"Not well.\""
-    ra "“我不太会。”"
+    ra "“我不太行。”"
 
 # game/murdochroute3.rpy:1665
 translate Schinese murdochroute3_c2b667d5:
@@ -5536,13 +5536,13 @@ translate Schinese murdochroute3_59225f11:
 translate Schinese murdochroute3_d51f48a0:
 
     # m "\"Those belong to Dora.\""
-    m "“那些是Dora的。”"
+    m "“可那些是Dora的。”"
 
 # game/murdochroute3.rpy:1679
 translate Schinese murdochroute3_db59fec1:
 
     # cy "\"She doesn’t lock ‘em up during performance hours.\""
-    cy "“演出时间没有上锁。”"
+    cy "“演出时间不上锁。”"
 
 # game/murdochroute3.rpy:1681
 translate Schinese murdochroute3_e2e40269:
@@ -5656,7 +5656,7 @@ translate Schinese murdochroute3_2ecf1200:
 translate Schinese murdochroute3_3f578713:
 
     # mu "\"Me and my friend Ralph over there were asked by my mother to attend this party for our musical abilities.\""
-    mu "“我跟在那边的朋友Ralph，奉我母亲的要求出席这场派对。”"
+    mu "“我跟在那边的朋友Ralph，奉我母亲的命令出席这场派对。”"
 
 # game/murdochroute3.rpy:1724
 translate Schinese murdochroute3_b79c22ec:
@@ -5668,13 +5668,13 @@ translate Schinese murdochroute3_b79c22ec:
 translate Schinese murdochroute3_e7a815ea:
 
     # mu "\"So, rusty as I am, I’d like to do some good tonight with something I’m good enough at.\""
-    mu "“虽然有点生疏，但我想以自己擅长的音乐来点缀这个夜晚。”"
+    mu "“虽然有些生疏，但我想以自己擅长的音乐来点缀这个夜晚。”"
 
 # game/murdochroute3.rpy:1728
 translate Schinese murdochroute3_a2fbf5b0:
 
     # mu "\"This one goes out to my future brother-in-law, who’s tying the knot tomorrow.\""
-    mu "“这首歌献给我未来的姐夫，他明天就要结婚了。”"
+    mu "“就以这首歌献给我未来的姐夫，他明天就要结婚了。”"
 
 # game/murdochroute3.rpy:1732
 translate Schinese murdochroute3_ef89479b:
@@ -8266,7 +8266,7 @@ translate Schinese murdochroute3_0bb2f973:
 translate Schinese murdochroute3_47e8d9c7:
 
     # mu "\"I would be too, considering the big day tomorrow.\""
-    mu "“更别说明天还是你的大日子，换我我也会这样的。”"
+    mu "“更别提明天还是你大喜的日子，换我我也会这样的。”"
 
 # game/murdochroute3.rpy:2513
 translate Schinese murdochroute3_a3237c96:
@@ -10192,7 +10192,7 @@ translate Schinese murdochroute3_034a78cd:
 translate Schinese murdochroute3_9281d772:
 
     # ho "\"My arm!\""
-    ho "“我的胳膊啊！”"
+    ho "“我的胳膊！”"
 
 # game/murdochroute3.rpy:3298
 translate Schinese murdochroute3_cfb7cd20:
