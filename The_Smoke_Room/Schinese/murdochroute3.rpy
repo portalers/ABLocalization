@@ -5344,7 +5344,7 @@ translate Schinese murdochroute3_a0defce4:
 translate Schinese murdochroute3_a8e111dd:
 
     # cy "\"I can handle a man if I know what I’m dealing with.\""
-    cy "“要想对付一个人，起码得知道他想要什么呀。”"
+    cy "“但要想对付一个人，起码得知道他想要什么呀。”"
 
 # game/murdochroute3.rpy:1611
 translate Schinese murdochroute3_941ffb40:
@@ -5422,7 +5422,7 @@ translate Schinese murdochroute3_61498e7e:
 translate Schinese murdochroute3_212456af:
 
     # "He gestures at the fox."
-    "他指了指着狐狸。"
+    "他指着狐狸。"
 
 # game/murdochroute3.rpy:1639
 translate Schinese murdochroute3_875bedf6:
