@@ -7833,5 +7833,5 @@ translate Tchinese strings:
 translate Tchinese cliffroute_ecb64a0c:
 
     # "Christ, he really was looking me up and down."
-    "Christ, he really was looking me up and down."
+    "天啊，別再上下打量我了。"
 
