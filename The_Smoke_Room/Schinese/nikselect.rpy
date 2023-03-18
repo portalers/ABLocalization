@@ -4,7 +4,7 @@ translate Schinese strings:
 
     # game/nikselect.rpy:23
     old "Did you find Yao helpful, or suspicious?"
-    new "你觉得Yao有用还是可疑？"
+    new "你觉得Yao是有用，还是可疑？"
 
     # game/nikselect.rpy:23
     old "Helpful."
@@ -20,7 +20,7 @@ translate Schinese strings:
 
     # game/nikselect.rpy:48
     old "What's the locker combination?"
-    new "置物柜的锁头组合是？"
+    new "储物柜的密码是？"
 
     # game/nikselect.rpy:52
     old "15 turning right."
@@ -40,4 +40,4 @@ translate Schinese strings:
 
     # game/nikselect.rpy:157
     old "Did you say you'd like to wear James Hendrick's armor?"
-    new "你有说要穿穿看James Hendrick的盔甲吗？"
+    new "你有说过想穿James Hendrick的盔甲吗？"
