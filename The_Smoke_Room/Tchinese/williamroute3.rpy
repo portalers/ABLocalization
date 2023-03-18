@@ -19798,46 +19798,46 @@ translate Tchinese strings:
 translate Tchinese williamroute3a_0b8278d3:
 
     # to "\"These shorter naps ain’t cuttin’ it.\""
-    to "\"These shorter naps ain’t cuttin’ it.\""
+    to "“這不是打個瞌睡就能解決的。”"
 
 # game/williamroute3.rpy:5637
 translate Tchinese williamroute3a_6474dd28:
 
     # m "\"You know, this ain’t my job, Will.\""
-    m "\"You know, this ain’t my job, Will.\""
+    m "“你又不是不知道我不是幹這行的，Will。”"
 
 # game/williamroute3.rpy:5687
 translate Tchinese williamroute3a_bfb1ab98:
 
     # "Up ahead, I see a ramshackle building under a thick pine tree that looks like it might be a tool shed, considering it ain’t that big."
-    "Up ahead, I see a ramshackle building under a thick pine tree that looks like it might be a tool shed, considering it ain’t that big."
+    "我在一棵茂密的松樹下看到一棟破破爛爛的建築，考慮到大小，它很可能是間工具棚。"
 
 # game/williamroute3.rpy:5842
 translate Tchinese williamroute3a_bc0683ae:
 
     # "When he figures out I'm determined to be thorough, he sags a bit and starts helping me sort through the junk."
-    "When he figures out I'm determined to be thorough, he sags a bit and starts helping me sort through the junk."
+    "不過當他明白我是真心要做到底時，他就彎了點腰然後幫我整理遍地的雜物。"
 
 # game/williamroute3.rpy:5872
 translate Tchinese williamroute3a_09e08ef8:
 
     # m "\"What I mean is that you tense up when it comes to asking even basic questions of a woman.\""
-    m "\"What I mean is that you tense up when it comes to asking even basic questions of a woman.\""
+    m "“我是說，一旦涉及到女人，哪怕是最基本的問題，你都會心神不寧。”"
 
 # game/williamroute3.rpy:5954
 translate Tchinese williamroute3a_c481f9a4:
 
     # "I knew there was something funny about this one when I worked him up to spankin' himself off at the Sheriff's office."
-    "I knew there was something funny about this one when I worked him up to spankin' himself off at the Sheriff's office."
+    "我想起有件趣事，之前他在警長室，類似的話題，他被我弄到害臊，還不知不覺起了生理反應。"
 
 # game/williamroute3.rpy:6012
 translate Tchinese williamroute3a_ddb2f6d2:
 
     # to "\"And ain’t nobody comes this way.\""
-    to "\"And ain’t nobody comes this way.\""
+    to "“應該沒有人會從那個方向來看到這裡。”"
 
 # game/williamroute3.rpy:7216
 translate Tchinese williamroute3b_fec97169:
 
     # "To be continued..."
-    "To be continued..."
+    "未完待續……"
