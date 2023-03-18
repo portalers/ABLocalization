@@ -8,11 +8,11 @@ translate Schinese strings:
 
     # game/cliffselect.rpy:19
     old "Yes."
-    new "有"
+    new "有。"
 
     # game/cliffselect.rpy:19
     old "No."
-    new "没有"
+    new "没有。"
 
     # game/cliffselect.rpy:38
     old "When Murdoch asked for an honest conversation after the attack in the woods, did you agree?"
