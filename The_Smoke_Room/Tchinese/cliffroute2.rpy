@@ -26010,53 +26010,52 @@ translate Tchinese strings:
 translate Tchinese aftercanyon_d621278d:
 
     # mu "\"I'm dying to hear some thrilling Batavian stories about being deprived of chocolate that is apparently better than everybody else's.\""
-    mu "\"I'm dying to hear some thrilling Batavian stories about being deprived of chocolate that is apparently better than everybody else's.\""
+    mu "\"我已經迫不及待想聽一些巴達維亞的故事了。一個驚心動魄的，關於巧克力爭奪戰的故事。\""
 
 # game/cliffroute2.rpy:1485
 translate Tchinese aftercanyon_9c0fb017:
 
     # mu "\"What you and I experience when tasting exactly the same thing could be close, but different, and we'd never be able to know.\""
-    mu "\"What you and I experience when tasting exactly the same thing could be close, but different, and we'd never be able to know.\""
+    mu "\"不同人品嘗相同東西時的感受可能很接近，卻不可能完全相同。\""
 
 # game/cliffroute2.rpy:1751
 translate Tchinese aftercanyon_08fc6b66:
 
     # mu "\"Did any of you hear--\"{w=0.2}{nw}"
-    mu "\"Did any of you hear--\"{w=0.2}{nw}"
+    mu "\"你們聽到──\"{w=0.2}{nw}"
 
 # game/cliffroute2.rpy:2032
 translate Tchinese aftercanyon_b176f737:
 
     # "I don't need to hear complicated words right now, and this headache isn't making it any easier."
-    "I don't need to hear complicated words right now, and this headache isn't making it any easier."
+    "頭痛讓我不想聽到生僻詞。"
 
 # game/cliffroute2.rpy:2534
 translate Tchinese mt2_263e1c7c:
 
     # "Cliff adjusts his backpack and stands."
-    "Cliff adjusts his backpack and stands."
+    "Cliff調整了一下他的背包，然後站起來。"
 
 # game/cliffroute2.rpy:2843
 translate Tchinese mt2_15707cfc:
 
     # ys "\"I think it is good to see more people right now.\""
-    ys "\"I think it is good to see more people right now.\""
+    ys "\"我覺得，遇到更多的人是件好事。\""
 
 # game/cliffroute2.rpy:3249
 translate Tchinese mt2_e7873c47:
 
     # av "\"Think you can do that, little fellah?\""
-    av "\"Think you can do that, little fellah?\""
+    av "\"沒問題吧，小伙子？\""
 
 # game/cliffroute2.rpy:4248
 translate Tchinese maphogan2_df7edd4f:
 
     # mu "\"Certainly nothing to do with Cliff here stopping by when you two were alone last night, now, could it?\""
-    mu "\"Certainly nothing to do with Cliff here stopping by when you two were alone last night, now, could it?\""
+    mu "\"肯定跟Cliff昨晚過去沒有關係，是不是？\""
 
 # game/cliffroute2.rpy:6348
 translate Tchinese campsong_8a0c5bf6:
 
     # av "\"Scary stories are well and good, but the real things happening in the world every day you are usually worse.\""
-    av "\"Scary stories are well and good, but the real things happening in the world every day you are usually worse.\""
-
+    av "\"我不是說恐怖故事不好，但現實永遠比故事更離奇。\""
