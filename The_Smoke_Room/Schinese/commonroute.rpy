@@ -944,7 +944,7 @@ translate Schinese commonroute_df8ec4bc:
 translate Schinese commonroute_fbd80db2:
 
     # ja "\"Samuel, I found gold in the mine!\""
-    ja "“Samuel，我在里面发现了金子！”"
+    ja "“Samuel，我在矿井里发现了金子！”"
 
 # game/commonroute.rpy:200
 translate Schinese commonroute_75c48cf6:
@@ -962,7 +962,7 @@ translate Schinese commonroute_bf992361:
 translate Schinese commonroute_72716aec:
 
     # "As far as I know, you need...stuff, machinery or something to get the gold out."
-    "据我所知，你是需要...某些东西，比如机器之类的才能把金子弄出来的。"
+    "据我所知，你需要...某些东西，比如机器之类的才能把金子弄出来。"
 
 # game/commonroute.rpy:203
 translate Schinese commonroute_1c40d84a:
@@ -974,19 +974,19 @@ translate Schinese commonroute_1c40d84a:
 translate Schinese commonroute_08ed5fd1:
 
     # "He moves closer."
-    "他靠了过来。"
+    "他凑了过来。"
 
 # game/commonroute.rpy:205
 translate Schinese commonroute_f80d7d71:
 
     # ja "\"See, this is what I wanted to tell ya about. I didn't dig it up. Someone left some gold in a few bags that they already done mined.\""
-    ja "“不是我挖出来的。我跟你说，有人采完金子以后，在里面留下了几个袋子，其中就一些。”"
+    ja "“不是我挖出来的。我跟你说，有人采完矿之后，在下面留了几个袋子，其中就有黄金。”"
 
 # game/commonroute.rpy:206
 translate Schinese commonroute_fb80c1c6:
 
     # "I go on staring, hardly believing what I'm hearing."
-    "我继续盯着他，几乎无法相信自己听到的。"
+    "我凝视着他，几乎无法相信自己听到的内容。"
 
 # game/commonroute.rpy:207
 translate Schinese commonroute_438f1eb1:
@@ -1754,7 +1754,7 @@ translate Schinese commonroute_1b24d84e:
 translate Schinese commonroute_51dba0ac:
 
     # "Most people probably would have seen this coming a mile away, but I thought I knew Jack..."
-    "大部分人在一英里外就能预见到了，我还以为我了解Jack..."
+    "明明是大部人一眼就能识破的局，我还以为我了解Jack..."
 
 # game/commonroute.rpy:350
 translate Schinese commonroute_18373ad0:
@@ -4706,31 +4706,31 @@ translate Schinese commonroute_3db8f4d9:
 translate Schinese commonroute_c5ac5316:
 
     # m "\"Wiggle your feet.\""
-    m "“摆动你的脚。”"
+    m "“动一动你的脚。”"
 
 # game/commonroute.rpy:1025
 translate Schinese commonroute_41a90ef8:
 
     # "They move fine."
-    "它们顺利地动了。"
+    "看起来没有大碍。"
 
 # game/commonroute.rpy:1026
 translate Schinese commonroute_4c890b07:
 
     # m "\"Now your hands...now your...fingers....Good. You’re fine.\""
-    m "“现在是你的爪子...现在，你的...手指...好了，你很好。”"
+    m "“现在摆动你的手...然后是手指...很好，你很健康。”"
 
 # game/commonroute.rpy:1027
 translate Schinese commonroute_449e5f1d:
 
     # cl "\"No I’m not fine. I was beaten! Everything h—hurts!\""
-    cl "“不，我不好，我被打了！全身都-痛！”"
+    cl "“不，我不健康，我被打了！全身都-都痛！”"
 
 # game/commonroute.rpy:1028
 translate Schinese commonroute_b7abbfb3:
 
     # m "\"But you’ll live without any permanent damage. Better than I can say for most who’d have the balls to do what you did back there.\""
-    m "“但是你没有受到任何永久性的伤害。我可以说，你比大多数有胆量像你那样做的人下场好得多。”"
+    m "“但你并没有受到永久性的伤害。我可以说，你比大多数够胆像你那样做的人下场好得多。”"
 
 # game/commonroute.rpy:1029
 translate Schinese commonroute_a0ab13f1:
@@ -4904,7 +4904,7 @@ translate Schinese commonroute_348d7851:
 translate Schinese commonroute_162cbc62:
 
     # "I’ve seen him work at the general store and do odd photography jobs about the town, but I’ve never had to speak with him."
-    "我有看见他在杂货店 工作，还在镇上做一些奇怪的摄影活计，不过我从来没跟他搭过话。"
+    "我有看见他在杂货店工作，还在镇上做一些奇怪的摄影活计，不过我从来没跟他搭过话。"
 
 # game/commonroute.rpy:1063
 translate Schinese commonroute_e047d1ef:
@@ -4922,7 +4922,7 @@ translate Schinese commonroute_71a7852a:
 translate Schinese commonroute_0586ff3e:
 
     # wi "\"The usual, I suppose. They want me to sniff out a scumbag so he can dangle on the end of a rope. And then they can piss themselves drunk. What else?\""
-    wi "“大概还是老样子。他们希望我嗅出一个人渣，好把他吊死在绞刑架上，之后他们就又能把自己灌成一滩烂泥了。不然呢？”"
+    wi "“大概还是老样子。他们希望我嗅出一个人渣，好把他吊死在绞刑架上，之后他们就又能把自己灌成一滩烂泥。不然呢？”"
 
 # game/commonroute.rpy:1067
 translate Schinese commonroute_14791375:
@@ -5006,7 +5006,7 @@ translate Schinese commonroute_bc449edb:
 translate Schinese commonroute_f46b2280:
 
     # wi "\"Somebody reported a dead miner.\""
-    wi "“有人报案称死了一名矿工。”"
+    wi "“有人报案称一名矿工遇害了。”"
 
 # game/commonroute.rpy:1090
 translate Schinese commonroute_3c16ea35:
@@ -6597,7 +6597,7 @@ translate Schinese commonroute_d5cb327b:
 translate Schinese commonroute_a05d73b0:
 
     # mu "\"If anything, I could help you out on the connections end. I’ve got more than a few. Third generation, born and raised.\""
-    mu "“有需要的话，可以找我牵线搭桥。作为土生土长的第三代，我还是有不少人脉的。”"
+    mu "“有需要的话，我可以为你牵线搭桥。作为土生土长的第三代，我还是有不少人脉的。”"
 
 # game/commonroute.rpy:1293
 translate Schinese commonroute_ae38fe9e:
@@ -6611,53 +6611,53 @@ translate Schinese commonroute_ae38fe9e:
 translate Schinese commonroute_1e20c7a0:
 
     # ja "\"I know! Looks like they've been there a long time. It's in a part of the mine that no one goes to anymore. I think they just forgot about 'em back in the day.\""
-    ja "\"I know! Looks like they've been there a long time. It's in a part of the mine that no one goes to anymore. I think they just forgot about 'em back in the day.\""
+    ja "“你没听错！那袋子看起来有些年头了，还是在一个没人去过的矿区里，兴许是被人忘了吧。”"
 
 # game/commonroute.rpy:255
 translate Schinese commonroute_56c2d187:
 
     # "When I look down the little tunnel ahead of us though, I start to feel a little more unsure of what's happening here."
-    "When I look down the little tunnel ahead of us though, I start to feel a little more unsure of what's happening here."
+    "我低头俯视着前方狭小的隧道，陷入了犹豫。"
 
 # game/commonroute.rpy:284
 translate Schinese commonroute_37a6893f:
 
     # "There are few things laying around though; a shovel and a pickaxe against the wall, what looks like a tin cup in the corner, and finally a few bags at the far end of the hollow, looking full and lopsided."
-    "There are few things laying around though; a shovel and a pickaxe against the wall, what looks like a tin cup in the corner, and finally a few bags at the far end of the hollow, looking full and lopsided."
+    "周围摆放的东西也不多：墙上靠着一把铲子和一把十字锄，角落里有个像是马口铁罐头的东西。最后，在洞的尽头放着几个袋子，装得满满当当、歪歪斜斜。"
 
 # game/commonroute.rpy:365
 translate Schinese commonroute_1ca3f7e1:
 
     # "I turn around and find Jack already up, moving toward me, just five feet away, this time the pickaxe in his paws."
-    "I turn around and find Jack already up, moving toward me, just five feet away, this time the pickaxe in his paws."
+    "于是我掉头往回走，却发现Jack不知何时站了起来，离我只有五英尺远。这一次，他爪子里握着十字镐。"
 
 # game/commonroute.rpy:648
 translate Schinese commonroute_a24a199a:
 
     # "Still... my stomach twists at the thought of what happened, and I'm still numb, both outside and inside."
-    "Still... my stomach twists at the thought of what happened, and I'm still numb, both outside and inside."
+    "不过...一想到发生的事，我的胃液就翻腾不止。而且不管是心里还是身体，我始终无法从麻木中清醒过来。"
 
 # game/commonroute.rpy:709
 translate Schinese commonroute_f2d7667b:
 
     # "{i}Be alert and of sober mind.{/i}"
-    "{i}Be alert and of sober mind.{/i}"
+    "{b}务要谨守、警醒。{/b}"
 
 # game/commonroute.rpy:710
 translate Schinese commonroute_3103eead:
 
     # "{i}Your enemy the devil prowls around looking for someone to devour.{/i}"
-    "{i}Your enemy the devil prowls around looking for someone to devour.{/i}"
+    "{b}因为你们的仇敌魔鬼遍地游行，寻找可吞吃的人。{/b}"
 
 # game/commonroute.rpy:1131
 translate Schinese commonroute_3ee6b8e7:
 
     # m "\"Now your hands... now your... fingers... Good. You’re fine.\""
-    m "\"Now your hands... now your... fingers... Good. You’re fine.\""
+    m "“现在是你的爪子...现在，你的...手指...好了，你很好。”"
 
 # game/commonroute.rpy:1278
 translate Schinese commonroute_e9245344:
 
     # m "\"Answers...\""
-    m "\"Answers...\""
+    m "“答案。”"
 
