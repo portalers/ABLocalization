@@ -19204,7 +19204,7 @@ translate Schinese sellcomp_e8491bb6:
 translate Schinese sellcomp_deaa21e9:
 
     # pa "\"Well don’t take it personal, kid, but most men don’t.\""
-    pa "“别往心里去，小子，确实没几个人撑得住。”"
+    pa "“别在意，小子，确实没几个人撑得住。”"
 
 # game/nikroute2.rpy:6345
 translate Schinese sellcomp_c87e7482:
@@ -19216,7 +19216,7 @@ translate Schinese sellcomp_c87e7482:
 translate Schinese sellcomp_475c71d7:
 
     # pa "\"Not everybody can handle the kind of work that we do.\""
-    pa "“不是所有人都干得了咱们这行的。”"
+    pa "“不是所有家伙都干得了咱们这行的。”"
 
 # game/nikroute2.rpy:6353
 translate Schinese sellcomp_324306c6:
@@ -19246,7 +19246,7 @@ translate Schinese sellcomp_8c49a466:
 translate Schinese sellcomp_cb02d75a:
 
     # di "\"Try not to take it personally.\""
-    di "“别太往心里去了。”"
+    di "“别往心里去。”"
 
 # game/nikroute2.rpy:6368
 translate Schinese sellcomp_d0d2573f:
@@ -25549,5 +25549,5 @@ translate Schinese sellcomp_7b89fabb:
 translate Schinese sellcomp_e890688d:
 
     # di "\"Many won’t make the effort to know you if you leave before a year, because so many men come and go.\""
-    di "\"Many won’t make the effort to know you if you leave before a year, because so many men come and go.\""
+    di "“很少有人会刻意去认识才来不到一年的家伙，毕竟太多人来来去去了。”"
 
