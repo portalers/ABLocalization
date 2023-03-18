@@ -6603,10 +6603,10 @@ translate Schinese nikroute_f5bd9285:
 translate Schinese nikroute_7bb86772:
 
     # chsb "\"Caught in the machinery at the mines. Now I use my feet to pick up trash for pennies.\""
-    chsb "\"被在矿上的机器夹断了，现在只能用脚捡垃圾换几个钱。\""
+    chsb "\"被矿上的机器夹断了，现在只能用脚捡垃圾换几个钱。\""
 
 # game/nikroute.rpy:1239
 translate Schinese nikroute_9e885f95:
 
     # chsb "\"And occasionally interpret for the men who can't speak the local language.\""
-    chsb "\"还有偶尔给不会本地话的人当翻译。\""
+    chsb "\"还有偶尔给不会说本地话的人当翻译。\""
