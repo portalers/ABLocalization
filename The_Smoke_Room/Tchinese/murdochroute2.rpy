@@ -16122,10 +16122,10 @@ translate Tchinese murdochroute2_dae31c95:
     "她害羞地壓低聲音，眨了眨眼睛。"
 
 # game/murdochroute2.rpy:4561
-translate Tchinese murdochroute2_c5602fb2:
+translate Tchinese murdochroute2_2354b162:
 
-    # ho "\"Important things. Raul’s a doctor. Neil’s planning to run for Congress.\""
-    ho "“至關重要的事情。Raul是一名醫生，Neil計劃競選國會議員。”"
+    # ho "\"Important things. Reubin’s a doctor. Neil’s planning to run for Congress.\""
+    ho "“至關重要的事情。Reubin是一名醫生，Neil計劃競選國會議員。”"
 
 # game/murdochroute2.rpy:4564
 translate Tchinese murdochroute2_fa2c680a:
@@ -28567,31 +28567,22 @@ translate Tchinese strings:
     old "500?"
     new "500？"
 
-# TODO: Translation updated at 2023-02-08 19:10
-
-# game/murdochroute2.rpy:4561
-translate Tchinese murdochroute2_2354b162:
-
-    # ho "\"Important things. Reubin’s a doctor. Neil’s planning to run for Congress.\""
-    ho "“至關重要的事情。Raul是一名醫生，Neil計劃競選國會議員。”"
-
 # TODO: Translation updated at 2023-03-17 21:10
 
 # game/murdochroute2.rpy:4013
 translate Tchinese murdochroute2_fdc6ff7c:
 
     # m "\"Two years is what you got for free.\""
-    m "\"Two years is what you got for free.\""
+    m "“只有兩年的學費是免費的。”"
 
 # game/murdochroute2.rpy:8040
 translate Tchinese mdq2_30f617c5:
 
     # m "\"NO!{nw}"
-    m "\"NO!{nw}"
+    m "“不要！{nw}"
 
 # game/murdochroute2.rpy:8042
 translate Tchinese mdq2_f1cd2d06:
 
     # extend "\"{w=1.25}{nw}"
     extend "\"{w=1.25}{nw}"
-
