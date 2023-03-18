@@ -19703,10 +19703,11 @@ translate Tchinese williamroute3a_b61f0723:
 translate Tchinese williamroute3a_c5ebdb8a:
 
     # gr "\"The men have work to do at closing time.\""
-    gr "“我們的員工在打樣時間可是很忙的。”"
+    gr "“我們的員工在打烊時間可是很忙的。”"
 
 # game/williamroute3.rpy:7216
 translate Tchinese williamroute3b_fec97169:
+
     # "To be continued..."
     "未完待續……"
 
