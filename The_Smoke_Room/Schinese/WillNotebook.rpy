@@ -12,8 +12,8 @@ translate Schinese strings:
     old "{color=#000000}{font=willfont.ttf}Cliff works with James for CGCS.{/font}{/color}"
     new "{color=#000000}{font=font/willfont.ttf}Cliff和James一起效力于CGCS。{/font}{/color}"
 
-    old "{color=#000000}{font=willfont.ttf}Cliff's real name is Cornelis. He claims he does not have his worker's perment.{/font} {/color}"
-    new "{color=#000000}{font=font/willfont.ttf}Cliff的真名是Cornelis，据他本人称没有工作证。{/font} {/color}"
+    old "{color=#000000}{font=willfont.ttf}Cliff's real name is Cornelis. He claims he does not have his worker's permit.{/font} {/color}"
+    new "{color=#000000}{font=font/willfont.ttf}Cliff的真名是Cornelis，据其本人称没有工作许可证。{/font} {/color}"
 
     old "{color=#000000}{font=willfont.ttf}[stagnighttext]{/font}{/color}"
     new "{color=#000000}{font=font/willfont.ttf}[stagnighttext!t]{/font}{/color}"
@@ -45,6 +45,36 @@ translate Schinese strings:
     old "{color=#000000}{font=willfont.ttf}[etheltext]{/font}{/color}"
     new "{color=#000000}{font=font/willfont.ttf}[etheltext!t]{/font}{/color}"
 
+    old "{color=#000000}{font=willfont.ttf}[huxley4]{/font}{/color}"
+    new "{color=#000000}{font=font/willfont.ttf}[huxley4!t]{/font}{/color}"
+
+    old "{color=#000000}{font=willfont.ttf}[gumtext]{/font}{/color}"
+    new "{color=#000000}{font=font/willfont.ttf}[gumtext!t]{/font}{/color}"
+
+    old "{color=#000000}{font=willfont.ttf}[kanetext]{/font}{/color}"
+    new "{color=#000000}{font=font/willfont.ttf}[kanetext!t]{/font}{/color}"
+
+    old "{color=#000000}{font=willfont.ttf}[filmtext]{/font}{/color}"
+    new "{color=#000000}{font=font/willfont.ttf}[filmtext!t]{/font}{/color}"
+
+    old "{color=#000000}{font=willfont.ttf}[jartext]{/font}{/color}"
+    new "{color=#000000}{font=font/willfont.ttf}[jartext!t]{/font}{/color}"
+
+    old "{color=#000000}{font=willfont.ttf}[dolltext] [marcydolltext]{/font}{/color}"
+    new "{color=#000000}{font=font/willfont.ttf}[dolltext!t][marcydolltext!t]{/font}{/color}"
+
+    old "{color=#000000}{font=willfont.ttf}[marcydolltext]{/font}{/color}"
+    new "{color=#000000}{font=font/willfont.ttf}[marcydolltext!t]{/font}{/color}"
+
+    old "{color=#000000}{font=willfont.ttf}[samtoddtext]{/font}{/color}"
+    new "{color=#000000}{font=font/willfont.ttf}[samtoddtext!t]{/font}{/color}"
+
+    old "{color=#000000}{font=willfont.ttf}[shroudtext]{/font}{/color}"
+    new "{color=#000000}{font=font/willfont.ttf}[shroudtext!t]{/font}{/color}"
+
+    old "{color=#000000}{font=willfont.ttf}[murdochtext]{/font}{/color}"
+    new "{color=#000000}{font=font/willfont.ttf}[murdochtext!t]{/font}{/color}"
+
     old "Made James bleed. Was funny."
     new "把James扁了一顿，痛快。"
 
@@ -61,7 +91,7 @@ translate Schinese strings:
 
     # game/williamroute3.rpy:3866
     old "Maybe Cynthia does too."
-    new "或许Cynthia也是。"
+    new "也许Cynthia也是。"
 
     # game/williamroute3.rpy:4028
     old "Harlan has a grudge against James and has regular access to most of Dora's information."
@@ -86,7 +116,7 @@ translate Schinese strings:
     new "我得去趟镇公所。"
 
     old "I wonder what folks at the stag might have to offer?"
-    new "不知道stag的人们能提供些什么。"
+    new "没准stag里的人能提供些什么？"
 
     old "Hendricks is usually up to something. Worst thing is, it's probably not illegal."
     new "Hendricks总是心怀鬼胎，更糟糕的是，他很擅长钻法律的空子。"
@@ -139,4 +169,3 @@ translate Schinese strings:
     old "It's probably nothing."
     new "也许是我想多了。"
 
-define cynthiatext = ""
