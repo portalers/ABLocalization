@@ -19743,7 +19743,7 @@ translate Tchinese strings:
 
     # game/williamroute3.rpy:1955
     old "Talk to the Mayor."
-    new "去找Mayor。"
+    new "去找鎮長。"
 
     # game/williamroute3.rpy:1955
     old "Talk to James."
