@@ -8987,52 +8987,52 @@ translate Tchinese strings:
 translate Tchinese murdochtent_3cc9cdca:
 
     # cl "\"The both of you.\""
-    cl "\"The both of you.\""
+    cl "“你們兩個都是。”"
 
 # game/cliffroute3.rpy:761
 translate Tchinese aftertent_3954c87f:
 
     # "I see some hogan structures closer to the treeline, but they don’t look as well-maintained as the one Gad and Manaba live in."
-    "I see some hogan structures closer to the treeline, but they don’t look as well-maintained as the one Gad and Manaba live in."
+    "靠近林木線的地方倒是有一些泥屋，但看起來沒有Gad和Manaba居住的那座保養得好。"
 
 # game/cliffroute3.rpy:1157
 translate Tchinese aftercliffint2_8abbda43:
 
     # mu "\"Our company will be staying for a week, if that isn’t a problem.\""
-    mu "\"Our company will be staying for a week, if that isn’t a problem.\""
+    mu "“我們一行人會待一個禮拜，如果可以的話。”"
 
 # game/cliffroute3.rpy:1214
 translate Tchinese aftercliffint2_d3860c57:
 
     # m "\"Maybe he put it down as Jebediah Coles?\""
-    m "\"Maybe he put it down as Jebediah Coles?\""
+    m "“有沒有可能寫的是Jebediah Coles？”"
 
 # game/cliffroute3.rpy:1310
 translate Tchinese aftercliffint2_f6df6de0:
 
     # mu "\"Where exactly is he staying?\""
-    mu "\"Where exactly is he staying?\""
+    mu "“他到底住在哪？”"
 
 # game/cliffroute3.rpy:1494
 translate Tchinese aftercliffint2_4161db1a:
 
     # cl "\"I tell you what, Jebediah.\""
-    cl "\"I tell you what, Jebediah.\""
+    cl "“我告訴你，Jebediah。”"
 
 # game/cliffroute3.rpy:1869
 translate Tchinese aftercliffint2_d59479b9:
 
     # m "\"We followed the law and the religion of our township, but that place and my family is practically dead to me.\""
-    m "\"We followed the law and the religion of our township, but that place and my family is practically dead to me.\""
+    m "“我們遵從鎮上的法律跟信仰，但那個地方和我的家人對我而言都跟死了沒兩樣。”"
 
 # game/cliffroute3.rpy:2044
 translate Tchinese aftercliffint2_0373cc0e:
 
     # m "\"That little stoat fellah rode all the way across the sea just to hear about stuff like this.\""
-    m "\"That little stoat fellah rode all the way across the sea just to hear about stuff like this.\""
+    m "“那隻鼬仔千里迢迢跨海而來就是想聽這種事。”"
 
 # game/cliffroute3.rpy:2339
 translate Tchinese aftercliffint2_95e6fc78:
 
     # "There’s nowhere to go, or to hide, but back in the direction that I came from."
-    "There’s nowhere to go, or to hide, but back in the direction that I came from."
+    "沒地方能去，也沒地方躲，只能從哪來往哪去。"
