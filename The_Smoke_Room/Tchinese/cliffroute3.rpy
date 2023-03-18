@@ -8979,5 +8979,60 @@ translate Tchinese strings:
 
     # game/cliffroute3.rpy:1034
     old "Why is there only enough local business for one store?"
-    new "一家店能滿足當地所有人嗎？"
+    new "這裡的商機只夠一間店生存嗎？"
 
+# TODO: Translation updated at 2023-03-17 21:10
+
+# game/cliffroute3.rpy:245
+translate Tchinese murdochtent_3cc9cdca:
+
+    # cl "\"The both of you.\""
+    cl "\"The both of you.\""
+
+# game/cliffroute3.rpy:761
+translate Tchinese aftertent_3954c87f:
+
+    # "I see some hogan structures closer to the treeline, but they don’t look as well-maintained as the one Gad and Manaba live in."
+    "I see some hogan structures closer to the treeline, but they don’t look as well-maintained as the one Gad and Manaba live in."
+
+# game/cliffroute3.rpy:1157
+translate Tchinese aftercliffint2_8abbda43:
+
+    # mu "\"Our company will be staying for a week, if that isn’t a problem.\""
+    mu "\"Our company will be staying for a week, if that isn’t a problem.\""
+
+# game/cliffroute3.rpy:1214
+translate Tchinese aftercliffint2_d3860c57:
+
+    # m "\"Maybe he put it down as Jebediah Coles?\""
+    m "\"Maybe he put it down as Jebediah Coles?\""
+
+# game/cliffroute3.rpy:1310
+translate Tchinese aftercliffint2_f6df6de0:
+
+    # mu "\"Where exactly is he staying?\""
+    mu "\"Where exactly is he staying?\""
+
+# game/cliffroute3.rpy:1494
+translate Tchinese aftercliffint2_4161db1a:
+
+    # cl "\"I tell you what, Jebediah.\""
+    cl "\"I tell you what, Jebediah.\""
+
+# game/cliffroute3.rpy:1869
+translate Tchinese aftercliffint2_d59479b9:
+
+    # m "\"We followed the law and the religion of our township, but that place and my family is practically dead to me.\""
+    m "\"We followed the law and the religion of our township, but that place and my family is practically dead to me.\""
+
+# game/cliffroute3.rpy:2044
+translate Tchinese aftercliffint2_0373cc0e:
+
+    # m "\"That little stoat fellah rode all the way across the sea just to hear about stuff like this.\""
+    m "\"That little stoat fellah rode all the way across the sea just to hear about stuff like this.\""
+
+# game/cliffroute3.rpy:2339
+translate Tchinese aftercliffint2_95e6fc78:
+
+    # "There’s nowhere to go, or to hide, but back in the direction that I came from."
+    "There’s nowhere to go, or to hide, but back in the direction that I came from."

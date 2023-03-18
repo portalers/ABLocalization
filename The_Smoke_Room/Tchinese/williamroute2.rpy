@@ -13206,4 +13206,3 @@ translate Tchinese strings:
     # game/williamroute2.rpy:3557
     old "Witches."
     new "女巫。"
-

@@ -5614,7 +5614,7 @@ translate Tchinese sny1_c23c6290:
 translate Tchinese sny1_c195b5e3:
 
     # ni "\"YOU ARE THE ONE WHO NEEDS PROTECTION!\""
-    ni "“{b}需要被保護的是你才對啊！{/b}”" 
+    ni "“{b}需要被保護的是你才對啊！{/b}”"
 
 # game/nikroute2.rpy:1580
 translate Tchinese sny1_c04eff0a:
@@ -13954,7 +13954,7 @@ translate Tchinese sny1_4b69de46:
 translate Tchinese sny1_f7bbead4:
 
     # "His Sonoran accent is a little thick, but that might be exacerbated due to muffling from his handkerchief."
-    "他的索諾蘭口音有點重，不過可能是因為他的聲音被領巾給遮擋了的關係。"
+    "他的索諾拉口音有點重，不過可能是因為他的聲音被領巾給遮擋了的關係。"
 
 # game/nikroute2.rpy:4395
 translate Tchinese sny1_362629af:
@@ -18526,7 +18526,7 @@ translate Tchinese sellcomp_94004a03:
 translate Tchinese sellcomp_fd3a4c02:
 
     # m "\"That is a good point.\""
-    m "“有道理。”" 
+    m "“有道理。”"
 
 # game/nikroute2.rpy:6066
 translate Tchinese sellcomp_94f59216:
@@ -25524,9 +25524,16 @@ translate Tchinese strings:
 
     # game/nikroute2.rpy:8471
     old "Straight"
-    new "直走"
+    new "直走。"
 
     # game/nikroute2.rpy:8471
     old "The map's left, my right,"
     new "地圖的左邊，我的右邊。"
 
+# TODO: Translation updated at 2023-03-17 21:10
+
+# game/nikroute2.rpy:6368
+translate Tchinese sellcomp_e890688d:
+
+    # di "\"Many won’t make the effort to know you if you leave before a year, because so many men come and go.\""
+    di "\"Many won’t make the effort to know you if you leave before a year, because so many men come and go.\""

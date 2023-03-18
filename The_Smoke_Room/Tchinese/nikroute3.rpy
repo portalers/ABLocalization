@@ -8850,85 +8850,85 @@ translate Tchinese sny3_d2114ad5:
     "箱子接連掉落的聲音隨著一聲巨響從冰房傳出。"
 
 # game/nikroute3.rpy:2495
-translate Tchinese sny3_c5a16b4d:
+translate Tchinese nikroute3a_c5a16b4d:
 
     # co "\"Oh no!\""
     co "“糟了！”"
 
 # game/nikroute3.rpy:2496
-translate Tchinese sny3_bedbf80d:
+translate Tchinese nikroute3a_bedbf80d:
 
     # "Mrs. Hendricks screams a very high, very girly scream."
     "Hendricks夫人發出了很女性化的高音尖叫。"
 
 # game/nikroute3.rpy:2498
-translate Tchinese sny3_e7c9eb21:
+translate Tchinese nikroute3a_e7c9eb21:
 
     # co "\"I said help!\""
     co "“快來幫幫我！”"
 
 # game/nikroute3.rpy:2499
-translate Tchinese sny3_618108c6:
+translate Tchinese nikroute3a_618108c6:
 
     # co "\"Please! Somebody help me!\""
     co "“拜託！快來人啊！”"
 
 # game/nikroute3.rpy:2792
-translate Tchinese sny3_de71a6e6:
+translate Tchinese nikroute3a_de71a6e6:
 
     # m "\"Are you alright?!\""
     m "“你還好嗎？！”"
 
 # game/nikroute3.rpy:2503
-translate Tchinese sny3_bf14f393:
+translate Tchinese nikroute3a_bf14f393:
 
     # ni "\"What happened?!\""
     ni "“怎麼了？！”"
 
 # game/nikroute3.rpy:2507
-translate Tchinese sny3_4e7bcea8:
+translate Tchinese nikroute3a_4e7bcea8:
 
     # co "\"It's terrible!\""
     co "“太可怕了！”"
 
 # game/nikroute3.rpy:2508
-translate Tchinese sny3_acd37590:
+translate Tchinese nikroute3a_acd37590:
 
     # co "\"It was completely frozen and it shouldn't been in there!\""
     co "“那東西都被凍住了，根本就不該出現在這！”"
 
 # game/nikroute3.rpy:2802
-translate Tchinese sny3_914baed2:
+translate Tchinese nikroute3a_914baed2:
 
     # ni "\"What shouldn't have been in there?!\""
     ni "“什麼東西不該出現在這？！”"
 
 # game/nikroute3.rpy:2512
-translate Tchinese sny3_ca9ff1fb:
+translate Tchinese nikroute3a_ca9ff1fb:
 
     # co "\"A bug!\""
     co "“一隻蟲子！”"
 
 # game/nikroute3.rpy:2514
-translate Tchinese sny3_66cecd3b:
+translate Tchinese nikroute3a_66cecd3b:
 
     # ni "\"A bug.\""
     ni "“蟲子。”"
 
 # game/nikroute3.rpy:2516
-translate Tchinese sny3_7bbc129a:
+translate Tchinese nikroute3a_7bbc129a:
 
     # co "\"I keep these ice blocks sealed tight for restaurant quality!\""
     co "“我可是以餐廳品質保存這些冰塊的！”"
 
 # game/nikroute3.rpy:2518
-translate Tchinese sny3_df5c91e4:
+translate Tchinese nikroute3a_df5c91e4:
 
     # co "\"Somebody's been careless with the packaging!\""
-    co "“有人亂動過這些包裝！”"
+    co "“包裝的人也太不小心了！”"
 
 # game/nikroute3.rpy:2520
-translate Tchinese sny3_fec97169:
+translate Tchinese nikroute3a_fec97169:
 
     # "To be continued..."
     "未完待續……"
@@ -8958,4 +8958,3 @@ translate Tchinese strings:
     # game/nikroute3.rpy:1714
     old "I'm good."
     new "不用了。"
-

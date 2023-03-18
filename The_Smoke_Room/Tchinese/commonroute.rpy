@@ -6467,3 +6467,59 @@ translate Tchinese strings:
     old "Tell William the truth."
     new "告訴William真相"
 
+# TODO: Translation updated at 2023-03-17 21:10
+
+# game/commonroute.rpy:209
+translate Tchinese commonroute_1e20c7a0:
+
+    # ja "\"I know! Looks like they've been there a long time. It's in a part of the mine that no one goes to anymore. I think they just forgot about 'em back in the day.\""
+    ja "\"I know! Looks like they've been there a long time. It's in a part of the mine that no one goes to anymore. I think they just forgot about 'em back in the day.\""
+
+# game/commonroute.rpy:255
+translate Tchinese commonroute_56c2d187:
+
+    # "When I look down the little tunnel ahead of us though, I start to feel a little more unsure of what's happening here."
+    "When I look down the little tunnel ahead of us though, I start to feel a little more unsure of what's happening here."
+
+# game/commonroute.rpy:284
+translate Tchinese commonroute_37a6893f:
+
+    # "There are few things laying around though; a shovel and a pickaxe against the wall, what looks like a tin cup in the corner, and finally a few bags at the far end of the hollow, looking full and lopsided."
+    "There are few things laying around though; a shovel and a pickaxe against the wall, what looks like a tin cup in the corner, and finally a few bags at the far end of the hollow, looking full and lopsided."
+
+# game/commonroute.rpy:365
+translate Tchinese commonroute_1ca3f7e1:
+
+    # "I turn around and find Jack already up, moving toward me, just five feet away, this time the pickaxe in his paws."
+    "I turn around and find Jack already up, moving toward me, just five feet away, this time the pickaxe in his paws."
+
+# game/commonroute.rpy:648
+translate Tchinese commonroute_a24a199a:
+
+    # "Still... my stomach twists at the thought of what happened, and I'm still numb, both outside and inside."
+    "Still... my stomach twists at the thought of what happened, and I'm still numb, both outside and inside."
+
+# game/commonroute.rpy:709
+translate Tchinese commonroute_f2d7667b:
+
+    # "{i}Be alert and of sober mind.{/i}"
+    "{i}Be alert and of sober mind.{/i}"
+
+# game/commonroute.rpy:710
+translate Tchinese commonroute_3103eead:
+
+    # "{i}Your enemy the devil prowls around looking for someone to devour.{/i}"
+    "{i}Your enemy the devil prowls around looking for someone to devour.{/i}"
+
+# game/commonroute.rpy:1131
+translate Tchinese commonroute_3ee6b8e7:
+
+    # m "\"Now your hands... now your... fingers... Good. You’re fine.\""
+    m "\"Now your hands... now your... fingers... Good. You’re fine.\""
+
+# game/commonroute.rpy:1278
+translate Tchinese commonroute_e9245344:
+
+    # m "\"Answers...\""
+    m "\"Answers...\""
+

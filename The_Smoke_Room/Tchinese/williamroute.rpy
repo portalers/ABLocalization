@@ -5423,7 +5423,7 @@ translate Tchinese williamroute_e094a0ac:
 
     # "Todd takes the last seat between Nik and William."
     "Todd坐在最後一張凳子上，在Nik與William之間。"
- 
+
 # game/williamroute.rpy:1438
 translate Tchinese williamroute_cc200028:
 
@@ -8422,5 +8422,3 @@ translate Tchinese williamroute_9206859d:
 
     # "Maybe next time I should ask what scares you."
     "也許下一次，我應該問問你內心中的恐懼。"
-
-

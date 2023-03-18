@@ -1036,7 +1036,7 @@ translate Tchinese nikroute_426c711b:
 translate Tchinese nikroute_0e834146:
 
     # cl "\"This would be similar to saying that you and a Sonoran have much in common. We don't even speak the same language.\""
-    cl "“這就好像說你跟索諾蘭人很像一樣；我們甚至講的都不是一個語言。”"
+    cl "“這就好像說你跟索諾拉人很像一樣；我們甚至講的都不是一個語言。”"
 
 # game/nikroute.rpy:235
 translate Tchinese nikroute_cdc2a180:
@@ -6550,4 +6550,3 @@ translate Tchinese nikroute_91559ea8:
 
     # "Yao leads us inside."
     "Yao帶領我們走進礦井。"
-

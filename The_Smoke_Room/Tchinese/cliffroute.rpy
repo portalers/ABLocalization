@@ -7827,3 +7827,11 @@ translate Tchinese strings:
     old "Don't object"
     new "不反對"
 
+# TODO: Translation updated at 2023-03-17 21:10
+
+# game/cliffroute.rpy:707
+translate Tchinese cliffroute_ecb64a0c:
+
+    # "Christ, he really was looking me up and down."
+    "Christ, he really was looking me up and down."
+

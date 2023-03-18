@@ -378,3 +378,10 @@ translate Tchinese strings:
     old "Mouse{#GUI}"
     new "Mouse{#GUI}"
 
+# TODO: Translation updated at 2023-03-17 21:10
+
+translate Tchinese strings:
+
+    # game/screens.rpy:939
+    old "Chapter Select"
+    new "章節選擇"

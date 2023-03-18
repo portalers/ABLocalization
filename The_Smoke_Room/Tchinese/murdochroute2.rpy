@@ -28575,3 +28575,23 @@ translate Tchinese murdochroute2_2354b162:
     # ho "\"Important things. Reubin’s a doctor. Neil’s planning to run for Congress.\""
     ho "“至關重要的事情。Raul是一名醫生，Neil計劃競選國會議員。”"
 
+# TODO: Translation updated at 2023-03-17 21:10
+
+# game/murdochroute2.rpy:4013
+translate Tchinese murdochroute2_fdc6ff7c:
+
+    # m "\"Two years is what you got for free.\""
+    m "\"Two years is what you got for free.\""
+
+# game/murdochroute2.rpy:8040
+translate Tchinese mdq2_30f617c5:
+
+    # m "\"NO!{nw}"
+    m "\"NO!{nw}"
+
+# game/murdochroute2.rpy:8042
+translate Tchinese mdq2_f1cd2d06:
+
+    # extend "\"{w=1.25}{nw}"
+    extend "\"{w=1.25}{nw}"
+
