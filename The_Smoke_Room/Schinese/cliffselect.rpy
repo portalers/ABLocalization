@@ -64,4 +64,4 @@ translate Schinese strings:
 
     # game/cliffselect.rpy:100
     old "Why there's only enough local business for one store?"
-    new "为何一家店就能满足当地人的需求？"
+    new "一家店能满足当地人的需求吗？"
