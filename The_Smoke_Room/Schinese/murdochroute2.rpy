@@ -12202,7 +12202,7 @@ translate Schinese murdochroute2_3a005fec:
 translate Schinese murdochroute2_873e23d0:
 
     # "Knowing that if I told her it might be mine, she’d ask me to prove it."
-    "要是告诉她那也许是我的钱，她势必会让我证明。"
+    "要是告诉她那可能是我的钱，她势必会让我证明。"
 
 # game/murdochroute2.rpy:3399
 translate Schinese murdochroute2_011afb91:
@@ -28384,7 +28384,7 @@ translate Schinese mdq2_f664ee3a:
 translate Schinese mdq2_e48e830f:
 
     # "Not as dramatic as I would like it to be."
-    "没想象中那么戏剧化。"
+    "没想象中的那么戏剧化。"
 
 # game/murdochroute2.rpy:8007
 translate Schinese mdq2_da865b6e:
@@ -28736,7 +28736,7 @@ translate Schinese murdochroute2_4653f8ab:
 translate Schinese murdochroute2_2354b162:
 
     # ho "\"Important things. Reubin’s a doctor. Neil’s planning to run for Congress.\""
-    ho "\"非常伟大的事业。Reubin是一名医生，Neil计划竞选国会议员。\""
+    ho "\"非常伟大的事业。Reubin是一名医生，Neil则计划竞选国会议员。\""
 
 # TODO: Translation updated at 2023-03-17 23:24
 
@@ -28744,13 +28744,13 @@ translate Schinese murdochroute2_2354b162:
 translate Schinese murdochroute2_fdc6ff7c:
 
     # m "\"Two years is what you got for free.\""
-    m "\"Two years is what you got for free.\""
+    m "\"只有两年学是免费的。\""
 
 # game/murdochroute2.rpy:8040
 translate Schinese mdq2_30f617c5:
 
     # m "\"NO!{nw}"
-    m "\"NO!{nw}"
+    m "\"{b}不要！{/b}{nw}"
 
 # game/murdochroute2.rpy:8042
 translate Schinese mdq2_f1cd2d06:
