@@ -6473,53 +6473,52 @@ translate Tchinese strings:
 translate Tchinese commonroute_1e20c7a0:
 
     # ja "\"I know! Looks like they've been there a long time. It's in a part of the mine that no one goes to anymore. I think they just forgot about 'em back in the day.\""
-    ja "\"I know! Looks like they've been there a long time. It's in a part of the mine that no one goes to anymore. I think they just forgot about 'em back in the day.\""
+    ja "“我明白！它們看起來已經在那裡很久了。那個礦區一直沒人去過，我想他們就是給忘了。”"
 
 # game/commonroute.rpy:255
 translate Tchinese commonroute_56c2d187:
 
     # "When I look down the little tunnel ahead of us though, I start to feel a little more unsure of what's happening here."
-    "When I look down the little tunnel ahead of us though, I start to feel a little more unsure of what's happening here."
+    "我低頭俯視著前方狹小的隧道，開始對發生在這裡的事情更加不確定了。"
 
 # game/commonroute.rpy:284
 translate Tchinese commonroute_37a6893f:
 
     # "There are few things laying around though; a shovel and a pickaxe against the wall, what looks like a tin cup in the corner, and finally a few bags at the far end of the hollow, looking full and lopsided."
-    "There are few things laying around though; a shovel and a pickaxe against the wall, what looks like a tin cup in the corner, and finally a few bags at the far end of the hollow, looking full and lopsided."
+    "周圍擺放的東西也不多：牆上靠著一把鏟子和一把十字鋤，角落裡有個像是馬口鐵罐頭的東西。最後，在洞的盡頭有幾個袋子，看起來裝得滿滿的，歪歪斜斜。"
 
 # game/commonroute.rpy:365
 translate Tchinese commonroute_1ca3f7e1:
 
     # "I turn around and find Jack already up, moving toward me, just five feet away, this time the pickaxe in his paws."
-    "I turn around and find Jack already up, moving toward me, just five feet away, this time the pickaxe in his paws."
+    "於是我轉了回去，發現Jack不知什麼時候站了起來，離我只有五英尺遠。這一次，他爪子裡抓著十字鎬。"
 
 # game/commonroute.rpy:648
 translate Tchinese commonroute_a24a199a:
 
     # "Still... my stomach twists at the thought of what happened, and I'm still numb, both outside and inside."
-    "Still... my stomach twists at the thought of what happened, and I'm still numb, both outside and inside."
+    "不過……一想到發生的事，我的胃就翻騰起來。而且不管是外在還是內在，我的身體依然麻木著。"
 
 # game/commonroute.rpy:709
 translate Tchinese commonroute_f2d7667b:
 
     # "{i}Be alert and of sober mind.{/i}"
-    "{i}Be alert and of sober mind.{/i}"
+    "{i}務要謹守，儆醒。{/i}"
 
 # game/commonroute.rpy:710
 translate Tchinese commonroute_3103eead:
 
     # "{i}Your enemy the devil prowls around looking for someone to devour.{/i}"
-    "{i}Your enemy the devil prowls around looking for someone to devour.{/i}"
+    "{i}因為你們的仇敵魔鬼，如同吼叫的獅子，遍地游行，尋找可吞吃的人。{/i}"
 
 # game/commonroute.rpy:1131
 translate Tchinese commonroute_3ee6b8e7:
 
     # m "\"Now your hands... now your... fingers... Good. You’re fine.\""
-    m "\"Now your hands... now your... fingers... Good. You’re fine.\""
+    m "“現在是你的爪子……現在，你的……手指……好了，你很好。”"
 
 # game/commonroute.rpy:1278
 translate Tchinese commonroute_e9245344:
 
     # m "\"Answers...\""
-    m "\"Answers...\""
-
+    m "“答案……”"
