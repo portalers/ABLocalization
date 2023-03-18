@@ -19707,6 +19707,8 @@ translate Tchinese williamroute3a_c5ebdb8a:
 
 # game/williamroute3.rpy:7216
 translate Tchinese williamroute3b_fec97169:
+    # "To be continued..."
+    "未完待續……"
 
 translate Tchinese strings:
 
@@ -19789,7 +19791,7 @@ translate Tchinese strings:
     # game/williamroute3.rpy:3884
     old "Talk to Cynthia."
     new "Cynthia"
-    
+
 # TODO: Translation updated at 2023-03-17 23:08
 
 # game/williamroute3.rpy:4733
