@@ -19902,47 +19902,47 @@ translate Schinese williamroute3a_161d49dd:
 translate Schinese williamroute3a_0b8278d3:
 
     # to "\"These shorter naps ain’t cuttin’ it.\""
-    to "\"These shorter naps ain’t cuttin’ it.\""
+    to "“这不是打个盹就能解决的。”"
 
 # game/williamroute3.rpy:5637
 translate Schinese williamroute3a_6474dd28:
 
     # m "\"You know, this ain’t my job, Will.\""
-    m "\"You know, this ain’t my job, Will.\""
+    m "我说，这可不是我擅长的工作啊，Will。"
 
 # game/williamroute3.rpy:5687
 translate Schinese williamroute3a_bfb1ab98:
 
     # "Up ahead, I see a ramshackle building under a thick pine tree that looks like it might be a tool shed, considering it ain’t that big."
-    "Up ahead, I see a ramshackle building under a thick pine tree that looks like it might be a tool shed, considering it ain’t that big."
+    "我在一棵茂密的松树下看到一栋破破烂烂的建筑，考虑到大小，它很可能是间工具棚。"
 
 # game/williamroute3.rpy:5842
 translate Schinese williamroute3a_bc0683ae:
 
     # "When he figures out I'm determined to be thorough, he sags a bit and starts helping me sort through the junk."
-    "When he figures out I'm determined to be thorough, he sags a bit and starts helping me sort through the junk."
+    "在发现我的决心有多彻底后，他无奈地开始帮我梳理垃圾。"
 
 # game/williamroute3.rpy:5872
 translate Schinese williamroute3a_09e08ef8:
 
     # m "\"What I mean is that you tense up when it comes to asking even basic questions of a woman.\""
-    m "\"What I mean is that you tense up when it comes to asking even basic questions of a woman.\""
+    m "“我是说，一旦涉及到女人，哪怕是最基本的问题，你都会心神不宁。”"
 
 # game/williamroute3.rpy:5954
 translate Schinese williamroute3a_c481f9a4:
 
     # "I knew there was something funny about this one when I worked him up to spankin' himself off at the Sheriff's office."
-    "I knew there was something funny about this one when I worked him up to spankin' himself off at the Sheriff's office."
+    "发现他在警署里偷偷摸摸打飞机的时候，我就知道这家伙有点意思。"
 
 # game/williamroute3.rpy:6012
 translate Schinese williamroute3a_ddb2f6d2:
 
     # to "\"And ain’t nobody comes this way.\""
-    to "\"And ain’t nobody comes this way.\""
+    to "也没有人会来。"
 
 # game/williamroute3.rpy:7216
 translate Schinese williamroute3b_fec97169:
 
     # "To be continued..."
-    "To be continued..."
+    "未完待续..."
 
