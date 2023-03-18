@@ -8382,7 +8382,7 @@ translate Schinese aftercliffint2_a9c1db44:
 translate Schinese aftercliffint2_4022c7d1:
 
     # "Wants me to try to make it back to town."
-    "要我试着回到镇上。"
+    "要我回到镇上。"
 
 # game/cliffroute3.rpy:2326
 translate Schinese aftercliffint2_e5cc963b:
@@ -9331,53 +9331,53 @@ translate Schinese strings:
 translate Schinese murdochtent_3cc9cdca:
 
     # cl "\"The both of you.\""
-    cl "\"The both of you.\""
+    cl "“你们两个都是。”"
 
 # game/cliffroute3.rpy:761
 translate Schinese aftertent_3954c87f:
 
     # "I see some hogan structures closer to the treeline, but they don’t look as well-maintained as the one Gad and Manaba live in."
-    "I see some hogan structures closer to the treeline, but they don’t look as well-maintained as the one Gad and Manaba live in."
+    "靠近林木线的地方倒是有一些泥屋，但看起来没有Gab和Manaba居住的那座保养得好。"
 
 # game/cliffroute3.rpy:1157
 translate Schinese aftercliffint2_8abbda43:
 
     # mu "\"Our company will be staying for a week, if that isn’t a problem.\""
-    mu "\"Our company will be staying for a week, if that isn’t a problem.\""
+    mu "“我们一行人预计会住一周，如果方便的话。”"
 
 # game/cliffroute3.rpy:1214
 translate Schinese aftercliffint2_d3860c57:
 
     # m "\"Maybe he put it down as Jebediah Coles?\""
-    m "\"Maybe he put it down as Jebediah Coles?\""
+    m "“也许他用的是Jebidiah Coles的名字？”"
 
 # game/cliffroute3.rpy:1310
 translate Schinese aftercliffint2_f6df6de0:
 
     # mu "\"Where exactly is he staying?\""
-    mu "\"Where exactly is he staying?\""
+    mu "“他要住在哪？”"
 
 # game/cliffroute3.rpy:1494
 translate Schinese aftercliffint2_4161db1a:
 
     # cl "\"I tell you what, Jebediah.\""
-    cl "\"I tell you what, Jebediah.\""
+    cl "“我来告诉你一件事吧，Jebediah。”"
 
 # game/cliffroute3.rpy:1869
 translate Schinese aftercliffint2_d59479b9:
 
     # m "\"We followed the law and the religion of our township, but that place and my family is practically dead to me.\""
-    m "\"We followed the law and the religion of our township, but that place and my family is practically dead to me.\""
+    m "“我们在镇上老实本分、矜矜业业地活着，但在我看来，那地方和我的家人都跟死了没两样。”"
 
 # game/cliffroute3.rpy:2044
 translate Schinese aftercliffint2_0373cc0e:
 
     # m "\"That little stoat fellah rode all the way across the sea just to hear about stuff like this.\""
-    m "\"That little stoat fellah rode all the way across the sea just to hear about stuff like this.\""
+    m "“那个白鼬伙计不远万里而来，就是为了听这些故事。”"
 
 # game/cliffroute3.rpy:2339
 translate Schinese aftercliffint2_95e6fc78:
 
     # "There’s nowhere to go, or to hide, but back in the direction that I came from."
-    "There’s nowhere to go, or to hide, but back in the direction that I came from."
+    "我无处可去，也无处可藏，只能转到我来的方向。"
 
