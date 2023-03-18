@@ -12322,11 +12322,11 @@ translate Schinese sny3_acd37590:
 translate Schinese nikroute3a_618108c6:
 
     # co "\"Please! Somebody help me!\""
-    co "\"Please! Somebody help me!\""
+    co "\"拜托！快来人啊！\""
 
 # game/nikroute3.rpy:2800
 translate Schinese nikroute3a_acd37590:
 
     # co "\"It was completely frozen and it shouldn't been in there!\""
-    co "\"It was completely frozen and it shouldn't been in there!\""
+    co "\"它完全被冻住了，根本就不该出现在这！\""
 
