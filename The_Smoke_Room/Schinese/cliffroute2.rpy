@@ -26231,7 +26231,7 @@ translate Schinese maphogan2_ee3762af:
 translate Schinese maphogan2_149f7ed6:
 
     # mu "\"I keep hearing vague about this settlement, but I don't really know what to expect.\""
-    mu "\"我总是能听到定居点的消息，却不知自己该期待什么。\""
+    mu "\"我总是能听到部落的消息，却不知道自己该期待什么。\""
 
 # game/cliffroute2.rpy:4333
 translate Schinese maphogan2_c6b57808:
