@@ -378,5 +378,5 @@ translate Schinese strings:
 
     # game/screens.rpy:939
     old "Chapter Select"
-    new "Chapter Select"
+    new "章节选择"
 
