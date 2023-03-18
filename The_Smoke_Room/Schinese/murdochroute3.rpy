@@ -10126,13 +10126,13 @@ translate Schinese murdochroute3a_148afcb5:
 translate Schinese murdochroute3a_9e59e995:
 
     # ho "\"I don’t know why you’re panicking.\""
-    ho "“我不懂你在惊慌什么。”"
+    ho "“我不明白你在慌什么。”"
 
 # game/murdochroute3.rpy:3266
 translate Schinese murdochroute3a_eda26b26:
 
     # ho "\"You’re not in any real danger Murdoch.\""
-    ho "“其实你半点风险都没有，Murdoch。”"
+    ho "“你其实半点风险都没有啊，Murdoch。”"
 
 # game/murdochroute3.rpy:3269
 translate Schinese murdochroute3a_86a0f7f4:
@@ -10216,125 +10216,125 @@ translate Schinese murdochroute3a_94004a03:
 translate Schinese murdochroute3a_32b8179c:
 
     # "I jump hearing Mrs. Byrnes’ voice right behind me as she touches my shoulder, brushing it to signal my scooting out of the way."
-    "I jump hearing Mrs. Byrnes’ voice right behind me as she touches my shoulder, brushing it to signal my scooting out of the way."
+    "Byrnes夫人的声音自我正后方响起，吓了我一跳。她把手搭在我的肩膀上一划，示意我让开。"
 
 # game/murdochroute3.rpy:756
 translate Schinese murdochroute3a_95b6973e:
 
     # ji "\"Oh, Reubin, you don’t know the half of it.\""
-    ji "\"Oh, Reubin, you don’t know the half of it.\""
+    ji "“唉，Reuben，这才只是冰山一角。”"
 
 # game/murdochroute3.rpy:797
 translate Schinese murdochroute3a_15eb3a8c:
 
     # "The fox walks up to take and shake each one of the men’s hands."
-    "The fox walks up to take and shake each one of the men’s hands."
+    "狐狸走进来，跟所有人依次握了手。"
 
 # game/murdochroute3.rpy:957
 translate Schinese murdochroute3a_c651d0c8:
 
     # m "\"No.\""
-    m "\"No.\""
+    m "“不是”
 
 # game/murdochroute3.rpy:1082
 translate Schinese murdochroute3a_668ba95a:
 
     # "Reubin was roaring with laughter."
-    "Reubin was roaring with laughter."
+    "Reuben大笑不止。"
 
 # game/murdochroute3.rpy:1139
 translate Schinese murdochroute3a_28656fda:
 
     # mu "\"Ralph.\""
-    mu "\"Ralph.\""
+    mu "“Ralph。”"
 
 # game/murdochroute3.rpy:1145
 translate Schinese murdochroute3a_2cbdcafb:
 
     # "He makes a gesture at Reubin, who’s in tears from laughing so hard, and Jim, who’s wearing an undeniable smirk."
-    "He makes a gesture at Reubin, who’s in tears from laughing so hard, and Jim, who’s wearing an undeniable smirk."
+    "他向笑到流眼泪的Reuben和藏不住脸上窃笑的Jim致意。"
 
 # game/murdochroute3.rpy:1198
 translate Schinese murdochroute3a_d0c2b4eb:
 
     # ji "\"And what are you in the mood for Reubin?\""
-    ji "\"And what are you in the mood for Reubin?\""
+    ji "“Reuben你呢？”"
 
 # game/murdochroute3.rpy:1253
 translate Schinese murdochroute3a_62ec96cb:
 
     # extend " then breaths in relief when he sees me."
-    extend " then breaths in relief when he sees me."
+    extend "看到是我后才松了口气。"
 
 # game/murdochroute3.rpy:1346
 translate Schinese murdochroute3a_7d2033e9:
 
     # m "\"Whorin’ ain’t about sweet talk.\""
-    m "\"Whorin’ ain’t about sweet talk.\""
+    m "“出来卖，靠的可不是说好听话，”"
 
 # game/murdochroute3.rpy:1533
 translate Schinese murdochroute3a_830195dc:
 
     # mu "\"It’s one thing that won’t make you look like you’re running away, isn’t it?\""
-    mu "\"It’s one thing that won’t make you look like you’re running away, isn’t it?\""
+    mu "“这是唯一能让你体面离开的办法了，不是吗？”"
 
 # game/murdochroute3.rpy:1984
 translate Schinese murdochroute3a_bd2f99b2:
 
     # mu "\"Evening, sister.\""
-    mu "\"Evening, sister.\""
+    m "“晚上好。”"
 
 # game/murdochroute3.rpy:2107
 translate Schinese murdochroute3a_0b53d2dd:
 
     # m "\"Well we went where I wanted to go.\""
-    m "\"Well we went where I wanted to go.\""
+    m "“我想去的地方已经去了。”"
 
 # game/murdochroute3.rpy:2121
 translate Schinese murdochroute3a_adc3e2cf:
 
     # "He nods."
-    "He nods."
+    "他点点头。"
 
 # game/murdochroute3.rpy:2141
 translate Schinese murdochroute3a_381a45d8:
 
     # "He doesn’t break eye contact, and nods."
-    "He doesn’t break eye contact, and nods."
+    "他没有移开视线，只是点了点头。"
 
 # game/murdochroute3.rpy:2159
 translate Schinese murdochroute3a_f76a52be:
 
     # "And I do the same, as Sam pulls me by the cuff of my shirt up the stairs and towards his room."
-    "And I do the same, as Sam pulls me by the cuff of my shirt up the stairs and towards his room."
+    "我也一样，任由Sam拉着我的衣袖，领我去他的房间。"
 
 # game/murdochroute3.rpy:2174
 translate Schinese murdochroute3a_44f28176:
 
     # "The smell of booze and the ardor of men’s deep revelry clouds the air when they approach his room."
-    "The smell of booze and the ardor of men’s deep revelry clouds the air when they approach his room."
+    "随着他们走近，空气中顿时弥漫起酒精和欲望的味道。"
 
 # game/murdochroute3.rpy:2904
 translate Schinese murdochroute3a_c3804f88:
 
     # ji "\"I don’t know why you’re out to crucify me, then.\""
-    ji "\"I don’t know why you’re out to crucify me, then.\""
+    ji "“虽然不知道为什么成了众矢之的。”"
 
 # game/murdochroute3.rpy:2958
 translate Schinese murdochroute3a_b1b24371:
 
     # mu "\"It’s nobody else’s fault but mine.\""
-    mu "\"It’s nobody else’s fault but mine.\""
+    mu "“都是我一个人的错。”"
 
 # game/murdochroute3.rpy:3039
 translate Schinese murdochroute3a_8ee77ecd:
 
     # ji "\"But even if I didn’t, would that really matter at this point?\""
-    ji "\"But even if I didn’t, would that really matter at this point?\""
+    ji "“事到如今，我信与不信又有什么区别？”"
 
 # game/murdochroute3.rpy:3216
 translate Schinese murdochroute3a_eae289a7:
 
     # ho "\"And we will move to your house in the city, as husband and wife, while you make up your mind on whether or not our four year relationship means anything to you.\""
-    ho "\"And we will move to your house in the city, as husband and wife, while you make up your mind on whether or not our four year relationship means anything to you.\""
+    ho "“然后以合法夫妻的身份搬到你在城市里的家，你可以在那里慢慢思考我们四年的感情对你而言到底有什么意义。”"
 
