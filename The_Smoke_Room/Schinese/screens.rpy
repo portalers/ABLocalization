@@ -372,3 +372,11 @@ translate Schinese strings:
 
     old "Notebook updated."
     new "笔记已更新"
+# TODO: Translation updated at 2023-03-17 23:24
+
+translate Schinese strings:
+
+    # game/screens.rpy:939
+    old "Chapter Select"
+    new "Chapter Select"
+

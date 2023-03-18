@@ -28738,3 +28738,23 @@ translate Schinese murdochroute2_2354b162:
     # ho "\"Important things. Reubin’s a doctor. Neil’s planning to run for Congress.\""
     ho "\"非常伟大的事业。Reubin是一名医生，Neil计划竞选国会议员。\""
 
+# TODO: Translation updated at 2023-03-17 23:24
+
+# game/murdochroute2.rpy:4013
+translate Schinese murdochroute2_fdc6ff7c:
+
+    # m "\"Two years is what you got for free.\""
+    m "\"Two years is what you got for free.\""
+
+# game/murdochroute2.rpy:8040
+translate Schinese mdq2_30f617c5:
+
+    # m "\"NO!{nw}"
+    m "\"NO!{nw}"
+
+# game/murdochroute2.rpy:8042
+translate Schinese mdq2_f1cd2d06:
+
+    # extend "\"{w=1.25}{nw}"
+    extend "\"{w=1.25}{nw}"
+

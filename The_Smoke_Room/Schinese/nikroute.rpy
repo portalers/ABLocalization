@@ -1034,7 +1034,7 @@ translate Schinese nikroute_426c711b:
 translate Schinese nikroute_0e834146:
 
     # cl "\"This would be similar to saying that you and a Sonoran have much in common. We don't even speak the same language.\""
-    cl "“这就像是说，你和一个索诺兰人有很多共同点一样，我们说的甚至不是同一种语言。”"
+    cl "“这就像是说，你和一个索诺拉人有很多共同点一样，我们说的甚至不是同一种语言。”"
 
 # game/nikroute.rpy:235
 translate Schinese nikroute_cdc2a180:
@@ -6610,4 +6610,3 @@ translate Schinese nikroute_9e885f95:
 
     # chsb "\"And occasionally interpret for the men who can't speak the local language.\""
     chsb "\"还有偶尔给不会本地话的人当翻译。\""
-

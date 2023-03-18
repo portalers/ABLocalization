@@ -8123,3 +8123,11 @@ translate Schinese mt1_abd2ad33:
     # m "\"'Course not. Just didn't figure you were the adventurin' type.\""
     m "\"当然赞成，只是没想到原来你喜欢冒险。\""
 
+# TODO: Translation updated at 2023-03-17 23:24
+
+# game/cliffroute.rpy:707
+translate Schinese cliffroute_ecb64a0c:
+
+    # "Christ, he really was looking me up and down."
+    "Christ, he really was looking me up and down."
+

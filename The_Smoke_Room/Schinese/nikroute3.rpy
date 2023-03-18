@@ -11992,85 +11992,85 @@ translate Schinese sny3_d2114ad5:
     "箱子接连掉落的声音随着一声巨响从冰室传出。"
 
 # game/nikroute3.rpy:2495
-translate Schinese sny3_c5a16b4d:
+translate Schinese nikroute3a_c5a16b4d:
 
     # co "\"Oh no!\""
     co "\"糟了！\""
 
 # game/nikroute3.rpy:2496
-translate Schinese sny3_bedbf80d:
+translate Schinese nikroute3a_bedbf80d:
 
     # "Mrs. Hendricks screams a very high, very girly scream."
     "Hendricks夫人发出了很少女的尖叫。"
 
 # game/nikroute3.rpy:2498
-translate Schinese sny3_e7c9eb21:
+translate Schinese nikroute3a_e7c9eb21:
 
     # co "\"I said help!\""
     co "\"快来帮帮我！\""
 
 # game/nikroute3.rpy:2499
-translate Schinese sny3_d39c8134:
+translate Schinese nikroute3a_d39c8134:
 
     # co "\"Please! Somebody Help me!\""
     co "\"拜托！快来人啊！\""
 
 # game/nikroute3.rpy:2501
-translate Schinese sny3_de71a6e6:
+translate Schinese nikroute3a_de71a6e6:
 
     # m "\"Are you alright?!\""
     m "\"您还好吗？！\""
 
 # game/nikroute3.rpy:2503
-translate Schinese sny3_bf14f393:
+translate Schinese nikroute3a_bf14f393:
 
     # ni "\"What happened?!\""
     ni "\"怎么了？!\""
 
 # game/nikroute3.rpy:2507
-translate Schinese sny3_4e7bcea8:
+translate Schinese nikroute3a_4e7bcea8:
 
     # co "\"It's terrible!\""
     co "\"太可怕了！\""
 
 # game/nikroute3.rpy:2508
-translate Schinese sny3_9bb60716:
+translate Schinese nikroute3a_9bb60716:
 
     # co "\"It was completely fozen and it shouldn't been in there!\""
     co "\"它完全被冻住了，根本就不该出现在这！\""
 
 # game/nikroute3.rpy:2511
-translate Schinese sny3_914baed2:
+translate Schinese nikroute3a_914baed2:
 
     # ni "\"What shouldn't have been in there?!\""
     ni "\"什么东西不该出现在这？！\""
 
 # game/nikroute3.rpy:2512
-translate Schinese sny3_ca9ff1fb:
+translate Schinese nikroute3a_ca9ff1fb:
 
     # co "\"A bug!\""
     co "\"一只虫子！\""
 
 # game/nikroute3.rpy:2514
-translate Schinese sny3_66cecd3b:
+translate Schinese nikroute3a_66cecd3b:
 
     # ni "\"A bug.\""
     ni "\"虫子。\""
 
 # game/nikroute3.rpy:2516
-translate Schinese sny3_7bbc129a:
+translate Schinese nikroute3a_7bbc129a:
 
     # co "\"I keep these ice blocks sealed tight for restaurant quality!\""
     co "\"我可是以餐厅的标准来储存这些冰块的！\""
 
 # game/nikroute3.rpy:2518
-translate Schinese sny3_df5c91e4:
+translate Schinese nikroute3a_df5c91e4:
 
     # co "\"Somebody's been careless with the packaging!\""
     co "\"包装的人太不小心了！\""
 
 # game/nikroute3.rpy:2520
-translate Schinese sny3_fec97169:
+translate Schinese nikroute3a_fec97169:
 
     # "To be continued..."
     "未完待续..."
@@ -12316,3 +12316,17 @@ translate Schinese sny3_acd37590:
 
     # co "\"It was completely frozen and it shouldn't been in there!\""
     co "\"它完全被冻住了，根本就不该出现在这！\""
+# TODO: Translation updated at 2023-03-17 23:42
+
+# game/nikroute3.rpy:2791
+translate Schinese nikroute3a_618108c6:
+
+    # co "\"Please! Somebody help me!\""
+    co "\"Please! Somebody help me!\""
+
+# game/nikroute3.rpy:2800
+translate Schinese nikroute3a_acd37590:
+
+    # co "\"It was completely frozen and it shouldn't been in there!\""
+    co "\"It was completely frozen and it shouldn't been in there!\""
+

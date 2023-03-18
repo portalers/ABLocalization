@@ -13954,7 +13954,7 @@ translate Schinese sny1_4b69de46:
 translate Schinese sny1_f7bbead4:
 
     # "His Sonoran accent is a little thick, but that might be exacerbated due to muffling from his handkerchief."
-    "他的索诺兰口音有点重，不过也可能是被那条围巾蒙得。"
+    "他的索诺拉口音有点重，不过也可能是被那条围巾蒙得。"
 
 # game/nikroute2.rpy:4397
 translate Schinese sny1_362629af:
@@ -25543,4 +25543,11 @@ translate Schinese sellcomp_7b89fabb:
 
     # di "\"I think he’s a good boy. He’s not the sharpest tool in the shed, but he’s young.\""
     di "“他是颗好苗子，也许不是最出色的，但他还年轻。”"
+# TODO: Translation updated at 2023-03-17 23:24
+
+# game/nikroute2.rpy:6368
+translate Schinese sellcomp_e890688d:
+
+    # di "\"Many won’t make the effort to know you if you leave before a year, because so many men come and go.\""
+    di "\"Many won’t make the effort to know you if you leave before a year, because so many men come and go.\""
 

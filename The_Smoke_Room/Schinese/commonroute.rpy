@@ -6605,3 +6605,59 @@ translate Schinese commonroute_ae38fe9e:
     # mu "\"Good thing that my family's balls at it here, then. Clean cut grocers and schoolteachers. No pirates, no bandits, no upstart revolutionaries.\""
     mu "“那么，还好我们家有勇气留下。干净的杂货店和教师。没有海盗，没有强盗，没有自命不凡的革命者。”"
 
+# TODO: Translation updated at 2023-03-17 23:24
+
+# game/commonroute.rpy:209
+translate Schinese commonroute_1e20c7a0:
+
+    # ja "\"I know! Looks like they've been there a long time. It's in a part of the mine that no one goes to anymore. I think they just forgot about 'em back in the day.\""
+    ja "\"I know! Looks like they've been there a long time. It's in a part of the mine that no one goes to anymore. I think they just forgot about 'em back in the day.\""
+
+# game/commonroute.rpy:255
+translate Schinese commonroute_56c2d187:
+
+    # "When I look down the little tunnel ahead of us though, I start to feel a little more unsure of what's happening here."
+    "When I look down the little tunnel ahead of us though, I start to feel a little more unsure of what's happening here."
+
+# game/commonroute.rpy:284
+translate Schinese commonroute_37a6893f:
+
+    # "There are few things laying around though; a shovel and a pickaxe against the wall, what looks like a tin cup in the corner, and finally a few bags at the far end of the hollow, looking full and lopsided."
+    "There are few things laying around though; a shovel and a pickaxe against the wall, what looks like a tin cup in the corner, and finally a few bags at the far end of the hollow, looking full and lopsided."
+
+# game/commonroute.rpy:365
+translate Schinese commonroute_1ca3f7e1:
+
+    # "I turn around and find Jack already up, moving toward me, just five feet away, this time the pickaxe in his paws."
+    "I turn around and find Jack already up, moving toward me, just five feet away, this time the pickaxe in his paws."
+
+# game/commonroute.rpy:648
+translate Schinese commonroute_a24a199a:
+
+    # "Still... my stomach twists at the thought of what happened, and I'm still numb, both outside and inside."
+    "Still... my stomach twists at the thought of what happened, and I'm still numb, both outside and inside."
+
+# game/commonroute.rpy:709
+translate Schinese commonroute_f2d7667b:
+
+    # "{i}Be alert and of sober mind.{/i}"
+    "{i}Be alert and of sober mind.{/i}"
+
+# game/commonroute.rpy:710
+translate Schinese commonroute_3103eead:
+
+    # "{i}Your enemy the devil prowls around looking for someone to devour.{/i}"
+    "{i}Your enemy the devil prowls around looking for someone to devour.{/i}"
+
+# game/commonroute.rpy:1131
+translate Schinese commonroute_3ee6b8e7:
+
+    # m "\"Now your hands... now your... fingers... Good. You’re fine.\""
+    m "\"Now your hands... now your... fingers... Good. You’re fine.\""
+
+# game/commonroute.rpy:1278
+translate Schinese commonroute_e9245344:
+
+    # m "\"Answers...\""
+    m "\"Answers...\""
+
