@@ -10234,7 +10234,7 @@ translate Schinese murdochroute3a_15eb3a8c:
 translate Schinese murdochroute3a_c651d0c8:
 
     # m "\"No.\""
-    m "“不是”
+    m "“不是”"
 
 # game/murdochroute3.rpy:1082
 translate Schinese murdochroute3a_668ba95a:
