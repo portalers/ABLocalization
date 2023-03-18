@@ -385,3 +385,90 @@ translate Tchinese strings:
     # game/screens.rpy:939
     old "Chapter Select"
     new "章節選擇"
+# TODO: Translation updated at 2023-03-18 11:11
+
+translate Tchinese strings:
+
+    # game/screens.rpy:848
+    old "Language"
+    new "語言"
+
+    # game/screens.rpy:1749
+    old "{color=#000000}{font=willfont.ttf}Cliff's real name is Cornelis. He claims he does not have his worker's permit.{/font} {/color}"
+    new "{color=#000000}{font=willfont.ttf}Cliff的真名是Cornelus。據本人稱沒有工作證。{/font} {/color}"
+
+    # game/screens.rpy:1749
+    old "{color=#000000}{font=willfont.ttf}[stagnighttext!ti]{/font}{/color}"
+    new "{color=#000000}{font=willfont.ttf}[stagnighttext!ti]{/font}{/color}"
+
+    # game/screens.rpy:1749
+    old "{color=#000000}{font=willfont.ttf}[chnighttext!ti]{/font}{/color}"
+    new "{color=#000000}{font=willfont.ttf}[chnighttext!ti]{/font}{/color}"
+
+    # game/screens.rpy:1749
+    old "{color=#000000}{font=willfont.ttf}[huxley1!ti]{/font}{/color}"
+    new "{color=#000000}{font=willfont.ttf}[huxley1!ti]{/font}{/color}"
+
+    # game/screens.rpy:1749
+    old "{color=#000000}{font=willfont.ttf}[huxley2!ti]{/font}{/color}"
+    new "{color=#000000}{font=willfont.ttf}[huxley2!ti]{/font}{/color}"
+
+    # game/screens.rpy:1749
+    old "{color=#000000}{font=willfont.ttf}[huxley3!ti]{/font}{/color}"
+    new "{color=#000000}{font=willfont.ttf}[huxley3!ti]{/font}{/color}"
+
+    # game/screens.rpy:1749
+    old "{color=#000000}{font=willfont.ttf}[jamestext!ti]{/font}{/color}"
+    new "{color=#000000}{font=willfont.ttf}[jamestext!ti]{/font}{/color}"
+
+    # game/screens.rpy:1749
+    old "{color=#000000}{font=willfont.ttf}[changtext!ti]{/font}{/color}"
+    new "{color=#000000}{font=willfont.ttf}[changtext!ti]{/font}{/color}"
+
+    # game/screens.rpy:1749
+    old "{color=#000000}{font=willfont.ttf} Sam needs to sleep more. [cynthiatext!ti]{/font}{/color}"
+    new "{color=#000000}{font=willfont.ttf} Sam需要更多睡眠。 [cynthiatext!ti]{/font}{/color}"
+
+    # game/screens.rpy:1749
+    old "{color=#000000}{font=willfont.ttf}[harlantext!ti]{/font}{/color}"
+    new "{color=#000000}{font=willfont.ttf}[harlantext!ti]{/font}{/color}"
+
+    # game/screens.rpy:1749
+    old "{color=#000000}{font=willfont.ttf}[etheltext!ti]{/font}{/color}"
+    new "{color=#000000}{font=willfont.ttf}[etheltext!ti]{/font}{/color}"
+
+    # game/screens.rpy:1749
+    old "{color=#000000}{font=willfont.ttf}[huxley4!ti]{/font}{/color}"
+    new "{color=#000000}{font=willfont.ttf}[huxley4!ti]{/font}{/color}"
+
+    # game/screens.rpy:1749
+    old "{color=#000000}{font=willfont.ttf}[gumtext!ti]{/font}{/color}"
+    new "{color=#000000}{font=willfont.ttf}[gumtext!ti]{/font}{/color}"
+
+    # game/screens.rpy:1749
+    old "{color=#000000}{font=willfont.ttf}[kanetext!ti]{/font}{/color}"
+    new "{color=#000000}{font=willfont.ttf}[kanetext!ti]{/font}{/color}"
+
+    # game/screens.rpy:1749
+    old "{color=#000000}{font=willfont.ttf}[filmtext!ti]{/font}{/color}"
+    new "{color=#000000}{font=willfont.ttf}[filmtext!ti]{/font}{/color}"
+
+    # game/screens.rpy:1749
+    old "{color=#000000}{font=willfont.ttf}[jartext!ti]{/font}{/color}"
+    new "{color=#000000}{font=willfont.ttf}[jartext!ti]{/font}{/color}"
+
+    # game/screens.rpy:1749
+    old "{color=#000000}{font=willfont.ttf}[shroudtext!ti]{/font}{/color}"
+    new "{color=#000000}{font=willfont.ttf}[shroudtext!ti]{/font}{/color}"
+
+    # game/screens.rpy:1749
+    old "{color=#000000}{font=willfont.ttf}[dolltext!ti] [marcydolltext!ti]{/font}{/color}"
+    new "{color=#000000}{font=willfont.ttf}[dolltext!ti] [marcydolltext!ti]{/font}{/color}"
+
+    # game/screens.rpy:1749
+    old "{color=#000000}{font=willfont.ttf}[samtoddtext!ti]{/font}{/color}"
+    new "{color=#000000}{font=willfont.ttf}[samtoddtext!ti]{/font}{/color}"
+
+    # game/screens.rpy:1749
+    old "{color=#000000}{font=willfont.ttf}[murdochtext!ti]{/font}{/color}"
+    new "{color=#000000}{font=willfont.ttf}[murdochtext!ti]{/font}{/color}"
