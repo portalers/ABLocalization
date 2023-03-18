@@ -19705,11 +19705,8 @@ translate Tchinese williamroute3a_c5ebdb8a:
     # gr "\"The men have work to do at closing time.\""
     gr "“我們的員工在打樣時間可是很忙的。”"
 
-# game/williamroute3.rpy:5696
-translate Tchinese williamroute3a_fec97169:
-
-    # "To be continued..."
-    "未完待續……"
+# game/williamroute3.rpy:7216
+translate Tchinese williamroute3b_fec97169:
 
 translate Tchinese strings:
 
@@ -19792,6 +19789,7 @@ translate Tchinese strings:
     # game/williamroute3.rpy:3884
     old "Talk to Cynthia."
     new "Cynthia"
+    
 # TODO: Translation updated at 2023-03-17 23:08
 
 # game/williamroute3.rpy:4733
@@ -19835,9 +19833,3 @@ translate Tchinese williamroute3a_ddb2f6d2:
 
     # to "\"And ain’t nobody comes this way.\""
     to "“應該沒有人會從那個方向來看到這裡。”"
-
-# game/williamroute3.rpy:7216
-translate Tchinese williamroute3b_fec97169:
-
-    # "To be continued..."
-    "未完待續……"
