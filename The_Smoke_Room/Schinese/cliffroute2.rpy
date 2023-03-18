@@ -28733,7 +28733,7 @@ translate Schinese hh_5453dd99:
 translate Schinese hh_8f65eafe:
 
     # jeb "\"Then my parents hired a new farmhand, just a little older than I was at the time. He was Meseta.\""
-    jeb "\"后来，我父母新雇了一个农工，他的年纪只比当时的我大一点。他是梅塞塔人。\""
+    jeb "\"后来，我的父母新雇了一个农工，他的年纪只比当时的我大一点。他是梅塞塔人。\""
 
 # game/cliffroute2.rpy:4338
 translate Schinese hh_9352a6b8:
@@ -28747,53 +28747,53 @@ translate Schinese hh_9352a6b8:
 translate Schinese aftercanyon_d621278d:
 
     # mu "\"I'm dying to hear some thrilling Batavian stories about being deprived of chocolate that is apparently better than everybody else's.\""
-    mu "\"I'm dying to hear some thrilling Batavian stories about being deprived of chocolate that is apparently better than everybody else's.\""
+    mu "我已经迫不及待想听一些巴达维亚的故事了。一个惊心动魄的，关于巧克力争夺战的故事。"
 
 # game/cliffroute2.rpy:1485
 translate Schinese aftercanyon_9c0fb017:
 
     # mu "\"What you and I experience when tasting exactly the same thing could be close, but different, and we'd never be able to know.\""
-    mu "\"What you and I experience when tasting exactly the same thing could be close, but different, and we'd never be able to know.\""
+    mu "不同的人品尝相同东西时的感受可能很接近，却不可能完全相同。"
 
 # game/cliffroute2.rpy:1751
 translate Schinese aftercanyon_08fc6b66:
 
     # mu "\"Did any of you hear--\"{w=0.2}{nw}"
-    mu "\"Did any of you hear--\"{w=0.2}{nw}"
+    mu "你们听到-{w=0.2}{nw}"
 
 # game/cliffroute2.rpy:2032
 translate Schinese aftercanyon_b176f737:
 
     # "I don't need to hear complicated words right now, and this headache isn't making it any easier."
-    "I don't need to hear complicated words right now, and this headache isn't making it any easier."
+    "头疼让我不想听到任何生僻词。"
 
 # game/cliffroute2.rpy:2534
 translate Schinese mt2_263e1c7c:
 
     # "Cliff adjusts his backpack and stands."
-    "Cliff adjusts his backpack and stands."
+    "Cliff背好背包，站了起来。"
 
 # game/cliffroute2.rpy:2843
 translate Schinese mt2_15707cfc:
 
     # ys "\"I think it is good to see more people right now.\""
-    ys "\"I think it is good to see more people right now.\""
+    ys "我觉得，遇到更多人是件好事。"
 
 # game/cliffroute2.rpy:3249
 translate Schinese mt2_e7873c47:
 
     # av "\"Think you can do that, little fellah?\""
-    av "\"Think you can do that, little fellah?\""
+    av "没问题吧，小伙子？"
 
 # game/cliffroute2.rpy:4248
 translate Schinese maphogan2_df7edd4f:
 
     # mu "\"Certainly nothing to do with Cliff here stopping by when you two were alone last night, now, could it?\""
-    mu "\"Certainly nothing to do with Cliff here stopping by when you two were alone last night, now, could it?\""
+    mu "肯定跟你和Cliff昨晚的独处没有关系，是不是？"
 
 # game/cliffroute2.rpy:6348
 translate Schinese campsong_8a0c5bf6:
 
     # av "\"Scary stories are well and good, but the real things happening in the world every day you are usually worse.\""
-    av "\"Scary stories are well and good, but the real things happening in the world every day you are usually worse.\""
+    av "\"我并不是说恐怖故事不好，但现实永远比故事更加离奇。\""
 
