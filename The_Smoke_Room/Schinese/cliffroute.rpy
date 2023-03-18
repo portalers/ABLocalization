@@ -7652,7 +7652,7 @@ translate Schinese cliffroute_91cc9b3c:
 translate Schinese cliffroute_38229ae1:
 
     # jam "\"Then if you’ll excuse me. Appointments to keep, business to take care of.\""
-    jam "\"那么，抱歉失陪了。我还有未赴的约会，跟待处理的公事。\""
+    jam "\"那么，请容我失陪了。我还有未赴的约会，跟待处理的公事。\""
 
 # game/cliffroute.rpy:705
 translate Schinese cliffroute_0c8b1eb4:
@@ -8109,7 +8109,7 @@ translate Schinese mt1_ba1b74a6:
 translate Schinese mt1_530e9e94:
 
     # m "\"Ain't you s'pposed to help at the store?\""
-    m "\"你用在店里帮忙的吗？\""
+    m "\"你不用在店里帮忙的吗？\""
 
 # game/cliffroute.rpy:1827
 translate Schinese mt1_28746027:
@@ -8121,7 +8121,7 @@ translate Schinese mt1_28746027:
 translate Schinese mt1_abd2ad33:
 
     # m "\"'Course not. Just didn't figure you were the adventurin' type.\""
-    m "\"当然赞成，只是没想到原来你喜欢冒险。\""
+    m "\"当然赞成，只是没想到原来你还喜欢冒险。\""
 
 # TODO: Translation updated at 2023-03-17 23:24
 
@@ -8129,5 +8129,5 @@ translate Schinese mt1_abd2ad33:
 translate Schinese cliffroute_ecb64a0c:
 
     # "Christ, he really was looking me up and down."
-    "Christ, he really was looking me up and down."
+    天，不要再上下打量我了。"
 
