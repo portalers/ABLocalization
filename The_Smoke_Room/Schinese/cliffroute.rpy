@@ -8129,5 +8129,5 @@ translate Schinese mt1_abd2ad33:
 translate Schinese cliffroute_ecb64a0c:
 
     # "Christ, he really was looking me up and down."
-    天，不要再上下打量我了。"
+    "天，不要再上下打量我了。"
 
