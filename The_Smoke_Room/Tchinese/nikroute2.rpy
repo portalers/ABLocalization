@@ -25536,4 +25536,4 @@ translate Tchinese strings:
 translate Tchinese sellcomp_e890688d:
 
     # di "\"Many won’t make the effort to know you if you leave before a year, because so many men come and go.\""
-    di "\"Many won’t make the effort to know you if you leave before a year, because so many men come and go.\""
+    di "“很多人都懶得去認識來不到一年的傢伙，畢竟太多人來來去去了。”"
