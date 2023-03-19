@@ -1534,7 +1534,7 @@ translate Schinese chapter_T3_store_cbe7d8c8:
 translate Schinese chapter_T3_store_dec5d35b:
 
     # M "No thank you, I already have my group, and that’s the Exorcists’ House."
-    M "谢谢，我就免了。我有我自己的团体，驱魔师之家。"
+    M "谢谢，我就免了。我有我自己的组织，驱魔馆。"
 
 # game/story/Chapter_T3.rpy:785
 translate Schinese chapter_T3_store_73e6fff3:
