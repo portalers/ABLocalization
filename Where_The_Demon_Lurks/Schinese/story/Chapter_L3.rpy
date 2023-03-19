@@ -5324,7 +5324,7 @@ translate Schinese chapter_L3_a0c73a6f:
 translate Schinese chapter_L3_57642e21:
 
     # "He hands you the food in a bright purple plastic bag, handing him money in return."
-    "他用颤抖的手合上盒盖，同时摸索出塑料叉子跟勺子，用橡皮筋捆在你的外卖上。"
+    "他把食物装在一个紫色的塑料袋里，连同找的零钱一起递给你。"
 
 # game/story/Chapter_L3.rpy:282
 translate Schinese chapter_L3_6e014ecb:
