@@ -166,7 +166,7 @@ translate Tchinese chapter_T3_29863203:
 translate Tchinese chapter_T3_9ceb650a:
 
     # p "I’m more surprised you managed to work out how to play music on my laptop all on your own."
-    p "我更驚訝的是，你居然會在我的筆記本上播放音樂。"
+    p "我更驚訝的是，你居然會在我的筆電上播放音樂。"
 
 # game/story/Chapter_T3.rpy:161
 translate Tchinese chapter_T3_24968f90:

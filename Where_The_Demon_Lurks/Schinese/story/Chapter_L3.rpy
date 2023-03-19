@@ -574,7 +574,7 @@ translate Schinese chapter_L3_277a3369:
 translate Schinese chapter_L3_48bca2b1:
 
     # "The vendor thanks you for patronage and begins to close his stall."
-    "Vendor一边感谢你的惠顾，一边收起了摊。"
+    "小贩一边感谢你的惠顾，一边收起了摊。"
 
 # game/story/Chapter_L3.rpy:281
 translate Schinese chapter_L3_310356ba:
@@ -1228,7 +1228,7 @@ translate Schinese chapter_L3_arcade2_d25292df:
 translate Schinese chapter_L3_arcade2_01c887fd:
 
     # L @ angry "I smell a spell."
-    L @ angry "我闻到了的咒语的味道。"
+    L @ angry "我闻到了咒语的味道。"
 
 # game/story/Chapter_L3.rpy:590
 translate Schinese chapter_L3_arcade2_a74b945a:

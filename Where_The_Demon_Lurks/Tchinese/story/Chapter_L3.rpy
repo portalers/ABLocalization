@@ -574,7 +574,7 @@ translate Tchinese chapter_L3_277a3369:
 translate Tchinese chapter_L3_48bca2b1:
 
     # "The vendor thanks you for patronage and begins to close his stall."
-    "Vendor一邊感謝你的惠顧，一邊收起了攤。"
+    "小販一邊感謝你的惠顧，一邊收起了攤。"
 
 # game/story/Chapter_L3.rpy:281
 translate Tchinese chapter_L3_6e014ecb:
@@ -1228,7 +1228,7 @@ translate Tchinese chapter_L3_arcade2_d25292df:
 translate Tchinese chapter_L3_arcade2_01c887fd:
 
     # L @ angry "I smell a spell."
-    L @ angry "我聞到了的咒語的味道。"
+    L @ angry "我聞到了咒語的味道。"
 
 # game/story/Chapter_L3.rpy:590
 translate Tchinese chapter_L3_arcade2_a74b945a:
@@ -1354,7 +1354,7 @@ translate Tchinese chapter_L3_arcade2_bdb662a3:
 translate Tchinese chapter_L3_arcade2_6315aa9e:
 
     # "Lucian pulls out his device. It announces with a cool robotic tone, “You have arrived at your searched item.”"
-    "Lucian取出他的筆記本，筆記本以一種冷酷的、機械式的語調宣布：“你已找到正在搜索的物體。”"
+    "Lucian取出他的筆電，筆電以一種冷酷的、機械式的語調宣布：“你已找到正在搜索的物體。”"
 
 # game/story/Chapter_L3.rpy:642
 translate Tchinese chapter_L3_arcade2_f87253ab:
@@ -1414,7 +1414,7 @@ translate Tchinese chapter_L3_arcade2_f25e0d51:
 translate Tchinese chapter_L3_arcade2_11588a1a:
 
     # p "Shit, turn the circle off!"
-    p "淦，快把法陣關掉！"
+    p "操，快把魔法陣關掉！"
 
 # game/story/Chapter_L3.rpy:673
 translate Tchinese chapter_L3_arcade2_9bdc44f0:
@@ -1657,10 +1657,10 @@ translate Tchinese chapter_L3_distraction_7328c517:
     "並反彈到了架子上，成功引起了守衛的注意。"
 
 # game/story/Chapter_L3.rpy:878
-translate Tchinese chapter_L3_distraction_db82f877:
+translate Tchinese chapter_L3_distraction_9e6a6562:
 
     # "It bounces again and again. Slamming against the door and crashing into some rubbish bins outside."
-    "它反彈了一次又一次，最後猛地撞開門，還打翻了外面的垃圾桶。"
+    "它一次又一次的反彈，最後猛地撞開門，還打翻了外面的垃圾桶。"
 
 # game/story/Chapter_L3.rpy:2700
 translate Tchinese chapter_L3_distraction_24ef8d94:
@@ -4525,7 +4525,7 @@ translate Tchinese chapter_L3_gin_dd521823:
     "Gin斜睨了Lucian一眼。"
 
 # game/story/Chapter_L3.rpy:2657
-translate Tchinese chapter_L3_gin_c7bebaf0:
+translate Tchinese chapter_L3_gin_cec351c9:
 
     # Gin neutral "Ohoho."
     Gin neutral "吼吼。"
