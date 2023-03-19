@@ -226,7 +226,7 @@ translate Tchinese chapter_T3_18d5a27f:
 translate Tchinese chapter_T3_64361d8d:
 
     # p "Let’s get a move on!"
-    p "咱們出發吧！"
+    p "我們出發吧！"
 
 # game/story/Chapter_T3.rpy:183
 translate Tchinese chapter_T3_881c04e0:
@@ -238,7 +238,7 @@ translate Tchinese chapter_T3_881c04e0:
 translate Tchinese chapter_T3_0e6b4de5:
 
     # p "It’s fine, I usually skip breakfast."
-    p "沒關係，我經常不吃早餐。"
+    p "沒關係，我平常不吃早餐。"
 
 # game/story/Chapter_T3.rpy:192
 translate Tchinese chapter_T3_df9d342e:
@@ -328,13 +328,13 @@ translate Tchinese chapter_T3_street_f88c9868:
 translate Tchinese chapter_T3_street_69fcd023:
 
     # T neutral "In my home, my uncle always told us to trust the meaning of our dreams. Because his nana had a dream that two smaller stars would form around the moon someday. She said the moon was him."
-    T neutral "我叔叔在我小的時候就一直說要相信夢的寓意。因為他的乳娘做過一個夢，夢到有兩顆小星星圍繞在月亮周圍。她說月亮就是他。"
+    T neutral "我叔叔在我小的時候就一直說要相信夢的寓意。因為他的奶媽做過一個夢，夢到有兩顆小星星圍繞在月亮周圍。她說月亮就是他。"
 
 # game/story/Chapter_T3.rpy:217
 translate Tchinese chapter_T3_street_06ab8116:
 
     # T smile "Then BLAM, one day, he adopted me and P.B.! He became a dad, just like in his nana’s dream."
-    T smile "後來有一天，哈哈，他收養了我和P.B！他當爸爸了，就像他乳娘夢裡的那樣。"
+    T smile "後來有一天，哈哈，他收養了我和P.B！他當爸爸了，就像他奶媽夢裡的那樣。"
 
 # game/story/Chapter_T3.rpy:218
 translate Tchinese chapter_T3_street_d12d4dc0:
@@ -382,7 +382,7 @@ translate Tchinese chapter_T3_street_e61c2519:
 translate Tchinese chapter_T3_street_ba085d53:
 
     # T neutral "Fine, if you put it that way, but he’s got a lot to prove before he’s part of the team. We should test him, see how long he takes to rob a mini mart."
-    T neutral "好吧，既然你這麼說的話。不過在入隊之前，咱們應該測試一下他，看看他搶一個小超市需要多長時間。"
+    T neutral "好吧，既然你這麼說的話。不過在入隊之前，我們應該測試一下他，看看他搶一個小超市需要多長時間。"
 
 # game/story/Chapter_T3.rpy:226
 translate Tchinese chapter_T3_street_27d2c7b2:
@@ -400,7 +400,7 @@ translate Tchinese chapter_T3_street_ad302b6e:
 translate Tchinese chapter_T3_street_d90ff46b:
 
     # p neutral "Thanks for reminding me, yeah, I should do that when we meet him."
-    p neutral "謝謝你提醒了我，是的，等我和他下次見面的時候。"
+    p neutral "謝謝你提醒我，對，等我和他下次見面的時候。"
 
 # game/story/Chapter_T3.rpy:229
 translate Tchinese chapter_T3_street_097b4ceb:
@@ -442,7 +442,7 @@ translate Tchinese chapter_T3_street_1d52f589:
 translate Tchinese chapter_T3_store_f2c607f6:
 
     # "You’re busy this morning setting up the new promotional event between a popular anime and a hotdog company."
-    "整個早晨你都在忙著為一部當下正火的動畫片與一家熱狗公司之間的同步做準備。"
+    "整個早晨你都在忙著為一部當下正火的動畫片與一家熱狗公司之間的活動做準備。"
 
 # game/story/Chapter_T3.rpy:252
 translate Tchinese chapter_T3_store_553767d4:
@@ -460,7 +460,7 @@ translate Tchinese chapter_T3_store_6fb97d61:
 translate Tchinese chapter_T3_store_152c52db:
 
     # "You catch him messing about with a few of the customers but there’s no chance for you to tell him off."
-    "你瞥到他在給幾個顧客搗亂，但你沒有機會去責備他。"
+    "你撇到他在給幾個顧客搗亂，但你沒有機會去責備他。"
 
 # game/story/Chapter_T3.rpy:257
 translate Tchinese chapter_T3_store_7b75fa44:
@@ -484,7 +484,7 @@ translate Tchinese chapter_T3_store_790757fa:
 translate Tchinese chapter_T3_store_1db2f962:
 
     # p neutral "Sir, I’m sure that would have been for a different promotion. We can’t do that with a random draw."
-    p neutral "我想那是不同的促銷活動，先生，咱們這裡是純隨機的。"
+    p neutral "我想那是不同的促銷活動，先生，我們這裡是隨機的。"
 
 # game/story/Chapter_T3.rpy:267
 translate Tchinese chapter_T3_store_2321ab82:
@@ -520,7 +520,7 @@ translate Tchinese chapter_T3_store_1ff4053f:
 translate Tchinese chapter_T3_store_8b65ec52:
 
     # Cust "Look you’re obviously incompetent, let me speak to your manager!"
-    Cust "一看你就不會來事，把你們經理給我叫來！"
+    Cust "一看你就不會做事，把你們經理給我叫來！"
 
 # game/story/Chapter_T3.rpy:278
 translate Tchinese chapter_T3_store_7ffc68a1:
@@ -550,7 +550,7 @@ translate Tchinese chapter_T3_store_2c07d955:
 translate Tchinese chapter_T3_store_caa851e8:
 
     # Cust "Why are you just stan-Ugh!"
-    Cust "你傻站著干──呃啊！"
+    Cust "你傻站著幹──呃啊！"
 
 # game/story/Chapter_T3.rpy:296
 translate Tchinese chapter_T3_store_bfc866dc:
@@ -766,13 +766,13 @@ translate Tchinese chapter_T3_store_ee9944b4:
 translate Tchinese chapter_T3_store_cb6e34e4:
 
     # T "Yeah I did the same when I was a kid. Had a pet marble I called Tiger. It was the most beautiful Tiger Eye in the entire neighbourhood."
-    T "我小的時候也是，管我的寵物彈珠叫老虎，它有整條街最漂亮的虎眼。"
+    T "我小的時候也是，我把我的寵物彈珠叫老虎，它有整條街最漂亮的虎眼。"
 
 # game/story/Chapter_T3.rpy:391
 translate Tchinese chapter_T3_store_3a62fb6d:
 
     # p "Aww, I used to have imaginary friends who played games with me. Usually they were just characters from a show I watched."
-    p "這麼說來，我也有幾個想像中的朋友來著，大多是動畫片裡的角色。"
+    p "這麼說來，我也有幾個幻想朋友來著，大多是動畫裡的角色。"
 
 # game/story/Chapter_T3.rpy:392
 translate Tchinese chapter_T3_store_a538519c:
@@ -808,7 +808,7 @@ translate Tchinese chapter_T3_store_e0790908:
 translate Tchinese chapter_T3_store_d6c99ba0:
 
     # "You both laugh at the poor pun."
-    "你們倆都被這個蹩腳的雙關笑話逗樂了。"
+    "你們兩個都被這個蹩腳的雙關笑話逗樂了。"
 
 # game/story/Chapter_T3.rpy:424
 translate Tchinese chapter_T3_store_74eae990:
@@ -1132,7 +1132,7 @@ translate Tchinese chapter_T3_store_2c86ecc3:
 translate Tchinese chapter_T3_store_49dbc4ec:
 
     # p angry "Fuck! Toast put him down!"
-    p angry "淦！快把他放下，Toast！"
+    p angry "幹！快把他放下，Toast！"
 
 # game/story/Chapter_T3.rpy:623
 translate Tchinese chapter_T3_store_502e408f:
@@ -1324,7 +1324,7 @@ translate Tchinese chapter_T3_store_65c76efb:
 translate Tchinese chapter_T3_store_63abdc0f:
 
     # p "What's the big deal? We're all guys here.{nw}"
-    p "有什麼話不能在這說？在場的都是大老爺們了。{nw}"
+    p "有什麼話不能在這說？在場的都是一夥的了。{nw}"
 
 # game/story/Chapter_T3.rpy:719
 translate Tchinese chapter_T3_store_2a26d46d:
@@ -1336,7 +1336,7 @@ translate Tchinese chapter_T3_store_2a26d46d:
 translate Tchinese chapter_T3_store_b6796791:
 
     # "He yanks you out to the store."
-    "他拽著你來到屋外。"
+    "他拉著你來到屋外。"
 
 # game/story/Chapter_T3.rpy:728
 translate Tchinese chapter_T3_store_1c5de94e:
@@ -1516,7 +1516,7 @@ translate Tchinese chapter_T3_store_4bf814a9:
 translate Tchinese chapter_T3_store_b192c583:
 
     # T smile "Really? That’s good. Crewmates gotta get along, or the group won’t work."
-    T smile "是嗎？那就好。咱們都是一條船上的，心得往一處使才行。"
+    T smile "是嗎？那就好。我們都是一條船上的，心得往一處使才行。"
 
 # game/story/Chapter_T3.rpy:782
 translate Tchinese chapter_T3_store_9274632b:
@@ -1528,7 +1528,7 @@ translate Tchinese chapter_T3_store_9274632b:
 translate Tchinese chapter_T3_store_cbe7d8c8:
 
     # T "Toast’s Crew, not even the Underworld can keep us down!"
-    T "Toast小隊，地獄也無法阻擋咱們的步伐！"
+    T "Toast小隊，地獄也無法阻擋我們的步伐！"
 
 # game/story/Chapter_T3.rpy:784
 translate Tchinese chapter_T3_store_dec5d35b:
@@ -1576,7 +1576,7 @@ translate Tchinese chapter_T3_store_d99c2b2c:
 translate Tchinese chapter_T3_store_d6e36192:
 
     # M nervous "By the way, how did you end up wearing the same get-up you had before?"
-    M nervous "順帶一提，你怎麼還穿著以前的那一身？"
+    M nervous "順帶一提，你怎麼還穿著以前那一套？"
 
 # game/story/Chapter_T3.rpy:793
 translate Tchinese chapter_T3_store_2777dcc6:
@@ -1594,7 +1594,7 @@ translate Tchinese chapter_T3_store_acba2e44:
 translate Tchinese chapter_T3_store_e0e50a99:
 
     # M_nt "Alright, I think I’m done here."
-    M_nt "行吧，我該辦的也都辦完了。"
+    M_nt "好吧，我該辦的也都辦完了。"
 
 # game/story/Chapter_T3.rpy:798
 translate Tchinese chapter_T3_store_04906b2e:
@@ -1654,7 +1654,7 @@ translate Tchinese chapter_T3_store_d8c4ee0a:
 translate Tchinese chapter_T3_store_d67b5f06:
 
     # M "We might stand a better chance of surviving this rescue mission if we have him on board."
-    M "如果把他也拽上船，我們會有更多的機會倖存下來。"
+    M "如果把他也拉上船，我們會有更多的機會倖存下來。"
 
 # game/story/Chapter_T3.rpy:813
 translate Tchinese chapter_T3_store_328e831c:
@@ -1750,7 +1750,7 @@ translate Tchinese chapter_T3_store_dc50a100:
 translate Tchinese chapter_T3_store_e7efcefa:
 
     # p "Lucian told me he’s after a promotion. If so, I just need to convince him that we’ll help him get that. Dunno how I’m going to say it, but just play along when I bring it up, got it?"
-    p "Lucian提到他想要升職，咱們可以從這方面入手，雖然我還不清楚該怎麼說。你們可要配合我啊，明白嗎？"
+    p "Lucian提到他想要升職，我們可以從這方面入手，雖然我還不清楚該怎麼說。你們可要配合我啊，明白嗎？"
 
 # game/story/Chapter_T3.rpy:833
 translate Tchinese chapter_T3_store_dd03c17a:
@@ -1762,7 +1762,7 @@ translate Tchinese chapter_T3_store_dd03c17a:
 translate Tchinese chapter_T3_store_5a4e0826:
 
     # M "Fine, just text me his location, I’ll meet you guys there."
-    M "嗯，把他的位置發給我，咱們到時候見。"
+    M "嗯，把他的位置發給我，我們到時候見。"
 
 # game/story/Chapter_T3.rpy:835
 translate Tchinese chapter_T3_store_3ada195f:
@@ -1804,7 +1804,7 @@ translate Tchinese chapter_T3_store_e033be8f:
 translate Tchinese chapter_T3_store_c69cf1d6:
 
     # M_nt "Now behave both of you. Remember-"
-    M_nt "從現在起，你們兩個都放規矩點。記住──"
+    M_nt "從現在起，你們兩個都安分點。記住──"
 
 # game/story/Chapter_T3.rpy:852
 translate Tchinese chapter_T3_store_b8ccf0c4:
@@ -1816,7 +1816,7 @@ translate Tchinese chapter_T3_store_b8ccf0c4:
 translate Tchinese chapter_T3_store_70e56d50:
 
     # "You let out a long drawn “Ugh”. Your head hurts thinking about what to say to Lucian."
-    "你長吁一聲，仍然在為如何說服Lucian而感到頭痛。"
+    "你長呼一聲，仍然在為如何說服Lucian而感到頭痛。"
 
 # game/story/Chapter_T3.rpy:873
 translate Tchinese chapter_T3_store_deba53b1:
@@ -1828,7 +1828,7 @@ translate Tchinese chapter_T3_store_deba53b1:
 translate Tchinese chapter_T3_store_d91e2950:
 
     # T smile "Buck up there, buddy. This ain’t no time to be sulking. I’ve got a body now! We’ve got to celebrate!"
-    T smile "振作點，伙伴，別再生悶氣啦。看我這實打實的身體！咱們該好好慶祝一下！"
+    T smile "振作點，伙伴，別再生悶氣啦。看我這實打實的身體！我們該好好慶祝一下！"
 
 # game/story/Chapter_T3.rpy:877
 translate Tchinese chapter_T3_store_9bc15b18:
@@ -1846,7 +1846,7 @@ translate Tchinese chapter_T3_store_d78d6802:
 translate Tchinese chapter_T3_store_07fa9e20:
 
     # T_nt "Yes! Bring on the eats!"
-    T_nt "噢！那咱們速戰速決！"
+    T_nt "噢！那我們速戰速決！"
 
 # game/story/Chapter_T3.rpy:888
 translate Tchinese chapter_T3_store_af73329c:
@@ -2002,7 +2002,7 @@ translate Tchinese chapter_T3_store_9078667e:
 translate Tchinese chapter_T3_store_010bbcb5:
 
     # p "Let’s eat!"
-    p "咱們開動吧！"
+    p "我們開動吧！"
 
 # game/story/Chapter_T3.rpy:1026
 translate Tchinese chapter_T3_store_cbc30a10:
@@ -2086,7 +2086,7 @@ translate Tchinese chapter_T3_store_dc37494b:
 translate Tchinese chapter_T3_store_bc803f93:
 
     # T "Don’t worry about me, I’m used to going hungry. So, you figured out what you’re going to tell the pretty boy?"
-    T "別擔心，餓肚子什麼的咱早就習慣了。那麼，你想好怎麼對那個美男子說了嗎？"
+    T "別擔心，餓肚子什麼的我早就習慣了。那麼，你想好怎麼對那個美男子說了嗎？"
 
 # game/story/Chapter_T3.rpy:1074
 translate Tchinese chapter_T3_store_9703e74a:
@@ -2248,7 +2248,7 @@ translate Tchinese chapter_T3_store_10fbd76d:
 translate Tchinese chapter_T3_store_6907c84e:
 
     # "After scanning through the items, you leave Toast in the break room with his culinary project."
-    "掃描完商品碼，你把Toast留在了休息室，同他的烹飪項目一起。"
+    "掃描完商品碼，你把Toast留在了休息室，與他的烹飪食材一起。"
 
 # game/story/Chapter_T3.rpy:1123
 translate Tchinese chapter_T3_store_59f8d60b:
@@ -2284,7 +2284,7 @@ translate Tchinese chapter_T3_store_8ea5b7c0:
 translate Tchinese chapter_T3_store_d3b7d730:
 
     # T "I put it back in its box. Let’s go!"
-    T "我把它放回盒子裡了，咱們走！"
+    T "我把它放回盒子裡了，我們走！"
 
 # game/story/Chapter_T3.rpy:1136
 translate Tchinese chapter_T3_store_f288234a:
@@ -2404,7 +2404,7 @@ translate Tchinese chapter_T3_lucian_0035a9a3:
 translate Tchinese chapter_T3_lucian_eb3d5123:
 
     # p "Let’s go somewhere quiet to talk."
-    p "咱們找個安靜的地方談吧。"
+    p "我們找個安靜的地方談吧。"
 
 # game/story/Chapter_T3.rpy:1184
 translate Tchinese chapter_T3_lucian_ec4a3541:
@@ -2470,7 +2470,7 @@ translate Tchinese chapter_T3_lucian_0c810c27:
 translate Tchinese chapter_T3_lucian_8d0ab3bc:
 
     # M nervous "I get his reaction, the amount of calories scares me too, yet they are so irresistible nonetheless."
-    M nervous "我懂你的心情，那是令我也感到膽寒的卡路里炸彈，但它實在太難以抗拒了。"
+    M nervous "我懂你的心情，那是令我也感到害怕的卡路里炸彈，但它實在太難以抗拒了。"
 
 # game/story/Chapter_T3.rpy:1233
 translate Tchinese chapter_T3_lucian_f92ed0be:
@@ -2584,7 +2584,7 @@ translate Tchinese chapter_T3_lucian_0fc41e2c:
 translate Tchinese chapter_T3_lucian_b48f8b01:
 
     # "The angel puts the cake back in the box and closes it."
-    "天使把蛋糕放回盒子裡，然後合上。"
+    "天使把蛋糕放回盒子裡，然後蓋起來。"
 
 # game/story/Chapter_T3.rpy:1285
 translate Tchinese chapter_T3_lucian_6acdf1f9:
@@ -2602,7 +2602,7 @@ translate Tchinese chapter_T3_lucian_b87016ac:
 translate Tchinese chapter_T3_lucian_0533a53e:
 
     # L "Excuse me? What is this about a king?"
-    L "不好意思？這和國王有什麼關係？"
+    L "什麼？這和King有什麼關係？"
 
 # game/story/Chapter_T3.rpy:1288
 translate Tchinese chapter_T3_lucian_6ddeb007:
@@ -2734,7 +2734,7 @@ translate Tchinese chapter_T3_lucian_95829b5d:
 translate Tchinese chapter_T3_lucian_6d017575:
 
     # M shocked "Huh, and where exactly?"
-    M shocked "什，具體在哪？"
+    M shocked "什麼，具體在哪？"
 
 # game/story/Chapter_T3.rpy:1314
 translate Tchinese chapter_T3_lucian_77610230:
@@ -2746,7 +2746,7 @@ translate Tchinese chapter_T3_lucian_77610230:
 translate Tchinese chapter_T3_lucian_d379e7dc:
 
     # p "That sounds too risky. Not to mention how freaky it is to know there’s such a gate here? Who even made it?"
-    p "這太冒險了，其中必有古怪，我們連門是誰造的都不清楚。"
+    p "這太冒險了，這其中必有鬼，我們連門是誰造的都不清楚。"
 
 # game/story/Chapter_T3.rpy:1316
 translate Tchinese chapter_T3_lucian_6a6cc8d6:
@@ -2944,7 +2944,7 @@ translate Tchinese chapter_T3_lucian_5cacb5e7:
 translate Tchinese chapter_T3_lucian_2ad3e583:
 
     # T "Look at this crew, we're going to do great!"
-    T "看看這陣容，咱們贏定了！"
+    T "看看這陣容，我們贏定了！"
 
 # game/story/Chapter_T3.rpy:1387
 translate Tchinese chapter_T3_lucian_4123fe57:
@@ -2992,7 +2992,7 @@ translate Tchinese chapter_T3_lucian_4f8c9376:
 translate Tchinese chapter_T3_lucian_e4f7fc90:
 
     # T "Wait, we haven't had our first team meal!"
-    T "慢著，咱們還沒有搞團建呢！"
+    T "慢著，我們還沒有搞團建呢！"
 
 # game/story/Chapter_T3.rpy:1433
 translate Tchinese chapter_T3_lucian_bef5962f:
@@ -3010,7 +3010,7 @@ translate Tchinese chapter_T3_lucian_39d1d2cf:
 translate Tchinese chapter_T3_lucian_b5895478:
 
     # T sad "But we aren’t a real crew until we share a drink together."
-    T sad "但是不一起喝一杯，咱們不能算真正上了一條船。"
+    T sad "但是不一起喝一杯，我們不能算真正上了一條船。"
 
 # game/story/Chapter_T3.rpy:1436
 translate Tchinese chapter_T3_lucian_3d1e3034:
@@ -3094,7 +3094,7 @@ translate Tchinese chapter_T3_lucian_3e1d37a1:
 translate Tchinese chapter_T3_lucian_9b1a1a8c:
 
     # M "Like I said, I've got some work to settle. You two can handle it."
-    M "我說過了，我還有一些工作要做。我對你們倆有信心。"
+    M "我說過了，我還有一些工作要做。我對你們兩個有信心。"
 
 # game/story/Chapter_T3.rpy:1468
 translate Tchinese chapter_T3_lucian_ef5a557b:
@@ -3226,7 +3226,7 @@ translate Tchinese chapter_T3_lucian_e687a602:
 translate Tchinese chapter_T3_vendrake_5302615c:
 
     # "In the Demon City, if you pass the Demon Lord’s office, then make a left at the Horns Emporium, there lies a wide open expanse."
-    "在惡魔之城，如果你經過魔王的辦公室直走，再在魔角百貨左轉，便能看到一片開闊地帶。"
+    "在惡魔城，如果你經過魔王的辦公室直走，接著在魔角百貨左轉，便能看到一片開闊地帶。"
 
 # game/story/Chapter_T3.rpy:1521
 translate Tchinese chapter_T3_vendrake_102762b4:
@@ -3238,7 +3238,7 @@ translate Tchinese chapter_T3_vendrake_102762b4:
 translate Tchinese chapter_T3_vendrake_bf1df8da:
 
     # "Not many come here as there is nothing much to do other than bask in the artificial sunlight, or touch the plants that have no name and do not exist anymore on Earth."
-    "少有人會特意前來，因為除了曬人造陽光，以及接觸早在人界滅絕、就連名字都已經失傳的植物外，這裡也沒什麼可做的。"
+    "顯少會有人會特意前來，因為除了曬人造陽光，以及接觸早在人界滅絕、就連名字都已經失傳的植物外，這裡也沒什麼可做的。"
 
 # game/story/Chapter_T3.rpy:1525
 translate Tchinese chapter_T3_vendrake_973e4f97:
@@ -3502,7 +3502,7 @@ translate Tchinese chapter_T3_vendrake_97980fb0:
 translate Tchinese chapter_T3_vendrake_be75e22f:
 
     # "Like two furry basketballs."
-    "像兩個毛茸茸的籃球。"
+    "像兩個毛絨絨的籃球。"
 
 # game/story/Chapter_T3.rpy:1611
 translate Tchinese chapter_T3_vendrake_4918225b:
@@ -3580,7 +3580,7 @@ translate Tchinese chapter_T3_vendrake_9b7d1d5c:
 translate Tchinese chapter_T3_vendrake_7c3d5217:
 
     # p annoyed "We can head to Six Fans for breakfast. Now move your butt."
-    p annoyed "咱們可以去六扇門吃，現在快把你的屁股挪開。"
+    p annoyed "我們可以去六扇門吃，現在快把你的屁股挪開。"
 
 # game/story/Chapter_T3.rpy:1639
 translate Tchinese chapter_T3_vendrake_69214171:
@@ -3772,7 +3772,7 @@ translate Tchinese chapter_T3_freelancer_8bc11523:
 translate Tchinese chapter_T3_freelancer_9ae755bb:
 
     # T "Let's look!"
-    T "咱們過去瞧瞧！"
+    T "我們過去瞧瞧！"
 
 # game/story/Chapter_T3.rpy:1722
 translate Tchinese chapter_T3_freelancer_c05f8615:
@@ -3820,7 +3820,7 @@ translate Tchinese chapter_T3_freelancer_a8d629c2:
 translate Tchinese chapter_T3_freelancer_37052fa9:
 
     # p question "It’s one of them."
-    p question "是他們中的一員。"
+    p question "是他們之中的一員。"
 
 # game/story/Chapter_T3.rpy:1763
 translate Tchinese chapter_T3_freelancer_bb30f647:
@@ -4456,7 +4456,7 @@ translate Tchinese chapter_T3_freelancer_a3ccbf71:
 translate Tchinese chapter_T3_freelancer_8ff794cb:
 
     # "The demon pulls four oversized mechanical bolts from its pocket with his left hand, yanking the bolt heads off forcefully with the other. You see the screw stretch as though it were a rubber band."
-    "惡魔從左手口袋裡拽出四個超大的機械螺栓，他用力扯下螺栓的頭，你看見螺絲就像橡皮筋一樣被拉長。"
+    "惡魔從左手口袋裡拿出四個超大的機械螺栓，他用力扯下螺栓的頭，你看見螺絲就像橡皮筋一樣被拉長。"
 
 # game/story/Chapter_T3.rpy:2219
 translate Tchinese chapter_T3_freelancer_7372a773:
@@ -5452,7 +5452,7 @@ translate Tchinese chapter_T3_ending_42926470:
 translate Tchinese chapter_T3_ending_6ea48183:
 
     # M nervous "Shit… yeah I need that."
-    M nervous "淦……手錶確實對我很重要。"
+    M nervous "幹……手錶確實對我很重要。"
 
 # game/story/Chapter_T3.rpy:3308
 translate Tchinese chapter_T3_ending_3466146a:
@@ -5554,7 +5554,7 @@ translate Tchinese chapter_T3_ending_31d00e72:
 translate Tchinese chapter_T3_ending_414539ff:
 
     # p neutral "Let's head back to the apartment quick, I got to rest up before my shift."
-    p neutral "咱們回公寓吧，我得在上班前趕緊休息一下。"
+    p neutral "我們回公寓吧，我得在上班前趕緊休息一下。"
 
 # game/story/Chapter_T3.rpy:3335
 translate Tchinese chapter_T3_ending_47f3ed99:

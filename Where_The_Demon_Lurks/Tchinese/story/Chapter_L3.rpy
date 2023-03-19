@@ -52,7 +52,7 @@ translate Tchinese chapter_L3_9cbec2c4:
 translate Tchinese chapter_L3_72e16025:
 
     # "He suddenly pivots and walks into a boutique."
-    "他突然轉身，走進一家禮品店。"
+    "他突然跑向一間禮品店。"
 
 # game/story/Chapter_L3.rpy:45
 translate Tchinese chapter_L3_8e15d2c0:
@@ -70,7 +70,7 @@ translate Tchinese chapter_L3_90a8d57a:
 translate Tchinese chapter_L3_f781d6bb:
 
     # "He walks straight through a rack of dresses that you have to hurriedly pull off his head on his way back out of the store."
-    "他頭也不抬地穿過一排排衣架，你不得不握著他的頭引導他離開商店。"
+    "他頭也不抬地穿過一排排衣架，你不得不在他離開商店之前手忙腳亂地把衣服掛回去。"
 
 # game/story/Chapter_L3.rpy:61
 translate Tchinese chapter_L3_6cf2d98e:
@@ -112,13 +112,13 @@ translate Tchinese chapter_L3_2508685a:
 translate Tchinese chapter_L3_61dd10bc:
 
     # "He mumbles something to himself before walking through a crowd — cutting off, and bumping into anyone he crosses, despite their exasperated cries."
-    "他先是喃喃自語了幾句，又筆直插進入潮中，絲毫不理會被撞到的人憤怒的叫喊。"
+    "他先是喃喃自語了幾句，又筆直插進人潮中，絲毫不理會被撞到的人憤怒的叫喊。"
 
 # game/story/Chapter_L3.rpy:90
 translate Tchinese chapter_L3_05a23d51:
 
     # "You walk behind him with your head low."
-    "你走在他身後，連頭都不敢抬。"
+    "你趕忙追過去，連頭都不敢抬。"
 
 # game/story/Chapter_L3.rpy:95
 translate Tchinese chapter_L3_67bc5b50:
@@ -130,13 +130,13 @@ translate Tchinese chapter_L3_67bc5b50:
 translate Tchinese chapter_L3_92c91b8c:
 
     # "Reaching out and seizing Lucian’s wrist, you yank him to a halt."
-    "你拽住Lucian的手腕，這才把他停下。"
+    "你抓住Lucian的手腕，這才把他停下。"
 
 # game/story/Chapter_L3.rpy:97
 translate Tchinese chapter_L3_7ebe4d00:
 
     # p "Dude, stop running around at random. You’re bothering people."
-    p "別瞎逛了，伙伴，你會打擾到別人的。"
+    p "別再瞎逛了老兄，你會打擾到別人的。"
 
 # game/story/Chapter_L3.rpy:103
 translate Tchinese chapter_L3_3623fd8b:
@@ -232,7 +232,7 @@ translate Tchinese chapter_L3_f8655383:
 translate Tchinese chapter_L3_a24af4cc:
 
     # p "I’m not doing this, I’ll go search on my own."
-    p "動腦子的工作就交給你了，我自己去找找。"
+    p "你隨意吧，我去附近找找。"
 
 # game/story/Chapter_L3.rpy:145
 translate Tchinese chapter_L3_9045f190:
@@ -304,7 +304,7 @@ translate Tchinese chapter_L3_9bc507b8:
 translate Tchinese chapter_L3_1d374d12:
 
     # "Looking around your gaze falls upon a lonely street side vendor. Half of a roasted chicken hangs behind the food display case as though proudly announcing to the world, “Look at how good my food is, get it while it lasts.”"
-    "環顧四周後，你盯上了一個孤零零的街頭Vendor。他的食品展示櫃裡掛著半隻烤雞，彷彿在驕傲地向世界宣布：“如此美味，豈能錯過。”"
+    "環顧四周後，你盯上了一個孤零零的街頭小販。他的食品展示櫃裡掛著半隻烤雞，彷彿在驕傲地向世界宣布：“如此美味，豈能錯過。”"
 
 # game/story/Chapter_L3.rpy:177
 translate Tchinese chapter_L3_5ce32c99:
@@ -334,25 +334,25 @@ translate Tchinese chapter_L3_1d69d057:
 translate Tchinese chapter_L3_98f5859b:
 
     # Vendor "Hi there, want some chicken rice? I’ve got some juicy roasted chicken."
-    Vendor "來點雞肉飯嗎？我家的烤雞肉汁水很足喔。"
+    Vendor "來點雞肉飯嗎？我家的烤雞肉汁飽滿鮮嫩喔。"
 
 # game/story/Chapter_L3.rpy:189
 translate Tchinese chapter_L3_9c57980e:
 
     # p talk "I’ll take two, both breasts."
-    p talk "我要兩份加雞胸的。"
+    p talk "我要兩份加雞胸肉的。"
 
 # game/story/Chapter_L3.rpy:191
 translate Tchinese chapter_L3_39588761:
 
     # Vendor "I’ve got some roasted pork for another three dollars."
-    Vendor "我這裡還有烤豬肉，只要三美元。"
+    Vendor "我們還有烤豬肉，只要三美元。"
 
 # game/story/Chapter_L3.rpy:193
 translate Tchinese chapter_L3_5e87c31a:
 
     # "He pulls up a slab of crispy pork from a compartment behind his stall. There’s not much left, but the bright orange crust from roasting the pork’s skin spurs your appetite."
-    "他從攤位後面的隔間裡拿出一小塊脆皮五花肉，雖然是剩下的，但那烤得鋥亮的橙色外皮還是刺激著你的味蕾。"
+    "他從攤位後面的隔間裡拿出一小塊脆皮五花肉，雖然是剩下的，但那烤得油亮的橙色外皮還是刺激著你的味蕾。"
 
 # game/story/Chapter_L3.rpy:195
 translate Tchinese chapter_L3_cb0f49d4:
@@ -376,7 +376,7 @@ translate Tchinese chapter_L3_3f1a6643:
 translate Tchinese chapter_L3_d1091eda:
 
     # Vendor "Of course, my chicken rice is the best in town. I’ve been selling it for a decade."
-    Vendor "那是當然的，我賣了十年的雞肉飯，在咱們鎮上，我說第二就沒人敢說第一。"
+    Vendor "那是當然的，我賣了十年的雞肉飯，在我們鎮上，我說第二就沒人敢說第一。"
 
 # game/story/Chapter_L3.rpy:202
 translate Tchinese chapter_L3_96df9544:
@@ -406,7 +406,7 @@ translate Tchinese chapter_L3_46d6ec1f:
 translate Tchinese chapter_L3_713462e3:
 
     # Vendor "Ah, you one of them Tube people?"
-    Vendor "你們是油管主播嗎？"
+    Vendor "你們是直播主嗎？"
 
 # game/story/Chapter_L3.rpy:213
 translate Tchinese chapter_L3_f64468a5:
@@ -418,7 +418,7 @@ translate Tchinese chapter_L3_f64468a5:
 translate Tchinese chapter_L3_6e700c13:
 
     # Vendor "Why don’t you take them to the old Kibbleton Hotel by the hillside? People are disappearing all the time over there."
-    Vendor "那怎麼不去山坡上的老基布爾頓酒店看看？那老有人失蹤。"
+    Vendor "那怎麼不去山坡上的老基布爾頓酒店看看？那裡老是有人失蹤。"
 
 # game/story/Chapter_L3.rpy:217
 translate Tchinese chapter_L3_67b82619:
@@ -430,13 +430,13 @@ translate Tchinese chapter_L3_67b82619:
 translate Tchinese chapter_L3_33d43a41:
 
     # Vendor "Maybe, or maybe not. I’ve got a lot of chicken and pork to sell. Perhaps if I had less on my plate, I could recall better."
-    Vendor "誰知道呢，咱這是小本買賣，也許生意一多我就想起來了。"
+    Vendor "誰知道呢，我這是小本買賣，也許生意一多我就想起來了。"
 
 # game/story/Chapter_L3.rpy:234
 translate Tchinese chapter_L3_f21342f1:
 
     # "His eyes dart towards the pork and back at you."
-    "他瞟了眼豬肉，又瞟了眼你。"
+    "他撇了眼豬肉，又撇了眼你。"
 
 # game/story/Chapter_L3.rpy:223
 translate Tchinese chapter_L3_b0b17067:
@@ -484,7 +484,7 @@ translate Tchinese chapter_L3_60ee0409:
 translate Tchinese chapter_L3_11188b8a:
 
     # Vendor "That's Doberwalk 1. We are on Doberwalk 2. All the businesses that used to be on Doberwalk 1 either moved here or closed down permanently."
-    Vendor "咱們這裡是多寶路2號，那裡是多寶路1號。所有曾經在那裡做買賣的，要嘛搬到了這裡，要嘛都關門大吉了。"
+    Vendor "我們這裡是多寶路2號，那裡是多寶路1號。所有曾經在那裡做買賣的，要嘛搬到了這裡，要嘛都關門大吉了。"
 
 # game/story/Chapter_L3.rpy:248
 translate Tchinese chapter_L3_99d25d4e:
@@ -532,7 +532,7 @@ translate Tchinese chapter_L3_86f18880:
 translate Tchinese chapter_L3_6f87791c:
 
     # Vendor "That's the main reason we all shifted our premises here. Start clean."
-    Vendor "所以我們才都轉移了過來，重新開始。"
+    Vendor "所以我們才都搬到這來，重新開始。"
 
 # game/story/Chapter_L3.rpy:257
 translate Tchinese chapter_L3_b7707f8c:
@@ -556,19 +556,19 @@ translate Tchinese chapter_L3_a0c73a6f:
 translate Tchinese chapter_L3_54b5e6e1:
 
     # "His hand trembles as he closes the lid on the packed food. He fumbles with the plastic forks and spoons as he bundles it and your takeaway together with a rubber band."
-    "他用顫抖的手合上盒蓋，同時摸索出塑膠叉子跟勺子，用橡皮筋捆在你的外賣上。"
+    "他用顫抖的手蓋上盒蓋，同時摸索出塑膠叉子跟勺子，用橡皮筋捆在你的外賣上。"
 
 # game/story/Chapter_L3.rpy:265
 translate Tchinese chapter_L3_57642e21:
 
     # "He hands you the food in a bright purple plastic bag, handing him money in return."
-    "他用顫抖的手合上盒蓋，同時摸索出塑膠叉子跟勺子，用橡皮筋捆在你的外賣上。"
+    "接著他把餐點裝在亮紫色的塑膠袋內遞給你，你將餐費交給了小販。"
 
 # game/story/Chapter_L3.rpy:282
 translate Tchinese chapter_L3_277a3369:
 
     # "After paying for the meal you store it inside your backpack."
-    "你付了餐費，把外賣收進背包。"
+    "付完餐費後，你把外賣收進背包。"
 
 # game/story/Chapter_L3.rpy:275
 translate Tchinese chapter_L3_48bca2b1:
@@ -646,7 +646,7 @@ translate Tchinese chapter_L3_38f7f338:
 translate Tchinese chapter_L3_314bdda6:
 
     # p talk "The chicken rice vendor I talked to mentioned a former arcade where someone died. Since then, no one goes to that area."
-    p talk "賣雞肉飯的Vendor說街機廳裡曾發生過一起命案，從那以後，就沒有人敢去那個街區了。"
+    p talk "賣雞肉飯的小販說街機廳裡曾發生過一起命案，從那以後，就沒有人敢去那個街區了。"
 
 # game/story/Chapter_L3.rpy:365
 translate Tchinese chapter_L3_785b6201:
@@ -736,7 +736,7 @@ translate Tchinese chapter_L3_arcade2_9e78b7e3:
 translate Tchinese chapter_L3_arcade2_5a34c347:
 
     # "The road is now a milky grey; no one has bothered to retar it."
-    "沒有人願意來修繕這條灰撲撲的路。"
+    "沒有人願意來修繕這條死寂如灰的路。"
 
 # game/story/Chapter_L3.rpy:375
 translate Tchinese chapter_L3_arcade2_8f7dd534:
@@ -748,7 +748,7 @@ translate Tchinese chapter_L3_arcade2_8f7dd534:
 translate Tchinese chapter_L3_arcade2_d0b89b9f:
 
     # p "Would you relax? If I'm wrong about this we can go chase that bouncing Gate whenever."
-    p "拜託你放鬆點好不好，就算我錯了，咱們再去追那個彈彈跳跳的門也不遲啊。"
+    p "拜託你放鬆點好不好，就算我錯了，我們再去追那個彈來彈去的門也不遲啊。"
 
 # game/story/Chapter_L3.rpy:390
 translate Tchinese chapter_L3_arcade2_642b6c8a:
@@ -898,7 +898,7 @@ translate Tchinese chapter_L3_arcade2_0b9a606b:
 translate Tchinese chapter_L3_arcade2_6597a5c8:
 
     # "You grab the door handle and give it a good twist, but it won't open."
-    "你抓住門把手用力擰，但就是打不開。"
+    "你抓住門把用力擰，但就是打不開。"
 
 # game/story/Chapter_L3.rpy:432
 translate Tchinese chapter_L3_arcade2_04f88594:
@@ -916,7 +916,7 @@ translate Tchinese chapter_L3_arcade2_67e843ff:
 translate Tchinese chapter_L3_arcade2_5cdf5803:
 
     # p "Well, how do you propose we go in?"
-    p "唉，那咱們怎麼進去呢？"
+    p "唉，那我們怎麼進去呢？"
 
 # game/story/Chapter_L3.rpy:445
 translate Tchinese chapter_L3_arcade2_93f06b72:
@@ -1144,7 +1144,7 @@ translate Tchinese chapter_L3_arcade2_4c641c11:
 translate Tchinese chapter_L3_arcade2_0881873f:
 
     # p "These footprints lead to behind the counter, let’s see what we can find."
-    p "這些腳印通向櫃臺後面，咱們過去看看。"
+    p "這些腳印通向櫃臺後面，我們過去看看。"
 
 # game/story/Chapter_L3.rpy:550
 translate Tchinese chapter_L3_arcade2_7def19bc:
@@ -1168,7 +1168,7 @@ translate Tchinese chapter_L3_arcade2_e6eb5f81:
 translate Tchinese chapter_L3_arcade2_1f49a96a:
 
     # p "Nothing down here. Help me search the cabinet."
-    p "沒有，幫我搬一下架子。"
+    p "下面啥都沒有，幫我搬一下架子。"
 
 # game/story/Chapter_L3.rpy:565
 translate Tchinese chapter_L3_arcade2_2132afee:
@@ -1198,7 +1198,7 @@ translate Tchinese chapter_L3_arcade2_88d91c80:
 translate Tchinese chapter_L3_arcade2_8ae812b5:
 
     # p neutral talk "Alright, let’s get out of here, Lucian?"
-    p neutral talk "行了，咱們撤吧，Lucian？"
+    p neutral talk "行了，我們撤吧，Lucian？"
 
 # game/story/Chapter_L3.rpy:580
 translate Tchinese chapter_L3_arcade2_823a529d:
@@ -1324,7 +1324,7 @@ translate Tchinese chapter_L3_arcade2_dbfd1749:
 translate Tchinese chapter_L3_arcade2_ca637711:
 
     # p question "What do we do now?"
-    p question "咱們現在怎麼辦？"
+    p question "我們現在怎麼辦？"
 
 # game/story/Chapter_L3.rpy:626
 translate Tchinese chapter_L3_arcade2_f5ab7041:
@@ -1450,7 +1450,7 @@ translate Tchinese chapter_L3_arcade2_547182bb:
 translate Tchinese chapter_L3_arcade2_aa4dcb6f:
 
     # Person_B "Shit man… We shouldn’t have gone for that cup of coffee."
-    Person_B "見鬼……咱們不該出去喝咖啡的。"
+    Person_B "見鬼……我們不該出去喝咖啡的。"
 
 # game/story/Chapter_L3.rpy:730
 translate Tchinese chapter_L3_arcade2_85ac7310:
@@ -1486,7 +1486,7 @@ translate Tchinese chapter_L3_arcade2_fdd71b47:
 translate Tchinese chapter_L3_arcade2_ad1afe6a:
 
     # p "We need to get out of here!"
-    p "咱們得離開這！"
+    p "我們得離開這！"
 
 # game/story/Chapter_L3.rpy:774
 translate Tchinese chapter_L3_arcade2_05b633fd:
@@ -1504,7 +1504,7 @@ translate Tchinese chapter_L3_arcade2_be7a3528:
 translate Tchinese chapter_L3_arcade2_3726d98a:
 
     # Person_B "Hey, you smell that? Smells like… a soul?"
-    Person_B "咦，你聞到了嗎？好像是……靈魂的味兒？"
+    Person_B "咦，你聞到了嗎？好像是……一個靈魂？"
 
 # game/story/Chapter_L3.rpy:791
 translate Tchinese chapter_L3_arcade2_aefe00e5:
@@ -1516,7 +1516,7 @@ translate Tchinese chapter_L3_arcade2_aefe00e5:
 translate Tchinese chapter_L3_arcade2_66facf7a:
 
     # Person_A "Man, that’s all you think about. We just got paid last week."
-    Person_A "天，麻煩你把心思放在正事上，咱們上週才剛領了工資。"
+    Person_A "天，麻煩你把心思放在正事上，我們上週才剛領了工資。"
 
 # game/story/Chapter_L3.rpy:797
 translate Tchinese chapter_L3_arcade2_dce8ca73:
@@ -1528,7 +1528,7 @@ translate Tchinese chapter_L3_arcade2_dce8ca73:
 translate Tchinese chapter_L3_arcade2_4cc1cf52:
 
     # Person_A "Damn right about that. This side’s clear, let’s check the counter."
-    Person_A "倒也是。這邊沒人，咱們去櫃臺看看。"
+    Person_A "倒也是。這邊沒人，我們去櫃臺看看。"
 
 # game/story/Chapter_L3.rpy:801
 translate Tchinese chapter_L3_arcade2_cf47316a:
@@ -1882,7 +1882,7 @@ translate Tchinese chapter_L3_apartment_aed034a2:
 translate Tchinese chapter_L3_apartment_7916e9a9:
 
     # p neutral talk "You think we can get back to the gate later?"
-    p neutral talk "那你覺得，咱們之後還能回去嗎？"
+    p neutral talk "那你覺得，我們之後還能回去嗎？"
 
 # game/story/Chapter_L3.rpy:1016
 translate Tchinese chapter_L3_apartment_d4164584:
@@ -2116,7 +2116,7 @@ translate Tchinese chapter_L3_apartment_7c74b8f9:
 translate Tchinese chapter_L3_apartment_b7d038a0:
 
     # p neutral "We have your H.A.L.O, we can still find the keys."
-    p neutral "只要你的H.A.L.O還在，咱們就能找到鑰匙。"
+    p neutral "只要你的H.A.L.O還在，我們就能找到鑰匙。"
 
 # game/story/Chapter_L3.rpy:1122
 translate Tchinese chapter_L3_apartment_a610967a:
@@ -2242,7 +2242,7 @@ translate Tchinese chapter_L3_apartment_2712d606:
 translate Tchinese chapter_L3_apartment_44087a1c:
 
     # p "Come on, I’m not saying it a third time, let’s eat!"
-    p "來吧，別讓我說第三遍，咱們開動！"
+    p "來吧，別讓我說第三遍，我們開動！"
 
 # game/story/Chapter_L3.rpy:1167
 translate Tchinese chapter_L3_apartment_c8b06d7e:
@@ -2440,7 +2440,7 @@ translate Tchinese chapter_L3_apartment_8adab418:
 translate Tchinese chapter_L3_apartment_a6c3919a:
 
     # T shocked "Wait… Shit, I have an appointment with Archon! I completely forgot the time! Aight, catch you guys later!"
-    T shocked "等一下……淦，我跟Archon約好了的！完全忘記時間了！好吧，咱們待會見！"
+    T shocked "等一下……操，我跟Archon約好了的！完全忘記時間了！好吧，我們待會見！"
 
 # game/story/Chapter_L3.rpy:1290
 translate Tchinese chapter_L3_apartment_612b1027:
@@ -2506,7 +2506,7 @@ translate Tchinese chapter_L3_apartment_b2445c2c:
 translate Tchinese chapter_L3_apartment_78be8bd0:
 
     # p @ nervous "How about this? We, uh, patrol inside the apartment tonight."
-    p @ nervous "要不這樣吧？咱們，呃，今晚在公寓裡巡邏。"
+    p @ nervous "要不這樣吧？我們，呃，今晚在公寓裡巡邏。"
 
 # game/story/Chapter_L3.rpy:1315
 translate Tchinese chapter_L3_apartment_950b16cf:
@@ -2542,13 +2542,13 @@ translate Tchinese chapter_L3_apartment_50810729:
 translate Tchinese chapter_L3_apartment_82875308:
 
     # L "Fine, I’ll humour you."
-    L "行吧，如你所願。"
+    L "好吧，如你所願。"
 
 # game/story/Chapter_L3.rpy:1373
 translate Tchinese chapter_L3_apartment_4b43932a:
 
     # p "Great, then let’s chow down and get ready to hit the hay."
-    p "太好了，咱們快吃，然後準備睡覺。"
+    p "太好了，我們快吃，然後準備睡覺。"
 
 # game/story/Chapter_L3.rpy:1330
 translate Tchinese chapter_L3_apartment_1644001e:
@@ -2566,7 +2566,7 @@ translate Tchinese chapter_L3_apartment_6d690b52:
 translate Tchinese chapter_L3_bed_f27c0893:
 
     # "For the first few minutes you lie in silence tapping your belly."
-    "頭幾分鐘，你只是靜靜躺在那裡，拍著自己的肚子。"
+    "前幾分鐘，你只是靜靜躺在那裡，拍著自己的肚子。"
 
 # game/story/Chapter_L3.rpy:1345
 translate Tchinese chapter_L3_bed_1f0a9ffa:
@@ -2686,7 +2686,7 @@ translate Tchinese chapter_L3_bed_04283b78:
 translate Tchinese chapter_L3_bed_e6e11444:
 
     # p "What if we ask Morris for some help?"
-    p "或許咱們可以向Morris求助？"
+    p "或許我們可以向Morris求助？"
 
 # game/story/Chapter_L3.rpy:1390
 translate Tchinese chapter_L3_bed_408c0e62:
@@ -2746,7 +2746,7 @@ translate Tchinese chapter_L3_bed_377ebb84:
 translate Tchinese chapter_L3_bed_f1c7cb7c:
 
     # p "Exactly, I don’t like it as much as you do, but we’re obviously stuck, and he might even know about who would be behind this."
-    p "我當然也不想這麼做，可咱們已經無計可施了啊。要問誰可能了解那些涉及神秘學的傢伙，大概只有他了。"
+    p "我當然也不想這麼做，可我們已經無計可施了啊。要問誰可能了解那些涉及神秘學的傢伙，大概只有他了。"
 
 # game/story/Chapter_L3.rpy:1409
 translate Tchinese chapter_L3_bed_6eb22102:
@@ -2920,7 +2920,7 @@ translate Tchinese chapter_L3_morning_c6b66478:
 translate Tchinese chapter_L3_morning_60efccc4:
 
     # "You’re stuck working for the rest of the day. To your horror, a promo sale is on today. A popular children’s video game that involves catching cute mascot characters is collaborating with a hotdog company."
-    "今天一天，你都在經營著店鋪。令你感到頭痛的是，今天店裡正在進行促銷活動。一款當下正火的，玩法是捕捉可愛吉祥物的兒童遊戲與一家熱狗公司展開了合作。"
+    "今天一天，你都在經營著店鋪。令你感到頭痛的是，今天店裡正在進行促銷活動。一款當下爆紅的，玩法是捕捉可愛吉祥物的兒童遊戲與一家熱狗公司展開了合作。"
 
 # game/story/Chapter_L3.rpy:1523
 translate Tchinese chapter_L3_morning_b3dba84d:
@@ -2986,7 +2986,7 @@ translate Tchinese chapter_L3_morris_aad223ff:
 translate Tchinese chapter_L3_morris_08f6c887:
 
     # p "Hehe— Let’s go before Morris closes up."
-    p "嘿嘿。那咱們出發吧，趁Morris關門之前。"
+    p "嘿嘿。那我們出發吧，趁Morris關門之前。"
 
 # game/story/Chapter_L3.rpy:1615
 translate Tchinese chapter_L3_morris_9ca21d35:
@@ -3208,7 +3208,7 @@ translate Tchinese chapter_L3_morris2_3c27ad9c:
 translate Tchinese chapter_L3_morris2_e3ab0631:
 
     # M "Give me a minute, I’m just working on recharging this watch… and no, it’s not working."
-    M "給我一分鐘，我在為這塊表充電……果然不行啊。"
+    M "給我一分鐘，我在為這塊錶充電……果然不行啊。"
 
 # game/story/Chapter_L3.rpy:1712
 translate Tchinese chapter_L3_morris2_892df4de:
@@ -3256,7 +3256,7 @@ translate Tchinese chapter_L3_morris2_82ed8277:
 translate Tchinese chapter_L3_morris2_fc295b45:
 
     # M "Well then it’s down to business. You guys came at a great time."
-    M "行，那咱們談正事吧，你們來得正是時候。"
+    M "行，那我們談正事吧，你們來得正是時候。"
 
 # game/story/Chapter_L3.rpy:1733
 translate Tchinese chapter_L3_morris2_e31335ca:
@@ -3334,7 +3334,7 @@ translate Tchinese chapter_L3_morris2_bfae4ca2:
 translate Tchinese chapter_L3_morris2_b5f37bf1:
 
     # M "This is a joke right? You two are trying to pull a prank or something?"
-    M "這是玩笑對吧？你們倆莫不是想整我？"
+    M "這是玩笑對吧？你們兩個難道是想整我？"
 
 # game/story/Chapter_L3.rpy:1773
 translate Tchinese chapter_L3_morris2_a6e754ef:
@@ -3364,7 +3364,7 @@ translate Tchinese chapter_L3_morris2_d5403270:
 translate Tchinese chapter_L3_morris2_3510d37c:
 
     # p nervous "Fuck."
-    p nervous "淦。"
+    p nervous "幹。"
 
 # game/story/Chapter_L3.rpy:1783
 translate Tchinese chapter_L3_morris2_40026209:
@@ -4348,7 +4348,7 @@ translate Tchinese chapter_L3_gin_2b3cf022:
 translate Tchinese chapter_L3_gin_072c2c11:
 
     # p "I don’t know if we can trust him. He did try to kill us."
-    p "真的能相信他嗎，他可是想殺了咱們啊。"
+    p "真的能相信他嗎，他可是想殺了我們啊。"
 
 # game/story/Chapter_L3.rpy:2554
 translate Tchinese chapter_L3_gin_02fcdee9:
@@ -4504,7 +4504,7 @@ translate Tchinese chapter_L3_gin_700b3f37:
 translate Tchinese chapter_L3_gin_d389a3ca:
 
     # M "Yes, they are my very enthusiastic customers, who followed me here… and reminded me I had to get something from you. Sure, there was a rocky introduction, but we can do business, can we not?"
-    M "沒錯，非常狂熱的客戶，一路尾隨我來到這裡……並提醒了我，我還有東西沒買。雖然這是次失敗的介紹，但不影響咱們做生意，對吧？"
+    M "沒錯，非常狂熱的客戶，一路尾隨我來到這裡……並提醒了我，我還有東西沒買。雖然這是次失敗的介紹，但不影響我們做生意，對吧？"
 
 # game/story/Chapter_L3.rpy:2646
 translate Tchinese chapter_L3_gin_3face0d8:
@@ -4953,7 +4953,7 @@ translate Tchinese chapter_L3_gin_afebb281:
 translate Tchinese chapter_L3_gin_477f8958:
 
     # M "Ok."
-    M "行。"
+    M "好。"
 
 # game/story/Chapter_L3.rpy:2864
 translate Tchinese chapter_L3_gin_6eb81fee:
@@ -5091,7 +5091,7 @@ translate Tchinese chapter_L3_gin_8e7577e1:
 translate Tchinese chapter_L3_gin_6ba84274:
 
     # p smile "You guys want to grab something to eat? Six Fans is probably still open, we could get take out."
-    p smile "你們要吃點什麼嗎？六扇門應該還開著，咱們可以叫外賣。"
+    p smile "你們要吃點什麼嗎？六扇門應該還開著，我們可以叫外賣。"
 
 # game/story/Chapter_L3.rpy:2968
 translate Tchinese chapter_L3_gin_2b268cd5:
