@@ -1,7 +1,7 @@
 ## [Itch20230317_TSR-24-pc](https://echoproject.itch.io/the-smoke-room/devlog/503621/the-smoke-room-build-24-murdoch-the-truth-in-masquerade):
 
->- ### Will Notebook
+>- ### Will Notebook and 簡繁的tidy-ups
 >
->其他補丁或檔案處理完後，最後再來弄這個坑
+>整理好的，可以直接置換
 >
->只取translate strings的部分，補在對應檔案就可以了
+>然後看有沒有好心人要救救cliffroute2.rpy，有缺翻譯，簡繁都缺，我臨時補在下面了，上面有照順序先註解掉，看習慣補哪一種
