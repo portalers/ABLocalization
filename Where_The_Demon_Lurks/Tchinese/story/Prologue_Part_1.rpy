@@ -172,7 +172,7 @@ translate Tchinese name_input_5776caf6:
 translate Tchinese name_input_34a77d75:
 
     # Ven "Yes and the other half on Earth when you should have been studying our rules and regulations."
-    Ven "沒有錯，另一半則是在人界，在您理應學習我們的規章制度的時候。"
+    Ven "沒有錯，另一半則是在人界，理應當是在您已經研讀過我們的規章制度的時候。"
 
 # game/story/Prologue_Part_1.rpy:125
 translate Tchinese name_input_f6dd4dff:
@@ -310,7 +310,7 @@ translate Tchinese name_input_dde85e23:
 translate Tchinese name_input_8fa1ca4a:
 
     # Ven "Now let’s begin the orientation. Do you remember what Form BTK-95 is for?"
-    Ven "現在我們開始培訓吧。您還記得BTK──95號表單的用途嗎？"
+    Ven "現在我們開始培訓吧。您還記得BTK-95號表單的用途嗎？"
 
 # game/story/Prologue_Part_1.rpy:171
 translate Tchinese name_input_2f1bb351:
@@ -1066,7 +1066,7 @@ translate Tchinese name_input_37b4afc2:
 translate Tchinese name_input_30c22953:
 
     # "Something shimmers and ripples like water in midair, revealing the last of your generals."
-    "空間開始如水一般泛起波瀾，你的將軍終於顯露了身形。"
+    "空間開始如水一般泛起波瀾，你的最後一位將軍終於顯露了身形。"
 
 # game/story/Prologue_Part_1.rpy:613
 translate Tchinese name_input_550e7be4:
@@ -1246,7 +1246,7 @@ translate Tchinese name_input_30357a95:
 translate Tchinese name_input_4d06a4fa:
 
     # Nox "How about a video with the gentle sounds of rain falling in the forest. Then we play {para}a very subtle recording, almost like a whisper, repeating the many terrible tortures {para}we do down here."
-    Nox "用森林中淅淅瀝瀝的雨聲製作一段影片如何？然後{para}不為人知地加入靈魂{para}受難的音效。"
+    Nox "用森林中淅淅瀝瀝的雨聲製作一段影片如何？然後{para}潛移默化地加入靈魂{para}受難的音效。"
 
 # game/story/Prologue_Part_1.rpy:704
 translate Tchinese name_input_0170c74d:

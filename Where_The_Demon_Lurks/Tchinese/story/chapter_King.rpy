@@ -1065,7 +1065,7 @@ translate Tchinese a_room_fit_for_king_6115f07d:
 translate Tchinese a_room_fit_for_king_1e9527cb:
 
     # "Things would be easier without a camera watching him, but his time in the convenience store has long taught him how to avoid such surveillance."
-    "如果沒有攝影機，事情就簡單多了，不過他在便利商店的日子教會了他如何避免這種監視。"
+    "如果沒有攝影機，事情就簡單多了，不過他在便利商店的日子讓他學會了他如何避免這種監視。"
 
 # game/story/chapter_King.rpy:529
 translate Tchinese a_room_fit_for_king_335ae17c:

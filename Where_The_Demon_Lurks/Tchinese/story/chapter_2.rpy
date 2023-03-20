@@ -112,7 +112,7 @@ translate Tchinese chapter_2_35903158:
 translate Tchinese chapter_2_70023c52:
 
     # Nox "I’m sorry my Lord, but you sent that custodian there just last week. Right {para}now there are only a handful of them left in this city now that most demons {para}have been relocated to serve in the torture zones."
-    Nox "很抱歉，殿下，那個管理員上週剛被您送了進去。現如今大部分職員{para}都發配到了拷問區任職，{para}這座城市只剩下為數不多的惡魔了。"
+    Nox "很抱歉，殿下，那個管理員上週剛被您送了進去。現在大部分職員{para}都發配到了拷問區任職，{para}這座城市只剩下為數不多的惡魔了。"
 
 # game/story/chapter_2.rpy:73
 translate Tchinese chapter_2_2dd1d8ca:
@@ -598,7 +598,7 @@ translate Tchinese chapter_2_e66c9ff0:
 translate Tchinese chapter_2_038dd0da:
 
     # "Vendrake has forced most businesses to close, especially if he deemed them unnecessary to the process of gathering soul energy."
-    "絕大部分生意沒能活過Vendrake的強制令，尤其是他認為對收集靈魂能量沒有幫助的那些。"
+    "絕大部分的小本生意沒能活過Vendrake的強制令，尤其是他認為對收集靈魂能量沒有幫助的那些。"
 
 # game/story/chapter_2.rpy:340
 translate Tchinese chapter_2_aea2fc1c:
@@ -790,7 +790,7 @@ translate Tchinese chapter_2_b9106873:
 translate Tchinese chapter_2_d5bf85d5:
 
     # I "I’d advise against looking for another place to eat around here, they’re all probably busy trying to meet the demands of the workforce on the torture floors."
-    I "我勸您別在附近找吃飯的地了，他們應該正忙著照顧拷問區的人呢。"
+    I "我勸您別在附近找吃飯的地方了，他們應該正忙著照顧拷問區的人呢。"
 
 # game/story/chapter_2.rpy:429
 translate Tchinese chapter_2_eef159e2:
@@ -1024,7 +1024,7 @@ translate Tchinese chapter_2_b55ac251:
 translate Tchinese chapter_2_44ad07c2:
 
     # K "The AC ducts, of course."
-    K "當然是空調管道囉。"
+    K "當然是空調管路囉。"
 
 # game/story/chapter_2.rpy:562
 translate Tchinese chapter_2_b5bdfe60:
@@ -1150,7 +1150,7 @@ translate Tchinese chapter_2_edbef850:
 translate Tchinese chapter_2_b8cee6b8:
 
     # p "Really? Can’t I just order the other staff to do these for me?"
-    p "不是吧？我能嫁禍給其他員工嗎？"
+    p "不是吧？我不能把這些嫁禍給其他員工嗎？"
 
 # game/story/chapter_2.rpy:610
 translate Tchinese chapter_2_dde1fd44:
@@ -1864,7 +1864,7 @@ translate Tchinese chapter_2_80fe0a44:
 translate Tchinese chapter_2_2663fb1e:
 
     # "Vendrake sits in front of his desk going through yet another demon’s written request for days off."
-    "Vendrake坐在他的辦公桌前，處理另一個惡魔的書面請假申請。"
+    "Vendrake坐在他的辦公桌前，處理另一個惡魔的請假申請文件。"
 
 # game/story/chapter_2.rpy:1061
 translate Tchinese chapter_2_aeca2ff7:
@@ -2122,7 +2122,7 @@ translate Tchinese chapter_2_d394e4f4:
 translate Tchinese chapter_2_2e9da05b:
 
     # Ven "So, Freelancer, it's on you now, I'll let you skip the paperwork and explain directly how it is that you failed."
-    Ven "那麼輪到你了，我允許你跳過文書工作，直接解釋你的失職。"
+    Ven "那麼輪到你了，我允許你跳過文書工作，現在就直接解釋你的失職。"
 
 # game/story/chapter_2.rpy:1201
 translate Tchinese chapter_2_01898d6c:
@@ -2524,7 +2524,7 @@ translate Tchinese chapter_2_9c267ffd:
 translate Tchinese chapter_2_2cdf08df:
 
     # Ven "I can send you back King, like nothing ever happened. I just ask that you help me finish the job. We’ll give you the tools you need, it won’t leave any mess."
-    Ven "我可以把你送回人界，King，就像什麼都沒發生過一樣。我只拜託你一件事：有了我們提供的工具，想必這也是輕而易舉的吧。"
+    Ven "我可以把你送回人界，King，就像什麼都沒發生過一樣。但我只想拜託你幫忙一件事：想必有了我們提供的工具，這個忙也是輕而易舉的吧。"
 
 # game/story/chapter_2.rpy:1394
 translate Tchinese chapter_2_eeaba634:

@@ -628,7 +628,7 @@ translate Tchinese prologue_part_2_ef40137b:
 translate Tchinese prologue_part_2_d914a872:
 
     # "His mouth and eyes contort into a wicked smile. A smile that makes you feel so small that you’re still just running in the palm of Vendrake’s hand."
-    "他扭曲出一幅邪惡的嘴臉，你不禁覺得自己很渺小，仍無法脫離Venddrake手掌心。"
+    "他扭曲出一幅邪惡的嘴臉，你不禁覺得自己很渺小，仍無法脫離Vendrake手掌心。"
 
 # game/story/Prologue_Part_2.rpy:445
 translate Tchinese prologue_part_2_35933bbc:
@@ -994,7 +994,7 @@ translate Tchinese prologue_part_2_d9709711:
 translate Tchinese prologue_part_2_32b9d4e3:
 
     # "He hears the sound of Vendrake opening a portal. Without saying anything, he cloaks himself in invisibility and retreats into the shadows."
-    "他聽到了Venddrake開啟傳送門的聲音。但他什麼也沒說，只是隱去身形，躲到了陰影裡。"
+    "他聽到了Vendrake開啟傳送門的聲音。但他什麼也沒說，只是隱去身形，躲到了陰影裡。"
 
 # game/story/Prologue_Part_2.rpy:839
 translate Tchinese prologue_part_2_d0494819:
@@ -1108,7 +1108,7 @@ translate Tchinese prologue_part_2_6c405e56:
 translate Tchinese prologue_part_2_505a1369:
 
     # Fort confused "Where’s your fire, boy? Where’s the demon that I trained when he was just in diapers?"
-    Fort confused "你的激情在哪裡，孩子？那個剛穿上尿布就跟我一起訓練的惡魔跑哪裡去了？"
+    Fort confused "你的激情在哪裡，孩子？那個才剛穿上尿布就想跟我一起訓練的惡魔跑哪裡去了？"
 
 # game/story/Prologue_Part_2.rpy:932
 translate Tchinese prologue_part_2_22909b3d:
@@ -1240,7 +1240,7 @@ translate Tchinese prologue_part_2_8a99b12f:
 translate Tchinese prologue_part_2_77cf9513:
 
     # p talk neutral "Fortis, Amare, thanks for worrying about me. I think… I have to think long and hard about all this."
-    p talk neutral "Fortis，Amare，謝謝你們為我操心。我想……我需要好好考慮一下。"
+    p talk neutral "Fortis、Amare，謝謝你們為我操心。我想……我需要好好考慮一下。"
 
 # game/story/Prologue_Part_2.rpy:1022
 translate Tchinese prologue_part_2_a2524adc:
@@ -1390,7 +1390,7 @@ translate Tchinese prologue_part_2_cf6ea636:
 translate Tchinese prologue_part_2_e601d514:
 
     # "Vendrake points the blue sphere at you and a bolt of lightning fires forth, the blast moving with such speed you have no time to move."
-    "Vendrake用藍色寶珠指向你，一道電光射出，其速度之快令你無從閃避。"
+    "Vendrake用變化成藍色的寶珠指向你，一道電光射出，其速度之快令你無從閃避。"
 
 # game/story/Prologue_Part_2.rpy:1491
 translate Tchinese prologue_part_2_12c2c756:

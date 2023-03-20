@@ -70,7 +70,7 @@ translate Tchinese chapter_1_8d3deb33:
 translate Tchinese chapter_1_17f0acfe:
 
     # "You flip the container over, it’s a meal labeled Bro Broccoli Supreme..."
-    "你把微波食品翻過來，發現這只是一份至尊花椰菜牌的普通餐食……"
+    "你把微波食品翻過來，發現還好這是一份至尊花椰菜牌的普通餐食……"
 
 # game/story/Chapter_1.rpy:72
 translate Tchinese chapter_1_fefd2e31:
@@ -106,7 +106,7 @@ translate Tchinese chapter_1_fec32efc:
 translate Tchinese chapter_1_32484e9f:
 
     # "Rip, scrunch, thud. You visibly slump as you tear off and dispose of the useless receipt."
-    "撕開，揉成一團，扔。你處理掉無用的收據，然後重重地癱坐到椅子上。"
+    "撕開，揉成一團，扔。\n你處理掉無用的收據，然後重重地癱坐到椅子上。"
 
 # game/story/Chapter_1.rpy:95
 translate Tchinese chapter_1_b8e51343:
@@ -124,7 +124,7 @@ translate Tchinese chapter_1_94643316:
 translate Tchinese chapter_1_74aa0dc6:
 
     # "The digital clock shows it’s fifteen minutes to twelve. Your shift is about to end."
-    "螢幕上的數字顯示十一點四十五。你的上班時間即將結束。"
+    "螢幕上的數字再過十五分鐘後就是十二點整了。你的上班時間即將結束。"
 
 # game/story/Chapter_1.rpy:102
 translate Tchinese chapter_1_7910969d:
@@ -328,7 +328,7 @@ translate Tchinese chapter_1_13d5c299:
 translate Tchinese chapter_1_11b36c30:
 
     # "King talks to the brother about the day’s money bag handover while you head to the back to pack your things."
-    "你去後面收拾東西的時候，聽到King在向哥哥交代今天的交接事宜。"
+    "你去後面收拾東西的時候，聽到King在向兄妹中的哥哥交代今天的交接事宜。"
 
 # game/story/Chapter_1.rpy:231
 translate Tchinese chapter_1_55580bc9:
@@ -628,7 +628,7 @@ translate Tchinese chapter_1_cc2ec16f:
 translate Tchinese chapter_1_0b841f3c:
 
     # "Makes it hard for even a demon like yourself to find a public restroom."
-    "高位惡魔如你甚至都找不到公共廁所。"
+    "惡魔中的魔王如你甚至都找不到公共廁所。"
 
 # game/story/Chapter_1.rpy:389
 translate Tchinese chapter_1_566e7671:
@@ -754,7 +754,7 @@ translate Tchinese chapter_1_8bf3122f:
 translate Tchinese chapter_1_fe52367a:
 
     # p "Sure, sure. Thank you, but I am fine with my destiny. Now. Please. Move. Aside."
-    p "謝了，不過我對我的命運很滿意。現在，請，你們，讓開。"
+    p "謝了，不過我對我的命運很滿意。現在、請、你們，讓開。"
 
 # game/story/Chapter_1.rpy:463
 translate Tchinese chapter_1_748b9b05:
@@ -1528,13 +1528,13 @@ translate Tchinese chapter_1_d5190d19:
 translate Tchinese chapter_1_01ab796a:
 
     # "It’s one of Amare’s extra appendages."
-    "好像是Amare的副肢。"
+    "好像是Amare其中一隻多的附肢。"
 
 # game/story/Chapter_1.rpy:890
 translate Tchinese chapter_1_08b97a86:
 
     # Fort "{i}Wait, if he’s hiding in there, that means he shouldn’t be here.{/i}"
-    Fort "{i}等等，他躲了起來，也就是說這裡不是他該待的地方。{/i}"
+    Fort "{i}等等，如果說他在這邊躲了起來，也就是說這裡不是他該待的地方。{/i}"
 
 # game/story/Chapter_1.rpy:893
 translate Tchinese chapter_1_bf3bd181:
@@ -1564,7 +1564,7 @@ translate Tchinese chapter_1_afd0254e:
 translate Tchinese chapter_1_ab93d831:
 
     # Amar angry "Fahrenheit!"
-    Amar angry "靠夭！"
+    Amar angry "靠北過日子！"
 
 # game/story/Chapter_1.rpy:977
 translate Tchinese chapter_1_a31a5c20:
@@ -1606,7 +1606,7 @@ translate Tchinese chapter_1_48ec8555:
 translate Tchinese chapter_1_ba571bb8:
 
     # Fort neutral1 "What were you doing down there? Looking for inspiration for the new projects Vendrake has got you on?"
-    Fort neutral1 "你在這裡幹什麼？為Vendrake交給你的新案找靈感嗎？"
+    Fort neutral1 "你在這裡幹什麼？想找Vendrake委任你的新案子靈感嗎？"
 
 # game/story/Chapter_1.rpy:989
 translate Tchinese chapter_1_15ba3f82:
@@ -1618,7 +1618,7 @@ translate Tchinese chapter_1_15ba3f82:
 translate Tchinese chapter_1_df39472b:
 
     # Amar "As if, I just needed some place where Vendrake’s goons can’t find me. They keep hovering over me while I work."
-    Amar "差不多吧，我需要一個獨處的空間，Vendrake那群嘍囉跟蒼蠅一樣黏著我不放。"
+    Amar "差不多吧，我需要一個獨處的空間，Vendrake的那群嘍囉跟蒼蠅一樣黏著我不放。"
 
 # game/story/Chapter_1.rpy:945
 translate Tchinese chapter_1_f2f0a30e:
@@ -1630,7 +1630,7 @@ translate Tchinese chapter_1_f2f0a30e:
 translate Tchinese chapter_1_3ba71097:
 
     # Amar neutral "Easy, I painted my face on a sack of bolts and played a tape of me knocking metal."
-    Amar neutral "很簡單，我把我的帥臉畫在了一袋螺栓上，再配合播放錄有打鐵聲音的磁帶。"
+    Amar neutral "很簡單，我把我的帥臉畫在了一袋螺栓上，然後再配合播放錄有打鐵聲音的錄音帶。"
 
 # game/story/Chapter_1.rpy:993
 translate Tchinese chapter_1_644e87f9:
@@ -1678,7 +1678,7 @@ translate Tchinese chapter_1_4ec29510:
 translate Tchinese chapter_1_cb8401c3:
 
     # Amar "Here."
-    Amar "諾。"
+    Amar "諾，這裡。"
 
 # game/story/Chapter_1.rpy:965
 translate Tchinese chapter_1_7d1fc863:
@@ -1804,7 +1804,7 @@ translate Tchinese chapter_1_b748a722:
 translate Tchinese chapter_1_b00d8925:
 
     # "This time you’re hooked on a series of videos about people going around visiting haunted houses. They even show scenes of them supposedly getting haunted by spirits and demons."
-    "你最近迷上了去鬼屋探險的影片，其中不乏據說有鬼魂與惡魔作祟的畫面。"
+    "你最近迷上了鬼屋探險的影片，其中不乏存在據說有鬼魂與惡魔作祟的畫面。"
 
 # game/story/Chapter_1.rpy:1037
 translate Tchinese chapter_1_51a11265:
@@ -2158,7 +2158,7 @@ translate Tchinese chapter_1_b78d5694:
 translate Tchinese chapter_1_9f2e9dbc:
 
     # "Your hunter rests his chin on his hand with a confused expression."
-    "‘獵人’用手托住下巴，露出不解的表情。"
+    "尋獵你的人現在用手托住下巴，露出不解的表情看這眼前的突發狀況。"
 
 # game/story/Chapter_1.rpy:1291
 translate Tchinese chapter_1_4a311394:
@@ -3448,7 +3448,7 @@ translate Tchinese chapter_1_1ec962d1:
 translate Tchinese chapter_1_868502c6:
 
     # "Your sleepy eyes widen and you tap your reply back."
-    "你睡眼惺忪地回復了他一個豎著大拇指的獅子表情。"
+    "你在睡眼惺忪中回復了他一個：豎著大拇指的獅子表情。"
 
 # game/story/Chapter_1.rpy:2352
 translate Tchinese chapter_1_46d73b85:
@@ -3562,7 +3562,7 @@ translate Tchinese ch1_cleanup_0fa4bd7f:
 translate Tchinese ch1_cleanup_98f585dd:
 
     # p smile "Ah, my weekly laundry pile. Ready for your shower, my love?"
-    p smile "啊，髒衣服們，一週過去了，想爸爸沒有？"
+    p smile "啊，髒衣服們，一週過去了，想爸爸幫你們洗洗澡了嗎？"
 
 # game/story/Chapter_1.rpy:2397
 translate Tchinese ch1_cleanup_6df4f253:
@@ -3604,7 +3604,7 @@ translate Tchinese ch1_cleanup_d7397e64:
 translate Tchinese ch1_cleanup_f32783f7:
 
     # "Probably one of the many items you have bought on impulse over the years."
-    "多半是衝動消費的產物，之一。"
+    "多半是過往無數次衝動消費的產物，之一。"
 
 # game/story/Chapter_1.rpy:2411
 translate Tchinese ch1_cleanup_558668a5:
@@ -3778,7 +3778,7 @@ translate Tchinese ch1_cleanup_db8e260d:
 translate Tchinese ch1_cleanup_a33f1fae:
 
     # "Sighing in defeat, you disassemble the tower manually and throw the cups away."
-    "挫敗感油然而生，你嘆了口氣，只得親自拆除那些‘違章建築’。"
+    "挫敗感油然而生，你嘆了口氣，只得親自拆除那些泡麵塔的‘違章建築’。"
 
 # game/story/Chapter_1.rpy:2492
 translate Tchinese ch1_cleanup_697b9a49:
@@ -4006,7 +4006,7 @@ translate Tchinese ch1_cleanup_138208e3:
 translate Tchinese ch1_cleanup_d624c3ea:
 
     # L sad "What can be more important than the fate of both our companies?"
-    L sad "還有什麼比我們兩家公司的命運更重要的？"
+    L sad "還有什麼會比我們兩家公司的未來更重要的？"
 
 # game/story/Chapter_1.rpy:2626
 translate Tchinese ch1_cleanup_9ca55b23:
@@ -4336,7 +4336,7 @@ translate Tchinese ch1_cleanup_8e8bea36:
 translate Tchinese ch1_cleanup_0cc3cdcc:
 
     # L "Look, I don’t know what happened to you that got you kicked out of the Underworld, and quite honestly, I don’t care; however, Gary thinks you are the person to set things right."
-    L "我不知道你是怎麼被趕出冥界的，說實話，也沒有興趣知道。但是，Gary認為只有你可以把問題糾正回來。"
+    L "我不知道你是怎麼被趕出冥界的，不過說實話，也沒有興趣知道。但是，Gary認為只有你可以把問題糾正回來。"
 
 # game/story/Chapter_1.rpy:2829
 translate Tchinese ch1_cleanup_8c5922cb:
@@ -4540,7 +4540,7 @@ translate Tchinese ch1_cleanup_022b7602:
 translate Tchinese ch1_cleanup_61cdde57:
 
     # "You also see a single coffee table in the middle of the living room, probably where you guys will be eating tonight."
-    "客廳中間還有一張茶几，可能是你們今晚吃飯的地方。"
+    "客廳中間還有一張茶几，今晚吃飯你們可能會在這邊。"
 
 # game/story/Chapter_1.rpy:2924
 translate Tchinese ch1_cleanup_99c6652d:
@@ -5410,7 +5410,7 @@ translate Tchinese ch1_cleanup_a1331edc:
 translate Tchinese ch1_cleanup_7f79ca53:
 
     # Gho "Finally, that string bean is gone. You mind passing me a bag of chips?"
-    Gho "那根豆芽菜可算消失了，給我袋洋芋片行嗎？"
+    Gho "那根豆芽菜可算消失了，給我袋洋芋片可以吧？"
 
 # game/story/Chapter_1.rpy:3347
 translate Tchinese ch1_cleanup_4f3232c3:
@@ -5482,7 +5482,7 @@ translate Tchinese ch1_cleanup_c3c42b0c:
 translate Tchinese ch1_cleanup_2d59fcd2:
 
     # T annoyed "Watch the tone, tubby. It was freaking hard tracking you down with your funky scent."
-    T annoyed "注意你的語氣，胖子，我可是好不容易才聞見你的味道，你身上也太奇怪了。"
+    T annoyed "注意你的語氣，胖子，我可是好不容易才尋嗅到你的味道，你身上也太奇怪了。"
 
 # game/story/Chapter_1.rpy:3401
 translate Tchinese ch1_cleanup_57b0758e:
@@ -5788,13 +5788,13 @@ translate Tchinese ch1_cleanup_7e4da45d:
 translate Tchinese ch1_cleanup_88e5f571:
 
     # M serious "Yes, {i}you{/i}, you’re the last one in this place. The ghost might have left some nasty curse on you, or worse… maybe you’re possessed."
-    M serious "沒錯，就是{i}你{/i}，你剛剛一個人待在這裡吧。那個幽靈可能給你下了惡毒的詛咒，甚至……附在你身上。"
+    M serious "沒錯，就是{b}你{/b}，你剛剛一個人待在這裡吧。那個幽靈可能給你下了惡毒的詛咒，甚至……附在你身上。"
 
 # game/story/Chapter_1.rpy:3607
 translate Tchinese ch1_cleanup_c6d161a1:
 
     # p annoyed "I am {i}not{/i} possessed."
-    p annoyed "我{i}沒有{/i}被附身。"
+    p annoyed "我{b}沒有{/b}被附身。"
 
 # game/story/Chapter_1.rpy:3609
 translate Tchinese ch1_cleanup_eb570cce:
@@ -6346,7 +6346,7 @@ translate Tchinese ch1_cleanup_af750d25:
 translate Tchinese ch1_cleanup_575a6276:
 
     # K "Woah, an exorcist in search of a valuable treasure. That’s the perfect premise for an anime, but why here of all places?"
-    K "哇，一位尋寶的驅魔師，多好的動畫素材啊。可為什麼偏偏是這裡呢？"
+    K "哇，一位尋寶的驅魔師，可以成為多好的動畫素材啊。但為什麼偏偏要選這裡呢？"
 
 # game/story/Chapter_1.rpy:4083
 translate Tchinese ch1_cleanup_5f0a6e92:
@@ -6598,7 +6598,7 @@ translate Tchinese ch1_cleanup_f2a49813:
 translate Tchinese ch1_cleanup_77c2a70f:
 
     # "The first thing you were ever taught as a Demon Lord was to see the interconnected threads of fate that connected mortal lives."
-    "身為魔王，你上的第一課便是洞悉與凡人的性命密不可分的命運線。"
+    "身為魔王，你被教的第一課就是：洞悉與凡人的性命密不可分的命運線。"
 
 # game/story/Chapter_1.rpy:4222
 translate Tchinese ch1_cleanup_2cd01ed9:
@@ -6670,7 +6670,7 @@ translate Tchinese ch1_cleanup_85cfa81e:
 translate Tchinese ch1_cleanup_d341c325:
 
     # p "Other than more wishes? Hmm, I don’t know. What about you?"
-    p "許更多的願望？嗯……想不到，你呢？"
+    p "大概是希望可以許更多的願望的願望吧？嗯……想不到，你呢？"
 
 # game/story/Chapter_1.rpy:4248
 translate Tchinese ch1_cleanup_c704ef88:

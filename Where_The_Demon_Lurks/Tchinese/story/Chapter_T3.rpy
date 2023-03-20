@@ -484,7 +484,7 @@ translate Tchinese chapter_T3_store_790757fa:
 translate Tchinese chapter_T3_store_1db2f962:
 
     # p neutral "Sir, I’m sure that would have been for a different promotion. We can’t do that with a random draw."
-    p neutral "我想那是不同的促銷活動，先生，我們這裡是隨機的。"
+    p neutral "我想那是不同的促銷活動，先生，我們這裡只能是隨機的。"
 
 # game/story/Chapter_T3.rpy:267
 translate Tchinese chapter_T3_store_2321ab82:
@@ -970,7 +970,7 @@ translate Tchinese chapter_T3_store_f977b523:
 translate Tchinese chapter_T3_store_ca816fb5:
 
     # "He shakes and pulls your cheeks like playdough."
-    "他像玩橡皮泥一樣揉搓你的臉頰。"
+    "他像玩培樂多黏土一樣揉搓你的臉頰。"
 
 # game/story/Chapter_T3.rpy:535
 translate Tchinese chapter_T3_store_59be7e3e:
@@ -1660,7 +1660,7 @@ translate Tchinese chapter_T3_store_d67b5f06:
 translate Tchinese chapter_T3_store_328e831c:
 
     # p sad "I was thinking that too, but he would want me to take up my old job."
-    p sad "我也這麼想。但那樣做的話，我就得答應他回去幹老本行。"
+    p sad "我也這麼想。但那樣做的話，我就得答應他回去幹我的老本行。"
 
 # game/story/Chapter_T3.rpy:814
 translate Tchinese chapter_T3_store_137719c3:
@@ -1978,7 +1978,7 @@ translate Tchinese chapter_T3_store_1301da33:
 translate Tchinese chapter_T3_store_83dc0e7a:
 
     # "You breathe a sigh of relief at his success. Grabbing some utensils from the counter you join the ghost inside."
-    "你見狀鬆了口氣，從收銀台上拿起餐具，去裡面與幽靈會和。"
+    "你見狀鬆了口氣，從收銀台上拿起餐具，去裡面與幽靈會合。"
 
 # game/story/Chapter_T3.rpy:1014
 translate Tchinese chapter_T3_store_9b421186:
@@ -2074,7 +2074,7 @@ translate Tchinese chapter_T3_store_714283e0:
 translate Tchinese chapter_T3_store_7d2cb7ee:
 
     # p neutral "Perhaps the puppet can only suppress a ghosts’ desires to a certain extent. It’s not a foolproof solution."
-    p neutral "看來那個木偶並不能完全抑制住幽靈的欲望，就沒有一萬無一失的解決方案嗎。"
+    p neutral "看來那個木偶並不能完全抑制住幽靈的欲望，難道就沒有一個能萬無一失的解決方案嗎。"
 
 # game/story/Chapter_T3.rpy:1066
 translate Tchinese chapter_T3_store_dc37494b:
@@ -2158,7 +2158,7 @@ translate Tchinese chapter_T3_store_eb0f1c7e:
 translate Tchinese chapter_T3_store_cfd202ce:
 
     # p @ annoyed "I’m not giving him alcohol. Doubt that one bottle will be enough to get that uptight angel to loosen up."
-    p @ annoyed "那我也不會給他送酒的，再說一瓶酒也很難安撫一個憤怒中的天使。"
+    p @ annoyed "那我也不會給他送酒的，再說一瓶酒也大概也很難去安撫一個正在憤怒中的天使。"
 
 # game/story/Chapter_T3.rpy:1087
 translate Tchinese chapter_T3_store_7892d2c9:
@@ -2470,7 +2470,7 @@ translate Tchinese chapter_T3_lucian_0c810c27:
 translate Tchinese chapter_T3_lucian_8d0ab3bc:
 
     # M nervous "I get his reaction, the amount of calories scares me too, yet they are so irresistible nonetheless."
-    M nervous "我懂你的心情，那是令我也感到害怕的卡路里炸彈，但它實在太難以抗拒了。"
+    M nervous "我懂你的心情，那是令我也感到害怕的卡路里炸彈，但蛋糕實在太難以抗拒了。"
 
 # game/story/Chapter_T3.rpy:1233
 translate Tchinese chapter_T3_lucian_f92ed0be:
@@ -2542,7 +2542,7 @@ translate Tchinese chapter_T3_lucian_e3b9f4c0:
 translate Tchinese chapter_T3_lucian_bf0e2fc0:
 
     # M "That’s a beauty, make me one, I'll trade you this shiny coin I found."
-    M "真好看，給我也做一個吧，我用我找到的這枚亮閃閃的硬幣和你交換。"
+    M "真好看，給我也做一個吧，我可以用我找到的，這枚亮閃閃的硬幣和你交換。"
 
 # game/story/Chapter_T3.rpy:1268
 translate Tchinese chapter_T3_lucian_f7aa9d04:
@@ -2602,7 +2602,7 @@ translate Tchinese chapter_T3_lucian_b87016ac:
 translate Tchinese chapter_T3_lucian_0533a53e:
 
     # L "Excuse me? What is this about a king?"
-    L "什麼？這和King有什麼關係？"
+    L "什麼？這和國王有什麼關係？"
 
 # game/story/Chapter_T3.rpy:1288
 translate Tchinese chapter_T3_lucian_6ddeb007:
@@ -2704,13 +2704,13 @@ translate Tchinese chapter_T3_lucian_108434ae:
 translate Tchinese chapter_T3_lucian_7ef3fd35:
 
     # L "Say that I do go along with this, why would you want to use Toast's plan in the first place when I have the device to locate an Underworld Gate?"
-    L "就算我同意了，你為何先要啟用Toast的計劃？明明我有定位冥界之門的設備？"
+    L "就算我同意，但為何要先執行Toast的計劃？明明我就有可以定位冥界之門的設備？"
 
 # game/story/Chapter_T3.rpy:1308
 translate Tchinese chapter_T3_lucian_d0fa3d7c:
 
     # T doubt "Is that like a house gate?"
-    T doubt "那是房門之類的東西嗎？"
+    T doubt "那是房屋大門之類的東西嗎？"
 
 # game/story/Chapter_T3.rpy:1309
 translate Tchinese chapter_T3_lucian_1018e67a:
@@ -2824,7 +2824,7 @@ translate Tchinese chapter_T3_lucian_377ebb84:
 translate Tchinese chapter_T3_lucian_066c06e0:
 
     # p question "Back to the question. Will you help us? Look into your heart and consider my selfish request."
-    p question "回到剛才的問題上。你願意幫助我們嗎？求求你了，答應我這個自私的請求吧。"
+    p question "回到剛才的問題上。你願意幫助我們嗎？求求你了，請你答應我這個自私的請求吧。"
 
 # game/story/Chapter_T3.rpy:1333
 translate Tchinese chapter_T3_lucian_6a7e3f2a:
@@ -2854,7 +2854,7 @@ translate Tchinese chapter_T3_lucian_d4e756d9:
 translate Tchinese chapter_T3_lucian_8e4c291f:
 
     # L "And you do make a point that you aren't that capable at all."
-    L "而且你確實表明了自己能力的不足。"
+    L "而且你們確實表明你們真的沒辦法。"
 
 # game/story/Chapter_T3.rpy:1339
 translate Tchinese chapter_T3_lucian_63063c5b:
@@ -2872,7 +2872,7 @@ translate Tchinese chapter_T3_lucian_e5245d28:
 translate Tchinese chapter_T3_lucian_54bb4bde:
 
     # L "But… I deserve better than being benched until something troublesome happens."
-    L "但我還是覺得……我應該得到重用，而不是坐在冷板凳上。"
+    L "但我還是覺得……我應該得到重用，而不是坐在冷板凳上等到麻煩來臨。"
 
 # game/story/Chapter_T3.rpy:1343
 translate Tchinese chapter_T3_lucian_06eae353:
@@ -3022,7 +3022,7 @@ translate Tchinese chapter_T3_lucian_3d1e3034:
 translate Tchinese chapter_T3_lucian_09acedea:
 
     # L @ angry "Besides, don’t mistake my cooperation with accepting your presence. Try to betray us and I will end you."
-    L @ angry "此外，不要把我的合作誤認為是對你的容忍。敢背叛我們，我就殺了你。"
+    L @ angry "此外，不要把我的合作誤認為是對你的容忍。敢背叛我們，我就殺了你，幽靈。"
 
 # game/story/Chapter_T3.rpy:1439
 translate Tchinese chapter_T3_lucian_b5948ee6:
@@ -3034,7 +3034,7 @@ translate Tchinese chapter_T3_lucian_b5948ee6:
 translate Tchinese chapter_T3_lucian_2f517942:
 
     # p "Just let it go Toast, none of them are interested."
-    p "算了吧，Toast，反正他們也沒有興趣。"
+    p "算了吧，Toast，反正他們也都沒有興趣。"
 
 # game/story/Chapter_T3.rpy:1442
 translate Tchinese chapter_T3_lucian_ad207e46:
@@ -3202,7 +3202,7 @@ translate Tchinese chapter_T3_lucian_917cf532:
 translate Tchinese chapter_T3_lucian_2332edb7:
 
     # T "Haha, those noodles are mine!"
-    T "哈哈，面是我的啦！"
+    T "哈哈，麵是我的啦！"
 
 # game/story/Chapter_T3.rpy:1508
 translate Tchinese chapter_T3_lucian_8540f937:
@@ -3472,7 +3472,7 @@ translate Tchinese chapter_T3_vendrake_6d04c433:
 translate Tchinese chapter_T3_vendrake_ba30a0c9:
 
     # "Today you’re working a night shift and have the morning off— the perfect chance to sleep in and shake off your mounting exhaustion. You aren’t sure what time it is, but you just don’t want to open your eyes."
-    "今天你上夜班，是一個擺脫近日積攢下來的疲憊的絕佳機會。你不知道現在幾點，反正你不想睜開眼睛。"
+    "今天你上夜班，是一個擺脫近日積攢下來的疲憊的絕佳機會。你不知道現在幾點，反正你就是不想睜開眼睛。"
 
 # game/story/Chapter_T3.rpy:1606
 translate Tchinese chapter_T3_vendrake_42e26422:
@@ -4072,7 +4072,7 @@ translate Tchinese chapter_T3_freelancer_357ff39e:
 translate Tchinese chapter_T3_freelancer_9545962f:
 
     # Simulda "I didn't, I was just asking around for witnesses. I must say, the last Freelancer did a terrible job at describing you to the sketch artist, [name]."
-    Simulda "不不，我只是在四處尋找目擊者。不得不說，在向素描師描述你的長相這方面，上一任自業者做得可太差勁了，[name]。"
+    Simulda "不不，我只是在四處尋找目擊者。不得不說，在向素描師描述你的長相這方面，之前那位自業者做得可太差勁了，[name]。"
 
 # game/story/Chapter_T3.rpy:1861
 translate Tchinese chapter_T3_freelancer_76942f5b:
@@ -4132,7 +4132,7 @@ translate Tchinese chapter_T3_freelancer_379c3e4a:
 translate Tchinese chapter_T3_freelancer_b34a671b:
 
     # p annoyed "No, it's just everyone can do real magic, so sleight of hand street tricks aren’t very impressive."
-    p annoyed "不，只是大家都會真正的魔法，所以街頭把戲這套很無聊。"
+    p annoyed "不，只是大家都會真正的魔法，所以街頭把戲很沒什麼看點。"
 
 # game/story/Chapter_T3.rpy:1873
 translate Tchinese chapter_T3_freelancer_79dd9088:
@@ -4348,7 +4348,7 @@ translate Tchinese chapter_T3_freelancer_d7bc1e5d:
 translate Tchinese chapter_T3_freelancer_f7c5d32a:
 
     # "Toast yanks out the cards, dropping onto the ground with a clank."
-    "Toast一把扯出卡片，叮噹一聲扔到地上。"
+    "Toast一把扯出卡片，哐啷一聲扔到地上。"
 
 # game/story/Chapter_T3.rpy:2008
 translate Tchinese chapter_T3_freelancer_f8f0ca74:
@@ -4570,7 +4570,7 @@ translate Tchinese chapter_T3_freelancer_eb78c8c9:
 translate Tchinese chapter_T3_freelancer_a5d1b128:
 
     # "Your friend leaps back clutching his trembling limb."
-    "你的朋友捂著顫抖的拳頭向後跳去。"
+    "Toast捂著顫抖的拳頭向後跳去。"
 
 # game/story/Chapter_T3.rpy:2373
 translate Tchinese chapter_T3_freelancer_be3cb6fd:
@@ -5530,7 +5530,7 @@ translate Tchinese chapter_T3_ending_32dc8333:
 translate Tchinese chapter_T3_ending_e12691fb:
 
     # FF2 "\"Tapos, ewan, winish ko lang naman na sana maging internet famous ako, kahit konti\" (Then, I dunno, I was just wishing that I could be internet famous, even just a little.)"
-    FF2 "Tapos， ewan， winish ko lang naman na sana maging internet famous ako， kahit konti（然後，我不知道，我就是想在網路上受歡迎一點，哪怕一點點也好。）"
+    FF2 "Tapos， ewan， winish ko lang naman na sana maging internet famous ako， kahit konti（然後，我不知道，我就是想在網路上多受歡迎一點，哪怕一點點也好。）"
 
 # game/story/Chapter_T3.rpy:3331
 translate Tchinese chapter_T3_ending_b2e68df4:

@@ -168,11 +168,11 @@ translate Tchinese strings:
 
     # game/script.rpy:88
     old "Lady{#speakingName}"
-    new "淑女{#speakingName}"
+    new "女觀眾{#speakingName}"
 
     # game/script.rpy:89
     old "Dude{#speakingName}"
-    new "紳士{#speakingName}"
+    new "男觀眾{#speakingName}"
 
     # game/script.rpy:90
     old "Simulda{#speakingName}"

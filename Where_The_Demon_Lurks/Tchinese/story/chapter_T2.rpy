@@ -688,7 +688,7 @@ translate Tchinese chapter_T2_929338cf:
 translate Tchinese chapter_T2_3d053811:
 
     # T @ smile "Yeah, when you have all that time down there, you come up with the best names."
-    T @ smile "是啊，下面的時間多得很，總能想到個好聽點的。"
+    T @ smile "是啊，在下面的時間那麼多，總會想到個好聽點的。"
 
 # game/story/chapter_T2.rpy:426
 translate Tchinese chapter_T2_ef8c33a7:
@@ -1072,7 +1072,7 @@ translate Tchinese chapter_T2_374a3589:
 translate Tchinese chapter_T2_6f1f079b:
 
     # "You groan as your hand falls to the side. A burning pain emanates from your palm much like the aftermath of forcing a torrent of water through a pinhole."
-    "你吃痛地垂下手臂，灼熱從你的手掌散發出來，如同有一股洪流強行擠過一個針孔。"
+    "你吃痛地垂下手臂，灼熱脹痛從你的手掌散發出來，如同有一股洪流強行擠過一個針孔。"
 
 # game/story/chapter_T2.rpy:643
 translate Tchinese chapter_T2_547063fb:
@@ -1132,7 +1132,7 @@ translate Tchinese chapter_T2_6e8bd4ad:
 translate Tchinese chapter_T2_5729085b:
 
     # "You head for your usual cafe."
-    "你瞄準了常去的咖啡館。"
+    "你掉頭就往了常去的咖啡館前進。"
 
 # game/story/chapter_T2.rpy:692
 translate Tchinese chapter_T2_c1e1b9f3:
@@ -1618,7 +1618,7 @@ translate Tchinese chapter_T2_07704e6f:
 translate Tchinese chapter_T2_e5bed318:
 
     # p "Even if I’m not directly involved, I will acknowledge that the judgement system is the extension of the Demon Lord’s will, of my will."
-    p "我從未直接參與其中，但我承認，那個系統是魔王意志的延伸，是我意志的延伸。"
+    p "我從未直接參與其中，但我承認，那個系統就是魔王意志的延伸，也是我意志的延伸。"
 
 # game/story/chapter_T2.rpy:871
 translate Tchinese chapter_T2_a78a7936:
@@ -1882,13 +1882,13 @@ translate Tchinese chapter_T2_f03641e7:
 translate Tchinese chapter_T2_423a9f6e:
 
     # "While you eat, you manage to keep Toast busy with a video on your phone."
-    "你用手機上的影片吸引住Toast，然後靜靜吃完剩下的冷餐。"
+    "你用手機上的影片吸引住Toast，然後靜靜吃完剩下的冷掉的早餐。"
 
 # game/story/chapter_T2.rpy:960
 translate Tchinese chapter_T2_0adf0b39:
 
     # "After your meal you take Toast back to your apartment."
-    "飯後，你帶Toast回到自己的公寓。"
+    "吃完飯後，你帶Toast回到自己的公寓。"
 
 # game/story/chapter_T2.rpy:977
 translate Tchinese toast_call_a_room_fit_for_king_af2cef3e:
@@ -2062,7 +2062,7 @@ translate Tchinese toast_call_a_room_fit_for_king_da10c957:
 translate Tchinese toast_call_a_room_fit_for_king_d6f700f5:
 
     # p "I don’t have one. I mean, who needs one when all the best shows are online?"
-    p "沒有。網路上衝浪多精彩，誰還需要電視啊？"
+    p "沒有。在網路上衝浪多精彩，誰還需要電視啊？"
 
 # game/story/chapter_T2.rpy:1083
 translate Tchinese toast_call_a_room_fit_for_king_299b313a:
@@ -2104,7 +2104,7 @@ translate Tchinese toast_call_a_room_fit_for_king_eb803ec4:
 translate Tchinese toast_call_a_room_fit_for_king_21883f1e:
 
     # T "Heck yeah, back when I was ten, I found this huge ass TV that someone left in the dumps and brought it home. P.B. was able to fix it up and we would watch movies on it every Friday night."
-    T "那當然。十歲的時候，我從垃圾堆裡撿來一台被人丟棄的大電視。後來P.B修好了它，我倆每週五晚上都會用它看電影。"
+    T "那當然。十歲的時候，我從垃圾堆裡撿來一台被人丟棄的大電視。後來P.B修好了它，我們兩個每週五晚上都會用它看電影。"
 
 # game/story/chapter_T2.rpy:1105
 translate Tchinese toast_call_a_room_fit_for_king_15c0b1db:
@@ -2554,7 +2554,7 @@ translate Tchinese toast_call_a_room_fit_for_king_30992e0b:
 translate Tchinese toast_call_a_room_fit_for_king_459b9453:
 
     # "You head for the door, forcing you to run into the web of floating symbols."
-    "你心一橫衝向大門，突入了飄忽的魔法網。"
+    "你心一橫衝向大門，闖進了飄忽的魔法網之中。"
 
 # game/story/chapter_T2.rpy:1365
 translate Tchinese toast_call_a_room_fit_for_king_cb95ca61:
@@ -2656,7 +2656,7 @@ translate Tchinese toast_call_a_room_fit_for_king_af8790cc:
 translate Tchinese toast_call_a_room_fit_for_king_0ee074c0:
 
     # M "Toast, is that what that thing is called? Boy, you two have gotten chummy. Makes me think you’re overqualified to be just a store clerk."
-    M "Toast，是那個東西的名字嗎？哇，叫得可真親密吶，我不禁覺得你作為一名售貨員實在是太屈才了。"
+    M "Toast，是那個東西的名字嗎？哇，叫得可真親密吶，我不禁覺得你作為一名超商店員實在是太屈才了。"
 
 # game/story/chapter_T2.rpy:1437
 translate Tchinese toast_call_a_room_fit_for_king_0c9e546f:
@@ -2908,7 +2908,7 @@ translate Tchinese toast_call_a_room_fit_for_king_e6e39bb5:
 translate Tchinese toast_call_a_room_fit_for_king_a29be94f:
 
     # T @ smile "That's my number two! Looks like this Bacon is made out of chicken!"
-    T @ smile "不愧是我的副手！看來那塊培根徒有虛名啊！"
+    T @ smile "不愧是我的副手！看來這塊{b}培根{/b}徒有虛名啊！"
 
 # game/story/chapter_T2.rpy:1537
 translate Tchinese toast_call_a_room_fit_for_king_08bf447d:
@@ -2968,7 +2968,7 @@ translate Tchinese toast_call_a_room_fit_for_king_532c0d71:
 translate Tchinese toast_call_a_room_fit_for_king_ec4bb019:
 
     # T "I don’t like this. Why is he here? He tried to kill us."
-    T "我不喜歡他，他可是想殺了我倆啊。"
+    T "我不喜歡他，他可是想殺了我們啊。"
 
 # game/story/chapter_T2.rpy:1569
 translate Tchinese toast_call_a_room_fit_for_king_05278f0f:
@@ -3256,7 +3256,7 @@ translate Tchinese toast_call_a_room_fit_for_king_23a0b509:
 translate Tchinese toast_call_a_room_fit_for_king_3f41fa6e:
 
     # p "You can trust us. In fact, we could use your help. I don’t know if all of this will work out, if I fail, I need to know someone can take over and bring King home."
-    p "你可以相信我們。事實上，我正想拜託你。這一趟生死未卜，我需要一個後手，一個能把King帶回家的人。"
+    p "你可以相信我們。事實上，我正想拜託你。這一趟生死未卜；我需要一個就算我失敗了，還有一個能把King帶回家的人。"
 
 # game/story/chapter_T2.rpy:1682
 translate Tchinese toast_call_a_room_fit_for_king_751a6d3d:

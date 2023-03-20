@@ -316,7 +316,7 @@ translate Tchinese chapter_L2_f4b3d741:
 translate Tchinese chapter_L2_f83acaf7:
 
     # p neutral talk "And now that you’ve found me, you’ll stick out like a sore thumb in town if people see you avoiding food like the plague."
-    p neutral talk "既然你已經找到我了，再像躲瘟疫一樣躲吃的就太格格不入了。"
+    p neutral talk "既然你都已經找到我了，別再像躲瘟疫一樣對吃東西唯恐不及就太格格不入了。"
 
 # game/story/chapter_L2.rpy:271
 translate Tchinese chapter_L2_fa525e7d:
@@ -982,7 +982,7 @@ translate Tchinese chapter_L2_1e153750:
 translate Tchinese chapter_L2_0b9ec66b:
 
     # G "Be discreet as best you can. It’s not a matter of if Vendrake will find out that we’re helping [name], but a matter of {i}when.{/i}"
-    G "切記，要謹慎。被Vendrake發現我們在幫[name]是一回事，{b}什麼時候{/b}就是另一回事了。"
+    G "切記，要多謹慎一些。當被Vendrake發現我們在幫[name]可能不是一回事，不過{b}什麼時候{/b}就是另一回事了。"
 
 # game/story/chapter_L2.rpy:544
 translate Tchinese chapter_L2_1e6b8d18:
@@ -1636,7 +1636,7 @@ translate Tchinese chapter_L2_f0cecae8:
 translate Tchinese chapter_L2_4535144c:
 
     # p question "It’s not that bad. I mean, sure sometimes the work can be tough.{w=4}{nw}"
-    p question "也沒那麼差啦，好吧，偶爾是有。{w=4}{nw}"
+    p question "也沒那麼差啦，好吧，不過超商怪事多。{w=4}{nw}"
 
 # game/story/chapter_L2.rpy:864
 translate Tchinese chapter_L2_931905ea:
@@ -1726,7 +1726,7 @@ translate Tchinese chapter_L2_97e68d23:
 translate Tchinese chapter_L2_f82f830a:
 
     # "He would only help with depositing the earnings of the day into the company bank account."
-    "他只會幫忙把當天的收入存入公司的銀行帳戶。"
+    "不過他大概只能幫忙把當天的收入存入公司的銀行帳戶。"
 
 # game/story/chapter_L2.rpy:943
 translate Tchinese chapter_L2_0ef5e8ae:
@@ -1834,13 +1834,13 @@ translate Tchinese chapter_L2_34b63554:
 translate Tchinese chapter_L2_42246892:
 
     # p shocked "It’s that late already? {w=1.0}{nw}{done}I’m beat and hungry. Can we talk about it over lunch?"
-    p shocked "已經中午了？{w=1.0}{nw}{done}我真是又累又餓，我們邊吃邊談吧？"
+    p shocked "已經中午了？{w=1.0}{nw}{done}不過我又累又餓，我們邊吃邊談吧？"
 
 # game/story/chapter_L2.rpy:1026
 translate Tchinese chapter_L2_39389f11:
 
     # p sad "It’s that late already?{fast} I’m beat and hungry. Can we talk about it over lunch?"
-    p sad "已經中午了？{fast}我真是又累又餓，我們邊吃邊談吧？"
+    p sad "已經中午了？{fast}不過我又累又餓，我們邊吃邊談吧？"
 
 # game/story/chapter_L2.rpy:1028
 translate Tchinese chapter_L2_5e44fb72:
@@ -1852,7 +1852,7 @@ translate Tchinese chapter_L2_5e44fb72:
 translate Tchinese chapter_L2_2494e75f:
 
     # L annoyed "Hmm, more mortal customs. How fun."
-    L annoyed "哼，更多的凡人習俗，有趣極了。"
+    L annoyed "哼，又有多的凡人習俗，真是有趣極了。"
 
 # game/story/chapter_L2.rpy:1032
 translate Tchinese chapter_L2_5541b793:
@@ -2008,7 +2008,7 @@ translate Tchinese chapter_L2_a668d822:
 translate Tchinese chapter_L2_3d175c27:
 
     # L smirk "I assure you, I’m built differently than the usual customers you get."
-    L smirk "我可以負責任地說，我和一般客人不一樣。"
+    L smirk "我可以很篤定地跟你說，我和一般客人不一樣。"
 
 # game/story/chapter_L2.rpy:1150
 translate Tchinese chapter_L2_990b4276:
@@ -2218,7 +2218,7 @@ translate Tchinese chapter_L2_ee3dabb7:
 translate Tchinese chapter_L2_1d5a876c:
 
     # p shocked "Dios mio!"
-    p shocked "我滴媽耶！"
+    p shocked "我滴媽啊！"
 
 # game/story/chapter_L2.rpy:1285
 translate Tchinese chapter_L2_e9f1cda0:
@@ -2614,7 +2614,7 @@ translate Tchinese chapter_L2_f05effe2:
 translate Tchinese chapter_L2_f3f24fc3:
 
     # p smile "Guh, the food was great as usual. Compliments to the chef."
-    p smile "一如既往的好吃，讚美大廚。"
+    p smile "一如既往的好吃，讚嘆大廚。"
 
 # game/story/chapter_L2.rpy:1450
 translate Tchinese chapter_L2_30d47a2b:

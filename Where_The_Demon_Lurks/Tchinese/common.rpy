@@ -704,7 +704,7 @@ translate Tchinese strings:
 
     # renpy/common/00updater.rpy:1102
     old "The update file does not have the correct digest - it may have been corrupted."
-    new "更新文件沒有正確的摘要——可能已損壞。"
+    new "更新文件沒有正確的摘要──可能已損壞。"
 
     # renpy/common/00updater.rpy:1252
     old "While unpacking {}, unknown type {}."

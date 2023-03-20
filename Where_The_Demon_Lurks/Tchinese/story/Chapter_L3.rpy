@@ -22,7 +22,7 @@ translate Tchinese chapter_L3_c0f2a954:
 translate Tchinese chapter_L3_778391ba:
 
     # p "Neat feature. What’s with the dog ears on the protectors though?"
-    p "很精簡的設計，不過保護套上的那對狗耳朵是幹嘛的？"
+    p "很精簡的設計，不過為什麼保護殼上面會有對狗耳朵？"
 
 # game/story/Chapter_L3.rpy:27
 translate Tchinese chapter_L3_37b4c108:
@@ -400,7 +400,7 @@ translate Tchinese chapter_L3_73821d65:
 translate Tchinese chapter_L3_46d6ec1f:
 
     # p smile "Hey, then you must have seen a boatload of interesting things go on around here. My friend and I are actually looking into supernatural spots in the town."
-    p smile "哇，那你也算是老江湖了。不瞞你說，我和我的朋友正在研究鎮上的超自然現象。"
+    p smile "哇，那你也算是老屁股了。不瞞你說，我和我的朋友正在研究鎮上的超自然現象。"
 
 # game/story/Chapter_L3.rpy:218
 translate Tchinese chapter_L3_713462e3:
@@ -418,7 +418,7 @@ translate Tchinese chapter_L3_f64468a5:
 translate Tchinese chapter_L3_6e700c13:
 
     # Vendor "Why don’t you take them to the old Kibbleton Hotel by the hillside? People are disappearing all the time over there."
-    Vendor "那怎麼不去山坡上的老基布爾頓酒店看看？那裡老是有人失蹤。"
+    Vendor "那怎麼不去山坡上舊的基布爾頓酒店看看？那裡老是有人失蹤。"
 
 # game/story/Chapter_L3.rpy:217
 translate Tchinese chapter_L3_67b82619:
@@ -526,7 +526,7 @@ translate Tchinese chapter_L3_6b5cfb2f:
 translate Tchinese chapter_L3_86f18880:
 
     # Vendor "It's bad for business to talk about it. People who know someone was murdered instinctively wonder if they will be next."
-    Vendor "傳太多影響不好，誰會想在一個有人被殺的地方買東西呢？沒人保證自己不是下一個。"
+    Vendor "壞事傳千里，生意做不起，誰會想在一個有人被殺的地方買東西呢？沒人保證自己不是下一個。"
 
 # game/story/Chapter_L3.rpy:262
 translate Tchinese chapter_L3_6f87791c:
@@ -904,7 +904,7 @@ translate Tchinese chapter_L3_arcade2_6597a5c8:
 translate Tchinese chapter_L3_arcade2_04f88594:
 
     # p @ confused "Damn, it's locked. You wouldn't happen to know how to pick a lock, would you?"
-    p @ confused "該死，是鎖著的。你不會碰巧能開鎖吧？"
+    p @ confused "該死，是鎖著的。該不會你碰巧會開鎖吧？"
 
 # game/story/Chapter_L3.rpy:434
 translate Tchinese chapter_L3_arcade2_67e843ff:
@@ -1066,7 +1066,7 @@ translate Tchinese chapter_L3_arcade2_c61b4d95:
 translate Tchinese chapter_L3_arcade2_ae17602d:
 
     # p talk "We don’t have time to debate this. His idea isn’t that bad, let’s just let him keep an eye out for us."
-    p talk "沒時間糾結這些了。他的本性不壞，就依他吧。"
+    p talk "沒時間糾結這些了。他的本性不壞，就順著他做吧。"
 
 # game/story/Chapter_L3.rpy:506
 translate Tchinese chapter_L3_arcade2_a07ce6d2:
@@ -1354,7 +1354,7 @@ translate Tchinese chapter_L3_arcade2_bdb662a3:
 translate Tchinese chapter_L3_arcade2_6315aa9e:
 
     # "Lucian pulls out his device. It announces with a cool robotic tone, “You have arrived at your searched item.”"
-    "Lucian取出他的筆電，筆電以一種冷酷的、機械式的語調宣布：“你已找到正在搜索的物體。”"
+    "Lucian拿出他的設備，語音是以一種冷酷的、機械式的語調宣布：“你已找到正在搜索的物體。”"
 
 # game/story/Chapter_L3.rpy:642
 translate Tchinese chapter_L3_arcade2_f87253ab:
@@ -1438,7 +1438,7 @@ translate Tchinese chapter_L3_arcade2_41bcd04d:
 translate Tchinese chapter_L3_arcade2_ff11fdb1:
 
     # "You share worried glances at one another and Lucian puts a finger to his lips."
-    "你們互相看了一眼，Lucian用手指捂住了嘴唇。"
+    "你們互相看了一眼，Lucian用手指放在嘴唇上擺了一個噓的手勢。"
 
 # game/story/Chapter_L3.rpy:730
 translate Tchinese chapter_L3_arcade2_547182bb:
@@ -1644,11 +1644,17 @@ translate Tchinese chapter_L3_distraction_7323b504:
     # p angry "Do it!"
     p angry "動手！"
 
-# game/story/Chapter_L3.rpy:866
+# game/story/Chapter_L3.rpy:866 ###renpy sdk version 7.x => chapter_L3_distraction_d2f11c14
 translate Tchinese chapter_L3_distraction_d2f11c14:
 
     # "Lucian conjures a feather and tosses it onto the floor. It bounces back up like it’s made of rubber."
     "Lucian變出一根羽毛射向地板。就像橡膠做的一樣，羽毛從地上彈開。"
+
+# game/story/Chapter_L3.rpy:878 ###renpy sdk version 8.0.3 => chapter_L3_distraction_db82f877
+translate Tchinese chapter_L3_distraction_db82f877:
+
+    # "It bounces again and again. Slamming against the door and crashing into some rubbish bins outside."
+    "它一次又一次的反彈，最後猛地撞開門，還打翻了外面的垃圾桶。"
 
 # game/story/Chapter_L3.rpy:876
 translate Tchinese chapter_L3_distraction_7328c517:
@@ -1657,7 +1663,7 @@ translate Tchinese chapter_L3_distraction_7328c517:
     "並反彈到了架子上，成功引起了守衛的注意。"
 
 # game/story/Chapter_L3.rpy:878
-translate Tchinese chapter_L3_distraction_9e6a6562:
+translate Tchinese chapter_L3_distraction_db82f877:
 
     # "It bounces again and again. Slamming against the door and crashing into some rubbish bins outside."
     "它一次又一次的反彈，最後猛地撞開門，還打翻了外面的垃圾桶。"
@@ -1678,7 +1684,7 @@ translate Tchinese chapter_L3_distraction_40084def:
 translate Tchinese chapter_L3_distraction_d96f3b91:
 
     # "As their footsteps fade off into the distance, you audibly gasp."
-    "對方的腳步聲消失在了遠方，你長吁一口氣。"
+    "對方的腳步聲消失在了遠方，你長呼一口氣。"
 
 # game/story/Chapter_L3.rpy:926
 translate Tchinese chapter_L3_distraction_31e90a3c:
@@ -2020,7 +2026,7 @@ translate Tchinese chapter_L3_apartment_33b9edf0:
 translate Tchinese chapter_L3_apartment_aaa93022:
 
     # "You open your mouth, but no words come out."
-    "你張開嘴，卻沒有言語。"
+    "你張開嘴，卻吐了個沈默。"
 
 # game/story/Chapter_L3.rpy:1090
 translate Tchinese chapter_L3_apartment_e345ef72:
@@ -2032,7 +2038,7 @@ translate Tchinese chapter_L3_apartment_e345ef72:
 translate Tchinese chapter_L3_apartment_6cefe719:
 
     # extend "You know what, fuck it."
-    extend "去他媽的資格吧。"
+    extend "不過去他媽的夠不夠格吧。"
 
 # game/story/Chapter_L3.rpy:1094
 translate Tchinese chapter_L3_apartment_5be3c4a4:
@@ -2206,7 +2212,7 @@ translate Tchinese chapter_L3_apartment_2e1772f0:
 translate Tchinese chapter_L3_apartment_2d5555e2:
 
     # p sad "Heck, maybe you’ll fuck up even more until you just want to quit your job and be left alone—"
-    p sad "甚至更糟，糟早到你只想辭職，跑到一個沒有人認識你的地方──"
+    p sad "甚至更糟，糟糕到你只想要辭職，然後跑到一個沒有人認識你的地方──"
 
 # game/story/Chapter_L3.rpy:1153
 translate Tchinese chapter_L3_apartment_b2113853:
@@ -2434,7 +2440,7 @@ translate Tchinese chapter_L3_apartment_ea580b0d:
 translate Tchinese chapter_L3_apartment_8adab418:
 
     # p question "I doubt that will help if they can smell you. Besides, don’t you have something better to do now that you’ve escaped the Underworld and all?"
-    p question "夠嗆，他們能聞到你的氣味。此外，你都逃出了冥界，難道就沒有更想做的了嗎？"
+    p question "想太美，他們能聞到你的氣味。此外，你都逃出了冥界，難道就沒有更想做的了嗎？"
 
 # game/story/Chapter_L3.rpy:1284
 translate Tchinese chapter_L3_apartment_a6c3919a:
@@ -3082,7 +3088,7 @@ translate Tchinese chapter_L3_memory_799351b5:
 translate Tchinese chapter_L3_memory_c44aa160:
 
     # p "Which brings up the question, why do we even torture them in the place? The soul energy output barely reaches what Above makes with their method."
-    p "這就又引出來一個問題：我們為什麼要讓他們受刑？冥界的靈魂能量輸出率將將才達到天界的水準。"
+    p "這就又引出來一個問題：我們為什麼要讓他們受刑？冥界的靈魂能量輸出量其實跟天界用他們方法產生的差不多啊。"
 
 # game/story/Chapter_L3.rpy:1634
 translate Tchinese chapter_L3_memory_ba0c333d:
@@ -3358,7 +3364,7 @@ translate Tchinese chapter_L3_morris2_d379dc8c:
 translate Tchinese chapter_L3_morris2_d5403270:
 
     # M angry "What? You’re describing a demon capable of ordering other demons to go after you. That is at least a general class demon. You would have needed to sacrifice a person to get them to even speak to you on this plane of existence."
-    M angry "什麼？聽你的描述，一個能夠命令其他惡魔追殺你的惡魔，那至少得是一般級別的。不獻祭一個人，他甚至沒辦法在這個世界上跟你上說話。"
+    M angry "什麼？聽你的描述，一個能夠命令其他惡魔追殺你的惡魔，那至少得是將軍級別的。不獻祭一個人，他甚至沒辦法到這個世界上跟你說上話。"
 
 # game/story/Chapter_L3.rpy:1781
 translate Tchinese chapter_L3_morris2_3510d37c:
@@ -3544,7 +3550,7 @@ translate Tchinese chapter_L3_morris2_0d273f4b:
 translate Tchinese chapter_L3_morris2_fe14f376:
 
     # M "I don’t care, by the sound of it, you two already know what you got to do, just find anyone else but me to do it."
-    M "我不在乎，隨便你們兩個去找誰。"
+    M "我不在乎，隨便你們兩個去找誰都可以。"
 
 # game/story/Chapter_L3.rpy:1882
 translate Tchinese chapter_L3_morris2_6b57b683:
@@ -3832,7 +3838,7 @@ translate Tchinese chapter_L3_gin_a233ead3:
 translate Tchinese chapter_L3_gin_e885aee0:
 
     # Gin "The cost of manufacturing those batteries is rising, Morris, my boy. Everyone’s in a tight spot in this economy, and I’m no different."
-    Gin "造電池的成本上漲了啊，Morris老弟，在這種經濟形勢下人人自危，我也不例外。"
+    Gin "製造電池的成本上漲了啊，Morris老弟，在這種經濟形勢下人人自危，我也不例外。"
 
 # game/story/Chapter_L3.rpy:2111
 translate Tchinese chapter_L3_gin_06ae4fc0:
@@ -4524,8 +4530,14 @@ translate Tchinese chapter_L3_gin_dd521823:
     # "Gin leers at Lucian."
     "Gin斜睨了Lucian一眼。"
 
-# game/story/Chapter_L3.rpy:2657
+# game/story/Chapter_L3.rpy:2657 ###renpy sdk version 7.x => chapter_L3_gin_cec351c9
 translate Tchinese chapter_L3_gin_cec351c9:
+
+    # Gin neutral "Ohoho."
+    Gin neutral "吼吼。"
+
+# game/story/Chapter_L3.rpy:2657 ###renpy sdk version 8.0.3 => chapter_L3_gin_c7bebaf0
+translate Tchinese chapter_L3_gin_c7bebaf0:
 
     # Gin neutral "Ohoho."
     Gin neutral "吼吼。"
@@ -4599,7 +4611,7 @@ translate Tchinese chapter_L3_gin_fa586a84:
 translate Tchinese chapter_L3_gin_d32a6edd:
 
     # M @ annoyed "None of your business. I’m buying your discretion at the same time."
-    M @ annoyed "這與你無關，你的斟酌權我也要一起買下。"
+    M @ annoyed "這與你無關，我要把你的決定權也一起買下。"
 
 # game/story/Chapter_L3.rpy:2699
 translate Tchinese chapter_L3_gin_bbe30cd3:
@@ -4803,7 +4815,7 @@ translate Tchinese chapter_L3_gin_6c8a6a2d:
 translate Tchinese chapter_L3_gin_422fac05:
 
     # Gin "Why yes, it’s the hood that the leader wears. Destroy it, destroy the leader, and make sure to snoop around their computers as well."
-    Gin "當然，就是教主頭頂上的帽子。摧毀它、摧毀教主，進他們的電腦系統探尋探尋。"
+    Gin "當然，就是教主頭頂上的帽子。摧毀那頂帽子、摧毀教主，記得要駭進他們的電腦系統探尋探尋。"
 
 # game/story/Chapter_L3.rpy:2783
 translate Tchinese chapter_L3_gin_262aa337:
@@ -5121,7 +5133,7 @@ translate Tchinese chapter_L3_gin_e2419878:
 translate Tchinese chapter_L3_gin_0acc46dc:
 
     # "You groan but you follow him either way. Lucian doesn’t say much during the walk, his attention taken up completely by the cube."
-    "你不住呻吟，但還是跟上他的腳步。Lucian則安靜地走著，他的注意力完全被立方體占據了。"
+    "你忍不住呻吟，但還是跟上他的腳步。Lucian則安靜地走著，他的注意力完全被立方體占據了。"
 
 # game/story/Chapter_L3.rpy:2982
 translate Tchinese chapter_L3_gin_55566b14:
