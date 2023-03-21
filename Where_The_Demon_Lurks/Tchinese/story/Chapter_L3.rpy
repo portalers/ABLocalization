@@ -1644,17 +1644,11 @@ translate Tchinese chapter_L3_distraction_7323b504:
     # p angry "Do it!"
     p angry "動手！"
 
-# game/story/Chapter_L3.rpy:866 ###renpy sdk version 7.x => chapter_L3_distraction_d2f11c14
+# game/story/Chapter_L3.rpy:866 
 translate Tchinese chapter_L3_distraction_d2f11c14:
 
     # "Lucian conjures a feather and tosses it onto the floor. It bounces back up like it’s made of rubber."
     "Lucian變出一根羽毛射向地板。就像橡膠做的一樣，羽毛從地上彈開。"
-
-# game/story/Chapter_L3.rpy:878 ###renpy sdk version 8.0.3 => chapter_L3_distraction_db82f877
-translate Tchinese chapter_L3_distraction_db82f877:
-
-    # "It bounces again and again. Slamming against the door and crashing into some rubbish bins outside."
-    "它一次又一次的反彈，最後猛地撞開門，還打翻了外面的垃圾桶。"
 
 # game/story/Chapter_L3.rpy:876
 translate Tchinese chapter_L3_distraction_7328c517:
@@ -1662,7 +1656,13 @@ translate Tchinese chapter_L3_distraction_7328c517:
     # "The feather ricochets off the cabinet pulling the attention of the guards."
     "並反彈到了架子上，成功引起了守衛的注意。"
 
-# game/story/Chapter_L3.rpy:878
+# game/story/Chapter_L3.rpy:878 ###renpy sdk version 7.x => chapter_L3_distraction_9e6a6562
+translate Tchinese chapter_L3_distraction_9e6a6562:
+
+    # "It bounces again and again. Slamming against the door and crashing into some rubbish bins outside."
+    "它一次又一次的反彈，最後猛地撞開門，還打翻了外面的垃圾桶。"
+
+# game/story/Chapter_L3.rpy:878 ###renpy sdk version 8.0.3 => chapter_L3_distraction_db82f877
 translate Tchinese chapter_L3_distraction_db82f877:
 
     # "It bounces again and again. Slamming against the door and crashing into some rubbish bins outside."

@@ -19713,7 +19713,7 @@ translate Tchinese strings:
 
     # game/williamroute3.rpy:682
     old "Take care of that, Cocksucker."
-    new "幫他吹出來，深喉嚨。"
+    new "幫他射出來，吸屌的。"
 
     # game/williamroute3.rpy:682
     old "He’ll be able to use his own hands once I’m done with this."
@@ -19745,7 +19745,7 @@ translate Tchinese strings:
 
     # game/williamroute3.rpy:1955
     old "Talk to the Mayor."
-    new "去找Mayor。"
+    new "去找鎮長。"
 
     # game/williamroute3.rpy:1955
     old "Talk to James."

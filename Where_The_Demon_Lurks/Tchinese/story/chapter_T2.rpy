@@ -1132,7 +1132,7 @@ translate Tchinese chapter_T2_6e8bd4ad:
 translate Tchinese chapter_T2_5729085b:
 
     # "You head for your usual cafe."
-    "你掉頭就往了常去的咖啡館前進。"
+    "你掉頭就往經常光顧的咖啡館前進。"
 
 # game/story/chapter_T2.rpy:692
 translate Tchinese chapter_T2_c1e1b9f3:
