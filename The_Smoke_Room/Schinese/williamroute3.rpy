@@ -19746,7 +19746,7 @@ translate Schinese strings:
 
     # game/williamroute3.rpy:1955
     old "Talk to the Mayor."
-    new "去找Mayor。"
+    new "去找镇长。"
 
     # game/williamroute3.rpy:1955
     old "Talk to James."
