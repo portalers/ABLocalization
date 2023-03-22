@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-03-17 21:10
+﻿# TODO: Translation updated at 2023-03-19 20:06
 
 translate Schinese strings:
 
@@ -65,3 +65,4 @@ translate Schinese strings:
     # game/cliffselect.rpy:100
     old "Why there's only enough local business for one store?"
     new "一家店能满足当地人的需求吗？"
+

@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-03-17 21:10
+﻿# TODO: Translation updated at 2023-03-19 20:06
 
 translate Schinese strings:
 
@@ -85,3 +85,4 @@ translate Schinese strings:
     # game/willselect.rpy:131
     old "Cynthia."
     new "Cynthia。"
+
