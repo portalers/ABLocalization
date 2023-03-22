@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-02-08 19:10
+﻿# TODO: Translation updated at 2023-03-19 20:06
 
 # game/cliffroute.rpy:8
 translate Tchinese cliffroute_38b05af4:
@@ -3260,12 +3260,11 @@ translate Tchinese cliffroute_0c8b1eb4:
     "又一個謊言。"
 
 # game/cliffroute.rpy:706
-translate Tchinese cliffroute_0c503509:
+translate Tchinese cliffroute_ecb64a0c:
 
-    # "Christ, we really was looking me up and down."
-    "天，不要再上下打量我了。"
+    # "Christ, he really was looking me up and down."
+    "天啊，別再上下打量我了。"
 
-# game/cliffroute.rpy:707
 translate Tchinese cliffroute_082fe324:
 
     # "Famous money is dangerous."
@@ -7815,23 +7814,15 @@ translate Tchinese after_smc1_dd95f616:
 
 translate Tchinese strings:
 
-    # game/cliffroute.rpy:1814
+    # game/cliffroute.rpy:1815
     old "Do I?"
     new "我的意見是？"
 
-    # game/cliffroute.rpy:1814
+    # game/cliffroute.rpy:1815
     old "Attempt to raise an objection"
     new "提出異議"
 
-    # game/cliffroute.rpy:1814
+    # game/cliffroute.rpy:1815
     old "Don't object"
     new "不反對"
-
-# TODO: Translation updated at 2023-03-17 21:10
-
-# game/cliffroute.rpy:707
-translate Tchinese cliffroute_ecb64a0c:
-
-    # "Christ, he really was looking me up and down."
-    "天啊，別再上下打量我了。"
 

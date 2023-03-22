@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-01-18 18:51
+﻿# TODO: Translation updated at 2023-03-19 20:06
 
 # game/williamroute3.rpy:18
 translate Tchinese williamroute3_506ab1eb:
@@ -12529,12 +12529,12 @@ translate Tchinese williamroute3a_e6db8007:
     to "“總之，我真的需要休息一下，警長。”"
 
 # game/williamroute3.rpy:4776
-translate Tchinese williamroute3a_afe825c0:
+translate Tchinese williamroute3a_0b8278d3:
 
-    # to "\"These shorter naps aint cuttin’ it.\""
+    # to "\"These shorter naps ain’t cuttin’ it.\""
     to "“這不是打個瞌睡就能解決的。”"
 
-# game/williamroute3.rpy:4778
+# game/williamroute3.rpy:5637
 translate Tchinese williamroute3a_c014d0ef:
 
     # "The otter hops down the stoop and waddles across the street with a distracted look on his face."
@@ -14929,12 +14929,12 @@ translate Tchinese williamroute3a_2e7df407:
     "我撓撓我的後腦杓。"
 
 # game/williamroute3.rpy:5636
-translate Tchinese williamroute3a_1e4a109f:
+translate Tchinese williamroute3a_6474dd28:
 
-    # m "\"You know, this aint my job, Will.\""
-    m "“你知道嗎，Will，這不是我的工作。”"
+    # m "\"You know, this ain’t my job, Will.\""
+    m "“你又不是不知道我不是幹這行的，Will。”"
 
-# game/williamroute3.rpy:5638
+# game/williamroute3.rpy:5687
 translate Tchinese williamroute3a_71b173b2:
 
     # wi "\"I know, but it's close where I'll be for the next few days, and I think it would be best for you to keep by.\""
@@ -15080,12 +15080,12 @@ translate Tchinese williamroute3a_8efffaf6:
     "這麼大塊地上面就為了蓋間小屋。"
 
 # game/williamroute3.rpy:5871
-translate Tchinese williamroute3a_f11165cf:
+translate Tchinese williamroute3a_bfb1ab98:
 
-    # "Up ahead, I see a ramshackle building under a thick pine tree that looks like it might be a tool shed, considering it aint that big."
+    # "Up ahead, I see a ramshackle building under a thick pine tree that looks like it might be a tool shed, considering it ain’t that big."
     "我在一棵茂密的松樹下看到一棟破破爛爛的建築，考慮到大小，它很可能是間工具棚。"
 
-# game/williamroute3.rpy:5703
+# game/williamroute3.rpy:5842
 translate Tchinese williamroute3a_ea017c98:
 
     # m "\"Think it’s locked?\""
@@ -15578,12 +15578,12 @@ translate Tchinese williamroute3a_2a698289:
     "Todd尷尬地站在門旁，把頭撇開，彷彿表達我不跟他一起走，他也不願意離開似的。"
 
 # game/williamroute3.rpy:5873
-translate Tchinese williamroute3a_807c0e77:
+translate Tchinese williamroute3a_bc0683ae:
 
-    # "When hr figures out I'm determined to be thorough, he sags a bit and starts helping me sort through the junk."
+    # "When he figures out I'm determined to be thorough, he sags a bit and starts helping me sort through the junk."
     "不過當他明白我是真心要做到底時，他就彎了點腰然後幫我整理遍地的雜物。"
 
-# game/williamroute3.rpy:5874
+# game/williamroute3.rpy:5872
 translate Tchinese williamroute3a_0616f54a:
 
     # "After a decent while we sort through more paint cans than I can count."
@@ -15692,12 +15692,12 @@ translate Tchinese williamroute3a_1dae976e:
     "你不能指望別人看不出來吧，Todd。"
 
 # game/williamroute3.rpy:5872
-translate Tchinese williamroute3a_56a1da58:
+translate Tchinese williamroute3a_09e08ef8:
 
-    # m "\"What I mean is that you you tense up when it comes to asking even basic questions of a woman.\""
+    # m "\"What I mean is that you tense up when it comes to asking even basic questions of a woman.\""
     m "“我是說，一旦涉及到女人，哪怕是最基本的問題，你都會心神不寧。”"
 
-# game/williamroute3.rpy:5873
+# game/williamroute3.rpy:5954
 translate Tchinese williamroute3a_bb8b7864:
 
     # m "\"But when you talked with me at the sheriff’s office a few days ago, you got real personal.\""
@@ -16004,12 +16004,12 @@ translate Tchinese williamroute3a_245e69ea:
     "坦承於此。"
 
 # game/williamroute3.rpy:5985
-translate Tchinese williamroute3a_fe4e6a81:
+translate Tchinese williamroute3a_c481f9a4:
 
-    # "I knew there was something funny about this one when I worked him up to spankin' himself off at the Sherrif's office."
+    # "I knew there was something funny about this one when I worked him up to spankin' himself off at the Sheriff's office."
     "我想起有件趣事，之前他在警長室，類似的話題，他被我弄到害臊，還不知不覺起了生理反應。"
 
-# game/williamroute3.rpy:5986
+# game/williamroute3.rpy:6012
 translate Tchinese williamroute3a_eaa113bf:
 
     # "But something's put him in an earnest mood."
@@ -16232,12 +16232,10 @@ translate Tchinese williamroute3a_cc5b4b5a:
     to "“而且，躲到棚子後面還有個掩護。”"
 
 # game/williamroute3.rpy:6043
-translate Tchinese williamroute3a_387b04b7:
+translate Tchinese williamroute3a_ddb2f6d2:
 
-    # to "\"And Aint nobody comes this way.\""
+    # to "\"And ain’t nobody comes this way.\""
     to "“應該沒有人會從那個方向來看到這裡。”"
-
-# game/williamroute3.rpy:6045
 translate Tchinese williamroute3a_acd6fa37:
 
     # to "\"You, ah, really wanna do this?\""
@@ -19714,16 +19712,12 @@ translate Tchinese williamroute3b_fec97169:
 translate Tchinese strings:
 
     # game/williamroute3.rpy:682
-    old "..."
-    new "……"
-
-    # game/williamroute3.rpy:682
     old "Take care of that, Cocksucker."
     new "幫他射出來，吸屌的。"
 
     # game/williamroute3.rpy:682
     old "He’ll be able to use his own hands once I’m done with this."
-    new "他可以自己打出來，等我完事以後。"
+    new "他自己可以用手打出來，之後我就完事了。"
 
     # game/williamroute3.rpy:1354
     old "Where am I going first?"
@@ -19737,6 +19731,14 @@ translate Tchinese strings:
     old "The Stag."
     new "Stag酒館。"
 
+    # game/williamroute3.rpy:1617
+    old "According to Reed, Huxley's gun was pawned. Sales records indicate Huxley repurchased it."
+    new "根據Reed的說法，Huxley的槍被當掉了。銷售記錄顯示是Huxley自己又贖了回來。"
+
+    # game/williamroute3.rpy:1689
+    old "Huxley was an alcoholic who needed more money for his drinking habit. I wonder where he was getting the cash?"
+    new "Huxley的財產不足以滿足他嗜酒如命的習慣，他從哪裡來的錢？"
+
     # game/williamroute3.rpy:1955
     old "What should I do right now?"
     new "我該怎麼做？"
@@ -19748,6 +19750,14 @@ translate Tchinese strings:
     # game/williamroute3.rpy:1955
     old "Talk to James."
     new "跟上James。"
+
+    # game/williamroute3.rpy:2524
+    old "Made James bleed. Was funny."
+    new "把James扁出了血，痛快。"
+
+    # game/williamroute3.rpy:2632
+    old "Apparently, at least one person who works at the hip is leaking information to James."
+    new "看來，Hip的員工裡至少有一個James的內應。"
 
     # game/williamroute3.rpy:2800
     old "Where should I look right now?"
@@ -19773,66 +19783,47 @@ translate Tchinese strings:
     old "Talk to the miners."
     new "礦工們。"
 
+    # game/williamroute3.rpy:2980
+    old "{s}Could a CGCS employee placed a hit on Cliff, or was it somebody else?{/s} Seems like the CGCS employees loyal to the company don't even get along. Some favor James. Some favor Briggs."
+    new "{s}策劃襲擊Cliff的是CGCS的員工，亦或是另有其人？{/s}看來CGCS的傢伙們也不全是一條心。有一派支持James，還有一派支持Briggs。"
+
+    # game/williamroute3.rpy:3128
+    old "Harlan gets into fights with James? He usually keeps things professional."
+    new "Harlan和James打架？他很有職業操守的啊。"
+
+    # game/williamroute3.rpy:3873
+    old "Maybe Cynthia does too."
+    new "也許Cynthia也是。"
+
     # game/williamroute3.rpy:3884
     old "Now, who would be the most useful to talk to?"
     new "誰最值得交談？"
 
     # game/williamroute3.rpy:3884
     old "Talk to Dora."
-    new "Dora"
+    new "Dora。"
 
     # game/williamroute3.rpy:3884
     old "Talk to Harlan."
-    new "Harlan"
+    new "Harlan。"
 
     # game/williamroute3.rpy:3884
     old "Talk to Ethel."
-    new "Ethel"
+    new "Ethel。"
 
     # game/williamroute3.rpy:3884
     old "Talk to Cynthia."
-    new "Cynthia"
+    new "Cynthia。"
 
-# TODO: Translation updated at 2023-03-17 23:08
+    # game/williamroute3.rpy:4035
+    old "Harlan has a grudge against James and has regular access to most of Dora's information."
+    new "Harlan對James懷恨在心，並且能夠獲取Dora的大部分情報。"
 
-# game/williamroute3.rpy:4733
-translate Tchinese williamroute3a_0b8278d3:
+    # game/williamroute3.rpy:4129
+    old "Ethel reacted to a hollow threat of exposure. She's probably the one leaking information to James."
+    new "Ethel對我的虛張聲勢做出了反應，很可能是她把消息洩露給James的。"
 
-    # to "\"These shorter naps ain’t cuttin’ it.\""
-    to "“這不是打個瞌睡就能解決的。”"
+    # game/williamroute3.rpy:6953
+    old "It used to belong to Marcy's sister."
+    new "它曾經屬於Marcy的姐妹。"
 
-# game/williamroute3.rpy:5637
-translate Tchinese williamroute3a_6474dd28:
-
-    # m "\"You know, this ain’t my job, Will.\""
-    m "“你又不是不知道我不是幹這行的，Will。”"
-
-# game/williamroute3.rpy:5687
-translate Tchinese williamroute3a_bfb1ab98:
-
-    # "Up ahead, I see a ramshackle building under a thick pine tree that looks like it might be a tool shed, considering it ain’t that big."
-    "我在一棵茂密的松樹下看到一棟破破爛爛的建築，考慮到大小，它很可能是間工具棚。"
-
-# game/williamroute3.rpy:5842
-translate Tchinese williamroute3a_bc0683ae:
-
-    # "When he figures out I'm determined to be thorough, he sags a bit and starts helping me sort through the junk."
-    "不過當他明白我是真心要做到底時，他就彎了點腰然後幫我整理遍地的雜物。"
-
-# game/williamroute3.rpy:5872
-translate Tchinese williamroute3a_09e08ef8:
-
-    # m "\"What I mean is that you tense up when it comes to asking even basic questions of a woman.\""
-    m "“我是說，一旦涉及到女人，哪怕是最基本的問題，你都會心神不寧。”"
-
-# game/williamroute3.rpy:5954
-translate Tchinese williamroute3a_c481f9a4:
-
-    # "I knew there was something funny about this one when I worked him up to spankin' himself off at the Sheriff's office."
-    "我想起有件趣事，之前他在警長室，類似的話題，他被我弄到害臊，還不知不覺起了生理反應。"
-
-# game/williamroute3.rpy:6012
-translate Tchinese williamroute3a_ddb2f6d2:
-
-    # to "\"And ain’t nobody comes this way.\""
-    to "“應該沒有人會從那個方向來看到這裡。”"

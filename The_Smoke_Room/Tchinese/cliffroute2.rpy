@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-02-08 19:10
+﻿# TODO: Translation updated at 2023-03-19 20:06
 
 # game/cliffroute2.rpy:14
 translate Tchinese cliffroute2_0bdb59af:
@@ -5341,12 +5341,12 @@ translate Tchinese aftercanyon_84629224:
     mu "“如果你躍躍欲試的話，請便。”"
 
 # game/cliffroute2.rpy:1431
-translate Tchinese aftercanyon_146f0c4b:
+translate Tchinese aftercanyon_d621278d:
 
-    # mu "\"I'm dying to hear some thrilling Batavian stories about being deprived of chocolate that is apaprently better than everybody else's.\""
-    mu "我已經迫不及待想聽一些巴達維亞的故事了。一個驚心動魄的，關於巧克力爭奪戰的故事。"
+    # mu "\"I'm dying to hear some thrilling Batavian stories about being deprived of chocolate that is apparently better than everybody else's.\""
+    mu "“我已經迫不及待想聽一些巴達維亞的故事了。一個驚心動魄的，關於巧克力爭奪戰的故事。”"
 
-# game/cliffroute2.rpy:1432
+# game/cliffroute2.rpy:1485
 translate Tchinese aftercanyon_085f44ee:
 
     # cl "\"I would, but I don’t want to terrify you, Murdoch. I’ll still require your services after tonight.\""
@@ -5611,12 +5611,12 @@ translate Tchinese aftercanyon_04d2d947:
     mu "我們嚐到的是味道嗎？還是舌頭上的感測器向大腦發送的令人愉悅的電信號？"
 
 # game/cliffroute2.rpy:1485
-translate Tchinese aftercanyon_41dcb5e8:
+translate Tchinese aftercanyon_9c0fb017:
 
-    # mu "\"What you and I experience when tasting exactly the same thing could be be close, but different, and we'd never be able to know.\""
-    mu "不同人品嘗相同東西時的感受可能很接近，卻不可能完全相同。"
+    # mu "\"What you and I experience when tasting exactly the same thing could be close, but different, and we'd never be able to know.\""
+    mu "“不同人品嘗相同東西時的感受可能很接近，卻不可能完全相同。”"
 
-# game/cliffroute2.rpy:1486
+# game/cliffroute2.rpy:1751
 translate Tchinese aftercanyon_16900438:
 
     # m "\"...what?!\""
@@ -7111,12 +7111,12 @@ translate Tchinese aftercanyon_dadb987e:
     "Murdoch也緊跟著出了帳篷，用黑色的爪子揉著眼睛。"
 
 # game/cliffroute2.rpy:1457
-translate Tchinese aftercanyon_ed9fc1b7:
+translate Tchinese aftercanyon_08fc6b66:
 
-    # mu "\"Did any of you hear--{nw}\""
-    mu "你們聽到──{nw}"
+    # mu "\"Did any of you hear--\"{w=0.2}{nw}"
+    mu "“你們聽到──”{w=0.2}{nw}"
 
-# game/cliffroute2.rpy:1752
+# game/cliffroute2.rpy:2032
 translate Tchinese aftercanyon_dca52a0a:
 
     # "Jebediah hushes him."
@@ -8311,12 +8311,12 @@ translate Tchinese aftercanyon_88080027:
     m "“鴉片──什麼？”"
 
 # game/cliffroute2.rpy:1734
-translate Tchinese aftercanyon_1172863d:
+translate Tchinese aftercanyon_b176f737:
 
-    # "I don't need to hear complicated word right now, and this headache isn't making it any easier."
+    # "I don't need to hear complicated words right now, and this headache isn't making it any easier."
     "頭痛讓我不想聽到生僻詞。"
 
-# game/cliffroute2.rpy:2034
+# game/cliffroute2.rpy:2534
 translate Tchinese aftercanyon_34d47748:
 
     # cl "\"Something for the pain.\""
@@ -10099,12 +10099,12 @@ translate Tchinese mt2_7f3a0060:
     m "我再說一遍，我不是針對誰。"
 
 # game/cliffroute2.rpy:2534
-translate Tchinese mt2_a9c4757a:
+translate Tchinese mt2_263e1c7c:
 
-    # "Cliff adjusts his backpach and stands."
+    # "Cliff adjusts his backpack and stands."
     "Cliff調整了一下他的背包，然後站起來。"
 
-# game/cliffroute2.rpy:2536
+# game/cliffroute2.rpy:2843
 translate Tchinese mt2_b610b159:
 
     # cl "\"Let's put this all behind us, then.\""
@@ -11251,12 +11251,12 @@ translate Tchinese mt2_9836420d:
     "這頭熊說起話來跟Cynthia用吼的差不多，但是友好的那種。"
 
 # game/cliffroute2.rpy:2843
-translate Tchinese mt2_e7de89f1:
+translate Tchinese mt2_15707cfc:
 
-    # ys "\"It think it is good to see more people right now.\""
-    ys "我覺得，遇到更多的人是件好事。"
+    # ys "\"I think it is good to see more people right now.\""
+    ys "“我覺得，遇到更多的人是件好事。”"
 
-# game/cliffroute2.rpy:2846
+# game/cliffroute2.rpy:3249
 translate Tchinese mt2_7e8115b8:
 
     # "The kit fox glowers at us and doesn't say a word."
@@ -12535,12 +12535,12 @@ translate Tchinese mt2_b385e3b1:
     av "“我的意思是，慢慢來，從一個聆聽者做起。”"
 
 # game/cliffroute2.rpy:3249
-translate Tchinese mt2_c95086cf:
+translate Tchinese mt2_e7873c47:
 
-    # av "\"Think you do that, little fellah?\""
-    av "沒問題吧，小伙子？"
+    # av "\"Think you can do that, little fellah?\""
+    av "“沒問題吧，小伙子？”"
 
-# game/cliffroute2.rpy:3252
+# game/cliffroute2.rpy:4248
 translate Tchinese mt2_711c785f:
 
     # cl "\"I… I'll try.\""
@@ -14641,12 +14641,6 @@ translate Tchinese mt2_e84b015c:
     "我喜歡辛辣的食物，但這已經完全是另一個等級了。"
 
 # game/cliffroute2.rpy:3734
-translate Tchinese mt2_34a23b4c:
-
-    # "I usually like spicy food, but this is something else entirely."
-    "我是喜歡辣的食物，但這已經完全是另一個等級了。"
-
-# game/cliffroute2.rpy:3735
 translate Tchinese mt2_68de0b0e:
 
     # "Avery laughs at my sloppy coughing fit, fetching what looks like a pitcher of water next to him."
@@ -16783,12 +16777,12 @@ translate Tchinese maphogan2_3bc3b430:
     mu "“因為吃好喝好、休息好了？”"
 
 # game/cliffroute2.rpy:4249
-translate Tchinese maphogan2_dbb252cb:
+translate Tchinese maphogan2_df7edd4f:
 
-    # mu "\"Certainly notthing to do with Cliff here stopping by when you two were alone last night, now, could it?\""
-    mu "肯定跟Cliff昨晚過去沒有關係，是不是？"
+    # mu "\"Certainly nothing to do with Cliff here stopping by when you two were alone last night, now, could it?\""
+    mu "“肯定跟Cliff昨晚過去沒有關係，是不是？”"
 
-# game/cliffroute2.rpy:4252
+# game/cliffroute2.rpy:6348
 translate Tchinese maphogan2_116bf71e:
 
     # cl "\"I was merely getting some things from my pack!\""
@@ -18850,7 +18844,7 @@ translate Tchinese hh_a7fddb13:
 translate Tchinese hh_56eb3719:
 
     # mu "\"That's what Jeb said before.\""
-    mu "@@@"
+    mu "“這跟Jeb之前說過一樣。”"
 
 # game/cliffroute2.rpy:4863
 translate Tchinese hh_07abe1c6:
@@ -18876,11 +18870,11 @@ translate Tchinese hh_e2d4f181:
     # av "\"Out cold. Shock, most likely. He'll come around in a few.\""
     av "“沒有知覺，可能是休克了。過會就好。”"
 
-# game/cliffroute2.rpy:4161
-translate Tchinese hh_ddb4a920:
+# # game/cliffroute2.rpy:4161
+# translate Tchinese hh_ddb4a920:
 
-    # av "\"Don't blame him. Seeing something like this… it can do things to the body just as well as the mind.\""
-    av "@@@"
+#     # av "\"Don't blame him. Seeing something like this… it can do things to the body just as well as the mind.\""
+#     av "@@@"
 
 # game/cliffroute2.rpy:4873
 translate Tchinese hh_36d1d32c:
@@ -18924,11 +18918,11 @@ translate Tchinese hh_aeca2ff7:
     # "He shakes his head."
     "他搖了搖頭。"
 
-# game/cliffroute2.rpy:4171
-translate Tchinese hh_1e1e3b29:
+# # game/cliffroute2.rpy:4171
+# translate Tchinese hh_1e1e3b29:
 
-    # av "\"This is unlike anything I've seen in person before.\""
-    av "@@@"
+#     # av "\"This is unlike anything I've seen in person before.\""
+#     av "@@@"
 
 # game/cliffroute2.rpy:4880
 translate Tchinese hh_cbd812e7:
@@ -18954,11 +18948,11 @@ translate Tchinese hh_cfb5f423:
     # mu "\"Let's be quick about this.\""
     mu "“我們趕快吧。”"
 
-# game/cliffroute2.rpy:4178
-translate Tchinese hh_9e3496a9:
+# # game/cliffroute2.rpy:4178
+# translate Tchinese hh_9e3496a9:
 
-    # mu "\"I'd rather not be here any longer than I have to.\""
-    mu "@@@"
+#     # mu "\"I'd rather not be here any longer than I have to.\""
+#     mu "@@@"
 
 # game/cliffroute2.rpy:4915
 translate Tchinese hh_906b3e3f:
@@ -19068,11 +19062,11 @@ translate Tchinese hh_d338a72b:
     # "Avery frowns."
     "Avery皺起眉。"
 
-# game/cliffroute2.rpy:4213
-translate Tchinese hh_f36055c1:
+# # game/cliffroute2.rpy:4213
+# translate Tchinese hh_f36055c1:
 
-    # av "\"Jeb, I don't think that it's safe to-\""
-    av "@@@"
+#     # av "\"Jeb, I don't think that it's safe to-\""
+#     av "@@@"
 
 # game/cliffroute2.rpy:4927
 translate Tchinese hh_8e0fd438:
@@ -19110,11 +19104,11 @@ translate Tchinese hh_ec75c54d:
     # "He mentioned this person before."
     "好像是他之前提的人。"
 
-# game/cliffroute2.rpy:4928
-translate Tchinese hh_40cd226d:
+# # game/cliffroute2.rpy:4928
+# translate Tchinese hh_40cd226d:
 
-    # "I can tell now that this was more about whoever he was than the donkeys."
-    "@@@"
+#     # "I can tell now that this was more about whoever he was than the donkeys."
+#     "@@@"
 
 # game/cliffroute2.rpy:4941
 translate Tchinese hh_828b7f8a:
@@ -19248,11 +19242,11 @@ translate Tchinese hh_db859148:
     # "Even that's going to be hard. Half of the pages I see on the ground are either completely torn or smudged beyond recognition with mud or sand."
     "但即便如此也很難。光我看到的，地上一半的書頁要嘛被撕得粉碎，要嘛被泥土或沙子弄得面目全非。"
 
-# game/cliffroute2.rpy:4263
-translate Tchinese hh_4c5e9e12:
+# # game/cliffroute2.rpy:4263
+# translate Tchinese hh_4c5e9e12:
 
-    # m "\"I can help you after we dig.\""
-    m "@@@"
+#     # m "\"I can help you after we dig.\""
+#     m "@@@"
 
 # game/cliffroute2.rpy:4986
 translate Tchinese hh_d9d9bb57:
@@ -19356,17 +19350,17 @@ translate Tchinese hh_73e495b0:
     # jeb "\"We're getting there. How are you holding up?\""
     jeb "“快了，還撐得住嗎？”"
 
-# game/cliffroute2.rpy:4288
-translate Tchinese hh_d2575e0d:
+# # game/cliffroute2.rpy:4288
+# translate Tchinese hh_d2575e0d:
 
-    # m "\"I'm fine.\""
-    m "@@@"
+#     # m "\"I'm fine.\""
+#     m "@@@"
 
-# game/cliffroute2.rpy:4995
-translate Tchinese hh_35cdcd8d:
+# # game/cliffroute2.rpy:4995
+# translate Tchinese hh_35cdcd8d:
 
-    # m "\"More worried about you at this point.\""
-    m "@@@"
+#     # m "\"More worried about you at this point.\""
+#     m "@@@"
 
 # game/cliffroute2.rpy:5009
 translate Tchinese hh_8e2c5c4a:
@@ -19404,11 +19398,11 @@ translate Tchinese hh_88c75f32:
     # cl "\"Who is the man you're referring to?\""
     cl "“那個人是誰？”"
 
-# game/cliffroute2.rpy:4302
-translate Tchinese hh_01f23b55:
+# # game/cliffroute2.rpy:4302
+# translate Tchinese hh_01f23b55:
 
-    # m "\"That's what I've been asking for days.\""
-    m "@@@"
+#     # m "\"That's what I've been asking for days.\""
+#     m "@@@"
 
 # game/cliffroute2.rpy:5077
 translate Tchinese hh_ff1b2398:
@@ -19590,11 +19584,11 @@ translate Tchinese hh_e80f5281:
     # "He sighs."
     "他嘆了口氣。"
 
-# game/cliffroute2.rpy:4380
-translate Tchinese hh_90f38d0a:
+# # game/cliffroute2.rpy:4380
+# translate Tchinese hh_90f38d0a:
 
-    # cl "\"Terrible disease. I'm so sorry.\""
-    cl "@@@"
+#     # cl "\"Terrible disease. I'm so sorry.\""
+#     cl "@@@"
 
 # game/cliffroute2.rpy:5091
 translate Tchinese hh_23e14ff6:
@@ -19620,17 +19614,17 @@ translate Tchinese hh_9b5923ca:
     # jeb "\"So I drank instead.\""
     jeb "“於是我開始買醉。”"
 
-# game/cliffroute2.rpy:4394
-translate Tchinese hh_cadf2cda:
+# # game/cliffroute2.rpy:4394
+# translate Tchinese hh_cadf2cda:
 
-    # jeb "\"I couldn't sell any books and I couldn't protect our investment.\""
-    jeb "@@@"
+#     # jeb "\"I couldn't sell any books and I couldn't protect our investment.\""
+#     jeb "@@@"
 
-# game/cliffroute2.rpy:5092
-translate Tchinese hh_bf0e8435:
+# # game/cliffroute2.rpy:5092
+# translate Tchinese hh_bf0e8435:
 
-    # jeb "\"That was that last thing we did together before he left me forever.\""
-    jeb "@@@"
+#     # jeb "\"That was that last thing we did together before he left me forever.\""
+#     jeb "@@@"
 
 # game/cliffroute2.rpy:5100
 translate Tchinese hh_d633d24d:
@@ -19650,11 +19644,11 @@ translate Tchinese hh_07bba624:
     # "You paid him for a service, Cliff."
     "你付過他錢了，Cliff。"
 
-# game/cliffroute2.rpy:4403
-translate Tchinese hh_e2a56f9e:
+# # game/cliffroute2.rpy:4403
+# translate Tchinese hh_e2a56f9e:
 
-    # jeb "\"Don't apologize. It's not like you brought that beast here.\""
-    jeb "@@@"
+#     # jeb "\"Don't apologize. It's not like you brought that beast here.\""
+#     jeb "@@@"
 
 # game/cliffroute2.rpy:5311
 translate Tchinese hh_8b12f432:
@@ -20460,11 +20454,11 @@ translate Tchinese hh_bd7e21b3:
     # cl "\"A drink would be nice indeed. I'm rather parched.\""
     cl "“那再好不過，我都快脫水了。”"
 
-# game/cliffroute2.rpy:4609
-translate Tchinese hh_d596cf5f:
+# # game/cliffroute2.rpy:4609
+# translate Tchinese hh_d596cf5f:
 
-    # cl "\"But I think I might take a long bath in that spring first.\""
-    cl "@@@"
+#     # cl "\"But I think I might take a long bath in that spring first.\""
+#     cl "@@@"
 
 # game/cliffroute2.rpy:5324
 translate Tchinese hh_c887ee8c:
@@ -21544,7 +21538,7 @@ translate Tchinese smcbath_1e69bc08:
 translate Tchinese smcbath_9d3eaacc:
 
     # m "\"Right.\""
-    m "@@@"
+    m "“是啊。”"
 
 # game/cliffroute2.rpy:6019
 translate Tchinese smcbath_a9f76d53:
@@ -25441,12 +25435,10 @@ translate Tchinese campsong_8c9fa3e3:
     mu "“可怕，但不足為怪。”"
 
 # game/cliffroute2.rpy:6349
-translate Tchinese campsong_b2a065f7:
+translate Tchinese campsong_8a0c5bf6:
 
-    # av "\"Scary stories are well and good, but thes real things happening in the world every day you are usually worse.\""
+    # av "\"Scary stories are well and good, but the real things happening in the world every day you are usually worse.\""
     av "“我不是說恐怖故事不好，但現實永遠比故事更離奇。”"
-
-# game/cliffroute2.rpy:6350
 translate Tchinese campsong_ea318494:
 
     # av "\"It's… the first time I've thought about her in a long while, to be honest.\""
@@ -25980,82 +25972,112 @@ translate Tchinese strings:
     old "We have to start communicating if we expect to get through this, now."
     new "想要度過這個難關，我們就必須從現在開始攜手並進。"
 
-    # game/cliffroute2.rpy:3929
+    # game/cliffroute2.rpy:3928
     old "Take the map"
     new "拿走地圖"
 
-    # game/cliffroute2.rpy:3929
+    # game/cliffroute2.rpy:3928
     old "Leave the map"
     new "不拿地圖"
 
-    # game/cliffroute2.rpy:4522
+    # game/cliffroute2.rpy:4521
     old "Follow Cliff and Murdoch"
     new "跟上Cliff和Murdoch"
 
-    # game/cliffroute2.rpy:4522
+    # game/cliffroute2.rpy:4521
     old "Stay with Jeb and Avery"
     new "與Jeb和Avery待一起"
 
-    # game/cliffroute2.rpy:5327
+    # game/cliffroute2.rpy:5326
     old "Three's a crowd."
     new "三個人也太擠了。"
 
-    # game/cliffroute2.rpy:5327
+    # game/cliffroute2.rpy:5326
     old "It's about time I saw this fox naked."
     new "我想看看這隻狐狸的裸體。"
 
-# TODO: Translation updated at 2023-03-17 21:10
 
-# game/cliffroute2.rpy:1431
-translate Tchinese aftercanyon_d621278d:
+### 缺翻譯，上面先註解掉了，臨時集中在下面看會不會比較好翻譯(?
+# game/cliffroute2.rpy:4161
+translate Tchinese hh_ddb4a920:
 
-    # mu "\"I'm dying to hear some thrilling Batavian stories about being deprived of chocolate that is apparently better than everybody else's.\""
-    mu "\"我已經迫不及待想聽一些巴達維亞的故事了。一個驚心動魄的，關於巧克力爭奪戰的故事。\""
+    # av "\"Don't blame him. Seeing something like this… it can do things to the body just as well as the mind.\""
+    av "@@@"
 
-# game/cliffroute2.rpy:1485
-translate Tchinese aftercanyon_9c0fb017:
+# game/cliffroute2.rpy:4171
+translate Tchinese hh_1e1e3b29:
 
-    # mu "\"What you and I experience when tasting exactly the same thing could be close, but different, and we'd never be able to know.\""
-    mu "\"不同人品嘗相同東西時的感受可能很接近，卻不可能完全相同。\""
+    # av "\"This is unlike anything I've seen in person before.\""
+    av "@@@"
 
-# game/cliffroute2.rpy:1751
-translate Tchinese aftercanyon_08fc6b66:
+# game/cliffroute2.rpy:4178
+translate Tchinese hh_9e3496a9:
 
-    # mu "\"Did any of you hear--\"{w=0.2}{nw}"
-    mu "\"你們聽到──\"{w=0.2}{nw}"
+    # mu "\"I'd rather not be here any longer than I have to.\""
+    mu "@@@"
 
-# game/cliffroute2.rpy:2032
-translate Tchinese aftercanyon_b176f737:
+# game/cliffroute2.rpy:4213
+translate Tchinese hh_f36055c1:
 
-    # "I don't need to hear complicated words right now, and this headache isn't making it any easier."
-    "頭痛讓我不想聽到生僻詞。"
+    # av "\"Jeb, I don't think that it's safe to-\""
+    av "@@@"
 
-# game/cliffroute2.rpy:2534
-translate Tchinese mt2_263e1c7c:
+# game/cliffroute2.rpy:4928
+translate Tchinese hh_40cd226d:
 
-    # "Cliff adjusts his backpack and stands."
-    "Cliff調整了一下他的背包，然後站起來。"
+    # "I can tell now that this was more about whoever he was than the donkeys."
+    "@@@"
 
-# game/cliffroute2.rpy:2843
-translate Tchinese mt2_15707cfc:
+# game/cliffroute2.rpy:4263
+translate Tchinese hh_4c5e9e12:
 
-    # ys "\"I think it is good to see more people right now.\""
-    ys "\"我覺得，遇到更多的人是件好事。\""
+    # m "\"I can help you after we dig.\""
+    m "@@@"
 
-# game/cliffroute2.rpy:3249
-translate Tchinese mt2_e7873c47:
+# game/cliffroute2.rpy:4288
+translate Tchinese hh_d2575e0d:
 
-    # av "\"Think you can do that, little fellah?\""
-    av "\"沒問題吧，小伙子？\""
+    # m "\"I'm fine.\""
+    m "@@@"
 
-# game/cliffroute2.rpy:4248
-translate Tchinese maphogan2_df7edd4f:
+# game/cliffroute2.rpy:4995
+translate Tchinese hh_35cdcd8d:
 
-    # mu "\"Certainly nothing to do with Cliff here stopping by when you two were alone last night, now, could it?\""
-    mu "\"肯定跟Cliff昨晚過去沒有關係，是不是？\""
+    # m "\"More worried about you at this point.\""
+    m "@@@"
 
-# game/cliffroute2.rpy:6348
-translate Tchinese campsong_8a0c5bf6:
+# game/cliffroute2.rpy:4302
+translate Tchinese hh_01f23b55:
 
-    # av "\"Scary stories are well and good, but the real things happening in the world every day you are usually worse.\""
-    av "\"我不是說恐怖故事不好，但現實永遠比故事更離奇。\""
+    # m "\"That's what I've been asking for days.\""
+    m "@@@"
+
+# game/cliffroute2.rpy:4380
+translate Tchinese hh_90f38d0a:
+
+    # cl "\"Terrible disease. I'm so sorry.\""
+    cl "@@@"
+
+# game/cliffroute2.rpy:4394
+translate Tchinese hh_cadf2cda:
+
+    # jeb "\"I couldn't sell any books and I couldn't protect our investment.\""
+    jeb "@@@"
+
+# game/cliffroute2.rpy:5092
+translate Tchinese hh_bf0e8435:
+
+    # jeb "\"That was that last thing we did together before he left me forever.\""
+    jeb "@@@"
+
+# game/cliffroute2.rpy:4403
+translate Tchinese hh_e2a56f9e:
+
+    # jeb "\"Don't apologize. It's not like you brought that beast here.\""
+    jeb "@@@"
+
+# game/cliffroute2.rpy:4609
+translate Tchinese hh_d596cf5f:
+
+    # cl "\"But I think I might take a long bath in that spring first.\""
+    cl "@@@"

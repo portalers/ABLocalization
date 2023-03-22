@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-03-17 21:10
+﻿# TODO: Translation updated at 2023-03-19 20:06
 
 translate Tchinese strings:
 
@@ -41,3 +41,4 @@ translate Tchinese strings:
     # game/nikselect.rpy:157
     old "Did you say you'd like to wear James Hendrick's armor?"
     new "你有說要穿穿看James Hendrick的盔甲嗎？"
+

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-03-17 21:10
+﻿# TODO: Translation updated at 2023-03-19 20:06
 
 translate Tchinese strings:
 
@@ -8,11 +8,11 @@ translate Tchinese strings:
 
     # game/cliffselect.rpy:19
     old "Yes."
-    new "有"
+    new "有。"
 
     # game/cliffselect.rpy:19
     old "No."
-    new "沒有"
+    new "沒有。"
 
     # game/cliffselect.rpy:38
     old "When Murdoch asked for an honest conversation after the attack in the woods, did you agree?"
@@ -28,11 +28,11 @@ translate Tchinese strings:
 
     # game/cliffselect.rpy:54
     old "I followed inside."
-    new "跟著進去"
+    new "跟著進去。"
 
     # game/cliffselect.rpy:54
     old "I stayed outside."
-    new "待在外頭"
+    new "待在外頭。"
 
     # game/cliffselect.rpy:63
     old "Do you sleep with Murdoch at the hot springs?"
@@ -48,11 +48,11 @@ translate Tchinese strings:
 
     # game/cliffselect.rpy:91
     old "You asked if a raiload system system would be helpful to the people in the settlement."
-    new "你詢問鐵路是否能幫助到定居點的人"
+    new "你詢問鐵路是否能幫助到定居點的人。"
 
     # game/cliffselect.rpy:91
     old "You said that there are plans to expand the echo train station through the settlement."
-    new "你提起有人計畫拓展Echo的鐵路，會行經定居點"
+    new "你提起有人計畫拓展Echo的鐵路，會行經定居點。"
 
     # game/cliffselect.rpy:100
     old "As Cliff, what do you ask the Meseta woman running the trading post in the settlement?"
@@ -64,4 +64,5 @@ translate Tchinese strings:
 
     # game/cliffselect.rpy:100
     old "Why there's only enough local business for one store?"
-    new "為什麼當地商機只夠開一間店。"
+    new "為什麼當地商機只夠開一間店？"
+

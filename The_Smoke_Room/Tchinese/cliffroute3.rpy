@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-02-08 19:10
+﻿# TODO: Translation updated at 2023-03-19 20:06
 
 # game/cliffroute3.rpy:13
 translate Tchinese cliffroute3_bf256e58:
@@ -1117,12 +1117,12 @@ translate Tchinese murdochtent_9184fafa:
     cl "“我說過你們對我很特別，也是真心這麼想的。”"
 
 # game/cliffroute3.rpy:245
-translate Tchinese murdochtent_26dd9d87:
+translate Tchinese murdochtent_3cc9cdca:
 
-    # cl "\"The both of you\""
+    # cl "\"The both of you.\""
     cl "“你們兩個都是。”"
 
-# game/cliffroute3.rpy:276
+# game/cliffroute3.rpy:761
 translate Tchinese murdochtent_971175f3:
 
     # "He perks up."
@@ -3061,12 +3061,12 @@ translate Tchinese aftertent_0702cd2c:
     "說來古怪，比起梅塞塔建築，這更像是西部木屋。"
 
 # game/cliffroute3.rpy:789
-translate Tchinese aftertent_8a7f770e:
+translate Tchinese aftertent_3954c87f:
 
-    # "I see some hogan structures closer to the treeline, but they don’t look as well-maintained as the one Gab and Manaba live in."
-    "靠近林木線的地方倒是有一些泥屋，但看起來沒有Gab和Manaba居住的那座保養得好。"
+    # "I see some hogan structures closer to the treeline, but they don’t look as well-maintained as the one Gad and Manaba live in."
+    "靠近林木線的地方倒是有一些泥屋，但看起來沒有Gad和Manaba居住的那座保養得好。"
 
-# game/cliffroute3.rpy:791
+# game/cliffroute3.rpy:1157
 translate Tchinese aftertent_e7002357:
 
     # "The door opens."
@@ -4657,12 +4657,12 @@ translate Tchinese aftercliffint2_03220d4e:
     "Goose" "“想要間房過夜嗎？”"
 
 # game/cliffroute3.rpy:1157
-translate Tchinese aftercliffint2_d4e33644:
+translate Tchinese aftercliffint2_8abbda43:
 
-    # mu "\"Our company will staying for a week, if that isn’t a problem.\""
+    # mu "\"Our company will be staying for a week, if that isn’t a problem.\""
     mu "“我們一行人會待一個禮拜，如果可以的話。”"
 
-# game/cliffroute3.rpy:1159
+# game/cliffroute3.rpy:1214
 translate Tchinese aftercliffint2_40d2c52f:
 
     # "Goose" "\"It shouldn’t be.\""
@@ -4855,12 +4855,12 @@ translate Tchinese aftercliffint2_9f751f67:
     m "“先等一下。”"
 
 # game/cliffroute3.rpy:1214
-translate Tchinese aftercliffint2_dd95bc4d:
+translate Tchinese aftercliffint2_d3860c57:
 
-    # m "\"Maybe he put it down as Jebidiah Coles?\""
-    m "“有沒有可能寫的是Jebidiah Coles？”"
+    # m "\"Maybe he put it down as Jebediah Coles?\""
+    m "“有沒有可能寫的是Jebediah Coles？”"
 
-# game/cliffroute3.rpy:1216
+# game/cliffroute3.rpy:1310
 translate Tchinese aftercliffint2_5e0afd44:
 
     # mu "\"There’s a good idea.\""
@@ -5239,12 +5239,12 @@ translate Tchinese aftercliffint2_5fcc3248:
     m "“醫生怎麼了？”"
 
 # game/cliffroute3.rpy:1310
-translate Tchinese aftercliffint2_3f35990e:
+translate Tchinese aftercliffint2_f6df6de0:
 
-    # mu "\"Where is exactly is he staying?\""
+    # mu "\"Where exactly is he staying?\""
     mu "“他到底住在哪？”"
 
-# game/cliffroute3.rpy:1312
+# game/cliffroute3.rpy:1494
 translate Tchinese aftercliffint2_a557e684:
 
     # mu "\"He and Jeb seem close.\""
@@ -5737,12 +5737,12 @@ translate Tchinese aftercliffint2_f98cd16c:
     cl "“光是沒在大門前被趕走就該偷笑了。”"
 
 # game/cliffroute3.rpy:1494
-translate Tchinese aftercliffint2_64b43f08:
+translate Tchinese aftercliffint2_4161db1a:
 
-    # cl "\"I tell you what, Jebidiah.\""
+    # cl "\"I tell you what, Jebediah.\""
     cl "“我告訴你，Jebediah。”"
 
-# game/cliffroute3.rpy:1497
+# game/cliffroute3.rpy:1869
 translate Tchinese aftercliffint2_db6ecf9d:
 
     # cl "\"Why don’t I just pay you for half of the trip, and you can just focus on resting up here?\""
@@ -6925,12 +6925,12 @@ translate Tchinese aftercliffint2_7693bc61:
     m "“就算我祖父母知道，他們也沒說過。”"
 
 # game/cliffroute3.rpy:1869
-translate Tchinese aftercliffint2_ee720140:
+translate Tchinese aftercliffint2_d59479b9:
 
-    # m "\"We followed and the law and the religion of our township, but that place and my family is practically dead to me.\""
+    # m "\"We followed the law and the religion of our township, but that place and my family is practically dead to me.\""
     m "“我們遵從鎮上的法律跟信仰，但那個地方和我的家人對我而言都跟死了沒兩樣。”"
 
-# game/cliffroute3.rpy:1871
+# game/cliffroute3.rpy:2044
 translate Tchinese aftercliffint2_6172ce7c:
 
     # ts "\"Yet you still claim Christendom without its congregations?\""
@@ -7405,12 +7405,12 @@ translate Tchinese aftercliffint2_d4e2ee0c:
     m "“你應該知道……”"
 
 # game/cliffroute3.rpy:2044
-translate Tchinese aftercliffint2_f2b9fa8d:
+translate Tchinese aftercliffint2_0373cc0e:
 
-    # m "\"That little stoat fellah road all the way across the sea just to hear about stuff like this.\""
+    # m "\"That little stoat fellah rode all the way across the sea just to hear about stuff like this.\""
     m "“那隻鼬仔千里迢迢跨海而來就是想聽這種事。”"
 
-# game/cliffroute3.rpy:2046
+# game/cliffroute3.rpy:2339
 translate Tchinese aftercliffint2_752e53c2:
 
     # "He leers at me."
@@ -8221,12 +8221,10 @@ translate Tchinese aftercliffint2_4022c7d1:
     "想要我試著回到鎮上。"
 
 # game/cliffroute3.rpy:2326
-translate Tchinese aftercliffint2_e5cc963b:
+translate Tchinese aftercliffint2_95e6fc78:
 
-    # "There’s nowhere to go, or to hide, but back in the direction that I can from."
+    # "There’s nowhere to go, or to hide, but back in the direction that I came from."
     "沒地方能去，也沒地方躲，只能從哪來往哪去。"
-
-# game/cliffroute3.rpy:2327
 translate Tchinese aftercliffint2_60220a67:
 
     # "I can still see the trail that my own body made."
@@ -8952,8 +8950,6 @@ translate Tchinese aftercliffint2_fec97169:
     # "To be continued..."
     "未完待續……"
 
-# TODO: Translation updated at 2023-01-03 14:14
-
 # game/cliffroute3.rpy:220
 translate Tchinese strings:
 
@@ -8981,58 +8977,3 @@ translate Tchinese strings:
     old "Why is there only enough local business for one store?"
     new "這裡的商機只夠一間店生存嗎？"
 
-# TODO: Translation updated at 2023-03-17 21:10
-
-# game/cliffroute3.rpy:245
-translate Tchinese murdochtent_3cc9cdca:
-
-    # cl "\"The both of you.\""
-    cl "“你們兩個都是。”"
-
-# game/cliffroute3.rpy:761
-translate Tchinese aftertent_3954c87f:
-
-    # "I see some hogan structures closer to the treeline, but they don’t look as well-maintained as the one Gad and Manaba live in."
-    "靠近林木線的地方倒是有一些泥屋，但看起來沒有Gad和Manaba居住的那座保養得好。"
-
-# game/cliffroute3.rpy:1157
-translate Tchinese aftercliffint2_8abbda43:
-
-    # mu "\"Our company will be staying for a week, if that isn’t a problem.\""
-    mu "“我們一行人會待一個禮拜，如果可以的話。”"
-
-# game/cliffroute3.rpy:1214
-translate Tchinese aftercliffint2_d3860c57:
-
-    # m "\"Maybe he put it down as Jebediah Coles?\""
-    m "“有沒有可能寫的是Jebediah Coles？”"
-
-# game/cliffroute3.rpy:1310
-translate Tchinese aftercliffint2_f6df6de0:
-
-    # mu "\"Where exactly is he staying?\""
-    mu "“他到底住在哪？”"
-
-# game/cliffroute3.rpy:1494
-translate Tchinese aftercliffint2_4161db1a:
-
-    # cl "\"I tell you what, Jebediah.\""
-    cl "“我告訴你，Jebediah。”"
-
-# game/cliffroute3.rpy:1869
-translate Tchinese aftercliffint2_d59479b9:
-
-    # m "\"We followed the law and the religion of our township, but that place and my family is practically dead to me.\""
-    m "“我們遵從鎮上的法律跟信仰，但那個地方和我的家人對我而言都跟死了沒兩樣。”"
-
-# game/cliffroute3.rpy:2044
-translate Tchinese aftercliffint2_0373cc0e:
-
-    # m "\"That little stoat fellah rode all the way across the sea just to hear about stuff like this.\""
-    m "“那隻鼬仔千里迢迢跨海而來就是想聽這種事。”"
-
-# game/cliffroute3.rpy:2339
-translate Tchinese aftercliffint2_95e6fc78:
-
-    # "There’s nowhere to go, or to hide, but back in the direction that I came from."
-    "沒地方能去，也沒地方躲，只能從哪來往哪去。"

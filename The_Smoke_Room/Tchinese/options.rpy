@@ -1,6 +1,6 @@
-﻿# TODO: Translation updated at 2022-12-20 02:52
+﻿# TODO: Translation updated at 2023-03-19 20:06
 
-translate Tchinese strings:
+translate Schinese strings:
 
     # game/options.rpy:15
     old "The Smoke Room"

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-01-18 18:51
+﻿# TODO: Translation updated at 2023-03-19 20:06
 
 # game/murdochroute2.rpy:11
 translate Tchinese murdochroute2_47a8bff9:
@@ -14472,12 +14472,12 @@ translate Tchinese murdochroute2_8c6be8f3:
     m "“跟你們這些孩子的磚頭城堡比差遠了。”"
 
 # game/murdochroute2.rpy:4011
-translate Tchinese murdochroute2_b9190597:
+translate Tchinese murdochroute2_fdc6ff7c:
 
-    # m "\"Two years is what you go for free.\""
+    # m "\"Two years is what you got for free.\""
     m "“只有兩年的學費是免費的。”"
 
-# game/murdochroute2.rpy:4012
+# game/murdochroute2.rpy:8040
 translate Tchinese murdochroute2_a7f47e56:
 
     # m "\"The extra stuff costs money, and finding a private tutor.\""
@@ -28392,12 +28392,16 @@ translate Tchinese mdq2_0ffb32b9:
     "不帶上我那些倒楣朋友，我誓不爬出那鬼洞穴。"
 
 # game/murdochroute2.rpy:8033
-translate Tchinese mdq2_02851a6d:
+translate Tchinese mdq2_30f617c5:
 
-    # m "\"NO!\""
-    m "“不要！”"
+    # m "\"NO!{nw}"
+    m "“不要！{nw}"
 
-# game/murdochroute2.rpy:8036
+# game/murdochroute2.rpy:8042
+translate Tchinese mdq2_f1cd2d06:
+
+    # extend "\"{w=1.25}{nw}"
+    extend "\"{w=1.25}{nw}"
 translate Tchinese mdq2_1c3cda33:
 
     # "When I wake up the bed is wet from my own sweat."
@@ -28543,46 +28547,27 @@ translate Tchinese mdq2_9ec80b3b:
 
 translate Tchinese strings:
 
-    # game/murdochroute2.rpy:5462
+    # game/murdochroute2.rpy:5465
     old "He looks..."
     new "他看起來……"
 
-    # game/murdochroute2.rpy:5462
+    # game/murdochroute2.rpy:5465
     old "Just fine"
     new "挺不賴的"
 
-    # game/murdochroute2.rpy:6396
+    # game/murdochroute2.rpy:6399
     old "Well let’s see..."
     new "這個嘛……"
 
-    # game/murdochroute2.rpy:6396
+    # game/murdochroute2.rpy:6399
     old "300?"
     new "300？"
 
-    # game/murdochroute2.rpy:6396
+    # game/murdochroute2.rpy:6399
     old "400?"
     new "400？"
 
-    # game/murdochroute2.rpy:6396
+    # game/murdochroute2.rpy:6399
     old "500?"
     new "500？"
 
-# TODO: Translation updated at 2023-03-17 21:10
-
-# game/murdochroute2.rpy:4013
-translate Tchinese murdochroute2_fdc6ff7c:
-
-    # m "\"Two years is what you got for free.\""
-    m "“只有兩年的學費是免費的。”"
-
-# game/murdochroute2.rpy:8040
-translate Tchinese mdq2_30f617c5:
-
-    # m "\"NO!{nw}"
-    m "“不要！{nw}"
-
-# game/murdochroute2.rpy:8042
-translate Tchinese mdq2_f1cd2d06:
-
-    # extend "\"{w=1.25}{nw}"
-    extend "\"{w=1.25}{nw}"

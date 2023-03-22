@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-01-18 18:51
+﻿# TODO: Translation updated at 2023-03-19 20:06
 
 # game/nikroute2.rpy:10
 translate Tchinese nikroute2_ac8ac9d1:
@@ -19249,12 +19249,10 @@ translate Tchinese sellcomp_cb02d75a:
     di "“別太往心裡去了。”"
 
 # game/nikroute2.rpy:6366
-translate Tchinese sellcomp_d0d2573f:
+translate Tchinese sellcomp_e890688d:
 
-    # di "\"Many won’t make the effort to know you if you before a year, because so many men come and go.\""
+    # di "\"Many won’t make the effort to know you if you leave before a year, because so many men come and go.\""
     di "“很多人都懶得去認識來不到一年的傢伙，畢竟太多人來來去去了。”"
-
-# game/nikroute2.rpy:6368
 translate Tchinese sellcomp_0ecd9bc6:
 
     # di "\"In fact, we’re lucky to have so many veteran miners on level three.\""
@@ -25524,16 +25522,9 @@ translate Tchinese strings:
 
     # game/nikroute2.rpy:8471
     old "Straight"
-    new "直走。"
+    new "直走"
 
     # game/nikroute2.rpy:8471
     old "The map's left, my right,"
     new "地圖的左邊，我的右邊。"
 
-# TODO: Translation updated at 2023-03-17 21:10
-
-# game/nikroute2.rpy:6368
-translate Tchinese sellcomp_e890688d:
-
-    # di "\"Many won’t make the effort to know you if you leave before a year, because so many men come and go.\""
-    di "“很多人都懶得去認識來不到一年的傢伙，畢竟太多人來來去去了。”"

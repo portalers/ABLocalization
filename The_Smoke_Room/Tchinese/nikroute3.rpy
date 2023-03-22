@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-01-18 18:51
+﻿# TODO: Translation updated at 2023-03-19 20:06
 
 # game/nikroute3.rpy:3
 translate Tchinese nikroute3_1fb29d2f:
@@ -8935,26 +8935,27 @@ translate Tchinese nikroute3a_fec97169:
 
 translate Tchinese strings:
 
-    # game/nikroute3.rpy:1056
+    # game/nikroute3.rpy:1263
     old "I..."
     new "我……"
 
-    # game/nikroute3.rpy:1056
+    # game/nikroute3.rpy:1263
     old "I need to think on it."
     new "讓我考慮考慮。"
 
-    # game/nikroute3.rpy:1056
+    # game/nikroute3.rpy:1263
     old "Absolutely."
     new "完全願意。"
 
-    # game/nikroute3.rpy:1714
+    # game/nikroute3.rpy:1954
     old "Am I into this?"
     new "我想這麼做嗎？"
 
-    # game/nikroute3.rpy:1714
+    # game/nikroute3.rpy:1954
     old "Yeah!"
     new "好耶！"
 
-    # game/nikroute3.rpy:1714
+    # game/nikroute3.rpy:1954
     old "I'm good."
     new "不用了。"
+

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-01-18 18:51
+﻿# TODO: Translation updated at 2023-03-19 20:06
 
 # game/williamroute2.rpy:12
 translate Tchinese williamroute2_5cf8bf4a:
@@ -13206,3 +13206,4 @@ translate Tchinese strings:
     # game/williamroute2.rpy:3557
     old "Witches."
     new "女巫。"
+
