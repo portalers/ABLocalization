@@ -18874,7 +18874,7 @@ translate Tchinese hh_e2d4f181:
 # translate Tchinese hh_ddb4a920:
 
     # av "\"Don't blame him. Seeing something like this… it can do things to the body just as well as the mind.\""
-     av "“情有可原，看見這種景象……對身心都有影響。”"
+    av "“情有可原，看見這種景象……對身心都有影響。”"
 
 # game/cliffroute2.rpy:4873
 translate Tchinese hh_36d1d32c:
