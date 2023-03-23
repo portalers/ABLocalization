@@ -1,6 +1,6 @@
 ﻿# TODO: Translation updated at 2023-03-19 20:06
 
-translate Schinese strings:
+translate Tchinese strings:
 
     # game/screens.rpy:331
     old "Back"
