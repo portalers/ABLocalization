@@ -342,102 +342,6 @@ translate Schinese strings:
     old "Notebook"
     new "笔记"
 
-    # game/screens.rpy:1749
-    old "{color=#000000}{font=willfont.ttf}Huxley Greene is dead. His body was found frozen. Decapitated with ripping force.{/font}{/color}"
-    new "{color=#000000}{font=font/QianTuXianMoTi-2.ttf}死者，Huxley Greene，尸体被发现时已被冻僵。头部遭巨力撕扯，身首异处。{/font}{/color}"
-
-    # game/screens.rpy:1749
-    old "{color=#000000}{font=willfont.ttf}Where was the body found? ASK TODD LATER. {/font}{/color}"
-    new "{color=#000000}{font=font/QianTuXianMoTi-2.ttf}尸体所在地是？{b}要找机会问问Todd。{/b} {/font}{/color}"
-
-    # game/screens.rpy:1749
-    old "{color=#000000} {font=willfont.ttf}Cliff claims Reed tries to break into his apartment.{/font} {/color}"
-    new "{color=#000000} {font=font/QianTuXianMoTi-2.ttf}Cliff说Reed试图闯入他的公寓。{/font} {/color}"
-
-    # game/screens.rpy:1749
-    old "{color=#000000}{font=willfont.ttf}Cliff works with James for CGCS.{/font}{/color}"
-    new "{color=#000000}{font=font/QianTuXianMoTi-2.ttf}Cliff和James一起效力于CGCS。{/font}{/color}"
-
-    # game/screens.rpy:1749
-    old "{color=#000000}{font=willfont.ttf}Cliff's real name is Cornelis. He claims he does not have his worker's permit.{/font} {/color}"
-    new "{color=#000000}{font=font/QianTuXianMoTi-2.ttf}Cliff的真名是Cornelis，据他本人称没有工作证。{/font} {/color}"
-
-    # game/screens.rpy:1749
-    old "{color=#000000}{font=willfont.ttf}[stagnighttext!ti]{/font}{/color}"
-    new "{color=#000000}{font=font/QianTuXianMoTi-2.ttf}[stagnighttext!ti]{/font}{/color}"
-
-    # game/screens.rpy:1749
-    old "{color=#000000}{font=willfont.ttf}[chnighttext!ti]{/font}{/color}"
-    new "{color=#000000}{font=font/QianTuXianMoTi-2.ttf}[chnighttext!ti]{/font}{/color}"
-
-    # game/screens.rpy:1749
-    old "{color=#000000}{font=willfont.ttf}[huxley1!ti]{/font}{/color}"
-    new "{color=#000000}{font=font/QianTuXianMoTi-2.ttf}[huxley1!ti]{/font}{/color}"
-
-    # game/screens.rpy:1749
-    old "{color=#000000}{font=willfont.ttf}[huxley2!ti]{/font}{/color}"
-    new "{color=#000000}{font=font/QianTuXianMoTi-2.ttf}[huxley2!ti]{/font}{/color}"
-
-    # game/screens.rpy:1749
-    old "{color=#000000}{font=willfont.ttf}[huxley3!ti]{/font}{/color}"
-    new "{color=#000000}{font=font/QianTuXianMoTi-2.ttf}[huxley3!ti]{/font}{/color}"
-
-    # game/screens.rpy:1749
-    old "{color=#000000}{font=willfont.ttf}[jamestext!ti]{/font}{/color}"
-    new "{color=#000000}{font=font/QianTuXianMoTi-2.ttf}[jamestext!ti]{/font}{/color}"
-
-    # game/screens.rpy:1749
-    old "{color=#000000}{font=willfont.ttf}[changtext!ti]{/font}{/color}"
-    new "{color=#000000}{font=font/QianTuXianMoTi-2.ttf}[changtext!ti]{/font}{/color}"
-
-    # game/screens.rpy:1749
-    old "{color=#000000}{font=willfont.ttf} Sam needs to sleep more. [cynthiatext!ti]{/font}{/color}"
-    new "{color=#000000}{font=font/QianTuXianMoTi-2.ttf} Sam需要更多睡眠。 [cynthiatext!ti]{/font}{/color}"
-
-    # game/screens.rpy:1749
-    old "{color=#000000}{font=willfont.ttf}[harlantext!ti]{/font}{/color}"
-    new "{color=#000000}{font=font/QianTuXianMoTi-2.ttf}[harlantext!ti]{/font}{/color}"
-
-    # game/screens.rpy:1749
-    old "{color=#000000}{font=willfont.ttf}[etheltext!ti]{/font}{/color}"
-    new "{color=#000000}{font=font/QianTuXianMoTi-2.ttf}[etheltext!ti]{/font}{/color}"
-
-    # game/screens.rpy:1749
-    old "{color=#000000}{font=willfont.ttf}[huxley4!ti]{/font}{/color}"
-    new "{color=#000000}{font=font/QianTuXianMoTi-2.ttf}[huxley4!ti]{/font}{/color}"
-
-    # game/screens.rpy:1749
-    old "{color=#000000}{font=willfont.ttf}[gumtext!ti]{/font}{/color}"
-    new "{color=#000000}{font=font/QianTuXianMoTi-2.ttf}[gumtext!ti]{/font}{/color}"
-
-    # game/screens.rpy:1749
-    old "{color=#000000}{font=willfont.ttf}[kanetext!ti]{/font}{/color}"
-    new "{color=#000000}{font=font/QianTuXianMoTi-2.ttf}[kanetext!ti]{/font}{/color}"
-
-    # game/screens.rpy:1749
-    old "{color=#000000}{font=willfont.ttf}[filmtext!ti]{/font}{/color}"
-    new "{color=#000000}{font=font/QianTuXianMoTi-2.ttf}[filmtext!ti]{/font}{/color}"
-
-    # game/screens.rpy:1749
-    old "{color=#000000}{font=willfont.ttf}[jartext!ti]{/font}{/color}"
-    new "{color=#000000}{font=font/QianTuXianMoTi-2.ttf}[jartext!ti]{/font}{/color}"
-
-    # game/screens.rpy:1749
-    old "{color=#000000}{font=willfont.ttf}[shroudtext!ti]{/font}{/color}"
-    new "{color=#000000}{font=font/QianTuXianMoTi-2.ttf}[shroudtext!ti]{/font}{/color}"
-
-    # game/screens.rpy:1749
-    old "{color=#000000}{font=willfont.ttf}[dolltext!ti] [marcydolltext!ti]{/font}{/color}"
-    new "{color=#000000}{font=font/QianTuXianMoTi-2.ttf}[dolltext!ti] [marcydolltext!ti]{/font}{/color}"
-
-    # game/screens.rpy:1749
-    old "{color=#000000}{font=willfont.ttf}[samtoddtext!ti]{/font}{/color}"
-    new "{color=#000000}{font=font/QianTuXianMoTi-2.ttf}[samtoddtext!ti]{/font}{/color}"
-
-    # game/screens.rpy:1749
-    old "{color=#000000}{font=willfont.ttf}[murdochtext!ti]{/font}{/color}"
-    new "{color=#000000}{font=font/QianTuXianMoTi-2.ttf}[murdochtext!ti]{/font}{/color}"
-
     # game/screens.rpy:1889
     old "Notes:"
     new "笔记："
@@ -466,3 +370,6 @@ translate Schinese strings:
     old "Close"
     new "关闭"
 
+    # game/screens.rpy:1910
+    old "Notebook updated."
+    new "笔记已更新。"
