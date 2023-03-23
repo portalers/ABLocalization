@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-03-19 20:06
+# TODO: Translation updated at 2023-03-19 20:06
 
 translate Schinese strings:
 
@@ -16,7 +16,7 @@ translate Schinese strings:
 
     # game/script.rpy:1908
     old ".."
-    new "……"
+    new "..."
 
     # game/script.rpy:1909
     old "Hendricks is usually up to something. Worst thing is, it's probably not illegal."
@@ -76,15 +76,15 @@ translate Schinese strings:
 
     # game/script.rpy:1924
     old "..."
-    new "……"
+    new "..."
 
     # game/script.rpy:1925
     old "Slick, fellahs..."
-    new "巧舌如簧啊，伙计们……"
+    new "巧舌如簧啊，伙计们..."
 
     # game/script.rpy:1926
     old "Her grandma's shroud was in the bed... I have a pretty good idea of what we'd find if we opened it."
-    new "床上是她奶奶的裹尸布……不难想象里面是什么。"
+    new "床上是她奶奶的裹尸布...不难想象里面是什么。"
 
     # game/script.rpy:1927
     old "It's probably nothing."
