@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-03-19 20:06
+# TODO: Translation updated at 2023-03-19 20:06
 
 # game/murdochroute2.rpy:11
 translate Schinese murdochroute2_47a8bff9:
@@ -160,7 +160,7 @@ translate Schinese murdochroute2_7d4fb5c3:
 translate Schinese murdochroute2_a20cefa7:
 
     # "..."
-    "……"
+    "..."
 
 # game/murdochroute2.rpy:40
 translate Schinese murdochroute2_4505c878:
@@ -310,7 +310,7 @@ translate Schinese murdochroute2_dc09cf8d:
 translate Schinese murdochroute2_a20cefa7_1:
 
     # "..."
-    "……"
+    "..."
 
 # game/murdochroute2.rpy:69
 translate Schinese murdochroute2_5519f762:
@@ -376,7 +376,7 @@ translate Schinese murdochroute2_6b00698d:
 translate Schinese murdochroute2_58106ee9:
 
     # "Everybody looks so still and so perfect... like they're made of porcelain."
-    "每样看起来都如此平静、完美……仿佛陶瓷制品。"
+    "每样看起来都如此平静、完美...仿佛陶瓷制品。"
 
 # game/murdochroute2.rpy:81
 translate Schinese murdochroute2_4af23ee2:
@@ -478,7 +478,7 @@ translate Schinese murdochroute2_afd9f946:
 translate Schinese murdochroute2_eb36d6a8:
 
     # m "\"...like a goliath?\""
-    m "“……比如歌利亚？”"
+    m "“...比如歌利亚？”"
 
 # game/murdochroute2.rpy:108
 translate Schinese murdochroute2_9fe94838:
@@ -508,13 +508,13 @@ translate Schinese murdochroute2_d1171c7d:
 translate Schinese murdochroute2_fd7e81eb:
 
     # m "\"So...\""
-    m "“那么……”"
+    m "“那么...”"
 
 # game/murdochroute2.rpy:113
 translate Schinese murdochroute2_7cf0c1c9:
 
     # m "\"...Speaking of Murdoch, I was lookin' for him.\""
-    m "“……说到Murdoch，我在找他。”"
+    m "“...说到Murdoch，我在找他。”"
 
 # game/murdochroute2.rpy:114
 translate Schinese murdochroute2_88542279:
@@ -586,7 +586,7 @@ translate Schinese murdochroute2_a881d86f:
 translate Schinese murdochroute2_45473cb4:
 
     # "...old lunatic."
-    "……老疯子。"
+    "...老疯子。"
 
 # game/murdochroute2.rpy:133
 translate Schinese murdochroute2_a69c7155:
@@ -676,7 +676,7 @@ translate Schinese murdochroute2_e8a5268a:
 translate Schinese murdochroute2_cdfede9c:
 
     # "Still, I need some directions..."
-    "不过，我需要一些指引……"
+    "不过，我需要一些指引..."
 
 # game/murdochroute2.rpy:153
 translate Schinese murdochroute2_54a4b01e:
@@ -700,7 +700,7 @@ translate Schinese murdochroute2_9d167d50:
 translate Schinese murdochroute2_e22e672d:
 
     # "???" "\"Yeah, birds don't live for very long Melissa...\""
-    "???" "“是啊，鸟是活不久的，Melissa……”"
+    "???" "“是啊，鸟是活不久的，Melissa...”"
 
 # game/murdochroute2.rpy:160
 translate Schinese murdochroute2_5607a55f:
@@ -796,7 +796,7 @@ translate Schinese murdochroute2_5fc68c06:
 translate Schinese murdochroute2_ced8d856:
 
     # me "\"Well...\""
-    me "“话说……”"
+    me "“话说...”"
 
 # game/murdochroute2.rpy:193
 translate Schinese murdochroute2_6fcce487:
@@ -826,7 +826,7 @@ translate Schinese murdochroute2_d79782bb:
 translate Schinese murdochroute2_f6b6d48c:
 
     # m "\"Ah...\""
-    m "“啊……”"
+    m "“啊...”"
 
 # game/murdochroute2.rpy:197
 translate Schinese murdochroute2_93ea01a2:
@@ -1030,13 +1030,13 @@ translate Schinese murdochroute2_07625482:
 translate Schinese murdochroute2_05ec2cab:
 
     # mu "\"At first I was beginning to worry that you wouldn't show...\""
-    mu "“一开始，我还担心你不会来了……”"
+    mu "“一开始，我还担心你不会来了...”"
 
 # game/murdochroute2.rpy:252
 translate Schinese murdochroute2_05443fe8:
 
     # mu "\"...but then I remembered that I forgot to tell you to meet me here.\""
-    mu "“……但后来，我想起自己没有告诉你来这里见我。”"
+    mu "“...但后来，我想起自己没有告诉你来这里见我。”"
 
 # game/murdochroute2.rpy:254
 translate Schinese murdochroute2_07c7ab9c:
@@ -1054,7 +1054,7 @@ translate Schinese murdochroute2_a4ab1bab:
 translate Schinese murdochroute2_72c92604:
 
     # m "\"We both had one thing on our mind yesterday...\""
-    m "“我们都有自己的心事……”"
+    m "“我们都有自己的心事...”"
 
 # game/murdochroute2.rpy:889
 translate Schinese murdochroute2_ebc0afe9:
@@ -1828,7 +1828,7 @@ translate Schinese murdochroute2_7b891118:
 translate Schinese murdochroute2_cced4559:
 
     # ho "\"Ah...\""
-    ho "“啊……”"
+    ho "“啊...”"
 
 # game/murdochroute2.rpy:529
 translate Schinese murdochroute2_5b86f57c:
@@ -1870,13 +1870,13 @@ translate Schinese murdochroute2_d4fb7fa3:
 translate Schinese murdochroute2_4be642b8:
 
     # "I feel a sense of relief... which is a little strange, since I still don't know this fellow..."
-    "我松了口气……多奇怪啊，我明明迄今都拿不准这家伙……"
+    "我松了口气...多奇怪啊，我明明迄今都拿不准这家伙..."
 
 # game/murdochroute2.rpy:541
 translate Schinese murdochroute2_121d8931:
 
     # "...or his shifty family."
-    "……还有他阴晴不定的家人们。"
+    "...还有他阴晴不定的家人们。"
 
 # game/murdochroute2.rpy:542
 translate Schinese murdochroute2_1e7aae68:
@@ -1888,7 +1888,7 @@ translate Schinese murdochroute2_1e7aae68:
 translate Schinese murdochroute2_762fb7ac:
 
     # mu "\"You thought right... I'm picky.\""
-    mu "“你想的没错……我是很挑剔。”"
+    mu "“你想的没错...我是很挑剔。”"
 
 # game/murdochroute2.rpy:546
 translate Schinese murdochroute2_32596f29:
@@ -2026,7 +2026,7 @@ translate Schinese murdochroute2_bcd08820:
 translate Schinese murdochroute2_67f1572a:
 
     # cl "\"Yes, well...\""
-    cl "“是的，唔……”"
+    cl "“是的，唔...”"
 
 # game/murdochroute2.rpy:595
 translate Schinese murdochroute2_8d534ac7:
@@ -2080,13 +2080,13 @@ translate Schinese murdochroute2_7e9e339d:
 translate Schinese murdochroute2_3a691ca1:
 
     # cl "\"I could ask...\""
-    cl "“我可以问问看……”"
+    cl "“我可以问问看...”"
 
 # game/murdochroute2.rpy:614
 translate Schinese murdochroute2_e8c09908:
 
     # cl "\"...But it may not be possible for him to wait.\""
-    cl "“……但他多半等不了。”"
+    cl "“...但他多半等不了。”"
 
 # game/murdochroute2.rpy:616
 translate Schinese murdochroute2_8a8cc65e:
@@ -2098,7 +2098,7 @@ translate Schinese murdochroute2_8a8cc65e:
 translate Schinese murdochroute2_c7992de0:
 
     # mu "\"Well, ah...\""
-    mu "“这，嗯……”"
+    mu "“这，嗯...”"
 
 # game/murdochroute2.rpy:620
 translate Schinese murdochroute2_65ad0e07:
@@ -2128,7 +2128,7 @@ translate Schinese murdochroute2_82168382:
 translate Schinese murdochroute2_c0855b00:
 
     # ra "\"I hate to interrupt... wherever this is trying to go.\""
-    ra "“我本不想插嘴……”"
+    ra "“我本不想插嘴...”"
 
 # game/murdochroute2.rpy:632
 translate Schinese murdochroute2_bbdca5db:
@@ -2284,13 +2284,13 @@ translate Schinese murdochroute2_3f352e16:
 translate Schinese murdochroute2_5cb7aecb:
 
     # m "\"It's just...\""
-    m "“不过……”"
+    m "“不过...”"
 
 # game/murdochroute2.rpy:686
 translate Schinese murdochroute2_e59bc295:
 
     # m "\"...aren't you acting like you're his pappy or somethin'?\""
-    m "“……你就不觉得你像他爸似的么？”"
+    m "“...你就不觉得你像他爸似的么？”"
 
 # game/murdochroute2.rpy:688
 translate Schinese murdochroute2_18696d05:
@@ -2572,7 +2572,7 @@ translate Schinese murdochroute2_aa1c59d7:
 translate Schinese murdochroute2_707a988d:
 
     # mu "\"Well...\""
-    mu "“唉……”"
+    mu "“唉...”"
 
 # game/murdochroute2.rpy:772
 translate Schinese murdochroute2_27cdfb84:
@@ -2716,13 +2716,13 @@ translate Schinese murdochroute2_ac23a424:
 translate Schinese murdochroute2_8089230a:
 
     # mu "\"It's not like you need my permission...\""
-    mu "“你又不需要我的许可……”"
+    mu "“你又不需要我的许可...”"
 
 # game/murdochroute2.rpy:825
 translate Schinese murdochroute2_08379c2b:
 
     # mu "\"...yet.\""
-    mu "“……暂时不需要。”"
+    mu "“...暂时不需要。”"
 
 # game/murdochroute2.rpy:827
 translate Schinese murdochroute2_45658492:
@@ -2788,7 +2788,7 @@ translate Schinese murdochroute2_f698535e:
 translate Schinese murdochroute2_a679e7da:
 
     # "The frame of the door reminds me of the mineshaft the more and more I stare at it... and the room under the stairs is inky black."
-    "那副门框，还有如墨一般漆黑的房间……我越是凝视，就越觉得像矿井。"
+    "那副门框，还有如墨一般漆黑的房间...我越是凝视，就越觉得像矿井。"
 
 # game/murdochroute2.rpy:848
 translate Schinese murdochroute2_8794e2d9:
@@ -2950,7 +2950,7 @@ translate Schinese murdochroute2_4ae368cf:
 translate Schinese murdochroute2_aee17aa8:
 
     # m "\"Sand... rock... darkness. It's the mines.\""
-    m "“沙子……岩石……黑暗。上面是矿井。”"
+    m "“沙子...岩石...黑暗。上面是矿井。”"
 
 # game/murdochroute2.rpy:888
 translate Schinese murdochroute2_7ffe9e68:
@@ -3028,19 +3028,19 @@ translate Schinese murdochroute2_571e361d:
 translate Schinese murdochroute2_8b0fdf61:
 
     # mu "\"She said that everything that we see is just...\""
-    mu "“她说我们看到的一切，只是……”"
+    mu "“她说我们看到的一切，只是...”"
 
 # game/murdochroute2.rpy:914
 translate Schinese murdochroute2_94c4fbb0:
 
     # mu "\"...reflected light.\""
-    mu "“……光的反射。”"
+    mu "“...光的反射。”"
 
 # game/murdochroute2.rpy:916
 translate Schinese murdochroute2_7d16d52d:
 
     # mu "\"That we're not seeing what's really there, not honestly...\""
-    mu "“我们并没有实际看到那里的东西……”"
+    mu "“我们并没有实际看到那里的东西...”"
 
 # game/murdochroute2.rpy:918
 translate Schinese murdochroute2_080c986c:
@@ -3094,13 +3094,13 @@ translate Schinese murdochroute2_3f9afcb8:
 translate Schinese murdochroute2_2ef0f3a7:
 
     # mu "\"But rarely when I'm thinking about it...\""
-    mu "“不过我很少思考过这些……”"
+    mu "“不过我很少思考过这些...”"
 
 # game/murdochroute2.rpy:936
 translate Schinese murdochroute2_da6a244c:
 
     # mu "\"...and rarely when I'm staring directly at it and know that something's wrong.\""
-    mu "“……也很少直接盯着那些异常的照片。”"
+    mu "“...也很少直接盯着那些异常的照片。”"
 
 # game/murdochroute2.rpy:938
 translate Schinese murdochroute2_0ca77ed1:
@@ -3124,7 +3124,7 @@ translate Schinese murdochroute2_c29920d3:
 translate Schinese murdochroute2_52ea5a1d:
 
     # mu "\"But you're looking at a photograph today, seeing something completely different from me... and it doesn't change back.\""
-    mu "“然而你今天在照片上看到的，与我完全不一样……并且没有变回去。”"
+    mu "“然而你今天在照片上看到的，与我完全不一样...并且没有变回去。”"
 
 # game/murdochroute2.rpy:947
 translate Schinese murdochroute2_bf994218:
@@ -3136,7 +3136,7 @@ translate Schinese murdochroute2_bf994218:
 translate Schinese murdochroute2_7072f3b4:
 
     # "No..."
-    "不……"
+    "不..."
 
 # game/murdochroute2.rpy:949
 translate Schinese murdochroute2_e81a5647:
@@ -3148,7 +3148,7 @@ translate Schinese murdochroute2_e81a5647:
 translate Schinese murdochroute2_036bdf1a:
 
     # no "\"Lo..ok again... see the real me.\""
-    no "“再看……一遍……看看真实的我。”"
+    no "“再看...一遍...看看真实的我。”"
 
 # game/murdochroute2.rpy:952
 translate Schinese murdochroute2_494a74b4:
@@ -3160,7 +3160,7 @@ translate Schinese murdochroute2_494a74b4:
 translate Schinese murdochroute2_8753e3ac:
 
     # no "\"...no higher cause... an empty vessel.\""
-    no "“……没有更高的思想……一个空洞的容器。”"
+    no "“...没有更高的思想...一个空洞的容器。”"
 
 # game/murdochroute2.rpy:954
 translate Schinese murdochroute2_57ec3c6d:
@@ -3178,19 +3178,19 @@ translate Schinese murdochroute2_66c4228f:
 translate Schinese murdochroute2_7032f55c:
 
     # no "\"A bloated body ...sustained in sloth.\""
-    no "“臃肿的身体……在懒惰中浮沉。”"
+    no "“臃肿的身体...在懒惰中浮沉。”"
 
 # game/murdochroute2.rpy:957
 translate Schinese murdochroute2_cd682d7c:
 
     # no "\"...damnation reeks...clings...\""
-    no "“……诅咒的气味……挥之不去……”"
+    no "“...诅咒的气味...挥之不去...”"
 
 # game/murdochroute2.rpy:971
 translate Schinese murdochroute2_ad65b13b:
 
     # no "\"... I will sprout in your dying skin.\""
-    no "“……我将在你垂死的皮肤上抽芽。”"
+    no "“...我将在你垂死的皮肤上抽芽。”"
 
 # game/murdochroute2.rpy:959
 translate Schinese murdochroute2_d42762ac:
@@ -3208,13 +3208,13 @@ translate Schinese murdochroute2_76fdfac9:
 translate Schinese murdochroute2_bdb17727:
 
     # no "\"...with your bloated bellies...\""
-    no "“……腆着肚子……”"
+    no "“...腆着肚子...”"
 
 # game/murdochroute2.rpy:962
 translate Schinese murdochroute2_7339fa46:
 
     # no "\"...dragging ...stuffed with my bounty.\""
-    no "“……拖走……塞满我的赏赐。”"
+    no "“...拖走...塞满我的赏赐。”"
 
 # game/murdochroute2.rpy:966
 translate Schinese murdochroute2_be14164d:
@@ -3250,25 +3250,25 @@ translate Schinese murdochroute2_f68cf17a:
 translate Schinese murdochroute2_657bf833:
 
     # no "\"...kill him...\""
-    no "“……杀了他……”"
+    no "“...杀了他...”"
 
 # game/murdochroute2.rpy:972
 translate Schinese murdochroute2_657bf833_1:
 
     # no "\"...kill him...\""
-    no "“……杀了他……”"
+    no "“...杀了他...”"
 
 # game/murdochroute2.rpy:973
 translate Schinese murdochroute2_8974e906:
 
     # no "\"...save yourself and kill him...\""
-    no "“……杀人救己……”"
+    no "“...杀人救己...”"
 
 # game/murdochroute2.rpy:977
 translate Schinese murdochroute2_d46fbbe0:
 
     # no "\"}...no sex, no food, no laughter in death... just sand... just clay... just oblivion and mud...\""
-    no "“……没有性，没有食物，没有死亡的欢笑……只有沙子……只有黏土……只有遗忘与泥泞。”"
+    no "“...没有性，没有食物，没有死亡的欢笑...只有沙子...只有黏土...只有遗忘与泥泞。”"
 
 # game/murdochroute2.rpy:975
 translate Schinese murdochroute2_b1f0478d:
@@ -3280,25 +3280,25 @@ translate Schinese murdochroute2_b1f0478d:
 translate Schinese murdochroute2_cc5b861c:
 
     # no "\"...every memory will unspool... every touch you feel will numb.\""
-    no "“……所有的记忆都将消失……你的每一次触摸都将麻木。”"
+    no "“...所有的记忆都将消失...你的每一次触摸都将麻木。”"
 
 # game/murdochroute2.rpy:977
 translate Schinese murdochroute2_a3094fbe:
 
     # no "\"...how sad for you to die...\""
-    no "“……你的死亡多么悲哀……”"
+    no "“...你的死亡多么悲哀...”"
 
 # game/murdochroute2.rpy:1417
 translate Schinese murdochroute2_3398e4fa:
 
     # no "\"...how soon for you to die...\""
-    no "“……你的死亡何时到来……”"
+    no "“...你的死亡何时到来...”"
 
 # game/murdochroute2.rpy:979
 translate Schinese murdochroute2_7e9c1639:
 
     # no "\"...humiliated harlot...\""
-    no "“……淫货……”"
+    no "“...淫货...”"
 
 # game/murdochroute2.rpy:980
 translate Schinese murdochroute2_3ea2e0b8:
@@ -3334,7 +3334,7 @@ translate Schinese murdochroute2_a8d53e93:
 translate Schinese murdochroute2_82478683:
 
     # no "\"...kill the fox...\""
-    no "“……杀了那只狐狸……”"
+    no "“...杀了那只狐狸...”"
 
 # game/murdochroute2.rpy:988
 translate Schinese murdochroute2_7aeef3a2:
@@ -3346,7 +3346,7 @@ translate Schinese murdochroute2_7aeef3a2:
 translate Schinese murdochroute2_1a9d8109:
 
     # no "\"...il...the...ox...\""
-    no "“……杀……那……狸……”"
+    no "“...杀...那...狸...”"
 
 # game/murdochroute2.rpy:990
 translate Schinese murdochroute2_23138e39:
@@ -3400,13 +3400,13 @@ translate Schinese murdochroute2_6a0bdefd:
 translate Schinese murdochroute2_77f3e141:
 
     # mu "\"...please stop crying.\""
-    mu "“……请不要哭了。”"
+    mu "“...请不要哭了。”"
 
 # game/murdochroute2.rpy:1002
 translate Schinese murdochroute2_97c0218f:
 
     # mu "\"...I promise it's okay.\""
-    mu "“……我保证没事的。”"
+    mu "“...我保证没事的。”"
 
 # game/murdochroute2.rpy:1004
 translate Schinese murdochroute2_7c04a447:
@@ -3418,7 +3418,7 @@ translate Schinese murdochroute2_7c04a447:
 translate Schinese murdochroute2_f1107157:
 
     # "I open my eyes to see if he is crying too... or if he looks scared... or disgusted..."
-    "我睁开眼，去看他是否也在哭泣……或是恐惧……或是厌恶……"
+    "我睁开眼，去看他是否也在哭泣...或是恐惧...或是厌恶..."
 
 # game/murdochroute2.rpy:1007
 translate Schinese murdochroute2_fbe4b499:
@@ -3556,7 +3556,7 @@ translate Schinese murdochroute2_f40faec4:
 translate Schinese murdochroute2_31046ee4:
 
     # mu "\"So I know that... unique things happen here.\""
-    mu "“所以我知道……这里有不同寻常的事情发生。”"
+    mu "“所以我知道...这里有不同寻常的事情发生。”"
 
 # game/murdochroute2.rpy:1044
 translate Schinese murdochroute2_7cc0e6a2:
@@ -3604,13 +3604,13 @@ translate Schinese murdochroute2_f7aa92e0:
 translate Schinese murdochroute2_010c83d7:
 
     # mu "\"And in a town where people are constantly being touched, and remade... slowly...\""
-    mu "“镇子上的人们被触及，重塑……缓慢地……”"
+    mu "“镇子上的人们被触及，重塑...缓慢地...”"
 
 # game/murdochroute2.rpy:1060
 translate Schinese murdochroute2_46812749:
 
     # mu "\"A case of the bad humors sounds a lot less threatening to say...\""
-    mu "“一个差劲的幽默听起来没那么阴郁……”"
+    mu "“一个差劲的幽默听起来没那么阴郁...”"
 
 # game/murdochroute2.rpy:1062
 translate Schinese murdochroute2_1b5b756f:
@@ -3688,7 +3688,7 @@ translate Schinese murdochroute2_8981ad97:
 translate Schinese murdochroute2_707a988d_1:
 
     # mu "\"Well...\""
-    mu "“嗯……”"
+    mu "“嗯...”"
 
 # game/murdochroute2.rpy:1082
 translate Schinese murdochroute2_bcd8a28c:
@@ -3790,7 +3790,7 @@ translate Schinese murdochroute2_2da8e2e4:
 translate Schinese murdochroute2_5917d0bd:
 
     # "Maybe..."
-    "也许……"
+    "也许..."
 
 # game/murdochroute2.rpy:1106
 translate Schinese murdochroute2_363e8476:
@@ -3940,7 +3940,7 @@ translate Schinese murdochroute2_f125f7b1:
 translate Schinese murdochroute2_03e04bb0:
 
     # mu "\"And considering what we both saw tonight... We know that my testimony won't always be accurate anyhow.\""
-    mu "“而且就我们今晚看到的而言……我的证词不绝对准确，你我都知道。”"
+    mu "“而且就我们今晚看到的而言...我的证词不绝对准确，你我都知道。”"
 
 # game/murdochroute2.rpy:1153
 translate Schinese murdochroute2_fd7a1606:
@@ -3964,13 +3964,13 @@ translate Schinese murdochroute2_8e16731b:
 translate Schinese murdochroute2_965f14cd:
 
     # mu "\"I'm fairly certain that the core of the photo, what's contained in the pictures, doesn't change...\""
-    mu "“我可以肯定地说，照片的核心，也就是图片的内容是不会改变的……”"
+    mu "“我可以肯定地说，照片的核心，也就是图片的内容是不会改变的...”"
 
 # game/murdochroute2.rpy:1159
 translate Schinese murdochroute2_a4bce533:
 
     # mu "\"... just the perception of the person who's looking.\""
-    mu "“……不同的是观者的认识。”"
+    mu "“...不同的是观者的认识。”"
 
 # game/murdochroute2.rpy:1161
 translate Schinese murdochroute2_940b9b0f:
@@ -4714,7 +4714,7 @@ translate Schinese murdochroute2_ae8231bd:
 translate Schinese murdochroute2_defd4d37:
 
     # ra "\"Well...\""
-    ra "“唔……”"
+    ra "“唔...”"
 
 # game/murdochroute2.rpy:1371
 translate Schinese murdochroute2_ba21d8ef:
@@ -4984,7 +4984,7 @@ translate Schinese murdochroute2_a47dfee0:
 translate Schinese murdochroute2_d0345d1a:
 
     # m "\"Regardless...\""
-    m "“总之……”"
+    m "“总之...”"
 
 # game/murdochroute2.rpy:1438
 translate Schinese murdochroute2_4e8ac010:
@@ -4996,7 +4996,7 @@ translate Schinese murdochroute2_4e8ac010:
 translate Schinese murdochroute2_173b2dcc:
 
     # m "\"Samuel Ayers... Murdoch Byrnes...\""
-    m "“Samuel Ayers……Murdoch Byrnes……”"
+    m "“Samuel Ayers...Murdoch Byrnes...”"
 
 # game/murdochroute2.rpy:1441
 translate Schinese murdochroute2_e1cd5249:
@@ -5008,7 +5008,7 @@ translate Schinese murdochroute2_e1cd5249:
 translate Schinese murdochroute2_688f7f91:
 
     # m "\"...and the pharmacy rat...\""
-    m "“……还有药房里的老鼠……”"
+    m "“...还有药房里的老鼠...”"
 
 # game/murdochroute2.rpy:1451
 translate Schinese murdochroute2_50d4ff50:
@@ -5020,7 +5020,7 @@ translate Schinese murdochroute2_50d4ff50:
 translate Schinese murdochroute2_6f70ca52:
 
     # m "\"...went to lake Emma July 8th...\""
-    m "“……在七月八日晚上八点半……”"
+    m "“...在七月八日晚上八点半...”"
 
 # game/murdochroute2.rpy:1447
 translate Schinese murdochroute2_b06e1674:
@@ -5032,7 +5032,7 @@ translate Schinese murdochroute2_b06e1674:
 translate Schinese murdochroute2_3953b9cf:
 
     # mu "\"Eight-fifty...\""
-    mu "“是八点五十……”"
+    mu "“是八点五十...”"
 
 # game/murdochroute2.rpy:2265
 translate Schinese murdochroute2_13dd0b1b:
@@ -5224,13 +5224,13 @@ translate Schinese murdochroute2_003f2ad9:
 translate Schinese murdochroute2_a363dabf:
 
     # mu "\"So as I was saying...\""
-    mu "“正如我所说……”"
+    mu "“正如我所说...”"
 
 # game/murdochroute2.rpy:1503
 translate Schinese murdochroute2_09690b89:
 
     # mu "\"... my grandmother certainly wasn't a Christian.\""
-    mu "“……我的祖母当然不是基督徒，”"
+    mu "“...我的祖母当然不是基督徒，”"
 
 # game/murdochroute2.rpy:1505
 translate Schinese murdochroute2_207bdb05:
@@ -5542,7 +5542,7 @@ translate Schinese murdochroute2_6627f17b:
 translate Schinese murdochroute2_e9c47a3e:
 
     # mu "\"Except...\""
-    mu "“只是……”"
+    mu "“只是...”"
 
 # game/murdochroute2.rpy:1599
 translate Schinese murdochroute2_6ee8029d:
@@ -5920,7 +5920,7 @@ translate Schinese murdochroute2_ebb73dc7:
 translate Schinese murdochroute2_596aae0c:
 
     # m "\"...\""
-    m "“……”"
+    m "“...”"
 
 # game/murdochroute2.rpy:1701
 translate Schinese murdochroute2_16bb212b:
@@ -6352,13 +6352,13 @@ translate Schinese murdochroute2_b13fd40e:
 translate Schinese murdochroute2_fd7e81eb_1:
 
     # m "\"So...\""
-    m "“那么……”"
+    m "“那么...”"
 
 # game/murdochroute2.rpy:1821
 translate Schinese murdochroute2_c95c7a51:
 
     # m "\"...is there some other reason the two of you stalk this location?\""
-    m "“……你们两个掩人耳目过来还有什么原因？”"
+    m "“...你们两个掩人耳目过来还有什么原因？”"
 
 # game/murdochroute2.rpy:1822
 translate Schinese murdochroute2_203616a6:
@@ -7006,7 +7006,7 @@ translate Schinese murdochroute2_9e3a8df7:
 translate Schinese murdochroute2_c469d2f8:
 
     # mu "\"No...\""
-    mu "“不……”"
+    mu "“不...”"
 
 # game/murdochroute2.rpy:1973
 translate Schinese murdochroute2_d45f964b:
@@ -7450,7 +7450,7 @@ translate Schinese murdochroute2_4b1cfd5d:
 translate Schinese murdochroute2_161a6ef3:
 
     # "...What did she mean by that?"
-    "……这话是什么意思？"
+    "...这话是什么意思？"
 
 # game/murdochroute2.rpy:2098
 translate Schinese murdochroute2_de363db8:
@@ -7840,7 +7840,7 @@ translate Schinese murdochroute2_0e46693e:
 translate Schinese murdochroute2_7dd6b5fe:
 
     # mu "\"Sam...\""
-    mu "“Sam……”"
+    mu "“Sam...”"
 
 # game/murdochroute2.rpy:2200
 translate Schinese murdochroute2_51e2c810:
@@ -7858,7 +7858,7 @@ translate Schinese murdochroute2_c8802ce8:
 translate Schinese murdochroute2_18357f5e:
 
     # m "\"...But since the two of you need to be in a better mood to take care of business so to speak.\""
-    m "“不过既然你们二位需要更好的状态来……这么说吧，处理一下。”"
+    m "“不过既然你们二位需要更好的状态来...这么说吧，处理一下。”"
 
 # game/murdochroute2.rpy:2203
 translate Schinese murdochroute2_cdf064e8:
@@ -8062,7 +8062,7 @@ translate Schinese murdochroute2_03d2a2fc:
 translate Schinese murdochroute2_7dd6b5fe_1:
 
     # mu "\"Sam...\""
-    mu "“Sam……”"
+    mu "“Sam...”"
 
 # game/murdochroute2.rpy:2249
 translate Schinese murdochroute2_952b57ee:
@@ -8128,7 +8128,7 @@ translate Schinese murdochroute2_96c63a2e:
 translate Schinese murdochroute2_22a2bd62:
 
     # m "\"Both you and Ralph admitted that you used to spy on me, day one...\""
-    m "“你和Ralph从一开始就承认曾觊觎我了……”"
+    m "“你和Ralph从一开始就承认曾觊觎我了...”"
 
 # game/murdochroute2.rpy:2617
 translate Schinese murdochroute2_e5c1f1f7:
@@ -8314,7 +8314,7 @@ translate Schinese murdochroute2_68f3021e:
 translate Schinese murdochroute2_199bf9f2:
 
     # ra "\"Ah...\""
-    ra "“啊……”"
+    ra "“啊...”"
 
 # game/murdochroute2.rpy:2299
 translate Schinese murdochroute2_0a5df974:
@@ -8470,7 +8470,7 @@ translate Schinese murdochroute2_a66c57a3:
 translate Schinese murdochroute2_681e0b80:
 
     # ra "\"...\""
-    ra "“……”"
+    ra "“...”"
 
 # game/murdochroute2.rpy:2325
 translate Schinese murdochroute2_1d2e7d0d_1:
@@ -8896,7 +8896,7 @@ translate Schinese murdochroute2_75e6d0f4:
 translate Schinese murdochroute2_681e0b80_1:
 
     # ra "\"...\""
-    ra "“……”"
+    ra "“...”"
 
 # game/murdochroute2.rpy:2404
 translate Schinese murdochroute2_7b298d5c:
@@ -8938,7 +8938,7 @@ translate Schinese murdochroute2_71eec1c0:
 translate Schinese murdochroute2_e7ccb796:
 
     # mu "\"...\""
-    mu "“……”"
+    mu "“...”"
 
 # game/murdochroute2.rpy:2412
 translate Schinese murdochroute2_70913a11:
@@ -9016,7 +9016,7 @@ translate Schinese murdochroute2_83352fcd:
 translate Schinese murdochroute2_10309a58:
 
     # m "\"And you're not there because...?\""
-    m "“那你没有过去是因为……？”"
+    m "“那你没有过去是因为...？”"
 
 # game/murdochroute2.rpy:2433
 translate Schinese murdochroute2_eb34cf97:
@@ -9418,25 +9418,25 @@ translate Schinese murdochroute2_99dcd978:
 translate Schinese murdochroute2_31bce3ee:
 
     # ra "\"But even if you planned on whoring forever...\""
-    ra "“但要是你打算当一辈子妓女……”"
+    ra "“但要是你打算当一辈子妓女...”"
 
 # game/murdochroute2.rpy:2538
 translate Schinese murdochroute2_d723a7f4:
 
     # ra "\"...I hope you're bright enough to know that doing it here is a death wish.\""
-    ra "“……希望你的脑子足够好使，知道这不过是死路一条。”"
+    ra "“...希望你的脑子足够好使，知道这不过是死路一条。”"
 
 # game/murdochroute2.rpy:2540
 translate Schinese murdochroute2_430a102d:
 
     # ra "\"So if the two of you end up depending on one another more than you think you should...\""
-    ra "“所以，如果最后你们二人相互依赖的程度超过了自己的预期……”"
+    ra "“所以，如果最后你们二人相互依赖的程度超过了自己的预期...”"
 
 # game/murdochroute2.rpy:2541
 translate Schinese murdochroute2_6e7a33ac:
 
     # ra "\"...an escape plan would be shrewd.\""
-    ra "“……逃跑才是明智之举。”"
+    ra "“...逃跑才是明智之举。”"
 
 # game/murdochroute2.rpy:2542
 translate Schinese murdochroute2_739a1f09:
@@ -9706,7 +9706,7 @@ translate Schinese murdochroute2_abdbd8f7:
 translate Schinese murdochroute2_de7b25f1:
 
     # m "\"Speakin' of which...\""
-    m "“说到这……”"
+    m "“说到这...”"
 
 # game/murdochroute2.rpy:3186
 translate Schinese murdochroute2_519184f6:
@@ -9778,7 +9778,7 @@ translate Schinese murdochroute2_ac504003:
 translate Schinese murdochroute2_7ee278e6:
 
     # cy "\"I'd take you there but...\""
-    cy "“我可以带你过去，不过……”"
+    cy "“我可以带你过去，不过...”"
 
 # game/murdochroute2.rpy:2631
 translate Schinese murdochroute2_37209350:
@@ -9868,13 +9868,13 @@ translate Schinese murdochroute2_786af2ba:
 translate Schinese murdochroute2_416431f4:
 
     # "Holly's there too..."
-    "Holly也在……"
+    "Holly也在..."
 
 # game/murdochroute2.rpy:2655
 translate Schinese murdochroute2_5fe05e6c:
 
     # "...sitting next to her fiance, whose dick I drained just a few nights ago."
-    "……坐在她那位几天前差点被我吸干的未婚夫旁边。"
+    "...坐在她那位几天前差点被我吸干的未婚夫旁边。"
 
 # game/murdochroute2.rpy:2656
 translate Schinese murdochroute2_8b7f158c:
@@ -10534,13 +10534,13 @@ translate Schinese murdochroute2_7ed63e2c:
 translate Schinese murdochroute2_49c56294:
 
     # "I have to admit..."
-    "我必须承认……"
+    "我必须承认..."
 
 # game/murdochroute2.rpy:2922
 translate Schinese murdochroute2_a0829494:
 
     # "...I probably won't ever get an opportunity to see a telescope ever again if I pass this up."
-    "……如果错过这个机会，我可能就再也无缘见到望远镜了。"
+    "...如果错过这个机会，我可能就再也无缘见到望远镜了。"
 
 # game/murdochroute2.rpy:2923
 translate Schinese murdochroute2_1c63da82:
@@ -10660,7 +10660,7 @@ translate Schinese murdochroute2_ced0b97a:
 translate Schinese murdochroute2_73527b50:
 
     # dh "\"Seems like it will be just the two of us after all, Mr...?\""
-    dh "“看来只剩我们两个人了，这位先生……？”"
+    dh "“看来只剩我们两个人了，这位先生...？”"
 
 # game/murdochroute2.rpy:2970
 translate Schinese murdochroute2_927cb84e:
@@ -10702,7 +10702,7 @@ translate Schinese murdochroute2_96a7ab42:
 translate Schinese murdochroute2_9fe1728d:
 
     # m "\"...Sure thing.\""
-    m "“……当然可以。”"
+    m "“...当然可以。”"
 
 # game/murdochroute2.rpy:2983
 translate Schinese murdochroute2_59b2bdb7:
@@ -10774,7 +10774,7 @@ translate Schinese murdochroute2_4d14cc7e:
 translate Schinese murdochroute2_5ceddce4:
 
     # m "\"...Sorry.\""
-    m "“……不好意思。”"
+    m "“...不好意思。”"
 
 # game/murdochroute2.rpy:2999
 translate Schinese murdochroute2_4916e06b:
@@ -10960,13 +10960,13 @@ translate Schinese murdochroute2_6aab303b:
 translate Schinese murdochroute2_6d95cb23:
 
     # dh "\"A star chart maps every direction of the sky at once in a circular map...\""
-    dh "“星图是同时绘制了所有方位天空的圆形地图……”"
+    dh "“星图是同时绘制了所有方位天空的圆形地图...”"
 
 # game/murdochroute2.rpy:3053
 translate Schinese murdochroute2_ab729fcf:
 
     # dh "\"...And you can turn it different directions to see which direction of the night sky you're staring at.\""
-    dh "“……通过转动它，就可以得知自己正望着哪个方向的夜空。”"
+    dh "“...通过转动它，就可以得知自己正望着哪个方向的夜空。”"
 
 # game/murdochroute2.rpy:3054
 translate Schinese murdochroute2_b384eac6:
@@ -11014,7 +11014,7 @@ translate Schinese murdochroute2_24e3b751:
 translate Schinese murdochroute2_d4e2ee0c:
 
     # m "\"You know...\""
-    m "“那什么……”"
+    m "“那什么...”"
 
 # game/murdochroute2.rpy:3067
 translate Schinese murdochroute2_0a8da3c0:
@@ -11032,13 +11032,13 @@ translate Schinese murdochroute2_4accb293:
 translate Schinese murdochroute2_ebc1750f:
 
     # dh "\"It's a place where you pay a lot of money to access equipment you can't normally afford...\""
-    dh "“在大学里，你需要花大价钱来使用一般人根本买不起的设备……”"
+    dh "“在大学里，你需要花大价钱来使用一般人根本买不起的设备...”"
 
 # game/murdochroute2.rpy:3071
 translate Schinese murdochroute2_c076547e:
 
     # dh "\"...and where you do a lot of hard work, so other people can steal your credit.\""
-    dh "“……还是一个辛苦得来的成果会被别人堂而皇之窃取的地方。”"
+    dh "“...还是一个辛苦得来的成果会被别人堂而皇之窃取的地方。”"
 
 # game/murdochroute2.rpy:3072
 translate Schinese murdochroute2_2d6ee573_3:
@@ -11206,7 +11206,7 @@ translate Schinese murdochroute2_f34dbba4:
 translate Schinese murdochroute2_f2647143:
 
     # "...Am I actually enjoying this?"
-    "……我真的乐在其中吗？"
+    "...我真的乐在其中吗？"
 
 # game/murdochroute2.rpy:3112
 translate Schinese murdochroute2_6ee5e8b6:
@@ -11236,7 +11236,7 @@ translate Schinese murdochroute2_74617209:
 translate Schinese murdochroute2_c9e2017b:
 
     # m "\"...What does visual magnitude mean?\""
-    m "“……目视星等是什么？”"
+    m "“...目视星等是什么？”"
 
 # game/murdochroute2.rpy:3120
 translate Schinese murdochroute2_f7086f75:
@@ -11332,13 +11332,13 @@ translate Schinese murdochroute2_f01fe3ae:
 translate Schinese murdochroute2_efccfaf5:
 
     # "I..."
-    "我……"
+    "我..."
 
 # game/murdochroute2.rpy:3146
 translate Schinese murdochroute2_73a6318c:
 
     # "...really don't feel like doing this."
-    "……实在是喜欢不来这些。"
+    "...实在是喜欢不来这些。"
 
 # game/murdochroute2.rpy:3149
 translate Schinese murdochroute2_06dcec7c:
@@ -11584,7 +11584,7 @@ translate Schinese murdochroute2_31754330:
 translate Schinese murdochroute2_ce9658ad:
 
     # bl "\"Although...\""
-    bl "“还有……”"
+    bl "“还有...”"
 
 # game/murdochroute2.rpy:3222
 translate Schinese murdochroute2_01a294f2:
@@ -11608,7 +11608,7 @@ translate Schinese murdochroute2_e8304c8f:
 translate Schinese murdochroute2_605c42d2:
 
     # "As if that’s ever stopped you wandering around before..."
-    "跟你之前在乎过似的……"
+    "跟你之前在乎过似的..."
 
 # game/murdochroute2.rpy:3229
 translate Schinese murdochroute2_6a086732:
@@ -11854,7 +11854,7 @@ translate Schinese murdochroute2_8426ff5a:
 translate Schinese murdochroute2_193551f6:
 
     # m "\"...Huh?\""
-    m "“……哈？”"
+    m "“...哈？”"
 
 # game/murdochroute2.rpy:3298
 translate Schinese murdochroute2_0b3a1aac:
@@ -11986,7 +11986,7 @@ translate Schinese murdochroute2_3a09b209:
 translate Schinese murdochroute2_077e6105:
 
     # bl "\"...you really don’t have a clue about anything people say, do you?\""
-    bl "“……你是真对别人过说的话一无所知吗？”"
+    bl "“...你是真对别人过说的话一无所知吗？”"
 
 # game/murdochroute2.rpy:3339
 translate Schinese murdochroute2_9c9c0710:
@@ -12052,7 +12052,7 @@ translate Schinese murdochroute2_496f535c:
 translate Schinese murdochroute2_ff86b96c:
 
     # bl "\"Listen...\""
-    bl "“听着……”"
+    bl "“听着...”"
 
 # game/murdochroute2.rpy:3359
 translate Schinese murdochroute2_d339238c:
@@ -12190,7 +12190,7 @@ translate Schinese murdochroute2_d75492ef:
 translate Schinese murdochroute2_281e3622:
 
     # "And if it is..."
-    "若果真如此……"
+    "若果真如此..."
 
 # game/murdochroute2.rpy:3397
 translate Schinese murdochroute2_3a005fec:
@@ -12214,7 +12214,7 @@ translate Schinese murdochroute2_011afb91:
 translate Schinese murdochroute2_1dc344db:
 
     # m "\"...Where should I meet you, then?\""
-    m "“……去哪找你？”"
+    m "“...去哪找你？”"
 
 # game/murdochroute2.rpy:3401
 translate Schinese murdochroute2_6ff25107:
@@ -12322,7 +12322,7 @@ translate Schinese murdochroute2_5ab86e18:
 translate Schinese murdochroute2_ed8b056e:
 
     # cy "\"...You’re gonna be able to make rent this month, won’t ya?\""
-    cy "“……你应该付得起这个月的房租吧？”"
+    cy "“...你应该付得起这个月的房租吧？”"
 
 # game/murdochroute2.rpy:3436
 translate Schinese murdochroute2_05943df9:
@@ -12448,7 +12448,7 @@ translate Schinese murdochroute2_8594c1c0:
 translate Schinese murdochroute2_efc7a309:
 
     # no "\"...\""
-    no "“……”"
+    no "“...”"
 
 # game/murdochroute2.rpy:3470
 translate Schinese murdochroute2_42ce3a2d:
@@ -12898,13 +12898,13 @@ translate Schinese murdochroute2_6f53ac81:
 translate Schinese murdochroute2_39556fa3:
 
     # "I really don’t know much about her other than she has a fiance..."
-    "我对她一点也不了解，除了她有一位未婚夫……"
+    "我对她一点也不了解，除了她有一位未婚夫..."
 
 # game/murdochroute2.rpy:3601
 translate Schinese murdochroute2_cbf8714f:
 
     # "...And that he cums a lot."
-    "……还射得很多。"
+    "...还射得很多。"
 
 # game/murdochroute2.rpy:3603
 translate Schinese murdochroute2_deb238ad:
@@ -12958,7 +12958,7 @@ translate Schinese murdochroute2_7301f086:
 translate Schinese murdochroute2_ec3e4d11:
 
     # m "\"...Can I help you, ma’am?\""
-    m "“……有什么能效劳的吗，女士？”"
+    m "“...有什么能效劳的吗，女士？”"
 
 # game/murdochroute2.rpy:3626
 translate Schinese murdochroute2_49a2b0ca:
@@ -13240,7 +13240,7 @@ translate Schinese murdochroute2_c7ffa99c:
 translate Schinese murdochroute2_64c24d1b:
 
     # "...Where the hell is that damn girl, then?"
-    "……话说，那个死孩子跑哪儿去了？"
+    "...话说，那个死孩子跑哪儿去了？"
 
 # game/murdochroute2.rpy:3718
 translate Schinese murdochroute2_71ad499c:
@@ -13456,7 +13456,7 @@ translate Schinese murdochroute2_b67a71b9:
 translate Schinese murdochroute2_69d26cae:
 
     # bl "\"At least... that’s what people tell me.\""
-    bl "“至少……他们是这么告诉我的。”"
+    bl "“至少...他们是这么告诉我的。”"
 
 # game/murdochroute2.rpy:3786
 translate Schinese murdochroute2_386e5609:
@@ -13492,7 +13492,7 @@ translate Schinese murdochroute2_44aecadf:
 translate Schinese murdochroute2_3e4b7d7d:
 
     # "Whoever’s doing this..."
-    "不管是谁干的……"
+    "不管是谁干的..."
 
 # game/murdochroute2.rpy:3796
 translate Schinese murdochroute2_7b4d9c9f:
@@ -13726,13 +13726,13 @@ translate Schinese murdochroute2_aa4e9397:
 translate Schinese murdochroute2_b7b2498e:
 
     # bl "\"Besides... you should take a look at the framing of the tunnels.\""
-    bl "“再说……你应该看到那条隧道的框架了吧。”"
+    bl "“再说...你应该看到那条隧道的框架了吧。”"
 
 # game/murdochroute2.rpy:3849
 translate Schinese murdochroute2_93214926:
 
     # "...huh."
-    "……嗯。"
+    "...嗯。"
 
 # game/murdochroute2.rpy:3850
 translate Schinese murdochroute2_bf1da6c0:
@@ -13774,7 +13774,7 @@ translate Schinese murdochroute2_59eb8ff7:
 translate Schinese murdochroute2_5f93068d:
 
     # bl "\"Nobody but me and Melissa...\""
-    bl "“没有，除了我和Melissa……”"
+    bl "“没有，除了我和Melissa...”"
 
 # game/murdochroute2.rpy:3857
 translate Schinese murdochroute2_80b74cf4:
@@ -14398,7 +14398,7 @@ translate Schinese murdochroute2_e2dd286a:
 translate Schinese murdochroute2_e305903c:
 
     # m "\"Well there was subtraction and addition...\""
-    m "“唔，有加减法……”"
+    m "“唔，有加减法...”"
 
 # game/murdochroute2.rpy:3993
 translate Schinese murdochroute2_befb963d:
@@ -14422,7 +14422,7 @@ translate Schinese murdochroute2_67452316:
 translate Schinese murdochroute2_7f4b75c7:
 
     # m "\"Well most folks learn about all the battles...\""
-    m "“最著名的几场战役我还是学过的…….”"
+    m "“最著名的几场战役我还是学过的....”"
 
 # game/murdochroute2.rpy:3997
 translate Schinese murdochroute2_2de0a1c9:
@@ -14452,7 +14452,7 @@ translate Schinese murdochroute2_21c99e40:
 translate Schinese murdochroute2_24f87434:
 
     # bl "\"...what?\""
-    bl "“……你说什么？”"
+    bl "“...你说什么？”"
 
 # game/murdochroute2.rpy:4002
 translate Schinese murdochroute2_9e713d94:
@@ -14590,13 +14590,13 @@ translate Schinese murdochroute2_e0b7261f:
 translate Schinese murdochroute2_b1d5a649:
 
     # m "\"Maybe this stuff is all ordinary when you have so many teachers to answer your questions...\""
-    m "“也许有那么多老师来解答你的问题，对你来说很普通……”"
+    m "“也许有那么多老师来解答你的问题，对你来说很普通...”"
 
 # game/murdochroute2.rpy:4025
 translate Schinese murdochroute2_d9661d60:
 
     # m "\"...and you can just run along down to one of those fancy candy stores poppin’ up downtown with some pocket money and get a whole box of taffy.\""
-    m "“……你也可以直接拿着零花钱，到镇中心的高档糖果店买上一整盒的太妃糖。”"
+    m "“...你也可以直接拿着零花钱，到镇中心的高档糖果店买上一整盒的太妃糖。”"
 
 # game/murdochroute2.rpy:4026
 translate Schinese murdochroute2_18826d3a:
@@ -14626,19 +14626,19 @@ translate Schinese murdochroute2_ee5e61b0:
 translate Schinese murdochroute2_853c4fb8:
 
     # bl "\"I’d track down every rapist and bigot in this filthy community...\""
-    bl "“我会追查这个肮脏社区里的每一个强奸犯和偏执狂……”"
+    bl "“我会追查这个肮脏社区里的每一个强奸犯和偏执狂...”"
 
 # game/murdochroute2.rpy:4037
 translate Schinese murdochroute2_8cd1501c:
 
     # bl "\"...overpower them...\""
-    bl "“……制服他们……”"
+    bl "“...制服他们...”"
 
 # game/murdochroute2.rpy:4039
 translate Schinese murdochroute2_6469ff41:
 
     # bl "\"...then find the biggest stick with rusted nails I could wrap my claws around, and fuck them bloody.\""
-    bl "“……然后找一根我能握住的最粗的锈狼牙棒，狠狠地操他们。”"
+    bl "“...然后找一根我能握住的最粗的锈狼牙棒，狠狠地操他们。”"
 
 # game/murdochroute2.rpy:4041
 translate Schinese murdochroute2_6452816b:
@@ -14830,7 +14830,7 @@ translate Schinese murdochroute2_02be1ca3:
 translate Schinese murdochroute2_14854625:
 
     # m "\"Listen, kid... I’ve got an engagement I gotta keep.\""
-    m "“听着，孩子……我得去赴约了。”"
+    m "“听着，孩子...我得去赴约了。”"
 
 # game/murdochroute2.rpy:4092
 translate Schinese murdochroute2_3ae3128b:
@@ -14872,7 +14872,7 @@ translate Schinese murdochroute2_783095f3:
 translate Schinese murdochroute2_6d403c93:
 
     # "And... she's already gone."
-    "不过……她已经走远了。"
+    "不过...她已经走远了。"
 
 # game/murdochroute2.rpy:4103
 translate Schinese murdochroute2_41d13c8b:
@@ -15124,7 +15124,7 @@ translate Schinese murdochroute2_028aab38:
 translate Schinese murdochroute2_4bfd99af:
 
     # m "\"...you’re welcome?\""
-    m "“……不客气？”"
+    m "“...不客气？”"
 
 # game/murdochroute2.rpy:4176
 translate Schinese murdochroute2_31bacef0:
@@ -15142,13 +15142,13 @@ translate Schinese murdochroute2_7c0b9965:
 translate Schinese murdochroute2_12b09edf:
 
     # ho "\"Murdoch, why don’t you take...\""
-    ho "“Murdoch，你不介意带……”"
+    ho "“Murdoch，你不介意带...”"
 
 # game/murdochroute2.rpy:4182
 translate Schinese murdochroute2_acf0f32a:
 
     # ho "\"...Mr. Ayers, was it?\""
-    ho "“……Ayers先生，是吗？”"
+    ho "“...Ayers先生，是吗？”"
 
 # game/murdochroute2.rpy:4184
 translate Schinese murdochroute2_0ea4d33c:
@@ -15172,7 +15172,7 @@ translate Schinese murdochroute2_ec2dd720:
 translate Schinese murdochroute2_ba95ba1c:
 
     # m "\"...lead the way.\""
-    m "“……麻烦带路。”"
+    m "“...麻烦带路。”"
 
 # game/murdochroute2.rpy:4193
 translate Schinese murdochroute2_80b4e47b:
@@ -15232,7 +15232,7 @@ translate Schinese murdochroute2_9a0a3b7e:
 translate Schinese murdochroute2_0623bcbe:
 
     # m "\"...oh.\""
-    m "“……啊。”"
+    m "“...啊。”"
 
 # game/murdochroute2.rpy:4205
 translate Schinese murdochroute2_ff9cf546:
@@ -15640,7 +15640,7 @@ translate Schinese murdochroute2_676a1465:
 translate Schinese murdochroute2_008bc5c6:
 
     # "...that’s a brave thing to say in this house, in this room."
-    "……他还真敢说。在这间房子，这个房间──"
+    "...他还真敢说。在这间房子，这个房间──"
 
 # game/murdochroute2.rpy:4364
 translate Schinese murdochroute2_176006f8:
@@ -16030,7 +16030,7 @@ translate Schinese murdochroute2_9decf0fa:
 translate Schinese murdochroute2_87d5b8c9:
 
     # "That’s... probably true, in some broad sense?"
-    "从广义上讲……倒也没错？"
+    "从广义上讲...倒也没错？"
 
 # game/murdochroute2.rpy:4514
 translate Schinese murdochroute2_9fd8be50:
@@ -16144,7 +16144,7 @@ translate Schinese murdochroute2_c3a1d958:
 translate Schinese murdochroute2_0f725c5c:
 
     # gr "\"Well that’s delightful, dear...\""
-    gr "“这真令人高兴，亲爱的……”"
+    gr "“这真令人高兴，亲爱的...”"
 
 # game/murdochroute2.rpy:4567
 translate Schinese murdochroute2_4174b864:
@@ -16282,7 +16282,7 @@ translate Schinese murdochroute2_88313645:
 translate Schinese murdochroute2_fcb00f9e:
 
     # "I thought this was a dinner party... not another job assignment."
-    "我还以为这只是一次家宴……谁承想又接到一份工作。"
+    "我还以为这只是一次家宴...谁承想又接到一份工作。"
 
 # game/murdochroute2.rpy:4618
 translate Schinese murdochroute2_cb0c96af:
@@ -16978,7 +16978,7 @@ translate Schinese murdochroute2_4cd3bf67:
 translate Schinese murdochroute2_31fe1b56:
 
     # mu "\"You... don’t know what you’re talking about, Sam.\""
-    mu "“你……知道自己在说什么吗，Sam。”"
+    mu "“你...知道自己在说什么吗，Sam。”"
 
 # game/murdochroute2.rpy:4870
 translate Schinese murdochroute2_3e58ff26:
@@ -17398,7 +17398,7 @@ translate Schinese murdochroute2_2cc7b95a:
 translate Schinese murdochroute2_5dcd81da:
 
     # m "\"...Not sure what’s making you bring that up.\""
-    m "“……你提这个做什么。”"
+    m "“...你提这个做什么。”"
 
 # game/murdochroute2.rpy:4995
 translate Schinese murdochroute2_c85d8191:
@@ -17440,13 +17440,13 @@ translate Schinese murdochroute2_341bb25f:
 translate Schinese murdochroute2_a8604eb9:
 
     # mu "\"...He’s fucking me, too.\""
-    mu "“……他也睡过我。”"
+    mu "“...他也睡过我。”"
 
 # game/murdochroute2.rpy:5008
 translate Schinese murdochroute2_16819148:
 
     # m "\"...come again?\""
-    m "“……你再说一遍？”"
+    m "“...你再说一遍？”"
 
 # game/murdochroute2.rpy:5009
 translate Schinese murdochroute2_92b47f48:
@@ -17590,7 +17590,7 @@ translate Schinese murdochroute2_3a838a05:
 translate Schinese murdochroute2_eb44482f:
 
     # mu "\"And she knows about the kinds of things I do for other men...\""
-    mu "“而且她也知道我跟其他男人……”"
+    mu "“而且她也知道我跟其他男人...”"
 
 # game/murdochroute2.rpy:5033
 translate Schinese murdochroute2_9ea57bd4:
@@ -18094,7 +18094,7 @@ translate Schinese murdochroute2_45bf5e20:
 translate Schinese murdochroute2_5d1457c2:
 
     # mu "\"I’m... sorry you had to see that.\""
-    mu "“不好意思……让你见丑了。”"
+    mu "“不好意思...让你见丑了。”"
 
 # game/murdochroute2.rpy:5123
 translate Schinese murdochroute2_df8ec4bc:
@@ -18106,7 +18106,7 @@ translate Schinese murdochroute2_df8ec4bc:
 translate Schinese murdochroute2_018d675d:
 
     # m "\"No...\""
-    m "“没什么……”"
+    m "“没什么...”"
 
 # game/murdochroute2.rpy:5125
 translate Schinese murdochroute2_3f9b8ad0:
@@ -18124,7 +18124,7 @@ translate Schinese murdochroute2_a588a3c3:
 translate Schinese murdochroute2_ebb04811:
 
     # m "\"What’s not is when you just...\""
-    m "“不正常的是你突然就……”"
+    m "“不正常的是你突然就...”"
 
 # game/murdochroute2.rpy:5129
 translate Schinese murdochroute2_92d3198f_1:
@@ -18142,7 +18142,7 @@ translate Schinese murdochroute2_05931c61:
 translate Schinese murdochroute2_69896b7d:
 
     # m "\"Like you’re shutting them off and start to act completely different... within seconds.\""
-    m "“就好像你可以关掉开关，变得与之前完全不同……甚至不用几秒钟。”"
+    m "“就好像你可以关掉开关，变得与之前完全不同...甚至不用几秒钟。”"
 
 # game/murdochroute2.rpy:5134
 translate Schinese murdochroute2_0a6d609c:
@@ -18154,7 +18154,7 @@ translate Schinese murdochroute2_0a6d609c:
 translate Schinese murdochroute2_0fef2b75:
 
     # mu "\"You’ve... never had to do that?\""
-    mu "“你……从来不用这样？”"
+    mu "“你...从来不用这样？”"
 
 # game/murdochroute2.rpy:5138
 translate Schinese murdochroute2_d6a4135c:
@@ -18190,7 +18190,7 @@ translate Schinese murdochroute2_b630b38a:
 translate Schinese murdochroute2_46ce627c:
 
     # mu "\"...I want something else, then.\""
-    mu "“……那，我还想要其他的。”"
+    mu "“...那，我还想要其他的。”"
 
 # game/murdochroute2.rpy:5147
 translate Schinese murdochroute2_20defb42:
@@ -18388,25 +18388,25 @@ translate Schinese murdochroute2_9b78ca0f:
 translate Schinese murdochroute2_0fd22506:
 
     # mu "\"If I thought I knew you did something bad...\""
-    mu "“如果我跟你说，我觉得你做了什么不好的事……”"
+    mu "“如果我跟你说，我觉得你做了什么不好的事...”"
 
 # game/murdochroute2.rpy:5193
 translate Schinese murdochroute2_6b219a5d:
 
     # mu "\"And I was ever scared of you...\""
-    mu "“并对你感到害怕……”"
+    mu "“并对你感到害怕...”"
 
 # game/murdochroute2.rpy:5194
 translate Schinese murdochroute2_2b97b408:
 
     # mu "\"...would you be able to tell me the truth about it?\""
-    mu "“……你愿意告诉我事实真相吗？”"
+    mu "“...你愿意告诉我事实真相吗？”"
 
 # game/murdochroute2.rpy:5195
 translate Schinese murdochroute2_751c7667:
 
     # "...what?"
-    "……哈？"
+    "...哈？"
 
 # game/murdochroute2.rpy:5196
 translate Schinese murdochroute2_f1e1cb15:
@@ -18496,7 +18496,7 @@ translate Schinese murdochroute2_5c2244e1:
 translate Schinese murdochroute2_69d4e8a3:
 
     # "...So that’s why I haven’t seen Nikolai come around the Hip yet."
-    "……难怪Nikolai再也没有来Hip。"
+    "...难怪Nikolai再也没有来Hip。"
 
 # game/murdochroute2.rpy:5215
 translate Schinese murdochroute2_349cd4dc:
@@ -18532,7 +18532,7 @@ translate Schinese murdochroute2_4127b3d2:
 translate Schinese murdochroute2_a8e3951b:
 
     # m "\"...And just about how many people heard them talking about that, you think?\""
-    m "“……你觉得有多少人听见他们了？”"
+    m "“...你觉得有多少人听见他们了？”"
 
 # game/murdochroute2.rpy:5227
 translate Schinese murdochroute2_d0b97695:
@@ -18574,7 +18574,7 @@ translate Schinese murdochroute2_581cd8a8:
 translate Schinese murdochroute2_c1f28e96:
 
     # m "\"...so what will you do now?\""
-    m "“……既然如此，你打算？”"
+    m "“...既然如此，你打算？”"
 
 # game/murdochroute2.rpy:5242
 translate Schinese murdochroute2_f2e7e7eb:
@@ -18730,7 +18730,7 @@ translate Schinese murdochroute2_157c0299:
 translate Schinese murdochroute2_c7944f8f:
 
     # m "\"...What?\""
-    m "“……什么？”"
+    m "“...什么？”"
 
 # game/murdochroute2.rpy:5286
 translate Schinese murdochroute2_a24ce3c5:
@@ -18808,7 +18808,7 @@ translate Schinese murdochroute2_36c8e74e:
 translate Schinese murdochroute2_5bc3b657:
 
     # mu "\"We just...\""
-    mu "“我们只能……”"
+    mu "“我们只能...”"
 
 # game/murdochroute2.rpy:5304
 translate Schinese murdochroute2_1442c587:
@@ -18838,7 +18838,7 @@ translate Schinese murdochroute2_763f5f6e:
 translate Schinese murdochroute2_a8bc69cb:
 
     # m "\"They just want relief from...\""
-    m "“从……”"
+    m "“从...”"
 
 # game/murdochroute2.rpy:5311
 translate Schinese murdochroute2_58192ea8:
@@ -18850,7 +18850,7 @@ translate Schinese murdochroute2_58192ea8:
 translate Schinese murdochroute2_e11096db:
 
     # m "\"Relief from the fear that took their lives from them...\""
-    m "“死亡的阴影中解脱……”"
+    m "“死亡的阴影中解脱...”"
 
 # game/murdochroute2.rpy:5313
 translate Schinese murdochroute2_701f6bbe:
@@ -18874,7 +18874,7 @@ translate Schinese murdochroute2_f3984f65:
 translate Schinese murdochroute2_24691d81:
 
     # "Nik always did tell me he wasn’t well liked..."
-    "我确实从Nik那儿听过他不是很讨喜……"
+    "我确实从Nik那儿听过他不是很讨喜..."
 
 # game/murdochroute2.rpy:5319
 translate Schinese murdochroute2_14773c39_2:
@@ -18910,7 +18910,7 @@ translate Schinese murdochroute2_ce3049e9:
 translate Schinese murdochroute2_0237ee52:
 
     # mu "\"Sort of like...\""
-    mu "“就好像……”"
+    mu "“就好像...”"
 
 # game/murdochroute2.rpy:5331
 translate Schinese murdochroute2_1093cfdc:
@@ -19090,19 +19090,19 @@ translate Schinese murdochroute2_eaaa22da:
 translate Schinese murdochroute2_343c5a29:
 
     # mu "\"The night life...\""
-    mu "“夜里的生活……”"
+    mu "“夜里的生活...”"
 
 # game/murdochroute2.rpy:5383
 translate Schinese murdochroute2_d47f76d8:
 
     # mu "\"The glamorous parties...\""
-    mu "“刺激的派对……”"
+    mu "“刺激的派对...”"
 
 # game/murdochroute2.rpy:5384
 translate Schinese murdochroute2_56167aa2:
 
     # mu "\"Using your own body to give and get pleasure...\""
-    mu "“凭自己的身体寻欢作乐……”"
+    mu "“凭自己的身体寻欢作乐...”"
 
 # game/murdochroute2.rpy:5386
 translate Schinese murdochroute2_d0c355a4:
@@ -19114,13 +19114,13 @@ translate Schinese murdochroute2_d0c355a4:
 translate Schinese murdochroute2_39702ff0:
 
     # mu "\"So yeah, for a few years I wanted to be you...\""
-    mu "“对，有好几年，我都是憧憬着你……”"
+    mu "“对，有好几年，我都是憧憬着你...”"
 
 # game/murdochroute2.rpy:5389
 translate Schinese murdochroute2_df31a501:
 
     # mu "\"...Getting by on whatever intimacy I could find at bars and dances.\""
-    mu "“……在酒吧和舞会上滥交。”"
+    mu "“...在酒吧和舞会上滥交。”"
 
 # game/murdochroute2.rpy:5390
 translate Schinese murdochroute2_6a20a80d_1:
@@ -19138,7 +19138,7 @@ translate Schinese murdochroute2_c1e924a3:
 translate Schinese murdochroute2_1489aad3:
 
     # m "\"But listen...\""
-    m "“不过听好……”"
+    m "“不过听好...”"
 
 # game/murdochroute2.rpy:5394
 translate Schinese murdochroute2_d7d0f2d1:
@@ -19348,19 +19348,19 @@ translate Schinese murdochroute2_1bf78aed:
 translate Schinese murdochroute2_128fffb5:
 
     # mu "\"Why don’t we do what we came here to do...\""
-    mu "“咱们何不回归正题……”"
+    mu "“咱们何不回归正题...”"
 
 # game/murdochroute2.rpy:5447
 translate Schinese murdochroute2_ad2d3d82:
 
     # mu "\"...And get dressed for the parts we are meant to play.\""
-    mu "“……换上衣服，扮演好各自的角色。”"
+    mu "“...换上衣服，扮演好各自的角色。”"
 
 # game/murdochroute2.rpy:5450
 translate Schinese murdochroute2_5b92481c:
 
     # "He buttons each button and buckles each clasp as he stares into the mirror watching out of the corner of his eye... quite attentively."
-    "他看向镜子，并精心扣上钮扣，同时用眼角的余光……精心打量。"
+    "他看向镜子，并精心扣上钮扣，同时用眼角的余光...精心打量。"
 
 # game/murdochroute2.rpy:5451
 translate Schinese murdochroute2_d0acd46b:
@@ -19426,7 +19426,7 @@ translate Schinese muc0_9ec825dd:
 translate Schinese muc0_63033175:
 
     # m "\"Well...\""
-    m "“这……”"
+    m "“这...”"
 
 # game/murdochroute2.rpy:5479
 translate Schinese muc0_137e18d2:
@@ -19492,7 +19492,7 @@ translate Schinese muc0_d94de8e0:
 translate Schinese muc0_1f79918e:
 
     # m "\"...I’m listenin’.\""
-    m "“……我在听。”"
+    m "“...我在听。”"
 
 # game/murdochroute2.rpy:5504
 translate Schinese muc0_eb929d4f:
@@ -19504,7 +19504,7 @@ translate Schinese muc0_eb929d4f:
 translate Schinese muc0_62c6e72f:
 
     # m "\"...Yeah?\""
-    m "“……嗯？”"
+    m "“...嗯？”"
 
 # game/murdochroute2.rpy:5509
 translate Schinese muc0_32edb718:
@@ -19522,7 +19522,7 @@ translate Schinese muc0_6b8be3a0:
 translate Schinese muc0_1979e8d8:
 
     # m "\"...All the time?\""
-    m "“……一直都是？”"
+    m "“...一直都是？”"
 
 # game/murdochroute2.rpy:5516
 translate Schinese muc0_7b1ccd91:
@@ -19828,7 +19828,7 @@ translate Schinese muc0_739b4442:
 translate Schinese muc0_4cf0ad42:
 
     # m "\"...Does the size fit me?\""
-    m "“……我穿上合身吗？”"
+    m "“...我穿上合身吗？”"
 
 # game/murdochroute2.rpy:5616
 translate Schinese muc0_88e8374a:
@@ -19882,13 +19882,13 @@ translate Schinese muc0_ee27e005:
 translate Schinese muc0_6ba6f83d:
 
     # mu "\"...If you must.\""
-    mu "“……随你吧。”"
+    mu "“...随你吧。”"
 
 # game/murdochroute2.rpy:5636
 translate Schinese muc0_26c54c64:
 
     # "I feel a little bad leaving Murdoch after... learning all of that."
-    "我也不忍心抛下Murdoch……在知晓了那些事之后。"
+    "我也不忍心抛下Murdoch...在知晓了那些事之后。"
 
 # game/murdochroute2.rpy:5637
 translate Schinese muc0_3488fc1e:
@@ -20320,7 +20320,7 @@ translate Schinese muc0_7bb87a4c:
 translate Schinese muc0_16ac15f0:
 
     # ji "\"Best not to discuss any dalliances here...\""
-    ji "“这儿不适合谈风流史吧……”"
+    ji "“这儿不适合谈风流史吧...”"
 
 # game/murdochroute2.rpy:5775
 translate Schinese muc0_8f918412:
@@ -20446,13 +20446,13 @@ translate Schinese muc0_45208acf:
 translate Schinese muc0_2930ed79:
 
     # "Though from his tone and the sheer flippancy of his statements..."
-    "然而从他那轻浮的口气听来……"
+    "然而从他那轻浮的口气听来..."
 
 # game/murdochroute2.rpy:5816
 translate Schinese muc0_4195460c:
 
     # "...I’m inclined to believe him."
-    "……是有点可信度。"
+    "...是有点可信度。"
 
 # game/murdochroute2.rpy:5817
 translate Schinese muc0_c5f1e20b:
@@ -20560,7 +20560,7 @@ translate Schinese muc0_55c4c45e:
 translate Schinese muc0_3be36b9f:
 
     # m "\"...right.\""
-    m "“……好。”"
+    m "“...好。”"
 
 # game/murdochroute2.rpy:5849
 translate Schinese muc0_32242868:
@@ -20602,7 +20602,7 @@ translate Schinese muc0_9b01dd79:
 translate Schinese muc0_fbf626e9:
 
     # mu "\"...You didn’t say anything to make him uncomfortable, did you Sam?\""
-    mu "“……你没说什么让他难堪的话吧，Sam？”"
+    mu "“...你没说什么让他难堪的话吧，Sam？”"
 
 # game/murdochroute2.rpy:5867
 translate Schinese muc0_a2901eef:
@@ -20710,7 +20710,7 @@ translate Schinese muc0_a9c6b6e9:
 translate Schinese muc0_707a988d:
 
     # mu "\"Well...\""
-    mu "“唉……”"
+    mu "“唉...”"
 
 # game/murdochroute2.rpy:5895
 translate Schinese muc0_3a12f034:
@@ -21448,7 +21448,7 @@ translate Schinese muc0_0bcaefb8:
 translate Schinese muc0_1b216c09:
 
     # m "\"...and?\""
-    m "“……然后呢？”"
+    m "“...然后呢？”"
 
 # game/murdochroute2.rpy:6114
 translate Schinese muc0_c64bc373:
@@ -21478,13 +21478,13 @@ translate Schinese muc0_fa7c95ad:
 translate Schinese muc0_b652d73e:
 
     # mu "\"...he did?\""
-    mu "“……他请的？”"
+    mu "“...他请的？”"
 
 # game/murdochroute2.rpy:6126
 translate Schinese muc0_db2ba91d:
 
     # wi "\"...yes indeedy.\""
-    wi "“……没有错。”"
+    wi "“...没有错。”"
 
 # game/murdochroute2.rpy:6129
 translate Schinese muc0_714b3ac8:
@@ -21514,7 +21514,7 @@ translate Schinese muc0_5eff6c7a:
 translate Schinese muc0_fcbddfc7:
 
     # m "\"...sandpaper?\""
-    m "“……砂纸？”"
+    m "“...砂纸？”"
 
 # game/murdochroute2.rpy:6140
 translate Schinese muc0_6fe8757e:
@@ -21652,7 +21652,7 @@ translate Schinese muc0_50119e12:
 translate Schinese muc0_9657fedd:
 
     # wi "\"I just don’t think it’s as likely, considerin’ the usual fare of the tragic events that I investigate...\""
-    wi "“虽然就我办过的凶杀案来看，可能性不大……”"
+    wi "“虽然就我办过的凶杀案来看，可能性不大...”"
 
 # game/murdochroute2.rpy:6198
 translate Schinese muc0_5f4cd14e:
@@ -21664,13 +21664,13 @@ translate Schinese muc0_5f4cd14e:
 translate Schinese muc0_6df6ae05:
 
     # wi "\"So this isn’t related to anything we've been talking about...\""
-    wi "“说句题外话……”"
+    wi "“说句题外话...”"
 
 # game/murdochroute2.rpy:6203
 translate Schinese muc0_a2bb0d31:
 
     # wi "\"...But do I have this right?\""
-    wi "“……我猜对了么？”"
+    wi "“...我猜对了么？”"
 
 # game/murdochroute2.rpy:6206
 translate Schinese muc0_4e0c387a:
@@ -21814,13 +21814,13 @@ translate Schinese muc0_6751d298:
 translate Schinese muc0_eec79599:
 
     # wi "\"But if it doesn’t, and what I think is going on is going on...\""
-    wi "“但假如出了意外，且我的猜测没有落空……”"
+    wi "“但假如出了意外，且我的猜测没有落空...”"
 
 # game/murdochroute2.rpy:6264
 translate Schinese muc0_36d8722b:
 
     # wi "\"...then maybe Sam could teach you a thing or two about {i}his{/i} profession.\""
-    wi "“……你或许可以跟Sam学{b}一两招{/b}。”"
+    wi "“...你或许可以跟Sam学{b}一两招{/b}。”"
 
 # game/murdochroute2.rpy:6267
 translate Schinese muc0_bfd08c97:
@@ -21982,7 +21982,7 @@ translate Schinese muc0_ca36a54f:
 translate Schinese muc0_707a988d_1:
 
     # mu "\"Well...\""
-    mu "“这个嘛……”"
+    mu "“这个嘛...”"
 
 # game/murdochroute2.rpy:6316
 translate Schinese muc0_1e74e95b:
@@ -22072,7 +22072,7 @@ translate Schinese muc0_898d754d:
 translate Schinese muc0_f4473c4f:
 
     # mu "\"But anyway...\""
-    mu "“总而言之……”"
+    mu "“总而言之...”"
 
 # game/murdochroute2.rpy:6342
 translate Schinese muc0_df91547b:
@@ -22462,7 +22462,7 @@ translate Schinese mdq2_7874c4bf:
 translate Schinese mdq2_80d26bcd:
 
     # "His voice sounds... strange."
-    "他的声音听起来……有点怪。"
+    "他的声音听起来...有点怪。"
 
 # game/murdochroute2.rpy:6476
 translate Schinese mdq2_393162ac:
@@ -22498,7 +22498,7 @@ translate Schinese mdq2_a361f6fc:
 translate Schinese mdq2_b12564e7:
 
     # mu "\"Light comes to warm us, to graze us, to travel through us...\""
-    mu "“光温暖我们、养育我们、浸透我们……”"
+    mu "“光温暖我们、养育我们、浸透我们...”"
 
 # game/murdochroute2.rpy:6492
 translate Schinese mdq2_4e6761a1:
@@ -22534,7 +22534,7 @@ translate Schinese mdq2_ec1c2df6:
 translate Schinese mdq2_5402651c:
 
     # mu "\"Right...\""
-    mu "“喔……”"
+    mu "“喔...”"
 
 # game/murdochroute2.rpy:6507
 translate Schinese mdq2_3065aee6:
@@ -22606,7 +22606,7 @@ translate Schinese mdq2_20a97594:
 translate Schinese mdq2_f9015f8e:
 
     # "...I want to talk about something else right now."
-    "……还是聊别的吧。"
+    "...还是聊别的吧。"
 
 # game/murdochroute2.rpy:6526
 translate Schinese mdq2_8d03153a:
@@ -22630,7 +22630,7 @@ translate Schinese mdq2_979afe53:
 translate Schinese mdq2_a478274c:
 
     # "There’s ones of Mr. and Mrs. Byrnes eating cake... perhaps from an anniversary."
-    "也有Byrnes夫妇在享用蛋糕……可能是结婚纪念日吧。"
+    "也有Byrnes夫妇在享用蛋糕...可能是结婚纪念日吧。"
 
 # game/murdochroute2.rpy:6530
 translate Schinese mdq2_5aa25a5d:
@@ -23332,7 +23332,7 @@ translate Schinese mdq2_5e000a1e:
 translate Schinese mdq2_d4e2ee0c:
 
     # m "\"You know...\""
-    m "“你知道吗……”"
+    m "“你知道吗...”"
 
 # game/murdochroute2.rpy:6726
 translate Schinese mdq2_8a0f4efa:
@@ -23536,7 +23536,7 @@ translate Schinese mdq2_becaa7a9:
 translate Schinese mdq2_b3e2046e:
 
     # mu "\"...what?\""
-    mu "“……什么？”"
+    mu "“...什么？”"
 
 # game/murdochroute2.rpy:6792
 translate Schinese mdq2_f270205f:
@@ -23566,7 +23566,7 @@ translate Schinese mdq2_086868ae:
 translate Schinese mdq2_17a81e8c:
 
     # mu "\"Well, I, ah...\""
-    mu "“这，我，呃……”"
+    mu "“这，我，呃...”"
 
 # game/murdochroute2.rpy:6800
 translate Schinese mdq2_e4419124:
@@ -23896,7 +23896,7 @@ translate Schinese mdq2_4fbe3332:
 translate Schinese mdq2_51d32790:
 
     # m "\"Funny you should say that...\""
-    m "“正巧……”"
+    m "“正巧...”"
 
 # game/murdochroute2.rpy:6883
 translate Schinese mdq2_bed4e674:
@@ -23950,7 +23950,7 @@ translate Schinese mdq2_54e9b45d:
 translate Schinese mdq2_0fe3e80f:
 
     # m "\"...I’ll go boil some water.\""
-    m "“……我这就去烧水。”"
+    m "“...我这就去烧水。”"
 
 # game/murdochroute2.rpy:6899
 translate Schinese mdq2_66707aa0:
@@ -23962,7 +23962,7 @@ translate Schinese mdq2_66707aa0:
 translate Schinese mdq2_b5f4cd48:
 
     # "...Now that I’m washed up and dressed I crack the door open to let her know that I’m ready."
-    "……我洗漱完毕，穿好衣服，把门打开表示已准备就绪。"
+    "...我洗漱完毕，穿好衣服，把门打开表示已准备就绪。"
 
 # game/murdochroute2.rpy:6902
 translate Schinese mdq2_92f6d627:
@@ -23992,7 +23992,7 @@ translate Schinese mdq2_1fd7641d:
 translate Schinese mdq2_5a74eb6b:
 
     # cy "\"That’s not what I said...\""
-    cy "“我不是这个意思……”"
+    cy "“我不是这个意思...”"
 
 # game/murdochroute2.rpy:6911
 translate Schinese mdq2_109298c3:
@@ -24226,7 +24226,7 @@ translate Schinese mdq2_d2981e69:
 translate Schinese mdq2_e852edda:
 
     # m "\"Fuck...\""
-    m "“操……”"
+    m "“操...”"
 
 # game/murdochroute2.rpy:6960
 translate Schinese mdq2_bba62ce5:
@@ -24286,7 +24286,7 @@ translate Schinese mdq2_554f8edd:
 translate Schinese mdq2_c373ed22:
 
     # "Nobody ever did find my coins... back when I still had them."
-    "就比如我从未被人发现的……已经是过去式的硬币。"
+    "就比如我从未被人发现的...已经是过去式的硬币。"
 
 # game/murdochroute2.rpy:6970
 translate Schinese mdq2_a8600e41:
@@ -24316,13 +24316,13 @@ translate Schinese mdq2_d751df9f:
 translate Schinese mdq2_d3930784:
 
     # m "\"...Excuse me?\""
-    m "“……你说啥？”"
+    m "“...你说啥？”"
 
 # game/murdochroute2.rpy:6975
 translate Schinese mdq2_2609c6d3:
 
     # cy "\"Oh, you know...\""
-    cy "“喔，就是……”"
+    cy "“喔，就是...”"
 
 # game/murdochroute2.rpy:6976
 translate Schinese mdq2_0c3a4f32:
@@ -24334,7 +24334,7 @@ translate Schinese mdq2_0c3a4f32:
 translate Schinese mdq2_10d6e822:
 
     # m "\"...Stop fuckin’ with me.\""
-    m "“……少来。”"
+    m "“...少来。”"
 
 # game/murdochroute2.rpy:6978
 translate Schinese mdq2_976fcb63:
@@ -24358,7 +24358,7 @@ translate Schinese mdq2_e5681c53:
 translate Schinese mdq2_18d6bc1b:
 
     # "The hell is wrong with canines..."
-    "犬科是有什么毛病……"
+    "犬科是有什么毛病..."
 
 # game/murdochroute2.rpy:6982
 translate Schinese mdq2_368bd88a:
@@ -25030,7 +25030,7 @@ translate Schinese mdq2_34342c9e:
 translate Schinese mdq2_3e654702:
 
     # me "\"So... you’re saying my mama is calling me soulless when I behave like an angel?\""
-    me "“呃……那妈妈叫我天使，是在说我太冷漠了吗？”"
+    me "“呃...那妈妈叫我天使，是在说我太冷漠了吗？”"
 
 # game/murdochroute2.rpy:7165
 translate Schinese mdq2_3bae485d:
@@ -25084,7 +25084,7 @@ translate Schinese mdq2_5acf468d:
 translate Schinese mdq2_8e3f721a:
 
     # msho "\"She’s a person, not a star, nor a planet...\""
-    msho "“她是人类，而不是什么星球……”"
+    msho "“她是人类，而不是什么星球...”"
 
 # game/murdochroute2.rpy:7194
 translate Schinese mdq2_d4b09b8c:
@@ -25120,7 +25120,7 @@ translate Schinese mdq2_d548432a:
 translate Schinese mdq2_e523d6de:
 
     # me "\"Women don’t expect divinity from mortal men...\""
-    me "“女人并不指望男人有神性……”"
+    me "“女人并不指望男人有神性...”"
 
 # game/murdochroute2.rpy:7208
 translate Schinese mdq2_32530b0b:
@@ -25162,7 +25162,7 @@ translate Schinese mdq2_4376e6b3:
 translate Schinese mdq2_b6d12b3d:
 
     # me "\"Oh, um...\""
-    me "“哦，呃……”"
+    me "“哦，呃...”"
 
 # game/murdochroute2.rpy:7225
 translate Schinese mdq2_8cf92a49:
@@ -25174,7 +25174,7 @@ translate Schinese mdq2_8cf92a49:
 translate Schinese mdq2_d2c516d5:
 
     # me "\"Let me just find where I highlighted it in the book...\""
-    me "“我先找一下标注的部分……”"
+    me "“我先找一下标注的部分...”"
 
 # game/murdochroute2.rpy:7230
 translate Schinese mdq2_296e3941:
@@ -25240,7 +25240,7 @@ translate Schinese mdq2_a809ebd6:
 translate Schinese mdq2_ced8d856:
 
     # me "\"Well...\""
-    me "“唔……”"
+    me "“唔...”"
 
 # game/murdochroute2.rpy:7264
 translate Schinese mdq2_c93085dd:
@@ -25252,7 +25252,7 @@ translate Schinese mdq2_c93085dd:
 translate Schinese mdq2_bd8da282:
 
     # me "\"So here’s mine...\""
-    me "“那么我开始了……”"
+    me "“那么我开始了...”"
 
 # game/murdochroute2.rpy:7266
 translate Schinese mdq2_552ea873:
@@ -25324,7 +25324,7 @@ translate Schinese mdq2_acec1a6a:
 translate Schinese mdq2_3e9c5d0d:
 
     # me "\"So this makes me feel better about that...\""
-    me "“这段让我好受多了……”"
+    me "“这段让我好受多了...”"
 
 # game/murdochroute2.rpy:7278
 translate Schinese mdq2_24d0cad1:
@@ -25666,7 +25666,7 @@ translate Schinese mdq2_b4184dd2:
 translate Schinese mdq2_2b88b41d:
 
     # bl "\"...You mentioned having sleep problems?\""
-    bl "“……我记得你说睡眠不好？”"
+    bl "“...我记得你说睡眠不好？”"
 
 # game/murdochroute2.rpy:7410
 translate Schinese mdq2_29adcfd1:
@@ -25822,13 +25822,13 @@ translate Schinese mdq2_163f1a86:
 translate Schinese mdq2_dfc8f46e:
 
     # me "\"Well we haven’t had a sleepover in a while...\""
-    me "“我们是很久没有一起过夜了……”"
+    me "“我们是很久没有一起过夜了...”"
 
 # game/murdochroute2.rpy:7460
 translate Schinese mdq2_ace6be9a:
 
     # bl "\"Mhmm...\""
-    bl "“嗯……”"
+    bl "“嗯...”"
 
 # game/murdochroute2.rpy:7462
 translate Schinese mdq2_c76e16cc:
@@ -25966,7 +25966,7 @@ translate Schinese mdq2_7ae2e13d:
 translate Schinese mdq2_a20cefa7:
 
     # "..."
-    "……"
+    "..."
 
 # game/murdochroute2.rpy:7493
 translate Schinese mdq2_6e5f01db:
@@ -25990,19 +25990,19 @@ translate Schinese mdq2_8d4a0f58:
 translate Schinese mdq2_fbe14090:
 
     # "...I can’t believe she’s put something as expensive as this on a piece of paper."
-    "……不敢相信她把这么贵的东西喷在一张纸上。"
+    "...不敢相信她把这么贵的东西喷在一张纸上。"
 
 # game/murdochroute2.rpy:7497
 translate Schinese mdq2_6446254d:
 
     # "...Unless it was for a boyfriend."
-    "……除非是寄给她男朋友的。"
+    "...除非是寄给她男朋友的。"
 
 # game/murdochroute2.rpy:7498
 translate Schinese mdq2_e4dd75f8:
 
     # "She and Billy weren’t..."
-    "但她跟Billy不是……"
+    "但她跟Billy不是..."
 
 # game/murdochroute2.rpy:7499
 translate Schinese mdq2_efeadb99:
@@ -26068,7 +26068,7 @@ translate Schinese mdq2_33dec60d:
 translate Schinese mdq2_b25a1367:
 
     # "Anyway..."
-    "总之……"
+    "总之..."
 
 # game/murdochroute2.rpy:7510
 translate Schinese mdq2_a1f9e2ed:
@@ -26110,7 +26110,7 @@ translate Schinese mdq2_338739d0:
 translate Schinese mdq2_ba047873:
 
     # "This..."
-    "这……"
+    "这..."
 
 # game/murdochroute2.rpy:7522
 translate Schinese mdq2_9fe427b0:
@@ -26140,7 +26140,7 @@ translate Schinese mdq2_3955fe59:
 translate Schinese mdq2_2e87b90e:
 
     # "...Billy knew about this too?"
-    "……Billy知道这件事吗？"
+    "...Billy知道这件事吗？"
 
 # game/murdochroute2.rpy:7527
 translate Schinese mdq2_a04a5ff3:
@@ -26176,7 +26176,7 @@ translate Schinese mdq2_e4b8b2f7:
 translate Schinese mdq2_0465e149:
 
     # "...Blithe’s the one who knows what she’s doing."
-    "……只有Blithe清楚路线。"
+    "...只有Blithe清楚路线。"
 
 # game/murdochroute2.rpy:7533
 translate Schinese mdq2_64f05bae:
@@ -26212,7 +26212,7 @@ translate Schinese mdq2_0dbac8c3:
 translate Schinese mdq2_b92227a8:
 
     # "...I can’t wait for Blithe to hold my hand anymore."
-    "……来不及找Blithe带路了。"
+    "...来不及找Blithe带路了。"
 
 # game/murdochroute2.rpy:7542
 translate Schinese mdq2_4a578e88:
@@ -26242,7 +26242,7 @@ translate Schinese mdq2_f9e66e43:
 translate Schinese mdq2_a20cefa7_1:
 
     # "..."
-    "……"
+    "..."
 
 # game/murdochroute2.rpy:7557
 translate Schinese mdq2_01e34cc9:
@@ -26260,7 +26260,7 @@ translate Schinese mdq2_b15e5f88:
 translate Schinese mdq2_8257d457:
 
     # "...I know he doesn’t like her very much."
-    "……我知道他不怎么喜欢她。"
+    "...我知道他不怎么喜欢她。"
 
 # game/murdochroute2.rpy:7561
 translate Schinese mdq2_bfb34ae7:
@@ -26410,13 +26410,13 @@ translate Schinese mdq2_636acf02:
 translate Schinese mdq2_1d596f49:
 
     # "I stare a bit at this one, and feel..."
-    "我望着这封信，感觉……"
+    "我望着这封信，感觉..."
 
 # game/murdochroute2.rpy:7604
 translate Schinese mdq2_6406d695:
 
     # "...something wrong."
-    "……不太对劲。"
+    "...不太对劲。"
 
 # game/murdochroute2.rpy:7606
 translate Schinese mdq2_53b812f4:
@@ -26452,7 +26452,7 @@ translate Schinese mdq2_2ab88030:
 translate Schinese mdq2_d8213eea:
 
     # "...Unless she told."
-    "……除非她说了出去。"
+    "...除非她说了出去。"
 
 # game/murdochroute2.rpy:7618
 translate Schinese mdq2_d25fb0dd:
@@ -26920,7 +26920,7 @@ translate Schinese mdq2_a358136b:
 translate Schinese mdq2_aae7f202:
 
     # "Until it is flushed clean..."
-    "直至冲刷干净……"
+    "直至冲刷干净..."
 
 # game/murdochroute2.rpy:7725
 translate Schinese mdq2_10cd9186:
@@ -26998,7 +26998,7 @@ translate Schinese mdq2_8145c5f8:
 translate Schinese mdq2_a20cefa7_2:
 
     # "..."
-    "……"
+    "..."
 
 # game/murdochroute2.rpy:7738
 translate Schinese mdq2_22298c85:
@@ -27052,7 +27052,7 @@ translate Schinese mdq2_b7e6c7aa:
 translate Schinese mdq2_70372b06:
 
     # "If I try to bring Mary’s..."
-    "要想把Mary的……"
+    "要想把Mary的..."
 
 # game/murdochroute2.rpy:7747
 translate Schinese mdq2_c5cd5881:
@@ -27316,7 +27316,7 @@ translate Schinese mdq2_133b99b2:
 translate Schinese mdq2_e16a757d:
 
     # no2 "\"You are, in almost every sense...\""
-    no2 "“至于你本人，从各方面来讲，都……”"
+    no2 "“至于你本人，从各方面来讲，都...”"
 
 # game/murdochroute2.rpy:7796
 translate Schinese mdq2_07809222:
@@ -27658,13 +27658,13 @@ translate Schinese mdq2_15153747:
 translate Schinese mdq2_57ad7258:
 
     # "Then finally..."
-    "然后总算……"
+    "然后总算..."
 
 # game/murdochroute2.rpy:7856
 translate Schinese mdq2_cbdd60b1:
 
     # "Eventually..."
-    "终于……"
+    "终于..."
 
 # game/murdochroute2.rpy:7857
 translate Schinese mdq2_b0716a61:
@@ -27802,7 +27802,7 @@ translate Schinese mdq2_c6a86cc3:
 translate Schinese mdq2_7c4d26f3:
 
     # "Mary’s body..."
-    "Mary的尸体……"
+    "Mary的尸体..."
 
 # game/murdochroute2.rpy:7905
 translate Schinese mdq2_65a4cf9d:
@@ -27880,7 +27880,7 @@ translate Schinese mdq2_d1c776ae:
 translate Schinese mdq2_11b67cc4:
 
     # "...And a weapon."
-    "……还有武器。"
+    "...还有武器。"
 
 # game/murdochroute2.rpy:7918
 translate Schinese mdq2_2f1bc9be:
@@ -27910,7 +27910,7 @@ translate Schinese mdq2_4f2bf1a2:
 translate Schinese mdq2_023e14c2:
 
     # "Wonder if my epee will be enough..."
-    "不知道一把重剑够不够……"
+    "不知道一把重剑够不够..."
 
 # game/murdochroute2.rpy:7923
 translate Schinese mdq2_aefb7a2f:
@@ -27952,7 +27952,7 @@ translate Schinese mdq2_e9826f12:
 translate Schinese mdq2_4037380e:
 
     # "...Thankfully it isn’t."
-    "……幸好没有。"
+    "...幸好没有。"
 
 # game/murdochroute2.rpy:7932
 translate Schinese mdq2_f5501d1c:
@@ -28461,7 +28461,7 @@ translate Schinese mdq2_51429413:
 translate Schinese mdq2_5da7681d:
 
     # "It was like a memory..."
-    "像是一段记忆……"
+    "像是一段记忆..."
 
 # game/murdochroute2.rpy:8023
 translate Schinese mdq2_5a42453d:
@@ -28491,7 +28491,7 @@ translate Schinese mdq2_9f8f192c:
 translate Schinese mdq2_4163ee0e:
 
     # "Whatever I dreamt that girl saw..."
-    "梦中那女孩看到的……"
+    "梦中那女孩看到的..."
 
 # game/murdochroute2.rpy:8028
 translate Schinese mdq2_7c3984e6:
@@ -28551,7 +28551,7 @@ translate Schinese strings:
 
     # game/murdochroute2.rpy:5465
     old "He looks..."
-    new "他看起来……"
+    new "他看起来..."
 
     # game/murdochroute2.rpy:5465
     old "Just fine"
@@ -28559,7 +28559,7 @@ translate Schinese strings:
 
     # game/murdochroute2.rpy:6399
     old "Well let’s see..."
-    new "这个嘛……"
+    new "这个嘛..."
 
     # game/murdochroute2.rpy:6399
     old "300?"
