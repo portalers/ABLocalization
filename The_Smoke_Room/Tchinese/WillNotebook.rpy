@@ -1,5 +1,81 @@
 translate Tchinese strings:
 
+    old "{color=#000000}{font=willfont.ttf}Huxley Greene is dead. His body was found frozen. Decapitated with ripping force.{/font}{/color}"
+    new "{color=#000000}{font=font/willfont.ttf}死者，Huxley Greene，屍體被發現時已凍僵。頭部遭巨力撕扯，身首異處。{/font}{/color}"
+
+    old "{color=#000000}{font=willfont.ttf}Where was the body found? ASK TODD LATER. {/font}{/color}"
+    new "{color=#000000}{font=font/willfont.ttf}屍體所在地是？{b}要找機會問問Todd。{/b} {/font}{/color}"
+
+    old "{color=#000000} {font=willfont.ttf}Cliff claims Reed tries to break into his apartment.{/font} {/color}"
+    new "{color=#000000}{font=font/willfont.ttf}Cliff說Reed試圖闖入他的公寓。{/font}{/color}"
+
+    old "{color=#000000}{font=willfont.ttf}Cliff works with James for CGCS.{/font}{/color}"
+    new "{color=#000000}{font=font/willfont.ttf}Cliff和James一起效力於CGCS。{/font}{/color}"
+
+    old "{color=#000000}{font=willfont.ttf}Cliff's real name is Cornelis. He claims he does not have his worker's permit.{/font} {/color}"
+    new "{color=#000000}{font=font/willfont.ttf}Cliff的真名是Cornelis。據本人稱沒有工作證。{/font} {/color}"
+
+    old "{color=#000000}{font=willfont.ttf}[stagnighttext]{/font}{/color}"
+    new "{color=#000000}{font=font/willfont.ttf}[stagnighttext!t]{/font}{/color}"
+
+    old "{color=#000000}{font=willfont.ttf}[chnighttext]{/font}{/color}"
+    new "{color=#000000}{font=font/willfont.ttf}[chnighttext!t]{/font}{/color}"
+
+    old "{color=#000000}{font=willfont.ttf}[huxley1]{/font}{/color}"
+    new "{color=#000000}{font=font/willfont.ttf}[huxley1!t]{/font}{/color}"
+
+    old "{color=#000000}{font=willfont.ttf}[huxley2]{/font}{/color}"
+    new "{color=#000000}{font=font/willfont.ttf}[huxley2!t]{/font}{/color}"
+
+    old "{color=#000000}{font=willfont.ttf}[huxley3]{/font}{/color}"
+    new "{color=#000000}{font=font/willfont.ttf}[huxley3!t]{/font}{/color}"
+
+    old "{color=#000000}{font=willfont.ttf}[jamestext]{/font}{/color}"
+    new "{color=#000000}{font=font/willfont.ttf}[jamestext!t]{/font}{/color}"
+
+    old "{color=#000000}{font=willfont.ttf}[changtext]{/font}{/color}"
+    new "{color=#000000}{font=font/willfont.ttf}[changtext!t]{/font}{/color}"
+
+    old "{color=#000000}{font=willfont.ttf} Sam needs to sleep more. [cynthiatext]{/font}{/color}"
+    new "{color=#000000}{font=font/willfont.ttf}Sam需要更多睡眠。[cynthiatext!t]{/font}{/color}"
+
+    old "{color=#000000}{font=willfont.ttf}[harlantext]{/font}{/color}"
+    new "{color=#000000}{font=font/willfont.ttf}[harlantext!t]{/font}{/color}"
+
+    old "{color=#000000}{font=willfont.ttf}[etheltext]{/font}{/color}"
+    new "{color=#000000}{font=font/willfont.ttf}[etheltext!t]{/font}{/color}"
+
+    old "{color=#000000}{font=willfont.ttf}[huxley4]{/font}{/color}"
+    new "{color=#000000}{font=font/willfont.ttf}[huxley4!t]{/font}{/color}"
+
+    old "{color=#000000}{font=willfont.ttf}[gumtext]{/font}{/color}"
+    new "{color=#000000}{font=font/willfont.ttf}[gumtext!t]{/font}{/color}"
+
+    old "{color=#000000}{font=willfont.ttf}[kanetext]{/font}{/color}"
+    new "{color=#000000}{font=font/willfont.ttf}[kanetext!t]{/font}{/color}"
+
+    old "{color=#000000}{font=willfont.ttf}[filmtext]{/font}{/color}"
+    new "{color=#000000}{font=font/willfont.ttf}[filmtext!t]{/font}{/color}"
+
+    old "{color=#000000}{font=willfont.ttf}[jartext]{/font}{/color}"
+    new "{color=#000000}{font=font/willfont.ttf}[jartext!t]{/font}{/color}"
+
+    old "{color=#000000}{font=willfont.ttf}[dolltext] [marcydolltext]{/font}{/color}"
+    new "{color=#000000}{font=font/willfont.ttf}[dolltext!t][marcydolltext!t]{/font}{/color}"
+
+    old "{color=#000000}{font=willfont.ttf}[marcydolltext]{/font}{/color}"
+    new "{color=#000000}{font=font/willfont.ttf}[marcydolltext!t]{/font}{/color}"
+
+    old "{color=#000000}{font=willfont.ttf}[samtoddtext]{/font}{/color}"
+    new "{color=#000000}{font=font/willfont.ttf}[samtoddtext!t]{/font}{/color}"
+
+    old "{color=#000000}{font=willfont.ttf}[shroudtext]{/font}{/color}"
+    new "{color=#000000}{font=font/willfont.ttf}[shroudtext!t]{/font}{/color}"
+
+    old "{color=#000000}{font=willfont.ttf}[murdochtext]{/font}{/color}"
+    new "{color=#000000}{font=font/willfont.ttf}[murdochtext!t]{/font}{/color}"
+
+
     old "Made James bleed. Was funny."
     new "把James扁出了血，痛快。"
 
@@ -64,49 +140,50 @@ translate Tchinese strings:
     old "The staff at the hip turned a saloon in the middle of nowhere into a world-famous attraction."
     new "Hip從無名之地的酒吧發展成家喻戶曉的景點，其員工功不可沒。"
 
-    old "{color=#000000}{font=willfont.ttf}Huxley Greene is dead. His body was found frozen. Decapitated with ripping force.{/font}{/color}"
-    new "{color=#000000}{font=font/willfont.ttf}死者，Huxley Greene，屍體被發現時已凍僵。頭部遭巨力撕扯，身首異處。{/font}{/color}"
+    # game/script.rpy:1908
+    old ".."
+    new "……"
 
-    old "{color=#000000}{font=willfont.ttf}Where was the body found? ASK TODD LATER. {/font}{/color}"
-    new "{color=#000000}{font=font/willfont.ttf}屍體所在地是？{b}要找機會問問Todd。{/b} {/font}{/color}"
+    # game/script.rpy:1918
+    old "The body was in a ditch."
+    new "之前屍體在陰溝裡。"
 
-    old "{color=#000000} {font=willfont.ttf}Cliff claims Reed tries to break into his apartment.{/font} {/color}"
-    new "{color=#000000}{font=font/willfont.ttf}Cliff說Reed試圖闖入他的公寓。{/font}{/color}"
+    # game/script.rpy:1919
+    old "Tutti-frutti."
+    new "什錦口味。"
 
-    old "{color=#000000}{font=willfont.ttf}Cliff works with James for CGCS.{/font}{/color}"
-    new "{color=#000000}{font=font/willfont.ttf}Cliff和James一起效力於CGCS。{/font}{/color}"
+    # game/script.rpy:1920
+    old "Do I feel like making a mistake? Maybe."
+    new "我這麼做是錯的嗎？或許吧。"
 
-    old "{color=#000000}{font=willfont.ttf}Cliff's real name is Cornelus. He claims he does not have his worker's perment.{/font} {/color}"
-    new "{color=#000000}{font=font/willfont.ttf}Cliff的真名是Cornelus。據本人稱沒有工作證。{/font} {/color}"
+    # game/script.rpy:1921
+    old "This looks like one of the film rolls Murdoch's used before."
+    new "看起來像Murdoch用過的膠捲。"
 
-    old "{color=#000000}{font=willfont.ttf}[stagnighttext]{/font}{/color}"
-    new "{color=#000000}{font=font/willfont.ttf}[stagnighttext!t]{/font}{/color}"
+    # game/script.rpy:1922
+    old "One of these flowers is definitely mugwart."
+    new "我很肯定這些草中有一種是艾草。"
 
-    old "{color=#000000}{font=willfont.ttf}[chnighttext]{/font}{/color}"
-    new "{color=#000000}{font=font/willfont.ttf}[chnighttext!t]{/font}{/color}"
+    # game/script.rpy:1923
+    old "A doll in the basement."
+    new "地下室裡有個娃娃。"
 
-    old "{color=#000000}{font=willfont.ttf}[huxley1]{/font}{/color}"
-    new "{color=#000000}{font=font/willfont.ttf}[huxley1!t]{/font}{/color}"
+    # game/script.rpy:1924
+    old "..."
+    new "……"
 
-    old "{color=#000000}{font=willfont.ttf}[huxley2]{/font}{/color}"
-    new "{color=#000000}{font=font/willfont.ttf}[huxley2!t]{/font}{/color}"
+    # game/script.rpy:1925
+    old "Slick, fellahs..."
+    new "事後騷話巧舌如簧啊，伙伴們……"
 
-    old "{color=#000000}{font=willfont.ttf}[huxley3]{/font}{/color}"
-    new "{color=#000000}{font=font/willfont.ttf}[huxley3!t]{/font}{/color}"
+    # game/script.rpy:1926
+    old "Her grandma's shroud was in the bed... I have a pretty good idea of what we'd find if we opened it."
+    new "床上是她奶奶的裹屍布……不難想像裡面是什麼。"
 
-    old "{color=#000000}{font=willfont.ttf}[jamestext]{/font}{/color}"
-    new "{color=#000000}{font=font/willfont.ttf}[jamestext!t]{/font}{/color}"
+    # game/script.rpy:1927
+    old "It's probably nothing."
+    new "也許是我想多了。"
 
-    old "{color=#000000}{font=willfont.ttf}[changtext]{/font}{/color}"
-    new "{color=#000000}{font=font/willfont.ttf}[changtext!t]{/font}{/color}"
-
-    old "{color=#000000}{font=willfont.ttf} Sam needs to sleep more. [cynthiatext]{/font}{/color}"
-    new "{color=#000000}{font=font/willfont.ttf}Sam需要更多睡眠。[cynthiatext!t]{/font}{/color}"
-
-    old "{color=#000000}{font=willfont.ttf}[harlantext]{/font}{/color}"
-    new "{color=#000000}{font=font/willfont.ttf}[harlantext!t]{/font}{/color}"
-
-    old "{color=#000000}{font=willfont.ttf}[etheltext]{/font}{/color}"
-    new "{color=#000000}{font=font/willfont.ttf}[etheltext!t]{/font}{/color}"
-
-define cynthiatext = ""
+    # game/williamroute3.rpy:6953
+    old "It used to belong to Marcy's sister."
+    new "它曾經屬於Marcy的姐妹。"
