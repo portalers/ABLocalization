@@ -4666,7 +4666,7 @@ translate Schinese chapter_M3_astaroth_84e97c0f:
 translate Schinese chapter_M3_astaroth_6c7de6a6:
 
     # p "I know, ok! But I can’t just leave him be, he’s not acting like himself!"
-    p "我知道！但我不能抛下他，他有点不太对劲！"
+    p "我知道！但我不能丢下他不管，他不太对劲！"
 
 # game/story/Chapter_M3.rpy:2313
 translate Schinese chapter_M3_astaroth_2099fd3c:
@@ -5014,13 +5014,13 @@ translate Schinese chapter_M3_lucian_790b10a8:
 translate Schinese chapter_M3_lucian_5e124a1b:
 
     # T "Ok now say this part with passion..."
-    T "好，现在饱含激情地念出这句话..."
+    T "好，现在满怀激情地念出这句话..."
 
 # game/story/Chapter_M3.rpy:2446
 translate Schinese chapter_M3_lucian_ff455257:
 
     # T "Soy un bailarín go-go profesional. Viajo por el mundo encontrando todos poles dondé pueda bailar, con la esperanza de convertirme en un maestro del pole dance. (I’m a professional go-go dancer. I travel the world finding every pole I can dance.)"
-    T "Soy un bailarín go-go profesional。Viajo por el mundo encontrando todos poles dondé pueda bailar，con la esperanza de convertirme en un maestro del pole dance。(我是一名专业的脱衣舞者。我周游世界，寻找每一根可以用来跳舞的钢管。)"
+    T "Soy un bailarín go-go profesional。Viajo por el mundo encontrando todos poles dondé pueda bailar，con la esperanza de convertirme en un maestro del pole dance。(我是一名专业的脱衣舞者。我周游世界，寻找每一跟可以用来跳舞的钢管。)"
 
 # game/story/Chapter_M3.rpy:2449
 translate Schinese chapter_M3_lucian_fd3c62e0:
