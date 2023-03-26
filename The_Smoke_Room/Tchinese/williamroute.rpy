@@ -436,7 +436,7 @@ translate Tchinese williamroute_b81c6330:
 translate Tchinese williamroute_d1d1862e:
 
     # "At least how earnest it felt to {i}me{/i}."
-    "至少 {i}我{/i} 感到那麼暖。"
+    "至少{b}我{/b}感到那麼暖。"
 
 # game/williamroute.rpy:106
 translate Tchinese williamroute_23c8f2e4:
@@ -1048,7 +1048,7 @@ translate Tchinese williamroute_9a2a4a3a:
 translate Tchinese williamroute_9737665a:
 
     # m "\"But what am {i}I{/i} supposed to do right now? This very night?\""
-    m "“但是 {i}我{/i} 現在該做什麼──我是說今晚？”"
+    m "“但是{b}我{/b}現在該做什麼──我是說今晚？”"
 
 # game/williamroute.rpy:257
 translate Tchinese williamroute_fa16db8e:
@@ -1066,7 +1066,7 @@ translate Tchinese williamroute_d86b7e63:
 translate Tchinese williamroute_20480daa:
 
     # m "\"I haven't liked {i}any{/i} of this, William!\""
-    m "“我根本就沒喜歡這些事 的{i}任何{/i} 之一啊，William！”"
+    m "“我根本就沒喜歡這些事的{b}任何{/b}之一啊，William！”"
 
 # game/williamroute.rpy:262
 translate Tchinese williamroute_7f4ccfbf:
@@ -1168,7 +1168,7 @@ translate Tchinese williamroute_8ad59ee3:
 translate Tchinese williamroute_6833cbf6:
 
     # "...but the memories of {i}that{/i} place are warming me up to the idea of iron bars."
-    "……但關於 {i}那個{/i} 地方的記憶正把我心中的天秤傾斜到鐵欄杆那邊。"
+    "……但關於{b}那個{/b}地方的記憶正把我心中的天秤傾斜到鐵欄杆那邊。"
 
 # game/williamroute.rpy:284
 translate Tchinese williamroute_d264475a:
@@ -1186,7 +1186,7 @@ translate Tchinese williamroute_71d88793:
 translate Tchinese williamroute_6c18176f:
 
     # "Maybe going back down {i}there{/i} for just a little while will be the worst of this."
-    "說不定只回到 {i}那裡{/i} 一下就是最糟糕的部分了。"
+    "說不定只回到{b}那裡{/b}一下就是最糟糕的部分了。"
 
 # game/williamroute.rpy:287
 translate Tchinese williamroute_2228086e_1:
@@ -1234,7 +1234,7 @@ translate Tchinese williamroute_40c99711:
 translate Tchinese williamroute_e33a2388:
 
     # mu "\"You {i}still{/i} need me after all this?\""
-    mu "“都到了這地步你 {i}還{/i} 需要我？”"
+    mu "“都到了這地步你{b}還{/b}需要我？”"
 
 # game/williamroute.rpy:299
 translate Tchinese williamroute_8fa021c6:
@@ -1252,7 +1252,7 @@ translate Tchinese williamroute_b90a46cd:
 translate Tchinese williamroute_a4ddb580:
 
     # wi "\"You're getting paid for your obligations {i}tonight{/i}. You'll manage.\""
-    wi "“你 {i}今晚{/i} 的職務有費用補貼。對你不算糟吧。”"
+    wi "“你{b}今晚{/b}的職務有費用補貼。對你不算糟吧。”"
 
 # game/williamroute.rpy:304
 translate Tchinese williamroute_9dab8dbc:
@@ -1780,7 +1780,7 @@ translate Tchinese williamroute_df088fb3:
 translate Tchinese williamroute_08698f2f:
 
     # "I hadn't realized Nik was one of the people who {i}found{/i} Jack."
-    "我這才想通Nik是 {i}發現{/i} Jack的其中一人。"
+    "我這才想通Nik是{b}發現{/b}Jack的其中一人。"
 
 # game/williamroute.rpy:431
 translate Tchinese williamroute_72e7d7a2:
@@ -2704,7 +2704,7 @@ translate Tchinese williamroute_7f0862b0:
 translate Tchinese williamroute_b7893779:
 
     # "{i}Aren't you hungry, too?{/i}"
-    "{i}「你不也餓著嗎？」{/i}"
+    "{b}「你不也餓著嗎？」{/b}"
 
 # game/williamroute.rpy:669
 translate Tchinese williamroute_4a95496d:

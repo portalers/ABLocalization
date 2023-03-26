@@ -226,7 +226,7 @@ translate Tchinese williamroute2_58ca62fc:
 translate Tchinese williamroute2_3d1d145a:
 
     # md "\"Stories about the sheriff’s {i}other deputy{/i} have flown the coop.\""
-    md "“關於警長的 {i}另一個副手{/i} 的故事已經悄然傳開了。”"
+    md "“關於警長{b}另一個副手{/b}的故事已經悄然傳開了。”"
 
 # game/williamroute2.rpy:74
 translate Tchinese williamroute2_094bca5b:
@@ -2362,7 +2362,7 @@ translate Tchinese williamroute2_1dc4d8a7:
 translate Tchinese williamroute2_0f34fb46:
 
     # mar "\"Sometimes she has to smile for me when things aren’t so good.\""
-    mar "“那時後有些日子並不好過，我媽媽只能強迫自己笑著面對。”"
+    mar "“那時候有些日子並不好過，我媽媽只能強迫自己笑著面對。”"
 
 # game/williamroute2.rpy:785
 translate Tchinese williamroute2_d0ab9512:

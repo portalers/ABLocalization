@@ -2536,7 +2536,7 @@ translate Tchinese cliffroute_37bf216e:
 translate Tchinese cliffroute_6c5d960a:
 
     # cl "\"My thesis is going to be about what makes them {i}them{i}.\""
-    cl "“我的論文就是關於是什麼讓他們成為了 {i}他們{i} 。”"
+    cl "“我的論文就是關於是什麼讓他們成為了{b}他們{/b}。”"
 
 # game/cliffroute.rpy:534
 translate Tchinese cliffroute_a90d9d1d:

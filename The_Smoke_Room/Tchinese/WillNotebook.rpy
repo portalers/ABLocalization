@@ -120,7 +120,7 @@ translate Tchinese strings:
     new "不知道stag的人們能提供些什麼。"
 
     old "Hendricks is usually up to something. Worst thing is, it's probably not illegal."
-    new "Hendricks總是心懷鬼胎，更糟糕的是，他可能並沒有違法。"
+    new "Hendricks總是心懷鬼胎，更糟糕的是，他很擅長鑽法律漏洞。"
 
     old "City Hall holds a lot of secrets."
     new "鎮公所裡藏著許多秘密。"
@@ -131,7 +131,7 @@ translate Tchinese strings:
     old "I need to find Reed."
     new "我需要找到Reed。"
 
-    old "So what was reed up to if he didn't place a hit on Cliff?"
+    old "So what was Reed up to if he didn't place a hit on Cliff?"
     new "所以既然Reed對Cliff沒興趣，他到底想幹嘛？"
 
     old "The workers at the hip are the best source of information in town."
@@ -150,7 +150,7 @@ translate Tchinese strings:
 
     # game/script.rpy:1919
     old "Tutti-frutti."
-    new "什錦口味。"
+    new "綜合水果口味。"
 
     # game/script.rpy:1920
     old "Do I feel like making a mistake? Maybe."

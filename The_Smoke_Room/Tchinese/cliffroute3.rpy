@@ -1540,7 +1540,7 @@ translate Tchinese aftertent_26f53ac5:
 translate Tchinese aftertent_1a6657d8:
 
     # "I wish that Clifford Tibbits -- that {i}I{/i} could be that confident."
-    "真希望Clifford Tibbits──即 {i}我{/i} ──也能如此自信。"
+    "真希望Clifford Tibbits──即{b}我{/b}──也能如此自信。"
 
 # game/cliffroute3.rpy:387
 translate Tchinese aftertent_b502f9ff:
@@ -6868,7 +6868,7 @@ translate Tchinese aftercliffint2_b45b1116:
 translate Tchinese aftercliffint2_af7399d8:
 
     # m "\"I’d appreciate if you stopped saying {i}‘your people’{/i}.\""
-    m "“請別再說 {i}‘你們的人’{/i} 了。”"
+    m "“請別再說{b}‘你們的人’{/b}了。”"
 
 # game/cliffroute3.rpy:1853
 translate Tchinese aftercliffint2_820d3ae7:

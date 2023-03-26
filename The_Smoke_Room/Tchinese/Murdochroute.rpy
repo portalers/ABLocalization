@@ -4090,7 +4090,7 @@ translate Tchinese Murdochroute_28656fda:
 translate Tchinese Murdochroute_ff65b7db:
 
     # mu "\"{i}He is{/i} going to work here.\""
-    mu "“ {i}他要{/i} 在這裡工作。”"
+    mu "“{b}他要{/b}在這裡工作。”"
 
 # game/Murdochroute.rpy:1014
 translate Tchinese Murdochroute_4b6b24fc:
@@ -4144,7 +4144,7 @@ translate Tchinese Murdochroute_57c002af:
 translate Tchinese Murdochroute_a1f4ddc5:
 
     # mu "\"{i}Ralph{/i}—\""
-    mu "“{i}Ralph{/i}──”"
+    mu "“{b}Ralph{/b}──”"
 
 # game/Murdochroute.rpy:1037
 translate Tchinese Murdochroute_b3b81385:
@@ -4222,7 +4222,7 @@ translate Tchinese Murdochroute_1a80c807:
 translate Tchinese Murdochroute_77863eee:
 
     # m "\"Was more that Echo ain’t {i}that{/i} small.\""
-    m "“不只，回音鎮可沒 {i}那麼{/i} 小。”"
+    m "“不只，回音鎮可沒{b}那麼{/b}小。”"
 
 # game/Murdochroute.rpy:1064
 translate Tchinese Murdochroute_e828f6ca:
@@ -6166,7 +6166,7 @@ translate Tchinese Murdochroute_ca415719:
 translate Tchinese Murdochroute_e2ced939:
 
     # gr "\"But what {i}should{/i} change is what you consider most important.\""
-    gr "“不過 {i}應該{/i} 改變的，是什麼東西才是你認為最重要的。”"
+    gr "“不過{b}應該{/b}改變的，是什麼東西才是你認為最重要的。”"
 
 # game/Murdochroute.rpy:1645
 translate Tchinese Murdochroute_fab3b628:

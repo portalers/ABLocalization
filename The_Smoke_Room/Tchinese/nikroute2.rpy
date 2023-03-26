@@ -9940,7 +9940,7 @@ translate Tchinese sny1_fb722638:
 translate Tchinese sny1_8adb57b0:
 
     # "{i}God must want me dead to put me with a man as slow as you{/i}."
-    "{i}上帝肯定是不想讓我活了，才會把你這麼個遲鈍的傢伙派過來。{/i}"
+    "{b}上帝肯定是不想讓我活了，才會把你這麼個遲鈍的傢伙派過來。{/b}"
 
 # game/nikroute2.rpy:2901
 translate Tchinese sny1_c0d42465:
@@ -15502,7 +15502,7 @@ translate Tchinese sny1_748563e2:
 translate Tchinese sny1_0fa342b6:
 
     # ni "\"I am confident that I can protect myself and Samuel from any natural... or {i}unnatural{/i} element in a mine.\""
-    ni "“我有信心保護我自己和Sam不受礦井中任何自然……或 {i}不自然{/i} 因素的危害。”"
+    ni "“我有信心保護我自己和Sam不受礦井中任何自然……或{b}不自然{/b}因素的危害。”"
 
 # game/nikroute2.rpy:5014
 translate Tchinese sny1_74173cd8:
@@ -24031,7 +24031,7 @@ translate Tchinese locker1bright_303cb7af:
 translate Tchinese locker1bright_4dbde96e:
 
     # no "\"Go now go now go now GO NOW.\""
-    no "“快走快走快走 {i}快走{/i}。”"
+    no "“快走快走快走{b}快走{/b}。”"
 
 # game/nikroute2.rpy:8252
 translate Tchinese locker1bright_69d2353b:

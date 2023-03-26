@@ -12,9 +12,9 @@ translate Tchinese python:
         ## Adjust dialogue.
         gui.dialogue_width = 1230
         gui.label_text_size = 51
+        gui.button_text_size = 36
         gui.history_name_xpos = 0.15
         gui.history_height = 285
         gui.history_text_width = 1035
         ## Quick buttons.
         gui.quick_button_text_size = 50
-

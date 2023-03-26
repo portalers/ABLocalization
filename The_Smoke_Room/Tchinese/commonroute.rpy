@@ -406,7 +406,7 @@ translate Tchinese commonroute_1ddd870b:
 translate Tchinese commonroute_ee783a59:
 
     # cy "\"Well, {i}I{/i} didn't look at the list. I would never...but Gabriel did.\""
-    cy "“啊， {i}我{/i} 沒有看那個名單，我永遠不會的……不過Gabriel看了。”"
+    cy "“啊，{b}我{/b}沒有看那個名單，我永遠不會的……不過Gabriel看了。”"
 
 # game/commonroute.rpy:93
 translate Tchinese commonroute_bfbf4a6c:
@@ -484,7 +484,7 @@ translate Tchinese commonroute_0fc889d5:
 translate Tchinese commonroute_f02b8378:
 
     # m "\"You know mine are different. They find {i}me{/i}.\""
-    m "“你知道，我不一樣。 是他們找上 {i}我{/i} 的。”"
+    m "“你知道，我不一樣。 是他們找上{b}我{/b}的。”"
 
 # game/commonroute.rpy:109
 translate Tchinese commonroute_ae5e5d0f:
@@ -2230,7 +2230,7 @@ translate Tchinese commonroute_60384ec8:
 translate Tchinese commonroute_a231f499:
 
     # "Because it {i}feels{/i} like something else."
-    "因為它 {i}感覺起來{/i} 像其他東西。"
+    "因為它{b}感覺起來{/b}像其他東西。"
 
 # game/commonroute.rpy:434
 translate Tchinese commonroute_e83ab10c:
@@ -3346,13 +3346,13 @@ translate Tchinese commonroute_7af305bf:
 translate Tchinese commonroute_f2d7667b:
 
     # "{i}Be alert and of sober mind.{/i}"
-    "{i}務要謹守，儆醒。{/i}"
+    "{b}務要謹守，儆醒。{/b}"
 
 # game/commonroute.rpy:710
 translate Tchinese commonroute_3103eead:
 
     # "{i}Your enemy the devil prowls around looking for someone to devour.{/i}"
-    "{i}因為你們的仇敵魔鬼，如同吼叫的獅子，遍地游行，尋找可吞吃的人。{/i}"
+    "{b}因為你們的仇敵魔鬼，如同吼叫的獅子，遍地遊行，尋找可吞吃的人。{/b}"
 
 # game/commonroute.rpy:1131
 translate Tchinese commonroute_401bc465:

@@ -7737,7 +7737,7 @@ translate Tchinese sny3_f8bca0e8:
 translate Tchinese sny3_b9351536:
 
     # "She opens her mouth, then closes it, humming."
-    "她張開口，卻又合上，發出猶豫的哼聲。"
+    "她張開口，卻又闔上，發出猶豫的哼聲。"
 
 # game/nikroute3.rpy:2159
 translate Tchinese sny3_51397486:
@@ -7815,7 +7815,7 @@ translate Tchinese sny3_f8bca0e8_1:
 translate Tchinese sny3_b9351536_1:
 
     # "She opens her mouth, then closes it, humming."
-    "她張開口，卻又合上，發出猶豫的哼聲。"
+    "她張開口，卻又闔上，發出猶豫的哼聲。"
 
 # game/nikroute3.rpy:2175
 translate Tchinese sny3_55b23c30:

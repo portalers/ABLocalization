@@ -1,12 +1,24 @@
-﻿# TODO: Translation updated at 2023-03-19 20:06
+translate Tchinese python:
+    config.font_replacement_map["font/SourceHanSansTC-Normal.otf", True, False] = ("font/SourceHanSansTC-Bold.otf", False, False)
+    gui.system_font = gui.main_font = gui.text_font = gui.name_text_font = gui.interface_text_font = gui.button_text_font = gui.choice_button_text_font = "font/SourceHanSansTC-Normal.otf"
+    preferences.text_cps = 14
 
-translate Schinese strings:
-
-    # game/options.rpy:15
-    old "The Smoke Room"
-    new "The Smoke Room"
-
-    # game/options.rpy:38
-    old "The Smoke Room was made possible thanks to our generous supporters on {a=https://patreon.com/EchoGame}Patreon{/a}.\n\n{color=#d9bc8b}A full credits list can be viewed at the end of the game.{/color}\n\nThe Smoke Room ©2022 Echo Project. All rights reserved."
-    new "The Smoke Room was made possible thanks to our generous supporters on {a=https://patreon.com/EchoGame}Patreon{/a}.\n\n{color=#d9bc8b}A full credits list can be viewed at the end of the game.{/color}\n\nThe Smoke Room ©2022 Echo Project. All rights reserved."
-
+    if renpy.variant("pc"):
+        ## Font sizes.
+        gui.text_size = 36
+        gui.button_text_size = 36
+        gui.choice_button_text_size = 36
+    if renpy.variant("small"):
+        ## Adjust dialogue.
+        gui.dialogue_width = 1230
+        gui.label_text_size = 51
+        gui.history_name_xpos = 0.15
+        ## 优化安卓版存档缩略图大小
+        gui.slot_button_width = 400
+        gui.slot_button_height = 240
+        config.thumbnail_width = 384
+        config.thumbnail_height = 216
+        gui.history_height = 285
+        gui.history_text_width = 1035
+        ## Quick buttons.
+        gui.quick_button_text_size = 50

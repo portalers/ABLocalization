@@ -2968,7 +2968,7 @@ translate Tchinese cliffroute2_fd2e7da0:
 translate Tchinese cliffroute2_f9ca9173:
 
     # cl "\"{i}Murdoch!{/i}\""
-    cl "“{i}Murdoch！{/i}”"
+    cl "“{b}Murdoch！{/b}”"
 
 # game/cliffroute2.rpy:736
 translate Tchinese cliffroute2_cdd9f7bd:
@@ -3220,7 +3220,7 @@ translate Tchinese cliffroute2_a5fbd220:
 translate Tchinese cliffroute2_f993132e:
 
     # mu "\"The weather's perfect for some {i}natuurfotografie{/i}.\""
-    mu "“這天氣對 {i}natuurfotografie (自然攝影){/i} 來說簡直完美。”"
+    mu "“這天氣對{b}natuurfotografie(自然攝影){/b}來說簡直完美。”"
 
 # game/cliffroute2.rpy:800
 translate Tchinese cliffroute2_d51e005d:
@@ -4114,7 +4114,7 @@ translate Tchinese shove_menu_7e13bb3f:
 translate Tchinese shove_menu_a2ae7974:
 
     # mu "\"I want to {i}help you{/i}.\""
-    mu "“我想 {i}幫你{/i} 。”"
+    mu "“我想{b}幫你{/b}。”"
 
 # game/cliffroute2.rpy:1031
 translate Tchinese shove_menu_47f79a52:
@@ -5248,7 +5248,7 @@ translate Tchinese aftercanyon_2206f776:
 translate Tchinese aftercanyon_0be87a9b:
 
     # mu "\"{i}You come for my gold, and I’ll come for your life!{/i}\""
-    mu "“{i}你要我的黃金，那我就要你的老命！{/i}”"
+    mu "“{b}你要我的黃金，那我就要你的老命！{/b}”"
 
 # game/cliffroute2.rpy:1311
 translate Tchinese aftercanyon_51ac88ef:
@@ -7180,7 +7180,7 @@ translate Tchinese aftercanyon_875c8c24:
 translate Tchinese aftercanyon_cebaecf7:
 
     # jeb "\"{i}Douse the fire{/i}.\""
-    jeb "“{i}把火撲滅{/i}。”"
+    jeb "“{b}把火撲滅{/b}。”"
 
 # game/cliffroute2.rpy:1474
 translate Tchinese aftercanyon_7e55bfeb:
@@ -7240,7 +7240,7 @@ translate Tchinese aftercanyon_2e039360:
 translate Tchinese aftercanyon_fd189ea7:
 
     # jeb "\"{i}Do not move a muscle.{/i}\""
-    jeb "“{i}一動也別動{/i}。”"
+    jeb "“{b}一動也別動{/b}。”"
 
 # game/cliffroute2.rpy:1488
 translate Tchinese aftercanyon_2552105b:
@@ -7726,7 +7726,7 @@ translate Tchinese aftercanyon_23337e68:
 translate Tchinese aftercanyon_d31c92b2:
 
     # wi "\"{i}{cps=0}At the {/cps}{cps=20}end {nw}"
-    wi "“{i}{cps=0}我的{/cps}{cps=20}絞繩{nw}"
+    wi "“{cps=0}我的{/cps}{cps=20}絞繩{nw}"
 
 # game/cliffroute2.rpy:1587
 translate Tchinese aftercanyon_a91998cc:
@@ -8146,7 +8146,7 @@ translate Tchinese aftercanyon_372eaef9:
 translate Tchinese aftercanyon_d9810ee8:
 
     # cl "\"I couldn't -- {i}we{/i} couldn't risk losing you.\""
-    cl "“我不能── {i}我們{/i} 不能冒著失去你的風險。”"
+    cl "“我不能──{b}我們{/b}不能冒著失去你的風險。”"
 
 # game/cliffroute2.rpy:1685
 translate Tchinese aftercanyon_b457b371:
@@ -8644,7 +8644,7 @@ translate Tchinese aftercanyon_ba34f46f:
 translate Tchinese aftercanyon_13d92ac0:
 
     # m "\"Did you {i}want{/i} to die?\""
-    m "“難道你 {i}想{/i} 找死嗎？”"
+    m "“難道你{b}想{/b}找死嗎？”"
 
 # game/cliffroute2.rpy:1817
 translate Tchinese aftercanyon_bd7a5275:
@@ -9322,7 +9322,7 @@ translate Tchinese aftercanyon_f5475483:
 translate Tchinese aftercanyon_c79a249d:
 
     # jeb "\"I {i}know{/i} this forest--\""
-    jeb "“我 {i}了解{/i} 這片森林──”"
+    jeb "“我{b}了解{/b}這片森林──”"
 
 # game/cliffroute2.rpy:1964
 translate Tchinese aftercanyon_d03328da:
@@ -17788,7 +17788,7 @@ translate Tchinese hh_72784eff:
 translate Tchinese hh_e6afa5c9:
 
     # dkf "\"I always wanted to see a {i}real{/i} pistol.\""
-    dkf "“我一直想見識一下 {i}真正的{/i} 手槍。”"
+    dkf "“我一直想見識一下{b} 真正的 {/b}手槍。”"
 
 # game/cliffroute2.rpy:3868
 translate Tchinese hh_132beb2a:
@@ -21682,7 +21682,7 @@ translate Tchinese smcbath_0577ba7b:
 translate Tchinese smcbath_6d8ac7c2:
 
     # "Cliff shuts his eyes, tongue swirling about the head of the fox's cock."
-    "Cliff合上雙眼，舌頭在狐狸的下面打轉。"
+    "Cliff闔上雙眼，舌頭在狐狸的下面打轉。"
 
 # game/cliffroute2.rpy:5003
 translate Tchinese smcbath_69eeee4a:
@@ -21748,7 +21748,7 @@ translate Tchinese smcbath_5c0e8f01:
 translate Tchinese smcbath_ba6783f6:
 
     # "The weasel's eyes go wide, then lid."
-    "鼬先是眼睛一睜，又合上了眼皮。"
+    "鼬先是眼睛一睜，又闔上了眼皮。"
 
 # game/cliffroute2.rpy:5014
 translate Tchinese smcbath_d56370d8:
