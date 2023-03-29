@@ -3538,7 +3538,7 @@ translate Tchinese williamroute_c60d6e33:
 translate Tchinese williamroute_1059b3b9:
 
     # wi "\"Night, whore.\""
-    wi "“晚安，男妓。”"
+    wi "“晚安，娼妓。”"
 
 # game/williamroute.rpy:897
 translate Tchinese williamroute_f1766aa9:

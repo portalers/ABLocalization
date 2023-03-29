@@ -22,13 +22,13 @@ translate Tchinese cliffroute_54ec45fa:
 translate Tchinese cliffroute_a6b2cb68:
 
     # "...though I could do without his longing stares."
-    "……雖然就算他目光中沒有渴望，我也可以。"
+    "……就算他目光中沒有渴望，我也可以下手。"
 
 # game/cliffroute.rpy:12
 translate Tchinese cliffroute_13d6feaf:
 
     # m "\"You. Weasel.\""
-    m "“喂，鼬。”"
+    m "“嘿，鼬。”"
 
 # game/cliffroute.rpy:15
 translate Tchinese cliffroute_e8627a49:
@@ -442,7 +442,7 @@ translate Tchinese cliffroute_308762ce:
 translate Tchinese cliffroute_f83da0e6:
 
     # "He reaches for his satchel again, taking out a stack of what looks like postcards."
-    "他再次伸爪去搆自己的書包，拿出一疊看起來像是明信片的玩意。"
+    "他再次伸爪去勾起自己的書包，拿出一疊看起來像是明信片的玩意。"
 
 # game/cliffroute.rpy:109
 translate Tchinese cliffroute_ef0e2112:
@@ -694,7 +694,7 @@ translate Tchinese cliffroute_0eac34c7:
 translate Tchinese cliffroute_94b84fbd:
 
     # m "\"Feesus? What's a--\""
-    m "“論文？什麼是──”"
+    m "“愣文？什麼是──”"
 
 # game/cliffroute.rpy:162
 translate Tchinese cliffroute_c749e7a2:
@@ -772,7 +772,7 @@ translate Tchinese cliffroute_6c8238b1:
 translate Tchinese cliffroute_a20698c7:
 
     # "He strikes me as the inexperienced type, so I put my paw on his, guiding it to my side."
-    "他給我的印象是缺乏經驗，於是我用自己的爪子握住了它的，引導著它更進一步。"
+    "他給我的印象是缺乏經驗，於是我用自己的爪子握住了它的爪，引導著它更進一步。"
 
 # game/cliffroute.rpy:178
 translate Tchinese cliffroute_7b128051:
@@ -916,7 +916,7 @@ translate Tchinese cliffroute_217830dd:
 translate Tchinese cliffroute_cbd55fd3:
 
     # m "\"Fuck. They really did a number on you.\""
-    m "“媽的。他們真是把你整慘了。”"
+    m "“操。他們真是把你整慘了。”"
 
 # game/cliffroute.rpy:205
 translate Tchinese cliffroute_7f2b51d2:
@@ -1024,7 +1024,7 @@ translate Tchinese cliffroute_a3b3deb8:
 translate Tchinese cliffroute_4dbba81a:
 
     # "He opens his mouth to reply but I’ve already parted my lips to take his thin, long length in."
-    "他張開嘴準備回答，不過我已經張開了嘴，將他瘦長的那根含了進去。"
+    "他張開嘴準備回答，不過我已經張開了嘴，將他瘦長的鼬仔含了進去。"
 
 # game/cliffroute.rpy:229
 translate Tchinese cliffroute_1e8e55d7:
@@ -1132,7 +1132,7 @@ translate Tchinese cliffroute_ad15c540:
 translate Tchinese cliffroute_855b9ebd:
 
     # "All he can do is stare at it, moving his snout with his gaze as I bounce it, getting it big for him."
-    "他所能做的就是盯著它看，我的下身在他面前顫動而脹大，而他在我更加充分的勃起前移動著視線。"
+    "他所能做的就是盯著它看，我的下身在他面前顫動而脹大，而他正在我更加充分的勃起前移動著視線。"
 
 # game/cliffroute.rpy:249
 translate Tchinese cliffroute_d28caf4d:
@@ -1192,7 +1192,7 @@ translate Tchinese cliffroute_1073c252:
 translate Tchinese cliffroute_ddfadd70:
 
     # "I watch him stare, almost indecisively, while I can feel my heartbeat in my groin."
-    "我將他幾乎充滿優柔寡斷的凝視收進眼中，同時感受著自己大腿根的搏動。"
+    "我將他幾乎充滿優柔寡斷的凝視收進眼中，同時感受著自己大腿的搏動。"
 
 # game/cliffroute.rpy:261
 translate Tchinese cliffroute_b560358a:
@@ -1222,7 +1222,7 @@ translate Tchinese cliffroute_8c880931:
 translate Tchinese cliffroute_09833f3b:
 
     # m "\"Lean in and start at the base of my cock... close to my balls... then drag it all the way up to my tip, near the hole. Easy to say, but to do, well...\""
-    m "“靠近點，從我的根部開始……接近我的老二的地方……然後一口氣舔到頭，靠近馬眼的位置。說起來容易，不過做起來，嗯……”"
+    m "“靠近點，從我的根部開始……接近我的老二的地方……然後一口氣舔到龜頭，靠近馬眼的位置。說起來容易，不過做起來，嗯……”"
 
 # game/cliffroute.rpy:266
 translate Tchinese cliffroute_580c6926:
@@ -1354,7 +1354,7 @@ translate Tchinese cliffroute_711551b6:
 translate Tchinese cliffroute_bdb99a1e:
 
     # "I feel my first burst of slick pre release into his mouth."
-    "我先是感覺到自己的第一陣迸發，然後在他的嘴中釋放了出來。"
+    "我先是感覺到自己的第一波迸發，然後在他的嘴中釋放了出來。"
 
 # game/cliffroute.rpy:291
 translate Tchinese cliffroute_acafa538:
@@ -1396,7 +1396,7 @@ translate Tchinese cliffroute_5c7fc970:
 translate Tchinese cliffroute_b143fbaa:
 
     # m "\"You have two free hands. Use one on my balls. Grab the base of my cock with your other.\""
-    m "“你的雙手可以自由活動。把一隻捏在我的球上，另一隻握住我的根部。”"
+    m "“你的雙手可以自由活動。把一隻捏在我的蛋蛋上，另一隻握住我的根部。”"
 
 # game/cliffroute.rpy:298
 translate Tchinese cliffroute_f8339fdb:
@@ -1672,7 +1672,7 @@ translate Tchinese cliffroute_ef26245a:
 translate Tchinese cliffroute_0c1f27f3:
 
     # m "\"You’re getting cheeky. Let’s finish this.\""
-    m "“你真厚臉皮。 讓我們完成這個。”"
+    m "“你真厚臉皮。 讓我們做完這個。”"
 
 # game/cliffroute.rpy:351
 translate Tchinese cliffroute_5367d8bf:
@@ -1690,7 +1690,7 @@ translate Tchinese cliffroute_e9dd4dd8:
 translate Tchinese cliffroute_4a543b27:
 
     # "I pull from his mouth and then move on to his left nipple, lapping it there as he struggles, both of our cocks pressed together, both of them drooling between our abs."
-    "我放開了他的嘴，慢慢地把嘴巴移到他左邊的胸部上，他被我的舌頭挑逗得輕輕的掙扎，我們兩根肉棒緊緊地壓在一起，邊在我們的腹肌之間流出前列腺液。"
+    "我放開了他的嘴，慢慢地把嘴巴移到他左邊的胸部上，他被我的舌頭挑逗得輕輕的掙扎，我們的肉棒緊緊地壓在一起，邊在我們的腹肌之間流出愛液。"
 
 # game/cliffroute.rpy:354
 translate Tchinese cliffroute_cc4b805b:
@@ -1780,7 +1780,7 @@ translate Tchinese cliffroute_325f6c48:
 translate Tchinese cliffroute_37c53add:
 
     # "He falls back against me, still sticky and smelling like sex, and curls up against my arm."
-    "他向後靠在我身上，蜷縮在我的手臂上，他身上仍然黏糊糊的而且聞起來像性的味道。"
+    "他向後靠在我身上，蜷縮在我的手臂上，他身上仍然黏糊糊的而且聞起來滿是性的氣息。"
 
 # game/cliffroute.rpy:370
 translate Tchinese cliffroute_61824b06:
@@ -1978,7 +1978,7 @@ translate Tchinese cliffroute_94b69dde:
 translate Tchinese cliffroute_54933664:
 
     # "When I meet the weasel’s eyes again, his mouth’s hangin’ open. I almost expect him to get ready to leave right then and there."
-    "再次與鼬的視線對上時，他嘴巴大張，我幾乎看到他會立刻離開了。"
+    "再次與鼬的視線對上時，他嘴巴大張，我幾乎能預見他要準備立刻離開了。"
 
 # game/cliffroute.rpy:420
 translate Tchinese cliffroute_4f1c5903:
@@ -2356,7 +2356,7 @@ translate Tchinese cliffroute_8ee59800:
 translate Tchinese cliffroute_87350f97:
 
     # m "\"For your feesus?\""
-    m "“為了你的輪文？”"
+    m "“為了你的愣文？”"
 
 # game/cliffroute.rpy:496
 translate Tchinese cliffroute_5a9f858c:
@@ -2410,13 +2410,13 @@ translate Tchinese cliffroute_778218db:
 translate Tchinese cliffroute_5ee9848c:
 
     # "I reach for my shirt and open my mouth, tryin’ to think about how I should phrase the question."
-    "我伸爪去搆自己的襯衫，並努力思考該如何組織這個問題。"
+    "我伸爪去拿自己的襯衫，並努力思考該如何組織這個問題。"
 
 # game/cliffroute.rpy:508
 translate Tchinese cliffroute_b325c4d7:
 
     # m "\"This feesus of yours...\""
-    m "“你的這篇輪文……”"
+    m "“你的這篇愣文……”"
 
 # game/cliffroute.rpy:509
 translate Tchinese cliffroute_da7c1dc6:
@@ -3580,7 +3580,7 @@ translate Tchinese cliffroute_d211daee:
 translate Tchinese cliffroute_96317e00:
 
     # mu "\"Sheriff said none of the big players in town getting any rest until the perpetrator’s hanging from the gallows.\""
-    mu "“治安官說，除非兇手吊死在絞刑架上，否則誰都別想休息。”"
+    mu "“警長說，除非兇手吊死在絞刑架上，否則誰都別想休息。”"
 
 # game/cliffroute.rpy:817
 translate Tchinese cliffroute_0ceadbb2:
@@ -4090,7 +4090,7 @@ translate Tchinese cliffroute_37e47324:
 translate Tchinese cliffroute_500f5ce0:
 
     # "He’s warm, tough, and my muscles contract against his."
-    "他很溫暖，堅硬，我將自己的肌肉貼了上去。"
+    "他很溫暖，堅挺，我將自己的肌肉貼了上去。"
 
 # game/cliffroute.rpy:889
 translate Tchinese cliffroute_afdb5d9d:
@@ -4156,13 +4156,13 @@ translate Tchinese cliffroute_85ef7528:
 translate Tchinese cliffroute_10db7331:
 
     # "I lift his legs, staring at my own erection, letting dribbles of spit cover me."
-    "我抬高他的雙腿，盯著自己的勃起，將其用一絲口水潤濕。"
+    "我抬高他的雙腿，盯著自己的肉棒，將其用一絲口水潤濕。"
 
 # game/cliffroute.rpy:902
 translate Tchinese cliffroute_aac6ed7b:
 
     # "When my tip rubs against his opening, his wispy ears splay back, and he exhales deeply through his nostrils."
-    "我的尖端在他庭口處磨蹭，他那細長的耳朵舒服得向後背去，氣流深深地流通他的鼻孔。"
+    "我頂在他的庭口處來回磨蹭，他那細長的耳朵舒服得向後背去，氣流深深地流通他的鼻孔。"
 
 # game/cliffroute.rpy:903
 translate Tchinese cliffroute_67dbe062:
@@ -4180,7 +4180,7 @@ translate Tchinese cliffroute_7add3a58:
 translate Tchinese cliffroute_5f77c7ac:
 
     # "I've leaked enough that it's easy to slide in."
-    "滲漏出來的汁液已經足夠我順暢地進入了。"
+    "滲漏出來的淫液已經足夠我順暢地進入了。"
 
 # game/cliffroute.rpy:906
 translate Tchinese cliffroute_cc76f64a:
@@ -5392,7 +5392,7 @@ translate Tchinese cliffroute_beac1b56:
 translate Tchinese cliffroute_5e0b3ab6:
 
     # cy "\"Wouldn’t surprise me if he and Reed stayed overnight at the sheriff's again.\""
-    cy "“有什麼奇怪的，說不定兒他被治安官關了一夜呢。”"
+    cy "“有什麼奇怪的，說不定兒他被警長關了一夜呢。”"
 
 # game/cliffroute.rpy:1260
 translate Tchinese cliffroute_9a277da4:
@@ -5422,7 +5422,7 @@ translate Tchinese cliffroute_cee3ede7:
 translate Tchinese cliffroute_8edf1ccf:
 
     # cy "\"It's one thing after another in this town.\""
-    cy "“這個鎮子真是一波未平，一波又起。”"
+    cy "“這個小鎮真是一波未平，一波又起。”"
 
 # game/cliffroute.rpy:1246
 translate Tchinese cliffroute_c684ce5d:
@@ -5728,7 +5728,7 @@ translate Tchinese cliffroute_2b497c4a:
 translate Tchinese cliffroute_877f1b61:
 
     # cl "\"But Murdoch took me to a charming little barn in some field filled with good men and good beer and the poor fellow was thirsty, so I wet his whistle and everything more or less worked out.\""
-    cl "是Murdoch帶我去了一間鎮外的小穀倉，裡面都是好心的男人跟好喝的酒。我請咱們可憐的嚮導喝了幾杯，於是一切都水到渠成了。"
+    cl "是Murdoch帶我去了一間鎮外的小穀倉，裡面都是好心的男人跟好喝的酒。我請我們可憐的嚮導喝了幾杯，於是一切都水到渠成了。"
 
 # game/cliffroute.rpy:1345
 translate Tchinese cliffroute_6b089e3e:
@@ -5794,7 +5794,7 @@ translate Tchinese cliffroute_3635085a:
 translate Tchinese cliffroute_b90ab264:
 
     # cl "\"He told me he's like us, Sam!\""
-    cl "據他所說，他和咱們是一類人！"
+    cl "據他所說，他和我們是一類人！"
 
 # game/cliffroute.rpy:1362
 translate Tchinese cliffroute_743aa166:
@@ -5812,7 +5812,7 @@ translate Tchinese cliffroute_48806aed:
 translate Tchinese cliffroute_9b07ef03:
 
     # "I slick back the moisture on my forehead and pat down the top of my skull."
-    "我抹去額頭上的汗水，揉了揉後腦勺。"
+    "我抹去額頭上的汗水，揉了揉後腦杓。"
 
 # game/cliffroute.rpy:1365
 translate Tchinese cliffroute_aafd0b79:
@@ -6172,7 +6172,7 @@ translate Tchinese cliffroute_04091168:
 translate Tchinese cliffroute_f3739ec9:
 
     # cl "\"We've no time to stay indoors. We're leaving Echo tomorrow.\""
-    cl "“我們沒時間在室內待著了。我們明天就要離開回聲鎮。”"
+    cl "“我們沒時間在室內待著了。我們明天就要離開回音鎮。”"
 
 # game/cliffroute.rpy:1397
 translate Tchinese cliffroute_00fe9e0e:
@@ -6364,7 +6364,7 @@ translate Tchinese cliffroute_d7556a5e:
 translate Tchinese cliffroute_246f87cc:
 
     # "When we reach the top, he digs through his pockets for a good few moments looking for the keys."
-    "我們登完了樓梯，他在衣口袋翻了好一會才找到鑰匙。"
+    "我們登完了樓梯，他在口袋翻了好一會才找到鑰匙。"
 
 # game/cliffroute.rpy:1462
 translate Tchinese cliffroute_74607a4f:
@@ -6538,7 +6538,7 @@ translate Tchinese cliffroute_705c6706:
 translate Tchinese cliffroute_a26e946e:
 
     # "The other pictures in here are all anatomy studies."
-    "裡面其餘的圖片全是關於解刨學的。"
+    "裡面其餘的圖片全是關於解剖學的。"
 
 # game/cliffroute.rpy:1533
 translate Tchinese cliffroute_c4f01564:
@@ -6760,7 +6760,7 @@ translate Tchinese cliffroute_7498c0aa:
 translate Tchinese cliffroute_e9488e10:
 
     # "He reaches for the nearest cup of tea and reclines, blowing on it some to cool it down."
-    "他伸爪去搆就近的茶杯，然後倚靠在沙發上，用吹氣使茶涼下來。"
+    "他伸爪去拿就近的茶杯，然後倚靠在沙發上，用吹氣使茶涼下來。"
 
 # game/cliffroute.rpy:1557
 translate Tchinese cliffroute_6acbb800:
@@ -7030,7 +7030,7 @@ translate Tchinese cliffroute_d2b933fc:
 translate Tchinese cliffroute_e999813b:
 
     # cl "\"Let's try to move as one. When I pull, you push.\""
-    cl "“我們來試著保持一個步調。我撤的時候，你就進。”"
+    cl "“我們來試著保持一個步調。我退的時候，你就進。”"
 
 # game/cliffroute.rpy:1624
 translate Tchinese cliffroute_352f0f5f:
@@ -7210,7 +7210,7 @@ translate Tchinese cliffroute_4e21e1e0:
 translate Tchinese cliffroute_06bc7469:
 
     # cl "\"The bedroom is behind that door. The washroom is adjacent to it, should you want to clean up.\""
-    cl "“臥室就在那扇門後面。洗手間在隔壁，你應該會想清理一下。”"
+    cl "“臥室就在那扇門後面。洗手間在隔壁，你應該會想清洗一下。”"
 
 # game/cliffroute.rpy:1666
 translate Tchinese cliffroute_818cf2d4:
@@ -7552,7 +7552,7 @@ translate Tchinese mt1_ba1b74a6:
 translate Tchinese mt1_530e9e94:
 
     # m "\"Ain't you s'pposed to help at the store?\""
-    m "“你用在店裡幫忙的嗎？”"
+    m "“你不用在店裡幫忙嗎？”"
 
 # game/cliffroute.rpy:1827
 translate Tchinese mt1_28746027:
@@ -7630,7 +7630,7 @@ translate Tchinese after_smc1_4f89b44f:
 translate Tchinese after_smc1_b978ec6f:
 
     # mu "\"You left quite suddenly yesterday. What's the matter?\""
-    mu "“你昨天走的很匆忙啊。有什麼問題嗎？”"
+    mu "“你昨天走的很匆忙啊。發生了什麼事嗎？”"
 
 # game/cliffroute.rpy:1776
 translate Tchinese after_smc1_6e0db4ca:
@@ -7678,7 +7678,7 @@ translate Tchinese after_smc1_aeca2ff7:
 translate Tchinese after_smc1_63daa7ef:
 
     # mu "\"We had a chat at his apartment, one thing led to another, and another led to me on all fours.\""
-    mu "“我們在他的公寓裡聊了會兒，一來二去，順理成章地就發展上了。”"
+    mu "“我們在他的公寓裡聊了一下，一來二去，順理成章地就發展上了。”"
 
 # game/cliffroute.rpy:1804
 translate Tchinese after_smc1_7cfa75dc:
