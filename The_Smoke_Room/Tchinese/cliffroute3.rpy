@@ -1684,7 +1684,7 @@ translate Tchinese aftertent_1aa2c300:
 translate Tchinese aftertent_64a4c892:
 
     # av "“It's not a tenth of the size of Echo, I'd reckon.”"
-    av "“不足回音鎮的十分之一，個人估計。”"
+    av "“不到回音鎮的十分之一，個人估計。”"
 
 # game/cliffroute3.rpy:427
 translate Tchinese aftertent_c36fec0c:
@@ -1774,7 +1774,7 @@ translate Tchinese aftertent_7d3f49dc:
 translate Tchinese aftertent_3f20c50f:
 
     # av "“But we don't make the rules.”"
-    av "“但我們說了又不算。”"
+    av "“但我們說了也沒什麼用。”"
 
 # game/cliffroute3.rpy:445
 translate Tchinese aftertent_993f2412:
@@ -2242,7 +2242,7 @@ translate Tchinese aftertent_66a65709:
 translate Tchinese aftertent_94439653:
 
     # ts "“No, thanks. We're off to pack our catches, and then we'll have to see Shilah's folks to tell them...”"
-    ts "“我們倆就免了。要把魚收拾一下，還得去趟Shilah家，告訴他們……”"
+    ts "“我們兩個就免了。要把魚收拾一下，還得去趟Shilah家，告訴他們……”"
 
 # game/cliffroute3.rpy:571
 translate Tchinese aftertent_183d001f:
@@ -3082,7 +3082,7 @@ translate Tchinese aftertent_9cc14f1f:
 translate Tchinese aftertent_e8f0a340:
 
     # ts "“Does Avery bring more information about the attack?”"
-    ts "“Avery託你捎關於襲擊的詳情？”"
+    ts "“Avery託你帶來關於襲擊的詳情？”"
 
 # game/cliffroute3.rpy:794
 translate Tchinese aftertent_8c22c455:
@@ -3316,7 +3316,7 @@ translate Tchinese aftertent_c94a5c73:
 translate Tchinese aftertent_808c4ec4:
 
     # ys "“I can talk to you about myself, but I will not talk to you about my people.”"
-    ys "“我可以跟你嘮嘮我自己，至於百姓們，免談。”"
+    ys "“我可以跟你談談我自己，至於百姓們，免談。”"
 
 # game/cliffroute3.rpy:834
 translate Tchinese aftertent_059e42a8:
@@ -4636,7 +4636,7 @@ translate Tchinese aftercliffint2_d65c1fb8:
 translate Tchinese aftercliffint2_f6b0b214:
 
     # "The goose eying us warily doesn’t look Meseta."
-    "仔細打量我們的那位鵝看起來不像Meseta人。"
+    "仔細打量我們的那位鵝看起來不像梅塞塔人。"
 
 # game/cliffroute3.rpy:1152
 translate Tchinese aftercliffint2_ac10f7ba:
@@ -5350,7 +5350,7 @@ translate Tchinese aftercliffint2_66f70431:
 translate Tchinese aftercliffint2_bf4ac435:
 
     # cl "\"Now that we’re here, let’s just let go of our travel worries and strategize how we’re going to spend our time here and how we’re going to make our way back.\""
-    cl "“既然都到這了，就甭再擔心旅途的事，來計劃一下駐留期間的時間用途跟回去的方法吧。”"
+    cl "“既然都到這了，就別再擔心旅途的事，來計劃一下駐留期間的時間用途跟回去的方法吧。”"
 
 # game/cliffroute3.rpy:1355
 translate Tchinese aftercliffint2_26158286:
@@ -5380,7 +5380,7 @@ translate Tchinese aftercliffint2_ed4bd82f:
 translate Tchinese aftercliffint2_66bd250d:
 
     # cl "\"I have interviews with the Meseta in the morning from nine to noon, so we should wash and eat breakfast before eight.\""
-    cl "“早上九點到中午我要採訪Meseta人，所以應該在八點前洗漱吃早餐。”"
+    cl "“早上九點到中午我要採訪梅塞塔人，所以應該在八點前洗漱吃早餐。”"
 
 # game/cliffroute3.rpy:1363
 translate Tchinese aftercliffint2_62afea0d:
@@ -5452,7 +5452,7 @@ translate Tchinese aftercliffint2_52f9d9e2:
 translate Tchinese aftercliffint2_1f228d29:
 
     # m "\"Okay.\""
-    m "“行。”"
+    m "“好。”"
 
 # game/cliffroute3.rpy:1388
 translate Tchinese aftercliffint2_1628330c:
@@ -5506,7 +5506,7 @@ translate Tchinese aftercliffint2_bca61215:
 translate Tchinese aftercliffint2_e8ae3ca9:
 
     # m "\"It’s not really either of your concern.\""
-    m "“跟你們又沒什麼關係。”"
+    m "“這跟你們沒什麼關係吧。”"
 
 # game/cliffroute3.rpy:1401
 translate Tchinese aftercliffint2_d2ff262a:
@@ -5866,7 +5866,7 @@ translate Tchinese aftercliffint2_5f51ca74:
 translate Tchinese aftercliffint2_d1223e56:
 
     # cl "\"Fine.\""
-    cl "“行。”"
+    cl "“可以。”"
 
 # game/cliffroute3.rpy:1552
 translate Tchinese aftercliffint2_dd214b04:
@@ -6004,7 +6004,7 @@ translate Tchinese aftercliffint2_6dfacddf:
 translate Tchinese aftercliffint2_a9b3b320:
 
     # cl "\"That’s good!\""
-    cl "“那可太好了！”"
+    cl "“那可真是太棒了！”"
 
 # game/cliffroute3.rpy:1598
 translate Tchinese aftercliffint2_22ad071f:
@@ -6244,7 +6244,7 @@ translate Tchinese aftercliffint2_6b313a25:
 translate Tchinese aftercliffint2_62d70c9e:
 
     # m "\"Hey, professor?\""
-    m "“欸，教授？”"
+    m "“嘿，教授？”"
 
 # game/cliffroute3.rpy:1662
 translate Tchinese aftercliffint2_6178703a:
@@ -6340,7 +6340,7 @@ translate Tchinese aftercliffint2_97953b6b:
 translate Tchinese aftercliffint2_5fb41d14:
 
     # mu "\"Maybe he’ll cheer up once I develop some of these photos.\""
-    mu "“等我洗好這些照片，指不定他心情就能好一點。”"
+    mu "“等我洗好這些照片，也許他心情就能好一點。”"
 
 # game/cliffroute3.rpy:1693
 translate Tchinese aftercliffint2_9f41f655:
@@ -6598,7 +6598,7 @@ translate Tchinese aftercliffint2_730f8388:
 translate Tchinese aftercliffint2_837a26f1:
 
     # "I see movement between the trees and see a procession of mostly adult Meseta, walking in a row with a man at the front shaking a rattle."
-    "我從樹木間看到有個大多是成年Meseta人所組成的隊列在行動，最前方的男人搖著波浪鼓。"
+    "我從樹木間看到有個大多是成年梅塞塔人所組成的隊列在行動，最前方的男人搖著波浪鼓。"
 
 # game/cliffroute3.rpy:1764
 translate Tchinese aftercliffint2_9a5ce255:
@@ -7294,7 +7294,7 @@ translate Tchinese aftercliffint2_36cb5710:
 translate Tchinese aftercliffint2_5c9b13d2:
 
     # "He glares at me a bit, then puts the drum beneath his arm."
-    "他瞥了我一眼，把鼓夾在腋下。"
+    "他看了我一眼，把鼓夾在腋下。"
 
 # game/cliffroute3.rpy:1997
 translate Tchinese aftercliffint2_565e9f76:
@@ -7534,7 +7534,7 @@ translate Tchinese aftercliffint2_639514f2:
 translate Tchinese aftercliffint2_2341c5f9:
 
     # m "\"...huh.\""
-    m "“……唔。”"
+    m "“……哼嗯。”"
 
 # game/cliffroute3.rpy:2090
 translate Tchinese aftercliffint2_dd71da53:
