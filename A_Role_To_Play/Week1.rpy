@@ -2338,7 +2338,7 @@ translate Schinese continue_1b1d0ee8:
 translate Schinese continue_5716fc08_1:
 
     # mf "Perhaps, eh.. not."
-    mf 或许不是..."
+    mf "或许不是..."
 
 # game/Week1.rpy:709
 translate Schinese continue_ddc5866c:
