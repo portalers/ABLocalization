@@ -1,7 +1,7 @@
 translate Schinese python:
-    config.font_replacement_map["font/SourceHanSansSC-Normal.otf", True, False] = ("font/SourceHanSansSC-Bold.otf", False, False)
-    gui.system_font = gui.main_font = gui.text_font = gui.name_text_font = gui.interface_text_font = gui.button_text_font = gui.choice_button_text_font = "font/SourceHanSansSC-Normal.otf"
-    preferences.text_cps = 14
+    config.font_replacement_map["font/SourceHanSerifCN-Regular.otf", True, False] = ("font/SourceHanSerifCN-Bold.otf", False, False)
+    gui.system_font = gui.main_font = gui.text_font = gui.name_text_font = gui.interface_text_font = gui.button_text_font = gui.choice_button_text_font = "font/SourceHanSerifCN-Regular.otf"
+    preferences.text_cps = 15
 
     if renpy.variant("pc"):
         ## Font sizes.
@@ -12,6 +12,7 @@ translate Schinese python:
         ## Adjust dialogue.
         gui.dialogue_width = 1230
         gui.label_text_size = 51
+        gui.button_text_size = 36
         gui.history_name_xpos = 0.15
         gui.history_height = 285
         gui.history_text_width = 1035
