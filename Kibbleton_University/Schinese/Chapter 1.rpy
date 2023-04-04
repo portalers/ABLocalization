@@ -4,313 +4,313 @@
 translate Schinese chapter_1_9d9d2bc9:
 
     # "It's three p.m., and my Friday classes are over. I glance back at King's message on my phone."
-    "It's three p.m., and my Friday classes are over. I glance back at King's message on my phone."
+    "现在是下午三点，我上完周五的最后一堂课，瞥了眼King发给我的短信。"
 
 # game/story/Chapter 1.rpy:13
 translate Schinese chapter_1_d073ab88:
 
     # "‘News Binding Club meeting at three fifteen p.m. in the Willow room.'"
-    "‘News Binding Club meeting at three fifteen p.m. in the Willow room.'"
+    "‘下午三点十五，新闻社，到垂柳间开会。’"
 
 # game/story/Chapter 1.rpy:14
 translate Schinese chapter_1_44c40407:
 
     # "This is my first week in Kibbleton U, and this is my first ever club meeting."
-    "This is my first week in Kibbleton U, and this is my first ever club meeting."
+    "这是我在基布尔顿大学上学的第一周，也是我第一次参加社团会议。"
 
 # game/story/Chapter 1.rpy:15
 translate Schinese chapter_1_a1976ed6:
 
     # "I wonder how things will go. I hope everyone will be nice."
-    "I wonder how things will go. I hope everyone will be nice."
+    "我心中充满了好奇，要是能跟大家和睦相处就好了。"
 
 # game/story/Chapter 1.rpy:17
 translate Schinese chapter_1_cefdab7e:
 
     # "I enter the empty classroom and take a seat up front."
-    "I enter the empty classroom and take a seat up front."
+    "我走进空荡荡的教室，在前排找了个座位坐下。"
 
 # game/story/Chapter 1.rpy:20
 translate Schinese chapter_1_923e29fe:
 
     # "Before I know it, the doorway is filled with the familiar face of the seemingly-chubby alpaca— the one who invited me to this club to begin with."
-    "Before I know it, the doorway is filled with the familiar face of the seemingly-chubby alpaca— the one who invited me to this club to begin with."
+    "在我恍惚的时候，门口出现了一张熟悉的面孔：一只胖嘟嘟的羊驼，就是他邀请我加入的社团。"
 
 # game/story/Chapter 1.rpy:21
 translate Schinese chapter_1_401b55f2:
 
     # "His eyes sparkle at the sight of me."
-    "His eyes sparkle at the sight of me."
+    "他用炯炯有神的眼睛看向我。"
 
 # game/story/Chapter 1.rpy:25
 translate Schinese chapter_1_992055cb:
 
     # King "You're here. I'm so excited you came!"
-    King "You're here. I'm so excited you came!"
+    King "你来啦，我好激动！"
 
 # game/story/Chapter 1.rpy:26
 translate Schinese chapter_1_389518c5:
 
     # Nox "King, please move. You're blocking the door." (name=_("???{#speakingName}"))
-    Nox "King, please move. You're blocking the door." (name=_("???{#speakingName}"))
+    Nox "麻烦让一让，King，你挡住门了。" (name=_("???{#speakingName}"))
 
 # game/story/Chapter 1.rpy:32
 translate Schinese chapter_1_4c7dc334:
 
     # King "Oh, sorry Professor Noxmare."
-    King "Oh, sorry Professor Noxmare."
+    King "噢，不好意思，Noxmare教授。"
 
 # game/story/Chapter 1.rpy:35
 translate Schinese chapter_1_69fdaf73:
 
     # "The alpaca enters, forcing his abundant fleece to squeeze through the door frame."
-    "The alpaca enters, forcing his abundant fleece to squeeze through the door frame."
+    "羊驼收拢自己异常丰满的羊毛，从门框挤进屋内。"
 
 # game/story/Chapter 1.rpy:36
 translate Schinese chapter_1_b0e28a8a:
 
     # Nox "Goodness King. You've doubled in size since the last semester break."
-    Nox "Goodness King. You've doubled in size since the last semester break."
+    Nox "我的老天爷啊，King，相比上个学期放假的时候，你足足胖了一倍。"
 
 # game/story/Chapter 1.rpy:37
 translate Schinese chapter_1_1a53d930:
 
     # King "It's just my winter fleece Prof. I haven't had the time to shave it all off."
-    King "It's just my winter fleece Prof. I haven't had the time to shave it all off."
+    King "冬季长毛期而已，教授，我一直没来得及剪。"
 
 # game/story/Chapter 1.rpy:38
 translate Schinese chapter_1_86f9e22e:
 
     # "The professor enters next. The lynx is fit, perhaps too fit, the taut buttons on his shirt struggling to hold itself together."
-    "The professor enters next. The lynx is fit, perhaps too fit, the taut buttons on his shirt struggling to hold itself together."
+    "教授接着走了进来。他是一只健硕的猞猁，也许健硕过头了，那些拼了命地想把衬衫系在一起的纽扣足以证明。"
 
 # game/story/Chapter 1.rpy:39
 translate Schinese chapter_1_0502ce03:
 
     # "Wafting in behind him is a citrus scent that reminds of oranges."
-    "Wafting in behind him is a citrus scent that reminds of oranges."
+    "他身后飘着一股柑橘的香味，有点像橙子。"
 
 # game/story/Chapter 1.rpy:40
 translate Schinese chapter_1_1caa3531:
 
     # "Next, a pair of black leather gloves he wears instantly draw my eyes to his hips."
-    "Next, a pair of black leather gloves he wears instantly draw my eyes to his hips."
+    "接下来，一只戴着黑色皮手套的手将我的目光吸引到了他的臀部。"
 
 # game/story/Chapter 1.rpy:41
 translate Schinese chapter_1_8ccf2880:
 
     # "For some odd reason, he's also carrying a whip."
-    "For some odd reason, he's also carrying a whip."
+    "不知为何，他还带着一根鞭子。"
 
 # game/story/Chapter 1.rpy:42
 translate Schinese chapter_1_afe345ad:
 
     # Nox "Hello, new one."
-    Nox "Hello, new one."
+    Nox "你好，新人。"
 
 # game/story/Chapter 1.rpy:43
 translate Schinese chapter_1_dab191f9:
 
     # "The professor closes in on me. My eyes shift from his hips to the prominent bulge protruding through his pants."
-    "The professor closes in on me. My eyes shift from his hips to the prominent bulge protruding through his pants."
+    "教授向我走近，我的目光不由得从他的臀部游离向他两腿间的凸起。"
 
 # game/story/Chapter 1.rpy:44
 translate Schinese chapter_1_44f63fd8:
 
     # Nox @ annoyed "My eyes are up here, little one."
-    Nox @ annoyed "My eyes are up here, little one."
+    Nox @ annoyed "别走神，小家伙。"
 
 # game/story/Chapter 1.rpy:45
 translate Schinese chapter_1_e85c1537:
 
     # "His sultry voice is like a siren's call to my ears."
-    "His sultry voice is like a siren's call to my ears."
+    "他性感的嗓音丝毫不亚于海妖摄人心魄的歌声。"
 
 # game/story/Chapter 1.rpy:46
 translate Schinese chapter_1_47d458bf:
 
     # "I look up, his pecs are in the way, so I lean back to meet the professor's face."
-    "I look up, his pecs are in the way, so I lean back to meet the professor's face."
+    "我抬起头，却迎面撞上他的胸肌。于是我身体后仰，好看清教授的脸。"
 
 # game/story/Chapter 1.rpy:47
 translate Schinese chapter_1_6202e173:
 
     # Nox "Welcome to the News Binding Club. I don't think we've had the pleasure of meeting."
-    Nox "Welcome to the News Binding Club. I don't think we've had the pleasure of meeting."
+    Nox "欢迎加入新闻社，我们应该还没有见过面吧。"
 
 # game/story/Chapter 1.rpy:48
 translate Schinese chapter_1_96060728:
 
     # Nox sad "I am Professor Noxmare, but just Noxmare will do fine. If you must honour me, some students call me... Master... Noxmare."
-    Nox sad "I am Professor Noxmare, but just Noxmare will do fine. If you must honour me, some students call me... Master... Noxmare."
+    Nox sad "我是Noxmare教授，直接叫我的名字就好。如果一定要用尊称的话...有些同学会叫我...Noxmare主人。"
 
 # game/story/Chapter 1.rpy:49
 translate Schinese chapter_1_4999ab68:
 
     # "I gulp."
-    "I gulp."
+    "我咽了一口唾沫。"
 
 # game/story/Chapter 1.rpy:50
 translate Schinese chapter_1_8f0c6e8d:
 
     # Nox "Now, what's your name, boy?"
-    Nox "Now, what's your name, boy?"
+    Nox "那么小伙子，你的名字是？"
 
 # game/story/Chapter 1.rpy:51
 translate Schinese chapter_1_6cc47e79:
 
     # "I'm..."
-    "I'm..."
+    "我是..."
 
 # game/story/Chapter 1.rpy:63
 translate Schinese name_input_72178c42:
 
     # "Asterion, that's a familiar name, there was a bull with that name here before."
-    "Asterion, that's a familiar name, there was a bull with that name here before."
+    "Asterion，熟悉的称呼，曾有一头公牛也被唤作此名。"
 
 # game/story/Chapter 1.rpy:65
 translate Schinese name_input_50847251:
 
     # "Amicus, a name fit for a king."
-    "Amicus, a name fit for a king."
+    "Amicus，一个具有帝王之气的名字。"
 
 # game/story/Chapter 1.rpy:67
 translate Schinese name_input_29fce7e7:
 
     # "Eyvind, like the adventurer that died repeatedly in that fogged forest."
-    "Eyvind, like the adventurer that died repeatedly in that fogged forest."
+    "Eyvind，听起来像某个在雾气弥漫的森林中出生入死的冒险者。"
 
 # game/story/Chapter 1.rpy:69
 translate Schinese name_input_32d23723:
 
     # "Chase, that name carries a sense of dread."
-    "Chase, that name carries a sense of dread."
+    "Chase，给人以恐惧感的姓名。"
 
 # game/story/Chapter 1.rpy:71
 translate Schinese name_input_7b61ca01:
 
     # "Torahiko, a lost soul famous for living a thousand lives, but none his own."
-    "Torahiko, a lost soul famous for living a thousand lives, but none his own."
+    "Torahiko，一个迷失的灵魂。他经历了一千次轮回，却没有一次属于他自己。"
 
 # game/story/Chapter 1.rpy:73
 translate Schinese name_input_56d4fde0:
 
     # "Some jokes never get old."
-    "Some jokes never get old."
+    "有些笑话永远不过时。"
 
 # game/story/Chapter 1.rpy:80
 translate Schinese name_input_41b4ce9a:
 
     # p "I'm... [name]. Second year student, but this is my first week here."
-    p "I'm... [name]. Second year student, but this is my first week here."
+    p "我是...二年级的[name]，不过上个礼拜刚刚转学过来。"
 
 # game/story/Chapter 1.rpy:81
 translate Schinese name_input_e7ba62b7:
 
     # Nox neutral "A new student? What brings you to these hallowed halls?"
-    Nox neutral "A new student? What brings you to these hallowed halls?"
+    Nox neutral "新学生啊？是什么风把你吹来了？"
 
 # game/story/Chapter 1.rpy:82
 translate Schinese name_input_4be3e681:
 
     # p "It's... well, it's because my dad got a new job and he wanted the whole family to move."
-    p "It's... well, it's because my dad got a new job and he wanted the whole family to move."
+    p "唔...因为我老爸找了份新工作，他想要全家跟着他一起搬家。"
 
 # game/story/Chapter 1.rpy:83
 translate Schinese name_input_0b91c18f:
 
     # Nox "Ah."
-    Nox "Ah."
+    Nox "噢。"
 
 # game/story/Chapter 1.rpy:89
 translate Schinese name_input_4defdc33:
 
     # "The professor turns around and takes a seat on the teacher's desk."
-    "The professor turns around and takes a seat on the teacher's desk."
+    "教授转过身，坐在了在讲台上。"
 
 # game/story/Chapter 1.rpy:93
 translate Schinese name_input_b570528d:
 
     # Nox "Alright, King. Do your presidential duties."
-    Nox "Alright, King. Do your presidential duties."
+    Nox "好了，King社长，现在请你履行你的职责吧。"
 
 # game/story/Chapter 1.rpy:94
 translate Schinese name_input_3fdb329e:
 
     # King "Hi all, welcome to the first News Binding Club meeting for the year!"
-    King "Hi all, welcome to the first News Binding Club meeting for the year!"
+    King "大家好，欢迎参加今年的第一届新闻社会议！"
 
 # game/story/Chapter 1.rpy:95
 translate Schinese name_input_70c27fa8:
 
     # p "We're starting?"
-    p "We're starting?"
+    p "已经开始了吗？"
 
 # game/story/Chapter 1.rpy:96
 translate Schinese name_input_bead076f:
 
     # "I look behind me, expecting some other students to have joined through the back door, but there are none."
-    "I look behind me, expecting some other students to have joined through the back door, but there are none."
+    "我望向身后，以为会有其他学生从后门加入，但却落了个空。"
 
 # game/story/Chapter 1.rpy:97
 translate Schinese name_input_61973d1d:
 
     # King "As we all can see, we have one new member today. Yaa!"
-    King "As we all can see, we have one new member today. Yaa!"
+    King "如各位所见，今天我们有了一位新社员，耶！"
 
 # game/story/Chapter 1.rpy:98
 translate Schinese name_input_18f4ebab:
 
     # "I raise my paw and wave sheepishly."
-    "I raise my paw and wave sheepishly."
+    "我不好意思地挥了挥手。"
 
 # game/story/Chapter 1.rpy:99
 translate Schinese name_input_eeab2a58:
 
     # Nox "Sorry to cut in, but why exactly did you join this club?"
-    Nox "Sorry to cut in, but why exactly did you join this club?"
+    Nox "抱歉打断一下，你想要入社的理由是？"
 
 # game/story/Chapter 1.rpy:100
 translate Schinese name_input_b737ad60:
 
     # p "It's because..."
-    p "It's because..."
+    p "是因为..."
 
 # game/story/Chapter 1.rpy:105
 translate Schinese name_input_518f1bac:
 
     # p "I truly love what this club does."
-    p "I truly love what this club does."
+    p "我真的很喜欢这个社团。"
 
 # game/story/Chapter 1.rpy:106
 translate Schinese name_input_f4afcda4:
 
     # Nox @ annoyed "Which is?"
-    Nox @ annoyed "Which is?"
+    Nox @ annoyed "哪方面的喜欢？"
 
 # game/story/Chapter 1.rpy:107
 translate Schinese name_input_bac9871d:
 
     # p "I don't know, but I love it."
-    p "I don't know, but I love it."
+    p "我不知道，但我就是很喜欢。"
 
 # game/story/Chapter 1.rpy:108
 translate Schinese name_input_065f9936:
 
     # King "Aww, we can always use a passionate member. See Prof, he'll fit in well."
-    King "Aww, we can always use a passionate member. See Prof, he'll fit in well."
+    King "啊~热血与青春，这正是我们需要的。看吧，教授，他是棵好苗子。"
 
 # game/story/Chapter 1.rpy:109
 translate Schinese name_input_a1fca3cd:
 
     # Nox "Well at least someone with a sense of humour can write the Joke of the Week column."
-    Nox "Well at least someone with a sense of humour can write the Joke of the Week column."
+    Nox "好吧，至少他的幽默感足够写每周笑话专栏了。"
 
 # game/story/Chapter 1.rpy:111
 translate Schinese name_input_31a82a6b:
 
     # p "I didn't really have a choice. During club registration, King was there and he was really pushing for me to join."
-    p "I didn't really have a choice. During club registration, King was there and he was really pushing for me to join."
+    p "其实我也没有别的选择，King特别卖力地鼓动我加入这个社团。"
 
 # game/story/Chapter 1.rpy:112
 translate Schinese name_input_d7487c0f:
@@ -322,175 +322,175 @@ translate Schinese name_input_d7487c0f:
 translate Schinese name_input_459d76b2:
 
     # "King winces."
-    "King winces."
+    "King缩了回去。"
 
 # game/story/Chapter 1.rpy:114
 translate Schinese name_input_3d405e18:
 
     # King "I didn't force him to join. I gave the same pitch to all the new students."
-    King "I didn't force him to join. I gave the same pitch to all the new students."
+    King "我没有强迫他啦，我对所有新生都做了同样的宣传。"
 
 # game/story/Chapter 1.rpy:115
 translate Schinese name_input_6cf6b9f4:
 
     # Nox sad "It's what it is, the club does need more members."
-    Nox sad "It's what it is, the club does need more members."
+    Nox sad "算了，事已至此，而且我们确实需要招揽更多社员。"
 
 # game/story/Chapter 1.rpy:117
 translate Schinese name_input_5913abbc:
 
     # King "I guess I should explain what our club does a bit more now."
-    King "I guess I should explain what our club does a bit more now."
+    King "我想我有必要多解释一下我们社团的活动。"
 
 # game/story/Chapter 1.rpy:118
 translate Schinese name_input_550d77d3:
 
     # King "So, we're basically the university newspaper club. We run a web page filled with what's new and exciting on campus."
-    King "So, we're basically the university newspaper club. We run a web page filled with what's new and exciting on campus."
+    King "用一句话来概括，这个社团依存于校报。我们运营着一个网站，上面刊登了校园里各种各样有趣和新鲜的内容。"
 
 # game/story/Chapter 1.rpy:119
 translate Schinese name_input_1867b545:
 
     # King "I'll send you the link, [name]."
-    King "I'll send you the link, [name]."
+    King "我把链接发给你，[name]。"
 
 # game/story/Chapter 1.rpy:120
 translate Schinese name_input_094d7c16:
 
     # "I open the webpage. It's a basic blogging site with a white backdrop."
-    "I open the webpage. It's a basic blogging site with a white backdrop."
+    "我打开网页，映入眼帘的是一个白色背景的、再基础不过的博客网站。"
 
 # game/story/Chapter 1.rpy:121
 translate Schinese name_input_8098ff38:
 
     # "King has made three posts over the past month."
-    "King has made three posts over the past month."
+    "King在过去一个月里发了三个帖子。"
 
 # game/story/Chapter 1.rpy:122
 translate Schinese name_input_06f6c11a:
 
     # "\"The Mystery of the Missing Vegetarian Choices.\""
-    "\"The Mystery of the Missing Vegetarian Choices.\""
+    "\"失踪的素食者之谜。\""
 
 # game/story/Chapter 1.rpy:123
 translate Schinese name_input_4ff2b296:
 
     # "\"The Truth behind Taco Thursday.\""
-    "\"The Truth behind Taco Thursday.\""
+    "\"塔可背后的真相。\""
 
 # game/story/Chapter 1.rpy:124
 translate Schinese name_input_9b3022dd:
 
     # "\"New Gym Opens up on Campus.\""
-    "\"New Gym Opens up on Campus.\""
+    "\"校园内开放了新的健身房。\""
 
 # game/story/Chapter 1.rpy:125
 translate Schinese name_input_b56303ed:
 
     # "The number of visitors to the site seems to be in the double digits with the most read article being the new gym opening."
-    "The number of visitors to the site seems to be in the double digits with the most read article being the new gym opening."
+    "该网站的访问量将将达到两位数，其中点击数最多的是健身房开张的那篇。"
 
 # game/story/Chapter 1.rpy:126
 translate Schinese name_input_0d0f3652:
 
     # King "So, this year we'll be churning out more articles and getting more readers to check us out."
-    King "So, this year we'll be churning out more articles and getting more readers to check us out."
+    King "所以今年，我们计划推出更多文章，好吸引更多的读者。"
 
 # game/story/Chapter 1.rpy:127
 translate Schinese name_input_f13b75af:
 
     # King "With a positive outlook and a little bit of traction, we can gain members and hopefully secure our position as a club."
-    King "With a positive outlook and a little bit of traction, we can gain members and hopefully secure our position as a club."
+    King "凭借积极的前景和一点点吸引力，我们一定能够招纳更多社员，甚至有望巩固本社的地位。"
 
 # game/story/Chapter 1.rpy:128
 translate Schinese name_input_9e7ebc81:
 
     # p "What do you mean by secure?"
-    p "What do you mean by secure?"
+    p "巩固指的是？"
 
 # game/story/Chapter 1.rpy:129
 translate Schinese name_input_ffb6c1d8:
 
     # "King opens his mouth but closes it. He looks like he said something he shouldn't have."
-    "King opens his mouth but closes it. He looks like he said something he shouldn't have."
+    "King欲言又止，好像说了不该说的话一样。"
 
 # game/story/Chapter 1.rpy:130
 translate Schinese name_input_b31cf91d:
 
     # King "I can't really explain it, the university admins were quite against the formation of a newspaper club."
-    King "I can't really explain it, the university admins were quite against the formation of a newspaper club."
+    King "管理层非常抵触校报社，我实在是不明白为什么。"
 
 # game/story/Chapter 1.rpy:131
 translate Schinese name_input_8b371bdc:
 
     # King "They reasoned that past newspaper clubs only brought trouble for the university."
-    King "They reasoned that past newspaper clubs only brought trouble for the university."
+    King "他们认为这只会给学校带来麻烦。"
 
 # game/story/Chapter 1.rpy:132
 translate Schinese name_input_2d0cffef:
 
     # King "I reasoned that if they didn't let me form the club, I would bring the trouble to them right then and there."
-    King "I reasoned that if they didn't let me form the club, I would bring the trouble to them right then and there."
+    King "要我说，如果他们不让我成立这个社团，我就当场给他们看看什么叫麻烦。"
 
 # game/story/Chapter 1.rpy:133
 translate Schinese name_input_22967163:
 
     # King "Of course, now they're really being anal about the rules of forming a club."
-    King "Of course, now they're really being anal about the rules of forming a club."
+    King "不过创建社团的规则确实很严苛。"
 
 # game/story/Chapter 1.rpy:134
 translate Schinese name_input_15c7a6a4:
 
     # King "A club can only remain active if by the end of a four month trial period, the club has an advisor and four or more members."
-    King "A club can only remain active if by the end of a four month trial period, the club has an advisor and four or more members."
+    King "只有在四个月的试用期结束时，同时拥有一名顾问和四名及以上的社员，该社团才能不被解散。"
 
 # game/story/Chapter 1.rpy:135
 translate Schinese name_input_48ec125d:
 
     # p "Man, I didn't expect to be joining a club in jeopardy from the get go."
-    p "Man, I didn't expect to be joining a club in jeopardy from the get go."
+    p "哇，没想到我加入的是一个自身难保的社团啊。"
 
 # game/story/Chapter 1.rpy:136
 translate Schinese name_input_f6cde976:
 
     # King "I know I sort of strong-armed you into joining, but if you don't wish to continue I'll understand."
-    King "I know I sort of strong-armed you into joining, but if you don't wish to continue I'll understand."
+    King "我知道，你多少受到了我的强迫，所以如果你想要退出的话，我也可以理解。"
 
 # game/story/Chapter 1.rpy:143
 translate Schinese name_input_7233a388:
 
     # p "Look, I need to join at least one active club to keep my place in the dorms. I'm sorry but this is too risky for me."
-    p "Look, I need to join at least one active club to keep my place in the dorms. I'm sorry but this is too risky for me."
+    p "听着，为了保住我在宿舍的位置，我至少得加入一个活跃的社团。很抱歉，但我不能冒这个险。"
 
 # game/story/Chapter 1.rpy:144
 translate Schinese name_input_278a98f3:
 
     # "King looks down, crestfallen upon hearing my abrupt decision."
-    "King looks down, crestfallen upon hearing my abrupt decision."
+    "听到我的决定，King失望地垂下了头。"
 
 # game/story/Chapter 1.rpy:145
 translate Schinese name_input_58bbb493:
 
     # "I leave the meeting and the News Binding Club."
-    "I leave the meeting and the News Binding Club."
+    "我离开了这场会议，以及新闻社。"
 
 # game/story/Chapter 1.rpy:146
 translate Schinese name_input_1f47b99e:
 
     # "In the coming months I don't hear anything about them, and my memories about that meeting fade away into the background."
-    "In the coming months I don't hear anything about them, and my memories about that meeting fade away into the background."
+    "接下来的几个月里，我再也没有听到他们的任何消息，那次经历也渐渐消失在了我的脑海中。"
 
 # game/story/Chapter 1.rpy:147
 translate Schinese name_input_6e79f8a2:
 
     # "Despite leaving, I manage to find a group of friends between my studies. We even go for coffee on Saturdays."
-    "Despite leaving, I manage to find a group of friends between my studies. We even go for coffee on Saturdays."
+    "我在学习之余找到了一群新的朋友，我们甚至会在星期六一起去喝咖啡。"
 
 # game/story/Chapter 1.rpy:148
 translate Schinese name_input_0776bbb2:
 
     # "After two years, I graduate and I go on with my life."
-    "After two years, I graduate and I go on with my life."
+    "两年后，我从大学毕业，准备拥抱新的生活。"
 
 # game/story/Chapter 1.rpy:150
 translate Schinese name_input_0ae9bcd0:
@@ -502,193 +502,193 @@ translate Schinese name_input_0ae9bcd0:
 translate Schinese name_input_952bed40:
 
     # p "I'll stay. I'd feel bad to just come here and go like that. If anything, I'll find a new club after this one dies."
-    p "I'll stay. I'd feel bad to just come here and go like that. If anything, I'll find a new club after this one dies."
+    p "我会留下的，就这样一走了之，我心里过不去。反正这个社解散了，我再找下一家也来得及。"
 
 # game/story/Chapter 1.rpy:159
 translate Schinese name_input_17011be1:
 
     # "Noxmare chuckles with a wry smile."
-    "Noxmare chuckles with a wry smile."
+    "Noxmare苦笑了一下。"
 
 # game/story/Chapter 1.rpy:160
 translate Schinese name_input_defb5668:
 
     # "I can see hints of tears welling in King's eyes."
-    "I can see hints of tears welling in King's eyes."
+    "我可以看到King的眼角有泪痕。"
 
 # game/story/Chapter 1.rpy:161
 translate Schinese name_input_82ed868e:
 
     # King "Thank you so much! You don't know how much this means to me."
-    King "Thank you so much! You don't know how much this means to me."
+    King "非常感谢！你不知道这对我来说有多重要。"
 
 # game/story/Chapter 1.rpy:162
 translate Schinese name_input_5190ffdc:
 
     # "I chuckle while my shoulders feel heavier."
-    "I chuckle while my shoulders feel heavier."
+    "我笑了笑，感觉肩膀更重了。"
 
 # game/story/Chapter 1.rpy:163
 translate Schinese name_input_d14befe1:
 
     # p "So, where do we go from here?"
-    p "So, where do we go from here?"
+    p "那么，我们下一步该做什么？"
 
 # game/story/Chapter 1.rpy:164
 translate Schinese name_input_a1c60ea8:
 
     # Nox "Before you two begin, I will explain my role and lay down the ground rules. I need to head back to the office soon."
-    Nox "Before you two begin, I will explain my role and lay down the ground rules. I need to head back to the office soon."
+    Nox "在此之前，我要先讲一讲基本的规矩。我有事得回办公室。"
 
 # game/story/Chapter 1.rpy:165
 translate Schinese name_input_09e3b52e:
 
     # King "Oh yeah! Go right ahead, Prof!"
-    King "Oh yeah! Go right ahead, Prof!"
+    King "当然可以！您请说，教授！"
 
 # game/story/Chapter 1.rpy:166
 translate Schinese name_input_e0bad1a4:
 
     # Nox "As the club advisor, my role is to oversee and approve your activities. Unlike the dean, I am all for journalistic freedom."
-    Nox "As the club advisor, my role is to oversee and approve your activities. Unlike the dean, I am all for journalistic freedom."
+    Nox "作为社团的顾问，我的职责是监督和批准你们的活动。和院长不同，我是新闻自由派的。"
 
 # game/story/Chapter 1.rpy:167
 translate Schinese name_input_13d7c4fd:
 
     # Nox "That said, I'm still a member of staff, and you are all students of this alma mater."
-    Nox "That said, I'm still a member of staff, and you are all students of this alma mater."
+    Nox "尽管如此，我仍是一名教职员工，而你们仍是这所学校的学生。"
 
 # game/story/Chapter 1.rpy:168
 translate Schinese name_input_24d1b31a:
 
     # Nox annoyed "That means– "
-    Nox annoyed "That means– "
+    Nox annoyed "也就是说-"
 
 # game/story/Chapter 1.rpy:171
 translate Schinese name_input_c2186cd4:
 
     # "Noxmare takes out his whip, and unfurls one loop, holding it tight between his hands."
-    "Noxmare takes out his whip, and unfurls one loop, holding it tight between his hands."
+    "Noxmare展开他的鞭子，紧紧握在手里。"
 
 # game/story/Chapter 1.rpy:174
 translate Schinese name_input_fa3ba60f:
 
     # Nox angry "If I catch word of any of you breaking the rules, you bet your ass—be it flat or fat—will get whipped into shape."
-    Nox angry "If I catch word of any of you breaking the rules, you bet your ass—be it flat or fat—will get whipped into shape."
+    Nox angry "只要被我发现你们违反了校规，那你们的屁股，无论是平是胖，都会被我抽得很有型。"
 
 # game/story/Chapter 1.rpy:175
 translate Schinese name_input_9c47a0b3:
 
     # "He cracks the whip to emphasise his threat."
-    "He cracks the whip to emphasise his threat."
+    "他挥舞着鞭子，以强调自己的严肃性。"
 
 # game/story/Chapter 1.rpy:176
 translate Schinese name_input_ccd24a47:
 
     # Nox neutral "Now, please continue, King."
-    Nox neutral "Now, please continue, King."
+    Nox neutral "你可以继续了，King。"
 
 # game/story/Chapter 1.rpy:177
 translate Schinese name_input_97b21008:
 
     # King "Awesome, so as president, I appoint [name] as vice president. If you meet anyone who wants to join you have the authority to bring them in."
-    King "Awesome, so as president, I appoint [name] as vice president. If you meet anyone who wants to join you have the authority to bring them in."
+    King "太好了，作为社长，我任命[name]为副社长。你有义务引导那些想要入社的成员。"
 
 # game/story/Chapter 1.rpy:178
 translate Schinese name_input_b018b4d2:
 
     # p "Thanks, I suppose."
-    p "Thanks, I suppose."
+    p "谢谢，我尽量。"
 
 # game/story/Chapter 1.rpy:180
 translate Schinese name_input_403eee13:
 
     # Nox "Well, sounds like you two have things under control. I'll be in my office then, I'm on the second floor if you need me."
-    Nox "Well, sounds like you two have things under control. I'll be in my office then, I'm on the second floor if you need me."
+    Nox "听起来你们已经跃跃欲试了，那我就先回办公室了，有事来二楼找我。"
 
 # game/story/Chapter 1.rpy:181
 translate Schinese name_input_082e0458:
 
     # Nox "If either of you need some extra income, you can also drop by, I have a research project that could use some assistance."
-    Nox "If either of you need some extra income, you can also drop by, I have a research project that could use some assistance."
+    Nox "谁需要赚点外快也可以来，我有一个项目需要帮手。"
 
 # game/story/Chapter 1.rpy:183
 translate Schinese name_input_12e51e82:
 
     # King "Bye, Prof!"
-    King "Bye, Prof!"
+    King "再见，教授！"
 
 # game/story/Chapter 1.rpy:186
 translate Schinese name_input_077af232:
 
     # p "Later, Professor Noxmare."
-    p "Later, Professor Noxmare."
+    p "之后见，Noxmare教授。"
 
 # game/story/Chapter 1.rpy:189
 translate Schinese name_input_94e4f9f9:
 
     # "He nods in acknowledgement before heading off."
-    "He nods in acknowledgement before heading off."
+    "他点头表示感谢，接着离开了。"
 
 # game/story/Chapter 1.rpy:191
 translate Schinese name_input_c10aea74:
 
     # p "Later, Daddy."
-    p "Later, Daddy."
+    p "之后见，爸爸。"
 
 # game/story/Chapter 1.rpy:192
 translate Schinese name_input_2b779018:
 
     # "I clasp my mouth."
-    "I clasp my mouth."
+    "我捂住嘴巴。"
 
 # game/story/Chapter 1.rpy:193
 translate Schinese name_input_0d8ceb85:
 
     # Nox annoyed "Mmm?"
-    Nox annoyed "Mmm?"
+    Nox annoyed "嗯？"
 
 # game/story/Chapter 1.rpy:194
 translate Schinese name_input_5bed01a9:
 
     # "The lynx smirks at me as though he expected me to say that all along."
-    "The lynx smirks at me as though he expected me to say that all along."
+    "猞猁露出一抹坏笑，像是算准了我会这么说。"
 
 # game/story/Chapter 1.rpy:197
 translate Schinese name_input_bfe1b8b2:
 
     # "Just as the professor is out of earshot, King closes in on me."
-    "Just as the professor is out of earshot, King closes in on me."
+    "教授的脚步声一消失，King就凑了过来。"
 
 # game/story/Chapter 1.rpy:198
 translate Schinese name_input_ac393fa8:
 
     # "His wide smug smirk looming over the side of my face."
-    "His wide smug smirk looming over the side of my face."
+    "他的笑容在我脑中挥之不去。"
 
 # game/story/Chapter 1.rpy:199
 translate Schinese name_input_c298eb4e:
 
     # King "Daddy?"
-    King "Daddy?"
+    King "爸爸？"
 
 # game/story/Chapter 1.rpy:200
 translate Schinese name_input_908f353a:
 
     # p "It was a slip of the tongue, I swear."
-    p "It was a slip of the tongue, I swear."
+    p "这只是个口误，我发誓。"
 
 # game/story/Chapter 1.rpy:201
 translate Schinese name_input_f25321de:
 
     # "King laughs out loud."
-    "King laughs out loud."
+    "King笑得很大声。"
 
 # game/story/Chapter 1.rpy:202
 translate Schinese name_input_25108e83:
 
     # p "King, I'm serious here, I don't have a thing for Professor Noxmare!"
-    p "King, I'm serious here, I don't have a thing for Professor Noxmare!"
+    p "真的，King，我对Noxmare教授没有那种好感！"
 
 # game/story/Chapter 1.rpy:203
 translate Schinese name_input_d2431072:
@@ -4918,59 +4918,59 @@ translate Schinese strings:
 
     # game/story/Chapter 1.rpy:5
     old "Chapter 1"
-    new "Chapter 1"
+    new "第一章"
 
     # game/story/Chapter 1.rpy:26
     old "???{#speakingName}"
-    new "???{#speakingName}"
+    new "？？？{#speakingName}"
 
     # game/story/Chapter 1.rpy:52
     old "Buttface{#joke_name}"
-    new "Buttface{#joke_name}"
+    new "烦人精{#joke_name}"
 
     # game/story/Chapter 1.rpy:53
     old "buttface{#joke_name}"
-    new "buttface{#joke_name}"
+    new "烦人精{#joke_name}"
 
     # game/story/Chapter 1.rpy:60
     old "Please tell Noxmare your name. Press Enter to confirm.\n"
-    new "Please tell Noxmare your name. Press Enter to confirm.\n"
+    new "请告诉Noxmare你的名字。按回车键进行确认。\n"
 
     # game/story/Chapter 1.rpy:60
     old "You"
-    new "You"
+    new "你"
 
     # game/story/Chapter 1.rpy:74
     old "Is [name] correct?"
-    new "Is [name] correct?"
+    new "确定是[name]吗？"
 
     # game/story/Chapter 1.rpy:101
     old "I love what this club does."
-    new "I love what this club does."
+    new "我喜欢这个社团。"
 
     # game/story/Chapter 1.rpy:101
     old "King made me join."
-    new "King made me join."
+    new "King让我加入的。"
 
     # game/story/Chapter 1.rpy:137
     old "Leave the club."
-    new "Leave the club."
+    new "退出社团。"
 
     # game/story/Chapter 1.rpy:137
     old "Stay in the club."
-    new "Stay in the club."
+    new "留在社团。"
 
     # game/story/Chapter 1.rpy:149
     old "Fin"
-    new "Fin"
+    new "结束"
 
     # game/story/Chapter 1.rpy:184
     old "Say a regular goodbye."
-    new "Say a regular goodbye."
+    new "正式道别。"
 
     # game/story/Chapter 1.rpy:184
     old "Random brain words go brrr."
-    new "Random brain words go brrr."
+    new "下意识地道别。"
 
     # game/story/Chapter 1.rpy:226
     old "Be sceptical of the rumour."
