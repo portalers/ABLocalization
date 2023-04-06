@@ -28,8 +28,8 @@ screen preferences():
                         style_prefix "radio"
                         label _("Language")
                         textbutton "English" action Language(None)
-                        textbutton "{font=font/SourceHanSansSC-Normal.otf}简体中文{/font}" action Language("Schinese")
-                        textbutton "{font=font/SourceHanSansTC-Normal.otf}繁體中文{/font}" action Language("Tchinese")
+                        textbutton "{font=font/SourceHanSerifCN-Regular.otf}简体中文{/font}" action Language("Schinese")
+                        textbutton "{font=font/SourceHanSerifTW-Regular.otf}繁體中文{/font}" action Language("Tchinese")
 
                 if renpy.variant("medium"):
 
@@ -37,8 +37,8 @@ screen preferences():
                         style_prefix "radio"
                         label _("Language")
                         textbutton "English" action Language(None)
-                        textbutton "{font=font/SourceHanSansSC-Normal.otf}简体中文{/font}" action Language("Schinese")
-                        textbutton "{font=font/SourceHanSansTC-Normal.otf}繁體中文{/font}" action Language("Tchinese")
+                        textbutton "{font=font/SourceHanSerifCN-Regular.otf}简体中文{/font}" action Language("Schinese")
+                        textbutton "{font=font/SourceHanSerifTW-Regular.otf}繁體中文{/font}" action Language("Tchinese")
 
                 vbox:
                     style_prefix "radio"
@@ -59,8 +59,8 @@ screen preferences():
                        style_prefix "radio"
                        label _("Language")
                        textbutton "English" action Language(None)
-                       textbutton "{font=font/SourceHanSansSC-Normal.otf}简体中文{/font}" action Language("Schinese")
-                       textbutton "{font=font/SourceHanSansTC-Normal.otf}繁體中文{/font}" action Language("Tchinese")
+                       textbutton "{font=font/SourceHanSerifCN-Regular.otf}简体中文{/font}" action Language("Schinese")
+                       textbutton "{font=font/SourceHanSerifTW-Regular.otf}繁體中文{/font}" action Language("Tchinese")
 
                 ## Additional vboxes of type "radio_pref" or "check_pref" can be
                 ## added here, to add additional creator-defined preferences.
