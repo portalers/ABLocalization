@@ -2492,13 +2492,13 @@ translate Schinese ch1_knock_018b5d8c:
 translate Schinese ch1_knock_42e3ecf3:
 
     # K "Oh heck yeah!"
-    K "可不是吗！"
+    K "可不是嘛！"
 
 # game/story/Chapter 1.rpy:698
 translate Schinese ch1_knock_8e3c896f:
 
     # p "Plus you look well built. I don't think anyone would mess with you."
-    p "而且你看起来很健壮，我想一定没有人敢惹你。"
+    p "而且你长得人高马大的，我想一定没有人敢惹你。"
 
 # game/story/Chapter 1.rpy:699
 translate Schinese ch1_knock_c0d73b4f:
@@ -3488,7 +3488,7 @@ translate Schinese TIME_MIDNIGHT_71028f40:
 translate Schinese TIME_MIDNIGHT_1419a978:
 
     # K "Do you want to bang? No strings attached, you could say no and I'll act like none of this happened and we can still be buds."
-    K "你想和我做吗？我并不求你爱上我。你可以干脆点说不，我会装作什么都没发生过，然后继续做你的好哥们。"
+    K "你愿意和我做吗？我并不会要求你什么，你大可直截了当地拒绝，然后我会装作无事发生，继续当你的好哥们。"
 
 # game/story/Chapter 1.rpy:949
 translate Schinese TIME_MIDNIGHT_b08da260:
@@ -3590,7 +3590,7 @@ translate Schinese TIME_MIDNIGHT_95daf6f3:
 translate Schinese TIME_MIDNIGHT_7a1eea8e:
 
     # "I get in closer, brushing my hands along his fuzzy rump as his tail begins to wag."
-    "我凑近过去，把他毛茸茸的屁股捧在手心，他不住摇起了尾巴。"
+    "我凑近过去，把他毛茸茸的屁股捧在手心，他兴奋地摇起了尾巴。"
 
 # game/story/Chapter 1.rpy:985
 translate Schinese TIME_MIDNIGHT_a831baf1:
@@ -3938,13 +3938,13 @@ translate Schinese TIME_MIDNIGHT_13791f29:
 translate Schinese TIME_MIDNIGHT_86d5fbf9:
 
     # "Kobu's eyes flutter as he lays there in the afterglow of our 'investigation'."
-    "在‘调查’的余辉中，Kobu扑闪扑闪眨着眼睛。"
+    "‘调查’临近尾声，Kobu扑闪扑闪眨着眼睛。"
 
 # game/story/Chapter 1.rpy:1102
 translate Schinese TIME_MIDNIGHT_3222ce13:
 
     # "I can't help but notice how cute he looks sprawled on the bio lab table with my cock still dripping inside him."
-    "我忍不住地想，他四肢摊开躺在生物实验室的桌子上，下面还含着我正在冒水的鸡巴，这简直可爱到犯规啊。"
+    "他四肢摊开躺在生物实验室的桌子上，下面还含着我正在冒水的鸡巴，这简直可爱到犯规啊。"
 
 # game/story/Chapter 1.rpy:1104
 translate Schinese TIME_MIDNIGHT_ee646c01:
@@ -4220,7 +4220,7 @@ translate Schinese TIME_MIDNIGHT_8dcf5704_1:
 translate Schinese TIME_MIDNIGHT_9609afc9:
 
     # K "Just asking. Anyways, catch you later."
-    K "问问而已，那么之后见啦。"
+    K "问问而已，那之后见啦。"
 
 # game/story/Chapter 1.rpy:1184
 translate Schinese TIME_MIDNIGHT_3a147cc2:
@@ -4232,7 +4232,7 @@ translate Schinese TIME_MIDNIGHT_3a147cc2:
 translate Schinese TIME_MIDNIGHT_7c21d192:
 
     # "I make it back to the dorm but Kobu's nowhere in sight."
-    "我回到了宿舍，但哪里都不见Kobu。"
+    "我回到了宿舍，可哪里都不见Kobu。"
 
 # game/story/Chapter 1.rpy:1191
 translate Schinese TIME_SUNDAY_b9c75b35:
@@ -4256,187 +4256,187 @@ translate Schinese TIME_SUNDAY_6eb8f9f6:
 translate Schinese TIME_SUNDAY_7c278a14:
 
     # "Everything about him makes me just want to bend over backwards."
-    "他的一切都让我抓狂。"
+    "他的一举一动都让我为之疯狂。"
 
 # game/story/Chapter 1.rpy:1200
 translate Schinese TIME_SUNDAY_c539704e:
 
     # "The lynx is so buff, I can't help but wonder what he looks like without the suit."
-    "The lynx is so buff, I can't help but wonder what he looks like without the suit."
+    "不知道那身西装下是怎样一副英武的姿态。"
 
 # game/story/Chapter 1.rpy:1202
 translate Schinese TIME_SUNDAY_f42d4e54:
 
     # "The buttons on his shirt strain themselves just trying to contain his chest."
-    "The buttons on his shirt strain themselves just trying to contain his chest."
+    "他的胸肌把衬衣的纽扣绷得紧紧的。"
 
 # game/story/Chapter 1.rpy:1204
 translate Schinese TIME_SUNDAY_cae73d39:
 
     # "His thighs can probably crush my skull..."
-    "His thighs can probably crush my skull..."
+    "他的大腿足以夹碎我的脑袋..."
 
 # game/story/Chapter 1.rpy:1206
 translate Schinese TIME_SUNDAY_b1688a28:
 
     # "What a way to go~"
-    "What a way to go~"
+    "太棒了~"
 
 # game/story/Chapter 1.rpy:1208
 translate Schinese TIME_SUNDAY_ab3f0426:
 
     # "I start to stroke myself, just thinking about his strong arms pushing me down onto all fours."
-    "I start to stroke myself, just thinking about his strong arms pushing me down onto all fours."
+    "我开始上下撸动，想象着他用强壮的手臂将我推倒在地。"
 
 # game/story/Chapter 1.rpy:1210
 translate Schinese TIME_SUNDAY_d8f7fe22:
 
     # "I bet he's packing a monster in his pants, there's no mistaking that bulge."
-    "I bet he's packing a monster in his pants, there's no mistaking that bulge."
+    "我敢肯定他的裤子里藏着一个怪物，那个凸起绝对没有错。"
 
 # game/story/Chapter 1.rpy:1212
 translate Schinese TIME_SUNDAY_1caa5454:
 
     # "Damn my cock is so hard and leaking already."
-    "Damn my cock is so hard and leaking already."
+    "可恶，我的鸡巴胀得好难受。"
 
 # game/story/Chapter 1.rpy:1214
 translate Schinese TIME_SUNDAY_e3dc924a:
 
     # "Just thinking about the way he looked at me when he entered the room, my heart's racing already."
-    "Just thinking about the way he looked at me when he entered the room, my heart's racing already."
+    "一想到他看我的眼神，我就心如小鹿乱撞。"
 
 # game/story/Chapter 1.rpy:1216
 translate Schinese TIME_SUNDAY_7373198c:
 
     # "Noxmare is a very peculiar man, wearing gloves and that whip."
-    "Noxmare is a very peculiar man, wearing gloves and that whip."
+    "Noxmare是一个不同寻常的男人，他戴着手套，拿着皮鞭。"
 
 # game/story/Chapter 1.rpy:1218
 translate Schinese TIME_SUNDAY_f17c2c58:
 
     # "Maybe he'd use it to tie me up."
-    "Maybe he'd use it to tie me up."
+    "说不定还会用它把我绑起来。"
 
 # game/story/Chapter 1.rpy:1220
 translate Schinese TIME_SUNDAY_5ce7aade:
 
     # "Oh Professor...I've been a bad student."
-    "Oh Professor...I've been a bad student."
+    "啊，教授...我真是个坏孩子。"
 
 # game/story/Chapter 1.rpy:1222
 translate Schinese TIME_SUNDAY_f8e4774e:
 
     # "I can feel my face glow red hot as I continue to beat my meat."
-    "I can feel my face glow red hot as I continue to beat my meat."
+    "我的手继续上下翻飞，脸也变得火辣辣的。"
 
 # game/story/Chapter 1.rpy:1224
 translate Schinese TIME_SUNDAY_5135542f:
 
     # "The way he smirks at me, is he teasing me?"
-    "The way he smirks at me, is he teasing me?"
+    "他的那个坏笑，是在调戏我吗？"
 
 # game/story/Chapter 1.rpy:1226
 translate Schinese TIME_SUNDAY_77dc00c5:
 
     # "Maybe he'll call me into his office one day and just bend me over the desk."
-    "Maybe he'll call me into his office one day and just bend me over the desk."
+    "也许有一天，他会把我叫到他的办公室，粗暴地把我按在桌子上。"
 
 # game/story/Chapter 1.rpy:1228
 translate Schinese TIME_SUNDAY_6adb3a1b:
 
     # "Just thinking about the Noxmare ripping my clothes off, rubbing his gloved hands across my body..."
-    "Just thinking about the Noxmare ripping my clothes off, rubbing his gloved hands across my body..."
+    "一想到Noxmare扯掉我的衣服，用戴着手套的手在我身上摩挲..."
 
 # game/story/Chapter 1.rpy:1230
 translate Schinese TIME_SUNDAY_d9cd69c5:
 
     # "I lean over to the side to moan into my pillow, stroking myself faster."
-    "I lean over to the side to moan into my pillow, stroking myself faster."
+    "我侧过身，用枕头盖住呻吟声，手上的速度越来越快。"
 
 # game/story/Chapter 1.rpy:1232
 translate Schinese TIME_SUNDAY_91ef8386:
 
     # "I picture Noxmare whipping out his thick cock and bending me over his desk."
-    "I picture Noxmare whipping out his thick cock and bending me over his desk."
+    "我渴望被Noxmare的伟物征服。"
 
 # game/story/Chapter 1.rpy:1234
 translate Schinese TIME_SUNDAY_d64eb40e:
 
     # "Fuck..."
-    "Fuck..."
+    "操..."
 
 # game/story/Chapter 1.rpy:1236
 translate Schinese TIME_SUNDAY_512cd83b:
 
     # "Yeah, right there on his desk."
-    "Yeah, right there on his desk."
+    "没错，就在他的书桌上。"
 
 # game/story/Chapter 1.rpy:1238
 translate Schinese TIME_SUNDAY_d2693e2b:
 
     # "I kick my legs in bliss as I imagine my club advisor fucking me in his office."
-    "I kick my legs in bliss as I imagine my club advisor fucking me in his office."
+    "我的社团顾问在办公室里蹂躏我，这情景令我的双腿不住颤抖。"
 
 # game/story/Chapter 1.rpy:1240
 translate Schinese TIME_SUNDAY_814c0894:
 
     # "His hot sweaty grunts against my back as he fills me with his girth..."
-    "His hot sweaty grunts against my back as he fills me with his girth..."
+    "他汗津津地趴在我身上，将巨根插入..."
 
 # game/story/Chapter 1.rpy:1242
 translate Schinese TIME_SUNDAY_5c5f108b:
 
     # p "A-Aaah."
-    p "A-Aaah."
+    p "啊-啊——"
 
 # game/story/Chapter 1.rpy:1244
 translate Schinese TIME_SUNDAY_45207727:
 
     # "Fuck, I'm about to blow."
-    "Fuck, I'm about to blow."
+    "操，我要射了。"
 
 # game/story/Chapter 1.rpy:1246
 translate Schinese TIME_SUNDAY_e6d20271:
 
     # "I pound harder as I imagine Noxmare growling into my ear as he buries his fat dick as far as he can inside me."
-    "I pound harder as I imagine Noxmare growling into my ear as he buries his fat dick as far as he can inside me."
+    "我一边想象Noxmare在我耳边低吼，用粗壮的肉棒填满我的每一寸，一边更加卖力地撸动。"
 
 # game/story/Chapter 1.rpy:1248
 translate Schinese TIME_SUNDAY_844a0976:
 
     # p "Ah f-fuck~"
-    p "Ah f-fuck~"
+    p "哈啊~"
 
 # game/story/Chapter 1.rpy:1250
 translate Schinese TIME_SUNDAY_c6d141f4:
 
     # "My rock-hard cock blows with some intensity."
-    "My rock-hard cock blows with some intensity."
+    "我射得颇为猛烈。"
 
 # game/story/Chapter 1.rpy:1252
 translate Schinese TIME_SUNDAY_65ea20db:
 
     # "A few shots strike my chin and drip onto my fur."
-    "A few shots strike my chin and drip onto my fur."
+    "有几股打在我的下巴上，滴落下来。"
 
 # game/story/Chapter 1.rpy:1254
 translate Schinese TIME_SUNDAY_1986f0d8:
 
     # "I pant hard, shivering in pleasure while basking in my fantasies about my teacher breeding me."
-    "I pant hard, shivering in pleasure while basking in my fantasies about my teacher breeding me."
+    "我大口喘着气，沉浸在与老师配种的幻想中难以自拔。"
 
 # game/story/Chapter 1.rpy:1258
 translate Schinese TIME_SUNDAY_006c2e87:
 
     # "I find myself thinking about Kobu."
-    "I find myself thinking about Kobu."
+    "我莫名想到了Kobu。"
 
 # game/story/Chapter 1.rpy:1259
 translate Schinese TIME_SUNDAY_69d9e6f5:
 
     # "He's cute, like in a stupid goofy kind of way."
-    "他很可爱，傻傻的那种。"
+    "他很可爱，傻傻的那种可爱。"
 
 # game/story/Chapter 1.rpy:1261
 translate Schinese TIME_SUNDAY_e75fb97a:
@@ -4448,7 +4448,7 @@ translate Schinese TIME_SUNDAY_e75fb97a:
 translate Schinese TIME_SUNDAY_0624369f:
 
     # "His thick chest... the way his nipples poke out from the sides of his shirt..."
-    "他厚实的胸肌...他的乳头从衬衫两侧伸出来的样子..."
+    "他厚实的胸肌...衬衫都包不住的乳头..."
 
 # game/story/Chapter 1.rpy:1265
 translate Schinese TIME_SUNDAY_359c1601:
@@ -4460,13 +4460,13 @@ translate Schinese TIME_SUNDAY_359c1601:
 translate Schinese TIME_SUNDAY_5c1ff1c9:
 
     # "To top it off, that goofy wolf is right next door."
-    "更重要的是，那只傻傻的狼就在我的隔壁。"
+    "最重要的是，那只傻傻的狼就住在我的隔壁。"
 
 # game/story/Chapter 1.rpy:1269
 translate Schinese TIME_SUNDAY_5d1718f2:
 
     # "That's actually pretty convenient."
-    "其实倒也方便。"
+    "这就更方便了。"
 
 # game/story/Chapter 1.rpy:1271
 translate Schinese TIME_SUNDAY_29362a0c:
@@ -4478,409 +4478,409 @@ translate Schinese TIME_SUNDAY_29362a0c:
 translate Schinese TIME_SUNDAY_4b8788d5:
 
     # "My cock quickly bounces to life from the thought."
-    "My cock quickly bounces to life from the thought."
+    "我的鸡巴顿时昂起了头。"
 
 # game/story/Chapter 1.rpy:1275
 translate Schinese TIME_SUNDAY_1934c852:
 
     # "The big stupid wolf...but still he's a nice guy."
-    "The big stupid wolf...but still he's a nice guy."
+    "那只大笨狼...性格很好。"
 
 # game/story/Chapter 1.rpy:1277
 translate Schinese TIME_SUNDAY_7bcb0665:
 
     # "With an even nicer body."
-    "With an even nicer body."
+    "体格更棒。"
 
 # game/story/Chapter 1.rpy:1279
 translate Schinese TIME_SUNDAY_e41e8f49:
 
     # "His fuzzy rump and that bulge."
-    "His fuzzy rump and that bulge."
+    "他毛茸茸的屁股和裤子的隆起。"
 
 # game/story/Chapter 1.rpy:1281
 translate Schinese TIME_SUNDAY_ddb4eb30:
 
     # "I feel my meat throbbing between my legs."
-    "I feel my meat throbbing between my legs."
+    "肉棒在我的两腿之间躁动。"
 
 # game/story/Chapter 1.rpy:1283
 translate Schinese TIME_SUNDAY_264e6060:
 
     # "As I stretch out my legs, my underwear slides off easily."
-    "As I stretch out my legs, my underwear slides off easily."
+    "我伸直双腿，自然而然地脱下内裤。"
 
 # game/story/Chapter 1.rpy:1285
 translate Schinese TIME_SUNDAY_d12d08dc:
 
     # "Now free from its fabric prison, my cock stands at full mast."
-    "Now free from its fabric prison, my cock stands at full mast."
+    "它脱离织物的监牢，翘首以盼。"
 
 # game/story/Chapter 1.rpy:1287
 translate Schinese TIME_SUNDAY_4e49e738:
 
     # "Giving it the attention it deserves, I get to stroking."
-    "Giving it the attention it deserves, I get to stroking."
+    "我着手给予它应得的关怀。"
 
 # game/story/Chapter 1.rpy:1289
 translate Schinese TIME_SUNDAY_e786297e:
 
     # "My mind wanders up and down that wolf's body."
-    "My mind wanders up and down that wolf's body."
+    "我的思绪在那只狼的身体上徘徊。"
 
 # game/story/Chapter 1.rpy:1291
 translate Schinese TIME_SUNDAY_a543afd4:
 
     # "Those thick legs, that fluffy tail, his broad chest..."
-    "Those thick legs, that fluffy tail, his broad chest..."
+    "那双粗壮的腿，那条蓬松的尾巴，那宽阔的胸膛..."
 
 # game/story/Chapter 1.rpy:1293
 translate Schinese TIME_SUNDAY_9341a85e:
 
     # "I start to stroke faster."
-    "I start to stroke faster."
+    "我撸得更快了。"
 
 # game/story/Chapter 1.rpy:1295
 translate Schinese TIME_SUNDAY_4271d881:
 
     # "My other paw cups my balls, groping them."
-    "My other paw cups my balls, groping them."
+    "我用另一只手把玩着我的卵蛋。"
 
 # game/story/Chapter 1.rpy:1297
 translate Schinese TIME_SUNDAY_b8434866:
 
     # "Rolling my nuts around causes pre to leak out from the tip of my throbbing pole."
-    "Rolling my nuts around causes pre to leak out from the tip of my throbbing pole."
+    "渗出的淫液将龟头沾染得发亮。"
 
 # game/story/Chapter 1.rpy:1299
 translate Schinese TIME_SUNDAY_e9bd28c5:
 
     # "I curl my toes as I feel the pleasure building within me."
-    "I curl my toes as I feel the pleasure building within me."
+    "我蜷起脚趾，感受着这膨胀的快感。"
 
 # game/story/Chapter 1.rpy:1301
 translate Schinese TIME_SUNDAY_d08fc92d:
 
     # "Wild thoughts of Kobu taking turns riding me and I riding him drive my paw to move faster."
-    "Wild thoughts of Kobu taking turns riding me and I riding him drive my paw to move faster."
+    "一想到我和Kobu轮流骑在对方身上的样子，我忍不住加快了手上的速度。"
 
 # game/story/Chapter 1.rpy:1303
 translate Schinese TIME_SUNDAY_ea8ae8f2:
 
     # "I just want to bury my face in his fluffy chest and inhale his heavy scent."
-    "I just want to bury my face in his fluffy chest and inhale his heavy scent."
+    "我只想把脸埋进他毛茸茸的胸膛，呼吸他浓郁的气味。"
 
 # game/story/Chapter 1.rpy:1305
 translate Schinese TIME_SUNDAY_6701098c:
 
     # "Shivers ripple along my body as I feel the burning need for release continue to build."
-    "Shivers ripple along my body as I feel the burning need for release continue to build."
+    "我全身都在颤抖，因为我迫切需要释放。"
 
 # game/story/Chapter 1.rpy:1307
 translate Schinese TIME_SUNDAY_7ce6e0a2:
 
     # "I hope we can hang out again soon."
-    "I hope we can hang out again soon."
+    "希望我们能很快再一起出去玩。"
 
 # game/story/Chapter 1.rpy:1309
 translate Schinese TIME_SUNDAY_d20c46ef:
 
     # "And maybe more..."
-    "And maybe more..."
+    "也许再做点别的..."
 
 # game/story/Chapter 1.rpy:1311
 translate Schinese TIME_SUNDAY_9aaacb75:
 
     # "Damn, I'm already getting close."
-    "Damn, I'm already getting close."
+    "可恶，我要射了。"
 
 # game/story/Chapter 1.rpy:1313
 translate Schinese TIME_SUNDAY_41ae18f9:
 
     # "I kick off the sheets and spread myself out on bed."
-    "I kick off the sheets and spread myself out on bed."
+    "我踢开床单，尽情躺在床上。"
 
 # game/story/Chapter 1.rpy:1315
 translate Schinese TIME_SUNDAY_e7286483:
 
     # "The pillow beside me muffles my moans while I continue to masturbate."
-    "The pillow beside me muffles my moans while I continue to masturbate."
+    "一旁的枕头掩盖了我的呻吟声。"
 
 # game/story/Chapter 1.rpy:1317
 translate Schinese TIME_SUNDAY_9e19a3cb:
 
     # "More thoughts of that goofy dorm-mate sharing a bed floods into my head."
-    "More thoughts of that goofy dorm-mate sharing a bed floods into my head."
+    "更多跟那个傻乎乎的舍友同床共枕的念头法涌入我的脑海。"
 
 # game/story/Chapter 1.rpy:1319
 translate Schinese TIME_SUNDAY_1939104a:
 
     # "I can feel it coming, my balls tensing up in preparation to unload."
-    "I can feel it coming, my balls tensing up in preparation to unload."
+    "是时候了，我的卵蛋紧缩，厚积薄发。"
 
 # game/story/Chapter 1.rpy:1321
 translate Schinese TIME_SUNDAY_d0d5390a:
 
     # "Growling, my cock erupts."
-    "Growling, my cock erupts."
+    "我低吼着喷射出精华。"
 
 # game/story/Chapter 1.rpy:1323
 translate Schinese TIME_SUNDAY_a8b8bbe4:
 
     # "Rope after rope of hot wolf cream splatters against my belly fur."
-    "Rope after rope of hot wolf cream splatters against my belly fur."
+    "一股又一股滚烫的狼精飞溅在我的肚皮上。"
 
 # game/story/Chapter 1.rpy:1325
 translate Schinese TIME_SUNDAY_81564fc6:
 
     # "I get off four or five good shots before the jets turn into a last dribble."
-    "I get off four or five good shots before the jets turn into a last dribble."
+    "我又射了四五次，才把存货卸完。"
 
 # game/story/Chapter 1.rpy:1327
 translate Schinese TIME_SUNDAY_8c845100:
 
     # "Closing my eyes, I lay in the afterglow of my own personal mess for a few minutes."
-    "Closing my eyes, I lay in the afterglow of my own personal mess for a few minutes."
+    "我闭上眼睛，意犹未尽地躺在自己制造的这片烂摊子中。"
 
 # game/story/Chapter 1.rpy:1329
 translate Schinese TIME_SUNDAY_4487d79b:
 
     # "The drying cum eventually feels cold, setting me off on a quest to find something to clean up with."
-    "The drying cum eventually feels cold, setting me off on a quest to find something to clean up with."
+    "最终，在逐渐冷却的精斑的催促下，我起身寻找可以清洁的东西。"
 
 # game/story/Chapter 1.rpy:1331
 translate Schinese TIME_SUNDAY_08721efb:
 
     # "I jump out of bed and strike a pose like a phantom thief."
-    "I jump out of bed and strike a pose like a phantom thief."
+    "我从床上一跃而下，摆出幻影盗贼那样的姿势。"
 
 # game/story/Chapter 1.rpy:1333
 translate Schinese TIME_SUNDAY_4d290fd9:
 
     # p "Now that's done. Time to start the day."
-    p "Now that's done. Time to start the day."
+    p "也罢，是时候开始新的一天了。"
 
 # game/story/Chapter 1.rpy:1334
 translate Schinese TIME_SUNDAY_ac9853f6:
 
     # "My Sunday is free for me to go about."
-    "My Sunday is free for me to go about."
+    "在周日我可以自由活动。"
 
 # game/story/Chapter 1.rpy:1338
 translate Schinese TIME_SUNDAY_088289db:
 
     # "Well for now I better get cracking on that article. King would be interested in seeing it."
-    "Well for now I better get cracking on that article. King would be interested in seeing it."
+    "我最好搞定那篇文章，King会想看的。"
 
 # game/story/Chapter 1.rpy:1339
 translate Schinese TIME_SUNDAY_d29cf247:
 
     # "I sit in front of my laptop and open the writing document."
-    "I sit in front of my laptop and open the writing document."
+    "我坐在笔记本电脑前，打开文档。"
 
 # game/story/Chapter 1.rpy:1340
 translate Schinese TIME_SUNDAY_f9ed8265:
 
     # p "This should be easy, I'll be free to look around the town in no time."
-    p "This should be easy, I'll be free to look around the town in no time."
+    p "应该很快就能完成，然后我就能去镇上玩了。"
 
 # game/story/Chapter 1.rpy:1341
 translate Schinese TIME_SUNDAY_ccf21a55:
 
     # p "The Bison Dictionary defines monsters as..."
-    p "The Bison Dictionary defines monsters as..."
+    p "根据《拜森词典》的定义，怪物..."
 
 # game/story/Chapter 1.rpy:1342
 translate Schinese TIME_SUNDAY_ba8c4434:
 
     # "A wave of cringe rides up my spine. I tap the backspace button rapidly."
-    "A wave of cringe rides up my spine. I tap the backspace button rapidly."
+    "一阵毛骨悚然的感觉袭来，我赶紧按下退格键。"
 
 # game/story/Chapter 1.rpy:1343
 translate Schinese TIME_SUNDAY_2dae6208:
 
     # "This might take longer than expected."
-    "This might take longer than expected."
+    "看来没我想的那么简单。"
 
 # game/story/Chapter 1.rpy:1344
 translate Schinese TIME_SUNDAY_c4d8e5bf:
 
     # "Come midnight I finally have my first draft."
-    "Come midnight I finally have my first draft."
+    "到了半夜，我才终于完成底稿。"
 
 # game/story/Chapter 1.rpy:1345
 translate Schinese TIME_SUNDAY_5558013f:
 
     # "My phone buzzes in the palm of my paw."
-    "My phone buzzes in the palm of my paw."
+    "手机在我的手掌里嗡嗡作响。"
 
 # game/story/Chapter 1.rpy:1346
 translate Schinese TIME_SUNDAY_6f7ea2a2:
 
     # "King sent a message. “Meet me at the club room tomorrow at three. I've got a big announcement”"
-    "King sent a message. “Meet me at the club room tomorrow at three. I've got a big announcement”"
+    "King发过来一条短信：‘明天三点社团见，我有一件大事要宣布’。"
 
 # game/story/Chapter 1.rpy:1347
 translate Schinese TIME_SUNDAY_5db1d0ea:
 
     # "Well, that's usually the time classes end. I wonder what he wants to say. No matter, I can show him my article at the same time."
-    "Well, that's usually the time classes end. I wonder what he wants to say. No matter, I can show him my article at the same time."
+    "那会儿是放学时间，不知道是什么大事，不过刚好，我可以把文章拿给他看。"
 
 # game/story/Chapter 1.rpy:1349
 translate Schinese TIME_SUNDAY_e9022587:
 
     # "I yawn as my phone slips out of my hands and I drift off to sleep."
-    "I yawn as my phone slips out of my hands and I drift off to sleep."
+    "我放下手机，打了个哈欠，迷迷糊糊地进入了梦乡。"
 
 # game/story/Chapter 1.rpy:1356
 translate Schinese TIME_MONDAY_3a3229ab:
 
     # "The following day after class, I head for the club room."
-    "The following day after class, I head for the club room."
+    "第二天放学后，我前往社团所在的教室。"
 
 # game/story/Chapter 1.rpy:1360
 translate Schinese TIME_MONDAY_7b4e52ac:
 
     # "To my surprise, Kobu is there talking to King."
-    "To my surprise, Kobu is there talking to King."
+    "出乎我的意料，King在和Kobu说话。"
 
 # game/story/Chapter 1.rpy:1361
 translate Schinese TIME_MONDAY_fa58fca9:
 
     # King "There he is, Kobu here told me all about your escapade last night."
-    King "There he is, Kobu here told me all about your escapade last night."
+    King "他来了，Kobu向我讲了昨晚发生的事。"
 
 # game/story/Chapter 1.rpy:1362
 translate Schinese TIME_MONDAY_65e418ca:
 
     # p "Did he now? Did he tell you everything, everything?"
-    p "Did he now? Did he tell you everything, everything?"
+    p "什？他把一切都告诉你了？"
 
 # game/story/Chapter 1.rpy:1363
 translate Schinese TIME_MONDAY_8f0854e1:
 
     # "King raises an eyebrow at me."
-    "King raises an eyebrow at me."
+    "King不解地扬起眉毛。"
 
 # game/story/Chapter 1.rpy:1364
 translate Schinese TIME_MONDAY_881ccb73:
 
     # K "Ehem, I left out enough, in order to not spoil your article."
-    K "Ehem, I left out enough, in order to not spoil your article."
+    K "咳咳，为了报纸能够过审，我省略了一些内容。"
 
 # game/story/Chapter 1.rpy:1365
 translate Schinese TIME_MONDAY_bc321f7f:
 
     # p "Kobu, what are you doing here anyways?"
-    p "Kobu, what are you doing here anyways?"
+    p "说起来你为什么在这儿，Kobu？"
 
 # game/story/Chapter 1.rpy:1366
 translate Schinese TIME_MONDAY_3800ad13:
 
     # "His face warms into a wide smile."
-    "His face warms into a wide smile."
+    "他脸上洋溢着灿烂的笑容。"
 
 # game/story/Chapter 1.rpy:1367
 translate Schinese TIME_MONDAY_75845b24:
 
     # K "I'm joining the club!"
-    K "I'm joining the club!"
+    K "我来申请入社呀！"
 
 # game/story/Chapter 1.rpy:1368
 translate Schinese TIME_MONDAY_1b640dae:
 
     # p "What?"
-    p "What?"
+    p "啥？"
 
 # game/story/Chapter 1.rpy:1369
 translate Schinese TIME_MONDAY_d488e157:
 
     # King "Isn't that great? He approached me in class earlier saying he was interested in our club."
-    King "Isn't that great? He approached me in class earlier saying he was interested in our club."
+    King "是不是很棒？他早些时候在课堂上找到我，说对我们社很感兴趣。"
 
 # game/story/Chapter 1.rpy:1370
 translate Schinese TIME_MONDAY_18e0c40e:
 
     # K "Yup, it was hella fun investigating the bio lab, I figured it might actually be worth joining an active club."
-    K "Yup, it was hella fun investigating the bio lab, I figured it might actually be worth joining an active club."
+    K "嗯哼，调查生物实验室真是太有趣了，我寻思就该加入这么一个活跃的社团。"
 
 # game/story/Chapter 1.rpy:1371
 translate Schinese TIME_MONDAY_152083c9:
 
     # K "I don't know if writing a newspaper is really my thing, but then again I'm not sure what my thing is. What I do know is that it's fun to go poking around and digging up dirt on stuff."
-    K "I don't know if writing a newspaper is really my thing, but then again I'm not sure what my thing is. What I do know is that it's fun to go poking around and digging up dirt on stuff."
+    K "虽然不清楚报纸好不好写，但反正我也没别的爱好了。不过嘛，起码到处打听情报和挖掘内幕一定不无聊。"
 
 # game/story/Chapter 1.rpy:1372
 translate Schinese TIME_MONDAY_80f645ad:
 
     # K "Especially when it's with this guy."
-    K "Especially when it's with this guy."
+    K "特别是跟这个人一起。"
 
 # game/story/Chapter 1.rpy:1373
 translate Schinese TIME_MONDAY_616918b7:
 
     # "He pulls me in close. I slam into his soft gut."
-    "He pulls me in close. I slam into his soft gut."
+    "他把我拽了过去，我猛击他柔软的小腹。"
 
 # game/story/Chapter 1.rpy:1374
 translate Schinese TIME_MONDAY_e63e4bf5:
 
     # K "This guy here knows how to keep things exciting."
-    K "This guy here knows how to keep things exciting."
+    K "这家伙很会炒热气氛的。"
 
 # game/story/Chapter 1.rpy:1375
 translate Schinese TIME_MONDAY_862826cb:
 
     # "King nods and smiles."
-    "King nods and smiles."
+    "King微笑着点点头。"
 
 # game/story/Chapter 1.rpy:1376
 translate Schinese TIME_MONDAY_133f5ab3:
 
     # King "So, what topics are you interested in writing about?"
-    King "So, what topics are you interested in writing about?"
+    King "那么，你擅长写哪些主题呢？"
 
 # game/story/Chapter 1.rpy:1377
 translate Schinese TIME_MONDAY_1c813192:
 
     # K "I'm not really sure. I know some stuff about video games, comic books and TV shows."
-    K "I'm not really sure. I know some stuff about video games, comic books and TV shows."
+    K "不知道，我只了解电子游戏、漫画和电视剧。"
 
 # game/story/Chapter 1.rpy:1378
 translate Schinese TIME_MONDAY_1b09f7d0:
 
     # King "OHHH!"
-    King "OHHH!"
+    King "哦哦！"
 
 # game/story/Chapter 1.rpy:1379
 translate Schinese TIME_MONDAY_9af80e3b:
 
     # "King's high pitched squeal draws both our attention."
-    "King's high pitched squeal draws both our attention."
+    "King的高声尖叫吸引了我们的注意。"
 
 # game/story/Chapter 1.rpy:1380
 translate Schinese TIME_MONDAY_874a76a8:
 
     # King "I got a fantastic idea, you can write a review column for our paper. All about the latest media craze."
-    King "I got a fantastic idea, you can write a review column for our paper. All about the latest media craze."
+    King "我有个好主意，你可以为我们的报纸开一篇讲最新流行的专栏。"
 
 # game/story/Chapter 1.rpy:1381
 translate Schinese TIME_MONDAY_83347947:
 
     # "Kobu puts a finger to his chin as though he is thinking."
-    "Kobu puts a finger to his chin as though he is thinking."
+    "Kobu用一根手指抵住下巴，仿佛在思考。"
 
 # game/story/Chapter 1.rpy:1382
 translate Schinese TIME_MONDAY_39ee6c8a:
 
     # K "Yeah, that can work. Finally, I can honestly say I am doing research when playing video games."
-    K "Yeah, that can work. Finally, I can honestly say I am doing research when playing video games."
+    K "好呀，没问题，其实我就是边玩游戏边做研究的。"
 
 # game/story/Chapter 1.rpy:1383
 translate Schinese TIME_MONDAY_2f30a53c:
 
     # King "I look forward to your first article draft which reminds me, let me give a proper introduction to the club."
-    King "I look forward to your first article draft which reminds me, let me give a proper introduction to the club."
+    King "我很期待你的第一稿哦。对了，请容我正式介绍一下我们社团。"
 
 # game/story/Chapter 1.rpy:1384
 translate Schinese TIME_MONDAY_5137c011:
@@ -4892,13 +4892,13 @@ translate Schinese TIME_MONDAY_5137c011:
 translate Schinese TIME_MONDAY_d5c62b1b:
 
     # K "Woah, so you guys are basically screwed if you don't get one more member then."
-    K "哇，所以没有新人入社的话，你们就完蛋了。"
+    K "哇，所以没有新人入社的话，你们就没戏了。"
 
 # game/story/Chapter 1.rpy:1386
 translate Schinese TIME_MONDAY_cda19f97:
 
     # King "That we are. Which is why we need more eyes on our paper. We can't be satisfied with just one hot topic. I'm thinking we can milk the university's mysteries for a good chunk of news."
-    King "是的，因此我们的报纸需要更多关注，我们不能只满足一个热门话题。我在想，也许大学的未解之谜会是一个不错的切入点。"
+    King "是的，因此我们的报纸需要更多关注，不能只执着一个热门话题。我在想，大学里的未解之谜应该会是一个不错的切入点。"
 
 # game/story/Chapter 1.rpy:1387
 translate Schinese TIME_MONDAY_232394aa:
@@ -4910,7 +4910,7 @@ translate Schinese TIME_MONDAY_232394aa:
 translate Schinese TIME_MONDAY_dcf8d55b:
 
     # King "You're just in luck. Here's the next one!"
-    King "你真走运，下一个这就来了！"
+    King "巧了，下一个已经上门了！"
 
 translate Schinese strings:
 
