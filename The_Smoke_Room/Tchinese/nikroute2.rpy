@@ -15742,7 +15742,7 @@ translate Tchinese sny1_6d5a896a:
 translate Tchinese sny1_8d2cbf81:
 
     # ya "\"Most in this town would not be able to read it, but hiding it would not hurt.\""
-    ya "“無關緊要，畢竟鎮上能看懂的也沒有多少人。”"
+    ya "“鎮上能看懂的也沒有多少人，但藏著也好。”"
 
 # game/nikroute2.rpy:5109
 translate Tchinese sny1_78f6cc03:
@@ -16018,7 +16018,7 @@ translate Tchinese sny1_6436d74f:
 translate Tchinese sny1_ea9b3bac:
 
     # "He has a very serious face, but I can’t deny, it is handsome."
-    "他的臉很嚴肅，但不可否認的是，同時也很帥氣。"
+    "他的臉是很嚴肅，但不可否認的是，同時也很帥氣。"
 
 # game/nikroute2.rpy:5207
 translate Tchinese sny1_2fcc0375:
@@ -25527,4 +25527,3 @@ translate Tchinese strings:
     # game/nikroute2.rpy:8471
     old "The map's left, my right,"
     new "地圖的左邊，我的右邊。"
-
