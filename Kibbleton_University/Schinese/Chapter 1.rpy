@@ -8,7 +8,7 @@ translate Schinese chapter_1_9d9d2bc9:
 translate Schinese chapter_1_d073ab88:
 
     # "‘News Binding Club meeting at three fifteen p.m. in the Willow room.'"
-    "‘下午三点十五，新闻社，到垂柳间开会。’"
+    "‘下午三点十五，新闻社的全体人员到垂柳间开会。’"
 
 # game/story/Chapter 1.rpy:14
 translate Schinese chapter_1_44c40407:
@@ -4718,7 +4718,7 @@ translate Schinese TIME_SUNDAY_5558013f:
 translate Schinese TIME_SUNDAY_6f7ea2a2:
 
     # "King sent a message. “Meet me at the club room tomorrow at three. I've got a big announcement”"
-    "King发过来一条短信：‘明天三点社团见，我有一件大事要宣布’。"
+    "King发过来一条短信：‘明天三点社团见，我有一件大事要宣布。’"
 
 # game/story/Chapter 1.rpy:1347
 translate Schinese TIME_SUNDAY_5db1d0ea:
