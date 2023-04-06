@@ -1,8 +1,27 @@
+# OBSOLETE
+## Ruby效果微調
+style ruby_style is default:
+    size 20
+    yoffset -34
+
+style history_ruby_style is default:
+    size 20
+    yoffset -29
+
+style say_dialogue:
+    line_leading 5
+    ruby_style style.ruby_style
+
+
+style history_text:
+    line_leading 5
+    ruby_style style.history_ruby_style
+
+## 本地化配置文件
 translate Tchinese python:
     config.font_replacement_map["font/SourceHanSerifTW-Regular.otf", True, False] = ("font/SourceHanSerifTW-Bold.otf", False, False)
     gui.system_font = gui.main_font = gui.text_font = gui.name_text_font = gui.interface_text_font = gui.button_text_font = gui.choice_button_text_font = "font/SourceHanSerifTW-Regular.otf"
-    preferences.text_cps = 14
-
+    preferences.text_cps = 15
     if renpy.variant("pc"):
         ## Font sizes.
         gui.text_size = 36
