@@ -1874,7 +1874,8 @@ translate Schinese ch1_knock_1a290571:
 translate Schinese ch1_knock_e6e43beb:
 
     # "“Emberlion Boyfriends EX.”"
-    "“美少年万华镜EX。”"
+    "“放课后的神绊导师在live上竟是另一种姿态。”"
+    p "“好长的游戏名。”你不由得感叹道。"
 
 # game/story/Chapter 1.rpy:514
 translate Schinese ch1_knock_3a95778f:

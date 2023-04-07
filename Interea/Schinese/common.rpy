@@ -464,7 +464,7 @@ translate Schinese strings:
 
     # renpy/common/00library.rpy:281
     old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
-    new "本游戏由{a=https://weibo.com/u/7429628292}北极光汉化组{/a}完成本地化工作，如需访问汉化组QQ频道，请点击{a=https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&inviteCode=2kr67C&from=246610&biz=ka}此处{/a}。\n\n友情链接:兽人控索引，点击{a=https://furrygames.top/zh-cn/games/Interea.html}此处{/a}访问。\n\n本程序包含了由数个许可证授权的免费软件，包括 MIT 许可证和 GNU 宽松通用公共许可证。完整软件列表及源代码链接，请{a=https://www.renpy.org/l/license}访问此处{/a}。"
+    new "本游戏由{a=https://space.bilibili.com/1571398540/dynamic}北极光汉化组{/a}完成本地化工作，如需访问汉化组QQ频道，请点击{a=https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&inviteCode=2kr67C&from=246610&biz=ka}此处{/a}。\n\n友情链接:兽人控游戏索引，点击{a=https://furrygames.top/zh-cn/games/Adastra.html}此处{/a}访问。\n\n本程序包含了由数个许可证授权的免费软件，包括 MIT 许可证和 GNU 宽松通用公共许可证。完整软件列表及源代码链接，请{a=https://www.renpy.org/l/license}访问此处{/a}。"
 
     # renpy/common/00preferences.rpy:254
     old "display"
