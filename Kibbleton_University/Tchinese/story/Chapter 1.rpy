@@ -140,7 +140,7 @@ translate Tchinese chapter_1_6202e173:
 translate Tchinese chapter_1_96060728:
 
     # Nox sad "I am Professor Noxmare, but just Noxmare will do fine. If you must honour me, some students call me... Master... Noxmare."
-    Nox sad "我是Noxmare教授，直接叫我的名字就好。如果一定要用尊稱的話...有些同學會叫我...Noxmare主人。"
+    Nox sad "我是Noxmare教授，直接叫我的名字就好。如果一定要用尊稱的話...有些同學會叫我...Noxmare{rb}老師{/rb}{rt}詞同主人{/rt}。。"
 
 # game/story/Chapter 1.rpy:49
 translate Tchinese chapter_1_4999ab68:
@@ -4917,10 +4917,6 @@ translate Tchinese strings:
     # game/story/Chapter 1.rpy:5
     old "Chapter 1"
     new "第一章"
-
-    # game/story/Chapter 1.rpy:26
-    old "???{#speakingName}"
-    new "？？？{#speakingName}"
 
     # game/story/Chapter 1.rpy:52
     old "Buttface{#joke_name}"

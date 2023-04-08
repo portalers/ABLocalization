@@ -25,3 +25,4 @@ translate Schinese python:
 ## 调整主界面字体大小
     gui.button_text_size = 45
     gui.label_text_size = 45
+    gui.name_text_size = 62

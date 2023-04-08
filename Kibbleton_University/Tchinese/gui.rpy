@@ -25,3 +25,4 @@ translate Tchinese python:
 ## 調整主界面字體大小
     gui.button_text_size = 45
     gui.label_text_size = 45
+    gui.name_text_size = 62
