@@ -1,22 +1,3 @@
-## Ruby效果微调
-style ruby_style is default:
-    size 20
-    yoffset -34
-
-style history_ruby_style is default:
-    size 20
-    yoffset -29
-
-style say_dialogue:
-    line_leading 5
-    ruby_style style.ruby_style
-
-
-style history_text:
-    line_leading 5
-    ruby_style style.history_ruby_style
-
-## 本地化配置文件
 translate Schinese python:
     config.font_replacement_map["font/SourceHanSerifCN-Regular.otf", True, False] = ("font/SourceHanSerifCN-Bold.otf", False, False)
     gui.system_font = gui.main_font = gui.text_font = gui.name_text_font = gui.interface_text_font = gui.button_text_font = gui.choice_button_text_font = "font/SourceHanSerifCN-Regular.otf"
