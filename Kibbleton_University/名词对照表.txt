@@ -9,4 +9,6 @@ Some-Body         替身           替身
 Sunny Fruits    阳光便利店     陽光便利店
 frozen dinner    速冻便当       冷凍食品
 Kibbleton        基布尔顿       基布爾頓
-Overlord         冥界领主       冥界領主
+Overlord         冥界霸王       冥界霸王
+Lynx              山猫           猞猁
+guard             警卫           警衛
