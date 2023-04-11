@@ -80,7 +80,7 @@ translate Tchinese chapter_1_1a53d930:
 translate Tchinese chapter_1_86f9e22e:
 
     # "The professor enters next. The lynx is fit, perhaps too fit, the taut buttons on his shirt struggling to hold itself together."
-    "教授接著走了進來。他是一隻魁梧的猞猁，也許魁梧過頭了，那些拚了命地想把襯衫繫在一起的鈕扣足以證明。"
+    "教授接著走了進來。他是一隻魁梧的山貓，也許魁梧過頭了，那些拚了命地想把襯衫繫在一起的鈕扣足以證明。"
 
 # game/story/Chapter 1.rpy:39
 translate Tchinese chapter_1_0502ce03:
@@ -650,7 +650,7 @@ translate Tchinese name_input_0d8ceb85:
 translate Tchinese name_input_5bed01a9:
 
     # "The lynx smirks at me as though he expected me to say that all along."
-    "猞猁露出一抹壞笑，像是算準了我會這麼說。"
+    "山貓露出一抹壞笑，像是算準了我會這麼說。"
 
 # game/story/Chapter 1.rpy:197
 translate Tchinese name_input_bfe1b8b2:
@@ -2732,7 +2732,7 @@ translate Tchinese TIME_2c723603:
 translate Tchinese TIME_1099e5a5:
 
     # "The lynx hands me fifty dollars."
-    "猞猁遞給我五十美元。"
+    "山貓遞給我五十美元。"
 
 # game/story/Chapter 1.rpy:761
 translate Tchinese TIME_4ec1a99a:
