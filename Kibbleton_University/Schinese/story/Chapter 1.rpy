@@ -1,14 +1,14 @@
-# game/story/Chapter 1.rpy:12
+﻿# game/story/Chapter 1.rpy:12
 translate Schinese chapter_1_9d9d2bc9:
 
     # "It's three p.m., and my Friday classes are over. I glance back at King's message on my phone."
-    "现在是下午三点，我上完周五的最后一堂课，瞥了眼King发给我的短信。"
+    "现在是下午三点整，周五的最后一节课刚刚结束，我瞥了眼King发给我的短信。"
 
 # game/story/Chapter 1.rpy:13
 translate Schinese chapter_1_d073ab88:
 
-    # "‘News Binding Club meeting at three fifteen p.m. in the Willow room.'"
-    "‘下午三点十五，新闻社的全体人员到垂柳间开会。’"
+    # "“News Binding Club meeting at three fifteen p.m. in the Willow room.'"
+    "“下午三点十五分，新闻社的全体人员到垂柳间开会。”"
 
 # game/story/Chapter 1.rpy:14
 translate Schinese chapter_1_44c40407:
@@ -20,7 +20,7 @@ translate Schinese chapter_1_44c40407:
 translate Schinese chapter_1_a1976ed6:
 
     # "I wonder how things will go. I hope everyone will be nice."
-    "我心中充满了好奇，要是能跟大家和睦相处就好了。"
+    "我的心中萦绕着新奇感，希望能在社团能与大家和睦相处。"
 
 # game/story/Chapter 1.rpy:17
 translate Schinese chapter_1_cefdab7e:
@@ -38,7 +38,7 @@ translate Schinese chapter_1_923e29fe:
 translate Schinese chapter_1_401b55f2:
 
     # "His eyes sparkle at the sight of me."
-    "他用炯炯有神的眼睛看向我。"
+    "看到我时，他两眼放光。"
 
 # game/story/Chapter 1.rpy:25
 translate Schinese chapter_1_992055cb:
@@ -62,43 +62,43 @@ translate Schinese chapter_1_4c7dc334:
 translate Schinese chapter_1_69fdaf73:
 
     # "The alpaca enters, forcing his abundant fleece to squeeze through the door frame."
-    "羊驼收拢自己丰满的羊毛，从门框挤进屋内。"
+    "羊驼收拢自己蓬松的羊毛，勉强从门框挤进屋内。"
 
 # game/story/Chapter 1.rpy:36
 translate Schinese chapter_1_b0e28a8a:
 
     # Nox "Goodness King. You've doubled in size since the last semester break."
-    Nox "我的老天爷啊，King，相比上个学期放假的时候，你足足胖了一倍。"
+    Nox "天啊，King，相比上个学期放假的时候，你足足胖了一倍。"
 
 # game/story/Chapter 1.rpy:37
 translate Schinese chapter_1_1a53d930:
 
     # King "It's just my winter fleece Prof. I haven't had the time to shave it all off."
-    King "冬季长毛期而已，教授，我一直没来得及剪。"
+    King "冬季长毛期而已，教授，我一直没来得及打理一下。"
 
 # game/story/Chapter 1.rpy:38
 translate Schinese chapter_1_86f9e22e:
 
     # "The professor enters next. The lynx is fit, perhaps too fit, the taut buttons on his shirt struggling to hold itself together."
-    "教授接着走了进来。他是一只魁梧的猞猁，也许魁梧过头了，那些拼了命地想把衬衫系在一起的纽扣足以证明。"
+    "教授走了进来。他是一只魁梧的山猫，也许魁梧过头了，衬衫上的纽扣绷得紧紧的。"
 
 # game/story/Chapter 1.rpy:39
 translate Schinese chapter_1_0502ce03:
 
     # "Wafting in behind him is a citrus scent that reminds of oranges."
-    "他身后飘着一股柑橘的香味，有点像橙子。"
+    "他身后飘来一股清爽的柑橘香味，让我想到了橙子。"
 
 # game/story/Chapter 1.rpy:40
 translate Schinese chapter_1_1caa3531:
 
     # "Next, a pair of black leather gloves he wears instantly draw my eyes to his hips."
-    "接下来，一只戴着黑色皮手套的手将我的目光吸引到了他的臀部。"
+    "他手上戴的一双黑色皮手套将我的目光吸引到了他的臀部。"
 
 # game/story/Chapter 1.rpy:41
 translate Schinese chapter_1_8ccf2880:
 
     # "For some odd reason, he's also carrying a whip."
-    "不知为何，他还带着一根鞭子。"
+    "有些古怪的是，他腰间还别着根鞭子。"
 
 # game/story/Chapter 1.rpy:42
 translate Schinese chapter_1_afe345ad:
@@ -122,13 +122,14 @@ translate Schinese chapter_1_44f63fd8:
 translate Schinese chapter_1_e85c1537:
 
     # "His sultry voice is like a siren's call to my ears."
-    "他性感的嗓音丝毫不亚于海妖摄人心魄的歌声。"
+    "他性感的嗓音丝毫不亚于{rb}塞壬{/rb}{rt}海 妖{/rt}那摄人心魄的歌声。"
 
 # game/story/Chapter 1.rpy:46
 translate Schinese chapter_1_47d458bf:
 
     # "I look up, his pecs are in the way, so I lean back to meet the professor's face."
-    "我抬起头，却迎面撞上他的胸肌。于是我身体后仰，好看清教授的脸。"
+    "我抬起头，却不小心迎面撞上他的胸肌。"
+    "尴尬的我只能向后仰，好看清教授的脸。"
 
 # game/story/Chapter 1.rpy:47
 translate Schinese chapter_1_6202e173:
@@ -140,13 +141,13 @@ translate Schinese chapter_1_6202e173:
 translate Schinese chapter_1_96060728:
 
     # Nox sad "I am Professor Noxmare, but just Noxmare will do fine. If you must honour me, some students call me... Master... Noxmare."
-    Nox sad "我是Noxmare教授，直接叫我的名字就好。如果一定要用尊称的话...有些同学会叫我...Noxmare主人。"
+    Nox sad "我是Noxmare教授，直接叫我的名字就好。如果一定要用尊称的话...有些同学会叫我...Noxmare{rb}老师{/rb}{rt}词同主人{/rt}。"
 
 # game/story/Chapter 1.rpy:49
 translate Schinese chapter_1_4999ab68:
 
     # "I gulp."
-    "我咽了一口唾沫。"
+    "我吞了吞口水。"
 
 # game/story/Chapter 1.rpy:50
 translate Schinese chapter_1_8f0c6e8d:
@@ -200,19 +201,19 @@ translate Schinese name_input_56d4fde0:
 translate Schinese name_input_41b4ce9a:
 
     # p "I'm... [name]. Second year student, but this is my first week here."
-    p "我是...二年级的[name]，不过上个礼拜刚刚转学过来。"
+    p "我是...二年级的[name]，上个礼拜刚刚转学过来。"
 
 # game/story/Chapter 1.rpy:81
 translate Schinese name_input_e7ba62b7:
 
     # Nox neutral "A new student? What brings you to these hallowed halls?"
-    Nox neutral "新学生啊？是什么风把你吹来了？"
+    Nox neutral "转学生啊？是什么风把你吹来了？"
 
 # game/story/Chapter 1.rpy:82
 translate Schinese name_input_4be3e681:
 
     # p "It's... well, it's because my dad got a new job and he wanted the whole family to move."
-    p "唔...因为我老爸找了份新工作，他想要全家跟着他一起搬家。"
+    p "唔...因为我老爸找了份新工作，他想要全家人跟着他一起搬家。"
 
 # game/story/Chapter 1.rpy:83
 translate Schinese name_input_0b91c18f:
@@ -224,7 +225,7 @@ translate Schinese name_input_0b91c18f:
 translate Schinese name_input_4defdc33:
 
     # "The professor turns around and takes a seat on the teacher's desk."
-    "教授转过身，坐在了在讲台上。"
+    "教授转过身，坐在讲桌上。"
 
 # game/story/Chapter 1.rpy:93
 translate Schinese name_input_b570528d:
@@ -236,13 +237,13 @@ translate Schinese name_input_b570528d:
 translate Schinese name_input_3fdb329e:
 
     # King "Hi all, welcome to the first News Binding Club meeting for the year!"
-    King "大家好，欢迎参加今年的第一届新闻社会议！"
+    King "大家好，欢迎大家参加今年的首届新闻社会议！"
 
 # game/story/Chapter 1.rpy:95
 translate Schinese name_input_70c27fa8:
 
     # p "We're starting?"
-    p "已经开始了吗？"
+    p "这就已经开始了吗？"
 
 # game/story/Chapter 1.rpy:96
 translate Schinese name_input_bead076f:
@@ -260,7 +261,7 @@ translate Schinese name_input_61973d1d:
 translate Schinese name_input_18f4ebab:
 
     # "I raise my paw and wave sheepishly."
-    "我不好意思地挥了挥手。"
+    "我尴尬地挥了挥手。"
 
 # game/story/Chapter 1.rpy:99
 translate Schinese name_input_eeab2a58:
@@ -296,7 +297,7 @@ translate Schinese name_input_bac9871d:
 translate Schinese name_input_065f9936:
 
     # King "Aww, we can always use a passionate member. See Prof, he'll fit in well."
-    King "啊~热血与青春，这正是我们需要的。看吧，教授，他是棵好苗子。"
+    King "啊~真是充满热情的发言，这正是我们需要的成员。看吧，教授，我就知道他适合这里。"
 
 # game/story/Chapter 1.rpy:109
 translate Schinese name_input_a1fca3cd:
@@ -326,13 +327,13 @@ translate Schinese name_input_459d76b2:
 translate Schinese name_input_3d405e18:
 
     # King "I didn't force him to join. I gave the same pitch to all the new students."
-    King "我没有强迫他啦，我对所有新生都做了同样的宣传。"
+    King "我没强迫他加入啦，我对所有新生都来了同样的那一套。"
 
 # game/story/Chapter 1.rpy:115
 translate Schinese name_input_6cf6b9f4:
 
     # Nox sad "It's what it is, the club does need more members."
-    Nox sad "算了，事已至此，而且我们确实需要招揽更多社员。"
+    Nox sad "算了，来都来了，而且我们确实需要招揽更多新社员。"
 
 # game/story/Chapter 1.rpy:117
 translate Schinese name_input_5913abbc:
@@ -344,7 +345,7 @@ translate Schinese name_input_5913abbc:
 translate Schinese name_input_550d77d3:
 
     # King "So, we're basically the university newspaper club. We run a web page filled with what's new and exciting on campus."
-    King "用一句话来概括，这个社团依存于校报。我们运营着一个网站，上面刊登了校园里各种各样有趣和新鲜的内容。"
+    King "用一句话来概括，这个社团依存于校报。我们运营着一个网站，上面刊登了校园里发生的各式各样有趣的事件和传言。"
 
 # game/story/Chapter 1.rpy:119
 translate Schinese name_input_1867b545:
@@ -362,49 +363,49 @@ translate Schinese name_input_094d7c16:
 translate Schinese name_input_8098ff38:
 
     # "King has made three posts over the past month."
-    "King在过去一个月里发了三个帖子。"
+    "King在上个月一共发了三篇帖子。"
 
 # game/story/Chapter 1.rpy:122
 translate Schinese name_input_06f6c11a:
 
     # "\"The Mystery of the Missing Vegetarian Choices.\""
-    "\"失踪的素食者之谜。\""
+    "“走进科学之---消失的素食主义餐品。”"
 
 # game/story/Chapter 1.rpy:123
 translate Schinese name_input_4ff2b296:
 
     # "\"The Truth behind Taco Thursday.\""
-    "\"塔可背后的真相。\""
+    "“揭秘“{rb}塔克{/rb}{rt}玉米卷饼{/rt}疯狂星期四”背后的真相。”"
 
 # game/story/Chapter 1.rpy:124
 translate Schinese name_input_9b3022dd:
 
     # "\"New Gym Opens up on Campus.\""
-    "\"校园内开放了新的健身房。\""
+    "“校区内开设了新的健身房。”"
 
 # game/story/Chapter 1.rpy:125
 translate Schinese name_input_b56303ed:
 
     # "The number of visitors to the site seems to be in the double digits with the most read article being the new gym opening."
-    "该网站的访问量将将达到两位数，其中点击数最多的是健身房开张的那篇。"
+    "帖子的总访问量仅仅只有两位数，其中点击数最多的是健身房开张的那篇。"
 
 # game/story/Chapter 1.rpy:126
 translate Schinese name_input_0d0f3652:
 
     # King "So, this year we'll be churning out more articles and getting more readers to check us out."
-    King "所以今年，我们计划推出更多文章，好吸引更多的读者。"
+    King "今年，我们计划报道更多领域的新闻，好吸引更多的读者。"
 
 # game/story/Chapter 1.rpy:127
 translate Schinese name_input_f13b75af:
 
     # King "With a positive outlook and a little bit of traction, we can gain members and hopefully secure our position as a club."
-    King "凭借积极的前景和一点点吸引力，我们一定能够招纳更多社员，甚至有望巩固本社的地位。"
+    King "只需要凭借积极的态度和{bt}{color=#ffda15}一点点{/color}{/bt}花边新闻爆料，我们一定能够招纳更多社员，甚至有望保全本社的地位。"
 
 # game/story/Chapter 1.rpy:128
 translate Schinese name_input_9e7ebc81:
 
     # p "What do you mean by secure?"
-    p "巩固指的是？"
+    p "保全指的是？"
 
 # game/story/Chapter 1.rpy:129
 translate Schinese name_input_ffb6c1d8:
@@ -416,13 +417,13 @@ translate Schinese name_input_ffb6c1d8:
 translate Schinese name_input_b31cf91d:
 
     # King "I can't really explain it, the university admins were quite against the formation of a newspaper club."
-    King "管理层非常抵触校报社，我实在是不明白为什么。"
+    King "管理层非常反对我们开设校报社，我实在是不明白为什么。"
 
 # game/story/Chapter 1.rpy:131
 translate Schinese name_input_8b371bdc:
 
     # King "They reasoned that past newspaper clubs only brought trouble for the university."
-    King "他们认为这只会给学校带来麻烦。"
+    King "他们给出的理由是，校报社过去给学校带来了一堆麻烦。"
 
 # game/story/Chapter 1.rpy:132
 translate Schinese name_input_2d0cffef:
@@ -452,13 +453,13 @@ translate Schinese name_input_48ec125d:
 translate Schinese name_input_f6cde976:
 
     # King "I know I sort of strong-armed you into joining, but if you don't wish to continue I'll understand."
-    King "我知道，你多少受到了我的强迫，所以如果你想要退出的话，我也可以理解。"
+    King "我知道，你加入社团多少受到了我的影响，所以如果你想要退出的话，我也可以理解。"
 
 # game/story/Chapter 1.rpy:143
 translate Schinese name_input_7233a388:
 
     # p "Look, I need to join at least one active club to keep my place in the dorms. I'm sorry but this is too risky for me."
-    p "听着，为了保住我在宿舍的位置，我至少得加入一个活跃的社团。很抱歉，但我不能冒这个险。"
+    p "你看，为了确保我能接着住大学宿舍，规定要求我至少得加入一个活跃的社团。所以很抱歉，我不能冒这个险。"
 
 # game/story/Chapter 1.rpy:144
 translate Schinese name_input_278a98f3:
@@ -470,13 +471,13 @@ translate Schinese name_input_278a98f3:
 translate Schinese name_input_58bbb493:
 
     # "I leave the meeting and the News Binding Club."
-    "我离开了这场会议，以及新闻社。"
+    "我就此离开了这场会议，远离了新闻社。"
 
 # game/story/Chapter 1.rpy:146
 translate Schinese name_input_1f47b99e:
 
     # "In the coming months I don't hear anything about them, and my memories about that meeting fade away into the background."
-    "接下来的几个月里，我再也没有听到他们的任何消息，那次经历也渐渐消失在了我的脑海中。"
+    "接下来的几个月里，我再也没有听到他们的任何消息，那次经历也渐渐消失在了我的记忆之中。"
 
 # game/story/Chapter 1.rpy:147
 translate Schinese name_input_6e79f8a2:
@@ -488,7 +489,7 @@ translate Schinese name_input_6e79f8a2:
 translate Schinese name_input_0776bbb2:
 
     # "After two years, I graduate and I go on with my life."
-    "两年后，我从大学毕业，准备拥抱新的生活。"
+    "两年之后，我顺利从大学毕业，开始拥抱崭新的生活。"
 
 # game/story/Chapter 1.rpy:150
 translate Schinese name_input_0ae9bcd0:
@@ -500,7 +501,7 @@ translate Schinese name_input_0ae9bcd0:
 translate Schinese name_input_952bed40:
 
     # p "I'll stay. I'd feel bad to just come here and go like that. If anything, I'll find a new club after this one dies."
-    p "我会留下的，就这样一走了之，我心里过不去。反正这个社解散了，我再找下一家也来得及。"
+    p "我会留下的，就这样一走了之，我心里过意不去。就算这个社真的被解散了，到时候我再找下一个也来得及。"
 
 # game/story/Chapter 1.rpy:159
 translate Schinese name_input_17011be1:
@@ -512,19 +513,19 @@ translate Schinese name_input_17011be1:
 translate Schinese name_input_defb5668:
 
     # "I can see hints of tears welling in King's eyes."
-    "我可以看到King的眼角有泪痕。"
+    "我看到King的眼角闪着泪光。"
 
 # game/story/Chapter 1.rpy:161
 translate Schinese name_input_82ed868e:
 
     # King "Thank you so much! You don't know how much this means to me."
-    King "非常感谢！你不知道这对我来说有多重要。"
+    King "非常感谢！你可能不知道这对我来说有多重要。"
 
 # game/story/Chapter 1.rpy:162
 translate Schinese name_input_5190ffdc:
 
     # "I chuckle while my shoulders feel heavier."
-    "我笑了笑，感觉肩膀更重了。"
+    "我笑了笑，同时感觉肩上的担子变重了。"
 
 # game/story/Chapter 1.rpy:163
 translate Schinese name_input_d14befe1:
@@ -572,13 +573,13 @@ translate Schinese name_input_c2186cd4:
 translate Schinese name_input_fa3ba60f:
 
     # Nox angry "If I catch word of any of you breaking the rules, you bet your ass—be it flat or fat—will get whipped into shape."
-    Nox angry "只要被我发现你们违反了校规，那你们的屁股，无论是平是胖，都会被我抽得很有型。"
+    Nox angry "只要被我发现你们违反了校规，那你们的屁股，无论胖瘦大小，都会被我抽得很有型。"
 
 # game/story/Chapter 1.rpy:175
 translate Schinese name_input_9c47a0b3:
 
     # "He cracks the whip to emphasise his threat."
-    "他挥舞着鞭子，以强调自己的严肃性。"
+    "他挥舞着鞭子，以此强调自己的上述发言非同儿戏。"
 
 # game/story/Chapter 1.rpy:176
 translate Schinese name_input_ccd24a47:
@@ -596,19 +597,19 @@ translate Schinese name_input_97b21008:
 translate Schinese name_input_b018b4d2:
 
     # p "Thanks, I suppose."
-    p "谢谢，我尽量。"
+    p "谢谢，我会尽我所能。"
 
 # game/story/Chapter 1.rpy:180
 translate Schinese name_input_403eee13:
 
     # Nox "Well, sounds like you two have things under control. I'll be in my office then, I'm on the second floor if you need me."
-    Nox "听起来你们已经跃跃欲试了，那我就先回办公室了，有事来二楼找我。"
+    Nox "看上去你们已经等不及开干了，那我就先回办公室了，有事来二楼找我。"
 
 # game/story/Chapter 1.rpy:181
 translate Schinese name_input_082e0458:
 
     # Nox "If either of you need some extra income, you can also drop by, I have a research project that could use some assistance."
-    Nox "谁需要赚点外快也可以来，我有一个项目需要帮手。"
+    Nox "谁需要赚点外快也可以来找我，我有个项目需要一个帮手。"
 
 # game/story/Chapter 1.rpy:183
 translate Schinese name_input_12e51e82:
@@ -632,25 +633,25 @@ translate Schinese name_input_94e4f9f9:
 translate Schinese name_input_c10aea74:
 
     # p "Later, Daddy."
-    p "之后见，爸爸。"
+    p "之后见，爹地。"
 
 # game/story/Chapter 1.rpy:192
 translate Schinese name_input_2b779018:
 
     # "I clasp my mouth."
-    "我捂住嘴巴。"
+    "我急忙捂住嘴。"
 
 # game/story/Chapter 1.rpy:193
 translate Schinese name_input_0d8ceb85:
 
     # Nox annoyed "Mmm?"
-    Nox annoyed "嗯？"
+    Nox annoyed "嗯哼？"
 
 # game/story/Chapter 1.rpy:194
 translate Schinese name_input_5bed01a9:
 
     # "The lynx smirks at me as though he expected me to say that all along."
-    "猞猁露出一抹坏笑，像是算准了我会这么说。"
+    "山猫露出一抹坏笑，像是算准了我会这么说。"
 
 # game/story/Chapter 1.rpy:197
 translate Schinese name_input_bfe1b8b2:
@@ -662,13 +663,13 @@ translate Schinese name_input_bfe1b8b2:
 translate Schinese name_input_ac393fa8:
 
     # "His wide smug smirk looming over the side of my face."
-    "他的笑容在我脑中挥之不去。"
+    pass
 
 # game/story/Chapter 1.rpy:199
 translate Schinese name_input_c298eb4e:
 
     # King "Daddy?"
-    King "爸爸？"
+    King "爹地？"
 
 # game/story/Chapter 1.rpy:200
 translate Schinese name_input_908f353a:
@@ -686,7 +687,7 @@ translate Schinese name_input_f25321de:
 translate Schinese name_input_25108e83:
 
     # p "King, I'm serious here, I don't have a thing for Professor Noxmare!"
-    p "真的，King，我对Noxmare教授没有那方面的好感！"
+    p "真的，King，我对Noxmare教授没那个意思！"
 
 # game/story/Chapter 1.rpy:203
 translate Schinese name_input_d2431072:
@@ -698,25 +699,25 @@ translate Schinese name_input_d2431072:
 translate Schinese name_input_57c841d4:
 
     # King "No, it's not that. It's just.. it's not the first time I've heard someone say something kinda horny to Noxmare."
-    King "不是因为这个啦，只不过...这不是我第一次听到有人对Noxmare说些色色的东西了。"
+    King "不是因为这个啦，只不过...这不是我第一次听到有人对Noxmare说些{bt}{color=#ffda15}色色{/color}{/bt}的东西了。"
 
 # game/story/Chapter 1.rpy:205
 translate Schinese name_input_74ef40f7:
 
     # King "Don't worry, I'm pretty sure he likes the attention."
-    King "没关系，我很肯定他喜欢受人关注。"
+    King "没关系，他肯定很喜欢受人关注的感觉。"
 
 # game/story/Chapter 1.rpy:207
 translate Schinese name_input_eb341b17:
 
     # King "Alright, let's discuss what our next newspaper update should have."
-    King "好了，我们来讨论一下下次刊登的内容吧。"
+    King "好了，我们来讨论一下社团新闻下次刊登的内容吧。"
 
 # game/story/Chapter 1.rpy:208
 translate Schinese name_input_0ec3e62b:
 
     # King "Just so you know, we update every two weeks."
-    King "先说明一下，我们的报纸每两周更新一次。"
+    King "先说明一下，我们的社团新闻每两周更新一次。"
 
 # game/story/Chapter 1.rpy:209
 translate Schinese name_input_7d9be26e:
@@ -752,7 +753,7 @@ translate Schinese name_input_57eb59fe:
 translate Schinese name_input_2d7889ce:
 
     # King "Here, I'll let you have this lead I got recently. There's word going around campus that the bio lab is haunted."
-    King "刚好，我最近得到一条线索，校园里流传着生物实验室闹鬼的传闻。"
+    King "刚好，我最近刚得到一条线索，校园里流传着生物实验室闹鬼的传闻。"
 
 # game/story/Chapter 1.rpy:215
 translate Schinese name_input_f4043c8f:
@@ -764,31 +765,31 @@ translate Schinese name_input_f4043c8f:
 translate Schinese name_input_b9fb0f00:
 
     # King "A student who left their laptop in the bio lab two weeks ago went in search of it around midnight."
-    King "两周前，一个学生把笔记本电脑忘在生物实验室里。他半夜左右去寻找。"
+    King "两周前，有个学生把笔记本电脑忘在生物实验室里。他半夜时想起来才去找。"
 
 # game/story/Chapter 1.rpy:217
 translate Schinese name_input_9f2bd7d3:
 
     # p "How did they get access to the lab, much less the campus? Don't the guards usually lock up the place after eleven?"
-    p "先不提他怎么进的学校，保安不是十一点后就把实验室的门锁起来了吗？"
+    p "先等等，他是怎么进入学校的，警卫不是十一点后就把大门锁起来了吗？"
 
 # game/story/Chapter 1.rpy:218
 translate Schinese name_input_589ec490:
 
     # King "Laboratory students can get after-hours passes if they need access to the equipment for their projects."
-    King "实验室的学生可以申请放学后的通行证，以供他们使用项目的设备。"
+    King "实验室的学生可以申请大门通行证，以供他们放学后继续使用实验室的设备做研究。"
 
 # game/story/Chapter 1.rpy:219
 translate Schinese name_input_7f78f90a:
 
     # p "So, how's the lab haunted?"
-    p "好吧，那实验室怎么闹鬼的？"
+    p "好吧，那实验室是怎么闹鬼的？"
 
 # game/story/Chapter 1.rpy:220
 translate Schinese name_input_779891d7:
 
     # King "Well, they said... It was raining that night when they were walking down the hallway. They heard hushed whispers and muffled cries coming from the room."
-    King "他们说...那天晚上天下着雨，他走在走廊上，听到房间里传来窃窃私语和啜泣声。"
+    King "他说...那天晚上下着大雨，他一个人走近实验室，突然听到房间里有人在轻声低语，还有些许低声啜泣声。"
 
 # game/story/Chapter 1.rpy:221
 translate Schinese name_input_417852f2:
@@ -800,7 +801,7 @@ translate Schinese name_input_417852f2:
 translate Schinese name_input_09bc2058:
 
     # King "Then one of the heads turned to them. The student fell to their knees and crawled out of there."
-    King "然后其中一个头突然看向他，于是他连滚带爬地逃了出来。"
+    King "还没等他看清楚是什么东西，其中一个头突然看向了他，他吓得连滚带爬地逃了出来。"
 
 # game/story/Chapter 1.rpy:223
 translate Schinese name_input_61341e9a:
@@ -812,7 +813,7 @@ translate Schinese name_input_61341e9a:
 translate Schinese name_input_f48f3280:
 
     # King "They got their laptop the next day, but there was no sign of the monster anywhere. I asked around, and apparently this wasn't the first time such a creature was spotted."
-    King "他在第二天拿回了笔记本电脑，然而到处都没有怪物的踪迹。经过我的多方打听，类似的事件还不止一起。"
+    King "他在第二天拿回了笔记本电脑，然而到处都找不到怪物存在的踪迹。并且，经过我的多方打听，类似的事件还不止一起。"
 
 # game/story/Chapter 1.rpy:225
 translate Schinese name_input_17b47a28:
@@ -830,31 +831,31 @@ translate Schinese name_input_0d3c4bf5:
 translate Schinese name_input_1cee097b:
 
     # p "I'd believe a mass hallucination before the existence of a monster."
-    p "比起怪物，我宁愿相信这是某种大规模幻觉。"
+    p "比起怪物，我更宁愿相信这是人们把正常事物错看成怪物了。"
 
 # game/story/Chapter 1.rpy:231
 translate Schinese name_input_e9d22df0:
 
     # King "That would still make an interesting headline."
-    King "那也足够吸睛了。"
+    King "那这个事件也足够吸引眼球了。"
 
 # game/story/Chapter 1.rpy:233
 translate Schinese name_input_a86356e0:
 
     # p "A m-monster? I'm not qualified to deal with that."
-    p "怪-怪物？我可对应付不来怪物啊。"
+    p "怪-怪物？我可应付不来怪物啊。"
 
 # game/story/Chapter 1.rpy:234
 translate Schinese name_input_f9be2b98:
 
     # p "All I have is a high school certificate. What good is that against something out of Lovecraft's daydream?"
-    p "我全身上下只有一张高中毕业证，洛夫克拉夫特的白日梦什么的，还是饶了我吧。"
+    p "我全身上下只有一张高中毕业证，要我去面对像{rb}洛夫克拉夫特{/rb}{rt}克苏鲁神话体系创造者{/rt}作品里一样的怪物？还是饶了我吧。"
 
 # game/story/Chapter 1.rpy:235
 translate Schinese name_input_8359fedf:
 
     # King "Alright, I hear you. It's scary knowing there's a possible monster out there, but if no one finds out, what will happen?"
-    King "我明白，但那可能是一头怪物啊，放任不管的话，后果不堪设想。"
+    King "我懂我懂，但那可是一头怪物啊，如果就此放任不管的话，后果不堪设想。"
 
 # game/story/Chapter 1.rpy:236
 translate Schinese name_input_d02635ba:
@@ -866,19 +867,19 @@ translate Schinese name_input_d02635ba:
 translate Schinese name_input_6d3aee26:
 
     # p "Fine... I better get a freaking scholarship if I make it out alive."
-    p "行吧...要是大难不死，我非得管学校要一份怪异奖学金不可。"
+    p "行吧...要是大难不死，我非得管学校要一份奇异怪闻奖学金不可。"
 
 # game/story/Chapter 1.rpy:239
 translate Schinese name_input_6f15cbae:
 
     # King "So, find out what that thing is and report back to me. Feel free to ask around for more information, it'll help sell the story better."
-    King "那么，找出那东西的真身，并向我报告。还有多问问周围的人，这有助于新闻的包装。"
+    King "那就这么定了，你去找出那东西的真身，并向我报告。还有多问问周围的人，有了真人证词会让我们的新闻大卖的。"
 
 # game/story/Chapter 1.rpy:240
 translate Schinese name_input_1d5df641:
 
     # p "What guarantee do I have that anyone will talk to me?"
-    p "他们会搭理我吗？"
+    p "你觉得他们会搭理我吗？"
 
 # game/story/Chapter 1.rpy:241
 translate Schinese name_input_6face7cc:
@@ -890,7 +891,7 @@ translate Schinese name_input_6face7cc:
 translate Schinese name_input_4724f115:
 
     # "My jaw drops."
-    "我的下巴都惊掉了。"
+    "他的回答完全出乎我的意料之外，惊到我下巴都要掉了下来。"
 
 # game/story/Chapter 1.rpy:243
 translate Schinese name_input_473394c3:
@@ -902,13 +903,13 @@ translate Schinese name_input_473394c3:
 translate Schinese name_input_f78b7a28:
 
     # p "I suppose I can try."
-    p "我可以试试。"
+    p "我大概...可以试试。"
 
 # game/story/Chapter 1.rpy:245
 translate Schinese name_input_82cbc5ac:
 
     # King "Before I forget, this is for you."
-    King "趁我还没有忘，这个给你。"
+    King "哦对了，趁我还没忘，这个给你。"
 
 # game/story/Chapter 1.rpy:246
 translate Schinese name_input_ba860d09:
@@ -926,7 +927,7 @@ translate Schinese name_input_78c5431e:
 translate Schinese name_input_8ebf0e56:
 
     # King "It's the bio lab key. You'll need it to get inside."
-    King "是生物实验室的钥匙，没它你可进不去。"
+    King "是生物实验室的钥匙，没它你可进不了实验室。"
 
 # game/story/Chapter 1.rpy:249
 translate Schinese name_input_2ae4c26b:
@@ -944,13 +945,13 @@ translate Schinese name_input_5241a9e4:
 translate Schinese name_input_9aab92d2:
 
     # p "I'll guard it with my life."
-    p "我会用我的生命守护它。"
+    p "我会誓死守护它，直至我的生命终结之时。"
 
 # game/story/Chapter 1.rpy:252
 translate Schinese name_input_9c5477cc:
 
     # King "That's the spirit. Now let's discuss club uniform designs! I'm thinking bold pink!"
-    King "就是这股精神。现在我们来讨论社团的制服设计吧！我想要加入大胆的粉红色!"
+    King "就是这股精神。现在我们来讨论社团的制服设计吧！我想要樱花粉制服!"
 
 # game/story/Chapter 1.rpy:256
 translate Schinese name_input_9001124b:
@@ -962,19 +963,19 @@ translate Schinese name_input_9001124b:
 translate Schinese name_input_9456a7e0:
 
     # King "Hey, we should probably head off if we're planning to make it on the last few buses back to town."
-    King "我们该走了，不然会错过去镇上的末班车的。"
+    King "我们该走了，不然会错过回镇上的末班车的。"
 
 # game/story/Chapter 1.rpy:259
 translate Schinese name_input_cd559e30:
 
     # p "Bus to town? Oh, I just live here in the dorms."
-    p "去镇上的末班车？噢，我住在宿舍里。"
+    p "回镇上的末班车？噢，可是我住宿舍里欸。"
 
 # game/story/Chapter 1.rpy:260
 translate Schinese name_input_79e36ec3:
 
     # King "Really? I'll come with, it'll be a good chance for me to snap pictures for my English class essay, “The Stranger in the Kibbleton Dorms!”"
-    King "真的吗？我也要去，这是我为英语作业：‘基布尔顿宿舍里的陌生人’拍照的好机会！"
+    King "真的吗？那我也要去，这是我为英语作业：“基布尔顿宿舍里的陌生人”搜集素材的好机会！"
 
 # game/story/Chapter 1.rpy:261
 translate Schinese name_input_677370ee:
@@ -998,13 +999,13 @@ translate Schinese name_input_62d52388:
 translate Schinese name_input_b9e040a1:
 
     # p "So, \"The Stranger in the Kibbleton Dorms\", what's that about? Fiction? Non-fiction?"
-    p "话说，‘基布尔顿宿舍里的陌生人’是什么？小说？非小说？"
+    p "话说，“基布尔顿宿舍里的陌生人”是什么？是小说吗？"
 
 # game/story/Chapter 1.rpy:272
 translate Schinese name_input_5b94ff37:
 
     # King "It's a romance story, a “will they or won't they” piece inspired by the notorious sexcapades in the Kibbleton Dorms. With possible hot scenes that borderline on the erotic."
-    King "一个讲爱恨离合的浪漫故事，灵感取材于基布尔顿宿舍臭名昭著的性爱事故，预计会有擦边描写。"
+    King "是一个讲述爱情的故事，灵感取材自基布尔顿大学宿舍内臭名昭著的性爱事故，预计会有擦边描写。"
 
 # game/story/Chapter 1.rpy:273
 translate Schinese name_input_a7173a6b:
@@ -1022,43 +1023,43 @@ translate Schinese name_input_3cdb2ecb:
 translate Schinese name_input_a14f1233:
 
     # King "Well well, I can see you're new here. You found it hard to get a dorm room, yeah? That's all because the dorm is famous for students getting it on with one another."
-    King "果然是新来的。你有没有发现宿舍很难找？那是由于寝室里的学生以亲密的关系而出名。"
+    King "果然是新来的。你有没有发现入校时宿舍很抢手？那是由于寝室里的学生关系都非常“要好”。"
 
 # game/story/Chapter 1.rpy:276
 translate Schinese name_input_d3adb7b0:
 
     # p "What? Is there like a gas leak that makes everyone horny or something?"
-    p "哈？是煤气泄露，导致大家欲火焚身还是怎么样？"
+    p "哈？是宿舍里有燃气泄露，导致大家都欲火焚身还是怎么样？"
 
 # game/story/Chapter 1.rpy:277
 translate Schinese name_input_498ebb8f:
 
     # King "Some say it's the atmosphere— well that and university students being horny by default."
-    King "有人说这是氛围的问题，大学生是天生的色胚。"
+    King "有些人觉得这可能是宿舍环境影响的，毕竟你懂的，大学生们都是色胚。"
 
 # game/story/Chapter 1.rpy:278
 translate Schinese name_input_b985d1ab:
 
     # King "Back to my story, it's gonna be about a new student in the dorms trying to resist his blossoming feelings towards his other male roommates."
-    King "回到正题，我的故事主要描写了一个新进宿舍的学生试图压抑自己对另一名男室友的感情。"
+    King "回到正题，我的故事主要描写了一个新进宿舍的大学生难以抑制自己对另一名男室友的倾慕之情，但是平日里又得竭力忍住不让他发现。"
 
 # game/story/Chapter 1.rpy:279
 translate Schinese name_input_4ae17630:
 
     # p "Oh... that's steamy."
-    p "...好色哦。"
+    p "噢...听上去好色哦。"
 
 # game/story/Chapter 1.rpy:280
 translate Schinese name_input_7f75a2bf:
 
     # King "It's PG-13, but you'll bet it'll knock the professor's socks off."
-    King "我会写成PG-13级的。我敢打赌，教授一定会大吃一惊。"
+    King "我会写成青少年也能看的版本的。我敢打赌，教授一定会大吃一惊。"
 
 # game/story/Chapter 1.rpy:282
 translate Schinese name_input_88d7db90:
 
     # King "I'll show it to you after I'm done."
-    King "我写完后再给你看。"
+    King "等我写完后拿给你看。"
 
 # game/story/Chapter 1.rpy:285
 translate Schinese name_input_3daed782:
@@ -1076,13 +1077,13 @@ translate Schinese name_input_2fe6292f:
 translate Schinese name_input_0335801e:
 
     # King "Alright, your loss."
-    King "好吧，别后悔哦。"
+    King "那你可别后悔哦。"
 
 # game/story/Chapter 1.rpy:290
 translate Schinese name_input_132ab332:
 
     # "We quietly walk to the dorms."
-    "我们静静地走着。"
+    "我们慢悠悠地走向宿舍。"
 
 # game/story/Chapter 1.rpy:291
 translate Schinese name_input_54a3068b:
@@ -1112,13 +1113,13 @@ translate Schinese name_input_6349f65f:
 translate Schinese name_input_b049e1ec:
 
     # "We arrive at the gate to the dorms. The sleek electronic gate is just for show. It hasn't worked any day I've come here."
-    "我们来到宿舍楼下。那扇时髦的电子门只是个摆设，起码我直到现在都没见它工作过。"
+    "我们来到宿舍楼下。那扇时髦的电子门只是个摆设，起码我直到现在都没见它通过电。"
 
 # game/story/Chapter 1.rpy:303
 translate Schinese name_input_8d6a57ff:
 
     # "On the gate's surface, there are numerous scribbles of people's names, messages of love, and promises to be together with one another."
-    "门上有不少涂鸦：人们的名字、爱的悄悄话，以及彼此相守的誓言。"
+    "门上有不少涂鸦：人们的名字、告白留言，以及彼此相守的誓言。"
 
 # game/story/Chapter 1.rpy:304
 translate Schinese name_input_a09377c8:
@@ -1136,13 +1137,13 @@ translate Schinese name_input_3b420927:
 translate Schinese name_input_afabf8cb:
 
     # "His paw reaches for his pompadour and he pulls out a phone, snapping a picture of the name."
-    "他把手伸进他的蓬蓬头，拿出一部手机，为这个名字拍了张照片。"
+    "他把手伸进他的{rb}蓬巴杜{/rb}{rt}一种发型{/rt}里，拿出一部手机，为这个名字拍了张照片。"
 
 # game/story/Chapter 1.rpy:312
 translate Schinese name_input_efce9982:
 
     # "The instance he turns to me, I look away. Got to remember it's rude to stare."
-    "然后他把头转向我，我连忙移开视线，因为盯着人看是不礼貌的。"
+    "然后他把头转向我，我连忙移开视线，感觉偷看这个不太好。"
 
 # game/story/Chapter 1.rpy:317
 translate Schinese name_input_abb72dd2:
@@ -1166,13 +1167,13 @@ translate Schinese name_input_6a20a80d:
 translate Schinese name_input_85f56acc:
 
     # King "Everyone knows it as the Promise Gate. Usually those in love would write each of their names here as a promise they would love each other."
-    King "这是很有名的‘誓言之门’。情侣们会在上面写下他们各自的名字，作为他们相爱的承诺。"
+    King "这是很有名的“誓言之门”。情侣们会在上面写下他们各自的名字，作为他们相爱的承诺。"
 
 # game/story/Chapter 1.rpy:323
 translate Schinese name_input_ed4368d0:
 
     # King "The gate got popular after two graduates wrote their names here, met again after five years, and finally got married."
-    King "曾经有两名毕业生在这里写下了名字，他们于五年后再次相遇，并最终结为连理。自那以后，这扇门就成为了流行。"
+    King "曾经有两名毕业生在这里写下了名字，他们于五年后再次相遇，并最终结为连理。自那以后，这扇门就成为了变成了情侣们的许愿圣地。"
 
 # game/story/Chapter 1.rpy:324
 translate Schinese name_input_d1358a92:
@@ -1220,13 +1221,13 @@ translate Schinese name_input_e4ffc59d:
 translate Schinese name_input_a321c894:
 
     # King "Oh, should we take a selfie to commemorate our first club meeting?"
-    King "噢，我们要不要自拍一张，来纪念第一次社团聚会？"
+    King "噢，我们要不要来拍一张，就当纪念下第一次社团聚会？"
 
 # game/story/Chapter 1.rpy:335
 translate Schinese name_input_ad6b8b76:
 
     # p "Sure, why not?"
-    p "当然好啊。"
+    p "好啊。"
 
 # game/story/Chapter 1.rpy:337
 translate Schinese name_input_964a89ab:
@@ -1238,7 +1239,7 @@ translate Schinese name_input_964a89ab:
 translate Schinese name_input_dfd85edf:
 
     # "Pressing up against his thick fleece feels soft like cashmere."
-    "我靠在他厚厚的羊毛上，感觉就像绒一样柔软。"
+    "我靠在他厚厚的羊毛上，感觉就像天鹅绒一样柔软。"
 
 # game/story/Chapter 1.rpy:340
 translate Schinese name_input_85c0c2c0:
@@ -1274,13 +1275,13 @@ translate Schinese name_input_08e0c793:
 translate Schinese name_input_b26acca2:
 
     # p "Oh, right. Let me add you on PawChat. What's your username?"
-    p "对了，我还没有你的爪信好友，你的id是什么？"
+    p "对了，我还没有你的爪信好友，来扫个码？"
 
 # game/story/Chapter 1.rpy:352
 translate Schinese name_input_79535fc1:
 
     # "We exchange contacts and he instantly sends over the selfie."
-    "我们交换了联系方式，他立刻就把自拍发了过来。"
+    "我们交换了联系方式，他立刻就把合照发了过来。"
 
 # game/story/Chapter 1.rpy:353
 translate Schinese name_input_ec91a2ec:
@@ -1298,13 +1299,13 @@ translate Schinese name_input_b52a25ad:
 translate Schinese name_input_4d250df9:
 
     # King "Good luck hug for tomorrow. I wish I could be there, but my parents watch me like a hawk on weekends."
-    King "这是祝你好运的抱抱。真希望我能跟你一起调查，但一到周末，我爸妈就像长了鹰眼似的盯着我不放。"
+    King "这是能给你带来好运的抱抱。我本想跟你一起调查，但一到周末，我爸妈就像长了鹰眼似的盯着我不放。"
 
 # game/story/Chapter 1.rpy:356
 translate Schinese name_input_91f0df1d:
 
     # King "Don't die, ok? Or worse, get caught."
-    King "千万别死啊？更不要被抓。"
+    King "小心点，别死啊（？更不要被抓。"
 
 # game/story/Chapter 1.rpy:357
 translate Schinese name_input_2c3b8a69:
@@ -1316,7 +1317,7 @@ translate Schinese name_input_2c3b8a69:
 translate Schinese name_input_64933d82:
 
     # "King breaks the hug, his cheeks are rosy red from all the smiling. With that, we part ways."
-    "King松开了我，他的脸颊因微笑而变得红润。就此，我们分开了。"
+    "King松开了我，他的笑脸红彤彤的，我们就此告别。"
 
 # game/story/Chapter 1.rpy:362
 translate Schinese name_input_55df3a0d:
@@ -1352,13 +1353,13 @@ translate Schinese name_input_8fab423e:
 translate Schinese chapter_1_DORM_2c750d84:
 
     # "I enter the shared living room. Someone's left their sleeveless t-shirt with the word DEAD on the sofa."
-    "我走进共用的客厅，沙发上落着一件写有{b}死{/b}字的无袖T恤。"
+    "我走进宿舍的公用客厅，沙发上放着某人留下的一件胸口写有“死”字的无袖T恤。"
 
 # game/story/Chapter 1.rpy:372
 translate Schinese chapter_1_DORM_d5c4b86d:
 
     # p "Hmm, I wonder if my non-existent housemates are home."
-    p "嗯，不知道我那些不存在的室友是不是回家了。"
+    p "嗯，不知道我那些幽灵室友是不是回来了。"
 
 # game/story/Chapter 1.rpy:373
 translate Schinese chapter_1_DORM_71ab8ac2:
@@ -1376,13 +1377,13 @@ translate Schinese chapter_1_DORM_45e66748:
 translate Schinese chapter_1_DORM_17e04c45:
 
     # "The door next to mine has a video game character sticker on it. It's the main villain “The Overlord” from that MMO, Divine Destiny 14."
-    "隔壁的门上贴着一张海报，是MMO游戏：神圣使命14中的大反派‘霸王’。"
+    "隔壁的门上贴着一张海报，是MMO游戏：神圣使命XIV中的大反派“冥界领主”。"
 
 # game/story/Chapter 1.rpy:376
 translate Schinese chapter_1_DORM_236429e7:
 
     # "Across from that room is a door that has rock music playing softly from behind it."
-    "对面的门则小声播放着摇滚乐。"
+    "能略微听到对面的门后播放着摇滚乐。"
 
 # game/story/Chapter 1.rpy:377
 translate Schinese chapter_1_DORM_adbd0d45:
@@ -1394,19 +1395,19 @@ translate Schinese chapter_1_DORM_adbd0d45:
 translate Schinese chapter_1_DORM_e2748441:
 
     # "Opening the door, I'm greeted by the single bed and small desk included in the room."
-    "迎接我的是单人床和小桌子。"
+    "打开门后，我的面前是一个单人床和一张小桌子。"
 
 # game/story/Chapter 1.rpy:385
 translate Schinese chapter_1_DORM_dbf56adf:
 
     # "One of the reasons why I have the furthest room is because it's the smallest, and most importantly the cheapest."
-    "我之所以选择最远的房间，不只是因为它最小，更因为它最便宜。"
+    "我的房间是寝室里最深处的房间，选它的理由无非是因为最小，还最便宜。"
 
 # game/story/Chapter 1.rpy:386
 translate Schinese chapter_1_DORM_a4e94a37:
 
     # "I drop my bag to the side and consider what I want to do for the rest of the day."
-    "我把包扔到一边，考虑今天还要做些做什么。"
+    "我把包扔到一边，考虑着今天还要做些做什么。"
 
 # game/story/Chapter 1.rpy:389
 translate Schinese chapter_1_DORM_7eaf886c:
@@ -1424,19 +1425,19 @@ translate Schinese chapter_1_DORM_294a488d:
 translate Schinese chapter_1_DORM_7e7fcf6c:
 
     # "The book we're asked to read about is a new sci-fi novel by the title “I was Reincarnated into a Space Station as an Alien's Pet and I Need to Run an Alien Pet Shop Being Attacked by my Ex-Girlfriend”."
-    "这是一本名为《在空间站转生的我成为了外星人的宠物，竟还要替被前女友袭击的宠物店善后》的科幻小说。"
+    "这是一本名为《异世界转生之关于我转生成为外星人的宠物，在外星空间站开了间外星宠物店却被前女友袭击的那些事》的科幻小说。"
 
 # game/story/Chapter 1.rpy:392
 translate Schinese chapter_1_DORM_39aa8d83:
 
     # "I swear the titles for these novels are getting insanely long and convoluted."
-    "现代小说的标题真是肉眼可见的变长、变复杂了。"
+    "现在的小说标题真是变得越来越长了。"
 
 # game/story/Chapter 1.rpy:393
 translate Schinese chapter_1_DORM_19ad43b7:
 
     # "The English used here is so old, it's hard to pronounce some of these words. I end up trying to get the jist of it by replacing them with some kind of gibberish."
-    "这本书使用了相当古老的英文，有些单词连发音都很困难。我不得不依靠臆想，好理解这本书的内容。"
+    "这本书使用了相当古老的英文，有些单词连发音都很困难。有些地方我不得不连蒙带猜才能理解个大概。"
 
 # game/story/Chapter 1.rpy:394
 translate Schinese chapter_1_DORM_98053b05:
@@ -1460,7 +1461,7 @@ translate Schinese chapter_1_DORM_d7dc0171:
 translate Schinese chapter_1_DORM_5ecf062f:
 
     # "My night ends with an hour of DD 14... Which turns into eight hours against my will, or lack thereof."
-    "夜晚在一个小时，不...八个小时的DD14中过去了，我真是个缺乏意志力的男人啊。"
+    "晚上的时间在一个小时，不...八个小时的神圣使命XIV中过去了，我真是个缺乏意志力的男人啊。"
 
 # game/story/Chapter 1.rpy:400
 translate Schinese chapter_1_DORM_4a34377b:
@@ -1496,19 +1497,19 @@ translate Schinese chapter_1_MORNING_2630b194:
 translate Schinese chapter_1_MORNING_ce1724dc:
 
     # "Knock. Knock."
-    "咚咚。"
+    "咚咚咚。"
 
 # game/story/Chapter 1.rpy:418
 translate Schinese chapter_1_MORNING_59381427:
 
     # p "Mmm..."
-    p "嘶..."
+    p "嗯唔..."
 
 # game/story/Chapter 1.rpy:420
 translate Schinese chapter_1_MORNING_ce1724dc_1:
 
     # "Knock. Knock."
-    "咚咚。"
+    "咚咚咚。"
 
 # game/story/Chapter 1.rpy:421
 translate Schinese chapter_1_MORNING_a1fd2389:
@@ -1520,25 +1521,25 @@ translate Schinese chapter_1_MORNING_a1fd2389:
 translate Schinese chapter_1_MORNING_ce1724dc_2:
 
     # "Knock. Knock."
-    "咚咚。"
+    "咚咚咚。"
 
 # game/story/Chapter 1.rpy:424
 translate Schinese chapter_1_MORNING_17293b20:
 
     # "I pull myself up from the bed. My erection swinging side to side like a dowsing rod looking for water."
-    "我从床上爬起来。我的老二左右摆动，就像一根寻找水源的探测棒。"
+    "我从床上爬起来。我的老二左右摆动，活像一根寻找水源的探测棒。"
 
 # game/story/Chapter 1.rpy:425
 translate Schinese chapter_1_MORNING_7523bcb7:
 
     # p "Hang on!"
-    p "稍等！"
+    p "等我一下！"
 
 # game/story/Chapter 1.rpy:426
 translate Schinese chapter_1_MORNING_1994f793:
 
     # "I take a minute to calm my lower half before answering the door."
-    "我花了一分钟时间平静下半身，然后才开门。"
+    "我花了一分钟时间平静下半身，然后打开门。"
 
 # game/story/Chapter 1.rpy:427
 translate Schinese chapter_1_MORNING_cf3e4fcd:
@@ -1562,13 +1563,13 @@ translate Schinese chapter_1_MORNING_d704a2d8:
 translate Schinese chapter_1_MORNING_66a1f20e:
 
     # "I take the box into my room and plop it on my bed."
-    "我抱起纸箱，扑通一声放在床上。"
+    "我抱起纸箱，扑通一声扔在床上。"
 
 # game/story/Chapter 1.rpy:431
 translate Schinese chapter_1_MORNING_1c005e25:
 
     # p "Well since I'm awake, I better get dressed before I do anything."
-    p "既然已经醒了，我不乏先收拾一下再说。"
+    p "既然已经醒了，还是先起床洗漱一下吧。"
 
 # game/story/Chapter 1.rpy:432
 translate Schinese chapter_1_MORNING_5381b076:
@@ -1586,25 +1587,25 @@ translate Schinese chapter_1_MORNING_00c15b4a:
 translate Schinese chapter_1_MORNING_c0124782:
 
     # "“Sunny Fruits, we're here to serve you with a smile!”"
-    "‘阳光便利店，我们将竭诚为您服务！’"
+    "“阳光便利店，每时每刻，我们都用阳光笑容待您！”"
 
 # game/story/Chapter 1.rpy:439
 translate Schinese chapter_1_MORNING_4e0ff8ad:
 
     # "As the TV plays, I take my shower. I have the place all to myself. The warm waters reinvigorate my limbs."
-    "伴随着电视声，我独自一人在浴室里洗漱，温暖的水流使我的四肢重焕生机。"
+    "伴随着电视声，我打开了淋浴喷头，温暖的水流让我的疲惫一扫而空，这是我一个人独享的悠闲时刻。"
 
 # game/story/Chapter 1.rpy:440
 translate Schinese chapter_1_MORNING_6269f7b4:
 
     # "While I bathe, my ears perk up at the sound of the bathroom door opening."
-    "就在这时，我捕捉到了浴室开门的声音。"
+    "然而就在这时，我听到了浴室门打开的声音。"
 
 # game/story/Chapter 1.rpy:441
 translate Schinese chapter_1_MORNING_3846398d:
 
     # K "I've got to hurry! Got to hurry." (name=_("Stranger{#speakingName}"))
-    K "我得赶快！赶快。" (name=_("Stranger{#speakingName}"))
+    K "快快快，再快点再快点。" (name=_("Stranger{#speakingName}"))
 
 # game/story/Chapter 1.rpy:442
 translate Schinese chapter_1_MORNING_610a830d:
@@ -1616,25 +1617,25 @@ translate Schinese chapter_1_MORNING_610a830d:
 translate Schinese chapter_1_MORNING_55826458:
 
     # "The sound of hurried footsteps echo throughout the bathroom. I can hear them turning on the tap faucet, water gushing into some kind of container before they run back out."
-    "匆忙的脚步声在浴室中回荡，我能听到他打开水龙头，并往容器里灌水的动静。"
+    "匆忙的脚步声在浴室中回荡，我能听到他急匆匆打开水龙头，并往水桶里接水的声音。"
 
 # game/story/Chapter 1.rpy:445
 translate Schinese chapter_1_MORNING_12d7eeef:
 
     # p "Huh, wonder what's got that person in a hurry."
-    p "呼，也不知道那个人为什么这么急。"
+    p "呼，那老哥还挺急的，也不知道是什么急事。"
 
 # game/story/Chapter 1.rpy:448
 translate Schinese chapter_1_MORNING_45ec4140:
 
     # "I spend a few more minutes in the shower before heading back to my room."
-    "在回房间之前，我又洗了几分钟的澡。"
+    "我又接着洗了几分钟的澡，随后回到房间。"
 
 # game/story/Chapter 1.rpy:449
 translate Schinese chapter_1_MORNING_4a79cc8a:
 
     # "Inside, I take a closer look at the box."
-    "在那之后，我仔细检查了纸箱。"
+    "回来之后，我凑近看了看纸箱。"
 
 # game/story/Chapter 1.rpy:450
 translate Schinese chapter_1_MORNING_fb731ac4:
@@ -1646,13 +1647,13 @@ translate Schinese chapter_1_MORNING_fb731ac4:
 translate Schinese chapter_1_MORNING_2b69cd0e:
 
     # p "One of the housemates must have grabbed this from the postman and thought it was my mail. We really need to meet or something."
-    p "一定是某个舍友从快递小哥那里得来的，他多半以为收件人是我。我们真的需要见个面之类的了。"
+    p "一定是某个舍友从快递小哥那里拿来的，他多半以为收件人是我。我们真的需要见个面熟悉一下之类的了。"
 
 # game/story/Chapter 1.rpy:452
 translate Schinese chapter_1_MORNING_83e20970:
 
     # p "I better return this to the owner."
-    p "我最好把它还给失主。"
+    p "我最好把它还给Kobu。"
 
 # game/story/Chapter 1.rpy:453
 translate Schinese chapter_1_MORNING_89e6ef65:
@@ -1664,7 +1665,7 @@ translate Schinese chapter_1_MORNING_89e6ef65:
 translate Schinese chapter_1_MORNING_4994e80f:
 
     # p "Now where is Kobu?"
-    p "那么，Kobu在哪呢？"
+    p "问题来了，Kobu住哪呢？"
 
 # game/story/Chapter 1.rpy:459
 translate Schinese ch1_knock_37bc1784:
@@ -1682,19 +1683,19 @@ translate Schinese ch1_knock_f8737811:
 translate Schinese ch1_knock_474ce78c:
 
     # p "Hello? This is [name], umm, I have a misplaced package, just wondering if it's yours."
-    p "你好？我是[name]，呃，这里有个送错了的包裹，不知道是不是你的。"
+    p "你好？我是[name]，这里有个送错了的包裹，不知道是不是你的？"
 
 # game/story/Chapter 1.rpy:462
 translate Schinese ch1_knock_3512255f:
 
     # "No answer."
-    "没有回答。"
+    "没有回应。"
 
 # game/story/Chapter 1.rpy:463
 translate Schinese ch1_knock_ded73513:
 
     # p "Hmm, maybe they're out."
-    p "也许他出去了。"
+    p "唔，看来里面没人。"
 
 # game/story/Chapter 1.rpy:467
 translate Schinese ch1_knock_2d1c6d88:
@@ -1706,13 +1707,13 @@ translate Schinese ch1_knock_2d1c6d88:
 translate Schinese ch1_knock_b7ed53dd:
 
     # K "Who is it?" (name=_("Stranger{#speakingName}"))
-    K "谁在外面？" (name=_("Stranger{#speakingName}"))
+    K "是谁？" (name=_("Stranger{#speakingName}"))
 
 # game/story/Chapter 1.rpy:469
 translate Schinese ch1_knock_f35122fe:
 
     # "The male voice behind the door sounded frantic like I caught them in the act of a crime."
-    "门后的声音听起来很慌张，好像我抓到他在犯罪一样。"
+    "门后的声音听起来很慌张，就好像他正在做某些见不得人的事一样。"
 
 # game/story/Chapter 1.rpy:470
 translate Schinese ch1_knock_d3273bf4:
@@ -1724,7 +1725,7 @@ translate Schinese ch1_knock_d3273bf4:
 translate Schinese ch1_knock_b3572b74:
 
     # K "Yeah, yeah, just come in. It's not locked."
-    K "对，是我，请进吧，门没锁。"
+    K "是我，进来吧，门没锁。"
 
 # game/story/Chapter 1.rpy:475
 translate Schinese ch1_knock_2c1b89d9:
@@ -1736,7 +1737,7 @@ translate Schinese ch1_knock_2c1b89d9:
 translate Schinese ch1_knock_a31726a6:
 
     # "I push my weight against the door, it creaks open. For some reason the room is dark, the only source of light is coming from the floor in front of me."
-    "我用力一推，门吱呀一声开了。不知为何，房间里格外昏暗，唯一的光来自我面前的地板。"
+    "我用力一推，门吱呀一声开了。不知为何，房间里格外昏暗，唯一的光源只有我面前的地板。"
 
 # game/story/Chapter 1.rpy:477
 translate Schinese ch1_knock_5b43040e:
@@ -1748,13 +1749,13 @@ translate Schinese ch1_knock_5b43040e:
 translate Schinese ch1_knock_09cf59f2:
 
     # "There's a brown wolf on his knees holding his hands together in prayer."
-    "一只棕色的狼正跪在地上，双手合十作祈祷状。"
+    "一只棕狼正跪在地上，双手合十作祈祷状。"
 
 # game/story/Chapter 1.rpy:482
 translate Schinese ch1_knock_c56a49f0:
 
     # "He's built some kind of glowing red pentagram. There are four idols laid around at each point of the pentagram, in the middle is a plastic basin of water."
-    "他画了一个发光的红色五芒星，并在每个角都放置了四尊神像，中间则是满满一桶水。"
+    "他画了一个发光的猩红色五芒星，并在每个角都放置了四尊雕像，中间则是满满一桶暗红色液体。"
 
 # game/story/Chapter 1.rpy:483
 translate Schinese ch1_knock_4683e3ae:
@@ -1772,7 +1773,7 @@ translate Schinese ch1_knock_1cbc7563:
 translate Schinese ch1_knock_0e4eea42:
 
     # p "What's going on here?"
-    p "这是闹哪样？"
+    p "这是什么邪教仪式吗？"
 
 # game/story/Chapter 1.rpy:494
 translate Schinese ch1_knock_751ac6f1:
@@ -1784,7 +1785,7 @@ translate Schinese ch1_knock_751ac6f1:
 translate Schinese ch1_knock_98990806:
 
     # "The wolf turns. His wide frame rises, forcing me to crane my neck just to keep eye contact."
-    "狼转过身。他的身躯之高大，使我不得不抬起头才能与他对视。"
+    "狼转过身。他的身躯之高大，使得我不得不抬起头才能看到他的脸。"
 
 # game/story/Chapter 1.rpy:498
 translate Schinese ch1_knock_12dd12b0:
@@ -1796,19 +1797,19 @@ translate Schinese ch1_knock_12dd12b0:
 translate Schinese ch1_knock_3b5feaa0:
 
     # "His arms are mountainous, each bicep is as large as my head."
-    "他的胳膊像树一样粗壮，每块二头肌都有不亚于我脑袋的大小。"
+    "他的胳膊像山一样壮实，每块二头肌都有不亚于我脑袋的大小。"
 
 # game/story/Chapter 1.rpy:500
 translate Schinese ch1_knock_b98a379f:
 
     # "My jaw drops, his broad chest juts out of the neckline of his tank top, giving me a full view of the dude's nipples."
-    "背心也包裹不住那厚实的胸肌，我瞠目结舌地望着这哥们暴露无遗的乳头。"
+    "背心难以包裹住他那粗壮的胸肌，我瞠目结舌地望着这哥们暴露无遗的乳头。"
 
 # game/story/Chapter 1.rpy:501
 translate Schinese ch1_knock_76054648:
 
     # "I force myself to avert my gaze, looking up to see his surprised face."
-    "我强迫自己转移视线，转而看向他惊讶的脸。"
+    "我强迫自己转移视线，看向他的脸，发现他正满脸惊讶的看着我。"
 
 # game/story/Chapter 1.rpy:502
 translate Schinese ch1_knock_972a447e:
@@ -1820,7 +1821,7 @@ translate Schinese ch1_knock_972a447e:
 translate Schinese ch1_knock_e0dfeb60:
 
     # p "Don't “what?” me! This is super suspicious, are you summoning a demon?"
-    p "什么叫‘怎么了’！这也太可疑了吧，你要召唤恶魔吗？"
+    p "什么叫“怎么了”！这也太可疑了吧，你这是要召唤恶魔吗？"
 
 # game/story/Chapter 1.rpy:504
 translate Schinese ch1_knock_553322fa:
@@ -1832,7 +1833,7 @@ translate Schinese ch1_knock_553322fa:
 translate Schinese ch1_knock_c9a750d7:
 
     # "He runs over to the wall and flicks on the lights."
-    "他跑到墙边，打开灯。"
+    "他走到墙边，打开了灯。"
 
 # game/story/Chapter 1.rpy:507
 translate Schinese ch1_knock_18347f4f:
@@ -1844,50 +1845,50 @@ translate Schinese ch1_knock_18347f4f:
 translate Schinese ch1_knock_7f245d0d:
 
     # p "Ga-cha?"
-    p "抽-卡"
+    p "抽...卡？"
 
 # game/story/Chapter 1.rpy:509
 translate Schinese ch1_knock_ec60d1a1:
 
     # "Looking back at the pentagram, it's made up of glowsticks, and the idols are just anime girl figurines."
-    "回顾五芒星，它由荧光棒组成，神像也不过是动漫少女的玩偶。"
+    "回望五芒星，原来是用荧光棒做的，雕像也不过是动漫少女的手办。"
 
 # game/story/Chapter 1.rpy:510
 translate Schinese ch1_knock_e28bb45f:
 
     # p "I'm confused."
-    p "还是不懂。"
+    p "还是搞不懂你在干啥。"
 
 # game/story/Chapter 1.rpy:511
 translate Schinese ch1_knock_21903905:
 
     # K @ sad "It's just something I saw online. See, I'm playing this mobile game."
-    K @ sad "我在网上找到的这个方法。看，这是我正在玩的手机游戏。"
+    K @ sad "贴吧老哥教我的这个方法。看，这是我正在玩的手机游戏。"
 
 # game/story/Chapter 1.rpy:512
 translate Schinese ch1_knock_1a290571:
 
     # "He pulls out a black phone from his pocket and opens an app."
-    "他从口袋里掏出一部黑色手机，打开了一个应用程序。"
+    "他掏出一部黑色手机，打开某款游戏。"
 
 # game/story/Chapter 1.rpy:513
 translate Schinese ch1_knock_e6e43beb:
 
     # "“Emberlion Boyfriends EX.”"
-    "“放课后的神绊导师在live上竟是另一种姿态。”"
+    "《放课后的神绊导师在live上竟是另一种姿态》"
     p "“好长的游戏名。”你不由得感叹道。"
 
 # game/story/Chapter 1.rpy:514
 translate Schinese ch1_knock_3a95778f:
 
     # p "What does that have to do with that summoning circle?"
-    p "这和那个召唤阵有什么关系？"
+    p "所以这和那个邪教仪式有什么关系？"
 
 # game/story/Chapter 1.rpy:515
 translate Schinese ch1_knock_2537fd6d:
 
     # K "I've only got enough gems for eleven pulls, I really need that new unit. So, I'm praying to the RNG gods."
-    K "我真的好像要那张新出的老公，可我的宝石只够抽十一次。于是，我决定向随机数之神祈祷。"
+    K "我真的很想要那张新出的强力卡，可我的宝石只够抽十一次。于是，我决定向随机数之神祈祷。"
 
 # game/story/Chapter 1.rpy:516
 translate Schinese ch1_knock_b92b9b7e:
@@ -1899,7 +1900,7 @@ translate Schinese ch1_knock_b92b9b7e:
 translate Schinese ch1_knock_1ea26921:
 
     # "Kobu's phone alarm goes off."
-    "Kobu的手机闹铃响了。"
+    "突然，Kobu的手机闹铃响了起来。"
 
 # game/story/Chapter 1.rpy:518
 translate Schinese ch1_knock_51971266:
@@ -1917,13 +1918,13 @@ translate Schinese ch1_knock_b3dfbe0c:
 translate Schinese ch1_knock_8cab72b8:
 
     # "His index finger slams the phone's surface with enough force I swear I hear it crack."
-    "他的食指重重按了下去，我发誓听到了屏幕的悲鸣。"
+    "他的食指重重按了下去，我发誓我听到了屏幕的悲鸣。"
 
 # game/story/Chapter 1.rpy:521
 translate Schinese ch1_knock_de39659e:
 
     # "From where I stand, I have a clear view of his screen. As every card is flipped over, Kobu's smile deteriorates, until..."
-    "从我所站的位置可以清楚地看到游戏画面，卡片一张张翻转，Kobu的笑容也越来越僵硬，直到..."
+    "从我所站的位置可以清楚地看到游戏画面，卡片一张张翻转，Kobu的笑容也越来越僵硬..."
 
 # game/story/Chapter 1.rpy:523
 translate Schinese ch1_knock_fafb47e4:
@@ -1935,13 +1936,13 @@ translate Schinese ch1_knock_fafb47e4:
 translate Schinese ch1_knock_09d18b90:
 
     # K sad "Ha...Ha...Nothing... not even a four star."
-    K sad "哈...哈...蓝天白云...连张四星都没有。"
+    K sad "哈...哈...全是蓝天白云...连张四星都没有。"
 
 # game/story/Chapter 1.rpy:530
 translate Schinese ch1_knock_05117478:
 
     # K "HGNH!"
-    K "{b}为什么！{/b}"
+    K "{sc}{size=+10}为什么！{/size}{/sc}"
 
 # game/story/Chapter 1.rpy:531
 translate Schinese ch1_knock_057f388a:
@@ -1977,7 +1978,7 @@ translate Schinese ch1_knock_031d9400:
 translate Schinese ch1_knock_d4d33ff1:
 
     # K "Yeah, I really needed that unit to remain relevant in the meta."
-    K "是啊，它可是版本答案啊。"
+    K "是啊，我真的好想抽到然后狠狠地发帖晒卡。"
 
 # game/story/Chapter 1.rpy:544
 translate Schinese ch1_knock_bfc55fe2:
@@ -1989,13 +1990,13 @@ translate Schinese ch1_knock_bfc55fe2:
 translate Schinese ch1_knock_b75a51e5:
 
     # K "Why try? It's not going to work, I haven't even reached the pity yet."
-    K "没用的，我离保底线还远呢。"
+    K "没用的，我离抽到保底还远着呢。"
 
 # game/story/Chapter 1.rpy:546
 translate Schinese ch1_knock_6bee5ead:
 
     # p "You never know for sure. I mean why stop here if you've come this far?"
-    p "不试试怎么知道？我的意思是，好歹撑到现在了，可不能在这里停下来啊。"
+    p "不试试怎么知道？我的意思是，好歹撑到现在了，不要停下来啊~~。"
 
 # game/story/Chapter 1.rpy:547
 translate Schinese ch1_knock_7e37b7be:
@@ -2031,7 +2032,7 @@ translate Schinese ch1_knock_42c0e268:
 translate Schinese ch1_knock_483d0790:
 
     # K sad "What's the point? I'm short one unit to stay relevant in this game."
-    K sad "有什么关系？反正我也没抽到这个游戏的版本答案。"
+    K sad "那又怎么样？反正我也没抽到这个游戏的版本答案。"
 
 # game/story/Chapter 1.rpy:558
 translate Schinese ch1_knock_03e006e4:
@@ -2055,13 +2056,13 @@ translate Schinese ch1_knock_84118c99:
 translate Schinese ch1_knock_b394ee69:
 
     # K "Why? I'm nowhere near hitting the pity."
-    K "为什么？我离保底线还远呢。"
+    K "为什么？我离抽到保底还远着呢。"
 
 # game/story/Chapter 1.rpy:562
 translate Schinese ch1_knock_daa5fb80:
 
     # p "Yeah, but you've come this far, you might as well just finish it. Then you could..."
-    p "但结果已经这样了，不如放手一搏。然后你..."
+    p "但结果已经这样了，不如抽完看看。然后你就能..."
 
 # game/story/Chapter 1.rpy:563
 translate Schinese ch1_knock_c8397b78:
@@ -2097,7 +2098,7 @@ translate Schinese ch1_knock_e8105931:
 translate Schinese ch1_knock_0058d539:
 
     # "He walks over to me. Close enough I can smell his morning musk. I wonder when he last showered."
-    "他凑近过来，近到我能闻见他的麝香味，有点好奇想他上次洗澡是什么时候。"
+    "他凑近过来，近到我能闻见他身上的麝香味，有点好奇他什么时候洗的澡。"
 
 # game/story/Chapter 1.rpy:575
 translate Schinese ch1_knock_be3c38c7:
@@ -2109,7 +2110,7 @@ translate Schinese ch1_knock_be3c38c7:
 translate Schinese ch1_knock_5f5612bc:
 
     # "A bright purple button with the words {b}Summon{/b} in bold letters shines back at me."
-    "一个上面用粗体字写着{b}召唤{/b}的紫色按钮正在闪闪发光。"
+    "上面写着{rainbow}召唤{/rainbow}的按钮正在闪闪发光。"
 
 # game/story/Chapter 1.rpy:577
 translate Schinese ch1_knock_ec11fc54:
@@ -2121,25 +2122,25 @@ translate Schinese ch1_knock_ec11fc54:
 translate Schinese ch1_knock_a2fac232:
 
     # "Kobu gasps. A card studded with diamonds appears on screen."
-    "屏幕上出现了一张镶满钻石的卡片。Kobu倒吸了一口气。"
+    "屏幕上出现了一张钻石卡。Kobu倒吸了一口气。"
 
 # game/story/Chapter 1.rpy:579
 translate Schinese ch1_knock_a2f0fc60:
 
     # "It glows white and transforms into the image of the character Kobu was praying to."
-    "卡片发出炫目的白光，接着变成了Kobu祈祷的那个角色。"
+    "卡片发出耀眼的彩虹色，接着变成了Kobu祈祷着想要抽到的那个角色。"
 
 # game/story/Chapter 1.rpy:599
 translate Schinese ch1_knock_83f39918:
 
     # K shocked "YESSSS!"
-    K shocked "{b}好耶————！{/b}"
+    K shocked "{sc}{size=+10}好耶————！{/size}{/sc}"
 
 # game/story/Chapter 1.rpy:606
 translate Schinese ch1_knock_84463e50:
 
     # "Kobu's hands reach under my armpits and I'm hoisted off the ground."
-    "Kobu把手伸到我的腋下，将我举到了半空中。"
+    "Kobu抱起我，把我举到了半空中。"
 
 # game/story/Chapter 1.rpy:609
 translate Schinese ch1_knock_949d87d3:
@@ -2157,43 +2158,44 @@ translate Schinese ch1_knock_f7af816e:
 translate Schinese ch1_knock_eb445be0:
 
     # "He swings me around like a ragdoll. His bright brown eyes shining as bright as the glow on his phone."
-    "他把我像个布娃娃一样甩来甩去，那双棕色的眼眸闪烁着和他的手机一样的光。"
+    "他把我像个玩偶一样甩来甩去，他那双棕色眼眸中闪烁的光芒和抽卡界面一样耀眼。"
 
 # game/story/Chapter 1.rpy:616
 translate Schinese ch1_knock_4915c35b:
 
     # "He spins me a couple more times and releases me like a Beyblade."
-    "他又举着我转了好几圈，接着像玩战斗陀螺似的松开。"
+    "他又举着我转了好几圈，接着像玩战斗陀螺似的把我丢出去。"
 
 # game/story/Chapter 1.rpy:622
 translate Schinese ch1_knock_4b0588b4:
 
     # "I crash on the bed as he grabs the phone midair and kisses it."
-    "我倒在了床上，他拿起手机亲了又亲。"
+    "我坠毁在了床上，他则拿起手机亲了又亲。"
 
 # game/story/Chapter 1.rpy:623
 translate Schinese ch1_knock_97548e46:
 
     # K "I'm still in the game. baby!"
-    K "这下我不用退游啦，亲爱的！"
+    K "这下我不用退游啦，芜湖！"
 
 # game/story/Chapter 1.rpy:627
 translate Schinese ch1_knock_421d2ca4:
 
     # "I groan as I stumble back up, thanking my lucky stars that I landed on the bed and not anything else."
-    "我一边哼哼，一边手脚并用地爬起来。感谢我的幸运星，幸好我倒在了床上，而不是别的什么地方。"
+    "我发出一阵呻吟，随后手脚并用地爬起来。额滴神啊，幸好我倒在了床上，而不是别的什么地方。"
 
 # game/story/Chapter 1.rpy:629
 translate Schinese ch1_knock_7b491f97:
 
     # K "And it's all thanks to you buddy. Oh, I know just the thing to repay you."
-    K "这都要感谢你，好哥们。噢，我知道该怎么报答你了。"
+    K "感谢你，好哥们。"
+    K "噢，我知道该怎么报答你了。"
 
 # game/story/Chapter 1.rpy:633
 translate Schinese ch1_knock_bd415352:
 
     # p "No, it's fine. I just pushed a button."
-    p "没关系，我就点了下按钮而已。"
+    p "别，别感谢我，我就点了下抽卡按钮而已。"
 
 # game/story/Chapter 1.rpy:634
 translate Schinese ch1_knock_e2e29da5:
@@ -2211,19 +2213,19 @@ translate Schinese ch1_knock_2b02cd46:
 translate Schinese ch1_knock_73cea265:
 
     # p "After that spin I'll take whatever you give and more."
-    p "经过刚才的旋转，我觉得你可以多报答我一点。"
+    p "算上刚才你转我那几下子，我觉得你应该多报答我一点。"
 
 # game/story/Chapter 1.rpy:641
 translate Schinese ch1_knock_6ce4b5b6:
 
     # "Kobu frowns."
-    "Kobu眉头紧皱。"
+    "Kobu皱了皱眉。"
 
 # game/story/Chapter 1.rpy:642
 translate Schinese ch1_knock_918a2f6b:
 
     # K "Give an inch, take a mile, huh."
-    K "哼，得寸进尺。"
+    K "哼，真是得寸进尺。"
 
 # game/story/Chapter 1.rpy:644
 translate Schinese ch1_knock_c8176230:
@@ -2235,13 +2237,13 @@ translate Schinese ch1_knock_c8176230:
 translate Schinese ch1_knock_3050634e:
 
     # "Kobu pulls out a few packets of sweets that have Chinese text on the labels."
-    "Kobu拿出几包标签上有中文的糖果。"
+    "Kobu拿出几包标签上有中文的零食。"
 
 # game/story/Chapter 1.rpy:652
 translate Schinese ch1_knock_2144d496:
 
     # K "Nice, I've been waiting for these bad boys for over a month."
-    K "太好了，我已经等这些‘坏小子’一个多月了。"
+    K "太好了，我已经等这些“坏孩子”们一个多月了。"
 
 # game/story/Chapter 1.rpy:653
 translate Schinese ch1_knock_12c89acf:
@@ -2259,7 +2261,7 @@ translate Schinese ch1_knock_3196b884:
 translate Schinese ch1_knock_f45d069f:
 
     # K "They're sweet and have a strong nutty flavour."
-    K "很甜，坚果味十足。"
+    K "很好吃，坚果口味的。"
 
 # game/story/Chapter 1.rpy:656
 translate Schinese ch1_knock_1ee331c4:
@@ -2289,13 +2291,13 @@ translate Schinese ch1_knock_850fb1e5:
 translate Schinese ch1_knock_1dab0db2:
 
     # "I open mine. The sweet is a rectangular bar that looks like many smaller nuts glued together."
-    "我也拆开自己的那份，里面有一根长方形的糖果，看起来像许多小坚果粘在一起。"
+    "我也拆开自己的那份，里面有一根长方形的坚果棒，上面镶嵌着许多果仁颗粒。"
 
 # game/story/Chapter 1.rpy:662
 translate Schinese ch1_knock_e1186be1:
 
     # "I rub the candy with my fingertips; it's sticky but firm."
-    "我用指尖摩擦糖果：很粘，又很硬。"
+    "我用指尖摩挲了几下：很硬，但又黏糊糊的。"
 
 # game/story/Chapter 1.rpy:664
 translate Schinese ch1_knock_73bade96:
@@ -2307,7 +2309,7 @@ translate Schinese ch1_knock_73bade96:
 translate Schinese ch1_knock_549fb032:
 
     # p "Bottom's up."
-    p "干杯。"
+    pass
 
 # game/story/Chapter 1.rpy:666
 translate Schinese ch1_knock_4b181d3c:
@@ -2319,19 +2321,19 @@ translate Schinese ch1_knock_4b181d3c:
 translate Schinese ch1_knock_91691fd4:
 
     # p "Mmm!"
-    p "嗯~！"
+    p "嗯~~！"
 
 # game/story/Chapter 1.rpy:668
 translate Schinese ch1_knock_fded7751:
 
     # "The bar is crunchy and I get a huge hit of honey on the first bite, followed by the delectable flavour of nuts."
-    "这根糖果棒又酥又脆，一入口就是满满的蜂蜜味，坚果也非常纯正。"
+    "这坚果棒又酥又脆，一入口就是满满的蜂蜜味，坚果也非常酥脆。"
 
 # game/story/Chapter 1.rpy:669
 translate Schinese ch1_knock_3a680566:
 
     # p "This is good."
-    p "真好吃。"
+    p "真不错。"
 
 # game/story/Chapter 1.rpy:670
 translate Schinese ch1_knock_990d35bf:
@@ -2343,19 +2345,19 @@ translate Schinese ch1_knock_990d35bf:
 translate Schinese ch1_knock_00568099:
 
     # "We continue eating some more."
-    "我们又吃了几根。"
+    "我们又接着吃了几根坚果棒。"
 
 # game/story/Chapter 1.rpy:672
 translate Schinese ch1_knock_e0ccd6e9:
 
     # K mellow "I've never seen you around here before."
-    K mellow "说起来，我之前都没见过你呢。"
+    K mellow "说起来，我之前都没在这周围见过你呢。"
 
 # game/story/Chapter 1.rpy:673
 translate Schinese ch1_knock_b27d75fe:
 
     # p "What do you mean? I live next door."
-    p "什么话？我就住在隔壁啊。"
+    p "什么？我就住你隔壁啊。"
 
 # game/story/Chapter 1.rpy:674
 translate Schinese ch1_knock_fb7f3924:
@@ -2367,25 +2369,25 @@ translate Schinese ch1_knock_fb7f3924:
 translate Schinese ch1_knock_88e0f5a8:
 
     # p "Dude..."
-    p "老兄..."
+    p "..."
 
 # game/story/Chapter 1.rpy:677
 translate Schinese ch1_knock_93bb7ff6:
 
     # K "So, whatcha majoring in?"
-    K "那，你的专业是啥？"
+    K "对了，你学的啥专业？"
 
 # game/story/Chapter 1.rpy:678
 translate Schinese ch1_knock_17ca2ba3:
 
     # p "Something pretty niche, don't ask about the job prospects."
-    p "很小众的，所以不要问我的工作前景。"
+    p "很小众的，所以不要问我的就业前景。"
 
 # game/story/Chapter 1.rpy:679
 translate Schinese ch1_knock_5b471097:
 
     # K "I won't. What are you doing today anyways?"
-    K "遵命。你今天有什么安排吗？"
+    K "好叭。你今天还有什么事要做吗？"
 
 # game/story/Chapter 1.rpy:680
 translate Schinese ch1_knock_216e90b8:
@@ -2397,7 +2399,7 @@ translate Schinese ch1_knock_216e90b8:
 translate Schinese ch1_knock_76e7f064:
 
     # p "I've got a club thing to do actually."
-    p "实际上，我得去做社团活动。"
+    p "其实，我还得做社团任务。"
 
 # game/story/Chapter 1.rpy:682
 translate Schinese ch1_knock_de89e6c6:
@@ -2409,13 +2411,13 @@ translate Schinese ch1_knock_de89e6c6:
 translate Schinese ch1_knock_78f6fc49:
 
     # p "I'm in the News Binding Club, it's kind of a newspaper club."
-    p "我加入了新闻社，一个做报纸的社团。"
+    p "我加入了新闻社，一个报道校园新闻的社团。"
 
 # game/story/Chapter 1.rpy:684
 translate Schinese ch1_knock_cdb7fa7b:
 
     # K "Never knew we had one of those either."
-    K "从来没听说过。"
+    K "咱们大学还有这种社团？"
 
 # game/story/Chapter 1.rpy:685
 translate Schinese ch1_knock_e0f8cf90:
@@ -2427,19 +2429,19 @@ translate Schinese ch1_knock_e0f8cf90:
 translate Schinese ch1_knock_a60bf647:
 
     # K "None. I was in a Video Games Club once, but no one wanted to meet. Then I hopped to a Parkour Club, but there was too much jumping around. Now, I'm in nothing."
-    K "没有。我曾经参加过电竞社，但没人愿意在线下交流。后来我去了跑酷社，但他们也太能跳了。所以现在我是自由人。"
+    K "没加。我曾经加过电竞社，但没人愿意线下交流。后来我去了跑酷社，但他们都太能跳了。所以现在我是自由人。"
 
 # game/story/Chapter 1.rpy:687
 translate Schinese ch1_knock_b354516d:
 
     # K "What's this club activity that has you all busy on a Saturday?"
-    K "到底是什么样社团活动，让你周六都不能好好休息？"
+    K "所以到底是什么样的社团活动，让你周六都这么忙？"
 
 # game/story/Chapter 1.rpy:688
 translate Schinese ch1_knock_fe987ec2:
 
     # p "I've got to investigate the bio lab. You heard the rumours about that place?"
-    p "我要去生物实验室调查，你听说过关于那个地方的传闻吗？"
+    p "我要去生物实验室调查，听过关于那个地方的都市传说吗？"
 
 # game/story/Chapter 1.rpy:689
 translate Schinese ch1_knock_1403e84f:
@@ -2451,25 +2453,25 @@ translate Schinese ch1_knock_1403e84f:
 translate Schinese ch1_knock_edfe47b0:
 
     # "Kobu grins widely."
-    "Kobu咧嘴一笑。"
+    "说到这里，Kobu邪魅一笑。"
 
 # game/story/Chapter 1.rpy:691
 translate Schinese ch1_knock_574313fa:
 
     # p "It's freaking people out. I can't believe something so big could be in there."
-    p "人们都吓坏了，不敢相信里面竟然有一个那么大的东西。"
+    p "真吓人，没想到那里面竟然潜藏着那么大的玩意。"
 
 # game/story/Chapter 1.rpy:692
 translate Schinese ch1_knock_b6155b2c:
 
     # K "I would, have you seen the place? It's close to the dorms, far from prying eyes. It's the perfect place for something like that to happen."
-    K "我也是。你看过那地方吗？离宿舍很近，人却格外少，简直是完美的地点啊。"
+    K "我也这么觉得。你去看过那地方吗？离宿舍很近，但却很少会有人去，简直是完美的地点啊。"
 
 # game/story/Chapter 1.rpy:693
 translate Schinese ch1_knock_f9950e2e:
 
     # K "Are you going there?"
-    K "你要过去？"
+    K "你想去那边？"
 
 # game/story/Chapter 1.rpy:694
 translate Schinese ch1_knock_513005c2:
@@ -2481,13 +2483,13 @@ translate Schinese ch1_knock_513005c2:
 translate Schinese ch1_knock_311bdcbd:
 
     # K @ shocked "Me? Seriously? You want me in the bio lab with you at night?"
-    K @ shocked "我？认真的？你想让我在夜里陪你去生物实验室？"
+    K @ shocked "我？你认真的？你想让我今晚陪你去生物实验室？"
 
 # game/story/Chapter 1.rpy:696
 translate Schinese ch1_knock_018b5d8c:
 
     # p "Yeah? I mean I'm anticipating things will get rough."
-    p "对？我有预感，事情会变得很激烈。"
+    p "对啊？我有预感，今晚去一定会很刺激。"
 
 # game/story/Chapter 1.rpy:697
 translate Schinese ch1_knock_42e3ecf3:
@@ -2499,13 +2501,13 @@ translate Schinese ch1_knock_42e3ecf3:
 translate Schinese ch1_knock_8e3c896f:
 
     # p "Plus you look well built. I don't think anyone would mess with you."
-    p "而且你长得人高马大的，我想一定没有人敢惹你。"
+    p "而且你长得这么壮实，一定没有人敢惹你。"
 
 # game/story/Chapter 1.rpy:699
 translate Schinese ch1_knock_c0d73b4f:
 
     # K "They wouldn't if they know what's good for them."
-    K "除非他们有眼无珠。"
+    K "谁敢惹我，必定让他们没好果子吃。"
 
 # game/story/Chapter 1.rpy:700
 translate Schinese ch1_knock_01748944:
@@ -2517,13 +2519,13 @@ translate Schinese ch1_knock_01748944:
 translate Schinese ch1_knock_2c9c1bdf:
 
     # p "Yeah, so I would definitely appreciate it if you would come with me."
-    p "没错，所以有你陪伴的话就再好不过了。"
+    p "没错，所以有你陪我的话就再好不过了。"
 
 # game/story/Chapter 1.rpy:702
 translate Schinese ch1_knock_39bcd77a:
 
     # K sad "I'm not going to lie, I think you're cute and all, but this sudden..."
-    K sad "我不想撒谎。你是很可爱，但这也太突然了..."
+    K sad "我不开玩笑。你是挺可爱的，但这好像有点突然..."
 
 # game/story/Chapter 1.rpy:703
 translate Schinese ch1_knock_aa3d0ba5:
@@ -2535,7 +2537,7 @@ translate Schinese ch1_knock_aa3d0ba5:
 translate Schinese ch1_knock_8c099067:
 
     # K neutral "You know what, to heck with it. I'll see you there. We'll have some fun."
-    K neutral "害，管它呢。咱们到时候见，好好玩上一玩。"
+    K neutral "害，管它呢。咱们到时候见，一定会很刺激的。"
 
 # game/story/Chapter 1.rpy:705
 translate Schinese ch1_knock_92746b77:
@@ -2547,7 +2549,7 @@ translate Schinese ch1_knock_92746b77:
 translate Schinese ch1_knock_ed51d556:
 
     # p "Alright, I'll see you at the lab at midnight. Don't get caught."
-    p "太好了，我们午夜时分，实验室见。切记不要被逮到。"
+    p "太好了，我们午夜时分，实验室见。切记别被逮到了。"
 
 # game/story/Chapter 1.rpy:707
 translate Schinese ch1_knock_a3ff57e2:
@@ -2577,7 +2579,7 @@ translate Schinese TIME_f8b13aa9:
 translate Schinese TIME_3e00f9ae:
 
     # "I knock on the brown door with the professor's nameplate on it."
-    "我敲了敲嵌有教授名牌的棕色的门。"
+    "我敲了敲嵌有 Noxmare教授 名牌的门。"
 
 # game/story/Chapter 1.rpy:725
 translate Schinese TIME_fa0d0a4e:
@@ -2589,19 +2591,19 @@ translate Schinese TIME_fa0d0a4e:
 translate Schinese TIME_c4bbfdc4:
 
     # "A gentle, floral scent of jasmine fills my lungs."
-    "一股温柔的茉莉花香扑面而来。"
+    "一股轻柔的茉莉花香扑面而来。"
 
 # game/story/Chapter 1.rpy:729
 translate Schinese TIME_34ab9e4d:
 
     # "The professor's table faces me. He gets up to greet me in front of his desk."
-    "教授从入口对面的桌子站起身迎接我。"
+    "教授正坐在入口对面的桌旁，见到我时便起身迎接我。"
 
 # game/story/Chapter 1.rpy:732
 translate Schinese TIME_e3eafd15:
 
     # Nox "[name], good to see you. What brings you here?"
-    Nox "很高兴见到你，[name]，什么风把你吹来了？"
+    Nox "很高兴见到你，[name]，你来找我是有什么事吗？"
 
 # game/story/Chapter 1.rpy:733
 translate Schinese TIME_4036131c:
@@ -2613,25 +2615,25 @@ translate Schinese TIME_4036131c:
 translate Schinese TIME_381cb42d:
 
     # p "I had some free time and I remembered that you were offering some research work?"
-    p "我记得您提供一些研究方面的工作？我刚好有空。"
+    p "我记得您提到，你的研究正缺一些人手？我正好有空，就来找您了。"
 
 # game/story/Chapter 1.rpy:738
 translate Schinese TIME_5de67e72:
 
     # Nox "Ah, yes. I must have forgotten to give you my contact number."
-    Nox "啊，是的。看来我忘了给你我的联系方式了。"
+    Nox "啊，是的。瞧我这记性，忘给你我的联系方式了。"
 
 # game/story/Chapter 1.rpy:739
 translate Schinese TIME_0b2e933f:
 
     # Nox "Well no matter, I could use the extra hands."
-    Nox "不过没关系，我正需要人手。"
+    Nox "不过确实，我正需要一些人手。"
 
 # game/story/Chapter 1.rpy:740
 translate Schinese TIME_8d03771f:
 
     # Nox "I have to let you know that my current research isn't formal."
-    Nox "我必须坦白一点，那就是这份研究并不正式。"
+    Nox "我必须坦白一点，那就是这份研究并未经过官方批准。"
 
 # game/story/Chapter 1.rpy:741
 translate Schinese TIME_b523aac3:
@@ -2643,37 +2645,37 @@ translate Schinese TIME_b523aac3:
 translate Schinese TIME_7bbc9f1e:
 
     # Nox "I mean that I didn't present this topic to the research committee. As such, I am paying out of my own pockets to do it."
-    Nox "就是说，我没有把论题提交到研究委员会。因此，这纯粹是我自掏腰包。"
+    Nox "就是说，我没有把议题提交到研究委员会。因此，这个研究纯粹是我自掏腰包支持的。"
 
 # game/story/Chapter 1.rpy:743
 translate Schinese TIME_a741275a:
 
     # Nox "You should know that this topic has not gone through an ethics committee either, but I assure you it is safe."
-    Nox "此外，这论题也没有通过道德委员会的审查，但我向你保证它安全无害。"
+    Nox "此外，这议题也没有通过道德委员会的审查，但我可以向你保证它是安全无害的。"
 
 # game/story/Chapter 1.rpy:744
 translate Schinese TIME_3edfbdad:
 
     # p "I'm getting worried here. What's the research about?"
-    p "听得我有点担心了。研究是关于什么的？"
+    p "听得我有点担心了。这研究是关于什么的？"
 
 # game/story/Chapter 1.rpy:745
 translate Schinese TIME_d921177e:
 
     # Nox "I'm looking into the arousal effect of the local culinary specialties."
-    Nox "我正在研究当地特色食品的催情效应。"
+    Nox "我正在研究本地餐品对性欲的影响程度。"
 
 # game/story/Chapter 1.rpy:746
 translate Schinese TIME_f4043c8f:
 
     # p "Come again?"
-    p "请您再说一遍？"
+    p "你说什么？"
 
 # game/story/Chapter 1.rpy:747
 translate Schinese TIME_d02f8071:
 
     # Nox "The foods in Kibbleton are unique; it combines cuisines from so many cultures. The local town committee approached me with a request to help revitalise the town and get more people to visit and consider staying here."
-    Nox "基布尔顿的饮食很独特，融和了来自多种文化的美食。当地委员会请求我振兴这座小镇，吸引更多的游客，并让他们流连忘返。"
+    Nox "基布尔顿的饮食很独特，融和了来自多种文化的美食。当地委员会请求我振兴这座小镇，想办法吸引来更多的游客，让他们对来此地旅游的经历难以忘怀。"
 
 # game/story/Chapter 1.rpy:748
 translate Schinese TIME_9377526d:
@@ -2715,7 +2717,7 @@ translate Schinese TIME_b3437396:
 translate Schinese TIME_a1c0f9e9:
 
     # p "I saved all I could find in this folder, Noxmare."
-    p "我把找到的东西都保存在这个文件夹里了，Noxmare。"
+    p "我把找到的东西都保存在这个文件夹里了，Noxmare教授。"
 
 # game/story/Chapter 1.rpy:758
 translate Schinese TIME_84cacf8f:
@@ -2733,7 +2735,7 @@ translate Schinese TIME_2c723603:
 translate Schinese TIME_1099e5a5:
 
     # "The lynx hands me fifty dollars."
-    "猞猁递给我五十美元。"
+    "山猫递给我五十美元。"
 
 # game/story/Chapter 1.rpy:761
 translate Schinese TIME_4ec1a99a:
@@ -2757,7 +2759,7 @@ translate Schinese TIME_2ab22452:
 translate Schinese TIME_15faa908:
 
     # p "I'm actually investigating the case of the monster in the bio lab. I was wondering if you would be available for an interview on the matter?"
-    p "其实我正在调查生物实验室里的怪物，您有时间就此事接受采访吗？"
+    p "其实我正在调查近期生物实验室里出现怪物的事件，您有时间就此事接受采访吗？"
 
 # game/story/Chapter 1.rpy:768
 translate Schinese TIME_3636b0c3:
@@ -2775,43 +2777,43 @@ translate Schinese TIME_44184dea:
 translate Schinese TIME_bd3834b7:
 
     # Nox "Not today, I'm the only faculty member that is here on the weekend."
-    Nox "今天不行，我是唯一一个周末在岗的教职人员。"
+    Nox "今天没在，我是唯一一个周末在岗的教职人员。"
 
 # game/story/Chapter 1.rpy:771
 translate Schinese TIME_368b12f2:
 
     # p "Then I don't have much of a choice, Professor. King wants an update on this case by Monday."
-    p "那我就别无选择了，教授。King想在周一前得到此事件的最新进展。"
+    p "那我就别无选择了，教授。King想在周一前发表有关此事件的最新情报。"
 
 # game/story/Chapter 1.rpy:772
 translate Schinese TIME_ac48ccaf:
 
     # Nox "Alright, I'll do what I can, but no promises."
-    Nox "好吧，我尽量回答，但请不要太期待。"
+    Nox "好吧，我会告诉你所有我了解到的情况，但我不保证会对写稿有价值。"
 
 # game/story/Chapter 1.rpy:773
 translate Schinese TIME_ca246b65:
 
     # "I pull up a chair to face the professor's table. Me facing him... looking at him, respectfully."
-    "我拉过一把椅子，正对教授的桌子，面向...毕恭毕敬地看着他。"
+    "我拉过一把椅子，正对教授的桌子，盯向...坐姿端正地看向他。"
 
 # game/story/Chapter 1.rpy:774
 translate Schinese TIME_6902e66f:
 
     # p "Great."
-    p "太好了。"
+    p "那我们开始吧。"
 
 # game/story/Chapter 1.rpy:775
 translate Schinese TIME_88dccfb3:
 
     # "I take out my phone to turn on the voice recorder."
-    "我拿出手机，打开录音功能。"
+    "我拿出手机，开始录音。"
 
 # game/story/Chapter 1.rpy:776
 translate Schinese TIME_64dc795a:
 
     # p "I appreciate your help on this, Professor. Maybe you can shed some light on this mystery. Students are reporting that there's a monster in the bio lab that appears at midnight, a beast with two heads and many limbs."
-    p "非常感谢您的帮助，教授，也许您能帮我们解开这个谜团。学生之间流传着这样一个传闻：生物实验室里有一个怪物，它总在午夜出现，有两颗脑袋和多条腿。"
+    p "非常感谢您愿意提供帮助，教授，也许您能帮我们解开这个谜团。学生间流传着这样一个传闻：生物实验室里有一个怪物，它总在午夜出现，有两颗脑袋和多条腿。"
 
 # game/story/Chapter 1.rpy:777
 translate Schinese TIME_67b2b310:
@@ -2823,13 +2825,13 @@ translate Schinese TIME_67b2b310:
 translate Schinese TIME_a4e7faef:
 
     # Nox "Well, you mentioned more than one student saw the creature, that may mean we could rule out a hallucination. Is possible they mistook something in the lab for something else?"
-    Nox "话中提到不止一个同学看到了那个生物，所以我们基本上可以排除幻觉。有没有可能是他们把实验室里的东西误当成了别的？"
+    Nox "话中提到不止一个同学看到了那个生物，所以我们基本上可以排除是某人出了幻觉。那有没有可能是他们把实验室里的正常东西误当成了怪物？"
 
 # game/story/Chapter 1.rpy:779
 translate Schinese TIME_93c0532e:
 
     # Nox "Seeing illusions is actually quite common even in our waking state. Combined with the lack of lighting and the time of day... It is very easy to mistake a flowing curtain for a person, or the sound of a pipe knocking for someone at the door."
-    Nox "事实证明，即使在清醒状态，幻视也是一种非常常见的行为。缺乏照明，再加上事情发生的时间...人们很容易把飘动的窗帘误认为是一个人，或者把管道敲击声误认为是敲门声。"
+    Nox "即使在清醒状态，幻视也是一种非常常见的行为。事件发生时缺乏光源，而且是深夜...人们很容易把飘动的窗帘误认为是一个人，把管道敲击声误认为是敲门声。"
 
 # game/story/Chapter 1.rpy:780
 translate Schinese TIME_665fe8c5:
@@ -2841,7 +2843,7 @@ translate Schinese TIME_665fe8c5:
 translate Schinese TIME_78e2030d:
 
     # Nox "It's not interesting to say, but yes. Many of the supernatural phenomena we experience have been explained away as simple tricks or misconceptions."
-    Nox "听起来并不有趣，不过没错，许多超自然现象都被证实是简单的把戏或误解。"
+    Nox "说来可能会打消某些人的兴趣，不过事实上，许多所谓的超自然现象报告最终都被证实是有人捏造或看错了导致的。"
 
 # game/story/Chapter 1.rpy:782
 translate Schinese TIME_bb32437e:
@@ -2859,7 +2861,7 @@ translate Schinese TIME_5a018da5:
 translate Schinese TIME_4d9196a2:
 
     # Nox "I know I'm the one being interviewed, but entertain my curiosity for a bit."
-    Nox "我知道我是被采访者，不过还请满足我的好奇心。"
+    Nox "我知道我是被采访者，不过我对有件事情很好奇。"
 
 # game/story/Chapter 1.rpy:785
 translate Schinese TIME_e990a917:
@@ -2883,25 +2885,25 @@ translate Schinese TIME_bcf119a3:
 translate Schinese TIME_07afa5d3:
 
     # p "I want to believe these things are real, that there could be a Bigfoot, an abominable snowman, or perhaps there are ghosts around."
-    p "我愿意相信这些事情是真实的，世界上完全可能存在大脚怪、喜马拉雅雪人，或者附近的幽灵。"
+    p "我愿意相信这些事情是真实的，世界上完全可能存在大脚怪、喜马拉雅山雪人，说不定现在身边就有幽灵在四处游荡。"
 
 # game/story/Chapter 1.rpy:792
 translate Schinese TIME_22db4089:
 
     # Nox "But what if they are disproven later on?"
-    Nox "如果它们后来被推翻了呢？"
+    Nox "如果这些所谓的超自然现象后来被证明是捏造的呢？"
 
 # game/story/Chapter 1.rpy:793
 translate Schinese TIME_1438289b:
 
     # p "There has to be some magic left in this world, and even if it turns out it isn't true, I'll appreciate the process of discovery."
-    p "至少它们的魅力已经传遍了地球。况且就算不是真的，我也可以欣赏解密的过程。"
+    p "那至少它们的事迹已经为全世界所知晓。况且就算不是真的，我也很享受在研究中逐渐揭开谜底的过程。"
 
 # game/story/Chapter 1.rpy:794
 translate Schinese TIME_e077e75a:
 
     # p "After all, if it wasn't for all these supernatural things we wouldn't have the inspiration for the best video games and movies. That has to count for something."
-    p "毕竟，如果不是那些超自然存在，我们的电影和游戏肯定会缺少很多灵感。所以它们绝对不是毫无意义的。"
+    p "毕竟，如果没有那些超自然报道的存在，我们的电影和游戏肯定会缺少很多灵感。所以它们绝对不是毫无意义的。"
 
 # game/story/Chapter 1.rpy:795
 translate Schinese TIME_3ab63ba5:
@@ -2925,25 +2927,25 @@ translate Schinese TIME_b44df760:
 translate Schinese TIME_a6d60143:
 
     # Nox sad "Back in my days as a private detective. She loved the supernatural, always kept trying to convince me a case was the work of something otherworldly. I loved her enthusiasm."
-    Nox sad "那是我还在当私家侦探的时候了。她是超自然现象的粉丝，总是试图说服我某个案子是超自然存在在作祟。我喜欢她的热情。"
+    Nox sad "那是我还在当私家侦探的时候了。她是超自然现象的粉丝，总是试图说服我某个案子是超自然存在作祟。我喜欢她对这种事件的热情。"
 
 # game/story/Chapter 1.rpy:799
 translate Schinese TIME_6e60f7c3:
 
     # p "She sounds like a nice lady."
-    p "听起来她是一位很棒的女士。"
+    p "听起来她是一位很有趣的女士。"
 
 # game/story/Chapter 1.rpy:801
 translate Schinese TIME_0c83d782:
 
     # p "I wish I could, but really I don't think the supernatural is real."
-    p "我也想相信，但这恐怕是不可能的。"
+    p "我也想相信，但我并不认为超自然现象真的存在。"
 
 # game/story/Chapter 1.rpy:802
 translate Schinese TIME_01369721:
 
     # p "I'm convinced whatever this lab mystery is, it's not going to be anything big."
-    p "无论那个实验室之谜的谜底是什么，肯定都有一个合理的解释。"
+    p "无论那个实验室之谜看上去有多诡异，背后肯定都有一个合理的解释。"
 
 # game/story/Chapter 1.rpy:803
 translate Schinese TIME_0f1d92c8:
@@ -2955,13 +2957,13 @@ translate Schinese TIME_0f1d92c8:
 translate Schinese TIME_ec250ae5:
 
     # p "Perhaps my dreams of magic and mystery in the world have been dashed one too many times."
-    p "也许我对魔法和神秘的梦想破灭了太多次。"
+    p "也许是我对各种魔法和传奇事迹的幻想破灭了太多次。"
 
 # game/story/Chapter 1.rpy:805
 translate Schinese TIME_c5b43f51:
 
     # p "Besides, you know someone's going to look at you weird if you tell them you believe in the supernatural."
-    p "此外，如果你告诉别人自己相信超自然现象，他们会把你当成怪人的。"
+    p "此外，如果你告诉别人自己相信超自然现象，他们肯定会把你当成怪人。"
 
 # game/story/Chapter 1.rpy:806
 translate Schinese TIME_6f9fd511:
@@ -2979,19 +2981,19 @@ translate Schinese TIME_818dab3e:
 translate Schinese TIME_2d0eb915:
 
     # Nox sad "During my days as a private detective. She was always convinced some supernatural cause was at play in our cases."
-    Nox sad "那是我还在当私家侦探的时候了。她是超自然现象的粉丝，总是试图说服我某个案子是超自然存在在作祟。"
+    Nox sad "那是我还在当私家侦探的时候了。她是超自然现象的粉丝，总是试图说服我某个案子是超自然存在作祟。"
 
 # game/story/Chapter 1.rpy:809
 translate Schinese TIME_d771cb20:
 
     # Nox "I never caught her enthusiasm but I grew to love it nevertheless."
-    Nox "我无法理解她的热情，却也不知不觉产生了兴趣。"
+    Nox "我无法理解她对此的热情，却也不知不觉产生了兴趣。"
 
 # game/story/Chapter 1.rpy:810
 translate Schinese TIME_eed5f0f1:
 
     # p "She sounds like a nice person."
-    p "听起来她是一位很棒的女士。"
+    p "听起来她是一位很有趣的女士。"
 
 # game/story/Chapter 1.rpy:811
 translate Schinese TIME_448523d3:
@@ -3009,25 +3011,25 @@ translate Schinese TIME_39e328be:
 translate Schinese TIME_8899cc48:
 
     # p "Thank you Professor for the interview. This will definitely make the article pop."
-    p "感谢教授接受采访，这篇文章肯定会大受欢迎的。"
+    p "感谢您接受采访，这篇文章肯定会大受欢迎的。"
 
 # game/story/Chapter 1.rpy:817
 translate Schinese TIME_b907af93:
 
     # Nox "The pleasure is all mine, I enjoy sharing my knowledge with people. That's why I got into this job."
-    Nox "这是我的荣幸，我喜欢与人们分享我的知识，这也是我从事教育工作的原因。"
+    Nox "这是我的荣幸，我喜欢与人们分享我对事物的了解和看法，这也是我从事教育工作的原因。"
 
 # game/story/Chapter 1.rpy:818
 translate Schinese TIME_02fabcee:
 
     # Nox "Feel free to come back anytime, my offer for the research work is still available."
-    Nox "随时欢迎你回来，我这里还有研究的工作。"
+    Nox "欢迎你随时回来，我这里还有很多需要人手的议题。"
 
 # game/story/Chapter 1.rpy:819
 translate Schinese TIME_e2e1b1d2:
 
     # p "Thanks Professor, I'll keep that in mind."
-    p "谢谢您，教授，我会记住的。"
+    p "谢谢您，教授。"
 
 # game/story/Chapter 1.rpy:821
 translate Schinese TIME_821f585b:
@@ -3051,7 +3053,7 @@ translate Schinese TIME_79cabd24:
 translate Schinese TIME_MIDNIGHT_6e28d5ea:
 
     # "It's midnight and I knock on Kobu's door."
-    "午夜时分，我叩响Kobu的房门。"
+    "午夜时分，我敲响Kobu的房门。"
 
 # game/story/Chapter 1.rpy:832
 translate Schinese TIME_MIDNIGHT_d336892e:
@@ -3063,37 +3065,37 @@ translate Schinese TIME_MIDNIGHT_d336892e:
 translate Schinese TIME_MIDNIGHT_a0a92da9:
 
     # p "My phone's charged and ready to go."
-    p "我的手机充满了电，可以出发了。"
+    p "我给手机充满了电，咱们可以出发了。"
 
 # game/story/Chapter 1.rpy:834
 translate Schinese TIME_MIDNIGHT_0c253fbd:
 
     # K @ shocked "You're recording this? Kinky."
-    K @ shocked "你还要录像？变态。"
+    K @ shocked "你还要录像？好怪哦。"
 
 # game/story/Chapter 1.rpy:835
 translate Schinese TIME_MIDNIGHT_2ac9fe38:
 
     # p "No, I'm taking pictures as evidence. King will want to hear this."
-    p "不，我要拍照留作证据，King一定想知道细节。"
+    p "不，我是要拍照留作证据，King一定想知道细节。"
 
 # game/story/Chapter 1.rpy:836
 translate Schinese TIME_MIDNIGHT_8e72052c:
 
     # K "Who's King?"
-    K "谁是King？"
+    K "King是谁？"
 
 # game/story/Chapter 1.rpy:837
 translate Schinese TIME_MIDNIGHT_aeef84b4:
 
     # p "He's the president of my club."
-    p "我们社的社员。"
+    p "我们社的社长。"
 
 # game/story/Chapter 1.rpy:838
 translate Schinese TIME_MIDNIGHT_07d2ca3e:
 
     # K "Sounds like a pervy guy."
-    K "一听就很变态。"
+    K "看来是个变态社长。"
 
 # game/story/Chapter 1.rpy:839
 translate Schinese TIME_MIDNIGHT_3d6763b4:
@@ -3105,7 +3107,7 @@ translate Schinese TIME_MIDNIGHT_3d6763b4:
 translate Schinese TIME_MIDNIGHT_43808b54:
 
     # K "Never mind, let's go."
-    K "没什么，我们走吧。"
+    K "没事没事，我们走吧。"
 
 # game/story/Chapter 1.rpy:842
 translate Schinese TIME_MIDNIGHT_ecb98c5d:
@@ -3117,7 +3119,7 @@ translate Schinese TIME_MIDNIGHT_ecb98c5d:
 translate Schinese TIME_MIDNIGHT_5ecc92cc:
 
     # "As we approach the main door, a guard walks by."
-    "当我们接近大门时，恰逢一个保安路过。"
+    "我们接近大门时，正好有个警卫走了出来。"
 
 # game/story/Chapter 1.rpy:847
 translate Schinese TIME_MIDNIGHT_3e1daff9:
@@ -3129,7 +3131,7 @@ translate Schinese TIME_MIDNIGHT_3e1daff9:
 translate Schinese TIME_MIDNIGHT_4c31a2cf:
 
     # "Kobu grabs me by the arm and pulls me close."
-    "Kobu拉住我的胳膊，把我拽到他跟前。"
+    "Kobu拉住我的胳膊，把我拽到他身前。"
 
 # game/story/Chapter 1.rpy:857
 translate Schinese TIME_MIDNIGHT_3ea80565:
@@ -3141,13 +3143,13 @@ translate Schinese TIME_MIDNIGHT_3ea80565:
 translate Schinese TIME_MIDNIGHT_d52e55e2:
 
     # "He waves to the guard."
-    "他朝保安挥了挥手。"
+    "他朝警卫挥了挥手。"
 
 # game/story/Chapter 1.rpy:862
 translate Schinese TIME_MIDNIGHT_ae138ec0:
 
     # p "What are you doing?"
-    p "你干嘛？"
+    p "你这是在？"
 
 # game/story/Chapter 1.rpy:863
 translate Schinese TIME_MIDNIGHT_a86817f9:
@@ -3159,13 +3161,13 @@ translate Schinese TIME_MIDNIGHT_a86817f9:
 translate Schinese TIME_MIDNIGHT_b848d028:
 
     # "The guard saunters over, with his hands on his belt like a cowboy out of a western flick."
-    "保安两手叉腰，优哉优哉地走了过来，活像西部片里的牛仔一样。"
+    "警卫两手叉腰，优哉优哉地走了过来，活像西部片里的牛仔一样。"
 
 # game/story/Chapter 1.rpy:866
 translate Schinese TIME_MIDNIGHT_851e8bde:
 
     # Simulda "Kobu, let me guess, you, or your friend there “left something” in the classroom, didn't you?"
-    Simulda "Kobu，让我猜猜，你、或者你的朋友把东西‘落在教室里’了，对吗？"
+    Simulda "Kobu，让我猜猜，你、或者你的朋友把某样东西“落在教室里”了，对吗？"
 
 # game/story/Chapter 1.rpy:867
 translate Schinese TIME_MIDNIGHT_903fbf3e:
@@ -3177,13 +3179,13 @@ translate Schinese TIME_MIDNIGHT_903fbf3e:
 translate Schinese TIME_MIDNIGHT_f788456d:
 
     # "The guard sighs."
-    "保安叹了口气。"
+    "警卫叹了口气。"
 
 # game/story/Chapter 1.rpy:869
 translate Schinese TIME_MIDNIGHT_eb830a36:
 
     # Simulda "You know your papa won't be happy if he hears word that you're breaking campus rules."
-    Simulda "要是被你爸爸知道你违反了校规，他一定会不高兴的。"
+    Simulda "要是你老爸知道你违反了校规，他一定会发火的。"
 
 # game/story/Chapter 1.rpy:870
 translate Schinese TIME_MIDNIGHT_4eb64628:
@@ -3195,7 +3197,7 @@ translate Schinese TIME_MIDNIGHT_4eb64628:
 translate Schinese TIME_MIDNIGHT_60cae15e:
 
     # "The compliment gets the guard to smile a little."
-    "这句恭维夸得保安微微一笑。"
+    "这句话引得警卫微微一笑。"
 
 # game/story/Chapter 1.rpy:872
 translate Schinese TIME_MIDNIGHT_b8602d90:
@@ -3219,19 +3221,19 @@ translate Schinese TIME_MIDNIGHT_6bd27494:
 translate Schinese TIME_MIDNIGHT_ab28db80:
 
     # "The guard walks away."
-    "保安走远了。"
+    "警卫走远了。"
 
 # game/story/Chapter 1.rpy:881
 translate Schinese TIME_MIDNIGHT_11b9af60:
 
     # p "You knew that guard?"
-    p "你认识那个保安？"
+    p "你认识那警卫？"
 
 # game/story/Chapter 1.rpy:883
 translate Schinese TIME_MIDNIGHT_e58316b6:
 
     # K "He's a regular at my dad's pub. Ran up a mighty tab, comes in handy when I need him to look away from time to time."
-    K "他是我爸酒吧里的常客，赊了很多账，所以才总对我睁一只眼闭一只眼。"
+    K "他是我爸酒馆里的常客，赊了很多账，所以才总对我睁一只眼闭一只眼。"
 
 # game/story/Chapter 1.rpy:884
 translate Schinese TIME_MIDNIGHT_e8dd67b6:
@@ -3243,7 +3245,7 @@ translate Schinese TIME_MIDNIGHT_e8dd67b6:
 translate Schinese TIME_MIDNIGHT_0620527b:
 
     # K "It's not. Now come on."
-    K "哪里不好，快走啦。"
+    K "哪有，快走啦。"
 
 # game/story/Chapter 1.rpy:890
 translate Schinese TIME_MIDNIGHT_a586152b:
@@ -3261,7 +3263,7 @@ translate Schinese TIME_MIDNIGHT_176c77e5:
 translate Schinese TIME_MIDNIGHT_1b54a49a:
 
     # "There's nothing there, just a bunch of empty chairs and tables."
-    "什么都没有，除了一堆空椅子和桌子。"
+    "除了一堆空椅子和桌子，里面什么都没有。"
 
 # game/story/Chapter 1.rpy:896
 translate Schinese TIME_MIDNIGHT_fc155464:
@@ -3273,7 +3275,7 @@ translate Schinese TIME_MIDNIGHT_fc155464:
 translate Schinese TIME_MIDNIGHT_5703f2a5:
 
     # K "Perfect, let's head in."
-    K "完美，咱们进去吧。"
+    K "太好了，咱们快进去吧。"
 
 # game/story/Chapter 1.rpy:898
 translate Schinese TIME_MIDNIGHT_3d6763b4_1:
@@ -3303,13 +3305,13 @@ translate Schinese TIME_MIDNIGHT_eb72c0d2:
 translate Schinese TIME_MIDNIGHT_5dcc1b07:
 
     # "Kobu takes out his phone and sets it on the empty lecturer's chair."
-    "Kobu拿出手机，放在空荡荡的讲师椅上。"
+    "Kobu拿出手机，架设在空荡荡的讲师椅上。"
 
 # game/story/Chapter 1.rpy:903
 translate Schinese TIME_MIDNIGHT_df0fd6df:
 
     # "Meanwhile, I continue walking along the rows of empty chairs. In the back, there's a long line of shelves from one side of the room to the other."
-    "与此同时，我沿着一排又一排空椅子走到实验室的尽头，在那里有一串柜子横跨了整个房间。"
+    "与此同时，我沿着一排又一排桌椅走到实验室的尽头，一列实验用品柜排满了整个墙面。"
 
 # game/story/Chapter 1.rpy:904
 translate Schinese TIME_MIDNIGHT_f7455b43:
@@ -3327,7 +3329,7 @@ translate Schinese TIME_MIDNIGHT_69990434:
 translate Schinese TIME_MIDNIGHT_5d5308fa:
 
     # "Nothing extraordinary either."
-    "也没有什么异常。"
+    "也没什么特别的东西啊。"
 
 # game/story/Chapter 1.rpy:908
 translate Schinese TIME_MIDNIGHT_f91dcbbe:
@@ -3339,13 +3341,13 @@ translate Schinese TIME_MIDNIGHT_f91dcbbe:
 translate Schinese TIME_MIDNIGHT_cc886369:
 
     # p "Disappointed, I was hoping for a satisfying explanation at the very least."
-    p "有点失望，我还以为起码能得到一个合理的答案呢。"
+    p "有点失望，我还以为来到这里就能解开事件真相了。"
 
 # game/story/Chapter 1.rpy:913
 translate Schinese TIME_MIDNIGHT_420b6f7a:
 
     # p "Glad there's nothing here."
-    p "幸好这里什么也没有。"
+    p "幸好这里没有所谓的怪物。"
 
 # game/story/Chapter 1.rpy:915
 translate Schinese TIME_MIDNIGHT_5986887c:
@@ -3357,7 +3359,7 @@ translate Schinese TIME_MIDNIGHT_5986887c:
 translate Schinese TIME_MIDNIGHT_ae00caaa:
 
     # p "Ah!"
-    p "呀！"
+    p "啊！"
 
 # game/story/Chapter 1.rpy:917
 translate Schinese TIME_MIDNIGHT_c1d195eb:
@@ -3369,19 +3371,20 @@ translate Schinese TIME_MIDNIGHT_c1d195eb:
 translate Schinese TIME_MIDNIGHT_ae138ec0_1:
 
     # p "What are you doing?"
-    p "你在干什么啊？"
+    p "你这是干什么啊？"
 
 # game/story/Chapter 1.rpy:919
 translate Schinese TIME_MIDNIGHT_48d366f2:
 
     # K shocked "Me? What are you doing? I thought we came here to fuck!"
-    K shocked "这句话应该我问你！咱们不是来做爱的吗？"
+    K shocked "你问我？这句话应该我问你！咱们不是来这里做爱的吗？"
 
 # game/story/Chapter 1.rpy:921
 translate Schinese TIME_MIDNIGHT_6e659a5c:
 
     # "He hisses at me and throws his hands up. So, I do the same."
-    "他摊开手，不满地低声说道，于是我也做了同样的事。"
+    "他摊开手，不满地悄声说道。"
+    "我也作出了和他一样的反应。"
 
 # game/story/Chapter 1.rpy:922
 translate Schinese TIME_MIDNIGHT_f53fbe40:
@@ -3393,13 +3396,13 @@ translate Schinese TIME_MIDNIGHT_f53fbe40:
 translate Schinese TIME_MIDNIGHT_3584532e:
 
     # K "Hello? Tons of people know the bio lab is the place people go to for a fling."
-    K "拜托，大家伙儿都知道，生物实验室是用来寻欢作乐的。"
+    K "拜托，大伙都知道，生物实验室是用来约炮的。"
 
 # game/story/Chapter 1.rpy:924
 translate Schinese TIME_MIDNIGHT_15b6cbae:
 
     # p "What? What do you mean people know? I didn't!"
-    p "什么叫‘大家伙儿都知道’？我就不知道！"
+    p "什么叫“大伙都知道”？我就不知道！"
 
 # game/story/Chapter 1.rpy:925
 translate Schinese TIME_MIDNIGHT_618fa850:
@@ -3416,20 +3419,20 @@ translate Schinese TIME_MIDNIGHT_27b1c63e:
 # game/story/Chapter 1.rpy:927
 translate Schinese TIME_MIDNIGHT_2a9ed414:
 
-    # K "But ‘meet at the bio lab at night when no one is around' is practically an invitation to have sex!"
-    K "但是，‘晚上没人的时候在生物实验室见’，实际上就是在邀请对方做爱啊！"
+    # K "But “meet at the bio lab at night when no one is around' is practically an invitation to have sex!"
+    K "但是你说的“晚上没人的时候在生物实验室见”，这不就是在邀请对方做爱吗！"
 
 # game/story/Chapter 1.rpy:928
 translate Schinese TIME_MIDNIGHT_ca7dc0f2:
 
     # p "Since when?"
-    p "从什么时候开始的？"
+    p "你从什么时候以为我是在约你的？"
 
 # game/story/Chapter 1.rpy:929
 translate Schinese TIME_MIDNIGHT_6ea4130b:
 
     # K @ angry "Since always!"
-    K @ angry "一直都是！"
+    K @ angry "不是一直都是吗！"
 
 # game/story/Chapter 1.rpy:930
 translate Schinese TIME_MIDNIGHT_b2e06736:
@@ -3441,25 +3444,25 @@ translate Schinese TIME_MIDNIGHT_b2e06736:
 translate Schinese TIME_MIDNIGHT_0a106210:
 
     # p "Oh crap, I finally got it, the monster wasn't a monster, it's just people fucking here!"
-    p "见鬼，原来如此，根本就没有怪物，那是在这里做爱的人！"
+    p "哦哦，原来如此，原来根本就没有怪物，那是有人在这里约炮！"
 
 # game/story/Chapter 1.rpy:933
 translate Schinese TIME_MIDNIGHT_76b929fb:
 
     # "Kobu's pupils rise up to the corner of his eyes, I assume he's processing what I just said."
-    "Kobu的眼睛瞪得大大的，我猜他是在消化我的那番话。"
+    "Kobu的眼睛瞪得大大的，我猜他是在消化我所说的那番话。"
 
 # game/story/Chapter 1.rpy:934
 translate Schinese TIME_MIDNIGHT_7c6e6678:
 
     # K neutral "Huh, I could see that happening. Mystery solved then."
-    K neutral "哈，我就知道，谜题解开了。"
+    K neutral "啊哈，我就知道，看来谜底解开了。"
 
 # game/story/Chapter 1.rpy:936
 translate Schinese TIME_MIDNIGHT_d7829278:
 
     # p "Ugh..."
-    p "唉..."
+    p "呃..."
 
 # game/story/Chapter 1.rpy:937
 translate Schinese TIME_MIDNIGHT_8f05ad9e:
@@ -3471,7 +3474,7 @@ translate Schinese TIME_MIDNIGHT_8f05ad9e:
 translate Schinese TIME_MIDNIGHT_22d06122:
 
     # p "Ok... I guess this is—"
-    p "总之...我想-"
+    p "好吧...看样子--"
 
 # game/story/Chapter 1.rpy:941
 translate Schinese TIME_MIDNIGHT_7a08e1f5:
@@ -3483,19 +3486,19 @@ translate Schinese TIME_MIDNIGHT_7a08e1f5:
 translate Schinese TIME_MIDNIGHT_71028f40:
 
     # K "Look, I realise this has been one big misunderstanding, but I like you, you're cute, and I will kick myself if I don't at least ask."
-    K "听着，我知道这是一个天大的误会，可是我喜欢你，你很可爱。如果就这样放弃，我会后悔一辈子的。"
+    K "我知道这是一个天大的误会，但是我喜欢你，你很可爱。如果我就这样中途放弃，事后我肯定得会后悔到给自己来两拳。"
 
 # game/story/Chapter 1.rpy:945
 translate Schinese TIME_MIDNIGHT_1419a978:
 
     # K "Do you want to bang? No strings attached, you could say no and I'll act like none of this happened and we can still be buds."
-    K "你愿意和我做吗？我并不会要求你什么，你大可直截了当地拒绝，然后我会装作无事发生，继续当你的好哥们。"
+    K "你愿意和我做吗？我不会强迫你，你可以选择直接拒绝，我就当作这一切都没发生过，之后继续当你的好哥们。"
 
 # game/story/Chapter 1.rpy:949
 translate Schinese TIME_MIDNIGHT_b08da260:
 
     # p "Okay, let's do this."
-    p "我们来做吧。"
+    p "那咱们来做吧。"
 
 # game/story/Chapter 1.rpy:951
 translate Schinese TIME_MIDNIGHT_fe07ac26:
@@ -3705,7 +3708,7 @@ translate Schinese TIME_MIDNIGHT_5b3fad2d:
 translate Schinese TIME_MIDNIGHT_0a249291:
 
     # "With a generous amount of spit, I smear the outside of my cock thoroughly before pushing it back in. Lube would be better, but this is too hot to stop, I have to fuck him."
-    "我将大量口水吐在上面充当润滑，然后才又挺入。但就是这短短数秒，我也必须调用自己全部的理智，因为我脑子里被刺激得只有一个念头：‘我必须操他。’"
+    "我将大量口水吐在上面充当润滑，然后才又挺入。但就是这短短数秒，我也必须调用自己全部的理智，因为我脑子里被刺激得只有一个念头：“我必须操他。”"
 
 # game/story/Chapter 1.rpy:1024
 translate Schinese TIME_MIDNIGHT_a172fd70:
@@ -3825,7 +3828,7 @@ translate Schinese TIME_MIDNIGHT_93e0e758:
 translate Schinese TIME_MIDNIGHT_48d44f78:
 
     # "The wolf's eyes are shut as he moans from the rough pounding I'm giving him."
-    "狼闭上了眼睛，嘴巴里只剩下‘呜呜’的声音，因为我在毫不留情地捶打他。"
+    "狼闭上了眼睛，嘴巴里只剩下“呜呜”的声音，因为我在毫不留情地捶打他。"
 
 # game/story/Chapter 1.rpy:1064
 translate Schinese TIME_MIDNIGHT_ad242d0f:
@@ -3939,7 +3942,7 @@ translate Schinese TIME_MIDNIGHT_13791f29:
 translate Schinese TIME_MIDNIGHT_86d5fbf9:
 
     # "Kobu's eyes flutter as he lays there in the afterglow of our 'investigation'."
-    "‘调查’临近尾声，Kobu扑闪扑闪眨着眼睛。"
+    "“调查”临近尾声，Kobu扑闪扑闪眨着眼睛。"
 
 # game/story/Chapter 1.rpy:1102
 translate Schinese TIME_MIDNIGHT_3222ce13:
@@ -4017,7 +4020,7 @@ translate Schinese TIME_MIDNIGHT_55a2ab35:
 translate Schinese TIME_MIDNIGHT_639401e4:
 
     # p "Come on, let's get out of here before we become the new bio lab 'monster'."
-    p "来吧，我们离开这里，趁还没变成生物实验室里的新‘怪物’。"
+    p "来吧，我们离开这里，趁还没变成生物实验室里的新“怪物”。"
 
 # game/story/Chapter 1.rpy:1136
 translate Schinese TIME_MIDNIGHT_849d6831:
@@ -4137,19 +4140,19 @@ translate Schinese TIME_MIDNIGHT_7cf70ef5:
 translate Schinese TIME_MIDNIGHT_cf0d0103:
 
     # p "I... I can't. Sorry."
-    p "我...我不能，对不起。"
+    p "我...我没那个想法，对不起。"
 
 # game/story/Chapter 1.rpy:1164
 translate Schinese TIME_MIDNIGHT_5b757a69:
 
     # K sad "Well there's an egg on my face."
-    K sad "好吧，看来是我自作多情了。"
+    K sad "好吧，看来是我会错了意。"
 
 # game/story/Chapter 1.rpy:1166
 translate Schinese TIME_MIDNIGHT_ddfc8acd:
 
     # "The wolf picks up his discarded clothing and redresses himself."
-    "狼捡起他丢的衣服，重新穿上"
+    "狼捡起他丢下的衣服，重新穿在身上"
 
 # game/story/Chapter 1.rpy:1168
 translate Schinese TIME_MIDNIGHT_670e9551:
@@ -4161,25 +4164,26 @@ translate Schinese TIME_MIDNIGHT_670e9551:
 translate Schinese TIME_MIDNIGHT_2d3cb173:
 
     # "Our walk back starts quiet, until Kobu is first to speak up."
-    "一路上都很安静，直到Kobu率先打破了沉默"
+    "一路上，我们彼此一言不发。"
+    "最终是Kobu打破了沉默。"
 
 # game/story/Chapter 1.rpy:1173
 translate Schinese TIME_MIDNIGHT_63f65142:
 
     # K "Well, that was some night. Dude, if you were a little clearer, we wouldn't have to go through all of this."
-    K "真是个尴尬的夜晚啊，伙计。你要是再讲清楚一点，咱们就没这么多事儿了。"
+    K "真是个令人尴尬的夜晚啊，哥们。要是你当初再讲清楚一点，咱们就没这么多事儿了。"
 
 # game/story/Chapter 1.rpy:1174
 translate Schinese TIME_MIDNIGHT_5586f015:
 
     # p "Hey, things wouldn't have turned out this way if you kept your pants on."
-    p "你要是不脱裤子，今夜就不会尴尬。"
+    p "能这么尴尬，还不是因为你脱得只剩条内裤，都不提前打声招呼。"
 
 # game/story/Chapter 1.rpy:1175
 translate Schinese TIME_MIDNIGHT_b62be320:
 
     # K neutral "Get used to it bub, most of the guys in this university are always down to bang."
-    K neutral "趁早习惯吧，哥们，这所学校里的大多数人就喜欢啪啪啪。"
+    K neutral "你还是趁早习惯吧，哥们，这所学校里的大多数人都喜欢约炮。"
 
 # game/story/Chapter 1.rpy:1176
 translate Schinese TIME_MIDNIGHT_ca7dc0f2_1:
@@ -4197,13 +4201,13 @@ translate Schinese TIME_MIDNIGHT_bdb4e23a:
 translate Schinese TIME_MIDNIGHT_fd7f37f4:
 
     # p "My god, what did I get myself into?"
-    p "天呐，我这是到了一个什么地方啊？"
+    p "老天，我这是到了一个什么地方啊？"
 
 # game/story/Chapter 1.rpy:1179
 translate Schinese TIME_MIDNIGHT_793d3065:
 
     # K "I'd be more worried about you walking into these kinds of situations and not knowing them, like tonight?"
-    K "我更担心你莫名其妙就落到今晚这种局面里了。"
+    K "我担心你日后还会莫名其妙落到像今晚这样的局面里。"
 
 # game/story/Chapter 1.rpy:1180
 translate Schinese TIME_MIDNIGHT_3acd9b70:
@@ -4227,19 +4231,19 @@ translate Schinese TIME_MIDNIGHT_9609afc9:
 translate Schinese TIME_MIDNIGHT_3a147cc2:
 
     # "He runs off ahead leaving me at my own pace."
-    "他跑到前面去了，只留下走路的我。"
+    "他快步跑开了，只留下走路的我。"
 
 # game/story/Chapter 1.rpy:1185
 translate Schinese TIME_MIDNIGHT_7c21d192:
 
     # "I make it back to the dorm but Kobu's nowhere in sight."
-    "我回到了宿舍，可哪里都不见Kobu。"
+    "我回到了宿舍，可哪里都找不到Kobu。"
 
 # game/story/Chapter 1.rpy:1191
 translate Schinese TIME_SUNDAY_b9c75b35:
 
     # "I awaken with a very intrusive boner."
-    "我带着一根异常坚挺的晨勃醒来。"
+    "小弟弟死死顶着我的裤子，我又一次被晨勃憋醒。"
 
 # game/story/Chapter 1.rpy:1192
 translate Schinese TIME_SUNDAY_44b2d0da:
@@ -4275,7 +4279,7 @@ translate Schinese TIME_SUNDAY_f42d4e54:
 translate Schinese TIME_SUNDAY_cae73d39:
 
     # "His thighs can probably crush my skull..."
-    "他的大腿足以夹碎我的脑袋..."
+    "他的大腿壮硕到足以轻易夹碎我的脑袋..."
 
 # game/story/Chapter 1.rpy:1206
 translate Schinese TIME_SUNDAY_b1688a28:
@@ -4719,7 +4723,7 @@ translate Schinese TIME_SUNDAY_5558013f:
 translate Schinese TIME_SUNDAY_6f7ea2a2:
 
     # "King sent a message. “Meet me at the club room tomorrow at three. I've got a big announcement”"
-    "King发过来一条短信：‘明天三点社团见，我有一件大事要宣布。’"
+    "King发过来一条短信：“明天三点社团见，我有一件大事要宣布。”"
 
 # game/story/Chapter 1.rpy:1347
 translate Schinese TIME_SUNDAY_5db1d0ea:
@@ -4915,13 +4919,13 @@ translate Schinese TIME_MONDAY_dcf8d55b:
 
 translate Schinese strings:
 
+    # game/story/Chapter 1.rpy:26
+    old "???{#speakingName}"
+    new "???{#speakingName}"
+
     # game/story/Chapter 1.rpy:5
     old "Chapter 1"
     new "第一章"
-
-    # game/story/Chapter 1.rpy:26
-    old "???{#speakingName}"
-    new "？？？{#speakingName}"
 
     # game/story/Chapter 1.rpy:52
     old "Buttface{#joke_name}"
@@ -4945,19 +4949,19 @@ translate Schinese strings:
 
     # game/story/Chapter 1.rpy:101
     old "I love what this club does."
-    new "我喜欢这个社团。"
+    new "我喜欢这个社团"
 
     # game/story/Chapter 1.rpy:101
     old "King made me join."
-    new "King让我加入的。"
+    new "King让我加入的"
 
     # game/story/Chapter 1.rpy:137
     old "Leave the club."
-    new "退出社团。"
+    new "退出社团"
 
     # game/story/Chapter 1.rpy:137
     old "Stay in the club."
-    new "留在社团。"
+    new "留在社团"
 
     # game/story/Chapter 1.rpy:149
     old "Fin"
@@ -4965,55 +4969,55 @@ translate Schinese strings:
 
     # game/story/Chapter 1.rpy:184
     old "Say a regular goodbye."
-    new "正式道别。"
+    new "正经道别"
 
     # game/story/Chapter 1.rpy:184
     old "Random brain words go brrr."
-    new "不假思索地道别。"
+    new "道别，但是说话不过脑子"
 
     # game/story/Chapter 1.rpy:226
     old "Be sceptical of the rumour."
-    new "对传闻持怀疑态度。"
+    new "对传闻持怀疑态度"
 
     # game/story/Chapter 1.rpy:226
     old "Believe the rumour."
-    new "相信传闻。"
+    new "相信传闻"
 
     # game/story/Chapter 1.rpy:268
     old "Talk about King's essay."
-    new "讨论King的文章。"
+    new "讨论King的文章"
 
     # game/story/Chapter 1.rpy:268
     old "Remain silent."
-    new "保持沉默。"
+    new "保持沉默"
 
     # game/story/Chapter 1.rpy:283
     old "Accept."
-    new "答应。"
+    new "答应"
 
     # game/story/Chapter 1.rpy:283
     old "Reject."
-    new "拒绝。"
+    new "拒绝"
 
     # game/story/Chapter 1.rpy:332
     old "Yeah."
-    new "好啊。"
+    new "好啊"
 
     # game/story/Chapter 1.rpy:332
     old "Nah."
-    new "算了。"
+    new "算了"
 
     # game/story/Chapter 1.rpy:387
     old "Study"
-    new "学习。"
+    new "学习"
 
     # game/story/Chapter 1.rpy:387
     old "Sleep."
-    new "睡觉。"
+    new "睡觉"
 
     # game/story/Chapter 1.rpy:387
     old "Play games."
-    new "玩游戏。"
+    new "玩游戏"
 
     # game/story/Chapter 1.rpy:405
     old "Saturday"
@@ -5025,81 +5029,83 @@ translate Schinese strings:
 
     # game/story/Chapter 1.rpy:457
     old "Knock on the door with soft rock music playing."
-    new "敲播放摇滚乐的房间的门。"
+    new "敲播放着{rb}慢摇滚{/rb}{rt}soft rock{/rt}乐房间的门"
 
     # game/story/Chapter 1.rpy:457
     old "Knock on the door with the Overlord sticker."
-    new "敲贴着霸王海报的门。"
+    new "敲贴着冥界领主海报的门"
 
     # game/story/Chapter 1.rpy:532
     old "Talk to Kobu."
-    new "和Kobu交谈。"
+    new "安慰Kobu"
 
     # game/story/Chapter 1.rpy:532
     old "Distract Kobu with the package."
-    new "用包裹分散Kobu的注意力。"
+    new "提醒Kobu快递包裹的事"
 
     # game/story/Chapter 1.rpy:630
     old "Reject the reward."
-    new "婉拒。"
+    new "婉拒"
 
     # game/story/Chapter 1.rpy:630
     old "Ask for more."
-    new "要求更多。"
+    new "要求Kobu额外补偿你所受到的精神损伤"
 
     # game/story/Chapter 1.rpy:715
     old "Visit Prof. Noxmare."
-    new "拜访Noxmare教授。"
+    new "拜访Noxmare教授"
 
     # game/story/Chapter 1.rpy:715
     old "Relax alone."
-    new "独自休息。"
+    new "独自休息"
 
     # game/story/Chapter 1.rpy:734
     old "Offer to do some research work."
-    new "提出帮忙做研究。"
+    new "提出帮忙做研究"
 
     # game/story/Chapter 1.rpy:734
     old "Ask for an interview."
-    new "要求采访。"
+    new "提出采访请求"
 
     # game/story/Chapter 1.rpy:786
     old "The supernatural does exist."
-    new "超自然现象确实存在。"
+    new "超自然现象确实存在"
 
     # game/story/Chapter 1.rpy:786
     old "There is nothing supernatural about the world."
-    new "世界上不可能有超自然的东西。"
+    new "世界上不可能有超自然的东西"
 
     # game/story/Chapter 1.rpy:909
     old "Disappointed."
-    new "失望。"
+    new "失望"
 
     # game/story/Chapter 1.rpy:909
     old "Glad."
-    new "高兴。"
+    new "高兴"
 
     # game/story/Chapter 1.rpy:946
     old "Yes."
-    new "想。"
+    new "想"
 
     # game/story/Chapter 1.rpy:946
     old "No."
-    new "不想。"
+    new "不想"
 
     # game/story/Chapter 1.rpy:1193
     old "Jerk off to Noxmare"
-    new "想着Noxmare打飞机。"
+    new "想着Noxmare打飞机"
 
     # game/story/Chapter 1.rpy:1193
     old "Jerk off to Kobu"
-    new "想着Kobu打飞机。"
+    new "想着Kobu打飞机"
 
     # game/story/Chapter 1.rpy:1193
     old "Wake up and get out there."
-    new "起床离开宿舍。"
+    new "起床离开宿舍"
 
     # game/story/Chapter 1.rpy:1335
     old "Write."
-    new "写作。"
+    new "写作"
+
+
 
