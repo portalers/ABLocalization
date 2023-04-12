@@ -6,6 +6,9 @@ init python:
     no_TW = Character('???', color="#ff3333", screen="sayMore", show_col="#ff3333", what_font="fonts/sin_TW.ttf")
     no2_TW = Character('???', color="#255226", screen="sayMore", show_col="#255226", what_font="fonts/sin_TW.ttf")
 
+
 translate None python:
     if not renpy.variant("pc"):
         gui.button_text_size = 31
+    ## 调整默认文本播放速度
+    preferences.text_cps = 40
