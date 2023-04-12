@@ -40,19 +40,19 @@ translate Schinese commonroute_19fc7758:
 translate Schinese commonroute_0b32187b:
 
     # "I'm just tired..."
-    "我只是厌倦了..."
+    "我只是...好累..."
 
 # game/commonroute.rpy:14
 translate Schinese commonroute_b5553ef5:
 
     # "No matter what I do, no matter how hard I try to change things...it just feels like I'm moving in circles here."
-    "感觉无论我怎么做，无论我多么努力地去改变...终究只是在兜圈子。"
+    "无论我干什么，无论我多么努力地去改变...终究只是在原地兜圈子。"
 
 # game/commonroute.rpy:15
 translate Schinese commonroute_22f84e59:
 
     # "An endless circle; that's what this shithole of a town is..."
-    "兜不尽的圈子。这镇子就是这么一个鬼地方..."
+    "无论你付出多少努力都难以离开这里。离开这个鬼地方..."
 
 # game/commonroute.rpy:16
 translate Schinese commonroute_d8f16031:
@@ -982,7 +982,7 @@ translate Schinese commonroute_08ed5fd1:
 translate Schinese commonroute_f80d7d71:
 
     # ja "\"See, this is what I wanted to tell ya about. I didn't dig it up. Someone left some gold in a few bags that they already done mined.\""
-    ja "“不是我挖出来的。我跟你说，有人采完矿之后，在下面留了几个袋子，其中就有黄金。”"
+    ja "“不是我挖出来的。我跟你说，是有人挖完金矿后，留下的几个袋子里还剩点金子。”"
 
 # game/commonroute.rpy:206
 translate Schinese commonroute_fb80c1c6:
@@ -1948,7 +1948,7 @@ translate Schinese commonroute_5547c5b2:
 translate Schinese commonroute_341cbb7c:
 
     # "When I pull the pickaxe away his expression is completely different, his eyes empty and distant."
-    "我拔出了镐的时候，他的表情已经截然不同，眼神空洞而遥远。"
+    "我拔出镐的时候，他的表情已经截然不同，眼神空洞而遥远。"
 
 # game/commonroute.rpy:383
 translate Schinese commonroute_a329536f:
@@ -4348,7 +4348,7 @@ translate Schinese commonroute_29651b31:
 translate Schinese commonroute_e6d36697:
 
     # "Harlan’s ear is twitching worse than it’s ever been before."
-    "Harlan的耳朵头一次抽搐地这么厉害。"
+    "Harlan的耳朵头一次抽搐得这么厉害。"
 
 # game/commonroute.rpy:940
 translate Schinese commonroute_e3dc6288:

@@ -6140,7 +6140,7 @@ translate Schinese nikroute_5c72916f:
 translate Schinese nikroute_3b088e7f:
 
     # m "\"Will and purpose?\""
-    m "意愿和目的？"
+    m "志同道合？"
 
 # game/nikroute.rpy:1321
 translate Schinese nikroute_ef9c8fd3:

@@ -1420,19 +1420,19 @@ translate Tchinese williamroute_1c9ec3e8:
 translate Tchinese williamroute_a509e1d1:
 
     # wi "\"We don't need none of that.\""
-    wi "“沒必要引起麻煩。”"
+    wi "“沒必要動粗。”"
 
 # game/williamroute.rpy:344
 translate Tchinese williamroute_c82bfd60:
 
     # wi "\"Frankly it's a matter of the law.\""
-    wi "“說白了就只是法定程序。”"
+    wi "“說簡單點就是法定程式。”"
 
 # game/williamroute.rpy:345
 translate Tchinese williamroute_ce40a496:
 
     # wi "\"Sam claims to be a witness. That may or may not hold water.\""
-    wi "“Sam自稱是證人，還有待確認。”"
+    wi "“Sam自稱是證人，但還沒被認證。”"
 
 # game/williamroute.rpy:347
 translate Tchinese williamroute_ed53ab79:
@@ -1546,7 +1546,7 @@ translate Tchinese williamroute_0de190f9:
 translate Tchinese williamroute_0487ee74:
 
     # "I stare ahead, feeling nothing, as we walk between shops."
-    "我們行走在店鋪之間，我望向前方，內心一片茫然。"
+    "在我們經過並列的店家時，我盯著前方，內心一片共白。"
 
 # game/williamroute.rpy:377
 translate Tchinese williamroute_d212bf15:

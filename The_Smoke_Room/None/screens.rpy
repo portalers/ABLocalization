@@ -17,31 +17,13 @@ screen preferences():
                 if renpy.variant("pc"):
 
                     vbox:
-                        style_prefix "radio"
+                        style_prefix "check"
                         label _("Display")
                         textbutton _("Window") action Preference("display", "window")
                         textbutton _("Fullscreen") action Preference("display", "fullscreen")
 
-                if renpy.variant("small"):
-
-                    vbox:
-                        style_prefix "radio"
-                        label _("Language")
-                        textbutton "English" action Language(None)
-                        textbutton "{font=font/SourceHanSerifCN-Regular.otf}简体中文{/font}" action Language("Schinese")
-                        textbutton "{font=font/SourceHanSerifTW-Regular.otf}繁體中文{/font}" action Language("Tchinese")
-
-                if renpy.variant("medium"):
-
-                    vbox:
-                        style_prefix "radio"
-                        label _("Language")
-                        textbutton "English" action Language(None)
-                        textbutton "{font=font/SourceHanSerifCN-Regular.otf}简体中文{/font}" action Language("Schinese")
-                        textbutton "{font=font/SourceHanSerifTW-Regular.otf}繁體中文{/font}" action Language("Tchinese")
-
                 vbox:
-                    style_prefix "radio"
+                    style_prefix "check"
                     label _("Rollback Side")
                     textbutton _("Disable") action Preference("rollback side", "disable")
                     textbutton _("Left") action Preference("rollback side", "left")
@@ -54,13 +36,13 @@ screen preferences():
                     textbutton _("After Choices") action Preference("after choices", "toggle")
                     textbutton _("Transitions") action InvertSelected(Preference("transitions", "toggle"))
 
-                if renpy.variant("pc"):
-                   vbox:
-                       style_prefix "radio"
-                       label _("Language")
-                       textbutton "English" action Language(None)
-                       textbutton "{font=font/SourceHanSerifCN-Regular.otf}简体中文{/font}" action Language("Schinese")
-                       textbutton "{font=font/SourceHanSerifTW-Regular.otf}繁體中文{/font}" action Language("Tchinese")
+
+                vbox:
+                    style_prefix "check"
+                    label _("Language")
+                    textbutton "English" action Language(None)
+                    textbutton "{font=fonts/SourceHanSerifCN-Bold.otf}简体中文{/font}" action Language("Schinese")
+                    textbutton "{font=fonts/SourceHanSerifTW-Bold.otf}繁體中文{/font}" action Language("Tchinese")
 
                 ## Additional vboxes of type "radio_pref" or "check_pref" can be
                 ## added here, to add additional creator-defined preferences.
@@ -117,19 +99,9 @@ screen preferences():
                             style "mute_all_button"
 
 
-## Choice Buttons ##############################################################
-##
-## Choice buttons are used in the in-game menus.
 
-define gui.choice_button_width = 1185
-define gui.choice_button_height = None
-define gui.choice_button_tile = False
-define gui.choice_button_borders = Borders(150, 8, 150, 8)
-define gui.choice_button_text_font = gui.text_font
-define gui.choice_button_text_size = gui.text_size
-define gui.choice_button_text_xalign = 0.5
-define gui.choice_button_text_idle_color = "#cccccc"
-define gui.choice_button_text_hover_color = "#ffffff"
+## This increases the size of the quick buttons to make them easier to touch
+## on tablets and phones.
 
 screen quick_menu_will():
     variant "touch"
@@ -151,7 +123,7 @@ screen quick_menu_will():
             textbutton _("Q.Save") action QuickSave()
             textbutton _("Q.Load") action QuickLoad()
             textbutton _("Prefs") action ShowMenu('preferences')
-            textbutton _("Hide-") action HideInterface()
+            textbutton _("Hide") action HideInterface()
             textbutton _("Notebook") action (renpy.restart_interaction, ShowMenu('willnotes_screen'))
 
 
@@ -175,3 +147,57 @@ screen quick_menu():
             textbutton _("Q.Load") action QuickLoad()
             textbutton _("Prefs") action ShowMenu('preferences')
             textbutton _("Hide") action HideInterface()
+
+###修复章节选择界面立绘异常问题
+screen nik_select():
+    vbox:
+        grid 3 2:
+            style_prefix "gslot"
+            spacing gui.slot_spacing
+            imagebutton idle "images/thumbnails/samthumb1.webp" action Confirm(spoiler_message, Function(call_chapter_select, "Nikolai", 1), Hide("confirm"))
+            imagebutton idle "images/thumbnails/nikthumb1.webp" action Confirm(spoiler_message, Function(call_chapter_select, "Nikolai", 2), Hide("confirm"))
+            imagebutton idle "images/thumbnails/nikthumb2.webp" action Confirm(spoiler_message, Function(call_chapter_select, "Nikolai", 3), Hide("confirm"))
+            imagebutton idle "images/thumbnails/nikthumb3.webp" action Confirm(spoiler_message, Function(call_chapter_select, "Nikolai", 4), Hide("confirm"))
+            null
+            null
+        add "sprites/nik/nik.webp" xpos 820 xysize(981,1080) ypos -474 alpha 0.75 zoom 0.8
+
+screen will_select():
+    vbox:
+        grid 3 2:
+            style_prefix "gslot"
+            spacing gui.slot_spacing
+            ## scene 1
+            imagebutton idle "images/thumbnails/samthumb1.webp" action Confirm(spoiler_message, Function(call_chapter_select, "William", 1), Hide("confirm"))
+            imagebutton idle "images/thumbnails/wilthumb1.webp" action Confirm(spoiler_message, Function(call_chapter_select, "William", 2), Hide("confirm"))
+            imagebutton idle "images/thumbnails/wilthumb2.webp" action Confirm(spoiler_message, Function(call_chapter_select, "William", 3), Hide("confirm"))
+            imagebutton idle "images/thumbnails/luthumb.webp" action Confirm(spoiler_message, Function(call_chapter_select, "William", 4), Hide("confirm"))
+            null
+            null
+        add "sprites/william/wil.webp" xpos 800 xysize(961,1075) ypos -470 alpha 0.75 zoom 0.8
+
+screen murdoch_select():
+    vbox:
+        grid 3 2:
+            style_prefix "gslot"
+            spacing gui.slot_spacing
+            imagebutton idle "images/thumbnails/samthumb1.webp" action Confirm(spoiler_message, Function(call_chapter_select, "Murdoch", 1), Hide("confirm"))
+            imagebutton idle "images/thumbnails/murthumb1.webp" action Confirm(spoiler_message, Function(call_chapter_select, "Murdoch", 2), Hide("confirm"))
+            imagebutton idle "images/thumbnails/murthumb2.webp" action Confirm(spoiler_message, Function(call_chapter_select, "Murdoch", 3), Hide("confirm"))
+            imagebutton idle "images/thumbnails/luthumb.webp" action Confirm(spoiler_message, Function(call_chapter_select, "Murdoch", 4), Hide("confirm"))
+            null
+            null
+        add "sprites/murdoch/mur.webp" xpos 800 xysize(961,1075) ypos -470 alpha 0.75 zoom 0.8
+
+screen cliff_select():
+    vbox:
+        grid 3 2:
+            style_prefix "gslot"
+            spacing gui.slot_spacing
+            imagebutton idle "images/thumbnails/samthumb1.webp" action Confirm(spoiler_message, Function(call_chapter_select, "Clifford", 1), Hide("confirm"))
+            imagebutton idle "images/thumbnails/cliffthumb1.webp" action Confirm(spoiler_message, Function(call_chapter_select, "Clifford", 2), Hide("confirm"))
+            imagebutton idle "images/thumbnails/cliffthumb2.jpg" action Confirm(spoiler_message, Function(call_chapter_select, "Clifford", 3), Hide("confirm"))
+            imagebutton idle "images/thumbnails/luthumb.webp" action Confirm(spoiler_message, Function(call_chapter_select, "Clifford", 4), Hide("confirm"))
+            null
+            null
+        add "sprites/cliff/cli.webp" xpos 900 xysize(748,925) ypos -350 alpha 0.75 zoom 0.8

@@ -562,7 +562,7 @@ translate Schinese nikroute2_352faad7:
 translate Schinese nikroute2_5e7d09ac:
 
     # ya "\"But Jack was an unethical drunk who substituted earnesty for wit...\""
-    ya "但Jack是一个没有节操的酒鬼，毫无真诚只会耍小聪明..."
+    ya "“但Jack是个没有道德感的酒鬼、做人毫无真诚、只会耍小聪明……”"
 
 # game/nikroute2.rpy:170
 translate Schinese nikroute2_7e172d1c:
@@ -23732,8 +23732,8 @@ translate Schinese locker1bright_9613c394:
 # game/nikroute2.rpy:8144
 translate Schinese locker1bright_03016300:
 
-    # no "\"Leave... now...\""
-    no "“马上...离开...”"
+    # no_CN "\"Leave... now...\""
+    no_CN "“马上...离开...”"
 
 # game/nikroute2.rpy:8146
 translate Schinese locker1bright_95a2766e:
@@ -23744,8 +23744,8 @@ translate Schinese locker1bright_95a2766e:
 # game/nikroute2.rpy:8148
 translate Schinese locker1bright_14834fa6:
 
-    # no "\"Get away now.\""
-    no "“赶紧逃。”"
+    # no_CN "\"Get away now.\""
+    no_CN "“赶紧逃。”"
 
 # game/nikroute2.rpy:8150
 translate Schinese locker1bright_8045c3e0:
@@ -24008,8 +24008,8 @@ translate Schinese locker1bright_fa3dd05a:
 # game/nikroute2.rpy:8238
 translate Schinese locker1bright_c89ed8bf:
 
-    # no "\"Go now.\""
-    no "“快逃。”"
+    # no_CN "\"Go now.\""
+    no_CN "“快逃。”"
 
 # game/nikroute2.rpy:8240
 translate Schinese locker1bright_b50318bb:
@@ -24032,8 +24032,8 @@ translate Schinese locker1bright_303cb7af:
 # game/nikroute2.rpy:8250
 translate Schinese locker1bright_4dbde96e:
 
-    # no "\"Go now go now go now GO NOW.\""
-    no "“快逃快逃快逃{b}快逃{/b}。”"
+    # no_CN "\"Go now go now go now GO NOW.\""
+    no_CN "“快逃快逃快逃{b}快逃{/b}。”"
 
 # game/nikroute2.rpy:8254
 translate Schinese locker1bright_69d2353b:

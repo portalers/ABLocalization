@@ -568,7 +568,7 @@ translate Schinese cliffroute_8c9c773b:
 translate Schinese cliffroute_a7051caf:
 
     # "He looks away, at the floor, at the walls."
-    "他别开目光，看向地板和墙壁，"
+    "他别开目光，看向地板和墙壁。"
 
 # game/cliffroute.rpy:143
 translate Schinese cliffroute_f9627da1:
@@ -772,7 +772,7 @@ translate Schinese cliffroute_6c8238b1:
 translate Schinese cliffroute_a20698c7:
 
     # "He strikes me as the inexperienced type, so I put my paw on his, guiding it to my side."
-    "他一看就缺乏经验，于是我用自己的爪子握住它的那根，引导它更进一步。"
+    "他一看就缺乏经验，于是我用自己的爪子握住他的爪，引导它更进一步。"
 
 # game/cliffroute.rpy:185
 translate Schinese cliffroute_7b128051:
@@ -1312,7 +1312,7 @@ translate Schinese cliffroute_5b982364:
 translate Schinese cliffroute_d00d6954:
 
     # "The weasel’s mouth is still open when I push the back of his head down on me, filling as much of his short, broad muzzle with my dick as I can without making him gag."
-    "在鼬的嘴依然张着的时候，我将他的后脑勺推了过来，我用下面尽可能填满他又短又宽的嘴，同时又不会让它作呕。"
+    "在鼬的嘴依然张着的时候，我将他的后脑勺推了过来，我用下面尽可能填满他又短又宽的嘴，同时又不会让他作呕。"
 
 # game/cliffroute.rpy:291
 translate Schinese cliffroute_3eb6de51:
@@ -5499,7 +5499,7 @@ translate Schinese cliffroute_68ab05c9:
 translate Schinese cliffroute_b24f5363:
 
     # "I've never told her I wanted to leave, but Cynthia has a way of finding things out for her own."
-    "我从没有向她吐过想要离开苦水，但她总有办法找到答案。"
+    "我从没有向她吐过想要离开的苦水，但她总有办法找到答案。"
 
 # game/cliffroute.rpy:1271
 translate Schinese cliffroute_b40a539b:
@@ -6171,7 +6171,7 @@ translate Schinese cliffroute_04091168:
 translate Schinese cliffroute_f3739ec9:
 
     # cl "\"We've no time to stay indoors. We're leaving Echo tomorrow.\""
-    cl "“我们没时间在室内呆着了。我们明天就要离开回声镇。”"
+    cl "“没时间在室内呆着了。我们明天就要离开回音镇。”"
 
 # game/cliffroute.rpy:1403
 translate Schinese cliffroute_00fe9e0e:

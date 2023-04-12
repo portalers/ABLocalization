@@ -9778,7 +9778,7 @@ translate Schinese hipinvestigation_db1d64e1:
 translate Schinese hipinvestigation_853acb36:
 
     # wi "\"Because it does.\""
-    wi "“我是被吓到了”"
+    wi "“我是被吓到了。”"
 
 # game/williamroute3.rpy:3819
 translate Schinese hipinvestigation_47c59c27:
@@ -19162,7 +19162,7 @@ translate Schinese williamroute3a_e7e0ac4b:
 translate Schinese williamroute3a_87c16c59:
 
     # ra "\"Don’t you know it’s closing time?\""
-    ra "“看不见我们已经打样了么？”"
+    ra "“看不见我们已经打烊了么？”"
 
 # game/williamroute3.rpy:7042
 translate Schinese williamroute3a_4f7d40a1_1:
@@ -19732,14 +19732,6 @@ translate Schinese strings:
     old "The Stag."
     new "Stag酒馆。"
 
-    # game/williamroute3.rpy:1617
-    old "According to Reed, Huxley's gun was pawned. Sales records indicate Huxley repurchased it."
-    new "根据Reed的说法，Huxley的枪被当了。销售记录显示是Huxley亲自赎回了它。"
-
-    # game/williamroute3.rpy:1689
-    old "Huxley was an alcoholic who needed more money for his drinking habit. I wonder where he was getting the cash?"
-    new "Huxley的财产不足以满足他嗜酒如命的习惯，他从哪儿弄来的钱？"
-
     # game/williamroute3.rpy:1955
     old "What should I do right now?"
     new "我该怎么做？"
@@ -19751,14 +19743,6 @@ translate Schinese strings:
     # game/williamroute3.rpy:1955
     old "Talk to James."
     new "跟上James。"
-
-    # game/williamroute3.rpy:2524
-    old "Made James bleed. Was funny."
-    new "把James扁了一顿，痛快。"
-
-    # game/williamroute3.rpy:2632
-    old "Apparently, at least one person who works at the hip is leaking information to James."
-    new "看来，Hip的员工里至少有一个是James的内应。"
 
     # game/williamroute3.rpy:2800
     old "Where should I look right now?"
@@ -19784,18 +19768,6 @@ translate Schinese strings:
     old "Talk to the miners."
     new "矿工们。"
 
-    # game/williamroute3.rpy:2980
-    old "{s}Could a CGCS employee placed a hit on Cliff, or was it somebody else?{/s} Seems like the CGCS employees loyal to the company don't even get along. Some favor James. Some favor Briggs."
-    new "{s}策划袭击Cliff的是CGCS的员工，亦或是另有其人？{/s}看来CGCS的家伙们也不全是一条心。有一派支持James，还有一派支持Briggs。"
-
-    # game/williamroute3.rpy:3128
-    old "Harlan gets into fights with James? He usually keeps things professional."
-    new "Harlan和James打架？他很有职业操守的啊。"
-
-    # game/williamroute3.rpy:3873
-    old "Maybe Cynthia does too."
-    new "或许Cynthia也是。"
-
     # game/williamroute3.rpy:3884
     old "Now, who would be the most useful to talk to?"
     new "谁最值得交谈？"
@@ -19816,15 +19788,7 @@ translate Schinese strings:
     old "Talk to Cynthia."
     new "Cynthia。"
 
-    # game/williamroute3.rpy:4035
-    old "Harlan has a grudge against James and has regular access to most of Dora's information."
-    new "Harlan对James怀恨在心，并且能够获取Dora的大部分情报。"
-
-    # game/williamroute3.rpy:4129
-    old "Ethel reacted to a hollow threat of exposure. She's probably the one leaking information to James."
-    new "Ethel对我的虚张声势做出了反应，很可能是她把消息泄露给James的。"
-
-    # game/williamroute3.rpy:6953
-    old "It used to belong to Marcy's sister."
-    new "它曾经属于Marcy的姐妹。"
+    # game/williamroute3.rpy:682
+    old "..."
+    new "..."
 

@@ -568,7 +568,7 @@ translate Tchinese cliffroute_8c9c773b:
 translate Tchinese cliffroute_a7051caf:
 
     # "He looks away, at the floor, at the walls."
-    "他別開目光，看向地板和牆壁，"
+    "他別開目光，看向地板和牆壁。"
 
 # game/cliffroute.rpy:150
 translate Tchinese cliffroute_f9627da1:
@@ -5500,7 +5500,7 @@ translate Tchinese cliffroute_68ab05c9:
 translate Tchinese cliffroute_b24f5363:
 
     # "I've never told her I wanted to leave, but Cynthia has a way of finding things out for her own."
-    "我從沒有向她吐過想要離開苦水，但她總有辦法找到答案。"
+    "我從沒有向她吐過想要離開的苦水，但她總有辦法找到答案。"
 
 # game/cliffroute.rpy:1271
 translate Tchinese cliffroute_b40a539b:

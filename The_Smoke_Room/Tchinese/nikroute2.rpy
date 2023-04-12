@@ -15742,7 +15742,7 @@ translate Tchinese sny1_6d5a896a:
 translate Tchinese sny1_8d2cbf81:
 
     # ya "\"Most in this town would not be able to read it, but hiding it would not hurt.\""
-    ya "“鎮上能看懂的也沒有多少人，但藏著也好。”"
+    ya "“無關緊要，畢竟鎮上能看懂的也沒有多少人。”"
 
 # game/nikroute2.rpy:5109
 translate Tchinese sny1_78f6cc03:
@@ -16018,7 +16018,7 @@ translate Tchinese sny1_6436d74f:
 translate Tchinese sny1_ea9b3bac:
 
     # "He has a very serious face, but I can’t deny, it is handsome."
-    "他的臉是很嚴肅，但不可否認的是，同時也很帥氣。"
+    "他的臉很嚴肅，但不可否認的是，同時也很帥氣。"
 
 # game/nikroute2.rpy:5207
 translate Tchinese sny1_2fcc0375:
@@ -23730,8 +23730,8 @@ translate Tchinese locker1bright_9613c394:
 # game/nikroute2.rpy:8142
 translate Tchinese locker1bright_03016300:
 
-    # no "\"Leave... now...\""
-    no "“馬上……離開……”"
+    # no_TW "\"Leave... now...\""
+    no_TW "“馬上……離開……”"
 
 # game/nikroute2.rpy:8144
 translate Tchinese locker1bright_95a2766e:
@@ -23742,8 +23742,8 @@ translate Tchinese locker1bright_95a2766e:
 # game/nikroute2.rpy:8146
 translate Tchinese locker1bright_14834fa6:
 
-    # no "\"Get away now.\""
-    no "“快逃。”"
+    # no_TW "\"Get away now.\""
+    no_TW "“快逃。”"
 
 # game/nikroute2.rpy:8148
 translate Tchinese locker1bright_8045c3e0:
@@ -24006,8 +24006,8 @@ translate Tchinese locker1bright_fa3dd05a:
 # game/nikroute2.rpy:8236
 translate Tchinese locker1bright_c89ed8bf:
 
-    # no "\"Go now.\""
-    no "“快走。”"
+    # no_TW "\"Go now.\""
+    no_TW "“快走。”"
 
 # game/nikroute2.rpy:8238
 translate Tchinese locker1bright_b50318bb:
@@ -24030,8 +24030,8 @@ translate Tchinese locker1bright_303cb7af:
 # game/nikroute2.rpy:8248
 translate Tchinese locker1bright_4dbde96e:
 
-    # no "\"Go now go now go now GO NOW.\""
-    no "“快走快走快走{b}快走{/b}。”"
+    # no_TW "\"Go now go now go now GO NOW.\""
+    no_TW "“快走快走快走{b}快走{/b}。”"
 
 # game/nikroute2.rpy:8252
 translate Tchinese locker1bright_69d2353b:
@@ -25527,3 +25527,4 @@ translate Tchinese strings:
     # game/nikroute2.rpy:8471
     old "The map's left, my right,"
     new "地圖的左邊，我的右邊。"
+

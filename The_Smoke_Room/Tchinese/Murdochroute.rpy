@@ -334,7 +334,7 @@ translate Tchinese Murdochroute_108ece2e:
 translate Tchinese Murdochroute_1c4516e6:
 
     # mu "\"I had to share a room with both of my sisters growing up. This is fine. \""
-    mu "“我不得不和自己兩個成長中的妹妹合住一個房間。沒關係。”"
+    mu "“我曾不得不和自己兩個成長中的姊妹合住一個房間。沒關係。”"
 
 # game/Murdochroute.rpy:90
 translate Tchinese Murdochroute_40867ef8:
@@ -2092,7 +2092,7 @@ translate Tchinese Murdochroute_3d06e4c8:
 translate Tchinese Murdochroute_8bac0ad5:
 
     # mu "\"Took care of that before you got up. Had to go to the outhouse before the sun came up.\""
-    mu "“你還沒起床就處理好了。太陽升起前有必要去了趟屋外廁所。”"
+    mu "“你還沒起床就處理好了。太陽升起前有必要去趟屋外廁所。”"
 
 # game/Murdochroute.rpy:484
 translate Tchinese Murdochroute_e3a3e40a:
@@ -4024,7 +4024,7 @@ translate Tchinese Murdochroute_351952ed:
 translate Tchinese Murdochroute_37819dbf:
 
     # "He stops dead in his tracks when he sees me."
-    "看到我後，他的腳步頓時停了下來"
+    "看到我後，他的腳步頓時停了下來。"
 
 # game/Murdochroute.rpy:997
 translate Tchinese Murdochroute_0860b33d:
@@ -5038,19 +5038,19 @@ translate Tchinese Murdochroute_b0450215:
 translate Tchinese Murdochroute_929c0b5c:
 
     # mu "\"Has to be something that legitimately bothers you enough to work.\""
-    mu "“必須是合理地，足夠困擾自己的遺憾才有效果。”"
+    mu "“必須是合理的，足夠困擾自己的遺憾才有效果。”"
 
 # game/Murdochroute.rpy:1354
 translate Tchinese Murdochroute_76742342:
 
     # mu "\"You also have to say that you’re sorry, and mean it.\""
-    mu "“你還要說對不起，發自內心地。”"
+    mu "“你還要說對不起，發自內心的。”"
 
 # game/Murdochroute.rpy:1355
 translate Tchinese Murdochroute_7b04fbec:
 
     # mu "\"If you look out into the horizon and see a long cactus that’s way too tall, you’ll know you did it right.\""
-    mu "“望向地平線，如果看到一棵高得異常的仙人掌，就證明你做得是對的。”"
+    mu "“望向地平線，如果看到一株高得異常的仙人掌，就證明你做的是對的。”"
 
 # game/Murdochroute.rpy:1356
 translate Tchinese Murdochroute_698f034a:
@@ -5110,7 +5110,7 @@ translate Tchinese Murdochroute_4802ffb1:
 translate Tchinese Murdochroute_29c5a16c:
 
     # mu "\"But the simplest version goes... 'Was it hungry?'\""
-    mu "“但最簡單的說法是……‘它餓了嗎？’'”"
+    mu "“但最簡單的說法是……‘它餓了嗎？’”"
 
 # game/Murdochroute.rpy:1366
 translate Tchinese Murdochroute_67d0b84a:
@@ -5884,7 +5884,7 @@ translate Tchinese Murdochroute_6a23153d:
 translate Tchinese Murdochroute_ac56523f:
 
     # dh "\"You’ve probably given one to all of my students by now..\""
-    dh "“你可能已經發給我的全部學生了。……”"
+    dh "“你可能已經發給我的全部學生了……”"
 
 # game/Murdochroute.rpy:1579
 translate Tchinese Murdochroute_e29a84e6:
@@ -6274,7 +6274,7 @@ translate Tchinese Murdochroute_72ae28af:
 translate Tchinese Murdochroute_b4f1224a:
 
     # mu "\"I’d rather not focus on it.\""
-    mu "“我不想把精力放在那上面。''”"
+    mu "“我不想把精力放在那上面。”"
 
 # game/Murdochroute.rpy:1682
 translate Tchinese Murdochroute_9d2d6d54:

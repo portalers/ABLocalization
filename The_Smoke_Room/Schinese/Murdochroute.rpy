@@ -238,7 +238,7 @@ translate Schinese Murdochroute_43983d3e:
 translate Schinese Murdochroute_04101890:
 
     # "Not enough to live on for much longer after... but there’s no question in my mind that my luck will turn around if I can haul my ass out of this town."
-    "随说不足以维持之后的生活...但是我坚信，如果搬出这座小镇，自己一定能时来运转。"
+    "虽说不足以维持之后的生活...但是我坚信，如果搬出这座小镇，自己一定能时来运转。"
 
 # game/Murdochroute.rpy:65
 translate Schinese Murdochroute_44a5b6ee:
@@ -334,7 +334,7 @@ translate Schinese Murdochroute_108ece2e:
 translate Schinese Murdochroute_1c4516e6:
 
     # mu "\"I had to share a room with both of my sisters growing up. This is fine. \""
-    mu "“我不得不和自己两个成长中的妹妹合住一个房间。没关系。”"
+    mu "“我曾不得不和自己两个成长中的姐妹合住一个房间。没关系。”"
 
 # game/Murdochroute.rpy:90
 translate Schinese Murdochroute_40867ef8:
@@ -2092,7 +2092,7 @@ translate Schinese Murdochroute_3d06e4c8:
 translate Schinese Murdochroute_8bac0ad5:
 
     # mu "\"Took care of that before you got up. Had to go to the outhouse before the sun came up.\""
-    mu "“你还没起床就处理好了。太阳升起前有必要去了趟屋外厕所。”"
+    mu "“你还没起床就处理好了。太阳升起前有必要去趟屋外厕所。”"
 
 # game/Murdochroute.rpy:484
 translate Schinese Murdochroute_e3a3e40a:
@@ -4024,7 +4024,7 @@ translate Schinese Murdochroute_351952ed:
 translate Schinese Murdochroute_37819dbf:
 
     # "He stops dead in his tracks when he sees me."
-    "看到我后，他的脚步顿时停了下来"
+    "看到我后，他的脚步顿时停了下来。"
 
 # game/Murdochroute.rpy:997
 translate Schinese Murdochroute_0860b33d:
@@ -5038,19 +5038,19 @@ translate Schinese Murdochroute_b0450215:
 translate Schinese Murdochroute_929c0b5c:
 
     # mu "\"Has to be something that legitimately bothers you enough to work.\""
-    mu "“必须是合理地，足够困扰自己的遗憾才有效果。”"
+    mu "“必须是合理的，足够困扰自己的遗憾才有效果。”"
 
 # game/Murdochroute.rpy:1354
 translate Schinese Murdochroute_76742342:
 
     # mu "\"You also have to say that you’re sorry, and mean it.\""
-    mu "“你还要说对不起，发自内心地。”"
+    mu "“你还要说对不起，发自内心的。”"
 
 # game/Murdochroute.rpy:1355
 translate Schinese Murdochroute_7b04fbec:
 
     # mu "\"If you look out into the horizon and see a long cactus that’s way too tall, you’ll know you did it right.\""
-    mu "“望向地平线，如果看到一棵高得异常的仙人掌，就证明你做得是对的。”"
+    mu "“望向地平线，如果看到一株高得异常的仙人掌，就证明你做的是对的。”"
 
 # game/Murdochroute.rpy:1356
 translate Schinese Murdochroute_698f034a:
@@ -5110,7 +5110,7 @@ translate Schinese Murdochroute_4802ffb1:
 translate Schinese Murdochroute_29c5a16c:
 
     # mu "\"But the simplest version goes... 'Was it hungry?'\""
-    mu "“但最简单的说法是...‘它饿了吗？’'”"
+    mu "“但最简单的说法是...‘它饿了吗？’”"
 
 # game/Murdochroute.rpy:1366
 translate Schinese Murdochroute_67d0b84a:
@@ -5884,7 +5884,7 @@ translate Schinese Murdochroute_6a23153d:
 translate Schinese Murdochroute_ac56523f:
 
     # dh "\"You’ve probably given one to all of my students by now..\""
-    dh "“你可能已经发给我的全部学生了。...”"
+    dh "“你可能已经发给我的全部学生了...”"
 
 # game/Murdochroute.rpy:1579
 translate Schinese Murdochroute_e29a84e6:
@@ -6274,7 +6274,7 @@ translate Schinese Murdochroute_72ae28af:
 translate Schinese Murdochroute_b4f1224a:
 
     # mu "\"I’d rather not focus on it.\""
-    mu "“我不想把精力放在那上面。''”"
+    mu "“我不想把精力放在那上面。”"
 
 # game/Murdochroute.rpy:1682
 translate Schinese Murdochroute_9d2d6d54:

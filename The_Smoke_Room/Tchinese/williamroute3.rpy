@@ -19161,7 +19161,7 @@ translate Tchinese williamroute3a_e7e0ac4b:
 translate Tchinese williamroute3a_87c16c59:
 
     # ra "\"Don’t you know it’s closing time?\""
-    ra "“看不見我們已經打樣了嗎？”"
+    ra "“看不見我們已經打烊了嗎？”"
 
 # game/williamroute3.rpy:7042
 translate Tchinese williamroute3a_4f7d40a1_1:

@@ -982,7 +982,7 @@ translate Tchinese commonroute_08ed5fd1:
 translate Tchinese commonroute_f80d7d71:
 
     # ja "\"See, this is what I wanted to tell ya about. I didn't dig it up. Someone left some gold in a few bags that they already done mined.\""
-    ja "“不是我挖出來的。我跟你說，有人採完金子以後，在裡面留下了幾個袋子，其中就一些。”"
+    ja "“不是我挖出來的。我跟你說，是有人挖完金礦後，留下的幾個袋子裡還剩點金子。”"
 
 # game/commonroute.rpy:206
 translate Tchinese commonroute_fb80c1c6:
@@ -4348,7 +4348,7 @@ translate Tchinese commonroute_29651b31:
 translate Tchinese commonroute_e6d36697:
 
     # "Harlan’s ear is twitching worse than it’s ever been before."
-    "Harlan的耳朵頭一次抽搐地這麼厲害。"
+    "Harlan的耳朵頭一次抽搐得這麼厲害。"
 
 # game/commonroute.rpy:940
 translate Tchinese commonroute_e3dc6288:
@@ -4498,7 +4498,7 @@ translate Tchinese commonroute_42856ba4:
 translate Tchinese commonroute_c8d26628:
 
     # cl "\"Again, I didn’t mean to argue or create a scene. I truly thought my source was reliable. They said The Sanguaro’s Hip could cater to dandy curiosities.\""
-    cl "“重申一遍，我不是有意製造爭論或大吵大鬧的。我真的認為我的消息來源可靠。他們說，Sanguaro的臀能夠滿足花花公子的好奇心。”"
+    cl "“重申一遍，我不是有意製造爭論或大吵大鬧的。我真的認為我的消息來源可靠。他們說，Sanguaro’s Hip能夠滿足花花公子的好奇心。”"
 
 # game/commonroute.rpy:980
 translate Tchinese commonroute_5c0bdd4a:

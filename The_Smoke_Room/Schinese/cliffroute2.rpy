@@ -2506,7 +2506,7 @@ translate Schinese cliffroute2_7cbd67b7:
 translate Schinese cliffroute2_5dbdaa24:
 
     # mu "\"It's mottled with enough shade, should be fine.\""
-    mu "没事，阴影的面积足够。"
+    mu "“没事，阴影的面积足够。”"
 
 # game/cliffroute2.rpy:634
 translate Schinese cliffroute2_cff01c4d:
@@ -2818,7 +2818,7 @@ translate Schinese cliffroute2_93ed091c:
 translate Schinese cliffroute2_f5878607:
 
     # cl "\"Yes.\""
-    cl "是啊。"
+    cl "“是啊。”"
 
 # game/cliffroute2.rpy:698
 translate Schinese cliffroute2_d1d910d2:
@@ -3880,7 +3880,7 @@ translate Schinese cliffroute2_78d306b1:
 translate Schinese cliffroute2_098d109f:
 
     # "The camera clicks again."
-    "快门再次响起"
+    "快门声再次响起。"
 
 # game/cliffroute2.rpy:969
 translate Schinese cliffroute2_beb917be:
@@ -5032,7 +5032,7 @@ translate Schinese aftercanyon_8cce0e3b:
 translate Schinese aftercanyon_73412511:
 
     # "After meeting back up with the rest of the group, we pack up the gear before moving on."
-    "在与其他人会和后，我们收拾好行装，便继续上路了。"
+    "在与其他人和他人会合后，我们收拾好行装，便继续上路了。"
 
 # game/cliffroute2.rpy:1370
 translate Schinese aftercanyon_709ed4be:
@@ -7733,7 +7733,7 @@ translate Schinese aftercanyon_d31c92b2:
 translate Schinese aftercanyon_a91998cc:
 
     # nwi2 "{font=sin.ttf}\"{cps=0}At the end {/cps}{cps=20}of {nw}"
-    nwi2 "{font=sin.ttf}\"{cps=0}我的绞绳{/cps}{cps=20}就是{nw}"
+    nwi2 "{font=fonts/sin_CN.ttf}\"{cps=0}我的绞绳{/cps}{cps=20}就是{nw}"
 
 # game/cliffroute2.rpy:1886
 translate Schinese aftercanyon_dbc98791:
@@ -22649,7 +22649,7 @@ translate Schinese smcbath_8e3387e3:
 translate Schinese smcbath_1d52eaed:
 
     # m "\"What you're describing don't sound much like a home to me.\""
-    m "“听你的描述，我不觉得那象一个家。”"
+    m "“听你的描述，我不觉得那像一个家。”"
 
 # game/cliffroute2.rpy:5519
 translate Schinese smcbath_7e96308a:

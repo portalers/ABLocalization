@@ -2506,7 +2506,7 @@ translate Tchinese cliffroute2_7cbd67b7:
 translate Tchinese cliffroute2_5dbdaa24:
 
     # mu "\"It's mottled with enough shade, should be fine.\""
-    mu "沒事，陰影的面積足夠了。"
+    mu "“沒事，陰影的面積足夠了。”"
 
 # game/cliffroute2.rpy:639
 translate Tchinese cliffroute2_cff01c4d:
@@ -5032,7 +5032,7 @@ translate Tchinese aftercanyon_8cce0e3b:
 translate Tchinese aftercanyon_73412511:
 
     # "After meeting back up with the rest of the group, we pack up the gear before moving on."
-    "在與其他人會和後，我們收拾好行裝，便繼續前進了。"
+    "在與其他人會合後，我們收拾好行裝，便繼續前進了。"
 
 # game/cliffroute2.rpy:1265
 translate Tchinese aftercanyon_709ed4be:
@@ -7726,13 +7726,13 @@ translate Tchinese aftercanyon_23337e68:
 translate Tchinese aftercanyon_d31c92b2:
 
     # wi "\"{i}{cps=0}At the {/cps}{cps=20}end {nw}"
-    wi "“{cps=0}我的{/cps}{cps=20}絞繩{nw}"
+    wi "“{b}{cps=0}我的{/cps}{cps=20}絞繩{nw}"
 
 # game/cliffroute2.rpy:1587
 translate Tchinese aftercanyon_a91998cc:
 
     # nwi2 "{font=sin.ttf}\"{cps=0}At the end {/cps}{cps=20}of {nw}"
-    nwi2 "{font=sin.ttf}\"{cps=0}我的{/cps}{cps=20}絞繩{nw}"
+    nwi2 "{font=fonts/sin_TW.ttf}\"{cps=0}我的{/cps}{cps=20}絞繩{nw}"
 
 # game/cliffroute2.rpy:1588
 translate Tchinese aftercanyon_dbc98791:
@@ -22648,7 +22648,7 @@ translate Tchinese smcbath_8e3387e3:
 translate Tchinese smcbath_1d52eaed:
 
     # m "\"What you're describing don't sound much like a home to me.\""
-    m "“聽你的描述，我不覺得那象一個家。”"
+    m "“聽你的描述，我不覺得那像一個家。”"
 
 # game/cliffroute2.rpy:5519
 translate Tchinese smcbath_7e96308a:

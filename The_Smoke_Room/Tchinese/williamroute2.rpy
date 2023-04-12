@@ -9182,8 +9182,8 @@ translate Tchinese dd2b_cf521296:
 # game/williamroute2.rpy:2752
 translate Tchinese dd2b_d07b0121:
 
-    # no "\"You know it isn’t.\""
-    no "“你知道並非如此。”"
+    # no_TW "\"You know it isn’t.\""
+    no_TW "“你知道並非如此。”"
 
 # game/williamroute2.rpy:2754
 translate Tchinese dd2b_3e71407e:

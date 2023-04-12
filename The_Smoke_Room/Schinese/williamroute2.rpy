@@ -3573,7 +3573,7 @@ translate Schinese williamroute2_aca6df68:
 translate Schinese williamroute2_84152563:
 
     # ha "“Don’t go up there.”"
-    ha "“’别上去。”"
+    ha "“别上去。”"
 
 # game/williamroute2.rpy:959
 translate Schinese williamroute2_3eef5e94:
@@ -9182,8 +9182,8 @@ translate Schinese dd2b_cf521296:
 # game/williamroute2.rpy:2683
 translate Schinese dd2b_d07b0121:
 
-    # no "\"You know it isn’t.\""
-    no "“你知道并非如此。”"
+    # no_CN "\"You know it isn’t.\""
+    no_CN "“你知道并非如此。”"
 
 # game/williamroute2.rpy:2685
 translate Schinese dd2b_3e71407e:
