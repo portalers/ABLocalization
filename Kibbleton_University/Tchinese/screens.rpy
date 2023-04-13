@@ -4,7 +4,7 @@ translate Tchinese strings:
 
     # game/screens.rpy:331
     old "Back"
-    new "回退"
+    new "返回"
 
     # game/screens.rpy:332
     old "History"
@@ -96,7 +96,7 @@ translate Tchinese strings:
 
     # game/screens.rpy:841
     old "Window"
-    new "窗口"
+    new "視窗化"
 
     # game/screens.rpy:842
     old "Fullscreen"
@@ -108,7 +108,7 @@ translate Tchinese strings:
 
     # game/screens.rpy:872
     old "Rollback Side"
-    new "點擊螢幕回退"
+    new "點擊螢幕返回"
 
     # game/screens.rpy:873
     old "Disable"
@@ -200,7 +200,7 @@ translate Tchinese strings:
 
     # game/screens.rpy:1246
     old "Enter"
-    new "回車"
+    new "確認"
 
     # game/screens.rpy:1247
     old "Advances dialogue and activates the interface."
@@ -252,7 +252,7 @@ translate Tchinese strings:
 
     # game/screens.rpy:1271
     old "Rolls back to earlier dialogue."
-    new "回退至先前的對話。"
+    new "返回至先前的對話。"
 
     # game/screens.rpy:1274
     old "Page Down"
