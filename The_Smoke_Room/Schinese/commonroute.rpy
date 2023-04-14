@@ -52,7 +52,7 @@ translate Schinese commonroute_b5553ef5:
 translate Schinese commonroute_22f84e59:
 
     # "An endless circle; that's what this shithole of a town is..."
-    "无论你付出多少努力都难以离开这里。离开这个鬼地方..."
+    "无论你付出多少努力都难以离开这里，离开这个鬼地方..."
 
 # game/commonroute.rpy:16
 translate Schinese commonroute_d8f16031:
@@ -370,7 +370,7 @@ translate Schinese commonroute_fdcfd18e:
 translate Schinese commonroute_bfbd0731:
 
     # cy "\"Well, you know, there's this weasel in town. He's from Batavia and apparently he's made an appointment here!\""
-    cy "“这个嘛，你知道镇上有只鼬吧，来自巴达维亚那只。据说他在这里预约了！”"
+    cy "“这个嘛，你知道镇上有只鼬吧，来自巴达维亚（Batavia）那只。据说他在这里预约了！”"
 
 # game/commonroute.rpy:83
 translate Schinese commonroute_50a5dca6:
@@ -430,7 +430,7 @@ translate Schinese commonroute_5f6a25de:
 translate Schinese commonroute_8cc868ab:
 
     # cy "\"Again, it wasn't me that did it, and it was a one-time thing to see who was getting the weasel. We didn't expect it to be you.\""
-    cy "“再说一遍，不是我干的，而且只有这一次。我们想知道谁会得到那只黄鼬，没想到是你。”"
+    cy "“再说一遍，不是我干的，而且只有这一次。我们想知道谁会得到那只白鼬，没想到是你。”"
 
 # game/commonroute.rpy:98
 translate Schinese commonroute_4b83e202:
@@ -1756,7 +1756,7 @@ translate Schinese commonroute_1b24d84e:
 translate Schinese commonroute_51dba0ac:
 
     # "Most people probably would have seen this coming a mile away, but I thought I knew Jack..."
-    "明明是大部人一眼就能识破的局，我还以为我了解Jack..."
+    "明明是大部分人一眼就能识破的局，我还以为我了解Jack..."
 
 # game/commonroute.rpy:350
 translate Schinese commonroute_18373ad0:
@@ -1996,7 +1996,7 @@ translate Schinese commonroute_88db7594:
 translate Schinese commonroute_e42d1cff:
 
     # "I keep staring, my mind still trying to figure how I got here from just ten minutes ago."
-    "我一直在凝视着他，大脑不断思考自己是怎么在不到十分钟的时间里走到这一步的。"
+    "我一直凝视着他，大脑不断思考自己是怎么在不到十分钟的时间里走到这一步的。"
 
 # game/commonroute.rpy:392
 translate Schinese commonroute_d3fd9e37:
@@ -3046,7 +3046,7 @@ translate Schinese commonroute_1941d3ff:
 translate Schinese commonroute_45d61978:
 
     # md "\"Stop that crying and get dressed. Run to Dr. Avery's. Tell him to come as soon as he can.\""
-    md "“别哭了，穿好衣服去找Miller医生。告诉他尽快到。”"
+    md "“别哭了，穿好衣服去找Avery医生。告诉他尽快到。”"
 
 # game/commonroute.rpy:607
 translate Schinese commonroute_b5ceb913:
@@ -3862,7 +3862,7 @@ translate Schinese commonroute_6c2a0940:
 translate Schinese commonroute_08cb88ea:
 
     # re "\"Does Marcy pay your bills?\""
-    re "Marcy替你付账单么？"
+    re "“Marcy替你付账单么？”"
 
 # game/commonroute.rpy:837
 translate Schinese commonroute_376b6e5e:
@@ -3880,13 +3880,13 @@ translate Schinese commonroute_f395b12f:
 translate Schinese commonroute_de549008:
 
     # "Huxley" "\"No, but the damn rug is her mother’s. It’s filthy.\""
-    "Huxley" "但那条地毯是她妈的，脏死了。"
+    "Huxley" "“但那条地毯是她妈的，脏死了。”"
 
 # game/commonroute.rpy:843
 translate Schinese commonroute_4b9b8d91:
 
     # re "\"So she should clean it then.\""
-    re "叫她弄干净咯。"
+    re "“叫她弄干净咯。”"
 
 # game/commonroute.rpy:851
 translate Schinese commonroute_9e152619:
@@ -3904,7 +3904,7 @@ translate Schinese commonroute_075f41e3:
 translate Schinese commonroute_68f0b73e:
 
     # re "\"So do something about it, then.\""
-    re "那你自己想办法吧。"
+    re "“那你自己想办法吧。”"
 
 # game/commonroute.rpy:857
 translate Schinese commonroute_5d98e3f9:
@@ -3916,7 +3916,7 @@ translate Schinese commonroute_5d98e3f9:
 translate Schinese commonroute_9df68357:
 
     # re "\"Sunavabitch. Stop distractin’ me with your damn stories.\""
-    re "操，少用你那倒霉故事分老子的神。"
+    re "“操，少用你那倒霉故事分老子的神。”"
 
 # game/commonroute.rpy:864
 translate Schinese commonroute_db63532e:
@@ -4030,7 +4030,7 @@ translate Schinese commonroute_784b55f8:
 translate Schinese commonroute_b30a36a9:
 
     # "I give her my hardest glare, and she tries to communicate ‘I’m sorry’ nonverbally with her eyes and her grimace, but the man is seated... right next to me."
-    "我狠狠瞪了她一眼，她则用她的眼神和鬼脸传达出无声的‘抱歉’。那个男人就坐在了...我旁边。"
+    "我狠狠瞪了她一眼，她则用她的眼神和鬼脸传达出无声的“抱歉”。那个男人就坐在了...我旁边。"
 
 # game/commonroute.rpy:852
 translate Schinese commonroute_27cad8f4:
@@ -4324,7 +4324,7 @@ translate Schinese commonroute_eb4b1dc1:
 translate Schinese commonroute_86ac297b:
 
     # re "\"I think we need to have a talk outside, fella. \""
-    re "我想咱们需要到外面谈谈，小伙子。"
+    re "“我想咱们需要到外面谈谈，小伙子。”"
 
 # game/commonroute.rpy:1045
 translate Schinese commonroute_21d9bde4:
@@ -4498,13 +4498,13 @@ translate Schinese commonroute_42856ba4:
 translate Schinese commonroute_c8d26628:
 
     # cl "\"Again, I didn’t mean to argue or create a scene. I truly thought my source was reliable. They said The Sanguaro’s Hip could cater to dandy curiosities.\""
-    cl "“重申一遍，我不是故意制造争论或大吵大闹的。我认为我的消息来源足够可靠。他们说，Sanguaro’s Hip是一个花花公子也趋之若鹜的地方。”"
+    cl "“重申一遍，我不是故意制造争论或大吵大闹的。我认为我的消息来源足够可靠。他们说，Saguaro’s Hip是一个花花公子也趋之若鹜的地方。”"
 
 # game/commonroute.rpy:980
 translate Schinese commonroute_5c0bdd4a:
 
     # re "\"What in the name of God is wrong with this filthy Limey?\""
-    re "我的老天爷，这个下流的英国佬到底在搞什么？"
+    re "“我的老天爷，这个下流的英国佬到底在搞什么？”"
 
 # game/commonroute.rpy:1053
 translate Schinese commonroute_7916bfec:
@@ -4528,7 +4528,7 @@ translate Schinese commonroute_bef4f694:
 translate Schinese commonroute_247cd440:
 
     # re "\"What kind of shithole are you from that produces men like you? Educated men no less.\""
-    re "什么样的鬼地方才能养出你这种败类？居然还受过教育。"
+    re "“什么样的鬼地方才能养出你这种败类？居然还受过教育。”"
 
 # game/commonroute.rpy:1059
 translate Schinese commonroute_2d26af80:
@@ -4540,7 +4540,7 @@ translate Schinese commonroute_2d26af80:
 translate Schinese commonroute_ab5f2810:
 
     # re "\"Wouldn’t be the first faggot to lie.\""
-    re "反正不是第一个爱扯谎的基佬了。"
+    re "“反正不是第一个爱扯谎的基佬了。”"
 
 # game/commonroute.rpy:1067
 translate Schinese commonroute_84672b56:
@@ -4558,7 +4558,7 @@ translate Schinese commonroute_49ae6b44:
 translate Schinese commonroute_851ba106:
 
     # re "\"Well who don’t? She’s a nasty bitch.\""
-    re "谁把持得住呢？那婊子骚得很。"
+    re "“谁把持得住呢？那婊子骚得很。”"
 
 # game/commonroute.rpy:1114
 translate Schinese commonroute_4811f7f0:
@@ -4588,7 +4588,7 @@ translate Schinese commonroute_ce2260f3:
 translate Schinese commonroute_bc132094:
 
     # "The weasel tumbles into the dirt, yowling as he spins."
-    "鼬跌落在泥土中，一边号角一边打滚。"
+    "鼬跌落在泥土中，一边嚎叫一边打滚。"
 
 # game/commonroute.rpy:1001
 translate Schinese commonroute_44c4072e:
@@ -4672,7 +4672,7 @@ translate Schinese commonroute_133dba05:
 translate Schinese commonroute_22f95eac:
 
     # re "\"I’m not paying another fucking fine. Let’s get out of here before we’re recognized. I like booze better than I had candy asses.\""
-    re "我可不想再他妈交罚金了。趁还没被认出来，咱们快溜吧。比起一个窝囊废，我更愿意和酒打交道。"
+    re "“我可不想再他妈交罚金了。趁还没被认出来，咱们快溜吧。比起一个窝囊废，我更愿意和酒打交道。”"
 
 # game/commonroute.rpy:1252
 translate Schinese commonroute_bc71f4a2:
@@ -5050,7 +5050,7 @@ translate Schinese commonroute_55a05ff3:
 translate Schinese commonroute_3953e182:
 
     # "William gives me a look at that."
-    "William因此看了我一眼"
+    "William因此看了我一眼。"
 
 # game/commonroute.rpy:1098
 translate Schinese commonroute_4835298b:
@@ -5278,13 +5278,13 @@ translate Schinese commonroute_ffd8393d:
 translate Schinese commonroute_c1c6c0ea:
 
     # mu "\"Ha! But his scent is on you... so maybe you are blackmailing him.\""
-    mu "哈！不过你身上有他的味道...或许你真的在勒索他呢。"
+    mu "“哈！不过你身上有他的味道...或许你真的在勒索他呢。”"
 
 # game/commonroute.rpy:1254
 translate Schinese commonroute_4efd987d:
 
     # mu "\"Either way, it’s not really my business.\""
-    mu "不管怎样，这不关我的事。"
+    mu "“不管怎样，这不关我的事。”"
 
 # game/commonroute.rpy:1261
 translate Schinese commonroute_7a57d39c:
@@ -5314,7 +5314,7 @@ translate Schinese commonroute_4d5873dc:
 translate Schinese commonroute_0070fe7c:
 
     # mu "\"Just that he's paying for something I can get for free. That’s all.\""
-    mu "为我可以免费得到的东西付钱，仅此而已。"
+    mu "“为我可以免费得到的东西付钱，仅此而已。”"
 
 # game/commonroute.rpy:1264
 translate Schinese commonroute_21bfbe61:
@@ -5362,7 +5362,7 @@ translate Schinese commonroute_e96dc677:
 translate Schinese commonroute_dc4d3972:
 
     # mu "\"And maybe I'll give you some answers to some questions, too.\""
-    mu "没准还会给你一些答案。"
+    mu "“没准还会给你一些答案。”"
 
 # game/commonroute.rpy:1276
 translate Schinese commonroute_e9245344:
