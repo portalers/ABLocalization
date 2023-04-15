@@ -3758,7 +3758,7 @@ translate Schinese TIME_MIDNIGHT_d8df3979:
 translate Schinese TIME_MIDNIGHT_6ff686ef:
 
     # "By the time I work up to a decent pace, Kobu is moaning deeply with his tongue hanging out from his mouth."
-    "待我改用較為正常的活塞節奏時，Kobu的舌頭早已垂到在嘴外，並發出歡淫忘我的呻吟。"
+    "待我改用較正常的活塞節奏時，Kobu的舌頭早已垂到在嘴外，並發出歡淫忘我的呻吟。"
 
 # game/story/Chapter 1.rpy:1040
 translate Schinese TIME_MIDNIGHT_be62295b:
@@ -3770,13 +3770,13 @@ translate Schinese TIME_MIDNIGHT_be62295b:
 translate Schinese TIME_MIDNIGHT_f9fe96b4:
 
     # "I let out a shallow breath each time I push in and his hot tunnel squeezes down. It feels amazing."
-    "至於插入狼穴，那滾燙緊密的吸附感更是讓人欲罷不能。"
+    "至於插入時，那滾燙緊密的吸附感更是讓人欲罷不能。"
 
 # game/story/Chapter 1.rpy:1044
 translate Schinese TIME_MIDNIGHT_a6cbc86d:
 
     # "My breaths turn to grunts as I push more of myself into him."
-    "我更加賣力的進行著活塞運動，伴隨著淫靡的汁水聲，我的呼吸也漸漸紊亂。"
+    "我更加賣力的進行活塞運動，伴隨著淫靡的汁水聲，我的呼吸也漸漸紊亂。"
 
 # game/story/Chapter 1.rpy:1046
 translate Schinese TIME_MIDNIGHT_820d6535:
@@ -3812,13 +3812,13 @@ translate Schinese TIME_MIDNIGHT_774b3def:
 translate Schinese TIME_MIDNIGHT_f33b6595:
 
     # "I thrust myself deep into him. Railing his juicy hole as if it was mine to keep."
-    "像是在宣示主權一般，我將肉棒頂到他的最深處，將他多汁的色穴變成我的形狀。"
+    "像是在宣示主權一般，我將肉棒頂到他的最深處，將他汁水豐淫的騷穴變成我的形狀。"
 
 # game/story/Chapter 1.rpy:1058
 translate Schinese TIME_MIDNIGHT_c18528f8:
 
     # "My balls clap against his round cheeks each time I bury my entire bone in his needy ass."
-    "這也使得我的蛋蛋接連不斷地拍打在他飢渴的屁股上。"
+    "每當我挺進他饑渴的獸穴，我的蛋蛋就會隨之拍打在他圓潤飽滿的屁股上。"
 
 # game/story/Chapter 1.rpy:1060
 translate Schinese TIME_MIDNIGHT_93e0e758:
