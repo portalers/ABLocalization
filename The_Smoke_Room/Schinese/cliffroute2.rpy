@@ -16331,7 +16331,7 @@ translate Schinese maphogan2_7dddb3c1:
 translate Schinese maphogan2_e44b722c:
 
     # "More so out of anybody in our group."
-    "我们这个团队里的任何成语都一样。"
+    "我们这个团队里的任何成员都一样。"
 
 # game/cliffroute2.rpy:4108
 translate Schinese maphogan2_f624b0cc:

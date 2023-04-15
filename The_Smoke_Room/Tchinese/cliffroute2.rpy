@@ -16330,7 +16330,7 @@ translate Tchinese maphogan2_7dddb3c1:
 translate Tchinese maphogan2_e44b722c:
 
     # "More so out of anybody in our group."
-    "我們這個團隊裡的任何成語都一樣。"
+    "我們這個團隊裡的任何成員都一樣。"
 
 # game/cliffroute2.rpy:4108
 translate Tchinese maphogan2_f624b0cc:
