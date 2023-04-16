@@ -388,7 +388,7 @@ translate Schinese cliffroute_ec2677d2:
 translate Schinese cliffroute_41525519:
 
     # cl "\"It's a small nation in Western Europa, not too far from the Isles. I hail from its capital.\""
-    cl "“那是个西欧的小国，离群岛很近。我出生于其首都施佩尔斯堡。”"
+    cl "“那是个西欧的小国，离群岛很近。我出生于其首都。”"
 
 # game/cliffroute.rpy:99
 translate Schinese cliffroute_bb0cf7f4:
@@ -478,7 +478,7 @@ translate Schinese cliffroute_249e80eb:
 translate Schinese cliffroute_f8d5fad8:
 
     # cl "\"One of my absolute favorites when it comes to his work, to be honest, though I'm rather biased.\""
-    cl "“说实话，这绝对是我最喜欢的一部作品，尽管我有些偏见。”"
+    cl "“说实话，虽然有些特殊原因，但这绝对是我最喜欢的一部作品。”"
 
 # game/cliffroute.rpy:122
 translate Schinese cliffroute_ba58e36c:
@@ -694,7 +694,7 @@ translate Schinese cliffroute_0eac34c7:
 translate Schinese cliffroute_94b84fbd:
 
     # m "\"Feesus? What's a--\""
-    m "“论文？什么是──”"
+    m "“轮文？什么是──”"
 
 # game/cliffroute.rpy:169
 translate Schinese cliffroute_c749e7a2:
@@ -754,7 +754,7 @@ translate Schinese cliffroute_ab127a35:
 translate Schinese cliffroute_08e45633:
 
     # "His nose twitches."
-    "他耸了耸鼻子。"
+    "他鼻子抽了抽。"
 
 # game/cliffroute.rpy:181
 translate Schinese cliffroute_73d798c1:
@@ -1588,7 +1588,7 @@ translate Schinese cliffroute_c6a9be18:
 translate Schinese cliffroute_f72ccdfa:
 
     # "Concern wells up in my chest, but the weasel starts chirping with laughter."
-    "我心中涌出一阵不安，但这只鼬鼠唧唧地笑了起来。"
+    "我心中涌出一阵不安，但这只鼬吱吱地笑了起来。"
 
 # game/cliffroute.rpy:343
 translate Schinese cliffroute_55c2f765:
@@ -2596,7 +2596,7 @@ translate Schinese cliffroute_b059a0ef:
 translate Schinese cliffroute_a5ff910f:
 
     # m "\"Don't be a stranger then.\""
-    m "那就别见外了。"
+    m "“那就别见外了。”"
 
 # game/cliffroute.rpy:557
 translate Schinese cliffroute_b7c8d281:
@@ -2794,7 +2794,7 @@ translate Schinese cliffroute_77f219ac:
 translate Schinese cliffroute_6749672e:
 
     # cy "\"We talked about my people.\""
-    cy "我们谈论了我的人民。"
+    cy "“我们谈论了我的族人。”"
 
 # game/cliffroute.rpy:597
 translate Schinese cliffroute_68795dca:
@@ -2902,7 +2902,7 @@ translate Schinese cliffroute_493332eb:
 translate Schinese cliffroute_401f1dbd:
 
     # "Grocery list in hand, I walk down Main Street, passing a few clients of mine trying their hardest to pretend they haven’t noticed me."
-    "我攥着购物单走在街上，途径几位竭力装作不认识我的客户。"
+    "我攥着购物单走在街上，途经几位竭力装作不认识我的客户。"
 
 # game/cliffroute.rpy:628
 translate Schinese cliffroute_1250215a:
@@ -3459,7 +3459,7 @@ translate Schinese cliffroute_c499697b:
 translate Schinese cliffroute_fff50c02:
 
     # m "\"I won't talk freely about visitors like that.\""
-    m "我不能随便泄露客人的隐私。"
+    m "“我不能随便泄露客人的隐私。”"
 
 # game/cliffroute.rpy:783
 translate Schinese cliffroute_9716f17c:
@@ -4125,7 +4125,7 @@ translate Schinese cliffroute_7c773a3c:
 translate Schinese cliffroute_54e13ef8:
 
     # jam "\"No marks.\""
-    jam "不要留下痕迹。"
+    jam "“不要留下痕迹。”"
 
 # game/cliffroute.rpy:935
 translate Schinese cliffroute_b6f884af:
@@ -4635,7 +4635,7 @@ translate Schinese cliffroute_f30c39ce:
 translate Schinese cliffroute_47cfa53c:
 
     # et "\"You and most of my clients.\""
-    et "“你和我大多数客户。”"
+    et "“你和我大多数客户一样快。”"
 
 # game/cliffroute.rpy:1037
 translate Schinese cliffroute_5a9e9293:
@@ -4731,7 +4731,7 @@ translate Schinese cliffroute_d7e4cbd5:
 translate Schinese cliffroute_0fa92afc:
 
     # cl "\"Again, I must remind you that I am merely a student!\""
-    cl "我必须再次提醒你，我只是一名学生！"
+    cl "“我必须再次提醒你，我只是一名学生！”"
 
 # game/cliffroute.rpy:1114
 translate Schinese cliffroute_9d3eaacc:
@@ -4791,7 +4791,7 @@ translate Schinese cliffroute_c36bd809:
 translate Schinese cliffroute_fb424870:
 
     # cl "\"Not quite. I actually wanted to ask if you would do me the honor of joining the expedition party.\""
-    cl "“不完全正确。实际上，我是想问你可否肯赏脸加入这支考察队。”"
+    cl "“不完全正确。实际上，我是想问你可否赏脸加入这支考察队。”"
 
 # game/cliffroute.rpy:1086
 translate Schinese cliffroute_7a235cfd:
@@ -4845,7 +4845,7 @@ translate Schinese cliffroute_d5423c1f:
 translate Schinese cliffroute_a3e705a0:
 
     # cl "\"I need a bodyguard.\""
-    cl "我需要一位保镖。"
+    cl "“我需要一位保镖。”"
 
 # game/cliffroute.rpy:1122
 translate Schinese cliffroute_3104df60:
@@ -5721,31 +5721,31 @@ translate Schinese cliffroute_fe7ae584:
 translate Schinese cliffroute_2b497c4a:
 
     # cl "\"Truth be told, I almost didn't!\""
-    cl "说实话，我差点就没找到！"
+    cl "“说实话，我差点就没找到！”"
 
 # game/cliffroute.rpy:1343
 translate Schinese cliffroute_877f1b61:
 
     # cl "\"But Murdoch took me to a charming little barn in some field filled with good men and good beer and the poor fellow was thirsty, so I wet his whistle and everything more or less worked out.\""
-    cl "是Murdoch带我去了一间镇外的小谷仓，里面都是好心的男人跟好喝的酒。我请咱们可怜的向导喝了几杯，于是一切都水到渠成了。"
+    cl "“是Murdoch带我去了一间镇外的小谷仓，里面都是好心的男人跟好喝的酒。我请咱们可怜的向导喝了几杯，于是一切都水到渠成了。”"
 
 # game/cliffroute.rpy:1345
 translate Schinese cliffroute_6b089e3e:
 
     # m "\"This place have a name?\""
-    m "那地方有名字吗？"
+    m "“那地方有名字吗？”"
 
 # game/cliffroute.rpy:1347
 translate Schinese cliffroute_e2fcb5ce:
 
     # cl "\"The Stag I think they called it?\""
-    cl "我记得是叫Stag？"
+    cl "“我记得是叫Stag？”"
 
 # game/cliffroute.rpy:1349
 translate Schinese cliffroute_cacd5c31:
 
     # m "\"Rings a bell, but I've never been.\""
-    m "有点印象，虽然我从来没去过。"
+    m "“有点印象，虽然我从来没去过。”"
 
 # game/cliffroute.rpy:1350
 translate Schinese cliffroute_ddd2f339:
@@ -5757,19 +5757,19 @@ translate Schinese cliffroute_ddd2f339:
 translate Schinese cliffroute_4c64a443:
 
     # cl "\"It was less stiff than the Hip you know.\""
-    cl "那里比Hip要亲民一些。"
+    cl "“那里比Hip要亲民一些。”"
 
 # game/cliffroute.rpy:1353
 translate Schinese cliffroute_d9872c5a:
 
     # cl "\"And much less judgmental, too, from what I could tell.\""
-    cl "居心不良的家伙也少很多，据我所知是。"
+    cl "“居心不良的家伙也少很多，据我所知是。”"
 
 # game/cliffroute.rpy:1354
 translate Schinese cliffroute_172b3f1d:
 
     # cl "\"The guide was willing to give me a dance since all of the men there are comfortable with that sort of thing.\""
-    cl "向导还请我跳了一支舞，在那里，男人与男人跳舞是司空见惯的事情呢。"
+    cl "“向导还请我跳了一支舞，在那里，男人与男人跳舞是司空见惯的事情呢。”"
 
 # game/cliffroute.rpy:1356
 translate Schinese cliffroute_430edd61:
@@ -5781,31 +5781,31 @@ translate Schinese cliffroute_430edd61:
 translate Schinese cliffroute_e97cf7e4:
 
     # m "\"So is that why you picked him out?\""
-    m "所以你看上了他？"
+    m "“所以你看上了他？”"
 
 # game/cliffroute.rpy:1359
 translate Schinese cliffroute_3635085a:
 
     # cl "\"Oh, come now! Don't be so cheeky.\""
-    cl "哎呀！你严肃一点啦，Sam！"
+    cl "“哎呀！你严肃一点啦，Sam！”"
 
 # game/cliffroute.rpy:1361
 translate Schinese cliffroute_b90ab264:
 
     # cl "\"He told me he's like us, Sam!\""
-    cl "据他所说，他和咱们是一类人！"
+    cl "“据他所说，他和咱们是一类人！”"
 
 # game/cliffroute.rpy:1362
 translate Schinese cliffroute_743aa166:
 
     # m "\"You just... told another stranger that?\""
-    m "你...跟他也说了？"
+    m "“你...跟他也说了？”"
 
 # game/cliffroute.rpy:1363
 translate Schinese cliffroute_48806aed:
 
     # m "\"Right off the bat?\""
-    m "这么直接？"
+    m "“这么直接？”"
 
 # game/cliffroute.rpy:1364
 translate Schinese cliffroute_9b07ef03:
@@ -5817,7 +5817,7 @@ translate Schinese cliffroute_9b07ef03:
 translate Schinese cliffroute_aafd0b79:
 
     # m "\"Even after yesterday's incident?\""
-    m "即便昨天刚被打？"
+    m "“即便昨天刚被打？”"
 
 # game/cliffroute.rpy:1366
 translate Schinese cliffroute_f12da95e:
@@ -5829,31 +5829,31 @@ translate Schinese cliffroute_f12da95e:
 translate Schinese cliffroute_885b3e3e:
 
     # cl "\"Well that's certainly been the least rational reaction by far.\""
-    cl "昨天那件事的确是我遇到过最恶劣的行径。"
+    cl "“昨天那件事的确是我遇到过最恶劣的行径。”"
 
 # game/cliffroute.rpy:1370
 translate Schinese cliffroute_8c001503:
 
     # cl "\"And I'm not going to let one bad experience ruin my chance to meet new people and make new connections.\""
-    cl "但我不会让一次糟糕的经历毁了我结识新朋友、培养新感情的机会。"
+    cl "“但我不会让一次糟糕的经历毁了我结识新朋友、培养新感情的机会。”"
 
 # game/cliffroute.rpy:1371
 translate Schinese cliffroute_ac3bc599:
 
     # cl "\"In fact, I've been told that those two ruffians have a terrible reputation.\""
-    cl "其实我听说了，他们两个是出了名的恶棍。"
+    cl "“其实我听说了，他们两个是出了名的恶棍。”"
 
 # game/cliffroute.rpy:1373
 translate Schinese cliffroute_369085cd:
 
     # cl "\"Once the law deals with them, I doubt they'll be so cocky.\""
-    cl "真该让他们尝尝法律的滋味，看他们还敢不敢放肆。"
+    cl "“真该让他们尝尝法律的滋味，看他们还敢不敢放肆。”"
 
 # game/cliffroute.rpy:1375
 translate Schinese cliffroute_b2b4eb2b:
 
     # cl "\"Speaking of which, there's the office just ahead.\""
-    cl "说到这，办公室就在前面。"
+    cl "“说到这，办公室就在前面。”"
 
 # game/cliffroute.rpy:1389
 translate Schinese cliffroute_3a048ab3:
@@ -5961,7 +5961,7 @@ translate Schinese cliffroute_51baeb60:
 translate Schinese cliffroute_d125c743:
 
     # "Reed" "\"Wasn't dumb enough to make any.\""
-    "Reed" "我还没蠢到打他的注意。"
+    "Reed" "“还没蠢会到打他的主意。”"
 
 # game/cliffroute.rpy:1428
 translate Schinese cliffroute_9990c822:
@@ -6183,7 +6183,7 @@ translate Schinese cliffroute_00fe9e0e:
 translate Schinese cliffroute_04533bd0:
 
     # wi "\"That's news to me.\""
-    wi "还真是新鲜。"
+    wi "“还真是新鲜。”"
 
 # game/cliffroute.rpy:1480
 translate Schinese cliffroute_abe24e11:
@@ -6273,7 +6273,7 @@ translate Schinese cliffroute_7c6717b5:
 translate Schinese cliffroute_39731250:
 
     # wi "\"Oh, I'm sorry. Are you used to getting red carpet rolled out beneath your feet when you upset the peace?\""
-    wi "那还真不好意思啊，我们没有为四处捣乱的家伙铺红地毯的习俗。"
+    wi "“那还真不好意思啊，我们没有为四处捣乱的家伙铺红地毯的习俗。”"
 
 # game/cliffroute.rpy:1505
 translate Schinese cliffroute_d72e7937:
@@ -6375,7 +6375,7 @@ translate Schinese cliffroute_74607a4f:
 translate Schinese cliffroute_f7e660ac:
 
     # cl "\"Blasted...\""
-    cl "可恶..."
+    cl "“可恶...”"
 
 # game/cliffroute.rpy:1590
 translate Schinese cliffroute_e232ce8b:
@@ -7293,7 +7293,7 @@ translate Schinese cliffroute_01eb7775:
 translate Schinese cliffroute_617571c5:
 
     # "Leave Echo?"
-    "如果我离开回音的话？"
+    "如果我离开回音镇的话？"
 
 # game/cliffroute.rpy:1756
 translate Schinese cliffroute_0e4f0414:
@@ -7473,7 +7473,7 @@ translate Schinese cliffroute_7f6b7b36:
 translate Schinese cliffroute_9fa232af:
 
     # mu "\"Quite the rogue's gallery we’ve assembled, eh?\""
-    mu "好一群热血无赖啊，不是吗？"
+    mu "“好一群热血无赖啊，不是吗？”"
 
 # game/cliffroute.rpy:1803
 translate Schinese cliffroute_a5af5e5f:
@@ -7509,7 +7509,7 @@ translate Schinese cliffroute_b064a3a2:
 translate Schinese cliffroute_61a73d91:
 
     # m "\"I heard.\""
-    m "我知道了。"
+    m "“我知道了。”"
 
 # game/cliffroute.rpy:1811
 translate Schinese cliffroute_b99149f2:
@@ -7534,7 +7534,7 @@ translate Schinese mt1_ffb83d31:
 translate Schinese mt1_605e9594:
 
     # m "\"Well, I, uh...\""
-    m "唔，我，呃..."
+    m "“唔，我，呃...”"
 
 # game/cliffroute.rpy:1821
 translate Schinese mt1_1ad2bb5b:
