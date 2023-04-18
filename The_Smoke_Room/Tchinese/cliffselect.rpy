@@ -48,15 +48,15 @@ translate Tchinese strings:
 
     # game/cliffselect.rpy:91
     old "You asked if a raiload system system would be helpful to the people in the settlement."
-    new "你詢問鐵路是否能幫助到定居點的人。"
+    new "你詢問鐵路是否能幫助到部落的人。"
 
     # game/cliffselect.rpy:91
     old "You said that there are plans to expand the echo train station through the settlement."
-    new "你提起有人計畫拓展Echo的鐵路，會行經定居點。"
+    new "你提起有人計畫拓展Echo的鐵路，會行經部落。"
 
     # game/cliffselect.rpy:100
     old "As Cliff, what do you ask the Meseta woman running the trading post in the settlement?"
-    new "扮演Cliff時，你對定居點經營商店的梅塞塔女人問的問題是？"
+    new "扮演Cliff時，你對部落經營商店的梅塞塔女人問的問題是？"
 
     # game/cliffselect.rpy:100
     old "If she thinks there would be more business if more people passed through the area, bringing supplies."

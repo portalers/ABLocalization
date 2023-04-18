@@ -2236,7 +2236,7 @@ translate Tchinese cliffroute2_cd54abb1:
 translate Tchinese cliffroute2_0a70f6d8:
 
     # cl "\"It's the fastest way to our destination.\""
-    cl "“這是通往定居點最快的路。”"
+    cl "“這是通往部落最快的路。”"
 
 # game/cliffroute2.rpy:570
 translate Tchinese cliffroute2_48851414:
@@ -6220,7 +6220,7 @@ translate Tchinese aftercanyon_c7292682:
 translate Tchinese aftercanyon_cd9f1cbf:
 
     # jeb "\"We'll be out by evening and reach the settlement by noon the day after.\""
-    jeb "“莫約在傍晚就能走得出去，然後在隔天中午到達定居點。”"
+    jeb "“莫約在傍晚就能走得出去，然後在隔天中午到達部落。”"
 
 # game/cliffroute2.rpy:1368
 translate Tchinese aftercanyon_c729f4bb:
@@ -7018,7 +7018,7 @@ translate Tchinese aftercanyon_995f6992:
 translate Tchinese aftercanyon_66ba2c53:
 
     # m "\"I'll stick this out until we get to the reservation.\""
-    m "我再努努力，到你送到部落去。"
+    m "我再努力點，到你抵達保留地為止。"
 
 # game/cliffroute2.rpy:1728
 translate Tchinese aftercanyon_749394f2:
@@ -16978,7 +16978,7 @@ translate Tchinese maphogan2_ee3762af:
 translate Tchinese maphogan2_149f7ed6:
 
     # mu "\"I keep hearing vague about this settlement, but I don't really know what to expect.\""
-    mu "“我總是能聽到定居點的消息，卻不知自己該期待什麼。”"
+    mu "“我總是能聽到部落的消息，卻不知自己該期待什麼。”"
 
 # game/cliffroute2.rpy:4333
 translate Tchinese maphogan2_c6b57808:
@@ -19540,7 +19540,7 @@ translate Tchinese hh_63445cb8:
 translate Tchinese hh_f7b45bd7:
 
     # jeb "\"I couldn't find anyone to publish my books, so until I could we'd make money as guides to and from the settlement.\""
-    jeb "“我找不到能幫我出書的人，所以在那之前，我們只能靠當定居點的嚮導來賺錢。”"
+    jeb "“我找不到能幫我出書的人，所以在那之前，我們只能靠當部落的嚮導來賺錢。”"
 
 # game/cliffroute2.rpy:4365
 translate Tchinese hh_f299a605:
@@ -19738,7 +19738,7 @@ translate Tchinese hh_0b3de300:
 translate Tchinese hh_3e2f7cb5:
 
     # av "\"We managed to salvage a lot of them. Should be more than enough to reach the settlement, at the very least.\""
-    av "“我們想辦法撈回不少，至少足夠抵達定居點了。”"
+    av "“我們想辦法撈回不少，至少足夠抵達部落了。”"
 
 # game/cliffroute2.rpy:4430
 translate Tchinese hh_261f2ceb:
@@ -19972,7 +19972,7 @@ translate Tchinese hh_a804fafd:
 translate Tchinese hh_264c4ee6:
 
     # ts "\"I ain't got any better places to be. Suicide to walk all the way to the settlement right now.\""
-    ts "“反正也沒有更好的選擇，現在走去定居點無異於自殺。”"
+    ts "“反正也沒有更好的選擇，現在走去部落無異於自殺。”"
 
 # game/cliffroute2.rpy:4502
 translate Tchinese hh_4e4ef2de:
@@ -20050,7 +20050,7 @@ translate Tchinese hh_ff507055:
 translate Tchinese hh_c094f97e:
 
     # "Can't see any sign of the settlement yet, but I do see what I suppose is the place we'll be resting for the night in the distance."
-    "還是沒有定居點的影子，不過我確實看到了遠方──我們可能要過夜的地方。"
+    "還是沒有部落的影子，不過我確實看到了遠方──我們可能要過夜的地方。"
 
 # game/cliffroute2.rpy:4523
 translate Tchinese hh_dcdd4221:
@@ -20194,7 +20194,7 @@ translate Tchinese hh_6ae4f2ac:
 translate Tchinese hh_21f44706:
 
     # cl "\"We're on our way to the settlement.\""
-    cl "“我們正在前往定居點的途中。”"
+    cl "“我們正在前往部落的途中。”"
 
 # game/cliffroute2.rpy:4554
 translate Tchinese hh_8f7c096c:
@@ -20206,7 +20206,7 @@ translate Tchinese hh_8f7c096c:
 translate Tchinese hh_d535d987:
 
     # ed "\"Settlement, eh? Quite the hike from Echo.\""
-    ed "“從回音到定居點？好個‘遠道而來’啊。”"
+    ed "“從回音到部落？好個‘遠道而來’啊。”"
 
 # game/cliffroute2.rpy:4557
 translate Tchinese hh_052cde19:

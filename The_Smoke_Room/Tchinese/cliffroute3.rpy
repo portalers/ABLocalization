@@ -1678,7 +1678,7 @@ translate Tchinese aftertent_de0fff49:
 translate Tchinese aftertent_1aa2c300:
 
     # m "“Are there a lot of folks living in the settlement?”"
-    m "“定居點人多嗎？”"
+    m "“部落人多嗎？”"
 
 # game/cliffroute3.rpy:425
 translate Tchinese aftertent_64a4c892:
@@ -1858,7 +1858,7 @@ translate Tchinese aftertent_b5bc4c30:
 translate Tchinese aftertent_f9f41286:
 
     # "Jebediah beckons us near, and the sturdy metal gates open with a shriek that might very well be loud enough to wake up the entire settlement."
-    "Jebediah招手示意我們靠近。堅固的金屬門被打開，發出刺耳的尖叫聲，說不定能吵醒整個定居點的人。"
+    "Jebediah招手示意我們靠近。堅固的金屬門被打開，發出刺耳的尖叫聲，說不定能吵醒整個部落的人。"
 
 # game/cliffroute3.rpy:468
 translate Tchinese aftertent_21f9d8a2:
@@ -1918,7 +1918,7 @@ translate Tchinese aftertent_b0f60f11:
 translate Tchinese aftertent_c3e934ad:
 
     # m "“Odd to call this place a settlement when I don’t see nobody.”"
-    m "“連個人影都沒有，叫什麼定居點啊。”"
+    m "“連個人影都沒有，叫什麼部落啊。”"
 
 # game/cliffroute3.rpy:481
 translate Tchinese aftertent_3771191e:
@@ -1960,7 +1960,7 @@ translate Tchinese aftertent_aaeb83ea:
 translate Tchinese aftertent_dc0d9884:
 
     # "We head down what I assume to be Main Street. Whereas Echo was lived-in and dirty, the settlement is immaculately clean, almost frighteningly so."
-    "我們沿著我認為的主街一路前進。有別於骯髒的回音鎮，定居點一塵不染，乾淨得嚇人。"
+    "我們沿著我認為的主街一路前進。有別於骯髒的回音鎮，部落一塵不染，乾淨得嚇人。"
 
 # game/cliffroute3.rpy:494
 translate Tchinese aftertent_a14af4ba:
@@ -2488,7 +2488,7 @@ translate Tchinese aftertent_bf6c0ad7:
 translate Tchinese aftertent_c5b90281:
 
     # cl "“I must say, I'm quite surprised to see a man of the cloth in a Meseta settlement.”"
-    cl "“不得不說，沒想到能在梅塞塔定居點裡看到神職人員。”"
+    cl "“不得不說，沒想到能在梅塞塔部落裡看到神職人員。”"
 
 # game/cliffroute3.rpy:633
 translate Tchinese aftertent_49249f40:
@@ -2626,7 +2626,7 @@ translate Tchinese aftertent_d4633e30:
 translate Tchinese aftertent_3c1c4846:
 
     # cl "“Are you referring to the settlement?”"
-    cl "“你是指定居點嗎？”"
+    cl "“你是指部落嗎？”"
 
 # game/cliffroute3.rpy:674
 translate Tchinese aftertent_14eaea52:
@@ -2878,7 +2878,7 @@ translate Tchinese aftertent_db96ab07:
 translate Tchinese aftertent_4d31e99e:
 
     # ca "“And please, do not disturb the military men stationed here. They only have the settlement's best interests at heart.”"
-    ca "“還有，請不要打擾駐紮在此地的軍人。為了定居點的最大利益，他們會不擇手段。”"
+    ca "“還有，請不要打擾駐紮在此地的軍人。為了部落的最大利益，他們會不擇手段。”"
 
 # game/cliffroute3.rpy:746
 translate Tchinese aftertent_efb07866:
@@ -3178,7 +3178,7 @@ translate Tchinese aftertent_03a15b07:
 translate Tchinese aftertent_df90428c:
 
     # cl "“This settlement seems a bit different from what I had pictured for a large Meseta community.”"
-    cl "“這個定居點不太符合我想像中的大型梅塞塔社區。”"
+    cl "“這個部落不太符合我想像中的大型梅塞塔社區。”"
 
 # game/cliffroute3.rpy:813
 translate Tchinese aftertent_d18b5823:
@@ -4450,7 +4450,7 @@ translate Tchinese aftercliffint2_c000f45c:
 translate Tchinese aftercliffint2_81a0756d:
 
     # "Squirrel" "“There is a trail leading west out of the settlement.”"
-    "松鼠" "“西邊有一條通往定居點外的小路。”"
+    "松鼠" "“西邊有一條通往部落外的小路。”"
 
 # game/cliffroute3.rpy:1069
 translate Tchinese aftercliffint2_ccff3f23:
@@ -4600,7 +4600,7 @@ translate Tchinese aftercliffint2_a9539d95:
 translate Tchinese aftercliffint2_ea6b98aa:
 
     # "I don't know how to feel about this settlement quite yet."
-    "我還是不知道該如何看待這個定居點。"
+    "我還是不知道該如何看待這個部落。"
 
 # game/cliffroute3.rpy:1115
 translate Tchinese aftercliffint2_065bf686:
@@ -6520,7 +6520,7 @@ translate Tchinese aftercliffint2_f58b4b60:
 translate Tchinese aftercliffint2_e0216c05:
 
     # "I make my way around the boundaries of the reservation at least twice."
-    "我繞著保留區的邊界走了至少兩圈。"
+    "我繞著保留地的邊界走了至少兩圈。"
 
 # game/cliffroute3.rpy:1745
 translate Tchinese aftercliffint2_149e13a1:
@@ -6556,7 +6556,7 @@ translate Tchinese aftercliffint2_e94a62e8:
 translate Tchinese aftercliffint2_f3e353ba:
 
     # "The reservation is built upon a precipice, and its deep canyon is too steep to climb with ease, condsierin’ the rapids running below it."
-    "保留區建在一個峭壁上，山谷又深又陡，底下還有急流，很難攀爬。"
+    "保留地建在一個峭壁上，山谷又深又陡，底下還有急流，很難攀爬。"
 
 # game/cliffroute3.rpy:1752
 translate Tchinese aftercliffint2_b43f28d1:
@@ -6568,7 +6568,7 @@ translate Tchinese aftercliffint2_b43f28d1:
 translate Tchinese aftercliffint2_831bf6eb:
 
     # "I walk past the post, unsure if it’s still a part of the settlement’s boundaries or not."
-    "我穿過哨所，不太確定還在不在保留區內。"
+    "我穿過哨所，不太確定還在不在保留地內。"
 
 # game/cliffroute3.rpy:1754
 translate Tchinese aftercliffint2_146a1a29:
@@ -8967,7 +8967,7 @@ translate Tchinese strings:
 
     # game/cliffroute3.rpy:843
     old "There are plans to expand the Echo train station through the settlement."
-    new "回音火車站正計劃修建直達定居點的鐵路。"
+    new "回音火車站正計劃修建直達部落的鐵路。"
 
     # game/cliffroute3.rpy:1034
     old "If more people with money came through the area, wouldn’t there be more supplies, and thus... more business?"
