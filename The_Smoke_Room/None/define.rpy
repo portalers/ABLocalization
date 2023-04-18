@@ -9,6 +9,6 @@ init python:
 
 translate None python:
     if not renpy.variant("pc"):
-        gui.button_text_size = 31
+        gui.button_text_size = 37
     ## 调整默认文本播放速度
     preferences.text_cps = 40
