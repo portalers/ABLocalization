@@ -1900,7 +1900,7 @@ translate Schinese aftertent_4407beb3:
 translate Schinese aftertent_bbc67dbf:
 
     # "Not just the gate resembles Echo, but the entire town; from its wooden buildings to the position of the lone church sitting on the other end of the long street we're in."
-    "不仅仅是大门。从木屋到街尾孤零零的教堂，没有哪里不像回音的。"
+    "不仅仅是大门。从木屋到街尾孤零零的教堂，没有哪里不像回音镇。"
 
 # game/cliffroute3.rpy:475
 translate Schinese aftertent_1a37faad:
@@ -2068,7 +2068,7 @@ translate Schinese aftertent_2ff95743:
 translate Schinese aftertent_d4ddd0e0:
 
     # "I'd expected him to be more like the people I met in Echo, rowdy and unwashed, but this man looks like he came from another world entirely."
-    "我一开始以为他更像回音的那些家伙，粗俗而不修边幅。但这个人简直来自另一个世界。"
+    "我一开始以为他更像回音镇的那些家伙，粗俗而不修边幅。但这个人简直来自另一个世界。"
 
 # game/cliffroute3.rpy:525
 translate Schinese aftertent_c1959f01:
@@ -2212,7 +2212,7 @@ translate Schinese aftertent_373350c1:
 translate Schinese aftertent_6e34b6b2:
 
     # jeb "\"Right. I need to barter for a new pair of donkeys if we're hoping to make it back to Echo this year.\""
-    jeb "“嗯。我得换一对新驴，否则今年恐怕是回不去回音了。”"
+    jeb "“嗯。我得换一对新驴，否则今年恐怕是回不去回音镇了。”"
 
 # game/cliffroute3.rpy:564
 translate Schinese aftertent_ae37ed2f:
@@ -2326,7 +2326,7 @@ translate Schinese aftertent_ac2149ac:
 translate Schinese aftertent_f8167ea9:
 
     # ca "\"I suppose you were the one they sent from Echo?\""
-    ca "“你是回音那边派来的？”"
+    ca "“你是回音镇那边派来的？”"
 
 # game/cliffroute3.rpy:593
 translate Schinese aftertent_63ab3589:
@@ -2416,7 +2416,7 @@ translate Schinese aftertent_5b4df908:
 translate Schinese aftertent_ce60731f:
 
     # ca "\"Two days? I was informed of your departure from Echo two weeks ago.\""
-    ca "“两天？我两周前就得到你从回音出发的消息了。”"
+    ca "“两天？我两周前就得到你从回音镇出发的消息了。”"
 
 # game/cliffroute3.rpy:616
 translate Schinese aftertent_f9788916:
@@ -2440,7 +2440,7 @@ translate Schinese aftertent_107d460d:
 translate Schinese aftertent_b9c0f35a:
 
     # "I know we left only a few days ago."
-    "我们几天前才离开的回音。"
+    "我们几天前才离开的回音镇。"
 
 # game/cliffroute3.rpy:620
 translate Schinese aftertent_29085393:
@@ -4425,7 +4425,7 @@ translate Schinese aftercliffint2_63b9c70c:
 translate Schinese aftercliffint2_db867708:
 
     # "She shakes her head, shushing her."
-    "她摇摇头，对着女儿发出‘嘘’声。"
+    "她摇摇头，对着女儿发出“嘘”声。"
 
 # game/cliffroute3.rpy:1065
 translate Schinese aftercliffint2_a833459f:
@@ -4947,7 +4947,7 @@ translate Schinese aftercliffint2_38066ec0:
 translate Schinese aftercliffint2_343f8c18:
 
     # "We probably shouldn’t be wasting this lady’s time."
-    "別再浪費这位女士的时间了。"
+    "別再浪费这位女士的时间了。"
 
 # game/cliffroute3.rpy:1239
 translate Schinese aftercliffint2_a3c81bcf:
@@ -5265,7 +5265,7 @@ translate Schinese aftercliffint2_9cb66726:
 translate Schinese aftercliffint2_334e9065:
 
     # mu "\"I just have some bad memories where I used to have to share a bedroom.\""
-    mu "“我只是对跟人共用臥室有阴影。”"
+    mu "“我只是对跟人共用卧室有阴影。”"
 
 # game/cliffroute3.rpy:1320
 translate Schinese aftercliffint2_0f757980:
@@ -5475,7 +5475,7 @@ translate Schinese aftercliffint2_3b3289cd:
 translate Schinese aftercliffint2_27cebee6:
 
     # "Unless a couple of bounty hunters from Echo stroll in if Will decided to give them my name."
-    "除非Will决定通缉我，把赏金猎人从回音引来。"
+    "除非Will决定通缉我，把赏金猎人从回音镇引来。"
 
 # game/cliffroute3.rpy:1393
 translate Schinese aftercliffint2_a84498d4:
@@ -5787,7 +5787,7 @@ translate Schinese aftercliffint2_502670b2:
 translate Schinese aftercliffint2_504dfe79:
 
     # cl "\"Well I don’t want to pay top dollar just to get lost again.\""
-    cl "“我可不想花大价钱买迷路受。”"
+    cl "“我可不想再花大价钱买迷路受罪。”"
 
 # game/cliffroute3.rpy:1518
 translate Schinese aftercliffint2_2c287d5c:
