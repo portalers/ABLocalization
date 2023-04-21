@@ -712,7 +712,7 @@ translate Schinese Murdochroute_766eb14e:
 translate Schinese Murdochroute_06a21dbf:
 
     # "I can't help but yowl."
-    "我控制不住自己，号叫出来。"
+    "我控制不住自己，惨叫出声。"
 
 # game/Murdochroute.rpy:173
 translate Schinese Murdochroute_b7021fd2:
@@ -4438,7 +4438,7 @@ translate Schinese Murdochroute_0ca98646:
 translate Schinese Murdochroute_36e01b47:
 
     # "Ralph lets out a noise of disgust, then starts up a sing-song tone."
-    "Ralph发出一声‘呕’，接着用唱歌般的腔调说道。"
+    "Ralph发出一声“呕”，接着用唱歌般的腔调说道。"
 
 # game/Murdochroute.rpy:1134
 translate Schinese Murdochroute_23472de6:
@@ -5620,7 +5620,7 @@ translate Schinese Murdochroute_43c6d309:
 translate Schinese Murdochroute_9373984f:
 
     # "The vixen tutted."
-    "雌狐‘嘘’了一声。"
+    "雌狐“嘘”了一声。"
 
 # game/Murdochroute.rpy:1494
 translate Schinese Murdochroute_306e0a00:
