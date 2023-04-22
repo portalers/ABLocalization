@@ -1510,7 +1510,7 @@ translate Schinese murdochroute3a_5f2a1826:
 translate Schinese murdochroute3a_94004a03:
 
     # "Oh."
-    "Oh。"
+    "哦。"
 
 # game/murdochroute3.rpy:482
 translate Schinese murdochroute3a_ff5f4bbc:
@@ -2554,7 +2554,7 @@ translate Schinese murdochroute3a_af5f73de:
 translate Schinese murdochroute3a_a083efcb:
 
     # reu "\"I know you said she runs a tight ship, but it feels more like we’re stranded at the dock.\""
-    reu "“我是听你说她的船规很严，但咱们这不是连码头都离开嘛。”"
+    reu "“我是听你说她的船规很严，但咱们这不是连码头都没离开嘛。”"
 
 # game/murdochroute3.rpy:754
 translate Schinese murdochroute3a_95b6973e:
@@ -2752,7 +2752,7 @@ translate Schinese murdochroute3a_15eb3a8c:
 translate Schinese murdochroute3a_85e3a10f:
 
     # mu "\"You must be Neil and you must be Reubin.\""
-    mu "“你一定是Neil，那你就Reubin了。”"
+    mu "“你一定是Neil，那这边这位就是Reubin了。”"
 
 # game/murdochroute3.rpy:799
 translate Schinese murdochroute3a_c628d745:
@@ -2830,7 +2830,7 @@ translate Schinese murdochroute3a_fa604702:
 translate Schinese murdochroute3a_6b8b75d4:
 
     # mu "\"But this is Sam, one of the stockers at the general store.\""
-    mu "“这位是Sam，杂货店里员工。”"
+    mu "“这位是Sam，杂货店里的员工。”"
 
 # game/murdochroute3.rpy:821
 translate Schinese murdochroute3a_29210e5a:
@@ -3160,7 +3160,7 @@ translate Schinese murdochroute3a_26722cf0:
 translate Schinese murdochroute3a_c651d0c8:
 
     # m "\"No.\""
-    m "“不是”"
+    m "“不是。”"
 
 # game/murdochroute3.rpy:1082
 translate Schinese murdochroute3a_8fe17382:
@@ -3244,7 +3244,7 @@ translate Schinese murdochroute3a_49dfed84:
 translate Schinese murdochroute3a_29978954:
 
     # "Murdoch is barely keeping it together with one man."
-    "Murdoch光是应付一个人都那么难过，"
+    "Murdoch光是应付一个人都那么难过。"
 
 # game/murdochroute3.rpy:976
 translate Schinese murdochroute3a_a7225f71:
@@ -3496,7 +3496,7 @@ translate Schinese murdochroute3a_de7d9b50:
 translate Schinese murdochroute3a_6a9cbdeb:
 
     # nei "\"What does a Southlander do spending his days tucked away in Emma County?\""
-    nei "“你一个南方佬，在艾玛县做什么？”"
+    nei "“你一个南方佬，在艾玛县（Emma County）做什么？”"
 
 # game/murdochroute3.rpy:1058
 translate Schinese murdochroute3a_41975dcb:
@@ -4384,7 +4384,7 @@ translate Schinese murdochroute3a_639a90b2:
 translate Schinese murdochroute3a_7d2033e9:
 
     # m "\"Whorin’ ain’t about sweet talk.\""
-    m "“出来卖，靠的可不是说好听话，”"
+    m "“出来卖，靠的可不是说好听话。”"
 
 # game/murdochroute3.rpy:1533
 translate Schinese murdochroute3a_64cbc879:
@@ -7282,7 +7282,7 @@ translate Schinese murdochroute3a_511f3ecc:
 translate Schinese murdochroute3a_9013a000:
 
     # "He always has a very clean sweat."
-    "他的汗味总是很清新，"
+    "他的汗味总是很清新。"
 
 # game/murdochroute3.rpy:2262
 translate Schinese murdochroute3a_bf46e75c:
