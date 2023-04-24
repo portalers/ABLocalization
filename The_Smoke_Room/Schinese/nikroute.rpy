@@ -928,7 +928,7 @@ translate Schinese nikroute_bb8681df:
 translate Schinese nikroute_5f994938:
 
     # ni "\"...I am from Lakhia, but I've lived in this country since I was a young man. You do not sound native, either, by the way.\""
-    ni "“...我来自拉吉亚，不过从小就住在这个国家了。你听起来也不像是本地人。”"
+    ni "“...我来自拉吉亚（Lakhia），不过从小就住在这个国家了。你听起来也不像是本地人。”"
 
 # game/nikroute.rpy:211
 translate Schinese nikroute_54f3127d:
@@ -2452,7 +2452,7 @@ translate Schinese nikroute_f7db5a5a:
 translate Schinese nikroute_8cc10996:
 
     # "Some customers like to have the smell of sex covered up too, especially if the sex smells like seed, is anywhere but on their crotch, and they're walking out of a whorehouse where the only male whore is."
-    "还有些顾客同样想把性的味道藏起来，尤其是他们除了胯下浑身散发着精液味，并从唯一一个男妓所在的妓院走出来。"
+    "还有些顾客同样想把性的味道藏起来，尤其是他们除了胯下浑身散发着精液味，并从唯一一个有男妓在的妓院走出来。"
 
 # game/nikroute.rpy:528
 translate Schinese nikroute_2bd3cc69:
@@ -3094,7 +3094,7 @@ translate Schinese nikroute_da784e50:
 translate Schinese nikroute_a4d8ce44:
 
     # m "\"Wow...now I know I'm stupid, because that sounds like the dumbest fucking scam I've ever heard.\""
-    m "“渥...这简直是我听过最蠢的骗局了，我是多傻才会信。”"
+    m "“哇哦...这简直是我听过最蠢的骗局了，我是多傻才会信。”"
 
 # game/nikroute.rpy:654
 translate Schinese nikroute_d380b4c3:
@@ -3226,7 +3226,7 @@ translate Schinese nikroute_89d507f9:
 translate Schinese nikroute_f6951473:
 
     # ni "\"Of course. I think we should start with getting that money back. No one mentioned finding coins.\""
-    ni "“当然。我想我们应该首先把钱找回来，没人提到过发现硬币的事。”"
+    ni "“当然。我想首先我们应该把钱找回来，没人提到过发现硬币的事。”"
 
 # game/nikroute.rpy:683
 translate Schinese nikroute_40b51874:
@@ -3616,7 +3616,7 @@ translate Schinese nikroute_1aa0b47a:
 translate Schinese nikroute_965b55af:
 
     # "But I can tell that Nik is pretty horrified at being caught with his pants all the way off."
-    "我知道Nik非常害怕被逮到自己一丝不挂地出现在这里。"
+    "我知道Nik非常害怕自己在这里一丝不挂地被逮到。"
 
 # game/nikroute.rpy:767
 translate Schinese nikroute_534ed456:
@@ -3712,13 +3712,13 @@ translate Schinese nikroute_0e038eaa:
 translate Schinese nikroute_5b532dab:
 
     # "Seeing another man naked isn't exactly out of the ordinary, depending on where you're at."
-    "看到另一个男人的躶体并不是一件稀事，这取决于你所在的地方。"
+    "看到另一个男人的裸体并不是一件稀事，这取决于你所在的地方。"
 
 # game/nikroute.rpy:789
 translate Schinese nikroute_ba5badcc:
 
     # "Especially in the brothel, but because it's right here, in the brothel's \"smoke room,\" well..."
-    "更别提是在一家妓院里了，但这里是这家妓院的「吸烟室」，这就..."
+    "更别提是在一家妓院里了，但这里是这家妓院的“吸烟室”，这就..."
 
 # game/nikroute.rpy:790
 translate Schinese nikroute_a8d47ac6:
@@ -3790,13 +3790,13 @@ translate Schinese nikroute_a94c5707:
 translate Schinese nikroute_1d5367c3:
 
     # "Actually, I feel a lot better than I think I should, and I start to wonder if maybe that's because Nik is kinda sharing this with me now."
-    "事实上，我感觉自己出乎意料得轻松，也许是因为现在Nik姑且与我在同一条船上了吧。"
+    "事实上，我感觉自己出乎意料的轻松，也许是因为现在Nik姑且与我在同一条船上了吧。"
 
 # game/nikroute.rpy:809
 translate Schinese nikroute_df6203ac:
 
     # "A burden to share."
-    "一艘泥船。"
+    "一条泥船。"
 
 # game/nikroute.rpy:811
 translate Schinese nikroute_930e2816:
@@ -3970,7 +3970,7 @@ translate Schinese nikroute_6a5cd23e:
 translate Schinese nikroute_5d3a40f4:
 
     # "The one man in this town that I didn't want to find out about this is doing just that the more I talk and fidget, and act like I'm not completely guilty."
-    "我越解释、越烦燥、越假装无辜，这个男人知道的就越多，这个镇上我唯独不想他知道的男人。"
+    "我越解释、越烦燥、越假装无辜，这个男人知道的就越多，这个镇上我唯独不想他知道。"
 
 # game/nikroute.rpy:851
 translate Schinese nikroute_47ad0961:
@@ -4162,7 +4162,7 @@ translate Schinese nikroute_823aa4a7:
 translate Schinese nikroute_e903cd75:
 
     # "Troublemaker sounds like a mighty light word for what he did."
-    "‘惹麻烦’，以他的所作所为来说真是有够轻描淡写的。"
+    "“惹麻烦”，以他的所作所为来说真是有够轻描淡写的。"
 
 # game/nikroute.rpy:904
 translate Schinese nikroute_d143eeee:
@@ -4174,13 +4174,13 @@ translate Schinese nikroute_d143eeee:
 translate Schinese nikroute_dc15cc9a:
 
     # ni "\"I had to get the truth from you quickly. We are now in a better position.\""
-    ni "“我必须尽快从你那里得到真相。我们现在的处境好得多了。”"
+    ni "“我必须尽快从你那里得到真相。我们现在的处境好多了。”"
 
 # game/nikroute.rpy:907
 translate Schinese nikroute_06abfca3:
 
     # m "\"Except for with William. You saw how mad he was.\""
-    m "“William的事除外。你看到他有多生气了。”"
+    m "“William的事除外。你看到他有多生气。”"
 
 # game/nikroute.rpy:909
 translate Schinese nikroute_4fa14693:
@@ -4270,7 +4270,7 @@ translate Schinese nikroute_876f34f6:
 translate Schinese nikroute_c8d37fee:
 
     # ni "\"Well... I helped move the body, so I know where it happened.\""
-    ni "“这个吗...我帮忙搬运过尸体，所以知道现场的位置。”"
+    ni "“这个嘛...我帮忙搬运过尸体，所以知道现场的位置。”"
 
 # game/nikroute.rpy:930
 translate Schinese nikroute_f2b1332e:
@@ -4378,7 +4378,7 @@ translate Schinese nikroute_e439f51a:
 translate Schinese nikroute_1f630097:
 
     # "Whatever happened in there, it was after me, and me alone for killing man."
-    "不管下面发生了什么，都是因我而起，因为我杀了人，我自己。"
+    "不管下面发生了什么，都是因我而起，都因为我杀了人。"
 
 # game/nikroute.rpy:954
 translate Schinese nikroute_baba7e52:
@@ -4720,7 +4720,7 @@ translate Schinese nikroute_febc22f0:
 translate Schinese nikroute_67467d23:
 
     # "If no one sees me leave the place, then most just assume I'm some vagrant with weird fur."
-    "只要我没被看到从里这离开，那么大多数人只会以为我是个长着奇怪毛发的流浪汉罢了。"
+    "只要我没被看到从这里离开，那么大多数人只会以为我是个长着奇怪毛发的流浪汉罢了。"
 
 # game/nikroute.rpy:1018
 translate Schinese nikroute_0680f42b:
@@ -4816,7 +4816,7 @@ translate Schinese nikroute_df8ec4bc_3:
 translate Schinese nikroute_902a1279:
 
     # cl "\"My 'Howdy'! I am working to assimilate better. It's a shortening of 'how do you do', you know.\""
-    cl "“我那句'幸会’啊！我正在努力入乡随俗。你知道吗，这是‘很荣幸会见你’的简化。”"
+    cl "“我那句“幸会”啊！我正在努力入乡随俗。你知道吗，这是‘很荣幸会见你’的简化。”"
 
 # game/nikroute.rpy:1039
 translate Schinese nikroute_66d680c7:
@@ -4924,7 +4924,7 @@ translate Schinese nikroute_08aa27cc:
 translate Schinese nikroute_0b793833:
 
     # m "\"Which just moves you on to the shittier town that is Payton.\""
-    m "“这只会去到一个更烂的镇子，沛顿镇。”"
+    m "“这只会去到一个更烂的镇子，佩顿镇。”"
 
 # game/nikroute.rpy:1063
 translate Schinese nikroute_fe36c126:
@@ -4942,7 +4942,7 @@ translate Schinese nikroute_13e6b43c:
 translate Schinese nikroute_e8d0fc3b:
 
     # "Even if he did land himself in Echo, the poor chump."
-    "尽管他还是在回音落了脚，可怜的傻瓜。"
+    "尽管他还是在回音镇落了脚，可怜的傻瓜。"
 
 # game/nikroute.rpy:1066
 translate Schinese nikroute_45613b33:
@@ -4954,7 +4954,7 @@ translate Schinese nikroute_45613b33:
 translate Schinese nikroute_1be59907:
 
     # cl "\"It is! In fact, being here has made me appreciate the more refined aspects of Batavia and Wensleydale.\""
-    cl "“是的！老实讲，来到这里让我更加体会到巴达维亚与温斯勒德精致的一面了。”"
+    cl "“是的！老实讲，来到这里让我更加体会到巴达维亚与温斯勒德（Wensleydale）精致的一面了。”"
 
 # game/nikroute.rpy:1069
 translate Schinese nikroute_fa4167ab:
@@ -4972,7 +4972,7 @@ translate Schinese nikroute_91696e0a:
 translate Schinese nikroute_b659dca0:
 
     # cl "\"Oh yes, I even heard stories back home of the brutal outfit that pull most of the strings in his city.\""
-    cl "“哦，没错，我甚至在家乡听过这样的传闻：在他那个城市，暴力集团暗中操纵着大部分地方。”"
+    cl "“哦，没错，甚至我在家乡听过这样的传闻：在他那个城市，暴力集团暗中操纵着大部分地方。”"
 
 # game/nikroute.rpy:1072
 translate Schinese nikroute_35010289:
@@ -5032,7 +5032,7 @@ translate Schinese nikroute_55d9a547:
 translate Schinese nikroute_43a4d30b:
 
     # cl "\"Well, she is a member of the Meseta tribe, is she not?\""
-    cl "“她是梅赛塔部落的一员，对不对？”"
+    cl "“她是梅塞塔部落的一员，对不对？”"
 
 # game/nikroute.rpy:1084
 translate Schinese nikroute_8cd5f9b7:
@@ -5068,7 +5068,7 @@ translate Schinese nikroute_51461374:
 translate Schinese nikroute_20010e44:
 
     # cl "\"Oh nothing too strenuous. I simply would appreciate some direction as to where I should go."
-    cl "\"哦，不是什么艰苦的工作。我只是想了解下自己该去哪里。"
+    cl "\“哦，不是什么艰苦的工作。我只是想了解下自己该去哪里。”"
 
 # game/nikroute.rpy:1092
 translate Schinese nikroute_f05ae32d:
@@ -5158,7 +5158,7 @@ translate Schinese nikroute_70703b6f:
 translate Schinese nikroute_7b29dacf:
 
     # "So I start walking that way."
-    "因此，我开始朝那边走去。"
+    "因此，我开始朝那边走。"
 
 # game/nikroute.rpy:1115
 translate Schinese nikroute_f5346067:
@@ -5356,7 +5356,7 @@ translate Schinese nikroute_b838b400:
 translate Schinese nikroute_80b897f7:
 
     # "I'm numb as I just walk into the shack."
-    "我麻木地走进棚房。"
+    "我麻木地走进棚屋。"
 
 # game/nikroute.rpy:1149
 translate Schinese nikroute_81227601:
@@ -5368,7 +5368,7 @@ translate Schinese nikroute_81227601:
 translate Schinese nikroute_1a6682bd:
 
     # "I stand there for a few seconds, feeling dazed, waiting for my eyes to adjust."
-    "我头晕目弦地在原地站了数秒钟，等待眼睛适应过来。"
+    "我头晕目眩地在原地站了数秒钟，等待眼睛适应过来。"
 
 # game/nikroute.rpy:1151
 translate Schinese nikroute_a9eed9bf:
@@ -5404,7 +5404,7 @@ translate Schinese nikroute_548d9be5:
 translate Schinese nikroute_bd1e600e:
 
     # "I could never say his name right because my mouth just can't put the first and second part of Liu together."
-    "在之前，我总是没法念对他的名字，因为我的嘴就是不能把‘Liu’的前后两个发音同时念出来。"
+    "在之前，我总是没法念对他的名字，因为我的嘴就是不能把“Liu”的前后两个发音同时念出来。"
 
 # game/nikroute.rpy:1157
 translate Schinese nikroute_548ac924:
@@ -5942,7 +5942,7 @@ translate Schinese nikroute_3d3da1e1:
 translate Schinese nikroute_88dc7bbd:
 
     # "I actually laugh when it goes off."
-    "听到铃响，我着实笑出了来。"
+    "听到铃响，我着实笑了出来。"
 
 # game/nikroute.rpy:1280
 translate Schinese nikroute_7627cbad:
@@ -6134,13 +6134,13 @@ translate Schinese nikroute_86b45cb8:
 translate Schinese nikroute_5c72916f:
 
     # "But I’m still mulling over his introduction."
-    "只是他的自我介绍我仍在琢磨。"
+    "只是我仍在琢磨他的自我介绍。"
 
 # game/nikroute.rpy:1318
 translate Schinese nikroute_3b088e7f:
 
     # m "\"Will and purpose?\""
-    m "志同道合？"
+    m "“志同道合？”"
 
 # game/nikroute.rpy:1321
 translate Schinese nikroute_ef9c8fd3:
@@ -6182,7 +6182,7 @@ translate Schinese nikroute_af89c8a1:
 translate Schinese nikroute_d1539ab1:
 
     # ya "\"...I suspect it is not mandatory for you to share in our trade to understand our obstacles in time.\""
-    ya "“...我想你不一定要涉足我们的行业，以理解我们的困难。”"
+    ya "“...我想你不一定需要涉足我们的行业，才能理解我们的困难。”"
 
 # game/nikroute.rpy:1336
 translate Schinese nikroute_4475301d:
@@ -6230,13 +6230,13 @@ translate Schinese nikroute_f381c119:
 translate Schinese nikroute_ea874b24:
 
     # ya "\"Very well. Let’s move, and be quick about this. We can talk as we walk.\""
-    ya "“那好。我们出发吧，快点事情做完。我们可以边走边谈。”"
+    ya "“那好。我们出发吧，事情快点做完。我们可以边走边谈。”"
 
 # game/nikroute.rpy:1354
 translate Schinese nikroute_6dae66c4:
 
     # "The tiger motions for us to move away from the small cabin settled next to an exterior quarry, more in the direction of a pathway up a hillside."
-    "“在老虎的示意下，我们远离了坐落于露天采石场旁的棚屋，朝山坡上的一条小路走去。”"
+    "在老虎的示意下，我们远离了坐落于露天采石场旁的棚屋，朝山坡上的一条小路走去。"
 
 # game/nikroute.rpy:1355
 translate Schinese nikroute_55120357:
@@ -6404,7 +6404,7 @@ translate Schinese nikroute_70e29284:
 translate Schinese nikroute_577592bc:
 
     # "As we hit the top of the hill, the entrance of a mine shaft appears on the horizon."
-    "抵达山顶后，一个矿道入口出现在了我们眼前。"
+    "抵达山顶后，一个矿道入口出现在我们眼前。"
 
 # game/nikroute.rpy:1405
 translate Schinese nikroute_8e0765c9:
@@ -6434,7 +6434,7 @@ translate Schinese nikroute_dd6f9f60:
 translate Schinese nikroute_cfe7f98f:
 
     # "The polecat shrugs, shakes his head, and keeps pulling the cart full of chalky looking rocks forward."
-    "那只艾鼬耸耸肩，摇了摇头，继续朝前拉起装满了粉笔似岩石的推车。"
+    "那只艾鼬耸耸肩，摇了摇头，继续朝前拉起装满了粉笔状岩石的推车。"
 
 # game/nikroute.rpy:1411
 translate Schinese nikroute_a28bf5b3:
@@ -6536,7 +6536,7 @@ translate Schinese nikroute_bd0dc33d:
 translate Schinese nikroute_b8de6d34:
 
     # m "\"It always feels to me like caves are breathing at the entrance.\""
-    m "“我总是感觉洞口在呼吸。”"
+    m "“我总感觉洞口在呼吸。”"
 
 # game/nikroute.rpy:1441
 translate Schinese nikroute_baf6acf8:
