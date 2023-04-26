@@ -1,568 +1,568 @@
-﻿# TODO: Translation updated at 2023-04-24 16:58
+# TODO: Translation updated at 2023-04-24 16:58
 
 # game/a3s2.rpy:5
 translate Schinese a3s2_396fc663:
 
     # "The terrible change comes three weeks later."
-    ""
+    "变故发生在三周后。"
 
 # game/a3s2.rpy:6
 translate Schinese a3s2_fd299d54:
 
     # "After a flurry of hospital visits, police interviews, and even harassment from the media, things became strangely quiet."
-    ""
+    "在经历了医院就诊、警方询问，甚至媒体的连番骚扰后，事态意外地平静了下来。"
 
 # game/a3s2.rpy:7
 translate Schinese a3s2_9ef58eb2:
 
     # "{i}He's a broken road.{/i}"
-    ""
+    "{b}他是一条破路。{/b}"
 
 # game/a3s2.rpy:8
 translate Schinese a3s2_1dd0ce38:
 
     # "Brian Dubois was a serial killer with a victim count in the double-digits, with all of the murders taking place over the course of nearly four decades."
-    ""
+    "连环杀手Brian Dubois在近四十年的时间里总共谋杀了不下十位受害者。"
 
 # game/a3s2.rpy:9
 translate Schinese a3s2_5efb6a97:
 
     # "That would get national attention, of course, especially since Brian appeared to be involved in the high-profile disappearance of a promising college freshmen last year."
-    ""
+    "举国上下一片哗然，尤其是因为Brian似乎涉及去年一名备受瞩目的大学新生的失踪。"
 
 # game/a3s2.rpy:10
 translate Schinese a3s2_812b37ff:
 
     # "The bodycam footage of their dramatic rescue from the mines even made the rounds on social media."
-    ""
+    "社交媒体上到处流传着他们被执法人员从矿井里救出的镜头。"
 
 # game/a3s2.rpy:11
 translate Schinese a3s2_f33e3121:
 
     # "... For about two days."
-    ""
+    "...流传了大约两天。"
 
 # game/a3s2.rpy:12
 translate Schinese a3s2_1356b773:
 
     # "At the same time, a pandemic was picking up steam, and media attention became focused elsewhere."
-    ""
+    "一场全球性大流行病吸引了媒体的视线。"
 
 # game/a3s2.rpy:13
 translate Schinese a3s2_aedf42dd:
 
     # "That lack of attention made Cameron's recovery much easier."
-    ""
+    "Cameron因此得以更好地静养。"
 
 # game/a3s2.rpy:14
 translate Schinese a3s2_000ac0a8:
 
     # "His burst liver and severely damaged kidney left him needing surgery and the hospital did what it could for his elbow, but his doctors were hopeful that with a lot of physical therapy, he could at least use it for basic necessities."
-    ""
+    "他的肝脏破裂，肾脏严重受损，不得不采取手术。与此同时，医院也对他的肘部进行了力所能及的治疗，他的主治医生希望透过大量物理疗法，将他恢复到可以独立完成日常的饮食起居。"
 
 # game/a3s2.rpy:15
 translate Schinese a3s2_560f0700:
 
     # "While it did suck to maybe never be able to bend his elbow correctly, or without pain, what really devastated Cameron was the weakness and almost debilitating tingling in his fingers."
-    ""
+    "Cameron或许永远无法正常地地曲肘，但更令他感到崩溃的是手指的无力。"
 
 # game/a3s2.rpy:16
 translate Schinese a3s2_f7b9e48c:
 
     # "Guitar was an absolute no."
-    ""
+    "他的吉他梦顿时变得遥不可及。"
 
 # game/a3s2.rpy:17
 translate Schinese a3s2_5b9b7942:
 
     # "For now."
-    ""
+    "至少暂时是这样。"
 
 # game/a3s2.rpy:18
 translate Schinese a3s2_f21ee323:
 
     # "\"{i}But what about forever?{/i}\""
-    ""
+    "{b}没准就是一辈子呢？{/b}"
 
 # game/a3s2.rpy:19
 translate Schinese a3s2_774254ef:
 
     # "Cameron had been trying to banish that damn voice from his head."
-    ""
+    "Cameron一直在努力把这个该死的声音从脑子里赶出去。"
 
 # game/a3s2.rpy:20
 translate Schinese a3s2_12070505:
 
     # "No, the negative {i}thoughts{/i} from his head... right?"
-    ""
+    "但没有用，这只是他自己消极的{b}想法{/b}...难道不是吗？"
 
 # game/a3s2.rpy:21
 translate Schinese a3s2_4d521a1b:
 
     # "Things continued to feel strange."
-    ""
+    "Cameron仍感觉不太对劲。"
 
 # game/a3s2.rpy:22
 translate Schinese a3s2_41c35d00:
 
     # "It didn't seem to be related to his ESP, because he could easily tell when that was happening."
-    ""
+    "这无关于他的‘超感觉’，他很轻易就能分辨出来。"
 
 # game/a3s2.rpy:23
 translate Schinese a3s2_8428683b:
 
     # "Ever since the shroom trip, a haze of psychic ability lingered around him, allowing him to capture thoughts and feelings seemingly at random."
-    ""
+    "自从服下了致幻菇，他就被一股精神力的迷雾所包围，使他能够捕获随机的思想和感觉。"
 
 # game/a3s2.rpy:24
 translate Schinese a3s2_e1eb5b8b:
 
     # "\"Downloading\" is what some people like him like to call it.\""
-    ""
+    "不过像他这种人更喜欢称其为‘下载’。"
 
 # game/a3s2.rpy:25
 translate Schinese a3s2_07c42bb6:
 
     # "He didn't have much control, though."
-    ""
+    "虽然是不可控的。"
 
 # game/a3s2.rpy:26
 translate Schinese a3s2_f53d9241:
 
     # "Sometimes he wasn't even able to tell if the download he was receiving was from the living or the dead."
-    ""
+    "有时候，他甚至分不清下载的内容来自活人还是死人。"
 
 # game/a3s2.rpy:27
 translate Schinese a3s2_9559c341:
 
     # "Cameron even began to try and hone his abilities, and experiment with just how much he could do."
-    ""
+    "Cameron曾尝试锻炼自己的能力，并实验他能做到何种程度。"
 
 # game/a3s2.rpy:28
 translate Schinese a3s2_7561f992:
 
     # "Unfortunately, he figured out pretty quickly that without an illicit substance of some kind to fuel his clairvoyance, it was extremely hard to do."
-    ""
+    "遗憾的是，他很快就发现这难度无异于登天，除非用某种见不得光的药物来增强他的洞察力。"
 
 # game/a3s2.rpy:29
 translate Schinese a3s2_bfbba175:
 
     # "That or being in an \"active\" location."
-    ""
+    "或者身处某个‘活跃’的位置。"
 
 # game/a3s2.rpy:33
 translate Schinese a3s2_3b713c2d:
 
     # "Echo is one of those locations, obviously, but there are so many others..."
-    ""
+    "回音镇显然就是其中之一，但类似的地方还有很多..."
 
 # game/a3s2.rpy:34
 translate Schinese a3s2_71dabf68:
 
     # "{i}He's a desert lake.{/i}"
-    ""
+    "{b}他是沙漠中的一处湖泊。{/b}"
 
 # game/a3s2.rpy:35
 translate Schinese a3s2_c296fa5b:
 
     # "Every now and then, Cameron would find himself pausing, like at the backdoor of Devon's house, as a chill would run down his spine."
-    ""
+    "Cameron时而不由自主地驻足，比如在Devon家的后门，因为一股寒意顺着他的脊椎滑下。"
 
 # game/a3s2.rpy:36
 translate Schinese a3s2_64173e01:
 
     # "It always meant an \"Echo\" was attached to something, somewhere nearby."
-    ""
+    "这意味着‘回音’附着在附近的某地、或某物上。"
 
 # game/a3s2.rpy:37
 translate Schinese a3s2_02895116:
 
     # "That's what Cameron called the beings... not exactly intelligent, or even living, but entities that interacted with and usually threatened the living."
-    ""
+    "Cameron就是这样称呼那些存在的...它们不具备真正的智能，甚至没有生命，仅仅是与活人互动、足以致命的实体。"
 
 # game/a3s2.rpy:38
 translate Schinese a3s2_722140e3:
 
     # "In that particular case, it emanated from under the back porch."
-    ""
+    "而那一次，它在门廊的下面。"
 
 # game/a3s2.rpy:39
 translate Schinese a3s2_9a07e26e:
 
     # "When he told Devon about it, he knew immediately what Cameron was talking about."
-    ""
+    "他把这件事告诉给了Devon，Devon立刻就会意了。"
 
 # game/a3s2.rpy:40
 translate Schinese a3s2_c45dea58:
 
     # d "\"Oh yeah, I'd hear something moving under there all the time, like a person crawling around. Even dad says he saw red eyes under there once.\""
-    d ""
+    d "啊，难怪我总能听到下面好像有东西在爬，就连我爸也说他在那下面看见过一双红眼。"
 
 # game/a3s2.rpy:44
 translate Schinese a3s2_c62af8fc:
 
     # "Being more sensitive doesn't exactly answer questions, though."
-    ""
+    "但变得更加敏感Cameron也产生了更多疑问。"
 
 # game/a3s2.rpy:45
 translate Schinese a3s2_5990a543:
 
     # "Like why is it there? Where did it come from? What the hell is it?"
-    ""
+    "譬如：它为什么在那里？它从哪里来？它究竟是什么？"
 
 # game/a3s2.rpy:46
 translate Schinese a3s2_cefe5bc6:
 
     # "All he knows is that it's not a person, and it never was a person."
-    ""
+    "他只知道它不是人类，从来不是。"
 
 # game/a3s2.rpy:47
 translate Schinese a3s2_15c8c8e4:
 
     # "Because they're all demons."
-    ""
+    "因为它们全都是魔鬼。"
 
 # game/a3s2.rpy:48
 translate Schinese a3s2_3841bc4e:
 
     # "While Cameron had seen that old spark of interest in Devon's eyes, he had told Cameron to just ignore it and focus on their visit."
-    ""
+    "尽管Cameron从Devon眼中看到了熟悉的火花，但他仍告诉Cameron无须在意，专注于他们的拜访。"
 
 # game/a3s2.rpy:49
 translate Schinese a3s2_3b3b89e8:
 
     # "Cameron can also tell that Devon just wants it to go away, quietly, like it never happened."
-    ""
+    "Cameron明白，Devon只希望它无声无息地消失，就好像从未存在过。"
 
 # game/a3s2.rpy:50
 translate Schinese a3s2_96468482:
 
     # "All of it, including Cameron's abilities."
-    ""
+    "它们全部，包括Cameron的能力。"
 
 # game/a3s2.rpy:51
 translate Schinese a3s2_3acd633e:
 
     # "That was at the end of the second week, and over the course of his life, Cameron would look back on that visit as one of the last time they were still themselves."
-    ""
+    "那是第二周周末，在Cameron的有生之年，他把那次拜访视作他们与过去的诀别。"
 
 # game/a3s2.rpy:52
 translate Schinese a3s2_70d9cf54:
 
     # "{i}He's a trailer home in the Southwest.{/i}"
-    ""
+    "{b}他是西南地区的一间拖车房。{/b}"
 
 # game/a3s2.rpy:55
 translate Schinese a3s2_8b7ab99d:
 
     # "By the third week, Cameron was recovering at a remarkable rate, and so Devon began to pay Artie more visits and phone calls."
-    ""
+    "到了第三周，Cameron开始以惊人的速度恢复，于是Devon更多关照起了Artie。"
 
 # game/a3s2.rpy:56
 translate Schinese a3s2_772a2ed3:
 
     # "His improvement was also rapid, but Cameron was just a little sad that Artie never asked to talk to him, and would only ask Devon how the coyote was holding up."
-    ""
+    "他恢复得同样很快，但Cameron有一点点难过，因为Artie从来没有直接和他说过话，他只会问Devon那只郊狼怎么样了。"
 
 # game/a3s2.rpy:57
 translate Schinese a3s2_6479eb29:
 
     # "It made sense, he would tell himself."
-    ""
+    "这很正常，Cameron如此安慰自己。"
 
 # game/a3s2.rpy:58
 translate Schinese a3s2_8f4998dc:
 
     # "Devon and Artie go even further back than Devon and himself."
-    ""
+    "比起他，Artie当然和Devon走得更近。"
 
 # game/a3s2.rpy:59
 translate Schinese a3s2_919322af:
 
     # "Something felt off, but considering the circumstances, nothing was normal at that time."
-    ""
+    "Cameron还是感觉不对劲，但考虑到当时的情况，他周围也没什么是正常的。"
 
 # game/a3s2.rpy:60
 translate Schinese a3s2_2ef39977:
 
     # "Actually, as the third week progressed, everything became wrong."
-    ""
+    "然而随着第三周的推移，一切都急转直下。"
 
 # game/a3s2.rpy:62
 translate Schinese a3s2_6791484c:
 
     # "Sometimes he'd wake up, whimpering or crying, thinking he was back in Echo."
-    ""
+    "他会突然从睡梦中惊醒，以为自己回到了回音镇，呜咽不止。"
 
 # game/a3s2.rpy:63
 translate Schinese a3s2_55fda1b7:
 
     # "Devon had it far worse, waking up in a howling panic, yelling about guns, chains, and death."
-    ""
+    "Devon的情况更糟，他伴随着哀嚎醒来，大喊关于枪、锁链，以及死亡的呓语。"
 
 # game/a3s2.rpy:64
 translate Schinese a3s2_418fa697:
 
     # "Those were the times when Cameron was the main one to comfort and give support, at least as best as his patched up and sore body could manage."
-    ""
+    "那些日子里，Cameron是主要的安慰者和支持者，至少在他伤痕累累、浑身酸痛的身体所能承受的范围内。"
 
 # game/a3s2.rpy:65
 translate Schinese a3s2_0fd2fe07:
 
     # "But now, Cameron feels like a part of him is missing, like he's not fully present."
-    ""
+    "但如今，Cameron觉得自己失去了一部分：这个他并不完整。"
 
 # game/a3s2.rpy:66
 translate Schinese a3s2_f225f638:
 
     # "It's like pieces of him litter the town of his trauma."
-    ""
+    "好像他的碎片散落在了那个伤心之地。"
 
 # game/a3s2.rpy:67
 translate Schinese a3s2_328a688e:
 
     # "It still feels like he's there, in a way, and when that feeling really started to set in, that's when it happened."
-    ""
+    "他感觉自己还在那里，或多或少地，而他越是这么想，那种感觉就越是强烈。"
 
 # game/a3s2.rpy:68
 translate Schinese a3s2_862452ae:
 
     # "A small pressure in his right ear started to develop."
-    ""
+    "他的右耳开始出现轻微的压力。"
 
 # game/a3s2.rpy:69
 translate Schinese a3s2_4d44896c:
 
     # "It was something that he was sure had to do with the hearing loss he'd experienced from the shotgun blast."
-    ""
+    "他确信这与猎枪所造成的听力损伤有关。"
 
 # game/a3s2.rpy:70
 translate Schinese a3s2_ca224150:
 
     # "It was annoying though, and it felt bizarre."
-    ""
+    "这有些诡异，又有些恼人。"
 
 # game/a3s2.rpy:71
 translate Schinese a3s2_c86b1c00:
 
     # "They set up another appointment with Cameron's audiologist a few weeks from then."
-    ""
+    "几周后，他们再次预约了Cameron的听觉矫治专家。"
 
 # game/a3s2.rpy:72
 translate Schinese a3s2_4b693659:
 
     # "The hearing loss was likely permanent, but it was what began to replace it that bothered the coyote the most."
-    ""
+    "听力损伤很可能是永久性的，不过这暂时取代了郊狼最大的心结。"
 
 # game/a3s2.rpy:73
 translate Schinese a3s2_bad391d1:
 
     # "In the middle of the afternoon, it happened."
-    ""
+    "下午三点左右，那种感觉又来了。"
 
 # game/a3s2.rpy:75
 translate Schinese a3s2_749e3092:
 
     # "{i}April 2020{/i}"
-    ""
+    "{b}2020年四月{/b}"
 
 # game/a3s2.rpy:76
 translate Schinese a3s2_f58b6a05:
 
     # "Cameron starts working again that week."
-    ""
+    "Cameron在那周重新开始了工作。"
 
 # game/a3s2.rpy:77
 translate Schinese a3s2_44ca6650:
 
     # "He wanted to feel useful again, and because they were both working from home now, it seemed like an okay idea."
-    ""
+    "他想要自己派上用场，鉴于大家现在都在家里上班，这应该不成问题。"
 
 # game/a3s2.rpy:78
 translate Schinese a3s2_66ab61ab:
 
     # "Devon didn't want him starting yet, of course, but Cameron wanted that sense of normalcy to come back, and his shitty job seemed like the perfect solution."
-    ""
+    "Devon当然表示反对，但Cameron渴望正常的生活，而那份烂工作似乎就是完美的解决方案。"
 
 # game/a3s2.rpy:79
 translate Schinese a3s2_2fae7afc:
 
     # "Trying to work with mostly one paw did come as a bigger challenge than Cameron expected, not realizing how much he used his left."
-    ""
+    "只用一只手工作确实比Cameron预期的要难，毕竟他不是左撇子。"
 
 # game/a3s2.rpy:80
 translate Schinese a3s2_6dd7d4a7:
 
     # "Typing was particularly slow, but he was getting better at managing."
-    ""
+    "他打字很慢，不过也渐渐熟络了起来。"
 
 # game/a3s2.rpy:81
 translate Schinese a3s2_c6ac0e7f:
 
     # "Still, it made him slow, and even though his boss was understanding, and even told him to just forward rude customers her way, it still left him flustered in ways he wasn't used to."
-    ""
+    "尽管如此，他的回复速度仍比不上常人。虽然他的老板表示理解，并嘱咐他直接把粗鲁的顾客转交给她，但这股陌生感还是令他手足无措。"
 
 # game/a3s2.rpy:82
 translate Schinese a3s2_efb83d6d:
 
     # "After a rather harsh call that began with \"Thank God. Someone I can finally fucking understand!\", then ended with \"You know what would have been faster?\""
-    ""
+    "一通急促的电话以‘谢天谢地，终于有人理解我了！’作为开头，然后以‘你知道什么东西比你还慢吗？’作为结尾。"
 
 # game/a3s2.rpy:83
 translate Schinese a3s2_de9c029e:
 
     # "Cameron waits for the answer."
-    ""
+    "Cameron等待着对方的答案。"
 
 # game/a3s2.rpy:84
 translate Schinese a3s2_ce75787f:
 
     # "\"ANYTHING! This is the last time I buy some chink-ass phone made in some shit factory--\""
-    ""
+    "‘{b}没有！{/b}我再也不会买中国佬造的垃圾手机-’"
 
 # game/a3s2.rpy:85
 translate Schinese a3s2_9c8d27c4:
 
     # "Cameron rubs his eyes, wondering how different the interactions would be if they did video calls face-to-face."
-    ""
+    "Cameron揉了揉眼睛，想知道如果他们是面对面，这段对话会有多么不同。"
 
 # game/a3s2.rpy:86
 translate Schinese a3s2_6beafc20:
 
     # c "\"But sir, this phone was assembled in the States after Hulian worked with the government in 2018 to bring more jobs to our--\""
-    c ""
+    c "但是先生，这款手机是在美国组装的。2018年，互联与政府合作，为我们带来了更多的就业机会-"
 
 # game/a3s2.rpy:87
 translate Schinese a3s2_a33baa80:
 
     # "\"Transfer me to your superior, please.\""
-    ""
+    "‘让你的上司接电话。’"
 
 # game/a3s2.rpy:88
 translate Schinese a3s2_f33db725:
 
     # c "\"Of course, one moment.\""
-    c ""
+    c "好的，请您稍等。"
 
 # game/a3s2.rpy:89
 translate Schinese a3s2_c4646b0c:
 
     # "As Cameron reaches for the button to his boss's line, he hears the man muttering under his breath."
-    ""
+    "当Cameron伸手去转接键的时候，他听到了那个人的喃喃自语。"
 
 # game/a3s2.rpy:90
 translate Schinese a3s2_c19240e5:
 
     # "\"... Didn't know they hired retards for customer service...\""
-    ""
+    "‘...他们怎么还雇了个弱智当客服...’"
 
 # game/a3s2.rpy:91
 translate Schinese a3s2_1ce55963:
 
     # "{i}click{/i}"
-    ""
+    "{b}咔哒{/b}"
 
 # game/a3s2.rpy:92
 translate Schinese a3s2_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/a3s2.rpy:93
 translate Schinese a3s2_80e1f48d:
 
     # "No big deal: He would get one of those every week, and according to his co-workers, it's gotten worse since the pandemic started."
-    ""
+    "没什么大不了的：他每周都会接到这么一通电话。据他的同事讲，自疫情爆发以来，这种现象就更常见了。"
 
 # game/a3s2.rpy:94
 translate Schinese a3s2_a20cefa7_1:
 
     # "..."
-    ""
+    "..."
 
 # game/a3s2.rpy:95
 translate Schinese a3s2_08565555:
 
     # "But why did that one hurt his feelings so badly, to the point that his eyes are welling with tears?"
-    ""
+    "但为何那个人如此作践伤害他的感情，以至于他两泪纵横？"
 
 # game/a3s2.rpy:96
 translate Schinese a3s2_c9d07060:
 
     # "Maybe it was because he went through hell and back, and that man has no idea..."
-    ""
+    "也许是因为那个人不知道他经历了九死一生..."
 
 # game/a3s2.rpy:97
 translate Schinese a3s2_6599bb5c:
 
     # "No idea..."
-    ""
+    "他不知道..."
 
 # game/a3s2.rpy:105
 translate Schinese a3s2_85b6bb1e:
 
     # "Then, his computer screen seemed to stretch far away, and Cameron found himself grabbing the edge of his desk like he's about to fall over."
-    ""
+    "电脑屏幕似乎突然远去，回过神来的时候，Cameron发现自己正抓着桌子的边缘，仿佛要跌倒一般。"
 
 # game/a3s2.rpy:106
 translate Schinese a3s2_850c5730:
 
     # "Pressure grows in his ear, and he realizes that maybe it's causing the strange feeling of being off-kilter."
-    ""
+    "压力刺激着他的鼓膜，他想，也许那种不正常的感觉就是从这里来的。"
 
 # game/a3s2.rpy:107
 translate Schinese a3s2_b1ffc263:
 
     # "But no, he's tripping again."
-    ""
+    "不对，他又产生幻觉了。"
 
 # game/a3s2.rpy:108
 translate Schinese a3s2_ab2b012b:
 
     # "{i}It's a flashback, just a flashback.{/i}"
-    ""
+    "{b}这只是闪回，只是闪回。{/b}"
 
 # game/a3s2.rpy:110
 translate Schinese a3s2_13d69a1f:
 
     # "\"{i}No, it's brain damage and you'll probably feel like this forever. He poisoned you.{/i}\""
-    ""
+    "‘{b}不，是脑损伤，他给你下了药，你一辈子也就这样了吧。{/b}’"
 
 # game/a3s2.rpy:112
 translate Schinese a3s2_f9c3f1fd:
 
     # "{i}\"And you are a fucking retard. Can't handle a literal customer stereotype? Just samsh the keyboard.{/i}\""
-    ""
+    "‘{b}你可真他妈是个弱智，连敲敲键盘这点小事都做不好？{/b}’"
 
 # game/a3s2.rpy:114
 translate Schinese a3s2_22538e43:
 
     # "Cameron freezes, a paw up to his right ear, where the voice had come from."
-    ""
+    "Cameron僵住了，他把手伸向右耳，声音响起的地方。"
 
 # game/a3s2.rpy:115
 translate Schinese a3s2_4a6acdd3:
 
     # "Is his headset still on, or..."
-    ""
+    "他的耳机还开着吗，或者..."
 
 # game/a3s2.rpy:116
 translate Schinese a3s2_226c9dc6:
 
     # "\"{i}No, and you can tell it's coming from inside your head, you idiot.{/i}\""
-    ""
+    "‘{b}这是你脑子里的声音，所以你能听到，白痴。{/b}’"
 
 # game/a3s2.rpy:117
 translate Schinese a3s2_4fde54d8:
 
     # "After that, Cameron remembers very little except panic."
-    ""
+    "在那之后，除了恐慌，Cameron几乎什么都不记得了。"
 
 # game/a3s2.rpy:118
 translate Schinese a3s2_fa91b217:
 
     # "That was followed by confusion, a ton of confusion."
-    ""
+    "随之而来的是困惑，一大堆困惑。"
 
 # game/a3s2.rpy:119
 translate Schinese a3s2_18f5689b:
@@ -3292,17 +3292,17 @@ translate Schinese a3s2_085ed71a:
 translate Schinese a3s2_7a60e1a1:
 
     # "But he's content to wait and find out."
-    ""
+    "但他并不着急寻找答案。"
 
 # game/a3s2.rpy:672
 translate Schinese a3s2_35aa38e7:
 
     # "But that'll be a long ways away, he's sure."
-    ""
+    "因为以后的路还很长。"
 
 # game/a3s2.rpy:673
 translate Schinese a3s2_2e21a278:
 
     # "Not until they're 110, after all."
-    ""
+    "毕竟，他们要一起活到110岁呢。"
 
