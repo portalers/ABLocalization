@@ -178,7 +178,7 @@ translate Schinese nikroute3_20341f1c:
 translate Schinese nikroute3_657d4508:
 
     # "We walked in silence, stumbling across bushes and dry shrubs until we found the desert road leading back into town."
-    "我们艰难地穿过灌木从，才回到通往镇上的路，其间谁也没说一句话。"
+    "我们艰难地穿过灌木丛，才回到通往镇上的路，期间谁也没说一句话。"
 
 # game/nikroute3.rpy:64
 translate Schinese nikroute3_d90cd4e0:
@@ -568,7 +568,7 @@ translate Schinese nikroute3_a9a3926a:
 translate Schinese nikroute3_a5a485a9:
 
     # ni "\"Not really.\""
-    ni "“並不。”"
+    ni "“并不。”"
 
 # game/nikroute3.rpy:163
 translate Schinese nikroute3_9e9f3c4c:
@@ -838,7 +838,7 @@ translate Schinese nikroute3_9fc2306c:
 translate Schinese nikroute3_ff136219:
 
     # ya "\"Wangliang, or no.\""
-    ya "“他们称之为魍魉。”"
+    ya "“无论是魍魉还是别的什么。”"
 
 # game/nikroute3.rpy:314
 translate Schinese nikroute3_4af7b9d0:
@@ -1180,7 +1180,7 @@ translate Schinese nikroute3_c95add53:
 translate Schinese nikroute3_c3f80fc4:
 
     # pa "\"They sicced the national guard on their asses.\""
-    pa "“他们可是派出了国民兵啊。”"
+    pa "“他们可是派出了国民警卫队啊。”"
 
 # game/nikroute3.rpy:347
 translate Schinese nikroute3_3e8f1a1a:
@@ -1540,7 +1540,7 @@ translate Schinese nikroute3_8e33733e:
 translate Schinese nikroute3_3b5a1fbe:
 
     # "The wolverine pushes the tent flap out of the way as he storms out."
-    "狼獾气冲冲地推开门帘帘，离开了帳篷。"
+    "狼獾气冲冲地推开门帘，离开了帳篷。"
 
 # game/nikroute3.rpy:460
 translate Schinese nikroute3_57dfedcc:
@@ -2134,7 +2134,7 @@ translate Schinese nikroute3_c16ddcad:
 translate Schinese nikroute3_61dbc734:
 
     # jiunk "\"Did you get your stuff or what?\""
-    jiunk "东西拿到了没？"
+    jiunk "“东西拿到了没？”"
 
 # game/nikroute3.rpy:818
 translate Schinese nikroute3_713b3160:
@@ -2284,7 +2284,7 @@ translate Schinese nikroute3_61d73496:
 translate Schinese nikroute3_ca90c49a:
 
     # ji "\"My brother-in-law knows that if you work hard you get to play hard.\""
-    ji "我这小舅子还挺懂‘玩命工作，享受生活’的。"
+    ji "“我这小舅子还挺懂‘玩命工作，享受生活’的。”"
 
 # game/nikroute3.rpy:912
 translate Schinese nikroute3_30813e94:
@@ -2428,7 +2428,7 @@ translate Schinese nikroute3_20d4d6eb:
 translate Schinese nikroute3_b3726c31:
 
     # m "\"I’ll tell you everything.\""
-    m "“我想一五一十说地清楚。”"
+    m "“我想一五一十地说清楚。”"
 
 # game/nikroute3.rpy:700
 translate Schinese nikroute3_efe7df59:
@@ -2446,7 +2446,7 @@ translate Schinese nikroute3_ccbc878b:
 translate Schinese nikroute3_d202ca8d:
 
     # "We travel back to the saloon and see that the lights are all on in the windows like usual."
-    "我们回去时，酒馆还是一如既往地灯火通明。"
+    "我们回去时，酒馆还是一如既往的灯火通明。"
 
 # game/nikroute3.rpy:711
 translate Schinese nikroute3_15152ef9:
@@ -2566,7 +2566,7 @@ translate Schinese nikroute3_024ffa1a:
 translate Schinese nikroute3_7b24d00f:
 
     # cy "\"I’ll make that two buckets.\""
-    cy "还是给你捎两桶水吧。"
+    cy "“还是给你捎两桶水吧。”"
 
 # game/nikroute3.rpy:1067
 translate Schinese nikroute3_7904833b:
@@ -3124,7 +3124,7 @@ translate Schinese nikroute3_8bc0508c:
 translate Schinese nikroute3_2d805dc8:
 
     # m "\"There was something in the room with me.\""
-    m "“那空间里除了我还有其他存在，”"
+    m "“那空间里除了我还有其他存在。”"
 
 # game/nikroute3.rpy:867
 translate Schinese nikroute3_0aa53ad5:
@@ -3664,7 +3664,7 @@ translate Schinese nikroute3_c870ec83:
 translate Schinese nikroute3_cb6f5dd8:
 
     # "I dunk it in the water again to clean it, then I wash my neck and under my arms."
-    "我再次泡水洗淨，接着擦拭脖子跟腋下。"
+    "我再次泡水洗净，接着擦拭脖子跟腋下。"
 
 # game/nikroute3.rpy:987
 translate Schinese nikroute3_fcb73341:
@@ -4012,7 +4012,7 @@ translate Schinese sny2_8abb4384:
 translate Schinese sny2_f7c3c462:
 
     # "He put his hands between my legs and held me there, tenderly."
-    "他用手温柔地撐开我的双腿。"
+    "他用手温柔地撑开我的双腿。"
 
 # game/nikroute3.rpy:1089
 translate Schinese sny2_b42232cc:
@@ -4246,19 +4246,19 @@ translate Schinese sny2_2723b44f:
 translate Schinese sny2_7cec17a4:
 
     # m "\"Pour some on your paw and rub it until your digits are warm and slick.\""
-    m "“倒一点在爪上，搓到手指溫暖滑溜。”"
+    m "“倒一点在爪上，搓到手指温暖滑溜。”"
 
 # game/nikroute3.rpy:1133
 translate Schinese sny2_c7a24243:
 
     # "I hear the small pop of the cap and the liquid drizzle."
-    "瓶蓋打开跟液体擠出的声音传来。"
+    "瓶盖打开跟液体挤出的声音传来。"
 
 # game/nikroute3.rpy:1134
 translate Schinese sny2_58efd113:
 
     # m "\"Drag your middle finger along my rear.\""
-    m "“用中指沿着我股溝滑过。”"
+    m "“用中指沿着我的股沟滑过。”"
 
 # game/nikroute3.rpy:1136
 translate Schinese sny2_49d88b3b:
@@ -4270,7 +4270,7 @@ translate Schinese sny2_49d88b3b:
 translate Schinese sny2_184ba0d6:
 
     # "The rough skin swipes me as I gasp."
-    "粗糙的皮膚觸感令我倒抽一口氣。"
+    "粗糙的皮肤触感令我倒抽一口气。"
 
 # game/nikroute3.rpy:1140
 translate Schinese sny2_e66b14d9:
@@ -4294,13 +4294,13 @@ translate Schinese sny2_4385815e:
 translate Schinese sny2_af1855ad:
 
     # m "\"Let your middle finger sink in, slowly. Curl it toward the direction of my stomach once you’re deep.\""
-    "“慢慢把中指插进去，够深后往我肚子的方向勾。”"
+    m "“慢慢把中指插进去，够深后往我肚子的方向勾。”"
 
 # game/nikroute3.rpy:1369
 translate Schinese sny2_e70cc4c3:
 
     # "I feel the pinch as my cheeks spread and I open up."
-    "感到刺痛时，我張开臀部，后庭大开。"
+    "感到刺痛时，我张开臀部，后庭大开。"
 
 # game/nikroute3.rpy:1146
 translate Schinese sny2_faa252ef:
@@ -4462,7 +4462,7 @@ translate Schinese sny2_1d3b8278:
 translate Schinese sny2_f24b2e12:
 
     # "I thought the next attempt was wrong too until I felt something inside me give."
-    "我本以为这次还是会失败，体內却传来被撑开的感觉。"
+    "我本以为这次还是会失败，体内却传来被撑开的感觉。"
 
 # game/nikroute3.rpy:1451
 translate Schinese sny2_7ca1ef1b:
@@ -4510,7 +4510,7 @@ translate Schinese sny2_f2297ea4:
 translate Schinese sny2_6d6031ac:
 
     # ni "\"I can’t believe how warm you are.\""
-    ni "“没想到你这么溫暖。”"
+    ni "“没想到你这么温暖。”"
 
 # game/nikroute3.rpy:1192
 translate Schinese sny2_9ad80a86:
@@ -4540,7 +4540,7 @@ translate Schinese sny2_720ba774:
 translate Schinese sny2_7c7d3643:
 
     # "His breathing changed from smooth to ragged as he pants on my neck."
-    "他逐渐狂野气息拍打在我的脖颈上。"
+    "他逐渐狂野的气息拍打在我的脖颈上。"
 
 # game/nikroute3.rpy:1200
 translate Schinese sny2_fa718ace:
@@ -4624,7 +4624,7 @@ translate Schinese sny2_fc0bc510:
 translate Schinese sny2_2787315d:
 
     # "He drags along my sensitive spot while I feel him pumping inside me and I feel myself start to spasm."
-    "他在灌入我体內时，一直擦过我的敏感点，我不住痉挛。"
+    "他在灌入我体内时，一直擦过我的敏感点，我不住痉挛。"
 
 # game/nikroute3.rpy:1216
 translate Schinese sny2_84e80f49:
@@ -4642,7 +4642,7 @@ translate Schinese sny2_1a858717:
 translate Schinese sny2_68667c52:
 
     # "Cum forces itself out of me in loud shots, clinging to the mattress below me."
-    "精液强而有力地射出，打湿了身下的床鋪。"
+    "精液强而有力地射出，打湿了身下的床铺。"
 
 # game/nikroute3.rpy:1223
 translate Schinese sny2_5f3ebe16:
@@ -4858,7 +4858,7 @@ translate Schinese sny2_202264da:
 translate Schinese sny2_d2f29bd2:
 
     # "I wander around the interior balcony, looking down at the patrons below, trying to catch an ear or eyeshot of what’s going on."
-    "我来到室內露台，俯瞰着楼下的人群，试图从中发现端倪。"
+    "我来到室内露台，俯瞰着楼下的人群，试图从中发现端倪。"
 
 # game/nikroute3.rpy:1281
 translate Schinese sny2_adc5a7ec:
@@ -5026,13 +5026,13 @@ translate Schinese sny2_23ee7c2a:
 translate Schinese sny2_ed48f3ab:
 
     # counk "\"I do not entreat to be contrarian ma’am.\""
-    counk "您太谦虚了，夫人。"
+    counk "“您太谦虚了，夫人。”"
 
 # game/nikroute3.rpy:1558
 translate Schinese sny2_0fc9fb83:
 
     # counk "\"But I was told by many that your performances had no empty seats.\""
-    counk "我听说您的演唱会可谓是人山人海，座无虛席。"
+    counk "“我听说您的演唱会过去可谓是人山人海，座无虛席。”"
 
 # game/nikroute3.rpy:1573
 translate Schinese sny2_4789d33d:
@@ -5074,7 +5074,7 @@ translate Schinese sny2_ca38d668:
 translate Schinese sny2_c772163c:
 
     # md "\"Harlan.\""
-    md "Harlan。"
+    md "“Harlan。”"
 
 # game/nikroute3.rpy:1595
 translate Schinese sny2_1dab7122:
@@ -5602,7 +5602,7 @@ translate Schinese sny2_adc3e2cf:
 translate Schinese sny2_20e4624a:
 
     # ni "\"Of course.\""
-    ni "当然好。"
+    ni "“当然好。”"
 
 # game/nikroute3.rpy:1779
 translate Schinese sny2_9bffa991:
@@ -6016,7 +6016,7 @@ translate Schinese sny2_7b414454:
 translate Schinese sny2_d4e2ee0c:
 
     # m "\"You know...\""
-    m "这个嘛..."
+    m "“这个嘛...”"
 
 # game/nikroute3.rpy:1960
 translate Schinese sny2_f62cd508:
@@ -6130,7 +6130,7 @@ translate Schinese sny2_ce6e5b0b:
 translate Schinese sny3_1ae8acc0:
 
     # ni "\"Sam...\""
-    ni "Sam..."
+    ni "“Sam...”"
 
 # game/nikroute3.rpy:1961
 translate Schinese sny3_39e2f6ec:
@@ -6454,7 +6454,7 @@ translate Schinese sny3_9e12141f:
 translate Schinese sny3_f26fa11d:
 
     # "A side door opens and a maid with a rolling table sets out a tea set before pulling it away and disappearing wordlessly."
-    "侧门打开，一位推着餐車的女佣出现，默默摆好茶具，又一言不发地消失。"
+    "侧门打开，一位推着餐车的女佣出现，默默摆好茶具，又一言不发地消失。"
 
 # game/nikroute3.rpy:2074
 translate Schinese sny3_6695f7d6:
@@ -6970,7 +6970,7 @@ translate Schinese sny3_4cd59785:
 translate Schinese sny3_6f19d038:
 
     # m "\"Alright.\""
-    m "好吧。"
+    m "“好吧。”"
 
 # game/nikroute3.rpy:2262
 translate Schinese sny3_1abc1694:
@@ -7924,7 +7924,7 @@ translate Schinese sny3_d968dd64:
 translate Schinese sny3_2d6ee573:
 
     # m "\"Oh.\""
-    m "噢。"
+    m "“噢。”"
 
 # game/nikroute3.rpy:2477
 translate Schinese sny3_ec97b60e:
@@ -7936,7 +7936,7 @@ translate Schinese sny3_ec97b60e:
 translate Schinese sny3_8c4e5c77:
 
     # m "\"Wow.\""
-    m "哇啊。"
+    m "“哇啊。”"
 
 # game/nikroute3.rpy:2491
 translate Schinese sny3_62066b15:
@@ -8338,7 +8338,7 @@ translate Schinese sny3_016f1653:
 translate Schinese sny3_5702445a:
 
     # hat "\"Always a pleasure.\""
-    hat "这是我的荣幸。"
+    hat "“这是我的荣幸。”"
 
 # game/nikroute3.rpy:2624
 translate Schinese sny3_568e04b3:
@@ -8356,7 +8356,7 @@ translate Schinese sny3_6947b170:
 translate Schinese sny3_35de2d0e:
 
     # "Doesn’t seem like they were doing much talking."
-    "貌似没怎么在談话。"
+    "貌似没怎么在谈话。"
 
 # game/nikroute3.rpy:2333
 translate Schinese sny3_301e6171:
@@ -8590,7 +8590,7 @@ translate Schinese sny3_491540f3:
 translate Schinese sny3_ce1fb4f1:
 
     # "She opens the door and I feel the rush of cold wind that would be refreshing in any other location."
-    "她把门打开，一股冷风迎面吹来，换作是在其他地方一定很涼爽。"
+    "她把门打开，一股冷风迎面吹来，换作是在其他地方一定很凉爽。"
 
 # game/nikroute3.rpy:2412
 translate Schinese sny3_bba3c6eb:
