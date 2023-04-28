@@ -43,6 +43,6 @@ translate Tchinese python:
 
 ## PC界面配置微調
     if renpy.variant("pc"):
-        gui.text_size = 36
+        gui.text_size = 34
         gui.quick_button_text_size = 30
-        gui.quick_button_borders = Borders(30, 6, 30, 15)
+        gui.quick_button_borders = Borders(30, 6, 30, 8)
