@@ -310,7 +310,7 @@ translate Schinese nikroute2_1a10f9a8:
 translate Schinese nikroute2_a16af63d:
 
     # "All the light we have is from our own lamps and helmets."
-    "仅有的光源就是我们自己的提灯跟头灯。"
+    "仅有的光源就是我们自己的提灯和头灯。"
 
 # game/nikroute2.rpy:101
 translate Schinese nikroute2_5899dd46:
@@ -2734,7 +2734,7 @@ translate Schinese nikroute2_ab80b2d8:
 translate Schinese nikroute2_1beba68a:
 
     # "Then he smirks."
-    "然后得意的笑了。"
+    "然后得意地笑了。"
 
 # game/nikroute2.rpy:734
 translate Schinese nikroute2_8f5f1962:
@@ -3106,7 +3106,7 @@ translate Schinese nikroute2_ff8d6062:
 translate Schinese nikroute2_d7544886:
 
     # "I immediately notice the mix of sour, earthy and woody smells that fill the cabin."
-    "屋中混杂着的酸腐、泥土，以及木头味道一并扑鼻而来。"
+    "屋中混杂着的酸腐、泥土以及木头的味道一并扑鼻而来。"
 
 # game/nikroute2.rpy:837
 translate Schinese nikroute2_138cda7f:
@@ -3472,7 +3472,7 @@ translate Schinese nikroute2_6bd58b72:
 translate Schinese nikroute2_7c453d60:
 
     # m "\"There’s no way they’d hire me in that godforsaken place for just two hours a shift.\""
-    m "他们会雇我在那个鸟不拉屎的地方待区区两个钟头？怎么可能。"
+    m "“他们会雇我在那个鸟不拉屎的地方待区区两个钟头？怎么可能。”"
 
 # game/nikroute2.rpy:928
 translate Schinese nikroute2_d76b0d8c:
@@ -3496,7 +3496,7 @@ translate Schinese nikroute2_95738d92:
 translate Schinese nikroute2_c9747a2a:
 
     # ya "\"No assignment will take only two hours.\""
-    ya "“随便一项都不止两个小时就能完成。”"
+    ya "“随便一项都不用两个小时就能完成。”"
 
 # game/nikroute2.rpy:937
 translate Schinese nikroute2_5f88c0ed:
@@ -3640,7 +3640,7 @@ translate Schinese nikroute2_9ef6e557:
 translate Schinese nikroute2_11a50d78:
 
     # "I feel my consciousness fade..."
-    "我的意识逐渐模糊...。"
+    "我的意识逐渐模糊..."
 
 # game/nikroute2.rpy:977
 translate Schinese nikroute2_429907d7:
@@ -4666,7 +4666,7 @@ translate Schinese nikroute2_829803cc:
 translate Schinese nikroute2_ffe74edd:
 
     # ya "\"However, misfortunate choices aside, if he learns how to work with explosives, we’ll have another man know how to extract the ore.\""
-    ya "“不过撇开不幸不谈，如果他学会了炸药的使用方法，我们就多一个能采矿帮手了。”"
+    ya "“不过撇开不幸不谈，如果他学会了炸药的使用方法，我们就多一个能采矿的帮手了。”"
 
 # game/nikroute2.rpy:1294
 translate Schinese nikroute2_163814c1:
@@ -5068,7 +5068,7 @@ translate Schinese sny1_baa21573:
 translate Schinese sny1_384067e7:
 
     # m "\"Y'know?\""
-    m "你明白吗？"
+    m "“你明白吗？”"
 
 # game/nikroute2.rpy:1412
 translate Schinese sny1_f472aab5:
@@ -5320,7 +5320,7 @@ translate Schinese sny1_a4279caf:
 translate Schinese sny1_7bb27e6c:
 
     # m "\"I get the sense you feel conflicted about him.\""
-    m "“我感觉你对他有些抵触。”"
+    m "“但我感觉你对他有些抵触。”"
 
 # game/nikroute2.rpy:1501
 translate Schinese sny1_6dc0a8f7:
@@ -6208,7 +6208,7 @@ translate Schinese sny1_90eb96e8:
 translate Schinese sny1_c587a889:
 
     # "...wait, what does she mean by lazy?"
-    "...等下，她说的‘直白’是什么意思？"
+    "...等下，她说的“直白”是什么意思？"
 
 # game/nikroute2.rpy:1723
 translate Schinese sny1_4f7c46bb:
@@ -6256,7 +6256,7 @@ translate Schinese sny1_a2715f69:
 translate Schinese sny1_e45c8ac0:
 
     # md "\"Well, if you trust that it wasn’t me, it would either have to be one of the miners who saw you and Nikolai together.\""
-    md "“这个吗，如果你相信不是我，那就是某个看到过你跟Nikolai在一起的矿工了。”"
+    md "“这个嘛，如果你相信不是我，那就是某个看到过你跟Nikolai在一起的矿工了。”"
 
 # game/nikroute2.rpy:1739
 translate Schinese sny1_0b6ea594:
@@ -6862,7 +6862,7 @@ translate Schinese sny1_4faae4cc:
 translate Schinese sny1_a75dc3bf:
 
     # ya "\"Climbing is in your nature.\""
-    ya "“攀爬是你本能。”"
+    ya "“攀爬是你的本能。”"
 
 # game/nikroute2.rpy:1901
 translate Schinese sny1_ad9c07c3:
@@ -8026,7 +8026,7 @@ translate Schinese sny1_63ab506f:
 translate Schinese sny1_6da9d3e7:
 
     # m "\"Payton has a place they call The Stag too.\""
-    m "“佩顿也有间酒馆叫Stag。”"
+    m "“佩顿镇也有间酒馆叫Stag。”"
 
 # game/nikroute2.rpy:2335
 translate Schinese sny1_b4b518c5:
@@ -8200,7 +8200,7 @@ translate Schinese sny1_8dd07e4a:
 translate Schinese sny1_4c457415:
 
     # m "\"He looks like somebody I wouldn’t want to mess with.\""
-    m "“一看起就不好惹。”"
+    m "“看起来就不好惹。”"
 
 # game/nikroute2.rpy:2389
 translate Schinese sny1_1ae8acc0:
@@ -8908,7 +8908,7 @@ translate Schinese sny1_53644849:
 translate Schinese sny1_4d4cd65c:
 
     # "I’m chilly and feeling a little chafed by the time we reach it."
-    "等我回到工棚已经感觉冷的不行，还有点烦躁。"
+    "等我回到工棚已经感觉冷得不行，还有点烦躁。"
 
 # game/nikroute2.rpy:2658
 translate Schinese sny1_23ad77b2:
@@ -8926,7 +8926,7 @@ translate Schinese sny1_ccc99d57:
 translate Schinese sny1_3d635bab:
 
     # ya "\"Nobody can know what we are doing.\""
-    ya "“不能让任何人知道我们在干什么”"
+    ya "“不能让任何人知道我们在干什么。”"
 
 # game/nikroute2.rpy:2661
 translate Schinese sny1_6286f60d:
@@ -9310,7 +9310,7 @@ translate Schinese sny1_60ad9333:
 translate Schinese sny1_12c0d90a:
 
     # ya "\"You’re more clever than I thought, Mr. Ayers.\""
-    ya "“你比我想象中要聪明，Ayers先生。”"
+    ya "“你比我想象中的要聪明，Ayers先生。”"
 
 # game/nikroute2.rpy:2742
 translate Schinese sny1_f5654236:
@@ -9988,7 +9988,7 @@ translate Schinese sny1_af6d1313:
 translate Schinese sny1_07a59643:
 
     # "I don’t recognize any of them."
-    "我一个都不认识他们。"
+    "他们几个我一个都不认识。"
 
 # game/nikroute2.rpy:2915
 translate Schinese sny1_dfa2bdb8:
@@ -10522,7 +10522,7 @@ translate Schinese sny1_e694577c:
 translate Schinese sny1_d1a7d47c:
 
     # "And they lead to more sounds of drilling, hammering, picking and scraping."
-    "更多钻孔、捶打、开凿和刮擦的声音从那个方向传来。”"
+    "更多钻孔、捶打、开凿和刮擦的声音从那个方向传来。"
 
 # game/nikroute2.rpy:3086
 translate Schinese sny1_4c1118c7:
@@ -10762,7 +10762,7 @@ translate Schinese sny1_b5d998b4:
 translate Schinese sny1_b1d3407c:
 
     # bk "\"I’ll take rookies and experts alike if they can work, Keyes. We’re undermanned...\""
-    bk "“只要能干活，不论新老我都一视同仁，Keye。我们人手不足...”"
+    bk "“只要能干活，不论新老我都一视同仁，Keyes。我们人手不足...”"
 
 # game/nikroute2.rpy:3190
 translate Schinese sny1_12ed8945:
@@ -14188,7 +14188,7 @@ translate Schinese sny1_d534c35b:
 translate Schinese sny1_998d99c4:
 
     # m "\"For, uh... Ruthenia, right?\""
-    m "“呃...罗塞尼亚那边？”"
+    m "“呃...罗塞尼亚（Ruthenia）那边？”"
 
 # game/nikroute2.rpy:4490
 translate Schinese sny1_57af9962:
@@ -15226,7 +15226,7 @@ translate Schinese sny1_cda9af5a:
 translate Schinese sny1_55aca0b4:
 
     # ya "\"Breaking protocol would make Beckett talk to James, and that’s the last thing we want.\""
-    ya "“违反协议将导致Beckett与James的会谈，”"
+    ya "“违反协议将导致Beckett与James的会谈。”"
 
 # game/nikroute2.rpy:4914
 translate Schinese sny1_7ef344d6:
@@ -15712,7 +15712,7 @@ translate Schinese sny1_e5e95bef:
 translate Schinese sny1_28a3ecdc:
 
     # "Workers constantly walk in and out of the door for supplies or daily hygiene."
-    "工人进进出出，为了购买物资或日常卫生。"
+    "工人进进出出，为了购买物资或日常卫生用品。"
 
 # game/nikroute2.rpy:5100
 translate Schinese sny1_32a895d9:
@@ -16342,7 +16342,7 @@ translate Schinese sny1_c30caeb1:
 translate Schinese sny1_33c98438:
 
     # "But when I looked again at the back door, I can see a little candle lit on a plate."
-    "再次查看后门的时候，我留意到一个中间点了根蜡烛盘子。"
+    "再次查看后门的时候，我留意到一个中间点了根蜡烛的盘子。"
 
 # game/nikroute2.rpy:5317
 translate Schinese sny1_6826b662:
@@ -16420,7 +16420,7 @@ translate Schinese sny1_e07a2de8:
 translate Schinese sny1_bf268e85:
 
     # po "\"Now, I know that Echo’s not exactly the size of the Windy City yet, but I find it very queer indeed that somebody would know my brother’s name and invoke it in my presence. \""
-    po "“虽说回音镇不抵风城那般规模，却也难得有人当着我的面提及我兄弟的大名，实属稀奇。”"
+    po "“虽说回音镇不抵风城（Windy City）那般规模，却也难得有人当着我的面提及我兄弟的大名，实属稀奇。”"
 
 # game/nikroute2.rpy:5344
 translate Schinese sny1_6674d86d:
@@ -17326,7 +17326,7 @@ translate Schinese sellcomp_25772c0e:
 translate Schinese sellcomp_679eb3c7:
 
     # ya "\"It’s the way he looks at you.\""
-    ya "“他看你的眼神，”"
+    ya "“他看你的眼神。”"
 
 # game/nikroute2.rpy:5675
 translate Schinese sellcomp_c9f85d7e:
@@ -17452,7 +17452,7 @@ translate Schinese sellcomp_dfa1bfd8:
 translate Schinese sellcomp_5268326e:
 
     # "I understand now what Nik meant when he said you got used to it."
-    "我总算明白Nik口中的‘习惯’是什么意思了。"
+    "我总算明白Nik口中的“习惯”是什么意思了。"
 
 # game/nikroute2.rpy:5701
 translate Schinese sellcomp_ab2fd8b8:
@@ -17596,7 +17596,7 @@ translate Schinese sellcomp_8d65ba59:
 translate Schinese sellcomp_a43d4b23:
 
     # m "\"...so should I stalk on over or should I shut my eyes and fall asleep to the night music.\""
-    m "“...所以我是该径直而上还是闭上眼睛伴着'夜曲'入眠？”"
+    m "“...所以我是该径直而上还是闭上眼睛伴着‘夜曲’入眠？”"
 
 # game/nikroute2.rpy:5749
 translate Schinese sellcomp_836b7aee:
@@ -17758,13 +17758,13 @@ translate Schinese sellcomp_b4b5fc60:
 translate Schinese sellcomp_a0c658c3:
 
     # "His paw is dripping wet."
-    "他的爪子湿漉漉地。"
+    "他的爪子湿漉漉的。"
 
 # game/nikroute2.rpy:5804
 translate Schinese sellcomp_d40a98e4:
 
     # "And his shaft is long, and thick, and his tip is messy."
-    "而他的肉棒既长且粗，顶端。"
+    "而他的肉棒既长且粗，顶端湿得一塌糊涂。"
 
 # game/nikroute2.rpy:5805
 translate Schinese sellcomp_762179f4:
@@ -17896,7 +17896,7 @@ translate Schinese sellcomp_19f81e33:
 translate Schinese sellcomp_d0ed5943:
 
     # "I demonstrate... just in case he’s watching again."
-    "我演示了一下...只以防他又在看。"
+    "我演示了一下...万一他又在看。"
 
 # game/nikroute2.rpy:5845
 translate Schinese sellcomp_6123fd1f:
@@ -18256,7 +18256,7 @@ translate Schinese sellcomp_c04972a0:
 translate Schinese sellcomp_10b89b39:
 
     # m "\"...yeah?\""
-    m "“...yeah？”"
+    m "“...来了？”"
 
 # game/nikroute2.rpy:5975
 translate Schinese sellcomp_caa112a6:
@@ -18268,7 +18268,7 @@ translate Schinese sellcomp_caa112a6:
 translate Schinese sellcomp_c806ebc0:
 
     # m "\"Yeah.\""
-    m "“Yeah.”"
+    m "“来了。”"
 
 # game/nikroute2.rpy:5979
 translate Schinese sellcomp_e63db8c0:
@@ -18328,7 +18328,7 @@ translate Schinese sellcomp_6683a2cf:
 translate Schinese sellcomp_c32f6070:
 
     # ya "\"That felt right. In a way it hadn’t before.\""
-    ya "“感觉前所未有地爽。”"
+    ya "“感觉前所未有的爽。”"
 
 # game/nikroute2.rpy:6001
 translate Schinese sellcomp_1610f112:
@@ -18670,7 +18670,7 @@ translate Schinese sellcomp_1749292a:
 translate Schinese sellcomp_1042b47a:
 
     # ni "\"Crass and stubborn.\""
-    ni "愚钝又顽固。"
+    ni "“愚钝又顽固。”"
 
 # game/nikroute2.rpy:6125
 translate Schinese sellcomp_c2ce5c20:
@@ -18946,7 +18946,7 @@ translate Schinese sellcomp_33e95ffe:
 translate Schinese sellcomp_35f68127:
 
     # "The third floor is as busy as ever."
-    "第三层还是一如既往地忙碌。"
+    "第三层还是一如既往的忙碌。"
 
 # game/nikroute2.rpy:6229
 translate Schinese sellcomp_d996e999:
@@ -19623,7 +19623,7 @@ translate Schinese sellcomp_204b08c7:
 translate Schinese sellcomp_7b89fabb:
 
     # di "\"I think he’s a good boy. He’s not the sharpest tool in the shed, but he’s young.\""
-    di "“他是颗好苗子，也许不是最出色的，但他还年轻。”"
+    di "“他是棵好苗子，也许不是最出色的，但他还年轻。”"
 
 # game/nikroute2.rpy:6368
 translate Schinese sellcomp_67ccaa37:
@@ -19953,7 +19953,7 @@ translate Schinese sellcomp_a8a0dce3:
 translate Schinese sellcomp_ce64083f:
 
     # pa "\"I’ll KILL THAT YELLOW-BELLIED BASTARD.\""
-    pa "“{b}我要宰了那个狗东西。{/b}”"
+    pa "“{b}我要宰了那个黄毛的狗东西。{/b}”"
 
 # game/nikroute2.rpy:6692
 translate Schinese sellcomp_094d73e2:
@@ -19983,7 +19983,7 @@ translate Schinese sellcomp_0014391e:
 translate Schinese sellcomp_e5523753:
 
     # ben "\"Did what?!\""
-    ben "“他干了什么？！”"
+    ben "“我干了什么？！”"
 
 # game/nikroute2.rpy:6706
 translate Schinese sellcomp_3bed85a7:
@@ -22971,7 +22971,7 @@ translate Schinese locker1bright_8a10a542:
 translate Schinese locker1bright_bbde8270:
 
     # "He points at the wall."
-    "“他指向洞壁。”"
+    "他指向洞壁。"
 
 # game/nikroute2.rpy:7852
 translate Schinese locker1bright_5b43040e:
@@ -23133,7 +23133,7 @@ translate Schinese locker1bright_c2f73f41:
 translate Schinese locker1bright_83fc5bd4:
 
     # ya "\"Shafts are, ideally and efficiently, built over long distances to be parallel and perpendicular.\""
-    ya "理想且高效的通道应讲究平行和垂直。"
+    ya "“理想且高效的通道应讲究平行和垂直。”"
 
 # game/nikroute2.rpy:7914
 translate Schinese locker1bright_38bed1f1:
@@ -23277,7 +23277,7 @@ translate Schinese locker1bright_2912704f:
 translate Schinese locker1bright_e7a409c7:
 
     # ni "\"Perhaps this community has no right to exist if the mines are more dangerous than they seem.\""
-    ni "“既然矿井比明面上危险得多，那这个社会就没有存在的必要。”"
+    ni "“既然矿井比明面上危险得多，那它对于这个社会来说就没有存在的必要。”"
 
 # game/nikroute2.rpy:7973
 translate Schinese locker1bright_9c641c78:
