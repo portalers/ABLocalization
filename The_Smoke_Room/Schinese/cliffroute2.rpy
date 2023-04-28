@@ -3220,7 +3220,7 @@ translate Schinese cliffroute2_a5fbd220:
 translate Schinese cliffroute2_f993132e:
 
     # mu "\"The weather's perfect for some {b}natuurfotografie{/b}.\""
-    mu "“这天气简直完美适合*{rb}{b}natuurfotografie{/b}”{/rb}{rt}巴达维亚语,意为自然摄影{/rt}。"
+    mu "“这天气简直完美适合{rb}{b}natuurfotografie{/b}{/rb}{rt}巴达维亚语,意为自然摄影{/rt}。”"
 
 # game/cliffroute2.rpy:796
 translate Schinese cliffroute2_d51e005d:

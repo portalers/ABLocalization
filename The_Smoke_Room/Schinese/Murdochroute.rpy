@@ -2980,7 +2980,7 @@ translate Schinese Murdochroute_3804ceb3:
 translate Schinese Murdochroute_b437b4ad:
 
     # m "\"So you must be... Red then?\""
-    m "“所以您一定是...{rb}Red{/rb}{rt}含义为红色，有时也作人名{/rt}了？”"
+    m "“所以您一定是...{rb}Red{/rb}{rt}含义为红色，有时也用作人名{/rt}了？”"
 
 # game/Murdochroute.rpy:696
 translate Schinese Murdochroute_e2910f4f:
