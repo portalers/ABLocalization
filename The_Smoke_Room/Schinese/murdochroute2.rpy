@@ -17530,7 +17530,7 @@ translate Schinese murdochroute2_45be6fc0:
 translate Schinese murdochroute2_873aaa30:
 
     # m "\"You really want to see nothing, you should check out Payton.\""
-    m "“真要说一穷二白，你该瞧瞧佩顿镇（Payton）才对。”"
+    m "“真要说一穷二白，你该瞧瞧{rb}佩顿镇{/rb}{rt}Payton{/rt}才对。”"
 
 # game/murdochroute2.rpy:5023
 translate Schinese murdochroute2_8d4b3fe1:
@@ -17548,7 +17548,7 @@ translate Schinese murdochroute2_10550e9f:
 translate Schinese murdochroute2_54c857f9:
 
     # mu "\"Sure, but it’s nothing compared to Pueblo.\""
-    mu "“话虽如此，可还是远比不上普韦布洛（Pueblo）。”"
+    mu "“话虽如此，可还是远比不上{rb}普韦布洛{/rb}{rt}Pueblo{/rt}。”"
 
 # game/murdochroute2.rpy:5026
 translate Schinese murdochroute2_ee32d711:

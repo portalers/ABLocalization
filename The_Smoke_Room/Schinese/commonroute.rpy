@@ -370,7 +370,7 @@ translate Schinese commonroute_fdcfd18e:
 translate Schinese commonroute_bfbd0731:
 
     # cy "\"Well, you know, there's this weasel in town. He's from Batavia and apparently he's made an appointment here!\""
-    cy "“这个嘛，你知道镇上有只鼬吧，来自巴达维亚（Batavia）那只。据说他在这里预约了！”"
+    cy "“这个嘛，你知道镇上有只鼬吧，来自{rb}巴达维亚{/rb}{rt}Batavia{/rt}那只。据说他在这里预约了！”"
 
 # game/commonroute.rpy:83
 translate Schinese commonroute_50a5dca6:

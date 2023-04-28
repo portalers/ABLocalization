@@ -11409,7 +11409,7 @@ translate Schinese go1_0d448a16:
 translate Schinese go1_4af3954a:
 
     # wi "“Guess you’re rubbing off on me.”"
-    wi "“我猜是被你传染（贴贴）了。”"
+    wi "“我猜是被你{rb}传染{/rb}{rt}贴贴{/rt}了。”"
 
 # game/williamroute2.rpy:3337
 translate Schinese go1_d38fc7f1:

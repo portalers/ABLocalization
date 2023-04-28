@@ -6519,7 +6519,7 @@ translate Schinese cliffroute_29d26cb1:
 translate Schinese cliffroute_bb53e636:
 
     # "Het Leven der Wolven..."
-    "Het Leven der Wolven（狼的生活）..."
+    "Het Leven der Wolven..."
 
 # game/cliffroute.rpy:1509
 translate Schinese cliffroute_ed47ebab:
