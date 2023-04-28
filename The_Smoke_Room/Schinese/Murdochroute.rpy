@@ -1768,7 +1768,7 @@ translate Schinese Murdochroute_200edd59:
 translate Schinese Murdochroute_cac2f88c:
 
     # "Smart whores live longer."
-    "聪明的妓女活得更久。"
+    "聪明的娼妓活得更久。"
 
 # game/Murdochroute.rpy:409
 translate Schinese Murdochroute_ece47130:
@@ -4048,13 +4048,13 @@ translate Schinese Murdochroute_b6a7dfa4:
 translate Schinese Murdochroute_0608ae76:
 
     # ra "\"Murdoch, why is there a harlot in this establishment?\""
-    ra "“Murdoch，为什么店里有一个妓女？”"
+    ra "“Murdoch，为什么店里有一个娼妓？”"
 
 # game/Murdochroute.rpy:1004
 translate Schinese Murdochroute_187ceafc:
 
     # ra "\"Not that I have anything against harlots, but goodness, we just aren’t open yet.\""
-    ra "“我不是对妓女有什么偏见，但是，天呐，我们还没开门呢。”"
+    ra "“我不是对娼妓有什么偏见，但是，天呐，我们还没开门呢。”"
 
 # game/Murdochroute.rpy:1005
 translate Schinese Murdochroute_8867799e:
@@ -4216,7 +4216,7 @@ translate Schinese Murdochroute_8b82eb7b:
 translate Schinese Murdochroute_1a80c807:
 
     # ra "\"If it’s that you’re not the only whore in this room, that’s hardly a breakthrough.\""
-    ra "“如果是说你并非这房间里唯一的妓女的话，那算不上什么突破。”"
+    ra "“如果是说你并非这房间里唯一的娼妓的话，那算不上什么突破。”"
 
 # game/Murdochroute.rpy:1062
 translate Schinese Murdochroute_77863eee:
@@ -4492,7 +4492,7 @@ translate Schinese Murdochroute_44b83604:
 translate Schinese Murdochroute_b18f1909:
 
     # m "\"Whoring ain't the only thing I want to be good at, and a whore’s gotta eat.\""
-    m "“我不想只擅长做娼，况且妓女也是要吃饭的。”"
+    m "“我不想只擅长做娼，况且娼妓也是要吃饭的。”"
 
 # game/Murdochroute.rpy:1152
 translate Schinese Murdochroute_d4521b62:

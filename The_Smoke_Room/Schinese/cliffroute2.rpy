@@ -1012,7 +1012,7 @@ translate Schinese cliffroute2_2ada9368:
 translate Schinese cliffroute2_d6e78be4:
 
     # "Heard that before. Just looking at me, ya wouldn't expect me to be the whore type."
-    "以前也听到过。单凭我的样子，没人会想到我是妓女。"
+    "以前也听到过。单凭我的样子，没人会想到我是娼妓。"
 
 # game/cliffroute2.rpy:287
 translate Schinese cliffroute2_94987e25:
@@ -11813,7 +11813,7 @@ translate Schinese mt2_822ac173:
 translate Schinese mt2_2641ca01:
 
     # m "\"I'm a whore, doctor. It's more like trouble has a knack for getting into me.\""
-    m "“我是个妓女，医生，倒不如说麻烦总有办法找上门。”"
+    m "“我是个娼妓，医生，倒不如说麻烦总有办法找上门。”"
 
 # game/cliffroute2.rpy:2509
 translate Schinese mt2_70f95e08:
@@ -20297,7 +20297,7 @@ translate Schinese hh_49f31159:
 translate Schinese hh_8185d237:
 
     # ed "\"Memory's getting a bit spotty. Coulda sworn you was one of the whores.\""
-    ed "“记性靠不住咯，我刚想说你是那儿的妓女来着。”"
+    ed "“记性靠不住咯，我刚想说你是那儿的娼妓来着。”"
 
 # game/cliffroute2.rpy:4577
 translate Schinese hh_776cec60:

@@ -106,7 +106,7 @@ translate Schinese murdochroute2_c9eb02ed:
 translate Schinese murdochroute2_6cda80cd:
 
     # "I'm startin' to think that the sex in a whore's line of work ain't the thing that bothers me."
-    "我开始觉得，在妓女这一行，困扰我的并不是性。"
+    "我开始觉得，在娼妓这一行，困扰我的并不是性。"
 
 # game/murdochroute2.rpy:31
 translate Schinese murdochroute2_98778b7e:
@@ -124,7 +124,7 @@ translate Schinese murdochroute2_f4abe835:
 translate Schinese murdochroute2_f861a84f:
 
     # "I know I can't whore forever, but I don't think I could be just a shopkeep for the rest of my life."
-    "我知道妓女不是长久之计，但也不认为自己下半辈子会只满足于当一名店员。"
+    "我知道娼妓不是长久之计，但也不认为自己下半辈子会只满足于当一名店员。"
 
 # game/murdochroute2.rpy:34
 translate Schinese murdochroute2_39884775:
@@ -9388,7 +9388,7 @@ translate Schinese murdochroute2_57464c52:
 translate Schinese murdochroute2_d7b40bb4:
 
     # m "\"Lots of people fall in love with their whores.\""
-    m "“很多人会爱上自己的妓女。”"
+    m "“很多人会爱上自己的娼妓。”"
 
 # game/murdochroute2.rpy:2531
 translate Schinese murdochroute2_a3f9b673:
@@ -9418,7 +9418,7 @@ translate Schinese murdochroute2_99dcd978:
 translate Schinese murdochroute2_31bce3ee:
 
     # ra "\"But even if you planned on whoring forever...\""
-    ra "“但要是你打算当一辈子妓女...”"
+    ra "“但要是你打算当一辈子娼妓...”"
 
 # game/murdochroute2.rpy:2538
 translate Schinese murdochroute2_d723a7f4:
@@ -18220,7 +18220,7 @@ translate Schinese murdochroute2_ab95728f:
 translate Schinese murdochroute2_a6e0d997:
 
     # mu "\"Common fantasy for a sad man to have about a prostitute, is it not?\""
-    mu "“可悲的男人常对他们的妓女抱有幻想，是吧？”"
+    mu "“可悲的男人常对他们的娼妓抱有幻想，是吧？”"
 
 # game/murdochroute2.rpy:5157
 translate Schinese murdochroute2_06cf3fcb:

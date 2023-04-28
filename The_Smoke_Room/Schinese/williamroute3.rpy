@@ -9610,7 +9610,7 @@ translate Schinese hipinvestigation_3f672ecd:
 translate Schinese hipinvestigation_ea657d7a:
 
     # "And it’s not just the prostitutes who love the madam."
-    "那位夫人也不仅仅受到妓女们的爱戴。"
+    "那位夫人也不仅仅受到娼妓们的爱戴。"
 
 # game/williamroute3.rpy:3772
 translate Schinese hipinvestigation_12b7b074:
@@ -9820,7 +9820,7 @@ translate Schinese hipinvestigation_7e304337:
 translate Schinese hipinvestigation_1b064a8f:
 
     # cy "\"You really think the word of one Meseta hooker is more trustworthy than the big shot Sheriff?\""
-    cy "“你真的认为一个梅塞塔妓女的话比大名鼎鼎的治安官更可信吗？”"
+    cy "“你真的认为一个梅塞塔娼妓的话比大名鼎鼎的治安官更可信吗？”"
 
 # game/williamroute3.rpy:3830
 translate Schinese hipinvestigation_4d30801a:
