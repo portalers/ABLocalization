@@ -14188,7 +14188,7 @@ translate Schinese sny1_d534c35b:
 translate Schinese sny1_998d99c4:
 
     # m "\"For, uh... Ruthenia, right?\""
-    m "“呃...罗塞尼亚（Ruthenia）那边？”"
+    m "“呃...{rb}罗塞尼亚{/rb}{rt}Ruthenia{/rt}那边？”"
 
 # game/nikroute2.rpy:4490
 translate Schinese sny1_57af9962:
@@ -16420,7 +16420,7 @@ translate Schinese sny1_e07a2de8:
 translate Schinese sny1_bf268e85:
 
     # po "\"Now, I know that Echo’s not exactly the size of the Windy City yet, but I find it very queer indeed that somebody would know my brother’s name and invoke it in my presence. \""
-    po "“虽说回音镇不抵风城（Windy City）那般规模，却也难得有人当着我的面提及我兄弟的大名，实属稀奇。”"
+    po "“虽说回音镇不抵{rb}风城{/rb}{rt}Windy City{/rt}那般规模，却也难得有人当着我的面提及我兄弟的大名，实属稀奇。”"
 
 # game/nikroute2.rpy:5344
 translate Schinese sny1_6674d86d:
@@ -20031,7 +20031,7 @@ translate Schinese sellcomp_2d548f07:
 translate Schinese sellcomp_ef7db6c0:
 
     # fe "\"Carajo...\""
-    fe "“Carajo（操）...”"
+    fe "“{rb}Carajo{/rb}{rt}操{/rt}...”"
 
 # game/nikroute2.rpy:6726
 translate Schinese sellcomp_e7f18165:

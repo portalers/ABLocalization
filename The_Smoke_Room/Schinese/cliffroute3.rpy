@@ -1648,7 +1648,7 @@ translate Schinese aftertent_801d1bba:
 translate Schinese aftertent_cd519124:
 
     # mu "\"Maybe do some natuurfotografie.\""
-    mu "“也许再拍些natuurfotografie（自然摄影）。”"
+    mu "“也许再做些{rb}natuurfotografie{/rb}{rt}巴达维亚语,意为自然摄影{/rt}。”"
 
 # game/cliffroute3.rpy:417
 translate Schinese aftertent_93ea5015:

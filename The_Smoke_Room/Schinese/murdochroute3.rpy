@@ -3496,7 +3496,7 @@ translate Schinese murdochroute3a_de7d9b50:
 translate Schinese murdochroute3a_6a9cbdeb:
 
     # nei "\"What does a Southlander do spending his days tucked away in Emma County?\""
-    nei "“你一个南方佬，在艾玛县（Emma County）做什么？”"
+    nei "“一个南方佬，你跑到{rb}艾玛县{/rb}{rt}Emma County{/rt}是想干什么？”"
 
 # game/murdochroute3.rpy:1058
 translate Schinese murdochroute3a_41975dcb:

@@ -928,7 +928,7 @@ translate Schinese nikroute_bb8681df:
 translate Schinese nikroute_5f994938:
 
     # ni "\"...I am from Lakhia, but I've lived in this country since I was a young man. You do not sound native, either, by the way.\""
-    ni "“...我来自拉吉亚（Lakhia），不过从小就住在这个国家了。你听起来也不像是本地人。”"
+    ni "“...我来自{rb}拉吉亚{/rb}{rt}Lakhia{/rt}，不过从小就住在这个国家了。你听起来也不像是本地人。”"
 
 # game/nikroute.rpy:211
 translate Schinese nikroute_54f3127d:
@@ -1048,7 +1048,7 @@ translate Schinese nikroute_cdc2a180:
 translate Schinese nikroute_a401575c:
 
     # m "\"Well, we use pesos around here sometimes...\""
-    m "“这个，我们这里偶尔也会用比索（一种钱币）...”"
+    m "“这个，我们这里偶尔也会用{rb}比索{/rb}{rt}一种货币，主要在西班牙与其前殖民地等国家{/rt}...”"
 
 # game/nikroute.rpy:238
 translate Schinese nikroute_896dffb4:
@@ -4954,7 +4954,7 @@ translate Schinese nikroute_45613b33:
 translate Schinese nikroute_1be59907:
 
     # cl "\"It is! In fact, being here has made me appreciate the more refined aspects of Batavia and Wensleydale.\""
-    cl "“是的！老实讲，来到这里让我更加体会到巴达维亚与温斯勒德（Wensleydale）精致的一面了。”"
+    cl "“是的！老实讲，来到这里让我更加体会到巴达维亚与{rb}温斯勒德{/rb}{rt}Wensleydale{/rt}精致的一面了。”"
 
 # game/nikroute.rpy:1069
 translate Schinese nikroute_fa4167ab:

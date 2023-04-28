@@ -838,7 +838,7 @@ translate Schinese cliffroute2_54833e22:
 translate Schinese cliffroute2_12f30beb:
 
     # cl "\"Goedemorgen.\""
-    cl "“Goedemorgen。（荷兰语，意为早上好。）”"
+    cl "“{rb}Goedemorgen{/rb}{rt}巴达维亚语，意为早上好{/rt}。”"
 
 # game/cliffroute2.rpy:238
 translate Schinese cliffroute2_6737d4cf:
@@ -3220,7 +3220,7 @@ translate Schinese cliffroute2_a5fbd220:
 translate Schinese cliffroute2_f993132e:
 
     # mu "\"The weather's perfect for some {b}natuurfotografie{/b}.\""
-    mu "“这天气简直完美适合*{b}natuurfotografie{/b}。”（*自然摄影）"
+    mu "“这天气简直完美适合*{rb}{b}natuurfotografie{/b}”{/rb}{rt}巴达维亚语,意为自然摄影{/rt}。"
 
 # game/cliffroute2.rpy:796
 translate Schinese cliffroute2_d51e005d:
@@ -13319,7 +13319,7 @@ translate Schinese mt2_e1366080:
 translate Schinese mt2_275e8424:
 
     # "The elk looks at his wife curiously."
-    麋鹿好奇地看向自己的妻子。
+    "麋鹿好奇地看向自己的妻子。"
 
 # game/cliffroute2.rpy:3445
 translate Schinese mt2_a87fff40:
@@ -15383,13 +15383,13 @@ translate Schinese mt2_3466db63:
 translate Schinese mt2_6e10a65b:
 
     # "That means Camp Rosa to the east must be my best shot."
-    "也就是说东边的罗莎营地（Camp Rosa）是我最好的选择。"
+    "也就是说东边的{rb}罗莎营地{/rb}{rt}Camp Rosa{/rt}是我最好的选择。"
 
 # game/cliffroute2.rpy:3923
 translate Schinese mt2_3fbbd877:
 
     # "Could get to Providence from there. Follow the stream."
-    "沿着溪流走，就可以从那里抵达普罗维登斯（Providence）。"
+    "沿着溪流走，就可以从那里抵达{rb}普罗维登斯{/rb}{rt}Providence{/rt}。"
 
 # game/cliffroute2.rpy:3924
 translate Schinese mt2_48b94754:
