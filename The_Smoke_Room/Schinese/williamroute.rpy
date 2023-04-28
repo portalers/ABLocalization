@@ -508,7 +508,7 @@ translate Schinese williamroute_5e789f38:
 translate Schinese williamroute_12fcaa6b:
 
     # "The big coyote shifts uncomfortably."
-    "这只身形巨大郊狼不自在地动了身。"
+    "这只身形巨大的郊狼不自在地动了身。"
 
 # game/williamroute.rpy:118
 translate Schinese williamroute_26501abe:
@@ -718,7 +718,7 @@ translate Schinese williamroute_8396120f:
 translate Schinese williamroute_02965890:
 
     # wi "\"Do you think you're the first to spill blood in Echo?\""
-    wi "“你以为自己是第一个让回音染血的？”"
+    wi "“你以为自己是第一个让回音镇染血的？”"
 
 # game/williamroute.rpy:168
 translate Schinese williamroute_7bbbe9c7:
@@ -1798,7 +1798,7 @@ translate Schinese williamroute_85171b93:
 translate Schinese williamroute_a4e02173:
 
     # ni "\"So if Sam says they are there, then they will be there.\""
-    ni "“所以如果Sam如是说，它们会在那里的。”"
+    ni "“所以如果Sam说在那里，那么它们会在那里。”"
 
 # game/williamroute.rpy:434
 translate Schinese williamroute_e87bf691:
@@ -2062,7 +2062,7 @@ translate Schinese williamroute_ddaf9fe9:
 translate Schinese williamroute_77633bcf:
 
     # wi "\"But I don't expect he'll do anything stupid because his word is on the line.\""
-    wi "“不过他的保证塔上了性命，我不觉得他会有什么愚蠢的企图。”"
+    wi "“不过他的保证搭上了性命，我不觉得他会有什么愚蠢的企图。”"
 
 # game/williamroute.rpy:516
 translate Schinese williamroute_47c5b2b5:
@@ -2146,7 +2146,7 @@ translate Schinese williamroute_db907791:
 translate Schinese williamroute_304de1cb:
 
     # "That the air flowing out of the entrance doesn't feel like breath."
-    "里面流出的空气一点不像也不像呼吸。"
+    "里面流出的空气一点也不像呼吸。"
 
 # game/williamroute.rpy:541
 translate Schinese williamroute_972327be:
@@ -2170,7 +2170,7 @@ translate Schinese williamroute_6b38470a:
 translate Schinese williamroute_49e144d9:
 
     # "Nik approves my directions as I guide our group deeper into the area."
-    "在Nik的认可下，我带着这队人深入了矿井。"
+    "在Nik的认可下，我带着这队人深入矿井。"
 
 # game/williamroute.rpy:545
 translate Schinese williamroute_efb4809f:
@@ -2224,13 +2224,13 @@ translate Schinese williamroute_97d994b7:
 translate Schinese williamroute_ec82dcae:
 
     # "We listen for a little while longer."
-    "我们又聆听了听了一阵。"
+    "我们又聆听了一阵。"
 
 # game/williamroute.rpy:556
 translate Schinese williamroute_b06bc4f3:
 
     # mu "\"I wouldn't be surprised if there are idle youths haunting the less used passages down here.\""
-    mu "“我一点也不奇怪有无所事事的年轻人跑来这种，人迹罕至的地方游荡。”"
+    mu "“我一点也不奇怪有无所事事的年轻人跑来这种人迹罕至的地方游荡。”"
 
 # game/williamroute.rpy:557
 translate Schinese williamroute_5180635f:
@@ -2440,7 +2440,7 @@ translate Schinese williamroute_279da0eb:
 translate Schinese williamroute_75887e87:
 
     # "He looked to Murdoch and jerked his head."
-    "接着，他看向Murdoch，努头示意。"
+    "接着，他看向Murdoch，点头示意。"
 
 # game/williamroute.rpy:607
 translate Schinese williamroute_315c86ab:
@@ -2464,7 +2464,7 @@ translate Schinese williamroute_aa111a2e:
 translate Schinese williamroute_c5f60a47:
 
     # "First, he unfolds his camera, then turns a knob on top of it."
-    "他先把是取出相机，旋转上面的一个钮。"
+    "他先是取出相机，旋转上面的一个钮。"
 
 # game/williamroute.rpy:612
 translate Schinese williamroute_4590b757:
@@ -2686,7 +2686,7 @@ translate Schinese williamroute_89067441:
 translate Schinese williamroute_ea7536eb:
 
     # "That I didn't hear a woman saying 'I love you.'"
-    "我没听见有女人说，‘我爱你’那句话。"
+    "我没听见有女人说，“我爱你”那句话。"
 
 # game/williamroute.rpy:670
 translate Schinese williamroute_2f186d7f:
@@ -2710,7 +2710,7 @@ translate Schinese williamroute_b7893779:
 translate Schinese williamroute_4a95496d:
 
     # "I did not look back."
-    "我有没回头。"
+    "我没有回头。"
 
 # game/williamroute.rpy:678
 translate Schinese williamroute_b35cc2e7:
@@ -2812,7 +2812,7 @@ translate Schinese williamroute_dbe5e62e:
 translate Schinese williamroute_0f624048:
 
     # "And I wouldn't have promised to see me later."
-    "甚至不会做出‘之后再见’的承诺。"
+    "甚至不会做出“之后再见”的承诺。"
 
 # game/williamroute.rpy:704
 translate Schinese williamroute_e4419124:
@@ -3550,7 +3550,7 @@ translate Schinese williamroute_f1766aa9:
 translate Schinese williamroute_4d78dd66:
 
     # "Firewood crackles."
-    "柴火劈啪作响。"
+    "柴火噼啪作响。"
 
 # game/williamroute.rpy:909
 translate Schinese williamroute_78c81c5a:
@@ -4060,13 +4060,13 @@ translate Schinese williamroute_612afcc9:
 translate Schinese williamroute_457c2f2a:
 
     # wi "\"There’s a certain saying: ‘The smaller the town, the more vicious the politics.’\""
-    wi "“有句话说得好：‘城镇越小，政治就越恶毒。”"
+    wi "“有句话说得好：‘城镇越小，政治就越恶毒’。”"
 
 # game/williamroute.rpy:1047
 translate Schinese williamroute_7b9da827:
 
     # wi "\"Everything feels personal on a small scale.\""
-    wi "“在小规模的情况下，一切都会感觉私有化。”"
+    wi "“在小规模的情况下，一切都会私有化。”"
 
 # game/williamroute.rpy:1049
 translate Schinese williamroute_4a047712:
@@ -4462,7 +4462,7 @@ translate Schinese williamroute_dd0603ae:
 translate Schinese williamroute_9ed35258:
 
     # "Harlan catches my gaze as I walk past the bar, but I make it back up to my room without much noise."
-    "在经过吧台时我注意到了Harlan，不过我没有并没有发出太大噪音就回到了自己的房间。"
+    "在经过吧台时我注意到了Harlan，不过我并没有发出太大噪音就回到了自己的房间。"
 
 # game/williamroute.rpy:1170
 translate Schinese williamroute_97fbcb62:
@@ -4972,7 +4972,7 @@ translate Schinese williamroute_87a34aa3:
 translate Schinese williamroute_5545b269:
 
     # "She pulls away from me, and then pulls a slip of paper from one of her pockets, like it’s just another ordinary day."
-    "她拉开与我的距离，然后从其中一个衣袋里掏出一张纸条，就像这只是普通的一天般。"
+    "她拉开与我的距离，然后从其中一个衣袋里掏出一张纸条，就像这只是普通的一天。"
 
 # game/williamroute.rpy:1320
 translate Schinese williamroute_3c38d7a2:
@@ -7635,7 +7635,7 @@ translate Schinese williamroute_3a33cb92:
 translate Schinese williamroute_644b33e8:
 
     # wi "\"Todd weren’t troublin’ Mrs. Green just for her pies.\""
-    wi "“Todd可不只是为了Green夫人的派才去叨扰她的。”"
+    wi "“Todd可不只是为了Greene夫人的派才去叨扰她的。”"
 
 # game/williamroute.rpy:2146
 translate Schinese williamroute_a7a0541f:
