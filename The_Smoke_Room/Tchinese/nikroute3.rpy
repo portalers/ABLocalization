@@ -18530,3 +18530,101 @@ translate Tchinese nikroute3b_fec97169:
 
     # "To be continued..."
     "Dimitri他對我笑了，他心裡有我！"
+
+# TODO: Translation updated at 2023-04-27 23:47
+
+# game/nikroute3.rpy:3285
+translate Tchinese nikroute3a_3d20c43d:
+
+    # m "\"Won’t that get you into more trouble?\""
+    m "\"這不是會讓你惹上麻煩嗎？\""
+
+# game/nikroute3.rpy:3441
+translate Tchinese nikroute3a_204503b9:
+
+    # bk "\"That could have been any of us.\""
+    bk "\"受傷的搞不好會是我們當中的任何人。\""
+
+# game/nikroute3.rpy:3732
+translate Tchinese nikroute3a_f3fc57fd:
+
+    # bk "\"If you did it could smooth over this entire ordeal.\""
+    bk "\"有的話整件事就迎刃而解了。\""
+
+# game/nikroute3.rpy:3867
+translate Tchinese nikroute3a_d9164a18:
+
+    # bk "\"Call it a curse, or an animal, or a natural occurrence, or visitors from another world.\""
+    bk "\"管他是邪靈、野生動物、自然現象還是其他世界來的東西，\""
+
+# game/nikroute3.rpy:4265
+translate Tchinese nikroute3a_a8b8c65b:
+
+    # pa "\"I think you should tell me what to do less and tell Dimitri what you were talking about the foreman.\""
+    pa "\"少在這對我指手劃腳了，快告訴Dimitri你跟工頭聊了什麼吧。\""
+
+# game/nikroute3.rpy:4406
+translate Tchinese nikroute3a_6c2b405c:
+
+    # m "\"Now that’s out of the way, are y’all gonna tell us where Yao stole off to, or not?\""
+    m "\"既然這件事告一段落了，到底還要不要告訴我們Yao在哪了？\""
+
+# game/nikroute3.rpy:4454
+translate Tchinese nikroute3a_43395166:
+
+    # pa "\"Let’s grab our things and get to the Stag, boys.\""
+    pa "\"收拾東西出發去Stag吧，大夥。\""
+
+# game/nikroute3.rpy:5099
+translate Tchinese nikroute3a_60a94f57:
+
+    # m "\"Look at the lives y’all built in spite of everything.\""
+    m "\"看看你們花了多少努力建設這裡的一切。\""
+
+# game/nikroute3.rpy:5113
+translate Tchinese nikroute3a_357d67a1:
+
+    # ni "\"We share our borders with vast Rus to the East, and tenacious Almany to the West.\""
+    ni "\"我們國土交接著東邊遼闊的羅斯跟西邊強硬的阿爾曼尼。\""
+
+# game/nikroute3.rpy:5123
+translate Tchinese nikroute3a_167904e6:
+
+    # ni "\"My Lach parents would have named me Mikołaj had they not been influenced.\""
+    ni "\"我拉克籍的父母要不是因為受到他們的影響，本來想給我取名Mikolaj。\""
+
+# game/nikroute3.rpy:5127
+translate Tchinese nikroute3a_8925057f:
+
+    # ni "\"Whenever my parents thought it might end, and they would adjust to new ways of life, they continued to fear that we’d always get defeated again some day.\""
+    ni "\"每當我父母以為戰爭要結束了，準備好迎接新的生活方式，也總是擔憂我們會再度被侵占。\""
+
+# game/nikroute3.rpy:5144
+translate Tchinese nikroute3a_20aa12de:
+
+    # ni "\"The idea is that if your people are strong, no matter how many borders you lose, or how many times you are conquered, or beaten, or stolen from...\""
+    ni "\"這是在說，只要人民堅忍不拔，不管被佔領、侵攻、擊敗或搶奪多少次……\""
+
+# game/nikroute3.rpy:5604
+translate Tchinese nikroute3a_8b66107e:
+
+    # mu "\"So did my brother in law, but he got a little heated about the directionals of everything.\""
+    mu "\"我姊夫也一樣，但他對路逕產生了疑惑。\""
+
+# game/nikroute3.rpy:5678
+translate Tchinese nikroute3a_3d9efd4d:
+
+    # pa "\"You ever hear about how sometimes wild animals will wander into caves and die?\""
+    pa "\"你聽說過野生動物有時候會在死前跑到洞穴裡嗎？\""
+
+# game/nikroute3.rpy:5838
+translate Tchinese nikroute3a_b01f390a:
+
+    # fe "\"I hear somebody counting up to 10.\""
+    fe "\"我會聽見有人數到10。\""
+
+# game/nikroute3.rpy:6040
+translate Tchinese nikroute3a_cd985598:
+
+    # ni "\"Do you think we could dance tonight?\""
+    ni "\"今晚想一起跳舞嗎？\""

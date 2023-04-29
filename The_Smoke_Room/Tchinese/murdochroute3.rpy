@@ -10204,3 +10204,22 @@ translate Tchinese murdochroute3a_fec97169:
     # "To be continued..."
     "未完待續……"
 
+# TODO: Translation updated at 2023-04-27 23:47
+
+# game/murdochroute3.rpy:1964
+translate Tchinese murdochroute3a_ca46f909:
+
+    # "He dips to give her a quick kiss on the wrist, straightens his backpack, and trots off toward the direction of the train station."
+    "他彎腰微微吻了她的手腕，拉正背包然後跑向火車站。"
+
+# game/murdochroute3.rpy:2540
+translate Tchinese murdochroute3a_2f113d69:
+
+    # mu "\"I swear that I don’t mean any offense.\""
+    mu "\"我不是有意讓你不高興的。\""
+
+# game/murdochroute3.rpy:3071
+translate Tchinese murdochroute3a_eb8bcee8:
+
+    # ho "\"Because this all begins and ends with the simple fact that you can’t keep your prick in your goddamn pants.\""
+    ho "\"因為這一切單純都是你他媽管不住下半身害的。\""
