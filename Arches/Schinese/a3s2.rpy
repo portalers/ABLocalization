@@ -508,7 +508,7 @@ translate Schinese a3s2_85b6bb1e:
 translate Schinese a3s2_850c5730:
 
     # "Pressure grows in his ear, and he realizes that maybe it's causing the strange feeling of being off-kilter."
-    "压力刺激着他的鼓膜，他想，也许那种不正常的感觉就是从这里来的。"
+    "压力刺激着他的鼓膜，他想，也许那种不正常的感觉就是由此产生的。"
 
 # game/a3s2.rpy:107
 translate Schinese a3s2_b1ffc263:
@@ -526,13 +526,13 @@ translate Schinese a3s2_ab2b012b:
 translate Schinese a3s2_13d69a1f:
 
     # "\"{i}No, it's brain damage and you'll probably feel like this forever. He poisoned you.{/i}\""
-    "‘{b}不，是脑损伤，他给你下了药，你一辈子也就这样了吧。{/b}’"
+    "‘{b}不，是脑损伤，他给你下了药，你一辈子也就这德行了。{/b}’"
 
 # game/a3s2.rpy:112
 translate Schinese a3s2_f9c3f1fd:
 
     # "{i}\"And you are a fucking retard. Can't handle a literal customer stereotype? Just samsh the keyboard.{/i}\""
-    "‘{b}你可真他妈是个弱智，连敲敲键盘这点小事都做不好？{/b}’"
+    "‘{b}真够弱智的，连敲敲键盘这点小事都做不好？{/b}’"
 
 # game/a3s2.rpy:114
 translate Schinese a3s2_22538e43:
@@ -568,139 +568,139 @@ translate Schinese a3s2_fa91b217:
 translate Schinese a3s2_18f5689b:
 
     # "His thoughts make no sense, the voice that is definitely not his thoughts doesn't make sense, and now he didn't understand where he is."
-    ""
+    "他的想法不再重要，那个绝对不属于他的声音也不再重要，他迷失在了其中。"
 
 # game/a3s2.rpy:120
 translate Schinese a3s2_429da47b:
 
     # "The voice continues to encourage him to smash the keyboard, so he does, just to see if maybe it would break this bizarre half-dream."
-    ""
+    "他在那个声音的鼓动下砸了键盘，只为打破这个诡异的、半睡半醒的梦。"
 
 # game/a3s2.rpy:121
 translate Schinese a3s2_9f6b0775:
 
     # "After finding Cameron sobbing on the ground, surrounded by black, plastic keycaps, a frantic Devon drove him to the hospital."
-    ""
+    "最后，是心急如焚的Devon开车，将躺在一堆黑色键帽中哭泣的Cameron送去了医院。"
 
 # game/a3s2.rpy:125
 translate Schinese a3s2_d32c368d:
 
     # "\"{i}Maybe I'll stop if you grab the wheel and turn into the median?{/i}\""
-    ""
+    "{b}也许你握住方向盘，把车转向马路中间，我就不会再烦你了？{/b}"
 
 # game/a3s2.rpy:127
 translate Schinese a3s2_393c4cce:
 
     # "\"{i}For old time's sake.{/i}\""
-    ""
+    "{b}看在过去的份上。{/b}"
 
 # game/a3s2.rpy:130
 translate Schinese a3s2_66eca876:
 
     # "And he doesn't even need a fucking fan."
-    ""
+    "他甚至不需要风扇。"
 
 # game/a3s2.rpy:131
 translate Schinese a3s2_a7e6c7c5:
 
     # "\"{i}Look Mom, no fans!{/i}\""
-    ""
+    "{b}老妈，不要再听风扇说话了！{/b}"
 
 # game/a3s2.rpy:132
 translate Schinese a3s2_f6ec9a38:
 
     # "The voice snickers."
-    ""
+    "声音在窃笑。"
 
 # game/a3s2.rpy:133
 translate Schinese a3s2_808cf359:
 
     # "It continues to laugh at him all the way to the psychiatric ward."
-    ""
+    "直到精神科病房，它还在嘲笑他。"
 
 # game/a3s2.rpy:137
 translate Schinese a3s2_d646e5fc:
 
     # "{i}October 2020{/i}"
-    ""
+    "{b}2020年十月{/b}"
 
 # game/a3s2.rpy:138
 translate Schinese a3s2_643225e8:
 
     # "About seven months after Echo, and six months after his episode, Cameron feels even worse."
-    ""
+    "大约在回音镇事件的七个月后、他发病的六个月后，Cameron感觉自己一日不如一日。"
 
 # game/a3s2.rpy:139
 translate Schinese a3s2_303ab373:
 
     # "The voice that had wormed its way into his damaged ear had disappeared after just a few days of antipsychotic treatment, but it returned again and again, every few weeks."
-    ""
+    "他接受了几天的药物治疗，侵入他受损耳朵的声音消退了，但每隔几周，它都会不厌其烦地响起。"
 
 # game/a3s2.rpy:140
 translate Schinese a3s2_0333b1d5:
 
     # "Short asides that were sometimes mean, sometimes meaningless, and sometimes boring, annoying-ass comments about things and people Cameron sees."
-    ""
+    "时而刻薄、时而晦涩、时而无聊，但无一例外是对Cameron看到的物和人的简短评价。"
 
 # game/a3s2.rpy:141
 translate Schinese a3s2_909e229f:
 
     # "It feels like it's trying to remind Cameron things aren't okay as weeks continued to come and go with manageable, but clearly-present psychotic symptoms."
-    ""
+    "简直像在提醒Cameron，他的精神状况并没有得到好转。"
 
 # game/a3s2.rpy:142
 translate Schinese a3s2_93ec5e1f:
 
     # "He had worried his broken arm would stop him from being able to play music as well as he used to."
-    ""
+    "他曾担心自己受伤的手臂会让他再也不能像以前那样演奏音乐。"
 
 # game/a3s2.rpy:143
 translate Schinese a3s2_ff111f31:
 
     # "Turns out, he needn't have worried at all, because he doesn't give a fuck anymore."
-    ""
+    "事实证明，他根本不需要担心，因为他已经不在乎了。"
 
 # game/a3s2.rpy:144
 translate Schinese a3s2_b9de8bfb:
 
     # "Like a switch, his interests, his motivation, his want to do anything productive, or useful seemed to just... turn off."
-    ""
+    "他的兴趣、动机，他想做的任何有价值或有用的行为，都被一个...开关轻松关掉了。"
 
 # game/a3s2.rpy:145
 translate Schinese a3s2_dfe4de64:
 
     # "His mother said she needed meth because it fought the feelings that her psychosis brought on... The latter of which was of course brought on by the meth."
-    ""
+    "他的母亲曾用冰毒来抑制自己的精神疾病...虽然这病就是由冰毒引起的。"
 
 # game/a3s2.rpy:146
 translate Schinese a3s2_6ece146d:
 
     # "A vicious cycle."
-    ""
+    "恶性循环。"
 
 # game/a3s2.rpy:147
 translate Schinese a3s2_5d66bbf5:
 
     # "And speaking of cycles, he finally got his diagnosis:"
-    ""
+    "说到循环，他终于收到了诊断书："
 
 # game/a3s2.rpy:148
 translate Schinese a3s2_bd974f34:
 
     # "Schizophrenia, likely induced by the trauma and drug-use in Echo."
-    ""
+    "可能是由回音镇的创伤与吸毒引起的精神分裂症。"
 
 # game/a3s2.rpy:149
 translate Schinese a3s2_f6cbb6ef:
 
     # "Not that it really matters what induced it, because the problem is that he has it."
-    ""
+    "什么引起的并不重要，关键是他有病。"
 
 # game/a3s2.rpy:151
 translate Schinese a3s2_a77fa60f:
 
     # "{i}Propranolol{/i} for restlessness, {i}Escitalopram{/i} for depression, {i}trazodone{/i} for sleep {i}and{/i} depression, {i}topiramate{/i} for weight-control, and guanfacine for tics and PTSD."
-    ""
+    "{b}心得安{/b}用来缓解焦虑，{b}来士普{/b}用来治疗抑郁，{b}曲唑酮{/b}用来改善睡眠，{b}托吡酯{/b}用来控制体重，{b}胍法辛{/b}用来平复抽搐和创伤性应激障碍。"
 
 # game/a3s2.rpy:152
 translate Schinese a3s2_338569a0:
