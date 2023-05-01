@@ -10216,10 +10216,10 @@ translate Tchinese murdochroute3a_ca46f909:
 translate Tchinese murdochroute3a_2f113d69:
 
     # mu "\"I swear that I don’t mean any offense.\""
-    mu "\"我不是有意讓你不高興的。\""
+    mu "“我不是有意讓你不高興的。”"
 
 # game/murdochroute3.rpy:3071
 translate Tchinese murdochroute3a_eb8bcee8:
 
     # ho "\"Because this all begins and ends with the simple fact that you can’t keep your prick in your goddamn pants.\""
-    ho "\"因為這一切單純都是你他媽管不住下半身害的。\""
+    ho "“因為這一切單純都是你他媽管不住下半身害的。”"
