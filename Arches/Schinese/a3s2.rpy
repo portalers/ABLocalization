@@ -1468,361 +1468,361 @@ translate Schinese a3s2_961b3fe6:
 translate Schinese a3s2_994d59cc:
 
     # "Devon steps out of the gym, taking a deep breath of the frigid February air."
-    ""
+    "Devon走出健身房，深吸了口二月寒冷的空气。"
 
 # game/a3s2.rpy:303
 translate Schinese a3s2_3038667c:
 
     # "There aren't many cars or people on the street this early on a Saturday morning."
-    ""
+    "现在是周六早晨，街上的行人和车辆寥寥无几。"
 
 # game/a3s2.rpy:304
 translate Schinese a3s2_864ded38:
 
     # c "\"{i}Probably because they're sleeping in like they should be.{/i}\""
-    c ""
+    c "{b}可能是因为他们还在睡懒觉吧。{/b}"
 
 # game/a3s2.rpy:305
 translate Schinese a3s2_e396293d:
 
     # "Devon instinctively begins to reach out for Cameron's paw."
-    ""
+    "Devon本能地去牵Cameron的手。"
 
 # game/a3s2.rpy:306
 translate Schinese a3s2_cf05f8b0:
 
     # "But he's not there."
-    ""
+    "但旁边没有人在。"
 
 # game/a3s2.rpy:307
 translate Schinese a3s2_7e637d7e:
 
     # "He hasn't been there for a while now... almost a year."
-    ""
+    "他已经有一段时间...快一年没有出现了。"
 
 # game/a3s2.rpy:308
 translate Schinese a3s2_e75d638e:
 
     # "Well, what he used to be is here, at home, in the urn sitting on Cameron's old dresser along with all the coyote's other little possessions that Devon had kept."
-    ""
+    "他曾经在这里、在家里、在骨灰盒里，坐在Cameron的旧橱柜、还有Devon保存的郊狼的各种遗物上。"
 
 # game/a3s2.rpy:309
 translate Schinese a3s2_ea58eae7:
 
     # "It hurts even more because he's almost certain that Cameron would have loved this city."
-    ""
+    "更让人痛心的是，他几乎可以肯定，Cameron会喜欢上这座城市。"
 
 # game/a3s2.rpy:310
 translate Schinese a3s2_c406465f:
 
     # "He'd do a better job remembering that Cameron isn't right next to him if--"
-    ""
+    "他要把Cameron不在了的这个事实永远烙印在脑海里，如果-"
 
 # game/a3s2.rpy:312
 translate Schinese a3s2_aa51ff93:
 
     # c "\"{i}Quit thinking about me like I'm dead.{/i}\""
-    c ""
+    c "{b}别把我想得跟死了似的嘛。{/b}"
 
 # game/a3s2.rpy:314
 translate Schinese a3s2_83d3c52f:
 
     # d "\"I'm not. I'm thinking about you like you're physically gone.\""
-    d ""
+    d "没有，我只是为你的身体感到惋惜。"
 
 # game/a3s2.rpy:315
 translate Schinese a3s2_7e049056:
 
     # c "\"{i}I do miss being physically present. I guess I could be dead, but it doesn't really matter.{/i}\""
-    c ""
+    c "{b}我也很怀念那种实实在在的感觉，不过我大概的确是死了吧，但有什么关系呢。{/b}"
 
 # game/a3s2.rpy:316
 translate Schinese a3s2_b7c0fe8b:
 
     # d "\"You're not dead. I'm just like... your vessel, now.\""
-    d ""
+    d "你不会死的，只要我...还是你的容器。"
 
 # game/a3s2.rpy:317
 translate Schinese a3s2_2b41ed2c:
 
     # c "\"{i}That is such a creepy word. Just say I'm like, your passenger. By the way, you reek.{/i}\""
-    c ""
+    c "{b}真吓人，麻烦你用乘客这个词来形容我。顺便一提，你好臭哦。{/b}"
 
 # game/a3s2.rpy:319
 translate Schinese a3s2_1437cae5:
 
     # d "\"It's Saturday and I don't have work. Besides, I'm not taking a shower when their air-dryer temperature is room-temperature.\""
-    d ""
+    d "只要他们的空气干燥器不换，我就拒绝在那里洗澡，反正今天是周末，不用上班。"
 
 # game/a3s2.rpy:320
 translate Schinese a3s2_a0882f78:
 
     # c "\"{i}I mean, I didn't say I didn't like it. It's from a fresh work out.{/i}\""
-    c ""
+    c "{b}我又没说不喜欢，这可是刚锻炼出来的。{/b}"
 
 # game/a3s2.rpy:321
 translate Schinese a3s2_694e66e4:
 
     # "Devon grunts as he makes his way through the parking lot toward his car."
-    ""
+    "Devon咕哝着穿过停车场，走向自己的车。"
 
 # game/a3s2.rpy:322
 translate Schinese a3s2_5cca7b83:
 
     # c "\"{i}You were pushing yourself really hard, to be honest. Take it easier next time?{/i}\""
-    c ""
+    c "{b}说实话，你把自己逼得太紧了。下次放松点吧？{/b}"
 
 # game/a3s2.rpy:324
 translate Schinese a3s2_c438545f:
 
     # d "\"Taking it easy is what got you sh... hurt. Anyway, the more Echoes we can kill off, the better.\""
-    d ""
+    d "我就是因为太放松，才让你...受到了伤害。况且，我想尽可能消灭更多回音。"
 
 # game/a3s2.rpy:325
 translate Schinese a3s2_39e37cf9:
 
     # c "\"{i}I doubt we can have that much of an impact, Devon. This shit is old... ancient, even. It's a lot bigger than us in a lot of different ways.{/i}\""
-    c ""
+    c "{b}我不认为咱们的影响力有多大，Devon。那东西非常古老...甚至可以说是久远，它比我们强太多了，各种意义上都是。{/b}"
 
 # game/a3s2.rpy:326
 translate Schinese a3s2_43ee412c:
 
     # d "\"I just want to see how well this works out. If it can be done, maybe we can tell others about it, start a movement?\""
-    d ""
+    d "可我就是想试试。如果有效果的话，也许我们可以告诉其他人，和他们联手？"
 
 # game/a3s2.rpy:327
 translate Schinese a3s2_24225417:
 
     # c "\"{i}To kill off haunted places at the source? But how many people have their dead boyfriend in their head giving them psychic abilities?{/i}\""
-    c ""
+    c "{b}从源头上消灭闹鬼的地方？但不是每个人脑子里都有一个死去的男朋友，赋予他们通灵的能力啊？{/b}"
 
 # game/a3s2.rpy:328
 translate Schinese a3s2_a4a4eb94:
 
     # d "\"Well... I won't tell them that part. Just the psychic part.\""
-    d ""
+    d "唔...这部分保留，我只告诉他们通灵的部分。"
 
 # game/a3s2.rpy:329
 translate Schinese a3s2_55dd202c:
 
     # c "\"{i}Ah, gonna take credit for my abilities?{/i}\""
-    c ""
+    c "{b}欸，你要把我的超能力独吞了吗？{/b}"
 
 # game/a3s2.rpy:331
 translate Schinese a3s2_3c6fce62:
 
     # d "\"Hey, I'm learning to fight, too. You see how much I've been bulked up.\""
-    d ""
+    d "嘿，我也在学着打架好吧，你看我现在有多壮。"
 
 # game/a3s2.rpy:332
 translate Schinese a3s2_95e71550:
 
     # "Devon flexes his muscles underneath his winter coat and padding, muscles he wishes he'd had when he'd fought Brian."
-    ""
+    "Devon绷起冬衣和填充物下的肌肉，他希望在与Brian战斗时能拥有的肌肉。"
 
 # game/a3s2.rpy:333
 translate Schinese a3s2_2220ab82:
 
     # c "\"{i}I didn't know you could punch ghosts. I wish you'd get a different coach. He beats on you way too hard.{/i}\""
-    c ""
+    c "{b}你打不打得到鬼还不一定呢，我倒是希望你换个教练，那家伙对你太狠了。{/b}"
 
 # game/a3s2.rpy:334
 translate Schinese a3s2_ca94ec95:
 
     # d "\"I knew what I was getting to. Anyway, remember, the source. Usually it's some shitty person feeding these places.\""
-    d ""
+    d "我心里有数。总之回到正题，那些源头的出现离不开某些烂人。"
 
 # game/a3s2.rpy:335
 translate Schinese a3s2_cb8941d5:
 
     # d "\"Anyway, exercise of any kind is about the best-feeling natural thing anyone can do. You should tr--\""
-    d ""
+    d "话说回来，运动可是所有人都能享受的最自然的快乐，你也应该-"
 
 # game/a3s2.rpy:336
 translate Schinese a3s2_ce6ad58e:
 
     # "Devon catches himself half-way through saying it."
-    ""
+    "Devon说到一半，如梦初醒。"
 
 # game/a3s2.rpy:337
 translate Schinese a3s2_a81878c6:
 
     # "Even though he knows it's coming, and even though he tries to stop it, the imagery of Cameron's ruined face flashes through his mind."
-    ""
+    "尽管竭力阻止过，但Cameron惨死的画面还是穿透他的心理防线，出现在了他的脑海。"
 
 # game/a3s2.rpy:339
 translate Schinese a3s2_638b522e:
 
     # "He should just be happy that the coyote is still talking to him."
-    ""
+    "他应该庆幸这只郊狼还在和他说话。"
 
 # game/a3s2.rpy:340
 translate Schinese a3s2_c2e8349e:
 
     # "That he's still with him."
-    ""
+    "他依然和他在一起。"
 
 # game/a3s2.rpy:341
 translate Schinese a3s2_dcd83b71:
 
     # "Kind of."
-    ""
+    "就算以这种形式。"
 
 # game/a3s2.rpy:342
 translate Schinese a3s2_c864aa57:
 
     # d "\"I miss you.\""
-    d ""
+    d "我想你了。"
 
 # game/a3s2.rpy:343
 translate Schinese a3s2_94c7e7d7:
 
     # c "\"{i}Please don't do that, Devon. I'm right here.{/i}\""
-    c ""
+    c "{b}别这样，Devon，我就在这里。{/b}"
 
 # game/a3s2.rpy:344
 translate Schinese a3s2_1e9b65ad:
 
     # d "\"I want to hold you.\""
-    d ""
+    d "我想把你抱在怀里。"
 
 # game/a3s2.rpy:345
 translate Schinese a3s2_e8bbc267:
 
     # c "\"{i}You basically are, and I'm giving you a big, emotional hug right now. I might also be feeling out your muscles too, because you have bulked up nicely.{/i}\""
-    c ""
+    c "{b}你现在这样跟抱我也没区别呀，而且我正在抱着你哦，一个大大的拥抱，顺便摸一摸你结实的肌肉。{/b}"
 
 # game/a3s2.rpy:347
 translate Schinese a3s2_10d3c71e:
 
     # "Devon laughs and wipes his eyes."
-    ""
+    "Devon笑着擦了擦眼睛。"
 
 # game/a3s2.rpy:348
 translate Schinese a3s2_c31af3b0:
 
     # d "\"Thanks, Cam.\""
-    d ""
+    d "谢谢你，Cam。"
 
 # game/a3s2.rpy:349
 translate Schinese a3s2_bfe3b1c0:
 
     # "Cameron watches all of this, but not that Cameron in Devon's head."
-    ""
+    "Cameron注视着这一切。"
 
 # game/a3s2.rpy:350
 translate Schinese a3s2_111cd759:
 
     # "The Cameron that avoided the shotgun, that survived."
-    ""
+    "不是Devon脑中的Cameron。而是躲过猎枪，幸存下来的那个Cameron。"
 
 # game/a3s2.rpy:351
 translate Schinese a3s2_d1e5179d:
 
     # "He's had these dreams a few times."
-    ""
+    "他做过几次这样的梦。"
 
 # game/a3s2.rpy:352
 translate Schinese a3s2_79114e83:
 
     # "At first he simply thought them to be traumatic nightmares from a traumatic event."
-    ""
+    "起初，他只认为这是创伤性事件带来的创伤性噩梦。"
 
 # game/a3s2.rpy:353
 translate Schinese a3s2_013be92f:
 
     # "But this is one of those dreams that feels so real, he almost can't tell he's dreaming."
-    ""
+    "但这个梦如此真实，仿佛他曾亲身经历过。"
 
 # game/a3s2.rpy:354
 translate Schinese a3s2_28415954:
 
     # "They're not really nightmares either."
-    ""
+    "而且这也不是噩梦。"
 
 # game/a3s2.rpy:355
 translate Schinese a3s2_1d3a7163:
 
     # "Usually they're mundane, kind of funny, and kind of sad."
-    ""
+    "大部分时间很平淡，有些搞笑，还有些悲伤。"
 
 # game/a3s2.rpy:356
 translate Schinese a3s2_5f7f8fff:
 
     # "The dreaming Cameron, for some reason, doesn't trust this \"passenger\" Cameron at all."
-    ""
+    "正在做梦的Cameron，不知为何，并不信任那个‘乘客’Cameron。"
 
 # game/a3s2.rpy:357
 translate Schinese a3s2_1f3655b0:
 
     # "This version of himself feels off, almost like there isn't even a soul to go with him."
-    ""
+    "那个版本的他感觉不对劲，像是没有灵魂一样。"
 
 # game/a3s2.rpy:358
 translate Schinese a3s2_1a3fdc5f:
 
     # "Otherwise, he sounds and acts just like he does... or did, before the diagnosis."
-    ""
+    "另一方面，他的声音和行为无限趋近于Cameron...确诊之前的Cameron。"
 
 # game/a3s2.rpy:359
 translate Schinese a3s2_be4bb61a:
 
     # "It makes him wonder if he'd trade-off given the opportunity."
-    ""
+    "Cameron不禁怀疑，这是否是另一个自己设法做出的妥协。"
 
 # game/a3s2.rpy:360
 translate Schinese a3s2_93b7960b:
 
     # "Cameron isn't waking up, so with little else to do, he reaches out mentally and digs into this other Cameron a bit deeper."
-    ""
+    "梦境还没有结束，于是无事可做的Cameron开始深挖那个Cameron的细节。"
 
 # game/a3s2.rpy:361
 translate Schinese a3s2_2e97aa7f:
 
     # "What he sees lasts only a second."
-    ""
+    "他所看到的只持续了一瞬间。"
 
 # game/a3s2.rpy:362
 translate Schinese a3s2_f28c4703:
 
     # "After tearing out Brian's throat, this Cameron immediately began communicating with him."
-    ""
+    "在掐断Brian的喉咙后，那个Cameron立刻与他进行了对话。"
 
 # game/a3s2.rpy:363
 translate Schinese a3s2_bb670407:
 
     # "But he began speaking to Devon shortly after the younger bear had ripped out Brian's throat."
-    ""
+    "在年轻的熊撕碎Brian的喉咙后，他随即开始和Devon交流。"
 
 # game/a3s2.rpy:364
 translate Schinese a3s2_b5ec71f5:
 
     # "It's not an illness, not like what Cameron has, but it's still... Echo, it's part of that town, and Cameron doesn't want this Devon to--"
-    ""
+    "那并非疾病-Cameron身患的病，而是...回音，是小镇的一部分，Cameron不希望那个Devon-"
 
 # game/a3s2.rpy:368
 translate Schinese a3s2_f716790c:
 
     # c "\"{font=ui/forbid.ttf}Devon, he's back.\""
-    c ""
+    c "{font=ui/forbid.ttf}他回来了，Devon。"
 
 # game/a3s2.rpy:370
 translate Schinese a3s2_13198a49:
 
     # "A feeling difficult to describe comes over Cameron."
-    ""
+    "一种难以描述的感觉笼罩了Cameron。"
 
 # game/a3s2.rpy:371
 translate Schinese a3s2_c290bf07:
 
     # "It's something from that dead Cameron, that entity that acts and talks like Cameron."
-    ""
+    "这来自于死去的Cameron，那个言行举止都无异于Cameron的存在。"
 
 # game/a3s2.rpy:372
 translate Schinese a3s2_1c45379b:
 
     # "The thing that's currently attached to that Devon."
-    ""
+    "目前依附在Devon身上的东西。"
 
 # game/a3s2.rpy:375
 translate Schinese a3s2_66536b55:
@@ -1858,7 +1858,7 @@ translate Schinese a3s2_6af20f5a:
 translate Schinese a3s2_0cdb7106:
 
     # "Vomit floods his mouth--"
-    ""
+    "呕吐物淹没了他的嘴巴-"
 
 # game/a3s2.rpy:383
 translate Schinese a3s2_34a09435:
@@ -1912,7 +1912,7 @@ translate Schinese a3s2_10b6445c:
 translate Schinese a3s2_d416a6a7:
 
     # "{i}Summer 2021{/i}"
-    ""
+    "{b}2021年夏{/b}"
 
 # game/a3s2.rpy:395
 translate Schinese a3s2_6e5f164d:
@@ -1924,7 +1924,7 @@ translate Schinese a3s2_6e5f164d:
 translate Schinese a3s2_45c895b4:
 
     # "Tapering down his meds along with exercise definitely helped."
-    ""
+    "多亏了在减少用药的同时进行锻炼。"
 
 # game/a3s2.rpy:397
 translate Schinese a3s2_c36748b1:
@@ -1948,7 +1948,7 @@ translate Schinese a3s2_cca899d2:
 translate Schinese a3s2_3d0aec3a:
 
     # "Cameron knows that feeling."
-    ""
+    "Cameron知道那种感觉。"
 
 # game/a3s2.rpy:401
 translate Schinese a3s2_488eeae4:
@@ -2008,7 +2008,7 @@ translate Schinese a3s2_700da325:
 translate Schinese a3s2_39c41cb1:
 
     # "Which was him micro-dosing psilocybin."
-    ""
+    "那里面含有微量的裸盖菇素。"
 
 # game/a3s2.rpy:411
 translate Schinese a3s2_893c587f:
@@ -2068,85 +2068,85 @@ translate Schinese a3s2_d03c50a3:
 translate Schinese a3s2_8c1e9f6b:
 
     # c "\"I actually didn't even notice.\""
-    c ""
+    c "其实你不说我都没有发现。"
 
 # game/a3s2.rpy:423
 translate Schinese a3s2_d8e81d80:
 
     # a "\"Ah, well, you will next time you see me walk. Anyway, I hear you're working on your m-masters, Devon?\""
-    a ""
+    a "那是因为你没有看见我走路。说起来，我听说你正在攻读硕-硕士，Devon？"
 
 # game/a3s2.rpy:424
 translate Schinese a3s2_150e3e27:
 
     # "Every stutter, every struggle, feels like a physical blow to Cameron, but he tries not to show it."
-    ""
+    "每一次口吃、每一次尝试，都像无情的拳头落在Cameron身上，但他尽量保持不动声色。"
 
 # game/a3s2.rpy:425
 translate Schinese a3s2_3b2a5cc3:
 
     # "He knows Artie doesn't want useless pity right now, and Cameron always hated it, too."
-    ""
+    "Artie不想要无谓的怜悯，Cameron也一样。"
 
 # game/a3s2.rpy:427
 translate Schinese a3s2_be543c1c:
 
     # d "\"Yep, up at the University of Deseret.\""
-    d ""
+    d "对，在犹他大学。"
 
 # game/a3s2.rpy:429
 translate Schinese a3s2_472aa623:
 
     # a "\"Sweet! In what? Mechatronics, or--\""
-    a ""
+    a "酷！什么专业？机电一体化，还是-"
 
 # game/a3s2.rpy:431
 translate Schinese a3s2_d9051293:
 
     # d "\"Robotics.\""
-    d ""
+    d "机器人科学。"
 
 # game/a3s2.rpy:432
 translate Schinese a3s2_ea011fc6:
 
     # a "\"Of course. And how's that... uh, you know... How's that progressing?\""
-    a ""
+    a "我就知道。所以那个...呃，那个啥的进展怎么样？"
 
 # game/a3s2.rpy:433
 translate Schinese a3s2_e062879d:
 
     # d "\"Good! About a year in.\""
-    d ""
+    d "很好！我已经读了快一年了。"
 
 # game/a3s2.rpy:435
 translate Schinese a3s2_3761ec03:
 
     # a "\"Damn, they decided to finance your degree that quick?\""
-    a ""
+    a "靠，补助下来得这么快？"
 
 # game/a3s2.rpy:436
 translate Schinese a3s2_62f2f16b:
 
     # d "\"I'm at the same company. It was always part of the plan once we moved. I still gotta graduate for them to reimburse my tuition, of course.\""
-    d ""
+    d "我一恢复就回原来的公司上班了啊。当然，我还得等毕业才能让他们报销学费。"
 
 # game/a3s2.rpy:437
 translate Schinese a3s2_1065643b:
 
     # a "\"No p-pressure.\""
-    a ""
+    a "别-别有压力。"
 
 # game/a3s2.rpy:439
 translate Schinese a3s2_ae58b65c:
 
     # c "\"I don't know how he does it all: work, school, cooking, gaming. And you're good at all of it.\""
-    c ""
+    c "真不明白他是怎么做到的：同时工作、上学、做饭、玩游戏，还样样擅长。"
 
 # game/a3s2.rpy:441
 translate Schinese a3s2_235416b9:
 
     # a "\"That's just like him. He'd p-party and drink the night before a final, then ace it while hung-over.\""
-    a ""
+    a "他就是这样的人，就算在期末考试的前一天晚上开派-派对，他也能带着宿醉考出大满贯。"
 
 # game/a3s2.rpy:442
 translate Schinese a3s2_1d5ddb48:
@@ -2218,7 +2218,7 @@ translate Schinese a3s2_68a3fb60:
 translate Schinese a3s2_3ab27c10:
 
     # c "\"Oh, I see.\""
-    c ""
+    c "这样啊。"
 
 # game/a3s2.rpy:461
 translate Schinese a3s2_f9890e58:
@@ -2248,55 +2248,55 @@ translate Schinese a3s2_495d7e82:
 translate Schinese a3s2_172fccd4:
 
     # "Arturo is afraid of Cameron."
-    ""
+    "Arturo害怕Cameron。"
 
 # game/a3s2.rpy:466
 translate Schinese a3s2_48afce4b:
 
     # "The cat senses the strangeness, the off-ness of who Cameron is now."
-    ""
+    "猫已经感觉到了Cameron的怪异。"
 
 # game/a3s2.rpy:467
 translate Schinese a3s2_6a723456:
 
     # "Arturo also wonders if it's possible that the coyote brought a piece of Echo into the house with him."
-    ""
+    "Arturo还想知道，郊狼是否把回音的碎片一同带进了房子。"
 
 # game/a3s2.rpy:468
 translate Schinese a3s2_e1d9ff58:
 
     # "That shadow entity, it entered him and never came back out as far as Arturo knows."
-    ""
+    "据Arturo所知，那个影子生物自进入他的身体后就再也没有出来。"
 
 # game/a3s2.rpy:469
 translate Schinese a3s2_3f8fe3c0:
 
     # "Who's to say it's not still--"
-    ""
+    "谁能肯定它不会-"
 
 # game/a3s2.rpy:471
 translate Schinese a3s2_731c7feb:
 
     # d "\"Maybe it's like, a management phase? That's what Cam calls it, anyway, right honey?\""
-    d ""
+    d "就是，控制阶段之类的？总之Cam是这么叫的，没错吧，亲爱的？"
 
 # game/a3s2.rpy:472
 translate Schinese a3s2_aeb76182:
 
     # "Devon, probably confused by the tension, tries to add more to the conversation."
-    ""
+    "不明所以的Devon试图转移话题，好缓和这紧张的气氛。"
 
 # game/a3s2.rpy:474
 translate Schinese a3s2_dda46b55:
 
     # a "\"That's right. That piece of shit hurt you pretty badly too, huh?\""
-    a ""
+    a "是的，那混蛋也把你伤得很重吧？"
 
 # game/a3s2.rpy:475
 translate Schinese a3s2_508eeb43:
 
     # c "\"Yeah. Really, it's the schizophrenia I was diagnosed with afterwards that I'm still trying to manage."
-    c ""
+    c "嗯，非常重。我后来被诊断出患有精神分裂症，直到现在还在努力控制。"
 
 # game/a3s2.rpy:476
 translate Schinese a3s2_b25463c0:
@@ -2902,13 +2902,13 @@ translate Schinese a3s2_e35b3df8:
 translate Schinese a3s2_3803f769:
 
     # d "\"I'm just realizing how out of shape I am. Do you think I'm starting to get a gut? Like a bad one.\""
-    d "我才意识到我的身材这么差，是不是都开始长小肚子了？好丑。"
+    d "我才发现我的身材越来越走样了，是不是都长小肚子了？好丑。"
 
 # game/a3s2.rpy:590
 translate Schinese a3s2_53bb6ab5:
 
     # c "\"Aren't you on the thinner side for a bear nearing his 30s?\""
-    c "对于一个年近30岁的熊来说，你已经够瘦了吧？"
+    c "对于一头年近30岁的熊来说，你已经够瘦了吧？"
 
 # game/a3s2.rpy:591
 translate Schinese a3s2_07b299f2:
@@ -2926,19 +2926,19 @@ translate Schinese a3s2_20812257:
 translate Schinese a3s2_9f449dcc:
 
     # "Devon blushes."
-    "Devon脸红了。"
+    "Devon唰的一下脸红了。"
 
 # game/a3s2.rpy:594
 translate Schinese a3s2_aea24ab0:
 
     # d "\"You caught be by surprise! And you just got done saying I wasn't fat!\""
-    d "你明明刚说了我不胖的！大骗子！"
+    d "你明明说了我不胖的！骗子！"
 
 # game/a3s2.rpy:595
 translate Schinese a3s2_524c17ae:
 
     # c "\"You're not fat, you're a bear. I just didn't think I'd feel the pudge through your coat.\""
-    c "不胖啊，你可是熊欸，我只是没想到隔着外套都能摸到里面胀胀的。"
+    c "对啊，你毕竟是熊嘛，我只是没想到隔着外套都能摸到里面鼓囊囊的。"
 
 # game/a3s2.rpy:596
 translate Schinese a3s2_720619a8:
@@ -3004,7 +3004,7 @@ translate Schinese a3s2_50947d0d:
 translate Schinese a3s2_9f42861b:
 
     # c "\"Deal, and if we deem each other to be too chubby, we can go on a diet, or something.\""
-    c "成交，太胖的人要减肥，之类的。"
+    c "成交，胖的人要减肥，说好了。"
 
 # game/a3s2.rpy:608
 translate Schinese a3s2_57a8b364:
@@ -3052,7 +3052,7 @@ translate Schinese a3s2_ddd0fd86:
 translate Schinese a3s2_17a1ac0a:
 
     # d "\"I always wondered what that golden dude with a stick is doing up there.\""
-    d "我好奇很久了，上面那个拿着棍子的金人是干嘛的。"
+    d "我好奇很久了，上面那个拿着棍子的金人是做什么的。"
 
 # game/a3s2.rpy:617
 translate Schinese a3s2_c14a528d:
@@ -3064,7 +3064,7 @@ translate Schinese a3s2_c14a528d:
 translate Schinese a3s2_e89551a8:
 
     # c "\"The guy on top of Mormon temples? That's the angel Moroni. He buried the gold plates.\""
-    c "摩门教教堂顶上的那个？那是天使莫罗尼，他埋下了黄金字板。"
+    c "摩门教教堂顶上那个？那是天使莫罗尼，他埋下了黄金字板。"
 
 # game/a3s2.rpy:619
 translate Schinese a3s2_76487025:
@@ -3076,13 +3076,13 @@ translate Schinese a3s2_76487025:
 translate Schinese a3s2_051fef3d:
 
     # c "\"Some Mormon friends told me.\""
-    c "一些摩门教的朋友告诉我的。"
+    c "一些摩门教的朋友教我的。"
 
 # game/a3s2.rpy:621
 translate Schinese a3s2_10f7bf6f:
 
     # d "\"Oh... Cody, the bull?\""
-    d "噢...Cody吧，那头公牛？"
+    d "噢...是Cody吧，那头公牛？"
 
 # game/a3s2.rpy:622
 translate Schinese a3s2_d62d711b:
@@ -3136,7 +3136,7 @@ translate Schinese a3s2_b6c1bf06:
 translate Schinese a3s2_78683187:
 
     # c "\"I'll only bring it up this once, but I keep thinking about why we went in the first place.\""
-    c "这是我最后一次提这件事了。我一直在想，我们当初为什么要去那地方呢。"
+    c "这是我最后一次提起这件事。我一直在想，我们当初为什么要去那个地方呢。"
 
 # game/a3s2.rpy:636
 translate Schinese a3s2_e00bc84b:
@@ -3148,7 +3148,7 @@ translate Schinese a3s2_e00bc84b:
 translate Schinese a3s2_55c23048:
 
     # "Devon stares down at Cameron, and even though the coyote isn't intentionally pointing out Devon's cascade of failures into catastrophic failure, he feels it."
-    "Devon低头凝视着Cameron，郊狼并没有指责是Devon的一连串失误酿成了灾难性后果，但他不这么认为。"
+    "Devon凝视着Cameron，郊狼并没有指责是Devon的一连串失误酿成了灾难性的后果，但他不这么认为。"
 
 # game/a3s2.rpy:639
 translate Schinese a3s2_3c8c59ed:
@@ -3166,7 +3166,7 @@ translate Schinese a3s2_14fcc22c:
 translate Schinese a3s2_8ed4099e:
 
     # d "\"I figured out I made a huge mistake and deeply hurt my friends.\""
-    d "我犯了个天大的错误，深深地伤害了我的朋友们。"
+    d "我犯了个天大的错误，深深伤害了我的朋友们。"
 
 # game/a3s2.rpy:643
 translate Schinese a3s2_35abe916:
@@ -3184,37 +3184,37 @@ translate Schinese a3s2_045a8ac7:
 translate Schinese a3s2_6e6cb0e3:
 
     # c "\"You just don't seem as happy or outgoing as you used to be. I know you're really busy with work and you just got your masters, which is so cool, but you seem--\""
-    c "你没有以前那么开朗了，我都看在眼里。我知道你工作很忙，还刚拿到硕士学位，但是..."
+    c "你没有从前那么开朗了，我看得出来。我知道你工作很忙，还刚取得了硕士学位，但..."
 
 # game/a3s2.rpy:646
 translate Schinese a3s2_10cba5f3:
 
     # d "\"Hey, it's like you said. We change. It's not really a divide, right? It's like chapters in our lives. We change with each one, and the last one we went through was brutal.\""
-    d "就像你说的那样，我们改变了。这并非鸿沟，而是生命中的新篇章，我们刚刚翻过最残酷的那一页。"
+    d "用你的话来说就是：我们改变了。这并非鸿沟，而是生命中的新篇章，我们刚刚翻过最残酷的那一页。"
 
 # game/a3s2.rpy:647
 translate Schinese a3s2_7495ee5d:
 
     # c "\"Yeah, nothing stays the same, we don't fully recover, or become who we used to be. We all want to go back to how it used to be.\""
-    c "是啊，没有什么是一成不变的。我们都想回到过去，但我们不能完全恢复，也不能变回原来的自己。"
+    c "是啊，没有什么是一成不变的。我们都想回到过去，但伤口不能完全愈合，我们也不能变回原来的自己。"
 
 # game/a3s2.rpy:648
 translate Schinese a3s2_7e08d088:
 
     # "Devon feels a deep twinge in his chest, thinking about what life would be like now if he just made the right turn."
-    "Devon感到胸口一阵刺痛，也许当时向左转的话，他们现在的生活会截然不同吧。"
+    "Devon感到胸口一阵刺痛，也许当时向左转的话，他们的命运会截然不同吧。"
 
 # game/a3s2.rpy:650
 translate Schinese a3s2_1a15f659:
 
     # c "\"It's like how they say you can never go home again, because home isn't just a place, but it's people, and it's at a certain time, and when it ends, it ends.\""
-    c "有一种说法是：你无法回到同一个家。因为家不仅仅是一个地方、还是人、还是特定的时间，错过了就永远错过了。"
+    c "有一种说法是：人永远无法再回到同一个家。因为家不仅仅是一个地方、还是人、还是特定的时间。你错过了，就永远错过了。"
 
 # game/a3s2.rpy:652
 translate Schinese a3s2_e4c70bbe:
 
     # d "\"Baby, I love you so much, and I know it sounds dumb as hell, but I can be your home, and I'll be around as long as you want me to be, so you can always go home.\""
-    d "我爱你，亲爱的。我知道这听起来有点傻，但我可以成为你的家。只要你想，我就会陪伴在你身边，这样你就随时可以回家了。"
+    d "我爱你，亲爱的。我知道这听起来有点蠢，但我可以成为你的家。只要你想，我就会陪伴在你身边，这样你就随时可以回家了。"
 
 # game/a3s2.rpy:654
 translate Schinese a3s2_904820fd:
@@ -3232,7 +3232,7 @@ translate Schinese a3s2_c33b6c4a:
 translate Schinese a3s2_b19e6f22:
 
     # c "\"I sense a lot from that temple, and I've sensed it in other spiritual places too. Like even those little shops where you see mediums and psychics. It feels like it's sucking in energy, like a portal.\""
-    c "我感觉那座教堂不简单，其他通灵场所也一样，就比如灵媒或通灵者开的店。里面仿佛有一道正在吸纳能量的传送门。"
+    c "我感觉那座教堂不简单，其他通灵场所，比如灵媒或通灵者开的店也一样。里面仿佛有一道正在吸纳能量的传送门。"
 
 # game/a3s2.rpy:659
 translate Schinese a3s2_a0385e33:
@@ -3244,7 +3244,7 @@ translate Schinese a3s2_a0385e33:
 translate Schinese a3s2_b3f883ad:
 
     # c "\"I guess... that there's hope for everyone. Lupita, Artie, you and me, and that maybe, instead of nothing, there's--\""
-    c "我想...希望还是存在的，Lupita有，Artie有，你和我都有。也许那扇门的背后并非虚无，而是-"
+    c "我想...救赎确实是存在的，Lupita有，Artie有，你和我都有。也许，也许那扇门的背后并非虚无，而是-"
 
 # game/a3s2.rpy:662
 translate Schinese a3s2_12310aa3:
@@ -3268,13 +3268,13 @@ translate Schinese a3s2_894709e4:
 translate Schinese a3s2_a7839180:
 
     # "Because whether they disappear forever, or go somewhere else, it'll be together."
-    "无论彻底消失，还是去别的地方，他们都会在一起。"
+    "无论彻底消失，还是另觅他处，他们都会在一起。"
 
 # game/a3s2.rpy:668
 translate Schinese a3s2_1ea7b25f:
 
     # "Devon feels a little hope reignite in his chest."
-    "Devon的心中燃起一丝火花。"
+    "Devon的心中燃起一丝希望。"
 
 # game/a3s2.rpy:669
 translate Schinese a3s2_9552b5fc:
@@ -3292,7 +3292,7 @@ translate Schinese a3s2_085ed71a:
 translate Schinese a3s2_7a60e1a1:
 
     # "But he's content to wait and find out."
-    "但他并不急于解答。"
+    "但他并不急于查明真相。"
 
 # game/a3s2.rpy:672
 translate Schinese a3s2_35aa38e7:
