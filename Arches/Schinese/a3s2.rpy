@@ -400,7 +400,7 @@ translate Schinese a3s2_6dd7d4a7:
 translate Schinese a3s2_c6ac0e7f:
 
     # "Still, it made him slow, and even though his boss was understanding, and even told him to just forward rude customers her way, it still left him flustered in ways he wasn't used to."
-    "尽管如此，他的回复速度仍比不上常人。虽然他的老板表示理解，并嘱咐他直接把粗鲁的顾客转交给她，但这股陌生感还是令他手足无措。"
+    "但他的回复速度仍比不上常人。虽然他的老板表示理解，并嘱咐他直接把粗鲁的顾客转交给她，但这股陌生感还是令他手足无措。"
 
 # game/a3s2.rpy:82
 translate Schinese a3s2_efb83d6d:
@@ -1546,7 +1546,7 @@ translate Schinese a3s2_b7c0fe8b:
 translate Schinese a3s2_2b41ed2c:
 
     # c "\"{i}That is such a creepy word. Just say I'm like, your passenger. By the way, you reek.{/i}\""
-    c "{b}真吓人，麻烦你用乘客这个词来形容我。顺便一提，你好臭哦。{/b}"
+    c "{b}真吓人，麻烦你用乘客这个词来形容我。还有，你好臭哦。{/b}"
 
 # game/a3s2.rpy:319
 translate Schinese a3s2_1437cae5:
@@ -1654,7 +1654,7 @@ translate Schinese a3s2_a81878c6:
 translate Schinese a3s2_638b522e:
 
     # "He should just be happy that the coyote is still talking to him."
-    "他应该庆幸这只郊狼还在和他说话。"
+    "他应该庆幸这只郊狼还能和他说话。"
 
 # game/a3s2.rpy:340
 translate Schinese a3s2_c2e8349e:
@@ -1690,7 +1690,7 @@ translate Schinese a3s2_1e9b65ad:
 translate Schinese a3s2_e8bbc267:
 
     # c "\"{i}You basically are, and I'm giving you a big, emotional hug right now. I might also be feeling out your muscles too, because you have bulked up nicely.{/i}\""
-    c "{b}你现在这样跟抱我也没区别呀，而且我正在抱着你哦，一个大大的拥抱，顺便摸一摸你结实的肌肉。{/b}"
+    c "{b}你这样跟抱着我也没区别呀，而且我正抱着你哦，一个大大的拥抱，再摸一把你结实的肌肉。{/b}"
 
 # game/a3s2.rpy:347
 translate Schinese a3s2_10d3c71e:
@@ -1828,7 +1828,7 @@ translate Schinese a3s2_1c45379b:
 translate Schinese a3s2_66536b55:
 
     # "He's tied up, bound with rope with a foul-tasting rag gagging him."
-    ""
+    "他身上绑着绳子，嘴巴被一条难闻的布塞住。"
 
 # game/a3s2.rpy:376
 translate Schinese a3s2_00491584:
@@ -1852,7 +1852,7 @@ translate Schinese a3s2_19e84247:
 translate Schinese a3s2_6af20f5a:
 
     # "He going to throw up, and then he's going to drown..."
-    ""
+    "他"
 
 # game/a3s2.rpy:380
 translate Schinese a3s2_0cdb7106:
@@ -2074,7 +2074,7 @@ translate Schinese a3s2_8c1e9f6b:
 translate Schinese a3s2_d8e81d80:
 
     # a "\"Ah, well, you will next time you see me walk. Anyway, I hear you're working on your m-masters, Devon?\""
-    a "那是因为你没有看见我走路。说起来，我听说你正在攻读硕-硕士，Devon？"
+    a "噢，呃，下次看我走路你就会发现了。说起来，我听说你正在攻读硕-硕士，Devon？"
 
 # game/a3s2.rpy:424
 translate Schinese a3s2_150e3e27:
@@ -2902,7 +2902,7 @@ translate Schinese a3s2_e35b3df8:
 translate Schinese a3s2_3803f769:
 
     # d "\"I'm just realizing how out of shape I am. Do you think I'm starting to get a gut? Like a bad one.\""
-    d "我才发现我的身材越来越走样了，是不是都长小肚子了？好丑。"
+    d "我才发现，我都开始长小肚子了？这可不好。"
 
 # game/a3s2.rpy:590
 translate Schinese a3s2_53bb6ab5:
@@ -2974,7 +2974,7 @@ translate Schinese a3s2_7209b2e1:
 translate Schinese a3s2_c3304097:
 
     # d "\"No, I'm just worried about different things. I'm happy to be out here with you, it's good for my gut anyway.\""
-    d "没有，我担心的是另一件事。和你在一起我高兴都来不及呢，这还可以锻炼我的{rb}度量{/rb}{rt}肚量{/rt}。"
+    d "没有，我担心的是另一件事，和你在一起我高兴都来不及呢，这还可以锻炼我的{rb}度量{/rb}{rt}肚量{/rt}。"
 
 # game/a3s2.rpy:603
 translate Schinese a3s2_a60d73f6:
@@ -2986,7 +2986,7 @@ translate Schinese a3s2_a60d73f6:
 translate Schinese a3s2_38e7314a:
 
     # c "\"I'm getting chubbier too, ya know? It happens, and I love your body. If you wanna fool around tonight, I can have a closer look.\""
-    c "其实我也越来越胖了，不过这样也不错啊？如果你担心的是不好出去浪的话，我今晚可以帮你鉴定一下。"
+    c "其实我也有点发福了，不过没关系，你变成什么样我都喜欢。要是你今晚想‘玩玩’的话，我可以顺便帮你检查一下。"
 
 # game/a3s2.rpy:605
 translate Schinese a3s2_f3bc5576:
@@ -2998,13 +2998,13 @@ translate Schinese a3s2_f3bc5576:
 translate Schinese a3s2_50947d0d:
 
     # d "\"Only if I get to have a look at you, too.\""
-    d "除非你先让我鉴定。"
+    d "除非你先让我检查。"
 
 # game/a3s2.rpy:607
 translate Schinese a3s2_9f42861b:
 
     # c "\"Deal, and if we deem each other to be too chubby, we can go on a diet, or something.\""
-    c "成交，胖的人要减肥，说好了。"
+    c "成交，如果超重了，我们就一起节食之类的。"
 
 # game/a3s2.rpy:608
 translate Schinese a3s2_57a8b364:
@@ -3298,7 +3298,7 @@ translate Schinese a3s2_7a60e1a1:
 translate Schinese a3s2_35aa38e7:
 
     # "But that'll be a long ways away, he's sure."
-    "因为未来的路还很长。"
+    "未来的路还很长。"
 
 # game/a3s2.rpy:673
 translate Schinese a3s2_2e21a278:
