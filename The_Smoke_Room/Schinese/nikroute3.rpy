@@ -9929,8 +9929,8 @@ translate Schinese nikroute3a_4c06d820:
 # game/nikroute3.rpy:3167
 translate Schinese nikroute3a_34bd1fc7:
 
-    # no "\"You know.\""
-    no "\"你知道。\""
+    # no_CN "\"You know.\""
+    no_CN "\"你知道。\""
 
 # game/nikroute3.rpy:3168
 translate Schinese nikroute3a_4e141ad3:
@@ -11549,14 +11549,14 @@ translate Schinese nikroute3a_6344c2c0:
 # game/nikroute3.rpy:3765
 translate Schinese nikroute3a_87e35310:
 
-    # no "\"Go ahead.\""
-    no "\"继续呀。\""
+    # no_CN "\"Go ahead.\""
+    no_CN "\"继续呀。\""
 
 # game/nikroute3.rpy:3766
 translate Schinese nikroute3a_ef1127ac:
 
-    # no "\"Tell him.\""
-    no "\"告诉他啊。\""
+    # no_CN "\"Tell him.\""
+    no_CN "\"告诉他啊。\""
 
 # game/nikroute3.rpy:3768
 translate Schinese nikroute3a_b3090705:
@@ -12431,8 +12431,8 @@ translate Schinese nikroute3a_baaf015b:
 # game/nikroute3.rpy:4083
 translate Schinese nikroute3a_d5ece4bc:
 
-    # no "\"The man that you killed.\""
-    no "\"你杀的那个人。\""
+    # no_CN "\"The man that you killed.\""
+    no_CN "\"你杀的那个人。\""
 
 # game/nikroute3.rpy:4085
 translate Schinese nikroute3a_972b8fc4:
@@ -17393,8 +17393,8 @@ translate Schinese nikroute3a_9a821c4d:
 # game/nikroute3.rpy:5866
 translate Schinese nikroute3a_efc7a309:
 
-    # no "\"...\""
-    no "\"...\""
+    # no_CN "\"...\""
+    no_CN "\"...\""
 
 # game/nikroute3.rpy:5868
 translate Schinese nikroute3a_9486d31f:
