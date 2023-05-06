@@ -10204,3 +10204,23 @@ translate Schinese murdochroute3a_fec97169:
     # "To be continued..."
     "未完待续..."
 
+# TODO: Translation updated at 2023-05-06 09:25
+
+# game/murdochroute3.rpy:1964
+translate Schinese murdochroute3a_ca46f909:
+
+    # "He dips to give her a quick kiss on the wrist, straightens his backpack, and trots off toward the direction of the train station."
+    "他弯腰微微吻了她的手腕，拉正背包然后跑向火车站。"
+
+# game/murdochroute3.rpy:2540
+translate Schinese murdochroute3a_2f113d69:
+
+    # mu "\"I swear that I don’t mean any offense.\""
+    mu "“我不是有意让你不高兴的。”"
+
+# game/murdochroute3.rpy:3071
+translate Schinese murdochroute3a_eb8bcee8:
+
+    # ho "\"Because this all begins and ends with the simple fact that you can’t keep your prick in your goddamn pants.\""
+    ho "“因为这一切单纯都是你他妈管不住下半身害的。”"
+
