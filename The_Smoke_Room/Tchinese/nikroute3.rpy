@@ -18629,4 +18629,11 @@ translate Tchinese nikroute3a_b01f390a:
 translate Tchinese nikroute3a_cd985598:
 
     # ni "\"Do you think we could dance tonight?\""
-    ni "\"今晚想一起跳舞嗎？\""
+    ni "\"今晚想一起跳舞嗎？\""# TODO: Translation updated at 2023-05-06 09:21
+
+# game/nikroute3.rpy:3316
+translate Tchinese nikroute3a_046a4813:
+
+    # "Felipe is waving back in the distance, carrying a sign of James III eating money."
+    "Felipe is waving back in the distance, carrying a sign of James III eating money."
+

@@ -25528,3 +25528,17 @@ translate Tchinese strings:
     old "The map's left, my right,"
     new "地圖的左邊，我的右邊。"
 
+# TODO: Translation updated at 2023-05-06 09:21
+
+# game/nikroute2.rpy:1174
+translate Tchinese nikroute2_2417d6e2:
+
+    # jam "\"You’re close with the immigrant Nicholas Krol, yes?\""
+    jam "\"You’re close with the immigrant Nicholas Krol, yes?\""
+
+# game/nikroute2.rpy:1184
+translate Tchinese nikroute2_fba08962:
+
+    # jam "\"Mr Ayers. One of our current troubles is that Nicholas is one of our best workers! But I fear he’s run away with some wild ideas.\""
+    jam "\"Mr Ayers. One of our current troubles is that Nicholas is one of our best workers! But I fear he’s run away with some wild ideas.\""
+

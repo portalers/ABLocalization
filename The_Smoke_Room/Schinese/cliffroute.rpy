@@ -7826,3 +7826,11 @@ translate Schinese strings:
     old "Don't object"
     new "不反对"
 
+# TODO: Translation updated at 2023-05-06 09:37
+
+# game/cliffroute.rpy:946
+translate Schinese cliffroute_896396c7:
+
+    # jam "\"And you will not tell Nicholas either.\""
+    jam "\"And you will not tell Nicholas either.\""
+

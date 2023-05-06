@@ -18628,3 +18628,11 @@ translate Schinese nikroute3a_cd985598:
     # ni "\"Do you think we could dance tonight?\""
     ni "\"今晚想一起跳舞吗？\""
 
+# TODO: Translation updated at 2023-05-06 09:37
+
+# game/nikroute3.rpy:3316
+translate Schinese nikroute3a_046a4813:
+
+    # "Felipe is waving back in the distance, carrying a sign of James III eating money."
+    "Felipe is waving back in the distance, carrying a sign of James III eating money."
+

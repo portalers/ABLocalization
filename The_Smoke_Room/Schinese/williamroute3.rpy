@@ -19792,3 +19792,7659 @@ translate Schinese strings:
     old "..."
     new "..."
 
+# TODO: Translation updated at 2023-05-06 09:37
+
+# game/williamroute3.rpy:7213
+translate Schinese williamroute3b_c5ebdb8a:
+
+    # gr "\"The men have work to do at closing time.\""
+    gr "\"The men have work to do at closing time.\""
+
+# game/williamroute3.rpy:7216
+translate Schinese williamroute3b_58ae973e:
+
+    # wi "\"I don’t mean to be intrudin’ on your family livelihood ma’am, but–\""
+    wi "\"I don’t mean to be intrudin’ on your family livelihood ma’am, but–\""
+
+# game/williamroute3.rpy:7218
+translate Schinese williamroute3b_d65c9c30:
+
+    # gr "\"Don’t you?\""
+    gr "\"Don’t you?\""
+
+# game/williamroute3.rpy:7222
+translate Schinese williamroute3b_c97d5402:
+
+    # gr "\"Pennies down the drain seem like the only recourse in this interrogation.\""
+    gr "\"Pennies down the drain seem like the only recourse in this interrogation.\""
+
+# game/williamroute3.rpy:7225
+translate Schinese williamroute3b_0814a6ca:
+
+    # gr "\"My son has work to do.\""
+    gr "\"My son has work to do.\""
+
+# game/williamroute3.rpy:7227
+translate Schinese williamroute3b_e409b8c0:
+
+    # wi "\"Ma’am, if pennies are a concern I’ll line the tip jar once I’m through.\""
+    wi "\"Ma’am, if pennies are a concern I’ll line the tip jar once I’m through.\""
+
+# game/williamroute3.rpy:7229
+translate Schinese williamroute3b_8cc9a905:
+
+    # wi "\"There’s an urgent matter.\""
+    wi "\"There’s an urgent matter.\""
+
+# game/williamroute3.rpy:7231
+translate Schinese williamroute3b_dd836559:
+
+    # gr "\"I’m not a fan of how you seem to handle ‘urgent matters’.\""
+    gr "\"I’m not a fan of how you seem to handle ‘urgent matters’.\""
+
+# game/williamroute3.rpy:7233
+translate Schinese williamroute3b_8123537e:
+
+    # "She’s just ignoring me."
+    "She’s just ignoring me."
+
+# game/williamroute3.rpy:7235
+translate Schinese williamroute3b_661e142b:
+
+    # gr "\"My boy has work to do.\""
+    gr "\"My boy has work to do.\""
+
+# game/williamroute3.rpy:7239
+translate Schinese williamroute3b_483fc595:
+
+    # gr "\"Work that won’t get him shot.\""
+    gr "\"Work that won’t get him shot.\""
+
+# game/williamroute3.rpy:7242
+translate Schinese williamroute3b_0dec16ea:
+
+    # wi "\"Ma’am, I am investigating the murder of Huxley Greene.\""
+    wi "\"Ma’am, I am investigating the murder of Huxley Greene.\""
+
+# game/williamroute3.rpy:7244
+translate Schinese williamroute3b_c67ab05e:
+
+    # "Her eyebrows rise."
+    "Her eyebrows rise."
+
+# game/williamroute3.rpy:7247
+translate Schinese williamroute3b_705f3422:
+
+    # "Either she’s genuinely surprised, or she’s got a lot of experience practicing."
+    "Either she’s genuinely surprised, or she’s got a lot of experience practicing."
+
+# game/williamroute3.rpy:7248
+translate Schinese williamroute3b_2bbd1110:
+
+    # "Just peaches."
+    "Just peaches."
+
+# game/williamroute3.rpy:7250
+translate Schinese williamroute3b_2f750d09:
+
+    # gr "\"Can’t say I’m saddened by the news.\""
+    gr "\"Can’t say I’m saddened by the news.\""
+
+# game/williamroute3.rpy:7253
+translate Schinese williamroute3b_e697393c:
+
+    # "I feel my ears perk up."
+    "I feel my ears perk up."
+
+# game/williamroute3.rpy:7255
+translate Schinese williamroute3b_a1b194e1:
+
+    # "I get that tingling sensation that violence is in the air."
+    "I get that tingling sensation that violence is in the air."
+
+# game/williamroute3.rpy:7256
+translate Schinese williamroute3b_e083afe6:
+
+    # "The kind that lets you know a fight is about to break out."
+    "The kind that lets you know a fight is about to break out."
+
+# game/williamroute3.rpy:7257
+translate Schinese williamroute3b_c15c8231:
+
+    # "It’s an unsettling sensation coming from somebody like her."
+    "It’s an unsettling sensation coming from somebody like her."
+
+# game/williamroute3.rpy:7259
+translate Schinese williamroute3b_4fdf0492:
+
+    # wi "\"And why’s that?\""
+    wi "\"And why’s that?\""
+
+# game/williamroute3.rpy:7261
+translate Schinese williamroute3b_082cf178:
+
+    # gr "\"I’m certain you know why.\""
+    gr "\"I’m certain you know why.\""
+
+# game/williamroute3.rpy:7263
+translate Schinese williamroute3b_38435471:
+
+    # wi "\"Refresh me.\""
+    wi "\"Refresh me.\""
+
+# game/williamroute3.rpy:7265
+translate Schinese williamroute3b_0e426517:
+
+    # "She leans against one of the counters, crossing her legs as she balances on one foot."
+    "She leans against one of the counters, crossing her legs as she balances on one foot."
+
+# game/williamroute3.rpy:7266
+translate Schinese williamroute3b_263b546c:
+
+    # "Her words are slow."
+    "Her words are slow."
+
+# game/williamroute3.rpy:7267
+translate Schinese williamroute3b_57ab8dbb:
+
+    # "Specific."
+    "Specific."
+
+# game/williamroute3.rpy:7269
+translate Schinese williamroute3b_ebfc6139:
+
+    # gr "\"The man was a drunk.\""
+    gr "\"The man was a drunk.\""
+
+# game/williamroute3.rpy:7272
+translate Schinese williamroute3b_405c9b8f:
+
+    # gr "\"He gave Marcy bruises.\""
+    gr "\"He gave Marcy bruises.\""
+
+# game/williamroute3.rpy:7275
+translate Schinese williamroute3b_923e40d0:
+
+    # gr "\"Spent all his earnings on booze.\""
+    gr "\"Spent all his earnings on booze.\""
+
+# game/williamroute3.rpy:7278
+translate Schinese williamroute3b_e8b43174:
+
+    # gr "\"Barely kept up the house.\""
+    gr "\"Barely kept up the house.\""
+
+# game/williamroute3.rpy:7281
+translate Schinese williamroute3b_d11343f7:
+
+    # gr "\"Something was bound to happen sooner or later.\""
+    gr "\"Something was bound to happen sooner or later.\""
+
+# game/williamroute3.rpy:7283
+translate Schinese williamroute3b_8050e520:
+
+    # "I tuck my notebook into my pocket and scratch the back of my head."
+    "I tuck my notebook into my pocket and scratch the back of my head."
+
+# game/williamroute3.rpy:7285
+translate Schinese williamroute3b_15598aac:
+
+    # wi "\"And what gave you that impression.\""
+    wi "\"And what gave you that impression.\""
+
+# game/williamroute3.rpy:7287
+translate Schinese williamroute3b_f1d4950e:
+
+    # "She shrugged."
+    "She shrugged."
+
+# game/williamroute3.rpy:7289
+translate Schinese williamroute3b_a364465c:
+
+    # gr "\"Justice. Common sense. God’s grace.\""
+    gr "\"Justice. Common sense. God’s grace.\""
+
+# game/williamroute3.rpy:7292
+translate Schinese williamroute3b_96520007:
+
+    # gr "\"I happen to have the belief that if you do enough wrong then something will come your way to right it.\""
+    gr "\"I happen to have the belief that if you do enough wrong then something will come your way to right it.\""
+
+# game/williamroute3.rpy:7294
+translate Schinese williamroute3b_bdd687c6:
+
+    # gr "\"It’s too bad the law seldom does so.\""
+    gr "\"It’s too bad the law seldom does so.\""
+
+# game/williamroute3.rpy:7296
+translate Schinese williamroute3b_336129b7:
+
+    # wi "\"Did you know this was going on?\""
+    wi "\"Did you know this was going on?\""
+
+# game/williamroute3.rpy:7298
+translate Schinese williamroute3b_efb8eb7d:
+
+    # gr "\"Practically all of women in the damn town knew it was going on.\""
+    gr "\"Practically all of women in the damn town knew it was going on.\""
+
+# game/williamroute3.rpy:7300
+translate Schinese williamroute3b_651dce88:
+
+    # gr "\"Sheriff McKinney knew, but he’d never convicted him and his snooping only made things worse for Marcy.\""
+    gr "\"Sheriff McKinney knew, but he’d never convicted him and his snooping only made things worse for Marcy.\""
+
+# game/williamroute3.rpy:7302
+translate Schinese williamroute3b_428b3659:
+
+    # gr "\"You knew it was happening too, didn’t you?\""
+    gr "\"You knew it was happening too, didn’t you?\""
+
+# game/williamroute3.rpy:7304
+translate Schinese williamroute3b_d3ecee2d:
+
+    # wi "\"I suspected.\""
+    wi "\"I suspected.\""
+
+# game/williamroute3.rpy:7305
+translate Schinese williamroute3b_94b51de5:
+
+    # "The accusation in her voice isn’t entirely fair."
+    "The accusation in her voice isn’t entirely fair."
+
+# game/williamroute3.rpy:7306
+translate Schinese williamroute3b_4260c077:
+
+    # "The Greenes have lived on that patch of land since the founding of the town."
+    "The Greenes have lived on that patch of land since the founding of the town."
+
+# game/williamroute3.rpy:7307
+translate Schinese williamroute3b_828e8f20:
+
+    # "There’s only so much an outsider can do against an insider without rolling up his sleeves and dragging her off to testify against her husband."
+    "There’s only so much an outsider can do against an insider without rolling up his sleeves and dragging her off to testify against her husband."
+
+# game/williamroute3.rpy:7308
+translate Schinese williamroute3b_487f0ff5:
+
+    # "And she was as terrified of being alone as much as she was terrified of being with him."
+    "And she was as terrified of being alone as much as she was terrified of being with him."
+
+# game/williamroute3.rpy:7309
+translate Schinese williamroute3b_931b4a8e:
+
+    # wi "\"Only confirmed it today.\""
+    wi "\"Only confirmed it today.\""
+
+# game/williamroute3.rpy:7311
+translate Schinese williamroute3b_0fcf9902:
+
+    # wi "\"It was much worse than I thought it might be.\""
+    wi "\"It was much worse than I thought it might be.\""
+
+# game/williamroute3.rpy:7313
+translate Schinese williamroute3b_457afb70:
+
+    # gr "\"I’m glad the reaper got to him first, as slow as you were to act.\""
+    gr "\"I’m glad the reaper got to him first, as slow as you were to act.\""
+
+# game/williamroute3.rpy:7316
+translate Schinese williamroute3b_8123ffea:
+
+    # gr "\"In the days of my father, society didn’t wait around for the right postage to arrive to protect their women.\""
+    gr "\"In the days of my father, society didn’t wait around for the right postage to arrive to protect their women.\""
+
+# game/williamroute3.rpy:7319
+translate Schinese williamroute3b_f063e1d2:
+
+    # gr "\"The men without character wouldn’t be allowed near their daughter in the first place.\""
+    gr "\"The men without character wouldn’t be allowed near their daughter in the first place.\""
+
+# game/williamroute3.rpy:7321
+translate Schinese williamroute3b_92859b51:
+
+    # gr "\"They didn’t have to lock them up like mongrels who’d be set loose upon the world again after a perfunctory stretch of time.\""
+    gr "\"They didn’t have to lock them up like mongrels who’d be set loose upon the world again after a perfunctory stretch of time.\""
+
+# game/williamroute3.rpy:7323
+translate Schinese williamroute3b_bc3ef9cc:
+
+    # gr "\"They’d send the problems out the front gate of the village with nothing but the clothes on their backs and tell them ‘Good Luck’.\""
+    gr "\"They’d send the problems out the front gate of the village with nothing but the clothes on their backs and tell them ‘Good Luck’.\""
+
+# game/williamroute3.rpy:7325
+translate Schinese williamroute3b_53008f8e:
+
+    # wi "\"We have due process now, Ma’am.\""
+    wi "\"We have due process now, Ma’am.\""
+
+# game/williamroute3.rpy:7327
+translate Schinese williamroute3b_32f1b030:
+
+    # gr "\"There’s that good old fixation on response instead of prevention.\""
+    gr "\"There’s that good old fixation on response instead of prevention.\""
+
+# game/williamroute3.rpy:7329
+translate Schinese williamroute3b_5994c50a:
+
+    # gr "\"Due process means diddly squat to people with permanent injuries and bodies that don’t hold a soul anymore.\""
+    gr "\"Due process means diddly squat to people with permanent injuries and bodies that don’t hold a soul anymore.\""
+
+# game/williamroute3.rpy:7331
+translate Schinese williamroute3b_a6dca489:
+
+    # gr "\"I can never quite decide if I was born too late to live among men of action, or too early for the much needed revision of the judicial process.\""
+    gr "\"I can never quite decide if I was born too late to live among men of action, or too early for the much needed revision of the judicial process.\""
+
+# game/williamroute3.rpy:7334
+translate Schinese williamroute3b_773eebd2:
+
+    # gr "\"Marcy will be far better off without that devil darkening her doorway.\""
+    gr "\"Marcy will be far better off without that devil darkening her doorway.\""
+
+# game/williamroute3.rpy:7337
+translate Schinese williamroute3b_757ee3d0:
+
+    # wi "\"She might not make it past the morning.\""
+    wi "\"She might not make it past the morning.\""
+
+# game/williamroute3.rpy:7339
+translate Schinese williamroute3b_c61674f2:
+
+    # "Gretchen Byrnes’ brow furrows deeply."
+    "Gretchen Byrnes’ brow furrows deeply."
+
+# game/williamroute3.rpy:7341
+translate Schinese williamroute3b_6d6b1e0b:
+
+    # gr "\"And what’s that supposed to mean?\""
+    gr "\"And what’s that supposed to mean?\""
+
+# game/williamroute3.rpy:7343
+translate Schinese williamroute3b_c414cc3d:
+
+    # wi "\"I mean she miscarried today.\""
+    wi "\"I mean she miscarried today.\""
+
+# game/williamroute3.rpy:7345
+translate Schinese williamroute3b_fdbadd67:
+
+    # wi "\"The placenta wasn’t intact.\""
+    wi "\"The placenta wasn’t intact.\""
+
+# game/williamroute3.rpy:7346
+translate Schinese williamroute3b_9d197ed9:
+
+    # "Her eyes widen and I see the airs about her slip away."
+    "Her eyes widen and I see the airs about her slip away."
+
+# game/williamroute3.rpy:7348
+translate Schinese williamroute3b_74534bd0:
+
+    # gr "\"Where is she?\""
+    gr "\"Where is she?\""
+
+# game/williamroute3.rpy:7350
+translate Schinese williamroute3b_2dc7a5bb:
+
+    # wi "\"She’s down at the Hip.\""
+    wi "\"She’s down at the Hip.\""
+
+# game/williamroute3.rpy:7354
+translate Schinese williamroute3b_7379a490:
+
+    # "She struts out of the dark room, grabbing her coat on the door handle and walks away without looking at me."
+    "She struts out of the dark room, grabbing her coat on the door handle and walks away without looking at me."
+
+# game/williamroute3.rpy:7356
+translate Schinese williamroute3b_74bb0074:
+
+    # "I think about stopping her for a moment."
+    "I think about stopping her for a moment."
+
+# game/williamroute3.rpy:7357
+translate Schinese williamroute3b_65e6846f:
+
+    # "She said plenty of suspicious things."
+    "She said plenty of suspicious things."
+
+# game/williamroute3.rpy:7358
+translate Schinese williamroute3b_413df175:
+
+    # "But I mostly want space between me, her, and her son for now."
+    "But I mostly want space between me, her, and her son for now."
+
+# game/williamroute3.rpy:7360
+translate Schinese williamroute3b_64b415cc:
+
+    # wi "\"Now that she’s gone, is there anything else you’d like to say?\""
+    wi "\"Now that she’s gone, is there anything else you’d like to say?\""
+
+# game/williamroute3.rpy:7362
+translate Schinese williamroute3b_88af99be:
+
+    # mu "\"I’m not hiding anything Will.\""
+    mu "\"I’m not hiding anything Will.\""
+
+# game/williamroute3.rpy:7363
+translate Schinese williamroute3b_812fafa4:
+
+    # mu "\"But if I were, my first step would to be to tamper with your evidence.\""
+    mu "\"But if I were, my first step would to be to tamper with your evidence.\""
+
+# game/williamroute3.rpy:7365
+translate Schinese williamroute3b_8b626bad:
+
+    # mu "\"Has anybody done that lately?\""
+    mu "\"Has anybody done that lately?\""
+
+# game/williamroute3.rpy:7367
+translate Schinese williamroute3b_6c285422:
+
+    # wi "\"Your little weasel friend messed around my office.\""
+    wi "\"Your little weasel friend messed around my office.\""
+
+# game/williamroute3.rpy:7368
+translate Schinese williamroute3b_2bd8bcab:
+
+    # "But so was Cynthia."
+    "But so was Cynthia."
+
+# game/williamroute3.rpy:7371
+translate Schinese williamroute3b_eee264aa:
+
+    # "I could ask Sam what he saw."
+    "I could ask Sam what he saw."
+
+# game/williamroute3.rpy:7373
+translate Schinese williamroute3b_a8fef3b1:
+
+    # "Then again, Sam was too."
+    "Then again, Sam was too."
+
+# game/williamroute3.rpy:7375
+translate Schinese williamroute3b_1d6d70e8:
+
+    # mu "\"So what? You think Cliff is up to something?\""
+    mu "\"So what? You think Cliff is up to something?\""
+
+# game/williamroute3.rpy:7376
+translate Schinese williamroute3b_5fa87fbf:
+
+    # wi "\"Well that’s for certain.\""
+    wi "\"Well that’s for certain.\""
+
+# game/williamroute3.rpy:7377
+translate Schinese williamroute3b_6e047b11:
+
+    # wi "\"Doesn’t mean he’s trying to mess with my progress though.\""
+    wi "\"Doesn’t mean he’s trying to mess with my progress though.\""
+
+# game/williamroute3.rpy:7378
+translate Schinese williamroute3b_eda08e77:
+
+    # "At least not on purpose."
+    "At least not on purpose."
+
+# game/williamroute3.rpy:7380
+translate Schinese williamroute3b_5bfc6165:
+
+    # mu "\"That serious, huh?\""
+    mu "\"That serious, huh?\""
+
+# game/williamroute3.rpy:7382
+translate Schinese williamroute3b_374a88c2:
+
+    # mu "\"What exactly has he done?\""
+    mu "\"What exactly has he done?\""
+
+# game/williamroute3.rpy:7383
+translate Schinese williamroute3b_26348a30:
+
+    # wi "\"All I know is his real name ain’t Cliff and that he was brought into town and hired to work on a project for James.\""
+    wi "\"All I know is his real name ain’t Cliff and that he was brought into town and hired to work on a project for James.\""
+
+# game/williamroute3.rpy:7385
+translate Schinese williamroute3b_e57f7517:
+
+    # "The fox’s brow furrows."
+    "The fox’s brow furrows."
+
+# game/williamroute3.rpy:7386
+translate Schinese williamroute3b_12cd4dd9:
+
+    # mu "\"Well the first part is strange.\""
+    mu "\"Well the first part is strange.\""
+
+# game/williamroute3.rpy:7387
+translate Schinese williamroute3b_454416c3:
+
+    # mu "\"But over half the town works for Mr. Hendricks.\""
+    mu "\"But over half the town works for Mr. Hendricks.\""
+
+# game/williamroute3.rpy:7389
+translate Schinese williamroute3b_896d25d2:
+
+    # mu "\"Hardly surprising.\""
+    mu "\"Hardly surprising.\""
+
+# game/williamroute3.rpy:7390
+translate Schinese williamroute3b_d0858747:
+
+    # wi "\"Like I said...\""
+    wi "\"Like I said...\""
+
+# game/williamroute3.rpy:7391
+translate Schinese williamroute3b_09ce8edb:
+
+    # wi "\"It’s suspicious, but hardly worth hounding him over.\""
+    wi "\"It’s suspicious, but hardly worth hounding him over.\""
+
+# game/williamroute3.rpy:7392
+translate Schinese williamroute3b_a07a4e6d:
+
+    # wi "\"Doesn’t exactly mean I want to keep him too close either.\""
+    wi "\"Doesn’t exactly mean I want to keep him too close either.\""
+
+# game/williamroute3.rpy:7394
+translate Schinese williamroute3b_00e029d0:
+
+    # mu "\"Are you mad I invited him to poker night?\""
+    mu "\"Are you mad I invited him to poker night?\""
+
+# game/williamroute3.rpy:7396
+translate Schinese williamroute3b_d075dd73:
+
+    # wi "\"I’m a little more upset that you took a bullet for him.\""
+    wi "\"I’m a little more upset that you took a bullet for him.\""
+
+# game/williamroute3.rpy:7398
+translate Schinese williamroute3b_330e74b6:
+
+    # mu "\"I told you he was being followed.\""
+    mu "\"I told you he was being followed.\""
+
+# game/williamroute3.rpy:7399
+translate Schinese williamroute3b_600be545:
+
+    # mu "\"He could have died if I hadn’t of done something.\""
+    mu "\"He could have died if I hadn’t of done something.\""
+
+# game/williamroute3.rpy:7400
+translate Schinese williamroute3b_6b432ffc:
+
+    # wi "\"You don’t even know ‘em.\""
+    wi "\"You don’t even know ‘em.\""
+
+# game/williamroute3.rpy:7402
+translate Schinese williamroute3b_202911b8:
+
+    # mu "\"So what?\""
+    mu "\"So what?\""
+
+# game/williamroute3.rpy:7403
+translate Schinese williamroute3b_80dc1023:
+
+    # wi "\"The way you see it, you took a bullet for a stranger.\""
+    wi "\"The way you see it, you took a bullet for a stranger.\""
+
+# game/williamroute3.rpy:7404
+translate Schinese williamroute3b_fcc10022:
+
+    # wi "\"The way I see it, my friend took a bullet for a stranger.\""
+    wi "\"The way I see it, my friend took a bullet for a stranger.\""
+
+# game/williamroute3.rpy:7405
+translate Schinese williamroute3b_26f94368:
+
+    # wi "\"...See how that’s different?\""
+    wi "\"...See how that’s different?\""
+
+# game/williamroute3.rpy:7408
+translate Schinese williamroute3b_e077ea19:
+
+    # mu "\"When you put it that, way... I guess.\""
+    mu "\"When you put it that, way... I guess.\""
+
+# game/williamroute3.rpy:7409
+translate Schinese williamroute3b_b8249fc5:
+
+    # wi "\"I wish you wouldn’t act like this ain’t a bit deal.\""
+    wi "\"I wish you wouldn’t act like this ain’t a bit deal.\""
+
+# game/williamroute3.rpy:7410
+translate Schinese williamroute3b_2f011a23:
+
+    # wi "\"You ain’t out of the woods yet.\""
+    wi "\"You ain’t out of the woods yet.\""
+
+# game/williamroute3.rpy:7411
+translate Schinese williamroute3b_b6081e16:
+
+    # wi "\"If your shoulder gets infected there’s no cutting it off or burning the sick away.\""
+    wi "\"If your shoulder gets infected there’s no cutting it off or burning the sick away.\""
+
+# game/williamroute3.rpy:7414
+translate Schinese williamroute3b_a460dcbc:
+
+    # mu "\"Well don’t get weepy on my account.\""
+    mu "\"Well don’t get weepy on my account.\""
+
+# game/williamroute3.rpy:7416
+translate Schinese williamroute3b_b89665a1:
+
+    # mu "\"I’m cleaning and dressing it before and after work every day.\""
+    mu "\"I’m cleaning and dressing it before and after work every day.\""
+
+# game/williamroute3.rpy:7418
+translate Schinese williamroute3b_19ef3a8a:
+
+    # wi "\"I bet you’d pay good money to see me cry.\""
+    wi "\"I bet you’d pay good money to see me cry.\""
+
+# game/williamroute3.rpy:7420
+translate Schinese williamroute3b_773ebecc:
+
+    # "He snorts."
+    "He snorts."
+
+# game/williamroute3.rpy:7422
+translate Schinese williamroute3b_2e69c1f8:
+
+    # mu "\"I doubt I can afford something so rare.\""
+    mu "\"I doubt I can afford something so rare.\""
+
+# game/williamroute3.rpy:7425
+translate Schinese williamroute3b_c26a2a39:
+
+    # mu "\"I’d also check outside to see if it was hailing.\""
+    mu "\"I’d also check outside to see if it was hailing.\""
+
+# game/williamroute3.rpy:7427
+translate Schinese williamroute3b_1745664b:
+
+    # wi "\"Plenty of things make me want to cry.\""
+    wi "\"Plenty of things make me want to cry.\""
+
+# game/williamroute3.rpy:7429
+translate Schinese williamroute3b_2854ba48:
+
+    # wi "\"Have you met my deputy?\""
+    wi "\"Have you met my deputy?\""
+
+# game/williamroute3.rpy:7430
+translate Schinese williamroute3b_3f00f4d8:
+
+    # mu "\"Cliff complained about him too.\""
+    mu "\"Cliff complained about him too.\""
+
+# game/williamroute3.rpy:7432
+translate Schinese williamroute3b_4d41065b:
+
+    # mu "\"That’s another thing you two have in common.\""
+    mu "\"That’s another thing you two have in common.\""
+
+# game/williamroute3.rpy:7433
+translate Schinese williamroute3b_06a71eef:
+
+    # "I raise my finger at him."
+    "I raise my finger at him."
+
+# game/williamroute3.rpy:7434
+translate Schinese williamroute3b_e635bbdb:
+
+    # wi "\"Don’t start.\""
+    wi "\"Don’t start.\""
+
+# game/williamroute3.rpy:7436
+translate Schinese williamroute3b_7a437493:
+
+    # "He shrugs at me like he’s innocent."
+    "He shrugs at me like he’s innocent."
+
+# game/williamroute3.rpy:7438
+translate Schinese williamroute3b_bf4b8426:
+
+    # mu "\"I just figured if we’re all going out to the Stag tomorrow night you’d enjoy yourself more if you talked to everybody else more.\""
+    mu "\"I just figured if we’re all going out to the Stag tomorrow night you’d enjoy yourself more if you talked to everybody else more.\""
+
+# game/williamroute3.rpy:7440
+translate Schinese williamroute3b_acb155de:
+
+    # wi "\"I talk to Nik and Sam plenty.\""
+    wi "\"I talk to Nik and Sam plenty.\""
+
+# game/williamroute3.rpy:7442
+translate Schinese williamroute3b_7585b58b:
+
+    # "He crosses his arms and gives me a look."
+    "He crosses his arms and gives me a look."
+
+# game/williamroute3.rpy:7443
+translate Schinese williamroute3b_8680b06b:
+
+    # mu "\"They barely talk.\""
+    mu "\"They barely talk.\""
+
+# game/williamroute3.rpy:7444
+translate Schinese williamroute3b_b69caadc:
+
+    # wi "\"So then it works for me.\""
+    wi "\"So then it works for me.\""
+
+# game/williamroute3.rpy:7446
+translate Schinese williamroute3b_3e95880c:
+
+    # "I feel the the strain in my brow and the bristle at the back of my neck."
+    "I feel the the strain in my brow and the bristle at the back of my neck."
+
+# game/williamroute3.rpy:7447
+translate Schinese williamroute3b_d1d33293:
+
+    # wi "\"To be honest I don’t even know if that’s happening tomorrow.\""
+    wi "\"To be honest I don’t even know if that’s happening tomorrow.\""
+
+# game/williamroute3.rpy:7449
+translate Schinese williamroute3b_92d3198f:
+
+    # mu "\"What?\""
+    mu "\"What?\""
+
+# game/williamroute3.rpy:7451
+translate Schinese williamroute3b_95d968d7:
+
+    # mu "\"Why not?\""
+    mu "\"Why not?\""
+
+# game/williamroute3.rpy:7453
+translate Schinese williamroute3b_67391895:
+
+    # wi "\"Because today was shit.\""
+    wi "\"Because today was shit.\""
+
+# game/williamroute3.rpy:7454
+translate Schinese williamroute3b_e97d3803:
+
+    # wi "\"There’s too much that I have to do right now.\""
+    wi "\"There’s too much that I have to do right now.\""
+
+# game/williamroute3.rpy:7455
+translate Schinese williamroute3b_998a44a7:
+
+    # "I’ve seen worse."
+    "I’ve seen worse."
+
+# game/williamroute3.rpy:7456
+translate Schinese williamroute3b_d2db6e8d:
+
+    # "Far worse."
+    "Far worse."
+
+# game/williamroute3.rpy:7457
+translate Schinese williamroute3b_8af82adb:
+
+    # "Just not here."
+    "Just not here."
+
+# game/williamroute3.rpy:7458
+translate Schinese williamroute3b_ba08920f:
+
+    # "And I know that Marcy and Huxley isn’t going to be the end of it."
+    "And I know that Marcy and Huxley isn’t going to be the end of it."
+
+# game/williamroute3.rpy:7459
+translate Schinese williamroute3b_2e5d34f0:
+
+    # wi "\"Let’s get back to business.\""
+    wi "\"Let’s get back to business.\""
+
+# game/williamroute3.rpy:7460
+translate Schinese williamroute3b_c419ffd2:
+
+    # wi "\"I have to ask you, Murdoch...\""
+    wi "\"I have to ask you, Murdoch...\""
+
+# game/williamroute3.rpy:7461
+translate Schinese williamroute3b_1afaf8e0:
+
+    # "I get out my notebook and show him the picture of a gum wrapper in my notebook."
+    "I get out my notebook and show him the picture of a gum wrapper in my notebook."
+
+# game/williamroute3.rpy:7462
+translate Schinese williamroute3b_8002dcb2:
+
+    # wi "\"You sell this gum in the store, don’t you?\""
+    wi "\"You sell this gum in the store, don’t you?\""
+
+# game/williamroute3.rpy:7463
+translate Schinese williamroute3b_43088bf0:
+
+    # "I watch his expression while he looks."
+    "I watch his expression while he looks."
+
+# game/williamroute3.rpy:7464
+translate Schinese williamroute3b_14851304:
+
+    # "There’s a glimmer in his eye, but no facial tick or wrinkles."
+    "There’s a glimmer in his eye, but no facial tick or wrinkles."
+
+# game/williamroute3.rpy:7465
+translate Schinese williamroute3b_a2261431:
+
+    # "If he’s surprised to see it then I can’t tell."
+    "If he’s surprised to see it then I can’t tell."
+
+# game/williamroute3.rpy:7467
+translate Schinese williamroute3b_955771ef:
+
+    # mu "\"We do.\""
+    mu "\"We do.\""
+
+# game/williamroute3.rpy:7469
+translate Schinese williamroute3b_5b6dcd7d:
+
+    # mu "\"It’s not cheap in bulk but that’s the only way to get it.\""
+    mu "\"It’s not cheap in bulk but that’s the only way to get it.\""
+
+# game/williamroute3.rpy:7470
+translate Schinese williamroute3b_27897221:
+
+    # wi "\"So it ain’t a stretch to say that you’re the only supplier downtown who sells this gum?\""
+    wi "\"So it ain’t a stretch to say that you’re the only supplier downtown who sells this gum?\""
+
+# game/williamroute3.rpy:7472
+translate Schinese williamroute3b_b75a4773:
+
+    # mu "\"I suppose it isn’t.\""
+    mu "\"I suppose it isn’t.\""
+
+# game/williamroute3.rpy:7473
+translate Schinese williamroute3b_37a4c1bb:
+
+    # wi "\"So who buys it?\""
+    wi "\"So who buys it?\""
+
+# game/williamroute3.rpy:7475
+translate Schinese williamroute3b_73a06519:
+
+    # mu "\"Mostly just kids with enough pocket money.\""
+    mu "\"Mostly just kids with enough pocket money.\""
+
+# game/williamroute3.rpy:7476
+translate Schinese williamroute3b_81ff9598:
+
+    # wi "\"Who in the past week?\""
+    wi "\"Who in the past week?\""
+
+# game/williamroute3.rpy:7478
+translate Schinese williamroute3b_250a5842:
+
+    # "I can tell that he’s thinking."
+    "I can tell that he’s thinking."
+
+# game/williamroute3.rpy:7481
+translate Schinese williamroute3b_a1c59b8e:
+
+    # mu "\"There was a wolf in a yellow dress and a headband.\""
+    mu "\"There was a wolf in a yellow dress and a headband.\""
+
+# game/williamroute3.rpy:7483
+translate Schinese williamroute3b_12f5ea03:
+
+    # mu "\"You know her?\""
+    mu "\"You know her?\""
+
+# game/williamroute3.rpy:7484
+translate Schinese williamroute3b_fb6e33a2:
+
+    # "Shit."
+    "Shit."
+
+# game/williamroute3.rpy:7486
+translate Schinese williamroute3b_5de7cbf6:
+
+    # wi "\"I know where to find her.\""
+    wi "\"I know where to find her.\""
+
+# game/williamroute3.rpy:7489
+translate Schinese williamroute3b_307c09d1:
+
+    # "The cool air hits my face as I open the door."
+    "The cool air hits my face as I open the door."
+
+# game/williamroute3.rpy:7490
+translate Schinese williamroute3b_ec18c984:
+
+    # "Murdoch says something as I leave but I can’t hear it."
+    "Murdoch says something as I leave but I can’t hear it."
+
+# game/williamroute3.rpy:7491
+translate Schinese williamroute3b_c3b42cd4:
+
+    # "I’m too mad."
+    "I’m too mad."
+
+# game/williamroute3.rpy:7493
+translate Schinese williamroute3b_a9366a0e:
+
+    # "Every direction is pointing me to Hendrick's manor."
+    "Every direction is pointing me to Hendrick's manor."
+
+# game/williamroute3.rpy:7494
+translate Schinese williamroute3b_673c133d:
+
+    # "It’ll take me at least 20 minutes to walk there but there’s nothing on this earth or off of it that’s going to stop me from putting my feet in front of the other."
+    "It’ll take me at least 20 minutes to walk there but there’s nothing on this earth or off of it that’s going to stop me from putting my feet in front of the other."
+
+# game/williamroute3.rpy:7497
+translate Schinese williamroute3b_991f85a0:
+
+    # "I can see that manor on the hilltop through the trees and the alleyways."
+    "I can see that manor on the hilltop through the trees and the alleyways."
+
+# game/williamroute3.rpy:7498
+translate Schinese williamroute3b_5d74c20f:
+
+    # "But I stop, and lean against the shady side of the post office."
+    "But I stop, and lean against the shady side of the post office."
+
+# game/williamroute3.rpy:7499
+translate Schinese williamroute3b_ef248c6d:
+
+    # "I feel a rush to my head as I dig through my pockets for a cigarette."
+    "I feel a rush to my head as I dig through my pockets for a cigarette."
+
+# game/williamroute3.rpy:7500
+translate Schinese williamroute3b_0821abdd:
+
+    # "It’s 6:22 here, so it’s 4:22 there."
+    "It’s 6:22 here, so it’s 4:22 there."
+
+# game/williamroute3.rpy:7501
+translate Schinese williamroute3b_9043aae7:
+
+    # "I try to think about what I’m going to say."
+    "I try to think about what I’m going to say."
+
+# game/williamroute3.rpy:7502
+translate Schinese williamroute3b_861cf8e2:
+
+    # "I’m scared for my ex-wife because of the chewing gum you made her buy?"
+    "I’m scared for my ex-wife because of the chewing gum you made her buy?"
+
+# game/williamroute3.rpy:7503
+translate Schinese williamroute3b_a154afc3:
+
+    # "I’d sound like a lunatic."
+    "I’d sound like a lunatic."
+
+# game/williamroute3.rpy:7504
+translate Schinese williamroute3b_38d70f52:
+
+    # "But everything keeps leading back to James."
+    "But everything keeps leading back to James."
+
+# game/williamroute3.rpy:7505
+translate Schinese williamroute3b_dc8a4227:
+
+    # "Hattie’s new job."
+    "Hattie’s new job."
+
+# game/williamroute3.rpy:7506
+translate Schinese williamroute3b_7d770947:
+
+    # "The party at the manor being held on the same day of Huxley’s disappearance."
+    "The party at the manor being held on the same day of Huxley’s disappearance."
+
+# game/williamroute3.rpy:7507
+translate Schinese williamroute3b_f36db0fe:
+
+    # "The body flung to a ditch from what had to be a fast-moving vehicle."
+    "The body flung to a ditch from what had to be a fast-moving vehicle."
+
+# game/williamroute3.rpy:7509
+translate Schinese williamroute3b_581dc897:
+
+    # "Harlan and the other half of CSCG wanting James gone."
+    "Harlan and the other half of CSCG wanting James gone."
+
+# game/williamroute3.rpy:7510
+translate Schinese williamroute3b_94871ed8:
+
+    # "Why?"
+    "Why?"
+
+# game/williamroute3.rpy:7512
+translate Schinese williamroute3b_be79731b:
+
+    # "He’s even convinced one of the prostitutes to betray their own."
+    "He’s even convinced one of the prostitutes to betray their own."
+
+# game/williamroute3.rpy:7514
+translate Schinese williamroute3b_c3a134d1:
+
+    # "There’s gotta be more he’s done."
+    "There’s gotta be more he’s done."
+
+# game/williamroute3.rpy:7516
+translate Schinese williamroute3b_e7306e72:
+
+    # "He’s never at the center of the crimes committed in this town, but his name and his home keep getting brought up around them."
+    "He’s never at the center of the crimes committed in this town, but his name and his home keep getting brought up around them."
+
+# game/williamroute3.rpy:7517
+translate Schinese williamroute3b_bb12da6f:
+
+    # "He’s like a bug at a campfire."
+    "He’s like a bug at a campfire."
+
+# game/williamroute3.rpy:7518
+translate Schinese williamroute3b_5c632338:
+
+    # "Flitting around, dive-bombing you so you can see him out of the corner of your eye, but he won’t dare buzz too close to the fire."
+    "Flitting around, dive-bombing you so you can see him out of the corner of your eye, but he won’t dare buzz too close to the fire."
+
+# game/williamroute3.rpy:7519
+translate Schinese williamroute3b_bdfd4e7e:
+
+    # "So now the question is-- why him?"
+    "So now the question is-- why him?"
+
+# game/williamroute3.rpy:7520
+translate Schinese williamroute3b_5c8ec425:
+
+    # "Or, why his house?"
+    "Or, why his house?"
+
+# game/williamroute3.rpy:7521
+translate Schinese williamroute3b_97b2d989:
+
+    # "Either he must be responsible..."
+    "Either he must be responsible..."
+
+# game/williamroute3.rpy:7522
+translate Schinese williamroute3b_72f8d171:
+
+    # "Or there’s got to be a reason all of this is happening around him."
+    "Or there’s got to be a reason all of this is happening around him."
+
+# game/williamroute3.rpy:7523
+translate Schinese williamroute3b_d245fb22:
+
+    # "So which is it?"
+    "So which is it?"
+
+# game/williamroute3.rpy:7524
+translate Schinese williamroute3b_85cc9420:
+
+    # "Or is it both?"
+    "Or is it both?"
+
+# game/williamroute3.rpy:7525
+translate Schinese williamroute3b_28d57022:
+
+    # "That’s not the important question right now."
+    "That’s not the important question right now."
+
+# game/williamroute3.rpy:7526
+translate Schinese williamroute3b_a85b2875:
+
+    # "{i}What am I going to say to give me enough time to snoop around in that mansion?{/i}"
+    "{i}What am I going to say to give me enough time to snoop around in that mansion?{/i}"
+
+# game/williamroute3.rpy:7527
+translate Schinese williamroute3b_278af12e:
+
+    # "That’s the important one."
+    "That’s the important one."
+
+# game/williamroute3.rpy:7528
+translate Schinese williamroute3b_33471fbc:
+
+    # "There ought to be something in there that answers some of my questions."
+    "There ought to be something in there that answers some of my questions."
+
+# game/williamroute3.rpy:7529
+translate Schinese williamroute3b_fb6e33a2_1:
+
+    # "Shit."
+    "Shit."
+
+# game/williamroute3.rpy:7530
+translate Schinese williamroute3b_f0a3fa7f:
+
+    # "I’ve finished my cigarette already."
+    "I’ve finished my cigarette already."
+
+# game/williamroute3.rpy:7531
+translate Schinese williamroute3b_2521d867:
+
+    # "Oh well."
+    "Oh well."
+
+# game/williamroute3.rpy:7535
+translate Schinese williamroute3b_74ab96ed:
+
+    # "What I need to say will come to me."
+    "What I need to say will come to me."
+
+# game/williamroute3.rpy:7536
+translate Schinese williamroute3b_87319055:
+
+    # "It always does."
+    "It always does."
+
+# game/williamroute3.rpy:7538
+translate Schinese williamroute3b_d57804a7:
+
+    # "The sun beats down on the back of my neck as I climb the hill."
+    "The sun beats down on the back of my neck as I climb the hill."
+
+# game/williamroute3.rpy:7540
+translate Schinese williamroute3b_773c17f4:
+
+    # "A raccoon on the porch goes inside when he sees me."
+    "A raccoon on the porch goes inside when he sees me."
+
+# game/williamroute3.rpy:7541
+translate Schinese williamroute3b_36ec7cdb:
+
+    # "The wolf at the gate looks me up and down."
+    "The wolf at the gate looks me up and down."
+
+# game/williamroute3.rpy:7542
+translate Schinese williamroute3b_7277b78a:
+
+    # "So I do the same."
+    "So I do the same."
+
+# game/williamroute3.rpy:7543
+translate Schinese williamroute3b_b25ec39f:
+
+    # wi "\"I take it by your stares that you know who I am?\""
+    wi "\"I take it by your stares that you know who I am?\""
+
+# game/williamroute3.rpy:7544
+translate Schinese williamroute3b_1342a306:
+
+    # "Wolf" "\"Master Hendricks has been notified of your presence.\""
+    "Wolf" "\"Master Hendricks has been notified of your presence.\""
+
+# game/williamroute3.rpy:7545
+translate Schinese williamroute3b_fd84885d:
+
+    # "He has a hard look to him."
+    "He has a hard look to him."
+
+# game/williamroute3.rpy:7546
+translate Schinese williamroute3b_f6862953:
+
+    # "I crouch down on my knees, staring up at him."
+    "I crouch down on my knees, staring up at him."
+
+# game/williamroute3.rpy:7547
+translate Schinese williamroute3b_72091c2e:
+
+    # "I toss a pebble."
+    "I toss a pebble."
+
+# game/williamroute3.rpy:7548
+translate Schinese williamroute3b_70fdebcd:
+
+    # "He doesn’t look."
+    "He doesn’t look."
+
+# game/williamroute3.rpy:7549
+translate Schinese williamroute3b_da337a66:
+
+    # "His eyes stare straight out into the desert horizon."
+    "His eyes stare straight out into the desert horizon."
+
+# game/williamroute3.rpy:7550
+translate Schinese williamroute3b_be0e03af:
+
+    # "They wander lonely roads and bone-picked fields."
+    "They wander lonely roads and bone-picked fields."
+
+# game/williamroute3.rpy:7551
+translate Schinese williamroute3b_cb257902:
+
+    # "It’s as if he hasn’t had one challenging thought in years."
+    "It’s as if he hasn’t had one challenging thought in years."
+
+# game/williamroute3.rpy:7552
+translate Schinese williamroute3b_d32f6714:
+
+    # "There’s no complication whatsoever in what he has to do to protect his master."
+    "There’s no complication whatsoever in what he has to do to protect his master."
+
+# game/williamroute3.rpy:7553
+translate Schinese williamroute3b_b0c2ebfc:
+
+    # "I’m looking at a living corpse who stares back and doesn’t see me."
+    "I’m looking at a living corpse who stares back and doesn’t see me."
+
+# game/williamroute3.rpy:7554
+translate Schinese williamroute3b_07aba3ad:
+
+    # "Sometimes the officers would get like that in the city, too."
+    "Sometimes the officers would get like that in the city, too."
+
+# game/williamroute3.rpy:7555
+translate Schinese williamroute3b_ef0f8621:
+
+    # "When you spend your life shambling on, you can forget how to stop."
+    "When you spend your life shambling on, you can forget how to stop."
+
+# game/williamroute3.rpy:7559
+translate Schinese williamroute3b_78aba78f:
+
+    # jam "\"Is this a stakeout, sheriff?\""
+    jam "\"Is this a stakeout, sheriff?\""
+
+# game/williamroute3.rpy:7562
+translate Schinese williamroute3b_80acb6b5:
+
+    # "The guard presses a button and the gate opens, letting James stand aside, swiveling on his walking stick."
+    "The guard presses a button and the gate opens, letting James stand aside, swiveling on his walking stick."
+
+# game/williamroute3.rpy:7564
+translate Schinese williamroute3b_2825eaf3:
+
+    # jam "\"You don’t seem like the sort to squat unless you had your paws on your pistol.\""
+    jam "\"You don’t seem like the sort to squat unless you had your paws on your pistol.\""
+
+# game/williamroute3.rpy:7566
+translate Schinese williamroute3b_17f26c9f:
+
+    # wi "\"Everybody likes a little shade now and again, Mr. Hendricks.\""
+    wi "\"Everybody likes a little shade now and again, Mr. Hendricks.\""
+
+# game/williamroute3.rpy:7568
+translate Schinese williamroute3b_0882b4a5:
+
+    # jam "\"There’s far more of it inside.\""
+    jam "\"There’s far more of it inside.\""
+
+# game/williamroute3.rpy:7569
+translate Schinese williamroute3b_34f0e02a:
+
+    # jam "\"Shall you come in?\""
+    jam "\"Shall you come in?\""
+
+# game/williamroute3.rpy:7571
+translate Schinese williamroute3b_5d4c9e8d:
+
+    # wi "\"That’s why I’m here.\""
+    wi "\"That’s why I’m here.\""
+
+# game/williamroute3.rpy:7573
+translate Schinese williamroute3b_9dcf9bf2:
+
+    # jam "\"Good, good.\""
+    jam "\"Good, good.\""
+
+# game/williamroute3.rpy:7575
+translate Schinese williamroute3b_b2e16786:
+
+    # "His face sours when he looks at my claws."
+    "His face sours when he looks at my claws."
+
+# game/williamroute3.rpy:7576
+translate Schinese williamroute3b_4c5eee3d:
+
+    # jam "\"No pebbles this time.\""
+    jam "\"No pebbles this time.\""
+
+# game/williamroute3.rpy:7578
+translate Schinese williamroute3b_15ba70b0:
+
+    # "I show him my hands to let him know that they’re clean."
+    "I show him my hands to let him know that they’re clean."
+
+# game/williamroute3.rpy:7584
+translate Schinese williamroute3b_ce13f40e:
+
+    # "The raccoon opens the door for us, and I feel his gaze linger on the back of my head as we pass through the door."
+    "The raccoon opens the door for us, and I feel his gaze linger on the back of my head as we pass through the door."
+
+# game/williamroute3.rpy:7585
+translate Schinese williamroute3b_1d86b7c1:
+
+    # counk "\"James dear, who’s that at the door?\""
+    counk "\"James dear, who’s that at the door?\""
+
+# game/williamroute3.rpy:7586
+translate Schinese williamroute3b_81fb2bf7:
+
+    # "The sweet voice of a grown woman calls from the doorway."
+    "The sweet voice of a grown woman calls from the doorway."
+
+# game/williamroute3.rpy:7587
+translate Schinese williamroute3b_93a6a785:
+
+    # "But the head of a small ram pokes around the door frame."
+    "But the head of a small ram pokes around the door frame."
+
+# game/williamroute3.rpy:7588
+translate Schinese williamroute3b_cc94fe12:
+
+    # noaunk "\"Papa, who’s this?\""
+    noaunk "\"Papa, who’s this?\""
+
+# game/williamroute3.rpy:7590
+translate Schinese williamroute3b_bd5e4bdc:
+
+    # jam "\"A very special guest, my bonny boy.\""
+    jam "\"A very special guest, my bonny boy.\""
+
+# game/williamroute3.rpy:7593
+translate Schinese williamroute3b_dfd118dc:
+
+    # jam "\"Go wait with your mother in the den.\""
+    jam "\"Go wait with your mother in the den.\""
+
+# game/williamroute3.rpy:7595
+translate Schinese williamroute3b_7049e210:
+
+    # noaunk "\"But is that an {i}automatic{/i} handgun he has?\""
+    noaunk "\"But is that an {i}automatic{/i} handgun he has?\""
+
+# game/williamroute3.rpy:7597
+translate Schinese williamroute3b_9f6b94ee:
+
+    # jam "\"Noah, if you please.\""
+    jam "\"Noah, if you please.\""
+
+# game/williamroute3.rpy:7599
+translate Schinese williamroute3b_c7789bf2:
+
+    # "The boy’s lip curls and his posture turns into a sulk as he disappears around the door again."
+    "The boy’s lip curls and his posture turns into a sulk as he disappears around the door again."
+
+# game/williamroute3.rpy:7601
+translate Schinese williamroute3b_3a3107a3:
+
+    # jam "\"So very eager to end their childhoods early, boys.\""
+    jam "\"So very eager to end their childhoods early, boys.\""
+
+# game/williamroute3.rpy:7603
+translate Schinese williamroute3b_2fec5e28:
+
+    # jam "\"They’ll miss it when it’s gone.\""
+    jam "\"They’ll miss it when it’s gone.\""
+
+# game/williamroute3.rpy:7605
+translate Schinese williamroute3b_7408b904:
+
+    # "He takes my hat and puts it on his coat rack, regarding me carefully."
+    "He takes my hat and puts it on his coat rack, regarding me carefully."
+
+# game/williamroute3.rpy:7607
+translate Schinese williamroute3b_56699157:
+
+    # jam "\"Perhaps that’s a bit of a sore spot for you?\""
+    jam "\"Perhaps that’s a bit of a sore spot for you?\""
+
+# game/williamroute3.rpy:7609
+translate Schinese williamroute3b_0ab7182a:
+
+    # "I can never tell if he’s trying to get under my skin or if he’s just stupid."
+    "I can never tell if he’s trying to get under my skin or if he’s just stupid."
+
+# game/williamroute3.rpy:7610
+translate Schinese williamroute3b_39bf03da:
+
+    # "I don’t really care which is true so I go with the funnier answer."
+    "I don’t really care which is true so I go with the funnier answer."
+
+# game/williamroute3.rpy:7611
+translate Schinese williamroute3b_eb122b7d:
+
+    # wi "\"I don’t speak for others generally.\""
+    wi "\"I don’t speak for others generally.\""
+
+# game/williamroute3.rpy:7613
+translate Schinese williamroute3b_b099a89e:
+
+    # jam "\"Of course, of course.\""
+    jam "\"Of course, of course.\""
+
+# game/williamroute3.rpy:7615
+translate Schinese williamroute3b_27da4571:
+
+    # jam "\"Assumptions make an ass out of us all, don’t they?\""
+    jam "\"Assumptions make an ass out of us all, don’t they?\""
+
+# game/williamroute3.rpy:7617
+translate Schinese williamroute3b_bd4e00d0:
+
+    # "The cheer in his voice drops."
+    "The cheer in his voice drops."
+
+# game/williamroute3.rpy:7618
+translate Schinese williamroute3b_77be68d2:
+
+    # jam "\"So which assumptions have led you here today?\""
+    jam "\"So which assumptions have led you here today?\""
+
+# game/williamroute3.rpy:7619
+translate Schinese williamroute3b_0629ca5d:
+
+    # wi "\"I’m here to talk to you about that list you dropped on me in your fancy automobile.\""
+    wi "\"I’m here to talk to you about that list you dropped on me in your fancy automobile.\""
+
+# game/williamroute3.rpy:7621
+translate Schinese williamroute3b_de95a85c:
+
+    # jam "\"You are?\""
+    jam "\"You are?\""
+
+# game/williamroute3.rpy:7623
+translate Schinese williamroute3b_cc590e3a:
+
+    # "He sounds pleasantly surprised."
+    "He sounds pleasantly surprised."
+
+# game/williamroute3.rpy:7624
+translate Schinese williamroute3b_c5fa6fdf:
+
+    # "Good."
+    "Good."
+
+# game/williamroute3.rpy:7626
+translate Schinese williamroute3b_b7482144:
+
+    # jam "\"One of the ones I’m watching closely is here today.\""
+    jam "\"One of the ones I’m watching closely is here today.\""
+
+# game/williamroute3.rpy:7628
+translate Schinese williamroute3b_a75b4c85:
+
+    # wi "\"Oh is he now?\""
+    wi "\"Oh is he now?\""
+
+# game/williamroute3.rpy:7630
+translate Schinese williamroute3b_ec729e86:
+
+    # jam "\"His lips are tight, but perhaps butter and honey can grease wheels better than oil.\""
+    jam "\"His lips are tight, but perhaps butter and honey can grease wheels better than oil.\""
+
+# game/williamroute3.rpy:7632
+translate Schinese williamroute3b_810ef051:
+
+    # "That’s a malapropism."
+    "That’s a malapropism."
+
+# game/williamroute3.rpy:7633
+translate Schinese williamroute3b_03b93c9c:
+
+    # wi "\"Okay.\""
+    wi "\"Okay.\""
+
+# game/williamroute3.rpy:7635
+translate Schinese williamroute3b_2c53cea7:
+
+    # "James is still saying things but I’m too distracted to listen."
+    "James is still saying things but I’m too distracted to listen."
+
+# game/williamroute3.rpy:7637
+translate Schinese williamroute3b_7824399d:
+
+    # "The grand entrance of their foyer shows off a massive painting of a older Ram looking down at us."
+    "The grand entrance of their foyer shows off a massive painting of a older Ram looking down at us."
+
+# game/williamroute3.rpy:7639
+translate Schinese williamroute3b_b155a16d:
+
+    # "It’s positioned low enough to the ground that it gives me pause."
+    "It’s positioned low enough to the ground that it gives me pause."
+
+# game/williamroute3.rpy:7640
+translate Schinese williamroute3b_796b5e22:
+
+    # wi "\"Before we move on, tell me a bit about that painting.\""
+    wi "\"Before we move on, tell me a bit about that painting.\""
+
+# game/williamroute3.rpy:7642
+translate Schinese williamroute3b_b5af3abc:
+
+    # "He looks up and smiles."
+    "He looks up and smiles."
+
+# game/williamroute3.rpy:7644
+translate Schinese williamroute3b_929132d7:
+
+    # jam "\"That painting?\""
+    jam "\"That painting?\""
+
+# game/williamroute3.rpy:7646
+translate Schinese williamroute3b_08047b24:
+
+    # wi "\"Yeah.\""
+    wi "\"Yeah.\""
+
+# game/williamroute3.rpy:7648
+translate Schinese williamroute3b_72bd3756:
+
+    # jam "\"Well he’s the true lord of the manor.\""
+    jam "\"Well he’s the true lord of the manor.\""
+
+# game/williamroute3.rpy:7650
+translate Schinese williamroute3b_0ce824d7:
+
+    # jam "\"That’s my grandfather.\""
+    jam "\"That’s my grandfather.\""
+
+# game/williamroute3.rpy:7652
+translate Schinese williamroute3b_94004a03:
+
+    # "Oh."
+    "Oh."
+
+# game/williamroute3.rpy:7653
+translate Schinese williamroute3b_2e41f687:
+
+    # "Him."
+    "Him."
+
+# game/williamroute3.rpy:7654
+translate Schinese williamroute3b_64b03b76:
+
+    # "I’ve heard a lot about him."
+    "I’ve heard a lot about him."
+
+# game/williamroute3.rpy:7655
+translate Schinese williamroute3b_ce408bf5:
+
+    # "But not from James."
+    "But not from James."
+
+# game/williamroute3.rpy:7656
+translate Schinese williamroute3b_296157fa:
+
+    # wi "\"So what was he like?\""
+    wi "\"So what was he like?\""
+
+# game/williamroute3.rpy:7658
+translate Schinese williamroute3b_298412a3:
+
+    # jam "\"Determined. Persistent.\""
+    jam "\"Determined. Persistent.\""
+
+# game/williamroute3.rpy:7660
+translate Schinese williamroute3b_ed632dad:
+
+    # jam "\"My mother said that he was the most charming man in our family.\""
+    jam "\"My mother said that he was the most charming man in our family.\""
+
+# game/williamroute3.rpy:7663
+translate Schinese williamroute3b_bf525b7f:
+
+    # jam "\"Hardly surprising considering you’d have to be to get this many people to pack up their things and live here out in the middle of the desert in the first place.\""
+    jam "\"Hardly surprising considering you’d have to be to get this many people to pack up their things and live here out in the middle of the desert in the first place.\""
+
+# game/williamroute3.rpy:7665
+translate Schinese williamroute3b_63d23470:
+
+    # "I squint, staring a little more at the painting."
+    "I squint, staring a little more at the painting."
+
+# game/williamroute3.rpy:7666
+translate Schinese williamroute3b_606062e9:
+
+    # wi "\"Oh yeah?\""
+    wi "\"Oh yeah?\""
+
+# game/williamroute3.rpy:7667
+translate Schinese williamroute3b_98d269f9:
+
+    # wi "\"Tell me more.\""
+    wi "\"Tell me more.\""
+
+# game/williamroute3.rpy:7669
+translate Schinese williamroute3b_55a49eb2:
+
+    # jam "\"Well there’s a lot to tell.\""
+    jam "\"Well there’s a lot to tell.\""
+
+# game/williamroute3.rpy:7672
+translate Schinese williamroute3b_ca61e2b3:
+
+    # jam "\"You know, we wouldn’t be standing here if it weren’t for him.\""
+    jam "\"You know, we wouldn’t be standing here if it weren’t for him.\""
+
+# game/williamroute3.rpy:7675
+translate Schinese williamroute3b_5469a02a:
+
+    # jam "\"He and a business partner scouted the wilderness for months before they struck gold at the first site which would become the CSCG mining operation.\""
+    jam "\"He and a business partner scouted the wilderness for months before they struck gold at the first site which would become the CSCG mining operation.\""
+
+# game/williamroute3.rpy:7677
+translate Schinese williamroute3b_24989fb7:
+
+    # wi "\"Business partner?\""
+    wi "\"Business partner?\""
+
+# game/williamroute3.rpy:7678
+translate Schinese williamroute3b_6695f6f8:
+
+    # wi "\"Was that Brigg’s father?\""
+    wi "\"Was that Brigg’s father?\""
+
+# game/williamroute3.rpy:7680
+translate Schinese williamroute3b_0ace316a:
+
+    # jam "\"No, no, Briggs was just a pup when he worked under my father.\""
+    jam "\"No, no, Briggs was just a pup when he worked under my father.\""
+
+# game/williamroute3.rpy:7683
+translate Schinese williamroute3b_0d61f2aa:
+
+    # jam "\"Alas, he did not know my grandfather.\""
+    jam "\"Alas, he did not know my grandfather.\""
+
+# game/williamroute3.rpy:7685
+translate Schinese williamroute3b_e50a3c26:
+
+    # "Most paintings have a gap in their frames."
+    "Most paintings have a gap in their frames."
+
+# game/williamroute3.rpy:7686
+translate Schinese williamroute3b_3b4f7171:
+
+    # "That one looks welded to the wall."
+    "That one looks welded to the wall."
+
+# game/williamroute3.rpy:7687
+translate Schinese williamroute3b_85096e84:
+
+    # wi "\"So what can you tell me about his original business partner?\""
+    wi "\"So what can you tell me about his original business partner?\""
+
+# game/williamroute3.rpy:7689
+translate Schinese williamroute3b_4d59759a:
+
+    # "I start climbing the stairs."
+    "I start climbing the stairs."
+
+# game/williamroute3.rpy:7691
+translate Schinese williamroute3b_4626ddda:
+
+    # jam "\"Well, he’s not very important.\""
+    jam "\"Well, he’s not very important.\""
+
+# game/williamroute3.rpy:7693
+translate Schinese williamroute3b_631638f0:
+
+    # "He clears he throat loudly enough for me to turn around."
+    "He clears he throat loudly enough for me to turn around."
+
+# game/williamroute3.rpy:7696
+translate Schinese williamroute3b_26ef897b:
+
+    # jam "\"This way, Sheriff.\""
+    jam "\"This way, Sheriff.\""
+
+# game/williamroute3.rpy:7698
+translate Schinese williamroute3b_041aee69:
+
+    # "I bite the inside of my cheek."
+    "I bite the inside of my cheek."
+
+# game/williamroute3.rpy:7699
+translate Schinese williamroute3b_a3df702c:
+
+    # "I want to get a closer look at that painting."
+    "I want to get a closer look at that painting."
+
+# game/williamroute3.rpy:7705
+translate Schinese williamroute3b_aaee12cd:
+
+    # "He directs me down the right hall, which leads into a richly decorated parlor."
+    "He directs me down the right hall, which leads into a richly decorated parlor."
+
+# game/williamroute3.rpy:7706
+translate Schinese williamroute3b_912516d2:
+
+    # "It smells like lemon, huckleberries, earl grey and honey cakes."
+    "It smells like lemon, huckleberries, earl grey and honey cakes."
+
+# game/williamroute3.rpy:7707
+translate Schinese williamroute3b_a5ee1191:
+
+    # "I get a quick look around the room."
+    "I get a quick look around the room."
+
+# game/williamroute3.rpy:7708
+translate Schinese williamroute3b_9b01ee96:
+
+    # "The child from the hallway is poking at logs in the fire place with a red iron poker."
+    "The child from the hallway is poking at logs in the fire place with a red iron poker."
+
+# game/williamroute3.rpy:7709
+translate Schinese williamroute3b_243c8728:
+
+    # "But then I see somebody I didn’t expect to see there."
+    "But then I see somebody I didn’t expect to see there."
+
+# game/williamroute3.rpy:7714
+translate Schinese williamroute3b_54d9487d:
+
+    # "It’s Nikolai, who looks very uncomfortable, stuffed into a wicker basket chair, holding a very fine teacup in one hand."
+    "It’s Nikolai, who looks very uncomfortable, stuffed into a wicker basket chair, holding a very fine teacup in one hand."
+
+# game/williamroute3.rpy:7715
+translate Schinese williamroute3b_33181598:
+
+    # "A well-dress ewe, who I can only assume is Mrs. Hendricks, is reading a book on her wicker basket lounge."
+    "A well-dress ewe, who I can only assume is Mrs. Hendricks, is reading a book on her wicker basket lounge."
+
+# game/williamroute3.rpy:7717
+translate Schinese williamroute3b_31822f4f:
+
+    # "She puts the book down when we enter the room and stands up."
+    "She puts the book down when we enter the room and stands up."
+
+# game/williamroute3.rpy:7719
+translate Schinese williamroute3b_00a429f6:
+
+    # mrs "\"Oh my goodness gracious is that the sheriff?\""
+    mrs "\"Oh my goodness gracious is that the sheriff?\""
+
+# game/williamroute3.rpy:7721
+translate Schinese williamroute3b_4077a621:
+
+    # "The boy shuffles sideways, pretending not to look at me, but his eyes are on my gun holster."
+    "The boy shuffles sideways, pretending not to look at me, but his eyes are on my gun holster."
+
+# game/williamroute3.rpy:7723
+translate Schinese williamroute3b_b47d0181:
+
+    # "Nik turns slowly to see me."
+    "Nik turns slowly to see me."
+
+# game/williamroute3.rpy:7724
+translate Schinese williamroute3b_14cd00f8:
+
+    # "He looks almost grateful."
+    "He looks almost grateful."
+
+# game/williamroute3.rpy:7726
+translate Schinese williamroute3b_c9433b1f:
+
+    # mrs "\"I do not hope we’ve done anything wrong?\""
+    mrs "\"I do not hope we’ve done anything wrong?\""
+
+# game/williamroute3.rpy:7728
+translate Schinese williamroute3b_ac9d7eff:
+
+    # "That remains to be seen."
+    "That remains to be seen."
+
+# game/williamroute3.rpy:7730
+translate Schinese williamroute3b_f6d39031:
+
+    # wi "\"I’m just here to talk some business over with Mr. Hendricks.\""
+    wi "\"I’m just here to talk some business over with Mr. Hendricks.\""
+
+# game/williamroute3.rpy:7731
+translate Schinese williamroute3b_34282ebd:
+
+    # wi "\"You keep a very lovely home.\""
+    wi "\"You keep a very lovely home.\""
+
+# game/williamroute3.rpy:7733
+translate Schinese williamroute3b_d3fe55aa:
+
+    # mrs "\"Oh please, sir, I’m just an amateur decorator!\""
+    mrs "\"Oh please, sir, I’m just an amateur decorator!\""
+
+# game/williamroute3.rpy:7736
+translate Schinese williamroute3b_fe738e39:
+
+    # mrs "\"The real credit should go to our principled and fastidious staff.\""
+    mrs "\"The real credit should go to our principled and fastidious staff.\""
+
+# game/williamroute3.rpy:7739
+translate Schinese williamroute3b_d044702d:
+
+    # mrs "\"Please, come sit with us!\""
+    mrs "\"Please, come sit with us!\""
+
+# game/williamroute3.rpy:7741
+translate Schinese williamroute3b_6fd85667:
+
+    # ni "\"Yes, come join us for tea William.\""
+    ni "\"Yes, come join us for tea William.\""
+
+# game/williamroute3.rpy:7743
+translate Schinese williamroute3b_eb714120:
+
+    # "This is really fuckin’ weird."
+    "This is really fuckin’ weird."
+
+# game/williamroute3.rpy:7744
+translate Schinese williamroute3b_94cd4e76:
+
+    # "James points in between myself and the badger."
+    "James points in between myself and the badger."
+
+# game/williamroute3.rpy:7746
+translate Schinese williamroute3b_86b665c2:
+
+    # jam "\"The two of you know one another, yes?\""
+    jam "\"The two of you know one another, yes?\""
+
+# game/williamroute3.rpy:7748
+translate Schinese williamroute3b_85ce34e9:
+
+    # wi "\"It’s part of my job to know most people.\""
+    wi "\"It’s part of my job to know most people.\""
+
+# game/williamroute3.rpy:7750
+translate Schinese williamroute3b_3576ec1c:
+
+    # jam "\"You can drop the rough and tumble act.\""
+    jam "\"You can drop the rough and tumble act.\""
+
+# game/williamroute3.rpy:7751
+translate Schinese williamroute3b_0606be91:
+
+    # jam "\"Even a man as sullen as yourself who’s married to duty has to have friends.\""
+    jam "\"Even a man as sullen as yourself who’s married to duty has to have friends.\""
+
+# game/williamroute3.rpy:7753
+translate Schinese williamroute3b_c7095e97:
+
+    # "I feel my hand slip into my pocket for a cigarette out of habit but stop myself."
+    "I feel my hand slip into my pocket for a cigarette out of habit but stop myself."
+
+# game/williamroute3.rpy:7754
+translate Schinese williamroute3b_f82c51a3:
+
+    # wi "\"Yes.\""
+    wi "\"Yes.\""
+
+# game/williamroute3.rpy:7755
+translate Schinese williamroute3b_5181620b:
+
+    # wi "\"Nik is a friend of mine.\""
+    wi "\"Nik is a friend of mine.\""
+
+# game/williamroute3.rpy:7757
+translate Schinese williamroute3b_ea60995e:
+
+    # jam "\"I would like to think of Nicholas as a friend of mine too.\""
+    jam "\"I would like to think of Nicholas as a friend of mine too.\""
+
+# game/williamroute3.rpy:7759
+translate Schinese williamroute3b_1a183f60:
+
+    # "Nik gives me a sidelook telling me this is absolutely not the case."
+    "Nik gives me a sidelook telling me this is absolutely not the case."
+
+# game/williamroute3.rpy:7760
+translate Schinese williamroute3b_342493cc:
+
+    # "Not that I would have needed a confirmation."
+    "Not that I would have needed a confirmation."
+
+# game/williamroute3.rpy:7764
+translate Schinese williamroute3b_a7f64dfe:
+
+    # mrs "\"Aww, well that’s just so sweet!\""
+    mrs "\"Aww, well that’s just so sweet!\""
+
+# game/williamroute3.rpy:7767
+translate Schinese williamroute3b_721ece56:
+
+    # mrs "\"It can be really hard for James to make friends out here, what with the awkwardness that comes from the nature of my husband’s work.\""
+    mrs "\"It can be really hard for James to make friends out here, what with the awkwardness that comes from the nature of my husband’s work.\""
+
+# game/williamroute3.rpy:7769
+translate Schinese williamroute3b_df97e8be:
+
+    # "She means the fact that almost everybody works under him."
+    "She means the fact that almost everybody works under him."
+
+# game/williamroute3.rpy:7771
+translate Schinese williamroute3b_3c86f999:
+
+    # jam "\"Well that’s not entirely true.\""
+    jam "\"Well that’s not entirely true.\""
+
+# game/williamroute3.rpy:7774
+translate Schinese williamroute3b_e6f7fd5a:
+
+    # mrs "\"Oh, please do forgive me if I misspoke!\""
+    mrs "\"Oh, please do forgive me if I misspoke!\""
+
+# game/williamroute3.rpy:7776
+translate Schinese williamroute3b_af3b41f7:
+
+    # "She seems nice, but my mind isn’t really a part of this conversation."
+    "She seems nice, but my mind isn’t really a part of this conversation."
+
+# game/williamroute3.rpy:7777
+translate Schinese williamroute3b_f99fd7b0:
+
+    # "I’m thinking about why Nik is here, and when I’m going to have the opportunity ask him about it."
+    "I’m thinking about why Nik is here, and when I’m going to have the opportunity ask him about it."
+
+# game/williamroute3.rpy:7778
+translate Schinese williamroute3b_0c799245:
+
+    # "I think it should happen before I go."
+    "I think it should happen before I go."
+
+# game/williamroute3.rpy:7779
+translate Schinese williamroute3b_bc72fd0f:
+
+    # "I look around the room to see if there are any clues."
+    "I look around the room to see if there are any clues."
+
+# game/williamroute3.rpy:7780
+translate Schinese williamroute3b_b446fc8d:
+
+    # "Nik’s clothes look clean, which means he probably didn’t go to work today."
+    "Nik’s clothes look clean, which means he probably didn’t go to work today."
+
+# game/williamroute3.rpy:7781
+translate Schinese williamroute3b_ed0a7aa0:
+
+    # "James’ eyes are on me, naturally, so I don’t make any sudden glances."
+    "James’ eyes are on me, naturally, so I don’t make any sudden glances."
+
+# game/williamroute3.rpy:7784
+translate Schinese williamroute3b_ccdec202:
+
+    # "On the coffee table I notice a replica of the house made out of cardboard."
+    "On the coffee table I notice a replica of the house made out of cardboard."
+
+# game/williamroute3.rpy:7785
+translate Schinese williamroute3b_656c9047:
+
+    # "The front is the very familiar facade of a federalist plantation style home."
+    "The front is the very familiar facade of a federalist plantation style home."
+
+# game/williamroute3.rpy:7786
+translate Schinese williamroute3b_53386e4f:
+
+    # "But the back extrudes much farther than expected."
+    "But the back extrudes much farther than expected."
+
+# game/williamroute3.rpy:7787
+translate Schinese williamroute3b_0b1a3598:
+
+    # "There are wings, and turns, and what looks to be a center room with what’s meant to be a glass roof."
+    "There are wings, and turns, and what looks to be a center room with what’s meant to be a glass roof."
+
+# game/williamroute3.rpy:7789
+translate Schinese williamroute3b_539c40a0:
+
+    # wi "\"Who built the cardboard model?\""
+    wi "\"Who built the cardboard model?\""
+
+# game/williamroute3.rpy:7791
+translate Schinese williamroute3b_2723f275:
+
+    # mrs "\"Oh, I’d call that thing more of an endeavor than a model.\""
+    mrs "\"Oh, I’d call that thing more of an endeavor than a model.\""
+
+# game/williamroute3.rpy:7794
+translate Schinese williamroute3b_b60a0c6b:
+
+    # jam "\"Quite so.\""
+    jam "\"Quite so.\""
+
+# game/williamroute3.rpy:7796
+translate Schinese williamroute3b_e31f6075:
+
+    # wi "\"What do y’all mean by that?\""
+    wi "\"What do y’all mean by that?\""
+
+# game/williamroute3.rpy:7798
+translate Schinese williamroute3b_bb0fa793:
+
+    # jam "\"This is my attempt at scaling the house.\""
+    jam "\"This is my attempt at scaling the house.\""
+
+# game/williamroute3.rpy:7800
+translate Schinese williamroute3b_a1d2275f:
+
+    # "I cock my brow at the both of them."
+    "I cock my brow at the both of them."
+
+# game/williamroute3.rpy:7801
+translate Schinese williamroute3b_6aa65d56:
+
+    # wi "\"Make it simple for me.\""
+    wi "\"Make it simple for me.\""
+
+# game/williamroute3.rpy:7803
+translate Schinese williamroute3b_a0459339:
+
+    # jam "\"My grandfather, the original architect of this house, had many planned renovations that he never entreated to share.\""
+    jam "\"My grandfather, the original architect of this house, had many planned renovations that he never entreated to share.\""
+
+# game/williamroute3.rpy:7805
+translate Schinese williamroute3b_9bbd0c44:
+
+    # "Goddamn."
+    "Goddamn."
+
+# game/williamroute3.rpy:7806
+translate Schinese williamroute3b_afff8055:
+
+    # "So they have so much room up on this hill that they’ve gone and lost track of it."
+    "So they have so much room up on this hill that they’ve gone and lost track of it."
+
+# game/williamroute3.rpy:7807
+translate Schinese williamroute3b_2f890299:
+
+    # wi "\"You mean he didn’t leave floor plans of his own house to y’all?\""
+    wi "\"You mean he didn’t leave floor plans of his own house to y’all?\""
+
+# game/williamroute3.rpy:7809
+translate Schinese williamroute3b_e27c7ec7:
+
+    # jam "\"If he did, he lost them.\""
+    jam "\"If he did, he lost them.\""
+
+# game/williamroute3.rpy:7811
+translate Schinese williamroute3b_2e55c770:
+
+    # "Mrs. Hendricks makes a noise while sipping her tea and shaking her finger."
+    "Mrs. Hendricks makes a noise while sipping her tea and shaking her finger."
+
+# game/williamroute3.rpy:7813
+translate Schinese williamroute3b_7debec9b:
+
+    # "She puts the cup down, wipes her mouth with a kerchief, and then speaks up."
+    "She puts the cup down, wipes her mouth with a kerchief, and then speaks up."
+
+# game/williamroute3.rpy:7815
+translate Schinese williamroute3b_bb071852:
+
+    # mrs "\"But I have a theory that he had no interest in sharing them.\""
+    mrs "\"But I have a theory that he had no interest in sharing them.\""
+
+# game/williamroute3.rpy:7818
+translate Schinese williamroute3b_5af7d8ef:
+
+    # jam "\"Well he had a great deal of interest in antiquity, but an even greater interest in the late medieval period.\""
+    jam "\"Well he had a great deal of interest in antiquity, but an even greater interest in the late medieval period.\""
+
+# game/williamroute3.rpy:7820
+translate Schinese williamroute3b_c66e894a:
+
+    # wi "\"You don’t say.\""
+    wi "\"You don’t say.\""
+
+# game/williamroute3.rpy:7822
+translate Schinese williamroute3b_86b810b7:
+
+    # jam "\"Take the outside of our house for instance.\""
+    jam "\"Take the outside of our house for instance.\""
+
+# game/williamroute3.rpy:7824
+translate Schinese williamroute3b_f61578f5:
+
+    # jam "\"The exterior belies a homey manor, but the bones are something else entirely.\""
+    jam "\"The exterior belies a homey manor, but the bones are something else entirely.\""
+
+# game/williamroute3.rpy:7827
+translate Schinese williamroute3b_ca05a625:
+
+    # mrs "\"There are doors to nowhere.\""
+    mrs "\"There are doors to nowhere.\""
+
+# game/williamroute3.rpy:7830
+translate Schinese williamroute3b_da910d7b:
+
+    # jam "\"Or more like they were clearly doors to somewhere, but that somewhere never got to be built.\""
+    jam "\"Or more like they were clearly doors to somewhere, but that somewhere never got to be built.\""
+
+# game/williamroute3.rpy:7832
+translate Schinese williamroute3b_97fc3352:
+
+    # jam "\"My grandfather didn’t want a manor, he wanted a citadel.\""
+    jam "\"My grandfather didn’t want a manor, he wanted a citadel.\""
+
+# game/williamroute3.rpy:7834
+translate Schinese williamroute3b_9f9ec9ca:
+
+    # wi "\"So what do you want?\""
+    wi "\"So what do you want?\""
+
+# game/williamroute3.rpy:7836
+translate Schinese williamroute3b_2c076851:
+
+    # jam "\"Me?\""
+    jam "\"Me?\""
+
+# game/williamroute3.rpy:7838
+translate Schinese williamroute3b_b53da8b8:
+
+    # wi "\"Do you plan to take up his work?\""
+    wi "\"Do you plan to take up his work?\""
+
+# game/williamroute3.rpy:7840
+translate Schinese williamroute3b_3bd95d40:
+
+    # jam "\"I’ve already started plans, hence the maquette.\""
+    jam "\"I’ve already started plans, hence the maquette.\""
+
+# game/williamroute3.rpy:7843
+translate Schinese williamroute3b_aa88c773:
+
+    # jam "\"But what’s most interesting to me is how committed he was to his heritage.\""
+    jam "\"But what’s most interesting to me is how committed he was to his heritage.\""
+
+# game/williamroute3.rpy:7846
+translate Schinese williamroute3b_5c121e61:
+
+    # jam "\"My grandfather grew up experiencing a country full green hills with expanding ruins.\""
+    jam "\"My grandfather grew up experiencing a country full green hills with expanding ruins.\""
+
+# game/williamroute3.rpy:7849
+translate Schinese williamroute3b_579def37:
+
+    # jam "\"He was a lord without a castle, until he came to this country, and he started to build.\""
+    jam "\"He was a lord without a castle, until he came to this country, and he started to build.\""
+
+# game/williamroute3.rpy:7851
+translate Schinese williamroute3b_42a5e4e5:
+
+    # jam "\"His vision is certainly unfinished, and I don’t need any floor plans to confirm that.\""
+    jam "\"His vision is certainly unfinished, and I don’t need any floor plans to confirm that.\""
+
+# game/williamroute3.rpy:7853
+translate Schinese williamroute3b_ad5e0310:
+
+    # "There’s a lot of convenient deniability in his story."
+    "There’s a lot of convenient deniability in his story."
+
+# game/williamroute3.rpy:7854
+translate Schinese williamroute3b_46c22d05:
+
+    # "If something were occurring in his house he could claim he didn’t know about it."
+    "If something were occurring in his house he could claim he didn’t know about it."
+
+# game/williamroute3.rpy:7855
+translate Schinese williamroute3b_d417ff03:
+
+    # "What makes me nervous is that I don’t entirely think he’s lying to me."
+    "What makes me nervous is that I don’t entirely think he’s lying to me."
+
+# game/williamroute3.rpy:7856
+translate Schinese williamroute3b_e92ec236:
+
+    # "This place is huge, and according to the town records, it was huge before his birth."
+    "This place is huge, and according to the town records, it was huge before his birth."
+
+# game/williamroute3.rpy:7857
+translate Schinese williamroute3b_b451104a:
+
+    # "Who knows what he’s added or removed to the interior."
+    "Who knows what he’s added or removed to the interior."
+
+# game/williamroute3.rpy:7859
+translate Schinese williamroute3b_65931c78:
+
+    # mrs "\"The problem with big houses is that they were meant for big company.\""
+    mrs "\"The problem with big houses is that they were meant for big company.\""
+
+# game/williamroute3.rpy:7862
+translate Schinese williamroute3b_84d95d52:
+
+    # jam "\"I feel we have plenty of regular company, wife.\""
+    jam "\"I feel we have plenty of regular company, wife.\""
+
+# game/williamroute3.rpy:7865
+translate Schinese williamroute3b_5a6bd164:
+
+    # mrs "\"Don’t you wife me.\""
+    mrs "\"Don’t you wife me.\""
+
+# game/williamroute3.rpy:7867
+translate Schinese williamroute3b_2c25e64e:
+
+    # "She crosses her hooves and clasps them to her bosom."
+    "She crosses her hooves and clasps them to her bosom."
+
+# game/williamroute3.rpy:7870
+translate Schinese williamroute3b_3e621fa4:
+
+    # mrs "\"I just meant to say that most of my family still lives out east, and they’re very close to James.\""
+    mrs "\"I just meant to say that most of my family still lives out east, and they’re very close to James.\""
+
+# game/williamroute3.rpy:7872
+translate Schinese williamroute3b_0f13ba04:
+
+    # mrs "\"It would take them a week just to travel and see me.\""
+    mrs "\"It would take them a week just to travel and see me.\""
+
+# game/williamroute3.rpy:7875
+translate Schinese williamroute3b_1e90a93d:
+
+    # mrs "\"The only time we get to see them is late August when we go off to see the coast.\""
+    mrs "\"The only time we get to see them is late August when we go off to see the coast.\""
+
+# game/williamroute3.rpy:7877
+translate Schinese williamroute3b_d9628080:
+
+    # mrs "\"But Mr. Krol is such the perfect gentleman that I should love it if he kept coming back.\""
+    mrs "\"But Mr. Krol is such the perfect gentleman that I should love it if he kept coming back.\""
+
+# game/williamroute3.rpy:7880
+translate Schinese williamroute3b_633b0164:
+
+    # ni "\"Thank you Mrs. Hendricks.\""
+    ni "\"Thank you Mrs. Hendricks.\""
+
+# game/williamroute3.rpy:7883
+translate Schinese williamroute3b_28e9c6a9:
+
+    # mrs "\"Please, call me Cordelia.\""
+    mrs "\"Please, call me Cordelia.\""
+
+# game/williamroute3.rpy:7886
+translate Schinese williamroute3b_ce845a31:
+
+    # "So she’s lonely then?"
+    "So she’s lonely then?"
+
+# game/williamroute3.rpy:7887
+translate Schinese williamroute3b_2dc9ff88:
+
+    # "Lonely people love to talk."
+    "Lonely people love to talk."
+
+# game/williamroute3.rpy:7888
+translate Schinese williamroute3b_c5fa6fdf_1:
+
+    # "Good."
+    "Good."
+
+# game/williamroute3.rpy:7889
+translate Schinese williamroute3b_276c1491:
+
+    # "This is my chance."
+    "This is my chance."
+
+# game/williamroute3.rpy:7890
+translate Schinese williamroute3b_616fa717:
+
+    # "I have to lay this on thick, but not come across desperate."
+    "I have to lay this on thick, but not come across desperate."
+
+# game/williamroute3.rpy:7891
+translate Schinese williamroute3b_9042bc1c:
+
+    # "My chances will reveal themselves in the pauses."
+    "My chances will reveal themselves in the pauses."
+
+# game/williamroute3.rpy:7896
+translate Schinese williamroute3b_970f5a93:
+
+    # wi "\"Ma’am, I’m afraid I have a terrible confession to make.\""
+    wi "\"Ma’am, I’m afraid I have a terrible confession to make.\""
+
+# game/williamroute3.rpy:7898
+translate Schinese williamroute3b_2be5702e:
+
+    # mrs "\"A confession?\""
+    mrs "\"A confession?\""
+
+# game/williamroute3.rpy:7902
+translate Schinese williamroute3b_9537004f:
+
+    # "Nik and James turn to me and give me looks as if they want to know what's going on through my head and what I’m going to say next."
+    "Nik and James turn to me and give me looks as if they want to know what's going on through my head and what I’m going to say next."
+
+# game/williamroute3.rpy:7904
+translate Schinese williamroute3b_4ac278ff:
+
+    # wi "\"First let me start by saying that before coming to Echo I worked with the BOI as a detective.\""
+    wi "\"First let me start by saying that before coming to Echo I worked with the BOI as a detective.\""
+
+# game/williamroute3.rpy:7905
+translate Schinese williamroute3b_2256547f:
+
+    # wi "\"Most of my cases pertained to stalkers and agents of foreign interference.\""
+    wi "\"Most of my cases pertained to stalkers and agents of foreign interference.\""
+
+# game/williamroute3.rpy:7906
+translate Schinese williamroute3b_5808dc47:
+
+    # wi "\"But corruption at home became my priority when I caught on to the activities of the son of one of the city’s biggest mafiosos by sticking my nose where it didn’t belong.\""
+    wi "\"But corruption at home became my priority when I caught on to the activities of the son of one of the city’s biggest mafiosos by sticking my nose where it didn’t belong.\""
+
+# game/williamroute3.rpy:7907
+translate Schinese williamroute3b_df8d2a0b:
+
+    # wi "\"His name was Phillip Momo Antonelli, but he liked to call himself Big Momo, after his granddaddy.\""
+    wi "\"His name was Phillip Momo Antonelli, but he liked to call himself Big Momo, after his granddaddy.\""
+
+# game/williamroute3.rpy:7908
+translate Schinese williamroute3b_dc8846ec:
+
+    # wi "\"In spite of his criminal acts, he was well-liked.\""
+    wi "\"In spite of his criminal acts, he was well-liked.\""
+
+# game/williamroute3.rpy:7909
+translate Schinese williamroute3b_c55688e2:
+
+    # "I give James a look to make sure he’s paying attention to that."
+    "I give James a look to make sure he’s paying attention to that."
+
+# game/williamroute3.rpy:7910
+translate Schinese williamroute3b_42fa8818:
+
+    # "But he’s just listening patiently, wearing the false smirk of a soda jerk."
+    "But he’s just listening patiently, wearing the false smirk of a soda jerk."
+
+# game/williamroute3.rpy:7911
+translate Schinese williamroute3b_eb39c1fd:
+
+    # wi "\"Antonelli was a deeply religious man...\""
+    wi "\"Antonelli was a deeply religious man...\""
+
+# game/williamroute3.rpy:7912
+translate Schinese williamroute3b_371b968d:
+
+    # wi "\"Most are in those circle, as paradoxical as it may seem.\""
+    wi "\"Most are in those circle, as paradoxical as it may seem.\""
+
+# game/williamroute3.rpy:7913
+translate Schinese williamroute3b_976e4e1d:
+
+    # wi "\"But part of what made him so hard to catch wasn’t just his pristine reputation-- it was that he rarely conducted his crimes himself.\""
+    wi "\"But part of what made him so hard to catch wasn’t just his pristine reputation-- it was that he rarely conducted his crimes himself.\""
+
+# game/williamroute3.rpy:7914
+translate Schinese williamroute3b_3fbe2981:
+
+    # wi "\"He always had an ironclad alibi.\""
+    wi "\"He always had an ironclad alibi.\""
+
+# game/williamroute3.rpy:7915
+translate Schinese williamroute3b_98ff871b:
+
+    # wi "\"His orders of these violent crimes couldn’t be linked to any of outfits loyal to him.\""
+    wi "\"His orders of these violent crimes couldn’t be linked to any of outfits loyal to him.\""
+
+# game/williamroute3.rpy:7916
+translate Schinese williamroute3b_6d027c09:
+
+    # wi "\"But funny enough...\""
+    wi "\"But funny enough...\""
+
+# game/williamroute3.rpy:7917
+translate Schinese williamroute3b_29c0e533:
+
+    # "I look around to make sure if the rest of the room is listening."
+    "I look around to make sure if the rest of the room is listening."
+
+# game/williamroute3.rpy:7918
+translate Schinese williamroute3b_d43f8a5f:
+
+    # wi "\"He always left something behind for me to look for.\""
+    wi "\"He always left something behind for me to look for.\""
+
+# game/williamroute3.rpy:7919
+translate Schinese williamroute3b_73cefdbc:
+
+    # wi "\"In his case, that something was handwritten notes carried in several copies of identical looking suitcases through the L-Train in broad daylight.\""
+    wi "\"In his case, that something was handwritten notes carried in several copies of identical looking suitcases through the L-Train in broad daylight.\""
+
+# game/williamroute3.rpy:7921
+translate Schinese williamroute3b_af4c3c2b:
+
+    # mrs "\"What’s the L-train?\""
+    mrs "\"What’s the L-train?\""
+
+# game/williamroute3.rpy:7923
+translate Schinese williamroute3b_470a5e0e:
+
+    # wi "\"The jewel of the city.\""
+    wi "\"The jewel of the city.\""
+
+# game/williamroute3.rpy:7925
+translate Schinese williamroute3b_ce0b93eb:
+
+    # jam "\"It’s just a rail train that rides above the street.\""
+    jam "\"It’s just a rail train that rides above the street.\""
+
+# game/williamroute3.rpy:7928
+translate Schinese williamroute3b_0f9071ce:
+
+    # mrs "\"Oh, how lovely!\""
+    mrs "\"Oh, how lovely!\""
+
+# game/williamroute3.rpy:7931
+translate Schinese williamroute3b_cc6fb559:
+
+    # mrs "\"Could we ride it one day?\""
+    mrs "\"Could we ride it one day?\""
+
+# game/williamroute3.rpy:7934
+translate Schinese williamroute3b_07709dce:
+
+    # jam "\"I doubt it will run for much longer.\""
+    jam "\"I doubt it will run for much longer.\""
+
+# game/williamroute3.rpy:7936
+translate Schinese williamroute3b_5f58771d:
+
+    # jam "\"Once everybody has access to automobiles, trains will belong in the past just as well as the other elements of antiquity.\""
+    jam "\"Once everybody has access to automobiles, trains will belong in the past just as well as the other elements of antiquity.\""
+
+# game/williamroute3.rpy:7938
+translate Schinese williamroute3b_5937ae8f:
+
+    # wi "\"Back to what I was sayin’.\""
+    wi "\"Back to what I was sayin’.\""
+
+# game/williamroute3.rpy:7939
+translate Schinese williamroute3b_7e89044b:
+
+    # "I can hear the impatience in my own voice, but soften it."
+    "I can hear the impatience in my own voice, but soften it."
+
+# game/williamroute3.rpy:7940
+translate Schinese williamroute3b_e703c7f5:
+
+    # wi "\"His use of the L-train made sense because every crime conducted happened within a block of the railway, and during service hours.\""
+    wi "\"His use of the L-train made sense because every crime conducted happened within a block of the railway, and during service hours.\""
+
+# game/williamroute3.rpy:7941
+translate Schinese williamroute3b_98249550:
+
+    # wi "\"I started riding at prime times and saw the suitcase transfers before the crimes occured.\""
+    wi "\"I started riding at prime times and saw the suitcase transfers before the crimes occured.\""
+
+# game/williamroute3.rpy:7942
+translate Schinese williamroute3b_171a1d34:
+
+    # wi "\"I didn’t even know anything about this man by the time I caught him.\""
+    wi "\"I didn’t even know anything about this man by the time I caught him.\""
+
+# game/williamroute3.rpy:7943
+translate Schinese williamroute3b_ac9a5f48:
+
+    # wi "\"But once I did, every part of society all around me started falling like a stack of cards.\""
+    wi "\"But once I did, every part of society all around me started falling like a stack of cards.\""
+
+# game/williamroute3.rpy:7944
+translate Schinese williamroute3b_9e0b9ee6:
+
+    # wi "\"People affiliated with Antonelli got busted left and right.\""
+    wi "\"People affiliated with Antonelli got busted left and right.\""
+
+# game/williamroute3.rpy:7945
+translate Schinese williamroute3b_9b4f053f:
+
+    # wi "\"This included some of our own on the police force, who’d later come to hate my guts.\""
+    wi "\"This included some of our own on the police force, who’d later come to hate my guts.\""
+
+# game/williamroute3.rpy:7946
+translate Schinese williamroute3b_14f79c29:
+
+    # wi "\"My testimony and the evidence that I gathered put a lot of important people away-- not just Antonelli.\""
+    wi "\"My testimony and the evidence that I gathered put a lot of important people away-- not just Antonelli.\""
+
+# game/williamroute3.rpy:7947
+translate Schinese williamroute3b_bb296713:
+
+    # wi "\"A whole lot of folks didn’t like me too much after that.\""
+    wi "\"A whole lot of folks didn’t like me too much after that.\""
+
+# game/williamroute3.rpy:7949
+translate Schinese williamroute3b_881e648e:
+
+    # wi "\"I lost parts of my ear following an ambush, and my wife at the time lived in fear whenever we went outside after dark.\""
+    wi "\"I lost parts of my ear following an ambush, and my wife at the time lived in fear whenever we went outside after dark.\""
+
+# game/williamroute3.rpy:7951
+translate Schinese williamroute3b_747857a9:
+
+    # wi "\"If I knew that’s what would have happened to us even after Big Momo got arrested, then maybe I could have ignored those suit cases.\""
+    wi "\"If I knew that’s what would have happened to us even after Big Momo got arrested, then maybe I could have ignored those suit cases.\""
+
+# game/williamroute3.rpy:7952
+translate Schinese williamroute3b_66ddccdf:
+
+    # wi "\"But I might have gone crazy never knowing who was doing these terrible crimes to my friends and my city when I knew I had the skills to find out.\""
+    wi "\"But I might have gone crazy never knowing who was doing these terrible crimes to my friends and my city when I knew I had the skills to find out.\""
+
+# game/williamroute3.rpy:7954
+translate Schinese williamroute3b_17cedb15:
+
+    # jam "\"But why bring this all up now?\""
+    jam "\"But why bring this all up now?\""
+
+# game/williamroute3.rpy:7956
+translate Schinese williamroute3b_b3484a09:
+
+    # wi "\"Because I can’t shake the notion that there’s organized crime in Echo as well.\""
+    wi "\"Because I can’t shake the notion that there’s organized crime in Echo as well.\""
+
+# game/williamroute3.rpy:7957
+translate Schinese williamroute3b_acdd0ace:
+
+    # "I sit up again to make sure every last person in the room is hanging onto the edge of my next words."
+    "I sit up again to make sure every last person in the room is hanging onto the edge of my next words."
+
+# game/williamroute3.rpy:7959
+translate Schinese williamroute3b_ccbca8e2:
+
+    # wi "\"Part of the reason that I’m here is because I’m investigating a series of terrible crimes, and I think I need the help of you folks to get anywhere.\""
+    wi "\"Part of the reason that I’m here is because I’m investigating a series of terrible crimes, and I think I need the help of you folks to get anywhere.\""
+
+# game/williamroute3.rpy:7961
+translate Schinese williamroute3b_4fae0945:
+
+    # noa "\"Did you say terrible crimes?\""
+    noa "\"Did you say terrible crimes?\""
+
+# game/williamroute3.rpy:7962
+translate Schinese williamroute3b_004821f5:
+
+    # "This is the first time I hear his son say anything in this room."
+    "This is the first time I hear his son say anything in this room."
+
+# game/williamroute3.rpy:7963
+translate Schinese williamroute3b_25b2c17c:
+
+    # "He’s lying on his belly, legs behind him, kicking as he watches me with his head in his hands."
+    "He’s lying on his belly, legs behind him, kicking as he watches me with his head in his hands."
+
+# game/williamroute3.rpy:7964
+translate Schinese williamroute3b_5d5ee981:
+
+    # "I give him a quick wink."
+    "I give him a quick wink."
+
+# game/williamroute3.rpy:7965
+translate Schinese williamroute3b_b8a02eff:
+
+    # wi "\"Awful ones.\""
+    wi "\"Awful ones.\""
+
+# game/williamroute3.rpy:7967
+translate Schinese williamroute3b_98581712:
+
+    # jam "\"Well let’s not go overboard--\""
+    jam "\"Well let’s not go overboard--\""
+
+# game/williamroute3.rpy:7970
+translate Schinese williamroute3b_6d95b9a4:
+
+    # mrs "\"Please, husband, let him speak!\""
+    mrs "\"Please, husband, let him speak!\""
+
+# game/williamroute3.rpy:7973
+translate Schinese williamroute3b_24ecbea1:
+
+    # "...And those are the words that I needed to hear to know that I’d have free reign over this mansion."
+    "...And those are the words that I needed to hear to know that I’d have free reign over this mansion."
+
+# game/williamroute3.rpy:7974
+translate Schinese williamroute3b_e5193e53:
+
+    # "A wave of relief washes over me."
+    "A wave of relief washes over me."
+
+# game/williamroute3.rpy:7976
+translate Schinese williamroute3b_b28b378c:
+
+    # jam "\"Well it’s not I’m putting a muzzle over him.\""
+    jam "\"Well it’s not I’m putting a muzzle over him.\""
+
+# game/williamroute3.rpy:7979
+translate Schinese williamroute3b_3e7d3f23:
+
+    # "She tsks at him gently."
+    "She tsks at him gently."
+
+# game/williamroute3.rpy:7983
+translate Schinese williamroute3b_fd5aac6c:
+
+    # mrs "\"We can all hear your tone, James.\""
+    mrs "\"We can all hear your tone, James.\""
+
+# game/williamroute3.rpy:7986
+translate Schinese williamroute3b_98581712_1:
+
+    # jam "\"Well let’s not go overboard--\""
+    jam "\"Well let’s not go overboard--\""
+
+# game/williamroute3.rpy:7989
+translate Schinese williamroute3b_dd7c11c7:
+
+    # jam "\"Who might we suspect he’s talking about?\""
+    jam "\"Who might we suspect he’s talking about?\""
+
+# game/williamroute3.rpy:7992
+translate Schinese williamroute3b_e3c15de5:
+
+    # jam "\"If there’s anybody to point a finger at it should be the picketers!\""
+    jam "\"If there’s anybody to point a finger at it should be the picketers!\""
+
+# game/williamroute3.rpy:7995
+translate Schinese williamroute3b_8a9d4db3:
+
+    # jam "\"That’s why I wanted you to nip this in the bud days ago you stubborn coyote!\""
+    jam "\"That’s why I wanted you to nip this in the bud days ago you stubborn coyote!\""
+
+# game/williamroute3.rpy:7998
+translate Schinese williamroute3b_3ef34430:
+
+    # ni "\"Boo.\""
+    ni "\"Boo.\""
+
+# game/williamroute3.rpy:8000
+translate Schinese williamroute3b_93eaa404:
+
+    # "James flinches as if remembering that Nikolai is still in the room."
+    "James flinches as if remembering that Nikolai is still in the room."
+
+# game/williamroute3.rpy:8002
+translate Schinese williamroute3b_8234208e:
+
+    # jam "\"Oh, come now!\""
+    jam "\"Oh, come now!\""
+
+# game/williamroute3.rpy:8005
+translate Schinese williamroute3b_eb45953b:
+
+    # jam "\"That wasn’t lobbed at you.\""
+    jam "\"That wasn’t lobbed at you.\""
+
+# game/williamroute3.rpy:8007
+translate Schinese williamroute3b_49272766:
+
+    # jam "\"I know a demure giant when I see one.\""
+    jam "\"I know a demure giant when I see one.\""
+
+# game/williamroute3.rpy:8010
+translate Schinese williamroute3b_f31f73a7:
+
+    # "Nikolai put his hands in his pockets."
+    "Nikolai put his hands in his pockets."
+
+# game/williamroute3.rpy:8011
+translate Schinese williamroute3b_e1c687f4:
+
+    # "Knowing his habits, his fists are balled."
+    "Knowing his habits, his fists are balled."
+
+# game/williamroute3.rpy:8017
+translate Schinese williamroute3b_da86fc16:
+
+    # "There’s a sudden slam on the door."
+    "There’s a sudden slam on the door."
+
+# game/williamroute3.rpy:8021
+translate Schinese williamroute3b_8892a47f:
+
+    # "It’s enough to make Noah sit up and Mrs. Hendricks cover her mouth."
+    "It’s enough to make Noah sit up and Mrs. Hendricks cover her mouth."
+
+# game/williamroute3.rpy:8023
+translate Schinese williamroute3b_c97016ca:
+
+    # "James looks confused for a moment and then looks at his watch."
+    "James looks confused for a moment and then looks at his watch."
+
+# game/williamroute3.rpy:8025
+translate Schinese williamroute3b_98693d1a:
+
+    # jam "\"Oh, for the love of--\""
+    jam "\"Oh, for the love of--\""
+
+# game/williamroute3.rpy:8027
+translate Schinese williamroute3b_a151b7d3:
+
+    # "He looks between all of us."
+    "He looks between all of us."
+
+# game/williamroute3.rpy:8030
+translate Schinese williamroute3b_c499b0e3:
+
+    # jam "\"I have to take somebody in my office at the moment.\""
+    jam "\"I have to take somebody in my office at the moment.\""
+
+# game/williamroute3.rpy:8033
+translate Schinese williamroute3b_312aa91e:
+
+    # jam "\"Please excuse my absence, I doubt it will be brief.\""
+    jam "\"Please excuse my absence, I doubt it will be brief.\""
+
+# game/williamroute3.rpy:8036
+translate Schinese williamroute3b_7fbc2eb4:
+
+    # "He walks stiffly to the hall and out of sight."
+    "He walks stiffly to the hall and out of sight."
+
+# game/williamroute3.rpy:8038
+translate Schinese williamroute3b_b4e36174:
+
+    # jam "\"Good evening Briggs.\""
+    jam "\"Good evening Briggs.\""
+
+# game/williamroute3.rpy:8041
+translate Schinese williamroute3b_d5a6246b:
+
+    # "Nikolai stands, putting his teacup down on the coffee table."
+    "Nikolai stands, putting his teacup down on the coffee table."
+
+# game/williamroute3.rpy:8042
+translate Schinese williamroute3b_b2362e75:
+
+    # "He shuffles away from the doors and the halls until he hears the footsteps of the two men disappear out the door."
+    "He shuffles away from the doors and the halls until he hears the footsteps of the two men disappear out the door."
+
+# game/williamroute3.rpy:8044
+translate Schinese williamroute3b_623ef3b2:
+
+    # mrs "\"Are you alright Mr. Krol?\""
+    mrs "\"Are you alright Mr. Krol?\""
+
+# game/williamroute3.rpy:8047
+translate Schinese williamroute3b_81d3bb87:
+
+    # ni "\"Shyness.\""
+    ni "\"Shyness.\""
+
+# game/williamroute3.rpy:8048
+translate Schinese williamroute3b_6c3bea7a:
+
+    # "It’s the most bold faced lie he’s ever told."
+    "It’s the most bold faced lie he’s ever told."
+
+# game/williamroute3.rpy:8050
+translate Schinese williamroute3b_023b1397:
+
+    # mrs "\"Well it’s been an excitable day, hasn’t it?\""
+    mrs "\"Well it’s been an excitable day, hasn’t it?\""
+
+# game/williamroute3.rpy:8053
+translate Schinese williamroute3b_9583c81c:
+
+    # wi "\"Could I ask Mr. Krol a few questions in private?\""
+    wi "\"Could I ask Mr. Krol a few questions in private?\""
+
+# game/williamroute3.rpy:8055
+translate Schinese williamroute3b_fff82fe6:
+
+    # mrs "\"Didn’t you want to look around the house?\""
+    mrs "\"Didn’t you want to look around the house?\""
+
+# game/williamroute3.rpy:8057
+translate Schinese williamroute3b_cdb4a672:
+
+    # mrs "\"Please free to roam the house, and ask the staff what you like.\""
+    mrs "\"Please free to roam the house, and ask the staff what you like.\""
+
+# game/williamroute3.rpy:8064
+translate Schinese willinvestigation2_f9548757:
+
+    # wi "\"Mrs Hendricks, you said that there are all sorts of doorways to nowhere in this house, correct?\""
+    wi "\"Mrs Hendricks, you said that there are all sorts of doorways to nowhere in this house, correct?\""
+
+# game/williamroute3.rpy:8066
+translate Schinese willinvestigation2_a4ca85d4:
+
+    # mrs "\"Well I believe so?\""
+    mrs "\"Well I believe so?\""
+
+# game/williamroute3.rpy:8068
+translate Schinese willinvestigation2_f70e0566:
+
+    # wi "\"You don’t sound very sure.\""
+    wi "\"You don’t sound very sure.\""
+
+# game/williamroute3.rpy:8070
+translate Schinese willinvestigation2_26619742:
+
+    # mrs "\"Well some of the doors lead to passages that the servants use.\""
+    mrs "\"Well some of the doors lead to passages that the servants use.\""
+
+# game/williamroute3.rpy:8073
+translate Schinese willinvestigation2_5ecd9ce2:
+
+    # mrs "\"Elmer, the butler, would know about that, but I’m afraid we don’t speak so often.\""
+    mrs "\"Elmer, the butler, would know about that, but I’m afraid we don’t speak so often.\""
+
+# game/williamroute3.rpy:8076
+translate Schinese willinvestigation2_8eb43cec:
+
+    # mrs "\"But I try not to get in the way of the servants, and after dark, the mansion gets too strange for my liking.\""
+    mrs "\"But I try not to get in the way of the servants, and after dark, the mansion gets too strange for my liking.\""
+
+# game/williamroute3.rpy:8078
+translate Schinese willinvestigation2_5b3a5d32:
+
+    # wi "\"Strange how?\""
+    wi "\"Strange how?\""
+
+# game/williamroute3.rpy:8080
+translate Schinese willinvestigation2_5909386e:
+
+    # mrs "\"Well,{nw}"
+    mrs "\"Well,{nw}"
+
+# game/williamroute3.rpy:8082
+translate Schinese willinvestigation2_46de7f13:
+
+    # extend " there’s voices of people I’ve never heard before.\""
+    extend " there’s voices of people I’ve never heard before.\""
+
+# game/williamroute3.rpy:8085
+translate Schinese willinvestigation2_47c311dc:
+
+    # mrs "\"And there’s noises that I’ve never heard before at any other place and time.\""
+    mrs "\"And there’s noises that I’ve never heard before at any other place and time.\""
+
+# game/williamroute3.rpy:8087
+translate Schinese willinvestigation2_f2024ebe:
+
+    # wi "\"What kinds of noises?\""
+    wi "\"What kinds of noises?\""
+
+# game/williamroute3.rpy:8089
+translate Schinese willinvestigation2_ca4e67d9:
+
+    # mrs "\"Sometimes it’s like quick, scratchy scrambling...\""
+    mrs "\"Sometimes it’s like quick, scratchy scrambling...\""
+
+# game/williamroute3.rpy:8092
+translate Schinese willinvestigation2_1bb8e52b:
+
+    # mrs "\"Sometimes it sounds more like noises coming from a machine.\""
+    mrs "\"Sometimes it sounds more like noises coming from a machine.\""
+
+# game/williamroute3.rpy:8095
+translate Schinese willinvestigation2_f8ae8cca:
+
+    # mrs "\"But nothing about the noises ever strikes me as natural.\""
+    mrs "\"But nothing about the noises ever strikes me as natural.\""
+
+# game/williamroute3.rpy:8097
+translate Schinese willinvestigation2_aca4801a:
+
+    # wi "\"Have you ever considered that there might be passages the architect put in place that he didn’t want to find?\""
+    wi "\"Have you ever considered that there might be passages the architect put in place that he didn’t want to find?\""
+
+# game/williamroute3.rpy:8098
+translate Schinese willinvestigation2_8f3902b3:
+
+    # wi "\"Maybe rooms only accessible at certain times of the day?\""
+    wi "\"Maybe rooms only accessible at certain times of the day?\""
+
+# game/williamroute3.rpy:8099
+translate Schinese willinvestigation2_bafbd3fe:
+
+    # wi "\"Or rooms that won’t open properly if you don’t turn a wench or flip a lever?\""
+    wi "\"Or rooms that won’t open properly if you don’t turn a wench or flip a lever?\""
+
+# game/williamroute3.rpy:8101
+translate Schinese willinvestigation2_1e9f5049:
+
+    # "She tilts her head."
+    "She tilts her head."
+
+# game/williamroute3.rpy:8103
+translate Schinese willinvestigation2_430e65ff:
+
+    # mrs "\"Well I suppose that’s possible?\""
+    mrs "\"Well I suppose that’s possible?\""
+
+# game/williamroute3.rpy:8105
+translate Schinese willinvestigation2_d82a909e:
+
+    # wi "\"I have my suspicions about a certain location.\""
+    wi "\"I have my suspicions about a certain location.\""
+
+# game/williamroute3.rpy:8107
+translate Schinese willinvestigation2_dcb8d632:
+
+    # mrs "\"Do be careful!\""
+    mrs "\"Do be careful!\""
+
+# game/williamroute3.rpy:8110
+translate Schinese willinvestigation2_e2afe485:
+
+    # mrs "\"I wouldn’t want you to run into any traps if you poke around too aggressively.\""
+    mrs "\"I wouldn’t want you to run into any traps if you poke around too aggressively.\""
+
+# game/williamroute3.rpy:8112
+translate Schinese willinvestigation2_32596218:
+
+    # wi "\"There are traps in this house?\""
+    wi "\"There are traps in this house?\""
+
+# game/williamroute3.rpy:8114
+translate Schinese willinvestigation2_74783e88:
+
+    # mrs "\"Mostly harmless ones.\""
+    mrs "\"Mostly harmless ones.\""
+
+# game/williamroute3.rpy:8116
+translate Schinese willinvestigation2_b10c21e8:
+
+    # mrs "\"I think.\""
+    mrs "\"I think.\""
+
+# game/williamroute3.rpy:8119
+translate Schinese willinvestigation2_a69770b1:
+
+    # mrs "\"One of the doors out in the garden opens to a series of smaller doors, and then a mirror you have to crouch down to see.\""
+    mrs "\"One of the doors out in the garden opens to a series of smaller doors, and then a mirror you have to crouch down to see.\""
+
+# game/williamroute3.rpy:8122
+translate Schinese willinvestigation2_9fbd92b5:
+
+    # mrs "\"Another time I used a dumbwaiter that was hiding behind a book case.\""
+    mrs "\"Another time I used a dumbwaiter that was hiding behind a book case.\""
+
+# game/williamroute3.rpy:8126
+translate Schinese willinvestigation2_44b76c81:
+
+    # mrs "\"When I opened it a lead ball fell out and left a dent in the wooden floor.\""
+    mrs "\"When I opened it a lead ball fell out and left a dent in the wooden floor.\""
+
+# game/williamroute3.rpy:8129
+translate Schinese willinvestigation2_a28b56d0:
+
+    # mrs "\"We had to replace that part of the floor.\""
+    mrs "\"We had to replace that part of the floor.\""
+
+# game/williamroute3.rpy:8131
+translate Schinese willinvestigation2_c12e5f13:
+
+    # "That doesn’t sound harmless to me."
+    "That doesn’t sound harmless to me."
+
+# game/williamroute3.rpy:8134
+translate Schinese willinvestigation2_838abd7b:
+
+    # wi "\"Thanks for the warnings.\""
+    wi "\"Thanks for the warnings.\""
+
+# game/williamroute3.rpy:8136
+translate Schinese willinvestigation2_4109507b:
+
+    # mrs "\"Of course!\""
+    mrs "\"Of course!\""
+
+# game/williamroute3.rpy:8139
+translate Schinese willinvestigation2_dcfceaad:
+
+    # ni "\"I can lend some assistance.\""
+    ni "\"I can lend some assistance.\""
+
+# game/williamroute3.rpy:8141
+translate Schinese willinvestigation2_aa90b760:
+
+    # wi "\"I think that would be a good idea.\""
+    wi "\"I think that would be a good idea.\""
+
+# game/williamroute3.rpy:8145
+translate Schinese willinvestigation2_1fe85dc7:
+
+    # "Nik follows me to the foyer and keeps voice low until we get a good distance away from the hall, starting to climb the stairs."
+    "Nik follows me to the foyer and keeps voice low until we get a good distance away from the hall, starting to climb the stairs."
+
+# game/williamroute3.rpy:8146
+translate Schinese willinvestigation2_11e67c4d:
+
+    # "I feel a lot more relaxed being alone with him, but not relaxed enough to feel at ease in this house."
+    "I feel a lot more relaxed being alone with him, but not relaxed enough to feel at ease in this house."
+
+# game/williamroute3.rpy:8147
+translate Schinese willinvestigation2_f9caa715:
+
+    # wi "\"It’s good to have you watch my back, Nik.\""
+    wi "\"It’s good to have you watch my back, Nik.\""
+
+# game/williamroute3.rpy:8149
+translate Schinese willinvestigation2_b0cedb4e:
+
+    # ni "\"The feeling is mutual.\""
+    ni "\"The feeling is mutual.\""
+
+# game/williamroute3.rpy:8151
+translate Schinese willinvestigation2_8111cb79:
+
+    # wi "\"So what are you actually doing here?\""
+    wi "\"So what are you actually doing here?\""
+
+# game/williamroute3.rpy:8153
+translate Schinese willinvestigation2_40bfb3d0:
+
+    # ni "\"I was invited.\""
+    ni "\"I was invited.\""
+
+# game/williamroute3.rpy:8154
+translate Schinese willinvestigation2_28adbb8f:
+
+    # ni "\"That was the truth.\""
+    ni "\"That was the truth.\""
+
+# game/williamroute3.rpy:8156
+translate Schinese willinvestigation2_2b9b1709:
+
+    # wi "\"Don’t you think your friends down at the mine will have a problem with that?\""
+    wi "\"Don’t you think your friends down at the mine will have a problem with that?\""
+
+# game/williamroute3.rpy:8158
+translate Schinese willinvestigation2_4f6a6df9:
+
+    # ni "\"On the contrary, they encouraged it.\""
+    ni "\"On the contrary, they encouraged it.\""
+
+# game/williamroute3.rpy:8161
+translate Schinese willinvestigation2_e9628ac2:
+
+    # ni "\"The whole point of our movement is to keep negotiations open.\""
+    ni "\"The whole point of our movement is to keep negotiations open.\""
+
+# game/williamroute3.rpy:8163
+translate Schinese willinvestigation2_c00e7e9e:
+
+    # ni "\"But it is not like I could have told him no even if they didn’t approve.\""
+    ni "\"But it is not like I could have told him no even if they didn’t approve.\""
+
+# game/williamroute3.rpy:8164
+translate Schinese willinvestigation2_ca4faedc:
+
+    # ni "\"He is my boss.\""
+    ni "\"He is my boss.\""
+
+# game/williamroute3.rpy:8165
+translate Schinese willinvestigation2_ebad492e:
+
+    # "I exhale."
+    "I exhale."
+
+# game/williamroute3.rpy:8167
+translate Schinese willinvestigation2_a6bedef1:
+
+    # wi "\"I get it.\""
+    wi "\"I get it.\""
+
+# game/williamroute3.rpy:8169
+translate Schinese willinvestigation2_7c93a013:
+
+    # ni "\"But the union isn’t why he’s interested in me.\""
+    ni "\"But the union isn’t why he’s interested in me.\""
+
+# game/williamroute3.rpy:8170
+translate Schinese willinvestigation2_a439b59a:
+
+    # "Huh."
+    "Huh."
+
+# game/williamroute3.rpy:8171
+translate Schinese willinvestigation2_20385f8f:
+
+    # wi "\"Is that so?\""
+    wi "\"Is that so?\""
+
+# game/williamroute3.rpy:8173
+translate Schinese willinvestigation2_e83bbbfc:
+
+    # ni "\"I’m certain.\""
+    ni "\"I’m certain.\""
+
+# game/williamroute3.rpy:8175
+translate Schinese willinvestigation2_141490d3:
+
+    # wi "\"If not that, then what.\""
+    wi "\"If not that, then what.\""
+
+# game/williamroute3.rpy:8177
+translate Schinese willinvestigation2_7bc28630:
+
+    # ni "\"What he is interested in is Samuel.\""
+    ni "\"What he is interested in is Samuel.\""
+
+# game/williamroute3.rpy:8179
+translate Schinese willinvestigation2_d8def566:
+
+    # "Inhale a bit of my own spit, then start coughing."
+    "Inhale a bit of my own spit, then start coughing."
+
+# game/williamroute3.rpy:8180
+translate Schinese willinvestigation2_46acdbfe:
+
+    # wi "\"Sam?\""
+    wi "\"Sam?\""
+
+# game/williamroute3.rpy:8181
+translate Schinese willinvestigation2_3fe8bb75:
+
+    # "I sputter a bit and Nik hits my back a few times with the back of his palm."
+    "I sputter a bit and Nik hits my back a few times with the back of his palm."
+
+# game/williamroute3.rpy:8182
+translate Schinese willinvestigation2_1bc7d4d7:
+
+    # ni "\"Are you alright?\""
+    ni "\"Are you alright?\""
+
+# game/williamroute3.rpy:8184
+translate Schinese willinvestigation2_fb08a3e8:
+
+    # wi "\"Let’s not change the subject.\""
+    wi "\"Let’s not change the subject.\""
+
+# game/williamroute3.rpy:8185
+translate Schinese willinvestigation2_6982e378:
+
+    # wi "\"What does he want with Sam?\""
+    wi "\"What does he want with Sam?\""
+
+# game/williamroute3.rpy:8186
+translate Schinese willinvestigation2_c1299d97:
+
+    # wi "\"Sam’s not important, he’s just Sam.\""
+    wi "\"Sam’s not important, he’s just Sam.\""
+
+# game/williamroute3.rpy:8188
+translate Schinese willinvestigation2_0e110998:
+
+    # ni "\"I know.\""
+    ni "\"I know.\""
+
+# game/williamroute3.rpy:8189
+translate Schinese willinvestigation2_b9039caa:
+
+    # ni "\"You do not have to raise your voice at me about that.\""
+    ni "\"You do not have to raise your voice at me about that.\""
+
+# game/williamroute3.rpy:8190
+translate Schinese willinvestigation2_70191143:
+
+    # wi "\"I wasn’t raising it at {i}you{/i}, I was--\""
+    wi "\"I wasn’t raising it at {i}you{/i}, I was--\""
+
+# game/williamroute3.rpy:8191
+translate Schinese willinvestigation2_20970914:
+
+    # wi "\"Forget it.\""
+    wi "\"Forget it.\""
+
+# game/williamroute3.rpy:8193
+translate Schinese willinvestigation2_218b7a1e:
+
+    # "He shifts his weight from one foot to the other, uncomfortable-like."
+    "He shifts his weight from one foot to the other, uncomfortable-like."
+
+# game/williamroute3.rpy:8194
+translate Schinese willinvestigation2_4bd4eb81:
+
+    # ni "\"Anyway...\""
+    ni "\"Anyway...\""
+
+# game/williamroute3.rpy:8195
+translate Schinese willinvestigation2_403b1e18:
+
+    # ni "\"I have never told another soul besides you and one other friend about my visits with Sam.\""
+    ni "\"I have never told another soul besides you and one other friend about my visits with Sam.\""
+
+# game/williamroute3.rpy:8196
+translate Schinese willinvestigation2_016d179f:
+
+    # ni "\"But somehow, he knows.\""
+    ni "\"But somehow, he knows.\""
+
+# game/williamroute3.rpy:8198
+translate Schinese willinvestigation2_3050bbb9:
+
+    # ni "\"He has asked me a good number of details about Sam’s habits and preferences.\""
+    ni "\"He has asked me a good number of details about Sam’s habits and preferences.\""
+
+# game/williamroute3.rpy:8201
+translate Schinese willinvestigation2_8f6257c0:
+
+    # ni "\"He wants to invite us both to luxurious distractions and lavish meals.\""
+    ni "\"He wants to invite us both to luxurious distractions and lavish meals.\""
+
+# game/williamroute3.rpy:8203
+translate Schinese willinvestigation2_43253e4a:
+
+    # ni "\"I do not think he knows that he’s spending more time with you lately than me yet.\""
+    ni "\"I do not think he knows that he’s spending more time with you lately than me yet.\""
+
+# game/williamroute3.rpy:8204
+translate Schinese willinvestigation2_3b0b0026:
+
+    # wi "\"Well isn’t partly that your fault?\""
+    wi "\"Well isn’t partly that your fault?\""
+
+# game/williamroute3.rpy:8206
+translate Schinese willinvestigation2_7e76ad5d:
+
+    # "He grits his teeth."
+    "He grits his teeth."
+
+# game/williamroute3.rpy:8208
+translate Schinese willinvestigation2_ce53c19b:
+
+    # ni "\"I am not going to talk about this now.\""
+    ni "\"I am not going to talk about this now.\""
+
+# game/williamroute3.rpy:8210
+translate Schinese willinvestigation2_6ed41559:
+
+    # wi "\"Well good, because I’m not the one you need to talk about it with.\""
+    wi "\"Well good, because I’m not the one you need to talk about it with.\""
+
+# game/williamroute3.rpy:8211
+translate Schinese willinvestigation2_7091a23c:
+
+    # "He already has Hattie and Andy wrapped around his finger."
+    "He already has Hattie and Andy wrapped around his finger."
+
+# game/williamroute3.rpy:8213
+translate Schinese willinvestigation2_82c1f078:
+
+    # "If he finds out how much time I’m spending with Sam, then I bet he’ll try to control Sam because he thinks he’ll be able to control me."
+    "If he finds out how much time I’m spending with Sam, then I bet he’ll try to control Sam because he thinks he’ll be able to control me."
+
+# game/williamroute3.rpy:8214
+translate Schinese willinvestigation2_0161e449:
+
+    # "Then he’ll be able to get away with anything."
+    "Then he’ll be able to get away with anything."
+
+# game/williamroute3.rpy:8216
+translate Schinese willinvestigation2_490cf02a:
+
+    # "Does he really think I won’t be able to help them?"
+    "Does he really think I won’t be able to help them?"
+
+# game/williamroute3.rpy:8217
+translate Schinese willinvestigation2_8e61d2f7:
+
+    # "I really hate this man."
+    "I really hate this man."
+
+# game/williamroute3.rpy:8218
+translate Schinese willinvestigation2_3b4b38d0:
+
+    # wi "\"Well he won’t be getting any tea parties out of me.\""
+    wi "\"Well he won’t be getting any tea parties out of me.\""
+
+# game/williamroute3.rpy:8220
+translate Schinese willinvestigation2_d0664d3e:
+
+    # ni "\"Yet here you are.\""
+    ni "\"Yet here you are.\""
+
+# game/williamroute3.rpy:8222
+translate Schinese willinvestigation2_3e1e2747:
+
+    # ni "\"Shall I go grab you a macaroon?\""
+    ni "\"Shall I go grab you a macaroon?\""
+
+# game/williamroute3.rpy:8223
+translate Schinese willinvestigation2_f277e189:
+
+    # wi "\"I’d rather guzzle piss.\""
+    wi "\"I’d rather guzzle piss.\""
+
+# game/williamroute3.rpy:8225
+translate Schinese willinvestigation2_4468919b:
+
+    # ni "\"Don’t you drink instant coffee?\""
+    ni "\"Don’t you drink instant coffee?\""
+
+# game/williamroute3.rpy:8227
+translate Schinese willinvestigation2_42d76988:
+
+    # ni "\"That is already piss.\""
+    ni "\"That is already piss.\""
+
+# game/williamroute3.rpy:8229
+translate Schinese willinvestigation2_e001412c:
+
+    # wi "\"I’ll drink whatever wakes me up so long as it isn’t out of one of his teapots.\""
+    wi "\"I’ll drink whatever wakes me up so long as it isn’t out of one of his teapots.\""
+
+# game/williamroute3.rpy:8230
+translate Schinese willinvestigation2_17e2b65d:
+
+    # ni "\"As long as you admit you are a piss drinker.\""
+    ni "\"As long as you admit you are a piss drinker.\""
+
+# game/williamroute3.rpy:8231
+translate Schinese willinvestigation2_74bec753:
+
+    # wi "\"Isn’t tea too rich for your blood anyway?\""
+    wi "\"Isn’t tea too rich for your blood anyway?\""
+
+# game/williamroute3.rpy:8233
+translate Schinese willinvestigation2_2938d709:
+
+    # ni "\"Not when you are friends with Huaxians.\""
+    ni "\"Not when you are friends with Huaxians.\""
+
+# game/williamroute3.rpy:8235
+translate Schinese willinvestigation2_97810800:
+
+    # wi "\"I need something quick and strong.\""
+    wi "\"I need something quick and strong.\""
+
+# game/williamroute3.rpy:8237
+translate Schinese willinvestigation2_881deaee:
+
+    # ni "\"Also like piss.\""
+    ni "\"Also like piss.\""
+
+# game/williamroute3.rpy:8238
+translate Schinese willinvestigation2_f2134163:
+
+    # wi "\"Let’s stop talking about piss, Nik.\""
+    wi "\"Let’s stop talking about piss, Nik.\""
+
+# game/williamroute3.rpy:8240
+translate Schinese willinvestigation2_e91abaf5:
+
+    # ni "\"You’re the one who started it.\""
+    ni "\"You’re the one who started it.\""
+
+# game/williamroute3.rpy:8242
+translate Schinese willinvestigation2_130e8ff8:
+
+    # wi "\"Anyway...\""
+    wi "\"Anyway...\""
+
+# game/williamroute3.rpy:8243
+translate Schinese willinvestigation2_3018d550:
+
+    # "We reach the top of the stairs."
+    "We reach the top of the stairs."
+
+# game/williamroute3.rpy:8246
+translate Schinese willinvestigation2_ed0e2a2c:
+
+    # "I knock on the wood next to the painting as hard as I can without making a dent."
+    "I knock on the wood next to the painting as hard as I can without making a dent."
+
+# game/williamroute3.rpy:8247
+translate Schinese willinvestigation2_6621d18e:
+
+    # "At least not a big dent."
+    "At least not a big dent."
+
+# game/williamroute3.rpy:8249
+translate Schinese willinvestigation2_da879891:
+
+    # "There’s a deep, vacuous sound."
+    "There’s a deep, vacuous sound."
+
+# game/williamroute3.rpy:8250
+translate Schinese willinvestigation2_d8cd0f58:
+
+    # wi "\"Y’hear that?\""
+    wi "\"Y’hear that?\""
+
+# game/williamroute3.rpy:8252
+translate Schinese willinvestigation2_f125b758:
+
+    # ni "\"Yeah.\""
+    ni "\"Yeah.\""
+
+# game/williamroute3.rpy:8257
+translate Schinese willinvestigation2_3d099490:
+
+    # wi "\"The walls directly behind this are hollow.\""
+    wi "\"The walls directly behind this are hollow.\""
+
+# game/williamroute3.rpy:8258
+translate Schinese willinvestigation2_7d2cfaab:
+
+    # wi "\"And you look closely at the god and black paint on the side of the frame, there’s hinged.\""
+    wi "\"And you look closely at the god and black paint on the side of the frame, there’s hinged.\""
+
+# game/williamroute3.rpy:8260
+translate Schinese willinvestigation2_952fd6db:
+
+    # ni "\"The painting opens?\""
+    ni "\"The painting opens?\""
+
+# game/williamroute3.rpy:8262
+translate Schinese willinvestigation2_b74979b6:
+
+    # wi "\"Yeah, but I’m not sure how or when.\""
+    wi "\"Yeah, but I’m not sure how or when.\""
+
+# game/williamroute3.rpy:8264
+translate Schinese willinvestigation2_455db89e:
+
+    # ni "\"What do you mean, when?\""
+    ni "\"What do you mean, when?\""
+
+# game/williamroute3.rpy:8266
+translate Schinese willinvestigation2_897cd139:
+
+    # wi "\"Some buildings can have clockwork mechanism to make doors passages useable at only certain times of day, or under certain conditions.\""
+    wi "\"Some buildings can have clockwork mechanism to make doors passages useable at only certain times of day, or under certain conditions.\""
+
+# game/williamroute3.rpy:8268
+translate Schinese willinvestigation2_8acfdc50:
+
+    # ni "\"Do you think that’s the case?\""
+    ni "\"Do you think that’s the case?\""
+
+# game/williamroute3.rpy:8270
+translate Schinese willinvestigation2_fdcb6c99:
+
+    # wi "\"Can’t say for sure, but I think it’s unlikely.\""
+    wi "\"Can’t say for sure, but I think it’s unlikely.\""
+
+# game/williamroute3.rpy:8271
+translate Schinese willinvestigation2_27eb6474:
+
+    # wi "\"Systems like that are generally noisy and need to be maintained.\""
+    wi "\"Systems like that are generally noisy and need to be maintained.\""
+
+# game/williamroute3.rpy:8272
+translate Schinese willinvestigation2_b4090d8a:
+
+    # wi "\"If they’re truthful about not understanding the house, which is yet to be proven, by the way, then a mechanism like would have broken a long time ago.\""
+    wi "\"If they’re truthful about not understanding the house, which is yet to be proven, by the way, then a mechanism like would have broken a long time ago.\""
+
+# game/williamroute3.rpy:8273
+translate Schinese willinvestigation2_c0442722:
+
+    # wi "\"There’s probably a more simple way to open it.\""
+    wi "\"There’s probably a more simple way to open it.\""
+
+# game/williamroute3.rpy:8274
+translate Schinese willinvestigation2_2494a8f9:
+
+    # wi "\"Might only work on one side, or have a hidden switch somewhere.\""
+    wi "\"Might only work on one side, or have a hidden switch somewhere.\""
+
+# game/williamroute3.rpy:8276
+translate Schinese willinvestigation2_06086a35:
+
+    # ni "\"Are you going to try to open it?\""
+    ni "\"Are you going to try to open it?\""
+
+# game/williamroute3.rpy:8278
+translate Schinese willinvestigation2_a05aacb6:
+
+    # wi "\"I don’t think there’s time to poke around like that.\""
+    wi "\"I don’t think there’s time to poke around like that.\""
+
+# game/williamroute3.rpy:8279
+translate Schinese willinvestigation2_05ea4a1d:
+
+    # wi "\"I want a general overview of the mansion before I fiddle with any potentially dangerous bits.\""
+    wi "\"I want a general overview of the mansion before I fiddle with any potentially dangerous bits.\""
+
+# game/williamroute3.rpy:8280
+translate Schinese willinvestigation2_1b421e04:
+
+    # wi "\"Let’s go back to the living room for now.\""
+    wi "\"Let’s go back to the living room for now.\""
+
+# game/williamroute3.rpy:8282
+translate Schinese willinvestigation2_ccbc878b:
+
+    # ni "\"Okay.\""
+    ni "\"Okay.\""
+
+# game/williamroute3.rpy:8290
+translate Schinese willinvestigation2_e0e04e1e:
+
+    # "Mrs. hendricks is still there, flipping cards on the coffee table."
+    "Mrs. hendricks is still there, flipping cards on the coffee table."
+
+# game/williamroute3.rpy:8292
+translate Schinese willinvestigation2_4dc8765b:
+
+    # mrs "\"Back so soon?\""
+    mrs "\"Back so soon?\""
+
+# game/williamroute3.rpy:8294
+translate Schinese willinvestigation2_dfaa4c5a:
+
+    # wi "\"Briefly.\""
+    wi "\"Briefly.\""
+
+# game/williamroute3.rpy:8295
+translate Schinese willinvestigation2_6f0d27a1:
+
+    # "Now where else is most important to check?"
+    "Now where else is most important to check?"
+
+# game/williamroute3.rpy:8296
+translate Schinese willinvestigation2_c484d9b8:
+
+    # "I’ve got a bad feeling that I don’t have a whole lot of time."
+    "I’ve got a bad feeling that I don’t have a whole lot of time."
+
+# game/williamroute3.rpy:8305
+translate Schinese willinvestigation2_7c789da5:
+
+    # wi "\"Ah, Mrs. Hendricks?\""
+    wi "\"Ah, Mrs. Hendricks?\""
+
+# game/williamroute3.rpy:8307
+translate Schinese willinvestigation2_4887d798:
+
+    # mrs "\"Yes Sheriff?\""
+    mrs "\"Yes Sheriff?\""
+
+# game/williamroute3.rpy:8309
+translate Schinese willinvestigation2_e16ce08c:
+
+    # wi "\"I was told you have a new in-house chef for hire.\""
+    wi "\"I was told you have a new in-house chef for hire.\""
+
+# game/williamroute3.rpy:8311
+translate Schinese willinvestigation2_2e34a844:
+
+    # mrs "\"Oh yes, Hattie’s phenomenal!\""
+    mrs "\"Oh yes, Hattie’s phenomenal!\""
+
+# game/williamroute3.rpy:8313
+translate Schinese willinvestigation2_5badf4e8:
+
+    # wi "\"Would she be in the kitchen, then?\""
+    wi "\"Would she be in the kitchen, then?\""
+
+# game/williamroute3.rpy:8315
+translate Schinese willinvestigation2_3f25bff5:
+
+    # mrs "\"Well, I should say so?\""
+    mrs "\"Well, I should say so?\""
+
+# game/williamroute3.rpy:8318
+translate Schinese willinvestigation2_12a9574b:
+
+    # mrs "\"She usually makes dinner about this time.\""
+    mrs "\"She usually makes dinner about this time.\""
+
+# game/williamroute3.rpy:8320
+translate Schinese willinvestigation2_7a8d5ef3:
+
+    # wi "\"Right then.\""
+    wi "\"Right then.\""
+
+# game/williamroute3.rpy:8321
+translate Schinese willinvestigation2_09715821:
+
+    # wi "\"I’d like to ask a few questions.\""
+    wi "\"I’d like to ask a few questions.\""
+
+# game/williamroute3.rpy:8323
+translate Schinese willinvestigation2_b71b73f0:
+
+    # mrs "\"Just follow along the hall you and you’ll eventually come to the kitchen.\""
+    mrs "\"Just follow along the hall you and you’ll eventually come to the kitchen.\""
+
+# game/williamroute3.rpy:8326
+translate Schinese willinvestigation2_56c78d8a:
+
+    # ni "\"I can go with you.\""
+    ni "\"I can go with you.\""
+
+# game/williamroute3.rpy:8328
+translate Schinese willinvestigation2_b98ae720:
+
+    # "I give him a look, and he seems to know what’s on my mind."
+    "I give him a look, and he seems to know what’s on my mind."
+
+# game/williamroute3.rpy:8329
+translate Schinese willinvestigation2_1d3445a0:
+
+    # wi "\"Thanks, but I want to do this alone.\""
+    wi "\"Thanks, but I want to do this alone.\""
+
+# game/williamroute3.rpy:8331
+translate Schinese willinvestigation2_5534c71f:
+
+    # ni "\"Ah.\""
+    ni "\"Ah.\""
+
+# game/williamroute3.rpy:8332
+translate Schinese willinvestigation2_96368426:
+
+    # ni "\"I understand.\""
+    ni "\"I understand.\""
+
+# game/williamroute3.rpy:8333
+translate Schinese willinvestigation2_d4600ac2:
+
+    # wi "\"Thanks.\""
+    wi "\"Thanks.\""
+
+# game/williamroute3.rpy:8336
+translate Schinese willinvestigation2_85f220b2:
+
+    # mrs "\"I have a story I can tell you why we wait Mr. Krol.\""
+    mrs "\"I have a story I can tell you why we wait Mr. Krol.\""
+
+# game/williamroute3.rpy:8339
+translate Schinese willinvestigation2_6615739f:
+
+    # ni "\"Oh?\""
+    ni "\"Oh?\""
+
+# game/williamroute3.rpy:8342
+translate Schinese willinvestigation2_70e87fc8:
+
+    # mrs "\"Mhm. About my home. My old home.\""
+    mrs "\"Mhm. About my home. My old home.\""
+
+# game/williamroute3.rpy:8347
+translate Schinese willinvestigation2_31990dad:
+
+    # "Their voices fade as I go further into the hallway, taking turns, passing parlor rooms and the entrance to the cellar."
+    "Their voices fade as I go further into the hallway, taking turns, passing parlor rooms and the entrance to the cellar."
+
+# game/williamroute3.rpy:8348
+translate Schinese willinvestigation2_2e7b9c81:
+
+    # "I smell the kitchen before I see it."
+    "I smell the kitchen before I see it."
+
+# game/williamroute3.rpy:8349
+translate Schinese willinvestigation2_9b9aeb94:
+
+    # "Brown butter scents mixing with onions and peppers."
+    "Brown butter scents mixing with onions and peppers."
+
+# game/williamroute3.rpy:8355
+translate Schinese willinvestigation2_868f5893:
+
+    # "The hallway leads to the open entrance of the kitchen and I see her there, back turned to me and chopping vegetables."
+    "The hallway leads to the open entrance of the kitchen and I see her there, back turned to me and chopping vegetables."
+
+# game/williamroute3.rpy:8356
+translate Schinese willinvestigation2_6e4fe09a:
+
+    # "I stop, because I feel cold."
+    "I stop, because I feel cold."
+
+# game/williamroute3.rpy:8357
+translate Schinese willinvestigation2_c5b4e779:
+
+    # "There’s a familiar sense of danger that crawls up my spine as I see her chop vegetables just like how she used to."
+    "There’s a familiar sense of danger that crawls up my spine as I see her chop vegetables just like how she used to."
+
+# game/williamroute3.rpy:8359
+translate Schinese willinvestigation2_b5f9c60b:
+
+    # "She glides from one end of the kitchen island to the pot on the wood stove like a familiar ghost."
+    "She glides from one end of the kitchen island to the pot on the wood stove like a familiar ghost."
+
+# game/williamroute3.rpy:8361
+translate Schinese willinvestigation2_de8db5e5:
+
+    # "Memories flash through my head."
+    "Memories flash through my head."
+
+# game/williamroute3.rpy:8367
+translate Schinese willinvestigation2_12ce04c7:
+
+    # "They speak Hattie Willowby. They speak Conrad Adler. They speak Aiden Fletcher."
+    "They speak Hattie Willowby. They speak Conrad Adler. They speak Aiden Fletcher."
+
+# game/williamroute3.rpy:8372
+translate Schinese willinvestigation2_5ebbee16:
+
+    # "Slipping past me in the yellow lights of a subway."
+    "Slipping past me in the yellow lights of a subway."
+
+# game/williamroute3.rpy:8377
+translate Schinese willinvestigation2_be211418:
+
+    # "The specter of death sneaks up on me and takes a seat right on the kitchen island."
+    "The specter of death sneaks up on me and takes a seat right on the kitchen island."
+
+# game/williamroute3.rpy:8378
+translate Schinese willinvestigation2_5bf60c94:
+
+    # "It has no form, and cannot speak but I know it takes up space."
+    "It has no form, and cannot speak but I know it takes up space."
+
+# game/williamroute3.rpy:8379
+translate Schinese willinvestigation2_53201159:
+
+    # "And I know it wants to convince me that life is just another transition."
+    "And I know it wants to convince me that life is just another transition."
+
+# game/williamroute3.rpy:8380
+translate Schinese willinvestigation2_7971575a:
+
+    # "That when you get accustomed to wasting time, you can only waste more."
+    "That when you get accustomed to wasting time, you can only waste more."
+
+# game/williamroute3.rpy:8381
+translate Schinese willinvestigation2_7de7dd96:
+
+    # "I turned my back on it once, but it knows I have to walk into this kitchen."
+    "I turned my back on it once, but it knows I have to walk into this kitchen."
+
+# game/williamroute3.rpy:8383
+translate Schinese willinvestigation2_7d5a7eb1:
+
+    # wi "\"Hello Hattie.\""
+    wi "\"Hello Hattie.\""
+
+# game/williamroute3.rpy:8386
+translate Schinese willinvestigation2_5dfcfab1:
+
+    # "The chopping stops."
+    "The chopping stops."
+
+# game/williamroute3.rpy:8389
+translate Schinese willinvestigation2_dc6e1920:
+
+    # "She turns, wearing a bemused expression."
+    "She turns, wearing a bemused expression."
+
+# game/williamroute3.rpy:8391
+translate Schinese willinvestigation2_45487080:
+
+    # hat "\"Will?\""
+    hat "\"Will?\""
+
+# game/williamroute3.rpy:8393
+translate Schinese willinvestigation2_1e5f426d:
+
+    # wi "\"Yeah, it’s me.\""
+    wi "\"Yeah, it’s me.\""
+
+# game/williamroute3.rpy:8396
+translate Schinese willinvestigation2_958678eb:
+
+    # hat "\"What on earth are you doing here?\""
+    hat "\"What on earth are you doing here?\""
+
+# game/williamroute3.rpy:8398
+translate Schinese willinvestigation2_034ac6a8:
+
+    # "She sounds angry."
+    "She sounds angry."
+
+# game/williamroute3.rpy:8399
+translate Schinese willinvestigation2_6d940f6a:
+
+    # "I can’t entirely blame her."
+    "I can’t entirely blame her."
+
+# game/williamroute3.rpy:8401
+translate Schinese willinvestigation2_862c7d32:
+
+    # hat "\"What, are you finally ready to talk?\""
+    hat "\"What, are you finally ready to talk?\""
+
+# game/williamroute3.rpy:8403
+translate Schinese willinvestigation2_be1f1951:
+
+    # wi "\"I’m here to talk.\""
+    wi "\"I’m here to talk.\""
+
+# game/williamroute3.rpy:8404
+translate Schinese willinvestigation2_19592802:
+
+    # wi "\"Just not necessarily about what you want to talk about.\""
+    wi "\"Just not necessarily about what you want to talk about.\""
+
+# game/williamroute3.rpy:8406
+translate Schinese willinvestigation2_6623a79c:
+
+    # hat "\"Spare me.\""
+    hat "\"Spare me.\""
+
+# game/williamroute3.rpy:8408
+translate Schinese willinvestigation2_0895541e:
+
+    # wi "\"I wouldn’t be here if I didn’t think you were in danger.\""
+    wi "\"I wouldn’t be here if I didn’t think you were in danger.\""
+
+# game/williamroute3.rpy:8410
+translate Schinese willinvestigation2_5e53417c:
+
+    # hat "\"You kidding me?\""
+    hat "\"You kidding me?\""
+
+# game/williamroute3.rpy:8413
+translate Schinese willinvestigation2_0d967b4e:
+
+    # hat "\"This is one of the safest places I’ve ever worked.\""
+    hat "\"This is one of the safest places I’ve ever worked.\""
+
+# game/williamroute3.rpy:8416
+translate Schinese willinvestigation2_520887b1:
+
+    # hat "\"The place is literally guarded.\""
+    hat "\"The place is literally guarded.\""
+
+# game/williamroute3.rpy:8418
+translate Schinese willinvestigation2_966a97bf:
+
+    # wi "\"I’m following a murder case.\""
+    wi "\"I’m following a murder case.\""
+
+# game/williamroute3.rpy:8421
+translate Schinese willinvestigation2_f479a793:
+
+    # "She picks up a handful of chopped tomato and drops it into the pot with a sizzle."
+    "She picks up a handful of chopped tomato and drops it into the pot with a sizzle."
+
+# game/williamroute3.rpy:8423
+translate Schinese willinvestigation2_18bcae14:
+
+    # hat "\"Hardly new territory for you then.\""
+    hat "\"Hardly new territory for you then.\""
+
+# game/williamroute3.rpy:8425
+translate Schinese willinvestigation2_f571ac27:
+
+    # wi "\"Every piece of evidence I come across keeps leading me back to this manor...\""
+    wi "\"Every piece of evidence I come across keeps leading me back to this manor...\""
+
+# game/williamroute3.rpy:8428
+translate Schinese willinvestigation2_ad6f49e7:
+
+    # "She turns around, looking a little less calm."
+    "She turns around, looking a little less calm."
+
+# game/williamroute3.rpy:8430
+translate Schinese willinvestigation2_13704628:
+
+    # hat "\"Evidence like what?\""
+    hat "\"Evidence like what?\""
+
+# game/williamroute3.rpy:8432
+translate Schinese willinvestigation2_7b9c055e:
+
+    # wi "\"The location of where a body was dumped, the speed at which it was dropped, the temperature, the trash found near where the body was discovered...\""
+    wi "\"The location of where a body was dumped, the speed at which it was dropped, the temperature, the trash found near where the body was discovered...\""
+
+# game/williamroute3.rpy:8433
+translate Schinese willinvestigation2_c0c5fce2:
+
+    # wi "\"It’s very possible that a serious crime was committed in or near the mansion last Thursday.\""
+    wi "\"It’s very possible that a serious crime was committed in or near the mansion last Thursday.\""
+
+# game/williamroute3.rpy:8434
+translate Schinese willinvestigation2_44c1184e:
+
+    # "She wobbles a bit and looks around her as if she’s expecting somebody to jump out of the shadows."
+    "She wobbles a bit and looks around her as if she’s expecting somebody to jump out of the shadows."
+
+# game/williamroute3.rpy:8435
+translate Schinese willinvestigation2_f0c6dc3d:
+
+    # "And she’s tongue-tied."
+    "And she’s tongue-tied."
+
+# game/williamroute3.rpy:8437
+translate Schinese willinvestigation2_4540b74d:
+
+    # "After muttering some gibberish she composes herself and clears her throat."
+    "After muttering some gibberish she composes herself and clears her throat."
+
+# game/williamroute3.rpy:8439
+translate Schinese willinvestigation2_abe52c51:
+
+    # hat "\"Well is there anything I can do to help you?\""
+    hat "\"Well is there anything I can do to help you?\""
+
+# game/williamroute3.rpy:8441
+translate Schinese willinvestigation2_b057a2ed:
+
+    # wi "\"Did you buy a large packet of tutti-frutti gum at Red’s general store last Wednesday?\""
+    wi "\"Did you buy a large packet of tutti-frutti gum at Red’s general store last Wednesday?\""
+
+# game/williamroute3.rpy:8445
+translate Schinese willinvestigation2_692628ac:
+
+    # "She shakes her head then shrugs as she goes back to her cooking."
+    "She shakes her head then shrugs as she goes back to her cooking."
+
+# game/williamroute3.rpy:8447
+translate Schinese willinvestigation2_e774a341:
+
+    # hat "\"Well yeah?\""
+    hat "\"Well yeah?\""
+
+# game/williamroute3.rpy:8450
+translate Schinese willinvestigation2_6d577095:
+
+    # hat "\"Master Hendricks likes that brand of gum.\""
+    hat "\"Master Hendricks likes that brand of gum.\""
+
+# game/williamroute3.rpy:8453
+translate Schinese willinvestigation2_51f5bc2d:
+
+    # hat "\"It’s a popular brand of gum.\""
+    hat "\"It’s a popular brand of gum.\""
+
+# game/williamroute3.rpy:8455
+translate Schinese willinvestigation2_fb74f5d0:
+
+    # wi "\"Maybe in the city were we come from, in case you haven’t noticed, here it’s a bit of a luxury.\""
+    wi "\"Maybe in the city were we come from, in case you haven’t noticed, here it’s a bit of a luxury.\""
+
+# game/williamroute3.rpy:8458
+translate Schinese willinvestigation2_552a1cf6:
+
+    # hat "\"Well sure, but gum can last a long time.\""
+    hat "\"Well sure, but gum can last a long time.\""
+
+# game/williamroute3.rpy:8461
+translate Schinese willinvestigation2_84dd1071:
+
+    # hat "\"I could keep packs of the stuff around for months and get a craving one day and chew a piece.\""
+    hat "\"I could keep packs of the stuff around for months and get a craving one day and chew a piece.\""
+
+# game/williamroute3.rpy:8463
+translate Schinese willinvestigation2_0126ce6f:
+
+    # wi "\"You’d tell me if Mr. Hendricks had you doing anything illegal, wouldn’t you, Hattie?\""
+    wi "\"You’d tell me if Mr. Hendricks had you doing anything illegal, wouldn’t you, Hattie?\""
+
+# game/williamroute3.rpy:8464
+translate Schinese willinvestigation2_703e375d:
+
+    # "She juts her chin out at me as she stirs the pot."
+    "She juts her chin out at me as she stirs the pot."
+
+# game/williamroute3.rpy:8466
+translate Schinese willinvestigation2_bee2ae71:
+
+    # hat "\"Oh brother.\""
+    hat "\"Oh brother.\""
+
+# game/williamroute3.rpy:8469
+translate Schinese willinvestigation2_10d3eb1d:
+
+    # hat "\"He hasn’t asked me to do anything illegal, Will.\""
+    hat "\"He hasn’t asked me to do anything illegal, Will.\""
+
+# game/williamroute3.rpy:8472
+translate Schinese willinvestigation2_6b175128:
+
+    # hat "\"Just chores. Some cooking. Some minor housekeeping. And keeping the lady of the house company.\""
+    hat "\"Just chores. Some cooking. Some minor housekeeping. And keeping the lady of the house company.\""
+
+# game/williamroute3.rpy:8475
+translate Schinese willinvestigation2_e97c2673:
+
+    # hat "\"Poor dear is completely isolated up here.\""
+    hat "\"Poor dear is completely isolated up here.\""
+
+# game/williamroute3.rpy:8477
+translate Schinese willinvestigation2_d776512e:
+
+    # wi "\"And you still don’t know who put you in contact with Mr. Hendricks, or why he’d be interest in importing a cook?\""
+    wi "\"And you still don’t know who put you in contact with Mr. Hendricks, or why he’d be interest in importing a cook?\""
+
+# game/williamroute3.rpy:8479
+translate Schinese willinvestigation2_86bbf26d:
+
+    # hat "\"Nope and nope.\""
+    hat "\"Nope and nope.\""
+
+# game/williamroute3.rpy:8481
+translate Schinese willinvestigation2_627b64f9:
+
+    # wi "\"Not even a letter?\""
+    wi "\"Not even a letter?\""
+
+# game/williamroute3.rpy:8482
+translate Schinese willinvestigation2_53602fa0:
+
+    # wi "\"There’s nothing--?\""
+    wi "\"There’s nothing--?\""
+
+# game/williamroute3.rpy:8485
+translate Schinese willinvestigation2_8e67bc47:
+
+    # hat "\"Taste this étouffée.\""
+    hat "\"Taste this étouffée.\""
+
+# game/williamroute3.rpy:8487
+translate Schinese willinvestigation2_09383595:
+
+    # "She shoves a spoon in my mouth that’s very close to being too hot and makes me slurp on it."
+    "She shoves a spoon in my mouth that’s very close to being too hot and makes me slurp on it."
+
+# game/williamroute3.rpy:8488
+translate Schinese willinvestigation2_62530592:
+
+    # wi "\"It’s fine, Hattie.\""
+    wi "\"It’s fine, Hattie.\""
+
+# game/williamroute3.rpy:8490
+translate Schinese willinvestigation2_38be9547:
+
+    # hat "\"I’m not going for {i}just fine{/i} Will!\""
+    hat "\"I’m not going for {i}just fine{/i} Will!\""
+
+# game/williamroute3.rpy:8493
+translate Schinese willinvestigation2_bbd7589c:
+
+    # hat "\"They’re paying me.\""
+    hat "\"They’re paying me.\""
+
+# game/williamroute3.rpy:8495
+translate Schinese willinvestigation2_f6e84264:
+
+    # wi "\"More salt, more heat.\""
+    wi "\"More salt, more heat.\""
+
+# game/williamroute3.rpy:8497
+translate Schinese willinvestigation2_75061a91:
+
+    # hat "\"Attaboy.\""
+    hat "\"Attaboy.\""
+
+# game/williamroute3.rpy:8501
+translate Schinese willinvestigation2_56b57e7b:
+
+    # "She gives the pot a stir and clanks the spoon on the side."
+    "She gives the pot a stir and clanks the spoon on the side."
+
+# game/williamroute3.rpy:8504
+translate Schinese willinvestigation2_a8f0e58e:
+
+    # "The she takes a look at me, drops the spoon, and sighs."
+    "The she takes a look at me, drops the spoon, and sighs."
+
+# game/williamroute3.rpy:8506
+translate Schinese willinvestigation2_79dd37e8:
+
+    # hat "\"You know, I’d tell you if I thought this job was putting me in danger, Will.\""
+    hat "\"You know, I’d tell you if I thought this job was putting me in danger, Will.\""
+
+# game/williamroute3.rpy:8509
+translate Schinese willinvestigation2_559468b6:
+
+    # hat "\"But it’s been extremely mundane.\""
+    hat "\"But it’s been extremely mundane.\""
+
+# game/williamroute3.rpy:8512
+translate Schinese willinvestigation2_b8828c16:
+
+    # hat "\"You know, after all we’ve been through back home, frankly I think I need a little bit of mundanity.\""
+    hat "\"You know, after all we’ve been through back home, frankly I think I need a little bit of mundanity.\""
+
+# game/williamroute3.rpy:8514
+translate Schinese willinvestigation2_152ec689:
+
+    # wi "\"I’m just letting you know that I think there’s gonna be trouble for you here.\""
+    wi "\"I’m just letting you know that I think there’s gonna be trouble for you here.\""
+
+# game/williamroute3.rpy:8516
+translate Schinese willinvestigation2_ddfb9993:
+
+    # wi "\"Even if we managed to outrun our old enemies--\""
+    wi "\"Even if we managed to outrun our old enemies--\""
+
+# game/williamroute3.rpy:8518
+translate Schinese willinvestigation2_f270ee6f:
+
+    # hat "\"Your enemies, Will.\""
+    hat "\"Your enemies, Will.\""
+
+# game/williamroute3.rpy:8521
+translate Schinese willinvestigation2_ae3373eb:
+
+    # hat "\"The only thing I ever did to those crooks was marry you.\""
+    hat "\"The only thing I ever did to those crooks was marry you.\""
+
+# game/williamroute3.rpy:8523
+translate Schinese willinvestigation2_b58195d3:
+
+    # wi "\"Unfortunately that’s enough.\""
+    wi "\"Unfortunately that’s enough.\""
+
+# game/williamroute3.rpy:8524
+translate Schinese willinvestigation2_4f4a5389:
+
+    # wi "\"They see the family as one unit.\""
+    wi "\"They see the family as one unit.\""
+
+# game/williamroute3.rpy:8526
+translate Schinese willinvestigation2_445f536e:
+
+    # hat "\"I wish you would have taken a page out of their book then.\""
+    hat "\"I wish you would have taken a page out of their book then.\""
+
+# game/williamroute3.rpy:8528
+translate Schinese willinvestigation2_008b9988:
+
+    # "I feel myself getting frustrated again."
+    "I feel myself getting frustrated again."
+
+# game/williamroute3.rpy:8530
+translate Schinese willinvestigation2_561491b6:
+
+    # wi "\"I would never treat anybody I’m with like a mere extension of myself.\""
+    wi "\"I would never treat anybody I’m with like a mere extension of myself.\""
+
+# game/williamroute3.rpy:8531
+translate Schinese willinvestigation2_0694b9c8:
+
+    # wi "\"It’s not sweet, nor loving, nor romantic.\""
+    wi "\"It’s not sweet, nor loving, nor romantic.\""
+
+# game/williamroute3.rpy:8532
+translate Schinese willinvestigation2_778c422b:
+
+    # wi "\"It’s just the most traditional way for somebody to unperson you.\""
+    wi "\"It’s just the most traditional way for somebody to unperson you.\""
+
+# game/williamroute3.rpy:8533
+translate Schinese willinvestigation2_60e57de2:
+
+    # "She looks a little taken aback."
+    "She looks a little taken aback."
+
+# game/williamroute3.rpy:8536
+translate Schinese willinvestigation2_77af3629:
+
+    # "But then she goes back to her pot."
+    "But then she goes back to her pot."
+
+# game/williamroute3.rpy:8538
+translate Schinese willinvestigation2_ca317da2:
+
+    # hat "\"At least tradition doesn’t so sound lonely.\""
+    hat "\"At least tradition doesn’t so sound lonely.\""
+
+# game/williamroute3.rpy:8540
+translate Schinese willinvestigation2_4480fdb4:
+
+    # wi "\"It was for me.\""
+    wi "\"It was for me.\""
+
+# game/williamroute3.rpy:8541
+translate Schinese willinvestigation2_cc5d83fb:
+
+    # "She juts out her chin again."
+    "She juts out her chin again."
+
+# game/williamroute3.rpy:8543
+translate Schinese willinvestigation2_4ab65632:
+
+    # hat "\"So then why do you still seem to care about me?\""
+    hat "\"So then why do you still seem to care about me?\""
+
+# game/williamroute3.rpy:8545
+translate Schinese willinvestigation2_ebad492e_1:
+
+    # "I exhale."
+    "I exhale."
+
+# game/williamroute3.rpy:8546
+translate Schinese willinvestigation2_e37cc876:
+
+    # wi "\"They don’t want us to smoke in the kitchen, do they?\""
+    wi "\"They don’t want us to smoke in the kitchen, do they?\""
+
+# game/williamroute3.rpy:8548
+translate Schinese willinvestigation2_f18dc423:
+
+    # hat "\"No, but I certainly wouldn’t want you to either.\""
+    hat "\"No, but I certainly wouldn’t want you to either.\""
+
+# game/williamroute3.rpy:8551
+translate Schinese willinvestigation2_4243bebb:
+
+    # hat "\"Stop evading the question.\""
+    hat "\"Stop evading the question.\""
+
+# game/williamroute3.rpy:8553
+translate Schinese willinvestigation2_46f80d98:
+
+    # wi "\"I’ll tell you when I either have nothing else left to lose...\""
+    wi "\"I’ll tell you when I either have nothing else left to lose...\""
+
+# game/williamroute3.rpy:8554
+translate Schinese willinvestigation2_a21b3255:
+
+    # wi "\"Or when it’s safe to.\""
+    wi "\"Or when it’s safe to.\""
+
+# game/williamroute3.rpy:8555
+translate Schinese willinvestigation2_0459e678:
+
+    # "And there’s more than a million miles between us."
+    "And there’s more than a million miles between us."
+
+# game/williamroute3.rpy:8557
+translate Schinese willinvestigation2_bfe5e589:
+
+    # hat "\"For all your flaws, you were always honest, Will.\""
+    hat "\"For all your flaws, you were always honest, Will.\""
+
+# game/williamroute3.rpy:8559
+translate Schinese willinvestigation2_2f6c9bb9:
+
+    # "She turns the flame down low."
+    "She turns the flame down low."
+
+# game/williamroute3.rpy:8562
+translate Schinese willinvestigation2_0caaabe7:
+
+    # hat "\"There is something strange I found.\""
+    hat "\"There is something strange I found.\""
+
+# game/williamroute3.rpy:8565
+translate Schinese willinvestigation2_3eaad080:
+
+    # hat "\"Come on.\""
+    hat "\"Come on.\""
+
+# game/williamroute3.rpy:8571
+translate Schinese willinvestigation2_00c49197:
+
+    # "She leads me around a corner and into what looks like the opening of the basement."
+    "She leads me around a corner and into what looks like the opening of the basement."
+
+# game/williamroute3.rpy:8572
+translate Schinese willinvestigation2_614f2719:
+
+    # "Beside the door, there is what looks like an old vanity cabinet."
+    "Beside the door, there is what looks like an old vanity cabinet."
+
+# game/williamroute3.rpy:8574
+translate Schinese willinvestigation2_59f28dfc:
+
+    # "She opens one of the draws and what I see shocks me."
+    "She opens one of the draws and what I see shocks me."
+
+# game/williamroute3.rpy:8579
+translate Schinese willinvestigation2_032db583:
+
+    # "She pulls out the biggest collection of hand mirrors I’ve ever seen."
+    "She pulls out the biggest collection of hand mirrors I’ve ever seen."
+
+# game/williamroute3.rpy:8580
+translate Schinese willinvestigation2_5dac79d2:
+
+    # wi "\"What?\""
+    wi "\"What?\""
+
+# game/williamroute3.rpy:8582
+translate Schinese willinvestigation2_3e6983ea:
+
+    # hat "\"I know what you might be thinking.\""
+    hat "\"I know what you might be thinking.\""
+
+# game/williamroute3.rpy:8585
+translate Schinese willinvestigation2_b063bedc:
+
+    # hat "\"Mrs. Hendricks must be an eccentric to own all of these hand mirrors.\""
+    hat "\"Mrs. Hendricks must be an eccentric to own all of these hand mirrors.\""
+
+# game/williamroute3.rpy:8588
+translate Schinese willinvestigation2_2ab8c9ab:
+
+    # hat "\"Nah.\""
+    hat "\"Nah.\""
+
+# game/williamroute3.rpy:8591
+translate Schinese willinvestigation2_033e6049:
+
+    # hat "\"She doesn’t know they’re here.\""
+    hat "\"She doesn’t know they’re here.\""
+
+# game/williamroute3.rpy:8593
+translate Schinese willinvestigation2_9095585e:
+
+    # wi "\"But why are they here?\""
+    wi "\"But why are they here?\""
+
+# game/williamroute3.rpy:8595
+translate Schinese willinvestigation2_b0f0188c:
+
+    # hat "\"I was hoping you could tell me.\""
+    hat "\"I was hoping you could tell me.\""
+
+# game/williamroute3.rpy:8598
+translate Schinese willinvestigation2_35fbfc61:
+
+    # hat "\"Please get back to me if you figure it out.\""
+    hat "\"Please get back to me if you figure it out.\""
+
+# game/williamroute3.rpy:8600
+translate Schinese willinvestigation2_b218cd53:
+
+    # "What the hell."
+    "What the hell."
+
+# game/williamroute3.rpy:8602
+translate Schinese willinvestigation2_63dedcb1:
+
+    # hat "\"Anyways, I’m on the clock still.\""
+    hat "\"Anyways, I’m on the clock still.\""
+
+# game/williamroute3.rpy:8605
+translate Schinese willinvestigation2_9bd43440:
+
+    # hat "\"I have a dinner to prepare.\""
+    hat "\"I have a dinner to prepare.\""
+
+# game/williamroute3.rpy:8608
+translate Schinese willinvestigation2_aec7227b:
+
+    # hat "\"If you need to find me again then you know where I’ll be.\""
+    hat "\"If you need to find me again then you know where I’ll be.\""
+
+# game/williamroute3.rpy:8611
+translate Schinese willinvestigation2_554a70e4:
+
+    # "She leaves me with my thoughts in the cellar."
+    "She leaves me with my thoughts in the cellar."
+
+# game/williamroute3.rpy:8612
+translate Schinese willinvestigation2_13c4ca4b:
+
+    # "The closer she gets to dinner time the more likely Mr. Hendricks will come home and limit where I can look."
+    "The closer she gets to dinner time the more likely Mr. Hendricks will come home and limit where I can look."
+
+# game/williamroute3.rpy:8621
+translate Schinese willinvestigation2_b0ad3f0e:
+
+    # "I make my way back to the living room."
+    "I make my way back to the living room."
+
+# game/williamroute3.rpy:8622
+translate Schinese willinvestigation2_04f840fa:
+
+    # "Nik and Mrs. Hendricks seems to be deep in conversation when I return."
+    "Nik and Mrs. Hendricks seems to be deep in conversation when I return."
+
+# game/williamroute3.rpy:8626
+translate Schinese willinvestigation2_bee2ccdb:
+
+    # mrs "\"Did you make it to the kitchen alright?\""
+    mrs "\"Did you make it to the kitchen alright?\""
+
+# game/williamroute3.rpy:8628
+translate Schinese willinvestigation2_84b9f3d9:
+
+    # wi "\"Not a lick of trouble, ma’am.\""
+    wi "\"Not a lick of trouble, ma’am.\""
+
+# game/williamroute3.rpy:8630
+translate Schinese willinvestigation2_12e37b55:
+
+    # "I should spend the rest of my time wisely."
+    "I should spend the rest of my time wisely."
+
+# game/williamroute3.rpy:8641
+translate Schinese willinvestigation2_c8e9cd38:
+
+    # wi "\"Aside from the noises and the strange doors, is there anything else odd about the house I should know?\""
+    wi "\"Aside from the noises and the strange doors, is there anything else odd about the house I should know?\""
+
+# game/williamroute3.rpy:8643
+translate Schinese willinvestigation2_b3f458ab:
+
+    # mrs "\"Well I would like to know where an occasional smell is coming from.\""
+    mrs "\"Well I would like to know where an occasional smell is coming from.\""
+
+# game/williamroute3.rpy:8645
+translate Schinese willinvestigation2_59d318cb:
+
+    # wi "\"A smell?\""
+    wi "\"A smell?\""
+
+# game/williamroute3.rpy:8647
+translate Schinese willinvestigation2_2c19ec4a:
+
+    # mrs "\"Well yes, but it’s not a smell that lingers like a foul misasma.\""
+    mrs "\"Well yes, but it’s not a smell that lingers like a foul misasma.\""
+
+# game/williamroute3.rpy:8650
+translate Schinese willinvestigation2_c69fab45:
+
+    # mrs "\"It comes and goes.\""
+    mrs "\"It comes and goes.\""
+
+# game/williamroute3.rpy:8653
+translate Schinese willinvestigation2_b6a86259:
+
+    # mrs "\"Like a wave at the beach.\""
+    mrs "\"Like a wave at the beach.\""
+
+# game/williamroute3.rpy:8655
+translate Schinese willinvestigation2_bee47901:
+
+    # wi "\"It’s just instead of feeling a force that makes you float, you smell something.\""
+    wi "\"It’s just instead of feeling a force that makes you float, you smell something.\""
+
+# game/williamroute3.rpy:8657
+translate Schinese willinvestigation2_b468d281:
+
+    # ni "\"Smell what exactly?\""
+    ni "\"Smell what exactly?\""
+
+# game/williamroute3.rpy:8660
+translate Schinese willinvestigation2_b89de4eb:
+
+    # "She looks away, as if thinking,{nw}"
+    "She looks away, as if thinking,{nw}"
+
+# game/williamroute3.rpy:8662
+translate Schinese willinvestigation2_4e31542e:
+
+    # extend " opens her mouth before shutting it,{nw}"
+    extend " opens her mouth before shutting it,{nw}"
+
+# game/williamroute3.rpy:8664
+translate Schinese willinvestigation2_c13e1078:
+
+    # extend " tapping her chin."
+    extend " tapping her chin."
+
+# game/williamroute3.rpy:8666
+translate Schinese willinvestigation2_1762966f:
+
+    # mrs "\"Burning.\""
+    mrs "\"Burning.\""
+
+# game/williamroute3.rpy:8668
+translate Schinese willinvestigation2_6c750b91:
+
+    # wi "\"Burning what?\""
+    wi "\"Burning what?\""
+
+# game/williamroute3.rpy:8669
+translate Schinese willinvestigation2_080efb59:
+
+    # wi "\"Wood? Plastic?\""
+    wi "\"Wood? Plastic?\""
+
+# game/williamroute3.rpy:8671
+translate Schinese willinvestigation2_3060bc7d:
+
+    # mrs "\"Just a very deep, very powerful smell.\""
+    mrs "\"Just a very deep, very powerful smell.\""
+
+# game/williamroute3.rpy:8674
+translate Schinese willinvestigation2_0775a46b:
+
+    # mrs "\"I almost want to say the burning scent of everything imaginable.\""
+    mrs "\"I almost want to say the burning scent of everything imaginable.\""
+
+# game/williamroute3.rpy:8677
+translate Schinese willinvestigation2_77290d61:
+
+    # mrs "\"But there’s a fatty smell.\""
+    mrs "\"But there’s a fatty smell.\""
+
+# game/williamroute3.rpy:8680
+translate Schinese willinvestigation2_311245c2:
+
+    # mrs "\"Almost like bacon fat?\""
+    mrs "\"Almost like bacon fat?\""
+
+# game/williamroute3.rpy:8682
+translate Schinese willinvestigation2_3f0d2998:
+
+    # wi "\"There’s no chance that’s coming from your cook?\""
+    wi "\"There’s no chance that’s coming from your cook?\""
+
+# game/williamroute3.rpy:8685
+translate Schinese willinvestigation2_832cf42c:
+
+    # mrs "\"No, the kitchens are vented.\""
+    mrs "\"No, the kitchens are vented.\""
+
+# game/williamroute3.rpy:8688
+translate Schinese willinvestigation2_31e66469:
+
+    # mrs "\"And those scents tend to linger then fade.\""
+    mrs "\"And those scents tend to linger then fade.\""
+
+# game/williamroute3.rpy:8691
+translate Schinese willinvestigation2_51116abe:
+
+    # mrs "\"These are here then gone.\""
+    mrs "\"These are here then gone.\""
+
+# game/williamroute3.rpy:8693
+translate Schinese willinvestigation2_8145974f:
+
+    # noa "\"Mommy I’m bored.\""
+    noa "\"Mommy I’m bored.\""
+
+# game/williamroute3.rpy:8695
+translate Schinese willinvestigation2_f57812bb:
+
+    # mrs "\"I’m sorry sweetie.\""
+    mrs "\"I’m sorry sweetie.\""
+
+# game/williamroute3.rpy:8698
+translate Schinese willinvestigation2_f7d0d40a:
+
+    # mrs "\"Papa has plenty of nice books we can read together?\""
+    mrs "\"Papa has plenty of nice books we can read together?\""
+
+# game/williamroute3.rpy:8701
+translate Schinese willinvestigation2_be38a93a:
+
+    # mrs "\"Would you like me to pick one out?\""
+    mrs "\"Would you like me to pick one out?\""
+
+# game/williamroute3.rpy:8703
+translate Schinese willinvestigation2_d91b40c5:
+
+    # noa "\"Maybe later.\""
+    noa "\"Maybe later.\""
+
+# game/williamroute3.rpy:8705
+translate Schinese willinvestigation2_4ca93267:
+
+    # "The young ram brushes against me."
+    "The young ram brushes against me."
+
+# game/williamroute3.rpy:8706
+translate Schinese willinvestigation2_606b6702:
+
+    # "He’s looking down at my gun again."
+    "He’s looking down at my gun again."
+
+# game/williamroute3.rpy:8707
+translate Schinese willinvestigation2_51ba4d43:
+
+    # "Now he’s actually going for it."
+    "Now he’s actually going for it."
+
+# game/williamroute3.rpy:8710
+translate Schinese willinvestigation2_bcdfe0da:
+
+    # wi "\"Whoa whoa whoa, that’s not for you!\""
+    wi "\"Whoa whoa whoa, that’s not for you!\""
+
+# game/williamroute3.rpy:8712
+translate Schinese willinvestigation2_ee4467cb:
+
+    # "I push his hands away and he freezes."
+    "I push his hands away and he freezes."
+
+# game/williamroute3.rpy:8713
+translate Schinese willinvestigation2_1bcec06c:
+
+    # "He looks embarrassed, like he didn’t think he was going to get caught."
+    "He looks embarrassed, like he didn’t think he was going to get caught."
+
+# game/williamroute3.rpy:8714
+translate Schinese willinvestigation2_6cca4431:
+
+    # "Then he stops and looks up at me."
+    "Then he stops and looks up at me."
+
+# game/williamroute3.rpy:8716
+translate Schinese willinvestigation2_734874c2:
+
+    # noa "\"Do you kill people?\""
+    noa "\"Do you kill people?\""
+
+# game/williamroute3.rpy:8719
+translate Schinese willinvestigation2_f857d0cb:
+
+    # mrs "\"Noah! Don’t ask him that!\""
+    mrs "\"Noah! Don’t ask him that!\""
+
+# game/williamroute3.rpy:8721
+translate Schinese willinvestigation2_2e7df407:
+
+    # "I scratch the back of my head."
+    "I scratch the back of my head."
+
+# game/williamroute3.rpy:8722
+translate Schinese willinvestigation2_060942e0:
+
+    # "This is real awkward."
+    "This is real awkward."
+
+# game/williamroute3.rpy:8723
+translate Schinese willinvestigation2_61da241e:
+
+    # wi "\"I do my best to make sure that doesn’t have to happen.\""
+    wi "\"I do my best to make sure that doesn’t have to happen.\""
+
+# game/williamroute3.rpy:8724
+translate Schinese willinvestigation2_67fe2f7b:
+
+    # "He stands on his tip-toes and wobbles his head."
+    "He stands on his tip-toes and wobbles his head."
+
+# game/williamroute3.rpy:8725
+translate Schinese willinvestigation2_5af3af6f:
+
+    # noa "\"But that’s not answering the question.\""
+    noa "\"But that’s not answering the question.\""
+
+# game/williamroute3.rpy:8726
+translate Schinese willinvestigation2_3c8322a0:
+
+    # "He stares at me a bit, wiggling his lips like he’s not entirely sure how to make the right sorts of faces for adult situations yet."
+    "He stares at me a bit, wiggling his lips like he’s not entirely sure how to make the right sorts of faces for adult situations yet."
+
+# game/williamroute3.rpy:8728
+translate Schinese willinvestigation2_8b6b8b9d:
+
+    # wi "\"Yes, son. I’ve killed people.\""
+    wi "\"Yes, son. I’ve killed people.\""
+
+# game/williamroute3.rpy:8729
+translate Schinese willinvestigation2_2dd8597c:
+
+    # noa "\"Wow!\""
+    noa "\"Wow!\""
+
+# game/williamroute3.rpy:8730
+translate Schinese willinvestigation2_c4c42509:
+
+    # "I wait for him to follow up on that."
+    "I wait for him to follow up on that."
+
+# game/williamroute3.rpy:8731
+translate Schinese willinvestigation2_0356a19a:
+
+    # "But he doesn’t."
+    "But he doesn’t."
+
+# game/williamroute3.rpy:8732
+translate Schinese willinvestigation2_3a87c9ff:
+
+    # "Frankly I had expected him to say a little more than just {i}wow{/i}."
+    "Frankly I had expected him to say a little more than just {i}wow{/i}."
+
+# game/williamroute3.rpy:8733
+translate Schinese willinvestigation2_d816bf9e:
+
+    # wi "\"Who exactly is teaching you to talk like that?\""
+    wi "\"Who exactly is teaching you to talk like that?\""
+
+# game/williamroute3.rpy:8734
+translate Schinese willinvestigation2_a05e72ff:
+
+    # "He frowns, and shakes a bit."
+    "He frowns, and shakes a bit."
+
+# game/williamroute3.rpy:8735
+translate Schinese willinvestigation2_ffc20203:
+
+    # noa "\"Well you’re Andy’s papa, right?\""
+    noa "\"Well you’re Andy’s papa, right?\""
+
+# game/williamroute3.rpy:8736
+translate Schinese willinvestigation2_ebad492e_2:
+
+    # "I exhale."
+    "I exhale."
+
+# game/williamroute3.rpy:8737
+translate Schinese willinvestigation2_53ea5f21:
+
+    # wi "\"Something like that.\""
+    wi "\"Something like that.\""
+
+# game/williamroute3.rpy:8738
+translate Schinese willinvestigation2_ed000ae6:
+
+    # "The outside of his cheeks are red."
+    "The outside of his cheeks are red."
+
+# game/williamroute3.rpy:8739
+translate Schinese willinvestigation2_851f908a:
+
+    # noa "\"It was his idea!\""
+    noa "\"It was his idea!\""
+
+# game/williamroute3.rpy:8740
+translate Schinese willinvestigation2_36b808cb:
+
+    # wi "\"Oh was it?\""
+    wi "\"Oh was it?\""
+
+# game/williamroute3.rpy:8741
+translate Schinese willinvestigation2_6b48bb01:
+
+    # noa "\"He said he’s tell me more stories about the army if I could get a hold of it.\""
+    noa "\"He said he’s tell me more stories about the army if I could get a hold of it.\""
+
+# game/williamroute3.rpy:8742
+translate Schinese willinvestigation2_a28f4602:
+
+    # noa "\"But we’re just playing around mister! That’s all!\""
+    noa "\"But we’re just playing around mister! That’s all!\""
+
+# game/williamroute3.rpy:8743
+translate Schinese willinvestigation2_d64e0dbe:
+
+    # wi "\"Then you should play with less dangerous things.\""
+    wi "\"Then you should play with less dangerous things.\""
+
+# game/williamroute3.rpy:8744
+translate Schinese willinvestigation2_802756e9:
+
+    # wi "\"These aren’t toys.\""
+    wi "\"These aren’t toys.\""
+
+# game/williamroute3.rpy:8745
+translate Schinese willinvestigation2_42e26bcc:
+
+    # noa "\"Okay.\""
+    noa "\"Okay.\""
+
+# game/williamroute3.rpy:8746
+translate Schinese willinvestigation2_fe01d6ba:
+
+    # noa "\"Mama, I’m going to go play with my blocks now.\""
+    noa "\"Mama, I’m going to go play with my blocks now.\""
+
+# game/williamroute3.rpy:8748
+translate Schinese willinvestigation2_d4f1dd16:
+
+    # mrs "\"...Okay, Noah.\""
+    mrs "\"...Okay, Noah.\""
+
+# game/williamroute3.rpy:8751
+translate Schinese willinvestigation2_09b11e21:
+
+    # mrs "\"Please make sure to play safely!\""
+    mrs "\"Please make sure to play safely!\""
+
+# game/williamroute3.rpy:8753
+translate Schinese willinvestigation2_86b44ba2:
+
+    # "She looks very worried, but twice as tired."
+    "She looks very worried, but twice as tired."
+
+# game/williamroute3.rpy:8754
+translate Schinese willinvestigation2_801a5e9f:
+
+    # wi "\"Children.\""
+    wi "\"Children.\""
+
+# game/williamroute3.rpy:8755
+translate Schinese willinvestigation2_14f87318:
+
+    # wi "\"They’re little people.\""
+    wi "\"They’re little people.\""
+
+# game/williamroute3.rpy:8756
+translate Schinese willinvestigation2_963b92bb:
+
+    # "Who don’t know that taking a weapon from a sheriff isn’t a smart thing to do yet."
+    "Who don’t know that taking a weapon from a sheriff isn’t a smart thing to do yet."
+
+# game/williamroute3.rpy:8758
+translate Schinese willinvestigation2_e7948db4:
+
+    # mrs "\"Yes...\""
+    mrs "\"Yes...\""
+
+# game/williamroute3.rpy:8761
+translate Schinese willinvestigation2_c7ab2b70:
+
+    # mrs "\"And so much personality for a body that size.\""
+    mrs "\"And so much personality for a body that size.\""
+
+# game/williamroute3.rpy:8763
+translate Schinese willinvestigation2_06b88718:
+
+    # "Mrs. Hendricks sinks into her chair and lets out a sigh."
+    "Mrs. Hendricks sinks into her chair and lets out a sigh."
+
+# game/williamroute3.rpy:8766
+translate Schinese willinvestigation2_7fd501ad:
+
+    # "Sometimes the things kids ask you are the scariest thing that can happen in a day on the job."
+    "Sometimes the things kids ask you are the scariest thing that can happen in a day on the job."
+
+# game/williamroute3.rpy:8767
+translate Schinese willinvestigation2_ddf77ff1:
+
+    # "But I probably shouldn’t spend much more time in the living room."
+    "But I probably shouldn’t spend much more time in the living room."
+
+# game/williamroute3.rpy:8768
+translate Schinese willinvestigation2_f66f324c:
+
+    # "I need to make sure I can learn as much as I can."
+    "I need to make sure I can learn as much as I can."
+
+# game/williamroute3.rpy:8780
+translate Schinese postwillinvestigation2_d4f00b20:
+
+    # ni "\"Ma’am, do you mind if I show the sheriff something upstairs?\""
+    ni "\"Ma’am, do you mind if I show the sheriff something upstairs?\""
+
+# game/williamroute3.rpy:8783
+translate Schinese postwillinvestigation2_dfab7d55:
+
+    # ni "\"There’s something I think he should see.\""
+    ni "\"There’s something I think he should see.\""
+
+# game/williamroute3.rpy:8786
+translate Schinese postwillinvestigation2_10b9b34e:
+
+    # mrs "\"If that’s the case then please help do your best to help him.\""
+    mrs "\"If that’s the case then please help do your best to help him.\""
+
+# game/williamroute3.rpy:8789
+translate Schinese postwillinvestigation2_37a718e8:
+
+    # wi "\"Lead the way, Nik.\""
+    wi "\"Lead the way, Nik.\""
+
+# game/williamroute3.rpy:8793
+translate Schinese postwillinvestigation2_6d7f07f1:
+
+    # "He leads me back to the foyer, and we’re in front of the portrait again."
+    "He leads me back to the foyer, and we’re in front of the portrait again."
+
+# game/williamroute3.rpy:8794
+translate Schinese postwillinvestigation2_3be5d33f:
+
+    # "He looks behind his shoulder at the hall and the front door before he speaks."
+    "He looks behind his shoulder at the hall and the front door before he speaks."
+
+# game/williamroute3.rpy:8796
+translate Schinese postwillinvestigation2_0ef5d8e1:
+
+    # ni "\"What shook you up?\""
+    ni "\"What shook you up?\""
+
+# game/williamroute3.rpy:8798
+translate Schinese postwillinvestigation2_0761c748:
+
+    # wi "\"What do you mean?\""
+    wi "\"What do you mean?\""
+
+# game/williamroute3.rpy:8801
+translate Schinese postwillinvestigation2_3167f85a:
+
+    # ni "\"There is more strain in your voice than there was before.\""
+    ni "\"There is more strain in your voice than there was before.\""
+
+# game/williamroute3.rpy:8803
+translate Schinese postwillinvestigation2_6fecc89b:
+
+    # wi "\"Well I handled the talk with Hattie less than perfectly.\""
+    wi "\"Well I handled the talk with Hattie less than perfectly.\""
+
+# game/williamroute3.rpy:8805
+translate Schinese postwillinvestigation2_2d6aaada:
+
+    # ni "\"She is your wife, yes?\""
+    ni "\"She is your wife, yes?\""
+
+# game/williamroute3.rpy:8806
+translate Schinese postwillinvestigation2_a949e5f4:
+
+    # wi "\"Ex-wife.\""
+    wi "\"Ex-wife.\""
+
+# game/williamroute3.rpy:8807
+translate Schinese postwillinvestigation2_aba93281:
+
+    # ni "\"So you are concerned for her?\""
+    ni "\"So you are concerned for her?\""
+
+# game/williamroute3.rpy:8809
+translate Schinese postwillinvestigation2_6efa8140:
+
+    # wi "\"More concerned than she is for herself I fear.\""
+    wi "\"More concerned than she is for herself I fear.\""
+
+# game/williamroute3.rpy:8811
+translate Schinese postwillinvestigation2_34fd276f:
+
+    # "He hums."
+    "He hums."
+
+# game/williamroute3.rpy:8812
+translate Schinese postwillinvestigation2_4945c130:
+
+    # ni "\"It sounds like you still want input on her decisions.\""
+    ni "\"It sounds like you still want input on her decisions.\""
+
+# game/williamroute3.rpy:8813
+translate Schinese postwillinvestigation2_79667380:
+
+    # ni "\"You do not get to do that anymore.\""
+    ni "\"You do not get to do that anymore.\""
+
+# game/williamroute3.rpy:8815
+translate Schinese postwillinvestigation2_71fe8274:
+
+    # wi "\"I know.\""
+    wi "\"I know.\""
+
+# game/williamroute3.rpy:8816
+translate Schinese postwillinvestigation2_afc2da8f:
+
+    # wi "\"But I don’t want to just stand by and do nothing either.\""
+    wi "\"But I don’t want to just stand by and do nothing either.\""
+
+# game/williamroute3.rpy:8817
+translate Schinese postwillinvestigation2_ed422ce1:
+
+    # wi "\"I know she’s in some kind of trouble.\""
+    wi "\"I know she’s in some kind of trouble.\""
+
+# game/williamroute3.rpy:8819
+translate Schinese postwillinvestigation2_15bec1c6:
+
+    # ni "\"Do you really think she’s more where she was than where she is now?\""
+    ni "\"Do you really think she’s more where she was than where she is now?\""
+
+# game/williamroute3.rpy:8821
+translate Schinese postwillinvestigation2_09f076f7:
+
+    # wi "\"Some creeps found her apartment, but she could have relocated instead of coming to me.\""
+    wi "\"Some creeps found her apartment, but she could have relocated instead of coming to me.\""
+
+# game/williamroute3.rpy:8822
+translate Schinese postwillinvestigation2_2c733504:
+
+    # wi "\"We have a better chance of not getting tailed if we keep away from each other.\""
+    wi "\"We have a better chance of not getting tailed if we keep away from each other.\""
+
+# game/williamroute3.rpy:8824
+translate Schinese postwillinvestigation2_b39b7c4c:
+
+    # ni "\"Have you considered that she could be completely safe, and the only reason she was brought here was to bother you?\""
+    ni "\"Have you considered that she could be completely safe, and the only reason she was brought here was to bother you?\""
+
+# game/williamroute3.rpy:8826
+translate Schinese postwillinvestigation2_32eca4ff:
+
+    # wi "\"Well I know at least part of it was meant to bother me.\""
+    wi "\"Well I know at least part of it was meant to bother me.\""
+
+# game/williamroute3.rpy:8828
+translate Schinese postwillinvestigation2_47009a80:
+
+    # ni "\"So is it not working?\""
+    ni "\"So is it not working?\""
+
+# game/williamroute3.rpy:8830
+translate Schinese postwillinvestigation2_22022cc2:
+
+    # wi "\"Is this supposed to be helping, Nik?\""
+    wi "\"Is this supposed to be helping, Nik?\""
+
+# game/williamroute3.rpy:8832
+translate Schinese postwillinvestigation2_c8db62eb:
+
+    # ni "\"Yes.\""
+    ni "\"Yes.\""
+
+# game/williamroute3.rpy:8835
+translate Schinese postwillinvestigation2_998e05fd:
+
+    # ni "\"You have to figure out how to keep it from bothering you.\""
+    ni "\"You have to figure out how to keep it from bothering you.\""
+
+# game/williamroute3.rpy:8837
+translate Schinese postwillinvestigation2_3a355940:
+
+    # ni "\"That is the only thing you can do when somebody has power over you.\""
+    ni "\"That is the only thing you can do when somebody has power over you.\""
+
+# game/williamroute3.rpy:8839
+translate Schinese postwillinvestigation2_eefbbb09:
+
+    # wi "\"I’d feel a hell of a lot better if justice in this country carried out its function.\""
+    wi "\"I’d feel a hell of a lot better if justice in this country carried out its function.\""
+
+# game/williamroute3.rpy:8842
+translate Schinese postwillinvestigation2_16d71a43:
+
+    # ni "\"We both know it often doesn’t.\""
+    ni "\"We both know it often doesn’t.\""
+
+# game/williamroute3.rpy:8845
+translate Schinese postwillinvestigation2_59ab147b:
+
+    # ni "\"You alone can’t be the arbiter of that.\""
+    ni "\"You alone can’t be the arbiter of that.\""
+
+# game/williamroute3.rpy:8847
+translate Schinese postwillinvestigation2_1aba1203:
+
+    # wi "\"Okay then.\""
+    wi "\"Okay then.\""
+
+# game/williamroute3.rpy:8848
+translate Schinese postwillinvestigation2_e8525403:
+
+    # wi "\"So what can we do right now?\""
+    wi "\"So what can we do right now?\""
+
+# game/williamroute3.rpy:8850
+translate Schinese postwillinvestigation2_4d692c3f:
+
+    # ni "\"First you want to find out if she’s actually in danger, yes?\""
+    ni "\"First you want to find out if she’s actually in danger, yes?\""
+
+# game/williamroute3.rpy:8852
+translate Schinese postwillinvestigation2_051dd266:
+
+    # wi "\"...Yes.\""
+    wi "\"...Yes.\""
+
+# game/williamroute3.rpy:8854
+translate Schinese postwillinvestigation2_6160d1af:
+
+    # ni "\"Just check his office.\""
+    ni "\"Just check his office.\""
+
+# game/williamroute3.rpy:8855
+translate Schinese postwillinvestigation2_1cff2617:
+
+    # wi "\"James’ office?\""
+    wi "\"James’ office?\""
+
+# game/williamroute3.rpy:8856
+translate Schinese postwillinvestigation2_c8db62eb_1:
+
+    # ni "\"Yes.\""
+    ni "\"Yes.\""
+
+# game/williamroute3.rpy:8857
+translate Schinese postwillinvestigation2_ad76a222:
+
+    # ni "\"It is the first door to the right at the top of the stairs.\""
+    ni "\"It is the first door to the right at the top of the stairs.\""
+
+# game/williamroute3.rpy:8858
+translate Schinese postwillinvestigation2_10fe6939:
+
+    # wi "\"And how do you know that?\""
+    wi "\"And how do you know that?\""
+
+# game/williamroute3.rpy:8859
+translate Schinese postwillinvestigation2_73e2397b:
+
+    # ni "\"He told me earlier.\""
+    ni "\"He told me earlier.\""
+
+# game/williamroute3.rpy:8860
+translate Schinese postwillinvestigation2_312b4a62:
+
+    # "That sounds like a bad lie to me, but I don’t think I need to press him on it."
+    "That sounds like a bad lie to me, but I don’t think I need to press him on it."
+
+# game/williamroute3.rpy:8862
+translate Schinese postwillinvestigation2_cfb79a7d:
+
+    # wi "\"Won’t we need to get a key if we want to look?\""
+    wi "\"Won’t we need to get a key if we want to look?\""
+
+# game/williamroute3.rpy:8864
+translate Schinese postwillinvestigation2_fb49b803:
+
+    # ni "\"Let’s just turn the knob first and see.\""
+    ni "\"Let’s just turn the knob first and see.\""
+
+# game/williamroute3.rpy:8867
+translate Schinese postwillinvestigation2_a3f7785e:
+
+    # ni "\"I do not think James is careful enough with evidence to lock his office.\""
+    ni "\"I do not think James is careful enough with evidence to lock his office.\""
+
+# game/williamroute3.rpy:8869
+translate Schinese postwillinvestigation2_e7cb086d:
+
+    # wi "\"And why do you figure that?\""
+    wi "\"And why do you figure that?\""
+
+# game/williamroute3.rpy:8871
+translate Schinese postwillinvestigation2_8bf1527b:
+
+    # ni "\"He’s not one to think he’s doing anything wrong.\""
+    ni "\"He’s not one to think he’s doing anything wrong.\""
+
+# game/williamroute3.rpy:8873
+translate Schinese postwillinvestigation2_5c97b39f:
+
+    # wi "\"Still, you’d think he has to know tons of people don’t like him.\""
+    wi "\"Still, you’d think he has to know tons of people don’t like him.\""
+
+# game/williamroute3.rpy:8875
+translate Schinese postwillinvestigation2_b5c4aa37:
+
+    # ni "\"I don’t actually know if he does.\""
+    ni "\"I don’t actually know if he does.\""
+
+# game/williamroute3.rpy:8877
+translate Schinese postwillinvestigation2_6a20a80d:
+
+    # "I shake my head."
+    "I shake my head."
+
+# game/williamroute3.rpy:8878
+translate Schinese postwillinvestigation2_6f2e6562:
+
+    # wi "\"Let’s go ahead and try it then.\""
+    wi "\"Let’s go ahead and try it then.\""
+
+# game/williamroute3.rpy:8881
+translate Schinese postwillinvestigation2_a593ddad:
+
+    # "We climb up the right side of the stairs and reach the second floor hallway."
+    "We climb up the right side of the stairs and reach the second floor hallway."
+
+# game/williamroute3.rpy:8883
+translate Schinese postwillinvestigation2_64cdf12f:
+
+    # "The first door we see I give Nik a look and he nods."
+    "The first door we see I give Nik a look and he nods."
+
+# game/williamroute3.rpy:8886
+translate Schinese postwillinvestigation2_061e28ab:
+
+    # "So I decide to turn it."
+    "So I decide to turn it."
+
+# game/williamroute3.rpy:8888
+translate Schinese postwillinvestigation2_7b0c6102:
+
+    # "And it actually does open."
+    "And it actually does open."
+
+# game/williamroute3.rpy:8891
+translate Schinese postwillinvestigation2_21981c5e:
+
+    # wi "\"You kiddin’ me?\""
+    wi "\"You kiddin’ me?\""
+
+# game/williamroute3.rpy:8893
+translate Schinese postwillinvestigation2_e66023ae:
+
+    # ni "\"I told you.\""
+    ni "\"I told you.\""
+
+# game/williamroute3.rpy:8895
+translate Schinese postwillinvestigation2_9c5df429:
+
+    # "I shake my head again and press though."
+    "I shake my head again and press though."
+
+# game/williamroute3.rpy:8899
+translate Schinese postwillinvestigation2_587819df:
+
+    # "There are files and letters spread everywhere."
+    "There are files and letters spread everywhere."
+
+# game/williamroute3.rpy:8900
+translate Schinese postwillinvestigation2_71812ce1:
+
+    # "There looks to be some measure of order to them by the ways that they are spread."
+    "There looks to be some measure of order to them by the ways that they are spread."
+
+# game/williamroute3.rpy:8901
+translate Schinese postwillinvestigation2_bfc3381b:
+
+    # "And the bins are full of paper."
+    "And the bins are full of paper."
+
+# game/williamroute3.rpy:8902
+translate Schinese postwillinvestigation2_db020e3a:
+
+    # "I can’t believe he doesn’t burn these."
+    "I can’t believe he doesn’t burn these."
+
+# game/williamroute3.rpy:8907
+translate Schinese willinvestigation3_23522627:
+
+    # "I don’t suppose he leaves his file cabinets unlocked either."
+    "I don’t suppose he leaves his file cabinets unlocked either."
+
+# game/williamroute3.rpy:8908
+translate Schinese willinvestigation3_2fc128c3:
+
+    # "I try to open it and then the door is stuck."
+    "I try to open it and then the door is stuck."
+
+# game/williamroute3.rpy:8909
+translate Schinese willinvestigation3_91db6120:
+
+    # wi "\"Well at least he has some sense.\""
+    wi "\"Well at least he has some sense.\""
+
+# game/williamroute3.rpy:8911
+translate Schinese willinvestigation3_668700fd:
+
+    # ni "\"The keys are on top of the cabinet.\""
+    ni "\"The keys are on top of the cabinet.\""
+
+# game/williamroute3.rpy:8913
+translate Schinese willinvestigation3_0d74d1ed:
+
+    # wi "\"...So they are.\""
+    wi "\"...So they are.\""
+
+# game/williamroute3.rpy:8915
+translate Schinese willinvestigation3_802e992a:
+
+    # "I feel a bit of secondhand embarrassment when the keys do in fact work and let me in."
+    "I feel a bit of secondhand embarrassment when the keys do in fact work and let me in."
+
+# game/williamroute3.rpy:8917
+translate Schinese willinvestigation3_2e5913a7:
+
+    # "There’s various files about taxes, company protocol, and deeds."
+    "There’s various files about taxes, company protocol, and deeds."
+
+# game/williamroute3.rpy:8918
+translate Schinese willinvestigation3_0181d80a:
+
+    # "But there’s a particularly flashy folder with dark paper and gold paper stamped into it."
+    "But there’s a particularly flashy folder with dark paper and gold paper stamped into it."
+
+# game/williamroute3.rpy:8919
+translate Schinese willinvestigation3_18e9ee29:
+
+    # "At first I expect it to be something important, like the deed to the house."
+    "At first I expect it to be something important, like the deed to the house."
+
+# game/williamroute3.rpy:8920
+translate Schinese willinvestigation3_59af3471:
+
+    # "But what I see is... more of an illustration."
+    "But what I see is... more of an illustration."
+
+# game/williamroute3.rpy:8921
+translate Schinese willinvestigation3_286be0ad:
+
+    # "That’s James’ face in highly rendered, loving detail."
+    "That’s James’ face in highly rendered, loving detail."
+
+# game/williamroute3.rpy:8922
+translate Schinese willinvestigation3_5337345e:
+
+    # "Company scrip: 10 cents."
+    "Company scrip: 10 cents."
+
+# game/williamroute3.rpy:8926
+translate Schinese willinvestigation3_dfc250a3:
+
+    # wi "\"...Oh for the love of God.\""
+    wi "\"...Oh for the love of God.\""
+
+# game/williamroute3.rpy:8928
+translate Schinese willinvestigation3_d319bdf7:
+
+    # "I can’t make up my mind on this being hilarious or devastating."
+    "I can’t make up my mind on this being hilarious or devastating."
+
+# game/williamroute3.rpy:8930
+translate Schinese willinvestigation3_58e3e34b:
+
+    # ni "\"I wanted to see it for my own eyes.\""
+    ni "\"I wanted to see it for my own eyes.\""
+
+# game/williamroute3.rpy:8931
+translate Schinese willinvestigation3_0a7ec8c7:
+
+    # wi "\"Are you saying that people know about this?.\""
+    wi "\"Are you saying that people know about this?.\""
+
+# game/williamroute3.rpy:8932
+translate Schinese willinvestigation3_d9bd99d2:
+
+    # ni "\"...Yes.\""
+    ni "\"...Yes.\""
+
+# game/williamroute3.rpy:8933
+translate Schinese willinvestigation3_b4d4be8a:
+
+    # wi "\"But how did you know?\""
+    wi "\"But how did you know?\""
+
+# game/williamroute3.rpy:8935
+translate Schinese willinvestigation3_20c4052b:
+
+    # ni "\"The secretary at CSCG tells us everything.\""
+    ni "\"The secretary at CSCG tells us everything.\""
+
+# game/williamroute3.rpy:8936
+translate Schinese willinvestigation3_71a3593e:
+
+    # ni "\"He showed this off at his party last Thursday.\""
+    ni "\"He showed this off at his party last Thursday.\""
+
+# game/williamroute3.rpy:8938
+translate Schinese willinvestigation3_06c88e06:
+
+    # wi "\"Well no wonder people are pissed.\""
+    wi "\"Well no wonder people are pissed.\""
+
+# game/williamroute3.rpy:8939
+translate Schinese willinvestigation3_7c187455:
+
+    # wi "\"I thought it was just a mix of his general cluelessness and his grandfather’s reputation.\""
+    wi "\"I thought it was just a mix of his general cluelessness and his grandfather’s reputation.\""
+
+# game/williamroute3.rpy:8940
+translate Schinese willinvestigation3_e1e67e5f:
+
+    # wi "\"It he gets the approval to do this it will destroy the economy.\""
+    wi "\"It he gets the approval to do this it will destroy the economy.\""
+
+# game/williamroute3.rpy:8941
+translate Schinese willinvestigation3_0c360b4d:
+
+    # "That means trouble for the Hip."
+    "That means trouble for the Hip."
+
+# game/williamroute3.rpy:8942
+translate Schinese willinvestigation3_346792f1:
+
+    # "Trouble for all of the merchants too."
+    "Trouble for all of the merchants too."
+
+# game/williamroute3.rpy:8943
+translate Schinese willinvestigation3_4964cb3f:
+
+    # "This little piece of paper puts a target on his back for the whole goddamn town."
+    "This little piece of paper puts a target on his back for the whole goddamn town."
+
+# game/williamroute3.rpy:8944
+translate Schinese willinvestigation3_e21cf80d:
+
+    # "At leasts it gives me more information into what’s going on, but Jesus fuckin’ Christ this sonuvabitch."
+    "At leasts it gives me more information into what’s going on, but Jesus fuckin’ Christ this sonuvabitch."
+
+# game/williamroute3.rpy:8945
+translate Schinese willinvestigation3_40b5d900:
+
+    # "Have to muffle myself before I choke to death laughing."
+    "Have to muffle myself before I choke to death laughing."
+
+# game/williamroute3.rpy:8946
+translate Schinese willinvestigation3_6b69ed8b:
+
+    # wi "\"Nik I’m about balls-to-the-walls hysterical.\""
+    wi "\"Nik I’m about balls-to-the-walls hysterical.\""
+
+# game/williamroute3.rpy:8948
+translate Schinese willinvestigation3_8022ea7f:
+
+    # ni "\"Good.\""
+    ni "\"Good.\""
+
+# game/williamroute3.rpy:8949
+translate Schinese willinvestigation3_1eda128c:
+
+    # ni "\"The world needs to know that this man is crazy.\""
+    ni "\"The world needs to know that this man is crazy.\""
+
+# game/williamroute3.rpy:8951
+translate Schinese willinvestigation3_d38e750c:
+
+    # wi "\"I’m terrified about what we’re gonna find next.\""
+    wi "\"I’m terrified about what we’re gonna find next.\""
+
+# game/williamroute3.rpy:8960
+translate Schinese willinvestigation3_79d25763:
+
+    # "These just look like pictures and profiles of various CSCG workers."
+    "These just look like pictures and profiles of various CSCG workers."
+
+# game/williamroute3.rpy:8961
+translate Schinese willinvestigation3_d1e67218:
+
+    # wi "\"Look Nik, there’s you.\""
+    wi "\"Look Nik, there’s you.\""
+
+# game/williamroute3.rpy:8962
+translate Schinese willinvestigation3_00a551be:
+
+    # "I spread open the file and give him a good look at the photo of himself stapled to the documentation."
+    "I spread open the file and give him a good look at the photo of himself stapled to the documentation."
+
+# game/williamroute3.rpy:8963
+translate Schinese willinvestigation3_30c6250c:
+
+    # ni "\"{i}Hardworking but obstinate.{/i}\""
+    ni "\"{i}Hardworking but obstinate.{/i}\""
+
+# game/williamroute3.rpy:8965
+translate Schinese willinvestigation3_04660619:
+
+    # ni "\"{i}A threat when communicating with union organizers.{/i}\""
+    ni "\"{i}A threat when communicating with union organizers.{/i}\""
+
+# game/williamroute3.rpy:8967
+translate Schinese willinvestigation3_b5597563:
+
+    # ni "\"{i}Harmless and passive on his own.{/i}\""
+    ni "\"{i}Harmless and passive on his own.{/i}\""
+
+# game/williamroute3.rpy:8968
+translate Schinese willinvestigation3_3f2ad51b:
+
+    # ni "\"{i}Keep his budget tight, and wanting for more work.{/i}\""
+    ni "\"{i}Keep his budget tight, and wanting for more work.{/i}\""
+
+# game/williamroute3.rpy:8970
+translate Schinese willinvestigation3_82ef540d:
+
+    # wi "\"He thinks you’re passive, Nik.\""
+    wi "\"He thinks you’re passive, Nik.\""
+
+# game/williamroute3.rpy:8972
+translate Schinese willinvestigation3_082805da:
+
+    # "He walks away and shuffles through more file cabinets."
+    "He walks away and shuffles through more file cabinets."
+
+# game/williamroute3.rpy:8974
+translate Schinese willinvestigation3_8022ea7f_1:
+
+    # ni "\"Good.\""
+    ni "\"Good.\""
+
+# game/williamroute3.rpy:8975
+translate Schinese willinvestigation3_36a891d0:
+
+    # "Nothing here we didn’t already know, I presume."
+    "Nothing here we didn’t already know, I presume."
+
+# game/williamroute3.rpy:8977
+translate Schinese willinvestigation3_7d9343f2:
+
+    # "I have to wonder who’s taking all these photographs."
+    "I have to wonder who’s taking all these photographs."
+
+# game/williamroute3.rpy:8978
+translate Schinese willinvestigation3_f7403df3:
+
+    # "The Byrnes are the only developers in town I know of accessible to the public, but knowing the money James has, it shouldn’t be hard to find a private developer."
+    "The Byrnes are the only developers in town I know of accessible to the public, but knowing the money James has, it shouldn’t be hard to find a private developer."
+
+# game/williamroute3.rpy:8987
+translate Schinese willinvestigation3_49382db0:
+
+    # wi "\"There better not be any gum in this basket.\""
+    wi "\"There better not be any gum in this basket.\""
+
+# game/williamroute3.rpy:8989
+translate Schinese willinvestigation3_b843bbe3:
+
+    # wi "\"...There is.\""
+    wi "\"...There is.\""
+
+# game/williamroute3.rpy:8991
+translate Schinese willinvestigation3_69b08e36:
+
+    # ni "\"Just think of it like holding one of his kisses in your hand.\""
+    ni "\"Just think of it like holding one of his kisses in your hand.\""
+
+# game/williamroute3.rpy:8993
+translate Schinese willinvestigation3_7d754d5f:
+
+    # wi "\"Disgusting.\""
+    wi "\"Disgusting.\""
+
+# game/williamroute3.rpy:8995
+translate Schinese willinvestigation3_c3a53922:
+
+    # "The top of the pile includes letters from relatives."
+    "The top of the pile includes letters from relatives."
+
+# game/williamroute3.rpy:8996
+translate Schinese willinvestigation3_d4d3aae5:
+
+    # "It’s not clear to me why he’d toss handwritten letters from his family, but there doesn’t look to be anything special about them."
+    "It’s not clear to me why he’d toss handwritten letters from his family, but there doesn’t look to be anything special about them."
+
+# game/williamroute3.rpy:8997
+translate Schinese willinvestigation3_1da4eec8:
+
+    # "There are quite a few letters from Briggs."
+    "There are quite a few letters from Briggs."
+
+# game/williamroute3.rpy:8998
+translate Schinese willinvestigation3_6cc19684:
+
+    # "All of them seem to be just one or two sentences, formal, and strictly business, mostly about costs and replacement equipment."
+    "All of them seem to be just one or two sentences, formal, and strictly business, mostly about costs and replacement equipment."
+
+# game/williamroute3.rpy:8999
+translate Schinese willinvestigation3_afc2d723:
+
+    # "And then I see parchment that looks a little more fine."
+    "And then I see parchment that looks a little more fine."
+
+# game/williamroute3.rpy:9000
+translate Schinese willinvestigation3_e4c0f029:
+
+    # "I suspect it’s just going to be another letter from their extended family on the east coast."
+    "I suspect it’s just going to be another letter from their extended family on the east coast."
+
+# game/williamroute3.rpy:9002
+translate Schinese willinvestigation3_51e9331b:
+
+    # "But it’s not."
+    "But it’s not."
+
+# game/williamroute3.rpy:9003
+translate Schinese willinvestigation3_d5e271a6:
+
+    # "I stare at what’s between my fingers."
+    "I stare at what’s between my fingers."
+
+# game/williamroute3.rpy:9005
+translate Schinese willinvestigation3_e7a7380b:
+
+    # ni "\"You went quiet.\""
+    ni "\"You went quiet.\""
+
+# game/williamroute3.rpy:9007
+translate Schinese willinvestigation3_0b104178:
+
+    # wi "\"Mostly because I found what I was looking for.\""
+    wi "\"Mostly because I found what I was looking for.\""
+
+# game/williamroute3.rpy:9008
+translate Schinese willinvestigation3_21e22be7:
+
+    # "He looks over my shoulder."
+    "He looks over my shoulder."
+
+# game/williamroute3.rpy:9010
+translate Schinese willinvestigation3_4719eeda:
+
+    # ni "\"So what are you going to do about it?\""
+    ni "\"So what are you going to do about it?\""
+
+# game/williamroute3.rpy:9013
+translate Schinese willinvestigation3_36ecc778:
+
+    # wi "\"I don’t suspect showing her this would be enough to convince her to leave.\""
+    wi "\"I don’t suspect showing her this would be enough to convince her to leave.\""
+
+# game/williamroute3.rpy:9015
+translate Schinese willinvestigation3_987c0f47:
+
+    # "I rip a piece of it off and leave the rest of it in the trash."
+    "I rip a piece of it off and leave the rest of it in the trash."
+
+# game/williamroute3.rpy:9016
+translate Schinese willinvestigation3_fa40e235:
+
+    # wi "\"But want to keep just a piece of it.\""
+    wi "\"But want to keep just a piece of it.\""
+
+# game/williamroute3.rpy:9029
+translate Schinese postwillinvestigation3_a4cf91fb:
+
+    # ni "\"I bet we can find more.\""
+    ni "\"I bet we can find more.\""
+
+# game/williamroute3.rpy:9031
+translate Schinese postwillinvestigation3_df7c4f13:
+
+    # wi "\"I do too but I don’t want to be caught in his office with my trousers down, so to speak.\""
+    wi "\"I do too but I don’t want to be caught in his office with my trousers down, so to speak.\""
+
+# game/williamroute3.rpy:9033
+translate Schinese postwillinvestigation3_c8262577:
+
+    # wi "\"Let’s go on and git.\""
+    wi "\"Let’s go on and git.\""
+
+# game/williamroute3.rpy:9035
+translate Schinese postwillinvestigation3_a3263600:
+
+    # "Nik opens the door, looking left, then right, then waves me forward."
+    "Nik opens the door, looking left, then right, then waves me forward."
+
+# game/williamroute3.rpy:9039
+translate Schinese postwillinvestigation3_926f9d86:
+
+    # "The downstairs is still empty."
+    "The downstairs is still empty."
+
+# game/williamroute3.rpy:9042
+translate Schinese postwillinvestigation3_f002b299:
+
+    # "But we hear the dinner bell ring."
+    "But we hear the dinner bell ring."
+
+# game/williamroute3.rpy:9046
+translate Schinese postwillinvestigation3_bd3eb18b:
+
+    # "Mrs. Hendricks walks out into the foyer and sees us walking down the stair."
+    "Mrs. Hendricks walks out into the foyer and sees us walking down the stair."
+
+# game/williamroute3.rpy:9048
+translate Schinese postwillinvestigation3_085a03e1:
+
+    # mrs "\"Would the two of you like to stay for dinner?\""
+    mrs "\"Would the two of you like to stay for dinner?\""
+
+# game/williamroute3.rpy:9052
+translate Schinese postwillinvestigation3_d049ed2a:
+
+    # mrs "\"We always have more than plenty of food to spare.\""
+    mrs "\"We always have more than plenty of food to spare.\""
+
+# game/williamroute3.rpy:9054
+translate Schinese postwillinvestigation3_4cca08b6:
+
+    # wi "\"That’s mighty thoughtful Mrs. Hendricks but I have to be on my way.\""
+    wi "\"That’s mighty thoughtful Mrs. Hendricks but I have to be on my way.\""
+
+# game/williamroute3.rpy:9056
+translate Schinese postwillinvestigation3_2e311c80:
+
+    # ni "\"A friend of mine is expecting me as well.\""
+    ni "\"A friend of mine is expecting me as well.\""
+
+# game/williamroute3.rpy:9059
+translate Schinese postwillinvestigation3_b14324b0:
+
+    # mrs "\"Now that’s a down-right shame.\""
+    mrs "\"Now that’s a down-right shame.\""
+
+# game/williamroute3.rpy:9062
+translate Schinese postwillinvestigation3_656d221b:
+
+    # mrs "\"I’d appreciate it if you thought about coming back.\""
+    mrs "\"I’d appreciate it if you thought about coming back.\""
+
+# game/williamroute3.rpy:9064
+translate Schinese postwillinvestigation3_556cd9e5:
+
+    # "As kind as she is, I don’t want to."
+    "As kind as she is, I don’t want to."
+
+# game/williamroute3.rpy:9065
+translate Schinese postwillinvestigation3_3abc729d:
+
+    # "But that doesn’t change the truth."
+    "But that doesn’t change the truth."
+
+# game/williamroute3.rpy:9066
+translate Schinese postwillinvestigation3_e25da5c0:
+
+    # wi "\"I figure that I will be.\""
+    wi "\"I figure that I will be.\""
+
+# game/williamroute3.rpy:9068
+translate Schinese postwillinvestigation3_048c49e8:
+
+    # "She smiles sweetly at that."
+    "She smiles sweetly at that."
+
+# game/williamroute3.rpy:9071
+translate Schinese postwillinvestigation3_b5d69269:
+
+    # mrs "\"Then I won’t keep you.\""
+    mrs "\"Then I won’t keep you.\""
+
+# game/williamroute3.rpy:9074
+translate Schinese postwillinvestigation3_7401666a:
+
+    # mrs "\"Please have a perfectly delightful evening, the both of you.\""
+    mrs "\"Please have a perfectly delightful evening, the both of you.\""
+
+# game/williamroute3.rpy:9077
+translate Schinese postwillinvestigation3_2ce71f8d:
+
+    # "We nod our heads and take our clothes from the coat rack and make our way back outside."
+    "We nod our heads and take our clothes from the coat rack and make our way back outside."
+
+# game/williamroute3.rpy:9084
+translate Schinese postwillinvestigation3_bf92933c:
+
+    # "I can feel the eyes of the butler on the back of our necks as we depart from the porch and reach the front gate."
+    "I can feel the eyes of the butler on the back of our necks as we depart from the porch and reach the front gate."
+
+# game/williamroute3.rpy:9085
+translate Schinese postwillinvestigation3_a946f9fa:
+
+    # "A mechanical whirring in front of us goes off as we go through the opening bars."
+    "A mechanical whirring in front of us goes off as we go through the opening bars."
+
+# game/williamroute3.rpy:9086
+translate Schinese postwillinvestigation3_d42a8452:
+
+    # "Strangely, I don’t see the gunman."
+    "Strangely, I don’t see the gunman."
+
+# game/williamroute3.rpy:9087
+translate Schinese postwillinvestigation3_9cbada2f:
+
+    # "But that doesn’t mean he’s not still here somewhere."
+    "But that doesn’t mean he’s not still here somewhere."
+
+# game/williamroute3.rpy:9089
+translate Schinese postwillinvestigation3_72528856:
+
+    # ni "\"We had a productive evening.\""
+    ni "\"We had a productive evening.\""
+
+# game/williamroute3.rpy:9091
+translate Schinese postwillinvestigation3_1e60ea63:
+
+    # "I don’t answer."
+    "I don’t answer."
+
+# game/williamroute3.rpy:9095
+translate Schinese postwillinvestigation3_705b13c4:
+
+    # "My skin won’t stop crawling until we’re both about two hundred paces from the gate."
+    "My skin won’t stop crawling until we’re both about two hundred paces from the gate."
+
+# game/williamroute3.rpy:9097
+translate Schinese postwillinvestigation3_710a2f91:
+
+    # ni "\"Why are you silent?\""
+    ni "\"Why are you silent?\""
+
+# game/williamroute3.rpy:9099
+translate Schinese postwillinvestigation3_51e32512:
+
+    # wi "\"I never liked going downhill.\""
+    wi "\"I never liked going downhill.\""
+
+# game/williamroute3.rpy:9101
+translate Schinese postwillinvestigation3_ee09ae58:
+
+    # ni "\"Why’s that?\""
+    ni "\"Why’s that?\""
+
+# game/williamroute3.rpy:9103
+translate Schinese postwillinvestigation3_1d64f0b7:
+
+    # wi "\"It’s easier for--\""
+    wi "\"It’s easier for--\""
+
+# game/williamroute3.rpy:9106
+translate Schinese postwillinvestigation3_095667ea:
+
+    # "I hear the shot go off before I see it."
+    "I hear the shot go off before I see it."
+
+# game/williamroute3.rpy:9109
+translate Schinese postwillinvestigation3_b4d1b373:
+
+    # "The rusted metal can on the rock beside my leg sparks and I don’t even need to think about what I’m going to do next."
+    "The rusted metal can on the rock beside my leg sparks and I don’t even need to think about what I’m going to do next."
+
+# game/williamroute3.rpy:9113
+translate Schinese postwillinvestigation3_d885b72d:
+
+    # "I tackle Nik to the ground and I make us roll."
+    "I tackle Nik to the ground and I make us roll."
+
+# game/williamroute3.rpy:9114
+translate Schinese postwillinvestigation3_88cf505e:
+
+    # "He screams from the shove but it’s better than either of us getting shot."
+    "He screams from the shove but it’s better than either of us getting shot."
+
+# game/williamroute3.rpy:9115
+translate Schinese postwillinvestigation3_08440418:
+
+    # "I drag him behind the biggest rock I see and I make him crouch with me."
+    "I drag him behind the biggest rock I see and I make him crouch with me."
+
+# game/williamroute3.rpy:9117
+translate Schinese postwillinvestigation3_c6eb90c1:
+
+    # wi "\"Who the hell is out there?!\""
+    wi "\"Who the hell is out there?!\""
+
+# game/williamroute3.rpy:9118
+translate Schinese postwillinvestigation3_d76658e1:
+
+    # "I hear laughter."
+    "I hear laughter."
+
+# game/williamroute3.rpy:9119
+translate Schinese postwillinvestigation3_26fc0cca:
+
+    # "One old, one new, both familiar."
+    "One old, one new, both familiar."
+
+# game/williamroute3.rpy:9121
+translate Schinese postwillinvestigation3_f6eaf922:
+
+    # "I peek past the stone to see Noah and Andy almost keeling over in laughter."
+    "I peek past the stone to see Noah and Andy almost keeling over in laughter."
+
+# game/williamroute3.rpy:9123
+translate Schinese postwillinvestigation3_89984577:
+
+    # wi "\"What in the HELL are you doin’ boy?\""
+    wi "\"What in the HELL are you doin’ boy?\""
+
+# game/williamroute3.rpy:9125
+translate Schinese postwillinvestigation3_5d173ee4:
+
+    # an "\"Aw, come one, we were only funnin’ ya.\""
+    an "\"Aw, come one, we were only funnin’ ya.\""
+
+# game/williamroute3.rpy:9127
+translate Schinese postwillinvestigation3_0515c967:
+
+    # "Nik is still on the floor, blinking rapidly."
+    "Nik is still on the floor, blinking rapidly."
+
+# game/williamroute3.rpy:9128
+translate Schinese postwillinvestigation3_16cc0705:
+
+    # wi "\"Ain’t not a goddamn thing that’s funny about assaulting an officer!\""
+    wi "\"Ain’t not a goddamn thing that’s funny about assaulting an officer!\""
+
+# game/williamroute3.rpy:9130
+translate Schinese postwillinvestigation3_998c1995:
+
+    # an "\"Oh quit yer bitchin’.\""
+    an "\"Oh quit yer bitchin’.\""
+
+# game/williamroute3.rpy:9133
+translate Schinese postwillinvestigation3_34cfbdd3:
+
+    # an "\"We were aimin’ for the can, not you.\""
+    an "\"We were aimin’ for the can, not you.\""
+
+# game/williamroute3.rpy:9135
+translate Schinese postwillinvestigation3_5c455123:
+
+    # wi "\"Were y’all funnin’ me when you told your new friend over there to steal my gun?\""
+    wi "\"Were y’all funnin’ me when you told your new friend over there to steal my gun?\""
+
+# game/williamroute3.rpy:9137
+translate Schinese postwillinvestigation3_1be5e81b:
+
+    # an "\"Oh what the hell Noah, you blabbed?\""
+    an "\"Oh what the hell Noah, you blabbed?\""
+
+# game/williamroute3.rpy:9139
+translate Schinese postwillinvestigation3_6f2830ba:
+
+    # noa "\"He bullied it out of me!\""
+    noa "\"He bullied it out of me!\""
+
+# game/williamroute3.rpy:9141
+translate Schinese postwillinvestigation3_bf9da04e:
+
+    # an "\"Oh come on, he ain’t that scary.\""
+    an "\"Oh come on, he ain’t that scary.\""
+
+# game/williamroute3.rpy:9143
+translate Schinese postwillinvestigation3_f8c23e03:
+
+    # noa "\"Maybe not to you!\""
+    noa "\"Maybe not to you!\""
+
+# game/williamroute3.rpy:9144
+translate Schinese postwillinvestigation3_48e7de4a:
+
+    # wi "\"Your mama’s gonna get an ear full of this the next time I see her son.\""
+    wi "\"Your mama’s gonna get an ear full of this the next time I see her son.\""
+
+# game/williamroute3.rpy:9146
+translate Schinese postwillinvestigation3_28c8fcaa:
+
+    # an "\"Don’t you damn call me son.\""
+    an "\"Don’t you damn call me son.\""
+
+# game/williamroute3.rpy:9149
+translate Schinese postwillinvestigation3_d2dd1191:
+
+    # an "\"I’m a grown man.\""
+    an "\"I’m a grown man.\""
+
+# game/williamroute3.rpy:9151
+translate Schinese postwillinvestigation3_7d76c783:
+
+    # wi "\"Grown men don’t fire stray bullets near walkin’ civilians.\""
+    wi "\"Grown men don’t fire stray bullets near walkin’ civilians.\""
+
+# game/williamroute3.rpy:9153
+translate Schinese postwillinvestigation3_0c3b8657:
+
+    # an "\"One’s wearing the colors of the USC military do.\""
+    an "\"One’s wearing the colors of the USC military do.\""
+
+# game/williamroute3.rpy:9156
+translate Schinese postwillinvestigation3_cfb81f4b:
+
+    # an "\"I’ve gotta stay sharp with my shootin’ and it’s not my fault you weren’t paying attention where you were walkin’.\""
+    an "\"I’ve gotta stay sharp with my shootin’ and it’s not my fault you weren’t paying attention where you were walkin’.\""
+
+# game/williamroute3.rpy:9158
+translate Schinese postwillinvestigation3_2ac38199:
+
+    # wi "\"If you keep actin’ like that the only uniform you’re gonna be wearing is black and white stripes!\""
+    wi "\"If you keep actin’ like that the only uniform you’re gonna be wearing is black and white stripes!\""
+
+# game/williamroute3.rpy:9160
+translate Schinese postwillinvestigation3_330b7284:
+
+    # an "\"I told you not to bother us.\""
+    an "\"I told you not to bother us.\""
+
+# game/williamroute3.rpy:9163
+translate Schinese postwillinvestigation3_d27c6f66:
+
+    # an "\"You should stay damn well away from the both of us.\""
+    an "\"You should stay damn well away from the both of us.\""
+
+# game/williamroute3.rpy:9165
+translate Schinese postwillinvestigation3_b84a752a:
+
+    # wi "\"Ordinarily that would be peaches but I had to talk with your mother today.\""
+    wi "\"Ordinarily that would be peaches but I had to talk with your mother today.\""
+
+# game/williamroute3.rpy:9167
+translate Schinese postwillinvestigation3_7d9b6801:
+
+    # an "\"Mom might see things differently right now but she don’t really need you.\""
+    an "\"Mom might see things differently right now but she don’t really need you.\""
+
+# game/williamroute3.rpy:9170
+translate Schinese postwillinvestigation3_3279ebe7:
+
+    # an "\"None of us do.\""
+    an "\"None of us do.\""
+
+# game/williamroute3.rpy:9173
+translate Schinese postwillinvestigation3_a9ce63b8:
+
+    # an "\"Ya think I need to make that more clear?\""
+    an "\"Ya think I need to make that more clear?\""
+
+# game/williamroute3.rpy:9175
+translate Schinese postwillinvestigation3_a99621a8:
+
+    # wi "\"Your point is crystal but you’re not gonna get anywhere by threatening me.\""
+    wi "\"Your point is crystal but you’re not gonna get anywhere by threatening me.\""
+
+# game/williamroute3.rpy:9177
+translate Schinese postwillinvestigation3_abe8d29f:
+
+    # jam "\"Threaten you?\""
+    jam "\"Threaten you?\""
+
+# game/williamroute3.rpy:9180
+translate Schinese postwillinvestigation3_5123ce80:
+
+    # "I see James shows up behind Andy and Noah."
+    "I see James shows up behind Andy and Noah."
+
+# game/williamroute3.rpy:9183
+translate Schinese postwillinvestigation3_1b40c04e:
+
+    # jam "\"Who’s really threatening anybody?\""
+    jam "\"Who’s really threatening anybody?\""
+
+# game/williamroute3.rpy:9185
+translate Schinese postwillinvestigation3_7edf9ab0:
+
+    # "I point at my ex-wife’s child."
+    "I point at my ex-wife’s child."
+
+# game/williamroute3.rpy:9186
+translate Schinese postwillinvestigation3_2249fe10:
+
+    # wi "\"He fired on us, Hendricks.\""
+    wi "\"He fired on us, Hendricks.\""
+
+# game/williamroute3.rpy:9188
+translate Schinese postwillinvestigation3_1c9ed036:
+
+    # "James crosses his arms and hums."
+    "James crosses his arms and hums."
+
+# game/williamroute3.rpy:9189
+translate Schinese postwillinvestigation3_34305b0e:
+
+    # jam "\"Fired on you?\""
+    jam "\"Fired on you?\""
+
+# game/williamroute3.rpy:9191
+translate Schinese postwillinvestigation3_864fa802:
+
+    # jam "\"Andy, didn’t you say you were aiming for the can?\""
+    jam "\"Andy, didn’t you say you were aiming for the can?\""
+
+# game/williamroute3.rpy:9194
+translate Schinese postwillinvestigation3_7616dd19:
+
+    # an "\"Sir yes sir.\""
+    an "\"Sir yes sir.\""
+
+# game/williamroute3.rpy:9197
+translate Schinese postwillinvestigation3_26fba32a:
+
+    # jam "\"Then I’m glad we could clear that up.\""
+    jam "\"Then I’m glad we could clear that up.\""
+
+# game/williamroute3.rpy:9198
+translate Schinese postwillinvestigation3_6e986b4f:
+
+    # jam "\"So no harm done.\""
+    jam "\"So no harm done.\""
+
+# game/williamroute3.rpy:9200
+translate Schinese postwillinvestigation3_df802f25:
+
+    # "Piece of shit."
+    "Piece of shit."
+
+# game/williamroute3.rpy:9202
+translate Schinese postwillinvestigation3_e3087485:
+
+    # jam "\"Now if I’m mistaken, that’s the third time I’ve heard the dinner bell go off.\""
+    jam "\"Now if I’m mistaken, that’s the third time I’ve heard the dinner bell go off.\""
+
+# game/williamroute3.rpy:9204
+translate Schinese postwillinvestigation3_d71b059c:
+
+    # jam "\"Let’s go eat before the food goes cold.\""
+    jam "\"Let’s go eat before the food goes cold.\""
+
+# game/williamroute3.rpy:9206
+translate Schinese postwillinvestigation3_827961eb:
+
+    # noa "\"Hooray!\""
+    noa "\"Hooray!\""
+
+# game/williamroute3.rpy:9208
+translate Schinese postwillinvestigation3_20883073:
+
+    # an "\"Sounds good to me.\""
+    an "\"Sounds good to me.\""
+
+# game/williamroute3.rpy:9214
+translate Schinese postwillinvestigation3_db6d710a:
+
+    # "James guides them towards the inside of their porch while touching their shoulders."
+    "James guides them towards the inside of their porch while touching their shoulders."
+
+# game/williamroute3.rpy:9215
+translate Schinese postwillinvestigation3_f9e682f7:
+
+    # "If he thinks that will make me jealous then he has a surprise coming his way."
+    "If he thinks that will make me jealous then he has a surprise coming his way."
+
+# game/williamroute3.rpy:9216
+translate Schinese postwillinvestigation3_30b6dc45:
+
+    # "I don’t know if he plans to raise his son that way, but he’s leading both of those boys down a dangerous road if nobody nips it in the bud."
+    "I don’t know if he plans to raise his son that way, but he’s leading both of those boys down a dangerous road if nobody nips it in the bud."
+
+# game/williamroute3.rpy:9217
+translate Schinese postwillinvestigation3_4d526a6d:
+
+    # "I’ve never seen Andy act this out of line."
+    "I’ve never seen Andy act this out of line."
+
+# game/williamroute3.rpy:9218
+translate Schinese postwillinvestigation3_d0e22071:
+
+    # "Nobody, and I mean nobody, is going to threaten me from talking to Hattie when I need to talk to her."
+    "Nobody, and I mean nobody, is going to threaten me from talking to Hattie when I need to talk to her."
+
+# game/williamroute3.rpy:9219
+translate Schinese postwillinvestigation3_f0aa61d5:
+
+    # "Don’t matter a damn if my blood is runnin’ through his veins or not."
+    "Don’t matter a damn if my blood is runnin’ through his veins or not."
+
+# game/williamroute3.rpy:9221
+translate Schinese postwillinvestigation3_dddbaa47:
+
+    # wi "\"You alright Nik?\""
+    wi "\"You alright Nik?\""
+
+# game/williamroute3.rpy:9222
+translate Schinese postwillinvestigation3_d2619778:
+
+    # ni "\"I do not know.\""
+    ni "\"I do not know.\""
+
+# game/williamroute3.rpy:9224
+translate Schinese postwillinvestigation3_d474d2d8:
+
+    # ni "\"We are not dead, yes.\""
+    ni "\"We are not dead, yes.\""
+
+# game/williamroute3.rpy:9225
+translate Schinese postwillinvestigation3_03c854c0:
+
+    # wi "\"We will indeed see another sunrise.\""
+    wi "\"We will indeed see another sunrise.\""
+
+# game/williamroute3.rpy:9227
+translate Schinese postwillinvestigation3_e4927740:
+
+    # ni "\"Please help me get on my feet William.\""
+    ni "\"Please help me get on my feet William.\""
+
+# game/williamroute3.rpy:9228
+translate Schinese postwillinvestigation3_6ab68f86:
+
+    # wi "\"...Right.\""
+    wi "\"...Right.\""
+
+# game/williamroute3.rpy:9236
+translate Schinese postwillinvestigation3_c0b77a35:
+
+    # "I’m used to being covered in body fluids any day of the week, but I’m still not used to blood."
+    "I’m used to being covered in body fluids any day of the week, but I’m still not used to blood."
+
+# game/williamroute3.rpy:9237
+translate Schinese postwillinvestigation3_d2ef88e2:
+
+    # cy "\"Sam?\""
+    cy "\"Sam?\""
+
+# game/williamroute3.rpy:9244
+translate Schinese postwillinvestigation3_320813a5:
+
+    # m "\"Hrm?\""
+    m "\"Hrm?\""
+
+# game/williamroute3.rpy:9246
+translate Schinese postwillinvestigation3_0717a272:
+
+    # cy "\"Are you with me?\""
+    cy "\"Are you with me?\""
+
+# game/williamroute3.rpy:9247
+translate Schinese postwillinvestigation3_b22dce0c:
+
+    # "I stop staring at the bucket of water that’s taken on a pink hue."
+    "I stop staring at the bucket of water that’s taken on a pink hue."
+
+# game/williamroute3.rpy:9250
+translate Schinese postwillinvestigation3_a6c70821:
+
+    # cy "\"Could you hand me a rag from one of the clean buckets?\""
+    cy "\"Could you hand me a rag from one of the clean buckets?\""
+
+# game/williamroute3.rpy:9252
+translate Schinese postwillinvestigation3_9f894d12:
+
+    # cy "\"This one’s already warm.\""
+    cy "\"This one’s already warm.\""
+
+# game/williamroute3.rpy:9254
+translate Schinese postwillinvestigation3_658cfb7d:
+
+    # md "\"It’s because her temperature is increasing.\""
+    md "\"It’s because her temperature is increasing.\""
+
+# game/williamroute3.rpy:9257
+translate Schinese postwillinvestigation3_66391047:
+
+    # md "\"She’s burning up.\""
+    md "\"She’s burning up.\""
+
+# game/williamroute3.rpy:9260
+translate Schinese postwillinvestigation3_37a4dffc:
+
+    # cy "\"Is she gonna be alright?\""
+    cy "\"Is she gonna be alright?\""
+
+# game/williamroute3.rpy:9262
+translate Schinese postwillinvestigation3_a5c40ed8:
+
+    # md "\"I’ve seen women in worse conditions pull through, but it’s pretty bad.\""
+    md "\"I’ve seen women in worse conditions pull through, but it’s pretty bad.\""
+
+# game/williamroute3.rpy:9265
+translate Schinese postwillinvestigation3_91c19754:
+
+    # md "\"What do you think, Avery?\""
+    md "\"What do you think, Avery?\""
+
+# game/williamroute3.rpy:9268
+translate Schinese postwillinvestigation3_5f96e459:
+
+    # av "\"It’s... bad.\""
+    av "\"It’s... bad.\""
+
+# game/williamroute3.rpy:9270
+translate Schinese postwillinvestigation3_f141d7be:
+
+    # av "\"I think an IV solution is necessary for any chance at a partial recovery.\""
+    av "\"I think an IV solution is necessary for any chance at a partial recovery.\""
+
+# game/williamroute3.rpy:9272
+translate Schinese postwillinvestigation3_832d826b:
+
+    # av "\"But there will be permanent damage.\""
+    av "\"But there will be permanent damage.\""
+
+# game/williamroute3.rpy:9275
+translate Schinese postwillinvestigation3_fcecf78e:
+
+    # md "\"I’ll pay any expense.\""
+    md "\"I’ll pay any expense.\""
+
+# game/williamroute3.rpy:9278
+translate Schinese postwillinvestigation3_e3c7c73c:
+
+    # md "\"Just do what has to be done.\""
+    md "\"Just do what has to be done.\""
+
+# game/williamroute3.rpy:9281
+translate Schinese postwillinvestigation3_cff910e6:
+
+    # av "\"Right away.\""
+    av "\"Right away.\""
+
+# game/williamroute3.rpy:9284
+translate Schinese postwillinvestigation3_6abe1e1a:
+
+    # av "\"Could I ask one of the residents to stay for a moment?\""
+    av "\"Could I ask one of the residents to stay for a moment?\""
+
+# game/williamroute3.rpy:9288
+translate Schinese postwillinvestigation3_b9b44f21:
+
+    # cy "\"I can--\""
+    cy "\"I can--\""
+
+# game/williamroute3.rpy:9291
+translate Schinese postwillinvestigation3_2176a8cb:
+
+    # md "\"That will be me.\""
+    md "\"That will be me.\""
+
+# game/williamroute3.rpy:9294
+translate Schinese postwillinvestigation3_63db9590:
+
+    # "Cynthia closed her mouth and nodded."
+    "Cynthia closed her mouth and nodded."
+
+# game/williamroute3.rpy:9298
+translate Schinese postwillinvestigation3_99174734:
+
+    # grunk "\"Where is she?\""
+    grunk "\"Where is she?\""
+
+# game/williamroute3.rpy:9303
+translate Schinese postwillinvestigation3_9db41181:
+
+    # "A familiar, stern voice echoes through the hallway."
+    "A familiar, stern voice echoes through the hallway."
+
+# game/williamroute3.rpy:9306
+translate Schinese postwillinvestigation3_bc3ffb86:
+
+    # "An older vixen, who I recognize as Mrs. Byrnes, makes her way into the hall, being trailed by Scarlet."
+    "An older vixen, who I recognize as Mrs. Byrnes, makes her way into the hall, being trailed by Scarlet."
+
+# game/williamroute3.rpy:9308
+translate Schinese postwillinvestigation3_e7188afc:
+
+    # sc "\"I told her that she should wait but--\""
+    sc "\"I told her that she should wait but--\""
+
+# game/williamroute3.rpy:9314
+translate Schinese postwillinvestigation3_dd0571fd:
+
+    # md "\"It’s fine Scarlet.\""
+    md "\"It’s fine Scarlet.\""
+
+# game/williamroute3.rpy:9318
+translate Schinese postwillinvestigation3_bfc97446:
+
+    # gr "\"Let me see her.\""
+    gr "\"Let me see her.\""
+
+# game/williamroute3.rpy:9321
+translate Schinese postwillinvestigation3_adc1409e:
+
+    # "The madam makes a quiet gesture with her hand and Mrs. Byrnes stands over the bedside of Marcy Greene."
+    "The madam makes a quiet gesture with her hand and Mrs. Byrnes stands over the bedside of Marcy Greene."
+
+# game/williamroute3.rpy:9324
+translate Schinese postwillinvestigation3_15034506:
+
+    # "Her stiff face slackens to a look of remorse."
+    "Her stiff face slackens to a look of remorse."
+
+# game/williamroute3.rpy:9326
+translate Schinese postwillinvestigation3_12d07dbb:
+
+    # gr "\"What happened to her?\""
+    gr "\"What happened to her?\""
+
+# game/williamroute3.rpy:9329
+translate Schinese postwillinvestigation3_8bb8bf57:
+
+    # av "\"From what I can tell, complications in delivery long term may have lead to sepsis.\""
+    av "\"From what I can tell, complications in delivery long term may have lead to sepsis.\""
+
+# game/williamroute3.rpy:9332
+translate Schinese postwillinvestigation3_ed17bf43:
+
+    # gr "\"From just one delivery?\""
+    gr "\"From just one delivery?\""
+
+# game/williamroute3.rpy:9335
+translate Schinese postwillinvestigation3_5165eaa8:
+
+    # av "\"This looks like several.\""
+    av "\"This looks like several.\""
+
+# game/williamroute3.rpy:9338
+translate Schinese postwillinvestigation3_90b46ca4:
+
+    # md "\"From what the police have told me, more than ten.\""
+    md "\"From what the police have told me, more than ten.\""
+
+# game/williamroute3.rpy:9343
+translate Schinese postwillinvestigation3_ef6d9cd5:
+
+    # "Her head snaps to the madam."
+    "Her head snaps to the madam."
+
+# game/williamroute3.rpy:9345
+translate Schinese postwillinvestigation3_cb2c5d8c:
+
+    # gr "\"More than ten?!\""
+    gr "\"More than ten?!\""
+
+# game/williamroute3.rpy:9347
+translate Schinese postwillinvestigation3_fdbd9ea4:
+
+    # gr "\"Oh, that beast...\""
+    gr "\"Oh, that beast...\""
+
+# game/williamroute3.rpy:9350
+translate Schinese postwillinvestigation3_f55b84d9:
+
+    # gr "\"She doesn’t have to worry anymore.\""
+    gr "\"She doesn’t have to worry anymore.\""
+
+# game/williamroute3.rpy:9353
+translate Schinese postwillinvestigation3_73deb433:
+
+    # gr "\"We’ll take good care of her.\""
+    gr "\"We’ll take good care of her.\""
+
+# game/williamroute3.rpy:9357
+translate Schinese postwillinvestigation3_8082c628:
+
+    # md "\"Yes, we will.\""
+    md "\"Yes, we will.\""
+
+# game/williamroute3.rpy:9360
+translate Schinese postwillinvestigation3_fbd17b18:
+
+    # md "\"What will you provide to the cause, Gretchen?\""
+    md "\"What will you provide to the cause, Gretchen?\""
+
+# game/williamroute3.rpy:9363
+translate Schinese postwillinvestigation3_9346d97f:
+
+    # gr "\"Well what do you need?\""
+    gr "\"Well what do you need?\""
+
+# game/williamroute3.rpy:9366
+translate Schinese postwillinvestigation3_71395ae7:
+
+    # gr "\"Money?\""
+    gr "\"Money?\""
+
+# game/williamroute3.rpy:9369
+translate Schinese postwillinvestigation3_0c1c61ca:
+
+    # md "\"Assurance.\""
+    md "\"Assurance.\""
+
+# game/williamroute3.rpy:9372
+translate Schinese postwillinvestigation3_87b4e994:
+
+    # gr "\"On?\""
+    gr "\"On?\""
+
+# game/williamroute3.rpy:9375
+translate Schinese postwillinvestigation3_332780dd:
+
+    # md "\"That you’ll go through me and the doctor before giving anymore girls in the community dosages.\""
+    md "\"That you’ll go through me and the doctor before giving anymore girls in the community dosages.\""
+
+# game/williamroute3.rpy:9379
+translate Schinese postwillinvestigation3_9a1e7847:
+
+    # "She looks like she’s about to argue, {nw}"
+    "She looks like she’s about to argue, {nw}"
+
+# game/williamroute3.rpy:9381
+translate Schinese postwillinvestigation3_17365ae0:
+
+    # extend "but the madam gives her a look so intense that the vixen recedes."
+    extend "but the madam gives her a look so intense that the vixen recedes."
+
+# game/williamroute3.rpy:9383
+translate Schinese postwillinvestigation3_226a2faf:
+
+    # "She clasps Marcy’s paw like she’s a daughter, stoops over her and kisses her forehead once before wiping away a tear."
+    "She clasps Marcy’s paw like she’s a daughter, stoops over her and kisses her forehead once before wiping away a tear."
+
+# game/williamroute3.rpy:9385
+translate Schinese postwillinvestigation3_13d79422:
+
+    # gr "\"Okay...\""
+    gr "\"Okay...\""
+
+# game/williamroute3.rpy:9388
+translate Schinese postwillinvestigation3_18ded773:
+
+    # md "\"Good.\""
+    md "\"Good.\""
+
+# game/williamroute3.rpy:9392
+translate Schinese postwillinvestigation3_3bfc0cce:
+
+    # md "\"Nothing we’ve said leaves this room.\""
+    md "\"Nothing we’ve said leaves this room.\""
+
+# game/williamroute3.rpy:9395
+translate Schinese postwillinvestigation3_95d39b3b:
+
+    # md "\"That goes for everyone here.\""
+    md "\"That goes for everyone here.\""
+
+# game/williamroute3.rpy:9402
+translate Schinese postwillinvestigation3_dcfa5f97:
+
+    # "Me, Cynthia, Avery and Scarlet all nod and she draws the curtains over Marcy’s bed, leaving only the outline of her silhouette and the doctor’s."
+    "Me, Cynthia, Avery and Scarlet all nod and she draws the curtains over Marcy’s bed, leaving only the outline of her silhouette and the doctor’s."
+
+# game/williamroute3.rpy:9404
+translate Schinese postwillinvestigation3_ad8892c9:
+
+    # cy "\"Let’s go do some laundry, Sam.\""
+    cy "\"Let’s go do some laundry, Sam.\""
+
+# game/williamroute3.rpy:9406
+translate Schinese postwillinvestigation3_5244a1c5:
+
+    # cy "\"Your clothes are a bit of a mess.\""
+    cy "\"Your clothes are a bit of a mess.\""
+
+# game/williamroute3.rpy:9408
+translate Schinese postwillinvestigation3_eb12ac53:
+
+    # sc "\"Bit of a mess?\""
+    sc "\"Bit of a mess?\""
+
+# game/williamroute3.rpy:9410
+translate Schinese postwillinvestigation3_1832f566:
+
+    # sc "\"He looks like the ripper.\""
+    sc "\"He looks like the ripper.\""
+
+# game/williamroute3.rpy:9411
+translate Schinese postwillinvestigation3_b0ffe6b9:
+
+    # sc "\"What went on at the Greene’s?\""
+    sc "\"What went on at the Greene’s?\""
+
+# game/williamroute3.rpy:9413
+translate Schinese postwillinvestigation3_f2d944d9:
+
+    # m "\"A lot.\""
+    m "\"A lot.\""
+
+# game/williamroute3.rpy:9414
+translate Schinese postwillinvestigation3_e07ea451:
+
+    # m "\"It’s a bit of a long story.\""
+    m "\"It’s a bit of a long story.\""
+
+# game/williamroute3.rpy:9416
+translate Schinese postwillinvestigation3_9737de93:
+
+    # sc "\"And tossin’ your scants around in grey water is such a high intensity entreaty?\""
+    sc "\"And tossin’ your scants around in grey water is such a high intensity entreaty?\""
+
+# game/williamroute3.rpy:9417
+translate Schinese postwillinvestigation3_2f292c2f:
+
+    # sc "\"Tell me the taciturn details, love.\""
+    sc "\"Tell me the taciturn details, love.\""
+
+# game/williamroute3.rpy:9418
+translate Schinese postwillinvestigation3_4378758d:
+
+    # sc "\"That’s it, I’m comin’ with you.\""
+    sc "\"That’s it, I’m comin’ with you.\""
+
+# game/williamroute3.rpy:9419
+translate Schinese postwillinvestigation3_60741cbf:
+
+    # "Both Cynthia and I refuse because we’re so worn out, but she doesn’t really take no for an answer."
+    "Both Cynthia and I refuse because we’re so worn out, but she doesn’t really take no for an answer."
+
+# game/williamroute3.rpy:9423
+translate Schinese postwillinvestigation3_2ae39c64:
+
+    # "So the three of us huddle around the laundry room barrel, rolling our soiled clothes over the washboard, as I tell them both what happened."
+    "So the three of us huddle around the laundry room barrel, rolling our soiled clothes over the washboard, as I tell them both what happened."
+
+# game/williamroute3.rpy:9424
+translate Schinese postwillinvestigation3_2c5023e3:
+
+    # sc "\"...what in the name of creation was going on in that awful house?\""
+    sc "\"...what in the name of creation was going on in that awful house?\""
+
+# game/williamroute3.rpy:9426
+translate Schinese postwillinvestigation3_6c75c0d9:
+
+    # cy "\"Mrs. Byrnes must have known to some extent, right?\""
+    cy "\"Mrs. Byrnes must have known to some extent, right?\""
+
+# game/williamroute3.rpy:9427
+translate Schinese postwillinvestigation3_dc990537:
+
+    # sc "\"I doubt to that extent.\""
+    sc "\"I doubt to that extent.\""
+
+# game/williamroute3.rpy:9428
+translate Schinese postwillinvestigation3_e7a2906c:
+
+    # sc "\"She’s provided plenty of medicine for us and I’ve never seen it go sideways like that.\""
+    sc "\"She’s provided plenty of medicine for us and I’ve never seen it go sideways like that.\""
+
+# game/williamroute3.rpy:9429
+translate Schinese postwillinvestigation3_0e493581:
+
+    # "She shakes her head."
+    "She shakes her head."
+
+# game/williamroute3.rpy:9431
+translate Schinese postwillinvestigation3_6b83182a:
+
+    # sc "\"Ten though?\""
+    sc "\"Ten though?\""
+
+# game/williamroute3.rpy:9432
+translate Schinese postwillinvestigation3_ed976599:
+
+    # sc "\"One just takes a toll, but ten?\""
+    sc "\"One just takes a toll, but ten?\""
+
+# game/williamroute3.rpy:9433
+translate Schinese postwillinvestigation3_46b1ac6c:
+
+    # cy "\"It’s unbelievable.\""
+    cy "\"It’s unbelievable.\""
+
+# game/williamroute3.rpy:9435
+translate Schinese postwillinvestigation3_d565bea2:
+
+    # cy "\"That man of hers needs more than an earful.\""
+    cy "\"That man of hers needs more than an earful.\""
+
+# game/williamroute3.rpy:9436
+translate Schinese postwillinvestigation3_cc910a74:
+
+    # m "\"He’s dead.\""
+    m "\"He’s dead.\""
+
+# game/williamroute3.rpy:9438
+translate Schinese postwillinvestigation3_0ba916d3:
+
+    # sc "\"Too true my duckie, I’m ready to march on his property meself and give him the hosing down that his mother ought to have done years ago.\""
+    sc "\"Too true my duckie, I’m ready to march on his property meself and give him the hosing down that his mother ought to have done years ago.\""
+
+# game/williamroute3.rpy:9440
+translate Schinese postwillinvestigation3_603cc6a7:
+
+    # m "\"I mean he’s actually dead.\""
+    m "\"I mean he’s actually dead.\""
+
+# game/williamroute3.rpy:9442
+translate Schinese postwillinvestigation3_d9bd89c3:
+
+    # "She looks at me and tilts her head."
+    "She looks at me and tilts her head."
+
+# game/williamroute3.rpy:9443
+translate Schinese postwillinvestigation3_889d0c9b:
+
+    # sc "\"Since when?\""
+    sc "\"Since when?\""
+
+# game/williamroute3.rpy:9444
+translate Schinese postwillinvestigation3_303e6c61:
+
+    # m "\"Since Thursday.\""
+    m "\"Since Thursday.\""
+
+# game/williamroute3.rpy:9446
+translate Schinese postwillinvestigation3_0412e2dd:
+
+    # m "\"His head’s been cut off.\""
+    m "\"His head’s been cut off.\""
+
+# game/williamroute3.rpy:9448
+translate Schinese postwillinvestigation3_05a51c1a:
+
+    # "Both she and Cynthia look shocked."
+    "Both she and Cynthia look shocked."
+
+# game/williamroute3.rpy:9449
+translate Schinese postwillinvestigation3_5886a584:
+
+    # sc "\"That might be a thing worth knowin’?!\""
+    sc "\"That might be a thing worth knowin’?!\""
+
+# game/williamroute3.rpy:9450
+translate Schinese postwillinvestigation3_687878a4:
+
+    # sc "\"You’d think the sheriff would go spreading the great news?\""
+    sc "\"You’d think the sheriff would go spreading the great news?\""
+
+# game/williamroute3.rpy:9452
+translate Schinese postwillinvestigation3_58c0214f:
+
+    # cy "\"Adler’s too busy spying on us and making deals to do his job I wager.\""
+    cy "\"Adler’s too busy spying on us and making deals to do his job I wager.\""
+
+# game/williamroute3.rpy:9453
+translate Schinese postwillinvestigation3_3271a4dd:
+
+    # sc "\"That’s usually how things go for a sheriff in this part of the country though, innit?\""
+    sc "\"That’s usually how things go for a sheriff in this part of the country though, innit?\""
+
+# game/williamroute3.rpy:9454
+translate Schinese postwillinvestigation3_bef51a13:
+
+    # sc "\"Next one through the revolving door doesn’t tend to be much different.\""
+    sc "\"Next one through the revolving door doesn’t tend to be much different.\""
+
+# game/williamroute3.rpy:9455
+translate Schinese postwillinvestigation3_fda24e3b:
+
+    # sc "\"Hopefully this one won’t be sent away in a casket looking like swiss cheese.\""
+    sc "\"Hopefully this one won’t be sent away in a casket looking like swiss cheese.\""
+
+# game/williamroute3.rpy:9456
+translate Schinese postwillinvestigation3_0e405c09:
+
+    # m "\"But he was doing his job.\""
+    m "\"But he was doing his job.\""
+
+# game/williamroute3.rpy:9457
+translate Schinese postwillinvestigation3_91b4ff29:
+
+    # m "\"He announced it to the widow first.\""
+    m "\"He announced it to the widow first.\""
+
+# game/williamroute3.rpy:9458
+translate Schinese postwillinvestigation3_08c63c2c:
+
+    # m "\"Soon after she had her emergency.\""
+    m "\"Soon after she had her emergency.\""
+
+# game/williamroute3.rpy:9460
+translate Schinese postwillinvestigation3_60237ed2:
+
+    # cy "\"Then where is he now?\""
+    cy "\"Then where is he now?\""
+
+# game/williamroute3.rpy:9462
+translate Schinese postwillinvestigation3_14773c39:
+
+    # m "\"I don’t know.\""
+    m "\"I don’t know.\""
+
+# game/williamroute3.rpy:9463
+translate Schinese postwillinvestigation3_51c27b2d:
+
+    # m "\"He had to chase a lead, but he made sure Marcy was taken care of.\""
+    m "\"He had to chase a lead, but he made sure Marcy was taken care of.\""
+
+# game/williamroute3.rpy:9465
+translate Schinese postwillinvestigation3_d95fa8a8:
+
+    # cy "\"And he just zoomed off, leaving you alone?\""
+    cy "\"And he just zoomed off, leaving you alone?\""
+
+# game/williamroute3.rpy:9467
+translate Schinese postwillinvestigation3_2e9c323e:
+
+    # cy "\"With the otter?\""
+    cy "\"With the otter?\""
+
+# game/williamroute3.rpy:9469
+translate Schinese postwillinvestigation3_952520cd:
+
+    # "Her tone is sounding more and more incredulous as time passes."
+    "Her tone is sounding more and more incredulous as time passes."
+
+# game/williamroute3.rpy:9471
+translate Schinese postwillinvestigation3_c1911bff:
+
+    # m "\"Bronson got the job done.\""
+    m "\"Bronson got the job done.\""
+
+# game/williamroute3.rpy:9473
+translate Schinese postwillinvestigation3_2c875370:
+
+    # cy "\"The man can barely get his holster on, Sam.\""
+    cy "\"The man can barely get his holster on, Sam.\""
+
+# game/williamroute3.rpy:9475
+translate Schinese postwillinvestigation3_2fc43edb:
+
+    # m "\"If you have a problem with this then why don’t you just talk to the sheriff?\""
+    m "\"If you have a problem with this then why don’t you just talk to the sheriff?\""
+
+# game/williamroute3.rpy:9477
+translate Schinese postwillinvestigation3_a479647e:
+
+    # cy "\"I don’t need to talk to him.\""
+    cy "\"I don’t need to talk to him.\""
+
+# game/williamroute3.rpy:9478
+translate Schinese postwillinvestigation3_662fe997:
+
+    # cy "\"I’m just saying he was probably better equipped to handle a situation like that than--\""
+    cy "\"I’m just saying he was probably better equipped to handle a situation like that than--\""
+
+# game/williamroute3.rpy:9481
+translate Schinese postwillinvestigation3_46acdbfe:
+
+    # wi "\"Sam?\""
+    wi "\"Sam?\""
+
+# game/williamroute3.rpy:9482
+translate Schinese postwillinvestigation3_1cd904f5:
+
+    # "We hear William’s voice down the corner."
+    "We hear William’s voice down the corner."
+
+# game/williamroute3.rpy:9483
+translate Schinese postwillinvestigation3_d2c463e0:
+
+    # sc "\"Looks like it’s time for me to pack it up.\""
+    sc "\"Looks like it’s time for me to pack it up.\""
+
+# game/williamroute3.rpy:9484
+translate Schinese postwillinvestigation3_9f7ce827:
+
+    # sc "\"Let’s touch base again soon, lovelies.\""
+    sc "\"Let’s touch base again soon, lovelies.\""
+
+# game/williamroute3.rpy:9486
+translate Schinese postwillinvestigation3_eb730215:
+
+    # "She leaves the doorway and lets a one-note giggle as she bumps into William in the hall and clamors past him."
+    "She leaves the doorway and lets a one-note giggle as she bumps into William in the hall and clamors past him."
+
+# game/williamroute3.rpy:9488
+translate Schinese postwillinvestigation3_e44e42d2:
+
+    # "He looks at me and he breaks into a legitimate smile."
+    "He looks at me and he breaks into a legitimate smile."
+
+# game/williamroute3.rpy:9489
+translate Schinese postwillinvestigation3_af17e29a:
+
+    # wi "\"Oh, Sam, you wouldn’t believe it.\""
+    wi "\"Oh, Sam, you wouldn’t believe it.\""
+
+# game/williamroute3.rpy:9491
+translate Schinese postwillinvestigation3_c085986e:
+
+    # "He stops talking when he sees Cynthia still scrubbing the blood out of our clothes, glaring at him."
+    "He stops talking when he sees Cynthia still scrubbing the blood out of our clothes, glaring at him."
+
+# game/williamroute3.rpy:9493
+translate Schinese postwillinvestigation3_1adf9226:
+
+    # wi "\"Would you mind if I borrowed Sam for a moment to talk?\""
+    wi "\"Would you mind if I borrowed Sam for a moment to talk?\""
+
+# game/williamroute3.rpy:9495
+translate Schinese postwillinvestigation3_9b6e7d73:
+
+    # m "\"Will--\""
+    m "\"Will--\""
+
+# game/williamroute3.rpy:9499
+translate Schinese postwillinvestigation3_d0a343f9:
+
+    # cy "\"Well, now that you ask, as a matter of fact, I would.\""
+    cy "\"Well, now that you ask, as a matter of fact, I would.\""
+
+# game/williamroute3.rpy:9501
+translate Schinese postwillinvestigation3_bc35f790:
+
+    # "He blinks."
+    "He blinks."
+
+# game/williamroute3.rpy:9502
+translate Schinese postwillinvestigation3_13fd1ac6:
+
+    # wi "\"I’m sorry?\""
+    wi "\"I’m sorry?\""
+
+# game/williamroute3.rpy:9504
+translate Schinese postwillinvestigation3_af9f59f7:
+
+    # cy "\"This is our washing room.\""
+    cy "\"This is our washing room.\""
+
+# game/williamroute3.rpy:9505
+translate Schinese postwillinvestigation3_0928150e:
+
+    # cy "\"This is our home.\""
+    cy "\"This is our home.\""
+
+# game/williamroute3.rpy:9507
+translate Schinese postwillinvestigation3_c011ee3f:
+
+    # cy "\"It’s not yours?\""
+    cy "\"It’s not yours?\""
+
+# game/williamroute3.rpy:9508
+translate Schinese postwillinvestigation3_19bb9bc5:
+
+    # cy "\"Why are you tromping around like you own it?\""
+    cy "\"Why are you tromping around like you own it?\""
+
+# game/williamroute3.rpy:9511
+translate Schinese postwillinvestigation3_fa5b51b4:
+
+    # wi "\"I can assure you that the owner’s given me permission to conduct my business here.\""
+    wi "\"I can assure you that the owner’s given me permission to conduct my business here.\""
+
+# game/williamroute3.rpy:9514
+translate Schinese postwillinvestigation3_36a69140:
+
+    # cy "\"As if she can deny you permission?\""
+    cy "\"As if she can deny you permission?\""
+
+# game/williamroute3.rpy:9515
+translate Schinese postwillinvestigation3_c2cfa5ed:
+
+    # cy "\"You’re the sheriff!\""
+    cy "\"You’re the sheriff!\""
+
+# game/williamroute3.rpy:9516
+translate Schinese postwillinvestigation3_6311a8ed:
+
+    # cy "\"Quite certain you haven’t forgotten this!\""
+    cy "\"Quite certain you haven’t forgotten this!\""
+
+# game/williamroute3.rpy:9518
+translate Schinese postwillinvestigation3_6ed5cd04:
+
+    # "I don’t know what this is about, but I don’t want to get in the middle of it."
+    "I don’t know what this is about, but I don’t want to get in the middle of it."
+
+# game/williamroute3.rpy:9520
+translate Schinese postwillinvestigation3_1081a1a0:
+
+    # m "\"...So it looks like the two of you should talk.\""
+    m "\"...So it looks like the two of you should talk.\""
+
+# game/williamroute3.rpy:9521
+translate Schinese postwillinvestigation3_c5a1ebae:
+
+    # m "\"I’ll be in my room when either of you have finished.\""
+    m "\"I’ll be in my room when either of you have finished.\""
+
+# game/williamroute3.rpy:9522
+translate Schinese postwillinvestigation3_655005f2:
+
+    # m "\"Goodbye.\""
+    m "\"Goodbye.\""
+
+# game/williamroute3.rpy:9535
+translate Schinese postwillinvestigation3_5ea23999:
+
+    # "Sam walks around me with a skittish look about him, {nw}"
+    "Sam walks around me with a skittish look about him, {nw}"
+
+# game/williamroute3.rpy:9537
+translate Schinese postwillinvestigation3_bd100707:
+
+    # extend "sulking in the quickest way a puma can while trotting through a narrow corridor."
+    extend "sulking in the quickest way a puma can while trotting through a narrow corridor."
+
+# game/williamroute3.rpy:9538
+translate Schinese postwillinvestigation3_55c03f70:
+
+    # wi "\"It appears as if we may have got off on the wrong foot, Miss Tsosie.\""
+    wi "\"It appears as if we may have got off on the wrong foot, Miss Tsosie.\""
+
+# game/williamroute3.rpy:9540
+translate Schinese postwillinvestigation3_e3d5d9fb:
+
+    # cy "\"He goes off with you and comes home covered in blood, Mr. Adler.\""
+    cy "\"He goes off with you and comes home covered in blood, Mr. Adler.\""
+
+# game/williamroute3.rpy:9541
+translate Schinese postwillinvestigation3_754f0ba4:
+
+    # cy "\"Need I remind you what happened to him the last time he came home looking like that?\""
+    cy "\"Need I remind you what happened to him the last time he came home looking like that?\""
+
+# game/williamroute3.rpy:9543
+translate Schinese postwillinvestigation3_321e6625:
+
+    # wi "\"I can’t really say I can talk about that.\""
+    wi "\"I can’t really say I can talk about that.\""
+
+# game/williamroute3.rpy:9544
+translate Schinese postwillinvestigation3_76b56d35:
+
+    # "She cackles with the ferocity that only a short yappy woman beset with equal amounts of rage and determination can muster."
+    "She cackles with the ferocity that only a short yappy woman beset with equal amounts of rage and determination can muster."
+
+# game/williamroute3.rpy:9546
+translate Schinese postwillinvestigation3_b8cc9474:
+
+    # cy "\"Yeah, I’ll bet you can’t!\""
+    cy "\"Yeah, I’ll bet you can’t!\""
+
+# game/williamroute3.rpy:9548
+translate Schinese postwillinvestigation3_aa3c619d:
+
+    # wi "\"I don’t know why you’re goin’ on about Sam.\""
+    wi "\"I don’t know why you’re goin’ on about Sam.\""
+
+# game/williamroute3.rpy:9549
+translate Schinese postwillinvestigation3_442b7e4f:
+
+    # wi "\"Sam’s fine.\""
+    wi "\"Sam’s fine.\""
+
+# game/williamroute3.rpy:9551
+translate Schinese postwillinvestigation3_cec87168:
+
+    # cy "\"Maybe he doesn’t have any cuts or bruises this time, but he sure does look like he’s aged ten years.\""
+    cy "\"Maybe he doesn’t have any cuts or bruises this time, but he sure does look like he’s aged ten years.\""
+
+# game/williamroute3.rpy:9553
+translate Schinese postwillinvestigation3_2ce6cb40:
+
+    # wi "\"Sam’s a grown man.\""
+    wi "\"Sam’s a grown man.\""
+
+# game/williamroute3.rpy:9554
+translate Schinese postwillinvestigation3_53b7f9c3:
+
+    # wi "\"You ain’t his momma.\""
+    wi "\"You ain’t his momma.\""
+
+# game/williamroute3.rpy:9556
+translate Schinese postwillinvestigation3_3b92efcd:
+
+    # cy "\"Didn’t say I was!\""
+    cy "\"Didn’t say I was!\""
+
+# game/williamroute3.rpy:9557
+translate Schinese postwillinvestigation3_3d04a99f:
+
+    # cy "\"I knew you weren’t as smart as people think you are but do you really think I’m just mad about Sam?\""
+    cy "\"I knew you weren’t as smart as people think you are but do you really think I’m just mad about Sam?\""
+
+# game/williamroute3.rpy:9558
+translate Schinese postwillinvestigation3_29624a76:
+
+    # cy "\"Did you even care about what was happening to Marcy?\""
+    cy "\"Did you even care about what was happening to Marcy?\""
+
+# game/williamroute3.rpy:9560
+translate Schinese postwillinvestigation3_3b51f7e1:
+
+    # wi "\"I’m not a mind reader.\""
+    wi "\"I’m not a mind reader.\""
+
+# game/williamroute3.rpy:9562
+translate Schinese postwillinvestigation3_37a8c9e3:
+
+    # cy "\"But surely you had to know something!\""
+    cy "\"But surely you had to know something!\""
+
+# game/williamroute3.rpy:9563
+translate Schinese postwillinvestigation3_0939625e:
+
+    # cy "\"That man gloated day and night about Marcy and I don’t see you getting involved until it’s far too late.\""
+    cy "\"That man gloated day and night about Marcy and I don’t see you getting involved until it’s far too late.\""
+
+# game/williamroute3.rpy:9565
+translate Schinese postwillinvestigation3_f051db41:
+
+    # wi "\"The kinds of crimes we thought Huxley was doing were more of a fine than a jailing, and we fined him plenty.\""
+    wi "\"The kinds of crimes we thought Huxley was doing were more of a fine than a jailing, and we fined him plenty.\""
+
+# game/williamroute3.rpy:9566
+translate Schinese postwillinvestigation3_f194fc70:
+
+    # wi "\"I can’t just break into anybody’s home and dig around when I suspect any sort of foul play.\""
+    wi "\"I can’t just break into anybody’s home and dig around when I suspect any sort of foul play.\""
+
+# game/williamroute3.rpy:9567
+translate Schinese postwillinvestigation3_b7cada14:
+
+    # wi "\"They’d put a rope around my neck in the middle of the night.\""
+    wi "\"They’d put a rope around my neck in the middle of the night.\""
+
+# game/williamroute3.rpy:9569
+translate Schinese postwillinvestigation3_d305f1bb:
+
+    # cy "\"Then how about you spying on all of us and using out private lives for who knows what seedy purpose.\""
+    cy "\"Then how about you spying on all of us and using out private lives for who knows what seedy purpose.\""
+
+# game/williamroute3.rpy:9571
+translate Schinese postwillinvestigation3_1c137b28:
+
+    # "I nod my head, feeling the anger start to well up."
+    "I nod my head, feeling the anger start to well up."
+
+# game/williamroute3.rpy:9572
+translate Schinese postwillinvestigation3_86f09da9:
+
+    # wi "\"So you’re the one who messed with my desk.\""
+    wi "\"So you’re the one who messed with my desk.\""
+
+# game/williamroute3.rpy:9574
+translate Schinese postwillinvestigation3_608b5af5:
+
+    # cy "\"Prove it.\""
+    cy "\"Prove it.\""
+
+# game/williamroute3.rpy:9576
+translate Schinese postwillinvestigation3_2c22fb6d:
+
+    # wi "\"You practically confessed. I don’t gotta prove a damn thing.\""
+    wi "\"You practically confessed. I don’t gotta prove a damn thing.\""
+
+# game/williamroute3.rpy:9578
+translate Schinese postwillinvestigation3_1677795f:
+
+    # "She looks me up and down and snorts."
+    "She looks me up and down and snorts."
+
+# game/williamroute3.rpy:9580
+translate Schinese postwillinvestigation3_9082893f:
+
+    # cy "\"You gonna arrest me, big man?\""
+    cy "\"You gonna arrest me, big man?\""
+
+# game/williamroute3.rpy:9582
+translate Schinese postwillinvestigation3_c843f74a:
+
+    # wi "\"I’m well within my rights to.\""
+    wi "\"I’m well within my rights to.\""
+
+# game/williamroute3.rpy:9584
+translate Schinese postwillinvestigation3_288a9e3a:
+
+    # cy "\"Then are you gonna do something about it then, or is that just another bluff?!\""
+    cy "\"Then are you gonna do something about it then, or is that just another bluff?!\""
+
+# game/williamroute3.rpy:9586
+translate Schinese postwillinvestigation3_cb349c07:
+
+    # "This is escalating out of control."
+    "This is escalating out of control."
+
+# game/williamroute3.rpy:9588
+translate Schinese postwillinvestigation3_e4b8fcf2:
+
+    # "I need to work with her, not against her."
+    "I need to work with her, not against her."
+
+# game/williamroute3.rpy:9590
+translate Schinese postwillinvestigation3_66286650:
+
+    # "Why can’t she see that’s all that I’m trying to do here?"
+    "Why can’t she see that’s all that I’m trying to do here?"
+
+# game/williamroute3.rpy:9594
+translate Schinese postwillinvestigation3_8d6d04d5:
+
+    # wi "\"You’re already being spied on!\""
+    wi "\"You’re already being spied on!\""
+
+# game/williamroute3.rpy:9596
+translate Schinese postwillinvestigation3_77fc813c:
+
+    # cy "\"Now what the hell is that supposed to mean?\""
+    cy "\"Now what the hell is that supposed to mean?\""
+
+# game/williamroute3.rpy:9598
+translate Schinese postwillinvestigation3_7e41559a:
+
+    # wi "\"The salamander!\""
+    wi "\"The salamander!\""
+
+# game/williamroute3.rpy:9599
+translate Schinese postwillinvestigation3_a9089451:
+
+    # wi "\"She’s leaking all of your private information to the wealthiest man in town!\""
+    wi "\"She’s leaking all of your private information to the wealthiest man in town!\""
+
+# game/williamroute3.rpy:9601
+translate Schinese postwillinvestigation3_221d41fd:
+
+    # cy "\"Ethel?\""
+    cy "\"Ethel?\""
+
+# game/williamroute3.rpy:9603
+translate Schinese postwillinvestigation3_f0a45eae:
+
+    # cy "\"Well, she’s always been mean, but...\""
+    cy "\"Well, she’s always been mean, but...\""
+
+# game/williamroute3.rpy:9604
+translate Schinese postwillinvestigation3_69de6656:
+
+    # "She looks troubled."
+    "She looks troubled."
+
+# game/williamroute3.rpy:9605
+translate Schinese postwillinvestigation3_470c646a:
+
+    # "Like she doesn’t want to believe it but she knows it’s true."
+    "Like she doesn’t want to believe it but she knows it’s true."
+
+# game/williamroute3.rpy:9606
+translate Schinese postwillinvestigation3_9cf94304:
+
+    # wi "\"I thought there was a spy for James, and I found her.\""
+    wi "\"I thought there was a spy for James, and I found her.\""
+
+# game/williamroute3.rpy:9607
+translate Schinese postwillinvestigation3_ab46fa52:
+
+    # wi "\"I haven’t shared or used the brothel’s information in any other way.\""
+    wi "\"I haven’t shared or used the brothel’s information in any other way.\""
+
+# game/williamroute3.rpy:9608
+translate Schinese postwillinvestigation3_b68fb1ff:
+
+    # wi "\"I’m not interested in cracking down on petty crimes or ruining lives.\""
+    wi "\"I’m not interested in cracking down on petty crimes or ruining lives.\""
+
+# game/williamroute3.rpy:9610
+translate Schinese postwillinvestigation3_a6440f7f:
+
+    # wi "\"I want to keep Sam and the rest of us safe.\""
+    wi "\"I want to keep Sam and the rest of us safe.\""
+
+# game/williamroute3.rpy:9612
+translate Schinese postwillinvestigation3_e37600d9:
+
+    # "She gives me an odd look."
+    "She gives me an odd look."
+
+# game/williamroute3.rpy:9613
+translate Schinese postwillinvestigation3_f48e9735:
+
+    # cy "\"Huh.\""
+    cy "\"Huh.\""
+
+# game/williamroute3.rpy:9615
+translate Schinese postwillinvestigation3_ae1f89f7:
+
+    # cy "\"That’s the sincerest you’ve ever sounded to me.\""
+    cy "\"That’s the sincerest you’ve ever sounded to me.\""
+
+# game/williamroute3.rpy:9618
+translate Schinese postwillinvestigation3_1a037177:
+
+    # wi "\"I want to keep this town safe.\""
+    wi "\"I want to keep this town safe.\""
+
+# game/williamroute3.rpy:9620
+translate Schinese postwillinvestigation3_004c421c:
+
+    # cy "\"I see...\""
+    cy "\"I see...\""
+
+# game/williamroute3.rpy:9622
+translate Schinese postwillinvestigation3_3073dc85:
+
+    # cy "\"You know, I don’t know if I trust you still...\""
+    cy "\"You know, I don’t know if I trust you still...\""
+
+# game/williamroute3.rpy:9623
+translate Schinese postwillinvestigation3_0ad0e364:
+
+    # cy "\"But I think I can trust you more than Ethel now.\""
+    cy "\"But I think I can trust you more than Ethel now.\""
+
+# game/williamroute3.rpy:9625
+translate Schinese postwillinvestigation3_48da8633:
+
+    # cy "\"I guess I’ll have to figure out what that means.\""
+    cy "\"I guess I’ll have to figure out what that means.\""
+
+# game/williamroute3.rpy:9628
+translate Schinese postwillinvestigation3_061cf88a:
+
+    # wi "\"If there’s anything you can share with me about her or James Hendricks then it can help me.\""
+    wi "\"If there’s anything you can share with me about her or James Hendricks then it can help me.\""
+
+# game/williamroute3.rpy:9629
+translate Schinese postwillinvestigation3_149d1d77:
+
+    # wi "\"It can help all of us.\""
+    wi "\"It can help all of us.\""
+
+# game/williamroute3.rpy:9631
+translate Schinese postwillinvestigation3_9b164067:
+
+    # "She crosses her hands and looks away."
+    "She crosses her hands and looks away."
+
+# game/williamroute3.rpy:9633
+translate Schinese postwillinvestigation3_7c18178c:
+
+    # "Then she looks back at me, as if sizing me up again."
+    "Then she looks back at me, as if sizing me up again."
+
+# game/williamroute3.rpy:9634
+translate Schinese postwillinvestigation3_6de016e1:
+
+    # cy "\"I can find out what she’s up tonight.\""
+    cy "\"I can find out what she’s up tonight.\""
+
+# game/williamroute3.rpy:9635
+translate Schinese postwillinvestigation3_b779bfce:
+
+    # wi "\"That might come in handy.\""
+    wi "\"That might come in handy.\""
+
+# game/williamroute3.rpy:9636
+translate Schinese postwillinvestigation3_956eeea5:
+
+    # cy "\"If I help do whatever it is you’re doing, are you really gonna help me out?\""
+    cy "\"If I help do whatever it is you’re doing, are you really gonna help me out?\""
+
+# game/williamroute3.rpy:9638
+translate Schinese postwillinvestigation3_4052c742:
+
+    # cy "\"I don’t do so well when people let me down, you know.\""
+    cy "\"I don’t do so well when people let me down, you know.\""
+
+# game/williamroute3.rpy:9639
+translate Schinese postwillinvestigation3_4a9f00cd:
+
+    # wi "\"I’m not so good with people, Ms. Tsosie, but I think I’m good at this.\""
+    wi "\"I’m not so good with people, Ms. Tsosie, but I think I’m good at this.\""
+
+# game/williamroute3.rpy:9640
+translate Schinese postwillinvestigation3_0f567014:
+
+    # "She purses her lips."
+    "She purses her lips."
+
+# game/williamroute3.rpy:9642
+translate Schinese postwillinvestigation3_42fab4c8:
+
+    # cy "\"Wait right there.\""
+    cy "\"Wait right there.\""
+
+# game/williamroute3.rpy:9644
+translate Schinese postwillinvestigation3_e0507759:
+
+    # "She’s gone for about five minutes before she comes back with a small slip of paper{nw}"
+    "She’s gone for about five minutes before she comes back with a small slip of paper{nw}"
+
+# game/williamroute3.rpy:9646
+translate Schinese postwillinvestigation3_b9b155fe:
+
+    # extend "."
+    extend "."
+
+# game/williamroute3.rpy:9648
+translate Schinese postwillinvestigation3_633a562b:
+
+    # cy "\"Here’s her instructions for the night.\""
+    cy "\"Here’s her instructions for the night.\""
+
+# game/williamroute3.rpy:9650
+translate Schinese postwillinvestigation3_24c0947a:
+
+    # cy "\"It might not be much but it’s all I’ve got for now.\""
+    cy "\"It might not be much but it’s all I’ve got for now.\""
+
+# game/williamroute3.rpy:9655
+translate Schinese postwillinvestigation3_09175572:
+
+    # wi "\"You should worry about the goddamn bartender more than me.\""
+    wi "\"You should worry about the goddamn bartender more than me.\""
+
+# game/williamroute3.rpy:9657
+translate Schinese postwillinvestigation3_e4967905:
+
+    # cy "\"The bartender?\""
+    cy "\"The bartender?\""
+
+# game/williamroute3.rpy:9658
+translate Schinese postwillinvestigation3_7110e56a:
+
+    # "She sounds confused, but I can hear the doubt creeping into her voice."
+    "She sounds confused, but I can hear the doubt creeping into her voice."
+
+# game/williamroute3.rpy:9660
+translate Schinese postwillinvestigation3_67aee053:
+
+    # cy "\"Why exactly do I need to be worried about Harlan?\""
+    cy "\"Why exactly do I need to be worried about Harlan?\""
+
+# game/williamroute3.rpy:9661
+translate Schinese postwillinvestigation3_b42513a2:
+
+    # wi "\"He has all the access to Dora’s logs as he could want, doesn’t he?\""
+    wi "\"He has all the access to Dora’s logs as he could want, doesn’t he?\""
+
+# game/williamroute3.rpy:9662
+translate Schinese postwillinvestigation3_472e51be:
+
+    # wi "\"A much more comprehensive chunk of information than I ever had.\""
+    wi "\"A much more comprehensive chunk of information than I ever had.\""
+
+# game/williamroute3.rpy:9663
+translate Schinese postwillinvestigation3_dafb7010:
+
+    # wi "\"He could easily contact anybody he wants, whenever he wants, just as easily as Dora\""
+    wi "\"He could easily contact anybody he wants, whenever he wants, just as easily as Dora\""
+
+# game/williamroute3.rpy:9664
+translate Schinese postwillinvestigation3_54c78ef7:
+
+    # wi "\"I found out that he hates James.\""
+    wi "\"I found out that he hates James.\""
+
+# game/williamroute3.rpy:9665
+translate Schinese postwillinvestigation3_84f19283:
+
+    # wi "\"But I also found the reason why James brings in more foreigners than Briggs.\""
+    wi "\"But I also found the reason why James brings in more foreigners than Briggs.\""
+
+# game/williamroute3.rpy:9666
+translate Schinese postwillinvestigation3_bfff426a:
+
+    # wi "\"It’s a bit of an odd position to have for somebody who helps run a brothel that hosts and attracts all sorts of international attention, ain’t it?\""
+    wi "\"It’s a bit of an odd position to have for somebody who helps run a brothel that hosts and attracts all sorts of international attention, ain’t it?\""
+
+# game/williamroute3.rpy:9668
+translate Schinese postwillinvestigation3_fa59df37:
+
+    # "She stands there, breathing."
+    "She stands there, breathing."
+
+# game/williamroute3.rpy:9669
+translate Schinese postwillinvestigation3_c218c3f8:
+
+    # cy "\"Do you want to know a secret?\""
+    cy "\"Do you want to know a secret?\""
+
+# game/williamroute3.rpy:9670
+translate Schinese postwillinvestigation3_f1916b14:
+
+    # wi "\"Right now, more than anything.\""
+    wi "\"Right now, more than anything.\""
+
+# game/williamroute3.rpy:9672
+translate Schinese postwillinvestigation3_7ddb6df4:
+
+    # cy "\"For the last few days I’ve lived in fear of that man.\""
+    cy "\"For the last few days I’ve lived in fear of that man.\""
+
+# game/williamroute3.rpy:9673
+translate Schinese postwillinvestigation3_9ce20fc1:
+
+    # cy "\"He had a piece of my mother’s fur.\""
+    cy "\"He had a piece of my mother’s fur.\""
+
+# game/williamroute3.rpy:9674
+translate Schinese postwillinvestigation3_39da3648:
+
+    # cy "\"In a box.\""
+    cy "\"In a box.\""
+
+# game/williamroute3.rpy:9675
+translate Schinese postwillinvestigation3_4acb1906:
+
+    # cy "\"In a hidden crawlspace.\""
+    cy "\"In a hidden crawlspace.\""
+
+# game/williamroute3.rpy:9676
+translate Schinese postwillinvestigation3_611c2d21:
+
+    # cy "\"I almost left the brothel right then and there that night.\""
+    cy "\"I almost left the brothel right then and there that night.\""
+
+# game/williamroute3.rpy:9677
+translate Schinese postwillinvestigation3_b89cc820:
+
+    # cy "\"I run the idea through my head every night going forward.\""
+    cy "\"I run the idea through my head every night going forward.\""
+
+# game/williamroute3.rpy:9678
+translate Schinese postwillinvestigation3_55bfad25:
+
+    # cy "\"But then I think about how I don’t have anywhere to go back to other than Camp Rosa or the Reservation.\""
+    cy "\"But then I think about how I don’t have anywhere to go back to other than Camp Rosa or the Reservation.\""
+
+# game/williamroute3.rpy:9680
+translate Schinese postwillinvestigation3_0e493581_1:
+
+    # "She shakes her head."
+    "She shakes her head."
+
+# game/williamroute3.rpy:9681
+translate Schinese postwillinvestigation3_4da9000a:
+
+    # cy "\"Did you know your mother, Adler?\""
+    cy "\"Did you know your mother, Adler?\""
+
+# game/williamroute3.rpy:9682
+translate Schinese postwillinvestigation3_835e1f9a:
+
+    # wi "\"Not really.\""
+    wi "\"Not really.\""
+
+# game/williamroute3.rpy:9683
+translate Schinese postwillinvestigation3_226fa9ce:
+
+    # wi "\"My father didn’t let me see her much.\""
+    wi "\"My father didn’t let me see her much.\""
+
+# game/williamroute3.rpy:9685
+translate Schinese postwillinvestigation3_27d1a0c5:
+
+    # cy "\"I knew mine.\""
+    cy "\"I knew mine.\""
+
+# game/williamroute3.rpy:9686
+translate Schinese postwillinvestigation3_1ba89f1f:
+
+    # cy "\"And I miss her every waking day that I’m alive.\""
+    cy "\"And I miss her every waking day that I’m alive.\""
+
+# game/williamroute3.rpy:9687
+translate Schinese postwillinvestigation3_63d41355:
+
+    # cy "\"And I will never know peace knowing her remains were stolen and sold at the village of my birth, in pieces, to collectors like that man.\""
+    cy "\"And I will never know peace knowing her remains were stolen and sold at the village of my birth, in pieces, to collectors like that man.\""
+
+# game/williamroute3.rpy:9688
+translate Schinese postwillinvestigation3_3987ca58:
+
+    # cy "\"If there is anything at all, whatsoever, that could fuck up that old man’s life, then I want to help you do it.\""
+    cy "\"If there is anything at all, whatsoever, that could fuck up that old man’s life, then I want to help you do it.\""
+
+# game/williamroute3.rpy:9689
+translate Schinese postwillinvestigation3_07206475:
+
+    # "She pulls something out of her pocket."
+    "She pulls something out of her pocket."
+
+# game/williamroute3.rpy:9692
+translate Schinese postwillinvestigation3_b87ef833:
+
+    # cy "\"He keeps slipping creepy messages like these near Dora’s office, as if we didn’t keep seeing him do it.\""
+    cy "\"He keeps slipping creepy messages like these near Dora’s office, as if we didn’t keep seeing him do it.\""
+
+# game/williamroute3.rpy:9694
+translate Schinese postwillinvestigation3_fb7efaa3:
+
+    # cy "\"I still don’t really trust you, Adler, but if you don’t trust Harlan then that’s at least something we’ve got in common.\""
+    cy "\"I still don’t really trust you, Adler, but if you don’t trust Harlan then that’s at least something we’ve got in common.\""
+
+# game/williamroute3.rpy:9696
+translate Schinese postwillinvestigation3_9a14676d:
+
+    # cy "\"For now he’s my biggest problem.\""
+    cy "\"For now he’s my biggest problem.\""
+
+# game/williamroute3.rpy:9698
+translate Schinese postwillinvestigation3_da570f09:
+
+    # wi "\"That’s enough.\""
+    wi "\"That’s enough.\""
+
+# game/williamroute3.rpy:9699
+translate Schinese postwillinvestigation3_b9a3dacd:
+
+    # wi "\"This is a ridiculous conversation.\""
+    wi "\"This is a ridiculous conversation.\""
+
+# game/williamroute3.rpy:9700
+translate Schinese postwillinvestigation3_0cbc87bb:
+
+    # wi "\"From now on, stay out of my way and I’ll stay out of yours.\""
+    wi "\"From now on, stay out of my way and I’ll stay out of yours.\""
+
+# game/williamroute3.rpy:9701
+translate Schinese postwillinvestigation3_c84324fa:
+
+    # cy "\"Gladly.\""
+    cy "\"Gladly.\""
+
+# game/williamroute3.rpy:9702
+translate Schinese postwillinvestigation3_73378931:
+
+    # cy "\"But if you’re going to keep stealing information for us then I’m not going to make it easy for you.\""
+    cy "\"But if you’re going to keep stealing information for us then I’m not going to make it easy for you.\""
+
+# game/williamroute3.rpy:9703
+translate Schinese postwillinvestigation3_cefb8143:
+
+    # wi "\"It’s a good thing I love a challenge.\""
+    wi "\"It’s a good thing I love a challenge.\""
+
+# game/williamroute3.rpy:9706
+translate Schinese postwillinvestigation3_60ad486a:
+
+    # clunk "\"Excuse me?\""
+    clunk "\"Excuse me?\""
+
+# game/williamroute3.rpy:9708
+translate Schinese postwillinvestigation3_cc7cdb64:
+
+    # "We both jump when we look at the doorway."
+    "We both jump when we look at the doorway."
+
+# game/williamroute3.rpy:9710
+translate Schinese postwillinvestigation3_7f139221:
+
+    # "That Batavian stoat is just standing there, smiling."
+    "That Batavian stoat is just standing there, smiling."
+
+# game/williamroute3.rpy:9712
+translate Schinese postwillinvestigation3_685c34c5:
+
+    # cy "\"How long have you been there?\""
+    cy "\"How long have you been there?\""
+
+# game/williamroute3.rpy:9713
+translate Schinese postwillinvestigation3_78b15a4e:
+
+    # wi "\"I’d like to know as well.\""
+    wi "\"I’d like to know as well.\""
+
+# game/williamroute3.rpy:9715
+translate Schinese postwillinvestigation3_d61d682d:
+
+    # cl "\"Well, I would have interrupted sooner, but you both seemed to be in the midst of a quarrel.\""
+    cl "\"Well, I would have interrupted sooner, but you both seemed to be in the midst of a quarrel.\""
+
+# game/williamroute3.rpy:9719
+translate Schinese postwillinvestigation3_fec97169:
+
+    # "To be continued..."
+    "To be continued..."
+
+translate Schinese strings:
+
+    # game/williamroute3.rpy:8061
+    old "Where am I going [investigorder]?"
+    new "Where am I going [investigorder]?"
+
+    # game/williamroute3.rpy:8061
+    old "The portrait."
+    new "The portrait."
+
+    # game/williamroute3.rpy:8061
+    old "The kitchen."
+    new "The kitchen."
+
+    # game/williamroute3.rpy:8061
+    old "Ask a few more questions in the living room."
+    new "Ask a few more questions in the living room."
+
+    # game/williamroute3.rpy:8904
+    old "What should I sort through [investigorder]?"
+    new "What should I sort through [investigorder]?"
+
+    # game/williamroute3.rpy:8904
+    old "The file cabinets."
+    new "The file cabinets."
+
+    # game/williamroute3.rpy:8904
+    old "The folders."
+    new "The folders."
+
+    # game/williamroute3.rpy:8904
+    old "The trashbin."
+    new "The trashbin."
+

@@ -13207,3 +13207,389 @@ translate Tchinese strings:
     old "Witches."
     new "女巫。"
 
+# TODO: Translation updated at 2023-05-06 09:21
+
+# game/williamroute2.rpy:1750
+translate Tchinese after_sw1_1f5ff82c:
+
+    # lu "\"Now you didn’t tell me Sam was going to be here!\""
+    lu "\"Now you didn’t tell me Sam was going to be here!\""
+
+# game/williamroute2.rpy:1755
+translate Tchinese after_sw1_337687ae:
+
+    # sc "\"I say the more the merrier, love. Shall I mix you a whiskey sour?\""
+    sc "\"I say the more the merrier, love. Shall I mix you a whiskey sour?\""
+
+# game/williamroute2.rpy:1758
+translate Tchinese after_sw1_96c7b5c7:
+
+    # sc "\"I got you, I got you.\""
+    sc "\"I got you, I got you.\""
+
+# game/williamroute2.rpy:1761
+translate Tchinese after_sw1_daaef7d1:
+
+    # sc "\"Nice to see we’re all on reprieve from bumpin’ uglies at the same time.\""
+    sc "\"Nice to see we’re all on reprieve from bumpin’ uglies at the same time.\""
+
+# game/williamroute2.rpy:1763
+translate Tchinese after_sw1_f7173283:
+
+    # sc "\"And that is where we can agree to disagree, love.\""
+    sc "\"And that is where we can agree to disagree, love.\""
+
+# game/williamroute2.rpy:1764
+translate Tchinese after_sw1_7467c0ce:
+
+    # sc "\"My back’s been killin’ me.\""
+    sc "\"My back’s been killin’ me.\""
+
+# game/williamroute2.rpy:1765
+translate Tchinese after_sw1_a72bc5fe:
+
+    # lu "\"My back is always fine!\""
+    lu "\"My back is always fine!\""
+
+# game/williamroute2.rpy:1766
+translate Tchinese after_sw1_0a1f11b3:
+
+    # sc "\"That’s ‘cos you ain’t got tits, hen.\""
+    sc "\"That’s ‘cos you ain’t got tits, hen.\""
+
+# game/williamroute2.rpy:1770
+translate Tchinese after_sw1_829fe4a0:
+
+    # sc "\"Oh! A mouth on this one tonight. I love to see it, love to see it!\""
+    sc "\"Oh! A mouth on this one tonight. I love to see it, love to see it!\""
+
+# game/williamroute2.rpy:1771
+translate Tchinese after_sw1_eb51d63f:
+
+    # sc "\"Here’s the whiskey kitten. Keep the tip, I promise I don’t need another.\""
+    sc "\"Here’s the whiskey kitten. Keep the tip, I promise I don’t need another.\""
+
+# game/williamroute2.rpy:1773
+translate Tchinese after_sw1_3e5ac16e:
+
+    # sc "\"Where’s the sense of humor, Samuel? Keep that up and you’ll never bag a man.\""
+    sc "\"Where’s the sense of humor, Samuel? Keep that up and you’ll never bag a man.\""
+
+# game/williamroute2.rpy:1775
+translate Tchinese after_sw1_b6b464f3:
+
+    # sc "\"Oh, are we gettin’ spicy already? I’m only on me first shot. \""
+    sc "\"Oh, are we gettin’ spicy already? I’m only on me first shot. \""
+
+# game/williamroute2.rpy:1780
+translate Tchinese after_sw1_7d92e724:
+
+    # sc "\"Oh, for the love of all that is green and good, that sure enough doesn’t count.\""
+    sc "\"Oh, for the love of all that is green and good, that sure enough doesn’t count.\""
+
+# game/williamroute2.rpy:1791
+translate Tchinese after_sw1_f3ab1fc9:
+
+    # lu "\"You know, I agree with Sam.\""
+    lu "\"You know, I agree with Sam.\""
+
+# game/williamroute2.rpy:1792
+translate Tchinese after_sw1_58c44a42:
+
+    # sc "\"Oh?\""
+    sc "\"Oh?\""
+
+# game/williamroute2.rpy:1794
+translate Tchinese after_sw1_2a8dfe8c:
+
+    # lu "\"If I had a man as big and strong as him I’d ask him to carry me everywhere.\""
+    lu "\"If I had a man as big and strong as him I’d ask him to carry me everywhere.\""
+
+# game/williamroute2.rpy:1795
+translate Tchinese after_sw1_cfd69bc5:
+
+    # lu "\"Why, he could just put me in his pocket, and I wouldn’t say no!\""
+    lu "\"Why, he could just put me in his pocket, and I wouldn’t say no!\""
+
+# game/williamroute2.rpy:1797
+translate Tchinese after_sw1_88f56743:
+
+    # sc "\"Can’t share the sentiment. He’s lovely to look at but thick as plum pudding.\""
+    sc "\"Can’t share the sentiment. He’s lovely to look at but thick as plum pudding.\""
+
+# game/williamroute2.rpy:1801
+translate Tchinese after_sw1_3362ab64:
+
+    # sc "\"No offense, love, this is all in good fun.\""
+    sc "\"No offense, love, this is all in good fun.\""
+
+# game/williamroute2.rpy:1807
+translate Tchinese after_sw1_680bc721:
+
+    # sc "\"Who’s she? Never heard of her.\""
+    sc "\"Who’s she? Never heard of her.\""
+
+# game/williamroute2.rpy:1809
+translate Tchinese after_sw1_9a0f22cd:
+
+    # sc "\"Anywho, what’s the weirdest fuck the lot of you have had all month?\""
+    sc "\"Anywho, what’s the weirdest fuck the lot of you have had all month?\""
+
+# game/williamroute2.rpy:1815
+translate Tchinese after_sw1_db2db05a:
+
+    # sc "\"Those odd ones go straight to the long list for me.\""
+    sc "\"Those odd ones go straight to the long list for me.\""
+
+# game/williamroute2.rpy:1816
+translate Tchinese after_sw1_66d66d58:
+
+    # sc "\"I like to keep things robust but simple.\""
+    sc "\"I like to keep things robust but simple.\""
+
+# game/williamroute2.rpy:1818
+translate Tchinese after_sw1_3e402122:
+
+    # lu "\"This doesn’t count but a man paid me to pray with him.\""
+    lu "\"This doesn’t count but a man paid me to pray with him.\""
+
+# game/williamroute2.rpy:1819
+translate Tchinese after_sw1_0446a6a1:
+
+    # lu "\"It was free money, so I said sure.\""
+    lu "\"It was free money, so I said sure.\""
+
+# game/williamroute2.rpy:1821
+translate Tchinese after_sw1_c52e3188:
+
+    # sc "\"I may not look like an angel but I have the voice of one.\""
+    sc "\"I may not look like an angel but I have the voice of one.\""
+
+# game/williamroute2.rpy:1825
+translate Tchinese after_sw1_8879d519:
+
+    # sc "\"But alright, alright. It’s my go.\""
+    sc "\"But alright, alright. It’s my go.\""
+
+# game/williamroute2.rpy:1827
+translate Tchinese after_sw1_c4a236fc:
+
+    # sc "\"So get this.\""
+    sc "\"So get this.\""
+
+# game/williamroute2.rpy:1828
+translate Tchinese after_sw1_85e6dff3:
+
+    # sc "\"A man, he enters my room, and it proceeds as normal.\""
+    sc "\"A man, he enters my room, and it proceeds as normal.\""
+
+# game/williamroute2.rpy:1829
+translate Tchinese after_sw1_755ef1f1:
+
+    # sc "\"We exchange kisses, he gives me a good cup. Same old, same old.\""
+    sc "\"We exchange kisses, he gives me a good cup. Same old, same old.\""
+
+# game/williamroute2.rpy:1831
+translate Tchinese after_sw1_5019aec4:
+
+    # sc "\"And then he asks me, ‘you ever gotten toe-fucked?’\""
+    sc "\"And then he asks me, ‘you ever gotten toe-fucked?’\""
+
+# game/williamroute2.rpy:1832
+translate Tchinese after_sw1_39f5d9cb:
+
+    # lu "\"What!?\""
+    lu "\"What!?\""
+
+# game/williamroute2.rpy:1838
+translate Tchinese after_sw1_e4f5bef8:
+
+    # sc "\"I swear it on King Arthur’s ghost himself.\""
+    sc "\"I swear it on King Arthur’s ghost himself.\""
+
+# game/williamroute2.rpy:1841
+translate Tchinese after_sw1_04e9566c:
+
+    # sc "\"That’s what I asked him, and he said it was exactly what it sounds like.\""
+    sc "\"That’s what I asked him, and he said it was exactly what it sounds like.\""
+
+# game/williamroute2.rpy:1842
+translate Tchinese after_sw1_1e0adcff:
+
+    # sc "\"One big toe up the shitter.\""
+    sc "\"One big toe up the shitter.\""
+
+# game/williamroute2.rpy:1844
+translate Tchinese after_sw1_27f76fad:
+
+    # sc "\"It gets even better!\""
+    sc "\"It gets even better!\""
+
+# game/williamroute2.rpy:1845
+translate Tchinese after_sw1_d2fc5af2:
+
+    # sc "\"I ask him what he’d pay me to try it.\""
+    sc "\"I ask him what he’d pay me to try it.\""
+
+# game/williamroute2.rpy:1846
+translate Tchinese after_sw1_8a6b4fcf:
+
+    # sc "\"He says ‘didn’t I already?’ and I says no, I’m afraid you didn’t lovely.\""
+    sc "\"He says ‘didn’t I already?’ and I says no, I’m afraid you didn’t lovely.\""
+
+# game/williamroute2.rpy:1849
+translate Tchinese after_sw1_efea706b:
+
+    # sc "\"He wouldn’t pay, so I says none of that. A quick handy and out the door he went.\""
+    sc "\"He wouldn’t pay, so I says none of that. A quick handy and out the door he went.\""
+
+# game/williamroute2.rpy:1852
+translate Tchinese after_sw1_1cffb442:
+
+    # sc "\"I’ll admit that the request got me curious for why somebody would ever ask for that.\""
+    sc "\"I’ll admit that the request got me curious for why somebody would ever ask for that.\""
+
+# game/williamroute2.rpy:1862
+translate Tchinese after_sw1_abb98e37:
+
+    # lu "\"The trunk.\""
+    lu "\"The trunk.\""
+
+# game/williamroute2.rpy:1863
+translate Tchinese after_sw1_c4d9df8c:
+
+    # sc "\"That’s right, the trunk!\""
+    sc "\"That’s right, the trunk!\""
+
+# game/williamroute2.rpy:1874
+translate Tchinese after_sw1_c70c5291:
+
+    # lu "\"But it’s hard to miss, isn’t it? I can’t be the first person who’s found it.\""
+    lu "\"But it’s hard to miss, isn’t it? I can’t be the first person who’s found it.\""
+
+# game/williamroute2.rpy:1895
+translate Tchinese after_sw1_27435765:
+
+    # sc "\"Looks flimsy. That’s a cheap lock.\""
+    sc "\"Looks flimsy. That’s a cheap lock.\""
+
+# game/williamroute2.rpy:1896
+translate Tchinese after_sw1_0933a14c:
+
+    # sc "\"See? It’s like the insides are rusted.\""
+    sc "\"See? It’s like the insides are rusted.\""
+
+# game/williamroute2.rpy:1897
+translate Tchinese after_sw1_2e09e2e5:
+
+    # lu "\"Oh, how strange! Let us have a peek when you get the lock off.\""
+    lu "\"Oh, how strange! Let us have a peek when you get the lock off.\""
+
+# game/williamroute2.rpy:1914
+translate Tchinese after_sw1_995db17c:
+
+    # sc "\"And this here’s a set of divining rods.\""
+    sc "\"And this here’s a set of divining rods.\""
+
+# game/williamroute2.rpy:1916
+translate Tchinese after_sw1_84392538:
+
+    # lu "\"Look! There’s a scroll here too.\""
+    lu "\"Look! There’s a scroll here too.\""
+
+# game/williamroute2.rpy:1917
+translate Tchinese after_sw1_36b87fa2:
+
+    # sc "\"Instructions for levitation play!\""
+    sc "\"Instructions for levitation play!\""
+
+# game/williamroute2.rpy:1920
+translate Tchinese after_sw1_69499705:
+
+    # lu "\"Oh, could we play, Cynthia?\""
+    lu "\"Oh, could we play, Cynthia?\""
+
+# game/williamroute2.rpy:1922
+translate Tchinese after_sw1_1d4d7c79:
+
+    # lu "\"I’ve always wanted to fly like one of those little birds outside.\""
+    lu "\"I’ve always wanted to fly like one of those little birds outside.\""
+
+# game/williamroute2.rpy:1996
+translate Tchinese after_sw1_f6a70d2c:
+
+    # sc "\"Cynthia!\""
+    sc "\"Cynthia!\""
+
+# game/williamroute2.rpy:1998
+translate Tchinese after_sw1_8488d984:
+
+    # sc "\"You’re reading it like it’s a recipe.\""
+    sc "\"You’re reading it like it’s a recipe.\""
+
+# game/williamroute2.rpy:2001
+translate Tchinese after_sw1_40bbd3bf:
+
+    # lu "\"I’m ready!\""
+    lu "\"I’m ready!\""
+
+# game/williamroute2.rpy:2004
+translate Tchinese after_sw1_0ed3d215:
+
+    # sc "\"Right as rain. We are ready, love!\""
+    sc "\"Right as rain. We are ready, love!\""
+
+# game/williamroute2.rpy:2009
+translate Tchinese after_sw1_d633c5c4:
+
+    # lu "\"I’m dead!\""
+    lu "\"I’m dead!\""
+
+# game/williamroute2.rpy:2010
+translate Tchinese after_sw1_5f20e30c:
+
+    # lu "\"DEAD!\""
+    lu "\"DEAD!\""
+
+# game/williamroute2.rpy:2019
+translate Tchinese after_sw1_3d05e497:
+
+    # lu "\"I’m cold...\""
+    lu "\"I’m cold...\""
+
+# game/williamroute2.rpy:2020
+translate Tchinese after_sw1_7d4d2dc8:
+
+    # lu "\"So coooooold!\""
+    lu "\"So coooooold!\""
+
+# game/williamroute2.rpy:2028
+translate Tchinese after_sw1_21048372:
+
+    # lu "\"I’m flying...\""
+    lu "\"I’m flying...\""
+
+# game/williamroute2.rpy:2030
+translate Tchinese after_sw1_45b643fd:
+
+    # lu "\"I’m FLYING!\""
+    lu "\"I’m FLYING!\""
+
+# game/williamroute2.rpy:2034
+translate Tchinese after_sw1_057cea48:
+
+    # sc "\"If she says she is, then she is.\""
+    sc "\"If she says she is, then she is.\""
+
+# game/williamroute2.rpy:2047
+translate Tchinese after_sw1_3a24557a:
+
+    # lu "\"Is he okay?\""
+    lu "\"Is he okay?\""
+
+# game/williamroute2.rpy:2055
+translate Tchinese after_sw1_51afd4df:
+
+    # sc "\"On it, Madam.\""
+    sc "\"On it, Madam.\""
+

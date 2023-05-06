@@ -7112,3 +7112,11 @@ translate Schinese strings:
     old "Half a quarter?"
     new "八分之一？"
 
+# TODO: Translation updated at 2023-05-06 09:37
+
+# game/Murdochroute.rpy:1401
+translate Schinese Murdochroute_1161396b:
+
+    # m "\"One. Nik. Big guy— even bigger than me. Has a heart of gold, too.\""
+    m "\"One. Nik. Big guy— even bigger than me. Has a heart of gold, too.\""
+
