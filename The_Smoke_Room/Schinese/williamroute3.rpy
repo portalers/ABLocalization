@@ -9340,7 +9340,7 @@ translate Schinese samstation_5dcd3dca:
 translate Schinese samstation_9a16115f:
 
     # cy "\"Happens to friends in Coalville. And in Payton. It’s definitely happened before here, too.\""
-    cy "“我在科尔威亚的朋友，在佩顿的朋友都没能幸免。这里肯定也不例外。”"
+    cy "“我在科尔威亚的朋友，在沛顿的朋友都没能幸免。这里肯定也不例外。”"
 
 # game/williamroute3.rpy:3666
 translate Schinese samstation_199be9df:
@@ -12574,7 +12574,7 @@ translate Schinese williamroute3a_e6e9aed7:
 translate Schinese williamroute3a_32855c4a:
 
     # to "\"In a ditch on the side of the road, coming back the direction from Payton.\""
-    to "“我从佩顿镇回来，在路边的沟里找到的。”"
+    to "“我从沛顿镇回来，在路边的沟里找到的。”"
 
 # game/williamroute3.rpy:4798
 translate Schinese williamroute3a_ea5b4fb3:
@@ -16672,7 +16672,7 @@ translate Schinese williamroute3a_06739aec:
 translate Schinese williamroute3a_896ec5f3:
 
     # "East to downtown, west to Payton, south to the railway tracks."
-    "东至镇中心，西至佩顿镇，南至铁路轨道。"
+    "东至镇中心，西至沛顿镇，南至铁路轨道。"
 
 # game/williamroute3.rpy:6134
 translate Schinese williamroute3a_ccd51dc6:

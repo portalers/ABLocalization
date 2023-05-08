@@ -8026,7 +8026,7 @@ translate Schinese sny1_63ab506f:
 translate Schinese sny1_6da9d3e7:
 
     # m "\"Payton has a place they call The Stag too.\""
-    m "“佩顿镇也有间酒馆叫Stag。”"
+    m "“沛顿镇也有间酒馆叫Stag。”"
 
 # game/nikroute2.rpy:2335
 translate Schinese sny1_b4b518c5:
