@@ -4924,7 +4924,7 @@ translate Tchinese nikroute_08aa27cc:
 translate Tchinese nikroute_0b793833:
 
     # m "\"Which just moves you on to the shittier town that is Payton.\""
-    m "“那就只會到更糟的鎮了，也就是沛頓。”"
+    m "“那就只會到更糟的鎮了，也就是沛頓鎮。”"
 
 # game/nikroute.rpy:1063
 translate Tchinese nikroute_fe36c126:

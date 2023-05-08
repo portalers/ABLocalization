@@ -17529,7 +17529,7 @@ translate Tchinese murdochroute2_45be6fc0:
 translate Tchinese murdochroute2_873aaa30:
 
     # m "\"You really want to see nothing, you should check out Payton.\""
-    m "“你想知道什麼叫空空如也，應該去看看沛頓才對吧。”"
+    m "“你想知道什麼叫空空如也，應該去看看沛頓鎮才對吧。”"
 
 # game/murdochroute2.rpy:5030
 translate Tchinese murdochroute2_8d4b3fe1:

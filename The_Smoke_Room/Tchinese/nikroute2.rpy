@@ -5224,7 +5224,7 @@ translate Tchinese sny1_864b25d2:
 translate Tchinese sny1_c382c77c:
 
     # ya "\"You will find that if you always follow what your bosses tell you to do, you won’t last very long.\""
-    ya "“一味聽從老闆的只是只會命不久矣，你遲早會發現的”"
+    ya "“一味聽從老闆的只會命不久矣，你遲早會發現的”"
 
 # game/nikroute2.rpy:1468
 translate Tchinese sny1_97f457df:
@@ -8026,7 +8026,7 @@ translate Tchinese sny1_63ab506f:
 translate Tchinese sny1_6da9d3e7:
 
     # m "\"Payton has a place they call The Stag too.\""
-    m "“沛頓也有間酒館叫Stag。”"
+    m "“沛頓鎮也有間酒館叫Stag。”"
 
 # game/nikroute2.rpy:2333
 translate Tchinese sny1_b4b518c5:

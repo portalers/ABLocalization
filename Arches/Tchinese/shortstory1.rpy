@@ -94,7 +94,7 @@ translate Tchinese shortstory1_3ea8eaf1:
 translate Tchinese shortstory1_bf88529f:
 
     # story "My friend, well, he loved stuff that was a bit more intense, stuff that REALLY made you feel something, or nothing at all, which is what he promised me before I took it."
-    story "至於我的朋友，他喜歡來點刺激的。就是那種能讓人{b}切實{/b}感覺到什麼，又或是什麼都感覺不到的東西。他就是這樣說服的我。"
+    story "至於我的朋友，他喜歡來點刺激的。就是那種能讓人{b}切實{/b}感覺到什麼，又或是什麼都感覺不到的東西。他就是這樣說服我的。"
 
 # game/shortstory1.rpy:87
 translate Tchinese shortstory1_bd2b8dc8:

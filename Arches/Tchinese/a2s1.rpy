@@ -3106,7 +3106,7 @@ translate Tchinese a2s1_32291b66:
 translate Tchinese a2s1_102d307f:
 
     # unk3 "{sc}{font=ui/raven.ttf}\"No! {w=0.4}Get away!\"{/sc}"
-    unk3 "{sc}{font=font/MasaFont-Bold.ttf}{size=+20}“不！{w=0.4}放開我！”{/sc}"
+    unk3 "{sc}{font=font/raven2.ttf}{size=+20}“不！{w=0.4}放開我！”{/sc}"
 
 # game/a2s1.rpy:836
 translate Tchinese a2s1_3a4e95ed:
@@ -3118,7 +3118,7 @@ translate Tchinese a2s1_3a4e95ed:
 translate Tchinese a2s1_530606b2:
 
     # unk3 "{sc}{font=ui/raven.ttf}\"Stupid fucking cunt! {w=0.5}Cheating whore!\"{/sc}"
-    unk3 "{sc}{font=font/MasaFont-Bold.ttf}{size=+20}“爛妓女！{w=0.5}臭破麻！”{/sc}"
+    unk3 "{sc}{font=font/raven2.ttf}{size=+20}“爛妓女！{w=0.5}臭破麻！”{/sc}"
 
 # game/a2s1.rpy:838
 translate Tchinese a2s1_992cbdd2:
@@ -3136,13 +3136,13 @@ translate Tchinese a2s1_e74c599d:
 translate Tchinese a2s1_705232e2:
 
     # unk3 "{sc}{font=ui/raven.ttf}\"He's dead, {w=0.4}you can stop now.\"{/sc}"
-    unk3 "{sc}{font=font/MasaFont-Bold.ttf}{size=+20}“他已經死了，{w=0.4}可以停手了。”{/sc}"
+    unk3 "{sc}{font=font/raven2.ttf}{size=+20}“他已經死了，{w=0.4}可以停手了。”{/sc}"
 
 # game/a2s1.rpy:841
 translate Tchinese a2s1_ec992351:
 
     # unk3 "{sc}{font=ui/raven.ttf}\"Naw, {w=0.4}he's still twitching.\"{/sc}"
-    unk3 "{sc}{font=font/MasaFont-Bold.ttf}{size=+20}“不對，{w=0.4}他還在抽搐。”{/sc}"
+    unk3 "{sc}{font=font/raven2.ttf}{size=+20}“不對，{w=0.4}他還在抽搐。”{/sc}"
 
 # game/a2s1.rpy:842
 translate Tchinese a2s1_8403130b:
@@ -3172,19 +3172,19 @@ translate Tchinese a2s1_e2ae61cf:
 translate Tchinese a2s1_7995417e:
 
     # unk3 "{sc}{font=ui/raven.ttf}\"If you let me go, {w=0.4}I won't tell anyone. {w=0.4}I swear to God!\"{/sc}"
-    unk3 "{sc}{font=font/MasaFont-Bold.ttf}{size=+20}“放我走，{w=0.4}我不會告訴任何人的，{w=0.4}我發誓！”{/sc}"
+    unk3 "{sc}{font=font/raven2.ttf}{size=+20}“放我走，{w=0.4}我不會告訴任何人的，{w=0.4}我發誓！”{/sc}"
 
 # game/a2s1.rpy:848
 translate Tchinese a2s1_dd655bcd:
 
     # unk3 "{sc}{font=ui/raven.ttf}\"No me mates, {w=0.3}por favor!\"{/sc}"
-    unk3 "{sc}{font=font/MasaFont-Bold.ttf}{size=+20}“是我啊兄弟們，{w=0.3}行行好！”{/sc}"
+    unk3 "{sc}{font=font/raven2.ttf}{size=+20}“是我啊兄弟們，{w=0.3}行行好！”{/sc}"
 
 # game/a2s1.rpy:849
 translate Tchinese a2s1_022c6267:
 
     # unk3 "{sc}{font=ui/raven.ttf}\"Stop! {w=0.4}Stop! {w=0.4}Just Stop!\"{/sc}"
-    unk3 "{sc}{font=font/MasaFont-Bold.ttf}{size=+20}“不要！{w=0.4}不要！{w=0.4}快住手！”{/sc}"
+    unk3 "{sc}{font=font/raven2.ttf}{size=+20}“不要！{w=0.4}不要！{w=0.4}快住手！”{/sc}"
 
 # game/a2s1.rpy:850
 translate Tchinese a2s1_4478291c:
@@ -3202,7 +3202,7 @@ translate Tchinese a2s1_fed05998:
 translate Tchinese a2s1_5bda4ef9:
 
     # centered "{sc}{font=ui/raven.ttf}\"Why don't you just kill me?\"{/sc}"
-    centered "{sc}{font=font/MasaFont-Bold.ttf}{size=+36}“為什麼不乾脆殺了我？”{/sc}"
+    centered "{sc}{font=font/raven2.ttf}{size=+36}“為什麼不乾脆殺了我？”{/sc}"
 
 # game/a2s1.rpy:860
 translate Tchinese a2s1_1acd0f70:
@@ -3504,35 +3504,35 @@ translate Tchinese a2s1_5edb4dce:
 translate Tchinese a2s1_8701d45e:
 
     # unk3 "{sc}{font=ui/raven.ttf}\"No! {w=0.3}Get away!\"{/sc}"
-    unk3 "{sc}{font=font/MasaFont-Bold.ttf}{size=+20}“不！{w=0.3}放開我！”{/sc}"
+    unk3 "{sc}{font=font/raven2.ttf}{size=+20}“不！{w=0.3}放開我！”{/sc}"
 
 # game/a2s1.rpy:837
 translate Tchinese a2s1_6f72d4d5:
 
     # unk3 "{sc}{font=ui/raven.ttf}\"Stupid fucking cunt! {w=0.3}Cheating whore!\"{/sc}"
-    unk3 "{sc}{font=font/MasaFont-Bold.ttf}{size=+20}“下賤的蕩婦！{w=0.3}臭婊子！”{/sc}"
+    unk3 "{sc}{font=font/raven2.ttf}{size=+20}“下賤的蕩婦！{w=0.3}臭婊子！”{/sc}"
 
 # game/a2s1.rpy:840
 translate Tchinese a2s1_9a8796e6:
 
     # unk3 "{sc}{font=ui/raven.ttf}\"He's dead, {w=0.3}you can stop now.\"{/sc}"
-    unk3 "{sc}{font=font/MasaFont-Bold.ttf}{size=+20}“他已經死了，{w=0.3}你可以停手了。”{/sc}"
+    unk3 "{sc}{font=font/raven2.ttf}{size=+20}“他已經死了，{w=0.3}你可以停手了。”{/sc}"
 
 # game/a2s1.rpy:841
 translate Tchinese a2s1_c4391f82:
 
     # unk3 "{sc}{font=ui/raven.ttf}\"Naw, {w=0.3}he's still twitching.\"{/sc}"
-    unk3 "{sc}{font=font/MasaFont-Bold.ttf}{size=+20}“不，{w=0.3}他還在抽搐。”{/sc}"
+    unk3 "{sc}{font=font/raven2.ttf}{size=+20}“不，{w=0.3}他還在抽搐。”{/sc}"
 
 # game/a2s1.rpy:847
 translate Tchinese a2s1_908fe30d:
 
     # unk3 "{sc}{font=ui/raven.ttf}\"If you let me go, {w=0.3}I won't tell anyone. {w=0.4}I swear to God!\"{/sc}"
-    unk3 "{sc}{font=font/MasaFont-Bold.ttf}{size=+20}“放了我吧，{w=0.3}我不會告訴任何人的，{w=0.4}我發誓！”{/sc}"
+    unk3 "{sc}{font=font/raven2.ttf}{size=+20}“放了我吧，{w=0.3}我不會告訴任何人的，{w=0.4}我發誓！”{/sc}"
 
 # game/a2s1.rpy:849
 translate Tchinese a2s1_0713dc66:
 
     # unk3 "{sc}{font=ui/raven.ttf}\"Stop! {w=0.3}Stop! {w=0.3}Just Stop!\"{/sc}"
-    unk3 "{sc}{font=font/MasaFont-Bold.ttf}{size=+20}“不要！{w=0.3}不要！{w=0.3}住手啊！”{/sc}"
+    unk3 "{sc}{font=font/raven2.ttf}{size=+20}“不要！{w=0.3}不要！{w=0.3}住手啊！”{/sc}"
 

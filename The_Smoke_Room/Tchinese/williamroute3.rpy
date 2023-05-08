@@ -472,7 +472,7 @@ translate Tchinese williamroute3_776d79d0:
 translate Tchinese williamroute3_bd9b8adf:
 
     # m "“Because if you ain't, you’re on your way out too as far as I’m concerned.”"
-    m "“因為如果沒有的話，在我看來，你的離開不過是遲早的。”"
+    m "“因為如果沒有的話，在我看來，你的離開不過是遲早的事。”"
 
 # game/williamroute3.rpy:135
 translate Tchinese williamroute3_f7c14c1b:
@@ -1702,7 +1702,7 @@ translate Tchinese williamroute3_8bdfd321:
 translate Tchinese williamroute3_e98e839f:
 
     # "He savors it, but I pull away with a soft smack."
-    "他細細品嚐其中滋味，直到我‘啾’地一聲離開他的唇。"
+    "他細細品嚐其中滋味，直到我“啾”地一聲離開他的唇。"
 
 # game/williamroute3.rpy:468
 translate Tchinese williamroute3_353763aa:
@@ -2302,7 +2302,7 @@ translate Tchinese williamroute3_b21bef74:
 translate Tchinese williamroute3_42f2856f:
 
     # "I don’t need to hear him say yes or no, really."
-    "我不需要聽到他回答‘是’或‘不是’。"
+    "我不需要聽到他回答“是”或“不是”。"
 
 # game/williamroute3.rpy:591
 translate Tchinese williamroute3_c2246a2d:
@@ -4366,7 +4366,7 @@ translate Tchinese willbedchoice_d7e3c1dc:
 translate Tchinese willbedchoice_b98f1986:
 
     # wi "“So who is the benefactor that brought you to Echo?”"
-    wi "“那麼把你招來回音的贊助者是？”"
+    wi "“那麼把你招來回音鎮的贊助者是？”"
 
 # game/williamroute3.rpy:1141
 translate Tchinese willbedchoice_3f940602:
@@ -6592,7 +6592,7 @@ translate Tchinese williamchallmenu_f9727778:
 translate Tchinese williamchallmenu_9ec1d61d:
 
     # "{i}Dubliners{/i}, by James Joyce."
-    "{i}都柏林人{/i}，詹姆斯·喬伊斯著。"
+    "{b}《都柏林人》{/b}，詹姆斯·喬伊斯著。"
 
 # game/williamroute3.rpy:1936
 translate Tchinese williamchallmenu_0dd030e2:
@@ -7636,7 +7636,7 @@ translate Tchinese stagnight_b560dfaf:
 translate Tchinese stagnight_d4f84c4c:
 
     # "He beckons toward the front door."
-    ni "“他朝前門招了招手。”"
+    "他朝前門招了招手。"
 
 # game/williamroute3.rpy:2331
 translate Tchinese stagnight_ccf546ff:
@@ -8932,7 +8932,7 @@ translate Tchinese samstation_fe63a091:
 translate Tchinese samstation_1a092418:
 
     # "{i}If he sins against you seven times in one day, and each time he comes to you saying, 'I repent,' you must forgive him.{/i}"
-    "{b}倘若他一天七次得罪你，又七次迴轉，說：‘我懊悔了’，你總要饒恕他。{/b}"
+    "{b}倘若他一天七次得罪你，又七次迴轉，說：“我懊悔了”，你總要饒恕他。{/b}"
 
 # game/williamroute3.rpy:2818
 translate Tchinese samstation_919ea684:
@@ -9340,7 +9340,7 @@ translate Tchinese samstation_5dcd3dca:
 translate Tchinese samstation_9a16115f:
 
     # cy "“Happens to friends in Coalville. And in Payton. It’s definitely happened before here, too.”"
-    cy "“我在Coalville的朋友，在沛頓的朋友都沒能倖免。這裡肯定也不例外。”"
+    cy "“我在Coalville的朋友，在沛頓鎮的朋友都沒能倖免。這裡肯定也不例外。”"
 
 # game/williamroute3.rpy:2973
 translate Tchinese samstation_199be9df:
@@ -12082,7 +12082,7 @@ translate Tchinese hattie_a70950e9:
 translate Tchinese hattie_ea356bdf:
 
     # wi "“You’d do better knowing how to trim first, Andy.”"
-    wi "你還是先學會修鬍鬚吧，Andy。"
+    wi "“你還是先學會修鬍鬚吧，Andy。”"
 
 # game/williamroute3.rpy:3856
 translate Tchinese hattie_c2553e28:
@@ -12166,7 +12166,7 @@ translate Tchinese hattie_aff5847a:
 translate Tchinese hattie_62036e90:
 
     # "He doesn't look like he's listening to me."
-    "“看來他沒在聽我說話。”"
+    "看來他沒在聽我說話。"
 
 # game/williamroute3.rpy:3883
 translate Tchinese hattie_bb505291:
@@ -12340,7 +12340,7 @@ translate Tchinese williamroute3a_3c1f1369:
 translate Tchinese williamroute3a_6741d359:
 
     # "At least not of you."
-    "“至少肯定不是你。”"
+    "至少肯定不是你。"
 
 # game/williamroute3.rpy:4703
 translate Tchinese williamroute3a_2f9c4e3b:
@@ -12400,13 +12400,13 @@ translate Tchinese williamroute3a_fe3901e6:
 translate Tchinese williamroute3a_9d5a775c:
 
     # "Todd’s tired face pokes past the slip of the opening in the door."
-    "“一臉疲憊的Todd從門縫裡探出頭。”"
+    "一臉疲憊的Todd從門縫裡探出頭。"
 
 # game/williamroute3.rpy:4730
 translate Tchinese williamroute3a_418cde63:
 
     # "His fur is a bit mussed and his shirt is extra wrinkled."
-    "“他衣衫不整，毛也亂糟糟的。”"
+    "他衣衫不整，毛也亂糟糟的。"
 
 # game/williamroute3.rpy:4733
 translate Tchinese williamroute3a_adf33c4a:
@@ -12442,7 +12442,7 @@ translate Tchinese williamroute3a_9f8cc0fe:
 translate Tchinese williamroute3a_1f4da3dd:
 
     # "Wouldn’t he trip over his tail?"
-    "“他不會是被自己的尾巴絆倒的吧？”"
+    "他不會是被自己的尾巴絆倒的吧？"
 
 # game/williamroute3.rpy:4744
 translate Tchinese williamroute3a_ecd25ef5:
@@ -12538,13 +12538,13 @@ translate Tchinese williamroute3a_0b8278d3:
 translate Tchinese williamroute3a_c014d0ef:
 
     # "The otter hops down the stoop and waddles across the street with a distracted look on his face."
-    "“水獺跳下門廊，搖搖擺擺、恍恍惚惚地走上街道。”"
+    "水獺跳下門廊，搖搖擺擺、恍恍惚惚地走上街道。"
 
 # game/williamroute3.rpy:4780
 translate Tchinese williamroute3a_6996df1a:
 
     # wi "\"Todd, wait!\""
-    wi "等一下，Todd！"
+    wi "“等一下，Todd！”"
 
 # game/williamroute3.rpy:4784
 translate Tchinese williamroute3a_faeb87d3:
@@ -12568,13 +12568,13 @@ translate Tchinese williamroute3a_cc5015dc:
 translate Tchinese williamroute3a_e6e9aed7:
 
     # "He scratches the back of his head, as if trying to remember."
-    "“他抓著後腦杓，努力回憶。”"
+    "他抓著後腦杓，努力回憶。"
 
 # game/williamroute3.rpy:4794
 translate Tchinese williamroute3a_32855c4a:
 
     # to "\"In a ditch on the side of the road, coming back the direction from Payton.\""
-    to "“我從沛頓回來，在路邊的溝裡找到的。”"
+    to "“我從沛頓鎮回來時，在路邊的溝裡找到的。”"
 
 # game/williamroute3.rpy:4798
 translate Tchinese williamroute3a_ea5b4fb3:
@@ -12646,7 +12646,7 @@ translate Tchinese williamroute3a_1da224bd:
 translate Tchinese williamroute3a_4a6160dd:
 
     # "William exhales."
-    "“William嘆了口氣。”"
+    "William嘆了口氣。"
 
 # game/williamroute3.rpy:4833
 translate Tchinese williamroute3a_95579955:
@@ -12694,19 +12694,19 @@ translate Tchinese williamroute3a_561f5472:
 translate Tchinese williamroute3a_19a2e81b:
 
     # "The inside of the prison is a lot less dusty than we left it, which would explain the filth on Todd's shirt."
-    "“監獄裡的灰塵比我們離開時少了許多，這就解釋了Todd的髒襯衫。”"
+    "監獄裡的灰塵比我們離開時少了許多，這就解釋了Todd的髒襯衫。"
 
 # game/williamroute3.rpy:4853
 translate Tchinese williamroute3a_068619e8:
 
     # "Will’s eyebrow lifts as he examines the floor, resting his paws on his hips."
-    "“Will揚起眉毛，兩手叉腰，觀察起了地板。”"
+    "Will揚起眉毛，兩手叉腰，觀察起了地板。"
 
 # game/williamroute3.rpy:4855
 translate Tchinese williamroute3a_5734e860:
 
     # "Then he walks past the door to his office, stops, then walks backwards, cocking his head as he turns it, pursing his lips as he squints."
-    "“又在穿過辦公室的門時停了下來，後退幾步，偏著頭、轉著圈，眯著眼、抿著嘴唇。”"
+    "又在穿過辦公室的門時停了下來，後退幾步，偏著頭、轉著圈，眯著眼、抿著嘴唇。"
 
 # game/williamroute3.rpy:4857
 translate Tchinese williamroute3a_36a2aa1f:
@@ -12718,7 +12718,7 @@ translate Tchinese williamroute3a_36a2aa1f:
 translate Tchinese williamroute3a_a91f3962:
 
     # "I walk in through the door to see what he’s fussing about."
-    "“我走進房間，看他在大驚小怪些什麼。”"
+    "我走進房間，看他在大驚小怪些什麼。"
 
 # game/williamroute3.rpy:4860
 translate Tchinese williamroute3a_1bc0fc09:
@@ -13126,7 +13126,7 @@ translate Tchinese williamroute3a_900e4bac:
 translate Tchinese williamroute3a_47b8c3b4:
 
     # wi "\"There’s a lot of nasty rumors still dogging them from what I hear around town.\""
-    wi "“鎮上流傳著不少關於他們流言蜚語。”"
+    wi "“鎮上流傳著不少關於他們的流言蜚語。”"
 
 # game/williamroute3.rpy:4988
 translate Tchinese williamroute3a_5e0a03ff:
@@ -14002,7 +14002,7 @@ translate Tchinese williamroute3a_a4ab0536:
 translate Tchinese williamroute3a_38be51f1:
 
     # "The empty mug clatters to the table as he lets it sit."
-    "空杯子撞在桌子上，發出響亮的‘咣當’聲。"
+    "空杯子撞在桌子上，發出響亮的“咣當”聲。"
 
 # game/williamroute3.rpy:5309
 translate Tchinese williamroute3a_999b313f:
@@ -14344,7 +14344,7 @@ translate Tchinese williamroute3a_b27ec960:
 translate Tchinese williamroute3a_4c5982ab:
 
     # "When we come upon Marcy’s cottage, it’s close to the state it was in a few days ago."
-    "“當我們再次看到Marcy的小屋時，它已經接近幾天前的狀態了。”"
+    "當我們再次看到Marcy的小屋時，它已經接近幾天前的狀態了。"
 
 # game/williamroute3.rpy:5468
 translate Tchinese williamroute3a_d1316d96:
@@ -14428,7 +14428,7 @@ translate Tchinese williamroute3a_0c50f91c:
 translate Tchinese williamroute3a_64c9d072:
 
     # "I can’t tell her yet."
-    "“我還不能說。”"
+    "我還不能說。"
 
 # game/williamroute3.rpy:5496
 translate Tchinese williamroute3a_8577a002:
@@ -14752,7 +14752,7 @@ translate Tchinese williamroute3a_6456f1e3:
 translate Tchinese williamroute3a_60c8d2fa_1:
 
     # wi "\"Marcy...\""
-    wi "Marcy……"
+    wi "“Marcy……”"
 
 # game/williamroute3.rpy:5603
 translate Tchinese williamroute3a_d8723232:
@@ -14764,7 +14764,7 @@ translate Tchinese williamroute3a_d8723232:
 translate Tchinese williamroute3a_fe2749be:
 
     # mar "\"...Hmm?\""
-    mar "……嗯？"
+    mar "“……嗯？”"
 
 # game/williamroute3.rpy:5606
 translate Tchinese williamroute3a_290f18c3:
@@ -14866,13 +14866,13 @@ translate Tchinese williamroute3a_7c3bebd7:
 translate Tchinese williamroute3a_05d4b1c1:
 
     # m "\"And how long is that gonna take?\""
-    m "“這大概需要多久？”"
+    m "“具體是要等多久？”"
 
 # game/williamroute3.rpy:5611
 translate Tchinese williamroute3a_5cd2ba2c:
 
     # wi "\"Could be a few hours, could be a few days.\""
-    wi "“有可能好幾個小時，也可能變好幾天。”"
+    wi "“可能幾個小時，也可能是好幾天。”"
 
 # game/williamroute3.rpy:5613
 translate Tchinese williamroute3a_dec8a06c:
@@ -14908,7 +14908,7 @@ translate Tchinese williamroute3a_1abaacd3:
 translate Tchinese williamroute3a_8349bc1f:
 
     # wi "\"I don't think we'll find anything, but something is better than nothing.\""
-    wi "“我不覺得我們會找到有用的東西，但有東西總比沒東西好。”"
+    wi "“我不覺得會有甚麼新發現，但總比乾等來得好。”"
 
 # game/williamroute3.rpy:5635
 translate Tchinese williamroute3a_66bcb7de:
@@ -14932,37 +14932,37 @@ translate Tchinese williamroute3a_2e7df407:
 translate Tchinese williamroute3a_6474dd28:
 
     # m "\"You know, this ain’t my job, Will.\""
-    m "“你又不是不知道我不是幹這行的，Will。”"
+    m "“我說，這可不是我擅長的工作啊，Will。”"
 
 # game/williamroute3.rpy:5687
 translate Tchinese williamroute3a_71b173b2:
 
     # wi "\"I know, but it's close where I'll be for the next few days, and I think it would be best for you to keep by.\""
-    wi "“我知道，但我這幾天都會在附近，\n而且我想，最好你也可以待在旁邊。”"
+    wi "“我知道，但我接下來要去的地方離那很近，你待在那我也可以放心。”"
 
 # game/williamroute3.rpy:5640
 translate Tchinese williamroute3a_7a5c6441:
 
     # m "\"I get that, but I have other things that I could be doing right now.\""
-    m "“我明白了，但現在我還有其他事情要去做。”"
+    m "“我懂，但我還有其他事情要去做。”"
 
 # game/williamroute3.rpy:5642
 translate Tchinese williamroute3a_4cf47544:
 
     # wi "\"Like I said before, I don't think we're going to find anything.\""
-    wi "“就如同我之前所說的，這邊很難找到線索。”"
+    wi "“正如我先前說的，我不指望會有什麼發現。”"
 
 # game/williamroute3.rpy:5644
 translate Tchinese williamroute3a_c0c26de3:
 
     # wi "\"I know it's been a long day.\""
-    wi "“然後忙到天也晚了。”"
+    wi "“今天不走運。”"
 
 # game/williamroute3.rpy:5645
 translate Tchinese williamroute3a_966a4c91:
 
     # wi "\"If y'all don't find anything in a few hours, you and Todd can head off home or back to the office.\""
-    wi "“如果接下來的幾小時內如果你們全部都不到，\n你跟Todd看要不直接回家，或回到辦公室吧。”"
+    wi "“如果過了幾個小時，你和Todd還是一無所獲的話，就各自回家吧。”"
 
 # game/williamroute3.rpy:5649
 translate Tchinese williamroute3a_91d36133:
@@ -14980,7 +14980,7 @@ translate Tchinese williamroute3a_ec2cc410:
 translate Tchinese williamroute3a_ff90e985:
 
     # m "\"Guess I’m with you for the next few hours, Mr. Bronson.\""
-    m "“我想接下來的幾個小時我得跟你一起共渡了，Bronson先生。”"
+    m "“那麼接下來就讓我們好好相處吧，Bronson先生。”"
 
 
 # game/williamroute3.rpy:5652
@@ -15017,7 +15017,7 @@ translate Tchinese williamroute3a_159ea86a:
 translate Tchinese williamroute3a_ded1d576:
 
     # to "\"We can start with a general sweep of the perimeter.\""
-    to "“我們可以從周圍來個常規掃蕩。”"
+    to "“一路搜查過去吧。”"
 
 # game/williamroute3.rpy:5710
 translate Tchinese williamroute3a_4f347139:
@@ -15047,13 +15047,13 @@ translate Tchinese williamroute3a_c09cd9b1:
 translate Tchinese williamroute3a_9a06bc8e:
 
     # "The Greenes’ property is a lot bigger than I thought it would be, though I suppose it makes sense they’d have more room per how far away from down town they are."
-    "“Greene家族的占地面積比我想像中要大得多，不過也不奇怪，畢竟這裡屬於鎮上的邊緣地帶。”"
+    "Greene家的占地面積比我想像中要大得多，不過也不奇怪，畢竟這裡屬於鎮上的邊緣地帶。"
 
 # game/williamroute3.rpy:5699
 translate Tchinese williamroute3a_40542c5a:
 
     # "It takes us about a ten minute hike before we see any trace of anything at all down the dirt road."
-    "徒步下行在泥濘的道路十幾分鐘之後，我們還是找不到一丁點兒蛛絲馬跡。"
+    "我們走了大約十分鐘，才看到有路的痕跡。"
 
 # game/williamroute3.rpy:5713
 translate Tchinese williamroute3a_d220e3f1:
@@ -15065,7 +15065,7 @@ translate Tchinese williamroute3a_d220e3f1:
 translate Tchinese williamroute3a_1d63be66:
 
     # m "\"Just how big is the Greene property?\""
-    m "“Greene家到底多大啊？”"
+    m "“Greene家的地到底多大啊？”"
 
 # game/williamroute3.rpy:5715
 translate Tchinese williamroute3a_407a49da:
@@ -15077,13 +15077,13 @@ translate Tchinese williamroute3a_407a49da:
 translate Tchinese williamroute3a_8efffaf6:
 
     # "That's a huge amount of land for the little cabin to sit on."
-    "這麼大塊地上面就為了蓋間小屋。"
+    "跟他們的小屋一比較，這地還真寬廣。"
 
 # game/williamroute3.rpy:5871
 translate Tchinese williamroute3a_bfb1ab98:
 
     # "Up ahead, I see a ramshackle building under a thick pine tree that looks like it might be a tool shed, considering it ain’t that big."
-    "我在一棵茂密的松樹下看到一棟破破爛爛的建築，考慮到大小，它很可能是間工具棚。"
+    "我在一棵茂密的松樹下看到一棟破破爛爛的建築，考慮到大小，可能是間工具棚。"
 
 # game/williamroute3.rpy:5842
 translate Tchinese williamroute3a_ea017c98:
@@ -15119,13 +15119,13 @@ translate Tchinese williamroute3a_21af8cf0:
 translate Tchinese williamroute3a_0d151d89:
 
     # "There’s a thick padlock over a horseshoe-shaped bar shoved into very thin, very rickety wood."
-    "搖搖欲墜的門上強插著馬蹄形的門閂，門栓上掛著把鎖厚重的鎖，"
+    "搖搖欲墜的門上強插著馬蹄形的門閂，門栓上掛著把鎖厚重的鎖。"
 
 # game/williamroute3.rpy:5714
 translate Tchinese williamroute3a_3706d946:
 
     # to "\"Take a look at this puppy.\""
-    to "“看好了，年輕人。”"
+    to "“看好了，新手。”"
 
 # game/williamroute3.rpy:5716
 translate Tchinese williamroute3a_5cb61804:
@@ -15149,7 +15149,7 @@ translate Tchinese williamroute3a_a6084c86:
 translate Tchinese williamroute3a_3c0fe309:
 
     # to "\"Well, yeah, that was a good idea too.\""
-    to "“噢，這也是個不錯的主意。”"
+    to "“噢，也行吧。”"
 
 # game/williamroute3.rpy:5726
 translate Tchinese williamroute3a_77ab5bd5:
@@ -15167,13 +15167,13 @@ translate Tchinese williamroute3a_cd7fb57b:
 translate Tchinese williamroute3a_c5b43340:
 
     # m "\"You see anything out of the ordinary?\""
-    m "“你找到不尋常的東西了嗎？”"
+    m "“你有看到奇怪的東西嗎？”"
 
 # game/williamroute3.rpy:5735
 translate Tchinese williamroute3a_1aee1c21:
 
     # to "\"There’s a hoe, a shovel, a can of oil...\""
-    to "“有一把鋤頭、一把鏟子、一罐油……”"
+    to "“有把鋤頭、一把鏟子、一罐油……”"
 
 # game/williamroute3.rpy:5737
 translate Tchinese williamroute3a_b6d6a198:
@@ -15245,13 +15245,13 @@ translate Tchinese williamroute3a_c9532811:
 translate Tchinese williamroute3a_ae02851e:
 
     # m "\"Maybe you’re not trying as hard as you could be because you knew ‘em.\""
-    m "“你好像沒有盡全力，因為你熟悉她。”"
+    m "“你好像有所保留，因為她是你的熟人。”"
 
 # game/williamroute3.rpy:5759
 translate Tchinese williamroute3a_3fa7bb80:
 
     # to "\"Know who exactly?\""
-    to "“熟悉誰？”"
+    to "“誰？”"
 
 # game/williamroute3.rpy:5761
 translate Tchinese williamroute3a_8e09bfe8:
@@ -15317,7 +15317,7 @@ translate Tchinese williamroute3a_287cb0db:
 translate Tchinese williamroute3a_f7dc953a:
 
     # to "\"Ain’t no such thing when it comes to family!\""
-    to "“哪裡的話，都是一家人嘛！”"
+    to "“人才興旺才叫家嘛！”"
 
 # game/williamroute3.rpy:5782
 translate Tchinese williamroute3a_7e11a820:
@@ -15329,7 +15329,7 @@ translate Tchinese williamroute3a_7e11a820:
 translate Tchinese williamroute3a_aa0b9ca1:
 
     # m "\"But how do y’all keep track of each other?\""
-    m "“你們彼此怎麼聯繫？”"
+    m "“你們怎麼聯繫彼此？”"
 
 # game/williamroute3.rpy:5786
 translate Tchinese williamroute3a_4d1d4667:
@@ -15383,7 +15383,7 @@ translate Tchinese williamroute3a_a4ce6a64:
 translate Tchinese williamroute3a_8c03ab0f:
 
     # to "\"Well, what for?\""
-    to "“為什麼啊？”"
+    to "“為什麼？”"
 
 # game/williamroute3.rpy:5806
 translate Tchinese williamroute3a_1142a111:
@@ -15527,7 +15527,7 @@ translate Tchinese williamroute3a_4a4c1171:
 translate Tchinese williamroute3a_3eb8fbb4:
 
     # m "\"Your family ever try to make you wash your mouth out with bleach if you swore.\""
-    m "“你的家人有逼你用漂白劑漱說髒話的嘴嗎。”"
+    m "“你的家人有逼你在說髒話後用漂白劑漱嘴嗎。”"
 
 # game/williamroute3.rpy:5843
 translate Tchinese williamroute3a_30018336:
@@ -15545,7 +15545,7 @@ translate Tchinese williamroute3a_daeecd28:
 translate Tchinese williamroute3a_882aed07:
 
     # m "\"That must be nice.\""
-    m "“那一定不錯。”"
+    m "“那倒是不錯。”"
 
 # game/williamroute3.rpy:5848
 translate Tchinese williamroute3a_05fe65ca:
@@ -15581,7 +15581,7 @@ translate Tchinese williamroute3a_2a698289:
 translate Tchinese williamroute3a_bc0683ae:
 
     # "When he figures out I'm determined to be thorough, he sags a bit and starts helping me sort through the junk."
-    "在發現我的決心有多徹底後，他無奈地開始幫我整理雜物。"
+    "在發現我的決心有多徹底後，他無奈地開始幫我整理垃圾。"
 
 # game/williamroute3.rpy:5872
 translate Tchinese williamroute3a_0616f54a:
@@ -15617,7 +15617,7 @@ translate Tchinese williamroute3a_2ead9414:
 translate Tchinese williamroute3a_75253576:
 
     # m "\"Find anything yet?\""
-    m "“有找到什麼嗎？”"
+    m "“有什麼發現嗎？”"
 
 # game/williamroute3.rpy:5882
 translate Tchinese williamroute3a_aeca2ff7:
@@ -15923,7 +15923,7 @@ translate Tchinese williamroute3a_7991c023:
 translate Tchinese williamroute3a_12c0e03b:
 
     # to "\"You’re definitely sleepin’ with Mr. Adler, then, ain’t you?\""
-    to "“你當時一定跟Adler先生睡在一起，對吧？”"
+    to "“你一定跟Adler先生睡過了，對吧？”"
 
 # game/williamroute3.rpy:5969
 translate Tchinese williamroute3a_91fc7c40:
@@ -15941,7 +15941,7 @@ translate Tchinese williamroute3a_64905f91:
 translate Tchinese williamroute3a_cc16147f:
 
     # to "\"It's just a lot to take in when I start to really think about it.\""
-    to "“不過當我嘗試正視你們的時候，這些事多到難以消化。”"
+    to "“但我一認真思考這事，我的腦袋就會亂成一團。”"
 
 # game/williamroute3.rpy:5979
 translate Tchinese williamroute3a_512d25d8:
@@ -15989,13 +15989,13 @@ translate Tchinese williamroute3a_a791c02c:
 translate Tchinese williamroute3a_e131da58:
 
     # to "\"Mostly because I know he's not supposed to.\""
-    to "“誠如社會教義所言，我知道，他這麼做不應該。”"
+    to "“最主要的原因，是因為我知道他不該跟男人做。”"
 
 # game/williamroute3.rpy:5983
 translate Tchinese williamroute3a_9b2799d2:
 
     # to "\"And also because I think it’s easy to see why he’d want you to.\""
-    to "“但以我的立場而言，我思索找到了一個顯而易見的原因：\n他想要跟你在一起，真沒有所謂應不應該。”"
+    to "“但也理解他為什麼想要你。”"
 
 # game/williamroute3.rpy:5984
 translate Tchinese williamroute3a_245e69ea:
@@ -16007,31 +16007,31 @@ translate Tchinese williamroute3a_245e69ea:
 translate Tchinese williamroute3a_c481f9a4:
 
     # "I knew there was something funny about this one when I worked him up to spankin' himself off at the Sheriff's office."
-    "我想起有件趣事，之前他在警長室，類似的話題，他被我弄到害臊，還不知不覺起了生理反應。"
+    "發現他在警署裡偷偷摸摸打手槍的時候，我就知道這傢伙有點意思。"
 
 # game/williamroute3.rpy:6012
 translate Tchinese williamroute3a_eaa113bf:
 
     # "But something's put him in an earnest mood."
-    "但這次不知道為什麼，他坦然於胸的侃侃而談。"
+    "但他現在又很嚴肅。"
 
 # game/williamroute3.rpy:5987
 translate Tchinese williamroute3a_a1546a2f:
 
     # "Maybe the all the anxiety's loosened his tongue a bout."
-    "大概是因為這次所有捆綁在他嘴巴的焦慮鬆開了吧。"
+    "也許是壓力太大，才一股腦說出來了吧。"
 
 # game/williamroute3.rpy:5988
 translate Tchinese williamroute3a_600fa234:
 
     # "I heard before from Cynthia that otters get squeaky when they're scared, and also when they're in a mood."
-    "我聽Cynthia說過，水獺在被嚇到或高興的時候都會破口發出叫聲。"
+    "我聽Cynthia說過，水獺在害怕的時候會發出吱吱聲，在心情不好的時候也會。"
 
 # game/williamroute3.rpy:5989
 translate Tchinese williamroute3a_aea84397:
 
     # "Maybe Todd's the kind to mix those two emotions up."
-    "現在Todd應該是兩種情緒混合在一起了吧。"
+    "也許這兩種情緒Todd都有。"
 
 # game/williamroute3.rpy:5992
 translate Tchinese williamroute3a_acdd4207:
@@ -16043,7 +16043,7 @@ translate Tchinese williamroute3a_acdd4207:
 translate Tchinese williamroute3a_64f2e4c3:
 
     # to "\"Well I try not to get stiff at all, Mr. Ayers.\""
-    to "“呃，我幻想時盡力不讓自己起反應了，Ayers先生。”"
+    to "“呃，我已經很克制了，Ayers先生。”"
 
 # game/williamroute3.rpy:6032
 translate Tchinese williamroute3a_520f9104:
@@ -16073,7 +16073,7 @@ translate Tchinese williamroute3a_648043c0:
 translate Tchinese williamroute3a_e1216bff:
 
     # m "\"How specific did they get?\""
-    m "“教得有多具體？”"
+    m "“具體教了什麼？”"
 
 # game/williamroute3.rpy:5961
 translate Tchinese williamroute3a_c5a30825:
@@ -16187,7 +16187,7 @@ translate Tchinese williamroute3a_94bb64c2:
 translate Tchinese williamroute3a_1a26fc21:
 
     # to "\"I don’t know if I'd feel right doing something like that in Marcy’s shed.\""
-    to "“我感覺在別人家的棚子，如Marcy家的，做這檔事我不知道對不對。”"
+    to "“我覺得在Marcy的棚子裡做這種事不太好。”"
 
 # game/williamroute3.rpy:6041
 translate Tchinese williamroute3a_c2fb3868:
@@ -16223,19 +16223,19 @@ translate Tchinese williamroute3a_bef5f7e9:
 translate Tchinese williamroute3a_ba982ccc:
 
     # to "\"Feels less disrespectful to indugle in earthly pleasures out in nature.\""
-    to "“在寬闊的大自然中解放塵世間的慾望，讓我沒有那麼多罪惡感。”"
+    to "“在大自然中享受世俗的快樂，就沒有那麼不尊重人了。”"
 
 # game/williamroute3.rpy:6042
 translate Tchinese williamroute3a_cc5b4b5a:
 
     # to "\"Plus, there’s coverage behind the shed.\""
-    to "“而且，躲到棚子後面還有個掩護。”"
+    to "“而且棚子後面還有個遮擋。”"
 
 # game/williamroute3.rpy:6043
 translate Tchinese williamroute3a_ddb2f6d2:
 
     # to "\"And ain’t nobody comes this way.\""
-    to "“應該沒有人會從那個方向來看到這裡。”"
+    to "“也沒有人會來。”"
 translate Tchinese williamroute3a_acd6fa37:
 
     # to "\"You, ah, really wanna do this?\""
@@ -16251,7 +16251,7 @@ translate Tchinese williamroute3a_9dba80a9:
 translate Tchinese williamroute3a_c1cd832a:
 
     # "I'm asking him and myself both the question at the same time."
-    "我同時問了自己跟對方一樣的問題。"
+    "我既是再問他，也是在問我自己。"
 
 # game/williamroute3.rpy:6053
 translate Tchinese williamroute3a_8bdd5ca4:
@@ -16275,25 +16275,25 @@ translate Tchinese williamroute3a_2d9a04e7:
 translate Tchinese williamroute3a_e8e295eb:
 
     # m "\"How about I just give you a taste of the experience?\""
-    m "“就淺嚐一下這滋味如何？”"
+    m "“就讓你嚐嚐鮮，如何？”"
 
 # game/williamroute3.rpy:6054
 translate Tchinese williamroute3a_2b60186e:
 
     # m "\"We can do something quick and easy and then you can vist me later...\""
-    m "“我們就簡單快速地做完，你還想要更多的話，之後再來找我……”"
+    m "“我們就簡單快速地做完，想更深入你可以之後再……”"
 
 # game/williamroute3.rpy:6055
 translate Tchinese williamroute3a_45e44ca8:
 
     # m "\"……with money.\""
-    m "“記得帶錢……”"
+    m "“……拿著錢來找我”"
 
 # game/williamroute3.rpy:6057
 translate Tchinese williamroute3a_bda909df:
 
     # to "\"Well how quick is quick?\""
-    to "“呃，簡單快速是多簡單快速？”"
+    to "“呃，簡單快速是有多快？”"
 
 # game/williamroute3.rpy:6855
 translate Tchinese williamroute3a_f5598544:
@@ -16365,7 +16365,7 @@ translate Tchinese williamroute3a_61ab5ecb:
 translate Tchinese williamroute3a_9d2abae4:
 
     # "He’s stiff."
-    "他很堅挺。"
+    "他很硬挺。"
 
 # game/williamroute3.rpy:6035
 translate Tchinese williamroute3a_8bec3c49:
@@ -16449,7 +16449,7 @@ translate Tchinese williamroute3a_b31ac518:
 translate Tchinese williamroute3a_86bbb7e2:
 
     # "I dip my hands down his pants and fish him out."
-    "我伸進他的褲襠，把裡面的小水獺抓了出來。"
+    "我伸進他的褲襠，把裡面的小水獺掏了出來。"
 
 # game/williamroute3.rpy:6058
 translate Tchinese williamroute3a_8ef8ef7a:
@@ -16503,7 +16503,7 @@ translate Tchinese williamroute3a_c1bf3419:
 translate Tchinese williamroute3a_3d318844:
 
     # "I scoot in, leaning in closer over him, and hold his wrist down with my paw."
-    "我一個猛子紮下去，按住了他的手腕。"
+    "我一個勁紮下去，按住了他的手腕。"
 
 # game/williamroute3.rpy:6067
 translate Tchinese williamroute3a_bdc454a4:
@@ -16527,7 +16527,7 @@ translate Tchinese williamroute3a_923cd7e8:
 translate Tchinese williamroute3a_17ff5c79:
 
     # "His tongue is slipping out of his mouth, and his cock is throbbing with his pulse beneath mine."
-    "他舌頭吊在嘴邊，下面的脈搏不住跳動。"
+    "他舌頭垂在嘴邊，下體的脈搏不住跳動。"
 
 # game/williamroute3.rpy:6076
 translate Tchinese williamroute3a_b844e866:
@@ -16611,7 +16611,7 @@ translate Tchinese williamroute3a_e0b5ec21:
 translate Tchinese williamroute3a_968decc0:
 
     # "What’s not so surprising is that it’s Marcy."
-    "果不其然，來著是Marcy。"
+    "果不其然，來者是Marcy。"
 
 # game/williamroute3.rpy:6108
 translate Tchinese williamroute3a_2090a85a:
@@ -16671,7 +16671,7 @@ translate Tchinese williamroute3a_06739aec:
 translate Tchinese williamroute3a_896ec5f3:
 
     # "East to downtown, west to Payton, south to the railway tracks."
-    "東至鎮中心，西至沛頓，南至鐵路軌道。"
+    "東至鎮中心，西至沛頓鎮，南至鐵路軌道。"
 
 # game/williamroute3.rpy:6134
 translate Tchinese williamroute3a_ccd51dc6:
@@ -16707,7 +16707,7 @@ translate Tchinese williamroute3a_ba35f5b2:
 translate Tchinese williamroute3a_6e6806c0:
 
     # "Up ahead I see something bright sticking up out some of the rocks."
-    "我看到前方的岩石上黏著一個明晃晃的東西。"
+    "我看到前方的岩石上黏著一個閃亮亮的東西。"
 
 # game/williamroute3.rpy:6141
 translate Tchinese williamroute3a_7b5f8c41:
@@ -16815,7 +16815,7 @@ translate Tchinese williamroute3a_0d7866f1:
 translate Tchinese williamroute3a_93e7815f:
 
     # ka "\"Trailed ya.\""
-    ka "“我跟蹤了你。”"
+    ka "“我跟蹤你。”"
 
 # game/williamroute3.rpy:6174
 translate Tchinese williamroute3a_155c25b8:
@@ -17181,7 +17181,7 @@ translate Tchinese williamroute3a_1416ac1b:
 translate Tchinese williamroute3a_4c95d8c8:
 
     # "I walk away, leaving him to the weeds and the creek as I push past infant pine trees back in the direction of the house."
-    "我把他留在小溪邊的雜草從中，推開年幼的松樹，朝房子的方向走去。"
+    "我把他留在小溪邊的雜草叢中，推開年幼的松樹，朝房子的方向走去。"
 
 # game/williamroute3.rpy:6306
 translate Tchinese williamroute3a_900ad179:
@@ -17313,13 +17313,13 @@ translate Tchinese williamroute3a_021763f7:
 translate Tchinese williamroute3a_87933f8e:
 
     # m "\"She’s in labor!\""
-    m "“她臨產了！”"
+    m "“她臨盆了！”"
 
 # game/williamroute3.rpy:6369
 translate Tchinese williamroute3a_07568a46:
 
     # wi "\"The fuck you mean she’s in labor?!\""
-    wi "“臨產是他媽什麼意思？！”"
+    wi "“臨盆是他媽什麼意思？！”"
 
 # game/williamroute3.rpy:6370
 translate Tchinese williamroute3a_53109b7c:
@@ -17379,7 +17379,7 @@ translate Tchinese williamroute3a_de07b175:
 translate Tchinese williamroute3a_f4ff30d5:
 
     # "She’s leaving thin, splattery trails as she moves."
-    "液體濺了一路，留下長長的條痕。"
+    "液體濺了一路，留下長長的痕跡。"
 
 # game/williamroute3.rpy:6401
 translate Tchinese williamroute3a_312df7b4:
@@ -17571,7 +17571,7 @@ translate Tchinese williamroute3a_0985d243:
 translate Tchinese williamroute3a_052a483a:
 
     # to "\"It’s sliding out pretty easy now.\""
-    to "“現在很輕鬆就滑出來了。”"
+    to "“現在出來的很順利。”"
 
 # game/williamroute3.rpy:6476
 translate Tchinese williamroute3a_b96b8b27:
@@ -17973,7 +17973,7 @@ translate Tchinese williamroute3a_b1f049de:
 translate Tchinese williamroute3a_36f61241:
 
     # "She shouldn’t be sleeping with this."
-    "她怎麼能該跟這個一起睡覺。"
+    "她怎麼能跟這個一起睡覺。"
 
 # game/williamroute3.rpy:6588
 translate Tchinese williamroute3a_12b7549e:
@@ -18099,7 +18099,7 @@ translate Tchinese williamroute3a_256eb2b6:
 translate Tchinese williamroute3a_4d6c47de:
 
     # mar "\"Always such a good boy.\""
-    mar "“他一直是個熱心腸的好孩子。”"
+    mar "“他一直是個熱心的好孩子。”"
 
 # game/williamroute3.rpy:6643
 translate Tchinese williamroute3a_db82ae0d:
@@ -18117,7 +18117,7 @@ translate Tchinese williamroute3a_2d958638:
 translate Tchinese williamroute3a_805e35ed:
 
     # "I feel the ‘Fuck’ roll out of me like it’s a gasp."
-    "‘操’這個詞從我的嘴裡呼之欲出。"
+    "“操”這個詞從我的嘴裡呼之欲出。"
 
 # game/williamroute3.rpy:6649
 translate Tchinese williamroute3a_d51f776a:
@@ -18243,7 +18243,7 @@ translate Tchinese williamroute3a_f0d974ad:
 translate Tchinese williamroute3a_260b8a12:
 
     # to "\"But it was always Mr. Greene who’d get the fruit.\""
-    to "“但拿水果的每次都是Greene先生。”"
+    to "“但每次拿水果的都是Greene先生。”"
 
 # game/williamroute3.rpy:6701
 translate Tchinese williamroute3a_50307d70:
@@ -18315,7 +18315,7 @@ translate Tchinese williamroute3a_6f36d547:
 translate Tchinese williamroute3a_63911abb:
 
     # wi "\"Not securely.\""
-    wi "“並不牢固。”"
+    wi "“不牢固。”"
 
 # game/williamroute3.rpy:6738
 translate Tchinese williamroute3a_998a3932:
@@ -18477,7 +18477,7 @@ translate Tchinese williamroute3a_1f4b171a:
 translate Tchinese williamroute3a_c4a216fc:
 
     # wi "\"It’s definitely not like the other ones we’ve seen around the house.\""
-    wi "“明顯跟其他娃娃不是一個等級。”"
+    wi "“明顯跟其他娃娃不在一個檔次。”"
 
 # game/williamroute3.rpy:6795
 translate Tchinese williamroute3a_99fdda2d:
@@ -18555,7 +18555,7 @@ translate Tchinese williamroute3a_c9a35989:
 translate Tchinese williamroute3a_58a44039:
 
     # "There’s far less down here than I would have expected."
-    "底下的東西出乎意料得少。"
+    "底下的東西出乎意料的少。"
 
 # game/williamroute3.rpy:6814
 translate Tchinese williamroute3a_c688a053:
@@ -18597,7 +18597,7 @@ translate Tchinese williamroute3a_364f2d0a:
 translate Tchinese williamroute3a_0d66210c:
 
     # wi "\"But did y’all roll around in the hay together or something?\""
-    wi "“但你們是一起在草垛裡打滾了還是怎麼的？”"
+    wi "“但你們是一起在草垛裡打滾了還是怎麼樣？”"
 
 # game/williamroute3.rpy:6826
 translate Tchinese williamroute3a_0f486e45:
@@ -18771,7 +18771,7 @@ translate Tchinese williamroute3a_f773a643:
 translate Tchinese williamroute3a_758e713a:
 
     # "Sam pokes around the hall of the kitchen with his head, giving Marcy another cautious look before disappearing out the front door."
-    "Sam探頭在廚房的過道裡張望，又小心地望了Marcy一眼，接著消失在了前門。"
+    "Sam探頭在廚房的走道裡張望，又小心地望了Marcy一眼，接著消失在了前門。"
 
 # game/williamroute3.rpy:6901
 translate Tchinese williamroute3a_7a7fc07f:
@@ -19341,7 +19341,7 @@ translate Tchinese williamroute3a_8e6ebb1e:
 translate Tchinese williamroute3a_462bd725:
 
     # mu "\"The kind our store uses.\""
-    mu "“我們店就用的那種。”"
+    mu "“我們店就用是用家的。”"
 
 # game/williamroute3.rpy:7094
 translate Tchinese williamroute3a_b6d099d9:
@@ -19383,7 +19383,7 @@ translate Tchinese williamroute3a_ed36a61d:
 translate Tchinese williamroute3a_069d1182:
 
     # wi "\"Where were you the day of the poker game?\""
-    wi "“打撲克那天你在哪裡？”"
+    wi "“打牌那天你在哪裡？”"
 
 # game/williamroute3.rpy:7106
 translate Tchinese williamroute3a_115e4624:
@@ -19539,7 +19539,7 @@ translate Tchinese williamroute3a_b3ffcaa2:
 translate Tchinese williamroute3a_d6d05fbb:
 
     # mu "\"You’re forgiven, then.\""
-    mu "“那麼，我原諒你了。”"
+    mu "“那麼，我原諒你。”"
 
 # game/williamroute3.rpy:7145
 translate Tchinese williamroute3a_f67465b6:
@@ -19557,7 +19557,7 @@ translate Tchinese williamroute3a_0e17288b:
 translate Tchinese williamroute3a_0dedebb4:
 
     # mu "\"Mostly my father.\""
-    mu "“一般是我的父親。”"
+    mu "“通常是我的父親。”"
 
 # game/williamroute3.rpy:7150
 translate Tchinese williamroute3a_17544ee2:
