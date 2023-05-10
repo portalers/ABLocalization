@@ -18635,5 +18635,5 @@ translate Tchinese nikroute3a_cd985598:
 translate Tchinese nikroute3a_046a4813:
 
     # "Felipe is waving back in the distance, carrying a sign of James III eating money."
-    "Felipe is waving back in the distance, carrying a sign of James III eating money."
+    "Felipe在遠處招手回應，手上正拿著一幅畫著James三世在吃紙鈔的牌子。"
 
