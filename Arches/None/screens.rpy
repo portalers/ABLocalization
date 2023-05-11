@@ -22,24 +22,6 @@ screen preferences():
                         textbutton _("Window") action Preference("display", "window")
                         textbutton _("Fullscreen") action Preference("display", "fullscreen")
 
-                if renpy.variant("small"):
-
-                    vbox:
-                        style_prefix "radio"
-                        label _("Language")
-                        textbutton "English" action Language(None)
-                        textbutton "{font=font/SourceHanSansSC-Normal.otf}简体中文{/font}" action Language("Schinese")
-                        textbutton "{font=font/SourceHanSansTC-Normal.otf}繁體中文{/font}" action Language("Tchinese")
-
-                if renpy.variant("medium"):
-
-                    vbox:
-                        style_prefix "radio"
-                        label _("Language")
-                        textbutton "English" action Language(None)
-                        textbutton "{font=font/SourceHanSansSC-Normal.otf}简体中文{/font}" action Language("Schinese")
-                        textbutton "{font=font/SourceHanSansTC-Normal.otf}繁體中文{/font}" action Language("Tchinese")
-
                 vbox:
                     style_prefix "radio"
                     label _("Rollback Side")
@@ -54,13 +36,12 @@ screen preferences():
                     textbutton _("After Choices") action Preference("after choices", "toggle")
                     textbutton _("Transitions") action InvertSelected(Preference("transitions", "toggle"))
 
-                if renpy.variant("pc"):
-                    vbox:
-                        style_prefix "radio"
-                        label _("Language")
-                        textbutton "English" action Language(None)
-                        textbutton "{font=font/SourceHanSansSC-Normal.otf}简体中文{/font}" action Language("Schinese")
-                        textbutton "{font=font/SourceHanSansTC-Normal.otf}繁體中文{/font}" action Language("Tchinese")
+                vbox:
+                    style_prefix "radio"
+                    label _("Language")
+                    textbutton "English" action Language(None)
+                    textbutton "{font=font/SourceHanSansCN-Normal.otf}简体中文{/font}" action Language("Schinese")
+                    textbutton "{font=font/SourceHanSansTW-Normal.otf}繁體中文{/font}" action Language("Tchinese")
 
                 ## Additional vboxes of type "radio_pref" or "check_pref" can be
                 ## added here, to add additional creator-defined preferences.

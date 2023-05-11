@@ -1,16 +1,6 @@
-translate None python:
-    preferences.text_cps = 34
-    if renpy.variant("pc"):
-        ## Font sizes.
-        gui.text_size = 36
-        gui.button_text_size = 36
-        gui.choice_button_text_size = 36
-    if renpy.variant("small"):
-        ## Adjust dialogue.
-        gui.dialogue_width = 1230
-        gui.button_text_size = 44
-        ## Quick buttons.
-        gui.quick_button_text_size = 50
+init python:
+    config.default_language = "Schinese"
 
-    config.font_replacement_map["font/SourceHanSansSC-Normal.otf", True, False] = ("font/SourceHanSansSC-Bold.otf", False, False)
-    gui.system_font = gui.main_font = gui.text_font = gui.name_text_font = gui.interface_text_font = gui.button_text_font = gui.choice_button_text_font = "font/SourceHanSansSC-Normal.otf"
+translate None python:
+    ## 调整默认文本播放速度
+    preferences.text_cps = 40

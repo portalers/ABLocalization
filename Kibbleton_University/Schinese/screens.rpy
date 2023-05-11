@@ -68,7 +68,7 @@ translate Schinese strings:
 
     # game/screens.rpy:748
     old "empty slot"
-    new "{size=+10}{b}空存档位{/b}{/size}"
+    new "{size=+10}空存档位{/size}"
 
     # game/screens.rpy:765
     old "<"
@@ -77,6 +77,14 @@ translate Schinese strings:
     # game/screens.rpy:768
     old "{#auto_page}A"
     new "{#auto_page}A"
+
+    # game/screens.rpy:314
+    old "End Replay"
+    new "End Replay"
+
+    # game/screens.rpy:1003
+    old "Opens the accessibility menu."
+    new "Opens the accessibility menu."
 
     # game/screens.rpy:771
     old "{#quick_page}Q"
@@ -386,6 +394,14 @@ translate Schinese strings:
     new "本视觉小说包含成人要素，如裸体，性交，饮酒等内容，在阅读之前，请先确保您已达到所在国家允许阅读此类内容的法定年龄。"
 
     old "SAFE FOR WORK (SFW) MODE\nWhen Streamer Mode is activated, character sprites will remain in their underwear and not fully nude. Sex CGs will also be turned off, so no images are displayed, only text."
-    new "是否开启安全模式(SFW)？\n当本模式启动时，角色裸体立绘将替换为至少保留内裤的立绘，性爱场景将关闭图片显示，仅显示文字。"
+    new "是否开启安全模式(SFW)？\n当本模式启动时，角色裸体立绘将替换为至少保留内裤的立绘，性爱场景将关闭图片显示，仅显示文字。"# TODO: Translation updated at 2023-04-07 18:38
+
+    # game/screens.rpy:702
+    old "On"
+    new "开启"
+
+    # renpy/common/00accessibility.rpy:197
+    old "Off"
+    new "关闭"
 
 

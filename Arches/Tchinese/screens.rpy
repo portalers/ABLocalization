@@ -344,3 +344,7 @@ translate Tchinese strings:
 
     old "Language"
     new "語言"
+
+    # game/options.rpy:15
+    old "Arches"
+    new "Arches"

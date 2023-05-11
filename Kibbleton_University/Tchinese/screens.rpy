@@ -4,7 +4,7 @@ translate Tchinese strings:
 
     # game/screens.rpy:331
     old "Back"
-    new "返回"
+    new "回退"
 
     # game/screens.rpy:332
     old "History"
@@ -68,7 +68,7 @@ translate Tchinese strings:
 
     # game/screens.rpy:748
     old "empty slot"
-    new "{size=+10}{b}空存檔位{/b}{/size}"
+    new "{size=+10}空存檔位{/size}"
 
     # game/screens.rpy:765
     old "<"
@@ -96,7 +96,7 @@ translate Tchinese strings:
 
     # game/screens.rpy:841
     old "Window"
-    new "視窗化"
+    new "窗口"
 
     # game/screens.rpy:842
     old "Fullscreen"
@@ -108,7 +108,7 @@ translate Tchinese strings:
 
     # game/screens.rpy:872
     old "Rollback Side"
-    new "點擊螢幕返回"
+    new "點擊螢幕回退"
 
     # game/screens.rpy:873
     old "Disable"
@@ -200,7 +200,7 @@ translate Tchinese strings:
 
     # game/screens.rpy:1246
     old "Enter"
-    new "確認"
+    new "回車"
 
     # game/screens.rpy:1247
     old "Advances dialogue and activates the interface."
@@ -252,7 +252,7 @@ translate Tchinese strings:
 
     # game/screens.rpy:1271
     old "Rolls back to earlier dialogue."
-    new "返回至先前的對話。"
+    new "回退至先前的對話。"
 
     # game/screens.rpy:1274
     old "Page Down"
@@ -386,6 +386,12 @@ translate Tchinese strings:
     new "本視覺小說包含成人要素，如裸體，性交，飲酒等內容，在閱讀之前，請先確保您已達到所在國家允許閱讀此類內容的法定年齡。"
 
     old "SAFE FOR WORK (SFW) MODE\nWhen Streamer Mode is activated, character sprites will remain in their underwear and not fully nude. Sex CGs will also be turned off, so no images are displayed, only text."
-    new "是否開啟安全模式(SFW)？\n當本模式啟動時，角色裸體立繪將替換為至少保留內褲的立繪，性愛場景將關閉圖片顯示，僅顯示文字。"
+    new "是否開啟安全模式(SFW)？\n當本模式啟動時，角色裸體立繪將替換為至少保留內褲的立繪，性愛場景將關閉圖片顯示，僅顯示文字。"# TODO: Translation updated at 2023-04-07 01:06
 
+    # game/screens.rpy:702
+    old "On"
+    new "開啟"
 
+    # renpy/common/00accessibility.rpy:197
+    old "Off"
+    new "關閉"
