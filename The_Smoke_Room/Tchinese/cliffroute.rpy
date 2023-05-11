@@ -7832,5 +7832,5 @@ translate Tchinese strings:
 translate Tchinese cliffroute_896396c7:
 
     # jam "\"And you will not tell Nicholas either.\""
-    jam "\"And you will not tell Nicholas either.\""
+    jam "\"還有，你同樣不可告訴Nicholas。\""
 
