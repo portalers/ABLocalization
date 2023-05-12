@@ -25534,11 +25534,11 @@ translate Tchinese strings:
 translate Tchinese nikroute2_2417d6e2:
 
     # jam "\"You’re close with the immigrant Nicholas Krol, yes?\""
-    jam "\"你跟那位移民Nicholas Krol很熟，對吧？\""
+    jam "“你跟那位移民Nicholas Krol很熟，對吧？”"
 
 # game/nikroute2.rpy:1184
 translate Tchinese nikroute2_fba08962:
 
     # jam "\"Mr Ayers. One of our current troubles is that Nicholas is one of our best workers! But I fear he’s run away with some wild ideas.\""
-    jam "\"Ayers先生。我們現在面臨的麻煩之一，就是Nicholas是我們最棒的員工之一！只怕他萌生了些胡亂的想法。\""
+    jam "“Ayers先生。我們現在面臨的麻煩之一，就是Nicholas是我們最棒的員工之一！只怕他萌生了些胡亂的想法。”"
 

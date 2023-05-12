@@ -7732,7 +7732,7 @@ translate Tchinese aftercanyon_d31c92b2:
 translate Tchinese aftercanyon_a91998cc:
 
     # nwi2 "{font=sin.ttf}\"{cps=0}At the end {/cps}{cps=20}of {nw}"
-    nwi2 "{font=fonts/sin_TW.ttf}\"{cps=0}我的{/cps}{cps=20}絞繩{nw}"
+    nwi2 "{font=fonts/sin_TW.ttf}“{cps=0}我的{/cps}{cps=20}絞繩{nw}"
 
 # game/cliffroute2.rpy:1588
 translate Tchinese aftercanyon_dbc98791:

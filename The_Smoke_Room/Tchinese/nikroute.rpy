@@ -5068,7 +5068,7 @@ translate Tchinese nikroute_51461374:
 translate Tchinese nikroute_20010e44:
 
     # cl "\"Oh nothing too strenuous. I simply would appreciate some direction as to where I should go."
-    cl "\"哦沒什麼大不了的。要是她能指明一下方位我就很感謝了。"
+    cl "“哦沒什麼大不了的。要是她能指明一下方位我就很感謝了。”"
 
 # game/nikroute.rpy:1092
 translate Tchinese nikroute_f05ae32d:
