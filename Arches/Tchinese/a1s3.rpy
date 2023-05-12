@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-06-30 16:37
+﻿# TODO: Translation updated at 2023-05-12 12:09
 
 # game/a1s3.rpy:9
 translate Tchinese a1s3_d1b5f4df:
@@ -97,10 +97,10 @@ translate Tchinese a1s3_c96139ca:
     a "“蛤？你可是剛把你的車給毀了！”"
 
 # game/a1s3.rpy:37
-translate Tchinese a1s3_053e94d6:
+translate Tchinese a1s3_22a34cb3:
 
-    # d "\"It was the middle of the night!\""
-    d "“當時正值半夜！”"
+    # d "\"It was in the middle of the night!\""
+    d "“當時正值午夜啊！”"
 
 # game/a1s3.rpy:39
 translate Tchinese a1s3_6873f707:
@@ -186,437 +186,443 @@ translate Tchinese a1s3_a8289e4f:
     # d "\"Naw, we're good, man. I don't know if it's a good idea for you to do that and drive, anyway.{w} Are you high right now, actually?\""
     d "“不了，我們很好。你確定抽完以後對開車沒影響嗎？{w}還有你是不是已經吸嗨了？”"
 
-# game/a1s3.rpy:63
+# game/a1s3.rpy:62
 translate Tchinese a1s3_d422f046:
 
     # a "\"Haha! No, and I'll have come down by the time we're done looking around.\""
     a "“哈哈！沒有的事，再說在附近繞個幾圈之後就會清醒了。”"
 
-# game/a1s3.rpy:65
+# game/a1s3.rpy:66
 translate Tchinese a1s3_8ca64abf:
 
     # "Devon can't manage to say anything more before Artie takes a deep, long pull from the pen, a red light on the tip pulsing to life in time with his intake of breath."
     "Devon無話可說。同時Artie深吸一口菸，筆尖上的紅燈隨著他的吸入而閃爍起來。"
 
-# game/a1s3.rpy:66
+# game/a1s3.rpy:67
 translate Tchinese a1s3_27e3b117:
 
     # c "\"How do you know if I'm good?\""
     c "“你怎麼知道我好不好？”"
 
-# game/a1s3.rpy:67
+# game/a1s3.rpy:68
 translate Tchinese a1s3_f8e556af:
 
     # "Cameron's voice is so low Dev almost doesn't hear it."
     "Cameron的聲音低到Dev幾乎聽不到。"
 
-# game/a1s3.rpy:69
+# game/a1s3.rpy:70
 translate Tchinese a1s3_77547abe:
 
     # d "\"What was that, honey?\""
     d "“你說什麼，親愛的？”"
 
-# game/a1s3.rpy:72
+# game/a1s3.rpy:73
 translate Tchinese a1s3_39e2345b:
 
     # c "\"You just said 'we're good' without even asking me.\""
     c "“你連問都沒問，就說‘我們’很好。”"
 
-# game/a1s3.rpy:74
+# game/a1s3.rpy:75
 translate Tchinese a1s3_e43c139b:
 
     # d "\"Uh...\""
     d "“呃……”"
 
-# game/a1s3.rpy:75
+# game/a1s3.rpy:76
 translate Tchinese a1s3_d9898541:
 
     # "Devon doesn't know what to say anyway, because Cam just doesn't do drugs."
     "Devon一時語塞，因為他知道Cam已經告別了毒品。"
 
-# game/a1s3.rpy:76
+# game/a1s3.rpy:77
 translate Tchinese a1s3_bc6c0ecd:
 
     # "The coyote would even joke that he's straight edge."
     "郊狼甚至會開玩笑稱自己為直刃族。(*直刃族：來自於80年代的一項運動，主旨在降低慾望，回歸簡單生活，不吸毒、吸菸、飲酒……etc.)"
 
-# game/a1s3.rpy:77
+# game/a1s3.rpy:78
 translate Tchinese a1s3_58a8f92d:
 
     # d "\"I just thought...\""
     d "“我只是覺得……”"
 
-# game/a1s3.rpy:79
+# game/a1s3.rpy:80
 translate Tchinese a1s3_c03409bc:
 
     # "Dev struggles for words as Artie looks at Cameron, then Devon, then back again as he continues to hold in the vapor he inhaled."
     "Dev語無倫次地說。Artie則一邊吸著菸，一邊在Cameron與Devon之間來回張望。"
 
-# game/a1s3.rpy:81
+# game/a1s3.rpy:82
 translate Tchinese a1s3_38e8fe94:
 
     # c "\"Anyway, I don't mind taking a hit, if that's okay with you, Artie.\""
     c "“總之，要是方便的話，我不介意來上一口，Artie.”"
 
-# game/a1s3.rpy:82
+# game/a1s3.rpy:83
 translate Tchinese a1s3_e9028969:
 
     # "Artie exhales loudly and holds out the pen to Cameron."
     "Artie大聲吐出一口煙霧，然後把筆遞給Cameron。"
 
-# game/a1s3.rpy:84
+# game/a1s3.rpy:85
 translate Tchinese a1s3_3a045039:
 
     # a "\"Yeah, of course, dude.\""
     a "“當然，別見外，哥們。”"
 
-# game/a1s3.rpy:86
+# game/a1s3.rpy:87
 translate Tchinese a1s3_a2ca48e0:
 
     # "Dev stares incredulously, the disbelief building until he can't hold it back:"
     "Dev難以置信地盯著Cam，直到他再也無法控制住自己的情緒。"
 
-# game/a1s3.rpy:88
+# game/a1s3.rpy:89
 translate Tchinese a1s3_9d124d5d:
 
     # d "\"Cameron, what are you doing!?\""
     d "“Cameron，你在幹什麼！？”"
 
-# game/a1s3.rpy:90
+# game/a1s3.rpy:91
 translate Tchinese a1s3_fe6c6ef8:
 
     # "Artie looks at Dev with wide eyes, but Cameron only spares him a glance before plucking the pen from Artie's paw and taking a deep pull from it."
     "Artie睜大眼睛看向Dev，但Cameron只是瞥了他一眼，接著從Artie的爪子裡抽出筆，深深吸了一口。"
 
-# game/a1s3.rpy:92
+# game/a1s3.rpy:93
 translate Tchinese a1s3_b8327736:
 
     # "Dev stares at the pulsing red light, then at Cameron's face, whose eyes are closed."
     "Dev凝視著閃爍的紅燈，接著是Cameron雙眸緊閉的臉。"
 
-# game/a1s3.rpy:93
+# game/a1s3.rpy:94
 translate Tchinese a1s3_677fb7df:
 
     # "Dev can't tell what Cameron's thinking right now, but whatever it is, Devon knows this isn't the behavior of the coyote he's gotten to know over the years."
     "Dev不清楚Cameron此時此刻在想什麼，但無論如何，他知道自己認識多年的郊狼不會做出這等行為。"
 
-# game/a1s3.rpy:94
+# game/a1s3.rpy:95
 translate Tchinese a1s3_dfec5caf:
 
     # "It's juvenile, and Cameron is usually more mature than the bear when it comes to stuff like this."
     "Cameron在這類事情上通常比熊老練得多，而不是這麼孩子氣。"
 
-# game/a1s3.rpy:96
+# game/a1s3.rpy:97
 translate Tchinese a1s3_0d556245:
 
     # a "\"Ooookay, I'll just play along like everything's fine between you two.{w} Either way,{w=0.3} maybe we should just go?\""
     a "“好──吧，我就當你們兩個之間什麼事都沒有好了。{w}總之，{w=0.3}我們要不先回去？”"
 
-# game/a1s3.rpy:97
+# game/a1s3.rpy:98
 translate Tchinese a1s3_f56dc23b:
 
     # "Dev feels his chest loosen a bit with relief at hearing those words, at hearing some sense from someone other than himself, but Cameron frowns and opens his mouth--"
     "聽到除自己以外的人說出還算有理的話，Dev總算稍稍鬆了口氣。然而Cameron皺著眉頭，張開嘴──"
 
-# game/a1s3.rpy:99
+# game/a1s3.rpy:100
 translate Tchinese a1s3_1740dc36:
 
     # "Instead of words, he begins to cough explosively into his elbow, seemingly unable to catch his breath."
     "他沒有說話，而是對著手肘劇烈咳嗽起來，好像喘不過氣。"
 
-# game/a1s3.rpy:101
+# game/a1s3.rpy:102
 translate Tchinese a1s3_df608344:
 
     # d "\"Hey, you alright?\""
     d "“你沒事吧？”"
 
-# game/a1s3.rpy:102
+# game/a1s3.rpy:103
 translate Tchinese a1s3_971cd183:
 
     # "Dev walks over to Cameron, rubbing his back."
     "Dev走到Cameron跟前，輕揉他的背。"
 
-# game/a1s3.rpy:104
+# game/a1s3.rpy:105
 translate Tchinese a1s3_ef07a5a4:
 
     # a "\"Yeah, that's normal, especially with a big hit like that. You handle your weed pretty good?\""
     a "“吸那麼大一口咳成這樣很正常。會吸那麼大口其實你跟大麻是老朋友嗎？”"
 
-# game/a1s3.rpy:108
+# game/a1s3.rpy:109
 translate Tchinese a1s3_95a06577:
 
     # d "\"He doesn't smoke weed, dude. That's why I assumed--\""
     d "“他不抽大麻，老兄。所以我才──”"
 
-# game/a1s3.rpy:109
+# game/a1s3.rpy:110
 translate Tchinese a1s3_76de7b84:
 
     # c "\"I smoked... plenty back in... high school... Never hit... one of these though.\""
     c "“我在……高中的時候……抽過不少……不過這樣的……還是第一次。”"
 
-# game/a1s3.rpy:110
+# game/a1s3.rpy:111
 translate Tchinese a1s3_b1811641:
 
     # "Cameron seems to be catching his breath, finally."
     "Cameron似乎終於恢復了呼吸。"
 
-# game/a1s3.rpy:112
+# game/a1s3.rpy:113
 translate Tchinese a1s3_53d9e608:
 
     # c "\"That's harsh as fuck, like worse than a blunt.\""
     c "“太烈了，好像比小雪茄還烈。”"
 
-# game/a1s3.rpy:113
+# game/a1s3.rpy:114
 translate Tchinese a1s3_4c2bfba4:
 
     # a "\"You get used to it. Besides, you only need to hit it a few times to get high.\""
     a "“多抽幾次就習慣了。”"
 
-# game/a1s3.rpy:114
+# game/a1s3.rpy:115
 translate Tchinese a1s3_b3b593d9:
 
     # c "\"Should I take another, then?\""
     c "“那，我再來一口？”"
 
-# game/a1s3.rpy:116
+# game/a1s3.rpy:117
 translate Tchinese a1s3_aeda488d:
 
     # d "\"No, you shouldn't.\""
     d "“不可以。”"
 
-# game/a1s3.rpy:118
+# game/a1s3.rpy:119
 translate Tchinese a1s3_434ddc19:
 
     # "Cameron narrows his eyes at Dev."
     "Cameron瞪著Dev。"
 
-# game/a1s3.rpy:119
+# game/a1s3.rpy:120
 translate Tchinese a1s3_a3c0e654:
 
     # c "\"Why are you acting like this, Dev? It's just marijuana. I never complain when you drink.\""
     c "“你怎麼這樣，Dev？只是大麻而已。你喝酒我就從來沒抱怨過。”"
 
-# game/a1s3.rpy:121
+# game/a1s3.rpy:122
 translate Tchinese a1s3_7afefd2d:
 
     # d "\"Because this isn't like you at all, Cameron.\""
     d "“因為這一點也不像你，Cameron。”"
 
-# game/a1s3.rpy:122
+# game/a1s3.rpy:123
 translate Tchinese a1s3_e959f449:
 
     # "Dev had been holding the conversation back from becoming personal, if only because Artie is here, but at this point he can't stop himself."
     "就因為Artie在這裡，Dev才一直避免談及私人話題，但他已經忍不下去了。"
 
-# game/a1s3.rpy:123
+# game/a1s3.rpy:124
 translate Tchinese a1s3_e262a8f6:
 
     # "He's starting to wonder if all of this goes deeper than he'd like to think."
     "他開始懷疑這一切是否比自己想的還要嚴重。"
 
-# game/a1s3.rpy:124
+# game/a1s3.rpy:125
 translate Tchinese a1s3_72a1d0ec:
 
     # "In the awkward silence that follows, Artie quietly takes the pen from Cameron."
     "在隨之而來的尷尬沉默中，Artie從Cameron手裡悄悄拿回筆。"
 
-# game/a1s3.rpy:126
+# game/a1s3.rpy:127
 translate Tchinese a1s3_4c5ffbf7:
 
     # a "\"Well, uh, I think one hit is good for now, especially if this is your first time smoking in a while.{w} Let's see how you feel in twenty minutes.\""
     a "“咳，呃，我想一口暫時就夠了，尤其是你中間隔了那麼久。{w}先等二十分鐘看看效果好了。”"
 
-# game/a1s3.rpy:127
+# game/a1s3.rpy:128
 translate Tchinese a1s3_1ce84f9e:
 
     # "He pauses and tilts the pen in his paw toward Devon."
     "說罷，他把筆朝Devon的方向一斜。"
 
-# game/a1s3.rpy:128
+# game/a1s3.rpy:129
 translate Tchinese a1s3_9798bd03:
 
     # a "\"You sure you're good? I know we only got high together a few times, but I don't want you to feel left out.\""
     a "“你確定你還好嗎？我知道我們兩個只有一起嗨過幾次，不過別覺得自己被冷落了。”"
 
-# game/a1s3.rpy:130
+# game/a1s3.rpy:131
 translate Tchinese a1s3_cc559c95:
 
     # d "\"No, it's not my thing.\""
     d "“不，我不喜歡毒品。”"
 
-# game/a1s3.rpy:131
+# game/a1s3.rpy:132
 translate Tchinese a1s3_9aa6c74e:
 
     # "Devon looks at Cameron."
     "Devon看向Cameron。"
 
-# game/a1s3.rpy:133
+# game/a1s3.rpy:134
 translate Tchinese a1s3_c556dcea:
 
     # d "\"You told me back in college that it wasn't your thing either. That's the only reason why I said we were good. Sorry, man.\""
     d "“你在大學時候對我說了同樣的話，這也是我之所以替你回答‘好’的唯一原因。對不起，老兄。”"
 
-# game/a1s3.rpy:135
+# game/a1s3.rpy:136
 translate Tchinese a1s3_d6959963:
 
     # c "\"No problem. It's just been a while, so why not have a go, right?\""
     c "“沒事。我只是有段時間沒抽了，試一試也沒什麼關係，對吧？”"
 
-# game/a1s3.rpy:136
+# game/a1s3.rpy:137
 translate Tchinese a1s3_c6426520:
 
     # "Dev sighs loudly and folds his arms, shaking his head in resignation."
     "Dev大聲嘆了口氣，雙臂抱胸，無奈地搖了搖頭。"
 
-# game/a1s3.rpy:138
+# game/a1s3.rpy:139
 translate Tchinese a1s3_3f1e2a39:
 
     # d "\"I guess so.\""
     d "“也許吧。”"
 
-# game/a1s3.rpy:139
+# game/a1s3.rpy:140
 translate Tchinese a1s3_db35218b:
 
     # "Artie quietly takes another hit off the pen before tossing it back into the car."
     "Artie又靜靜抽了一口，然後把筆扔回車裡。"
 
-# game/a1s3.rpy:140
+# game/a1s3.rpy:141
 translate Tchinese a1s3_fbd0ec38:
 
     # a "\"If it makes you feel better--\""
     a "“如果這能讓你感覺好些的話──”"
 
-# game/a1s3.rpy:141
+# game/a1s3.rpy:142
 translate Tchinese a1s3_e29bb712:
 
     # "Artie puffs out his cheeks as he lets out his breath."
     "Artie鼓著腮幫呼出一口氣。"
 
-# game/a1s3.rpy:143
+# game/a1s3.rpy:144
 translate Tchinese a1s3_14498373:
 
     # a "\"--shit's a lot safer than alcohol, or most any drug, really.\""
     a "“──實際上這東西比酒，還有大部分毒品安全多了，我是說真的。”"
 
-# game/a1s3.rpy:145
+# game/a1s3.rpy:146
 translate Tchinese a1s3_075fa474:
 
     # d "\"Oh, spare me, dude. I'm not in the mood for stoner talk right now.\""
     d "“饒了我吧，老兄。我現在沒心情跟你討論嗑藥的事。”"
 
-# game/a1s3.rpy:147
+# game/a1s3.rpy:148
 translate Tchinese a1s3_8646a78c:
 
     # c "\"It's true. I think it's physically impossible to overdose on it.\""
     c "“確實。也不會攝入過量。”"
 
-# game/a1s3.rpy:149
+# game/a1s3.rpy:150
 translate Tchinese a1s3_765e6132:
 
     # d "\"That's not the point, Cam.{w} It's more.{cps=4}..{/cps}{w=0.4} mentally fucky, you know?\""
     d "“這不是重點，Cam。{w}它更多影響的是{cps=4}……{/cps}{w=0.4}心智，你明白嗎？”"
 
-# game/a1s3.rpy:150
+# game/a1s3.rpy:151
 translate Tchinese a1s3_22fe91a7:
 
     # "Artie shrugs."
     "Artie聳了聳肩。"
 
-# game/a1s3.rpy:152
+# game/a1s3.rpy:153
 translate Tchinese a1s3_fecf1f56:
 
     # a "\"Depends on the person. I think Cameron's old enough to know what's good for him.\""
     a "“因人而異。Cameron不是小孩子了，我想他分得清什麼對自己好。”"
 
-# game/a1s3.rpy:154
+# game/a1s3.rpy:155
 translate Tchinese a1s3_7699b947:
 
     # "Artie keeps his tone light, but Devon feels himself actually bristle at that."
     "Artie說得輕鬆，但Devon對這句話非常不滿。"
 
-# game/a1s3.rpy:155
+# game/a1s3.rpy:156
 translate Tchinese a1s3_37ba8fb2:
 
     # "It's like he's being made out to be a controlling boyfriend, so the bear just looks away in frustration."
     "就好像他被描述成了一個控制欲極強的男朋友，熊只好沮喪地移開視線。"
 
-# game/a1s3.rpy:157
+# game/a1s3.rpy:158
 translate Tchinese a1s3_8265a41c:
 
     # "It doesn't matter what the cat thinks."
     "這隻貓的看法無關緊要。"
 
-# game/a1s3.rpy:158
+# game/a1s3.rpy:159
 translate Tchinese a1s3_131e970a:
 
     # "While Artie was a good friend in college, he didn't know all that much about Devon and Cameron's relationship, or Cameron's past."
     "雖然Artie在大學期間是個好朋友，但他對Devon和Cameron的關係、以及Cameron的過去都不甚了解。"
 
-# game/a1s3.rpy:159
+# game/a1s3.rpy:160
 translate Tchinese a1s3_e5dbf024:
 
     # "The bear knows his coyote, and this isn't like Cameron at all."
     "但熊了解自己的郊狼，而那完全不像現在的Cameron。"
 
-# game/a1s3.rpy:161
+# game/a1s3.rpy:162
 translate Tchinese a1s3_08b54663:
 
     # "He just hopes that whatever it is that's going on with his boyfriend will stop when they leave the town."
     "他只希望發生在自己男朋友身上的事會在離開小鎮後煙消雲散。"
 
-# game/a1s3.rpy:172
+# game/a1s3.rpy:173
 translate Tchinese a1s3_995b3299:
 
     # "Cameron stares across the lake, noticing how the light blue of the water almost perfectly reflects the blue of the sky."
     "Cameron凝望著艾瑪湖，淡青色的湖水幾乎完美倒映出了天空的顏色。"
 
-# game/a1s3.rpy:173
+# game/a1s3.rpy:174
 translate Tchinese a1s3_61f4fdd4:
 
     # "Is that why lakes are blue, because they're just a reflection of what's above?"
     "所以湖泊才是淡青色的嗎？只因為它們是天空的倒影？"
 
-# game/a1s3.rpy:174
+# game/a1s3.rpy:175
 translate Tchinese a1s3_68c0bf58:
 
     # "And that's why it becomes dark and murky when the weather is cloudy?"
     "所以當烏雲襲來的時候，湖水也會變得昏暗渾濁？"
 
-# game/a1s3.rpy:176
+# game/a1s3.rpy:177
 translate Tchinese a1s3_3f272c59:
 
     # c "\"{cps=20}Oh shit, {w=0.2}that's crazy.\""
     c "“{cps=20}喔操，{w=0.2}我肯定是瘋了。”"
 
-# game/a1s3.rpy:177
+# game/a1s3.rpy:178
 translate Tchinese a1s3_6483e954:
 
     # "This seemingly profound realization is what makes Cameron suddenly realize that he's very, very high."
     "這一看似深刻的認識讓Cameron突然意識到自己非常、非常的嗨。"
 
-# game/a1s3.rpy:179
+# game/a1s3.rpy:180
 translate Tchinese a1s3_28252bc0:
 
     # "At first, Cameron finds it funny and he laughs out loud, only to stumble over nothing as his limbs suddenly feel intensely heavy."
     "起初，Cameron還覺得有趣，他放聲大笑，直到突然感覺四肢異常沉重，整個人身不由己。"
 
-# game/a1s3.rpy:181
+# game/a1s3.rpy:182
 translate Tchinese a1s3_5e2590b6:
 
     # c "\"{cps=20}Whoa.\""
     c "“{cps=20}哇。”"
 
-# game/a1s3.rpy:182
+# game/a1s3.rpy:183
 translate Tchinese a1s3_06d0d0a3:
 
     # "What was funny suddenly becomes somewhat alarming and the coyote's giggling dies away almost instantly."
     "原本有趣的事情朝著驚恐的方向急轉直下，郊狼呵呵的笑聲頓時消失無蹤。"
 
-# game/a1s3.rpy:189
+# game/a1s3.rpy:188
 translate Tchinese a1s3_9a9d56eb:
 
     # "Cameron quickly walks back to the road where Dev and Artie are, trying not to look like his legs are both fifty pounds heavier."
     "Cameron快步走回Dev和Artie所在的公路，盡量不讓自己的雙腿顯得像灌了五十磅重的鉛。"
+
+# game/a1s3.rpy:189
+translate Tchinese a1s3_c0aa4e45:
+
+    # "It doesn't help that his jeans are still a bit damp, rubbing up againt itself in a rather unpleasant way."
+    "It doesn't help that his jeans are still a bit damp, rubbing up againt itself in a rather unpleasant way."
 
 # game/a1s3.rpy:191
 translate Tchinese a1s3_c3b7b1c4:
@@ -1357,10 +1363,10 @@ translate Tchinese a1s3_6a74c4c0:
     a "“操，{w=0.3}那我姑媽應該是超級靈媒了。”"
 
 # game/a1s3.rpy:373
-translate Tchinese a1s3_9590796e:
+translate Tchinese a1s3_05e90a5f:
 
-    # d "\"Super psychic? {w=0.4}As opposed to what, sorta psychic?\""
-    d "“超級靈媒？{w=0.4}對照物是什麼，半吊子靈媒？”"
+    # d "\"Super psychic? {w=0.3}As opposed to what, sorta psychic?\""
+    d "\"超級靈媒？{w=0.3}對比什麼的，半吊子靈媒？\""
 
 # game/a1s3.rpy:374
 translate Tchinese a1s3_f4fc7389:
@@ -1410,7 +1416,7 @@ translate Tchinese a1s3_1be64000:
     # "He's different, in a good way, and for once he feels like he can admit that."
     "這是他頭一次覺得自己與眾不同，而且是在好的方面上。"
 
-# game/a1s3.rpy:388
+# game/a1s3.rpy:382
 translate Tchinese a1s3_ad646d05:
 
     # "He had seen his friend's death a few months before it happened, and he'd had dreams that were so accurate to the future that it had seemed almost like déjà vu."
@@ -2580,551 +2586,529 @@ translate Tchinese a1s3_421cf93c:
     # "It's breathing."
     "它在呼吸。"
 
-# game/a1s3.rpy:714
+# game/a1s3.rpy:716
 translate Tchinese a1s3_7526860c:
 
     # "What's happening?"
     "發生了什麼事？"
 
-# game/a1s3.rpy:715
+# game/a1s3.rpy:717
 translate Tchinese a1s3_2c09b4cf:
 
     # "He's not thinking right."
     "他的思路是錯的。"
 
-# game/a1s3.rpy:716
+# game/a1s3.rpy:718
 translate Tchinese a1s3_4b3b95e2:
 
     # "This thing isn't part of Echo, Cameron knows that."
     "Cameron知道，那東西不屬於回音鎮。"
 
-# game/a1s3.rpy:717
+# game/a1s3.rpy:719
 translate Tchinese a1s3_45a0701a:
 
     # "So why is it acting different, more alive, as if the town is amplifying it?"
     "但為何它不似從前，現在更具生氣，猶如被這個小鎮放大了？"
 
-# game/a1s3.rpy:718
+# game/a1s3.rpy:720
 translate Tchinese a1s3_9a76bdd7:
 
     # "Maybe it's just the setting, his nerves, the weed, but now he's realizing how strange it is that he's been so relieved to find out he's psychic."
     "也許只是因為環境、他的神經質，還有大麻。但他現在才意識到，自己的如釋重負有多麼不可思議。"
 
-# game/a1s3.rpy:719
+# game/a1s3.rpy:721
 translate Tchinese a1s3_d1ae7e1e:
 
     # "Doesn't he still have problems?"
     "他不依舊是個怪胎嗎？"
 
-# game/a1s3.rpy:720
+# game/a1s3.rpy:722
 translate Tchinese a1s3_29d9801e:
 
     # "It's not like all of those issues were just solved."
     "並非所有的問題都解決了。"
 
-# game/a1s3.rpy:721
+# game/a1s3.rpy:723
 translate Tchinese a1s3_ebbd91bb:
 
     # "Are those the voices of the dead, or something else?"
     "那些是死者的聲音，還是別的什麼？"
 
-# game/a1s3.rpy:722
+# game/a1s3.rpy:724
 translate Tchinese a1s3_1ca99bd8:
 
     # "Are those ghosts, or hallucinations?"
     "幽靈，亦或是幻覺？"
 
-# game/a1s3.rpy:723
+# game/a1s3.rpy:725
 translate Tchinese a1s3_a09d8bf4:
 
     # "Is there a difference?"
     "有區別嗎？"
 
-# game/a1s3.rpy:725
+# game/a1s3.rpy:727
 translate Tchinese a1s3_4f4fb94e:
 
     # "Suddenly a whole new wave of anxiety washes over the canine."
     "一股前所未有的焦慮頓時席捲了這隻郊狼。"
 
-# game/a1s3.rpy:726
+# game/a1s3.rpy:728
 translate Tchinese a1s3_5239beb1:
 
     # "Just like that, he's not sure about anything anymore."
     "就這樣，他對一切再也沒有任何把握。"
 
-# game/a1s3.rpy:727
+# game/a1s3.rpy:729
 translate Tchinese a1s3_cc069ac5:
 
     # "He'd had such a beautiful, life-changing epiphany and now..."
     "他曾有過一個美好的、可以改變人生的頓悟，然而現在……"
 
-# game/a1s3.rpy:728
+# game/a1s3.rpy:730
 translate Tchinese a1s3_d98d9db4:
 
     # "He looks up the road toward where Dev and Artie are, but they're not there and Cameron stares, wondering what's real anymore."
     "他朝Dev和Artie所在的方向望去，但那裡空無一人。Cameron呆呆地凝視著，不知道什麼才是真實的。"
 
-# game/a1s3.rpy:729
+# game/a1s3.rpy:731
 translate Tchinese a1s3_59fc75ce:
 
     # "He looks back at the monster, standing in that window."
     "他回頭看向站在窗口的怪物。"
 
-# game/a1s3.rpy:730
+# game/a1s3.rpy:732
 translate Tchinese a1s3_4fe23836:
 
     # "If it is a harbinger for something important, he should go into that room."
     "如果這預示著某種重要的事即將發生，那麼他沒有理由不去那個房間。"
 
-# game/a1s3.rpy:731
+# game/a1s3.rpy:733
 translate Tchinese a1s3_165f227b:
 
     # "Otherwise he'll just leave here knowing he's crazy, knowing he's on the verge of a fucking psychotic break."
     "否則他只會懷著自己仍是個瀕臨崩潰的瘋子的心情悵然離去。"
 
-# game/a1s3.rpy:733
+# game/a1s3.rpy:735
 translate Tchinese a1s3_a198837e:
 
     # c "\"Oh dammit, {w=0.3}dammit. {w=0.4}What am I doing?\""
     c "“喔操，{w=0.3}操。我究竟在做什麼啊？”"
 
-# game/a1s3.rpy:735
+# game/a1s3.rpy:737
 translate Tchinese a1s3_e319bbd5:
 
     # "And then he's moving for the window, for that monster, the whispers growing and the distortions twisting..."
     "之後，在越來越吵、越來越失真的低語聲中，他開始朝那扇窗戶，朝那個怪物一步步走去……"
 
-# game/a1s3.rpy:744
+# game/a1s3.rpy:746
 translate Tchinese a1s3_92af4980:
 
     # "Devon watches his boyfriend in the distance carefully, feeling his anxiety come down a bit as Cameron just seems to stand there."
     "Devon仔細觀察著遠處的Cameron，看到男朋友似乎只是站在原地，他這才稍稍鬆了口氣。"
 
-# game/a1s3.rpy:746
+# game/a1s3.rpy:748
 translate Tchinese a1s3_7752940f:
 
     # a "\"So, {w=0.3}uh, {w=0.4}what's the deal, man?\""
     a "“那個……{w=0.3}呃，{w=0.4}怎麼搞的，老兄？”"
 
-# game/a1s3.rpy:747
+# game/a1s3.rpy:749
 translate Tchinese a1s3_c33b6c4a:
 
     # d "\"Hm?\""
     d "“嗯？”"
 
-# game/a1s3.rpy:748
+# game/a1s3.rpy:750
 translate Tchinese a1s3_f94f00e1:
 
     # a "\"You know what I'm talking about. What happened?{w} Did he see some fucked up shit earlier, because you seem really, really worried--\""
     a "“你懂我意思吧，發生什麼事了？{w}他之前是不是看到什麼不乾淨的東西了？你急得像──”"
 
-# game/a1s3.rpy:750
+# game/a1s3.rpy:752
 translate Tchinese a1s3_45683df8:
 
     # "For a moment, Devon is glad Artie cuts himself off, but then--"
     "有那麼一瞬間，Devon還在慶幸Artie自己閉上了嘴，但緊接著──"
 
-# game/a1s3.rpy:752
+# game/a1s3.rpy:754
 translate Tchinese a1s3_51f04092:
 
     # a "\"HEY! {w=0.3}WHAT THE FUCK!?\""
     a "“{b}嘿！{w=0.3}搞什麼！？{/b}”"
 
-# game/a1s3.rpy:754
+# game/a1s3.rpy:756
 translate Tchinese a1s3_c79d4f9f:
 
     # d "\"Ah!\""
     d "“哇！”"
 
-# game/a1s3.rpy:756
+# game/a1s3.rpy:758
 translate Tchinese a1s3_c04c6a1d:
 
     # "Artie is already running up the road, toward his car."
     "Artie已經上了公路，朝自己的車跑去。"
 
-# game/a1s3.rpy:757
+# game/a1s3.rpy:759
 translate Tchinese a1s3_77e0eb31:
 
     # "Devon looks and sees a man standing next to the car, the hood up."
     "Devon遠遠望去，只見一個男人正站在車子旁邊，引擎蓋也已經被打開了。"
 
-# game/a1s3.rpy:758
+# game/a1s3.rpy:760
 translate Tchinese a1s3_6396b767:
 
     # "Devon isn't sure what to do at first, either go to Cameron, or follow Artie."
     "他愣了一下神，不確定該去找Cameron，還是跟著Artie。"
 
-# game/a1s3.rpy:759
+# game/a1s3.rpy:761
 translate Tchinese a1s3_d5ea4651:
 
     # "Cameron seems oblivious in the distance, which is probably for the best, and it doesn't look like the man is carrying any sort of weapon, so deciding his friend is gonna need help, he runs after Artie."
     "好在遠處的Cameron似乎沒有察覺什麼，並且看樣子那個人沒有攜帶武器，於是他追上Artie，想要幫自己的朋友討個說法。"
 
-# game/a1s3.rpy:761
+# game/a1s3.rpy:763
 translate Tchinese a1s3_fb7b49d4:
 
     # "Dev runs up to the car just as the old weasel-looking man headbutts Artie in the face."
     "就在Dev跑向汽車的途中，那個鼬模樣的老漢用頭撞了Artie的臉。"
 
-# game/a1s3.rpy:763
+# game/a1s3.rpy:765
 translate Tchinese a1s3_7a9037b0:
 
     # a "\"Ah! {w=0.3}Fuck, {w=0.3}son of a bitch!\""
     a "“啊！{w=0.3}幹，{w=0.3}你個狗娘養的！”"
 
-# game/a1s3.rpy:764
+# game/a1s3.rpy:766
 translate Tchinese a1s3_1c042a2a:
 
     # "Artie stumbles and falls on his ass."
     "Artie失足跌倒在地。"
 
-# game/a1s3.rpy:766
+# game/a1s3.rpy:768
 translate Tchinese a1s3_8edfc44a:
 
     # d "\"HEY!\""
     d "“{b}嘿！{/b}”"
 
-# game/a1s3.rpy:768
+# game/a1s3.rpy:770
 translate Tchinese a1s3_1d15b34a:
 
     # "The weasel regards him coolly, seemingly not bothered by the fact that he just used his own face as a battering ram."
     "那隻鼬冷冷地盯著他，似乎對自己剛剛把臉當做攻城錘的事不以為然。"
 
-# game/a1s3.rpy:769
+# game/a1s3.rpy:771
 translate Tchinese a1s3_1cdeefda:
 
     # unk "\"Hey.\""
     unk "“嘿。”"
 
-# game/a1s3.rpy:770
+# game/a1s3.rpy:772
 translate Tchinese a1s3_e68447c5:
 
     # "Dev doesn't know what to say, mostly because he doesn't know why the guy just did what he did."
     "Dev啞口無言，主要是因為他不知道對方為何這麼做。"
 
-# game/a1s3.rpy:771
+# game/a1s3.rpy:773
 translate Tchinese a1s3_166fdea9:
 
     # "Meanwhile, Artie moans on the ground, a paw to his forehead."
     "與此同時，Artie單手扶額，坐在地上呻吟起來。"
 
-# game/a1s3.rpy:772
+# game/a1s3.rpy:774
 translate Tchinese a1s3_4fe18767:
 
     # "That at least gives Dev a starting point."
     "這至少給了Dev一個出發點。"
 
-# game/a1s3.rpy:773
+# game/a1s3.rpy:775
 translate Tchinese a1s3_dedf0f27:
 
     # d "\"You can't just fucking do that, man! What are you doing!?\""
     d "“你在做什麼！？你瘋了嗎老兄？”"
 
-# game/a1s3.rpy:775
+# game/a1s3.rpy:777
 translate Tchinese a1s3_8cc961af:
 
     # unk "\"Adjustin' things.\""
     unk "“做些改裝。”"
 
-# game/a1s3.rpy:776
+# game/a1s3.rpy:778
 translate Tchinese a1s3_4b9c97f1:
 
     # "He shows off a pair of plyers."
     "那個人晃了晃手上的鉗子。"
 
-# game/a1s3.rpy:777
+# game/a1s3.rpy:779
 translate Tchinese a1s3_5a65c75d:
 
     # "Devon can hear his heart pounding in his ears as he sees a tool box balanced on the bumper."
     "看到保險桿上橫著一個工具箱，Devon感到自己的心臟彷彿都要跳出喉嚨口。"
 
-# game/a1s3.rpy:778
+# game/a1s3.rpy:780
 translate Tchinese a1s3_5f1324d7:
 
     # d "\"Why!? {w=0.3}Give me th--\""
     d "“憑什麼！？{w=0.3}快還回──”"
 
-# game/a1s3.rpy:779
+# game/a1s3.rpy:781
 translate Tchinese a1s3_eda4a158:
 
     # "Devon starts to step forward to take the plyers from the man, but a flash of light blinds him."
     "Devon上前去搶鉗子，卻被一道光晃得目眩。"
 
-# game/a1s3.rpy:786
+# game/a1s3.rpy:788
 translate Tchinese a1s3_61d7e7f6:
 
     # "Dev had never been hit before, not as an adult, at least."
     "Dev從來沒有被人打過，至少成年後沒有。"
 
-# game/a1s3.rpy:787
+# game/a1s3.rpy:789
 translate Tchinese a1s3_09cbfed3:
 
     # "His size usually deterred anyone from trying anything, and he normally didn't get into those kinds of situations anyway."
     "他的體型足夠有威懾力，一般人也不敢對他輕舉妄動。"
 
-# game/a1s3.rpy:788
+# game/a1s3.rpy:790
 translate Tchinese a1s3_4f9c43f0:
 
     # "So this moment takes what feels like a long time for his brain to process."
     "所以目前，他的大腦當機了。"
 
-# game/a1s3.rpy:789
+# game/a1s3.rpy:791
 translate Tchinese a1s3_58b6c421:
 
     # "He stumbles on his feet, paws uselessly outstretched, trying to refocus when--"
     "就在他跌跌撞撞，徒勞地伸出爪子，試圖重新調整重心的時候──"
 
-# game/a1s3.rpy:792
+# game/a1s3.rpy:794
 translate Tchinese a1s3_2368fad7:
 
     # "Something explodes in his stomach that seems to expand like a balloon under his ribcage." with vpunch
     "有什麼東西在他的胃裡爆炸了，彷彿肋骨下的一個脹滿氣的氣球。" with vpunch
 
-# game/a1s3.rpy:793
+# game/a1s3.rpy:795
 translate Tchinese a1s3_de6aa8bf:
 
     # "The bear doubles over in shock, feeling like a vacuum has opened up in his torso before he falls to his knees."
     "熊震驚地彎下腰，雙膝跪地，像是渾身的空氣都被抽乾。"
 
-# game/a1s3.rpy:798
+# game/a1s3.rpy:800
 translate Tchinese a1s3_572ab5d4:
 
     # d "\"{cps=20}Nyuuuuuuhhhhh....\""
     d "“{cps=20}哈，哈，哈，哈……”"
 
-# game/a1s3.rpy:799
+# game/a1s3.rpy:801
 translate Tchinese a1s3_6e9bef23:
 
     # "The long, strained sound of agony seems to go on forever as his diaphragm refuses to work."
     "他的橫膈膜拒絕工作，憔悴的呻吟聲不絕於耳。"
 
-# game/a1s3.rpy:800
+# game/a1s3.rpy:802
 translate Tchinese a1s3_c652e0fa:
 
     # "Only now does he realize he's been punched in the stomach as well, and while he's had the wind knocked out of him before, it's nothing like this."
     "直到現在，他才意識到自己的肚子也挨了一拳。雖然不是沒有被打得暈頭轉向過，但這一次完全不同。"
 
-# game/a1s3.rpy:802
+# game/a1s3.rpy:804
 translate Tchinese a1s3_eefae1e4:
 
     # unk "\"How was that, fatass?\""
     unk "“吃到教訓了嗎，死肥仔？”"
 
-# game/a1s3.rpy:803
+# game/a1s3.rpy:805
 translate Tchinese a1s3_77f1b5b4:
 
     # "Dev goes on droning in response, a small part of him considering that he might actually suffocate to death."
     "Dev只能回以哼哼聲，他差點以為自己要窒息而亡了。"
 
-# game/a1s3.rpy:804
+# game/a1s3.rpy:806
 translate Tchinese a1s3_2e316503:
 
     # a "\"Holy hell, man! {w=0.3}What the fuck is your problem!?\""
     a "“你他媽！{w=0.3}找碴是不是！？”"
 
-# game/a1s3.rpy:805
+# game/a1s3.rpy:807
 translate Tchinese a1s3_1921386b:
 
     # unk "\"Oh, you wanna know?\""
     unk "“哦，你想知道？”"
 
-# game/a1s3.rpy:806
+# game/a1s3.rpy:808
 translate Tchinese a1s3_9f99f7fe:
 
     # "Devon, still with his face toward the ground, only hears movement above him, but that's followed by a gasp from Artie."
     "Devon仍低著頭，只聽頭頂傳來一聲響，接著是Artie倒吸涼氣的聲音。"
 
-# game/a1s3.rpy:813
+# game/a1s3.rpy:815
 translate Tchinese a1s3_245f8eff:
 
     # unk "\"I have a problem with sick FUCKS like you two dicking around in this place because you think it's funny.\""
     unk "“老子就是{b}不爽{/b}你們兩個白癡因為認為這很有趣，就在這裡胡搞瞎搞。”"
 
-# game/a1s3.rpy:814
+# game/a1s3.rpy:816
 translate Tchinese a1s3_5a64c932:
 
     # "Dev is only now starting to get his breath back, but his eyes are locked on the gun in his face, and his insides turn to water, which has nothing to do with the punch."
     "Dev現在才開始恢復呼吸，可盯著臉前那把槍，他不由得四肢發軟。"
 
-# game/a1s3.rpy:815
+# game/a1s3.rpy:817
 translate Tchinese a1s3_291a1877:
 
     # unk "\"Where were you five years ago, huh? Back home with mommy and daddy, livin' in your middle-class houses?{w} Thought you'd come out and see what the crazy methheads are up to, how they all killed each other?\""
     unk "“五年前你們人呢，啊？躲爸媽懷裡去了？{w}現在想起從溫室裡出來，看我們這幫瘋子窩裡鬥了蛤？”"
 
-# game/a1s3.rpy:816
+# game/a1s3.rpy:818
 translate Tchinese a1s3_3bfd2bab:
 
     # "The man adjusts his grip on the gun and Dev almost chokes with fear."
     "那人換了一下槍的握法，嚇得Dev幾乎窒息。"
 
-# game/a1s3.rpy:817
+# game/a1s3.rpy:819
 translate Tchinese a1s3_9f25cce2:
 
     # "Either the old man is gonna shoot him, or he's gonna do it on accident."
     "他要嘛死於老漢的槍下，要嘛意外死於老漢的槍下。"
 
-# game/a1s3.rpy:818
+# game/a1s3.rpy:820
 translate Tchinese a1s3_f7fb6c01:
 
     # unk "\"Is this still fun?\""
     unk "“還好玩嗎？”"
 
-# game/a1s3.rpy:819
+# game/a1s3.rpy:821
 translate Tchinese a1s3_af092bd6:
 
     # "Artie's rough breathing next to Devon is the only thing that lets the bear know that the cat is still there with him."
     "Artie粗亂的呼吸聲是Devon唯一知道那隻貓還在附近的證明。"
 
-# game/a1s3.rpy:820
+# game/a1s3.rpy:822
 translate Tchinese a1s3_ee9fa44b:
 
     # a "\"Dude, {w=0.3}listen. {w=0.4}We didn't mean--\""
     a "“聽著，老{w=0.3}兄，{w=0.4}我們不是──”"
 
-# game/a1s3.rpy:821
+# game/a1s3.rpy:823
 translate Tchinese a1s3_1a8c0c2e:
 
     # unk "\"You listen, {i}dude{/i}. I gave you assholes a whole fucking day to get the fuck out, but you're still here.{w} Since you're so goddamn comfortable, hope you don't mind bein' stuck here for good.\""
     unk "“你給我聽著，{b}老兄{/b}。我給了一整天時間讓你們滾蛋，你們非但不領情，還他媽挺快活的。{w}既然如此，希望你們別介意一輩子被困在這裡。”"
 
-# game/a1s3.rpy:824
+# game/a1s3.rpy:826
 translate Tchinese a1s3_728e0dd8:
 
     # "With that, the man turns away, sticking his gun down his pants before calmly collecting his tools, closing the toolbox, and walking off the road, straight through the sage brush."
     "說罷，那個人轉過身，把槍插進褲腰，然後平靜地收起工具，關上工具箱，從矮木灌叢徑直離開了公路。"
 
-# game/a1s3.rpy:826
+# game/a1s3.rpy:828
 translate Tchinese a1s3_f310b633:
 
     # a "\"{cps=20}Holy shit...\""
     a "“{cps=20}我的天……”"
 
-# game/a1s3.rpy:827
+# game/a1s3.rpy:829
 translate Tchinese a1s3_5962bbbf:
 
     # unk "\"It's a seven mile walk to the freeway. I suggest you leave the moment it gets cool. And that's friendly advice: there's much worse out here than me, you stupid fucks.\""
     unk "“到高速公路要走七英里，我建議你們天氣一涼就出發。再給你們這些蠢貨一個忠告：真正的惡人還在後頭吶。”"
 
-# game/a1s3.rpy:828
+# game/a1s3.rpy:830
 translate Tchinese a1s3_f41caa42:
 
     # "Artie bends over Devon who slowly stumbles to his feet, hunched over, his stomach aching far worse than his muzzle, which he wipes clean of blood."
     "Artie俯下身，同時Devon蹣跚地站了起來。他弓著腰，強忍鼻子與肚子的雙重痛苦擦去嘴邊的血。"
 
-# game/a1s3.rpy:830
+# game/a1s3.rpy:832
 translate Tchinese a1s3_446c7d53:
 
     # d "\"Fuuuck, man. What did he do?\""
     d "“可惡，他做了什麼？”"
 
-# game/a1s3.rpy:831
+# game/a1s3.rpy:833
 translate Tchinese a1s3_0bcc3b8e:
 
     # "Artie looks back to the car and even from here, Dev can see wiring sticking out from the hood."
     "Artie回頭看了眼汽車，即使從這裡，Dev也能看見暴露在引擎蓋外的電線。"
 
-# game/a1s3.rpy:833
+# game/a1s3.rpy:835
 translate Tchinese a1s3_6f6f3cda:
 
     # a "\"I can't fucking believe this!\""
     a "“我真他媽的不敢相信！”"
 
-# game/a1s3.rpy:834
+# game/a1s3.rpy:836
 translate Tchinese a1s3_1bd1e00b:
 
     # d "\"Hang on, I'm getting Cam.\""
     d "“堅持住，我去找Cam。”"
 
-# game/a1s3.rpy:835
+# game/a1s3.rpy:837
 translate Tchinese a1s3_2c553e17:
 
     # a "\"Alright, man. I'll see if this thing is even worth coming back for.\""
     a "“好，我去檢查車子還值不值得你們回來。”"
 
-# game/a1s3.rpy:838
+# game/a1s3.rpy:840
 translate Tchinese a1s3_7357e22f:
 
     # "Devon jogs up the road, grunting with each step, each one sending a jolt through his stomach."
     "Devon在路上小跑著，每一步都令他的胃感到一陣顛簸。"
 
-# game/a1s3.rpy:839
+# game/a1s3.rpy:841
 translate Tchinese a1s3_6a7eb1bb:
 
     # "While the weasel hadn't moved in this direction, Dev isn't taking chances."
     "雖然鼬沒有朝這個方向走，但Dev不想冒險。"
 
-# game/a1s3.rpy:840
+# game/a1s3.rpy:842
 translate Tchinese a1s3_dab8b248:
 
     # "He also needs to make sure the coyote is--"
     "他還需要確保郊狼──"
 
-# game/a1s3.rpy:843
+# game/a1s3.rpy:848
 translate Tchinese a1s3_418c7605:
 
     # d "\"Cameron!?\""
     d "“Cameron！？”"
 
-# game/a1s3.rpy:844
+# game/a1s3.rpy:849
 translate Tchinese a1s3_8772f86e:
 
     # "He shouldn't be panicking, not yet, but that feeling is starting up again, and after having a gun pointed in his face..."
     "他不該驚慌失措，至少現在還不應該，但在被槍直指著臉後，那種感覺又回來了……"
 
-# game/a1s3.rpy:846
+# game/a1s3.rpy:851
 translate Tchinese a1s3_1ee0909f:
 
     # d "\"CAMERON!\""
     d "“{b}CAMERON！{/b}”"
 
-# game/a1s3.rpy:847
+# game/a1s3.rpy:852
 translate Tchinese a1s3_3512255f:
 
     # "No answer."
     "沒有人回應。"
 
-# game/a1s3.rpy:848
+# game/a1s3.rpy:853
 translate Tchinese a1s3_bef1e1bd:
 
     # "Dev heaves for air, looking around, looking around, until--"
     "Dev大口喘著氣，他四處尋找，找啊找，直到──"
 
-# game/a1s3.rpy:849
+# game/a1s3.rpy:854
 translate Tchinese a1s3_3846c626:
 
     # "He sees a flash of flannel through a motel window."
     "他透過汽車旅館的窗戶，看到了一閃而過的法蘭絨。"
 
-# game/a1s3.rpy:852
+# game/a1s3.rpy:857
 translate Tchinese a1s3_69312d94:
 
     # "He's next to it in a second, unable to fit, so he pries back boards with his bare paws."
     "他急不可耐地跑到旁邊，卻發現自己根本過不去，於是便赤手撬起了上面的擋板。"
 
-# game/a1s3.rpy:853
-translate Tchinese a1s3_90776cee:
-
-    # "Then he pushes through, and tumbles into dark, thick, blackness."
-    "然後他強行擠進窗口，跌入了伸手不見五指的黑暗之中。"
-
-# TODO: Translation updated at 2022-11-26 22:30
-
-# game/a1s3.rpy:37
-translate Tchinese a1s3_22a34cb3:
-
-    # d "\"It was in the middle of the night!\""
-    d "“當時正值午夜啊！”"
-
-# game/a1s3.rpy:372
-translate Tchinese a1s3_05e90a5f:
-
-    # d "\"Super psychic? {w=0.3}As opposed to what, sorta psychic?\""
-    d "\"超級靈媒？{w=0.3}對比什麼的，半吊子靈媒？\""
-
-# TODO: Translation updated at 2023-01-30 23:25
-
-# game/a1s3.rpy:853
+# game/a1s3.rpy:858
 translate Tchinese a1s3_a54be4e1:
 
     # "Then he pushes through, and tumbles into thick darkness."

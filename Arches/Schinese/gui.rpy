@@ -1,4 +1,5 @@
-﻿translate Schinese python:
+﻿# OBSOLETE
+translate Schinese python:
 ## 字体设定页面 ########################################################
 
 ## 绑定对话字体粗体

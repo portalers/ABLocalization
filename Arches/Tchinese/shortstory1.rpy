@@ -94,7 +94,7 @@ translate Tchinese shortstory1_3ea8eaf1:
 translate Tchinese shortstory1_bf88529f:
 
     # story "My friend, well, he loved stuff that was a bit more intense, stuff that REALLY made you feel something, or nothing at all, which is what he promised me before I took it."
-    story "至於我的朋友，他喜歡來點刺激的。就是那種能讓人{b}切實{/b}感覺到什麼，又或是什麼都感覺不到的東西。他就是這樣說服我的。"
+    story "至於我的朋友，他喜歡來點刺激的。就是那種能讓人{b}切實{/b}感覺到什麼，又或是什麼都感覺不到的東西。他就是這樣說服的我。"
 
 # game/shortstory1.rpy:87
 translate Tchinese shortstory1_bd2b8dc8:
@@ -250,7 +250,7 @@ translate Tchinese shortstory1_039628df:
 translate Tchinese shortstory1_3fb77fcb:
 
     # "{i}You'd really like that, wouldn't you?{/i}"
-    "{i}這正是你希望的，不是嗎？{/i}"
+    "{b}這正是你希望的，不是嗎？{/b}"
 
 # game/shortstory1.rpy:138
 translate Tchinese shortstory1_c73908a4:
@@ -430,7 +430,7 @@ translate Tchinese shortstory1_1c7eec5d:
 translate Tchinese shortstory1_5a571d28:
 
     # "{i}{cps=30}Nowhere.{w} She's dead, {w=0.4}so she's nowhere.{w} I'm sorry.{i}"
-    "{i}{cps=30}哪裡都不在，{w}她已經死了，{w=0.4}不在這世間任何一個角落，{w}對不起。{/i}"
+    "{b}{cps=30}哪裡都不在，{w}她已經死了，{w=0.4}不在這世間任何一個角落，{w}對不起。{b}"
 
 # game/shortstory1.rpy:176
 translate Tchinese shortstory1_53ed3aae:
@@ -486,3 +486,7 @@ translate Tchinese shortstory1_5b7bad85:
     # centered "{cps=30}I try not to jump, {w=0.5}because just as I said that, {p=0.5}for the first time in my life, {w=0.5}I see cardboard creature move."
     centered "{cps=30}我盡量不讓聲音走調，{w=0.5}因為就在說話的同時，{p=0.5}我有生以來頭一次看到，{w=0.5}那個紙板怪物動了。"
 
+translate Tchinese strings:
+
+    old "October 2019"
+    new "2019年10月"

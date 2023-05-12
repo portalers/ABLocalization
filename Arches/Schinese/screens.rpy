@@ -341,3 +341,7 @@ translate Schinese strings:
     # QuickButtons
     old "Hide"
     new "隐藏界面"
+
+    # game/options.rpy:15
+    old "Arches"
+    new "Arches"

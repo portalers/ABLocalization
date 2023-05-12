@@ -486,3 +486,7 @@ translate Schinese shortstory1_5b7bad85:
     # centered "{cps=30}I try not to jump, {w=0.5}because just as I said that, {p=0.5}for the first time in my life, {w=0.5}I see cardboard creature move."
     centered "{cps=30}我尽量不让声音变形，{w=0.5}因为就在说话的同时，{p=0.5}我有生以来头一次看到，{w=0.5}那个纸板怪物动了。"
 
+translate Schinese strings:
+
+    old "October 2019"
+    new "2019年10月"

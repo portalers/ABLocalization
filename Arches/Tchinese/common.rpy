@@ -1,5 +1,17 @@
 ﻿# TODO: Translation updated at 2022-06-30 16:37
 
+# game/kinetic_text_tags.rpy:1
+translate Tchinese 6c0c3176:
+
+    # "Kinetic Text Tags Ren'Py Module 2021 Daniel Westfall <SoDaRa2595@gmail.com>"
+    "Kinetic Text Tags Ren'Py Module 2021 Daniel Westfall <SoDaRa2595@gmail.com>"
+
+# game/kinetic_text_tags.rpy:1
+translate Tchinese 8689f4cd:
+
+    # "http://twitter.com/sodara9 I'd appreciate being given credit if you do end up using it! :D Would really make my day to know I helped some people out! Really hope this can help the community create some really neat ways to spice up their dialogue! http://opensource.org/licenses/mit-license.php Github: https://github.com/SoDaRa/Kinetic-Text-Tags itch.io: https://wattson.itch.io/kinetic-text-tags Forum Post: https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=60527&sid=75b4eb1aa5212a33cbfe9b0354e5376b"
+    "http://twitter.com/sodara9 I'd appreciate being given credit if you do end up using it! :D Would really make my day to know I helped some people out! Really hope this can help the community create some really neat ways to spice up their dialogue! http://opensource.org/licenses/mit-license.php Github: https://github.com/SoDaRa/Kinetic-Text-Tags itch.io: https://wattson.itch.io/kinetic-text-tags Forum Post: https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=60527&sid=75b4eb1aa5212a33cbfe9b0354e5376b"
+
 translate Tchinese strings:
 
     # renpy/common/00accessibility.rpy:28
@@ -464,7 +476,7 @@ translate Tchinese strings:
 
     # renpy/common/00library.rpy:281
     old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
-    new "本遊戲由{a=https://space.bilibili.com/1571398540/dynamic}北極光漢化組{/a}完成當地語系化工作，如需訪問漢化組QQ頻道，請{a=https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&inviteCode=2kr67C&from=246610&biz=ka}訪問此處{/a}。\n\n友情連結:獸人控遊戲索引{a=https://furrygames.top/zh-tw/games/Arches.html}訪問此處{/a}。\n\n本套裝程式含了由數個許可證授權的免費軟體，包括 MIT 許可證和 GNU 寬鬆通用公共許可證。完整軟體清單及原始程式碼連結，請{a=https://www.renpy.org/l/license}訪問此處{/a}。"
+    new "本遊戲由{a=https://space.bilibili.com/1571398540/dynamic}北極光漢化組{/a}完成當地語系化工作，如需訪問漢化組QQ頻道，請{a=https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&inviteCode=2kr67C&from=246610&biz=ka}訪問此處{/a}。\n\n友情鏈接:獸人控遊戲索引{a=https://furrygames.top/zh-tw/games/Arches.html}訪問此處{/a}。\n\n本套裝程式含了由數個許可證授權的免費軟體，包括 MIT 許可證和 GNU 寬鬆通用公共許可證。完整軟體清單及原始程式碼連結，請{a=https://www.renpy.org/l/license}訪問此處{/a}。"
 
     # renpy/common/00preferences.rpy:254
     old "display"
@@ -1133,10 +1145,6 @@ translate Tchinese strings:
     # renpy/common/_errorhandling.rpym:671
     old "Parsing the script failed."
     new "解析腳本失敗。"
-
-# TODO: Translation updated at 2022-11-26 22:30
-
-translate Tchinese strings:
 
     # renpy/common/00action_other.rpy:703
     old "Open [text] directory."

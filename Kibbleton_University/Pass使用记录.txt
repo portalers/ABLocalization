@@ -1,0 +1,6 @@
+# game/story/Chapter 1.rpy:665
+translate Schinese ch1_knock_549fb032:
+
+    # p "Bottom's up."
+    pass
+
