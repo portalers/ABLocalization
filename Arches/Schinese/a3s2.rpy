@@ -3306,3 +3306,1013 @@ translate Schinese a3s2_2e21a278:
     # "Not until they're 110, after all."
     "毕竟，他们要一起活到110岁呢。"
 
+# TODO: Translation updated at 2023-05-13 10:52
+
+# game/a3s2.rpy:5
+translate Schinese a3s2_bede7cfd:
+
+    # "The terrible change comes almost exactly three weeks later."
+    "The terrible change comes almost exactly three weeks later."
+
+# game/a3s2.rpy:9
+translate Schinese a3s2_182d368d:
+
+    # "That would get national attention, of course, especially since Brian appeared to be involved in the high-profile disappearance of a promising college freshmen track start last year."
+    "That would get national attention, of course, especially since Brian appeared to be involved in the high-profile disappearance of a promising college freshmen track start last year."
+
+# game/a3s2.rpy:12
+translate Schinese a3s2_49f5245d:
+
+    # "At the same time, a pandemic was picking up steam, and media attention focused elsewhere."
+    "At the same time, a pandemic was picking up steam, and media attention focused elsewhere."
+
+# game/a3s2.rpy:14
+translate Schinese a3s2_0f76ef4a:
+
+    # "His burst liver and severely damaged kidney left him needing surgery."
+    "His burst liver and severely damaged kidney left him needing surgery."
+
+# game/a3s2.rpy:15
+translate Schinese a3s2_49055e55:
+
+    # "The hospital did what it could for his elbow, but his doctors were hopeful that with a lot of physical therapy, he could at least use it for basic necessities."
+    "The hospital did what it could for his elbow, but his doctors were hopeful that with a lot of physical therapy, he could at least use it for basic necessities."
+
+# game/a3s2.rpy:16
+translate Schinese a3s2_4c451829:
+
+    # "While it did suck to maybe never be able to bend his elbow correctly, or without pain, what really devastated Cameron was the weakness and near-maddening tingling in his pinky and ring finger."
+    "While it did suck to maybe never be able to bend his elbow correctly, or without pain, what really devastated Cameron was the weakness and near-maddening tingling in his pinky and ring finger."
+
+# game/a3s2.rpy:17
+translate Schinese a3s2_65ef7ac5:
+
+    # "So guitar was an absolute no."
+    "So guitar was an absolute no."
+
+# game/a3s2.rpy:25
+translate Schinese a3s2_0fdd8107:
+
+    # "\"Downloading\" is what some people like him liked to call it."
+    "\"Downloading\" is what some people like him liked to call it."
+
+# game/a3s2.rpy:29
+translate Schinese a3s2_e8a0fbcb:
+
+    # "What he quickly figured out was that without some sort of illicit substance, clairvoyance lacked a great deal of fuel that had powered his abilities in Echo."
+    "What he quickly figured out was that without some sort of illicit substance, clairvoyance lacked a great deal of fuel that had powered his abilities in Echo."
+
+# game/a3s2.rpy:30
+translate Schinese a3s2_69b5390b:
+
+    # "That would make it easier, and so does being in an \"active\" location."
+    "That would make it easier, and so does being in an \"active\" location."
+
+# game/a3s2.rpy:40
+translate Schinese a3s2_9e1dd926:
+
+    # "When he told Devon about it, the bear knew immediately what Cameron was talking about."
+    "When he told Devon about it, the bear knew immediately what Cameron was talking about."
+
+# game/a3s2.rpy:46
+translate Schinese a3s2_65435504:
+
+    # "Like why is it there?"
+    "Like why is it there?"
+
+# game/a3s2.rpy:47
+translate Schinese a3s2_b51427a4:
+
+    # "Where did it come from?"
+    "Where did it come from?"
+
+# game/a3s2.rpy:48
+translate Schinese a3s2_0ae07849:
+
+    # "What the hell is it?"
+    "What the hell is it?"
+
+# game/a3s2.rpy:51
+translate Schinese a3s2_7e6f0925:
+
+    # "And while Cameron had seen that old spark of interest in Devon's eyes, he had told Cameron to just ignore it and focus on their visit."
+    "And while Cameron had seen that old spark of interest in Devon's eyes, he had told Cameron to just ignore it and focus on their visit."
+
+# game/a3s2.rpy:52
+translate Schinese a3s2_29406eb4:
+
+    # "Devon just wants it to go away, quietly, like it never happened."
+    "Devon just wants it to go away, quietly, like it never happened."
+
+# game/a3s2.rpy:53
+translate Schinese a3s2_4ddfa577:
+
+    # "That includes Cameron's abilities."
+    "That includes Cameron's abilities."
+
+# game/a3s2.rpy:54
+translate Schinese a3s2_8b121b01:
+
+    # "That was at the end of the second week, and over the course of his life, Cameron would look back on that visit as one of the last times they were still themselves."
+    "That was at the end of the second week, and over the course of his life, Cameron would look back on that visit as one of the last times they were still themselves."
+
+# game/a3s2.rpy:59
+translate Schinese a3s2_eb891a84:
+
+    # "The cat's improvement was also rapid, but Cameron was just a little sad that Artie never asked to talk to him, and would only ask Devon how the coyote was holding up."
+    "The cat's improvement was also rapid, but Cameron was just a little sad that Artie never asked to talk to him, and would only ask Devon how the coyote was holding up."
+
+# game/a3s2.rpy:61
+translate Schinese a3s2_627be078:
+
+    # "Devon and Artie go back further than even Devon and himself."
+    "Devon and Artie go back further than even Devon and himself."
+
+# game/a3s2.rpy:62
+translate Schinese a3s2_9b02b76a:
+
+    # "Sure, something felt off, but considering the circumstances, nothing was normal at that time."
+    "Sure, something felt off, but considering the circumstances, nothing was normal at that time."
+
+# game/a3s2.rpy:63
+translate Schinese a3s2_967d5707:
+
+    # "But as the third week progressed, everything became truly wrong."
+    "But as the third week progressed, everything became truly wrong."
+
+# game/a3s2.rpy:65
+translate Schinese a3s2_5f1036f3:
+
+    # "The only thing that seemed to be getting back to normal were his dreams."
+    "The only thing that seemed to be getting back to normal were his dreams."
+
+# game/a3s2.rpy:66
+translate Schinese a3s2_2eeebb65:
+
+    # "Sometimes he'd still wake up whimpering, or crying, thinking he was back in Echo."
+    "Sometimes he'd still wake up whimpering, or crying, thinking he was back in Echo."
+
+# game/a3s2.rpy:69
+translate Schinese a3s2_dbca2738:
+
+    # "But now, with some time between him and what happened, Cameron feels like a part of him is missing, like he's not fully present."
+    "But now, with some time between him and what happened, Cameron feels like a part of him is missing, like he's not fully present."
+
+# game/a3s2.rpy:75
+translate Schinese a3s2_aa82d0fe:
+
+    # "They had set up another appointment with Cameron's audiologist a few weeks from then."
+    "They had set up another appointment with Cameron's audiologist a few weeks from then."
+
+# game/a3s2.rpy:76
+translate Schinese a3s2_0ac7c8a7:
+
+    # "The hearing loss was likely permanent, but then something began to replace it."
+    "The hearing loss was likely permanent, but then something began to replace it."
+
+# game/a3s2.rpy:77
+translate Schinese a3s2_35c9bb0e:
+
+    # "Right in the middle of the afternoon."
+    "Right in the middle of the afternoon."
+
+# game/a3s2.rpy:81
+translate Schinese a3s2_36b69565:
+
+    # "He wants to feel useful again, and because they're both working from home now, it seemed like a reasonable idea."
+    "He wants to feel useful again, and because they're both working from home now, it seemed like a reasonable idea."
+
+# game/a3s2.rpy:82
+translate Schinese a3s2_6b0cc6f3:
+
+    # "Devon didn't want him starting yet, of course, but Cameron wants that sense of normalcy to come back faster, and his shitty job seemed like the perfect solution."
+    "Devon didn't want him starting yet, of course, but Cameron wants that sense of normalcy to come back faster, and his shitty job seemed like the perfect solution."
+
+# game/a3s2.rpy:83
+translate Schinese a3s2_059f53cd:
+
+    # "Trying to work with mostly one paw did come as a bigger challenge than Cameron expected, not realizing how much he used his non-dominant one."
+    "Trying to work with mostly one paw did come as a bigger challenge than Cameron expected, not realizing how much he used his non-dominant one."
+
+# game/a3s2.rpy:84
+translate Schinese a3s2_d3ffcf7e:
+
+    # "Typing is particularly slow, but he was getting better at managing it."
+    "Typing is particularly slow, but he was getting better at managing it."
+
+# game/a3s2.rpy:85
+translate Schinese a3s2_43911b6f:
+
+    # "Still, it makes him slow, and even though his boss is understanding, even telling him to just forward any rude customers her way, it still leaves him occasionally flustered in ways he isn't used to."
+    "Still, it makes him slow, and even though his boss is understanding, even telling him to just forward any rude customers her way, it still leaves him occasionally flustered in ways he isn't used to."
+
+# game/a3s2.rpy:86
+translate Schinese a3s2_1dc058d1:
+
+    # "After a rather harsh call that began with \"Thank God. Someone I can finally fucking understand!\" Then ended with, \"You know what would've been faster?\""
+    "After a rather harsh call that began with \"Thank God. Someone I can finally fucking understand!\" Then ended with, \"You know what would've been faster?\""
+
+# game/a3s2.rpy:89
+translate Schinese a3s2_5b90ee0c:
+
+    # "Cameron rubs his eyes, wondering how different the interactions would be if they did face-to-face video calls."
+    "Cameron rubs his eyes, wondering how different the interactions would be if they did face-to-face video calls."
+
+# game/a3s2.rpy:90
+translate Schinese a3s2_527d14c4:
+
+    # c "\"But sir, this phone was assembled in the States after Hulian pledged in 2018 to bring more jobs--\""
+    c "\"But sir, this phone was assembled in the States after Hulian pledged in 2018 to bring more jobs--\""
+
+# game/a3s2.rpy:92
+translate Schinese a3s2_65e7e7f3:
+
+    # c "\"Of course. One moment.\""
+    c "\"Of course. One moment.\""
+
+# game/a3s2.rpy:99
+translate Schinese a3s2_22c0b448:
+
+    # "But why did that one hurt his feelings so badly, to the point that his eyes are welling up with tears?"
+    "But why did that one hurt his feelings so badly, to the point that his eyes are welling up with tears?"
+
+# game/a3s2.rpy:100
+translate Schinese a3s2_f4e32407:
+
+    # "Maybe it's because he went through hell and back, and that man has no idea..."
+    "Maybe it's because he went through hell and back, and that man has no idea..."
+
+# game/a3s2.rpy:109
+translate Schinese a3s2_568a1318:
+
+    # "Then, his computer screen seemed to stretch far away, and Cameron finds himself grabbing the edge of his desk like he's about to fall over."
+    "Then, his computer screen seemed to stretch far away, and Cameron finds himself grabbing the edge of his desk like he's about to fall over."
+
+# game/a3s2.rpy:110
+translate Schinese a3s2_e8b92c62:
+
+    # "Pressure grows in his ear, and he realizes that maybe that is what's causing the strange feeling of being off-kilter."
+    "Pressure grows in his ear, and he realizes that maybe that is what's causing the strange feeling of being off-kilter."
+
+# game/a3s2.rpy:116
+translate Schinese a3s2_397fc74f:
+
+    # "{i}\"And you are a fucking retard. Can't handle a literal customer stereotype? Just smash the keyboard.{/i}\""
+    "{i}\"And you are a fucking retard. Can't handle a literal customer stereotype? Just smash the keyboard.{/i}\""
+
+# game/a3s2.rpy:123
+translate Schinese a3s2_6150ef88:
+
+    # "After that, Cameron remembers very little except panic, followed by confusion, a ton of confusion."
+    "After that, Cameron remembers very little except panic, followed by confusion, a ton of confusion."
+
+# game/a3s2.rpy:124
+translate Schinese a3s2_d3d118da:
+
+    # "His thoughts make no sense, the voice that is definitely not his thoughts..."
+    "His thoughts make no sense, the voice that is definitely not his thoughts..."
+
+# game/a3s2.rpy:125
+translate Schinese a3s2_b9e2a337:
+
+    # "... doesn't make sense, and now he didn't understand where he is."
+    "... doesn't make sense, and now he didn't understand where he is."
+
+# game/a3s2.rpy:127
+translate Schinese a3s2_a977cf2d:
+
+    # "After finding Cameron sobbing on the ground, surrounded by black, plastic keycaps, and bleeding from re-opened stitches, a frantic Devon drives him to the hospital."
+    "After finding Cameron sobbing on the ground, surrounded by black, plastic keycaps, and bleeding from re-opened stitches, a frantic Devon drives him to the hospital."
+
+# game/a3s2.rpy:148
+translate Schinese a3s2_22b7c49e:
+
+    # "It comes in a deep, masculine, sometimes Brian-like tone that's always taunting and angry."
+    "It comes in a deep, masculine, sometimes Brian-like tone that's always taunting and angry."
+
+# game/a3s2.rpy:149
+translate Schinese a3s2_d0470c18:
+
+    # "Short asides that were sometimes mean, sometimes meaningless, and sometimes boring, but always annoying-ass comments about things and people Cameron sees."
+    "Short asides that were sometimes mean, sometimes meaningless, and sometimes boring, but always annoying-ass comments about things and people Cameron sees."
+
+# game/a3s2.rpy:154
+translate Schinese a3s2_1a268aea:
+
+    # "His mother said she needed meth because it fought the feelings that her psychosis brought on... Which was brought on by the meth."
+    "His mother said she needed meth because it fought the feelings that her psychosis brought on... Which was brought on by the meth."
+
+# game/a3s2.rpy:160
+translate Schinese a3s2_006b70f8:
+
+    # "{i}Propranolol{/i} for restlessness, {i}Escitalopram{/i} for depression, {i}trazodone{/i} for sleep {i}and{/i} depression, {i}topiramate{/i} for weight-control, {i}guanfacine{/i} for tics--"
+    "{i}Propranolol{/i} for restlessness, {i}Escitalopram{/i} for depression, {i}trazodone{/i} for sleep {i}and{/i} depression, {i}topiramate{/i} for weight-control, {i}guanfacine{/i} for tics--"
+
+# game/a3s2.rpy:162
+translate Schinese a3s2_54770bf6:
+
+    # "--and PTSD, and {i}clonazepam{/i}, as needed, for anxiety, and panic attacks."
+    "--and PTSD, and {i}clonazepam{/i}, as needed, for anxiety, and panic attacks."
+
+# game/a3s2.rpy:163
+translate Schinese a3s2_cf69ad2d:
+
+    # "{i}tic tic{/i}"
+    "{i}tic tic{/i}"
+
+# game/a3s2.rpy:164
+translate Schinese a3s2_8472c173:
+
+    # "The symptoms of schizophrenia are devastating enough, but so are the side-effects of the antipsychotics to treat it."
+    "The symptoms of schizophrenia are devastating enough, but so are the side-effects of the antipsychotics to treat it."
+
+# game/a3s2.rpy:165
+translate Schinese a3s2_ff06b541:
+
+    # "Side-effects that are covered up by medications that cause even more side-effects which in turn are maybe more tolerable."
+    "Side-effects that are covered up by medications that cause even more side-effects which in turn are maybe more tolerable."
+
+# game/a3s2.rpy:166
+translate Schinese a3s2_f34fb5a7:
+
+    # "The first antipsychotic he tried made him too tired, and he was finally switched after four months."
+    "The first antipsychotic he tried made him too tired, and he was finally switched after four months."
+
+# game/a3s2.rpy:167
+translate Schinese a3s2_e771423e:
+
+    # "Then somehow, this switch aggravated the dopamine in his brain, according to his last psychiatrist, and for some reason, this meant that his childhood motor and vocal tics got to come back."
+    "Then somehow, this switch aggravated the dopamine in his brain, according to his last psychiatrist, and for some reason, this meant that his childhood motor and vocal tics got to come back."
+
+# game/a3s2.rpy:169
+translate Schinese a3s2_92463e5a:
+
+    # "At least he could hide it, or at the very least control it when he was younger."
+    "At least he could hide it, or at the very least control it when he was younger."
+
+# game/a3s2.rpy:170
+translate Schinese a3s2_b43275d8:
+
+    # "It makes him feel like some kind of freak show in public."
+    "It makes him feel like some kind of freak show in public."
+
+# game/a3s2.rpy:171
+translate Schinese a3s2_d9e19ca0:
+
+    # "But when a vocal tic involving his diaphragm appeared, one that he'd never had before, Cameron really began to despair."
+    "But when a vocal tic involving his diaphragm appeared, one that he'd never had before, Cameron really began to despair."
+
+# game/a3s2.rpy:172
+translate Schinese a3s2_39ff6594:
+
+    # "It would force him to exhale for ten to fifteen seconds before holding it until he nearly blacked out."
+    "It would force him to exhale for ten to fifteen seconds before holding it until he nearly blacked out."
+
+# game/a3s2.rpy:173
+translate Schinese a3s2_918e5992:
+
+    # "Then it would release, and he would gasp in air again, vision coming back through blurry tears, only for it to happen half-a-dozen more times in agonizing waves."
+    "Then it would release, and he would gasp in air again, vision coming back through blurry tears, only for it to happen half-a-dozen more times in agonizing waves."
+
+# game/a3s2.rpy:174
+translate Schinese a3s2_9ed49f11:
+
+    # "That familiar, tightening in his abdomen signaling an approaching episode is enough to make his whimper in dread."
+    "That familiar, tightening in his abdomen signaling an approaching episode is enough to make his whimper in dread."
+
+# game/a3s2.rpy:175
+translate Schinese a3s2_631a10f0:
+
+    # "All because of that damn pill that's supposed to help him."
+    "All because of that damn pill that's supposed to help him."
+
+# game/a3s2.rpy:176
+translate Schinese a3s2_41d7738d:
+
+    # "Three or four of those breathing episodes every day for a week, and Devon had finally had enough and found a different psychiatrist."
+    "Three or four of those breathing episodes every day for a week, and Devon had finally had enough and found a different psychiatrist."
+
+# game/a3s2.rpy:177
+translate Schinese a3s2_1ecd3807:
+
+    # "This helped a great deal, and Cameron found himself trusting her far more than he ever did his first psychiatrist."
+    "This helped a great deal, and Cameron found himself trusting her far more than he ever did his first psychiatrist."
+
+# game/a3s2.rpy:178
+translate Schinese a3s2_f8de2b31:
+
+    # "She immediately switched him to another antipsychotic, one that she said would help his tics, too."
+    "She immediately switched him to another antipsychotic, one that she said would help his tics, too."
+
+# game/a3s2.rpy:182
+translate Schinese a3s2_14cae0a2:
+
+    # "What if it made him worse?"
+    "What if it made him worse?"
+
+# game/a3s2.rpy:183
+translate Schinese a3s2_2002aaa1:
+
+    # "Cameron read about all the horrible, life-long side-effects that antipsychotics can cause."
+    "Cameron read about all the horrible, life-long side-effects that antipsychotics can cause."
+
+# game/a3s2.rpy:185
+translate Schinese a3s2_2c40cd1d:
+
+    # "Just throw the word \"tardive\" in front of any of those and you have yourself a new disorder that might improve slightly over the course of years, but probably never really go away, in the end."
+    "Just throw the word \"tardive\" in front of any of those and you have yourself a new disorder that might improve slightly over the course of years, but probably never really go away, in the end."
+
+# game/a3s2.rpy:186
+translate Schinese a3s2_95e9daae:
+
+    # "And then there's always the worry that tolerance might build, supersensitivity might set in, and the dosage might need to be increased, and then he might develop a treatment-resistant form of schizophrenia."
+    "And then there's always the worry that tolerance might build, supersensitivity might set in, and the dosage might need to be increased, and then he might develop a treatment-resistant form of schizophrenia."
+
+# game/a3s2.rpy:189
+translate Schinese a3s2_e4ac5630:
+
+    # "Cameron rubs his right ear vigorously."
+    "Cameron rubs his right ear vigorously."
+
+# game/a3s2.rpy:191
+translate Schinese a3s2_1f5551b7:
+
+    # "\"{i}FUCK YOU! You brain damaged piece of shit. Why don't you take the whole bottle? Pathetic faggot. Think you can just talk to me like that, fucker?{/i}\""
+    "\"{i}FUCK YOU! You brain damaged piece of shit. Why don't you take the whole bottle? Pathetic faggot. Think you can just talk to me like that, fucker?{/i}\""
+
+# game/a3s2.rpy:195
+translate Schinese a3s2_360c3ad1:
+
+    # c "\"Positive symptoms have decreased by... maybe 40 percent over the last week. Good progress. I just hope my negative symptoms improve as well. That's my next goal, once I reach stability.\""
+    c "\"Positive symptoms have decreased by... maybe 40 percent over the last week. Good progress. I just hope my negative symptoms improve as well. That's my next goal, once I reach stability.\""
+
+# game/a3s2.rpy:199
+translate Schinese a3s2_25a6d6db:
+
+    # "His psychiatrist had been right and, for once, Cameron feels like they might have at least found the right road to... the new him."
+    "His psychiatrist had been right and, for once, Cameron feels like they might have at least found the right road to... the new him."
+
+# game/a3s2.rpy:200
+translate Schinese a3s2_901ceee7:
+
+    # "Despite tolerating {i}paliperidone{/i} much better than the last antipsychotic, it still causes the same side-effects that make him need to take all the other meds."
+    "Despite tolerating {i}paliperidone{/i} much better than the last antipsychotic, it still causes the same side-effects that make him need to take all the other meds."
+
+# game/a3s2.rpy:202
+translate Schinese a3s2_05aa3060:
+
+    # "Tardive Tourette's syndrome."
+    "Tardive Tourette's syndrome."
+
+# game/a3s2.rpy:203
+translate Schinese a3s2_e128f08a:
+
+    # "Devastating on its own, but controllable, {i}manageable{/i} with time."
+    "Devastating on its own, but controllable, {i}manageable{/i} with time."
+
+# game/a3s2.rpy:204
+translate Schinese a3s2_dc221db5:
+
+    # "He has to believe that."
+    "He has to believe that."
+
+# game/a3s2.rpy:205
+translate Schinese a3s2_2465f14c:
+
+    # "As the sound of pills rattling against plastic seems to echo through the kitchen, Cameron hears Devon in his study."
+    "As the sound of pills rattling against plastic seems to echo through the kitchen, Cameron hears Devon in his study."
+
+# game/a3s2.rpy:206
+translate Schinese a3s2_975dfb49:
+
+    # d "\"Oh! You taking them now? Just a sec!\""
+    d "\"Oh! You taking them now? Just a sec!\""
+
+# game/a3s2.rpy:209
+translate Schinese a3s2_f0925071:
+
+    # "Cameron mutters under his breath, feeling just a little resentful knowing that Devon had been listening in on his thinking-out-loud technique."
+    "Cameron mutters under his breath, feeling just a little resentful knowing that Devon had been listening in on his thinking-out-loud technique."
+
+# game/a3s2.rpy:211
+translate Schinese a3s2_88d7a9f1:
+
+    # "Cameron sighs and picks up the pill again, staring at it closely, as if able to see its molecular structure, engineered to block the dopamine receptors in his brain."
+    "Cameron sighs and picks up the pill again, staring at it closely, as if able to see its molecular structure, engineered to block the dopamine receptors in his brain."
+
+# game/a3s2.rpy:212
+translate Schinese a3s2_32653a64:
+
+    # "The root cause of psychosis, at least at the molecular level."
+    "The root cause of psychosis, at least at the molecular level."
+
+# game/a3s2.rpy:213
+translate Schinese a3s2_7d93f5f0:
+
+    # "It's more complicated than that."
+    "It's more complicated than that."
+
+# game/a3s2.rpy:214
+translate Schinese a3s2_207dc881:
+
+    # "It always is."
+    "It always is."
+
+# game/a3s2.rpy:217
+translate Schinese a3s2_a026fbcd:
+
+    # "A year ago, it would have been a sight that Cameron would have appreciated."
+    "A year ago, it would have been a sight that Cameron would have appreciated."
+
+# game/a3s2.rpy:218
+translate Schinese a3s2_fc5ecda2:
+
+    # "He probably would have put his arms around him and rubbed his face into his chest like he used to."
+    "He probably would have put his arms around him and rubbed his face into his chest like he used to."
+
+# game/a3s2.rpy:219
+translate Schinese a3s2_cd0c7796:
+
+    # "But his sex drive was killed months ago, either from meds or from one of the many symptoms of schizophrenia, and it's just another reminder that he's not who he used to be."
+    "But his sex drive was killed months ago, either from meds or from one of the many symptoms of schizophrenia, and it's just another reminder that he's not who he used to be."
+
+# game/a3s2.rpy:221
+translate Schinese a3s2_aeb6872e:
+
+    # "He tried it, and pretended to enjoy it, but everything aches now, and he'd just find himself staring at the ceiling."
+    "He tried it, and pretended to enjoy it, but everything aches now, and he'd just find himself staring at the ceiling."
+
+# game/a3s2.rpy:223
+translate Schinese a3s2_4441d305:
+
+    # "Devon's libido is stronger than Cameron's ever was, so he knows it must be sexually frustrating for the bear."
+    "Devon's libido is stronger than Cameron's ever was, so he knows it must be sexually frustrating for the bear."
+
+# game/a3s2.rpy:224
+translate Schinese a3s2_ad8600be:
+
+    # "But right now, Devon is just standing there, smiling pleasantly as he watches Cameron."
+    "But right now, Devon is just standing there, smiling pleasantly as he watches Cameron."
+
+# game/a3s2.rpy:227
+translate Schinese a3s2_b3920be0:
+
+    # c "\"{i}Useful{/i} poison.\""
+    c "\"{i}Useful{/i} poison.\""
+
+# game/a3s2.rpy:228
+translate Schinese a3s2_80496571:
+
+    # "Cameron winces at the crazy coming out of his mouth."
+    "Cameron winces at the crazy coming out of his mouth."
+
+# game/a3s2.rpy:230
+translate Schinese a3s2_82ba5f4a:
+
+    # c "\"Sorry, I'm just thinking out loud, if that's what your wondering.\""
+    c "\"Sorry, I'm just thinking out loud, if that's what your wondering.\""
+
+# game/a3s2.rpy:231
+translate Schinese a3s2_5cdf6e0e:
+
+    # d "\"Okay, that's good. Remember, it does seem to act up right before you take your medication, so don't worry about it too much.\""
+    d "\"Okay, that's good. Remember, it does seem to act up right before you take your medication, so don't worry about it too much.\""
+
+# game/a3s2.rpy:234
+translate Schinese a3s2_24a96629:
+
+    # "It's quiet as Cameron swallows the pill, angled so that Devon can see, then he follows it with the rest of the five or so medications."
+    "It's quiet as Cameron swallows the pill, angled so that Devon can see, then he follows it with the rest of the five or so medications."
+
+# game/a3s2.rpy:237
+translate Schinese a3s2_e42935cf:
+
+    # d "\"No, I agree with you, but we also agreed I'd do it for at least a year, just in case... Even if you said you were fine.\""
+    d "\"No, I agree with you, but we also agreed I'd do it for at least a year, just in case... Even if you said you were fine.\""
+
+# game/a3s2.rpy:238
+translate Schinese a3s2_b1dedea7:
+
+    # "Cameron hates the fact that he's right."
+    "Cameron hates the fact that he's right."
+
+# game/a3s2.rpy:242
+translate Schinese a3s2_b3bb7977:
+
+    # c "\"You wanna do a cavity search, too? Hey, you know, maybe that can be our solution: I take my meds, and you get to play with my ass. Win-win.\""
+    c "\"You wanna do a cavity search, too? Hey, you know, maybe that can be our solution: I take my meds, and you get to play with my ass. Win-win.\""
+
+# game/a3s2.rpy:243
+translate Schinese a3s2_363eb34e:
+
+    # "Cameron feels the burst of anger from Devon, and for some reason it feels good."
+    "Cameron feels the burst of anger from Devon, and for some reason it feels good."
+
+# game/a3s2.rpy:245
+translate Schinese a3s2_6cb3f5ff:
+
+    # d "\"That's kind of a fucked up thing to say. Is that what you think I even care about right now!?\""
+    d "\"That's kind of a fucked up thing to say. Is that what you think I even care about right now!?\""
+
+# game/a3s2.rpy:246
+translate Schinese a3s2_51d18a30:
+
+    # "Devon's already yelling, and they're in a fight."
+    "Devon's already yelling, and they're in a fight."
+
+# game/a3s2.rpy:248
+translate Schinese a3s2_9b1daf64:
+
+    # "Things must be getting extra-stressful for Devon if it's this easy to provoke him, and Cameron should do something to help him, to soothe him, but instead he wants this fight."
+    "Things must be getting extra-stressful for Devon if it's this easy to provoke him, and Cameron should do something to help him, to soothe him, but instead he wants this fight."
+
+# game/a3s2.rpy:249
+translate Schinese a3s2_b694cf38:
+
+    # "For a moment, he even wants Devon to hit him."
+    "For a moment, he even wants Devon to hit him."
+
+# game/a3s2.rpy:250
+translate Schinese a3s2_edb83053:
+
+    # "To punch him right in the face, and end everything as they know it."
+    "To punch him right in the face, and end everything as they know it."
+
+# game/a3s2.rpy:253
+translate Schinese a3s2_26f2e23f:
+
+    # c "\"Why are you all of a sudden intent on me taking my meds? Pretty different from college, right?\""
+    c "\"Why are you all of a sudden intent on me taking my meds? Pretty different from college, right?\""
+
+# game/a3s2.rpy:254
+translate Schinese a3s2_9a44ba0d:
+
+    # d "\"I know I talked shit on psychology before. I acted like I knew what it was about. But like you say, everyone changes.\""
+    d "\"I know I talked shit on psychology before. I acted like I knew what it was about. But like you say, everyone changes.\""
+
+# game/a3s2.rpy:255
+translate Schinese a3s2_381a421d:
+
+    # c "\"It's because I'm a problem to you now, and you just want me to take what'll made me not crazy, even if it makes me feel like shit.\""
+    c "\"It's because I'm a problem to you now, and you just want me to take what'll made me not crazy, even if it makes me feel like shit.\""
+
+# game/a3s2.rpy:258
+translate Schinese a3s2_2431cd38:
+
+    # d "\"It doesn't mean you can't get better! That's the point.\""
+    d "\"It doesn't mean you can't get better! That's the point.\""
+
+# game/a3s2.rpy:260
+translate Schinese a3s2_e855b18e:
+
+    # d "\"{i}If{/i} you relapse, we help you get better again.\""
+    d "\"{i}If{/i} you relapse, we help you get better again.\""
+
+# game/a3s2.rpy:261
+translate Schinese a3s2_b025419d:
+
+    # c "\"I don't even care about the stupid voice anymore. or even the tics!\""
+    c "\"I don't even care about the stupid voice anymore. or even the tics!\""
+
+# game/a3s2.rpy:262
+translate Schinese a3s2_2f905601:
+
+    # "{i}tic tic tic{/i}"
+    "{i}tic tic tic{/i}"
+
+# game/a3s2.rpy:265
+translate Schinese a3s2_66423e6c:
+
+    # c "\"But you don't even have a fucking clue what this is like. Everyone just talks about the voices, and hallucinations, and delusions, but what about the cognitive shit? I can't think, nothing feels real. I feel dead.\""
+    c "\"But you don't even have a fucking clue what this is like. Everyone just talks about the voices, and hallucinations, and delusions, but what about the cognitive shit? I can't think, nothing feels real. I feel dead.\""
+
+# game/a3s2.rpy:268
+translate Schinese a3s2_8285f547:
+
+    # d "\"But remember, that's the main reason people relapse: their positive symptoms go away, they think they're better, then they stop their meds so the negative symptoms aren't as bad... and then they relapse!\""
+    d "\"But remember, that's the main reason people relapse: their positive symptoms go away, they think they're better, then they stop their meds so the negative symptoms aren't as bad... and then they relapse!\""
+
+# game/a3s2.rpy:270
+translate Schinese a3s2_81221b6c:
+
+    # c "\"And what if I do relapse? It's like, only half of schizophrenics that even achieve full 10-year remission!\""
+    c "\"And what if I do relapse? It's like, only half of schizophrenics that even achieve full 10-year remission!\""
+
+# game/a3s2.rpy:272
+translate Schinese a3s2_dd29c6b0:
+
+    # "{i}Shitty quality of life, up to 30 years off the average life-expectancy, incurable{/i}."
+    "{i}Shitty quality of life, up to 30 years off the average life-expectancy, incurable{/i}."
+
+# game/a3s2.rpy:276
+translate Schinese a3s2_71e9a0d2:
+
+    # "While Cameron never thought hard on what he might do, he does suppose he'd consider ending it."
+    "While Cameron never thought hard on what he might do, he does suppose he'd consider ending it."
+
+# game/a3s2.rpy:277
+translate Schinese a3s2_d7b9b347:
+
+    # "If this is how the rest of his life will play out, he's sure he will, eventually."
+    "If this is how the rest of his life will play out, he's sure he will, eventually."
+
+# game/a3s2.rpy:278
+translate Schinese a3s2_ce6b97a2:
+
+    # "But only if Devon isn't there to take that blow."
+    "But only if Devon isn't there to take that blow."
+
+# game/a3s2.rpy:279
+translate Schinese a3s2_5d34fefe:
+
+    # "The sudden heaviness of the topic takes the wind out of Cameron's sails."
+    "The sudden heaviness of the topic takes the wind out of Cameron's sails."
+
+# game/a3s2.rpy:281
+translate Schinese a3s2_6b1401f7:
+
+    # "Sensing Cameron back down, Devon lowers his guard as well before opening his arms in an invitation to hug."
+    "Sensing Cameron back down, Devon lowers his guard as well before opening his arms in an invitation to hug."
+
+# game/a3s2.rpy:283
+translate Schinese a3s2_7cdd18ac:
+
+    # "Despite his sore, and sensitive skin, it feels good after the burst of anger and sadness."
+    "Despite his sore, and sensitive skin, it feels good after the burst of anger and sadness."
+
+# game/a3s2.rpy:285
+translate Schinese a3s2_78eeed66:
+
+    # c "\"I'm just sad. I'm sad because I had such a good life with you, and it feels like it was just yesterday but... it's just gone now.\""
+    c "\"I'm just sad. I'm sad because I had such a good life with you, and it feels like it was just yesterday but... it's just gone now.\""
+
+# game/a3s2.rpy:286
+translate Schinese a3s2_42ec335e:
+
+    # "Devon squeezes him tighter."
+    "Devon squeezes him tighter."
+
+# game/a3s2.rpy:288
+translate Schinese a3s2_ebcd6970:
+
+    # d "\"You always talk about the \"new\" you, and how we just have to wait for him to get here. We'll have a new life. It'll just be a rough couple of months, maybe a bit longer.\""
+    d "\"You always talk about the \"new\" you, and how we just have to wait for him to get here. We'll have a new life. It'll just be a rough couple of months, maybe a bit longer.\""
+
+# game/a3s2.rpy:289
+translate Schinese a3s2_f9699b08:
+
+    # "Cameron sniffles."
+    "Cameron sniffles."
+
+# game/a3s2.rpy:290
+translate Schinese a3s2_43a4f18b:
+
+    # c "\"What day is it anyway, like the 15th?\""
+    c "\"What day is it anyway, like the 15th?\""
+
+# game/a3s2.rpy:291
+translate Schinese a3s2_9904b1b4:
+
+    # d "\"The 24th, I think.\""
+    d "\"The 24th, I think.\""
+
+# game/a3s2.rpy:292
+translate Schinese a3s2_b16cc1f0:
+
+    # c "\"I forgot that your birthday was last week. I just remembered now.\""
+    c "\"I forgot that your birthday was last week. I just remembered now.\""
+
+# game/a3s2.rpy:293
+translate Schinese a3s2_6d80eb28:
+
+    # "Devon laughs."
+    "Devon laughs."
+
+# game/a3s2.rpy:294
+translate Schinese a3s2_77c89316:
+
+    # d "\"Honestly? Me too.\""
+    d "\"Honestly? Me too.\""
+
+# game/a3s2.rpy:297
+translate Schinese a3s2_0354b5bf:
+
+    # "The hardest thing about that particular argument was that Devon completely empathized with Cameron."
+    "The hardest thing about that particular argument was that Devon completely empathized with Cameron."
+
+# game/a3s2.rpy:298
+translate Schinese a3s2_17459e72:
+
+    # "He can't imagine being in that situation, made to take medication that changes him so fundamentally that he's not in full control of his movements, or even breathing."
+    "He can't imagine being in that situation, made to take medication that changes him so fundamentally that he's not in full control of his movements, or even breathing."
+
+# game/a3s2.rpy:299
+translate Schinese a3s2_53f362e8:
+
+    # "The coyote is justified in being angry, sad, childish, and sometimes, outright spiteful."
+    "The coyote is justified in being angry, sad, childish, and sometimes, outright spiteful."
+
+# game/a3s2.rpy:303
+translate Schinese a3s2_83e2444c:
+
+    # "The thought of the old bear makes Devon so angry that now, he wishes the man is still alive."
+    "The thought of the old bear makes Devon so angry that now, he wishes the man is still alive."
+
+# game/a3s2.rpy:304
+translate Schinese a3s2_8308c11f:
+
+    # "At least then there'd be a chance for him to try and knock out a few more of his teeth during the victim impact statement."
+    "At least then there'd be a chance for him to try and knock out a few more of his teeth during the victim impact statement."
+
+# game/a3s2.rpy:305
+translate Schinese a3s2_016f3f42:
+
+    # "As many as he can before they tase him, anyway."
+    "As many as he can before they tase him, anyway."
+
+# game/a3s2.rpy:307
+translate Schinese a3s2_adc3feef:
+
+    # "The transfer was scheduled for November, and Devon is trying to type up an extremely apologetic and professional email to explain the situation, and also request a possible video meeting to delay the transfer."
+    "The transfer was scheduled for November, and Devon is trying to type up an extremely apologetic and professional email to explain the situation, and also request a possible video meeting to delay the transfer."
+
+# game/a3s2.rpy:314
+translate Schinese a3s2_78500753:
+
+    # "But then, seemingly out of nowhere, his breathing picks up speed"
+    "But then, seemingly out of nowhere, his breathing picks up speed"
+
+# game/a3s2.rpy:316
+translate Schinese a3s2_d5db5d57:
+
+    # "He can't figure out why he suddenly feels as if he's going to pass out."
+    "He can't figure out why he suddenly feels as if he's going to pass out."
+
+# game/a3s2.rpy:317
+translate Schinese a3s2_5bc47c52:
+
+    # "The first thing that comes to Devon's mind is Arturo's older brother who died of a pulmonary embolism after surgery."
+    "The first thing that comes to Devon's mind is Arturo's older brother who died of a pulmonary embolism after surgery."
+
+# game/a3s2.rpy:318
+translate Schinese a3s2_cc4f2ec5:
+
+    # "The one that the cat had talked about casually while high, even though Devon knows he's still devastated by it."
+    "The one that the cat had talked about casually while high, even though Devon knows he's still devastated by it."
+
+# game/a3s2.rpy:321
+translate Schinese a3s2_16d7695b:
+
+    # "Before he can stop himself, he blurts out Cameron's name, simultaneously questioning whether that's a good idea or not."
+    "Before he can stop himself, he blurts out Cameron's name, simultaneously questioning whether that's a good idea or not."
+
+# game/a3s2.rpy:322
+translate Schinese a3s2_74a50309:
+
+    # "Cameron seeing his boyfriend die in front of him won't exactly help his mental state, so it's better that he's probably sleeping like a rock right now."
+    "Cameron seeing his boyfriend die in front of him won't exactly help his mental state, so it's better that he's probably sleeping like a rock right now."
+
+# game/a3s2.rpy:330
+translate Schinese a3s2_bc98dd33:
+
+    # "Devon's not sure if that's what the problem is, but after just a few seconds, it does stop."
+    "Devon's not sure if that's what the problem is, but after just a few seconds, it does stop."
+
+# game/a3s2.rpy:333
+translate Schinese a3s2_0421b385:
+
+    # "Here he is, having a stupid panic attack while Cameron is having vocal tics that force him to almost pass out from not being able to breathe."
+    "Here he is, having a stupid panic attack while Cameron is having vocal tics that force him to almost pass out from not being able to breathe."
+
+# game/a3s2.rpy:334
+translate Schinese a3s2_462e02d2:
+
+    # "Devon tries to get him to go back to bed, but Cameron sleeps on the couch in the same room in case Devon has more problems, and while Devon feels like he should be the one doing the comforting right now, he's glad to have Cameron there."
+    "Devon tries to get him to go back to bed, but Cameron sleeps on the couch in the same room in case Devon has more problems, and while Devon feels like he should be the one doing the comforting right now, he's glad to have Cameron there."
+
+# game/a3s2.rpy:335
+translate Schinese a3s2_576bc730:
+
+    # "A scary moment, but Devon doubts he'll let the feeling sneak up on him again, now that he's familiar with it."
+    "A scary moment, but Devon doubts he'll let the feeling sneak up on him again, now that he's familiar with it."
+
+# game/a3s2.rpy:336
+translate Schinese a3s2_2ef5dff8:
+
+    # "Devon considers therapy, medication for himself like he's constantly trying to find for Cameron, but..."
+    "Devon considers therapy, medication for himself like he's constantly trying to find for Cameron, but..."
+
+# game/a3s2.rpy:337
+translate Schinese a3s2_69c7b881:
+
+    # "A part of him has to admit that he's scared too."
+    "A part of him has to admit that he's scared too."
+
+# game/a3s2.rpy:338
+translate Schinese a3s2_6046a366:
+
+    # "Besides, he's not bad enough he needs that help."
+    "Besides, he's not bad enough he needs that help."
+
+# game/a3s2.rpy:339
+translate Schinese a3s2_1872d5ee:
+
+    # "He'll settle on what always helped him deal with stress in the past, which is being active."
+    "He'll settle on what always helped him deal with stress in the past, which is being active."
+
+# game/a3s2.rpy:340
+translate Schinese a3s2_2524f529:
+
+    # "Exercise will be good for both of them, actually."
+    "Exercise will be good for both of them, actually."
+
+# game/a3s2.rpy:341
+translate Schinese a3s2_42078d7c:
+
+    # "Once he sends this email, he'll figure out how to renew both of their gym memberships, assuming the place is still even open."
+    "Once he sends this email, he'll figure out how to renew both of their gym memberships, assuming the place is still even open."
+
+# game/a3s2.rpy:345
+translate Schinese a3s2_85cbe760:
+
+    # "Devon steps out of the gym, taking a deep breath of the frigid, February air."
+    "Devon steps out of the gym, taking a deep breath of the frigid, February air."
+
+# game/a3s2.rpy:346
+translate Schinese a3s2_1faa6ee0:
+
+    # "There aren't many cars or people on the street, not this early on a Saturday morning."
+    "There aren't many cars or people on the street, not this early on a Saturday morning."
+
+# game/a3s2.rpy:353
+translate Schinese a3s2_fecb2cfc:
+
+    # "He would do a better job remembering that Cameron isn't right next to him if--"
+    "He would do a better job remembering that Cameron isn't right next to him if--"
+
+# game/a3s2.rpy:362
+translate Schinese a3s2_1347e8e1:
+
+    # d "\"It's Saturday, so I don't have work. Besides, I'm not taking a shower when their air-dryer temperature is room-temperature.\""
+    d "\"It's Saturday, so I don't have work. Besides, I'm not taking a shower when their air-dryer temperature is room-temperature.\""
+
+# game/a3s2.rpy:438
+translate Schinese a3s2_75795cd9:
+
+    # "Half-a-year later, Cameron finally starts to feel as if he can go out and at least live something of a life."
+    "Half-a-year later, Cameron finally starts to feel as if he can go out and at least live something of a life."
+
+# game/a3s2.rpy:439
+translate Schinese a3s2_eae4ff5d:
+
+    # "Tapering down his meds along with exercise definitely helped, and the worry about getting Arturo sick is tempered with all of them now being fully-vaccinated."
+    "Tapering down his meds along with exercise definitely helped, and the worry about getting Arturo sick is tempered with all of them now being fully-vaccinated."
+
+# game/a3s2.rpy:447
+translate Schinese a3s2_1b651db3:
+
+    # "A terrible, dramatic change, but one that can come with life."
+    "A terrible, dramatic change, but one that can come with life."
+
+# game/a3s2.rpy:449
+translate Schinese a3s2_a0d53f85:
+
+    # "While Cameron does want to simply see his old friend, he also wants to know a few other things."
+    "While Cameron does want to simply see his old friend, he also wants to know a few other things."
+
+# game/a3s2.rpy:466
+translate Schinese a3s2_10959cc9:
+
+    # a "\"Ah, well, you will next time you see me walk. Anyway, I hear you're working on your m-master's, Devon?\""
+    a "\"Ah, well, you will next time you see me walk. Anyway, I hear you're working on your m-master's, Devon?\""
+
+# game/a3s2.rpy:484
+translate Schinese a3s2_1ff7cab9:
+
+    # a "\"That's just like him. He'd p-party and drink the night before a final, then ace it while hungover.\""
+    a "\"That's just like him. He'd p-party and drink the night before a final, then ace it while hungover.\""
+
+# game/a3s2.rpy:545
+translate Schinese a3s2_3d8fddd1:
+
+    # "She leans in to give Arturo a kiss, and Arturo takes it without a single hint of embarrassment or annoyance."
+    "She leans in to give Arturo a kiss, and Arturo takes it without a single hint of embarrassment or annoyance."
+
+# game/a3s2.rpy:672
+translate Schinese a3s2_284dfe8b:
+
+    # "Something's on Cameron's mind, though, but Devon knows to wait until the canine is ready."
+    "Something's on Cameron's mind, though, but Devon knows to wait until the canine is ready."
+
+# game/a3s2.rpy:688
+translate Schinese a3s2_7b55573c:
+
+    # c "\"You just don't seem as happy or outgoing as you used to be. I know you're really busy with work and you just got your master's, which is so cool, but you seem--\""
+    c "\"You just don't seem as happy or outgoing as you used to be. I know you're really busy with work and you just got your master's, which is so cool, but you seem--\""
+
+# game/a3s2.rpy:715
+translate Schinese a3s2_d0141ab9:
+
+    # "But that will be a long ways away, he's sure."
+    "But that will be a long ways away, he's sure."
+

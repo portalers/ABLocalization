@@ -1066,7 +1066,7 @@ translate Schinese a3s1_b8dfd902:
 translate Schinese a3s1_8718a863:
 
     # "Arturo furrows his brows, never having heard that particular word used in such a way."
-    "Arturo furrows his brows, never having heard that particular word used in such a way."
+    "Arturo皱起眉头，他从来没听过这么粗鲁的话。"
 
 # game/a3s1.rpy:429
 translate Schinese a3s1_d3c5e662:
@@ -1138,7 +1138,7 @@ translate Schinese a3s1_bb6d19b1:
 translate Schinese a3s1_9ff50708:
 
     # Weasel "“Bear? Brian?”"
-    Weasel "“熊？Brian？”"
+    Weasel "“熊？还是Brian？”"
 
 # game/a3s1.rpy:450
 translate Schinese a3s1_36473fc6:
@@ -2398,7 +2398,7 @@ translate Schinese a3s1_eb0b650d:
 translate Schinese a3s1_2d2a5b48:
 
     # "She was still a teenager, excited, and in love, living out of a 70s Chevy van, but all of that came to an end when he was born in December, 1995."
-    "She was still a teenager, excited, and in love, living out of a 70s Chevy van, but all of that came to an end when he was born in December, 1995."
+    "她当时只有17岁，住在一辆70年代的雪佛兰面包里，情窦初开，对这个世界充满好奇。但所有这些，全都停在了1995年12月，他出生的日子。"
 
 # game/a3s1.rpy:805
 translate Schinese a3s1_6d68de8e:
@@ -2683,9 +2683,9 @@ translate Schinese a3s1_6c8bdee0:
     b "“你吃了那么多蘑菇，说起话来倒蛮利索。绝大多数人都疯疯癫癫的。”"
 
 # game/a3s1.rpy:865
-translate Schinese a3s1_4c788726:
+translate Schinese a3s1_5d63ce77:
 
-    # c "Oh, I am, I definitely am, it's... I don't know. I have more control than I did the first time I tried it.”"
+    # c "“Oh, I am, I definitely am, it's... I don't know. I have more control than I did the first time I tried it.”"
     c "“噢，是啊，的确是，这...我不清楚，但相比起第一次，我更能保持住理智。”"
 
 # game/a3s1.rpy:866
@@ -3262,7 +3262,7 @@ translate Schinese a3s1_3477ccdd:
 translate Schinese a3s1_2df8afd1:
 
     # "His eyes stay wide, his breath leaking out of his muzzle in a slow, high-pitched rasp, not wanting to believe the pain he feels spreading through his insides is real."
-    "气流一点点从他的口鼻漏出，发出尖锐而刺耳的哨声。他难以置信地睁大了眼睛，不愿面这从内到外的疼痛。"
+    "气流一点点从他的口鼻漏出，发出尖锐而刺耳的哨声。他难以置信地睁大了眼睛，不愿面对这从内到外的疼痛。"
 
 # game/a3s1.rpy:1034
 translate Schinese a3s1_49b5c09a:
@@ -4882,7 +4882,7 @@ translate Schinese a3s1_75e4d2b9:
 translate Schinese a3s1_3082ac5c:
 
     # "Cameron stares up at the arch, looking both beautiful and terrible at the same time."
-    "Cameron抬头仰望既美丽、又可怖的拱。"
+    "Cameron抬头仰望既美丽、又可怖的拱形。"
 
 # game/a3s1.rpy:1535
 translate Schinese a3s1_3d5eff72:
@@ -4960,7 +4960,7 @@ translate Schinese a3s1_e52f2526:
 translate Schinese a3s1_9e8478d3:
 
     # "So, Cameron leans his head against Devon's shoulder, smiling in a mostly happy, but in a bittersweet way."
-    "So, Cameron leans his head against Devon's shoulder, smiling in a mostly happy, but in a bittersweet way."
+    "于是，Cameron把头靠在Devon的肩膀上，他笑得很开心，却又有些悲伤。"
 
 # game/a3s1.rpy:1548
 translate Schinese a3s1_9bd687da:
