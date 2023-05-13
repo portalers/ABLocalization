@@ -7118,5 +7118,5 @@ translate Tchinese strings:
 translate Tchinese Murdochroute_1161396b:
 
     # m "\"One. Nik. Big guy— even bigger than me. Has a heart of gold, too.\""
-    m "\"有一位。Nik，是個大塊頭──甚至比我還高大，還有一顆赤子之心。\""
+    m "“有一位。Nik，是個大塊頭──甚至比我還高大，還有一顆赤子之心。”"
 
