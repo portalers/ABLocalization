@@ -11328,7 +11328,7 @@ translate Schinese nikroute3a_c166b918_1:
 translate Schinese nikroute3a_aaf1ba63:
 
     # bk "\"Were you paid to plant an explosive?\""
-    bk "\"有人付你钱，让对炸药动手脚吗？\""
+    bk "\"是有人付你钱，让对炸药动手脚吗？\""
 
 # game/nikroute3.rpy:3696
 translate Schinese nikroute3a_67aaa788:

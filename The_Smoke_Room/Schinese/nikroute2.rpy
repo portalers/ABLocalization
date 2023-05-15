@@ -17116,7 +17116,7 @@ translate Schinese sellcomp_8922988f:
 translate Schinese sellcomp_48359bbb:
 
     # "If there is a next time."
-    "要是还是下次的话。"
+    "要是还有下次的话。"
 
 # game/nikroute2.rpy:5625
 translate Schinese sellcomp_33f2788d:
