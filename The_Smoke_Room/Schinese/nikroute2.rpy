@@ -15640,7 +15640,7 @@ translate Schinese sny1_89357ba6:
 translate Schinese sny1_f7a1bb5e:
 
     # "That sable from the tent who has dirt on me because I caught him smoking."
-    "那只被我逮到在帐篷里抽大麻而不爽我的黑貂。"
+    "那只被我逮到在帐篷里抽鸦片而不爽我的黑貂。"
 
 # game/nikroute2.rpy:5067
 translate Schinese sny1_3d7b537e:
