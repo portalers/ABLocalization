@@ -4878,7 +4878,7 @@ translate Schinese a3s2_24554d21:
 translate Schinese a3s2_d3d71316:
 
     # "Maria turns to Cameron, and because they themselves have been friends for years, even a little longer than he's known Devon, he can tell that this is weirdly set up."
-    "于是Maria找上了Cameron，这真是对奇怪的组合，毕竟他和他是多年的朋友，甚至早于他认识Devon。"
+    "于是Maria找上了Cameron，这是对奇怪的组合，毕竟他和他才是多年的朋友，甚至早于他认识Devon之前。"
 
 # game/a3s2.rpy:1071
 translate Schinese a3s2_da5f449c:
