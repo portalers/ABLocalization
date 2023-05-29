@@ -4890,7 +4890,7 @@ translate Schinese a3s2_da5f449c:
 translate Schinese a3s2_f8b2c9bf:
 
     # c "\"Yeah, it makes me want to sleep all day, but also tear out my fur and crawl out of my skin.\""
-    c "“这些药让我整天犯困，恨不得扯掉自己的皮毛，从里面钻出来。”"
+    c "“这些药让我整天犯困，我恨不得扯掉自己的皮毛，从里面钻出来。”"
 
 # game/a3s2.rpy:1080
 translate Schinese a3s2_e11b9abb:
