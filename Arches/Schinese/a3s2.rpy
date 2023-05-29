@@ -4866,25 +4866,25 @@ translate Schinese a3s2_7acd35f8:
 translate Schinese a3s2_3d8fddd1:
 
     # "She leans in to give Arturo a kiss, and Arturo takes it without a single hint of embarrassment or annoyance."
-    "她俯身亲吻了一下Aturo，Aturo心安理得地接受了，他没有表现出任何尴尬或不悦。"
+    "她俯身亲吻了一下Aturo，Aturo心安理得地接受了，没有表现出任何尴尬或不悦。"
 
 # game/a3s2.rpy:1068
 translate Schinese a3s2_24554d21:
 
     # "While Cameron would normally never invade someone's mind like this, the coyote doubts he'll have many chances to do so again in the future, and he needs to know if Artie's on a good track, or not."
-    "Cameron本无意侵入别人的思想，但他需要知道Artie是否走在正轨上。他有预感，这是他此生绝无仅有的机会了。"
+    "Cameron本无意入侵别人的思想，但他需要知道Artie是否走在正轨上。他有预感，这是他这一生为数不多的机会了。"
 
 # game/a3s2.rpy:1070
 translate Schinese a3s2_d3d71316:
 
     # "Maria turns to Cameron, and because they themselves have been friends for years, even a little longer than he's known Devon, he can tell that this is weirdly set up."
-    "于是Maria找上了Cameron，这是对奇怪的组合，毕竟他和他才是多年的朋友，甚至早于他认识Devon之前。"
+    "Maria找上了Cameron，真是对奇怪的组合，毕竟他和他才是多年的朋友，甚至早于他认识Devon之前。"
 
 # game/a3s2.rpy:1071
 translate Schinese a3s2_da5f449c:
 
     # Maria "\"Oh yeah: antidepressants, antipsychotics, mood-stabilizers. It feels like I've been through almost all of them--\""
-    "Maria" "“啊，是的。抗抑郁药、抗精神病药、情绪稳定剂等等，我基本上都用过-”"
+    "Maria" "“啊，是的。抗抑郁药、抗精神病药、情绪稳定剂等等，我基本都用过-”"
 
 # game/a3s2.rpy:1072
 translate Schinese a3s2_f8b2c9bf:
