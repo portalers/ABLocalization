@@ -1756,19 +1756,19 @@ translate Schinese a3s2_5f7f8fff:
 translate Schinese a3s2_1f3655b0:
 
     # "This version of himself feels off, almost like there isn't even a soul to go with him."
-    "那个版本的他感觉不对劲，像是没有灵魂一样。"
+    "那个版本的他感觉不正常，像是没有灵魂一样。"
 
 # game/a3s2.rpy:358
 translate Schinese a3s2_1a3fdc5f:
 
     # "Otherwise, he sounds and acts just like he does... or did, before the diagnosis."
-    "另一方面，他的声音和行为无限趋近于Cameron...确诊之前的Cameron。"
+    "另一方面，他的声音和行为却又无限趋近于Cameron...确诊之前的Cameron。"
 
 # game/a3s2.rpy:359
 translate Schinese a3s2_be4bb61a:
 
     # "It makes him wonder if he'd trade-off given the opportunity."
-    "Cameron不禁怀疑，这是否是另一个自己设法做出的妥协。"
+    "Cameron不禁怀疑，假如遇到同样的情况，他是否会做出如此妥协。"
 
 # game/a3s2.rpy:360
 translate Schinese a3s2_93b7960b:
@@ -1786,19 +1786,19 @@ translate Schinese a3s2_2e97aa7f:
 translate Schinese a3s2_f28c4703:
 
     # "After tearing out Brian's throat, this Cameron immediately began communicating with him."
-    "在掐死Brian后，那个Cameron立刻与‘他’进行了交谈。"
+    "在掐死Brian后，那个Cameron立刻与“他”进行了交谈。"
 
 # game/a3s2.rpy:363
 translate Schinese a3s2_bb670407:
 
     # "But he began speaking to Devon shortly after the younger bear had ripped out Brian's throat."
-    "在年轻的熊撕碎Brian的喉咙后，‘他’又马上和Devon说起了话。"
+    "在年轻的熊撕碎Brian的喉咙后，“他”又马上和Devon说起了话。"
 
 # game/a3s2.rpy:364
 translate Schinese a3s2_b5ec71f5:
 
     # "It's not an illness, not like what Cameron has, but it's still... Echo, it's part of that town, and Cameron doesn't want this Devon to--"
-    "‘他’并非疾病-Cameron身患的病，而是...回音，是那座小镇的一部分，Cameron不希望那个Devon-"
+    "“他”并非疾病：Cameron身患的病，而是...回音，是那座小镇的一部分，Cameron不希望那个Devon-"
 
 # game/a3s2.rpy:368
 translate Schinese a3s2_f716790c:
@@ -2962,7 +2962,7 @@ translate Schinese a3s2_d4538231:
 translate Schinese a3s2_84a13781:
 
     # c "\"Hey, I hope I'm not annoying you.\""
-    c "我没有惹你生气吧。"
+    c "“我没有惹你生气吧。”"
 
 # game/a3s2.rpy:600
 translate Schinese a3s2_7209b2e1:
@@ -2986,7 +2986,7 @@ translate Schinese a3s2_a60d73f6:
 translate Schinese a3s2_38e7314a:
 
     # c "\"I'm getting chubbier too, ya know? It happens, and I love your body. If you wanna fool around tonight, I can have a closer look.\""
-    c "其实我也有点发福了，不过没关系，你变成什么样我都喜欢。要是你今晚想‘玩玩’的话，我可以顺便帮你检查一下。"
+    c "“其实我也有点发福了，不过没关系，你变成什么样我都喜欢。要是你今晚想‘玩玩’的话，我可以顺便帮你检查看看。”"
 
 # game/a3s2.rpy:605
 translate Schinese a3s2_f3bc5576:
@@ -2998,13 +2998,13 @@ translate Schinese a3s2_f3bc5576:
 translate Schinese a3s2_50947d0d:
 
     # d "\"Only if I get to have a look at you, too.\""
-    d "除非你先让我检查。"
+    d "除非你让我先看。"
 
 # game/a3s2.rpy:607
 translate Schinese a3s2_9f42861b:
 
     # c "\"Deal, and if we deem each other to be too chubby, we can go on a diet, or something.\""
-    c "成交，超重的人要节食哦。"
+    c "成交，超重的那个人可要减肥哦。"
 
 # game/a3s2.rpy:608
 translate Schinese a3s2_57a8b364:
@@ -3022,7 +3022,7 @@ translate Schinese a3s2_f299d18a:
 translate Schinese a3s2_904030ca:
 
     # "Still, it makes him feel warm inside, and he leans in to nuzzle Cameron."
-    "不过他心里还是暖洋洋的，他凑过来，用鼻子去蹭Cameron。"
+    "不过他心里还是升起一股暖意，他凑过来，用鼻子去蹭Cameron。"
 
 # game/a3s2.rpy:611
 translate Schinese a3s2_ba965a81:
@@ -3076,7 +3076,7 @@ translate Schinese a3s2_76487025:
 translate Schinese a3s2_051fef3d:
 
     # c "\"Some Mormon friends told me.\""
-    c "一些摩门教的朋友教我的。"
+    c "“从摩门教的朋友那里听说的。”"
 
 # game/a3s2.rpy:621
 translate Schinese a3s2_10f7bf6f:
@@ -3088,7 +3088,7 @@ translate Schinese a3s2_10f7bf6f:
 translate Schinese a3s2_d62d711b:
 
     # c "\"Yeah.\""
-    c "对啊。"
+    c "对。"
 
 # game/a3s2.rpy:624
 translate Schinese a3s2_27b4cf8f:
@@ -3112,7 +3112,7 @@ translate Schinese a3s2_d406219b:
 translate Schinese a3s2_37ef8ced:
 
     # "Devon smiles and they hold each other for a while."
-    "Devon笑了，两人相拥在一起。"
+    "Devon笑着与他相拥。"
 
 # game/a3s2.rpy:629
 translate Schinese a3s2_d80fe48d:
@@ -3154,7 +3154,7 @@ translate Schinese a3s2_55c23048:
 translate Schinese a3s2_3c8c59ed:
 
     # d "\"I figured out that it doesn't matter, it isn't worth finding out, and that I need to focus on us.\""
-    d "我想通了，那不重要，重要的是你和我。"
+    d "我已经想通了，那不重要，重要的是你和我。"
 
 # game/a3s2.rpy:640
 translate Schinese a3s2_14fcc22c:
@@ -3166,7 +3166,7 @@ translate Schinese a3s2_14fcc22c:
 translate Schinese a3s2_8ed4099e:
 
     # d "\"I figured out I made a huge mistake and deeply hurt my friends.\""
-    d "我犯了个天大的错误，深深伤害了我的朋友们。"
+    d "我犯了个天大的错误，深深伤害了我的亲友。"
 
 # game/a3s2.rpy:643
 translate Schinese a3s2_35abe916:
@@ -3244,7 +3244,7 @@ translate Schinese a3s2_a0385e33:
 translate Schinese a3s2_b3f883ad:
 
     # c "\"I guess... that there's hope for everyone. Lupita, Artie, you and me, and that maybe, instead of nothing, there's--\""
-    c "我想...希望是存在的，Lupita有，Artie有，你和我都有。也许，也许门的背后并非虚无，而是-"
+    c "我想...希望是存在的。Lupita有、Artie有，你和我都有。也许，也许这一切并非毫无意义-"
 
 # game/a3s2.rpy:662
 translate Schinese a3s2_12310aa3:
@@ -3274,7 +3274,7 @@ translate Schinese a3s2_a7839180:
 translate Schinese a3s2_1ea7b25f:
 
     # "Devon feels a little hope reignite in his chest."
-    "一束光照进了Devon的心底。"
+    "一束光照进了Devon的心。"
 
 # game/a3s2.rpy:669
 translate Schinese a3s2_9552b5fc:
@@ -5136,13 +5136,13 @@ translate Schinese a3s2_7c7c7880:
 translate Schinese a3s2_7db49be4:
 
     # c "\"I always will. Sorry if I was sounding depressing. I honestly feel at home with you. You're the only home I've got... but you know what's weird?\""
-    c "“抱歉，说了消沉的话，我不是有意的。我享受和你在一起的时光，你永远是我唯一的家...不过你知道吗？”"
+    c "“抱歉，说了些消沉的话，我不是有意的。我享受和你在一起的时光，你永远是我唯一的家...不过你知道吗？”"
 
 # game/a3s2.rpy:1344
 translate Schinese a3s2_18ff3e18:
 
     # c "\"I sense a lot from that temple, and I've sensed it in other spiritual places too. Like those Buddhist shrines in Huaxia Town, and even those little shops where you see mediums and psychics.\""
-    c "“那座教堂很复杂。不只是教堂，其他灵性之地也一样，比如中华街的佛祠跟有灵媒和通灵者坐镇的小店。”"
+    c "“那座教堂很复杂。不只是教堂，其他灵性之地也一样，比如中华街的佛祠、跟有灵媒和通灵者坐镇的小店。”"
 
 # game/a3s2.rpy:1345
 translate Schinese a3s2_3aa3f3ab:
