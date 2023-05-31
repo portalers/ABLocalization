@@ -4770,7 +4770,7 @@ translate Schinese a3s2_fddf7bc9:
 translate Schinese a3s2_ea9b142e:
 
     # d "\"I'm at the same company. It was always part of the plan once we moved. I still gotta graduate for them to reimburse my tuition, though.\""
-    d "”和计划的一样，一等恢复得差不多了，我就回原来的地方工作了。至于学费，肯定得等毕业了才能让他们报销。”"
+    d "“和计划好的一样，一等搬完家，我就回原来的地方工作了。至于学费，肯定得等毕业了才能让他们报销。”"
 
 # game/a3s2.rpy:761
 translate Schinese a3s2_1ff7cab9:
@@ -5148,7 +5148,7 @@ translate Schinese a3s2_18ff3e18:
 translate Schinese a3s2_3aa3f3ab:
 
     # c "\"It feels like they're taking in energy, and letting energy out, too. Like a portal.\""
-    c "“它们在吸收能量，同时也在释放能量，就像一道传送门。”"
+    c "“它们在吸收能量，同时也在释放能量，有些像传送门。”"
 
 # game/a3s2.rpy:1388
 translate Schinese a3s2_14fa146d:
