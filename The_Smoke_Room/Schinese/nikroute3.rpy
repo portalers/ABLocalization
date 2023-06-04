@@ -18634,5 +18634,5 @@ translate Schinese nikroute3a_cd985598:
 translate Schinese nikroute3a_046a4813:
 
     # "Felipe is waving back in the distance, carrying a sign of James III eating money."
-    "Felipe is waving back in the distance, carrying a sign of James III eating money."
+    "Felpe在远处招手回应，他举着一个James三世吃钞票的牌子。"
 
