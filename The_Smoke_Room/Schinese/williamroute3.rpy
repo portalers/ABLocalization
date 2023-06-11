@@ -18328,7 +18328,7 @@ translate Schinese williamroute3a_998a3932:
 translate Schinese williamroute3a_991e950f:
 
     # wi "\"Doesn’t look like the kind of lock designed to keep anybody out.\""
-    wi "“应该不是用来防贼的那种。”"
+    wi "“应该不是用来防贼的。”"
 
 # game/williamroute3.rpy:6740
 translate Schinese williamroute3a_67a32388:
@@ -21986,7 +21986,7 @@ translate Schinese williamroute3b_e92ec236:
 translate Schinese williamroute3b_b451104a:
 
     # "Who knows what he’s added or removed to the interior."
-    "天知道里面有什么机关。"
+    "天知道里面有什么玄机。"
 
 # game/williamroute3.rpy:7859
 translate Schinese williamroute3b_65931c78:
@@ -23258,7 +23258,7 @@ translate Schinese willinvestigation2_27eb6474:
 translate Schinese willinvestigation2_b4090d8a:
 
     # wi "\"If they’re truthful about not understanding the house, which is yet to be proven, by the way, then a mechanism like would have broken a long time ago.\""
-    wi "“若他们对这个房子不熟悉，这种机关早就坏了。顺带一提，我还不知道他们是不是在撒谎。”"
+    wi "“若他们对这个房子不熟悉，这机关早就坏了。顺带一提，我还不知道他们是不是在撒谎。”"
 
 # game/williamroute3.rpy:8273
 translate Schinese willinvestigation2_c0442722:
