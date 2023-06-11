@@ -1,7 +1,7 @@
 translate Schinese strings:
 
     old "{color=#000000}{font=willfont.ttf}Huxley Greene is dead. His body was found frozen. Decapitated with ripping force.{/font}{/color}"
-    new "{color=#000000}{font=fonts/willfont.ttf}死者，Huxley Greene，尸体被发现时已被冻僵。头部遭巨力撕扯，身首异处。{/font}{/color}"
+    new "{color=#000000}{font=fonts/willfont.ttf}死者，Huxley Greene，尸体被发现时已冻僵。头部遭巨力撕扯，身首异处。{/font}{/color}"
 
     old "{color=#000000}{font=willfont.ttf}Where was the body found? ASK TODD LATER. {/font}{/color}"
     new "{color=#000000}{font=fonts/willfont.ttf}尸体所在地是？{b}要找机会问问Todd。{/b} {/font}{/color}"
