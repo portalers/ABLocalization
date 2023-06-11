@@ -75,6 +75,18 @@ translate Schinese strings:
     old "{color=#000000}{font=willfont.ttf}[murdochtext]{/font}{/color}"
     new "{color=#000000}{font=fonts/willfont.ttf}[murdochtext!t]{/font}{/color}"
 
+    old "{color=#000000}{font=willfont.ttf}Her eyes widen and I see the pushy attitude slip away.{/font}{/color}"
+    new "{color=#000000}{font=fonts/willfont.ttf}她睁大了眼睛，咄咄逼人的态度也消失不见了。{/font}{/color}"
+
+    old "{color=#000000}{font=willfont.ttf}It looks like James wants to remove the power of Federal currency in Echo and replace it with CSCG redemption slips.{/font}{/color}"
+    new "{color=#000000}{font=fonts/willfont.ttf}看样子，James有意削弱联邦货币在回音镇的价值，并用CSCG的抵扣劵取而代之。{/font}{/color}"
+
+    old "{color=#000000}{font=willfont.ttf}[portraittext]{/font}{/color}"
+    new "{color=#000000}{font=fonts/willfont.ttf}[portraittext!t]{/font}{/color}"
+
+    old "{color=#000000}{font=willfont.ttf}[manortext]{/font}{/color}"
+    new "{color=#000000}{font=fonts/willfont.ttf}[manortext!t]{/font}{/color}"
+
     old "Made James bleed. Was funny."
     new "把James扁了一顿，痛快。"
 
@@ -169,3 +181,14 @@ translate Schinese strings:
     old "It's probably nothing."
     new "也许是我想多了。"
 
+    old "I need to get a good look at the portrait of James the First..."
+    new "我得好好检查一下James一世的肖像画。"
+
+    old "Is there anything James is hiding?"
+    new "James在隐藏什么吗？"
+
+    old "There is a vanity full of hand mirrors near the basement of the Hendricks mansion. The amount and variety of them is more than excessive."
+    new "Hendricks家的地窖附近有一个装满了手镜的梳妆台，无论数量还是种类都异常可观。"
+
+    old "The Hendricks house has hollow walls that the owners claim not to understand, entirely. The painting at the top of the stairs in the foyer has hinges."
+    new "James家里有一堵空心的墙，他们声称自己毫不知情。门厅的楼梯顶部挂着一副装有铰链的画。"
