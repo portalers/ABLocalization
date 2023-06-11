@@ -161,7 +161,7 @@ translate Schinese strings:
     new "我这么做是错的吗？或许吧。"
 
     old "This looks like one of the film rolls Murdoch's used before."
-    new "看起来像Murdoch用过的胶卷。"
+    new "看起来像Murdoch用过的那种胶卷。"
 
     old "One of these flowers is definitely mugwart."
     new "我很肯定这些草中有一种是艾蒿。"
@@ -176,7 +176,7 @@ translate Schinese strings:
     new "巧舌如簧啊，伙计们..."
 
     old "Her grandma's shroud was in the bed... I have a pretty good idea of what we'd find if we opened it."
-    new "床上是她奶奶的裹尸布...不难想象里面是什么。"
+    new "床上是她奶奶的裹尸布...不难想象里面有什么。"
 
     old "It's probably nothing."
     new "也许是我想多了。"
