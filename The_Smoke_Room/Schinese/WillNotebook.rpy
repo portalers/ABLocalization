@@ -88,14 +88,14 @@ translate Schinese strings:
     new "{color=#000000}{font=fonts/willfont.ttf}[manortext!t]{/font}{/color}"
 
     old "Made James bleed. Was funny."
-    new "把James扁了一顿，痛快。"
+    new "揍了James一顿，痛快。"
 
     old "Apparently, at least one person who works at the hip is leaking information to James."
-    new "看来，Hip的员工里至少有一个是James的内应。"
+    new "看来，Hip的员工里至少有一个James的内应。"
 
     # game/williamroute3.rpy:2981
     old "{s}Could a CGCS employee placed a hit on Cliff, or was it somebody else?{/s} Seems like the CGCS employees loyal to the company don't even get along. Some favor James. Some favor Briggs."
-    new "{s}策划袭击Cliff的是CGCS的员工，亦或是另有其人？{/s}看来CGCS的家伙们也不全是一条心。有一派支持James，还有一派支持Briggs。"
+    new "{s}策划袭击Cliff的是CGCS的员工，亦或是另有其人？{/s}看来CGCS也不全是一条心。有一派支持James，还有一派支持Briggs。"
 
     # game/williamroute3.rpy:3129
     old "Harlan gets into fights with James? He usually keeps things professional."
@@ -115,20 +115,20 @@ translate Schinese strings:
 
     # game/williamroute3.rpy:1618
     old "According to Reed, Huxley's gun was pawned. Sales records indicate Huxley repurchased it."
-    new "根据Reed的说法，Huxley的枪被当了。销售记录显示是Huxley亲自赎回了它。"
+    new "根据Reed的说法，Huxley当了自己的枪。销售记录显示是Huxley亲自赎回了它。"
 
     # game/williamroute3.rpy:1690
     old "Huxley was an alcoholic who needed more money for his drinking habit. I wonder where he was getting the cash?"
     new "Huxley的财产不足以满足他嗜酒如命的习惯，他从哪儿弄来的钱？"
 
     old "Marcy may know what happened to the gun."
-    new "Marcy也许知道那把枪的情况。"
+    new "Marcy多半知道那把枪的情况。"
 
     old "I should go to city hall."
     new "我得去趟镇公所。"
 
     old "I wonder what folks at the stag might have to offer?"
-    new "没准stag里的人能提供些什么？"
+    new "没准stag里的伙计们知道些什么？"
 
     old "Hendricks is usually up to something. Worst thing is, it's probably not illegal."
     new "Hendricks总是心怀鬼胎，更糟糕的是，他很擅长钻法律的空子。"
@@ -137,13 +137,13 @@ translate Schinese strings:
     new "镇公所里隐藏着许多秘密。"
 
     old "Could a CGCS employee placed a hit on Cliff, or was it somebody else?"
-    new "策划袭击Cliff的是CGCS的员工，还是另有其人？"
+    new "策划袭击Cliff的是CGCS的员工，亦或是另有其人？"
 
     old "I need to find Reed."
     new "我需要找到Reed。"
 
     old "So what was reed up to if he didn't place a hit on Cliff?"
-    new "所以既然Reed对Cliff没兴趣，他的目的是什么？"
+    new "既然Reed对Cliff没有兴趣，那他的目的是什么？"
 
     old "The workers at the hip are the best source of information in town."
     new "Hip的员工是这个镇最大的情报来源。"
@@ -182,10 +182,10 @@ translate Schinese strings:
     new "也许是我想多了。"
 
     old "I need to get a good look at the portrait of James the First..."
-    new "我得好好检查一下James一世的肖像画。"
+    new "我得好好检查一下James一世的肖像画..."
 
     old "Is there anything James is hiding?"
-    new "James在隐藏什么吗？"
+    new "James隐瞒了什么吗？"
 
     old "There is a vanity full of hand mirrors near the basement of the Hendricks mansion. The amount and variety of them is more than excessive."
     new "Hendricks家的地窖附近有一个装满了手镜的梳妆台，无论数量还是种类都异常可观。"
