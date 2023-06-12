@@ -5134,31 +5134,31 @@ translate Schinese Murdochroute_d2789383:
 translate Schinese Murdochroute_46f35f3b:
 
     # mu "\"I think all stories come from something.\""
-    mu "“我认为一切故事都有所起源。”"
+    mu "“我认为一切故事都有起源。”"
 
 # game/Murdochroute.rpy:1372
 translate Schinese Murdochroute_6752eca6:
 
     # mu "\"And sometimes believing something is real can feel just as bad as it being real.\""
-    mu "“而有时，相信某件事是真实的，那感觉和它变为现实时一样糟糕。”"
+    mu "“相信某件事是真实的，那它带给你的冲击就是真实的。”"
 
 # game/Murdochroute.rpy:1374
 translate Schinese Murdochroute_ac6bf114:
 
     # m "\"How much do you believe that they’re real though?\""
-    m "“那么你有多相信它们的真实性？”"
+    m "“那你有多相信？”"
 
 # game/Murdochroute.rpy:1376
 translate Schinese Murdochroute_e05032ac:
 
     # mu "\"Believe what’s real?\""
-    mu "“什么的真实性？”"
+    mu "“相信什么？”"
 
 # game/Murdochroute.rpy:1378
 translate Schinese Murdochroute_ff03ba20:
 
     # m "\"You know....\""
-    m "“你知道的...”"
+    m "“就是...”"
 
 # game/Murdochroute.rpy:1380
 translate Schinese Murdochroute_d420922d:
@@ -5182,19 +5182,19 @@ translate Schinese Murdochroute_5834af5d:
 translate Schinese Murdochroute_84cd28c9:
 
     # "Murdoch sighs and purses his lips."
-    "Murdoch叹了口气，撅起嘴唇。"
+    "Murdoch叹了口气，抿起嘴唇。"
 
 # game/Murdochroute.rpy:1387
 translate Schinese Murdochroute_02c118b8:
 
     # mu "\"I don’t think... it would be a stretch to say that there are dangerous things that exist out in the world that could cause us harm.\""
-    mu "“我不知道...如果说世界上存在着可能会伤害我们的危险之物，那就太夸张了。”"
+    mu "“我不知道...如果说世界上存在着可能会伤害我们的危险之物，那也太夸张了。”"
 
 # game/Murdochroute.rpy:1389
 translate Schinese Murdochroute_a415f836:
 
     # "That sounds like such a canned answer."
-    "真是听起来相当标准的答案。"
+    "听起来相当标准的答案。"
 
 # game/Murdochroute.rpy:1390
 translate Schinese Murdochroute_3efc39f0:
@@ -5206,25 +5206,25 @@ translate Schinese Murdochroute_3efc39f0:
 translate Schinese Murdochroute_27ce434d:
 
     # m "\"A monster.\""
-    m "“一只怪物。”"
+    m "“见过任何一只怪物。”"
 
 # game/Murdochroute.rpy:1393
 translate Schinese Murdochroute_56729bfa:
 
     # mu "\"If I ever have seen something that strange, I couldn’t be entirely sure.\""
-    mu "“就算曾经见过什么奇怪的东西，我也不能完全肯定。”"
+    mu "“就算曾经见过什么奇怪的东西，我也不能肯定。”"
 
 # game/Murdochroute.rpy:1395
 translate Schinese Murdochroute_f31c7112:
 
     # "Is he avoiding my question?"
-    "他是在回避我的问题吗？"
+    "他在回避我的问题？"
 
 # game/Murdochroute.rpy:1396
 translate Schinese Murdochroute_13e83896:
 
     # m "\"I think I felt one before.\""
-    m "“我想我之前感受到一只。”"
+    m "“我想我之前感觉到一只。”"
 
 # game/Murdochroute.rpy:1397
 translate Schinese Murdochroute_d4b1d803:
@@ -5242,25 +5242,25 @@ translate Schinese Murdochroute_ba6a6dbd:
 translate Schinese Murdochroute_1ac0a581:
 
     # mu "\"Are you friends with one of the miners?\""
-    mu "“你是其中一位矿工的朋友吗？”"
+    mu "“你认识哪个矿工吗？”"
 
 # game/Murdochroute.rpy:1400
 translate Schinese Murdochroute_b82965bc:
 
     # "Those words sound a little rushed."
-    "那些词听起来有些急促。"
+    "这句话听起来有些急促。"
 
 # game/Murdochroute.rpy:1401
 translate Schinese Murdochroute_fd5964f3:
 
     # m "\"One. Nikolai. Big guy— even bigger than me. Has a heart of gold, too.\""
-    m "“有一位。Nikolai，是个大块头──甚至比我还高大，还有一颗赤子之心。”"
+    m "“认识一位。Nikolai，他是个大块头，比我还壮，有着一颗金子般的心。”"
 
 # game/Murdochroute.rpy:1402
 translate Schinese Murdochroute_81703e7d:
 
     # mu "\"The name’s familiar. I think he’s played cards with William a few times. Big badger?\""
-    mu "“这名字我挺熟悉，他好像和William打过几次牌。是一只巨大的獾？”"
+    mu "“这名字我熟悉，印象里他和William打过几次牌，是不是一只高大的獾？”"
 
 # game/Murdochroute.rpy:1403
 translate Schinese Murdochroute_79670254:
@@ -5272,7 +5272,7 @@ translate Schinese Murdochroute_79670254:
 translate Schinese Murdochroute_db88d1ad:
 
     # m "\"But I haven’t told him about this.\""
-    m "“不过我没有告诉过他这些。”"
+    m "“不过我没有跟他讲过这些。”"
 
 # game/Murdochroute.rpy:1405
 translate Schinese Murdochroute_1ba66a06:
@@ -5290,13 +5290,13 @@ translate Schinese Murdochroute_730b61be:
 translate Schinese Murdochroute_c42ac5e2:
 
     # mu "\"I won’t ever say that something didn’t happen to you, Sam.\""
-    mu "“我没办法说你身上没发生过什么，Sam。”"
+    mu "“我不是在笑话你，Sam。”"
 
 # game/Murdochroute.rpy:1408
 translate Schinese Murdochroute_1a82b23a:
 
     # mu "\"But that story’s a hard sell.\""
-    mu "“不过那个故事没有什么说服力。”"
+    mu "“但这个故事实在没什么说服力。”"
 
 # game/Murdochroute.rpy:1409
 translate Schinese Murdochroute_abc1a553:
@@ -5326,13 +5326,13 @@ translate Schinese Murdochroute_5c4abcc8:
 translate Schinese Murdochroute_adccd342:
 
     # "The edifice stands two stories tall with two tall doors down the center."
-    "这座庞大的建筑有两层楼高，下面中间有两扇高门。"
+    "这栋庞大的建筑高二层，下面居中的位置有两扇大门。"
 
 # game/Murdochroute.rpy:1415
 translate Schinese Murdochroute_1192011b:
 
     # "I hear stern voices call from the windows, and the chorus of children’s voices responding as we step inside."
-    "我听到严厉的说话声从窗户里传了出来。我们踏进屋内，迎接而来的是孩子们的合唱。"
+    "我听到严肃的说话声从窗户里传了出来。我们踏进屋内，迎接我们的是孩子们的合唱。"
 
 # game/Murdochroute.rpy:1418
 translate Schinese Murdochroute_237e8f99:
@@ -7118,5 +7118,5 @@ translate Schinese strings:
 translate Schinese Murdochroute_1161396b:
 
     # m "\"One. Nik. Big guy— even bigger than me. Has a heart of gold, too.\""
-    m "\"One. Nik. Big guy— even bigger than me. Has a heart of gold, too.\""
+    m "“认识一位。Nikolai，他是个大块头，比我还高，有着一颗金子般的心。”"
 
