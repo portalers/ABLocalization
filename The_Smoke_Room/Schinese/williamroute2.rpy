@@ -6933,7 +6933,7 @@ translate Schinese after_sw1_0d033c63:
 translate Schinese after_sw1_6617ae59:
 
     # md "“Somebody bring him a glass of water.”"
-    md "“谁去倒杯水过来。”"
+    md "“谁拿杯水过来。”"
 
 # game/williamroute2.rpy:1920
 translate Schinese after_sw1_5da625aa:
@@ -6945,13 +6945,13 @@ translate Schinese after_sw1_5da625aa:
 translate Schinese after_sw1_85789c28:
 
     # cy "“What do you think could be wrong?”"
-    cy "“您觉得是哪里不对？”"
+    cy "“您觉得哪里不对？”"
 
 # game/williamroute2.rpy:1924
 translate Schinese after_sw1_b2a72132:
 
     # md "“He may still be suffering from his prior head injury.”"
-    md "“也许他仍饱受之前的头部创伤。”"
+    md "“可能是头部受伤留下的后遗症。”"
 
 # game/williamroute2.rpy:1927
 translate Schinese after_sw1_06cca42e:
@@ -6969,7 +6969,7 @@ translate Schinese after_sw1_ddf1bc43:
 translate Schinese after_sw1_b94a743a:
 
     # cy "“Just a silly parlor game that Sam wasn’t even playing.”"
-    cy "“就是个闹着玩儿的室内游戏，Sam甚至碰都没碰。”"
+    cy "“就是个闹着玩的小游戏，Sam甚至碰都没碰。”"
 
 # game/williamroute2.rpy:1935
 translate Schinese after_sw1_5cd86aa7:
@@ -6987,7 +6987,7 @@ translate Schinese after_sw1_18bd8a46:
 translate Schinese after_sw1_a2a7185b:
 
     # ha "“Explain where this trunk came from!”"
-    ha "“解释一下这个箱子从哪来的！”"
+    ha "“解释一下，这个箱子从哪来的！”"
 
 # game/williamroute2.rpy:1942
 translate Schinese after_sw1_ec0eee97:
@@ -7023,13 +7023,13 @@ translate Schinese after_sw1_8a262f94:
 translate Schinese after_sw1_953139aa:
 
     # md "“It could belong to the prior owners of this building.”"
-    md "“说不定是这栋建筑的前任主人的。”"
+    md "“也许是前屋主留下的。”"
 
 # game/williamroute2.rpy:1956
 translate Schinese after_sw1_e8b0dedb:
 
     # ha "“Shall I go through it for you, ma’am?”"
-    ha "“需要我帮您检查一遍么，夫人？”"
+    ha "“需要我为您检查一遍吗，夫人？”"
 
 # game/williamroute2.rpy:1959
 translate Schinese after_sw1_69928c00:
@@ -7047,19 +7047,19 @@ translate Schinese after_sw1_69d8ca6b_1:
 translate Schinese after_sw1_e4f2d95a:
 
     # md "“I think she can handle sorting through it.”"
-    md "“我想她能处理好。”"
+    md "“那检查的工作就交给你了。”"
 
 # game/williamroute2.rpy:1967
 translate Schinese after_sw1_e176e262:
 
     # cy "“Most of it looks like junk.”"
-    cy "“看来大部分都是垃圾。”"
+    cy "“好像大部分都是废品。”"
 
 # game/williamroute2.rpy:1969
 translate Schinese after_sw1_0f9de121:
 
     # cy "“Like novelty occult items.”"
-    cy "“像是装神弄鬼的小玩意。”"
+    cy "“比如装神弄鬼的小玩意。”"
 
 # game/williamroute2.rpy:1971
 translate Schinese after_sw1_83c58f5e:
@@ -7071,7 +7071,7 @@ translate Schinese after_sw1_83c58f5e:
 translate Schinese after_sw1_0c171f6c:
 
     # cy "“There’s a latch in the top of the trunk. I think there’s more stuff in here.”"
-    cy "“箱子顶部有弹簧锁，我想里面还有东西。”"
+    cy "“箱子顶部有个弹簧锁，里面应该还有东西。”"
 
 # game/williamroute2.rpy:1975
 translate Schinese after_sw1_f0650a0e:
@@ -7107,7 +7107,7 @@ translate Schinese after_sw1_9190844d:
 translate Schinese after_sw1_2fb9404b:
 
     # cy "“What the fuck?”"
-    cy "“这到底？”"
+    cy "“这到底...”"
 
 # game/williamroute2.rpy:1987
 translate Schinese after_sw1_c2892d0c:
@@ -7143,7 +7143,7 @@ translate Schinese after_sw1_06f88cf4:
 translate Schinese after_sw1_eb0e0fbe:
 
     # md "“Otherwise, I do not wish to keep it here.”"
-    md "“否则我不会留下的。”"
+    md "“反正我是不会留下的。”"
 
 # game/williamroute2.rpy:2002
 translate Schinese after_sw1_13888b3e:
@@ -7161,7 +7161,7 @@ translate Schinese after_sw1_46db657e:
 translate Schinese after_sw1_a987d645:
 
     # cy "“I don’t want to think about it!”"
-    cy "“也不想想到它！”"
+    cy "“别让我想到它！”"
 
 # game/williamroute2.rpy:2008
 translate Schinese after_sw1_08410431:
@@ -7185,7 +7185,7 @@ translate Schinese after_sw1_db4ae758:
 translate Schinese after_sw1_f1c28062:
 
     # "Madam’s warm hand props me up as the cold rim of a glass touches my lips."
-    "夫人温暖的手支撑着我，冰冷的杯沿触到了我的嘴唇。"
+    "夫人用温暖的手支撑着我，冰冷的杯沿触到了我的嘴唇。"
 
 # game/williamroute2.rpy:2016
 translate Schinese after_sw1_e7a16c82:
@@ -7215,13 +7215,13 @@ translate Schinese after_sw1_2ce8cef1:
 translate Schinese after_sw1_6d7ef67e:
 
     # md "“Sit up and show me.”"
-    md "“证明给我看看。”"
+    md "“证明给我看。”"
 
 # game/williamroute2.rpy:2026
 translate Schinese after_sw1_91560df1:
 
     # "The shape of the room is a little more clear now."
-    "房间的轮廓现在清晰了一点。"
+    "房间的轮廓现在清晰了些。"
 
 # game/williamroute2.rpy:2027
 translate Schinese after_sw1_367dd5e7:
@@ -7233,7 +7233,7 @@ translate Schinese after_sw1_367dd5e7:
 translate Schinese after_sw1_96950bc7:
 
     # md "“We will help you back to your room.”"
-    md "“我们会把你送回房间。”"
+    md "“我们送你回房间吧。”"
 
 # game/williamroute2.rpy:2031
 translate Schinese after_sw1_f737dd1b:
@@ -7251,7 +7251,7 @@ translate Schinese after_sw1_1ad655d9:
 translate Schinese after_sw1_a876bb00:
 
     # "Then it looks a little sideways."
-    "然后开始倾斜。"
+    "随后开始倾斜。"
 
 # game/williamroute2.rpy:2035
 translate Schinese after_sw1_51b75c85:
@@ -7269,7 +7269,7 @@ translate Schinese after_sw1_fffb1d67:
 translate Schinese after_sw1_b5512484:
 
     # ha "“I got ‘em.”"
-    ha "“好了。”"
+    ha "“扶住了。”"
 
 # game/williamroute2.rpy:2042
 translate Schinese after_sw1_3618e4a6:
@@ -7281,7 +7281,7 @@ translate Schinese after_sw1_3618e4a6:
 translate Schinese after_sw1_68ba00ba:
 
     # et "“Of course. Wouldn’t want the gentleman tripping down the stairs now, would we?”"
-    et "“当然可以，我想没人希望这位先生从楼梯上滚下去吧？”"
+    et "“当然可以，毕竟没人希望这位先生从楼梯上滚下去吧？”"
 
 # game/williamroute2.rpy:2048
 translate Schinese after_sw1_33deaf53:
@@ -7311,13 +7311,13 @@ translate Schinese after_sw1_3e64787c:
 translate Schinese after_sw1_712c715d:
 
     # "Dora lets out that chirpy, one-note laugh she makes when she notices something, but I can’t turn my head to see what it is."
-    "Dora欢快、没有起伏地笑了起来，这正是她发现什么的笑声，但我无法回头去看。"
+    "Dora发出欢快、却没有起伏的笑声，这证明她发现了什么，但我无法回头去看。"
 
 # game/williamroute2.rpy:2058
 translate Schinese after_sw1_489fe5c6:
 
     # "I get the feeling that I’ll lose my lunch if I’m not in my bed soon, so I’m just grateful as we move again."
-    "我有种感觉：要是不尽快躺在床上，就会连明天的午饭都错过。于是我们再次动起来的时候，我心里只有感激。"
+    "我有种感觉：要是不尽快躺在床上，我会连明天的午饭都错过。于是当我们再次动起来的时候，我心里只有感激。"
 
 # game/williamroute2.rpy:2061
 translate Schinese after_sw1_6dc9c766:
@@ -13213,383 +13213,383 @@ translate Schinese strings:
 translate Schinese after_sw1_1f5ff82c:
 
     # lu "\"Now you didn’t tell me Sam was going to be here!\""
-    lu "\"Now you didn’t tell me Sam was going to be here!\""
+    lu "“你怎么不告诉我Sam会来嘛！”"
 
 # game/williamroute2.rpy:1755
 translate Schinese after_sw1_337687ae:
 
     # sc "\"I say the more the merrier, love. Shall I mix you a whiskey sour?\""
-    sc "\"I say the more the merrier, love. Shall I mix you a whiskey sour?\""
+    sc "“人越多越好，亲爱的。用我给你调一杯酸威士忌吗？”"
 
 # game/williamroute2.rpy:1758
 translate Schinese after_sw1_96c7b5c7:
 
     # sc "\"I got you, I got you.\""
-    sc "\"I got you, I got you.\""
+    sc "“我懂，我懂。”"
 
 # game/williamroute2.rpy:1761
 translate Schinese after_sw1_daaef7d1:
 
     # sc "\"Nice to see we’re all on reprieve from bumpin’ uglies at the same time.\""
-    sc "\"Nice to see we’re all on reprieve from bumpin’ uglies at the same time.\""
+    sc "“终于能摆脱那些丑鬼了，虽然只是暂时的。”"
 
 # game/williamroute2.rpy:1763
 translate Schinese after_sw1_f7173283:
 
     # sc "\"And that is where we can agree to disagree, love.\""
-    sc "\"And that is where we can agree to disagree, love.\""
+    sc "“你可以保留不同意见，亲爱的。”"
 
 # game/williamroute2.rpy:1764
 translate Schinese after_sw1_7467c0ce:
 
     # sc "\"My back’s been killin’ me.\""
-    sc "\"My back’s been killin’ me.\""
+    sc "“我的背疼死了。”"
 
 # game/williamroute2.rpy:1765
 translate Schinese after_sw1_a72bc5fe:
 
     # lu "\"My back is always fine!\""
-    lu "\"My back is always fine!\""
+    lu "“我的背就一直很健康！”"
 
 # game/williamroute2.rpy:1766
 translate Schinese after_sw1_0a1f11b3:
 
     # sc "\"That’s ‘cos you ain’t got tits, hen.\""
-    sc "\"That’s ‘cos you ain’t got tits, hen.\""
+    sc "“那是因为你没有奶子吧，母鸡。”"
 
 # game/williamroute2.rpy:1770
 translate Schinese after_sw1_829fe4a0:
 
     # sc "\"Oh! A mouth on this one tonight. I love to see it, love to see it!\""
-    sc "\"Oh! A mouth on this one tonight. I love to see it, love to see it!\""
+    sc "“噢！好一张嘴。精彩，精彩！”"
 
 # game/williamroute2.rpy:1771
 translate Schinese after_sw1_eb51d63f:
 
     # sc "\"Here’s the whiskey kitten. Keep the tip, I promise I don’t need another.\""
-    sc "\"Here’s the whiskey kitten. Keep the tip, I promise I don’t need another.\""
+    sc "“给你的威士尼，猫咪。自个儿留好小费，我不需要。”"
 
 # game/williamroute2.rpy:1773
 translate Schinese after_sw1_3e5ac16e:
 
     # sc "\"Where’s the sense of humor, Samuel? Keep that up and you’ll never bag a man.\""
-    sc "\"Where’s the sense of humor, Samuel? Keep that up and you’ll never bag a man.\""
+    sc "“你的幽默感呢，Samuel？这样下去可是钓不到好男人的。”"
 
 # game/williamroute2.rpy:1775
 translate Schinese after_sw1_b6b464f3:
 
     # sc "\"Oh, are we gettin’ spicy already? I’m only on me first shot. \""
-    sc "\"Oh, are we gettin’ spicy already? I’m only on me first shot. \""
+    sc "“嚯，刚开始就是重头戏啊？”"
 
 # game/williamroute2.rpy:1780
 translate Schinese after_sw1_7d92e724:
 
     # sc "\"Oh, for the love of all that is green and good, that sure enough doesn’t count.\""
-    sc "\"Oh, for the love of all that is green and good, that sure enough doesn’t count.\""
+    sc "“看在大地的份上，这怎么能算数呢？”"
 
 # game/williamroute2.rpy:1791
 translate Schinese after_sw1_f3ab1fc9:
 
     # lu "\"You know, I agree with Sam.\""
-    lu "\"You know, I agree with Sam.\""
+    lu "“其实吧，我理解Sam。”"
 
 # game/williamroute2.rpy:1792
 translate Schinese after_sw1_58c44a42:
 
     # sc "\"Oh?\""
-    sc "\"Oh?\""
+    sc "“哦？”"
 
 # game/williamroute2.rpy:1794
 translate Schinese after_sw1_2a8dfe8c:
 
     # lu "\"If I had a man as big and strong as him I’d ask him to carry me everywhere.\""
-    lu "\"If I had a man as big and strong as him I’d ask him to carry me everywhere.\""
+    lu "“要是我有一个像他那样高大威猛的男人，我肯定不会让他离开我半步。”"
 
 # game/williamroute2.rpy:1795
 translate Schinese after_sw1_cfd69bc5:
 
     # lu "\"Why, he could just put me in his pocket, and I wouldn’t say no!\""
-    lu "\"Why, he could just put me in his pocket, and I wouldn’t say no!\""
+    lu "“啊，他可以把我装进他的衣兜，而我绝不会说一个‘不’字！”"
 
 # game/williamroute2.rpy:1797
 translate Schinese after_sw1_88f56743:
 
     # sc "\"Can’t share the sentiment. He’s lovely to look at but thick as plum pudding.\""
-    sc "\"Can’t share the sentiment. He’s lovely to look at but thick as plum pudding.\""
+    sc "“没同感。他长得是很可爱，不过满脑子浆糊。”"
 
 # game/williamroute2.rpy:1801
 translate Schinese after_sw1_3362ab64:
 
     # sc "\"No offense, love, this is all in good fun.\""
-    sc "\"No offense, love, this is all in good fun.\""
+    sc "“无意冒犯，亲爱的，玩笑而已。”"
 
 # game/williamroute2.rpy:1807
 translate Schinese after_sw1_680bc721:
 
     # sc "\"Who’s she? Never heard of her.\""
-    sc "\"Who’s she? Never heard of her.\""
+    sc "“那是谁？没听过的名字呢。”"
 
 # game/williamroute2.rpy:1809
 translate Schinese after_sw1_9a0f22cd:
 
     # sc "\"Anywho, what’s the weirdest fuck the lot of you have had all month?\""
-    sc "\"Anywho, what’s the weirdest fuck the lot of you have had all month?\""
+    sc "“总之，这个月你们在床上遇到过哪些奇葩？”"
 
 # game/williamroute2.rpy:1815
 translate Schinese after_sw1_db2db05a:
 
     # sc "\"Those odd ones go straight to the long list for me.\""
-    sc "\"Those odd ones go straight to the long list for me.\""
+    sc "“那些奇奇怪怪的家伙会直接进我的黑名单。”"
 
 # game/williamroute2.rpy:1816
 translate Schinese after_sw1_66d66d58:
 
     # sc "\"I like to keep things robust but simple.\""
-    sc "\"I like to keep things robust but simple.\""
+    sc "“我喜欢干脆利落。”"
 
 # game/williamroute2.rpy:1818
 translate Schinese after_sw1_3e402122:
 
     # lu "\"This doesn’t count but a man paid me to pray with him.\""
-    lu "\"This doesn’t count but a man paid me to pray with him.\""
+    lu "“算不上奇葩，不过有个人付钱让我跟他一起祈祷。”"
 
 # game/williamroute2.rpy:1819
 translate Schinese after_sw1_0446a6a1:
 
     # lu "\"It was free money, so I said sure.\""
-    lu "\"It was free money, so I said sure.\""
+    lu "“不赚白不赚，我自然答应了。”"
 
 # game/williamroute2.rpy:1821
 translate Schinese after_sw1_c52e3188:
 
     # sc "\"I may not look like an angel but I have the voice of one.\""
-    sc "\"I may not look like an angel but I have the voice of one.\""
+    sc "“我也许看起来不像天使，但绝对有一副天籁之音。”"
 
 # game/williamroute2.rpy:1825
 translate Schinese after_sw1_8879d519:
 
     # sc "\"But alright, alright. It’s my go.\""
-    sc "\"But alright, alright. It’s my go.\""
+    sc "“好了，好了，轮到我了。”"
 
 # game/williamroute2.rpy:1827
 translate Schinese after_sw1_c4a236fc:
 
     # sc "\"So get this.\""
-    sc "\"So get this.\""
+    sc "“听仔细了。”"
 
 # game/williamroute2.rpy:1828
 translate Schinese after_sw1_85e6dff3:
 
     # sc "\"A man, he enters my room, and it proceeds as normal.\""
-    sc "\"A man, he enters my room, and it proceeds as normal.\""
+    sc "“一个男人，照常进了我的房间。”"
 
 # game/williamroute2.rpy:1829
 translate Schinese after_sw1_755ef1f1:
 
     # sc "\"We exchange kisses, he gives me a good cup. Same old, same old.\""
-    sc "\"We exchange kisses, he gives me a good cup. Same old, same old.\""
+    sc "“我们互相亲吻，他揉胸的手法不错。老一套了，老一套。”"
 
 # game/williamroute2.rpy:1831
 translate Schinese after_sw1_5019aec4:
 
     # sc "\"And then he asks me, ‘you ever gotten toe-fucked?’\""
-    sc "\"And then he asks me, ‘you ever gotten toe-fucked?’\""
+    sc "“接着他问我， ‘你试过足交么？’”"
 
 # game/williamroute2.rpy:1832
 translate Schinese after_sw1_39f5d9cb:
 
     # lu "\"What!?\""
-    lu "\"What!?\""
+    lu "“哈？！”"
 
 # game/williamroute2.rpy:1838
 translate Schinese after_sw1_e4f5bef8:
 
     # sc "\"I swear it on King Arthur’s ghost himself.\""
-    sc "\"I swear it on King Arthur’s ghost himself.\""
+    sc "“我以亚瑟王鬼魂的名义发誓。”"
 
 # game/williamroute2.rpy:1841
 translate Schinese after_sw1_04e9566c:
 
     # sc "\"That’s what I asked him, and he said it was exactly what it sounds like.\""
-    sc "\"That’s what I asked him, and he said it was exactly what it sounds like.\""
+    sc "“我也是这么问他的，他说就是字面意思。”"
 
 # game/williamroute2.rpy:1842
 translate Schinese after_sw1_1e0adcff:
 
     # sc "\"One big toe up the shitter.\""
-    sc "\"One big toe up the shitter.\""
+    sc "“大脚拇指插屁眼儿。”"
 
 # game/williamroute2.rpy:1844
 translate Schinese after_sw1_27f76fad:
 
     # sc "\"It gets even better!\""
-    sc "\"It gets even better!\""
+    sc "“更绝的还在后面呢！”"
 
 # game/williamroute2.rpy:1845
 translate Schinese after_sw1_d2fc5af2:
 
     # sc "\"I ask him what he’d pay me to try it.\""
-    sc "\"I ask him what he’d pay me to try it.\""
+    sc "“我问他，他愿意为此付多少钱。”"
 
 # game/williamroute2.rpy:1846
 translate Schinese after_sw1_8a6b4fcf:
 
     # sc "\"He says ‘didn’t I already?’ and I says no, I’m afraid you didn’t lovely.\""
-    sc "\"He says ‘didn’t I already?’ and I says no, I’m afraid you didn’t lovely.\""
+    sc "“他说：‘我不是已经付过了？’然后我说不行，你这就不厚道了。”"
 
 # game/williamroute2.rpy:1849
 translate Schinese after_sw1_efea706b:
 
     # sc "\"He wouldn’t pay, so I says none of that. A quick handy and out the door he went.\""
-    sc "\"He wouldn’t pay, so I says none of that. A quick handy and out the door he went.\""
+    sc "“他死活不肯加钱，所以我只用手给他弄了弄，把他打发走了。”"
 
 # game/williamroute2.rpy:1852
 translate Schinese after_sw1_1cffb442:
 
     # sc "\"I’ll admit that the request got me curious for why somebody would ever ask for that.\""
-    sc "\"I’ll admit that the request got me curious for why somebody would ever ask for that.\""
+    sc "“不得不承认我挺好奇的，怎么会有人想那样啊？”"
 
 # game/williamroute2.rpy:1862
 translate Schinese after_sw1_abb98e37:
 
     # lu "\"The trunk.\""
-    lu "\"The trunk.\""
+    lu "“那个箱子啊。”"
 
 # game/williamroute2.rpy:1863
 translate Schinese after_sw1_c4d9df8c:
 
     # sc "\"That’s right, the trunk!\""
-    sc "\"That’s right, the trunk!\""
+    sc "“没错，那个箱子！”"
 
 # game/williamroute2.rpy:1874
 translate Schinese after_sw1_c70c5291:
 
     # lu "\"But it’s hard to miss, isn’t it? I can’t be the first person who’s found it.\""
-    lu "\"But it’s hard to miss, isn’t it? I can’t be the first person who’s found it.\""
+    lu "“不过想错过也挺难的呢，不是吗？我肯定不是它的第一个发现者。”"
 
 # game/williamroute2.rpy:1895
 translate Schinese after_sw1_27435765:
 
     # sc "\"Looks flimsy. That’s a cheap lock.\""
-    sc "\"Looks flimsy. That’s a cheap lock.\""
+    sc "“便宜货，看起来就不结实。”"
 
 # game/williamroute2.rpy:1896
 translate Schinese after_sw1_0933a14c:
 
     # sc "\"See? It’s like the insides are rusted.\""
-    sc "\"See? It’s like the insides are rusted.\""
+    sc "“瞧吧？里面好像都锈了。”"
 
 # game/williamroute2.rpy:1897
 translate Schinese after_sw1_2e09e2e5:
 
     # lu "\"Oh, how strange! Let us have a peek when you get the lock off.\""
-    lu "\"Oh, how strange! Let us have a peek when you get the lock off.\""
+    lu "“真稀奇！快打开让我们开开眼。”"
 
 # game/williamroute2.rpy:1914
 translate Schinese after_sw1_995db17c:
 
     # sc "\"And this here’s a set of divining rods.\""
-    sc "\"And this here’s a set of divining rods.\""
+    sc "“还有一套探测杖。”"
 
 # game/williamroute2.rpy:1916
 translate Schinese after_sw1_84392538:
 
     # lu "\"Look! There’s a scroll here too.\""
-    lu "\"Look! There’s a scroll here too.\""
+    lu "“看！还有个卷轴。”"
 
 # game/williamroute2.rpy:1917
 translate Schinese after_sw1_36b87fa2:
 
     # sc "\"Instructions for levitation play!\""
-    sc "\"Instructions for levitation play!\""
+    sc "“浮空术指南！”"
 
 # game/williamroute2.rpy:1920
 translate Schinese after_sw1_69499705:
 
     # lu "\"Oh, could we play, Cynthia?\""
-    lu "\"Oh, could we play, Cynthia?\""
+    lu "“咱们来玩吧，Cynthia？”"
 
 # game/williamroute2.rpy:1922
 translate Schinese after_sw1_1d4d7c79:
 
     # lu "\"I’ve always wanted to fly like one of those little birds outside.\""
-    lu "\"I’ve always wanted to fly like one of those little birds outside.\""
+    lu "“我一直梦想着像窗外的鸟儿一样飞翔。”"
 
 # game/williamroute2.rpy:1996
 translate Schinese after_sw1_f6a70d2c:
 
     # sc "\"Cynthia!\""
-    sc "\"Cynthia!\""
+    sc "“Cynthia”"
 
 # game/williamroute2.rpy:1998
 translate Schinese after_sw1_8488d984:
 
     # sc "\"You’re reading it like it’s a recipe.\""
-    sc "\"You’re reading it like it’s a recipe.\""
+    sc "“你这是报菜名呢？”"
 
 # game/williamroute2.rpy:2001
 translate Schinese after_sw1_40bbd3bf:
 
     # lu "\"I’m ready!\""
-    lu "\"I’m ready!\""
+    lu "“我准备好了！”"
 
 # game/williamroute2.rpy:2004
 translate Schinese after_sw1_0ed3d215:
 
     # sc "\"Right as rain. We are ready, love!\""
-    sc "\"Right as rain. We are ready, love!\""
+    sc "“一切顺利，所有人就位，亲爱的！”"
 
 # game/williamroute2.rpy:2009
 translate Schinese after_sw1_d633c5c4:
 
     # lu "\"I’m dead!\""
-    lu "\"I’m dead!\""
+    lu "“我已经死啦！”"
 
 # game/williamroute2.rpy:2010
 translate Schinese after_sw1_5f20e30c:
 
     # lu "\"DEAD!\""
-    lu "\"DEAD!\""
+    lu "“{b}死啦！{/b}”"
 
 # game/williamroute2.rpy:2019
 translate Schinese after_sw1_3d05e497:
 
     # lu "\"I’m cold...\""
-    lu "\"I’m cold...\""
+    lu "“我好冷...”"
 
 # game/williamroute2.rpy:2020
 translate Schinese after_sw1_7d4d2dc8:
 
     # lu "\"So coooooold!\""
-    lu "\"So coooooold!\""
+    lu "“冷死啦！”"
 
 # game/williamroute2.rpy:2028
 translate Schinese after_sw1_21048372:
 
     # lu "\"I’m flying...\""
-    lu "\"I’m flying...\""
+    lu "“我在飞...”"
 
 # game/williamroute2.rpy:2030
 translate Schinese after_sw1_45b643fd:
 
     # lu "\"I’m FLYING!\""
-    lu "\"I’m FLYING!\""
+    lu "“我在{b}飞！{/b}”"
 
 # game/williamroute2.rpy:2034
 translate Schinese after_sw1_057cea48:
 
     # sc "\"If she says she is, then she is.\""
-    sc "\"If she says she is, then she is.\""
+    sc "“她说自己在飞，那她就是在飞。”"
 
 # game/williamroute2.rpy:2047
 translate Schinese after_sw1_3a24557a:
 
     # lu "\"Is he okay?\""
-    lu "\"Is he okay?\""
+    lu "“他不要紧吧？”"
 
 # game/williamroute2.rpy:2055
 translate Schinese after_sw1_51afd4df:
 
     # sc "\"On it, Madam.\""
-    sc "\"On it, Madam.\""
+    sc "“我这就去，夫人。”"
 
