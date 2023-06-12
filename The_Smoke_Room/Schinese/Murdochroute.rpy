@@ -5350,7 +5350,7 @@ translate Schinese Murdochroute_f09215c7:
 translate Schinese Murdochroute_9403ed6a:
 
     # "Lizard" "\"Please date and sign the ledger and the appropriate time.\""
-    "Lizard" "“请在台账上签名，注明日期，以及恰当的时间。”"
+    "Lizard" "“请在台账上签字，注明日期和当前的时间。”"
 
 # game/Murdochroute.rpy:1421
 translate Schinese Murdochroute_cd846bd8:
