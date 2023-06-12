@@ -8026,7 +8026,7 @@ translate Schinese sny1_63ab506f:
 translate Schinese sny1_6da9d3e7:
 
     # m "\"Payton has a place they call The Stag too.\""
-    m "“佩顿镇也有间酒馆叫Stag。”"
+    m "“沛顿镇也有间酒馆叫Stag。”"
 
 # game/nikroute2.rpy:2335
 translate Schinese sny1_b4b518c5:
@@ -15640,7 +15640,7 @@ translate Schinese sny1_89357ba6:
 translate Schinese sny1_f7a1bb5e:
 
     # "That sable from the tent who has dirt on me because I caught him smoking."
-    "那只被我逮到在帐篷里抽大麻而不爽我的黑貂。"
+    "那只被我逮到在帐篷里抽鸦片而不爽我的黑貂。"
 
 # game/nikroute2.rpy:5067
 translate Schinese sny1_3d7b537e:
@@ -17116,7 +17116,7 @@ translate Schinese sellcomp_8922988f:
 translate Schinese sellcomp_48359bbb:
 
     # "If there is a next time."
-    "要是还是下次的话。"
+    "要是还有下次的话。"
 
 # game/nikroute2.rpy:5625
 translate Schinese sellcomp_33f2788d:

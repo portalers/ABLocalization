@@ -17530,7 +17530,7 @@ translate Schinese murdochroute2_45be6fc0:
 translate Schinese murdochroute2_873aaa30:
 
     # m "\"You really want to see nothing, you should check out Payton.\""
-    m "“真要说一穷二白，你该瞧瞧{rb}佩顿镇{/rb}{rt}Payton{/rt}才对。”"
+    m "“真要说一穷二白，你该瞧瞧{rb}沛顿镇{/rb}{rt}Payton{/rt}才对。”"
 
 # game/murdochroute2.rpy:5023
 translate Schinese murdochroute2_8d4b3fe1:
