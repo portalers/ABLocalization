@@ -4924,7 +4924,7 @@ translate Schinese nikroute_08aa27cc:
 translate Schinese nikroute_0b793833:
 
     # m "\"Which just moves you on to the shittier town that is Payton.\""
-    m "“这只会去到一个更烂的镇子，沛顿镇。”"
+    m "“这只会去到一个更烂的镇子，佩顿镇。”"
 
 # game/nikroute.rpy:1063
 translate Schinese nikroute_fe36c126:

@@ -220,7 +220,7 @@ translate Schinese williamroute2_c4195641:
 translate Schinese williamroute2_58ca62fc:
 
     # "She’s really emphasizing the r sounds there."
-    "她着重强调了“更”的音。"
+    "她着重强调了‘更’的音。"
 
 # game/williamroute2.rpy:72
 translate Schinese williamroute2_3d1d145a:
@@ -232,7 +232,7 @@ translate Schinese williamroute2_3d1d145a:
 translate Schinese williamroute2_094bca5b:
 
     # md "“Though sometimes they think you’re the real deputy and Mr. Bronson is the trainee, since you’ve more muscle.”"
-    md "“毕竟你的体格更强壮些，所以有些人认为你才是真正的副手，而Bronson先生才是见习。”"
+    md "“虽然有些人认为你才是真正的副手，而Bronson先生才是见习。毕竟你的体格更强壮些。”"
 
 # game/williamroute2.rpy:76
 translate Schinese williamroute2_cec859e4:
@@ -304,7 +304,7 @@ translate Schinese williamroute2_b6b3d063:
 translate Schinese williamroute2_7f84df6b:
 
     # "My reflection tells me that I’m still not in a ‘Meet the Mayor of Echo’ condition."
-    "镜中的像告诉我，自己还没有达到可以“会见回音镇镇长”的状态。"
+    "镜中的像告诉我，自己还没有达到可以‘会见回音镇镇长’的状态。"
 
 # game/williamroute2.rpy:93
 translate Schinese williamroute2_2521d867:
@@ -1186,7 +1186,7 @@ translate Schinese williamroute2_170d5d40:
 translate Schinese williamroute2_7446b178:
 
     # to "“I napped.”"
-    to "“打了个盹。”"
+    to "“打了个吨。”"
 
 # game/williamroute2.rpy:363
 translate Schinese williamroute2_121b06ea:
@@ -1966,7 +1966,7 @@ translate Schinese williamroute2_b6caef7b:
 translate Schinese williamroute2_f3ddbf24:
 
     # mar "\"Hello, hello?\""
-    mar "“你好，请问哪位？”"
+    mar "你好，请问哪位？"
 
 # game/williamroute2.rpy:653
 translate Schinese williamroute2_6e08e08a:
@@ -2008,7 +2008,7 @@ translate Schinese williamroute2_a7da6338:
 translate Schinese williamroute2_723bb2ca:
 
     # mar "\"Right as rain drops! Come in, come in, you boys must be starving!\""
-    mar "“完全正确！快请进吧，你们肯定饿坏了！”"
+    mar "完全正确！快请进吧，你们肯定饿坏了！"
 
 # game/williamroute2.rpy:674
 translate Schinese williamroute2_838dfa50:
@@ -2056,7 +2056,7 @@ translate Schinese williamroute2_ed20a93b:
 translate Schinese williamroute2_a63e7faf:
 
     # mar "\"I’ll be back with a slice of warm pie for each of you in a jiffy.\""
-    mar "“热乎乎的派马上就好了，大家都有份噢。”"
+    mar "热乎乎的派马上就好了，大家都有份噢。"
 
 # game/williamroute2.rpy:692
 translate Schinese williamroute2_0adc244f:
@@ -2122,7 +2122,7 @@ translate Schinese williamroute2_da7a15db:
 translate Schinese williamroute2_91bb8fca:
 
     # mar "\"It’s rude to stare, you know! My dollies are shy!\""
-    mar "“没有礼貌！我的娃娃们很害羞的！”"
+    mar "没有礼貌！我的娃娃们很害羞的！"
 
 # game/williamroute2.rpy:706
 translate Schinese williamroute2_ce6acfd7:
@@ -2164,25 +2164,25 @@ translate Schinese williamroute2_ecb21110:
 translate Schinese williamroute2_2089e693:
 
     # mar "\"Well, truth be told, I’m too simple to make anything pretty.\""
-    mar "“说实话，我这种粗人做不出什么好看的东西。”"
+    mar "说实话，我这种粗人做不出什么好看的东西。"
 
 # game/williamroute2.rpy:709
 translate Schinese williamroute2_a4f84c50:
 
     # mar "\"But I don’t think you have to be pretty to be loved.\""
-    mar "“但我不觉得必须好看才会被别人所喜爱。”"
+    mar "但我不觉得必须好看才会被别人所喜爱。"
 
 # game/williamroute2.rpy:711
 translate Schinese williamroute2_2184c04d:
 
     # mar "\"And I love these dollies very much.\""
-    mar "“而我就非常爱这些娃娃。”"
+    mar "而我就非常爱这些娃娃。"
 
 # game/williamroute2.rpy:713
 translate Schinese williamroute2_23383437:
 
     # mar "\"Some girls at the schoolyard were nice enough to show me how to make them, but I still have to practice.\""
-    mar "“学校里的那些姑娘们好心教会了我织的方法，不过我还需要练习。”"
+    mar "学校里的那些姑娘们好心教会了我织的方法，不过我还需要练习。"
 
 # game/williamroute2.rpy:720
 translate Schinese williamroute2_9d2f9c1a:
@@ -2200,7 +2200,7 @@ translate Schinese williamroute2_5b24fe21:
 translate Schinese williamroute2_4e477522:
 
     # mar "\"Maybe.\""
-    mar "“也许吧。”"
+    mar "也许吧。"
 
 # game/williamroute2.rpy:731
 translate Schinese williamroute2_0fd097f8:
@@ -2230,13 +2230,13 @@ translate Schinese williamroute2_3df4737f:
 translate Schinese williamroute2_abcabc8c:
 
     # mar "\"Well he usually turns up at that awful saloon, drinking all of that poison.\""
-    mar "“他经常出没在那间可怕的酒吧，只知道喝那些毒汤。”"
+    mar "他经常出没在那间可怕的酒吧，只知道喝那些毒汤。"
 
 # game/williamroute2.rpy:734
 translate Schinese williamroute2_f5fbde67:
 
     # mar "\"Sometimes it takes a while for him to get back, but he always comes back.\""
-    mar "“有时隔段时间才会回来，但总归是会回来的。”"
+    mar "有时隔段时间才会回来，但总归是会回来的。"
 
 # game/williamroute2.rpy:739
 translate Schinese williamroute2_0bc7db9d:
@@ -2248,7 +2248,7 @@ translate Schinese williamroute2_0bc7db9d:
 translate Schinese williamroute2_8f685918:
 
     # mar "\"It’s just never been three days before?\""
-    mar "“只是从来没有超过三天？”"
+    mar "只是从来没有超过三天？"
 
 # game/williamroute2.rpy:744
 translate Schinese williamroute2_7efe1654:
@@ -2260,13 +2260,13 @@ translate Schinese williamroute2_7efe1654:
 translate Schinese williamroute2_b9f3dc8d:
 
     # mar "\"I used to be bossy about not letting him go there.\""
-    mar "“我从前总是拦着不让他过去。”"
+    mar "我从前总是拦着不让他过去。"
 
 # game/williamroute2.rpy:747
 translate Schinese williamroute2_2fc3903c:
 
     # mar "\"But I’ve been good for a whole year.\""
-    mar "“但一整年下来我也渐渐接受了。”"
+    mar "但一整年下来我也渐渐接受了。"
 
 # game/williamroute2.rpy:751
 translate Schinese williamroute2_5560a475:
@@ -2278,13 +2278,13 @@ translate Schinese williamroute2_5560a475:
 translate Schinese williamroute2_ee79c299:
 
     # mar "\"No, I don’t tell him what to do anymore.\""
-    mar "“我不再奢求他什么了。”"
+    mar "我不再奢求他什么了。"
 
 # game/williamroute2.rpy:754
 translate Schinese williamroute2_68ca60be:
 
     # mar "\"He’s nicer when he gets what he wants.\""
-    mar "“只有满意时，他才会变得友好些。”"
+    mar "只有满意时，他才会变得友好些。"
 
 # game/williamroute2.rpy:761
 translate Schinese williamroute2_eebb4bce:
@@ -2296,7 +2296,7 @@ translate Schinese williamroute2_eebb4bce:
 translate Schinese williamroute2_5cdc800e:
 
     # mar "\"But isn’t everyone?\""
-    mar "“但谁又不是呢？”"
+    mar "但谁又不是呢？"
 
 # game/williamroute2.rpy:767
 translate Schinese williamroute2_dfc3b41b:
@@ -2326,7 +2326,7 @@ translate Schinese williamroute2_a6478251:
 translate Schinese williamroute2_2cd1bfbc:
 
     # mar "\"I know grandmama’s shawl isn’t pretty anymore either.\""
-    mar "“我知道奶奶的披巾同样算不上好看了。”"
+    mar "我知道奶奶的披巾同样算不上好看了。"
 
 # game/williamroute2.rpy:777
 translate Schinese williamroute2_1a909461:
@@ -2356,13 +2356,13 @@ translate Schinese williamroute2_b694b4a5:
 translate Schinese williamroute2_1dc4d8a7:
 
     # mar "\"The way it sags reminds me of mama’s smile.\""
-    mar "“它垂下来的样子总能让我想起我妈妈的笑容。”"
+    mar "它垂下来的样子总能让我想起我妈妈的笑容。"
 
 # game/williamroute2.rpy:779
 translate Schinese williamroute2_0f34fb46:
 
     # mar "\"Sometimes she has to smile for me when things aren’t so good.\""
-    mar "“有时日子并不好过，她只能强迫自己笑着面对。”"
+    mar "有时日子并不好过，她只能强迫自己笑着面对。"
 
 # game/williamroute2.rpy:785
 translate Schinese williamroute2_d0ab9512:
@@ -2380,19 +2380,19 @@ translate Schinese williamroute2_92cf8fe8:
 translate Schinese williamroute2_b0df2343:
 
     # mar "\"It’s fun to arrange things in the house how I want them.\""
-    mar "“把家里的东西摆成我想要的样子还挺有趣的。”"
+    mar "把家里的东西摆成我想要的样子还挺有趣的。"
 
 # game/williamroute2.rpy:788
 translate Schinese williamroute2_b7447156:
 
     # mar "\"But I think I’ve had my fun.\""
-    mar "“不过，我想自己已经玩够了。”"
+    mar "不过，我想自己已经玩够了。"
 
 # game/williamroute2.rpy:791
 translate Schinese williamroute2_c94314bc:
 
     # mar "\"Enough fun for a while.\""
-    mar "“够好玩的了。”"
+    mar "够好玩的了。"
 
 # game/williamroute2.rpy:796
 translate Schinese williamroute2_5038322b:
@@ -2404,7 +2404,7 @@ translate Schinese williamroute2_5038322b:
 translate Schinese williamroute2_f1a16954:
 
     # mar "\"When do you think he’s coming back?\""
-    mar "“你们觉得他什么时候会回来？”"
+    mar "你们觉得他什么时候会回来？"
 
 # game/williamroute2.rpy:807
 translate Schinese williamroute2_7635881e:
@@ -2434,85 +2434,85 @@ translate Schinese williamroute2_03379409:
 translate Schinese williamroute2_ee171b03:
 
     # mar "\"That’s what he said.\""
-    mar "“他是这么说的。”"
+    mar "他是这么说的。"
 
 # game/williamroute2.rpy:809
 translate Schinese williamroute2_dcd6368f:
 
     # mar "\"But he had already went in the morning.\""
-    mar "“但他早上已经去过一次了。”"
+    mar "但他早上已经去过一次了。"
 
 # game/williamroute2.rpy:811
 translate Schinese williamroute2_5416409e:
 
     # mar "\"He never comes back and then goes to the saloon again.\""
-    mar "“他从来没有在中途回过家。”"
+    mar "他从来没有在中途回过家。"
 
 # game/williamroute2.rpy:814
 translate Schinese williamroute2_62a4b4fc:
 
     # mar "\"He always stayed as long as he could.\""
-    mar "“总是能待多久待多久。”"
+    mar "总是能待多久待多久。"
 
 # game/williamroute2.rpy:817
 translate Schinese williamroute2_551fc2e9:
 
     # mar "\"But that’s what he did that day.\""
-    mar "“不过那天他的确是这样的。”"
+    mar "不过那天他的确是这样的。"
 
 # game/williamroute2.rpy:823
 translate Schinese williamroute2_f243e581:
 
     # wi "“So where do you think he really went?”"
-    wi "“那你觉得他究竟去了哪？”"
+    wi "“ 那你觉得他究竟去了哪？”"
 
 # game/williamroute2.rpy:705
 translate Schinese williamroute2_9044e146:
 
     # mar "\"Sometimes he’d threaten to take a train and leave me all alone if I wasn’t good.\""
-    mar "“他偶尔会威胁我说，如果我不乖，他就乘火车离开，把我一个人丢在这里。”"
+    mar "他偶尔会威胁我说，如果我不乖，他就乘火车离开，把我一个人丢在这里。"
 
 # game/williamroute2.rpy:826
 translate Schinese williamroute2_ff555044:
 
     # mar "\"Sometimes I thought that this would be swell...\""
-    mar "“有时候，我觉得这样就挺好...”"
+    mar "有时候，我觉得这样就挺好..."
 
 # game/williamroute2.rpy:829
 translate Schinese williamroute2_ed147b13:
 
     # mar "\"...because it might mean that I could share my pies how I’d like, and play with my toys for as long and as much as I wanted.\""
-    mar "“...因为这意味着，我可以随心所欲地分享自己的派，肆无忌惮地玩自己的玩具。”"
+    mar "...因为这意味着，我可以随心所欲地分享自己的派，肆无忌惮地玩自己的玩具。"
 
 # game/williamroute2.rpy:832
 translate Schinese williamroute2_af00f244:
 
     # mar "\"But I never, never said that to him!\""
-    mar "“但我从来，从来没有跟他说过！”"
+    mar "但我从来，从来没有跟他说过！"
 
 # game/williamroute2.rpy:835
 translate Schinese williamroute2_20e48c2c:
 
     # mar "\"So I don’t think he took the train.\""
-    mar "“所以我觉得他没有上火车。”"
+    mar "所以我觉得他没有上火车。"
 
 # game/williamroute2.rpy:838
 translate Schinese williamroute2_18f17ea1:
 
     # mar "\"But sooner or later, he’d always bring up walking those tracks.\""
-    mar "“不过这是迟早的事。他总是提到，要沿着那些铁轨走。”"
+    mar "不过这是迟早的事。他总是提到，要沿着那些铁轨走。"
 
 # game/williamroute2.rpy:841
 translate Schinese williamroute2_f0c6357f:
 
     # mar "\"Maybe he wanted a model train.\""
-    mar "“也许他是想要一辆火车模型。”"
+    mar "也许他是想要一辆火车模型。"
 
 # game/williamroute2.rpy:844
 translate Schinese williamroute2_64dac620:
 
     # mar "\"Maybe he liked his toys too, but he just didn’t want to tell me about it.\""
-    mar "“也许他也喜欢玩具，但不好意思告诉我。”"
+    mar "也许他也喜欢玩具，但不好意思告诉我。"
 
 translate Schinese williamroute2_22dfca09:
 
@@ -2889,7 +2889,7 @@ translate Schinese williamroute2_1bb8353d:
 translate Schinese williamroute2_9bea5960:
 
     # jam "“Many of the latter are jobless, so they have nothing better to do than bite at my heels.”"
-    jam "“后者中有许多无业游民，除了咬住我的后脚跟不放以外，他们也没什么值得做的了。”"
+    jam "“后者中有许多无业游民，除了咬住我的后脚跟不放以外，他们也没什么值得做得了。”"
 
 # game/williamroute2.rpy:835
 translate Schinese williamroute2_5a76db0b:
@@ -3495,7 +3495,7 @@ translate Schinese williamroute2_b65bd793:
 translate Schinese williamroute2_b90fb4dc:
 
     # m "“You said it.”"
-    m "“您说得对。”"
+    m "“您说得是。”"
 
 # game/williamroute2.rpy:936
 translate Schinese williamroute2_4195c69c:
@@ -5481,7 +5481,7 @@ translate Schinese after_sw1_745a580d:
 translate Schinese after_sw1_1a96fc51:
 
     # "A sigh escapes my muzzle and I readjust the bulge in my trousers."
-    "我叹了口气，整理好裤子上的凸起。"
+    "我叹了口气，整理好裤子上凸起。"
 
 # game/williamroute2.rpy:1552
 translate Schinese after_sw1_bbac9508:
@@ -5697,7 +5697,7 @@ translate Schinese after_sw1_c3d1607f:
 translate Schinese after_sw1_73153901:
 
     # "I see Cynthia and a group of women huddling around a corner, giggling."
-    "Cynthia跟挤在角落里的女人们咯咯笑了起来。"
+    "Cynthia跟挤在角落里女人们咯咯笑了起来。"
 
 # game/williamroute2.rpy:1610
 translate Schinese after_sw1_406c4064:
@@ -8817,7 +8817,7 @@ translate Schinese dd2b_4cb0e266:
 translate Schinese dd2b_6f19d038:
 
     # m "\"Alright.\""
-    m "“好吧。”"
+    m "“Alright.”"
 
 # game/williamroute2.rpy:2531
 translate Schinese dd2b_02784371:
@@ -9639,7 +9639,7 @@ translate Schinese dd2b_0a797bca:
 translate Schinese dd2b_dd6590bc:
 
     # wi "\"Gotta get our papers all the way from Coalville.\""
-    wi "“还得大老远从科尔维尔（Coalville）拿报纸。”"
+    wi "“还得大老远从科尔维尔拿报纸。”"
 
 # game/williamroute2.rpy:2805
 translate Schinese dd2b_52f44887:
@@ -10845,7 +10845,7 @@ translate Schinese dd2b_71557d99:
 translate Schinese dd2b_0cfa71da:
 
     # m "\"He said he just saw two people cross it, Nik.\""
-    m "“他说他刚看到有两个人一起过了桥，Nik。”"
+    m "“他说他刚看到有两个人一起过了桥，Nik.”"
 
 # game/williamroute2.rpy:3279
 translate Schinese dd2b_512dade4:
@@ -11919,7 +11919,7 @@ translate Schinese sw2_53926dcf:
 translate Schinese sw2_9569527f:
 
     # wi "“Oh for Christ's sake!”"
-    wi "“我的老天爷！”"
+    wi "“我的天老爷！”"
 
 # game/williamroute2.rpy:3492
 translate Schinese sw2_8bcfd5a9:
@@ -12117,7 +12117,7 @@ translate Schinese sw2_d35ec7ba:
 translate Schinese sw2_f57db103:
 
     # "He’s stiff even when I’m taking care of his balls."
-    "即便被我“照顾”卵蛋的时候，他依然很僵硬。"
+    "即便被我‘照顾’卵蛋的时候，他依然很僵硬。"
 
 # game/williamroute2.rpy:3565
 translate Schinese sw2_d5d1ce8a:
