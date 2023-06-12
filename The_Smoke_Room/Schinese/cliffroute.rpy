@@ -7832,5 +7832,5 @@ translate Schinese strings:
 translate Schinese cliffroute_896396c7:
 
     # jam "\"And you will not tell Nicholas either.\""
-    jam "\"And you will not tell Nicholas either.\""
+    jam "“还有，你同样不可以告诉Nicholas。”"
 
