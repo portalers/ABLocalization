@@ -4312,7 +4312,7 @@ translate Schinese nikroute2_a1ce6274:
 translate Schinese nikroute2_5ba2a5a1:
 
     # jam "\"Stuck at the hip, one could say?\""
-    jam "“也不妨说，肉体上的关系？”"
+    jam "“也不妨说，是肉体上的关系？”"
 
 # game/nikroute2.rpy:1179
 translate Schinese nikroute2_fb1915ba:
@@ -4354,13 +4354,13 @@ translate Schinese nikroute2_8e780dcd:
 translate Schinese nikroute2_f96504b4:
 
     # jam "\"Or, to have somebody encourage him to.\""
-    jam "“或者，有人能劝他一劝。”"
+    jam "“又或者，有人能劝他一劝。”"
 
 # game/nikroute2.rpy:1192
 translate Schinese nikroute2_dd213874:
 
     # jam "\"I think you would be uniquely suited to that role, yes?\""
-    jam "“我想你是最适合这个角色的人，对吧？”"
+    jam "“我想这个角色非你莫属，没错吧？”"
 
 # game/nikroute2.rpy:1194
 translate Schinese nikroute2_a0adf2f1:
@@ -4384,19 +4384,19 @@ translate Schinese nikroute2_d6c70ba4:
 translate Schinese nikroute2_14af029b:
 
     # "Somebody from the Hip, then."
-    "这么说，是Hip里的人了。"
+    "也就是说，是Hip里的人。"
 
 # game/nikroute2.rpy:1198
 translate Schinese nikroute2_4b5c57de:
 
     # m "\"We’re all good men who just want to work for what we’re given.\""
-    m "“我们都是安分守己的老实人，只是为了讨生活。”"
+    m "“我们都是安分守己的老实人，为了讨口饭吃而已。”"
 
 # game/nikroute2.rpy:1199
 translate Schinese nikroute2_12dabca7:
 
     # m "\"Nik’s not the boat-rocking type. I can talk most nonsense out of him.\""
-    m "“Nik不是爱惹麻烦的家伙，我会让他别想那些有的没的。”"
+    m "“Nik并不喜欢惹麻烦，我会让他别想那些有的没的。”"
 
 # game/nikroute2.rpy:1201
 translate Schinese nikroute2_c1978179:
@@ -25536,11 +25536,11 @@ translate Schinese strings:
 translate Schinese nikroute2_2417d6e2:
 
     # jam "\"You’re close with the immigrant Nicholas Krol, yes?\""
-    jam "\"You’re close with the immigrant Nicholas Krol, yes?\""
+    jam "“你和移民Nicholas的关系十分密切，对吗？”"
 
 # game/nikroute2.rpy:1184
 translate Schinese nikroute2_fba08962:
 
     # jam "\"Mr Ayers. One of our current troubles is that Nicholas is one of our best workers! But I fear he’s run away with some wild ideas.\""
-    jam "\"Mr Ayers. One of our current troubles is that Nicholas is one of our best workers! But I fear he’s run away with some wild ideas.\""
+    jam "“Nicholas称得上是这里最优秀的员工，Ayers先生！我们眼下的其中一个问题便是，我怕他会带着一些疯狂的想法跑掉。”"
 
