@@ -7118,5 +7118,5 @@ translate Schinese strings:
 translate Schinese Murdochroute_1161396b:
 
     # m "\"One. Nik. Big guy— even bigger than me. Has a heart of gold, too.\""
-    m "“认识一位。Nikolai，他是个大块头，比我还高，有着一颗金子般的心。”"
+    m "“认识一位。Nik，他是个大块头，比我还壮，有着一颗金子般的心。”"
 
