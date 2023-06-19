@@ -5134,31 +5134,31 @@ translate Tchinese Murdochroute_d2789383:
 translate Tchinese Murdochroute_46f35f3b:
 
     # mu "\"I think all stories come from something.\""
-    mu "“我認為一切故事都有所起源。”"
+    mu "“我認為一切故事都有起源。”"
 
 # game/Murdochroute.rpy:1372
 translate Tchinese Murdochroute_6752eca6:
 
     # mu "\"And sometimes believing something is real can feel just as bad as it being real.\""
-    mu "“而有時，相信某件事是真實的，那感覺和它變為現實時一樣糟糕。”"
+    mu "“相信某件事是真實的，那它帶給你的衝擊就是真實的。”"
 
 # game/Murdochroute.rpy:1374
 translate Tchinese Murdochroute_ac6bf114:
 
     # m "\"How much do you believe that they’re real though?\""
-    m "“那麼你有多相信它們的真實性？”"
+    m "“那你有多相信？”"
 
 # game/Murdochroute.rpy:1376
 translate Tchinese Murdochroute_e05032ac:
 
     # mu "\"Believe what’s real?\""
-    mu "“什麼的真實性？”"
+    mu "“相信什麼？”"
 
 # game/Murdochroute.rpy:1378
 translate Tchinese Murdochroute_ff03ba20:
 
     # m "\"You know....\""
-    m "“你知道的……”"
+    m "“就是……”"
 
 # game/Murdochroute.rpy:1380
 translate Tchinese Murdochroute_d420922d:
@@ -5182,19 +5182,19 @@ translate Tchinese Murdochroute_5834af5d:
 translate Tchinese Murdochroute_84cd28c9:
 
     # "Murdoch sighs and purses his lips."
-    "Murdoch嘆了口氣，撅起嘴唇。"
+    "Murdoch嘆了口氣，抿起嘴唇。"
 
 # game/Murdochroute.rpy:1387
 translate Tchinese Murdochroute_02c118b8:
 
     # mu "\"I don’t think... it would be a stretch to say that there are dangerous things that exist out in the world that could cause us harm.\""
-    mu "“我不知道……如果說世界上存在著可能會傷害我們的危險之物，那就太誇張了。”"
+    mu "“我不知道……如果說世界上存在著可能會傷害我們的危險之物，那也太誇張了。”"
 
 # game/Murdochroute.rpy:1389
 translate Tchinese Murdochroute_a415f836:
 
     # "That sounds like such a canned answer."
-    "真是聽起來相當標準的答案。"
+    "聽起來相當標準的答案。"
 
 # game/Murdochroute.rpy:1390
 translate Tchinese Murdochroute_3efc39f0:
@@ -5206,25 +5206,25 @@ translate Tchinese Murdochroute_3efc39f0:
 translate Tchinese Murdochroute_27ce434d:
 
     # m "\"A monster.\""
-    m "“一隻怪物。”"
+    m "“見過任何一隻怪物。”"
 
 # game/Murdochroute.rpy:1393
 translate Tchinese Murdochroute_56729bfa:
 
     # mu "\"If I ever have seen something that strange, I couldn’t be entirely sure.\""
-    mu "“就算曾經見過什麼奇怪的東西，我也不能完全肯定。”"
+    mu "“就算曾經見過什麼奇怪的東西，我也不能肯定。”"
 
 # game/Murdochroute.rpy:1395
 translate Tchinese Murdochroute_f31c7112:
 
     # "Is he avoiding my question?"
-    "他是在迴避我的問題嗎？"
+    "他是在迴避我的問題？"
 
 # game/Murdochroute.rpy:1396
 translate Tchinese Murdochroute_13e83896:
 
     # m "\"I think I felt one before.\""
-    m "“我想我之前感受到一隻。”"
+    m "“我想我之前感覺到一隻。”"
 
 # game/Murdochroute.rpy:1397
 translate Tchinese Murdochroute_d4b1d803:
@@ -5242,25 +5242,25 @@ translate Tchinese Murdochroute_ba6a6dbd:
 translate Tchinese Murdochroute_1ac0a581:
 
     # mu "\"Are you friends with one of the miners?\""
-    mu "“你是其中一位礦工的朋友嗎？”"
+    mu "“你認識哪個礦工嗎？”"
 
 # game/Murdochroute.rpy:1400
 translate Tchinese Murdochroute_b82965bc:
 
     # "Those words sound a little rushed."
-    "那些詞聽起來有些急促。"
+    "這句話聽起來有些急促。"
 
 # game/Murdochroute.rpy:1401
 translate Tchinese Murdochroute_fd5964f3:
 
     # m "\"One. Nikolai. Big guy— even bigger than me. Has a heart of gold, too.\""
-    m "“有一位。Nikolai，是個大塊頭──甚至比我還高大，還有一顆赤子之心。”"
+    m "“認識一位。Nikolai，是個大塊頭──甚至比我還壯，有著一顆金子般的心。”"
 
 # game/Murdochroute.rpy:1402
 translate Tchinese Murdochroute_81703e7d:
 
     # mu "\"The name’s familiar. I think he’s played cards with William a few times. Big badger?\""
-    mu "“這名字我挺熟悉，他好像和William打過幾次牌。是一隻巨大的獾？”"
+    mu "“這名字我熟悉，印象中他和William打過幾次牌。是不是一隻巨大的獾？”"
 
 # game/Murdochroute.rpy:1403
 translate Tchinese Murdochroute_79670254:
@@ -5272,7 +5272,7 @@ translate Tchinese Murdochroute_79670254:
 translate Tchinese Murdochroute_db88d1ad:
 
     # m "\"But I haven’t told him about this.\""
-    m "“不過我沒有告訴過他這些。”"
+    m "“不過我沒有跟他講過這些。”"
 
 # game/Murdochroute.rpy:1405
 translate Tchinese Murdochroute_1ba66a06:
@@ -5290,13 +5290,13 @@ translate Tchinese Murdochroute_730b61be:
 translate Tchinese Murdochroute_c42ac5e2:
 
     # mu "\"I won’t ever say that something didn’t happen to you, Sam.\""
-    mu "“我沒辦法說你身上沒發生過什麼，Sam。”"
+    mu "“我不是在笑話你，Sam。”"
 
 # game/Murdochroute.rpy:1408
 translate Tchinese Murdochroute_1a82b23a:
 
     # mu "\"But that story’s a hard sell.\""
-    mu "“不過那個故事沒有什麼說服力。”"
+    mu "“但這個故事實在沒有什麼說服力。”"
 
 # game/Murdochroute.rpy:1409
 translate Tchinese Murdochroute_abc1a553:
@@ -5326,13 +5326,13 @@ translate Tchinese Murdochroute_5c4abcc8:
 translate Tchinese Murdochroute_adccd342:
 
     # "The edifice stands two stories tall with two tall doors down the center."
-    "這座龐大的建築有兩層樓高，下面中間有兩扇高門。"
+    "這座龐大的建築有兩層樓高，下面居中的位置有兩扇大門。"
 
 # game/Murdochroute.rpy:1415
 translate Tchinese Murdochroute_1192011b:
 
     # "I hear stern voices call from the windows, and the chorus of children’s voices responding as we step inside."
-    "我聽到嚴厲的說話聲從窗戶裡傳了出來。我們踏進屋內，迎接而來的是孩子們的合唱。"
+    "我聽到嚴肅的說話聲從窗戶裡傳了出來。我們踏進屋內，迎接我們的是孩子們的合唱。"
 
 # game/Murdochroute.rpy:1418
 translate Tchinese Murdochroute_237e8f99:
@@ -5350,7 +5350,7 @@ translate Tchinese Murdochroute_f09215c7:
 translate Tchinese Murdochroute_9403ed6a:
 
     # "Lizard" "\"Please date and sign the ledger and the appropriate time.\""
-    "Lizard" "“請在分類帳上簽名，註明日期，以及恰當的時間。”"
+    "Lizard" "“請在分類帳上簽名，註明日期以及當前的時間。”"
 
 # game/Murdochroute.rpy:1421
 translate Tchinese Murdochroute_cd846bd8:
@@ -7118,5 +7118,5 @@ translate Tchinese strings:
 translate Tchinese Murdochroute_1161396b:
 
     # m "\"One. Nik. Big guy— even bigger than me. Has a heart of gold, too.\""
-    m "“有一位。Nik，是個大塊頭──甚至比我還高大，還有一顆赤子之心。”"
+    m "“認識一位。Nik，是個大塊頭──甚至比我還壯，有著一顆金子般的心。”"
 

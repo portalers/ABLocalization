@@ -4312,7 +4312,7 @@ translate Tchinese nikroute2_a1ce6274:
 translate Tchinese nikroute2_5ba2a5a1:
 
     # jam "\"Stuck at the hip, one could say?\""
-    jam "“可以說，常在酒館互動的程度？”"
+    jam "“也不妨說，是肉體上的關係？”"
 
 # game/nikroute2.rpy:1179
 translate Tchinese nikroute2_fb1915ba:
@@ -4354,13 +4354,13 @@ translate Tchinese nikroute2_8e780dcd:
 translate Tchinese nikroute2_f96504b4:
 
     # jam "\"Or, to have somebody encourage him to.\""
-    jam "“或者，有人能去鼓勵他這麼做。”"
+    jam "“又或者，有人能勸一勸他。”"
 
 # game/nikroute2.rpy:1192
 translate Tchinese nikroute2_dd213874:
 
     # jam "\"I think you would be uniquely suited to that role, yes?\""
-    jam "“我認為你是個獨一無二的人選，沒錯吧？”"
+    jam "“我想這個角色非你莫屬，沒錯吧？”"
 
 # game/nikroute2.rpy:1194
 translate Tchinese nikroute2_a0adf2f1:
@@ -4396,7 +4396,7 @@ translate Tchinese nikroute2_4b5c57de:
 translate Tchinese nikroute2_12dabca7:
 
     # m "\"Nik’s not the boat-rocking type. I can talk most nonsense out of him.\""
-    m "“Nik不是愛惹麻煩的傢伙。我會勸勸他的。”"
+    m "“Nik並不喜歡惹麻煩，我會讓他別想那些有的沒的。”"
 
 # game/nikroute2.rpy:1201
 translate Tchinese nikroute2_c1978179:
@@ -25540,5 +25540,5 @@ translate Tchinese nikroute2_2417d6e2:
 translate Tchinese nikroute2_fba08962:
 
     # jam "\"Mr Ayers. One of our current troubles is that Nicholas is one of our best workers! But I fear he’s run away with some wild ideas.\""
-    jam "“Ayers先生。我們現在面臨的麻煩之一，就是Nicholas是我們最棒的員工之一！只怕他萌生了些胡亂的想法。”"
+    jam "“Nicholas稱得上是這裡最優秀的員工，Ayers先生！我們目前的其中一個問題，就是我怕他會帶著一些瘋狂的想法跑掉。”"
 

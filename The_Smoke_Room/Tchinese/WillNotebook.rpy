@@ -75,9 +75,20 @@ translate Tchinese strings:
     old "{color=#000000}{font=willfont.ttf}[murdochtext]{/font}{/color}"
     new "{color=#000000}{font=fonts/willfont2.ttf}[murdochtext!t]{/font}{/color}"
 
+    old "{color=#000000}{font=willfont.ttf}Her eyes widen and I see the pushy attitude slip away.{/font}{/color}"
+    new "{color=#000000}{font=fonts/willfont2.ttf}她睜大了眼睛，咄咄逼人的態度也消失不見了。{/font}{/color}"
+
+    old "{color=#000000}{font=willfont.ttf}It looks like James wants to remove the power of Federal currency in Echo and replace it with CSCG redemption slips.{/font}{/color}"
+    new "{color=#000000}{font=fonts/willfont2.ttf}看樣子，James有意削弱聯邦貨幣在回音鎮的價值，並用CSCG的抵扣劵取而代之。{/font}{/color}"
+
+    old "{color=#000000}{font=willfont.ttf}[portraittext]{/font}{/color}"
+    new "{color=#000000}{font=fonts/willfont2.ttf}[portraittext!t]{/font}{/color}"
+
+    old "{color=#000000}{font=willfont.ttf}[manortext]{/font}{/color}"
+    new "{color=#000000}{font=fonts/willfont2.ttf}[manortext!t]{/font}{/color}"
 
     old "Made James bleed. Was funny."
-    new "把James扁出了血，痛快。"
+    new "揍了James一頓，痛快。"
 
     old "Apparently, at least one person who works at the hip is leaking information to James."
     new "看來，Hip的員工裡至少有一個James的內應。"
@@ -142,11 +153,11 @@ translate Tchinese strings:
 
     # game/script.rpy:1908
     old ".."
-    new "……"
+    new "…"
 
     # game/script.rpy:1918
     old "The body was in a ditch."
-    new "之前屍體在陰溝裡。"
+    new "屍體之前在陰溝裡。"
 
     # game/script.rpy:1919
     old "Tutti-frutti."
@@ -174,7 +185,7 @@ translate Tchinese strings:
 
     # game/script.rpy:1925
     old "Slick, fellahs..."
-    new "事後騷話巧舌如簧啊，伙伴們……"
+    new "事後騷話巧舌如簧啊，兄弟們……"
 
     # game/script.rpy:1926
     old "Her grandma's shroud was in the bed... I have a pretty good idea of what we'd find if we opened it."
@@ -187,3 +198,15 @@ translate Tchinese strings:
     # game/williamroute3.rpy:6953
     old "It used to belong to Marcy's sister."
     new "它曾經屬於Marcy的姐妹。"
+
+    old "I need to get a good look at the portrait of James the First..."
+    new "我得好好檢查一下James一世的肖像畫..."
+
+    old "Is there anything James is hiding?"
+    new "James隱瞞了什麼嗎？"
+
+    old "There is a vanity full of hand mirrors near the basement of the Hendricks mansion. The amount and variety of them is more than excessive."
+    new "Hendricks家的地窖附近有一個裝滿了手鏡的梳妝檯，無論數量還是種類都異常可觀。"
+
+    old "The Hendricks house has hollow walls that the owners claim not to understand, entirely. The painting at the top of the stairs in the foyer has hinges."
+    new "James家裡有一堵空心的牆，他們聲稱自己毫不知情。門廳的樓梯頂部掛著一副裝有鉸鏈的畫。"

@@ -11331,7 +11331,7 @@ translate Tchinese nikroute3a_c166b918_1:
 translate Tchinese nikroute3a_aaf1ba63:
 
     # bk "\"Were you paid to plant an explosive?\""
-    bk "“有人付你錢，讓你對炸藥動手腳嗎？”"
+    bk "“是有人付你錢，讓你對炸藥動手腳嗎？”"
 
 # game/nikroute3.rpy:3696
 translate Tchinese nikroute3a_67aaa788:
@@ -18637,4 +18637,4 @@ translate Tchinese nikroute3a_cd985598:
 translate Tchinese nikroute3a_046a4813:
 
     # "Felipe is waving back in the distance, carrying a sign of James III eating money."
-    "Felipe在遠處招手回應，手上正拿著一幅畫著James三世在吃紙鈔的牌子。"
+    "Felipe在遠處招手回應，他舉著一個James三世吃紙鈔的牌子。"

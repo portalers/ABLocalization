@@ -374,6 +374,10 @@ translate Tchinese strings:
     old "Close"
     new "  關閉"
 
+    #對筆記進行美化
+    old "Notebook updated."
+    new "筆記已更新"
+
     # game/options.rpy:38
     old "The Smoke Room was made possible thanks to our generous supporters on {a=https://patreon.com/EchoGame}Patreon{/a}.\n\n{color=#d9bc8b}A full credits list can be viewed at the end of the game.{/color}\n\nThe Smoke Room ©2022 Echo Project. All rights reserved."
     new "感謝{a=https://www.patreon.com/EchoGame}Patreon{/a}上贊助者們的慷慨支持，沒有你們，就沒有The Smoke Room。\n\n{color=#d9bc8b}遊戲結尾附有完整版贊助者名單。{/color}\n\nThe Smoke Room ©2022 Echo Project. 保留所有解釋權。"
