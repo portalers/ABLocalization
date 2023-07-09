@@ -5160,5 +5160,5 @@ translate Schinese a3s2_14fa146d:
 translate Schinese a3s2_d0141ab9:
 
     # "But that will be a long ways away, he's sure."
-    "他确信，前路还很漫长。"
+    "未来的路还很漫长。"
 
