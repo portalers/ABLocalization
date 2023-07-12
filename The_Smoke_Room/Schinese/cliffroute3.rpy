@@ -8977,3 +8977,7079 @@ translate Schinese strings:
     old "Why is there only enough local business for one store?"
     new "一家店能满足当地所有人吗？"
 
+# TODO: Translation updated at 2023-07-11 15:31
+
+# game/cliffroute3.rpy:2575
+translate Schinese cliffroute3a_d14e6723:
+
+    # "I try to sleep in spite of the pain and the anxiety."
+    "I try to sleep in spite of the pain and the anxiety."
+
+# game/cliffroute3.rpy:2576
+translate Schinese cliffroute3a_d0129ca3:
+
+    # "The bugs chirping outside sound uncomfortably close, like there ain’t much separating us besides stacked logs and flimsy glass."
+    "The bugs chirping outside sound uncomfortably close, like there ain’t much separating us besides stacked logs and flimsy glass."
+
+# game/cliffroute3.rpy:2577
+translate Schinese cliffroute3a_09b0b262:
+
+    # "I try not to listen to anything, lest I hear something I shouldn’t."
+    "I try not to listen to anything, lest I hear something I shouldn’t."
+
+# game/cliffroute3.rpy:2580
+translate Schinese cliffroute3a_e7a319d8:
+
+    # "I hear soft snores coming from the fox on the chair."
+    "I hear soft snores coming from the fox on the chair."
+
+# game/cliffroute3.rpy:2581
+translate Schinese cliffroute3a_8eb79ad6:
+
+    # "I’m impressed that he can sleep sitting up, but I guess I shouldn’t be surprised."
+    "I’m impressed that he can sleep sitting up, but I guess I shouldn’t be surprised."
+
+# game/cliffroute3.rpy:2582
+translate Schinese cliffroute3a_432f38ae:
+
+    # "He’s still holding his gun."
+    "He’s still holding his gun."
+
+# game/cliffroute3.rpy:2583
+translate Schinese cliffroute3a_a36e5303:
+
+    # "Now that I think about it, I thought they confiscated any weapons at the gate."
+    "Now that I think about it, I thought they confiscated any weapons at the gate."
+
+# game/cliffroute3.rpy:2584
+translate Schinese cliffroute3a_decf7270:
+
+    # "Glad they didn’t or I’d most likely be dead."
+    "Glad they didn’t or I’d most likely be dead."
+
+# game/cliffroute3.rpy:2586
+translate Schinese cliffroute3a_2397e00b:
+
+    # "I shuffle against the fur blanket on the couch and turn my head away from the window, trying to sleep again."
+    "I shuffle against the fur blanket on the couch and turn my head away from the window, trying to sleep again."
+
+# game/cliffroute3.rpy:2587
+translate Schinese cliffroute3a_0a6627a1:
+
+    # "I feel heavier."
+    "I feel heavier."
+
+# game/cliffroute3.rpy:2589
+translate Schinese cliffroute3a_5c4df6e8:
+
+    # "My eyelids droop and my chest heaves heavier."
+    "My eyelids droop and my chest heaves heavier."
+
+# game/cliffroute3.rpy:2590
+translate Schinese cliffroute3a_658456c7:
+
+    # "I sink deeper into the couch, thinking of one of Benton’s piano pieces back at the hip to drown out the sound of the bugs and taps of wood against the glass."
+    "I sink deeper into the couch, thinking of one of Benton’s piano pieces back at the hip to drown out the sound of the bugs and taps of wood against the glass."
+
+# game/cliffroute3.rpy:2591
+translate Schinese cliffroute3a_ebad492e:
+
+    # "I exhale."
+    "I exhale."
+
+# game/cliffroute3.rpy:2596
+translate Schinese cliffroute3a_25669ba3:
+
+    # "I’m awake."
+    "I’m awake."
+
+# game/cliffroute3.rpy:2597
+translate Schinese cliffroute3a_666ccae9:
+
+    # "And I feel hot, bubbling pain on my leg that fades, quickly."
+    "And I feel hot, bubbling pain on my leg that fades, quickly."
+
+# game/cliffroute3.rpy:2598
+translate Schinese cliffroute3a_8d437ad2:
+
+    # "When I look down I see a welt on my foot that might be an insect bite."
+    "When I look down I see a welt on my foot that might be an insect bite."
+
+# game/cliffroute3.rpy:2599
+translate Schinese cliffroute3a_0a99c273:
+
+    # "I’m worried it could be venomous because I didn’t see what did it."
+    "I’m worried it could be venomous because I didn’t see what did it."
+
+# game/cliffroute3.rpy:2600
+translate Schinese cliffroute3a_054f993d:
+
+    # "But it’s just itchy for now."
+    "But it’s just itchy for now."
+
+# game/cliffroute3.rpy:2601
+translate Schinese cliffroute3a_6f6e8383:
+
+    # "I don’t hear Tsela snoring anymore."
+    "I don’t hear Tsela snoring anymore."
+
+# game/cliffroute3.rpy:2602
+translate Schinese cliffroute3a_4e57dbfb:
+
+    # "I probably woke him up when I shook the couch."
+    "I probably woke him up when I shook the couch."
+
+# game/cliffroute3.rpy:2606
+translate Schinese cliffroute3a_b2f6b3b0:
+
+    # "Looking at the chair, I can see that he’s sitting there."
+    "Looking at the chair, I can see that he’s sitting there."
+
+# game/cliffroute3.rpy:2610
+translate Schinese cliffroute3a_0fa5ec5a:
+
+    # ts "\"Trouble sleeping?\""
+    ts "\"Trouble sleeping?\""
+
+# game/cliffroute3.rpy:2614
+translate Schinese cliffroute3a_4395c76d:
+
+    # "I have to wait to let my eyes adjust to the dark."
+    "I have to wait to let my eyes adjust to the dark."
+
+# game/cliffroute3.rpy:2615
+translate Schinese cliffroute3a_c806ebc0:
+
+    # m "\"Yeah.\""
+    m "\"Yeah.\""
+
+# game/cliffroute3.rpy:2619
+translate Schinese cliffroute3a_dc9a648a:
+
+    # ts "\"Losing sleep is a terrible thing.\""
+    ts "\"Losing sleep is a terrible thing.\""
+
+# game/cliffroute3.rpy:2626
+translate Schinese cliffroute3a_44077cde:
+
+    # ts "\"Some people say you never can get it back after you lose it.\""
+    ts "\"Some people say you never can get it back after you lose it.\""
+
+# game/cliffroute3.rpy:2630
+translate Schinese cliffroute3a_e88b9209:
+
+    # "I think I can just barely make out the shape of his snout moving."
+    "I think I can just barely make out the shape of his snout moving."
+
+# game/cliffroute3.rpy:2634
+translate Schinese cliffroute3a_c50bd2ab:
+
+    # ts "\"Bits of your brain just get strained and scrambled, and you just never get all of it back.\""
+    ts "\"Bits of your brain just get strained and scrambled, and you just never get all of it back.\""
+
+# game/cliffroute3.rpy:2638
+translate Schinese cliffroute3a_c89cb795:
+
+    # m "\"You’re not really helping me get to sleep.\""
+    m "\"You’re not really helping me get to sleep.\""
+
+# game/cliffroute3.rpy:2642
+translate Schinese cliffroute3a_e8b8b79f:
+
+    # ts "\"Who says I want to?\""
+    ts "\"Who says I want to?\""
+
+# game/cliffroute3.rpy:2646
+translate Schinese cliffroute3a_ad9cf2a9:
+
+    # ts "\"Maybe I just want to talk right now.\""
+    ts "\"Maybe I just want to talk right now.\""
+
+# game/cliffroute3.rpy:2650
+translate Schinese cliffroute3a_c2b1931b:
+
+    # m "\"I feel like that’s surprising, considerin’ you rarely want to talk.\""
+    m "\"I feel like that’s surprising, considerin’ you rarely want to talk.\""
+
+# game/cliffroute3.rpy:2652
+translate Schinese cliffroute3a_429584fe:
+
+    # "I hear the chair creak as he adjusts himself in it."
+    "I hear the chair creak as he adjusts himself in it."
+
+# game/cliffroute3.rpy:2654
+translate Schinese cliffroute3a_9b156b4e:
+
+    # "I can’t see what he’s doing, but he’s moving around."
+    "I can’t see what he’s doing, but he’s moving around."
+
+# game/cliffroute3.rpy:2661
+translate Schinese cliffroute3a_91edc70d:
+
+    # ts "\"I hadn’t asked if you’re much of a smoker.\""
+    ts "\"I hadn’t asked if you’re much of a smoker.\""
+
+# game/cliffroute3.rpy:2665
+translate Schinese cliffroute3a_01fbb0c8:
+
+    # m "\"I smoke from time to time.\""
+    m "\"I smoke from time to time.\""
+
+# game/cliffroute3.rpy:2669
+translate Schinese cliffroute3a_7ce806bf:
+
+    # ts "\"Y’know some folks say it’ll kill ya faster.\""
+    ts "\"Y’know some folks say it’ll kill ya faster.\""
+
+# game/cliffroute3.rpy:2676
+translate Schinese cliffroute3a_c9512dd5:
+
+    # ts "\"But there’s a whole lot of ways to die.\""
+    ts "\"But there’s a whole lot of ways to die.\""
+
+# game/cliffroute3.rpy:2680
+translate Schinese cliffroute3a_001d4ed6:
+
+    # ts "\"Best to enjoy yourself while you can, right?\""
+    ts "\"Best to enjoy yourself while you can, right?\""
+
+# game/cliffroute3.rpy:2681
+translate Schinese cliffroute3a_d119ae56:
+
+    # "I don’t know what he wants me to say."
+    "I don’t know what he wants me to say."
+
+# game/cliffroute3.rpy:2682
+translate Schinese cliffroute3a_9788f6f8:
+
+    # m "\"...Right.\""
+    m "\"...Right.\""
+
+# game/cliffroute3.rpy:2689
+translate Schinese cliffroute3a_95145bd2:
+
+    # ts "\"You’re a bit of a pervert, aren’t you?\""
+    ts "\"You’re a bit of a pervert, aren’t you?\""
+
+# game/cliffroute3.rpy:2693
+translate Schinese cliffroute3a_c7944f8f:
+
+    # m "\"...What?\""
+    m "\"...What?\""
+
+# game/cliffroute3.rpy:2697
+translate Schinese cliffroute3a_c55a866f:
+
+    # ts "\"I mean you’ve seen plenty of things you’re not supposed to see.\""
+    ts "\"I mean you’ve seen plenty of things you’re not supposed to see.\""
+
+# game/cliffroute3.rpy:2704
+translate Schinese cliffroute3a_c5db00c1:
+
+    # ts "\"And put your hands and mouth in all sorts of places.\""
+    ts "\"And put your hands and mouth in all sorts of places.\""
+
+# game/cliffroute3.rpy:2708
+translate Schinese cliffroute3a_565d9b49:
+
+    # "His tone is stern."
+    "His tone is stern."
+
+# game/cliffroute3.rpy:2712
+translate Schinese cliffroute3a_f067c00d:
+
+    # ts "\"And you put your mind and body at the mercy of others, day after day.\""
+    ts "\"And you put your mind and body at the mercy of others, day after day.\""
+
+# game/cliffroute3.rpy:2716
+translate Schinese cliffroute3a_6df541f8:
+
+    # m "\"...How’s any of that your business?\""
+    m "\"...How’s any of that your business?\""
+
+# game/cliffroute3.rpy:2720
+translate Schinese cliffroute3a_17a4db97:
+
+    # ts "\"Because I’m all too familiar with that sort of person, Mr. Ayers.\""
+    ts "\"Because I’m all too familiar with that sort of person, Mr. Ayers.\""
+
+# game/cliffroute3.rpy:2725
+translate Schinese cliffroute3a_48135abd:
+
+    # "He’s looking at me, and his eyes are open."
+    "He’s looking at me, and his eyes are open."
+
+# game/cliffroute3.rpy:2726
+translate Schinese cliffroute3a_d83b3791:
+
+    # "But something’s wrong."
+    "But something’s wrong."
+
+# game/cliffroute3.rpy:2727
+translate Schinese cliffroute3a_c7f336de:
+
+    # "His eyes look like dark glass, but there’s nothing much inside them."
+    "His eyes look like dark glass, but there’s nothing much inside them."
+
+# game/cliffroute3.rpy:2728
+translate Schinese cliffroute3a_2caed43d:
+
+    # "Nothing much but small lights, shining brightly, burning far far away."
+    "Nothing much but small lights, shining brightly, burning far far away."
+
+# game/cliffroute3.rpy:2729
+translate Schinese cliffroute3a_64b451d9:
+
+    # "I think for a second that it must be his reflection, but I remember the windows are closed."
+    "I think for a second that it must be his reflection, but I remember the windows are closed."
+
+# game/cliffroute3.rpy:2730
+translate Schinese cliffroute3a_c541ca83:
+
+    # "The longer I look at him, the harder it is to make out anything else than the shine of his teeth and the glint of his eyes."
+    "The longer I look at him, the harder it is to make out anything else than the shine of his teeth and the glint of his eyes."
+
+# game/cliffroute3.rpy:2734
+translate Schinese cliffroute3a_d420366c:
+
+    # nts "\"Where am I?\""
+    nts "\"Where am I?\""
+
+# game/cliffroute3.rpy:2738
+translate Schinese cliffroute3a_40b35f56:
+
+    # "Whatever is shining must be coming from inside him."
+    "Whatever is shining must be coming from inside him."
+
+# game/cliffroute3.rpy:2739
+translate Schinese cliffroute3a_fef3ddfd:
+
+    # m "\"What kind of a stupid question is that?\""
+    m "\"What kind of a stupid question is that?\""
+
+# game/cliffroute3.rpy:2740
+translate Schinese cliffroute3a_ab2ccb60:
+
+    # m "\"This is your house, ain’t it?\""
+    m "\"This is your house, ain’t it?\""
+
+# game/cliffroute3.rpy:2741
+translate Schinese cliffroute3a_efe16d95:
+
+    # "Somehow I know it’s not his house."
+    "Somehow I know it’s not his house."
+
+# game/cliffroute3.rpy:2742
+translate Schinese cliffroute3a_90900828:
+
+    # "Because, somehow, I know that whoever I’m talkin’ to ain't Tsela."
+    "Because, somehow, I know that whoever I’m talkin’ to ain't Tsela."
+
+# game/cliffroute3.rpy:2743
+translate Schinese cliffroute3a_289dc990:
+
+    # "I want to play along, without making any sudden moves, like this is a dream and I’ll wake up soon."
+    "I want to play along, without making any sudden moves, like this is a dream and I’ll wake up soon."
+
+# game/cliffroute3.rpy:2744
+translate Schinese cliffroute3a_25f79825:
+
+    # "But he looks left, then right, then towards me again."
+    "But he looks left, then right, then towards me again."
+
+# game/cliffroute3.rpy:2748
+translate Schinese cliffroute3a_a6bb51f1:
+
+    # nts "\"I’ve never been here before.\""
+    nts "\"I’ve never been here before.\""
+
+# game/cliffroute3.rpy:2755
+translate Schinese cliffroute3a_1170189d:
+
+    # nts "\"But I followed something, and now I am.\""
+    nts "\"But I followed something, and now I am.\""
+
+# game/cliffroute3.rpy:2759
+translate Schinese cliffroute3a_5ba58047:
+
+    # m "\"Did you follow me?\""
+    m "\"Did you follow me?\""
+
+# game/cliffroute3.rpy:2763
+translate Schinese cliffroute3a_7cb4e001:
+
+    # "He, or it, hums softly."
+    "He, or it, hums softly."
+
+# game/cliffroute3.rpy:2767
+translate Schinese cliffroute3a_9b2695c9:
+
+    # nts "\"Perhaps not.\""
+    nts "\"Perhaps not.\""
+
+# game/cliffroute3.rpy:2774
+translate Schinese cliffroute3a_ba5b0695:
+
+    # nts "\"There’s already somebody following you.\""
+    nts "\"There’s already somebody following you.\""
+
+# game/cliffroute3.rpy:2781
+translate Schinese cliffroute3a_d7da99cb:
+
+    # nts "\"Will he speak?\""
+    nts "\"Will he speak?\""
+
+# game/cliffroute3.rpy:2785
+translate Schinese cliffroute3a_41686ba5:
+
+    # "He lets out a one-note laugh."
+    "He lets out a one-note laugh."
+
+# game/cliffroute3.rpy:2789
+translate Schinese cliffroute3a_b30f0850:
+
+    # nts "\"Too shy?\""
+    nts "\"Too shy?\""
+
+# game/cliffroute3.rpy:2796
+translate Schinese cliffroute3a_92fa0e78:
+
+    # nts "\"Oh well.\""
+    nts "\"Oh well.\""
+
+# game/cliffroute3.rpy:2803
+translate Schinese cliffroute3a_77fba8da:
+
+    # nts "\"You though.\""
+    nts "\"You though.\""
+
+# game/cliffroute3.rpy:2807
+translate Schinese cliffroute3a_69a98dca:
+
+    # "He nods his snout."
+    "He nods his snout."
+
+# game/cliffroute3.rpy:2811
+translate Schinese cliffroute3a_2c53eec6:
+
+    # nts "\"I do know you though.\""
+    nts "\"I do know you though.\""
+
+# game/cliffroute3.rpy:2818
+translate Schinese cliffroute3a_98bce669:
+
+    # nts "\"I’ve seen you plenty.\""
+    nts "\"I’ve seen you plenty.\""
+
+# game/cliffroute3.rpy:2822
+translate Schinese cliffroute3a_7ee237fb:
+
+    # m "\"Where?\""
+    m "\"Where?\""
+
+# game/cliffroute3.rpy:2823
+translate Schinese cliffroute3a_9d1135d6:
+
+    # "He tilts his head."
+    "He tilts his head."
+
+# game/cliffroute3.rpy:2825
+translate Schinese cliffroute3a_17749477:
+
+    # nts "\"Don’t you mean where and when?\""
+    nts "\"Don’t you mean where and when?\""
+
+# game/cliffroute3.rpy:2829
+translate Schinese cliffroute3a_79f0884b:
+
+    # nts "\"I don’t suppose it matters.\""
+    nts "\"I don’t suppose it matters.\""
+
+# game/cliffroute3.rpy:2836
+translate Schinese cliffroute3a_b7fda492:
+
+    # nts "\"It’s never fair what happens to us, though, is it?\""
+    nts "\"It’s never fair what happens to us, though, is it?\""
+
+# game/cliffroute3.rpy:2840
+translate Schinese cliffroute3a_878a2195:
+
+    # "He laughs again."
+    "He laughs again."
+
+# game/cliffroute3.rpy:2841
+translate Schinese cliffroute3a_3768b940:
+
+    # "It’s something that sounds like choking more than laughter."
+    "It’s something that sounds like choking more than laughter."
+
+# game/cliffroute3.rpy:2845
+translate Schinese cliffroute3a_d6846fd9:
+
+    # nts "\"You tell me so every time I meet you.\""
+    nts "\"You tell me so every time I meet you.\""
+
+# game/cliffroute3.rpy:2849
+translate Schinese cliffroute3a_2d80a64c:
+
+    # m "\"I haven’t met you before.\""
+    m "\"I haven’t met you before.\""
+
+# game/cliffroute3.rpy:2853
+translate Schinese cliffroute3a_7685d287:
+
+    # nts "\"Oh, I’ve met you.\""
+    nts "\"Oh, I’ve met you.\""
+
+# game/cliffroute3.rpy:2860
+translate Schinese cliffroute3a_0f04145e:
+
+    # nts "\"Unfair, unfair, unfair.\""
+    nts "\"Unfair, unfair, unfair.\""
+
+# game/cliffroute3.rpy:2867
+translate Schinese cliffroute3a_96089530:
+
+    # nts "\"That’s your tune every time I meet you, isn’t it?\""
+    nts "\"That’s your tune every time I meet you, isn’t it?\""
+
+# game/cliffroute3.rpy:2871
+translate Schinese cliffroute3a_525fc2ef:
+
+    # "He takes something out of his pocket."
+    "He takes something out of his pocket."
+
+# game/cliffroute3.rpy:2873
+translate Schinese cliffroute3a_624bf6d8:
+
+    # "I hear a flicking sound."
+    "I hear a flicking sound."
+
+# game/cliffroute3.rpy:2874
+translate Schinese cliffroute3a_6b65dc56:
+
+    # "In the low light, I can see it swinging."
+    "In the low light, I can see it swinging."
+
+# game/cliffroute3.rpy:2879
+translate Schinese cliffroute3a_e0e466df:
+
+    # nts "\"You always have the gall to say it to me.\""
+    nts "\"You always have the gall to say it to me.\""
+
+# game/cliffroute3.rpy:2886
+translate Schinese cliffroute3a_1ef1f01c:
+
+    # nts "\"In spite of your wealth of choices.\""
+    nts "\"In spite of your wealth of choices.\""
+
+# game/cliffroute3.rpy:2893
+translate Schinese cliffroute3a_fc777dbf:
+
+    # nts "\"And my lack of them.\""
+    nts "\"And my lack of them.\""
+
+# game/cliffroute3.rpy:2900
+translate Schinese cliffroute3a_a07ad4e4:
+
+    # nts "\"But you choose so poorly, so many times.\""
+    nts "\"But you choose so poorly, so many times.\""
+
+# game/cliffroute3.rpy:2904
+translate Schinese cliffroute3a_f46ca116:
+
+    # m "\"Who are you?\""
+    m "\"Who are you?\""
+
+# game/cliffroute3.rpy:2908
+translate Schinese cliffroute3a_1da349a5:
+
+    # nts "\"It doesn’t matter.\""
+    nts "\"It doesn’t matter.\""
+
+# game/cliffroute3.rpy:2915
+translate Schinese cliffroute3a_f72e18dc:
+
+    # nts "\"I’m tired of telling you.\""
+    nts "\"I’m tired of telling you.\""
+
+# game/cliffroute3.rpy:2919
+translate Schinese cliffroute3a_3ac219ba:
+
+    # m "\"Why are you here?\""
+    m "\"Why are you here?\""
+
+# game/cliffroute3.rpy:2920
+translate Schinese cliffroute3a_f5a3b597:
+
+    # m "\"What do you want with me?\""
+    m "\"What do you want with me?\""
+
+# game/cliffroute3.rpy:2924
+translate Schinese cliffroute3a_a2d1717b:
+
+    # nts "\"I suppose you’re still not very smart yet.\""
+    nts "\"I suppose you’re still not very smart yet.\""
+
+# game/cliffroute3.rpy:2931
+translate Schinese cliffroute3a_5552f656:
+
+    # nts "\"I already told you.\""
+    nts "\"I already told you.\""
+
+# game/cliffroute3.rpy:2938
+translate Schinese cliffroute3a_a269556b:
+
+    # nts "\"I’m not here for any reason I can tell you.\""
+    nts "\"I’m not here for any reason I can tell you.\""
+
+# game/cliffroute3.rpy:2945
+translate Schinese cliffroute3a_a76fceb9:
+
+    # nts "\"That would, again, imply I had a choice.\""
+    nts "\"That would, again, imply I had a choice.\""
+
+# game/cliffroute3.rpy:2952
+translate Schinese cliffroute3a_bcb36c9c:
+
+    # nts "\"I’m just here to ride the wave.\""
+    nts "\"I’m just here to ride the wave.\""
+
+# game/cliffroute3.rpy:2957
+translate Schinese cliffroute3a_6b7c37e7:
+
+    # "He closes the knife and looks at his hands."
+    "He closes the knife and looks at his hands."
+
+# game/cliffroute3.rpy:2962
+translate Schinese cliffroute3a_90530d67:
+
+    # nts "\"These look like my hands.\""
+    nts "\"These look like my hands.\""
+
+# game/cliffroute3.rpy:2969
+translate Schinese cliffroute3a_56838866:
+
+    # nts "\"But I know that they aren’t.\""
+    nts "\"But I know that they aren’t.\""
+
+# game/cliffroute3.rpy:2976
+translate Schinese cliffroute3a_bdc6e447:
+
+    # nts "\"I haven’t ever seen them before.\""
+    nts "\"I haven’t ever seen them before.\""
+
+# game/cliffroute3.rpy:2980
+translate Schinese cliffroute3a_5b555d87:
+
+    # "For a moment he smiles."
+    "For a moment he smiles."
+
+# game/cliffroute3.rpy:2984
+translate Schinese cliffroute3a_a208ec1e:
+
+    # nts "\"Maybe things will be different this time.\""
+    nts "\"Maybe things will be different this time.\""
+
+# game/cliffroute3.rpy:2994
+translate Schinese cliffroute3a_ed4f267a:
+
+    # "He blinks with both of his eyes and the lights go out."
+    "He blinks with both of his eyes and the lights go out."
+
+# game/cliffroute3.rpy:2999
+translate Schinese cliffroute3a_80d97dd3:
+
+    # ts "\"Why are you awake?\""
+    ts "\"Why are you awake?\""
+
+# game/cliffroute3.rpy:3003
+translate Schinese cliffroute3a_8fb09003:
+
+    # m "\"...what?\""
+    m "\"...what?\""
+
+# game/cliffroute3.rpy:3007
+translate Schinese cliffroute3a_a693720f:
+
+    # ts "\"You should be sleeping.\""
+    ts "\"You should be sleeping.\""
+
+# game/cliffroute3.rpy:3011
+translate Schinese cliffroute3a_d4d71884:
+
+    # m "\"I thought I was.\""
+    m "\"I thought I was.\""
+
+# game/cliffroute3.rpy:3015
+translate Schinese cliffroute3a_b4014542:
+
+    # ts "\"You’re sitting up and staring at me in the dark like I’m a meal.\""
+    ts "\"You’re sitting up and staring at me in the dark like I’m a meal.\""
+
+# game/cliffroute3.rpy:3019
+translate Schinese cliffroute3a_cccbca0a:
+
+    # m "\"We were talking...\""
+    m "\"We were talking...\""
+
+# game/cliffroute3.rpy:3020
+translate Schinese cliffroute3a_1535740a:
+
+    # m "\"We are talking and you were asleep.\""
+    m "\"We are talking and you were asleep.\""
+
+# game/cliffroute3.rpy:3024
+translate Schinese cliffroute3a_d8ba18db:
+
+    # ts "\"I do not talk in my sleep.\""
+    ts "\"I do not talk in my sleep.\""
+
+# game/cliffroute3.rpy:3031
+translate Schinese cliffroute3a_d1131d4a:
+
+    # ts "\"Yiska or Avery would have told me.\""
+    ts "\"Yiska or Avery would have told me.\""
+
+# game/cliffroute3.rpy:3035
+translate Schinese cliffroute3a_2cd5ad3b:
+
+    # m "\"Hey.\""
+    m "\"Hey.\""
+
+# game/cliffroute3.rpy:3036
+translate Schinese cliffroute3a_1fc52035:
+
+    # "I hear a growl in my own voice."
+    "I hear a growl in my own voice."
+
+# game/cliffroute3.rpy:3040
+translate Schinese cliffroute3a_2f4d96c9:
+
+    # m "\"I ain’t makin’ shit up.\""
+    m "\"I ain’t makin’ shit up.\""
+
+# game/cliffroute3.rpy:3044
+translate Schinese cliffroute3a_67c971da:
+
+    # ts "\"I’m sure you don’t think you are.\""
+    ts "\"I’m sure you don’t think you are.\""
+
+# game/cliffroute3.rpy:3051
+translate Schinese cliffroute3a_e23212ad:
+
+    # ts "\"You’re injured and lack restful sleep.\""
+    ts "\"You’re injured and lack restful sleep.\""
+
+# game/cliffroute3.rpy:3058
+translate Schinese cliffroute3a_43b4da63:
+
+    # ts "\"Close your eyes and do not speak any more of this until the morning if you want to stay here.\""
+    ts "\"Close your eyes and do not speak any more of this until the morning if you want to stay here.\""
+
+# game/cliffroute3.rpy:3062
+translate Schinese cliffroute3a_cbfff975:
+
+    # "I bite my lip."
+    "I bite my lip."
+
+# game/cliffroute3.rpy:3063
+translate Schinese cliffroute3a_ea4126b9:
+
+    # "His home, his rules."
+    "His home, his rules."
+
+# game/cliffroute3.rpy:3064
+translate Schinese cliffroute3a_8aeebcbb:
+
+    # "I’m more than used to that concept."
+    "I’m more than used to that concept."
+
+# game/cliffroute3.rpy:3068
+translate Schinese cliffroute3a_f0bbf3bb:
+
+    # "I try closing my eyes a few times."
+    "I try closing my eyes a few times."
+
+# game/cliffroute3.rpy:3069
+translate Schinese cliffroute3a_b6fe3234:
+
+    # "And I feel myself slipping away."
+    "And I feel myself slipping away."
+
+# game/cliffroute3.rpy:3073
+translate Schinese cliffroute3a_90085b6d:
+
+    # "There’s birds outside."
+    "There’s birds outside."
+
+# game/cliffroute3.rpy:3074
+translate Schinese cliffroute3a_3149b217:
+
+    # "Noisy little fuckers."
+    "Noisy little fuckers."
+
+# game/cliffroute3.rpy:3081
+translate Schinese cliffroute3a_5d93da7b:
+
+    # "Pots and pans clang behind me and I can turn to see Tsela mill about his kitchen."
+    "Pots and pans clang behind me and I can turn to see Tsela mill about his kitchen."
+
+# game/cliffroute3.rpy:3083
+translate Schinese cliffroute3a_430f5b94:
+
+    # "I smell fried eggs and hear him chopping something fast."
+    "I smell fried eggs and hear him chopping something fast."
+
+# game/cliffroute3.rpy:3085
+translate Schinese cliffroute3a_96839378:
+
+    # "He cups a handful of tubers and tosses it into a pan, making it sizzle."
+    "He cups a handful of tubers and tosses it into a pan, making it sizzle."
+
+# game/cliffroute3.rpy:3089
+translate Schinese cliffroute3a_42c1883a:
+
+    # ts "\"Good. You’re awake.\""
+    ts "\"Good. You’re awake.\""
+
+# game/cliffroute3.rpy:3093
+translate Schinese cliffroute3a_7b15432b:
+
+    # "He puts a plate on the end table neat the couch."
+    "He puts a plate on the end table neat the couch."
+
+# game/cliffroute3.rpy:3095
+translate Schinese cliffroute3a_2b0fa147:
+
+    # ts "\"Eat.\""
+    ts "\"Eat.\""
+
+# game/cliffroute3.rpy:3097
+translate Schinese cliffroute3a_f5b4d03e:
+
+    # "The warm scent of wilted greens, fried starch and fatty fish hits my face."
+    "The warm scent of wilted greens, fried starch and fatty fish hits my face."
+
+# game/cliffroute3.rpy:3099
+translate Schinese cliffroute3a_599ec247:
+
+    # m "\"It smells delicious, but I think I might need to go.\""
+    m "\"It smells delicious, but I think I might need to go.\""
+
+# game/cliffroute3.rpy:3101
+translate Schinese cliffroute3a_b542e9d0:
+
+    # ts "\"It’s light outside, so it’s safe to go.\""
+    ts "\"It’s light outside, so it’s safe to go.\""
+
+# game/cliffroute3.rpy:3103
+translate Schinese cliffroute3a_67e6b75f:
+
+    # "I nod and make the motion to stand."
+    "I nod and make the motion to stand."
+
+# game/cliffroute3.rpy:3106
+translate Schinese cliffroute3a_ee378aaa:
+
+    # "He looks at me with a doubtful face as a sharp feeling stabs through my leg."
+    "He looks at me with a doubtful face as a sharp feeling stabs through my leg."
+
+# game/cliffroute3.rpy:3107
+translate Schinese cliffroute3a_d5af6f0b:
+
+    # m "\"SHIT!\""
+    m "\"SHIT!\""
+
+# game/cliffroute3.rpy:3110
+translate Schinese cliffroute3a_ba10a6d5:
+
+    # ts "\"Looks to me like you’re still not going anywhere.\""
+    ts "\"Looks to me like you’re still not going anywhere.\""
+
+# game/cliffroute3.rpy:3113
+translate Schinese cliffroute3a_2b0fa147_1:
+
+    # ts "\"Eat.\""
+    ts "\"Eat.\""
+
+# game/cliffroute3.rpy:3115
+translate Schinese cliffroute3a_95fce350:
+
+    # "He knew this is what would happen."
+    "He knew this is what would happen."
+
+# game/cliffroute3.rpy:3117
+translate Schinese cliffroute3a_2c83776f:
+
+    # "I shoot him a dirty look while I shovel a bit of runny egg and squash into my mouth."
+    "I shoot him a dirty look while I shovel a bit of runny egg and squash into my mouth."
+
+# game/cliffroute3.rpy:3119
+translate Schinese cliffroute3a_639fa41e:
+
+    # "He finished his meal very quickly without talking."
+    "He finished his meal very quickly without talking."
+
+# game/cliffroute3.rpy:3121
+translate Schinese cliffroute3a_9b06ed3d:
+
+    # "Then he stands."
+    "Then he stands."
+
+# game/cliffroute3.rpy:3123
+translate Schinese cliffroute3a_d95c1d25:
+
+    # ts "\"I’m going to get Avery.\""
+    ts "\"I’m going to get Avery.\""
+
+# game/cliffroute3.rpy:3127
+translate Schinese cliffroute3a_41d6ea3f:
+
+    # "Him?"
+    "Him?"
+
+# game/cliffroute3.rpy:3128
+translate Schinese cliffroute3a_60b44b8f:
+
+    # "Just the mention of his name makes me want to make sure I still have the map."
+    "Just the mention of his name makes me want to make sure I still have the map."
+
+# game/cliffroute3.rpy:3129
+translate Schinese cliffroute3a_6f75df75:
+
+    # "I don’t remember if I left it with my bags in Cliff’s room or not."
+    "I don’t remember if I left it with my bags in Cliff’s room or not."
+
+# game/cliffroute3.rpy:3131
+translate Schinese cliffroute3a_6674b6b5:
+
+    # "I guess if there’s anybody who can help me right now, it’s him."
+    "I guess if there’s anybody who can help me right now, it’s him."
+
+# game/cliffroute3.rpy:3133
+translate Schinese cliffroute3a_0cc5837c:
+
+    # ts "\"Don’t open the door for anybody, even if it sounds like me.\""
+    ts "\"Don’t open the door for anybody, even if it sounds like me.\""
+
+# game/cliffroute3.rpy:3136
+translate Schinese cliffroute3a_00201ee5:
+
+    # ts "\"I won’t need any help getting back in.\""
+    ts "\"I won’t need any help getting back in.\""
+
+# game/cliffroute3.rpy:3139
+translate Schinese cliffroute3a_b3749144:
+
+    # "I don’t think I could let anybody in even if I wanted to, unless I slid my way to the door."
+    "I don’t think I could let anybody in even if I wanted to, unless I slid my way to the door."
+
+# game/cliffroute3.rpy:3140
+translate Schinese cliffroute3a_fbc4188e:
+
+    # "All I wanted to do now was focus on finishing my breakfast."
+    "All I wanted to do now was focus on finishing my breakfast."
+
+# game/cliffroute3.rpy:3141
+translate Schinese cliffroute3a_cfff345b:
+
+    # "It was good, but the pain in my jaw and chest made it hard to swallow anything at first."
+    "It was good, but the pain in my jaw and chest made it hard to swallow anything at first."
+
+# game/cliffroute3.rpy:3143
+translate Schinese cliffroute3a_a788239e:
+
+    # "Then I check one of the bags on me."
+    "Then I check one of the bags on me."
+
+# game/cliffroute3.rpy:3144
+translate Schinese cliffroute3a_9b58d11c:
+
+    # "The map's there."
+    "The map's there."
+
+# game/cliffroute3.rpy:3146
+translate Schinese cliffroute3a_b6d7c936:
+
+    # "I open it up to make sure it isn’t damaged, and I breathe in relief when I see it isn’t."
+    "I open it up to make sure it isn’t damaged, and I breathe in relief when I see it isn’t."
+
+# game/cliffroute3.rpy:3149
+translate Schinese cliffroute3a_2cec8f49:
+
+    # "It’s not long before I hear scratching at the door."
+    "It’s not long before I hear scratching at the door."
+
+# game/cliffroute3.rpy:3151
+translate Schinese cliffroute3a_1ff62c11:
+
+    # "I flinch and scoot back when I see the door burst open."
+    "I flinch and scoot back when I see the door burst open."
+
+# game/cliffroute3.rpy:3154
+translate Schinese cliffroute3a_09cdf73d:
+
+    # "But it’s just the fox."
+    "But it’s just the fox."
+
+# game/cliffroute3.rpy:3156
+translate Schinese cliffroute3a_1808ddd9:
+
+    # "The elk follows him behind looking a little more dour than before."
+    "The elk follows him behind looking a little more dour than before."
+
+# game/cliffroute3.rpy:3160
+translate Schinese cliffroute3a_277b1f19:
+
+    # av "\"Well if it isn’t Mr. Tibbits’ bodyguard.\""
+    av "\"Well if it isn’t Mr. Tibbits’ bodyguard.\""
+
+# game/cliffroute3.rpy:3162
+translate Schinese cliffroute3a_6a20a80d:
+
+    # "I shake my head."
+    "I shake my head."
+
+# game/cliffroute3.rpy:3163
+translate Schinese cliffroute3a_8b6f791f:
+
+    # m "\"Just was for the journey here.\""
+    m "\"Just was for the journey here.\""
+
+# game/cliffroute3.rpy:3164
+translate Schinese cliffroute3a_5c06d810:
+
+    # m "\"I’m off the hook now.\""
+    m "\"I’m off the hook now.\""
+
+# game/cliffroute3.rpy:3166
+translate Schinese cliffroute3a_92a0c521:
+
+    # av "\"I hope he paid you well at least.\""
+    av "\"I hope he paid you well at least.\""
+
+# game/cliffroute3.rpy:3168
+translate Schinese cliffroute3a_967967e7:
+
+    # av "\"Bodyguarding’s a frightful business.\""
+    av "\"Bodyguarding’s a frightful business.\""
+
+# game/cliffroute3.rpy:3171
+translate Schinese cliffroute3a_a0659ed6:
+
+    # av "\"This isn’t the first time I’ve had to patch you up.\""
+    av "\"This isn’t the first time I’ve had to patch you up.\""
+
+# game/cliffroute3.rpy:3173
+translate Schinese cliffroute3a_46b7b77a:
+
+    # "I roll my eyes."
+    "I roll my eyes."
+
+# game/cliffroute3.rpy:3175
+translate Schinese cliffroute3a_271fbf62:
+
+    # "Tsela gives us both a suspicious look."
+    "Tsela gives us both a suspicious look."
+
+# game/cliffroute3.rpy:3176
+translate Schinese cliffroute3a_22ec16c3:
+
+    # "He doesn’t know what Avery is talking about."
+    "He doesn’t know what Avery is talking about."
+
+# game/cliffroute3.rpy:3179
+translate Schinese cliffroute3a_cbbc58fa:
+
+    # av "\"Now let’s see that leg.\""
+    av "\"Now let’s see that leg.\""
+
+# game/cliffroute3.rpy:3184
+translate Schinese cliffroute3a_f9084d70:
+
+    # "I pull up my pant leg and place it on the table."
+    "I pull up my pant leg and place it on the table."
+
+# game/cliffroute3.rpy:3186
+translate Schinese cliffroute3a_77f8cebe:
+
+    # "Avery’s eyes widen a little."
+    "Avery’s eyes widen a little."
+
+# game/cliffroute3.rpy:3188
+translate Schinese cliffroute3a_f7c6244b:
+
+    # av "\"Well I don’t think it’s broken but that’s definitely sprained.\""
+    av "\"Well I don’t think it’s broken but that’s definitely sprained.\""
+
+# game/cliffroute3.rpy:3191
+translate Schinese cliffroute3a_13303954:
+
+    # av "\"I have some cloth I can bind it with.\""
+    av "\"I have some cloth I can bind it with.\""
+
+# game/cliffroute3.rpy:3193
+translate Schinese cliffroute3a_95dfeeb8:
+
+    # m "\"Thanks, doc.\""
+    m "\"Thanks, doc.\""
+
+# game/cliffroute3.rpy:3196
+translate Schinese cliffroute3a_5680259b:
+
+    # av "\"I’m sorry to say that I didn’t bury a crutch in my bag.\""
+    av "\"I’m sorry to say that I didn’t bury a crutch in my bag.\""
+
+# game/cliffroute3.rpy:3198
+translate Schinese cliffroute3a_df13a7ef:
+
+    # "He shakes as he laughs at his own joke."
+    "He shakes as he laughs at his own joke."
+
+# game/cliffroute3.rpy:3200
+translate Schinese cliffroute3a_8da03963:
+
+    # m "\"...Thanks, doc.\""
+    m "\"...Thanks, doc.\""
+
+# game/cliffroute3.rpy:3202
+translate Schinese cliffroute3a_b91288fa:
+
+    # av "\"A good, sturdy walking stick will do you just fine if you don’t want somebody in town to whittle you something.\""
+    av "\"A good, sturdy walking stick will do you just fine if you don’t want somebody in town to whittle you something.\""
+
+# game/cliffroute3.rpy:3204
+translate Schinese cliffroute3a_9e2a3e63:
+
+    # av "\"If it doesn’t look better in a week or two you might need a closer look.\""
+    av "\"If it doesn’t look better in a week or two you might need a closer look.\""
+
+# game/cliffroute3.rpy:3206
+translate Schinese cliffroute3a_b5b6ace2:
+
+    # av "\"You can probably visit a real professional and get their opinions.\""
+    av "\"You can probably visit a real professional and get their opinions.\""
+
+# game/cliffroute3.rpy:3208
+translate Schinese cliffroute3a_aa63dd34:
+
+    # av "\"But I bet they’ll just charge you a pretty penny to say ‘keep it wrapped and don’t put pressure on it’.\""
+    av "\"But I bet they’ll just charge you a pretty penny to say ‘keep it wrapped and don’t put pressure on it’.\""
+
+# game/cliffroute3.rpy:3211
+translate Schinese cliffroute3a_f2a73540:
+
+    # av "\"Though something like that is mostly common sense.\""
+    av "\"Though something like that is mostly common sense.\""
+
+# game/cliffroute3.rpy:3213
+translate Schinese cliffroute3a_13da5331:
+
+    # "He gets out gauze and a pin from his bag and starts dressing my foot firmly, but not too tight."
+    "He gets out gauze and a pin from his bag and starts dressing my foot firmly, but not too tight."
+
+# game/cliffroute3.rpy:3216
+translate Schinese cliffroute3a_5016cdef:
+
+    # "Tsela retreats to the kitchen, cleaning pots and scraping waste into the fire."
+    "Tsela retreats to the kitchen, cleaning pots and scraping waste into the fire."
+
+# game/cliffroute3.rpy:3217
+translate Schinese cliffroute3a_d311cb77:
+
+    # "He looks and sounds a bit more cheerful than when he first came in."
+    "He looks and sounds a bit more cheerful than when he first came in."
+
+# game/cliffroute3.rpy:3219
+translate Schinese cliffroute3a_fd7e81eb:
+
+    # m "\"So...\""
+    m "\"So...\""
+
+# game/cliffroute3.rpy:3220
+translate Schinese cliffroute3a_ee19d0f9:
+
+    # m "\"What have you been doing around the settlement yesterday?\""
+    m "\"What have you been doing around the settlement yesterday?\""
+
+# game/cliffroute3.rpy:3222
+translate Schinese cliffroute3a_3511167b:
+
+    # "He grunts."
+    "He grunts."
+
+# game/cliffroute3.rpy:3224
+translate Schinese cliffroute3a_d846e560:
+
+    # av "\"Let’s not talk about such things in Yiska’s house.\""
+    av "\"Let’s not talk about such things in Yiska’s house.\""
+
+# game/cliffroute3.rpy:3226
+translate Schinese cliffroute3a_71da872e:
+
+    # "He stops as his eyes linger over my chest."
+    "He stops as his eyes linger over my chest."
+
+# game/cliffroute3.rpy:3228
+translate Schinese cliffroute3a_61dcb25d:
+
+    # av "\"Wow.\""
+    av "\"Wow.\""
+
+# game/cliffroute3.rpy:3231
+translate Schinese cliffroute3a_a9b0025e:
+
+    # av "\"Looks like you had a lot more excitement than me.\""
+    av "\"Looks like you had a lot more excitement than me.\""
+
+# game/cliffroute3.rpy:3234
+translate Schinese cliffroute3a_e21cd311:
+
+    # av "\"There’s a lot of small cuts I’m seeing too.\""
+    av "\"There’s a lot of small cuts I’m seeing too.\""
+
+# game/cliffroute3.rpy:3237
+translate Schinese cliffroute3a_b36932ba:
+
+    # av "\"And... larger bruises.\""
+    av "\"And... larger bruises.\""
+
+# game/cliffroute3.rpy:3240
+translate Schinese cliffroute3a_9fa4fefa:
+
+    # "He talks to Tsela in the Meseta language."
+    "He talks to Tsela in the Meseta language."
+
+# game/cliffroute3.rpy:3242
+translate Schinese cliffroute3a_15b9b61b:
+
+    # "Tsela shakes his head before responding with what sounds like only a few words."
+    "Tsela shakes his head before responding with what sounds like only a few words."
+
+# game/cliffroute3.rpy:3244
+translate Schinese cliffroute3a_48d839c2:
+
+    # av "\"So it was only the two of you together last night?\""
+    av "\"So it was only the two of you together last night?\""
+
+# game/cliffroute3.rpy:3246
+translate Schinese cliffroute3a_c806ebc0_1:
+
+    # m "\"Yeah.\""
+    m "\"Yeah.\""
+
+# game/cliffroute3.rpy:3247
+translate Schinese cliffroute3a_db62cd78:
+
+    # "He doesn’t say anything for a while as he keeps dressing my foot."
+    "He doesn’t say anything for a while as he keeps dressing my foot."
+
+# game/cliffroute3.rpy:3249
+translate Schinese cliffroute3a_291b0c8b:
+
+    # av "\"I was supposed to be back in Echo a few days ago.\""
+    av "\"I was supposed to be back in Echo a few days ago.\""
+
+# game/cliffroute3.rpy:3251
+translate Schinese cliffroute3a_9653bad5:
+
+    # av "\"Another delay is going to be bad.\""
+    av "\"Another delay is going to be bad.\""
+
+# game/cliffroute3.rpy:3253
+translate Schinese cliffroute3a_7600eccc:
+
+    # av "\"But I can’t go out after dark then there’s not much else I can do but wait.\""
+    av "\"But I can’t go out after dark then there’s not much else I can do but wait.\""
+
+# game/cliffroute3.rpy:3258
+translate Schinese cliffroute3a_8a3f1c90:
+
+    # ts "\"In two days I still plan to make the trip to Camp Rosa with Yiska.\""
+    ts "\"In two days I still plan to make the trip to Camp Rosa with Yiska.\""
+
+# game/cliffroute3.rpy:3260
+translate Schinese cliffroute3a_98b4ea2c:
+
+    # m "\"Are you still willing to take me?\""
+    m "\"Are you still willing to take me?\""
+
+# game/cliffroute3.rpy:3262
+translate Schinese cliffroute3a_52ac179a:
+
+    # ts "\"Going there shouldn’t be a problem with the size of our cart.\""
+    ts "\"Going there shouldn’t be a problem with the size of our cart.\""
+
+# game/cliffroute3.rpy:3265
+translate Schinese cliffroute3a_e8cf072f:
+
+    # ts "\"You’d have to ride.\""
+    ts "\"You’d have to ride.\""
+
+# game/cliffroute3.rpy:3268
+translate Schinese cliffroute3a_0697bfe7:
+
+    # ts "\"I don’t think you could keep up with us on foot.\""
+    ts "\"I don’t think you could keep up with us on foot.\""
+
+# game/cliffroute3.rpy:3271
+translate Schinese cliffroute3a_69e5fe47:
+
+    # ts "\"And it won’t be comfortable, but it will definitely be possible.\""
+    ts "\"And it won’t be comfortable, but it will definitely be possible.\""
+
+# game/cliffroute3.rpy:3273
+translate Schinese cliffroute3a_0699f6e7:
+
+    # m "\"The back of the cart it is, then.\""
+    m "\"The back of the cart it is, then.\""
+
+# game/cliffroute3.rpy:3275
+translate Schinese cliffroute3a_c6b61a89:
+
+    # ts "\"You just can’t come back with us since our cart won’t be empty.\""
+    ts "\"You just can’t come back with us since our cart won’t be empty.\""
+
+# game/cliffroute3.rpy:3277
+translate Schinese cliffroute3a_116f8311:
+
+    # m "\"Trust me, that ain’t a problem.\""
+    m "\"Trust me, that ain’t a problem.\""
+
+# game/cliffroute3.rpy:3279
+translate Schinese cliffroute3a_6b5950af:
+
+    # av "\"Regardless, it’s something to think about for later.\""
+    av "\"Regardless, it’s something to think about for later.\""
+
+# game/cliffroute3.rpy:3282
+translate Schinese cliffroute3a_8b29ddb8:
+
+    # av "\"As for right now, let’s go pick you out a walking stick.\""
+    av "\"As for right now, let’s go pick you out a walking stick.\""
+
+# game/cliffroute3.rpy:3284
+translate Schinese cliffroute3a_1f4e2710:
+
+    # "Tsela and Avery talk to each other as Avery rises, giving me his arm to help me lean on him and stand."
+    "Tsela and Avery talk to each other as Avery rises, giving me his arm to help me lean on him and stand."
+
+# game/cliffroute3.rpy:3289
+translate Schinese cliffroute3a_2011301b:
+
+    # "We all exit the cabin and Tsela locks the door behind us."
+    "We all exit the cabin and Tsela locks the door behind us."
+
+# game/cliffroute3.rpy:3291
+translate Schinese cliffroute3a_316a16fb:
+
+    # "Tsela walks off in one direction without another word to me."
+    "Tsela walks off in one direction without another word to me."
+
+# game/cliffroute3.rpy:3293
+translate Schinese cliffroute3a_f5fbce92:
+
+    # m "\"Where’s he off to so fast?\""
+    m "\"Where’s he off to so fast?\""
+
+# game/cliffroute3.rpy:3295
+translate Schinese cliffroute3a_c030cef8:
+
+    # av "\"He’s meeting Yiska near the apiary.\""
+    av "\"He’s meeting Yiska near the apiary.\""
+
+# game/cliffroute3.rpy:3297
+translate Schinese cliffroute3a_d8e3446a:
+
+    # m "\"The what?\""
+    m "\"The what?\""
+
+# game/cliffroute3.rpy:3299
+translate Schinese cliffroute3a_682cc813:
+
+    # av "\"It’s a bee farm.\""
+    av "\"It’s a bee farm.\""
+
+# game/cliffroute3.rpy:3302
+translate Schinese cliffroute3a_c73da04d:
+
+    # av "\"Honey gets gathered there.\""
+    av "\"Honey gets gathered there.\""
+
+# game/cliffroute3.rpy:3304
+translate Schinese cliffroute3a_65c69be0:
+
+    # "I want to express gratitude for what he did for me last night..."
+    "I want to express gratitude for what he did for me last night..."
+
+# game/cliffroute3.rpy:3305
+translate Schinese cliffroute3a_496162c7:
+
+    # "But what happened after that still unnerves me."
+    "But what happened after that still unnerves me."
+
+# game/cliffroute3.rpy:3307
+translate Schinese cliffroute3a_a9c5345e:
+
+    # av "\"Your stoat friend will be there too.\""
+    av "\"Your stoat friend will be there too.\""
+
+# game/cliffroute3.rpy:3308
+translate Schinese cliffroute3a_cc5a3099:
+
+    # av "\"The reverend is letting him in.\""
+    av "\"The reverend is letting him in.\""
+
+# game/cliffroute3.rpy:3317
+translate Schinese cliffroute3a_1ddd870b:
+
+    # m "\"How do you know that?\""
+    m "\"How do you know that?\""
+
+# game/cliffroute3.rpy:3322
+translate Schinese cliffroute3a_d5db7c16:
+
+    # av "\"I saw him and Yiska coming back from the mesa this morning.\""
+    av "\"I saw him and Yiska coming back from the mesa this morning.\""
+
+# game/cliffroute3.rpy:3327
+translate Schinese cliffroute3a_2336f44a:
+
+    # m "\"While you were doing what?\""
+    m "\"While you were doing what?\""
+
+# game/cliffroute3.rpy:3332
+translate Schinese cliffroute3a_f0947171:
+
+    # av "\"Just looking for the right pile of rocks based on what the elders who still live here could tell me.\""
+    av "\"Just looking for the right pile of rocks based on what the elders who still live here could tell me.\""
+
+# game/cliffroute3.rpy:3334
+translate Schinese cliffroute3a_c5ae7910:
+
+    # "The pine needles crunch beneath our feet as I lean on Avery until we find a clearing with lots of fallen branches and dead saplings."
+    "The pine needles crunch beneath our feet as I lean on Avery until we find a clearing with lots of fallen branches and dead saplings."
+
+# game/cliffroute3.rpy:3335
+translate Schinese cliffroute3a_c7c012e2:
+
+    # "There’s a sweet smell that lingers in the air-- mostly likely from all the smoke of a small settlement waking up, along with the scent of pine sap."
+    "There’s a sweet smell that lingers in the air-- mostly likely from all the smoke of a small settlement waking up, along with the scent of pine sap."
+
+# game/cliffroute3.rpy:3341
+translate Schinese cliffroute3a_e28919d1:
+
+    # av "\"You know, there’s not a whole lot of places I can be with guards around.\""
+    av "\"You know, there’s not a whole lot of places I can be with guards around.\""
+
+# game/cliffroute3.rpy:3346
+translate Schinese cliffroute3a_50ce7a2b:
+
+    # "I feel my chest clench a bit."
+    "I feel my chest clench a bit."
+
+# game/cliffroute3.rpy:3347
+translate Schinese cliffroute3a_291e66fd:
+
+    # m "\"So you were looking for your sister?\""
+    m "\"So you were looking for your sister?\""
+
+# game/cliffroute3.rpy:3352
+translate Schinese cliffroute3a_716f9a51:
+
+    # av "\"Where they put her body at the very least.\""
+    av "\"Where they put her body at the very least.\""
+
+# game/cliffroute3.rpy:3357
+translate Schinese cliffroute3a_d9cf93dc:
+
+    # "He picks up a few sticks, swinging them for size and checking them for rot."
+    "He picks up a few sticks, swinging them for size and checking them for rot."
+
+# game/cliffroute3.rpy:3362
+translate Schinese cliffroute3a_6fcf5f8f:
+
+    # m "\"Did you find it?\""
+    m "\"Did you find it?\""
+
+# game/cliffroute3.rpy:3367
+translate Schinese cliffroute3a_1bbc1f3f:
+
+    # av "\"I think so, but I can’t be sure.\""
+    av "\"I think so, but I can’t be sure.\""
+
+# game/cliffroute3.rpy:3372
+translate Schinese cliffroute3a_8c417fb1:
+
+    # av "\"The graves are unmarked, and there were certainly some beneath the rocks.\""
+    av "\"The graves are unmarked, and there were certainly some beneath the rocks.\""
+
+# game/cliffroute3.rpy:3377
+translate Schinese cliffroute3a_4cdce6d3:
+
+    # av "\"I wasn’t going to disturb anybody’s resting place to confirm if it was hers or not.\""
+    av "\"I wasn’t going to disturb anybody’s resting place to confirm if it was hers or not.\""
+
+# game/cliffroute3.rpy:3382
+translate Schinese cliffroute3a_7fe48e59:
+
+    # m "\"Again, I’m sorry.\""
+    m "\"Again, I’m sorry.\""
+
+# game/cliffroute3.rpy:3387
+translate Schinese cliffroute3a_b60338fd:
+
+    # av "\"I wasn’t expecting to find her anyway.\""
+    av "\"I wasn’t expecting to find her anyway.\""
+
+# game/cliffroute3.rpy:3395
+translate Schinese cliffroute3a_80816e2e:
+
+    # av "\"But it’s difficult never getting to know the exact place.\""
+    av "\"But it’s difficult never getting to know the exact place.\""
+
+# game/cliffroute3.rpy:3400
+translate Schinese cliffroute3a_07892f2c:
+
+    # "He hands me two sticks."
+    "He hands me two sticks."
+
+# game/cliffroute3.rpy:3405
+translate Schinese cliffroute3a_906b6202:
+
+    # av "\"Lift your leg and test them.\""
+    av "\"Lift your leg and test them.\""
+
+# game/cliffroute3.rpy:3410
+translate Schinese cliffroute3a_f767b169:
+
+    # "The bark is gone, so it’s easy enough to hold onto both of them and swing my way through a triangular stance."
+    "The bark is gone, so it’s easy enough to hold onto both of them and swing my way through a triangular stance."
+
+# game/cliffroute3.rpy:3411
+translate Schinese cliffroute3a_daf934e6:
+
+    # m "\"They’re working.\""
+    m "\"They’re working.\""
+
+# game/cliffroute3.rpy:3416
+translate Schinese cliffroute3a_f235850e:
+
+    # av "\"They should hold you for a least a week if you’re careful.\""
+    av "\"They should hold you for a least a week if you’re careful.\""
+
+# game/cliffroute3.rpy:3425
+translate Schinese cliffroute3a_2249a77e:
+
+    # av "\"Some of the wood is still green.\""
+    av "\"Some of the wood is still green.\""
+
+# game/cliffroute3.rpy:3430
+translate Schinese cliffroute3a_9d3eaacc:
+
+    # m "\"Right.\""
+    m "\"Right.\""
+
+# game/cliffroute3.rpy:3435
+translate Schinese cliffroute3a_7672d2bf:
+
+    # av "\"Now that you’re mobile again I figure I’d mention that your travel companions were looking for you yesterday.\""
+    av "\"Now that you’re mobile again I figure I’d mention that your travel companions were looking for you yesterday.\""
+
+# game/cliffroute3.rpy:3440
+translate Schinese cliffroute3a_66a94947:
+
+    # m "\"Were they?\""
+    m "\"Were they?\""
+
+# game/cliffroute3.rpy:3441
+translate Schinese cliffroute3a_71fa4a33:
+
+    # m "\"Cliff seemed pretty preoccupied if I remember right.\""
+    m "\"Cliff seemed pretty preoccupied if I remember right.\""
+
+# game/cliffroute3.rpy:3446
+translate Schinese cliffroute3a_7d64df2d:
+
+    # av "\"Jeb and the fox expected you back in your room.\""
+    av "\"Jeb and the fox expected you back in your room.\""
+
+# game/cliffroute3.rpy:3455
+translate Schinese cliffroute3a_8e7c92ef:
+
+    # av "\"They looked pretty concerned.\""
+    av "\"They looked pretty concerned.\""
+
+# game/cliffroute3.rpy:3461
+translate Schinese cliffroute3a_03c24030:
+
+    # av "\"I figure it’s early enough that they should still be at the inn your stoat friend checked in at.\""
+    av "\"I figure it’s early enough that they should still be at the inn your stoat friend checked in at.\""
+
+# game/cliffroute3.rpy:3472
+translate Schinese cliffroute3a_d4e89f16:
+
+    # m "\"I thought Jeb was staying with you.\""
+    m "\"I thought Jeb was staying with you.\""
+
+# game/cliffroute3.rpy:3474
+translate Schinese cliffroute3a_e8859773:
+
+    # av "\"For a night, but I need to be alone for a spell.\""
+    av "\"For a night, but I need to be alone for a spell.\""
+
+# game/cliffroute3.rpy:3476
+translate Schinese cliffroute3a_a84d8bf4:
+
+    # "He’s much tenser here than he was in the woods."
+    "He’s much tenser here than he was in the woods."
+
+# game/cliffroute3.rpy:3478
+translate Schinese cliffroute3a_8e8a862c:
+
+    # av "\"I heard about his argument with the stoat though.\""
+    av "\"I heard about his argument with the stoat though.\""
+
+# game/cliffroute3.rpy:3479
+translate Schinese cliffroute3a_605d2eb0:
+
+    # av "\"The fox managed to smooth things over, some, but I know his mane’s still caught up in a few knots.\""
+    av "\"The fox managed to smooth things over, some, but I know his mane’s still caught up in a few knots.\""
+
+# game/cliffroute3.rpy:3480
+translate Schinese cliffroute3a_4dc9a032:
+
+    # av "\"You should probably tell your traveling companions when you head off by yourself for private business.\""
+    av "\"You should probably tell your traveling companions when you head off by yourself for private business.\""
+
+# game/cliffroute3.rpy:3482
+translate Schinese cliffroute3a_5e53d60c:
+
+    # "He looks out into the woods."
+    "He looks out into the woods."
+
+# game/cliffroute3.rpy:3483
+translate Schinese cliffroute3a_23d98d76:
+
+    # av "\"Considering the circumstances.\""
+    av "\"Considering the circumstances.\""
+
+# game/cliffroute3.rpy:3485
+translate Schinese cliffroute3a_37b846d8:
+
+    # av "\"Wouldn’t want them getting hurt searching for somebody who might not want to be found.\""
+    av "\"Wouldn’t want them getting hurt searching for somebody who might not want to be found.\""
+
+# game/cliffroute3.rpy:3488
+translate Schinese cliffroute3a_2db095b5:
+
+    # av "\"Know what I mean?\""
+    av "\"Know what I mean?\""
+
+# game/cliffroute3.rpy:3490
+translate Schinese cliffroute3a_71cfd90f:
+
+    # m "\"...Yeah, I do.\""
+    m "\"...Yeah, I do.\""
+
+# game/cliffroute3.rpy:3492
+translate Schinese cliffroute3a_de427fb1:
+
+    # av "\"Alright then.\""
+    av "\"Alright then.\""
+
+# game/cliffroute3.rpy:3495
+translate Schinese cliffroute3a_4ebb4e7b:
+
+    # av "\"I’ll check up on your injuries before I leave, but I need to get back to Echo sooner rather than later.\""
+    av "\"I’ll check up on your injuries before I leave, but I need to get back to Echo sooner rather than later.\""
+
+# game/cliffroute3.rpy:3498
+translate Schinese cliffroute3a_228dec93:
+
+    # av "\"Keep your nose clean until then.\""
+    av "\"Keep your nose clean until then.\""
+
+# game/cliffroute3.rpy:3501
+translate Schinese cliffroute3a_d9dd8594:
+
+    # av "\"The Madam would be pretty cross with me if I she knew I ran into you and came back too beat up.\""
+    av "\"The Madam would be pretty cross with me if I she knew I ran into you and came back too beat up.\""
+
+# game/cliffroute3.rpy:3503
+translate Schinese cliffroute3a_9bd8482b:
+
+    # m "\"You ain’t responsible for me.\""
+    m "\"You ain’t responsible for me.\""
+
+# game/cliffroute3.rpy:3504
+translate Schinese cliffroute3a_4d1a1c7d:
+
+    # "And I can’t let you know that I don’t intend to go back to Echo."
+    "And I can’t let you know that I don’t intend to go back to Echo."
+
+# game/cliffroute3.rpy:3505
+translate Schinese cliffroute3a_0412c350:
+
+    # m "\"Don’t waste any time looking for me if I can’t be found.\""
+    m "\"Don’t waste any time looking for me if I can’t be found.\""
+
+# game/cliffroute3.rpy:3506
+translate Schinese cliffroute3a_84f77bff:
+
+    # m "\"If we cross paths and you can help me that’s great and good, but...\""
+    m "\"If we cross paths and you can help me that’s great and good, but...\""
+
+# game/cliffroute3.rpy:3507
+translate Schinese cliffroute3a_28070487:
+
+    # m "\"You’re already done more than enough.\""
+    m "\"You’re already done more than enough.\""
+
+# game/cliffroute3.rpy:3508
+translate Schinese cliffroute3a_9f731927:
+
+    # m "\"The Madam don’t need to fuss at you on account of my own choices.\""
+    m "\"The Madam don’t need to fuss at you on account of my own choices.\""
+
+# game/cliffroute3.rpy:3510
+translate Schinese cliffroute3a_9576f954:
+
+    # av "\"She’s usually understanding.\""
+    av "\"She’s usually understanding.\""
+
+# game/cliffroute3.rpy:3512
+translate Schinese cliffroute3a_9bb2b419:
+
+    # "He nods his head."
+    "He nods his head."
+
+# game/cliffroute3.rpy:3514
+translate Schinese cliffroute3a_249936d7:
+
+    # av "\"’Til next we meet.\""
+    av "\"’Til next we meet.\""
+
+# game/cliffroute3.rpy:3516
+translate Schinese cliffroute3a_8ce61eb8:
+
+    # "I nod."
+    "I nod."
+
+# game/cliffroute3.rpy:3518
+translate Schinese cliffroute3a_950d8a63:
+
+    # "In the woods, he whistled while he walked away, but now, he stays quiet, increasing his distance until he disappears between the pine trees."
+    "In the woods, he whistled while he walked away, but now, he stays quiet, increasing his distance until he disappears between the pine trees."
+
+# game/cliffroute3.rpy:3521
+translate Schinese cliffroute3a_86fccf85:
+
+    # "It’s not his fault, but the way he talks about going back to Echo puts me on edge."
+    "It’s not his fault, but the way he talks about going back to Echo puts me on edge."
+
+# game/cliffroute3.rpy:3522
+translate Schinese cliffroute3a_aa984fc6:
+
+    # "He’s been nothing but friendly and helpful to me, but I can’t help but think about how much he knows about me, and how freely he talks about it."
+    "He’s been nothing but friendly and helpful to me, but I can’t help but think about how much he knows about me, and how freely he talks about it."
+
+# game/cliffroute3.rpy:3523
+translate Schinese cliffroute3a_34b4844f:
+
+    # "He treated my injuries the day I killed Jack."
+    "He treated my injuries the day I killed Jack."
+
+# game/cliffroute3.rpy:3524
+translate Schinese cliffroute3a_1a06f10b:
+
+    # "He knows the direction I went and the direction I’ll go when it comes to running away."
+    "He knows the direction I went and the direction I’ll go when it comes to running away."
+
+# game/cliffroute3.rpy:3525
+translate Schinese cliffroute3a_ede2d2fa:
+
+    # "Some part of me knows it’s terrible, but I’d surely breathe a little easier if he never made his way back to Echo."
+    "Some part of me knows it’s terrible, but I’d surely breathe a little easier if he never made his way back to Echo."
+
+# game/cliffroute3.rpy:3526
+translate Schinese cliffroute3a_3f4e42a0:
+
+    # "Or at least delayed long enough to make it far, far away, even from the station at Camp Rosa."
+    "Or at least delayed long enough to make it far, far away, even from the station at Camp Rosa."
+
+# game/cliffroute3.rpy:3528
+translate Schinese cliffroute3a_63f408a9:
+
+    # "I lift my injured ankle off the ground and put my weight on the walking sticks."
+    "I lift my injured ankle off the ground and put my weight on the walking sticks."
+
+# game/cliffroute3.rpy:3529
+translate Schinese cliffroute3a_23cc8a10:
+
+    # "I have to hobble a bit before I get a feel for using them."
+    "I have to hobble a bit before I get a feel for using them."
+
+# game/cliffroute3.rpy:3530
+translate Schinese cliffroute3a_efcd410e:
+
+    # "But I make steady progress toward the direction of the inn."
+    "But I make steady progress toward the direction of the inn."
+
+# game/cliffroute3.rpy:3535
+translate Schinese cliffroute3a_b792fa11:
+
+    # "The innkeeper barely looks at me as I make it through the front door and start my struggle up the steep stairs."
+    "The innkeeper barely looks at me as I make it through the front door and start my struggle up the steep stairs."
+
+# game/cliffroute3.rpy:3536
+translate Schinese cliffroute3a_97e90c2e:
+
+    # "Thankfully, the railing is sturdy."
+    "Thankfully, the railing is sturdy."
+
+# game/cliffroute3.rpy:3538
+translate Schinese cliffroute3a_2ce3a71b:
+
+    # "When I get to the front door of our room I accidentally lose my footing and my body thuds against the wood."
+    "When I get to the front door of our room I accidentally lose my footing and my body thuds against the wood."
+
+# game/cliffroute3.rpy:3540
+translate Schinese cliffroute3a_59ebf2a0:
+
+    # mu "\"Coming!\""
+    mu "\"Coming!\""
+
+# game/cliffroute3.rpy:3542
+translate Schinese cliffroute3a_7f53ac82:
+
+    # "I hear the sound of Murdoch’s voice, and the sounds of scrabbling through papers on a desk before a chair pushes out and somebody’s footsteps get closer."
+    "I hear the sound of Murdoch’s voice, and the sounds of scrabbling through papers on a desk before a chair pushes out and somebody’s footsteps get closer."
+
+# game/cliffroute3.rpy:3545
+translate Schinese cliffroute3a_e7002357:
+
+    # "The door opens."
+    "The door opens."
+
+# game/cliffroute3.rpy:3548
+translate Schinese cliffroute3a_10774f2d:
+
+    # "I can see the fox’s{nw}"
+    "I can see the fox’s{nw}"
+
+# game/cliffroute3.rpy:3550
+translate Schinese cliffroute3a_e153a921:
+
+    # extend " expression shift from relaxed to nervous."
+    extend " expression shift from relaxed to nervous."
+
+# game/cliffroute3.rpy:3551
+translate Schinese cliffroute3a_3c346cbe:
+
+    # mu "\"...Oh, Sam.\""
+    mu "\"...Oh, Sam.\""
+
+# game/cliffroute3.rpy:3552
+translate Schinese cliffroute3a_06a59937:
+
+    # "He looks me up and down."
+    "He looks me up and down."
+
+# game/cliffroute3.rpy:3553
+translate Schinese cliffroute3a_ea7bc27b:
+
+    # mu "\"I’m relieved that you're back, but what happened?\""
+    mu "\"I’m relieved that you're back, but what happened?\""
+
+# game/cliffroute3.rpy:3556
+translate Schinese cliffroute3a_12569ae6:
+
+    # "He moves out of the doorway to make room for me."
+    "He moves out of the doorway to make room for me."
+
+# game/cliffroute3.rpy:3560
+translate Schinese cliffroute3a_50ca77e7:
+
+    # "I hobble my way to the bed less than graciously, and I see Jeb sitting on the bed across from mine."
+    "I hobble my way to the bed less than graciously, and I see Jeb sitting on the bed across from mine."
+
+# game/cliffroute3.rpy:3561
+translate Schinese cliffroute3a_acfff70b:
+
+    # "I’m used to him being calm, but he looks pretty disturbed looking at me."
+    "I’m used to him being calm, but he looks pretty disturbed looking at me."
+
+# game/cliffroute3.rpy:3563
+translate Schinese cliffroute3a_5ea31089:
+
+    # jeb "\"The hell happened to you?\""
+    jeb "\"The hell happened to you?\""
+
+# game/cliffroute3.rpy:3565
+translate Schinese cliffroute3a_f4e05df1:
+
+    # m "\"Got foolish and messed with the wrong farm animals.\""
+    m "\"Got foolish and messed with the wrong farm animals.\""
+
+# game/cliffroute3.rpy:3567
+translate Schinese cliffroute3a_e3b6be2c:
+
+    # "He gives me a look like he doesn’t believe me."
+    "He gives me a look like he doesn’t believe me."
+
+# game/cliffroute3.rpy:3568
+translate Schinese cliffroute3a_323d0aec:
+
+    # "I give him a look back that I’m not exactly trying to hide my lie."
+    "I give him a look back that I’m not exactly trying to hide my lie."
+
+# game/cliffroute3.rpy:3569
+translate Schinese cliffroute3a_3ed17617:
+
+    # "More that I’m not going to talk about it."
+    "More that I’m not going to talk about it."
+
+# game/cliffroute3.rpy:3570
+translate Schinese cliffroute3a_70a98278:
+
+    # m "\"Why exactly are you askin’, anyway?\""
+    m "\"Why exactly are you askin’, anyway?\""
+
+# game/cliffroute3.rpy:3571
+translate Schinese cliffroute3a_1d40dd21:
+
+    # m "\"I thought you left.\""
+    m "\"I thought you left.\""
+
+# game/cliffroute3.rpy:3572
+translate Schinese cliffroute3a_43f87eb2:
+
+    # "Jeb looks like he’s about to say something but Murdoch butts in."
+    "Jeb looks like he’s about to say something but Murdoch butts in."
+
+# game/cliffroute3.rpy:3574
+translate Schinese cliffroute3a_153b169a:
+
+    # mu "\"He came back once I reassured him that our issues in the forest weren’t his fault, and that Cliff is going to pay him in full.\""
+    mu "\"He came back once I reassured him that our issues in the forest weren’t his fault, and that Cliff is going to pay him in full.\""
+
+# game/cliffroute3.rpy:3575
+translate Schinese cliffroute3a_d1ece197:
+
+    # "I grimace a bit."
+    "I grimace a bit."
+
+# game/cliffroute3.rpy:3576
+translate Schinese cliffroute3a_8b7f0a43:
+
+    # m "\"And Cliff agreed to all that, then?\""
+    m "\"And Cliff agreed to all that, then?\""
+
+# game/cliffroute3.rpy:3578
+translate Schinese cliffroute3a_e4207edd:
+
+    # mu "\"Cliff isn’t stupid, Sam.\""
+    mu "\"Cliff isn’t stupid, Sam.\""
+
+# game/cliffroute3.rpy:3580
+translate Schinese cliffroute3a_4080e0ee:
+
+    # mu "\"He knows that if we want to go back home then we’re going to need a guide.\""
+    mu "\"He knows that if we want to go back home then we’re going to need a guide.\""
+
+# game/cliffroute3.rpy:3582
+translate Schinese cliffroute3a_81607616:
+
+    # mu "\"Frankly, I wouldn’t want to take us back to Echo either if I were our guide and weren’t given my pay up front and a proper apology.\""
+    mu "\"Frankly, I wouldn’t want to take us back to Echo either if I were our guide and weren’t given my pay up front and a proper apology.\""
+
+# game/cliffroute3.rpy:3584
+translate Schinese cliffroute3a_667dbad6:
+
+    # jeb "\"I’m not that delicate.\""
+    jeb "\"I’m not that delicate.\""
+
+# game/cliffroute3.rpy:3589
+translate Schinese cliffroute3a_83b1c902:
+
+    # jeb "\"So long as I have my pay guaranteed both ways there won’t be a problem.\""
+    jeb "\"So long as I have my pay guaranteed both ways there won’t be a problem.\""
+
+# game/cliffroute3.rpy:3591
+translate Schinese cliffroute3a_57bd1495:
+
+    # "I give Murdoch a look."
+    "I give Murdoch a look."
+
+# game/cliffroute3.rpy:3592
+translate Schinese cliffroute3a_6d5e4e57:
+
+    # m "\"And you’re certain this isn’t going to blow back in your face?\""
+    m "\"And you’re certain this isn’t going to blow back in your face?\""
+
+# game/cliffroute3.rpy:3594
+translate Schinese cliffroute3a_a24f5e2e:
+
+    # mu "\"I’ve made tougher bargains.\""
+    mu "\"I’ve made tougher bargains.\""
+
+# game/cliffroute3.rpy:3596
+translate Schinese cliffroute3a_d02323eb:
+
+    # mu "\"So yeah, I’m pretty confident.\""
+    mu "\"So yeah, I’m pretty confident.\""
+
+# game/cliffroute3.rpy:3598
+translate Schinese cliffroute3a_43e25fa4:
+
+    # "I nod slowly and sigh, rubbing the back of me head and pulling a piece of a twig out of my fur."
+    "I nod slowly and sigh, rubbing the back of me head and pulling a piece of a twig out of my fur."
+
+# game/cliffroute3.rpy:3603
+translate Schinese cliffroute3a_9464bbfb:
+
+    # mu "\"Jeb, would you mind stepping out for a moment.\""
+    mu "\"Jeb, would you mind stepping out for a moment.\""
+
+# game/cliffroute3.rpy:3605
+translate Schinese cliffroute3a_e4cdebcb:
+
+    # mu "\"There’s something private I want to talk about with Sam.\""
+    mu "\"There’s something private I want to talk about with Sam.\""
+
+# game/cliffroute3.rpy:3608
+translate Schinese cliffroute3a_13f19db4:
+
+    # jeb "\"Don’t need to tell me twice.\""
+    jeb "\"Don’t need to tell me twice.\""
+
+# game/cliffroute3.rpy:3610
+translate Schinese cliffroute3a_0b9c60c3:
+
+    # "He sits up and straightens his cap."
+    "He sits up and straightens his cap."
+
+# game/cliffroute3.rpy:3612
+translate Schinese cliffroute3a_d702011b:
+
+    # jeb "\"There’s something I need to talk to Avery about.\""
+    jeb "\"There’s something I need to talk to Avery about.\""
+
+# game/cliffroute3.rpy:3614
+translate Schinese cliffroute3a_e45961e7:
+
+    # "I remember that Avery said he wanted to be alone, and I mean to stop him{nw},"
+    "I remember that Avery said he wanted to be alone, and I mean to stop him{nw},"
+
+# game/cliffroute3.rpy:3618
+translate Schinese cliffroute3a_b4ce36d0:
+
+    # extend " but he’s out of the door before I can muster up a call deep enough to hear."
+    extend " but he’s out of the door before I can muster up a call deep enough to hear."
+
+# game/cliffroute3.rpy:3621
+translate Schinese cliffroute3a_9d3925b0:
+
+    # "Murdoch starts pacing around the room."
+    "Murdoch starts pacing around the room."
+
+# game/cliffroute3.rpy:3623
+translate Schinese cliffroute3a_08b363c6:
+
+    # m "\"Can you quit walking like that?\""
+    m "\"Can you quit walking like that?\""
+
+# game/cliffroute3.rpy:3624
+translate Schinese cliffroute3a_f26cdc11:
+
+    # m "\"Makes me nervous.\""
+    m "\"Makes me nervous.\""
+
+# game/cliffroute3.rpy:3625
+translate Schinese cliffroute3a_820cdbc3:
+
+    # "He stops and he takes a look at me."
+    "He stops and he takes a look at me."
+
+# game/cliffroute3.rpy:3627
+translate Schinese cliffroute3a_92177a07:
+
+    # mu "\"You’re nervous?\""
+    mu "\"You’re nervous?\""
+
+# game/cliffroute3.rpy:3628
+translate Schinese cliffroute3a_cf9f8280:
+
+    # mu "\"I thought you were gone for good last night.\""
+    mu "\"I thought you were gone for good last night.\""
+
+# game/cliffroute3.rpy:3629
+translate Schinese cliffroute3a_35229f8c:
+
+    # "I want to think so what if I was, but that’s probably not fair."
+    "I want to think so what if I was, but that’s probably not fair."
+
+# game/cliffroute3.rpy:3630
+translate Schinese cliffroute3a_0600adc9:
+
+    # m "\"I’ll let you know before I go.\""
+    m "\"I’ll let you know before I go.\""
+
+# game/cliffroute3.rpy:3632
+translate Schinese cliffroute3a_81ffe677:
+
+    # "He gives me a look like I’m looney."
+    "He gives me a look like I’m looney."
+
+# game/cliffroute3.rpy:3634
+translate Schinese cliffroute3a_a2f392c3:
+
+    # mu "\"You’re still going try and go off on your own after it looks like you got tossed around and mangled?\""
+    mu "\"You’re still going try and go off on your own after it looks like you got tossed around and mangled?\""
+
+# game/cliffroute3.rpy:3636
+translate Schinese cliffroute3a_978c66a5:
+
+    # "All I can do is shrug."
+    "All I can do is shrug."
+
+# game/cliffroute3.rpy:3637
+translate Schinese cliffroute3a_6b73b7c4:
+
+    # m "\"Where I go is my business.\""
+    m "\"Where I go is my business.\""
+
+# game/cliffroute3.rpy:3638
+translate Schinese cliffroute3a_6293f5a2:
+
+    # m "\"The longer I stay here in this little settlement, the less safe I’m gonna feel.\""
+    m "\"The longer I stay here in this little settlement, the less safe I’m gonna feel.\""
+
+# game/cliffroute3.rpy:3639
+translate Schinese cliffroute3a_d1e3c5a9:
+
+    # m "\"I want to make my way to Camp Rosa as soon as possible.\""
+    m "\"I want to make my way to Camp Rosa as soon as possible.\""
+
+# game/cliffroute3.rpy:3641
+translate Schinese cliffroute3a_4709fe62:
+
+    # mu "\"And what if I told you nowhere was as safe as you think?\""
+    mu "\"And what if I told you nowhere was as safe as you think?\""
+
+# game/cliffroute3.rpy:3642
+translate Schinese cliffroute3a_619ba29e:
+
+    # "That’s a weird thing to hear him say."
+    "That’s a weird thing to hear him say."
+
+# game/cliffroute3.rpy:3643
+translate Schinese cliffroute3a_9307dce0:
+
+    # m "\"Then I’d say it sounds like you’re looking for an excuse to keep me around.\""
+    m "\"Then I’d say it sounds like you’re looking for an excuse to keep me around.\""
+
+# game/cliffroute3.rpy:3645
+translate Schinese cliffroute3a_6269fa0f:
+
+    # mu "\"So you admit you’re not even gonna try to come back with us to Echo.\""
+    mu "\"So you admit you’re not even gonna try to come back with us to Echo.\""
+
+# game/cliffroute3.rpy:3647
+translate Schinese cliffroute3a_c611f801:
+
+    # m "\"Not unless you’re interested in packing up with me and heading north.\""
+    m "\"Not unless you’re interested in packing up with me and heading north.\""
+
+# game/cliffroute3.rpy:3650
+translate Schinese cliffroute3a_78c6ab7a:
+
+    # mu "\"I have too many obligations to do something like that.\""
+    mu "\"I have too many obligations to do something like that.\""
+
+# game/cliffroute3.rpy:3651
+translate Schinese cliffroute3a_2312d596:
+
+    # m "\"So now we’re starting to understand one another.\""
+    m "\"So now we’re starting to understand one another.\""
+
+# game/cliffroute3.rpy:3654
+translate Schinese cliffroute3a_a6d7cfa1:
+
+    # m "\"We both have places to be and obligations to fulfill.\""
+    m "\"We both have places to be and obligations to fulfill.\""
+
+# game/cliffroute3.rpy:3656
+translate Schinese cliffroute3a_2a8c93ec:
+
+    # mu "\"If you walk out of here I can almost guarantee you’re not gonna make it.\""
+    mu "\"If you walk out of here I can almost guarantee you’re not gonna make it.\""
+
+# game/cliffroute3.rpy:3657
+translate Schinese cliffroute3a_70f3a80f:
+
+    # "I lean forward in my bed."
+    "I lean forward in my bed."
+
+# game/cliffroute3.rpy:3658
+translate Schinese cliffroute3a_f1806f5b:
+
+    # m "\"You threatening me.\""
+    m "\"You threatening me.\""
+
+# game/cliffroute3.rpy:3659
+translate Schinese cliffroute3a_7cd67576:
+
+    # mu "\"Quite the opposite.\""
+    mu "\"Quite the opposite.\""
+
+# game/cliffroute3.rpy:3660
+translate Schinese cliffroute3a_58c498b2:
+
+    # "He walks over to a desk, pulls out one of the shelves, and pulls a photograph from the shelf."
+    "He walks over to a desk, pulls out one of the shelves, and pulls a photograph from the shelf."
+
+# game/cliffroute3.rpy:3662
+translate Schinese cliffroute3a_691cf310:
+
+    # mu "\"Do you recall that calotype we made of Mr. Tibbits standing on the rock?\""
+    mu "\"Do you recall that calotype we made of Mr. Tibbits standing on the rock?\""
+
+# game/cliffroute3.rpy:3663
+translate Schinese cliffroute3a_19388be2:
+
+    # "That feels like forever ago after what we’d been through."
+    "That feels like forever ago after what we’d been through."
+
+# game/cliffroute3.rpy:3664
+translate Schinese cliffroute3a_3b52b862:
+
+    # m "\"Sort of.\""
+    m "\"Sort of.\""
+
+# game/cliffroute3.rpy:3665
+translate Schinese cliffroute3a_ee1df4ca:
+
+    # mu "\"I got the change to freeze the image.\""
+    mu "\"I got the change to freeze the image.\""
+
+# game/cliffroute3.rpy:3667
+translate Schinese cliffroute3a_e70d35ed:
+
+    # mu "\"Flip the photo over.\""
+    mu "\"Flip the photo over.\""
+
+# game/cliffroute3.rpy:3668
+translate Schinese cliffroute3a_cdaff678:
+
+    # mu "\"Then take a look.\""
+    mu "\"Then take a look.\""
+
+# game/cliffroute3.rpy:3669
+translate Schinese cliffroute3a_e257cff4:
+
+    # "I do what he says and hold the picture in my hand."
+    "I do what he says and hold the picture in my hand."
+
+# game/cliffroute3.rpy:3672
+translate Schinese cliffroute3a_4c28984a:
+
+    # "What the..."
+    "What the..."
+
+# game/cliffroute3.rpy:3673
+translate Schinese cliffroute3a_5aba5d7d:
+
+    # "It looks like something big."
+    "It looks like something big."
+
+# game/cliffroute3.rpy:3674
+translate Schinese cliffroute3a_19f0a3d3:
+
+    # "With something wrong and contorted about its face."
+    "With something wrong and contorted about its face."
+
+# game/cliffroute3.rpy:3675
+translate Schinese cliffroute3a_9d0624f4:
+
+    # "The longer I look at it, the more I can almost smell the corpses of Jeb’s donkey."
+    "The longer I look at it, the more I can almost smell the corpses of Jeb’s donkey."
+
+# game/cliffroute3.rpy:3676
+translate Schinese cliffroute3a_b3b2ce15:
+
+    # m "\"This some kind of magic trick?\""
+    m "\"This some kind of magic trick?\""
+
+# game/cliffroute3.rpy:3679
+translate Schinese cliffroute3a_1caed0d5:
+
+    # mu "\"You think I have the time and the bad humor to pull something like that?\""
+    mu "\"You think I have the time and the bad humor to pull something like that?\""
+
+# game/cliffroute3.rpy:3681
+translate Schinese cliffroute3a_4cbb4f64:
+
+    # mu "\"People are missing, cargo is destroyed, and now you’re injured.\""
+    mu "\"People are missing, cargo is destroyed, and now you’re injured.\""
+
+# game/cliffroute3.rpy:3683
+translate Schinese cliffroute3a_a885e957:
+
+    # m "\"But we didn’t see anything like this when you took this picture.\""
+    m "\"But we didn’t see anything like this when you took this picture.\""
+
+# game/cliffroute3.rpy:3686
+translate Schinese cliffroute3a_ccb75451:
+
+    # mu "\"And yet it was clearly right there.\""
+    mu "\"And yet it was clearly right there.\""
+
+# game/cliffroute3.rpy:3687
+translate Schinese cliffroute3a_a9533962:
+
+    # m "\"Well it’s gotta be some kind of wild animal right?\""
+    m "\"Well it’s gotta be some kind of wild animal right?\""
+
+# game/cliffroute3.rpy:3690
+translate Schinese cliffroute3a_e7f9a163:
+
+    # mu "\"Can you think of any wild animals that can turn invisible and tear a pack animal to shreds in minutes?\""
+    mu "\"Can you think of any wild animals that can turn invisible and tear a pack animal to shreds in minutes?\""
+
+# game/cliffroute3.rpy:3691
+translate Schinese cliffroute3a_4d6acd9c:
+
+    # "His voice is shaking a bit."
+    "His voice is shaking a bit."
+
+# game/cliffroute3.rpy:3693
+translate Schinese cliffroute3a_b476daed:
+
+    # mu "\"Whatever this thing is, it could be anywhere at any time.\""
+    mu "\"Whatever this thing is, it could be anywhere at any time.\""
+
+# game/cliffroute3.rpy:3695
+translate Schinese cliffroute3a_138e3394:
+
+    # mu "\"As far as I’m concerned, the only safety there is is safety in numbers.\""
+    mu "\"As far as I’m concerned, the only safety there is is safety in numbers.\""
+
+# game/cliffroute3.rpy:3697
+translate Schinese cliffroute3a_5b0664d2:
+
+    # "I feel my ears lower and my eyes widen."
+    "I feel my ears lower and my eyes widen."
+
+# game/cliffroute3.rpy:3699
+translate Schinese cliffroute3a_b066b5aa:
+
+    # m "\"Oh God.\""
+    m "\"Oh God.\""
+
+# game/cliffroute3.rpy:3700
+translate Schinese cliffroute3a_0fd0de4a:
+
+    # m "\"Cliff went off on his own last night for research, didn’t he?\""
+    m "\"Cliff went off on his own last night for research, didn’t he?\""
+
+# game/cliffroute3.rpy:3702
+translate Schinese cliffroute3a_02a6ea14:
+
+    # mu "\"He’s with one of Avery’s friends.\""
+    mu "\"He’s with one of Avery’s friends.\""
+
+# game/cliffroute3.rpy:3705
+translate Schinese cliffroute3a_dac806f9:
+
+    # mu "\"We need to find him and tell him about this.\""
+    mu "\"We need to find him and tell him about this.\""
+
+# game/cliffroute3.rpy:3706
+translate Schinese cliffroute3a_aea19ef6:
+
+    # m "\"Do you think he’s fine?\""
+    m "\"Do you think he’s fine?\""
+
+# game/cliffroute3.rpy:3709
+translate Schinese cliffroute3a_ca127b7a:
+
+    # mu "\"Of course.\""
+    mu "\"Of course.\""
+
+# game/cliffroute3.rpy:3710
+translate Schinese cliffroute3a_77b86823:
+
+    # mu "\"He’s with Avery’s friends.\""
+    mu "\"He’s with Avery’s friends.\""
+
+# game/cliffroute3.rpy:3711
+translate Schinese cliffroute3a_b8524058:
+
+    # "There’s a surety and a confidence in his voice that makes me feel better."
+    "There’s a surety and a confidence in his voice that makes me feel better."
+
+# game/cliffroute3.rpy:3712
+translate Schinese cliffroute3a_77774635:
+
+    # "There’s a small shadow of his face that makes me think otherwise."
+    "There’s a small shadow of his face that makes me think otherwise."
+
+# game/cliffroute3.rpy:3713
+translate Schinese cliffroute3a_2fd96469:
+
+    # "Like he’s scared."
+    "Like he’s scared."
+
+# game/cliffroute3.rpy:3714
+translate Schinese cliffroute3a_ec40d313:
+
+    # "Absolutely terrified."
+    "Absolutely terrified."
+
+# game/cliffroute3.rpy:3715
+translate Schinese cliffroute3a_34344f54:
+
+    # "So I grab my walking sticks and make myself stand."
+    "So I grab my walking sticks and make myself stand."
+
+# game/cliffroute3.rpy:3716
+translate Schinese cliffroute3a_afd26dd3:
+
+    # m "\"Let’s go find him.\""
+    m "\"Let’s go find him.\""
+
+# game/cliffroute3.rpy:3719
+translate Schinese cliffroute3a_150ee6fb:
+
+    # jeb "\"Don’t grind your teeth on my account.\""
+    jeb "\"Don’t grind your teeth on my account.\""
+
+# game/cliffroute3.rpy:3722
+translate Schinese cliffroute3a_6ef88e9d:
+
+    # jeb "\"I’ll leave if I’m not wanted.\""
+    jeb "\"I’ll leave if I’m not wanted.\""
+
+# game/cliffroute3.rpy:3724
+translate Schinese cliffroute3a_f07d1956:
+
+    # m "\"I don’t mean that at all.\""
+    m "\"I don’t mean that at all.\""
+
+# game/cliffroute3.rpy:3727
+translate Schinese cliffroute3a_d1a2ba3a:
+
+    # jeb "\"Oh?\""
+    jeb "\"Oh?\""
+
+# game/cliffroute3.rpy:3730
+translate Schinese cliffroute3a_e7d362d3:
+
+    # jeb "\"Explain what you mean.\""
+    jeb "\"Explain what you mean.\""
+
+# game/cliffroute3.rpy:3732
+translate Schinese cliffroute3a_2cf9525c:
+
+    # m "\"I’m just surprised to see that an argument that bad wasn’t enough to chase you off.\""
+    m "\"I’m just surprised to see that an argument that bad wasn’t enough to chase you off.\""
+
+# game/cliffroute3.rpy:3734
+translate Schinese cliffroute3a_773ebecc:
+
+    # "He snorts."
+    "He snorts."
+
+# game/cliffroute3.rpy:3736
+translate Schinese cliffroute3a_901336ce:
+
+    # jeb "\"It takes more than words to get rid of me.\""
+    jeb "\"It takes more than words to get rid of me.\""
+
+# game/cliffroute3.rpy:3739
+translate Schinese cliffroute3a_78b63b25:
+
+    # jeb "\"I’ve put up with far worse for a paycheck.\""
+    jeb "\"I’ve put up with far worse for a paycheck.\""
+
+# game/cliffroute3.rpy:3743
+translate Schinese cliffroute3a_06c26561:
+
+    # jeb "\"Granted I’ve never taken this much cargo damage before, nor lost any pack animals.\""
+    jeb "\"Granted I’ve never taken this much cargo damage before, nor lost any pack animals.\""
+
+# game/cliffroute3.rpy:3746
+translate Schinese cliffroute3a_ab6f4c84:
+
+    # jeb "\"Still, we’ve had a lot of luck after the assault, so it’s hard to be too pessimistic about our success, or lack of it, depending on how you want to look at things.\""
+    jeb "\"Still, we’ve had a lot of luck after the assault, so it’s hard to be too pessimistic about our success, or lack of it, depending on how you want to look at things.\""
+
+# game/cliffroute3.rpy:3748
+translate Schinese cliffroute3a_fb2385ec:
+
+    # m "\"You did a better job at keeping us safe than I did.\""
+    m "\"You did a better job at keeping us safe than I did.\""
+
+# game/cliffroute3.rpy:3750
+translate Schinese cliffroute3a_fe989e77:
+
+    # jeb "\"I wouldn’t bring that up if you think it’s true.\""
+    jeb "\"I wouldn’t bring that up if you think it’s true.\""
+
+# game/cliffroute3.rpy:3752
+translate Schinese cliffroute3a_fe8594ce:
+
+    # m "\"I’m not really a body guard.\""
+    m "\"I’m not really a body guard.\""
+
+# game/cliffroute3.rpy:3754
+translate Schinese cliffroute3a_dadeffbf:
+
+    # "Jeb snorts."
+    "Jeb snorts."
+
+# game/cliffroute3.rpy:3756
+translate Schinese cliffroute3a_65614da5:
+
+    # jeb "\"I was waiting for you to admit it.\""
+    jeb "\"I was waiting for you to admit it.\""
+
+# game/cliffroute3.rpy:3758
+translate Schinese cliffroute3a_8dcca757:
+
+    # m "\"I dunno if you heard...\""
+    m "\"I dunno if you heard...\""
+
+# game/cliffroute3.rpy:3760
+translate Schinese cliffroute3a_51263a89:
+
+    # m "\"But at the beginning of the trip, professor Tibbits said he’s like us when he was talkin’ to you.\""
+    m "\"But at the beginning of the trip, professor Tibbits said he’s like us when he was talkin’ to you.\""
+
+# game/cliffroute3.rpy:3762
+translate Schinese cliffroute3a_b66f0c27:
+
+    # jeb "\"I pretended not to, since there were still other people around in earshot.\""
+    jeb "\"I pretended not to, since there were still other people around in earshot.\""
+
+# game/cliffroute3.rpy:3764
+translate Schinese cliffroute3a_9d3eaacc_1:
+
+    # m "\"Right.\""
+    m "\"Right.\""
+
+# game/cliffroute3.rpy:3766
+translate Schinese cliffroute3a_63d6e269:
+
+    # m "\"Well I’m like that, in particular... for pay.\""
+    m "\"Well I’m like that, in particular... for pay.\""
+
+# game/cliffroute3.rpy:3768
+translate Schinese cliffroute3a_23d2ef7b:
+
+    # "Jeb scrunched up his face, as if confused,{nw}"
+    "Jeb scrunched up his face, as if confused,{nw}"
+
+# game/cliffroute3.rpy:3770
+translate Schinese cliffroute3a_b707b39b:
+
+    # extend " before his eyes widened."
+    extend " before his eyes widened."
+
+# game/cliffroute3.rpy:3772
+translate Schinese cliffroute3a_89c22571:
+
+    # jeb "\"Oh.\""
+    jeb "\"Oh.\""
+
+# game/cliffroute3.rpy:3774
+translate Schinese cliffroute3a_c806ebc0_2:
+
+    # m "\"Yeah.\""
+    m "\"Yeah.\""
+
+# game/cliffroute3.rpy:3775
+translate Schinese cliffroute3a_2a86b849:
+
+    # "He took off his hat and fanned himself with it."
+    "He took off his hat and fanned himself with it."
+
+# game/cliffroute3.rpy:3777
+translate Schinese cliffroute3a_9bec6d2d:
+
+    # jeb "\"Well, that makes more sense than anything else you could have told me.\""
+    jeb "\"Well, that makes more sense than anything else you could have told me.\""
+
+# game/cliffroute3.rpy:3780
+translate Schinese cliffroute3a_48f996c1:
+
+    # jeb "\"By your physique, I assumed you were an army deserter who didn’t know how to use a gun or somethin’.\""
+    jeb "\"By your physique, I assumed you were an army deserter who didn’t know how to use a gun or somethin’.\""
+
+# game/cliffroute3.rpy:3782
+translate Schinese cliffroute3a_1dfc7b4e:
+
+    # m "\"Thanks.\""
+    m "\"Thanks.\""
+
+# game/cliffroute3.rpy:3784
+translate Schinese cliffroute3a_76a4952e:
+
+    # jeb "\"I’ve had to fend off predators and bandits before, if you ever need advice in protecting yourself or others.\""
+    jeb "\"I’ve had to fend off predators and bandits before, if you ever need advice in protecting yourself or others.\""
+
+# game/cliffroute3.rpy:3787
+translate Schinese cliffroute3a_592a7917:
+
+    # jeb "\"Kind of becomes second nature when you’re running a farm.\""
+    jeb "\"Kind of becomes second nature when you’re running a farm.\""
+
+# game/cliffroute3.rpy:3790
+translate Schinese cliffroute3a_af2f300c:
+
+    # mu "\"I think we’re going to need that advice sooner than you might think.\""
+    mu "\"I think we’re going to need that advice sooner than you might think.\""
+
+# game/cliffroute3.rpy:3793
+translate Schinese cliffroute3a_f3b1beb3:
+
+    # jeb "\"And why’s that?\""
+    jeb "\"And why’s that?\""
+
+# game/cliffroute3.rpy:3796
+translate Schinese cliffroute3a_29659c5e:
+
+    # mu "\"I have a good reason to believe our employer might be in trouble.\""
+    mu "\"I have a good reason to believe our employer might be in trouble.\""
+
+# game/cliffroute3.rpy:3797
+translate Schinese cliffroute3a_44e582c0:
+
+    # mu "\"But I don’t have a whole lot of time to share why.\""
+    mu "\"But I don’t have a whole lot of time to share why.\""
+
+# game/cliffroute3.rpy:3799
+translate Schinese cliffroute3a_c2e4cac4:
+
+    # m "\"Would you help us find him?\""
+    m "\"Would you help us find him?\""
+
+# game/cliffroute3.rpy:3801
+translate Schinese cliffroute3a_01a9fbb2:
+
+    # jeb "\"I don’t like the idea of doing that for free, but I have to admit I feel sorry for y’all.\""
+    jeb "\"I don’t like the idea of doing that for free, but I have to admit I feel sorry for y’all.\""
+
+# game/cliffroute3.rpy:3804
+translate Schinese cliffroute3a_00743c42:
+
+    # jeb "\"Just tell me where you want to start lookin’.\""
+    jeb "\"Just tell me where you want to start lookin’.\""
+
+# game/cliffroute3.rpy:3811
+translate Schinese cliffroute3a_cee83c19:
+
+    # "Through all of my long nights, and all of my bitter travels, it wasn’t until last night that I thought my God, maybe this really was all worth it."
+    "Through all of my long nights, and all of my bitter travels, it wasn’t until last night that I thought my God, maybe this really was all worth it."
+
+# game/cliffroute3.rpy:3812
+translate Schinese cliffroute3a_49afbb44:
+
+    # "I saw families gathering on the mesa."
+    "I saw families gathering on the mesa."
+
+# game/cliffroute3.rpy:3813
+translate Schinese cliffroute3a_10a396e7:
+
+    # "The beatific joy, and the good-natured laughter, and the colors borrowed from the good earth itself were not something my Grandfather, not all the scholars of Europa could begin to dream of."
+    "The beatific joy, and the good-natured laughter, and the colors borrowed from the good earth itself were not something my Grandfather, not all the scholars of Europa could begin to dream of."
+
+# game/cliffroute3.rpy:3814
+translate Schinese cliffroute3a_e5eb0a1a:
+
+    # "I know I am a stranger in their midst, but after just one night, I do not feel this way."
+    "I know I am a stranger in their midst, but after just one night, I do not feel this way."
+
+# game/cliffroute3.rpy:3815
+translate Schinese cliffroute3a_2c0deeb5:
+
+    # "I dare not share it."
+    "I dare not share it."
+
+# game/cliffroute3.rpy:3821
+translate Schinese cliffroute3a_a41d7ddf:
+
+    # "The big, humble bear smiled at me as we walked."
+    "The big, humble bear smiled at me as we walked."
+
+# game/cliffroute3.rpy:3823
+translate Schinese cliffroute3a_9dc433e3:
+
+    # ys "\"Did you sleep well, Mr. Tibbits?\""
+    ys "\"Did you sleep well, Mr. Tibbits?\""
+
+# game/cliffroute3.rpy:3825
+translate Schinese cliffroute3a_f8951fb1:
+
+    # "His accent is quite thick, but his grammar is wonderful, so I can still understand what he says."
+    "His accent is quite thick, but his grammar is wonderful, so I can still understand what he says."
+
+# game/cliffroute3.rpy:3826
+translate Schinese cliffroute3a_1b103563:
+
+    # "I assume he must think the same, considering Albion isn’t my first language either."
+    "I assume he must think the same, considering Albion isn’t my first language either."
+
+# game/cliffroute3.rpy:3828
+translate Schinese cliffroute3a_b870548e:
+
+    # cl "\"Oh, better than ages, really!\""
+    cl "\"Oh, better than ages, really!\""
+
+# game/cliffroute3.rpy:3830
+translate Schinese cliffroute3a_6bc9b5e0:
+
+    # ys "\"On rocks and furs?\""
+    ys "\"On rocks and furs?\""
+
+# game/cliffroute3.rpy:3833
+translate Schinese cliffroute3a_7826f91d:
+
+    # ys "\"I would have thought you’d prefer a softer, western style bed like at the inn.\""
+    ys "\"I would have thought you’d prefer a softer, western style bed like at the inn.\""
+
+# game/cliffroute3.rpy:3835
+translate Schinese cliffroute3a_6ba0110c:
+
+    # "I put my paws on my hips."
+    "I put my paws on my hips."
+
+# game/cliffroute3.rpy:3836
+translate Schinese cliffroute3a_2072ec6b:
+
+    # cl "\"Now I know I might look precious, but I can assure you that I’m used to roughing it just as much, if not more, than some of my companions.\""
+    cl "\"Now I know I might look precious, but I can assure you that I’m used to roughing it just as much, if not more, than some of my companions.\""
+
+# game/cliffroute3.rpy:3837
+translate Schinese cliffroute3a_0687ecd6:
+
+    # "I found out last night that his role in this community was far more important than I initially knew-- leading the first night of one of the chants."
+    "I found out last night that his role in this community was far more important than I initially knew-- leading the first night of one of the chants."
+
+# game/cliffroute3.rpy:3838
+translate Schinese cliffroute3a_18307edf:
+
+    # cl "\"I’m just thankful that you’re willing to accompany me through the settlement and help me get my bearings.\""
+    cl "\"I’m just thankful that you’re willing to accompany me through the settlement and help me get my bearings.\""
+
+# game/cliffroute3.rpy:3840
+translate Schinese cliffroute3a_01b21f0b:
+
+    # ys "\"That chant will go on until another night, so I do not think we will find many others in the village to talk to.\""
+    ys "\"That chant will go on until another night, so I do not think we will find many others in the village to talk to.\""
+
+# game/cliffroute3.rpy:3842
+translate Schinese cliffroute3a_813fc767:
+
+    # cl "\"Another night?\""
+    cl "\"Another night?\""
+
+# game/cliffroute3.rpy:3843
+translate Schinese cliffroute3a_90fd13bf:
+
+    # "I’ve heard of such practices before, but it’s a bit different to think about when you just spent most of the previous day participating in one."
+    "I’ve heard of such practices before, but it’s a bit different to think about when you just spent most of the previous day participating in one."
+
+# game/cliffroute3.rpy:3845
+translate Schinese cliffroute3a_b5dcb6e7:
+
+    # ys "\"Yes?\""
+    ys "\"Yes?\""
+
+# game/cliffroute3.rpy:3848
+translate Schinese cliffroute3a_f83a84c0:
+
+    # ys "\"That’s one of the shorter chants.\""
+    ys "\"That’s one of the shorter chants.\""
+
+# game/cliffroute3.rpy:3851
+translate Schinese cliffroute3a_214c6728:
+
+    # ys "\"Sometimes they’re longer.\""
+    ys "\"Sometimes they’re longer.\""
+
+# game/cliffroute3.rpy:3853
+translate Schinese cliffroute3a_66914d95:
+
+    # cl "\"What’s the longest one you can remember?\""
+    cl "\"What’s the longest one you can remember?\""
+
+# game/cliffroute3.rpy:3855
+translate Schinese cliffroute3a_25e1e0a5:
+
+    # "He pauses."
+    "He pauses."
+
+# game/cliffroute3.rpy:3857
+translate Schinese cliffroute3a_3d5948f7:
+
+    # ys "\"Seven days?\""
+    ys "\"Seven days?\""
+
+# game/cliffroute3.rpy:3859
+translate Schinese cliffroute3a_2e9b4748:
+
+    # cl "\"That’s so long!\""
+    cl "\"That’s so long!\""
+
+# game/cliffroute3.rpy:3861
+translate Schinese cliffroute3a_289165cb:
+
+    # "He chuckles."
+    "He chuckles."
+
+# game/cliffroute3.rpy:3863
+translate Schinese cliffroute3a_640aef8f:
+
+    # ys "\"Sometimes there’s a lot to cover.\""
+    ys "\"Sometimes there’s a lot to cover.\""
+
+# game/cliffroute3.rpy:3865
+translate Schinese cliffroute3a_9b55ca82:
+
+    # "I stop walking, turn to him, and give him a quick bow."
+    "I stop walking, turn to him, and give him a quick bow."
+
+# game/cliffroute3.rpy:3866
+translate Schinese cliffroute3a_b51b091d:
+
+    # cl "\"Making you leave a chant early on my accord would leave a stain on my conscience.\""
+    cl "\"Making you leave a chant early on my accord would leave a stain on my conscience.\""
+
+# game/cliffroute3.rpy:3867
+translate Schinese cliffroute3a_ec71f460:
+
+    # cl "\"If my presence has intruded upon or interrupted your way of life in any way, I have to humbly apologize.\""
+    cl "\"If my presence has intruded upon or interrupted your way of life in any way, I have to humbly apologize.\""
+
+# game/cliffroute3.rpy:3869
+translate Schinese cliffroute3a_c5020748:
+
+    # "The bear smiled and scratched the back of his head."
+    "The bear smiled and scratched the back of his head."
+
+# game/cliffroute3.rpy:3871
+translate Schinese cliffroute3a_2840584f:
+
+    # ys "\"That sort of chant is one we do whenever we feel a need for it.\""
+    ys "\"That sort of chant is one we do whenever we feel a need for it.\""
+
+# game/cliffroute3.rpy:3874
+translate Schinese cliffroute3a_c1abd4e3:
+
+    # ys "\"There will be others like it.\""
+    ys "\"There will be others like it.\""
+
+# game/cliffroute3.rpy:3877
+translate Schinese cliffroute3a_e2643851:
+
+    # ys "\"And you know, we’ve had anthropologists visiting us for decades.\""
+    ys "\"And you know, we’ve had anthropologists visiting us for decades.\""
+
+# game/cliffroute3.rpy:3880
+translate Schinese cliffroute3a_19e10729:
+
+    # ys "\"Some stay for much longer than a mere week, at least since the treaty of 1868.\""
+    ys "\"Some stay for much longer than a mere week, at least since the treaty of 1868.\""
+
+# game/cliffroute3.rpy:3883
+translate Schinese cliffroute3a_c75bc122:
+
+    # ys "\"Sometimes a we get so used to them living in the community and asking questions they, as a joke, become considered a part of the family.\""
+    ys "\"Sometimes a we get so used to them living in the community and asking questions they, as a joke, become considered a part of the family.\""
+
+# game/cliffroute3.rpy:3885
+translate Schinese cliffroute3a_4457791e:
+
+    # cl "\"That’s so...\""
+    cl "\"That’s so...\""
+
+# game/cliffroute3.rpy:3886
+translate Schinese cliffroute3a_b9ec0f7a:
+
+    # cl "\"Nice.\""
+    cl "\"Nice.\""
+
+# game/cliffroute3.rpy:3887
+translate Schinese cliffroute3a_439e71ce:
+
+    # cl "\"It’s nice, really.\""
+    cl "\"It’s nice, really.\""
+
+# game/cliffroute3.rpy:3892
+translate Schinese cliffroute3a_fe87011d:
+
+    # ys "\"I don’t necessarily mean that it’s ideal for everybody.\""
+    ys "\"I don’t necessarily mean that it’s ideal for everybody.\""
+
+# game/cliffroute3.rpy:3894
+translate Schinese cliffroute3a_5722d19a:
+
+    # cl "\"Oh, of course.\""
+    cl "\"Oh, of course.\""
+
+# game/cliffroute3.rpy:3896
+translate Schinese cliffroute3a_9526a08d:
+
+    # ys "\"Just more so that it is a peculiarity we’ve had to get used to?\""
+    ys "\"Just more so that it is a peculiarity we’ve had to get used to?\""
+
+# game/cliffroute3.rpy:3899
+translate Schinese cliffroute3a_c3e1a0f3:
+
+    # ys "\"Anthropologists like you have aided missionaries in a group effort to translate and record our language and our beliefs.\""
+    ys "\"Anthropologists like you have aided missionaries in a group effort to translate and record our language and our beliefs.\""
+
+# game/cliffroute3.rpy:3902
+translate Schinese cliffroute3a_e99b205a:
+
+    # ys "\"But that doesn’t mean they are respected, or valued more than as a curiosity.\""
+    ys "\"But that doesn’t mean they are respected, or valued more than as a curiosity.\""
+
+# game/cliffroute3.rpy:3904
+translate Schinese cliffroute3a_0f0bca09:
+
+    # cl "\"I see.\""
+    cl "\"I see.\""
+
+# game/cliffroute3.rpy:3905
+translate Schinese cliffroute3a_e16bb310:
+
+    # cl "\"Are there words that haven’t been translated yet?\""
+    cl "\"Are there words that haven’t been translated yet?\""
+
+# game/cliffroute3.rpy:3907
+translate Schinese cliffroute3a_319be7c3:
+
+    # ys "\"Yes...\""
+    ys "\"Yes...\""
+
+# game/cliffroute3.rpy:3910
+translate Schinese cliffroute3a_32bf0f2a:
+
+    # ys "\"Especially ones they already have words for.\""
+    ys "\"Especially ones they already have words for.\""
+
+# game/cliffroute3.rpy:3913
+translate Schinese cliffroute3a_8fa889bf:
+
+    # ys "\"But we have our own names for wildlife and flowers.\""
+    ys "\"But we have our own names for wildlife and flowers.\""
+
+# game/cliffroute3.rpy:3916
+translate Schinese cliffroute3a_daf71d0f:
+
+    # ys "\"There are customs that we do not feel comfortable sharing, too.\""
+    ys "\"There are customs that we do not feel comfortable sharing, too.\""
+
+# game/cliffroute3.rpy:3918
+translate Schinese cliffroute3a_a490fe5f:
+
+    # "I point to a nearby oak tree that’s sitting next to the church."
+    "I point to a nearby oak tree that’s sitting next to the church."
+
+# game/cliffroute3.rpy:3919
+translate Schinese cliffroute3a_92e74ef4:
+
+    # cl "\"Could I hear your name for that?\""
+    cl "\"Could I hear your name for that?\""
+
+# game/cliffroute3.rpy:3921
+translate Schinese cliffroute3a_cd77a47c:
+
+    # "The bear smiles and clears his throat."
+    "The bear smiles and clears his throat."
+
+# game/cliffroute3.rpy:3923
+translate Schinese cliffroute3a_2860c1ed:
+
+    # "I think I hear him say something along the lines of Alona but I can’t be certain."
+    "I think I hear him say something along the lines of Alona but I can’t be certain."
+
+# game/cliffroute3.rpy:3925
+translate Schinese cliffroute3a_11e33ac7:
+
+    # ca "\"Quite the odd couple you make.\""
+    ca "\"Quite the odd couple you make.\""
+
+# game/cliffroute3.rpy:3927
+translate Schinese cliffroute3a_195b8adf:
+
+    # "Caldwell is standing outside of the church."
+    "Caldwell is standing outside of the church."
+
+# game/cliffroute3.rpy:3930
+translate Schinese cliffroute3a_589eb509:
+
+    # ca "\"You’re late again.\""
+    ca "\"You’re late again.\""
+
+# game/cliffroute3.rpy:3932
+translate Schinese cliffroute3a_e9b7f530:
+
+    # "I take a look at my pocket watch."
+    "I take a look at my pocket watch."
+
+# game/cliffroute3.rpy:3933
+translate Schinese cliffroute3a_c1064827:
+
+    # cl "\"Only fifteen minutes.\""
+    cl "\"Only fifteen minutes.\""
+
+# game/cliffroute3.rpy:3934
+translate Schinese cliffroute3a_e1a3da98:
+
+    # "The reverend rolls his eyes."
+    "The reverend rolls his eyes."
+
+# game/cliffroute3.rpy:3936
+translate Schinese cliffroute3a_2e92ef15:
+
+    # ca "\"Consistent at least.\""
+    ca "\"Consistent at least.\""
+
+# game/cliffroute3.rpy:3940
+translate Schinese cliffroute3a_a1022448:
+
+    # cl "\"Fifteen minutes may be nothing to you, but the children are on a schedule.\""
+    cl "\"Fifteen minutes may be nothing to you, but the children are on a schedule.\""
+
+# game/cliffroute3.rpy:3943
+translate Schinese cliffroute3a_6853f0e6:
+
+    # ca "\"Given that the nature of your thesis centers on work, I thought it would be pertinent to show you how the sustainability of this settlement starts with school.\""
+    ca "\"Given that the nature of your thesis centers on work, I thought it would be pertinent to show you how the sustainability of this settlement starts with school.\""
+
+# game/cliffroute3.rpy:3946
+translate Schinese cliffroute3a_cf3c1d21:
+
+    # "He beckons us down the hallway leading to the chapel."
+    "He beckons us down the hallway leading to the chapel."
+
+# game/cliffroute3.rpy:3947
+translate Schinese cliffroute3a_23e87ae2:
+
+    # "It’s empty right now, and he leads us through a corridor on the left side of the crucifix shaped building."
+    "It’s empty right now, and he leads us through a corridor on the left side of the crucifix shaped building."
+
+# game/cliffroute3.rpy:3953
+translate Schinese cliffroute3a_537c05c8:
+
+    # "It leads to a long room furnished modestly."
+    "It leads to a long room furnished modestly."
+
+# game/cliffroute3.rpy:3955
+translate Schinese cliffroute3a_03d6f511:
+
+    # "Several dozen boys and girls dressed in white shirts and black pants are looking over bible scripture, copying specific passages onto brown paper with quills and ink."
+    "Several dozen boys and girls dressed in white shirts and black pants are looking over bible scripture, copying specific passages onto brown paper with quills and ink."
+
+# game/cliffroute3.rpy:3957
+translate Schinese cliffroute3a_b81456bb:
+
+    # "It doesn’t look that different from my schooling experience."
+    "It doesn’t look that different from my schooling experience."
+
+# game/cliffroute3.rpy:3959
+translate Schinese cliffroute3a_dc221369:
+
+    # "Aside from the fact that everybody is much better behaved."
+    "Aside from the fact that everybody is much better behaved."
+
+# game/cliffroute3.rpy:3961
+translate Schinese cliffroute3a_3f4dccff:
+
+    # "But what strikes me as odd is the quiet."
+    "But what strikes me as odd is the quiet."
+
+# game/cliffroute3.rpy:3963
+translate Schinese cliffroute3a_d8254acd:
+
+    # "Back in my schooldays, there would be whispers and giggles between compatriots in even the quietest of study halls, on occasion."
+    "Back in my schooldays, there would be whispers and giggles between compatriots in even the quietest of study halls, on occasion."
+
+# game/cliffroute3.rpy:3964
+translate Schinese cliffroute3a_3968bc8f:
+
+    # "But here the room is only filled with the sound of scratches on paper and the bubbling of ink."
+    "But here the room is only filled with the sound of scratches on paper and the bubbling of ink."
+
+# game/cliffroute3.rpy:3966
+translate Schinese cliffroute3a_a0176f87:
+
+    # ca "\"Heating, and guaranteed lunch and morning meals that they would often otherwise miss are provided.\""
+    ca "\"Heating, and guaranteed lunch and morning meals that they would often otherwise miss are provided.\""
+
+# game/cliffroute3.rpy:3969
+translate Schinese cliffroute3a_b1ca1a06:
+
+    # ca "\"Access to books and writing tools are also ensured.\""
+    ca "\"Access to books and writing tools are also ensured.\""
+
+# game/cliffroute3.rpy:3971
+translate Schinese cliffroute3a_b0454f45:
+
+    # "He turns to me suddenly and his robe flutters with the sharp turn."
+    "He turns to me suddenly and his robe flutters with the sharp turn."
+
+# game/cliffroute3.rpy:3973
+translate Schinese cliffroute3a_b3b06a8f:
+
+    # ca "\"Do you have questions or concerns so far?\""
+    ca "\"Do you have questions or concerns so far?\""
+
+# game/cliffroute3.rpy:3975
+translate Schinese cliffroute3a_3cdf4e04:
+
+    # cl "\"None, really.\""
+    cl "\"None, really.\""
+
+# game/cliffroute3.rpy:3977
+translate Schinese cliffroute3a_f139492b:
+
+    # "Based on Avery’s story about his sister, I expected to see starvation conditions, illnesses, injuries, or devices of misconduct."
+    "Based on Avery’s story about his sister, I expected to see starvation conditions, illnesses, injuries, or devices of misconduct."
+
+# game/cliffroute3.rpy:3979
+translate Schinese cliffroute3a_4de32e02:
+
+    # "But everything here looks incredibly ordinary."
+    "But everything here looks incredibly ordinary."
+
+# game/cliffroute3.rpy:3981
+translate Schinese cliffroute3a_8b4bf323:
+
+    # "I could easily see myself attending a school not unlike this in Batavia had my parents been poorer."
+    "I could easily see myself attending a school not unlike this in Batavia had my parents been poorer."
+
+# game/cliffroute3.rpy:3984
+translate Schinese cliffroute3a_7e18af2b:
+
+    # "Caldwell makes a gesture with his wing for the two of us to follow him still."
+    "Caldwell makes a gesture with his wing for the two of us to follow him still."
+
+# game/cliffroute3.rpy:3986
+translate Schinese cliffroute3a_9fde250e:
+
+    # ca "\"While every child must learn to read and write, few pursue scholarly paths in isolation.\""
+    ca "\"While every child must learn to read and write, few pursue scholarly paths in isolation.\""
+
+# game/cliffroute3.rpy:3989
+translate Schinese cliffroute3a_ad6b72d3:
+
+    # ca "\"It is crucial to train students to work with their hands just as well as their minds.\""
+    ca "\"It is crucial to train students to work with their hands just as well as their minds.\""
+
+# game/cliffroute3.rpy:3992
+translate Schinese cliffroute3a_53fdcd1c:
+
+    # "As he opens the door to the outside we feel a wave of heat enter the building."
+    "As he opens the door to the outside we feel a wave of heat enter the building."
+
+# game/cliffroute3.rpy:3999
+translate Schinese cliffroute3a_ececfc27:
+
+    # "But we come upon a field with bright green grass, and the sky is crystal-blue."
+    "But we come upon a field with bright green grass, and the sky is crystal-blue."
+
+# game/cliffroute3.rpy:4001
+translate Schinese cliffroute3a_f72557a7:
+
+    # "Goodness gracious is it difficult to conceal my excitement."
+    "Goodness gracious is it difficult to conceal my excitement."
+
+# game/cliffroute3.rpy:4003
+translate Schinese cliffroute3a_e4889244:
+
+    # "There’s wild flowers and fruit trees of many varieties placed perfectly into snug, raised beds."
+    "There’s wild flowers and fruit trees of many varieties placed perfectly into snug, raised beds."
+
+# game/cliffroute3.rpy:4005
+translate Schinese cliffroute3a_9dc8d211:
+
+    # "A low drone comes from boxes and boxes of honey bees, aligned in rows like soldiers."
+    "A low drone comes from boxes and boxes of honey bees, aligned in rows like soldiers."
+
+# game/cliffroute3.rpy:4007
+translate Schinese cliffroute3a_f43206ab:
+
+    # "I can make them out even from far away, and I can see them flit to and fro, like fairies with iridescent wings, wiggling their wee fuzzy bodies free from pollen as a pixie would stardust."
+    "I can make them out even from far away, and I can see them flit to and fro, like fairies with iridescent wings, wiggling their wee fuzzy bodies free from pollen as a pixie would stardust."
+
+# game/cliffroute3.rpy:4009
+translate Schinese cliffroute3a_e55424a0:
+
+    # ca "\"Bees could be considered the forebears of a self-sufficient civilization.\""
+    ca "\"Bees could be considered the forebears of a self-sufficient civilization.\""
+
+# game/cliffroute3.rpy:4012
+translate Schinese cliffroute3a_97e5145b:
+
+    # ca "\"Without them, the flowers wouldn’t breed.\""
+    ca "\"Without them, the flowers wouldn’t breed.\""
+
+# game/cliffroute3.rpy:4015
+translate Schinese cliffroute3a_56d46bbf:
+
+    # ca "\"Without them, the fruits wouldn’t grow.\""
+    ca "\"Without them, the fruits wouldn’t grow.\""
+
+# game/cliffroute3.rpy:4018
+translate Schinese cliffroute3a_dfec9bc0:
+
+    # ca "\"They live in harmony, communicating with one another to serve their queen, bringing life to and treasure to all of God’s creatures.\""
+    ca "\"They live in harmony, communicating with one another to serve their queen, bringing life to and treasure to all of God’s creatures.\""
+
+# game/cliffroute3.rpy:4021
+translate Schinese cliffroute3a_00929822:
+
+    # ca "\"There is no nobler creature than the humble honey bee.\""
+    ca "\"There is no nobler creature than the humble honey bee.\""
+
+# game/cliffroute3.rpy:4023
+translate Schinese cliffroute3a_c4f11111:
+
+    # "One is still wiggling its butt."
+    "One is still wiggling its butt."
+
+# game/cliffroute3.rpy:4025
+translate Schinese cliffroute3a_4dba5d5a:
+
+    # ca "\"Yiska can show you how they are tended.\""
+    ca "\"Yiska can show you how they are tended.\""
+
+# game/cliffroute3.rpy:4027
+translate Schinese cliffroute3a_a6611a7e:
+
+    # cl "\"Oh, truly?\""
+    cl "\"Oh, truly?\""
+
+# game/cliffroute3.rpy:4029
+translate Schinese cliffroute3a_d5f5c0b3:
+
+    # ca "\"He was one of my best students.\""
+    ca "\"He was one of my best students.\""
+
+# game/cliffroute3.rpy:4032
+translate Schinese cliffroute3a_88537a12:
+
+    # ca "\"That is why he still tends to the bees and is granted privileges here and there for his ongoing toils past graduation.\""
+    ca "\"That is why he still tends to the bees and is granted privileges here and there for his ongoing toils past graduation.\""
+
+# game/cliffroute3.rpy:4035
+translate Schinese cliffroute3a_6e475aca:
+
+    # ys "\"They are appreciated, Reverend.\""
+    ys "\"They are appreciated, Reverend.\""
+
+# game/cliffroute3.rpy:4038
+translate Schinese cliffroute3a_274619a1:
+
+    # ca "\"Though you do have your helpers, don’t you?\""
+    ca "\"Though you do have your helpers, don’t you?\""
+
+# game/cliffroute3.rpy:4041
+translate Schinese cliffroute3a_29313cde:
+
+    # ys "\"Kids just like me.\""
+    ys "\"Kids just like me.\""
+
+# game/cliffroute3.rpy:4043
+translate Schinese cliffroute3a_c61ff8b9:
+
+    # ca "\"It takes particular tactics and temperaments to command respect.\""
+    ca "\"It takes particular tactics and temperaments to command respect.\""
+
+# game/cliffroute3.rpy:4047
+translate Schinese cliffroute3a_3280522f:
+
+    # ca "\"Take notes from him, Mr. Houwelinck.\""
+    ca "\"Take notes from him, Mr. Houwelinck.\""
+
+# game/cliffroute3.rpy:4049
+translate Schinese cliffroute3a_2c28c350:
+
+    # "He turns to go and then doubles back."
+    "He turns to go and then doubles back."
+
+# game/cliffroute3.rpy:4051
+translate Schinese cliffroute3a_fa22ea54:
+
+    # ca "\"Oh. If you finish with the bees early, do show him some carpentry as well.\""
+    ca "\"Oh. If you finish with the bees early, do show him some carpentry as well.\""
+
+# game/cliffroute3.rpy:4053
+translate Schinese cliffroute3a_81b40270:
+
+    # ys "\"Yes, Reverend.\""
+    ys "\"Yes, Reverend.\""
+
+# game/cliffroute3.rpy:4056
+translate Schinese cliffroute3a_d04e4cb5:
+
+    # "The bear exhales when Caldwell is gone."
+    "The bear exhales when Caldwell is gone."
+
+# game/cliffroute3.rpy:4058
+translate Schinese cliffroute3a_213978d6:
+
+    # ys "\"I take it you’ve never collected honey before?\""
+    ys "\"I take it you’ve never collected honey before?\""
+
+# game/cliffroute3.rpy:4060
+translate Schinese cliffroute3a_7509de82:
+
+    # cl "\"I should say not.\""
+    cl "\"I should say not.\""
+
+# game/cliffroute3.rpy:4062
+translate Schinese cliffroute3a_2ae9c8ec:
+
+    # cl "\"Why, I’d never forgive myself if I crush some by accident, or made a mess of all the precious honeycomb.\""
+    cl "\"Why, I’d never forgive myself if I crush some by accident, or made a mess of all the precious honeycomb.\""
+
+# game/cliffroute3.rpy:4064
+translate Schinese cliffroute3a_ad58e5ff:
+
+    # cl "\"Besides...\""
+    cl "\"Besides...\""
+
+# game/cliffroute3.rpy:4066
+translate Schinese cliffroute3a_c7efc780:
+
+    # cl "\"Stingers hurt!\""
+    cl "\"Stingers hurt!\""
+
+# game/cliffroute3.rpy:4068
+translate Schinese cliffroute3a_c4f581fc:
+
+    # ys "\"We have ways to protect you from that.\""
+    ys "\"We have ways to protect you from that.\""
+
+# game/cliffroute3.rpy:4070
+translate Schinese cliffroute3a_a13e1c7b:
+
+    # ys "\"Here, come to the shed.\""
+    ys "\"Here, come to the shed.\""
+
+# game/cliffroute3.rpy:4072
+translate Schinese cliffroute3a_bdc1b25e:
+
+    # "We tromp on over to a white-washed shed with a padlock."
+    "We tromp on over to a white-washed shed with a padlock."
+
+# game/cliffroute3.rpy:4074
+translate Schinese cliffroute3a_5b14f956:
+
+    # "Yiska unlocks it and lifts a heavy latch from several bars."
+    "Yiska unlocks it and lifts a heavy latch from several bars."
+
+# game/cliffroute3.rpy:4076
+translate Schinese cliffroute3a_757bc36f:
+
+    # "It’s very secure for a shed."
+    "It’s very secure for a shed."
+
+# game/cliffroute3.rpy:4083
+translate Schinese cliffroute3a_aa310907:
+
+    # "Inside there’s hats with nets tied to the brim, and thick, hardy gloves made of reinforced canvas."
+    "Inside there’s hats with nets tied to the brim, and thick, hardy gloves made of reinforced canvas."
+
+# game/cliffroute3.rpy:4085
+translate Schinese cliffroute3a_09d65f6c:
+
+    # "There’s an entire suit made of the material too."
+    "There’s an entire suit made of the material too."
+
+# game/cliffroute3.rpy:4087
+translate Schinese cliffroute3a_2f5a6b59:
+
+    # ys "\"You can try the bee suit on if you need full protection.\""
+    ys "\"You can try the bee suit on if you need full protection.\""
+
+# game/cliffroute3.rpy:4089
+translate Schinese cliffroute3a_9e202303:
+
+    # cl "\"Hardly necessary.\""
+    cl "\"Hardly necessary.\""
+
+# game/cliffroute3.rpy:4091
+translate Schinese cliffroute3a_eac33a44:
+
+    # cl "\"If my paws and peepers are covered, that’s more than ample protection for me!\""
+    cl "\"If my paws and peepers are covered, that’s more than ample protection for me!\""
+
+# game/cliffroute3.rpy:4093
+translate Schinese cliffroute3a_0fa24cd6:
+
+    # ys "\"Grab the hat and gloves then.\""
+    ys "\"Grab the hat and gloves then.\""
+
+# game/cliffroute3.rpy:4096
+translate Schinese cliffroute3a_ea852eb8:
+
+    # ys "\"...You don’t need to put them on yet.\""
+    ys "\"...You don’t need to put them on yet.\""
+
+# game/cliffroute3.rpy:4098
+translate Schinese cliffroute3a_bd1dcbcf:
+
+    # cl "\"Right.\""
+    cl "\"Right.\""
+
+# game/cliffroute3.rpy:4100
+translate Schinese cliffroute3a_c708e83a:
+
+    # "Yiska pulls something off of a barrel and it looks like a metal can with billows attached behind it that has a long metal tip that’s stoppered with a cork."
+    "Yiska pulls something off of a barrel and it looks like a metal can with billows attached behind it that has a long metal tip that’s stoppered with a cork."
+
+# game/cliffroute3.rpy:4102
+translate Schinese cliffroute3a_7c544b0f:
+
+    # cl "\"What kind of contraption is this?\""
+    cl "\"What kind of contraption is this?\""
+
+# game/cliffroute3.rpy:4104
+translate Schinese cliffroute3a_73d41607:
+
+    # ys "\"It’s a smoker.\""
+    ys "\"It’s a smoker.\""
+
+# game/cliffroute3.rpy:4106
+translate Schinese cliffroute3a_3baa53d7:
+
+    # "He takes the lid off and shows me a hollow well inside of the metal can."
+    "He takes the lid off and shows me a hollow well inside of the metal can."
+
+# game/cliffroute3.rpy:4108
+translate Schinese cliffroute3a_9c3b834d:
+
+    # ys "\"We can start a flame with cardboard and pine needles that burns inside, and we can puff out the smoke using the spout and the billows.\""
+    ys "\"We can start a flame with cardboard and pine needles that burns inside, and we can puff out the smoke using the spout and the billows.\""
+
+# game/cliffroute3.rpy:4110
+translate Schinese cliffroute3a_cc7bff89:
+
+    # cl "\"Why do you need to make smoke?\""
+    cl "\"Why do you need to make smoke?\""
+
+# game/cliffroute3.rpy:4112
+translate Schinese cliffroute3a_dcbc5e8d:
+
+    # ys "\"It makes the bees docile.\""
+    ys "\"It makes the bees docile.\""
+
+# game/cliffroute3.rpy:4114
+translate Schinese cliffroute3a_3e2b2044:
+
+    # "He pulls a piece of cardboard off of the shelf and rolls it into a little band."
+    "He pulls a piece of cardboard off of the shelf and rolls it into a little band."
+
+# game/cliffroute3.rpy:4116
+translate Schinese cliffroute3a_df3006b1:
+
+    # "Then he takes a lighter from his pocket, ignites it, and puts it in the smoker."
+    "Then he takes a lighter from his pocket, ignites it, and puts it in the smoker."
+
+# game/cliffroute3.rpy:4121
+translate Schinese cliffroute3a_3997b745:
+
+    # "We leave the shed, locking it behind us as the bear leans over to scoop dry pine needles off of the floor, stuffing it into the smoker."
+    "We leave the shed, locking it behind us as the bear leans over to scoop dry pine needles off of the floor, stuffing it into the smoker."
+
+# game/cliffroute3.rpy:4123
+translate Schinese cliffroute3a_a3d0c083:
+
+    # "He takes a while to do this, stuffing more pine nettles in than I had thought possible."
+    "He takes a while to do this, stuffing more pine nettles in than I had thought possible."
+
+# game/cliffroute3.rpy:4125
+translate Schinese cliffroute3a_d7673b59:
+
+    # "But eventually he closes the top and squeezes the billows a few times to show me puffs of concentrated smoke emit in a direction out of the spout."
+    "But eventually he closes the top and squeezes the billows a few times to show me puffs of concentrated smoke emit in a direction out of the spout."
+
+# game/cliffroute3.rpy:4127
+translate Schinese cliffroute3a_684a1dd6:
+
+    # ys "\"Now you want to put the netting on.\""
+    ys "\"Now you want to put the netting on.\""
+
+# game/cliffroute3.rpy:4129
+translate Schinese cliffroute3a_64f1a24e:
+
+    # cl "\"Righto.\""
+    cl "\"Righto.\""
+
+# game/cliffroute3.rpy:4132
+translate Schinese cliffroute3a_fe4fab71:
+
+    # "The bear squeezes the billows and aims the nozzle at the opening of the box where bees are climbing out."
+    "The bear squeezes the billows and aims the nozzle at the opening of the box where bees are climbing out."
+
+# game/cliffroute3.rpy:4134
+translate Schinese cliffroute3a_a08505ab:
+
+    # "Thick puffs of smoke shoot their way into the boxes and the droning gets louder."
+    "Thick puffs of smoke shoot their way into the boxes and the droning gets louder."
+
+# game/cliffroute3.rpy:4135
+translate Schinese cliffroute3a_c4dee5c7:
+
+    # cl "\"I thought you said they’re supposed to calm down!\""
+    cl "\"I thought you said they’re supposed to calm down!\""
+
+# game/cliffroute3.rpy:4137
+translate Schinese cliffroute3a_bc1ea4f3:
+
+    # ys "\"Give them five minutes.\""
+    ys "\"Give them five minutes.\""
+
+# game/cliffroute3.rpy:4139
+translate Schinese cliffroute3a_e3085402:
+
+    # "I look into the distance."
+    "I look into the distance."
+
+# game/cliffroute3.rpy:4140
+translate Schinese cliffroute3a_2b4df4c4:
+
+    # "I see a young squirrel in a school outfit, nailing planks together."
+    "I see a young squirrel in a school outfit, nailing planks together."
+
+# game/cliffroute3.rpy:4141
+translate Schinese cliffroute3a_e7d86294:
+
+    # "An older, male dog monitors her."
+    "An older, male dog monitors her."
+
+# game/cliffroute3.rpy:4142
+translate Schinese cliffroute3a_e83a2b8f:
+
+    # "The shape of it reminds me of all the flower beds around us."
+    "The shape of it reminds me of all the flower beds around us."
+
+# game/cliffroute3.rpy:4143
+translate Schinese cliffroute3a_226ad498:
+
+    # "I have to resist asking to get involved."
+    "I have to resist asking to get involved."
+
+# game/cliffroute3.rpy:4144
+translate Schinese cliffroute3a_04897aa9:
+
+    # cl "\"While we wait...\""
+    cl "\"While we wait...\""
+
+# game/cliffroute3.rpy:4145
+translate Schinese cliffroute3a_a845a2b5:
+
+    # cl "\"Is it true what the reverend said?\""
+    cl "\"Is it true what the reverend said?\""
+
+# game/cliffroute3.rpy:4146
+translate Schinese cliffroute3a_4c93fc88:
+
+    # cl "\"That the kids like you?\""
+    cl "\"That the kids like you?\""
+
+# game/cliffroute3.rpy:4148
+translate Schinese cliffroute3a_eba6a5a3:
+
+    # "The {nw}"
+    "The {nw}"
+
+# game/cliffroute3.rpy:4150
+translate Schinese cliffroute3a_fa5f6dcc:
+
+    # extend "bear blinks."
+    extend "bear blinks."
+
+# game/cliffroute3.rpy:4152
+translate Schinese cliffroute3a_ba183053:
+
+    # ys "\"They can see that I’m strong... and can do some things they can’t, yet.\""
+    ys "\"They can see that I’m strong... and can do some things they can’t, yet.\""
+
+# game/cliffroute3.rpy:4155
+translate Schinese cliffroute3a_b8383a3e:
+
+    # ys "\"That often impresses children.\""
+    ys "\"That often impresses children.\""
+
+# game/cliffroute3.rpy:4157
+translate Schinese cliffroute3a_f7c52331:
+
+    # cl "\"Right, but he said they like you.\""
+    cl "\"Right, but he said they like you.\""
+
+# game/cliffroute3.rpy:4158
+translate Schinese cliffroute3a_df001af0:
+
+    # cl "\"Do they tell you much about their experiences in school?\""
+    cl "\"Do they tell you much about their experiences in school?\""
+
+# game/cliffroute3.rpy:4160
+translate Schinese cliffroute3a_eec6d879:
+
+    # ys "\"No more than I already know.\""
+    ys "\"No more than I already know.\""
+
+# game/cliffroute3.rpy:4162
+translate Schinese cliffroute3a_7f8b26d6:
+
+    # "So what do you know?"
+    "So what do you know?"
+
+# game/cliffroute3.rpy:4164
+translate Schinese cliffroute3a_a2e978ed:
+
+    # ys "\"Rewards come if you behave.\""
+    ys "\"Rewards come if you behave.\""
+
+# game/cliffroute3.rpy:4167
+translate Schinese cliffroute3a_7cdbc12a:
+
+    # ys "\"Consequences come if you do not.\""
+    ys "\"Consequences come if you do not.\""
+
+# game/cliffroute3.rpy:4169
+translate Schinese cliffroute3a_1319c21c:
+
+    # cl "\"Consequences like what?\""
+    cl "\"Consequences like what?\""
+
+# game/cliffroute3.rpy:4171
+translate Schinese cliffroute3a_9e367e4f:
+
+    # ys "\"Weren’t you punished in school when you didn’t obey your teachers?\""
+    ys "\"Weren’t you punished in school when you didn’t obey your teachers?\""
+
+# game/cliffroute3.rpy:4173
+translate Schinese cliffroute3a_2a041ecf:
+
+    # cl "\"I’ve had my paws slapped by a ruler more times than I’d like to count.\""
+    cl "\"I’ve had my paws slapped by a ruler more times than I’d like to count.\""
+
+# game/cliffroute3.rpy:4175
+translate Schinese cliffroute3a_adc3e2cf:
+
+    # "He nods."
+    "He nods."
+
+# game/cliffroute3.rpy:4177
+translate Schinese cliffroute3a_7587611a:
+
+    # ys "\"I am treated well when keep to myself, and when I listen.\""
+    ys "\"I am treated well when keep to myself, and when I listen.\""
+
+# game/cliffroute3.rpy:4179
+translate Schinese cliffroute3a_0f0bca09_1:
+
+    # cl "\"I see.\""
+    cl "\"I see.\""
+
+# game/cliffroute3.rpy:4182
+translate Schinese cliffroute3a_ccb35005:
+
+    # "He wipes his brow."
+    "He wipes his brow."
+
+# game/cliffroute3.rpy:4184
+translate Schinese cliffroute3a_1d9a877d:
+
+    # ys "\"The bees should be calm by now.\""
+    ys "\"The bees should be calm by now.\""
+
+# game/cliffroute3.rpy:4187
+translate Schinese cliffroute3a_ec96c88f:
+
+    # "He steps over to lift the box."
+    "He steps over to lift the box."
+
+# game/cliffroute3.rpy:4189
+translate Schinese cliffroute3a_d7417876:
+
+    # "The bees are all jittering, moving slower than they were before."
+    "The bees are all jittering, moving slower than they were before."
+
+# game/cliffroute3.rpy:4190
+translate Schinese cliffroute3a_04e12301:
+
+    # "He pulls out a wooden sheath that’s covered one one side by drowsy looking bees, and a thick, golden, hive-like pattern of hexagons."
+    "He pulls out a wooden sheath that’s covered one one side by drowsy looking bees, and a thick, golden, hive-like pattern of hexagons."
+
+# game/cliffroute3.rpy:4192
+translate Schinese cliffroute3a_4edf0ff3:
+
+    # cl "\"Oh, that’s beautiful.\""
+    cl "\"Oh, that’s beautiful.\""
+
+# game/cliffroute3.rpy:4194
+translate Schinese cliffroute3a_2b7da02f:
+
+    # ys "\"The honey here has a distinct smell too.\""
+    ys "\"The honey here has a distinct smell too.\""
+
+# game/cliffroute3.rpy:4196
+translate Schinese cliffroute3a_8564041c:
+
+    # "It smelled shyly of honeysuckle, but there was a strong, melony scent of saguaro flowers within."
+    "It smelled shyly of honeysuckle, but there was a strong, melony scent of saguaro flowers within."
+
+# game/cliffroute3.rpy:4197
+translate Schinese cliffroute3a_eedf3a1d:
+
+    # cl "\"Beautiful.\""
+    cl "\"Beautiful.\""
+
+# game/cliffroute3.rpy:4199
+translate Schinese cliffroute3a_c3f2a0ab:
+
+    # ys "\"As the reverend said, that’s just the miracle of bees.\""
+    ys "\"As the reverend said, that’s just the miracle of bees.\""
+
+# game/cliffroute3.rpy:4201
+translate Schinese cliffroute3a_8de35db0:
+
+    # "He scrapes off a nugget of waxy honey comb and holds it out to my paw."
+    "He scrapes off a nugget of waxy honey comb and holds it out to my paw."
+
+# game/cliffroute3.rpy:4203
+translate Schinese cliffroute3a_c6d7b5a5:
+
+    # ys "\"Try it.\""
+    ys "\"Try it.\""
+
+# game/cliffroute3.rpy:4205
+translate Schinese cliffroute3a_f627b9e5:
+
+    # "I pick it off of his tool and pop it into my mouth."
+    "I pick it off of his tool and pop it into my mouth."
+
+# game/cliffroute3.rpy:4206
+translate Schinese cliffroute3a_f49718f4:
+
+    # "The crunch is followed by the bright, floral taste, and it melts in my mouth."
+    "The crunch is followed by the bright, floral taste, and it melts in my mouth."
+
+# game/cliffroute3.rpy:4208
+translate Schinese cliffroute3a_4b059c62:
+
+    # "I can’t help but lick all of it off of my fingers, which makes the bear start laughing."
+    "I can’t help but lick all of it off of my fingers, which makes the bear start laughing."
+
+# game/cliffroute3.rpy:4209
+translate Schinese cliffroute3a_7ff42e11:
+
+    # cl "\"What? It’s good.\""
+    cl "\"What? It’s good.\""
+
+# game/cliffroute3.rpy:4211
+translate Schinese cliffroute3a_df35a792:
+
+    # ys "\"I just picked you as a more delicate eater.\""
+    ys "\"I just picked you as a more delicate eater.\""
+
+# game/cliffroute3.rpy:4213
+translate Schinese cliffroute3a_615c285c:
+
+    # cl "\"Not when I’m ravenous.\""
+    cl "\"Not when I’m ravenous.\""
+
+# game/cliffroute3.rpy:4214
+translate Schinese cliffroute3a_c06822d0:
+
+    # "I forgot that we didn’t even eat breakfast and my stomach rumbles."
+    "I forgot that we didn’t even eat breakfast and my stomach rumbles."
+
+# game/cliffroute3.rpy:4215
+translate Schinese cliffroute3a_82d1d4c3:
+
+    # "The honey should hold me over for now."
+    "The honey should hold me over for now."
+
+# game/cliffroute3.rpy:4216
+translate Schinese cliffroute3a_1495907a:
+
+    # "A sudden draft blows in and it blows soft ripples over the grass."
+    "A sudden draft blows in and it blows soft ripples over the grass."
+
+# game/cliffroute3.rpy:4217
+translate Schinese cliffroute3a_e741ed93:
+
+    # "The trees rustle as I feel the cool air against my skin and smell the honey hovering over me."
+    "The trees rustle as I feel the cool air against my skin and smell the honey hovering over me."
+
+# game/cliffroute3.rpy:4221
+translate Schinese cliffchoice4_80a9916c:
+
+    # "This really is a beautiful area, and the people here are taken care of."
+    "This really is a beautiful area, and the people here are taken care of."
+
+# game/cliffroute3.rpy:4222
+translate Schinese cliffchoice4_4e018c27:
+
+    # "It’s wrong what this country is doing to their culture, but civilization creeps into every corner of the world eventually."
+    "It’s wrong what this country is doing to their culture, but civilization creeps into every corner of the world eventually."
+
+# game/cliffroute3.rpy:4223
+translate Schinese cliffchoice4_360f5118:
+
+    # "Pretty paintings and fantastic tales might have brought me this far, but the transcontinental railroad is what’s real."
+    "Pretty paintings and fantastic tales might have brought me this far, but the transcontinental railroad is what’s real."
+
+# game/cliffroute3.rpy:4226
+translate Schinese cliffchoice4_c5282957:
+
+    # "Of course a school like that would seem normal to me."
+    "Of course a school like that would seem normal to me."
+
+# game/cliffroute3.rpy:4227
+translate Schinese cliffchoice4_d26b2dee:
+
+    # "I’ve never known much different."
+    "I’ve never known much different."
+
+# game/cliffroute3.rpy:4228
+translate Schinese cliffchoice4_60488641:
+
+    # "But it’s different for the people who live under the thumb of this country."
+    "But it’s different for the people who live under the thumb of this country."
+
+# game/cliffroute3.rpy:4229
+translate Schinese cliffchoice4_221485fb:
+
+    # "Despite how sweet the honey might taste or how beautiful the land is here, these people still aren’t given a choice in the matter, what this country tries to do with them."
+    "Despite how sweet the honey might taste or how beautiful the land is here, these people still aren’t given a choice in the matter, what this country tries to do with them."
+
+# game/cliffroute3.rpy:4234
+translate Schinese cliffchoice4_41637bcc:
+
+    # "But as soon as I pluck my own board of beeswax out of the hive, a sound disturbs the peace."
+    "But as soon as I pluck my own board of beeswax out of the hive, a sound disturbs the peace."
+
+# game/cliffroute3.rpy:4235
+translate Schinese cliffchoice4_5e69d451:
+
+    # "Somebody barks out a call from the wheat field behind us."
+    "Somebody barks out a call from the wheat field behind us."
+
+# game/cliffroute3.rpy:4236
+translate Schinese cliffchoice4_4e5f0c7c:
+
+    # "We both turn around and my heart sinks a bit to see Tsela."
+    "We both turn around and my heart sinks a bit to see Tsela."
+
+# game/cliffroute3.rpy:4237
+translate Schinese cliffchoice4_68f9945f:
+
+    # "I can tell that he doesn’t much care for me, but I don’t want to cause any trouble."
+    "I can tell that he doesn’t much care for me, but I don’t want to cause any trouble."
+
+# game/cliffroute3.rpy:4241
+translate Schinese cliffchoice4_57dfc5ef:
+
+    # "He starts talking in the Meseta language."
+    "He starts talking in the Meseta language."
+
+# game/cliffroute3.rpy:4243
+translate Schinese cliffchoice4_07549eec:
+
+    # "I don’t know if he knows, but I can understand him."
+    "I don’t know if he knows, but I can understand him."
+
+# game/cliffroute3.rpy:4244
+translate Schinese cliffchoice4_588093a3:
+
+    # "I can make out injury, beast, white and corpses."
+    "I can make out injury, beast, white and corpses."
+
+# game/cliffroute3.rpy:4245
+translate Schinese cliffchoice4_390e675b:
+
+    # "Tsela is pointing over to something in the cornfield and Yiska is looking back."
+    "Tsela is pointing over to something in the cornfield and Yiska is looking back."
+
+# game/cliffroute3.rpy:4247
+translate Schinese cliffchoice4_ea16e2ac:
+
+    # "I can translate the bear’s response to something close to {i}are you sure{/i}?"
+    "I can translate the bear’s response to something close to {i}are you sure{/i}?"
+
+# game/cliffroute3.rpy:4250
+translate Schinese cliffchoice4_fb2b9d03:
+
+    # "Tsela, undeniably, says {i}yes{/i} several times."
+    "Tsela, undeniably, says {i}yes{/i} several times."
+
+# game/cliffroute3.rpy:4252
+translate Schinese cliffchoice4_acec8d32:
+
+    # cl "\"What are the two of you talking about?\""
+    cl "\"What are the two of you talking about?\""
+
+# game/cliffroute3.rpy:4254
+translate Schinese cliffchoice4_b98b5581:
+
+    # "Tsela sucks through his teeth."
+    "Tsela sucks through his teeth."
+
+# game/cliffroute3.rpy:4257
+translate Schinese cliffchoice4_b8c3228f:
+
+    # ys "\"He should know.\""
+    ys "\"He should know.\""
+
+# game/cliffroute3.rpy:4259
+translate Schinese cliffchoice4_ec6cbcb6:
+
+    # cl "\"Know what?\""
+    cl "\"Know what?\""
+
+# game/cliffroute3.rpy:4261
+translate Schinese cliffchoice4_2a8a5b9f:
+
+    # "The fox gives me a dirty look,{nw}"
+    "The fox gives me a dirty look,{nw}"
+
+# game/cliffroute3.rpy:4264
+translate Schinese cliffchoice4_3866f7a0:
+
+    # extend " but the bear gives him one that makes him stand down."
+    extend " but the bear gives him one that makes him stand down."
+
+# game/cliffroute3.rpy:4267
+translate Schinese cliffchoice4_246d28c3:
+
+    # ys "\"Follow.\""
+    ys "\"Follow.\""
+
+# game/cliffroute3.rpy:4273
+translate Schinese cliffchoice4_18d686a8:
+
+    # "We walk for a few minutes towards the center of the corn field."
+    "We walk for a few minutes towards the center of the corn field."
+
+# game/cliffroute3.rpy:4275
+translate Schinese cliffchoice4_382db670:
+
+    # "I hear bees swarming."
+    "I hear bees swarming."
+
+# game/cliffroute3.rpy:4276
+translate Schinese cliffchoice4_0a61fa20:
+
+    # "Or at least things that look like bees."
+    "Or at least things that look like bees."
+
+# game/cliffroute3.rpy:4277
+translate Schinese cliffchoice4_7e9fa45f:
+
+    # "Beeflies."
+    "Beeflies."
+
+# game/cliffroute3.rpy:4282
+translate Schinese cliffchoice4_08a668ba:
+
+    # "And they’re swarming a large chunk of meat on the ground."
+    "And they’re swarming a large chunk of meat on the ground."
+
+# game/cliffroute3.rpy:4283
+translate Schinese cliffchoice4_e94ef170:
+
+    # "It looks like what remains of a pack mule and I want to retch."
+    "It looks like what remains of a pack mule and I want to retch."
+
+# game/cliffroute3.rpy:4288
+translate Schinese cliffchoice4_3d85f3b8:
+
+    # cl "\"This is awful.\""
+    cl "\"This is awful.\""
+
+# game/cliffroute3.rpy:4289
+translate Schinese cliffchoice4_50d8ade5:
+
+    # cl "\"How did it die?\""
+    cl "\"How did it die?\""
+
+# game/cliffroute3.rpy:4291
+translate Schinese cliffchoice4_e608b3d6:
+
+    # ts "\"This isn’t the only one.\""
+    ts "\"This isn’t the only one.\""
+
+# game/cliffroute3.rpy:4294
+translate Schinese cliffchoice4_7d3b2167:
+
+    # ts "\"Five penned pack animals were slaughtered last night that I’ve seen so far.\""
+    ts "\"Five penned pack animals were slaughtered last night that I’ve seen so far.\""
+
+# game/cliffroute3.rpy:4296
+translate Schinese cliffchoice4_6d38af22:
+
+    # cl "\"Is this the work of that animal that was tracking us in the wood?\""
+    cl "\"Is this the work of that animal that was tracking us in the wood?\""
+
+# game/cliffroute3.rpy:4298
+translate Schinese cliffchoice4_7aa0ccdc:
+
+    # cl "\"What does this mean?\""
+    cl "\"What does this mean?\""
+
+# game/cliffroute3.rpy:4300
+translate Schinese cliffchoice4_2abfa2ed:
+
+    # "Tsela says something."
+    "Tsela says something."
+
+# game/cliffroute3.rpy:4302
+translate Schinese cliffchoice4_4841757d:
+
+    # "It sounds an awful lot..."
+    "It sounds an awful lot..."
+
+# game/cliffroute3.rpy:4303
+translate Schinese cliffchoice4_7c7561a5:
+
+    # "...Like {i}no way out on foot or cart{/i}."
+    "...Like {i}no way out on foot or cart{/i}."
+
+# game/cliffroute3.rpy:4304
+translate Schinese cliffchoice4_87fadf8b:
+
+    # cl "\"What does he mean by that?!\""
+    cl "\"What does he mean by that?!\""
+
+# game/cliffroute3.rpy:4306
+translate Schinese cliffchoice4_77494f39:
+
+    # ts "\"Don’t concern yourself.\""
+    ts "\"Don’t concern yourself.\""
+
+# game/cliffroute3.rpy:4309
+translate Schinese cliffchoice4_f8925f54:
+
+    # ca "\"I think I have a right to be concerned.\""
+    ca "\"I think I have a right to be concerned.\""
+
+# game/cliffroute3.rpy:4311
+translate Schinese cliffchoice4_01491e7b:
+
+    # "We hear the voice of the reverend walking through the field in a surprisingly rapid gait."
+    "We hear the voice of the reverend walking through the field in a surprisingly rapid gait."
+
+# game/cliffroute3.rpy:4315
+translate Schinese cliffchoice4_96c88962:
+
+    # ca "\"I could hear all the way across the field that you both weren’t speaking Albion.\""
+    ca "\"I could hear all the way across the field that you both weren’t speaking Albion.\""
+
+# game/cliffroute3.rpy:4320
+translate Schinese cliffchoice4_332a3d86:
+
+    # ca "\"What’s this commotion all about?\""
+    ca "\"What’s this commotion all about?\""
+
+# game/cliffroute3.rpy:4322
+translate Schinese cliffchoice4_ac418f29:
+
+    # "Yiska suddenly looks very anxious."
+    "Yiska suddenly looks very anxious."
+
+# game/cliffroute3.rpy:4324
+translate Schinese cliffchoice4_5857e864:
+
+    # "Tsela spits on the ground and turns away."
+    "Tsela spits on the ground and turns away."
+
+# game/cliffroute3.rpy:4326
+translate Schinese cliffchoice4_fed0e590:
+
+    # ca "\"Address me, Tsela Begay!\""
+    ca "\"Address me, Tsela Begay!\""
+
+# game/cliffroute3.rpy:4328
+translate Schinese cliffchoice4_b05ed8fb:
+
+    # "He keeps on walking as he disappears into the cornfield."
+    "He keeps on walking as he disappears into the cornfield."
+
+# game/cliffroute3.rpy:4330
+translate Schinese cliffchoice4_d3dcae20:
+
+    # ca "\"That man is out order.\""
+    ca "\"That man is out order.\""
+
+# game/cliffroute3.rpy:4333
+translate Schinese cliffchoice4_edac8377:
+
+    # ys "\"I apologize for his behavior, Reverend.\""
+    ys "\"I apologize for his behavior, Reverend.\""
+
+# game/cliffroute3.rpy:4336
+translate Schinese cliffchoice4_f3c306d4:
+
+    # ca "\"I’ll talk to him tonight.\""
+    ca "\"I’ll talk to him tonight.\""
+
+# game/cliffroute3.rpy:4339
+translate Schinese cliffchoice4_01d23cd1:
+
+    # ca "\"I’m less concerned with him than I am with you, Yiska.\""
+    ca "\"I’m less concerned with him than I am with you, Yiska.\""
+
+# game/cliffroute3.rpy:4342
+translate Schinese cliffchoice4_ed7ac4dc:
+
+    # ca "\"I know that you were not speaking Albion with him.\""
+    ca "\"I know that you were not speaking Albion with him.\""
+
+# game/cliffroute3.rpy:4345
+translate Schinese cliffchoice4_ee1e805f:
+
+    # ys "\"It was urgent.\""
+    ys "\"It was urgent.\""
+
+# game/cliffroute3.rpy:4348
+translate Schinese cliffchoice4_44ee2c78:
+
+    # ys "\"An old habit, nothing more.\""
+    ys "\"An old habit, nothing more.\""
+
+# game/cliffroute3.rpy:4351
+translate Schinese cliffchoice4_ad2fbfae:
+
+    # ca "\"A habit that I thought had died, Yiska.\""
+    ca "\"A habit that I thought had died, Yiska.\""
+
+# game/cliffroute3.rpy:4355
+translate Schinese cliffchoice4_0f6b41e2:
+
+    # ca "\"You know what we must do.\""
+    ca "\"You know what we must do.\""
+
+# game/cliffroute3.rpy:4359
+translate Schinese cliffchoice4_797822bf:
+
+    # ca "\"Come along, Mr. Tibbits.\""
+    ca "\"Come along, Mr. Tibbits.\""
+
+# game/cliffroute3.rpy:4362
+translate Schinese cliffchoice4_0a7a70d9:
+
+    # "I’m not sure what’s going on right now, but they’re both tense."
+    "I’m not sure what’s going on right now, but they’re both tense."
+
+# game/cliffroute3.rpy:4363
+translate Schinese cliffchoice4_0841b93b:
+
+    # cl "\"Come along where?\""
+    cl "\"Come along where?\""
+
+# game/cliffroute3.rpy:4365
+translate Schinese cliffchoice4_0e7ac2c1:
+
+    # ca "\"To the sink, where else?\""
+    ca "\"To the sink, where else?\""
+
+# game/cliffroute3.rpy:4374
+translate Schinese cliffchoice4_984e53de:
+
+    # "There’s a small lean-to against the church with a sink and a spicket."
+    "There’s a small lean-to against the church with a sink and a spicket."
+
+# game/cliffroute3.rpy:4377
+translate Schinese cliffchoice4_791f83b4:
+
+    # "Caldwell pulls out a bucket from beneath the sink, producing a white-grey slab of chalky substance."
+    "Caldwell pulls out a bucket from beneath the sink, producing a white-grey slab of chalky substance."
+
+# game/cliffroute3.rpy:4379
+translate Schinese cliffchoice4_c91a92e9:
+
+    # "He slices a sliver of the stuff and holds it in front of the bear’s face."
+    "He slices a sliver of the stuff and holds it in front of the bear’s face."
+
+# game/cliffroute3.rpy:4381
+translate Schinese cliffchoice4_6ecda044:
+
+    # ca "\"Remember?\""
+    ca "\"Remember?\""
+
+# game/cliffroute3.rpy:4383
+translate Schinese cliffchoice4_8032ca94:
+
+    # "The bear isn’t looking directly at him."
+    "The bear isn’t looking directly at him."
+
+# game/cliffroute3.rpy:4385
+translate Schinese cliffchoice4_81b40270:
+
+    # ys "\"Yes, Reverend.\""
+    ys "\"Yes, Reverend.\""
+
+# game/cliffroute3.rpy:4388
+translate Schinese cliffchoice4_cd5119d2:
+
+    # ca "\"Open.\""
+    ca "\"Open.\""
+
+# game/cliffroute3.rpy:4391
+translate Schinese cliffchoice4_e35c10ca:
+
+    # "I’m not sure what’s happening in front of my eyes but I don’t like it one bit."
+    "I’m not sure what’s happening in front of my eyes but I don’t like it one bit."
+
+# game/cliffroute3.rpy:4392
+translate Schinese cliffchoice4_40721e29:
+
+    # cl "\"Reverend...\""
+    cl "\"Reverend...\""
+
+# game/cliffroute3.rpy:4393
+translate Schinese cliffchoice4_98b09d59:
+
+    # cl "\"What is that?\""
+    cl "\"What is that?\""
+
+# game/cliffroute3.rpy:4395
+translate Schinese cliffchoice4_9c495bb1:
+
+    # ca "\"It’s soap, Mr. Tibbets.\""
+    ca "\"It’s soap, Mr. Tibbets.\""
+
+# game/cliffroute3.rpy:4398
+translate Schinese cliffchoice4_adf1f9be:
+
+    # ca "\"The cheapest you can make with lard and wood ash.\""
+    ca "\"The cheapest you can make with lard and wood ash.\""
+
+# game/cliffroute3.rpy:4401
+translate Schinese cliffchoice4_c870adbf:
+
+    # ca "\"It’s the only thing you need to clean a dirty mouth though.\""
+    ca "\"It’s the only thing you need to clean a dirty mouth though.\""
+
+# game/cliffroute3.rpy:4406
+translate Schinese cliffchoice5_86938b24:
+
+    # "This is not my home, not my country."
+    "This is not my home, not my country."
+
+# game/cliffroute3.rpy:4407
+translate Schinese cliffchoice5_07aec601:
+
+    # "These people are strange and barbaric to me."
+    "These people are strange and barbaric to me."
+
+# game/cliffroute3.rpy:4412
+translate Schinese cliffchoice5_2fcebc88:
+
+    # cl "\"No, you can’t!\""
+    cl "\"No, you can’t!\""
+
+# game/cliffroute3.rpy:4413
+translate Schinese cliffchoice5_a3fd5e03:
+
+    # "The words are blurted from my mouth before I can stop them."
+    "The words are blurted from my mouth before I can stop them."
+
+# game/cliffroute3.rpy:4414
+translate Schinese cliffchoice5_656e6f60:
+
+    # "The reverend tilts his head at me and stares."
+    "The reverend tilts his head at me and stares."
+
+# game/cliffroute3.rpy:4416
+translate Schinese cliffchoice5_352dac60:
+
+    # ca "\"I can’t do what, Mr. Tibbits?\""
+    ca "\"I can’t do what, Mr. Tibbits?\""
+
+# game/cliffroute3.rpy:4418
+translate Schinese cliffchoice5_0eba71e1:
+
+    # "He looks annoyed, like I’m some sort of petulant child making a scene rather than pointing out what he’s doing is dangerous."
+    "He looks annoyed, like I’m some sort of petulant child making a scene rather than pointing out what he’s doing is dangerous."
+
+# game/cliffroute3.rpy:4419
+translate Schinese cliffchoice5_6d0d0bee:
+
+    # cl "\"Lye is toxic!\""
+    cl "\"Lye is toxic!\""
+
+# game/cliffroute3.rpy:4420
+translate Schinese cliffchoice5_457231fb:
+
+    # cl "\"It can leave chemical burns inside of his mouth.\""
+    cl "\"It can leave chemical burns inside of his mouth.\""
+
+# game/cliffroute3.rpy:4422
+translate Schinese cliffchoice5_130a5a55:
+
+    # ys "\"Reverend, please...\""
+    ys "\"Reverend, please...\""
+
+# game/cliffroute3.rpy:4424
+translate Schinese cliffchoice5_5a843478:
+
+    # "Yiska’s face looks very calm."
+    "Yiska’s face looks very calm."
+
+# game/cliffroute3.rpy:4425
+translate Schinese cliffchoice5_c2873f39:
+
+    # "Too calm."
+    "Too calm."
+
+# game/cliffroute3.rpy:4428
+translate Schinese cliffchoice5_4d71b10f:
+
+    # ys "\"Don’t pay him any mind.\""
+    ys "\"Don’t pay him any mind.\""
+
+# game/cliffroute3.rpy:4431
+translate Schinese cliffchoice5_85ea2cc5:
+
+    # ys "\"Give me the soap.\""
+    ys "\"Give me the soap.\""
+
+# game/cliffroute3.rpy:4433
+translate Schinese cliffchoice5_fcd38da2:
+
+    # "I can’t believe what I’m hearing."
+    "I can’t believe what I’m hearing."
+
+# game/cliffroute3.rpy:4435
+translate Schinese cliffchoice5_35b77be9:
+
+    # ca "\"Of course, my son.\""
+    ca "\"Of course, my son.\""
+
+# game/cliffroute3.rpy:4440
+translate Schinese cliffchoice5_9ab3dbc8:
+
+    # "As hard as it is to watch, I see the bear take the bar with very little hesitation and put it in his mouth."
+    "As hard as it is to watch, I see the bear take the bar with very little hesitation and put it in his mouth."
+
+# game/cliffroute3.rpy:4441
+translate Schinese cliffchoice5_e75e704f:
+
+    # "The reverend nods, and places his wing like a solemn parent on the bear’s back as he watches the bear choke and sputter on the suds."
+    "The reverend nods, and places his wing like a solemn parent on the bear’s back as he watches the bear choke and sputter on the suds."
+
+# game/cliffroute3.rpy:4443
+translate Schinese cliffchoice5_820f7aa5:
+
+    # ca "\"That’s enough.\""
+    ca "\"That’s enough.\""
+
+# game/cliffroute3.rpy:4445
+translate Schinese cliffchoice5_a5b691dc:
+
+    # "He speaks gently."
+    "He speaks gently."
+
+# game/cliffroute3.rpy:4447
+translate Schinese cliffchoice5_e0b443f1:
+
+    # ca "\"Now spit it out.\""
+    ca "\"Now spit it out.\""
+
+# game/cliffroute3.rpy:4450
+translate Schinese cliffchoice5_12bca3ef:
+
+    # "Some of the foam that hits the grass is pink."
+    "Some of the foam that hits the grass is pink."
+
+# game/cliffroute3.rpy:4453
+translate Schinese cliffchoice5_21d6f686:
+
+    # "Despite forced tears, Yiska looks up with a determined facial expression."
+    "Despite forced tears, Yiska looks up with a determined facial expression."
+
+# game/cliffroute3.rpy:4455
+translate Schinese cliffchoice5_9bc9199f:
+
+    # "He heaves as he continues to spit."
+    "He heaves as he continues to spit."
+
+# game/cliffroute3.rpy:4457
+translate Schinese cliffchoice5_4918ca3b:
+
+    # ca "\"Don’t let this memory fade as quickly as the last.\""
+    ca "\"Don’t let this memory fade as quickly as the last.\""
+
+# game/cliffroute3.rpy:4460
+translate Schinese cliffchoice5_81b40270:
+
+    # ys "\"Yes, Reverend.\""
+    ys "\"Yes, Reverend.\""
+
+# game/cliffroute3.rpy:4462
+translate Schinese cliffchoice5_7de18b65:
+
+    # "I want to say something, but when I start, the bear looks at me with the first flash of anger I’ve seen in his eyes."
+    "I want to say something, but when I start, the bear looks at me with the first flash of anger I’ve seen in his eyes."
+
+# game/cliffroute3.rpy:4463
+translate Schinese cliffchoice5_300d7d6e:
+
+    # "He’s angry at me."
+    "He’s angry at me."
+
+# game/cliffroute3.rpy:4465
+translate Schinese cliffchoice5_d021bbb4:
+
+    # ca "\"What were the two of these men talking about, Mr. Tibbits?\""
+    ca "\"What were the two of these men talking about, Mr. Tibbits?\""
+
+# game/cliffroute3.rpy:4467
+translate Schinese cliffchoice5_0edbae87:
+
+    # cl "\"I...\""
+    cl "\"I...\""
+
+# game/cliffroute3.rpy:4468
+translate Schinese cliffchoice5_c1948065:
+
+    # "Does he want me to lie?"
+    "Does he want me to lie?"
+
+# game/cliffroute3.rpy:4469
+translate Schinese cliffchoice5_02c96557:
+
+    # "Does he want me to tell the truth?"
+    "Does he want me to tell the truth?"
+
+# game/cliffroute3.rpy:4470
+translate Schinese cliffchoice5_8bdd5ca4:
+
+    # "I don’t know."
+    "I don’t know."
+
+# game/cliffroute3.rpy:4471
+translate Schinese cliffchoice5_c1aa03b9:
+
+    # "This is horrible!"
+    "This is horrible!"
+
+# game/cliffroute3.rpy:4472
+translate Schinese cliffchoice5_69fe7540:
+
+    # cl "\"Something about corpses I think.\""
+    cl "\"Something about corpses I think.\""
+
+# game/cliffroute3.rpy:4473
+translate Schinese cliffchoice5_17a69b10:
+
+    # cl "\"Something from the woods might be killing all of the stock animals.\""
+    cl "\"Something from the woods might be killing all of the stock animals.\""
+
+# game/cliffroute3.rpy:4475
+translate Schinese cliffchoice5_b7309d13:
+
+    # "Caldwell looks at me like I’ve lost my mind?"
+    "Caldwell looks at me like I’ve lost my mind?"
+
+# game/cliffroute3.rpy:4477
+translate Schinese cliffchoice5_effa77ea:
+
+    # ca "\"All of the stock animals?\""
+    ca "\"All of the stock animals?\""
+
+# game/cliffroute3.rpy:4480
+translate Schinese cliffchoice5_0c4a04ef:
+
+    # "He turns to Yiska."
+    "He turns to Yiska."
+
+# game/cliffroute3.rpy:4482
+translate Schinese cliffchoice5_36b312c3:
+
+    # ca "\"Go home and clean yourself up.\""
+    ca "\"Go home and clean yourself up.\""
+
+# game/cliffroute3.rpy:4485
+translate Schinese cliffchoice5_a98dedd7:
+
+    # ca "\"Leave us.\""
+    ca "\"Leave us.\""
+
+# game/cliffroute3.rpy:4488
+translate Schinese cliffchoice5_06c85e1e:
+
+    # "He muffles something like {i}‘Yes, Reverend,’{/i} but it’s impossible to tell what he really said."
+    "He muffles something like {i}‘Yes, Reverend,’{/i} but it’s impossible to tell what he really said."
+
+# game/cliffroute3.rpy:4493
+translate Schinese cliffchoice5_1561a541:
+
+    # "Caldwell takes a good look at me, as if I’m a child who dragged mud into his house, and trembles,"
+    "Caldwell takes a good look at me, as if I’m a child who dragged mud into his house, and trembles,"
+
+# game/cliffroute3.rpy:4495
+translate Schinese cliffchoice5_f1fc4e6b:
+
+    # ca "\"Cornelis van Houwelinck...\""
+    ca "\"Cornelis van Houwelinck...\""
+
+# game/cliffroute3.rpy:4498
+translate Schinese cliffchoice5_4f235827:
+
+    # ca "\"The moment you stepped into this settlement I’ve seen nothing but insubordination and instigation.\""
+    ca "\"The moment you stepped into this settlement I’ve seen nothing but insubordination and instigation.\""
+
+# game/cliffroute3.rpy:4500
+translate Schinese cliffchoice5_d195976a:
+
+    # cl "\"But I haven’t done anything, Reverend.\""
+    cl "\"But I haven’t done anything, Reverend.\""
+
+# game/cliffroute3.rpy:4502
+translate Schinese cliffchoice5_ae050030:
+
+    # ca "\"Does it matter if you did?\""
+    ca "\"Does it matter if you did?\""
+
+# game/cliffroute3.rpy:4505
+translate Schinese cliffchoice5_db1e846f:
+
+    # ca "\"It’s certainly somebody you brought along.\""
+    ca "\"It’s certainly somebody you brought along.\""
+
+# game/cliffroute3.rpy:4508
+translate Schinese cliffchoice5_6665255e:
+
+    # ca "\"I just made a loyal man clean his mouth until it bled for the first time in fifteen years.\""
+    ca "\"I just made a loyal man clean his mouth until it bled for the first time in fifteen years.\""
+
+# game/cliffroute3.rpy:4511
+translate Schinese cliffchoice5_723a74ad:
+
+    # ca "\"These are extraordinary circumstances in the most nefarious sense.\""
+    ca "\"These are extraordinary circumstances in the most nefarious sense.\""
+
+# game/cliffroute3.rpy:4513
+translate Schinese cliffchoice5_45df0185:
+
+    # "He grabs me by the shoulder and drags me to the white-washed shack."
+    "He grabs me by the shoulder and drags me to the white-washed shack."
+
+# game/cliffroute3.rpy:4519
+translate Schinese cliffchoice5_57488a87:
+
+    # "He unlatches the locks and throws me in."
+    "He unlatches the locks and throws me in."
+
+# game/cliffroute3.rpy:4520
+translate Schinese cliffchoice5_1fc5ff4e:
+
+    # ca "\"And remove the church property you’re wearing at once!\""
+    ca "\"And remove the church property you’re wearing at once!\""
+
+# game/cliffroute3.rpy:4522
+translate Schinese cliffchoice5_293b92e0:
+
+    # cl "\"Sir, this is a gross over-reaction to any sort of offense I could’ve afflicted you with!\""
+    cl "\"Sir, this is a gross over-reaction to any sort of offense I could’ve afflicted you with!\""
+
+# game/cliffroute3.rpy:4523
+translate Schinese cliffchoice5_947092d4:
+
+    # cl "\"Address your quarrels with me at once, or I’ll be reporting this to either my father or Mr. Hendricks!\""
+    cl "\"Address your quarrels with me at once, or I’ll be reporting this to either my father or Mr. Hendricks!\""
+
+# game/cliffroute3.rpy:4527
+translate Schinese cliffchoice5_e63655bb:
+
+    # "I look through the screen door covered in bars, expecting him to look back at me, angrily, ready to quarrel, but that’s not the case."
+    "I look through the screen door covered in bars, expecting him to look back at me, angrily, ready to quarrel, but that’s not the case."
+
+# game/cliffroute3.rpy:4529
+translate Schinese cliffchoice5_d75d1155:
+
+    # "His back is to me and he’s running away."
+    "His back is to me and he’s running away."
+
+# game/cliffroute3.rpy:4531
+translate Schinese cliffchoice5_c107de5e:
+
+    # cl "\"What?\""
+    cl "\"What?\""
+
+# game/cliffroute3.rpy:4533
+translate Schinese cliffchoice5_ff14e54b:
+
+    # "I try to open the door but I know it’s locked from the outside."
+    "I try to open the door but I know it’s locked from the outside."
+
+# game/cliffroute3.rpy:4535
+translate Schinese cliffchoice5_048edffc:
+
+    # "My body thuds uselessly against the sound of shaped metal."
+    "My body thuds uselessly against the sound of shaped metal."
+
+# game/cliffroute3.rpy:4537
+translate Schinese cliffchoice5_2b1c17eb:
+
+    # cl "\"Caldwell!\""
+    cl "\"Caldwell!\""
+
+# game/cliffroute3.rpy:4539
+translate Schinese cliffchoice5_b7f5a512:
+
+    # cl "\"Come back here at once, Caldwell!\""
+    cl "\"Come back here at once, Caldwell!\""
+
+# game/cliffroute3.rpy:4540
+translate Schinese cliffchoice5_5aa35da1:
+
+    # "I try to rattle the door, but it’s just too heavy."
+    "I try to rattle the door, but it’s just too heavy."
+
+# game/cliffroute3.rpy:4542
+translate Schinese cliffchoice5_8868b89c:
+
+    # "I’m starting to notice how warm it is in here."
+    "I’m starting to notice how warm it is in here."
+
+# game/cliffroute3.rpy:4544
+translate Schinese cliffchoice5_034c65b1:
+
+    # "I’m sweating, and I try not to panic about how I haven’t drank any water in hours."
+    "I’m sweating, and I try not to panic about how I haven’t drank any water in hours."
+
+# game/cliffroute3.rpy:4546
+translate Schinese cliffchoice5_3529045b:
+
+    # "I bang again, hoping to see the man or the young girl who was out in the lawn."
+    "I bang again, hoping to see the man or the young girl who was out in the lawn."
+
+# game/cliffroute3.rpy:4548
+translate Schinese cliffchoice5_2ad8c606:
+
+    # "But I hear nobody."
+    "But I hear nobody."
+
+# game/cliffroute3.rpy:4550
+translate Schinese cliffchoice5_3153a811:
+
+    # "My arms and the back of my neck are already wet."
+    "My arms and the back of my neck are already wet."
+
+# game/cliffroute3.rpy:4552
+translate Schinese cliffchoice5_db0a3ba9:
+
+    # "I feel a little dizzy now, but I try not to panic."
+    "I feel a little dizzy now, but I try not to panic."
+
+# game/cliffroute3.rpy:4555
+translate Schinese cliffchoice5_d8d1411e:
+
+    # "Most of the things here are shovels, pots, and protective clothes."
+    "Most of the things here are shovels, pots, and protective clothes."
+
+# game/cliffroute3.rpy:4556
+translate Schinese cliffchoice5_7aef5385:
+
+    # "I can see that there’s something behind this counter."
+    "I can see that there’s something behind this counter."
+
+# game/cliffroute3.rpy:4557
+translate Schinese cliffchoice5_7f4985f8:
+
+    # "A hand shovel!"
+    "A hand shovel!"
+
+# game/cliffroute3.rpy:4558
+translate Schinese cliffchoice5_ffae28f3:
+
+    # "I look at the floor and sigh in relief."
+    "I look at the floor and sigh in relief."
+
+# game/cliffroute3.rpy:4559
+translate Schinese cliffchoice5_1188c357:
+
+    # "Dirt."
+    "Dirt."
+
+# game/cliffroute3.rpy:4560
+translate Schinese cliffchoice5_d4cce5a7:
+
+    # "I should be able to dig myself out."
+    "I should be able to dig myself out."
+
+# game/cliffroute3.rpy:4561
+translate Schinese cliffchoice5_8fb6d475:
+
+    # "But I have to be careful not to waste energy or moisture."
+    "But I have to be careful not to waste energy or moisture."
+
+# game/cliffroute3.rpy:4562
+translate Schinese cliffchoice5_37eff1f4:
+
+    # "I look outside again for anybody."
+    "I look outside again for anybody."
+
+# game/cliffroute3.rpy:4563
+translate Schinese cliffchoice5_0cf99272:
+
+    # cl "\"Help!\""
+    cl "\"Help!\""
+
+# game/cliffroute3.rpy:4564
+translate Schinese cliffchoice5_234e0bf4:
+
+    # cl "\"Help me!\""
+    cl "\"Help me!\""
+
+# game/cliffroute3.rpy:4565
+translate Schinese cliffchoice5_5dd681b9:
+
+    # cl "\"I’m stuck in a shack!\""
+    cl "\"I’m stuck in a shack!\""
+
+# game/cliffroute3.rpy:4566
+translate Schinese cliffchoice5_ed08bbb3:
+
+    # "Nobody still."
+    "Nobody still."
+
+# game/cliffroute3.rpy:4567
+translate Schinese cliffchoice5_064fb2fd:
+
+    # "So that’s it then."
+    "So that’s it then."
+
+# game/cliffroute3.rpy:4568
+translate Schinese cliffchoice5_71e4b0a4:
+
+    # "I’m going to have to dig."
+    "I’m going to have to dig."
+
+# game/cliffroute3.rpy:4569
+translate Schinese cliffchoice5_bb8ffa25:
+
+    # "I wipe my brow and look for the clearest space against a wall I can find."
+    "I wipe my brow and look for the clearest space against a wall I can find."
+
+# game/cliffroute3.rpy:4571
+translate Schinese cliffchoice5_5b3bb147:
+
+    # "The first scoop of earth is very warm, very dry, and kicks up a cloud of dust. I have to turn my head not to inhale any."
+    "The first scoop of earth is very warm, very dry, and kicks up a cloud of dust. I have to turn my head not to inhale any."
+
+# game/cliffroute3.rpy:4573
+translate Schinese cliffchoice5_d87a4cff:
+
+    # "Below that I’m happy to feel a cooler layer."
+    "Below that I’m happy to feel a cooler layer."
+
+# game/cliffroute3.rpy:4574
+translate Schinese cliffchoice5_aa8747ce:
+
+    # "It’s not as tough to move as I thought it would be."
+    "It’s not as tough to move as I thought it would be."
+
+# game/cliffroute3.rpy:4576
+translate Schinese cliffchoice5_3a4182c1:
+
+    # "But there’s a lot of it."
+    "But there’s a lot of it."
+
+# game/cliffroute3.rpy:4577
+translate Schinese cliffchoice5_f8ff7e49:
+
+    # "I think I see where the wall of the shack ends and the beginning of the earth starts."
+    "I think I see where the wall of the shack ends and the beginning of the earth starts."
+
+# game/cliffroute3.rpy:4578
+translate Schinese cliffchoice5_384fa9ad:
+
+    # "Then I see concrete blocks."
+    "Then I see concrete blocks."
+
+# game/cliffroute3.rpy:4579
+translate Schinese cliffchoice5_d7f51940:
+
+    # "My heart sinks knowing I’ll have to dig deeper."
+    "My heart sinks knowing I’ll have to dig deeper."
+
+# game/cliffroute3.rpy:4580
+translate Schinese cliffchoice5_9f9dfafe:
+
+    # "But there’s no time to waste."
+    "But there’s no time to waste."
+
+# game/cliffroute3.rpy:4583
+translate Schinese cliffchoice5_0738421f:
+
+    # "I can’t tell how long I do this for."
+    "I can’t tell how long I do this for."
+
+# game/cliffroute3.rpy:4584
+translate Schinese cliffchoice5_446ba47d:
+
+    # "The lighting outside has changed and I still hear nobody."
+    "The lighting outside has changed and I still hear nobody."
+
+# game/cliffroute3.rpy:4586
+translate Schinese cliffchoice5_0c65dd68:
+
+    # "I stand up to check for people every so often."
+    "I stand up to check for people every so often."
+
+# game/cliffroute3.rpy:4587
+translate Schinese cliffchoice5_93e4cd3a:
+
+    # "Nobody comes on the lawn."
+    "Nobody comes on the lawn."
+
+# game/cliffroute3.rpy:4588
+translate Schinese cliffchoice5_ce49fcee:
+
+    # "Caldwell must have instructed them not to."
+    "Caldwell must have instructed them not to."
+
+# game/cliffroute3.rpy:4589
+translate Schinese cliffchoice5_8046ec3b:
+
+    # "Rail deal ambitions or no, this behavior is not acceptable."
+    "Rail deal ambitions or no, this behavior is not acceptable."
+
+# game/cliffroute3.rpy:4590
+translate Schinese cliffchoice5_2a758701:
+
+    # "One of the first things I intend to do after breaking out of this god-forsaken cage is to find a telegraph machine and wire everything I know to my father and Mr. Hendricks."
+    "One of the first things I intend to do after breaking out of this god-forsaken cage is to find a telegraph machine and wire everything I know to my father and Mr. Hendricks."
+
+# game/cliffroute3.rpy:4592
+translate Schinese cliffchoice5_3e37ab83:
+
+    # "I do another scoop."
+    "I do another scoop."
+
+# game/cliffroute3.rpy:4594
+translate Schinese cliffchoice5_5f0f8fc6:
+
+    # "Then another."
+    "Then another."
+
+# game/cliffroute3.rpy:4596
+translate Schinese cliffchoice5_fa7b8255:
+
+    # "I thought I was on scoop four hundred or so, but I started to lose count in the 300’s."
+    "I thought I was on scoop four hundred or so, but I started to lose count in the 300’s."
+
+# game/cliffroute3.rpy:4598
+translate Schinese cliffchoice5_7d519e49:
+
+    # "Everything goes sideways for a moment{nw}"
+    "Everything goes sideways for a moment{nw}"
+
+# game/cliffroute3.rpy:4600
+translate Schinese cliffchoice5_023be2a2:
+
+    # extend " and I stop to breathe."
+    extend " and I stop to breathe."
+
+# game/cliffroute3.rpy:4601
+translate Schinese cliffchoice5_9a31c9c9:
+
+    # "I’m really thirsty."
+    "I’m really thirsty."
+
+# game/cliffroute3.rpy:4603
+translate Schinese cliffchoice5_4842e5e2:
+
+    # "I take another scoop and flinch when I hear a clang."
+    "I take another scoop and flinch when I hear a clang."
+
+# game/cliffroute3.rpy:4604
+translate Schinese cliffchoice5_67aaa788:
+
+    # "What?"
+    "What?"
+
+# game/cliffroute3.rpy:4606
+translate Schinese cliffchoice5_8531005c:
+
+    # "I dig as quickly as I can with both hands."
+    "I dig as quickly as I can with both hands."
+
+# game/cliffroute3.rpy:4607
+translate Schinese cliffchoice5_d76a5145:
+
+    # cl "\"No...\""
+    cl "\"No...\""
+
+# game/cliffroute3.rpy:4608
+translate Schinese cliffchoice5_9ceb440e:
+
+    # "There’s a mixture of rock and concrete below."
+    "There’s a mixture of rock and concrete below."
+
+# game/cliffroute3.rpy:4609
+translate Schinese cliffchoice5_8d89ccbe:
+
+    # "I can’t get out."
+    "I can’t get out."
+
+# game/cliffroute3.rpy:4610
+translate Schinese cliffchoice5_8a67b22f:
+
+    # "The dirt was poured on top of the rocks and concrete."
+    "The dirt was poured on top of the rocks and concrete."
+
+# game/cliffroute3.rpy:4611
+translate Schinese cliffchoice5_af16bcf7:
+
+    # "What is the purpose of this?"
+    "What is the purpose of this?"
+
+# game/cliffroute3.rpy:4612
+translate Schinese cliffchoice5_69cc13c0:
+
+    # "My heart’s beating faster."
+    "My heart’s beating faster."
+
+# game/cliffroute3.rpy:4614
+translate Schinese cliffchoice5_87463d87:
+
+    # "I’m starting to feel dizzy."
+    "I’m starting to feel dizzy."
+
+# game/cliffroute3.rpy:4617
+translate Schinese cliffchoice5_5d566c0c:
+
+    # "I throw down the trowel in frustration but the side catches the side of my nail."
+    "I throw down the trowel in frustration but the side catches the side of my nail."
+
+# game/cliffroute3.rpy:4619
+translate Schinese cliffchoice5_575184b3:
+
+    # "An awful noise comes out of me and I start to bleed a little."
+    "An awful noise comes out of me and I start to bleed a little."
+
+# game/cliffroute3.rpy:4620
+translate Schinese cliffchoice5_570aa27e:
+
+    # ca "\"Oh, it doesn’t look that deep.\""
+    ca "\"Oh, it doesn’t look that deep.\""
+
+# game/cliffroute3.rpy:4622
+translate Schinese cliffchoice5_c2ffd4b7:
+
+    # cl "\"You!\""
+    cl "\"You!\""
+
+# game/cliffroute3.rpy:4623
+translate Schinese cliffchoice5_cc01b948:
+
+    # ca "\"Brush yourself clean and come on out of the dirt, you fool.\""
+    ca "\"Brush yourself clean and come on out of the dirt, you fool.\""
+
+# game/cliffroute3.rpy:4624
+translate Schinese cliffchoice5_4d8ef0cc:
+
+    # cl "\"Don’t you say another word!\""
+    cl "\"Don’t you say another word!\""
+
+# game/cliffroute3.rpy:4629
+translate Schinese cliffchoice5_95c16a47:
+
+    # cl "\"Don’t say anything until you unlock this door.\""
+    cl "\"Don’t say anything until you unlock this door.\""
+
+# game/cliffroute3.rpy:4631
+translate Schinese cliffchoice5_9a878404:
+
+    # ca "\"Relax.\""
+    ca "\"Relax.\""
+
+# game/cliffroute3.rpy:4634
+translate Schinese cliffchoice5_16a7428c:
+
+    # "He jingles the key in front of me."
+    "He jingles the key in front of me."
+
+# game/cliffroute3.rpy:4637
+translate Schinese cliffchoice5_0e5539e5:
+
+    # ca "\"I’ll let you out after you answer some of my questions.\""
+    ca "\"I’ll let you out after you answer some of my questions.\""
+
+# game/cliffroute3.rpy:4639
+translate Schinese cliffchoice5_877d3925:
+
+    # cl "\"What questions?\""
+    cl "\"What questions?\""
+
+# game/cliffroute3.rpy:4641
+translate Schinese cliffchoice5_ac92f4d4:
+
+    # ca "\"Like who among your party would have the strength to cleave the head off of a pack mule with a slicing weapon in one blow?\""
+    ca "\"Like who among your party would have the strength to cleave the head off of a pack mule with a slicing weapon in one blow?\""
+
+# game/cliffroute3.rpy:4643
+translate Schinese cliffchoice5_0f77cfd7:
+
+    # "I freeze."
+    "I freeze."
+
+# game/cliffroute3.rpy:4644
+translate Schinese cliffchoice5_878edea6:
+
+    # cl "\"You couldn’t possibly be blaming me for that.\""
+    cl "\"You couldn’t possibly be blaming me for that.\""
+
+# game/cliffroute3.rpy:4645
+translate Schinese cliffchoice5_00ded5af:
+
+    # "He looks me up and down and then scoffs."
+    "He looks me up and down and then scoffs."
+
+# game/cliffroute3.rpy:4647
+translate Schinese cliffchoice5_c7c0c97a:
+
+    # ca "\"Certainly not you directly.\""
+    ca "\"Certainly not you directly.\""
+
+# game/cliffroute3.rpy:4650
+translate Schinese cliffchoice5_d7038eaa:
+
+    # ca "\"What about that mountain lion?\""
+    ca "\"What about that mountain lion?\""
+
+# game/cliffroute3.rpy:4653
+translate Schinese cliffchoice5_4cd10f2d:
+
+    # ca "\"He might be big enough.\""
+    ca "\"He might be big enough.\""
+
+# game/cliffroute3.rpy:4655
+translate Schinese cliffchoice5_d0140ed5:
+
+    # cl "\"Sam?\""
+    cl "\"Sam?\""
+
+# game/cliffroute3.rpy:4656
+translate Schinese cliffchoice5_34cd20f3:
+
+    # cl "\"I don’t think Sam knows how to use weapons.\""
+    cl "\"I don’t think Sam knows how to use weapons.\""
+
+# game/cliffroute3.rpy:4657
+translate Schinese cliffchoice5_532d2114:
+
+    # cl "\"Besides, if he could, I don’t think he could take something’s head off.\""
+    cl "\"Besides, if he could, I don’t think he could take something’s head off.\""
+
+# game/cliffroute3.rpy:4659
+translate Schinese cliffchoice5_ed045074:
+
+    # ca "\"Then what would?\""
+    ca "\"Then what would?\""
+
+# game/cliffroute3.rpy:4662
+translate Schinese cliffchoice5_c61ceede:
+
+    # ca "\"We’ve found eight carcasses already.\""
+    ca "\"We’ve found eight carcasses already.\""
+
+# game/cliffroute3.rpy:4664
+translate Schinese cliffchoice5_b4e36306:
+
+    # cl "\"Eight?\""
+    cl "\"Eight?\""
+
+# game/cliffroute3.rpy:4666
+translate Schinese cliffchoice5_ccf32bd0:
+
+    # ca "\"Eight!\""
+    ca "\"Eight!\""
+
+# game/cliffroute3.rpy:4669
+translate Schinese cliffchoice5_4e4eb9e7:
+
+    # ca "\"If I don’t stop who’s doing it before long, we won’t have any long distance transportation in or out of the settlement.\""
+    ca "\"If I don’t stop who’s doing it before long, we won’t have any long distance transportation in or out of the settlement.\""
+
+# game/cliffroute3.rpy:4672
+translate Schinese cliffchoice5_f6a2c816:
+
+    # ca "\"Without a steady chain of supplies we’ll be behind schedule for all of our exports.\""
+    ca "\"Without a steady chain of supplies we’ll be behind schedule for all of our exports.\""
+
+# game/cliffroute3.rpy:4674
+translate Schinese cliffchoice5_0a711b77:
+
+    # cl "\"Why do exports matter if you’re self-sustaining?\""
+    cl "\"Why do exports matter if you’re self-sustaining?\""
+
+# game/cliffroute3.rpy:4676
+translate Schinese cliffchoice5_d4e2a597:
+
+    # ca "\"Because there’s no harm in skimming some of the cream off the top here and there.\""
+    ca "\"Because there’s no harm in skimming some of the cream off the top here and there.\""
+
+# game/cliffroute3.rpy:4679
+translate Schinese cliffchoice5_869f9c9b:
+
+    # ca "\"Imbecile.\""
+    ca "\"Imbecile.\""
+
+# game/cliffroute3.rpy:4681
+translate Schinese cliffchoice5_da3aca8b:
+
+    # cl "\"You’re terrible!\""
+    cl "\"You’re terrible!\""
+
+# game/cliffroute3.rpy:4683
+translate Schinese cliffchoice5_bf515a73:
+
+    # ca "\"No.\""
+    ca "\"No.\""
+
+# game/cliffroute3.rpy:4686
+translate Schinese cliffchoice5_9410e515:
+
+    # ca "\"I simply live in the real world.\""
+    ca "\"I simply live in the real world.\""
+
+# game/cliffroute3.rpy:4690
+translate Schinese cliffchoice5_7f31bd5a:
+
+    # ca "\"Your father mentioned that you don’t, and I see what he means.\""
+    ca "\"Your father mentioned that you don’t, and I see what he means.\""
+
+# game/cliffroute3.rpy:4692
+translate Schinese cliffchoice5_3fef4275:
+
+    # "My father?"
+    "My father?"
+
+# game/cliffroute3.rpy:4693
+translate Schinese cliffchoice5_66b54e0d:
+
+    # cl "\"What do you mean?\""
+    cl "\"What do you mean?\""
+
+# game/cliffroute3.rpy:4695
+translate Schinese cliffchoice5_aef9267b:
+
+    # ca "\"He said you’re a little funny.\""
+    ca "\"He said you’re a little funny.\""
+
+# game/cliffroute3.rpy:4698
+translate Schinese cliffchoice5_445fad70:
+
+    # ca "\"Perhaps not formed quite right.\""
+    ca "\"Perhaps not formed quite right.\""
+
+# game/cliffroute3.rpy:4701
+translate Schinese cliffchoice5_a3648836:
+
+    # ca "\"Can’t be trusted to make necessary choices for the good of yourself or your family.\""
+    ca "\"Can’t be trusted to make necessary choices for the good of yourself or your family.\""
+
+# game/cliffroute3.rpy:4703
+translate Schinese cliffchoice5_be975b6a:
+
+    # cl "\"No he didn’t!\""
+    cl "\"No he didn’t!\""
+
+# game/cliffroute3.rpy:4705
+translate Schinese cliffchoice5_387fa487:
+
+    # ca "\"It was a bit harsh to me when I first heard it.\""
+    ca "\"It was a bit harsh to me when I first heard it.\""
+
+# game/cliffroute3.rpy:4708
+translate Schinese cliffchoice5_4a1bdf56:
+
+    # ca "\"I thought to myself, {i}“certainly all God’s creations are made as he intended.”{/i}\""
+    ca "\"I thought to myself, {i}“certainly all God’s creations are made as he intended.”{/i}\""
+
+# game/cliffroute3.rpy:4711
+translate Schinese cliffchoice5_9476b290:
+
+    # ca "\"But it seems as though you’re hellbent on establishing something other than what God made you.\""
+    ca "\"But it seems as though you’re hellbent on establishing something other than what God made you.\""
+
+# game/cliffroute3.rpy:4714
+translate Schinese cliffchoice5_034c7436:
+
+    # ca "\"What on earth is this Clifford Tibbits nonsense?\""
+    ca "\"What on earth is this Clifford Tibbits nonsense?\""
+
+# game/cliffroute3.rpy:4716
+translate Schinese cliffchoice5_8fc7863b:
+
+    # cl "\"...who told you about that?\""
+    cl "\"...who told you about that?\""
+
+# game/cliffroute3.rpy:4717
+translate Schinese cliffchoice5_36fe21e0:
+
+    # "I didn’t share that with him."
+    "I didn’t share that with him."
+
+# game/cliffroute3.rpy:4719
+translate Schinese cliffchoice5_45c318d2:
+
+    # ca "\"Who hasn’t?\""
+    ca "\"Who hasn’t?\""
+
+# game/cliffroute3.rpy:4722
+translate Schinese cliffchoice5_bf18a236:
+
+    # ca "\"Don’t you know that people talk?\""
+    ca "\"Don’t you know that people talk?\""
+
+# game/cliffroute3.rpy:4725
+translate Schinese cliffchoice5_23fdd776:
+
+    # ca "\"Do you really think that the conversations you air with other people are sealed into small boxes that only you can open with the right key?\""
+    ca "\"Do you really think that the conversations you air with other people are sealed into small boxes that only you can open with the right key?\""
+
+# game/cliffroute3.rpy:4727
+translate Schinese cliffchoice5_96114ea2:
+
+    # "He laughs."
+    "He laughs."
+
+# game/cliffroute3.rpy:4728
+translate Schinese cliffchoice5_1b3c708f:
+
+    # "I’m trying not to cry."
+    "I’m trying not to cry."
+
+# game/cliffroute3.rpy:4731
+translate Schinese cliffchoice5_d3d1df21:
+
+    # ca "\"Do you really think that becoming a different man is as simple as putting on makeup and wearing your father’s belt?\""
+    ca "\"Do you really think that becoming a different man is as simple as putting on makeup and wearing your father’s belt?\""
+
+# game/cliffroute3.rpy:4734
+translate Schinese cliffchoice5_ebe14c3e:
+
+    # ca "\"I can read your entire story just by your walk, your gait, your tone, your letters, and the impressions that men of character have sent to me in private.\""
+    ca "\"I can read your entire story just by your walk, your gait, your tone, your letters, and the impressions that men of character have sent to me in private.\""
+
+# game/cliffroute3.rpy:4737
+translate Schinese cliffchoice5_3f9f16b6:
+
+    # ca "\"People have been talking terribly about you for a long time before I ever met you, I can see now, right before me, that they are exonerated in their honesty.\""
+    ca "\"People have been talking terribly about you for a long time before I ever met you, I can see now, right before me, that they are exonerated in their honesty.\""
+
+# game/cliffroute3.rpy:4739
+translate Schinese cliffchoice5_d1b6bbe9:
+
+    # "Who’s been talking?"
+    "Who’s been talking?"
+
+# game/cliffroute3.rpy:4740
+translate Schinese cliffchoice5_3fef4275_1:
+
+    # "My father?"
+    "My father?"
+
+# game/cliffroute3.rpy:4741
+translate Schinese cliffchoice5_dba53b0b:
+
+    # "My mentor?"
+    "My mentor?"
+
+# game/cliffroute3.rpy:4742
+translate Schinese cliffchoice5_75f08aa6:
+
+    # "My traveling companions?"
+    "My traveling companions?"
+
+# game/cliffroute3.rpy:4743
+translate Schinese cliffchoice5_4e46c6f2:
+
+    # "My employer?"
+    "My employer?"
+
+# game/cliffroute3.rpy:4744
+translate Schinese cliffchoice5_ecb1384d:
+
+    # "...is it all of them?"
+    "...is it all of them?"
+
+# game/cliffroute3.rpy:4746
+translate Schinese cliffchoice5_3987e338:
+
+    # ca "\"I see before me an emotional, impulsive, gormless thing, playing as a man, but stuck as something like a child. A... a thing.\""
+    ca "\"I see before me an emotional, impulsive, gormless thing, playing as a man, but stuck as something like a child. A... a thing.\""
+
+# game/cliffroute3.rpy:4749
+translate Schinese cliffchoice5_d89c6567:
+
+    # ca "\"A thing that’s neither man, nor child, nor anything I would want near God’s children, not his creations.\""
+    ca "\"A thing that’s neither man, nor child, nor anything I would want near God’s children, not his creations.\""
+
+# game/cliffroute3.rpy:4751
+translate Schinese cliffchoice5_292e86d8:
+
+    # cl "\"...why are you being this cruel?\""
+    cl "\"...why are you being this cruel?\""
+
+# game/cliffroute3.rpy:4752
+translate Schinese cliffchoice5_9dbf9dc2:
+
+    # "The more I talk, the more I hear my voice struggling to get any noise out."
+    "The more I talk, the more I hear my voice struggling to get any noise out."
+
+# game/cliffroute3.rpy:4753
+translate Schinese cliffchoice5_2faf3240:
+
+    # "My tongue is parched and my throat is sore."
+    "My tongue is parched and my throat is sore."
+
+# game/cliffroute3.rpy:4754
+translate Schinese cliffchoice5_8f33ffe0:
+
+    # "I’m so dizzy now from the sickness and this unbearable weight that I feel in my body I can’t see straight."
+    "I’m so dizzy now from the sickness and this unbearable weight that I feel in my body I can’t see straight."
+
+# game/cliffroute3.rpy:4755
+translate Schinese cliffchoice5_aeca2ff7:
+
+    # "He shakes his head."
+    "He shakes his head."
+
+# game/cliffroute3.rpy:4757
+translate Schinese cliffchoice5_b8ad2a6e:
+
+    # ca "\"At this point, nothing you can say will convince me that you are worthy of this partnership.\""
+    ca "\"At this point, nothing you can say will convince me that you are worthy of this partnership.\""
+
+# game/cliffroute3.rpy:4760
+translate Schinese cliffchoice5_11b54482:
+
+    # ca "\"I’m afraid there won’t be any deal between you or me.\""
+    ca "\"I’m afraid there won’t be any deal between you or me.\""
+
+# game/cliffroute3.rpy:4763
+translate Schinese cliffchoice5_a561d819:
+
+    # ca "\"Your reputation wasn’t solid to begin with, Mr. van Houwelinck, and everywhere you go, it seems to crumble just a little bit more beneath your feet.\""
+    ca "\"Your reputation wasn’t solid to begin with, Mr. van Houwelinck, and everywhere you go, it seems to crumble just a little bit more beneath your feet.\""
+
+# game/cliffroute3.rpy:4766
+translate Schinese cliffchoice5_8f5369fa:
+
+    # ca "\"Now, you have brought your misfortunes to me, and my people.\""
+    ca "\"Now, you have brought your misfortunes to me, and my people.\""
+
+# game/cliffroute3.rpy:4770
+translate Schinese cliffchoice5_ff9e9fd3:
+
+    # ca "\"I’ll let you out of here, but I want you gone from this place first thing in the morning.\""
+    ca "\"I’ll let you out of here, but I want you gone from this place first thing in the morning.\""
+
+# game/cliffroute3.rpy:4774
+translate Schinese cliffchoice5_d067eefb:
+
+    # "He pulls a key from his pocket."
+    "He pulls a key from his pocket."
+
+# game/cliffroute3.rpy:4778
+translate Schinese cliffchoice5_77f3220a:
+
+    # ca "\"And I’ll be telling Hendricks to send somebody more reliab--\"{nw}"
+    ca "\"And I’ll be telling Hendricks to send somebody more reliab--\"{nw}"
+
+# game/cliffroute3.rpy:4781
+translate Schinese cliffchoice5_9cd85a54:
+
+    # "I hear a giant thud, like a tree trunk falling."
+    "I hear a giant thud, like a tree trunk falling."
+
+# game/cliffroute3.rpy:4784
+translate Schinese cliffchoice5_70913187:
+
+    # "Caldwell screams."
+    "Caldwell screams."
+
+# game/cliffroute3.rpy:4785
+translate Schinese cliffchoice5_f2edadaf:
+
+    # ca "\"Get away!\""
+    ca "\"Get away!\""
+
+# game/cliffroute3.rpy:4786
+translate Schinese cliffchoice5_251bba25:
+
+    # ca "\"I said get away!\""
+    ca "\"I said get away!\""
+
+# game/cliffroute3.rpy:4789
+translate Schinese cliffchoice5_ecced252:
+
+    # "I can’t see what’s going on, but I hear a tearing noise."
+    "I can’t see what’s going on, but I hear a tearing noise."
+
+# game/cliffroute3.rpy:4796
+translate Schinese cliffchoice5_8e3bedbd:
+
+    # "For some reason..."
+    "For some reason..."
+
+# game/cliffroute3.rpy:4797
+translate Schinese cliffchoice5_1016cb53:
+
+    # "I start to hear the bees again."
+    "I start to hear the bees again."
+
+# game/cliffroute3.rpy:4798
+translate Schinese cliffchoice5_960fef5c:
+
+    # "Or at least something that sounds similar to the bees."
+    "Or at least something that sounds similar to the bees."
+
+# game/cliffroute3.rpy:4799
+translate Schinese cliffchoice5_480aac36:
+
+    # "Caldwell screams more."
+    "Caldwell screams more."
+
+# game/cliffroute3.rpy:4800
+translate Schinese cliffchoice5_0c9e0da2:
+
+    # "I can see through a slat in the bars that he’s on the ground."
+    "I can see through a slat in the bars that he’s on the ground."
+
+# game/cliffroute3.rpy:4801
+translate Schinese cliffchoice5_65c4cdfc:
+
+    # "His wing is bent the wrong way, and his breathing is raspy."
+    "His wing is bent the wrong way, and his breathing is raspy."
+
+# game/cliffroute3.rpy:4802
+translate Schinese cliffchoice5_5adb0a38:
+
+    # ca "\"God help me!\""
+    ca "\"God help me!\""
+
+# game/cliffroute3.rpy:4803
+translate Schinese cliffchoice5_1ca5b2eb:
+
+    # "His voice is different."
+    "His voice is different."
+
+# game/cliffroute3.rpy:4804
+translate Schinese cliffchoice5_9a887e9c:
+
+    # "It sounds wrong, like he’s inhaling while he speaks."
+    "It sounds wrong, like he’s inhaling while he speaks."
+
+# game/cliffroute3.rpy:4808
+translate Schinese cliffchoice5_f7602fd2:
+
+    # "I reposition myself to look outside."
+    "I reposition myself to look outside."
+
+# game/cliffroute3.rpy:4809
+translate Schinese cliffchoice5_e6e9c0d3:
+
+    # "I don’t see anything."
+    "I don’t see anything."
+
+# game/cliffroute3.rpy:4811
+translate Schinese cliffchoice5_f6dcebd1:
+
+    # "But I hear breathing."
+    "But I hear breathing."
+
+# game/cliffroute3.rpy:4813
+translate Schinese cliffchoice5_64419cc5:
+
+    # "Soft, slow breathing."
+    "Soft, slow breathing."
+
+# game/cliffroute3.rpy:4814
+translate Schinese cliffchoice5_1b7495b0:
+
+    # "I want to back away from the door, but I don’t want to make any noise."
+    "I want to back away from the door, but I don’t want to make any noise."
+
+# game/cliffroute3.rpy:4816
+translate Schinese cliffchoice5_13f47f7d:
+
+    # "I know whatever out there is strong."
+    "I know whatever out there is strong."
+
+# game/cliffroute3.rpy:4817
+translate Schinese cliffchoice5_3a9953f0:
+
+    # "It could rip the door open."
+    "It could rip the door open."
+
+# game/cliffroute3.rpy:4818
+translate Schinese cliffchoice5_95383513:
+
+    # "It might even already know that I’m here, and it’s just waiting to rip off the door."
+    "It might even already know that I’m here, and it’s just waiting to rip off the door."
+
+# game/cliffroute3.rpy:4819
+translate Schinese cliffchoice5_20f5a9db:
+
+    # "I don’t know how long I stand there, listening to Caldwell cry out in pain, or listening for breathing sounds that I can’t tell if I’m hearing or imagining anymore."
+    "I don’t know how long I stand there, listening to Caldwell cry out in pain, or listening for breathing sounds that I can’t tell if I’m hearing or imagining anymore."
+
+# game/cliffroute3.rpy:4825
+translate Schinese cliffchoice5_91833ec9:
+
+    # "But it gets darker."
+    "But it gets darker."
+
+# game/cliffroute3.rpy:4826
+translate Schinese cliffchoice5_087f3ffc:
+
+    # "And nobody knows that I’m here but the priest, and he can’t get up."
+    "And nobody knows that I’m here but the priest, and he can’t get up."
+
+# game/cliffroute3.rpy:4829
+translate Schinese cliffchoice5_e4be3c1b:
+
+    # "Just as I start to cry, I hear a whistling sound."
+    "Just as I start to cry, I hear a whistling sound."
+
+# game/cliffroute3.rpy:4830
+translate Schinese cliffchoice5_2be47183:
+
+    # "In the mist I see somebody big walk this way."
+    "In the mist I see somebody big walk this way."
+
+# game/cliffroute3.rpy:4831
+translate Schinese cliffchoice5_59476f25:
+
+    # "They have horns, the light of the moon reflects off their glasses."
+    "They have horns, the light of the moon reflects off their glasses."
+
+# game/cliffroute3.rpy:4832
+translate Schinese cliffchoice5_5ff7e954:
+
+    # "My heart swells a little when I see Doc Avery."
+    "My heart swells a little when I see Doc Avery."
+
+# game/cliffroute3.rpy:4833
+translate Schinese cliffchoice5_599b8489:
+
+    # "I call out to him."
+    "I call out to him."
+
+# game/cliffroute3.rpy:4834
+translate Schinese cliffchoice5_88e0e1ad:
+
+    # "I’m saved."
+    "I’m saved."
+
+# game/cliffroute3.rpy:4835
+translate Schinese cliffchoice5_aa65ea3e:
+
+    # "But I can’t make a sound."
+    "But I can’t make a sound."
+
+# game/cliffroute3.rpy:4836
+translate Schinese cliffchoice5_c0595e62:
+
+    # "My voice is shot."
+    "My voice is shot."
+
+# game/cliffroute3.rpy:4837
+translate Schinese cliffchoice5_b8a1ee64:
+
+    # "Airy, breathy rasping sounds are all that I can make."
+    "Airy, breathy rasping sounds are all that I can make."
+
+# game/cliffroute3.rpy:4838
+translate Schinese cliffchoice5_b53fe69b:
+
+    # av "\"Huh?\""
+    av "\"Huh?\""
+
+# game/cliffroute3.rpy:4839
+translate Schinese cliffchoice5_6a3ebbde:
+
+    # av "\"What do we have here?\""
+    av "\"What do we have here?\""
+
+# game/cliffroute3.rpy:4840
+translate Schinese cliffchoice5_a7de8cc0:
+
+    # ca "\"Help me!\""
+    ca "\"Help me!\""
+
+# game/cliffroute3.rpy:4841
+translate Schinese cliffchoice5_3008dfad:
+
+    # ca "\"You have to get me inside.\""
+    ca "\"You have to get me inside.\""
+
+# game/cliffroute3.rpy:4842
+translate Schinese cliffchoice5_b73b09d7:
+
+    # av "\"You look like you’re in real bad shape, Reverend.\""
+    av "\"You look like you’re in real bad shape, Reverend.\""
+
+# game/cliffroute3.rpy:4844
+translate Schinese cliffchoice5_6c29ad3b:
+
+    # av "\"Broken arm.\""
+    av "\"Broken arm.\""
+
+# game/cliffroute3.rpy:4846
+translate Schinese cliffchoice5_698043ed:
+
+    # av "\"Broken rib.\""
+    av "\"Broken rib.\""
+
+# game/cliffroute3.rpy:4848
+translate Schinese cliffchoice5_7125da49:
+
+    # av "\"Half-collapsed lung by the sound of you, I wager.\""
+    av "\"Half-collapsed lung by the sound of you, I wager.\""
+
+# game/cliffroute3.rpy:4850
+translate Schinese cliffchoice5_7197a7e0:
+
+    # av "\"I’d hate to move ya.\""
+    av "\"I’d hate to move ya.\""
+
+# game/cliffroute3.rpy:4851
+translate Schinese cliffchoice5_678e049b:
+
+    # av "\"Could cause any internal bleedin’ you might have to get worse.\""
+    av "\"Could cause any internal bleedin’ you might have to get worse.\""
+
+# game/cliffroute3.rpy:4852
+translate Schinese cliffchoice5_b2389c37:
+
+    # "The reverend shakes his head, terrified."
+    "The reverend shakes his head, terrified."
+
+# game/cliffroute3.rpy:4853
+translate Schinese cliffchoice5_5b03414b:
+
+    # ca "\"Do... car...\""
+    ca "\"Do... car...\""
+
+# game/cliffroute3.rpy:4854
+translate Schinese cliffchoice5_595cdd53:
+
+    # ca "\"..on’t ..are!\""
+    ca "\"..on’t ..are!\""
+
+# game/cliffroute3.rpy:4855
+translate Schinese cliffchoice5_dcc6b246:
+
+    # av "\"I’m sorry Reverend, but I can’t really tell what you’re saying.\""
+    av "\"I’m sorry Reverend, but I can’t really tell what you’re saying.\""
+
+# game/cliffroute3.rpy:4856
+translate Schinese cliffchoice5_8d7e8c8d:
+
+    # "I see the heron look in my direction, like he’s asking me for help."
+    "I see the heron look in my direction, like he’s asking me for help."
+
+# game/cliffroute3.rpy:4857
+translate Schinese cliffchoice5_2f67250c:
+
+    # "I try to talk again but it’s not working."
+    "I try to talk again but it’s not working."
+
+# game/cliffroute3.rpy:4859
+translate Schinese cliffchoice5_adcd73d2:
+
+    # ca "\"In..si..!\""
+    ca "\"In..si..!\""
+
+# game/cliffroute3.rpy:4860
+translate Schinese cliffchoice5_23d8918e:
+
+    # "The doc hunches on his legs and watches him from a squatting position."
+    "The doc hunches on his legs and watches him from a squatting position."
+
+# game/cliffroute3.rpy:4861
+translate Schinese cliffchoice5_e5af655c:
+
+    # av "\"You know, if you want help, all you have to do is ask, Reverend.\""
+    av "\"You know, if you want help, all you have to do is ask, Reverend.\""
+
+# game/cliffroute3.rpy:4863
+translate Schinese cliffchoice5_a7f65b1c:
+
+    # ca "\"Pu.. me...insi...!\""
+    ca "\"Pu.. me...insi...!\""
+
+# game/cliffroute3.rpy:4864
+translate Schinese cliffchoice5_53ca24e6:
+
+    # av "\"That doesn’t sound much like Albion to me.\""
+    av "\"That doesn’t sound much like Albion to me.\""
+
+# game/cliffroute3.rpy:4865
+translate Schinese cliffchoice5_95c2153a:
+
+    # "He’s thrashing on the ground now."
+    "He’s thrashing on the ground now."
+
+# game/cliffroute3.rpy:4866
+translate Schinese cliffchoice5_f6a685b6:
+
+    # "His breathing sounds a whole lot worse."
+    "His breathing sounds a whole lot worse."
+
+# game/cliffroute3.rpy:4868
+translate Schinese cliffchoice5_ffbf177f:
+
+    # av "\"I guess I can’t really help those who don’t know how to ask.\""
+    av "\"I guess I can’t really help those who don’t know how to ask.\""
+
+# game/cliffroute3.rpy:4869
+translate Schinese cliffchoice5_8e01e8e2:
+
+    # "He stands up straight, watching the heron writhe."
+    "He stands up straight, watching the heron writhe."
+
+# game/cliffroute3.rpy:4870
+translate Schinese cliffchoice5_fec61151:
+
+    # av "\"But do you want to know the worst thing about all of this is, Reverend?\""
+    av "\"But do you want to know the worst thing about all of this is, Reverend?\""
+
+# game/cliffroute3.rpy:4871
+translate Schinese cliffchoice5_d1fbcfdc:
+
+    # "The heron is spasming in the wrong way now."
+    "The heron is spasming in the wrong way now."
+
+# game/cliffroute3.rpy:4872
+translate Schinese cliffchoice5_6912e9f7:
+
+    # av "\"With enough time they’ll just send another one of you who looks the same and acts the same.\""
+    av "\"With enough time they’ll just send another one of you who looks the same and acts the same.\""
+
+# game/cliffroute3.rpy:4873
+translate Schinese cliffchoice5_9845b13e:
+
+    # av "\"But I’m comfortable, now, knowing now that you’re the one who put the soap in her mouth.\""
+    av "\"But I’m comfortable, now, knowing now that you’re the one who put the soap in her mouth.\""
+
+# game/cliffroute3.rpy:4874
+translate Schinese cliffchoice5_c50b1bf0:
+
+    # "He wipes his glasses."
+    "He wipes his glasses."
+
+# game/cliffroute3.rpy:4875
+translate Schinese cliffchoice5_4e71d4a3:
+
+    # av "\"Have a good night, Reverend.\""
+    av "\"Have a good night, Reverend.\""
+
+# game/cliffroute3.rpy:4876
+translate Schinese cliffchoice5_0a03d4a6:
+
+    # "He readjusts his backpack."
+    "He readjusts his backpack."
+
+# game/cliffroute3.rpy:4877
+translate Schinese cliffchoice5_7ceba6d1:
+
+    # av "\"I know I will.\""
+    av "\"I know I will.\""
+
+# game/cliffroute3.rpy:4878
+translate Schinese cliffchoice5_3d26b14c:
+
+    # "And he starts to whistle."
+    "And he starts to whistle."
+
+# game/cliffroute3.rpy:4879
+translate Schinese cliffchoice5_f12a4e09:
+
+    # "Then he starts to walk away."
+    "Then he starts to walk away."
+
+# game/cliffroute3.rpy:4880
+translate Schinese cliffchoice5_025d52b9:
+
+    # "I panic again."
+    "I panic again."
+
+# game/cliffroute3.rpy:4881
+translate Schinese cliffchoice5_6d7ce834:
+
+    # "I cry out to him, trying to force a noise."
+    "I cry out to him, trying to force a noise."
+
+# game/cliffroute3.rpy:4882
+translate Schinese cliffchoice5_5bf9ccd6:
+
+    # "But there’s nothing."
+    "But there’s nothing."
+
+# game/cliffroute3.rpy:4884
+translate Schinese cliffchoice5_5197a30f:
+
+    # "I take the trowel and bang on the bars, hoping he hears something."
+    "I take the trowel and bang on the bars, hoping he hears something."
+
+# game/cliffroute3.rpy:4886
+translate Schinese cliffchoice5_0c8bb634:
+
+    # "My heart leaps as his ears pick up."
+    "My heart leaps as his ears pick up."
+
+# game/cliffroute3.rpy:4887
+translate Schinese cliffchoice5_af210d5d:
+
+    # "But he looks left, and then right."
+    "But he looks left, and then right."
+
+# game/cliffroute3.rpy:4889
+translate Schinese cliffchoice5_a5c04cd8:
+
+    # "And he starts to run."
+    "And he starts to run."
+
+# game/cliffroute3.rpy:4890
+translate Schinese cliffchoice5_c7d3d616:
+
+    # "He’s running because I scared him."
+    "He’s running because I scared him."
+
+# game/cliffroute3.rpy:4892
+translate Schinese cliffchoice5_a2e9a0e3:
+
+    # "He’s so far away now."
+    "He’s so far away now."
+
+# game/cliffroute3.rpy:4893
+translate Schinese cliffchoice5_75890ae9:
+
+    # "I start to think again that I really am going to die here."
+    "I start to think again that I really am going to die here."
+
+# game/cliffroute3.rpy:4895
+translate Schinese cliffchoice5_308f613c:
+
+    # "And then I wonder who I’m going to die as."
+    "And then I wonder who I’m going to die as."
+
+# game/cliffroute3.rpy:4896
+translate Schinese cliffchoice5_c9b1a372:
+
+    # "Will people remember who I wanted to be?"
+    "Will people remember who I wanted to be?"
+
+# game/cliffroute3.rpy:4897
+translate Schinese cliffchoice5_8b78c9ff:
+
+    # "Will any of them see me as I saw myself?"
+    "Will any of them see me as I saw myself?"
+
+# game/cliffroute3.rpy:4898
+translate Schinese cliffchoice5_8c351382:
+
+    # "Probably not."
+    "Probably not."
+
+# game/cliffroute3.rpy:4901
+translate Schinese cliffchoice5_6f613518:
+
+    # "I start to wonder about what my tombstone will look like."
+    "I start to wonder about what my tombstone will look like."
+
+# game/cliffroute3.rpy:4902
+translate Schinese cliffchoice5_87ab9964:
+
+    # "It reads just Cornelis."
+    "It reads just Cornelis."
+
+# game/cliffroute3.rpy:4903
+translate Schinese cliffchoice5_7fe08004:
+
+    # "And it’s buried nowhere near the rest of my family."
+    "And it’s buried nowhere near the rest of my family."
+
+# game/cliffroute3.rpy:4904
+translate Schinese cliffchoice5_d3f94d6d:
+
+    # "I want to think that coming here was a mistake."
+    "I want to think that coming here was a mistake."
+
+# game/cliffroute3.rpy:4905
+translate Schinese cliffchoice5_3f415b81:
+
+    # "But staying home would have been a mistake, too."
+    "But staying home would have been a mistake, too."
+
+# game/cliffroute3.rpy:4906
+translate Schinese cliffchoice5_147a6ae5:
+
+    # "The mistake is me."
+    "The mistake is me."
+
+# game/cliffroute3.rpy:4909
+translate Schinese cliffchoice5_82a4676f:
+
+    # m "\"Professor Tibbits?\""
+    m "\"Professor Tibbits?\""
+
+# game/cliffroute3.rpy:4911
+translate Schinese cliffchoice5_a0e2084e:
+
+    # "I hear Sam."
+    "I hear Sam."
+
+# game/cliffroute3.rpy:4912
+translate Schinese cliffchoice5_6d884257:
+
+    # "I must be hallucinating."
+    "I must be hallucinating."
+
+# game/cliffroute3.rpy:4920
+translate Schinese cliffchoice5_f95336fe:
+
+    # m "\"Why’re you beating that door with a shovel?\""
+    m "\"Why’re you beating that door with a shovel?\""
+
+# game/cliffroute3.rpy:4923
+translate Schinese cliffchoice5_07e939bf:
+
+    # m "\"We were looking for you all day.\""
+    m "\"We were looking for you all day.\""
+
+# game/cliffroute3.rpy:4925
+translate Schinese cliffchoice5_9969c3c1:
+
+    # mu "\"Sam, there’s stains on the ground over here.\""
+    mu "\"Sam, there’s stains on the ground over here.\""
+
+# game/cliffroute3.rpy:4927
+translate Schinese cliffchoice5_54f9d633:
+
+    # m "\"I don’t care about that right now.\""
+    m "\"I don’t care about that right now.\""
+
+# game/cliffroute3.rpy:4930
+translate Schinese cliffchoice5_7ac0a853:
+
+    # m "\"We found Professor Tibbits!\""
+    m "\"We found Professor Tibbits!\""
+
+# game/cliffroute3.rpy:4933
+translate Schinese cliffchoice5_29395655:
+
+    # m "\"...He sort of smells though.\""
+    m "\"...He sort of smells though.\""
+
+# game/cliffroute3.rpy:4935
+translate Schinese cliffchoice5_1e105464:
+
+    # m "\"What are you doing in there!?\""
+    m "\"What are you doing in there!?\""
+
+# game/cliffroute3.rpy:4936
+translate Schinese cliffchoice5_38216fe0:
+
+    # "I try to speak again, but it hurts."
+    "I try to speak again, but it hurts."
+
+# game/cliffroute3.rpy:4937
+translate Schinese cliffchoice5_ff99543d:
+
+    # cl "\"It was locked.\""
+    cl "\"It was locked.\""
+
+# game/cliffroute3.rpy:4939
+translate Schinese cliffchoice5_cc0c1b43:
+
+    # m "\"Why do you sound like that.\""
+    m "\"Why do you sound like that.\""
+
+# game/cliffroute3.rpy:4944
+translate Schinese cliffchoice5_6c7856c6:
+
+    # mu "\"Sam, there’s a scrap of cloth over here that looks like a clergyman’s robe.\""
+    mu "\"Sam, there’s a scrap of cloth over here that looks like a clergyman’s robe.\""
+
+# game/cliffroute3.rpy:4945
+translate Schinese cliffchoice5_3bff065a:
+
+    # mu "\"I think it must have belonged to that priest.\""
+    mu "\"I think it must have belonged to that priest.\""
+
+# game/cliffroute3.rpy:4947
+translate Schinese cliffchoice5_4dd72ad2:
+
+    # m "\"You sure?\""
+    m "\"You sure?\""
+
+# game/cliffroute3.rpy:4950
+translate Schinese cliffchoice5_7d2a4677:
+
+    # mu "\"It has to be.\""
+    mu "\"It has to be.\""
+
+# game/cliffroute3.rpy:4952
+translate Schinese cliffchoice5_2e7242b7:
+
+    # mu "\"Do you think something might have happened to him?\""
+    mu "\"Do you think something might have happened to him?\""
+
+# game/cliffroute3.rpy:4953
+translate Schinese cliffchoice5_392a6d06:
+
+    # mu "\"Like with the other animals the guards keep finding?\""
+    mu "\"Like with the other animals the guards keep finding?\""
+
+# game/cliffroute3.rpy:4956
+translate Schinese cliffchoice5_c5a3b621:
+
+    # m "\"He was old, right?\""
+    m "\"He was old, right?\""
+
+# game/cliffroute3.rpy:4959
+translate Schinese cliffchoice5_75c6366b:
+
+    # mu "\"But something might’ve happened to him if this is on the ground.\""
+    mu "\"But something might’ve happened to him if this is on the ground.\""
+
+# game/cliffroute3.rpy:4962
+translate Schinese cliffchoice5_ab3725d1:
+
+    # m "\"That’s too bad.\""
+    m "\"That’s too bad.\""
+
+# game/cliffroute3.rpy:4965
+translate Schinese cliffchoice5_f5758ccb:
+
+    # m "\"I didn’t know ‘im.\""
+    m "\"I didn’t know ‘im.\""
+
+# game/cliffroute3.rpy:4970
+translate Schinese cliffchoice5_60801218:
+
+    # "I start beating the door with the shovel to get his attention."
+    "I start beating the door with the shovel to get his attention."
+
+# game/cliffroute3.rpy:4972
+translate Schinese cliffchoice5_491a7278:
+
+    # m "\"Whoa there partner.\""
+    m "\"Whoa there partner.\""
+
+# game/cliffroute3.rpy:4976
+translate Schinese cliffchoice5_767b71b3:
+
+    # m "\"Calm on down and we can figure a way to get you out.\""
+    m "\"Calm on down and we can figure a way to get you out.\""
+
+# game/cliffroute3.rpy:4978
+translate Schinese cliffchoice5_6974e0d4:
+
+    # "I try to shout KEY."
+    "I try to shout KEY."
+
+# game/cliffroute3.rpy:4981
+translate Schinese cliffchoice5_a789f828:
+
+    # m "\"I think his lips are saying {i}key{/i}.\""
+    m "\"I think his lips are saying {i}key{/i}.\""
+
+# game/cliffroute3.rpy:4985
+translate Schinese cliffchoice5_2dfcb008:
+
+    # mu "\"There’s keys on a ring over here in the dirt.\""
+    mu "\"There’s keys on a ring over here in the dirt.\""
+
+# game/cliffroute3.rpy:4988
+translate Schinese cliffchoice5_70ac50bb:
+
+    # "I beat the door again, desperately."
+    "I beat the door again, desperately."
+
+# game/cliffroute3.rpy:4993
+translate Schinese cliffchoice5_698f05fc:
+
+    # "Murdoch steps in close and winces."
+    "Murdoch steps in close and winces."
+
+# game/cliffroute3.rpy:4994
+translate Schinese cliffchoice5_9eaf0a90:
+
+    # mu "\"Oh god, he looks dehydrated.\""
+    mu "\"Oh god, he looks dehydrated.\""
+
+# game/cliffroute3.rpy:4997
+translate Schinese cliffchoice5_051e3759:
+
+    # "He fumbles with the keys and within moments I hear the heavy latch lift."
+    "He fumbles with the keys and within moments I hear the heavy latch lift."
+
+# game/cliffroute3.rpy:5005
+translate Schinese cliffchoice5_1acd8e99:
+
+    # "I stumble out and Sam catches me."
+    "I stumble out and Sam catches me."
+
+# game/cliffroute3.rpy:5008
+translate Schinese cliffchoice5_fa85b793:
+
+    # mu "\"Something’s wrong with him.\""
+    mu "\"Something’s wrong with him.\""
+
+# game/cliffroute3.rpy:5010
+translate Schinese cliffchoice5_bf4a4f13:
+
+    # mu "\"We need to get him back to the hotel as soon as possible.\""
+    mu "\"We need to get him back to the hotel as soon as possible.\""
+
+# game/cliffroute3.rpy:5012
+translate Schinese cliffchoice5_cf989dfa:
+
+    # "Sam flips me onto his shoulder, but something is off."
+    "Sam flips me onto his shoulder, but something is off."
+
+# game/cliffroute3.rpy:5013
+translate Schinese cliffchoice5_89bf4e81:
+
+    # "He’s holding onto two sticks, and he’s only using one of his legs."
+    "He’s holding onto two sticks, and he’s only using one of his legs."
+
+# game/cliffroute3.rpy:5014
+translate Schinese cliffchoice5_94c5e15b:
+
+    # "Murdoch is offering him his arm as a support, and they’re walking like contestants in a race where one is tied to the other’s ankle."
+    "Murdoch is offering him his arm as a support, and they’re walking like contestants in a race where one is tied to the other’s ankle."
+
+# game/cliffroute3.rpy:5015
+translate Schinese cliffchoice5_0e869dee:
+
+    # m "\"Easy enough, he’s lighter than his luggage.\""
+    m "\"Easy enough, he’s lighter than his luggage.\""
+
+# game/cliffroute3.rpy:5016
+translate Schinese cliffchoice5_25125e99:
+
+    # "I bury my face in his chest and feel myself floating."
+    "I bury my face in his chest and feel myself floating."
+
+# game/cliffroute3.rpy:5017
+translate Schinese cliffchoice5_c49c700a:
+
+    # "I hear brushes in the distance."
+    "I hear brushes in the distance."
+
+# game/cliffroute3.rpy:5018
+translate Schinese cliffchoice5_e352c0b7:
+
+    # "The wind."
+    "The wind."
+
+# game/cliffroute3.rpy:5019
+translate Schinese cliffchoice5_f6fd13bd:
+
+    # "The chirp of the crickets."
+    "The chirp of the crickets."
+
+# game/cliffroute3.rpy:5022
+translate Schinese cliffchoice5_6d0e7fed:
+
+    # "And then it all gets muffled again."
+    "And then it all gets muffled again."
+
+# game/cliffroute3.rpy:5024
+translate Schinese cliffchoice5_0d084498:
+
+    # "I feel somebody pouring something down my throat."
+    "I feel somebody pouring something down my throat."
+
+# game/cliffroute3.rpy:5025
+translate Schinese cliffchoice5_3894eb10:
+
+    # "It hurts at first, but once I start drinking, I’m desperate for more."
+    "It hurts at first, but once I start drinking, I’m desperate for more."
+
+# game/cliffroute3.rpy:5026
+translate Schinese cliffchoice5_18fa0cb6:
+
+    # m "\"Slow down or else you’ll chip the mug.\""
+    m "\"Slow down or else you’ll chip the mug.\""
+
+# game/cliffroute3.rpy:5032
+translate Schinese cliffchoice5_ea6b57ec:
+
+    # "I sit up in bed."
+    "I sit up in bed."
+
+# game/cliffroute3.rpy:5035
+translate Schinese cliffchoice5_444729ab:
+
+    # "A damp rag falls off my head and some of the water in the mug spills on my chest."
+    "A damp rag falls off my head and some of the water in the mug spills on my chest."
+
+# game/cliffroute3.rpy:5045
+translate Schinese cliffchoice5_6364d43c:
+
+    # "Murdoch is stirring something into a large barrel and Sam gives me a withering look, holding the mug of water that’s just lost some of its contents."
+    "Murdoch is stirring something into a large barrel and Sam gives me a withering look, holding the mug of water that’s just lost some of its contents."
+
+# game/cliffroute3.rpy:5047
+translate Schinese cliffchoice5_73d37080:
+
+    # cl "\"...What’s going on?\""
+    cl "\"...What’s going on?\""
+
+# game/cliffroute3.rpy:5048
+translate Schinese cliffchoice5_c332328c:
+
+    # "I’m thankful that my voice is back."
+    "I’m thankful that my voice is back."
+
+# game/cliffroute3.rpy:5050
+translate Schinese cliffchoice5_6a7c138b:
+
+    # mu "\"We’re drawing you a bath.\""
+    mu "\"We’re drawing you a bath.\""
+
+# game/cliffroute3.rpy:5053
+translate Schinese cliffchoice5_2b803b4a:
+
+    # m "\"Because you stink.\""
+    m "\"Because you stink.\""
+
+# game/cliffroute3.rpy:5055
+translate Schinese cliffchoice5_b5d9f398:
+
+    # "I want to say there’s no time to bathe."
+    "I want to say there’s no time to bathe."
+
+# game/cliffroute3.rpy:5057
+translate Schinese cliffchoice5_6b4d12c2:
+
+    # "Because Caldwell’s dead, and there’s no telling who else could be next."
+    "Because Caldwell’s dead, and there’s no telling who else could be next."
+
+# game/cliffroute3.rpy:5059
+translate Schinese cliffchoice5_f6ceabdb:
+
+    # "I try to protest as Sam lifts me under my arms, shakes his head and whistles as Murdoch forms suds with a rag and a piece of the nice soap with oats in it from his family’s store."
+    "I try to protest as Sam lifts me under my arms, shakes his head and whistles as Murdoch forms suds with a rag and a piece of the nice soap with oats in it from his family’s store."
+
+# game/cliffroute3.rpy:5060
+translate Schinese cliffchoice5_59e12d95:
+
+    # cl "\"Is this necessary?\""
+    cl "\"Is this necessary?\""
+
+# game/cliffroute3.rpy:5063
+translate Schinese cliffchoice5_48b2f3a8:
+
+    # m "\"If we don’t want the whole room to smell like weasel.\""
+    m "\"If we don’t want the whole room to smell like weasel.\""
+
+# game/cliffroute3.rpy:5066
+translate Schinese cliffchoice5_5f7a1b2f:
+
+    # m "\"Ain’t any mint perfume gonna cover that, we need purifying soap.\""
+    m "\"Ain’t any mint perfume gonna cover that, we need purifying soap.\""
+
+# game/cliffroute3.rpy:5069
+translate Schinese cliffchoice5_5f96d8de:
+
+    # cl "\"Unhand me!\""
+    cl "\"Unhand me!\""
+
+# game/cliffroute3.rpy:5071
+translate Schinese cliffchoice5_88ca3ea2:
+
+    # mu "\"You could have died from heat exposure today, Cliff.\""
+    mu "\"You could have died from heat exposure today, Cliff.\""
+
+# game/cliffroute3.rpy:5073
+translate Schinese cliffchoice5_303b80fa:
+
+    # mu "\"Just let us do something nice for you.\""
+    mu "\"Just let us do something nice for you.\""
+
+# game/cliffroute3.rpy:5077
+translate Schinese cliffchoice5_b7f04a2d:
+
+    # "They take turns scrubbing my arms, aggressively."
+    "They take turns scrubbing my arms, aggressively."
+
+# game/cliffroute3.rpy:5078
+translate Schinese cliffchoice5_218e2385:
+
+    # "Then my chest."
+    "Then my chest."
+
+# game/cliffroute3.rpy:5080
+translate Schinese cliffchoice5_29850f42:
+
+    # "Then my neck."
+    "Then my neck."
+
+# game/cliffroute3.rpy:5083
+translate Schinese cliffchoice5_4d4fa04e:
+
+    # cl "\"This can hardly be considered nice!\""
+    cl "\"This can hardly be considered nice!\""
+
+# game/cliffroute3.rpy:5085
+translate Schinese cliffchoice5_ca06ecd6:
+
+    # "Murdoch’s paws are all over my face, rubbing mint-scented oil into my whiskers and cheeks, smooshing them with abandon."
+    "Murdoch’s paws are all over my face, rubbing mint-scented oil into my whiskers and cheeks, smooshing them with abandon."
+
+# game/cliffroute3.rpy:5088
+translate Schinese cliffchoice5_0e61ee04:
+
+    # "Sam pours the bucket over my head without warning,{nw}"
+    "Sam pours the bucket over my head without warning,{nw}"
+
+# game/cliffroute3.rpy:5090
+translate Schinese cliffchoice5_16dbb21d:
+
+    # extend " and I’m left in place, breathing."
+    extend " and I’m left in place, breathing."
+
+# game/cliffroute3.rpy:5092
+translate Schinese cliffchoice5_7f9814d3:
+
+    # cl "\"Are you finished?\""
+    cl "\"Are you finished?\""
+
+# game/cliffroute3.rpy:5094
+translate Schinese cliffchoice5_cb6b116f:
+
+    # "They both nod."
+    "They both nod."
+
+# game/cliffroute3.rpy:5095
+translate Schinese cliffchoice5_7f7f5e10:
+
+    # cl "\"Okay.\""
+    cl "\"Okay.\""
+
+# game/cliffroute3.rpy:5098
+translate Schinese cliffchoice5_4815a60b:
+
+    # cl "\"Please listen carefully.\""
+    cl "\"Please listen carefully.\""
+
+# game/cliffroute3.rpy:5099
+translate Schinese cliffchoice5_caca564f:
+
+    # cl "\"I think that the animal who hunted us as camp in the woods is still stalking us.\""
+    cl "\"I think that the animal who hunted us as camp in the woods is still stalking us.\""
+
+# game/cliffroute3.rpy:5101
+translate Schinese cliffchoice5_5603b5de:
+
+    # m "\"Oh, I know.\""
+    m "\"Oh, I know.\""
+
+# game/cliffroute3.rpy:5104
+translate Schinese cliffchoice5_4b073e81:
+
+    # m "\"Got my leg.\""
+    m "\"Got my leg.\""
+
+# game/cliffroute3.rpy:5106
+translate Schinese cliffchoice5_9acda3e9:
+
+    # cl "\"...Just your leg?\""
+    cl "\"...Just your leg?\""
+
+# game/cliffroute3.rpy:5108
+translate Schinese cliffchoice5_4c7c13ee:
+
+    # m "\"You sound disappointed.\""
+    m "\"You sound disappointed.\""
+
+# game/cliffroute3.rpy:5110
+translate Schinese cliffchoice5_1ef89ebb:
+
+    # cl "\"More like impressed, really.\""
+    cl "\"More like impressed, really.\""
+
+# game/cliffroute3.rpy:5111
+translate Schinese cliffchoice5_d536f733:
+
+    # cl "\"It um...\""
+    cl "\"It um...\""
+
+# game/cliffroute3.rpy:5112
+translate Schinese cliffchoice5_3caaaaa6:
+
+    # "I struggle with whether or not I want to tell them or not."
+    "I struggle with whether or not I want to tell them or not."
+
+# game/cliffroute3.rpy:5113
+translate Schinese cliffchoice5_40dfe130:
+
+    # "...But I struggle more to hold this in."
+    "...But I struggle more to hold this in."
+
+# game/cliffroute3.rpy:5116
+translate Schinese cliffchoice5_85a8b037:
+
+    # cl "\"It got the reverend.\""
+    cl "\"It got the reverend.\""
+
+# game/cliffroute3.rpy:5117
+translate Schinese cliffchoice5_a652483d:
+
+    # mu "\"Oh God.\""
+    mu "\"Oh God.\""
+
+# game/cliffroute3.rpy:5119
+translate Schinese cliffchoice5_5e7b99a9:
+
+    # mu "\"He’s really dead?\""
+    mu "\"He’s really dead?\""
+
+# game/cliffroute3.rpy:5121
+translate Schinese cliffchoice5_1aa336a6:
+
+    # "I didn’t see him die explicitly."
+    "I didn’t see him die explicitly."
+
+# game/cliffroute3.rpy:5122
+translate Schinese cliffchoice5_86075340:
+
+    # "But somehow, I know."
+    "But somehow, I know."
+
+# game/cliffroute3.rpy:5123
+translate Schinese cliffchoice5_fe12756e:
+
+    # cl "\"He’s really dead.\""
+    cl "\"He’s really dead.\""
+
+# game/cliffroute3.rpy:5125
+translate Schinese cliffchoice5_27dc6051:
+
+    # mu "\"It didn’t try to attack you?\""
+    mu "\"It didn’t try to attack you?\""
+
+# game/cliffroute3.rpy:5128
+translate Schinese cliffchoice5_eeec6311:
+
+    # cl "\"Somehow it didn’t even try to break into the shack.\""
+    cl "\"Somehow it didn’t even try to break into the shack.\""
+
+# game/cliffroute3.rpy:5129
+translate Schinese cliffchoice5_9aa0cdcf:
+
+    # cl "\"It might not have noticed me.\""
+    cl "\"It might not have noticed me.\""
+
+# game/cliffroute3.rpy:5131
+translate Schinese cliffchoice5_723bfb8a:
+
+    # m "\"Hard not to.\""
+    m "\"Hard not to.\""
+
+# game/cliffroute3.rpy:5135
+translate Schinese cliffchoice5_9fa898bc:
+
+    # m "\"You really reeked.\""
+    m "\"You really reeked.\""
+
+# game/cliffroute3.rpy:5137
+translate Schinese cliffchoice5_c4492d09:
+
+    # "My cheeks start to feel hot from embarrassment."
+    "My cheeks start to feel hot from embarrassment."
+
+# game/cliffroute3.rpy:5138
+translate Schinese cliffchoice5_ac71b8ea:
+
+    # cl "\"Can you stop talking about that?\""
+    cl "\"Can you stop talking about that?\""
+
+# game/cliffroute3.rpy:5143
+translate Schinese cliffchoice5_53f59452:
+
+    # "I step out of the tub and hold my arms out to dry."
+    "I step out of the tub and hold my arms out to dry."
+
+# game/cliffroute3.rpy:5146
+translate Schinese cliffchoice5_f934beac:
+
+    # "Sam and Murdoch start to pat me down."
+    "Sam and Murdoch start to pat me down."
+
+# game/cliffroute3.rpy:5148
+translate Schinese cliffchoice5_2e8e7151:
+
+    # "I growl to get them to step back."
+    "I growl to get them to step back."
+
+# game/cliffroute3.rpy:5151
+translate Schinese cliffchoice5_41d8be46:
+
+    # "But they just start to laugh."
+    "But they just start to laugh."
+
+# game/cliffroute3.rpy:5154
+translate Schinese cliffchoice5_4e497f66:
+
+    # m "\"That’s what it sounds like when a stoat growls?\""
+    m "\"That’s what it sounds like when a stoat growls?\""
+
+# game/cliffroute3.rpy:5157
+translate Schinese cliffchoice5_9038d387:
+
+    # mu "\"Sam. Be nice.\""
+    mu "\"Sam. Be nice.\""
+
+# game/cliffroute3.rpy:5158
+translate Schinese cliffchoice5_366c621f:
+
+    # "But I can hear that he’s on the verge of cracking up too."
+    "But I can hear that he’s on the verge of cracking up too."
+
+# game/cliffroute3.rpy:5160
+translate Schinese cliffchoice5_eae9d82b:
+
+    # m "\"I thought he had found a helium tank to suck on.\""
+    m "\"I thought he had found a helium tank to suck on.\""
+
+# game/cliffroute3.rpy:5162
+translate Schinese cliffchoice5_e9f7e80e:
+
+    # "I want to scream at them."
+    "I want to scream at them."
+
+# game/cliffroute3.rpy:5165
+translate Schinese cliffchoice5_80831832:
+
+    # cl "\"Let me dress myself!\""
+    cl "\"Let me dress myself!\""
+
+# game/cliffroute3.rpy:5166
+translate Schinese cliffchoice5_d09d543c:
+
+    # "They both step back."
+    "They both step back."
+
+# game/cliffroute3.rpy:5169
+translate Schinese cliffchoice5_49be9e8f:
+
+    # "I’m irritated that they bow."
+    "I’m irritated that they bow."
+
+# game/cliffroute3.rpy:5174
+translate Schinese cliffchoice5_57592cba:
+
+    # "By the time I manage to slip into my pants, we hear a knock on the door."
+    "By the time I manage to slip into my pants, we hear a knock on the door."
+
+# game/cliffroute3.rpy:5176
+translate Schinese cliffchoice5_428ca7d2:
+
+    # jeb "\"Hello?\""
+    jeb "\"Hello?\""
+
+# game/cliffroute3.rpy:5177
+translate Schinese cliffchoice5_acd72afe:
+
+    # cl "\"Just a moment!\""
+    cl "\"Just a moment!\""
+
+# game/cliffroute3.rpy:5178
+translate Schinese cliffchoice5_1ef3ee18:
+
+    # "I slip into my shirt as quickly as possible."
+    "I slip into my shirt as quickly as possible."
+
+# game/cliffroute3.rpy:5180
+translate Schinese cliffchoice5_4d63693a:
+
+    # mu "\"I’m gonna let him in now.\""
+    mu "\"I’m gonna let him in now.\""
+
+# game/cliffroute3.rpy:5182
+translate Schinese cliffchoice5_62293655:
+
+    # cl "\"My tie isn’t even on!\""
+    cl "\"My tie isn’t even on!\""
+
+# game/cliffroute3.rpy:5185
+translate Schinese cliffchoice5_e22a9dd9:
+
+    # "Impatiently, the fox pulls the door open."
+    "Impatiently, the fox pulls the door open."
+
+# game/cliffroute3.rpy:5188
+translate Schinese cliffchoice5_9eec81d6:
+
+    # "Jeb shuffles in, then stops."
+    "Jeb shuffles in, then stops."
+
+# game/cliffroute3.rpy:5191
+translate Schinese cliffchoice5_f2040898:
+
+    # "He looks from the blisters on my hand to the wrap on Sam’s foot."
+    "He looks from the blisters on my hand to the wrap on Sam’s foot."
+
+# game/cliffroute3.rpy:5193
+translate Schinese cliffchoice5_4dd48603:
+
+    # jeb "\"How are y’all gettin’ more injured in the settlement than the journey.\""
+    jeb "\"How are y’all gettin’ more injured in the settlement than the journey.\""
+
+# game/cliffroute3.rpy:5195
+translate Schinese cliffchoice5_cddff88b:
+
+    # cl "\"Well...\""
+    cl "\"Well...\""
+
+# game/cliffroute3.rpy:5197
+translate Schinese cliffchoice5_87d626db:
+
+    # jeb "\"That was a rhetorical question.\""
+    jeb "\"That was a rhetorical question.\""
+
+# game/cliffroute3.rpy:5201
+translate Schinese cliffchoice5_116d1e81:
+
+    # jeb "\"Anyways, I just wanted to bring the news as fast as I heard it.\""
+    jeb "\"Anyways, I just wanted to bring the news as fast as I heard it.\""
+
+# game/cliffroute3.rpy:5205
+translate Schinese cliffchoice5_1833e4df:
+
+    # jeb "\"Some of the natives are saying they got the beast that was hunting us on road.\""
+    jeb "\"Some of the natives are saying they got the beast that was hunting us on road.\""
+
+# game/cliffroute3.rpy:5208
+translate Schinese cliffchoice5_87dda2c0:
+
+    # mu "\"The thing that was following us?\""
+    mu "\"The thing that was following us?\""
+
+# game/cliffroute3.rpy:5211
+translate Schinese cliffchoice5_edaca8e3:
+
+    # jeb "\"Yep.\""
+    jeb "\"Yep.\""
+
+# game/cliffroute3.rpy:5214
+translate Schinese cliffchoice5_14c444a0:
+
+    # jeb "\"Turns out it was just a wild hog.\""
+    jeb "\"Turns out it was just a wild hog.\""
+
+# game/cliffroute3.rpy:5217
+translate Schinese cliffchoice5_8dce9235:
+
+    # jeb "\"A big, old, territorial hog.\""
+    jeb "\"A big, old, territorial hog.\""
+
+# game/cliffroute3.rpy:5219
+translate Schinese cliffchoice5_d4fd6d09:
+
+    # cl "\"And how do you know that?\""
+    cl "\"And how do you know that?\""
+
+# game/cliffroute3.rpy:5221
+translate Schinese cliffchoice5_08540650:
+
+    # "Jeb sends me a look."
+    "Jeb sends me a look."
+
+# game/cliffroute3.rpy:5223
+translate Schinese cliffchoice5_9554761a:
+
+    # jeb "\"’Cause they found it goring the reverend on the road last night the same way it was getting all the other animals.\""
+    jeb "\"’Cause they found it goring the reverend on the road last night the same way it was getting all the other animals.\""
+
+# game/cliffroute3.rpy:5225
+translate Schinese cliffchoice5_5eee936f:
+
+    # "As soon as he says that I feel the blood drain from my face."
+    "As soon as he says that I feel the blood drain from my face."
+
+# game/cliffroute3.rpy:5227
+translate Schinese cliffchoice5_2527591c:
+
+    # cl "\"...I want to see it.\""
+    cl "\"...I want to see it.\""
+
+# game/cliffroute3.rpy:5229
+translate Schinese cliffchoice5_619e9a1c:
+
+    # jeb "\"You sure about that?\""
+    jeb "\"You sure about that?\""
+
+# game/cliffroute3.rpy:5232
+translate Schinese cliffchoice5_b1344700:
+
+    # jeb "\"You might be a bit sensitive for carnage like that done to a person.\""
+    jeb "\"You might be a bit sensitive for carnage like that done to a person.\""
+
+# game/cliffroute3.rpy:5234
+translate Schinese cliffchoice5_c1bc8ed8:
+
+    # cl "\"No, I’m quite sure.\""
+    cl "\"No, I’m quite sure.\""
+
+# game/cliffroute3.rpy:5236
+translate Schinese cliffchoice5_a9035ae9:
+
+    # cl "\"Show me.\""
+    cl "\"Show me.\""
+
+# game/cliffroute3.rpy:5237
+translate Schinese cliffchoice5_0b189e98:
+
+    # "Murdoch grabs his camera."
+    "Murdoch grabs his camera."
+
+# game/cliffroute3.rpy:5239
+translate Schinese cliffchoice5_52300c49:
+
+    # mu "\"I want to be sure too.\""
+    mu "\"I want to be sure too.\""
+
+# game/cliffroute3.rpy:5242
+translate Schinese cliffchoice5_2b535c25:
+
+    # "The only one who isn’t moving much is Sam."
+    "The only one who isn’t moving much is Sam."
+
+# game/cliffroute3.rpy:5244
+translate Schinese cliffchoice5_2ebc518a:
+
+    # m "\"I’ll catch up with y’all. I just want to manage some things.\""
+    m "\"I’ll catch up with y’all. I just want to manage some things.\""
+
+# game/cliffroute3.rpy:5247
+translate Schinese cliffchoice5_fdc64b40:
+
+    # mu "\"Don’t take too long.\""
+    mu "\"Don’t take too long.\""
+
+# game/cliffroute3.rpy:5251
+translate Schinese cliffchoice5_a7ddea3f:
+
+    # jeb "\"We won’t be going far down the road.\""
+    jeb "\"We won’t be going far down the road.\""
+
+# game/cliffroute3.rpy:5256
+translate Schinese cliffchoice5_578f099d:
+
+    # "I wait until the other two leave the room and then walk up to Sam."
+    "I wait until the other two leave the room and then walk up to Sam."
+
+# game/cliffroute3.rpy:5258
+translate Schinese cliffchoice5_5b99a41c:
+
+    # "I bend down to sneak him a kiss."
+    "I bend down to sneak him a kiss."
+
+# game/cliffroute3.rpy:5259
+translate Schinese cliffchoice5_c42eb32a:
+
+    # "He looks surprised."
+    "He looks surprised."
+
+# game/cliffroute3.rpy:5261
+translate Schinese cliffchoice5_4b0ba016:
+
+    # m "\"What was that for?\""
+    m "\"What was that for?\""
+
+# game/cliffroute3.rpy:5263
+translate Schinese cliffchoice5_a189ccb6:
+
+    # cl "\"It’s just my way of saying thank you.\""
+    cl "\"It’s just my way of saying thank you.\""
+
+# game/cliffroute3.rpy:5264
+translate Schinese cliffchoice5_bfc2da4b:
+
+    # "More than ever."
+    "More than ever."
+
+# game/cliffroute3.rpy:5266
+translate Schinese cliffchoice5_af4e8f55:
+
+    # "He scratches the back of his head bashfully and shoos me away with his paw."
+    "He scratches the back of his head bashfully and shoos me away with his paw."
+
+# game/cliffroute3.rpy:5268
+translate Schinese cliffchoice5_f4383ba3:
+
+    # m "\"Go on and get.\""
+    m "\"Go on and get.\""
+
+# game/cliffroute3.rpy:5271
+translate Schinese cliffchoice5_3d68fbd9:
+
+    # m "\"Like I said, I just need some time!\""
+    m "\"Like I said, I just need some time!\""
+
+# game/cliffroute3.rpy:5274
+translate Schinese cliffchoice5_fcd6f91f:
+
+    # m "\"It won’t be long.\""
+    m "\"It won’t be long.\""
+
+# game/cliffroute3.rpy:5276
+translate Schinese cliffchoice5_a377b38a:
+
+    # "I nod, blushing, and open up the door, not much feeling the blisters on my hands right now."
+    "I nod, blushing, and open up the door, not much feeling the blisters on my hands right now."
+
+# game/cliffroute3.rpy:5281
+translate Schinese cliffchoice5_21ccfffd:
+
+    # m "\"There’s no goddamn way that thing was a wild hog.\""
+    m "\"There’s no goddamn way that thing was a wild hog.\""
+
+# game/cliffroute3.rpy:5282
+translate Schinese cliffchoice5_f607139a:
+
+    # m "\"Hogs are something you can see.\""
+    m "\"Hogs are something you can see.\""
+
+# game/cliffroute3.rpy:5283
+translate Schinese cliffchoice5_11e9cde3:
+
+    # m "\"They don’t go invisible all of a sudden, or look like monsters in photographs.\""
+    m "\"They don’t go invisible all of a sudden, or look like monsters in photographs.\""
+
+# game/cliffroute3.rpy:5284
+translate Schinese cliffchoice5_527ba419:
+
+    # m "\"Whatever is out there still has to be out there.\""
+    m "\"Whatever is out there still has to be out there.\""
+
+# game/cliffroute3.rpy:5286
+translate Schinese cliffchoice5_5a277db5:
+
+    # "I want to check again to see how far Camp Rosa is."
+    "I want to check again to see how far Camp Rosa is."
+
+# game/cliffroute3.rpy:5287
+translate Schinese cliffchoice5_133f06c6:
+
+    # "I search through my backpack and pull out the map, unwinding it."
+    "I search through my backpack and pull out the map, unwinding it."
+
+# game/cliffroute3.rpy:5289
+translate Schinese cliffchoice5_a13722ef:
+
+    # "My confidence plummets again."
+    "My confidence plummets again."
+
+# game/cliffroute3.rpy:5290
+translate Schinese cliffchoice5_b181a38b:
+
+    # "That journey looks almost as long as the one from Echo."
+    "That journey looks almost as long as the one from Echo."
+
+# game/cliffroute3.rpy:5291
+translate Schinese cliffchoice5_e78b11cf:
+
+    # "But if it’s farther away, maybe that means it’s safer."
+    "But if it’s farther away, maybe that means it’s safer."
+
+# game/cliffroute3.rpy:5293
+translate Schinese cliffchoice5_e4b8b2b0:
+
+    # "I roll it up again and put it back."
+    "I roll it up again and put it back."
+
+# game/cliffroute3.rpy:5298
+translate Schinese cliffchoice5_7451595a:
+
+    # "Once I’m outside it’s not very hard to see where I need to go."
+    "Once I’m outside it’s not very hard to see where I need to go."
+
+# game/cliffroute3.rpy:5299
+translate Schinese cliffchoice5_b70ece10:
+
+    # "I follow the group of people arranged in a large circle in the middle of the road."
+    "I follow the group of people arranged in a large circle in the middle of the road."
+
+# game/cliffroute3.rpy:5300
+translate Schinese cliffchoice5_a562f14e:
+
+    # "What’s ahead is one of the strangest sights I’ve seen on my journey yet."
+    "What’s ahead is one of the strangest sights I’ve seen on my journey yet."
+
+# game/cliffroute3.rpy:5304
+translate Schinese cliffchoice5_b7dcd770:
+
+    # "The bear, Yiska, is sitting on top of what I first thought was an old sequoia tree stump, but the closer I look, the bark becomes hair and skin."
+    "The bear, Yiska, is sitting on top of what I first thought was an old sequoia tree stump, but the closer I look, the bark becomes hair and skin."
+
+# game/cliffroute3.rpy:5305
+translate Schinese cliffchoice5_3ad1f2e3:
+
+    # "He’s chatting with others in the Meseta language, although it sounds like he has a slight lisp he hadn’t had before, as if he had a tongue injury."
+    "He’s chatting with others in the Meseta language, although it sounds like he has a slight lisp he hadn’t had before, as if he had a tongue injury."
+
+# game/cliffroute3.rpy:5306
+translate Schinese cliffchoice5_64d102c0:
+
+    # "He’s holding onto a spear in his left hand that punctured beneath the jaw of the great pig, and Tsela is sitting next to him, comfortable."
+    "He’s holding onto a spear in his left hand that punctured beneath the jaw of the great pig, and Tsela is sitting next to him, comfortable."
+
+# game/cliffroute3.rpy:5307
+translate Schinese cliffchoice5_a153abd9:
+
+    # "There is also a table cloth, soaked in red, over a patch which I assume must be the reverend."
+    "There is also a table cloth, soaked in red, over a patch which I assume must be the reverend."
+
+# game/cliffroute3.rpy:5311
+translate Schinese cliffchoice5_94be7330:
+
+    # "I’m starting to wonder whether or not what we had run into in the forest really was just a big old pissed off hog."
+    "I’m starting to wonder whether or not what we had run into in the forest really was just a big old pissed off hog."
+
+# game/cliffroute3.rpy:5312
+translate Schinese cliffchoice5_45e6adac:
+
+    # "As Cliff suspected, maybe we were hallucinating due to the natural gasses."
+    "As Cliff suspected, maybe we were hallucinating due to the natural gasses."
+
+# game/cliffroute3.rpy:5313
+translate Schinese cliffchoice5_965b07b7:
+
+    # "As I thought about this, I noticed something strange."
+    "As I thought about this, I noticed something strange."
+
+# game/cliffroute3.rpy:5314
+translate Schinese cliffchoice5_881b3409:
+
+    # "I don’t see any guards around."
+    "I don’t see any guards around."
+
+# game/cliffroute3.rpy:5315
+translate Schinese cliffchoice5_a8138a5a:
+
+    # "Just our travel group, and Meseta townsfolk."
+    "Just our travel group, and Meseta townsfolk."
+
+# game/cliffroute3.rpy:5317
+translate Schinese cliffchoice5_86e0253e:
+
+    # "But before I can react to this, something else sneaks up on me."
+    "But before I can react to this, something else sneaks up on me."
+
+# game/cliffroute3.rpy:5318
+translate Schinese cliffchoice5_00461f82:
+
+    # "It’s the sound of a car."
+    "It’s the sound of a car."
+
+# game/cliffroute3.rpy:5321
+translate Schinese cliffchoice5_d3686086:
+
+    # "And it’s pulling up behind me."
+    "And it’s pulling up behind me."
+
+# game/cliffroute3.rpy:5322
+translate Schinese cliffchoice5_2d768f2b:
+
+    # "As I turn around to look, it stops, and two people come out of the car."
+    "As I turn around to look, it stops, and two people come out of the car."
+
+# game/cliffroute3.rpy:5325
+translate Schinese cliffchoice5_efee6eaf:
+
+    # "The first I can recognize immediately."
+    "The first I can recognize immediately."
+
+# game/cliffroute3.rpy:5326
+translate Schinese cliffchoice5_38e2dd00:
+
+    # "It’s James Hendricks."
+    "It’s James Hendricks."
+
+# game/cliffroute3.rpy:5327
+translate Schinese cliffchoice5_aba1d1ea:
+
+    # "But the other I can’t make out."
+    "But the other I can’t make out."
+
+# game/cliffroute3.rpy:5328
+translate Schinese cliffchoice5_50e472c2:
+
+    # "Until I hear him."
+    "Until I hear him."
+
+# game/cliffroute3.rpy:5330
+translate Schinese cliffchoice5_d1eb3a57:
+
+    # wiunk "\"Now just what the hell is going on, exactly?\""
+    wiunk "\"Now just what the hell is going on, exactly?\""
+
+# game/cliffroute3.rpy:5332
+translate Schinese cliffchoice5_2da3dcbf:
+
+    # "Will walks up to the group, but then stops in his tracks when he sees me."
+    "Will walks up to the group, but then stops in his tracks when he sees me."
+
+# game/cliffroute3.rpy:5334
+translate Schinese cliffchoice5_89775393:
+
+    # wi "\"And just what the hell are you doing here?!\""
+    wi "\"And just what the hell are you doing here?!\""
+
+# game/cliffroute3.rpy:5340
+translate Schinese cliffchoice5_fec97169:
+
+    # "To be continued..."
+    "To be continued..."
+
+translate Schinese strings:
+
+    # game/cliffroute3.rpy:4219
+    old "I guess it might not be so bad here after all."
+    new "I guess it might not be so bad here after all."
+
+    # game/cliffroute3.rpy:4219
+    old "There’s too many implications which concern me."
+    new "There’s too many implications which concern me."
+
+    # game/cliffroute3.rpy:4404
+    old "Don’t interfere."
+    new "Don’t interfere."
+
+    # game/cliffroute3.rpy:4404
+    old "Stop him."
+    new "Stop him."
+

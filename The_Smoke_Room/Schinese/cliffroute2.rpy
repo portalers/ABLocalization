@@ -26137,3 +26137,11 @@ translate Schinese scbath_7a21367f:
 
     # "It's a beautiful night out."
     "真是个美好的夜晚。"
+# TODO: Translation updated at 2023-07-11 15:31
+
+# game/cliffroute2.rpy:223
+translate Schinese cliffroute2_3224ee83:
+
+    # cl "\"After I left for university, I never felt the need. All my courses were in Albion, and most of my students spoke Albion as well.\""
+    cl "\"After I left for university, I never felt the need. All my courses were in Albion, and most of my students spoke Albion as well.\""
+
