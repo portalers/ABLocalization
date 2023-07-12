@@ -3250,7 +3250,7 @@ translate Tchinese a1s2_d5806df2:
 translate Tchinese a1s2_b74530b3:
 
     # unk3 "{font=ui/forbid.ttf}{cps=3}No control."
-    unk3 "{size=+20}{font=font/forbid.ttf}{cps=3}别去控制{/font}{/size}"
+    unk3 "{font=ui/forbid.ttf}{cps=3}别去控制。"
 
 # game/a1s2.rpy:933
 translate Tchinese a1s2_794fd1ea:
