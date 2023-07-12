@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-06-30 16:37
-
 translate Tchinese strings:
 
     # game/screens.rpy:256
@@ -345,6 +343,19 @@ translate Tchinese strings:
     old "Language"
     new "語言"
 
-    # game/options.rpy:15
-    old "Arches"
-    new "Arches"
+# TODO: Translation updated at 2023-07-12 11:47
+
+translate Tchinese strings:
+
+    # game/screens.rpy:316
+    old "Options"
+    new "選項"
+
+    # game/screens.rpy:318
+    old "Gallery"
+    new "畫廊"
+
+    # game/screens.rpy:327
+    old "Main"
+    new "主菜單"
+
