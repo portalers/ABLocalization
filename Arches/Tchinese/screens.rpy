@@ -34,11 +34,11 @@ translate Tchinese strings:
 
     # game/screens.rpy:304
     old "Start"
-    new "開始遊戲"
+    new "開始"
 
     # game/screens.rpy:312
     old "Load"
-    new "讀取遊戲"
+    new "讀取"
 
     # game/screens.rpy:314
     old "Preferences"
