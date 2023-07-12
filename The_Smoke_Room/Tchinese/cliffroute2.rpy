@@ -25995,3 +25995,11 @@ translate Tchinese strings:
     # game/cliffroute2.rpy:5326
     old "It's about time I saw this fox naked."
     new "我想看看這隻狐狸的裸體。"
+
+# TODO: Translation updated at 2023-07-11 15:30
+
+# game/cliffroute2.rpy:223
+translate Tchinese cliffroute2_3224ee83:
+
+    # cl "\"After I left for university, I never felt the need. All my courses were in Albion, and most of my students spoke Albion as well.\""
+    cl "\"離家上大學至今，我還沒遇到過非巴達維亞語不可的場合。我所有的課程、包括大部分學生們講的全是阿爾比恩語。\""
