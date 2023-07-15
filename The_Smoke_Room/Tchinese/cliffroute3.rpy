@@ -16039,7 +16039,7 @@ translate Tchinese strings:
 
     # game/cliffroute3.rpy:4219
     old "I guess it might not be so bad here after all."
-    new "或許這裡也沒那麼遭。"
+    new "或許這裡也沒那麼糟。"
 
     # game/cliffroute3.rpy:4219
     old "There’s too many implications which concern me."
