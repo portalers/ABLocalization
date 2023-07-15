@@ -198,6 +198,6 @@ screen cliff_select():
             imagebutton idle "images/thumbnails/cliffthumb1.webp" action Confirm(spoiler_message, Function(call_chapter_select, "Clifford", 2), Hide("confirm"))
             imagebutton idle "images/thumbnails/cliffthumb2.jpg" action Confirm(spoiler_message, Function(call_chapter_select, "Clifford", 3), Hide("confirm"))
             imagebutton idle "images/thumbnails/luthumb.webp" action Confirm(spoiler_message, Function(call_chapter_select, "Clifford", 4), Hide("confirm"))
-            null
+            imagebutton idle "images/thumbnails/luthumb.webp" action Confirm(spoiler_message, Function(call_chapter_select, "Clifford", 5), Hide("confirm"))
             null
         add "sprites/cliff/cli.webp" xpos 900 xysize(748,925) ypos -350 alpha 0.75 zoom 0.8
