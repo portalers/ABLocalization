@@ -15841,7 +15841,7 @@ translate Tchinese cliffchoice5_21ccfffd:
 translate Tchinese cliffchoice5_f607139a:
 
     # m "\"Hogs are something you can see.\""
-    m "\"野豬好歹能看得劍。\""
+    m "\"野豬好歹能看得見。\""
 
 # game/cliffroute3.rpy:5283
 translate Tchinese cliffchoice5_11e9cde3:
