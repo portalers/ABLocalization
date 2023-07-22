@@ -26143,5 +26143,5 @@ translate Schinese scbath_7a21367f:
 translate Schinese cliffroute2_3224ee83:
 
     # cl "\"After I left for university, I never felt the need. All my courses were in Albion, and most of my students spoke Albion as well.\""
-    cl "\"After I left for university, I never felt the need. All my courses were in Albion, and most of my students spoke Albion as well.\""
+    cl "“离家上大学至今，我还没遇到过非巴达维亚语不可的场合。我所有的课程、包括大部分学生讲的全是阿尔比恩语。”"
 
