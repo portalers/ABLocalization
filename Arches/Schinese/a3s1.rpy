@@ -45,8 +45,8 @@ translate Schinese a3s1_c2bec849:
 # game/a3s1.rpy:19
 translate Schinese a3s1_9662df53:
 
-    # b "\"See? You're comin' 'round.\""
-    b "\"瞧？你很快就会醒了。\""
+    # b "“See? You're comin' 'round.”"
+    b "“瞧？你很快就会醒了。”"
 
 # game/a3s1.rpy:20
 translate Schinese a3s1_3a3da7cd:
@@ -135,8 +135,8 @@ translate Schinese a3s1_889e0fc2:
 # game/a3s1.rpy:37
 translate Schinese a3s1_2cc7450d:
 
-    # c "\"What the hell?\""
-    c "\"怎么回事？\""
+    # c "“What the hell?”"
+    c "“怎么回事？”"
 
 # game/a3s1.rpy:38
 translate Schinese a3s1_2eb531db:
@@ -153,8 +153,8 @@ translate Schinese a3s1_bc644aff:
 # game/a3s1.rpy:42
 translate Schinese a3s1_e970fbca:
 
-    # b "\"I choked you the fuck out, that's what!\""
-    b "\"你被我掐晕了，就这么回事！\""
+    # b "“I choked you the fuck out, that's what!”"
+    b "“你被我掐晕了，就这么回事！”"
 
 # game/a3s1.rpy:44
 translate Schinese a3s1_422f7f0b:
@@ -165,38 +165,38 @@ translate Schinese a3s1_422f7f0b:
 # game/a3s1.rpy:45
 translate Schinese a3s1_5023437a:
 
-    # c "\"I thought I died.\""
-    c "\"我以为我已经死了。\""
+    # c "“I thought I died.”"
+    c "“我以为我已经死了。”"
 
 # game/a3s1.rpy:47
 translate Schinese a3s1_b1063d3c:
 
-    # b "\"Heh, not yet, kid. We got a few things to do first, and you probably wanna see your boyfriend too, eh? Not sure you'll get to talk to him since he's knocked out.\""
-    b "\"当然没有，小子，咱俩还有账要算呐，再说你不想见你的小男友了？虽然他昏了过去，能吱一声就不错了。\""
+    # b "“Heh, not yet, kid. We got a few things to do first, and you probably wanna see your boyfriend too, eh? Not sure you'll get to talk to him since he's knocked out.”"
+    b "“当然没有，小子，咱俩还有账要算呐，再说你不想见你的小男友了？虽然他昏了过去，能吱一声就不错了。”"
 
 # game/a3s1.rpy:49
 translate Schinese a3s1_bf5b8b22:
 
-    # c "\"Knocked out?\""
-    c "\"昏了过去？\""
+    # c "“Knocked out?”"
+    c "“昏了过去？”"
 
 # game/a3s1.rpy:51
 translate Schinese a3s1_d2809e7c:
 
-    # b "\"Yep.\""
-    b "\"对。\""
+    # b "“Yep.”"
+    b "“对。”"
 
 # game/a3s1.rpy:53
 translate Schinese a3s1_b1e3541c:
 
-    # c "\"Wait, with what?\""
-    c "\"你、对他做了什么？\""
+    # c "“Wait, with what?”"
+    c "“你、对他做了什么？”"
 
 # game/a3s1.rpy:55
 translate Schinese a3s1_1226c258:
 
-    # b "\"Relax, It's just Rohypnol. Sure, I gave him a good amount, but they're a few decades old because they made 'em illegal in the States back in the 90s, and you know, when pills get old, they don't work so good anymore--\""
-    b "\"放松，罗眠乐而已。我是喂了他不少，但毕竟是90年代前的老古董了，那会儿它还是合法的呐。你也知道，药过期了，就不怎么-\""
+    # b "“Relax, It's just Rohypnol. Sure, I gave him a good amount, but they're a few decades old because they made 'em illegal in the States back in the 90s, and you know, when pills get old, they don't work so good anymore--”"
+    b "“放松，罗眠乐而已。我是喂了他不少，但毕竟是90年代前的老古董了，那会儿它还是合法的呐。你也知道，药过期了，就不怎么-”"
 
 # game/a3s1.rpy:56
 translate Schinese a3s1_ad2b7cd3:
@@ -567,8 +567,8 @@ translate Schinese a3s1_b8811d5b:
 # game/a3s1.rpy:122
 translate Schinese a3s1_dc1afe32:
 
-    # b "\"...had to make connections down in Sonora. Stuff was over-the-fucking-counter there, so it was easy to get, but getting it over-the-fucking-border is a whole different issue--\""
-    b "\"...只能去索诺拉找找路子，那里有的是现货。不过弄到手容易，出州就-\""
+    # b "“...had to make connections down in Sonora. Stuff was over-the-fucking-counter there, so it was easy to get, but getting it over-the-fucking-border is a whole different issue--”"
+    b "“...只能去索诺拉找找路子，那里有的是现货。不过弄到手容易，出州就-”"
 
 # game/a3s1.rpy:124
 translate Schinese a3s1_be5c9940:
@@ -585,8 +585,8 @@ translate Schinese a3s1_31d56de6:
 # game/a3s1.rpy:128
 translate Schinese a3s1_0570e3ac:
 
-    # c "\"What's wrong?\""
-    c "\"你怎么了？\""
+    # c "“What's wrong?”"
+    c "“你怎么了？”"
 
 # game/a3s1.rpy:129
 translate Schinese a3s1_ea8a1596:
@@ -597,8 +597,8 @@ translate Schinese a3s1_ea8a1596:
 # game/a3s1.rpy:130
 translate Schinese a3s1_fe0037e7:
 
-    # b "\"I dunno, I just like you better when you're smilin', but if I'm fuckin' borin' ya, just say so.\""
-    b "\"不知道，但我更喜欢你笑的时候，你要是感觉我无聊就直说。\""
+    # b "“I dunno, I just like you better when you're smilin', but if I'm fuckin' borin' ya, just say so.”"
+    b "“不知道，但我更喜欢你笑的时候，你要是感觉我无聊就直说。”"
 
 # game/a3s1.rpy:132
 translate Schinese a3s1_8798434f:
@@ -615,14 +615,14 @@ translate Schinese a3s1_bf2f6d18:
 # game/a3s1.rpy:135
 translate Schinese a3s1_bff052b9:
 
-    # c "\"Oh, sorry, it is really interesting. I'm just so overwhelmed with the drugs and--\""
-    c "\"噢，才不无聊呢。只是我吸了毒，不太能听进去-\""
+    # c "“Oh, sorry, it is really interesting. I'm just so overwhelmed with the drugs and--”"
+    c "“噢，才不无聊呢。只是我吸了毒，不太能听进去-”"
 
 # game/a3s1.rpy:137
 translate Schinese a3s1_505143e9:
 
-    # b "\"Shut up.\""
-    b "\"闭嘴。\""
+    # b "“Shut up.”"
+    b "“闭嘴。”"
 
 # game/a3s1.rpy:139
 translate Schinese a3s1_d0bd3f82:
@@ -639,8 +639,8 @@ translate Schinese a3s1_2619f3a5:
 # game/a3s1.rpy:143
 translate Schinese a3s1_75a82be8:
 
-    # b "\"You're cute, but not that cute, and I'm not that stupid. I hate fags like you, sucking up and sucking dick so you get what you really want.\""
-    b "\"你很可爱，但也没那么可爱，我也没那么蠢。我最讨厌的就是你这样的小基佬，又是拍马屁，又是献殷勤的，其实心里全他妈是小九九。\""
+    # b "“You're cute, but not that cute, and I'm not that stupid. I hate fags like you, sucking up and sucking dick so you get what you really want.”"
+    b "“你很可爱，但也没那么可爱，我也没那么蠢。我最讨厌的就是你这样的小基佬，又是拍马屁，又是献殷勤的，其实心里全他妈是小九九。”"
 
 # game/a3s1.rpy:144
 translate Schinese a3s1_b0c18809:
@@ -669,8 +669,8 @@ translate Schinese a3s1_1a31de6d:
 # game/a3s1.rpy:148
 translate Schinese a3s1_b6592d2a:
 
-    # b "\"I got a better idea.\""
-    b "\"我想到一个好主意。\""
+    # b "“I got a better idea.”"
+    b "“我想到一个好主意。”"
 
 # game/a3s1.rpy:153
 translate Schinese a3s1_aca69da8:
@@ -681,8 +681,8 @@ translate Schinese a3s1_aca69da8:
 # game/a3s1.rpy:154
 translate Schinese a3s1_987337a5:
 
-    # c "\"No, no! Stop, I can walk with you. I won't try to run-- OW!\""
-    c "\"不，不要！我会乖乖跟着你的，我不会逃跑-{b}嗷{/b}！\""
+    # c "“No, no! Stop, I can walk with you. I won't try to run-- OW!”"
+    c "“不，不要！我会乖乖跟着你的，我不会逃跑-{b}嗷{/b}！”"
 
 # game/a3s1.rpy:155
 translate Schinese a3s1_5d29f70a:
@@ -729,14 +729,14 @@ translate Schinese a3s1_1f22484b:
 # game/a3s1.rpy:165
 translate Schinese a3s1_d6d6ac50:
 
-    # b "\"Well, I'll be damned. The fucker got away!\""
-    b "\"哎呀，居然被那混蛋溜了！\""
+    # b "“Well, I'll be damned. The fucker got away!”"
+    b "“哎呀，居然被那混蛋溜了！”"
 
 # game/a3s1.rpy:168
 translate Schinese a3s1_bc66b507:
 
-    # c "\"Who?\""
-    c "\"那混蛋？\""
+    # c "“Who?”"
+    c "“那混蛋？”"
 
 # game/a3s1.rpy:169
 translate Schinese a3s1_e3074341:
@@ -759,8 +759,8 @@ translate Schinese a3s1_c14f411f:
 # game/a3s1.rpy:173
 translate Schinese a3s1_2bb86395:
 
-    # b "\"That cat! I swear I shot him twice, too. Then again, he didn't do that weird jerking thing people do when you give 'em the kill shot, so I must've missed the second time. Thought maybe I'd just killed him with the first.\""
-    b "\"那只猫！我发誓朝他开了两枪。不过话说回来，开第二枪的时候确实没见他抽搐来着，大概是射空了，我还以为一枪能结果了他呢。\""
+    # b "“That cat! I swear I shot him twice, too. Then again, he didn't do that weird jerking thing people do when you give 'em the kill shot, so I must've missed the second time. Thought maybe I'd just killed him with the first.”"
+    b "“那只猫！我发誓朝他开了两枪。不过话说回来，开第二枪的时候确实没见他抽搐来着，大概是射空了，我还以为一枪能结果了他呢。”"
 
 # game/a3s1.rpy:175
 translate Schinese a3s1_821bb5c6:
@@ -831,8 +831,8 @@ translate Schinese a3s1_edabfd48:
 # game/a3s1.rpy:189
 translate Schinese a3s1_dd088d51:
 
-    # b "\"Well... Guess that's it, then. Figured it was gettin' close for a while now.\""
-    b "\"嗯...算了，反正也快结束了。\""
+    # b "“Well... Guess that's it, then. Figured it was gettin' close for a while now.”"
+    b "“嗯...算了，反正也快结束了。”"
 
 # game/a3s1.rpy:191
 translate Schinese a3s1_bb5e4a24:
@@ -855,8 +855,8 @@ translate Schinese a3s1_55b3c333:
 # game/a3s1.rpy:195
 translate Schinese a3s1_74b20b86:
 
-    # c "\"Can I see Devon?\""
-    c "\"我能见一见Devon吗？\""
+    # c "“Can I see Devon?”"
+    c "“我能见一见Devon吗？”"
 
 # game/a3s1.rpy:196
 translate Schinese a3s1_8e4397c2:
@@ -897,14 +897,14 @@ translate Schinese a3s1_2bb23d58:
 # game/a3s1.rpy:203
 translate Schinese a3s1_1a364d14:
 
-    # c "\"Where are you taking me?\""
-    c "\"你要带我去哪？\""
+    # c "“Where are you taking me?”"
+    c "“你要带我去哪？”"
 
 # game/a3s1.rpy:205
 translate Schinese a3s1_b0e93109:
 
-    # b "\"You're the psychic. Figure it out.\""
-    b "\"用你的超能力琢磨吧。\""
+    # b "“You're the psychic. Figure it out.”"
+    b "“用你的超能力琢磨吧。”"
 
 # game/a3s1.rpy:209
 translate Schinese a3s1_01bfdb8b:
@@ -963,8 +963,8 @@ translate Schinese a3s1_6f483fd4:
 # game/a3s1.rpy:223
 translate Schinese a3s1_58c6e60a:
 
-    # unk "\"What the FUCK are you doing standing there like a fucking IDIOT on the fucking ROAD!\""
-    unk "\"谁他妈教你像傻逼一样杵在路中间的！\""
+    # unk "“What the FUCK are you doing standing there like a fucking IDIOT on the fucking ROAD!”"
+    unk "“谁他妈教你像傻逼一样杵在路中间的！”"
 
 # game/a3s1.rpy:224
 translate Schinese a3s1_382f37c8:
@@ -987,8 +987,8 @@ translate Schinese a3s1_2c7450c7:
 # game/a3s1.rpy:228
 translate Schinese a3s1_db70208c:
 
-    # unk "\"I told you guys to fuck off! First the fuckin' bar is closed because of some fuckin' cold, and now you're still here to fuck with me? I just wanna cunting drink to cunting relax!\""
-    unk "\"还不快滚！先是酒吧因为流感关了，又遇见你这么个听不懂人话的傻逼？老子不就想喝一杯吗！\""
+    # unk "“I told you guys to fuck off! First the fuckin' bar is closed because of some fuckin' cold, and now you're still here to fuck with me? I just wanna cunting drink to cunting relax!”"
+    unk "“还不快滚！先是酒吧因为流感关了，又遇见你这么个听不懂人话的傻逼？老子不就想喝一杯吗！”"
 
 # game/a3s1.rpy:229
 translate Schinese a3s1_3e2dde01:
@@ -1005,8 +1005,8 @@ translate Schinese a3s1_d3c5e662:
 # game/a3s1.rpy:234
 translate Schinese a3s1_b9e2e6e9:
 
-    # "鼬" "\"What happened to you?\""
-    "鼬" "\"你有病啊？\""
+    # "鼬" "“What happened to you?”"
+    "鼬" "“你有病啊？”"
 
 # game/a3s1.rpy:235
 translate Schinese a3s1_f47422cd:
@@ -1017,20 +1017,20 @@ translate Schinese a3s1_f47422cd:
 # game/a3s1.rpy:237
 translate Schinese a3s1_b467e13d:
 
-    # "鼬" "\"Shit, there's no way! He couldn't be that fucking...\""
-    "鼬" "\"操！不会吧！这小子难道是...\""
+    # "鼬" "“Shit, there's no way! He couldn't be that fucking...”"
+    "鼬" "“操！不会吧！这小子难道是...”"
 
 # game/a3s1.rpy:238
 translate Schinese a3s1_4f6f51c9:
 
-    # "The 鼬 trails off, then looks at Artie's face."
-    "鼬慢慢地不做声了，转而打量起Artie的脸。"
+    # "The weasel trails off, then looks at Artie's face."
+    "鼬渐渐收声，转而打量起Artie的脸。"
 
 # game/a3s1.rpy:239
 translate Schinese a3s1_74e7f641:
 
-    # "鼬" "\"Who did this?\""
-    "鼬" "\"这是谁干的？\""
+    # "鼬" "“Who did this?”"
+    "鼬" "“这是谁干的？”"
 
 # game/a3s1.rpy:240
 translate Schinese a3s1_181508a1:
@@ -1041,8 +1041,8 @@ translate Schinese a3s1_181508a1:
 # game/a3s1.rpy:241
 translate Schinese a3s1_c96a8657:
 
-    # a "\"B-b-b-baaar...\""
-    a "\"B-b-b-baaar...\""
+    # a "“B-b-b-baaar...”"
+    a "“B-b-b-baaar...”"
 
 # game/a3s1.rpy:242
 translate Schinese a3s1_cef366d4:
@@ -1053,20 +1053,20 @@ translate Schinese a3s1_cef366d4:
 # game/a3s1.rpy:244
 translate Schinese a3s1_c7418f38:
 
-    # "鼬" "\"Bar? Yeah, I was at the bar. It's closed.\""
-    "鼬" "\"酒吧？啊，我刚从那回来，那儿已经歇业了。\""
+    # "鼬" "“Bar? Yeah, I was at the bar. It's closed.”"
+    "鼬" "“酒吧？啊，我刚从那回来，那儿已经歇业了。”"
 
 # game/a3s1.rpy:245
 translate Schinese a3s1_bb6d19b1:
 
-    # a "\"B-b-bear.\""
-    a "\"...-熊\""
+    # a "“B-b-bear.”"
+    a "“...-熊”"
 
 # game/a3s1.rpy:247
 translate Schinese a3s1_ff43aad8:
 
-    # "鼬" "\"Bear? Brian?\""
-    "鼬" "\"熊？Brian？\""
+    # "鼬" "“Bear? Brian?”"
+    "鼬" "“熊？Brian？”"
 
 # game/a3s1.rpy:248
 translate Schinese a3s1_36473fc6:
@@ -1077,8 +1077,8 @@ translate Schinese a3s1_36473fc6:
 # game/a3s1.rpy:250
 translate Schinese a3s1_bbffd8a4:
 
-    # "鼬" "\"Damn, you're real fucked up aren't ya?\""
-    "鼬" "\"操，你知不知道你惹上了多大的麻烦？\""
+    # "鼬" "“Damn, you're real fucked up aren't ya?”"
+    "鼬" "“操，你知不知道你惹上了多大的麻烦？”"
 
 # game/a3s1.rpy:251
 translate Schinese a3s1_37a4ea03:
@@ -1107,8 +1107,8 @@ translate Schinese a3s1_36bf12c9:
 # game/a3s1.rpy:256
 translate Schinese a3s1_ec34f452:
 
-    # "鼬" "\"Well, I'll be damned. This is it, then, isn't it? That stupid motherfucker. All right, get in. We're going to the hospital.\""
-    "鼬" "\"见鬼，还是到了这一天么？那个没脑子的瘪三。哎，上车，咱们去医院。\""
+    # "鼬" "“Well, I'll be damned. This is it, then, isn't it? That stupid motherfucker. All right, get in. We're going to the hospital.”"
+    "鼬" "“见鬼，还是到了这一天么？那个没脑子的瘪三。哎，上车，咱们去医院。”"
 
 # game/a3s1.rpy:258
 translate Schinese a3s1_329df802:
@@ -1125,8 +1125,8 @@ translate Schinese a3s1_e2de78f7:
 # game/a3s1.rpy:260
 translate Schinese a3s1_3cf24a30:
 
-    # "鼬" "\"Jesus Christ, this is really makin' me not wanna do what I'm gonna have to do after this.\""
-    "鼬" "\"老天爷啊，虽然饶不过，但至少让我体面点吧。\""
+    # "鼬" "“Jesus Christ, this is really makin' me not wanna do what I'm gonna have to do after this.”"
+    "鼬" "“老天爷啊，虽然饶不过，但至少让我体面点吧。”"
 
 # game/a3s1.rpy:261
 translate Schinese a3s1_d96ed108:
@@ -1137,14 +1137,14 @@ translate Schinese a3s1_d96ed108:
 # game/a3s1.rpy:262
 translate Schinese a3s1_032fca8a:
 
-    # a "\"F-f-f-free end...F-f-friends.\""
-    a "\"朋-朋-朋-朋友...\""
+    # a "“F-f-f-free end...F-f-friends.”"
+    a "“朋-朋-朋-朋友...”"
 
 # game/a3s1.rpy:263
 translate Schinese a3s1_94d101c2:
 
-    # "鼬" "\"Yeah, yeah, I'll call Payton PD... once I drop ya off. Gotta make sure I can beat 'em back, though.\""
-    "鼬" "\"知道了，知道了，我会打给佩顿警察局的...等送你到医院之后。不过，我还得确保怎么糊弄过去。\""
+    # "鼬" "“Yeah, yeah, I'll call Payton PD... once I drop ya off. Gotta make sure I can beat 'em back, though.”"
+    "鼬" "“知道了，知道了，我会打给佩顿警察局的...等送你到医院之后。不过，我还得确保怎么糊弄过去。”"
 
 # game/a3s1.rpy:266
 translate Schinese a3s1_229c1129:
@@ -1191,14 +1191,14 @@ translate Schinese a3s1_52fa9f06:
 # game/a3s1.rpy:276
 translate Schinese a3s1_7b47e375:
 
-    # c "\"Dev?\""
-    c "\"Dev？\""
+    # c "“Dev?”"
+    c "“Dev？”"
 
 # game/a3s1.rpy:277
 translate Schinese a3s1_85de004f:
 
-    # d "\"Nnh, Cam?\""
-    d "\"呃，Cam？\""
+    # d "“Nnh, Cam?”"
+    d "“呃，Cam？”"
 
 # game/a3s1.rpy:278
 translate Schinese a3s1_afe61fc6:
@@ -1239,8 +1239,8 @@ translate Schinese a3s1_89401cfd:
 # game/a3s1.rpy:284
 translate Schinese a3s1_ae240436:
 
-    # c "\"Devon? I'm here. How are you doing?\""
-    c "\"Devon？我来了，你还好吗？\""
+    # c "“Devon? I'm here. How are you doing?”"
+    c "“Devon？我来了，你还好吗？”"
 
 # game/a3s1.rpy:285
 translate Schinese a3s1_10511a7e:
@@ -1251,56 +1251,56 @@ translate Schinese a3s1_10511a7e:
 # game/a3s1.rpy:286
 translate Schinese a3s1_caa689a3:
 
-    # d "\"Cameron? Whu-Whas it?\""
-    d "\"Cameron？怎-怎么了？\""
+    # d "“Cameron? Whu-Whas it?”"
+    d "“Cameron？怎-怎么了？”"
 
 # game/a3s1.rpy:287
 translate Schinese a3s1_f901d549:
 
-    # b "\"I told you, he's drugged up.\""
-    b "\"我不是告诉你了吗，他被我下了药。\""
+    # b "“I told you, he's drugged up.”"
+    b "“我不是告诉你了吗，他被我下了药。”"
 
 # game/a3s1.rpy:288
 translate Schinese a3s1_df9156ca:
 
-    # c "\"But he can barely talk.\""
-    c "\"可他连说话都勉强。\""
+    # c "“But he can barely talk.”"
+    c "“可他连说话都勉强。”"
 
 # game/a3s1.rpy:289
 translate Schinese a3s1_1cbcbaf2:
 
-    # d "\"Cam?\""
-    d "\"Cam？\""
+    # d "“Cam?”"
+    d "“Cam？”"
 
 # game/a3s1.rpy:290
 translate Schinese a3s1_822d58c8:
 
-    # b "\"Exactly, I already told you I roofied him. It's like blacking out. Anyway, it's wearing off. He's just tired.\""
-    b "\"当然了，被药得像断了片一样。总之，药效应该减退了，他只是没有养足精神。\""
+    # b "“Exactly, I already told you I roofied him. It's like blacking out. Anyway, it's wearing off. He's just tired.”"
+    b "“当然了，被药得像断了片一样。总之，药效应该减退了，他只是没有养足精神。”"
 
 # game/a3s1.rpy:291
 translate Schinese a3s1_d0a4f31b:
 
-    # c "\"Is that blood? Why is he bleeding!?\""
-    c "\"血？他为什么在流血？！\""
+    # c "“Is that blood? Why is he bleeding!?”"
+    c "“血？他为什么在流血？！”"
 
 # game/a3s1.rpy:292
 translate Schinese a3s1_f0fef879:
 
-    # b "\"Did it to himself. Imagine what a mess we'd have if he wasn't drugged, right? Never trust a bear to stay put when you chain 'em up.\""
-    b "\"那是他自找的。看吧，要是没有下药，咱们可就有大麻烦了，不是吗？千万别指望你能把一头熊老老实实拴起来。\""
+    # b "“Did it to himself. Imagine what a mess we'd have if he wasn't drugged, right? Never trust a bear to stay put when you chain 'em up.”"
+    b "“那是他自找的。看吧，要是没有下药，咱们可就有大麻烦了，不是吗？千万别指望你能把一头熊老老实实拴起来。”"
 
 # game/a3s1.rpy:293
 translate Schinese a3s1_e1e5b4aa:
 
-    # c "\"Devon, can you hear me? Are you okay?\""
-    c "\"听得到我说话吗，Devon？你还好吗？\""
+    # c "“Devon, can you hear me? Are you okay?”"
+    c "“听得到我说话吗，Devon？你还好吗？”"
 
 # game/a3s1.rpy:294
 translate Schinese a3s1_864eb30f:
 
-    # d "\"Yeah, yes...\""
-    d "\"嗯，好...\""
+    # d "“Yeah, yes...”"
+    d "“嗯，好...”"
 
 # game/a3s1.rpy:296
 translate Schinese a3s1_0712d9d4:
@@ -1323,14 +1323,14 @@ translate Schinese a3s1_adf3975c:
 # game/a3s1.rpy:301
 translate Schinese a3s1_daf32fe1:
 
-    # b "\"Looks like it's wearing off just in time.\""
-    b "\"看来药效过去得正是时候。\""
+    # b "“Looks like it's wearing off just in time.”"
+    b "“看来药效过去得正是时候。”"
 
 # game/a3s1.rpy:302
 translate Schinese a3s1_f7d57235:
 
-    # c "\"Can I go to him... please?\""
-    c "\"我能去他那里吗...求你了？\""
+    # c "“Can I go to him... please?”"
+    c "“我能去他那里吗...求你了？”"
 
 # game/a3s1.rpy:303
 translate Schinese a3s1_2f5d256d:
@@ -1371,8 +1371,8 @@ translate Schinese a3s1_c33cb03e:
 # game/a3s1.rpy:309
 translate Schinese a3s1_3bfde064:
 
-    # b "\"Of course. Fuckin' typical. I'm glad I saved this.\""
-    b "\"当然可以，贱人，老子还省事了呢。\""
+    # b "“Of course. Fuckin' typical. I'm glad I saved this.”"
+    b "“当然可以，贱人，老子还省事了呢。”"
 
 # game/a3s1.rpy:310
 translate Schinese a3s1_a754be81:
@@ -1413,8 +1413,8 @@ translate Schinese a3s1_e46805fd:
 # game/a3s1.rpy:318
 translate Schinese a3s1_c58d548f:
 
-    # d "\"Hey!\""
-    d "\"嘿！\""
+    # d "“Hey!”"
+    d "“嘿！”"
 
 # game/a3s1.rpy:319
 translate Schinese a3s1_e3199ab0:
@@ -1455,8 +1455,8 @@ translate Schinese a3s1_b9600c3e:
 # game/a3s1.rpy:328
 translate Schinese a3s1_3a1442c1:
 
-    # d "\"HEEEEEY!\""
-    d "\"{b}啊————！{/b}\""
+    # d "“HEEEEEY!”"
+    d "“{b}啊————！{/b}”"
 
 # game/a3s1.rpy:329
 translate Schinese a3s1_622c7e1a:
@@ -1467,8 +1467,8 @@ translate Schinese a3s1_622c7e1a:
 # game/a3s1.rpy:331
 translate Schinese a3s1_b6b9e443:
 
-    # d "\"Cam? CAM!\""
-    d "\"Cam？{b}CAM！{/b}\""
+    # d "“Cam? CAM!”"
+    d "“Cam？{b}CAM！{/b}”"
 
 # game/a3s1.rpy:332
 translate Schinese a3s1_d320ea9b:
@@ -1503,8 +1503,8 @@ translate Schinese a3s1_95f18904:
 # game/a3s1.rpy:337
 translate Schinese a3s1_b2ccfc32:
 
-    # d "\"Cammy, baby, can you hear me?\""
-    d "\"Cammy，亲爱的，你能听到吗？\""
+    # d "“Cammy, baby, can you hear me?”"
+    d "“Cammy，亲爱的，你能听到吗？”"
 
 # game/a3s1.rpy:338
 translate Schinese a3s1_996492ab:
@@ -1515,8 +1515,8 @@ translate Schinese a3s1_996492ab:
 # game/a3s1.rpy:339
 translate Schinese a3s1_8a210dc4:
 
-    # b "\"Whoops, took out a bit more on him then I meant to, heh. Fuck, that hurt!\""
-    b "\"喔哦，好像太用力了，还真他娘的疼！\""
+    # b "“Whoops, took out a bit more on him then I meant to, heh. Fuck, that hurt!”"
+    b "“喔哦，好像太用力了，还真他娘的疼！”"
 
 # game/a3s1.rpy:340
 translate Schinese a3s1_65301c4a:
@@ -1533,8 +1533,8 @@ translate Schinese a3s1_28267857:
 # game/a3s1.rpy:343
 translate Schinese a3s1_056e9a93:
 
-    # d "\"BRIAN! I will fucking kill you!\""
-    d "\"我要宰了你！{b}BRIAN！{/b}\""
+    # d "“BRIAN! I will fucking kill you!”"
+    d "“我要宰了你！{b}BRIAN！{/b}”"
 
 # game/a3s1.rpy:344
 translate Schinese a3s1_64d70c73:
@@ -1551,8 +1551,8 @@ translate Schinese a3s1_4f16779b:
 # game/a3s1.rpy:346
 translate Schinese a3s1_6038d84c:
 
-    # d "\"I'll knock every tooth out of your fucking head! I'll tear your throat out, I'll-- I'll...\""
-    d "\"我要把你打到一颗牙都不剩！我要撕碎你的喉咙，我要-我要...\""
+    # d "“I'll knock every tooth out of your fucking head! I'll tear your throat out, I'll-- I'll...”"
+    d "“我要把你打到一颗牙都不剩！我要撕碎你的喉咙，我要-我要...”"
 
 # game/a3s1.rpy:347
 translate Schinese a3s1_7dfa2b5f:
@@ -1569,8 +1569,8 @@ translate Schinese a3s1_0013e04b:
 # game/a3s1.rpy:351
 translate Schinese a3s1_77012e55:
 
-    # d "\"Cameron, honey, you can hear me, right? Cameron?\""
-    d "\"Cameron，亲爱的，你能听到我说话，对吧？Cameron？\""
+    # d "“Cameron, honey, you can hear me, right? Cameron?”"
+    d "“Cameron，亲爱的，你能听到我说话，对吧？Cameron？”"
 
 # game/a3s1.rpy:352
 translate Schinese a3s1_3a898624:
@@ -1593,14 +1593,14 @@ translate Schinese a3s1_d95014bb:
 # game/a3s1.rpy:355
 translate Schinese a3s1_edf21c14:
 
-    # d "\"Cam!\""
-    d "\"Cam！\""
+    # d "“Cam!”"
+    d "“Cam！”"
 
 # game/a3s1.rpy:356
 translate Schinese a3s1_395a5fef:
 
-    # c "\"... Devon?\""
-    c "\"...Devon？\""
+    # c "“... Devon?”"
+    c "“...Devon？”"
 
 # game/a3s1.rpy:358
 translate Schinese a3s1_02ee7593:
@@ -1612,19 +1612,19 @@ translate Schinese a3s1_02ee7593:
 translate Schinese a3s1_a1399e3d:
 
     # "Brian already looks bored at the catastrophe he just created, and now he keeps looking over his shoulder into the darkness that stretches behind him, shifting impatiently."
-    "Brian则已经看腻这场戏了，他回首望向无边无际的黑暗，身体不耐烦地摇晃着。"
+    "Brian似乎已经看腻这场戏了，他回首望向无边无际的黑暗，身体不耐烦地摇晃着。"
 
 # game/a3s1.rpy:360
 translate Schinese a3s1_89c1cad1:
 
-    # b "\"Alright, make it quick, yote. We need to get movin'.\""
-    b "\"行了行了，该干活了，狼崽子。\""
+    # b "“Alright, make it quick, yote. We need to get movin'.”"
+    b "“行了，该干活了，狼崽子。”"
 
 # game/a3s1.rpy:362
 translate Schinese a3s1_ac0ab068:
 
-    # d "\"Don't you touch him! You could have broken his fucking neck!\""
-    d "\"你敢碰他试试！你这个混蛋差点扭断他的脖子！\""
+    # d "“Don't you touch him! You could have broken his fucking neck!”"
+    d "“你敢碰他试试，混蛋！你差点扭断他的脖子！”"
 
 # game/a3s1.rpy:363
 translate Schinese a3s1_ffb214e5:
@@ -1636,13 +1636,13 @@ translate Schinese a3s1_ffb214e5:
 translate Schinese a3s1_245e0b91:
 
     # "Brian bristles, finally reacting, but Devon turns his attention back to Cameron, continuing to try and gently coax him into a state of consciousness."
-    "Brian终于被激怒了，但Devon又把注意力集中在Cameron身上，用温柔的话语哄他恢复意识。"
+    "Brian终于被激怒了，但Devon把注意力重新集中在Cameron身上，用温柔的话语哄他恢复意识。"
 
 # game/a3s1.rpy:366
 translate Schinese a3s1_48d58416:
 
-    # d "\"Come on, baby, can you hear me? Can you understand what I'm saying?\""
-    d "\"醒醒，亲爱的，你听得到吗？能理解我的话吗？\""
+    # d "“Come on, baby, can you hear me? Can you understand what I'm saying?”"
+    d "“醒醒，亲爱的，你听得到吗？能理解我的话吗？”"
 
 # game/a3s1.rpy:368
 translate Schinese a3s1_e5693074:
@@ -1653,8 +1653,8 @@ translate Schinese a3s1_e5693074:
 # game/a3s1.rpy:369
 translate Schinese a3s1_4a71d290:
 
-    # c "\"I'm okay. I'm fine.\""
-    c "\"我没、没事。\""
+    # c "“I'm okay. I'm fine.”"
+    c "“我没、没事。”"
 
 # game/a3s1.rpy:370
 translate Schinese a3s1_50d21259:
@@ -1665,26 +1665,26 @@ translate Schinese a3s1_50d21259:
 # game/a3s1.rpy:371
 translate Schinese a3s1_897927f8:
 
-    # d "\"No! Stay still.\""
-    d "\"不！不要动。\""
+    # d "“No! Stay still.”"
+    d "“别！别动。”"
 
 # game/a3s1.rpy:372
 translate Schinese a3s1_bcc5d943:
 
-    # b "\"No, get up. Didn't I tell you what I'd do to your bear if you don't--\""
-    b "\"别磨磨蹭蹭的。再不起来，我就要对你熊不客气-\""
+    # b "“No, get up. Didn't I tell you what I'd do to your bear if you don't--”"
+    b "“有够磨蹭的。再不起来，我可要对你的熊不客气-”"
 
 # game/a3s1.rpy:373
 translate Schinese a3s1_3eaa283a:
 
-    # d "\"Then do it! Come over here and do it, you fucking coward! You fucking scum--\""
-    d "\"来啊！冲我来，你这个该死的懦夫！卑鄙的人渣-\""
+    # d "“Then do it! Come over here and do it, you fucking coward! You fucking scum--”"
+    d "“来啊！冲我来，你这个该死的懦夫！卑鄙的人渣-”"
 
 # game/a3s1.rpy:374
 translate Schinese a3s1_e469e249:
 
-    # c "\"Devon.\""
-    c "\"Devon。\""
+    # c "“Devon.”"
+    c "“Devon。”"
 
 # game/a3s1.rpy:375
 translate Schinese a3s1_205a86d3:
@@ -1701,8 +1701,8 @@ translate Schinese a3s1_a416316f:
 # game/a3s1.rpy:377
 translate Schinese a3s1_2f833f71:
 
-    # c "\"Who's feeling this right now?\""
-    c "\"是谁在经历这一切？\""
+    # c "“Who's feeling this right now?”"
+    c "“是谁在经历这一切？”"
 
 # game/a3s1.rpy:378
 translate Schinese a3s1_bbcc4e4d:
@@ -1713,14 +1713,14 @@ translate Schinese a3s1_bbcc4e4d:
 # game/a3s1.rpy:379
 translate Schinese a3s1_1b70d2b0:
 
-    # d "\"What?\""
-    d "\"什么？\""
+    # d "“What?”"
+    d "“什么？”"
 
 # game/a3s1.rpy:380
 translate Schinese a3s1_049c9119:
 
-    # c "\"The mines, that's right. I'm going to the mines, and I'm coming back for you.\""
-    c "\"矿井，没错，我要去矿井。别担心，我会回来找你的。\""
+    # c "“The mines, that's right. I'm going to the mines, and I'm coming back for you.”"
+    c "“矿井，没错，我要去矿井。别担心，我会回来找你的。”"
 
 # game/a3s1.rpy:381
 translate Schinese a3s1_0d8f9c07:
@@ -1731,8 +1731,8 @@ translate Schinese a3s1_0d8f9c07:
 # game/a3s1.rpy:382
 translate Schinese a3s1_7bab3039:
 
-    # d "\"What? What mines? Stay here.\""
-    d "\"什、什么矿井？不要离开我。\""
+    # d "“What? What mines? Stay here.”"
+    d "“什、什么矿井？不要离开我。”"
 
 # game/a3s1.rpy:383
 translate Schinese a3s1_9a73a48b:
@@ -1797,14 +1797,14 @@ translate Schinese a3s1_4b821da5:
 # game/a3s1.rpy:393
 translate Schinese a3s1_982b64da:
 
-    # c "\"We're gonna go back home together. I promise.\""
-    c "\"我们会一起回家，我发誓。\""
+    # c "“We're gonna go back home together. I promise.”"
+    c "“我们会一起回家，我发誓。”"
 
 # game/a3s1.rpy:394
 translate Schinese a3s1_2dfae531:
 
-    # d "\"But where are you going? Why the mines? Honey, please?\""
-    d "\"可你要去哪？为什么是矿井？求求你告诉我，亲爱的？\""
+    # d "“But where are you going? Why the mines? Honey, please?”"
+    d "“可你要去哪？为什么是矿井？求求你告诉我，亲爱的？”"
 
 # game/a3s1.rpy:396
 translate Schinese a3s1_4876314b:
@@ -1821,8 +1821,8 @@ translate Schinese a3s1_d44700b4:
 # game/a3s1.rpy:398
 translate Schinese a3s1_0a6dc7b0:
 
-    # b "\"Eh, you're fine.\""
-    b "\"喔，挺好。\""
+    # b "“Eh, you're fine.”"
+    b "“喔，挺好。”"
 
 # game/a3s1.rpy:399
 translate Schinese a3s1_d7554cbe:
@@ -1833,8 +1833,8 @@ translate Schinese a3s1_d7554cbe:
 # game/a3s1.rpy:400
 translate Schinese a3s1_5be1dc2a:
 
-    # b "\"Sit tight, kid. We'll be back in a little while. I promise.\""
-    b "\"老实待着，小子。我们一会儿就回来，真的。\""
+    # b "“Sit tight, kid. We'll be back in a little while. I promise.”"
+    b "“老实待着，小子。我们一会儿就回来，真的。”"
 
 # game/a3s1.rpy:404
 translate Schinese a3s1_dd3f4a6a:
@@ -1899,8 +1899,8 @@ translate Schinese a3s1_81286b32:
 # game/a3s1.rpy:418
 translate Schinese a3s1_2b9f1415:
 
-    # c "\"I am. I'm in the darkness.\""
-    c "\"是我。\""
+    # c "“I am. I'm in the darkness.”"
+    c "“是我。”"
 
 # game/a3s1.rpy:419
 translate Schinese a3s1_f9d3e4f1:
@@ -1911,14 +1911,14 @@ translate Schinese a3s1_f9d3e4f1:
 # game/a3s1.rpy:421
 translate Schinese a3s1_ba16e7be:
 
-    # c "\"No, just me.\""
-    c "\"不，只有我。\""
+    # c "“No, just me.”"
+    c "“不，只有我。”"
 
 # game/a3s1.rpy:424
 translate Schinese a3s1_9fa4e20e:
 
-    # b "\"Stop fighting it. It'll only make it worse.\""
-    b "\"别跟它吵，不然只会更糟。\""
+    # b "“Stop fighting it. It'll only make it worse.”"
+    b "“别跟它吵，不然只会更糟。”"
 
 # game/a3s1.rpy:425
 translate Schinese a3s1_b61bd8d7:
@@ -1929,8 +1929,8 @@ translate Schinese a3s1_b61bd8d7:
 # game/a3s1.rpy:426
 translate Schinese a3s1_65be7c9b:
 
-    # c "\"Where am I?\""
-    c "\"我在哪？\""
+    # c "“Where am I?”"
+    c "“我在哪？”"
 
 # game/a3s1.rpy:428
 translate Schinese a3s1_31a6344d:
@@ -1941,14 +1941,14 @@ translate Schinese a3s1_31a6344d:
 # game/a3s1.rpy:429
 translate Schinese a3s1_abbec899:
 
-    # b "\"Doesn't matter.\""
-    b "\"这不重要。\""
+    # b "“Doesn't matter.”"
+    b "“这不重要。”"
 
 # game/a3s1.rpy:430
 translate Schinese a3s1_570c7e81:
 
-    # c "\"But--\""
-    c "\"可是-\""
+    # c "“But--”"
+    c "“可是-”"
 
 # game/a3s1.rpy:434
 translate Schinese a3s1_fb6434f7:
@@ -1989,20 +1989,20 @@ translate Schinese a3s1_2f1c0570:
 # game/a3s1.rpy:441
 translate Schinese a3s1_cd8de613:
 
-    # dy "\"Don't snort it. You're trying to coat your nasal cavity, not your fucking lungs.\""
-    dy "\"拜托，是覆盖到鼻腔上，不是让你吸进肺里面。\""
+    # dy "“Don't snort it. You're trying to coat your nasal cavity, not your fucking lungs.”"
+    dy "“拜托，是覆盖到鼻腔上，不是让你吸进肺里面。”"
 
 # game/a3s1.rpy:443
 translate Schinese a3s1_082dba4a:
 
-    # c "\"That's how my friends did it.\""
-    c "\"我朋友就是这么吸的。\""
+    # c "“That's how my friends did it.”"
+    c "“我朋友就是这么吸的。”"
 
 # game/a3s1.rpy:444
 translate Schinese a3s1_1b95d772:
 
-    # dy "\"Then your friends are fucking idiots.\""
-    dy "\"那你的朋友就是个傻逼。\""
+    # dy "“Then your friends are fucking idiots.”"
+    dy "“那你的朋友就是个傻逼。”"
 
 # game/a3s1.rpy:445
 translate Schinese a3s1_127ccbea:
@@ -2013,8 +2013,8 @@ translate Schinese a3s1_127ccbea:
 # game/a3s1.rpy:447
 translate Schinese a3s1_14d6c37b:
 
-    # b "\"Who you talkin' to?\""
-    b "\"你在和谁说话？\""
+    # b "“Who you talkin' to?”"
+    b "“你在和谁说话？”"
 
 # game/a3s1.rpy:448
 translate Schinese a3s1_bd4e0376:
@@ -2031,14 +2031,14 @@ translate Schinese a3s1_dfc0cc34:
 # game/a3s1.rpy:451
 translate Schinese a3s1_968f091c:
 
-    # c "\"Um, his name's Dylan. He's my ex. Sorry, we don't get along well.\""
-    c "\"抱歉，他叫Dylan，是我的前男友，我们相处得不是很好。\""
+    # c "“Um, his name's Dylan. He's my ex. Sorry, we don't get along well.”"
+    c "“抱歉，他叫Dylan，是我的前男友，我们相处得不是很好。”"
 
 # game/a3s1.rpy:453
 translate Schinese a3s1_c11aff13:
 
-    # b "\"You gettin' some third man syndrome? Whenever I get real fucked up on too many drugs for too long, a person always shows up. I end up having conversation with 'em and everything.\""
-    b "\"你还得了那什么第三人综合征？我嗑药嗑太久的话也会出现个家伙，跟我谈啊、谈啊。\""
+    # b "“You gettin' some third man syndrome? Whenever I get real fucked up on too many drugs for too long, a person always shows up. I end up having conversation with 'em and everything.”"
+    b "“你还得了那什么第三人综合征？我嗑药嗑太久的话也会出现个家伙，跟我谈啊、谈啊。”"
 
 # game/a3s1.rpy:454
 translate Schinese a3s1_98362d91:
@@ -2049,14 +2049,14 @@ translate Schinese a3s1_98362d91:
 # game/a3s1.rpy:456
 translate Schinese a3s1_5f875adb:
 
-    # b "\"I hear it happens to people in survival situations, too. Anyway, I'm always too delirious to remember who the third man is.\""
-    b "\"听说也发生在一些求生意志强烈的人身上。反正我每次都吸嗨，哪记得谁是谁。\""
+    # b "“I hear it happens to people in survival situations, too. Anyway, I'm always too delirious to remember who the third man is.”"
+    b "“听说也发生在一些求生意志强烈的人身上。反正我每次都吸嗨，哪记得谁是谁。”"
 
 # game/a3s1.rpy:458
 translate Schinese a3s1_85118972:
 
-    # c "\"Yeah...\""
-    c "\"嗯...\""
+    # c "“Yeah...”"
+    c "“嗯...”"
 
 # game/a3s1.rpy:459
 translate Schinese a3s1_069420e9:
@@ -2073,14 +2073,14 @@ translate Schinese a3s1_0bf7fcf0:
 # game/a3s1.rpy:462
 translate Schinese a3s1_4370c406:
 
-    # b "\"Alright, here's the deal: I'll stop hitting you as long as you're smiling, got it?\""
-    b "\"好了，那么这样吧：只要你笑，我就不打你，明白吗？\""
+    # b "“Alright, here's the deal: I'll stop hitting you as long as you're smiling, got it?”"
+    b "“好了，那么这样吧：只要你笑，我就不打你，明白吗？”"
 
 # game/a3s1.rpy:464
 translate Schinese a3s1_f62c423b:
 
-    # c "\"Huh?\""
-    c "\"诶？\""
+    # c "“Huh?”"
+    c "“诶？”"
 
 # game/a3s1.rpy:466
 translate Schinese a3s1_41bcd701:
@@ -2097,14 +2097,14 @@ translate Schinese a3s1_2568368a:
 # game/a3s1.rpy:470
 translate Schinese a3s1_8d37bdb6:
 
-    # c "\"Oh! Sorry, I didn't realize what you were talking about for a second. I remember now!\""
-    c "\"哦！抱歉，我刚才没听明白，现在我知道了!\""
+    # c "“Oh! Sorry, I didn't realize what you were talking about for a second. I remember now!”"
+    c "“哦！抱歉，我刚才没听明白，现在我知道了!”"
 
 # game/a3s1.rpy:472
 translate Schinese a3s1_63ab3218:
 
-    # b "\"Sure you do. Pathetic faggot.\""
-    b "\"你当然知道，可怜的小废物。\""
+    # b "“Sure you do. Pathetic faggot.”"
+    b "“你当然知道，可怜的小废物。”"
 
 # game/a3s1.rpy:474
 translate Schinese a3s1_3c251143:
@@ -2133,8 +2133,8 @@ translate Schinese a3s1_86c78d0b:
 # game/a3s1.rpy:479
 translate Schinese a3s1_7559ffca:
 
-    # b "\"Guess I did bust your chops pretty good, huh? Hmm--\""
-    b "\"看来你学到教训了哈？嗯-\""
+    # b "“Guess I did bust your chops pretty good, huh? Hmm--”"
+    b "“看来你学到教训了哈？嗯-”"
 
 # game/a3s1.rpy:483
 translate Schinese a3s1_ccb16d26:
@@ -2145,20 +2145,20 @@ translate Schinese a3s1_ccb16d26:
 # game/a3s1.rpy:484
 translate Schinese a3s1_6fc5b9b8:
 
-    # c "\"Wait, please don't--Ah!\""
-    c "\"等等，请不要——啊！\""
+    # c "“Wait, please don't--Ah!”"
+    c "“等等，请不要——啊！”"
 
 # game/a3s1.rpy:486
 translate Schinese a3s1_7fb0f2bf:
 
-    # b "\"Yep, broke your tooth, too. Swellin' up a bit, but you're cuter with your face all messed up like that. Too bad it's gonna look real ugly by tomorrow morning, not that it'll matter.\""
-    b "\"嗯，牙断了，嘴也有点肿，不过这样反而更可爱了。可惜到了明早就会很难看，不过也无所谓。\""
+    # b "“Yep, broke your tooth, too. Swellin' up a bit, but you're cuter with your face all messed up like that. Too bad it's gonna look real ugly by tomorrow morning, not that it'll matter.”"
+    b "“嗯，牙断了，嘴也有点肿，不过这样反而更可爱了。可惜到了明早就会很难看，不过也无所谓。”"
 
 # game/a3s1.rpy:487
 translate Schinese a3s1_d30fba4d:
 
-    # dy "\"It's just hard to look at you now, with that stupid scar.\""
-    dy "\"看着那道愚蠢的伤疤，真是不堪入目。\""
+    # dy "“It's just hard to look at you now, with that stupid scar.”"
+    dy "“看着那道愚蠢的伤疤，真是不堪入目。”"
 
 # game/a3s1.rpy:488
 translate Schinese a3s1_87d925b8:
@@ -2169,14 +2169,14 @@ translate Schinese a3s1_87d925b8:
 # game/a3s1.rpy:490
 translate Schinese a3s1_3302a4bd:
 
-    # b "\"You from Bridgetown? Timber city? Or did you just pick that up at the Goodwill?\""
-    b "\"你是布里奇顿人？那个伐木城市？还是说这衣服是你从二手店里淘来的？\""
+    # b "“You from Bridgetown? Timber city? Or did you just pick that up at the Goodwill?”"
+    b "“你是布里奇顿人？那个伐木城市？还是说这衣服是你从二手店里淘来的？”"
 
 # game/a3s1.rpy:491
 translate Schinese a3s1_f7bbf573:
 
-    # b "\"I always say, when you're shoppin' at the Goodwill, NEVER pick up clothes that have anything to do with a place. Fuck, just a few years back, I took a Weston sweatshirt from the Salvation Army and--\""
-    b "\"我得说，{b}千万别{/b}买跟地区挂钩的衣服。他娘的，几年前，我从救世军那儿弄了件韦斯顿的运动衫，后来-\""
+    # b "“I always say, when you're shoppin' at the Goodwill, NEVER pick up clothes that have anything to do with a place. Fuck, just a few years back, I took a Weston sweatshirt from the Salvation Army and--”"
+    b "“我得说，{b}千万别{/b}买跟地区挂钩的衣服。他娘的，几年前，我从救世军那儿弄了件韦斯顿的运动衫，后来-”"
 
 # game/a3s1.rpy:493
 translate Schinese a3s1_c9c8091b:
@@ -2199,8 +2199,8 @@ translate Schinese a3s1_a9423c45:
 # game/a3s1.rpy:496
 translate Schinese a3s1_3108b1fa:
 
-    # b "\"--Anyway, I hear that city's overrun with Antifa and all that. A true liberal hellscape if there ever was one.\""
-    b "\"-总之，听说那里到处都是反法西斯，要我说，就是个放肆的人间地狱呐。\""
+    # b "“--Anyway, I hear that city's overrun with Antifa and all that. A true liberal hellscape if there ever was one.”"
+    b "“-总之，听说那里到处都是反法西斯，要我说，就是个放肆的人间地狱呐。”"
 
 # game/a3s1.rpy:497
 translate Schinese a3s1_719dc131:
@@ -2217,8 +2217,8 @@ translate Schinese a3s1_d0b2139b:
 # game/a3s1.rpy:500
 translate Schinese a3s1_b181bf66:
 
-    # c "\"It's... It's okay. A lot of the time it's outside groups coming into the city making trouble.\""
-    c "\"还...还好吧，闹事的大多是外部群体。\""
+    # c "“It's... It's okay. A lot of the time it's outside groups coming into the city making trouble.”"
+    c "“还...还好吧，闹事的大多是外部群体。”"
 
 # game/a3s1.rpy:501
 translate Schinese a3s1_c9ecad03:
@@ -2439,38 +2439,38 @@ translate Schinese a3s1_bae14f95:
 # game/a3s1.rpy:542
 translate Schinese a3s1_65715aec:
 
-    # c "\"--I would've majored in business administration, or something.\""
-    c "\"-我真该主修工商管理的。\""
+    # c "“--I would've majored in business administration, or something.”"
+    c "“-我真该主修工商管理的。”"
 
 # game/a3s1.rpy:544
 translate Schinese a3s1_de8a17f1:
 
-    # b "\"What did you major in?\""
-    b "\"那你修了个啥？\""
+    # b "“What did you major in?”"
+    b "“那你修了个啥？”"
 
 # game/a3s1.rpy:546
 translate Schinese a3s1_748a200d:
 
-    # "\"{i}Smile{/i}.\""
-    "\"{b}微笑{/b}。\""
+    # "“{i}Smile{/i}.”"
+    "“{b}微笑{/b}。”"
 
 # game/a3s1.rpy:548
 translate Schinese a3s1_fea54e77:
 
-    # c "\"Uh, music theory.\""
-    c "\"乐理。\""
+    # c "“Uh, music theory.”"
+    c "“乐理。”"
 
 # game/a3s1.rpy:550
 translate Schinese a3s1_171d5c48:
 
-    # b "\"And what the hell are you supposed to do with that?\""
-    b "\"所以你学那玩意儿想干啥？\""
+    # b "“And what the hell are you supposed to do with that?”"
+    b "“所以你学那玩意儿想干啥？”"
 
 # game/a3s1.rpy:552
 translate Schinese a3s1_6b888775:
 
-    # c "\"Teach.\""
-    c "\"授课。\""
+    # c "“Teach.”"
+    c "“授课。”"
 
 # game/a3s1.rpy:553
 translate Schinese a3s1_81dfe0a4:
@@ -2481,38 +2481,38 @@ translate Schinese a3s1_81dfe0a4:
 # game/a3s1.rpy:554
 translate Schinese a3s1_72f310af:
 
-    # b "\"You a teacher?\""
-    b "\"你是老师？\""
+    # b "“You a teacher?”"
+    b "“你是老师？”"
 
 # game/a3s1.rpy:556
 translate Schinese a3s1_880cbf9d:
 
-    # c "\"No, but that was my plan.\""
-    c "\"不，这只是我的打算。\""
+    # c "“No, but that was my plan.”"
+    c "“不，这只是我的打算。”"
 
 # game/a3s1.rpy:558
 translate Schinese a3s1_524b497f:
 
-    # b "\"Some plan.\""
-    b "\"奇怪的打算。\""
+    # b "“Some plan.”"
+    b "“奇怪的打算。”"
 
 # game/a3s1.rpy:560
 translate Schinese a3s1_504516f3:
 
-    # c "\"I mean, I didn't go into any debt, so I had financial freedom after I graduated.\""
-    c "\"毕竟我没有负债，所以毕业后就财务自由了。\""
+    # c "“I mean, I didn't go into any debt, so I had financial freedom after I graduated.”"
+    c "“毕竟我没有负债，所以毕业后就财务自由了。”"
 
 # game/a3s1.rpy:562
 translate Schinese a3s1_6c8bdee0:
 
-    # b "\"You know, you're pretty coherent for someone that's on that many shrooms. Most people would lose their minds.\""
-    b "\"你吃了那么多蘑菇，说起话来倒挺利索的，真稀罕。\""
+    # b "“You know, you're pretty coherent for someone that's on that many shrooms. Most people would lose their minds.”"
+    b "“你吃了那么多蘑菇，说起话来倒挺利索的，真稀罕。”"
 
 # game/a3s1.rpy:564
 translate Schinese a3s1_4c788726:
 
-    # c "Oh, I am, I definitely am, it's... I don't know. I have more control than I did the first time I tried it.\""
-    c "\"是、是啊，具体我也不清楚...但相比起第一次，这次我更能保持理智。\""
+    # c "Oh, I am, I definitely am, it's... I don't know. I have more control than I did the first time I tried it.”"
+    c "“是、是啊，具体我也不清楚...但相比起第一次，这次我更能保持理智。”"
 
 # game/a3s1.rpy:565
 translate Schinese a3s1_0ab71388:
@@ -2523,8 +2523,8 @@ translate Schinese a3s1_0ab71388:
 # game/a3s1.rpy:567
 translate Schinese a3s1_a899c747:
 
-    # b "\"Xanax is like magic when you're panicking. Anyway, what is it that you do for a living, did it all pay off?\""
-    b "\"阿普唑仑在镇定方面的确有奇效。总之，你是靠什么赚钱的？全薪吗？\""
+    # b "“Xanax is like magic when you're panicking. Anyway, what is it that you do for a living, did it all pay off?”"
+    b "“阿普唑仑在镇定方面的确有奇效。总之，你是靠什么赚钱的？全薪吗？”"
 
 # game/a3s1.rpy:568
 translate Schinese a3s1_b5ea7bde:
@@ -2535,14 +2535,14 @@ translate Schinese a3s1_b5ea7bde:
 # game/a3s1.rpy:570
 translate Schinese a3s1_30b4c2a0:
 
-    # c "\"Um... Customer support... For Hulian.\""
-    c "\"呃...电话客服...在一间叫互联的公司。\""
+    # c "“Um... Customer support... For Hulian.”"
+    c "“呃...电话客服...在一间叫互联的公司。”"
 
 # game/a3s1.rpy:572
 translate Schinese a3s1_0f7c45b2:
 
-    # b "\"Sad, workin' for a country that we nuked twice. Back in the 80s, we used to beat people up for working for companies like that.\""
-    b "\"可悲，为一个被咱们核过两次的国家效力。放80年代，你这种人可是要被揍的。\""
+    # b "“Sad, workin' for a country that we nuked twice. Back in the 80s, we used to beat people up for working for companies like that.”"
+    b "“可悲，为一个被咱们核过两次的国家效力。放80年代，你这种人可是要被揍的。”"
 
 # game/a3s1.rpy:574
 translate Schinese a3s1_cc840b02:
@@ -2553,8 +2553,8 @@ translate Schinese a3s1_cc840b02:
 # game/a3s1.rpy:576
 translate Schinese a3s1_258f668d:
 
-    # c "\"Oh... Okay.\""
-    c "\"哦...好吧。\""
+    # c "“Oh... Okay.”"
+    c "“哦...好吧。”"
 
 # game/a3s1.rpy:577
 translate Schinese a3s1_39867d94:
@@ -2577,8 +2577,8 @@ translate Schinese a3s1_56c67999:
 # game/a3s1.rpy:581
 translate Schinese a3s1_40c8df1e:
 
-    # b "\"So why music? You sing?\""
-    b "\"所以为啥是音乐？你会唱歌？\""
+    # b "“So why music? You sing?”"
+    b "“所以为啥是音乐？你会唱歌？”"
 
 # game/a3s1.rpy:582
 translate Schinese a3s1_b9c36f2b:
@@ -2595,26 +2595,26 @@ translate Schinese a3s1_b5d5e3be:
 # game/a3s1.rpy:584
 translate Schinese a3s1_61821e2a:
 
-    # c "\"Uh, kind of--\""
-    c "\"会一点...\""
+    # c "“Uh, kind of--”"
+    c "“会一点...”"
 
 # game/a3s1.rpy:585
 translate Schinese a3s1_fb579756:
 
-    # b "\"Whaddaya mean, kinda? Either you sing, or you don't.\""
-    b "\"什么叫一点？要么会，要么不会。\""
+    # b "“Whaddaya mean, kinda? Either you sing, or you don't.”"
+    b "“什么叫一点？要么会，要么不会。”"
 
 # game/a3s1.rpy:587
 translate Schinese a3s1_4c0bfe33:
 
-    # c "\"Well, yeah, I mean, I sing, but I'm not very good--\""
-    c "\"啊，我是会唱，但唱得不太好-\""
+    # c "“Well, yeah, I mean, I sing, but I'm not very good--”"
+    c "“啊，我是会唱，但唱得不太好-”"
 
 # game/a3s1.rpy:589
 translate Schinese a3s1_5837d0f1:
 
-    # b "\"I mean, you fucking better be if you spent four years learning. How about you sing, and I'll decide.\""
-    b "\"你最好是，不然白瞎了那四年学了。不如这样，你唱一个让我听听。\""
+    # b "“I mean, you fucking better be if you spent four years learning. How about you sing, and I'll decide.”"
+    b "“你最好是，不然白瞎了那四年学了。不如这样，你唱一个让我听听。”"
 
 # game/a3s1.rpy:590
 translate Schinese a3s1_e1467eed:
@@ -2625,20 +2625,20 @@ translate Schinese a3s1_e1467eed:
 # game/a3s1.rpy:592
 translate Schinese a3s1_7a9a9e0d:
 
-    # c "\"Uh, sure, just gotta think of one to sing. Anything you want to hear? I know a lot of 90s grunge and alternative rock.\""
-    c "\"噢，好啊，你想听哪首？90年代的垃圾摇滚和另类摇滚我大多都会唱。\""
+    # c "“Uh, sure, just gotta think of one to sing. Anything you want to hear? I know a lot of 90s grunge and alternative rock.”"
+    c "“噢，好啊，你想听哪首？90年代的垃圾摇滚和另类摇滚我大多都会唱。”"
 
 # game/a3s1.rpy:594
 translate Schinese a3s1_41739442:
 
-    # b "\"Heh, you're a walkin' talkin' stereotype, aren't ya? You write your own music?\""
-    b "\"呵，你小子简直是会走路的刻板印象。你自己写过歌么？\""
+    # b "“Heh, you're a walkin' talkin' stereotype, aren't ya? You write your own music?”"
+    b "“呵，你小子简直是会走路的刻板印象。你自己写过歌么？”"
 
 # game/a3s1.rpy:596
 translate Schinese a3s1_bf4dfafc:
 
-    # c "\"I definitely tried.\""
-    c "\"确实写过。\""
+    # c "“I definitely tried.”"
+    c "“确实写过。”"
 
 # game/a3s1.rpy:597
 translate Schinese a3s1_17e12b21:
@@ -2649,20 +2649,20 @@ translate Schinese a3s1_17e12b21:
 # game/a3s1.rpy:599
 translate Schinese a3s1_2ce4bc96:
 
-    # b "\"You know, one thing that really pisses me off is when someone's acting like an overly-humble little bitch. Either you do, or you don't. Either you're good at it, or you're not. Either you offer something different, or you fucking don't.\""
-    b "\"我呀，最不爽那些假惺惺的臭婊子了。要么会，要么不会。要么擅长，要么不擅长。要么唱，要么就他妈的闭嘴。\""
+    # b "“You know, one thing that really pisses me off is when someone's acting like an overly-humble little bitch. Either you do, or you don't. Either you're good at it, or you're not. Either you offer something different, or you fucking don't.”"
+    b "“我呀，最不爽那些假惺惺的臭婊子了。要么会，要么不会。要么擅长，要么不擅长。要么唱，要么就他妈的闭嘴。”"
 
 # game/a3s1.rpy:601
 translate Schinese a3s1_1869429c:
 
-    # b "\"So which the fuck is it?\""
-    b "\"所以你是哪种？\""
+    # b "“So which the fuck is it?”"
+    b "“所以你是哪种？”"
 
 # game/a3s1.rpy:603
 translate Schinese a3s1_541f521d:
 
-    # c "\"I do! I can! Uh, just give me a second.\""
-    c "\"我唱！我唱！呃，给我一点时间。\""
+    # c "“I do! I can! Uh, just give me a second.”"
+    c "“我唱！我唱！呃，给我一点时间。”"
 
 # game/a3s1.rpy:604
 translate Schinese a3s1_24e76b9b:
@@ -2710,13 +2710,13 @@ translate Schinese a3s1_c0207c68:
 translate Schinese a3s1_89661db6:
 
     # "His voice is rough and cracked, and while some of it is because he isn't warmed up, it's mostly due to having his throat crushed."
-    "他的声音又粗又哑，虽然部分原因是因为他没有预热，但主要是因为他的嗓子被压坏了。"
+    "他的声音又粗又哑，虽然部分原因是他没有预热，但主要还是因为他的嗓子被挤坏了。"
 
 # game/a3s1.rpy:616
 translate Schinese a3s1_9dcd9be3:
 
     # "Dehydration, and screaming doesn't help either."
-    "脱水和尖叫也让情况变更严重。"
+    "脱水和尖叫更是火上浇油。"
 
 # game/a3s1.rpy:617
 translate Schinese a3s1_bb7a4909:
@@ -2853,8 +2853,8 @@ translate Schinese a3s1_337bb853:
 # game/a3s1.rpy:647
 translate Schinese a3s1_eb93935f:
 
-    # d "\"Damn it...\""
-    d "\"该死...\""
+    # d "“Damn it...”"
+    d "“该死...”"
 
 # game/a3s1.rpy:648
 translate Schinese a3s1_e50f1e9d:
@@ -2865,8 +2865,8 @@ translate Schinese a3s1_e50f1e9d:
 # game/a3s1.rpy:650
 translate Schinese a3s1_699025cd:
 
-    # d "\"Shit... Shit, shit, shit!\""
-    d "\"该死...该死，该死，该死!\""
+    # d "“Shit... Shit, shit, shit!”"
+    d "“该死...该死，该死，该死!”"
 
 # game/a3s1.rpy:651
 translate Schinese a3s1_e54e974d:
@@ -2937,8 +2937,8 @@ translate Schinese a3s1_1a151a60:
 # game/a3s1.rpy:666
 translate Schinese a3s1_a55903a4:
 
-    # d "\"Cam! BRIAN!\""
-    d "\"Cam！{b}BRIAN！{/b}\""
+    # d "“Cam! BRIAN!”"
+    d "“Cam！{b}BRIAN！{/b}”"
 
 # game/a3s1.rpy:667
 translate Schinese a3s1_c4def511:
@@ -3027,8 +3027,8 @@ translate Schinese a3s1_1fe19c3d:
 # game/a3s1.rpy:695
 translate Schinese a3s1_81071b58:
 
-    # b "\"Oh, you little faggot!\""
-    b "\"你这个小瘪三！\""
+    # b "“Oh, you little faggot!”"
+    b "“你这个小瘪三！”"
 
 # game/a3s1.rpy:700
 translate Schinese a3s1_cbab571c:
@@ -3046,7 +3046,7 @@ translate Schinese a3s1_150df925:
 translate Schinese a3s1_efcabbee:
 
     # "Cameron is launched forward against the tunnel wall directly in front of him, and he tries to hold on to it, sliding down slightly as he stares straight up into the darkness."
-    "Cameron在冲力的作用下撞上了正前方的隧道，他凝视着黑暗，试图抓住洞壁好支撑不住下滑的身体。"
+    "在这股冲力的作用下，Cameron直接撞上了正前方的隧道。他在黑暗中摸索，试图找到一个支撑点，好稳住不断下滑的身体。"
 
 # game/a3s1.rpy:705
 translate Schinese a3s1_3477ccdd:
@@ -3105,8 +3105,8 @@ translate Schinese a3s1_4c4794f9:
 # game/a3s1.rpy:715
 translate Schinese a3s1_3184d4c4:
 
-    # b "\"Damn. You'll probably only piss blood after that one.\""
-    b "\"啧，你后半辈子多半只能尿血了。\""
+    # b "“Damn. You'll probably only piss blood after that one.”"
+    b "“啧，你后半辈子多半只能尿血了。”"
 
 # game/a3s1.rpy:716
 translate Schinese a3s1_f4d49ad9:
@@ -3141,8 +3141,8 @@ translate Schinese a3s1_4c4ff441:
 # game/a3s1.rpy:721
 translate Schinese a3s1_6ab241b1:
 
-    # c "\"No, stop, please!\""
-    c "\"不要，求求你不要！\""
+    # c "“No, stop, please!”"
+    c "“不要，求求你不要！”"
 
 # game/a3s1.rpy:723
 translate Schinese a3s1_68be4802:
@@ -3165,8 +3165,8 @@ translate Schinese a3s1_af110831:
 # game/a3s1.rpy:727
 translate Schinese a3s1_a55903a4_1:
 
-    # d "\"Cam! BRIAN!\""
-    d "\"Cam！{b}BRIAN！{/b}\""
+    # d "“Cam! BRIAN!”"
+    d "“Cam！{b}BRIAN！{/b}”"
 
 # game/a3s1.rpy:728
 translate Schinese a3s1_0b98ce77:
@@ -3183,8 +3183,8 @@ translate Schinese a3s1_b26483c0:
 # game/a3s1.rpy:730
 translate Schinese a3s1_b62a72dc:
 
-    # b "\"Shut the fuck up right now, or I obliterate your other kidney, got it?\""
-    b "\"闭上你的臭嘴，不然我就把你另一个腰子也嘎了，明白？\""
+    # b "“Shut the fuck up right now, or I obliterate your other kidney, got it?”"
+    b "“闭上你的臭嘴，不然我就把你另一个腰子也嘎了，明白？”"
 
 # game/a3s1.rpy:731
 translate Schinese a3s1_fc0082d8:
@@ -3243,8 +3243,8 @@ translate Schinese a3s1_384eef51:
 # game/a3s1.rpy:742
 translate Schinese a3s1_0c2428b4:
 
-    # c "\"No, no, no, no, no, please don't do this! I can't... I can't--\""
-    c "\"不，不，不，不，不，求求你别这样！我不能..不能-\""
+    # c "“No, no, no, no, no, please don't do this! I can't... I can't--”"
+    c "“不，不，不，不，不，求求你别这样！我不能..不能-”"
 
 # game/a3s1.rpy:743
 translate Schinese a3s1_90761f16:
@@ -3273,8 +3273,8 @@ translate Schinese a3s1_7697122d:
 # game/a3s1.rpy:751
 translate Schinese a3s1_dd04cd5e:
 
-    # c "\"Brian, just wait a second. Think about it. I can {i}help{/i} you. Why did you bring me here in the first place?\""
-    c "\"请等一下，Brian。你好好想想，我可以{b}帮{/b}你啊。不然你为什么要带我来这里？\""
+    # c "“Brian, just wait a second. Think about it. I can {i}help{/i} you. Why did you bring me here in the first place?”"
+    c "“请等一下，Brian。你好好想想，我可以{b}帮{/b}你啊。不然你为什么要带我来这里？”"
 
 # game/a3s1.rpy:753
 translate Schinese a3s1_8e45a2f9:
@@ -3291,8 +3291,8 @@ translate Schinese a3s1_3d569946:
 # game/a3s1.rpy:756
 translate Schinese a3s1_8b45d140:
 
-    # c "\"Let me talk to them. Let me see if I can reason with them. We both know that this, all of this, is over.\""
-    c "\"让我和他们谈谈，看能不能劝他们放下执念。过去的事都过去了。\""
+    # c "“Let me talk to them. Let me see if I can reason with them. We both know that this, all of this, is over.”"
+    c "“让我和他们谈谈，看能不能劝他们放下执念。过去的事都过去了。”"
 
 # game/a3s1.rpy:758
 translate Schinese a3s1_6a42e993:
@@ -3303,26 +3303,26 @@ translate Schinese a3s1_6a42e993:
 # game/a3s1.rpy:760
 translate Schinese a3s1_82c8622e:
 
-    # c "\"I know you need my help. I can feel them. They want you, Brian, and they're waiting for you!\""
-    c "\"你需要我的帮助，我能感觉到他们。他们想要你，Brian，他们在等你！\""
+    # c "“I know you need my help. I can feel them. They want you, Brian, and they're waiting for you!”"
+    c "“你需要我的帮助，我能感觉到他们。他们想要你，Brian，他们在等你！”"
 
 # game/a3s1.rpy:763
 translate Schinese a3s1_5343cd7d:
 
-    # c "\"I know what it can be like, walking in circles your most of your life, making the same stupid mistakes and knowing what you need to do to get better, and just never doing it.\""
-    c "\"我懂你的感受，你大半辈子时间都在原地打转，不断犯下愚蠢的错误。你知道如何才能让自己变得更好，可就是迈不出那一步。\""
+    # c "“I know what it can be like, walking in circles your most of your life, making the same stupid mistakes and knowing what you need to do to get better, and just never doing it.”"
+    c "“我懂你的感受，你大半辈子时间都在原地打转，不断犯下愚蠢的错误。你知道如何才能让自己变得更好，可就是迈不出那一步。”"
 
 # game/a3s1.rpy:765
 translate Schinese a3s1_d8b4e168:
 
-    # b "\"Oh yeah?\""
-    b "\"是么？\""
+    # b "“Oh yeah?”"
+    b "“哦？是么？”"
 
 # game/a3s1.rpy:766
 translate Schinese a3s1_cbe83146:
 
-    # c "\"But I finally did, and my life was almost perfect.\""
-    c "\"但我做到了，我得到了梦寐以求的生活。\""
+    # c "“But I finally did, and my life was almost perfect.”"
+    c "“但是我做到了，我因此得到了梦寐以求的生活。”"
 
 # game/a3s1.rpy:767
 translate Schinese a3s1_9ee81ecf:
@@ -3333,8 +3333,8 @@ translate Schinese a3s1_9ee81ecf:
 # game/a3s1.rpy:769
 translate Schinese a3s1_2454d750:
 
-    # c "\"So let's do it. Let's end this nightmare right now.\""
-    c "\"所以迈出那一步，让这场噩梦就此终结吧。\""
+    # c "“So let's do it. Let's end this nightmare right now.”"
+    c "“所以迈出那一步，让这场噩梦就此终结吧。”"
 
 # game/a3s1.rpy:771
 translate Schinese a3s1_0f8e60dd:
@@ -3346,79 +3346,79 @@ translate Schinese a3s1_0f8e60dd:
 translate Schinese a3s1_15135f2e:
 
     # "The entire mine, the entire town, seems to hold its breath with him, and Cameron starts to understand how deeply entwined this bear is with this place, this entity that seems to be pulling all the strings."
-    "整座矿井、整座小镇，仿佛都和他一起屏住了呼吸，Cameron这才明白那头熊与这片土地-那个在幕后操纵一切的实体的渊源有多么深。"
+    "整座矿井、整座小镇，仿佛都和他一起屏住了呼吸，Cameron这才明白那头熊与这片土地-那个在幕后操纵一切的实体-的渊源有多么深。"
 
 # game/a3s1.rpy:773
 translate Schinese a3s1_b19ded8d:
 
     # "Cameron can feel the monolithic entity shift and turn, as if it too senses an inevitable end."
-    "Cameron能感觉到那个实体的转变，仿佛对方也意识到了：这是个无法避免的结局。"
+    "Cameron能感觉到那个实体在犹豫，仿佛也意识到这是自己必然的结局。"
 
 # game/a3s1.rpy:774
 translate Schinese a3s1_b7806a2d:
 
     # "Brian is close to taking the coyote's offer."
-    "Brian几乎要接受郊狼的提议了。"
+    "Brian几乎就要接受郊狼的提议了。"
 
 # game/a3s1.rpy:775
 translate Schinese a3s1_c80820e3:
 
     # "But it isn't meant to be, and Cameron, of course, knows that."
-    "但这并不是注定的，Cameron当然知道。"
+    "但这是不可能的，Cameron当然知道。"
 
 # game/a3s1.rpy:776
 translate Schinese a3s1_5d688353:
 
     # "A scuffling from the entrance announces Devon's arrival."
-    "入口处的沙沙声宣告了Devon的到来。"
+    "入口的沙沙声宣告了Devon的到来。"
 
 # game/a3s1.rpy:778
 translate Schinese a3s1_6a57f2ec:
 
-    # b "\"Guess he's finally here, huh? Glad I brought my 10-gauge. Always wanna make sure you got good firepower when bears are involved, eh?\""
-    b "\"看来他终于到了，是吧？还好我带了10口径的。在有熊出没的地方，保证充足的火力可是基本啊？\""
+    # b "“Guess he's finally here, huh? Glad I brought my 10-gauge. Always wanna make sure you got good firepower when bears are involved, eh?”"
+    b "“看来他终于到了，是吧？还好我带了10口径的。在有熊出没的地方，保证火力充足可是基本常识，没错吧？”"
 
 # game/a3s1.rpy:782
 translate Schinese a3s1_dc7ffba3:
 
     # "Cameron watches in horror as the old bear opens up the shotgun before inserting a shell."
-    "Cameron惊恐地看着老熊打开猎枪，准备上子弹。"
+    "Cameron惊恐地看着老熊打开猎枪，准备上膛。"
 
 # game/a3s1.rpy:787
 translate Schinese a3s1_078f2659:
 
     # "Cameron's mind is blank as he automatically lunges at the huge bear, grabbing at the shotgun barrel as Brian snarls in rage."
-    "他的思绪一片空白，身体不由自主地向那头巨熊扑去，在Brian愤怒的咆哮声中抓住了猎枪枪管。"
+    "他的思绪一片空白，身体不由自主地朝那头熊扑去，在Brian愤怒的咆哮声中抓住猎枪枪管。"
 
 # game/a3s1.rpy:788
 translate Schinese a3s1_ca97d76e:
 
-    # "\"{i}Everything's falling apart. You're spiraling.\""
-    "\"{b}一切都分崩离析了，你在不断攀升。{/b}\""
+    # "“{i}Everything's falling apart. You're spiraling.”"
+    "“{b}逆着分崩离析的一切攀升吧。{/b}”"
 
 # game/a3s1.rpy:791
 translate Schinese a3s1_2effc3ab:
 
     # "Devon shoves his bulk through the narrow passage, squeezing through to the hollow on the other side."
-    "Devon巨大的身体从狭窄的通道里挤了出来。"
+    "Devon从狭窄的通道中拖出自己巨大的身体。"
 
 # game/a3s1.rpy:794
 translate Schinese a3s1_9e0bdef1:
 
     # "When he stumbles into the open space, Devon spots Cameron immediately, the coyote being swung left and right as he fights with Brian over the shotgun."
-    "他跌跌撞撞地抵达这片空地，并立即发现了正与Brian争夺猎枪，左右摇晃的Cameron。"
+    "他跌跌撞撞地来到这片空地，立马就发现了正与Brian争夺猎枪、摇摇晃晃的Cameron。"
 
 # game/a3s1.rpy:796
 translate Schinese a3s1_888548c3:
 
     # "Cameron is covered in blood, tears matting the fur on his cheeks."
-    "Cameron浑身是血，泪水打湿了脸颊上的毛。"
+    "Cameron浑身是血，脸颊上的毛被泪水所打湿。"
 
 # game/a3s1.rpy:797
 translate Schinese a3s1_72827b46:
 
     # "The situation is already a terrible one, but again, his fear for Cameron turns to anger at Brian as he sees the bear throwing vicious, crushing kicks at Cameron's lower-body."
-    "形势已及其严峻，但当他看到熊朝Cameron的下半身踢出卑鄙、致命的一脚后，他再也抑制不住满腔的怒火。"
+    "尽管自己的状况也不容乐观，但当看到熊朝Cameron的下半身踢出卑鄙、致命的一脚后，他再也抑制不住满腔的怒火。"
 
 # game/a3s1.rpy:798
 translate Schinese a3s1_fff5084c:
@@ -3483,8 +3483,8 @@ translate Schinese a3s1_9b4befca:
 # game/a3s1.rpy:814
 translate Schinese a3s1_369d5477:
 
-    # b "\"You're a dead man walkin', boy! Well, on your knees, anyway. What a surprise!\""
-    b "\"你死定了，小子！惊不惊喜啊！\""
+    # b "“You're a dead man walkin', boy! Well, on your knees, anyway. What a surprise!”"
+    b "“你死定了，小子！惊不惊喜啊！”"
 
 # game/a3s1.rpy:815
 translate Schinese a3s1_4c2f0ab9:
@@ -3525,8 +3525,8 @@ translate Schinese a3s1_e79fa407:
 # game/a3s1.rpy:821
 translate Schinese a3s1_f27d1f6a:
 
-    # d "\"Cam... run...\""
-    d "\"快跑...Cam...\""
+    # d "“Cam... run...”"
+    d "“快跑...Cam...”"
 
 # game/a3s1.rpy:822
 translate Schinese a3s1_d9896036:
@@ -3573,8 +3573,8 @@ translate Schinese a3s1_9c8f3e69:
 # game/a3s1.rpy:837
 translate Schinese a3s1_9cbb18b8:
 
-    # c "\"No!\""
-    c "\"不！\""
+    # c "“No!”"
+    c "“不！”"
 
 # game/a3s1.rpy:838
 translate Schinese a3s1_4f046415:
@@ -3741,8 +3741,8 @@ translate Schinese a3s1_c2b48a7e:
 # game/a3s1.rpy:874
 translate Schinese a3s1_68b9a149:
 
-    # b "\"You fuckin'... You!\""
-    b "\"你、你他妈的...你！\""
+    # b "“You fuckin'... You!”"
+    b "“你、你他妈的...你！”"
 
 # game/a3s1.rpy:875
 translate Schinese a3s1_e2d4e3b7:
@@ -3771,8 +3771,8 @@ translate Schinese a3s1_ceae1ea4:
 # game/a3s1.rpy:879
 translate Schinese a3s1_0f6703b0:
 
-    # d "\"Cameron, look out!\""
-    d "\"Cameron，小心！\""
+    # d "“Cameron, look out!”"
+    d "“Cameron，小心！”"
 
 # game/a3s1.rpy:883
 translate Schinese a3s1_e147ec26:
@@ -3813,8 +3813,8 @@ translate Schinese a3s1_5b6b7fae:
 # game/a3s1.rpy:889
 translate Schinese a3s1_06b38567:
 
-    # d "\"Cameron, loo--\""
-    d "\"Cameron，小-\""
+    # d "“Cameron, loo--”"
+    d "“Cameron，小-”"
 
 # game/a3s1.rpy:891
 translate Schinese a3s1_a36822d9:
@@ -3933,14 +3933,14 @@ translate Schinese a3s1_0bde078c:
 # game/a3s1.rpy:914
 translate Schinese a3s1_eb5cd7dc:
 
-    # d "\"Torque!\""
-    d "\"转矩！\""
+    # d "“Torque!”"
+    d "“转矩！”"
 
 # game/a3s1.rpy:915
 translate Schinese a3s1_32e76065:
 
-    # "\"{i}Now you're thinking like an engineer!{/i}\""
-    "\"{b}你开始像真正的工程师那样思考了！{/b}\""
+    # "“{i}Now you're thinking like an engineer!{/i}”"
+    "“{b}你开始像真正的工程师那样思考了！{/b}”"
 
 # game/a3s1.rpy:917
 translate Schinese a3s1_15b0a726:
@@ -3963,14 +3963,14 @@ translate Schinese a3s1_9ac0c750:
 # game/a3s1.rpy:920
 translate Schinese a3s1_1f899490:
 
-    # d "\"Baby, your neck! Let me see it!\""
-    d "\"亲爱的，你的脖子！让我看一下！\""
+    # d "“Baby, your neck! Let me see it!”"
+    d "“亲爱的，你的脖子！让我看一下！”"
 
 # game/a3s1.rpy:921
 translate Schinese a3s1_f4ec37c3:
 
-    # c "\"He-- He didn't get me. Let's go!\""
-    c "\"他-他没把我怎么样，咱们快走吧！\""
+    # c "“He-- He didn't get me. Let's go!”"
+    c "“他-他没把我怎么样，咱们快走吧！”"
 
 # game/a3s1.rpy:922
 translate Schinese a3s1_04771461:
@@ -3987,14 +3987,14 @@ translate Schinese a3s1_9228b0da:
 # game/a3s1.rpy:924
 translate Schinese a3s1_400d826b:
 
-    # d "\"Need to get you ou-\""
-    d "\"我得送你去-\""
+    # d "“Need to get you ou-”"
+    d "“我得送你去-”"
 
 # game/a3s1.rpy:926
 translate Schinese a3s1_7b04d659:
 
-    # d "\"UNGH!\""
-    d "\"{b}呃啊！{/b}\""
+    # d "“UNGH!”"
+    d "“{b}呃啊！{/b}”"
 
 # game/a3s1.rpy:927
 translate Schinese a3s1_d7d12480:
@@ -4035,20 +4035,20 @@ translate Schinese a3s1_6368836e:
 # game/a3s1.rpy:939
 translate Schinese a3s1_57ef7651:
 
-    # b "\"Don't...Don't you fucking move. You got that? This is over. I'm killing that yote in front of you, and then I'm ripping your fucking arm off, boy!\""
-    b "\"再...再他妈动一下试试啊？都结束了，我要当着你的面杀了那只狼崽子，再把你的胳膊扯下来！\""
+    # b "“Don't...Don't you fucking move. You got that? This is over. I'm killing that yote in front of you, and then I'm ripping your fucking arm off, boy!”"
+    b "“再...再他妈动一下试试啊？都结束了，我要当着你的面杀了那只狼崽子，再把你的胳膊扯下来！”"
 
 # game/a3s1.rpy:942
 translate Schinese a3s1_31d21590:
 
-    # "Devon can only wheeze in response, and Cameron holds onto him tightly as he's cradled in his arms.\""
+    # "Devon can only wheeze in response, and Cameron holds onto him tightly as he's cradled in his arms.”"
     "Devon只能以喘息声回应，Cameron紧紧搂着他，把他抱在怀里。"
 
 # game/a3s1.rpy:943
 translate Schinese a3s1_4635e5f9:
 
-    # b "\"God, you fucking ruined it!\""
-    b "\"你把一切都毁了！\""
+    # b "“God, you fucking ruined it!”"
+    b "“你把一切都毁了！”"
 
 # game/a3s1.rpy:944
 translate Schinese a3s1_e2736112:
@@ -4077,13 +4077,13 @@ translate Schinese a3s1_1332072f:
 # game/a3s1.rpy:948
 translate Schinese a3s1_518caeaf:
 
-    # d "\"Honey, whatever happens, just play dead, okay? No matter what.\""
-    d "\"亲爱的，你什么都不要做，装死就好了，明白吗？什么都不要做。\""
+    # d "“Honey, whatever happens, just play dead, okay? No matter what.”"
+    d "“亲爱的，你什么都不要做，装死就好了，明白吗？什么都不要做。”"
 
 # game/a3s1.rpy:950
 translate Schinese a3s1_2b43ec39:
 
-    # "But Cameron suddenly turns--\""
+    # "But Cameron suddenly turns--”"
     "但Cameron突然转身-"
 
 # game/a3s1.rpy:954
@@ -4131,8 +4131,8 @@ translate Schinese a3s1_737bcd28:
 # game/a3s1.rpy:964
 translate Schinese a3s1_8c67c880:
 
-    # d "\"No!\""
-    d "\"不！\""
+    # d "“No!”"
+    d "“不！”"
 
 # game/a3s1.rpy:965
 translate Schinese a3s1_225b87ab:
@@ -4149,14 +4149,14 @@ translate Schinese a3s1_d108ee8d:
 # game/a3s1.rpy:969
 translate Schinese a3s1_b5f1a7c7:
 
-    # d "\"Cameron! Cameron?\""
-    d "\"Cameron！Cameron？\""
+    # d "“Cameron! Cameron?”"
+    d "“Cameron！Cameron？”"
 
 # game/a3s1.rpy:970
 translate Schinese a3s1_64bf0637:
 
-    # c "\"I'm fine! I'm fine.\""
-    c "\"我没事！没事啦。\""
+    # c "“I'm fine! I'm fine.”"
+    c "“我没事！没事啦。”"
 
 # game/a3s1.rpy:971
 translate Schinese a3s1_2b1fa80a:
@@ -4185,8 +4185,8 @@ translate Schinese a3s1_ed301934:
 # game/a3s1.rpy:978
 translate Schinese a3s1_e4d47b53:
 
-    # b "\"Fuck...\""
-    b "\"操...\""
+    # b "“Fuck...”"
+    b "“操...”"
 
 # game/a3s1.rpy:979
 translate Schinese a3s1_332a0067:
@@ -4197,8 +4197,8 @@ translate Schinese a3s1_332a0067:
 # game/a3s1.rpy:980
 translate Schinese a3s1_1e3bb5fa:
 
-    # b "\"Oh fuck... Oh fuck...\""
-    b "\"操...操...\""
+    # b "“Oh fuck... Oh fuck...”"
+    b "“操...操...”"
 
 # game/a3s1.rpy:981
 translate Schinese a3s1_3ab99c99:
@@ -4209,20 +4209,20 @@ translate Schinese a3s1_3ab99c99:
 # game/a3s1.rpy:982
 translate Schinese a3s1_4f936a58:
 
-    # b "\"Oh no, that was is it? Is this it? What the fuck?\""
-    b "\"不，难道是？是它？搞什么？\""
+    # b "“Oh no, that was is it? Is this it? What the fuck?”"
+    b "“不，难道是？是它？搞什么？”"
 
 # game/a3s1.rpy:983
 translate Schinese a3s1_5b3b72b6:
 
-    # b "\"What the fuck...\""
-    b "\"搞什...\""
+    # b "“What the fuck...”"
+    b "“搞什...”"
 
 # game/a3s1.rpy:984
 translate Schinese a3s1_ab5ea461:
 
-    # b "\"What the...\""
-    b "\"么...\""
+    # b "“What the...”"
+    b "“么...”"
 
 # game/a3s1.rpy:985
 translate Schinese a3s1_f8e1b624:
@@ -4263,8 +4263,8 @@ translate Schinese a3s1_26739628:
 # game/a3s1.rpy:994
 translate Schinese a3s1_cb9556fe:
 
-    # d "\"Cameron? How do you feel?\""
-    d "\"Cameron？你感觉怎么样了？\""
+    # d "“Cameron? How do you feel?”"
+    d "“Cameron？你感觉怎么样了？”"
 
 # game/a3s1.rpy:995
 translate Schinese a3s1_b39318cb:
@@ -4281,8 +4281,8 @@ translate Schinese a3s1_503c78fb:
 # game/a3s1.rpy:997
 translate Schinese a3s1_fe10927a:
 
-    # c "\"I think something ruptured. It feels all wrong.\""
-    c "\"不怎么样，好像有哪里裂开了。\""
+    # c "“I think something ruptured. It feels all wrong.”"
+    c "“不怎么样，好像有哪里裂开了。”"
 
 # game/a3s1.rpy:998
 translate Schinese a3s1_783e8a6c:
@@ -4293,8 +4293,8 @@ translate Schinese a3s1_783e8a6c:
 # game/a3s1.rpy:999
 translate Schinese a3s1_de336ac5:
 
-    # d "\"Don't move, okay? I'll get us out. I'll get us out in no time.\""
-    d "\"尽量别动，好吗？我会找到出去的路，很快就没事了。\""
+    # d "“Don't move, okay? I'll get us out. I'll get us out in no time.”"
+    d "“尽量别动，好吗？我会找到出去的路，很快就没事了。”"
 
 # game/a3s1.rpy:1000
 translate Schinese a3s1_bc9e33f2:
@@ -4323,14 +4323,14 @@ translate Schinese a3s1_536f4058:
 # game/a3s1.rpy:1006
 translate Schinese a3s1_e8693db6:
 
-    # c "\"I think I can see where to go. Just walk straight.\""
-    c "\"我好像知道路了，直走吧。\""
+    # c "“I think I can see where to go. Just walk straight.”"
+    c "“我好像知道路了，直走吧。”"
 
 # game/a3s1.rpy:1007
 translate Schinese a3s1_ac14e5b1:
 
-    # d "\"How--\""
-    d "\"什-\""
+    # d "“How--”"
+    d "“什-”"
 
 # game/a3s1.rpy:1008
 translate Schinese a3s1_d092fd54:
@@ -4341,8 +4341,8 @@ translate Schinese a3s1_d092fd54:
 # game/a3s1.rpy:1009
 translate Schinese a3s1_719ac69b:
 
-    # c "\"I don't know, but I can see. Let's just get out of here... please.\""
-    c "\"这很难解释，但我看得见。咱们还是抓紧时间离开吧...拜托了。\""
+    # c "“I don't know, but I can see. Let's just get out of here... please.”"
+    c "“这很难解释，但我看得见。咱们还是抓紧时间离开吧...拜托了。”"
 
 # game/a3s1.rpy:1010
 translate Schinese a3s1_92e4639e:
@@ -4353,8 +4353,8 @@ translate Schinese a3s1_92e4639e:
 # game/a3s1.rpy:1011
 translate Schinese a3s1_1f11d49b:
 
-    # d "\"Okay. Just tell me where, okay?\""
-    d "\"好吧，那就有劳你带路了？\""
+    # d "“Okay. Just tell me where, okay?”"
+    d "“好吧，那就有劳你带路了？”"
 
 # game/a3s1.rpy:1012
 translate Schinese a3s1_2d409ab2:
@@ -4389,8 +4389,8 @@ translate Schinese a3s1_931f35e7:
 # game/a3s1.rpy:1020
 translate Schinese a3s1_c698ad5a:
 
-    # d "\"Daylight.\""
-    d "\"阳光。\""
+    # d "“Daylight.”"
+    d "“阳光。”"
 
 # game/a3s1.rpy:1021
 translate Schinese a3s1_6bcae870:
@@ -4401,14 +4401,14 @@ translate Schinese a3s1_6bcae870:
 # game/a3s1.rpy:1022
 translate Schinese a3s1_ab7ef348:
 
-    # d "\"God, honey, we're gonna get you help, and you're gonna get better, okay?\""
-    d "\"天啊，你需要救助，亲爱的。相信我，你很快就会好起来了。\""
+    # d "“God, honey, we're gonna get you help, and you're gonna get better, okay?”"
+    d "“天啊，你需要救助，亲爱的。相信我，你很快就会好起来了。”"
 
 # game/a3s1.rpy:1023
 translate Schinese a3s1_ce4db287:
 
-    # c "\"But what about you? Do you feel okay?\""
-    c "\"可是你呢？你还好吗？\""
+    # c "“But what about you? Do you feel okay?”"
+    c "“可是你呢？你还好吗？”"
 
 # game/a3s1.rpy:1024
 translate Schinese a3s1_d4dd2924:
@@ -4419,8 +4419,8 @@ translate Schinese a3s1_d4dd2924:
 # game/a3s1.rpy:1025
 translate Schinese a3s1_bca26a69:
 
-    # d "\"I'm fine.\""
-    d "\"我没事。\""
+    # d "“I'm fine.”"
+    d "“我没事。”"
 
 # game/a3s1.rpy:1026
 translate Schinese a3s1_864bc064:
@@ -4431,14 +4431,14 @@ translate Schinese a3s1_864bc064:
 # game/a3s1.rpy:1027
 translate Schinese a3s1_d4a77c36:
 
-    # d "\"Cameron, I'm sorry.\""
-    d "\"对不起，Cameron。\""
+    # d "“Cameron, I'm sorry.”"
+    d "“对不起，Cameron。”"
 
 # game/a3s1.rpy:1028
 translate Schinese a3s1_700b967c:
 
-    # c "\"And that's the... the last time you're saying that to me, okay? I don't blame you for anything. I'm just so glad I met you.\""
-    c "\"向我保证...这是你最后一次对我说这句话，好吗？我不怪你，能够遇到你，我很高兴。\""
+    # c "“And that's the... the last time you're saying that to me, okay? I don't blame you for anything. I'm just so glad I met you.”"
+    c "“向我保证...这是你最后一次对我说这句话，好吗？我不怪你，能够遇到你，我很高兴。”"
 
 # game/a3s1.rpy:1029
 translate Schinese a3s1_1bd1c4da:
@@ -4449,14 +4449,14 @@ translate Schinese a3s1_1bd1c4da:
 # game/a3s1.rpy:1030
 translate Schinese a3s1_a32f26ff:
 
-    # d "\"I think I hear a helicopter? And maybe a megaphone? Shit, did people come for us?\""
-    d "\"我好像听见了直升机的声音？还有扩音器？天，有人来找咱们吗？\""
+    # d "“I think I hear a helicopter? And maybe a megaphone? Shit, did people come for us?”"
+    d "“我好像听见了直升机的声音？还有扩音器？天，有人来找咱们吗？”"
 
 # game/a3s1.rpy:1031
 translate Schinese a3s1_5abe9b09:
 
-    # c "\"The shotgun blew out my hearing, so I'm not... I'm no really sure.\""
-    c "\"猎枪把我震聋了，所以我不...不是很清楚。\""
+    # c "“The shotgun blew out my hearing, so I'm not... I'm no really sure.”"
+    c "“猎枪把我震聋了，所以我不...不是很清楚。”"
 
 # game/a3s1.rpy:1033
 translate Schinese a3s1_7506cac8:
@@ -4473,44 +4473,44 @@ translate Schinese a3s1_5c9677cb:
 # game/a3s1.rpy:1035
 translate Schinese a3s1_b97f0c25:
 
-    # c "\"Oh... Mom, I found it.\""
-    c "\"啊...我找到它了，妈妈。\""
+    # c "“Oh... Mom, I found it.”"
+    c "“啊...我找到它了，妈妈。”"
 
 # game/a3s1.rpy:1036
 translate Schinese a3s1_60614f83:
 
-    # d "\"Huh?\""
-    d "\"诶？\""
+    # d "“Huh?”"
+    d "“诶？”"
 
 # game/a3s1.rpy:1037
 translate Schinese a3s1_02e5f64a:
 
-    # c "\"Her arch.\""
-    c "\"她的拱。\""
+    # c "“Her arch.”"
+    c "“她的拱。”"
 
 # game/a3s1.rpy:1038
 translate Schinese a3s1_fde958fa:
 
-    # d "\"You're seeing arches?\""
-    d "\"你看到拱形了？\""
+    # d "“You're seeing arches?”"
+    d "“你看到拱形了？”"
 
 # game/a3s1.rpy:1039
 translate Schinese a3s1_f05407c7:
 
-    # c "\"You know how something happens in your life that's so impactful, it splits your life in two? Like, it can be good or bad.\""
-    c "\"知道吗？有些事情，或好或坏，它的影响是那么强烈，足以把你的人生切割成两段。\""
+    # c "“You know how something happens in your life that's so impactful, it splits your life in two? Like, it can be good or bad.”"
+    c "“知道吗？有些事情，或好或坏，它的影响是那么强烈，足以把你的人生切割成两段。”"
 
 # game/a3s1.rpy:1040
 translate Schinese a3s1_b3705228:
 
-    # d "\"Of course.\""
-    d "\"我知道。\""
+    # d "“Of course.”"
+    d "“我知道。”"
 
 # game/a3s1.rpy:1041
 translate Schinese a3s1_fcaf9d08:
 
-    # c "\"I think meeting you is the good divide in my life. I think what happened here, and what's going to happen after, I think it's the bad divide.\""
-    c "\"我想，遇到你就是我人生中的好分界线。而在这里发生的事情，以及之后要发生的事情，是坏的分界线。\""
+    # c "“I think meeting you is the good divide in my life. I think what happened here, and what's going to happen after, I think it's the bad divide.”"
+    c "“我想，遇到你就是我人生中的好分界线。而在这里发生的事情，以及之后要发生的事情，是坏的分界线。”"
 
 # game/a3s1.rpy:1042
 translate Schinese a3s1_55159ef7:
@@ -4521,20 +4521,20 @@ translate Schinese a3s1_55159ef7:
 # game/a3s1.rpy:1043
 translate Schinese a3s1_f4bb29b2:
 
-    # d "\"I think we're gonna be okay, Cameron.\""
-    d "\"我们不会有事的，Cameron。\""
+    # d "“I think we're gonna be okay, Cameron.”"
+    d "“我们不会有事的，Cameron。”"
 
 # game/a3s1.rpy:1044
 translate Schinese a3s1_0b527699:
 
-    # c "\"Devon, whatever happens after this, I love you, and I'm so happy I met you.\""
-    c "\"不论之后还有什么，遇到你是我今生最大的幸运。我爱你，Devon。\""
+    # c "“Devon, whatever happens after this, I love you, and I'm so happy I met you.”"
+    c "“不论之后还有什么，遇到你是我今生最大的幸运。我爱你，Devon。”"
 
 # game/a3s1.rpy:1045
 translate Schinese a3s1_0c2595a3:
 
-    # d "\"Come on, you didn't have to say that first part. We made it. Okay? It's just... It's just a fork in the road.\""
-    d "\"前半句是没有必要的。咱们都熬到现在了，不是吗？还...还有一个岔路口。\""
+    # d "“Come on, you didn't have to say that first part. We made it. Okay? It's just... It's just a fork in the road.”"
+    d "“前半句是没有必要的。咱们都熬到现在了，不是吗？还...还有一个岔路口。”"
 
 # game/a3s1.rpy:1046
 translate Schinese a3s1_02e62bd7:
@@ -4545,26 +4545,26 @@ translate Schinese a3s1_02e62bd7:
 # game/a3s1.rpy:1047
 translate Schinese a3s1_02b09655:
 
-    # c "\"Oh, Devon, Artie is alive! He went to get us help, I think... I hope.\""
-    c "\"对了，Devon，Artie还活着！他去求救了，我觉得...希望是。\""
+    # c "“Oh, Devon, Artie is alive! He went to get us help, I think... I hope.”"
+    c "“对了，Devon，Artie还活着！他去求救了，我觉得...希望是。”"
 
 # game/a3s1.rpy:1048
 translate Schinese a3s1_6c767e27:
 
-    # d "\"What? How?\""
-    d "\"你怎么知道的？\""
+    # d "“What? How?”"
+    d "“你怎么知道的？”"
 
 # game/a3s1.rpy:1049
 translate Schinese a3s1_08068640:
 
-    # c "\"I don't know. He got shot, but he got away. Brian was pissed. He's hurt, but I think he made it.\""
-    c "\"我也不清楚。他中了一枪，不过有成功跑掉，Brian还因此发火了。虽然受了伤，不过我想他还活着。\""
+    # c "“I don't know. He got shot, but he got away. Brian was pissed. He's hurt, but I think he made it.”"
+    c "“我也不清楚。他中了一枪，不过有成功跑掉，Brian还因此发火了。虽然受了伤，不过我想他还活着。”"
 
 # game/a3s1.rpy:1050
 translate Schinese a3s1_99805544:
 
-    # d "\"Oh... Oh, that's...\""
-    d "\"啊...啊，这真是...\""
+    # d "“Oh... Oh, that's...”"
+    d "“啊...啊，这真是...”"
 
 # game/a3s1.rpy:1051
 translate Schinese a3s1_a23bcf62:
@@ -4629,8 +4629,8 @@ translate Schinese a3s1_0cbacbeb:
 # game/a3s1.rpy:1061
 translate Schinese a3s1_840377fa:
 
-    # d "\"Cameron, we are going to make it.\""
-    d "\"我们能搞定的，Cameron。\""
+    # d "“Cameron, we are going to make it.”"
+    d "“我们能搞定的，Cameron。”"
 
 # game/a3s1.rpy:1062
 translate Schinese a3s1_8dc1ac8d:
@@ -4665,14 +4665,14 @@ translate Schinese a3s1_4197110b:
 # game/a3s1.rpy:1068
 translate Schinese a3s1_9bd687da:
 
-    # c "\"Alright.\""
-    c "\"好。\""
+    # c "“Alright.”"
+    c "“好。”"
 
 # game/a3s1.rpy:1069
 translate Schinese a3s1_28ee3583:
 
-    # d "\"Alright, now let's get the hell out of here.\""
-    d "\"那么，就先离开这个鬼地方吧。\""
+    # d "“Alright, now let's get the hell out of here.”"
+    d "“那么，就先离开这个鬼地方吧。”"
 
 # game/a3s1.rpy:1072
 translate Schinese a3s1_fec97169:
@@ -4715,8 +4715,8 @@ translate Schinese a3s1_d4bbd480:
 # game/a3s1.rpy:148
 translate Schinese a3s1_7d362edc:
 
-    # b "\"Heh, not yet, kid. We got a few things to do first, and you probably wanna see your boyfriend too, eh?{w} Not sure you'll get to talk to him since he's knocked out.\""
-    b "\"当然没有，小子，咱俩还有笔账要算呐，再说你不想见你的小男友了？虽然他昏了过去，能吱一声就不错了。\""
+    # b "“Heh, not yet, kid. We got a few things to do first, and you probably wanna see your boyfriend too, eh?{w} Not sure you'll get to talk to him since he's knocked out.”"
+    b "“当然没有，小子，咱俩还有笔账要算呐，再说你不想见你的小男友了？虽然他昏了过去，能吱一声就不错了。”"
 
 # game/a3s1.rpy:182
 translate Schinese a3s1_1296d745:
@@ -4871,20 +4871,20 @@ translate Schinese a3s1_44b05237:
 # game/a3s1.rpy:294
 translate Schinese a3s1_1816929b:
 
-    # b "\"You're cute, but not that cute, and I'm not that stupid.{w} I hate fags like you, sucking up and sucking dick so you get what you really want.\""
-    b "\"你很可爱，但没那么可爱，我也没那么蠢。{w}我最讨厌你这样的小基佬，又是拍马屁，又是献殷勤的，其实心里全他妈是小九九。\""
+    # b "“You're cute, but not that cute, and I'm not that stupid.{w} I hate fags like you, sucking up and sucking dick so you get what you really want.”"
+    b "“你很可爱，但没那么可爱，我也没那么蠢。{w}我最讨厌你这样的小基佬，又是拍马屁，又是献殷勤的，其实心里全他妈是小九九。”"
 
 # game/a3s1.rpy:312
 translate Schinese a3s1_77f09aab:
 
-    # c "\"No, no! Stop, I can walk with you.{w} I won't try to run--{w=0.4}{nw}"
-    c "\"不，不要！我会乖乖跟着你的，{w}我不会逃跑-{w=0.4}{nw}"
+    # c "“No, no! Stop, I can walk with you.{w} I won't try to run--{w=0.4}{nw}"
+    c "“不，不要！我会乖乖跟着你的，{w}我不会逃跑-{w=0.4}{nw}"
 
 # game/a3s1.rpy:313
 translate Schinese a3s1_37dc7b61:
 
-    # extend " OW!\"" with vpunch
-    extend "{b}嗷{/b}\"" with vpunch
+    # extend " OW!”" with vpunch
+    extend "{b}嗷{/b}”" with vpunch
 
 # game/a3s1.rpy:314
 translate Schinese a3s1_591d72b5:
@@ -4913,14 +4913,14 @@ translate Schinese a3s1_d5c5b376:
 # game/a3s1.rpy:340
 translate Schinese a3s1_007950bc:
 
-    # b "\"That cat! I swear I shot him twice, too.{w} Then again, he didn't do that weird jerking thing people do when you give 'em the kill shot, so I must've missed the second time.\""
-    b "\"那只猫！我发誓朝他开了两枪。{w}不过话说回来，开第二枪的时候确实没见他抽搐来着，大概射空了。\""
+    # b "“That cat! I swear I shot him twice, too.{w} Then again, he didn't do that weird jerking thing people do when you give 'em the kill shot, so I must've missed the second time.”"
+    b "“那只猫！我发誓朝他开了两枪。{w}不过话说回来，开第二枪的时候确实没见他抽搐来着，大概射空了。”"
 
 # game/a3s1.rpy:341
 translate Schinese a3s1_35cf787d:
 
-    # b "\"Thought maybe I'd just killed him with the first.\""
-    b "\"我还以为一枪能结果了他呢。\""
+    # b "“Thought maybe I'd just killed him with the first.”"
+    b "“我还以为一枪能结果了他呢。”"
 
 # game/a3s1.rpy:357
 translate Schinese a3s1_b28cb7dc:
@@ -4949,14 +4949,14 @@ translate Schinese a3s1_ff80fccb:
 # game/a3s1.rpy:410
 translate Schinese a3s1_bd816e27:
 
-    # c "\"{i}Artie, please...{/i}\""
-    c "\"{b}拜托你了，Artie...{/b}\""
+    # c "“{i}Artie, please...{/i}”"
+    c "“{b}拜托你了，Artie...{/b}”"
 
 # game/a3s1.rpy:411
 translate Schinese a3s1_e21a26c1:
 
-    # a "\"C-c-cam?\""
-    a "\"C-c-cam？\""
+    # a "“C-c-cam?”"
+    a "“C-c-cam？”"
 
 # game/a3s1.rpy:412
 translate Schinese a3s1_c88c11e5:
@@ -4979,44 +4979,44 @@ translate Schinese a3s1_1121e567:
 # game/a3s1.rpy:429
 translate Schinese a3s1_b8dfd902:
 
-    # unk "\"I told you guys to fuck off! First the fuckin' bar is closed because of some fuckin' cold, and now you're still here to fuck with me? I just wanna {i}cunting{/i} drink to {i}cunting{/i} relax!\""
-    unk "\"老子叫你快滚！先是酒吧因为流感关了，又遇见你这么个听不懂人话的傻逼？老子不就想喝一杯吗！\""
+    # unk "“I told you guys to fuck off! First the fuckin' bar is closed because of some fuckin' cold, and now you're still here to fuck with me? I just wanna {i}cunting{/i} drink to {i}cunting{/i} relax!”"
+    unk "“老子叫你快滚！先是酒吧因为流感关了，又遇见你这么个听不懂人话的傻逼？老子不就想喝一杯吗！”"
 
 # game/a3s1.rpy:438
 translate Schinese a3s1_3539685d:
 
-    # 鼬 "\"What happened to you?\""
-    "鼬" "\"你有毛病啊？\""
+    # 鼬 "“What happened to you?”"
+    "鼬" "“你有毛病啊？”"
 
 # game/a3s1.rpy:441
 translate Schinese a3s1_dea9a264:
 
-    # 鼬 "\"Shit, there's no way! He couldn't be that fucking...\""
-    "鼬" "\"操！不会吧！这小子难道是...\""
+    # 鼬 "“Shit, there's no way! He couldn't be that fucking...”"
+    "鼬" "“操！不会吧！这小子难道是...”"
 
 # game/a3s1.rpy:443
 translate Schinese a3s1_1f06f8e5:
 
-    # 鼬 "\"Who did this?\""
-    "鼬" "\"这是谁干的？\""
+    # 鼬 "“Who did this?”"
+    "鼬" "“这是谁干的？”"
 
 # game/a3s1.rpy:448
 translate Schinese a3s1_400ab07c:
 
-    # 鼬 "\"Bar? Yeah, I was at the bar. It's closed.\""
-    "鼬" "\"酒吧？啊，我刚从那回来，那儿已经歇业了。\""
+    # 鼬 "“Bar? Yeah, I was at the bar. It's closed.”"
+    "鼬" "“酒吧？啊，我刚从那回来，那儿已经歇业了。”"
 
 # game/a3s1.rpy:451
 translate Schinese a3s1_9ff50708:
 
-    # 鼬 "\"Bear? Brian?\""
-    "鼬" "\"熊？Brian？\""
+    # 鼬 "“Bear? Brian?”"
+    "鼬" "“熊？Brian？”"
 
 # game/a3s1.rpy:454
 translate Schinese a3s1_29d2f010:
 
-    # 鼬 "\"Damn, you're real fucked up aren't ya?\""
-    "鼬" "\"操，你知不知道你惹上了多大的麻烦？\""
+    # 鼬 "“Damn, you're real fucked up aren't ya?”"
+    "鼬" "“操，你知不知道你惹上了多大的麻烦？”"
 
 # game/a3s1.rpy:455
 translate Schinese a3s1_2560a5bb:
@@ -5033,20 +5033,20 @@ translate Schinese a3s1_094d4e6b:
 # game/a3s1.rpy:460
 translate Schinese a3s1_ff2d7ec1:
 
-    # 鼬 "\"Well, I'll be damned. This is it, then, isn't it? That stupid motherfucker.{w} All right, get in. We're going to the hospital.\""
-    "鼬" "\"算了，我就当自认倒霉了。那个没脑子的瘪三。{w}上车，咱们去医院。\""
+    # 鼬 "“Well, I'll be damned. This is it, then, isn't it? That stupid motherfucker.{w} All right, get in. We're going to the hospital.”"
+    "鼬" "“算了，我就当自认倒霉了。那个没脑子的瘪三。{w}上车，咱们去医院。”"
 
 # game/a3s1.rpy:465
 translate Schinese a3s1_38a41b8b:
 
-    # 鼬 "\"Jesus Christ, this is really makin' me not wanna do what I'm gonna have to do after this. But ya know, everything's gotta end eventually.\""
-    "鼬" "\"老天爷啊。虽然我不想那么做，不过嘛，一切都有结束的一天。\""
+    # 鼬 "“Jesus Christ, this is really makin' me not wanna do what I'm gonna have to do after this. But ya know, everything's gotta end eventually.”"
+    "鼬" "“老天爷啊。虽然我不想那么做，不过嘛，一切都有结束的一天。”"
 
 # game/a3s1.rpy:468
 translate Schinese a3s1_8817e2a9:
 
-    # 鼬 "\"Yeah, yeah, I'll call Payton PD... once I drop ya off. Gotta make sure I can beat 'em back, though.\""
-    "鼬" "\"知道，知道，我会打给佩顿警察局的...等送你到医院之后。不过，我还得想个法子把他们怼回去。\""
+    # 鼬 "“Yeah, yeah, I'll call Payton PD... once I drop ya off. Gotta make sure I can beat 'em back, though.”"
+    "鼬" "“知道，知道，我会打给佩顿警察局的...等送你到医院之后。不过，我还得想个法子把他们怼回去。”"
 
 # game/a3s1.rpy:470
 translate Schinese a3s1_3ce57452:
@@ -5069,44 +5069,44 @@ translate Schinese a3s1_22eb2fe4:
 # game/a3s1.rpy:500
 translate Schinese a3s1_491934ac:
 
-    # d "\"Cameron? Whu-Wha's it? Wha's wrong?\""
-    d "\"Cameron？怎-怎么了？发生什么了？\""
+    # d "“Cameron? Whu-Wha's it? Wha's wrong?”"
+    d "“Cameron？怎-怎么了？发生什么了？”"
 
 # game/a3s1.rpy:501
 translate Schinese a3s1_b7fe7b16:
 
-    # b "\"I told you, he's all drugged up.\""
-    b "\"我不是告诉你了吗，他被药倒了。\""
+    # b "“I told you, he's all drugged up.”"
+    b "“我不是告诉你了吗，他被药倒了。”"
 
 # game/a3s1.rpy:504
 translate Schinese a3s1_1095ca0e:
 
-    # b "\"Exactly, I already told you I roofied him. It's like blacking out.{w} Anyway, it's wearing off. He's just tired.\""
-    b "\"当然了，像断了片似的。{w}总之，药效应该快过去了，他只是没睡够。\""
+    # b "“Exactly, I already told you I roofied him. It's like blacking out.{w} Anyway, it's wearing off. He's just tired.”"
+    b "“当然了，像断了片似的。{w}总之，药效应该快过去了，他只是没睡够。”"
 
 # game/a3s1.rpy:505
 translate Schinese a3s1_372bb0ea:
 
-    # c "\"Is that blood?{w=0.3} Why is he bleeding!?\""
-    c "\"那是血？{w=0.3}他为什么在流血？！\""
+    # c "“Is that blood?{w=0.3} Why is he bleeding!?”"
+    c "“那是血？{w=0.3}他为什么在流血？！”"
 
 # game/a3s1.rpy:506
 translate Schinese a3s1_131d98a7:
 
-    # b "\"Did it to himself. Imagine what a mess we'd have if he wasn't drugged, right?{w} Never trust a bear to stay put when you chain 'em up.\""
-    b "\"那是他自找的。看吧，要是没下药，咱们可就有大麻烦了不是吗？{w}千万别指望你能把一头熊老老实实拴起来。\""
+    # b "“Did it to himself. Imagine what a mess we'd have if he wasn't drugged, right?{w} Never trust a bear to stay put when you chain 'em up.”"
+    b "“那是他自找的。看吧，要是没下药，咱们可就有大麻烦了不是吗？{w}千万别指望你能把一头熊老老实实拴起来。”"
 
 # game/a3s1.rpy:523
 translate Schinese a3s1_7c8aa7f1:
 
-    # b "\"Looks like it did wear off just in time.\""
-    b "\"还真是时候。\""
+    # b "“Looks like it did wear off just in time.”"
+    b "“还真是时候。”"
 
 # game/a3s1.rpy:524
 translate Schinese a3s1_744dba43:
 
-    # c "\"Can I go to him... Please?\""
-    c "\"我能去他那里吗...求你了？\""
+    # c "“Can I go to him... Please?”"
+    c "“我能去他那里吗...求你了？”"
 
 # game/a3s1.rpy:550
 translate Schinese a3s1_4bf0c26a:
@@ -5135,14 +5135,14 @@ translate Schinese a3s1_550e6551:
 # game/a3s1.rpy:565
 translate Schinese a3s1_81b300e0:
 
-    # d "\"Cam?{w=0.3} CAM!\""
-    d "\"Cam？{w=0.3}{b}CAM!{/b}\""
+    # d "“Cam?{w=0.3} CAM!”"
+    d "“Cam？{w=0.3}{b}CAM!{/b}”"
 
 # game/a3s1.rpy:573
 translate Schinese a3s1_b98879df:
 
-    # b "\"Whoops, took out a bit more on him than I meant to, heh. Fuck, that hurt!\""
-    b "\"喔哦，好像太用力了。操，还真他娘的疼！\""
+    # b "“Whoops, took out a bit more on him than I meant to, heh. Fuck, that hurt!”"
+    b "“喔哦，好像太用力了。操，还真他娘的疼！”"
 
 # game/a3s1.rpy:574
 translate Schinese a3s1_3c4630df:
@@ -5153,14 +5153,14 @@ translate Schinese a3s1_3c4630df:
 # game/a3s1.rpy:579
 translate Schinese a3s1_791eddd6:
 
-    # d "\"BRIAN!{w=0.3} I will fucking kill you!\""
-    d "\"{b}BRIAN！{/b}{w=0.3}我要宰了你！\""
+    # d "“BRIAN!{w=0.3} I will fucking kill you!”"
+    d "“{b}BRIAN！{/b}{w=0.3}我要宰了你！”"
 
 # game/a3s1.rpy:603
 translate Schinese a3s1_c39b6636:
 
-    # d "\"Don't you touch him!{w=0.3} You could have broken his fucking neck!\""
-    d "\"再碰他一下试试！{w=0.3}你这个混蛋差点扭断他的脖子！\""
+    # d "“Don't you touch him!{w=0.3} You could have broken his fucking neck!”"
+    d "“再碰他一下试试！{w=0.3}你这个混蛋差点扭断他的脖子！”"
 
 # game/a3s1.rpy:615
 translate Schinese a3s1_968e0614:
@@ -5201,8 +5201,8 @@ translate Schinese a3s1_e96ededd:
 # game/a3s1.rpy:736
 translate Schinese a3s1_0d6f1a9d:
 
-    # b "\"You gettin' some third man syndrome? Whenever I get real fucked up on too many drugs for too long, a person always shows up. I end up having a conversation with 'em and everything.\""
-    b "\"你还得了那什么第三人综合征？我嗑药嗑太久的话也会出现个家伙，跟我谈啊、谈啊。\""
+    # b "“You gettin' some third man syndrome? Whenever I get real fucked up on too many drugs for too long, a person always shows up. I end up having a conversation with 'em and everything.”"
+    b "“你还得了那什么第三人综合征？我嗑药嗑太久的话也会出现个家伙，跟我谈啊、谈啊。”"
 
 # game/a3s1.rpy:751
 translate Schinese a3s1_8a55f7b0:
@@ -5219,14 +5219,14 @@ translate Schinese a3s1_52837f7e:
 # game/a3s1.rpy:768
 translate Schinese a3s1_b9e4e638:
 
-    # c "\"Wait, please don't--\""
-    c "\"等等，请不要—\""
+    # c "“Wait, please don't--”"
+    c "“等等，请不要—”"
 
 # game/a3s1.rpy:770
 translate Schinese a3s1_0c05a9bf:
 
-    # c "\"Agh!\""
-    c "\"啊！\""
+    # c "“Agh!”"
+    c "“啊！”"
 
 # game/a3s1.rpy:771
 translate Schinese a3s1_8ba4af8f:
@@ -5393,8 +5393,8 @@ translate Schinese a3s1_c1669f25:
 # game/a3s1.rpy:870
 translate Schinese a3s1_ee987c28:
 
-    # b "\"Xanax is like magic when you're panicking.{w} Anyway, what is it that you do for a living, did it all pay off?\""
-    b "\"阿普唑仑在镇定方面有奇效。{w}说起来，你靠什么赚钱？是全薪吗？\""
+    # b "“Xanax is like magic when you're panicking.{w} Anyway, what is it that you do for a living, did it all pay off?”"
+    b "“阿普唑仑在镇定方面有奇效。{w}说起来，你靠什么赚钱？是全薪吗？”"
 
 # game/a3s1.rpy:871
 translate Schinese a3s1_7325d4b5:
@@ -5423,8 +5423,8 @@ translate Schinese a3s1_f0a2e5c2:
 # game/a3s1.rpy:898
 translate Schinese a3s1_b678052b:
 
-    # b "\"Heh, you're a walkin', talkin' stereotype, aren't ya? You write your own music?\""
-    b "\"呵呵，这就是你的刻板印象了。你有过自己写歌吗？\""
+    # b "“Heh, you're a walkin', talkin' stereotype, aren't ya? You write your own music?”"
+    b "“呵呵，这就是你的刻板印象了。你有过自己写歌吗？”"
 
 # game/a3s1.rpy:918
 translate Schinese a3s1_74c8ebe8:
@@ -5459,14 +5459,14 @@ translate Schinese a3s1_115fe6c0:
 # game/a3s1.rpy:982
 translate Schinese a3s1_4555a1c7:
 
-    # d "\"Cam!{w=0.3} BRIAN!\""
-    d "\"Cam！{w=0.3}{b}BRIAN！{/b}\""
+    # d "“Cam!{w=0.3} BRIAN!”"
+    d "“Cam！{w=0.3}{b}BRIAN！{/b}”"
 
 # game/a3s1.rpy:1006
 translate Schinese a3s1_4c45cbcd:
 
     # "Cameron turns up his singing a notch, knowing that this is their destination, the end of the road."
-    "Cameron他更加卖力地唱着，他知道这条路的尽头就是他们的目的地了。"
+    "Cameron更加卖力地唱着，他知道这条路的尽头就是他们的目的地了。"
 
 # game/a3s1.rpy:1030
 translate Schinese a3s1_fded8c7a:
@@ -5483,8 +5483,8 @@ translate Schinese a3s1_afa5787a:
 # game/a3s1.rpy:1057
 translate Schinese a3s1_eaecfd65:
 
-    # c "\"No,{w=0.3} stop!{w=0.3} Please!\""
-    c "\"不要，{w=0.3}求求你！{w=0.3}不要！\""
+    # c "“No,{w=0.3} stop!{w=0.3} Please!”"
+    c "“不要，{w=0.3}求求你！{w=0.3}不要！”"
 
 # game/a3s1.rpy:1062
 translate Schinese a3s1_4a1b3c26:
@@ -5495,8 +5495,8 @@ translate Schinese a3s1_4a1b3c26:
 # game/a3s1.rpy:1063
 translate Schinese a3s1_26144632:
 
-    # d "\"Cam!{w=0.3} BRIAN!\"" with vpunch
-    d "\"Cam！{w=0.3}{b}BRIAN！{/b}\"" with vpunch
+    # d "“Cam!{w=0.3} BRIAN!”" with vpunch
+    d "“Cam！{w=0.3}{b}BRIAN！{/b}”" with vpunch
 
 # game/a3s1.rpy:1070
 translate Schinese a3s1_a339cd30:
@@ -5507,8 +5507,8 @@ translate Schinese a3s1_a339cd30:
 # game/a3s1.rpy:1086
 translate Schinese a3s1_d75f87ec:
 
-    # c "\"No.{cps=3}..{/cps}{w=0.4} No...{w=0.3} No,{w=0.2} no,{w=0.2} no,{w=0.2} please don't do this!{w} I can't...{w=0.3} I can't--\""
-    c "\"不{cps=3}...{/cps}{w=0.4}不...{w=0.3}不，{w=0.2}不，{w=0.2}不，{w=0.2}求求你别这样！{w}我不能...{w=0.3}不能-\""
+    # c "“No.{cps=3}..{/cps}{w=0.4} No...{w=0.3} No,{w=0.2} no,{w=0.2} no,{w=0.2} please don't do this!{w} I can't...{w=0.3} I can't--”"
+    c "“不{cps=3}...{/cps}{w=0.4}不...{w=0.3}不，{w=0.2}不，{w=0.2}不，{w=0.2}求求你别这样！{w}我不能...{w=0.3}不能-”"
 
 # game/a3s1.rpy:1087
 translate Schinese a3s1_3f6a74dc:
@@ -5525,8 +5525,8 @@ translate Schinese a3s1_734c8635:
 # game/a3s1.rpy:1106
 translate Schinese a3s1_2f6f3a82:
 
-    # c "\"I know what it can be like, walking in circles for most of your life, making the same stupid mistakes and knowing what you need to do to get better, and just never doing it.\""
-    c "\"我理解你，你大半辈子时间都在原地打转，不断犯下同一个愚蠢的错误。你知道如何才能变得更好，可就是迈不出那一步。\""
+    # c "“I know what it can be like, walking in circles for most of your life, making the same stupid mistakes and knowing what you need to do to get better, and just never doing it.”"
+    c "“我理解你，你大半辈子时间都在原地打转，不断犯下同一个愚蠢的错误。你知道如何才能变得更好，可就是迈不出那一步。”"
 
 # game/a3s1.rpy:1149
 translate Schinese a3s1_7fba7617:
@@ -5550,7 +5550,7 @@ translate Schinese a3s1_7f51961a:
 translate Schinese a3s1_4dc5fbc5:
 
     # "Brian, clearly aware of how bad the situation could become for him, lets go of the shotgun so he can turn around and throw a knee up into Devon's hunched form, an inch above the navel, almost the exact spot he'd hit earlier."
-    "意识到问题的严重性，Brian干脆放弃了猎枪，这样他就能转过身去，用膝盖去撞Devon蜷曲的身体，就在在肚脐上方一英寸处，刚才枪托击中的地方。"
+    "意识到问题的严重性，Brian干脆放弃了猎枪，这样他就能转过身去，用膝盖去撞Devon蜷曲的身体，就在肚脐上方一英寸处，刚才枪托击中的地方。"
 
 # game/a3s1.rpy:1162
 translate Schinese a3s1_30e2a13f:
@@ -5760,7 +5760,7 @@ translate Schinese a3s1_7d58618a:
 translate Schinese a3s1_00a40777:
 
     # "Devon has never had a broken bone in his life."
-    "Devon就未曾过骨折的滋味。"
+    "Devon就未曾尝过骨折的滋味。"
 
 # game/a3s1.rpy:1307
 translate Schinese a3s1_cda7727c:
@@ -5801,14 +5801,14 @@ translate Schinese a3s1_e6f82dc1:
 # game/a3s1.rpy:1336
 translate Schinese a3s1_6f90b98b:
 
-    # d "\"Need to get you out of here. Shit, whe--\""
-    d "\"我要先带你出去。该死，什-\""
+    # d "“Need to get you out of here. Shit, whe--”"
+    d "“我要先带你出去。该死，什-”"
 
 # game/a3s1.rpy:1338
 translate Schinese a3s1_bdf1db4d:
 
-    # d "\"UNGH!\"" with hpunch
-    d "\"{b}呃啊！{/b}\"" with hpunch
+    # d "“UNGH!”" with hpunch
+    d "“{b}呃啊！{/b}”" with hpunch
 
 # game/a3s1.rpy:1339
 translate Schinese a3s1_a6598e4c:
@@ -5831,8 +5831,8 @@ translate Schinese a3s1_d11e5271:
 # game/a3s1.rpy:1357
 translate Schinese a3s1_0620a889:
 
-    # b "\"Don't.{cps=3}..{/cps}{w=0.4} Don't you fucking move.{w=0.3} You got that?{w} This is over. I'm killing that yote in front of you, and then I'm ripping your fucking arm off, boy!\""
-    b "\"再{cps=3}...{/cps}{w=0.4}再他妈动一下试试啊？到此为止了，我要当着你的面杀了那只狼崽子，再把你的胳膊扯下来！\""
+    # b "“Don't.{cps=3}..{/cps}{w=0.4} Don't you fucking move.{w=0.3} You got that?{w} This is over. I'm killing that yote in front of you, and then I'm ripping your fucking arm off, boy!”"
+    b "“再{cps=3}...{/cps}{w=0.4}再他妈动一下试试啊？到此为止了，我要当着你的面杀了那只狼崽子，再把你的胳膊扯下来！”"
 
 # game/a3s1.rpy:1358
 translate Schinese a3s1_e20a64cd:
@@ -5843,8 +5843,8 @@ translate Schinese a3s1_e20a64cd:
 # game/a3s1.rpy:1359
 translate Schinese a3s1_e594ff27:
 
-    # b "\"Pity you ain't half as cute as the pup.\""
-    b "\"可惜，你还没有那只狗崽一半可爱。\""
+    # b "“Pity you ain't half as cute as the pup.”"
+    b "“可惜，你还没有那只狗崽一半可爱。”"
 
 # game/a3s1.rpy:1363
 translate Schinese a3s1_99f4d934:
@@ -5855,8 +5855,8 @@ translate Schinese a3s1_99f4d934:
 # game/a3s1.rpy:1364
 translate Schinese a3s1_a241471e:
 
-    # b "\"God, you fucking ruined it! He was perfectly fine 'till you showed up. Now he's fuckin' fucked up to the point he's not even fuckable!\""
-    b "\"你把一切都毁了！在你出现之前他明明那么乖，现在被搞成这副德行，谁他妈下得去屌啊！\""
+    # b "“God, you fucking ruined it! He was perfectly fine 'till you showed up. Now he's fuckin' fucked up to the point he's not even fuckable!”"
+    b "“你把一切都毁了！在你出现之前他明明那么乖，现在被搞成这副德行，谁他妈下得去屌啊！”"
 
 # game/a3s1.rpy:1367
 translate Schinese a3s1_18068b7a:
@@ -5903,8 +5903,8 @@ translate Schinese a3s1_1fe1a662:
 # game/a3s1.rpy:1413
 translate Schinese a3s1_c2765df6:
 
-    # d "\"Cameron!{w=0.3} Cameron?\""
-    d "\"Cameron！{w=0.3}Cameron？\""
+    # d "“Cameron!{w=0.3} Cameron?”"
+    d "“Cameron！{w=0.3}Cameron？”"
 
 # game/a3s1.rpy:1415
 translate Schinese a3s1_f86e4f0f:
@@ -5927,14 +5927,14 @@ translate Schinese a3s1_23709998:
 # game/a3s1.rpy:1433
 translate Schinese a3s1_93e1940e:
 
-    # b "\"Oh fuck.{cps=3}..{/cps}{w=0.4} Oh fuck...\""
-    b "\"操{cps=3}...{/cps}{w=0.4}操...\""
+    # b "“Oh fuck.{cps=3}..{/cps}{w=0.4} Oh fuck...”"
+    b "“操{cps=3}...{/cps}{w=0.4}操...”"
 
 # game/a3s1.rpy:1435
 translate Schinese a3s1_79c8f650:
 
-    # b "\"Oh no, that was it?{w=0.3} Is this it?{w=0.3} What the fuck?\""
-    b "\"不，难道是？{w=0.3}是它？{w=0.3}搞什么？\""
+    # b "“Oh no, that was it?{w=0.3} Is this it?{w=0.3} What the fuck?”"
+    b "“不，难道是？{w=0.3}是它？{w=0.3}搞什么？”"
 
 # game/a3s1.rpy:1439
 translate Schinese a3s1_8a79c524:
@@ -5957,20 +5957,20 @@ translate Schinese a3s1_0cb32a83:
 # game/a3s1.rpy:1504
 translate Schinese a3s1_d8359877:
 
-    # c "\"The shotgun blew out my hearing, so I'm not... I'm not really sure.\""
-    c "\"我的耳朵被猎枪震聋了，听...听不清楚。\""
+    # c "“The shotgun blew out my hearing, so I'm not... I'm not really sure.”"
+    c "“我的耳朵被猎枪震聋了，听...听不清楚。”"
 
 # game/a3s1.rpy:1512
 translate Schinese a3s1_1cada781:
 
-    # c "\"Oh.{cps=3}..{/cps}{w=0.4} Mom,{w=0.3} I found it.\""
-    c "\"啊{cps=3}...{/cps}{w=0.4}我找到了，{w=0.3}妈妈。\""
+    # c "“Oh.{cps=3}..{/cps}{w=0.4} Mom,{w=0.3} I found it.”"
+    c "“啊{cps=3}...{/cps}{w=0.4}我找到了，{w=0.3}妈妈。”"
 
 # game/a3s1.rpy:1516
 translate Schinese a3s1_40f73b41:
 
-    # c "\"You know how something can happen that's so impactful, it splits your life in two? Like, you see life as before, and after that moment. It can be good or bad.\""
-    c "\"知道吗？有些事情，或好或坏，它的影响是那么深远，足以把你的人生切割成两段。那之前的，与那之后的。\""
+    # c "“You know how something can happen that's so impactful, it splits your life in two? Like, you see life as before, and after that moment. It can be good or bad.”"
+    c "“知道吗？有些事情，或好或坏，它的影响是那么深远，足以把你的人生切割成两段。那之前的，与那之后的。”"
 
 # game/a3s1.rpy:1517
 translate Schinese a3s1_44c889ac:
@@ -6017,8 +6017,8 @@ translate Schinese a3s1_66b2c01e:
 # game/a3s1.rpy:1533
 translate Schinese a3s1_c50e47cb:
 
-    # d "\"Oh.{cps=3}..{/cps}{w=0.4} Oh,{w=0.3} that's...\""
-    d "\"啊{cps=3}...{/cps}{w=0.4}啊，{w=0.3}这真是...\""
+    # d "“Oh.{cps=3}..{/cps}{w=0.4} Oh,{w=0.3} that's...”"
+    d "“啊{cps=3}...{/cps}{w=0.4}啊，{w=0.3}这真是...”"
 
 # game/a3s1.rpy:1534
 translate Schinese a3s1_16fbdce9:
@@ -6065,8 +6065,8 @@ translate Schinese a3s1_e52f2526:
 # game/a3s1.rpy:1551
 translate Schinese a3s1_84820cda:
 
-    # d "\"Alright,{w=0.3} now let's get the hell out of here.\""
-    d "\"那么，{w=0.3}就先离开这个鬼地方吧。\""
+    # d "“Alright,{w=0.3} now let's get the hell out of here.”"
+    d "“那么，{w=0.3}就先离开这个鬼地方吧。”"
 
 # game/a3s1.rpy:1564
 translate Schinese a3s1_3972b060:
@@ -6091,8 +6091,8 @@ translate Schinese a3s1_1d59b6d8:
 # game/a3s1.rpy:119
 translate Schinese a3s1_6e8ee11b:
 
-    # "Weasel" "\"Jesus Christ, this is really makin' me not wanna do what I'm gonna have to do after this. But ya know, everything's gotta end eventually.\""
-    "Weasel" "\"老天爷啊。虽然我不想那么做，不过嘛，一切都有结束的那天。\""
+    # "Weasel" "“Jesus Christ, this is really makin' me not wanna do what I'm gonna have to do after this. But ya know, everything's gotta end eventually.”"
+    "Weasel" "“老天爷啊。虽然我不想那么做，不过嘛，一切都有结束的那天。”"
 
 # game/a3s1.rpy:269
 translate Schinese a3s1_8c2ea207:
@@ -6109,20 +6109,20 @@ translate Schinese a3s1_2b6e9487:
 # game/a3s1.rpy:444
 translate Schinese a3s1_af19205b:
 
-    # c "\"Wait, please don't-- Agh!\""
-    c "\"等等，请不要——啊！\""
+    # c "“Wait, please don't-- Agh!”"
+    c "“等等，请不要——啊！”"
 
 # game/a3s1.rpy:496
 translate Schinese a3s1_bbb37bd1:
 
-    # c "\"No, stop! Please!\""
-    c "\"不要，求求你不要！\""
+    # c "“No, stop! Please!”"
+    c "“不要，求求你不要！”"
 
 # game/a3s1.rpy:753
 translate Schinese a3s1_acbe6a4b:
 
-    # c "\"No... No... No, no, no, please don't do this! I can't... I can't--\""
-    c "\"不，不，不，不，不，求求你别这样！我不能..不能-\""
+    # c "“No... No... No, no, no, please don't do this! I can't... I can't--”"
+    c "“不，不，不，不，不，求求你别这样！我不能..不能-”"
 
 # game/a3s1.rpy:773
 translate Schinese a3s1_46f4008b:
@@ -6181,8 +6181,8 @@ translate Schinese a3s1_1f4dad5a:
 # game/a3s1.rpy:949
 translate Schinese a3s1_ecb27387:
 
-    # d "\"Need to get you out of here. Just let me see--\""
-    d "\"我要先带你出去，让我看看-\""
+    # d "“Need to get you out of here. Just let me see--”"
+    d "“我要先带你出去，让我看看-”"
 
 # game/a3s1.rpy:963
 translate Schinese a3s1_bb57fe10:
@@ -6193,14 +6193,14 @@ translate Schinese a3s1_bb57fe10:
 # game/a3s1.rpy:967
 translate Schinese a3s1_1917bb64:
 
-    # b "\"God, you fucking ruined it! He was perfectly fine 'till you showed up. Now he's fuckin' mangled to the point he's not even fuckable!\""
-    b "\"你把一切都毁了！在你出现之前他明明那么乖，现在变成这副德行，都没法下屌了！\""
+    # b "“God, you fucking ruined it! He was perfectly fine 'till you showed up. Now he's fuckin' mangled to the point he's not even fuckable!”"
+    b "“你把一切都毁了！在你出现之前他明明那么乖，现在变成这副德行，都没法下屌了！”"
 
 # game/a3s1.rpy:979
 translate Schinese a3s1_80009c2d:
 
-    # b "\"Oh no, that was it? Is this it? What the fuck?\""
-    b "\"不，难道是？是它？搞什么？\""
+    # b "“Oh no, that was it? Is this it? What the fuck?”"
+    b "“不，难道是？是它？搞什么？”"
 
 # TODO: Translation updated at 2023-02-06 19:13
 
@@ -6253,8 +6253,8 @@ translate Schinese a3s1_9e8478d3:
 # game/a3s1.rpy:865
 translate Schinese a3s1_5d63ce77:
 
-    # c "\"Oh, I am, I definitely am, it's... I don't know. I have more control than I did the first time I tried it.\""
-    c "\"是、是啊，具体我也不清楚...但相比起第一次，这次我更能保持理智。\""
+    # c "“Oh, I am, I definitely am, it's... I don't know. I have more control than I did the first time I tried it.”"
+    c "“是、是啊，具体我也不清楚...但相比起第一次，这次我更能保持理智。”"
 
 # game/a3s1.rpy:1218
 translate Schinese a3s1_5d297e9c:
