@@ -3880,7 +3880,7 @@ translate Schinese nikroute3_5c7c32fa:
 translate Schinese nikroute3_2ba59a71:
 
     # ni "\"I want to spend the rest of my life with you.\""
-    ni "“我想要和你一起度过余生。”"
+    ni "“我想和你一起终老。”"
 
 # game/nikroute3.rpy:1040
 translate Schinese nikroute3_6c2d80c7:
@@ -3910,7 +3910,7 @@ translate Schinese nikroute3_59195978:
 translate Schinese nikroute3_ec2351d9:
 
     # ni "\"There is no marriage for people like you and me.\""
-    ni "“我们这种人是不能结婚的。”"
+    ni "“我们这种人是没办法结婚的。”"
 
 # game/nikroute3.rpy:1046
 translate Schinese nikroute3_b7aa9503:
@@ -3928,7 +3928,7 @@ translate Schinese nikroute3_2ba59a71_1:
 translate Schinese nikroute3_df151fcb:
 
     # ni "\"No matter what that condition entails.\""
-    ni "“无论贫富贵贱。”"
+    ni "“无论贫富还是贵贱。”"
 
 # game/nikroute3.rpy:1050
 translate Schinese nikroute3_90bdce67:
