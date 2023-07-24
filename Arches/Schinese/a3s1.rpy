@@ -1876,7 +1876,7 @@ translate Schinese a3s1_4330a5a4:
 translate Schinese a3s1_e7398ee0:
 
     # "He's exhausted, having not eaten a proper meal in well over a day, and his throat is so dry, he thinks he might be willing to drink Brian's drugged water."
-    "他已经筋疲力尽，一天多没吃过一顿像样的饭了。不仅如此，他还渴得要命，就连Brian馋了麻药的水对他而言都犹如甘霖。"
+    "他已经筋疲力尽，一天多没吃过一顿像样的饭了。不仅如此，他还渴得要命，就连Brian掺了麻药的水对他而言都犹如甘霖。"
 
 # game/a3s1.rpy:412
 translate Schinese a3s1_26a899fe:
