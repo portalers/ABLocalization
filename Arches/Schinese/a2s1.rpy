@@ -22,7 +22,7 @@ translate Schinese a2s1_64fe705f:
 translate Schinese a2s1_5bd379e4:
 
     # "When he learned to ignore it, it just sort of blended into the background, and he almost stopped noticing it."
-    "后来随着他学会无视，它也渐渐失去了存在感，几乎不再引起他的主意。"
+    "后来随着他学会无视，它也渐渐失去了存在感，几乎不再引起他的注意。"
 
 # game/a2s1.rpy:9
 translate Schinese a2s1_f9b8e05c:
