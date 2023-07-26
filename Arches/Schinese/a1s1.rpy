@@ -4148,7 +4148,7 @@ translate Schinese a1s1_4db752fd:
 translate Schinese a1s1_d0c0d3fe:
 
     # c "“You know better than to say that. Just because I'm built for it doesn't mean I have to like it.”"
-    c "“少来。天性如此，并不意味我着一点要喜欢。”"
+    c "“少来。天性如此，并不意味我着一定要喜欢。”"
 
 # game/a1s1.rpy:129
 translate Schinese a1s1_2b134e47:
