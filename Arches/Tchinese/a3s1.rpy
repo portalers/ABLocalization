@@ -292,7 +292,7 @@ translate Tchinese a3s1_af9dd8c0:
 translate Tchinese a3s1_20b90c66:
 
     # centertext "Even the bugs crawling beneath the leaves make Cameron\n feel small, an entire world he knows nothing about."
-    centertext "即使是樹葉底下螻蟻，在他眼中也無比龐大。\n這是一個他一無所知的世界。"
+    centertext "即使是樹葉底下的螻蟻，在他眼中也無比龐大。\n這是一個他一無所知的世界。"
 
 # game/a3s1.rpy:191
 translate Tchinese a3s1_4f1df4ac:
@@ -370,7 +370,7 @@ translate Tchinese a3s1_25ccbe3f:
 translate Tchinese a3s1_098c008e:
 
     # "Cameron knew a few guys from college who had interests similar to Brian."
-    "Cameron認識幾個有和Brian興趣類似的大學同學。"
+    "Cameron有幾個大學同學有著跟Brian類似的興趣。"
 
 # game/a3s1.rpy:209
 translate Tchinese a3s1_74e5b7cc:
@@ -958,7 +958,7 @@ translate Tchinese a3s1_b0e93109:
 translate Tchinese a3s1_01bfdb8b:
 
     # "Keeping his hold on the coyote, Brian pulls Cameron toward the van."
-    "Brian拿著郊狼的耳朵，把他拽向貨車。"
+    "Brian拉著郊狼的耳朵，把他拽向貨車。"
 
 # game/a3s1.rpy:404
 translate Tchinese a3s1_f2d49571:
@@ -970,7 +970,7 @@ translate Tchinese a3s1_f2d49571:
 translate Tchinese a3s1_b9c8a743:
 
     # "He has no idea how long he's been walking, but it feels like at least an hour, and the road is maybe just a little closer."
-    "他不清楚自己走了多久，感覺至少超過一小時，可他與光芒的距離才將將縮短一點。"
+    "他不清楚自己走了多久，感覺至少超過一小時，可他與光芒的距離僅僅縮短一點。"
 
 # game/a3s1.rpy:406
 translate Tchinese a3s1_04352384:
@@ -1066,7 +1066,7 @@ translate Tchinese a3s1_b8dfd902:
 translate Tchinese a3s1_8718a863:
 
     # "Arturo furrows his brows, never having heard that particular word used in such a way."
-    "Arturo furrows his brows, never having heard that particular word used in such a way."
+    "Arturo皺起眉頭，他從來沒聽過這麼粗魯的言辭。"
 
 # game/a3s1.rpy:429
 translate Tchinese a3s1_d3c5e662:
@@ -1156,7 +1156,7 @@ translate Tchinese a3s1_29d2f010:
 translate Tchinese a3s1_2560a5bb:
 
     # "Arturo stares back at the weasel and notices his expression, like he's trying to decide something."
-    "Arturo凝視著鼬，那是一幅深思熟慮的表情。"
+    "Arturo凝視著鼬，那是一副深思熟慮的表情。"
 
 # game/a3s1.rpy:454
 translate Tchinese a3s1_67658e4e:
@@ -1588,7 +1588,7 @@ translate Tchinese a3s1_b2ccfc32:
 translate Tchinese a3s1_996492ab:
 
     # "The panic in his voice lowers to an almost pitiful whine as he stares at the coyote twitching, his eyes half open and his head turning back and forth slowly."
-    "他凝視著眼睛半睜、頭慢慢地來迴轉動、正在抽搐的郊狼，聲音從充滿恐慌降低到近乎可憐的哀嚎。"
+    "當他盯著不斷抽搐的郊狼，看著他眼睛半睜、頭緩慢的前後擺動，他聲音中的驚慌轉變為可憐的哀嚎。"
 
 # game/a3s1.rpy:571
 translate Tchinese a3s1_b98879df:
@@ -1750,7 +1750,7 @@ translate Tchinese a3s1_897927f8:
 translate Tchinese a3s1_bcc5d943:
 
     # b "\"No, get up. Didn't I tell you what I'd do to your bear if you don't--\""
-    b "“別拖拖拉拉的。再不起來，我就要對你熊不客氣──”"
+    b "“別拖拖拉拉的。再不起來，我就要對你的熊不客氣──”"
 
 # game/a3s1.rpy:618
 translate Tchinese a3s1_3eaa283a:
@@ -1954,7 +1954,7 @@ translate Tchinese a3s1_4330a5a4:
 translate Tchinese a3s1_e7398ee0:
 
     # "He's exhausted, having not eaten a proper meal in well over a day, and his throat is so dry, he thinks he might be willing to drink Brian's drugged water."
-    "他已經筋疲力盡，一天多沒吃過一頓像樣的飯了。不僅如此，他還渴得要命，就連Brian饞了麻藥的水對他而言都猶如甘霖。"
+    "他已經筋疲力盡，一天多沒吃過一頓像樣的飯了。不僅如此，他還渴得要命，就連Brian摻了麻藥的水對他而言都猶如甘霖。"
 
 # game/a3s1.rpy:662
 translate Tchinese a3s1_26a899fe:
@@ -2140,7 +2140,7 @@ translate Tchinese a3s1_85118972:
 translate Tchinese a3s1_069420e9:
 
     # "Cameron can't understand how Dylan isn't real, but this nightmare bear apparently is."
-    "Cameron無法理解Dylan怎麼會不是真的，但這場噩夢顯然是。"
+    "Cameron無法理解Dylan怎麼會不是真的，但眼前這頭噩夢般的熊肯定是真的。"
 
 # game/a3s1.rpy:741
 translate Tchinese a3s1_0bf7fcf0:
@@ -2248,7 +2248,7 @@ translate Tchinese a3s1_7fb0f2bf:
 translate Tchinese a3s1_d30fba4d:
 
     # dy "\"It's just hard to look at you now, with that stupid scar.\""
-    dy "“看著那道愚蠢的傷疤，真是不堪入目。”"
+    dy "“瞧你那道愚蠢的傷疤，真是不堪入目。”"
 
 # game/a3s1.rpy:775
 translate Tchinese a3s1_ae8c9c98:
@@ -2344,7 +2344,7 @@ translate Tchinese a3s1_03f90af0:
 translate Tchinese a3s1_c6298f01:
 
     # "He's taller than she is, and he's reminded of just how small she was, how small she'd seem to him now if she'd survived."
-    "他望著那個比他矮一頭的母親，心想如果活到現在，她一定會更加矮小吧。"
+    "他望著那個比他矮一顆頭的母親，心想如果活到現在，她一定會更加矮小吧。"
 
 # game/a3s1.rpy:796
 translate Tchinese a3s1_1c67adfe:
@@ -2398,13 +2398,13 @@ translate Tchinese a3s1_eb0b650d:
 translate Tchinese a3s1_2d2a5b48:
 
     # "She was still a teenager, excited, and in love, living out of a 70s Chevy van, but all of that came to an end when he was born in December, 1995."
-    "She was still a teenager, excited, and in love, living out of a 70s Chevy van, but all of that came to an end when he was born in December, 1995."
+    "她當時不過十幾歲，住在一輛70年代的雪佛蘭廂型車裡，情竇初開。但所有這些，全都停在了1995年12月，他出生的日子。"
 
 # game/a3s1.rpy:805
 translate Tchinese a3s1_6d68de8e:
 
     # "Then, his abusive, probably-schizophrenic father left and committed suicide sometime in the mid 2000s."
-    "後來，他施虐成性、可能患有精神分裂症的父親拋棄了他們，並於20世紀中期的某個時候自殺身亡。"
+    "後來，他施虐成性、可能患有精神分裂症的父親拋棄了他們，並於2000年代中期的某個時候自殺身亡。"
 
 # game/a3s1.rpy:806
 translate Tchinese a3s1_9223ad8c:
@@ -2422,7 +2422,7 @@ translate Tchinese a3s1_21af88df:
 translate Tchinese a3s1_51530eae:
 
     # "And even though they wanted that for him, they especially wanted him to be happy, to have a family life and a childhood that both his parents were only able to see other kids enjoy from afar."
-    "雖說如此，但他們更希望他能擁有一個幸福快樂的童年，而不是像他的父母那樣，只能從遠處觀望別人家的孩子。"
+    "雖說如此，但他們更希望他能擁有一個幸福快樂的童年，而不是像他的父母那樣，只能遙望著別人家孩子的幸福。"
 
 # game/a3s1.rpy:810
 translate Tchinese a3s1_a8ac9f88:
@@ -2494,7 +2494,7 @@ translate Tchinese a3s1_085767b8:
 translate Tchinese a3s1_6d7c87d1:
 
     # "The only thing that saved him from that life, and death, was his grades."
-    "唯一使他免於這種生活，或死亡的是他的成績。"
+    "唯一使他免於這種生活，或死亡的，是他的成績。"
 
 # game/a3s1.rpy:822
 translate Tchinese a3s1_eef1b71b:
@@ -2566,7 +2566,7 @@ translate Tchinese a3s1_13dcbd8b:
 translate Tchinese a3s1_6417ca98:
 
     # "His life was perfect up until yesterday, when they got here."
-    "他活得很滿足，直到昨天他們來之前。"
+    "他活得很滿足，直到昨天他們來到這裡之前。"
 
 # game/a3s1.rpy:835
 translate Tchinese a3s1_2db17248:
@@ -2716,7 +2716,7 @@ translate Tchinese a3s1_30b4c2a0:
 translate Tchinese a3s1_0f7c45b2:
 
     # b "\"Sad, workin' for a country that we nuked twice. Back in the 80s, we used to beat people up for working for companies like that.\""
-    b "“可悲，為一個被我們核過兩次的國家效力。放80年代，你這種人可是要被揍的。”"
+    b "“可悲，為一個被我們核過兩次的國家效力。要是在80年代，你這種人可是要被揍的。”"
 
 # game/a3s1.rpy:875
 translate Tchinese a3s1_cc840b02:
@@ -2734,7 +2734,7 @@ translate Tchinese a3s1_258f668d:
 translate Tchinese a3s1_7d2e2523:
 
     # "Hulian, the current market leader in smartphone manufacturing, is Tayovanese, and the coyote assumes that the bear is thinking of a certain other country in the same region."
-    "智慧型手機製造商‘互聯’的現任領導者其實是台灣人，郊狼想，這頭熊可能錯認成了同一地區的另一個國家。"
+    "'互聯'，目前手機製造領域的領頭羊，是一間台灣公司，郊狼想，這頭熊可能錯認成了同一地區的另一個國家。"
 
 # game/a3s1.rpy:879
 translate Tchinese a3s1_e707c824:
@@ -2848,7 +2848,7 @@ translate Tchinese a3s1_541f521d:
 translate Tchinese a3s1_24e76b9b:
 
     # "The corners of Cameron's muzzle turn down slightly, his composure almost crumbling."
-    "Cameron微微垂下頭，他的鎮定幾乎潰不成型。"
+    "Cameron微微垂下頭，他的鎮定幾乎潰不成形。"
 
 # game/a3s1.rpy:907
 translate Tchinese a3s1_37644bca:
@@ -2968,7 +2968,7 @@ translate Tchinese a3s1_266c6338:
 translate Tchinese a3s1_fe339849:
 
     # "He had started unlocking his cuffs the second he thought Brian might be out of earshot."
-    "等Brian走得就夠遠了，他就馬上開始解手銬。"
+    "等Brian走得夠遠了，他就馬上開始解手銬。"
 
 # game/a3s1.rpy:942
 translate Tchinese a3s1_115fe6c0:
@@ -3262,7 +3262,7 @@ translate Tchinese a3s1_3477ccdd:
 translate Tchinese a3s1_2df8afd1:
 
     # "His eyes stay wide, his breath leaking out of his muzzle in a slow, high-pitched rasp, not wanting to believe the pain he feels spreading through his insides is real."
-    "氣流一點點從他的口鼻漏出，發出尖銳而刺耳的哨聲。他難以置信地睜大了眼睛，不願面這從內到外的疼痛。"
+    "氣流一點點從他的口鼻漏出，發出尖銳而刺耳的哨聲。他睜大著眼睛，氣息緩慢地從他的吻部嘶聲洩出，不願相信這體內擴散的劇痛真實存在。"
 
 # game/a3s1.rpy:1034
 translate Tchinese a3s1_49b5c09a:
@@ -3670,7 +3670,7 @@ translate Tchinese a3s1_7f51961a:
 translate Tchinese a3s1_4dc5fbc5:
 
     # "Brian, clearly aware of how bad the situation could become for him, lets go of the shotgun so he can turn around and throw a knee up into Devon's hunched form, an inch above the navel, almost the exact spot he'd hit earlier."
-    "意識到局勢的糟糕，Brian乾脆放棄了獵槍，這樣他就能轉過身去，用膝蓋去撞Devon蜷曲的身體，就在在肚臍上方一英寸處，剛才槍托擊中的地方。"
+    "意識到局勢的糟糕，Brian乾脆放棄了獵槍，這樣他就能轉過身去，用膝蓋去撞Devon蜷曲的身體，就在肚臍上方一英寸處，剛才槍托擊中的地方。"
 
 # game/a3s1.rpy:1162
 translate Tchinese a3s1_30e2a13f:
@@ -3694,7 +3694,7 @@ translate Tchinese a3s1_369d5477:
 translate Tchinese a3s1_4c2f0ab9:
 
     # "Brian fumbles shakily to find the stock of the shotgun, hidden somewhere under Devon's bulk while simultaneously trying to avoid the end of the barrel, in case Devon is able to find the trigger."
-    "Brian顫抖地摸索著隱藏在Devon身體下的槍托，同時不忘避開槍管的末端，以防被Devon先能找到扳機。"
+    "Brian顫抖地摸索著隱藏在Devon身體下的槍托，同時不忘避開槍口，以防被Devon先找到扳機。"
 
 # game/a3s1.rpy:1167
 translate Tchinese a3s1_27f5c614:
@@ -3784,7 +3784,7 @@ translate Tchinese a3s1_9cbb18b8:
 translate Tchinese a3s1_4f046415:
 
     # "The much smaller coyote can only yelp in panic before Brian smashes into him and crushes him against the wall."
-    "Brian一路猛衝，把Cameron撞在併壓到了洞壁上。那隻小得多的郊狼無力掙扎，只能驚恐地大叫。"
+    "Brian猛力撞上Cameron，並把他壓到了洞壁上。那隻小得多的郊狼無力掙扎，只能驚恐地大叫。"
 
 # game/a3s1.rpy:1196
 translate Tchinese a3s1_7a757a85:
@@ -4372,7 +4372,7 @@ translate Tchinese a3s1_59a0b254:
 translate Tchinese a3s1_1fe1a662:
 
     # "Devon leans over Cameron's body, an expression of untold anguish on his face as he starts to let out a low, terrible groan that rises in pitch to a bearish howl--"
-    "Devon倚靠在Cameron的身體上，臉上流露出難以言喻的痛苦表情。他開始發出一種低沉、駭人的呻吟，一聲賽過一聲，最後變成嚎叫──"
+    "Devon倚靠在Cameron的身體上，臉上流露出難以言喻的痛苦表情。他開始發出一種低沉、駭人的呻吟，一聲勝過一聲，最後變成嚎叫──"
 
 # game/a3s1.rpy:1398
 translate Tchinese a3s1_737bcd28:
@@ -4444,7 +4444,7 @@ translate Tchinese a3s1_734ac5a5:
 translate Tchinese a3s1_ed301934:
 
     # "The shotgun is on the ground, out of Brian's reach, and the old bear makes no move to get it."
-    "獵槍靜靜地躺在地上，Brian搆不到，也沒有任何去夠的意向。"
+    "獵槍靜靜地躺在地上，Brian搆不到，也沒有任何去搆的意向。"
 
 # game/a3s1.rpy:1429
 translate Tchinese a3s1_e4d47b53:
@@ -4486,7 +4486,7 @@ translate Tchinese a3s1_5b3b72b6:
 translate Tchinese a3s1_ab5ea461:
 
     # b "\"What the...\""
-    b "“嗎……”"
+    b "“麼……”"
 
 # game/a3s1.rpy:1437
 translate Tchinese a3s1_8a79c524:
@@ -4528,7 +4528,7 @@ translate Tchinese a3s1_26739628:
 translate Tchinese a3s1_cb9556fe:
 
     # d "\"Cameron? How do you feel?\""
-    d "“Cameron？你感覺怎麼樣了？”"
+    d "“Cameron？你感覺如何？”"
 
 # game/a3s1.rpy:1451
 translate Tchinese a3s1_b39318cb:
@@ -4546,7 +4546,7 @@ translate Tchinese a3s1_503c78fb:
 translate Tchinese a3s1_fe10927a:
 
     # c "\"I think something ruptured. It feels all wrong.\""
-    c "“不怎麼樣，好像有哪裡裂開了。”"
+    c "“不怎麼好，好像有哪裡裂開了。”"
 
 # game/a3s1.rpy:1454
 translate Tchinese a3s1_0cb32a83:
@@ -4960,7 +4960,7 @@ translate Tchinese a3s1_e52f2526:
 translate Tchinese a3s1_9e8478d3:
 
     # "So, Cameron leans his head against Devon's shoulder, smiling in a mostly happy, but in a bittersweet way."
-    "So, Cameron leans his head against Devon's shoulder, smiling in a mostly happy, but in a bittersweet way."
+    "於是，Cameron把頭靠在Devon的肩膀上，他笑得很開心，卻又有些悲傷。"
 
 # game/a3s1.rpy:1548
 translate Tchinese a3s1_9bd687da:
@@ -4974,3 +4974,58 @@ translate Tchinese a3s1_84820cda:
     # d "\"Alright,{w=0.3} now let's get the hell out of here.\""
     d "“那麼，{w=0.3}就先離開這個鬼地方吧。”"
 
+# TODO: Translation updated at 2023-07-22 12:54
+
+# game/a3s1.rpy:865
+translate Tchinese a3s1_5d63ce77:
+
+    # c "\"Oh, I am, I definitely am, it's... I don't know. I have more control than I did the first time I tried it.\""
+    c "“是、是啊，具體我也不清楚……但相比起第一次，這次我更能保持理智。”"
+
+# game/a3s1.rpy:1218
+translate Tchinese a3s1_5d297e9c:
+
+    # "Cameron lets out a yelp and curls around Brian's muzzle, scratching and biting at it with his claws and teeth."
+    "Cameron大叫一聲，整個人幾乎抱在了Brian嘴上，用自己的爪子和牙齒去抓、去咬。"
+
+# game/a3s1.rpy:1219
+translate Tchinese a3s1_67fc40a2:
+
+    # "But then, Brian twists and tears, and Cameron lets out a howling sound, his body twisting violently."
+    "但Brian順勢一扯，Cameron嚎啕著，身體劇烈扭動著。"
+
+# game/a3s1.rpy:1226
+translate Tchinese a3s1_914cfcda:
+
+    # "The shotgun had opened up at some point during the struggle, and Devon drops the awkward weapon, too intent on saving Cameron to figure it out right now."
+    "獵槍在他們撕打時意外上了膛，於是救人心切的Devon乾脆丟掉了這把棘手的武器。"
+
+# game/a3s1.rpy:1331
+translate Tchinese a3s1_2175f9b6:
+
+    # "There's a lot of blood, and Devon panics, thinking the coyote is bleeding out from his neck."
+    "如此之多的血。一想到郊狼的頸動脈可能被劃破了，Devon幾乎崩潰。"
+
+# game/a3s1.rpy:1332
+translate Tchinese a3s1_8c2d7762:
+
+    # "Devon stumbles over to him, hovering his paws over the coyote's head."
+    "他踉踉蹌蹌地來到郊狼身邊，伸出手，卻又不敢去碰郊狼的頭。"
+
+# game/a3s1.rpy:1337
+translate Tchinese a3s1_f316de2f:
+
+    # "And then he glances back, shocked to see Brian standing."
+    "他回過頭，難以置信地看著站在那裡的Brian。"
+
+# game/a3s1.rpy:1338
+translate Tchinese a3s1_dbad0ee9:
+
+    # "How the old bear was able to get up without making noise is beyond Devon."
+    "那頭老熊是如何悄無聲息地站起來的，Devon無法理解。"
+
+# game/a3s1.rpy:1341
+translate Tchinese a3s1_b53ab284:
+
+    # "The butt of the shotgun, powered by the old bear's huge body, slams into his side, spreading a sickening ache in a wave through his body."
+    "槍托在老熊巨大的推力下，狠狠撞上他的身體，掀起一股不祥的疼痛。"

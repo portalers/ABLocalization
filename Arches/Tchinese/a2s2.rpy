@@ -394,7 +394,7 @@ translate Tchinese a2s2_71d186d3:
 translate Tchinese a2s2_a9f34ccc:
 
     # "Devon looks down at Cameron, the coyote still breathing steadily, now looking almost peaceful."
-    "Devon低頭看著Comeron，郊狼的呼吸依舊平穩，幾乎像是睡著了。"
+    "Devon低頭看著Cameron，郊狼的呼吸依舊平穩，幾乎像是睡著了。"
 
 # game/a2s2.rpy:121
 translate Tchinese a2s2_4bd002d3:
@@ -820,7 +820,7 @@ translate Tchinese a2s2_62e7f2d3:
 translate Tchinese a2s2_bb3b87e3:
 
     # "What he wants to say is that he wants to see Dev, but if what the bear said is true, then that won't be possible."
-    "他想說的是自己想見Dev，但若情況實屬，這是不可能的。"
+    "他想說的是自己想見Dev，但若情況屬實，這是不可能的。"
 
 # game/a2s2.rpy:238
 translate Tchinese a2s2_32b5b342:
@@ -916,7 +916,7 @@ translate Tchinese a2s2_bcd71fd3:
 translate Tchinese a2s2_8de6f2c6:
 
     # "Although he says it softly, the bear clearly hears him."
-    "儘管他說的很輕，熊卻聽得一清二楚。"
+    "儘管他說得很輕，熊卻聽得一清二楚。"
 
 # game/a2s2.rpy:263
 translate Tchinese a2s2_5eda8011:
@@ -970,7 +970,7 @@ translate Tchinese a2s2_8072192b:
 translate Tchinese a2s2_89ed1a22:
 
     # "Through all the confusion and terror, and of all people, this bear seems to understand what Cameron is going through somehow."
-    "在所有的恐懼和混亂中，在所有的人中，Camerond似乎終於遇到一位能夠理解自己遭遇的人……"
+    "在所有的恐懼和混亂中，在所有的人中，Cameron似乎終於遇到一位能夠理解自己遭遇的人……"
 
 # game/a2s2.rpy:277
 translate Tchinese a2s2_5534a600:
@@ -1564,7 +1564,7 @@ translate Tchinese a2s2_0f9754a3:
 translate Tchinese a2s2_64bea7f1:
 
     # "His voice is rough, dry, on the verge of breaking."
-    "他的聲音粗啞而又乾澀，幾乎要把喉嚨念斷。"
+    "他的聲音粗啞而又乾澀，幾乎到了崩潰的邊緣。"
 
 # game/a2s2.rpy:431
 translate Tchinese a2s2_e790877f:
@@ -1870,7 +1870,7 @@ translate Tchinese a2s2_60fac2ea:
 translate Tchinese a2s2_d5ae13e0:
 
     # "Cameron vaguely recalls some of his own friends describing the exact same thing, even when their trip was supposed to be over."
-    "Cameron依稀記得有朋友和他描述得一模一樣，在他們的幻覺本該結束後。"
+    "Cameron依稀記得有朋友和他描述的一模一樣，在他們的幻覺本該結束後。"
 
 # game/a2s2.rpy:508
 translate Tchinese a2s2_2e8e477b:

@@ -4,7 +4,7 @@
 translate Tchinese a1s1_0b5c2cb2:
 
     # centered "{i}{cps=1}Run{/i}"
-    centered "{i}{cps=1}快跑。{/i}"
+    centered "{b}{cps=1}快跑。{/b}"
 
 # game/a1s1.rpy:14
 translate Tchinese a1s1_38157e0c:
@@ -16,7 +16,7 @@ translate Tchinese a1s1_38157e0c:
 translate Tchinese a1s1_38951ffc:
 
     # "Just last year, he came in second in the 200 meter dash at the state track meet."
-    "就在去年，他取得了州田徑運動會200米賽跑第二的好成績。"
+    "就在去年，他取得了州田徑會200米短跑第二名的好成績。"
 
 # game/a1s1.rpy:16
 translate Tchinese a1s1_5132075c:
@@ -64,13 +64,13 @@ translate Tchinese a1s1_16c741d4:
 translate Tchinese a1s1_25b2821f:
 
     # "But now, he's realizing that it doesn't matter."
-    "但現在，他發現自己就算逃跑也無濟於事。"
+    "然而現在，他發現這不過是白費工夫。"
 
 # game/a1s1.rpy:27
 translate Tchinese a1s1_da764ece:
 
     # "Everywhere he looks is only burning desert.{w} There's no one."
-    "所望之處，盡是無垠沙海。{w}茫茫而無人煙。"
+    "所望之處，盡是無垠沙海。{w}杳無人煙。"
 
 # game/a1s1.rpy:28
 translate Tchinese a1s1_297c863d:
@@ -256,7 +256,7 @@ translate Tchinese a1s1_a3505dbb:
 translate Tchinese a1s1_fb7a94ce:
 
     # "He thought he'd be able to do that the next day, or the day after that."
-    "他本想第二天，或過幾天再回復的。"
+    "他本想第二天，或過幾天再回覆的。"
 
 # game/a1s1.rpy:71
 translate Tchinese a1s1_8c685078:
@@ -1780,7 +1780,7 @@ translate Tchinese a1s1_c14181a3:
 translate Tchinese a1s1_3134e56f:
 
     # d "\"I mean, with the way things are going, I don't even know if we'll be able to cross state lines in a few weeks. They're starting to shut everything down.\""
-    d "“我是說，就目前的情況來看，幾週後能不能跨州都不一定。他們正在到處在搞封鎖。”"
+    d "“我是說，就目前的情況來看，幾週後能不能跨州都不一定。他們正在到處搞封鎖。”"
 
 # game/a1s1.rpy:429
 translate Tchinese a1s1_117f2486:
@@ -2464,7 +2464,7 @@ translate Tchinese a1s1_1e809aa6:
 translate Tchinese a1s1_3baf3474:
 
     # d "\"Okay.{cps=3}..{/cps}{w=0.4} Okay, {w=0.3}yeah, {w=0.3}this is doable.{w} Hey, Cam! {w=0.3}All clear!\""
-    d "“安全{cps=3}……{/cps}{w=0.4}安全，{w=0.3}嗯，{w=0.3}一切安全{w}嘿，Cam！{w=0.3}可以進來了！”"
+    d "“安全{cps=3}……{/cps}{w=0.4}安全，{w=0.3}嗯，{w=0.3}一切安全{w}。嘿，Cam！{w=0.3}可以進來了！”"
 
 # game/a1s1.rpy:635
 translate Tchinese a1s1_e1a4c15e:
@@ -3412,7 +3412,7 @@ translate Tchinese a1s1_cc8f068f:
 translate Tchinese a1s1_3978768f:
 
     # "Cameron stares at the phone, unable to understand through the static, but able to recognize the voice."
-    "Cameron凝視著手機，聲音在靜電的干擾下依稀可辯，卻又不明所以。"
+    "Cameron凝視著手機，聲音在靜電的干擾下依稀可辨，卻又不明所以。"
 
 # game/a1s1.rpy:884
 translate Tchinese a1s1_f00d99ba:
@@ -3893,4 +3893,306 @@ translate Tchinese a1s1_f6f8b90b:
 
     # "The floor seems to fall out from under Devon, and he feels like he's falling into an abyss."
     "腳下的地板彷彿塌了下去，Devon感到自己如墜深淵。"
+
+# TODO: Translation updated at 2023-07-22 12:54
+
+# game/a1s1.rpy:9
+translate Tchinese a1s1_42c83ba6:
+
+    # centerintro "{i}{cps=1}Run{/i}{w=1.0}"
+    centerintro "{b}{cps=1}快跑。{/b}{w=1.0}"
+
+# game/a1s1.rpy:17
+translate Tchinese a1s1_9c58e041:
+
+    # "Running was something he was always good at. He was always the fastest in his class."
+    "他一直很擅長跑步。他是班裡跑得最快的人。"
+
+# game/a1s1.rpy:29
+translate Tchinese a1s1_d918f6e0:
+
+    # "Everywhere he looks is only burning desert. There's no one."
+    "目光所及之處，儘是無垠的沙漠，杳無人煙。"
+
+# game/a1s1.rpy:30
+translate Tchinese a1s1_a0d4e152:
+
+    # "His attempts to scream for help matter even less because his voice is broken. He can barely wheeze after what the man did to him."
+    "呼救愈發失去了意義，因為他的聲音早已嘶啞不堪。在遭受了那個人的種種虐待之後，喘息都已成為一種折磨。"
+
+# game/a1s1.rpy:32
+translate Tchinese a1s1_d5fc96cd:
+
+    # "All the while, the heavy steps scraping through gravel behind him keep coming. The man isn't in a hurry at all."
+    "與此同時，身後沉重的腳步聲始終不曾停歇，不緊不慢。"
+
+# game/a1s1.rpy:37
+translate Tchinese a1s1_b31afafd:
+
+    # "If his ribs weren't broken. If he could see straight."
+    "如果他的肋骨沒有折斷的話，如果他的眼睛能看清的話。"
+
+# game/a1s1.rpy:38
+translate Tchinese a1s1_8e96612c:
+
+    # "The man had given him something. He'd told him it was for the pain, but the pain is still there, and now he can't even stand."
+    "那人曾餵過他一些東西。並聲稱是用來止痛的，然而疼痛依舊存在，而現在他甚至連站都站不起來。"
+
+# game/a1s1.rpy:41
+translate Tchinese a1s1_249fd5c7:
+
+    # "This makes him realize something else: He's going to die."
+    "這還令他意識到一件事：他就要死了。"
+
+# game/a1s1.rpy:52
+translate Tchinese a1s1_1c9a0a99:
+
+    # "The light above is blinding. He wonders if this is God."
+    "頭頂的光芒令人目眩，他在想那是否是上帝。"
+
+# game/a1s1.rpy:65
+translate Tchinese a1s1_df53cfbd:
+
+    # unk "\"Think I musta' hit ya one too many times. All you do is talk about your fuckin' track bullshit now.\""
+    unk "“是不是被我揍傻了，還惦記著你那狗屁田徑吶。”"
+
+# game/a1s1.rpy:68
+translate Tchinese a1s1_a1273368:
+
+    # "His chest aches with overwhelming sadness and despair. And it's not just because he's about to die."
+    "極度的悲傷和絕望充斥著他的胸口，但這不僅是因為他死期將至。"
+
+# game/a1s1.rpy:81
+translate Tchinese a1s1_e19f72c8:
+
+    # centered "{cps=1}...{w=1.0}{nw}"
+    centered "{cps=1}……{w=1.0}{nw}"
+
+# game/a1s1.rpy:107
+translate Tchinese a1s1_4db752fd:
+
+    # d "\"Flash floods, according to what I read online... Obviously no one's around for upkeep, so this is what happens.\""
+    d "“網路上查到是說因為山洪爆發……看這鬼樣子，我猜根本沒人修繕吧。”"
+
+# game/a1s1.rpy:112
+translate Tchinese a1s1_d0c0d3fe:
+
+    # c "\"You know better than to say that. Just because I'm built for it doesn't mean I have to like it.\""
+    c "“少來。天性如此，並不意味著我必須喜歡。”"
+
+# game/a1s1.rpy:129
+translate Tchinese a1s1_2b134e47:
+
+    # c "\"Sorry, I just worry how they might look at us. It's harder to gauge people when they're all fake-nice.\""
+    c "“抱歉，我只是在擔心他們會如何看待我們。畢竟人心叵測。”"
+
+# game/a1s1.rpy:158
+translate Tchinese a1s1_b5266df5:
+
+    # d "\"Looks can be deceiving. Hang on. Gotta pull over for a sec.\""
+    d "“眼見可不為實。等等，我先停個車。”"
+
+# game/a1s1.rpy:194
+translate Tchinese a1s1_f5e3fb75:
+
+    # "Sure, they weren't in the town yet, but all those dreams he had, all those terrible feelings... They seem silly now."
+    "雖然還沒到鎮上，不過他做過的那些夢，那些可怕的感覺……如今看來是多麼的可笑。"
+
+# game/a1s1.rpy:197
+translate Tchinese a1s1_d1b29cf8:
+
+    # "Cameron knows that his hallucinations aren't real. He's known that since he was a kid, after he first saw a monster in a raincoat in his trailer home."
+    "Cameron知道自己看到的僅僅是幻覺。自他兒時起，在他親眼看見拖車房後面那個穿著雨衣的怪物之後，就明白了這一切都是假象。"
+
+# game/a1s1.rpy:199
+translate Tchinese a1s1_108f3edc:
+
+    # "But Devon believes. Or at least wants to believe."
+    "但Devon相信，起碼他想要去相信。"
+
+# game/a1s1.rpy:202
+translate Tchinese a1s1_82aad0f5:
+
+    # "Devon is also aware of this. {i}Painfully{/i} aware."
+    "Devon也明白。{w}{b}痛苦地{/b}明白著。"
+
+# game/a1s1.rpy:204
+translate Tchinese a1s1_59370ea1:
+
+    # "And yeah, this is wrong. But the bear doesn't even think Cameron is mentally ill, or at least that's how it comes off to the coyote."
+    "這當然是不應該的，但熊壓根不覺得Cameron患有精神疾病，至少郊狼這樣認為。"
+
+# game/a1s1.rpy:251
+translate Tchinese a1s1_041a2dbb:
+
+    # d "\"Well, sue me for trying to be careful. I just don't wanna say something stupid and--\""
+    d "“好吧，我會注意的。我只是不想說錯話──”"
+
+# game/a1s1.rpy:269
+translate Tchinese a1s1_f27485ed:
+
+    # c "\"--but what's important is if this helps {i}you{/i}, whether I think it's real or not. You've done a lot for me, and I wanna be able to do something for you.\""
+    c "“──但我個人的看法無關緊要，重要的是這能不能幫到{b}你{/b}。你為我付出了那麼多，我也想為你做點什麼。”"
+
+# game/a1s1.rpy:291
+translate Tchinese a1s1_785d99db:
+
+    # c "{i}\"Listen{/i}. I want you to find your answers, I REALLY do, but I think the worst thing I could do is lie to make you feel better. I'm going to be completely honest about everything--\""
+    c "“{b}聽著{/b}，我希望你能夠找到答案，{b}真心{/b}希望，再不然我就說些讓你感覺好受的謊。但現在，我會對你誠實地坦白一切──”"
+
+# game/a1s1.rpy:302
+translate Tchinese a1s1_b7757547:
+
+    # d "\"I'm just glad I met you, {w=0.3}and that we're together, {w=0.3}and that you're here with me.\""
+    d "“我很高興遇見你，{w=0.3}跟你交往，{w=0.3}一路上有你陪伴，真是太好了。”"
+
+# game/a1s1.rpy:317
+translate Tchinese a1s1_0bda74bb:
+
+    # d "\"Well, I'm also happy that you're being more open like this. I'd always felt like you didn't want to talk about it.\""
+    d "“這個嘛，我也在為你敞開了心扉而高興。我一直以為你不想談這件事呢。”"
+
+# game/a1s1.rpy:323
+translate Tchinese a1s1_058ee180:
+
+    # c "\"Got shot in the head? After I hallucinated that someone shot him in the head?\""
+    c "“頭部中彈的那個？在我產生有人朝他腦袋開槍的幻覺之後？”"
+
+# game/a1s1.rpy:325
+translate Tchinese a1s1_de906dde:
+
+    # c "\"This is what I'm talking about. You, and all of us, really, like to see meaning in everything.\""
+    c "“這就是我要說的。你，或者說我們所有人，都試圖發覺這一切的意義。”"
+
+# game/a1s1.rpy:333
+translate Tchinese a1s1_836f0658:
+
+    # d "\"I get that, but there's a lot of other examples I could bring up. Maybe it's coincidence, but at some point don't you have to wonder if maybe it's something else?\""
+    d "“我懂，但我還能舉出很多例子。也許只是巧合，但偶爾，你不會懷疑其中另有原因嗎？”"
+
+# game/a1s1.rpy:343
+translate Tchinese a1s1_29add815:
+
+    # c "\"I'm not sure what all it was saying to her. I don't even think I really understood what was going on.\""
+    c "“我不知道它對她說了什麼。我甚至不知道究竟發生了什麼事。”"
+
+# game/a1s1.rpy:351
+translate Tchinese a1s1_f09d0d41:
+
+    # c "\"Eventually, she told me everything was warped. I guess she was so fucked up that these shapes just popped out at her, like her brain was highlighting them and she couldn't ignore them.\""
+    c "“最後，她告訴我一切都已經扭曲了，我猜她是被無處不在的拱形逼瘋了吧。她的大腦將那些形狀醒目地呈現在她眼前，讓她無法忽視。”"
+
+# game/a1s1.rpy:353
+translate Tchinese a1s1_91d2a5e8:
+
+    # c "\"She looked completely.{cps=3}..{/cps}{w=0.4} done.\""
+    c "“她似乎{cps=3}……{/cps}{w=0.4}崩潰到了極點。”"
+
+# game/a1s1.rpy:354
+translate Tchinese a1s1_6e07b113:
+
+    # c "\"She told me she'd be back to save me, and then just walked out of the trailer.\""
+    c "“只留下一句‘會回來救我’，就離開了我們的家。”"
+
+# game/a1s1.rpy:370
+translate Tchinese a1s1_4d7bb8b3:
+
+    # d "\"I would {i}never{/i} let that happen to you. I know I say stupid shit about it, but I know it can be dangerous, and I'm always looking out for you.\""
+    d "“我{b}絕對不會{/b}讓這種事發生在你身上。我知道聽起來很蠢，但這其中的危險性我也明白，我會永遠保護你的。”"
+
+# game/a1s1.rpy:373
+translate Tchinese a1s1_792d66ed:
+
+    # c "\"But I was high on my own drug of choice because I just didn't care. But the thing is that even through that hell she was in, {i}she{/i} cared.\""
+    c "“染上毒品是我自己的選擇，反正我也不在乎。可她不一樣，即便身處那樣的地獄，{b}她{/b}依然在乎我。”"
+
+# game/a1s1.rpy:395
+translate Tchinese a1s1_cf108a9d:
+
+    # c "\"But it's part of why I am the way I am. I know my symptoms don't perfectly match up with what you've researched on the internet, but they're close enough.\""
+    c "“但這也造就了如今的我。我知道我的症狀和你在網路上了解到的那些不太一樣，但也八九不離十。”"
+
+# game/a1s1.rpy:406
+translate Tchinese a1s1_b32bcc14:
+
+    # "Just like his mother. The definition of trailer trash."
+    "就像他母親一樣，名副其實居住在拖車房裡的垃圾。"
+
+# game/a1s1.rpy:433
+translate Tchinese a1s1_6b6f4c40:
+
+    # d "\"Hey Cam? Whaddya say we just keep going north, check out Deseret? You know, see what Bonneville might be like. See what the Mormons are really like. That could be fun.\""
+    d "“嘿，Cam？要不我們乾脆繼續往北，去沙漠轉轉？你懂的，看看博納維爾，看看摩門教徒到底是什麼樣子。說不定蠻有趣的喔。”"
+
+# game/a1s1.rpy:441
+translate Tchinese a1s1_5eb190dd:
+
+    # c "\"I mean, fuck me for dropping all that on you RIGHT before we got there, but you know I'm a procrastinator.\""
+    c "“是我不好，{b}馬上{/b}就到目的地了，還跟你吐了這麼多苦水。不過你也知道，我拖延症末期嘛。”"
+
+# game/a1s1.rpy:442
+translate Tchinese a1s1_970b7df8:
+
+    # c "\"I don't want you to feel guilty, but just be aware.\""
+    c "“但是，你不需要感到内疚。”"
+
+# game/a1s1.rpy:503
+translate Tchinese a1s1_5eecbca6:
+
+    # "{i}...Well, maybe that{/i} is {i}why.{/i}"
+    "……好吧，也許原因{b}就出在這{/b}了。"
+
+# game/a1s1.rpy:528
+translate Tchinese a1s1_006dd7d3:
+
+    # c "\"Well, {w=0.3}go on. {w=0.3}Your classes in dynamics and calculus based physics should figure this out for us.\""
+    c "“那，{w=0.3}請吧。{w=0.3}你的動力學和微積分物理學一定可以披荊斬棘。”"
+
+# game/a1s1.rpy:532
+translate Tchinese a1s1_c1b30459:
+
+    # d "\"Well, I could probably break those boards as long as I move my fist at a high velocity. You see, the amount of kinetic energy--\""
+    d "“好吧，只要高速揮動拳頭，就有打碎木板的可能。要知道，動能的總量──”"
+
+# game/a1s1.rpy:549
+translate Tchinese a1s1_6cc40714:
+
+    # "Besides, Cameron's ability to understand and play music is basically magic to the bear. Devon's grasp of music is surface-level, and he's slightly tone-deaf to boot."
+    "此外，在這隻熊的眼中，Cameron領悟和演奏音樂的才能簡直稱得上是奇蹟。Devon對音樂的理解僅停留在表面水平，還有點音痴。"
+
+# game/a1s1.rpy:598
+translate Tchinese a1s1_6cfa9c9e:
+
+    # d "\"Cameron, it came up so few times on the forum, and the posts I remember were really mundane. I honestly just forgot.\""
+    d "“Cameron，我真的只是忘了，論壇相關的帖子只出現過幾次，而且內容也很平淡。”"
+
+# game/a1s1.rpy:603
+translate Tchinese a1s1_e486248c:
+
+    # d "\"Cameron.{cps=3}..{/cps}{w=0.4} Is there anything you wanna tell me?{w=0.3} If there is, I'm still hoping you'll be open like you said--\""
+    d "“Cameron{cps=3}……{/cps}{w=0.4}你有什麼心事嗎？{w=0.3}如果有的話，希望你不要憋在──”"
+
+# game/a1s1.rpy:609
+translate Tchinese a1s1_c4841b65:
+
+    # c "\"It's just.{cps=3}..{/cps}{w=0.4} hard to explain.\""
+    c "“這{cps=3}……{/cps}{w=0.4}很難解釋。”"
+
+# game/a1s1.rpy:610
+translate Tchinese a1s1_19e8bc85:
+
+    # c "\"I guess the fact that there ARE real people still living here does make it a little scarier.\""
+    c "“我大概是被這地方還有活人給嚇了一跳吧。”"
+
+# game/a1s1.rpy:617
+translate Tchinese a1s1_e7ef673e:
+
+    # c "\"Yeah, I'm just overreacting. I just really don't wanna have the {i}Deliverance{/i} experience on top of the ghosts, ya know?\""
+    c "“沒錯，是我反應過度而已。光是和鬼魂打交道就已經夠倒霉了，我可不想再上演一齣{b}《生死狂瀾》{/b}的戲碼。”"
+
+# game/a1s1.rpy:831
+translate Tchinese a1s1_86901880:
+
+    # centertext "{i}{cps=60}I'm sorry to bother you. {w=0.6}What's after death?\n {w=0.4}Where do we go?{/i}"
+    centertext "{b}{cps=60}很抱歉打擾到你。{w=0.6}請問死後的世界是什麼樣子？{w=0.4}我們將魂歸何處？{/b}"
 

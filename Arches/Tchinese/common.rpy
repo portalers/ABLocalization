@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-06-30 16:37
-
-# game/kinetic_text_tags.rpy:1
+﻿# game/kinetic_text_tags.rpy:1
 translate Tchinese 6c0c3176:
 
     # "Kinetic Text Tags Ren'Py Module 2021 Daniel Westfall <SoDaRa2595@gmail.com>"

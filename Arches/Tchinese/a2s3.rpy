@@ -802,7 +802,7 @@ translate Tchinese a2s3_f80a156b:
 translate Tchinese a2s3_41a8a15d:
 
     # "This is bad."
-    "真的太糟糟了。"
+    "真的太糟糕了。"
 
 # game/a2s3.rpy:257
 translate Tchinese a2s3_c33769eb:
@@ -2392,7 +2392,7 @@ translate Tchinese a2s3_c72d3b8e:
 translate Tchinese a2s3_295e0003:
 
     # b "\"Well, let's go outside to a spot that I think you'll get better... reception, or whatever.\""
-    b "“我們去一個……信號更好的地方吧，總之你懂。”"
+    b "“我們去一個……訊號更好的地方吧，總之你懂。”"
 
 # game/a2s3.rpy:702
 translate Tchinese a2s3_9347b846:
@@ -2572,7 +2572,7 @@ translate Tchinese a2s3_75f29bd0:
 translate Tchinese a2s3_4a7f8ec4:
 
     # b "\"Fuck! You better not fall asleep or go all delirious on me, understand? Because if you do, I'll probably just kill ya.\""
-    b "“操！你他媽最好別睡過去，也別胡謅謅，懂？當心老子宰了你。”"
+    b "“操！你他媽最好別睡過去，也別胡謅，懂？當心老子宰了你。”"
 
 # game/a2s3.rpy:774
 translate Tchinese a2s3_24f2830f:
@@ -2902,13 +2902,13 @@ translate Tchinese a2s3_d418d162:
 translate Tchinese a2s3_4700619b:
 
     # b "\"Naw, you were cute before I amped up. Also, I've had guys shit themselves, either because they were scared, or they thought it would stop me doin' what I did.\""
-    b "“不不，我老早就覺得你可愛了。之前遇到的竟是些不知天高地厚的傢伙，要嘛怕我，要嘛以為能違抗我。”"
+    b "“不不，我老早就覺得你可愛了。之前遇到的盡是些不知天高地厚的傢伙，要嘛怕我，要嘛以為能違抗我。”"
 
 # game/a2s3.rpy:907
 translate Tchinese a2s3_341526df:
 
     # b "\"It didn't, because this shit I'm on makes me horny as fuck. So not only do ya look cute, it is cute, thinkin' that it might help ya.\""
-    b "“但還不是被老子給干趴了。所以說啊，你不只是看起來可愛，你就是很可愛。懂我意思嗎？”"
+    b "“但還不是被老子給幹趴了。所以說啊，你不只是看起來可愛，你就是很可愛。懂我意思嗎？”"
 
 # game/a2s3.rpy:908
 translate Tchinese a2s3_e5f4a4e1:
@@ -2998,7 +2998,7 @@ translate Tchinese a2s3_6f358b4d:
 translate Tchinese a2s3_7f89ee05:
 
     # "He'd never been close friends with the cat, but Cameron had gotten to know him, and that feeling, that amalgamation of a person that is Artie, it's still out there."
-    "他算不上那隻貓的密友，卻也足夠了解他。這種感覺，一體的人，即Artie，它就在那裡。"
+    "他算不上是那隻貓的親友，卻也已足夠認識他。而這個感覺，這個有著Artie氣息的集合體，仍然存在在那裡。"
 
 # game/a2s3.rpy:932
 translate Tchinese a2s3_b7fabac6:
@@ -3424,7 +3424,7 @@ translate Tchinese a2s3_c4c23de0:
 translate Tchinese a2s3_1c46c3fc:
 
     # c "\"Well, Brian drugged me with shrooms, and I'm tripping absolute balls right now.{w} Hallucinogens enhance my abilities, and I think I kinda created this space. I really can't make this stuff up.\""
-    c "“我猜但我們是我創造了這個空間。{w}Brian給我餵了迷幻劑，這增強了我的能力。”"
+    c "“我猜是我創造了這個空間。{w}Brian給我餵了迷幻劑，這增強了我的能力。”"
 
 # game/a2s3.rpy:1089
 translate Tchinese a2s3_bc24bfe1:
@@ -3490,7 +3490,7 @@ translate Tchinese a2s3_988f5712:
 translate Tchinese a2s3_cbb9fc86:
 
     # c "\"But I can sense Brian's thoughts too, and now I know where you are, where the van is, that you're in a set of handcuffs, and I know where the keys are. I'll get you out, somehow.\""
-    c "“總之，我同樣讀了Brian的心。我知道你帶著手銬，被關在貨車裡。我會設法弄到鑰匙，把你救出來的。”"
+    c "“總之，我同樣讀了Brian的心。我知道你戴著手銬，被關在貨車裡。我會設法弄到鑰匙，把你救出來的。”"
 
 # game/a2s3.rpy:1137
 translate Tchinese a2s3_633a008c:
@@ -3880,7 +3880,7 @@ translate Tchinese a2s3_cb09fcb3:
 translate Tchinese a2s3_4cebbdda:
 
     # "He's a trailer home in the Northwest. He's a desert lake. He's a broken road. He's a trailer home in the Southwest. He's a train cutting through the wilderness."
-    "他又幻化成了西南地區的一間拖車房，也是那台火車劃破荒野的火車。"
+    "他又幻化成了西南地區的一間拖車房，也是那台劃破荒野的火車。"
 
 # game/a2s3.rpy:1284
 translate Tchinese a2s3_c95f369c:
@@ -3912,3 +3912,40 @@ translate Tchinese a2s3_2795cc1a:
     # centered "{cps=45}And because of that,{w=0.3} he can see everything."
     centered "{cps=45}正因為如此，{w=0.3}他得以看到一切。"
 
+# TODO: Translation updated at 2023-07-22 12:54
+
+# game/a2s3.rpy:1282
+translate Tchinese a2s3_0b0d1817:
+
+    # "He's a trailer home in the Northwest.{w=0.2} He's a desert lake.{w=0.2} He's a broken road.{w=0.2} He's a trailer home in the Southwest.{w=0.2} He's a train cutting through the wilderness."
+    "他是西北地區的一間拖車房、{w=0.2}是沙漠中的一處湖泊、{w=0.2}是人跡罕見的一條破路、{w=0.2}是西南地區的一間拖車房、{w=0.2}是劃破荒野的一列火車。"
+
+# game/a2s3.rpy:1286
+translate Tchinese a2s3_dd691353:
+
+    # centertext "He's being shot in the head.\n{w=0.3} He's being hung from a tree.\n{w=0.3} He's being beaten to death.\n{w=0.3} He's swimming under an arch.\n{w=0.3} He's stumbling into a pond.\n{w=0.3} He's in a space shuttle smashing into the ocean.\n{w=0.3} He's a dead town."
+    centertext "他頭部中彈、\n{w=0.3}吊在樹上、\n{w=0.3}被毆打致死、\n{w=0.3}在拱橋下游泳、\n{w=0.3}失足掉進池塘、\n{w=0.3}身處砸向海洋的航天飛機中、\n{w=0.3}是一座死鎮。"
+
+# game/a2s3.rpy:1288
+translate Tchinese a2s3_91b1823e:
+
+    # centertext "Dead,{w=0.3} but with working reflexes,{w=0.3} using\n the tools that it still holds tightly in its grasp."
+    centertext "死，{w=0.3}而不僵，\n{w=0.3}仍牢牢攥著它的‘工具’們不放。"
+
+# game/a2s3.rpy:1289
+translate Tchinese a2s3_ecef3c93:
+
+    # centertext "Cameron disappears,{w=0.3} and these thoughts\n and feelings are no longer his,{w=0.3} because he isn't who he is."
+    centertext "Cameron消失了，{w=0.3}這些感覺和想法不再屬於他，\n{w=0.3}因為他不再是原來的自己。"
+
+# game/a2s3.rpy:1290
+translate Tchinese a2s3_f411f139:
+
+    # centertext "He is everything."
+    centertext "他是一切。"
+
+# game/a2s3.rpy:1291
+translate Tchinese a2s3_f8137059:
+
+    # centertext "And because of that,{w=0.3} he can see everything."
+    centertext "正因為如此，{w=0.3}他得以看到一切。"

@@ -58,7 +58,7 @@ translate Tchinese a1s3_d501a994:
 translate Tchinese a1s3_e61a9551:
 
     # d "\"We thought we saw something on the road and swerved. Was probably just a rock, or something.\""
-    d "“我們在路上看到了某個東西，就打了個急轉彎，也許只是塊石頭或什麼的。”"
+    d "“我們在路上看到了某個東西，就打了個急轉彎，可能是塊石頭或什麼的。”"
 
 # game/a1s3.rpy:25
 translate Tchinese a1s3_43497edb:
@@ -88,7 +88,7 @@ translate Tchinese a1s3_13c38ed1:
 translate Tchinese a1s3_b3369a68:
 
     # d "\"It was. Hey, how long do you need to recharge for the drive? I can take the wheel if you're too worn out.\""
-    d "“的確。嘿，你需要休息多久才能開車？如果真的累了我可以幫你開。”"
+    d "“確實，我說，你到底要休息多久？如果真的累了我可以幫你開。”"
 
 # game/a1s3.rpy:35
 translate Tchinese a1s3_c96139ca:
@@ -256,7 +256,7 @@ translate Tchinese a1s3_c03409bc:
 translate Tchinese a1s3_38e8fe94:
 
     # c "\"Anyway, I don't mind taking a hit, if that's okay with you, Artie.\""
-    c "“總之，要是方便的話，我不介意來上一口，Artie.”"
+    c "“總之，要是方便的話，我不介意來上一口，Artie。”"
 
 # game/a1s3.rpy:83
 translate Tchinese a1s3_e9028969:
@@ -328,7 +328,7 @@ translate Tchinese a1s3_1740dc36:
 translate Tchinese a1s3_df608344:
 
     # d "\"Hey, you alright?\""
-    d "“你沒事吧？”"
+    d "“沒事吧？”"
 
 # game/a1s3.rpy:103
 translate Tchinese a1s3_971cd183:
@@ -436,7 +436,7 @@ translate Tchinese a1s3_1ce84f9e:
 translate Tchinese a1s3_9798bd03:
 
     # a "\"You sure you're good? I know we only got high together a few times, but I don't want you to feel left out.\""
-    a "“你確定你還好嗎？我知道我們兩個只有一起嗨過幾次，不過別覺得自己被冷落了。”"
+    a "“你確定你還好嗎？我知道我們倆沒那麼鐵，不過別覺得自己被冷落了。”"
 
 # game/a1s3.rpy:131
 translate Tchinese a1s3_cc559c95:
@@ -617,12 +617,6 @@ translate Tchinese a1s3_9a9d56eb:
 
     # "Cameron quickly walks back to the road where Dev and Artie are, trying not to look like his legs are both fifty pounds heavier."
     "Cameron快步走回Dev和Artie所在的公路，盡量不讓自己的雙腿顯得像灌了五十磅重的鉛。"
-
-# game/a1s3.rpy:189
-translate Tchinese a1s3_c0aa4e45:
-
-    # "It doesn't help that his jeans are still a bit damp, rubbing up againt itself in a rather unpleasant way."
-    "It doesn't help that his jeans are still a bit damp, rubbing up againt itself in a rather unpleasant way."
 
 # game/a1s3.rpy:191
 translate Tchinese a1s3_c3b7b1c4:
@@ -940,7 +934,7 @@ translate Tchinese a1s3_3e3cbcd0:
 translate Tchinese a1s3_36c536ba:
 
     # a "\"So just relax. You'll start coming down within an hour.\""
-    a "“放輕鬆點就好，這藥效頂多持續一小時。”"
+    a "“放輕鬆點，這藥效頂多持續一小時。”"
 
 # game/a1s3.rpy:266
 translate Tchinese a1s3_1bb9f84e:
@@ -1054,7 +1048,7 @@ translate Tchinese a1s3_794b088e:
 translate Tchinese a1s3_6c68ee95:
 
     # "Devon studies Cameron closely for a moment, and Cameron's blood runs cold at the thought that, for whatever reason, what he just said is fucked up enough to make Devon question why he's with the crazy canine in the first place."
-    "Devon還在端詳地看著Cameron。然而Cameron一想到剛才的話糟糕到足以讓Devon懷疑他究竟為什麼要和我這種瘋狗交往，他不禁不寒而慄。"
+    "Devon還在仔細端詳著Cameron。然而Cameron一想到剛才的話糟糕到足以讓Devon懷疑他究竟為什麼要和我這種瘋狗交往，他不禁不寒而慄。"
 
 # game/a1s3.rpy:300
 translate Tchinese a1s3_331a8027:
@@ -1072,7 +1066,7 @@ translate Tchinese a1s3_292d1a37:
 translate Tchinese a1s3_912ce7bc:
 
     # "He holds up a green, plastic bottle, filled with water and Cameron drinks from it loudly."
-    "他端起一個裝滿水的綠色塑膠瓶，Cameron大聲喝了起來。"
+    "他端起一個裝滿水的綠色塑膠瓶，Cameron大口喝了起來。"
 
 # game/a1s3.rpy:305
 translate Tchinese a1s3_d25d0b98:
@@ -1588,7 +1582,7 @@ translate Tchinese a1s3_3149b95d:
 translate Tchinese a1s3_a2c6814c:
 
     # c "\"I think she just likes to be able to point at a moment everything went wrong, but anyway, they'd been hyping up this space shuttle launch for months and she'd decided she was going to be an astronaut.\""
-    c "“我想她只是喜歡自己有自知之明罷了。回到正題，當時正值太空船的熱潮，於是她立志成為一名宇航員。”"
+    c "“我想她只是喜歡自己有自知之明罷了。回到正題，當時正值太空船的熱潮，於是她立志成為一名太空人。”"
 
 # game/a1s3.rpy:445
 translate Tchinese a1s3_443ec7e1:
@@ -1606,7 +1600,7 @@ translate Tchinese a1s3_c0a8e3bd:
 translate Tchinese a1s3_1ea23d6b:
 
     # c "\"Then, while the whole class was watching the liftoff live on TV, it exploded, and even though her teacher turned it off and went about the day like nothing happened, they all knew those astronauts were dead.\""
-    c "“然後，當著全班同學的面，飛機在發射過程中爆炸了。儘管她的老師馬上關掉了電視，裝作什麼都沒發生，可誰都知道那些宇航員已經活不成了。”"
+    c "“然後，當著全班同學的面，飛機在發射過程中爆炸了。儘管她的老師馬上關掉了電視，裝作什麼都沒發生，可誰都知道那些太空人已經活不成了。”"
 
 # game/a1s3.rpy:450
 translate Tchinese a1s3_26d9756f:
@@ -1636,7 +1630,7 @@ translate Tchinese a1s3_ada80136:
 translate Tchinese a1s3_38e572ac:
 
     # c "\"Why my mom didn't know what to do? It's because she watched clips of smiling, waving astronauts getting on a space shuttle that then exploded live on TV, Devon.\""
-    c "“我媽為什麼沒有了方向？因為她在電視上看到了宇航員微笑著登上太空船，然後爆炸的畫面。”"
+    c "“我媽為什麼沒有了方向？因為她在電視上看到了太空人微笑著登上太空船，然後爆炸的畫面。”"
 
 # game/a1s3.rpy:460
 translate Tchinese a1s3_029cf5c4:
@@ -1894,7 +1888,7 @@ translate Tchinese a1s3_68e32552:
 translate Tchinese a1s3_c94ccdb8:
 
     # a "\"Well yeah, it was short, but when he dumped Dev, like, he went the full chick flick route and laid in bed for a week eating ice cream.{w} I was so worried about him that I set the two of you up.\""
-    a "“是挺短的，跟言情片一樣。Dev被甩之後在床上吃了足足一星期的冰淇淋，我那叫一個擔心啊，{w}這才撮合了你們兩個。”"
+    a "“是啊，挺短的。Dev被甩了之後，可是窩在床上瘋狂看著愛情電影，吃了整整一個星期的冰淇淋呢。{w}我實在是很擔心他，這才撮合了你們兩個。”"
 
 # game/a1s3.rpy:542
 translate Tchinese a1s3_1cd15632:
@@ -2266,7 +2260,7 @@ translate Tchinese a1s3_1dd5d39f:
 translate Tchinese a1s3_31d749fa:
 
     # c "\"...I don't know, I don't think so.{w} It has more to do with me than ghosts, though.\""
-    c "“……我不知道，但應該不會。{w}相較於鬼魂，這和我本身關係的更大，比較棘手。”"
+    c "“……我不知道，但應該不會。{w}相較於鬼魂，這和我本身的關係更大，比較棘手。”"
 
 # game/a1s3.rpy:642
 translate Tchinese a1s3_500bd22c:
@@ -2488,7 +2482,7 @@ translate Tchinese a1s3_656fb18a:
 translate Tchinese a1s3_2cc6cbad:
 
     # "So no, this is stupid, and he won't touch drugs again, not even weed."
-    "所以，不，這簡直愚蠢透極，他不會再碰毒品了，哪怕是一片大麻。"
+    "所以，不，這簡直愚蠢透頂，他不會再碰毒品了，哪怕是一片大麻。"
 
 # game/a1s3.rpy:687
 translate Tchinese a1s3_43080a92:
@@ -2794,7 +2788,7 @@ translate Tchinese a1s3_8edfc44a:
 translate Tchinese a1s3_1d15b34a:
 
     # "The weasel regards him coolly, seemingly not bothered by the fact that he just used his own face as a battering ram."
-    "那隻鼬冷冷地盯著他，似乎對自己剛剛把臉當做攻城錘的事不以為然。"
+    "那隻鼬冷冷地盯著他，似乎對自己剛剛把臉當做攻城錘的事不以為意。"
 
 # game/a1s3.rpy:771
 translate Tchinese a1s3_1cdeefda:
@@ -2998,7 +2992,7 @@ translate Tchinese a1s3_1a8c0c2e:
 translate Tchinese a1s3_728e0dd8:
 
     # "With that, the man turns away, sticking his gun down his pants before calmly collecting his tools, closing the toolbox, and walking off the road, straight through the sage brush."
-    "說罷，那個人轉過身，把槍插進褲腰，然後平靜地收起工具，關上工具箱，從矮木灌叢徑直離開了公路。"
+    "說罷，那個人轉過身，把槍插進褲腰，然後平靜地收起工具，關上工具箱，從矮灌木叢徑直離開了公路。"
 
 # game/a1s3.rpy:828
 translate Tchinese a1s3_f310b633:
@@ -3113,4 +3107,18 @@ translate Tchinese a1s3_a54be4e1:
 
     # "Then he pushes through, and tumbles into thick darkness."
     "然後他強行擠進窗口，跌入了伸手不見五指的黑暗之中。"
+
+# TODO: Translation updated at 2023-07-22 12:54
+
+# game/a1s3.rpy:189
+translate Tchinese a1s3_926f74b7:
+
+    # "It doesn't help that his jeans are still a bit damp, the feeling of the soggy denim on his fur incredibly unpleasant."
+    "牛仔褲還沒有乾，濕漉漉的布料黏在腿上，讓他格外不舒服。"
+
+# game/a1s3.rpy:376
+translate Tchinese a1s3_13880da0:
+
+    # a "\"I mean, one died after routine surgery, but the cartel wasn't involved... as far as I know!\""
+    a "“其中一個死在了手術台上，不過和卡特爾無關……據我所知無關！”"
 

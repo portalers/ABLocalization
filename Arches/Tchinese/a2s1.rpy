@@ -526,7 +526,7 @@ translate Tchinese a2s1_5edb4dce:
 translate Tchinese a2s1_bad620e9:
 
     # d "\"Cameron, please open the door.\""
-    d "“開開門，Cameron，求你了。”"
+    d "“開門，Cameron，求你了。”"
 
 # game/a2s1.rpy:120
 translate Tchinese a2s1_b9ebcadd:
@@ -550,7 +550,7 @@ translate Tchinese a2s1_b62ff5c7:
 translate Tchinese a2s1_c60bddff:
 
     # c "\"YOU'RE freaking me the fuck out!{w} Why did you even bring me here?{w=0.3} Is Artie there, too?\""
-    c "“{b}你{/b}才要嚇死我了！{w}你帶我來究竟有什麼目的？{w=0.3}Artie也摻了一腿，是不是？”"
+    c "“{b}你{/b}才要嚇死我了！{w}你帶我來究竟有什麼目的？{w=0.3}Artie也參了一腿，是不是？”"
 
 # game/a2s1.rpy:124
 translate Tchinese a2s1_30cd6646:
@@ -700,7 +700,7 @@ translate Tchinese a2s1_273b2780:
 translate Tchinese a2s1_9579c5e0:
 
     # d "\"What the {i}fuck{/i}?\""
-    d "“{b}怎麼{/b}搞得？”"
+    d "“{b}怎麼{/b}搞的？”"
 
 # game/a2s1.rpy:158
 translate Tchinese a2s1_79b83c63:
@@ -1846,13 +1846,13 @@ translate Tchinese a2s1_6fd33777:
 translate Tchinese a2s1_85c90417:
 
     # "She'd always been meticulously clean, emphasizing that while they might live in a trailer, they can still make it look nice."
-    "她總是把家裡打掃的一塵不染，以彰顯就算住在拖車房，一樣能活得敞亮。"
+    "她總是把家裡打掃得一塵不染，以彰顯就算住在拖車房，一樣能活得敞亮。"
 
 # game/a2s1.rpy:465
 translate Tchinese a2s1_66b65c1e:
 
     # "But over the past year, she'd seemed to care less and less and now, dishes were used and never cleaned, boxes of takeout opened and left where they were eaten."
-    "但過去一年裡，她的心思越來越不在上面。現如今，碗碟許久無人清洗，外賣盒早已堆積如山。"
+    "但過去一年裡，她的心思越來越不在上面。如今，碗碟許久無人清洗，外賣盒早已堆積如山。"
 
 # game/a2s1.rpy:466
 translate Tchinese a2s1_b79e1bc9:
@@ -2086,7 +2086,7 @@ translate Tchinese a2s1_f79a3045:
 translate Tchinese a2s1_566acfeb:
 
     # c "\"Stop, {w=0.5}stop it. {w=0.5}I'm not Mom.\""
-    c "“不，{w=0.5}別說了{w=0.5}我和我媽媽不一樣。”"
+    c "“不，{w=0.5}別說了！{w=0.5}我和我媽媽不一樣。”"
 
 # game/a2s1.rpy:522
 translate Tchinese a2s1_8021e722:
@@ -3088,7 +3088,7 @@ translate Tchinese a2s1_1f4369ae:
 translate Tchinese a2s1_e89195e6:
 
     # unk3 "\"{cps=30}{i}There is no hell. {w=0.3}This is death. {w=0.3}This is what happens to everyone, Cameron.\"{/i}"
-    unk3 "“{cps=30}{i}不存在地獄。{w=0.3}這就是死亡{w=0.3}每個人都會迎來的死亡，Cameron。”{/i}"
+    unk3 "“{cps=30}{i}不存在地獄。{w=0.3}這就是死亡。{w=0.3}每個人都會迎來的死亡，Cameron。”{/i}"
 
 # game/a2s1.rpy:833
 translate Tchinese a2s1_3c8019a1:
@@ -3480,3 +3480,52 @@ translate Tchinese a2s1_2c6b6ba2:
     # "He's holding a shotgun."
     "端著一柄獵槍的熊。"
 
+# TODO: Translation updated at 2023-07-22 12:54
+
+# game/a2s1.rpy:837
+translate Tchinese a2s1_87f83fc4:
+
+    # centered "{sc}{font=ui/raven.ttf}\" No! {w=0.3}Get away! \"{/sc}"
+    centered "{sc}{font=ui/raven2.ttf}\"不！{w=0.3}放開我！\"{/sc}"
+
+# game/a2s1.rpy:839
+translate Tchinese a2s1_15f0bfbe:
+
+    # centered "{sc}{font=ui/raven.ttf}\" Stupid fucking cunt! {w=0.3}Cheating whore! \"{/sc}"
+    centered "{sc}{font=ui/raven2.ttf}\"下賤的妓女！{w=0.3}臭婊子！\"{/sc}"
+
+# game/a2s1.rpy:842
+translate Tchinese a2s1_58eaad70:
+
+    # centered "{sc}{font=ui/raven.ttf}\" He's dead, {w=0.3}you can stop now. \"{/sc}"
+    centered "{sc}{font=ui/raven2.ttf}\"他已經死了，{w=0.3}你可以停手了。\"{/sc}"
+
+# game/a2s1.rpy:843
+translate Tchinese a2s1_82717f4d:
+
+    # centered "{sc}{font=ui/raven.ttf}\" Naw, {w=0.3}he's still twitching. \"{/sc}"
+    centered "{sc}{font=ui/raven2.ttf}\"不，{w=0.3}他還在動。\"{/sc}"
+
+# game/a2s1.rpy:849
+translate Tchinese a2s1_17d148a2:
+
+    # centered "{sc}{font=ui/raven.ttf}\" If you let me go, {w=0.3}I won't tell anyone.\n {w=0.4}I swear to God! \"{/sc}"
+    centered "{sc}{font=ui/raven2.ttf}\"放了我吧，{w=0.3}我不會告訴任何人的，{w=0.4}我發誓！\"{/sc}"
+
+# game/a2s1.rpy:850
+translate Tchinese a2s1_9f5f4928:
+
+    # centered "{sc}{font=ui/raven.ttf}\" No me mates, {w=0.3}por favor! \"{/sc}"
+    centered "{sc}{font=ui/raven2.ttf}\"兄弟們，{w=0.3}行行好吧！\"{/sc}"
+
+# game/a2s1.rpy:851
+translate Tchinese a2s1_735deac9:
+
+    # centered "{sc}{font=ui/raven.ttf}\" Stop! {w=0.3}Stop! {w=0.3}Just Stop! \"{/sc}"
+    centered "{sc}{font=ui/raven2.ttf}\"不！{w=0.3}不要！{w=0.3}快住手！\"{/sc}"
+
+# game/a2s1.rpy:855
+translate Tchinese a2s1_17142c31:
+
+    # centered "{sc}{font=ui/raven.ttf}\" Why don't you just kill me? \"{/sc}"
+    centered "{sc}{font=ui/raven2.ttf}\"你為什麼不直接殺了我？\"{/sc}"

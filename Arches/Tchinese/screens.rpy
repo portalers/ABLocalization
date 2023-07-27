@@ -1,4 +1,4 @@
-translate Tchinese strings:
+﻿translate Tchinese strings:
 
     # game/screens.rpy:256
     old "Back"
@@ -359,3 +359,16 @@ translate Tchinese strings:
     old "Main"
     new "主菜單"
 
+translate Tchinese strings:
+
+    old "{font=ui/coolstoryregular.ttf}April 2020"
+    new "{font=ui/coolstoryregular.ttf}2020年四月"
+
+    old "{font=ui/coolstoryregular.ttf}October 2020"
+    new "{font=ui/coolstoryregular.ttf}2020年十月"
+
+    old "{font=ui/coolstoryregular.ttf}Summer 2021"
+    new "{font=ui/coolstoryregular.ttf}2021年夏"
+
+    old "{font=ui/coolstoryregular.ttf}March 2023"
+    new "{font=ui/coolstoryregular.ttf}2023年三月"

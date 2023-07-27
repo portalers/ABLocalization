@@ -244,7 +244,7 @@ translate Tchinese a1s2_d68b8b5e:
 translate Tchinese a1s2_94226872:
 
     # "Dev pauses, apparently waiting for a response, but Cameron can't think of one to give him."
-    "Dev頓了頓，顯然是在等一個回復，但Cameron的大腦只有一片空白。"
+    "Dev頓了頓，顯然是在等一個回覆，但Cameron的大腦只有一片空白。"
 
 # game/a1s2.rpy:51
 translate Tchinese a1s2_39d86087:
@@ -1432,7 +1432,7 @@ translate Tchinese a1s2_70181ca7:
 translate Tchinese a1s2_35c6ee38:
 
     # c "\"Remember a while back when I asked what we'd do if there was an emergency?{w} You said there was still cell service in parts of the town.\""
-    c "“還記得前陣子我問，要是出現緊急情況怎麼辦嗎？{w}你說鎮上能收到信號。”"
+    c "“還記得前陣子我問，要是出現緊急情況怎麼辦嗎？{w}你說鎮上能收到訊號。”"
 
 # game/a1s2.rpy:354
 translate Tchinese a1s2_29292a64:
@@ -1906,7 +1906,7 @@ translate Tchinese a1s2_ad11fa37:
 translate Tchinese a1s2_11388089:
 
     # d "\"Dammit, I {i}just{/i} had a bar for a split sec.\""
-    d "“可惡，{b}剛剛{/b}有了格信號，一眨眼功夫不見了。”"
+    d "“可惡，{b}剛剛{/b}有一格訊號，一眨眼功夫就沒了。”"
 
 # game/a1s2.rpy:507
 translate Tchinese a1s2_39e1f3c4:
@@ -2212,7 +2212,7 @@ translate Tchinese a1s2_be1bc3e7:
 translate Tchinese a1s2_827a0d44:
 
     # "{i}That would be a real treat for ya, Dev. Not only is your boyfriend crazy, he's violent too.{/i}"
-    "{i}那你可有的受了，Dev。你的男朋友不僅是個瘋子，還是個暴力狂。{/i}"
+    "{i}那你可有得受了，Dev。你的男朋友不僅是個瘋子，還是個暴力狂。{/i}"
 
 # game/a1s2.rpy:622
 translate Tchinese a1s2_031a0d48:
@@ -2416,7 +2416,7 @@ translate Tchinese a1s2_9f08c9ac:
 translate Tchinese a1s2_d4c32630:
 
     # d "\"Wh-Why? I think it's just like, a drunk hick, or something.{w} I'm almost done messaging Artie--\""
-    d "“為──為什麼？不就是個喝醉了的鄉巴佬，之類的嗎？{w}我馬上就給Artie發完簡訊──”"
+    d "“為──為什麼？不就是個喝醉了的鄉巴佬之類的嗎？{w}我馬上就給Artie發完簡訊──”"
 
 # game/a1s2.rpy:700
 translate Tchinese a1s2_9339d789:
@@ -2806,7 +2806,7 @@ translate Tchinese a1s2_ce585078:
 translate Tchinese a1s2_f6ae3fb4:
 
     # c "\"Can you believe this!? Sorry, I don't know why I'm so happy, it's just...{w} There's a fucking reason for me being the way I am!\""
-    c "“太不可思議了！抱歉，我也不知道我為什麼這麼高興，只是……{w}我變成這樣這副鬼樣子不是沒有緣由的！”"
+    c "“太不可思議了！抱歉，我也不知道我為什麼這麼高興，只是……{w}我變成這副鬼樣子不是沒有緣由的！”"
 
 # game/a1s2.rpy:816
 translate Tchinese a1s2_5bb6c54b:
