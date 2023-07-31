@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-06-19 14:54
+# TODO: Translation updated at 2022-06-19 14:54
 
 translate Schinese strings:
 
@@ -36,11 +36,11 @@ translate Schinese strings:
 
     # game/screens.rpy:304
     old "Start"
-    new "开始游戏"
+    new "开始"
 
     # game/screens.rpy:312
     old "Load"
-    new "读取游戏"
+    new "读取"
 
     # game/screens.rpy:314
     old "Preferences"
@@ -340,8 +340,35 @@ translate Schinese strings:
 
     # QuickButtons
     old "Hide"
-    new "隐藏界面"
+    new "隐藏界面"# TODO: Translation updated at 2023-05-29 13:25
 
-    # game/options.rpy:15
-    old "Arches"
-    new "Arches"
+translate Schinese strings:
+
+    # game/screens.rpy:316
+    old "Options"
+    new "设置"
+
+    # game/screens.rpy:318
+    old "Gallery"
+    new "画廊"
+
+    # game/screens.rpy:327
+    old "Main"
+    new "主菜单"
+
+    old "Language"
+    new "语言"
+
+translate Schinese strings:
+
+    old "{font=ui/coolstoryregular.ttf}April 2020"
+    new "{font=ui/coolstoryregular.ttf}2020年四月"
+
+    old "{font=ui/coolstoryregular.ttf}October 2020"
+    new "{font=ui/coolstoryregular.ttf}2020年十月"
+
+    old "{font=ui/coolstoryregular.ttf}Summer 2021"
+    new "{font=ui/coolstoryregular.ttf}2021年夏"
+
+    old "{font=ui/coolstoryregular.ttf}March 2023"
+    new "{font=ui/coolstoryregular.ttf}2023年三月"
