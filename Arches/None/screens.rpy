@@ -1,18 +1,22 @@
+define config.default_language = "Schinese"
+
+init python:
+    config.font_replacement_map["ui/Yozai-Regular.ttf", True, False] = ("ui/Yozai-Bold.ttf", False, False)
+    
 screen preferences():
 
     tag menu
-
     if renpy.mobile:
         $ cols = 2
     else:
         $ cols = 4
 
-    use game_menu(_("Preferences"), scroll="viewport"):
+    use game_menu(_("Options"), scroll="viewport"):
 
         vbox:
 
             hbox:
-                box_wrap True
+                box_wrap False
 
                 if renpy.variant("pc"):
 
@@ -22,6 +26,7 @@ screen preferences():
                         textbutton _("Window") action Preference("display", "window")
                         textbutton _("Fullscreen") action Preference("display", "fullscreen")
 
+                    
                 vbox:
                     style_prefix "radio"
                     label _("Rollback Side")
@@ -34,15 +39,14 @@ screen preferences():
                     label _("Skip")
                     textbutton _("Unseen Text") action Preference("skip", "toggle")
                     textbutton _("After Choices") action Preference("after choices", "toggle")
-                    textbutton _("Transitions") action InvertSelected(Preference("transitions", "toggle"))
-
+                    #textbutton _("Transitions") action InvertSelected(Preference("transitions", "toggle"))
                 vbox:
                     style_prefix "radio"
                     label _("Language")
                     textbutton "English" action Language(None)
-                    textbutton "{font=font/SourceHanSansCN-Normal.otf}简体中文{/font}" action Language("Schinese")
-                    textbutton "{font=font/SourceHanSansTW-Normal.otf}繁體中文{/font}" action Language("Tchinese")
-
+                    textbutton "{font=ui/JiangChengYuanTi.ttf}简体中文{/font}" action Language("Schinese")
+                    textbutton "{font=ui/GenSenRounded-B.ttc}繁體中文{/font}" action Language("Tchinese")
+                
                 ## Additional vboxes of type "radio_pref" or "check_pref" can be
                 ## added here, to add additional creator-defined preferences.
 
@@ -54,22 +58,13 @@ screen preferences():
 
                 vbox:
 
-                    label _("Text Speed")
-
-                    bar value Preference("text speed")
-
-                    label _("Auto-Forward Time")
-
-                    bar value Preference("auto-forward time")
-
-                vbox:
-
                     if config.has_music:
                         label _("Music Volume")
 
                         hbox:
                             bar value Preference("music volume")
 
+                vbox:
                     if config.has_sound:
 
                         label _("Sound Volume")
@@ -80,7 +75,7 @@ screen preferences():
                             if config.sample_sound:
                                 textbutton _("Test") action Play("sound", config.sample_sound)
 
-
+                vbox:
                     if config.has_voice:
                         label _("Voice Volume")
 
@@ -97,37 +92,15 @@ screen preferences():
                             action Preference("all mute", "toggle")
                             style "mute_all_button"
 
+                vbox:
+                    style_prefix "slider"
+                    label _("Text Speed")
 
-## Choice Buttons ##############################################################
-##
-## Choice buttons are used in the in-game menus.
+                    bar value Preference("text speed")
 
-define gui.choice_button_width = 1185
-define gui.choice_button_height = None
-define gui.choice_button_tile = False
-define gui.choice_button_borders = Borders(150, 8, 150, 8)
-define gui.choice_button_text_font = gui.text_font
-define gui.choice_button_text_size = gui.text_size
-define gui.choice_button_text_xalign = 0.5
-define gui.choice_button_text_idle_color = "#cccccc"
-define gui.choice_button_text_hover_color = "#ffffff"
+                    label _("Auto-Forward Time")
 
-screen quick_menu():
-    variant "touch"
+                    bar value Preference("auto-forward time")
+                
 
-    zorder 100
 
-    hbox:
-        style_prefix "quick"
-
-        xalign 0.5
-        yalign 1.0
-
-        textbutton _("Back") action Rollback()
-        textbutton _("History") action ShowMenu('history')
-        textbutton _("Skip") action Skip() alternate Skip(fast=True, confirm=True)
-        textbutton _("Auto") action Preference("auto-forward", "toggle")
-        textbutton _("Q.Save") action QuickSave()
-        textbutton _("Q.Load") action QuickLoad()
-        textbutton _("Prefs") action ShowMenu('preferences')
-        textbutton _("Hide") action HideInterface()

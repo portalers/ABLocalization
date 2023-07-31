@@ -5162,3 +5162,17 @@ translate Schinese a3s2_d0141ab9:
     # "But that will be a long ways away, he's sure."
     "未来的路还很漫长。"
 
+# TODO: Translation updated at 2023-07-31 21:21
+
+# game/a3s2.rpy:521
+translate Schinese a3s2_e08351a7:
+
+    # "After tearing out Brian's throat, this Cameron immediately began communicating with Devon."
+    "在掐死Brian后，那个Cameron立刻与Devon进行了交谈。"
+
+# game/a3s2.rpy:1361
+translate Schinese a3s2_eadfc55d:
+
+    # "They kiss for a long time, and Devon desperately hopes Cameron is right, because more than anything, he wants to start fresh again, and do it right."
+    "他们亲吻良久。Devon多么希望他的Cameron是对的，因为他最想要的就是重新开始，做出正确的选择。"
+
