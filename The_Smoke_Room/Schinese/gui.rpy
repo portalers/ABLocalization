@@ -1,33 +1,33 @@
-translate Schinese python:
+translate Tchinese python:
 
-## 字体设定页面 ########################################################
+## 字體設定頁面 ########################################################
 
-## 绑定对话字体粗体
-    config.font_replacement_map["fonts/SourceHanSerifCN-Regular.otf", True, False] = ("fonts/SourceHanSerifCN-Bold.otf", False, False)
+## 綁定對話字體粗體
+    config.font_replacement_map["fonts/SourceHanSerifTW-Regular.otf", True, False] = ("fonts/SourceHanSerifTW-Bold.otf", False, False)
 
-## 文本对话字体
-    gui.text_font = gui.preference("font_a", "fonts/SourceHanSerifCN-Regular.otf")
+## 文本對話字體
+    gui.text_font = gui.preference("font_a", "fonts/SourceHanSerifTW-Regular.otf")
 
-## 角色名称字体
-    gui.name_text_font = gui.preference("font_b", "fonts/CN+PlayfairDisplaySCBold.ttf")
+## 角色名稱字體
+    gui.name_text_font = gui.preference("font_b", "fonts/TW+PlayfairDisplaySCBold.ttf")
 
-## 游戏简介界面字体
-    gui.interface_text_font = gui.preference("font_C", "fonts/SourceHanSerifCN-Bold.otf")
+## 遊戲簡介界面字體
+    gui.interface_text_font = gui.preference("font_C", "fonts/SourceHanSerifTW-Bold.otf")
 
-## 选项字体和按钮字体
+## 選項字體和按鈕字體
     gui.button_text_font = gui.interface_text_font
     gui.choice_button_text_font = gui.interface_text_font
 
-## Renpy系统界面字体
+## Renpy系統界面字體
     gui.system_font = gui.interface_text_font
 
-## 调整默认文本播放速度
+## 調整默認文本播放速度
     preferences.text_cps = 15
 
-## 更改选择点字体大小
+## 更改選擇點字體大小
     gui.choice_button_text_size = 36
 
-## 安卓界面配置微调
+## 安卓界面配置微調
     if renpy.variant("small"):
         gui.text_size = 43
         gui.dialogue_width = 1230
@@ -41,7 +41,7 @@ translate Schinese python:
         gui.quick_button_text_size = 50
         gui.quick_button_borders = Borders(45, 5, 45, 8)  
 
-## PC界面配置微调
+## PC界面配置微調
     if renpy.variant("pc"):
         gui.text_size = 34
         gui.quick_button_text_size = 30
