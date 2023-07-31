@@ -82,7 +82,7 @@
 
     # game/screens.rpy:606
     old "Automatic saves"
-    new "自動封存"
+    new "自動存檔"
 
     # game/screens.rpy:606
     old "Quick saves"
@@ -226,7 +226,7 @@
 
     # game/screens.rpy:1021
     old "Accesses the game menu."
-    new "訪問遊戲菜單。"
+    new "進入遊戲選單。"
 
     # game/screens.rpy:1024
     old "Ctrl"
@@ -357,7 +357,7 @@ translate Tchinese strings:
 
     # game/screens.rpy:327
     old "Main"
-    new "主菜單"
+    new "主選單"
 
 translate Tchinese strings:
 
