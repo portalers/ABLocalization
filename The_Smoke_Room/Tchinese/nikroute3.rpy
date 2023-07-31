@@ -18638,3 +18638,10 @@ translate Tchinese nikroute3a_046a4813:
 
     # "Felipe is waving back in the distance, carrying a sign of James III eating money."
     "Felipe在遠處招手回應，他舉著一個James三世吃紙鈔的牌子。"
+# TODO: Translation updated at 2023-07-25 16:41
+
+# game/nikroute3.rpy:2692
+translate Tchinese sny3_a74c56c5:
+
+    # co "\"Well it’s the coldest location on our property, which really makes a difference for the ease of storage.\""
+    co "\"“這是我們家最冷的區域了，溫度對儲藏的影響可是很大的。”\""

@@ -7834,3 +7834,10 @@ translate Tchinese cliffroute_896396c7:
     # jam "\"And you will not tell Nicholas either.\""
     jam "“還有，你同樣不可告訴Nicholas。”"
 
+# TODO: Translation updated at 2023-07-25 16:41
+
+# game/cliffroute.rpy:1286
+translate Tchinese cliffroute_cfa72996:
+
+    # "I've never told her I wanted to leave, but Cynthia has a way of finding things out on her own."
+    "我從沒有向她吐過想要離開的苦水，但她總有辦法找到答案。"

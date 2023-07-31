@@ -26003,3 +26003,2555 @@ translate Tchinese cliffroute2_3224ee83:
 
     # cl "\"After I left for university, I never felt the need. All my courses were in Albion, and most of my students spoke Albion as well.\""
     cl "\"離家上大學至今，我還沒遇到過非巴達維亞語不可的場合。我所有的課程、包括大部分學生們講的全是阿爾比恩語。\""
+# TODO: Translation updated at 2023-07-25 16:41
+
+# game/cliffroute2.rpy:550
+translate Tchinese cliffroute2_43c25686:
+
+    # m "\"Even so, Doris and Daisy though don't seem very fitting for jennys like them or a fellah like you.\""
+    m "\"Even so, Doris and Daisy though don't seem very fitting for jennys like them or a fellah like you.\""
+
+# game/cliffroute2.rpy:1588
+translate Tchinese aftercanyon_126b07e4:
+
+    # "He jerks his head at the flask in Murdoch's paw."
+    "He jerks his head at the flask in Murdoch's paw."
+
+# game/cliffroute2.rpy:2521
+translate Tchinese aftercanyon_5461857b:
+
+    # jeb "\"If there's anything to know, I'll let you know.\""
+    jeb "\"If there's anything to know, I'll let you know.\""
+
+# game/cliffroute2.rpy:2577
+translate Tchinese aftercanyon_0d22d6ee:
+
+    # mu "\"Every man mourns in his own way.\""
+    mu "\"Every man mourns in his own way.\""
+
+# game/cliffroute2.rpy:2641
+translate Tchinese aftercanyon_bb34dc04:
+
+    # "He laughs uncomfortably."
+    "He laughs uncomfortably."
+
+# game/cliffroute2.rpy:2970
+translate Tchinese aftercanyon_dfb4fac3:
+
+    # mu "\"Then now's as good a time as any to just talk.\""
+    mu "\"Then now's as good a time as any to just talk.\""
+
+# game/cliffroute2.rpy:3337
+translate Tchinese mt2_fdf08dc6:
+
+    # jeb "\"I need somebody else to confirm it though just in case y'all question my credibility again.\""
+    jeb "\"I need somebody else to confirm it though just in case y'all question my credibility again.\""
+
+# game/cliffroute2.rpy:3910
+translate Tchinese mt2_952549d8:
+
+    # ysb "\"Tsela and Avery speak your language better than me.\""
+    ysb "\"Tsela and Avery speak your language better than me.\""
+
+# game/cliffroute2.rpy:3920
+translate Tchinese mt2_0840cef3:
+
+    # ysb "\"I think it is good to see more people right now.\""
+    ysb "\"I think it is good to see more people right now.\""
+
+# game/cliffroute2.rpy:4189
+translate Tchinese mt2_1894d67a:
+
+    # av "\"This is gonna sound real funny to you, but I'm not a doctor the way you'd expect me to be.\""
+    av "\"This is gonna sound real funny to you, but I'm not a doctor the way you'd expect me to be.\""
+
+# game/cliffroute2.rpy:4829
+translate Tchinese mt2_8ea1ad52:
+
+    # "She looks back and forth at all of us, folds in her brow growing prominent, then looks toward Avery, speaking slowly and calmly in that language."
+    "She looks back and forth at all of us, folds in her brow growing prominent, then looks toward Avery, speaking slowly and calmly in that language."
+
+# game/cliffroute2.rpy:4977
+translate Tchinese mt2_07f345b1:
+
+    # ysb "\"One of ours said that the trees looked different, that they could see things that shouldn’t normally be there.\""
+    ysb "\"One of ours said that the trees looked different, that they could see things that shouldn’t normally be there.\""
+
+# game/cliffroute2.rpy:4982
+translate Tchinese mt2_85bf9be9:
+
+    # ysb "\"There haven’t been problems until now.\""
+    ysb "\"There haven’t been problems until now.\""
+
+# game/cliffroute2.rpy:5384
+translate Tchinese mt2_ba4b562f:
+
+    # av "\"With all that's...\""
+    av "\"With all that's...\""
+
+# game/cliffroute2.rpy:5847
+translate Tchinese maphogan2_488ea755:
+
+    # cl "\"I'd misplaced the rag I normally use to clean my glasses, see, and--\""
+    cl "\"I'd misplaced the rag I normally use to clean my glasses, see, and--\""
+
+# game/cliffroute2.rpy:6107
+translate Tchinese maphogan2_c37251e8:
+
+    # av "\"That happened {i}once{/i}.\""
+    av "\"That happened {i}once{/i}.\""
+
+# game/cliffroute2.rpy:7186
+translate Tchinese hh_7ce91439:
+
+    # av "\"Jeb, I don't think that it's safe to--\""
+    av "\"Jeb, I don't think that it's safe to--\""
+
+# game/cliffroute2.rpy:8076
+translate Tchinese smc1_ab97c409:
+
+    # cl "\"Thank you.\""
+    cl "\"Thank you.\""
+
+# game/cliffroute2.rpy:8077
+translate Tchinese smc1_a786d05e:
+
+    # "He lets out an excited squeak as he turns to me."
+    "He lets out an excited squeak as he turns to me."
+
+# game/cliffroute2.rpy:8078
+translate Tchinese smc1_0dd2dda4:
+
+    # cl "\"Shall we get going?\""
+    cl "\"Shall we get going?\""
+
+# game/cliffroute2.rpy:8080
+translate Tchinese smc1_c89c55c8:
+
+    # "He goes on ahead, leaving Murdoch and I to look at one another."
+    "He goes on ahead, leaving Murdoch and I to look at one another."
+
+# game/cliffroute2.rpy:8081
+translate Tchinese smc1_f91c2fca:
+
+    # "The fox smirks at me."
+    "The fox smirks at me."
+
+# game/cliffroute2.rpy:8082
+translate Tchinese smc1_f86838bb:
+
+    # "I get the feeling this is what he was hoping for."
+    "I get the feeling this is what he was hoping for."
+
+# game/cliffroute2.rpy:8084
+translate Tchinese smc1_91349b5e:
+
+    # mu "\"You don't want to make him wait, do you?\""
+    mu "\"You don't want to make him wait, do you?\""
+
+# game/cliffroute2.rpy:8086
+translate Tchinese smc1_0b2b4345:
+
+    # m "\"Can't have him running into trouble again.\""
+    m "\"Can't have him running into trouble again.\""
+
+# game/cliffroute2.rpy:8088
+translate Tchinese smc1_af918574:
+
+    # mu "\"He does make it a habit.\""
+    mu "\"He does make it a habit.\""
+
+# game/cliffroute2.rpy:8092
+translate Tchinese smc1_611cc4e4:
+
+    # "The spring isn't all that big, but it's quiet, which is all I can really ask for."
+    "The spring isn't all that big, but it's quiet, which is all I can really ask for."
+
+# game/cliffroute2.rpy:8093
+translate Tchinese smc1_1ee1fcd8:
+
+    # "Quiet and private."
+    "Quiet and private."
+
+# game/cliffroute2.rpy:8094
+translate Tchinese smc1_24ef8d76:
+
+    # "And I've had little privacy these past few days."
+    "And I've had little privacy these past few days."
+
+# game/cliffroute2.rpy:8097
+translate Tchinese smc1_8cb797ea:
+
+    # "I kneel next to the water, getting a feel for the temperature."
+    "I kneel next to the water, getting a feel for the temperature."
+
+# game/cliffroute2.rpy:8098
+translate Tchinese smc1_1bfd8052:
+
+    # "Water's nice and warm."
+    "Water's nice and warm."
+
+# game/cliffroute2.rpy:8099
+translate Tchinese smc1_c7f827b1:
+
+    # "A hot spring."
+    "A hot spring."
+
+# game/cliffroute2.rpy:8100
+translate Tchinese smc1_b7f3a878:
+
+    # "Cliff's already pulling his shirt over his head. His pack and hat are already on the ground."
+    "Cliff's already pulling his shirt over his head. His pack and hat are already on the ground."
+
+# game/cliffroute2.rpy:8101
+translate Tchinese smc1_10f6e7d9:
+
+    # "Some of the scrapes from the scrap with Reed and Huxley still show on his body."
+    "Some of the scrapes from the scrap with Reed and Huxley still show on his body."
+
+# game/cliffroute2.rpy:8102
+translate Tchinese smc1_2bf5828f:
+
+    # mu "\"What a view.\""
+    mu "\"What a view.\""
+
+# game/cliffroute2.rpy:8103
+translate Tchinese smc1_a8300ac7:
+
+    # "I'm not complaining, either."
+    "I'm not complaining, either."
+
+# game/cliffroute2.rpy:8104
+translate Tchinese smc1_401e7f54:
+
+    # "After I've lowered the straps, my overalls just fall to the ground."
+    "After I've lowered the straps, my overalls just fall to the ground."
+
+# game/cliffroute2.rpy:8105
+translate Tchinese smc1_8269e7e5:
+
+    # "I can feel their eyes on me now. Cliff stammers. Murdoch clears his throat."
+    "I can feel their eyes on me now. Cliff stammers. Murdoch clears his throat."
+
+# game/cliffroute2.rpy:8106
+translate Tchinese smc1_fd9ea9fb:
+
+    # mu "\"Yep. Almost worth the hike over here.\""
+    mu "\"Yep. Almost worth the hike over here.\""
+
+# game/cliffroute2.rpy:8107
+translate Tchinese smc1_23068794:
+
+    # cl "\"I do agree!\""
+    cl "\"I do agree!\""
+
+# game/cliffroute2.rpy:8109
+translate Tchinese smc1_a01b1eda:
+
+    # "With my shirt undone, too, I step into the shallow water, splashing some of it on my face."
+    "With my shirt undone, too, I step into the shallow water, splashing some of it on my face."
+
+# game/cliffroute2.rpy:8110
+translate Tchinese smc1_c557818d:
+
+    # "Feels like a slice of heaven."
+    "Feels like a slice of heaven."
+
+# game/cliffroute2.rpy:8111
+translate Tchinese smc1_83d6d3f2:
+
+    # "Murdoch follows behind me, rubbing the water into the white fur on his chest."
+    "Murdoch follows behind me, rubbing the water into the white fur on his chest."
+
+# game/cliffroute2.rpy:8112
+translate Tchinese smc1_941763c3:
+
+    # "From the corner of my eye, I watch, even if just to see if the white trail from his muzzle goes all the way down."
+    "From the corner of my eye, I watch, even if just to see if the white trail from his muzzle goes all the way down."
+
+# game/cliffroute2.rpy:8113
+translate Tchinese smc1_956aeb40:
+
+    # "I can tell he's appreciating me too. Hard scent to mistake."
+    "I can tell he's appreciating me too. Hard scent to mistake."
+
+# game/cliffroute2.rpy:8115
+translate Tchinese smc1_839e7d08:
+
+    # mu "\"Cliff, are you joining us?\""
+    mu "\"Cliff, are you joining us?\""
+
+# game/cliffroute2.rpy:8117
+translate Tchinese smc1_3c063cdc:
+
+    # "The weasel's still at the edge, toes barely touching the water. It looks like his mind is elsewhere, glance avoidant and ears twitching."
+    "The weasel's still at the edge, toes barely touching the water. It looks like his mind is elsewhere, glance avoidant and ears twitching."
+
+# game/cliffroute2.rpy:8118
+translate Tchinese smc1_a318e77e:
+
+    # "He's picked up his hat to cover himself. Doin’ a piss-poor job of it, too."
+    "He's picked up his hat to cover himself. Doin’ a piss-poor job of it, too."
+
+# game/cliffroute2.rpy:8119
+translate Tchinese smc1_6a085e87:
+
+    # cl "\"I’ll just be a moment.\""
+    cl "\"I’ll just be a moment.\""
+
+# game/cliffroute2.rpy:8121
+translate Tchinese smc1_82bf932e:
+
+    # mu "\"Are you serious?\""
+    mu "\"Are you serious?\""
+
+# game/cliffroute2.rpy:8123
+translate Tchinese smc1_2ee52f28:
+
+    # mu "\"Why so shy all of a sudden? This kind of thing seems right up your alley.\""
+    mu "\"Why so shy all of a sudden? This kind of thing seems right up your alley.\""
+
+# game/cliffroute2.rpy:8124
+translate Tchinese smc1_5c4e2695:
+
+    # cl "\"Oh really, now?\""
+    cl "\"Oh really, now?\""
+
+# game/cliffroute2.rpy:8126
+translate Tchinese smc1_47da61e1:
+
+    # mu "\"Well. You know.\""
+    mu "\"Well. You know.\""
+
+# game/cliffroute2.rpy:8128
+translate Tchinese smc1_0dc5fce2:
+
+    # mu "\"Just a couple of active men who need a wash together.\""
+    mu "\"Just a couple of active men who need a wash together.\""
+
+# game/cliffroute2.rpy:8129
+translate Tchinese smc1_2c61a627:
+
+    # mu "\"Along with their swords.\""
+    mu "\"Along with their swords.\""
+
+# game/cliffroute2.rpy:8130
+translate Tchinese smc1_d01df483:
+
+    # cl "\"No fencer in their right minds would dip a foil in a hot spring.\""
+    cl "\"No fencer in their right minds would dip a foil in a hot spring.\""
+
+# game/cliffroute2.rpy:8132
+translate Tchinese smc1_596aae0c:
+
+    # m "\"...\""
+    m "\"...\""
+
+# game/cliffroute2.rpy:8133
+translate Tchinese smc1_06714f6f:
+
+    # m "\"He’s talking about cocks, Cliff.\""
+    m "\"He’s talking about cocks, Cliff.\""
+
+# game/cliffroute2.rpy:8134
+translate Tchinese smc1_41171a4e:
+
+    # cl "\"I understood the jape!\""
+    cl "\"I understood the jape!\""
+
+# game/cliffroute2.rpy:8135
+translate Tchinese smc1_330bac8e:
+
+    # cl "\"I’m merely pointing out that the analogy was clumsy.\""
+    cl "\"I’m merely pointing out that the analogy was clumsy.\""
+
+# game/cliffroute2.rpy:8136
+translate Tchinese smc1_918f70db:
+
+    # "The weasel chuffs a bit, tail sticking up as a noisy chitter escapes between his teeth."
+    "The weasel chuffs a bit, tail sticking up as a noisy chitter escapes between his teeth."
+
+# game/cliffroute2.rpy:8137
+translate Tchinese smc1_fd0c253c:
+
+    # cl "\"I thought this would be simple and natural, but now I'm having second thoughts.\""
+    cl "\"I thought this would be simple and natural, but now I'm having second thoughts.\""
+
+# game/cliffroute2.rpy:8139
+translate Tchinese smc1_b90c842a:
+
+    # mu "\"Cliff.\""
+    mu "\"Cliff.\""
+
+# game/cliffroute2.rpy:8140
+translate Tchinese smc1_dfbf8013:
+
+    # "The fox shakes his head and wades over to the weasel, putting a hand on his side."
+    "The fox shakes his head and wades over to the weasel, putting a hand on his side."
+
+# game/cliffroute2.rpy:8143
+translate Tchinese smc1_b0910fd3:
+
+    # mu "\"You always have second, third, and fourth thoughts, but I promise that nothing gets more natural than this. You’re among friends!\""
+    mu "\"You always have second, third, and fourth thoughts, but I promise that nothing gets more natural than this. You’re among friends!\""
+
+# game/cliffroute2.rpy:8145
+translate Tchinese smc1_281a7019:
+
+    # mu "\"Sam here's probably seen so many pricks nothing surprises him anymore. No offense, Sam.\""
+    mu "\"Sam here's probably seen so many pricks nothing surprises him anymore. No offense, Sam.\""
+
+# game/cliffroute2.rpy:8146
+translate Tchinese smc1_4c51bcf8:
+
+    # m "\"Full offense taken.\""
+    m "\"Full offense taken.\""
+
+# game/cliffroute2.rpy:8147
+translate Tchinese smc1_d21d47c0:
+
+    # m "\"You seem plenty familiar with handling balls too, but at least I get paid to do it.\""
+    m "\"You seem plenty familiar with handling balls too, but at least I get paid to do it.\""
+
+# game/cliffroute2.rpy:8149
+translate Tchinese smc1_2cc73e73:
+
+    # m "\"Polishin’ cock for free? Now that’s what’s incorrigible.\""
+    m "\"Polishin’ cock for free? Now that’s what’s incorrigible.\""
+
+# game/cliffroute2.rpy:8150
+translate Tchinese smc1_1e2e4e3a:
+
+    # m "\"But that just pushes a new point professor.\""
+    m "\"But that just pushes a new point professor.\""
+
+# game/cliffroute2.rpy:8151
+translate Tchinese smc1_611e054e:
+
+    # m "\"Ain't you already been with both of us?\""
+    m "\"Ain't you already been with both of us?\""
+
+# game/cliffroute2.rpy:8153
+translate Tchinese smc1_eba0f637:
+
+    # cl "\"M--Murdoch, you told him?\""
+    cl "\"M--Murdoch, you told him?\""
+
+# game/cliffroute2.rpy:8155
+translate Tchinese smc1_36ffab55:
+
+    # mu "\"He mostly figured it out on his own.\""
+    mu "\"He mostly figured it out on his own.\""
+
+# game/cliffroute2.rpy:8159
+translate Tchinese smc1_b6bf653f:
+
+    # cl "\"Well, it's true…\""
+    cl "\"Well, it's true…\""
+
+# game/cliffroute2.rpy:8160
+translate Tchinese smc1_5375f3f4:
+
+    # m "\"So what's stoppin' you?\""
+    m "\"So what's stoppin' you?\""
+
+# game/cliffroute2.rpy:8162
+translate Tchinese smc1_5abc5a56:
+
+    # "The weasel gives me a steely look, then the fox."
+    "The weasel gives me a steely look, then the fox."
+
+# game/cliffroute2.rpy:8163
+translate Tchinese smc1_fe20f0fe:
+
+    # "I can see his eyelids narrow."
+    "I can see his eyelids narrow."
+
+# game/cliffroute2.rpy:8165
+translate Tchinese smc1_bca0f0e4:
+
+    # cl "\"Ah… to hell with it!\""
+    cl "\"Ah… to hell with it!\""
+
+# game/cliffroute2.rpy:8167
+translate Tchinese smc1_c7f39c0d:
+
+    # "He throws the hat aside."
+    "He throws the hat aside."
+
+# game/cliffroute2.rpy:8170
+translate Tchinese smc1_6cfc8970:
+
+    # "Neither of us are much surprised with why he was covering himself."
+    "Neither of us are much surprised with why he was covering himself."
+
+# game/cliffroute2.rpy:8171
+translate Tchinese smc1_4e89032d:
+
+    # "He's hard, and we can both smell it."
+    "He's hard, and we can both smell it."
+
+# game/cliffroute2.rpy:8172
+translate Tchinese smc1_9bd9ceea:
+
+    # "The long trail of pre he’s dripping swings and clings to his thigh when he breaks into a run and then practically splashes waist-deep into the warm water."
+    "The long trail of pre he’s dripping swings and clings to his thigh when he breaks into a run and then practically splashes waist-deep into the warm water."
+
+# game/cliffroute2.rpy:8173
+translate Tchinese smc1_a9e2cb4a:
+
+    # "Waist-deep for me, at least. Almost reaches his chest."
+    "Waist-deep for me, at least. Almost reaches his chest."
+
+# game/cliffroute2.rpy:8174
+translate Tchinese smc1_f549f9de:
+
+    # "He sighs loudly."
+    "He sighs loudly."
+
+# game/cliffroute2.rpy:8175
+translate Tchinese smc1_7daf783e:
+
+    # cl "\"Just what my body needed.\""
+    cl "\"Just what my body needed.\""
+
+# game/cliffroute2.rpy:8176
+translate Tchinese smc1_72d41136:
+
+    # mu "\"Not all it needs, clearly.\""
+    mu "\"Not all it needs, clearly.\""
+
+# game/cliffroute2.rpy:8177
+translate Tchinese smc1_4a5559af:
+
+    # "The weasel, already washing himself, freezes for a moment. He groans."
+    "The weasel, already washing himself, freezes for a moment. He groans."
+
+# game/cliffroute2.rpy:8178
+translate Tchinese smc1_28b7d78f:
+
+    # cl "\"Murdoch…\""
+    cl "\"Murdoch…\""
+
+# game/cliffroute2.rpy:8179
+translate Tchinese smc1_908c9716:
+
+    # mu "\"It's alright. Just the three of us here.\""
+    mu "\"It's alright. Just the three of us here.\""
+
+# game/cliffroute2.rpy:8180
+translate Tchinese smc1_50747a5d:
+
+    # mu "\"I can tell we're all a little worked up.\""
+    mu "\"I can tell we're all a little worked up.\""
+
+# game/cliffroute2.rpy:8181
+translate Tchinese smc1_73cc3358:
+
+    # m "\"He’s not wrong.\""
+    m "\"He’s not wrong.\""
+
+# game/cliffroute2.rpy:8182
+translate Tchinese smc1_4d857d7e:
+
+    # "Cliff looks to me."
+    "Cliff looks to me."
+
+# game/cliffroute2.rpy:8183
+translate Tchinese smc1_6f85b715:
+
+    # "Down, right above the water."
+    "Down, right above the water."
+
+# game/cliffroute2.rpy:8184
+translate Tchinese smc1_6d3051e9:
+
+    # m "\"Been too fucking long since I shot into a hot mouth or a tight ass.\""
+    m "\"Been too fucking long since I shot into a hot mouth or a tight ass.\""
+
+# game/cliffroute2.rpy:8185
+translate Tchinese smc1_0672cd2e:
+
+    # "His eyes go wide and his face flushes."
+    "His eyes go wide and his face flushes."
+
+# game/cliffroute2.rpy:8186
+translate Tchinese smc1_24a22744:
+
+    # "I slide a hand down over my stomach, keeping my eyes trained on him, and grab myself."
+    "I slide a hand down over my stomach, keeping my eyes trained on him, and grab myself."
+
+# game/cliffroute2.rpy:8187
+translate Tchinese smc1_e8df2391:
+
+    # "His breath catches in his throat."
+    "His breath catches in his throat."
+
+# game/cliffroute2.rpy:8188
+translate Tchinese smc1_d9ee72da:
+
+    # "I'm back in my element, and it feels good."
+    "I'm back in my element, and it feels good."
+
+# game/cliffroute2.rpy:8189
+translate Tchinese smc1_9578accb:
+
+    # m "\"Nothing to be ashamed of, professor.\""
+    m "\"Nothing to be ashamed of, professor.\""
+
+# game/cliffroute2.rpy:8190
+translate Tchinese smc1_b35bd031:
+
+    # "I pump it slowly just to watch his face contort as he tries to contain himself."
+    "I pump it slowly just to watch his face contort as he tries to contain himself."
+
+# game/cliffroute2.rpy:8191
+translate Tchinese smc1_e816f91d:
+
+    # "The stoat's eyes linger on me."
+    "The stoat's eyes linger on me."
+
+# game/cliffroute2.rpy:8192
+translate Tchinese smc1_73cb4a50:
+
+    # "Then his own hand sinks below the water as well."
+    "Then his own hand sinks below the water as well."
+
+# game/cliffroute2.rpy:8193
+translate Tchinese smc1_f3e091f9:
+
+    # "He grits his teeth and moans."
+    "He grits his teeth and moans."
+
+# game/cliffroute2.rpy:8194
+translate Tchinese smc1_97bd81a6:
+
+    # "I hear Murdoch chuckle beside me."
+    "I hear Murdoch chuckle beside me."
+
+# game/cliffroute2.rpy:8195
+translate Tchinese smc1_f53c30f9:
+
+    # mu "\"You folks mind if I join?\""
+    mu "\"You folks mind if I join?\""
+
+# game/cliffroute2.rpy:8196
+translate Tchinese smc1_d349c580:
+
+    # "I feel a smile spread across my face."
+    "I feel a smile spread across my face."
+
+# game/cliffroute2.rpy:8197
+translate Tchinese smc1_cd655320:
+
+    # m "\"Depends. Can you keep up?\""
+    m "\"Depends. Can you keep up?\""
+
+# game/cliffroute2.rpy:8198
+translate Tchinese smc1_ea6d308a:
+
+    # "I don’t always feel like I know what’s going through this fox’s head..."
+    "I don’t always feel like I know what’s going through this fox’s head..."
+
+# game/cliffroute2.rpy:8199
+translate Tchinese smc1_4d254f09:
+
+    # "But I definitely do right now."
+    "But I definitely do right now."
+
+# game/cliffroute2.rpy:8200
+translate Tchinese smc1_4d67a498:
+
+    # mu "\"Of course. I don't make wagers I know I can't win, Sam.\""
+    mu "\"Of course. I don't make wagers I know I can't win, Sam.\""
+
+# game/cliffroute2.rpy:8201
+translate Tchinese smc1_266b1ed0:
+
+    # "The stoat looks like his mind is elsewhere, suddenly."
+    "The stoat looks like his mind is elsewhere, suddenly."
+
+# game/cliffroute2.rpy:8202
+translate Tchinese smc1_fcb80519:
+
+    # "It looks like he's thinking about what he's going to say next very carefully, with considerable deliberation."
+    "It looks like he's thinking about what he's going to say next very carefully, with considerable deliberation."
+
+# game/cliffroute2.rpy:8203
+translate Tchinese smc1_d31eea9c:
+
+    # cl "\"I wager I’d very much like having you both.\""
+    cl "\"I wager I’d very much like having you both.\""
+
+# game/cliffroute2.rpy:8204
+translate Tchinese smc1_e2a68934:
+
+    # "He's so quiet I have to perk up my ears to hear him."
+    "He's so quiet I have to perk up my ears to hear him."
+
+# game/cliffroute2.rpy:8205
+translate Tchinese smc1_0743eae3:
+
+    # mu "\"Wager accepted, then.\""
+    mu "\"Wager accepted, then.\""
+
+# game/cliffroute2.rpy:8206
+translate Tchinese smc1_6198e48d:
+
+    # mu "\"Let's take this to the water's edge.\""
+    mu "\"Let's take this to the water's edge.\""
+
+# game/cliffroute2.rpy:8207
+translate Tchinese smc1_c8d4a2cf:
+
+    # "The fox is as hard as the both of us coming out of the water."
+    "The fox is as hard as the both of us coming out of the water."
+
+# game/cliffroute2.rpy:8208
+translate Tchinese smc1_fc3c030d:
+
+    # "I wasn't looking before, but I definitely am now. He's pretty big too."
+    "I wasn't looking before, but I definitely am now. He's pretty big too."
+
+# game/cliffroute2.rpy:8209
+translate Tchinese smc1_dd0fa955:
+
+    # "He sits down at the edge of the spring, russet pase still planted in the water."
+    "He sits down at the edge of the spring, russet pase still planted in the water."
+
+# game/cliffroute2.rpy:8210
+translate Tchinese smc1_4017935b:
+
+    # "I follow, Cliff trailing behind me. The stoat sits between us both."
+    "I follow, Cliff trailing behind me. The stoat sits between us both."
+
+# game/cliffroute2.rpy:8211
+translate Tchinese smc1_5bb3fb03:
+
+    # "He looks at me, and I don't need to hear him speak to know what he wants."
+    "He looks at me, and I don't need to hear him speak to know what he wants."
+
+# game/cliffroute2.rpy:8212
+translate Tchinese smc1_fe7b3b2a:
+
+    # "I put my hand on his thigh, earning a little squeak from him before Murdoch does the same to his other leg."
+    "I put my hand on his thigh, earning a little squeak from him before Murdoch does the same to his other leg."
+
+# game/cliffroute2.rpy:8213
+translate Tchinese smc1_e388cb40:
+
+    # "He twitches, leaking some."
+    "He twitches, leaking some."
+
+# game/cliffroute2.rpy:8214
+translate Tchinese smc1_4394f456:
+
+    # "Tells me all I need to know I'm doing well."
+    "Tells me all I need to know I'm doing well."
+
+# game/cliffroute2.rpy:8215
+translate Tchinese smc1_361e8a59:
+
+    # cl "\"Heavens…\""
+    cl "\"Heavens…\""
+
+# game/cliffroute2.rpy:8216
+translate Tchinese smc1_9a6d9d5f:
+
+    # mu "\"Just from a single touch?\""
+    mu "\"Just from a single touch?\""
+
+# game/cliffroute2.rpy:8217
+translate Tchinese smc1_7ef14fe9:
+
+    # "The fox's lips stretch into a smirk as he takes hold of the weasel delicately, running a thumb over the bead of precum at his tip."
+    "The fox's lips stretch into a smirk as he takes hold of the weasel delicately, running a thumb over the bead of precum at his tip."
+
+# game/cliffroute2.rpy:8218
+translate Tchinese smc1_d3c9f94b:
+
+    # "The weasel moans. Loudly."
+    "The weasel moans. Loudly."
+
+# game/cliffroute2.rpy:8219
+translate Tchinese smc1_7f8e932c:
+
+    # "Instinctively, I tilt his head towards me, shutting him up with a kiss."
+    "Instinctively, I tilt his head towards me, shutting him up with a kiss."
+
+# game/cliffroute2.rpy:8220
+translate Tchinese smc1_73f3bc64:
+
+    # "He tastes like mint again."
+    "He tastes like mint again."
+
+# game/cliffroute2.rpy:8221
+translate Tchinese smc1_baa5f27f:
+
+    # " ...Not surprising, considering he seemed to expect this."
+    " ...Not surprising, considering he seemed to expect this."
+
+# game/cliffroute2.rpy:8222
+translate Tchinese smc1_a05e4f38:
+
+    # "He moans into my mouth as Murdoch pumps him."
+    "He moans into my mouth as Murdoch pumps him."
+
+# game/cliffroute2.rpy:8223
+translate Tchinese smc1_26c0cba4:
+
+    # "The fox reaches over with his free hand, bringing a finger under his muzzle to tip him in his direction."
+    "The fox reaches over with his free hand, bringing a finger under his muzzle to tip him in his direction."
+
+# game/cliffroute2.rpy:8224
+translate Tchinese smc1_9080a9c7:
+
+    # "I watch them lock muzzles. It's strange looking from the outside in. Unlike the girls, I usually don't get more than one customer at a time."
+    "I watch them lock muzzles. It's strange looking from the outside in. Unlike the girls, I usually don't get more than one customer at a time."
+
+# game/cliffroute2.rpy:8225
+translate Tchinese smc1_00ab0503:
+
+    # "When they pull away, my eyes meet Murdoch's."
+    "When they pull away, my eyes meet Murdoch's."
+
+# game/cliffroute2.rpy:8226
+translate Tchinese smc1_53652f9a:
+
+    # "I lean over the weasel, now resting on his back."
+    "I lean over the weasel, now resting on his back."
+
+# game/cliffroute2.rpy:8227
+translate Tchinese smc1_90be7abf:
+
+    # "We both get to our knees."
+    "We both get to our knees."
+
+# game/cliffroute2.rpy:8228
+translate Tchinese smc1_2112349a:
+
+    # "The fox tilts his head one way, I tilt mine another."
+    "The fox tilts his head one way, I tilt mine another."
+
+# game/cliffroute2.rpy:8229
+translate Tchinese smc1_f4877c70:
+
+    # "Kissing him's very different compared to kissing Cliff."
+    "Kissing him's very different compared to kissing Cliff."
+
+# game/cliffroute2.rpy:8230
+translate Tchinese smc1_79d862e1:
+
+    # "He uses a lot more tongue, and his fangs are bigger."
+    "He uses a lot more tongue, and his fangs are bigger."
+
+# game/cliffroute2.rpy:8231
+translate Tchinese smc1_2316dc17:
+
+    # "I can taste a hint of the weasel on him."
+    "I can taste a hint of the weasel on him."
+
+# game/cliffroute2.rpy:8232
+translate Tchinese smc1_5fe34dcb:
+
+    # "He's good at this, but I want more."
+    "He's good at this, but I want more."
+
+# game/cliffroute2.rpy:8233
+translate Tchinese smc1_2e9db79a:
+
+    # "The weasel's shaking beneath us. Murdoch's squeezing him tightly."
+    "The weasel's shaking beneath us. Murdoch's squeezing him tightly."
+
+# game/cliffroute2.rpy:8234
+translate Tchinese smc1_d5ffa459:
+
+    # cl "\"I’m…\""
+    cl "\"I’m…\""
+
+# game/cliffroute2.rpy:8235
+translate Tchinese smc1_673501a2:
+
+    # mu "\"Not done yet.\""
+    mu "\"Not done yet.\""
+
+# game/cliffroute2.rpy:8236
+translate Tchinese smc1_efc4f228:
+
+    # "He lets go of Cliff, our foreheads pressing together."
+    "He lets go of Cliff, our foreheads pressing together."
+
+# game/cliffroute2.rpy:8237
+translate Tchinese smc1_3cc5125a:
+
+    # "The weasel's cock's left a trail of pre on his stomach."
+    "The weasel's cock's left a trail of pre on his stomach."
+
+# game/cliffroute2.rpy:8238
+translate Tchinese smc1_ef175d0d:
+
+    # "I grab my own, pointing it at him."
+    "I grab my own, pointing it at him."
+
+# game/cliffroute2.rpy:8239
+translate Tchinese smc1_3e4d3cc3:
+
+    # m "\"C'mon. Just like I taught you.\""
+    m "\"C'mon. Just like I taught you.\""
+
+# game/cliffroute2.rpy:8240
+translate Tchinese smc1_272332d6:
+
+    # "Cliff lets out a pitiful whine."
+    "Cliff lets out a pitiful whine."
+
+# game/cliffroute2.rpy:8241
+translate Tchinese smc1_a7e8c130:
+
+    # "He pushes himself up a little, enough to be able to wrap a hand around me."
+    "He pushes himself up a little, enough to be able to wrap a hand around me."
+
+# game/cliffroute2.rpy:8242
+translate Tchinese smc1_c041414d:
+
+    # "I can feel his breath on me."
+    "I can feel his breath on me."
+
+# game/cliffroute2.rpy:8243
+translate Tchinese smc1_3a5943a6:
+
+    # "See his nose twitch as he takes in my scent."
+    "See his nose twitch as he takes in my scent."
+
+# game/cliffroute2.rpy:8244
+translate Tchinese smc1_c0db455f:
+
+    # "He opens his muzzle wide."
+    "He opens his muzzle wide."
+
+# game/cliffroute2.rpy:8245
+translate Tchinese smc1_e17858c4:
+
+    # m "\"Easy…\""
+    m "\"Easy…\""
+
+# game/cliffroute2.rpy:8246
+translate Tchinese smc1_1f34674a:
+
+    # mu "\"Let me help.\""
+    mu "\"Let me help.\""
+
+# game/cliffroute2.rpy:8247
+translate Tchinese smc1_4689723d:
+
+    # "Murdoch puts a paw on the back of Cliff's head, pushing him forward."
+    "Murdoch puts a paw on the back of Cliff's head, pushing him forward."
+
+# game/cliffroute2.rpy:8248
+translate Tchinese smc1_a735fb30:
+
+    # "The weasel squeaks, then moans as I push into him."
+    "The weasel squeaks, then moans as I push into him."
+
+# game/cliffroute2.rpy:8249
+translate Tchinese smc1_ae00b9ad:
+
+    # "Warm. Wet. Tight."
+    "Warm. Wet. Tight."
+
+# game/cliffroute2.rpy:8250
+translate Tchinese smc1_034173ff:
+
+    # "I missed this."
+    "I missed this."
+
+# game/cliffroute2.rpy:8251
+translate Tchinese smc1_7cd4b288:
+
+    # m "\"Cover your teeth… yeah, like that…\""
+    m "\"Cover your teeth… yeah, like that…\""
+
+# game/cliffroute2.rpy:8252
+translate Tchinese smc1_67741325:
+
+    # m "\"That's it. Slowly. You're getting better.\""
+    m "\"That's it. Slowly. You're getting better.\""
+
+# game/cliffroute2.rpy:8253
+translate Tchinese smc1_18c67c9f:
+
+    # "I scratch his ears, before pushing him off."
+    "I scratch his ears, before pushing him off."
+
+# game/cliffroute2.rpy:8254
+translate Tchinese smc1_f114ddb8:
+
+    # "He looks at me with confusion in his eye before I push him on his back, watching his cock spring back into the air."
+    "He looks at me with confusion in his eye before I push him on his back, watching his cock spring back into the air."
+
+# game/cliffroute2.rpy:8255
+translate Tchinese smc1_0a1dc796:
+
+    # m "\"We’re all the same right now.\""
+    m "\"We’re all the same right now.\""
+
+# game/cliffroute2.rpy:8256
+translate Tchinese smc1_3d91aac4:
+
+    # "I dip down, feeling my throat rumble, swallowing his whole cock without any trouble at all."
+    "I dip down, feeling my throat rumble, swallowing his whole cock without any trouble at all."
+
+# game/cliffroute2.rpy:8257
+translate Tchinese smc1_fd23b047:
+
+    # "I look up, see Murdoch watching me, and he understands."
+    "I look up, see Murdoch watching me, and he understands."
+
+# game/cliffroute2.rpy:8258
+translate Tchinese smc1_3d881438:
+
+    # "I push off, and he bows down to take his turn too."
+    "I push off, and he bows down to take his turn too."
+
+# game/cliffroute2.rpy:8259
+translate Tchinese smc1_2e08ca1c:
+
+    # "When I watch him taste my spit and Cliff’s pre, we all know that this is more intimate than any kiss."
+    "When I watch him taste my spit and Cliff’s pre, we all know that this is more intimate than any kiss."
+
+# game/cliffroute2.rpy:8260
+translate Tchinese smc1_a1fe6e75:
+
+    # "Cliff has to push him off with shaking hands."
+    "Cliff has to push him off with shaking hands."
+
+# game/cliffroute2.rpy:8261
+translate Tchinese smc1_32954be2:
+
+    # "I’ve already repositioned myself, spreading my legs, pulling Cliff up again and back to my lap."
+    "I’ve already repositioned myself, spreading my legs, pulling Cliff up again and back to my lap."
+
+# game/cliffroute2.rpy:8262
+translate Tchinese smc1_456e7ae5:
+
+    # m "\"Once again...\""
+    m "\"Once again...\""
+
+# game/cliffroute2.rpy:8263
+translate Tchinese smc1_e9833c85:
+
+    # "I open my legs to him."
+    "I open my legs to him."
+
+# game/cliffroute2.rpy:8264
+translate Tchinese smc1_02deffb4:
+
+    # "He doesn’t hesitate this time as he dips."
+    "He doesn’t hesitate this time as he dips."
+
+# game/cliffroute2.rpy:8265
+translate Tchinese smc1_956a07ba:
+
+    # mu "\"I believe we were in the middle of something as well, Sam.\""
+    mu "\"I believe we were in the middle of something as well, Sam.\""
+
+# game/cliffroute2.rpy:8266
+translate Tchinese smc1_b0938757:
+
+    # "Murdoch buries his face in the fur on my neck, inhaling deeply."
+    "Murdoch buries his face in the fur on my neck, inhaling deeply."
+
+# game/cliffroute2.rpy:8267
+translate Tchinese smc1_7632b030:
+
+    # "In turn, I nibble and lick at the tips of those ears of his."
+    "In turn, I nibble and lick at the tips of those ears of his."
+
+# game/cliffroute2.rpy:8268
+translate Tchinese smc1_88924868:
+
+    # "He shudders."
+    "He shudders."
+
+# game/cliffroute2.rpy:8269
+translate Tchinese smc1_1e69bc08:
+
+    # "I'm looking forward to seeing what else I can make him do."
+    "I'm looking forward to seeing what else I can make him do."
+
+# game/cliffroute2.rpy:8270
+translate Tchinese smc1_9d3eaacc:
+
+    # m "\"Right.\""
+    m "\"Right.\""
+
+# game/cliffroute2.rpy:8271
+translate Tchinese smc1_a9f76d53:
+
+    # "I take his cock in my hand right before kissing him again, letting the determined weasel do most of the work below."
+    "I take his cock in my hand right before kissing him again, letting the determined weasel do most of the work below."
+
+# game/cliffroute2.rpy:8272
+translate Tchinese smc1_bc1029bb:
+
+    # "Murdoch's drizzling my fingers with his need, even more when I rub a finger over his tip."
+    "Murdoch's drizzling my fingers with his need, even more when I rub a finger over his tip."
+
+# game/cliffroute2.rpy:8273
+translate Tchinese smc1_c2d9a281:
+
+    # "His scent hangs thick in the air."
+    "His scent hangs thick in the air."
+
+# game/cliffroute2.rpy:8274
+translate Tchinese smc1_4098f2ca:
+
+    # "All I can smell now is the three of us."
+    "All I can smell now is the three of us."
+
+# game/cliffroute2.rpy:8275
+translate Tchinese smc1_9f874d95:
+
+    # "All I can feel right now is the three of us."
+    "All I can feel right now is the three of us."
+
+# game/cliffroute2.rpy:8276
+translate Tchinese smc1_aeadbeeb:
+
+    # "The fox's tongue lolls from his mouth once we break apart, a string of spit connecting us."
+    "The fox's tongue lolls from his mouth once we break apart, a string of spit connecting us."
+
+# game/cliffroute2.rpy:8277
+translate Tchinese smc1_e359dcb8:
+
+    # "His breaths are short, shallow. So are mine."
+    "His breaths are short, shallow. So are mine."
+
+# game/cliffroute2.rpy:8278
+translate Tchinese smc1_62ed5919:
+
+    # "I rock my hips slowly."
+    "I rock my hips slowly."
+
+# game/cliffroute2.rpy:8279
+translate Tchinese smc1_8207e952:
+
+    # "It's taking me some effort not to come right now."
+    "It's taking me some effort not to come right now."
+
+# game/cliffroute2.rpy:8280
+translate Tchinese smc1_776c5bfd:
+
+    # mu "\"Mmm. I want a turn.\""
+    mu "\"Mmm. I want a turn.\""
+
+# game/cliffroute2.rpy:8281
+translate Tchinese smc1_4c2beab5:
+
+    # "I look down at the weasel."
+    "I look down at the weasel."
+
+# game/cliffroute2.rpy:8282
+translate Tchinese smc1_9271c80a:
+
+    # m "\"You hear that, professor?\""
+    m "\"You hear that, professor?\""
+
+# game/cliffroute2.rpy:8283
+translate Tchinese smc1_66717efe:
+
+    # "I thrust all the way into his muzzle, until I feel his snout and whiskers against me."
+    "I thrust all the way into his muzzle, until I feel his snout and whiskers against me."
+
+# game/cliffroute2.rpy:8284
+translate Tchinese smc1_67253b39:
+
+    # "Murdoch holds him in place for a few moments."
+    "Murdoch holds him in place for a few moments."
+
+# game/cliffroute2.rpy:8285
+translate Tchinese smc1_fc058f87:
+
+    # "He makes a sound."
+    "He makes a sound."
+
+# game/cliffroute2.rpy:8286
+translate Tchinese smc1_188dd66b:
+
+    # m "\"Think he likes the idea.\""
+    m "\"Think he likes the idea.\""
+
+# game/cliffroute2.rpy:8287
+translate Tchinese smc1_75659d03:
+
+    # mu "\"Do you now?\""
+    mu "\"Do you now?\""
+
+# game/cliffroute2.rpy:8288
+translate Tchinese smc1_0ef5df28:
+
+    # "Murdoch takes his paw off the back of Cliff's head, and the weasel comes up for air."
+    "Murdoch takes his paw off the back of Cliff's head, and the weasel comes up for air."
+
+# game/cliffroute2.rpy:8289
+translate Tchinese smc1_1be7562d:
+
+    # "He licks his lips, chest heaving with every heavy breath he takes."
+    "He licks his lips, chest heaving with every heavy breath he takes."
+
+# game/cliffroute2.rpy:8290
+translate Tchinese smc1_6242c55a:
+
+    # "I aim Murdoch's cock at his muzzle, and he seems to take the hint."
+    "I aim Murdoch's cock at his muzzle, and he seems to take the hint."
+
+# game/cliffroute2.rpy:8291
+translate Tchinese smc1_9eca61ab:
+
+    # "He turns his head and licks the fox's tip."
+    "He turns his head and licks the fox's tip."
+
+# game/cliffroute2.rpy:8292
+translate Tchinese smc1_63792ad7:
+
+    # "Murdoch pushes out a loud breath."
+    "Murdoch pushes out a loud breath."
+
+# game/cliffroute2.rpy:8293
+translate Tchinese smc1_0577ba7b:
+
+    # m "\"Take it slow. Savor the taste.\""
+    m "\"Take it slow. Savor the taste.\""
+
+# game/cliffroute2.rpy:8294
+translate Tchinese smc1_6d8ac7c2:
+
+    # "Cliff shuts his eyes, tongue swirling about the head of the fox's cock."
+    "Cliff shuts his eyes, tongue swirling about the head of the fox's cock."
+
+# game/cliffroute2.rpy:8295
+translate Tchinese smc1_69eeee4a:
+
+    # "Murdoch cranes his neck back, pushing out a loud breath through his nostrils."
+    "Murdoch cranes his neck back, pushing out a loud breath through his nostrils."
+
+# game/cliffroute2.rpy:8296
+translate Tchinese smc1_3c68ef3d:
+
+    # mu "\"He's a natural.\""
+    mu "\"He's a natural.\""
+
+# game/cliffroute2.rpy:8297
+translate Tchinese smc1_18355817:
+
+    # m "\"He is.\""
+    m "\"He is.\""
+
+# game/cliffroute2.rpy:8298
+translate Tchinese smc1_cf732029:
+
+    # "I brush my muzzle against Murdoch's neck, dragging my tongue over the white fur that trails down to his chest, and rub myself again."
+    "I brush my muzzle against Murdoch's neck, dragging my tongue over the white fur that trails down to his chest, and rub myself again."
+
+# game/cliffroute2.rpy:8299
+translate Tchinese smc1_2bcfc6ef:
+
+    # "He moans, thrusting forward, right into Cliff's mouth."
+    "He moans, thrusting forward, right into Cliff's mouth."
+
+# game/cliffroute2.rpy:8300
+translate Tchinese smc1_e42d68c9:
+
+    # "The weasel struggles and gags for a moment, but doesn't pull back."
+    "The weasel struggles and gags for a moment, but doesn't pull back."
+
+# game/cliffroute2.rpy:8301
+translate Tchinese smc1_50289bbd:
+
+    # mu "\"You take the other end, Sam.\""
+    mu "\"You take the other end, Sam.\""
+
+# game/cliffroute2.rpy:8302
+translate Tchinese smc1_5c8ee8c5:
+
+    # m "\"Think he can take it?\""
+    m "\"Think he can take it?\""
+
+# game/cliffroute2.rpy:8303
+translate Tchinese smc1_450f2780:
+
+    # mu "\"Oh, he's a lot more adventurous than you think. Aren't you?\""
+    mu "\"Oh, he's a lot more adventurous than you think. Aren't you?\""
+
+# game/cliffroute2.rpy:8304
+translate Tchinese smc1_5c0e8f01:
+
+    # "He hilts himself all the way in Cliff's muzzle."
+    "He hilts himself all the way in Cliff's muzzle."
+
+# game/cliffroute2.rpy:8305
+translate Tchinese smc1_ba6783f6:
+
+    # "The weasel's eyes go wide, then lid."
+    "The weasel's eyes go wide, then lid."
+
+# game/cliffroute2.rpy:8306
+translate Tchinese smc1_d56370d8:
+
+    # "He lifts his tail with a hand."
+    "He lifts his tail with a hand."
+
+# game/cliffroute2.rpy:8307
+translate Tchinese smc1_1b9b5f59:
+
+    # "I lick my lips."
+    "I lick my lips."
+
+# game/cliffroute2.rpy:8308
+translate Tchinese smc1_d199f83a:
+
+    # "I'm getting real close just watching the two of them."
+    "I'm getting real close just watching the two of them."
+
+# game/cliffroute2.rpy:8309
+translate Tchinese smc1_e1713d8e:
+
+    # "Not about to say no to an invitation like this."
+    "Not about to say no to an invitation like this."
+
+# game/cliffroute2.rpy:8310
+translate Tchinese smc1_79f088f8:
+
+    # m "\"Hands and knees.\""
+    m "\"Hands and knees.\""
+
+# game/cliffroute2.rpy:8311
+translate Tchinese smc1_65c8008d:
+
+    # "The fox, still buried in his muzzle, helps the weasel shift."
+    "The fox, still buried in his muzzle, helps the weasel shift."
+
+# game/cliffroute2.rpy:8312
+translate Tchinese smc1_a8e6f89a:
+
+    # "Cliff's eyes find mine as I get behind him, raking my fingers down his back."
+    "Cliff's eyes find mine as I get behind him, raking my fingers down his back."
+
+# game/cliffroute2.rpy:8313
+translate Tchinese smc1_4b030f32:
+
+    # "I grip his tail at the base, tugging it up. He lets go, putting his hand on Murdoch's thigh instead."
+    "I grip his tail at the base, tugging it up. He lets go, putting his hand on Murdoch's thigh instead."
+
+# game/cliffroute2.rpy:8314
+translate Tchinese smc1_b17c9aca:
+
+    # "Murdoch's got his eyes on me, but I have different plans."
+    "Murdoch's got his eyes on me, but I have different plans."
+
+# game/cliffroute2.rpy:8315
+translate Tchinese smc1_222a1bf9:
+
+    # "I shuffle backwards on my knees, touching the shallow water with my legs."
+    "I shuffle backwards on my knees, touching the shallow water with my legs."
+
+# game/cliffroute2.rpy:8316
+translate Tchinese smc1_f490b996:
+
+    # "I lean down."
+    "I lean down."
+
+# game/cliffroute2.rpy:8317
+translate Tchinese smc1_807eddf4:
+
+    # "He's clean."
+    "He's clean."
+
+# game/cliffroute2.rpy:8318
+translate Tchinese smc1_c5fa6fdf:
+
+    # "Good."
+    "Good."
+
+# game/cliffroute2.rpy:8319
+translate Tchinese smc1_151730dc:
+
+    # "I lap at his balls, lifting them with my tongue, getting a small moan from him."
+    "I lap at his balls, lifting them with my tongue, getting a small moan from him."
+
+# game/cliffroute2.rpy:8320
+translate Tchinese smc1_7b0a4ea1:
+
+    # "Then, I move upwards, licking my way to the pink pucker under his tail."
+    "Then, I move upwards, licking my way to the pink pucker under his tail."
+
+# game/cliffroute2.rpy:8321
+translate Tchinese smc1_2901102e:
+
+    # "I feel him shudder as I run my tongue over it."
+    "I feel him shudder as I run my tongue over it."
+
+# game/cliffroute2.rpy:8322
+translate Tchinese smc1_9cc8cb98:
+
+    # "Just like he taught me."
+    "Just like he taught me."
+
+# game/cliffroute2.rpy:8323
+translate Tchinese smc1_d0d24578:
+
+    # "He cries out, voice muffled by Murdoch's cock."
+    "He cries out, voice muffled by Murdoch's cock."
+
+# game/cliffroute2.rpy:8324
+translate Tchinese smc1_32b2b13e:
+
+    # "His tail sways, almost swatting me. I grip it tighter."
+    "His tail sways, almost swatting me. I grip it tighter."
+
+# game/cliffroute2.rpy:8325
+translate Tchinese smc1_bbff306b:
+
+    # "I hear wet noises, and grunts coming from Murdoch."
+    "I hear wet noises, and grunts coming from Murdoch."
+
+# game/cliffroute2.rpy:8326
+translate Tchinese smc1_75c7ec54:
+
+    # "The fox is thrusting, shaking the weasel's body."
+    "The fox is thrusting, shaking the weasel's body."
+
+# game/cliffroute2.rpy:8327
+translate Tchinese smc1_3e1e8576:
+
+    # "Almost makes it hard to do my job."
+    "Almost makes it hard to do my job."
+
+# game/cliffroute2.rpy:8328
+translate Tchinese smc1_37f892b0:
+
+    # "I keep licking, pressing down with my tongue until it gives way and I'm inside him."
+    "I keep licking, pressing down with my tongue until it gives way and I'm inside him."
+
+# game/cliffroute2.rpy:8329
+translate Tchinese smc1_64bc2444:
+
+    # "His tail thrashes."
+    "His tail thrashes."
+
+# game/cliffroute2.rpy:8330
+translate Tchinese smc1_de556157:
+
+    # "The sounds he's making and the way he's dribbling precum make me wish I'd tried this before."
+    "The sounds he's making and the way he's dribbling precum make me wish I'd tried this before."
+
+# game/cliffroute2.rpy:8331
+translate Tchinese smc1_70f14f7d:
+
+    # "Once he's slick enough, I get back up on my knees."
+    "Once he's slick enough, I get back up on my knees."
+
+# game/cliffroute2.rpy:8332
+translate Tchinese smc1_61d417af:
+
+    # "Judging by his expression, the fox is on the brink."
+    "Judging by his expression, the fox is on the brink."
+
+# game/cliffroute2.rpy:8333
+translate Tchinese smc1_f4d146b4:
+
+    # "I better keep up."
+    "I better keep up."
+
+# game/cliffroute2.rpy:8335
+translate Tchinese smc1_49acb690:
+
+    # "I line myself up with the weasel, rubbing the head of my cock against his hole."
+    "I line myself up with the weasel, rubbing the head of my cock against his hole."
+
+# game/cliffroute2.rpy:8336
+translate Tchinese smc1_2dcfa794:
+
+    # "I push forward. Just a little bit."
+    "I push forward. Just a little bit."
+
+# game/cliffroute2.rpy:8337
+translate Tchinese smc1_bcc71044:
+
+    # "He squeaks, and I put a paw on his back."
+    "He squeaks, and I put a paw on his back."
+
+# game/cliffroute2.rpy:8338
+translate Tchinese smc1_0c5f2b1b:
+
+    # m "\"Keep breathing. You're doin' good…\""
+    m "\"Keep breathing. You're doin' good…\""
+
+# game/cliffroute2.rpy:8339
+translate Tchinese smc1_08c24e63:
+
+    # "I grunt, pushing in further. Soon, his warmth is all I feel."
+    "I grunt, pushing in further. Soon, his warmth is all I feel."
+
+# game/cliffroute2.rpy:8340
+translate Tchinese smc1_f5204344:
+
+    # "He's the tightest I've had in a long time."
+    "He's the tightest I've had in a long time."
+
+# game/cliffroute2.rpy:8341
+translate Tchinese smc1_fd69c014:
+
+    # m "\"Almost all the way in. You holdin' up okay?\""
+    m "\"Almost all the way in. You holdin' up okay?\""
+
+# game/cliffroute2.rpy:8342
+translate Tchinese smc1_d6fbea69:
+
+    # "He grunts affirmatively."
+    "He grunts affirmatively."
+
+# game/cliffroute2.rpy:8343
+translate Tchinese smc1_db3cdaa4:
+
+    # "Guess Murdoch was right."
+    "Guess Murdoch was right."
+
+# game/cliffroute2.rpy:8344
+translate Tchinese smc1_4dc336b5:
+
+    # "I let myself slip the rest of the way in. My balls touch his."
+    "I let myself slip the rest of the way in. My balls touch his."
+
+# game/cliffroute2.rpy:8345
+translate Tchinese smc1_81406b62:
+
+    # "He's squeezing me from every angle, in all the right ways."
+    "He's squeezing me from every angle, in all the right ways."
+
+# game/cliffroute2.rpy:8346
+translate Tchinese smc1_8828e8a0:
+
+    # "Fuck, this is good."
+    "Fuck, this is good."
+
+# game/cliffroute2.rpy:8347
+translate Tchinese smc1_e8bdc3e7:
+
+    # "I start moving my hips, thrusting into the stoat just as Murdoch's hips push him against me."
+    "I start moving my hips, thrusting into the stoat just as Murdoch's hips push him against me."
+
+# game/cliffroute2.rpy:8348
+translate Tchinese smc1_dd525799:
+
+    # "Our moans and heavy breathing fill the air."
+    "Our moans and heavy breathing fill the air."
+
+# game/cliffroute2.rpy:8349
+translate Tchinese smc1_52873bea:
+
+    # mu "\"I'm not going to last much longer here…\""
+    mu "\"I'm not going to last much longer here…\""
+
+# game/cliffroute2.rpy:8350
+translate Tchinese smc1_f2000ea7:
+
+    # m "\"Giving up?\""
+    m "\"Giving up?\""
+
+# game/cliffroute2.rpy:8351
+translate Tchinese smc1_06b39131:
+
+    # "He's struggling to get his tongue back in his muzzle right now."
+    "He's struggling to get his tongue back in his muzzle right now."
+
+# game/cliffroute2.rpy:8352
+translate Tchinese smc1_d72bf911:
+
+    # mu "\"...Hardly.\""
+    mu "\"...Hardly.\""
+
+# game/cliffroute2.rpy:8353
+translate Tchinese smc1_0fa39414:
+
+    # "He grabs the back of Cliff's head again, thrusting harder, faster."
+    "He grabs the back of Cliff's head again, thrusting harder, faster."
+
+# game/cliffroute2.rpy:8354
+translate Tchinese smc1_ed001ddf:
+
+    # "I see the stoat tilt his head to get better angles."
+    "I see the stoat tilt his head to get better angles."
+
+# game/cliffroute2.rpy:8355
+translate Tchinese smc1_0b5e24d2:
+
+    # "He really is a natural."
+    "He really is a natural."
+
+# game/cliffroute2.rpy:8356
+translate Tchinese smc1_f2139f41:
+
+    # "I lean over him, face nearly touching Murdoch's chest, and put as much of my weight as I can into my thrusts."
+    "I lean over him, face nearly touching Murdoch's chest, and put as much of my weight as I can into my thrusts."
+
+# game/cliffroute2.rpy:8357
+translate Tchinese smc1_b9634b62:
+
+    # "I grit my teeth."
+    "I grit my teeth."
+
+# game/cliffroute2.rpy:8358
+translate Tchinese smc1_c2769db0:
+
+    # "The stoat cries out."
+    "The stoat cries out."
+
+# game/cliffroute2.rpy:8359
+translate Tchinese smc1_269c34e5:
+
+    # "Tightens around me."
+    "Tightens around me."
+
+# game/cliffroute2.rpy:8360
+translate Tchinese smc1_9495a2fc:
+
+    # "Ropes of seed spray the ground below."
+    "Ropes of seed spray the ground below."
+
+# game/cliffroute2.rpy:8361
+translate Tchinese smc1_4cf69ddd:
+
+    # "I'm not far behind."
+    "I'm not far behind."
+
+# game/cliffroute2.rpy:8362
+translate Tchinese smc1_4c22f4de:
+
+    # "I can hear myself purr as I thrust into him one last time. My balls tighten. The purr grows louder, turning into a growl as I utterly empty myself inside the stoat."
+    "I can hear myself purr as I thrust into him one last time. My balls tighten. The purr grows louder, turning into a growl as I utterly empty myself inside the stoat."
+
+# game/cliffroute2.rpy:8363
+translate Tchinese smc1_845f0580:
+
+    # "He squeezes me tight the entire time, whining, moaning, leaking."
+    "He squeezes me tight the entire time, whining, moaning, leaking."
+
+# game/cliffroute2.rpy:8364
+translate Tchinese smc1_35b998a3:
+
+    # "I can hear Murdoch's breathing speed up before he finally gasps above me."
+    "I can hear Murdoch's breathing speed up before he finally gasps above me."
+
+# game/cliffroute2.rpy:8365
+translate Tchinese smc1_93cd7c91:
+
+    # "He pulls out of Cliff's mouth, grabbing his cock again."
+    "He pulls out of Cliff's mouth, grabbing his cock again."
+
+# game/cliffroute2.rpy:8366
+translate Tchinese smc1_aee41c64:
+
+    # "He thrusts into his hand, and I watch as the weasel opens his muzzle wide, only for his brown snout to get painted white by the fox's seed."
+    "He thrusts into his hand, and I watch as the weasel opens his muzzle wide, only for his brown snout to get painted white by the fox's seed."
+
+# game/cliffroute2.rpy:8367
+translate Tchinese smc1_70a79040:
+
+    # "With a cackle, he aims it upward for about a second, and I catch some of it on mine, too."
+    "With a cackle, he aims it upward for about a second, and I catch some of it on mine, too."
+
+# game/cliffroute2.rpy:8368
+translate Tchinese smc1_7cb36043:
+
+    # "I lick my chops, savoring the taste on my tongue."
+    "I lick my chops, savoring the taste on my tongue."
+
+# game/cliffroute2.rpy:8369
+translate Tchinese smc1_dbe1cedb:
+
+    # "On his own accord, the weasel wraps his muzzle around the head of Murdoch's cock again as soon as he lets go."
+    "On his own accord, the weasel wraps his muzzle around the head of Murdoch's cock again as soon as he lets go."
+
+# game/cliffroute2.rpy:8370
+translate Tchinese smc1_2cf93041:
+
+    # "I hear him swallow what's left."
+    "I hear him swallow what's left."
+
+# game/cliffroute2.rpy:8371
+translate Tchinese smc1_355ccbcf:
+
+    # "He lingers for a few long moments before finally pulling off."
+    "He lingers for a few long moments before finally pulling off."
+
+# game/cliffroute2.rpy:8373
+translate Tchinese smc1_8b348080:
+
+    # mu "\"Attaboy, professor.\""
+    mu "\"Attaboy, professor.\""
+
+# game/cliffroute2.rpy:8374
+translate Tchinese smc1_9f7e6932:
+
+    # cl "\"That was… lovely…\""
+    cl "\"That was… lovely…\""
+
+# game/cliffroute2.rpy:8375
+translate Tchinese smc1_dd50758a:
+
+    # "His arms and knees buckle when I'm about to pull out of him."
+    "His arms and knees buckle when I'm about to pull out of him."
+
+# game/cliffroute2.rpy:8376
+translate Tchinese smc1_9fcce399:
+
+    # "He turns his head."
+    "He turns his head."
+
+# game/cliffroute2.rpy:8377
+translate Tchinese smc1_880c937c:
+
+    # cl "\"Could you... stay… a few moments… longer?\""
+    cl "\"Could you... stay… a few moments… longer?\""
+
+# game/cliffroute2.rpy:8378
+translate Tchinese smc1_43e12dd4:
+
+    # "Don't have to tell me twice. Not when he's this tight."
+    "Don't have to tell me twice. Not when he's this tight."
+
+# game/cliffroute2.rpy:8379
+translate Tchinese smc1_c9896f89:
+
+    # "I grab him tight, slowly rolling the both of us onto our backs."
+    "I grab him tight, slowly rolling the both of us onto our backs."
+
+# game/cliffroute2.rpy:8383
+translate Tchinese smc1_76693b09:
+
+    # "Practically glowing, he sighs, arching his back against my chest."
+    "Practically glowing, he sighs, arching his back against my chest."
+
+# game/cliffroute2.rpy:8384
+translate Tchinese smc1_86c277bf:
+
+    # "Murdoch gets down next to me. I wrap an arm around the fox, and he accepts, pressing against my side."
+    "Murdoch gets down next to me. I wrap an arm around the fox, and he accepts, pressing against my side."
+
+# game/cliffroute2.rpy:8385
+translate Tchinese smc1_307f0c76:
+
+    # "He gives my neck a nuzzle before caressing Cliff's cheek."
+    "He gives my neck a nuzzle before caressing Cliff's cheek."
+
+# game/cliffroute2.rpy:8386
+translate Tchinese smc1_62119101:
+
+    # mu "\"Told you I could keep up.\""
+    mu "\"Told you I could keep up.\""
+
+# game/cliffroute2.rpy:8387
+translate Tchinese smc1_b87a5973:
+
+    # "I chuff."
+    "I chuff."
+
+# game/cliffroute2.rpy:8388
+translate Tchinese smc1_1e4a2010:
+
+    # m "\"Concerned me a few times there.\""
+    m "\"Concerned me a few times there.\""
+
+# game/cliffroute2.rpy:8389
+translate Tchinese smc1_6bfd3365:
+
+    # "A soft, one-note laugh escapes Murdoch."
+    "A soft, one-note laugh escapes Murdoch."
+
+# game/cliffroute2.rpy:8390
+translate Tchinese smc1_60a969a3:
+
+    # mu "\"Lies and slander.\""
+    mu "\"Lies and slander.\""
+
+# game/cliffroute2.rpy:8391
+translate Tchinese smc1_6070400a:
+
+    # cl "\"You were both... not quite what I expected.\""
+    cl "\"You were both... not quite what I expected.\""
+
+# game/cliffroute2.rpy:8392
+translate Tchinese smc1_355ce42a:
+
+    # "I wonder what he means by that, but he looks so carefree."
+    "I wonder what he means by that, but he looks so carefree."
+
+# game/cliffroute2.rpy:8393
+translate Tchinese smc1_b9a96124:
+
+    # "The stoat seems to have caught his breath."
+    "The stoat seems to have caught his breath."
+
+# game/cliffroute2.rpy:8394
+translate Tchinese smc1_880334dd:
+
+    # "Murdoch lays his head on my chest, snout pressed against Cliff's head."
+    "Murdoch lays his head on my chest, snout pressed against Cliff's head."
+
+# game/cliffroute2.rpy:8395
+translate Tchinese smc1_69c896a4:
+
+    # mu "\"We're going to need another bath.\""
+    mu "\"We're going to need another bath.\""
+
+# game/cliffroute2.rpy:8396
+translate Tchinese smc1_62918c40:
+
+    # m "\"We've got time.\""
+    m "\"We've got time.\""
+
+# game/cliffroute2.rpy:8397
+translate Tchinese smc1_c0a4d7cf:
+
+    # "The three of us look up at the sky together."
+    "The three of us look up at the sky together."
+
+# game/cliffroute2.rpy:8398
+translate Tchinese smc1_1ed4a022:
+
+    # "The sun's gone down completely, and I can't even begin to count the number of stars I see."
+    "The sun's gone down completely, and I can't even begin to count the number of stars I see."
+
+# game/cliffroute2.rpy:8399
+translate Tchinese smc1_7a21367f:
+
+    # "It's a beautiful night out."
+    "It's a beautiful night out."
+
+# game/cliffroute2.rpy:8400
+translate Tchinese smc1_05067fd8:
+
+    # "At least, it is, for a brief moment."
+    "At least, it is, for a brief moment."
+
+# game/cliffroute2.rpy:8404
+translate Tchinese smc1_ff310005:
+
+    # "Someone's plucking at a guitar off in the distance. That coyote, no doubt."
+    "Someone's plucking at a guitar off in the distance. That coyote, no doubt."
+
+# game/cliffroute2.rpy:8405
+translate Tchinese smc1_45c5c0f0:
+
+    # "Has to be. It's sounding less like music and more like something being put out of its misery."
+    "Has to be. It's sounding less like music and more like something being put out of its misery."
+
+# game/cliffroute2.rpy:8406
+translate Tchinese smc1_a7973e88:
+
+    # "Just hope our companions aren't awake to hear it."
+    "Just hope our companions aren't awake to hear it."
+
+# game/cliffroute2.rpy:8407
+translate Tchinese smc1_45e162a4:
+
+    # "The fox tsks."
+    "The fox tsks."
+
+# game/cliffroute2.rpy:8408
+translate Tchinese smc1_f7e622b9:
+
+    # mu "\"And so the moment is spoiled.\""
+    mu "\"And so the moment is spoiled.\""
+
+# game/cliffroute2.rpy:8409
+translate Tchinese smc1_034d8fa2:
+
+    # cl "\"But quite the moment it was.\""
+    cl "\"But quite the moment it was.\""
+
+# game/cliffroute2.rpy:8410
+translate Tchinese smc1_1ca8b15c:
+
+    # mu "\"No second or third thoughts this time, Mr. Tibbits?\""
+    mu "\"No second or third thoughts this time, Mr. Tibbits?\""
+
+# game/cliffroute2.rpy:8411
+translate Tchinese smc1_f568d181:
+
+    # mu "\"What about a fourth?\""
+    mu "\"What about a fourth?\""
+
+# game/cliffroute2.rpy:8412
+translate Tchinese smc1_c3589eee:
+
+    # cl "\"Do shut up, Mr. Byrnes, or I might just change my mind.\""
+    cl "\"Do shut up, Mr. Byrnes, or I might just change my mind.\""
+
+# game/cliffroute2.rpy:8413
+translate Tchinese smc1_046e7b63:
+
+    # mu "\"So cocky all of a sudden! What brought this on?\""
+    mu "\"So cocky all of a sudden! What brought this on?\""
+
+# game/cliffroute2.rpy:8414
+translate Tchinese smc1_7f3fe9ff:
+
+    # cl "\"Well, I… I've not yet had my turn on top, have I? I can't let you boys have all the fun.\""
+    cl "\"Well, I… I've not yet had my turn on top, have I? I can't let you boys have all the fun.\""
+
+# game/cliffroute2.rpy:8415
+translate Tchinese smc1_54dcbd2b:
+
+    # m "\"Smells like you had fun, all the same.\""
+    m "\"Smells like you had fun, all the same.\""
+
+# game/cliffroute2.rpy:8416
+translate Tchinese smc1_93708a70:
+
+    # mu "\"Speaking of smells…\""
+    mu "\"Speaking of smells…\""
+
+# game/cliffroute2.rpy:8417
+translate Tchinese smc1_5caa75cd:
+
+    # "He gestures to the glistening white stain still visible on his stomach. Looks like Cliff didn't get all of it."
+    "He gestures to the glistening white stain still visible on his stomach. Looks like Cliff didn't get all of it."
+
+# game/cliffroute2.rpy:8418
+translate Tchinese smc1_a7e27458:
+
+    # mu "\"I'm not sure I can get this out of my fur with just hot water.\""
+    mu "\"I'm not sure I can get this out of my fur with just hot water.\""
+
+# game/cliffroute2.rpy:8419
+translate Tchinese smc1_69638896:
+
+    # cl "\"Oh. Right you are. I hadn't considered that.\""
+    cl "\"Oh. Right you are. I hadn't considered that.\""
+
+# game/cliffroute2.rpy:8420
+translate Tchinese smc1_d6065bc4:
+
+    # cl "\"I've some perfume left, if you'd like to use it.\""
+    cl "\"I've some perfume left, if you'd like to use it.\""
+
+# game/cliffroute2.rpy:8421
+translate Tchinese smc1_02aa2834:
+
+    # "Murdoch puts a hand on his side, one eyebrow cocked."
+    "Murdoch puts a hand on his side, one eyebrow cocked."
+
+# game/cliffroute2.rpy:8422
+translate Tchinese smc1_3dc5ebf9:
+
+    # mu "\"After all this time? How much of that stuff did you bring?\""
+    mu "\"After all this time? How much of that stuff did you bring?\""
+
+# game/cliffroute2.rpy:8423
+translate Tchinese smc1_a017236e:
+
+    # cl "\"A considerable amount. Us stoats, we tend to get rather… err, what's a polite way to put it?\""
+    cl "\"A considerable amount. Us stoats, we tend to get rather… err, what's a polite way to put it?\""
+
+# game/cliffroute2.rpy:8424
+translate Tchinese smc1_51e69239:
+
+    # m "\"We're a little past prim and proper after what we just did.\""
+    m "\"We're a little past prim and proper after what we just did.\""
+
+# game/cliffroute2.rpy:8425
+translate Tchinese smc1_96114ea2:
+
+    # "He laughs."
+    "He laughs."
+
+# game/cliffroute2.rpy:8426
+translate Tchinese smc1_26efc810:
+
+    # cl "\"Alright, we tend to reek.\""
+    cl "\"Alright, we tend to reek.\""
+
+# game/cliffroute2.rpy:8427
+translate Tchinese smc1_8a428392:
+
+    # mu "\"Harsh, but true.\""
+    mu "\"Harsh, but true.\""
+
+# game/cliffroute2.rpy:8428
+translate Tchinese smc1_9bed0b47:
+
+    # m "\"Foxes aren't much better.\""
+    m "\"Foxes aren't much better.\""
+
+# game/cliffroute2.rpy:8429
+translate Tchinese smc1_9411244d:
+
+    # mu "\"Sam!\""
+    mu "\"Sam!\""
+
+# game/cliffroute2.rpy:8430
+translate Tchinese smc1_4811b7ac:
+
+    # "He shakes his head, slicking back the wet fur between his ears."
+    "He shakes his head, slicking back the wet fur between his ears."
+
+# game/cliffroute2.rpy:8431
+translate Tchinese smc1_564a275d:
+
+    # mu "\"Still, perfume?\""
+    mu "\"Still, perfume?\""
+
+# game/cliffroute2.rpy:8432
+translate Tchinese smc1_11d96a63:
+
+    # cl "\"I'm quite aware most men prefer cologne. I just fancy floral scents, is all.\""
+    cl "\"I'm quite aware most men prefer cologne. I just fancy floral scents, is all.\""
+
+# game/cliffroute2.rpy:8433
+translate Tchinese smc1_2d5edfa7:
+
+    # cl "\"The women in my life seem to like it.\""
+    cl "\"The women in my life seem to like it.\""
+
+# game/cliffroute2.rpy:8434
+translate Tchinese smc1_1e148001:
+
+    # "He turns his head to me as he washes himself, tail thumping against the shallow water."
+    "He turns his head to me as he washes himself, tail thumping against the shallow water."
+
+# game/cliffroute2.rpy:8435
+translate Tchinese smc1_c33e2850:
+
+    # cl "\"What about you, Sam?\""
+    cl "\"What about you, Sam?\""
+
+# game/cliffroute2.rpy:8436
+translate Tchinese smc1_650c2846:
+
+    # m "\"I'm comin' around to it.\""
+    m "\"I'm comin' around to it.\""
+
+# game/cliffroute2.rpy:8437
+translate Tchinese smc1_6b9b7d42:
+
+    # m "\"Most men I'm with don't even bother with the cologne. They just smell like they crawled out of a hole.\""
+    m "\"Most men I'm with don't even bother with the cologne. They just smell like they crawled out of a hole.\""
+
+# game/cliffroute2.rpy:8438
+translate Tchinese smc1_5cb24f37:
+
+    # mu "\"Well, it is a mining town. By all accounts, they probably did!\""
+    mu "\"Well, it is a mining town. By all accounts, they probably did!\""
+
+# game/cliffroute2.rpy:8439
+translate Tchinese smc1_32f7f7a1:
+
+    # m "\"Yeah. So I prefer a guy who bathes.\""
+    m "\"Yeah. So I prefer a guy who bathes.\""
+
+# game/cliffroute2.rpy:8440
+translate Tchinese smc1_c72ac668:
+
+    # cl "\"See?\""
+    cl "\"See?\""
+
+# game/cliffroute2.rpy:8441
+translate Tchinese smc1_739d76c1:
+
+    # mu "\"I never said I didn't like it, it's just… well, it's unique.\""
+    mu "\"I never said I didn't like it, it's just… well, it's unique.\""
+
+# game/cliffroute2.rpy:8442
+translate Tchinese smc1_fd87f256:
+
+    # mu "\"Speaking of, did you say women?\""
+    mu "\"Speaking of, did you say women?\""
+
+# game/cliffroute2.rpy:8443
+translate Tchinese smc1_c43bfe9b:
+
+    # mu "\"You don't have a missus waiting for you at home, do you?\""
+    mu "\"You don't have a missus waiting for you at home, do you?\""
+
+# game/cliffroute2.rpy:8444
+translate Tchinese smc1_e45a2e9a:
+
+    # "Cliff laughs."
+    "Cliff laughs."
+
+# game/cliffroute2.rpy:8445
+translate Tchinese smc1_b3443e54:
+
+    # cl "\"Not quite, although my father's certainly tried to pair me off.\""
+    cl "\"Not quite, although my father's certainly tried to pair me off.\""
+
+# game/cliffroute2.rpy:8446
+translate Tchinese smc1_3ab32cb3:
+
+    # cl "\"Numerous times.\""
+    cl "\"Numerous times.\""
+
+# game/cliffroute2.rpy:8447
+translate Tchinese smc1_90da22dc:
+
+    # mu "\"Numerous times, he says. Popular fellow, aren't you?\""
+    mu "\"Numerous times, he says. Popular fellow, aren't you?\""
+
+# game/cliffroute2.rpy:8448
+translate Tchinese smc1_639f31f2:
+
+    # cl "\"I suppose he just wants me to carry on the family name.\""
+    cl "\"I suppose he just wants me to carry on the family name.\""
+
+# game/cliffroute2.rpy:8449
+translate Tchinese smc1_09493afb:
+
+    # cl "\"I've had my fair share of dalliances and courtships, but none of them bore fruit.\""
+    cl "\"I've had my fair share of dalliances and courtships, but none of them bore fruit.\""
+
+# game/cliffroute2.rpy:8450
+translate Tchinese smc1_3f3102c3:
+
+    # "Hard to imagine him as a father."
+    "Hard to imagine him as a father."
+
+# game/cliffroute2.rpy:8451
+translate Tchinese smc1_e66f0e4e:
+
+    # cl "\"Of course, I'm expected to return and marry someday.\""
+    cl "\"Of course, I'm expected to return and marry someday.\""
+
+# game/cliffroute2.rpy:8452
+translate Tchinese smc1_3586aab9:
+
+    # cl "\"Loathe as I am to admit it, I have certain responsibilities and duties to my family I cannot shirk so easily.\""
+    cl "\"Loathe as I am to admit it, I have certain responsibilities and duties to my family I cannot shirk so easily.\""
+
+# game/cliffroute2.rpy:8453
+translate Tchinese smc1_8734029e:
+
+    # "Murdoch's ears splay backwards, and for a moment, his expression cracks."
+    "Murdoch's ears splay backwards, and for a moment, his expression cracks."
+
+# game/cliffroute2.rpy:8454
+translate Tchinese smc1_bd524cfa:
+
+    # "There's no witty retort this time."
+    "There's no witty retort this time."
+
+# game/cliffroute2.rpy:8455
+translate Tchinese smc1_be2e5618:
+
+    # m "\"Is that something you want, though?\""
+    m "\"Is that something you want, though?\""
+
+# game/cliffroute2.rpy:8456
+translate Tchinese smc1_27a95270:
+
+    # cl "\"If you ask me, in my heart of hearts… no. It is not something I desire.\""
+    cl "\"If you ask me, in my heart of hearts… no. It is not something I desire.\""
+
+# game/cliffroute2.rpy:8457
+translate Tchinese smc1_a79d1af2:
+
+    # cl "\"I desire to be free. To continue exploring. Not throw it all away to live in a dusty mansion because my father once did the same.\""
+    cl "\"I desire to be free. To continue exploring. Not throw it all away to live in a dusty mansion because my father once did the same.\""
+
+# game/cliffroute2.rpy:8458
+translate Tchinese smc1_3cf61ad3:
+
+    # cl "\"What I desire at this moment is for this night to last forever.\""
+    cl "\"What I desire at this moment is for this night to last forever.\""
+
+# game/cliffroute2.rpy:8459
+translate Tchinese smc1_cb487413:
+
+    # cl "\"But we both know that's just a wish. Soon, the sun will come up, and we will have to keep going.\""
+    cl "\"But we both know that's just a wish. Soon, the sun will come up, and we will have to keep going.\""
+
+# game/cliffroute2.rpy:8460
+translate Tchinese smc1_f6c9a4a2:
+
+    # cl "\"Much like I will have to return to my family someday.\""
+    cl "\"Much like I will have to return to my family someday.\""
+
+# game/cliffroute2.rpy:8461
+translate Tchinese smc1_0c13a867:
+
+    # m "\"What happens if you don't?\""
+    m "\"What happens if you don't?\""
+
+# game/cliffroute2.rpy:8462
+translate Tchinese smc1_8e3387e3:
+
+    # cl "\"I would be disowned, first and foremost. I'd lose my funds, lose my home… it's unthinkable.\""
+    cl "\"I would be disowned, first and foremost. I'd lose my funds, lose my home… it's unthinkable.\""
+
+# game/cliffroute2.rpy:8463
+translate Tchinese smc1_1d52eaed:
+
+    # m "\"What you're describing don't sound much like a home to me.\""
+    m "\"What you're describing don't sound much like a home to me.\""
+
+# game/cliffroute2.rpy:8464
+translate Tchinese smc1_7e96308a:
+
+    # cl "\"True. But who am I if not a… a Tibbits?\""
+    cl "\"True. But who am I if not a… a Tibbits?\""
+
+# game/cliffroute2.rpy:8465
+translate Tchinese smc1_b081b234:
+
+    # cl "\"Be honest with me. Would either of you have joined me were it not for the money involved? Or my status?\""
+    cl "\"Be honest with me. Would either of you have joined me were it not for the money involved? Or my status?\""
+
+# game/cliffroute2.rpy:8466
+translate Tchinese smc1_48f67e42:
+
+    # "Murdoch's eyes fall on mine."
+    "Murdoch's eyes fall on mine."
+
+# game/cliffroute2.rpy:8467
+translate Tchinese smc1_8610dc14:
+
+    # cl "\"So it has been for most of my life.\""
+    cl "\"So it has been for most of my life.\""
+
+# game/cliffroute2.rpy:8468
+translate Tchinese smc1_cb3136c1:
+
+    # cl "\"I… quite frankly, I've never had friends. Real friends, I mean.\""
+    cl "\"I… quite frankly, I've never had friends. Real friends, I mean.\""
+
+# game/cliffroute2.rpy:8469
+translate Tchinese smc1_ff13b076:
+
+    # cl "\"Father had associates from all over the world, and they had children they'd bring along to our estate, but they'd always leave sooner or later.\""
+    cl "\"Father had associates from all over the world, and they had children they'd bring along to our estate, but they'd always leave sooner or later.\""
+
+# game/cliffroute2.rpy:8470
+translate Tchinese smc1_eb453740:
+
+    # cl "\"They weren't… really there to be my friends. They were just there out of happenstance.\""
+    cl "\"They weren't… really there to be my friends. They were just there out of happenstance.\""
+
+# game/cliffroute2.rpy:8471
+translate Tchinese smc1_0d0df3ee:
+
+    # cl "\"Because my father was one of the richest men in the city.\""
+    cl "\"Because my father was one of the richest men in the city.\""
+
+# game/cliffroute2.rpy:8472
+translate Tchinese smc1_8e90a814:
+
+    # mu "\"I think I understand what you mean. But your assumptions aren't correct.\""
+    mu "\"I think I understand what you mean. But your assumptions aren't correct.\""
+
+# game/cliffroute2.rpy:8473
+translate Tchinese smc1_943a7fdf:
+
+    # mu "\"True, we joined the expedition because of the money involved. But that doesn't make tonight any less special.\""
+    mu "\"True, we joined the expedition because of the money involved. But that doesn't make tonight any less special.\""
+
+# game/cliffroute2.rpy:8474
+translate Tchinese smc1_0e05cb57:
+
+    # mu "\"I wouldn't have joined you here or done what we just did if I didn't care. I'm sure Sam feels the same way.\""
+    mu "\"I wouldn't have joined you here or done what we just did if I didn't care. I'm sure Sam feels the same way.\""
+
+# game/cliffroute2.rpy:8475
+translate Tchinese smc1_61373a14:
+
+    # m "\"He's right. Don't give just about anyone a free ride.\""
+    m "\"He's right. Don't give just about anyone a free ride.\""
+
+# game/cliffroute2.rpy:8476
+translate Tchinese smc1_918b7e00:
+
+    # cl "\"Thank you both so much.\""
+    cl "\"Thank you both so much.\""
+
+# game/cliffroute2.rpy:8477
+translate Tchinese smc1_58ac11a0:
+
+    # mu "\"And who knows, I could see this partnership lasting quite a while.\""
+    mu "\"And who knows, I could see this partnership lasting quite a while.\""
+
+# game/cliffroute2.rpy:8478
+translate Tchinese smc1_3644e13f:
+
+    # mu "\"Now let's get to bathing before they send out a search party. We've been gone for a long time.\""
+    mu "\"Now let's get to bathing before they send out a search party. We've been gone for a long time.\""
+
+# game/cliffroute2.rpy:8480
+translate Tchinese smc1_b44c5c39:
+
+    # "I submerge myself in the spring until the water's at my shoulder, closing my eyes."
+    "I submerge myself in the spring until the water's at my shoulder, closing my eyes."
+
+# game/cliffroute2.rpy:8481
+translate Tchinese smc1_9e06eb0c:
+
+    # "Feels a lot nicer than taking a bath at home."
+    "Feels a lot nicer than taking a bath at home."
+
+# game/cliffroute2.rpy:8482
+translate Tchinese smc1_685f948e:
+
+    # "I'm gonna miss this…"
+    "I'm gonna miss this…"
+
+# game/cliffroute2.rpy:8483
+translate Tchinese smc1_2e2f9601:
+
+    # "By the time we're clothed and ready to head back, it's a good half hour later."
+    "By the time we're clothed and ready to head back, it's a good half hour later."
+
+# game/cliffroute2.rpy:8484
+translate Tchinese smc1_89288c82:
+
+    # "My fur's still a little damp, and the perfume's way too much, but the thoughts that were eating me up just hours ago seem to have quieted down."
+    "My fur's still a little damp, and the perfume's way too much, but the thoughts that were eating me up just hours ago seem to have quieted down."
+
+# game/cliffroute2.rpy:8485
+translate Tchinese smc1_a04b53a9:
+
+    # "I'm at ease. Relaxed."
+    "I'm at ease. Relaxed."
+
+# game/cliffroute2.rpy:8486
+translate Tchinese smc1_17a5bfb4:
+
+    # "More mindful of the smells and sights around me."
+    "More mindful of the smells and sights around me."
+
+# game/cliffroute2.rpy:8487
+translate Tchinese smc1_000ceb78:
+
+    # "I know it's temporary."
+    "I know it's temporary."
+
+# game/cliffroute2.rpy:8488
+translate Tchinese smc1_bb1d79dc:
+
+    # "The thoughts are gonna come back sooner or later."
+    "The thoughts are gonna come back sooner or later."
+
+# game/cliffroute2.rpy:8489
+translate Tchinese smc1_48e4d200:
+
+    # "They're never really gone, and at this point, I'm not sure if they ever will, even if I leave everything behind."
+    "They're never really gone, and at this point, I'm not sure if they ever will, even if I leave everything behind."
+
+# game/cliffroute2.rpy:8490
+translate Tchinese smc1_f2cd912f:
+
+    # "For now, though, I don't see the harm in letting myself just enjoy tonight."
+    "For now, though, I don't see the harm in letting myself just enjoy tonight."
+
+# game/cliffroute2.rpy:8496
+translate Tchinese smc1_297f8a45:
+
+    # mu "\"You think they're missing us?\""
+    mu "\"You think they're missing us?\""
+
+# game/cliffroute2.rpy:8498
+translate Tchinese smc1_5500244f:
+
+    # m "\"They haven't come to look for us yet.\""
+    m "\"They haven't come to look for us yet.\""
+
+# game/cliffroute2.rpy:8500
+translate Tchinese smc1_823ff27c:
+
+    # "He smirks at me as he buttons up his vest."
+    "He smirks at me as he buttons up his vest."
+
+# game/cliffroute2.rpy:8501
+translate Tchinese smc1_d8d382cb:
+
+    # mu "\"So what's keeping us from enjoying ourselves just a little longer?\""
+    mu "\"So what's keeping us from enjoying ourselves just a little longer?\""
+
+# game/cliffroute2.rpy:8503
+translate Tchinese smc1_201f171e:
+
+    # cl "\"You know very well we can't dawdle. If we're to leave for the settlement at dawn, we'll need all the rest we can get.\""
+    cl "\"You know very well we can't dawdle. If we're to leave for the settlement at dawn, we'll need all the rest we can get.\""
+
+# game/cliffroute2.rpy:8505
+translate Tchinese smc1_bb90c6e9:
+
+    # mu "\"We've had a rough couple of days. The settlement will still be there tomorrow, you know.\""
+    mu "\"We've had a rough couple of days. The settlement will still be there tomorrow, you know.\""
+
+# game/cliffroute2.rpy:8509
+translate Tchinese smc1_70a149b3:
+
+    # "I hear far-off rustling in the bushes, underscored by a deep, rumbling laugh."
+    "I hear far-off rustling in the bushes, underscored by a deep, rumbling laugh."
+
+# game/cliffroute2.rpy:8510
+translate Tchinese smc1_4ff7e139:
+
+    # "My claws come out, but I see nothing come out from between the trees."
+    "My claws come out, but I see nothing come out from between the trees."
+
+# game/cliffroute2.rpy:8511
+translate Tchinese smc1_456eb003:
+
+    # "Another voice joins it, this one even deeper."
+    "Another voice joins it, this one even deeper."
+
+# game/cliffroute2.rpy:8512
+translate Tchinese smc1_025adeb6:
+
+    # "Sounds like Avery."
+    "Sounds like Avery."
+
+# game/cliffroute2.rpy:8513
+translate Tchinese smc1_6c7a4d40:
+
+    # "Cliff looks like he's about to pipe up again, but we gesture for him to keep quiet."
+    "Cliff looks like he's about to pipe up again, but we gesture for him to keep quiet."
+
+# game/cliffroute2.rpy:8517
+translate Tchinese smc1_4f94a8e3:
+
+    # av "\"Mmm, c'mon, Jeb, what if someone sees?\""
+    av "\"Mmm, c'mon, Jeb, what if someone sees?\""
+
+# game/cliffroute2.rpy:8518
+translate Tchinese smc1_bea163b7:
+
+    # jeb "\"Been waiting too long to see you again.\""
+    jeb "\"Been waiting too long to see you again.\""
+
+# game/cliffroute2.rpy:8519
+translate Tchinese smc1_55fba388:
+
+    # av "\"It's only been a week or two…\""
+    av "\"It's only been a week or two…\""
+
+# game/cliffroute2.rpy:8521
+translate Tchinese smc1_e10ffb9f:
+
+    # mu "\"Seems like we're not the only ones active tonight.\""
+    mu "\"Seems like we're not the only ones active tonight.\""
+
+# game/cliffroute2.rpy:8522
+translate Tchinese smc1_2794baf9:
+
+    # m "\"They're up to somethin', for sure.\""
+    m "\"They're up to somethin', for sure.\""
+
+# game/cliffroute2.rpy:8523
+translate Tchinese smc1_40744d6d:
+
+    # cl "\"You don't think they heard us, do you?\""
+    cl "\"You don't think they heard us, do you?\""
+
+# game/cliffroute2.rpy:8524
+translate Tchinese smc1_7a360035:
+
+    # m "\"They would've said something if they did.\""
+    m "\"They would've said something if they did.\""
+
+# game/cliffroute2.rpy:8525
+translate Tchinese smc1_0a593db5:
+
+    # "We wait around for a bit to see if the voices get closer, but they don't."
+    "We wait around for a bit to see if the voices get closer, but they don't."
+
+# game/cliffroute2.rpy:8526
+translate Tchinese smc1_219c34a3:
+
+    # "I just hear more rustling."
+    "I just hear more rustling."
+
+# game/cliffroute2.rpy:8528
+translate Tchinese smc1_97937cab:
+
+    # mu "\"HELLO?\""
+    mu "\"HELLO?\""
+
+# game/cliffroute2.rpy:8530
+translate Tchinese smc1_a16921d5:
+
+    # av "\"Shit!\""
+    av "\"Shit!\""
+
+# game/cliffroute2.rpy:8534
+translate Tchinese smc1_9b391479:
+
+    # "Cliff shoots an annoyed glance at Murdoch. The fox seems to just shrug it off."
+    "Cliff shoots an annoyed glance at Murdoch. The fox seems to just shrug it off."
+
+# game/cliffroute2.rpy:8535
+translate Tchinese smc1_f91fb6e3:
+
+    # "We hear more rustling as Avery comes out from behind a tree, Jebediah right behind him. That's the second time I'd mistaken his antlers for branches."
+    "We hear more rustling as Avery comes out from behind a tree, Jebediah right behind him. That's the second time I'd mistaken his antlers for branches."
+
+# game/cliffroute2.rpy:8539
+translate Tchinese smc1_738c28f6:
+
+    # av "\"Well, heheh, fancy running into you folks here.\""
+    av "\"Well, heheh, fancy running into you folks here.\""
+
+# game/cliffroute2.rpy:8543
+translate Tchinese smc1_cc09375f:
+
+    # av "\"We were, uh, just heading out to the spring for a couple minutes. I take it you boys are all finished up?\""
+    av "\"We were, uh, just heading out to the spring for a couple minutes. I take it you boys are all finished up?\""
+
+# game/cliffroute2.rpy:8544
+translate Tchinese smc1_821f4c89:
+
+    # mu "\"You could say that.\""
+    mu "\"You could say that.\""
+
+# game/cliffroute2.rpy:8545
+translate Tchinese smc1_29ff9256:
+
+    # m "\"Water's nice and warm.\""
+    m "\"Water's nice and warm.\""
+
+# game/cliffroute2.rpy:8546
+translate Tchinese smc1_fed23a81:
+
+    # cl "\"I feel better already!\""
+    cl "\"I feel better already!\""
+
+# game/cliffroute2.rpy:8548
+translate Tchinese smc1_42f193d9:
+
+    # av "\"That so? Well, then, I suppose we'll follow your example.\""
+    av "\"That so? Well, then, I suppose we'll follow your example.\""
+
+# game/cliffroute2.rpy:8551
+translate Tchinese smc1_619f39c4:
+
+    # "He drags Jebediah down the path by his wrist. The horse looks a little startled."
+    "He drags Jebediah down the path by his wrist. The horse looks a little startled."
+
+# game/cliffroute2.rpy:8552
+translate Tchinese smc1_244729d6:
+
+    # mu "\"We'll see you at camp!\""
+    mu "\"We'll see you at camp!\""
+
+# game/cliffroute2.rpy:8553
+translate Tchinese smc1_62bbdc7c:
+
+    # jeb "\"Don't wait up for us.\""
+    jeb "\"Don't wait up for us.\""
+
+# game/cliffroute2.rpy:8554
+translate Tchinese smc1_3c713c96:
+
+    # m "\"You folks have fun now.\""
+    m "\"You folks have fun now.\""
+

@@ -27443,3 +27443,287 @@ translate Tchinese strings:
     old "The trashbin."
     new "垃圾桶。"
 
+# TODO: Translation updated at 2023-07-25 16:41
+
+# game/williamroute3.rpy:7297
+translate Tchinese williamroute3b_0ee5a0bd:
+
+    # gr "\"Practically all of the women in the damn town knew it was going on.\""
+    gr "\"Practically all of the women in the damn town knew it was going on.\""
+
+# game/williamroute3.rpy:7398
+translate Tchinese williamroute3b_86d31f48:
+
+    # mu "\"He could have died if I hadn’t done something.\""
+    mu "\"He could have died if I hadn’t done something.\""
+
+# game/williamroute3.rpy:7407
+translate Tchinese williamroute3b_2cac2f7c:
+
+    # mu "\"When you put it that way... I guess.\""
+    mu "\"When you put it that way... I guess.\""
+
+# game/williamroute3.rpy:7492
+translate Tchinese williamroute3b_5796bbef:
+
+    # "Every direction is pointing me to Hendricks’ manor."
+    "Every direction is pointing me to Hendricks’ manor."
+
+# game/williamroute3.rpy:7498
+translate Tchinese williamroute3b_016a3de5:
+
+    # "It’s 6:22 here, so it’s 8:22 there."
+    "It’s 6:22 here, so it’s 8:22 there."
+
+# game/williamroute3.rpy:7635
+translate Tchinese williamroute3b_d9d42515:
+
+    # "The grand entrance of their foyer shows off a massive painting of an older Ram looking down at us."
+    "The grand entrance of their foyer shows off a massive painting of an older Ram looking down at us."
+
+# game/williamroute3.rpy:7673
+translate Tchinese williamroute3b_b8650c99:
+
+    # jam "\"He and a business partner scouted the wilderness for months before they struck gold at the first site, which would become the CSCG mining operation.\""
+    jam "\"He and a business partner scouted the wilderness for months before they struck gold at the first site, which would become the CSCG mining operation.\""
+
+# game/williamroute3.rpy:7676
+translate Tchinese williamroute3b_9eeb823b:
+
+    # wi "\"Was that Briggs’ father?\""
+    wi "\"Was that Briggs’ father?\""
+
+# game/williamroute3.rpy:7713
+translate Tchinese williamroute3b_8d8aea1b:
+
+    # "A well-dressed ewe, who I can only assume is Mrs. Hendricks, is reading a book on her wicker basket lounge."
+    "A well-dressed ewe, who I can only assume is Mrs. Hendricks, is reading a book on her wicker basket lounge."
+
+# game/williamroute3.rpy:7724
+translate Tchinese williamroute3b_9cf47ef5:
+
+    # mrs "\"I do hope we’ve not done anything wrong?\""
+    mrs "\"I do hope we’ve not done anything wrong?\""
+
+# game/williamroute3.rpy:7844
+translate Tchinese williamroute3b_b3ad55f0:
+
+    # jam "\"My grandfather grew up experiencing a country full of green hills with expanding ruins.\""
+    jam "\"My grandfather grew up experiencing a country full of green hills with expanding ruins.\""
+
+# game/williamroute3.rpy:7910
+translate Tchinese williamroute3b_c7b2ea62:
+
+    # wi "\"Most are in those circles, as paradoxical as it may seem.\""
+    wi "\"Most are in those circles, as paradoxical as it may seem.\""
+
+# game/williamroute3.rpy:7913
+translate Tchinese williamroute3b_6eb3e7fe:
+
+    # wi "\"His orders of these violent crimes couldn’t be linked to any of the outfits loyal to him.\""
+    wi "\"His orders of these violent crimes couldn’t be linked to any of the outfits loyal to him.\""
+
+# game/williamroute3.rpy:7949
+translate Tchinese williamroute3b_2bb3604a:
+
+    # wi "\"If I knew that’s what would have happened to us even after Big Momo got arrested, then maybe I could have ignored those suitcases.\""
+    wi "\"If I knew that’s what would have happened to us even after Big Momo got arrested, then maybe I could have ignored those suitcases.\""
+
+# game/williamroute3.rpy:7965
+translate Tchinese williamroute3b_2ddc00fe:
+
+    # jam "\"Enough of this--\""
+    jam "\"Enough of this--\""
+
+# game/williamroute3.rpy:7974
+translate Tchinese williamroute3b_9f6bfe35:
+
+    # jam "\"Well it’s not like I’m putting a muzzle over him.\""
+    jam "\"Well it’s not like I’m putting a muzzle over him.\""
+
+# game/williamroute3.rpy:8055
+translate Tchinese williamroute3b_69c18680:
+
+    # mrs "\"Please feel free to roam the house, and ask the staff what you like.\""
+    mrs "\"Please feel free to roam the house, and ask the staff what you like.\""
+
+# game/williamroute3.rpy:8142
+translate Tchinese willinvestigation2_4bf7d645:
+
+    # "Nik follows me to the foyer and keeps his voice low until we get a good distance away from the hall, and start to climb the stairs."
+    "Nik follows me to the foyer and keeps his voice low until we get a good distance away from the hall, and start to climb the stairs."
+
+# game/williamroute3.rpy:8176
+translate Tchinese willinvestigation2_410c94ae:
+
+    # "I inhale a bit of my own spit, then start coughing."
+    "I inhale a bit of my own spit, then start coughing."
+
+# game/williamroute3.rpy:8257
+translate Tchinese willinvestigation2_470b6237:
+
+    # wi "\"And you look closely at the gold and black paint on the side of the frame, there’s hinges.\""
+    wi "\"And you look closely at the gold and black paint on the side of the frame, there’s hinges.\""
+
+# game/williamroute3.rpy:8265
+translate Tchinese willinvestigation2_03e19f92:
+
+    # wi "\"Some buildings can have clockwork mechanisms to make doors passages useable at only certain times of day, or under certain conditions.\""
+    wi "\"Some buildings can have clockwork mechanisms to make doors passages useable at only certain times of day, or under certain conditions.\""
+
+# game/williamroute3.rpy:8271
+translate Tchinese willinvestigation2_ed48ce61:
+
+    # wi "\"If they’re truthful about not understanding the house, which is yet to be proven, by the way, then a mechanism like that would have broken a long time ago.\""
+    wi "\"If they’re truthful about not understanding the house, which is yet to be proven, by the way, then a mechanism like that would have broken a long time ago.\""
+
+# game/williamroute3.rpy:8289
+translate Tchinese willinvestigation2_ed5148bf:
+
+    # "Mrs. Hendricks is still there, flipping cards on the coffee table."
+    "Mrs. Hendricks is still there, flipping cards on the coffee table."
+
+# game/williamroute3.rpy:8322
+translate Tchinese willinvestigation2_22fbf0d7:
+
+    # mrs "\"Just follow along the hall and you’ll eventually come to the kitchen.\""
+    mrs "\"Just follow along the hall and you’ll eventually come to the kitchen.\""
+
+# game/williamroute3.rpy:8335
+translate Tchinese willinvestigation2_f1c4a2c8:
+
+    # mrs "\"I have a story I can tell you while we wait Mr. Krol.\""
+    mrs "\"I have a story I can tell you while we wait Mr. Krol.\""
+
+# game/williamroute3.rpy:8454
+translate Tchinese willinvestigation2_c0b86249:
+
+    # wi "\"Maybe in the city where we come from. In case you haven’t noticed, here it’s a bit of a luxury.\""
+    wi "\"Maybe in the city where we come from. In case you haven’t noticed, here it’s a bit of a luxury.\""
+
+# game/williamroute3.rpy:8476
+translate Tchinese willinvestigation2_9fd1a61a:
+
+    # wi "\"And you still don’t know who put you in contact with Mr. Hendricks, or why he’d be interested in importing a cook?\""
+    wi "\"And you still don’t know who put you in contact with Mr. Hendricks, or why he’d be interested in importing a cook?\""
+
+# game/williamroute3.rpy:8537
+translate Tchinese willinvestigation2_24181828:
+
+    # hat "\"At least tradition doesn’t sound so lonely.\""
+    hat "\"At least tradition doesn’t sound so lonely.\""
+
+# game/williamroute3.rpy:8573
+translate Tchinese willinvestigation2_7d49df08:
+
+    # "She opens one of the drawers and what I see shocks me."
+    "She opens one of the drawers and what I see shocks me."
+
+# game/williamroute3.rpy:8650
+translate Tchinese willinvestigation2_a9282691:
+
+    # mrs "\"Well yes, but it’s not a smell that lingers like a foul miasma.\""
+    mrs "\"Well yes, but it’s not a smell that lingers like a foul miasma.\""
+
+# game/williamroute3.rpy:8658
+translate Tchinese willinvestigation2_602686ea:
+
+    # mrs "\"It’s just instead of feeling a force that makes you float, you smell something.\""
+    mrs "\"It’s just instead of feeling a force that makes you float, you smell something.\""
+
+# game/williamroute3.rpy:8744
+translate Tchinese willinvestigation2_4142f7b6:
+
+    # noa "\"He said he’d tell me more stories about the army if I could get a hold of it.\""
+    noa "\"He said he’d tell me more stories about the army if I could get a hold of it.\""
+
+# game/williamroute3.rpy:8789
+translate Tchinese postwillinvestigation2_442c145a:
+
+    # mrs "\"If that’s the case then please do your best to help him.\""
+    mrs "\"If that’s the case then please do your best to help him.\""
+
+# game/williamroute3.rpy:8822
+translate Tchinese postwillinvestigation2_3de020b1:
+
+    # ni "\"Do you really think she's in more trouble now than where she was?\""
+    ni "\"Do you really think she's in more trouble now than where she was?\""
+
+# game/williamroute3.rpy:8886
+translate Tchinese postwillinvestigation2_2a1facc8:
+
+    # "At the first door we see I give Nik a look and he nods."
+    "At the first door we see I give Nik a look and he nods."
+
+# game/williamroute3.rpy:8934
+translate Tchinese willinvestigation3_2ee0758f:
+
+    # wi "\"Are you saying that people know about this?\""
+    wi "\"Are you saying that people know about this?\""
+
+# game/williamroute3.rpy:8939
+translate Tchinese willinvestigation3_e856a377:
+
+    # ni "\"James showed this off at his party last Thursday.\""
+    ni "\"James showed this off at his party last Thursday.\""
+
+# game/williamroute3.rpy:8943
+translate Tchinese willinvestigation3_94232757:
+
+    # wi "\"If he gets the approval to do this it will destroy the economy.\""
+    wi "\"If he gets the approval to do this it will destroy the economy.\""
+
+# game/williamroute3.rpy:8947
+translate Tchinese willinvestigation3_884069cb:
+
+    # "At least it gives me more information into what’s going on, but Jesus fuckin’ Christ this sonuvabitch."
+    "At least it gives me more information into what’s going on, but Jesus fuckin’ Christ this sonuvabitch."
+
+# game/williamroute3.rpy:9049
+translate Tchinese postwillinvestigation3_456f7d82:
+
+    # "Mrs. Hendricks walks out into the foyer and sees us walking down the stairs."
+    "Mrs. Hendricks walks out into the foyer and sees us walking down the stairs."
+
+# game/williamroute3.rpy:9156
+translate Tchinese postwillinvestigation3_a49479b9:
+
+    # an "\"Ones wearing the colors of the USC military do.\""
+    an "\"Ones wearing the colors of the USC military do.\""
+
+# game/williamroute3.rpy:9205
+translate Tchinese postwillinvestigation3_adfb9237:
+
+    # jam "\"Now if I’m not mistaken, that’s the third time I’ve heard the dinner bell go off.\""
+    jam "\"Now if I’m not mistaken, that’s the third time I’ve heard the dinner bell go off.\""
+
+# game/williamroute3.rpy:9297
+translate Tchinese postwillinvestigation3_999bd77d:
+
+    # "Cynthia closes her mouth and nods."
+    "Cynthia closes her mouth and nods."
+
+# game/williamroute3.rpy:9572
+translate Tchinese postwillinvestigation3_51194722:
+
+    # cy "\"Then how about you spying on all of us and using our private lives for who knows what seedy purpose.\""
+    cy "\"Then how about you spying on all of us and using our private lives for who knows what seedy purpose.\""
+
+# game/williamroute3.rpy:9637
+translate Tchinese postwillinvestigation3_49732d56:
+
+    # cy "\"I can find out what she’s up to tonight.\""
+    cy "\"I can find out what she’s up to tonight.\""
+
+# game/williamroute3.rpy:9666
+translate Tchinese postwillinvestigation3_55eed457:
+
+    # wi "\"He could easily contact anybody he wants, whenever he wants, just as easily as Dora.\""
+    wi "\"He could easily contact anybody he wants, whenever he wants, just as easily as Dora.\""
+
+# game/williamroute3.rpy:9705
+translate Tchinese postwillinvestigation3_5371688d:
+
+    # cy "\"But if you’re going to keep stealing information from us then I’m not going to make it easy for you.\""
+    cy "\"But if you’re going to keep stealing information from us then I’m not going to make it easy for you.\""
+

@@ -778,7 +778,7 @@ translate Tchinese murdochroute2_bed30221:
 translate Tchinese murdochroute2_4f99ee7f:
 
     # bl "\"Swear on the tromping grounds?\""
-    bl "“腳踩大地發誓？”"
+    bl "“以遊戲場起誓？”"
 
 # game/murdochroute2.rpy:183
 translate Tchinese murdochroute2_bffb4b81:
@@ -6424,7 +6424,7 @@ translate Tchinese murdochroute2_79cd93e5:
 translate Tchinese murdochroute2_4631b855:
 
     # ra "\"Remember when you caught that huge catfish, stockings?\""
-    ra "“還記得你釣到的那條大鯰魚嗎，襪子先生？”"
+    ra "“還記得你釣到的那條大鯰魚嗎，小襪襪？”"
 
 # game/murdochroute2.rpy:1843
 translate Tchinese murdochroute2_d410067f:
@@ -25797,7 +25797,7 @@ translate Tchinese mdq2_97fe59de:
 translate Tchinese mdq2_58b28baa:
 
     # bl "\"You want to head down to the tromping grounds tonight?\""
-    bl "“今晚要不要去秘密基地？”"
+    bl "“今晚要不要去遊戲場？”"
 
 # game/murdochroute2.rpy:7474
 translate Tchinese mdq2_ce7029b2:
@@ -26157,7 +26157,7 @@ translate Tchinese mdq2_e7cd0f71:
 translate Tchinese mdq2_a3678b1e:
 
     # "Why would she be in the tromping grounds, though?"
-    "但她怎麼會在秘密基地？"
+    "但她怎麼會在遊戲場？"
 
 # game/murdochroute2.rpy:7550
 translate Tchinese mdq2_5c67fd2a:
@@ -26427,7 +26427,7 @@ translate Tchinese mdq2_53b812f4:
 translate Tchinese mdq2_48529b7c:
 
     # "Did she think the creep following her knew about the tromping grounds?"
-    "她是覺得那個跟蹤狂知道秘密基地的事嗎？"
+    "她是覺得那個跟蹤狂知道遊戲場的事嗎？"
 
 # game/murdochroute2.rpy:7630
 translate Tchinese mdq2_ae329d38:
@@ -28571,3 +28571,52 @@ translate Tchinese strings:
     old "500?"
     new "500？"
 
+# TODO: Translation updated at 2023-07-25 16:41
+
+# game/murdochroute2.rpy:465
+translate Tchinese murdochroute2_0e3b12ad:
+
+    # ho "\"Working one of our longest days of the year on your second day isn't the best of luck.\""
+    ho "“第二個工作日就是一年中最漫長的一天，真是不走運。”"
+
+# game/murdochroute2.rpy:1834
+translate Tchinese murdochroute2_7048fda8:
+
+    # "Ralph looks all around him and lifts his head to the rock ceiling."
+    "Ralph看了圈四周，然後抬頭望向岩頂。"
+
+# game/murdochroute2.rpy:2231
+translate Tchinese murdochroute2_a2252bcb:
+
+    # "So I tug on Murdoch's sleeve, and he gives me a sly kind of smile."
+    "於是我抓住Murdoch的衣袖，他回以一抹狡詐的笑容。"
+
+# game/murdochroute2.rpy:2326
+translate Tchinese murdochroute2_bbd4795f:
+
+    # m "\"I'm sure you'd learn to be careful.\""
+    m "“相信你會學會小心的。”"
+
+# game/murdochroute2.rpy:4233
+translate Tchinese murdochroute2_efc84888:
+
+    # "Murdoch sits on the empty chair closest to the fire, leaving me the couch with his father or the other empty chair that places the fiance between us."
+    "Murdoch坐在離火爐最近的椅子上，把他父親的沙發，或另一把空椅子留給了我。"
+
+# game/murdochroute2.rpy:4428
+translate Tchinese murdochroute2_1a16c8fb:
+
+    # gr "\"I’m proud to say that hiring you was one of the best things my son has done in months.\""
+    gr "“我可以自豪地說，僱傭了你是我兒子這幾個月來最值得稱道的行為。”"
+
+# game/murdochroute2.rpy:4662
+translate Tchinese murdochroute2_6251d9cf:
+
+    # ji "\"What kind of groom would I be if I didn’t treat my own ushers to the best part of this ceremony?\""
+    ji "“沒有讓伴郎們享受到婚禮最精彩的部分，那我還算哪門子新郎？”"
+
+# game/murdochroute2.rpy:6904
+translate Tchinese mdq2_4d886868:
+
+    # cy "\"Go get dressed, I’ll be in your room in a bit.\""
+    cy "“把衣服換上，我等等就去你房間。”"

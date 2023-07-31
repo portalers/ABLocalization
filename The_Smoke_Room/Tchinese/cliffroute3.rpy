@@ -16052,3 +16052,185 @@ translate Tchinese strings:
     # game/cliffroute3.rpy:4404
     old "Stop him."
     new "阻止他。"
+# TODO: Translation updated at 2023-07-25 16:41
+
+# game/cliffroute3.rpy:372
+translate Tchinese murdochtent_44665f95:
+
+    # cl "\"We're so sorry. We were just--\""
+    cl "\"We're so sorry. We were just--\""
+
+# game/cliffroute3.rpy:3249
+translate Tchinese cliffroute3a_58b1b7cb:
+
+    # "He puts a plate on the end table near the couch."
+    "He puts a plate on the end table near the couch."
+
+# game/cliffroute3.rpy:3275
+translate Tchinese cliffroute3a_6ef57ba9:
+
+    # "He finishes his meal very quickly without talking."
+    "He finishes his meal very quickly without talking."
+
+# game/cliffroute3.rpy:3296
+translate Tchinese cliffroute3a_4602a407:
+
+    # "All I want to do now was focus on finishing my breakfast."
+    "All I want to do now was focus on finishing my breakfast."
+
+# game/cliffroute3.rpy:3297
+translate Tchinese cliffroute3a_628efbb6:
+
+    # "It’s good, but the pain in my jaw and chest makes it hard to swallow anything at first."
+    "It’s good, but the pain in my jaw and chest makes it hard to swallow anything at first."
+
+# game/cliffroute3.rpy:3409
+translate Tchinese cliffroute3a_6d8eb23d:
+
+    # av "\"But if I can’t go out after dark then there’s not much else I can do but wait.\""
+    av "\"But if I can’t go out after dark then there’s not much else I can do but wait.\""
+
+# game/cliffroute3.rpy:3657
+translate Tchinese cliffroute3a_9b5d6a52:
+
+    # av "\"The Madam would be pretty cross with me if she knew I ran into you and you came back too beat up.\""
+    av "\"The Madam would be pretty cross with me if she knew I ran into you and you came back too beat up.\""
+
+# game/cliffroute3.rpy:3663
+translate Tchinese cliffroute3a_1becb91a:
+
+    # m "\"You’ve already done more than enough.\""
+    m "\"You’ve already done more than enough.\""
+
+# game/cliffroute3.rpy:3754
+translate Tchinese cliffroute3a_10ba9ae5:
+
+    # "I nod slowly and sigh, rubbing the back of my head and pulling a piece of a twig out of my fur."
+    "I nod slowly and sigh, rubbing the back of my head and pulling a piece of a twig out of my fur."
+
+# game/cliffroute3.rpy:3759
+translate Tchinese cliffroute3a_a6d16be5:
+
+    # mu "\"Jeb, would you mind stepping out for a moment?\""
+    mu "\"Jeb, would you mind stepping out for a moment?\""
+
+# game/cliffroute3.rpy:3774
+translate Tchinese cliffroute3a_9379cbe5:
+
+    # extend " but he’s out the door before I can muster up a call deep enough to hear."
+    extend " but he’s out the door before I can muster up a call deep enough to hear."
+
+# game/cliffroute3.rpy:3790
+translate Tchinese cliffroute3a_3d4881e7:
+
+    # mu "\"You’re still going to try and go off on your own after it looks like you got tossed around and mangled?\""
+    mu "\"You’re still going to try and go off on your own after it looks like you got tossed around and mangled?\""
+
+# game/cliffroute3.rpy:3814
+translate Tchinese cliffroute3a_8c5abd96:
+
+    # m "\"You threatening me?\""
+    m "\"You threatening me?\""
+
+# game/cliffroute3.rpy:3821
+translate Tchinese cliffroute3a_cf85e95d:
+
+    # mu "\"I got the chance to freeze the image.\""
+    mu "\"I got the chance to freeze the image.\""
+
+# game/cliffroute3.rpy:3908
+translate Tchinese cliffroute3a_16feceec:
+
+    # m "\"I’m not really a bodyguard.\""
+    m "\"I’m not really a bodyguard.\""
+
+# game/cliffroute3.rpy:3969
+translate Tchinese cliffroute3a_a1eda39a:
+
+    # "The beatific joy, and the good-natured laughter, and the colors borrowed from the good earth itself were not something my Grandfather, nor all the scholars of Europa could begin to dream of."
+    "The beatific joy, and the good-natured laughter, and the colors borrowed from the good earth itself were not something my Grandfather, nor all the scholars of Europa could begin to dream of."
+
+# game/cliffroute3.rpy:3977
+translate Tchinese cliffroute3a_a6c9dd54:
+
+    # "The big, humble bear smiles at me as we walk."
+    "The big, humble bear smiles at me as we walk."
+
+# game/cliffroute3.rpy:4025
+translate Tchinese cliffroute3a_9f61c75b:
+
+    # "The bear smiles and scratches the back of his head."
+    "The bear smiles and scratches the back of his head."
+
+# game/cliffroute3.rpy:4096
+translate Tchinese cliffroute3a_c8b916ad:
+
+    # ca "\"Fifteen minutes may be nothing to you, but the children are on a schedule.\""
+    ca "\"Fifteen minutes may be nothing to you, but the children are on a schedule.\""
+
+# game/cliffroute3.rpy:4174
+translate Tchinese cliffroute3a_d01f2367:
+
+    # ca "\"They live in harmony, communicating with one another to serve their queen, bringing life and treasure to all of God’s creatures.\""
+    ca "\"They live in harmony, communicating with one another to serve their queen, bringing life and treasure to all of God’s creatures.\""
+
+# game/cliffroute3.rpy:4333
+translate Tchinese cliffroute3a_9e534590:
+
+    # ys "\"I am treated well when I keep to myself, and when I listen.\""
+    ys "\"I am treated well when I keep to myself, and when I listen.\""
+
+# game/cliffroute3.rpy:4346
+translate Tchinese cliffroute3a_aec36bcd:
+
+    # "He pulls out a wooden sheath that’s covered on one side by drowsy looking bees, and a thick, golden, hive-like pattern of hexagons."
+    "He pulls out a wooden sheath that’s covered on one side by drowsy looking bees, and a thick, golden, hive-like pattern of hexagons."
+
+# game/cliffroute3.rpy:4515
+translate Tchinese cliffchoice4_56f9060a:
+
+    # ca "\"Come along, Mr. van Houwelinck.\""
+    ca "\"Come along, Mr. van Houwelinck.\""
+
+# game/cliffroute3.rpy:4551
+translate Tchinese cliffchoice4_95d57686:
+
+    # ca "\"It’s soap, Mr. van Houwelinck.\""
+    ca "\"It’s soap, Mr. van Houwelinck.\""
+
+# game/cliffroute3.rpy:4572
+translate Tchinese cliffchoice5_c2fb99ab:
+
+    # ca "\"I can’t do what, Mr. van Houwelinck?\""
+    ca "\"I can’t do what, Mr. van Houwelinck?\""
+
+# game/cliffroute3.rpy:4621
+translate Tchinese cliffchoice5_447d23b9:
+
+    # ca "\"What were the two of these men talking about, Mr. van Houwelinck?\""
+    ca "\"What were the two of these men talking about, Mr. van Houwelinck?\""
+
+# game/cliffroute3.rpy:4893
+translate Tchinese cliffchoice5_b54be0cc:
+
+    # ca "\"People have been talking terribly about you for a long time before I ever met you. I can see now, right before me, that they are exonerated in their honesty.\""
+    ca "\"People have been talking terribly about you for a long time before I ever met you. I can see now, right before me, that they are exonerated in their honesty.\""
+
+# game/cliffroute3.rpy:4905
+translate Tchinese cliffchoice5_54b28dc2:
+
+    # ca "\"A thing that’s neither man, nor child, nor anything I would want near God’s children, nor his creations.\""
+    ca "\"A thing that’s neither man, nor child, nor anything I would want near God’s children, nor his creations.\""
+
+# game/cliffroute3.rpy:5095
+translate Tchinese cliffchoice5_54e2c422:
+
+    # m "\"Why do you sound like that?\""
+    m "\"Why do you sound like that?\""
+
+# game/cliffroute3.rpy:5349
+translate Tchinese cliffchoice5_402a4570:
+
+    # jeb "\"How are y’all gettin’ more injured in the settlement than the journey?\""
+    jeb "\"How are y’all gettin’ more injured in the settlement than the journey?\""
+
