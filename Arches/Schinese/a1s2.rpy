@@ -346,7 +346,7 @@ translate Schinese a1s2_d392e268:
 translate Schinese a1s2_a6eab2a2:
 
     # d "“Listen, Cameron. I've been to a lot of haunted places, but there's something different about this town that feels really off, 'fucked', like you said, and I don't want you anywhere near it.”"
-    d "“听着，Cameron，我也去过不少闹鬼的地方了，但这个小镇绝对有哪里不对劲。用你的话来讲就是‘操蛋’，我希望你离这里越远越高。”"
+    d "“听着，Cameron，我也去过不少闹鬼的地方了，但这个小镇绝对有哪里不对劲。用你的话来讲就是‘操蛋’，我希望你离这里越远越好。”"
 
 # game/a1s2.rpy:67
 translate Schinese a1s2_fbaf2e79:
