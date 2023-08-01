@@ -171,8 +171,8 @@ screen will_select():
             imagebutton idle "images/thumbnails/samthumb1.webp" action Confirm(spoiler_message, Function(call_chapter_select, "William", 1), Hide("confirm"))
             imagebutton idle "images/thumbnails/wilthumb1.webp" action Confirm(spoiler_message, Function(call_chapter_select, "William", 2), Hide("confirm"))
             imagebutton idle "images/thumbnails/wilthumb2.webp" action Confirm(spoiler_message, Function(call_chapter_select, "William", 3), Hide("confirm"))
-            imagebutton idle "images/thumbnails/luthumb.webp" action Confirm(spoiler_message, Function(call_chapter_select, "William", 4), Hide("confirm"))
-            null
+            imagebutton idle "images/thumbnails/puthumb.webp" action Confirm(spoiler_message, Function(call_chapter_select, "William", 4), Hide("confirm"))
+            imagebutton idle "images/thumbnails/luthumb.webp" action Confirm(spoiler_message, Function(call_chapter_select, "William", 5), Hide("confirm"))
             null
         add "sprites/william/wil.webp" xpos 800 xysize(961,1075) ypos -470 alpha 0.75 zoom 0.8
 
@@ -184,8 +184,8 @@ screen murdoch_select():
             imagebutton idle "images/thumbnails/samthumb1.webp" action Confirm(spoiler_message, Function(call_chapter_select, "Murdoch", 1), Hide("confirm"))
             imagebutton idle "images/thumbnails/murthumb1.webp" action Confirm(spoiler_message, Function(call_chapter_select, "Murdoch", 2), Hide("confirm"))
             imagebutton idle "images/thumbnails/murthumb2.webp" action Confirm(spoiler_message, Function(call_chapter_select, "Murdoch", 3), Hide("confirm"))
-            imagebutton idle "images/thumbnails/luthumb.webp" action Confirm(spoiler_message, Function(call_chapter_select, "Murdoch", 4), Hide("confirm"))
-            null
+            imagebutton idle "images/thumbnails/puthumb.webp" action Confirm(spoiler_message, Function(call_chapter_select, "Murdoch", 4), Hide("confirm"))
+            imagebutton idle "images/thumbnails/luthumb.webp" action Confirm(spoiler_message, Function(call_chapter_select, "Murdoch", 5), Hide("confirm"))
             null
         add "sprites/murdoch/mur.webp" xpos 800 xysize(961,1075) ypos -470 alpha 0.75 zoom 0.8
 
@@ -197,7 +197,7 @@ screen cliff_select():
             imagebutton idle "images/thumbnails/samthumb1.webp" action Confirm(spoiler_message, Function(call_chapter_select, "Clifford", 1), Hide("confirm"))
             imagebutton idle "images/thumbnails/cliffthumb1.webp" action Confirm(spoiler_message, Function(call_chapter_select, "Clifford", 2), Hide("confirm"))
             imagebutton idle "images/thumbnails/cliffthumb2.jpg" action Confirm(spoiler_message, Function(call_chapter_select, "Clifford", 3), Hide("confirm"))
-            imagebutton idle "images/thumbnails/luthumb.webp" action Confirm(spoiler_message, Function(call_chapter_select, "Clifford", 4), Hide("confirm"))
+            imagebutton idle "images/thumbnails/puthumb.webp" action Confirm(spoiler_message, Function(call_chapter_select, "Clifford", 4), Hide("confirm"))
             imagebutton idle "images/thumbnails/luthumb.webp" action Confirm(spoiler_message, Function(call_chapter_select, "Clifford", 5), Hide("confirm"))
             null
         add "sprites/cliff/cli.webp" xpos 900 xysize(748,925) ypos -350 alpha 0.75 zoom 0.8
