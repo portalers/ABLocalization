@@ -474,7 +474,7 @@ translate Tchinese strings:
 
     # renpy/common/00library.rpy:281
     old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
-    new "本遊戲由{a=https://space.bilibili.com/1571398540/dynamic}北極光漢化組{/a}完成當地語系化工作，如需加入漢化組QQ頻道，請{a=https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&inviteCode=2kr67C&from=246610&biz=ka}點擊此處{/a}。\n\n友情連結:獸人控遊戲索引{a=https://furrygames.top/zh-tw/games/Arches.html}訪問此處{/a}。\n\n本套裝程式含了由數個許可證授權的免費軟體，包括 MIT 許可證和 GNU 寬鬆通用公共許可證。完整軟體清單及原始程式碼連結，請{a=https://www.renpy.org/l/license}點擊此處{/a}。"
+    new "本遊戲由{a=https://space.bilibili.com/1571398540/dynamic}北極光漢化組{/a}完成當地語系化工作，如需加入漢化組QQ頻道，請{a=https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&inviteCode=2kr67C&from=246610&biz=ka}點擊此處{/a}。\n\n友情連結:獸人控遊戲索引{a=https://furrygames.top/zh-tw/games/Arches.html}點擊此處{/a}。\n\n本套裝程式含了由數個許可證授權的免費軟體，包括 MIT 許可證和 GNU 寬鬆通用公共許可證。完整軟體清單及原始程式碼連結，請{a=https://www.renpy.org/l/license}點擊此處{/a}。"
 
     # renpy/common/00preferences.rpy:254
     old "display"

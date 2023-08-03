@@ -772,7 +772,7 @@ translate Schinese a1s1_76b63b44:
 translate Schinese a1s1_1d476024:
 
     # "They both get out, Cameron stretching his legs gratefully."
-    "二人一同下了车，Cameron心怀感激地舒展一了双腿。"
+    "二人一同下了车，Cameron心怀感激地舒展了一下双腿。"
 
 # game/a1s1.rpy:175
 translate Schinese a1s1_cbd26b9c:
@@ -1000,7 +1000,7 @@ translate Schinese a1s1_828a3072:
 translate Schinese a1s1_51996c20:
 
     # "Cameron sees the bear's demeanor change instantly."
-    "Cameron撇到熊的举止瞬间不一样了。"
+    "Cameron瞥到熊的举止瞬间不一样了。"
 
 # game/a1s1.rpy:230
 translate Schinese a1s1_9704d01d:
@@ -4148,7 +4148,7 @@ translate Schinese a1s1_4db752fd:
 translate Schinese a1s1_d0c0d3fe:
 
     # c "“You know better than to say that. Just because I'm built for it doesn't mean I have to like it.”"
-    c "“少来。天性如此，并不意味我着一定要喜欢。”"
+    c "“少来。天性如此，并不意味着我一定要喜欢。”"
 
 # game/a1s1.rpy:129
 translate Schinese a1s1_2b134e47:
