@@ -3430,7 +3430,7 @@ translate Schinese a1s1_de5eda31:
 translate Schinese a1s1_6135232b:
 
     # d "“Then again, {w=0.4}YOU don't believe in anything, so what you really want to know is what it's like to disappear.”"
-    d "“不过话说回来，{w=0.4}{b}你{/b}既然没有信仰，想必只是想了解消失的感觉吧？”"
+    d "“不过话说回来，{w=0.4}{b}你{/b}既然没有信仰，想必只是为了了解消失的感觉吧？”"
 
 # game/a1s1.rpy:882
 translate Schinese a1s1_9ff45f1d:
@@ -3442,25 +3442,25 @@ translate Schinese a1s1_9ff45f1d:
 translate Schinese a1s1_50247fc0:
 
     # d "“You tell yourself you want to die, that you wish your mom didn't save your worthless life, that you'd deserve it.”"
-    d "“你告诉自己想死，希望母亲没有拯救你那毫无价值的生命，这是你活该。”"
+    d "“你告诉自己想死，希望你的母亲没有拯救你那毫无价值的生命，你不配活着。”"
 
 # game/a1s1.rpy:884
 translate Schinese a1s1_3deb805e:
 
     # d "“Now you tell yourself that if it weren't for me, you'd have ended things back in college.”"
-    d "“现在你又告诉自己，如果不是因为我，你早在大学的时候就已经自我了断了。”"
+    d "“现在你又告诉自己，如果不是因为我，你早在大学时就已经自我了断了。”"
 
 # game/a1s1.rpy:885
 translate Schinese a1s1_c6bb0ae7:
 
     # d "“We both know that's a lie, because you're a fucking coward.”"
-    d "“你我都知道，那是谎言，因为你他妈就是个懦夫。”"
+    d "“你我都知道，那只是谎言，因为你他妈就是个懦夫。”"
 
 # game/a1s1.rpy:886
 translate Schinese a1s1_05e665f7:
 
     # d "“You'll stay alive as long as you can be with someone who can keep you alive.”"
-    d "“只要找到那个能陪着你活下去的人，你就会一直活下去。”"
+    d "“只要找到那个能陪你活下去的人，你就会一直活下去。”"
 
 # game/a1s1.rpy:887
 translate Schinese a1s1_aa9e83a0:
@@ -3472,13 +3472,13 @@ translate Schinese a1s1_aa9e83a0:
 translate Schinese a1s1_eb94cae6:
 
     # d "“You fucking {i}begged{/i} Dylan not to leave you, just weeks after he punched you and gave you that scar. The one you said you got from falling against a cabinet. You're sick.”"
-    d "“就在Dylan打了你一拳、给你留下一道疤的几周后，你他妈还{b}求着{/b}他不要抛弃你，还说那道疤是因为从储藏柜上摔了下来。你真恶心。”"
+    d "“就在Dylan打了你一拳，给你留下一道疤的几周后，你他妈还{b}求{/b}他不要抛弃你，还说那道疤是因为从柜子上摔了下来。真是贱。”"
 
 # game/a1s1.rpy:889
 translate Schinese a1s1_f05e4a07:
 
     # d "“Meanwhile, you {i}let{/i} me put you in this situation. You said you {i}wanted{/i} it. Do you still want it?”"
-    d "“那时是你{i}求{/i}我把你拉入这种境地的。你说你{i}想要{/i}这样。现在也依然如此吗？”"
+    d "“还有，你之所以会在这里，也是你{b}求{/b}我带你过来的。你说你{b}想要{/b}这样，现在还想吗？”"
 
 # game/a1s1.rpy:890
 translate Schinese a1s1_579fd2eb:
@@ -3496,7 +3496,7 @@ translate Schinese a1s1_3a7b678b:
 translate Schinese a1s1_7fa283c5:
 
     # d "“Anyway, I'm getting a little off-topic, aren't I?{w} You wanted to know what the afterlife is like? I'll give you an idea.”"
-    d "“算了，我是不是有些跑题了？{w}你想知道来世是什么样子？那我来告诉你好了。”"
+    d "“算了，我是不是有点跑题了？{w}你想知道来世是什么样子？那就告诉你好了。”"
 
 # game/a1s1.rpy:893
 translate Schinese a1s1_57ef9f93:
@@ -3508,7 +3508,7 @@ translate Schinese a1s1_57ef9f93:
 translate Schinese a1s1_221fafc0:
 
     # d "“Yo, {w=0.3}Lupita! {w=0.5}Tell my boyfriend what it's like.”"
-    d "“哟，{w=0.3}Lupita!{w=0.5}过来跟我男友讲讲。”"
+    d "“哟，{w=0.3}Lupita!{w=0.5}过来跟我男友唠唠。”"
 
 # game/a1s1.rpy:896
 translate Schinese a1s1_60e34ca7:
@@ -4268,7 +4268,7 @@ translate Schinese a1s1_6e07b113:
 translate Schinese a1s1_4d7bb8b3:
 
     # d "“I would {i}never{/i} let that happen to you. I know I say stupid shit about it, but I know it can be dangerous, and I'm always looking out for you.”"
-    d "“我{b}绝对不会{/b}让类似的事情发生在你身上。我这听起来很蠢，但我知道其中的危险性，我会永远保护你的。”"
+    d "“我{b}绝对不会{/b}让类似的事情发生在你身上。我知道这话听起来很蠢，但我同样知道其中的危险性，我会永远保护你的。”"
 
 # game/a1s1.rpy:368
 translate Schinese a1s1_792d66ed:
