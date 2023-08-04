@@ -2146,25 +2146,25 @@ translate Schinese a1s1_b33df143:
 translate Schinese a1s1_2bd8769a:
 
     # "And while Devon had been offered his six-figure salary career before he even graduated, he had watched Cameron's dreams of working in the music industry slowly evaporate over the past three years."
-    "而当Devon早在毕业前就已经找到有六位数工资的工作时，他亲眼见证了Cameron在音乐界工作的梦想逐渐崩塌。"
+    "虽然Devon早在毕业前就已经找到年薪六位数的工作，但在过去三年里，他也一步步见证了Cameron音乐梦的崩塌。"
 
 # game/a1s1.rpy:537
 translate Schinese a1s1_fddbcbc6:
 
     # "Now Cameron is working at a call center he hates."
-    "如今Cameron在他所讨厌的客户服务中心工作。"
+    "如今，Cameron做着自己不情愿的客服工作。"
 
 # game/a1s1.rpy:539
 translate Schinese a1s1_e4e15ee3:
 
     # "The bear had thought himself to be so smart in college, and yeah, he did alright--"
-    "这只熊一直以来都以自己在大学时的聪慧而自豪，而且，他也确实一路顺风顺水——"
+    "这头熊一直以自己聪慧的头脑而自豪，而且，他也确实一路顺风顺水-"
 
 # game/a1s1.rpy:540
 translate Schinese a1s1_6ff075e7:
 
     # "--but now he's becoming more aware of what a dumbass he is when it comes to communicating with actual {i}people{/i}, with his literal boyfriend."
-    "——但他如今才逐渐意识到，自己在与真正的{i}人{/i}——和他的男朋友——交流时是多么愚蠢。"
+    "-但他越来越意识到，自己在与真正的{b}人{/b}、譬如他的男朋友交流时是多么笨拙。"
 
 # game/a1s1.rpy:541
 translate Schinese a1s1_e7f3e714:
@@ -2176,7 +2176,7 @@ translate Schinese a1s1_e7f3e714:
 translate Schinese a1s1_c8385e84:
 
     # "The bear clears his throat."
-    "这只熊清了清嗓子。"
+    "熊清了清嗓子。"
 
 # game/a1s1.rpy:544
 translate Schinese a1s1_6864d999:
@@ -2920,13 +2920,13 @@ translate Schinese a1s1_13aaa6d0:
 translate Schinese a1s1_141f413e:
 
     # "He was usually alone, or with friends when doing these investigations, and his want to see something always overpowered the fear."
-    "做这些调查时，他或只身一人，或与朋友相伴，对探求的渴望总是战胜了内心的恐惧。"
+    "做这些调查时，他或只身一人、或与朋友相伴，探求未知的渴望总能战胜内心的恐惧。"
 
 # game/a1s1.rpy:764
 translate Schinese a1s1_4ebc2cde:
 
     # "He'd just assumed Cam would be used to scary shit, especially after he described that flat-faced creature in a raincoat that he'd been seeing since he was a kid."
-    "他本以为Cam能够适应这些恐惧——尤其是在听他描述了儿时所见的那个披着雨衣的平脸生物之后。"
+    "他本以为Cam能够适应，尤其是听他平静地描述了儿时所见的那个披着雨衣的平脸生物之后。"
 
 # game/a1s1.rpy:765
 translate Schinese a1s1_30a7909b:
@@ -2938,13 +2938,13 @@ translate Schinese a1s1_30a7909b:
 translate Schinese a1s1_8d10a539:
 
     # "Why was it only now that he was realizing what the consequences could be?"
-    "为什么直到现在他才意识到后果？"
+    "为什么直到现在他才意识到问题的严重性？"
 
 # game/a1s1.rpy:768
 translate Schinese a1s1_78d4b65e:
 
     # "The feeling he'd had earlier about being a social dumbass comes back, but far stronger."
-    "当初自觉自己的人际交往十分愚蠢的感受再次涌上心头，甚至更加强烈。"
+    "懊悔再次涌上心头，甚至更加强烈，他恨不擅长察言观色的自己。"
 
 # game/a1s1.rpy:769
 translate Schinese a1s1_e8b39d47:
@@ -2962,7 +2962,7 @@ translate Schinese a1s1_12b90053:
 translate Schinese a1s1_4455cc9f:
 
     # "Devon knows that the coyote has some kind of ESP abilities, but that didn't mean he didn't also have other issues that could fuck him up."
-    "Devon知道那只郊狼身怀某种超感知能力，但这并不代表他没有其他可能致命的问题。"
+    "Devon知道那只郊狼身怀某种超感知能力，但这并不代表他没有其他致命性的问题。"
 
 # game/a1s1.rpy:772
 translate Schinese a1s1_52200bf9:
@@ -3178,7 +3178,7 @@ translate Schinese a1s1_b06936cb:
 translate Schinese a1s1_6f1ee10f:
 
     # "It feels stupid and clumsy, but it's all that comes to his mind, so Cameron asks it over and over."
-    "这个问题即愚蠢又笨拙，但Cameron只能想到这些。于是，他一遍又一遍地询问着。"
+    "这个问题既愚蠢又生硬，但Cameron能想到的只有这些。于是，他一遍又一遍地询问着。"
 
 # game/a1s1.rpy:819
 translate Schinese a1s1_acea7ea9:
@@ -3718,7 +3718,7 @@ translate Schinese a1s1_6cdeda5d:
 translate Schinese a1s1_0cdff059:
 
     # c "“I'm fine. {w=0.5}It was just a really intense.{cps=3}..{/cps}{w=0.3} vision.”"
-    c "“我不要紧。{w=0.5}只是那个幻觉{cps=3}.。.{/cps}{w=0.3}过于强烈了。”"
+    c "“我没事，{w=0.5}只是那个幻觉{cps=3}..{/cps}{w=0.3}太强烈了。”"
 
 # game/a1s1.rpy:1008
 translate Schinese a1s1_e5d7e293:
