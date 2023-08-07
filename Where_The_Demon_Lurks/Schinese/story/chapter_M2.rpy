@@ -4270,67 +4270,67 @@ translate Schinese chapter_m2_parent_reply_32a9332d:
 translate Schinese chapter_m2_parent_reply_a3f063f0:
 
     # M serious "Err, no, if you see him, you call me. I'm not letting him try to possess you."
-    M serious "还是算了，再看见他记得给我打电话，我不能让他有占据你身体的机会。"
+    M serious "还是算了，再看见他记得给我打电话，我不能让他得逞，占据你的身体。"
 
 # game/story/chapter_M2.rpy:2075
 translate Schinese chapter_m2_parent_reply_e10d6d91:
 
     # p talk "I doubt he’s strong enough to do that. He barely found the curse earlier."
-    p talk "他有没有这个本事还不一定呢，他之前连诅咒都看不见。"
+    p talk "他有没有这个本事还不一定呢，他连诅咒都看不见。"
 
 # game/story/chapter_M2.rpy:2077
 translate Schinese chapter_m2_parent_reply_b5cdffe6:
 
     # p "Speaking of curses, back there…"
-    p "说到诅咒，那里的那个..."
+    p "说到诅咒，房子里的那个..."
 
 # game/story/chapter_M2.rpy:2079
 translate Schinese chapter_m2_parent_reply_2bad05b5:
 
     # M neutral talk "Mmhmm, that one was pretty mild since most of the original markings had been removed prior."
-    M neutral talk "嗯，那是个相当温和的诅咒，大部分原始符号早就被去除了。"
+    M neutral talk "时过境迁，它已经被岁月打磨的相当温和了。"
 
 # game/story/chapter_M2.rpy:2081
 translate Schinese chapter_m2_parent_reply_a3031b80:
 
     # M @ nervous "Are you… I mean did it bother you? Cause I'm sorry I dragged you into this last minute."
-    M @ nervous "你...没有受惊吧？抱歉，都怪我拖了太长时间。"
+    M @ nervous "你...没有受到惊吓吧？抱歉，都怪我拖了太长时间。"
 
 # game/story/chapter_M2.rpy:2083
 translate Schinese chapter_m2_parent_reply_fd51e519:
 
     # p talk "I’ve seen demons already, so it wasn’t that bad. Kinda surprised the previous owner’s ex-husband knew how to curse though."
-    p talk "我连恶魔都见过，还有什么大不了的。不过前任主人的前夫居然会下咒，这确实让我有点惊讶。"
+    p talk "没啥大不了的，我可是连恶魔都见过。不过前主人的前夫居然会下咒，这倒是让我有点惊讶。"
 
 # game/story/chapter_M2.rpy:2085
 translate Schinese chapter_m2_parent_reply_fcd5b7e1:
 
     # M talk "People are always full of surprises. In my experience, more are involved in the supernatural than you imagine, they just don’t talk about it. Hush-hush and all that."
-    M talk "人类总是充满了意外。以我的经验来看，涉及超自然的人比你想象的要多得多，他们只是不愿意把事情摆在台面上。"
+    M talk "人不可貌相。根据我的经验，涉及超自然的人比你想象的要多得多，他们只是不愿意公开。"
 
 # game/story/chapter_M2.rpy:2087
 translate Schinese chapter_m2_parent_reply_470aeeba:
 
     # p sad "I wonder if the ex-husband ever loved his wife. If you love someone, why would you curse them like that?"
-    p sad "不知前夫是否爱过他的妻子。如果爱过，又为什么要诅咒她？"
+    p sad "不知道前夫是否爱过他的妻子。如果爱过，为什么要诅咒她呢？"
 
 # game/story/chapter_M2.rpy:2089
 translate Schinese chapter_m2_parent_reply_b3127460:
 
     # M serious "I think it was the opposite. He was so driven by love that he couldn’t believe it was over, his feelings for her probably got twisted into that insane curse."
-    M serious "我认为恰恰相反。他被爱情冲昏了头脑，以至于无法接受这一切。是扭曲的爱情观促使他做出了疯狂的举动。"
+    M serious "我认为恰恰相反。他被爱冲昏了头脑，以至于无法接受现实，最终在这份扭曲的感情下做出了疯狂的举动。"
 
 # game/story/chapter_M2.rpy:2091
 translate Schinese chapter_m2_parent_reply_dbc160aa:
 
     # p neutral talk "Scary what people do in the name of love."
-    p neutral talk "打着爱情的名义，太可怕了。"
+    p neutral talk "以爱情的名义，太可怕了。"
 
 # game/story/chapter_M2.rpy:2093
 translate Schinese chapter_m2_parent_reply_a9f0c59c:
 
     # M neutral talk "Well, love’s a bitch, that’s why it isn’t for me."
-    M neutral talk "是的，爱就是受罪，所以我才受不了这套。"
+    M neutral talk "是啊，爱可不是个好东西，所以我总是对它敬而远之。"
 
 # game/story/chapter_M2.rpy:2095
 translate Schinese chapter_m2_parent_reply_3973cc93:
@@ -4342,13 +4342,13 @@ translate Schinese chapter_m2_parent_reply_3973cc93:
 translate Schinese chapter_m2_parent_reply_d7cf4d82:
 
     # M serious "There’s already so much on my plate. I’ve got my career to think about, and you know, bills to pay... my career too."
-    M serious "我已经有太多事情要忙了。我要为自己的今后做打算，还有账单要付...以及我的职业。"
+    M serious "我已经忙得不可开交了。我要为自己的事业做打算、付账单...还有为自己的事业付账单。"
 
 # game/story/chapter_M2.rpy:2099
 translate Schinese chapter_m2_parent_reply_18def74a:
 
     # p neutral talk "Oh wow. Just no time for love, huh? How do you juggle all of that?"
-    p neutral talk "喔哦，所以没时间去爱咯？那你是怎么兼顾这么多东西的？"
+    p neutral talk "这只是单纯的没时间吧？不过就算这样，我看你还是应付自如啊？"
 
 # game/story/chapter_M2.rpy:2101
 translate Schinese chapter_m2_parent_reply_168fab9e:
@@ -4366,7 +4366,7 @@ translate Schinese chapter_m2_parent_reply_5f4050c7:
 translate Schinese chapter_m2_parent_reply_7f82ed65:
 
     # M sad "Honestly, there’s nothing much about me to love."
-    M sad "说实话吧，我没有资本去谈情说爱。"
+    M sad "说实话，谁会爱我这样一个身无长处的人呢？"
 
 # game/story/chapter_M2.rpy:2108
 translate Schinese chapter_m2_parent_reply_5161691a:
@@ -4378,19 +4378,19 @@ translate Schinese chapter_m2_parent_reply_5161691a:
 translate Schinese chapter_m2_parent_reply_a9a6a437:
 
     # p neutral talk "What about romantic movies and tv shows?"
-    p neutral talk "爱情电影和电视剧里不是也有类似的桥段吗？"
+    p neutral talk "那你会看爱情电影和电视剧吗？"
 
 # game/story/chapter_M2.rpy:2112
 translate Schinese chapter_m2_parent_reply_fbc33636:
 
     # M talk "That’s a different story."
-    M talk "那是另一码事了。"
+    M talk "那就是另一码事了。"
 
 # game/story/chapter_M2.rpy:2114
 translate Schinese chapter_m2_parent_reply_96b79638:
 
     # "The two of you converse about the world of romantic comedies all the way to the restaurant. Dinner goes by smoothly and you both part ways after."
-    "你们一路上都在讨论浪漫喜剧片。在吃过一顿满意的晚餐后，你们两个就分道扬镳了。"
+    "你们一路上都在讨论浪漫喜剧片。在吃过一顿满意的晚餐后，你们两个分道扬镳。"
 
 # game/story/chapter_M2.rpy:2116
 translate Schinese chapter_m2_parent_reply_a4981c47:
@@ -4464,7 +4464,7 @@ translate Schinese strings:
 translate Schinese chapter_M2_4aff9e7c:
 
     # M nervous "Plus there were some other hiccups along the way, but I'd rather not talk about that."
-    M nervous "此外还有一些插曲，不过那都是后话了。"
+    M nervous "此外还有些插曲，不过那都是后话了。"
 
 # game/story/chapter_M2.rpy:326
 translate Schinese chapter_M2_b64d0756:
@@ -4477,4 +4477,30 @@ translate Schinese morris_call_a_room_fit_for_king_0f4d2f7e:
 
     # Tw "Oh shucks, that little thing, I made that on his birthday."
     Tw "哎呀，这个小玩意儿是我在他生日那天做的。"
+
+# TODO: Translation updated at 2023-06-27 17:17
+
+# game/story/chapter_M2.rpy:1060
+translate Schinese chapter_m2_king_search_e0a61435:
+
+    # "At the very top of the chatbox, there was a message from King that just said"
+    "最上面是一则King发出的消息，写着："
+
+# game/story/chapter_M2.rpy:1061
+translate Schinese chapter_m2_king_search_0944f8a9:
+
+    # "“Pa, I need to talk to you and Ma tonight, I need to tell you… about the guy I’m dating.”" (screen="say_text_msg", what_size=50)
+    "“爸，关于我对象的事...我今晚想跟你和妈谈谈。”" (screen="say_text_msg", what_size=50)
+
+# game/story/chapter_M2.rpy:1163
+translate Schinese chapter_m2_parent_reply_6d5b6409:
+
+    # "You quickly type out your next message,"
+    "你飞快地打字："
+
+# game/story/chapter_M2.rpy:1164
+translate Schinese chapter_m2_parent_reply_5b5b45c8:
+
+    # p_text "“Well, you aren’t listening to me!”{nw}"
+    p_text "“你们根本没在为我考虑！”"
 
