@@ -580,7 +580,7 @@ translate Schinese chapter_1_20b245c6:
 translate Schinese chapter_1_96183aa8:
 
     # p smile "And you’re a walking rainbow lollipop."
-    p smile "那你就是一根自走彩虹棒棒糖。"
+    p smile "那你就是一根人行自走彩虹棒棒糖。"
 
 # game/story/Chapter_1.rpy:360
 translate Schinese chapter_1_8c6bbb0f:
@@ -7525,4 +7525,18 @@ translate Schinese chapter_1_9aa3e6a2:
 
     # p angry "No! You’re making a mess of the store, and stop using your powers. Someone's going to see you on the recording!"
     p angry "呸！你都快把我们店给炸飞了！还有拜托你手下留情，监控会拍到的！"
+
+# TODO: Translation updated at 2023-06-27 17:17
+
+# game/story/Chapter_1.rpy:384
+translate Schinese chapter_1_3549856c:
+
+    # "He flicks his brightly coloured pompadour and bats his long lush lashes at you."
+    "他弹了弹自己五颜六色的庞巴度头，纤长的睫毛衬得双眼含情脉脉。"
+
+translate Schinese strings:
+
+    # game/story/Chapter_1.rpy:2417
+    old "Lucian and Morris"
+    new "Lucian和Morris"
 
