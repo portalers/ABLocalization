@@ -7120,3 +7120,28 @@ translate Tchinese Murdochroute_1161396b:
     # m "\"One. Nik. Big guy— even bigger than me. Has a heart of gold, too.\""
     m "“認識一位。Nik，是個大塊頭──甚至比我還壯，有著一顆金子般的心。”"
 
+# TODO: Translation updated at 2023-08-20 14:59
+
+# game/Murdochroute.rpy:723
+translate Tchinese Murdochroute_373b2b21:
+
+    # mu "\"His mood flips like a switch. Best to avoid him unless absolutely necessary if you don’t want to make trouble for yourself.\""
+    mu "他翻臉像翻書一樣快。除非有絕對的必要，你最好避開他，如果你不想給自己找麻煩。"
+
+# game/Murdochroute.rpy:1549
+translate Tchinese Murdochroute_7d1fe0f6:
+
+    # dhunk "\"Why, hello. You’re someone new.\""
+    dhunk "哎呀，你好啊，新人。"
+
+# game/Murdochroute.rpy:1553
+translate Tchinese Murdochroute_b8fb06ae:
+
+    # dhunk "\"But of course. He’s my older brother. If you came from the right, you must have already met Holly, our sister.\""
+    dhunk "那當然，他是我哥。你從右邊來的話，想必一定見過我們姐姐，Holly了。"
+
+# game/Murdochroute.rpy:1586
+translate Tchinese Murdochroute_e1f01506:
+
+    # dh "\"You’ve probably given one to all of my students by now...\""
+    dh "你可能已經發給我的全部學生了……"
