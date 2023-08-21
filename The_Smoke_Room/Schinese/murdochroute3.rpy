@@ -4,7 +4,7 @@
 translate Schinese murdochroute3_74be125b:
 
     # "When I get to the store I’m handed a list of tasks."
-    "到了店里，我接过任务清单。"
+    "我刚到店里，就被塞了张任务清单。"
 
 # game/murdochroute3.rpy:5
 translate Schinese murdochroute3_6c2bf15b:
@@ -436,7 +436,7 @@ translate Schinese murdochroute3_4f5db396:
 translate Schinese murdochroute3_1cef62c8:
 
     # m "\"Christ.\""
-    m "“我的老天。”"
+    m "“我的天。”"
 
 # game/murdochroute3.rpy:8178
 translate Schinese murdochroute3_13591ee7:
@@ -1534,7 +1534,7 @@ translate Schinese murdochroute3a_ac84a8d9:
 translate Schinese murdochroute3a_f16f92c2:
 
     # m "\"Ah, sorry, I’ll--\""
-    m "“抱歉，我马上──”"
+    m "“抱歉，我马上-”"
 
 # game/murdochroute3.rpy:479
 translate Schinese murdochroute3a_84bccfc5:
@@ -1552,7 +1552,7 @@ translate Schinese murdochroute3a_32b8179c:
 translate Schinese murdochroute3a_e66de030:
 
     # gr "\"Not one step forward, you rascals.\""
-    gr "“你们这几个无赖，休想再往前一步了。”"
+    gr "“你们几个无赖，休想再往前一步了。”"
 
 # game/murdochroute3.rpy:486
 translate Schinese murdochroute3a_5dfae96b:
@@ -1564,7 +1564,7 @@ translate Schinese murdochroute3a_5dfae96b:
 translate Schinese murdochroute3a_006b6dd8:
 
     # gr "\"I won’t risk for one moment the chance for you to lay eyes on her before the wedding.\""
-    gr "“婚礼开始前，我绝不会让你们有一丝看到她的可能。”"
+    gr "“婚礼开始前，我绝不会让你们有一丝看到她的可能性。”"
 
 # game/murdochroute3.rpy:491
 translate Schinese murdochroute3a_59768de6:
@@ -1576,25 +1576,25 @@ translate Schinese murdochroute3a_59768de6:
 translate Schinese murdochroute3a_0f638adf:
 
     # "I think there’s some playfulness in Mrs. Byrnes voice, but it’s hard to tell."
-    "Byrnes夫人半开玩笑地说道，但兴许她是认真的。"
+    "Byrnes夫人半开玩笑地说道，又或者她并没有在开玩笑。"
 
 # game/murdochroute3.rpy:494
 translate Schinese murdochroute3a_044f2054:
 
     # ji "\"Well we’re not exactly sticklers for tradition.\""
-    ji "“我们倒是不怎么在意传统这方面。”"
+    ji "“拘泥于传统不是我们的风格。”"
 
 # game/murdochroute3.rpy:495
 translate Schinese murdochroute3a_45713c0a:
 
     # "Jim is noticeably less amused."
-    "Jim显然不太高兴。"
+    "Jim显然不怎么高兴。"
 
 # game/murdochroute3.rpy:497
 translate Schinese murdochroute3a_9871a707:
 
     # gr "\"Well while you’re under this roof you will be.\""
-    gr "“入乡就得随俗。”"
+    gr "“入了乡，就得随俗。”"
 
 # game/murdochroute3.rpy:500
 translate Schinese murdochroute3a_ade4a55a:
@@ -8362,13 +8362,13 @@ translate Schinese murdochroute3a_c20395f5:
 translate Schinese murdochroute3a_fdca7cad:
 
     # ji "\"But I know that something queer just happened.\""
-    ji "“但我知道，这事有蹊跷。”"
+    ji "“但我知道，这其中必有蹊跷。”"
 
 # game/murdochroute3.rpy:2548
 translate Schinese murdochroute3a_31ec55aa:
 
     # ji "\"Even if I can’t put words to it yet.\""
-    ji "“虽然我现在还说不上来。”"
+    ji "“虽然我现在还不能确定。”"
 
 # game/murdochroute3.rpy:2551
 translate Schinese murdochroute3a_e79925d6:
@@ -9604,13 +9604,13 @@ translate Schinese murdochroute3a_58e1c61c:
 translate Schinese murdochroute3a_28abb239:
 
     # ji "\"And you’re apparently no better?\""
-    ji "“你也没好到哪里去。”"
+    ji "“你也没好到哪去。”"
 
 # game/murdochroute3.rpy:3041
 translate Schinese murdochroute3a_5c7b0645:
 
     # ho "\"I’m no better?\""
-    ho "“我没好到哪？”"
+    ho "“我没好到哪去？”"
 
 # game/murdochroute3.rpy:3045
 translate Schinese murdochroute3a_9d753859:
@@ -9670,7 +9670,7 @@ translate Schinese murdochroute3a_185620de:
 translate Schinese murdochroute3a_b252c11a:
 
     # ho "\"Do you really think most places in Christendom would sympathize with an adulterer cheating on his new fiance?\""
-    ho "“你不会以为你这个背叛未婚妻的奸夫能在一个信仰基督教的国家站稳脚跟吧？”"
+    ho "“你不会认为你这个背叛未婚妻的奸夫能在一个信仰基督教的国家站稳脚跟吧？”"
 
 # game/murdochroute3.rpy:3075
 translate Schinese murdochroute3a_488a5781:
@@ -10204,13 +10204,13 @@ translate Schinese murdochroute3a_fec97169:
     # "To be continued..."
     "未完待续..."
 
-# TODO: Translation updated at 2023-05-06 09:25
+# TODO: Translation updated at 2023-04-27 23:47
 
 # game/murdochroute3.rpy:1964
 translate Schinese murdochroute3a_ca46f909:
 
     # "He dips to give her a quick kiss on the wrist, straightens his backpack, and trots off toward the direction of the train station."
-    "他弯腰微微吻了她的手腕，拉正背包然后跑向火车站。"
+    "他躬身轻吻她的手腕，然后整理好背包，朝着火车站的方向小跑而去。"
 
 # game/murdochroute3.rpy:2540
 translate Schinese murdochroute3a_2f113d69:
@@ -10222,7 +10222,7 @@ translate Schinese murdochroute3a_2f113d69:
 translate Schinese murdochroute3a_eb8bcee8:
 
     # ho "\"Because this all begins and ends with the simple fact that you can’t keep your prick in your goddamn pants.\""
-    ho "“因为这一切单纯都是你他妈管不住下半身害的。”"
+    ho "“这一切的一切，都是因为你这个白痴管不住自己的裤裆。”"
 
 # TODO: Translation updated at 2023-07-25 16:41
 
@@ -10230,55 +10230,55 @@ translate Schinese murdochroute3a_eb8bcee8:
 translate Schinese murdochroute3_fb493fc1:
 
     # mu "\"Can I get you anything?\""
-    mu "“有什麽需要的吗？”"
+    mu "“有什么需要我帮忙的吗？”"
 
 # game/murdochroute3.rpy:472
 translate Schinese murdochroute3a_d4ccb8b2:
 
     # ji "\"Though I can’t for the life of me tell why the front door is cracked open in this manner.\""
-    ji "“只是我想不通，为什麽要只在正门开了一小条道口。”"
+    ji "“只是我想不通，这么栋宅子，为何正门只开一小条缝。”"
 
 # game/murdochroute3.rpy:678
 translate Schinese murdochroute3a_34e9ef3c:
 
     # "The corner of Murdoch’s smile tightens a bit and he nods,{nw}"
-    "Murdoch脸上笑容略为变僵，点了点头，{nw}"
+    "Murdoch脸上的笑容一僵，他点点头，{nw}"
 
 # game/murdochroute3.rpy:1035
 translate Schinese murdochroute3a_c5bb1b0c:
 
     # ra "\"Has a single one of you been inside of a barn in your life?\""
-    ra "“你们有谁进过农舍吗，哪怕一次也好？”"
+    ra "“你们有谁进过农舍么，哪怕一次也好？”"
 
 # game/murdochroute3.rpy:1280
 translate Schinese murdochroute3a_782cf46e:
 
     # mu "\"You and him and who else?\""
-    mu "“除了你们还有谁？”"
+    mu "“除了你们，还有谁？”"
 
 # game/murdochroute3.rpy:1750
 translate Schinese murdochroute3a_c5c4680c:
 
     # mu "\"Did you see Ralph’s face when he caught that guitar?\""
-    mu "“你看到我把吉他丢给Ralph的时候，他脸上那个的表情了吗？”"
+    mu "“你看到我把吉他丢给Ralph的时候，他脸上那个表情了吗？”"
 
 # game/murdochroute3.rpy:1846
 translate Schinese murdochroute3a_7b2dfc55:
 
     # "We ain’t men who like to let ourselves be seen."
-    "我们并不是喜欢分享心事的人。"
+    "毕竟我和他都不是坦率的人。"
 
 # game/murdochroute3.rpy:1850
 translate Schinese murdochroute3a_70ce6842:
 
     # "When we get to the graveyard I take a peek around me."
-    "到了墓园后，我环顾四周。"
+    "抵达公墓后，我环顾四周。"
 
 # game/murdochroute3.rpy:1936
 translate Schinese murdochroute3a_f1465b34:
 
     # cl "\"According to the locals, those people haven’t lived in town since the 1870’s.\""
-    cl "“根据这里人所说，他们一家早在1870年代就不住这了。”"
+    cl "“据当地人所述，他们一家早在1870年就搬离回音镇了。”"
 
 # game/murdochroute3.rpy:2140
 translate Schinese murdochroute3a_c8555139:
@@ -10290,73 +10290,73 @@ translate Schinese murdochroute3a_c8555139:
 translate Schinese murdochroute3b_cb4b781a:
 
     # "I look in the direction from where I think the stone was thrown."
-    "我朝石头被扔出的方向看去。"
+    "我朝石头丢过来的方向望去。"
 
 # game/murdochroute3.rpy:3334
 translate Schinese murdochroute3b_a9db9a12:
 
     # "There’s the house behind us, and the tall fence."
-    "只见我们身后的房屋跟高围栏。"
+    "只看见身后高高的围栏和房屋。"
 
 # game/murdochroute3.rpy:3335
 translate Schinese murdochroute3b_b325bccd:
 
     # "I turn a corner to see if anybody is crouching down."
-    "我走过拐角，看看有没有人蹲在那。"
+    "我走到墙角，看有没有人蹲在那。"
 
 # game/murdochroute3.rpy:3337
 translate Schinese murdochroute3b_4fd55568:
 
     # "But there’s nobody."
-    "但没有人在。"
+    "然而并没有。"
 
 # game/murdochroute3.rpy:3338
 translate Schinese murdochroute3b_d7e498f7:
 
     # "I do, however, notice that the bathroom window is cracked open."
-    "然而，我却发现厕所窗户开着。"
+    "不过就在此时，我发现浴室的窗户开着。"
 
 # game/murdochroute3.rpy:3340
 translate Schinese murdochroute3b_1e4cfb44:
 
     # "I think I can see the shine on somebody’s glasses before it backs up into the dark."
-    "依稀看见有人眼镜的反光没入黑暗中。"
+    "依稀可见一双眼睛没入了黑暗之中。"
 
 # game/murdochroute3.rpy:3341
 translate Schinese murdochroute3b_8050c4b7:
 
     # "The more I stare, it looks like {i}two{/i} pairs of glasses."
-    "我定睛一看，更像是{i}两{/i}副眼镜。"
+    "但定睛一看，那更像是{b}两{/b}副眼镜。"
 
 # game/murdochroute3.rpy:3344
 translate Schinese murdochroute3b_9a6d0f34:
 
     # "From another direction, the garden gate creaks."
-    "另一个方向的花园大门打开了。"
+    "花园里的另一扇门开了。"
 
 # game/murdochroute3.rpy:3351
 translate Schinese murdochroute3b_6acc7d06:
 
     # "Ralph gives us all something of a furtive look."
-    "Ralph以近似鬼鬼祟祟的眼神看着我们全员。"
+    "Ralph用鬼鬼祟祟的眼神打量着我们。"
 
 # game/murdochroute3.rpy:3352
 translate Schinese murdochroute3b_7747d50d:
 
     # ra "\"Fighting again, are we?\""
-    ra "\"又在吵架啦？\""
+    ra "“又吵架了？”"
 
 # game/murdochroute3.rpy:3354
 translate Schinese murdochroute3b_3e67a21b:
 
     # ra "\"At least have the decency to wait for me to get a few jabs in.\""
-    ra "\"赏个脸让我也骂上一两句吧。\""
+    ra "“赏个脸，让我也骂几句多好。”"
 
 # game/murdochroute3.rpy:3356
 translate Schinese murdochroute3b_37a8c2e0:
 
     # "He grins, as if waiting for somebody to give me a saucy reply."
-    "他咧嘴一笑，貌似在等人回嘴。"
+    "他咧嘴一笑，像是在等人回嘴。"
 
 # game/murdochroute3.rpy:3357
 translate Schinese murdochroute3b_1b73aaed:
@@ -10380,13 +10380,13 @@ translate Schinese murdochroute3b_7b1146ca:
 translate Schinese murdochroute3b_6fbe9ff9:
 
     # extend "as his smile wanes, his brow furrows and he spins, closing the latch on the door."
-    extend "他笑容逐渐退去、眉头皱起，转身锁上门栓。"
+    extend "他的笑容逐渐消失，眉头皱起，转身插上门栓。"
 
 # game/murdochroute3.rpy:3366
 translate Schinese murdochroute3b_152fed49:
 
     # "Holly starts stepping toward him as he looks behind the shoulder."
-    "Holly朝他走去，他回头一望。"
+    "回过头来的时候，Holly已经走到了他的面前。"
 
 # game/murdochroute3.rpy:3369
 translate Schinese murdochroute3b_935c1a0d:
@@ -10398,43 +10398,43 @@ translate Schinese murdochroute3b_935c1a0d:
 translate Schinese murdochroute3b_d9477452:
 
     # ra "\"Yeah? Me.\""
-    ra "\"怎样？就是我啊。\""
+    ra "\"是我，怎样？\""
 
 # game/murdochroute3.rpy:3372
 translate Schinese murdochroute3b_adbe8433:
 
     # "He lets his guard down again, but he shouldn’t have."
-    "他松懈了，是他的失策。"
+    "他不该这样玩世不恭的。"
 
 # game/murdochroute3.rpy:3375
 translate Schinese murdochroute3b_e450e217:
 
     # "She swats the side of his head with a bag."
-    "她把包往他侧脸上一甩。"
+    "她把提包朝他脸上一甩。"
 
 # game/murdochroute3.rpy:3378
 translate Schinese murdochroute3b_3b0f9554:
 
     # ho "\"You threw the rock at me, didn’t you?\""
-    ho "\"石头就是你扔的，对吧？\""
+    ho "\"石头是你扔的，没错吧？\""
 
 # game/murdochroute3.rpy:3380
 translate Schinese murdochroute3b_c8399232:
 
     # "He holds out his arms, confused."
-    "他架着双手，一脸困惑。"
+    "他一脸困惑地摊开手。"
 
 # game/murdochroute3.rpy:3381
 translate Schinese murdochroute3b_fbac41dc:
 
     # ra "\"Admittedly the idea is appealing right now, but I don’t think my pay grade is that high.\""
-    ra "\"现在这主意确实不错，但我可没那麽多钱啊。\""
+    ra "\"我是很乐意，但我还不想失业。\""
 
 # game/murdochroute3.rpy:3384
 translate Schinese murdochroute3b_d761b1d2:
 
     # "She slaps him."
-    "她搧了他一巴掌。"
+    "她扇了他一巴掌。"
 
 # game/murdochroute3.rpy:3386
 translate Schinese murdochroute3b_887eb974:
@@ -10446,37 +10446,37 @@ translate Schinese murdochroute3b_887eb974:
 translate Schinese murdochroute3b_71965327:
 
     # "Ralph’s head moves with the force of the smack, then he rolls his head back into position just like one of those roly-poly toys."
-    "Ralph的头都被打得往旁边歪了，然后像个玩偶般地把头回归原本的位置。"
+    "Ralph的头被打得歪向一旁，随后又如玩偶般回归了原本的位置。"
 
 # game/murdochroute3.rpy:3389
 translate Schinese murdochroute3b_a06aeef7:
 
     # "I guess I shouldn’t be surprised this probably isn’t the first time he’s been hit."
-    "这应该不是他第一次被揍，我也不必大惊小怪了。"
+    "我并不感到意外，这应该不是他第一次被揍了。"
 
 # game/murdochroute3.rpy:3390
 translate Schinese murdochroute3b_dcf16845:
 
     # "He rubs his cheek, like he’s feeling the heat spread out of it."
-    "他揉着脸颊，疼痛应该蔓延开了。"
+    "他揉着脸颊，好像很痛的样子。"
 
 # game/murdochroute3.rpy:3392
 translate Schinese murdochroute3b_49fc271e:
 
     # ra "\"You look like you needed to get that out of your system.\""
-    ra "\"妳确实是该发洩一下。\""
+    ra "\"你确实需要发泄一下。\""
 
 # game/murdochroute3.rpy:3394
 translate Schinese murdochroute3b_a65b80ca:
 
     # ho "\"Oh, you bet I did.\""
-    ho "\"噢，那还用说。\""
+    ho "\"噢，那是当然了。\""
 
 # game/murdochroute3.rpy:3397
 translate Schinese murdochroute3b_68b27fdb:
 
     # ho "\"You have {i}no{/i} right to accuse me of anything.\""
-    ho "\"你可{i}没有{/i}资格对我品头论足。\""
+    ho "\"不过还{b}轮不到{/b}你来指责我。\""
 
 # game/murdochroute3.rpy:3399
 translate Schinese murdochroute3b_6b729174:
@@ -10488,13 +10488,13 @@ translate Schinese murdochroute3b_6b729174:
 translate Schinese murdochroute3b_69731a9c:
 
     # ra "\"Oh don’t I?\""
-    ra "\"哦，我没有吗？\""
+    ra "\"我没有资格吗？\""
 
 # game/murdochroute3.rpy:3403
 translate Schinese murdochroute3b_700bf97c:
 
     # "She sucked on her teeth."
-    "她吸了吸牙。"
+    "她抿着嘴唇。"
 
 # game/murdochroute3.rpy:3404
 translate Schinese murdochroute3b_9bedb704:
@@ -10506,79 +10506,79 @@ translate Schinese murdochroute3b_9bedb704:
 translate Schinese murdochroute3b_017156cd:
 
     # "I’m pretty sure he didn’t throw the rock, but he looks like he’s enjoying Holly’s reactions against him."
-    "石头应该不是他扔的，可他好像却对Holly对他的反应乐在其中。"
+    "石头肯定不是他扔的，可他却对Holly的反应乐在其中。"
 
 # game/murdochroute3.rpy:3407
 translate Schinese murdochroute3b_15c80650:
 
     # ho "\"Oh don’t start with me now.\""
-    ho "\"噢你省省吧。\""
+    ho "\"少跟我来这套。\""
 
 # game/murdochroute3.rpy:3410
 translate Schinese murdochroute3b_57f289f9:
 
     # ra "\"Don’t I, Holly Byrnes?\""
-    ra "\"我没有吗，Holly Byrnes？\""
+    ra "\"我没有资格吗，Holly Byrnes？\""
 
 # game/murdochroute3.rpy:3412
 translate Schinese murdochroute3b_6a859d7c:
 
     # "His volume raises the highest I’ve ever heard it, and his pitch the deepest."
-    "他音量奇大，声调却无比低沉。"
+    "他的嗓音奇大，声调却无比低沉。"
 
 # game/murdochroute3.rpy:3415
 translate Schinese murdochroute3b_c77a28ad:
 
     # "She looks like she’s about to {nw}"
-    "她好像{nw}"
+    "她似乎{nw}"
 
 # game/murdochroute3.rpy:3417
 translate Schinese murdochroute3b_0c6250e0:
 
     # extend "say something, but then closes her mouth and glares."
-    extend "有话想说，却又闭上了嘴，瞪视着他。"
+    extend "有话想说，但马上又闭上嘴，怒视着他。"
 
 # game/murdochroute3.rpy:3419
 translate Schinese murdochroute3b_ad78cd0d:
 
     # m "\"He didn’t throw the rock, you know.\""
-    m "\"石头不是他扔的，妳知道吧。\""
+    m "\"其实，石头不是他扔的。\""
 
 # game/murdochroute3.rpy:3421
 translate Schinese murdochroute3b_fd1aa0fd:
 
     # "Murdoch and Holly say {i}what?{/i} at the same time."
-    "Murdoch跟Holly异口同声地喊出{i}「什麽？」{/i}"
+    "Murdoch与Holly异口同声地喊出{b}“什么？”{/b}"
 
 # game/murdochroute3.rpy:3432
 translate Schinese murdochroute3b_61213d4c:
 
     # "The bathroom window opens and a small voice carries from the window."
-    "厕所的窗户被打开，从中传出一小道声音。"
+    "浴室的窗户打开了，一个人在里面小声说道："
 
 # game/murdochroute3.rpy:3433
 translate Schinese murdochroute3b_264acbfd:
 
     # dh "\"You’ll wake mother and father from their sleep if you all don’t stop yelling.\""
-    dh "\"你们再大喊下去，爸妈就要被吵醒了。\""
+    dh "\"你们再不小点声，爸妈都要被吵醒了。\""
 
 # game/murdochroute3.rpy:3435
 translate Schinese murdochroute3b_772e3e17:
 
     # "It was the younger sister."
-    "是么妹。"
+    "是幺妹。"
 
 # game/murdochroute3.rpy:3436
 translate Schinese murdochroute3b_19e4211e:
 
     # m "\"Truth be told I’m surprised they ain't awake considerin’ all the yellin’.\""
-    m "\"老实说，我更意外都喊这麽大声了他们还没醒。\""
+    m "\"说实话，他们能在这么大的动静里睡着就够让我惊讶的了。\""
 
 # game/murdochroute3.rpy:3438
 translate Schinese murdochroute3b_8418e927:
 
     # mu "\"Living this close to the train makes them accustomed to ear plugs.\""
-    mu "\"我们住得离火车很近，他们习惯着戴耳塞。\""
+    mu "\"这里离铁轨很近，他们习惯着戴耳塞睡觉。\""
 
 # game/murdochroute3.rpy:3443
 translate Schinese murdochroute3b_1ae164e8:
@@ -10590,151 +10590,151 @@ translate Schinese murdochroute3b_1ae164e8:
 translate Schinese murdochroute3b_41ec783b:
 
     # dh "\"You woke grandma you know.\""
-    dh "\"妳都把祖母吵醒了。\""
+    dh "\"知道吗，你已经把祖母吵醒了。\""
 
 # game/murdochroute3.rpy:3448
 translate Schinese murdochroute3b_bc5e2707:
 
     # ho "\"I don’t care.\""
-    ho "\"这我才不管。\""
+    ho "\"我不在乎。\""
 
 # game/murdochroute3.rpy:3451
 translate Schinese murdochroute3b_de7b030c:
 
     # ho "\"Did you throw this rock from the window?!\""
-    ho "\"是妳从窗户把这石头丢出来的吗！？\""
+    ho "\"躲在窗户后面丢石头的人是你吗？！\""
 
 # game/murdochroute3.rpy:3453
 translate Schinese murdochroute3b_457826da:
 
     # "She hums in a sprightly manner."
-    "她轻快地嗯了一声。"
+    "她轻快地哼道："
 
 # game/murdochroute3.rpy:3454
 translate Schinese murdochroute3b_aece3da3:
 
     # dh "\"From up here, that rock doesn’t look like an asteroid.\""
-    dh "\"从这上面看，倒也不像颗小陨星呢。\""
+    dh "\"从上面看，那石头一点也不像小行星嘛。\""
 
 # game/murdochroute3.rpy:3455
 translate Schinese murdochroute3b_8ed02d6f:
 
     # dh "\"The only rocks I’ve any interest in are asteroids.\""
-    dh "\"陨星是我唯一感兴趣的岩石。\""
+    dh "\"我只对一种岩石：行星感兴趣。\""
 
 # game/murdochroute3.rpy:3456
 translate Schinese murdochroute3b_2a89feca:
 
     # dh "\"But sometimes you discover something you don’t want to find when you turn them over.\""
-    dh "\"不过翻过来看的话，偶尔也会发现不想知道的事哦。\""
+    dh "\"不过把它们翻开来看的话，偶尔也会有一些意料之外的发现呢。\""
 
 # game/murdochroute3.rpy:3457
 translate Schinese murdochroute3b_921fc034:
 
     # "She hums again, this time in a more questioning tune."
-    "她又哼了一声，这次音调却带有质疑。"
+    "她又哼了一声，这次是怀疑的腔调。"
 
 # game/murdochroute3.rpy:3459
 translate Schinese murdochroute3b_ba300608:
 
     # dh "\"Isn’t your fiance the rock expert?\""
-    dh "\"妳未婚夫不就是岩石的专家吗？\""
+    dh "\"你未婚夫不就是岩石的专家吗？\""
 
 # game/murdochroute3.rpy:3460
 translate Schinese murdochroute3b_16ac03ba:
 
     # "Jim doesn’t say anything."
-    "Jim一语不发。"
+    "Jim沉默不语。"
 
 # game/murdochroute3.rpy:3461
 translate Schinese murdochroute3b_f185913c:
 
     # dh "\"Perhaps you should consult him on such matters.\""
-    dh "\"或许能找他商量商量呢。\""
+    dh "\"既然如此，你可以向他请教啊。\""
 
 # game/murdochroute3.rpy:3462
 translate Schinese murdochroute3b_e0d93e71:
 
     # dh "\"Since you’re so close.\""
-    dh "\"毕竟你们这麽亲近。\""
+    dh "\"毕竟你们情投意合嘛。\""
 
 # game/murdochroute3.rpy:3465
 translate Schinese murdochroute3b_4a6fdc8b:
 
     # "With that, she closes the window pane of the bathroom."
-    "她说罢，便把厕所窗户关上。"
+    "说罢，她便把浴室的窗户关上。"
 
 # game/murdochroute3.rpy:3466
 translate Schinese murdochroute3b_b16964c4:
 
     # "We all stand out in the garden for a while, as the crickets chirp."
-    "我们全员就这麽站在花园里，被蟋蟀鸣叫声包围。"
+    "我们全体就这么站在花园里，被蟋蟀的鸣叫声包围。"
 
 # game/murdochroute3.rpy:3468
 translate Schinese murdochroute3b_68575e3a:
 
     # ji "\"I’m not looking at the rock.\""
-    ji "\"我可不会去看那块石子。\""
+    ji "\"我才不要看那石子。\""
 
 # game/murdochroute3.rpy:3472
 translate Schinese murdochroute3b_8af7aa9e:
 
     # ho "\"I know you’re not looking at the fucking rock.\""
-    ho "\"我他妈也知道你不会去看。\""
+    ho "\"我他妈当然知道你不会。\""
 
 # game/murdochroute3.rpy:3474
 translate Schinese murdochroute3b_9a3f3a85:
 
     # "The crickets just keep chirping."
-    "蟋蟀不断鸣叫着。"
+    "蟋蟀声不绝于耳。"
 
 # game/murdochroute3.rpy:3476
 translate Schinese murdochroute3b_55fd8251:
 
     # "Jim keeps rubbing his face,{nw}"
-    "Jim一股劲地揉着脸，{nw}"
+    "Jim一个劲地揉搓着脸颊，{nw}"
 
 # game/murdochroute3.rpy:3479
 translate Schinese murdochroute3b_4458198a:
 
     # extend " then smacks his fist into his open paw."
-    extend "然后一拳打在自己爪心上。"
+    extend "然后一拳打在自己的掌心上。"
 
 # game/murdochroute3.rpy:3482
 translate Schinese murdochroute3b_2d8dc210:
 
     # ji "\"You’re bluffing, aren’t you?\""
-    ji "\"妳是在虚张声势吧？\""
+    ji "\"你只是在虚张声势吧？\""
 
 # game/murdochroute3.rpy:3485
 translate Schinese murdochroute3b_227cf5b6:
 
     # ho "\"Have you known me to be a gambling woman, Jim?\""
-    ho "\"在你记忆中我难道是个赌徒吗，Jim？\""
+    ho "\"难道你记忆中的我是个赌徒吗，Jim？\""
 
 # game/murdochroute3.rpy:3488
 translate Schinese murdochroute3b_7aa6f547:
 
     # "He kicks dirt out of frustration."
-    "他懊恼地踢着泥土。"
+    "他懊恼地踢着土。"
 
 # game/murdochroute3.rpy:3491
 translate Schinese murdochroute3b_d5681c63:
 
     # mu "\"Who’d you give the envelopes to, Holly?\""
-    mu "\"妳把信封都给了谁，Holly？\""
+    mu "\"你都把信给了谁，Holly？\""
 
 # game/murdochroute3.rpy:3493
 translate Schinese murdochroute3b_235dd927:
 
     # "Her lips tighten and she leans her head back to sift a dangling piece of fur out of the way of her eyes."
-    "她嘴唇一紧，仰头把挂在眼前的一根毛摘掉。"
+    "她嘴唇一紧，仰头把挂在眼前的毛摘掉。"
 
 # game/murdochroute3.rpy:3497
 translate Schinese murdochroute3b_41d46e53:
 
     # ho "\"Our sister, our grandmother, and one of my oldest confidants.\""
-    ho "\"妹妹、祖母和我最资深的一位线人。\""
+    ho "\"小妹、祖母，和一个最资深的线人。\""
 
 # game/murdochroute3.rpy:3500
 translate Schinese murdochroute3b_c0b5d1ed:
@@ -10746,121 +10746,121 @@ translate Schinese murdochroute3b_c0b5d1ed:
 translate Schinese murdochroute3b_b7c0aed1:
 
     # "Jim’s eyes go wild."
-    "Jim双眼瞪大。"
+    "Jim双眼睁大。"
 
 # game/murdochroute3.rpy:3504
 translate Schinese murdochroute3b_f910b4d9:
 
     # ji "\"But what if they snoop, Holly?\""
-    ji "\"要是他们爆料了怎麽办，Holly？\""
+    ji "\"万一他们说出去怎么办，Holly？\""
 
 # game/murdochroute3.rpy:3507
 translate Schinese murdochroute3b_b4b7b1ae:
 
     # ho "\"I wouldn’t give it to them if thought they were going to snoop.\""
-    ho "\"我可不会交给自己觉得是会爆料的人。\""
+    ho "\"我怎么可能交给那种靠不住的家伙。\""
 
 # game/murdochroute3.rpy:3509
 translate Schinese murdochroute3b_2bba0f55:
 
     # "Well, she’s right in some ways about her younger sister."
-    "嗯，她对她妹的看法倒是不错。"
+    "嗯，至少她没看错她妹。"
 
 # game/murdochroute3.rpy:3510
 translate Schinese murdochroute3b_25ac9155:
 
     # "But apparently she didn’t have the foresight to expect that she’d burn the damn thing."
-    "但看来她也没料到她会直接给烧了。"
+    "但估计也没料到她会直接烧了吧。"
 
 # game/murdochroute3.rpy:3511
 translate Schinese murdochroute3b_add01bdf:
 
     # "They don’t have as good of a relationship as I earlier thought."
-    "她们没我以为的亲近嘛。"
+    "我之前还以为这一家子的关系已经够差了。"
 
 # game/murdochroute3.rpy:3516
 translate Schinese murdochroute3b_8c589289:
 
     # ji "\"But what if they {i}snoop{/i}!?\""
-    ji "\"但要是他们{i}爆料{/i}了怎麽办！？\""
+    ji "\"{b}万一{/b}呢？！\""
 
 # game/murdochroute3.rpy:3518
 translate Schinese murdochroute3b_33fd0b8b:
 
     # "The desperation in his repeated question is turning into rage."
-    "他的质问从绝望转为愤怒。"
+    "他反复的质问从绝望转化为愤怒。"
 
 # game/murdochroute3.rpy:3519
 translate Schinese murdochroute3b_cf470047:
 
     # "Simpering is turning into snarls."
-    "谄笑转为低吼。"
+    "谄笑转化为吼叫。"
 
 # game/murdochroute3.rpy:3520
 translate Schinese murdochroute3b_659a7726:
 
     # "I don’t think I’d be able to hold myself back as well as these two if somebody made a threat like this to my face."
-    "要是有人当面这样威胁我，我不觉得自己能像他们两个一样沉得住气。"
+    "如果有人敢当面这样威胁我，我不觉得自己能像他们两个那样沉得住气。"
 
 # game/murdochroute3.rpy:3521
 translate Schinese murdochroute3b_dafb4e4f:
 
     # "I suppose that’s the difference in the cloth we’re cut from."
-    "大概是因为我们的生活背景不同吧。"
+    "大概是因为我们本就不是一路人吧。"
 
 # game/murdochroute3.rpy:3522
 translate Schinese murdochroute3b_7aafcffa:
 
     # "But it don’t concern me."
-    "但这都无所谓。"
+    "但这些都无所谓。"
 
 # game/murdochroute3.rpy:3523
 translate Schinese murdochroute3b_27e16d4b:
 
     # "At this point I don’t really care about how these two settle their grievances."
-    "此时此刻我才不管他们是怎麽控制哀愁的。"
+    "他们俩爱怎么斗就怎么斗。"
 
 # game/murdochroute3.rpy:3524
 translate Schinese murdochroute3b_702f94a4:
 
     # "If Murdoch’s exposed, being with him more is going to be a hell of a lot harder."
-    "如果Murdoch被爆出去了，就会很难再待在他身边。"
+    "但假如Murdoch的事被传了出去，我就很难继续留在他身边了。"
 
 # game/murdochroute3.rpy:3525
 translate Schinese murdochroute3b_e962a19c:
 
     # "And that does concern me."
-    "这就有所谓了。"
+    "这才是我在乎的。"
 
 # game/murdochroute3.rpy:3526
 translate Schinese murdochroute3b_e0c36bde:
 
     # "If I let Murdoch go through this wedding, that sends the message that Holly has the permission to do something like this again."
-    "要是让Murdoch参加这场婚礼，就是在默许Holly往后的这种行为。"
+    "如果Murdoch参加了这场婚礼，就等于是默许了Holly的行为。"
 
 # game/murdochroute3.rpy:3527
 translate Schinese murdochroute3b_3cb9144f:
 
     # "And I can tell it’s not going to stop her from doing something worse in the future."
-    "也就代表她可能会做出更过分的事。"
+    "这也代表她今后会更加肆无忌惮。"
 
 # game/murdochroute3.rpy:3528
 translate Schinese murdochroute3b_4bcd4054:
 
     # "She’s become accustomed to a particular kind of lifestyle with her role as the eldest sibling in a wealthy family."
-    "她已经习惯扮演富有家庭中长子角色的生活方式了。"
+    "身为一个富裕家庭的长女，她已然习惯了这种生活方式。"
 
 # game/murdochroute3.rpy:3529
 translate Schinese murdochroute3b_9a4c8224:
 
     # "She’s gonna take care of her brother and sister in the ways that she’s learned."
-    "会以毕生所学的方式照顾弟弟跟妹妹、"
+    "她会以毕生的见闻来照顾自己的弟弟妹妹。"
 
 # game/murdochroute3.rpy:3530
 translate Schinese murdochroute3b_2ddf6c89:
 
     # "Using the tactics she’s known will work."
-    "对他们施以有效的手段。"
+    "不计后果地。"
 
 # game/murdochroute3.rpy:3531
 translate Schinese murdochroute3b_c0ed6cae:
@@ -10872,37 +10872,37 @@ translate Schinese murdochroute3b_c0ed6cae:
 translate Schinese murdochroute3b_ea45b630:
 
     # "Murdoch isn’t innocent either."
-    "Murdoch亦非无辜。"
+    "Murdoch也有责任。"
 
 # game/murdochroute3.rpy:3533
 translate Schinese murdochroute3b_4ec1fbd8:
 
     # "He’s become comfortable with this particular type of lifestyle too."
-    "他也适应了这样的生活方式。"
+    "他同样习惯了这种生活方式。"
 
 # game/murdochroute3.rpy:3534
 translate Schinese murdochroute3b_8c2ae80f:
 
     # "I know that he knows that."
-    "我知道他自己也很清楚。"
+    "想必他自己也很清楚吧。"
 
 # game/murdochroute3.rpy:3535
 translate Schinese murdochroute3b_8846607c:
 
     # "But looking at this any other way, I don’t know what else he can do."
-    "但这事不管怎麽看，我都看不出他还有什麽选择。"
+    "虽然不管怎么看，我都看不出他还有其他选择。"
 
 # game/murdochroute3.rpy:3536
 translate Schinese murdochroute3b_1eb10a25:
 
     # "He’s either got to get all of those photos, or go through with this all, just making sure to keep his mouth shut."
-    "他要麽把所有照片都拿到手，要麽闭上嘴乖乖照办。"
+    "要么把照片全追回来，要么闭上嘴乖乖听话。"
 
 # game/murdochroute3.rpy:3537
 translate Schinese murdochroute3b_fb1871fa:
 
     # "That would just make it Jim’s problem, not ours."
-    "所有的问题都在Jim身上，而不是我们。"
+    "至于之后，就是Jim自己的问题了。"
 
 # game/murdochroute3.rpy:3538
 translate Schinese murdochroute3b_ff5f4bbc:
@@ -10920,121 +10920,121 @@ translate Schinese murdochroute3b_995f58f3:
 translate Schinese murdochroute3b_0461d76d:
 
     # m "\"Why don’t y’all just go through the motions without officiating the marriage?\""
-    m "\"只要照常举办婚礼，但不登记就好了吧？\""
+    m "\"只要走走过场，不登记就好了吧？\""
 
 # game/murdochroute3.rpy:3542
 translate Schinese murdochroute3b_913d0b7e:
 
     # "Holly’s muzzle snaps to my direction, like she’s surprised I’m still here."
-    "Holly吻部瞬间转了过来，好像很意外我人还在这。"
+    "Holly瞬间转过头来，似乎没料到我还在这里。"
 
 # game/murdochroute3.rpy:3543
 translate Schinese murdochroute3b_91efa02c:
 
     # "But even more surprising to me is that she responds."
-    "但我更意外，她竟开口回答了。"
+    "更令人意想不到的是，她居然回答了。"
 
 # game/murdochroute3.rpy:3545
 translate Schinese murdochroute3b_11718a1d:
 
     # ho "\"Because I want a husband, not a performance.\""
-    ho "\"我想要个真正的丈夫，不是装装样子就好。\""
+    ho "\"我想要真正的丈夫，不只是名义上的。\""
 
 # game/murdochroute3.rpy:3547
 translate Schinese murdochroute3b_e6b27cd4:
 
     # "Her voice is a low hiss."
-    "她语带嘶嘶声。"
+    "她语带怒气，低声说道。"
 
 # game/murdochroute3.rpy:3549
 translate Schinese murdochroute3b_836042cc:
 
     # ji "\"But you’re so fond of those, I’m finding out.\""
-    ji "\"我倒看出妳就喜欢表面工夫了。\""
+    ji "\"你不是就喜欢搞这些表面工夫么。\""
 
 # game/murdochroute3.rpy:3552
 translate Schinese murdochroute3b_d4a0beec:
 
     # ho "\"My disappointment is very real, make no mistake.\""
-    ho "\"我是真的很失望，你别犯傻。\""
+    ho "\"至少我对你的失望是货真价实的。\""
 
 # game/murdochroute3.rpy:3555
 translate Schinese murdochroute3b_608110ad:
 
     # "He’s laughing now, almost yelping."
-    "他大笑起来，发出一种近乎悲鸣的声音。"
+    "他大笑起来，近乎悲鸣。"
 
 # game/murdochroute3.rpy:3557
 translate Schinese murdochroute3b_5cfd86b4:
 
     # ji "\"That’s exactly what I’ll do then!\""
-    ji "\"我就该这麽办！\""
+    ji "\"我还可以做得更绝！\""
 
 # game/murdochroute3.rpy:3560
 translate Schinese murdochroute3b_5e5e74ff:
 
     # ji "\"I’ll make no mistakes and then leave town.\""
-    ji "\"别犯傻，直接离开这镇子得了。\""
+    ji "\"直接离开这镇子得了。\""
 
 # game/murdochroute3.rpy:3563
 translate Schinese murdochroute3b_5e6885f0:
 
     # ho "\"And I’ll make sure they hunt you down.\""
-    ho "\"那就别怪我追杀你了。\""
+    ho "\"你逃得了一时，逃不了一世。\""
 
 # game/murdochroute3.rpy:3565
 translate Schinese murdochroute3b_e7981c17:
 
     # m "\"You have a good job, don’t you, Jim?\""
-    m "\"你有份好工作吧，Jim？\""
+    m "\"你有份好工作对吧，Jim？\""
 
 # game/murdochroute3.rpy:3566
 translate Schinese murdochroute3b_9fa7aa11:
 
     # "He eyes me suspiciously."
-    "他狐疑地望着我。"
+    "他狐疑地望向我。"
 
 # game/murdochroute3.rpy:3568
 translate Schinese murdochroute3b_dac187d3:
 
     # ji "\"The money’s good, yes.\""
-    ji "\"薪水不错，对。\""
+    ji "\"对，薪水不错。\""
 
 # game/murdochroute3.rpy:3570
 translate Schinese murdochroute3b_37fa6220:
 
     # m "\"Why not lose some of it instead of all of it then?\""
-    m "\"少拿一点总比全都拿不到好吧？\""
+    m "\"少拿一点，总比什么都得不到强。\""
 
 # game/murdochroute3.rpy:3572
 translate Schinese murdochroute3b_499224af:
 
     # m "\"Ain’t nobody gonna get hired if they’re plastered for sodomy on the front page of the Sunday paper.\""
-    m "\"在礼拜日报纸头条上被宣告犯了性悖轨法的话，只怕一辈子找不到工作了。\""
+    m "\"要是鸡奸的丑闻上了周日报纸的头条，你只怕这辈子都找不到工作了。\""
 
 # game/murdochroute3.rpy:3574
 translate Schinese murdochroute3b_cab77ffe:
 
     # "He points."
-    "他伸手一指。"
+    "他伸手。"
 
 # game/murdochroute3.rpy:3577
 translate Schinese murdochroute3b_abd2df54:
 
     # ji "\"Because it still means that {i}she’ll{/i} have none of it.\""
-    ji "\"这就代表{i}她还是{/i}什麽都得不到啊。\""
+    ji "\"这也代表{b}她{/b}什么都得不到。\""
 
 # game/murdochroute3.rpy:3579
 translate Schinese murdochroute3b_47e35021:
 
     # "He points with his index claw at Holly."
-    "以食指指着Holly。"
+    "用食指指着Holly。"
 
 # game/murdochroute3.rpy:3581
 translate Schinese murdochroute3b_a3da1167:
 
     # ji "\"Not a cent.\""
-    ji "\"一分钱都得不到。\""
+    ji "\"一分钱都别想。\""
 
 # game/murdochroute3.rpy:3583
 translate Schinese murdochroute3b_16c8693a:
@@ -11046,25 +11046,25 @@ translate Schinese murdochroute3b_16c8693a:
 translate Schinese murdochroute3b_4747f505:
 
     # "His ears twitch a bit when I say it."
-    "一听我这麽说，他耳朵就稍稍抖了一下。"
+    "听我这么说，他耳朵稍稍抖了一下。"
 
 # game/murdochroute3.rpy:3586
 translate Schinese murdochroute3b_45959e04:
 
     # "Ah."
-    "哦。"
+    "啊。"
 
 # game/murdochroute3.rpy:3587
 translate Schinese murdochroute3b_993bef03:
 
     # "There it is."
-    "这下有戏了。"
+    "有戏了。"
 
 # game/murdochroute3.rpy:3589
 translate Schinese murdochroute3b_4f2c5963:
 
     # ji "\"He’s just as false.\""
-    ji "\"他也一样骗了我。\""
+    ji "\"他也在骗我。\""
 
 # game/murdochroute3.rpy:3592
 translate Schinese murdochroute3b_0a75290f:
@@ -11076,31 +11076,31 @@ translate Schinese murdochroute3b_0a75290f:
 translate Schinese murdochroute3b_5f0e6b86:
 
     # m "\"Now Mr. Sterling...\""
-    m "\"我说啊，Sterling先生……\""
+    m "\"我说啊，Sterling先生...\""
 
 # game/murdochroute3.rpy:3596
 translate Schinese murdochroute3b_60a444eb:
 
     # "I touch his shoulder and he flinches."
-    "我搭上他的肩膀，令他缩了一下。"
+    "我搭上他的肩膀，令他哆嗦了下。"
 
 # game/murdochroute3.rpy:3597
 translate Schinese murdochroute3b_b92474d3:
 
     # "My snout reaches his ear and I’m whispering now."
-    "吻部凑到他耳旁低噢。"
+    "我把嘴凑到他的耳旁。"
 
 # game/murdochroute3.rpy:3598
 translate Schinese murdochroute3b_195057bf:
 
     # m "\"We both know that ain’t entirely true.\""
-    m "\"你我都知道，这话说的可不太对。\""
+    m "\"这话可不太对吧。\""
 
 # game/murdochroute3.rpy:3599
 translate Schinese murdochroute3b_11aceee9:
 
     # m "\"He always finishes, don’t he?\""
-    m "\"他一直都完事，对吧？\""
+    m "\"他一直都有射出来，不是吗？\""
 
 # game/murdochroute3.rpy:3600
 translate Schinese murdochroute3b_3c57e753:
@@ -11112,49 +11112,49 @@ translate Schinese murdochroute3b_3c57e753:
 translate Schinese murdochroute3b_57d2b49c:
 
     # "I could smell that shy trace of excitement in the air from him."
-    "身上飘出了一丝兴奋的气味。"
+    "身上飘出一缕兴奋的气味。"
 
 # game/murdochroute3.rpy:3603
 translate Schinese murdochroute3b_9c377a9b:
 
     # ho "\"What are you both talking about over there?\""
-    ho "\"你们在偷偷说什麽？\""
+    ho "\"你们在偷偷说什么？\""
 
 # game/murdochroute3.rpy:3605
 translate Schinese murdochroute3b_a00791c9:
 
     # "Murdoch was staring, but it was a placid kind of look."
-    "Murdoch也望着我们，但表情木讷。"
+    "Murdoch凝视着我们，表情木讷。"
 
 # game/murdochroute3.rpy:3606
 translate Schinese murdochroute3b_73a4725e:
 
     # "Whether it was true or not didn’t matter."
-    "不管是不是真的都不重要。"
+    "是真是假并不重要。"
 
 # game/murdochroute3.rpy:3607
 translate Schinese murdochroute3b_d85a74fc:
 
     # "Jim had no compassion to spare for his bride tonight."
-    "Jim今晚可没兴致奉陪新娘。"
+    "Jim今晚可没兴致陪新娘。"
 
 # game/murdochroute3.rpy:3608
 translate Schinese murdochroute3b_63f9c4ef:
 
     # "But he was wounded."
-    "但受了伤。"
+    "他受了伤。"
 
 # game/murdochroute3.rpy:3609
 translate Schinese murdochroute3b_69274451:
 
     # "And I could tell he wanted somebody to tend those wounds."
-    "我看出他希望有人能帮他照料这伤。"
+    "我看得出来，他希望有个能帮他抚平伤口的人。"
 
 # game/murdochroute3.rpy:3611
 translate Schinese murdochroute3b_adae0885:
 
     # "After my suggestion, I could hear the shift of his suit fabric slackening as his posture softens."
-    "听了我的建议后，他姿态软了下来，西装衣料摩擦的声音随之发出。"
+    "听了我的建议后，他的姿态软了下来，西装的衣料随之发出摩擦声。"
 
 # game/murdochroute3.rpy:3613
 translate Schinese murdochroute3b_ef11307e:
@@ -11178,7 +11178,7 @@ translate Schinese murdochroute3b_dfde4383:
 translate Schinese murdochroute3b_7b6afebf:
 
     # "She looked at me, almost as if impressed,{nw}"
-    "她看向我，面带惊艳，{nw}"
+    "她看向我，面带钦佩，{nw}"
 
 # game/murdochroute3.rpy:3621
 translate Schinese murdochroute3b_2867fc73:
@@ -11196,19 +11196,19 @@ translate Schinese murdochroute3b_c5b6d472:
 translate Schinese murdochroute3b_fee9ef00:
 
     # ji "\"It’ll be done then.\""
-    ji "\"那就成了。\""
+    ji "\"那就这样吧。\""
 
 # game/murdochroute3.rpy:3629
 translate Schinese murdochroute3b_d790acab:
 
     # ji "\"Can’t guarantee I’ll be home very often.\""
-    ji "\"我可不能保证自己会常常在家。\""
+    ji "\"还有，我不保证自己会经常在家。\""
 
 # game/murdochroute3.rpy:3632
 translate Schinese murdochroute3b_ee661368:
 
     # "She grimaces."
-    "她脸一皱。"
+    "她眉头一皱。"
 
 # game/murdochroute3.rpy:3634
 translate Schinese murdochroute3b_befe44e8:
@@ -11226,7 +11226,7 @@ translate Schinese murdochroute3b_501ea92c:
 translate Schinese murdochroute3b_d831d441:
 
     # ho "\"Though perhaps you’ll come around in time.\""
-    ho "\"或许时间久了你也会安定下来吧。\""
+    ho "\"相信你会回心转意的。\""
 
 # game/murdochroute3.rpy:3643
 translate Schinese murdochroute3b_c30e1de2:
@@ -11238,49 +11238,49 @@ translate Schinese murdochroute3b_c30e1de2:
 translate Schinese murdochroute3b_12056e8d:
 
     # ji "\"I’d rather lose track of it given enough to drink.\""
-    ji "\"我还宁愿把那时间拿去买醉。\""
+    ji "\"有那时间，我宁愿拿去买醉。\""
 
 # game/murdochroute3.rpy:3648
 translate Schinese murdochroute3b_4d41a289:
 
     # ho "\"Lose as much time as you like, so long as you’re at that ceremony at least by 9 A.M.\""
-    ho "\"随你怎麽浪费时间，但一早九点准时在典礼现身。\""
+    ho "\"你爱怎么浪费就怎么浪费，只要明早九点准时出现在会场。\""
 
 # game/murdochroute3.rpy:3651
 translate Schinese murdochroute3b_93900361:
 
     # ji "\"It’ll be done then...\""
-    ji "\"那行吧……\""
+    ji "\"行吧...\""
 
 # game/murdochroute3.rpy:3653
 translate Schinese murdochroute3b_56e16364:
 
     # ho "\"...\""
-    ho "\"……\""
+    ho "\"...\""
 
 # game/murdochroute3.rpy:3654
 translate Schinese murdochroute3b_cb44c247:
 
     # ji "\"...\""
-    ji "\"……\""
+    ji "\"...\""
 
 # game/murdochroute3.rpy:3656
 translate Schinese murdochroute3b_e9116f8f:
 
     # ho "\"So where are you going now?\""
-    ho "\"你现在要去哪？\""
+    ho "\"那么，你现在要去哪？\""
 
 # game/murdochroute3.rpy:3659
 translate Schinese murdochroute3b_78995c37:
 
     # ji "\"To the guest house my friends are staying.\""
-    ji "\"去我朋友待的客栈。\""
+    ji "\"去我朋友住的客栈。\""
 
 # game/murdochroute3.rpy:3662
 translate Schinese murdochroute3b_75ef8626:
 
     # ji "\"I don’t want them to come tomorrow.\""
-    ji "\"我不想他们明天来。\""
+    ji "\"让他们别来参加婚礼。\""
 
 # game/murdochroute3.rpy:3665
 translate Schinese murdochroute3b_287de5cf:
@@ -11304,13 +11304,13 @@ translate Schinese murdochroute3b_b609426c:
 translate Schinese murdochroute3b_074ae8d9:
 
     # ji "\"But don’t worry.\""
-    ji "\"妳不用担心。\""
+    ji "\"你不用担心。\""
 
 # game/murdochroute3.rpy:3677
 translate Schinese murdochroute3b_9b7cf82d:
 
     # ji "\"I was already upset with them before your schemes.\""
-    ji "\"在妳闹这齣戏之前，我早就不爽他们了。\""
+    ji "\"在这出闹剧之前，我早就不爽他们了。\""
 
 # game/murdochroute3.rpy:3680
 translate Schinese murdochroute3b_41d4467b:
@@ -11322,13 +11322,13 @@ translate Schinese murdochroute3b_41d4467b:
 translate Schinese murdochroute3b_6cec8e59:
 
     # ho "\"They had better.\""
-    ho "\"那最好了。\""
+    ho "\"那就好。\""
 
 # game/murdochroute3.rpy:3688
 translate Schinese murdochroute3b_f6b585e9:
 
     # "He and Holly turn away from one another in opposite directions{nw}"
-    "他跟Holly往相反方向转身{nw}"
+    "他和Holly往相反的方向转身，{nw}"
 
 # game/murdochroute3.rpy:3693
 translate Schinese murdochroute3b_b6503789:
@@ -11340,61 +11340,61 @@ translate Schinese murdochroute3b_b6503789:
 translate Schinese murdochroute3b_f0b5675b:
 
     # "He turns back to look at Murdoch one more time."
-    "他最后回头看了Murdoch一眼。"
+    "临走前，他最后看了一眼Murdoch。"
 
 # game/murdochroute3.rpy:3696
 translate Schinese murdochroute3b_e039e622:
 
     # "Holly doesn’t look back at all."
-    "Holly倒是头也不回。"
+    "Holly则是头也不回。"
 
 # game/murdochroute3.rpy:3698
 translate Schinese murdochroute3b_46f58703:
 
     # "Jim disappears out of the rose gate and Holly walks up the stoop, facing the back door of her home."
-    "Jim走出玫瑰庭园的门，Holly走上石阶，面对自家后门。"
+    "Jim走出玫瑰园的大门，Holly走上石阶，面对着自家后门。"
 
 # game/murdochroute3.rpy:3700
 translate Schinese murdochroute3b_7b1b2531:
 
     # "She grabs the handle and squeezes."
-    "握住门把一转。"
+    "握住门把手一转。"
 
 # game/murdochroute3.rpy:3702
 translate Schinese murdochroute3b_be16f41d:
 
     # "But she’s interrupted by a hemming sound."
-    "却被一阵哼声打断。"
+    "然而被一阵哼声打断了。"
 
 # game/murdochroute3.rpy:3704
 translate Schinese murdochroute3b_9a0ec8de:
 
     # ra "\"Why weren’t you at the beach, Holly?\""
-    ra "\"妳怎麽不在岸边，Holly？\""
+    ra "\"你怎么没在岸边，Holly？\""
 
 # game/murdochroute3.rpy:3706
 translate Schinese murdochroute3b_617d9889:
 
     # "Ralph’s voice is soft, but dangerous."
-    "Ralph声音轻柔，却散发着危险。"
+    "Ralph的声音很轻，却散发出危险。"
 
 # game/murdochroute3.rpy:3707
 translate Schinese murdochroute3b_addb8f3f:
 
     # "Murdoch is shaking his head quickly but the rat’s ignoring him."
-    "Murdoch正连连摇头，老鼠却没理他。"
+    "Murdoch连连摇头，老鼠没有理他。"
 
 # game/murdochroute3.rpy:3708
 translate Schinese murdochroute3b_6ce4efed:
 
     # "It’s an odd thing for him to say."
-    "他说这话就很奇怪。"
+    "奇怪的问题。"
 
 # game/murdochroute3.rpy:3709
 translate Schinese murdochroute3b_90b848da:
 
     # "It has nothing to do with what we all just talked about."
-    "跟我们刚才的话题完全没有关係。"
+    "跟我们刚才讨论的没有一丁点关系。"
 
 # game/murdochroute3.rpy:3710
 translate Schinese murdochroute3b_fb5dedb0:
@@ -11412,133 +11412,133 @@ translate Schinese murdochroute3b_dad4a92e:
 translate Schinese murdochroute3b_c9bc16a5:
 
     # "The corners of her mouth curl into a sneer."
-    "嘴角捲成冷笑。"
+    "嘴角浮现出一丝冷笑。"
 
 # game/murdochroute3.rpy:3715
 translate Schinese murdochroute3b_e473e1d4:
 
     # ho "\"Because I was a child.\""
-    ho "\"我还只是个孩子。\""
+    ho "\"因为我还只是个孩子。\""
 
 # game/murdochroute3.rpy:3718
 translate Schinese murdochroute3b_33668c5b:
 
     # ho "\"And my friends were giving me the best day of my life.\""
-    ho "\"正跟朋友享受人生中最棒的一天呢。\""
+    ho "\"正跟朋友们享受人生中最棒的一天呢。\""
 
 # game/murdochroute3.rpy:3720
 translate Schinese murdochroute3b_5de52c12:
 
     # ra "\"That’s a very pretty non-answer.\""
-    ra "\"这话说得好听，但完全没有回答到啊。\""
+    ra "\"你可真会避重就轻啊。\""
 
 # game/murdochroute3.rpy:3722
 translate Schinese murdochroute3b_a1b577ab:
 
     # ho "\"And yet it’s all you’re getting.\""
-    ho "\"跟你说这麽多就够了。\""
+    ho "\"跟你说这么多就够了。\""
 
 # game/murdochroute3.rpy:3726
 translate Schinese murdochroute3b_b598bcc1:
 
     # ho "\"You nasty, vindictive little man.\""
-    ho "\"你个怀恨在心的肮髒鼠辈。\""
+    ho "\"你这爱记仇的鼠辈。\""
 
 # game/murdochroute3.rpy:3728
 translate Schinese murdochroute3b_546b0433:
 
     # "She looks him up and down, arms crossed, head nodding."
-    "她双手抱胸，上下打量他，点了点头。"
+    "她双手抱胸，上下打量着他。"
 
 # game/murdochroute3.rpy:3730
 translate Schinese murdochroute3b_aa839a54:
 
     # ho "\"You’re emptier than the wine flutes in our cupboard.\""
-    ho "\"你这人比我们厨柜中的酒杯还空虚。\""
+    ho "\"比我们厨柜里的酒杯还要空。\""
 
 # game/murdochroute3.rpy:3736
 translate Schinese murdochroute3b_9bd168cd:
 
     # "She turns around once again, pulls the door open, and slips inside."
-    "她再次转身，拉开门进屋。"
+    "她再度转身，拉开门进了屋。"
 
 # game/murdochroute3.rpy:3739
 translate Schinese murdochroute3b_efbad209:
 
     # "Ralph spits on the dirt."
-    "Ralph朝地上吐了口口水。"
+    "Ralph往地上啐了口唾沫。"
 
 # game/murdochroute3.rpy:3740
 translate Schinese murdochroute3b_ef58bb5e:
 
     # ra "\"She doesn’t feel a bit of shame.\""
-    ra "\"她真不知羞耻。\""
+    ra "\"真是有够不要脸的。\""
 
 # game/murdochroute3.rpy:3743
 translate Schinese murdochroute3b_0f11849b:
 
     # ra "\"It’s like she doesn’t know how.\""
-    ra "\"恐怕连那种感情都没有。\""
+    ra "\"不，她恐怕从一开始就没有羞耻心。\""
 
 # game/murdochroute3.rpy:3746
 translate Schinese murdochroute3b_c525b7d9:
 
     # "The crickets start chirping again now that all the shouting has stopped."
-    "一行人不再大呼小叫，蟋蟀鸣叫声再度填满空气。"
+    "人声归于寂静，蟋蟀重新夺回了主权。"
 
 # game/murdochroute3.rpy:3747
 translate Schinese murdochroute3b_bf4cd2c8:
 
     # m "\"What’s all this about the beach?\""
-    m "\"岸边怎麽了？\""
+    m "\"岸边怎么了？\""
 
 # game/murdochroute3.rpy:3748
 translate Schinese murdochroute3b_6c30a1ad:
 
     # "Ralph grunts."
-    "Ralph闷哼一声。"
+    "Ralph压低声音。"
 
 # game/murdochroute3.rpy:3750
 translate Schinese murdochroute3b_14a00443:
 
     # "He lowers his voice and whispers in my ear."
-    "压低音量在我耳边细语。"
+    "在我耳边细语。"
 
 # game/murdochroute3.rpy:3751
 translate Schinese murdochroute3b_0fc9e676:
 
     # ra "\"That’s where she said she was the day we lost his brother.\""
-    ra "\"他弟弟死去的那天，她说她人就在那。\""
+    ra "\"他弟弟死的那天，她说她人就在那。\""
 
 # game/murdochroute3.rpy:3753
 translate Schinese murdochroute3b_a8e44402:
 
     # "Murdoch was sitting on a bench, staring at the trellis."
-    "Murdoch正坐在长椅上，望着棚架。"
+    "Murdoch不知何时坐在了长椅上，望着花棚发呆。"
 
 # game/murdochroute3.rpy:3754
 translate Schinese murdochroute3b_1239c35a:
 
     # ra "\"If she was at the beach like she said, she would have saw the whole incident with the boat from the shore front.\""
-    ra "\"要是她人真在岸边，肯定会目睹船的事件全程。\""
+    ra "\"要是她没有撒谎，她肯定目睹了事故的全过程。\""
 
 # game/murdochroute3.rpy:3755
 translate Schinese murdochroute3b_3faec8b4:
 
     # ra "\"All that boat does is just putter around the middle of the lake.\""
-    ra "\"那艘船可是漂在湖正中央的。\""
+    ra "\"那艘船明明就漂在湖中央。\""
 
 # game/murdochroute3.rpy:3756
 translate Schinese murdochroute3b_ff10f4a8:
 
     # ra "\"She says she didn’t see it.\""
-    ra "\"她说她没看见。\""
+    ra "\"可她说没有看到。\""
 
 # game/murdochroute3.rpy:3758
 translate Schinese murdochroute3b_8f3bc685:
 
     # ra "\"You don’t just simply miss the damn riverboat.\""
-    ra "\"怎麽可能有人会看漏一艘河船呢。\""
+    ra "\"怎么可能会有人漏看一艘游船呢。\""
 
 # game/murdochroute3.rpy:3759
 translate Schinese murdochroute3b_eb662c4e:
@@ -11550,43 +11550,43 @@ translate Schinese murdochroute3b_eb662c4e:
 translate Schinese murdochroute3b_55bcab2d:
 
     # m "\"You think she’s hidin’ something then?\""
-    m "\"你认为她是在隐瞒什麽事？\""
+    m "\"你认为她有所隐瞒？\""
 
 # game/murdochroute3.rpy:3762
 translate Schinese murdochroute3b_7006ee0a:
 
     # "The rat looks away, like he’s thinking."
-    "老鼠别看目光，若有所思。"
+    "老鼠移开目光，若有所思。"
 
 # game/murdochroute3.rpy:3764
 translate Schinese murdochroute3b_7cdd65e7:
 
     # "Then he decides to speak again."
-    "然后再度开口。"
+    "然后又开口道："
 
 # game/murdochroute3.rpy:3765
 translate Schinese murdochroute3b_cf0f2562:
 
     # ra "\"I bet it’s something that would be nothing to people like us.\""
-    ra "\"想必对我们这种人来说不算个事。\""
+    ra "\"估计对我们这种人来说不算什么。\""
 
 # game/murdochroute3.rpy:3766
 translate Schinese murdochroute3b_3d146fa4:
 
     # ra "\"But everything to somebody like her.\""
-    ra "\"但对她那种人来说就是天大的事。\""
+    ra "\"但在她那里就是天大的事。\""
 
 # game/murdochroute3.rpy:3767
 translate Schinese murdochroute3b_bbc41c94:
 
     # ra "\"Either way, she admitted that she lied but she refuses to be specific.\""
-    ra "\"总而言之，她是承认她说了谎，却不打算详细说明。\""
+    ra "\"总之，她虽不避讳自己在撒谎，却无论如何都不肯详细说明。\""
 
 # game/murdochroute3.rpy:3768
 translate Schinese murdochroute3b_6fea59aa:
 
     # ra "\"To be coy about this, given the circumstances of that day...\""
-    ra "\"考虑到当天发生的事，她这麽含糊其词……\""
+    ra "\"考虑到那天发生的事，她这么含糊其词...\""
 
 # game/murdochroute3.rpy:3770
 translate Schinese murdochroute3b_06a731b2:
@@ -11604,55 +11604,55 @@ translate Schinese murdochroute3b_3ec6c5ef:
 translate Schinese murdochroute3b_6294b03d:
 
     # ra "\"I just want to know she really felt something.\""
-    ra "\"我只想知道她有没有什麽感触。\""
+    ra "\"天知道她到底在想什么。\""
 
 # game/murdochroute3.rpy:3775
 translate Schinese murdochroute3b_e16538ef:
 
     # mu "\"Ralph. Sam.\""
-    mu "\"Ralph、Sam。\""
+    mu "\"Ralph，Sam。\""
 
 # game/murdochroute3.rpy:3778
 translate Schinese murdochroute3b_d42e7eb1:
 
     # "We turned to Murdoch’s voice."
-    "Murdoch搭话声让我们转了过去。"
+    "我们一齐看向Murdoch。"
 
 # game/murdochroute3.rpy:3779
 translate Schinese murdochroute3b_0472f321:
 
     # "It was barely louder than a whisper."
-    "只比耳语稍微大声一点点。"
+    "他的声音只比耳语稍微大一点。"
 
 # game/murdochroute3.rpy:3781
 translate Schinese murdochroute3b_e5d164b9:
 
     # mu "\"Did you see where Holly tossed that rock she got hit with?\""
-    mu "\"你们有看到Holly把砸到她的那颗石子丢哪了吗？\""
+    mu "\"你们有看到Holly把那颗石子丢到哪了吗？\""
 
 # game/murdochroute3.rpy:3782
 translate Schinese murdochroute3b_79d9a601:
 
     # "We can see it sitting in one of the rose bushes."
-    "就掉在一丛玫瑰中。"
+    "很明显，在一丛玫瑰中。"
 
 # game/murdochroute3.rpy:3785
 translate Schinese murdochroute3b_6e9494ea:
 
     # "It's not a very big rock; its fairly light, and it fits in the center of my palm pretty easily."
-    "石块不算很大；挺轻的，能轻易拿在掌中。"
+    "石块不算大，也不算重，能轻易拿在手中。"
 
 # game/murdochroute3.rpy:3786
 translate Schinese murdochroute3b_0c97361d:
 
     # "It looks just like an ordinary piece of granite with a spiral scratched into it."
-    "感觉是颗稀松平常的石灰岩，上面刻着螺旋纹样。"
+    "看起来就是块普普通通的花岗岩，上面刻着一个螺旋。"
 
 # game/murdochroute3.rpy:3788
 translate Schinese murdochroute3b_df07af9e:
 
     # "Murdoch makes a few clicking sounds with his tongue while he looks at it."
-    "Murdoch看着石块，咂了几下舌头。"
+    "Murdoch一边盯着石块，一边发出啧啧音。"
 
 # game/murdochroute3.rpy:3792
 translate Schinese murdochroute3b_d906f8ff:
@@ -11670,13 +11670,13 @@ translate Schinese murdochroute3b_489529c1:
 translate Schinese murdochroute3b_2759742c:
 
     # "Walking our way downtown, I can’t help but think about Ralph and Holly."
-    "走往镇中心的路上，我脑中不禁想着Ralph跟Holly。"
+    "走往通往镇中心的路上，我不禁想起Ralph和Holly。"
 
 # game/murdochroute3.rpy:3797
 translate Schinese murdochroute3b_b35aaf35:
 
     # "I had a hunch that they didn’t like one another before, but that was somethin’ else."
-    "我之前是有感觉他们两人不合，但刚才那却非同小可。"
+    "我是有感觉他们两个不对付，但刚才那下绝不一般。"
 
 # game/murdochroute3.rpy:3798
 translate Schinese murdochroute3b_602fc023:
@@ -11688,37 +11688,37 @@ translate Schinese murdochroute3b_602fc023:
 translate Schinese murdochroute3b_6afc39b5:
 
     # "I wonder for a moment if I should go back to the Hip to clean my bedroom but I feel like Murdoch needs company tonight."
-    "我有一瞬间心想自己是否该回Hip把房间清一下，但感觉Murdoch今晚需要有人陪伴。"
+    "我犹豫着要不要回Hip把房间打扫一下，可又放心不下Murdoch。"
 
 # game/murdochroute3.rpy:3802
 translate Schinese murdochroute3b_89953176:
 
     # "He’s not telling me to go home when we get to his door,{nw}"
-    "来到他家门前时他也没叫我回去，{nw}"
+    "一直走到他家门前，他也没有叫我回去，{nw}"
 
 # game/murdochroute3.rpy:3804
 translate Schinese murdochroute3b_0af6e3d0:
 
     # extend " nor is he shooing me to the couch when I enter his bedroom."
-    extend "跟他进房间后也没挥手示意我去躺沙发。"
+    extend "进房间后也没挥手示意我去睡沙发。"
 
 # game/murdochroute3.rpy:3806
 translate Schinese murdochroute3b_817f7396:
 
     # "Maybe this is just for the convenience of the wedding."
-    "也可能只是为了婚礼方便。"
+    "可能只是为了婚礼方便。"
 
 # game/murdochroute3.rpy:3808
 translate Schinese murdochroute3b_263ff144:
 
     # "With all that’s happened in other people’s lives, we haven’t exactly had time for just us."
-    "周遭人的事这麽多，我们一直没能独处多少时间。"
+    "我们为了别人的事忙得团团转，难得有独处的时间。"
 
 # game/murdochroute3.rpy:3810
 translate Schinese murdochroute3b_15d3b49a:
 
     # "I still haven’t quite processed that I’m dating this man, now, and I’m the only one who knows about it."
-    "如今，我正在跟这男人交往，而自己也是唯一知情的人，这件事我脑子直到现在都还没转过来。"
+    "如今，我和这男人走到了一起，自己还是唯一的知情人，这我直到现在都还没转过来。"
 
 # game/murdochroute3.rpy:3812
 translate Schinese murdochroute3b_016920a2:
@@ -11730,7 +11730,7 @@ translate Schinese murdochroute3b_016920a2:
 translate Schinese murdochroute3b_3acc5db9:
 
     # "Murdoch stretched out, lying supine, letting his huge tail curl up from between his legs."
-    "Murdoch敞开身子躺倒在床，大尾巴捲在两腿之间。"
+    "Murdoch敞开身子躺倒在床，大大的尾巴蜷缩在两腿之间。"
 
 # game/murdochroute3.rpy:3815
 translate Schinese murdochroute3b_d9f4548d:
@@ -11748,37 +11748,37 @@ translate Schinese murdochroute3b_994b12eb:
 translate Schinese murdochroute3b_c92be06d:
 
     # mu "\"There’s so much.\""
-    mu "\"今天可太多事了。\""
+    mu "\"今天发生太多事了。\""
 
 # game/murdochroute3.rpy:3820
 translate Schinese murdochroute3b_319ad04c:
 
     # m "\"Let’s start with you.\""
-    m "\"就从你开始谈起吧。\""
+    m "\"就从你开始说起吧。\""
 
 # game/murdochroute3.rpy:3822
 translate Schinese murdochroute3b_128ce2e7:
 
     # m "\"How do you feel?\""
-    m "\"你感觉如何？\""
+    m "\"你感觉怎么样了？\""
 
 # game/murdochroute3.rpy:3823
 translate Schinese murdochroute3b_773ebecc:
 
     # "He snorts."
-    "他嗤之以鼻。"
+    "他自嘲道："
 
 # game/murdochroute3.rpy:3824
 translate Schinese murdochroute3b_665bf303:
 
     # mu "\"I know what to say to make you cross with me.\""
-    mu "\"我知道说什麽你会生气。\""
+    mu "\"恐怕你听了只会生气吧。\""
 
 # game/murdochroute3.rpy:3825
 translate Schinese murdochroute3b_6932873d:
 
     # m "\"And what’s that?\""
-    m "\"说什麽？\""
+    m "\"说说看？\""
 
 # game/murdochroute3.rpy:3826
 translate Schinese murdochroute3b_cfba1168:
@@ -11790,25 +11790,25 @@ translate Schinese murdochroute3b_cfba1168:
 translate Schinese murdochroute3b_d263cdea:
 
     # "I bang my head against the pillow on the bed and bring my arms across my back."
-    "我一头倒在枕头上，双手拄在背后。"
+    "我一头倒在床上，双手抱颈。"
 
 # game/murdochroute3.rpy:3831
 translate Schinese murdochroute3b_33d6c2cb:
 
     # m "\"And you’d be right.\""
-    m "\"说的没错。\""
+    m "\"没错。\""
 
 # game/murdochroute3.rpy:3832
 translate Schinese murdochroute3b_4dd4b63c:
 
     # m "\"Shoves like that always come out in some way or another.\""
-    m "\"那样推总会有事的。\""
+    m "\"那样推别人迟早会出事的。\""
 
 # game/murdochroute3.rpy:3834
 translate Schinese murdochroute3b_c4ee02c1:
 
     # m "\"You’re lucky it was just his cock in you mouth and not him standing on the ledge of the balcony.\""
-    m "\"幸好那时候只是你含着他的屌，而不是他站在阳台边缘。\""
+    m "\"幸好你当时只是含着他的屌，而不是站在阳台边缘。\""
 
 # game/murdochroute3.rpy:3835
 translate Schinese murdochroute3b_d79ab31b:
@@ -11820,19 +11820,19 @@ translate Schinese murdochroute3b_d79ab31b:
 translate Schinese murdochroute3b_e8ef4b2f:
 
     # mu "\"Oh come on, I wouldn’t do that.\""
-    mu "\"拜託喔，我才不会干那种事。\""
+    mu "\"拜托，我才不会做那种事。\""
 
 # game/murdochroute3.rpy:3837
 translate Schinese murdochroute3b_d5b0ebdd:
 
     # m "\"And why’s that?\""
-    m "\"为什麽？\""
+    m "\"为什么？\""
 
 # game/murdochroute3.rpy:3839
 translate Schinese murdochroute3b_86a7c2f2:
 
     # "He adjusts himself."
-    "他调整姿势。"
+    "他翻了个身。"
 
 # game/murdochroute3.rpy:3841
 translate Schinese murdochroute3b_5c030c0f:
@@ -11844,55 +11844,55 @@ translate Schinese murdochroute3b_5c030c0f:
 translate Schinese murdochroute3b_1b7f7760:
 
     # "That’s a surprise."
-    "真意外。"
+    "有点惊讶。"
 
 # game/murdochroute3.rpy:3843
 translate Schinese murdochroute3b_b339762e:
 
     # m "\"Are you being truthful with me?\""
-    m "\"你这话不假吧？\""
+    m "\"此话当真？\""
 
 # game/murdochroute3.rpy:3845
 translate Schinese murdochroute3b_225cecbe:
 
     # mu "\"Yes.\""
-    mu "\"对。\""
+    mu "\"当真。\""
 
 # game/murdochroute3.rpy:3847
 translate Schinese murdochroute3b_0a7fb953:
 
     # "He nips me on the neck with a soft bite and then pulls away."
-    "他轻咬我的脖子一下后退开。"
+    "他轻咬我的脖子，然后退开。"
 
 # game/murdochroute3.rpy:3849
 translate Schinese murdochroute3b_52910ada:
 
     # mu "\"He says ignorant things from time to time, but he doesn’t act so bad unless he’s around his friends.\""
-    mu "\"他有时说话刺耳，但没跟他朋友在一起的时候人其实还不坏。\""
+    mu "\"他有时说话刺耳，但没跟他朋友在一起的时候就还好。\""
 
 # game/murdochroute3.rpy:3850
 translate Schinese murdochroute3b_719a2fdb:
 
     # m "\"They didn’t seem to like one another’s company much, but I thought that was just a side effect of having proper status and money.\""
-    m "\"他们好像不怎麽喜欢待在一起，我还以为只是社经跟财政地位很高的副作用。\""
+    m "\"他们好像并不待见，我还以为这只是财富跟地位的关系。\""
 
 # game/murdochroute3.rpy:3852
 translate Schinese murdochroute3b_506f9499:
 
     # "Murdoch laughs."
-    "Murdoch大笑。"
+    "Murdoch哈哈大笑。"
 
 # game/murdochroute3.rpy:3854
 translate Schinese murdochroute3b_d0ad970c:
 
     # mu "\"I don’t think it’s dislike so much as fear.\""
-    mu "\"不算讨厌吧，但能说是害怕。\""
+    mu "\"与其说不待见，倒不如说是害怕。\""
 
 # game/murdochroute3.rpy:3856
 translate Schinese murdochroute3b_7ff3ac12:
 
     # mu "\"If you didn’t notice, they all scrutinize themselves just as much as one another.\""
-    mu "\"你没发现啊，他们不只是互相审视，其实对自己的一举一动都很谨慎。\""
+    mu "\"你似乎没有发现，他们每个人对自己的一举一动都很谨慎。\""
 
 # game/murdochroute3.rpy:3857
 translate Schinese murdochroute3b_6b465b0b:
@@ -11904,25 +11904,25 @@ translate Schinese murdochroute3b_6b465b0b:
 translate Schinese murdochroute3b_bf42a612:
 
     # m "\"How do you figure?\""
-    m "\"你怎麽知道？\""
+    m "\"你怎么知道？\""
 
 # game/murdochroute3.rpy:3860
 translate Schinese murdochroute3b_3a373428:
 
     # mu "\"The politician sips a glass of his water before saying anything.\""
-    mu "\"那位议员每次说话前都会喝一口水。\""
+    mu "\"那位议员每次说话前都要先喝一口水。\""
 
 # game/murdochroute3.rpy:3861
 translate Schinese murdochroute3b_f602ff15:
 
     # mu "\"His words are always carefully curated.\""
-    mu "\"他一字一句都有细心斟酌。\""
+    mu "\"他的一字一句都有细心斟酌。\""
 
 # game/murdochroute3.rpy:3862
 translate Schinese murdochroute3b_0bac4b17:
 
     # mu "\"The doctor can’t stand to sit in silence.\""
-    mu "\"那位医生则是没法静静坐着。\""
+    mu "\"那位医生则总是静不下来。\""
 
 # game/murdochroute3.rpy:3864
 translate Schinese murdochroute3b_d6633f9a:
@@ -11940,31 +11940,31 @@ translate Schinese murdochroute3b_0a7f6f8f:
 translate Schinese murdochroute3b_fc28e5c3:
 
     # mu "\"The power of the country’s aristocracy is in decline, you know.\""
-    mu "\"你知道吧，这个国家的贵族权力正在消退。\""
+    mu "\"你知道吗，这个国家的贵族阶级已是日薄西山了。\""
 
 # game/murdochroute3.rpy:3869
 translate Schinese murdochroute3b_b7f4a507:
 
     # mu "\"We’re starting to see a robust middle class form the backbone of this country.\""
-    mu "\"蓬勃的中产阶级逐渐形成这个国家的骨干。\""
+    mu "\"蓬勃发展的中产阶级逐渐成为骨干。\""
 
 # game/murdochroute3.rpy:3870
 translate Schinese murdochroute3b_d1e3b9af:
 
     # mu "\"That means more and more of the middle class can also start to have a say in things.\""
-    mu "\"也就代表中产阶级的人在各种事上越来越有影响力。\""
+    mu "\"这也代表中产阶级的人在各方各面上都取得了发言权。\""
 
 # game/murdochroute3.rpy:3871
 translate Schinese murdochroute3b_a8799e92:
 
     # m "\"What things?\""
-    m "\"什麽事？\""
+    m "\"各方各面？\""
 
 # game/murdochroute3.rpy:3872
 translate Schinese murdochroute3b_e221f865:
 
     # "Murdoch shrugs."
-    "Murdoch耸肩。"
+    "Murdoch耸耸肩。"
 
 # game/murdochroute3.rpy:3874
 translate Schinese murdochroute3b_7baa91c9:
@@ -11982,13 +11982,13 @@ translate Schinese murdochroute3b_144b6adb:
 translate Schinese murdochroute3b_4e7b856c:
 
     # mu "\"That means the rich don’t want to just be seen with the rich anymore.\""
-    mu "\"有钱人不再只能跟其他有钱人相处。\""
+    mu "\"有钱人的社交圈不再局限于有钱人。\""
 
 # game/murdochroute3.rpy:3879
 translate Schinese murdochroute3b_57fc999a:
 
     # mu "\"They want to surround themselves with celebrities and experts.\""
-    mu "\"他们想跟名人和专家为伍。\""
+    mu "\"他们想要与名人和专家为伍。\""
 
 # game/murdochroute3.rpy:3880
 translate Schinese murdochroute3b_74e7c159:
@@ -12000,7 +12000,7 @@ translate Schinese murdochroute3b_74e7c159:
 translate Schinese murdochroute3b_c82b3a11:
 
     # m "\"Sounds like it’s making them try to be better people?\""
-    m "\"这样感觉他们是在往好的方向走吧？\""
+    m "\"这算是一种好事吧？\""
 
 # game/murdochroute3.rpy:3883
 translate Schinese murdochroute3b_d2273c6b:
@@ -12012,121 +12012,121 @@ translate Schinese murdochroute3b_d2273c6b:
 translate Schinese murdochroute3b_d79ca81e:
 
     # mu "\"In some ways, it’s making them worse.\""
-    mu "\"某方面来说，是更糟了。\""
+    mu "\"从某方面来说，是更糟了。\""
 
 # game/murdochroute3.rpy:3885
 translate Schinese murdochroute3b_4b9c0616:
 
     # "I turn my head to him."
-    "我朝他转头。"
+    "我把头转向他。"
 
 # game/murdochroute3.rpy:3886
 translate Schinese murdochroute3b_bf42a612_1:
 
     # m "\"How do you figure?\""
-    m "\"怎麽说？\""
+    m "\"怎么说？\""
 
 # game/murdochroute3.rpy:3888
 translate Schinese murdochroute3b_0e0e2e89:
 
     # mu "\"Because they still treat everybody from a lower class like servants.\""
-    mu "\"因为他们还是把低阶人士当僕从对待。\""
+    mu "\"因为他们还是把下层人士当仆人一样对待。\""
 
 # game/murdochroute3.rpy:3889
 translate Schinese murdochroute3b_3e5dfdb2:
 
     # mu "\"Now they want to have a conversation with you instead of ignoring your existence...\""
-    mu "\"现在他们不再忽视你，愿意跟你交流……\""
+    mu "\"他们不再忽视你，主动跟你交流...\""
 
 # game/murdochroute3.rpy:3891
 translate Schinese murdochroute3b_5f9e2266:
 
     # mu "\"...just so they can appear important to competitors by showing that they have robust social connections.\""
-    mu "\"……只是为了展现出自己强大的人脉，以表示自己很重要。\""
+    mu "\"...只是为了向竞争对手展示自己强大的人脉。\""
 
 # game/murdochroute3.rpy:3893
 translate Schinese murdochroute3b_d30efccf:
 
     # mu "\"Only saving grace is that the middle class doesn’t have to rely on the rich for everything and anything.\""
-    mu "\"唯一的好处，就是中产阶级的人不再需要各方面都依赖有钱人了。\""
+    mu "\"唯一值得庆幸的是，中产阶级的人不必事事都依赖有钱人了。\""
 
 # game/murdochroute3.rpy:3894
 translate Schinese murdochroute3b_a0c31ecd:
 
     # mu "\"But that doesn’t change the fact that Jim’s friends think Holly--and by extension, me--we’re too poor to be associated with.\""
-    mu "\"但这依然没改变Jim朋友对Holly——再说开点，也包含我——穷到不值得深交。\""
+    mu "\"但有些事实依旧没能改变：Holly，还有我，我们穷到完全入不了Jim朋友的眼。\""
 
 # game/murdochroute3.rpy:3895
 translate Schinese murdochroute3b_4bf5b9fe:
 
     # mu "\"Which is why they laughed at him when I shoved him.\""
-    mu "\"所以我把他推开的时候，他们才笑他。\""
+    mu "\"所以我把他推开的时候，他们才笑话他。\""
 
 # game/murdochroute3.rpy:3896
 translate Schinese murdochroute3b_94004a03:
 
     # "Oh."
-    "喔。"
+    "哦。"
 
 # game/murdochroute3.rpy:3897
 translate Schinese murdochroute3b_faa5feda:
 
     # "He’s saying they all think he’s poor."
-    "他是在说他们全都觉得他穷酸。"
+    "意思是他们觉得他很穷酸。"
 
 # game/murdochroute3.rpy:3898
 translate Schinese murdochroute3b_1b5680f5:
 
     # m "\"...But you’re one of the richest families in Echo?\""
-    m "\"……你们是Echo里最有钱的家庭之一耶？\""
+    m "\"...你们可是镇上最有钱的家庭之一啊？\""
 
 # game/murdochroute3.rpy:3900
 translate Schinese murdochroute3b_a30cc9d3:
 
     # mu "\"Echo doesn’t have the kind of money these people are used to, Sam.\""
-    mu "\"Echo的经济根本比不上他们的环境，Sam。\""
+    mu "\"回音镇的经济太落后了，Sam。\""
 
 # game/murdochroute3.rpy:3902
 translate Schinese murdochroute3b_c35d1097:
 
     # mu "\"Even the well-off haven’t had money for as long as these people have had money.\""
-    mu "\"就算是富有的那群人也没他们坐拥财富的那种资历。\""
+    mu "\"就算是最富有的顶层人士，也难以望其项背。\""
 
 # game/murdochroute3.rpy:3904
 translate Schinese murdochroute3b_36e1eefc:
 
     # mu "\"They don’t even consider the Briggs or the Hendricks to be particularly wealthy.\""
-    mu "\"连Briggs跟Hendricks在他们眼里都算不上特别富有。\""
+    mu "\"连Briggs和Hendricks在他们眼里都算不上多有钱。\""
 
 # game/murdochroute3.rpy:3905
 translate Schinese murdochroute3b_87aaedc6:
 
     # mu "\"We’re all bumpkins to them.\""
-    mu "\"对他们来说，我们就是乡巴佬。\""
+    mu "\"对他们来说，我们不过是一群乡巴佬。\""
 
 # game/murdochroute3.rpy:3907
 translate Schinese murdochroute3b_b45feb00:
 
     # m "\"The fuck’s a bum kin?\""
-    m "\"香八老是什麽鬼？\""
+    m "\"香八老又是个啥？\""
 
 # game/murdochroute3.rpy:3908
 translate Schinese murdochroute3b_e6bde9e1:
 
     # mu "\"It’s what you actually are.\""
-    mu "\"说的就是你。\""
+    mu "\"指的就是你。\""
 
 # game/murdochroute3.rpy:3909
 translate Schinese murdochroute3b_388c3692:
 
     # m "\"Well, I don’t like to be insulted.\""
-    m "\"我不喜欢别人侮辱我。\""
+    m "\"我不喜欢被人侮辱。\""
 
 # game/murdochroute3.rpy:3911
 translate Schinese murdochroute3b_326b26de:
 
     # mu "\"It’s not an insult when I say it.\""
-    mu "\"我说你就算不上侮辱。\""
+    mu "\"如果是我说的，那就不算侮辱。\""
 
 # game/murdochroute3.rpy:3913
 translate Schinese murdochroute3b_0e9ec6db:
@@ -12138,7 +12138,7 @@ translate Schinese murdochroute3b_0e9ec6db:
 translate Schinese murdochroute3b_60d4489d:
 
     # mu "\"Okay, okay, it’s not {i}entirely{/i} an insult.\""
-    mu "\"好啦好啦，也不{i}完全是{/i}侮辱。\""
+    mu "\"好啦好啦，也不{b}完全是{/b}侮辱。\""
 
 # game/murdochroute3.rpy:3916
 translate Schinese murdochroute3b_ba2077c0:
@@ -12150,37 +12150,37 @@ translate Schinese murdochroute3b_ba2077c0:
 translate Schinese murdochroute3b_c6351690:
 
     # mu "\"It just means that since we weren’t born into wealth, those people will never see us as one of them.\""
-    mu "\"只是在说我们不是含着金汤匙出生的，就不会被他们当作一分子。\""
+    mu "\"只能说，我们没有含着金汤匙出生，所以当不了他们的一分子。\""
 
 # game/murdochroute3.rpy:3918
 translate Schinese murdochroute3b_9c9f898c:
 
     # mu "\"Which means they think they’re entitled to more, and we’re entitled to less.\""
-    mu "\"他们觉得自己应得的更多，我们则更少。\""
+    mu "\"他们认为自己有权利享有更多资源，我们则更少。\""
 
 # game/murdochroute3.rpy:3919
 translate Schinese murdochroute3b_f3b9df86:
 
     # mu "\"But then you have odd cases like my sister and Jim’s relationship where he thinks new money is good enough.\""
-    mu "\"但也有我姊跟Jim交往的这种特殊案例，他认为自己能赚钱就够了。\""
+    mu "\"但也有例外，比如Jim和我姐，他觉得他已经赚够多了。\""
 
 # game/murdochroute3.rpy:3920
 translate Schinese murdochroute3b_e6c6e25c:
 
     # mu "\"And it can be contentious.\""
-    mu "\"这也是有争议的。\""
+    mu "\"不过这点存疑。\""
 
 # game/murdochroute3.rpy:3921
 translate Schinese murdochroute3b_0f015f42:
 
     # m "\"So this might be shocking to hear.\""
-    m "\"我这麽说你可能会很惊讶。\""
+    m "\"我冒昧地说一句。\""
 
 # game/murdochroute3.rpy:3922
 translate Schinese murdochroute3b_6decb8cf:
 
     # m "\"But I don’t like or trust your older sister.\""
-    m "\"但我既不喜欢也不信任你姊。\""
+    m "\"我既不喜欢，也不信任你姐。\""
 
 # game/murdochroute3.rpy:3924
 translate Schinese murdochroute3b_e80f8ca2:
@@ -12192,13 +12192,13 @@ translate Schinese murdochroute3b_e80f8ca2:
 translate Schinese murdochroute3b_25baa2ef:
 
     # mu "\"Hard to blame anybody after seeing what she was like today.\""
-    mu "\"目睹她今天的作为，会这样也是情有可原。\""
+    mu "\"目睹她今天的所作所为，你会这样想也不奇怪。\""
 
 # game/murdochroute3.rpy:3926
 translate Schinese murdochroute3b_be7f8e96:
 
     # m "\"What I’m saying is that we should probably try and get back those photos.\""
-    m "\"我的意思是，我们应该想办法把那些照片抢到手。\""
+    m "\"我是在告诉你，我们应该想办法把那些照片抢到手。\""
 
 # game/murdochroute3.rpy:3928
 translate Schinese murdochroute3b_e80f5281:
@@ -12210,7 +12210,7 @@ translate Schinese murdochroute3b_e80f5281:
 translate Schinese murdochroute3b_0bceb382:
 
     # mu "\"Easier said than done when there’s at least 4 copies out there.\""
-    mu "\"说起来容易，那可至少有四份啊。\""
+    mu "\"说起来容易，可照片至少有四份啊。\""
 
 # game/murdochroute3.rpy:3932
 translate Schinese murdochroute3b_e25ec3d0:
@@ -12222,7 +12222,7 @@ translate Schinese murdochroute3b_e25ec3d0:
 translate Schinese murdochroute3b_1e182fe0:
 
     # mu "\"You have to include the originals she’s duplicating in that.\""
-    mu "\"她用来印的底片也得算进去。\""
+    mu "\"底片也得算进去。\""
 
 # game/murdochroute3.rpy:3934
 translate Schinese murdochroute3b_bdce1a1e:
@@ -12234,55 +12234,55 @@ translate Schinese murdochroute3b_bdce1a1e:
 translate Schinese murdochroute3b_561f2de4:
 
     # m "\"Dahlia burned hers without even opening it.\""
-    m "\"Dahlia自己那份连开都没开就烧了。\""
+    m "\"Dahlia把给她的那份烧了，连看都没看。\""
 
 # game/murdochroute3.rpy:3937
 translate Schinese murdochroute3b_c0cf2542:
 
     # "Murdoch’s ears lift."
-    "Murdoch双耳一竖。"
+    "Murdoch两耳一竖。"
 
 # game/murdochroute3.rpy:3938
 translate Schinese murdochroute3b_558e60fa:
 
     # mu "\"That makes me feel a little better.\""
-    mu "\"这是让我感觉好了点。\""
+    mu "\"这倒是让我感觉好了点。\""
 
 # game/murdochroute3.rpy:3940
 translate Schinese murdochroute3b_2f28ad93:
 
     # mu "\"...I could perhaps convince my grandmother to give me those photos.\""
-    mu "\"……我能试试跟祖母把照片要回来。\""
+    mu "\"...我可以试试找祖母把照片要回来。\""
 
 # game/murdochroute3.rpy:3941
 translate Schinese murdochroute3b_993bc8c2:
 
     # mu "\"We have a good relationship.\""
-    mu "\"我们很亲的。\""
+    mu "\"她很疼我的。\""
 
 # game/murdochroute3.rpy:3942
 translate Schinese murdochroute3b_ca52519a:
 
     # "Knowing his family, that could mean anything."
-    "考虑到他的家庭，这句话还真不好解释。"
+    "鉴于他的家庭情况，这话还真不好解释。"
 
 # game/murdochroute3.rpy:3944
 translate Schinese murdochroute3b_d467a2e8:
 
     # m "\"Maybe I should speak with her?\""
-    m "\"那我去跟她说说？\""
+    m "\"那我去跟她唠唠？\""
 
 # game/murdochroute3.rpy:3945
 translate Schinese murdochroute3b_4793788e:
 
     # mu "\"She should be at my house in the early morning.\""
-    mu "\"她一大早应该会在我家。\""
+    mu "\"她应该会早早来到我家。\""
 
 # game/murdochroute3.rpy:3946
 translate Schinese murdochroute3b_4596b48d:
 
     # mu "\"She’s never late to important social engagements, but she doesn’t like traveling into town.\""
-    mu "\"她从来不会在重要的社交场合上迟到，但不喜欢到镇上来。\""
+    mu "\"她从不在重要的社交场合上迟到，只是不喜欢到镇上来。\""
 
 # game/murdochroute3.rpy:3947
 translate Schinese murdochroute3b_82d0932a:
@@ -12300,61 +12300,61 @@ translate Schinese murdochroute3b_9bdc47e6:
 translate Schinese murdochroute3b_0e0bdc81:
 
     # m "\"That ring any bells?\""
-    m "\"你耳熟吗？\""
+    m "\"你有印象吗？\""
 
 # game/murdochroute3.rpy:3951
 translate Schinese murdochroute3b_031d54a7:
 
     # mu "\"I think it does.\""
-    mu "\"好像吧。\""
+    mu "\"好像有。\""
 
 # game/murdochroute3.rpy:3953
 translate Schinese murdochroute3b_2e0903fc:
 
     # mu "\"I’ve been to some of the historical society’s meetings.\""
-    mu "\"我是去过一些历史学会的集会。\""
+    mu "\"我去过一些历史学会的集会。\""
 
 # game/murdochroute3.rpy:3955
 translate Schinese murdochroute3b_49b97f9d:
 
     # mu "\"I think he was one of the men interested in the occult, but I can’t be sure that I’m remembering correctly.\""
-    mu "\"他好像是个对神祕学有兴趣的人，但我不太确定。\""
+    mu "\"他好像对神秘学感兴趣，但我不确定。\""
 
 # game/murdochroute3.rpy:3957
 translate Schinese murdochroute3b_feabd00f:
 
     # m "\"He might be a bitch to track down.\""
-    m "\"恐怕很难找到他吧。\""
+    m "\"那想找到他就难了。\""
 
 # game/murdochroute3.rpy:3958
 translate Schinese murdochroute3b_33ea6eae:
 
     # m "\"Maybe it’ll be worth your time since you’re curious about the nature of this town too.\""
-    m "\"不过对你来说或许值得去找，毕竟你也很好奇这小镇的性质。\""
+    m "\"不过值得你花时间，毕竟你也好奇这小镇的性质吧。\""
 
 # game/murdochroute3.rpy:3960
 translate Schinese murdochroute3b_2e1c094c:
 
     # mu "\"I would be if most of the mystics in town didn’t come across as charlatans.\""
-    mu "\"要不是镇上绝大部分神秘学者都是神棍，我就有干劲了。\""
+    mu "\"要不是镇上绝大多数神秘主义者都是神棍，我肯定更有干劲。\""
 
 # game/murdochroute3.rpy:3961
 translate Schinese murdochroute3b_f8fe4fd8:
 
     # mu "\"They’re more interested in looking at the bottoms of teacups and the dust in photographs rather than experiments with replicable results.\""
-    mu "\"他们都只搞些看茶杯底部或照片上的尘埃之类的事，没兴趣做有可重複性的实验。\""
+    mu "\"他们放着可以用实验复现的现象不管不顾，反而只盯着茶杯底或照片里的灰尘看。\""
 
 # game/murdochroute3.rpy:3963
 translate Schinese murdochroute3b_50d84236:
 
     # mu "\"What’s tricky about spiritual experiences, I’ve found, is that by their very nature they’re rarely about replication.\""
-    mu "\"就我所知，灵异接触最难搞的地方，就是本质上难以重现。\""
+    mu "\"据我所知，灵异体验最棘手的地方就在于难以从根本上复制。\""
 
 # game/murdochroute3.rpy:3964
 translate Schinese murdochroute3b_0b267157:
 
     # m "\"So what you’re saying is that you haven’t had any success.\""
-    m "\"意思是你还没任何成果囉。\""
+    m "\"意思是你还没任何成果咯。\""
 
 # game/murdochroute3.rpy:3966
 translate Schinese murdochroute3b_d5f8634c:
@@ -12372,13 +12372,13 @@ translate Schinese murdochroute3b_ba8d8248:
 translate Schinese murdochroute3b_1b5404c4:
 
     # mu "\"Like I mentioned before, Dahlia and I think there’s something in the light.\""
-    mu "\"我之前也说过，Dahlia跟我都觉得光里有点东西。\""
+    mu "\"我之前也说过，Dahlia和我都觉得光线不简单。\""
 
 # game/murdochroute3.rpy:3970
 translate Schinese murdochroute3b_18745ba4:
 
     # mu "\"Since photographs essentially record and replicate the conditions of light, I’ve made as many duplications of the same picture before.\""
-    mu "\"照片的本质就是记录跟再现光，我有把同一张照片重複冲洗过很多次。\""
+    mu "\"照片的本质就是记录与再现光，所以我对同一张照片进行了反复冲洗。\""
 
 # game/murdochroute3.rpy:3972
 translate Schinese murdochroute3b_2d1e091d:
@@ -12402,7 +12402,7 @@ translate Schinese murdochroute3b_5201c3fc:
 translate Schinese murdochroute3b_ccae8ef0:
 
     # mu "\"Distortions are ordinary due to human mistakes, of course, but I found that can’t be explained.\""
-    mu "\"因为人为错误而产生扭曲自然是很常见，但还是有无法用此解释的部分。\""
+    mu "\"其中不乏许多难以用人为错误来解释的部分。\""
 
 # game/murdochroute3.rpy:3977
 translate Schinese murdochroute3b_905b8e72:
@@ -12414,7 +12414,7 @@ translate Schinese murdochroute3b_905b8e72:
 translate Schinese murdochroute3b_829e633a:
 
     # "He paused, as if thinking how to say what he’s going to say next."
-    "他顿了一下，考虑着接下来该讲的事。"
+    "他顿了顿。"
 
 # game/murdochroute3.rpy:3980
 translate Schinese murdochroute3b_1f016153:
@@ -12426,67 +12426,67 @@ translate Schinese murdochroute3b_1f016153:
 translate Schinese murdochroute3b_e9c0adc2:
 
     # mu "\"Like something taken apart and studied, but then put back together wrong, with wrong sizes and proportions.\""
-    mu "\"或者被分割开研究后放回去，却摆错了，大小跟比例都不对。\""
+    mu "\"仿佛被切开研究后拼了回去，可大小和比例都不对。\""
 
 # game/murdochroute3.rpy:3983
 translate Schinese murdochroute3b_7503a8f1:
 
     # m "\"And it’s worked more than once?\""
-    m "\"这成功过好几次吗？\""
+    m "\"还出现过不少次？\""
 
 # game/murdochroute3.rpy:3985
 translate Schinese murdochroute3b_1f16b862:
 
     # mu "\"It always works with enough replications of the same photo.\""
-    mu "\"只要把同一张冲洗够多次就都会有效。\""
+    mu "\"只要一直冲洗，最后总会出现。\""
 
 # game/murdochroute3.rpy:3986
 translate Schinese murdochroute3b_84cb599b:
 
     # mu "\"That’s the only thing I’ve been able to show anybody.\""
-    mu "\"我能展示给其他人的也就这样了。\""
+    mu "\"但我能拿得出手的东西也只有这些了。\""
 
 # game/murdochroute3.rpy:3987
 translate Schinese murdochroute3b_3409946c:
 
     # mu "\"I expect any experiments or demonstrations with light will do the something off given enough trials.\""
-    mu "\"我猜不管什麽跟光有关的实验或操作，只要重複够多次都会出问题。\""
+    mu "\"我猜只要是跟光有关的实验或操作，只要重复足够多次都会出问题。\""
 
 # game/murdochroute3.rpy:3989
 translate Schinese murdochroute3b_3bbe6c74:
 
     # m "\"Have you told anybody about this?\""
-    m "\"这件事你有跟别人讲过吗？\""
+    m "\"你跟别人说过这事吗？\""
 
 # game/murdochroute3.rpy:3990
 translate Schinese murdochroute3b_b7f9f2df:
 
     # mu "\"Ralph and my sisters.\""
-    mu "\"Ralph跟我姊妹。\""
+    mu "\"跟Ralph和我的姐妹说过。\""
 
 # game/murdochroute3.rpy:3991
 translate Schinese murdochroute3b_36f2d74f:
 
     # m "\"How did they react?\""
-    m "\"他们有什麽反应？\""
+    m "\"他们有什么反应？\""
 
 # game/murdochroute3.rpy:3992
 translate Schinese murdochroute3b_5d76dfb4:
 
     # mu "\"Ralph and Dahlia didn’t seem surprised. They were calm.\""
-    mu "\"Ralph跟Dahlia不怎麽意外，淡定得很。\""
+    mu "\"Ralph和Dahlia不以为意。\""
 
 # game/murdochroute3.rpy:3994
 translate Schinese murdochroute3b_f4912f6e:
 
     # mu "\"Holly looked unwell.\""
-    mu "\"Holly则不太舒服。\""
+    mu "\"Holly则显得不太舒服。\""
 
 # game/murdochroute3.rpy:3996
 translate Schinese murdochroute3b_3ef65cf1:
 
     # mu "\"She had quite a few ideas about what was wrong with this place but she wouldn’t share them.\""
-    mu "\"她也有不少关于这里诡异的地方，但不跟我们说。\""
+    mu "\"她对这地方有很多想法，却从不跟我们说。\""
 
 # game/murdochroute3.rpy:3998
 translate Schinese murdochroute3b_10ddfa5d:
@@ -12498,7 +12498,7 @@ translate Schinese murdochroute3b_10ddfa5d:
 translate Schinese murdochroute3b_db2af22f:
 
     # mu "\"If Holly gets her ticket out of Echo, then that will be a good thing for everybody.\""
-    mu "\"假如Holly能如愿离开Echo，对大家都有好处。\""
+    mu "\"若Holly如愿离开回音镇，对大家也有好处。\""
 
 # game/murdochroute3.rpy:4002
 translate Schinese murdochroute3b_22ab2823:
@@ -12510,67 +12510,67 @@ translate Schinese murdochroute3b_22ab2823:
 translate Schinese murdochroute3b_491ebc38:
 
     # mu "\"Probably not.\""
-    mu "\"也未必。\""
+    mu "\"未必。\""
 
 # game/murdochroute3.rpy:4004
 translate Schinese murdochroute3b_7fc994d2:
 
     # mu "\"If they’re going ahead with the wedding there might not be anything to worry about.\""
-    mu "\"本来他们按计画把婚结成的话，就没什麽好担心的了。\""
+    mu "\"如果他们能按计划把婚结成，这事倒也没那么麻烦。\""
 
 # game/murdochroute3.rpy:4005
 translate Schinese murdochroute3b_9bcc1ed3:
 
     # mu "\"But I don’t think they’re going to make up after what happened tonight.\""
-    mu "\"但今晚这件事后，他们大概没法和好了。\""
+    mu "\"但今晚过后，他们多半没法和好了。\""
 
 # game/murdochroute3.rpy:4006
 translate Schinese murdochroute3b_6750523a:
 
     # mu "\"I suppose anything is possible.\""
-    mu "\"现在什麽都有可能发生。\""
+    mu "\"可能会发生各种不测。\""
 
 # game/murdochroute3.rpy:4007
 translate Schinese murdochroute3b_bf281bc4:
 
     # m "\"Why do you care about that so much?\""
-    m "\"你为什麽这麽在意这件事？\""
+    m "\"你为什么这么在意这件事？\""
 
 # game/murdochroute3.rpy:4009
 translate Schinese murdochroute3b_7780b253:
 
     # "He taps his paw pads on his chest."
-    "他用爪心拍着自己胸膛。"
+    "他用手掌拍着自己的胸膛。"
 
 # game/murdochroute3.rpy:4011
 translate Schinese murdochroute3b_43de5d09:
 
     # mu "\"Before I met you, I thought that’s how things were going to be.\""
-    mu "\"遇见你之前，我以为事情就会这样发展。\""
+    mu "\"在遇见你之前，我一直以为事情会这样发展。\""
 
 # game/murdochroute3.rpy:4012
 translate Schinese murdochroute3b_80dc87ed:
 
     # mu "\"Holly and Jim taking over the school and the store as my parents grow past the age that they’re able to.\""
-    mu "\"Holly跟Jim在我父母老了以后继承学校跟店面。\""
+    mu "\"Holly和Jim会在父母退休后继承学校和店面。\""
 
 # game/murdochroute3.rpy:4013
 translate Schinese murdochroute3b_49495b55:
 
     # mu "\"I assumed they’d be together, and I’d always be around with them for whatever they’d need.\""
-    mu "\"以为他们会一直在一起，由我在附近随时听候差遣。\""
+    mu "\"我以为自己会留在他们身边，随时听候他们的差遣。\""
 
 # game/murdochroute3.rpy:4014
 translate Schinese murdochroute3b_de16035c:
 
     # mu "\"But now that there can be more to my life...\""
-    mu "\"但现在我人生有了更多意义……\""
+    mu "\"但现在，我的人生有了更多意义...\""
 
 # game/murdochroute3.rpy:4015
 translate Schinese murdochroute3b_ce1cebba:
 
     # mu "\"Everything just seems to be changing too fast.\""
-    mu "\"一切都改变得太快了。\""
+    mu "\"这一切来得太快了。\""
 
 # game/murdochroute3.rpy:4017
 translate Schinese murdochroute3b_aab2f0e9:
@@ -12588,37 +12588,37 @@ translate Schinese murdochroute3b_461ad442:
 translate Schinese murdochroute3b_61706a8d:
 
     # m "\"Even better than your sister, I’d wager.\""
-    m "\"甚至更胜你姊。\""
+    m "\"甚至更胜你姐。\""
 
 # game/murdochroute3.rpy:4022
 translate Schinese murdochroute3b_6c5b53e3:
 
     # mu "\"I think Jim likes avoiding mutually assured destruction better than either of us in fairness.\""
-    mu "\"Jim应该比我们更希望避免社会性死亡吧。\""
+    mu "\"凭心而论，他也比我们中的任何一个都更害怕社会性死亡。\""
 
 # game/murdochroute3.rpy:4024
 translate Schinese murdochroute3b_a9415bb8:
 
     # m "\"Yeah, that’s fair.\""
-    m "\"那倒也是。\""
+    m "\"这倒是。\""
 
 # game/murdochroute3.rpy:4025
 translate Schinese murdochroute3b_7c947cff:
 
     # m "\"I’m just saying.\""
-    m "\"我只是想说，\""
+    m "\"但我想说-\""
 
 # game/murdochroute3.rpy:4026
 translate Schinese murdochroute3b_4ca4ec4b:
 
     # m "\"If you need something from Jim, you can probably get it.\""
-    m "\"你只要跟Jim开口，他应该都会听你的。\""
+    m "\"-如果是你的请求，他应该会听进去。\""
 
 # game/murdochroute3.rpy:4028
 translate Schinese murdochroute3b_16681e71:
 
     # mu "\"I’ll think about that after things settle a bit.\""
-    mu "\"等这些事过去我再考虑考虑。\""
+    mu "\"等这些事消停了再考虑吧。\""
 
 # game/murdochroute3.rpy:4030
 translate Schinese murdochroute3b_2db5503f:
@@ -12630,19 +12630,19 @@ translate Schinese murdochroute3b_2db5503f:
 translate Schinese murdochroute3b_bd127305:
 
     # m "\"Again, I was just saying.\""
-    m "\"我就是说说而已。\""
+    m "\"我只是说说而已。\""
 
 # game/murdochroute3.rpy:4033
 translate Schinese murdochroute3b_52325fc9:
 
     # mu "\"I like you way better than Jim.\""
-    mu "\"比起Jim我更喜欢你。\""
+    mu "\"比起Jim，我更喜欢你。\""
 
 # game/murdochroute3.rpy:4034
 translate Schinese murdochroute3b_8b4f83c1:
 
     # "He bends down to kiss me on the whiskers."
-    "他低头吻在我鬍鬚上。"
+    "他低头吻在我胡须上。"
 
 # game/murdochroute3.rpy:4035
 translate Schinese murdochroute3b_b9546ccd:
@@ -12654,37 +12654,37 @@ translate Schinese murdochroute3b_b9546ccd:
 translate Schinese murdochroute3b_fcc178f4:
 
     # "He looks at the tent sheet I’m making with his bed sheets."
-    "他盯着我在他被子撑起的帐篷。"
+    "他看着我撑起来的被单帐篷。"
 
 # game/murdochroute3.rpy:4039
 translate Schinese murdochroute3b_3abd256d:
 
     # mu "\"I’d offer to help you with that, but I’m exhausted.\""
-    mu "\"我是很想帮你处理一下，但我已经累死了。\""
+    mu "\"我是想帮你处理一下，但我很累了。\""
 
 # game/murdochroute3.rpy:4040
 translate Schinese murdochroute3b_eecb01fe:
 
     # m "\"You wouldn’t mind if I used my hand to get rid of it?\""
-    m "\"你不介意我用自己的手处理吧？\""
+    m "\"我可以用自己的手处理，如果你不介意的话？\""
 
 # game/murdochroute3.rpy:4042
 translate Schinese murdochroute3b_d43c450e:
 
     # mu "\"Far from the first time that’s happened in this bed.\""
-    mu "\"这床上都不知道发生过几回了。\""
+    mu "\"这张床早就见惯这种事了。\""
 
 # game/murdochroute3.rpy:4044
 translate Schinese murdochroute3b_33313e42:
 
     # mu "\"Just make sure you clean up after.\""
-    mu "\"弄完记得清理就行。\""
+    mu "\"弄完记得清理干净就行。\""
 
 # game/murdochroute3.rpy:4048
 translate Schinese murdochroute3b_a6f07164:
 
     # "When I’m stressed out it doesn’t take too long to finish."
-    "我压力很大的时候用不了多久就完事。"
+    "我在压力大的时候很快就能完事。"
 
 # game/murdochroute3.rpy:4049
 translate Schinese murdochroute3b_73bf9d8d:
@@ -12702,7 +12702,7 @@ translate Schinese murdochroute3b_e7b0801a:
 translate Schinese murdochroute3b_73ad880d:
 
     # "I shimmy the side of the bed and pluck one from the end table, and start to wipe myself off."
-    "我挪到床边，从床头柜下抽出一条，擦淨身子。"
+    "我挪到床边，从床头柜下抽出抹布，擦干净身子。"
 
 # game/murdochroute3.rpy:4055
 translate Schinese murdochroute3b_1dfc7b4e:
@@ -12720,7 +12720,7 @@ translate Schinese murdochroute3b_68787a74:
 translate Schinese murdochroute3b_4fb1c0c9:
 
     # mu "\"Let’s go to bed and get tomorrow over with as soon as possible, so I’ll have the energy to swallow the next time you need to shoot.\""
-    mu "\"差不多该睡了，赶紧过完明天，下次你想射我就有精神帮你吞掉了。\""
+    mu "\"是时候睡觉了，赶紧过完明天，这样下次我就有精神帮你吞掉了。\""
 
 # game/murdochroute3.rpy:4059
 translate Schinese murdochroute3b_d9cfbabd:
@@ -12732,19 +12732,19 @@ translate Schinese murdochroute3b_d9cfbabd:
 translate Schinese murdochroute3b_c49797ca:
 
     # mu "\"You’re kidding me.\""
-    mu "\"你不是吧。\""
+    mu "\"不是吧。\""
 
 # game/murdochroute3.rpy:4062
 translate Schinese murdochroute3b_40fc9a5f:
 
     # m "\"I don’t need to go again, it’ll get soft if we just ignore it.\""
-    m "\"也不用再来一次，不理它就会自己软了。\""
+    m "\"不用管，一会就软了。\""
 
 # game/murdochroute3.rpy:4064
 translate Schinese murdochroute3b_39202cdc:
 
     # mu "\"But you could, couldn’t you?\""
-    mu "\"但你行吧？\""
+    mu "\"不过你还行吧？\""
 
 # game/murdochroute3.rpy:4066
 translate Schinese murdochroute3b_55601968:
@@ -12756,7 +12756,7 @@ translate Schinese murdochroute3b_55601968:
 translate Schinese murdochroute3b_1412e8c1:
 
     # m "\"But yeah, I could.\""
-    m "\"不过确实是行。\""
+    m "\"虽然确实行。\""
 
 # game/murdochroute3.rpy:4069
 translate Schinese murdochroute3b_c1e55c0c:
@@ -12768,7 +12768,7 @@ translate Schinese murdochroute3b_c1e55c0c:
 translate Schinese murdochroute3b_30d80d2f:
 
     # m "\"I mean it would be bad if I {i}couldn’t{/i}, right?\""
-    m "\"如果{i}不行{/i}才有问题吧？\""
+    m "\"{b}不行{/b}的人才有问题吧？\""
 
 # game/murdochroute3.rpy:4072
 translate Schinese murdochroute3b_cefd5467:
@@ -12780,43 +12780,43 @@ translate Schinese murdochroute3b_cefd5467:
 translate Schinese murdochroute3b_3be36b9f:
 
     # m "\"...right.\""
-    m "\"……好喔。\""
+    m "\"...好。\""
 
 # game/murdochroute3.rpy:4074
 translate Schinese murdochroute3b_f68cfca4:
 
     # "I look down."
-    "我低头看。"
+    "我低头一看。"
 
 # game/murdochroute3.rpy:4075
 translate Schinese murdochroute3b_ae9765bb:
 
     # "Still hard."
-    "还硬着。"
+    "还是很硬。"
 
 # game/murdochroute3.rpy:4076
 translate Schinese murdochroute3b_db840485:
 
     # "Murdoch’s eyes are closed but I can see the corner of his muzzle curling into a grin."
-    "Murdoch眼睛是闭着的，但他嘴角捲成了奸笑。"
+    "Murdoch闭着眼睛，但嘴角微微上翘。"
 
 # game/murdochroute3.rpy:4077
 translate Schinese murdochroute3b_81f1a956:
 
     # "It would be hard for me to have any sort of smile after going through the day that he’s been through."
-    "换作是我经历了他这一天，我一定很难再堆出笑容。"
+    "换作是我经历了他这一天，我一定笑不出来。"
 
 # game/murdochroute3.rpy:4078
 translate Schinese murdochroute3b_c24046a4:
 
     # "But I know now that he’s used to the habit of smiling."
-    "但我知道他会习惯性地笑着。"
+    "但我知道，笑容是他的习惯。"
 
 # game/murdochroute3.rpy:4079
 translate Schinese murdochroute3b_c47842b5:
 
     # "I just hope it helps him sleep well tonight."
-    "但愿这能让他今晚好眠。"
+    "愿他今晚好梦吧。"
 
 # game/murdochroute3.rpy:4083
 translate Schinese murdochroute3b_4d35758c:
@@ -12828,25 +12828,25 @@ translate Schinese murdochroute3b_4d35758c:
 translate Schinese murdochroute3b_691862fa:
 
     # "But I didn’t."
-    "但却没有。"
+    "但并没有。"
 
 # game/murdochroute3.rpy:4085
 translate Schinese murdochroute3b_8930404f:
 
     # "I haven’t heard from any voices lately either."
-    "也没再听见声音了。"
+    "也没听见其他声音。"
 
 # game/murdochroute3.rpy:4086
 translate Schinese murdochroute3b_790c4f7d:
 
     # "But that doesn’t make me feel any better."
-    "可是感觉还是不怎麽好。"
+    "可我并不好受。"
 
 # game/murdochroute3.rpy:4089
 translate Schinese murdochroute3b_37d5f138:
 
     # "Part of me wished I could hear them again, just to remind myself how wrong everything feels about this morning."
-    "我有点想再听听那些声音，好提醒自己今早一切都不对劲。"
+    "我有点期待听到那些声音，好提醒自己今早的一切都不对劲。"
 
 # game/murdochroute3.rpy:4090
 translate Schinese murdochroute3b_f1128777:
@@ -12858,67 +12858,67 @@ translate Schinese murdochroute3b_f1128777:
 translate Schinese murdochroute3b_f52a42ab:
 
     # "Ralph put on a kettle on the stove and we can hear it whistling."
-    "Ralph放在炉上的水壶烧开的声音作响。"
+    "Ralph放在炉上烧的水壶吹响了口哨。"
 
 # game/murdochroute3.rpy:4093
 translate Schinese murdochroute3b_ad7f0a8c:
 
     # "We’re all going about the motions in silence as if it were an ordinary day."
-    "我们的举止犹如日常的每一天。"
+    "我们相顾无言，仿佛这只是寻常的每一天。"
 
 # game/murdochroute3.rpy:4095
 translate Schinese murdochroute3b_9706531e:
 
     # "Murdoch heads to the door, but Ralph stops him before he can squeeze the handle."
-    "Murdoch走向门口，但Ralph在他转动门把前把他叫住。"
+    "Murdoch走到门前，被Ralph叫住了。"
 
 # game/murdochroute3.rpy:4101
 translate Schinese murdochroute3b_3cd643de:
 
     # ra "\"Going so soon?\""
-    ra "\"走得这麽赶？\""
+    ra "\"这么急？\""
 
 # game/murdochroute3.rpy:4103
 translate Schinese murdochroute3b_bd3b95b7:
 
     # mu "\"I want to be at the house early to make sure there aren’t any unnecessary setbacks.\""
-    mu "\"我想早点到家，以免临时出什麽岔子。\""
+    mu "\"我想早点回家，以免出什么岔子。\""
 
 # game/murdochroute3.rpy:4105
 translate Schinese murdochroute3b_5d4b7250:
 
     # m "\"We ain't even had breakfast.\""
-    m "\"连早餐都还没吃呢。\""
+    m "\"连早饭都不吃了。\""
 
 # game/murdochroute3.rpy:4107
 translate Schinese murdochroute3b_dfc501ba:
 
     # mu "\"Please don’t worry on my behalf.\""
-    mu "\"不用顾虑我。\""
+    mu "\"你们不用顾虑我。\""
 
 # game/murdochroute3.rpy:4109
 translate Schinese murdochroute3b_20300b5f:
 
     # mu "\"You should both eat.\""
-    mu "\"你们吃吧。\""
+    mu "\"自己吃吧。\""
 
 # game/murdochroute3.rpy:4111
 translate Schinese murdochroute3b_2ad0a63c:
 
     # mu "\"I’ll find something small at the house if I grow peckish.\""
-    mu "\"我饿了会在家里随便吃点什麽的。\""
+    mu "\"我饿了会在家里随便找点东西吃。\""
 
 # game/murdochroute3.rpy:4114
 translate Schinese murdochroute3b_f650321e:
 
     # "He leaves before Ralph can interrupt him."
-    "Ralph都来不及插话他就走了。"
+    "Ralph都来不及插话，他就走了。"
 
 # game/murdochroute3.rpy:4116
 translate Schinese murdochroute3b_61a740df:
 
     # "Ralph puts his glass down and looks at me."
-    "Ralph放下手中玻璃杯，看着我。"
+    "Ralph放下手里的玻璃杯，看着我。"
 
 # game/murdochroute3.rpy:4117
 translate Schinese murdochroute3b_df8ec4bc:
@@ -12930,13 +12930,13 @@ translate Schinese murdochroute3b_df8ec4bc:
 translate Schinese murdochroute3b_93794ecf:
 
     # ra "\"Bit of a bad notion to suggest he keeps Jim wrapped around his finger, ain’t it?\""
-    ra "\"提议他把Jim玩弄于股掌上有点不上道吧？\""
+    ra "\"你让他控制Jim，这不太好吧？\""
 
 # game/murdochroute3.rpy:4120
 translate Schinese murdochroute3b_6dda84c9:
 
     # "I sip the glass of water I’ve been given."
-    "我啜了一口他递上来的水。"
+    "我抿了口他递过来的水。"
 
 # game/murdochroute3.rpy:4121
 translate Schinese murdochroute3b_ab80b2d8:
@@ -12948,31 +12948,31 @@ translate Schinese murdochroute3b_ab80b2d8:
 translate Schinese murdochroute3b_4287c9fc:
 
     # m "\"Might as well cut in with your good ideas then since you can hear everything on the other side of the wall.\""
-    m "\"那你倒是给点好意见啊，反正你都从牆的另一边听到了。\""
+    m "\"那你倒是来点高见啊，反正你都从墙的另一边听到了。\""
 
 # game/murdochroute3.rpy:4124
 translate Schinese murdochroute3b_4d7bef6f:
 
     # m "\"What else can he do?\""
-    m "\"他还有什麽选择？\""
+    m "\"他还有选择吗？\""
 
 # game/murdochroute3.rpy:4126
 translate Schinese murdochroute3b_5d5d1e4e:
 
     # ra "\"He should have called the bluff.\""
-    ra "\"他应该戳破那个虚张声势。\""
+    ra "\"他应该戳破他姐的虚张声势。\""
 
 # game/murdochroute3.rpy:4128
 translate Schinese murdochroute3b_4eeb8860:
 
     # m "\"It ain’t no bluff.\""
-    m "\"那才不是虚张声势好吗。\""
+    m "\"那才不是虚张声势。\""
 
 # game/murdochroute3.rpy:4129
 translate Schinese murdochroute3b_c1247e51:
 
     # m "\"I’ve seen the evidence.\""
-    m "\"我看过证据。\""
+    m "\"我看过证据了。\""
 
 # game/murdochroute3.rpy:4130
 translate Schinese murdochroute3b_878c0c92:
@@ -12984,7 +12984,7 @@ translate Schinese murdochroute3b_878c0c92:
 translate Schinese murdochroute3b_f310450b:
 
     # ra "\"Because she wants to convince you that she has the power to make that call.\""
-    ra "\"那是她想给你们一种她能做出那种事的印象。\""
+    ra "\"那是她想让你们相信，她有做出那种事的魄力。\""
 
 # game/murdochroute3.rpy:4133
 translate Schinese murdochroute3b_fb082c65:
@@ -12996,67 +12996,67 @@ translate Schinese murdochroute3b_fb082c65:
 translate Schinese murdochroute3b_41201d8c:
 
     # ra "\"The last thing Holly Byrnes wants to do is look as though she failed her mother.\""
-    ra "\"Holly Byrnes最不想要的就是让她妈失望。\""
+    ra "\"Holly Byrnes最不希望的就是让她妈失望。\""
 
 # game/murdochroute3.rpy:4135
 translate Schinese murdochroute3b_d2458631:
 
     # ra "\"If those pictures get out, she loses what she’s worked for for years.\""
-    ra "\"那些照片如果被爆出去，她多年来的心血就全白费了。\""
+    ra "\"如果照片被曝光，她多年来的处心积虑就全白费了。\""
 
 # game/murdochroute3.rpy:4137
 translate Schinese murdochroute3b_52c9c43b:
 
     # ra "\"And the blame will come down on her too. She knows that.\""
-    ra "\"她自己也会被怪罪，她很清楚。\""
+    ra "\"她自己也会沦为众矢之的，这点她再清楚不过。\""
 
 # game/murdochroute3.rpy:4138
 translate Schinese murdochroute3b_07cef2e6:
 
     # m "\"Still too much of a risk for anybody to tell her no.\""
-    m "\"但要抵抗她，风险还是太大了。\""
+    m "\"但要反抗她，风险还是太大了。\""
 
 # game/murdochroute3.rpy:4140
 translate Schinese murdochroute3b_b798bdf2:
 
     # ra "\"Which is the kind of explanation somebody like her will count on...\""
-    ra "\"这就正中了她的下怀……\""
+    ra "\"这正中了她的下怀啊...\""
 
 # game/murdochroute3.rpy:4142
 translate Schinese murdochroute3b_61496d00:
 
     # ra "\"I don’t know what’s worse.\""
-    ra "\"很难说哪边更糟。\""
+    ra "\"我不好说哪边更糟。\""
 
 # game/murdochroute3.rpy:4143
 translate Schinese murdochroute3b_0e941097:
 
     # ra "\"How pitifully shallow this little scheme is, or the fact that she knew everybody would perform for it.\""
-    ra "\"是设的这局肤浅得可悲呢，还是她知道大家都会陪她演下去呢。\""
+    ra "\"是这局肤浅得可悲呢，还是她知道大家都会陪她演下去。\""
 
 # game/murdochroute3.rpy:4144
 translate Schinese murdochroute3b_6c23d913:
 
     # m "\"Why try when something works?\""
-    m "\"她这样就有效，哪还有必要试其他的方法？\""
+    m "\"既然有可靠的方法，又何必再犯险呢？\""
 
 # game/murdochroute3.rpy:4146
 translate Schinese murdochroute3b_03d4dda2:
 
     # ra "\"Because it wouldn’t if he could escape them.\""
-    ra "\"因为如果他跑了就没效了。\""
+    ra "\"因为他明明可以一走了之。\""
 
 # game/murdochroute3.rpy:4148
 translate Schinese murdochroute3b_f137e800:
 
     # ra "\"We both know by now he needs to stop depending on this family, or else they will use up everything he is and leave nothing left.\""
-    ra "\"你我都心知肚明，他不能再依赖家人了，否则会被榨得一点不剩。\""
+    ra "\"你我都心知肚明，他需要远离那个家庭，否则他们迟早会把他吃干抹净，什么也不剩下。\""
 
 # game/murdochroute3.rpy:4150
 translate Schinese murdochroute3b_564f16fa:
 
     # ra "\"And here you are telling him to lean into that?\""
-    ra "\"你却还叫他再接再厉？\""
+    ra "\"现在你反而叫他跳回火坑里去？\""
 
 # game/murdochroute3.rpy:4152
 translate Schinese murdochroute3b_49fbc6bf:
@@ -13068,97 +13068,97 @@ translate Schinese murdochroute3b_49fbc6bf:
 translate Schinese murdochroute3b_8619f2c6:
 
     # "I shrug."
-    "我耸肩。"
+    "我耸耸肩。"
 
 # game/murdochroute3.rpy:4154
 translate Schinese murdochroute3b_c806ebc0:
 
     # m "\"Yeah.\""
-    m "\"对啊。\""
+    m "\"就是这样。\""
 
 # game/murdochroute3.rpy:4155
 translate Schinese murdochroute3b_53c2a851:
 
     # m "\"If there ain’t no way to stop them usin’ him, might as well learn to use them back, right?\""
-    m "\"既然没办法阻止他家人利用他，也只能反过来利用他们了吧？\""
+    m "\"既然没办法阻止他的家人利用他，不如反过来利用他们，不是吗？\""
 
 # game/murdochroute3.rpy:4157
 translate Schinese murdochroute3b_c3b8c0ba:
 
     # ra "\"Wrong.\""
-    ra "\"错。\""
+    ra "\"错了。\""
 
 # game/murdochroute3.rpy:4158
 translate Schinese murdochroute3b_5fe12639:
 
     # ra "\"Holly’s sloppy but do you think the same could be said of their mother?\""
-    ra "\"Holly是很马虎，但他们的妈呢？\""
+    ra "\"Holly是很马虎，可他们的妈呢？\""
 
 # game/murdochroute3.rpy:4159
 translate Schinese murdochroute3b_bf279850:
 
     # ra "\"He needs to establish his boundaries, not stretch his own further.\""
-    ra "\"他得划好底线，不能只是一味扩展。\""
+    ra "\"他必须坚守自己的底线，而不是反过来。\""
 
 # game/murdochroute3.rpy:4161
 translate Schinese murdochroute3b_b01a897d:
 
     # ra "\"He might be uncomfortable first, but that’s part of why they push him so hard; they know he’ll allow it.\""
-    ra "\"一开始或许会有牴触，但这就是他们得寸进尺的主因；他们都知道他会逆来顺受。\""
+    ra "\"一开始或许会有抵触，但这就是他们得寸进尺的主因：他们都知道他会逆来顺受。\""
 
 # game/murdochroute3.rpy:4163
 translate Schinese murdochroute3b_53a9073b:
 
     # ra "\"Because he’s comfortable with that position.\""
-    ra "\"因为他甘愿处于那个位置。\""
+    ra "\"因为他甘愿待在那个位置。\""
 
 # game/murdochroute3.rpy:4165
 translate Schinese murdochroute3b_e4f5062e:
 
     # m "\"If you think he’s doing everything wrong then why are you still sticking around?\""
-    m "\"既然你觉得他所有选择都是错的，你自己又何必留下来？\""
+    m "\"你既然觉得他所有的选择都是错的，自己又何必留下来？\""
 
 # game/murdochroute3.rpy:4167
 translate Schinese murdochroute3b_0cd4390c:
 
     # ra "\"Because I’ve still got a profitable setup here and I still need to save up.\""
-    ra "\"因为我待在这有钱赚，还要好好存钱。\""
+    ra "\"因为这里有钱赚，我得存钱。\""
 
 # game/murdochroute3.rpy:4169
 translate Schinese murdochroute3b_149d4837:
 
     # ra "\"That means playing a song and dance on occasion for these delusional people.\""
-    ra "\"偶尔陪这些疯子表演一下也还行。\""
+    ra "\"我可以接受偶尔陪那些疯子们玩一下。\""
 
 # game/murdochroute3.rpy:4171
 translate Schinese murdochroute3b_df4200da:
 
     # ra "\"They don’t bother {i}me{/i} much when I tell them no.\""
-    ra "\"我懂得说不，他们也不怎麽会来烦{i}我{/i}。\""
+    ra "\"我懂得说不，他们也不怎么来烦{b}我{/b}。\""
 
 # game/murdochroute3.rpy:4173
 translate Schinese murdochroute3b_8107560a:
 
     # ra "\"But Murdoch is in a position where he can’t without a blowup.\""
-    ra "\"但Murdoch的处境可不允许自爆。\""
+    ra "\"但Murdoch的处境不允许他爆发。\""
 
 # game/murdochroute3.rpy:4175
 translate Schinese murdochroute3b_5e66c488:
 
     # ra "\"I say we’re well overdue for a blowup, and I can’t even guarantee I’m the one who’s gonna do it first.\""
-    ra "\"我俩早就该爆发了，是谁会先还真不好说呢。\""
+    ra "\"我们俩早就该来一场大爆发了，是谁先还真不好说呢。\""
 
 # game/murdochroute3.rpy:4177
 translate Schinese murdochroute3b_04fdf0c5:
 
     # "I stand up to intimidate him but he doesn’t flinch."
-    "我站起来威吓他，但他没有退缩。"
+    "我站起来警告他，但他没有退缩。"
 
 # game/murdochroute3.rpy:4179
 translate Schinese murdochroute3b_3a2dcc2a:
 
     # ra "\"I’ll give you a day but I won’t give you forever.\""
-    ra "\"我能给你一两天的时间，但不是无限的。\""
+    ra "\"我会给你一两天的时间，但下次你就没这么好运了。\""
 
 # game/murdochroute3.rpy:4181
 translate Schinese murdochroute3b_b2650771:
@@ -13170,43 +13170,43 @@ translate Schinese murdochroute3b_b2650771:
 translate Schinese murdochroute3b_e0bffa21:
 
     # "I scarf down the fried egg on my plate in three bites, leave on the counter, and turn my back on him, headed toward the door."
-    "我三口就把盘上煎蛋吞掉，把盘子放檯上后转身背对他，走向门口。"
+    "我三口吞掉煎蛋，把盘子放在灶台上，然后背对着他朝门口走去。"
 
 # game/murdochroute3.rpy:4185
 translate Schinese murdochroute3b_095b3c6c:
 
     # "When I’m outside it takes most of my restraint not to slam it closed."
-    "踏出门后，我用上全部自制力才没把门甩上。"
+    "我极力克制自己不把门甩上。"
 
 # game/murdochroute3.rpy:4187
 translate Schinese murdochroute3b_bcf01092:
 
     # "The fuckin’ gall."
-    "妈的混帐。"
+    "狗娘养的。"
 
 # game/murdochroute3.rpy:4189
 translate Schinese murdochroute3b_695305a7:
 
     # "Everybody I meet as of late seems to think they’re an unstoppable force, but it’s like they’re blind and can’t see that they keep bouncing into one another."
-    "最近遇到的每个人都觉得自己无人能挡，彷彿没看到他们几个不断撞在一起的样子。"
+    "最近遇到的每个人都觉得自己天下无敌，他们是有多瞎才看不到他们几个勾心斗角的丑样。"
 
 # game/murdochroute3.rpy:4191
 translate Schinese murdochroute3b_ed426157:
 
     # "Murdoch {i}has{/i} been setting more boundaries."
-    "Murdoch{i}是有{/i}在划更多底线。"
+    "Murdoch{b}有在{/b}坚持自己的底线。"
 
 # game/murdochroute3.rpy:4192
 translate Schinese murdochroute3b_5aa35da5:
 
     # "He’s been {i}trying{/i}."
-    "他有在{i}努力{/i}。"
+    "他有在{b}努力{/b}。"
 
 # game/murdochroute3.rpy:4193
 translate Schinese murdochroute3b_dc4f64bd:
 
     # "But where’s he gonna go if everything goes sideways?"
-    "可如果事情出岔子他要怎麽办？"
+    "可万一出了岔子，他又该怎么办？"
 
 # game/murdochroute3.rpy:4194
 translate Schinese murdochroute3b_188c7d55:
@@ -13218,43 +13218,43 @@ translate Schinese murdochroute3b_188c7d55:
 translate Schinese murdochroute3b_9bb649ce:
 
     # "I’m not used to bein’ up so early that it’s still dark."
-    "我不常起这麽早，天都还是黑的。"
+    "蒙蒙的天色令我有些陌生。"
 
 # game/murdochroute3.rpy:4199
 translate Schinese murdochroute3b_97960c3f:
 
     # "I knock on the door and wait."
-    "我敲了门后等在原地。"
+    "我敲了敲门，站在原地等待。"
 
 # game/murdochroute3.rpy:4201
 translate Schinese murdochroute3b_7cf22337:
 
     # "I expect one of Murdoch’s parents or the siblings to greet me."
-    "以为会是Murdoch父母或姊妹开门。"
+    "本以为会是Murdoch父母或姐妹。"
 
 # game/murdochroute3.rpy:4203
 translate Schinese murdochroute3b_fc98c9e3:
 
     # "But I’m staring at the face of a stranger."
-    "但映入眼帘的面孔很陌生。"
+    "映入眼帘的却是张陌生面孔。"
 
 # game/murdochroute3.rpy:4204
 translate Schinese murdochroute3b_f45cf508:
 
     # "She’s a fox, but her fur is gray, and she’s wrapped mostly in scarves."
-    "她是狐狸，但毛发是灰色的，披巾照着全身。"
+    "她是只狐狸，但毛色发灰，全身上下都裹着披巾。"
 
 # game/murdochroute3.rpy:4205
 translate Schinese murdochroute3b_9ad02e51:
 
     # "She teeters back and forth as she moves, and squints through her glasses when she looks at my face."
-    "她摇摇欲坠，眯眼透过眼镜看我。"
+    "她步履蹒跚，眼镜后面的眼睛眯成一条缝。"
 
 # game/murdochroute3.rpy:4207
 translate Schinese murdochroute3b_32c1968f:
 
     # ciunk "\"Socks told me there might be somebody else coming.\""
-    ciunk "\"小袜是有跟我提过有其他人会来。\""
+    ciunk "\"倒是听小袜说过会有其他人来。\""
 
 # game/murdochroute3.rpy:4209
 translate Schinese murdochroute3b_0ae6a728:
@@ -13266,37 +13266,37 @@ translate Schinese murdochroute3b_0ae6a728:
 translate Schinese murdochroute3b_58792185:
 
     # "I think that’s the nickname Ralph called Murdoch once, but it’s strange hearing a stranger say it."
-    "好像听Ralph这样叫过Murdoch一次，但听陌生人这样叫感觉还真怪。"
+    "印象里是Ralph给Murdoch起的外号，但从一个陌生人嘴里听到还真怪。"
 
 # game/murdochroute3.rpy:4213
 translate Schinese murdochroute3b_3009ff13:
 
     # cig "\"You’re one of his friends, yes?\""
-    cig "\"你是他朋友吧？\""
+    cig "\"你是他的朋友吧？\""
 
 # game/murdochroute3.rpy:4215
 translate Schinese murdochroute3b_311bc4dd:
 
     # m "\"...yeah.\""
-    m "\"……对。\""
+    m "\"...是的。\""
 
 # game/murdochroute3.rpy:4217
 translate Schinese murdochroute3b_1ee5f537:
 
     # "She turns and starts hobbling away, deeper inside the house."
-    "她转身蹒跚走进房子深处。"
+    "她转身，一步一摇地走进房子深处。"
 
 # game/murdochroute3.rpy:4219
 translate Schinese murdochroute3b_6f3bc036:
 
     # cig "\"Come on into my living room.\""
-    cig "\"来我的客厅吧。\""
+    cig "\"跟我来我的客厅吧。\""
 
 # game/murdochroute3.rpy:4222
 translate Schinese murdochroute3b_031da511:
 
     # "There’s something about this woman that gives me hard to place feelings."
-    "这女人给我一种难以言喻的感觉。"
+    "这女人给我一种说不清道不明的感觉。"
 
 # game/murdochroute3.rpy:4224
 translate Schinese murdochroute3b_571c9979:
@@ -13320,31 +13320,31 @@ translate Schinese murdochroute3b_4a80163d:
 translate Schinese murdochroute3b_4b5478da:
 
     # "You can’t help but feel like you’re walking in on something that’s been here before you were born and will be here long after."
-    "不禁觉得撞见了某种在自己出生前早已树立的存在。"
+    "不禁觉得自己撞见了某种古老、长久的存在。"
 
 # game/murdochroute3.rpy:4233
 translate Schinese murdochroute3b_24474cdc:
 
     # "That’s not to say I think this old woman will outlive me."
-    "当然也不表示这女人会活得比我长。"
+    "当然，这不表示这女人会活得比我长。"
 
 # game/murdochroute3.rpy:4235
 translate Schinese murdochroute3b_4bd238df:
 
     # "But she has a big presence that makes me feel like mine is shrinking in the shadow of her footsteps."
-    "但散发出的存在感令我感到自己只能缩在她影子里。"
+    "但她强烈的存在感令我只能望而却步。"
 
 # game/murdochroute3.rpy:4238
 translate Schinese murdochroute3b_2a1f1539:
 
     # m "\"I notice you mentioned that this is your living room.\""
-    m "\"我刚才好像听到妳说这客厅是妳的。\""
+    m "\"你刚才好像说客厅是你的。\""
 
 # game/murdochroute3.rpy:4239
 translate Schinese murdochroute3b_60421166:
 
     # m "\"Don’t this place belong to Gretchen and Alfred?\""
-    m "\"这房子不是Gretchen跟Alfred的吗？\""
+    m "\"但这不是Gretchen和Alfred的房子吗？\""
 
 # game/murdochroute3.rpy:4241
 translate Schinese murdochroute3b_d1e2a602:
@@ -13356,13 +13356,13 @@ translate Schinese murdochroute3b_d1e2a602:
 translate Schinese murdochroute3b_b216cee0:
 
     # cig "\"Not without my money.\""
-    cig "\"靠的还是我的钱。\""
+    cig "\"少了我的钱，他们也建不起来。\""
 
 # game/murdochroute3.rpy:4245
 translate Schinese murdochroute3b_4a7fa3a1:
 
     # m "\"But you don’t live out here, do you?\""
-    m "\"但妳不住这里吧。\""
+    m "\"你应该不住这里吧？\""
 
 # game/murdochroute3.rpy:4247
 translate Schinese murdochroute3b_309c7c75:
@@ -13374,19 +13374,19 @@ translate Schinese murdochroute3b_309c7c75:
 translate Schinese murdochroute3b_d77052e0:
 
     # cig "\"I only visit for critical family matters.\""
-    cig "\"我只在有家庭要事的时候来。\""
+    cig "\"我过来只为一件事，出席家庭要务。\""
 
 # game/murdochroute3.rpy:4249
 translate Schinese murdochroute3b_6ad6a4ae:
 
     # cig "\"Living here an act of hubris.\""
-    cig "\"住在这太狂妄了。\""
+    cig "\"只有不知天高地厚的人才会在这里扎根。\""
 
 # game/murdochroute3.rpy:4250
 translate Schinese murdochroute3b_8e276052:
 
     # cig "\"A perfect challenge for my daughter.\""
-    cig "\"对我女儿是个绝佳挑战。\""
+    cig "\"我女儿就偏要挑战。\""
 
 # game/murdochroute3.rpy:4251
 translate Schinese murdochroute3b_9db9472d:
@@ -13398,19 +13398,19 @@ translate Schinese murdochroute3b_9db9472d:
 translate Schinese murdochroute3b_bf97b0c1:
 
     # cig "\"Doesn’t she know the soil’s bad?\""
-    cig "\"她难道不知道这里土地不好吗？\""
+    cig "\"她难道不知道这里是怎样一片不毛之地吗？\""
 
 # game/murdochroute3.rpy:4253
 translate Schinese murdochroute3b_cf897bb9:
 
     # "She says that like it’s obvious."
-    "她说得好像这很明显一样。"
+    "她说得好像这人尽皆知一样。"
 
 # game/murdochroute3.rpy:4254
 translate Schinese murdochroute3b_ec724b71:
 
     # m "\"Do you mean the roses?\""
-    m "\"妳是在说那些玫瑰吗？\""
+    m "\"您是在说那些玫瑰吗？\""
 
 # game/murdochroute3.rpy:4255
 translate Schinese murdochroute3b_af41e661:
@@ -13428,67 +13428,67 @@ translate Schinese murdochroute3b_66c3ca4e:
 translate Schinese murdochroute3b_7ed0764f:
 
     # cig "\"No, no, not the roses...\""
-    cig "\"不不不，不是指玫瑰……\""
+    cig "\"不，不...\""
 
 # game/murdochroute3.rpy:4258
 translate Schinese murdochroute3b_97258e8c:
 
     # cig "\"Though roses of all things.\""
-    cig "\"但居然偏偏是玫瑰。\""
+    cig "\"不过，他们居然种了玫瑰啊。\""
 
 # game/murdochroute3.rpy:4259
 translate Schinese murdochroute3b_a414c23c:
 
     # cig "\"In the desert.\""
-    cig "\"在这种沙漠里。\""
+    cig "\"偏偏在沙漠里种玫瑰。\""
 
 # game/murdochroute3.rpy:4260
 translate Schinese murdochroute3b_896f109a:
 
     # "She pokes at the logs in the fireplace to kick up the ember."
-    "她戳了戳火炉里的木头，掀起馀烬。"
+    "她戳了戳壁炉里的木头，把余烬掀到一边。"
 
 # game/murdochroute3.rpy:4261
 translate Schinese murdochroute3b_24e722ef:
 
     # cig "\"Now there’s an eternal conquest.\""
-    cig "\"这倒是种永久性的征服。\""
+    cig "\"这倒是一种永久性的征服。\""
 
 # game/murdochroute3.rpy:4262
 translate Schinese murdochroute3b_37bf3fd9:
 
     # "Then she puts another piece of firewood down."
-    "然后又放了一块木柴。"
+    "接着又放了一块木柴。"
 
 # game/murdochroute3.rpy:4263
 translate Schinese murdochroute3b_26407ef4:
 
     # cig "\"But enough about plants.\""
-    cig "\"植物说得够多了。\""
+    cig "\"植物就聊到这里吧。\""
 
 # game/murdochroute3.rpy:4264
 translate Schinese murdochroute3b_9e57499d:
 
     # cig "\"I meant a common kind of sense that isn’t so common any more.\""
-    cig "\"我刚才说的是一种常识，但不再普及了。\""
+    cig "\"我刚才说的是一种不再普遍的常识。\""
 
 # game/murdochroute3.rpy:4265
 translate Schinese murdochroute3b_68e1f572:
 
     # cig "\"Everybody should know that if you want to live in a place with good soil, you need good will and good people.\""
-    cig "\"人们都该知道，要想生活在好的土地上，就得要有良善的念想跟人群。\""
+    cig "\"人们都该知道，一片好的土地离不开内心良善之人。\""
 
 # game/murdochroute3.rpy:4266
 translate Schinese murdochroute3b_6b45e225:
 
     # cig "\"Usually to do that, you and your family’s family had to treat the place right for a long time, but sometimes folks get lucky with their neighbors and there’s plenty of harmony to go around already.\""
-    cig "\"通常来说，这得要以家庭为单位长时间好好对待那块地，虽说有时候能幸运遇上好邻居，沾他们的福气。\""
+    cig "\"要做到这一点，得以家庭为单位，长时间善待那块地。虽说偶尔能够有幸遇到好邻居，沾他们的福气。\""
 
 # game/murdochroute3.rpy:4267
 translate Schinese murdochroute3b_13a93ec3:
 
     # cig "\"If a place is convivial due to the good will and the care of the people, you can plant roots that spread deep.\""
-    cig "\"一块地被良善的念想跟人们培育好后，就适合生根茁壮了。\""
+    cig "\"被善意与欢笑浇灌后，那块地就适合生根茁壮了。\""
 
 # game/murdochroute3.rpy:4268
 translate Schinese murdochroute3b_64cafb2c:
@@ -13500,31 +13500,31 @@ translate Schinese murdochroute3b_64cafb2c:
 translate Schinese murdochroute3b_b9d9105f:
 
     # "She looks around her and shakes her head."
-    "她环顾四周，直摇头。"
+    "她环顾四周，摇了摇头。"
 
 # game/murdochroute3.rpy:4270
 translate Schinese murdochroute3b_72fa0769:
 
     # cig "\"You can probably see what I mean.\""
-    cig "\"估计你也看得出我的意思。\""
+    cig "\"你应该明白我的意思吧？\""
 
 # game/murdochroute3.rpy:4271
 translate Schinese murdochroute3b_f942f9bc:
 
     # cig "\"You’re a tourist, like me.\""
-    cig "\"你也是个过客，跟我一样。\""
+    cig "\"你和我一样，只是个过客。\""
 
 # game/murdochroute3.rpy:4272
 translate Schinese murdochroute3b_ca2b9e34:
 
     # m "\"How do you figure that?\""
-    m "\"妳怎麽知道？\""
+    m "\"您怎么知道？\""
 
 # game/murdochroute3.rpy:4273
 translate Schinese murdochroute3b_35389cbf:
 
     # "She looks me up and down again."
-    "她上下打量我。"
+    "她审视着我。"
 
 # game/murdochroute3.rpy:4274
 translate Schinese murdochroute3b_ac6da0f7:
@@ -13536,25 +13536,25 @@ translate Schinese murdochroute3b_ac6da0f7:
 translate Schinese murdochroute3b_0853df26:
 
     # m "\"What gives you that idea?\""
-    m "\"怎麽说？\""
+    m "\"怎么说？\""
 
 # game/murdochroute3.rpy:4276
 translate Schinese murdochroute3b_15ceece5:
 
     # cig "\"Well, your clothes are clean, your hands look soft, and your shirt’s buttoned awfully low.\""
-    cig "\"这个嘛，你一身洁淨、手看起来很软、上衣扣得很低。\""
+    cig "\"你衣服干干净净，手上没有老茧，上衣扣得很低。\""
 
 # game/murdochroute3.rpy:4277
 translate Schinese murdochroute3b_cfc256b1:
 
     # cig "\"You work in Entertainment?\""
-    cig "\"是以娱乐为职业吧？\""
+    cig "\"从事娱乐行业工作的？\""
 
 # game/murdochroute3.rpy:4278
 translate Schinese murdochroute3b_6bff4e6b:
 
     # m "\"...Yeah.\""
-    m "\"……对。\""
+    m "\"...对。\""
 
 # game/murdochroute3.rpy:4279
 translate Schinese murdochroute3b_c467a582:
@@ -13566,19 +13566,19 @@ translate Schinese murdochroute3b_c467a582:
 translate Schinese murdochroute3b_abe5ba73:
 
     # "I notice that she’s heating something over the flames, but it doesn’t smell like food."
-    "她貌似在热着什麽东西，但闻起来不像食物。"
+    "壁炉里像是在热什么东西，但闻起来不像食物。"
 
 # game/murdochroute3.rpy:4281
 translate Schinese murdochroute3b_8dacd520:
 
     # m "\"I used to think this place wasn’t so good when I first came here.\""
-    m "\"我一开始来的时候，觉得这里没什麽好的。\""
+    m "\"我一开始来的时候，也觉得这里不好。\""
 
 # game/murdochroute3.rpy:4282
 translate Schinese murdochroute3b_797fd8cf:
 
     # m "\"But it was always less bad than home.\""
-    m "\"但总没我老家糟。\""
+    m "\"但总比我老家强。\""
 
 # game/murdochroute3.rpy:4283
 translate Schinese murdochroute3b_eb3beff3:
@@ -13602,7 +13602,7 @@ translate Schinese murdochroute3b_732fa9d0:
 translate Schinese murdochroute3b_b4018370:
 
     # cig "\"Do you know what I mean?\""
-    cig "\"你懂我意思吗？\""
+    cig "\"你能懂吗？\""
 
 # game/murdochroute3.rpy:4287
 translate Schinese murdochroute3b_c806ebc0_1:
@@ -13614,19 +13614,19 @@ translate Schinese murdochroute3b_c806ebc0_1:
 translate Schinese murdochroute3b_bcf6dd4d:
 
     # "No."
-    "不懂。"
+    "才怪。"
 
 # game/murdochroute3.rpy:4289
 translate Schinese murdochroute3b_3e83f451:
 
     # "She seems to pick up on my tone, regardless."
-    "但她还是从我的语气听出来了。"
+    "但她还是从我的语气里听出来了。"
 
 # game/murdochroute3.rpy:4290
 translate Schinese murdochroute3b_052941dd:
 
     # cig "\"I’m saying that people can make a house into a home.\""
-    cig "\"我的意思是，房子得由人成家。\""
+    cig "\"我是在说，因为人，房子才成为了家。\""
 
 # game/murdochroute3.rpy:4291
 translate Schinese murdochroute3b_6d389e03:
@@ -13650,19 +13650,19 @@ translate Schinese murdochroute3b_512b4017:
 translate Schinese murdochroute3b_b8642022:
 
     # cig "\"And the kinds of people get reflected in the homes, the town, the cities.\""
-    cig "\"家、镇、市都会反映出人的性情。\""
+    cig "\"什么样的人，造就什么样的家、镇、市。\""
 
 # game/murdochroute3.rpy:4295
 translate Schinese murdochroute3b_ef4a28ec:
 
     # cig "\"Look at this town--I know my daughter insists it’s a city but it’s still a town in my eyes.\""
-    cig "\"看看这镇子吧——虽说我女儿坚称是个城市，但在我看来终究是个小镇。\""
+    cig "\"看看这镇子吧，虽说我女儿坚称这是座城市，但在我眼里终究只是个小镇。\""
 
 # game/murdochroute3.rpy:4296
 translate Schinese murdochroute3b_35253804:
 
     # cig "\"I can tell that there are attempts to make things right.\""
-    cig "\"我是看得出有人想改善这地方。\""
+    cig "\"诚然，有人想改善这地方。\""
 
 # game/murdochroute3.rpy:4297
 translate Schinese murdochroute3b_9d64f57e:
@@ -13674,55 +13674,55 @@ translate Schinese murdochroute3b_9d64f57e:
 translate Schinese murdochroute3b_f4d49148:
 
     # cig "\"But it’s not the kind of good that bounces back from catastrophe.\""
-    cig "\"但面对灾难只是杯水车薪。\""
+    cig "\"但在灾难面前不过杯水车薪。\""
 
 # game/murdochroute3.rpy:4299
 translate Schinese murdochroute3b_dc8f987c:
 
     # cig "\"You lose your entertainment halls and you lose your mines, you lose your people.\""
-    cig "\"没了娱乐场所跟矿坑，这些人也就没了。\""
+    cig "\"失去了娱乐场所和矿井，这里也就失去了人民。\""
 
 # game/murdochroute3.rpy:4300
 translate Schinese murdochroute3b_43d4535e:
 
     # cig "\"But that’s all backwards.\""
-    cig "\"但这是倒因为果。\""
+    cig "\"但这是本末倒置。\""
 
 # game/murdochroute3.rpy:4301
 translate Schinese murdochroute3b_7c1e708c:
 
     # cig "\"There needs to be room for that kind of resilience.\""
-    cig "\"必须有一定的韧性才行。\""
+    cig "\"人们需要休养生息的时间。\""
 
 # game/murdochroute3.rpy:4302
 translate Schinese murdochroute3b_ca7c3dce:
 
     # cig "\"A community will give life to a home when it breaks down.\""
-    cig "\"社群才是家破人亡时的支柱。\""
+    cig "\"在他们走投无路之际，社群理应成为他们的支柱。\""
 
 # game/murdochroute3.rpy:4303
 translate Schinese murdochroute3b_2419a6ac:
 
     # cig "\"But a community ready to leave the moment that happens makes ruins out of their buildings, no matter how new the paint is.\""
-    cig "\"但一个随时准备出走的社群，不管房屋有多新，依旧会成废墟。\""
+    cig "\"然而一个随时准备出走的社群，不论房屋修得有多新，最后也只能沦为废墟。\""
 
 # game/murdochroute3.rpy:4304
 translate Schinese murdochroute3b_a69ba946:
 
     # "I expect her to keep on going in the way that older folks tend to, but she stop, takes a hold of a chair, and coughs."
-    "我以为她会像那些老人一样滔滔不绝，但她不再多言，拄着椅子咳嗽。"
+    "我原以为她会像其他老人那样说个没完，但她不再多言，而是拄着椅子咳嗽。"
 
 # game/murdochroute3.rpy:4305
 translate Schinese murdochroute3b_8a837f2e:
 
     # "It starts as a bit of a wheeze, but then it turns into an all-out hacking cough that wracks her body."
-    "本来只是轻咳几声，但马上转为震盪全身的狂咳。"
+    "起初只是轻咳几声，但后来变成了剧烈的咳嗽，咳得她全身都在颤。"
 
 # game/murdochroute3.rpy:4306
 translate Schinese murdochroute3b_eeab7c3f:
 
     # "When she’s finished, she wipes the tears from her eyes."
-    "止歇后，她擦了擦眼泪。"
+    "咳完后，她擦了擦眼泪。"
 
 # game/murdochroute3.rpy:4307
 translate Schinese murdochroute3b_44f43a3f:
@@ -13734,61 +13734,61 @@ translate Schinese murdochroute3b_44f43a3f:
 translate Schinese murdochroute3b_c757a7f0:
 
     # cig "\"Bad air.\""
-    cig "\"空气太糟了。\""
+    cig "\"空气太呛了。\""
 
 # game/murdochroute3.rpy:4309
 translate Schinese murdochroute3b_79e8a1fd:
 
     # "This old woman better not die when I’m all by myself with her or I’m going to lose my mind."
-    "这老太婆最好别在边上只有我一个人的时候死掉，不然我要疯了。"
+    "这老太太最好别现在死掉，不然我会疯的。"
 
 # game/murdochroute3.rpy:4310
 translate Schinese murdochroute3b_36cc5a64:
 
     # m "\"Is there really nobody else around the house to help you?\""
-    m "\"屋里没其他人能帮妳吗？\""
+    m "\"你身边连个照顾的人都没有吗？\""
 
 # game/murdochroute3.rpy:4311
 translate Schinese murdochroute3b_a06b2e03:
 
     # cig "\"I’ve been taking care of myself for over seventy years so I don’t think I’d let ‘em.\""
-    cig "\"我已经照顾自己七十多年了，不会让他们插手的。\""
+    cig "\"我已经照顾自己七十多年了，不指望他们。\""
 
 # game/murdochroute3.rpy:4312
 translate Schinese murdochroute3b_fe35ce31:
 
     # cig "\"And I have work to do the church bells ring for my granddaughter.\""
-    cig "\"教堂钟声将为我孙女敲响，我还有事要办呢。\""
+    cig "\"更何况今天是我孙女大喜的日子，就更不能让他们插手了。\""
 
 # game/murdochroute3.rpy:4313
 translate Schinese murdochroute3b_2fac848a:
 
     # "She gestures at the pot on the hearth."
-    "她指向炉上的锅。"
+    "她指着壁炉上的锅。"
 
 # game/murdochroute3.rpy:4314
 translate Schinese murdochroute3b_d18dcfb8:
 
     # m "\"What is that?\""
-    m "\"那是什麽？\""
+    m "\"那是什么？\""
 
 # game/murdochroute3.rpy:4315
 translate Schinese murdochroute3b_ab155ce6:
 
     # cig "\"The purest silver for a coin casting.\""
-    cig "\"最纯的银，用来铸银币的。\""
+    cig "\"最纯的银，用来铸造银币的。\""
 
 # game/murdochroute3.rpy:4316
 translate Schinese murdochroute3b_412004fe:
 
     # cig "\"I wouldn’t give Mr. Sterling my blessing if he wouldn’t provide the silver himself.\""
-    cig "\"要不是Sterling先生亲自提供的这些银，我可不会祝福他们。\""
+    cig "\"要不是Sterling先生亲自提供了这些银，我可不会祝福他们。\""
 
 # game/murdochroute3.rpy:4317
 translate Schinese murdochroute3b_bfc7b875:
 
     # cig "\"Don’t rely on a man who won’t pay.\""
-    cig "\"可别轻信一毛不拔的男人。\""
+    cig "\"别轻信一毛不拔的男人。\""
 
 # game/murdochroute3.rpy:4318
 translate Schinese murdochroute3b_6be2d10d:
@@ -13800,13 +13800,13 @@ translate Schinese murdochroute3b_6be2d10d:
 translate Schinese murdochroute3b_b6ae5ff9:
 
     # "I think she might be my favorite family member."
-    "我觉得家人中我最喜欢的一位就是她。"
+    "这一家人里我最喜欢的就是她了。"
 
 # game/murdochroute3.rpy:4320
 translate Schinese murdochroute3b_d3246dc3:
 
     # cig "\"I see you smiling.\""
-    cig "\"我看你在笑。\""
+    cig "\"我看见你在笑。\""
 
 # game/murdochroute3.rpy:4321
 translate Schinese murdochroute3b_fa7fcccf:
@@ -13818,13 +13818,13 @@ translate Schinese murdochroute3b_fa7fcccf:
 translate Schinese murdochroute3b_783ef0a3:
 
     # m "\"It’s a pretty certain reassurance.\""
-    m "\"这很有保证啊。\""
+    m "\"有钱才有保证。\""
 
 # game/murdochroute3.rpy:4324
 translate Schinese murdochroute3b_47f4a077:
 
     # ci "\"Much better than blackmail.\""
-    ci "\"比勒索好多了。\""
+    ci "\"这比勒索好多了。\""
 
 # game/murdochroute3.rpy:4325
 translate Schinese murdochroute3b_1e4b58a1:
@@ -13836,37 +13836,37 @@ translate Schinese murdochroute3b_1e4b58a1:
 translate Schinese murdochroute3b_eca6574a:
 
     # m "\"Were you around last night?\""
-    m "\"妳昨晚也在？\""
+    m "\"你昨晚也在？\""
 
 # game/murdochroute3.rpy:4327
 translate Schinese murdochroute3b_d2ab4a64:
 
     # cig "\"Lad, you could wake the dead with that argument.\""
-    cig "\"小伙子，他们吵那麽大声，怕是连死人都会被吵醒吧。\""
+    cig "\"小伙子，他们吵那么大声，连死人都能给吵醒了。\""
 
 # game/murdochroute3.rpy:4328
 translate Schinese murdochroute3b_e0d39bd9:
 
     # cig "\"But of course my daughter and her husband still manage to sleep through it.\""
-    cig "\"不过我女儿跟她老公还是睡得死死的。\""
+    cig "\"虽然我女儿女婿还是睡得死死的。\""
 
 # game/murdochroute3.rpy:4329
 translate Schinese murdochroute3b_57e16d60:
 
     # cig "\"I appreciate you standin’ by Socks though.\""
-    cig "\"我倒很感激你站在小袜那边。\""
+    cig "\"我很感谢你站在小袜那边。\""
 
 # game/murdochroute3.rpy:4330
 translate Schinese murdochroute3b_34828702:
 
     # cig "\"He has fewer helpers than heaven these days by the looks of it all.\""
-    cig "\"他身边的人只怕比天使还稀有了。\""
+    cig "\"他的心腹只怕比天使还要稀有。\""
 
 # game/murdochroute3.rpy:4331
 translate Schinese murdochroute3b_532ea4a6:
 
     # "She goes to the couch and retrieves a little orange envelope from a velvet-green bag."
-    "她走向沙发，从一个绿天鹅绒包里拿出一小封橘色信封。"
+    "她走到沙发前，从绿色的天鹅绒包里取拿出一个橙色小信封。"
 
 # game/murdochroute3.rpy:4332
 translate Schinese murdochroute3b_b810e4b0:
@@ -13878,13 +13878,13 @@ translate Schinese murdochroute3b_b810e4b0:
 translate Schinese murdochroute3b_9a24da8e:
 
     # m "\"Is this...\""
-    m "\"这就是……\""
+    m "\"这就是...\""
 
 # game/murdochroute3.rpy:4334
 translate Schinese murdochroute3b_13868a08:
 
     # cig "\"Saw me grandson’s willy enough when he was barely a few months old, I don’t need to see it again when he’s a grown man.\""
-    cig "\"孙子的小弟弟我在他还没满周岁时就看够了，现在他成人了我也不需要再看一眼。\""
+    cig "\"我在他还没满岁的时候就把他看了个精光，没必要现在再看一遍。\""
 
 # game/murdochroute3.rpy:4335
 translate Schinese murdochroute3b_ebad492e:
@@ -13896,103 +13896,103 @@ translate Schinese murdochroute3b_ebad492e:
 translate Schinese murdochroute3b_5f0a5f0b:
 
     # m "\"Funny that you’re the second person your granddaughter’s given photos to who just got rid of ‘em.\""
-    m "\"妳已经是第二个从妳孙女手中收下照片后直接抛弃的人了，真有趣。\""
+    m "\"真讽刺，你孙女选的三个人里已经有两位自愿放弃了照片。\""
 
 # game/murdochroute3.rpy:4337
 translate Schinese murdochroute3b_cdcf15ef:
 
     # "She nods forcefully and pokes at the envelope."
-    "她使劲点头，戳着信封。"
+    "她坚定地点头，用手戳了戳信封。"
 
 # game/murdochroute3.rpy:4338
 translate Schinese murdochroute3b_1325b6c6:
 
     # cig "\"That one’s always had a bad habit of taking the rest of the family for granted.\""
-    cig "\"那姑娘的坏习惯了，总把家人视为理所当然的。\""
+    cig "\"那姑娘有个坏习惯，总是把家人的帮助视作理所当然的。\""
 
 # game/murdochroute3.rpy:4339
 translate Schinese murdochroute3b_5e6d5aa7:
 
     # cig "\"She can put the men in line but she has yet to realize how poorly she contends with the other women.\""
-    cig "\"她是能把男人拿捏好，但还没看清自己比不过其他女人。\""
+    cig "\"她是能让男人们俯首是从，却还没看清自己比不过其他女人。\""
 
 # game/murdochroute3.rpy:4340
 translate Schinese murdochroute3b_63a6c04c:
 
     # m "\"So why are you telling me this?\""
-    m "\"妳为什麽要告诉我这些？\""
+    m "\"你为什么要告诉我这些？\""
 
 # game/murdochroute3.rpy:4341
 translate Schinese murdochroute3b_40a3dd48:
 
     # "That makes her bark out laughing."
-    "她爆笑出来。"
+    "她大笑起来。"
 
 # game/murdochroute3.rpy:4342
 translate Schinese murdochroute3b_6dbdd177:
 
     # cig "\"Because, laddie, please don’t take offense when I say this--but outsiders aren’t considered a threat.\""
-    cig "\"因为呀，小伙子，我这麽说你别往心里去——但外人算不上什麽威胁。\""
+    cig "\"小伙子，我这么说你别往心里去，但外人算不上什么威胁。\""
 
 # game/murdochroute3.rpy:4343
 translate Schinese murdochroute3b_2adb774c:
 
     # ci "\"The Rowans’ have always survived, so long as they support their own.\""
-    ci "\"Rowan家一直以来互相扶持，总是坚忍不拔。\""
+    ci "\"Rowan家能走到现在，靠的就是一家人不离不弃的牵绊。\""
 
 # game/murdochroute3.rpy:4344
 translate Schinese murdochroute3b_290b1af3:
 
     # ci "\"But what I see from this side of the family has been...\""
-    ci "\"但这一边的家庭我一直看在眼里……\""
+    ci "\"但这边的情况...\""
 
 # game/murdochroute3.rpy:4345
 translate Schinese murdochroute3b_3c736c75:
 
     # ci "\"Let’s say mixed for now.\""
-    ci "\"只能说不上不下吧。\""
+    ci "\"只能说中规中矩吧。\""
 
 # game/murdochroute3.rpy:4346
 translate Schinese murdochroute3b_ecb0cb1c:
 
     # ci "\"I’ve done most of what I can do with this time on this planet so the rest is up to the coming generations.\""
-    ci "\"我在这星球上的人生中已经尽力了，往后的事只能交给后人。\""
+    ci "\"我这辈子该做的都做了，往后的事只能交给下一代了。\""
 
 # game/murdochroute3.rpy:4348
 translate Schinese murdochroute3b_8bd1bb49:
 
     # "I hear the wood creak upstairs."
-    "楼上传来木头磨轧声。"
+    "楼上传来木头的吱吱声。"
 
 # game/murdochroute3.rpy:4349
 translate Schinese murdochroute3b_bc093fc6:
 
     # "I can’t tell if it’s the natural strain of the house, or if there’s somebody up there."
-    "不知道是房屋本身的张力造成的，还是有其他人在。"
+    "不知道是房屋年久失修造成的，还是有其他人在。"
 
 # game/murdochroute3.rpy:4351
 translate Schinese murdochroute3b_0af01a4b:
 
     # m "\"Are you sure there’s nobody else in the house?\""
-    m "\"这间屋子真的没其他人在了吗？\""
+    m "\"这里真的没有其他人了吗？\""
 
 # game/murdochroute3.rpy:4352
 translate Schinese murdochroute3b_e073190e:
 
     # "She looks up."
-    "她抬头一望。"
+    "她仰头望去。"
 
 # game/murdochroute3.rpy:4353
 translate Schinese murdochroute3b_dc38c47f:
 
     # ci "\"Nobody who should be at least.\""
-    ci "\"至少不该有人在。\""
+    ci "\"至少不应该有人在。\""
 
 # game/murdochroute3.rpy:4354
 translate Schinese murdochroute3b_ed2dfb80:
 
     # m "\"Do you think she’d have the negative to these in her bedroom?\""
-    m "\"妳觉得她会把底片藏在房间里吗？\""
+    m "\"你觉得她会把底片藏在房间里吗？\""
 
 # game/murdochroute3.rpy:4355
 translate Schinese murdochroute3b_2b5f85fe:
@@ -14004,7 +14004,7 @@ translate Schinese murdochroute3b_2b5f85fe:
 translate Schinese murdochroute3b_1b0eabaf:
 
     # ci "\"It’s been hers alone long after the wee kits moved out.\""
-    ci "\"其他人搬出去以来就都是她自己的房间了。\""
+    ci "\"孩子们搬出去后，那房间就是她专属的了。\""
 
 # game/murdochroute3.rpy:4357
 translate Schinese murdochroute3b_f649e21d:
@@ -14016,55 +14016,55 @@ translate Schinese murdochroute3b_f649e21d:
 translate Schinese murdochroute3b_a6839c60:
 
     # m "\"Not without your permission.\""
-    m "\"只要妳准许的话。\""
+    m "\"如果你准许的话。\""
 
 # game/murdochroute3.rpy:4359
 translate Schinese murdochroute3b_26bc92c5:
 
     # m "\"Like you said before, you own the house?\""
-    m "\"妳说过这屋子是妳的吧？\""
+    m "\"你说过这房子是你的。\""
 
 # game/murdochroute3.rpy:4360
 translate Schinese murdochroute3b_f6506c7b:
 
     # ci "\"You learn quickly.\""
-    ci "\"学得挺快啊。\""
+    ci "\"学得很快嘛。\""
 
 # game/murdochroute3.rpy:4361
 translate Schinese murdochroute3b_4adf846a:
 
     # "She’s quick in turn to give me instructions to the bedroom."
-    "她迅速指引我寝室的位置。"
+    "她迅速指引我来到卧室的位置。"
 
 # game/murdochroute3.rpy:4362
 translate Schinese murdochroute3b_1138cfc2:
 
     # ci "\"I wouldn’t stay longer than ten minutes unless you mean to be caught.\""
-    ci "\"不想被人撞见的话最好别待超过十分钟。\""
+    ci "\"不想被人撞到的话最好在十分钟内解决。\""
 
 # game/murdochroute3.rpy:4363
 translate Schinese murdochroute3b_a9ace878:
 
     # m "\"Right...\""
-    m "\"好……\""
+    m "\"好...\""
 
 # game/murdochroute3.rpy:4367
 translate Schinese murdochroute3b_ce30e0ef:
 
     # "I remember that this used to be a child’s bedroom when I see that it doesn’t have a lock."
-    "我看到门上没有锁，才想起来这本来是小孩子用的房间。"
+    "我看到门上没有锁，才记起这原本是小孩子的房间。"
 
 # game/murdochroute3.rpy:4369
 translate Schinese murdochroute3b_e996d379:
 
     # "An uneasy sense of guilt puts my hair on edge when I think about being in somebody else’s bedroom without permission."
-    "一想到自己要在未经他人同意的状况下进别人的房间，我备感心虚。"
+    "一想到我接下来的行为属于非法闯入，我就倍感心虚。"
 
 # game/murdochroute3.rpy:4370
 translate Schinese murdochroute3b_5c108810:
 
     # "And it doesn’t help that Holly Byrnes’ bedroom looks exactly how I thought it would look."
-    "尤其是Holly Byrnes的房间跟我想像中的一模一样。"
+    "Holly Byrnes的房间跟我想像中的一模一样。"
 
 # game/murdochroute3.rpy:4371
 translate Schinese murdochroute3b_808618a3:
@@ -14076,55 +14076,55 @@ translate Schinese murdochroute3b_808618a3:
 translate Schinese murdochroute3b_a5fa7cfb:
 
     # "From the bags, the dresses hanging from stands, the glass cases draped in jewelry, the vanity overflowing with perfume, to the smartly cut curtains that let just the right amount of light into the room, this bedroom is beyond upkept."
-    "从包包、衣架上的洋装、珠宝的玻璃盒、摆满梳妆台的香水到精心裁剪至刚好只让适当阳光照进房间的窗帘，这间房简直被打理得无微不至。"
+    "从挎包、衣架上的连衣裙、放珠宝的玻璃盒、摆满了香水的梳妆台，到精心裁剪过的，只让适量阳光照进房间的窗帘，这卧室简直被打理得无微不至。"
 
 # game/murdochroute3.rpy:4373
 translate Schinese murdochroute3b_a7222fd3:
 
     # "It’s {i}curated{/i}."
-    "{i}细心斟酌{/i}过的。"
+    "{b}精心{/b}地。"
 
 # game/murdochroute3.rpy:4374
 translate Schinese murdochroute3b_cae3e6ba:
 
     # "Which means it’s my least favorite kind of room to snoop around in."
-    "也是我最不喜欢身处的那种房间。"
+    "也是我最不喜欢待在里面的那种房间。"
 
 # game/murdochroute3.rpy:4375
 translate Schinese murdochroute3b_03bac1fe:
 
     # "If anything is moved without care, she’ll notice."
-    "不小心动到什麽东西，就会被她发现。"
+    "不小心动了什么东西就会被她发现。"
 
 # game/murdochroute3.rpy:4376
 translate Schinese murdochroute3b_c3ae3b6b:
 
     # "This room is, without a doubt, built for comfort."
-    "这间房毫无疑问是为了舒适感打造的。"
+    "毫无疑问，这间房是为了舒适而打造的。"
 
 # game/murdochroute3.rpy:4377
 translate Schinese murdochroute3b_8141818a:
 
     # "Which means that she’d probably want to keep something like the photograph negatives out of mind and out of sight."
-    "也就代表她应该会把那些负片放在眼不见为淨的地方。"
+    "也就代表她会把底片放在眼不见为净的地方。"
 
 # game/murdochroute3.rpy:4378
 translate Schinese murdochroute3b_17ede38e:
 
     # "When I think about places to hide things, I think first about the floorboard in my room at the hip."
-    "我思考起藏东西的地方，首先想到我在Hip房间的地板。"
+    "关于哪里能藏东西，我首先想到了我房间里的地板。"
 
 # game/murdochroute3.rpy:4379
 translate Schinese murdochroute3b_79883f80:
 
     # "But if somebody doesn’t have something like that, my mind drifts toward hiding things under the bed, or stuffing them deep inside the closet."
-    "但没有那种机关的话，应该会是床底下或衣柜深处。"
+    "但一般人应该没有那种机关，退而求其次的话，就是床底下或衣柜深处了。"
 
 # game/murdochroute3.rpy:4380
 translate Schinese murdochroute3b_50506c4b:
 
     # "So first I crouch down and look under her bed."
-    "所以我先蹲下查看床底。"
+    "所以我先蹲下检查床底。"
 
 # game/murdochroute3.rpy:4381
 translate Schinese murdochroute3b_647afc12:
@@ -14136,25 +14136,25 @@ translate Schinese murdochroute3b_647afc12:
 translate Schinese murdochroute3b_dc1f3da9:
 
     # "And it doesn’t even look dusty."
-    "而且没什麽灰尘。"
+    "而且没什么灰尘。"
 
 # game/murdochroute3.rpy:4383
 translate Schinese murdochroute3b_ba73bcbb:
 
     # "I pull it with one hand and get surprised by the weight of it."
-    "我一手去拉，重量感却让我意外。"
+    "我伸手去够，却意外地发现它很重。"
 
 # game/murdochroute3.rpy:4384
 translate Schinese murdochroute3b_b7f16241:
 
     # "Once I pull it all the way out, I can see it’s a simple crate with shreds of sawdust in it."
-    "拉出来后，我发现是个简朴的板条箱，上面还有木屑。"
+    "拉出来后，我看到这是个普普通通的板条箱，上面还有锯末。"
 
 # game/murdochroute3.rpy:4385
 translate Schinese murdochroute3b_37ec0ef5:
 
     # "But inside are smooth, white crystals that are so round they look like eggs."
-    "但里面装着平滑的白色水晶，圆得像鸡蛋。"
+    "里面则装着光滑的白色晶体，非常圆，像鸡蛋一样。"
 
 # game/murdochroute3.rpy:4386
 translate Schinese murdochroute3b_f8633ef9:
@@ -14190,61 +14190,61 @@ translate Schinese murdochroute3b_026dfebe:
 translate Schinese murdochroute3b_60c2103b:
 
     # "It’s not a very big closet, which I suppose makes sense."
-    "衣柜不大，这也很正常。"
+    "衣柜不大，倒也正常。"
 
 # game/murdochroute3.rpy:4392
 translate Schinese murdochroute3b_d0d75b0b:
 
     # "It was built for children."
-    "毕竟本来是给小孩用的。"
+    "毕竟是给小孩子用的。"
 
 # game/murdochroute3.rpy:4394
 translate Schinese murdochroute3b_62437b0a:
 
     # "But as I open it, I’m shocked by how much is stuffed into here."
-    "但我一打开，就被里面塞满的东西吓到。"
+    "但打开后，我着实被里面满满当当的样子吓得不轻。"
 
 # game/murdochroute3.rpy:4395
 translate Schinese murdochroute3b_3dc75e9d:
 
     # "She has quite the suit and dress collection, and many pairs of shoes."
-    "她有好多正装跟洋装，还有好几双鞋。"
+    "她收藏了那么多套装和裙子，还有不少双鞋。"
 
 # game/murdochroute3.rpy:4397
 translate Schinese murdochroute3b_c70ec114:
 
     # "The top is so stacked with boxes that if I remove one thing it has the danger of all tumbling down."
-    "上方塞满了盒子，一动可能就会全塌下来了。"
+    "上方堆满了盒子，一动可能就会全塌下来。"
 
 # game/murdochroute3.rpy:4398
 translate Schinese murdochroute3b_fc6abb31:
 
     # "So I have to go through each box one by one, and replace it."
-    "只好一个接一个交替查看了。"
+    "只好一个接一个检查了。"
 
 # game/murdochroute3.rpy:4399
 translate Schinese murdochroute3b_5562bf1f:
 
     # "I do find a box of photos, but they seem perfectly innocent."
-    "我是有找到一个装着照片的盒子，但跟那个完全无关。"
+    "其中是有个装着照片的盒子，但与那档事完全无关。"
 
 # game/murdochroute3.rpy:4400
 translate Schinese murdochroute3b_edd8d0f0:
 
     # "There’s another box..."
-    "又一个盒子……"
+    "又一个盒子..."
 
 # game/murdochroute3.rpy:4401
 translate Schinese murdochroute3b_18d88ba7:
 
     # "...full of rocks again?"
-    "……装满了石头？"
+    "...装满了石头？"
 
 # game/murdochroute3.rpy:4402
 translate Schinese murdochroute3b_56a9a7dd:
 
     # "Is this what she and Jim had in common?"
-    "这是她跟Jim的交点吗？"
+    "这是她跟Jim的共同话题吗？"
 
 # game/murdochroute3.rpy:4403
 translate Schinese murdochroute3b_df0f9e89:
@@ -14256,7 +14256,7 @@ translate Schinese murdochroute3b_df0f9e89:
 translate Schinese murdochroute3b_0fdbe17c:
 
     # "Time for a third box..."
-    "第三个盒子……"
+    "第三个盒子..."
 
 # game/murdochroute3.rpy:4407
 translate Schinese murdochroute3b_891c07f4:
@@ -14274,73 +14274,73 @@ translate Schinese murdochroute3b_7ba7df37:
 translate Schinese murdochroute3b_60941b3b:
 
     # "It’s just a stiff old carpet that got me right between the neck and the shoulder."
-    "命中我脖子跟肩膀之间的只是条乾硬的旧地毯。"
+    "是条干硬的旧地毯，被我夹在脖子和肩膀之间。"
 
 # game/murdochroute3.rpy:4411
 translate Schinese murdochroute3b_3236c0b3:
 
     # "I step back, feeling the pain spread dully though my body, and it falls to the ground, unrolling partially."
-    "我退了一步，感受着钝痛在身上扩散，毯子随之掉到地上，略微滚开。"
+    "我退后一步，感受着迟来的痛觉在身上扩散，毯子随之掉到地上，略微展开。"
 
 # game/murdochroute3.rpy:4413
 translate Schinese murdochroute3b_3f22bf55:
 
     # "It looks like an old blanket that you’d find outside."
-    "看上去就是条常见的旧毯子。"
+    "看起来就是条悉数平常的旧毯子。"
 
 # game/murdochroute3.rpy:4414
 translate Schinese murdochroute3b_c3ce61bd:
 
     # "Maybe on somebody’s porch, that’s been worn down by the elements."
-    "可能会铺在人家门廊前的那种，受到各方面的自然损耗。"
+    "也许曾铺在某户的门廊前，经历过风吹日晒。"
 
 # game/murdochroute3.rpy:4415
 translate Schinese murdochroute3b_bedc2943:
 
     # "Maybe as cushioning over the hay in the back of a wagon."
-    "也就跟马车上的乾草堆差不多舒适吧。"
+    "估计跟马车上的干草堆躺起来差不多吧。"
 
 # game/murdochroute3.rpy:4416
 translate Schinese murdochroute3b_66605a04:
 
     # "It’s not something I’d expect to find in a bedroom so much as an attic or a storage room."
-    "感觉不像是会在寝室里找到的东西，而是阁楼或储藏室。"
+    "感觉不像是会出现在卧室里的东西，阁楼或储藏室还差不多。"
 
 # game/murdochroute3.rpy:4417
 translate Schinese murdochroute3b_a7496b99:
 
     # "But stare at it a little longer."
-    "但我定睛一看。"
+    "但我仔细一看。"
 
 # game/murdochroute3.rpy:4418
 translate Schinese murdochroute3b_947d96e5:
 
     # "What I mistake for a large, rust-colored pattern that covers almost half of the entire rug is, in fact, a stain."
-    "我原本以为整张毯子上大半的暗红色是个图样，但其实是汙渍。"
+    "被我误以为是图案的，几乎覆盖了整条地毯一半的其实是污渍。"
 
 # game/murdochroute3.rpy:4419
 translate Schinese murdochroute3b_6f812944:
 
     # "I’m pretty certain it’s the color of dry blood."
-    "我很确定是乾掉的血。"
+    "我很确定，那是干掉的血。"
 
 # game/murdochroute3.rpy:4420
 translate Schinese murdochroute3b_b8df6bcd:
 
     # "My mind starts racing."
-    "我脑袋全速运转。"
+    "我的脑袋开始全速运转。"
 
 # game/murdochroute3.rpy:4421
 translate Schinese murdochroute3b_e8fd2e61:
 
     # "Why would she have this?"
-    "她怎麽有这个？"
+    "她怎么会有这个？"
 
 # game/murdochroute3.rpy:4422
 translate Schinese murdochroute3b_e0e8ec5b:
 
     # "What does this mean?"
-    "这什麽情况？"
+    "这是什么情况？"
 
 # game/murdochroute3.rpy:4423
 translate Schinese murdochroute3b_bedd4993:
@@ -14352,37 +14352,37 @@ translate Schinese murdochroute3b_bedd4993:
 translate Schinese murdochroute3b_54ecadc5:
 
     # "I think about that girl in the graveyard."
-    "我想起墓园的那个女孩。"
+    "我想起了墓园里的那个女孩。"
 
 # game/murdochroute3.rpy:4425
 translate Schinese murdochroute3b_f6d29ef3:
 
     # "Blithe Washington--the one who took my money."
-    "Blithe Washington——拿走我的钱的人。"
+    "捡走我钱的人：Blithe Washington。"
 
 # game/murdochroute3.rpy:4426
 translate Schinese murdochroute3b_51f66abd:
 
     # "She said the teachers weren’t listening when they talked about missing friends."
-    "她说过老师们没把他们说朋友失踪当回事。"
+    "她说学校老师们从不把学生的失踪当回事。"
 
 # game/murdochroute3.rpy:4427
 translate Schinese murdochroute3b_282b0689:
 
     # "Holly Byrnes does not strike me as a murderer."
-    "Holly Byrnes在我看来不像是个杀人凶手。"
+    "但我不觉得Holly Byrnes是杀人凶手。"
 
 # game/murdochroute3.rpy:4428
 translate Schinese murdochroute3b_33be80a0:
 
     # "A blackmailer, yes."
-    "她是有勒索人。"
+    "她是在勒索别人没错。"
 
 # game/murdochroute3.rpy:4429
 translate Schinese murdochroute3b_f42f1f24:
 
     # "Underhanded, absolutely."
-    "的确卑鄙无耻。"
+    "卑鄙无耻。"
 
 # game/murdochroute3.rpy:4430
 translate Schinese murdochroute3b_b5509096:
@@ -14400,13 +14400,13 @@ translate Schinese murdochroute3b_c9bf9b21:
 translate Schinese murdochroute3b_e660afdc:
 
     # "Nonetheless, she’d have to know this was here, wouldn't she?"
-    "但总之她是知道这东西在这吧？"
+    "但无论如何，她知道这东西在这里的吧？"
 
 # game/murdochroute3.rpy:4433
 translate Schinese murdochroute3b_2d682aa4:
 
     # "So what does that mean?"
-    "所以这代表什麽？"
+    "所以这代表什么？"
 
 # game/murdochroute3.rpy:4435
 translate Schinese murdochroute3b_af5183ed:
@@ -14418,31 +14418,31 @@ translate Schinese murdochroute3b_af5183ed:
 translate Schinese murdochroute3b_fb6e33a2:
 
     # "Shit."
-    "干。"
+    "操。"
 
 # game/murdochroute3.rpy:4437
 translate Schinese murdochroute3b_aa364ee1:
 
     # ci "\"You already said that before you left.\""
-    ci "\"你离开之前已经道过了。\""
+    ci "\"你离开之前已经道过早安了。\""
 
 # game/murdochroute3.rpy:4438
 translate Schinese murdochroute3b_2faee37a:
 
     # "Shit. Shit. Shit."
-    "干、干、干。"
+    "操，操，操。"
 
 # game/murdochroute3.rpy:4439
 translate Schinese murdochroute3b_d542c01a:
 
     # "I have to roll this carpet up again, and quickly."
-    "我迅速捲起毯子。"
+    "我以最快的速度卷起毯子。"
 
 # game/murdochroute3.rpy:4440
 translate Schinese murdochroute3b_f9dd2030:
 
     # al "\"Well, it’s still a good morning.\""
-    al "\"但这确实是个美好的早晨。\""
+    al "\"毕竟今早如此美妙。\""
 
 # game/murdochroute3.rpy:4441
 translate Schinese murdochroute3b_05148e05:
@@ -14454,67 +14454,67 @@ translate Schinese murdochroute3b_05148e05:
 translate Schinese murdochroute3b_92234db6:
 
     # "Once it’s rolled back up I try to push it back above the boxes, but it gets stuck on the frame."
-    "捲好后我把它推向盒子上面，但被柜框卡住了。"
+    "卷好后，我试图把它推回盒子上面，然而被边框卡住了。"
 
 # game/murdochroute3.rpy:4443
 translate Schinese murdochroute3b_1c37dd55:
 
     # "The roll on one side is too thick!"
-    "有一边捲得太厚了！"
+    "有一边卷得太厚了！"
 
 # game/murdochroute3.rpy:4444
 translate Schinese murdochroute3b_ef9c6139:
 
     # ci "\"What are you back for?\""
-    ci "\"你怎麽回来了？\""
+    ci "\"你回来是为了？\""
 
 # game/murdochroute3.rpy:4445
 translate Schinese murdochroute3b_66fb83a0:
 
     # al "\"Just my pocketwatch.\""
-    al "\"来拿我的怀表。\""
+    al "\"为了拿我的怀表。\""
 
 # game/murdochroute3.rpy:4447
 translate Schinese murdochroute3b_048ec8c7:
 
     # "I push the carpet in hard until I hear it give, scraping against the side of the door."
-    "我把毯子用力一塞，发出了刮着柜门的声音。"
+    "我把毯子使劲一塞，发出剐蹭的声音。"
 
 # game/murdochroute3.rpy:4449
 translate Schinese murdochroute3b_391e80fa:
 
     # "I push it up, then in."
-    "然后先往上推，再往里推。"
+    "先往上，再往里。"
 
 # game/murdochroute3.rpy:4450
 translate Schinese murdochroute3b_659ae7cf:
 
     # "It fits inside... just as I hear Alfred walking up the steps."
-    "终于塞进去了……Alfred上楼的脚步声正好传来。"
+    "终于塞进去了...Alfred上楼的脚步声恰好在这时响起。"
 
 # game/murdochroute3.rpy:4451
 translate Schinese murdochroute3b_c470eed9:
 
     # "Either I’ve got to jump out of a window or I’ll have to wait for him to enter a room and sneak by."
-    "我要麽得跳窗，要麽等他进房间后熘走。"
+    "我要么跳窗，要么只能等他回房间后溜走。"
 
 # game/murdochroute3.rpy:4453
 translate Schinese murdochroute3b_287602e3:
 
     # "Once I hear the steps stop creaking and another door open, I decide to open Holly’s door to the hall."
-    "脚步声停止、另一扇门被打开的声音传来后，我把Holly的门打开。"
+    "脚步声停止，另一扇门被打开，我当机立断，打开Holly房间通往客厅的门。"
 
 # game/murdochroute3.rpy:4456
 translate Schinese murdochroute3b_81c15fee:
 
     # "There’s nobody there."
-    "没人在。"
+    "没有人在。"
 
 # game/murdochroute3.rpy:4457
 translate Schinese murdochroute3b_aad71544:
 
     # "I walk as quickly and as quietly as I can until I reach the stairs."
-    "我尽可能安静迅速地走到楼梯口。"
+    "我尽可能安静地快步走到楼梯口。"
 
 # game/murdochroute3.rpy:4459
 translate Schinese murdochroute3b_354f7b6b:
@@ -14526,127 +14526,127 @@ translate Schinese murdochroute3b_354f7b6b:
 translate Schinese murdochroute3b_b2c69a0b:
 
     # "The moment I hear my tail turn the hall, the sound of footsteps from the stairs follow."
-    "我尾巴才刚拐过大厅，下楼的声音就接着传来。"
+    "我的尾巴刚离开楼梯，下楼的声音就接着传来。"
 
 # game/murdochroute3.rpy:4464
 translate Schinese murdochroute3b_feb743e0:
 
     # "Granny Rowan hands me the fire poker as Alfred enters the room."
-    "Rowan老太太在Alfred进客厅时把火钳给了我。"
+    "Rowan老太太在Alfred进客厅时把火钳递给了我。"
 
 # game/murdochroute3.rpy:4468
 translate Schinese murdochroute3b_e161afdb:
 
     # al "\"What’s the store help doing here?\""
-    al "\"店员怎麽在这？\""
+    al "\"我们的店员怎么在这？\""
 
 # game/murdochroute3.rpy:4470
 translate Schinese murdochroute3b_cf356b59:
 
     # ci "\"He stopped by earlier to help and I told him I could use an assistant.\""
-    ci "\"他早前就来了，我让他给我打下手。\""
+    ci "\"他早前来的，我让他给我打下手。\""
 
 # game/murdochroute3.rpy:4472
 translate Schinese murdochroute3b_e15922a8:
 
     # al "\"You didn’t say he was here.\""
-    al "\"你没告诉我他在这啊。\""
+    al "\"你没告诉我他在啊。\""
 
 # game/murdochroute3.rpy:4474
 translate Schinese murdochroute3b_a4c91f75:
 
     # ci "\"Didn’t ask, didja?\""
-    ci "\"你又没问不是？\""
+    ci "\"你也没问不是吗？\""
 
 # game/murdochroute3.rpy:4477
 translate Schinese murdochroute3b_82cd34e9:
 
     # al "\"Well, it’s a fine time for him to show up.\""
-    al "\"嗯，他来得正好。\""
+    al "\"算了，他来得正好。\""
 
 # game/murdochroute3.rpy:4480
 translate Schinese murdochroute3b_a10cb695:
 
     # al "\"I need the help carrying to the church.\""
-    al "\"我需要有人帮我搬东西到教堂。\""
+    al "\"我需要有人帮我把东西搬到教堂。\""
 
 # game/murdochroute3.rpy:4482
 translate Schinese murdochroute3b_0436e8d2:
 
     # ci "\"Taking my help, are ya?\""
-    ci "\"想把我的帮手带走是吧？\""
+    ci "\"用我的帮手是吧？\""
 
 # game/murdochroute3.rpy:4483
 translate Schinese murdochroute3b_3c3adbe9:
 
     # ci "\"Not like I need any, but buy an old woman a slice of coffee cake before you take her manservant, won’t ya.\""
-    ci "\"虽然我是不太需要，但你要把这个帮手从老太太身边抢走，好歹也买块咖啡蛋糕来换吧。\""
+    ci "\"虽然我无所谓，但你要把帮手从老太太身边抢走，好歹也拿块咖啡蛋糕来换吧。\""
 
 # game/murdochroute3.rpy:4485
 translate Schinese murdochroute3b_ba07f991:
 
     # "Alfred looks unamused by the jab."
-    "Alfred被她这一嘴貌似不太爽。"
+    "Alfred似乎有些不爽。"
 
 # game/murdochroute3.rpy:4490
 translate Schinese murdochroute3b_52c02092:
 
     # "He directs me to the stairs and turns on a light bulb."
-    "他把我带到楼梯口，点亮灯泡。"
+    "他把我带到楼梯口，打开电灯。"
 
 # game/murdochroute3.rpy:4494
 translate Schinese murdochroute3b_fe8b604e:
 
     # "The Byrnes basement is filled with boxes and boxes of... stuff."
-    "Byrnes家的地下室装满了盒子跟……东西。"
+    "Byrnes家的地下室装满了盒子跟...东西。"
 
 # game/murdochroute3.rpy:4495
 translate Schinese murdochroute3b_616233f4:
 
     # "Iron casings for pans that look like they’re missing their lids."
-    "好像缺了盖子的铁锅。"
+    "有缺了盖子的铁锅。"
 
 # game/murdochroute3.rpy:4496
 translate Schinese murdochroute3b_96efafe2:
 
     # "Various planks of wood."
-    "很多种木板。"
+    "各类木板。"
 
 # game/murdochroute3.rpy:4497
 translate Schinese murdochroute3b_7210de30:
 
     # "Parts of what look like a sewing machine or a loom that are out of commission."
-    "坏了的裁缝机之类的装置。"
+    "类似坏了的裁缝机的装置。"
 
 # game/murdochroute3.rpy:4498
 translate Schinese murdochroute3b_85872fa7:
 
     # "Painted plates, some of which were cracked."
-    "有图样的盘子，碎了一些。"
+    "裂开的彩绘圆盘。"
 
 # game/murdochroute3.rpy:4499
 translate Schinese murdochroute3b_e77009d6:
 
     # "It’s very tight and very dingy."
-    "又挤又髒乱。"
+    "底下又挤又脏。"
 
 # game/murdochroute3.rpy:4500
 translate Schinese murdochroute3b_32a7cf3c:
 
     # "I’m not exactly new to manual labor, so the faster we get out of there, the better."
-    "我也习惯劳动了，赶紧完事离开吧。"
+    "我倒也没有怨言，只希望赶紧完事离开。"
 
 # game/murdochroute3.rpy:4501
 translate Schinese murdochroute3b_16d02291:
 
     # m "\"Tell me what to haul and I’ll take it sir.\""
-    m "\"想要我拿什麽就请说吧，先生。\""
+    m "\"想搬什么告诉我就好了，先生。\""
 
 # game/murdochroute3.rpy:4503
 translate Schinese murdochroute3b_c199523f:
 
     # "The man is just sifting through boxes."
-    "他一个劲地翻动着盒子。"
+    "他没有回答，只是在盒子里找东找西。"
 
 # game/murdochroute3.rpy:4504
 translate Schinese murdochroute3b_6cae9715:
@@ -14658,61 +14658,61 @@ translate Schinese murdochroute3b_6cae9715:
 translate Schinese murdochroute3b_6a9e5ad8:
 
     # al "\"No need to be hasty, son.\""
-    al "\"你先别急，小子。\""
+    al "\"别着急，小伙子。\""
 
 # game/murdochroute3.rpy:4508
 translate Schinese murdochroute3b_94367310:
 
     # "But hasty is exactly what I want to be."
-    "我就是急啊。"
+    "我当然急了。"
 
 # game/murdochroute3.rpy:4509
 translate Schinese murdochroute3b_e023c4c8:
 
     # "This place is making my nose wrinkly."
-    "这地方让我鼻子好不舒服。"
+    "这地方的空气让我贼不舒服。"
 
 # game/murdochroute3.rpy:4511
 translate Schinese murdochroute3b_f8a1dc87:
 
     # al "\"Looks like granny likes ya.\""
-    al "\"奶奶好像很喜欢你。\""
+    al "\"老太太好像很喜欢你。\""
 
 # game/murdochroute3.rpy:4514
 translate Schinese murdochroute3b_2cbe8f5a:
 
     # al "\"That’s good.\""
-    al "\"挺好。\""
+    al "\"挺好的。\""
 
 # game/murdochroute3.rpy:4517
 translate Schinese murdochroute3b_91dda920:
 
     # al "\"She doesn’t usually take to plain old workin’ folk.\""
-    al "\"她通常不跟一般员工交流的。\""
+    al "\"她很少跟一般员工交流。\""
 
 # game/murdochroute3.rpy:4520
 translate Schinese murdochroute3b_80d8732a:
 
     # al "\"Must see somethin’ special in ya.\""
-    al "\"你一定有什麽特点被她看上了。\""
+    al "\"一定是看上了你的什么特点吧。\""
 
 # game/murdochroute3.rpy:4522
 translate Schinese murdochroute3b_e594a0c1:
 
     # "I don’t know how to follow that up."
-    "我不知道该怎麽回话。"
+    "我不知道该怎么回话。"
 
 # game/murdochroute3.rpy:4523
 translate Schinese murdochroute3b_4ce79683:
 
     # "I’m about to ask him what we’re looking for when he speaks up again."
-    "我才正要问他我们是在找什麽，他又开口了。"
+    "我正要问他我们是在找什么，他又开口了。"
 
 # game/murdochroute3.rpy:4525
 translate Schinese murdochroute3b_a5a1431e:
 
     # al "\"Murdoch does too, don’t he?\""
-    al "\"Murdoch也很喜欢你，对吧？\""
+    al "\"Murdoch也很喜欢你，是不是？\""
 
 # game/murdochroute3.rpy:4527
 translate Schinese murdochroute3b_3091adfd:
@@ -14724,13 +14724,13 @@ translate Schinese murdochroute3b_3091adfd:
 translate Schinese murdochroute3b_7d4223ae:
 
     # al "\"You’re both real close, ain’t ya.\""
-    al "\"你们亲密得很不是？\""
+    al "\"你们情同手足，是不是？\""
 
 # game/murdochroute3.rpy:4531
 translate Schinese murdochroute3b_f2385c09:
 
     # m "\"He’s pretty good for a boss, sir.\""
-    m "\"他是个好老闆，先生。\""
+    m "\"他是个好老板，先生。\""
 
 # game/murdochroute3.rpy:4532
 translate Schinese murdochroute3b_f46c9ddb:
@@ -14748,13 +14748,13 @@ translate Schinese murdochroute3b_365d84ca:
 translate Schinese murdochroute3b_7975e955:
 
     # al "\"Good for a boss?\""
-    al "\"好老闆？\""
+    al "\"好老板？\""
 
 # game/murdochroute3.rpy:4538
 translate Schinese murdochroute3b_9f8cd381:
 
     # "His smirk dies."
-    "他脸上笑容消失。"
+    "他脸上的笑容不见了。"
 
 # game/murdochroute3.rpy:4540
 translate Schinese murdochroute3b_35ad228f:
@@ -14766,13 +14766,13 @@ translate Schinese murdochroute3b_35ad228f:
 translate Schinese murdochroute3b_2fe214ef:
 
     # al "\"I’m your boss.\""
-    al "\"我才是你老闆。\""
+    al "\"我才是你的老板。\""
 
 # game/murdochroute3.rpy:4545
 translate Schinese murdochroute3b_b0999833:
 
     # m "\"Damn right you are.\""
-    m "\"你说的对。\""
+    m "\"您说的是。\""
 
 # game/murdochroute3.rpy:4547
 translate Schinese murdochroute3b_f2e8da6d:
@@ -14784,25 +14784,25 @@ translate Schinese murdochroute3b_f2e8da6d:
 translate Schinese murdochroute3b_69730490:
 
     # "His serious face cracks up, and he starts to laugh."
-    "他严肃的表情又崩解，大笑起来。"
+    "他严肃的表情瓦解，又大笑起来。"
 
 # game/murdochroute3.rpy:4551
 translate Schinese murdochroute3b_18d816c0:
 
     # al "\"You think Murdoch’s a good boss?\""
-    al "\"你说他是个好老闆？\""
+    al "\"你说他是个好老板？\""
 
 # game/murdochroute3.rpy:4554
 translate Schinese murdochroute3b_34c78df1:
 
     # al "\"He’s a shit boss.\""
-    al "\"他作为老闆就是个渣。\""
+    al "\"他干这行就是个屁。\""
 
 # game/murdochroute3.rpy:4556
 translate Schinese murdochroute3b_f3193945:
 
     # "His laughter dies down a little as he turns around, crouching, looking through the cardboard."
-    "他笑声稍退，转身蹲下检视着纸板。"
+    "他转身蹲下来查看纸箱的缝隙，笑声渐渐消失。"
 
 # game/murdochroute3.rpy:4558
 translate Schinese murdochroute3b_ecf1b4e0:
@@ -14820,25 +14820,25 @@ translate Schinese murdochroute3b_8d63e906:
 translate Schinese murdochroute3b_8765acdb:
 
     # "His voice settles into a whisper."
-    "他音量转为细语。"
+    "他的声音越来越轻。"
 
 # game/murdochroute3.rpy:4564
 translate Schinese murdochroute3b_ae28d2f2:
 
     # "It’s flatter than before."
-    "比先前平淡。"
+    "越来越没有感情。"
 
 # game/murdochroute3.rpy:4566
 translate Schinese murdochroute3b_20647d9c:
 
     # al "\"No bad taste in people.\""
-    al "\"看人眼光不错。\""
+    al "\"看人的眼光不错。\""
 
 # game/murdochroute3.rpy:4569
 translate Schinese murdochroute3b_c0c3cc4b:
 
     # al "\"No, not him.\""
-    al "\"他这点确实不错。\""
+    al "\"确实不错。\""
 
 # game/murdochroute3.rpy:4571
 translate Schinese murdochroute3b_27f77bf3:
@@ -14850,13 +14850,13 @@ translate Schinese murdochroute3b_27f77bf3:
 translate Schinese murdochroute3b_2e81ec35:
 
     # al "\"Do you have any, ah, regrets, Mr. Ayers?\""
-    al "\"你有任何、呃、后悔的事吗，Ayers先生？\""
+    al "\"你有任何，嗯，后悔的事吗，Ayers先生？\""
 
 # game/murdochroute3.rpy:4575
 translate Schinese murdochroute3b_a6c276d8:
 
     # "I regret that I’m not a mind reader so I could find out what we need to leave."
-    "我真后悔我不会读心，不然就能看穿到底要找到什麽才能走了。"
+    "我真后悔自己不会读心，不能拿起东西直接走人。"
 
 # game/murdochroute3.rpy:4576
 translate Schinese murdochroute3b_a9277de7:
@@ -14874,37 +14874,37 @@ translate Schinese murdochroute3b_cd098237:
 translate Schinese murdochroute3b_432fe7d9:
 
     # m "\"Can’t say I’ve ever gotten nobody pregnant.\""
-    m "\"我都还没让人怀孕过呢。\""
+    m "\"我都没让人怀孕过呢。\""
 
 # game/murdochroute3.rpy:4581
 translate Schinese murdochroute3b_3b483761:
 
     # "That would be impossible for more reasons than one."
-    "从很多方面来说都不可能。"
+    "从各方面来说都不可能。"
 
 # game/murdochroute3.rpy:4583
 translate Schinese murdochroute3b_365f047c:
 
     # al "\"Good on you for that, Mr. Ayers.\""
-    al "\"那挺好的，Ayers先生。\""
+    al "\"那很好，Ayers先生。\""
 
 # game/murdochroute3.rpy:4586
 translate Schinese murdochroute3b_0875e7a2:
 
     # al "\"God rewards the chaste.\""
-    al "\"神会褒奖贞操。\""
+    al "\"上帝会奖励贞洁的人。\""
 
 # game/murdochroute3.rpy:4588
 translate Schinese murdochroute3b_4a088ad7:
 
     # "Well, that’s too fuckin’ bad."
-    "嗯，那太他妈可惜了。"
+    "那可太他妈可惜了。"
 
 # game/murdochroute3.rpy:4589
 translate Schinese murdochroute3b_82afb0e1:
 
     # "Not like I think God rewards anybody, anyhow."
-    "虽然我是不认为神会褒奖任何人啦。"
+    "虽然我不认为祂会褒奖任何人。"
 
 # game/murdochroute3.rpy:4591
 translate Schinese murdochroute3b_2a3dad78:
@@ -14916,13 +14916,13 @@ translate Schinese murdochroute3b_2a3dad78:
 translate Schinese murdochroute3b_5f57b4c9:
 
     # al "\"You become a better person, I think, when you learn to lose the things you love.\""
-    al "\"我认为，人在失去心爱的事物后，会成为更好的人。\""
+    al "\"我认为，一个人在失去心爱之物后方能得到蜕变。\""
 
 # game/murdochroute3.rpy:4596
 translate Schinese murdochroute3b_bc33509e:
 
     # "Let’s stop thinking about the things that you love and focus on the things in the basement."
-    "别再想心爱的东西了，想想地下室的东西吧。"
+    "别再想什么心爱之物了，想想地下室的东西吧。"
 
 # game/murdochroute3.rpy:4598
 translate Schinese murdochroute3b_43cb5e8a:
@@ -14934,31 +14934,31 @@ translate Schinese murdochroute3b_43cb5e8a:
 translate Schinese murdochroute3b_8782904d:
 
     # al "\"You become a better man.\""
-    al "\"就能增进自己。\""
+    al "\"就能精进自己。\""
 
 # game/murdochroute3.rpy:4604
 translate Schinese murdochroute3b_f0cf8075:
 
     # al "\"If more people rose to that challenge, then what a world it would be.\""
-    al "\"如果有更多人愿意挑战这件事，真不知这世界会怎麽样。\""
+    al "\"如果有更多人愿意挑战这件事，真不敢想象那会是怎样一个美好的世界。\""
 
 # game/murdochroute3.rpy:4607
 translate Schinese murdochroute3b_108e9dcf:
 
     # al "\"Oh, what a world it would be.\""
-    al "\"噢，真不知那会是个什麽样的世界。\""
+    al "\"啊，真不敢想象。\""
 
 # game/murdochroute3.rpy:4610
 translate Schinese murdochroute3b_bc81c800:
 
     # al "\"Cleaner, for sure.\""
-    al "\"肯定会更洁淨。\""
+    al "\"肯定会更洁净。\""
 
 # game/murdochroute3.rpy:4612
 translate Schinese murdochroute3b_9788f6f8:
 
     # m "\"...Right.\""
-    m "\"……对。\""
+    m "\"...对。\""
 
 # game/murdochroute3.rpy:4614
 translate Schinese murdochroute3b_49ef5900:
@@ -14970,67 +14970,67 @@ translate Schinese murdochroute3b_49ef5900:
 translate Schinese murdochroute3b_cdc1d3a8:
 
     # al "\"...No.\""
-    al "\"……不是。\""
+    al "\"...不是。\""
 
 # game/murdochroute3.rpy:4619
 translate Schinese murdochroute3b_a6a7f934:
 
     # al "\"It’s a silverware set.\""
-    al "\"是银製餐具组。\""
+    al "\"是银制餐具组。\""
 
 # game/murdochroute3.rpy:4622
 translate Schinese murdochroute3b_899d736d:
 
     # al "\"I’ve been saving it for years.\""
-    al "\"我保存了好几年。\""
+    al "\"我保存了很多年。\""
 
 # game/murdochroute3.rpy:4625
 translate Schinese murdochroute3b_b933e7e0:
 
     # al "\"It’ll be somewhere along the floor, but everybody just messes with my things down here.\""
-    al "\"应该是在地上的某个地方，但大家都在乱动我这里的东西。\""
+    al "\"本来存放在地上，但每个人都在乱动我的东西。\""
 
 # game/murdochroute3.rpy:4628
 translate Schinese murdochroute3b_61a11dac:
 
     # al "\"They shouldn’t be.\""
-    al "\"他们不该的。\""
+    al "\"他们不该这么做的。\""
 
 # game/murdochroute3.rpy:4631
 translate Schinese murdochroute3b_830eca26:
 
     # al "\"If you get down on your knees there might be be something under one of the table.\""
-    al "\"跪在地上看的话桌子下面可能有东西。\""
+    al "\"可能得跪下来看看桌子底下。\""
 
 # game/murdochroute3.rpy:4634
 translate Schinese murdochroute3b_a93d2211:
 
     # al "\"I would do it but my legs are bad.\""
-    al "\"我是想自己来，但我腿不好使。\""
+    al "\"我是想亲自找，但我的腿脚不好使了。\""
 
 # game/murdochroute3.rpy:4636
 translate Schinese murdochroute3b_15be1ce2:
 
     # m "\"Just stand on the opposite end of the room to give me space and I’ll go it.\""
-    m "\"那你先站到房间另外一边，给我腾点空间就行了。\""
+    m "\"您先去房间另一边休息，这点事交给我就行。\""
 
 # game/murdochroute3.rpy:4638
 translate Schinese murdochroute3b_3cd2b0f7:
 
     # al "\"Of course.\""
-    al "\"没问题。\""
+    al "\"那敢情好。\""
 
 # game/murdochroute3.rpy:4641
 translate Schinese murdochroute3b_2c53ee8d:
 
     # "I lower myself to the basement floor and it’s filthy."
-    "我跪在地下室地面，髒得很。"
+    "我跪在脏得不得了的地下室里。"
 
 # game/murdochroute3.rpy:4642
 translate Schinese murdochroute3b_82c9ea70:
 
     # "The bricks are covered completely with dust, and there’s dark splotches underneath."
-    "地砖上满是灰尘，底下还有黑斑。"
+    "满是灰尘不说，更有黑斑在地砖上。"
 
 # game/murdochroute3.rpy:4644
 translate Schinese murdochroute3b_df9cb169:
@@ -15042,19 +15042,19 @@ translate Schinese murdochroute3b_df9cb169:
 translate Schinese murdochroute3b_ab45522c:
 
     # "There’s an old box with hinges that looks promising."
-    "有个旧箱子，边框看起来很有戏。"
+    "是个带铰链的旧箱子，看起来有戏。"
 
 # game/murdochroute3.rpy:4647
 translate Schinese murdochroute3b_2056e45a:
 
     # "The handle is cold to the touch."
-    "把手很冰凉。"
+    "把手冰凉凉的。"
 
 # game/murdochroute3.rpy:4649
 translate Schinese murdochroute3b_a3327e76:
 
     # "It scrapes along the bricks as I pull it out from under the table."
-    "我将其从桌下在地上拖出。"
+    "我将其拖出，留下一道刮痕。"
 
 # game/murdochroute3.rpy:4651
 translate Schinese murdochroute3b_1699825a:
@@ -15066,13 +15066,13 @@ translate Schinese murdochroute3b_1699825a:
 translate Schinese murdochroute3b_4f64165d:
 
     # "I look to the old fox who’s just standing in a corner, staring at me."
-    "我看向站在角落的老狐狸，他正盯着我。"
+    "我看向站在角落里的老狐狸，他也看着我。"
 
 # game/murdochroute3.rpy:4655
 translate Schinese murdochroute3b_ed66a8e1:
 
     # "He doesn’t respond, but I think he expects me to open it."
-    "他没回话，但应该是想要我打开。"
+    "他没回话，看样子是要我打开。"
 
 # game/murdochroute3.rpy:4657
 translate Schinese murdochroute3b_a9d35ef0:
@@ -15090,19 +15090,19 @@ translate Schinese murdochroute3b_933275f6:
 translate Schinese murdochroute3b_8d903dda:
 
     # "If they didn’t belong to Murdoch, they probably belonged to his brother."
-    "要不是Murdoch的，就是他弟的。"
+    "不是Murdoch的，就是他弟的。"
 
 # game/murdochroute3.rpy:4660
 translate Schinese murdochroute3b_6aa64bd9:
 
     # "Morbid that they’re still down here."
-    "还留在这真渗人。"
+    "在这底下怪渗人的。"
 
 # game/murdochroute3.rpy:4661
 translate Schinese murdochroute3b_a71bf2e6:
 
     # m "\"This ain’t it.\""
-    m "\"不是这个。\""
+    m "\"不是。\""
 
 # game/murdochroute3.rpy:4662
 translate Schinese murdochroute3b_4c696872:
@@ -15114,25 +15114,25 @@ translate Schinese murdochroute3b_4c696872:
 translate Schinese murdochroute3b_93115a28:
 
     # "I push it back under the table and crouch down again."
-    "推回桌子底下后我再次蹲下。"
+    "把箱子推回原处后，我重新蹲下。"
 
 # game/murdochroute3.rpy:4667
 translate Schinese murdochroute3b_572c01a5:
 
     # "This time there’s a thin, heavy box that clatters when I move it."
-    "这次是个比较扁的重箱子，我一动就发出了金属碰撞声。"
+    "这次是个扁平的重箱子，我一挪，里面就叮当作响。"
 
 # game/murdochroute3.rpy:4668
 translate Schinese murdochroute3b_1edee34d:
 
     # m "\"Oh, this could be it.\""
-    m "\"哦，可能是这个。\""
+    m "\"噢，这个有可能。\""
 
 # game/murdochroute3.rpy:4671
 translate Schinese murdochroute3b_b6a860f9:
 
     # "I feel him walk past me and shudder."
-    "感觉他走了过来，我为之一颤。"
+    "感觉他走了过来，我不禁一颤。"
 
 # game/murdochroute3.rpy:4672
 translate Schinese murdochroute3b_368b0f41:
@@ -15144,25 +15144,25 @@ translate Schinese murdochroute3b_368b0f41:
 translate Schinese murdochroute3b_bdc675ae:
 
     # "He’s in a different corner of the room now, pulling sheets from a box."
-    "他正在另一个角落，从箱中拉出被单。"
+    "只见他正在另一个角落，从箱中拉出被单。"
 
 # game/murdochroute3.rpy:4676
 translate Schinese murdochroute3b_64175e44:
 
     # "I think he’s examining them."
-    "仔细检查。"
+    "仔细查看。"
 
 # game/murdochroute3.rpy:4678
 translate Schinese murdochroute3b_9c86ffd8:
 
     # "Box that I have turns out to be metal Christmas ornaments, built from wire and string."
-    "结果我拿出来的箱子里装的是圣诞装饰，满是绳线。"
+    "结果我这边的箱子里装的是用金属、电线和绳子制成的圣诞饰品。"
 
 # game/murdochroute3.rpy:4680
 translate Schinese murdochroute3b_17124158:
 
     # "Disappointed, I put them under the table again."
-    "我失落地把它放回桌下。"
+    "我失望地把它放回桌底。"
 
 # game/murdochroute3.rpy:4682
 translate Schinese murdochroute3b_d3aaed4b:
@@ -15174,19 +15174,19 @@ translate Schinese murdochroute3b_d3aaed4b:
 translate Schinese murdochroute3b_be4ee147:
 
     # "As much as I’d like my mind to be elsewhere..."
-    "但我完全心不在焉……"
+    "但我完全心不在焉..."
 
 # game/murdochroute3.rpy:4684
 translate Schinese murdochroute3b_be0b9d56:
 
     # "While I’m down on the dirty floor once again, as my lover’s dad plays with sheets..."
-    "我再度跪在肮髒的地上，我情人的老爸正在把弄被单……"
+    "我第三次跪在肮脏的地上，我情人的老爸在把弄床单..."
 
 # game/murdochroute3.rpy:4685
 translate Schinese murdochroute3b_bfbbd584:
 
     # "I still can’t stop thinking about the carpet in Holly’s room."
-    "心里想的还是Holly房间那条毯子。"
+    "心中想的还是Holly房间里的毯子。"
 
 # game/murdochroute3.rpy:4686
 translate Schinese murdochroute3b_507d638c:
@@ -15198,109 +15198,109 @@ translate Schinese murdochroute3b_507d638c:
 translate Schinese murdochroute3b_de671587:
 
     # "She is away from her room at the school long enough to not know if it were put there."
-    "但她待在学校的时间这麽长，如果是别人放的，也未必知情。"
+    "不过她经常待在学校里，所以未尝不是别人放的。"
 
 # game/murdochroute3.rpy:4688
 translate Schinese murdochroute3b_e71f326d:
 
     # "But if it wasn’t her, then who?"
-    "可如果不是她，那是谁？"
+    "可如果不是她又是谁？"
 
 # game/murdochroute3.rpy:4690
 translate Schinese murdochroute3b_35178060:
 
     # "As I ask myself this, I come across another suitcase that was thinner than the last one."
-    "我向自己发问，同时发现了个比刚才那个箱子还更扁的行李箱。"
+    "我向自己发问，同时发现了个比刚才那个箱子还扁的手提箱。"
 
 # game/murdochroute3.rpy:4692
 translate Schinese murdochroute3b_4c9e233f:
 
     # "This one has a nice snap to it when I undo the buckles."
-    "我把锁拉开，发出了清脆的响声。"
+    "我解开锁，搭扣发出清脆的响声。"
 
 # game/murdochroute3.rpy:4694
 translate Schinese murdochroute3b_8a60c667:
 
     # "The dim shine of the cellar light is enough for me to see the gold sparkle coming from the box."
-    "地窖的光源昏暗，但依旧能看到箱里发出的金黄反光。"
+    "地下室光线很暗，但足以让我看清里面金黄的反光。"
 
 # game/murdochroute3.rpy:4695
 translate Schinese murdochroute3b_fb84fb8e:
 
     # "I can see forks and spoons."
-    "有叉子跟汤匙。"
+    "有勺子，有叉子。"
 
 # game/murdochroute3.rpy:4696
 translate Schinese murdochroute3b_c3b2cc3f:
 
     # "This is definitely it."
-    "绝对就是这个了。"
+    "是这个没跑了。"
 
 # game/murdochroute3.rpy:4700
 translate Schinese murdochroute3b_eff7ac43:
 
     # "But I flinch as I bump into something."
-    "但我撞到了什麽，吓了一跳。"
+    "突然有什么东西撞到了我，吓了我一跳。"
 
 # game/murdochroute3.rpy:4702
 translate Schinese murdochroute3b_7fd3e79c:
 
     # "The box I took out earlier overturns and opens, spilling some of the clothes on the ground."
-    "我先前拉出的箱子翻倒了，就这麽打开，里面衣物掉在地上。"
+    "原来是之前拉出来的箱子翻倒了，还有一些衣物掉在地上。"
 
 # game/murdochroute3.rpy:4704
 translate Schinese murdochroute3b_9afc0f07:
 
     # "I expect Mr. Byrnes to start yelling at me, but he’s in the corner still, moving on from the sheets and messing with more boxes."
-    "我本以为Byrnes先生会吼我，但他还待在角落，已经没在动被单了，而在翻找其他箱子。"
+    "出乎意料的是Byrnes先生并没有吼我，他仍待在角落，转而翻找起其他箱子。"
 
 # game/murdochroute3.rpy:4706
 translate Schinese murdochroute3b_f8c2bb11:
 
     # "One of the sheets is over his head."
-    "有张被单盖在他头上。"
+    "有张被单盖在他的头上。"
 
 # game/murdochroute3.rpy:4707
 translate Schinese murdochroute3b_a84f0e97:
 
     # "I can hear something, but it’s muffled."
-    "我听见他在嘟嚷什麽，但不清楚。"
+    "他嘟嚷着什么，但我听不清楚。"
 
 # game/murdochroute3.rpy:4708
 translate Schinese murdochroute3b_fc844818:
 
     # "I begin to stand up, waiting for him to take off the sheet."
-    "我站起身，等着他摘下被单。"
+    "我站起身，等待他摘下被单。"
 
 # game/murdochroute3.rpy:4709
 translate Schinese murdochroute3b_bace30e6:
 
     # "But it doesn’t seem like it’s going to happen."
-    "但他没有要动的迹象。"
+    "但他没有要摘的迹象。"
 
 # game/murdochroute3.rpy:4710
 translate Schinese murdochroute3b_c2d3fae7:
 
     # "I can see the outline of his muzzle shifting below as he breathes, or talks, or whatever he’s doing under there, like the marks left in the sand after the wind changes it."
-    "不管他是在呼吸、说话还是在干嘛，我能看见他吻部的轮廓随之变形，像是沙地上的印记被风吹动一般。"
+    "不管他是在呼吸、说话，还是干嘛，我可以看到他嘴巴的轮廓在变形，就像沙地被风吹动留下的波纹。"
 
 # game/murdochroute3.rpy:4711
 translate Schinese murdochroute3b_b3d376c8:
 
     # "It seems as though he’s forgotten where he is for the moment."
-    "彷彿他忘了自己人在哪里。"
+    "就像他忘了自己身在何处。"
 
 # game/murdochroute3.rpy:4712
 translate Schinese murdochroute3b_65c4cb78:
 
     # "I doubt we have much time spare so I shake him a bit."
-    "我们应该没多少时间能浪费了，于是我摇了他一下。"
+    "为了不浪费时间，我摇了他一下。"
 
 # game/murdochroute3.rpy:4713
 translate Schinese murdochroute3b_e3e7cd55:
 
     # m "\"It ain’t Halloween, Mr. Byrnes.\""
-    m "\"现在可不是万圣节啊，Byrnes先生。\""
+    m "\"今天可不是万圣节啊，Byrnes先生。\""
 
 # game/murdochroute3.rpy:4714
 translate Schinese murdochroute3b_cbc4269d:
@@ -15312,25 +15312,25 @@ translate Schinese murdochroute3b_cbc4269d:
 translate Schinese murdochroute3b_b8500ffd:
 
     # m "\"Mr, Byrnes, I found the silverware.\""
-    m "\"Byrnes先生，我找到银器了。\""
+    m "\"Byrnes先生，我找到银餐具了。\""
 
 # game/murdochroute3.rpy:4716
 translate Schinese murdochroute3b_2881ced9:
 
     # al "\"You’re born to fish, you know that?\""
-    al "\"你天生就是个钓手，你知不知道？\""
+    al "\"你天生就是钓鱼的料，知道吗？\""
 
 # game/murdochroute3.rpy:4717
 translate Schinese murdochroute3b_b79203e6:
 
     # m "\"Well, I’m terrible at fishing...\""
-    m "\"呃，我钓鱼技术很烂……\""
+    m "\"呃，我钓鱼技术很烂的...\""
 
 # game/murdochroute3.rpy:4718
 translate Schinese murdochroute3b_2e083949:
 
     # "But I do like it."
-    "但我是很喜欢钓鱼。"
+    "虽然我是喜欢钓鱼。"
 
 # game/murdochroute3.rpy:4719
 translate Schinese murdochroute3b_877129bc:
@@ -15342,31 +15342,31 @@ translate Schinese murdochroute3b_877129bc:
 translate Schinese murdochroute3b_097ebb3d:
 
     # al "\"That happens to the best--best of us.\""
-    al "\"也算好事一件——对我们都好。\""
+    al "\"算是好事一件，对我们都好。\""
 
 # game/murdochroute3.rpy:4721
 translate Schinese murdochroute3b_c7944f8f:
 
     # m "\"...What?\""
-    m "\"……什麽？\""
+    m "\"...您说什么？\""
 
 # game/murdochroute3.rpy:4722
 translate Schinese murdochroute3b_3bd6468d:
 
     # al "\"All you need to do now is close your eyes and cast it out.\""
-    al "\"你现在只要闭上眼睛抛竿就行了。\""
+    al "\"你现在只需闭上眼睛，抛竿就好了。\""
 
 # game/murdochroute3.rpy:4723
 translate Schinese murdochroute3b_70b86c1a:
 
     # al "\"The breeze is nice today.\""
-    al "\"今天风儿不错。\""
+    al "\"在这风和日丽的一天后。\""
 
 # game/murdochroute3.rpy:4724
 translate Schinese murdochroute3b_b918ba79:
 
     # al "\"After this, we’ll all sleep easy.\""
-    al "\"之后，我们都能睡个好觉。\""
+    al "\"我们都能睡个好觉。\""
 
 # game/murdochroute3.rpy:4725
 translate Schinese murdochroute3b_d590a284:
@@ -15390,91 +15390,91 @@ translate Schinese murdochroute3b_c753a0ea:
 translate Schinese murdochroute3b_89d422ca:
 
     # "What I expect to see is the dazed expression of a doddering old fool."
-    "我以为会看到痴呆老人空洞的表情。"
+    "下面并非老人痴呆茫然的表情。"
 
 # game/murdochroute3.rpy:4729
 translate Schinese murdochroute3b_9749f193:
 
     # "But what I see is a terrible face."
-    "映入眼帘的却是张可怕的脸。"
+    "而是一张可怕的脸。"
 
 # game/murdochroute3.rpy:4730
 translate Schinese murdochroute3b_207b73bd:
 
     # "His brow is so tightly furrowed that I can see the black behind his face, and the dark of his gums are curled so tightly that I can see every single one of his teeth."
-    "他眉头深锁，连头皮都暴露了出来；嘴唇也紧紧捲起，牙齿尽数露出。"
+    "他眉头紧缩，脸色发青，嘴唇高高卷起，牙齿尽数露出。"
 
 # game/murdochroute3.rpy:4731
 translate Schinese murdochroute3b_f0da811c:
 
     # "He has the look of a man who awoke from his dream and hates me for it, ready to snap at my throat."
-    "他活像个从梦中惊醒的人，对着唤醒他的我出气，随时要往我喉头一咬。"
+    "活像一个被从梦中惊醒的人，对唤醒他的我出气，随时准备咬断我的喉咙。"
 
 # game/murdochroute3.rpy:4732
 translate Schinese murdochroute3b_16bb567a:
 
     # "But this too seems like a passing dream for him."
-    "但就连这对他好像也只是个白日梦。"
+    "但对他来说，这好像也只是一场白日梦。"
 
 # game/murdochroute3.rpy:4734
 translate Schinese murdochroute3b_2c0b80ea:
 
     # "He relaxes and looks at the case in my hand, and sighs a breath of relief."
-    "他放松下来，看着我手中的箱子，松了口气。"
+    "他放松了下来，看着我手中的箱子，松了口气。"
 
 # game/murdochroute3.rpy:4736
 translate Schinese murdochroute3b_bb93ca3e:
 
     # al "\"Took us long enough.\""
-    al "\"终于啊。\""
+    al "\"终于找到了。\""
 
 # game/murdochroute3.rpy:4738
 translate Schinese murdochroute3b_a03c7850:
 
     # "He chuckles and snatches the case from my paw as if nothing over the course of the last few seconds ever happened."
-    "他呵呵一笑，从我手中抢过箱子，好像刚才那几秒的事从来没发生过似的。"
+    "他呵呵一笑，从我手中抢过箱子，仿佛刚才几秒钟没有任何事情发生。"
 
 # game/murdochroute3.rpy:4740
 translate Schinese murdochroute3b_70d84bf4:
 
     # "He takes a moment to open the case and look through it, eyes bright like paintings of Santa Claus."
-    "他花了点时间把箱子打开查看，眼睛雪亮得像是圣诞老人的画像那样。"
+    "他花了点时间把箱子打开查看，眼睛如画布上的圣诞老人般雪亮。"
 
 # game/murdochroute3.rpy:4742
 translate Schinese murdochroute3b_e14faeec:
 
     # al "\"Yep, this will do us fine, Mr. Ayers.\""
-    al "\"嗯，这就好了，Ayers先生。\""
+    al "\"嗯，就是这些，Ayers先生。\""
 
 # game/murdochroute3.rpy:4745
 translate Schinese murdochroute3b_8285e7fe:
 
     # al "\"You carry this to the wedding venue.\""
-    al "\"你把这搬到婚礼场地吧。\""
+    al "\"你把它搬到婚礼现场吧。\""
 
 # game/murdochroute3.rpy:4747
 translate Schinese murdochroute3b_36b169a2:
 
     # m "\"Where is the wedding venue?\""
-    m "\"婚礼场地是哪？\""
+    m "\"婚礼现场是哪？\""
 
 # game/murdochroute3.rpy:4748
 translate Schinese murdochroute3b_e17befb0:
 
     # "They still haven’t told me."
-    "他们没跟我说过。"
+    "我都没听他们说过。"
 
 # game/murdochroute3.rpy:4750
 translate Schinese murdochroute3b_df27279e:
 
     # al "\"You one of those Mormons or somethin’?\""
-    al "\"你是摩门教徒还是什麽的？\""
+    al "\"你是摩门教徒之类的吗？\""
 
 # game/murdochroute3.rpy:4752
 translate Schinese murdochroute3b_00019193:
 
     # m "\"Baptist.\""
-    m "\"浸信宗。\""
+    m "\"浸礼会。\""
 
 # game/murdochroute3.rpy:4753
 translate Schinese murdochroute3b_54952f0b:
@@ -15486,43 +15486,43 @@ translate Schinese murdochroute3b_54952f0b:
 translate Schinese murdochroute3b_a694cc0b:
 
     # al "\"Better, but still shouldn’t have asked.\""
-    al "\"好一点，但还是不该问这种问题。\""
+    al "\"比摩门教好一点，但也不该问这种问题。\""
 
 # game/murdochroute3.rpy:4758
 translate Schinese murdochroute3b_b628eda0:
 
     # al "\"The venue is at the church, next door to the temple.\""
-    al "\"场地自然是在教堂，就在寺庙隔壁。\""
+    al "\"婚礼自然是在寺庙旁的教堂里举办。\""
 
 # game/murdochroute3.rpy:4761
 translate Schinese murdochroute3b_9cb07a67:
 
     # al "\"We’ll be holding most of the ceremony on the veranda.\""
-    al "\"典礼大部分是在骑楼下举行的。\""
+    al "\"我们将在游廊上举行大部分仪式。\""
 
 # game/murdochroute3.rpy:4763
 translate Schinese murdochroute3b_4cef6b3f:
 
     # "He grunts as we walk up the stairs, and it’s a little off-putting, but I’m just grateful to be out of this cellar."
-    "他闷哼一声后上了楼，让我有点不爽，但也庆幸能离开这地窖了。"
+    "他闷哼一声便后上了楼，虽然有点不爽，但所幸能离开这地下室了。"
 
 # game/murdochroute3.rpy:4765
 translate Schinese murdochroute3b_9630ab51:
 
     # "It already feels easier to breathe once we get into the hallway."
-    "一来到走廊上，呼吸就轻松多了。"
+    "一来到走廊上，呼吸也轻松多了。"
 
 # game/murdochroute3.rpy:4768
 translate Schinese murdochroute3b_d9503d21:
 
     # "When we pass through the living room, Murdoch’s grandmother is gone."
-    "经过客厅时，Murdoch的祖母已经不在了。"
+    "经过客厅时，Murdoch的祖母已不见了身影。"
 
 # game/murdochroute3.rpy:4770
 translate Schinese murdochroute3b_5c08b32a:
 
     # m "\"Is she gonna be okay?\""
-    m "\"她不会有问题吧？\""
+    m "\"她身体没问题吧？\""
 
 # game/murdochroute3.rpy:4772
 translate Schinese murdochroute3b_df836264:
@@ -15534,91 +15534,91 @@ translate Schinese murdochroute3b_df836264:
 translate Schinese murdochroute3b_8bf8fc52:
 
     # al "\"She usually is.\""
-    al "\"通常没事。\""
+    al "\"一般没事。\""
 
 # game/murdochroute3.rpy:4781
 translate Schinese murdochroute3b_1ba67a51:
 
     # "The walk downtown is made a little trickier with the heavy silverware set I’m holding."
-    "扛着沉重的餐具组，往市中心的路途有点麻烦。"
+    "我抱着沉重的餐具组，吃力地走在通往镇中心的路上。"
 
 # game/murdochroute3.rpy:4782
 translate Schinese murdochroute3b_89b9e585:
 
     # "For a summer morning, it’s still very hot."
-    "哪怕是夏天的早上，今天也算热的。"
+    "哪怕是在夏天，今早也够热的了。"
 
 # game/murdochroute3.rpy:4784
 translate Schinese murdochroute3b_9b87d8a5:
 
     # "Gonna have to hose myself down before we’re dressed if I want to be fresh."
-    "要注重整洁的话，得把身子冲一下才好穿上正装。"
+    "为了保持整洁，我还得把身子冲一下再穿正装。"
 
 # game/murdochroute3.rpy:4788
 translate Schinese murdochroute3b_aa6ce0de:
 
     # "As we approach the venue, I can’t help but feel impressed."
-    "来到现场时，我不禁感到惊艳。"
+    "来到现场后，我不禁发出感叹。"
 
 # game/murdochroute3.rpy:4789
 translate Schinese murdochroute3b_58da7246:
 
     # "It’s the most packed I’ve ever seen a church in Echo."
-    "这是我在Echo看过教堂人最多的一次。"
+    "这绝对是回音镇教堂人最多的一次。"
 
 # game/murdochroute3.rpy:4790
 translate Schinese murdochroute3b_4305adf2:
 
     # "Well, at least a church site."
-    "至少教堂这一带是。"
+    "起码我看到的这一带是。"
 
 # game/murdochroute3.rpy:4791
 translate Schinese murdochroute3b_fcd11adb:
 
     # "The temple next door looks as nearly empty as always."
-    "隔壁的寺庙倒是跟平常一样没几个人。"
+    "隔壁的寺庙倒是跟平常一样，空空如也。"
 
 # game/murdochroute3.rpy:4794
 translate Schinese murdochroute3b_ae868f4f:
 
     # "Turns out veranda is just a fancy word for a porch."
-    "结果骑楼不过就是把门廊说得动听点嘛。"
+    "话说回来，游廊不就是把门厅说得好听点嘛。"
 
 # game/murdochroute3.rpy:4795
 translate Schinese murdochroute3b_a5bb727d:
 
     # "I see Murdoch’ sisters, his mother, and his grandmother fussing about, along with some other laborers, and a handful of elder women I’ve never seen before."
-    "Murdoch姊妹、母亲跟祖母和其他几个员工，以及我从没看过的几个年长女性都在忙碌。"
+    "Murdoch的姐妹、母亲、祖母、其他员工，以及几个面生的年长女性正在忙碌。"
 
 # game/murdochroute3.rpy:4796
 translate Schinese murdochroute3b_f5b47012:
 
     # "Everybody looks stressed out, still putting on the last touches on everything."
-    "大家都很焦急，忙着给一切做好最后的点缀。"
+    "每个人看起来都很焦急，力求把一切做到完美。"
 
 # game/murdochroute3.rpy:4799
 translate Schinese murdochroute3b_b4d2a38d:
 
     # gr "\"Oh good, we have the utensils finally.\""
-    gr "\"好啦，这下我们终于有餐具了。\""
+    gr "\"好啦，这下我们总算有餐具了。\""
 
 # game/murdochroute3.rpy:4801
 translate Schinese murdochroute3b_0642dbfc:
 
     # "Murdoch’s mother stalks toward me in maybe the most expensive outfit I’ve ever seen."
-    "Murdoch母亲走向我，身穿可能是我所见过最昂贵的服装。"
+    "Murdoch的母亲走了过来，她身上穿着可能是我见过最昂贵的衣服。"
 
 # game/murdochroute3.rpy:4803
 translate Schinese murdochroute3b_802544fa:
 
     # gr "\"And here I thought we were going to tell the guests that we’d be using the pinecones.\""
-    gr "\"我还以为得让宾客用松果当餐具呢。\""
+    gr "\"我差点就要用松果来宴请宾朋了。\""
 
 # game/murdochroute3.rpy:4805
 translate Schinese murdochroute3b_2bddcd26:
 
     # "I shift a bit."
-    "我挪动重心。"
+    "我调整了一下重心。"
 
 # game/murdochroute3.rpy:4807
 translate Schinese murdochroute3b_094e2252:
@@ -15636,13 +15636,13 @@ translate Schinese murdochroute3b_199edc93:
 translate Schinese murdochroute3b_b9eac741:
 
     # gr "\"Just give it to the caterers.\""
-    gr "\"给接待人员就行了。\""
+    gr "\"给接待就行了。\""
 
 # game/murdochroute3.rpy:4813
 translate Schinese murdochroute3b_a3a214c8:
 
     # gr "\"There is no party without our heavy labor, but to make the party it calls for a much more delicate touch.\""
-    gr "\"劳工自然是宴会必不可少的，但这次的宴会得更加细腻才行。\""
+    gr "\"劳工的确是本次宴会不可或缺的一员，但为了让宴会成功，我们还需要更加细腻的手法。\""
 
 # game/murdochroute3.rpy:4815
 translate Schinese murdochroute3b_6894cf49:
@@ -15666,85 +15666,85 @@ translate Schinese murdochroute3b_48b0df07:
 translate Schinese murdochroute3b_02cafb7a:
 
     # m "\"Oh!\""
-    m "\"喔！\""
+    m "\"哦！\""
 
 # game/murdochroute3.rpy:4821
 translate Schinese murdochroute3b_c7bb4129:
 
     # m "\"Uh, well, hi there.\""
-    m "\"呃、嗯，妳好啊。\""
+    m "\"呃，唔，你好。\""
 
 # game/murdochroute3.rpy:4824
 translate Schinese murdochroute3b_e5d2bacf:
 
     # "Murdoch’s mother makes a grand gesture with her hands to Cynthia and then walks away,{nw}"
-    "Murdoch母亲郑重地向我示意Cynthia后便离去，{nw}"
+    "Murdoch的母亲装腔作势地向我示意Cynthia后{nw}"
 
 # game/murdochroute3.rpy:4827
 translate Schinese murdochroute3b_40378506:
 
     # extend " heels clicking quickly as she moves."
-    extend "发出了高跟鞋的快步声。"
+    extend "便踩着高跟鞋，迈着小碎步离去了。"
 
 # game/murdochroute3.rpy:4828
 translate Schinese murdochroute3b_eb1eadbf:
 
     # m "\"So what are you doing here?\""
-    m "\"妳怎麽在这里？\""
+    m "\"你怎么在这？\""
 
 # game/murdochroute3.rpy:4831
 translate Schinese murdochroute3b_62ec1176:
 
     # cy "\"Who else is going to cater fine dining in Echo?\""
-    cy "\"不然Echo还有谁能接待晚宴？\""
+    cy "\"不然回音镇还有哪家能承接酒席的？\""
 
 # game/murdochroute3.rpy:4833
 translate Schinese murdochroute3b_d75a156a:
 
     # cy "\"The Silver Dollar?\""
-    cy "\"银园餐馆吗？\""
+    cy "\"银元餐馆吗？\""
 
 # game/murdochroute3.rpy:4835
 translate Schinese murdochroute3b_eb0851a7:
 
     # "She lets out a loud laugh."
-    "她高笑一声。"
+    "她大笑着说："
 
 # game/murdochroute3.rpy:4838
 translate Schinese murdochroute3b_36504a38:
 
     # cy "\"Why pay for the silver experience when you can afford the gold?\""
-    cy "\"能付得起黄金等级的服务，还要白银的干嘛？\""
+    cy "\"能付得起黄金级别的服务，还要白银的干嘛？\""
 
 # game/murdochroute3.rpy:4840
 translate Schinese murdochroute3b_beb63c18:
 
     # m "\"Is... is that the line you give people in the bar?\""
-    m "\"这……这是妳在酒吧会说的话吗？\""
+    m "\"你...你没在酒吧里这么跟人说吧？\""
 
 # game/murdochroute3.rpy:4842
 translate Schinese murdochroute3b_fbd29a18:
 
     # cy "\"It could be!\""
-    cy "\"可以是啊！\""
+    cy "\"也可以啊！\""
 
 # game/murdochroute3.rpy:4845
 translate Schinese murdochroute3b_675efb7d:
 
     # cy "\"Besides, Echo’s whole suffragette party was invited to attend.\""
-    cy "\"再说，整个Echo的女权运动党都被邀来了呢。\""
+    cy "\"再说，全镇的女权运动党都被邀请来了呢。\""
 
 # game/murdochroute3.rpy:4847
 translate Schinese murdochroute3b_9372d885:
 
     # m "\"What, that party who hates men?\""
-    m "\"什麽，那个讨厌男人的党派吗？\""
+    m "\"什，那个讨厌男人的党派吗？\""
 
 # game/murdochroute3.rpy:4848
 translate Schinese murdochroute3b_59c26b48:
 
     # "Cynthia’s composure falls and she almost does a full-body recoil."
-    "Cynthia姿态崩解，整个人差点没退半步。"
+    "Cynthia一个踉跄，整个人都退了半步。"
 
 # game/murdochroute3.rpy:4850
 translate Schinese murdochroute3b_2854cbdc:
@@ -15756,19 +15756,19 @@ translate Schinese murdochroute3b_2854cbdc:
 translate Schinese murdochroute3b_89c15f5d:
 
     # cy "\"Don’t let anybody here let you say something so stupid or they’ll throw your ass flat out.\""
-    cy "\"你可别让人听见你说这种蠢话，不然等着被赶出去吧。\""
+    cy "\"千万别让人听见你说这种蠢话，否则就等着被赶出去吧。\""
 
 # game/murdochroute3.rpy:4854
 translate Schinese murdochroute3b_9aa45250:
 
     # m "\"Well, I don’t {i}really{/i} know what they’re about.\""
-    m "\"呃，我{i}其实{/i}不太清楚那是在干嘛的。\""
+    m "\"好吧，反正我也{b}不清楚{/b}那是干啥的。\""
 
 # game/murdochroute3.rpy:4855
 translate Schinese murdochroute3b_a6a3a81e:
 
     # m "\"I try not to get too involved in government.\""
-    m "\"我都尽量避免政府议题。\""
+    m "\"我尽量避免掺和政治。\""
 
 # game/murdochroute3.rpy:4856
 translate Schinese murdochroute3b_c1e968ec:
@@ -15780,7 +15780,7 @@ translate Schinese murdochroute3b_c1e968ec:
 translate Schinese murdochroute3b_2d6ee573:
 
     # m "\"Oh.\""
-    m "\"喔。\""
+    m "\"哦。\""
 
 # game/murdochroute3.rpy:4859
 translate Schinese murdochroute3b_fa314b1a:
@@ -15792,19 +15792,19 @@ translate Schinese murdochroute3b_fa314b1a:
 translate Schinese murdochroute3b_d7009bf1:
 
     # cy "\"Yeah.\""
-    cy "\"嗯啊。\""
+    cy "\"嗯。\""
 
 # game/murdochroute3.rpy:4861
 translate Schinese murdochroute3b_91ea4df7:
 
     # m "\"Well, I support that.\""
-    m "\"呃，那我支持。\""
+    m "\"呃，那我支持她们。\""
 
 # game/murdochroute3.rpy:4862
 translate Schinese murdochroute3b_88f6586b:
 
     # cy "\"Uh huh.\""
-    cy "\"哼嗯。\""
+    cy "\"哼，哼。\""
 
 # game/murdochroute3.rpy:4863
 translate Schinese murdochroute3b_9532ffdf:
@@ -15816,13 +15816,13 @@ translate Schinese murdochroute3b_9532ffdf:
 translate Schinese murdochroute3b_bcf58998:
 
     # "I bet it’s more complicated than that but I don’t want to look any more stupid today than I already do."
-    "事情一定比这更加複杂，但我不想再丢人现眼了。"
+    "事情一定没有这么简单，但我不想再丢人现眼了。"
 
 # game/murdochroute3.rpy:4865
 translate Schinese murdochroute3b_fa7e08b2:
 
     # m "\"I’m gonna go help get things ready.\""
-    m "\"我得去帮忙准备了。\""
+    m "\"我得去准备东西了。\""
 
 # game/murdochroute3.rpy:4866
 translate Schinese murdochroute3b_06509bf8:
@@ -15834,55 +15834,55 @@ translate Schinese murdochroute3b_06509bf8:
 translate Schinese murdochroute3b_6b2ed916:
 
     # m "\"Bye.\""
-    m "\"掰。\""
+    m "\"拜。\""
 
 # game/murdochroute3.rpy:4869
 translate Schinese murdochroute3b_163e1d95:
 
     # "I can feel her eyes on my back as she stares me down."
-    "我感觉得到她正在死盯着我背影。"
+    "我感觉得到她正死死盯着我的背影。"
 
 # game/murdochroute3.rpy:4871
 translate Schinese murdochroute3b_0016cf35:
 
     # "The good thing about churches is that you can always depend upon them to be empty."
-    "教堂最棒的地方就是里面通常没人。"
+    "教堂的一大好处就是，里面总是很空。"
 
 # game/murdochroute3.rpy:4874
 translate Schinese murdochroute3b_f441a026:
 
     # "Or, well, at least mostly empty."
-    "或者应该说没多少人。"
+    "或者说基本上很空。"
 
 # game/murdochroute3.rpy:4875
 translate Schinese murdochroute3b_065e3d01:
 
     # "There’s a pew near the front."
-    "有几个在前台边。"
+    "前面有张长椅。"
 
 # game/murdochroute3.rpy:4882
 translate Schinese murdochroute3b_ae95b2dd:
 
     # "Holly and Jim are sitting there in silence, dressed in their wedding clothes."
-    "婚礼装扮的Holly跟Jim默默地坐着。"
+    "上边静静坐着婚礼打扮的Holly和Jim。"
 
 # game/murdochroute3.rpy:4883
 translate Schinese murdochroute3b_78695016:
 
     # "Murdoch sits in the middle, head bowed, posture bent over like one in prayer, but to who or for what I wouldn’t know."
-    "Murdoch坐在他们中间，像在祈祷般低头，不知道是向谁、为了什麽。"
+    "Murdoch坐在他们中间低头祈祷，但不知道向谁，也不知道为了什么。"
 
 # game/murdochroute3.rpy:4885
 translate Schinese murdochroute3b_90d35dbd:
 
     # m "\"Don’t y’all know it’s bad luck for a bride and groom to see one another on their wedding day?\""
-    m "\"你们难道不知道婚礼当天新郎新娘看到对方是个坏兆头吗？\""
+    m "\"你们难道不知道婚礼当天新郎新娘见面是不吉利的吗？\""
 
 # game/murdochroute3.rpy:4886
 translate Schinese murdochroute3b_81bfb2d2:
 
     # "They don’t look like they’re talking, but none of them are looking at the altar either; like they’re too uncomfortable to look at it."
-    "他们不像是在谈话，但也没看着祭坛，好像不愿去看似的。"
+    "他们不像在谈话，但也没看着圣坛，好像不愿意去看似的。"
 
 # game/murdochroute3.rpy:4888
 translate Schinese murdochroute3b_6807a542:
@@ -15894,7 +15894,7 @@ translate Schinese murdochroute3b_6807a542:
 translate Schinese murdochroute3b_bc1ebe68:
 
     # ho "\"A church is a place for thinking, not speaking.\""
-    ho "\"教堂是给人思考的地方，不是说话用的。\""
+    ho "\"教堂是引人思考的地方，不是聊天用的。\""
 
 # game/murdochroute3.rpy:4893
 translate Schinese murdochroute3b_b7ca85bb:
@@ -15906,7 +15906,7 @@ translate Schinese murdochroute3b_b7ca85bb:
 translate Schinese murdochroute3b_e27cc7c6:
 
     # "Murdoch stands up, and looks to his sister."
-    "Murdoch起身，看向他姊。"
+    "Murdoch起身看向他姐。"
 
 # game/murdochroute3.rpy:4896
 translate Schinese murdochroute3b_ef6a0c03:
@@ -15924,31 +15924,31 @@ translate Schinese murdochroute3b_0278cc6e:
 translate Schinese murdochroute3b_29bf04c6:
 
     # "Then he holds out an elbow for me."
-    "然后伸出手肘。"
+    "然后伸出胳膊。"
 
 # game/murdochroute3.rpy:4904
 translate Schinese murdochroute3b_9e2304d6:
 
     # m "\"What are you doing?\""
-    m "\"你在干嘛？\""
+    m "\"怎么了？\""
 
 # game/murdochroute3.rpy:4906
 translate Schinese murdochroute3b_b523c3f3:
 
     # mu "\"Just getting in some practice.\""
-    mu "\"演练一下而已。\""
+    mu "\"排练一下而已。\""
 
 # game/murdochroute3.rpy:4908
 translate Schinese murdochroute3b_0f59d9c7:
 
     # "He hooks his elbow with mine and walks me up the aisle on the opposite side of the altar, toward the dark stained glass doors of the entrance."
-    "他用手肘拐住我的手肘，在走道上走向祭坛反方向，有着暗色玻璃的大门。"
+    "他勾住我的手肘，背着圣坛，走向入口处的彩色玻璃门。"
 
 # game/murdochroute3.rpy:4910
 translate Schinese murdochroute3b_586d7f9d:
 
     # m "\"We’re supposed to go the opposite way.\""
-    m "\"应该是要走向另一边吧。\""
+    m "\"一般来说是反方向吧。\""
 
 # game/murdochroute3.rpy:4912
 translate Schinese murdochroute3b_4c6fa58d:
@@ -15960,37 +15960,37 @@ translate Schinese murdochroute3b_4c6fa58d:
 translate Schinese murdochroute3b_f32d19e2:
 
     # "I feel tongue and I try not to panic."
-    "还伸了舌头，我尽量不惊慌失措。"
+    "还伸了舌头，我尽量保持冷静。"
 
 # game/murdochroute3.rpy:4914
 translate Schinese murdochroute3b_219ed293:
 
     # "But Jim and Holly can’t see us from here, and there’s nobody near the entrance."
-    "不过Jim跟Holly看不到这边，也没人在门口。"
+    "不过Jim和Holly看不到这边，门口也没有人在。"
 
 # game/murdochroute3.rpy:4916
 translate Schinese murdochroute3b_9c22d7a9:
 
     # "He pushes away with a small smack."
-    "他在小小啵了一声后退开。"
+    "他在小小的“啵”了一声后退开。"
 
 # game/murdochroute3.rpy:4917
 translate Schinese murdochroute3b_4b0ba016:
 
     # m "\"What was that for?\""
-    m "\"这是在干嘛？\""
+    m "\"这是干嘛？\""
 
 # game/murdochroute3.rpy:4919
 translate Schinese murdochroute3b_b35213b2:
 
     # mu "\"Just the reminder I needed that I’m not single at a wedding today.\""
-    mu "\"只是想提醒一下我自己，在婚礼的这天不是单身。\""
+    mu "\"只是想提醒一下我自己，我不是以单身汉的身份参加的这场婚礼。\""
 
 # game/murdochroute3.rpy:4920
 translate Schinese murdochroute3b_4e93a647:
 
     # m "\"You’re so needy.\""
-    m "\"你还真欲求不满。\""
+    m "\"你还真是粘人。\""
 
 # game/murdochroute3.rpy:4922
 translate Schinese murdochroute3b_adc3e2cf:
@@ -16002,13 +16002,13 @@ translate Schinese murdochroute3b_adc3e2cf:
 translate Schinese murdochroute3b_6b408c6e:
 
     # mu "\"That’s right.\""
-    mu "\"那是。\""
+    mu "\"那当然。\""
 
 # game/murdochroute3.rpy:4925
 translate Schinese murdochroute3b_e9bd98ee:
 
     # mu "\"Speaking of {i}needy{/i}, I’m going to {i}need{/i} you to put on the formal wear you forgot at the apartment.\""
-    mu "\"说到{i}欲求{/i}，我得{i}要求{/i}你换上被你忘在公寓的正装。\""
+    mu "\"说到{b}这{/b}，我得{b}要求{/b}你换上被遗忘在公寓里的正装。\""
 
 # game/murdochroute3.rpy:4926
 translate Schinese murdochroute3b_94004a03_1:
@@ -16020,7 +16020,7 @@ translate Schinese murdochroute3b_94004a03_1:
 translate Schinese murdochroute3b_ff5f4bbc_1:
 
     # "Right."
-    "对喔。"
+    "对哦。"
 
 # game/murdochroute3.rpy:4928
 translate Schinese murdochroute3b_99130b8c:
@@ -16032,13 +16032,13 @@ translate Schinese murdochroute3b_99130b8c:
 translate Schinese murdochroute3b_1dfc7b4e_1:
 
     # m "\"Thanks.\""
-    m "\"谢了。\""
+    m "\"谢谢提醒。\""
 
 # game/murdochroute3.rpy:4931
 translate Schinese murdochroute3b_1a22be26:
 
     # mu "\"Thank Ralph.\""
-    mu "\"去谢谢Ralph吧。\""
+    mu "\"去谢Ralph吧。\""
 
 # game/murdochroute3.rpy:4932
 translate Schinese murdochroute3b_a1637e55:
@@ -16050,67 +16050,67 @@ translate Schinese murdochroute3b_a1637e55:
 translate Schinese murdochroute3b_088537c8:
 
     # mu "\"You really ought to freshen up before you put the formal wear, though.\""
-    mu "\"但你在穿上之前得先梳洗一下。\""
+    mu "\"在穿之前别忘了先梳洗一下。\""
 
 # game/murdochroute3.rpy:4935
 translate Schinese murdochroute3b_70bde92b:
 
     # m "\"That was the plan.\""
-    m "\"我就是这麽打算的。\""
+    m "\"我就是这么打算的。\""
 
 # game/murdochroute3.rpy:4937
 translate Schinese murdochroute3b_edb6c9b9:
 
     # mu "\"Here, there’s a bathroom we can fix you up in.\""
-    mu "\"来，这里有厕所能给你打理一下。\""
+    mu "\"跟我去卫生间，我来帮你。\""
 
 # game/murdochroute3.rpy:4939
 translate Schinese murdochroute3b_ac13ef98:
 
     # "I feel a small yelp escape me as he practically drags me into the bathroom."
-    "我被他强拖进厕所，发出一小声惊呼。"
+    "我被他强拖进卫生间，发出一小声惊呼。"
 
 # game/murdochroute3.rpy:4944
 translate Schinese murdochroute3b_42a7c0a3:
 
     # m "\"We’re in the stinkin’ desert, I don’t think anybody is going to complain too much about the inevitability of body odor.\""
-    m "\"这沙漠空气这麽糟，有点无法避免的体味也不至于被大家埋怨吧。\""
+    m "\"在这个臭烘烘的沙漠里，有点无法避免的体味也无可厚非吧。\""
 
 # game/murdochroute3.rpy:4946
 translate Schinese murdochroute3b_09151484:
 
     # mu "\"Sounds like an excuse to me.\""
-    mu "\"这都是藉口。\""
+    mu "\"别找借口了。\""
 
 # game/murdochroute3.rpy:4948
 translate Schinese murdochroute3b_47b9025d:
 
     # m "\"Foxes smell worse than mountain lions, you realize.\""
-    m "\"狐狸还比山狮臭呢，你知道吧。\""
+    m "\"要知道，狐狸可还比美洲狮还臭呢。\""
 
 # game/murdochroute3.rpy:4949
 translate Schinese murdochroute3b_c699ee85:
 
     # mu "\"That just means we have to try harder.\""
-    mu "\"那也只代表我们要加倍努力囉。\""
+    mu "\"所以咱们要加倍努力咯。\""
 
 # game/murdochroute3.rpy:4952
 translate Schinese murdochroute3b_cc31117e:
 
     # "He brushes his cheek against my muzzle and slips his tail around my leg."
-    "他用脸颊蹭着我的吻部，尾巴缠上我的腿。"
+    "他用脸颊来蹭我的鼻子，尾巴缠上我的腿。"
 
 # game/murdochroute3.rpy:4953
 translate Schinese murdochroute3b_4c72b2cd:
 
     # "The crisp smell of citrus blends with the slightly sweet and skunky smell of fox, along with a creamy, clean shaving cream."
-    "柑橘的清香、微甜的淡狐臭与刮鬍奶泡的气味混杂在一起。"
+    "柑橘的清香、淡淡的狐臭与剃须泡沫的气味糅合在一起。"
 
 # game/murdochroute3.rpy:4954
 translate Schinese murdochroute3b_34237f01:
 
     # "He scrubs me down with a wet bar of soap and splashes me with water, letting the suit hang neatly on the door."
-    "他用打溼的肥皂抹擦我的身体后给我冲水，正装好好地挂在门上。"
+    "他用打湿的肥皂为我涂抹身体，然后冲水，正装好好地挂在门上。"
 
 # game/murdochroute3.rpy:4956
 translate Schinese murdochroute3b_71b1b01a:
@@ -16122,19 +16122,19 @@ translate Schinese murdochroute3b_71b1b01a:
 translate Schinese murdochroute3b_2a962e72:
 
     # mu "\"Well fit for a house of god.\""
-    mu "\"对神的房子来说正合适。\""
+    mu "\"以神的房子而言正合适。\""
 
 # game/murdochroute3.rpy:4959
 translate Schinese murdochroute3b_55db1a34:
 
     # m "\"Frankly I think he’d be less offended if we committed acts of obscenity.\""
-    m "\"你这比淫亵之罪还要冒犯耶。\""
+    m "\"说真的，这可比淫亵之罪还要冒犯。\""
 
 # game/murdochroute3.rpy:4961
 translate Schinese murdochroute3b_10d65f00:
 
     # mu "\"I’m more scared of what my mother would do if she caught us than God.\""
-    mu "\"比起神，我还更怕我妈发现我们的关係后会怎麽做。\""
+    mu "\"比起神，我更害怕我妈发现咱们的关系后会怎么做。\""
 
 # game/murdochroute3.rpy:4962
 translate Schinese murdochroute3b_07105938:
@@ -16152,55 +16152,55 @@ translate Schinese murdochroute3b_f64c0ae6:
 translate Schinese murdochroute3b_099cf2c8:
 
     # "After enough scrubbing, splashes, and sniff tests, he finally deemed me appropriate to put on the suit."
-    "反复洗刷和嗅味好几次后，他终于准我换上正装了。"
+    "反复洗刷和闻了好几遍后，他终于允许我换上正装了。"
 
 # game/murdochroute3.rpy:4966
 translate Schinese murdochroute3b_3a1c3a40:
 
     # "Then he dabbed some sort of oil from a bottle behind my wrists and my ears that made me smell like a campfire."
-    "然后在我手腕跟耳朵后面抹了点一个瓶子里的油，让我散发营火的气味。"
+    "然后他在我的手腕和耳朵后面抹了点瓶子里的油，让我散发营火的气味。"
 
 # game/murdochroute3.rpy:4967
 translate Schinese murdochroute3b_7c64c2bb:
 
     # mu "\"Let’s not use too much.\""
-    mu "\"用太多也不好。\""
+    mu "\"适量就好。\""
 
 # game/murdochroute3.rpy:4968
 translate Schinese murdochroute3b_b2fa5d77:
 
     # mu "\"Remember, this is a wedding, not a funeral pyre.\""
-    mu "\"毕竟这是婚礼现场，不是火葬场。\""
+    mu "\"毕竟这里结婚现场，不是火葬场。\""
 
 # game/murdochroute3.rpy:4969
 translate Schinese murdochroute3b_9e5d89a4:
 
     # "He smiles as he fixes my tie and buttons my cufflinks."
-    "他微笑着打理我的领带、帮我扣上袖扣。"
+    "他微笑着打理我的领带，帮我扣上袖扣。"
 
 # game/murdochroute3.rpy:4974
 translate Schinese murdochroute3b_e76deee1:
 
     # mu "\"Now I still have some things to take care of, so, please lend a hand where it’s needed, and let’s keep a professional distance throughout the ceremony.\""
-    mu "\"我还有点事要办，你有能帮上忙的地方就去帮忙，典礼的这段期间我们尽量保持专业距离吧。\""
+    mu "\"我还有点事要处理，你有能帮上忙的地方就去帮，在婚礼期间我们尽量保持礼貌距离。\""
 
 # game/murdochroute3.rpy:4976
 translate Schinese murdochroute3b_75cc7e53:
 
     # "He rests his hands on my shoulders, his smile falters a bit,{nw}"
-    "他双手搭在我肩上，笑容衰退了点，{nw}"
+    "他双手搭在我的肩上，笑得有点失落，{nw}"
 
 # game/murdochroute3.rpy:4978
 translate Schinese murdochroute3b_e13df21d:
 
     # extend " and then he brings me in for a much tighter hug with his face buried in my chest."
-    extend "然后紧抱住我，把脸埋入我胸膛。"
+    extend "然后用力抱住我，把脸埋在我的胸前。"
 
 # game/murdochroute3.rpy:4979
 translate Schinese murdochroute3b_1b5d159f:
 
     # mu "\"Let’s make the best of this day.\""
-    mu "\"好好度过这一天吧。\""
+    mu "\"就让我们今天尽力而为吧。\""
 
 # game/murdochroute3.rpy:4980
 translate Schinese murdochroute3b_f509a011:
@@ -16212,79 +16212,79 @@ translate Schinese murdochroute3b_f509a011:
 translate Schinese murdochroute3b_ad053a98:
 
     # "He opens the door and slides out quickly,{nw}"
-    "他把门打开，迅速熘走，{nw}"
+    "他打开门，迅速溜了出去，{nw}"
 
 # game/murdochroute3.rpy:4985
 translate Schinese murdochroute3b_8e56db2d:
 
     # extend " footsteps fading as he walks away."
-    extend "脚步声随之远离。"
+    extend "脚步声渐渐远离。"
 
 # game/murdochroute3.rpy:4986
 translate Schinese murdochroute3b_1d5df996:
 
     # "I look in the mirror and make sure I’m as presentable as he wants me to be."
-    "我望着镜子，把自己打点得跟他期望的一样体面。"
+    "我望着镜子，确保自己有像他期望的那样体面。"
 
 # game/murdochroute3.rpy:4987
 translate Schinese murdochroute3b_aa95088a:
 
     # "Then I step out of the door."
-    "然后踏出厕所门。"
+    "然后走出卫生间的门。"
 
 # game/murdochroute3.rpy:4990
 translate Schinese murdochroute3b_9589b4e5:
 
     # "I look down the pew and see that Jim and Holly aren’t at the front."
-    "我看向长椅，发现Jim跟Holly不在前面。"
+    "我看向长椅，发现Jim和Holly已经不在最前排了。"
 
 # game/murdochroute3.rpy:4991
 translate Schinese murdochroute3b_91d4013f:
 
     # "Jim isn’t in the chapel at all."
-    "礼拜堂内没有Jim的身影。"
+    "礼拜堂里没有Jim的身影。"
 
 # game/murdochroute3.rpy:4994
 translate Schinese murdochroute3b_e0f20e03:
 
     # "Holly is sitting at the pew closest to the bathroom, near both of the only exits in the chapel."
-    "Holly坐在离厕所最近的长椅上，也很靠近礼拜堂唯二的出入口。"
+    "Holly此时坐在离卫生间最近的长椅上，那里很靠近礼拜堂唯二的出入口。"
 
 # game/murdochroute3.rpy:4995
 translate Schinese murdochroute3b_fd94b759:
 
     # "I try to walk past, with her back to me, but she speaks."
-    "我本想从她身后走过，但她却背对着我开口。"
+    "我本想从她身后走过，但她背对着我开口了。"
 
 # game/murdochroute3.rpy:4997
 translate Schinese murdochroute3b_8a155d46:
 
     # ho "\"You’re quite close to my brother, aren’t you?\""
-    ho "\"你跟我弟还挺亲密的，是吧？\""
+    ho "\"你跟我弟弟还挺亲密的，是吧？\""
 
 # game/murdochroute3.rpy:4999
 translate Schinese murdochroute3b_00fbd5b3:
 
     # m "\"As close as any shopkeep can be to his employer, ma’am.\""
-    m "\"我们毕竟是店员跟顾主的关係嘛，女士。\""
+    m "\"我们毕竟是主从关系，女士。\""
 
 # game/murdochroute3.rpy:5001
 translate Schinese murdochroute3b_e166109e:
 
     # ho "\"Quite.\""
-    ho "\"那确实。\""
+    ho "\"说的没错。\""
 
 # game/murdochroute3.rpy:5005
 translate Schinese murdochroute3b_42313ae6:
 
     # "She turns her head around to look at me."
-    "她转过头，望着我。"
+    "她转头凝视着我。"
 
 # game/murdochroute3.rpy:5008
 translate Schinese murdochroute3b_c160db6b:
 
     # ho "\"Yet it’s clear that you aren’t merely a shopkeep, nor a servant.\""
-    ho "\"但你很明显不只是个店员，或者侍从。\""
+    ho "\"但你明显不只是一个店员，或者侍从。\""
 
 # game/murdochroute3.rpy:5011
 translate Schinese murdochroute3b_fe900144:
@@ -16296,49 +16296,49 @@ translate Schinese murdochroute3b_fe900144:
 translate Schinese murdochroute3b_5201223f:
 
     # m "\"I don’t disclose my paycheck, ma’am.\""
-    m "\"我是不会透露我薪资的，女士。\""
+    m "\"我不便透露自己的薪资，女士。\""
 
 # game/murdochroute3.rpy:5014
 translate Schinese murdochroute3b_41da3281:
 
     # "She purses her lips and opens her pocket book."
-    "她抿了抿嘴唇，把手提包打开。"
+    "她抿了抿嘴唇，打开随身的手提包。"
 
 # game/murdochroute3.rpy:5015
 translate Schinese murdochroute3b_a6b1fcd1:
 
     # "She takes out a thin slip of paper."
-    "拿出一张薄纸。"
+    "拿出一张薄纸片。"
 
 # game/murdochroute3.rpy:5017
 translate Schinese murdochroute3b_b71a7b9f:
 
     # ho "\"So this...\""
-    ho "\"这……\""
+    ho "\"这...\""
 
 # game/murdochroute3.rpy:5020
 translate Schinese murdochroute3b_367f23ba:
 
     # ho "\"Is a blank check.\""
-    ho "\"是张空白支票。\""
+    ho "\"是一张空白支票。\""
 
 # game/murdochroute3.rpy:5023
 translate Schinese murdochroute3b_3ba19301:
 
     # ho "\"Write the amount you’d like me pay you to quit today.\""
-    ho "\"想要我付你多少你才愿意在今天离场，你就写吧。\""
+    ho "\"你尽管写，只要这能买你今天离场。\""
 
 # game/murdochroute3.rpy:5026
 translate Schinese murdochroute3b_e38bf543:
 
     # ho "\"I don’t have the time or the energy to be civil today so I’d to just be done with this.\""
-    ho "\"今天我既没有时间也没精力用更文明的方式，只好先这样了。\""
+    ho "\"我现在既没有时间，也没精力用更文明的方式，只好先这样了。\""
 
 # game/murdochroute3.rpy:5028
 translate Schinese murdochroute3b_ff6bba62:
 
     # m "\"Ma’am, at this point I don’t think you could afford to send me home.\""
-    m "\"女士，都到这份上了，妳应该是付不起能把我赶回家的费用了。\""
+    m "\"女士，都到这份上了，你应该是付不起能把我赶走的费用了。\""
 
 # game/murdochroute3.rpy:5030
 translate Schinese murdochroute3b_5a605fe0:
@@ -16350,13 +16350,13 @@ translate Schinese murdochroute3b_5a605fe0:
 translate Schinese murdochroute3b_0d60cb5d:
 
     # "She hands me a pen and I take it."
-    "我接下了她递给我的笔。"
+    "我接住她递给我的笔。"
 
 # game/murdochroute3.rpy:5033
 translate Schinese murdochroute3b_8556a8a9:
 
     # "I write 500 dollars in the empty space."
-    "我在空位上写下500元。"
+    "在空位上写下500元。"
 
 # game/murdochroute3.rpy:5035
 translate Schinese murdochroute3b_4b54156d:
@@ -16368,55 +16368,55 @@ translate Schinese murdochroute3b_4b54156d:
 translate Schinese murdochroute3b_10553749:
 
     # ho "\"No, that’s quite doable.\""
-    ho "\"没事，这不算什麽。\""
+    ho "\"没事，这不算什么。\""
 
 # game/murdochroute3.rpy:5039
 translate Schinese murdochroute3b_1062c4a4:
 
     # "...It is?"
-    "……真的假的？"
+    "...真的假的？"
 
 # game/murdochroute3.rpy:5040
 translate Schinese murdochroute3b_e844b9e2:
 
     # "I should have made the number higher to get the point across."
-    "早知道就写个更大的数字来表示我的意思了。"
+    "早知道就写个更大的数字来表明我的态度了。"
 
 # game/murdochroute3.rpy:5042
 translate Schinese murdochroute3b_08a49f0e:
 
     # "I take the pen back and write two zero’s after."
-    "我又拿回笔，在后面多加两个零。"
+    "我拿回笔，在后面多加了两个零。"
 
 # game/murdochroute3.rpy:5043
 translate Schinese murdochroute3b_d1486590:
 
     # "Then I give her the pen back."
-    "然后把笔还她。"
+    "然后把笔还给她。"
 
 # game/murdochroute3.rpy:5045
 translate Schinese murdochroute3b_dd45abdc:
 
     # ho "\"Okay, so you’re not actually interested in money.\""
-    ho "\"我懂了，你其实不是想要钱。\""
+    ho "\"我懂了，你想要的不是钱。\""
 
 # game/murdochroute3.rpy:5048
 translate Schinese murdochroute3b_03c28dfd:
 
     # ho "\"Suspicious for an ordinary shopkeep, considering that’s the point of why you work.\""
-    ho "\"以一介店员而言也太可疑了，工作不就是为了钱吗。\""
+    ho "\"以一介店员来说够可疑的，谁工作不是为了钱呢？\""
 
 # game/murdochroute3.rpy:5051
 translate Schinese murdochroute3b_1dec08ed:
 
     # ho "\"So what exactly are you working for?\""
-    ho "\"那你到底有什麽目的？\""
+    ho "\"你到底有什么目的？\""
 
 # game/murdochroute3.rpy:5053
 translate Schinese murdochroute3b_440204ed:
 
     # "I don’t have a great retort to that."
-    "我没什麽正当理由能回她。"
+    "我没什么正当理由能回她。"
 
 # game/murdochroute3.rpy:5054
 translate Schinese murdochroute3b_ba6a6bcd:
@@ -16428,67 +16428,67 @@ translate Schinese murdochroute3b_ba6a6bcd:
 translate Schinese murdochroute3b_399db3b7:
 
     # "I see doubt cloud her eyes and her brow furrow."
-    "她脸上满是狐疑，皱起眉头。"
+    "她不解地皱起眉头。"
 
 # game/murdochroute3.rpy:5057
 translate Schinese murdochroute3b_a8d81fb7:
 
     # "If we weren’t in a church she’d probably shout {i}faggot!{/i} at any moment, but I can tell that she’s not looking for a fight, yet."
-    "要不是因为我们在教堂里，她恐怕随时都会大吼一声{i}死基佬！{/i}，但我看得出她无意起争议，至少现在还没。"
+    "要不是因为我们在教堂里，她恐怕随时都会大骂一声{b}死基佬！{/b}，但我看得出她无意把事情闹大，至少现在没有。"
 
 # game/murdochroute3.rpy:5059
 translate Schinese murdochroute3b_4fb9e959:
 
     # ho "\"So you’re genuine to my brother, then.\""
-    ho "\"所以你对我弟是真心的了。\""
+    ho "\"所以你是认真的了。\""
 
 # game/murdochroute3.rpy:5062
 translate Schinese murdochroute3b_b5f582b3:
 
     # ho "\"Good for him, and good for you.\""
-    ho "\"那对你们两个来说都不错。\""
+    ho "\"那对你对他都挺好的。\""
 
 # game/murdochroute3.rpy:5065
 translate Schinese murdochroute3b_e7dc6d63:
 
     # ho "\"But do you really think staying in this town would be good for him?\""
-    ho "\"但你真心认为待在这镇上对他是件好事吗？\""
+    ho "\"但你真的认为留在这镇上对他是件好事吗？\""
 
 # game/murdochroute3.rpy:5068
 translate Schinese murdochroute3b_0be7ba76:
 
     # ho "\"The opportunities that Jim can open for us are the best thing that could happen to us right now.\""
-    ho "\"Jim能提供给我们的机会是我们现在最大的福气。\""
+    ho "\"Jim给我们带来的机会，是我们现在最大的福气。\""
 
 # game/murdochroute3.rpy:5071
 translate Schinese murdochroute3b_b40e3b83:
 
     # ho "\"I can feel that we’re running out of time.\""
-    ho "\"我能感觉到已经不剩多少时间了。\""
+    ho "\"我能感觉到，我们已经时日无多了。\""
 
 # game/murdochroute3.rpy:5073
 translate Schinese murdochroute3b_7c8618dd:
 
     # m "\"How does one feel such a thing.\""
-    m "\"要怎麽才能感觉到这种事？\""
+    m "\"这要怎么才能感觉到？\""
 
 # game/murdochroute3.rpy:5075
 translate Schinese murdochroute3b_e5b2718a:
 
     # ho "\"Because it’s happened before.\""
-    ho "\"因为有前车之鑑。\""
+    ho "\"因为有前车之鉴。\""
 
 # game/murdochroute3.rpy:5078
 translate Schinese murdochroute3b_9b5d078f:
 
     # ho "\"The miasma and its effect upon this city are well documented in the town hall.\""
-    ho "\"瘴气给这城市带来的影响都有记载在镇公所里。\""
+    ho "\"镇公所里详细记载着瘴气给这城市造成的灾难。\""
 
 # game/murdochroute3.rpy:5080
 translate Schinese murdochroute3b_a820ab1d:
 
     # m "\"Effects such as?\""
-    m "\"什麽样的影响？\""
+    m "\"什么样的灾难？\""
 
 # game/murdochroute3.rpy:5082
 translate Schinese murdochroute3b_e3d175d6:
@@ -16518,13 +16518,13 @@ translate Schinese murdochroute3b_f082b574:
 translate Schinese murdochroute3b_363a6f59:
 
     # m "\"God and not Satan, you think?\""
-    m "\"妳是认为不是撒旦做的而是神蹟？\""
+    m "\"你认为那不是撒旦做的，而是神迹？\""
 
 # game/murdochroute3.rpy:5094
 translate Schinese murdochroute3b_4827ddcd:
 
     # "Maybe we do have something in common."
-    "或许我们确实有共通点嘛。"
+    "或许我们还是有共通点的嘛。"
 
 # game/murdochroute3.rpy:5096
 translate Schinese murdochroute3b_c8560b91:
@@ -16536,163 +16536,163 @@ translate Schinese murdochroute3b_c8560b91:
 translate Schinese murdochroute3b_179609c2:
 
     # ho "\"He is the end and the beginning.\""
-    ho "\"他就是终焉与起始。\""
+    ho "\"祂是结束，也是开始。\""
 
 # game/murdochroute3.rpy:5102
 translate Schinese murdochroute3b_ba3cc74a:
 
     # ho "\"We would be fools to stay here, just like the men of Sodom and Gomorrah.\""
-    ho "\"要是执意留在这，我们就跟所多玛和蛾摩拉的人一样傻。\""
+    ho "\"执意留在这的人，就跟索多玛和蛾摩拉的人一样傻。\""
 
 # game/murdochroute3.rpy:5104
 translate Schinese murdochroute3b_9eb463a9:
 
     # m "\"Then maybe he’ll leave.\""
-    m "\"他也许会离开啊。\""
+    m "\"他也没说不会离开啊。\""
 
 # game/murdochroute3.rpy:5106
 translate Schinese murdochroute3b_be7be6d4:
 
     # ho "\"Not a chance.\""
-    ho "\"没可能。\""
+    ho "\"不可能的。\""
 
 # game/murdochroute3.rpy:5109
 translate Schinese murdochroute3b_70f81637:
 
     # ho "\"That damn rat has him locked into place here.\""
-    ho "\"那死老鼠把他绑在这了。\""
+    ho "\"那该死的老鼠把他绑在了这里。\""
 
 # game/murdochroute3.rpy:5111
 translate Schinese murdochroute3b_a439b59a:
 
     # "Huh."
-    "蛤。"
+    "哈？"
 
 # game/murdochroute3.rpy:5112
 translate Schinese murdochroute3b_408f89bc:
 
     # "I didn’t expect her to say that."
-    "没想到她会这麽说。"
+    "没想到她会这么说。"
 
 # game/murdochroute3.rpy:5113
 translate Schinese murdochroute3b_f3ab2ab9:
 
     # m "\"Ralph wants to leave Echo too.\""
-    m "\"Ralph也想离开Echo啊。\""
+    m "\"Ralph也想离开啊。\""
 
 # game/murdochroute3.rpy:5115
 translate Schinese murdochroute3b_1abb6abf:
 
     # "She let out a quick and concerning shriek of laughter."
-    "她发出一短声忧虑的尖笑。"
+    "她发出短促而刺耳的尖笑。"
 
 # game/murdochroute3.rpy:5117
 translate Schinese murdochroute3b_35f3e35e:
 
     # ho "\"And lose his honey pot.\""
-    ho "\"就这麽抛下摇钱树是吧。\""
+    ho "\"就这么抛下摇钱树是吧。\""
 
 # game/murdochroute3.rpy:5120
 translate Schinese murdochroute3b_80eaeee0:
 
     # ho "\"His business is good here.\""
-    ho "\"他这里生意好得很。\""
+    ho "\"他在这里的生意好得很。\""
 
 # game/murdochroute3.rpy:5123
 translate Schinese murdochroute3b_998fd93e:
 
     # ho "\"So good that he has my brother hooked on his drugs too.\""
-    ho "\"都给我弟染上了毒瘾。\""
+    ho "\"连我弟弟都染上了他的毒瘾。\""
 
 # game/murdochroute3.rpy:5126
 translate Schinese murdochroute3b_8ad4c9a9:
 
     # ho "\"The last thing he’d ever do is leave.\""
-    ho "\"他怎麽可能会离开这里。\""
+    ho "\"他怎么可能会离开。\""
 
 # game/murdochroute3.rpy:5129
 translate Schinese murdochroute3b_648cf540:
 
     # ho "\"Certainly not before it’s too late anyway.\""
-    ho "\"总之是不可能在太迟了之前走的。\""
+    ho "\"只怕是不见棺材不落泪吧。\""
 
 # game/murdochroute3.rpy:5131
 translate Schinese murdochroute3b_7cce562c:
 
     # "At this point I can’t tell if one of them is lying to me or if they just both genuinely mistrust one another."
-    "事到如今，我也不知道是他们其中一个在说谎，还是说他们两个非常不信任彼此。"
+    "事到如今，我也不清楚他们之中谁在撒谎，或者他们两个单纯的不信任对方。"
 
 # game/murdochroute3.rpy:5132
 translate Schinese murdochroute3b_bf70b7ac:
 
     # "This goes deeper."
-    "这是长时间下来的结果。"
+    "这是长时间以来的结果。"
 
 # game/murdochroute3.rpy:5133
 translate Schinese murdochroute3b_b6e241bf:
 
     # "It might have started on the day their brother died."
-    "可能是从他们弟弟死去的那一天就开始的。"
+    "可能从他们弟弟死去的那一天就开始了。"
 
 # game/murdochroute3.rpy:5134
 translate Schinese murdochroute3b_e00b7004:
 
     # "Maybe even before that."
-    "也可能是从更之前。"
+    "也可能是更久之前。"
 
 # game/murdochroute3.rpy:5135
 translate Schinese murdochroute3b_6ce05cbc:
 
     # m "\"Why isn’t your mother concerned?\""
-    m "\"妳妈怎麽没在担心？\""
+    m "\"你妈怎么不担心的？\""
 
 # game/murdochroute3.rpy:5138
 translate Schinese murdochroute3b_4fd4327b:
 
     # ho "\"Because she’s stubborn and faithless.\""
-    ho "\"因为她既固执又没信仰。\""
+    ho "\"因为她既顽固，又没有信仰。\""
 
 # game/murdochroute3.rpy:5141
 translate Schinese murdochroute3b_80d69830:
 
     # ho "\"She’s not nearly as close to God as she claims, and everybody knows.\""
-    ho "\"她可完全不像自己说的那样敬神，大家都心知肚明。\""
+    ho "\"她并不像她自己说的那样敬神，这点大家都心知肚明。\""
 
 # game/murdochroute3.rpy:5144
 translate Schinese murdochroute3b_d2a7058b:
 
     # ho "\"But, they don’t care because she gets things done.\""
-    ho "\"但人们对这点也无所谓，毕竟她确实能干。\""
+    ho "\"但他们不在乎，毕竟她确实能干。\""
 
 # game/murdochroute3.rpy:5147
 translate Schinese murdochroute3b_6efde6af:
 
     # ho "\"That won’t matter when there’s a reckoning.\""
-    ho "\"但在清算日面前，这都没有意义。\""
+    ho "\"可在清算日面前，这些都没有意义。\""
 
 # game/murdochroute3.rpy:5150
 translate Schinese murdochroute3b_1492c604:
 
     # ho "\"If you can manage to help him find a way out, then you won’t have an enemy in me.\""
-    ho "\"只要你能找到办法带他走，就不会与我为敌。\""
+    ho "\"只要你想办法带他走，我就不会为难你们。\""
 
 # game/murdochroute3.rpy:5153
 translate Schinese murdochroute3b_b23626de:
 
     # ho "\"If you interfere with my own survival plans, you will find my ire potent.\""
-    ho "\"但如果妨碍到我自己的生存计画，就别怪我不客气了。\""
+    ho "\"但如果妨碍到我自己的生存计划，就别怪我不客气了。\""
 
 # game/murdochroute3.rpy:5155
 translate Schinese murdochroute3b_bad99c42:
 
     # "She stands and looks me over once more."
-    "她站起来，又打量我一次。"
+    "她站起来，又打量了我一番。"
 
 # game/murdochroute3.rpy:5157
 translate Schinese murdochroute3b_7c021040:
 
     # ho "\"Now, if you please, my family is expecting my appearance.\""
-    ho "\"好了，恕我失陪，我家人还在等我呢。\""
+    ho "\"好了，恕我失陪，我的家人们还在等我呢。\""
 
 # game/murdochroute3.rpy:5161
 translate Schinese murdochroute3b_8b387de8:
@@ -16704,25 +16704,25 @@ translate Schinese murdochroute3b_8b387de8:
 translate Schinese murdochroute3b_053087c6:
 
     # ji "\"What a catch she is.\""
-    ji "\"她可真了不得。\""
+    ji "\"她可真不得了。\""
 
 # game/murdochroute3.rpy:5164
 translate Schinese murdochroute3b_69fc3ee8:
 
     # "I hear Jim’s voice but don’t see him."
-    "Jim声音传来，但不见人影。"
+    "Jim的声音传来，但不见人。"
 
 # game/murdochroute3.rpy:5167
 translate Schinese murdochroute3b_27d7054e:
 
     # "Until I realize that he’s sitting on the floor against the wall, smoking a cigarette."
-    "我这才发现他靠牆坐在地上，抽着一根菸。"
+    "我这才发现他靠墙坐在地上，抽着一支烟。"
 
 # game/murdochroute3.rpy:5168
 translate Schinese murdochroute3b_526aa69c:
 
     # m "\"You shouldn’t be smoking in the church.\""
-    m "\"你不该在教堂里抽菸的。\""
+    m "\"你不该在教堂里抽烟的。\""
 
 # game/murdochroute3.rpy:5170
 translate Schinese murdochroute3b_829c8cf9:
@@ -16734,19 +16734,19 @@ translate Schinese murdochroute3b_829c8cf9:
 translate Schinese murdochroute3b_33e2ab0c:
 
     # ji "\"Funny how these scruples based on lunacy wash over us.\""
-    ji "\"这种胡乱的顾忌如此深入我们意识，真的很可笑。\""
+    ji "\"这种道德上的顾忌如此深入我们的意识，真是可笑。\""
 
 # game/murdochroute3.rpy:5175
 translate Schinese murdochroute3b_969cf0b3:
 
     # "He flicks a bit of ash to the carpet."
-    "他把一点烟灰弹到地上。"
+    "他把烟灰弹到地上。"
 
 # game/murdochroute3.rpy:5177
 translate Schinese murdochroute3b_1dfb5bd6:
 
     # ji "\"Relax.\""
-    ji "\"放轻松。\""
+    ji "\"别紧张。\""
 
 # game/murdochroute3.rpy:5180
 translate Schinese murdochroute3b_371db15b:
@@ -16764,13 +16764,13 @@ translate Schinese murdochroute3b_10271195:
 translate Schinese murdochroute3b_b31c9dd6:
 
     # "He chuckles bitterly and then goes back to smoking."
-    "他苦笑一阵，又抽起了菸。"
+    "他苦笑一阵，又抽起了烟。"
 
 # game/murdochroute3.rpy:5187
 translate Schinese murdochroute3b_ae5fe04b:
 
     # m "\"So what did you make about Holly’s speech.\""
-    m "\"Holly那番话你是怎麽想的？\""
+    m "\"Holly那番话你是怎么想的？\""
 
 # game/murdochroute3.rpy:5189
 translate Schinese murdochroute3b_b6211ff5:
@@ -16794,61 +16794,61 @@ translate Schinese murdochroute3b_42539394:
 translate Schinese murdochroute3b_f806da33:
 
     # ji "\"She could be making up all of this folklore and crystal nonsense for some other aim of hers.\""
-    ji "\"她也可能只是为了其他目的而捏造这些谣传。\""
+    ji "\"她也可能是为了其他目的才捏造了这些谣传。\""
 
 # game/murdochroute3.rpy:5199
 translate Schinese murdochroute3b_a73de6e7:
 
     # ji "\"The mines are weird, though.\""
-    ji "\"但矿洞确实奇怪。\""
+    ji "\"不过那个矿井确实奇怪。\""
 
 # game/murdochroute3.rpy:5201
 translate Schinese murdochroute3b_0f839758:
 
     # "I feel the soreness in my head throb."
-    "头上旧伤一阵抽痛。"
+    "头上的旧伤又一阵抽痛。"
 
 # game/murdochroute3.rpy:5203
 translate Schinese murdochroute3b_bf175cf5:
 
     # m "\"Weird how?\""
-    m "\"怎麽个奇怪法？\""
+    m "\"怎么个奇怪法？\""
 
 # game/murdochroute3.rpy:5205
 translate Schinese murdochroute3b_d3fa367c:
 
     # ji "\"Irregular layouts that seem like they should promote cave instability, but they’re stable.\""
-    ji "\"结构很不规则，照理来说很有可能坍塌，却很稳定。\""
+    ji "\"结构相当不规则，照理来说很有可能坍塌，却又很稳定。\""
 
 # game/murdochroute3.rpy:5208
 translate Schinese murdochroute3b_3d740e2f:
 
     # ji "\"Copious numbers of carbon monoxide pockets without a clear source of emissions.\""
-    ji "\"一氧化碳的气室很多，却没有明显的来源。\""
+    ji "\"多是一氧化碳气室，但没有明显的来源。\""
 
 # game/murdochroute3.rpy:5211
 translate Schinese murdochroute3b_10f9804c:
 
     # ji "\"Traces of gold that should lead to a logical vein, but which do not.\""
-    ji "\"有些黄金的踪迹，理论上应该有矿脉，却找不到。\""
+    ji "\"存在于理论上的金矿也找不到。\""
 
 # game/murdochroute3.rpy:5214
 translate Schinese murdochroute3b_17f11766:
 
     # ji "\"And more quartz than you would care to see--though that’s not unusual by any means.\""
-    ji "\"石英也多得夸张——虽然这也不算反常。\""
+    ji "\"石英则多得夸张，虽然这也不算反常。\""
 
 # game/murdochroute3.rpy:5217
 translate Schinese murdochroute3b_80a6022f:
 
     # ji "\"Quartz is the most abundant mineral in the crust of the planet.\""
-    ji "\"毕竟石英是地壳最广泛的矿物。\""
+    ji "\"毕竟石英是地壳中最广泛的矿物。\""
 
 # game/murdochroute3.rpy:5220
 translate Schinese murdochroute3b_80d64648:
 
     # ji "\"I wouldn’t be giving these ideas a thought, if not for the delirium it’s casting on Holly.\""
-    ji "\"要不是这些让Holly产生了妄想，我根本都不会去在意。\""
+    ji "\"要不是这些让Holly产生了妄想，我压根不会去在意。\""
 
 # game/murdochroute3.rpy:5223
 translate Schinese murdochroute3b_2bdc70b6:
@@ -16860,19 +16860,19 @@ translate Schinese murdochroute3b_2bdc70b6:
 translate Schinese murdochroute3b_ca01c037:
 
     # ji "\"Don’t take my acknowledgement of that as forgiveness or concern.\""
-    ji "\"别把我承认了这点误会成是我原谅或在担忧她。\""
+    ji "\"别误会，我可没有原谅或是担心她。\""
 
 # game/murdochroute3.rpy:5229
 translate Schinese murdochroute3b_793ac435:
 
     # ji "\"She’s crossed a line with me that she can’t uncross.\""
-    ji "\"她踩到了不该碰的底线。\""
+    ji "\"她越过了我的底线。\""
 
 # game/murdochroute3.rpy:5231
 translate Schinese murdochroute3b_b8d8f783:
 
     # m "\"...Are you still going through the marriage, then?\""
-    m "\"……那你还是要照旧参加婚礼吗？\""
+    m "\"...那你还要参加婚礼吗？\""
 
 # game/murdochroute3.rpy:5233
 translate Schinese murdochroute3b_444e898a:
@@ -16902,7 +16902,7 @@ translate Schinese murdochroute3b_ef321d5d:
 translate Schinese murdochroute3b_e2e77d07:
 
     # m "\"Even if you go through with the wedding ceremony, you don’t have to make it legal.\""
-    m "\"就算你参加了典礼，也没必要正式登记啊。\""
+    m "\"就算你参加了婚礼，也没必要正式登记啊。\""
 
 # game/murdochroute3.rpy:5241
 translate Schinese murdochroute3b_245889ee:
@@ -16914,37 +16914,37 @@ translate Schinese murdochroute3b_245889ee:
 translate Schinese murdochroute3b_fa45a76f:
 
     # m "\"So long as you still go through with the ceremony.\""
-    m "\"只要你先照常参加婚礼。\""
+    m "\"只要你先照常参加。\""
 
 # game/murdochroute3.rpy:5243
 translate Schinese murdochroute3b_209b757c:
 
     # "He gives me an impatient look."
-    "他不耐烦地看着我。"
+    "他不耐烦地瞪着我。"
 
 # game/murdochroute3.rpy:5245
 translate Schinese murdochroute3b_3cef749d:
 
     # ji "\"I’m here, aren’t I?\""
-    ji "\"我人不就在这嘛？\""
+    ji "\"我人不就在这吗？\""
 
 # game/murdochroute3.rpy:5248
 translate Schinese murdochroute3b_4755a9cb:
 
     # ji "\"What nags you all are.\""
-    ji "\"怎麽一个个的都这麽心急。\""
+    ji "\"怎么一个个都这么心急。\""
 
 # game/murdochroute3.rpy:5250
 translate Schinese murdochroute3b_c02bae4c:
 
     # m "\"Because clearly you don’t need any help.\""
-    m "\"因为你显然不用指望人帮。\""
+    m "\"因为你显然不指望有人帮。\""
 
 # game/murdochroute3.rpy:5252
 translate Schinese murdochroute3b_fa2da84c:
 
     # ji "\"Don’t patronize me.\""
-    ji "\"少对我说教了。\""
+    ji "\"少来教育我了。\""
 
 # game/murdochroute3.rpy:5255
 translate Schinese murdochroute3b_941fc538:
@@ -16968,67 +16968,67 @@ translate Schinese murdochroute3b_54a02c22:
 translate Schinese murdochroute3b_4511b008:
 
     # m "\"Should we rejoin the party then, groom?\""
-    m "\"那就回到宴会上吧，新郎？\""
+    m "\"那就回到婚礼上吧，新郎？\""
 
 # game/murdochroute3.rpy:5262
 translate Schinese murdochroute3b_fa981e28:
 
     # "I hold out my hand to him and beckon, impatiently."
-    "我朝他伸手示意，很不耐烦。"
+    "我朝他伸手示意，不耐烦地。"
 
 # game/murdochroute3.rpy:5265
 translate Schinese murdochroute3b_5b48f32c:
 
     # "He gives it a look like it’s a soiled rag."
-    "他以一种看着髒抹布的眼神看着。"
+    "他以一种看脏抹布的眼神看着我。"
 
 # game/murdochroute3.rpy:5267
 translate Schinese murdochroute3b_34e44e9e:
 
     # "But he takes it, and lifts himself to his legs."
-    "但还是握住了我的手，抬腿起身。"
+    "但还是握住我的手，抬腿起身。"
 
 # game/murdochroute3.rpy:5272
 translate Schinese murdochroute3b_afbb5459:
 
     # "As we return to the veranda, by now, the population of attendees has grown threefold."
-    "回到骑楼下后，现在来客数涨了三倍。"
+    "回到游廊时，那里的来客数暴涨了三倍。"
 
 # game/murdochroute3.rpy:5273
 translate Schinese murdochroute3b_94fd6868:
 
     # "There’s even more women present who I don’t recognize."
-    "我不认识的女人还更多了。"
+    "我不认识的女人更多了。"
 
 # game/murdochroute3.rpy:5274
 translate Schinese murdochroute3b_34c6328d:
 
     # "Hardly any of them seem to be as young as Holly, which isn’t surprising considering the demographic of the city."
-    "没几个跟Holly一样年轻，考虑到这城市的年龄分布倒也不奇怪。"
+    "没几个跟Holly一样年纪的，考虑到这小镇的年龄分布倒也不奇怪。"
 
 # game/murdochroute3.rpy:5275
 translate Schinese murdochroute3b_3e6d57d1:
 
     # "So I’m not surprised most of them would be Gretchen’s friends and associates rather than Holly’s."
-    "我毫不意外她们大多是Gretchen的朋友和熟人而不是Holly的。"
+    "她们应该大多是Gretchen的朋友和熟人，而不是Holly的。"
 
 # game/murdochroute3.rpy:5276
 translate Schinese murdochroute3b_987e3e79:
 
     # "But I didn’t expect to see... her."
-    "但我没想到会看到……她。"
+    "但我没想到会遇见...她。"
 
 # game/murdochroute3.rpy:5281
 translate Schinese murdochroute3b_68e99fb4:
 
     # md "\"Good afternoon, Mrs. Byrnes.\""
-    md "\"下午好，Byrnes夫人。\""
+    md "\"下午好，Byrnes太太。\""
 
 # game/murdochroute3.rpy:5284
 translate Schinese murdochroute3b_129dc3f6:
 
     # gr "\"The afternoon is great, Dora, and so is the company.\""
-    gr "\"今天下午确实好啊，Dora，来的人也好。\""
+    gr "\"下午好啊，Dora，大家都很好。\""
 
 # game/murdochroute3.rpy:5287
 translate Schinese murdochroute3b_c32ccb82:
@@ -17040,7 +17040,7 @@ translate Schinese murdochroute3b_c32ccb82:
 translate Schinese murdochroute3b_38cb05da:
 
     # md "\"Echo wouldn’t be the same without a Byrnes matriarch, would it, Gretchen?\""
-    md "\"没了Byrnes家的女家长，Echo怎麽能有今天呢，你说是吧，Gretchen？\""
+    md "\"没有Byrnes家的女家长，就没有回音的今天，你说是吧，Gretchen？\""
 
 # game/murdochroute3.rpy:5292
 translate Schinese murdochroute3b_d506b513:
@@ -17058,7 +17058,7 @@ translate Schinese murdochroute3b_fa314b1a_1:
 translate Schinese murdochroute3b_5e49c6e6:
 
     # md "\"No bar, I see.\""
-    md "\"这儿没有酒吧啊。\""
+    md "\"这没有酒吧啊。\""
 
 # game/murdochroute3.rpy:5299
 translate Schinese murdochroute3b_4287f827:
@@ -17076,7 +17076,7 @@ translate Schinese murdochroute3b_780a1de5:
 translate Schinese murdochroute3b_818fd65f:
 
     # cy "\"Of course, there are still a variety of unique beverages to choose from on our menu that don’t require alcohol.\""
-    cy "\"当然，我们菜单上有很多特製的无酒精饮品呢。\""
+    cy "\"当然，我们菜单上有很多特制的无酒精饮料呢。\""
 
 # game/murdochroute3.rpy:5307
 translate Schinese murdochroute3b_bb317769:
@@ -17094,31 +17094,31 @@ translate Schinese murdochroute3b_c903ad1e:
 translate Schinese murdochroute3b_f7ef6c79:
 
     # md "\"Ah, there’s the bride to be.\""
-    md "\"哦，新娘来了。\""
+    md "\"噢，新娘来了。\""
 
 # game/murdochroute3.rpy:5316
 translate Schinese murdochroute3b_aa9dd07d:
 
     # ho "\"Oh, Ms. Soranzo!\""
-    ho "\"噢，Soranzo夫人！\""
+    ho "\"Soranzo夫人！\""
 
 # game/murdochroute3.rpy:5319
 translate Schinese murdochroute3b_4fa83d70:
 
     # ho "\"You look as stunning as ever.\""
-    ho "\"妳还是一如既往地美丽动人呢。\""
+    ho "\"您还是一如既往地美丽动人。\""
 
 # game/murdochroute3.rpy:5322
 translate Schinese murdochroute3b_c17d6d0e:
 
     # md "\"Only flatter yourself today, girl, this is your day.\""
-    md "\"今天妳只管奉承自己就好了，姑娘，妳可是主角。\""
+    md "\"今天你只管奉承自己就好了，姑娘，你才是主角。\""
 
 # game/murdochroute3.rpy:5325
 translate Schinese murdochroute3b_6961c9b5:
 
     # ho "\"Please excuse my humility, then, Ms. Soranzo.\""
-    ho "\"那就恕我太谦逊了，Soranzo夫人。\""
+    ho "\"那么请原谅我的谦逊，Soranzo夫人。\""
 
 # game/murdochroute3.rpy:5328
 translate Schinese murdochroute3b_f269e1fc:
@@ -17130,7 +17130,7 @@ translate Schinese murdochroute3b_f269e1fc:
 translate Schinese murdochroute3b_d35e71c0:
 
     # "She lets out a small laugh and turns to her mother, but Gretchen has eyes only for the Madame."
-    "她小声笑了一下转向她妈，但Gretchen眼中只有夫人。"
+    "她小声笑了一下，转向她妈，但Gretchen眼中只有夫人。"
 
 # game/murdochroute3.rpy:5334
 translate Schinese murdochroute3b_a0a970a5:
@@ -17142,61 +17142,61 @@ translate Schinese murdochroute3b_a0a970a5:
 translate Schinese murdochroute3b_a83353d4:
 
     # md "\"Ah, and there is the groom.\""
-    md "\"哦，新郎也在。\""
+    md "\"啊，新郎也在。\""
 
 # game/murdochroute3.rpy:5344
 translate Schinese murdochroute3b_ac2933e4:
 
     # "Jim was sitting by himself, spinning a glass of suspiciously dark colored liquid."
-    "Jim独自坐在一边，转动着手中装着可疑暗色液体的玻璃杯。"
+    "Jim独自坐在一边，用手转动装着可疑深色液体的玻璃杯。"
 
 # game/murdochroute3.rpy:5346
 translate Schinese murdochroute3b_99402421:
 
     # "It looks like he’s adjusting the pocket inside of his coat before any of the onlookers reach the table."
-    "在旁人到桌边前，他好像调整了大衣内侧的口袋。"
+    "在旁人到达桌子前，他好像对大衣内侧的口袋做了什么。"
 
 # game/murdochroute3.rpy:5353
 translate Schinese murdochroute3b_281e1f6c:
 
     # "Dora smirks a bit, quite likely for several reasons."
-    "Dora笑了一下，恐怕是出于不少原由。"
+    "Dora微微一笑，恐怕是出于不少原因。"
 
 # game/murdochroute3.rpy:5354
 translate Schinese murdochroute3b_36e9d166:
 
     # "Gretchen either isn’t picking anything up or is choosing to ignore it."
-    "Gretchen要麽没看出来，要麽只是视若无睹。"
+    "Gretchen要么没看出来，要么只是视若无睹。"
 
 # game/murdochroute3.rpy:5357
 translate Schinese murdochroute3b_883caed0:
 
     # md "\"He looks like he’ll show your daughter a thing or two about excitement.\""
-    md "\"看来他能给妳女儿带来不少刺激呢。\""
+    md "\"看来他能给你女儿带来不少刺激呢。\""
 
 # game/murdochroute3.rpy:5360
 translate Schinese murdochroute3b_783905df:
 
     # md "\"My good sir, are you lonely sitting at that table all by yourself?\""
-    md "\"亲爱的先生，你就一个人孤单地坐在那张桌子吗？\""
+    md "\"亲爱的先生，你就一个人孤零零地坐在那吗？\""
 
 # game/murdochroute3.rpy:5363
 translate Schinese murdochroute3b_e7af9248:
 
     # ho "\"It’s reserved for his friends and his parents.\""
-    ho "\"那张桌子是给他朋友跟父母的。\""
+    ho "\"那张桌子是为他朋友和父母准备的。\""
 
 # game/murdochroute3.rpy:5366
 translate Schinese murdochroute3b_d5a28e38:
 
     # md "\"So why’s it empty?\""
-    md "\"那怎麽空着？\""
+    md "\"那怎么空着？\""
 
 # game/murdochroute3.rpy:5369
 translate Schinese murdochroute3b_30cc4ef6:
 
     # gr "\"I was about to ask myself.\""
-    gr "\"我还正想问呢。\""
+    gr "\"我还想问呢。\""
 
 # game/murdochroute3.rpy:5372
 translate Schinese murdochroute3b_e71d885e:
@@ -17208,19 +17208,19 @@ translate Schinese murdochroute3b_e71d885e:
 translate Schinese murdochroute3b_ea262c00:
 
     # "For a moment I’m impressed by how she can say that statement without a trace of an edge in her voice."
-    "有一瞬间我真钦佩她居然能语气毫不带酸地说出这句话。"
+    "有一瞬间我真钦佩她居然能面不改色地说出这句话。"
 
 # game/murdochroute3.rpy:5375
 translate Schinese murdochroute3b_df4c5116:
 
     # "It can only sound dangerous if you know."
-    "只有知到内情的人才会细思极恐。"
+    "只有了解内情的人才会听出其中的危险吧。"
 
 # game/murdochroute3.rpy:5376
 translate Schinese murdochroute3b_29a7a33e:
 
     # "This must be the first time I’ve felt an uncanny resemblance to her and her brother."
-    "这是我第一次真心觉得她跟她弟有相像的地方。"
+    "这是我第一次觉得她跟她弟有相似的地方。"
 
 # game/murdochroute3.rpy:5377
 translate Schinese murdochroute3b_763e303c:
@@ -17232,25 +17232,25 @@ translate Schinese murdochroute3b_763e303c:
 translate Schinese murdochroute3b_92c2a4da:
 
     # ji "\"My friends might have caught a travel sickness.\""
-    ji "\"我朋友恐怕水土不服。\""
+    ji "\"我朋友好像水土不服。\""
 
 # game/murdochroute3.rpy:5382
 translate Schinese murdochroute3b_9b6b4251:
 
     # ji "\"They were under the weather last night.\""
-    ji "\"他们昨晚就状态不佳了。\""
+    ji "\"从昨晚起就状态不佳了。\""
 
 # game/murdochroute3.rpy:5385
 translate Schinese murdochroute3b_35a6a61d:
 
     # ho "\"What a shame.\""
-    ho "\"真遗憾。\""
+    ho "\"真是遗憾。\""
 
 # game/murdochroute3.rpy:5388
 translate Schinese murdochroute3b_bba19524:
 
     # ji "\"As for my parents?\""
-    ji "\"至于我父母吧？\""
+    ji "\"至于我的父母？\""
 
 # game/murdochroute3.rpy:5391
 translate Schinese murdochroute3b_08c53d95:
@@ -17262,13 +17262,13 @@ translate Schinese murdochroute3b_08c53d95:
 translate Schinese murdochroute3b_b5df0125:
 
     # ji "\"They should be here.\""
-    ji "\"人应该在的。\""
+    ji "\"应该在才对。\""
 
 # game/murdochroute3.rpy:5397
 translate Schinese murdochroute3b_cc7ba53a:
 
     # md "\"Perhaps the train had some difficulties?\""
-    md "\"或许是火车的问题吧？\""
+    md "\"也许是火车的问题？\""
 
 # game/murdochroute3.rpy:5400
 translate Schinese murdochroute3b_09859e7a:
@@ -17280,31 +17280,31 @@ translate Schinese murdochroute3b_09859e7a:
 translate Schinese murdochroute3b_cd9c7980:
 
     # "I hadn’t heard her talk about that before, but, but from the tone of her voice it sounds serious."
-    "我没听她提过这件事，但她的语气是认真的。"
+    "我不记得她提过这件事，但听语气她是认真的。"
 
 # game/murdochroute3.rpy:5404
 translate Schinese murdochroute3b_6b03d351:
 
     # gr "\"Well, they have thirty minutes before the beginning of the ceremony.\""
-    gr "\"好吧，离典礼开始还有三十分钟。\""
+    gr "\"好吧，距婚礼开始还有三十分钟。\""
 
 # game/murdochroute3.rpy:5407
 translate Schinese murdochroute3b_9dff194a:
 
     # gr "\"Too many people have taken the time out of their lives to be here, so postponement is out of the question.\""
-    gr "\"太多人已经花了大把时间才来的，没可能延后。\""
+    gr "\"太多人花了太多时间才来的，不可能延后。\""
 
 # game/murdochroute3.rpy:5410
 translate Schinese murdochroute3b_7f42b612:
 
     # gr "\"They can pay for a second ceremony if they’re upset about it.\""
-    gr "\"要是他们因为没赶上而抱憾，大可自己出钱重办一场。\""
+    gr "\"要是他们感到遗憾，大可自己出钱重办一场。\""
 
 # game/murdochroute3.rpy:5413
 translate Schinese murdochroute3b_d02ee787:
 
     # ji "\"Don’t fret.\""
-    ji "\"甭愁。\""
+    ji "\"不用愁。\""
 
 # game/murdochroute3.rpy:5416
 translate Schinese murdochroute3b_117dd41c:
@@ -17316,37 +17316,37 @@ translate Schinese murdochroute3b_117dd41c:
 translate Schinese murdochroute3b_ac31802a:
 
     # gr "\"Well, maybe you should be less sure.\""
-    gr "\"还是别这麽肯定为好吧。\""
+    gr "\"还是别这么肯定为好。\""
 
 # game/murdochroute3.rpy:5422
 translate Schinese murdochroute3b_5e3d0f1e:
 
     # gr "\"Why, if I missed my daughter’s ceremony then I’d be devastated.\""
-    gr "\"我要是错过女儿的结婚典礼，怕是要疯了。\""
+    gr "\"我要是错过女儿的结婚典礼，只怕会以泪洗面。\""
 
 # game/murdochroute3.rpy:5425
 translate Schinese murdochroute3b_ee52c9b0:
 
     # gr "\"I’m sure your mother wouldn’t be happy about missing the most important day of your life.\""
-    gr "\"你母亲要是错过你人生中最重要的一天，也不会开心吧。\""
+    gr "\"令堂如果错过你人生中最重要的一天，也一定不会开心吧。\""
 
 # game/murdochroute3.rpy:5427
 translate Schinese murdochroute3b_3b539914:
 
     # "Jim gives her a very thin smile as he drinks from his glass."
-    "Jim给了她一个非常勉强的微笑，喝了起来。"
+    "Jim给了她一个非常勉强的微笑，喝了口饮料。"
 
 # game/murdochroute3.rpy:5428
 translate Schinese murdochroute3b_36a29e61:
 
     # "I can tell that he’s doing so to prevent himself from speaking."
-    "我看得出来他这麽做是在避免自己开口说话。"
+    "我知道他这么做是在避免自己开口说话。"
 
 # game/murdochroute3.rpy:5430
 translate Schinese murdochroute3b_56265061:
 
     # ho "\"Let’s just hope for the best instead of worrying ourselves over something that hasn’t even happened.\""
-    ho "\"比起担心未必会发生的事，还是先心怀希望就好了。\""
+    ho "\"比起担心还未发生的事情，不如往好处想。\""
 
 # game/murdochroute3.rpy:5433
 translate Schinese murdochroute3b_0278b0b7:
@@ -17358,25 +17358,25 @@ translate Schinese murdochroute3b_0278b0b7:
 translate Schinese murdochroute3b_8cc23759:
 
     # "Is she speaking in earnest, or does she think he has something to do with their absence?"
-    "她是真心诚意说出这话的，还是认为他们没来是他从中作梗？"
+    "她是真心实意说出这话的，还是认为他在从中作梗？"
 
 # game/murdochroute3.rpy:5436
 translate Schinese murdochroute3b_97438e5e:
 
     # "Ain’t possible to tell, really."
-    "我真是一点也看不出来。"
+    "我是一点也看不出来。"
 
 # game/murdochroute3.rpy:5437
 translate Schinese murdochroute3b_19505844:
 
     # "We knew he told his friends not to come last night."
-    "我们昨晚就知道是他叫他朋友别来的。"
+    "我们昨晚就知道他叫他的朋友别来。"
 
 # game/murdochroute3.rpy:5438
 translate Schinese murdochroute3b_522569e4:
 
     # "But all his family and friends being gone is suspicious."
-    "不过如果家人跟朋友都缺席就可疑了。"
+    "但家人和朋友都缺席的话就很可疑了。"
 
 # game/murdochroute3.rpy:5440
 translate Schinese murdochroute3b_a04c5102:
@@ -17400,19 +17400,19 @@ translate Schinese murdochroute3b_058877b4:
 translate Schinese murdochroute3b_d7f087e1:
 
     # "The walk in opposite directions while the crowd sort of hovers around the now empty table."
-    "他们走往相反方向，独留一行人就这麽待在空桌旁。"
+    "他们往相反的方向走去，徒留一行人待在空桌旁。"
 
 # game/murdochroute3.rpy:5453
 translate Schinese murdochroute3b_0e9f7d95:
 
     # cy "\"Let me refill your drinks.\""
-    cy "\"我来给你们满上饮料吧。\""
+    cy "\"我来给各位蓄满饮料吧。\""
 
 # game/murdochroute3.rpy:5460
 translate Schinese murdochroute3b_1bfbb159:
 
     # "Jim walks in my direction{nw}"
-    "Jim往我这边走来{nw}"
+    "Jim朝我这边走来，{nw}"
 
 # game/murdochroute3.rpy:5462
 translate Schinese murdochroute3b_21f462a6:
@@ -17424,7 +17424,7 @@ translate Schinese murdochroute3b_21f462a6:
 translate Schinese murdochroute3b_4b97a6f4:
 
     # "I think he’s going to talk to me for a moment when I feel somebody step out of my shadow."
-    "有一瞬间我还以为他要向我搭话，但有人从我身后探头。"
+    "就在我以为他要向我搭话的时候，有人从我身后探头。"
 
 # game/murdochroute3.rpy:5464
 translate Schinese murdochroute3b_2a761aba:
@@ -17436,13 +17436,13 @@ translate Schinese murdochroute3b_2a761aba:
 translate Schinese murdochroute3b_c061ddd6:
 
     # ji "\"Brought me what?\""
-    ji "\"带来什麽？\""
+    ji "\"带来什么？\""
 
 # game/murdochroute3.rpy:5468
 translate Schinese murdochroute3b_8465528a:
 
     # "She holds her palm out to Jim, showing him a silver coin."
-    "她掌心向上朝Jim伸出，秀出一枚银币。"
+    "她掌心向上，秀出一枚银币。"
 
 # game/murdochroute3.rpy:5470
 translate Schinese murdochroute3b_83cf964b:
@@ -17454,13 +17454,13 @@ translate Schinese murdochroute3b_83cf964b:
 translate Schinese murdochroute3b_052df526:
 
     # "The old fox’s brow lifts and her eyes twinkle a bit."
-    "老狐狸眉头抬起，眼光闪了一下。"
+    "老狐狸扬起眉毛，目光闪烁。"
 
 # game/murdochroute3.rpy:5473
 translate Schinese murdochroute3b_e1077816:
 
     # ci "\"You sure laddie?\""
-    ci "\"确定吗，小伙子？\""
+    ci "\"你确定吗，小伙子？\""
 
 # game/murdochroute3.rpy:5475
 translate Schinese murdochroute3b_bceb7502:
@@ -17472,25 +17472,25 @@ translate Schinese murdochroute3b_bceb7502:
 translate Schinese murdochroute3b_7e5ef951:
 
     # "He closes her palm."
-    "他阖上她的掌。"
+    "他合上她的掌。"
 
 # game/murdochroute3.rpy:5479
 translate Schinese murdochroute3b_11d45531:
 
     # ji "\"I just don’t have the time for this right now.\""
-    ji "\"我现在没这个闲情。\""
+    ji "\"我现在没那个闲情。\""
 
 # game/murdochroute3.rpy:5482
 translate Schinese murdochroute3b_b5e8c98b:
 
     # "Swiftly, he struts away."
-    "他迅速离去。"
+    "说罢，他快速离去。"
 
 # game/murdochroute3.rpy:5483
 translate Schinese murdochroute3b_8c5c7c5f:
 
     # "Murdoch’s grandmother nods, and smiles a little smile."
-    "Murdoch祖母点点头，微微笑了一下。"
+    "Murdoch的祖母点点头，微微一笑。"
 
 # game/murdochroute3.rpy:5484
 translate Schinese murdochroute3b_578e7929:
@@ -17508,49 +17508,49 @@ translate Schinese murdochroute3b_24388942:
 translate Schinese murdochroute3b_a0b12176:
 
     # "She don’t seem too fussed for somebody whose family tradition was just spurned."
-    "对于家庭传统被正面打破的人来说，她倒是还挺淡定。"
+    "对于一个家庭传统被正面打破的人来说，她倒是还挺淡定。"
 
 # game/murdochroute3.rpy:5487
 translate Schinese murdochroute3b_8d7512a1:
 
     # "Wonder why."
-    "真好奇为什麽。"
+    "有点好奇。"
 
 # game/murdochroute3.rpy:5489
 translate Schinese murdochroute3b_7e05876a:
 
     # "A pipe organ from the church begins to play."
-    "教堂的管风琴开始演奏。"
+    "教堂里的管风琴开始演奏。"
 
 # game/murdochroute3.rpy:5490
 translate Schinese murdochroute3b_47da81b7:
 
     # "People on the veranda start standing, moving aimlessly in the direction of the church when the crowd of people aren’t clogging their way."
-    "骑楼下的人都站了起来，漫无目的地往教堂挤，但造成了堵塞。"
+    "游廊下的人全都站了起来，漫无目的地往屋里挤。"
 
 # game/murdochroute3.rpy:5492
 translate Schinese murdochroute3b_97dd4f06:
 
     # cy "\"Sam, aren’t you supposed to be helping people get to their seats?\""
-    cy "\"Sam，你难道不该帮忙带位吗？\""
+    cy "\"Sam，你不去帮忙带位吗？\""
 
 # game/murdochroute3.rpy:5494
 translate Schinese murdochroute3b_25772c0e:
 
     # m "\"Why’s that?\""
-    m "\"为什麽？\""
+    m "\"为什么？\""
 
 # game/murdochroute3.rpy:5496
 translate Schinese murdochroute3b_091170ec:
 
     # cy "\"Because you’re dressed like an usher.\""
-    cy "\"你打扮的就像个接待人员啊。\""
+    cy "\"你打扮得就像个接待人员啊。\""
 
 # game/murdochroute3.rpy:5498
 translate Schinese murdochroute3b_19ea10f1:
 
     # m "\"I think Mr. Byrnes said I am one of those.\""
-    m "\"Byrnes先生确实有说过我是。\""
+    m "\"Byrnes先生确实这么说过。\""
 
 # game/murdochroute3.rpy:5499
 translate Schinese murdochroute3b_b8dd6051:
@@ -17562,7 +17562,7 @@ translate Schinese murdochroute3b_b8dd6051:
 translate Schinese murdochroute3b_a3f0b514:
 
     # m "\"Nobody told me!\""
-    m "\"没人跟我说过啊！\""
+    m "\"没人教我啊！\""
 
 # game/murdochroute3.rpy:5502
 translate Schinese murdochroute3b_f279c679:
@@ -17592,55 +17592,55 @@ translate Schinese murdochroute3b_c0bec28e:
 translate Schinese murdochroute3b_5df1d995:
 
     # mu "\"Ralph has most of the people bottlenecked at the east door but it could get pretty dangerous if we don’t help.\""
-    mu "\"Ralph已经把控住东门了，但我们不帮他的话会很不妙。\""
+    mu "\"Ralph已经控制住东门了，但我们不帮他的话会很不妙。\""
 
 # game/murdochroute3.rpy:5509
 translate Schinese murdochroute3b_05bb895d:
 
     # m "\"Help how!\""
-    m "\"怎麽帮！？\""
+    m "\"怎么帮？！\""
 
 # game/murdochroute3.rpy:5510
 translate Schinese murdochroute3b_ff159a62:
 
     # m "\"Nobody told me how to help!\""
-    m "\"没人告诉我该怎麽做啊！\""
+    m "\"没人告诉我该怎么做啊！\""
 
 # game/murdochroute3.rpy:5511
 translate Schinese murdochroute3b_45dad179:
 
     # cy "\"Just guide half a dozen people in and make sure they get to their seats.\""
-    cy "\"一次放五六个人入场让他们就座就行了。\""
+    cy "\"一次放五六个人进场，让他们入座就好了。\""
 
 # game/murdochroute3.rpy:5513
 translate Schinese murdochroute3b_f64cf450:
 
     # cy "\"It’s not that difficult.\""
-    cy "\"没那麽难。\""
+    cy "\"没多难的。\""
 
 # game/murdochroute3.rpy:5516
 translate Schinese murdochroute3b_7662d4f8:
 
     # mu "\"No, no, he’s right.\""
-    mu "\"不不不，他说得对。\""
+    mu "\"不不，不是他的错。\""
 
 # game/murdochroute3.rpy:5518
 translate Schinese murdochroute3b_9c82a06a:
 
     # mu "\"I should have prepared him better before we had everybody trying to rush in at once.\""
-    mu "\"我本来应该帮他做好准备的。\""
+    mu "\"是我考虑事情太不周到了。\""
 
 # game/murdochroute3.rpy:5519
 translate Schinese murdochroute3b_fa046b57:
 
     # m "\"So where have you been?\""
-    m "\"你刚才人在哪？\""
+    m "\"你刚才去哪了？\""
 
 # game/murdochroute3.rpy:5521
 translate Schinese murdochroute3b_c7992de0:
 
     # mu "\"Well, ah...\""
-    mu "\"这个、呃……\""
+    mu "\"这个，呃...\""
 
 # game/murdochroute3.rpy:5522
 translate Schinese murdochroute3b_163a0184:
@@ -17652,13 +17652,13 @@ translate Schinese murdochroute3b_163a0184:
 translate Schinese murdochroute3b_2d6ee573_1:
 
     # m "\"Oh.\""
-    m "\"噢。\""
+    m "\"啊。\""
 
 # game/murdochroute3.rpy:5524
 translate Schinese murdochroute3b_28c5a9e1:
 
     # "She’s normally so quiet and gentle that I wouldn’t have noticed her gone."
-    "她平时就很安静轻柔，我根本就没注意到她人不在。"
+    "她平时就很安静，我完全没注意到她不在。"
 
 # game/murdochroute3.rpy:5525
 translate Schinese murdochroute3b_45cfa1ce:
@@ -17670,7 +17670,7 @@ translate Schinese murdochroute3b_45cfa1ce:
 translate Schinese murdochroute3b_20a25577:
 
     # mu "\"Uh...\""
-    mu "\"呃……\""
+    mu "\"唔...\""
 
 # game/murdochroute3.rpy:5527
 translate Schinese murdochroute3b_abf9f848:
@@ -17694,55 +17694,55 @@ translate Schinese murdochroute3b_9e423cb3:
 translate Schinese murdochroute3b_8db6e54d:
 
     # m "\"So what now?\""
-    m "\"现在怎麽办？\""
+    m "\"现在怎么办？\""
 
 # game/murdochroute3.rpy:5533
 translate Schinese murdochroute3b_066f0840:
 
     # "The church music changes again."
-    "教堂的音乐又变了。"
+    "教堂里的音乐又变了。"
 
 # game/murdochroute3.rpy:5535
 translate Schinese murdochroute3b_1f1195c7:
 
     # mu "\"I guess now we have to usher.\""
-    mu "\"也只能去接待客人了。\""
+    mu "\"只能先去接待客人了。\""
 
 # game/murdochroute3.rpy:5544
 translate Schinese murdochroute3b_e075b437:
 
     # "It’s been two days down here in the dark with not much to go off of but our normal marks."
-    "身处这底下一片黑暗中，除了我们平常的标记以外没什麽线索可循，已经两天了。"
+    "已经两天了，我身处地底的黑暗中，除了平时的标记外没有任何线索可循。"
 
 # game/murdochroute3.rpy:5546
 translate Schinese murdochroute3b_c1fb61e6:
 
     # "There’s enough food in the tromping grounds to last me a month if I have to, but if Melissa’s alive I’ll be damned if I spend another day without letting her eat."
-    "真要的话，游戏场的食物够我吃上一个月了，但如果Melissa还活着，我就是死也不能让她多饿一天。"
+    "真有必要的话，秘密基地的食物够我吃上一个月了，但如果Melissa还活着，我就是死也不能让她多饿一天。"
 
 # game/murdochroute3.rpy:5548
 translate Schinese murdochroute3b_b6868bb9:
 
     # "I can’t believe she did this for Mary of all people."
-    "真不敢相信她偏偏为了Mary这麽做。"
+    "真不敢相信她是为了Mary，偏偏是为了Mary。"
 
 # game/murdochroute3.rpy:5550
 translate Schinese murdochroute3b_9af97d5b:
 
     # "No way in Hell that girl would have done all that for her."
-    "要是两人处境相反，那女的根本不可能为她这样。"
+    "要是立场互换，那女人根本不可能为她做到这种地步。"
 
 # game/murdochroute3.rpy:5552
 translate Schinese murdochroute3b_33a55187:
 
     # "Sometimes I think I should have kept my mouth shut."
-    "有时候我真觉得自己该管好这张嘴。"
+    "有时候，我真觉得自己该管好这张嘴。"
 
 # game/murdochroute3.rpy:5554
 translate Schinese murdochroute3b_569e1a5b:
 
     # "Should have teased her less about her grades."
-    "早知道就不该多次拿她成绩说嘴的。"
+    "早知道就不拿她的成绩开玩笑了。"
 
 # game/murdochroute3.rpy:5556
 translate Schinese murdochroute3b_1b5ddcf0:
@@ -17754,13 +17754,13 @@ translate Schinese murdochroute3b_1b5ddcf0:
 translate Schinese murdochroute3b_4bf37a94:
 
     # "I can do something now, and lord above help anybody who wants to stand in my way."
-    "我是有点办法，谁敢挡我就多求上天保佑吧。"
+    "所以我现在才会在这里，谁敢挡我就自求多福吧。"
 
 # game/murdochroute3.rpy:5560
 translate Schinese murdochroute3b_2632ab63:
 
     # "Melissa never saw the man who was chasing her, but she heard him."
-    "Melissa是没亲眼见过追她的男人，但有听到他的声音。"
+    "Melissa没有亲眼看见追她的男人，但听到了他的声音。"
 
 # game/murdochroute3.rpy:5562
 translate Schinese murdochroute3b_80f8e600:
@@ -17772,67 +17772,67 @@ translate Schinese murdochroute3b_80f8e600:
 translate Schinese murdochroute3b_6911a55c:
 
     # "That’s useful in some ways."
-    "这点在某方面而言也算有点帮助。"
+    "这点在某方面也算有点用。"
 
 # game/murdochroute3.rpy:5566
 translate Schinese murdochroute3b_4a1d6e18:
 
     # "Ahead of me, in the tunnels, I see a man in the rays of light from time to time."
-    "我前方通道里，有个男人在几道光芒中若隐若现。"
+    "前方隧道里，有个男人在几束光中若隐若现。"
 
 # game/murdochroute3.rpy:5568
 translate Schinese murdochroute3b_a983f362:
 
     # "He’s certainly not a person, because he smiles at me with his jack-o-lantern grin that’s too big for his face, and he stares at me with no eyes but skin covered tight over the sockets."
-    "他必然不是人类，因为他冲着我笑，嘴得跟南瓜灯笼一样大裂，跟脸部都不成比例了；他也盯着我，但没有眼珠，只有皮肤紧包着那两个窟窿。"
+    "那必然不是人类，因为他冲着我笑，嘴裂得跟南瓜灯笼一样不成比例。他也盯着我，却没有眼珠，只有皮肤紧包着两个窟窿。"
 
 # game/murdochroute3.rpy:5570
 translate Schinese murdochroute3b_d5f55702:
 
     # "Like you would wind the skin of an animal over a drum."
-    "就像在鼓上风乾着的兽皮一样。"
+    "就像鼓上风干的兽皮。"
 
 # game/murdochroute3.rpy:5572
 translate Schinese murdochroute3b_1124b5ea:
 
     # "But when I keep on walking up to him he just vanishes into motes of dust."
-    "但我迳直朝他走，他就消失在尘埃中。"
+    "但我径直朝他走去，他就消失在了尘埃中。"
 
 # game/murdochroute3.rpy:5574
 translate Schinese murdochroute3b_7a0d78bd:
 
     # "This spirit seems to think it’s taunting, because it thinks I’m looking for a man who is a {i}monster{/i} monster."
-    "这灵体似乎认为自己很嘲讽呢，是以为我正在寻找{i}鬼怪{/i}中的鬼怪吧。"
+    "他似乎觉得他耍了我呢，是以为我正在寻找{b}鬼怪{/b}中的鬼怪吧。"
 
 # game/murdochroute3.rpy:5576
 translate Schinese murdochroute3b_70ab00b2:
 
     # "The reality is that I am looking for a man who is a coward."
-    "但其实我是在找一个胆小鬼。"
+    "但其实我在找一个胆小鬼。"
 
 # game/murdochroute3.rpy:5578
 translate Schinese murdochroute3b_91081fd2:
 
     # "A man who would exchange the lives of little girls and boys for just more time to waste on this planet."
-    "一个以年幼男女的生命换取更多时间来糟蹋的男人。"
+    "一个以男孩女孩的生命换取更多时间来糟蹋的人。"
 
 # game/murdochroute3.rpy:5580
 translate Schinese murdochroute3b_89376a1e:
 
     # "I can be terrible too, if I need to be."
-    "只要有必要，我也能变得恶劣。"
+    "如果需要的话，我也能变得恶劣。"
 
 # game/murdochroute3.rpy:5582
 translate Schinese murdochroute3b_8669f1e2:
 
     # "But as I keep looking, occasionally I’ll hear real men in the distance."
-    "但随着我的寻觅，有时我听见远方传来真人的声音。"
+    "随着一步步深入，我时而听见远方传来真人的声音。"
 
 # game/murdochroute3.rpy:5583
 translate Schinese murdochroute3b_267848ad:
 
     # "Yesterday, it was mostly miners with their pickaxes shouting things to one another."
-    "昨天基本上都是带着十字镐的矿工彼此吆喝的声音。"
+    "比如昨天，基本上都是带着十字镐的矿工们在吆喝。"
 
 # game/murdochroute3.rpy:5585
 translate Schinese murdochroute3b_6612f4c3:
@@ -17844,7 +17844,7 @@ translate Schinese murdochroute3b_6612f4c3:
 translate Schinese murdochroute3b_ce662a1b:
 
     # "Like there’s nobody working the mine."
-    "好像没人在矿坑工作。"
+    "矿里好像一个人都没有。"
 
 # game/murdochroute3.rpy:5589
 translate Schinese murdochroute3b_7093a6f5:
@@ -17856,7 +17856,7 @@ translate Schinese murdochroute3b_7093a6f5:
 translate Schinese murdochroute3b_6820902b:
 
     # "If my dad notices I’m gone early then he’ll probably figure out where I’ve gone and send a search party."
-    "要是爸发现我这麽早就离开，他可能会知道我的去向，派出搜查队。"
+    "要是老爸发现我这么早就不在家，他可能会派出搜查队来找我。"
 
 # game/murdochroute3.rpy:5593
 translate Schinese murdochroute3b_53589466:
@@ -17886,19 +17886,19 @@ translate Schinese murdochroute3b_ad575740:
 translate Schinese murdochroute3b_ffd9699e:
 
     # "But I don’t see any trace of a body."
-    "但没看到有尸体的迹象。"
+    "但没发现尸体的痕迹。"
 
 # game/murdochroute3.rpy:5606
 translate Schinese murdochroute3b_19701f89:
 
     # "Or if it was here, it’s not anymore?"
-    "还是说本来在，现在却不在了？"
+    "还是说被清理掉了？"
 
 # game/murdochroute3.rpy:5608
 translate Schinese murdochroute3b_2a445f47:
 
     # "Was I wrong?"
-    "是我想的不对吗？"
+    "是我的思路不对吗？"
 
 # game/murdochroute3.rpy:5610
 translate Schinese murdochroute3b_9f840884:
@@ -17910,13 +17910,13 @@ translate Schinese murdochroute3b_9f840884:
 translate Schinese murdochroute3b_b14cd924:
 
     # "I’m still going to look."
-    "我还是会去找。"
+    "反正我还是要去找。"
 
 # game/murdochroute3.rpy:5615
 translate Schinese murdochroute3b_16010601:
 
     # "That spirit is in the light again."
-    "那灵体又出现在光中了。"
+    "那鬼魂又出现在光中了。"
 
 # game/murdochroute3.rpy:5617
 translate Schinese murdochroute3b_2a848d6c:
@@ -17928,13 +17928,13 @@ translate Schinese murdochroute3b_2a848d6c:
 translate Schinese murdochroute3b_32db1f31:
 
     # "He has eyes too small for his face, and long black claws he likes to wiggle at me, clicking against the rock."
-    "眼睛对脸来说太小了，对我摇摆着长长的黑爪，拍打在岩石上。"
+    "他长着比起脸过于小的眼睛，对我晃动长长的黑爪，敲击岩石发出嗒嗒声。"
 
 # game/murdochroute3.rpy:5621
 translate Schinese murdochroute3b_fc0faadd:
 
     # "I’m starting to wish spirits were physical, so I could bite into it and know what it tastes like."
-    "真希望灵魂有实体，这样我就能咬咬看，嚐嚐味道如何了。"
+    "真希望鬼魂也有实体，这样我就能咬咬看，尝尝味道如何了。"
 
 # game/murdochroute3.rpy:5623
 translate Schinese murdochroute3b_d25a3d37:
@@ -17946,7 +17946,7 @@ translate Schinese murdochroute3b_d25a3d37:
 translate Schinese murdochroute3b_78f7858e:
 
     # "It disappears again, on account that I got too close to another light beam."
-    "由于我又接近了一道光芒，它再次消失。"
+    "由于我接近了光芒，它再次消失。"
 
 # game/murdochroute3.rpy:5627
 translate Schinese murdochroute3b_f7a3e5ef:
@@ -17958,43 +17958,43 @@ translate Schinese murdochroute3b_f7a3e5ef:
 translate Schinese murdochroute3b_f87bd895:
 
     # "I shout out into the cave and hear my voice echo throughout the tunnels."
-    "我朝洞穴大喊，听见隧道中发出的回音。"
+    "我朝洞穴大喊，只听见隧道中的回音。"
 
 # game/murdochroute3.rpy:5631
 translate Schinese murdochroute3b_5d121054:
 
     # "Nobody responds."
-    "无人回应。"
+    "无人应答。"
 
 # game/murdochroute3.rpy:5633
 translate Schinese murdochroute3b_b2927fdd:
 
     # "{font=font/forbid.ttf}{i}Don't wake those who sleep, child.{/i}{font}"
-    "{font=font/forbid.ttf}{i}可别吵醒了那些沉睡者，孩子。{/i}{font}"
+    "{font=font/forbid.ttf}{b}别吵醒了那些沉睡者，孩子。{/b}{font}"
 
 # game/murdochroute3.rpy:5635
 translate Schinese murdochroute3b_183d06ca:
 
     # "Nobody who matters, anyway."
-    "应该说是没有重要的人回应。"
+    "应该说没有重要的人应答。"
 
 # game/murdochroute3.rpy:5637
 translate Schinese murdochroute3b_04ee5caf:
 
     # "I climb one of the shallower rock slopes."
-    "我爬上较矮的石坡。"
+    "我爬上一处较矮的石坡。"
 
 # game/murdochroute3.rpy:5639
 translate Schinese murdochroute3b_0f97ac77:
 
     # bl "\"Melissa?!\""
-    bl "\"Melissa！？\""
+    bl "\"Melissa？！\""
 
 # game/murdochroute3.rpy:5641
 translate Schinese murdochroute3b_28a4fc0b:
 
     # "{font=font/forbid.ttf}{i}Noisome people oft have noisome ends.{/i}{font}"
-    "{font=font/forbid.ttf}{i}令人生厌之人，将落得令人生厌之下场。{/i}{font}"
+    "{font=font/forbid.ttf}{b}令人生厌之人，将落得令人生厌的下场。{/b}{font}"
 
 # game/murdochroute3.rpy:5644
 translate Schinese murdochroute3b_f0f1515d:
@@ -18012,7 +18012,7 @@ translate Schinese murdochroute3b_0ac1a849:
 translate Schinese murdochroute3b_426b51e8:
 
     # meunk "\"You have to be quiet.\""
-    meunk "\"小声点。\""
+    meunk "\"安静点。\""
 
 # game/murdochroute3.rpy:5650
 translate Schinese murdochroute3b_f2615b47:
@@ -18030,13 +18030,13 @@ translate Schinese murdochroute3b_92d2b39e:
 translate Schinese murdochroute3b_f7678530:
 
     # "The sound of the voice comes from between a very tight pairing of perpendicular, vertical rock."
-    "声音来自两面非常邻近的垂直岩壁间。"
+    "声音来自一条由两面垂直的岩壁组成的狭缝。"
 
 # game/murdochroute3.rpy:5655
 translate Schinese murdochroute3b_594e77ef:
 
     # "I’d know that voice anywhere, cracked or not."
-    "不管嘶不嘶哑，这声音我都认得。"
+    "嘶哑与否，这声音我都认得。"
 
 # game/murdochroute3.rpy:5657
 translate Schinese murdochroute3b_3d720be3:
@@ -18048,19 +18048,19 @@ translate Schinese murdochroute3b_3d720be3:
 translate Schinese murdochroute3b_432578bb:
 
     # "There’s even more of a slope upward, and a light coming from the ceiling."
-    "有道往上的大斜坡，顶部有光源。"
+    "有一面向上的斜坡，顶部还有光源。"
 
 # game/murdochroute3.rpy:5663
 translate Schinese murdochroute3b_a560fd19:
 
     # "In the darkness, I start to see her, crumpled against the rock."
-    "黑暗之中，我看见她的身影蜷缩在岩石旁。"
+    "在黑暗中，我看见她的身影蜷缩在岩石边。"
 
 # game/murdochroute3.rpy:5665
 translate Schinese murdochroute3b_8c431fed:
 
     # "She’s dirty, and disheveled, and looks at least ten years older than she used to."
-    "她又髒又蓬乱，看起来像老了十岁有。"
+    "她身上又脏又乱，看起来老了十岁不只。"
 
 # game/murdochroute3.rpy:5666
 translate Schinese murdochroute3b_a8938a01:
@@ -18084,13 +18084,13 @@ translate Schinese murdochroute3b_cb8b88dc:
 translate Schinese murdochroute3b_7a606dd6:
 
     # me "\"Is that you?\""
-    me "\"是妳吗？\""
+    me "\"是你吗？\""
 
 # game/murdochroute3.rpy:5675
 translate Schinese murdochroute3b_93718187:
 
     # me "\"Are you real?\""
-    me "\"妳是真人吗！？\""
+    me "\"你是真人吗？！\""
 
 # game/murdochroute3.rpy:5677
 translate Schinese murdochroute3b_69fabf09:
@@ -18102,7 +18102,7 @@ translate Schinese murdochroute3b_69fabf09:
 translate Schinese murdochroute3b_96054dae:
 
     # bl "\"Oh my god, it’s really you.\""
-    bl "\"天哪，真的是妳！\""
+    bl "\"老天，真的是你！\""
 
 # game/murdochroute3.rpy:5679
 translate Schinese murdochroute3b_0a1c33d0:
@@ -18126,43 +18126,43 @@ translate Schinese murdochroute3b_40500bd1:
 translate Schinese murdochroute3b_1a754e56:
 
     # "All I do when I see her is take her into a tight hug."
-    "我见到她第一件事就是紧抱住她。"
+    "我下意识地紧紧抱住她。"
 
 # game/murdochroute3.rpy:5687
 translate Schinese murdochroute3b_9b0c6168:
 
     # bl "\"I knew these piece of shit tunnels wouldn’t be the end of you.\""
-    bl "\"我就知道妳不会死在这几条蠢通道里。\""
+    bl "\"我就知道你不会死在区区几条隧道里。\""
 
 # game/murdochroute3.rpy:5689
 translate Schinese murdochroute3b_2f205fc9:
 
     # bl "\"Come on, let’s get out of here!\""
-    bl "\"快，我们离开吧。\""
+    bl "\"快，我们逃出去吧！\""
 
 # game/murdochroute3.rpy:5690
 translate Schinese murdochroute3b_0b0a0b4f:
 
     # "I tug her hand."
-    "我拉起她的手。"
+    "我拉住她的手。"
 
 # game/murdochroute3.rpy:5691
 translate Schinese murdochroute3b_0a25d53c:
 
     # "But she resists."
-    "但她不从。"
+    "但她在抗拒。"
 
 # game/murdochroute3.rpy:5692
 translate Schinese murdochroute3b_57699737:
 
     # bl "\"What are you waiting for?\""
-    bl "\"妳还等什麽？\""
+    bl "\"你还在等什么？\""
 
 # game/murdochroute3.rpy:5694
 translate Schinese murdochroute3b_d3f9b25b:
 
     # me "\"Blithe I can’t.\""
-    me "\"Blithe，我不行的。\""
+    me "\"不行，Blithe。\""
 
 # game/murdochroute3.rpy:5697
 translate Schinese murdochroute3b_44613a58:
@@ -18204,25 +18204,25 @@ translate Schinese murdochroute3b_e36a2905:
 translate Schinese murdochroute3b_35c26734:
 
     # "A Melissa Boike fact is always stated like how she states the weather."
-    "Melissa Boike陈述事情时总像她报天气的说法。"
+    "Melissa Boike陈述事情时总像在报天气一样。"
 
 # game/murdochroute3.rpy:5707
 translate Schinese murdochroute3b_43ffb69c:
 
     # "Some people might tell you that the mood outside is a little bit dreary."
-    "有人可能会说外头有点令人沉闷。"
+    "如果有人说外头很闷。"
 
 # game/murdochroute3.rpy:5708
 translate Schinese murdochroute3b_606dae17:
 
     # "Some might not bother looking at all."
-    "有人可能连看都不看。"
+    "那一定有人连看都不看。"
 
 # game/murdochroute3.rpy:5709
 translate Schinese murdochroute3b_1d927d7d:
 
     # "Those people might tell you that there's a chance of clouds."
-    "会说可能会有云。"
+    "就说今天可能多云。"
 
 # game/murdochroute3.rpy:5710
 translate Schinese murdochroute3b_79384fd5:
@@ -18234,7 +18234,7 @@ translate Schinese murdochroute3b_79384fd5:
 translate Schinese murdochroute3b_0e383b7a:
 
     # "Some people will hear a tornado but shake their heads and hide, refusing to look, refusing to get to the cellar."
-    "有人可能即使听见了龙捲风声也不想面对，直接躲了起来，既不去确认，又不愿去地窖。"
+    "即使听到龙卷风声，他们也只会摇头躲起来，既不想确认，也不愿去地窖。"
 
 # game/murdochroute3.rpy:5712
 translate Schinese murdochroute3b_d8098620:
@@ -18252,55 +18252,55 @@ translate Schinese murdochroute3b_54145d33:
 translate Schinese murdochroute3b_157c18ff:
 
     # bl "\"Some people did, yes.\""
-    bl "\"是有人杀了。\""
+    bl "\"对，某人杀了她。\""
 
 # game/murdochroute3.rpy:5715
 translate Schinese murdochroute3b_3cc04aad:
 
     # bl "\"And if we run into them, I’m gonna be the one who’s doing the killing.\""
-    bl "\"但要是被我们碰上，会下杀手的人就是我了。\""
+    bl "\"但要是被我们撞上，会下杀手的人就是我了。\""
 
 # game/murdochroute3.rpy:5717
 translate Schinese murdochroute3b_16861f27:
 
     # me "\"Blithe, there’s a monster!\""
-    me "\"Blithe，有个怪物在啊！\""
+    me "\"Blithe，这里还有怪物在啊！\""
 
 # game/murdochroute3.rpy:5719
 translate Schinese murdochroute3b_c4bfc15b:
 
     # bl "\"Those can’t hurt you.\""
-    bl "\"伤不了妳的。\""
+    bl "\"伤不了你的。\""
 
 # game/murdochroute3.rpy:5721
 translate Schinese murdochroute3b_d4706b7e:
 
     # me "\"How do you know?\""
-    me "\"妳怎麽知道？\""
+    me "\"你怎么知道？\""
 
 # game/murdochroute3.rpy:5723
 translate Schinese murdochroute3b_4f88896c:
 
     # bl "\"You ain’t dead, are ya?\""
-    bl "\"妳还没死，不是吗？\""
+    bl "\"你还没死，不是吗？\""
 
 # game/murdochroute3.rpy:5725
 translate Schinese murdochroute3b_949903b5:
 
     # me "\"It was too big.\""
-    me "\"它个头太大了。\""
+    me "\"它个头那么大。\""
 
 # game/murdochroute3.rpy:5727
 translate Schinese murdochroute3b_c0a84b65:
 
     # bl "\"Now why would a spirit be confined to physical space like that?\""
-    bl "\"灵魂怎麽会受物理空间限制呢？\""
+    bl "\"灵魂怎么会受物理空间的限制呢？\""
 
 # game/murdochroute3.rpy:5729
 translate Schinese murdochroute3b_bbd29b3a:
 
     # me "\"I don’t know if there’s rules or not.\""
-    me "\"我不知道是不是有什麽规则。\""
+    me "\"我不知道，也许有什么规则吧。\""
 
 # game/murdochroute3.rpy:5731
 translate Schinese murdochroute3b_19b72f5e:
@@ -18312,55 +18312,55 @@ translate Schinese murdochroute3b_19b72f5e:
 translate Schinese murdochroute3b_8a0249bf:
 
     # me "\"How do you know that?\""
-    me "\"妳怎麽知道？\""
+    me "\"你怎么知道？\""
 
 # game/murdochroute3.rpy:5735
 translate Schinese murdochroute3b_7ea6e7dc:
 
     # bl "\"’Cause they had plenty of opportunities to hurt me, I think.\""
-    bl "\"因为它们能伤害我的机会那麽多。\""
+    bl "\"因为它们能伤害我的机会明明那么多。\""
 
 # game/murdochroute3.rpy:5737
 translate Schinese murdochroute3b_cc064817:
 
     # "She holds her arm and crouches down."
-    "他报起手臂蹲下。"
+    "她抱着手臂蹲下。"
 
 # game/murdochroute3.rpy:5740
 translate Schinese murdochroute3b_6a4d7b08:
 
     # bl "\"Now that I think about that, what have you been eating down here?\""
-    bl "\"我现在才想到，妳这几天都吃了什麽？\""
+    bl "\"我才想到，你这几天都吃了什么？\""
 
 # game/murdochroute3.rpy:5741
 translate Schinese murdochroute3b_ffb6270f:
 
     # bl "\"You’ve had to have been here for what...\""
-    bl "\"妳都在这待了……\""
+    bl "\"你在这待了...\""
 
 # game/murdochroute3.rpy:5742
 translate Schinese murdochroute3b_110abe7a:
 
     # bl "\"Four? Five days?!\""
-    bl "\"四天？五天！？\""
+    bl "\"四天？五天？！\""
 
 # game/murdochroute3.rpy:5744
 translate Schinese murdochroute3b_b5fa81d8:
 
     # me "\"I lucked out.\""
-    me "\"我走好运了。\""
+    me "\"我运气好。\""
 
 # game/murdochroute3.rpy:5746
 translate Schinese murdochroute3b_b9f4c09e:
 
     # bl "\"Lucked out?\""
-    bl "\"走好运？\""
+    bl "\"运气好？\""
 
 # game/murdochroute3.rpy:5747
 translate Schinese murdochroute3b_6a26d7b4:
 
     # bl "\"The hell do you mean lucked out--\""
-    bl "\"走好运是什麽意——\""
+    bl "\"运气好是什么意-\""
 
 # game/murdochroute3.rpy:5749
 translate Schinese murdochroute3b_bfc8eaf3:
@@ -18378,25 +18378,25 @@ translate Schinese murdochroute3b_ce0c2a0d:
 translate Schinese murdochroute3b_6d3f222d:
 
     # jamunk "\"Young woman, are you still down there?\""
-    jamunk "\"小女孩，妳还在下面吗？\""
+    jamunk "\"小女孩，你还在下面吗？\""
 
 # game/murdochroute3.rpy:5752
 translate Schinese murdochroute3b_74a19445:
 
     # bl "\"Who’s that?!\""
-    bl "\"什麽人！？\""
+    bl "\"什么人？！\""
 
 # game/murdochroute3.rpy:5753
 translate Schinese murdochroute3b_df2de94a:
 
     # jamunk "\"Wait...\""
-    jamunk "\"等等……\""
+    jamunk "\"等一下...\""
 
 # game/murdochroute3.rpy:5754
 translate Schinese murdochroute3b_14416fa5:
 
     # jamunk "\"Is there another one of you?\""
-    jamunk "\"还有另一个人吗？\""
+    jamunk "\"还有另一个人在吗？\""
 
 # game/murdochroute3.rpy:5755
 translate Schinese murdochroute3b_c9efc088:
@@ -18420,25 +18420,25 @@ translate Schinese murdochroute3b_1fda8bbf:
 translate Schinese murdochroute3b_e6fd6fa7:
 
     # bl "\"But he didn’t tell nobody?!\""
-    bl "\"可他没通报其他人啊！？\""
+    bl "\"可他没通报其他人啊？！\""
 
 # game/murdochroute3.rpy:5763
 translate Schinese murdochroute3b_35b52246:
 
     # jamunk "\"Now young lady...\""
-    jamunk "\"这位年轻的小姐……\""
+    jamunk "\"这位年轻的小姐...\""
 
 # game/murdochroute3.rpy:5764
 translate Schinese murdochroute3b_1c44d3c7:
 
     # jamunk "\"I’ve done everything in my power to help your friend. To the extent that I’ve given her food from my very table.\""
-    jamunk "\"我已经尽我所能帮助妳的朋友了，连我自己桌上的食物都带来给她了。\""
+    jamunk "\"我已经尽我所能帮助你的朋友了，甚至从我自己的餐桌上拿食物给她。\""
 
 # game/murdochroute3.rpy:5765
 translate Schinese murdochroute3b_2ebc67ad:
 
     # "Wait a minute."
-    "先等一下。"
+    "慢着。"
 
 # game/murdochroute3.rpy:5766
 translate Schinese murdochroute3b_f1eb6518:
@@ -18468,31 +18468,31 @@ translate Schinese murdochroute3b_85bc84a9:
 translate Schinese murdochroute3b_b6f19a70:
 
     # bl "\"Okay then that’s perfect.\""
-    bl "\"那就太好了。\""
+    bl "\"好极了。\""
 
 # game/murdochroute3.rpy:5771
 translate Schinese murdochroute3b_e2e81840:
 
     # bl "\"Send some of your men to come help Melissa, she’s weak.\""
-    bl "\"派些人帮帮Melissa吧，她很虚弱。\""
+    bl "\"派些人营救Melissa吧，她很虚弱。\""
 
 # game/murdochroute3.rpy:5772
 translate Schinese murdochroute3b_2bbd6109:
 
     # "We hear some fiddling with what sounds like filing cabinets."
-    "似乎是翻找文件柜的声音传来。"
+    "我似乎听到翻找文件柜的声音。"
 
 # game/murdochroute3.rpy:5773
 translate Schinese murdochroute3b_f5dab224:
 
     # jam "\"The men have been away for the last few days, so my hands are a bit tied.\""
-    jam "\"工人们过去几天都不在，人手不足呢。\""
+    jam "\"工人们过去几天都不在，所以我也无能为力。\""
 
 # game/murdochroute3.rpy:5774
 translate Schinese murdochroute3b_ca0933c4:
 
     # bl "\"What?\""
-    bl "\"什麽？\""
+    bl "\"什么？\""
 
 # game/murdochroute3.rpy:5775
 translate Schinese murdochroute3b_f90a0557:
@@ -18510,7 +18510,7 @@ translate Schinese murdochroute3b_cb8b88dc_1:
 translate Schinese murdochroute3b_f6f8640e:
 
     # bl "\"I don’t care about that?\""
-    bl "\"但这又怎样？\""
+    bl "\"但那又怎样？\""
 
 # game/murdochroute3.rpy:5778
 translate Schinese murdochroute3b_cea152b9:
@@ -18522,7 +18522,7 @@ translate Schinese murdochroute3b_cea152b9:
 translate Schinese murdochroute3b_a6e1497a:
 
     # me "\"I keep telling you that he’s been helping me Blithe.\""
-    me "\"我一直都跟你说就是他在帮我的，Blithe。\""
+    me "\"我都跟你说是他在帮我了，Blithe。\""
 
 # game/murdochroute3.rpy:5782
 translate Schinese murdochroute3b_c7d2dd87:
@@ -18540,7 +18540,7 @@ translate Schinese murdochroute3b_44f667ed:
 translate Schinese murdochroute3b_07884616:
 
     # jam "\"I think I employ a Washington.\""
-    jam "\"我是有个叫Washington的员工。\""
+    jam "\"我手下也有个叫Washington的员工。\""
 
 # game/murdochroute3.rpy:5785
 translate Schinese murdochroute3b_9fbd9090:
@@ -18558,31 +18558,31 @@ translate Schinese murdochroute3b_0599ac49:
 translate Schinese murdochroute3b_dcd2c0b9:
 
     # jam "\"He wouldn’t be happy to have you girls traipsing down in my mines, you know.\""
-    jam "\"要是知道你们几位女孩在我矿洞里乱跑，他可不会高兴的。\""
+    jam "\"如果被他知道你们几位小姐在矿井里乱跑，他可不会高兴的。\""
 
 # game/murdochroute3.rpy:5788
 translate Schinese murdochroute3b_739cd8eb:
 
     # bl "\"That’s okay.\""
-    bl "\"没关係。\""
+    bl "\"没关系。\""
 
 # game/murdochroute3.rpy:5789
 translate Schinese murdochroute3b_7d1d8120:
 
     # bl "\"He can come find us now.\""
-    bl "\"他能来找我们了。\""
+    bl "\"他能来找我们就行。\""
 
 # game/murdochroute3.rpy:5790
 translate Schinese murdochroute3b_47b0b3c2:
 
     # jam "\"So again... what with all the union activity...\""
-    jam "\"就是说……由于工会的那些活动……\""
+    jam "\"所以说...由于工会的那些活动...\""
 
 # game/murdochroute3.rpy:5791
 translate Schinese murdochroute3b_b9139169:
 
     # bl "\"My dad isn’t striking, we don’t have the money to spare.\""
-    bl "\"我爸又没在罢工，我们家很缺钱的。\""
+    bl "\"我爸又没罢工，我们家很缺钱的。\""
 
 # game/murdochroute3.rpy:5792
 translate Schinese murdochroute3b_fcd8cad6:
@@ -18594,37 +18594,37 @@ translate Schinese murdochroute3b_fcd8cad6:
 translate Schinese murdochroute3b_bba6f818:
 
     # jam "\"What I’m getting at... Miss Washington...\""
-    jam "\"Washington小姐……我的意思是……\""
+    jam "\"Washington小姐...我的意思是...\""
 
 # game/murdochroute3.rpy:5795
 translate Schinese murdochroute3b_20f2d8bf:
 
     # jam "\"Is that if two very weak young girls are pulled out of my mine, the papers would have a field day, and the strikers would grow bold.\""
-    jam "\"要是有两位非常虚弱的小女孩被从我的矿洞里救了出去，媒体可要大作文章了，罢工的人更会得寸进尺。\""
+    jam "\"要是有两位非常虚弱的小姑娘被从我的矿井里救了出去，媒体们可要大作文章了，罢工的人更会得寸进尺。\""
 
 # game/murdochroute3.rpy:5797
 translate Schinese murdochroute3b_582c6b32:
 
     # me "\"...Mr. Hendricks?\""
-    me "\"……Hendricks先生？\""
+    me "\"...Hendricks先生？\""
 
 # game/murdochroute3.rpy:5799
 translate Schinese murdochroute3b_76f0afd9:
 
     # bl "\"Ok well...\""
-    bl "\"这……\""
+    bl "\"这...\""
 
 # game/murdochroute3.rpy:5800
 translate Schinese murdochroute3b_a20e9019:
 
     # bl "\"I don’t care?\""
-    bl "\"关我什麽事？\""
+    bl "\"关我什么事？\""
 
 # game/murdochroute3.rpy:5801
 translate Schinese murdochroute3b_966bef5b:
 
     # bl "\"We would still like to go.\""
-    bl "\"我们还是想离开。\""
+    bl "\"我们才不要待在这。\""
 
 # game/murdochroute3.rpy:5802
 translate Schinese murdochroute3b_0599ac49_1:
@@ -18642,7 +18642,7 @@ translate Schinese murdochroute3b_0e8f2173:
 translate Schinese murdochroute3b_e2915344:
 
     # bl "\"Just throw us down a rope and we can climb out ourselves if you need us to be sneaky about this.\""
-    bl "\"不想闹大的话，你只要给我们丢条绳索，我们就能自力爬出去。\""
+    bl "\"不想闹大的话，你只需给我们丢条绳索，我们自己往上爬。\""
 
 # game/murdochroute3.rpy:5805
 translate Schinese murdochroute3b_b73c6ade:
@@ -18654,25 +18654,25 @@ translate Schinese murdochroute3b_b73c6ade:
 translate Schinese murdochroute3b_b45d5a33:
 
     # bl "\"So...\""
-    bl "\"那……\""
+    bl "\"那...\""
 
 # game/murdochroute3.rpy:5807
 translate Schinese murdochroute3b_7119161d:
 
     # bl "\"What do you suggest we do?\""
-    bl "\"你说我们该怎麽办？\""
+    bl "\"你说我们怎么办？\""
 
 # game/murdochroute3.rpy:5808
 translate Schinese murdochroute3b_599f453d:
 
     # jam "\"Well, the union trouble should blow over in just a couple of days.\""
-    jam "\"这样吧，工会闹的事应该再几天就会消平了。\""
+    jam "\"这场闹剧再过几天应该就会平息了。\""
 
 # game/murdochroute3.rpy:5809
 translate Schinese murdochroute3b_01b1b882:
 
     # jam "\"...Why don’t you stay put?\""
-    jam "\"……妳们就老实待着怎麽样？\""
+    jam "\"...你们就老实待到那时如何？\""
 
 # game/murdochroute3.rpy:5811
 translate Schinese murdochroute3b_e2d03783:
@@ -18684,13 +18684,13 @@ translate Schinese murdochroute3b_e2d03783:
 translate Schinese murdochroute3b_c4812e4f:
 
     # "I sigh plenty loud so he can hear me."
-    "我大叹一口气让他听见。"
+    "我大声叹一口气让他听见。"
 
 # game/murdochroute3.rpy:5814
 translate Schinese murdochroute3b_7d022343:
 
     # bl "\"First of all...\""
-    bl "\"首先……\""
+    bl "\"首先...\""
 
 # game/murdochroute3.rpy:5815
 translate Schinese murdochroute3b_78a55eb5:
@@ -18702,19 +18702,19 @@ translate Schinese murdochroute3b_78a55eb5:
 translate Schinese murdochroute3b_4aa7beef:
 
     # bl "\"You seem to imply that’s a minimum.\""
-    bl "\"从你语气听来恐怕不只吧。\""
+    bl "\"从你语气听来恐怕只多不少。\""
 
 # game/murdochroute3.rpy:5817
 translate Schinese murdochroute3b_5f2df316:
 
     # bl "\"Secondly, neither I nor Melissa will be staying down here for one more single day.\""
-    bl "\"再来，我跟Melissa连一天都不会再多待了。\""
+    bl "\"其次，我跟Melissa连一天都不要多待了。\""
 
 # game/murdochroute3.rpy:5818
 translate Schinese murdochroute3b_4188a347:
 
     # bl "\"If you just pull us out of the hole we’ll make up some lies about how you’re a hero and handsome and stuff.\""
-    bl "\"只要你把我们带出来，我们还能掰点什麽给你美言几句，告诉大家你是多麽帅气的英雄之类的。\""
+    bl "\"你把我们带出去，我们还能扯几句美言，告诉大家你是多么帅气的英雄之类的。\""
 
 # game/murdochroute3.rpy:5819
 translate Schinese murdochroute3b_a8c7b6b2:
@@ -18726,19 +18726,19 @@ translate Schinese murdochroute3b_a8c7b6b2:
 translate Schinese murdochroute3b_2ea01a03:
 
     # bl "\"Is that a deal...\""
-    bl "\"这交易如何……\""
+    bl "\"这交易如何...\""
 
 # game/murdochroute3.rpy:5821
 translate Schinese murdochroute3b_ae970db6:
 
     # "We listen to the droplets in the cave while we wait for him to respond again."
-    "我们等着他回答，期间只有洞穴中的水滴声作响。"
+    "我们等着他回答，期间只有洞穴中的水滴声。"
 
 # game/murdochroute3.rpy:5822
 translate Schinese murdochroute3b_5f4f63e3:
 
     # jam "\"That sounds...\""
-    jam "\"听起来……\""
+    jam "\"听起来...\""
 
 # game/murdochroute3.rpy:5823
 translate Schinese murdochroute3b_6f6495f1:
@@ -18750,31 +18750,31 @@ translate Schinese murdochroute3b_6f6495f1:
 translate Schinese murdochroute3b_dc733447:
 
     # jam "\"...oh my God.\""
-    jam "\"……我的老天。\""
+    jam "\"...我的老天。\""
 
 # game/murdochroute3.rpy:5825
 translate Schinese murdochroute3b_e9ecc9c9:
 
     # bl "\"Uh, what?\""
-    bl "\"呃、怎麽了？\""
+    bl "\"呃，怎么了？\""
 
 # game/murdochroute3.rpy:5827
 translate Schinese murdochroute3b_c2c65f9a:
 
     # jam "\"Oh my {i}God!{/i}\""
-    jam "\"我的{i}老天啊！{/i}\""
+    jam "\"我的{b}老天啊！{/b}\""
 
 # game/murdochroute3.rpy:5828
 translate Schinese murdochroute3b_f842ceb5:
 
     # bl "\"What’s going on up there?\""
-    bl "\"上面发生什麽事了？\""
+    bl "\"上面发生什么事了？\""
 
 # game/murdochroute3.rpy:5829
 translate Schinese murdochroute3b_6d7060f1:
 
     # jam "\"I’m so sorry, girls!\""
-    jam "\"抱歉了，女孩们！\""
+    jam "\"抱歉了，姑娘们！\""
 
 # game/murdochroute3.rpy:5831
 translate Schinese murdochroute3b_f648b788:
@@ -18786,19 +18786,19 @@ translate Schinese murdochroute3b_f648b788:
 translate Schinese murdochroute3b_1de8c38f:
 
     # bl "\"What what the hell?\""
-    bl "\"搞什麽？\""
+    bl "\"搞什么？\""
 
 # game/murdochroute3.rpy:5834
 translate Schinese murdochroute3b_8c79dd48:
 
     # me "\"Mr. Hendricks?!\""
-    me "\"Hendricks先生！？\""
+    me "\"Hendricks先生？！\""
 
 # game/murdochroute3.rpy:5836
 translate Schinese murdochroute3b_75b93cf2:
 
     # jam "\"This is for your own benefit, I promise!\""
-    jam "\"这是为了妳们好，我保证！\""
+    jam "\"这是为了你们好，我保证！\""
 
 # game/murdochroute3.rpy:5838
 translate Schinese murdochroute3b_65c3f6bf:
@@ -18810,7 +18810,7 @@ translate Schinese murdochroute3b_65c3f6bf:
 translate Schinese murdochroute3b_d57b0cde:
 
     # "The light in the hole goes completely dark."
-    "洞口整个没光了。"
+    "洞口的光彻底消失了。"
 
 # game/murdochroute3.rpy:5845
 translate Schinese murdochroute3b_1c307bbc:
@@ -18828,7 +18828,7 @@ translate Schinese murdochroute3b_be1d278a:
 translate Schinese murdochroute3b_b73a4bb0:
 
     # me "\"He sealed it up...\""
-    me "\"被他关上了……\""
+    me "\"被他关上了...\""
 
 # game/murdochroute3.rpy:5850
 translate Schinese murdochroute3b_230f76b5:
@@ -18846,7 +18846,7 @@ translate Schinese murdochroute3b_dfd1957d:
 translate Schinese murdochroute3b_2a536fcd:
 
     # bl "\"Yes we can!\""
-    bl "\"当然可以了！\""
+    bl "\"当然能了！\""
 
 # game/murdochroute3.rpy:5855
 translate Schinese murdochroute3b_ca4142a8:
@@ -18858,19 +18858,19 @@ translate Schinese murdochroute3b_ca4142a8:
 translate Schinese murdochroute3b_d8d1fb4b:
 
     # bl "\"We’ll be fine, okay?\""
-    bl "\"我们不会有事的，好吧？\""
+    bl "\"不会有事的，好吧？\""
 
 # game/murdochroute3.rpy:5858
 translate Schinese murdochroute3b_45530585:
 
     # "She nods, but I can tell her heart isn’t entirely in it."
-    "她点了头，但看得出她满心不相信。"
+    "她点了点头，但我看得出她并不相信。"
 
 # game/murdochroute3.rpy:5860
 translate Schinese murdochroute3b_f2b0308f:
 
     # "But she’s cooperating with me, which is all I need."
-    "至少她愿意听我的，这就够了。"
+    "起码她愿意听我的，这就足够了。"
 
 # game/murdochroute3.rpy:5861
 translate Schinese murdochroute3b_0f270d55:
@@ -18888,7 +18888,7 @@ translate Schinese murdochroute3b_47dfde03:
 translate Schinese murdochroute3b_ed19ef1f:
 
     # "What the hell made him run off like that?"
-    "到底是什麽吓跑了他？"
+    "到底是什么吓跑了他？"
 
 # game/murdochroute3.rpy:5870
 translate Schinese murdochroute3b_6e05f551:
@@ -18900,25 +18900,25 @@ translate Schinese murdochroute3b_6e05f551:
 translate Schinese murdochroute3b_0be4622f:
 
     # "So the strike is why I didn’t hear anybody earlier."
-    "原来我先前没听见声响就是因为在罢工。"
+    "原来之前没听见声响是因为上面在罢工。"
 
 # game/murdochroute3.rpy:5880
 translate Schinese murdochroute3b_2c8a14b5:
 
     # "But as we’re running through the tunnels I can hear somebody."
-    "但就在我们穿梭隧道时，听见了别人的声音。"
+    "但就在我们穿越隧道时，我听见了别人的声音。"
 
 # game/murdochroute3.rpy:5882
 translate Schinese murdochroute3b_68de2dfb:
 
     # bl "\"There’s somebody close by in one of the tunnels.\""
-    bl "\"有人在附近的通道里。\""
+    bl "\"有人在附近。\""
 
 # game/murdochroute3.rpy:5884
 translate Schinese murdochroute3b_d655ef6d:
 
     # me "\"We can’t go near anybody.\""
-    me "\"我们不该靠近其他人。\""
+    me "\"我们不能过去了。\""
 
 # game/murdochroute3.rpy:5888
 translate Schinese murdochroute3b_b6ea1a65:
@@ -18936,25 +18936,25 @@ translate Schinese murdochroute3b_e677ce5c:
 translate Schinese murdochroute3b_a0ac43de:
 
     # bl "\"He’s not trying to be quiet and we know what that other man sounds like!\""
-    bl "\"他没压低音量，我们也都认得那男人的声音啊！\""
+    bl "\"我们都认得那男人的声音啊，而且对方也没有刻意压低音量。\""
 
 # game/murdochroute3.rpy:5895
 translate Schinese murdochroute3b_b664fbab:
 
     # "I take the time to listen to his voice."
-    "我细心聆听他的声音。"
+    "我专心聆听。"
 
 # game/murdochroute3.rpy:5897
 translate Schinese murdochroute3b_4a110664:
 
     # "He sounds panicked."
-    "好像在惊慌。"
+    "他好像在惊慌。"
 
 # game/murdochroute3.rpy:5899
 translate Schinese murdochroute3b_c83610b2:
 
     # "And his voice is deep."
-    "声音也低沉。"
+    "声音低沉。"
 
 # game/murdochroute3.rpy:5901
 translate Schinese murdochroute3b_a409fe3e:
@@ -18966,13 +18966,13 @@ translate Schinese murdochroute3b_a409fe3e:
 translate Schinese murdochroute3b_723f85f7:
 
     # "But what’s he saying?"
-    "但他在说什麽？"
+    "他在说什么？"
 
 # game/murdochroute3.rpy:5905
 translate Schinese murdochroute3b_95dc10b7:
 
     # niunk "\"{i}Podpalacz!{/i}\""
-    niunk "\"{i}Podpalacz！{/i}\""
+    niunk "\"{b}Podpalacz！{/b}\""
 
 # game/murdochroute3.rpy:5907
 translate Schinese murdochroute3b_32fb6dd1:
@@ -18996,7 +18996,7 @@ translate Schinese murdochroute3b_fda08d68:
 translate Schinese murdochroute3b_105bff23:
 
     # bl "\"You can speak it?\""
-    bl "\"妳会说？\""
+    bl "\"你会说？\""
 
 # game/murdochroute3.rpy:5915
 translate Schinese murdochroute3b_77e1fc07:
@@ -19008,13 +19008,13 @@ translate Schinese murdochroute3b_77e1fc07:
 translate Schinese murdochroute3b_b9135df4:
 
     # me "\"I...\""
-    me "\"意……\""
+    me "\"好...\""
 
 # game/murdochroute3.rpy:5920
 translate Schinese murdochroute3b_4ee03862:
 
     # me "\"I think it means {i}“arsonist”{/i}?\""
-    me "\"意思好像是{i}「纵火」{/i}？\""
+    me "\"好像是{b}‘纵火’{/b}的意思？\""
 
 # game/murdochroute3.rpy:5922
 translate Schinese murdochroute3b_0fe488c7:
@@ -19032,19 +19032,19 @@ translate Schinese murdochroute3b_d7da3ace:
 translate Schinese murdochroute3b_0fffca54:
 
     # "We see a very large man running through the beams of light towards us."
-    "有个个头很大的男人穿过几道光芒往我们跑来。"
+    "有个大块头男人穿过几道光往我们这跑来。"
 
 # game/murdochroute3.rpy:5931
 translate Schinese murdochroute3b_c2f1df6a:
 
     # "I think he’s a bear..."
-    "好像是隻熊……"
+    "看起来像熊..."
 
 # game/murdochroute3.rpy:5933
 translate Schinese murdochroute3b_af37163d:
 
     # "No, he’s a badger."
-    "不对，是貛。"
+    "不对，是獾。"
 
 # game/murdochroute3.rpy:5935
 translate Schinese murdochroute3b_d99e2133:
@@ -19056,7 +19056,7 @@ translate Schinese murdochroute3b_d99e2133:
 translate Schinese murdochroute3b_5a4f572c:
 
     # ni "\"What?!\""
-    ni "\"什麽！？\""
+    ni "\"什么！？\""
 
 # game/murdochroute3.rpy:5940
 translate Schinese murdochroute3b_e037153e:
@@ -19068,7 +19068,7 @@ translate Schinese murdochroute3b_e037153e:
 translate Schinese murdochroute3b_0655438b:
 
     # ni "\"You shouldn’t be down here!\""
-    ni "\"妳们不该来这里的！\""
+    ni "\"你们不该来这里的！\""
 
 # game/murdochroute3.rpy:5944
 translate Schinese murdochroute3b_75f927b3:
@@ -19080,13 +19080,13 @@ translate Schinese murdochroute3b_75f927b3:
 translate Schinese murdochroute3b_2e8e8af1:
 
     # "Ushering is more work than I figured it would be with a crowd this big."
-    "接待这麽大群人比我想的还累。"
+    "接待这么一大群人比我想的还累。"
 
 # game/murdochroute3.rpy:5950
 translate Schinese murdochroute3b_e253c7a4:
 
     # "I wipe my brow and glance left and right to make sure everybody's where they're supposed to be."
-    "我擦了擦眉头，环顾四周确保所有人都就位了。"
+    "我擦了擦眉头，环顾四周，确保所有人都就位了。"
 
 # game/murdochroute3.rpy:5951
 translate Schinese murdochroute3b_eaac38b9:
@@ -19104,19 +19104,19 @@ translate Schinese murdochroute3b_b31fc7ac:
 translate Schinese murdochroute3b_e59c502e:
 
     # "Gretchen is the first to walk up, standing next to the priest."
-    "Gretchen是最先出行的，站到了牧师身旁。"
+    "Gretchen最先走上去，站到牧师身边。"
 
 # game/murdochroute3.rpy:5955
 translate Schinese murdochroute3b_20396be4:
 
     # "She regards the crowd with a thin smile as her mother walks up the aisle, taking a seat at the front."
-    "她朝群众淡淡一笑，她妈也通过走道，坐在前排椅子上。"
+    "她朝群众淡淡一笑，她妈也通过走道，坐在前排的椅子上。"
 
 # game/murdochroute3.rpy:5956
 translate Schinese murdochroute3b_cef8acb7:
 
     # "Dahlia is still noticably missing."
-    "Dahlia依旧明显缺席。"
+    "Dahlia依旧缺席。"
 
 # game/murdochroute3.rpy:5957
 translate Schinese murdochroute3b_1b868480:
@@ -19128,25 +19128,25 @@ translate Schinese murdochroute3b_1b868480:
 translate Schinese murdochroute3b_eac84e6f:
 
     # "Though I might describe it as more of a skulk than a walk."
-    "虽然比起走，用潜行描述更为合适。"
+    "虽然用潜行这个词描述更为合适。"
 
 # game/murdochroute3.rpy:5962
 translate Schinese murdochroute3b_f2905013:
 
     # "Holly appears next and walks up the aisle with Alfred holding her arm."
-    "接着是现身的是Holly，Alfred拄着她的手臂与她一同穿过走道。"
+    "紧接着是Holly，Alfred拄着她的手臂与她一同穿过过道。"
 
 # game/murdochroute3.rpy:5963
 translate Schinese murdochroute3b_5e1d5d4c:
 
     # "She's as radiant as ever, especially standing next to her father."
-    "她格外光采动人，尤其是以身旁的父亲做陪衬。"
+    "新娘格外光彩动人，尤其是以身旁的父亲作为陪衬。"
 
 # game/murdochroute3.rpy:5968
 translate Schinese murdochroute3b_3620c9e6:
 
     # "The room hangs onto the priest, who inhales for a moment, then slips his forked tongue out of his mouth."
-    "众人焦点聚在牧师身上，他吸了口气，吐出分岔的舌头。"
+    "众人的焦点聚集在牧师身上，他长吸一口气，吐出分岔的舌头。"
 
 # game/murdochroute3.rpy:5970
 translate Schinese murdochroute3b_21b036e0:
@@ -19158,19 +19158,19 @@ translate Schinese murdochroute3b_21b036e0:
 translate Schinese murdochroute3b_f866dd8c:
 
     # ho "\"Is something the matter, Father?\""
-    ho "\"有什麽问题吗，神父？\""
+    ho "\"有什么问题吗，神父？\""
 
 # game/murdochroute3.rpy:5974
 translate Schinese murdochroute3b_a8e61df1:
 
     # "The snake looks like he’s going to say something, but Mrs. Byrnes speaks first."
-    "蛇貌似有话要说，但Byrnes夫人抢先开口。"
+    "蛇貌似有话要说，却被Byrnes太太抢先开口。"
 
 # game/murdochroute3.rpy:5981
 translate Schinese murdochroute3b_3c01344f:
 
     # gr "\"Does anybody else smell smoke?\""
-    gr "\"有人闻到烟味吗？\""
+    gr "\"有人闻到烟味了吗？\""
 
 # game/murdochroute3.rpy:5984
 translate Schinese murdochroute3b_a8813016:
@@ -19182,28 +19182,28 @@ translate Schinese murdochroute3b_a8813016:
 translate Schinese murdochroute3b_028caf3c:
 
     # md "\"The Hendricks manor!\""
-    md "\"是Hendricks宅邸！\""
+    md "\"是Hendricks的庄园！\""
 
 # game/murdochroute3.rpy:5986
 translate Schinese murdochroute3b_2ca07e07:
 
     # "In the view of the window, we see a thick column of black smoke rising from the building, billowing into the sky."
-    "透过窗户，能看见那栋建筑冒着浓厚的黑烟，直升天顶。"
+    "透过窗户，所有人都能看到那栋建筑冒着浓厚的黑烟，直冲云霄。"
 
 # game/murdochroute3.rpy:5991
 translate Schinese murdochroute3b_de95e0cd:
 
     # "The church door bursts open."
-    "教堂大门砰地一下开了。"
+    "教堂大门砰的一声开了。"
 
 # game/murdochroute3.rpy:5993
 translate Schinese murdochroute3b_0d2fbbf6:
 
     # "We see both Neil and Reubin, panting and disheveled with sweat."
-    "是Neil跟Reubin，满身大汗喘着大气。"
+    "是Neil和Reubin，他们满身是汗，喘着粗气。"
 
 # game/murdochroute3.rpy:5998
 translate Schinese murdochroute3b_fec97169:
 
     # "To be continued..."
-    "待续……"
+    "未完待续..."
