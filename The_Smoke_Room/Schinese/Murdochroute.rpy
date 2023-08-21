@@ -7120,3 +7120,29 @@ translate Schinese Murdochroute_1161396b:
     # m "\"One. Nik. Big guy— even bigger than me. Has a heart of gold, too.\""
     m "“认识一位。Nik，他是个大块头，比我还壮，有着一颗金子般的心。”"
 
+# TODO: Translation updated at 2023-08-20 15:04
+
+# game/Murdochroute.rpy:723
+translate Schinese Murdochroute_373b2b21:
+
+    # mu "\"His mood flips like a switch. Best to avoid him unless absolutely necessary if you don’t want to make trouble for yourself.\""
+    mu ""
+
+# game/Murdochroute.rpy:1549
+translate Schinese Murdochroute_7d1fe0f6:
+
+    # dhunk "\"Why, hello. You’re someone new.\""
+    dhunk ""
+
+# game/Murdochroute.rpy:1553
+translate Schinese Murdochroute_b8fb06ae:
+
+    # dhunk "\"But of course. He’s my older brother. If you came from the right, you must have already met Holly, our sister.\""
+    dhunk ""
+
+# game/Murdochroute.rpy:1586
+translate Schinese Murdochroute_e1f01506:
+
+    # dh "\"You’ve probably given one to all of my students by now...\""
+    dh ""
+
