@@ -5493,7 +5493,7 @@ translate Schinese cliffroute_611f5608:
 translate Schinese cliffroute_68ab05c9:
 
     # "Chances are I'll never see her again after tonight, and I think she knows that, too."
-    "今日一别，我们可能就再也无缘相见了，我想她也清楚。"
+    "今日一别，我们可能再也无缘相见了，我想她也很清楚吧。"
 
 # game/cliffroute.rpy:1269
 translate Schinese cliffroute_b24f5363:
@@ -7840,5 +7840,5 @@ translate Schinese cliffroute_896396c7:
 translate Schinese cliffroute_cfa72996:
 
     # "I've never told her I wanted to leave, but Cynthia has a way of finding things out on her own."
-    ""
+    "我从没有向她吐过想要离开的苦水，但她总有办法知道。"
 
