@@ -18642,5 +18642,5 @@ translate Schinese nikroute3a_046a4813:
 translate Schinese sny3_a74c56c5:
 
     # co "\"Well it’s the coldest location on our property, which really makes a difference for the ease of storage.\""
-    co ""
+    co "“这是我们家最冷的区域了，温度对储藏的影响可是很大的。”"
 
