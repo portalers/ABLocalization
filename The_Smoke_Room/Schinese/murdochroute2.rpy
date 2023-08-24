@@ -8410,13 +8410,13 @@ translate Schinese murdochroute2_72d2339d:
 translate Schinese murdochroute2_fdcfd18e_1:
 
     # m "\"Why?\""
-    m "“呦。”"
+    m "“哦？”"
 
 # game/murdochroute2.rpy:2315
 translate Schinese murdochroute2_9e41ed50:
 
     # m "\"Afraid you'd like it too?\""
-    m "“你这不是也喜欢吗？”"
+    m "“你这不是挺喜欢的吗？”"
 
 # game/murdochroute2.rpy:2316
 translate Schinese murdochroute2_37ce674a:
@@ -8428,7 +8428,7 @@ translate Schinese murdochroute2_37ce674a:
 translate Schinese murdochroute2_d4b3f530:
 
     # ra "\"You've seen my teeth, haven't you?\""
-    ra "“你见过我的牙齿，不记得了么？”"
+    ra "“你是不是忘了我的牙齿有多尖？”"
 
 # game/murdochroute2.rpy:2318
 translate Schinese murdochroute2_73fbe980:
@@ -28579,47 +28579,47 @@ translate Schinese strings:
 translate Schinese murdochroute2_0e3b12ad:
 
     # ho "\"Working one of our longest days of the year on your second day isn't the best of luck.\""
-    ho ""
+    ho "“工作才第二天，就遇上了一年中最繁忙的日子，真是不走运啊。”"
 
 # game/murdochroute2.rpy:1834
 translate Schinese murdochroute2_7048fda8:
 
     # "Ralph looks all around him and lifts his head to the rock ceiling."
-    ""
+    "Ralph看了眼四周，然后抬头望向岩顶。"
 
 # game/murdochroute2.rpy:2231
 translate Schinese murdochroute2_a2252bcb:
 
     # "So I tug on Murdoch's sleeve, and he gives me a sly kind of smile."
-    ""
+    "于是我抓住Murdoch的衣袖，他回以一抹狡诈的笑容。"
 
 # game/murdochroute2.rpy:2326
 translate Schinese murdochroute2_bbd4795f:
 
     # m "\"I'm sure you'd learn to be careful.\""
-    m ""
+    m "“相信你会学会小心的。”"
 
 # game/murdochroute2.rpy:4233
 translate Schinese murdochroute2_efc84888:
 
     # "Murdoch sits on the empty chair closest to the fire, leaving me the couch with his father or the other empty chair that places the fiance between us."
-    ""
+    "Murdoch坐在离火炉最近的椅子上，把他父亲的沙发，或另一把空椅子留给了我。"
 
 # game/murdochroute2.rpy:4428
 translate Schinese murdochroute2_1a16c8fb:
 
     # gr "\"I’m proud to say that hiring you was one of the best things my son has done in months.\""
-    gr ""
+    gr "“我可以自豪地说，雇佣了你是我儿子这几个月来最值得称道的行为。”"
 
 # game/murdochroute2.rpy:4662
 translate Schinese murdochroute2_6251d9cf:
 
     # ji "\"What kind of groom would I be if I didn’t treat my own ushers to the best part of this ceremony?\""
-    ji ""
+    ji "“没有让伴郎们享受到婚礼最精彩的部分，那我还算哪门子新郎？”"
 
 # game/murdochroute2.rpy:6904
 translate Schinese mdq2_4d886868:
 
     # cy "\"Go get dressed, I’ll be in your room in a bit.\""
-    cy ""
+    cy "“回房间把衣服换上，我一会儿就过去。”"
 
