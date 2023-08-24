@@ -3076,7 +3076,7 @@ translate Schinese Murdochroute_2f3a3f7f:
 translate Schinese Murdochroute_ba8a2e59:
 
     # mu "\"His moods flip like a switch. Best to avoid him unless absolutely necessary if you don’t want to make trouble for yourself.\""
-    mu "“他翻脸像翻书一样快。除非有绝对的必要，你最好避开他，如果你不想给自己找麻烦。”"
+    mu "“他翻脸比翻书还快，除非绝对必要，否则你最好躲着点他，如果你不想给自己找麻烦的话。”"
 
 # game/Murdochroute.rpy:723
 translate Schinese Murdochroute_19e53185:
@@ -5788,13 +5788,13 @@ translate Schinese Murdochroute_8060c66a:
 translate Schinese Murdochroute_98e33743:
 
     # "{color=#B19882}???" "\"But of course. He’s my older brother. If you came from the right, you must have already met Holly, our sister.\""
-    "{color=#B19882}???" "“那当然，他是我哥。你从右边来的话，想必一定见过我们姐姐，Holly了。”"
+    "{color=#B19882}???" "“是的，他是我哥哥。你从右边来的话，想必见过我们的姐姐，Holly了。”"
 
 # game/Murdochroute.rpy:1548
 translate Schinese Murdochroute_05cdf9d4:
 
     # dh "\"I’m Dahlia. I tend to the books here.\""
-    dh "“我叫Dahlia，负责管理这里的书。”"
+    dh "“我叫Dahlia，负责管理这里的图书。”"
 
 # game/Murdochroute.rpy:1550
 translate Schinese Murdochroute_1c3fdd8b:
@@ -5842,25 +5842,25 @@ translate Schinese Murdochroute_9d3a356f:
 translate Schinese Murdochroute_280cb30a:
 
     # dh "\"Because didn’t you realize? We’re in a library.\""
-    dh "“因为我们在图书馆里，你没意识到吗？”"
+    dh "“因为我们在图书馆里，你没注意到吗？”"
 
 # game/Murdochroute.rpy:1565
 translate Schinese Murdochroute_7459b7e6:
 
     # "She giggles, then looks down, sobering her expression."
-    "她咯咯笑了起来，然后低下头，让自己的表情冷静下来。"
+    "她咯咯笑了起来，然后低下头，让自己的表情恢复冷静。"
 
 # game/Murdochroute.rpy:1567
 translate Schinese Murdochroute_80b23b18:
 
     # dh "\"And... also because I don’t mean to come across as ungrateful.\""
-    dh "“还有...我不想给人没心肝的印象。”"
+    dh "“而且...我不想给人留下没心没肺的印象。”"
 
 # game/Murdochroute.rpy:1569
 translate Schinese Murdochroute_f9bd2f1a:
 
     # "She lifts her wrists, shakes them, scrunches her snout and smiles."
-    "她抬起手腕摆了摆，然后捏了捏自己的鼻子，笑了。"
+    "她抬起手腕摆了摆，然后捏着自己的鼻子，笑了。"
 
 # game/Murdochroute.rpy:1571
 translate Schinese Murdochroute_2f5154ec:
@@ -5872,13 +5872,13 @@ translate Schinese Murdochroute_2f5154ec:
 translate Schinese Murdochroute_5db8f627:
 
     # dh "\"Heavens, yes. I just have a lot to be excited about.\""
-    dh "“天，我很好，只是有很多振奋人心的事情等待着我罢了。”"
+    dh "“我很好，只是有很多振奋人心的事情等待着我罢了。”"
 
 # game/Murdochroute.rpy:1575
 translate Schinese Murdochroute_6a23153d:
 
     # m "\"Okay. I don’t suppose you have any students present needing a picture day form, then?\""
-    m "“好吧，那么，我猜你这里一名学生没有，也不需要照相日表格咯？”"
+    m "“好吧，那我猜你这里一名学生都没有，也不需要照相日表格咯？”"
 
 # game/Murdochroute.rpy:1577
 translate Schinese Murdochroute_ac56523f:
@@ -5890,19 +5890,19 @@ translate Schinese Murdochroute_ac56523f:
 translate Schinese Murdochroute_e29a84e6:
 
     # dh "\"But before you go, could you do me a favor and get a book for me?\""
-    dh "“不过在你走之前，能帮我拿买本书吗？”"
+    dh "“不过在你走之前，能请你帮我拿本书吗？”"
 
 # game/Murdochroute.rpy:1581
 translate Schinese Murdochroute_5e09e839:
 
     # dh "\"You may have to use the step ladder.\""
-    dh "“你可能得用梯子。”"
+    dh "“你可能要用到梯子。”"
 
 # game/Murdochroute.rpy:1583
 translate Schinese Murdochroute_8a84a1af:
 
     # m "\"Fine. Where is it?\""
-    m "“好，书在哪儿？”"
+    m "“行，书在哪儿？”"
 
 # game/Murdochroute.rpy:1584
 translate Schinese Murdochroute_bf047156:
@@ -7126,23 +7126,23 @@ translate Schinese Murdochroute_1161396b:
 translate Schinese Murdochroute_373b2b21:
 
     # mu "\"His mood flips like a switch. Best to avoid him unless absolutely necessary if you don’t want to make trouble for yourself.\""
-    mu ""
+    mu "“他翻脸比翻书还快，除非绝对必要，否则你最好躲着点他，如果你不想给自己找麻烦的话。”"
 
 # game/Murdochroute.rpy:1549
 translate Schinese Murdochroute_7d1fe0f6:
 
     # dhunk "\"Why, hello. You’re someone new.\""
-    dhunk ""
+    dhunk "“哎呀，你好啊，新人。”"
 
 # game/Murdochroute.rpy:1553
 translate Schinese Murdochroute_b8fb06ae:
 
     # dhunk "\"But of course. He’s my older brother. If you came from the right, you must have already met Holly, our sister.\""
-    dhunk ""
+    dhunk "“是的，他是我哥哥。既然你从右边来的，想必已经见过我们的姐姐Holly了。”"
 
 # game/Murdochroute.rpy:1586
 translate Schinese Murdochroute_e1f01506:
 
     # dh "\"You’ve probably given one to all of my students by now...\""
-    dh ""
+    dh "“你可能已经分发给我的全部学生了...”"
 
