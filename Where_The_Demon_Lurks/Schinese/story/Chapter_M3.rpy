@@ -5304,7 +5304,7 @@ translate Schinese chapter_M3_lucian_88de8eef:
 translate Schinese chapter_M3_lucian_b0d381bc:
 
     # T "Not so fast, fancy pants. I'll help, if you promise not to try to exorcise me again."
-    T "别急嘛，这位公子。我很乐意帮你，前提是你保证不再驱逐我。"
+    T "别急嘛，这位美男。我很乐意帮你，前提是你保证不再找我的麻烦。"
 
 # game/story/Chapter_M3.rpy:2471
 translate Schinese chapter_M3_lucian_5a3e2816:
@@ -6426,7 +6426,7 @@ translate Schinese king_morris_route_e46ffa13:
 translate Schinese king_morris_route_376bb688:
 
     # K "Ok, let’s try it together."
-    K "“咱们一起吃吧。”"
+    K "“很好，咱们开动吧。”"
 
 # game/story/Chapter_M3.rpy:3230
 translate Schinese king_morris_route_fcf0fa7c:
@@ -6438,7 +6438,7 @@ translate Schinese king_morris_route_fcf0fa7c:
 translate Schinese king_morris_route_e8b39df2:
 
     # "King winces. The bolognaise sauce is bitter and the pasta overcooked to mush. The dish has the undesirable consistency of baby food.."
-    "King眉头紧锁，肉酱发苦，面条也煮得太烂了，整道菜呈现出一种婴儿食品的粘稠感..."
+    "King不禁眉头紧锁。肉酱发苦，面条也煮得太烂了，整道菜呈现出一种婴儿食品的粘稠感..."
 
 # game/story/Chapter_M3.rpy:3235
 translate Schinese king_morris_route_4c3f77ab:
@@ -6516,7 +6516,7 @@ translate Schinese king_morris_route_769d6324:
 translate Schinese king_morris_route_4837f3c4:
 
     # "Invigorated by his passion for cooking, King arranges the tools of the culinary trade on an unoccupied table."
-    "出于对烹饪的热情，King把会用到的工具逐一摆放整齐。"
+    "出于对烹饪的热爱，King把会用到的工具逐一摆放整齐。"
 
 # game/story/Chapter_M3.rpy:3278
 translate Schinese king_morris_route_3acf0c44:
@@ -6666,7 +6666,7 @@ translate Schinese king_morris_route_9d59465d:
 translate Schinese king_morris_route_b589881a:
 
     # Fort "It’s... like nothing I’ve ever tasted before."
-    Fort "“我...我还是头一次尝到这种滋味。”"
+    Fort "“我...我还是头一次吃到这种味道。”"
 
 # game/story/Chapter_M3.rpy:3334
 translate Schinese king_morris_route_d8563bde:
