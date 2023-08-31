@@ -2782,7 +2782,7 @@ translate Schinese chapter_T3_lucian_4a5d0336:
 translate Schinese chapter_T3_lucian_9a6119e1:
 
     # L sad "That's it? I'm just a meat shield? You could utilise my skills far better than that!"
-    L sad "就这样？我只是个肉盾吗？你可以更好地利用我的本领！"
+    L sad "就这样？我只是个肉盾吗？你们应该多利用我的才能！"
 
 # game/story/Chapter_T3.rpy:1325
 translate Schinese chapter_T3_lucian_5d8ac244:
@@ -2794,19 +2794,19 @@ translate Schinese chapter_T3_lucian_5d8ac244:
 translate Schinese chapter_T3_lucian_383912fd:
 
     # L shocked "But I have so much to offer— my H.A.L.O., my magic, and my knowledge."
-    L shocked "但我还有很多东西可以提供：我的H.A.L.O，我的魔法，还有我的知识。"
+    L shocked "但我能做出更大的贡献啊：我的H.A.L.O，我的魔法，还有我的知识。"
 
 # game/story/Chapter_T3.rpy:1327
 translate Schinese chapter_T3_lucian_b3f4b5f3:
 
     # p @ question "It’s starting to sound more like you’re butthurt we didn’t go with your plan."
-    p @ question "你不会因为自己的计划没有被采用，所以生气了吧？"
+    p @ question "你不会因为自己的计划没有被采用，所以着急了吧？"
 
 # game/story/Chapter_T3.rpy:1328
 translate Schinese chapter_T3_lucian_05c3da21:
 
     # L grimace "Well yes, but I… this just isn’t top angel work."
-    L grimace "我...这不是顶级天使的素质。"
+    L grimace "是有点，虽然...这不是顶级天使的素质。"
 
 # game/story/Chapter_T3.rpy:1329
 translate Schinese chapter_T3_lucian_ffc47747:
@@ -5080,13 +5080,13 @@ translate Schinese chapter_T3_freelancer_814eb322:
 translate Schinese chapter_T3_freelancer_31f5a2dc:
 
     # p angry "Yeah, well we’re going to kick your butt back to the Underworld, then you can open your blasted art gallery there!"
-    p angry "我们要把你赶回冥界，你就在那儿开你那该死的美术馆吧！"
+    p angry "“你就被我们赶回冥界，在那儿开你那该死的美术馆吧！”"
 
 # game/story/Chapter_T3.rpy:2831
 translate Schinese chapter_T3_option_d01b691e:
 
     # p_nt "Fire at him! I’ll redirect the blast."
-    p_nt "上！我来改变他攻击的方向。"
+    p_nt "“上！我来转移他的攻击。”"
 
 # game/story/Chapter_T3.rpy:2852
 translate Schinese chapter_T3_option_ee44095f:
@@ -5440,7 +5440,7 @@ translate Schinese chapter_T3_ending_0331cf48:
 translate Schinese chapter_T3_ending_5738209e:
 
     # M neutral "Don’t worry about it, you think a little fire is going to break years of exorcist engineering? I have the spell to fix it up."
-    M neutral "别担心，你认为一把小火就能破坏驱魔师经年累月的制造？我有可以修好它的咒语。"
+    M neutral "放心，你以为驱魔师多年的智慧结晶会被一把小火苗给毁了？我念个咒语就能修好它。"
 
 # game/story/Chapter_T3.rpy:3303
 translate Schinese chapter_T3_ending_42926470:
@@ -5452,7 +5452,7 @@ translate Schinese chapter_T3_ending_42926470:
 translate Schinese chapter_T3_ending_6ea48183:
 
     # M nervous "Shit… yeah I need that."
-    M nervous "淦...手表确实对我很重要。"
+    M nervous "糟...大话说早了。"
 
 # game/story/Chapter_T3.rpy:3308
 translate Schinese chapter_T3_ending_3466146a:
@@ -5470,7 +5470,7 @@ translate Schinese chapter_T3_ending_dccb086a:
 translate Schinese chapter_T3_ending_0335f204:
 
     # M annoyed "Fuck! That thing was expensive!"
-    M annoyed "妈的！那东西超贵的！"
+    M annoyed "淦！那东西超贵的！"
 
 # game/story/Chapter_T3.rpy:3311
 translate Schinese chapter_T3_ending_f519c548:
@@ -5665,4 +5665,2310 @@ translate Schinese strings:
     # game/story/Chapter_T3.rpy:3296
     old "Simulda, the fusion demon. They are among the few demons instructed to punish souls that lived a life of sloth or materialism. I recall they would make souls live out their existence, melding their flesh with the very objects they coveted as mortals. Their bodies were broken by Simulda and reshaped again, and again. However, I never knew they were that into performance. It feels like they’d rather be a magician in life, but I think they’d do better in a slasher film than on the streets of Vegas."
     new "Simulda，融合恶魔。它们是少数接到了指示，惩罚那些过着懒惰或物欲生活的灵魂的恶魔之一。我记得它们会根据灵魂心里想的，把他们的肉体与他们作为凡人时所垂涎的物品融合在一起。他们的身体被Simulda破坏，并一次又一次地重组。不过我都不知道它们的表演欲有这么强，感觉它们更愿意当魔术师呢。虽然在我看来，比起在拉斯维加斯的街头卖艺，它们更适合去演血浆片就是了。"
+
+# TODO: Translation updated at 2023-06-27 17:17
+
+# game/story/Chapter_T3.rpy:161
+translate Schinese chapter_T3_ec58cba9:
+
+    # p "Oh... Yeah they disbanded twenty-something years ago."
+    p "“诶...他们二十多年前就解散了。”"
+
+# game/story/Chapter_T3.rpy:170
+translate Schinese chapter_T3_d998b412:
+
+    # p nervous "..."
+    p nervous "“...”"
+
+# game/story/Chapter_T3.rpy:217
+translate Schinese chapter_T3_street_ef2a1eb9:
+
+    # p sad "Oh... Well I had a dream last night."
+    p sad "“嗯...我昨晚做了一个梦。”"
+
+# game/story/Chapter_T3.rpy:227
+translate Schinese chapter_T3_street_1485708e:
+
+    # p smile "Yeah, maybe... But my idea makes more sense to me. After all, we’re going to fight Vendrake and save King."
+    p smile "“也许吧...不过我的想法应该更靠谱些。毕竟我们要对抗Vendrake，拯救King。”"
+
+# game/story/Chapter_T3.rpy:276
+translate Schinese chapter_T3_store_08087600:
+
+    # p "Sir... Again, I can’t give anyone a free pull. You’ll have to get the necessary ten stickers again like everyone else."
+    p "“这位先生...我再说一遍，我不能搞特殊待遇。您想要多一次机会，就得跟其他人一样，重新集齐十张贴纸。”"
+
+# game/story/Chapter_T3.rpy:332
+translate Schinese chapter_T3_store_f92bd452:
+
+    # p annoyed "Toast, that wasn’t funny... {w=.5}{nw}"
+    p annoyed "“这一点也不好笑，Toast...{w=.5}{nw}”"
+
+# game/story/Chapter_T3.rpy:338
+translate Schinese chapter_T3_store_bea27c62:
+
+    # p "Yeah, I mean, still... things could go horribly wrong if you just randomly put your hand into someone."
+    p "“是啊，总之...随随便便把手伸进一个人身体里，可能会造成非常严重的后果的。”"
+
+# game/story/Chapter_T3.rpy:433
+translate Schinese chapter_T3_store_d479a3a8:
+
+    # T "Uhh..."
+    T "“呃...”"
+
+# game/story/Chapter_T3.rpy:504
+translate Schinese chapter_T3_store_a0f306f1:
+
+    # p "It can’t be..."
+    p "“这不可能...”"
+
+# game/story/Chapter_T3.rpy:811
+translate Schinese chapter_T3_store_b35c1810:
+
+    # M nervous "No... I just thought it over? Are you dreaming about him?"
+    M nervous "“没有啊...我只是单纯的在思考？你梦到他了？”"
+
+# game/story/Chapter_T3.rpy:836
+translate Schinese chapter_T3_store_788f2ba0:
+
+    # p neutral "Right... Well I might have an idea."
+    p neutral "“算了...我想到一个主意。”"
+
+# game/story/Chapter_T3.rpy:896
+translate Schinese chapter_T3_store_0106150f:
+
+    # p "Wait a minute... if he has a body now... maybe... I can get him a job."
+    p "“等下...既然他现在有身体了...或许...我可以给他找份工作。”"
+
+# game/story/Chapter_T3.rpy:1020
+translate Schinese chapter_T3_store_795a1273:
+
+    # "He set your meal next to him. All the while he’s holding his own meal up to his nose..."
+    "他接住你递过来的饭菜，举到自己的鼻子跟前..."
+
+# game/story/Chapter_T3.rpy:1068
+translate Schinese chapter_T3_store_6a64c2d9:
+
+    # T "Kind of... I still feel hungry though. Like it all went in, but it didn’t stay there for very long."
+    T "“凑活吧...我还是好饿。吃是吃了，但总感觉胃里空空的。”"
+
+# game/story/Chapter_T3.rpy:1112
+translate Schinese chapter_T3_store_4c9ec288:
+
+    # T "Need this... not this... maybe some of that."
+    T "“要这个...不要这个...再来点这个。”"
+
+# game/story/Chapter_T3.rpy:1129
+translate Schinese chapter_T3_store_28d84c25:
+
+    # "At the end of your shift..."
+    "在一天快结束的时候..."
+
+# game/story/Chapter_T3.rpy:1174
+translate Schinese chapter_T3_lucian_87bef07c:
+
+    # T smile "What’s up, Pretty Boy. Looking pretty umm... the same as before I guess."
+    T smile "“你好啊，美男。你长得，呃...和我想的一样美。”"
+
+# game/story/Chapter_T3.rpy:1202
+translate Schinese chapter_T3_lucian_209d32d6:
+
+    # p nervous "Yeah, well..."
+    p nervous "“呃，那个...”"
+
+# game/story/Chapter_T3.rpy:1245
+translate Schinese chapter_T3_lucian_77df7498:
+
+    # L_nt neutral "......"
+    L_nt neutral "“...”"
+
+# game/story/Chapter_T3.rpy:1278
+translate Schinese chapter_T3_lucian_d461c137:
+
+    # L "Hmm... A very crude looking cake, it appears many other sweets have been mashed with it."
+    L "“嗯...一个外表潦草的蛋糕，和许多被捣碎的糖果混在一起。”"
+
+# game/story/Chapter_T3.rpy:1286
+translate Schinese chapter_T3_lucian_ad2986f4:
+
+    # L "I’ll consider that suggestion... later."
+    L "“我...会考虑的。”"
+
+# game/story/Chapter_T3.rpy:1301
+translate Schinese chapter_T3_lucian_e60b1c8e:
+
+    # L neutral "I... I’m speechless."
+    L neutral "“我...无话可说。”"
+
+# game/story/Chapter_T3.rpy:1304
+translate Schinese chapter_T3_lucian_45b9ad19:
+
+    # p nervous "About that..."
+    p nervous "“那个啊...”"
+
+# game/story/Chapter_T3.rpy:1309
+translate Schinese chapter_T3_lucian_77e4d9d0:
+
+    # L sad "Strangely, that makes sense... As long as Vendrake has that mortal hostage, he has a body shield that we can’t break through."
+    L sad "“虽然不甘心，但你是对的...只要人质还在，Vendrake就有一层我们无法突破的人肉盾牌。”"
+
+# game/story/Chapter_T3.rpy:1311
+translate Schinese chapter_T3_lucian_5dc0ac15:
+
+    # L_nt neutral "Hmm..."
+    L_nt neutral "“嗯...”"
+
+# game/story/Chapter_T3.rpy:1334
+translate Schinese chapter_T3_lucian_403f6d3c:
+
+    # L grimace "Well yes, but I... this just isn’t top angel work."
+    L grimace "“是有点，虽然...这不是顶级天使该有的素质。”"
+
+# game/story/Chapter_T3.rpy:1336
+translate Schinese chapter_T3_lucian_9993b94e:
+
+    # L "..."
+    L "“...”"
+
+# game/story/Chapter_T3.rpy:1348
+translate Schinese chapter_T3_lucian_1bfbe8ad:
+
+    # L "But... I deserve better than being benched until something troublesome happens."
+    L "“但我还是觉得...我应该得到重用，而不是坐在冷板凳上。”"
+
+# game/story/Chapter_T3.rpy:1349
+translate Schinese chapter_T3_lucian_ff07b6dc:
+
+    # L_nt "Hmm..."
+    L_nt "“嗯...”"
+
+# game/story/Chapter_T3.rpy:1448
+translate Schinese chapter_T3_lucian_76c4ccb6:
+
+    # T "Oh..."
+    T "“哦...”"
+
+# game/story/Chapter_T3.rpy:1496
+translate Schinese chapter_T3_lucian_80554ac4:
+
+    # p_mono "He really looks bummed out..."
+    p_mono "“他看起来好沮丧啊...”"
+
+# game/story/Chapter_T3.rpy:1498
+translate Schinese chapter_T3_lucian_b5f3c9f7:
+
+    # p neutral "Toast..."
+    p neutral "“Toast...”"
+
+# game/story/Chapter_T3.rpy:1549
+translate Schinese chapter_T3_vendrake_f8b8139e:
+
+    # Ven "That fool..."
+    Ven "“那个傻瓜...”"
+
+# game/story/Chapter_T3.rpy:1578
+translate Schinese chapter_T3_vendrake_64023d94:
+
+    # Nox "The others sent reports that their journeys have been... disrupted."
+    Nox "“其他人发来报告说，他们在过程中遇到了一些...麻烦。”"
+
+# game/story/Chapter_T3.rpy:1582
+translate Schinese chapter_T3_vendrake_24809cac:
+
+    # Ven "Useless... Did you relay new instructions to all of them?"
+    Ven "“没用的东西...你有向他们传达新的命令吗？”"
+
+# game/story/Chapter_T3.rpy:1586
+translate Schinese chapter_T3_vendrake_710c30ac:
+
+    # Ven "I highly doubt that [name]'s luck would continue to save him from a Freelancer with access to their demonic powers, however..."
+    Ven "“相信在解放了力量的自业者面前，[name]的好运也救不了他。不过嘛...”"
+
+# game/story/Chapter_T3.rpy:1588
+translate Schinese chapter_T3_vendrake_4be3dea7:
+
+    # Nox "But Lord Vendrake..."
+    Nox "“但是，Vendrake大人...”"
+
+# game/story/Chapter_T3.rpy:1612
+translate Schinese chapter_T3_vendrake_785b52b9:
+
+    # "If you are to describe love, it is this feeling, of being cradled in the head by a soft pillow, a blanket keeping your legs warm, and wrapping your hands around a big, meaty..."
+    "如果让你形容爱情，那就是现在这种感觉：枕着一个柔软的枕头，盖着一条温暖的毯子，怀抱一个巨大的、肉乎乎..."
+
+# game/story/Chapter_T3.rpy:1640
+translate Schinese chapter_T3_vendrake_1f3e4454:
+
+    # T neutral "I want hash browns..."
+    T neutral "“我想吃薯饼...”"
+
+# game/story/Chapter_T3.rpy:1684
+translate Schinese chapter_T3_freelancer_85643ba1:
+
+    # "Your eyes narrow and you sniff the air... there’s a very faint smell of sugary indulgence wafting between the angel’s breaths."
+    "你眯起眼睛，嗅了嗅空气...天使的呼吸之间飘荡着一股若有若无的放纵甜味。"
+
+# game/story/Chapter_T3.rpy:1770
+translate Schinese chapter_T3_freelancer_09a4bbe5:
+
+    # L "I know... we can’t let it escape."
+    L "“我知道...我们不能让他逃了。”"
+
+# game/story/Chapter_T3.rpy:1879
+translate Schinese chapter_T3_freelancer_46bf13ab:
+
+    # p "Besides... He’s kind of annoying."
+    p "“此外...他有点招人烦。”"
+
+# game/story/Chapter_T3.rpy:1915
+translate Schinese chapter_T3_freelancer_8c0a9792:
+
+    # T "They're.... They're just cards?"
+    T "“这...这只是普通的卡牌？”"
+
+# game/story/Chapter_T3.rpy:2568
+translate Schinese chapter_T3_freelancer_fb5adce7:
+
+    # p @ question "Morris..."
+    p @ question "“Morris...”"
+
+# game/story/Chapter_T3.rpy:2774
+translate Schinese chapter_T3_freelancer_9145b766:
+
+    # Simulda "Death of a demon by an angel’s own magic... How poetic!"
+    Simulda "“恶魔死在天使的魔法下...多么富有诗意！”"
+
+# game/story/Chapter_T3.rpy:2824
+translate Schinese chapter_T3_freelancer_29f027a3:
+
+    # "He steals skills with his right hand, and projects it with his left..."
+    "他用右手窃取技能，再用左手投射..."
+
+# game/story/Chapter_T3.rpy:3312
+translate Schinese chapter_T3_ending_b4285a88:
+
+    # M nervous "Shit... yeah I need that."
+    M nervous "“糟...大话说早了。”"
+
+# game/story/Chapter_T3.rpy:3317
+translate Schinese chapter_T3_ending_506f55dd:
+
+    # p "Sorry..."
+    p "“对不起...”"
+
+# game/story/Chapter_T3.rpy:3322
+translate Schinese chapter_T3_ending_ec1fbf94:
+
+    # FF2 "Ngh..."
+    FF2 "“呃...”"
+
+# game/story/Chapter_T3.rpy:3333
+translate Schinese chapter_T3_ending_f8d3f21d:
+
+    # FF2 "Luh... nasaan ako? (Where am I?)"
+    FF2 "“Luh...nasaan ako？”（我这是在哪？）"
+
+# game/story/Chapter_T3.rpy:3386
+translate Schinese post_freelancer_toast_e0f78eda:
+
+    # "In the Demon Lord's office, Vendrake mulls over the newest letter that has reached him."
+    "魔王的办公室里，Vendrake正在反复思考他最新收到的信件。"
+
+# game/story/Chapter_T3.rpy:3387
+translate Schinese post_freelancer_toast_f2048465:
+
+    # "The Cerberus guards reported a spike in souls escaping through their defences. They request that security in the Torture Zones be improved."
+    "刻耳柏洛斯的守卫们报告说，不断有灵魂突破防线逃离，他们要求加强拷问区的安全系统。"
+
+# game/story/Chapter_T3.rpy:3388
+translate Schinese post_freelancer_toast_ce3039da:
+
+    # Ven "They have the gall to put the blame on my Security Unit? If they need others to do their jobs, why am I even keeping them on payroll?"
+    Ven "“他们竟然厚颜无耻地把责任推给我的安保部门？既然他们连自己的本职工作都做不好，还领这份工资干什么？”"
+
+# game/story/Chapter_T3.rpy:3389
+translate Schinese post_freelancer_toast_b39401fc:
+
+    # Ven "It seems three heads is not better than one in this case!"
+    Ven "“三个头也没比一个头好到哪去！”"
+
+# game/story/Chapter_T3.rpy:3402
+translate Schinese post_freelancer_toast_57125ce7:
+
+    # "Suddenly, Vendrake’s important work is interrupted."
+    "突然，Vendrake的重要工作被打断了。"
+
+# game/story/Chapter_T3.rpy:3407
+translate Schinese post_freelancer_toast_0ff202db:
+
+    # "Vendrake sighs. He already knows what this means. He gets up from his seat and walks over to the demon groaning on the floor."
+    "他知道这代表什么，他叹了口气，从座位上站起来，走到躺在地板上呻吟的恶魔那里。"
+
+# game/story/Chapter_T3.rpy:3408
+translate Schinese post_freelancer_toast_8ffd5ec2:
+
+    # "The creature has bruises all over, whatever did them in was not holding back."
+    "那家伙浑身都是淤青，看来对手显然没有留情。"
+
+# game/story/Chapter_T3.rpy:3409
+translate Schinese post_freelancer_toast_c2262383:
+
+    # Simulda "Buguhhh..."
+    Simulda "“呃啊...”"
+
+# game/story/Chapter_T3.rpy:3410
+translate Schinese post_freelancer_toast_ecd4dd20:
+
+    # Ven "I swear, why must every Freelancer find me when something goes wrong?"
+    Ven "“为什么你们总是在我处理问题的时候打搅我？”"
+
+# game/story/Chapter_T3.rpy:3411
+translate Schinese post_freelancer_toast_7d61479f:
+
+    # "The beaten Simulda groans loudly."
+    "挨了打的Simulda呻吟的更大声了。"
+
+# game/story/Chapter_T3.rpy:3414
+translate Schinese post_freelancer_toast_804c47d1:
+
+    # Ven "Aren't you being a little dramatic?"
+    Ven "“你未免太夸张了吧？”"
+
+# game/story/Chapter_T3.rpy:3417
+translate Schinese post_freelancer_toast_60ad8eb4:
+
+    # Ven "Let me guess, [name] beat you, didn’t he?"
+    Ven "“让我猜猜，[name]击败了你，是不是？”"
+
+# game/story/Chapter_T3.rpy:3418
+translate Schinese post_freelancer_toast_78f68589:
+
+    # Simulda "Muguhh..."
+    Simulda "“唔嗯...”"
+
+# game/story/Chapter_T3.rpy:3419
+translate Schinese post_freelancer_toast_5102f0d7:
+
+    # Ven "He had help? From who?"
+    Ven "“他有帮手？是谁？”"
+
+# game/story/Chapter_T3.rpy:3420
+translate Schinese post_freelancer_toast_ddfdc0e5:
+
+    # Simulda "Meep."
+    Simulda "“呣。”"
+
+# game/story/Chapter_T3.rpy:3421
+translate Schinese post_freelancer_toast_35fe8c74:
+
+    # Ven "An escaped soul? You let an escaped soul beat you like this? What a disgrace to our company!"
+    Ven "“逃犯？你被一个从冥界逃脱的灵魂打成这样？简直是我们公司的耻辱！”"
+
+# game/story/Chapter_T3.rpy:3422
+translate Schinese post_freelancer_toast_54f0952a:
+
+    # Simulda "H...wasn’t... a...lone..."
+    Simulda "“他...不只是...一个人...”"
+
+# game/story/Chapter_T3.rpy:3423
+translate Schinese post_freelancer_toast_b010b6b0:
+
+    # Ven "There’s more? Who, damn it?"
+    Ven "“还有帮手？混蛋，是谁？”"
+
+# game/story/Chapter_T3.rpy:3424
+translate Schinese post_freelancer_toast_2f5138ca:
+
+    # Simulda "Ex...or...ist...n...el"
+    Simulda "“驱...魔...师...”"
+
+# game/story/Chapter_T3.rpy:3431
+translate Schinese post_freelancer_toast_5442194d:
+
+    # Ven "A receptionist named Mel? What kind of receptionist wields such power?"
+    Ven "“一个叫Mel的接待员？什么样的接待员有如此力量？”"
+
+# game/story/Chapter_T3.rpy:3440
+translate Schinese post_freelancer_toast_f73be2e6:
+
+    # Simulda "Ugh."
+    Simulda "“呃。”"
+
+# game/story/Chapter_T3.rpy:3447
+translate Schinese post_freelancer_toast_4c0ffe83:
+
+    # "Simulda faints."
+    "Simulda昏了过去。"
+
+# game/story/Chapter_T3.rpy:3460
+translate Schinese post_freelancer_toast_cf0b3981:
+
+    # Ven "Hey, don't you slack off on me! I'm not done with you!"
+    Ven "“给我清醒点！我还没有问完！”"
+
+# game/story/Chapter_T3.rpy:3463
+translate Schinese post_freelancer_toast_145bef74:
+
+    # "Vendrake’s admonishment falls on deaf ears."
+    "Vendrake的警告被无视了。"
+
+# game/story/Chapter_T3.rpy:3464
+translate Schinese post_freelancer_toast_2b5b36d5:
+
+    # Ven "Nox!"
+    Ven "“Nox！”"
+
+# game/story/Chapter_T3.rpy:3475
+translate Schinese post_freelancer_toast_23efec5c:
+
+    # "Nox arrives through another portal on command, as if he had been anticipating his call.."
+    "Nox奉命通过另一道传送门来到办公室，好像他已经预料到了这次召唤一样。"
+
+# game/story/Chapter_T3.rpy:3476
+translate Schinese post_freelancer_toast_4743ba94:
+
+    # Nox "Yes, my Lord?"
+    Nox "“您有何吩咐，大人？”"
+
+# game/story/Chapter_T3.rpy:3477
+translate Schinese post_freelancer_toast_fe1b7521:
+
+    # Ven "Take this mongrel to treatment."
+    Ven "“带这只杂种去治疗。”"
+
+# game/story/Chapter_T3.rpy:3478
+translate Schinese post_freelancer_toast_faa47f31:
+
+    # Nox "Right away."
+    Nox "“我马上就办。”"
+
+# game/story/Chapter_T3.rpy:3491
+translate Schinese post_freelancer_toast_05f34a81:
+
+    # "Nox summons a portal beneath the demon and Simulda falls through. A groan is heard as Simulda crashes into the ground for the third time in two minutes."
+    "Nox在Simulda的身下变出传送门，恶魔随即掉了进去。那声呻吟意味着这是他在两分钟内第三次撞击地面了。"
+
+# game/story/Chapter_T3.rpy:3492
+translate Schinese post_freelancer_toast_0c3c45ba:
+
+    # Ven "Once they reform, find out who this escaped soul is and the identities of everyone else who’s aiding [name]."
+    Ven "“一旦他清醒过来，查出那个逃跑的灵魂、以及其他所有帮助[name]的人的身份。”"
+
+# game/story/Chapter_T3.rpy:3493
+translate Schinese post_freelancer_toast_998d0c59:
+
+    # Nox "[name] has allies?"
+    Nox "“[name]还活着？”"
+
+# game/story/Chapter_T3.rpy:3494
+translate Schinese post_freelancer_toast_dee29bcf:
+
+    # Ven "Apparently so, troublesome characters by the sound of it. Put a notice out to the remaining Freelancers, be on the lookout for an escaped soul, and that blasted Mel!"
+    Ven "“看起来是这样，真是个麻烦的家伙。给剩下的自业者们发通知，让他们留意一个逃跑的灵魂，还有那个该死的Mel！”"
+
+# game/story/Chapter_T3.rpy:3502
+translate Schinese king_toast_route_ee6643d9:
+
+    # "In the depths of Amare’s workshop lie shelves of old, unused metal parts and retired inventions."
+    "Amare的工坊深处，摆满了陈旧的、未使用过的金属部件和被淘汰的发明。"
+
+# game/story/Chapter_T3.rpy:3505
+translate Schinese king_toast_route_420c133e:
+
+    # "The self-proclaimed genius general of the Underworld walks among his collection, in search for the final piece of [name]’s snack generating machine."
+    "这位自诩是冥界天才的将军正穿梭于他的藏品之间，寻找[name]的零食生产机的最后一块拼图。"
+
+# game/story/Chapter_T3.rpy:3508
+translate Schinese king_toast_route_9057eaff:
+
+    # "Fortis drags his feet from behind while he carries a box filled with bits and bobs of Amare’s mechanisms."
+    "Fortis则怀抱一个装满机械零件的箱子，在后面不厌其烦地跟着他。"
+
+# game/story/Chapter_T3.rpy:3509
+translate Schinese king_toast_route_2a4dcf48:
+
+    # "As they proceed down the storeroom, the larger demon looks around at the many labelled boxes that line the shelves. He can’t make heads or tails of how they’re arranged."
+    "他们一路向下去往茶水间。大块头的恶魔环顾货架上众多贴着标签的盒子，搞不懂它们的排列方式。"
+
+# game/story/Chapter_T3.rpy:3511
+translate Schinese king_toast_route_093590d5:
+
+    # Fort shocked "Never knew there was a room like this in your workshop."
+    Fort shocked "“我都不知道你的工坊里有这样的房间。”"
+
+# game/story/Chapter_T3.rpy:3514
+translate Schinese king_toast_route_1089be6a:
+
+    # Amar "Visit more often then, I’ll even show you my vinyl records room."
+    Amar "“那就多来做客吧，我可以向你展示我的黑胶唱片室。”"
+
+# game/story/Chapter_T3.rpy:3515
+translate Schinese king_toast_route_6c4541da:
+
+    # Fort neutral1 "You listen to music?"
+    Fort neutral1 "“你还会听音乐？”"
+
+# game/story/Chapter_T3.rpy:3516
+translate Schinese king_toast_route_7e775f32:
+
+    # Amar "Music, environmental sounds, the soul’s eternal screams of anguish, they all help me to pass the tedious part of making machines."
+    Amar "“音乐、自然之声、灵魂无休止的惨叫，这些帮助我度过了制造机器的乏味过程。”"
+
+# game/story/Chapter_T3.rpy:3517
+translate Schinese king_toast_route_75cc7f71:
+
+    # Fort confused "So, this is like the room where you keep all the unused junk?"
+    Fort confused "“所以这里只是装垃圾的房间？”"
+
+# game/story/Chapter_T3.rpy:3518
+translate Schinese king_toast_route_eb9e4be6:
+
+    # Amar sad "Don’t call it junk, the motherboards will hear you. They’re very sensitive."
+    Amar sad "“不要说垃圾什么的，主板会听到你的，它们非常敏感。”"
+
+# game/story/Chapter_T3.rpy:3519
+translate Schinese king_toast_route_57638aa7:
+
+    # Amar smile "This is where I store all the broken and retired machinery that I’ve gathered through the years."
+    Amar smile "“这里集合了我这些年来收集到的所有破损和退休的机器。”"
+
+# game/story/Chapter_T3.rpy:3520
+translate Schinese king_toast_route_f3dc44c1:
+
+    # Fort "Then this is a graveyard, but for machines."
+    Fort "“那就是坟场咯，机器的坟场。”"
+
+# game/story/Chapter_T3.rpy:3521
+translate Schinese king_toast_route_ebea0ad9:
+
+    # Amar neutral "Yes, I suppose that is an apt comparison."
+    Amar neutral "“是的，这个比喻很形象。”"
+
+# game/story/Chapter_T3.rpy:3522
+translate Schinese king_toast_route_cff178fa:
+
+    # Fort "I already don’t get why mortals do that, let alone you."
+    Fort "“我连凡人为什么这么做都不明白，更别说你了。”"
+
+# game/story/Chapter_T3.rpy:3523
+translate Schinese king_toast_route_abd46aac:
+
+    # Amar sad "What’s so strange about saving them? These machines deserve some respect for all they’ve done... or tried to do."
+    Amar sad "“救这些机器一命很奇怪吗？它们已完成的事业...还有未竟之业，都值得我们尊敬。”"
+
+# game/story/Chapter_T3.rpy:3524
+translate Schinese king_toast_route_c2010d56:
+
+    # Fort "It seems like a waste of space to do all this, can’t you just keep the blueprints and summon new parts? It would be easier than us searching through all this."
+    Fort "“我倒觉得这只是在浪费空间。你就不能只保留蓝图，等到用时再召唤新的部件吗？这不比到处翻简单多了。”"
+
+# game/story/Chapter_T3.rpy:3529
+translate Schinese king_toast_route_e672328c:
+
+    # Amar_nt "An excellent idea, an item tracker would do just the trick. Fortis, help me find the tracking chip, and ten other parts."
+    Amar_nt "“好主意，为此我需要一个物品追踪器。Fortis，帮我找到追踪芯片，外加其他十个部件。”"
+
+# game/story/Chapter_T3.rpy:3533
+translate Schinese king_toast_route_85c3efcb:
+
+    # Fort "Hold it—"
+    Fort "“等一下-”"
+
+# game/story/Chapter_T3.rpy:3535
+translate Schinese king_toast_route_bdffbb21:
+
+    # Fort neutral1 "That sounds like more work than what we’ve already started. Just do it later."
+    Fort neutral1 "“这比咱们手头上的工作还要麻烦，以后再说吧。”"
+
+# game/story/Chapter_T3.rpy:3539
+translate Schinese king_toast_route_799f8ad5:
+
+    # "They walk a bit further before Amare stops."
+    "又走了一小段路，Amare停下脚步。"
+
+# game/story/Chapter_T3.rpy:3542
+translate Schinese king_toast_route_aa6e2858:
+
+    # Amar "Alright, the motherboard should be somewhere in this row. Help me look. They should be on the second shelf. You’re looking for the one labelled Snack-Making module."
+    Amar "“主板应该就在这一排的某个地方。帮我找找，好像在第二层架子上，注意是标着零食生产模块的那个。”"
+
+# game/story/Chapter_T3.rpy:3543
+translate Schinese king_toast_route_9fce951a:
+
+    # Fort @ pose2 "Ten souls say I can find it before you do."
+    Fort @ pose2 "“十个灵魂，赌我比你先找到。”"
+
+# game/story/Chapter_T3.rpy:3544
+translate Schinese king_toast_route_05b30edb:
+
+    # Amar "It’s not a competition."
+    Amar "“这又不是比赛。”"
+
+# game/story/Chapter_T3.rpy:3550
+translate Schinese king_toast_route_dcaad870:
+
+    # "Fortis sets the box down and the two split up in opposite directions."
+    "Fortis把箱子放下，二人开始分头行动。"
+
+# game/story/Chapter_T3.rpy:3552
+translate Schinese king_toast_route_29da2445:
+
+    # Fort "Gears, no...bulbs... huh?"
+    Fort "“齿轮，不是...电灯泡...嗯？”"
+
+# game/story/Chapter_T3.rpy:3557
+translate Schinese king_toast_route_844614ad:
+
+    # "A soft yellow glow among the bulbs calls out to the demon. He reaches inwards and pulls out what looks like an arrow made of angelic light."
+    "灯泡发出柔和的黄色光芒，将恶魔呼唤了过去。他把手伸进其中，拔出一支由天使之光制成的箭。"
+
+# game/story/Chapter_T3.rpy:3559
+translate Schinese king_toast_route_0a53cf54:
+
+    # Fort_nt "Hey, Amare! Why do you have this?"
+    Fort_nt "“嘿，Amare！你怎么会有这个的？”"
+
+# game/story/Chapter_T3.rpy:3563
+translate Schinese king_toast_route_34bb9e5f:
+
+    # "Amare turns and gasps."
+    "Amare转过身，倒吸了一口气。"
+
+# game/story/Chapter_T3.rpy:3573
+translate Schinese king_toast_route_bdc5ebf6:
+
+    # Amar_nt "Fahrenheit, there's where it has been all these years. I thought I lost that when I started my collection."
+    Amar_nt "“妈呀，原来这些年它一直在这里，我还以为我把它给丢了。”"
+
+# game/story/Chapter_T3.rpy:3578
+translate Schinese king_toast_route_79fd7a6c:
+
+    # "Fortis takes a sniff of the arrow."
+    "Fortis闻了闻箭。"
+
+# game/story/Chapter_T3.rpy:3581
+translate Schinese king_toast_route_2e3680fe:
+
+    # Fort shocked "It has my scent, wait, is this the arrow that struck me in the butt during the Great War?"
+    Fort shocked "“上面有我的气味，慢着，这难道是第一次大战期间射中我屁股的那支箭？”"
+
+# game/story/Chapter_T3.rpy:3582
+translate Schinese king_toast_route_60d83b6f:
+
+    # Amar smile "Correct! I kept it after we pulled it out of you."
+    Amar smile "“回答正确！从你身上拔出来后，我就把它纳为藏品了。”"
+
+# game/story/Chapter_T3.rpy:3584
+translate Schinese king_toast_route_845e742b:
+
+    # Fort neutral2 "I’m surprised, I thought you of all people despised the war."
+    Fort neutral2 "“真令我惊讶，我还以为你是反战派的。”"
+
+# game/story/Chapter_T3.rpy:3585
+translate Schinese king_toast_route_1c7e710b:
+
+    # Amar sad "I still do, but that doesn’t stop me from collecting the many machineries and weapons left behind from the fight."
+    Amar sad "“我现在也是，但这并不妨碍我收集战斗中留下的机械和武器。”"
+
+# game/story/Chapter_T3.rpy:3590
+translate Schinese king_toast_route_683e5ac7:
+
+    # "Fortis looks mournfully at the arrow in his hand."
+    "Fortis悲伤地看着手里的箭。"
+
+# game/story/Chapter_T3.rpy:3593
+translate Schinese king_toast_route_865b4015:
+
+    # Fort "It hurts to remember, Amare..."
+    Fort "“真是惨痛的回忆啊，Amare...”"
+
+# game/story/Chapter_T3.rpy:3603
+translate Schinese king_toast_route_383433f0:
+
+    # Amar "I feel that would be doing those we wronged a disservice."
+    Amar "“不愿直视过去，是对那些被我们辜负过的人的不负责。”"
+
+# game/story/Chapter_T3.rpy:3607
+translate Schinese king_toast_route_8443e344:
+
+    # Fort "Easy for you to say, you were in the backlines while I had to lead the charge to Up Above's gate, watching ally after ally get struck down."
+    Fort "“说得轻巧，你只是待在后防线上，而我却不得不率领大军奔赴前线。”"
+
+# game/story/Chapter_T3.rpy:3609
+translate Schinese king_toast_route_4bee31d5:
+
+    # Fort "We've come so far since then, but there are times when I catch demons who survived the war looking at me."
+    Fort "“这么多年过去了，我还是忘不掉从战争中幸存下来的恶魔看我时那饱含愤怒的眼神。”"
+
+# game/story/Chapter_T3.rpy:3610
+translate Schinese king_toast_route_447fe37e:
+
+    # Fort "Their eyes brimming with anger, after all there's no one else to direct it to, the second Demon Lord has long passed."
+    Fort "“毕竟他们没有其他人可以责怪，第二任魔王早就逝去了。”"
+
+# game/story/Chapter_T3.rpy:3612
+translate Schinese king_toast_route_4b9fc25b:
+
+    # Fort "I'd give anything to just forget and start over."
+    Fort "“我愿意付出任何代价，只要能忘记这一切，重新开始。”"
+
+# game/story/Chapter_T3.rpy:3614
+translate Schinese king_toast_route_5b177427:
+
+    # Amar "I know... even though I was tied to a forge, I saw the scars of war in the broken bits of machines and weapons that were sent back to me."
+    Amar "“我明白...尽管我当时在锻造厂脱不开身，却也从寄回来的机械和武器碎片中一睹战争留下的创伤。”"
+
+# game/story/Chapter_T3.rpy:3616
+translate Schinese king_toast_route_7ba283b5:
+
+    # Amar "Sometimes these broken hands of mine burn when I dream about the war."
+    Amar "“每每梦见那场战争，我受伤的手都会感到灼痛不已。”"
+
+# game/story/Chapter_T3.rpy:3618
+translate Schinese king_toast_route_895e09de:
+
+    # Fort "Wouldn't it be great if we could just forget all that?"
+    Fort "“所以，统统忘掉不好吗？”"
+
+# game/story/Chapter_T3.rpy:3623
+translate Schinese king_toast_route_4bd6f1e9:
+
+    # Amar "It’s in remembering that I can remain grounded in the present, unlike some demons who choose to live in the glory days."
+    Amar "“我们要以此为鉴，珍惜现在来之不易的生活，而是不像某些恶魔一样，沉溺于昔日的荣光。”"
+
+# game/story/Chapter_T3.rpy:3633
+translate Schinese king_toast_route_95415b48:
+
+    # "Fortis begins to twirl the arrow like a baton. He appears lost in thought."
+    "Fortis抚摸着箭矢，似乎陷入了沉思。"
+
+# game/story/Chapter_T3.rpy:3634
+translate Schinese king_toast_route_ee363910:
+
+    # Amar neutral "That there arrow is a rarity, it never broke apart. I wonder what happened to the angel that conjured it, are they keeping it held together?"
+    Amar neutral "“那支箭很罕见，从来没有折断过。不知道召唤它的天使后来怎么样了，他还在维系着那只箭吗？”"
+
+# game/story/Chapter_T3.rpy:3635
+translate Schinese king_toast_route_c8967ee9:
+
+    # Fort confused "Well, whatever it is, that bloke ain’t getting it back."
+    Fort confused "“不管怎样，反正他拿不回去了。”"
+
+# game/story/Chapter_T3.rpy:3636
+translate Schinese king_toast_route_c6cd7880:
+
+    # Amar "How did you get hit with that in the first place?"
+    Amar "“你当初是怎么被射中的？”"
+
+# game/story/Chapter_T3.rpy:3637
+translate Schinese king_toast_route_4ed636d0:
+
+    # Fort laugh "Hmm? It's a funny story."
+    Fort laugh "“啊，说起来也好笑。”"
+
+# game/story/Chapter_T3.rpy:3646
+translate Schinese king_toast_route_0448faa1:
+
+    # "With a twirl of his wrist, he flicks the arrow in the air and catches it, then, he raises his other hand to show all five fingers."
+    "他手腕一抖，把箭弹到空中，然后接住，举起另一只手，露出全部五根手指。"
+
+# game/story/Chapter_T3.rpy:3649
+translate Schinese king_toast_route_fb42850b:
+
+    # Fort neutral1 "It was me against five of Up Above’s goons. Their bodies beaten and bruised, I figured they would be easy to take down."
+    Fort neutral1 "“我那时单枪匹马迎战五个天界的喽啰，把他们打得落花流水。”"
+
+# game/story/Chapter_T3.rpy:3650
+translate Schinese king_toast_route_26c39458:
+
+    # Fort "Before I could though, one of their big shots showed up. This tall regal looking fella."
+    Fort "“就在我心想：‘不过这种程度而已’的时候，他们的大人物出现了，那是个高大威猛、气质不凡的家伙。”"
+
+# game/story/Chapter_T3.rpy:3651
+translate Schinese king_toast_route_1b555751:
+
+    # Fort confused "I could tell just by the look in his eyes that he wasn't like the rest of them."
+    Fort confused "“我看他的眼睛就知道，他跟别人不一样。”"
+
+# game/story/Chapter_T3.rpy:3652
+translate Schinese king_toast_route_2d5fd74d:
+
+    # Amar "Was he as strong as you?"
+    Amar "“他和你一样强吗？”"
+
+# game/story/Chapter_T3.rpy:3653
+translate Schinese king_toast_route_3d860b0f:
+
+    # Fort laugh pose2 "Hah— {w=.5}{nw}"
+    Fort laugh pose2 "“哈-{w=.5}{nw}”"
+
+# game/story/Chapter_T3.rpy:3655
+translate Schinese king_toast_route_0761714a:
+
+    # extend "Not physically, but he had speed and magic on his side."
+    extend "“他的肉体比不过我，但速度与魔法占优。”"
+
+# game/story/Chapter_T3.rpy:3656
+translate Schinese king_toast_route_f6e6456c:
+
+    # Fort annoyed "I tried socking him here and there, but he kept blocking or dodging me."
+    Fort annoyed "“我对他穷追猛打，可他总能挡住或是闪开。”"
+
+# game/story/Chapter_T3.rpy:3660
+translate Schinese king_toast_route_bb5b368c:
+
+    # Fort "Then he pulled out this arrow and threw— {w=2.5}{nw}"
+    Fort "“后来他拔出这支箭-{w=2.5}{nw}”"
+
+# game/story/Chapter_T3.rpy:3723
+translate Schinese king_toast_route_05d73a73:
+
+    # "Fortis accidentally throws the arrow in hand."
+    "Fortis不小心把手里的箭扔了出去。"
+
+# game/story/Chapter_T3.rpy:3724
+translate Schinese king_toast_route_1faa43bf:
+
+    # Fort_nt "Uh-Oh!"
+    Fort_nt "“糟了！”"
+
+# game/story/Chapter_T3.rpy:3725
+translate Schinese king_toast_route_97e5a481:
+
+    # "The arrow zooms across the room, hitting the wall, ricocheting back at tremendous speed."
+    "箭嗖的一声穿过房间，击中墙壁，又以极快的速度反弹回来。"
+
+# game/story/Chapter_T3.rpy:3730
+translate Schinese king_toast_route_6b088c21:
+
+    # Amar_nt "Duck!"
+    Amar_nt "“快闪开！”"
+
+# game/story/Chapter_T3.rpy:3754
+translate Schinese king_toast_route_3ef97ac2:
+
+    # "Fortis is hit across the chest and is sent flying to the other end of the room."
+    "Fortis胸部被击中，整个人都飞到了房间的另一端。"
+
+# game/story/Chapter_T3.rpy:3764
+translate Schinese king_toast_route_e798ed5e:
+
+    # "He slams hard against the wall sending tremors throughout the facility."
+    "他重重地撞在墙上，整个工坊都为之颤抖。"
+
+# game/story/Chapter_T3.rpy:3769
+translate Schinese king_toast_route_e4c806f9:
+
+    # "A box of random materials falls on the demon."
+    "一盒不知道是什么的材料落在了恶魔身上。"
+
+# game/story/Chapter_T3.rpy:3781
+translate Schinese king_toast_route_39c5475a:
+
+    # "Amare picks up the fallen arrow and sends it to his work table via portal."
+    "Amare捡起落下的箭，通过传送门把它送到他的工作台。"
+
+# game/story/Chapter_T3.rpy:3782
+translate Schinese king_toast_route_3687cdc5:
+
+    # Amar neutral "Fascinating, so the arrow is imbued with the ability to bounce, less damage on impact but I suppose for a high level angel that would even hurt Fortis."
+    Amar neutral "“有趣，这只箭在弹射时造成的伤害很小，但在高阶天使的操控下又足以伤害到Fortis。”"
+
+# game/story/Chapter_T3.rpy:3788
+translate Schinese king_toast_route_a51ad0a1:
+
+    # Amar "Oh yes, Fortis, are you alright?"
+    Amar "“哦对，Fortis，你还好吧？”"
+
+# game/story/Chapter_T3.rpy:3791
+translate Schinese king_toast_route_998bbebd:
+
+    # "Amare strolls over to his dazed friend."
+    "Amare走到他神志不清的朋友身边。"
+
+# game/story/Chapter_T3.rpy:3792
+translate Schinese king_toast_route_38732f0f:
+
+    # Fort confused "Ugh... I'm good."
+    Fort confused "“呃...我很好。”"
+
+# game/story/Chapter_T3.rpy:3800
+translate Schinese king_toast_route_fbbaa2f1:
+
+    # "Fortis picks himself up and looks at the things that fell on him."
+    "Fortis站起来，看着落在他身上的东西。"
+
+# game/story/Chapter_T3.rpy:3804
+translate Schinese king_toast_route_1e5222e7:
+
+    # Fort pose4 "Hey, I found the motherboard!"
+    Fort pose4 "“嘿，我找到主板了！”"
+
+# game/story/Chapter_T3.rpy:3805
+translate Schinese king_toast_route_e4cb0bc4:
+
+    # Amar "Excellent, two notable discoveries in one go!"
+    Amar "“太棒了，一下子就有两个显著的发现！”"
+
+# game/story/Chapter_T3.rpy:3806
+translate Schinese king_toast_route_daf72c10:
+
+    # Fort pose2 neutral1 "I also found this."
+    Fort pose2 neutral1 "“我还找到了这个。”"
+
+# game/story/Chapter_T3.rpy:3807
+translate Schinese king_toast_route_179f6088:
+
+    # "He pulls out a small black piece of fabric."
+    "他拿出一小块黑色的布。"
+
+# game/story/Chapter_T3.rpy:3808
+translate Schinese king_toast_route_5db33e98:
+
+    # Fort confused "Isn't this Nox's cloak? What's it doing here?"
+    Fort confused "“这不是Nox的斗篷吗？怎么会在这儿？”"
+
+# game/story/Chapter_T3.rpy:3809
+translate Schinese king_toast_route_f4cddde7:
+
+    # Amar neutral "I don't know what you're talking about. That's just a rag."
+    Amar neutral "“我不懂你在说什么，那只是块抹布。”"
+
+# game/story/Chapter_T3.rpy:3814
+translate Schinese king_toast_route_98e3e093:
+
+    # "One of Amare's extended arms snatches the cloth, crumples it and throws it into a stray box."
+    "Amare伸手夺住布，把它揉成一团，随意扔到一个盒子里。"
+
+# game/story/Chapter_T3.rpy:3816
+translate Schinese king_toast_route_b30edc05:
+
+    # Fort pose1 "Umm... It had a hoodie."
+    Fort pose1 "“可是...上面还有兜帽呢。”"
+
+# game/story/Chapter_T3.rpy:3817
+translate Schinese king_toast_route_a1d37150:
+
+    # Amar "It's just a rag."
+    Amar "“那只是块抹布而已。”"
+
+# game/story/Chapter_T3.rpy:3818
+translate Schinese king_toast_route_ae290a9a:
+
+    # Fort "No, it's very obviously Nox's cloak."
+    Fort "“不对，明显是Nox的斗篷嘛。”"
+
+# game/story/Chapter_T3.rpy:3819
+translate Schinese king_toast_route_d2d68b95:
+
+    # Amar angry "Fortis, while I do enjoy your humour, all I see is a dirty, traitorous rag."
+    Amar angry "“我很欣赏你的幽默感，Fortis，但我看到的就只有一块肮脏的、背信弃义的抹布。”"
+
+# game/story/Chapter_T3.rpy:3820
+translate Schinese king_toast_route_b71581d0:
+
+    # Fort shocked "O-Ok..."
+    Fort shocked "“好-好吧...”"
+
+# game/story/Chapter_T3.rpy:3827
+translate Schinese king_toast_route_60dd93fb:
+
+    # "Amare brings the box of parts over for Fortis to put the motherboard in."
+    "Amare把装零件的箱子拿过来，示意Fortis把主板放进去。"
+
+# game/story/Chapter_T3.rpy:3829
+translate Schinese king_toast_route_b6c2f49c:
+
+    # Amar "That's enough time spent here, we should go."
+    Amar "“我们在这里待够久了，是时候出发了。”"
+
+# game/story/Chapter_T3.rpy:3841
+translate Schinese king_toast_route_ac884cc6:
+
+    # "Suddenly, another portal opens before Amare could summon his own. Nox floats through."
+    "就在Amare想要召唤传送门之前，另一道传送门突然打开，Nox从中漂了出来。"
+
+# game/story/Chapter_T3.rpy:3849
+translate Schinese king_toast_route_1a9e695d:
+
+    # Nox "There you two are."
+    Nox "“你们两个在这啊。”"
+
+# game/story/Chapter_T3.rpy:3851
+translate Schinese king_toast_route_0139ad44:
+
+    # Amar "Nox..."
+    Amar "“Nox...”"
+
+# game/story/Chapter_T3.rpy:3852
+translate Schinese king_toast_route_7928855b:
+
+    # Fort "Nox, you wouldn't guess what Amare took from you—"
+    Fort "“Nox，你绝对猜不到Amare从你那-”"
+
+# game/story/Chapter_T3.rpy:3873
+translate Schinese king_toast_route_92d201b8:
+
+    # Fort "Never mind."
+    Fort "“算了，当我没说。”"
+
+# game/story/Chapter_T3.rpy:3877
+translate Schinese king_toast_route_d56408db:
+
+    # Nox "Amare I think something is wrong with your security system. When I arrived at \nthe front of the workshop, your robots attacked me."
+    Nox "“我想你的安保系统发生了故障，Amare。我一来到\n你的工坊，你的机器人就开始袭击我。”"
+
+# game/story/Chapter_T3.rpy:3878
+translate Schinese king_toast_route_49747a93:
+
+    # Amar "Oh but of course, I had them set to take out traitors automatically."
+    Amar "“噢，那是当然了，我给它们输入了除掉叛徒的指令。”"
+
+# game/story/Chapter_T3.rpy:3879
+translate Schinese king_toast_route_d59b562c:
+
+    # "The lynx demon scowls at the frog but Nox's expression remains unchanged."
+    "山猫怒视着Nox，但青蛙的表情没有一丝改变。"
+
+# game/story/Chapter_T3.rpy:3880
+translate Schinese king_toast_route_32b0d26d:
+
+    # Fort neutral1 "Why are you here, Nox?"
+    Fort neutral1 "“你来干嘛了，Nox？”"
+
+# game/story/Chapter_T3.rpy:3881
+translate Schinese king_toast_route_cd073fad:
+
+    # Nox "I have something important to tell you, Amare."
+    Nox "“我要向你传达一件重要的事，Amare。”"
+
+# game/story/Chapter_T3.rpy:3882
+translate Schinese king_toast_route_00d77032:
+
+    # Amar "Tell me later! We have a mortal to take care of, and he needs sustenance."
+    Amar "“之后再说！我们有一个凡人需要照顾，他得吃东西。”"
+
+# game/story/Chapter_T3.rpy:3883
+translate Schinese king_toast_route_f4384968:
+
+    # Nox "The instruction comes from Lord Vendrake."
+    Nox "“这是来自Vendrake大人的指示。”"
+
+# game/story/Chapter_T3.rpy:3884
+translate Schinese king_toast_route_39c8ccd6:
+
+    # Amar neutral "Well, that changes everything. "
+    Amar neutral "“那就另说了。”"
+
+# game/story/Chapter_T3.rpy:3885
+translate Schinese king_toast_route_3f62a53c:
+
+    # extend angry "Tell me, never!"
+    extend angry "“我，永远，也不要听，他的话！”"
+
+# game/story/Chapter_T3.rpy:3890
+translate Schinese king_toast_route_cc24e729:
+
+    # "Nox looks over to Fortis hoping for some support from his comrade, but the dog turns away."
+    "Nox看向Fortis，希望得到自己战友的支持，但狗转过身去。"
+
+# game/story/Chapter_T3.rpy:3897
+translate Schinese king_toast_route_654da36a:
+
+    # "Fortis picks up the box of parts and the lynx general summons their portal."
+    "Fortis抱起零件箱，山猫将军召唤他们的传送门。"
+
+# game/story/Chapter_T3.rpy:3898
+translate Schinese king_toast_route_088115b5:
+
+    # Amar "Time to feed a hungry alpaca!"
+    Amar "“是时候去喂一只饥饿的羊驼了！”"
+
+# game/story/Chapter_T3.rpy:3900
+translate Schinese king_toast_route_107fb0c1:
+
+    # Nox "I'm coming with you. It’s important that you hear this as soon as possible."
+    Nox "“我跟你们一起去，你必须尽快听到这个消息，这很重要。”"
+
+# game/story/Chapter_T3.rpy:3902
+translate Schinese king_toast_route_415f49ed:
+
+    # Amar "Fine, just wait until we’re done. You better keep the chatter to a minimum. You know how your questions can aggravate others."
+    Amar "“随你，至少等我们办完事再说。还有你最好少说话，你的那些问题总能激怒别人。”"
+
+# game/story/Chapter_T3.rpy:3907
+translate Schinese king_toast_route_25791ea2:
+
+    # "The three demons move through the portal and arrive right outside the pantry."
+    "三个恶魔穿过传送门，正好来到茶水间的门外。"
+
+# game/story/Chapter_T3.rpy:3908
+translate Schinese king_toast_route_067b0e19:
+
+    # Nox "Why didn’t you teleport us inside?"
+    Nox "“为什么不直接传送到里面？”"
+
+# game/story/Chapter_T3.rpy:3909
+translate Schinese king_toast_route_b0ca4c16:
+
+    # Fort "It’s a security risk. We don’t know how desperate the mortal is. He might try to run into our portals, and I don’t want to find out what happens when he does, well at least not yet."
+    Fort "“这是为了安全考虑。谁也不知道一个绝望的凡人会怎么做，他或许会冲进我们的传送门，我可不想考虑那样的后果，至少现在还不想。”"
+
+# game/story/Chapter_T3.rpy:3910
+translate Schinese king_toast_route_d9415e27:
+
+    # "Box in hand, the largest of the three takes out a key and opens the door."
+    "犬恶魔腾出一只手，拿钥匙开了门。"
+
+# game/story/Chapter_T3.rpy:3919
+translate Schinese king_toast_route_3c206596:
+
+    # "Fortis steps through and King leaps out from under a table."
+    "Fortis走过来，King从桌子底下跳了出来。"
+
+# game/story/Chapter_T3.rpy:3928
+translate Schinese king_toast_route_2cee2caa:
+
+    # "King screams while swinging his pan at the demon. It hits Fortis’ on the chest, and with a loud creak the pan bends at the handle."
+    "King尖叫着把平底锅朝恶魔挥去，并顺利击中了Fortis的胸部。随着咣当一声响，平底锅的把手都弯了。"
+
+# game/story/Chapter_T3.rpy:3931
+translate Schinese king_toast_route_152cbd56:
+
+    # "King gasps loudly."
+    "King倒吸了一口气，大声地。"
+
+# game/story/Chapter_T3.rpy:3932
+translate Schinese king_toast_route_6116e2a4:
+
+    # Fort laugh pose2 "Hah— "
+    Fort laugh pose2 "“哈-”"
+
+# game/story/Chapter_T3.rpy:3933
+translate Schinese king_toast_route_92da59dc:
+
+    # extend pose3 "You gotta try harder than that."
+    extend pose3 "“你还得再用点力。”"
+
+# game/story/Chapter_T3.rpy:3937
+translate Schinese king_toast_route_60300c5a:
+
+    # "He places the box on the floor and snatches the alpaca’s pan."
+    "他把盒子放在地板上，然后抢走了羊驼的平底锅。"
+
+# game/story/Chapter_T3.rpy:3947
+translate Schinese king_toast_route_5081a01d:
+
+    # "King reels back in fear."
+    "King吓得连连后退。"
+
+# game/story/Chapter_T3.rpy:3951
+translate Schinese king_toast_route_d1da6f65:
+
+    # K "Ah, don’t hurt me!"
+    K "“呀，不要伤害我！”"
+
+# game/story/Chapter_T3.rpy:3952
+translate Schinese king_toast_route_943b7152:
+
+    # "Anticipating a painful beating, King shields his face."
+    "King护着脸，以为自己将迎来一顿毒打。"
+
+# game/story/Chapter_T3.rpy:3955
+translate Schinese king_toast_route_6f3431ff:
+
+    # "However, no such beating comes. Only the sound of metal screeching."
+    "然而并没有，只听见金属刺耳的声音。"
+
+# game/story/Chapter_T3.rpy:3958
+translate Schinese king_toast_route_ca0c65b9:
+
+    # "Lowering his hands, King sees that Fortis has restored the pan to its original shape."
+    "King放下手臂，看到Fortis已经把平底锅恢复成了原来的形状。"
+
+# game/story/Chapter_T3.rpy:3961
+translate Schinese king_toast_route_ff4cd273:
+
+    # Fort "Here, don’t go breaking it, that’s company property."
+    Fort "“给，不要再破坏公司的财产了。”"
+
+# game/story/Chapter_T3.rpy:3963
+translate Schinese king_toast_route_b6ba3102:
+
+    # K sad "Sorry..."
+    K sad "“对不起...”"
+
+# game/story/Chapter_T3.rpy:3970
+translate Schinese king_toast_route_26653619:
+
+    # "He takes the pan and puts it on the table."
+    "他接住锅，放在了桌子上。"
+
+# game/story/Chapter_T3.rpy:3973
+translate Schinese king_toast_route_68c05487:
+
+    # Amar "Fortis, would you please move, you’re blocking the doorway."
+    Amar "“Fortis，介意挪几步吗？你把门给挡住了。”"
+
+# game/story/Chapter_T3.rpy:3983
+translate Schinese king_toast_route_6e757823:
+
+    # "Fortis snorts before finding a place to sit, kicking his legs up onto the table."
+    "Fortis哼了一声，找个地方坐下，并把腿高高翘到桌子上。"
+
+# game/story/Chapter_T3.rpy:3989
+translate Schinese king_toast_route_55d6839f:
+
+    # "Although he appears to be relaxing, his eyes remain fixed on the alpaca."
+    "虽然看起来很随意，但他的眼睛始终盯着羊驼不放。"
+
+# game/story/Chapter_T3.rpy:3990
+translate Schinese king_toast_route_63402858:
+
+    # Amar smile "Hi there test subject— {w=1}{nw}"
+    Amar smile "“你好啊，实验对象-{w=1}{nw}”"
+
+# game/story/Chapter_T3.rpy:3992
+translate Schinese king_toast_route_8fcc0072:
+
+    # extend @ shocked "I mean, King."
+    extend @ shocked "“我是说，King。”"
+
+# game/story/Chapter_T3.rpy:3993
+translate Schinese king_toast_route_695addc0:
+
+    # "King eyes the demon suspiciously."
+    "King用怀疑的眼神打量着恶魔。"
+
+# game/story/Chapter_T3.rpy:3995
+translate Schinese king_toast_route_2de3a8d9:
+
+    # Amar "A slip of the tongue, honest. We’re here to install your food generating machine."
+    Amar "“口误而已，千真万确。我们今天过来，是为了安装你的食物产生机。”"
+
+# game/story/Chapter_T3.rpy:3996
+translate Schinese king_toast_route_359db781:
+
+    # K neutral "Finally, food."
+    K neutral "“终于有吃的了。”"
+
+# game/story/Chapter_T3.rpy:4002
+translate Schinese king_toast_route_893c6976:
+
+    # Amar_nt "Let me just get the parts and I’ll rebuild it for you."
+    Amar_nt "“在安装之前，先让我把零件取出来。”"
+
+# game/story/Chapter_T3.rpy:4003
+translate Schinese king_toast_route_62d3e631:
+
+    # "The lynx walks over to the box on the floor to unpack the parts."
+    "猞猁从地板上的箱子里拿出零件。"
+
+# game/story/Chapter_T3.rpy:4007
+translate Schinese king_toast_route_c03f8253:
+
+    # "As he does so, King becomes aware of the floating frog before him."
+    "与此同时，King注意到他面前漂浮着一只青蛙。"
+
+# game/story/Chapter_T3.rpy:4009
+translate Schinese king_toast_route_0125bcfe:
+
+    # "King quickly looks away when Nox notices him staring."
+    "对上对方视线的刹那，King迅速移开目光。"
+
+# game/story/Chapter_T3.rpy:4012
+translate Schinese king_toast_route_47db2756:
+
+    # "But not before Nox approaches the alpaca."
+    "但Nox已经接近了羊驼。"
+
+# game/story/Chapter_T3.rpy:4015
+translate Schinese king_toast_route_f28024c4:
+
+    # Nox "Hello mortal, I am Nox, General of the Mental Torture Zone, and Second in \nCommand to the Demon Lord."
+    Nox "“你好，凡人，我是Nox，精神折磨区的将军，魔王的副手。”"
+
+# game/story/Chapter_T3.rpy:4017
+translate Schinese king_toast_route_32d40cb2:
+
+    # K "Hello... Yeah, I remember you when I first got here."
+    K "“你好...我刚来的时候就见过你了。”"
+
+# game/story/Chapter_T3.rpy:4019
+translate Schinese king_toast_route_7aae89eb:
+
+    # Amar angry "You left out Traitor, in your introduction."
+    Amar angry "“你的自我介绍里少了‘叛徒’这部分。”"
+
+# game/story/Chapter_T3.rpy:4022
+translate Schinese king_toast_route_afb74f3c:
+
+    # Nox_nt "..."
+    Nox_nt "“...”"
+
+# game/story/Chapter_T3.rpy:4023
+translate Schinese king_toast_route_914a38b0:
+
+    # Fort confused "Amare, that’s unnecessary."
+    Fort confused "“算了吧，Amare。”"
+
+# game/story/Chapter_T3.rpy:4024
+translate Schinese king_toast_route_fa449386:
+
+    # Amar smile goggle2 "I’m only stating the facts."
+    Amar smile goggle2 "“我只是在陈述事实。”"
+
+# game/story/Chapter_T3.rpy:4031
+translate Schinese king_toast_route_0f17cb93:
+
+    # "Amare uses his many arms to carry the parts to the table."
+    "Amare用多只手把零件抬到桌子上。"
+
+# game/story/Chapter_T3.rpy:4037
+translate Schinese king_toast_route_9d0e9171:
+
+    # "King feels he’s stuck inside an uncomfortable triangle between the demons. Amare behind him tinkering with his machine, Nox in front of him guarding the door, and Fortis staring at him while manspreading to the right."
+    "King觉得自己被困在了这三个恶魔微妙的关系场中：Amare在他身后摆弄着自己的机器，Nox在他面前守着门，Fortis则两腿一叉坐在右边盯着他。"
+
+# game/story/Chapter_T3.rpy:4038
+translate Schinese king_toast_route_26eb223e:
+
+    # K @ sad "{i}This is feeling a lot like that time me and the girls argued about why we all wore the same dress to prom.{/i}"
+    K @ sad "“{b}感觉就像那次，我跟姑娘们争论为什么要穿同样的衣服参加舞会似的。{/b}”"
+
+# game/story/Chapter_T3.rpy:4041
+translate Schinese king_toast_route_210230be:
+
+    # "To his relief, Amare breaks the silence with a question."
+    "Amare用一个问题打破了沉默，这让他松了口气。"
+
+# game/story/Chapter_T3.rpy:4044
+translate Schinese king_toast_route_50165559:
+
+    # Amar "So, how are you enjoying your stay, King?"
+    Amar "“话说，你在这里还好吗，King？”"
+
+# game/story/Chapter_T3.rpy:4046
+translate Schinese king_toast_route_79e70838:
+
+    # "King crosses his arms."
+    "King双臂抱胸。"
+
+# game/story/Chapter_T3.rpy:4047
+translate Schinese king_toast_route_3836ccc8:
+
+    # K "It's terrible!"
+    K "“糟透了！”"
+
+# game/story/Chapter_T3.rpy:4048
+translate Schinese king_toast_route_9b5c9c50:
+
+    # Amar "Perfect— {w=1}{nw}"
+    Amar "“非常好-{w=1}{nw}”"
+
+# game/story/Chapter_T3.rpy:4050
+translate Schinese king_toast_route_46dd09b6:
+
+    # extend "I mean, scratch that, force of habit."
+    extend "“我是说，习惯就好。”"
+
+# game/story/Chapter_T3.rpy:4051
+translate Schinese king_toast_route_2e028227:
+
+    # Amar neutral "We’ll look into the logistics so that we can allow for a more hospitable stay..."
+    Amar neutral "“我们会做好后勤工作，让你住得更舒适...”"
+
+# game/story/Chapter_T3.rpy:4052
+translate Schinese king_toast_route_001c87b4:
+
+    # K "I don't need better service, I {b}need{/b} to go home."
+    K "“我才不稀罕舒适的生活，我{b}要{/b}回家。”"
+
+# game/story/Chapter_T3.rpy:4054
+translate Schinese king_toast_route_517635a6:
+
+    # "King looks at Amare with pleading eyes."
+    "King用恳求的眼神望向Amare。"
+
+# game/story/Chapter_T3.rpy:4055
+translate Schinese king_toast_route_350bdfe0:
+
+    # K "Please... look into your heart, I shouldn’t be here."
+    K "“求求你们...扪心自问，我不该在这里的。”"
+
+# game/story/Chapter_T3.rpy:4057
+translate Schinese king_toast_route_b20cab4d:
+
+    # "Somehow, looking at the alpaca's big, round eyes awakens the cat's desire to protect him."
+    "不知怎的，看着羊驼又大又圆的眼睛，猫不由得升起一股保护欲。"
+
+# game/story/Chapter_T3.rpy:4058
+translate Schinese king_toast_route_4b088297:
+
+    # Amar neutral "Oooooh noooo—"
+    Amar neutral "“噢——噢——”"
+
+# game/story/Chapter_T3.rpy:4059
+translate Schinese king_toast_route_c8fc95c1:
+
+    # "The sarcasm is thick in his voice."
+    "他的声音里充满了讽刺。"
+
+# game/story/Chapter_T3.rpy:4060
+translate Schinese king_toast_route_31a1489c:
+
+    # Amar "We could never defy our almighty, all knowing, all empowering leader, Vendrake! No way, nu-uh. Turn away mortal, for I cannot help you."
+    Amar "“我们断然不可违抗我们那无所不知、无所不能的领袖Vendrake！放弃吧，凡人，我帮不了你。”"
+
+# game/story/Chapter_T3.rpy:4063
+translate Schinese king_toast_route_f832e756:
+
+    # "Amare winks."
+    "Amare眨了一下眼。"
+
+# game/story/Chapter_T3.rpy:4065
+translate Schinese king_toast_route_a3fc9b6e:
+
+    # Nox "I saw that. Amare you’re putting your position in jeopardy if you disobey our \nLord."
+    Nox "“我听得懂，Amare，不要试图违抗那位大人的命令，\n否则只会引火烧身。”"
+
+# game/story/Chapter_T3.rpy:4067
+translate Schinese king_toast_route_bfcaf063:
+
+    # Amar angry hands_2 "Funny how you're thinking about my welfare now, Nox."
+    Amar angry hands_2 "“你现在倒是担心起我的福利问题了，Nox，多滑稽啊。”"
+
+# game/story/Chapter_T3.rpy:4069
+translate Schinese king_toast_route_afb74f3c_1:
+
+    # Nox_nt "..."
+    Nox_nt "“...”"
+
+# game/story/Chapter_T3.rpy:4070
+translate Schinese king_toast_route_291c1088:
+
+    # Nox "You are important to the Underworld. If you give Lord Vendrake reasons to \nremove you—"
+    Nox "“你对冥界的意义重大，如果让Vendrake大人\n发现开除你的理由-”"
+
+# game/story/Chapter_T3.rpy:4072
+translate Schinese king_toast_route_e58b16dd:
+
+    # Amar "I bet you both would love that. Replace me with some other demon that's more obedient."
+    Amar "“我打赌你们俩巴不得我下台，好把我换成其他更听话的恶魔。”"
+
+# game/story/Chapter_T3.rpy:4074
+translate Schinese king_toast_route_40d657bc:
+
+    # Nox "I didn't say that. You're being immature and I won't let you throw your career \naway for one mortal."
+    Nox "“这并非我的本意。你太不成熟了，\n我不能让你为了一个凡人而葬送自己的前程。”"
+
+# game/story/Chapter_T3.rpy:4077
+translate Schinese king_toast_route_737a4333:
+
+    # "Amare tightens his gloved fists. He looks at the alpaca once again, dejected."
+    "Amare握紧拳头，又沮丧地看了眼羊驼。"
+
+# game/story/Chapter_T3.rpy:4078
+translate Schinese king_toast_route_c9ae6d4a:
+
+    # Amar hands_1 "Sorry... I really do want to help, but the tattletale right there will make it impossible."
+    Amar hands_1 "“抱歉...我真的很想帮你，但那个爱搬弄是非的家伙是不会坐视不理的。”"
+
+# game/story/Chapter_T3.rpy:4082
+translate Schinese king_toast_route_5e47d8af:
+
+    # "King sighs and resigns to his seat."
+    "King叹了口气，回到自己的座位上。"
+
+# game/story/Chapter_T3.rpy:4084
+translate Schinese king_toast_route_7ff282ff:
+
+    # "The awkward atmosphere returns as Amare continues to rebuild his machine."
+    "Amare重新投入到机器的建造中，气氛再度陷入了尴尬。"
+
+# game/story/Chapter_T3.rpy:4085
+translate Schinese king_toast_route_1f267f9c:
+
+    # "The sound of metal clanking serenades King as he thinks about how he would escape."
+    "在金属编织而成的小夜曲中，King开始思索如何逃跑。"
+
+# game/story/Chapter_T3.rpy:4086
+translate Schinese king_toast_route_0c4ebe78:
+
+    # "Several minutes pass..."
+    "几分钟过去了..."
+
+# game/story/Chapter_T3.rpy:4104
+translate Schinese king_toast_route_65cf21c6:
+
+    # Amar "It is done!"
+    Amar "“完成了！”"
+
+# game/story/Chapter_T3.rpy:4109
+translate Schinese king_toast_route_da903b53:
+
+    # "Amare's announcement snaps King out of his rumination."
+    "Amare的宣告把King从沉思中惊醒。"
+
+# game/story/Chapter_T3.rpy:4113
+translate Schinese king_toast_route_691983ea:
+
+    # Fort_nt "Finally, I nearly fell asleep watching you work."
+    Fort_nt "“终于，我差点看睡着了。”"
+
+# game/story/Chapter_T3.rpy:4116
+translate Schinese king_toast_route_2a876f25:
+
+    # "Amare stands before the group, presenting as though he were a salesperson."
+    "Amare站在大家面前，摆出一副销售员的样子。"
+
+# game/story/Chapter_T3.rpy:4117
+translate Schinese king_toast_route_a98782df:
+
+    # Amar hands_2 "This machine can create any dish or raw ingredient from Earth."
+    Amar hands_2 "“这台机器可以制造出地球上的任何菜肴或原料。”"
+
+# game/story/Chapter_T3.rpy:4118
+translate Schinese king_toast_route_3b7aea9a:
+
+    # K question "It looks like a microwave."
+    K question "“看起来像一台微波炉。”"
+
+# game/story/Chapter_T3.rpy:4119
+translate Schinese king_toast_route_a68dd1c4:
+
+    # Amar hands_1 neutral "Exactly! Watch me as I use it."
+    Amar hands_1 neutral "“没错！你们瞧好了。”"
+
+# game/story/Chapter_T3.rpy:4128
+translate Schinese king_toast_route_96891b62:
+
+    # "He presses a combination of buttons and the machine whirrs to life. King can see thick white smoke swirling behind the glass."
+    "他按下几个按钮，机器就启动了。隔着玻璃罩，King可以看到里面正在旋转的白色浓烟。"
+
+# game/story/Chapter_T3.rpy:4132
+translate Schinese king_toast_route_a65fc0a4:
+
+    # "In under a minute, the pseudo-microwave dings."
+    "不到一分钟，伪.微波叮了一声。"
+
+# game/story/Chapter_T3.rpy:4140
+translate Schinese king_toast_route_133d80c5:
+
+    # "Amare opens the door and pulls out a bag of chips."
+    "Amare打开门，拿出一袋薯片。"
+
+# game/story/Chapter_T3.rpy:4145
+translate Schinese king_toast_route_fd8e3275:
+
+    # Amar "Tada, give it a try!"
+    Amar "“铛铛，来，试试看！”"
+
+# game/story/Chapter_T3.rpy:4148
+translate Schinese king_toast_route_f6a3b1cc:
+
+    # "One of his floating limbs opens the bag, and grabs a chip while another takes the packet to pass the food around."
+    "他用漂浮着的手撕开袋子，夹出一片薯片，并用另一只手分发起了食物。"
+
+# game/story/Chapter_T3.rpy:4155
+translate Schinese king_toast_route_88679691:
+
+    # "The arm serves Fortis, skips Nox, then King before returning to Amare."
+    "顺序为Fortis，跳过Nox，接着是King，最后返回Amare的身边。"
+
+# game/story/Chapter_T3.rpy:4162
+translate Schinese king_toast_route_0e5041e1:
+
+    # "Those with chips in hand take a bite out of them."
+    "大家都尝了一口。"
+
+# game/story/Chapter_T3.rpy:4167
+translate Schinese king_toast_route_313e6673:
+
+    # K sad "It's...it...hmmm it tastes like cardboard."
+    K sad "“这...呃...吃起来像硬纸板一样。”"
+
+# game/story/Chapter_T3.rpy:4168
+translate Schinese king_toast_route_cc614859:
+
+    # Fort neutral1 "Tastes like a regular old chip to me."
+    Fort neutral1 "“味道普普通通。”"
+
+# game/story/Chapter_T3.rpy:4169
+translate Schinese king_toast_route_dac3269c:
+
+    # Amar neutral "Yes, this is what the food is always like."
+    Amar neutral "“是的，这就是食物的味道。”"
+
+# game/story/Chapter_T3.rpy:4170
+translate Schinese king_toast_route_636bc79c:
+
+    # K question "You guys can't really be satisfied with this, right?"
+    K question "“你们不会这样就满足了吧？”"
+
+# game/story/Chapter_T3.rpy:4174
+translate Schinese king_toast_route_cff412c4:
+
+    # "The demons shrug."
+    "恶魔们耸耸肩。"
+
+# game/story/Chapter_T3.rpy:4175
+translate Schinese king_toast_route_921e41a7:
+
+    # K neutral "Ok, maybe it's because it's processed food. Can we try something freshly cooked?"
+    K neutral "“好吧，也许是因为加工过的缘故，我们能尝尝新鲜的食物吗？”"
+
+# game/story/Chapter_T3.rpy:4176
+translate Schinese king_toast_route_8a9b3748:
+
+    # Amar "Of course, let me show you how."
+    Amar "“当然可以，让我示范给你看。”"
+
+# game/story/Chapter_T3.rpy:4189
+translate Schinese king_toast_route_d636acd4:
+
+    # "Amare demonstrates how the machine's buttons work to King. The alpaca keys in the combination to generate a bowl of spaghetti bolognaise."
+    "Amare向King演示了机器上各个按钮的左右，羊驼一顿组合，制作出一碗意大利肉酱面。"
+
+# game/story/Chapter_T3.rpy:4194
+translate Schinese king_toast_route_e4c469d9:
+
+    # "Once again the food materialises from nothing."
+    "食物又一次从无到有。"
+
+# game/story/Chapter_T3.rpy:4196
+translate Schinese king_toast_route_b58ceef9:
+
+    # Amar "Looks fine to me."
+    Amar "“看起来还不错。”"
+
+# game/story/Chapter_T3.rpy:4201
+translate Schinese king_toast_route_20de791d:
+
+    # K "It’s the taste that matters."
+    K "“味道更重要。”"
+
+# game/story/Chapter_T3.rpy:4214
+translate Schinese king_toast_route_e46ffa13:
+
+    # "The alpaca grabs a few forks and washes them before handing them out."
+    "羊驼找到几把叉子，洗干净后分发出去。"
+
+# game/story/Chapter_T3.rpy:4215
+translate Schinese king_toast_route_e49f4c57:
+
+    # "One for Fortis, Amare, then Nox."
+    "先是Fortis，然后是Amare，接着是Nox。"
+
+# game/story/Chapter_T3.rpy:4219
+translate Schinese king_toast_route_9d4b9dc5:
+
+    # Nox "You want me to try it?"
+    Nox "“你想让我吃吗？”"
+
+# game/story/Chapter_T3.rpy:4223
+translate Schinese king_toast_route_ad4ac8f9:
+
+    # Amar @ angry "Just ignore him, King. I doubt he has any interest in this."
+    Amar @ angry "“别理他，King，我怀疑他根本就不感兴趣。”"
+
+# game/story/Chapter_T3.rpy:4227
+translate Schinese king_toast_route_3367c713:
+
+    # K "Well, we need more tongues to confirm my theory. So all hands on deck, please."
+    K "“为了证实我的理论，我们需要更多舌头。那么，请大伙做好准备。”"
+
+# game/story/Chapter_T3.rpy:4228
+translate Schinese king_toast_route_afb74f3c_2:
+
+    # Nox_nt "..."
+    Nox_nt "“...”"
+
+# game/story/Chapter_T3.rpy:4230
+translate Schinese king_toast_route_c5d08424:
+
+    # "The frog reaches out and takes the fork."
+    "青蛙伸手拿起叉子。"
+
+# game/story/Chapter_T3.rpy:4232
+translate Schinese king_toast_route_376bb688:
+
+    # K "Ok, let’s try it together."
+    K "“很好，咱们开动吧。”"
+
+# game/story/Chapter_T3.rpy:4237
+translate Schinese king_toast_route_fcf0fa7c:
+
+    # "Each of them takes a bite of the generated meal."
+    "他们每个人都吃了一口生成的食物。"
+
+# game/story/Chapter_T3.rpy:4239
+translate Schinese king_toast_route_bec2639e:
+
+    # "King winces. The bolognaise sauce is bitter and the pasta overcooked to mush. The dish has the undesirable consistency of baby food."
+    "King不禁眉头紧锁。肉酱发苦，面条也煮得太烂了，整道菜呈现出一种婴儿食品的粘稠感..."
+
+# game/story/Chapter_T3.rpy:4243
+translate Schinese king_toast_route_9b69135c:
+
+    # "In contrast, the demon’s shrug to each other before fervently slurping down the noodles."
+    "相比之下，恶魔们只是耸耸肩，然后狼吞虎咽地吃下面条。"
+
+# game/story/Chapter_T3.rpy:4244
+translate Schinese king_toast_route_7d6724b8:
+
+    # Fort "Tastes normal."
+    Fort "“马马虎虎吧。”"
+
+# game/story/Chapter_T3.rpy:4245
+translate Schinese king_toast_route_9640c52d:
+
+    # Amar "Yes, isn't this what this dish tastes like?"
+    Amar "“对啊，菜不都是这个味嘛？”"
+
+# game/story/Chapter_T3.rpy:4246
+translate Schinese king_toast_route_8defd7ea:
+
+    # Nox "It reminds me of the mealworm soup I usually have."
+    Nox "“这让我想起了我经常喝的黄粉虫汤。”"
+
+# game/story/Chapter_T3.rpy:4247
+translate Schinese king_toast_route_b00a8148:
+
+    # K shocked "You all need your taste buds checked! This is unacceptable."
+    K shocked "“难以置信，你们的味蕾需要检查检查了！”"
+
+# game/story/Chapter_T3.rpy:4249
+translate Schinese king_toast_route_77b00a92:
+
+    # Amar "We’re demons. We don’t need to eat or drink to live, we just do it because it looks like fun. The only demon who cared about how food tasted was [name]."
+    Amar "“我们是恶魔，不需要依靠吃或喝来维生，我们唯一这样做的理由是因为有趣。只有[name]会关心食物的味道。”"
+
+# game/story/Chapter_T3.rpy:4250
+translate Schinese king_toast_route_1e2a1375:
+
+    # Amar sad "Perhaps, that’s why he stopped using my machine."
+    Amar sad "“也许这就是他没有再使用我的机器的原因了。”"
+
+# game/story/Chapter_T3.rpy:4253
+translate Schinese king_toast_route_7ee2b051:
+
+    # Nox "Why does the taste of their sustenance matter so much to mortals?"
+    Nox "“为什么人类如此看重食物的味道？”"
+
+# game/story/Chapter_T3.rpy:4255
+translate Schinese king_toast_route_ec051143:
+
+    # "King puts a hand on his heart."
+    "King将一只手放在胸前。"
+
+# game/story/Chapter_T3.rpy:4256
+translate Schinese king_toast_route_c5be122a:
+
+    # K "Because I live to eat."
+    K "“因为我就是为此而生的。”"
+
+# game/story/Chapter_T3.rpy:4257
+translate Schinese king_toast_route_ef33f198:
+
+    # Nox "The purpose of living is to continuously find sustenance?"
+    Nox "“生的意义难道不是不停寻找食物吗？”"
+
+# game/story/Chapter_T3.rpy:4258
+translate Schinese king_toast_route_a583fe8c:
+
+    # K frustrated "Not literally."
+    K frustrated "“你错了。”"
+
+# game/story/Chapter_T3.rpy:4259
+translate Schinese king_toast_route_5c46f944:
+
+    # K neutral "Eating is more than just the food you consume. It’s about bringing people you care about together. It’s how we mend sadness, and it’s the easiest way to tell someone you care about them."
+    K neutral "“吃饭不仅仅是把食物咽下肚，更是为了和关心的人聚在一起。凭借这种简单的方式，我们既可以治愈悲伤，也可以分享对彼此的爱。”"
+
+# game/story/Chapter_T3.rpy:4260
+translate Schinese king_toast_route_415fb6ca:
+
+    # K "All of that is like life, a roller coaster of experiences."
+    K "“饭桌乃是生活最大的道场。”"
+
+# game/story/Chapter_T3.rpy:4261
+translate Schinese king_toast_route_36beaab8:
+
+    # Nox "Life... a roller coaster ride... Interesting."
+    Nox "“生活...道场...有趣。”"
+
+# game/story/Chapter_T3.rpy:4263
+translate Schinese king_toast_route_367fc678:
+
+    # "King scratches the side of his head."
+    "King挠了挠头。"
+
+# game/story/Chapter_T3.rpy:4265
+translate Schinese king_toast_route_e2aa4aa3:
+
+    # K "I'm just talking out of my ass. Why don't I get to cooking and show you all how it's done."
+    K "“别往心里去，我看我还是给你们展示下何谓真正的料理吧。”"
+
+# game/story/Chapter_T3.rpy:4276
+translate Schinese king_toast_route_8a27464b:
+
+    # "King summons some raw tomatoes and carrots. He takes a bite out of each, nodding in approval of their tastes."
+    "King生产出一些西红柿和胡萝卜，并在每个上面都咬了一口，点头表示赞许。"
+
+# game/story/Chapter_T3.rpy:4279
+translate Schinese king_toast_route_a6287d87:
+
+    # K "So most raw components are fine. Which means, the machine just can’t handle making a decent dish from the get go."
+    K "“原料是好的，这意味着这台机器的合成方式有问题。”"
+
+# game/story/Chapter_T3.rpy:4280
+translate Schinese king_toast_route_41dafb9b:
+
+    # K "I know what to do."
+    K "“我知道该怎么做了。”"
+
+# game/story/Chapter_T3.rpy:4287
+translate Schinese king_toast_route_769d6324:
+
+    # "King heads for the cabinets where the pots, pans, and portable gas stoves are kept."
+    "King走向放着锅碗瓢盆和便携式燃气炉子的灶台。"
+
+# game/story/Chapter_T3.rpy:4299
+translate Schinese king_toast_route_96fcc863:
+
+    # "Invigorated by his passion for cooking, King’s movements become graceful yet precise."
+    "出于对烹饪的热爱，King的动作变得优雅而精细。"
+
+# game/story/Chapter_T3.rpy:4300
+translate Schinese king_toast_route_75bfea2b:
+
+    # "King then proceeds to generate a myriad of ingredients, spices, and condiments he knows by heart."
+    "然后，他开始源源不断地生产那些早已烂熟于心的食材、香料和调味品。"
+
+# game/story/Chapter_T3.rpy:4307
+translate Schinese king_toast_route_acaf576c:
+
+    # "He starts washing, prepping and cooking the ingredients into his own spaghetti bolognaise."
+    "King清洗、准备食材，并将其烹饪成自己满意的意大利肉酱面。"
+
+# game/story/Chapter_T3.rpy:4308
+translate Schinese king_toast_route_18d1d4e5:
+
+    # "Fortis and Amare take a seat at a nearby table while Nox remains on guard at the door."
+    "Fortis和Amare在附近的桌子坐下，而Nox仍然在门口警戒。"
+
+# game/story/Chapter_T3.rpy:4309
+translate Schinese king_toast_route_7601de57:
+
+    # "As the mortal moves about, Amare takes down various notes with his floating hands."
+    "Amare用飘浮手记录下凡人的一举一动。"
+
+# game/story/Chapter_T3.rpy:4310
+translate Schinese king_toast_route_b9059161:
+
+    # "Fortis crosses his arms and keeps his eyes glued on the alpaca."
+    "Fortis双臂抱胸，眼睛始终不曾离开羊驼。"
+
+# game/story/Chapter_T3.rpy:4311
+translate Schinese king_toast_route_8ad22857:
+
+    # "King weaves from one task to another, in a matter of minutes, he has the completed dish."
+    "King有条不紊地进行着，不出几分钟就完成了这道菜肴。"
+
+# game/story/Chapter_T3.rpy:4316
+translate Schinese king_toast_route_17a41f97:
+
+    # "The pantry is bathed in the aroma of simmering tomatoes."
+    "整个茶水间都沐浴在炖煮西红柿的香气中。"
+
+# game/story/Chapter_T3.rpy:4318
+translate Schinese king_toast_route_efd6db7b:
+
+    # K "Pasta's up!"
+    K "“意大利面来喽！”"
+
+# game/story/Chapter_T3.rpy:4320
+translate Schinese king_toast_route_31ab55cb:
+
+    # "King prepares four plates, three are prepared with minced beef, the other is vegetarian based; for himself."
+    "King准备了四盘面，其中三盘是牛肉面，他自己吃的那盘则是素面。"
+
+# game/story/Chapter_T3.rpy:4332
+translate Schinese king_toast_route_492b70f6:
+
+    # "He approaches Fortis and Amare with a wide grin and places the plates in front of them."
+    "他笑容可掬地走近Fortis和Amare，把盘子放在他们面前。"
+
+# game/story/Chapter_T3.rpy:4334
+translate Schinese king_toast_route_fbba9b56:
+
+    # "Then he pushes the other plate to Nox, who is smaller in width than the meal itself."
+    "接着将另一个比Nox本人还大的盘子推给他。"
+
+# game/story/Chapter_T3.rpy:4338
+translate Schinese king_toast_route_3b190c50:
+
+    # K "Dig in!"
+    K "“开吃吧！”"
+
+# game/story/Chapter_T3.rpy:4339
+translate Schinese king_toast_route_843f83fa:
+
+    # "Fortis and Amare examine the steaming hot plate of spaghetti in front of them before turning to each other."
+    "Fortis和Amare看着面前的食物，互相对视了一眼。"
+
+# game/story/Chapter_T3.rpy:4340
+translate Schinese king_toast_route_e201c871:
+
+    # Fort @ shocked "You see anything different?"
+    Fort @ shocked "“你看出不同来了吗？”"
+
+# game/story/Chapter_T3.rpy:4341
+translate Schinese king_toast_route_c661ebfb:
+
+    # Amar "Well, I detect a hint of cheese?"
+    Amar "“唔，我闻到了奶酪的气味？”"
+
+# game/story/Chapter_T3.rpy:4342
+translate Schinese king_toast_route_0d7eea2d:
+
+    # K "Right, I used Parmigiano Reggiano."
+    K "“没错，我使用了帕尔马干酪。”"
+
+# game/story/Chapter_T3.rpy:4345
+translate Schinese king_toast_route_0a94042e:
+
+    # "They shrug and take their first bite."
+    "他们耸耸肩，尝了一口。"
+
+# game/story/Chapter_T3.rpy:4347
+translate Schinese king_toast_route_7efee2c7:
+
+    # Amar shocked "This is—"
+    Amar shocked "“这是-”"
+
+# game/story/Chapter_T3.rpy:4354
+translate Schinese king_toast_route_9d59465d:
+
+    # Fort pose4 "DELICIOUS!"
+    Fort pose4 "“{b}太好吃啦！{/b}”"
+
+# game/story/Chapter_T3.rpy:4360
+translate Schinese king_toast_route_edbaa3c1:
+
+    # Amar "How can food taste like this?"
+    Amar "“食物竟然可以如此美味？”"
+
+# game/story/Chapter_T3.rpy:4372
+translate Schinese king_toast_route_2430514b:
+
+    # "The two of them continue eating with gusto."
+    "他们两个津津有味地吃了起来。"
+
+# game/story/Chapter_T3.rpy:4391
+translate Schinese king_toast_route_05ef4c2f:
+
+    # "King smiles before turning his attention to Nox who's just staring at the food before him."
+    "King笑了笑，然后看向Nox，对方只是沉默地盯着自己那份食物。"
+
+# game/story/Chapter_T3.rpy:4395
+translate Schinese king_toast_route_36747469:
+
+    # K "Something on your mind? If you’re not a cheese person I can make another plate for you."
+    K "“有什么心事吗？如果你不喜欢吃奶酪，我可以再给你做。”"
+
+# game/story/Chapter_T3.rpy:4396
+translate Schinese king_toast_route_736dc6a7:
+
+    # Nox "I am... perplexed."
+    Nox "“我只是...不理解。”"
+
+# game/story/Chapter_T3.rpy:4398
+translate Schinese king_toast_route_4c19b1b2:
+
+    # "Nox hesitates for a moment, but the need to ask has been boiling up inside him. While uncharacteristic of himself, he considers that there would be no harm in seeing what insight the mortal could provide to his understanding of life."
+    "Nox犹豫着，但他内心深处的求知欲简直要沸腾了。他一反常态，迫不及待地希望一探那个凡人会给他带来怎样的真知灼见。"
+
+# game/story/Chapter_T3.rpy:4399
+translate Schinese king_toast_route_51347cea:
+
+    # "Fortis’ ears perk upwards upon noticing the exchange."
+    "Fortis注意到了他们两个的交流，竖起耳朵。"
+
+# game/story/Chapter_T3.rpy:4400
+translate Schinese king_toast_route_21c6e7cc:
+
+    # Nox "Tell me mortal, I am certain I’ve left... a less than approachable impression, \nespecially after what my other colleague has said about me. Yet, you still \nchoose to include me."
+    Nox "“请告诉我，凡人，我很确定我给你留下了一个...不平易近人的印象，\n尤其是在我的同事说了那些关于我的话之后。\n然而，你依旧没有把我排挤在外。”"
+
+# game/story/Chapter_T3.rpy:4401
+translate Schinese king_toast_route_2ef6488a:
+
+    # K neutral "I’ve been raised to know that no one deserves to starve."
+    K neutral "“我从小就知道，没有人应该忍饥挨饿。”"
+
+# game/story/Chapter_T3.rpy:4402
+translate Schinese king_toast_route_7db8f605:
+
+    # Nox "Even someone who cut down one of your only hopes for escape?"
+    Nox "“即使那个人断绝了你逃跑的唯一希望？”"
+
+# game/story/Chapter_T3.rpy:4403
+translate Schinese king_toast_route_7ef78750:
+
+    # K @ sad "Not even you. That, and I kind of feel bad that Amare was giving you such a hard time."
+    K @ sad "“没有错。而且Amare那样为难你，我也很过意不去。”"
+
+# game/story/Chapter_T3.rpy:4404
+translate Schinese king_toast_route_3fc99d46:
+
+    # "The frog croaks."
+    "青蛙呱呱叫了几声。"
+
+# game/story/Chapter_T3.rpy:4405
+translate Schinese king_toast_route_4cd50e77:
+
+    # Nox "Amare has his reasons."
+    Nox "“Amare有他的理由。”"
+
+# game/story/Chapter_T3.rpy:4406
+translate Schinese king_toast_route_895b9d35:
+
+    # K neutral "I think you should consider... {nw}"
+    K neutral "“我想你应该...{nw}”"
+
+# game/story/Chapter_T3.rpy:4412
+translate Schinese king_toast_route_0c239468:
+
+    # p "I think you should consider... {fast}your feelings more, Nox."
+    p "“我想你应该...{fast}多去在意自己的想法和感受，Nox。”"
+
+# game/story/Chapter_T3.rpy:4419
+translate Schinese king_toast_route_8b31f316:
+
+    # "Nox’s eyes widen."
+    "Nox睁大了眼睛。"
+
+# game/story/Chapter_T3.rpy:4421
+translate Schinese king_toast_route_3a30c69e:
+
+    # Nox "You’re not the first person to tell me that."
+    Nox "“你不是第一个对我说这些话的人。”"
+
+# game/story/Chapter_T3.rpy:4422
+translate Schinese king_toast_route_a485f459:
+
+    # K "Whoever it was mustn't be so bad.. Maybe, you should listen to them."
+    K "“不管怎样，那人一定也是为了你好...也许，你应该听他的。”"
+
+# game/story/Chapter_T3.rpy:4423
+translate Schinese king_toast_route_e1b308b5:
+
+    # Nox "I'll ponder on that a bit more, for now, allow me to repay your kindness."
+    Nox "“我需要多方思忖，至于现在，请允许我报答你的好意。”"
+
+# game/story/Chapter_T3.rpy:4425
+translate Schinese king_toast_route_7890cce1:
+
+    # Nox "Discard any notion of escaping. Beyond those pantry doors, your only way out \nis through the elevator you came from. You do not know how to operate it, and \neven then you’ll be had by another demon long before you reach Earth."
+    Nox "“放弃任何逃跑的念头。\n除了茶水间的门，唯一的出路就是通过来时的电梯。\n但就算你知道如何操作，在抵达人界之前，你也早就被其他恶魔抓住了。”"
+
+# game/story/Chapter_T3.rpy:4427
+translate Schinese king_toast_route_a9f61853:
+
+    # "King’s fingertips turn cold, his mind playing out the many ways the demons would have their way with him."
+    "一想到恶魔们会用什么方式来惩罚他，King的指尖霎时变得冰凉。"
+
+# game/story/Chapter_T3.rpy:4428
+translate Schinese king_toast_route_ff907b65:
+
+    # K question "You have a funny way of repaying kindness, Nox."
+    K question "“好另类的报恩方式，Nox。”"
+
+# game/story/Chapter_T3.rpy:4429
+translate Schinese king_toast_route_140f6282:
+
+    # "The alpaca breathes and puts on a weak smile."
+    "羊驼喘着气，勉强一笑。"
+
+# game/story/Chapter_T3.rpy:4430
+translate Schinese king_toast_route_8aa46a0b:
+
+    # K neutral "I’ll take your advice into consideration. But, if I can survive the Big Blouse Blowout sale at the mall against everyone else in Kibbleton, I won’t let a bunch of demons stop me."
+    K neutral "“我会认真考虑你的建议。不过，既然我能在商场的衬衫大甩卖中拔得头筹，又怎么会被一群恶魔给绊住了？”"
+
+# game/story/Chapter_T3.rpy:4431
+translate Schinese king_toast_route_546d6598:
+
+    # Nox "I don’t see the similarity between demons and shop-goers."
+    Nox "“我不明白恶魔和逛商场的人之间有何相似之处。”"
+
+# game/story/Chapter_T3.rpy:4432
+translate Schinese king_toast_route_9499c290:
+
+    # K frustrated "Tell that to the lady that nearly bit my right arm off over a scarf. Honestly, I was more of an autumn than she was."
+    K frustrated "“这话你可以跟那个因为一条围巾，差点咬掉我一条胳膊的女士讲去。不是我自吹，我比她克制多了。”"
+
+# game/story/Chapter_T3.rpy:4437
+translate Schinese king_toast_route_32ed9886:
+
+    # "King returns to his seat to eat. He silently doubles his willpower to remain composed as he considers how he can escape and help [name]."
+    "King回到座位上，一边强迫自己冷静，一边思考如何逃跑并帮助[name]。"
+
+# game/story/Chapter_T3.rpy:4441
+translate Schinese king_toast_route_7bc143a9:
+
+    # "Nox on the other hand, stares with longing eyes at the cat demon scarfing down spaghetti. He ponders his orders from Vendrake and the uneasiness that has been dormant within his heart."
+    "另一方面，Nox用如饥似渴的眼神盯着正在狼吞虎咽的猫恶魔。他在思考Vendrake的命令，以及潜藏于他心底的不安。"
+
+# game/story/Chapter_T3.rpy:4443
+translate Schinese king_toast_route_2b172f67:
+
+    # "The frog demon takes a bite of the spaghetti. A small smile breaks as he finds some relief in the mortal’s meal."
+    "青蛙吃了一口意大利面，并为从中收获到的慰藉露出一抹微笑。"
+
+# game/story/Chapter_T3.rpy:4448
+translate Schinese king_toast_route_9a913433:
+
+    # "A few minutes pass and everyone is done with their meals. The generals gather by the door, ready to leave."
+    "几分钟过去了，饭菜被他们一扫而空。将军们聚集在门边，准备离开。"
+
+# game/story/Chapter_T3.rpy:4456
+translate Schinese king_toast_route_62374298:
+
+    # Amar "That was a pleasurable experience, I look forward to studying what else you can cook up, King."
+    Amar "“真是一次愉快的经历，我对你期望很高哦，King。”"
+
+# game/story/Chapter_T3.rpy:4457
+translate Schinese king_toast_route_2d4c1bfd:
+
+    # Fort "Vendrake’s going to ride your ass harder than ever if you keep avoiding your work."
+    Fort "“要是你继续摸鱼，Vendrake可要大发雷霆了。”"
+
+# game/story/Chapter_T3.rpy:4459
+translate Schinese king_toast_route_c949e78a:
+
+    # Amar_nt "What’s the worst he’s going to do? Kill me? We can’t die."
+    Amar_nt "“他能拿我怎样？杀了我？我们可是不死之身。”"
+
+# game/story/Chapter_T3.rpy:4462
+translate Schinese king_toast_route_5ee3c33b:
+
+    # "Fortis frowns."
+    "Fortis皱起眉头。"
+
+# game/story/Chapter_T3.rpy:4464
+translate Schinese king_toast_route_c053413d:
+
+    # "Noticing his ally’s concern, Amare grumbles but ultimately concedes to the larger demon."
+    "注意到盟友的担忧，Amare虽不情愿，但最终还是选择了妥协。"
+
+# game/story/Chapter_T3.rpy:4466
+translate Schinese king_toast_route_8e7659b9:
+
+    # Amar "Fine, I’ll do the bare minimum. I need some time to think about how to help [name] anyhow."
+    Amar "“好吧，不过我只做最低限度的要求。我还得想办法去帮[name]呢。”"
+
+# game/story/Chapter_T3.rpy:4467
+translate Schinese king_toast_route_de7949fc:
+
+    # Amar neutral "Nox, what’s the job the Vendrake told you to pass to me?"
+    Amar neutral "“Nox，Vendrake让你交给我的工作是什么？”"
+
+# game/story/Chapter_T3.rpy:4468
+translate Schinese king_toast_route_aa5c3b27:
+
+    # Nox "Job? Oh..."
+    Nox "“工作？哦...”"
+
+# game/story/Chapter_T3.rpy:4473
+translate Schinese king_toast_route_dba9288c:
+
+    # "All he has to do is tell Amare to prepare to go to Earth to kill [name]."
+    "他只需要告诉Amare，让他去人界解决掉[name]。"
+
+# game/story/Chapter_T3.rpy:4475
+translate Schinese king_toast_route_22d4b3e1:
+
+    # "Though now, his heart and mind are at war about what to say."
+    "但现在，他的内心和意志发生了动摇。"
+
+# game/story/Chapter_T3.rpy:4479
+translate Schinese king_toast_route_f6288010:
+
+    # Nox "Lord Vendrake said to..."
+    Nox "“Vendrake大人...”"
+
+# game/story/Chapter_T3.rpy:4480
+translate Schinese king_toast_route_880f3a37:
+
+    # Nox "To... finish your work as soon as possible. His patience runs thin."
+    Nox "“让你...让你尽快完成自己的任务，他快要失去耐心了。”"
+
+# game/story/Chapter_T3.rpy:4481
+translate Schinese king_toast_route_f3436df3:
+
+    # "Amare raises an eyebrow at the frog."
+    "Amare朝青蛙竖起眉毛。"
+
+# game/story/Chapter_T3.rpy:4482
+translate Schinese king_toast_route_2f98bc13:
+
+    # Amar angry "Sure...?"
+    Amar angry "“行...？”"
+
+# game/story/Chapter_T3.rpy:4484
+translate Schinese king_toast_route_0dfe1c83:
+
+    # Amar_nt "Alright, let's go. Bye-bye King!"
+    Amar_nt "“好了，我们走吧。拜拜，King！”"
+
+# game/story/Chapter_T3.rpy:4499
+translate Schinese king_toast_route_c7831c0c:
+
+    # "As the demons leave through the front door, the bejewelled hand that cradles Nox gives the impression of a nod before floating away."
+    "托着Nox的那只珠光宝气的手像是点了点头，随后跟其他恶魔一并从前门离开了。"
+
+# game/story/Chapter_T3.rpy:4504
+translate Schinese king_toast_route_3da7dc5f:
+
+    # "Alone once more, the alpaca draws out a long sigh."
+    "羊驼又变成了一个人，他长叹一口气。"
+
+# game/story/Chapter_T3.rpy:4506
+translate Schinese king_toast_route_dfa232e1:
+
+    # "He takes a seat and deliberates what his next plan of action is."
+    "他坐下来，开始斟酌下一步的行动。"
+
+# game/story/Chapter_T3.rpy:4508
+translate Schinese king_toast_route_8aa100c1:
+
+    # K "Getting out through that door is still my best chance, perhaps if I can learn how that elevator works, I might be able to get back home."
+    K "“那扇门依然是我最好的机会，只要学会电梯的工作原理，我就能回家了。”"
+
+# game/story/Chapter_T3.rpy:4509
+translate Schinese king_toast_route_bd00727c:
+
+    # K serious "I better keep talking to those generals. Maybe, just maybe, they’ll let some clue slip."
+    K serious "“我最好多跟那些将军们谈谈，也许他们会说漏嘴，只是也许。”"
+
+# game/story/Chapter_T3.rpy:4511
+translate Schinese king_toast_route_44ff80ab:
+
+    # "Stretching his arms up, the alpaca looks at the messy pantry."
+    "羊驼伸展双臂，扫了眼凌乱的茶水间。"
+
+# game/story/Chapter_T3.rpy:4513
+translate Schinese king_toast_route_53ba57c5:
+
+    # K "I’ll think about it more after I’ve done the dishes."
+    K "“在此之前，我还是先把盘子洗了吧。”"
+
+translate Schinese strings:
+
+    # game/story/Chapter_T3.rpy:7
+    old "Memories"
+    new "回忆"
 
