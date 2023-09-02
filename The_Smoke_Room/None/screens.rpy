@@ -158,7 +158,7 @@ screen nik_select():
             imagebutton idle "images/thumbnails/nikthumb1.webp" action Confirm(spoiler_message, Function(call_chapter_select, "Nikolai", 2), Hide("confirm"))
             imagebutton idle "images/thumbnails/nikthumb2.webp" action Confirm(spoiler_message, Function(call_chapter_select, "Nikolai", 3), Hide("confirm"))
             imagebutton idle "images/thumbnails/nikthumb3.webp" action Confirm(spoiler_message, Function(call_chapter_select, "Nikolai", 4), Hide("confirm"))
-            null
+            imagebutton idle "images/thumbnails/luthumb.webp" action Confirm(spoiler_message, Function(call_chapter_select, "Nikolai", 5), Hide("confirm"))
             null
         add "sprites/nik/nik.webp" xpos 820 xysize(981,1080) ypos -474 alpha 0.75 zoom 0.8
 
