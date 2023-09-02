@@ -16876,7 +16876,7 @@ translate Tchinese sellcomp_02379fda:
 translate Tchinese sellcomp_2fa24e12:
 
     # po "\"A charmer to be sure.\""
-    po "“確實很迷人。”"
+    po "“他確實很迷人。”"
 
 # game/nikroute2.rpy:5532
 translate Tchinese sellcomp_8f061e02:
@@ -25542,3 +25542,76 @@ translate Tchinese nikroute2_fba08962:
     # jam "\"Mr Ayers. One of our current troubles is that Nicholas is one of our best workers! But I fear he’s run away with some wild ideas.\""
     jam "“Nicholas稱得上是這裡最優秀的員工，Ayers先生！我們目前的其中一個問題，就是我怕他會帶著一些瘋狂的想法跑掉。”"
 
+# TODO: Translation updated at 2023-08-29 15:28
+
+# game/nikroute2.rpy:1174
+translate Tchinese nikroute2_1117c5ff:
+
+    # jam "\"You’re close with the immigrant Nicholas King, yes?\""
+    jam "“你跟那位移民Nicholas King很熟，對吧？”"
+
+# game/nikroute2.rpy:3760
+translate Tchinese sny1_6601a4b7:
+
+    # naunk "\"I can’t understand what he’s saying either.\""
+    naunk "“我也聽不懂他在說什麼。”"
+
+# game/nikroute2.rpy:3764
+translate Tchinese sny1_d66b039b:
+
+    # nabj "\"But I can probably guess.\""
+    nabj "不過大概猜得出來。”"
+
+# game/nikroute2.rpy:3767
+translate Tchinese sny1_4ea7069c:
+
+    # nabj "\"Your friend takes up most of the tunnel.\""
+    nabj "“你的朋友幾乎把隧道整個擋住了。”"
+
+# game/nikroute2.rpy:3782
+translate Tchinese sny1_0dac77f6:
+
+    # nabj "\"Barely.\""
+    nabj "“太窄了。”"
+
+# game/nikroute2.rpy:3789
+translate Tchinese sny1_ca952744:
+
+    # nabj "\"Everybody down here has things to do.\""
+    nabj "“這裡人人都有事忙。”"
+
+# game/nikroute2.rpy:3792
+translate Tchinese sny1_76ff20b1:
+
+    # nabj "\"Might be hell of a lot easier if your foreign friend ate less.\""
+    nabj "“也許你的外國朋友應該少吃點，為了大伙方便。”"
+
+# game/nikroute2.rpy:3797
+translate Tchinese sny1_0be624db:
+
+    # "...Blessed be His name."
+    "……祂的名是應當稱頌的。"
+
+# game/nikroute2.rpy:3798
+translate Tchinese sny1_f5fea4c1:
+
+    # nabj "\"You slow or somethin’?\""
+    nabj "“你不樂意啊？”"
+
+# game/nikroute2.rpy:3806
+translate Tchinese sny1_38d9017b:
+
+    # nabj "\"Hey, what’s this?\""
+    nabj "“嘿，這是什麼？”"
+
+# game/nikroute2.rpy:3812
+translate Tchinese sny1_614d9592:
+
+    # nabj "\"This looks like a fire hazard!\""
+    nabj "“看起來有火災隱患！”"
+
+# game/nikroute2.rpy:3815
+translate Tchinese sny1_bdeb1ad6:
+
+    # nabj "\"I think foreman Moore should have a look at this--\""
+    nabj "“最好讓Moore工頭過目──”"

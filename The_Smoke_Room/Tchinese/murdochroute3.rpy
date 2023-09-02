@@ -19226,7 +19226,7 @@ translate Tchinese murdochroute3b_e6164a96:
 translate Tchinese murdochroute3b_88017111:
 
     # mu "\"I expect any experiments or demonstrations with light will result in something off given enough trials.\""
-    mu 我猜不管什麼跟光有關的實驗或操作，只要重複夠多次都會出問題。""
+    mu "我猜不管什麼跟光有關的實驗或操作，只要重複夠多次都會出問題。"
 
 # game/murdochroute3.rpy:4105
 translate Tchinese murdochroute3b_2683d858:
