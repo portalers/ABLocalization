@@ -22066,7 +22066,7 @@ translate Schinese sny4_d0a8135c:
 translate Schinese sny4_8f030d4d:
 
     # "We could just be a pair of simple workhorses to him."
-    "在他眼中，我们可能只是道具而已。"
+    "在他眼中，我们可能与道具无疑。"
 
 # game/nikroute3.rpy:7517
 translate Schinese sny4_1e8cdd98:
