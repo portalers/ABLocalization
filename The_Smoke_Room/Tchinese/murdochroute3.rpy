@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2023-03-19 20:06
-
-# game/murdochroute3.rpy:4
+﻿# game/murdochroute3.rpy:4
 translate Tchinese murdochroute3_74be125b:
 
     # "When I get to the store I’m handed a list of tasks."

@@ -16876,7 +16876,7 @@ translate Tchinese sellcomp_02379fda:
 translate Tchinese sellcomp_2fa24e12:
 
     # po "\"A charmer to be sure.\""
-    po "“他確實很迷人。”"
+    po "“確實很迷人。”"
 
 # game/nikroute2.rpy:5532
 translate Tchinese sellcomp_8f061e02:
@@ -25542,7 +25542,7 @@ translate Tchinese nikroute2_fba08962:
     # jam "\"Mr Ayers. One of our current troubles is that Nicholas is one of our best workers! But I fear he’s run away with some wild ideas.\""
     jam "“Nicholas稱得上是這裡最優秀的員工，Ayers先生！我們目前的其中一個問題，就是我怕他會帶著一些瘋狂的想法跑掉。”"
 
-# TODO: Translation updated at 2023-08-29 15:28
+# TODO: Translation updated at 2023-09-29 22:00
 
 # game/nikroute2.rpy:1174
 translate Tchinese nikroute2_1117c5ff:
@@ -25560,7 +25560,7 @@ translate Tchinese sny1_6601a4b7:
 translate Tchinese sny1_d66b039b:
 
     # nabj "\"But I can probably guess.\""
-    nabj "不過大概猜得出來。”"
+    nabj "“不過大概猜得出來。”"
 
 # game/nikroute2.rpy:3767
 translate Tchinese sny1_4ea7069c:
@@ -25615,3 +25615,4 @@ translate Tchinese sny1_bdeb1ad6:
 
     # nabj "\"I think foreman Moore should have a look at this--\""
     nabj "“最好讓Moore工頭過目──”"
+

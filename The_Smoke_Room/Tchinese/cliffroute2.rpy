@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2023-03-19 20:06
-
-# game/cliffroute2.rpy:14
+﻿# game/cliffroute2.rpy:14
 translate Tchinese cliffroute2_0bdb59af:
 
     # "In the cover of darkness, Jebediah leads us through the empty streets all the way to the outskirts of town, where he's prepared a small wooden wagon."

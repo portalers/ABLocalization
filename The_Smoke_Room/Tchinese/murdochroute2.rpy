@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2023-03-19 20:06
-
-# game/murdochroute2.rpy:11
+﻿# game/murdochroute2.rpy:11
 translate Tchinese murdochroute2_47a8bff9:
 
     # "Just keeping up with Murdoch is a workout on its own."

@@ -1,91 +1,91 @@
 translate Tchinese strings:
 
     old "{color=#000000}{font=willfont.ttf}Huxley Greene is dead. His body was found frozen. Decapitated with ripping force.{/font}{/color}"
-    new "{color=#000000}{font=fonts/willfont.ttf}死者，Huxley Greene，屍體被發現時已凍僵。頭部遭巨力撕扯，身首異處。{/font}{/color}"
+    new "{color=#000000}{font=fonts/willfont2.ttf}死者，Huxley Greene，屍體被發現時已凍僵。頭部遭巨力撕扯，身首異處。{/font}{/color}"
 
     old "{color=#000000}{font=willfont.ttf}Where was the body found? ASK TODD LATER. {/font}{/color}"
-    new "{color=#000000}{font=fonts/willfont.ttf}屍體所在地是？{b}要找機會問問Todd。{/b} {/font}{/color}"
+    new "{color=#000000}{font=fonts/willfont2.ttf}屍體所在地是？{b}要找機會問問Todd。{/b} {/font}{/color}"
 
     old "{color=#000000} {font=willfont.ttf}Cliff claims Reed tries to break into his apartment.{/font} {/color}"
-    new "{color=#000000}{font=fonts/willfont.ttf}Cliff說Reed試圖闖入他的公寓。{/font}{/color}"
+    new "{color=#000000}{font=fonts/willfont2.ttf}Cliff說Reed試圖闖入他的公寓。{/font}{/color}"
 
     old "{color=#000000}{font=willfont.ttf}Cliff works with James for CGCS.{/font}{/color}"
-    new "{color=#000000}{font=fonts/willfont.ttf}Cliff和James一起效力於CGCS。{/font}{/color}"
+    new "{color=#000000}{font=fonts/willfont2.ttf}Cliff和James一起效力於CGCS。{/font}{/color}"
 
     old "{color=#000000}{font=willfont.ttf}Cliff's real name is Cornelis. He claims he does not have his worker's permit.{/font} {/color}"
-    new "{color=#000000}{font=fonts/willfont.ttf}Cliff的真名是Cornelis。據本人稱沒有工作證。{/font} {/color}"
+    new "{color=#000000}{font=fonts/willfont2.ttf}Cliff的真名是Cornelis。據本人稱沒有工作證。{/font} {/color}"
 
     old "{color=#000000}{font=willfont.ttf}[stagnighttext]{/font}{/color}"
-    new "{color=#000000}{font=fonts/willfont.ttf}[stagnighttext!t]{/font}{/color}"
+    new "{color=#000000}{font=fonts/willfont2.ttf}[stagnighttext!t]{/font}{/color}"
 
     old "{color=#000000}{font=willfont.ttf}[chnighttext]{/font}{/color}"
-    new "{color=#000000}{font=fonts/willfont.ttf}[chnighttext!t]{/font}{/color}"
+    new "{color=#000000}{font=fonts/willfont2.ttf}[chnighttext!t]{/font}{/color}"
 
     old "{color=#000000}{font=willfont.ttf}[huxley1]{/font}{/color}"
-    new "{color=#000000}{font=fonts/willfont.ttf}[huxley1!t]{/font}{/color}"
+    new "{color=#000000}{font=fonts/willfont2.ttf}[huxley1!t]{/font}{/color}"
 
     old "{color=#000000}{font=willfont.ttf}[huxley2]{/font}{/color}"
-    new "{color=#000000}{font=fonts/willfont.ttf}[huxley2!t]{/font}{/color}"
+    new "{color=#000000}{font=fonts/willfont2.ttf}[huxley2!t]{/font}{/color}"
 
     old "{color=#000000}{font=willfont.ttf}[huxley3]{/font}{/color}"
-    new "{color=#000000}{font=fonts/willfont.ttf}[huxley3!t]{/font}{/color}"
+    new "{color=#000000}{font=fonts/willfont2.ttf}[huxley3!t]{/font}{/color}"
 
     old "{color=#000000}{font=willfont.ttf}[jamestext]{/font}{/color}"
-    new "{color=#000000}{font=fonts/willfont.ttf}[jamestext!t]{/font}{/color}"
+    new "{color=#000000}{font=fonts/willfont2.ttf}[jamestext!t]{/font}{/color}"
 
     old "{color=#000000}{font=willfont.ttf}[changtext]{/font}{/color}"
-    new "{color=#000000}{font=fonts/willfont.ttf}[changtext!t]{/font}{/color}"
+    new "{color=#000000}{font=fonts/willfont2.ttf}[changtext!t]{/font}{/color}"
 
     old "{color=#000000}{font=willfont.ttf} Sam needs to sleep more. [cynthiatext]{/font}{/color}"
-    new "{color=#000000}{font=fonts/willfont.ttf}Sam需要更多睡眠。[cynthiatext!t]{/font}{/color}"
+    new "{color=#000000}{font=fonts/willfont2.ttf}Sam需要更多睡眠。[cynthiatext!t]{/font}{/color}"
 
     old "{color=#000000}{font=willfont.ttf}[harlantext]{/font}{/color}"
-    new "{color=#000000}{font=fonts/willfont.ttf}[harlantext!t]{/font}{/color}"
+    new "{color=#000000}{font=fonts/willfont2.ttf}[harlantext!t]{/font}{/color}"
 
     old "{color=#000000}{font=willfont.ttf}[etheltext]{/font}{/color}"
-    new "{color=#000000}{font=fonts/willfont.ttf}[etheltext!t]{/font}{/color}"
+    new "{color=#000000}{font=fonts/willfont2.ttf}[etheltext!t]{/font}{/color}"
 
     old "{color=#000000}{font=willfont.ttf}[huxley4]{/font}{/color}"
-    new "{color=#000000}{font=fonts/willfont.ttf}[huxley4!t]{/font}{/color}"
+    new "{color=#000000}{font=fonts/willfont2.ttf}[huxley4!t]{/font}{/color}"
 
     old "{color=#000000}{font=willfont.ttf}[gumtext]{/font}{/color}"
-    new "{color=#000000}{font=fonts/willfont.ttf}[gumtext!t]{/font}{/color}"
+    new "{color=#000000}{font=fonts/willfont2.ttf}[gumtext!t]{/font}{/color}"
 
     old "{color=#000000}{font=willfont.ttf}[kanetext]{/font}{/color}"
-    new "{color=#000000}{font=fonts/willfont.ttf}[kanetext!t]{/font}{/color}"
+    new "{color=#000000}{font=fonts/willfont2.ttf}[kanetext!t]{/font}{/color}"
 
     old "{color=#000000}{font=willfont.ttf}[filmtext]{/font}{/color}"
-    new "{color=#000000}{font=fonts/willfont.ttf}[filmtext!t]{/font}{/color}"
+    new "{color=#000000}{font=fonts/willfont2.ttf}[filmtext!t]{/font}{/color}"
 
     old "{color=#000000}{font=willfont.ttf}[jartext]{/font}{/color}"
-    new "{color=#000000}{font=fonts/willfont.ttf}[jartext!t]{/font}{/color}"
+    new "{color=#000000}{font=fonts/willfont2.ttf}[jartext!t]{/font}{/color}"
 
     old "{color=#000000}{font=willfont.ttf}[dolltext] [marcydolltext]{/font}{/color}"
-    new "{color=#000000}{font=fonts/willfont.ttf}[dolltext!t][marcydolltext!t]{/font}{/color}"
+    new "{color=#000000}{font=fonts/willfont2.ttf}[dolltext!t][marcydolltext!t]{/font}{/color}"
 
     old "{color=#000000}{font=willfont.ttf}[marcydolltext]{/font}{/color}"
-    new "{color=#000000}{font=fonts/willfont.ttf}[marcydolltext!t]{/font}{/color}"
+    new "{color=#000000}{font=fonts/willfont2.ttf}[marcydolltext!t]{/font}{/color}"
 
     old "{color=#000000}{font=willfont.ttf}[samtoddtext]{/font}{/color}"
-    new "{color=#000000}{font=fonts/willfont.ttf}[samtoddtext!t]{/font}{/color}"
+    new "{color=#000000}{font=fonts/willfont2.ttf}[samtoddtext!t]{/font}{/color}"
 
     old "{color=#000000}{font=willfont.ttf}[shroudtext]{/font}{/color}"
-    new "{color=#000000}{font=fonts/willfont.ttf}[shroudtext!t]{/font}{/color}"
+    new "{color=#000000}{font=fonts/willfont2.ttf}[shroudtext!t]{/font}{/color}"
 
     old "{color=#000000}{font=willfont.ttf}[murdochtext]{/font}{/color}"
-    new "{color=#000000}{font=fonts/willfont.ttf}[murdochtext!t]{/font}{/color}"
+    new "{color=#000000}{font=fonts/willfont2.ttf}[murdochtext!t]{/font}{/color}"
 
     old "{color=#000000}{font=willfont.ttf}Her eyes widen and I see the pushy attitude slip away.{/font}{/color}"
-    new "{color=#000000}{font=fonts/willfont.ttf}她睜大了眼睛，咄咄逼人的態度也消失不見了。{/font}{/color}"
+    new "{color=#000000}{font=fonts/willfont2.ttf}她睜大了眼睛，咄咄逼人的態度也消失不見了。{/font}{/color}"
 
     old "{color=#000000}{font=willfont.ttf}It looks like James wants to remove the power of Federal currency in Echo and replace it with CSCG redemption slips.{/font}{/color}"
-    new "{color=#000000}{font=fonts/willfont.ttf}看樣子，James有意削弱聯邦貨幣在回音鎮的價值，並用CSCG的抵扣劵取而代之。{/font}{/color}"
+    new "{color=#000000}{font=fonts/willfont2.ttf}看樣子，James有意削弱聯邦貨幣在回音鎮的價值，並用CSCG的抵扣劵取而代之。{/font}{/color}"
 
     old "{color=#000000}{font=willfont.ttf}[portraittext]{/font}{/color}"
-    new "{color=#000000}{font=fonts/willfont.ttf}[portraittext!t]{/font}{/color}"
+    new "{color=#000000}{font=fonts/willfont2.ttf}[portraittext!t]{/font}{/color}"
 
     old "{color=#000000}{font=willfont.ttf}[manortext]{/font}{/color}"
-    new "{color=#000000}{font=fonts/willfont.ttf}[manortext!t]{/font}{/color}"
+    new "{color=#000000}{font=fonts/willfont2.ttf}[manortext!t]{/font}{/color}"
 
     old "Made James bleed. Was funny."
     new "揍了James一頓，痛快。"

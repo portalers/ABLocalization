@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2023-03-19 20:06
-
-# game/cliffroute.rpy:8
+﻿# game/cliffroute.rpy:8
 translate Tchinese cliffroute_38b05af4:
 
     # "While the fox's wager is tempting, it's just that: a wager."

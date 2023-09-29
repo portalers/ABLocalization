@@ -18646,7 +18646,7 @@ translate Tchinese sny3_a74c56c5:
 
     # co "\"Well it’s the coldest location on our property, which really makes a difference for the ease of storage.\""
     co "\"“這是我們家最冷的區域了，溫度對儲藏的影響可是很大的。”\""
-
+    
 # TODO: Translation updated at 2023-08-29 15:28
 
 # game/nikroute3.rpy:6230
@@ -25871,19 +25871,19 @@ translate Tchinese sny4_8b08008a:
 translate Tchinese sny4_9952f638:
 
     # ya "\"Why waste surreption on a violent killer?\""
-    ya "我又何必在殺人兇手身上浪費功夫隱藏自己？"
+    ya "何必在暴力殺人犯身上浪費功夫？"
 
 # game/nikroute3.rpy:8885
 translate Tchinese sny4_22e11bc2:
 
     # ya "\"You are a force of nature.\""
-    ya "你就是股蠻力。"
+    ya "你是股來自大自然的力量。"
 
 # game/nikroute3.rpy:8886
 translate Tchinese sny4_dd7353d8:
 
     # ya "\"Only strength or will can break you.\""
-    ya "靠力量或意志就能擊垮你。"
+    ya "唯有力量或意志能擊垮你。"
 
 # game/nikroute3.rpy:8889
 translate Tchinese sny4_1aa9e9cd:
@@ -26141,7 +26141,7 @@ translate Tchinese sny4_386cd7fc_1:
 translate Tchinese sny4_bee04ce8:
 
     # no "\"DON’T LOOK DON’T STAY DON’T DANCE IN THE WEB.\""
-    no "{b}別看別待別在網中玩{/b}。"
+    no_TW "{b}別看別待別在網中玩{/b}。"
 
 # game/nikroute3.rpy:8982
 translate Tchinese sny4_fb3c3a1e:
@@ -26183,7 +26183,7 @@ translate Tchinese sny4_347b818b:
 translate Tchinese sny4_fec97169:
 
     # "To be continued..."
-    ""
+    "未完待續……"
 
 translate Tchinese strings:
 
@@ -26209,7 +26209,7 @@ translate Tchinese strings:
 
     # game/nikroute3.rpy:7339
     old "Who should I name instead[porterfirstchoice]"
-    new "我該把[porterfirstchoice]改成誰？"
+    new "我該改成誰？"
 
     # game/nikroute3.rpy:7507
     old "But I’m glad I pushed my doubts back."

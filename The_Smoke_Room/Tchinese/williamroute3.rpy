@@ -27443,7 +27443,7 @@ translate Tchinese strings:
     old "The trashbin."
     new "垃圾桶。"
 
-# TODO: Translation updated at 2023-07-25 16:41
+# TODO: Translation updated at 2023-09-29 22:00
 
 # game/williamroute3.rpy:7297
 translate Tchinese williamroute3b_0ee5a0bd:
@@ -27473,7 +27473,7 @@ translate Tchinese williamroute3b_5796bbef:
 translate Tchinese williamroute3b_016a3de5:
 
     # "It’s 6:22 here, so it’s 8:22 there."
-    "錶上顯示6:22，所以那裡是8:22。"
+    "錶上顯示8:22，所以現在是6:22。"
 
 # game/williamroute3.rpy:7635
 translate Tchinese williamroute3b_d9d42515:
@@ -27533,7 +27533,7 @@ translate Tchinese williamroute3b_2bb3604a:
 translate Tchinese williamroute3b_2ddc00fe:
 
     # jam "\"Enough of this--\""
-    jam "“別再胡言──”"
+    jam "“夠了——”"
 
 # game/williamroute3.rpy:7974
 translate Tchinese williamroute3b_9f6bfe35:
@@ -27599,7 +27599,7 @@ translate Tchinese willinvestigation2_f1c4a2c8:
 translate Tchinese willinvestigation2_c0b86249:
 
     # wi "\"Maybe in the city where we come from. In case you haven’t noticed, here it’s a bit of a luxury.\""
-    wi "“在我們的城市是這樣。但如果你還沒注意到的話，這東西在這可是奢侈品。”"
+    wi "“在我們的城市是這樣，但如果你還沒注意到的話，這東西在這可是奢侈品。”"
 
 # game/williamroute3.rpy:8476
 translate Tchinese willinvestigation2_9fd1a61a:
@@ -27665,7 +27665,7 @@ translate Tchinese willinvestigation3_2ee0758f:
 translate Tchinese willinvestigation3_e856a377:
 
     # ni "\"James showed this off at his party last Thursday.\""
-    ni "“James在上週四的派對上公開的。”"
+    ni "“他在上週四的派對上公開的。”"
 
 # game/williamroute3.rpy:8943
 translate Tchinese willinvestigation3_94232757:
@@ -27707,7 +27707,7 @@ translate Tchinese postwillinvestigation3_999bd77d:
 translate Tchinese postwillinvestigation3_51194722:
 
     # cy "\"Then how about you spying on all of us and using our private lives for who knows what seedy purpose.\""
-    cy "“那你監視我們、不知道把握我們私生活是想幹嘛，你又該如何解釋？”"
+    cy "“那你監視我們，不知道把握我們私生活是想幹嘛又該怎麼解釋？”"
 
 # game/williamroute3.rpy:9637
 translate Tchinese postwillinvestigation3_49732d56:
@@ -27726,3 +27726,4 @@ translate Tchinese postwillinvestigation3_5371688d:
 
     # cy "\"But if you’re going to keep stealing information from us then I’m not going to make it easy for you.\""
     cy "“但如果你妄想偷盜我們的情報，別以為我會輕易放過你。”"
+
