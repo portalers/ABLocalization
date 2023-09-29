@@ -3538,7 +3538,7 @@ translate Schinese williamroute_c60d6e33:
 translate Schinese williamroute_1059b3b9:
 
     # wi "\"Night, whore.\""
-    wi "“晚安，娼妓。”"
+    wi "“晚安，妓女。”"
 
 # game/williamroute.rpy:905
 translate Schinese williamroute_f1766aa9:

@@ -19207,3 +19207,144 @@ translate Schinese murdochroute3b_fec97169:
 
     # "To be continued..."
     "未完待续..."
+
+# TODO: Translation updated at 2023-09-29 21:55
+
+# game/murdochroute3.rpy:3356
+translate Schinese murdochroute3b_f90adc1c:
+
+    # "He grins, as if waiting for somebody to give him a saucy reply."
+    "他咧嘴一笑，像是在等人回嘴。"
+
+# game/murdochroute3.rpy:3659
+translate Schinese murdochroute3b_e6164a96:
+
+    # ji "\"To the guest house my friends are staying at.\""
+    ji "“去我朋友住的客栈。”"
+
+# game/murdochroute3.rpy:3987
+translate Schinese murdochroute3b_88017111:
+
+    # mu "\"I expect any experiments or demonstrations with light will result in something off given enough trials.\""
+    mu "“我猜只要是跟光有关的实验或操作，只要重复足够多次都会出问题。”"
+
+# game/murdochroute3.rpy:4105
+translate Schinese murdochroute3b_2683d858:
+
+    # m "\"We ain’t even had breakfast.\""
+    m "“连早饭都不吃了。”"
+
+# game/murdochroute3.rpy:4183
+translate Schinese murdochroute3b_b55f4050:
+
+    # "I scarf down the fried egg in three bites, leave the plate on the counter, and turn my back on him, headed toward the door."
+    "我两三口吞掉煎蛋，把盘子放在灶台上，然后背对着他朝门口走去。"
+
+# game/murdochroute3.rpy:4249
+translate Schinese murdochroute3b_361ce301:
+
+    # cig "\"Living here is an act of hubris.\""
+    cig "“只有不知天高地厚的人才会在这里扎根。”"
+
+# game/murdochroute3.rpy:4304
+translate Schinese murdochroute3b_f0ae7292:
+
+    # "I expect her to keep on going in the way that older folks tend to, but she stops, takes a hold of a chair, and coughs."
+    "我原以为她会像其他老人那样说个没完，但她不再多言，而是拄着椅子咳嗽。"
+
+# game/murdochroute3.rpy:4312
+translate Schinese murdochroute3b_8ccd7fdd:
+
+    # cig "\"And I have work to do before the church bells ring for my granddaughter.\""
+    cig "“更何况今天是我孙女大喜的日子，就更不能让他们插手了。”"
+
+# game/murdochroute3.rpy:4324
+translate Schinese murdochroute3b_10b0f780:
+
+    # cig "\"Much better than blackmail.\""
+    cig "“这比勒索好多了。”"
+
+# game/murdochroute3.rpy:4343
+translate Schinese murdochroute3b_ee705829:
+
+    # ci "\"The Rowans have always survived, so long as they support their own.\""
+    cig "“Rowan家能走到现在，靠的就是一家人不离不弃的牵绊。”"
+
+# game/murdochroute3.rpy:4632
+translate Schinese murdochroute3b_1a36d181:
+
+    # al "\"If you get down on your knees there might be be something under one of the tables.\""
+    al "“可能得跪下来看看桌子底下。”"
+
+# game/murdochroute3.rpy:4637
+translate Schinese murdochroute3b_1d646d8e:
+
+    # m "\"Just stand on the opposite end of the room to give me space and I’ll go for it.\""
+    m "“您先去房间另一边休息，这点事交给我就行。”"
+
+# game/murdochroute3.rpy:4716
+translate Schinese murdochroute3b_847b7c59:
+
+    # m "\"Mr. Byrnes, I found the silverware.\""
+    m "“Byrnes先生，我找到银餐具了。”"
+
+# game/murdochroute3.rpy:4960
+translate Schinese murdochroute3b_68e1b08f:
+
+    # m "\"Frankly I think He’d be less offended if we committed acts of obscenity.\""
+    m "“说真的，这可比淫亵之罪还要冒犯。”"
+
+# game/murdochroute3.rpy:5024
+translate Schinese murdochroute3b_15589d3e:
+
+    # ho "\"Write the amount you’d like me to pay you to quit today.\""
+    ho "“你尽管写，只要这能买你今天离场。”"
+
+# game/murdochroute3.rpy:5027
+translate Schinese murdochroute3b_91caee85:
+
+    # ho "\"I don’t have the time or the energy to be civil today so I’d to just like be done with this.\""
+    ho "“我现在既没有时间，也没精力用更文明的方式，只好先这样了。”"
+
+# game/murdochroute3.rpy:5377
+translate Schinese murdochroute3b_2b250d75:
+
+    # "This must be the first time I’ve felt an uncanny resemblance between her and her brother."
+    "这是我第一次觉得她跟她弟弟有相似的地方。"
+
+# game/murdochroute3.rpy:5710
+translate Schinese murdochroute3b_ffed0908:
+
+    # "Those people might tell you that there’s a chance of clouds."
+    "就说今天可能多云。"
+
+# game/murdochroute3.rpy:5711
+translate Schinese murdochroute3b_59f8a914:
+
+    # "They won’t commit too hard to a lie they told for being lazy which they don’t want to get caught in."
+    "他们不会在出于懒惰又不想被发现而撒的谎上下功夫。"
+
+# game/murdochroute3.rpy:5713
+translate Schinese murdochroute3b_9074e45f:
+
+    # "But if it’s wet outside, Melissa will be the one who tells you it’s raining."
+    "但如果外头湿了，会说下雨了的人就是Melissa。"
+
+# game/murdochroute3.rpy:5714
+translate Schinese murdochroute3b_5db21f77:
+
+    # "She knows there’s no way around that, that even if it might be sunny tomorrow, you still need an umbrella, now."
+    "她知道事情发生就是发生了，就算明天可能会放晴，当下依旧需要一把伞。"
+
+# game/murdochroute3.rpy:5833
+translate Schinese murdochroute3b_db4c39fd:
+
+    # bl "\"What the hell?\""
+    bl "“搞什么？”"
+
+# game/murdochroute3.rpy:5958
+translate Schinese murdochroute3b_655a611f:
+
+    # "Jim appears next and walks up the aisle by himself towards Gretchen."
+    "Jim接着现身，独自一人走向Gretchen。"
+

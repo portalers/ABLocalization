@@ -27445,13 +27445,13 @@ translate Schinese strings:
     # game/williamroute3.rpy:8904
     old "The trashbin."
     new "垃圾桶。"
-# TODO: Translation updated at 2023-07-30 21:53
+# TODO: Translation updated at 2023-09-29 21:55
 
 # game/williamroute3.rpy:7297
 translate Schinese williamroute3b_0ee5a0bd:
 
     # gr "\"Practically all of the women in the damn town knew it was going on.\""
-    gr "“这鬼地方的女人基本上都知道。”"
+    gr "“镇上的女人基本都知道。”"
 
 # game/williamroute3.rpy:7398
 translate Schinese williamroute3b_86d31f48:
@@ -27481,13 +27481,13 @@ translate Schinese williamroute3b_016a3de5:
 translate Schinese williamroute3b_d9d42515:
 
     # "The grand entrance of their foyer shows off a massive painting of an older Ram looking down at us."
-    "硕大的门厅里挂着幅巨大的画像，一只年长的公羊在画布上俯瞰着我们。"
+    "硕大的门厅里挂着一幅巨大的画像，一只年长的公羊在画布上俯视着我们。"
 
 # game/williamroute3.rpy:7673
 translate Schinese williamroute3b_b8650c99:
 
     # jam "\"He and a business partner scouted the wilderness for months before they struck gold at the first site, which would become the CSCG mining operation.\""
-    jam "“他跟他的合伙人在荒野里花了好几个月，才最终发现了金矿，即CSCG矿业公司的起点。”"
+    jam "“他跟他的合伙人花了好几个月，才在荒野中发现金矿，即CSCG矿业公司的起点。”"
 
 # game/williamroute3.rpy:7676
 translate Schinese williamroute3b_9eeb823b:
@@ -27511,7 +27511,7 @@ translate Schinese williamroute3b_9cf47ef5:
 translate Schinese williamroute3b_b3ad55f0:
 
     # jam "\"My grandfather grew up experiencing a country full of green hills with expanding ruins.\""
-    jam "“祖父在一个有着无数绿意盎然的山丘和战乱的国家长大。”"
+    jam "“祖父在一个有着无数绿意盎然的山丘和废墟的国家长大。”"
 
 # game/williamroute3.rpy:7910
 translate Schinese williamroute3b_c7b2ea62:
@@ -27529,7 +27529,7 @@ translate Schinese williamroute3b_6eb3e7fe:
 translate Schinese williamroute3b_2bb3604a:
 
     # wi "\"If I knew that’s what would have happened to us even after Big Momo got arrested, then maybe I could have ignored those suitcases.\""
-    wi "“早知道逮捕Big Momo会有这种下场，或许无视那些行李箱会比较好吧。”"
+    wi "“早知道逮捕Big Momo会有这种下场，或许无视那些行李箱比较好吧。”"
 
 # game/williamroute3.rpy:7965
 translate Schinese williamroute3b_2ddc00fe:
@@ -27547,19 +27547,19 @@ translate Schinese williamroute3b_9f6bfe35:
 translate Schinese williamroute3b_69c18680:
 
     # mrs "\"Please feel free to roam the house, and ask the staff what you like.\""
-    mrs "“请便吧，有什么需要的话吩咐侍从们就好。”"
+    mrs "“请便吧，有什么需要就跟侍从们说一声。”"
 
 # game/williamroute3.rpy:8142
 translate Schinese willinvestigation2_4bf7d645:
 
     # "Nik follows me to the foyer and keeps his voice low until we get a good distance away from the hall, and start to climb the stairs."
-    "Nik跟随我来到门厅，一路保持静默，直到我们远离大厅，爬上楼梯。"
+    "Nik跟随我来到门厅，一路保持静默，直到远离大厅，爬上楼梯。"
 
 # game/williamroute3.rpy:8176
 translate Schinese willinvestigation2_410c94ae:
 
     # "I inhale a bit of my own spit, then start coughing."
-    "我差点被自己的口水呛到，咳嗽不止。"
+    "我差点被自己的口水呛到。"
 
 # game/williamroute3.rpy:8257
 translate Schinese willinvestigation2_470b6237:
@@ -27571,13 +27571,13 @@ translate Schinese willinvestigation2_470b6237:
 translate Schinese willinvestigation2_03e19f92:
 
     # wi "\"Some buildings can have clockwork mechanisms to make doors passages useable at only certain times of day, or under certain conditions.\""
-    wi "“有些建筑配置了发条机关，使密道门只在特定的时间或条件下才能打开。”"
+    wi "“一些建筑配置了发条机关，使得有些门只在特定的时间或条件下才能打开。”"
 
 # game/williamroute3.rpy:8271
 translate Schinese willinvestigation2_ed48ce61:
 
     # wi "\"If they’re truthful about not understanding the house, which is yet to be proven, by the way, then a mechanism like that would have broken a long time ago.\""
-    wi "“若他们真的对这房子不熟悉，这机关早就坏了。顺便说一句，我还不知道他们是不是在撒谎。”"
+    wi "“若他们对这个房子不熟悉，这机关早就坏了。顺带一提，我还不知道他们是不是在撒谎。”"
 
 # game/williamroute3.rpy:8289
 translate Schinese willinvestigation2_ed5148bf:
@@ -27601,13 +27601,13 @@ translate Schinese willinvestigation2_f1c4a2c8:
 translate Schinese willinvestigation2_c0b86249:
 
     # wi "\"Maybe in the city where we come from. In case you haven’t noticed, here it’s a bit of a luxury.\""
-    wi "“在我们的城市是这样的，不过提醒你一句，这玩意在这儿可是奢侈品。”"
+    wi "“在我们的城市是这样，不过提醒你一句，这东西在这儿可是奢侈品。”"
 
 # game/williamroute3.rpy:8476
 translate Schinese willinvestigation2_9fd1a61a:
 
     # wi "\"And you still don’t know who put you in contact with Mr. Hendricks, or why he’d be interested in importing a cook?\""
-    wi "“Hendricks先生怎么找到你的，或者他为什么要从外地招厨师，你有头绪吗？”"
+    wi "“Hendricks先生怎么找到的你，或者他为什么要从外地招厨师，你有头绪吗？”"
 
 # game/williamroute3.rpy:8537
 translate Schinese willinvestigation2_24181828:
@@ -27619,7 +27619,7 @@ translate Schinese willinvestigation2_24181828:
 translate Schinese willinvestigation2_7d49df08:
 
     # "She opens one of the drawers and what I see shocks me."
-    "她拉开其中一个抽屉，我大为震惊。"
+    "她拉开其中一个抽屉，我顿时大为震惊。"
 
 # game/williamroute3.rpy:8650
 translate Schinese willinvestigation2_a9282691:
@@ -27631,13 +27631,13 @@ translate Schinese willinvestigation2_a9282691:
 translate Schinese willinvestigation2_602686ea:
 
     # mrs "\"It’s just instead of feeling a force that makes you float, you smell something.\""
-    wi "“不是让人飘浮，而是气味的海浪吗。”"
+    mrs "“但只是气味的海浪，不会让人飘浮。”"
 
 # game/williamroute3.rpy:8744
 translate Schinese willinvestigation2_4142f7b6:
 
     # noa "\"He said he’d tell me more stories about the army if I could get a hold of it.\""
-    noa "“他说如果我拿到枪，就给我讲更多军队里的故事。”"
+    noa "“他说如果我拿到枪，就给我讲更多军队的故事。”"
 
 # game/williamroute3.rpy:8789
 translate Schinese postwillinvestigation2_442c145a:
@@ -27661,7 +27661,7 @@ translate Schinese postwillinvestigation2_2a1facc8:
 translate Schinese willinvestigation3_2ee0758f:
 
     # wi "\"Are you saying that people know about this?\""
-    wi "“听你这么说，其他人已经知道这件事了？”"
+    wi "“其他人知道这件事吗？”"
 
 # game/williamroute3.rpy:8939
 translate Schinese willinvestigation3_e856a377:
@@ -27697,7 +27697,7 @@ translate Schinese postwillinvestigation3_a49479b9:
 translate Schinese postwillinvestigation3_adfb9237:
 
     # jam "\"Now if I’m not mistaken, that’s the third time I’ve heard the dinner bell go off.\""
-    jam "“如果我没有听错，这是晚餐铃第三次响了。”"
+    jam "“如果我没有听错，这是晚餐铃第三次响起了。”"
 
 # game/williamroute3.rpy:9297
 translate Schinese postwillinvestigation3_999bd77d:
@@ -27721,11 +27721,11 @@ translate Schinese postwillinvestigation3_49732d56:
 translate Schinese postwillinvestigation3_55eed457:
 
     # wi "\"He could easily contact anybody he wants, whenever he wants, just as easily as Dora.\""
-    wi "“他也和Dora一样，轻而易举就能联系任何他想联系的人。”"
+    wi "“他能像Dora一样，随时随地联系任何他想联系的人。”"
 
 # game/williamroute3.rpy:9705
 translate Schinese postwillinvestigation3_5371688d:
 
     # cy "\"But if you’re going to keep stealing information from us then I’m not going to make it easy for you.\""
-    cy "“但如果你还想对我们图谋不轨，别以为我会轻易放过你。”"
+    cy "“但如果你还妄图窃取我们的情报，别以为我会轻易放过你。”"
 

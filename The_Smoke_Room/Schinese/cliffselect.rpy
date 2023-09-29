@@ -66,7 +66,7 @@ translate Schinese strings:
     old "Why there's only enough local business for one store?"
     new "一家店能满足当地人的需求吗？"
 
-# TODO: Translation updated at 2023-07-30 21:53
+# TODO: Translation updated at 2023-09-29 21:55
 
 translate Schinese strings:
 

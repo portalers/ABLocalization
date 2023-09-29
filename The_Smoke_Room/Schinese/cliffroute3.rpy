@@ -10003,7 +10003,7 @@ translate Schinese cliffroute3a_1808ddd9:
 translate Schinese cliffroute3a_277b1f19:
 
     # av "“Well if it isn’t Mr. Tibbits’ bodyguard.”"
-    av "“你好啊，Tibbits先生的保镳。”"
+    av "“你好啊，Tibbits先生的保镖。”"
 
 # game/cliffroute3.rpy:3162
 translate Schinese cliffroute3a_6a20a80d:
@@ -10033,7 +10033,7 @@ translate Schinese cliffroute3a_92a0c521:
 translate Schinese cliffroute3a_967967e7:
 
     # av "“Bodyguarding’s a frightful business.”"
-    av "“保镳这行可是很危险的。”"
+    av "“保镖这行可是很危险的。”"
 
 # game/cliffroute3.rpy:3171
 translate Schinese cliffroute3a_a0659ed6:
@@ -10663,7 +10663,7 @@ translate Schinese cliffroute3a_de427fb1:
 translate Schinese cliffroute3a_4ebb4e7b:
 
     # av "“I’ll check up on your injuries before I leave, but I need to get back to Echo sooner rather than later.”"
-    av "“我不久后就要回去了，之前会再给你检查一遍伤口。”"
+    av "“我不久后就要返回回音了，届时会再给你检查一遍伤口。”"
 
 # game/cliffroute3.rpy:3498
 translate Schinese cliffroute3a_228dec93:
@@ -10675,7 +10675,7 @@ translate Schinese cliffroute3a_228dec93:
 translate Schinese cliffroute3a_d9dd8594:
 
     # av "“The Madam would be pretty cross with me if I she knew I ran into you and came back too beat up.”"
-    av "“要是被夫人发现你有我照顾还伤这么重，她绝饶不了我。”"
+    av "“要是被夫人知道你有我照顾还伤这么重，她绝饶不了我。”"
 
 # game/cliffroute3.rpy:3503
 translate Schinese cliffroute3a_9bd8482b:
@@ -11503,7 +11503,7 @@ translate Schinese cliffroute3a_fe989e77:
 translate Schinese cliffroute3a_fe8594ce:
 
     # m "“I’m not really a body guard.”"
-    m "“我不擅长当保镳。”"
+    m "“我不擅长当保镖。”"
 
 # game/cliffroute3.rpy:3754
 translate Schinese cliffroute3a_dadeffbf:
@@ -16051,8 +16051,7 @@ translate Schinese strings:
 
     # game/cliffroute3.rpy:4404
     old "Stop him."
-    new "阻止他。"
-# TODO: Translation updated at 2023-07-30 21:53
+    new "阻止他。"# TODO: Translation updated at 2023-09-29 21:55
 
 # game/cliffroute3.rpy:372
 translate Schinese murdochtent_44665f95:
@@ -16076,13 +16075,13 @@ translate Schinese cliffroute3a_6ef57ba9:
 translate Schinese cliffroute3a_4602a407:
 
     # "All I want to do now was focus on finishing my breakfast."
-    "我只想专心把早餐吃完。"
+    "我专心把早餐吃完。"
 
 # game/cliffroute3.rpy:3297
 translate Schinese cliffroute3a_628efbb6:
 
     # "It’s good, but the pain in my jaw and chest makes it hard to swallow anything at first."
-    "味道不错，但下巴和胸口的疼痛害我难以下咽。"
+    "味道不错，但下巴和胸口的疼痛令我难以下咽。"
 
 # game/cliffroute3.rpy:3409
 translate Schinese cliffroute3a_6d8eb23d:
@@ -16094,13 +16093,13 @@ translate Schinese cliffroute3a_6d8eb23d:
 translate Schinese cliffroute3a_9b5d6a52:
 
     # av "“The Madam would be pretty cross with me if she knew I ran into you and you came back too beat up.”"
-    av "“要是被夫人发现你有我照顾还伤这么重，她绝饶不了我。”"
+    av "“要是被夫人知道你有我照顾还伤这么重，她绝饶不了我。”"
 
 # game/cliffroute3.rpy:3663
 translate Schinese cliffroute3a_1becb91a:
 
     # m "“You’ve already done more than enough.”"
-    m "“你已经为我做够多了。”"
+    m "“你为我做得够多了。”"
 
 # game/cliffroute3.rpy:3754
 translate Schinese cliffroute3a_10ba9ae5:
@@ -16118,7 +16117,7 @@ translate Schinese cliffroute3a_a6d16be5:
 translate Schinese cliffroute3a_9379cbe5:
 
     # extend " but he’s out the door before I can muster up a call deep enough to hear."
-    extend "但不等我开口，他就已经踏出了房门。"
+    extend "但不等我开口，他就已经踏出房门了。"
 
 # game/cliffroute3.rpy:3790
 translate Schinese cliffroute3a_3d4881e7:
@@ -16130,7 +16129,7 @@ translate Schinese cliffroute3a_3d4881e7:
 translate Schinese cliffroute3a_8c5abd96:
 
     # m "“You threatening me?”"
-    m "“你在威胁我？”"
+    m "“你威胁我？”"
 
 # game/cliffroute3.rpy:3821
 translate Schinese cliffroute3a_cf85e95d:
@@ -16142,25 +16141,25 @@ translate Schinese cliffroute3a_cf85e95d:
 translate Schinese cliffroute3a_16feceec:
 
     # m "“I’m not really a bodyguard.”"
-    m "“我不擅长当保镳。”"
+    m "“其实我并不是保镖。”"
 
 # game/cliffroute3.rpy:3969
 translate Schinese cliffroute3a_a1eda39a:
 
     # "The beatific joy, and the good-natured laughter, and the colors borrowed from the good earth itself were not something my Grandfather, nor all the scholars of Europa could begin to dream of."
-    "这洋溢的幸福，真诚的欢笑，以及美好大地所滋生出的勃勃生机，远超我的祖父或任何欧洲学者的想象。"
+    "这洋溢的幸福、真诚的欢笑，以及美好大地所滋生出的勃勃生机，远超我的祖父或任何欧洲学者的想象。"
 
 # game/cliffroute3.rpy:3977
 translate Schinese cliffroute3a_a6c9dd54:
 
     # "The big, humble bear smiles at me as we walk."
-    "憨厚的熊微笑着看了过来。"
+    "憨厚的大熊微笑着看了过来。"
 
 # game/cliffroute3.rpy:4025
 translate Schinese cliffroute3a_9f61c75b:
 
     # "The bear smiles and scratches the back of his head."
-    "熊笑着清了清嗓子。"
+    "熊笑着挠了挠后脑勺。"
 
 # game/cliffroute3.rpy:4096
 translate Schinese cliffroute3a_c8b916ad:
@@ -16172,7 +16171,7 @@ translate Schinese cliffroute3a_c8b916ad:
 translate Schinese cliffroute3a_d01f2367:
 
     # ca "“They live in harmony, communicating with one another to serve their queen, bringing life and treasure to all of God’s creatures.”"
-    ca "“它们以服侍女王这一共同目标互相交流，和谐生活，为主所造的生灵带来生计和财富。”"
+    ca "“它们以服侍女王这一共同目标而互相交流、和谐生活，为主所造的生灵带来生命和财富。”"
 
 # game/cliffroute3.rpy:4333
 translate Schinese cliffroute3a_9e534590:
@@ -16208,13 +16207,13 @@ translate Schinese cliffchoice5_c2fb99ab:
 translate Schinese cliffchoice5_447d23b9:
 
     # ca "“What were the two of these men talking about, Mr. van Houwelinck?”"
-    ca "“他们两个人都说了些什么，van Houwelinck先生？”"
+    ca "“他们两个人都说了什么，van Houwelinck先生？”"
 
 # game/cliffroute3.rpy:4893
 translate Schinese cliffchoice5_b54be0cc:
 
     # ca "“People have been talking terribly about you for a long time before I ever met you. I can see now, right before me, that they are exonerated in their honesty.”"
-    ca "“在见到你之前，我就听到大家对你颇有微词，现在经此一面，我可以断定他们确实所言非虚。”"
+    ca "“大家总是对你颇有微词，现在经此一面，我可以断定他们确实所言非虚。”"
 
 # game/cliffroute3.rpy:4905
 translate Schinese cliffchoice5_54b28dc2:

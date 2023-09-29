@@ -610,7 +610,7 @@ translate Schinese commonroute_9c9bc2fe:
 translate Schinese commonroute_c7fc53b2:
 
     # "The streetwalkers stand in alleys and doorways, waiting for any of the drunk men wandering the streets to notice them."
-    "娼妓们站在小巷与门口，等待着被在街上游荡的醉汉们注意到。"
+    "妓女们站在小巷与门口，等待着被在街上游荡的醉汉们注意到。"
 
 # game/commonroute.rpy:139
 translate Schinese commonroute_73f8e77f:
@@ -2056,7 +2056,7 @@ translate Schinese commonroute_61a4f3a4:
 translate Schinese commonroute_07dc2e70:
 
     # "If I get caught like this...the men here won't need much more of a reason to hang a whore like me."
-    "如果被这样抓到...这里的男人们就无需更多理由来吊死一个我这样的娼妓了。"
+    "如果被这样抓到...这里的男人们就无需更多理由来吊死一个我这样的妓女了。"
 
 # game/commonroute.rpy:402
 translate Schinese commonroute_35e61270:
@@ -3292,7 +3292,7 @@ translate Schinese commonroute_a466862b:
 translate Schinese commonroute_c87f13c5:
 
     # "I’m a queer whore, without a family or friends, in the middle of the dirty frontier. God DAMN it."
-    "我是这肮脏的边境地带中，一个没有家人与朋友的同性恋、娼妓，妈的。"
+    "我是这肮脏的边境地带中，一个没有家人与朋友的同性恋、妓女，妈的。"
 
 # game/commonroute.rpy:691
 translate Schinese commonroute_5cc1918d:
@@ -5631,13 +5631,13 @@ translate Schinese commonroute_4ac421d1:
 translate Schinese commonroute_01ae3993:
 
     # m "\"I’m a whore, not a spy, William.\""
-    m "“我是个娼妓，不是间谍，William。”"
+    m "“我是个妓女，不是间谍，William。”"
 
 # game/commonroute.rpy:1231
 translate Schinese commonroute_acf6cd19:
 
     # wi "\"Any smart whore is a spy. Smart whores live longer. Especially if the law is in their favor.\""
-    wi "“任何聪明的娼妓都是间谍。聪明的娼妓们活得更久，尤其是在法律对他们有利的情况下。”"
+    wi "“任何聪明的妓女都是间谍。聪明的妓女们活得更久，尤其是在法律对他们有利的情况下。”"
 
 # game/commonroute.rpy:1232
 translate Schinese commonroute_277439dc:
@@ -5907,7 +5907,7 @@ translate Schinese commonroute_bd82cb4f:
 translate Schinese commonroute_c03f30dc:
 
     # "And nothing humbles you more as a whore than a space guaranteed to give you no interested prospective clients."
-    "而且一个娼妓，要在这里发掘对你没有兴趣的潜在客户，这不是太卑微了吗。"
+    "而且一个妓女，要在这里发掘对你没有兴趣的潜在客户，这不是太卑微了吗。"
 
 # game/commonroute.rpy:1307
 translate Schinese commonroute_83d4f8b5:

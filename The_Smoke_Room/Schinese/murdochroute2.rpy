@@ -106,7 +106,7 @@ translate Schinese murdochroute2_c9eb02ed:
 translate Schinese murdochroute2_6cda80cd:
 
     # "I'm startin' to think that the sex in a whore's line of work ain't the thing that bothers me."
-    "我开始觉得，在娼妓这一行，困扰我的并不是性。"
+    "我开始觉得，在妓女这一行，困扰我的并不是性。"
 
 # game/murdochroute2.rpy:31
 translate Schinese murdochroute2_98778b7e:
@@ -124,7 +124,7 @@ translate Schinese murdochroute2_f4abe835:
 translate Schinese murdochroute2_f861a84f:
 
     # "I know I can't whore forever, but I don't think I could be just a shopkeep for the rest of my life."
-    "我知道娼妓不是长久之计，但也不认为自己下半辈子会只满足于当一名店员。"
+    "我知道妓女不是长久之计，但也不认为自己下半辈子会只满足于当一名店员。"
 
 # game/murdochroute2.rpy:34
 translate Schinese murdochroute2_39884775:
@@ -3154,13 +3154,13 @@ translate Schinese murdochroute2_036bdf1a:
 translate Schinese murdochroute2_494a74b4:
 
     # no_CN "\"I've seen the you, real you, real you.\""
-    no_CN "“我已经看过你了，真实的你，真实的你。”"
+    no_CN "“我已经看过你了，真实的你。”"
 
 # game/murdochroute2.rpy:953
 translate Schinese murdochroute2_8753e3ac:
 
     # no_CN "\"...no higher cause... an empty vessel.\""
-    no_CN "“...没有更高的思想...一个空洞的容器。”"
+    no_CN "“...得过且过...空洞的容器。”"
 
 # game/murdochroute2.rpy:954
 translate Schinese murdochroute2_57ec3c6d:
@@ -3172,25 +3172,25 @@ translate Schinese murdochroute2_57ec3c6d:
 translate Schinese murdochroute2_66c4228f:
 
     # "I cover my ears to stop the noise, but it doesn't work."
-    "我捂住自己的耳朵，但喧嚣没有终止。"
+    "我捂住自己的耳朵，但喧嚣没有停止。"
 
 # game/murdochroute2.rpy:956
 translate Schinese murdochroute2_7032f55c:
 
     # no_CN "\"A bloated body ...sustained in sloth.\""
-    no_CN "“臃肿的身体...在懒惰中浮沉。”"
+    no_CN "“因懒惰...而臃肿的身体。”"
 
 # game/murdochroute2.rpy:957
 translate Schinese murdochroute2_cd682d7c:
 
     # no_CN "\"...damnation reeks...clings...\""
-    no_CN "“...诅咒的气味...挥之不去...”"
+    no_CN "“...散发着...诅咒的恶臭...”"
 
 # game/murdochroute2.rpy:971
 translate Schinese murdochroute2_ad65b13b:
 
     # no_CN "\"... I will sprout in your dying skin.\""
-    no_CN "“...我将在你垂死的皮肤上抽芽。”"
+    no_CN "“...我会在你垂死的皮肤上抽芽。”"
 
 # game/murdochroute2.rpy:959
 translate Schinese murdochroute2_d42762ac:
@@ -3214,7 +3214,7 @@ translate Schinese murdochroute2_bdb17727:
 translate Schinese murdochroute2_7339fa46:
 
     # no_CN "\"...dragging ...stuffed with my bounty.\""
-    no_CN "“...拖走...塞满我的赏赐。”"
+    no_CN "“...里面塞满我的赏赐。”"
 
 # game/murdochroute2.rpy:966
 translate Schinese murdochroute2_be14164d:
@@ -3232,7 +3232,7 @@ translate Schinese murdochroute2_da14a4fc:
 translate Schinese murdochroute2_485c0c67:
 
     # no_CN "\"This one smells the rot on you.\""
-    no_CN "“这个人闻到了你腐败的气味。”"
+    no_CN "“那个人闻到了你的堕落。”"
 
 # game/murdochroute2.rpy:969
 translate Schinese murdochroute2_81d1c604:
@@ -3244,7 +3244,7 @@ translate Schinese murdochroute2_81d1c604:
 translate Schinese murdochroute2_f68cf17a:
 
     # no_CN "\"He will burn you alive to enrich his fields.\""
-    no_CN "“他会将你活活烧死，充实他的牧场。”"
+    no_CN "“他要把你活活烧死，充实他的牧场。”"
 
 # game/murdochroute2.rpy:971
 translate Schinese murdochroute2_657bf833:
@@ -3268,19 +3268,19 @@ translate Schinese murdochroute2_8974e906:
 translate Schinese murdochroute2_d46fbbe0:
 
     # no_CN "\"}...no sex, no food, no laughter in death... just sand... just clay... just oblivion and mud...\""
-    no_CN "“...没有性，没有食物，没有死亡的欢笑...只有沙子...只有黏土...只有遗忘与泥泞。”"
+    no_CN "“...没有性，没有食物，没有欢笑的死亡...只有沙子...只有黏土...只有遗忘与泥泞。”"
 
 # game/murdochroute2.rpy:975
 translate Schinese murdochroute2_b1f0478d:
 
     # "Tears flow from my eyes as I sink to the ground."
-    "我沉没到了地上，泪水夺眶而出。"
+    "我瘫倒在地，泪水夺眶而出。"
 
 # game/murdochroute2.rpy:976
 translate Schinese murdochroute2_cc5b861c:
 
     # no_CN "\"...every memory will unspool... every touch you feel will numb.\""
-    no_CN "“...所有的记忆都将消失...你的每一次触摸都将麻木。”"
+    no_CN "“...每一段刻骨铭心的记忆都被唤醒...无悲无喜的行尸走肉。”"
 
 # game/murdochroute2.rpy:977
 translate Schinese murdochroute2_a3094fbe:
@@ -8410,13 +8410,13 @@ translate Schinese murdochroute2_72d2339d:
 translate Schinese murdochroute2_fdcfd18e_1:
 
     # m "\"Why?\""
-    m "“哦？”"
+    m "“呦。”"
 
 # game/murdochroute2.rpy:2315
 translate Schinese murdochroute2_9e41ed50:
 
     # m "\"Afraid you'd like it too?\""
-    m "“你这不是挺喜欢的吗？”"
+    m "“你这不是也喜欢吗？”"
 
 # game/murdochroute2.rpy:2316
 translate Schinese murdochroute2_37ce674a:
@@ -8428,7 +8428,7 @@ translate Schinese murdochroute2_37ce674a:
 translate Schinese murdochroute2_d4b3f530:
 
     # ra "\"You've seen my teeth, haven't you?\""
-    ra "“你是不是忘了我的牙齿有多尖？”"
+    ra "“你见过我的牙齿，不记得了么？”"
 
 # game/murdochroute2.rpy:2318
 translate Schinese murdochroute2_73fbe980:
@@ -9388,7 +9388,7 @@ translate Schinese murdochroute2_57464c52:
 translate Schinese murdochroute2_d7b40bb4:
 
     # m "\"Lots of people fall in love with their whores.\""
-    m "“很多人会爱上自己的娼妓。”"
+    m "“很多人会爱上自己的妓女。”"
 
 # game/murdochroute2.rpy:2531
 translate Schinese murdochroute2_a3f9b673:
@@ -9418,7 +9418,7 @@ translate Schinese murdochroute2_99dcd978:
 translate Schinese murdochroute2_31bce3ee:
 
     # ra "\"But even if you planned on whoring forever...\""
-    ra "“但要是你打算当一辈子娼妓...”"
+    ra "“但要是你打算当一辈子妓女...”"
 
 # game/murdochroute2.rpy:2538
 translate Schinese murdochroute2_d723a7f4:
@@ -17530,7 +17530,7 @@ translate Schinese murdochroute2_45be6fc0:
 translate Schinese murdochroute2_873aaa30:
 
     # m "\"You really want to see nothing, you should check out Payton.\""
-    m "“真要说一穷二白，你该瞧瞧{rb}沛顿镇{/rb}{rt}Payton{/rt}才对。”"
+    m "“真要说一穷二白，你该瞧瞧{rb}佩顿镇{/rb}{rt}Payton{/rt}才对。”"
 
 # game/murdochroute2.rpy:5023
 translate Schinese murdochroute2_8d4b3fe1:
@@ -18220,7 +18220,7 @@ translate Schinese murdochroute2_ab95728f:
 translate Schinese murdochroute2_a6e0d997:
 
     # mu "\"Common fantasy for a sad man to have about a prostitute, is it not?\""
-    mu "“可悲的男人常对他们的娼妓抱有幻想，是吧？”"
+    mu "“可悲的男人常对他们的妓女抱有幻想，是吧？”"
 
 # game/murdochroute2.rpy:5157
 translate Schinese murdochroute2_06cf3fcb:
@@ -22192,7 +22192,7 @@ translate Schinese muc0_3dd3a4b1:
 translate Schinese muc0_d28af590:
 
     # mu "\"I have 100 ml of strong developing solution poured from a jar.\""
-    mu "“倒出100毫升。”"
+    mu "“取100毫升。”"
 
 # game/murdochroute2.rpy:6381
 translate Schinese muc0_e62b9b96:
@@ -27250,13 +27250,13 @@ translate Schinese mdq2_ac076247:
 translate Schinese mdq2_60e99c65:
 
     # no2_CN "\"Because I know what I like.\""
-    no2_CN "“因为这地方满是──”"
+    no2_CN "“因为这地方满是-”"
 
 # game/murdochroute2.rpy:7785
 translate Schinese mdq2_fb409104:
 
     # no2_CN "\"And it’s absolutely leaking everywhere.\""
-    no2_CN "“──我喜欢的东西。”"
+    no2_CN "“-我喜欢的东西。”"
 
 # game/murdochroute2.rpy:7786
 translate Schinese mdq2_fd8bbab6:
@@ -28573,51 +28573,51 @@ translate Schinese strings:
     old "500?"
     new "500？"
 
-# TODO: Translation updated at 2023-07-30 21:53
+# TODO: Translation updated at 2023-09-29 21:55
 
 # game/murdochroute2.rpy:465
 translate Schinese murdochroute2_0e3b12ad:
 
     # ho "\"Working one of our longest days of the year on your second day isn't the best of luck.\""
-    ho "“工作才第二天，就遇上了一年中最繁忙的日子，真是不走运啊。”"
+    ho "“才第二天，就遇上了一年中最繁忙的日子，真是不走运啊。”"
 
-# game/murdochroute2.rpy:1834
+# game/murdochroute2.rpy:1835
 translate Schinese murdochroute2_7048fda8:
 
     # "Ralph looks all around him and lifts his head to the rock ceiling."
-    "Ralph看了眼四周，然后抬头望向岩顶。"
+    "Ralph看了圈四周，然后抬头望向岩顶。"
 
-# game/murdochroute2.rpy:2231
+# game/murdochroute2.rpy:2232
 translate Schinese murdochroute2_a2252bcb:
 
     # "So I tug on Murdoch's sleeve, and he gives me a sly kind of smile."
     "于是我抓住Murdoch的衣袖，他回以一抹狡诈的笑容。"
 
-# game/murdochroute2.rpy:2326
+# game/murdochroute2.rpy:2327
 translate Schinese murdochroute2_bbd4795f:
 
     # m "\"I'm sure you'd learn to be careful.\""
     m "“相信你会学会小心的。”"
 
-# game/murdochroute2.rpy:4233
+# game/murdochroute2.rpy:4236
 translate Schinese murdochroute2_efc84888:
 
     # "Murdoch sits on the empty chair closest to the fire, leaving me the couch with his father or the other empty chair that places the fiance between us."
     "Murdoch坐在离火炉最近的椅子上，把他父亲的沙发，或另一把空椅子留给了我。"
 
-# game/murdochroute2.rpy:4428
+# game/murdochroute2.rpy:4431
 translate Schinese murdochroute2_1a16c8fb:
 
     # gr "\"I’m proud to say that hiring you was one of the best things my son has done in months.\""
     gr "“我可以自豪地说，雇佣了你是我儿子这几个月来最值得称道的行为。”"
 
-# game/murdochroute2.rpy:4662
+# game/murdochroute2.rpy:4665
 translate Schinese murdochroute2_6251d9cf:
 
     # ji "\"What kind of groom would I be if I didn’t treat my own ushers to the best part of this ceremony?\""
     ji "“没有让伴郎们享受到婚礼最精彩的部分，那我还算哪门子新郎？”"
 
-# game/murdochroute2.rpy:6904
+# game/murdochroute2.rpy:6907
 translate Schinese mdq2_4d886868:
 
     # cy "\"Go get dressed, I’ll be in your room in a bit.\""

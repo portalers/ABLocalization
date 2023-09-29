@@ -25544,3 +25544,77 @@ translate Schinese nikroute2_fba08962:
     # jam "\"Mr Ayers. One of our current troubles is that Nicholas is one of our best workers! But I fear he’s run away with some wild ideas.\""
     jam "“Nicholas称得上是这里最优秀的员工，Ayers先生！我们眼下的其中一个问题便是，我怕他会带着一些疯狂的想法跑掉。”"
 
+# TODO: Translation updated at 2023-09-29 21:55
+
+# game/nikroute2.rpy:1174
+translate Schinese nikroute2_1117c5ff:
+
+    # jam "\"You’re close with the immigrant Nicholas King, yes?\""
+    jam "“你和移民Nicholas King的关系十分亲密，对吗？”"
+
+# game/nikroute2.rpy:3760
+translate Schinese sny1_6601a4b7:
+
+    # naunk "\"I can’t understand what he’s saying either.\""
+    naunk "“我也听不懂他在说什么。”"
+
+# game/nikroute2.rpy:3764
+translate Schinese sny1_d66b039b:
+
+    # nabj "\"But I can probably guess.\""
+    nabj "“不过大概猜得出来。”"
+
+# game/nikroute2.rpy:3767
+translate Schinese sny1_4ea7069c:
+
+    # nabj "\"Your friend takes up most of the tunnel.\""
+    nabj "“你的朋友几乎把隧道全占住了。”"
+
+# game/nikroute2.rpy:3782
+translate Schinese sny1_0dac77f6:
+
+    # nabj "\"Barely.\""
+    nabj "“太窄了。”"
+
+# game/nikroute2.rpy:3789
+translate Schinese sny1_ca952744:
+
+    # nabj "\"Everybody down here has things to do.\""
+    nabj "“这里人人都有事忙。”"
+
+# game/nikroute2.rpy:3792
+translate Schinese sny1_76ff20b1:
+
+    # nabj "\"Might be hell of a lot easier if your foreign friend ate less.\""
+    nabj "“也许你的外国朋友应该少吃点，为了大家伙儿方便。”"
+
+# game/nikroute2.rpy:3797
+translate Schinese sny1_0be624db:
+
+    # "...Blessed be His name."
+    "...祂的名是应当称颂的。"
+
+# game/nikroute2.rpy:3798
+translate Schinese sny1_f5fea4c1:
+
+    # nabj "\"You slow or somethin’?\""
+    nabj "“你不服气啊？”"
+
+# game/nikroute2.rpy:3806
+translate Schinese sny1_38d9017b:
+
+    # nabj "\"Hey, what’s this?\""
+    nabj "“嘿，这是啥？”"
+
+# game/nikroute2.rpy:3812
+translate Schinese sny1_614d9592:
+
+    # nabj "\"This looks like a fire hazard!\""
+    nabj "“看起来有火灾隐患！”"
+
+# game/nikroute2.rpy:3815
+translate Schinese sny1_bdeb1ad6:
+
+    # nabj "\"I think foreman Moore should have a look at this--\""
+    nabj "“有必要让Moore工头过目-”"
+

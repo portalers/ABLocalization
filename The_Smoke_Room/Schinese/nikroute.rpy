@@ -772,7 +772,7 @@ translate Schinese nikroute_1a87fd8e:
 translate Schinese nikroute_1485d4ec:
 
     # cl "\"A prostitute?\""
-    cl "“一位娼妓？”"
+    cl "“一位妓女？”"
 
 # game/nikroute.rpy:175
 translate Schinese nikroute_e0ae3018:
@@ -2002,7 +2002,7 @@ translate Schinese nikroute_117418ce:
 translate Schinese nikroute_802962f0:
 
     # "No one would lie down with a murdering whore."
-    "没有人想和一个杀过人的娼妓上床。"
+    "没有人想和一个杀过人的妓女上床。"
 
 # game/nikroute.rpy:433
 translate Schinese nikroute_1136152f:
@@ -4924,7 +4924,7 @@ translate Schinese nikroute_08aa27cc:
 translate Schinese nikroute_0b793833:
 
     # m "\"Which just moves you on to the shittier town that is Payton.\""
-    m "“这只会去到一个更烂的镇子，沛顿镇。”"
+    m "“这只会去到一个更烂的镇子，佩顿镇。”"
 
 # game/nikroute.rpy:1063
 translate Schinese nikroute_fe36c126:
