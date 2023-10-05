@@ -8,11 +8,11 @@ translate Tchinese strings:
 
     # game/cliffselect.rpy:19
     old "Yes."
-    new "是。"
+    new "有。"
 
     # game/cliffselect.rpy:19
     old "No."
-    new "否。"
+    new "沒有。"
 
     # game/cliffselect.rpy:38
     old "When Murdoch asked for an honest conversation after the attack in the woods, did you agree?"
