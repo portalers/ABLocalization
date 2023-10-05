@@ -151,51 +151,33 @@ translate Tchinese strings:
     old "The staff at the hip turned a saloon in the middle of nowhere into a world-famous attraction."
     new "Hip從無名之地的酒吧發展成家喻戶曉的景點，其員工功不可沒。"
 
-    # game/script.rpy:1908
-    old ".."
-    new "…"
-
-    # game/script.rpy:1918
     old "The body was in a ditch."
     new "屍體之前在陰溝裡。"
 
-    # game/script.rpy:1919
     old "Tutti-frutti."
     new "綜合水果口味。"
 
-    # game/script.rpy:1920
     old "Do I feel like making a mistake? Maybe."
     new "我這麼做是錯的嗎？或許吧。"
 
-    # game/script.rpy:1921
     old "This looks like one of the film rolls Murdoch's used before."
     new "看起來像Murdoch用過的膠捲。"
 
-    # game/script.rpy:1922
     old "One of these flowers is definitely mugwart."
     new "我很肯定這些草中有一種是艾草。"
 
-    # game/script.rpy:1923
     old "A doll in the basement."
     new "地下室裡有個娃娃。"
 
-    # game/script.rpy:1924
-    old "..."
-    new "……"
-
-    # game/script.rpy:1925
     old "Slick, fellahs..."
-    new "事後騷話巧舌如簧啊，兄弟們……"
+    new "巧舌如簧啊，兄弟們……"
 
-    # game/script.rpy:1926
     old "Her grandma's shroud was in the bed... I have a pretty good idea of what we'd find if we opened it."
-    new "床上是她奶奶的裹屍布……不難想像裡面是什麼。"
+    new "床上是她祖母的裹屍布……不難想像裡面是什麼。"
 
-    # game/script.rpy:1927
     old "It's probably nothing."
     new "也許是我想多了。"
 
-    # game/williamroute3.rpy:6953
     old "It used to belong to Marcy's sister."
     new "它曾經屬於Marcy的姐妹。"
 
