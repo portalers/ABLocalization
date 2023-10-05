@@ -99,7 +99,7 @@ translate Tchinese strings:
 
     # game/williamroute3.rpy:3129
     old "Harlan gets into fights with James? He usually keeps things professional."
-    new "Harlan和James打架？他很有職業操守的啊。"
+    new "Harlan和James起爭執？他很有職業操守的啊。"
 
     # game/williamroute3.rpy:3866
     old "Maybe Cynthia does too."
@@ -210,3 +210,12 @@ translate Tchinese strings:
 
     old "The Hendricks house has hollow walls that the owners claim not to understand, entirely. The painting at the top of the stairs in the foyer has hinges."
     new "James家裡有一堵空心的牆，他們聲稱自己毫不知情。門廳的樓梯頂部掛著一副裝有鉸鏈的畫。"
+
+    old "Names. Addresses. Companions. I could probably track down half the city with all of this information."
+    new "名字、地址、同伴。光有這些資訊，就足以讓我掌握城裡大半人的行蹤。"
+
+    old "The mafia uses these pictures as intimidating messeages. Nobody wants to wake up to these in their mail. I imagine Chang Fulin didn't, whoever he is."
+    new "黑手黨用把這些圖樣當成恐嚇訊息。沒人想一大早就在郵筒裡看到這些東西。這個叫Chang Fulin的人大概也差不多。"
+
+    old "We could hear him down the hallway. But at least I know now that Harlan asked for the wine delivery."
+    new "在走廊上都聽得一清二楚。好歹我是知道酒是Harlan訂的了。"

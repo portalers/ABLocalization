@@ -26218,3 +26218,221 @@ translate Tchinese strings:
     # game/nikroute3.rpy:7507
     old "But he still can’t be trusted."
     new "但他還是信不得。"
+# TODO: Translation updated at 2023-10-01 19:12
+
+# game/nikroute3.rpy:19
+translate Tchinese nikroute3_424fdce8:
+
+    # ya "\"I do not trip.\""
+    ya ""
+
+# game/nikroute3.rpy:31
+translate Tchinese nikroute3_283cd2e8:
+
+    # ya "\"I do not think I have ever heard you scream that loud.\""
+    ya ""
+
+# game/nikroute3.rpy:138
+translate Tchinese nikroute3_ba8e21e0:
+
+    # ya "\"I did not.\""
+    ya ""
+
+# game/nikroute3.rpy:194
+translate Tchinese nikroute3_2dbdcaf4:
+
+    # ya "\"They would talk about tree roots that could devour people whole.\""
+    ya ""
+
+# game/nikroute3.rpy:207
+translate Tchinese nikroute3_2e8891bf:
+
+    # ya "\"That is exactly what superstitious people say.\""
+    ya ""
+
+# game/nikroute3.rpy:290
+translate Tchinese nikroute3_4b0ec6ba:
+
+    # ya "\"We will take what we need.\""
+    ya ""
+
+# game/nikroute3.rpy:293
+translate Tchinese nikroute3_cfe04643:
+
+    # ya "\"We cannot be greedy.\""
+    ya ""
+
+# game/nikroute3.rpy:423
+translate Tchinese nikroute3_43e98e80:
+
+    # ya "\"He will not be able to organize us the way he does now.\""
+    ya ""
+
+# game/nikroute3.rpy:550
+translate Tchinese nikroute3_aa4805cb:
+
+    # ya "\"Then let us hope they do not escalate.\""
+    ya ""
+
+# game/nikroute3.rpy:827
+translate Tchinese nikroute3_dca040f6:
+
+    # "He touches my shoulder."
+    ""
+
+# game/nikroute3.rpy:1024
+translate Tchinese nikroute3_c2abbe0d:
+
+    # m "\"Well yeah, but it’s not the same thing as robbery.\""
+    m ""
+
+# game/nikroute3.rpy:1400
+translate Tchinese sny2_0f4d6932:
+
+    # "And then I felt very full."
+    ""
+
+# game/nikroute3.rpy:1836
+translate Tchinese sny2_c9601406:
+
+    # "I’m not exactly a people person Dora, but I’ll do my best."
+    ""
+
+# game/nikroute3.rpy:4993
+translate Tchinese nikroute3a_0f43e86f:
+
+    # ya "\"There is always something somewhere, is there not?\""
+    ya ""
+
+# game/nikroute3.rpy:4997
+translate Tchinese nikroute3a_3f8b99ad:
+
+    # ya "\"Is that not something they say in your faith, Samuel?\""
+    ya ""
+
+# game/nikroute3.rpy:5042
+translate Tchinese nikroute3a_3d1ce1b3:
+
+    # ya "\"But you know it is all ending soon.\""
+    ya ""
+
+# game/nikroute3.rpy:5057
+translate Tchinese nikroute3a_6df43b44:
+
+    # ya "\"He has made the calls.\""
+    ya ""
+
+# game/nikroute3.rpy:5064
+translate Tchinese nikroute3a_d3240eaf:
+
+    # ya "\"The ones that we will use to protect ourselves if we do not get out on time.\""
+    ya ""
+
+# game/nikroute3.rpy:5082
+translate Tchinese nikroute3a_d09db123:
+
+    # ya "\"There are things I do not want to leave behind too.\""
+    ya ""
+
+# game/nikroute3.rpy:6274
+translate Tchinese nikroute3b_6e7d0232:
+
+    # "If nobody were here, I'd be looking for a weapon bulging from his shoe or his pockets."
+    ""
+
+# game/nikroute3.rpy:6337
+translate Tchinese nikroute3b_57a75a61:
+
+    # ben "\"Whoa whoa whoa, it’s the boss who’s holdin’ it! Not me!\""
+    ben ""
+
+# game/nikroute3.rpy:6380
+translate Tchinese nikroute3b_cb91a1f5:
+
+    # "His walk turns into a jog as the gap between us grows {nw}"
+    ""
+
+# game/nikroute3.rpy:6661
+translate Tchinese nikroute3b_2ed9ccb6:
+
+    # br "\"Because it’s pretty apparent that the gas canister runs two inches thicker than our standard hats.\""
+    br ""
+
+# game/nikroute3.rpy:6862
+translate Tchinese nikroute3b_71d620f9:
+
+    # "He hesitates before walking up."
+    ""
+
+# game/nikroute3.rpy:7170
+translate Tchinese nikroute3b_2cb7f33e:
+
+    # "I look around to see signs of where Nik might've gone off too."
+    ""
+
+# game/nikroute3.rpy:7209
+translate Tchinese nikroute3b_00280e61:
+
+    # m "\"Just a quick delivery I need to make before we meet up with Yao again.\""
+    m ""
+
+# game/nikroute3.rpy:7301
+translate Tchinese nikroute3b_4bea27f1:
+
+    # "His brow lifts as he looks me over, his eyes focused on the envelope that I carry."
+    ""
+
+# game/nikroute3.rpy:7455
+translate Tchinese sellcomp2b_e582c229:
+
+    # "He let out a sudden squeal and puckers his lips, letting the air puff out."
+    ""
+
+# game/nikroute3.rpy:7509
+translate Tchinese sellcomp2b_7c7d1f14:
+
+    # "Then again, he doesn’t seem like the kind of person who struggles to find a way that works for him through life."
+    ""
+
+# game/nikroute3.rpy:7605
+translate Tchinese sny4_ab133aa7:
+
+    # m "\"If it weren’t for you I wouldn’t have known the right way to run when...\""
+    m ""
+
+# game/nikroute3.rpy:7746
+translate Tchinese sny4_281a9ecc:
+
+    # ya "\"Do you both remember the way in and out?\""
+    ya ""
+
+# game/nikroute3.rpy:7847
+translate Tchinese sny4_27cf6733:
+
+    # "I’m too busy trying to catch my breath before I can respond."
+    ""
+
+# game/nikroute3.rpy:8252
+translate Tchinese sny4_1f7e587d:
+
+    # "If there’s anybody who could find a way out of here, it’s him."
+    ""
+
+# game/nikroute3.rpy:8737
+translate Tchinese sny4_ad068c44:
+
+    # ben "\"Unless, of course, you’re the one getting killed.\""
+    ben ""
+
+# game/nikroute3.rpy:8755
+translate Tchinese sny4_290145b8:
+
+    # "We both stare at it."
+    ""
+
+# game/nikroute3.rpy:8978
+translate Tchinese sny4_344f6779:
+
+    # extend " then notices, and turns to see what we’re looking at,{nw}"
+    extend ""
+

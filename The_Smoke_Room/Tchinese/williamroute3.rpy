@@ -16749,7 +16749,7 @@ translate Tchinese williamroute3a_ed83abc8:
 translate Tchinese williamroute3a_57c2166d:
 
     # kaunk "\"Afternoon, lawman.\""
-    kaunk "“午安，警長。”"
+    kaunk "“午安，治安官。”"
 
 # game/williamroute3.rpy:6155
 translate Tchinese williamroute3a_2801d97d:
@@ -16965,7 +16965,7 @@ translate Tchinese williamroute3a_ab6665f2:
 translate Tchinese williamroute3a_5da0db5d:
 
     # ka "\"I’ve helped plenty of lawmen in the course of my career.\""
-    ka "“在我的職業生涯中，我幫助過很多執法者。”"
+    ka "“在我的職業生涯中，我幫助過很多執法人員。”"
 
 # game/williamroute3.rpy:6225
 translate Tchinese williamroute3a_11c3e0fe:
@@ -27727,3 +27727,11452 @@ translate Tchinese postwillinvestigation3_5371688d:
     # cy "\"But if you’re going to keep stealing information from us then I’m not going to make it easy for you.\""
     cy "“但如果你妄想偷盜我們的情報，別以為我會輕易放過你。”"
 
+# TODO: Translation updated at 2023-10-01 19:12
+
+# game/williamroute3.rpy:9723
+translate Tchinese williamroute3c_75733479:
+
+    # wi "\"Mr. Houwelinck...\""
+    wi "Houwelinck先生……"
+
+# game/williamroute3.rpy:9725
+translate Tchinese williamroute3c_b4615630:
+
+    # "He clears his voice."
+    "他清清嗓子。"
+
+# game/williamroute3.rpy:9727
+translate Tchinese williamroute3c_1c3f6cbf:
+
+    # cl "\"Mr. Tibbits, if you please.\""
+    cl "請叫我Tibbits先生吧。"
+
+# game/williamroute3.rpy:9729
+translate Tchinese williamroute3c_a9994fdf:
+
+    # wi "\"Mr Tibbits...\""
+    wi "Tibbits先生……"
+
+# game/williamroute3.rpy:9731
+translate Tchinese williamroute3c_db4c2398:
+
+    # wi "\"I’m working as quickly as I can to apprehend the instigator behind your assault.\""
+    wi "我正盡全速追查試圖襲擊你的幕後黑手。"
+
+# game/williamroute3.rpy:9732
+translate Tchinese williamroute3c_0240dff4:
+
+    # cl "\"If this is your quick work then I certainly don’t want to see your slow work.\""
+    cl "就這還算你快，那我可一點都不想看到你慢下來的樣子。"
+
+# game/williamroute3.rpy:9735
+translate Tchinese williamroute3c_2e18c50f:
+
+    # "I look down and rub my temples."
+    "我垂下視線，揉了揉太陽穴。"
+
+# game/williamroute3.rpy:9736
+translate Tchinese williamroute3c_7ffa4d6f:
+
+    # "But then I notice a very yellow, very gauzy piece of fabric sticking out of the stoat’s pocket."
+    "卻發現了鼬的口袋冒出了條鮮黃的絲綢布。"
+
+# game/williamroute3.rpy:9737
+translate Tchinese williamroute3c_142b606d:
+
+    # wi "\"One of the girls give you that?\""
+    wi "那是其中一位姑娘送你的？"
+
+# game/williamroute3.rpy:9739
+translate Tchinese williamroute3c_7dd9503e:
+
+    # cl "\"Oh, yes.\""
+    cl "哦，對啊。"
+
+# game/williamroute3.rpy:9740
+translate Tchinese williamroute3c_5b3ca48b:
+
+    # cl "\"Miss Ethel?\""
+    cl "是叫Ethel小姐來著？"
+
+# game/williamroute3.rpy:9742
+translate Tchinese williamroute3c_853d5bd4:
+
+    # cl "\"She’s very kind.\""
+    cl "她人可好了。"
+
+# game/williamroute3.rpy:9744
+translate Tchinese williamroute3c_4490c6b2:
+
+    # "No she isn’t."
+    "她才不好。"
+
+# game/williamroute3.rpy:9745
+translate Tchinese williamroute3c_ac50d4f1:
+
+    # wi "\"Did you book her?\""
+    wi "你有約她嗎？"
+
+# game/williamroute3.rpy:9747
+translate Tchinese williamroute3c_b8351cfb:
+
+    # cl "\"Oh, I feel so indulgent letting you know.\""
+    cl "唉，我就大發慈悲告訴你吧。"
+
+# game/williamroute3.rpy:9749
+translate Tchinese williamroute3c_389fad35:
+
+    # cl "\"But yes!\""
+    cl "我是約了！"
+
+# game/williamroute3.rpy:9750
+translate Tchinese williamroute3c_9376103a:
+
+    # cl "\"And it won’t be my first time either.\""
+    cl "我也不是第一次做這種事了。"
+
+# game/williamroute3.rpy:9752
+translate Tchinese williamroute3c_80430e78:
+
+    # cl "\"I wanted to make sure it was well before our night adventure, just in case I’ll be having a go more than once today.\""
+    cl "我只是想確保這離我們今晚的冒險很早，指不定我今天會上陣兩次呢。"
+
+# game/williamroute3.rpy:9754
+translate Tchinese williamroute3c_a0ccec29:
+
+    # wi "\"Could you find out one thing for me?\""
+    wi "你能幫我問件事嗎？"
+
+# game/williamroute3.rpy:9756
+translate Tchinese williamroute3c_5055cfab:
+
+    # cl "\"Is it something naughty Mr. Adler?\""
+    cl "是什麼情色的事嗎，Adler先生？"
+
+# game/williamroute3.rpy:9757
+translate Tchinese williamroute3c_5ff76c5b:
+
+    # "The beginning of that migraine is creepin' closer."
+    "我偏頭痛又快犯了。"
+
+# game/williamroute3.rpy:9759
+translate Tchinese williamroute3c_ddb72999:
+
+    # wi "\"Ok, I’m just going to tell you what I need now.\""
+    wi "行了，我直接告訴你我想要什麼。"
+
+# game/williamroute3.rpy:9760
+translate Tchinese williamroute3c_cbd49546:
+
+    # "I show him the note."
+    "我把明細給他看。"
+
+# game/williamroute3.rpy:9762
+translate Tchinese williamroute3c_14399f0b:
+
+    # wi "\"I just you to confirm who she delivered wine to yesterday.\""
+    wi "我想知道她昨天把酒送給誰。"
+
+# game/williamroute3.rpy:9763
+translate Tchinese williamroute3c_5f6f9941:
+
+    # wi "\"I want to know who wrote this note.\""
+    wi "想知道這明細是誰寫的。"
+
+# game/williamroute3.rpy:9764
+translate Tchinese williamroute3c_ce3b4d0b:
+
+    # cl "\"Well, I doubt that would make for the best pillow talk, but I’ll see what I can do.\""
+    cl "嗯，可能不太適合在枕邊談，但我會試試。"
+
+# game/williamroute3.rpy:9765
+translate Tchinese williamroute3c_3f739ce1:
+
+    # "I sigh."
+    "我嘆了口氣"
+
+# game/williamroute3.rpy:9766
+translate Tchinese williamroute3c_8b3fa542:
+
+    # wi "\"{i}lAll{/i} I want to know about is the wine delivery.\""
+    wi "我{i}只不過是{/i}想知道送酒的事。"
+
+# game/williamroute3.rpy:9769
+translate Tchinese williamroute3c_a3a5ddca:
+
+    # wi "\"I’ll let you know if I think of anything, Mr. Tibbits.\""
+    wi "要是有什麼進展，我會讓你知道的，Tibbits先生。"
+
+# game/williamroute3.rpy:9771
+translate Tchinese williamroute3c_30990156:
+
+    # "He waves his paw dismissively."
+    "他不屑地揮手示意。"
+
+# game/williamroute3.rpy:9772
+translate Tchinese williamroute3c_70623ef3:
+
+    # cl "\"Well, don’t let me distract you.\""
+    cl "別太在意我了。"
+
+# game/williamroute3.rpy:9774
+translate Tchinese williamroute3c_6674b254:
+
+    # wi "\"Easier said than done.\""
+    wi "說得倒容易。"
+
+# game/williamroute3.rpy:9777
+translate Tchinese williamroute3c_d9675ed0:
+
+    # "He opens his mouth again, but gets interrupted by the door opening."
+    "他又開了口，但門被打開，打斷了他。"
+
+# game/williamroute3.rpy:9782
+translate Tchinese williamroute3c_4be95c48:
+
+    # "It’s just Sam again."
+    "只是Sam回來了。"
+
+# game/williamroute3.rpy:9784
+translate Tchinese williamroute3c_e259a43c:
+
+    # m "\"I couldn’t hear any shouting from the hall, so I took that as a good sign.\""
+    m "我在大廳沒聽見你們有什麼動靜，想說應該挺好的。"
+
+# game/williamroute3.rpy:9786
+translate Tchinese williamroute3c_85259f80:
+
+    # "When Sam sees Mr. Tibbits, he has the look like he walked in on a picture show of himself plastered on the wall."
+    "Sam一看見Tibbits先生，就一臉好像撞見了一整面牆上都是自己的照片秀的表情。"
+
+# game/williamroute3.rpy:9788
+translate Tchinese williamroute3c_a1626773:
+
+    # cl "\"Oh, why if it isn’t Samuel!\""
+    cl "哦，這可不是Samuel嘛！"
+
+# game/williamroute3.rpy:9790
+translate Tchinese williamroute3c_2d6ee573:
+
+    # m "\"Oh.\""
+    m "哦。"
+
+# game/williamroute3.rpy:9793
+translate Tchinese williamroute3c_09438b80:
+
+    # m "\"Well if it isn’t...\""
+    m "這可不是……"
+
+# game/williamroute3.rpy:9797
+translate Tchinese williamroute3c_e2bbe3ea:
+
+    # m "\"Mr., ah...\""
+    m "呃……"
+
+# game/williamroute3.rpy:9799
+translate Tchinese williamroute3c_4ea0e7b2:
+
+    # "The room is so quiet I can hear the piano in the saloon playing through the walls."
+    "整間房陷入寂靜，連酒館內透過牆壁傳來的鋼琴聲都聽得見。"
+
+# game/williamroute3.rpy:9801
+translate Tchinese williamroute3c_434e8fa3:
+
+    # cl "\"Tibbits.\""
+    cl "Tibbits。"
+
+# game/williamroute3.rpy:9803
+translate Tchinese williamroute3c_9d3eaacc:
+
+    # m "\"Right.\""
+    m "喔對。"
+
+# game/williamroute3.rpy:9806
+translate Tchinese williamroute3c_96c48d19:
+
+    # m "\"Sorry.\""
+    m "不好意思。"
+
+# game/williamroute3.rpy:9809
+translate Tchinese williamroute3c_a364862a:
+
+    # m "\"It’s been a long day for me.\""
+    m "我今天太忙了。"
+
+# game/williamroute3.rpy:9815
+translate Tchinese williamroute3c_809acb3f:
+
+    # cy "\"It’s been a long day for all of us.\""
+    cy "我們大家都忙。"
+
+# game/williamroute3.rpy:9817
+translate Tchinese williamroute3c_924d93e6:
+
+    # wi "\"Still ain’t over.\""
+    wi "今天可還沒結束呢。"
+
+# game/williamroute3.rpy:9818
+translate Tchinese williamroute3c_287823fb:
+
+    # "The wave of fatigue rolling its way through my body is starting to give me the jitters."
+    "疲倦感漸漸襲來，讓我不太自在。"
+
+# game/williamroute3.rpy:9819
+translate Tchinese williamroute3c_280fb616:
+
+    # "I could really use a smoke right now."
+    "真想抽根菸。"
+
+# game/williamroute3.rpy:9820
+translate Tchinese williamroute3c_32bb7728:
+
+    # "Sam looks from my face to hers."
+    "Sam先後看向我跟她的臉。"
+
+# game/williamroute3.rpy:9821
+translate Tchinese williamroute3c_f4506b9a:
+
+    # "Looks like he’s putting together that we ain’t done talking."
+    "好像看出我們還沒談完的樣子。"
+
+# game/williamroute3.rpy:9824
+translate Tchinese williamroute3c_f5259e08:
+
+    # m "\"Good news, Tibbits.\""
+    m "好消息，Tibbits。"
+
+# game/williamroute3.rpy:9826
+translate Tchinese williamroute3c_61d00e42:
+
+    # cl "\"Huh?\""
+    cl "啊？"
+
+# game/williamroute3.rpy:9828
+translate Tchinese williamroute3c_d8a1a56f:
+
+    # m "\"Tonight’s your lucky day.\""
+    m "今天你撞大運了。"
+
+# game/williamroute3.rpy:9831
+translate Tchinese williamroute3c_4b604cd7:
+
+    # m "\"Why don’t we get to know each other a little more down at the bar?\""
+    m "要不去咱們酒吧熟悉一下彼此吧？"
+
+# game/williamroute3.rpy:9834
+translate Tchinese williamroute3c_d77725dc:
+
+    # cl "\"The bar?!\""
+    cl "酒吧！？"
+
+# game/williamroute3.rpy:9836
+translate Tchinese williamroute3c_a9a84b94:
+
+    # cl "\"That didn’t go so hotly the first time.\""
+    cl "第一次那時候可慘了。"
+
+# game/williamroute3.rpy:9838
+translate Tchinese williamroute3c_5f158b17:
+
+    # m "\"Just relax and don’t do anything to stand out.\""
+    m "放鬆點，別太惹人注目就行。"
+
+# game/williamroute3.rpy:9841
+translate Tchinese williamroute3c_c268a846:
+
+    # "He opens the door and beckons the weasel outside."
+    "他打開門，示意鼬出去。"
+
+# game/williamroute3.rpy:9843
+translate Tchinese williamroute3c_c80ac325:
+
+    # m "\"I’ll even buy you a drink.\""
+    m "我還能請你喝一杯呢。"
+
+# game/williamroute3.rpy:9846
+translate Tchinese williamroute3c_dfc937c9:
+
+    # cl "\"A drink?!\""
+    cl "請我一杯！？"
+
+# game/williamroute3.rpy:9848
+translate Tchinese williamroute3c_61a61757:
+
+    # m "\"A {i}cheap{/i}l one.\""
+    m "一杯{i}便宜的{/i}。"
+
+# game/williamroute3.rpy:9851
+translate Tchinese williamroute3c_8f453023:
+
+    # cl "\"Well if money’s the issue, then {i}I’ll{/i} buy the drink.\""
+    cl "要是問題出在錢上，那{i}我來{/i}出。"
+
+# game/williamroute3.rpy:9853
+translate Tchinese williamroute3c_3197c2ff:
+
+    # "He wags his pointer digit."
+    "他搖搖食指。"
+
+# game/williamroute3.rpy:9854
+translate Tchinese williamroute3c_bd2262c1:
+
+    # cl "\"There’s no need to be frugal if the alternative is swill.\""
+    cl "要是得犧牲太多樂趣，還不如別節儉呢。"
+
+# game/williamroute3.rpy:9857
+translate Tchinese williamroute3c_c6639b1b:
+
+    # "Sam gives me a look like I owe him more than a few favors as he{nw}"
+    "Sam給我一臉我欠他不少人情的表情{nw}"
+
+# game/williamroute3.rpy:9861
+translate Tchinese williamroute3c_e24d29b9:
+
+    # extend " steps out of the door."
+    extend "踏出房門。"
+
+# game/williamroute3.rpy:9864
+translate Tchinese williamroute3c_39275626:
+
+    # wi "\"Listen miss Tsosie\""
+    wi "Tsosie小姐妳聽好，"
+
+# game/williamroute3.rpy:9865
+translate Tchinese williamroute3c_5d5af9d7:
+
+    # wi "\"I know that you don't trust me.\""
+    wi "我是知道妳不信任我。"
+
+# game/williamroute3.rpy:9866
+translate Tchinese williamroute3c_088344a4:
+
+    # wi "\"Frankly, I understand why.\""
+    wi "我大概也理解箇中緣由。"
+
+# game/williamroute3.rpy:9867
+translate Tchinese williamroute3c_7f6a68a0:
+
+    # wi "\"But if there's anybody you're willing to talk about, just to let me know about anything wrong or suspicious here at Saguaro's Hip that seems like it's out of your hands...\""
+    wi "但若是在這間Saguaro's Hip酒館內發生了什麼不妙或可疑的事，而妳無能為力，願意跟我商量的話……"
+
+# game/williamroute3.rpy:9868
+translate Tchinese williamroute3c_715b41e5:
+
+    # wi "\"Whoever or whateve that might be, just know you can pass the burden of it onto me.\""
+    wi "不管內容是什麼，妳只要知道能把那些重擔傳給我就行了。"
+
+# game/williamroute3.rpy:9869
+translate Tchinese williamroute3c_344a4ffb:
+
+    # cy "\"Well, let me think.\""
+    cy "那好，讓我想想。"
+
+# game/williamroute3.rpy:9870
+translate Tchinese williamroute3c_7bbf2e67:
+
+    # "She bends down to brush a piece of dust off her skirt and crosses her legs."
+    "她彎腰把裙上塵埃拍掉，雙腿交叉。"
+
+# game/williamroute3.rpy:9871
+translate Tchinese williamroute3c_8a912233:
+
+    # cy "\"You and I both know you know more than enough about the girls.\""
+    cy "我跟你都知道，你對我們這些姑娘知道得太多了。"
+
+# game/williamroute3.rpy:9872
+translate Tchinese williamroute3c_00e08e60:
+
+    # "I lean against the wall, balancing on the back of my foot."
+    "我靠在牆上，用後腿平衡重心。"
+
+# game/williamroute3.rpy:9873
+translate Tchinese williamroute3c_044c36d7:
+
+    # "I try not to let my blood pressure rise."
+    "盡可能不讓自己高血壓。"
+
+# game/williamroute3.rpy:9874
+translate Tchinese williamroute3c_ee82f160:
+
+    # wi "\"Was that you messing with my papers?\""
+    wi "是妳動了我的文件？"
+
+# game/williamroute3.rpy:9876
+translate Tchinese williamroute3c_fdaeffba:
+
+    # cy "\"Gonna lock me up?\""
+    cy "要把我關起來嗎？"
+
+# game/williamroute3.rpy:9877
+translate Tchinese williamroute3c_e1f55a33:
+
+    # wi "\"I could.\""
+    wi "我是可以。"
+
+# game/williamroute3.rpy:9879
+translate Tchinese williamroute3c_fa314b1a:
+
+    # "She crosses her arms."
+    "她雙手抱胸。"
+
+# game/williamroute3.rpy:9880
+translate Tchinese williamroute3c_e9e816ee:
+
+    # cy "\"So do it then.\""
+    cy "那就來啊。"
+
+# game/williamroute3.rpy:9881
+translate Tchinese williamroute3c_ccc88096:
+
+    # "If I arrest her, the other girls would know."
+    "要是逮捕她，其他姑娘也會知情。"
+
+# game/williamroute3.rpy:9882
+translate Tchinese williamroute3c_89d4a9d4:
+
+    # "That would spread to the Madame, and I wouldn't be welcome here anymore."
+    "夫人自然會知道，我也就不再受這裡待見了。"
+
+# game/williamroute3.rpy:9883
+translate Tchinese williamroute3c_0be2aab9:
+
+    # "We both know this."
+    "這點我倆都心知肚明。"
+
+# game/williamroute3.rpy:9884
+translate Tchinese williamroute3c_b097d4d5:
+
+    # "She's seeing how far she can press the envelope..."
+    "她在試探我的底線……"
+
+# game/williamroute3.rpy:9885
+translate Tchinese williamroute3c_0162ad2c:
+
+    # wi "\"But we both know I'm not gonna do that.\""
+    wi "但咱倆都知道，我不會動手的。"
+
+# game/williamroute3.rpy:9886
+translate Tchinese williamroute3c_60481e00:
+
+    # wi "\"Just help me out here.\""
+    wi "妳就幫我個忙吧。"
+
+# game/williamroute3.rpy:9888
+translate Tchinese williamroute3c_17ff9388:
+
+    # "She looks away and squints."
+    "她別開眼神，瞇起雙眼。"
+
+# game/williamroute3.rpy:9890
+translate Tchinese williamroute3c_2ea9cc46:
+
+    # "Then she looks back to me."
+    "然後轉回看我。"
+
+# game/williamroute3.rpy:9891
+translate Tchinese williamroute3c_67457a3f:
+
+    # cy "\"Maybe there's one way we can help each other out.\""
+    cy "有件事我們或許能互相幫忙。"
+
+# game/williamroute3.rpy:9892
+translate Tchinese williamroute3c_606062e9:
+
+    # wi "\"Oh yeah?\""
+    wi "什麼事？"
+
+# game/williamroute3.rpy:9895
+translate Tchinese williamroute3c_83a3ba32:
+
+    # cy "\"I think there's something wrong with the barkeep.\""
+    cy "我覺得那個酒保有點問題。"
+
+# game/williamroute3.rpy:9896
+translate Tchinese williamroute3c_5336a50d:
+
+    # cy "\"Harlan Perkins.\""
+    cy "Harlan Perkins。"
+
+# game/williamroute3.rpy:9897
+translate Tchinese williamroute3c_e44bd680:
+
+    # cy "\"He works just fine with most of the other staff, so nobody else really has a problem with the guy.\""
+    cy "大多數員工都跟他處得還行，所以沒人覺得他有什麼不妥。"
+
+# game/williamroute3.rpy:9899
+translate Tchinese williamroute3c_1b070409:
+
+    # cy "\"But I just know there is.\""
+    cy "但我就是知道。"
+
+# game/williamroute3.rpy:9900
+translate Tchinese williamroute3c_822831c4:
+
+    # "I nod and cross my arms."
+    "我點頭，雙手抱胸。"
+
+# game/williamroute3.rpy:9901
+translate Tchinese williamroute3c_b417cb49:
+
+    # wi "\"And how do you know?\""
+    wi "妳怎麼知道的？"
+
+# game/williamroute3.rpy:9902
+translate Tchinese williamroute3c_517e7cee:
+
+    # cy "\"Well there's a few things.\""
+    cy "有好幾點原因。"
+
+# game/williamroute3.rpy:9903
+translate Tchinese williamroute3c_95b1723a:
+
+    # cy "\"But mostly there's these little mannerisms he has.\""
+    cy "但最主要還是他那微妙的風格主義。"
+
+# game/williamroute3.rpy:9904
+translate Tchinese williamroute3c_285cba40:
+
+    # cy "\"I work a lot of shifts with him so I get to see how he interacts plenty.\""
+    cy "我常跟他一起排班，見了不少他跟人打交道的方式。"
+
+# game/williamroute3.rpy:9906
+translate Tchinese williamroute3c_a3c4f089:
+
+    # cy "\"And let me tell you, there's a lot of rage there.\""
+    cy "我告訴你，他滿肚子火。"
+
+# game/williamroute3.rpy:9907
+translate Tchinese williamroute3c_14a24b75:
+
+    # cy "\"A lot of malice.\""
+    cy "惡意滿滿。"
+
+# game/williamroute3.rpy:9909
+translate Tchinese williamroute3c_bf508e7e:
+
+    # cy "\"He hides it well, but not so well enough from me.\""
+    cy "他是藏得很深，但對我來說可不夠深。"
+
+# game/williamroute3.rpy:9911
+translate Tchinese williamroute3c_6894e3de:
+
+    # cy "\"I can read it on his face.\""
+    cy "我從他臉色就看得出來。"
+
+# game/williamroute3.rpy:9912
+translate Tchinese williamroute3c_49f1c487:
+
+    # wi "\"So why are you suddenly so willing to talk about him specifically?\""
+    wi "妳怎麼突然就願意談這麼多他的事？"
+
+# game/williamroute3.rpy:9913
+translate Tchinese williamroute3c_a70b0170:
+
+    # cy "\"Well he’s not exactly family.\""
+    cy "他又不算我家人。"
+
+# game/williamroute3.rpy:9914
+translate Tchinese williamroute3c_e98a7c55:
+
+    # wi "\"So certain people at the brothel are family to you?\""
+    wi "這話表示娼館有些人算是妳家人？"
+
+# game/williamroute3.rpy:9915
+translate Tchinese williamroute3c_c8347a81:
+
+    # cy "\"Well, all of the workers really.\""
+    cy "這個嘛，基本上所有員工吧。"
+
+# game/williamroute3.rpy:9916
+translate Tchinese williamroute3c_d47654c6:
+
+    # cy "\"Even the ones who are rough around the edges.\""
+    cy "就算那幾個特別難相處的也一樣。"
+
+# game/williamroute3.rpy:9918
+translate Tchinese williamroute3c_61fab71f:
+
+    # wi "\"Like Sam?\""
+    wi "比如Sam嗎？"
+
+# game/williamroute3.rpy:9920
+translate Tchinese williamroute3c_7247c033:
+
+    # cy "\"Well of course Sam.\""
+    cy "Sam當然是了。"
+
+# game/williamroute3.rpy:9922
+translate Tchinese williamroute3c_27a9ee04:
+
+    # cy "\"But also the ones who won’t approach first timers.\""
+    cy "但還有那些不接生客的。"
+
+# game/williamroute3.rpy:9924
+translate Tchinese williamroute3c_0054f3b1:
+
+    # cy "\"And the ones who don’t want to be here but really have nowhere else to go.\""
+    cy "跟那些不想待在這但也無處可去的。"
+
+# game/williamroute3.rpy:9925
+translate Tchinese williamroute3c_9fbe977c:
+
+    # wi "\"It’s a tough life.\""
+    wi "你們生活不好過啊。"
+
+# game/williamroute3.rpy:9927
+translate Tchinese williamroute3c_989efc3e:
+
+    # cy "\"Being married sounds tougher.\""
+    cy "結婚感覺更難過吧。"
+
+# game/williamroute3.rpy:9928
+translate Tchinese williamroute3c_14b4a051:
+
+    # cy "\"Didn’t work out so well for you, did it?\""
+    cy "你不就是活生生的例子嗎？"
+
+# game/williamroute3.rpy:9929
+translate Tchinese williamroute3c_1c85ce69:
+
+    # "I crack a smile."
+    "我揚起笑容。"
+
+# game/williamroute3.rpy:9930
+translate Tchinese williamroute3c_846e867d:
+
+    # wi "\"No.\""
+    wi "就是呀。"
+
+# game/williamroute3.rpy:9931
+translate Tchinese williamroute3c_5e80a9a5:
+
+    # wi "\"No, it sure didn’t.\""
+    wi "血淋淋的例子。"
+
+# game/williamroute3.rpy:9933
+translate Tchinese williamroute3c_59a9cf61:
+
+    # "She laughs too."
+    "她也笑了。"
+
+# game/williamroute3.rpy:9934
+translate Tchinese williamroute3c_1025be55:
+
+    # "Quietly."
+    "小小聲地。"
+
+# game/williamroute3.rpy:9936
+translate Tchinese williamroute3c_0d9fc186:
+
+    # cy "\"Plenty of the girls who come here think they’ve hit rock bottom.\""
+    cy "很多來到這的姑娘都覺得自己掉進了人生谷底。"
+
+# game/williamroute3.rpy:9937
+translate Tchinese williamroute3c_2374c6c0:
+
+    # cy "\"Enough of them think they’re disgraced because Christian men want virgins.\""
+    cy "她們大半都覺得自己很丟人現眼，就因為基督教的男人想要的是處女。"
+
+# game/williamroute3.rpy:9939
+translate Tchinese williamroute3c_61d58590:
+
+    # cy "\"Or rather, the virgins they didn’t dally with yet.\""
+    cy "或者說他們還沒玩過的女人。"
+
+# game/williamroute3.rpy:9941
+translate Tchinese williamroute3c_52371fad:
+
+    # wi "\"Those men’s losses.\""
+    wi "那是他們的損失了。"
+
+# game/williamroute3.rpy:9942
+translate Tchinese williamroute3c_ef69b285:
+
+    # wi "\"Virgins aren’t so good in bed.\""
+    wi "處女在床上沒什麼用。"
+
+# game/williamroute3.rpy:9943
+translate Tchinese williamroute3c_6220a161:
+
+    # cy "\"More importantly, these girls have got to learn what rock bottom is.\""
+    cy "更重要的是，她們得見識什麼才叫真正的谷底。"
+
+# game/williamroute3.rpy:9944
+translate Tchinese williamroute3c_069ef138:
+
+    # "I hum."
+    "我嗯了一聲。"
+
+# game/williamroute3.rpy:9945
+translate Tchinese williamroute3c_12f4c518:
+
+    # wi "\"And what do you think that looks like?\""
+    wi "那妳覺得怎樣才配叫？"
+
+# game/williamroute3.rpy:9946
+translate Tchinese williamroute3c_38baee37:
+
+    # "She bites her lip, nodding."
+    "她咬著嘴唇點了下頭。"
+
+# game/williamroute3.rpy:9948
+translate Tchinese williamroute3c_b4302c0a:
+
+    # cy "\"Well, you saw what happened to Mrs. Greene.\""
+    cy "你也見過Greene夫人的樣子了。"
+
+# game/williamroute3.rpy:9950
+translate Tchinese williamroute3c_f9496b36:
+
+    # cy "\"Tied to a broke husband at the hip, {i}til’ death do you part{/i}, with no spending power.\""
+    cy "被個成天泡在Hip酒館的窮丈夫拴著，{i}直至死亡將他們分開{/i}為止，一點權力都沒有。"
+
+# game/williamroute3.rpy:9951
+translate Tchinese williamroute3c_043f7df7:
+
+    # "She crosses her arms and sighs."
+    "她雙手抱胸，嘆了口氣。"
+
+# game/williamroute3.rpy:9953
+translate Tchinese williamroute3c_4716ce72:
+
+    # cy "\"Now that’s rock bottom.\""
+    cy "這才叫谷底。"
+
+# game/williamroute3.rpy:9954
+translate Tchinese williamroute3c_e0e0ad82:
+
+    # cy "\"The girls aren’t so mean to themselves for working the profession after they get used to having money.\""
+    cy "賺了錢後，學會自己理財後，"
+
+# game/williamroute3.rpy:9955
+translate Tchinese williamroute3c_dc43d109:
+
+    # cy "\"As well as how to manage it.\""
+    cy "姑娘們也就不再為幹著這種行業而苛責自己了。"
+
+# game/williamroute3.rpy:9956
+translate Tchinese williamroute3c_db405397:
+
+    # wi "\"So I take it a bartending jack, who seems to be the Madam’s biggest fan, wouldn’t exactly have as much in common with the rest of her employees.\""
+    wi "那也就是說，那個看來是夫人頭號粉絲的酒保，跟她的員工們沒有太多共通點了。"
+
+# game/williamroute3.rpy:9958
+translate Tchinese williamroute3c_acce4d2d:
+
+    # cy "\"Back to Harlan again?\""
+    cy "又要說回Harlan了嗎？"
+
+# game/williamroute3.rpy:9959
+translate Tchinese williamroute3c_d6e66769:
+
+    # wi "\"He’s been on my mind lately.\""
+    wi "我最近很在意他。"
+
+# game/williamroute3.rpy:9960
+translate Tchinese williamroute3c_8f8c3e32:
+
+    # wi "\"Can you tell me what you know about him?\""
+    wi "關於他，妳能說說妳知道的事嗎？"
+
+# game/williamroute3.rpy:9962
+translate Tchinese williamroute3c_186ec655:
+
+    # cy "\"I don’t like how he looks at me the past few days.\""
+    cy "我不喜歡他這幾天來打量我的眼光。"
+
+# game/williamroute3.rpy:9965
+translate Tchinese williamroute3c_f3158497:
+
+    # cy "\"I don’t like how Harlan looks at me the past few days.\""
+    cy "我不喜歡Harlan這幾天來打量我的眼光。"
+
+# game/williamroute3.rpy:9966
+translate Tchinese williamroute3c_9184d940:
+
+    # cy "\"Normally he’s curt and rude and minds his own business.\""
+    cy "他通常又無理又冷淡，只管自己的事。"
+
+# game/williamroute3.rpy:9967
+translate Tchinese williamroute3c_055de3df:
+
+    # cy "\"But with me?\""
+    cy "但一扯到我？"
+
+# game/williamroute3.rpy:9968
+translate Tchinese williamroute3c_c19a69bc:
+
+    # "She bites her lip again."
+    "她又咬住嘴唇。"
+
+# game/williamroute3.rpy:9970
+translate Tchinese williamroute3c_440c70ad:
+
+    # cy "\"He stares.\""
+    cy "他盯得可緊了。"
+
+# game/williamroute3.rpy:9971
+translate Tchinese williamroute3c_6c79f944:
+
+    # wi "\"What do you suspect?\""
+    wi "妳覺得是為什麼？"
+
+# game/williamroute3.rpy:9975
+translate Tchinese williamroute3c_937a2d68:
+
+    # cy "\"There was an incident a few days ago where we found some of his belongings hidden in a secret space in the wall.\""
+    cy "幾天前我們找到他藏在牆裡秘密空間的東西。"
+
+# game/williamroute3.rpy:9976
+translate Tchinese williamroute3c_3457458a:
+
+    # wi "\"These walls have secret spaces?\""
+    wi "牆裡有秘密空間？"
+
+# game/williamroute3.rpy:9978
+translate Tchinese williamroute3c_0d8fa5c8:
+
+    # "She rolls her eyes."
+    "她翻了個白眼。"
+
+# game/williamroute3.rpy:9979
+translate Tchinese williamroute3c_3077502a:
+
+    # cy "\"You think I knew?\""
+    cy "你以為我知情嗎？"
+
+# game/williamroute3.rpy:9980
+translate Tchinese williamroute3c_c7686d37:
+
+    # cy "\"As of two nights ago they do, yes.\""
+    cy "還不是兩天前的晚上才知道得。"
+
+# game/williamroute3.rpy:9982
+translate Tchinese williamroute3c_eec8ca69:
+
+    # "She sighs again."
+    "她又嘆了口氣。"
+
+# game/williamroute3.rpy:9984
+translate Tchinese williamroute3c_6b909f19:
+
+    # cy "\"I think he knows what I saw in his trunk.\""
+    cy "我覺得他應該知道我看過他的箱子了。"
+
+# game/williamroute3.rpy:9986
+translate Tchinese williamroute3c_b818797e:
+
+    # cy "\"I think Harlan knows what I saw in his trunk.\""
+    cy "我覺得Harlan應該知道我看過他的箱子了。"
+
+# game/williamroute3.rpy:9987
+translate Tchinese williamroute3c_f90a2ba1:
+
+    # cy "\"He had a piece of jewelry that belonged to my mother.\""
+    cy "他有一枚曾屬於我母親的飾品。"
+
+# game/williamroute3.rpy:9988
+translate Tchinese williamroute3c_55276abd:
+
+    # wi "\"I remember that you used to sell jewelry a few years ago.\""
+    wi "我是記得妳幾年前有在賣飾品。"
+
+# game/williamroute3.rpy:9990
+translate Tchinese williamroute3c_cbe26ece:
+
+    # "She tilts her head and gives me a look."
+    "她歪頭白了我一眼。"
+
+# game/williamroute3.rpy:9991
+translate Tchinese williamroute3c_f0a20d88:
+
+    # cy "\"Jewelry that belonged to my {i}dead{/i} mother.\""
+    cy "那可是我亡故母親的飾品。"
+
+# game/williamroute3.rpy:9993
+translate Tchinese williamroute3c_17dba643:
+
+    # cy "\"And pieces of her hair.\""
+    cy "甚至還有她的頭髮。"
+
+# game/williamroute3.rpy:9994
+translate Tchinese williamroute3c_9114c75b:
+
+    # "That leaves a bad taste in my mouth."
+    "這就噁心人了。"
+
+# game/williamroute3.rpy:9995
+translate Tchinese williamroute3c_472c251d:
+
+    # wi "\"So then we have a mystic on our hands.\""
+    wi "所以他是個神秘主義者了。"
+
+# game/williamroute3.rpy:9997
+translate Tchinese williamroute3c_4cba0f3f:
+
+    # "She looks to the side and folds back her tongue."
+    "她看向一旁，反捲舌頭。"
+
+# game/williamroute3.rpy:9998
+translate Tchinese williamroute3c_f466d822:
+
+    # cy "\"You know... I remember Dora mentioning that he wanted to be a stage magician.\""
+    cy "我跟你說吧……我記得Dora提過他曾經想當舞台魔術師。"
+
+# game/williamroute3.rpy:9999
+translate Tchinese williamroute3c_b376b6a7:
+
+    # wi "\"Back when they used to tour together?\""
+    wi "他們一起巡演的時候嗎？"
+
+# game/williamroute3.rpy:10000
+translate Tchinese williamroute3c_8a389c9d:
+
+    # "Cynthia shakes her head."
+    "Cynthia搖頭。"
+
+# game/williamroute3.rpy:10002
+translate Tchinese williamroute3c_3acc797c:
+
+    # cy "\"No, there was no {i}touring together{/i}.\""
+    cy "不，他們沒有{i}一起巡演{/i}。"
+
+# game/williamroute3.rpy:10003
+translate Tchinese williamroute3c_8934846f:
+
+    # cy "\"She toured, and he went with her.\""
+    cy "巡演的只有夫人，他只是跟著。"
+
+# game/williamroute3.rpy:10005
+translate Tchinese williamroute3c_fd768d03:
+
+    # cy "\"They had a big music and drama group and he was one of the stage helpers.\""
+    cy "他們的音樂跟表演團隊很大團，他是其中一位後台人員。"
+
+# game/williamroute3.rpy:10006
+translate Tchinese williamroute3c_5517d51d:
+
+    # cy "\"She said he’d bring ideas to her here and there.\""
+    cy "夫人是有說過他不時會出點主意。"
+
+# game/williamroute3.rpy:10007
+translate Tchinese williamroute3c_3d443d6a:
+
+    # cy "\"But she refused because he was convinced her stage presence alone would bring enough to the act.\""
+    cy "但夫人總是拒絕，因為他一心只想讓夫人單飛。"
+
+# game/williamroute3.rpy:10008
+translate Tchinese williamroute3c_af0c4182:
+
+    # cy "\"If he really did say that he’s right.\""
+    cy "如果他真那麼想，那倒也是事實。"
+
+# game/williamroute3.rpy:10009
+translate Tchinese williamroute3c_6a589172:
+
+    # cy "\"Dora demands attention just with a look.\""
+    cy "Dora一個眼神就能讓萬人著迷。"
+
+# game/williamroute3.rpy:10010
+translate Tchinese williamroute3c_fe4d7a99:
+
+    # cy "\"I don’t think Harlan could carry the same weight, even if his tricks were as good as he said they were.\""
+    cy "Harlan可就沒那個魅力了，就算他把戲真有自己說的那麼厲害也一樣。"
+
+# game/williamroute3.rpy:10011
+translate Tchinese williamroute3c_45b8359c:
+
+    # wi "\"But where did they tour?\""
+    wi "他們巡演都去了哪裡？"
+
+# game/williamroute3.rpy:10012
+translate Tchinese williamroute3c_3bbca04b:
+
+    # "She shrugs."
+    "她聳聳肩。"
+
+# game/williamroute3.rpy:10013
+translate Tchinese williamroute3c_30080d20:
+
+    # cy "\"I’m sure every major city in the United States of Columbia.\""
+    cy "哥倫比亞合眾國每個大城市應該都有去吧。"
+
+# game/williamroute3.rpy:10015
+translate Tchinese williamroute3c_e67ddab8:
+
+    # cy "\"Dora was really big.\""
+    cy "Dora那時大紅大紫呢。"
+
+# game/williamroute3.rpy:10017
+translate Tchinese williamroute3c_88f63a40:
+
+    # "She sighs again, but this time, it’s a dreamy one."
+    "她又嘆了口氣，只不過這次是感嘆性質的。"
+
+# game/williamroute3.rpy:10018
+translate Tchinese williamroute3c_027454cc:
+
+    # cy "\"Dora’s Delight, the Soul of the Magnolias.\""
+    cy "Dora之聲，瑪諾利亞之魂。"
+
+# game/williamroute3.rpy:10020
+translate Tchinese williamroute3c_de6a95f0:
+
+    # cy "\"Would pay more than a pretty penny to see that swan song if I was able to be there fiteen to twenty years ago.\""
+    cy "要是十五二十年前我能去的話，我也願意多付幾個錢去聽她黃鶯出谷呢。"
+
+# game/williamroute3.rpy:10023
+translate Tchinese williamroute3c_dc8c85a2:
+
+    # cy "\"Surprised you don’t remember seeing posters for her yourself, being the big city man that you are and all.\""
+    cy "我倒很意外你都不記得有看過她的海報，你不是大城市人嗎？"
+
+# game/williamroute3.rpy:10025
+translate Tchinese williamroute3c_ee14644f:
+
+    # wi "\"I probably did see the posters.\""
+    wi "海報我應該是看過。"
+
+# game/williamroute3.rpy:10026
+translate Tchinese williamroute3c_86d5b5ac:
+
+    # wi "\"But I think I would have been sixteen, maybe seventeen.\""
+    wi "但那時候我也才十六或十七吧。"
+
+# game/williamroute3.rpy:10027
+translate Tchinese williamroute3c_4f80ec7a:
+
+    # wi "\"Had a lot on my mind back then.\""
+    wi "那時我滿腦子事。"
+
+# game/williamroute3.rpy:10029
+translate Tchinese williamroute3c_b81c00ee:
+
+    # "She arches an eyebrow and gives me a doubtful expression."
+    "她挑起一根眉毛，狐疑地盯著我。"
+
+# game/williamroute3.rpy:10030
+translate Tchinese williamroute3c_86f3afc3:
+
+    # cy "\"What?\""
+    cy "什麼？"
+
+# game/williamroute3.rpy:10031
+translate Tchinese williamroute3c_656ee575:
+
+    # cy "\"Like baseball?\""
+    cy "棒球嗎？"
+
+# game/williamroute3.rpy:10032
+translate Tchinese williamroute3c_08047b24:
+
+    # wi "\"Yeah.\""
+    wi "對呀。"
+
+# game/williamroute3.rpy:10033
+translate Tchinese williamroute3c_0c093868:
+
+    # "Her eyes glaze over just a bit."
+    "她略為打量我一下。"
+
+# game/williamroute3.rpy:10034
+translate Tchinese williamroute3c_ef561814:
+
+    # cy "\"Surely you had dates on the mind too.\""
+    cy "肯定也有想著談戀愛吧。"
+
+# game/williamroute3.rpy:10035
+translate Tchinese williamroute3c_8eb10382:
+
+    # wi "\"In a sense.\""
+    wi "算是吧。"
+
+# game/williamroute3.rpy:10036
+translate Tchinese williamroute3c_f4afecde:
+
+    # wi "\"Sports were encouraged.\""
+    wi "那時鼓吹運動。"
+
+# game/williamroute3.rpy:10037
+translate Tchinese williamroute3c_c4b6454f:
+
+    # wi "\"Dalliances with young native women my age were not.\""
+    wi "但可不鼓吹跟年齡相近的年輕原住民女性風流。"
+
+# game/williamroute3.rpy:10038
+translate Tchinese williamroute3c_31a66c6c:
+
+    # "And especially not the boys."
+    "更別提男生了。"
+
+# game/williamroute3.rpy:10039
+translate Tchinese williamroute3c_fe156908:
+
+    # wi "\"Doing what my father wanted always came first.\""
+    wi "我總得優先遵從父親的意願。"
+
+# game/williamroute3.rpy:10040
+translate Tchinese williamroute3c_837a6dc2:
+
+    # wi "\"He had his ways of making sure that happened.\""
+    wi "他自有一套對我的規劃。"
+
+# game/williamroute3.rpy:10042
+translate Tchinese williamroute3c_1aaf6424:
+
+    # "She scowls."
+    "她冷哼一聲。"
+
+# game/williamroute3.rpy:10043
+translate Tchinese williamroute3c_b1a74b88:
+
+    # cy "\"A real papa’s boy, huh?\""
+    cy "就這麼聽你爸的啊？"
+
+# game/williamroute3.rpy:10044
+translate Tchinese williamroute3c_753d15d8:
+
+    # "I shrug and pocket my hands."
+    "我聳肩，雙手插進口袋。"
+
+# game/williamroute3.rpy:10045
+translate Tchinese williamroute3c_bc96a2d2:
+
+    # wi "\"I dared not refuse.\""
+    wi "我確實不敢忤逆他。"
+
+# game/williamroute3.rpy:10046
+translate Tchinese williamroute3c_2a930082:
+
+    # wi "\"Either way, we didn’t have the best relationship, at the end.\""
+    wi "總而言之，我們的關係說不上好。"
+
+# game/williamroute3.rpy:10047
+translate Tchinese williamroute3c_305e5d9f:
+
+    # cy "\"I hear you don’t have the best relationship with your son, either.\""
+    cy "我聽說你跟你兒子關係也不算好。"
+
+# game/williamroute3.rpy:10048
+translate Tchinese williamroute3c_a61f2244:
+
+    # "I shrug at her."
+    "我朝她聳肩。"
+
+# game/williamroute3.rpy:10049
+translate Tchinese williamroute3c_d1dab922:
+
+    # wi "\"I suppose meither of us want one.\""
+    wi "我看我倆都沒想要什麼關係。"
+
+# game/williamroute3.rpy:10051
+translate Tchinese williamroute3c_6ffc15a7:
+
+    # "She folds her hands."
+    "她闔上掌。"
+
+# game/williamroute3.rpy:10052
+translate Tchinese williamroute3c_31f9b598:
+
+    # cy "\"You sure about that?\""
+    cy "你確定嗎？"
+
+# game/williamroute3.rpy:10053
+translate Tchinese williamroute3c_68abc794:
+
+    # wi "\"I asked him.\""
+    wi "我問過他了。"
+
+# game/williamroute3.rpy:10054
+translate Tchinese williamroute3c_27616469:
+
+    # wi "\"If that boy says he has a warrior’s heart, then I believe him.\""
+    wi "他說自己是個戰士，那我就相信他。"
+
+# game/williamroute3.rpy:10055
+translate Tchinese williamroute3c_94ed878c:
+
+    # wi "\"When you become a warrior, your family becomes your unit.\""
+    wi "人成為戰士，部隊就成了新的家庭。"
+
+# game/williamroute3.rpy:10057
+translate Tchinese williamroute3c_e7aaf33d:
+
+    # wi "\"I know him well enough to know that he wants that more than me or Hattie doting on him for the rest of his life.\""
+    wi "我也算很懂他了，知道他比起我跟或Hattie的溺愛，更渴望那種關係。"
+
+# game/williamroute3.rpy:10058
+translate Tchinese williamroute3c_65f6ef75:
+
+    # wi "\"If there’s one thing I’ll always give that boy, it’s his right to have choices.\""
+    wi "要說我有什麼永遠都能給那孩子的，也就是選擇權了。"
+
+# game/williamroute3.rpy:10059
+translate Tchinese williamroute3c_2c3e753f:
+
+    # "After all, {i}he{/i} never gave me one."
+    "畢竟{i}他{/i}就從沒給過我。"
+
+# game/williamroute3.rpy:10060
+translate Tchinese williamroute3c_b8dc6375:
+
+    # "Never."
+    "一次都沒。"
+
+# game/williamroute3.rpy:10062
+translate Tchinese williamroute3c_b560ad21:
+
+    # "She raises her eyebrows."
+    "她挑起雙眉。"
+
+# game/williamroute3.rpy:10063
+translate Tchinese williamroute3c_119e249f:
+
+    # cy "\"So what’s the deal?\""
+    cy "你怎麼搞的？"
+
+# game/williamroute3.rpy:10065
+translate Tchinese williamroute3c_4bf069c9:
+
+    # cy "\"Suddenly I’ve talked enough about myself to get a peek past those steel barricades of yours?\""
+    cy "我這是說了夠多自己的事，才有幸能跨越你的防線嗎？"
+
+# game/williamroute3.rpy:10066
+translate Tchinese williamroute3c_8619f2c6:
+
+    # "I shrug."
+    "我聳聳肩。"
+
+# game/williamroute3.rpy:10067
+translate Tchinese williamroute3c_eb256486:
+
+    # wi "\"That's generally how conversations go with me.\""
+    wi "我通常就是這樣跟人交流的。"
+
+# game/williamroute3.rpy:10068
+translate Tchinese williamroute3c_315d5462:
+
+    # wi "\"Keeps things simple.\""
+    wi "比較省事。"
+
+# game/williamroute3.rpy:10069
+translate Tchinese williamroute3c_481a4bdb:
+
+    # cy "\"You really think it’s fair though?\""
+    cy "你真的覺得這公平嗎？"
+
+# game/williamroute3.rpy:10070
+translate Tchinese williamroute3c_6a20a80d:
+
+    # "I shake my head."
+    "我搖頭。"
+
+# game/williamroute3.rpy:10071
+translate Tchinese williamroute3c_1f061928:
+
+    # wi "\"I’m not so interested in fair.\""
+    wi "我不在意公不公平。"
+
+# game/williamroute3.rpy:10072
+translate Tchinese williamroute3c_940bf8ca:
+
+    # wi "\"I just don’t want to see more people get hurt if Harlan Perkins is involved in something bigger than himself.\""
+    wi "只是如果Harlan Perkins背後有什麼更大的陰謀，我也不願見到更多人受傷。"
+
+# game/williamroute3.rpy:10073
+translate Tchinese williamroute3c_3ede954b:
+
+    # wi "\"Help me or don’t.\""
+    wi "隨妳幫不幫我吧。"
+
+# game/williamroute3.rpy:10076
+translate Tchinese williamroute3c_67076ad1:
+
+    # "She sits on a chair next to a washing basin."
+    "她坐到洗衣桶旁的椅子上。"
+
+# game/williamroute3.rpy:10078
+translate Tchinese williamroute3c_e0eb829d:
+
+    # cy "\"If there’s anything damning on him, I’ll bet it’s in his office.\""
+    cy "如果他有什麼會遭天譴的東西，肯定在他辦公室裡。"
+
+# game/williamroute3.rpy:10079
+translate Tchinese williamroute3c_d83ba17e:
+
+    # "She frowns."
+    "她皺眉。"
+
+# game/williamroute3.rpy:10080
+translate Tchinese williamroute3c_b3988cb5:
+
+    # cy "\"But it’s locked up tight.\""
+    cy "但鎖得很死。"
+
+# game/williamroute3.rpy:10081
+translate Tchinese williamroute3c_e261da52:
+
+    # cy "\"Nobody ever goes in there.\""
+    cy "沒人進去過。"
+
+# game/williamroute3.rpy:10082
+translate Tchinese williamroute3c_e8d46990:
+
+    # wi "\"Hrm.\""
+    wi "唔嗯。"
+
+# game/williamroute3.rpy:10084
+translate Tchinese williamroute3c_b269eac8:
+
+    # cy "\"What are you thinking?\""
+    cy "你有什麼想法？"
+
+# game/williamroute3.rpy:10085
+translate Tchinese williamroute3c_bba95f4e:
+
+    # wi "\"Mystics believe in shit because they want to.\""
+    wi "神祕主義者是自願相信各種事的。"
+
+# game/williamroute3.rpy:10086
+translate Tchinese williamroute3c_dda2273b:
+
+    # wi "\"Maybe if you give him one of your worst pieces of jewelry and tell him what he wants to hear, he’d let us in...\""
+    wi "如果妳把自己最粗糙的飾品給他，再說點他想聽的話，他或許會讓我們進去……"
+
+# game/williamroute3.rpy:10088
+translate Tchinese williamroute3c_bc362646:
+
+    # cy "\"I don’t think he’d let either of us into his office.\""
+    cy "我是不覺得他會讓我們兩個進去。"
+
+# game/williamroute3.rpy:10089
+translate Tchinese williamroute3c_99626382:
+
+    # wi "\"Maybe not us.\""
+    wi "我們或許不行。"
+
+# game/williamroute3.rpy:10090
+translate Tchinese williamroute3c_0139dbd3:
+
+    # wi "\"But what about Sam?\""
+    wi "但Sam呢？"
+
+# game/williamroute3.rpy:10092
+translate Tchinese williamroute3c_f6251e31:
+
+    # "She folds her arms again."
+    "她又雙手抱胸。"
+
+# game/williamroute3.rpy:10093
+translate Tchinese williamroute3c_80d90eaf:
+
+    # cy "\"Well I never see him stare at Sam the way he stares at me.\""
+    cy "我是沒見過他用打量我的眼神看過Sam。"
+
+# game/williamroute3.rpy:10094
+translate Tchinese williamroute3c_942b709d:
+
+    # cy "\"He owes me a favor anyway.\""
+    cy "反正他也欠我個人情。"
+
+# game/williamroute3.rpy:10095
+translate Tchinese williamroute3c_48c083a6:
+
+    # wi "\"You sure you want to waste it on helping me?\""
+    wi "妳確定要把這人情用來幫我嗎？"
+
+# game/williamroute3.rpy:10097
+translate Tchinese williamroute3c_c2eff60f:
+
+    # cy "\"It’s not entirely for you.\""
+    cy "也不全是為了你。"
+
+# game/williamroute3.rpy:10098
+translate Tchinese williamroute3c_18143a19:
+
+    # cy "\"I just want to know what other nasty surprises he might have hiding.\""
+    cy "我只想知道他還藏著什麼惡劣的驚喜。"
+
+# game/williamroute3.rpy:10100
+translate Tchinese williamroute3c_eb15ac00:
+
+    # cy "\"Let’s get talk to Sam once he’s finished with Mr. Tibbits.\""
+    cy "等Sam跟Tibbits先生談完，我們就去找他吧。"
+
+# game/williamroute3.rpy:10104
+translate Tchinese williamroute3c_07a0457d:
+
+    # cy "\"To be honest, I just don’t want to think about Mr. Perkins right now.\""
+    cy "老實說，我現在不太願意去想Perkins先生的事。"
+
+# game/williamroute3.rpy:10105
+translate Tchinese williamroute3c_8e52c7dc:
+
+    # cy "\"If he is doing something wrong, I suspect he’s going to slip up sooner or later.\""
+    cy "如果他圖謀不軌，恐怕要不了多久就會暴露。"
+
+# game/williamroute3.rpy:10107
+translate Tchinese williamroute3c_d9b4c08f:
+
+    # cy "\"It’s your job to notice when he does or not.\""
+    cy "你的職責就是逮住那一刻吧。"
+
+# game/williamroute3.rpy:10108
+translate Tchinese williamroute3c_b248909a:
+
+    # "I hold my hands to my back and look to the ceiling, grunting as my spine stretches."
+    "我雙手撐在背後，望向天花板，悶哼著伸展脊椎。"
+
+# game/williamroute3.rpy:10109
+translate Tchinese williamroute3c_aa721abf:
+
+    # wi "\"I only have two eyes, Cynthia.\""
+    wi "我只有兩隻眼睛啊，Cynthia。"
+
+# game/williamroute3.rpy:10110
+translate Tchinese williamroute3c_624b6d64:
+
+    # cy "\"Give me some results and maybe you’ll get more.\""
+    cy "你給我點成果，我或許會告訴你更多。"
+
+# game/williamroute3.rpy:10111
+translate Tchinese williamroute3c_1c730fe5:
+
+    # cy "\"Are we done here?\""
+    cy "談完了嗎？"
+
+# game/williamroute3.rpy:10112
+translate Tchinese williamroute3c_87c84482:
+
+    # "My breath escapes me."
+    "我吐出氣。"
+
+# game/williamroute3.rpy:10114
+translate Tchinese williamroute3c_08047b24_1:
+
+    # wi "\"Yeah.\""
+    wi "對。"
+
+# game/williamroute3.rpy:10115
+translate Tchinese williamroute3c_1bae4d6c:
+
+    # wi "\"We’re done.\""
+    wi "完了。"
+
+# game/williamroute3.rpy:10118
+translate Tchinese williamroute3c_4e686880:
+
+    # "She unfolds her arm and stands up."
+    "她雙手分開，站起身子。"
+
+# game/williamroute3.rpy:10121
+translate Tchinese williamroute3c_cb116cc5:
+
+    # "Her bony elbow bumps into me on her way out."
+    "她離開時，纖細的手肘撞了我一把。"
+
+# game/williamroute3.rpy:10127
+translate Tchinese williamroute3c_96097103:
+
+    # "When I open the door, I see a few girls run around the corner, whispering and giggling before they disappear."
+    "我一打開門，就看見幾個姑娘跑開，邊笑邊交頭接耳地拐過角落。"
+
+# game/williamroute3.rpy:10128
+translate Tchinese williamroute3c_3b9724c6:
+
+    # "The bar is packed."
+    "酒吧人滿為患。"
+
+# game/williamroute3.rpy:10129
+translate Tchinese williamroute3c_962506c3:
+
+    # "That’s usual for a mid-afternoon on a Sunday."
+    "以禮拜日午後來說還挺正常。"
+
+# game/williamroute3.rpy:10130
+translate Tchinese williamroute3c_0c0594fb:
+
+    # "But I don’t have to see him to know where Sam is sitting."
+    "但我不用找也知道Sam坐在哪。"
+
+# game/williamroute3.rpy:10131
+translate Tchinese williamroute3c_04ad93bc:
+
+    # "He’ll be at his usual spot in the corner."
+    "他肯定在角落的老位子。"
+
+# game/williamroute3.rpy:10133
+translate Tchinese williamroute3c_2ec52e74:
+
+    # "As I approach it, I can hear that I was right."
+    "我一走進，就能聽出我想得沒錯。"
+
+# game/williamroute3.rpy:10138
+translate Tchinese williamroute3c_274a2e10:
+
+    # cl "\"Does it shine?\""
+    cl "有光澤嗎？"
+
+# game/williamroute3.rpy:10140
+translate Tchinese williamroute3c_c806ebc0:
+
+    # m "\"Yeah.\""
+    m "有。"
+
+# game/williamroute3.rpy:10142
+translate Tchinese williamroute3c_379a0a5c:
+
+    # cl "\"Can I find it at the bottom of a river?\""
+    cl "能在河底找到嗎？"
+
+# game/williamroute3.rpy:10144
+translate Tchinese williamroute3c_dc3be3b2:
+
+    # m "\"Yep.\""
+    m "能。"
+
+# game/williamroute3.rpy:10146
+translate Tchinese williamroute3c_799f7330:
+
+    # cl "\"Is it a mineral?\""
+    cl "是礦物嗎？"
+
+# game/williamroute3.rpy:10148
+translate Tchinese williamroute3c_c2bfe852:
+
+    # m "\"Nope.\""
+    m "不是。"
+
+# game/williamroute3.rpy:10151
+translate Tchinese williamroute3c_01bad668:
+
+    # "The weasel leans into the table, crossing his hands."
+    "鼬靠在桌上，雙手交叉。"
+
+# game/williamroute3.rpy:10154
+translate Tchinese williamroute3c_a957ad83:
+
+    # cl "\"How many questions am I at?\""
+    cl "我問幾個問題了？"
+
+# game/williamroute3.rpy:10156
+translate Tchinese williamroute3c_a921706c:
+
+    # m "\"Seventeen.\""
+    m "十七。"
+
+# game/williamroute3.rpy:10159
+translate Tchinese williamroute3c_ce2239ed:
+
+    # m "\"That was one of your questions by the way.\""
+    m "順帶一提，這也算一個。"
+
+# game/williamroute3.rpy:10162
+translate Tchinese williamroute3c_db2b6697:
+
+    # cl "\"That doesn’t count!\""
+    cl "這不算啦！"
+
+# game/williamroute3.rpy:10164
+translate Tchinese williamroute3c_02c49b31:
+
+    # m "\"Yeah-huh.\""
+    m "要算。"
+
+# game/williamroute3.rpy:10165
+translate Tchinese williamroute3c_a3c1bdbb:
+
+    # "The weasel starts chittering manically in a different language."
+    "鼬狂躁地以另一種語言嘰嘰喳喳個不停。"
+
+# game/williamroute3.rpy:10166
+translate Tchinese williamroute3c_bd119d64:
+
+    # cl "\"Does it glow.\""
+    cl "會發光嗎？"
+
+# game/williamroute3.rpy:10168
+translate Tchinese williamroute3c_ab19df88:
+
+    # m "\"None that I ever seen.\""
+    m "沒見過會發光的。"
+
+# game/williamroute3.rpy:10171
+translate Tchinese williamroute3c_75c82cd3:
+
+    # m "\"Last question.\""
+    m "最後一個問題。"
+
+# game/williamroute3.rpy:10174
+translate Tchinese williamroute3c_7f7f5e10:
+
+    # cl "\"Okay.\""
+    cl "好。"
+
+# game/williamroute3.rpy:10177
+translate Tchinese williamroute3c_f5cb96bb:
+
+    # cl "\"Is it bigger or smaller than half a meter?\""
+    cl "比半公尺大還是小？"
+
+# game/williamroute3.rpy:10180
+translate Tchinese williamroute3c_556e1e4a:
+
+    # m "\"What’s a meter?\""
+    m "公尺是什麼？"
+
+# game/williamroute3.rpy:10182
+translate Tchinese williamroute3c_70735db6:
+
+    # cl "\"What do you mean {i}what’s a meter{/i}?\""
+    cl "什麼叫{i}公尺是什麼{/i}？"
+
+# game/williamroute3.rpy:10184
+translate Tchinese williamroute3c_8d6ea98e:
+
+    # m "\"I mean {i}what{/i}.\""
+    m "我就是在問{i}公尺{/i}。"
+
+# game/williamroute3.rpy:10187
+translate Tchinese williamroute3c_7c4d48e7:
+
+    # m "\"{i}Is{/i}.\""
+    m "{i}是{/i}"
+
+# game/williamroute3.rpy:10190
+translate Tchinese williamroute3c_ae19eaef:
+
+    # m "\"{i}A meter{/i}.\""
+    m "{i}什麼{/i}。"
+
+# game/williamroute3.rpy:10193
+translate Tchinese williamroute3c_cfd3208a:
+
+    # cl "\"Ah, right.\""
+    cl "哦，好。"
+
+# game/williamroute3.rpy:10194
+translate Tchinese williamroute3c_8c0489f8:
+
+    # cl "\"It’s ah.\""
+    cl "就是、呃。"
+
+# game/williamroute3.rpy:10196
+translate Tchinese williamroute3c_a4d9f86b:
+
+    # cl "\"The size of three feet.\""
+    cl "三{rb}英尺{/rb}{rt}條腿{/rt}的長度。"
+
+# game/williamroute3.rpy:10199
+translate Tchinese williamroute3c_d9396a50:
+
+    # m "\"My feet or your feet?\""
+    m "我的腿還是你的？"
+
+# game/williamroute3.rpy:10200
+translate Tchinese williamroute3c_52b6492a:
+
+    # cl "\"Okay, now you’re just trying to vex me Samuel.\""
+    cl "夠了，你現在就是在拿我尋開心吧，Samuel。"
+
+# game/williamroute3.rpy:10202
+translate Tchinese williamroute3c_4abf34be:
+
+    # cl "\"A foot is twelve inches I think?\""
+    cl "一英尺好像就是十二英寸吧？"
+
+# game/williamroute3.rpy:10204
+translate Tchinese williamroute3c_2d6ee573_1:
+
+    # m "\"Oh.\""
+    m "哦。"
+
+# game/williamroute3.rpy:10207
+translate Tchinese williamroute3c_f4196e1e:
+
+    # m "\"Well then in that case I suppose it depends.\""
+    m "那就得看情況了。"
+
+# game/williamroute3.rpy:10209
+translate Tchinese williamroute3c_11dea980:
+
+    # cl "\"What do you {i}mean{/i} it depends?\""
+    cl "看情況是{i}怎樣{/i}？"
+
+# game/williamroute3.rpy:10211
+translate Tchinese williamroute3c_e8a8e555:
+
+    # m "\"Time to take another guess Mr Tibbits.\""
+    m "你該猜答案了，Tibbits先生。"
+
+# game/williamroute3.rpy:10214
+translate Tchinese williamroute3c_a31d5fb3:
+
+    # m "\"What am I thinking of?\""
+    m "我想的是什麼東西？"
+
+# game/williamroute3.rpy:10217
+translate Tchinese williamroute3c_0db92893:
+
+    # "The weasel rubs his temples with his hands and makes a groaning sound."
+    "鼬雙手揉著太陽穴，發出嘔氣聲。"
+
+# game/williamroute3.rpy:10219
+translate Tchinese williamroute3c_5aec43e5:
+
+    # "Then he stops, and smiles."
+    "然後停了下來，面露喜色。"
+
+# game/williamroute3.rpy:10221
+translate Tchinese williamroute3c_568749d6:
+
+    # cl "\"An anchor.\""
+    cl "是船錨吧。"
+
+# game/williamroute3.rpy:10222
+translate Tchinese williamroute3c_1ecc00f2:
+
+    # "He perks up and puffs out his chest."
+    "他挺起胸膛。"
+
+# game/williamroute3.rpy:10225
+translate Tchinese williamroute3c_c2bfe852_1:
+
+    # m "\"Nope.\""
+    m "錯了。"
+
+# game/williamroute3.rpy:10228
+translate Tchinese williamroute3c_8bfd8121:
+
+    # cl "\"The bollocks do you mean, {i}nope{/i}?!\""
+    cl "怎麼可能{i}錯了{/i}！？"
+
+# game/williamroute3.rpy:10231
+translate Tchinese williamroute3c_1318a2be:
+
+    # m "\"Now calm down Mr. Tibbits.\""
+    m "你冷靜點，Tibbits先生。"
+
+# game/williamroute3.rpy:10235
+translate Tchinese williamroute3c_14a9e784:
+
+    # m "\"I’ve got your answer.\""
+    m "我這就公布答案。"
+
+# game/williamroute3.rpy:10237
+translate Tchinese williamroute3c_5d68e4c6:
+
+    # "The weasel leans in closer."
+    "鼬身體前傾。"
+
+# game/williamroute3.rpy:10238
+translate Tchinese williamroute3c_7cd2b083:
+
+    # cl "\"Yes?\""
+    cl "來？"
+
+# game/williamroute3.rpy:10239
+translate Tchinese williamroute3c_343ac8fa:
+
+    # cl "\"Go on?\""
+    cl "說啊？"
+
+# game/williamroute3.rpy:10241
+translate Tchinese williamroute3c_135b8ad4:
+
+    # m "\"You ready?\""
+    m "你準備好了嗎？"
+
+# game/williamroute3.rpy:10244
+translate Tchinese williamroute3c_dc7fbb4e:
+
+    # cl "\"Goodness yes!\""
+    cl "那還用說！"
+
+# game/williamroute3.rpy:10247
+translate Tchinese williamroute3c_6f19d038:
+
+    # m "\"Alright.\""
+    m "那好。"
+
+# game/williamroute3.rpy:10249
+translate Tchinese williamroute3c_db0fa71a:
+
+    # "Sam holds up a finger and then balls his fist and coughs into it, clearing his throat."
+    "Sam豎起一根手指，朝握起的拳頭咳嗽清嗓。"
+
+# game/williamroute3.rpy:10251
+translate Tchinese williamroute3c_8aedea6c:
+
+    # m "\"The answer is...\""
+    m "答案就是……"
+
+# game/williamroute3.rpy:10255
+translate Tchinese williamroute3c_6e7a0377:
+
+    # m "\"A freshly caught catfish.\""
+    m "活捉的鯰魚。"
+
+# game/williamroute3.rpy:10257
+translate Tchinese williamroute3c_de4905e4:
+
+    # cl "\"... A what!\""
+    cl "……什麼東西！？"
+
+# game/williamroute3.rpy:10259
+translate Tchinese williamroute3c_04a9edd5:
+
+    # cl "\"That’s absurd!\""
+    cl "這也太離譜了！"
+
+# game/williamroute3.rpy:10262
+translate Tchinese williamroute3c_a2b2cced:
+
+    # m "\"I shit you not Mr. Tibbits, the animal is real, and quite absurd.\""
+    m "你還真別說，Tibbits先生，這動物確實是真的，也確實離譜。"
+
+# game/williamroute3.rpy:10265
+translate Tchinese williamroute3c_ad91db66:
+
+    # cl "\"I asked you if the thing was living and you told me it wasn’t!\""
+    cl "我都問過你那東西是不是活的，你還告訴我不是！"
+
+# game/williamroute3.rpy:10267
+translate Tchinese williamroute3c_d220dd7a:
+
+    # m "\"A freshly gutted catfish.\""
+    m "那就清過內臟的新鮮鯰魚。"
+
+# game/williamroute3.rpy:10269
+translate Tchinese williamroute3c_78805649:
+
+    # cl "\"You cheated!\""
+    cl "這是作弊！"
+
+# game/williamroute3.rpy:10271
+translate Tchinese williamroute3c_6a5bb6af:
+
+    # m "\"No I didn’t.\""
+    m "才不是。"
+
+# game/williamroute3.rpy:10274
+translate Tchinese williamroute3c_dd83202b:
+
+    # m "\"You just weren’t thinkin' broadly enough.\""
+    m "你只是思想不夠開放。"
+
+# game/williamroute3.rpy:10276
+translate Tchinese williamroute3c_1d286702:
+
+    # cl "\"{i}Creative{/i} my foot, I ought to shake you!\""
+    cl "{i}開放{/i}個鬼，看我不揍死你！"
+
+# game/williamroute3.rpy:10279
+translate Tchinese williamroute3c_524606c3:
+
+    # wi "\"Sorry to interrupt you boys.\""
+    wi "抱歉打擾你們了。"
+
+# game/williamroute3.rpy:10281
+translate Tchinese williamroute3c_9baab53a:
+
+    # cl "\"You’re not interrupting a thing!\""
+    cl "沒打擾！"
+
+# game/williamroute3.rpy:10283
+translate Tchinese williamroute3c_ce70a257:
+
+    # cl "\"This game is over.\""
+    cl "遊戲結束了。"
+
+# game/williamroute3.rpy:10285
+translate Tchinese williamroute3c_e1c7b100:
+
+    # cl "\"I need a drink.\""
+    cl "我得來一杯。"
+
+# game/williamroute3.rpy:10287
+translate Tchinese williamroute3c_4070793b:
+
+    # "We watch him pout as he makes his way back to the bar, waving his hand for the barkeep’s attention."
+    "我們看著他嘟嘴走向吧檯，揮手招呼酒保。"
+
+# game/williamroute3.rpy:10288
+translate Tchinese williamroute3c_44185fdd:
+
+    # wi "\"He’s right you know.\""
+    wi "你知道他說的對。"
+
+# game/williamroute3.rpy:10290
+translate Tchinese williamroute3c_18a47fb7:
+
+    # wi "\"You did cheat.\""
+    wi "那確實是作弊。"
+
+# game/williamroute3.rpy:10292
+translate Tchinese williamroute3c_e85620e8:
+
+    # m "\"I don’t agree.\""
+    m "我不同意。"
+
+# game/williamroute3.rpy:10295
+translate Tchinese williamroute3c_4f397486:
+
+    # m "\"Y’all just can’t be too stubborn about something’s state of being.\""
+    m "你們可不能拘泥於事物的狀態。"
+
+# game/williamroute3.rpy:10297
+translate Tchinese williamroute3c_fdd80eee:
+
+    # wi "\"You’re just teasing him aren’t you?\""
+    wi "你就是在戲弄他吧？"
+
+# game/williamroute3.rpy:10299
+translate Tchinese williamroute3c_8fb59a9f:
+
+    # m "\"Maybe just a little bit.\""
+    m "有點吧。"
+
+# game/williamroute3.rpy:10301
+translate Tchinese williamroute3c_8fdd2726:
+
+    # "I feel myself grin."
+    "我咧嘴一笑。"
+
+# game/williamroute3.rpy:10302
+translate Tchinese williamroute3c_36c42902:
+
+    # wi "\"Piece of shit.\""
+    wi "你個混球。"
+
+# game/williamroute3.rpy:10304
+translate Tchinese williamroute3c_2e3f7d8d:
+
+    # m "\"Hey hey hey.\""
+    m "喂喂喂。"
+
+# game/williamroute3.rpy:10307
+translate Tchinese williamroute3c_d821926b:
+
+    # m "\"It’s not like neither of us got to have any fun.\""
+    m "反正我們也沒享到什麼樂。"
+
+# game/williamroute3.rpy:10309
+translate Tchinese williamroute3c_f3f7c3e0:
+
+    # m "\"Besides, he wouldn’t let me pick the game.\""
+    m "再說，是他不讓我挑遊戲的。"
+
+# game/williamroute3.rpy:10311
+translate Tchinese williamroute3c_c796d574:
+
+    # wi "\"Very sportsmanlike of you.\""
+    wi "你可真有運動家精神。"
+
+# game/williamroute3.rpy:10313
+translate Tchinese williamroute3c_230935c0:
+
+    # m "\"The sportiest.\""
+    m "超有的。"
+
+# game/williamroute3.rpy:10315
+translate Tchinese williamroute3c_73f8b6fe:
+
+    # "He watches Cliff still waiting at the bar and lowers his voice."
+    "他看著Cliff等在酒吧邊，壓低音量。"
+
+# game/williamroute3.rpy:10317
+translate Tchinese williamroute3c_2457ea03:
+
+    # m "\"So what did you and Cynthia end up talking about?\""
+    m "所以你跟Cynthia談了啥？"
+
+# game/williamroute3.rpy:10319
+translate Tchinese williamroute3c_63b2eb2e:
+
+    # wi "\"We’re both suspicious of the bartender.\""
+    wi "我們都在懷疑那位酒保。"
+
+# game/williamroute3.rpy:10321
+translate Tchinese williamroute3c_70919e6a:
+
+    # "Sam squints and looks back at me."
+    "Sam瞇起眼睛看我。"
+
+# game/williamroute3.rpy:10323
+translate Tchinese williamroute3c_8001e862:
+
+    # m "\"Our bartender?\""
+    m "咱們的酒保？"
+
+# game/williamroute3.rpy:10325
+translate Tchinese williamroute3c_521c210d:
+
+    # wi "\"We ain’t drinkin’ anywhere else, are we?\""
+    wi "我們也只在這喝吧？"
+
+# game/williamroute3.rpy:10327
+translate Tchinese williamroute3c_e1fa274a:
+
+    # m "\"I just mean...\""
+    m "我只是想說……"
+
+# game/williamroute3.rpy:10330
+translate Tchinese williamroute3c_13e2cc7c:
+
+    # m "\"Well, look at him.\""
+    m "唉，你看看他嘛。"
+
+# game/williamroute3.rpy:10332
+translate Tchinese williamroute3c_c8f5280d:
+
+    # wi "\"Don’t make eye contact.\""
+    wi "別往他那看。"
+
+# game/williamroute3.rpy:10334
+translate Tchinese williamroute3c_8b12b6ec:
+
+    # m "\"I meant figuratively.\""
+    m "我這是叫你仔細想想。"
+
+# game/williamroute3.rpy:10337
+translate Tchinese williamroute3c_74b6a397:
+
+    # m "\"He’s old, William.\""
+    m "他那麼老，William。"
+
+# game/williamroute3.rpy:10340
+translate Tchinese williamroute3c_2aecb98b:
+
+    # m "\"And he’s got a lot to lose if he screws anything up.\""
+    m "要是出了什麼事，他會失去很多東西。"
+
+# game/williamroute3.rpy:10342
+translate Tchinese williamroute3c_1f70a37c:
+
+    # wi "\"He sure does, doesn’t he?\""
+    wi "他肯定有很多能失去的吧？"
+
+# game/williamroute3.rpy:10344
+translate Tchinese williamroute3c_ec385177:
+
+    # "A look of understanding crosses his face."
+    "他臉上浮現理解的神情。"
+
+# game/williamroute3.rpy:10346
+translate Tchinese williamroute3c_3e6d2057:
+
+    # "Then he looks guilty."
+    "然後是罪惡感。"
+
+# game/williamroute3.rpy:10347
+translate Tchinese williamroute3c_c600012a:
+
+    # "Ashamed."
+    "羞愧。"
+
+# game/williamroute3.rpy:10349
+translate Tchinese williamroute3c_cf54445e:
+
+    # m "\"So you think he might be backed into a corner?\""
+    m "你覺得他沒後路可退了？"
+
+# game/williamroute3.rpy:10351
+translate Tchinese williamroute3c_b3e49c07:
+
+    # wi "\"Maybe.\""
+    wi "或許。"
+
+# game/williamroute3.rpy:10352
+translate Tchinese williamroute3c_4eb9ee03:
+
+    # wi "\"For all we know, he could think he’s already lost too much.\""
+    wi "他有可能自認已經失去太多。"
+
+# game/williamroute3.rpy:10354
+translate Tchinese williamroute3c_c6d18975:
+
+    # m "\"People do some desperate things when there’s nothing else to lose.\""
+    m "沒什麼能失去的人，什麼都做得出來。"
+
+# game/williamroute3.rpy:10356
+translate Tchinese williamroute3c_9b997886:
+
+    # "I feel angry."
+    "我生氣了。"
+
+# game/williamroute3.rpy:10358
+translate Tchinese williamroute3c_22bd1dc5:
+
+    # wi "\"Stop blaming yourself.\""
+    wi "別再責怪你自己了。"
+
+# game/williamroute3.rpy:10359
+translate Tchinese williamroute3c_3cbd2944:
+
+    # "It comes across harsh than I mean it to."
+    "我說得比我心想的還苛刻。"
+
+# game/williamroute3.rpy:10360
+translate Tchinese williamroute3c_344b69c4:
+
+    # "He flinches,{nw} "
+    "他嚇了一跳，{nw}"
+
+# game/williamroute3.rpy:10362
+translate Tchinese williamroute3c_5aba77fc:
+
+    # extend "then scowls."
+    extend "然後冷哼一聲。"
+
+# game/williamroute3.rpy:10364
+translate Tchinese williamroute3c_30c0267e:
+
+    # m "\"Sorry I can’t exactly turn my feelings off like you can.\""
+    m "我不像你一樣能關閉自己的感情，還真對不起喔。"
+
+# game/williamroute3.rpy:10366
+translate Tchinese williamroute3c_9408e538:
+
+    # wi "\"I meant that there’s a difference between what you need and what you want when it comes to being backed into corners.\""
+    wi "我的意思是，就算沒有後路可退，你的需求跟要求還是有差別的。"
+
+# game/williamroute3.rpy:10367
+translate Tchinese williamroute3c_5434127b:
+
+    # wi "\"He’s doing fine enough for himself compared to you.\""
+    wi "他比起你已經算過得不錯了。"
+
+# game/williamroute3.rpy:10369
+translate Tchinese williamroute3c_c276c413:
+
+    # wi "\"Or Nik.\""
+    wi "跟Nik比也一樣。"
+
+# game/williamroute3.rpy:10370
+translate Tchinese williamroute3c_97fb4b7e:
+
+    # wi "\"Cozy job, bartending in the most popular place in town.\""
+    wi "在鎮上最有門面的店裡當酒保，可是份好差事。"
+
+# game/williamroute3.rpy:10372
+translate Tchinese williamroute3c_26c2e111:
+
+    # m "\"You really know how to make a man feel special.\""
+    m "你還真懂怎麼讓男人覺得自己很特別。"
+
+# game/williamroute3.rpy:10375
+translate Tchinese williamroute3c_eb7e250e:
+
+    # wi "\"...We want to get into his office, Sam.\""
+    wi "……我們想進去他的辦公室，Sam。"
+
+# game/williamroute3.rpy:10377
+translate Tchinese williamroute3c_e99bcade:
+
+    # wi "\"...I want to get into his office, Sam.\""
+    wi "……我想進去他的辦公室，Sam。"
+
+# game/williamroute3.rpy:10379
+translate Tchinese williamroute3c_e199b60a:
+
+    # m "\"His office?\""
+    m "他的辦公室？"
+
+# game/williamroute3.rpy:10382
+translate Tchinese williamroute3c_b4c77c9a:
+
+    # m "\"That’s funny.\""
+    m "真逗。"
+
+# game/williamroute3.rpy:10384
+translate Tchinese williamroute3c_82474713:
+
+    # wi "\"Am I laughing?\""
+    wi "你看我在笑嗎？"
+
+# game/williamroute3.rpy:10386
+translate Tchinese williamroute3c_459d3ff3:
+
+    # m "\"No, but I ought to be if you think you’re gettin’ in there.\""
+    m "是沒有，不過如果你以為能進得去，那我就該笑了。"
+
+# game/williamroute3.rpy:10389
+translate Tchinese williamroute3c_e85a321d:
+
+    # m "\"He keeps his space locked tighter than the chastity cage Dora put on him.\""
+    m "他把自己房間鎖得比Dora給他上的貞操鎖還緊。"
+
+# game/williamroute3.rpy:10393
+translate Tchinese williamroute3c_99d58475:
+
+    # wi "\"Cynthia thinks she can get us in.\""
+    wi "Cynthia認為她能搞定。"
+
+# game/williamroute3.rpy:10394
+translate Tchinese williamroute3c_2d7521d8:
+
+    # "He shifts his shoulders and leans in."
+    "他挪了挪肩膀，靠了過來。"
+
+# game/williamroute3.rpy:10396
+translate Tchinese williamroute3c_6bea0c2c:
+
+    # wi "\"With your help.\""
+    wi "有你幫忙的話。"
+
+# game/williamroute3.rpy:10398
+translate Tchinese williamroute3c_0b4eb0fa:
+
+    # m "\"Really?\""
+    m "真的嗎？"
+
+# game/williamroute3.rpy:10400
+translate Tchinese williamroute3c_1ecb23c5:
+
+    # "I hand him a bracelet with bits of bone and turquoise beads."
+    "我給了他一條有骨頭跟綠松石的手鍊。"
+
+# game/williamroute3.rpy:10401
+translate Tchinese williamroute3c_df783398:
+
+    # wi "\"We’re going to use this bracelet to try to get him to open the window in his room.\""
+    wi "我們就靠這條手鍊讓他把他房間的窗戶打開。"
+
+# game/williamroute3.rpy:10402
+translate Tchinese williamroute3c_093999ca:
+
+    # wi "\"We need you to convince him that bad things will happen if he doesn’t.\""
+    wi "得讓你說服他相信要是不照做就會有壞事降臨。"
+
+# game/williamroute3.rpy:10404
+translate Tchinese williamroute3c_a5a5c12d:
+
+    # "His eyelids narrow."
+    "他瞇起眼皮。"
+
+# game/williamroute3.rpy:10406
+translate Tchinese williamroute3c_be3ce936:
+
+    # m "\"The man’s not stupid, William.\""
+    m "他人可不蠢啊，William。"
+
+# game/williamroute3.rpy:10408
+translate Tchinese williamroute3c_79d950c5:
+
+    # wi "\"But we think he might be deeply paranoid.\""
+    wi "可是我們認為他可能會很怕。"
+
+# game/williamroute3.rpy:10410
+translate Tchinese williamroute3c_e0fce6b5:
+
+    # m "\"If that’s the case, you don’t think he’d come after me the first suspicion he has that somebody broke into his office?\""
+    m "既然如此，你難道不覺得他發現有人闖進他辦公室後，第一個懷疑的會是我嗎？"
+
+# game/williamroute3.rpy:10413
+translate Tchinese williamroute3c_086973e8:
+
+    # m "\"Christ’s sake, I {i}live{/i} here, William.\""
+    m "天殺的，我就{i}住{/i}這耶，William。"
+
+# game/williamroute3.rpy:10415
+translate Tchinese williamroute3c_45aa123d:
+
+    # wi "\"I could always just lock the place down and bust down the door.\""
+    wi "我也能封鎖這棟樓，把他門直接撞壞啊。"
+
+# game/williamroute3.rpy:10417
+translate Tchinese williamroute3c_cb083db8:
+
+    # wi "\"Don’t think that would be very good for business though, or my relationship with the Madam.\""
+    wi "但對生意可就不怎麼好了，對我跟夫人的關係也一樣。"
+
+# game/williamroute3.rpy:10419
+translate Tchinese williamroute3c_80f7712b:
+
+    # "Sam runs of a slurry of curses under his breath."
+    "Sam低聲一連串地咒罵。"
+
+# game/williamroute3.rpy:10421
+translate Tchinese williamroute3c_0f6d5725:
+
+    # m "\"You really think it’ll work?\""
+    m "你真覺得這有戲？"
+
+# game/williamroute3.rpy:10423
+translate Tchinese williamroute3c_7722ead4:
+
+    # wi "\"If you’re a good enough actor, yeah.\""
+    wi "你演得夠好就能行。"
+
+# game/williamroute3.rpy:10424
+translate Tchinese williamroute3c_05385742:
+
+    # wi "\"All I want is five minutes.\""
+    wi "五分鐘就夠。"
+
+# game/williamroute3.rpy:10426
+translate Tchinese williamroute3c_9f640164:
+
+    # m "\"I can try and get you that.\""
+    m "我就來給你爭取看看。"
+
+# game/williamroute3.rpy:10428
+translate Tchinese williamroute3c_443094d0:
+
+    # wi "\"Let’s go, then.\""
+    wi "那就上吧。"
+
+# game/williamroute3.rpy:10430
+translate Tchinese williamroute3c_9d107755:
+
+    # "I pass the cold bracelet into his hot paw and he pockets it precariously."
+    "我把冰冷的手鍊塞進他溫熱的爪中，他忐忑地收進口袋。"
+
+# game/williamroute3.rpy:10432
+translate Tchinese williamroute3c_23b3a5a0:
+
+    # wi "\"I’ll climb my way inside once we’re ready.\""
+    wi "搞定後我就爬進去。"
+
+# game/williamroute3.rpy:10438
+translate Tchinese williamroute3c_73fff50f:
+
+    # "I can’t believe he just asked me to help him break into Harlan’s study."
+    "真不敢相信他居然要我幫他潛入Harlan的書房。"
+
+# game/williamroute3.rpy:10439
+translate Tchinese williamroute3c_4dd90631:
+
+    # "But then again, it’s William."
+    "但他畢竟是William。"
+
+# game/williamroute3.rpy:10440
+translate Tchinese williamroute3c_4192310b:
+
+    # m "\"Jesus fuck.\""
+    m "真幹啊，基督。"
+
+# game/williamroute3.rpy:10441
+translate Tchinese williamroute3c_3e4d20f0:
+
+    # cl "\"Well, there are scholarly inquiries into his relationship with Mary Magdalene.\""
+    cl "這個嘛，是有關於他跟抹大拉的馬利亞之間的關係的學術研究啦。"
+
+# game/williamroute3.rpy:10443
+translate Tchinese williamroute3c_2cc7b95a:
+
+    # "I blink."
+    "我眨了眨眼。"
+
+# game/williamroute3.rpy:10444
+translate Tchinese williamroute3c_50648d3b:
+
+    # "I can’t believe I forgot about Mr. Tibbits."
+    "真不敢相信我完全忘了Tibbits先生。"
+
+# game/williamroute3.rpy:10446
+translate Tchinese williamroute3c_b2e6346b:
+
+    # m "\"It’s just an expression Mr. Tibbits.\""
+    m "我這只是個口癖，Tibbits先生。"
+
+# game/williamroute3.rpy:10447
+translate Tchinese williamroute3c_cd6f3020:
+
+    # cl "\"I know!\""
+    cl "我知道啊！"
+
+# game/williamroute3.rpy:10449
+translate Tchinese williamroute3c_4d326234:
+
+    # cl "\"I just was trying to make you laugh.\""
+    cl "我只是想逗你笑而已。"
+
+# game/williamroute3.rpy:10450
+translate Tchinese williamroute3c_352bd4b0:
+
+    # m "\"Well, ah, I’m sorry to kill the joy and all but I have to deal with some unpleasant work business.\""
+    m "那還真過意不去，只怕我得掃你的興，要去處理點麻煩工作了。"
+
+# game/williamroute3.rpy:10452
+translate Tchinese williamroute3c_cd9293c7:
+
+    # cl "\"Oh don’t worry yourself!\""
+    cl "哦，這你別擔心！"
+
+# game/williamroute3.rpy:10455
+translate Tchinese williamroute3c_05779117:
+
+    # cl "\"As it happens, I have somebody else to see very soon.\""
+    cl "我馬上也得去見個人呢。"
+
+# game/williamroute3.rpy:10457
+translate Tchinese williamroute3c_a439b59a:
+
+    # "Huh."
+    "哦？"
+
+# game/williamroute3.rpy:10459
+translate Tchinese williamroute3c_0b4eb0fa_1:
+
+    # m "\"Really?\""
+    m "真的？"
+
+# game/williamroute3.rpy:10461
+translate Tchinese williamroute3c_12fdb836:
+
+    # cl "\"Quite sure.\""
+    cl "那是。"
+
+# game/williamroute3.rpy:10463
+translate Tchinese williamroute3c_4fa71197:
+
+    # cl "\"Once again pulled apart by timing, eh?\""
+    cl "又得迫於時間分開了對吧？"
+
+# game/williamroute3.rpy:10465
+translate Tchinese williamroute3c_842573b4:
+
+    # cl "\"No matter! There’s tonight, after all.\""
+    cl "但無所謂！反正還有今晚呢。"
+
+# game/williamroute3.rpy:10467
+translate Tchinese williamroute3c_d1b92703:
+
+    # m "\"Tonight?\""
+    m "今晚？"
+
+# game/williamroute3.rpy:10468
+translate Tchinese williamroute3c_a3a9f769:
+
+    # m "\"What’s tonight?\""
+    m "今晚怎麼了？"
+
+# game/williamroute3.rpy:10470
+translate Tchinese williamroute3c_5bba2d3d:
+
+    # cl "\"Mr. Byrnes called it the Stag, did he not?\""
+    cl "Byrnes先生提議要去Stag酒館，不是嗎？"
+
+# game/williamroute3.rpy:10472
+translate Tchinese williamroute3c_178484e9:
+
+    # m "\"Oh. Right.\""
+    m "對喔。"
+
+# game/williamroute3.rpy:10473
+translate Tchinese williamroute3c_1508d173:
+
+    # m "\"The Stag.\""
+    m "Stag酒館。"
+
+# game/williamroute3.rpy:10475
+translate Tchinese williamroute3c_279ce926:
+
+    # "I had completely forgot about it after what happened today."
+    "今天事太多，我完全忘了這件事。"
+
+# game/williamroute3.rpy:10476
+translate Tchinese williamroute3c_0fc1112a:
+
+    # "William probably has too."
+    "William大概也一樣吧。"
+
+# game/williamroute3.rpy:10477
+translate Tchinese williamroute3c_7af93f86:
+
+    # "Not that I think he’ll want to go, after getting caught up in the events today."
+    "不過今天發生了這麼多事，只怕他也無心去了。"
+
+# game/williamroute3.rpy:10478
+translate Tchinese williamroute3c_68278f18:
+
+    # "I really think he could use another break, though, after that all that."
+    "但我覺得他是需要休息一下了。"
+
+# game/williamroute3.rpy:10479
+translate Tchinese williamroute3c_35e4b165:
+
+    # "Hell, {i}I{/i} could use a break."
+    "媽的，{i}我{/i}也需要。"
+
+# game/williamroute3.rpy:10480
+translate Tchinese williamroute3c_96bc71af:
+
+    # "...time to get this Harlan business over with."
+    "……趕快搞定Harlan這邊吧。"
+
+# game/williamroute3.rpy:10481
+translate Tchinese williamroute3c_5b628fea:
+
+    # "I’m lucky enough that the crowd dies down just in time to take a seat at the bar."
+    "幸好人潮少了點，吧台空出了位子。"
+
+# game/williamroute3.rpy:10482
+translate Tchinese williamroute3c_c2ec90e2:
+
+    # "A couple is chattering loudly next to me, and their table of friends is participating behind them."
+    "我旁邊有一對情侶在大聲閒談，後面還有一桌朋友在跟他們聊。"
+
+# game/williamroute3.rpy:10484
+translate Tchinese williamroute3c_63ffc02a:
+
+    # "Still, Harlan eventually finds time to make his way to me."
+    "一陣子後Harlan才有空來找我。"
+
+# game/williamroute3.rpy:10486
+translate Tchinese williamroute3c_17ce1945:
+
+    # ha "\"Drinks aren’t discounted today Mr. Ayers.\""
+    ha "今天飲料可沒折扣，Ayers先生。"
+
+# game/williamroute3.rpy:10488
+translate Tchinese williamroute3c_4d2ba22a:
+
+    # m "\"That’s alright.\""
+    m "這沒問題。"
+
+# game/williamroute3.rpy:10489
+translate Tchinese williamroute3c_d059f786:
+
+    # "I’m trying to think quick of what to say."
+    "我盡速思考該說什麼。"
+
+# game/williamroute3.rpy:10490
+translate Tchinese williamroute3c_001244b5:
+
+    # m "\"I’ll still have one.\""
+    m "還是給我來一杯吧。"
+
+# game/williamroute3.rpy:10491
+translate Tchinese williamroute3c_78726814:
+
+    # m "\"I’m in a bad way.\""
+    m "我人今天不太好。"
+
+# game/williamroute3.rpy:10493
+translate Tchinese williamroute3c_b4806cb1:
+
+    # "His glance flicks towards me."
+    "他盯著我看。"
+
+# game/williamroute3.rpy:10495
+translate Tchinese williamroute3c_5b235214:
+
+    # ha "\"You’re not usually one for bellyaching Mr. Ayers.\""
+    ha "你通常不怎麼吐苦水的，Ayers先生。"
+
+# game/williamroute3.rpy:10497
+translate Tchinese williamroute3c_2a35d4bb:
+
+    # m "\"It’s a very unusual kind of night.\""
+    m "今晚很不尋常。"
+
+# game/williamroute3.rpy:10499
+translate Tchinese williamroute3c_cb715d04:
+
+    # ha "\"Sorry to hear.\""
+    ha "辛苦你了。"
+
+# game/williamroute3.rpy:10501
+translate Tchinese williamroute3c_e5bb16b4:
+
+    # "He doesn’t look at me as he grabs the whiskey."
+    "他拿起威士忌時沒在看我。"
+
+# game/williamroute3.rpy:10503
+translate Tchinese williamroute3c_a6493f60:
+
+    # ha "\"Pinch a nerve?\""
+    ha "不舒服嗎？"
+
+# game/williamroute3.rpy:10506
+translate Tchinese williamroute3c_cf572b47:
+
+    # ha "\"This tends to help you manage.\""
+    ha "這能幫你舒緩。"
+
+# game/williamroute3.rpy:10508
+translate Tchinese williamroute3c_05e37385:
+
+    # m "\"I appreciate it, Mr. Perkins, but it’s not that kind of way.\""
+    m "謝了，Perkins先生，但我的問題不在這。"
+
+# game/williamroute3.rpy:10510
+translate Tchinese williamroute3c_ff4a3af2:
+
+    # ha "\"Then I can’t say I’m one for emotions, Mr. Ayers.\""
+    ha "我只能說我不適合談心，Ayers先生。"
+
+# game/williamroute3.rpy:10512
+translate Tchinese williamroute3c_8d8bd5c7:
+
+    # m "\"Emotions ain’t the problem neither.\""
+    m "也不是情緒問題。"
+
+# game/williamroute3.rpy:10514
+translate Tchinese williamroute3c_3fbf8755:
+
+    # m "\"It’s spiritual.\""
+    m "是有關靈魂的。"
+
+# game/williamroute3.rpy:10515
+translate Tchinese williamroute3c_6133a3a5:
+
+    # "His ears quirked."
+    "他雙耳直豎。"
+
+# game/williamroute3.rpy:10516
+translate Tchinese williamroute3c_0c62aad0:
+
+    # "Damn."
+    "靠。"
+
+# game/williamroute3.rpy:10517
+translate Tchinese williamroute3c_45f0bd2d:
+
+    # "William might be right about this."
+    "William還真猜中了。"
+
+# game/williamroute3.rpy:10519
+translate Tchinese williamroute3c_7f2a56d5:
+
+    # ha "\"Is something unusual ailing you?\""
+    ha "有什麼困擾著你嗎？"
+
+# game/williamroute3.rpy:10521
+translate Tchinese williamroute3c_c806ebc0_1:
+
+    # m "\"Yeah.\""
+    m "是啊。"
+
+# game/williamroute3.rpy:10523
+translate Tchinese williamroute3c_fa0ffa5d:
+
+    # m "\"I’ve been hearing something scratching in the walls.\""
+    m "我最近聽見牆裡有東西在刮。"
+
+# game/williamroute3.rpy:10524
+translate Tchinese williamroute3c_b8d968bb:
+
+    # "I don’t know why I say it."
+    "不知怎麼地就說出來了。"
+
+# game/williamroute3.rpy:10525
+translate Tchinese williamroute3c_9e8b1819:
+
+    # "Because I meant to be telling lies tonight, not the partial truth."
+    "我本來想胡扯的，卻講出了一點事實。"
+
+# game/williamroute3.rpy:10526
+translate Tchinese williamroute3c_a9c4714d:
+
+    # "He stopped pouring."
+    "他停止倒酒。"
+
+# game/williamroute3.rpy:10528
+translate Tchinese williamroute3c_59fe8c29:
+
+    # ha "\"You too, then?\""
+    ha "你也一樣？"
+
+# game/williamroute3.rpy:10530
+translate Tchinese williamroute3c_33a3fb95:
+
+    # "He looks relieved."
+    "他好像放心下來了。"
+
+# game/williamroute3.rpy:10531
+translate Tchinese williamroute3c_1de7bc90:
+
+    # "But I suddenly feel a lot less so."
+    "但我頓時有了相反的心情。"
+
+# game/williamroute3.rpy:10532
+translate Tchinese williamroute3c_7e384cb7:
+
+    # m "\"I found a Meseta spirit woman who said those clawing sounds are the spirits of the unbaptized.\""
+    m "我找了個梅瑟塔的女靈媒，她說那些爪聲是未受洗的靈魂造成的。"
+
+# game/williamroute3.rpy:10533
+translate Tchinese williamroute3c_bb18d293:
+
+    # m "\"She sold me a bracelet that might help drive them out.\""
+    m "她賣了我一條手鍊好趕走那些靈魂。"
+
+# game/williamroute3.rpy:10535
+translate Tchinese williamroute3c_59cc5636:
+
+    # "Harlan snorted dismissively."
+    "Harlan不屑地嗤之以鼻。"
+
+# game/williamroute3.rpy:10537
+translate Tchinese williamroute3c_dc84b614:
+
+    # ha "\"Most likely nonsense.\""
+    ha "八成是騙人的。"
+
+# game/williamroute3.rpy:10540
+translate Tchinese williamroute3c_873b0d56:
+
+    # ha "\"Any fraud with a chisel and bones in their pocket can fake genuine Meseta talismans.\""
+    ha "只要有鑿子跟骨頭，隨便一個騙子都能做個假的梅瑟塔護符。"
+
+# game/williamroute3.rpy:10542
+translate Tchinese williamroute3c_9aafcc91:
+
+    # m "\"Well I have one right here.\""
+    m "我身上就帶著。"
+
+# game/williamroute3.rpy:10544
+translate Tchinese williamroute3c_012d43c7:
+
+    # ha "\"Let’s see it, then.\""
+    ha "讓我看看。"
+
+# game/williamroute3.rpy:10546
+translate Tchinese williamroute3c_d9c6c222:
+
+    # "I take it out of my pocket and flash it at him."
+    "我從口袋中拿出，秀給他看。"
+
+# game/williamroute3.rpy:10548
+translate Tchinese williamroute3c_35368e2f:
+
+    # "His eyes go wide."
+    "他雙眼瞪大。"
+
+# game/williamroute3.rpy:10550
+translate Tchinese williamroute3c_19faf059:
+
+    # ha "\"That’s genuine.\""
+    ha "這可是真貨啊。"
+
+# game/williamroute3.rpy:10553
+translate Tchinese williamroute3c_c773a6c1:
+
+    # ha "\"There’s real turquoise...\""
+    ha "綠松石是真的……"
+
+# game/williamroute3.rpy:10556
+translate Tchinese williamroute3c_f870299f:
+
+    # ha "\"And I recognize that engraving!\""
+    ha "那個雕刻我也認得！"
+
+# game/williamroute3.rpy:10559
+translate Tchinese williamroute3c_6770bb4c:
+
+    # ha "\"Boy...\""
+    ha "孩子……"
+
+# game/williamroute3.rpy:10562
+translate Tchinese williamroute3c_3d85ad09:
+
+    # ha "\"You must tell me what this shaman told you.\""
+    ha "趕快告訴我這位薩滿是怎麼跟你說的。"
+
+# game/williamroute3.rpy:10564
+translate Tchinese williamroute3c_5d314402:
+
+    # "I pretend to be concerned."
+    "我假裝很擔心。"
+
+# game/williamroute3.rpy:10565
+translate Tchinese williamroute3c_a544e05c:
+
+    # m "\"Maybe it should wait until you’re off the job?\""
+    m "要不要等到你下班？"
+
+# game/williamroute3.rpy:10567
+translate Tchinese williamroute3c_f277616d:
+
+    # ha "\"JULIA!\""
+    ha "JULIA！"
+
+# game/williamroute3.rpy:10569
+translate Tchinese williamroute3c_749bb79f:
+
+    # "An alarmed looking squirrel holding four mugs of beers in her and looked his way."
+    "一隻拿著四杯啤酒的松鼠驚愕地看向他。"
+
+# game/williamroute3.rpy:10572
+translate Tchinese williamroute3c_163f54e4:
+
+    # ha "\"Ten minutes.\""
+    ha "十分鐘。"
+
+# game/williamroute3.rpy:10575
+translate Tchinese williamroute3c_8f84b979:
+
+    # ha "\"Cover me.\""
+    ha "幫我撐著。"
+
+# game/williamroute3.rpy:10577
+translate Tchinese williamroute3c_e7802d7b:
+
+    # "She nodded quickly, and before I could speak he was lifting the latch on the bar."
+    "她迅速點頭，他沒等我開口就已經拉起了吧台的木栓。"
+
+# game/williamroute3.rpy:10579
+translate Tchinese williamroute3c_493917be:
+
+    # ha "\"Let’s go to the hallway...\""
+    ha "去走廊那邊……"
+
+# game/williamroute3.rpy:10582
+translate Tchinese williamroute3c_d788fb15:
+
+    # "He didn’t wait for me to agree, but I follow."
+    "我還沒來得及回應，但還是跟著他走。"
+
+# game/williamroute3.rpy:10587
+translate Tchinese williamroute3c_34ff5c29:
+
+    # "Once I was there, he looks at my pocket again."
+    "到了後，他又看向我的口袋。"
+
+# game/williamroute3.rpy:10589
+translate Tchinese williamroute3c_6959489f:
+
+    # ha "\"Take it out.\""
+    ha "拿出來。"
+
+# game/williamroute3.rpy:10591
+translate Tchinese williamroute3c_0c4f4b96:
+
+    # "I don’t hesitate."
+    "我毫不猶豫照辦。"
+
+# game/williamroute3.rpy:10592
+translate Tchinese williamroute3c_ae16c3d6:
+
+    # "It jangles pleasantly when I hold it in my hand."
+    "拿在手中時，手鍊搖擺的感覺很不錯。"
+
+# game/williamroute3.rpy:10593
+translate Tchinese williamroute3c_e4ca651a:
+
+    # "Will said this was one of her worst ones, supposedly."
+    "據Will所說，這還算她做得差的。"
+
+# game/williamroute3.rpy:10594
+translate Tchinese williamroute3c_f2090667:
+
+    # "Cynthia does a really good job with these."
+    "Cynthia在這方面確實厲害。"
+
+# game/williamroute3.rpy:10597
+translate Tchinese williamroute3c_f816d072:
+
+    # ha "\"Now I want you to tell me exactly what this shaman said.\""
+    ha "你一字一句告訴我這位薩滿說了什麼。"
+
+# game/williamroute3.rpy:10599
+translate Tchinese williamroute3c_a9ace878:
+
+    # m "\"Right...\""
+    m "好……"
+
+# game/williamroute3.rpy:10600
+translate Tchinese williamroute3c_831d414d:
+
+    # m "\"Let me try and remember.\""
+    m "我回想一下。"
+
+# game/williamroute3.rpy:10601
+translate Tchinese williamroute3c_589d8029:
+
+    # "It’s time to engineer an incredible lie."
+    "該打造個彌天大謊了。"
+
+# game/williamroute3.rpy:10602
+translate Tchinese williamroute3c_09438aed:
+
+    # m "\"The first thing she told me was that souls of the lost get real sore about not bein’in buildings.\""
+    m "起初她說迷途的靈魂會為無法進入建築物而憤恨。"
+
+# game/williamroute3.rpy:10603
+translate Tchinese williamroute3c_71c82e96:
+
+    # m "\"Home is something they used to know and miss.\""
+    m "它們曾經知曉家，也很懷念。"
+
+# game/williamroute3.rpy:10604
+translate Tchinese williamroute3c_170b7bed:
+
+    # m "\"And more importantly, our structures iare full of living people.\""
+    m "更重要的是，我們的建築物滿是活人。"
+
+# game/williamroute3.rpy:10606
+translate Tchinese williamroute3c_f161343d:
+
+    # ha "\"So what?\""
+    ha "所以呢？"
+
+# game/williamroute3.rpy:10608
+translate Tchinese williamroute3c_fd7e81eb:
+
+    # m "\"So...\""
+    m "所以……"
+
+# game/williamroute3.rpy:10609
+translate Tchinese williamroute3c_52bc7b36:
+
+    # m "\"They want to be near those people...\""
+    m "它們想接近人……"
+
+# game/williamroute3.rpy:10610
+translate Tchinese williamroute3c_e3613a2d:
+
+    # m "\"Especially ones they can hurt, or...\""
+    m "特別是能被它們傷害的，或……"
+
+# game/williamroute3.rpy:10612
+translate Tchinese williamroute3c_71fd1b27:
+
+    # m "\"Or ones they think are close to death.\""
+    m "或是它們認為鄰近死亡的。"
+
+# game/williamroute3.rpy:10613
+translate Tchinese williamroute3c_71d9c92c:
+
+    # "He’s taken aback by that."
+    "這話嚇到他了。"
+
+# game/williamroute3.rpy:10615
+translate Tchinese williamroute3c_a4f21ad9:
+
+    # ha "\"And how would they know who is or isn’t close to death?\""
+    ha "它們怎麼知道誰跟死亡近不近？"
+
+# game/williamroute3.rpy:10617
+translate Tchinese williamroute3c_94648f8e:
+
+    # m "\"Can’t say.\""
+    m "不知道。"
+
+# game/williamroute3.rpy:10618
+translate Tchinese williamroute3c_09ec8247:
+
+    # m "\"And didn’t ask.\""
+    m "我沒問。"
+
+# game/williamroute3.rpy:10619
+translate Tchinese williamroute3c_445d3505:
+
+    # "I keep thinking he’s going to scoff and walk away at any minute."
+    "我還以為他隨時都有可能嗤之以鼻、拍拍屁股走人。"
+
+# game/williamroute3.rpy:10620
+translate Tchinese williamroute3c_df8e1688:
+
+    # "But he’s still listening."
+    "但他還在聽。"
+
+# game/williamroute3.rpy:10622
+translate Tchinese williamroute3c_993195b3:
+
+    # m "\"Spirits are part of this world, but also part of another.\""
+    m "靈魂是這世界的一環，但同時也是其他世界的一部分。"
+
+# game/williamroute3.rpy:10623
+translate Tchinese williamroute3c_3993825a:
+
+    # m "\"Which is why they can move through some things but get stuck in other things.\""
+    m "所以某些物體它們能通過，有些則會堵住。"
+
+# game/williamroute3.rpy:10625
+translate Tchinese williamroute3c_fad24dd6:
+
+    # ha "\"How so?\""
+    ha "怎麼說？"
+
+# game/williamroute3.rpy:10627
+translate Tchinese williamroute3c_292ab4a7:
+
+    # m "\"She said sometimes they can move through floorboards and bodies like they’re made of water.\""
+    m "她說它們能像水一樣流過地板跟人體。"
+
+# game/williamroute3.rpy:10628
+translate Tchinese williamroute3c_87fbe28c:
+
+    # "Bullshit."
+    "胡扯。"
+
+# game/williamroute3.rpy:10630
+translate Tchinese williamroute3c_981e83aa:
+
+    # m "\"Sometimes it’s like the walls are like hard rock.\""
+    m "但有時候牆壁會像硬石頭似的。"
+
+# game/williamroute3.rpy:10631
+translate Tchinese williamroute3c_58fe2e34:
+
+    # "Bullshit!"
+    "胡扯！"
+
+# game/williamroute3.rpy:10633
+translate Tchinese williamroute3c_a317d832:
+
+    # m "\"And then there’s in-betweens where sometimes that hard rock gets more like spring puddin'.\""
+    m "還有比較居中的，硬石頭會變得像夏季布丁一樣。"
+
+# game/williamroute3.rpy:10635
+translate Tchinese williamroute3c_305925b9:
+
+    # m "\"At any time, these mediums can go back to rock again and they get trapped.\""
+    m "有的時候這種介質會變回硬石頭，卡住它們。"
+
+# game/williamroute3.rpy:10636
+translate Tchinese williamroute3c_d74f349f:
+
+    # "Pure bullshit!"
+    "純純胡扯！"
+
+# game/williamroute3.rpy:10638
+translate Tchinese williamroute3c_3951c826:
+
+    # ha "\"So how would one get rid of them if they’re stuck in something as hard as rock?\""
+    ha "那如果它們被卡在硬石頭裡，我們要怎麼才能擺脫它們？"
+
+# game/williamroute3.rpy:10640
+translate Tchinese williamroute3c_f003bde6:
+
+    # m "\"Well, according to her, it’s easiest for them to enter your body while you’re dreaming.\""
+    m "這個嘛，根據她說的，它們在人睡覺的時候最容易進入人體。"
+
+# game/williamroute3.rpy:10642
+translate Tchinese williamroute3c_cb626254:
+
+    # m "\"That’s when they can do the most harm, and try to hitch a ride quicker by shortening your life.\""
+    m "此時它們的殺傷性最高，也能縮短人的壽命好更快達成目的。"
+
+# game/williamroute3.rpy:10645
+translate Tchinese williamroute3c_090df3fa:
+
+    # m "\"So a lot of them get drawn to where you sleep the most.\""
+    m "所以在睡覺的地方會聚集特別多。"
+
+# game/williamroute3.rpy:10647
+translate Tchinese williamroute3c_0bf8e3de:
+
+    # ha "\"Well I sleep in my study.\""
+    ha "我是睡我書房的。"
+
+# game/williamroute3.rpy:10649
+translate Tchinese williamroute3c_0746d850:
+
+    # m "\"I see.\""
+    m "這樣啊。"
+
+# game/williamroute3.rpy:10651
+translate Tchinese williamroute3c_8531368b:
+
+    # m "\"That should work.\""
+    m "那應該能行。"
+
+# game/williamroute3.rpy:10653
+translate Tchinese williamroute3c_56f175d6:
+
+    # m "\"The first thing we have to do is to go on in ther and open your window.\""
+    m "首先得進去，把窗戶打開。"
+
+# game/williamroute3.rpy:10655
+translate Tchinese williamroute3c_24a15cfd:
+
+    # "The hare does’t wait to ask for an explanation why."
+    "野兔甚至都不問我箇中理由。"
+
+# game/williamroute3.rpy:10658
+translate Tchinese williamroute3c_b431bbd1:
+
+    # "He’s already fumbling with the keys on his belt loop, searching for the right one to his study."
+    "當即就從皮帶鑰匙圈上翻找書房的那把。"
+
+# game/williamroute3.rpy:10661
+translate Tchinese williamroute3c_f36b72ed:
+
+    # "I follow him through the hall to the big door."
+    "我隨他通過大廳，走到一扇大門前。"
+
+# game/williamroute3.rpy:10664
+translate Tchinese williamroute3c_85d0451e:
+
+    # "He opens it wide, about to close it again from the inside."
+    "他把門大開，眼看就要從裡面再度關上。"
+
+# game/williamroute3.rpy:10666
+translate Tchinese williamroute3c_4038c7d9:
+
+    # m "\"You should always leave it open a crack.\""
+    m "要記得留一條縫才行。"
+
+# game/williamroute3.rpy:10667
+translate Tchinese williamroute3c_b5cf9cbc:
+
+    # "I like my lips, nervously."
+    "我緊張地舔了舔嘴唇。"
+
+# game/williamroute3.rpy:10669
+translate Tchinese williamroute3c_377bdcc9:
+
+    # m "\"For the spirits that are stuck to slip on through.\""
+    m "好讓被卡住的靈魂通過。"
+
+# game/williamroute3.rpy:10671
+translate Tchinese williamroute3c_a30378f2:
+
+    # "The hares lips tighten, but he nods."
+    "野兔嘴唇一抿，但還是點點頭。"
+
+# game/williamroute3.rpy:10673
+translate Tchinese williamroute3c_8bc05d6c:
+
+    # "As I look into the room from the outside, and his body is turned away from me, two shadows in front of me slip inside."
+    "我從外頭看向房內，他正背對著我，兩道身影隨即從我眼前溜進去。"
+
+# game/williamroute3.rpy:10674
+translate Tchinese williamroute3c_8070b553:
+
+    # "All of the hairs on the back of my neck stand up, because I’m starting to believe my own bullshit."
+    "我整個后頸的毛髮直豎，都快相信自己的胡扯了。"
+
+# game/williamroute3.rpy:10675
+translate Tchinese williamroute3c_e8ec27a0:
+
+    # "...But then I can see that it’s just Will and Cynthia."
+    "……才發現那只是Will跟Cynthia而已。"
+
+# game/williamroute3.rpy:10676
+translate Tchinese williamroute3c_b928c7c5:
+
+    # "Cynthia being that quiet is one thing, but considering how big Will is, it’s a little unnerving."
+    "Cynthia沒什麼動靜也就罷了，但Will體型這麼大，很讓人擔憂。"
+
+# game/williamroute3.rpy:10678
+translate Tchinese williamroute3c_0724830f:
+
+    # "They’re crouching behind some furniture in the dark as Harlan turns around, walking towards me."
+    "Harlan轉身往我走來時，他們躲在暗處的家具後方。"
+
+# game/williamroute3.rpy:10686
+translate Tchinese williamroute3c_db24bf7f:
+
+    # "He’s walking away from me now."
+    "他離開了。"
+
+# game/williamroute3.rpy:10688
+translate Tchinese williamroute3c_54859da2:
+
+    # "I can hear him chastise Sam, as close as he is."
+    "離我們很近，能聽見他在罵Sam。"
+
+# game/williamroute3.rpy:10690
+translate Tchinese williamroute3c_fc99499f:
+
+    # ha "\"You don’t need to look in there.\""
+    ha "你別往裡頭看。"
+
+# game/williamroute3.rpy:10692
+translate Tchinese williamroute3c_b78362cc:
+
+    # "I pull out a pair of leather gloves and put them on as quickly and quietly as I know how."
+    "我拿出一雙皮手套，盡可能快速安靜地戴上。"
+
+# game/williamroute3.rpy:10693
+translate Tchinese williamroute3c_f0ba8c8f:
+
+    # "Harlan seems like the type to check for smudges."
+    "Harlan感覺會很注重污痕。"
+
+# game/williamroute3.rpy:10695
+translate Tchinese williamroute3c_96c48d19_1:
+
+    # m "\"Sorry.\""
+    m "抱歉。"
+
+# game/williamroute3.rpy:10697
+translate Tchinese williamroute3c_fda0c19a:
+
+    # m "\"I just wanted to make sure you were doing it right.\""
+    m "我只是想確保你做得正確。"
+
+# game/williamroute3.rpy:10699
+translate Tchinese williamroute3c_d6c7a377:
+
+    # ha "\"...Opening a window?\""
+    ha "……不就開個窗戶？"
+
+# game/williamroute3.rpy:10701
+translate Tchinese williamroute3c_4770ff0f:
+
+    # m "\"Well, the medium said the panes need to be perpendickalur to make sure they don’t snag the spirits.\""
+    m "靈媒說窗戶要開得「槌直」，不然可能會絆住靈魂。"
+
+# game/williamroute3.rpy:10704
+translate Tchinese williamroute3c_41207681:
+
+    # cy "\"Oh.\""
+    cy "哦。"
+
+# game/williamroute3.rpy:10706
+translate Tchinese williamroute3c_3a42ab16:
+
+    # cy "\"He’s still going.\""
+    cy "他還在說呢。"
+
+# game/williamroute3.rpy:10709
+translate Tchinese williamroute3c_43c08236:
+
+    # wi "\"Ignore Sam.\""
+    wi "別在意Sam了。"
+
+# game/williamroute3.rpy:10712
+translate Tchinese williamroute3c_2b73001c:
+
+    # wi "\"Help me look.\""
+    wi "來幫我找。"
+
+# game/williamroute3.rpy:10715
+translate Tchinese williamroute3c_93bb3c17:
+
+    # wi "\"Just five minutes and we have to jump out of the window.\""
+    wi "我們只有五分鐘就得跳窗了。"
+
+# game/williamroute3.rpy:10717
+translate Tchinese williamroute3c_485767d1:
+
+    # cy "\"I’m pretty sure I’ll have no problem making myself scarce when he gets too close.\""
+    cy "要是他靠近，我保證馬上消失無蹤。"
+
+# game/williamroute3.rpy:10719
+translate Tchinese williamroute3c_4dab1c48:
+
+    # "His desk seems like the most obvious place to check."
+    "書桌應該是最明顯的翻查目標。"
+
+# game/williamroute3.rpy:10720
+translate Tchinese williamroute3c_b6c92bd7:
+
+    # "There’s an in and out box for mundane business papers."
+    "桌上有個無聊公文的箱子。"
+
+# game/williamroute3.rpy:10721
+translate Tchinese williamroute3c_8716f2f0:
+
+    # "But the drawer is where things starts to get interesting."
+    "抽屜倒是有點意思。"
+
+# game/williamroute3.rpy:10723
+translate Tchinese williamroute3c_5173662f:
+
+    # "There’s a little black binder that looks freshly purchased in one of his drawers."
+    "其中一個裡面有個黑色的小文件夾，似乎是新買的。"
+
+# game/williamroute3.rpy:10726
+translate Tchinese williamroute3c_b2a4e2b0:
+
+    # "When I open it up it just has names and dates of various people, and identifying information."
+    "翻開後，裡面只寫著幾個人的名字、日期和個人資料。"
+
+# game/williamroute3.rpy:10728
+translate Tchinese williamroute3c_c2f26d1a:
+
+    # wi "\"Come take a look at this.\""
+    wi "看一下這個。"
+
+# game/williamroute3.rpy:10730
+translate Tchinese williamroute3c_049e37e8:
+
+    # "She tiptoes over and glances down at the pages."
+    "她踮著腳走來，俯視紙張。"
+
+# game/williamroute3.rpy:10732
+translate Tchinese williamroute3c_41207681_1:
+
+    # cy "\"Oh.\""
+    cy "噢。"
+
+# game/williamroute3.rpy:10734
+translate Tchinese williamroute3c_1cb1846a:
+
+    # cy "\"That’s a copy of Dora’s book.\""
+    cy "這是Dora的書的影本。"
+
+# game/williamroute3.rpy:10736
+translate Tchinese williamroute3c_fe1ec950:
+
+    # cy "\"Sort of like the one you had.\""
+    cy "跟你那本有點像。"
+
+# game/williamroute3.rpy:10738
+translate Tchinese williamroute3c_13da31b0:
+
+    # wi "\"So you looked through everything on my desk.\""
+    wi "看來妳是把我桌子全翻了一遍啊。"
+
+# game/williamroute3.rpy:10740
+translate Tchinese williamroute3c_99d52468:
+
+    # "Her lips thin."
+    "她抿著嘴唇。"
+
+# game/williamroute3.rpy:10742
+translate Tchinese williamroute3c_ad1ff2ed:
+
+    # wi "\"Right. Of course you’d all know about that.\""
+    wi "唉，妳自然知道了。"
+
+# game/williamroute3.rpy:10744
+translate Tchinese williamroute3c_14663d0f:
+
+    # cy "\"Hip workers really aren't the best at keeping secrets.\""
+    cy "Hip的員工真的不適合保守秘密。"
+
+# game/williamroute3.rpy:10746
+translate Tchinese williamroute3c_bc069c48:
+
+    # cy "\"Especially the ones people can use against us.\""
+    cy "尤其是會被人惡用的那種。"
+
+# game/williamroute3.rpy:10748
+translate Tchinese williamroute3c_7baaf7b8:
+
+    # "I can’t waste any time by talking about that now."
+    "沒時間能浪費在談論這種事上了。"
+
+# game/williamroute3.rpy:10750
+translate Tchinese williamroute3c_8f5ca9c5:
+
+    # wi "\"Why does he have this?\""
+    wi "他怎麼有這個？"
+
+# game/williamroute3.rpy:10752
+translate Tchinese williamroute3c_a592c741:
+
+    # wi "\"I thought he could look at Dora’s book any time.\""
+    wi "他不是隨時都能看Dora的書嗎？"
+
+# game/williamroute3.rpy:10754
+translate Tchinese williamroute3c_0e493581:
+
+    # "She shakes her head."
+    "她搖頭。"
+
+# game/williamroute3.rpy:10755
+translate Tchinese williamroute3c_f5e7e70a:
+
+    # cy "\"See, he’s not supposed to, actually.\""
+    cy "事實上，這是他不該做的。"
+
+# game/williamroute3.rpy:10757
+translate Tchinese williamroute3c_48ab2ef8:
+
+    # cy "\"Dora doesn’t ever let anybody look at the whole book, for obvious reasons I’m sure you can imagine.\""
+    cy "Dora從不讓任何翻閱整本書，你肯定也能明白原因。"
+
+# game/williamroute3.rpy:10759
+translate Tchinese williamroute3c_9ddac9d6:
+
+    # cy "\"She’d fire him for this alone.\""
+    cy "光是這件事就足夠夫人把他炒了。"
+
+# game/williamroute3.rpy:10761
+translate Tchinese williamroute3c_2092f7eb:
+
+    # "Sam’s voice echoes from the hall behind us."
+    "Sam的聲音迴盪在我們後方的廳堂中。"
+
+# game/williamroute3.rpy:10763
+translate Tchinese williamroute3c_03d6a9d6:
+
+    # m "\"...Holding the bracelet puts you on a spiritual level that makes your whole body seem like a soul rather than a vessel.\""
+    m "……握著手鍊能讓你進入一種精神狀態，你全身會變得像靈體而非容器。"
+
+# game/williamroute3.rpy:10765
+translate Tchinese williamroute3c_4a1b4b40:
+
+    # wi "\"You can’t take that book.\""
+    wi "這書不能帶走。"
+
+# game/williamroute3.rpy:10767
+translate Tchinese williamroute3c_df6b925d:
+
+    # wi "\"He’d know somebody was here.\""
+    wi "他會發現有人來過。"
+
+# game/williamroute3.rpy:10769
+translate Tchinese williamroute3c_c4410d4a:
+
+    # cy "\"And you’re afraid he’d go after Sam?\""
+    cy "你是怕他會盯上Sam嗎？"
+
+# game/williamroute3.rpy:10771
+translate Tchinese williamroute3c_f82c51a3:
+
+    # wi "\"Yes.\""
+    wi "對。"
+
+# game/williamroute3.rpy:10773
+translate Tchinese williamroute3c_44da7787:
+
+    # m "\"If we take big, slow paces, the arms stuck in the walls will have to force themselves towards us.\""
+    m "我們步調要大而慢，這樣堵在牆裡的手臂就得用盡全力來接近我們。"
+
+# game/williamroute3.rpy:10775
+translate Tchinese williamroute3c_7f7ebdc0:
+
+    # "She pats the book with the bottom of her palm covered by her sleeve."
+    "她用手掌底部被袖子蓋住的地方拍了拍那本書。"
+
+# game/williamroute3.rpy:10777
+translate Tchinese williamroute3c_401e542d:
+
+    # cy "\"I wish you cared about the rest of us as much as you seem to care about him.\""
+    cy "真希望你珍重的不只是他，而是我們所有人。"
+
+# game/williamroute3.rpy:10779
+translate Tchinese williamroute3c_fb1c0b83:
+
+    # cy "\"But at least you do seem to care about somebody else.\""
+    cy "但至少有人入得了你的眼。"
+
+# game/williamroute3.rpy:10781
+translate Tchinese williamroute3c_d37a6de4:
+
+    # "Sam’s voice is getting closer."
+    "Sam的聲因靠近了。"
+
+# game/williamroute3.rpy:10783
+translate Tchinese williamroute3c_630adf6f:
+
+    # m "\"The flow of the movement will sweep them out of the house and into the heavens.\""
+    m "這些動作的流向會把它們帶出房外，直到天堂。"
+
+# game/williamroute3.rpy:10785
+translate Tchinese williamroute3c_649aa8a3:
+
+    # wi "\"Hey.\""
+    wi "喂。"
+
+# game/williamroute3.rpy:10787
+translate Tchinese williamroute3c_c8b1f3b8:
+
+    # wi "\"If you want to take the book and blow our cover, be my guest.\""
+    wi "妳要想帶走書暴露我們，就隨妳便。"
+
+# game/williamroute3.rpy:10789
+translate Tchinese williamroute3c_77c922d2:
+
+    # "She walks away."
+    "她掉頭就走。"
+
+# game/williamroute3.rpy:10791
+translate Tchinese williamroute3c_a0d77a36:
+
+    # "I put the book back in its drawer."
+    "我把書放回抽屜。"
+
+# game/williamroute3.rpy:10793
+translate Tchinese williamroute3c_e11ed47b:
+
+    # "But as I put it back in its place, the wooden panel beneath it bounces."
+    "但我一放下書，下方的木板就隨之彈動。"
+
+# game/williamroute3.rpy:10795
+translate Tchinese williamroute3c_f4b24b15:
+
+    # "I don’t hesitate for long."
+    "我沒怎麼猶豫。"
+
+# game/williamroute3.rpy:10797
+translate Tchinese williamroute3c_bfb0e686:
+
+    # "I take the book out again, then the wood."
+    "再度把書拿出，然後是木板。"
+
+# game/williamroute3.rpy:10799
+translate Tchinese williamroute3c_ec0ef426:
+
+    # "There’s papers here."
+    "下面有紙。"
+
+# game/williamroute3.rpy:10801
+translate Tchinese williamroute3c_c4c5b025:
+
+    # "The top looks most recent."
+    "上方貌似比較近期。"
+
+# game/williamroute3.rpy:10802
+translate Tchinese williamroute3c_a41e543b:
+
+    # "I sketch as many details as I can."
+    "我盡量把細節抄下來。"
+
+# game/williamroute3.rpy:10804
+translate Tchinese williamroute3c_3ae25d85:
+
+    # "A Huaxian name sticks out."
+    "一個華夏人名鶴立雞群。"
+
+# game/williamroute3.rpy:10806
+translate Tchinese williamroute3c_37087644:
+
+    # "Chang Fulin."
+    "Chang Fulin。"
+
+# game/williamroute3.rpy:10808
+translate Tchinese williamroute3c_8e4e4e4e:
+
+    # "But most importantly, I copy down the drawings."
+    "最重要的是，我把標誌抄好了。"
+
+# game/williamroute3.rpy:10811
+translate Tchinese williamroute3c_594cc144:
+
+    # "I know these drawings."
+    "我認得這些標誌。"
+
+# game/williamroute3.rpy:10813
+translate Tchinese williamroute3c_0773e396:
+
+    # "Why are these drawings here?"
+    "怎麼會出現在這？"
+
+# game/williamroute3.rpy:10815
+translate Tchinese williamroute3c_fb051a6f:
+
+    # "My body gets cold from the sudden sweat it's making."
+    "我冷汗直流，全身發寒。"
+
+# game/williamroute3.rpy:10817
+translate Tchinese williamroute3c_057b111e:
+
+    # wi "\"Cynthia...\""
+    wi "Cynthia……"
+
+# game/williamroute3.rpy:10818
+translate Tchinese williamroute3c_6e358f62:
+
+    # wi "\"What do these pictures look like to you?\""
+    wi "妳覺得這些標誌像什麼？"
+
+# game/williamroute3.rpy:10820
+translate Tchinese williamroute3c_f11ac642:
+
+    # "She hemmed."
+    "她悶聲思考。"
+
+# game/williamroute3.rpy:10822
+translate Tchinese williamroute3c_ae0a0b0d:
+
+    # cy "\"Looks kind of like a doodle of a knife stabbing a hand.\""
+    cy "好像是有刀刺在手上的塗鴉。"
+
+# game/williamroute3.rpy:10824
+translate Tchinese williamroute3c_54bf1968:
+
+    # wi "\"Yeah, that’s what I thought.\""
+    wi "嗯，我也這麼想。"
+
+# game/williamroute3.rpy:10825
+translate Tchinese williamroute3c_3bbca04b_1:
+
+    # "She shrugs."
+    "她聳了聳肩。"
+
+# game/williamroute3.rpy:10826
+translate Tchinese williamroute3c_26e7f587:
+
+    # cy "\"Not the best drawing though.\""
+    cy "畫得不怎麼好就是了。"
+
+# game/williamroute3.rpy:10828
+translate Tchinese williamroute3c_47dfc7a7:
+
+    # "She must notice my expression, because she looks at my face rather suddenly."
+    "她肯定是察覺我的臉色了，突然盯著我的臉瞧。"
+
+# game/williamroute3.rpy:10829
+translate Tchinese williamroute3c_f17a1e32:
+
+    # cy "\"Something the matter?\""
+    cy "怎麼了嗎？"
+
+# game/williamroute3.rpy:10831
+translate Tchinese williamroute3c_4a9c1ab3:
+
+    # "Sam’s voice lingers near the doorway."
+    "Sam的聲音在門前縈繞。"
+
+# game/williamroute3.rpy:10833
+translate Tchinese williamroute3c_4a15cc56:
+
+    # m "\"Almost there.\""
+    m "就快到了。"
+
+# game/williamroute3.rpy:10835
+translate Tchinese williamroute3c_89234f1c:
+
+    # wi "\"...I don’t think we have much time left.\""
+    wi "……我們沒時間了。"
+
+# game/williamroute3.rpy:10837
+translate Tchinese williamroute3c_80f7634b:
+
+    # "She doesn’t bother responding considering she’s already halfway out of the window."
+    "她沒回應，人已經一半在窗外了。"
+
+# game/williamroute3.rpy:10838
+translate Tchinese williamroute3c_a1b53087:
+
+    # wi "\"Shit.\""
+    wi "操。"
+
+# game/williamroute3.rpy:10840
+translate Tchinese williamroute3c_52b23d2d:
+
+    # "I manage to put everything back in its place within a few seconds."
+    "我在幾秒內把所有東西物歸原位。"
+
+# game/williamroute3.rpy:10842
+translate Tchinese williamroute3c_ab613cf1:
+
+    # "By the time I reach the wall, Cynthia’s clear of the window exit."
+    "來到牆邊時，Cynthia早已不在窗前。"
+
+# game/williamroute3.rpy:10844
+translate Tchinese williamroute3c_08935d40:
+
+    # "I swing one leg over the other, twisting my tail and body through the opening, lowering myself to a crouch as the door creaks open."
+    "我一腳跨過另一腳，側身把身子連同尾巴探出窗外，在門被打開時蹲下。"
+
+# game/williamroute3.rpy:10845
+translate Tchinese williamroute3c_29d45d47:
+
+    # "We walk quickly and quietly by, out of site."
+    "我們悄悄地快步走離他們視線。"
+
+# game/williamroute3.rpy:10848
+translate Tchinese williamroute3c_270524ca:
+
+    # "Then the two of us walk side-by-side into the entrance of the Hip, not looking at one another, as if nothing had ever happened."
+    "然後並肩走回Hip酒館的正門，若無其事地互不相視。"
+
+# game/williamroute3.rpy:10854
+translate Tchinese williamroute3c_001b060b:
+
+    # wi "\"Do you think Harlan has secrets?\""
+    wi "你覺得Harlan有祕密嗎？"
+
+# game/williamroute3.rpy:10856
+translate Tchinese williamroute3c_6a0295f3:
+
+    # m "\"Everybody does.\""
+    m "所有人都有。"
+
+# game/williamroute3.rpy:10858
+translate Tchinese williamroute3c_ff2ad56d:
+
+    # wi "\"Relevant to the case I mean.\""
+    wi "我是說跟這案子有關的。"
+
+# game/williamroute3.rpy:10860
+translate Tchinese williamroute3c_7c996ef2:
+
+    # m "\"I don’t really know.\""
+    m "這我就不清楚了。"
+
+# game/williamroute3.rpy:10863
+translate Tchinese williamroute3c_d83b1875:
+
+    # m "\"He ain’t ever been the nicest fellah, but he’s fair enough if you don’t give him any trouble.\""
+    m "他人從來就不算好，但不去叨擾他的話還算正經。"
+
+# game/williamroute3.rpy:10866
+translate Tchinese williamroute3c_188bbe2a:
+
+    # m "\"Keeps to himself.\""
+    m "只顧自己的事。"
+
+# game/williamroute3.rpy:10868
+translate Tchinese williamroute3c_05a56af8:
+
+    # wi "\"So you trust him?\""
+    wi "那你是信任他囉？"
+
+# game/williamroute3.rpy:10869
+translate Tchinese williamroute3c_5fa5dc1a:
+
+    # "He taps the table."
+    "他敲著桌子。"
+
+# game/williamroute3.rpy:10871
+translate Tchinese williamroute3c_517bb6c6:
+
+    # m "\"I didn’t say that.\""
+    m "我沒說到這份上。"
+
+# game/williamroute3.rpy:10873
+translate Tchinese williamroute3c_9f4212e5:
+
+    # wi "\"Enough for you to think he’s not suspicious, I mean.\""
+    wi "我的意思是，你信他是無辜的。"
+
+# game/williamroute3.rpy:10875
+translate Tchinese williamroute3c_8a097d25:
+
+    # m "\"Cynthia doesn’t trust him.\""
+    m "Cynthia不信任他。"
+
+# game/williamroute3.rpy:10877
+translate Tchinese williamroute3c_386dcfc0:
+
+    # wi "\"And what about you?\""
+    wi "那你呢？"
+
+# game/williamroute3.rpy:10879
+translate Tchinese williamroute3c_88109335:
+
+    # m "\"I consider most of Cynthia’s judgements good enough to be considered what I believe, more likely than not.\""
+    m "我覺得Cynthia對大多事的判斷是對的，我通常也都信她。"
+
+# game/williamroute3.rpy:10881
+translate Tchinese williamroute3c_1afc8410:
+
+    # wi "\"Any exceptions?\""
+    wi "有例外嗎？"
+
+# game/williamroute3.rpy:10883
+translate Tchinese williamroute3c_1939486d:
+
+    # "He shrugs."
+    "他聳肩。"
+
+# game/williamroute3.rpy:10885
+translate Tchinese williamroute3c_5369e339:
+
+    # m "\"There’s you I suppose.\""
+    m "你就算是一個吧。"
+
+# game/williamroute3.rpy:10887
+translate Tchinese williamroute3c_9e914f64:
+
+    # "He grins."
+    "他咧嘴一笑。"
+
+# game/williamroute3.rpy:10888
+translate Tchinese williamroute3c_b03653a3:
+
+    # wi "\"I don’t need everybody to like me.\""
+    wi "我不需要大家的愛戴。"
+
+# game/williamroute3.rpy:10890
+translate Tchinese williamroute3c_5d8e3268:
+
+    # m "\"So long as I like you, sheriff.\""
+    m "只要有我喜歡你就好了，警長。"
+
+# game/williamroute3.rpy:10892
+translate Tchinese williamroute3c_d800712a:
+
+    # wi "\"Don’t get me hot in public, Sam.\""
+    wi "你別在大庭廣眾下讓害我發燙，Sam。"
+
+# game/williamroute3.rpy:10894
+translate Tchinese williamroute3c_9258d30a:
+
+    # m "\"It’s the desert William.\""
+    m "這裡可是沙漠啊William。"
+
+# game/williamroute3.rpy:10897
+translate Tchinese williamroute3c_d86bd054:
+
+    # m "\"Everybody’s hot.\""
+    m "大家都很燙呢。"
+
+# game/williamroute3.rpy:10899
+translate Tchinese williamroute3c_54a021b4:
+
+    # "He knows what I mean, so he doesn’t get the dignity of a response."
+    "他明白我的意思，我也懶得回嘴。"
+
+# game/williamroute3.rpy:10903
+translate Tchinese williamroute3c_c420ecb4:
+
+    # "Rather than calming down, the energy in the bar keeps ramping up."
+    "酒吧的生氣不降反升。"
+
+# game/williamroute3.rpy:10904
+translate Tchinese williamroute3c_15fd5250:
+
+    # "The overcrowding there spills into the stage area and I can hear some performers start to speak up."
+    "群眾多得擠到了舞台區域，都有表演者開始說話了。"
+
+# game/williamroute3.rpy:10908
+translate Tchinese williamroute3c_f930024b:
+
+    # "Sam’s gone back to his usual spot and thankfully saved my seat."
+    "Sam已經回到了他的老地方，也幫我留了個座位。"
+
+# game/williamroute3.rpy:10910
+translate Tchinese williamroute3c_d7219768:
+
+    # "He gives me a look like he wants to know how everything went."
+    "一副想要我講清來龍去脈的表情。"
+
+# game/williamroute3.rpy:10912
+translate Tchinese williamroute3c_50b44668:
+
+    # "I give him a look letting him we can’t talk about it here or now."
+    "我回以他這事不能現在在這談的表情。"
+
+# game/williamroute3.rpy:10915
+translate Tchinese williamroute3c_42f0a6d3:
+
+    # "I kick back in the chair and fold my arms behind my head."
+    "我翹著椅子，雙手疊在腦後。"
+
+# game/williamroute3.rpy:10917
+translate Tchinese williamroute3c_8254990c:
+
+    # m "\"There’s your deputy.\""
+    m "你副手來了。"
+
+# game/williamroute3.rpy:10919
+translate Tchinese williamroute3c_bea7937a:
+
+    # "A very confused looking otter is talking with Cynthia."
+    "一名非常困惑的水獺正在跟Cynthia對話。"
+
+# game/williamroute3.rpy:10920
+translate Tchinese williamroute3c_ace91506:
+
+    # wi "\"Todd!\""
+    wi "Todd！"
+
+# game/williamroute3.rpy:10925
+translate Tchinese williamroute3c_fac8e473:
+
+    # "The voices in the bar quiet down a bit after I shout."
+    "我一大吼，整間酒館就安靜了下來。"
+
+# game/williamroute3.rpy:10926
+translate Tchinese williamroute3c_8665b278:
+
+    # "But the noise recovers quickly and the otter comes rushing towards us."
+    "但不一會又熱絡了起來，水獺也衝了過來。"
+
+# game/williamroute3.rpy:10929
+translate Tchinese williamroute3c_5c706aca:
+
+    # to "\"There ya are, sir.\""
+    to "你在這啊，長官。"
+
+# game/williamroute3.rpy:10932
+translate Tchinese williamroute3c_228c7dc9:
+
+    # to "\"I did a thorough check on the Greene house and logged the necessary evidence.\""
+    to "我嚴密檢查過Greene住宅，也填好證據了。"
+
+# game/williamroute3.rpy:10935
+translate Tchinese williamroute3c_0f8721cf:
+
+    # wi "\"Did Marcy make it?\""
+    wi "Marcy撐住了嗎？"
+
+# game/williamroute3.rpy:10937
+translate Tchinese williamroute3c_e28d5ab7:
+
+    # to "\"For now.\""
+    to "目前算是。"
+
+# game/williamroute3.rpy:10938
+translate Tchinese williamroute3c_dfda235d:
+
+    # wi "\"Good.\""
+    wi "很好。"
+
+# game/williamroute3.rpy:10940
+translate Tchinese williamroute3c_5f7d4655:
+
+    # wi "\"If she comes to, she’ll probably have more to tell us.\""
+    wi "等她醒來，應該能跟我們說更多。"
+
+# game/williamroute3.rpy:10942
+translate Tchinese williamroute3c_241aaa0b:
+
+    # "The otter droops."
+    "水獺陷入消沉。"
+
+# game/williamroute3.rpy:10943
+translate Tchinese williamroute3c_5e63cac3:
+
+    # to "\"I don’t want to step on any toes or nothin’, sir, but don’t you think she’s done enough?\""
+    to "我無意越權，長官，但你不覺得她已經做夠多了嗎？"
+
+# game/williamroute3.rpy:10944
+translate Tchinese williamroute3c_8619f2c6_1:
+
+    # "I shrug."
+    "我聳肩。"
+
+# game/williamroute3.rpy:10945
+translate Tchinese williamroute3c_98ab77fd:
+
+    # wi "\"We’ll leave it up to her.\""
+    wi "這事看她。"
+
+# game/williamroute3.rpy:10948
+translate Tchinese williamroute3c_918c6202:
+
+    # to "\"I just don’t think you should press her too hard if you get the chance to speak to her again.\""
+    to "我只是不希望你下次跟他談話時把她逼得太緊。"
+
+# game/williamroute3.rpy:10949
+translate Tchinese williamroute3c_2ffb6d6e:
+
+    # wi "\"I understand your feelings considering you grew up around her.\""
+    wi "我懂你的心情，畢竟你是在她身邊長大的。"
+
+# game/williamroute3.rpy:10950
+translate Tchinese williamroute3c_33a891ef:
+
+    # wi "\"But if there’s more she wants share, the more we know the better.\""
+    wi "只是她如果願意告訴我們更多事情，那自然是越多越好。"
+
+# game/williamroute3.rpy:10951
+translate Tchinese williamroute3c_59d72e07:
+
+    # "He’s shifting a bit in his seat."
+    "他在座位上挪動重心。"
+
+# game/williamroute3.rpy:10953
+translate Tchinese williamroute3c_0ba87b74:
+
+    # to "\"I just hope there’s better things in store for poor old Marcy.\""
+    to "但願可憐的Marcy能遇到點好事。"
+
+# game/williamroute3.rpy:10955
+translate Tchinese williamroute3c_30df33e0:
+
+    # to "\"I reckon Mr. Green’s soul is hopping on charcoal by now.\""
+    to "Greene先生的靈魂恐怕正在被炭火灼燒吧。"
+
+# game/williamroute3.rpy:10956
+translate Tchinese williamroute3c_b27b246e:
+
+    # to "\"She’ll do better going forward.\""
+    to "她往後的日子能好過點了。"
+
+# game/williamroute3.rpy:10959
+translate Tchinese williamroute3c_a9fbf3e2:
+
+    # m "\"Sounds like there’s something you don’t want her to say.\""
+    m "感覺你好像有事不太想讓她說。"
+
+# game/williamroute3.rpy:10961
+translate Tchinese williamroute3c_90791690:
+
+    # to "\"Huh?\""
+    to "啊？"
+
+# game/williamroute3.rpy:10963
+translate Tchinese williamroute3c_da98f25d:
+
+    # m "\"About Mr. Greene, I mean.\""
+    m "跟Greene先生有關的事。"
+
+# game/williamroute3.rpy:10965
+translate Tchinese williamroute3c_58c19941:
+
+    # "He scratches the back of his neck."
+    "他搔了搔後頸。"
+
+# game/williamroute3.rpy:10966
+translate Tchinese williamroute3c_4f32501a:
+
+    # to "\"Not sure where you got that idea from.\""
+    to "我不懂你怎麼會這麼說。"
+
+# game/williamroute3.rpy:10968
+translate Tchinese williamroute3c_1bc19876:
+
+    # m "\"You just keep discouraging us from the notion of talking to her again, is all.\""
+    m "你一直在想辦法打消我們找她談話的念頭。"
+
+# game/williamroute3.rpy:10970
+translate Tchinese williamroute3c_f7a3a4f6:
+
+    # "He shifts again."
+    "他再度挪動身子。"
+
+# game/williamroute3.rpy:10972
+translate Tchinese williamroute3c_002383a1:
+
+    # to "\"Naw.\""
+    to "沒呀。"
+
+# game/williamroute3.rpy:10974
+translate Tchinese williamroute3c_886e35f8:
+
+    # to "\"I’m just real concerned about her is all!\""
+    to "我只是真的很擔心她！"
+
+# game/williamroute3.rpy:10976
+translate Tchinese williamroute3c_1a17d3cd:
+
+    # to "\"She’s the bees knees, really.\""
+    to "她人真的很好的。"
+
+# game/williamroute3.rpy:10977
+translate Tchinese williamroute3c_abec231f:
+
+    # "Todd looks nervous."
+    "Todd一臉緊張。"
+
+# game/williamroute3.rpy:10978
+translate Tchinese williamroute3c_2ad9ce87:
+
+    # "Sam looks doubtful."
+    "Sam一臉懷疑。"
+
+# game/williamroute3.rpy:10979
+translate Tchinese williamroute3c_1c72f009:
+
+    # "Maybe Sam is on to something about Todd."
+    "Sam對Todd的猜疑或許有點東西。"
+
+# game/williamroute3.rpy:10980
+translate Tchinese williamroute3c_9c1e95e8:
+
+    # "Maybe there was something else going on between him, Marcy, and Mr. Greene."
+    "他跟Marcy和Greene先生之間可能還有什麼蹊蹺。"
+
+# game/williamroute3.rpy:10981
+translate Tchinese williamroute3c_32d10fbd:
+
+    # "Can't say I have any guesses yet, though."
+    "不過目前我還沒頭緒。"
+
+# game/williamroute3.rpy:10983
+translate Tchinese williamroute3c_b0cbf706:
+
+    # wi "\"You really didn’t like Mr. Greene, did you Todd?\""
+    wi "你真的很討厭Greene先生是吧，Todd？"
+
+# game/williamroute3.rpy:10984
+translate Tchinese williamroute3c_caf23f16:
+
+    # to "\"Well ma and pa tell me that it’s important to like everybody, no matter hard it can be.\""
+    to "爸媽告誡我要喜歡每一個人，就算很困難。"
+
+# game/williamroute3.rpy:10986
+translate Tchinese williamroute3c_baf93ee4:
+
+    # to "\"But sometimes it’s {i}real{/i} hard.\""
+    to "只是有時候{i}真的{/i}太難了。"
+
+# game/williamroute3.rpy:10988
+translate Tchinese williamroute3c_2f51ff1a:
+
+    # "He whistles and laughs."
+    "他吹了聲口哨，笑了起來。"
+
+# game/williamroute3.rpy:10990
+translate Tchinese williamroute3c_5277d1d8:
+
+    # m "\"There's not chance you knew what was going on in that house, did you?\""
+    m "你不會早就知道那間房裡發生了什麼事吧？"
+
+# game/williamroute3.rpy:10992
+translate Tchinese williamroute3c_a66e968a:
+
+    # "His tone gets harsher."
+    "他語氣更刻薄了。"
+
+# game/williamroute3.rpy:10994
+translate Tchinese williamroute3c_b23fba3a:
+
+    # to "\"No, not really.\""
+    to "不，我不知道。"
+
+# game/williamroute3.rpy:10996
+translate Tchinese williamroute3c_c36aad1e:
+
+    # "The cougar shrugs and drops it."
+    "山貓聳聳肩，不再多談。"
+
+# game/williamroute3.rpy:10997
+translate Tchinese williamroute3c_56349658:
+
+    # "I can tell Sam isn’t going to push it any further."
+    "我看得出Sam不打算再追問了。"
+
+# game/williamroute3.rpy:10998
+translate Tchinese williamroute3c_eaa69215:
+
+    # "Now I’m {i}definitely{/i} going to want to talk to her when she’s able to speak again."
+    "但現在我{i}絕對{/i}會在她醒來後去找她談談。"
+
+# game/williamroute3.rpy:11003
+translate Tchinese williamroute3c_a881f2fd:
+
+    # ni "\"Good afternoon boys.\""
+    ni "午安啊，大夥。"
+
+# game/williamroute3.rpy:11009
+translate Tchinese williamroute3c_31321d8d:
+
+    # "Sam flinches and lets out a genuine shout which makes us all look at him."
+    "Sam大吃一驚，驚呼出聲，讓我們都看向他。"
+
+# game/williamroute3.rpy:11012
+translate Tchinese williamroute3c_32de082e:
+
+    # "His ears lower."
+    "他雙耳下垂。"
+
+# game/williamroute3.rpy:11015
+translate Tchinese williamroute3c_96c48d19_2:
+
+    # m "\"Sorry.\""
+    m "抱歉。"
+
+# game/williamroute3.rpy:11019
+translate Tchinese williamroute3c_351907d6:
+
+    # m "\"Just surprised.\""
+    m "我只是嚇了一跳。"
+
+# game/williamroute3.rpy:11022
+translate Tchinese williamroute3c_6a01c4e8:
+
+    # ni "\"I am known to be very scary.\""
+    ni "大家都知道我很嚇人的。"
+
+# game/williamroute3.rpy:11025
+translate Tchinese williamroute3c_ebee6c92:
+
+    # wi "\"This is the first time you got the jump on me too.\""
+    wi "這也是你第一次嚇到我。"
+
+# game/williamroute3.rpy:11026
+translate Tchinese williamroute3c_306cc431:
+
+    # wi "\"Somebody as big as you shouldn’t be able to do that.\""
+    wi "你人這麼大，居然能做到這種事。"
+
+# game/williamroute3.rpy:11028
+translate Tchinese williamroute3c_2c5eb776:
+
+    # "Nik shrugs."
+    "Nik聳聳肩。"
+
+# game/williamroute3.rpy:11030
+translate Tchinese williamroute3c_8efd7e12:
+
+    # ni "\"I am very familiar with this bar.\""
+    ni "我很熟這間酒吧的。"
+
+# game/williamroute3.rpy:11033
+translate Tchinese williamroute3c_36adf2ca:
+
+    # m "\"Ain’t you usually at the mine still?\""
+    m "你不是應該還在礦坑嗎？"
+
+# game/williamroute3.rpy:11036
+translate Tchinese williamroute3c_40c61e5e:
+
+    # ni "\"Not today.\""
+    ni "今天不是。"
+
+# game/williamroute3.rpy:11039
+translate Tchinese williamroute3c_215c792a:
+
+    # ni "\"It is a strike, Samuel.\""
+    ni "我們在罷工，Samuel。"
+
+# game/williamroute3.rpy:11042
+translate Tchinese williamroute3c_2d3e1bbf:
+
+    # m "\"So you don’t have to go into work, I take it?\""
+    m "意思就是不用去工作了？"
+
+# game/williamroute3.rpy:11044
+translate Tchinese williamroute3c_47acc033:
+
+    # wi "\"He also don’t get paid, Sam.\""
+    wi "但也拿不到薪水啊，Sam。"
+
+# game/williamroute3.rpy:11046
+translate Tchinese williamroute3c_ea7e651d:
+
+    # m "\"Well, shit.\""
+    m "這就操蛋了。"
+
+# game/williamroute3.rpy:11049
+translate Tchinese williamroute3c_128c4cfb:
+
+    # ni "\"But there is good news.\""
+    ni "不過有個好消息。"
+
+# game/williamroute3.rpy:11051
+translate Tchinese williamroute3c_55065c7d:
+
+    # to "\"We could use some of that.\""
+    to "終於有好消息了。"
+
+# game/williamroute3.rpy:11054
+translate Tchinese williamroute3c_499b85ea:
+
+    # m "\"Yes.\""
+    m "就是啊。"
+
+# game/williamroute3.rpy:11056
+translate Tchinese williamroute3c_3f739ce1_1:
+
+    # "I sigh."
+    "我嘆了口氣。"
+
+# game/williamroute3.rpy:11057
+translate Tchinese williamroute3c_b4c297ec:
+
+    # wi "\"Agreed.\""
+    wi "同感。"
+
+# game/williamroute3.rpy:11058
+translate Tchinese williamroute3c_1d1c9415:
+
+    # ni "\"Negotiations are going somewhere.\""
+    ni "協商有點結果了。"
+
+# game/williamroute3.rpy:11059
+translate Tchinese williamroute3c_e8195ec3:
+
+    # ni "\"A twenty cent hourly raise will be added for everybody in the company.\""
+    ni "公司每個人的時薪都會調升二十分錢。"
+
+# game/williamroute3.rpy:11061
+translate Tchinese williamroute3c_449b3b79:
+
+    # "Todd whistles."
+    "Todd吹了聲口哨。"
+
+# game/williamroute3.rpy:11063
+translate Tchinese williamroute3c_1fd534c1:
+
+    # wi "\"Now that’s what I like to hear.\""
+    wi "這消息真不賴。"
+
+# game/williamroute3.rpy:11064
+translate Tchinese williamroute3c_7576cb2e:
+
+    # "I raise my glass and Todd meets it."
+    "我舉起杯子，Todd前來乾杯。"
+
+# game/williamroute3.rpy:11065
+translate Tchinese williamroute3c_25e251b4:
+
+    # wi "\"Good on y’all.\""
+    wi "太好了。"
+
+# game/williamroute3.rpy:11067
+translate Tchinese williamroute3c_64ce0b40:
+
+    # m "\"Should still be higher.\""
+    m "應該還要再高。"
+
+# game/williamroute3.rpy:11070
+translate Tchinese williamroute3c_dc3dc0bb:
+
+    # ni "\"I agree, but we expected nothing.\""
+    ni "我也這麼想，但我們原本不抱任何希望。"
+
+# game/williamroute3.rpy:11073
+translate Tchinese williamroute3c_47783c2f:
+
+    # to "\"Something is always better than nothing.\""
+    to "有總比沒有好。"
+
+# game/williamroute3.rpy:11076
+translate Tchinese williamroute3c_620499f5:
+
+    # m "\"Not the case with diseases.\""
+    m "疾病可就不是了。"
+
+# game/williamroute3.rpy:11080
+translate Tchinese williamroute3c_7112162e:
+
+    # ni "\"Oh, ighten up Sam.\""
+    ni "唉，高興點嘛Sam。"
+
+# game/williamroute3.rpy:11081
+translate Tchinese williamroute3c_5df2b172:
+
+    # ni "\"Victories, however small, should be noticed.\""
+    ni "無論多麼渺小的勝利都值得慶祝。"
+
+# game/williamroute3.rpy:11083
+translate Tchinese williamroute3c_f5b1992b:
+
+    # wi "\"Yeah, lighten up.\""
+    wi "就是，開心點。"
+
+# game/williamroute3.rpy:11085
+translate Tchinese williamroute3c_c821361d:
+
+    # m "\"I’ll just be glad they’re not robbing you as much.\""
+    m "那我就慶幸他們沒再壓榨你了。"
+
+# game/williamroute3.rpy:11087
+translate Tchinese williamroute3c_fb146402:
+
+    # wi "\"Anyway, why don’t you grab a drink with us to celebrate?\""
+    wi "何不跟我們一起來一杯慶祝一下？"
+
+# game/williamroute3.rpy:11088
+translate Tchinese williamroute3c_b0cf50b0:
+
+    # wi "\"You can tell us why you showed up here.\""
+    wi "說說你為什麼來這。"
+
+# game/williamroute3.rpy:11090
+translate Tchinese williamroute3c_3a78282e:
+
+    # ni "\"Well I usually come here first to get Sam.\""
+    ni "我通常都先來這找Sam。"
+
+# game/williamroute3.rpy:11092
+translate Tchinese williamroute3c_c2287973:
+
+    # ni "\"Then I walk him over to your office.\""
+    ni "然後跟他一起去你辦公室。"
+
+# game/williamroute3.rpy:11094
+translate Tchinese williamroute3c_0f6641d3:
+
+    # ni "\"Thankfully, since you’re already here, I won’t have to make the extra effort.\""
+    ni "但既然你已經在這，就能省下去找你的功夫了。"
+
+# game/williamroute3.rpy:11096
+translate Tchinese williamroute3c_bae6f9cf:
+
+    # wi "\"I meant what for.\""
+    wi "我就是在問為什麼要找我。"
+
+# game/williamroute3.rpy:11097
+translate Tchinese williamroute3c_bb3551dc:
+
+    # wi "\"You know... the occasion?\""
+    wi "就是……要做什麼？"
+
+# game/williamroute3.rpy:11099
+translate Tchinese williamroute3c_34fd276f:
+
+    # "He hums."
+    "他蛤了一聲。"
+
+# game/williamroute3.rpy:11103
+translate Tchinese williamroute3c_a939d5b5:
+
+    # ni "\"...For our nightly plans.\""
+    ni "……我們晚上的行程啊。"
+
+# game/williamroute3.rpy:11105
+translate Tchinese williamroute3c_598dc272:
+
+    # "I try to focus for a moment."
+    "我集中精神。"
+
+# game/williamroute3.rpy:11106
+translate Tchinese williamroute3c_cd87f618:
+
+    # wi "\"What do you mean, {i}‘nightly plans’{/i}?\""
+    wi "什麼{i}晚上的行程{/i}？"
+
+# game/williamroute3.rpy:11108
+translate Tchinese williamroute3c_08467efb:
+
+    # ni "\"For the Stag tonight.\""
+    ni "今晚要去Stag酒館啊。"
+
+# game/williamroute3.rpy:11110
+translate Tchinese williamroute3c_0b4564ba:
+
+    # "Oh fuck."
+    "喔操。"
+
+# game/williamroute3.rpy:11111
+translate Tchinese williamroute3c_d3113e84:
+
+    # "I completely forgot."
+    "忘得一乾二淨了。"
+
+# game/williamroute3.rpy:11112
+translate Tchinese williamroute3c_90403db4:
+
+    # "By the looks on Sam and Todd’s face, they're a little overwhelmed."
+    "從Sam跟Todd的臉色看來，他們也有點疲倦了。"
+
+# game/williamroute3.rpy:11114
+translate Tchinese williamroute3c_6fb8035a:
+
+    # to "\"Ain’t that place a bit rough and tumble?\""
+    to "那裡不是又吵又擠嗎？"
+
+# game/williamroute3.rpy:11117
+translate Tchinese williamroute3c_4ac6351d:
+
+    # m "\"Things tend to get rough when you take a tumble.\""
+    m "很擠的地方都很吵。"
+
+# game/williamroute3.rpy:11120
+translate Tchinese williamroute3c_5688aebe:
+
+    # wi "\"I don’t know if I have the energy to go to another dance hall tonight, Nik.\""
+    wi "我不知道今晚還有沒有精力去另一個舞廳，Nik。"
+
+# game/williamroute3.rpy:11122
+translate Tchinese williamroute3c_f81fdc2d:
+
+    # ni "\"Hrm.\""
+    ni "唔。"
+
+# game/williamroute3.rpy:11123
+translate Tchinese williamroute3c_e3fc5a11:
+
+    # ni "\"But it would be a shame to see you miss another opportunity to see it at night with all of us together.\""
+    ni "要是你又錯失能跟大家一起在晚上去那看看的機會，也太可惜了。"
+
+# game/williamroute3.rpy:11125
+translate Tchinese williamroute3c_a42c27f7:
+
+    # wi "\"Well, we’ve had a long day.\""
+    wi "我們今天忙死了。"
+
+# game/williamroute3.rpy:11126
+translate Tchinese williamroute3c_2091ea7c:
+
+    # wi "\"And there’s a lot of things I need to think about regarding Mr. Tibbits’ case.\""
+    wi "我還有很多關於Tibbits先生案件的事要處理。"
+
+# game/williamroute3.rpy:11128
+translate Tchinese williamroute3c_e5ac6277:
+
+    # ni "\"Okay, okay.\""
+    ni "好啦、好啦。"
+
+# game/williamroute3.rpy:11130
+translate Tchinese williamroute3c_87721e34:
+
+    # ni "\"No pressure\""
+    ni "也沒人逼你。"
+
+# game/williamroute3.rpy:11135
+translate Tchinese williamroute3c_632e3adb:
+
+    # wi "\"Maybe you can help me with something.\""
+    wi "或許你能幫我個忙。"
+
+# game/williamroute3.rpy:11137
+translate Tchinese williamroute3c_6615739f:
+
+    # ni "\"Oh?\""
+    ni "哦？"
+
+# game/williamroute3.rpy:11139
+translate Tchinese williamroute3c_331dde8b:
+
+    # wi "\"This question applies to you too Todd, so listen up.\""
+    wi "也一樣問問你，Todd，聽好了。"
+
+# game/williamroute3.rpy:11141
+translate Tchinese williamroute3c_21f7ca4e:
+
+    # to "\"Yessir.\""
+    to "好的。"
+
+# game/williamroute3.rpy:11143
+translate Tchinese williamroute3c_21c9c7b6:
+
+    # wi "\"And you, Sam.\""
+    wi "你也是，Sam。"
+
+# game/williamroute3.rpy:11144
+translate Tchinese williamroute3c_97b08344:
+
+    # "He’s on what looks like his second drink and he perks up."
+    "好像在喝第二杯的他振作了起來。"
+
+# game/williamroute3.rpy:11145
+translate Tchinese williamroute3c_bfb943a0:
+
+    # m "\"Mmm.\""
+    m "嗯嗯。"
+
+# game/williamroute3.rpy:11146
+translate Tchinese williamroute3c_6f8a7489:
+
+    # wi "\"I ran across a peculiar name recently.\""
+    wi "我最近見到了個奇特的名字。"
+
+# game/williamroute3.rpy:11147
+translate Tchinese williamroute3c_9586c70c:
+
+    # wi "\"Not sure if I’m pronouncing it correctly, but I'll say it how it was spelled: Chang Fulin.\""
+    wi "不知道發音正不正確，但我現在照著拼法唸：Chang Fulin。"
+
+# game/williamroute3.rpy:11149
+translate Tchinese williamroute3c_c2bfe852_2:
+
+    # m "\"Nope.\""
+    m "沒聽過。"
+
+# game/williamroute3.rpy:11152
+translate Tchinese williamroute3c_fc01108c:
+
+    # to "\"Sorry, boss.\""
+    to "抱歉，老大。"
+
+# game/williamroute3.rpy:11155
+translate Tchinese williamroute3c_63c8f56c:
+
+    # "Nik is smirking a nasty little smirk."
+    "Nik奸詐地笑著。"
+
+# game/williamroute3.rpy:11156
+translate Tchinese williamroute3c_1c317623:
+
+    # ni "\"I know him.\""
+    ni "我認識他。"
+
+# game/williamroute3.rpy:11157
+translate Tchinese williamroute3c_359c19d1:
+
+    # "I feel a shot of energy run through my body."
+    "一道能量流經我全身。"
+
+# game/williamroute3.rpy:11158
+translate Tchinese williamroute3c_b266009d:
+
+    # wi "\"You do?\""
+    wi "你認識？"
+
+# game/williamroute3.rpy:11159
+translate Tchinese williamroute3c_c1850782:
+
+    # ni "\"He is a friend of a friend, so to speak.\""
+    ni "他算是我朋友的朋友。"
+
+# game/williamroute3.rpy:11160
+translate Tchinese williamroute3c_3eb6a538:
+
+    # ni "\"And he will be at the Stag most nights.\""
+    ni "大多晚上都會待在Stag。"
+
+# game/williamroute3.rpy:11161
+translate Tchinese williamroute3c_129c2868:
+
+    # "I groan."
+    "我發出嘔氣聲。"
+
+# game/williamroute3.rpy:11163
+translate Tchinese williamroute3c_d4a34223:
+
+    # ni "\"Looks like you’ll be coming with us tonight after all?\""
+    ni "看來你今晚還是要跟我們一起去了吧？"
+
+# game/williamroute3.rpy:11165
+translate Tchinese williamroute3c_cad61aeb:
+
+    # wi "\"Looking more and more likely...\""
+    wi "越來越有可能……"
+
+# game/williamroute3.rpy:11167
+translate Tchinese williamroute3c_91a62185:
+
+    # "My cup has been empty for too long."
+    "我的杯子空太久了。"
+
+# game/williamroute3.rpy:11170
+translate Tchinese williamroute3c_89a34346:
+
+    # "I take a sip of the beer next to mine on the table."
+    "我啜了口桌上自己杯子旁邊的啤酒。"
+
+# game/williamroute3.rpy:11172
+translate Tchinese williamroute3c_d6e6860f:
+
+    # m "\"That’s mine.\""
+    m "那是我的耶。"
+
+# game/williamroute3.rpy:11174
+translate Tchinese williamroute3c_f665a819:
+
+    # wi "\"I need it more than you right now.\""
+    wi "我現在比你更需要。"
+
+# game/williamroute3.rpy:11175
+translate Tchinese williamroute3c_fe588dab:
+
+    # "I take a big swig of his drink."
+    "然後大喝一口。"
+
+# game/williamroute3.rpy:11179
+translate Tchinese williamroute3c_159f6b4a:
+
+    # m "\"Hope you like the taste of my spit, then.\""
+    m "那就希望你喜歡我口水的味道了。"
+
+# game/williamroute3.rpy:11181
+translate Tchinese williamroute3c_f8a548a9:
+
+    # "Todd gulps and Nikolai avoids eye contact with everybody."
+    "Todd吞了口口水，Nikolai則避開眾人的視線。"
+
+# game/williamroute3.rpy:11182
+translate Tchinese williamroute3c_a771b231:
+
+    # wi "\"Good thing Alcohol tends to clean even the dirtiest of mouths.\""
+    wi "剛好酒精適合用來清潔，不管多髒的嘴都行。"
+
+# game/williamroute3.rpy:11184
+translate Tchinese williamroute3c_6e21c758:
+
+    # m "\"You and I know the proof on that beer is less than four percent.\""
+    m "你我都知道這啤酒的濃度還不到百分之四。"
+
+# game/williamroute3.rpy:11187
+translate Tchinese williamroute3c_f9d08872:
+
+    # m "\"You’re not tasting just my spit with a proof that low.\""
+    m "濃度這麼低，你吃的可不只我的口水。"
+
+# game/williamroute3.rpy:11189
+translate Tchinese williamroute3c_e34e3f7f:
+
+    # "He leans over and whispers into my ear."
+    "他湊近向我耳語。"
+
+# game/williamroute3.rpy:11191
+translate Tchinese williamroute3c_9f0a90bb:
+
+    # m "\"I’m talking about the {i}balls{/i} I’ve licked, William.\""
+    m "我是在說我舔過的{i}蛋{/i}，William。"
+
+# game/williamroute3.rpy:11193
+translate Tchinese williamroute3c_2c13481a:
+
+    # wi "\"I know you dream about me lickin’ balls.\""
+    wi "我知道你作夢都想要我舔蛋。"
+
+# game/williamroute3.rpy:11195
+translate Tchinese williamroute3c_a3ff6e46:
+
+    # m "\"So why keep me waitin’?\""
+    m "那還等什麼？"
+
+# game/williamroute3.rpy:11197
+translate Tchinese williamroute3c_3f739ce1_2:
+
+    # "I sigh."
+    "我嘆了口氣。"
+
+# game/williamroute3.rpy:11198
+translate Tchinese williamroute3c_1095842b:
+
+    # "I wish I could answer that right now."
+    "真希望我能當場回答。"
+
+# game/williamroute3.rpy:11199
+translate Tchinese williamroute3c_5f716c69:
+
+    # "But I don’t want to spoil the mood."
+    "但不想破壞氣氛。"
+
+# game/williamroute3.rpy:11200
+translate Tchinese williamroute3c_fae8f38a:
+
+    # "So I just decide to act cheeky."
+    "於是決定調皮點。"
+
+# game/williamroute3.rpy:11201
+translate Tchinese williamroute3c_5d5bfdcc:
+
+    # wi "\"Because I never need to make you finish.\""
+    wi "因為你從來都不需要我幫就能完事啊。"
+
+# game/williamroute3.rpy:11203
+translate Tchinese williamroute3c_8229d2cb:
+
+    # ni "\"What are you both whispering about?\""
+    ni "你們在講什麼悄悄話？"
+
+# game/williamroute3.rpy:11205
+translate Tchinese williamroute3c_3b889a61:
+
+    # wi "\"Nothing for the ears of God, or civilized company.\""
+    wi "這話不好說給神或文明人聽的。"
+
+# game/williamroute3.rpy:11208
+translate Tchinese williamroute3c_0b451c98:
+
+    # to "\"Well I’m sure he wouldn’t be mad at us forever just for a little bit of indecency here in there.\""
+    to "相信祂不會因為偶爾下流了點，就不原諒我們的。"
+
+# game/williamroute3.rpy:11211
+translate Tchinese williamroute3c_881e321f:
+
+    # m "\"That’s a bold presumption to make.\""
+    m "你心還挺大啊。"
+
+# game/williamroute3.rpy:11214
+translate Tchinese williamroute3c_965f898f:
+
+    # to "\"Well I just thought about it for a spell.\""
+    to "我就只是想一下而已嘛。"
+
+# game/williamroute3.rpy:11217
+translate Tchinese williamroute3c_eb1a8879:
+
+    # m "\"He just thought about it for a spell.\""
+    m "就只是想一下而已。"
+
+# game/williamroute3.rpy:11219
+translate Tchinese williamroute3c_ab9f5acd:
+
+    # "Sam clearly isn’t impressed."
+    "Sam明顯不以為然。"
+
+# game/williamroute3.rpy:11221
+translate Tchinese williamroute3c_3ff16349:
+
+    # to "\"And I came up with this.\""
+    to "我是這麼想的。"
+
+# game/williamroute3.rpy:11223
+translate Tchinese williamroute3c_81d37cc9:
+
+    # to "\"I can get mad about somethin’ that happened yesterday.\""
+    to "我今天是會對昨天發生的事生氣。"
+
+# game/williamroute3.rpy:11225
+translate Tchinese williamroute3c_6f3a002c:
+
+    # to "\"But when I think about something rude somebody said to me six to seven months ago, I’m barely sore about it.\""
+    to "但要是回想半年前有人罵我的情況，我就不怎麼在乎了。"
+
+# game/williamroute3.rpy:11228
+translate Tchinese williamroute3c_2239952a:
+
+    # to "\"If God exists for forever, and has forever to sit and think on things, there must be way too many things to stay mad about forever.\""
+    to "如果神永遠存在、有無限的時間能思考，那肯定得有太多事要永遠生氣下去了吧。"
+
+# game/williamroute3.rpy:11231
+translate Tchinese williamroute3c_9cd81656:
+
+    # m "\"So you’re sayin’ that instead of Jesus nailing his wrists to a cross to die for our sins, he should have just waited it out.\""
+    m "你的意思是，基督不該被釘在十字架上、為我們的原罪而死，只要等著就好囉。"
+
+# game/williamroute3.rpy:11234
+translate Tchinese williamroute3c_e474d7b5:
+
+    # to "\"More or less, maybe!\""
+    to "差不多吧！"
+
+# game/williamroute3.rpy:11237
+translate Tchinese williamroute3c_561a55d5:
+
+    # m "\"And people say I’m morbid when I talk.\""
+    m "大家還覺得我有說的話有病呢。"
+
+# game/williamroute3.rpy:11240
+translate Tchinese williamroute3c_8f06862a:
+
+    # m "\"What does Nikolai think about it?\""
+    m "Nikolai你怎麼想？"
+
+# game/williamroute3.rpy:11243
+translate Tchinese williamroute3c_440751f4:
+
+    # to "\"Yeah, I’d love to hear another perspective.\""
+    to "對啊，我想聽聽其他意見。"
+
+# game/williamroute3.rpy:11245
+translate Tchinese williamroute3c_b3bcdc82:
+
+    # wi "\"Yeah Nik.\""
+    wi "對呀Nik。"
+
+# game/williamroute3.rpy:11246
+translate Tchinese williamroute3c_fe4e5317:
+
+    # wi "\"Enlighten them.\""
+    wi "給他們開悟一下。"
+
+# game/williamroute3.rpy:11248
+translate Tchinese williamroute3c_a9b861b7:
+
+    # ni "\"Who, me?\""
+    ni "誰，我？"
+
+# game/williamroute3.rpy:11250
+translate Tchinese williamroute3c_5340e292:
+
+    # wi "\"Didn’t know there was another Nik at the table.\""
+    wi "這桌沒其他Nik了吧。"
+
+# game/williamroute3.rpy:11252
+translate Tchinese williamroute3c_85e529de:
+
+    # ni "\"Hurm.\""
+    ni "唔嗯。"
+
+# game/williamroute3.rpy:11254
+translate Tchinese williamroute3c_5be7bcbe:
+
+    # ni "\"I do not know God.\""
+    ni "我跟神不熟。"
+
+# game/williamroute3.rpy:11255
+translate Tchinese williamroute3c_eca79abd:
+
+    # ni "\"And he does not know me.\""
+    ni "祂也不認識我。"
+
+# game/williamroute3.rpy:11258
+translate Tchinese williamroute3c_eff93c36:
+
+    # ni "\"But if he ever shows up to see me, I will say hello.\""
+    ni "但要是祂降臨在我面前，我會跟他打聲招呼。"
+
+# game/williamroute3.rpy:11260
+translate Tchinese williamroute3c_5b0f009e:
+
+    # wi "\"Well then...\""
+    wi "我說……"
+
+# game/williamroute3.rpy:11261
+translate Tchinese williamroute3c_5a57139c:
+
+    # wi "\"The alcohol has passed on to somebody else, there’s Bible talk, and I’m sweating plenty, so this might as well be church.\""
+    wi "酒被傳著喝了、也有聖經的話題、我又滿身大汗，這裡也跟教堂差不了多少了吧。"
+
+# game/williamroute3.rpy:11263
+translate Tchinese williamroute3c_2ad1997b:
+
+    # wi "\"I think I’m going to step outside for a bit of air.\""
+    wi "我出去透透氣。"
+
+# game/williamroute3.rpy:11264
+translate Tchinese williamroute3c_829016f6:
+
+    # wi "\"Want to join me Nik?\""
+    wi "你要一起來嗎Nik？"
+
+# game/williamroute3.rpy:11266
+translate Tchinese williamroute3c_0c34b522:
+
+    # ni "\"No.\""
+    ni "不了。"
+
+# game/williamroute3.rpy:11268
+translate Tchinese williamroute3c_c88c5a08:
+
+    # ni "\"I am invested in the conclusion of the discussion.\""
+    ni "我很好奇這話題的結論。"
+
+# game/williamroute3.rpy:11269
+translate Tchinese williamroute3c_89e76d2b:
+
+    # wi "\"Alright then.\""
+    wi "行。"
+
+# game/williamroute3.rpy:11270
+translate Tchinese williamroute3c_73b290ad:
+
+    # wi "\"I’ll be back after a smoke or two.\""
+    wi "我抽一兩根菸就回來。"
+
+# game/williamroute3.rpy:11274
+translate Tchinese williamroute3c_1748dfa3:
+
+    # "The plants and the fancy seats on the front porch of the Hip make for a cozy space to sit."
+    "Hip門廊上的植物跟高級座椅讓人坐得舒心。"
+
+# game/williamroute3.rpy:11275
+translate Tchinese williamroute3c_a0f7d81d:
+
+    # "But it might be a fruitless endeavor, considering all the alcohol and the pussy is inside of the building, which makes it where everybody really wants to be."
+    "不過意義不大，畢竟酒跟肉穴都在房裡，大家自然也想待裡面了。"
+
+# game/williamroute3.rpy:11276
+translate Tchinese williamroute3c_7eed6e57:
+
+    # "People give me looks as they pass me by, but I just ignore them, rustling through my pockets."
+    "行人經過時都注意到我，但我沒在意他們，在口袋中摸索。"
+
+# game/williamroute3.rpy:11277
+translate Tchinese williamroute3c_f5dbd5b8:
+
+    # "There’s a thick cigar I’ve been saving for a stressful situation."
+    "我保留了根粗雪茄，好在壓力大的時候抽。"
+
+# game/williamroute3.rpy:11278
+translate Tchinese williamroute3c_36418a14:
+
+    # "I don’t take it out just yet."
+    "但我還沒拿出那根。"
+
+# game/williamroute3.rpy:11279
+translate Tchinese williamroute3c_d463f70d:
+
+    # "I’ve had far worse days than this one."
+    "我經歷過比這遭得多的。"
+
+# game/williamroute3.rpy:11281
+translate Tchinese williamroute3c_1c615509:
+
+    # "So I fish around for a slim stick in a pack instead, pluck it out, and go ahead and light it."
+    "於是我轉而摸了根細的出來點燃。"
+
+# game/williamroute3.rpy:11283
+translate Tchinese williamroute3c_0796eb99:
+
+    # "A rush of relief flows through me as I inhale."
+    "隨著我吸氣，放鬆感流經全身。"
+
+# game/williamroute3.rpy:11284
+translate Tchinese williamroute3c_5a7188d1:
+
+    # "And then blow."
+    "然後一吹。"
+
+# game/williamroute3.rpy:11285
+translate Tchinese williamroute3c_3221a6cf:
+
+    # "Not the kind of blowing Sam was talking about though."
+    "不是Sam講的那種吹。"
+
+# game/williamroute3.rpy:11287
+translate Tchinese williamroute3c_1c36e6b1:
+
+    # "But if I ever did want to try that again, I think I might want it to be with him."
+    "但如果我想再次試試看，我應該會想以Sam為對象吧。"
+
+# game/williamroute3.rpy:11288
+translate Tchinese williamroute3c_d1d2785c:
+
+    # "Or at least have him near me when I did."
+    "或至少是有他陪著的時候。"
+
+# game/williamroute3.rpy:11289
+translate Tchinese williamroute3c_d49d5443:
+
+    # "He’s anxious about a lot of things, but never the act."
+    "他會擔憂很多事，但從不包含那種行動。"
+
+# game/williamroute3.rpy:11290
+translate Tchinese williamroute3c_44dc9138:
+
+    # "And that confidence is contagious."
+    "那種自信是很有感染力的。"
+
+# game/williamroute3.rpy:11291
+translate Tchinese williamroute3c_d15711cb:
+
+    # "There’s something about how he moves, and how he smells, and all the noises he makes that helps my body wake up."
+    "他的一舉一動、氣味跟聲響都激活著我的身體。"
+
+# game/williamroute3.rpy:11292
+translate Tchinese williamroute3c_4204f9d8:
+
+    # "But if I indulge too much in those pleasures we're bound to get caught."
+    "可若我過度沉迷肉慾，早晚會被逮個正著。"
+
+# game/williamroute3.rpy:11293
+translate Tchinese williamroute3c_4e3c9195:
+
+    # "I don't want anything to happen to him because I couldn't keep it in my pants enough."
+    "我不希望因為自己管不住下體而連累他。"
+
+# game/williamroute3.rpy:11296
+translate Tchinese williamroute3c_8325f3fc:
+
+    # mu "\"Hello sheriff.\""
+    mu "你好啊，警長。"
+
+# game/williamroute3.rpy:11298
+translate Tchinese williamroute3c_94004a03:
+
+    # "Oh."
+    "哦。"
+
+# game/williamroute3.rpy:11299
+translate Tchinese williamroute3c_9452fdf1:
+
+    # "The Byrnes boy."
+    "Byrnes小子。"
+
+# game/williamroute3.rpy:11300
+translate Tchinese williamroute3c_1cf743b5:
+
+    # "I forgot he was going to show up too."
+    "我都忘了他也要來。"
+
+# game/williamroute3.rpy:11301
+translate Tchinese williamroute3c_f5c7c405:
+
+    # wi "\"Spotted me quick.\""
+    wi "一下就被你找到了。"
+
+# game/williamroute3.rpy:11303
+translate Tchinese williamroute3c_8f8a4df6:
+
+    # mu "\"Just figures you’d be all by yourself in the most popular place in the city.\""
+    mu "只是覺得你會在城裡最熱鬧的地方自己一個人待著。"
+
+# game/williamroute3.rpy:11305
+translate Tchinese williamroute3c_617a997d:
+
+    # wi "\"That so?\""
+    wi "是嗎？"
+
+# game/williamroute3.rpy:11306
+translate Tchinese williamroute3c_27b58345:
+
+    # "I puff my cigarette again."
+    "我又抽了口菸。"
+
+# game/williamroute3.rpy:11307
+translate Tchinese williamroute3c_bd4158f1:
+
+    # "And I start thinking about men sucking cock again."
+    "也又想著男人吸屌。"
+
+# game/williamroute3.rpy:11308
+translate Tchinese williamroute3c_177047af:
+
+    # "Word of mouth tells me the Byrnes boy’s certainly sucked a lot."
+    "據傳聞所說，Byrnes小子吸得可多了。"
+
+# game/williamroute3.rpy:11309
+translate Tchinese williamroute3c_a9505515:
+
+    # "Maybe even more than Samuel."
+    "搞不好比Samuel還多。"
+
+# game/williamroute3.rpy:11310
+translate Tchinese williamroute3c_09a6691c:
+
+    # "And as ashamed as I am to admit it, that excites me."
+    "雖然羞於承認，但這確實令我興奮。"
+
+# game/williamroute3.rpy:11311
+translate Tchinese williamroute3c_dc11420d:
+
+    # "He has a good looking muzzle for it."
+    "他的吻部很好看，正合適。"
+
+# game/williamroute3.rpy:11312
+translate Tchinese williamroute3c_161bdfed:
+
+    # "And he’s a canine, like me."
+    "同時也是犬科，跟我一樣。"
+
+# game/williamroute3.rpy:11313
+translate Tchinese williamroute3c_81ee0c39:
+
+    # "Canines know what canines like."
+    "犬科懂犬科的爽。"
+
+# game/williamroute3.rpy:11314
+translate Tchinese williamroute3c_ba77a497:
+
+    # "He could probably do things for me even Sam couldn’t."
+    "他或許比Sam還能取悅我。"
+
+# game/williamroute3.rpy:11315
+translate Tchinese williamroute3c_fad8bdd5:
+
+    # "But he’s a forbidden fruit, so to speak."
+    "但他算是顆禁果。"
+
+# game/williamroute3.rpy:11316
+translate Tchinese williamroute3c_9ecefad9:
+
+    # "A healthy working relationship with his father is neccessary to make my job possible."
+    "我得跟他父親保持健全的工作關係，才能做好我的職責。"
+
+# game/williamroute3.rpy:11317
+translate Tchinese williamroute3c_d284297e:
+
+    # "And I don’t even want to think about getting entangled with what things his mother gets up to."
+    "也完全不想去思考扯上他母親的後果。"
+
+# game/williamroute3.rpy:11319
+translate Tchinese williamroute3c_e466cb06:
+
+    # mu "\"You just going to stare, or are you going to fill me in on what that business at the store was about?\""
+    mu "你是要一直盯著我看，還是要告訴我店裡那件事是怎麼回事？"
+
+# game/williamroute3.rpy:11320
+translate Tchinese williamroute3c_94474488:
+
+    # "Probably nothing good about your family if the evidence keeps stacking up."
+    "如果證據累積起來，對你的家庭大概不太妙。"
+
+# game/williamroute3.rpy:11322
+translate Tchinese williamroute3c_8ddc6e8a:
+
+    # wi "\"You don’t have to worry about it.\""
+    wi "你沒什麼好擔心的。"
+
+# game/williamroute3.rpy:11323
+translate Tchinese williamroute3c_5f1a3d3d:
+
+    # "That's probably not true, but worrying never helps nobody anyhow."
+    "這多半是句謊言，但反正人擔心也沒用。"
+
+# game/williamroute3.rpy:11324
+translate Tchinese williamroute3c_019038f7:
+
+    # mu "\"I don’t think I’d have to if you were straight with me.\""
+    mu "要是你直接告訴我，我也就不必擔心了。"
+
+# game/williamroute3.rpy:11325
+translate Tchinese williamroute3c_c6598d47:
+
+    # wi "\"Sorry buddy.\""
+    wi "抱歉了，夥計。"
+
+# game/williamroute3.rpy:11326
+translate Tchinese williamroute3c_456e5856:
+
+    # wi "\"I don’t have a full picture.\""
+    wi "我也還沒看清全局。"
+
+# game/williamroute3.rpy:11327
+translate Tchinese williamroute3c_2d034c1a:
+
+    # wi "\"I know pieces.\""
+    wi "只掌握了零星線索。"
+
+# game/williamroute3.rpy:11328
+translate Tchinese williamroute3c_7a79b732:
+
+    # wi "\"There anything specific you want to know?\""
+    wi "有什麼想知道的細節嗎？"
+
+# game/williamroute3.rpy:11330
+translate Tchinese williamroute3c_cb5e2a81:
+
+    # mu "\"Is my mother under arrest?\""
+    mu "我媽要被抓了嗎？"
+
+# game/williamroute3.rpy:11332
+translate Tchinese williamroute3c_46b7b77a:
+
+    # "I roll my eyes."
+    "我翻了個白眼。"
+
+# game/williamroute3.rpy:11333
+translate Tchinese williamroute3c_1f18f2a2:
+
+    # wi "\"I don’t think I have the power to do so unless she starts walking around with severed heads.\""
+    wi "除非她提著人頭走在路上，不然我也沒那權力。"
+
+# game/williamroute3.rpy:11334
+translate Tchinese williamroute3c_8f46847d:
+
+    # wi "\"And it would have to be the severed heads of people who would be missed.\""
+    wi "還得是有人在乎的人的頭。"
+
+# game/williamroute3.rpy:11335
+translate Tchinese williamroute3c_f5f7b2ce:
+
+    # wi "\"That make you feel any better?\""
+    wi "你好受點了嗎？"
+
+# game/williamroute3.rpy:11337
+translate Tchinese williamroute3c_28c5411f:
+
+    # mu "\"Strangely?\""
+    mu "算有吧？"
+
+# game/williamroute3.rpy:11338
+translate Tchinese williamroute3c_225cecbe:
+
+    # mu "\"Yes.\""
+    mu "很微妙。"
+
+# game/williamroute3.rpy:11341
+translate Tchinese williamroute3c_143720a3:
+
+    # "He takes a seat next to me."
+    "他坐到我身旁。"
+
+# game/williamroute3.rpy:11343
+translate Tchinese williamroute3c_864ac31c:
+
+    # "There’s an odd smell to him."
+    "身上有種奇特的味道。"
+
+# game/williamroute3.rpy:11344
+translate Tchinese williamroute3c_dfbe1551:
+
+    # "On the surface it's like lemons and a crisply washed clothing."
+    "表面上只是檸檬跟新洗好的衣物氣味。"
+
+# game/williamroute3.rpy:11345
+translate Tchinese williamroute3c_b41ad0f4:
+
+    # "But beneath it’s a sickly, sweaty smell."
+    "但潛藏在那之下的，是不健康的汗味。"
+
+# game/williamroute3.rpy:11346
+translate Tchinese williamroute3c_b5ec7ded:
+
+    # "The kind of sweaty you get from having a fever, not from a brisk jog."
+    "發燒時特有的汗味，不是跑步時的那種。"
+
+# game/williamroute3.rpy:11347
+translate Tchinese williamroute3c_d33598a6:
+
+    # wi "\"You seem off.\""
+    wi "你感覺不太對。"
+
+# game/williamroute3.rpy:11349
+translate Tchinese williamroute3c_f6a7c1d8:
+
+    # mu "\"Oh.\""
+    mu "噢。"
+
+# game/williamroute3.rpy:11351
+translate Tchinese williamroute3c_851b46cc:
+
+    # mu "\"Do I look bad?\""
+    mu "我看起來很糟嗎？"
+
+# game/williamroute3.rpy:11353
+translate Tchinese williamroute3c_1dce428b:
+
+    # wi "\"You look great, actually.\""
+    wi "其實還挺好的。"
+
+# game/williamroute3.rpy:11354
+translate Tchinese williamroute3c_d8350ba8:
+
+    # wi "\"But the smell gives you away.\""
+    wi "但氣味出賣了你。"
+
+# game/williamroute3.rpy:11356
+translate Tchinese williamroute3c_ef2a4d84:
+
+    # mu "\"I picked a pretty lousy time to get sick, didn’t I?\""
+    mu "我生病的時間很糟吧？"
+
+# game/williamroute3.rpy:11358
+translate Tchinese williamroute3c_deb3c0d7:
+
+    # wi "\"Getting shot in the arm will do that to you.\""
+    wi "你手臂被槍擊，這也難免。"
+
+# game/williamroute3.rpy:11360
+translate Tchinese williamroute3c_e028ed70:
+
+    # mu "\"Well, it’ll have to be ignored.\""
+    mu "只能得過且過了。"
+
+# game/williamroute3.rpy:11361
+translate Tchinese williamroute3c_9d18eff5:
+
+    # mu "\"My sister’s wedding is in a few days and they won’t be able to prepare without me.\""
+    mu "再幾天就是我姊的婚禮，他們沒我就沒法準備。"
+
+# game/williamroute3.rpy:11363
+translate Tchinese williamroute3c_b256b440:
+
+    # wi "\"I’d think a family like yours could hire some labor.\""
+    wi "你們家應該能請些粗工吧。"
+
+# game/williamroute3.rpy:11367
+translate Tchinese williamroute3c_64b017e8:
+
+    # "He finds a wicker chair across from me and takes a seat."
+    "他在我對面找了張藤椅坐。"
+
+# game/williamroute3.rpy:11370
+translate Tchinese williamroute3c_1ea4c22c:
+
+    # mu "\"Laborers are great for moving things, but not so good and helping with logistical problems.\""
+    mu "粗工是能幫忙搬東西，但不太適合整備。"
+
+# game/williamroute3.rpy:11372
+translate Tchinese williamroute3c_4dba07d0:
+
+    # mu "\"Or aesthetic ones for the photographs.\""
+    mu "或跟拍照有關的事。"
+
+# game/williamroute3.rpy:11373
+translate Tchinese williamroute3c_a7dade04:
+
+    # "I nod at him."
+    "我點點頭。"
+
+# game/williamroute3.rpy:11374
+translate Tchinese williamroute3c_83ac6c25:
+
+    # wi "\"So you’re still going to play as hard as you work tonight?\""
+    wi "那你今晚還打算玩得跟你工作一樣大嗎？"
+
+# game/williamroute3.rpy:11376
+translate Tchinese williamroute3c_c118e197:
+
+    # mu "\"If I’m doing one I might as well do the other.\""
+    mu "都已經幹了一邊，就也幹另一邊吧。"
+
+# game/williamroute3.rpy:11378
+translate Tchinese williamroute3c_959cbf0a:
+
+    # mu "\"And seeing how you act when we get you smashed at the Stag is too good of an opportunity to pass up.\""
+    mu "還能看到你在Stag被灌醉後會做出什麼事，我當然不能錯過了。"
+
+# game/williamroute3.rpy:11380
+translate Tchinese williamroute3c_775c4e47:
+
+    # wi "\"And you think you can handle that?\""
+    wi "你做好見證的心理準備了？"
+
+# game/williamroute3.rpy:11382
+translate Tchinese williamroute3c_fbe002a7:
+
+    # mu "\"I guess I’ll see.\""
+    mu "到時候再說囉。"
+
+# game/williamroute3.rpy:11384
+translate Tchinese williamroute3c_3ddf812b:
+
+    # "I chuckle."
+    "我咯咯笑著。"
+
+# game/williamroute3.rpy:11385
+translate Tchinese williamroute3c_5734f858:
+
+    # "Then I frown again and lower my voice."
+    "然後皺起眉頭，壓低音量。"
+
+# game/williamroute3.rpy:11386
+translate Tchinese williamroute3c_6ed21c4a:
+
+    # wi "\"Mind if I ask you some personal questions?\""
+    wi "介意我問點私人問題嗎？"
+
+# game/williamroute3.rpy:11388
+translate Tchinese williamroute3c_b4fb1d2f:
+
+    # mu "\"I'm surprised. But not at all.\""
+    mu "我是有點意外，但完全不介意。"
+
+# game/williamroute3.rpy:11390
+translate Tchinese williamroute3c_abfbe978:
+
+    # mu "\"Frankly I wish you did more often.\""
+    mu "我倒還希望你多問點呢。"
+
+# game/williamroute3.rpy:11391
+translate Tchinese williamroute3c_7a6b59ae:
+
+    # wi "\"You seem like somebody who loves who you want, as much as you want.\""
+    wi "你似乎是很愛自己想要的人的類型。"
+
+# game/williamroute3.rpy:11392
+translate Tchinese williamroute3c_72b5a016:
+
+    # wi "\"And I think you know what I really mean when I say ‘love.’\""
+    wi "你應該懂我說的「愛」是什麼意思。"
+
+# game/williamroute3.rpy:11393
+translate Tchinese williamroute3c_d198edb6:
+
+    # wi "\"What do you get out of that exactly?\""
+    wi "那你究竟能從中得到什麼？"
+
+# game/williamroute3.rpy:11394
+translate Tchinese williamroute3c_d4aae0e4:
+
+    # "We wait for a group of six to pass through the door before he answers."
+    "我們等一個六人團體走進門後他才回答。"
+
+# game/williamroute3.rpy:11396
+translate Tchinese williamroute3c_51ef8e78:
+
+    # mu "\"All I know is I feel whole when I do it.\""
+    mu "我只知道我在做的時候會感覺自己是完整的。"
+
+# game/williamroute3.rpy:11399
+translate Tchinese williamroute3c_5e9c2541:
+
+    # mu "\"Like I’m where I’m meant to be, and it’s just that simple.\""
+    mu "感覺自己就該做這種事，就這麼單純。"
+
+# game/williamroute3.rpy:11401
+translate Tchinese williamroute3c_a313b461:
+
+    # wi "\"But what about after when somebody sees you like a thing instead of a person?\""
+    wi "但在那之後，對方不把你當人看，只把你當道具怎麼辦？"
+
+# game/williamroute3.rpy:11402
+translate Tchinese williamroute3c_1939486d_1:
+
+    # "He shrugs."
+    "他聳肩。"
+
+# game/williamroute3.rpy:11403
+translate Tchinese williamroute3c_88bdfd2e:
+
+    # mu "\"It helps being picky, you know.\""
+    mu "我也是很挑的。"
+
+# game/williamroute3.rpy:11404
+translate Tchinese williamroute3c_3313d9ae:
+
+    # mu "\"And God knows that I get enough interest that I can be.\""
+    mu "也沒多少留戀。"
+
+# game/williamroute3.rpy:11406
+translate Tchinese williamroute3c_ae8cf92e:
+
+    # mu "\"I finish, then move onto somebody else.\""
+    mu "完事後就找下個人。"
+
+# game/williamroute3.rpy:11407
+translate Tchinese williamroute3c_016993ad:
+
+    # wi "\"Keep the details near and dear to your heart if you don’t mind.\""
+    wi "細節還是藏你心裡就好了。"
+
+# game/williamroute3.rpy:11409
+translate Tchinese williamroute3c_24590eef:
+
+    # mu "\"It’s too bad you don’t want to know.\""
+    mu "你不想知道真是太可惜了。"
+
+# game/williamroute3.rpy:11411
+translate Tchinese williamroute3c_171f9611:
+
+    # "Mr. Byrnes, it’s not that I don’t want to know."
+    "Byrnes先生，這不是我不想知道。"
+
+# game/williamroute3.rpy:11412
+translate Tchinese williamroute3c_51330061:
+
+    # "It’s that I probably shouldn’t know."
+    "是我大概不該知道。"
+
+# game/williamroute3.rpy:11414
+translate Tchinese williamroute3c_c9121e1a:
+
+    # mu "\"Somebody as viscous as you would probably split me open, but I think I’d enjoy it while it lasts.\""
+    mu "你這種程度的怕是會把我撕成兩半，但我在做的時候應該會很享受。"
+
+# game/williamroute3.rpy:11416
+translate Tchinese williamroute3c_242672f1:
+
+    # wi "\"There will be no deaths in any more bedrooms while I’m around.\""
+    wi "有我在，就不會再讓臥室死更多人了。"
+
+# game/williamroute3.rpy:11417
+translate Tchinese williamroute3c_eaaa7f01:
+
+    # mu "\"You were almost fun for just a second.\""
+    mu "有一瞬間我還覺得你有點意思呢。"
+
+# game/williamroute3.rpy:11418
+translate Tchinese williamroute3c_46d09d7b:
+
+    # mu "\"I can swear that a flicker of it was there.\""
+    mu "我是真的感覺到了一點火花。"
+
+# game/williamroute3.rpy:11419
+translate Tchinese williamroute3c_af86e41b:
+
+    # wi "\"Go splash some water on yourself in the bathroom.\""
+    wi "你去廁所洗把臉吧。"
+
+# game/williamroute3.rpy:11421
+translate Tchinese williamroute3c_4266bc2a:
+
+    # mu "\"Anyways, where’s Sam and Cliff?\""
+    mu "話說，Sam跟Cliff人呢？"
+
+# game/williamroute3.rpy:11423
+translate Tchinese williamroute3c_e5052e79:
+
+    # wi "\"I think Mr. Tibbits is busy with one of the women upstairs.\""
+    wi "Tibbits先生好像在樓上跟一位姑娘有事。"
+
+# game/williamroute3.rpy:11425
+translate Tchinese williamroute3c_4c6d9a9c:
+
+    # mu "\"But we were at it for three times yesterday.\""
+    mu "可我們昨天才做了三次啊。"
+
+# game/williamroute3.rpy:11427
+translate Tchinese williamroute3c_7a218950:
+
+    # wi "\"I’m very happy for you Mr. Byrnes.\""
+    wi "我真為你高興，Byrnes先生。"
+
+# game/williamroute3.rpy:11428
+translate Tchinese williamroute3c_d6c06daa:
+
+    # mu "\"Yeah yeah yeah.\""
+    mu "好好好。"
+
+# game/williamroute3.rpy:11429
+translate Tchinese williamroute3c_1f97fc60:
+
+    # wi "\"Sam should be in his usual spot.\""
+    wi "Sam應該在老地方。"
+
+# game/williamroute3.rpy:11430
+translate Tchinese williamroute3c_17953127:
+
+    # mu "\"I don’t know Sam’s usual spot.\""
+    mu "我不知道Sam的老地方是哪。"
+
+# game/williamroute3.rpy:11431
+translate Tchinese williamroute3c_9906da4c:
+
+    # wi "\"It’s the corner of the bar in the alcove with the round table.\""
+    wi "就在酒吧角落壁龕旁的圓桌。"
+
+# game/williamroute3.rpy:11433
+translate Tchinese williamroute3c_a63eb384:
+
+    # mu "\"You must pay attention to him a lot if you know that.\""
+    mu "既然你知道，就代表你很留意他吧。"
+
+# game/williamroute3.rpy:11435
+translate Tchinese williamroute3c_9d0ef0f5:
+
+    # wi "\"I pay attention to a lot of things.\""
+    wi "我留意的事可多了。"
+
+# game/williamroute3.rpy:11437
+translate Tchinese williamroute3c_4905a030:
+
+    # mu "\"I’m just saying...\""
+    mu "我只是想說……"
+
+# game/williamroute3.rpy:11438
+translate Tchinese williamroute3c_82a8abde:
+
+    # mu "\"You should probably ask Sam what you were asking me.\""
+    mu "你問我的問題應該去問Sam才對。"
+
+# game/williamroute3.rpy:11440
+translate Tchinese williamroute3c_621850e8:
+
+    # "I take another puff of my cigarette."
+    "我又抽了口菸。"
+
+# game/williamroute3.rpy:11441
+translate Tchinese williamroute3c_9504994d:
+
+    # "Hard this time."
+    "這次大吸一口。"
+
+# game/williamroute3.rpy:11442
+translate Tchinese williamroute3c_addf32ec:
+
+    # "Then I blow."
+    "然後吐氣。"
+
+# game/williamroute3.rpy:11443
+translate Tchinese williamroute3c_fd6b4fa5:
+
+    # wi "\"Well I also don’t want to die of embarrassment before the conspirators come for me.\""
+    wi "我也不想在那些幕後黑手過來殺我之前先丟臉丟到死。"
+
+# game/williamroute3.rpy:11445
+translate Tchinese williamroute3c_63e73f0f:
+
+    # mu "\"And you weren’t with me?\""
+    mu "跟我就沒事？"
+
+# game/williamroute3.rpy:11446
+translate Tchinese williamroute3c_5e38f56a:
+
+    # wi "\"You’re professional.\""
+    wi "你是專業的。"
+
+# game/williamroute3.rpy:11447
+translate Tchinese williamroute3c_bbaa79dd:
+
+    # wi "\"It’s different.\""
+    wi "不一樣。"
+
+# game/williamroute3.rpy:11448
+translate Tchinese williamroute3c_bf885b25:
+
+    # mu "\"Sam is by definition a professional.\""
+    mu "Sam才是字面意義上的專業好嗎。"
+
+# game/williamroute3.rpy:11449
+translate Tchinese williamroute3c_008e977f:
+
+    # mu "\"And his profession is particularly applicable to these sorts of things more than mine.\""
+    mu "更別提他的專業還是特別專攻對你那方面的事。"
+
+# game/williamroute3.rpy:11450
+translate Tchinese williamroute3c_6a20a80d_1:
+
+    # "I shake my head."
+    "我搖頭。"
+
+# game/williamroute3.rpy:11451
+translate Tchinese williamroute3c_ada115a7:
+
+    # wi "\"It’s complicated.\""
+    wi "這事很複雜。"
+
+# game/williamroute3.rpy:11453
+translate Tchinese williamroute3c_997aa88f:
+
+    # mu "\"Then wan to unpack that a bit?\""
+    mu "想釐清一點嗎？"
+
+# game/williamroute3.rpy:11454
+translate Tchinese williamroute3c_846e867d_1:
+
+    # wi "\"No.\""
+    wi "不了。"
+
+# game/williamroute3.rpy:11456
+translate Tchinese williamroute3c_e80f5281:
+
+    # "He sighs."
+    "他嘆了口氣。"
+
+# game/williamroute3.rpy:11458
+translate Tchinese williamroute3c_22b297b1:
+
+    # mu "\"First thing I’m doing is sending Sam out.\""
+    mu "我先去把Sam叫出來。"
+
+# game/williamroute3.rpy:11459
+translate Tchinese williamroute3c_8bf5144b:
+
+    # wi "\"You don’t--.\""
+    wi "你別——"
+
+# game/williamroute3.rpy:11461
+translate Tchinese williamroute3c_6b77890f:
+
+    # mu "\"Second thing I’m doing is finding which room Mr. Tibbits is in, so nobody’s going to strangle him with a makeshift noose made of stockings.\""
+    mu "然後去找Tibbits先生待的客房，以免他被人用絲襪隨手做成的繩子勒死。"
+
+# game/williamroute3.rpy:11462
+translate Tchinese williamroute3c_9fe1643b:
+
+    # wi "\"Jesus Murdoch.\""
+    wi "天啊Murdoch。"
+
+# game/williamroute3.rpy:11465
+translate Tchinese williamroute3c_c35cf084:
+
+    # "He’s already gone by the time I’m down to the butt with this cigarette."
+    "我抽到剩菸屁股的時候他早就走了。"
+
+# game/williamroute3.rpy:11466
+translate Tchinese williamroute3c_2362cd5c:
+
+    # "If I talk about this then I know Sam will get ideas."
+    "如果我跟Sam商量這件事，他一定會有點想法。"
+
+# game/williamroute3.rpy:11468
+translate Tchinese williamroute3c_f6094c5a:
+
+    # "Which means that I’m going to really have to talk about it."
+    "屆時我就必須得認真談了。"
+
+# game/williamroute3.rpy:11470
+translate Tchinese williamroute3c_e49b90ae:
+
+    # "Sooner rather than later, he comes along."
+    "他不一會就來了。"
+
+# game/williamroute3.rpy:11472
+translate Tchinese williamroute3c_318a3a3f:
+
+    # m "\"The fox sent me out here.\""
+    m "狐狸叫我來的。"
+
+# game/williamroute3.rpy:11474
+translate Tchinese williamroute3c_71fe8274:
+
+    # wi "\"I know.\""
+    wi "我知道。"
+
+# game/williamroute3.rpy:11475
+translate Tchinese williamroute3c_ff645c2b:
+
+    # wi "\"He seemed very insistent on doing so.\""
+    wi "他好像很堅持要這樣。"
+
+# game/williamroute3.rpy:11477
+translate Tchinese williamroute3c_6d058f05:
+
+    # m "\"We don’t have to talk about anything if you don’t want to.\""
+    m "你不想談的話也不必談。"
+
+# game/williamroute3.rpy:11480
+translate Tchinese williamroute3c_0c99183d:
+
+    # m "\"Sometimes silence is good.\""
+    m "保持沉默偶爾也不錯。"
+
+# game/williamroute3.rpy:11482
+translate Tchinese williamroute3c_e840325a:
+
+    # wi "\"I like the silence with you.\""
+    wi "我就喜歡跟你在一起時的沉默。"
+
+# game/williamroute3.rpy:11484
+translate Tchinese williamroute3c_513a3f23:
+
+    # "He smiles at me."
+    "他朝我一笑。"
+
+# game/williamroute3.rpy:11485
+translate Tchinese williamroute3c_eb618ec2:
+
+    # "We watch the clouds roll by as the sky turns from blue to pink and the people pass us by."
+    "我們就這麼看著白雲飄流，期間天空顏色逐漸從藍轉粉，人來人往。"
+
+# game/williamroute3.rpy:11486
+translate Tchinese williamroute3c_d2f19742:
+
+    # wi "\"The last time I went to the place we’re going tonight, which was recently, a man flirted with me.\""
+    wi "上次我到我們今晚要去的地方時，有個人想泡我，也就是最近的事而已。"
+
+# game/williamroute3.rpy:11488
+translate Tchinese williamroute3c_045b5312:
+
+    # m "\"That happens to me all the time.\""
+    m "我一直都有遇到這種事。"
+
+# game/williamroute3.rpy:11490
+translate Tchinese williamroute3c_bb3167d1:
+
+    # wi "\"Well not to me.\""
+    wi "我就沒有。"
+
+# game/williamroute3.rpy:11492
+translate Tchinese williamroute3c_507a6ce0:
+
+    # m "\"Not shocking.\""
+    m "也不意外。"
+
+# game/williamroute3.rpy:11495
+translate Tchinese williamroute3c_aade9f59:
+
+    # m "\"Most people don’t know.\""
+    m "大多人都不知道。"
+
+# game/williamroute3.rpy:11498
+translate Tchinese williamroute3c_bd981cf6:
+
+    # m "\"Can’t know.\""
+    m "也沒可能知道。"
+
+# game/williamroute3.rpy:11500
+translate Tchinese williamroute3c_02747cb0:
+
+    # wi "\"And yet still, he flirted...\""
+    wi "但他知道，還是泡了我……"
+
+# game/williamroute3.rpy:11502
+translate Tchinese williamroute3c_c25e3582:
+
+    # m "\"Who?\""
+    m "誰？"
+
+# game/williamroute3.rpy:11504
+translate Tchinese williamroute3c_b05b3f78:
+
+    # wi "\"Big Sonoran wolf.\""
+    wi "一隻大個子的索諾拉狼。"
+
+# game/williamroute3.rpy:11505
+translate Tchinese williamroute3c_262f1cad:
+
+    # wi "\"Easy on the eyes.\""
+    wi "長得挺順眼。"
+
+# game/williamroute3.rpy:11506
+translate Tchinese williamroute3c_56b635ae:
+
+    # wi "\"Ears too.\""
+    wi "聲音也順耳。"
+
+# game/williamroute3.rpy:11508
+translate Tchinese williamroute3c_eca725fe:
+
+    # m "\"Kind of sounds a little like you.\""
+    m "聽起來有點像你。"
+
+# game/williamroute3.rpy:11510
+translate Tchinese williamroute3c_5477bfb2:
+
+    # wi "\"Well he certainly looks durable.\""
+    wi "他確實看著挺結實。"
+
+# game/williamroute3.rpy:11511
+translate Tchinese williamroute3c_682c0656:
+
+    # wi "\"I’m no good with delicate things.\""
+    wi "我不擅長對付嬌嫩的事物。"
+
+# game/williamroute3.rpy:11512
+translate Tchinese williamroute3c_922dab90:
+
+    # wi "\"I don’t want to break nobody.\""
+    wi "可不想把人玩壞。"
+
+# game/williamroute3.rpy:11514
+translate Tchinese williamroute3c_ca4d2335:
+
+    # m "\"Is that why you like being so rough with me?\""
+    m "所以你才喜歡對我來硬的？"
+
+# game/williamroute3.rpy:11516
+translate Tchinese williamroute3c_30d1035f:
+
+    # wi "\"...yeah.\""
+    wi "……是啊。"
+
+# game/williamroute3.rpy:11517
+translate Tchinese williamroute3c_25b3172d:
+
+    # wi "\"I know that you can take a lot.\""
+    wi "我知道你耐得住。"
+
+# game/williamroute3.rpy:11519
+translate Tchinese williamroute3c_5666e3b2:
+
+    # wi "\"I mean, you already have.\""
+    wi "事實證明過了。"
+
+# game/williamroute3.rpy:11520
+translate Tchinese williamroute3c_adc3e2cf:
+
+    # "He nods."
+    "他點點頭。"
+
+# game/williamroute3.rpy:11522
+translate Tchinese williamroute3c_6f7168c2:
+
+    # m "\"So why not flirt back?\""
+    m "那你怎麼不回撩他？"
+
+# game/williamroute3.rpy:11525
+translate Tchinese williamroute3c_2947958d:
+
+    # m "\"See where it goes?\""
+    m "看看會怎樣？"
+
+# game/williamroute3.rpy:11527
+translate Tchinese williamroute3c_764c5e30:
+
+    # wi "\"Because I don’t get the impression he’d kneel for me.\""
+    wi "我不覺得他會為我跪地。"
+
+# game/williamroute3.rpy:11529
+translate Tchinese williamroute3c_d57251c2:
+
+    # m "\"So kneel for him.\""
+    m "那你自己跪啊。"
+
+# game/williamroute3.rpy:11534
+translate Tchinese williamroute3c_796703e1:
+
+    # wi "\"The last time I did that my dad caught me.\""
+    wi "上次我跪著的時候被我爸逮了個正著。"
+
+# game/williamroute3.rpy:11536
+translate Tchinese williamroute3c_ab734c20:
+
+    # m "\"...And you’re still alive?\""
+    m "……你活下來了？"
+
+# game/williamroute3.rpy:11538
+translate Tchinese williamroute3c_104187a3:
+
+    # wi "\"Most of my twenties felt more like walking through a haze than living, but I feel plenty alive these days.\""
+    wi "我二十幾歲的人生感覺都像是行屍走肉，但現在我過得生龍活虎。"
+
+# game/williamroute3.rpy:11540
+translate Tchinese williamroute3c_8b1683da:
+
+    # wi "\"He arranged the marriage between me and my ex-wife within a week.\""
+    wi "他一個禮拜內就安排好了我跟我前妻的婚事。"
+
+# game/williamroute3.rpy:11542
+translate Tchinese williamroute3c_e03086d8:
+
+    # m "\"Married in just a week’s notice?\""
+    m "一個禮拜內就結婚？"
+
+# game/williamroute3.rpy:11544
+translate Tchinese williamroute3c_30d1035f_1:
+
+    # wi "\"...yeah.\""
+    wi "……對。"
+
+# game/williamroute3.rpy:11546
+translate Tchinese williamroute3c_8865642d:
+
+    # m "\"I’d hate to see the bill on that kind of quick arrangement.\""
+    m "安排得這麼緊急，一定要花天價吧。"
+
+# game/williamroute3.rpy:11548
+translate Tchinese williamroute3c_b1147890:
+
+    # wi "\"Mostly it was more of a courtroom proceeding than a ceremony.\""
+    wi "主要只是走個法律程序，沒什麼典禮。"
+
+# game/williamroute3.rpy:11549
+translate Tchinese williamroute3c_a93630f3:
+
+    # wi "\"Then I was out of my childhood bedroom and living in the house my father bought for a while.\""
+    wi "然後我就被趕出兒時的房間，住進父親給我買的房子一陣子。"
+
+# game/williamroute3.rpy:11550
+translate Tchinese williamroute3c_fab5c9a1:
+
+    # "I take another puff of that cigarette."
+    "我又抽了口菸。"
+
+# game/williamroute3.rpy:11551
+translate Tchinese williamroute3c_addf32ec_1:
+
+    # "Then I blow."
+    "然後吹氣。"
+
+# game/williamroute3.rpy:11552
+translate Tchinese williamroute3c_2ce8a426:
+
+    # "The smoke looks ghostly."
+    "煙霧好似鬼影。"
+
+# game/williamroute3.rpy:11553
+translate Tchinese williamroute3c_45b2e004:
+
+    # wi "\"He wanted a child before the year was up or he’d sent me to the sanitarium.\""
+    wi "他要我在一年內生個孩子，否則就把我送去瘋人院。"
+
+# game/williamroute3.rpy:11554
+translate Tchinese williamroute3c_d909ba00:
+
+    # "Sam cringes, but nods."
+    "Sam一臉嫌惡地點了個頭。"
+
+# game/williamroute3.rpy:11555
+translate Tchinese williamroute3c_7376196d:
+
+    # wi "\"So I gave him a child.\""
+    wi "我就給了他一個孩子。"
+
+# game/williamroute3.rpy:11556
+translate Tchinese williamroute3c_d65a5581:
+
+    # wi "\"And I gave her a child.\""
+    wi "也是給了她一個孩子。"
+
+# game/williamroute3.rpy:11557
+translate Tchinese williamroute3c_77d89fef:
+
+    # wi "\"And he has a name, and it’s Andy.\""
+    wi "他的名字叫Andy。"
+
+# game/williamroute3.rpy:11558
+translate Tchinese williamroute3c_3b2f91a8:
+
+    # wi "\"I figured somebody getting to be born was better than catching genital diseases in an institution bathroom or having strangers take pieces of my brain away.\""
+    wi "我是覺得生個孩子總比在設施廁所內得到性病或有人亂搞我腦子好。"
+
+# game/williamroute3.rpy:11560
+translate Tchinese williamroute3c_079949f3:
+
+    # "Sam crosses his arms."
+    "Sam雙手抱胸。"
+
+# game/williamroute3.rpy:11562
+translate Tchinese williamroute3c_6601f9a3:
+
+    # m "\"Well after hearing you went through all that, I think swallowing sounds a whole lot more fun than having a kid.\""
+    m "聽你說這些，我覺得吞精比生孩子好多了。"
+
+# game/williamroute3.rpy:11564
+translate Tchinese williamroute3c_6f042f66:
+
+    # wi "\"I don’t hate it.\""
+    wi "我是不討厭。"
+
+# game/williamroute3.rpy:11565
+translate Tchinese williamroute3c_8eff6eae:
+
+    # "In fact, you love it."
+    "事實上愛得很。"
+
+# game/williamroute3.rpy:11567
+translate Tchinese williamroute3c_92107640:
+
+    # wi "\"It just reminds me of that impossible choice.\""
+    wi "只是會讓我回想起那個無望的選擇。"
+
+# game/williamroute3.rpy:11568
+translate Tchinese williamroute3c_ee5d8b13:
+
+    # wi "\"The life I could have had if I ran away.\""
+    wi "要是我選擇逃跑，人生就會不同。"
+
+# game/williamroute3.rpy:11569
+translate Tchinese williamroute3c_b47ffd3c:
+
+    # wi "\"Or the life I could have had if they caught me and locked me up with all the people who have brain damage.\""
+    wi "但被抓到的話，就會被關進一堆腦子有病的人的設施。"
+
+# game/williamroute3.rpy:11570
+translate Tchinese williamroute3c_50c34ac7:
+
+    # wi "\"...some men just aren’t going to kneel.\""
+    wi "……有些男人就是不會下跪。"
+
+# game/williamroute3.rpy:11571
+translate Tchinese williamroute3c_de8b0e72:
+
+    # wi "\"It doesn’t need to be explained or defended.\""
+    wi "用不著解釋或爭辯。"
+
+# game/williamroute3.rpy:11572
+translate Tchinese williamroute3c_9f942fa1:
+
+    # wi "\"It just the truth.\""
+    wi "事實如此。"
+
+# game/williamroute3.rpy:11574
+translate Tchinese williamroute3c_df515b16:
+
+    # "He leans in closer."
+    "他湊近我。"
+
+# game/williamroute3.rpy:11575
+translate Tchinese williamroute3c_77f98bda:
+
+    # m "\"I just wouldn’t want you to miss out on something I think you’d enjoy.\""
+    m "我只是覺得你應該會很享受這種事，不希望你錯過。"
+
+# game/williamroute3.rpy:11577
+translate Tchinese williamroute3c_b2964cdf:
+
+    # wi "\"What makes you think I’d enjoy it...?\""
+    wi "你怎麼覺得我會享受……？"
+
+# game/williamroute3.rpy:11579
+translate Tchinese williamroute3c_84c5cc9c:
+
+    # m "\"Because it’s dirty.\""
+    m "因為下流啊。"
+
+# game/williamroute3.rpy:11582
+translate Tchinese williamroute3c_91d77dc0:
+
+    # m "\"You like dirty.\""
+    m "你就喜歡下流的事。"
+
+# game/williamroute3.rpy:11584
+translate Tchinese williamroute3c_1bbc9e0f:
+
+    # wi "\"Well...\""
+    wi "這個嘛……"
+
+# game/williamroute3.rpy:11585
+translate Tchinese williamroute3c_92122e13:
+
+    # wi "\"I like dignity too.\""
+    wi "我也很看重尊嚴啊。"
+
+# game/williamroute3.rpy:11587
+translate Tchinese williamroute3c_8db896d7:
+
+    # m "\"Just try it just once with me.\""
+    m "就跟我試一次嘛。"
+
+# game/williamroute3.rpy:11589
+translate Tchinese williamroute3c_9e1865ee:
+
+    # wi "\"...maybe next time, then.\""
+    wi "……那就下次吧。"
+
+# game/williamroute3.rpy:11591
+translate Tchinese williamroute3c_994b12eb:
+
+    # "He smiles."
+    "他揚起笑容。"
+
+# game/williamroute3.rpy:11593
+translate Tchinese williamroute3c_4dd72ad2:
+
+    # m "\"You sure?\""
+    m "你確定？"
+
+# game/williamroute3.rpy:11595
+translate Tchinese williamroute3c_4fd54e32:
+
+    # wi "\"You know I don’t like repeating myself.\""
+    wi "你知道我不喜歡把同樣的話說兩遍。"
+
+# game/williamroute3.rpy:11598
+translate Tchinese williamroute3c_50c34ac7_1:
+
+    # wi "\"...some men just aren’t going to kneel.\""
+    wi "……有些男人就是不會下跪。"
+
+# game/williamroute3.rpy:11599
+translate Tchinese williamroute3c_de8b0e72_1:
+
+    # wi "\"It doesn’t need to be explained or defended.\""
+    wi "用不著解釋或爭辯。"
+
+# game/williamroute3.rpy:11600
+translate Tchinese williamroute3c_9f942fa1_1:
+
+    # wi "\"It just the truth.\""
+    wi "事實如此。"
+
+# game/williamroute3.rpy:11602
+translate Tchinese williamroute3c_77f98bda_1:
+
+    # m "\"I just wouldn’t want you to miss out on something I think you’d enjoy.\""
+    m "我只是覺得你應該會很享受這種事，不希望你錯過。"
+
+# game/williamroute3.rpy:11604
+translate Tchinese williamroute3c_4fadee9c:
+
+    # wi "\"What makes you think I’d enjoy it?\""
+    wi "你怎麼覺得我會享受……？"
+
+# game/williamroute3.rpy:11605
+translate Tchinese williamroute3c_aca7226d:
+
+    # "Sam smiles."
+    "Sam揚起笑容。"
+
+# game/williamroute3.rpy:11607
+translate Tchinese williamroute3c_84c5cc9c_1:
+
+    # m "\"Because it’s dirty.\""
+    m "因為下流啊。"
+
+# game/williamroute3.rpy:11610
+translate Tchinese williamroute3c_91d77dc0_1:
+
+    # m "\"You like dirty.\""
+    m "你就喜歡下流的事。"
+
+# game/williamroute3.rpy:11612
+translate Tchinese williamroute3c_1bbc9e0f_1:
+
+    # wi "\"Well...\""
+    wi "這個嘛……"
+
+# game/williamroute3.rpy:11613
+translate Tchinese williamroute3c_92122e13_1:
+
+    # wi "\"I like dignity too.\""
+    wi "我也很看重尊嚴啊。"
+
+# game/williamroute3.rpy:11615
+translate Tchinese williamroute3c_2249443d:
+
+    # m "\"Try it just once with me.\""
+    m "就跟我試一次嘛。"
+
+# game/williamroute3.rpy:11617
+translate Tchinese williamroute3c_bd6bd73d:
+
+    # wi "\"...let’s play it by ear next time.\""
+    wi "……我下次考慮考慮。"
+
+# game/williamroute3.rpy:11624
+translate Tchinese williamroute3c_2590ca48:
+
+    # "The sun is getting even lower in the sky."
+    "空中的太陽更低沉了。"
+
+# game/williamroute3.rpy:11626
+translate Tchinese williamroute3c_5fcb7967:
+
+    # "Sam and I stopped talking a while ago."
+    "Sam跟我不久前就不再對話。"
+
+# game/williamroute3.rpy:11627
+translate Tchinese williamroute3c_3fd620c9:
+
+    # "But it’s a cozy kind of quiet considering all of the noise still coming from the inside of the bar."
+    "但這份沉默跟酒吧裡的嘈雜聲的映襯下，令人舒心。"
+
+# game/williamroute3.rpy:11629
+translate Tchinese williamroute3c_cb6474a3:
+
+    # "It’s seven seventeen here, which means it’s nine seventeen there."
+    "這裡是七點十五，就代表那裡是九點十五。"
+
+# game/williamroute3.rpy:11631
+translate Tchinese williamroute3c_4c50491b:
+
+    # m "\"What are you thinkin’ about?\""
+    m "你在想什麼？"
+
+# game/williamroute3.rpy:11633
+translate Tchinese williamroute3c_548c184e:
+
+    # wi "\"Names. Traces. Motives. Intersecting interests.\""
+    wi "名單、蹤跡、動機、共通目標。"
+
+# game/williamroute3.rpy:11634
+translate Tchinese williamroute3c_6dd59b71:
+
+    # "I think about lighting another smoke, then I put it back in my pocket."
+    "我本想再點根菸，但又放回了口袋。"
+
+# game/williamroute3.rpy:11636
+translate Tchinese williamroute3c_4697aa72:
+
+    # wi "\"At least... that’s what I want to say.\""
+    wi "至少……我想說的就這些了。"
+
+# game/williamroute3.rpy:11637
+translate Tchinese williamroute3c_ea977fd3:
+
+    # wi "\"If I don’t put it all down on paper in my office it’s hard to keep track.\""
+    wi "不全寫在我辦公室裡的話，很難整理。"
+
+# game/williamroute3.rpy:11639
+translate Tchinese williamroute3c_c24ad293:
+
+    # m "\"So if you’re gonna waste time then why don’t we do it somewhere more lively.\""
+    m "你想浪費時間，就去更有熱鬧點的地方吧。"
+
+# game/williamroute3.rpy:11641
+translate Tchinese williamroute3c_37136f65:
+
+    # wi "\"You mean the Stag?\""
+    wi "你是指Stag？"
+
+# game/williamroute3.rpy:11643
+translate Tchinese williamroute3c_4650fb76:
+
+    # m "\"Might do.\""
+    m "也行。"
+
+# game/williamroute3.rpy:11645
+translate Tchinese williamroute3c_e06ca695:
+
+    # wi "\"Look at you becoming the social butterfly.\""
+    wi "瞧你都變成了隻社交花舞蝶。"
+
+# game/williamroute3.rpy:11646
+translate Tchinese williamroute3c_4d12347a:
+
+    # wi "\"Why do you really want to go?\""
+    wi "你想去的真正原因是什麼？"
+
+# game/williamroute3.rpy:11648
+translate Tchinese williamroute3c_6c9466a4:
+
+    # m "\"I’ve never scoped it out for clients.\""
+    m "我還沒去那挖掘客戶過呢。"
+
+# game/williamroute3.rpy:11651
+translate Tchinese williamroute3c_cb3e2eb9:
+
+    # m "\"Might be good for business.\""
+    m "對生意可能不錯。"
+
+# game/williamroute3.rpy:11653
+translate Tchinese williamroute3c_8249fb90:
+
+    # wi "\"You tellin’ me you never sniffed out the place despite all the years you’ve been here?\""
+    wi "你都在這幾年了，還沒去過那？"
+
+# game/williamroute3.rpy:11654
+translate Tchinese williamroute3c_9cb6ce99:
+
+    # wi "\"Sounds fishy to me.\""
+    wi "不太合理吧。"
+
+# game/williamroute3.rpy:11656
+translate Tchinese williamroute3c_6aa6957b:
+
+    # m "\"Well maybe it’s nice to see you out of your element for a change.\""
+    m "能看到你做些風格不同的事也挺不錯的。"
+
+# game/williamroute3.rpy:11658
+translate Tchinese williamroute3c_1d394ec4:
+
+    # wi "\"What do you think my element is exactly?\""
+    wi "我的風格是什麼？"
+
+# game/williamroute3.rpy:11660
+translate Tchinese williamroute3c_3eb46440:
+
+    # m "\"Just think it’s funny that you can be shot at or be up to your arms in blood but you don’t wrinkle your nose until you have to make a social obligation.\""
+    m "就是說，哪怕被子彈射中或跟人幹架對你都不算什麼，可一旦得去社交就千百個不情願。"
+
+# game/williamroute3.rpy:11662
+translate Tchinese williamroute3c_3a40954e:
+
+    # wi "\"A crowded bar with a bunch of pent up drunks ain’t exactly a tea party Samuel.\""
+    wi "一間滿是欲求不滿的醉漢的酒吧可不算什麼茶會啊，Sam。"
+
+# game/williamroute3.rpy:11664
+translate Tchinese williamroute3c_4578cfbf:
+
+    # m "\"I’m sure we can arrange one of those with Mr. Tibbits instead.\""
+    m "那就去跟Tibbits先生辦一場吧。"
+
+# game/williamroute3.rpy:11666
+translate Tchinese williamroute3c_e67c3ee6:
+
+    # "I pinch my snout again."
+    "我捏了捏鼻樑。"
+
+# game/williamroute3.rpy:11667
+translate Tchinese williamroute3c_916641d6:
+
+    # wi "\"Stop.\""
+    wi "別。"
+
+# game/williamroute3.rpy:11669
+translate Tchinese williamroute3c_51094d2e:
+
+    # m "\"If we take turns bending him over the table he’ll probably pop faster than the kettle lid.\""
+    m "咱倆輪流在桌上幹他，他肯定叫得比水燒開還快。"
+
+# game/williamroute3.rpy:11671
+translate Tchinese williamroute3c_475d0658:
+
+    # "I feel nothing in my body now but pain."
+    "我全身上下只有痛苦可言。"
+
+# game/williamroute3.rpy:11672
+translate Tchinese williamroute3c_748d873e:
+
+    # wi "\"Just shut the hell up?\""
+    wi "求你閉嘴好不好？"
+
+# game/williamroute3.rpy:11673
+translate Tchinese williamroute3c_478d031e:
+
+    # wi "\"Let’s get everybody together if we’re going.\""
+    wi "要去的話就找大家吧。"
+
+# game/williamroute3.rpy:11680
+translate Tchinese williamroute3c_7146d884:
+
+    # "Sam and I stretch before going back inside to corral everybody."
+    "Sam跟我都伸展了一下身體，然後集合眾人。"
+
+# game/williamroute3.rpy:11681
+translate Tchinese williamroute3c_449c21fa:
+
+    # "Nik and Todd were where we left them."
+    "Nik跟Todd還留在原位。"
+
+# game/williamroute3.rpy:11683
+translate Tchinese williamroute3c_0da0da69:
+
+    # "Nik is happy to hear the news that we had decided to go for sure."
+    "Nik很高興聽見我們決定要去了。"
+
+# game/williamroute3.rpy:11685
+translate Tchinese williamroute3c_cbcf61f2:
+
+    # "Todd took this as an invitation to go, too."
+    "Todd也把這當作邀請。"
+
+# game/williamroute3.rpy:11686
+translate Tchinese williamroute3c_d29b5cac:
+
+    # "The damn Stag really doesn’t seem like his kind of place, but it’s too awkward to tell him no, now."
+    "那破Stag酒館真心跟他不搭，但事到如今才叫他別去也很尷尬。"
+
+# game/williamroute3.rpy:11693
+translate Tchinese williamroute3c_67acac8e:
+
+    # "We can’t find Cliff or Murdoch much of anywhere, but I remember that the stoat said he’d pay Ethel a visit."
+    "Cliff跟Murdoch不見人影，但我記得他說跟Ethel有約。"
+
+# game/williamroute3.rpy:11695
+translate Tchinese williamroute3c_f0a2d08b:
+
+    # wi "\"Hey Sam?\""
+    wi "我說Sam？"
+
+# game/williamroute3.rpy:11697
+translate Tchinese williamroute3c_df8ec4bc:
+
+    # m "\"What?\""
+    m "幹嘛？"
+
+# game/williamroute3.rpy:11699
+translate Tchinese williamroute3c_69d98b47:
+
+    # wi "\"Do you know where Ethel’s bedroom is?\""
+    wi "你知道Ethel房間是哪個嗎？"
+
+# game/williamroute3.rpy:11701
+translate Tchinese williamroute3c_47dbcd7c:
+
+    # m "\"Now that’s the last thing I thought you’d ask me.\""
+    m "我從沒想過你會問這個。"
+
+# game/williamroute3.rpy:11703
+translate Tchinese williamroute3c_58fdc766:
+
+    # wi "\"I think that’s where our Batavian friend might be.\""
+    wi "咱們那個巴達維亞朋友好像就在那。"
+
+# game/williamroute3.rpy:11705
+translate Tchinese williamroute3c_6d847c16:
+
+    # m "\"Wouldn’t be my first, second or third pick, but then again, I’m just a cocksucker.\""
+    m "她是排不上我前三個選項，但我就是個吸屌的。"
+
+# game/williamroute3.rpy:11708
+translate Tchinese williamroute3c_a96d8571:
+
+    # m "\"Uh, follow me up the stairs.\""
+    m "呃，跟上樓吧。"
+
+# game/williamroute3.rpy:11712
+translate Tchinese williamroute3c_255d5a3f:
+
+    # "We follow the stairs up to the mezzanine, past a path near another set of stairs, and in front of a few doors and what looks like a small lobby with cozy chairs."
+    "我們上樓來夾層，走過另一到樓梯附近的通道，來到有幾道門跟幾張舒適椅子的小廳堂。"
+
+# game/williamroute3.rpy:11714
+translate Tchinese williamroute3c_077767d8:
+
+    # "Murdoch looks very, very bored, flipping through a fashion catalogue."
+    "Murdoch翻閱著時尚雜誌，一臉非常非常無聊的樣子。"
+
+# game/williamroute3.rpy:11715
+translate Tchinese williamroute3c_008ae285:
+
+    # "From behind the door we hear yelling."
+    "叫聲從門後傳來。"
+
+# game/williamroute3.rpy:11716
+translate Tchinese williamroute3c_c671bbfe:
+
+    # wi "\"What the hell was--\""
+    wi "那是什麼——"
+
+# game/williamroute3.rpy:11719
+translate Tchinese williamroute3c_c53dac15:
+
+    # "Sam puts his finger to my lips to shut me up while murdoch does a similar gesture."
+    "Sam用手指抵著我嘴唇讓我閉嘴，Murdoch也做出相同的動作。"
+
+# game/williamroute3.rpy:11721
+translate Tchinese williamroute3c_00326976:
+
+    # cl "\"Hyah!\""
+    cl "喝啊！"
+
+# game/williamroute3.rpy:11722
+translate Tchinese williamroute3c_1b1689ec:
+
+    # et "\"Ohhh.\""
+    et "噢噢。"
+
+# game/williamroute3.rpy:11723
+translate Tchinese williamroute3c_ed63e74d:
+
+    # et "\"You’re as hot blooded as any yank, Mr. Tibbits!\""
+    et "你就跟美國佬一樣棒呀，Tibbits先生！"
+
+# game/williamroute3.rpy:11724
+translate Tchinese williamroute3c_c90d76f3:
+
+    # cl "\"A little ways more!\""
+    cl "還差一點！"
+
+# game/williamroute3.rpy:11725
+translate Tchinese williamroute3c_f715b811:
+
+    # cl "\"A LITTLE ways more!\""
+    cl "差{b}一點{/b}！"
+
+# game/williamroute3.rpy:11726
+translate Tchinese williamroute3c_d0a2898e:
+
+    # et "\"Ohhh I wouldn’t say little!\""
+    et "哎呀什麼一點！"
+
+# game/williamroute3.rpy:11727
+translate Tchinese williamroute3c_e4c052ce:
+
+    # et "\"I’d say juuuuust right!\""
+    et "一點不差呀啊啊！"
+
+# game/williamroute3.rpy:11728
+translate Tchinese williamroute3c_2475de06:
+
+    # et "\"Ohhhh.\""
+    et "噢噢噢。"
+
+# game/williamroute3.rpy:11729
+translate Tchinese williamroute3c_00326976_1:
+
+    # cl "\"Hyah!\""
+    cl "喝啊！"
+
+# game/williamroute3.rpy:11730
+translate Tchinese williamroute3c_9b7538d4:
+
+    # et "\"Ohhhhhh.\""
+    et "噢噢噢噢噢。"
+
+# game/williamroute3.rpy:11731
+translate Tchinese williamroute3c_2c41606b:
+
+    # "This is a hell."
+    "這是地獄吧。"
+
+# game/williamroute3.rpy:11732
+translate Tchinese williamroute3c_81ec0a30:
+
+    # et "\"...wait, you’re done?\""
+    et "……等等，你完事了？"
+
+# game/williamroute3.rpy:11733
+translate Tchinese williamroute3c_ab6d355f:
+
+    # cl "\"Afraid so.\""
+    cl "是的。"
+
+# game/williamroute3.rpy:11734
+translate Tchinese williamroute3c_4761b51f:
+
+    # cl "\"Are you?\""
+    cl "你呢？"
+
+# game/williamroute3.rpy:11735
+translate Tchinese williamroute3c_f09abdf6:
+
+    # et "\"...yeah, we’re done.\""
+    et "……好，那結束了。"
+
+# game/williamroute3.rpy:11740
+translate Tchinese williamroute3c_ac367ac0:
+
+    # "As the door starts to open Sam and I split to the opposite sides of with our backs against the wall."
+    "門一打開，Sam跟我就分別站到兩旁，背對牆壁。"
+
+# game/williamroute3.rpy:11743
+translate Tchinese williamroute3c_98a80dac:
+
+    # "I only see a the salamanders hand as she pushes a very glossy Mr. Tibbits out of the room as she closes the door."
+    "只見蠑螈的一隻手把全身光滑的Tibbits先生推了出來，關上房門。"
+
+# game/williamroute3.rpy:11746
+translate Tchinese williamroute3c_83eba393:
+
+    # "He stretches and starts a merry little whistle with a bounce in his step."
+    "他伸展了一下身子，愉快地吹了聲口哨，走路都有風。"
+
+# game/williamroute3.rpy:11753
+translate Tchinese williamroute3c_70795d08:
+
+    # "Until he sees all of us and stops."
+    "才看到我們，停下腳步。"
+
+# game/williamroute3.rpy:11754
+translate Tchinese williamroute3c_0150ec3e:
+
+    # cl "\"Mr. Byrnes I thought--\""
+    cl "Byrnes先生，我不是——"
+
+# game/williamroute3.rpy:11758
+translate Tchinese williamroute3c_41d45813:
+
+    # "We all make a shushing gesture."
+    "我們全都擺出「噓」的手勢。"
+
+# game/williamroute3.rpy:11762
+translate Tchinese williamroute3c_f6418422:
+
+    # "He lowers his voice."
+    "他壓低音量。"
+
+# game/williamroute3.rpy:11763
+translate Tchinese williamroute3c_65614dbf:
+
+    # cl "\"I thought I told you to redirect anybody down the stairs.\""
+    cl "我不是請你把其他人趕下樓嗎。"
+
+# game/williamroute3.rpy:11764
+translate Tchinese williamroute3c_6673072f:
+
+    # cl "\"I said that it would be quick.\""
+    cl "說了會很快的。"
+
+# game/williamroute3.rpy:11766
+translate Tchinese williamroute3c_ff4b093a:
+
+    # mu "\"They just got here, I didn’t have time to.\""
+    mu "他們才剛到，我來不及。"
+
+# game/williamroute3.rpy:11768
+translate Tchinese williamroute3c_b4a123e2:
+
+    # "He wipes his brow and flicks a bit of his sweat to the floor."
+    "他擦了擦眉頭，把些許汗滴甩在地上。"
+
+# game/williamroute3.rpy:11770
+translate Tchinese williamroute3c_28d0a016:
+
+    # cl "\"I’ll need a moment in the bathroom to freshen up.\""
+    cl "我去廁所清理身子。"
+
+# game/williamroute3.rpy:11771
+translate Tchinese williamroute3c_cd44dca5:
+
+    # mu "\"Cliff you really don’t have to worry too much about that for where we’re going.\""
+    mu "Cliff，我們接下來要去的地方不用你這麼注重清潔。"
+
+# game/williamroute3.rpy:11773
+translate Tchinese williamroute3c_8e79b996:
+
+    # cl "\"I don’t need to be fresh for others.\""
+    cl "我保持整潔不是為了別人。"
+
+# game/williamroute3.rpy:11774
+translate Tchinese williamroute3c_4762b4b0:
+
+    # cl "\"I need to be fresh for myself.\""
+    cl "是為了我自己。"
+
+# game/williamroute3.rpy:11776
+translate Tchinese williamroute3c_87ed0cf4:
+
+    # wi "\"Just one thing before you go Mr. Tibbits.\""
+    wi "在你走之前先聽我說一句，Tibbits先生。"
+
+# game/williamroute3.rpy:11778
+translate Tchinese williamroute3c_7656f4b7:
+
+    # "His tone is snappy."
+    "他語氣不爽。"
+
+# game/williamroute3.rpy:11779
+translate Tchinese williamroute3c_c107de5e:
+
+    # cl "\"What?\""
+    cl "怎樣？"
+
+# game/williamroute3.rpy:11780
+translate Tchinese williamroute3c_ebd20bcb:
+
+    # wi "\"The wine.\""
+    wi "紅酒。"
+
+# game/williamroute3.rpy:11781
+translate Tchinese williamroute3c_d1f940a4:
+
+    # wi "\"Did you find out who ordered Ethel to fetch it?\""
+    wi "你知道是誰叫Ethel去拿的嗎？"
+
+# game/williamroute3.rpy:11783
+translate Tchinese williamroute3c_88e0a284:
+
+    # cl "\"Oh that?\""
+    cl "這件事喔？"
+
+# game/williamroute3.rpy:11785
+translate Tchinese williamroute3c_3e847dc6:
+
+    # cl "\"Well that was nothing.\""
+    cl "沒什麼大不了的。"
+
+# game/williamroute3.rpy:11788
+translate Tchinese williamroute3c_b50cfeba:
+
+    # cl "\"It was exactly who you’d expect to order the wine.\""
+    cl "就是會訂酒的人了。"
+
+# game/williamroute3.rpy:11791
+translate Tchinese williamroute3c_d472850f:
+
+    # cl "\"Harlan. The barkeep.\""
+    cl "那位酒保，Harlan。"
+
+# game/williamroute3.rpy:11796
+translate Tchinese williamroute3c_186e1c62:
+
+    # wi "\"...right.\""
+    wi "……也是。"
+
+# game/williamroute3.rpy:11797
+translate Tchinese williamroute3c_b6b03826:
+
+    # "I thought as much, but I needed to confirm it."
+    "我就覺得如此，只是想確定一下。"
+
+# game/williamroute3.rpy:11799
+translate Tchinese williamroute3c_5e6e8c95:
+
+    # cl "\"Well then!\""
+    cl "好了！"
+
+# game/williamroute3.rpy:11800
+translate Tchinese williamroute3c_567345c6:
+
+    # cl "\"How about you all scoot along and I’ll join you outside downstairs in less than ten minutes.\""
+    cl "你們先離開吧，我十分鐘內下樓跟你們會合。"
+
+# game/williamroute3.rpy:11802
+translate Tchinese williamroute3c_e97c3869:
+
+    # mu "\"Sounds good to me, unless the sheriff needs something else?\""
+    mu "沒問題，除非警長還有事？"
+
+# game/williamroute3.rpy:11804
+translate Tchinese williamroute3c_f9e3f25b:
+
+    # wi "\"No, that’s all I needed.\""
+    wi "沒，我沒事了。"
+
+# game/williamroute3.rpy:11805
+translate Tchinese williamroute3c_455809a4:
+
+    # wi "\"Let’s go meet up with Todd and Nik.\""
+    wi "去跟Todd和Nik會合吧。"
+
+# game/williamroute3.rpy:11814
+translate Tchinese williamroute3c_785c71d0:
+
+    # "Finding Murdoch and Mr. Tibbits is a bit more of a struggle."
+    "Murdoch跟Tibbits先生就不怎麼好找了。"
+
+# game/williamroute3.rpy:11816
+translate Tchinese williamroute3c_6da1d326:
+
+    # "We check the bar and the stage."
+    "我們找遍了酒吧、舞台，"
+
+# game/williamroute3.rpy:11818
+translate Tchinese williamroute3c_8868de62:
+
+    # "Then the powder room."
+    "還有梳妝室。"
+
+# game/williamroute3.rpy:11821
+translate Tchinese williamroute3c_ff8ad370:
+
+    # "After circling the whole Hip for two or three more times Sam finds them in the powder room, which confused as all because we thought we checked."
+    "把整間Hip巡過兩三次後，Sam才在梳妝室找到他們，讓我們都很詫異，畢竟理應早就搜過了。"
+
+# game/williamroute3.rpy:11825
+translate Tchinese williamroute3c_e9287b0d:
+
+    # "Murdoch looks annoyed."
+    "Murdoch一臉不悅。"
+
+# game/williamroute3.rpy:11826
+translate Tchinese williamroute3c_f95d9061:
+
+    # "Mr. Tibbits looks incredibly relaxed."
+    "Tibbits先生倒十分愜意。"
+
+# game/williamroute3.rpy:11827
+translate Tchinese williamroute3c_c03b050f:
+
+    # "Though I can’t help but notice he’s walking a bit oddly."
+    "不過他走起路來有點怪。"
+
+# game/williamroute3.rpy:11834
+translate Tchinese williamroute3c_ff02f45e:
+
+    # "Once everybody is together outside, Nik waits for us a little further down the dirt road."
+    "大家都到外頭時，Nik已經在砂石路上不遠處等著我們了。"
+
+# game/williamroute3.rpy:11836
+translate Tchinese williamroute3c_e5c5f820:
+
+    # "When we catch up to him, he clears his throat."
+    "跟他會合後，他清了清嗓子。"
+
+# game/williamroute3.rpy:11838
+translate Tchinese williamroute3c_459036d0:
+
+    # "He puts his hands on his hips and nods solemnly, as if he’s going to make a speech."
+    "雙手擺在臀部上，嚴肅地點了個頭，好像要發表什麼演講。"
+
+# game/williamroute3.rpy:11840
+translate Tchinese williamroute3c_c87869c9:
+
+    # ni "\"Good evening gentleman.\""
+    ni "晚上好，男士們。"
+
+# game/williamroute3.rpy:11841
+translate Tchinese williamroute3c_d83d32e8:
+
+    # "And boy is he startin’ one."
+    "還真開始了。"
+
+# game/williamroute3.rpy:11843
+translate Tchinese williamroute3c_2e369f8c:
+
+    # ni "\"The first thing I want to express is my gratitude to each one of you for making this evening possible.\""
+    ni "首先，我想感謝在場各位，沒有你們就沒有今晚。"
+
+# game/williamroute3.rpy:11846
+translate Tchinese williamroute3c_94703bac:
+
+    # ni "\"This is a historic occasion for myself and Sam.\""
+    ni "這對我跟Sam來說是個歷史性的事件。"
+
+# game/williamroute3.rpy:11849
+translate Tchinese williamroute3c_95c317cd:
+
+    # ni "\"We have never been able to get William to come and drink with us at the Stag.\""
+    ni "我們從來沒能帶William去Stag酒館一起喝一杯。"
+
+# game/williamroute3.rpy:11851
+translate Tchinese williamroute3c_3eb9071c:
+
+    # wi "\"It’s not a big deal, Nik.\""
+    wi "這又沒什麼大不了的，Nik。"
+
+# game/williamroute3.rpy:11853
+translate Tchinese williamroute3c_3f3dcedb:
+
+    # ni "\"Oh, moon.\""
+    ni "明月啊。"
+
+# game/williamroute3.rpy:11854
+translate Tchinese williamroute3c_2845ed4d:
+
+    # ni "\"Oh, stars.\""
+    ni "星辰啊。"
+
+# game/williamroute3.rpy:11856
+translate Tchinese williamroute3c_fdb70c35:
+
+    # ni "\"What wheels do you turn to make our sheriff Adler attend this dance?\""
+    ni "你們究竟是處於何種相位，才能令Adler警長前來共舞？"
+
+# game/williamroute3.rpy:11858
+translate Tchinese williamroute3c_46b7b77a_1:
+
+    # "I roll my eyes."
+    "我翻了個白眼。"
+
+# game/williamroute3.rpy:11859
+translate Tchinese williamroute3c_3ea3e31d:
+
+    # wi "\"If you keep this up I’m just going back home.\""
+    wi "你再說下去我就要回家了。"
+
+# game/williamroute3.rpy:11860
+translate Tchinese williamroute3c_cb400217:
+
+    # wi "\"My office is right there you know.\""
+    wi "你也知道，我辦公室就在那。"
+
+# game/williamroute3.rpy:11861
+translate Tchinese williamroute3c_ac91d242:
+
+    # "I point at the building as we pass it."
+    "我指著剛好路過的建築。"
+
+# game/williamroute3.rpy:11864
+translate Tchinese williamroute3c_d60a8d8a:
+
+    # cl "\"Pardon me.\""
+    cl "不好意思。"
+
+# game/williamroute3.rpy:11866
+translate Tchinese williamroute3c_d247daac:
+
+    # cl "\"I don’t mean to interrupt anything scripted, but what’s the purpose of going from one dance hall to another?\""
+    cl "我無意打擾你的演說，但只是換了個舞廳，有什麼意義嗎？"
+
+# game/williamroute3.rpy:11871
+translate Tchinese williamroute3c_aa06f29d:
+
+    # mu "\"The hip is still a brothel, Mr. Tibbits, but it’s world famous for its entertainment and its organizational policies.\""
+    mu "Hip始終是個娼館，Tibbits先生，但娛樂和組織政策都是舉世聞名的。"
+
+# game/williamroute3.rpy:11873
+translate Tchinese williamroute3c_e3ce0f5c:
+
+    # mu "\"Where we’re going is more of a free-for-all.\""
+    mu "我們要去的地方則隨興多了。"
+
+# game/williamroute3.rpy:11876
+translate Tchinese williamroute3c_2b7f6a0b:
+
+    # ni "\"And it is a gentleman’s club.\""
+    ni "還是男士專用的俱樂部。"
+
+# game/williamroute3.rpy:11879
+translate Tchinese williamroute3c_8965c645:
+
+    # ni "\"So there will be no women.\""
+    ni "沒有女人。"
+
+# game/williamroute3.rpy:11882
+translate Tchinese williamroute3c_55d391e9:
+
+    # mu "\"Aside from the scant drag king or two who sneak in on occasion.\""
+    mu "除了偶爾會有少少幾個穿男裝的混進來。"
+
+# game/williamroute3.rpy:11885
+translate Tchinese williamroute3c_091b747d:
+
+    # mu "\"But they’re not exactly turned away.\""
+    mu "但也不會趕她們走就是了。"
+
+# game/williamroute3.rpy:11887
+translate Tchinese williamroute3c_b954113a:
+
+    # mu "\"Can’t say the same for the Mr. and Mrs. couples.\""
+    mu "男女情侶就不一樣了。"
+
+# game/williamroute3.rpy:11889
+translate Tchinese williamroute3c_3c5c9c54:
+
+    # ni "\"Oh absolutely not.\""
+    ni "那是當然。"
+
+# game/williamroute3.rpy:11892
+translate Tchinese williamroute3c_4ecdc882:
+
+    # cl "\"Well why might that be so bad?\""
+    cl "那有什麼不妥？"
+
+# game/williamroute3.rpy:11895
+translate Tchinese williamroute3c_7117493e:
+
+    # mu "\"Because then it would just become the Hip but without the class.\""
+    mu "那就只會變成沒什麼格調的Hip酒館了。"
+
+# game/williamroute3.rpy:11897
+translate Tchinese williamroute3c_aa4c6ef1:
+
+    # ni "\"Mr Byrnes...\""
+    ni "Byrnes先生……"
+
+# game/williamroute3.rpy:11898
+translate Tchinese williamroute3c_ead514b2:
+
+    # ni "\"I’m hurt that you would say such a thing.\""
+    ni "你說這話太傷我的心了。"
+
+# game/williamroute3.rpy:11900
+translate Tchinese williamroute3c_cf664f6f:
+
+    # ni "\"There is plenty of ‘class’ at the Stag.\""
+    ni "Stag很有{rb}格調{/rb}{rt}階級{/rt}的。"
+
+# game/williamroute3.rpy:11903
+translate Tchinese williamroute3c_67cccba9:
+
+    # ni "\"It is called the proletariat class.\""
+    ni "無產階級。"
+
+# game/williamroute3.rpy:11905
+translate Tchinese williamroute3c_5ad53a8a:
+
+    # "He smiles slowly."
+    "他微微一笑。"
+
+# game/williamroute3.rpy:11907
+translate Tchinese williamroute3c_e4951bfd:
+
+    # "Murdoch cringes."
+    "Murdoch難堪了一下。"
+
+# game/williamroute3.rpy:11908
+translate Tchinese williamroute3c_b86e84a7:
+
+    # m "\"Good one, Mr. Krol...\""
+    m "好樣的，Krol先生……"
+
+# game/williamroute3.rpy:11911
+translate Tchinese williamroute3c_4e3cdce1:
+
+    # ni "\"Either way, it is cozy and that is what matters most.\""
+    ni "總而言之，最重要的是那裡很舒適。"
+
+# game/williamroute3.rpy:11913
+translate Tchinese williamroute3c_0c2639b0:
+
+    # wi "\"Last time I checked it was just a barn.\""
+    wi "我上次去看過了，就是棟農倉。"
+
+# game/williamroute3.rpy:11915
+translate Tchinese williamroute3c_13040e79:
+
+    # "He holds his paws on his hips and shakes his head."
+    "他雙手撐著臀部，搖了搖頭。"
+
+# game/williamroute3.rpy:11916
+translate Tchinese williamroute3c_e54070f4:
+
+    # ni "\"On off hours.\""
+    ni "離峰時間是。"
+
+# game/williamroute3.rpy:11918
+translate Tchinese williamroute3c_9a6c7ca3:
+
+    # ni "\"At the right time on the right day, it is not just a barn.\""
+    ni "時機正確的話，就不只是棟農倉了。"
+
+# game/williamroute3.rpy:11921
+translate Tchinese williamroute3c_03a9c4d5:
+
+    # ni "\"It comes to life.\""
+    ni "生機勃勃。"
+
+# game/williamroute3.rpy:11923
+translate Tchinese williamroute3c_b9f38572:
+
+    # "I nod to him."
+    "我朝他點頭。"
+
+# game/williamroute3.rpy:11924
+translate Tchinese williamroute3c_0d63c87e:
+
+    # wi "\"So a crowded barn.\""
+    wi "人擠人的農倉。"
+
+# game/williamroute3.rpy:11927
+translate Tchinese williamroute3c_509970c9:
+
+    # to "\"Well I know my way around a barn.\""
+    to "我跟農倉可熟了。"
+
+# game/williamroute3.rpy:11928
+translate Tchinese williamroute3c_3ee8a423:
+
+    # to "\"Pa’s been herding cattle since before I was born, and I help him and my brothers out when I’m not at the station or patrolling.\""
+    to "爸在我出生前就在養牛了，我沒在警站或巡邏時也會幫他跟我哥哥們的忙。"
+
+# game/williamroute3.rpy:11930
+translate Tchinese williamroute3c_e4968db9:
+
+    # wi "\"It ain’t that kind of barn, Todd.\""
+    wi "不是那種農倉，Todd。"
+
+# game/williamroute3.rpy:11932
+translate Tchinese williamroute3c_a616000d:
+
+    # to "\"Well what’s the difference?\""
+    to "差在哪裡？"
+
+# game/williamroute3.rpy:11934
+translate Tchinese williamroute3c_59251cf8:
+
+    # wi "\"The animals filling up this one is people.\""
+    wi "裡面的動物都是人。"
+
+# game/williamroute3.rpy:11937
+translate Tchinese williamroute3c_85c77862:
+
+    # mu "\"And they’ll give you mean looks if you don’t know how to dance.\""
+    mu "你不懂怎麼跳舞的話還會被鄙視呢。"
+
+# game/williamroute3.rpy:11939
+translate Tchinese williamroute3c_9ca79506:
+
+    # to "\"We have to dance?\""
+    to "一定要跳舞嗎？"
+
+# game/williamroute3.rpy:11941
+translate Tchinese williamroute3c_c8db62eb:
+
+    # ni "\"Yes.\""
+    ni "對。"
+
+# game/williamroute3.rpy:11944
+translate Tchinese williamroute3c_f0afe065:
+
+    # mu "\"Of course, it’s not a rule that you have to dance.\""
+    mu "當然是沒有規定必須得跳了。"
+
+# game/williamroute3.rpy:11946
+translate Tchinese williamroute3c_0c34b522_1:
+
+    # ni "\"No.\""
+    ni "不行。"
+
+# game/williamroute3.rpy:11947
+translate Tchinese williamroute3c_57f230d6:
+
+    # ni "\"Tonight it is a rule.\""
+    ni "今晚就是規定要跳。"
+
+# game/williamroute3.rpy:11951
+translate Tchinese williamroute3c_0a5bc9ab:
+
+    # ni "\"One dance at least.\""
+    ni "至少一支。"
+
+# game/williamroute3.rpy:11954
+translate Tchinese williamroute3c_0b458711:
+
+    # to "\"Well one dance shouldn’t be so bad.\""
+    to "只跳一支舞應該也不算糟吧。"
+
+# game/williamroute3.rpy:11957
+translate Tchinese williamroute3c_248546ad:
+
+    # cl "\"What kind of dances do you know, Mr. Bronson?\""
+    cl "你會跳什麼舞，Bronson先生？"
+
+# game/williamroute3.rpy:11960
+translate Tchinese williamroute3c_72e345c7:
+
+    # to "\"Square.\""
+    to "方塊舞。"
+
+# game/williamroute3.rpy:11962
+translate Tchinese williamroute3c_815c14c1:
+
+    # cl "\"Pardon?\""
+    cl "你說什麼？"
+
+# game/williamroute3.rpy:11963
+translate Tchinese williamroute3c_7a116d1a:
+
+    # to "\"Oh, you know.\""
+    to "哦，是這樣的。"
+
+# game/williamroute3.rpy:11965
+translate Tchinese williamroute3c_bc713856:
+
+    # "He holds his arm out to the weasel as if to hook it."
+    "他伸手示意鼬牽住。"
+
+# game/williamroute3.rpy:11967
+translate Tchinese williamroute3c_28ad1c69:
+
+    # "The weasel looks at it like somebody’s waving a dinner fork in his face."
+    "鼬一臉有人拿刀叉朝他臉揮的表情。"
+
+# game/williamroute3.rpy:11970
+translate Tchinese williamroute3c_12260d1f:
+
+    # "The fox butts in to take it and twirls with him."
+    "狐狸介入抓住那隻手，跟他起舞。"
+
+# game/williamroute3.rpy:11972
+translate Tchinese williamroute3c_e0a57487:
+
+    # mu "\"It’s like this, Cliff.\""
+    mu "是像這樣的，Cliff。"
+
+# game/williamroute3.rpy:11974
+translate Tchinese williamroute3c_1767d4ec:
+
+    # cl "\"Oh.\""
+    cl "喔。"
+
+# game/williamroute3.rpy:11976
+translate Tchinese williamroute3c_7d93f889:
+
+    # cl "\"He meant a quadrille.\""
+    cl "是指方陣舞啊。"
+
+# game/williamroute3.rpy:11978
+translate Tchinese williamroute3c_b8959e03:
+
+    # cl "\"Albeit a very Columbianized one.\""
+    cl "不過很有哥倫比亞的風格。"
+
+# game/williamroute3.rpy:11981
+translate Tchinese williamroute3c_47c28f3d:
+
+    # mu "\"That’s the style most people will use.\""
+    mu "大多人都是跳這種的。"
+
+# game/williamroute3.rpy:11984
+translate Tchinese williamroute3c_1786d5f8:
+
+    # mu "\"At the Hip you’ll see more ragtime steps like the grizzly bear and the bunny hop.\""
+    mu "Hip酒館比較多散拍舞，比如灰熊跟兔子抱。"
+
+# game/williamroute3.rpy:11987
+translate Tchinese williamroute3c_f6d9d7c5:
+
+    # mu "\"I thought it fitting that I learn the foxtrot.\""
+    mu "我自然是學狐步了。"
+
+# game/williamroute3.rpy:11992
+translate Tchinese williamroute3c_622a5158:
+
+    # "He grins and there a small groan hovers about the crowd."
+    "他咧嘴一笑，一行人中突然傳出一小道噓聲。"
+
+# game/williamroute3.rpy:11998
+translate Tchinese williamroute3c_319af867:
+
+    # m "\"Boo.\""
+    m "（喝倒采）。"
+
+# game/williamroute3.rpy:12001
+translate Tchinese williamroute3c_4320bc88:
+
+    # "Instead of skulking away in shame, he wraps his hand around Sam and leads him backwards."
+    "他沒羞愧退場，反而摟住Sam，帶著他往後退。"
+
+# game/williamroute3.rpy:12002
+translate Tchinese williamroute3c_685439ba:
+
+    # "The cat keeps stumbling backward until Mr. Byrners grasps his hand and twirls him before letting go."
+    "貓節節跌退，直到Byrnes先生抓住他的手將他轉了一圈才放開。"
+
+# game/williamroute3.rpy:12004
+translate Tchinese williamroute3c_b646381c:
+
+    # "Cliff’s jaw opens a little and Todd lets out a wolf whistle."
+    "Cliff看得目瞪口呆，Todd則挑逗性地吹了聲口哨。"
+
+# game/williamroute3.rpy:12005
+translate Tchinese williamroute3c_dada87f0:
+
+    # "Nik is glaring."
+    "Nik則瞪著他們。"
+
+# game/williamroute3.rpy:12009
+translate Tchinese williamroute3c_3524ff84:
+
+    # mu "\"What’s fun about it is that it’s a persistent advance...\""
+    mu "這個的有趣之處在於會不斷前進……"
+
+# game/williamroute3.rpy:12011
+translate Tchinese williamroute3c_b9afa086:
+
+    # mu "\"Fits me well I should say, sappy pun aside.\""
+    mu "就算不管諧音，也跟我很合。"
+
+# game/williamroute3.rpy:12013
+translate Tchinese williamroute3c_9a703fd6:
+
+    # cl "\"So how exactly do you know which dances they’ll be using in the barn club?\""
+    cl "你是怎麼知道農倉裡的人跳什麼舞的？"
+
+# game/williamroute3.rpy:12015
+translate Tchinese williamroute3c_4d32e9e8:
+
+    # ni "\"He performs there.\""
+    ni "他會在那裡演奏。"
+
+# game/williamroute3.rpy:12017
+translate Tchinese williamroute3c_40e55044:
+
+    # ni "\"Though he performs better when he is not trying so hard to show off.\""
+    ni "不過在沒那麼愛現的時候演奏得比較好。"
+
+# game/williamroute3.rpy:12020
+translate Tchinese williamroute3c_a8788f39:
+
+    # mu "\"Well I have to show off when somebody boos me.\""
+    mu "有人喝我倒采，我當然得秀一下了。"
+
+# game/williamroute3.rpy:12021
+translate Tchinese williamroute3c_af2e7b38:
+
+    # mu "\"It’s at least twice as insulting as the initial boo.\""
+    mu "侮辱性比一開始的倒采還強兩倍有呢。"
+
+# game/williamroute3.rpy:12024
+translate Tchinese williamroute3c_a89d7ba0:
+
+    # ni "\"Perhaps you can impress with your hands on an instrument rather than Sam’s waist.\""
+    ni "你打算靠手藝來打動人的話，就去靠樂器，用不著碰Sam的腰。"
+
+# game/williamroute3.rpy:12028
+translate Tchinese williamroute3c_69d01539:
+
+    # m "\"You can both touch my waist if you like.\""
+    m "我的腰隨你們兩個碰。"
+
+# game/williamroute3.rpy:12031
+translate Tchinese williamroute3c_98416d0a:
+
+    # "Murdoch gives him a thumbs up."
+    "Murdoch朝他豎起拇指。"
+
+# game/williamroute3.rpy:12032
+translate Tchinese williamroute3c_76119d1a:
+
+    # "Nik looks slightly embarrassed and pushes ahead of us to keep walking."
+    "Nik則有點羞愧，穿過我們一行人繼續前進。"
+
+# game/williamroute3.rpy:12033
+translate Tchinese williamroute3c_3fc47cd2:
+
+    # ni "\"We should be there in less than five minutes if we pick up the pace...\""
+    ni "走快點的話，應該再五分鐘就到了……"
+
+# game/williamroute3.rpy:12038
+translate Tchinese williamroute3c_b022bfd4:
+
+    # "Sam slows his pace as he walks, coming close to me."
+    "Sam越走越慢，往我靠過來。"
+
+# game/williamroute3.rpy:12040
+translate Tchinese williamroute3c_6fd8d727:
+
+    # m "\"He’s still upset with me, isn’t he.\""
+    m "他還在生我的氣吧？"
+
+# game/williamroute3.rpy:12042
+translate Tchinese williamroute3c_1827191a:
+
+    # "I grunt."
+    "我悶哼一聲。"
+
+# game/williamroute3.rpy:12043
+translate Tchinese williamroute3c_a4292168:
+
+    # wi "\"Now what gave you that idea?\""
+    wi "為什麼這麼想？"
+
+# game/williamroute3.rpy:12045
+translate Tchinese williamroute3c_fea9b2ad:
+
+    # m "\"Nevermind.\""
+    m "當我沒說。"
+
+# game/williamroute3.rpy:12048
+translate Tchinese williamroute3c_1f31bef7:
+
+    # m "\"We don’t need to talk about this right now.\""
+    m "也不是非得現在談。"
+
+# game/williamroute3.rpy:12051
+translate Tchinese williamroute3c_b1ed6738:
+
+    # m "\"Tonight’s supposed to be fun.\""
+    m "咱們今晚是來享樂的。"
+
+# game/williamroute3.rpy:12053
+translate Tchinese williamroute3c_d8056cfb:
+
+    # wi "\"Fun for those three maybe.\""
+    wi "是對他們三個來說吧。"
+
+# game/williamroute3.rpy:12054
+translate Tchinese williamroute3c_09c8dac2:
+
+    # "Murdoch is practicing more dances with Todd until Cliff cuts in."
+    "Murdoch還在跟Todd練舞，直到Cliff從旁介入。"
+
+# game/williamroute3.rpy:12055
+translate Tchinese williamroute3c_c5ae7c50:
+
+    # "It’s a bit too complex for Todd, but he’s tryin’."
+    "對Todd來說可能有點複雜，但他正在努力。"
+
+# game/williamroute3.rpy:12057
+translate Tchinese williamroute3c_037ea7f1:
+
+    # m "\"I’m not that much of a dancer.\""
+    m "我不怎麼會跳舞。"
+
+# game/williamroute3.rpy:12059
+translate Tchinese williamroute3c_9a64c1b0:
+
+    # wi "\"That’s too bad.\""
+    wi "那就太可惜了。"
+
+# game/williamroute3.rpy:12061
+translate Tchinese williamroute3c_0febd517:
+
+    # wi "\"Because I’m a phenomenal dancer.\""
+    wi "我跳得可好了。"
+
+# game/williamroute3.rpy:12063
+translate Tchinese williamroute3c_49c7b4a0:
+
+    # m "\"You don’t dance, Will.\""
+    m "你又不跳舞，Will。"
+
+# game/williamroute3.rpy:12065
+translate Tchinese williamroute3c_371dcbe4:
+
+    # "His tone is doubtful."
+    "他語帶懷疑。"
+
+# game/williamroute3.rpy:12066
+translate Tchinese williamroute3c_8ab970bc:
+
+    # wi "\"You didn’t know me four years ago, Sam.\""
+    wi "四年前你還不認識我，Sam。"
+
+# game/williamroute3.rpy:12068
+translate Tchinese williamroute3c_e19eeae9:
+
+    # "He smirks."
+    "他奸笑起來。"
+
+# game/williamroute3.rpy:12070
+translate Tchinese williamroute3c_1db963f0:
+
+    # m "\"And you don’t think you might be a bit rusty?\""
+    m "你不怕生疏了嗎？"
+
+# game/williamroute3.rpy:12072
+translate Tchinese williamroute3c_008e4467:
+
+    # wi "\"Nope.\""
+    wi "不怕。"
+
+# game/williamroute3.rpy:12073
+translate Tchinese williamroute3c_973746ff:
+
+    # wi "\"Hard to forget once you lean.\""
+    wi "學會一次就很難忘了。"
+
+# game/williamroute3.rpy:12075
+translate Tchinese williamroute3c_14773c39:
+
+    # m "\"I don’t know.\""
+    m "難說喔。"
+
+# game/williamroute3.rpy:12078
+translate Tchinese williamroute3c_52aab5c2:
+
+    # m "\"You look a little past your prime to me.\""
+    m "我看你好像不在巔峰了吧。"
+
+# game/williamroute3.rpy:12080
+translate Tchinese williamroute3c_28270b4f:
+
+    # wi "\"Seems to me like I moved just fine the other night.\""
+    wi "我看那天晚上我還挺行的啊。"
+
+# game/williamroute3.rpy:12082
+translate Tchinese williamroute3c_774d9c8e:
+
+    # m "\"But you think like you’ll be able to keep up with that wolf you told me about if you see ‘em?.\""
+    m "那如果你說的那隻狼在，你能跟得上他嗎？"
+
+# game/williamroute3.rpy:12084
+translate Tchinese williamroute3c_8f99ec89:
+
+    # wi "\"There ain’t gonna be no wolf.\""
+    wi "才不會有什麼狼。"
+
+# game/williamroute3.rpy:12086
+translate Tchinese williamroute3c_08b8ead4:
+
+    # m "\"You’re dodgin’ the question.\""
+    m "你這是在逃避問題。"
+
+# game/williamroute3.rpy:12088
+translate Tchinese williamroute3c_cf2beb31:
+
+    # wi "\"Just because I can dance doesn’t mean I’m going to.\""
+    wi "就算我會跳，也不代表我想跳。"
+
+# game/williamroute3.rpy:12089
+translate Tchinese williamroute3c_a2c8abda:
+
+    # "He nods smugly."
+    "他奸笑著點頭。"
+
+# game/williamroute3.rpy:12091
+translate Tchinese williamroute3c_227d418c:
+
+    # m "\"Nik won’t allow that.\""
+    m "Nik可不會放過你。"
+
+# game/williamroute3.rpy:12093
+translate Tchinese williamroute3c_9b3b690b:
+
+    # "I feel my scowl getting a little bit longer."
+    "我眉頭鎖得更深了。"
+
+# game/williamroute3.rpy:12094
+translate Tchinese williamroute3c_951bd4b1:
+
+    # wi "\"If I dance with anybody then it’s gonna be you.\""
+    wi "要跳的話，我只想跟你跳。"
+
+# game/williamroute3.rpy:12096
+translate Tchinese williamroute3c_a8c4d42f:
+
+    # m "\"You think that’ll work?\""
+    m "可能嗎？"
+
+# game/williamroute3.rpy:12098
+translate Tchinese williamroute3c_1106bb96:
+
+    # wi "\"Why wouldn’t it?\""
+    wi "怎麼不可能？"
+
+# game/williamroute3.rpy:12100
+translate Tchinese williamroute3c_ca2f2732:
+
+    # m "\"All eyes are gonna be on you tonight.\""
+    m "你可是今晚的焦點。"
+
+# game/williamroute3.rpy:12103
+translate Tchinese williamroute3c_cf37ef7f:
+
+    # m "\"Which means less eyes on me.\""
+    m "我不是。"
+
+# game/williamroute3.rpy:12105
+translate Tchinese williamroute3c_3aa3a071:
+
+    # "He grabs my arm and his tone goes stern."
+    "他牽起我的手，語氣堅定。"
+
+# game/williamroute3.rpy:12107
+translate Tchinese williamroute3c_6094d0e4:
+
+    # m "\"And I will do everything in my power to preserve this natural order.\""
+    m "我會想方設法保持這種狀況。"
+
+# game/williamroute3.rpy:12109
+translate Tchinese williamroute3c_82d74d8b:
+
+    # "I shrug him off and he stumbles."
+    "我把他甩開，讓他絆了一下。"
+
+# game/williamroute3.rpy:12114
+translate Tchinese williamroute3c_8c6d5dfa:
+
+    # cl "\"I couldn’t help but overhear your dancing claims Mr. Adler.\""
+    cl "我無意中聽見你吹噓自己的舞技了，Adler先生。"
+
+# game/williamroute3.rpy:12117
+translate Tchinese williamroute3c_3e2a1899:
+
+    # cl "\"I would very much like to see your skills, if you’ll allow it.\""
+    cl "如果可以，請務必讓我見識見識。"
+
+# game/williamroute3.rpy:12120
+translate Tchinese williamroute3c_12287bd9:
+
+    # cl "\"Perhaps as a gesture that we don’t need to be at one another’s throats for the duration of my stay.\""
+    cl "就當是個友好的證明，我畢竟要在這待上一陣子，就別處處作對了。"
+
+# game/williamroute3.rpy:12122
+translate Tchinese williamroute3c_d35f3c3b:
+
+    # wi "\"I don’t need any gestures Mr. Tibbits.\""
+    wi "用不著什麼友好的證明，Tibbits先生。"
+
+# game/williamroute3.rpy:12123
+translate Tchinese williamroute3c_60f6bbaf:
+
+    # wi "\"Just your cooperation.\""
+    wi "只要你願意合作就行。"
+
+# game/williamroute3.rpy:12124
+translate Tchinese williamroute3c_5c7de1c1:
+
+    # "He rolls up his sleeves and stands in front of me, chest puffed up against mine and blue eyes looking up at me."
+    "他捲起袖子站到我面前，挺起胸膛頂著我的胸口，用青藍的雙眼直視我。"
+
+# game/williamroute3.rpy:12125
+translate Tchinese williamroute3c_58b9fa31:
+
+    # cl "\"Oh, what’s the matter?\""
+    cl "哦，怎麼？"
+
+# game/williamroute3.rpy:12127
+translate Tchinese williamroute3c_2d73a5c9:
+
+    # cl "\"Afraid you can’t keep up, Mr. Adler?\""
+    cl "怕你撐不了多久嗎，Adler先生？"
+
+# game/williamroute3.rpy:12129
+translate Tchinese williamroute3c_c32d4d97:
+
+    # wi "\"I’m more afraid I can’t keep up with him.\""
+    wi "我唯一會怕跟不上的只有他。"
+
+# game/williamroute3.rpy:12130
+translate Tchinese williamroute3c_24265d8f:
+
+    # "I point to the fox who only smiles back at me."
+    "我指向朝我微笑的狐狸。"
+
+# game/williamroute3.rpy:12132
+translate Tchinese williamroute3c_e59abac1:
+
+    # cl "\"I just want to show Columbians a new thing or two about dancing.\""
+    cl "我只是想給哥倫比亞人秀一兩手新舞技。"
+
+# game/williamroute3.rpy:12134
+translate Tchinese williamroute3c_094e7f74:
+
+    # cl "\"I promise it’ll be worth it.\""
+    cl "保證值得。"
+
+# game/williamroute3.rpy:12137
+translate Tchinese williamroute3c_c8c5b842:
+
+    # ni "\"If there’s anybody showing the Columbians how to dance, it will be me.\""
+    ni "要給哥倫比亞秀舞技，還是得我出馬。"
+
+# game/williamroute3.rpy:12139
+translate Tchinese williamroute3c_f3d394b2:
+
+    # wi "\"Ain’t the two of us a bit too big together on the dance floor Nik?\""
+    wi "我們兩個跳的話會不會太佔空間，Nik？"
+
+# game/williamroute3.rpy:12141
+translate Tchinese williamroute3c_a340f792:
+
+    # ni "\"It is a big enough barn.\""
+    ni "農倉夠大間。"
+
+# game/williamroute3.rpy:12143
+translate Tchinese williamroute3c_708b29b2:
+
+    # wi "\"Look, I’m not promising to dance with all of you.\""
+    wi "我說，我不保證會跟你們所有人跳舞。"
+
+# game/williamroute3.rpy:12144
+translate Tchinese williamroute3c_c4c58839:
+
+    # wi "\"Let’s just say that whatever happens, happens.\""
+    wi "總之船到橋頭自然直吧。"
+
+# game/williamroute3.rpy:12146
+translate Tchinese williamroute3c_8cf9e412:
+
+    # "Nik nods solemnly."
+    "Nik正經地點頭。"
+
+# game/williamroute3.rpy:12147
+translate Tchinese williamroute3c_74ce5491:
+
+    # ni "\"I accept your terms.\""
+    ni "我接受。"
+
+# game/williamroute3.rpy:12149
+translate Tchinese williamroute3c_ebab396e:
+
+    # "I feel my frown getting tighter."
+    "我眉頭鎖得更深了。"
+
+# game/williamroute3.rpy:12151
+translate Tchinese williamroute3c_ebe7bcd0:
+
+    # "After walking past a few more walks and tumbleweeds, I can see the barn in the distance."
+    "經過幾條路跟一些風滾草後，農倉就出現在遠處。"
+
+# game/williamroute3.rpy:12152
+translate Tchinese williamroute3c_52ebf27f:
+
+    # "In all honesty, there was some truth to what Nik was saying."
+    "實話實說，Nik說的不無道理。"
+
+# game/williamroute3.rpy:12153
+translate Tchinese williamroute3c_251ba95a:
+
+    # "The barn had a bit of a glimmer to it when there were more lanterns and candles lit."
+    "被燈籠跟蠟燭點亮的農倉是有點熠熠生輝。"
+
+# game/williamroute3.rpy:12154
+translate Tchinese williamroute3c_e10289c7:
+
+    # "But what I didn’t notice before was what was behind the barn."
+    "但我之前沒注意到農倉後方的部分。"
+
+# game/williamroute3.rpy:12155
+translate Tchinese williamroute3c_d24efb2d:
+
+    # "There are a lot more barns behind it that I hadn’t noticed before."
+    "有一堆更多我先前沒看到的農倉。"
+
+# game/williamroute3.rpy:12156
+translate Tchinese williamroute3c_d5bd04be:
+
+    # "Their shadows are silhouetted against the moon, and the longer shadows of the pale figures disappearing into them blur into the obscurity of the greater shade."
+    "剪影隨著月色延展，更長的灰影部分也融入其中，成為一道巨影。"
+
+# game/williamroute3.rpy:12159
+translate Tchinese williamroute3c_6ebd5a12:
+
+    # wi "\"What are all those other barns back there?\""
+    wi "後面那些農倉是什麼？"
+
+# game/williamroute3.rpy:12161
+translate Tchinese williamroute3c_b0eee1dd:
+
+    # ni "\"Those are shared spaces, owned by the property handlers.\""
+    ni "是公共區域，屬於財產管理員的。"
+
+# game/williamroute3.rpy:12163
+translate Tchinese williamroute3c_776b8d41:
+
+    # wi "\"For what purposes?\""
+    wi "用來幹嘛的？"
+
+# game/williamroute3.rpy:12165
+translate Tchinese williamroute3c_4a5805e8:
+
+    # ni "\"Recreation...\""
+    ni "運動……"
+
+# game/williamroute3.rpy:12166
+translate Tchinese williamroute3c_ae296c87:
+
+    # "I think I get the gist of what he’s implying, but I don’t like being left to make my own assumptions because of a vague answer."
+    "我隱約明白他指的是什麼，但不是很喜歡就著籠統的答案胡亂猜測。"
+
+# game/williamroute3.rpy:12168
+translate Tchinese williamroute3c_419d7a51:
+
+    # "Sam teases me with a lilting tone."
+    "Sam抑揚頓挫地挑逗我。"
+
+# game/williamroute3.rpy:12170
+translate Tchinese williamroute3c_c260c0ec:
+
+    # m "\"Fingers crossed you find him when we go inside.\""
+    m "那就祈禱他在裡頭囉。"
+
+# game/williamroute3.rpy:12175
+translate Tchinese williamroute3c_b2921b76:
+
+    # ni "\"If Chang is in the building we’ll know.\""
+    ni "Chang要是在，我們會知道的。"
+
+# game/williamroute3.rpy:12178
+translate Tchinese williamroute3c_be4c7b07:
+
+    # ni "\"He’s always in the same place.\""
+    ni "他永遠都待在同個地方。"
+
+# game/williamroute3.rpy:12183
+translate Tchinese williamroute3c_5cac80dd:
+
+    # ni "\"{i}’Him?’{/i}\""
+    ni "{i}他？{/i}"
+
+# game/williamroute3.rpy:12186
+translate Tchinese williamroute3c_a2ed2d81:
+
+    # wi "\"Actually, there’s a man I keep runnin’ into.\""
+    wi "其實，我一直碰見一個男的。"
+
+# game/williamroute3.rpy:12187
+translate Tchinese williamroute3c_2dc5a2fb:
+
+    # wi "\"And, well...\""
+    wi "而且、呃……"
+
+# game/williamroute3.rpy:12188
+translate Tchinese williamroute3c_9cfb098a:
+
+    # wi "\"He’s a bit forward.\""
+    wi "他有點直接。"
+
+# game/williamroute3.rpy:12190
+translate Tchinese williamroute3c_2a80148c:
+
+    # m "\"He wants to sleep with him.\""
+    m "他想睡他。"
+
+# game/williamroute3.rpy:12193
+translate Tchinese williamroute3c_d9ab7755:
+
+    # ni "\"William!\""
+    ni "William！"
+
+# game/williamroute3.rpy:12195
+translate Tchinese williamroute3c_3970d5ba:
+
+    # ni "\"...Are you?\""
+    ni "……你要嗎？"
+
+# game/williamroute3.rpy:12198
+translate Tchinese williamroute3c_20eef196:
+
+    # wi "\"Nobody said nothin’ about no fornication, alright?\""
+    wi "我們別再講這種苟且的事了，行不？"
+
+# game/williamroute3.rpy:12199
+translate Tchinese williamroute3c_165f8a28:
+
+    # wi "\"All y’all better get off my back.\""
+    wi "別再鬧我了。"
+
+# game/williamroute3.rpy:12200
+translate Tchinese williamroute3c_5df7fec0:
+
+    # "I can hear todd's voice a good deal away."
+    "我遠遠就聽見Todd的聲音。"
+
+# game/williamroute3.rpy:12201
+translate Tchinese williamroute3c_5ab2e742:
+
+    # to "\"Do you hear what he said?\""
+    to "你聽到他說的了嗎？"
+
+# game/williamroute3.rpy:12202
+translate Tchinese williamroute3c_d4ba3933:
+
+    # to "\"Why’s he yellin’ about fornication?\""
+    to "他為什麼要大喊苟且之事？"
+
+# game/williamroute3.rpy:12203
+translate Tchinese williamroute3c_e639f75b:
+
+    # "The other two are lagging behind even further."
+    "另外兩個人離得更遠。"
+
+# game/williamroute3.rpy:12205
+translate Tchinese williamroute3c_660b2f9f:
+
+    # m "\"Jesus, William, I was just joking.\""
+    m "拜託，William，我只是開個玩笑。"
+
+# game/williamroute3.rpy:12207
+translate Tchinese williamroute3c_37b18cde:
+
+    # wi "\"I’d just like if I could tell you one personal thing without makin’ it everybody else’s business.\""
+    wi "我只希望我跟告訴你的私事不會被昭告天下。"
+
+# game/williamroute3.rpy:12208
+translate Tchinese williamroute3c_60759b4c:
+
+    # ni "\"Oh...\""
+    ni "喔……"
+
+# game/williamroute3.rpy:12211
+translate Tchinese williamroute3c_e8169921:
+
+    # ni "\"So it’s true?\""
+    ni "所以是真的？"
+
+# game/williamroute3.rpy:12213
+translate Tchinese williamroute3c_fcffe57d:
+
+    # wi "\"All I did was think about it, okay?\""
+    wi "我只是在考慮而已好嗎？"
+
+# game/williamroute3.rpy:12214
+translate Tchinese williamroute3c_fa8cb202:
+
+    # "I feel my heart beating faster and I lower my voice."
+    "我壓低音量，心跳加速。"
+
+# game/williamroute3.rpy:12215
+translate Tchinese williamroute3c_96605d52:
+
+    # wi "\"But Jesus Christ, y’all, we’re still in public.\""
+    wi "但你們也太離譜了，這裡還是公共場合耶。"
+
+# game/williamroute3.rpy:12217
+translate Tchinese williamroute3c_f32548ab:
+
+    # m "\"Nobody heard us, Will.\""
+    m "沒人聽見啦，Will。"
+
+# game/williamroute3.rpy:12220
+translate Tchinese williamroute3c_33ac6fc8:
+
+    # ni "\"You are still too used to the City, Will.\""
+    ni "你還是改不了城市的習慣，Will。"
+
+# game/williamroute3.rpy:12223
+translate Tchinese williamroute3c_588e02ef:
+
+    # ni "\"Things can happen here.\""
+    ni "在這裡什麼都有可能。"
+
+# game/williamroute3.rpy:12226
+translate Tchinese williamroute3c_56b59363:
+
+    # ni "\"Nobody cares.\""
+    ni "ＮＢＣＳ。"
+
+# game/williamroute3.rpy:12228
+translate Tchinese williamroute3c_17f80796:
+
+    # "The frustration is rising in me again."
+    "我又懊惱起來。"
+
+# game/williamroute3.rpy:12229
+translate Tchinese williamroute3c_1b5d0204:
+
+    # wi "\"You’d be surprised when you’re a public official.\""
+    wi "當官的可就不同了。"
+
+# game/williamroute3.rpy:12231
+translate Tchinese williamroute3c_e31a1592:
+
+    # ni "\"You above anybody here has an alibi.\""
+    ni "你比任何人都有不在場證明。"
+
+# game/williamroute3.rpy:12232
+translate Tchinese williamroute3c_0939541d:
+
+    # ni "\"You are still on the job.\""
+    ni "你還在工作呢。"
+
+# game/williamroute3.rpy:12234
+translate Tchinese williamroute3c_4d98d29a:
+
+    # wi "\"Even still...\""
+    wi "這也一樣……"
+
+# game/williamroute3.rpy:12236
+translate Tchinese williamroute3c_df88db7d:
+
+    # ni "\"What?\""
+    ni "什麼？"
+
+# game/williamroute3.rpy:12238
+translate Tchinese williamroute3c_9f262a89:
+
+    # wi "\"I don’t want to lose control of myself so easily.\""
+    wi "我不想輕易失控。"
+
+# game/williamroute3.rpy:12239
+translate Tchinese williamroute3c_6c172ca0:
+
+    # wi "\"People are counting on me.\""
+    wi "人們還指望我呢。"
+
+# game/williamroute3.rpy:12243
+translate Tchinese williamroute3c_08b5aecb:
+
+    # m "\"So are we, Will.\""
+    m "我們也是啊，Will。"
+
+# game/williamroute3.rpy:12245
+translate Tchinese williamroute3c_45a02b2f:
+
+    # wi "\"What are you talking about?\""
+    wi "什麼意思？"
+
+# game/williamroute3.rpy:12247
+translate Tchinese williamroute3c_227dc512:
+
+    # m "\"Remember what happened back at the mines in the tunnel?\""
+    m "你還記得在礦坑隧道裡的事嗎？"
+
+# game/williamroute3.rpy:12250
+translate Tchinese williamroute3c_9d0d4c97:
+
+    # m "\"Well that just wasn’t normal.\""
+    m "那很不對勁。"
+
+# game/williamroute3.rpy:12252
+translate Tchinese williamroute3c_92111549:
+
+    # wi "\"I know it wasn’t normal, y’all, but nothing’s happened to me since.\""
+    wi "我也知道那不對勁啊，但之後我又沒什麼事。"
+
+# game/williamroute3.rpy:12254
+translate Tchinese williamroute3c_f1f3094f:
+
+    # ni "\"You have to take care of yourself before you can take care of anybody else.\""
+    ni "你得先顧好自己才有能力照顧他人。"
+
+# game/williamroute3.rpy:12257
+translate Tchinese williamroute3c_666cc97c:
+
+    # m "\"Listen to Nik.\""
+    m "聽Nik的話。"
+
+# game/williamroute3.rpy:12260
+translate Tchinese williamroute3c_4eb8a7f8:
+
+    # m "\"And if you aren’t goin’ to listen to him, then please just listen to me.\""
+    m "如果不想聽他的，那至少聽我的。"
+
+# game/williamroute3.rpy:12263
+translate Tchinese williamroute3c_0e0ba157:
+
+    # m "\"Pull the stick out of your ass and enjoy yourself.\""
+    m "別再想太多，放開心去玩吧。"
+
+# game/williamroute3.rpy:12266
+translate Tchinese williamroute3c_712dc9d9:
+
+    # m "\"For your own sake.\""
+    m "這也是為你自己好。"
+
+# game/williamroute3.rpy:12269
+translate Tchinese williamroute3c_26d5f080:
+
+    # m "\"We aren’t babies Will.\""
+    m "我們不是小孩子了，Will。"
+
+# game/williamroute3.rpy:12272
+translate Tchinese williamroute3c_24e93f69:
+
+    # m "\"If you worked 24/7 and never slept, driving yourself crazy, there’d still be assholes out and about ruining other people’s lives.\""
+    m "就算你成天不眠不休工作到人都瘋了，外頭還是會有一堆混蛋摧殘他人生活。"
+
+# game/williamroute3.rpy:12275
+translate Tchinese williamroute3c_fe06be33:
+
+    # m "\"The world aint in need of some good old fashioned justice right now...\""
+    m "現在世界上需要的不是什麼正義……"
+
+# game/williamroute3.rpy:12278
+translate Tchinese williamroute3c_aebd9a52:
+
+    # m "\"It needs some joy.\""
+    m "是歡樂。"
+
+# game/williamroute3.rpy:12281
+translate Tchinese williamroute3c_2f576128:
+
+    # "Where the hell do these two get off on lecturing me?"
+    "這兩貨怎麼還對我說教起來了？"
+
+# game/williamroute3.rpy:12284
+translate Tchinese williamroute3c_799df0ea:
+
+    # mu "\"So.\""
+    mu "所以。"
+
+# game/williamroute3.rpy:12285
+translate Tchinese williamroute3c_b28f91d3:
+
+    # "All three of us turn to Murdoch, Cliff and Todd, finally catching up to us."
+    "我們三個轉向終於到達的Murdoch、Cliff和Todd。"
+
+# game/williamroute3.rpy:12287
+translate Tchinese williamroute3c_5eb38879:
+
+    # mu "\"Y’all ready to go inside or what?\""
+    mu "你們是準備好要進去了沒？"
+
+# game/williamroute3.rpy:12288
+translate Tchinese williamroute3c_41f46675:
+
+    # mu "\"Will?\""
+    mu "Will？"
+
+# game/williamroute3.rpy:12290
+translate Tchinese williamroute3c_3e7d2161:
+
+    # wi "\"Yeah I’m ready.\""
+    wi "準備好了。"
+
+# game/williamroute3.rpy:12296
+translate Tchinese williamroute3c_313e06c2:
+
+    # "Oddly enough, the smell inside is better than it was the last time I was here."
+    "裡頭的氣味微妙地比之前來時好。"
+
+# game/williamroute3.rpy:12297
+translate Tchinese williamroute3c_033c5334:
+
+    # "They’ve completely opened the doors to the outside, and they’re burning oils and and candles that smell like pine tree sap."
+    "大門完全敞開，也在燒著有松樹味的精油跟蠟燭。"
+
+# game/williamroute3.rpy:12302
+translate Tchinese williamroute3c_c9c33f21:
+
+    # ni "\"Oh.\""
+    ni "喔。"
+
+# game/williamroute3.rpy:12303
+translate Tchinese williamroute3c_5dac79d2:
+
+    # wi "\"What?\""
+    wi "怎麼了？"
+
+# game/williamroute3.rpy:12305
+translate Tchinese williamroute3c_280604cb:
+
+    # ni "\"Chang is definitely here.\""
+    ni "Chang肯定在這。"
+
+# game/williamroute3.rpy:12307
+translate Tchinese williamroute3c_cf6ac989:
+
+    # wi "\"Do you see him?\""
+    wi "你看見他了？"
+
+# game/williamroute3.rpy:12309
+translate Tchinese williamroute3c_2e14b93e:
+
+    # ni "\"No, but I see my friend Yao up on the loft.\""
+    ni "沒，但我朋友Yao在閣樓上。"
+
+# game/williamroute3.rpy:12311
+translate Tchinese williamroute3c_aeae4eef:
+
+    # wi "\"He’s that Huaxian tiger you’ve told me about before, right?\""
+    wi "他就是那隻你之前跟我提過的華夏虎吧？"
+
+# game/williamroute3.rpy:12313
+translate Tchinese williamroute3c_7b08e88c:
+
+    # ni "\"Aye.\""
+    ni "嗯。"
+
+# game/williamroute3.rpy:12316
+translate Tchinese williamroute3c_b9e76abb:
+
+    # ni "\"If he is here, that means Chang will be here too.\""
+    ni "他在這，就代表Chang也在這。"
+
+# game/williamroute3.rpy:12319
+translate Tchinese williamroute3c_54729263:
+
+    # ni "\"Come with me.\""
+    ni "跟我來。"
+
+# game/williamroute3.rpy:12322
+translate Tchinese williamroute3c_49c18999:
+
+    # "He guides me to the ladder that leads into the loft."
+    "他帶我爬梯子上閣樓。"
+
+# game/williamroute3.rpy:12323
+translate Tchinese williamroute3c_36d400d5:
+
+    # "I’ve been here before recently."
+    "我最近才來過一次的。"
+
+# game/williamroute3.rpy:12329
+translate Tchinese williamroute3c_fba47559:
+
+    # "We walk on over to the edhe of the loft to the table where the tiger is seated."
+    "我們走到閣樓邊緣老虎坐著的那張桌子。"
+
+# game/williamroute3.rpy:12333
+translate Tchinese williamroute3c_bc1eedbe:
+
+    # "Along with a sable I’ve certainly seen before."
+    "還有那隻我確實見過的黑貂。"
+
+# game/williamroute3.rpy:12334
+translate Tchinese williamroute3c_df884ef4:
+
+    # wi "\"Ji Ba?\""
+    wi "Ji Ba？"
+
+# game/williamroute3.rpy:12339
+translate Tchinese williamroute3c_e18755ac:
+
+    # "The tiger stands abruptly, nearly knocking his chair over."
+    "老虎猛站起身，差點沒把他的椅子撞倒。"
+
+# game/williamroute3.rpy:12342
+translate Tchinese williamroute3c_8a77b144:
+
+    # ya "\"What did you call him?!\""
+    ya "你叫他什麼！？"
+
+# game/williamroute3.rpy:12344
+translate Tchinese williamroute3c_ac419af2:
+
+    # wi "\"Whoa now!\""
+    wi "喂喂喂！"
+
+# game/williamroute3.rpy:12352
+translate Tchinese williamroute3c_bfe9fda5:
+
+    # "He takes a swipe at me but I side-step it."
+    "他朝我一掌揮來，被我閃到一旁躲過。"
+
+# game/williamroute3.rpy:12356
+translate Tchinese williamroute3c_7a3bf3f7:
+
+    # "Nikolai is shouting for him to stop, and the marten is laughing."
+    "Nikolai吼他住手，貂則在一旁大笑。"
+
+# game/williamroute3.rpy:12358
+translate Tchinese williamroute3c_6038b322:
+
+    # wi "\"Next time warn me when your friends are gonna try to maul me, Nik!\""
+    wi "下次你朋友想殺我之前警告我一聲，Nik！"
+
+# game/williamroute3.rpy:12360
+translate Tchinese williamroute3c_91fd551a:
+
+    # "The tiger blinks when he sees and hears Nik yelling."
+    "老虎在察覺Nik大叫時眨了眨眼。"
+
+# game/williamroute3.rpy:12362
+translate Tchinese williamroute3c_2bf641db:
+
+    # "Then he sees the sable laughing."
+    "接著看見黑貂在笑。"
+
+# game/williamroute3.rpy:12363
+translate Tchinese williamroute3c_3fff84b1:
+
+    # "He speaks rapidly in a huaxian language,{nw}"
+    "他用華夏語快速說了些話，{nw}"
+
+# game/williamroute3.rpy:12367
+translate Tchinese williamroute3c_898bdcea:
+
+    # extend " then slaps his fists on the table as the sable sits up, folding his hands apologetically."
+    extend "然後一拳捶在桌上，黑貂則坐起身子，懷著歉意闔上雙手。"
+
+# game/williamroute3.rpy:12372
+translate Tchinese williamroute3c_c5114505:
+
+    # "The tiger turns back to us and quickly takes a short bow."
+    "老虎轉而面對我們，稍稍鞠躬。"
+
+# game/williamroute3.rpy:12373
+translate Tchinese williamroute3c_c532d73d:
+
+    # ya "\"My sincerest apologies.\""
+    ya "非常抱歉。"
+
+# game/williamroute3.rpy:12374
+translate Tchinese williamroute3c_3dc7d0eb:
+
+    # ya "\"Just now, I have acted using my emotions rather than my rationality.\""
+    ya "我方才未多加思索，一時因情緒而衝動。"
+
+# game/williamroute3.rpy:12378
+translate Tchinese williamroute3c_feee145e:
+
+    # ya "\"My associate at the other side of the table has acted with neither.\""
+    ya "我那坐在桌子對面的友人則是沒頭沒腦的。"
+
+# game/williamroute3.rpy:12380
+translate Tchinese williamroute3c_0c1c7f15:
+
+    # unkch "\"As if you haven’t made your bosses look foolish before.\""
+    unkch "說得好像你就沒捉弄上司過。"
+
+# game/williamroute3.rpy:12383
+translate Tchinese williamroute3c_4f97003f:
+
+    # wi "\"I take it your real name is Chang Fulin, then?\""
+    wi "你真正的名字是叫Chang Fulin吧？"
+
+# game/williamroute3.rpy:12384
+translate Tchinese williamroute3c_e113226a:
+
+    # "The sable looks at me and holds up his hands, turning his paws skyward."
+    "黑貂望著我，高舉雙爪。"
+
+# game/williamroute3.rpy:12386
+translate Tchinese williamroute3c_43bdf0e8:
+
+    # ch "\"So it is.\""
+    ch "正是。"
+
+# game/williamroute3.rpy:12389
+translate Tchinese williamroute3c_4de1cd50:
+
+    # ch "\"What are you looking for, sheriff Adlet?\""
+    ch "你有何貴幹，Adler警長？"
+
+# game/williamroute3.rpy:12391
+translate Tchinese williamroute3c_65361130:
+
+    # "I take out my note book and flip to the right page with the symbol of the black hand."
+    "我拿出筆記本，翻到有黑手標誌的那頁。"
+
+# game/williamroute3.rpy:12392
+translate Tchinese williamroute3c_04cba09c:
+
+    # wi "\"It'll be quick.\""
+    wi "沒什麼。"
+
+# game/williamroute3.rpy:12393
+translate Tchinese williamroute3c_28f7a6aa:
+
+    # wi "\"All I want to know is: What do you make of this?\""
+    wi "我只想知道一件事：這你怎麼看？"
+
+# game/williamroute3.rpy:12394
+translate Tchinese williamroute3c_a5af5260:
+
+    # "He looks at the book."
+    "他看著書。"
+
+# game/williamroute3.rpy:12396
+translate Tchinese williamroute3c_380d2f6d:
+
+    # "And his eyes go wide, and he flinches."
+    "雙眼瞪大，嚇了一跳。"
+
+# game/williamroute3.rpy:12399
+translate Tchinese williamroute3c_21aca6c7:
+
+    # "He starts shaking his head, quickly."
+    "然後迅速搖頭。"
+
+# game/williamroute3.rpy:12400
+translate Tchinese williamroute3c_85b38ac2:
+
+    # ch "\"I’m sorry, but I don’t know what that is.\""
+    ch "不好意思，我不知道這是什麼。"
+
+# game/williamroute3.rpy:12402
+translate Tchinese williamroute3c_512bf0c3:
+
+    # "He’s definitely lying."
+    "他絕對在撒謊。"
+
+# game/williamroute3.rpy:12403
+translate Tchinese williamroute3c_eb832e89:
+
+    # "There’s panic in his voice."
+    "語帶驚恐。"
+
+# game/williamroute3.rpy:12406
+translate Tchinese williamroute3c_a409563f:
+
+    # "The tiger speaks to him in Huaxian with a curious tone, but he doesn’t respond."
+    "老虎好奇地用華夏語跟他說話，但他沒回應。"
+
+# game/williamroute3.rpy:12407
+translate Tchinese williamroute3c_e7771d1e:
+
+    # "The black hand is used as a symbol of extortion."
+    "這黑手標誌代表敲詐。"
+
+# game/williamroute3.rpy:12408
+translate Tchinese williamroute3c_78d9de28:
+
+    # "That means this man is being extorted, doing the extortion, both, or is afraid he’s been caught by me."
+    "也就是說這人正被敲詐、正在敲詐人、兩者皆是，或者怕被我逮住。"
+
+# game/williamroute3.rpy:12409
+translate Tchinese williamroute3c_52f3de2f:
+
+    # "I think I know which one is most likely, considering Huaxians generally aren’t welcomed into the fold."
+    "我大概知道是哪個，畢竟華夏人通常入不了他們圈子。"
+
+# game/williamroute3.rpy:12410
+translate Tchinese williamroute3c_8a206ed7:
+
+    # wi "\"Do you know where my office is?\""
+    wi "你知道我辦公室在哪嗎？"
+
+# game/williamroute3.rpy:12411
+translate Tchinese williamroute3c_e7763dc9:
+
+    # "He nods slowly."
+    "他微微點頭。"
+
+# game/williamroute3.rpy:12412
+translate Tchinese williamroute3c_dfda235d_1:
+
+    # wi "\"Good.\""
+    wi "很好。"
+
+# game/williamroute3.rpy:12413
+translate Tchinese williamroute3c_37be1dc9:
+
+    # wi "\"Because I just wanted to say that If you have anything you want to tell me in private, stop by tomorrow during the day.\""
+    wi "我只想告訴你，如果有任何想私底下跟我說的，明天白天隨時歡迎。"
+
+# game/williamroute3.rpy:12414
+translate Tchinese williamroute3c_9f95ca49:
+
+    # wi "\"If not, then that’s okay too.\""
+    wi "不想的話也沒關係。"
+
+# game/williamroute3.rpy:12415
+translate Tchinese williamroute3c_d4e5601f:
+
+    # "He nods again, slowly."
+    "他再次點頭，緩緩地。"
+
+# game/williamroute3.rpy:12416
+translate Tchinese williamroute3c_83ea181c:
+
+    # wi "\"I’m going to leave you be for tonight, alright?\""
+    wi "今晚就不打擾你了，行吧？"
+
+# game/williamroute3.rpy:12417
+translate Tchinese williamroute3c_9ea3b10b:
+
+    # "He looks paralyzed."
+    "他整個人都僵了。"
+
+# game/williamroute3.rpy:12418
+translate Tchinese williamroute3c_70895a2e:
+
+    # "But after a time, he nods."
+    "但一陣子後便點了頭。"
+
+# game/williamroute3.rpy:12421
+translate Tchinese williamroute3c_d7efc2c4:
+
+    # "As I turn to go I hear the tiger speak urgently with the sable, voice getting slightly louder as he refuses to respond."
+    "我轉身離去時，聽見老虎急促地向黑貂搭話，因為對方不願回應而愈發大聲。"
+
+# game/williamroute3.rpy:12422
+translate Tchinese williamroute3c_8a0aaff7:
+
+    # "I hear Nik’s footsteps close behind me."
+    "Nik的腳步聲緊隨著我。"
+
+# game/williamroute3.rpy:12424
+translate Tchinese williamroute3c_2bae9a4a:
+
+    # ni "\"What did you just do?\""
+    ni "你剛才做了什麼？"
+
+# game/williamroute3.rpy:12425
+translate Tchinese williamroute3c_2867275b:
+
+    # "I tuck my notebook back into my pocket."
+    "我把筆記收回口袋。"
+
+# game/williamroute3.rpy:12426
+translate Tchinese williamroute3c_5b0735c6:
+
+    # wi "\"I just showed him a drawing I found in some documents recently.\""
+    wi "只是給他看了眼我最近在某些文件上找到的標誌。"
+
+# game/williamroute3.rpy:12427
+translate Tchinese williamroute3c_413a760c:
+
+    # wi "\"A drawing with his name next to it.\""
+    wi "標誌旁寫著他名字。"
+
+# game/williamroute3.rpy:12429
+translate Tchinese williamroute3c_d64b8d6f:
+
+    # ni "\"But what does that mean?\""
+    ni "這代表什麼？"
+
+# game/williamroute3.rpy:12430
+translate Tchinese williamroute3c_4a08399c:
+
+    # wi "\"Certainly nothing good for him.\""
+    wi "肯定不是好事。"
+
+# game/williamroute3.rpy:12431
+translate Tchinese williamroute3c_4ff2d4df:
+
+    # wi "\"I’m going to give him some time to think on it.\""
+    wi "我決定給他點時間考慮。"
+
+# game/williamroute3.rpy:12432
+translate Tchinese williamroute3c_8d815436:
+
+    # ni "\"Well if he is in danger, it is good that he has Yao to protect him.\""
+    ni "如果他有危險，至少有Yao在他身邊保護他。"
+
+# game/williamroute3.rpy:12433
+translate Tchinese williamroute3c_30cb3964:
+
+    # ni "\"I would not want to be on Yao’s bad side.\""
+    ni "我可不想與Yao為敵。"
+
+# game/williamroute3.rpy:12435
+translate Tchinese williamroute3c_85a17fd9:
+
+    # wi "\"No kidding.\""
+    wi "還真別說。"
+
+# game/williamroute3.rpy:12436
+translate Tchinese williamroute3c_b8a413b8:
+
+    # wi "\"I was up close and personal with the size of his claws.\""
+    wi "我差點就被他給抓傷了。"
+
+# game/williamroute3.rpy:12437
+translate Tchinese williamroute3c_69613d52:
+
+    # wi "\"If I was any slower I would have lost the rest of my ear.\""
+    wi "要是我再躲慢點，就連剩下的耳朵也要沒了。"
+
+# game/williamroute3.rpy:12439
+translate Tchinese williamroute3c_3c64168d:
+
+    # ni "\"I think it’s time we did what we came here to do.\""
+    ni "也差不多該來做正事了。"
+
+# game/williamroute3.rpy:12442
+translate Tchinese williamroute3c_213912b1:
+
+    # ni "\"No more work.\""
+    ni "工作到此為止。"
+
+# game/williamroute3.rpy:12444
+translate Tchinese williamroute3c_50592647:
+
+    # "A sigh excapes my breath."
+    "我口中吐出嘆息。"
+
+# game/williamroute3.rpy:12445
+translate Tchinese williamroute3c_8dbd7819:
+
+    # wi "\"Fine.\""
+    wi "行。"
+
+# game/williamroute3.rpy:12446
+translate Tchinese williamroute3c_594c9e42:
+
+    # wi "\"I got what I needed.\""
+    wi "反正我也達到目標了。"
+
+# game/williamroute3.rpy:12453
+translate Tchinese williamroute3c_c99afa9f:
+
+    # "The inside is so crowded with people that we can’t even get to the center bar right now."
+    "這裡面人滿為患，連位在中心的吧台都過不去。"
+
+# game/williamroute3.rpy:12454
+translate Tchinese williamroute3c_bf2979b0:
+
+    # "The barkeep looks more tired than I am."
+    "酒保人看起來比我還累。"
+
+# game/williamroute3.rpy:12455
+translate Tchinese williamroute3c_7d221540:
+
+    # "No sign of the bounty hunter yet, though."
+    "倒是還沒見到那賞金獵人。"
+
+# game/williamroute3.rpy:12456
+translate Tchinese williamroute3c_18442ef8:
+
+    # "I should be thankful he’s not here to tempt me to do anything stupid."
+    "幸好他沒在這誘惑我做出傻事。"
+
+# game/williamroute3.rpy:12457
+translate Tchinese williamroute3c_b068f00f:
+
+    # "But it also feels a little like I missed out on something that I’ll never take a stab at again."
+    "但同時也感覺好像錯失了什麼獨一無二的絕佳機會。"
+
+# game/williamroute3.rpy:12458
+translate Tchinese williamroute3c_2521d867:
+
+    # "Oh well."
+    "也罷。"
+
+# game/williamroute3.rpy:12459
+translate Tchinese williamroute3c_916830c5:
+
+    # "So it goes."
+    "就這樣吧。"
+
+# game/williamroute3.rpy:12461
+translate Tchinese williamroute3c_58db054f:
+
+    # "Sam is sitting on one of the rafters, sitting still while Todd and Mr. Tibbits chatter about what sounds like beeswax in candles, or God knows what else."
+    "Sam坐在橫樑上一動不動，Todd跟Tibbits先生則在聊著蠟燭的蜂蠟還是什麼的話題。"
+
+# game/williamroute3.rpy:12464
+translate Tchinese williamroute3c_5ef2036d:
+
+    # m "\"Why do you look so disappointed?\""
+    m "你怎麼一臉失望？"
+
+# game/williamroute3.rpy:12467
+translate Tchinese williamroute3c_8e51824f:
+
+    # m "\"We just got here.\""
+    m "我們才剛來呢。"
+
+# game/williamroute3.rpy:12469
+translate Tchinese williamroute3c_fbd2db0e:
+
+    # wi "\"Too much of today is on my mind.\""
+    wi "今天心事太多了。"
+
+# game/williamroute3.rpy:12470
+translate Tchinese williamroute3c_efe61dc9:
+
+    # wi "\"That’s all.\""
+    wi "就這樣而已。"
+
+# game/williamroute3.rpy:12472
+translate Tchinese williamroute3c_6b69b547:
+
+    # "He looks me over."
+    "他打量我。"
+
+# game/williamroute3.rpy:12474
+translate Tchinese williamroute3c_2d6ee573_2:
+
+    # m "\"Oh.\""
+    m "喔。"
+
+# game/williamroute3.rpy:12477
+translate Tchinese williamroute3c_c9064d70:
+
+    # m "\"That man you’re looking for ain’t here, is he?\""
+    m "那個男的沒來是吧？"
+
+# game/williamroute3.rpy:12479
+translate Tchinese williamroute3c_275ad345:
+
+    # wi "\"No?\""
+    wi "沒吧？"
+
+# game/williamroute3.rpy:12480
+translate Tchinese williamroute3c_c2cbcb71:
+
+    # wi "\"I don’t know.\""
+    wi "我不知道。"
+
+# game/williamroute3.rpy:12481
+translate Tchinese williamroute3c_9a93f9eb:
+
+    # wi "\"That ain’t the only thing, Sam.\""
+    wi "但不光是這點，Sam。"
+
+# game/williamroute3.rpy:12483
+translate Tchinese williamroute3c_02075dcd:
+
+    # m "\"What else then?\""
+    m "那還有啥？"
+
+# game/williamroute3.rpy:12485
+translate Tchinese williamroute3c_3fed66ae:
+
+    # "I look over at the crowded bar."
+    "我環顧人擠人的酒吧。"
+
+# game/williamroute3.rpy:12486
+translate Tchinese williamroute3c_539a4c9d:
+
+    # wi "\"I was really hoping for a strong drink when we got here.\""
+    wi "我來是想喝點烈酒。"
+
+# game/williamroute3.rpy:12488
+translate Tchinese williamroute3c_e49e1c5e:
+
+    # m "\"Well if we bum rush the bar together we can clear a path.\""
+    m "我們是可以一路衝到吧台。"
+
+# game/williamroute3.rpy:12491
+translate Tchinese williamroute3c_61542274:
+
+    # m "\"Might break some limbs, but some of the people here are so scrawny they obviously ain’t using ‘em anyway.\""
+    m "可能會撞壞別人手臂，但反正有些人瘦得跟皮包骨似的，肯定沒在用手。"
+
+# game/williamroute3.rpy:12493
+translate Tchinese williamroute3c_4a11d703:
+
+    # "I snort."
+    "我嗤之以鼻。"
+
+# game/williamroute3.rpy:12494
+translate Tchinese williamroute3c_be4d612c:
+
+    # wi "\"You’re atrocious, Sam.\""
+    wi "你這也太壞了，Sam。"
+
+# game/williamroute3.rpy:12496
+translate Tchinese williamroute3c_6aa61988:
+
+    # m "\"So are you if it made you laugh.\""
+    m "你都笑了，一樣壞。"
+
+# game/williamroute3.rpy:12499
+translate Tchinese williamroute3c_92b33dbc:
+
+    # "The music stops."
+    "音樂停止。"
+
+# game/williamroute3.rpy:12501
+translate Tchinese williamroute3c_fc2ee215:
+
+    # "We see Mr. Byrnes walk over to the fiddlers who greet him with open arms and pat him on the arms."
+    "Byrnes走向小提琴手，對方給了他一個懷抱，拍拍他的胳膊。"
+
+# game/williamroute3.rpy:12503
+translate Tchinese williamroute3c_0ef96c01:
+
+    # m "\"What’s he doing over there?\""
+    m "他在那幹嘛？"
+
+# game/williamroute3.rpy:12505
+translate Tchinese williamroute3c_599e65cc:
+
+    # wi "\"Looks like he’s grabbing a guitar.\""
+    wi "好像拿了把吉他。"
+
+# game/williamroute3.rpy:12508
+translate Tchinese williamroute3c_f53c7df9:
+
+    # ni "\"I told you both he performs here.\""
+    ni "我就告訴你們他會在這演奏了啊。"
+
+# game/williamroute3.rpy:12510
+translate Tchinese williamroute3c_8a3cf4ff:
+
+    # ni "\"Were either of you listening?\""
+    ni "你們沒在聽嗎？"
+
+# game/williamroute3.rpy:12513
+translate Tchinese williamroute3c_bc602ec0:
+
+    # m "\"I don’t know if I can trust that man.\""
+    m "我不知道他那人能不能信。"
+
+# game/williamroute3.rpy:12516
+translate Tchinese williamroute3c_f7d37f2d:
+
+    # m "\"He knows how to do too much.\""
+    m "他懂太多了。"
+
+# game/williamroute3.rpy:12518
+translate Tchinese williamroute3c_fae07780:
+
+    # wi "\"That’s often what happens when your parents make you do too much.\""
+    wi "被父母要求太多的人通常都會這樣。"
+
+# game/williamroute3.rpy:12523
+translate Tchinese williamroute3c_ae78f149:
+
+    # "The fox clears his throat and addresses the crowd."
+    "狐狸清過嗓子，向眾人開口。"
+
+# game/williamroute3.rpy:12525
+translate Tchinese williamroute3c_c2667fee:
+
+    # mu "\"Well howdy folks.\""
+    mu "大家好。"
+
+# game/williamroute3.rpy:12527
+translate Tchinese williamroute3c_649f0a22:
+
+    # "The barn cheers for him just a little too loud for a building this small."
+    "這間建築物太小，人群向他敬酒的聲音顯得太大。"
+
+# game/williamroute3.rpy:12529
+translate Tchinese williamroute3c_ca640ade:
+
+    # mu "\"Y'all want to know what I think?\""
+    mu "各位知道我在想什麼嗎？"
+
+# game/williamroute3.rpy:12531
+translate Tchinese williamroute3c_9e772ad7:
+
+    # "They respond to him with a raucous shout."
+    "眾人嘶吼著回應。"
+
+# game/williamroute3.rpy:12533
+translate Tchinese williamroute3c_2e8880a9:
+
+    # mu "\"I think it's a beautiful night for a beautiful crowd.\""
+    mu "今晚是個良辰吉時，有各位佳人相伴。"
+
+# game/williamroute3.rpy:12536
+translate Tchinese williamroute3c_2c07a23a:
+
+    # mu "\"You see, I have some associates with me tonight who must not be named.\""
+    mu "這麼說吧，今晚我有些朋友相陪，但恕我無法公開他們來歷。"
+
+# game/williamroute3.rpy:12538
+translate Tchinese williamroute3c_bcce3e04:
+
+    # mu "\"But they’re Stag virgins so to speak, so if you can figure out who they are, please make sure to be gentle with 'em.\""
+    mu "他們對這Stag酒館來說也算是些處男，各位若有幸發現他們，還請手下留情。"
+
+# game/williamroute3.rpy:12540
+translate Tchinese williamroute3c_7996daea:
+
+    # "It startles me to see what a different person that fox is in front of a crowd as opposed to when he's in an auditorium or an office, quietly setting up a camera."
+    "那狐狸在人群的樣子前跟在廳堂或辦公室安靜架設相機時判若兩人，令我大吃一驚。"
+
+# game/williamroute3.rpy:12541
+translate Tchinese williamroute3c_ea83b823:
+
+    # "Once again i’m flood with thoughts about the energy in his step and the flow of his body."
+    "我腦中又充斥了對他身形舉止中的能量的想法。"
+
+# game/williamroute3.rpy:12542
+translate Tchinese williamroute3c_3f4c6291:
+
+    # "They’re the kind of thoughts that make me forget about his family as I watch his tail move, bathed in the moonlight from the rafters above."
+    "月光越過上方衡量照著他擺動的尾巴，我腦中這些遐想讓我忘卻他的家庭。"
+
+# game/williamroute3.rpy:12543
+translate Tchinese williamroute3c_7ece425d:
+
+    # "He puts out an odd kind of energy that’s somehow contagious."
+    "他散發的能量很有感染力。"
+
+# game/williamroute3.rpy:12544
+translate Tchinese williamroute3c_23cb6695:
+
+    # "The energy you only tend to find in those up and coming hot spots in the big city, the ones that all the undiscovered celebrities go to."
+    "近似只有在大城市的熱點會有的能量，就是那種低調行事的名人會去的地方。"
+
+# game/williamroute3.rpy:12546
+translate Tchinese williamroute3c_d4b09fe9:
+
+    # mu "\"Let’s set the tone for them tonight with a little song and dance.\""
+    mu "來點音樂跟舞蹈，給他們今晚來個好心情吧。"
+
+# game/williamroute3.rpy:12555
+translate Tchinese williamroute3c_08760a05:
+
+    # "There’s little campfires all around us."
+    "我們周遭圍著小篝火。"
+
+# game/williamroute3.rpy:12556
+translate Tchinese williamroute3c_afe977f2:
+
+    # "The shades of people crawl around us, grasping blindly for their own little pleasures in the dark as Sam and I cling together, his chest close behind me."
+    "人們的身影在旁邊爬行，於黑暗中把握歡愉，Sam胸膛緊靠著我，跟我貼在一起。"
+
+# game/williamroute3.rpy:12557
+translate Tchinese williamroute3c_9bc3d2ab:
+
+    # "I feel the lump in his pants against my leg."
+    "他褲子裡的硬棒頂著我的腿。"
+
+# game/williamroute3.rpy:12558
+translate Tchinese williamroute3c_196041b9:
+
+    # "Then I turn around to find his tongue with mine again."
+    "我轉頭，再次索求他的舌頭。"
+
+# game/williamroute3.rpy:12559
+translate Tchinese williamroute3c_e41edb1a:
+
+    # "It’s good."
+    "很舒服。"
+
+# game/williamroute3.rpy:12560
+translate Tchinese williamroute3c_72558175:
+
+    # "And he’s good."
+    "他的吻很棒。"
+
+# game/williamroute3.rpy:12561
+translate Tchinese williamroute3c_fc2d3aca:
+
+    # "But even after all of this, my mind is frantic."
+    "是到如今，我內心依舊恐慌。"
+
+# game/williamroute3.rpy:12564
+translate Tchinese williamroute3c_7b1fcef7:
+
+    # m "\"What did you kiss me again for Will?\""
+    m "你為什麼又親了我，Will？"
+
+# game/williamroute3.rpy:12566
+translate Tchinese williamroute3c_76daf2b2:
+
+    # "I hold him closer."
+    "我將他摟近。"
+
+# game/williamroute3.rpy:12567
+translate Tchinese williamroute3c_b5de2449:
+
+    # "Tight."
+    "緊抱住他。"
+
+# game/williamroute3.rpy:12569
+translate Tchinese williamroute3c_051a7a74:
+
+    # wi "\"Because it feels good.\""
+    wi "因為很舒服。"
+
+# game/williamroute3.rpy:12570
+translate Tchinese williamroute3c_b00e31fd:
+
+    # wi "\"What kind of question is that?\""
+    wi "你這什麼問題？"
+
+# game/williamroute3.rpy:12572
+translate Tchinese williamroute3c_289165cb:
+
+    # "He chuckles."
+    "他咯咯笑著。"
+
+# game/williamroute3.rpy:12574
+translate Tchinese williamroute3c_2a58bc88:
+
+    # m "\"I meant that the man you were looking for finally showed up.\""
+    m "我是說，你在找的那個人終於現身了。"
+
+# game/williamroute3.rpy:12576
+translate Tchinese williamroute3c_7937f557:
+
+    # wi "\"I guess.\""
+    wi "是啊。"
+
+# game/williamroute3.rpy:12578
+translate Tchinese williamroute3c_231e507e:
+
+    # m "\"You got him to dance with you.\""
+    m "你都跟他跳過舞了。"
+
+# game/williamroute3.rpy:12580
+translate Tchinese williamroute3c_87964593:
+
+    # wi "\"Well who didn’t I dance with tonight?\""
+    wi "你倒是說說我今晚還沒跟誰跳舞了？"
+
+# game/williamroute3.rpy:12581
+translate Tchinese williamroute3c_469beabe:
+
+    # "He stares at me."
+    "他盯著我。"
+
+# game/williamroute3.rpy:12583
+translate Tchinese williamroute3c_d79b2e8f:
+
+    # m "\"You want him, don’t you?\""
+    m "你想要他，不是嗎？"
+
+# game/williamroute3.rpy:12585
+translate Tchinese williamroute3c_20451df9:
+
+    # "I don’t know what to say to that."
+    "我不知道怎麼回答。"
+
+# game/williamroute3.rpy:12586
+translate Tchinese williamroute3c_d61fef52:
+
+    # wi "\"I don’t know if it's good for me to get everything that I want.\""
+    wi "我不知道該不該去爭取所有自己想要的事物。"
+
+# game/williamroute3.rpy:12587
+translate Tchinese williamroute3c_ee314804:
+
+    # wi "\"But I do know I want to be with you right now.\""
+    wi "但我知道，我現在就想跟你在一起。"
+
+# game/williamroute3.rpy:12589
+translate Tchinese williamroute3c_67e7124a:
+
+    # m "\"Then just close your eyes, Will.\""
+    m "那你把眼睛閉上，Will。"
+
+# game/williamroute3.rpy:12591
+translate Tchinese williamroute3c_cb8d2330:
+
+    # "He puts his hands inside my shirt."
+    "他手伸進我上衣。"
+
+# game/williamroute3.rpy:12592
+translate Tchinese williamroute3c_bb7f5745:
+
+    # "Sifts his fingers through my fur."
+    "用手指撫過我的毛髮。"
+
+# game/williamroute3.rpy:12593
+translate Tchinese williamroute3c_0ffd4df2:
+
+    # "Finds my chest and squeezes."
+    "來到我胸脯，揉了一下。"
+
+# game/williamroute3.rpy:12594
+translate Tchinese williamroute3c_19ec5451:
+
+    # "Pulling my back to his chest."
+    "把我拉到他胸前。"
+
+# game/williamroute3.rpy:12599
+translate Tchinese williamroute3c_7d265ef5:
+
+    # m "\"Do you really want to do something that would make me happy tonight, Will?\""
+    m "你今晚真的想做能讓我開心的事嗎，Will？"
+
+# game/williamroute3.rpy:12601
+translate Tchinese williamroute3c_db849437:
+
+    # wi "\"Tonight?\""
+    wi "今晚？"
+
+# game/williamroute3.rpy:12602
+translate Tchinese williamroute3c_08047b24_2:
+
+    # wi "\"Yeah.\""
+    wi "對呀。"
+
+# game/williamroute3.rpy:12603
+translate Tchinese williamroute3c_debf5374:
+
+    # wi "\"Anything.\""
+    wi "什麼都願意。"
+
+# game/williamroute3.rpy:12605
+translate Tchinese williamroute3c_5ee02e90:
+
+    # m "\"Okay then.\""
+    m "那好。"
+
+# game/williamroute3.rpy:12606
+translate Tchinese williamroute3c_dcf4c0ec:
+
+    # m "\"I’ve been thinking about some of the things you’ve said.\""
+    m "我思考過你說的那些話了。"
+
+# game/williamroute3.rpy:12609
+translate Tchinese williamroute3c_75b71c80:
+
+    # m "\"That there are things that, if you pass them up, you wont have a chance to do again.\""
+    m "有些事你一旦錯過就再也沒機會做。"
+
+# game/williamroute3.rpy:12612
+translate Tchinese williamroute3c_6c624019:
+
+    # m "\"And you know what?\""
+    m "你知道嗎？"
+
+# game/williamroute3.rpy:12615
+translate Tchinese williamroute3c_d770d119:
+
+    # m "\"I think you’ve been through that too many times. \""
+    m "我覺得你早就經歷過太多次這種情況了。"
+
+# game/williamroute3.rpy:12617
+translate Tchinese williamroute3c_7e215ef5:
+
+    # "I think about where he’s going with this."
+    "我開始思考他言下之意。"
+
+# game/williamroute3.rpy:12619
+translate Tchinese williamroute3c_577d4a48:
+
+    # wi "\"So you want me to do something stupid? \""
+    wi "你是想要我做點傻事？"
+
+# game/williamroute3.rpy:12621
+translate Tchinese williamroute3c_c806ebc0_2:
+
+    # m "\"Yeah.\""
+    m "對。"
+
+# game/williamroute3.rpy:12624
+translate Tchinese williamroute3c_d25831a7:
+
+    # m "\"And I want to do something stupid with you.\""
+    m "我想跟你一起做點傻事。"
+
+# game/williamroute3.rpy:12627
+translate Tchinese williamroute3c_f1d36617:
+
+    # m "\"Something a messy, stupid, young and dumb William Adler would want to do.\""
+    m "又髒又笨的年輕蠢William Adler會想做的事。"
+
+# game/williamroute3.rpy:12630
+translate Tchinese williamroute3c_940631b5:
+
+    # m "\"Not the thirty-five year old man who thinks too much and who’s a stranger in his own body sometimes. \""
+    m "而不是一個想太多、有時連自己身體都不再熟悉的三十五歲男人。"
+
+# game/williamroute3.rpy:12632
+translate Tchinese williamroute3c_2a1983de:
+
+    # "We stare at the stars together for a moment."
+    "我們一同望著星空好一陣子。"
+
+# game/williamroute3.rpy:12633
+translate Tchinese williamroute3c_b30da0c8:
+
+    # wi "\"You know Sam...\""
+    wi "我說Sam……"
+
+# game/williamroute3.rpy:12634
+translate Tchinese williamroute3c_0e42ecc4:
+
+    # wi "\"I read once upon a time ago that the lights we see in the sky, right now, are from stars that died so far away, a long time ago.\""
+    wi "我以前曾經讀過，說我們現在在天上看到的光，是很久以前離我們很遙遠的星星在死前所發出的。"
+
+# game/williamroute3.rpy:12635
+translate Tchinese williamroute3c_49107d4e:
+
+    # wi "\"And it makes me think that I don’t think I want to be a walking reminder to people of what I used to be.\""
+    wi "我就在想，我不想變成一塊活生生的老古董。"
+
+# game/williamroute3.rpy:12636
+translate Tchinese williamroute3c_91f7dca2:
+
+    # wi "\"I want to feel alive right now, and live more with the time I've got left.\""
+    wi "我想活在當下，盡可能把握每一刻。"
+
+# game/williamroute3.rpy:12637
+translate Tchinese williamroute3c_086a22cc:
+
+    # wi "\"After all this shit with the hit and the killings I mean.\""
+    wi "當然，是在處理完這些謀殺案之後。"
+
+# game/williamroute3.rpy:12638
+translate Tchinese williamroute3c_125e8929:
+
+    # "Sam just laughs."
+    "Sam只是大笑。"
+
+# game/williamroute3.rpy:12639
+translate Tchinese williamroute3c_02784371:
+
+    # m "\"Good.\""
+    m "很好啊。"
+
+# game/williamroute3.rpy:12641
+translate Tchinese williamroute3c_ff1332e1:
+
+    # m "\"Then let’s go back to that bar.\""
+    m "那就回酒吧裡吧。"
+
+# game/williamroute3.rpy:12644
+translate Tchinese williamroute3c_465be46a:
+
+    # m "\"Let’s find that wolf.\""
+    m "去找那隻狼。"
+
+# game/williamroute3.rpy:12647
+translate Tchinese williamroute3c_1cafd4b6:
+
+    # m "\"And we can do something stupid together.\""
+    m "一起做點傻事。"
+
+# game/williamroute3.rpy:12650
+translate Tchinese williamroute3c_943d30eb:
+
+    # "We help each other to our feet."
+    "我們互相扶起對方。"
+
+# game/williamroute3.rpy:12652
+translate Tchinese williamroute3c_4740a2be:
+
+    # "And walk back inside."
+    "走回室內。"
+
+# game/williamroute3.rpy:12657
+translate Tchinese williamroute3c_29d131ed:
+
+    # "There’s people asleep on the floor and on the rafters, but the music’s still going, and there’s still plenty of people who haven’t had their fill of dancing the night away."
+    "地上跟橫樑上都有人在睡，不過音樂還在演奏，有一堆人都還沒跳上舞。"
+
+# game/williamroute3.rpy:12659
+translate Tchinese williamroute3c_38659e1d:
+
+    # "Kane is still at the bar."
+    "Kane還在吧台。"
+
+# game/williamroute3.rpy:12660
+translate Tchinese williamroute3c_a92ea452:
+
+    # "Somehow he has a way of still looking good even after sweating."
+    "不知怎麼地，他即使流了汗也一樣好看。"
+
+# game/williamroute3.rpy:12661
+translate Tchinese williamroute3c_b1a13a7f:
+
+    # "I can smell the alcohol and the sharp canine signifyer on him well before I’m near, then take a seat next to him."
+    "離他老遠就能聞到他身上的酒精跟狗味，我坐到他身旁。"
+
+# game/williamroute3.rpy:12663
+translate Tchinese williamroute3c_d927be5b:
+
+    # "He glances over at me and smirks."
+    "他望過來，捲起奸笑。"
+
+# game/williamroute3.rpy:12665
+translate Tchinese williamroute3c_a8363414:
+
+    # ka "\"Well hello again.\""
+    ka "又見面啦。"
+
+# game/williamroute3.rpy:12667
+translate Tchinese williamroute3c_ecea512d:
+
+    # ka "\"It’s good to see mixing with common thugs and vagabonds didn’t give you a heart attack, Sheriff.\""
+    ka "跟混混和遊民們混在一起還沒心臟病發，挺不錯啊，警長。"
+
+# game/williamroute3.rpy:12669
+translate Tchinese williamroute3c_3a70b9e9:
+
+    # ka "\"And that your bedtime isn’t eight o’clock.\""
+    ka "也幸虧你不是八點鐘就要睡了。"
+
+# game/williamroute3.rpy:12672
+translate Tchinese williamroute3c_8fba76bf:
+
+    # "He slides his drink towards me."
+    "他把飲料滑向我。"
+
+# game/williamroute3.rpy:12675
+translate Tchinese williamroute3c_d58b85f4:
+
+    # wi "\"You really think I’m no fun, don’t you?\""
+    wi "你是真覺得我這人沒意思吧？"
+
+# game/williamroute3.rpy:12676
+translate Tchinese williamroute3c_e45b3ff7:
+
+    # "I put my hand on his drink."
+    "我手搭上他的飲料。"
+
+# game/williamroute3.rpy:12677
+translate Tchinese williamroute3c_461eb3cb:
+
+    # "It’s cool to the touch and warm to the lips."
+    "手感冰涼，唇感溫熱。"
+
+# game/williamroute3.rpy:12679
+translate Tchinese williamroute3c_e5f617ce:
+
+    # ka "\"Can’t believe it ‘till I see it.\""
+    ka "我得親眼見識。"
+
+# game/williamroute3.rpy:12685
+translate Tchinese williamroute3c_60779997:
+
+    # m "\"Where do you propose he shows you then?\""
+    m "那你要他給你見識什麼？"
+
+# game/williamroute3.rpy:12687
+translate Tchinese williamroute3c_6cf3b206:
+
+    # wi "\"I’ve got this, Sam.\""
+    wi "我能對付，Sam。"
+
+# game/williamroute3.rpy:12688
+translate Tchinese williamroute3c_eae367e3:
+
+    # "I take another sip of Kane’s drink, then put it down, and slide it back over."
+    "我又喝了口Kane的飲料，放下杯子滑了回去。"
+
+# game/williamroute3.rpy:12690
+translate Tchinese williamroute3c_9dba80a9:
+
+    # m "\"Do you?\""
+    m "你能嗎？"
+
+# game/williamroute3.rpy:12693
+translate Tchinese williamroute3c_6d16f5ae:
+
+    # "Kane chuckled."
+    "Kane笑出聲。"
+
+# game/williamroute3.rpy:12695
+translate Tchinese williamroute3c_3908b5ee:
+
+    # ka "\"Yeah, do you?\""
+    ka "就是呀，你能嗎？"
+
+# game/williamroute3.rpy:12697
+translate Tchinese williamroute3c_2eddcf62:
+
+    # wi "\"I solemnly swear it, bounty hunter.\""
+    wi "我誠心誠意發誓，賞金獵人。"
+
+# game/williamroute3.rpy:12699
+translate Tchinese williamroute3c_ca4347fb:
+
+    # "A few heads turn to the end of the bar and scoot away."
+    "一些人把臉轉向吧台另一邊，拍拍屁股走人。"
+
+# game/williamroute3.rpy:12700
+translate Tchinese williamroute3c_9a8cd6f5:
+
+    # "The wolf makes a disgusted noise and starts mumbling."
+    "狼一臉嫌惡，嘟嚷道："
+
+# game/williamroute3.rpy:12702
+translate Tchinese williamroute3c_d44dc41e:
+
+    # ka "\"Not so loud...\""
+    ka "別這麼大聲……"
+
+# game/williamroute3.rpy:12706
+translate Tchinese williamroute3c_55623903:
+
+    # to "\"What exactly are you fellahs talking about that’s gettin’ folks so jumpy?\""
+    to "你們在說啥，大家怎麼這麼怕？"
+
+# game/williamroute3.rpy:12709
+translate Tchinese williamroute3c_19f7fc3a:
+
+    # m "\"Sex, Mr. Bronson.\""
+    m "性愛，Bronson先生。"
+
+# game/williamroute3.rpy:12712
+translate Tchinese williamroute3c_16a8f845:
+
+    # "The otter clammed up."
+    "水獺陷入尷尬。"
+
+# game/williamroute3.rpy:12713
+translate Tchinese williamroute3c_4afd5e81:
+
+    # to "\"You don’t...\""
+    to "你不……"
+
+# game/williamroute3.rpy:12715
+translate Tchinese williamroute3c_7e1a97dc:
+
+    # to "\"You don’t have to be so blunt, Mr. Ayers.\""
+    to "用不著這麼直白吧，Ayers先生。"
+
+# game/williamroute3.rpy:12717
+translate Tchinese williamroute3c_cba39728:
+
+    # m "\"With you I gotta be.\""
+    m "跟你就得直白。"
+
+# game/williamroute3.rpy:12721
+translate Tchinese williamroute3c_bbf1892d:
+
+    # ka "\"What, is he looking to join us, too?\""
+    ka "怎麼，他也要一起？"
+
+# game/williamroute3.rpy:12723
+translate Tchinese williamroute3c_846e867d_2:
+
+    # wi "\"No.\""
+    wi "沒。"
+
+# game/williamroute3.rpy:12724
+translate Tchinese williamroute3c_637a5692:
+
+    # wi "\"He isn’t.\""
+    wi "他沒有。"
+
+# game/williamroute3.rpy:12726
+translate Tchinese williamroute3c_6fa56cd4:
+
+    # ka "’Cept his ears are goin’ beet red.\""
+    ka "但他耳朵都紅囉。"
+
+# game/williamroute3.rpy:12729
+translate Tchinese williamroute3c_afef6d45:
+
+    # m "\"Why don’t I handle ‘im.\""
+    m "我來應付他吧。"
+
+# game/williamroute3.rpy:12731
+translate Tchinese williamroute3c_7d3de603:
+
+    # wi "\"Sam.\""
+    wi "Sam。"
+
+# game/williamroute3.rpy:12733
+translate Tchinese williamroute3c_ede8eaa1:
+
+    # m "\"I have unfinished business with this one, Sheriff.\""
+    m "我跟他還有生意沒談完呢，警長。"
+
+# game/williamroute3.rpy:12735
+translate Tchinese williamroute3c_96d50bff:
+
+    # wi "\"Illegal business no doubt.\""
+    wi "肯定是違法生意。"
+
+# game/williamroute3.rpy:12737
+translate Tchinese williamroute3c_09cd34f1:
+
+    # m "\"A bit hypocritical to say that, ain’t it?\""
+    m "你這就假清高了吧？"
+
+# game/williamroute3.rpy:12739
+translate Tchinese williamroute3c_08047b24_3:
+
+    # wi "\"Yeah.\""
+    wi "是沒錯。"
+
+# game/williamroute3.rpy:12740
+translate Tchinese williamroute3c_e9ed2794:
+
+    # wi "\"The truth’s the truth, though.\""
+    wi "但我說的是事實。"
+
+# game/williamroute3.rpy:12743
+translate Tchinese williamroute3c_1acb122d:
+
+    # ka "\"Well now I’m invested in the entertainment.\""
+    ka "我現在挺有興致的。"
+
+# game/williamroute3.rpy:12745
+translate Tchinese williamroute3c_dc3e03ee:
+
+    # "He points at the otter."
+    "他指著水獺。"
+
+# game/williamroute3.rpy:12747
+translate Tchinese williamroute3c_13bceb95:
+
+    # ka "\"Two lawmen for the price of one is too good to pass up.\""
+    ka "兩位治安官一次上，不容錯過啊。"
+
+# game/williamroute3.rpy:12749
+translate Tchinese williamroute3c_ea9e1fd4:
+
+    # ka "\"Y’all come together, so to speak, or I don’t go.\""
+    ka "你們全都一起，不然我就不加入。"
+
+# game/williamroute3.rpy:12751
+translate Tchinese williamroute3c_0088ebe2:
+
+    # "There’s a knot forming in my chest."
+    "我心一沉。"
+
+# game/williamroute3.rpy:12752
+translate Tchinese williamroute3c_8d07bb0f:
+
+    # wi "\"You’re a real bastard, you know that?\""
+    wi "你知不知道自己真是個混帳？"
+
+# game/williamroute3.rpy:12754
+translate Tchinese williamroute3c_cf093611:
+
+    # ka "\"Oh you don’t know the half of it.\""
+    ka "還遠遠不止這樣呢。"
+
+# game/williamroute3.rpy:12756
+translate Tchinese williamroute3c_03ed52e7:
+
+    # "This little indulgence just turned into a logistical challenge."
+    "這小小的放縱突然就成了個大難題。"
+
+# game/williamroute3.rpy:12757
+translate Tchinese williamroute3c_000473fd:
+
+    # wi "\"Too risky.\""
+    wi "風險太大了。"
+
+# game/williamroute3.rpy:12758
+translate Tchinese williamroute3c_f78c1bdb:
+
+    # "He leans his chest against the table and rests his head against his paws."
+    "他胸口靠在桌上，用爪撐著頭。"
+
+# game/williamroute3.rpy:12760
+translate Tchinese williamroute3c_b59f57be:
+
+    # ka "\"You tellin’ me you’re scared of a little risk?\""
+    ka "你是在怕這麼一點小風險嗎？"
+
+# game/williamroute3.rpy:12762
+translate Tchinese williamroute3c_e68c750a:
+
+    # "A one-note laugh escapes my throat."
+    "我笑了一聲。"
+
+# game/williamroute3.rpy:12763
+translate Tchinese williamroute3c_186eded1:
+
+    # wi "\"Acting like a kid ain’t gonna make me agree to something {i}this stupid{/i}.\""
+    wi "光憑幼稚的舉動，不可能讓我同意{i}這麼傻{/i}的事。"
+
+# game/williamroute3.rpy:12764
+translate Tchinese williamroute3c_563182fe:
+
+    # "Sleeping together with a man is one thing, but group of us?"
+    "跟男人睡還好說，但我們一群人？"
+
+# game/williamroute3.rpy:12765
+translate Tchinese williamroute3c_f551f6c4:
+
+    # "In the open?"
+    "在大庭廣眾下？"
+
+# game/williamroute3.rpy:12766
+translate Tchinese williamroute3c_04737177:
+
+    # "I don't care what Nik says can happen there."
+    "我才不管Nik說什麼都能發生。"
+
+# game/williamroute3.rpy:12767
+translate Tchinese williamroute3c_8ab8c244:
+
+    # "That's just too plain risky."
+    "這是完完全全在玩火。"
+
+# game/williamroute3.rpy:12769
+translate Tchinese williamroute3c_fe80697d:
+
+    # ka "\"So how about actin’ like an adult?\""
+    ka "那就來點大人的方式吧？"
+
+# game/williamroute3.rpy:12771
+translate Tchinese williamroute3c_0fc3ffec:
+
+    # ka "\"Let’s get a drink or two in you and see how you feel.\""
+    ka "給你喝上一兩杯，看你到時怎麼想。"
+
+# game/williamroute3.rpy:12773
+translate Tchinese williamroute3c_7c1e2f60:
+
+    # "Sam nudges me with his elbow."
+    "Sam用手肘催我。"
+
+# game/williamroute3.rpy:12775
+translate Tchinese williamroute3c_4aa3a755:
+
+    # m "\"Come on, Sheriff.\""
+    m "來嘛，警長。"
+
+# game/williamroute3.rpy:12778
+translate Tchinese williamroute3c_1d4f9749:
+
+    # m "\"Besides, if he tries anything fishy, we outnumber him.\""
+    m "再說，就算他有什麼把戲，也是我們人多勢眾。"
+
+# game/williamroute3.rpy:12781
+translate Tchinese williamroute3c_d969ed3b:
+
+    # "Kane barks out a shout to the barkeeper."
+    "Kane朝酒保喊。"
+
+# game/williamroute3.rpy:12783
+translate Tchinese williamroute3c_39f316fe:
+
+    # ka "\"Get me a glass of spirits over here, and put it on my tab.\""
+    ka "來杯烈的，記我帳上。"
+
+# game/williamroute3.rpy:12785
+translate Tchinese williamroute3c_5c6c04e5:
+
+    # "A full, gold glass of rye smellin’ whiskey gets placed in front of me."
+    "一整杯有著麥酒香的金黃色威士忌被擺在我面前。"
+
+# game/williamroute3.rpy:12786
+translate Tchinese williamroute3c_5a9a1942:
+
+    # wi "\"Mr. Kane.\""
+    wi "Kane先生。"
+
+# game/williamroute3.rpy:12788
+translate Tchinese williamroute3c_240bf4ff:
+
+    # ka "\"Not a word until you get a glass down.\""
+    ka "先喝完一杯再說。"
+
+# game/williamroute3.rpy:12790
+translate Tchinese williamroute3c_9f24f988:
+
+    # "I open my mouth and he tilts his head,{nw}"
+    "我一張嘴，他就歪著頭，{nw}"
+
+# game/williamroute3.rpy:12792
+translate Tchinese williamroute3c_43dced2a:
+
+    # extend " eyes shining, like he’s about to laugh, fangs showing."
+    extend "兩眼放光，獠牙外露，好似正要笑出來。"
+
+# game/williamroute3.rpy:12794
+translate Tchinese williamroute3c_8cf52987:
+
+    # "So I down the whole damn glass."
+    "所以我整杯乾了。"
+
+# game/williamroute3.rpy:12795
+translate Tchinese williamroute3c_20f47bd6:
+
+    # "It burns as it goes down but I keep on gulping."
+    "酒精灼燒著喉嚨，但我不斷吞飲。"
+
+# game/williamroute3.rpy:12797
+translate Tchinese williamroute3c_ad7ef1a7:
+
+    # ka "\"There we go.\""
+    ka "好樣的。"
+
+# game/williamroute3.rpy:12799
+translate Tchinese williamroute3c_a517be49:
+
+    # ka "\"Goes down smooth, don’t it?\""
+    ka "很柔順對吧？"
+
+# game/williamroute3.rpy:12801
+translate Tchinese williamroute3c_650c5e59:
+
+    # "For a moment I hear the familiar voice of a young german shepherd, not a wolf."
+    "有一瞬間，我聽見的是那年輕德國牧羊犬的耳熟聲音，而不是狼的。"
+
+# game/williamroute3.rpy:12802
+translate Tchinese williamroute3c_85ef9feb:
+
+    # "I check my watch."
+    "我看了看錶。"
+
+# game/williamroute3.rpy:12803
+translate Tchinese williamroute3c_7bb1b963:
+
+    # "It’s eight fifty-five here, so it’s ten fifty-five, there."
+    "這裡是八點五十五，所以那裡是十點五十五。"
+
+# game/williamroute3.rpy:12805
+translate Tchinese williamroute3c_8f6b9c51:
+
+    # ka "\"So what will it be, sheriff?\""
+    ka "妳怎麼說，警長？"
+
+# game/williamroute3.rpy:12807
+translate Tchinese williamroute3c_f430de22:
+
+    # ka "\"Want to do something different for a change?\""
+    ka "想幹點不同的事了嗎？"
+
+# game/williamroute3.rpy:12809
+translate Tchinese williamroute3c_2e39c3cc:
+
+    # "I know this is a mistake."
+    "我知道這是個錯誤。"
+
+# game/williamroute3.rpy:12810
+translate Tchinese williamroute3c_7b8530a6:
+
+    # "But I also know I still want to make it."
+    "但我還是想明知故犯。"
+
+# game/williamroute3.rpy:12811
+translate Tchinese williamroute3c_379e0b8f:
+
+    # "There’s something important here."
+    "這很重要。"
+
+# game/williamroute3.rpy:12818
+translate Tchinese willkanechoice_728c259c:
+
+    # wi "\"Get me another drink.\""
+    wi "再給我來一杯。"
+
+# game/williamroute3.rpy:12820
+translate Tchinese willkanechoice_2e20032e:
+
+    # ka "\"You sure you can stomach it?\""
+    ka "你撐得住嗎？"
+
+# game/williamroute3.rpy:12822
+translate Tchinese willkanechoice_514aee95:
+
+    # wi "\"It takes a lot for me to feel it.\""
+    wi "我要喝很多才有用。"
+
+# game/williamroute3.rpy:12823
+translate Tchinese willkanechoice_ce94490f:
+
+    # wi "\"I want to get plastered.\""
+    wi "我想喝個爛醉。"
+
+# game/williamroute3.rpy:12825
+translate Tchinese willkanechoice_a8796189:
+
+    # ka "\"You heard the man, barkeep.\""
+    ka "你也聽見了，酒保。"
+
+# game/williamroute3.rpy:12827
+translate Tchinese willkanechoice_17a67c4a:
+
+    # ka "\"Let’s wet his whistle.\""
+    ka "給他滿上。"
+
+# game/williamroute3.rpy:12829
+translate Tchinese willkanechoice_84daee84:
+
+    # "The golden liquid fills my cup again."
+    "金黃的液體又裝滿了我的杯子。"
+
+# game/williamroute3.rpy:12830
+translate Tchinese willkanechoice_0bdf845c:
+
+    # "I down this one too."
+    "我再度一飲而盡。"
+
+# game/williamroute3.rpy:12832
+translate Tchinese willkanechoice_51c7c96e:
+
+    # "Then I get out of my seat."
+    "然後離開座位。"
+
+# game/williamroute3.rpy:12833
+translate Tchinese willkanechoice_dd50bafe:
+
+    # wi "\"Let’s go.\""
+    wi "走吧。"
+
+# game/williamroute3.rpy:12835
+translate Tchinese willkanechoice_2fb7e681:
+
+    # ka "\"I’m surprised you can stand.\""
+    ka "真意外你還站得起來。"
+
+# game/williamroute3.rpy:12838
+translate Tchinese willkanechoice_ee892291:
+
+    # m "\"I’m not.\""
+    m "我倒不意外。"
+
+# game/williamroute3.rpy:12841
+translate Tchinese willkanechoice_5fca4296:
+
+    # m "\"Ain’t surprising considerin’ the amount he can put away.\""
+    m "他很能喝的。"
+
+# game/williamroute3.rpy:12843
+translate Tchinese willkanechoice_68ff3705:
+
+    # wi "\"Let’s just do this before I change my mind.\""
+    wi "在我改變心意前快搞吧。"
+
+# game/williamroute3.rpy:12845
+translate Tchinese willkanechoice_cd8582c8:
+
+    # "Sam juts out his chin."
+    "Sam伸出下巴示意。"
+
+# game/williamroute3.rpy:12848
+translate Tchinese willkanechoice_8b8b8719:
+
+    # m "\"I’m letting Nik know.\""
+    m "我去跟Nik說一聲。"
+
+# game/williamroute3.rpy:12850
+translate Tchinese willkanechoice_006e80b7:
+
+    # wi "\"Let’s not make this a crowd, Sam.\""
+    wi "別太多人了，Sam。"
+
+# game/williamroute3.rpy:12852
+translate Tchinese willkanechoice_b920d307:
+
+    # "He scratches the back of his head, pausing."
+    "他搔搔後腦勺，頓了一下。"
+
+# game/williamroute3.rpy:12854
+translate Tchinese willkanechoice_2203bc40:
+
+    # m "\"I just meant it might be a good idea to let him know where we’re going?\""
+    m "我只是想說，讓他知道我們要去哪比較好吧？"
+
+# game/williamroute3.rpy:12856
+translate Tchinese willkanechoice_679d7d86:
+
+    # wi "\"You know he’d want to come.\""
+    wi "你也知道他會想來的。"
+
+# game/williamroute3.rpy:12858
+translate Tchinese willkanechoice_48da73bb:
+
+    # "He pauses, and then nods."
+    "他頓了一下，然後點頭。"
+
+# game/williamroute3.rpy:12860
+translate Tchinese willkanechoice_fc1ec6fa:
+
+    # m "\"Mr. Byrnes, then?\""
+    m "那就Byrnes先生？"
+
+# game/williamroute3.rpy:12862
+translate Tchinese willkanechoice_6a20a80d:
+
+    # "I shake my head."
+    "我搖頭。"
+
+# game/williamroute3.rpy:12863
+translate Tchinese willkanechoice_ce287b44:
+
+    # wi "\"Too reckless.\""
+    wi "他太輕率。"
+
+# game/williamroute3.rpy:12864
+translate Tchinese willkanechoice_be0f3798:
+
+    # wi "\"I’m not risking any pictures.\""
+    wi "我可不想被拍到。"
+
+# game/williamroute3.rpy:12867
+translate Tchinese willkanechoice_e3b97abb:
+
+    # to "\"How about we tell that Mr. Tibbits fellah?\""
+    to "Tibbits先生如何？"
+
+# game/williamroute3.rpy:12870
+translate Tchinese willkanechoice_fa808ea0:
+
+    # "Me and Sam both say {i}no{/i} at the same time."
+    "我跟Sam異口同聲說了{i}不行{/i}。"
+
+# game/williamroute3.rpy:12872
+translate Tchinese willkanechoice_cd886a82:
+
+    # "It leaves Todd looking a little shellshocked."
+    "害Todd一臉震驚。"
+
+# game/williamroute3.rpy:12874
+translate Tchinese willkanechoice_73132e79:
+
+    # ka "\"Don’t keep me waiting, fellahs.\""
+    ka "別再讓我等啦，各位。"
+
+# game/williamroute3.rpy:12877
+translate Tchinese willkanechoice_0a545685:
+
+    # ka "\"Third barn out back.\""
+    ka "後面第三棟農倉。"
+
+# game/williamroute3.rpy:12882
+translate Tchinese willkanechoice_969b6884:
+
+    # "It’s dark outside, but still warm."
+    "外頭天色暗了，但還是很溫熱。"
+
+# game/williamroute3.rpy:12883
+translate Tchinese willkanechoice_6fe5cdc4:
+
+    # "I figure that these places are vacant when the Stag closes late at night, but I can still see lanterns, and bodies moving, making shadows when they pass by the wooden slats."
+    "這些地方在深夜Stag打烊的時候應該都會是空的，但我看到有燈光和人的輪廓在動，剪影在木板間來往。"
+
+# game/williamroute3.rpy:12884
+translate Tchinese willkanechoice_eb219d33:
+
+    # "One of the barns doesn’t have any lights on at all, but I can still see a good number of bodies shuffling around in the dark."
+    "有間農倉完全沒燈光，但還是能看見不少身影在暗中動來動去。"
+
+# game/williamroute3.rpy:12885
+translate Tchinese willkanechoice_729b5f92:
+
+    # "The noises and the bleachy smells are unmistakable."
+    "那種聲音和漂白劑般的氣味肯定不會錯的。"
+
+# game/williamroute3.rpy:12888
+translate Tchinese willkanechoice_a10d91ae:
+
+    # ka "\"Why the sour look, sheriff?\""
+    ka "怎麼一臉不悅呢，警長？"
+
+# game/williamroute3.rpy:12891
+translate Tchinese willkanechoice_67a3cb77:
+
+    # ka "\"You too good to mingle with the masses?\""
+    ka "不屑跟其他人混一起嗎？"
+
+# game/williamroute3.rpy:12893
+translate Tchinese willkanechoice_f1892c24:
+
+    # "He gives me a nasty grin."
+    "他惡劣地咧嘴一笑。"
+
+# game/williamroute3.rpy:12894
+translate Tchinese willkanechoice_f739da41:
+
+    # ka "\"Not everybody’s pretty, you know.\""
+    ka "不是所有人都那麼高貴嘛。"
+
+# game/williamroute3.rpy:12896
+translate Tchinese willkanechoice_7dd099f3:
+
+    # "They could honestly be doing God knows what in there and nobody would know until sunlight."
+    "天知道他們在裡面幹嘛，等日出才會揭曉。"
+
+# game/williamroute3.rpy:12897
+translate Tchinese willkanechoice_12e6a839:
+
+    # wi "\"Sounds like they're getting their groins into anything they can in there.\""
+    wi "聽起來他們在裡面好像有縫就插。"
+
+# game/williamroute3.rpy:12899
+translate Tchinese willkanechoice_4a31e5ac:
+
+    # ka "\"Probably.\""
+    ka "大概吧。"
+
+# game/williamroute3.rpy:12901
+translate Tchinese willkanechoice_47993de1:
+
+    # "He puts on a tone of mock concern."
+    "他口氣故作擔憂。"
+
+# game/williamroute3.rpy:12903
+translate Tchinese willkanechoice_ba13d153:
+
+    # ka "\"You gonna go arrest them for the indecency of it all?\""
+    ka "你要為妨害風化逮捕他們嗎？"
+
+# game/williamroute3.rpy:12905
+translate Tchinese willkanechoice_846e867d:
+
+    # wi "\"No.\""
+    wi "沒。"
+
+# game/williamroute3.rpy:12907
+translate Tchinese willkanechoice_ff7383ce:
+
+    # ka "\"Didn’t think so.\""
+    ka "我想也是。"
+
+# game/williamroute3.rpy:12910
+translate Tchinese willkanechoice_a1c810c5:
+
+    # "The barn he leads us to has a loft, and a lot of hay."
+    "他帶我們進的農倉有閣樓和很多乾草。"
+
+# game/williamroute3.rpy:12911
+translate Tchinese willkanechoice_adfed910:
+
+    # "There’s figures moving in the corners, but the lights are out."
+    "角落有人影在動，但沒點燈。"
+
+# game/williamroute3.rpy:12912
+translate Tchinese willkanechoice_8e762813:
+
+    # "He puts a finger to his face and then points to a ladder."
+    "他伸出一根手指湊到臉旁，接著指向梯子。"
+
+# game/williamroute3.rpy:12916
+translate Tchinese willkanechoice_c7d61153:
+
+    # "Then he starts climbing."
+    "然後爬上去。"
+
+# game/williamroute3.rpy:12917
+translate Tchinese willkanechoice_0d56baf7:
+
+    # "We follow."
+    "我們也跟上。"
+
+# game/williamroute3.rpy:12919
+translate Tchinese willkanechoice_0e4f408a:
+
+    # "Climbing underneath him, I can smell him getting more excited."
+    "爬在他身下時，我聞得出他越來越興奮。"
+
+# game/williamroute3.rpy:12920
+translate Tchinese willkanechoice_7b4c459b:
+
+    # "I try not to let it affect me too much."
+    "我努力避免被他影響。"
+
+# game/williamroute3.rpy:12921
+translate Tchinese willkanechoice_6de790d8:
+
+    # "Yet."
+    "目前。"
+
+# game/williamroute3.rpy:12925
+translate Tchinese willkanechoice_bffecec1:
+
+    # "Once we’re all at the top of the loft, Kane takes out a lighter and makes one of the lanterns glow."
+    "我們全上到閣樓後，Kane拿出一把打火機，點亮一盞燈。"
+
+# game/williamroute3.rpy:12928
+translate Tchinese willkanechoice_4c517a7b:
+
+    # ka "\"Very good everybody.\""
+    ka "很好，各位。"
+
+# game/williamroute3.rpy:12931
+translate Tchinese willkanechoice_567eaa81:
+
+    # "He brushes the hay off his knees, and his head pans left to right."
+    "他拍掉膝上的乾草，從左望向右。"
+
+# game/williamroute3.rpy:12933
+translate Tchinese willkanechoice_045a7ecd:
+
+    # ka "\"To get this rodeo started...\""
+    ka "作為起頭……"
+
+# game/williamroute3.rpy:12935
+translate Tchinese willkanechoice_2c5cd519:
+
+    # ka "\"...why don’t we have the sheriff get on his knees.\""
+    ka "……就先請警長雙膝跪地吧。"
+
+# game/williamroute3.rpy:12937
+translate Tchinese willkanechoice_99f545cc:
+
+    # "I figured he was gonna try to pull this."
+    "我就知道他會來這一齣。"
+
+# game/williamroute3.rpy:12938
+translate Tchinese willkanechoice_0ff0ee15:
+
+    # wi "\"I don’t get on my knees.\""
+    wi "我不會跪的。"
+
+# game/williamroute3.rpy:12939
+translate Tchinese willkanechoice_89903f97:
+
+    # "The wolf sucks his teeth."
+    "狼發出吸牙聲。"
+
+# game/williamroute3.rpy:12941
+translate Tchinese willkanechoice_9d10d3f2:
+
+    # ka "\"You do tonight.\""
+    ka "今晚你就會。"
+
+# game/williamroute3.rpy:12945
+translate Tchinese willkanechoice_ebe01d28:
+
+    # to "\"Why does he need to get on his knees?\""
+    to "為什麼要他跪下？"
+
+# game/williamroute3.rpy:12947
+translate Tchinese willkanechoice_058fc8a0:
+
+    # ka "\"Why else?\""
+    ka "還能為什麼？"
+
+# game/williamroute3.rpy:12949
+translate Tchinese willkanechoice_304c758e:
+
+    # ka "\"Because he’s going to suck me off, and get my seed all over his sharp nose.\""
+    ka "當然是要把我吹出來，讓我的種灑滿他堅挺的鼻頭囉。"
+
+# game/williamroute3.rpy:12952
+translate Tchinese willkanechoice_7d1bf092:
+
+    # "We hear more movements in the corner."
+    "角落裡的動靜傳來。"
+
+# game/williamroute3.rpy:12953
+translate Tchinese willkanechoice_5957f104:
+
+    # "It sounda like somebody else is finishing."
+    "好像有其他人完事了。"
+
+# game/williamroute3.rpy:12955
+translate Tchinese willkanechoice_a6363d51:
+
+    # to "\"Well...\""
+    to "那……"
+
+# game/williamroute3.rpy:12956
+translate Tchinese willkanechoice_7252b4c7:
+
+    # to "\"I could always do it instead?\""
+    to "不然我來吧？"
+
+# game/williamroute3.rpy:12957
+translate Tchinese willkanechoice_8ecf17ba:
+
+    # "The wolf starts laughing."
+    "狼笑了起來。"
+
+# game/williamroute3.rpy:12959
+translate Tchinese willkanechoice_30acdc99:
+
+    # ka "\"Now there’s a public servant who understands the meaning of service.\""
+    ka "這才是懂得服務人民的公僕嘛。"
+
+# game/williamroute3.rpy:12962
+translate Tchinese willkanechoice_6d9e9cda:
+
+    # "He walks toward Todd and musses the fur on his head a bit."
+    "他走向Todd，來回翻弄他頭上的毛髮。"
+
+# game/williamroute3.rpy:12964
+translate Tchinese willkanechoice_034c7fb3:
+
+    # ka "\"But he’s not gonna cut it doin' it all by himself, Adler.\""
+    ka "但他可填不了你的位子，Adler。"
+
+# game/williamroute3.rpy:12966
+translate Tchinese willkanechoice_9007a654:
+
+    # ka "\"It’s gotta be you.\""
+    ka "必須是你。"
+
+# game/williamroute3.rpy:12968
+translate Tchinese willkanechoice_3ebc7ff9:
+
+    # wi "\"Nothing’s ever {i}gotta{/i} be me.\""
+    wi "沒什麼{i}必須{/i}是我的。"
+
+# game/williamroute3.rpy:12970
+translate Tchinese willkanechoice_2edec706:
+
+    # "The wolf shakes his head."
+    "狼搖搖頭。"
+
+# game/williamroute3.rpy:12974
+translate Tchinese willkanechoice_2720c4a6:
+
+    # "Sam rolls his eyes."
+    "Sam則翻了個白眼。"
+
+# game/williamroute3.rpy:12978
+translate Tchinese willkanechoice_600d5a1c:
+
+    # m "\"Now come on, Will.\""
+    m "拜託喔，Will。"
+
+# game/williamroute3.rpy:12982
+translate Tchinese willkanechoice_f450fa70:
+
+    # m "\"Just how many times have I done it for you?\""
+    m "我都為你做幾次了？"
+
+# game/williamroute3.rpy:12984
+translate Tchinese willkanechoice_100be09e:
+
+    # "I just noticed Sam’s shirt is gone."
+    "我才發現Sam上衣已經沒了。"
+
+# game/williamroute3.rpy:12987
+translate Tchinese willkanechoice_0b639483:
+
+    # "He’s stripping his pants off too."
+    "也正在脫褲子。"
+
+# game/williamroute3.rpy:12989
+translate Tchinese willkanechoice_49ee6c0d:
+
+    # "God he looks good."
+    "天啊，他真好看。"
+
+# game/williamroute3.rpy:12991
+translate Tchinese willkanechoice_e699d93a:
+
+    # wi "\"Because before today, you never asked why I wouldn’t.\""
+    wi "因為你以前從來沒問過我為什麼不幹啊。"
+
+# game/williamroute3.rpy:12993
+translate Tchinese willkanechoice_fb6b6df1:
+
+    # m "\"Cause before today, you’d just say you’re not a cock sucker.\""
+    m "因為你以前一直都只會說你不是個吸屌的啊。"
+
+# game/williamroute3.rpy:12995
+translate Tchinese willkanechoice_3ddf812b:
+
+    # "I chuckle."
+    "我笑了出來。"
+
+# game/williamroute3.rpy:12996
+translate Tchinese willkanechoice_bd4aee62:
+
+    # wi "\"Guess you know me well enough.\""
+    wi "那你很懂我嘛。"
+
+# game/williamroute3.rpy:12998
+translate Tchinese willkanechoice_f8302f35:
+
+    # ka "\"Now now.\""
+    ka "好了好了。"
+
+# game/williamroute3.rpy:13000
+translate Tchinese willkanechoice_a7c04dc4:
+
+    # ka "\"I hold the belief that anybody can learn.\""
+    ka "我相信所有人都能學習新知。"
+
+# game/williamroute3.rpy:13002
+translate Tchinese willkanechoice_bf860ea4:
+
+    # "I’m starting to get the urge to put this cocky sunovabitch in his place."
+    "我現在真想把這狗娘養的囂張混蛋給辦了。"
+
+# game/williamroute3.rpy:13004
+translate Tchinese willkanechoice_1ca245fd:
+
+    # "But then I feel something enter my mouth."
+    "但我感到有什麼入侵了我的嘴。"
+
+# game/williamroute3.rpy:13005
+translate Tchinese willkanechoice_f756b352:
+
+    # "It’s warm and wet and flexible."
+    "又溫熱又濕又靈活。"
+
+# game/williamroute3.rpy:13006
+translate Tchinese willkanechoice_246f5629:
+
+    # "It’s Kane's tongue."
+    "是Kane的舌頭。"
+
+# game/williamroute3.rpy:13007
+translate Tchinese willkanechoice_966dedeb:
+
+    # "He’s kissing me."
+    "他在吻我。"
+
+# game/williamroute3.rpy:13008
+translate Tchinese willkanechoice_fcb10fc2:
+
+    # "He's testing my mouth with powerful scoops and delicate flicks."
+    "強舔與輕彈並用，品味著我的嘴。"
+
+# game/williamroute3.rpy:13009
+translate Tchinese willkanechoice_24ada50c:
+
+    # "And he’s damn good."
+    "舌技真他媽好。"
+
+# game/williamroute3.rpy:13010
+translate Tchinese willkanechoice_7bc4d8da:
+
+    # "Despite all the alcohol I drank, I feel myself swelling."
+    "我喝了那麼多酒，卻還硬起來了。"
+
+# game/williamroute3.rpy:13012
+translate Tchinese willkanechoice_0e8f2285:
+
+    # ka "\"If you like to kiss that much, then I know you like to suck.\""
+    ka "你這麼喜歡接吻，一定也很喜歡吸。"
+
+# game/williamroute3.rpy:13014
+translate Tchinese willkanechoice_ca8637db:
+
+    # "He pats my check with his palm."
+    "他用掌拍拍我的臉頰。"
+
+# game/williamroute3.rpy:13016
+translate Tchinese willkanechoice_31fbf34a:
+
+    # ka "\"Now on your knees, or else we’re in for a very awkward and uneventful night, because I’m not gonna...\""
+    ka "跪下吧，否則今晚可就尷尬掃興了，我可是不會……"
+
+# game/williamroute3.rpy:13019
+translate Tchinese willkanechoice_e113f759:
+
+    # "He puts his paws on my shoulders and guides me lower."
+    "他雙爪搭上我肩膀，將我按往下方。"
+
+# game/williamroute3.rpy:13021
+translate Tchinese willkanechoice_8341e61a:
+
+    # ka "\"Budge.\""
+    ka "退讓的。"
+
+# game/williamroute3.rpy:13022
+translate Tchinese willkanechoice_92f5eb74:
+
+    # "I mean to stand again, to stand my ground still, but I’m just plain dizzy."
+    "我想再次站直身子，但頭暈目眩。"
+
+# game/williamroute3.rpy:13023
+translate Tchinese willkanechoice_ca77cfe1:
+
+    # "The alcohol’s finally kicking in."
+    "酒精終於起效果了。"
+
+# game/williamroute3.rpy:13024
+translate Tchinese willkanechoice_0e1341f7:
+
+    # "Just what the hell am I doing down here if not to do exactly what he's expecting?"
+    "我人都到這了，不遵照他的期望還能幹嘛？"
+
+# game/williamroute3.rpy:13028
+translate Tchinese willkanechoice_561d0710:
+
+    # to "\"Sucking it is supposed to feel really good, right?\""
+    to "吸著那東西是不是很舒服？"
+
+# game/williamroute3.rpy:13029
+translate Tchinese willkanechoice_422b9a8d:
+
+    # "I feel a little bit like I’m in a fever dream, watching Todd lean in to Sam’s crotch."
+    "我看著Todd湊近Sam的下體，感覺有點如癡如夢。"
+
+# game/williamroute3.rpy:13030
+translate Tchinese willkanechoice_f99e249c:
+
+    # m "\"Better than good.\""
+    m "比舒服還棒。"
+
+# game/williamroute3.rpy:13031
+translate Tchinese willkanechoice_c1fe9e36:
+
+    # ka "\"Especially once you get used to the taste.\""
+    ka "尤其是習慣味道之後。"
+
+# game/williamroute3.rpy:13032
+translate Tchinese willkanechoice_a63eda6d:
+
+    # m "\"You might even come to crave it.\""
+    m "搞不好還會想要得不得了呢。"
+
+# game/williamroute3.rpy:13033
+translate Tchinese willkanechoice_0ea619f4:
+
+    # "Todd’s just staring at Sam's pecker for a good while."
+    "Todd好一陣子只是盯著Sam的那話兒。"
+
+# game/williamroute3.rpy:13034
+translate Tchinese willkanechoice_4dbc96cc:
+
+    # "I almost think he’s going to stand up and leave for a moment."
+    "我都以為他要站起來走人了。"
+
+# game/williamroute3.rpy:13035
+translate Tchinese willkanechoice_5d8b620d:
+
+    # "God knows that’s the smarter choice."
+    "誰都知道那才是明智的選擇。"
+
+# game/williamroute3.rpy:13036
+translate Tchinese willkanechoice_7943474d:
+
+    # "Because I know that the both of us would be run out of town if the wrong people saw us in this position."
+    "要是我們被有心人士逮個正著，兩人都會被趕出這個小鎮。"
+
+# game/williamroute3.rpy:13037
+translate Tchinese willkanechoice_4fd1ddae:
+
+    # wi "\"Todd...\""
+    wi "Todd……"
+
+# game/williamroute3.rpy:13041
+translate Tchinese willkanechoice_20f4bc11:
+
+    # "But right as I say his name he leans in to lick."
+    "我才剛叫出他的名字，他就舔了上去。"
+
+# game/williamroute3.rpy:13042
+translate Tchinese willkanechoice_301e7901:
+
+    # "He makes a whiny little squeak, and Sam pulls back just far enough to see the shine of spit on his cock."
+    "他發出了一小聲哀號，Sam則退開到剛好能看見他屌上泛著光的口水。"
+
+# game/williamroute3.rpy:13043
+translate Tchinese willkanechoice_ca32efa4:
+
+    # "I see the shine of slime on his lips."
+    "他嘴唇上也泛著黏液的光澤。"
+
+# game/williamroute3.rpy:13044
+translate Tchinese willkanechoice_a38d9f92:
+
+    # m "\"Not too bad for a Mormon boy, huh?\""
+    m "對一位摩門男孩來說還不賴吧？"
+
+# game/williamroute3.rpy:13045
+translate Tchinese willkanechoice_35f473a6:
+
+    # "Sam's pre starts to drip in front of Tood."
+    "Sam的淫水滴在Todd眼前。"
+
+# game/williamroute3.rpy:13046
+translate Tchinese willkanechoice_245e2d31:
+
+    # "And then he dips in to lick again, cleaning it off of Sam."
+    "他又湊上去把Sam舔乾淨。"
+
+# game/williamroute3.rpy:13047
+translate Tchinese willkanechoice_b5b0f970:
+
+    # "That squeaky whine is just a bit louder now."
+    "那哀號聲變大了點。"
+
+# game/williamroute3.rpy:13051
+translate Tchinese willkanechoice_f2c1953a:
+
+    # ka "\"Gonna let your deputy show you that he has the bigger pair of balls?\""
+    ka "看來你副手卵蛋比你大啊？"
+
+# game/williamroute3.rpy:13052
+translate Tchinese willkanechoice_bfa9818c:
+
+    # "Kane walks toward me."
+    "Kane走向我。"
+
+# game/williamroute3.rpy:13053
+translate Tchinese willkanechoice_0a3ce06f:
+
+    # "Cock out."
+    "雞巴外露。"
+
+# game/williamroute3.rpy:13054
+translate Tchinese willkanechoice_44f90d5a:
+
+    # "His smell’s much stronger now that he’s out of his pants."
+    "拿出褲子後，味道更濃烈了。"
+
+# game/williamroute3.rpy:13055
+translate Tchinese willkanechoice_a63bbad6:
+
+    # "And he’s already half stiff."
+    "他已經有點硬了。"
+
+# game/williamroute3.rpy:13056
+translate Tchinese willkanechoice_9ca86045:
+
+    # ka "\"Showtime.\""
+    ka "開始表演吧。"
+
+# game/williamroute3.rpy:13060
+translate Tchinese willkanechoice_ccedbf73:
+
+    # "I remember the last time I sucked."
+    "我還記得我上次吹屌的時候。"
+
+# game/williamroute3.rpy:13061
+translate Tchinese willkanechoice_2783ee01:
+
+    # "I can smell the wet dirt, the grass and the young sweat."
+    "聞得到濕土、青草和年輕的汗味。"
+
+# game/williamroute3.rpy:13062
+translate Tchinese willkanechoice_b67eea59:
+
+    # wl "\"William.\""
+    wl "William。"
+
+# game/williamroute3.rpy:13063
+translate Tchinese willkanechoice_a5a4fd1e:
+
+    # "I know from how hard he’s hitting the back of my throat that he’s eager."
+    "他硬得頂到我喉嚨深處，讓我知道他有多想要。"
+
+# game/williamroute3.rpy:13064
+translate Tchinese willkanechoice_659c946c:
+
+    # wl "\"{i}Ohh, William.{/i}\""
+    wl "{i}噢噢，William。{/i}"
+
+# game/williamroute3.rpy:13065
+translate Tchinese willkanechoice_12991598:
+
+    # "And I can taste him finish."
+    "能嚐到他射出來的味道。"
+
+# game/williamroute3.rpy:13066
+translate Tchinese willkanechoice_3c03294c:
+
+    # wl "\"{i}Ahhh!...Ahhh!{/i}\""
+    wl "{i}呃啊！……呃啊啊！{/i}"
+
+# game/williamroute3.rpy:13068
+translate Tchinese willkanechoice_e2bd34ef:
+
+    # "But the door’s slamming open."
+    "但門被猛地打開。"
+
+# game/williamroute3.rpy:13070
+translate Tchinese willkanechoice_6ca27f6c:
+
+    # wf "\"{i}WILLIAM!{/i}\""
+    wf "{i}WILLIAM！{/i}"
+
+# game/williamroute3.rpy:13071
+translate Tchinese willkanechoice_01016004:
+
+    # wf "\"{i}YOU GODDAMN COCK SUCKER!{/i}\""
+    wf "{i}你這操蛋的吸屌玩意！{/i}"
+
+# game/williamroute3.rpy:13078
+translate Tchinese willkanechoice_9199ef7a:
+
+    # "Then I can smell the hay and the desert air again."
+    "我又聞到乾草跟沙漠的空氣。"
+
+# game/williamroute3.rpy:13079
+translate Tchinese willkanechoice_04db67a0:
+
+    # "And wolf."
+    "還有狼。"
+
+# game/williamroute3.rpy:13080
+translate Tchinese willkanechoice_ebcdf058:
+
+    # "Eager, impatient wolf."
+    "欲求不滿、不耐煩的狼。"
+
+# game/williamroute3.rpy:13081
+translate Tchinese willkanechoice_459d3bd6:
+
+    # ka "\"C’mon.\""
+    ka "快點。"
+
+# game/williamroute3.rpy:13082
+translate Tchinese willkanechoice_756bff9c:
+
+    # "He bounces his prick with his muscles in front of me."
+    "他在我眼前甩動老二跟肌肉。"
+
+# game/williamroute3.rpy:13083
+translate Tchinese willkanechoice_1a46e070:
+
+    # m "\"He’s had more than two shots.\""
+    m "他喝了不只兩杯。"
+
+# game/williamroute3.rpy:13084
+translate Tchinese willkanechoice_be82d533:
+
+    # m "\"Give him some patience.\""
+    m "有點耐心吧。"
+
+# game/williamroute3.rpy:13085
+translate Tchinese willkanechoice_b389e516:
+
+    # m "\"We’re not exactly in a hurry over here\""
+    m "反正也不趕時間。"
+
+# game/williamroute3.rpy:13086
+translate Tchinese willkanechoice_d9370f9d:
+
+    # "Todd just mumbles and sputters with the occasional squeak, considering his mouth keeps full."
+    "Todd嘴巴都被塞滿，只發得出咕噥、濺水聲和不時的吱喳聲。"
+
+# game/williamroute3.rpy:13087
+translate Tchinese willkanechoice_8f036860:
+
+    # "Samuel gasps when the otter starts to bob, and he thrusts in sync with the soft suckles."
+    "Todd開始前後擺動，讓Sam倒抽一口氣，配合吸吮聲動起腰來。"
+
+# game/williamroute3.rpy:13088
+translate Tchinese willkanechoice_1b4eea64:
+
+    # "Kane sighs, bringing his prick closer."
+    "Kane嘆了口氣，把屌湊近。"
+
+# game/williamroute3.rpy:13089
+translate Tchinese willkanechoice_559589ff:
+
+    # ka "\"You just gonna stare at me with those puppy dog eyes, or are you going to get to work already?\""
+    ka "你是只打算用那雙小狗狗的眼神盯著我，還是要做點正事了？"
+
+# game/williamroute3.rpy:13095
+translate Tchinese willkanechoice_718c2384:
+
+    # "Fine then."
+    "行吧。"
+
+# game/williamroute3.rpy:13096
+translate Tchinese willkanechoice_ddfe2de3:
+
+    # "I lean forward a bit, parting my lips."
+    "我往前傾，張開嘴唇。"
+
+# game/williamroute3.rpy:13097
+translate Tchinese willkanechoice_1788d8b7:
+
+    # "I know this time isn’t going to be like the last."
+    "我知道這次不會再像上次一樣。"
+
+# game/williamroute3.rpy:13098
+translate Tchinese willkanechoice_6969cc42:
+
+    # "It’s been years."
+    "都多少年了。"
+
+# game/williamroute3.rpy:13099
+translate Tchinese willkanechoice_668ba32e:
+
+    # "And Sam is here with me."
+    "還有Sam陪著。"
+
+# game/williamroute3.rpy:13100
+translate Tchinese willkanechoice_2bdc43e0:
+
+    # "So I sniff."
+    "所以我先嗅了嗅。"
+
+# game/williamroute3.rpy:13101
+translate Tchinese willkanechoice_d380fd7d:
+
+    # "That masculine stink is driving me up the walls."
+    "雄性的臭味激起我的慾望。"
+
+# game/williamroute3.rpy:13102
+translate Tchinese willkanechoice_52867b30:
+
+    # ka "\"That’s it.\""
+    ka "就是這樣。"
+
+# game/williamroute3.rpy:13103
+translate Tchinese willkanechoice_acaff96a:
+
+    # "It’s like my whole body is coming awake."
+    "彷彿全身都醒了過來。"
+
+# game/williamroute3.rpy:13104
+translate Tchinese willkanechoice_aa30a2fa:
+
+    # "And this smug bastard knows it."
+    "這囂張的混蛋也知道。"
+
+# game/williamroute3.rpy:13106
+translate Tchinese willkanechoice_afebb0d5:
+
+    # "I feel his hand tug my ear as he pulls me closer."
+    "他一手拽著我的耳朵將我拉近。"
+
+# game/williamroute3.rpy:13107
+translate Tchinese willkanechoice_5daab255:
+
+    # "My tongue is lolling."
+    "我舌頭伸得老長。"
+
+# game/williamroute3.rpy:13108
+translate Tchinese willkanechoice_7081167e:
+
+    # "I want to lick it."
+    "好想舔。"
+
+# game/williamroute3.rpy:13109
+translate Tchinese willkanechoice_1b4c1300:
+
+    # "Carefully."
+    "小心仔細地舔。"
+
+# game/williamroute3.rpy:13110
+translate Tchinese willkanechoice_2e451a01:
+
+    # "And I know that he knows it."
+    "他應該也明白。"
+
+# game/williamroute3.rpy:13111
+translate Tchinese willkanechoice_90e8af24:
+
+    # "Just to make sure that it’s not too thick."
+    "來確保不會太粗。"
+
+# game/williamroute3.rpy:13113
+translate Tchinese willkanechoice_2744fc84:
+
+    # wi "\"Mmph!\""
+    wi "嗯唔！"
+
+# game/williamroute3.rpy:13114
+translate Tchinese willkanechoice_9b18c9fc:
+
+    # ka "\"What is this, a dinner party?\""
+    ka "這難道是什麼晚餐會不成？"
+
+# game/williamroute3.rpy:13115
+translate Tchinese willkanechoice_8924ea69:
+
+    # wi "\"Mngh...\""
+    wi "嗚嗯……"
+
+# game/williamroute3.rpy:13118
+translate Tchinese willkanechoice_d28643b5:
+
+    # "The wolf lets me off to breathe."
+    "狼放手讓我喘氣。"
+
+# game/williamroute3.rpy:13119
+translate Tchinese willkanechoice_f1223505:
+
+    # "I gasp for air, and my mouth feels slimy and salty already."
+    "我大口吸氣，嘴裡早已黏滑鹹腥。"
+
+# game/williamroute3.rpy:13120
+translate Tchinese willkanechoice_ef62ae1d:
+
+    # "I can hear Sam laughing."
+    "Sam在大笑。"
+
+# game/williamroute3.rpy:13121
+translate Tchinese willkanechoice_c52177d8:
+
+    # m "\"You’re here to suck some stiff cock Will, not go romancing it.\""
+    m "別這麼細心呵護了，你就是來吸硬雞巴的吧，Will。"
+
+# game/williamroute3.rpy:13122
+translate Tchinese willkanechoice_516c4cab:
+
+    # "Todd doesn’t give any input, but considering the sounds he’s making, he can’t."
+    "Todd沒評論，但他發出的聲響代表他說不了話。"
+
+# game/williamroute3.rpy:13124
+translate Tchinese willkanechoice_f0b0f634:
+
+    # ka "\"Decent first attempt.\""
+    ka "第一下還行吧。"
+
+# game/williamroute3.rpy:13125
+translate Tchinese willkanechoice_3eb3402e:
+
+    # ka "\"You have one of these, Sheriff.\""
+    ka "你自己也有的，警長。"
+
+# game/williamroute3.rpy:13126
+translate Tchinese willkanechoice_a9cdeac6:
+
+    # ka "\"You know what feels good.\""
+    ka "知道怎麼樣才爽吧。"
+
+# game/williamroute3.rpy:13128
+translate Tchinese willkanechoice_1a7866de:
+
+    # ka "\"Balls to the base.\""
+    ka "從蛋到根部。"
+
+# game/williamroute3.rpy:13130
+translate Tchinese willkanechoice_58d90cb5:
+
+    # ka "\"Lick.\""
+    ka "舔吧。"
+
+# game/williamroute3.rpy:13131
+translate Tchinese willkanechoice_7d7b50ee:
+
+    # "He points it at me, commanding."
+    "他指著屌命令我。"
+
+# game/williamroute3.rpy:13134
+translate Tchinese willkanechoice_a51f315a:
+
+    # "So I give him what we both want."
+    "我便滿足咱倆的共同需求。"
+
+# game/williamroute3.rpy:13135
+translate Tchinese willkanechoice_88c0acca:
+
+    # "I let my tongue drag against him, starting where his balls droop lowest, all the way up the shaft."
+    "用舌頭從他卵蛋垂得最低的地方，一路往肉棒上舔。"
+
+# game/williamroute3.rpy:13136
+translate Tchinese willkanechoice_bb02cfb0:
+
+    # "There’s a dew drop of more salty slime that sticks to me even as I pull away."
+    "我都拉開了，還有幾滴鹹味的黏液沾在我舌頭上。"
+
+# game/williamroute3.rpy:13137
+translate Tchinese willkanechoice_ad7ef1a7:
+
+    # ka "\"There we go.\""
+    ka "就是這樣。"
+
+# game/williamroute3.rpy:13138
+translate Tchinese willkanechoice_5a3ffa15:
+
+    # ka "\"That feels nice.\""
+    ka "挺舒服的。"
+
+# game/williamroute3.rpy:13139
+translate Tchinese willkanechoice_e0b0690c:
+
+    # ka "\"Feeling more like a cocksucker now?\""
+    ka "想當個吸屌的了嗎？"
+
+# game/williamroute3.rpy:13140
+translate Tchinese willkanechoice_bdb02d62:
+
+    # wi "\"...\""
+    wi "……"
+
+# game/williamroute3.rpy:13141
+translate Tchinese willkanechoice_d1e1f92a:
+
+    # ka "\"I can tell this isn’t you first time.\""
+    ka "我感覺得出來，這不是你第一次了。"
+
+# game/williamroute3.rpy:13142
+translate Tchinese willkanechoice_0b4eb0fa:
+
+    # m "\"Really?\""
+    m "真的嗎？"
+
+# game/williamroute3.rpy:13143
+translate Tchinese willkanechoice_2cdcae2b:
+
+    # ka "\"Mhm.\""
+    ka "嗯哼。"
+
+# game/williamroute3.rpy:13144
+translate Tchinese willkanechoice_bb8ed2db:
+
+    # ka "\"He knows the right spots.\""
+    ka "他很清楚敏感帶。"
+
+# game/williamroute3.rpy:13145
+translate Tchinese willkanechoice_6d56e2f6:
+
+    # "I lick him again to make him shut up."
+    "我再次舔他好讓他閉嘴。"
+
+# game/williamroute3.rpy:13146
+translate Tchinese willkanechoice_64e5ae44:
+
+    # ka "\"Ohh...\""
+    ka "噢噢……"
+
+# game/williamroute3.rpy:13147
+translate Tchinese willkanechoice_552ab0fd:
+
+    # ka "\"Now that feels nice.\""
+    ka "這才叫爽。"
+
+# game/williamroute3.rpy:13148
+translate Tchinese willkanechoice_31ee2d7f:
+
+    # ka "\"Awfully domestic for such a dignified mouth.\""
+    ka "這張高貴的嘴還挺溫馴嘛。"
+
+# game/williamroute3.rpy:13149
+translate Tchinese willkanechoice_821eb3bc:
+
+    # wi "\"Mrph...\""
+    wi "嗯唔……"
+
+# game/williamroute3.rpy:13150
+translate Tchinese willkanechoice_72b8b313:
+
+    # "He spits on his own dick, letting the drool drip down slow."
+    "他朝屌吐了點口水，讓唾液慢慢滴下。"
+
+# game/williamroute3.rpy:13151
+translate Tchinese willkanechoice_7d29c19b:
+
+    # ka "\"Clean it.\""
+    ka "清乾淨。"
+
+# game/williamroute3.rpy:13153
+translate Tchinese willkanechoice_51850211:
+
+    # "He pushes me down, forcing more spit into my mouth, more drool out of my cheeks."
+    "他按住我，讓我吃滿口水，從兩頰溢出。"
+
+# game/williamroute3.rpy:13154
+translate Tchinese willkanechoice_ffd9c033:
+
+    # ka "\"Damn.\""
+    ka "操。"
+
+# game/williamroute3.rpy:13155
+translate Tchinese willkanechoice_856585f1:
+
+    # ka "\"Even I wouldn’t have followed those orders without a little resistance.\""
+    ka "這些命令連我自己都會猶豫一下呢。"
+
+# game/williamroute3.rpy:13156
+translate Tchinese willkanechoice_1d3d3407:
+
+    # "At the end of the day, I’m plenty experienced with following orders, right?"
+    "畢竟，我是很習慣遵從命令的，可不是嗎？"
+
+# game/williamroute3.rpy:13157
+translate Tchinese willkanechoice_3445fe33:
+
+    # "Even when they taste bad."
+    "就算內容很糟也一樣。"
+
+# game/williamroute3.rpy:13158
+translate Tchinese willkanechoice_bfbfeea0:
+
+    # "But I can’t pretend any of this tastes bad."
+    "但現在這可一點不糟。"
+
+# game/williamroute3.rpy:13160
+translate Tchinese willkanechoice_7f491586:
+
+    # wi "\"...I need this.\""
+    wi "……我就想要這樣。"
+
+# game/williamroute3.rpy:13162
+translate Tchinese willkanechoice_fb48c384:
+
+    # ka "\"What’s that Sheriff?\""
+    ka "怎麼了，警長？"
+
+# game/williamroute3.rpy:13163
+translate Tchinese willkanechoice_3fbb65ba:
+
+    # ka "\"What did you say?\""
+    ka "你說什麼？"
+
+# game/williamroute3.rpy:13165
+translate Tchinese willkanechoice_12407768:
+
+    # "I’m not going to repeat myself."
+    "我不會說第二遍。"
+
+# game/williamroute3.rpy:13166
+translate Tchinese willkanechoice_99241de0:
+
+    # m "\"I believe he said he needs this, Mr. Kane.\""
+    m "他好像說自己就想要這樣，Kane先生。"
+
+# game/williamroute3.rpy:13167
+translate Tchinese willkanechoice_090bdc16:
+
+    # ka "\"Oh, I can tell.\""
+    ka "哎，這我知道。"
+
+# game/williamroute3.rpy:13169
+translate Tchinese willkanechoice_6dfd3329:
+
+    # ka "\"He reeks like a whore just from startin to suck just one cock.\""
+    ka "他才不過剛開始吸一根屌，就已經一身妓女味了。"
+
+# game/williamroute3.rpy:13171
+translate Tchinese willkanechoice_3ebfde23:
+
+    # m "\"Oh yeah.\""
+    m "喔對啊。"
+
+# game/williamroute3.rpy:13172
+translate Tchinese willkanechoice_42435d61:
+
+    # m "\"He smells a little strong when he’s excited, but you get used to it.\""
+    m "他興奮的時候身上味道會有點重，但一下就會習慣了。"
+
+# game/williamroute3.rpy:13173
+translate Tchinese willkanechoice_a37e6409:
+
+    # ka "\"Maybe it’s time he smelled a little like somebody else.\""
+    ka "也是時候讓他身上沾點別人的氣味了吧。"
+
+# game/williamroute3.rpy:13174
+translate Tchinese willkanechoice_ab3a8770:
+
+    # wi "\"Wait--\""
+    wi "等——"
+
+# game/williamroute3.rpy:13175
+translate Tchinese willkanechoice_579cc47b:
+
+    # "I push him away, trying to get a breather, wiping all of the spit and pre from my face while sweat beats down on my brow."
+    "我推開他想要喘氣，擦掉臉上所有口水跟淫水，汗水也滴在眉頭上。"
+
+# game/williamroute3.rpy:13177
+translate Tchinese willkanechoice_42f2d101:
+
+    # ka "\"Hold his arms?\""
+    ka "能捆住他的手嗎？"
+
+# game/williamroute3.rpy:13179
+translate Tchinese willkanechoice_4c57434f:
+
+    # "I feel Sam reach behind me while Todd coughs wildly."
+    "Sam來到我身後，害得Todd大咳起來。"
+
+# game/williamroute3.rpy:13180
+translate Tchinese willkanechoice_ce551357:
+
+    # m "\"Like this?\""
+    m "這樣嗎？"
+
+# game/williamroute3.rpy:13181
+translate Tchinese willkanechoice_49e66002:
+
+    # wi "\"Sam!\""
+    wi "Sam！"
+
+# game/williamroute3.rpy:13182
+translate Tchinese willkanechoice_0746a2b8:
+
+    # ka "\"Yeah, just like that.\""
+    ka "對，就那樣。"
+
+# game/williamroute3.rpy:13184
+translate Tchinese willkanechoice_9c713f8d:
+
+    # ka "\"Any last words before things get messy, Sheriff?\""
+    ka "被弄髒之前有什麼遺言嗎，警長？"
+
+# game/williamroute3.rpy:13186
+translate Tchinese willkanechoice_dba71365:
+
+    # "I swallow my own spit, watching the shadow of his prick loom over my face."
+    "我吞了口自己的口水，看著他把肉棒懸在我臉上。"
+
+# game/williamroute3.rpy:13187
+translate Tchinese willkanechoice_08047b24:
+
+    # wi "\"Yeah.\""
+    wi "有。"
+
+# game/williamroute3.rpy:13188
+translate Tchinese willkanechoice_36dfc41c:
+
+    # wi "\"Just do it in my mouth.\""
+    wi "射我嘴裡就好了。"
+
+# game/williamroute3.rpy:13189
+translate Tchinese willkanechoice_1cbb0295:
+
+    # "The wolf grins big, and then squeezes the base of his cock. Hard."
+    "狼咧嘴大笑，用力捏住雞巴的根部。"
+
+# game/williamroute3.rpy:13190
+translate Tchinese willkanechoice_c2f622f9:
+
+    # ka "\"No.\""
+    ka "免談。"
+
+# game/williamroute3.rpy:13191
+translate Tchinese willkanechoice_215b6301:
+
+    # "He points the tip of his dick at my face."
+    "他雞巴頂端指向我的臉。"
+
+# game/williamroute3.rpy:13193
+translate Tchinese willkanechoice_3425667c:
+
+    # "Then he starts throbbing."
+    "然後開始抽動。"
+
+# game/williamroute3.rpy:13194
+translate Tchinese willkanechoice_6e52c65c:
+
+    # "Rope after rope of his seed spills out of him."
+    "一道道種汁噴發而出。"
+
+# game/williamroute3.rpy:13195
+translate Tchinese willkanechoice_90275ebd:
+
+    # "Directed at me."
+    "射在我臉上。"
+
+# game/williamroute3.rpy:13196
+translate Tchinese willkanechoice_43915488:
+
+    # "The splash is warm."
+    "液體溫熱。"
+
+# game/williamroute3.rpy:13197
+translate Tchinese willkanechoice_82a25678:
+
+    # "And disgusting."
+    "又噁心。"
+
+# game/williamroute3.rpy:13198
+translate Tchinese willkanechoice_edaeadbb:
+
+    # "But my cock feels so hard that I feel it could practically tear my own pants off."
+    "但我硬到快捅穿褲子了。"
+
+# game/williamroute3.rpy:13200
+translate Tchinese willkanechoice_0613133d:
+
+    # ka "\"Now there’s a pretty sight.\""
+    ka "這景色真美。"
+
+# game/williamroute3.rpy:13202
+translate Tchinese willkanechoice_ada7428d:
+
+    # ka "\"I should humiliate lawmen more often.\""
+    ka "看來該更常羞辱執法人員了。"
+
+# game/williamroute3.rpy:13203
+translate Tchinese willkanechoice_d1783cdb:
+
+    # "I sputter, some of his seed landing in my throat and making me gag."
+    "他部分種汁射進我的喉頭，害我嗆到。"
+
+# game/williamroute3.rpy:13204
+translate Tchinese willkanechoice_fe8a0b7b:
+
+    # "Slime drips from my mouth to the floor."
+    "黏液從我嘴邊滴到地板。"
+
+# game/williamroute3.rpy:13205
+translate Tchinese willkanechoice_081ba609:
+
+    # "I sputter as I try to speak clearly."
+    "我邊嗆邊努力把話說清楚。"
+
+# game/williamroute3.rpy:13206
+translate Tchinese willkanechoice_c3818a28:
+
+    # wi "\"You’re really pushing your goddamn luck.\""
+    wi "你真的是在試探自己的狗屎運啊。"
+
+# game/williamroute3.rpy:13207
+translate Tchinese willkanechoice_dcd14ffc:
+
+    # "He places his paw on the erection inside my clothes and squeezes."
+    "他把爪搭在我衣物下的硬挺上一握。"
+
+# game/williamroute3.rpy:13208
+translate Tchinese willkanechoice_e5875ec1:
+
+    # ka "\"And you’re really pushing your way through your work pants.\""
+    ka "你也真的是在試探你褲子的品質囉。"
+
+# game/williamroute3.rpy:13209
+translate Tchinese willkanechoice_6b8b5e4f:
+
+    # ka "\"Help me strip him.\""
+    ka "幫我扒光他。"
+
+# game/williamroute3.rpy:13210
+translate Tchinese willkanechoice_1dbac721:
+
+    # "They take my shirt first."
+    "他們先是把我上衣脫掉。"
+
+# game/williamroute3.rpy:13211
+translate Tchinese willkanechoice_869127ae:
+
+    # "Then my suspenders."
+    "接著是吊帶。"
+
+# game/williamroute3.rpy:13212
+translate Tchinese willkanechoice_014033b8:
+
+    # "Then my pants, my socks, my garters."
+    "然後褲子、襪子、襪帶。"
+
+# game/williamroute3.rpy:13213
+translate Tchinese willkanechoice_e0957b4f:
+
+    # "He sniffs the air belligerently."
+    "他挑釁地嗅著空氣。"
+
+# game/williamroute3.rpy:13215
+translate Tchinese willkanechoice_1becc1de:
+
+    # ka "\"Phew.\""
+    ka "呼。"
+
+# game/williamroute3.rpy:13217
+translate Tchinese willkanechoice_a3dc283e:
+
+    # ka "\"He really is a happy boy, ain’t he?\""
+    ka "他還真樂在其中啊，對吧？"
+
+# game/williamroute3.rpy:13219
+translate Tchinese willkanechoice_0062fffd:
+
+    # wi "\"Tell Sam to let go of my arms and I’ll show you how happy I really am with your tone.\""
+    wi "叫Sam放開我的手，我讓你見識我對你口氣有多樂在其中。"
+
+# game/williamroute3.rpy:13220
+translate Tchinese willkanechoice_aeca2ff7:
+
+    # "He shakes his head."
+    "他搖頭。"
+
+# game/williamroute3.rpy:13221
+translate Tchinese willkanechoice_5b04bf60:
+
+    # ka "\"We ain’t done yet.\""
+    ka "還沒完事呢。"
+
+# game/williamroute3.rpy:13222
+translate Tchinese willkanechoice_5ad2552d:
+
+    # "He spreads my legs and whistles."
+    "他扒開我雙腿，吹了聲口哨。"
+
+# game/williamroute3.rpy:13223
+translate Tchinese willkanechoice_ed113e3f:
+
+    # ka "\"Want to know why I insisted on coming on your face?\""
+    ka "想知道我為什麼一定要射你臉上嗎？"
+
+# game/williamroute3.rpy:13224
+translate Tchinese willkanechoice_e5f9f73a:
+
+    # "I think, feeling more of his seed spill down the side of my face."
+    "我開始思考，他把更多種汁滴在我側臉上。"
+
+# game/williamroute3.rpy:13225
+translate Tchinese willkanechoice_c3412757:
+
+    # wi "\"Blatant disrespect.\""
+    wi "就是想羞辱我吧。"
+
+# game/williamroute3.rpy:13226
+translate Tchinese willkanechoice_96114ea2:
+
+    # "He laughs."
+    "他大笑。"
+
+# game/williamroute3.rpy:13227
+translate Tchinese willkanechoice_0b4a8aa6:
+
+    # ka "\"Well, that too.\""
+    ka "這也算有吧。"
+
+# game/williamroute3.rpy:13228
+translate Tchinese willkanechoice_5b4c89cd:
+
+    # ka "\"But mostly I just want you to remember the smell of me when I make you cum, lawman.\""
+    ka "但主要是想要你在我把你弄射的時候，記著我的味道，治安官。"
+
+# game/williamroute3.rpy:13230
+translate Tchinese willkanechoice_7c87606a:
+
+    # "As the warm moisture sinks into my snout, so too does his lips on my tip."
+    "溫熱的液體浸入我的吻部時，我的頂部也沒入他的唇。"
+
+# game/williamroute3.rpy:13231
+translate Tchinese willkanechoice_43677050:
+
+    # "My whole body shinvers from how sensitive my tip is, and I let out a whine."
+    "我頭部太敏感，全身都止不住顫抖，發出呻吟。"
+
+# game/williamroute3.rpy:13232
+translate Tchinese willkanechoice_277a8c08:
+
+    # "He pulls off for just a moment to speak again."
+    "他稍微拉開，再度開口。"
+
+# game/williamroute3.rpy:13233
+translate Tchinese willkanechoice_3c8ec33c:
+
+    # ka "\"I bet you’ll think about it for the rest of your life.\""
+    ka "你這輩子肯定都忘不了的。"
+
+# game/williamroute3.rpy:13234
+translate Tchinese willkanechoice_0e567aed:
+
+    # "He dips down."
+    "他深深吞入。"
+
+# game/williamroute3.rpy:13235
+translate Tchinese willkanechoice_ded17c8a:
+
+    # "And again."
+    "一遍。"
+
+# game/williamroute3.rpy:13236
+translate Tchinese willkanechoice_ded17c8a_1:
+
+    # "And again."
+    "又一遍。"
+
+# game/williamroute3.rpy:13237
+translate Tchinese willkanechoice_f297aa94:
+
+    # "And he slurps and smacks his mouth when he licks."
+    "又吸又舔，吸吮聲大作。"
+
+# game/williamroute3.rpy:13238
+translate Tchinese willkanechoice_a58f6f50:
+
+    # "First his tongue bathes my shaft and my balls."
+    "用舌頭沐浴我的肉棒跟卵蛋。"
+
+# game/williamroute3.rpy:13239
+translate Tchinese willkanechoice_3dad1944:
+
+    # "But then it slips beneath my tail."
+    "接著攻往尾巴下方。"
+
+# game/williamroute3.rpy:13240
+translate Tchinese willkanechoice_ee80aaa3:
+
+    # "My gut instinct is to shout, but the yell is silenced by Sam’s tongue in my mouth."
+    "我不禁想喊出來，但Sam舌頭伸進我的嘴，堵住了那道叫聲。"
+
+# game/williamroute3.rpy:13241
+translate Tchinese willkanechoice_9e84b4df:
+
+    # "And I can’t do anything."
+    "我什麼也做不了。"
+
+# game/williamroute3.rpy:13242
+translate Tchinese willkanechoice_63a5f23c:
+
+    # "Not a goddamn thing."
+    "完全無能為力。"
+
+# game/williamroute3.rpy:13243
+translate Tchinese willkanechoice_28c1b284:
+
+    # "Not until my balls pull back."
+    "直到我的卵蛋收縮，"
+
+# game/williamroute3.rpy:13244
+translate Tchinese willkanechoice_cbabfa47:
+
+    # "Until my seed comes spewing out of me."
+    "噴出種汁。"
+
+# game/williamroute3.rpy:13245
+translate Tchinese willkanechoice_4deebf16:
+
+    # "Thick, and hot, and stinking."
+    "濃稠、溫熱、腥臭。"
+
+# game/williamroute3.rpy:13246
+translate Tchinese willkanechoice_bc3918e6:
+
+    # "And the wolf eats it up greedily."
+    "被狼貪圖地吃乾抹淨。"
+
+# game/williamroute3.rpy:13247
+translate Tchinese willkanechoice_36c58ac6:
+
+    # "My head is so foggy and my eyelids are so heavy that I can’t focus anymore."
+    "我腦中一片模糊，眼皮重得無法集中精神。"
+
+# game/williamroute3.rpy:13248
+translate Tchinese willkanechoice_935848dc:
+
+    # "I remember just one thing before darkness overtakes me."
+    "在陷入黑暗前，只記得一件事。"
+
+# game/williamroute3.rpy:13249
+translate Tchinese willkanechoice_9a5e681e:
+
+    # "Samuel wrapping his body around me, cleaning all of the filth off me with his tongue."
+    "Samuel正把我擁入懷內，用舌頭舔淨我身上的一片狼籍。"
+
+# game/williamroute3.rpy:13255
+translate Tchinese willkanechoice_80043b63:
+
+    # wi "\"I’m afraid that’s going to be a no, Mr. Kane.\""
+    wi "這我恐怕得拒絕了，Kane先生。"
+
+# game/williamroute3.rpy:13257
+translate Tchinese willkanechoice_2d81c7c2:
+
+    # "He shrugs and then takes a swig of his beer."
+    "他聳聳肩，大喝一口啤酒。"
+
+# game/williamroute3.rpy:13259
+translate Tchinese willkanechoice_3d76647d:
+
+    # ka "\"Suit yourself, lawman.\""
+    ka "隨你便，治安官。"
+
+# game/williamroute3.rpy:13262
+translate Tchinese willkanechoice_9168f635:
+
+    # "He sets the glass down on the table with a tink."
+    "把杯子放到桌上。"
+
+# game/williamroute3.rpy:13265
+translate Tchinese willkanechoice_fa4eea95:
+
+    # ka "\"Just try not to hit the whiskey too hard.\""
+    ka "別喝太多威士忌了。"
+
+# game/williamroute3.rpy:13267
+translate Tchinese willkanechoice_8b981128:
+
+    # "The slight grin on his face spreads a little wider."
+    "他臉上的奸笑咧得更大。"
+
+# game/williamroute3.rpy:13268
+translate Tchinese willkanechoice_0ed49b63:
+
+    # ka "\"You seem like the type who keeps a bedtime.\""
+    ka "你應該是作息很穩定的那類人吧。"
+
+# game/williamroute3.rpy:13277
+translate Tchinese willsplitB2_fec97169:
+
+    # "To be continued..."
+    ""
+
+translate Tchinese strings:
+
+    # game/williamroute3.rpy:12813
+    old "Should I make a mistake?"
+    new "我該鑄下大錯嗎？"

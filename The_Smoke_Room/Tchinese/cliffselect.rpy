@@ -8,11 +8,11 @@ translate Tchinese strings:
 
     # game/cliffselect.rpy:19
     old "Yes."
-    new "有。"
+    new "是。"
 
     # game/cliffselect.rpy:19
     old "No."
-    new "沒有。"
+    new "否。"
 
     # game/cliffselect.rpy:38
     old "When Murdoch asked for an honest conversation after the attack in the woods, did you agree?"
@@ -72,9 +72,8 @@ translate Tchinese strings:
 
     # game/cliffselect.rpy:98
     old "As Cliff, what do bring up to Tsela and Yiska?"
-    new ""
+    new "扮演Cliff時，你對Tsela和Yiska提起的是？"
 
     # game/cliffselect.rpy:98
     old "You said that there are plans to expand the Echo train station through the settlement."
-    new ""
-
+    new "你提起有人計畫拓展Echo的鐵路，會行經部落。"

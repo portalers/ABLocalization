@@ -25616,3 +25616,515 @@ translate Tchinese sny1_bdeb1ad6:
     # nabj "\"I think foreman Moore should have a look at this--\""
     nabj "“最好讓Moore工頭過目──”"
 
+# TODO: Translation updated at 2023-10-01 19:12
+
+# game/nikroute2.rpy:28
+translate Tchinese nikroute2_61b8360a:
+
+    # ya "\"Let us go.\""
+    ya ""
+
+# game/nikroute2.rpy:54
+translate Tchinese nikroute2_047f2f69:
+
+    # ya "\"Don not stand under the stalactites.\""
+    ya ""
+
+# game/nikroute2.rpy:124
+translate Tchinese nikroute2_84b26b2b:
+
+    # ya "\"Are you talking about Jack?\""
+    ya ""
+
+# game/nikroute2.rpy:194
+translate Tchinese nikroute2_92c8d9ad:
+
+    # ya "\"We are here.\""
+    ya ""
+
+# game/nikroute2.rpy:210
+translate Tchinese nikroute2_f76c3a1d:
+
+    # ya "\"I am still close.\""
+    ya ""
+
+# game/nikroute2.rpy:212
+translate Tchinese nikroute2_1cc4f59b:
+
+    # ya "\"The second drop is not nearly as high.\""
+    ya ""
+
+# game/nikroute2.rpy:258
+translate Tchinese nikroute2_9e7216d3:
+
+    # ya "\"We are in a cave. Voices carry far.\""
+    ya ""
+
+# game/nikroute2.rpy:260
+translate Tchinese nikroute2_4116621a:
+
+    # ya "\"Since I am down here in this small space, risking my neck for your money, why not come down and help me look?\""
+    ya ""
+
+# game/nikroute2.rpy:327
+translate Tchinese nikroute2_f51f9a79:
+
+    # ya "\"The other pit is over here.\""
+    ya ""
+
+# game/nikroute2.rpy:343
+translate Tchinese nikroute2_73594e23:
+
+    # ya "\"I am sure you can tell, but this is where we found his body.\""
+    ya ""
+
+# game/nikroute2.rpy:393
+translate Tchinese nikroute2_f011312c:
+
+    # ya "\"It is built in ways that do not make sense.\""
+    ya ""
+
+# game/nikroute2.rpy:447
+translate Tchinese nikroute2_064df987:
+
+    # ya "\"You are holding charred remains.\""
+    ya ""
+
+# game/nikroute2.rpy:496
+translate Tchinese nikroute2_fb65e46e:
+
+    # ya "\"I do not think it is here, friend.\""
+    ya ""
+
+# game/nikroute2.rpy:500
+translate Tchinese nikroute2_8b4e38b0:
+
+    # ya "\"Those charred marks were not there when we first found Jack.\""
+    ya ""
+
+# game/nikroute2.rpy:551
+translate Tchinese nikroute2_e416d7de:
+
+    # ya "\"I will lead.\""
+    ya ""
+
+# game/nikroute2.rpy:576
+translate Tchinese nikroute2_1e3d3c19:
+
+    # ya "\"Wait until I am at the top.\""
+    ya ""
+
+# game/nikroute2.rpy:629
+translate Tchinese nikroute2_abe4179f:
+
+    # ya "\"Unfortunately, this did not help him at all.\""
+    ya ""
+
+# game/nikroute2.rpy:649
+translate Tchinese nikroute2_3015b9ab:
+
+    # ya "\"And for that, I am going to need help, or else it might as well be hand delivered to Mr. Hendricks or one of his lying foremen.\""
+    ya ""
+
+# game/nikroute2.rpy:674
+translate Tchinese nikroute2_c2368217:
+
+    # ya "\"He will be on the first floor at this time.\""
+    ya ""
+
+# game/nikroute2.rpy:954
+translate Tchinese nikroute2_6cc60c45:
+
+    # "He looks at me."
+    ""
+
+# game/nikroute2.rpy:958
+translate Tchinese nikroute2_6bd7ce38:
+
+    # ya "\"We have two empty beds, but I recommend the top bunk next to me.\""
+    ya ""
+
+# game/nikroute2.rpy:1018
+translate Tchinese nikroute2_ed16a7aa:
+
+    # ya "\"I do not know.\""
+    ya ""
+
+# game/nikroute2.rpy:1020
+translate Tchinese nikroute2_ea0fa783:
+
+    # ya "\"It did not walk or sound like any miner I have heard before.\""
+    ya ""
+
+# game/nikroute2.rpy:1023
+translate Tchinese nikroute2_b2756150:
+
+    # ya "\"But that is not the first time I have encountered something shambling around in the dark down there.\""
+    ya ""
+
+# game/nikroute2.rpy:1036
+translate Tchinese nikroute2_3e5d4488:
+
+    # ya "\"And then you are enclosed in a tight space with a wild animal.\""
+    ya ""
+
+# game/nikroute2.rpy:1304
+translate Tchinese nikroute2_64bb0b9c:
+
+    # ya "\"However, misfortunate choices aside, if he learns how to work with explosives, we will have another man know how to extract the ore.\""
+    ya ""
+
+# game/nikroute2.rpy:1306
+translate Tchinese nikroute2_1a13baef:
+
+    # ya "\"He only has to do this for one week. We can ensure that he is not forced to do anything reckless.\""
+    ya ""
+
+# game/nikroute2.rpy:1390
+translate Tchinese sny1_98d8733c:
+
+    # ya "\"That is perfectly fair.\""
+    ya ""
+
+# game/nikroute2.rpy:1478
+translate Tchinese sny1_91f95738:
+
+    # ya "\"You will find that if you always follow what your bosses tell you to do, you will not last very long.\""
+    ya ""
+
+# game/nikroute2.rpy:2091
+translate Tchinese sny1_bbee652c:
+
+    # ya "\"You are a free man.\""
+    ya ""
+
+# game/nikroute2.rpy:2383
+translate Tchinese sny1_2ca9b517:
+
+    # "I give Nik a look, asking him to back me up,{nw}"
+    ""
+
+# game/nikroute2.rpy:2385
+translate Tchinese sny1_5ffae62d:
+
+    # extend " but he just scratches the back of his head, as if he wants to stay out of this."
+    extend ""
+
+# game/nikroute2.rpy:2622
+translate Tchinese sny1_37ab6a1b:
+
+    # ya "\"Walk, do not run.\""
+    ya ""
+
+# game/nikroute2.rpy:2717
+translate Tchinese sny1_1cc615dd:
+
+    # ya "\"But I have also added my own layouts to this-- the ones that I know they do not know about.\""
+    ya ""
+
+# game/nikroute2.rpy:2747
+translate Tchinese sny1_040df7f0:
+
+    # ya "\"That is where the real gold is.\""
+    ya ""
+
+# game/nikroute2.rpy:2780
+translate Tchinese sny1_841445d2:
+
+    # ya "\"You are more clever than I thought, Mr. Ayers.\""
+    ya ""
+
+# game/nikroute2.rpy:2783
+translate Tchinese sny1_cc2bdc1b:
+
+    # ya "\"Do not thank me until this map is memorized.\""
+    ya ""
+
+# game/nikroute2.rpy:2954
+translate Tchinese sny1_f020f43f:
+
+    # benunk "\"Top of the morning, men!\""
+    benunk ""
+
+# game/nikroute2.rpy:2960
+translate Tchinese sny1_76e079b7:
+
+    # benunk "\"Welcome to the CSCG family. My name’s Ben. You think of me as your guide today for all you newcomers.\""
+    benunk ""
+
+# game/nikroute2.rpy:3202
+translate Tchinese sny1_d36fca00:
+
+    # m "\"In all frankness I hoped I’d run into him here--\""
+    m ""
+
+# game/nikroute2.rpy:3545
+translate Tchinese sny1_1a8772b7:
+
+    # ya "\"If I do not keep still, he could miss, and crush my fingers.\""
+    ya ""
+
+# game/nikroute2.rpy:3598
+translate Tchinese sny1_d7890914:
+
+    # ya "\"We did not say that, but the two of us have worked together long enough to coordinate our actions.\""
+    ya ""
+
+# game/nikroute2.rpy:3915
+translate Tchinese sny1_2974ee99:
+
+    # "The blue jay just shakes his head and spits on the floor,{nw}"
+    ""
+
+# game/nikroute2.rpy:3917
+translate Tchinese sny1_5c9afcf4:
+
+    # extend " before turning to leave."
+    extend ""
+
+# game/nikroute2.rpy:3940
+translate Tchinese sny1_7d00b8f8:
+
+    # diunk "\"Are you a foreman, Keyes?\""
+    diunk ""
+
+# game/nikroute2.rpy:4095
+translate Tchinese sny1_80b593e0:
+
+    # "The mess hall, which is more of a dimly lit cavern with stools scattered about it than a hall, has a row of iron lockers against the beam and earth walls..."
+    ""
+
+# game/nikroute2.rpy:4171
+translate Tchinese sny1_bece5169:
+
+    # ya "\"Because this is not the first time somebody has forgotten their lunch.\""
+    ya ""
+
+# game/nikroute2.rpy:4176
+translate Tchinese sny1_a05d0f92:
+
+    # ya "\"When you are hungry, and hundreds of feet beneath the ground, you might agree to more than you normally would when you are out of options.\""
+    ya ""
+
+# game/nikroute2.rpy:4179
+translate Tchinese sny1_58c73a7f:
+
+    # ya "\"That is why we have to be ready to feed those who need it.\""
+    ya ""
+
+# game/nikroute2.rpy:4182
+translate Tchinese sny1_0f92ecc7:
+
+    # ya "\"Or barter with those who do not.\""
+    ya ""
+
+# game/nikroute2.rpy:4247
+translate Tchinese sny1_b5622e85:
+
+    # bk "\"{i}From one explorer to another.{/i}\""
+    bk ""
+
+# game/nikroute2.rpy:4251
+translate Tchinese sny1_8e7c6ea5:
+
+    # bk "\"{i}I hope you find what you’re looking for, Samuel Ayers.{/i}\""
+    bk ""
+
+# game/nikroute2.rpy:4254
+translate Tchinese sny1_f09a6be1:
+
+    # bk "\"Signed, {i}James Hendricks the Third.{/i}\""
+    bk ""
+
+# game/nikroute2.rpy:5002
+translate Tchinese sny1_27c037a6:
+
+    # ya "\"If he is already suspicious of Sam’s presence due to James’ gift, we would not want to implicate ourselves in that.\""
+    ya ""
+
+# game/nikroute2.rpy:5004
+translate Tchinese sny1_a4a0ed62:
+
+    # ya "\"Breaking protocol would make Beckett talk to James, and that is the last thing we want.\""
+    ya ""
+
+# game/nikroute2.rpy:5166
+translate Tchinese sny1_e38beba4:
+
+    # ya "\"There is something that he wants.\""
+    ya ""
+
+# game/nikroute2.rpy:5174
+translate Tchinese sny1_935ee145:
+
+    # ya "\"Let us return to the cabin.\""
+    ya ""
+
+# game/nikroute2.rpy:5269
+translate Tchinese sny1_e63bf79a:
+
+    # "As his eyes list across the symbols, his expression moves{nw}"
+    ""
+
+# game/nikroute2.rpy:5271
+translate Tchinese sny1_b884a9b3:
+
+    # extend " from perplexed, to angry,{nw}"
+    extend ""
+
+# game/nikroute2.rpy:5273
+translate Tchinese sny1_66e2ee0e:
+
+    # extend " then to thoughtful."
+    extend ""
+
+# game/nikroute2.rpy:5566
+translate Tchinese sny1_e46d36d1:
+
+    # m "\"We don’t want to be separated, but we don’t want Beckett to know that we are all associated...\""
+    m ""
+
+# game/nikroute2.rpy:5761
+translate Tchinese sellcomp_2f3fccea:
+
+    # ya "\"...It is very late.\""
+    ya ""
+
+# game/nikroute2.rpy:5783
+translate Tchinese sellcomp_236b10dc:
+
+    # ya "\"It is the way he looks at you.\""
+    ya ""
+
+# game/nikroute2.rpy:5798
+translate Tchinese sellcomp_986b8689:
+
+    # ya "\"...and I was not sleeping.\""
+    ya ""
+
+# game/nikroute2.rpy:5819
+translate Tchinese sellcomp_45d2e6ba:
+
+    # ya "\"It is not as embarrassing anonymously among strangers.\""
+    ya ""
+
+# game/nikroute2.rpy:5859
+translate Tchinese sellcomp_bae05e63:
+
+    # ya "\"I cannot pay you anything.\""
+    ya ""
+
+# game/nikroute2.rpy:5872
+translate Tchinese sellcomp_c6784357:
+
+    # ya "\"It is a partnership.\""
+    ya ""
+
+# game/nikroute2.rpy:5907
+translate Tchinese sellcomp_04cc7fe2:
+
+    # ya "\"You do not have to wait.\""
+    ya ""
+
+# game/nikroute2.rpy:6107
+translate Tchinese sellcomp_e744ae05:
+
+    # ya "\"I have not finished like that for years.\""
+    ya ""
+
+# game/nikroute2.rpy:6109
+translate Tchinese sellcomp_3582aab7:
+
+    # ya "\"That felt right. In a way it had not before.\""
+    ya ""
+
+# game/nikroute2.rpy:6119
+translate Tchinese sellcomp_0a8b30e5:
+
+    # ya "\"It is astonishing.\""
+    ya ""
+
+# game/nikroute2.rpy:6153
+translate Tchinese sellcomp_3e962d52:
+
+    # ya "\"Well I do not need to know everything.\""
+    ya ""
+
+# game/nikroute2.rpy:6242
+translate Tchinese sellcomp_82c789c8:
+
+    # ya "\"You are stubborn too.\""
+    ya ""
+
+# game/nikroute2.rpy:6446
+translate Tchinese sellcomp_d48241cc:
+
+    # fe "\"Because I know you can't get enough of the sound of my voice, Paul.\""
+    fe ""
+
+# game/nikroute2.rpy:6906
+translate Tchinese sellcomp_77e76532:
+
+    # "Just... nothing, immeasurably dark and deep."
+    ""
+
+# game/nikroute2.rpy:7453
+translate Tchinese sellcomp_46140f4c:
+
+    # ya "\"That is our quickest way out when we have... what we are looking for.\""
+    ya ""
+
+# game/nikroute2.rpy:7455
+translate Tchinese sellcomp_515bdb59:
+
+    # ya "\"We do not want to risk the discovery.\""
+    ya ""
+
+# game/nikroute2.rpy:7470
+translate Tchinese sellcomp_d1980d59:
+
+    # ya "\"You do not want to be holding a piece of paper and reading it if we are lost...\""
+    ya ""
+
+# game/nikroute2.rpy:7862
+translate Tchinese locker1bright_678d8a19:
+
+    # ya "\"It is easy to get lost and wander in the same direction for far too long if you are not careful.\""
+    ya ""
+
+# game/nikroute2.rpy:7915
+translate Tchinese locker1bright_361dd701:
+
+    # ya "\"You will understand very soon.\""
+    ya ""
+
+# game/nikroute2.rpy:7928
+translate Tchinese locker1bright_a36f5d62:
+
+    # ya "\"It is in there.\""
+    ya ""
+
+# game/nikroute2.rpy:7980
+translate Tchinese locker1bright_8bc2ab65:
+
+    # ya "\"There is something much better.\""
+    ya ""
+
+# game/nikroute2.rpy:8126
+translate Tchinese locker1bright_3ddbf165:
+
+    # ya "\"If it is a member of management, we should not be seen.\""
+    ya ""
+
+# game/nikroute2.rpy:8402
+translate Tchinese locker1bright_ec62891c:
+
+    # ya "\"We did not bring any weapons! We have to go!\""
+    ya ""
+
+# game/nikroute2.rpy:8413
+translate Tchinese locker1bright_aad43e56:
+
+    # ya "\"It is easy if you retrace your steps.\""
+    ya ""
+

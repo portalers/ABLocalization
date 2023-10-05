@@ -92,9 +92,16 @@ translate Tchinese strings:
 
     # game/willselect.rpy:62
     old "When William confides in you his feelings about his wife arriving in echo, what did you tell him?"
-    new ""
+    new "William對你坦白他對妻子來到Echo的想法時，你是怎麼回應的？"
 
     # game/willselect.rpy:93
     old "Said that people sometimes hallucinate."
-    new ""
+    new "說有時人們會產生幻覺。"
 
+# TODO: Translation updated at 2023-10-01 19:12
+
+translate Tchinese strings:
+
+    # game/willselect.rpy:115
+    old "As William, did you get Sam off in the bedroom?"
+    new "扮演William時，你有幫Sam發洩嗎？"
