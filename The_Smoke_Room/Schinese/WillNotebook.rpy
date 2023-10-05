@@ -206,7 +206,7 @@ translate Schinese strings:
     new "名字、地址、同伴。光有这些信息，就足以让我掌握城里大半人的行踪。"
 
     old "The mafia uses these pictures as intimidating messeages. Nobody wants to wake up to these in their mail. I imagine Chang Fulin didn't, whoever he is."
-    new "黑手党用把这些图样当成恐吓讯息。没人想一大早就在邮筒里看到这些东西。这个叫Chang Fulin的人大概也差不多。"
+    new "黑手党把这些图样当成恐吓讯息。没人想一大早就在邮筒里看到这些东西。这个叫Chang Fulin的人大概也差不多。"
 
     old "We could hear him down the hallway. But at least I know now that Harlan asked for the wine delivery."
     new "在走廊上都听得一清二楚。好歹我是知道酒是Harlan订的了。"
