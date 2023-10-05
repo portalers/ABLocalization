@@ -206,7 +206,7 @@ translate Tchinese strings:
     new "名字、地址、同伴。光有這些資訊，就足以讓我掌握城裡大半人的行蹤。"
 
     old "The mafia uses these pictures as intimidating messeages. Nobody wants to wake up to these in their mail. I imagine Chang Fulin didn't, whoever he is."
-    new "黑手黨用把這些圖樣當成恐嚇訊息。沒人想一大早就在郵筒裡看到這些東西。這個叫Chang Fulin的人大概也差不多。"
+    new "黑手黨把這些圖樣當成恐嚇訊息。沒人想一大早就在郵筒裡看到這些東西。這個叫Chang Fulin的人大概也差不多。"
 
     old "We could hear him down the hallway. But at least I know now that Harlan asked for the wine delivery."
     new "在走廊上都聽得一清二楚。好歹我是知道酒是Harlan訂的了。"
