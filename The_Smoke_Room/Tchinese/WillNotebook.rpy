@@ -87,6 +87,15 @@ translate Tchinese strings:
     old "{color=#000000}{font=willfont.ttf}[manortext]{/font}{/color}"
     new "{color=#000000}{font=fonts/willfont2.ttf}[manortext!t]{/font}{/color}"
 
+    old "{color=#000000}{font=willfont.ttf}[hledgertext]{/font}{/color}"
+    new "{color=#000000}{font=fonts/willfont2.ttf}[hledgertext!t]{/font}{/color}"
+
+    old "{color=#000000}{font=willfont.ttf}[hlettertext]{/font}{/color}"
+    new "{color=#000000}{font=fonts/willfont2.ttf}[hlettertext!t]{/font}{/color}"
+
+    old "{color=#000000}{font=willfont.ttf}[ethelclifftext]{/font}{/color}"
+    new "{color=#000000}{font=fonts/willfont2.ttf}[ethelclifftext!t]{/font}{/color}"
+
     old "Made James bleed. Was funny."
     new "揍了James一頓，痛快。"
 
