@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2023-02-27 17:53
-
-# game/story/Chapter_M3.rpy:15
+﻿# game/story/Chapter_M3.rpy:15
 translate Tchinese chapter_M3_197963a3:
 
     # "That night, you sleep well with a belly stuffed full of meat. Compared to the past few days, you’re sleeping like a log."
@@ -5292,5 +5290,1703 @@ translate Tchinese chapter_M3_lucian_b0d381bc:
 translate Tchinese chapter_M3_lucian_5a3e2816:
 
     # "With that, the unlikely pair head for the former Demon Lord."
-    "就這樣，這對不可思議的搭檔踏上了尋找前任魔王的旅途。"
+    "就這樣，這對不可思議的搭檔踏上了尋找前任魔王的旅途。"# TODO: Translation updated at 2023-11-01 18:42
+
+# game/story/Chapter_M3.rpy:32
+translate Tchinese chapter_M3_acb91c2e:
+
+    # "Good luck at work, remember we’re meeting up at my office after you’re done with your shift." (screen="say_text_msg")
+    "祝你工作順利，下班後記得來我的事務所一趟。" (screen="say_text_msg")
+
+# game/story/Chapter_M3.rpy:209
+translate Tchinese chapter_M3_book_choice_580e64de:
+
+    # M nervous "Unlike a TV show, the clans aren’t rivals..."
+    M nervous "跟電視上演的不同，家族與家族之間並不是競爭關係..."
+
+# game/story/Chapter_M3.rpy:2114
+translate Tchinese chapter_M3_astaroth_3dff550e:
+
+    # "Your eyes widen at a towering boar demon before you. Its sheer height forces you to look up into its vicious gaze."
+    "你睜大眼睛，看著面前的豬惡魔。它的身材過於高大，你不得不抬頭，好凝視它呆滯的眸子。"
+
+# game/story/Chapter_M3.rpy:2478
+translate Tchinese post_freelancer_morris_9997ec43:
+
+    # "Vendrake massages his forehead. The number of torture demons slipping up at work vexes him."
+    "Vendrake扶了扶額頭，在工作中出現失誤的惡魔的數量之多，讓他頭疼不已。"
+
+# game/story/Chapter_M3.rpy:2479
+translate Tchinese post_freelancer_morris_b80e9be1:
+
+    # "He ponders why such issues are on the rise."
+    "他思考著其中的原因。"
+
+# game/story/Chapter_M3.rpy:2480
+translate Tchinese post_freelancer_morris_1e996132:
+
+    # Ven "Bah— it seems the sickness that is [name]’s leadership has deeper roots than I imagined. No matter, in time, these demons will learn to reach their full potential again."
+    Ven "嘖，看來[name]比我想得還要不稱職。算了，總有一天，那些惡魔會找回原來的感覺，充分發揮各自的潛能。"
+
+# game/story/Chapter_M3.rpy:2481
+translate Tchinese post_freelancer_morris_7e195823:
+
+    # Ven "Perhaps a regular dose of the company theme song will lift their spirits."
+    Ven "也許經常播放公司的主題曲可以讓他們打起精神。"
+
+# game/story/Chapter_M3.rpy:2482
+translate Tchinese post_freelancer_morris_dc73f9bf:
+
+    # "Vendrake writes down a note to schedule blasting the music throughout the Underworld, confident in the corporate ditty’s morale-boosting qualities."
+    "Vendrake把自己的想法寫在紙上，他對這首鼓舞士氣的小曲充滿了信心。"
+
+# game/story/Chapter_M3.rpy:2483
+translate Tchinese post_freelancer_morris_a260bb27:
+
+    # "As Vendrake is lost in his notebook, a pool of dark blood bubbles out onto the office floor."
+    "在Vendrake專心記筆記時，辦公室的地板上湧出了一灘黑色的血。"
+
+# game/story/Chapter_M3.rpy:2498
+translate Tchinese post_freelancer_morris_67373aec:
+
+    # "Astaroth emerges, propped up on his knees and gasping for air."
+    "Astaroth從血中現身，然後跪倒在地。"
+
+# game/story/Chapter_M3.rpy:2499
+translate Tchinese post_freelancer_morris_60b6f840:
+
+    # "The gashes from Morris’ claws remain open. The demon’s flesh attempting to reform but continually burning away at the wound."
+    "Morris留下的傷口仍未癒合，惡魔試圖修復肉體，但傷口卻不斷燃燒著。"
+
+# game/story/Chapter_M3.rpy:2500
+translate Tchinese post_freelancer_morris_68d7e012:
+
+    # Ven "What?!"
+    Ven "什麼？！"
+
+# game/story/Chapter_M3.rpy:2507
+translate Tchinese post_freelancer_morris_ad9b46c4:
+
+    # "Vendrake hastily moves out from his desk and rushes to his employee."
+    "Vendrake離開辦公桌，急忙走向自己的員工。"
+
+# game/story/Chapter_M3.rpy:2518
+translate Tchinese post_freelancer_morris_e1d69c73:
+
+    # "The bull-demon recites an ancient spell. He holds his subordinate’s shoulders and eases Astaroth’s pain enough for the demon to utter a few words."
+    "牛魔扶著下屬的肩膀，吟誦了一個古老的咒語，這足以減輕Astaroth的痛苦，讓他得以開口。"
+
+# game/story/Chapter_M3.rpy:2532
+translate Tchinese post_freelancer_morris_bb3c63a1:
+
+    # Ven "How did [name] do this?"
+    Ven "“[name]竟有如此力量？”"
+
+# game/story/Chapter_M3.rpy:2534
+translate Tchinese post_freelancer_morris_aaad3ffb:
+
+    # Astaroth "No..."
+    Astaroth "“不...”"
+
+# game/story/Chapter_M3.rpy:2535
+translate Tchinese post_freelancer_morris_dbbbd06a:
+
+    # "Astaroth gasps for air."
+    "Astaroth喘著粗氣。"
+
+# game/story/Chapter_M3.rpy:2536
+translate Tchinese post_freelancer_morris_9bbb32d8:
+
+    # Astaroth "Another... demon..."
+    Astaroth "“是另一個...惡魔...”"
+
+# game/story/Chapter_M3.rpy:2537
+translate Tchinese post_freelancer_morris_ce51dad8:
+
+    # Ven "A demon? Who among us is aiding [name]?"
+    Ven "“惡魔？是誰叛變到[name]那裡了？”"
+
+# game/story/Chapter_M3.rpy:2538
+translate Tchinese post_freelancer_morris_e321b55b:
+
+    # "Astaroth shakes his head."
+    "Astaroth搖搖頭。"
+
+# game/story/Chapter_M3.rpy:2539
+translate Tchinese post_freelancer_morris_cd59585b:
+
+    # Astaroth "Not... one...of...us...half-mortal..."
+    Astaroth "“不是...我們...的人...是一隻...半魔...”"
+
+# game/story/Chapter_M3.rpy:2540
+translate Tchinese post_freelancer_morris_ddc1a5e4:
+
+    # "Vendrake’s eyes widen."
+    "Vendrake睜大了眼睛。"
+
+# game/story/Chapter_M3.rpy:2541
+translate Tchinese post_freelancer_morris_0c46b44b:
+
+    # Ven "How?"
+    Ven "“怎麼會這樣？”"
+
+# game/story/Chapter_M3.rpy:2542
+translate Tchinese post_freelancer_morris_c8306ded:
+
+    # "The Freelancer demon coughs violently. Despite his power, the damage Astaroth has taken is too much for Vendrake to hold back."
+    "自業者劇烈咳嗽起來，Astaroth受的傷太嚴重了，就連Vendrake的力量也無可奈何。"
+
+# game/story/Chapter_M3.rpy:2543
+translate Tchinese post_freelancer_morris_c3a716c7:
+
+    # Ven "That will do, Astaroth. Recuperate."
+    Ven "“你先退下吧，Astaroth，好好養傷。”"
+
+# game/story/Chapter_M3.rpy:2553
+translate Tchinese post_freelancer_morris_dfd8d7f5:
+
+    # "Vendrake snaps his finger and a portal forms below the demon, taking it to the healing ward."
+    "Vendrake打了個響指，一道傳送門出現在惡魔腳下，將其送往病房。"
+
+# game/story/Chapter_M3.rpy:2556
+translate Tchinese post_freelancer_morris_2b5b36d5:
+
+    # Ven "Nox!"
+    Ven "“Nox！”"
+
+# game/story/Chapter_M3.rpy:2566
+translate Tchinese post_freelancer_morris_deb96fdf:
+
+    # "Nox arrives through another portal on command, as if he had been anticipating his call."
+    "Nox奉命從另一個傳送門來到這裡，彷彿一直在等待被召喚。"
+
+# game/story/Chapter_M3.rpy:2569
+translate Tchinese post_freelancer_morris_4743ba94:
+
+    # Nox "Yes, my Lord?"
+    Nox "“您有何吩咐，大人？”"
+
+# game/story/Chapter_M3.rpy:2570
+translate Tchinese post_freelancer_morris_5adb4a3b:
+
+    # Ven "Once Astaroth recovers, find out more on this half-mortal-half-demon character."
+    Ven "“一旦Astaroth恢復了，馬上打探那個半人半魔的消息。”"
+
+# game/story/Chapter_M3.rpy:2571
+translate Tchinese post_freelancer_morris_c5bbb423:
+
+    # Nox "A half-demon mortal? That’s not possible..."
+    Nox "“人與惡魔混血？這不可能...”"
+
+# game/story/Chapter_M3.rpy:2572
+translate Tchinese post_freelancer_morris_67da455d:
+
+    # Ven "It very much is. Search the registry for any who match the description given by Astaroth."
+    Ven "“確實不可能，你去一趟登記處，搜索符合Astaroth描述的角色。”"
+
+# game/story/Chapter_M3.rpy:2573
+translate Tchinese post_freelancer_morris_44de6702:
+
+    # Nox "We don’t have such a registry, my Lord."
+    Nox "“我們沒有登記處啊，大人。”"
+
+# game/story/Chapter_M3.rpy:2574
+translate Tchinese post_freelancer_morris_63dea1cf:
+
+    # Ven "Why not? I’ve foreseen something like this happening a hundred years ago. I distinctly recall proposing one."
+    Ven "“怎麼會沒有？我早在一百年前就預見到會發生這樣的事了。”"
+
+# game/story/Chapter_M3.rpy:2575
+translate Tchinese post_freelancer_morris_6e6ca462:
+
+    # Nox "Yes, you did propose such a registry, but [name] and his father both failed \nto see the need and rejected the idea."
+    Nox "“是的，您的確提出過，但[name]和他的父親都表示\nto無法理解，並駁回了這個提議。”"
+
+# game/story/Chapter_M3.rpy:2576
+translate Tchinese post_freelancer_morris_4d26432f:
+
+    # "Vendrake growls."
+    "Vendrake發出咆哮。"
+
+# game/story/Chapter_M3.rpy:2577
+translate Tchinese post_freelancer_morris_179bf019:
+
+    # Ven "Then find out who this troublemaker is and get started on that registry!"
+    Ven "“那就找出這個鬧事者是誰，還有馬上成立一個登記處！”"
+
+# game/story/Chapter_M3.rpy:2578
+translate Tchinese post_freelancer_morris_b32833a9:
+
+    # "Nox sighs."
+    "Nox嘆了口氣。"
+
+# game/story/Chapter_M3.rpy:2579
+translate Tchinese post_freelancer_morris_890e41af:
+
+    # Nox "Yes, my Lord."
+    Nox "“遵命，大人。”"
+
+# game/story/Chapter_M3.rpy:2580
+translate Tchinese post_freelancer_morris_bc921a9e:
+
+    # Ven "[name] is acquiring a potentially dangerous ally, if they were able to hurt one of our demons like that..."
+    Ven "“[name]的潛在盟友非常危險，那人能重創我們惡魔...”"
+
+# game/story/Chapter_M3.rpy:2581
+translate Tchinese post_freelancer_morris_bee69b18:
+
+    # Ven "Warn the other Freelancers of this threat, and I want whoever arrives next to investigate that town. Something is amiss."
+    Ven "“警告其他的自業者，讓他們不要輕舉妄動，這事不對勁。”"
+
+# game/story/Chapter_M3.rpy:2587
+translate Tchinese king_morris_route_104d5352:
+
+    # "The lone coffee machine on the desktop counter beeps. It whirls to life and begins brewing the next batch of coffee for its demon masters."
+    "櫃臺上唯一的咖啡機發出嗶嗶的聲音，它旋轉著，為它的惡魔主人沖泡新一批咖啡。"
+
+# game/story/Chapter_M3.rpy:2588
+translate Tchinese king_morris_route_62b04438:
+
+    # "The clanking of the door’s lock opening announces someone's arrival."
+    "門鎖打開的叮噹聲宣布了某人的到來。"
+
+# game/story/Chapter_M3.rpy:2592
+translate Tchinese king_morris_route_ba4e8d26:
+
+    # "Amare steps through waving his many hands in the air."
+    "Amare走進房間，揮了揮空中的手。"
+
+# game/story/Chapter_M3.rpy:2594
+translate Tchinese king_morris_route_d5dd26e4:
+
+    # Amar "Hello, mortal!"
+    Amar "“你好啊，凡人！”"
+
+# game/story/Chapter_M3.rpy:2599
+translate Tchinese king_morris_route_d0d379ca:
+
+    # K "Yaargh!"
+    K "“嘿呀！”"
+
+# game/story/Chapter_M3.rpy:2601
+translate Tchinese king_morris_route_77ba4e2e:
+
+    # "King leaps out from beneath a table swinging a broom."
+    "King揮舞著掃把從桌子底下跳了出來。"
+
+# game/story/Chapter_M3.rpy:2671
+translate Tchinese king_morris_route_a341b9d8:
+
+    # "His weapon hits the demon with a loud thwack, striking the lynx’s cheek. However, the demon stands there, unflinching."
+    "武器重重地打在猞猁的臉上，然而惡魔站在那裡，一動也沒動。"
+
+# game/story/Chapter_M3.rpy:2683
+translate Tchinese king_morris_route_30aa11df:
+
+    # "King puts the broom down, his burst of courage quickly turning into guilt."
+    "King放下掃把，勇氣迅速化為了內疚。"
+
+# game/story/Chapter_M3.rpy:2684
+translate Tchinese king_morris_route_aa5e6a3f:
+
+    # K "Oh gosh, I'm so sorry. I meant to knock you out."
+    K "“天啊，真的很抱歉，我本想把你打暈的。”"
+
+# game/story/Chapter_M3.rpy:2685
+translate Tchinese king_morris_route_c54d1d18:
+
+    # Amar "Huh— Damage dealt is about... one point out of two-thousand health points. Fascinating data."
+    Amar "“嗯，你的輸出大概是...我生命值的兩千分之一，真是有趣的數據。"
+
+# game/story/Chapter_M3.rpy:2686
+translate Tchinese king_morris_route_a2a1a34d:
+
+    # K sad "Wait, I think your cheek is red. Is there a first aid kit here?"
+    K sad "“等一下，你的臉好像腫了，這裡有急救箱嗎？”"
+
+# game/story/Chapter_M3.rpy:2687
+translate Tchinese king_morris_route_395b7861:
+
+    # Amar "Your concern is unnecessary mortal, I've had worse."
+    Amar "“不必擔心，凡人，我經歷過更糟的。”"
+
+# game/story/Chapter_M3.rpy:2688
+translate Tchinese king_morris_route_489decea:
+
+    # "He reveals his right arm to the alpaca. Gold veins run down his dark, lanky arms, like long cracks from an old and damaged vase."
+    "他露出右臂，金色的血管遍布黝黑細長的手臂，如同一隻破花瓶上的裂縫。"
+
+# game/story/Chapter_M3.rpy:2690
+translate Tchinese king_morris_route_77633971:
+
+    # Fort "Hey, what's the hold up?"
+    Fort "“嘿，怎麼了嗎？”"
+
+# game/story/Chapter_M3.rpy:2691
+translate Tchinese king_morris_route_f9c9d2da:
+
+    # "The booming voice of the second general emanates from beyond the doorway."
+    "從門口傳來了另一位將軍洪亮的聲音。"
+
+# game/story/Chapter_M3.rpy:2697
+translate Tchinese king_morris_route_f24ba625:
+
+    # "Fortis's intimidating stature steps through the door with a box of metal pieces in his arms. He’s quick to lock the door behind him."
+    "Fortis抱著一盒金屬碎片，把自己那令人生畏的身體擠進來，然後鎖上門。"
+
+# game/story/Chapter_M3.rpy:2701
+translate Tchinese king_morris_route_e8c2ac8b:
+
+    # Fort confused "Why are you holding up a broom?"
+    Fort confused "“你舉著掃把做什麼？”"
+
+# game/story/Chapter_M3.rpy:2702
+translate Tchinese king_morris_route_6914583c:
+
+    # K shocked "Err..."
+    K shocked "“呃...”"
+
+# game/story/Chapter_M3.rpy:2705
+translate Tchinese king_morris_route_be2a19e1:
+
+    # Amar_nt "He was just showing me his amazing swinging skill."
+    Amar_nt "“他在向我展示他引以為豪的擺動技巧。”"
+
+# game/story/Chapter_M3.rpy:2707
+translate Tchinese king_morris_route_2f840c95:
+
+    # "The lynx says with much glee in his voice."
+    "猞猁高興的說。"
+
+# game/story/Chapter_M3.rpy:2708
+translate Tchinese king_morris_route_d6159a4f:
+
+    # Fort neutral2 "Sure he did."
+    Fort neutral2 "“看得出來。”"
+
+# game/story/Chapter_M3.rpy:2710
+translate Tchinese king_morris_route_419720aa:
+
+    # Fort "Better get used to just staying here. The doors are locked and you ain’t about to break them down."
+    Fort "“你最好習慣待在這裡了。門鎖著，你是打不開的。”"
+
+# game/story/Chapter_M3.rpy:2711
+translate Tchinese king_morris_route_77fd42fd:
+
+    # K sad "I know..."
+    K sad "“我知道...”"
+
+# game/story/Chapter_M3.rpy:2712
+translate Tchinese king_morris_route_add87dbf:
+
+    # "The alpaca rubs his arm, his eyes darting away. He focuses on a box in the corner that rests beneath a pile of broken forks, knives, and disused appliances."
+    "羊駝揉著手臂，目光游離，他注意到角落裡有一個盒子，盒子裡放著一堆壞刀叉和廢電器。"
+
+# game/story/Chapter_M3.rpy:2713
+translate Tchinese king_morris_route_24c41029:
+
+    # Fort confused "Amare, take your box of junk. I've got to get this fella’s reading materials and settle an issue in my torture zone."
+    Fort confused "“把你的垃圾收好，Amare。我還得拿書給這傢伙讀，再去拷問區處理點事情。”"
+
+# game/story/Chapter_M3.rpy:2717
+translate Tchinese king_morris_route_ef68b32d:
+
+    # "The dog demon sets a box carefully on the floor."
+    "狗惡魔小心翼翼把一個盒子放在地板上。"
+
+# game/story/Chapter_M3.rpy:2720
+translate Tchinese king_morris_route_afeb5e4b:
+
+    # Amar smile "Thank you Fortis for doing all the heavy lifting."
+    Amar smile "“謝謝你幫我做了那麼多粗活，Fortis。”"
+
+# game/story/Chapter_M3.rpy:2721
+translate Tchinese king_morris_route_03bcc22d:
+
+    # Fort confused "Keep your eye on this fella, Amare. You don’t know what he’ll try to pull."
+    Fort confused "“當心那個傢伙，Amare，天知道他在打什麼算盤。”"
+
+# game/story/Chapter_M3.rpy:2722
+translate Tchinese king_morris_route_c1444324:
+
+    # Amar "Yes, yes."
+    Amar "“是，是。”"
+
+# game/story/Chapter_M3.rpy:2732
+translate Tchinese king_morris_route_5ef10ff0:
+
+    # "The feline shoos the demon dog away with his many arms."
+    "猞猁用他的許多手臂打發走了狗惡魔。"
+
+# game/story/Chapter_M3.rpy:2739
+translate Tchinese king_morris_route_8a0deaee:
+
+    # "Fortis shakes his head disapprovingly and leaves through the pantry door."
+    "Fortis不以為然地搖搖頭，從茶水間的門離開了。"
+
+# game/story/Chapter_M3.rpy:2742
+translate Tchinese king_morris_route_7ad1198d:
+
+    # Amar "Finally... it's just the two of us now."
+    Amar "“終於...現在只剩下你和我了。”"
+
+# game/story/Chapter_M3.rpy:2744
+translate Tchinese king_morris_route_691e7183:
+
+    # "As Amare approaches King, a pair of his floating hands rub together in a seemingly menacing fashion."
+    "Amare走近King，同時搓著漂浮的雙手，看起來不懷好意的樣子。"
+
+# game/story/Chapter_M3.rpy:2746
+translate Tchinese king_morris_route_2a552688:
+
+    # "King backs away slowly."
+    "King一步步後退。"
+
+# game/story/Chapter_M3.rpy:2750
+translate Tchinese king_morris_route_09accfc7:
+
+    # K "What.... What are you going to do to me?"
+    K "“你...你想對我做什麼？”"
+
+# game/story/Chapter_M3.rpy:2777
+translate Tchinese king_morris_route_6dee60f5:
+
+    # "Amare licks his lips. His many hands extend from his back ready to pounce."
+    "Amare舔了舔嘴唇，他的雙手從背後伸出，隨時準備撲過去。"
+
+# game/story/Chapter_M3.rpy:2778
+translate Tchinese king_morris_route_2f484e51:
+
+    # Amar "I'm going to enjoy every second of this! I'm-"
+    Amar "“我要享受這裡的每一秒！我-”"
+
+# game/story/Chapter_M3.rpy:2781
+translate Tchinese king_morris_route_94786eba:
+
+    # "King's pupils dilate."
+    "King眼睛睜得大大的。"
+
+# game/story/Chapter_M3.rpy:2785
+translate Tchinese king_morris_route_a5c6cc15:
+
+    # Amar "I'm going to assemble the new food processor. Ooh, I just love a good assembly job."
+    Amar "“我要組裝新的食品加工機。啊，我喜歡組裝工作。”"
+
+# game/story/Chapter_M3.rpy:2797
+translate Tchinese king_morris_route_9955ffc8:
+
+    # "The lynx demon's translucent hands reach down for the box of parts and bring them to a nearby table."
+    "猞猁惡魔把半透明的手伸進盒子裡，把零件拿到附近的桌子上。"
+
+# game/story/Chapter_M3.rpy:2803
+translate Tchinese king_morris_route_6d61e00e:
+
+    # K serious "Oh... right, you mentioned that before. Phew, I thought you were going to do some weird tests on me."
+    K serious "“噢對，你之前提過。呼，我以為你會對我做一些奇怪的測試呢。”"
+
+# game/story/Chapter_M3.rpy:2804
+translate Tchinese king_morris_route_6df65bec:
+
+    # Amar "I will! Right after I figure out how much that might tamper with your soul."
+    Amar "“我會的！等我弄清楚這會對你的靈魂造成多大的影響之後。”"
+
+# game/story/Chapter_M3.rpy:2805
+translate Tchinese king_morris_route_3a7be69c:
+
+    # K frustration "Oh..."
+    K frustration "呃..."
+
+# game/story/Chapter_M3.rpy:2808
+translate Tchinese king_morris_route_8800e847:
+
+    # "Amare takes out various metal pieces and glowing gems from the box and begins to assemble them."
+    "Amare從盒子裡拿出各種金屬片和發光的寶石，開始組裝。"
+
+# game/story/Chapter_M3.rpy:2809
+translate Tchinese king_morris_route_5aefaaf4:
+
+    # "He hums a jolly tune, his whole focus on the machine."
+    "他哼著歡快的曲子，注意力全部都放在機器上。"
+
+# game/story/Chapter_M3.rpy:2812
+translate Tchinese king_morris_route_a369c5ae:
+
+    # "King watches how the lynx works. Tracking the floating hands as they screw parts together. A small flame erupting from the tip of each finger, and proceeding to solder wires into place."
+    "King觀察著猞猁的工作：飄浮的手把零件擰在一起，然後從指尖噴出一小團火焰，把導線焊接到位。"
+
+# game/story/Chapter_M3.rpy:2814
+translate Tchinese king_morris_route_ef4a7ad6:
+
+    # "As the demon works, the room starts to smell of burning metal."
+    "房間裡飄散著金屬燃燒的味道。"
+
+# game/story/Chapter_M3.rpy:2816
+translate Tchinese king_morris_route_1be10f08:
+
+    # Amar "I know you’re watching me, mortal."
+    Amar "“我知道你在看我，凡人。”"
+
+# game/story/Chapter_M3.rpy:2818
+translate Tchinese king_morris_route_20e3f073:
+
+    # K "Sorry, I’m just impressed by how “handy” you are."
+    K "“對不起，只是你的‘巧手’太吸引人了。”"
+
+# game/story/Chapter_M3.rpy:2820
+translate Tchinese king_morris_route_a69f67e8:
+
+    # Amar_nt "Thanks for noticing, they’re still far from being able to beat Fortis in an arm-wrestling match, but I’ll get there."
+    Amar_nt "“謝謝你的關注，它們還遠遠不能在掰手腕比賽中擊敗Fortis，但我會做到的。”"
+
+# game/story/Chapter_M3.rpy:2822
+translate Tchinese king_morris_route_f689a09e:
+
+    # K frustration "No, I meant that you’re good with machines."
+    K frustration "“不，我的意思是你對機器很在行。”"
+
+# game/story/Chapter_M3.rpy:2824
+translate Tchinese king_morris_route_e25efb65:
+
+    # Amar neutral "Of course, I was made with the very purpose of crafting tools and weapons."
+    Amar neutral "“那當然，我生來就是為了製作工具和武器的。”"
+
+# game/story/Chapter_M3.rpy:2825
+translate Tchinese king_morris_route_52de57ec:
+
+    # "Even while he speaks to the alpaca, his translucent hands continue working."
+    "即使在和羊駝說話，他那雙半透明的手也沒有停止工作。"
+
+# game/story/Chapter_M3.rpy:2826
+translate Tchinese king_morris_route_bce18269:
+
+    # Amar "Would you mind getting me my drink in the fridge? I’ve been so busy finding these components I haven’t had time to grab anything from the pantry."
+    Amar "“你能幫我把冰箱裡的飲料拿過來嗎？我忙著尋找部件，半步都離不開。”"
+
+# game/story/Chapter_M3.rpy:2828
+translate Tchinese king_morris_route_23bf2bda:
+
+    # K "Sure..."
+    K "“好...”"
+
+# game/story/Chapter_M3.rpy:2833
+translate Tchinese king_morris_route_cfa70a36:
+
+    # "The alpaca walks over to open the fridge."
+    "羊駝走過去打開冰箱。"
+
+# game/story/Chapter_M3.rpy:2835
+translate Tchinese king_morris_route_23e5c318:
+
+    # Amar "It’s the bottle of lemon soda in the top row, far back."
+    Amar "“最上面那排，最裡面的檸檬汽水。”"
+
+# game/story/Chapter_M3.rpy:2837
+translate Tchinese king_morris_route_78e67f87:
+
+    # "King grabs what he thinks looks like lemon soda. The liquid inside is a deep yellow with bubbles rising up to the lid."
+    "King拿起他認為是檸檬汽水的東西：裡面裝著深黃色的液體，氣泡從瓶底一路上升到瓶口。"
+
+# game/story/Chapter_M3.rpy:2839
+translate Tchinese king_morris_route_2725b942:
+
+    # Amar "Thank you."
+    Amar "“謝啦。”"
+
+# game/story/Chapter_M3.rpy:2846
+translate Tchinese king_morris_route_7aa05af1:
+
+    # "A pair of floating hands holding a blueprint set the paper down and grab the bottle."
+    "漂浮的手放下藍圖，接過汽水。"
+
+# game/story/Chapter_M3.rpy:2847
+translate Tchinese king_morris_route_be084069:
+
+    # K neutral "Ok, that’s really cool. You said you made those hands? That’s incredible!"
+    K neutral "“真酷啊，這是你親手做的吧？太神奇了！”"
+
+# game/story/Chapter_M3.rpy:2850
+translate Tchinese king_morris_route_920c48c5:
+
+    # "Amare puffs out his chest."
+    "Amare挺起胸膛。"
+
+# game/story/Chapter_M3.rpy:2854
+translate Tchinese king_morris_route_451c14d0:
+
+    # Amar "You haven’t seen anything yet."
+    Amar "“你還沒看到更厲害的呢。”"
+
+# game/story/Chapter_M3.rpy:2877
+translate Tchinese king_morris_route_f1cfad2d:
+
+    # "The floating arm holding the drink tosses it back and forth with another arm. Amare picks up some gears and random tools he has lying around and throws it behind him."
+    "漂浮的手把飲料在雙手之間來回扔，同時Amare背身撿起一些齒輪和工具，往天上一丟。"
+
+# game/story/Chapter_M3.rpy:2887
+translate Tchinese king_morris_route_455f6f27:
+
+    # "Acting as if they have a mind of their own, the remaining pairs of arms drop what they’re doing and catch the items."
+    "彷彿有自己的想法一般，其餘的手放下工作，接住那些東西。"
+
+# game/story/Chapter_M3.rpy:2955
+translate Tchinese king_morris_route_c70e6eb5:
+
+    # "The appendages then begin to juggle the things with little effort, catching and throwing each item with pinpoint precision."
+    "隨後毫不費力地擺弄起來，以極高的精度抓住和扔出每一件物品。"
+
+# game/story/Chapter_M3.rpy:2960
+translate Tchinese king_morris_route_00282d52:
+
+    # "King claps enthusiastically."
+    "King熱情地鼓掌。"
+
+# game/story/Chapter_M3.rpy:2962
+translate Tchinese king_morris_route_735afd29:
+
+    # Amar "Thank you, thank you. You should see its earlier prototypes. Though clunkier and reliant on a remote to function, it was amazing they did anything since I used scrap metal and whatever leftover parts I could find during the war."
+    Amar "“謝謝，謝謝。你真該看看它的早期原型，更笨重，而且要靠遙控器來操作。我在戰爭期間使用廢金屬和能找到的廢零件，把它改良成了如今的樣子。”"
+
+# game/story/Chapter_M3.rpy:2964
+translate Tchinese king_morris_route_cc70de29:
+
+    # "While the demon talks, his magical hands continue their juggling act. King wonders ,for a second, if that’s a wise thing to do with the fizzy drink."
+    "惡魔說話時，他的魔法手還在繼續玩著雜耍，雖然King不確定用碳酸飲料做這種事是否明智。"
+
+# game/story/Chapter_M3.rpy:2967
+translate Tchinese king_morris_route_f114f071:
+
+    # K "I would definitely love to see that. Are you like an inventor demon?"
+    K "“我真是大飽眼福了。你...是發明家惡魔之類的嗎？”"
+
+# game/story/Chapter_M3.rpy:2968
+translate Tchinese king_morris_route_d2dd4f06:
+
+    # Amar "Not just an inventor. I am the General of Technologies and Weaponry, the Underworld’s most brilliant demon."
+    Amar "“不僅僅是發明家，我還是技術和武器的將軍，冥界最有才華的惡魔。”"
+
+# game/story/Chapter_M3.rpy:2969
+translate Tchinese king_morris_route_49c803a6:
+
+    # K question "A general like in the army?"
+    K question "“軍隊裡的將軍？”"
+
+# game/story/Chapter_M3.rpy:2970
+translate Tchinese king_morris_route_4ba9ce53:
+
+    # Amar "Yes, we command hordes of other demons under us."
+    Amar "“是的，我們指揮著其他成群的惡魔。”"
+
+# game/story/Chapter_M3.rpy:2971
+translate Tchinese king_morris_route_c4866bca:
+
+    # K "By hordes, how many are we talking about?"
+    K "“成群又是多少？”"
+
+# game/story/Chapter_M3.rpy:2972
+translate Tchinese king_morris_route_7c7f3a46:
+
+    # Amar "Enough to guard and torture souls across the span of time."
+    Amar "“足以在漫長的時間中提供保護和行刑。”"
+
+# game/story/Chapter_M3.rpy:2973
+translate Tchinese king_morris_route_6f2bfb04:
+
+    # K shocked "Wow, I’m struggling to picture so many demons taking orders from [name]."
+    K shocked "“哇，[name]手下居然有這麼多惡魔。”"
+
+# game/story/Chapter_M3.rpy:2976
+translate Tchinese king_morris_route_be4a3f53:
+
+    # Amar sad "We did... at one point in time."
+    Amar sad "“那已經是...過去式了。”"
+
+# game/story/Chapter_M3.rpy:2987
+translate Tchinese king_morris_route_ce02379a:
+
+    # "The hands stop their juggling act and return all the items except the fizzy soda."
+    "手臂停止了雜耍動作，把除了汽水之外的所有東西都放回原位。"
+
+# game/story/Chapter_M3.rpy:2993
+translate Tchinese king_morris_route_8174e1bc:
+
+    # "King catches a glimpse of the lynx biting his lip before continuing to assemble the device."
+    "King瞥見猞猁在繼續組裝設備之前咬了咬嘴唇。"
+
+# game/story/Chapter_M3.rpy:2995
+translate Tchinese king_morris_route_9e249996:
+
+    # "Though the alpaca holds some doubt about getting too close to the demons, King can’t help but sympathise with the demon’s pained expression."
+    "他並不想與惡魔走得太近，卻還是忍不住對那沉痛的表情表示出同情。"
+
+# game/story/Chapter_M3.rpy:2998
+translate Tchinese king_morris_route_6aa47eb1:
+
+    # "Amare picks his head up and looks at King in the eyes."
+    "Amare抬起頭，注視著King的眼睛。"
+
+# game/story/Chapter_M3.rpy:2999
+translate Tchinese king_morris_route_289ef617:
+
+    # Amar "You’re his friend on Earth, right? Tell me, how’s he doing?"
+    Amar "“你是他在人界交到的朋友，對吧？告訴他，他還好嗎？”"
+
+# game/story/Chapter_M3.rpy:3000
+translate Tchinese king_morris_route_a954b444:
+
+    # K "Before I came here, [name] was healthy as can be. He was doing great work at the convenience store and we’d hang out on DD14 whenever we could."
+    K "“[name]很健康，也把便利商店的工作做得很好。只要一有空，我們就會一起玩DD14。”"
+
+# game/story/Chapter_M3.rpy:3001
+translate Tchinese king_morris_route_f7b422ff:
+
+    # "The demon smiles."
+    "惡魔笑了。"
+
+# game/story/Chapter_M3.rpy:3002
+translate Tchinese king_morris_route_dfe69a43:
+
+    # Amar "I’m glad, as long as he’s out there, there’s hope still for this company."
+    Amar "“我很高興聽到這個消息。只要他還在，這個公司就還有希望。”"
+
+# game/story/Chapter_M3.rpy:3009
+translate Tchinese king_morris_route_5f9fa711:
+
+    # "King looks around cautiously."
+    "King小心翼翼地環顧四周。"
+
+# game/story/Chapter_M3.rpy:3011
+translate Tchinese king_morris_route_7912512d:
+
+    # K "Wait, is it ok for us to be talking about [name] so openly? Won’t your boss hear?"
+    K "“等一下，我們公然的談論[name]好嗎？不會被你的老闆聽到吧？”"
+
+# game/story/Chapter_M3.rpy:3013
+translate Tchinese king_morris_route_0dd9faf8:
+
+    # Amar angry "Vendrake is not my boss, and never will be!"
+    Amar angry "“Vendrake不是我的老闆，也永遠不會是！”"
+
+# game/story/Chapter_M3.rpy:3021
+translate Tchinese king_morris_route_b1d5bb8c:
+
+    # Amar "He’s a grumpy old fossil, always lamenting about the old days and has no respect whatsoever for my craft!"
+    Amar "“他就是個冥頑不靈的老古董，一味沉湎於過去，對我的創造沒有一絲尊重！”"
+
+# game/story/Chapter_M3.rpy:3022
+translate Tchinese king_morris_route_3c2e4240:
+
+    # "King’s gaze drifts, he notices the hands are now struggling to uncap the bottle."
+    "King移開了目光，注意到有兩隻手正在奮力打開瓶蓋。"
+
+# game/story/Chapter_M3.rpy:3023
+translate Tchinese king_morris_route_d13de4c2:
+
+    # Amar "If he’s all about how things were better back in the day, then why did he overthrow [name] in the first place?"
+    Amar "“如果他真的這麼喜歡守舊，又為什麼要推翻[name]？”"
+
+# game/story/Chapter_M3.rpy:3038
+translate Tchinese king_morris_route_a9e77d57:
+
+    # Amar "It has always been the law of the Underworld that the only being that can be Demon Lord, is the Demon Lord!"
+    Amar "“魔王與生俱來，這是冥界亙古不變的法律！”"
+
+# game/story/Chapter_M3.rpy:3039
+translate Tchinese king_morris_route_42c00f99:
+
+    # "The hands are violently shaking the bottle, slapping it left and right in their efforts to open it."
+    "那雙手用力搖晃著瓶子，用力左右拍打。"
+
+# game/story/Chapter_M3.rpy:3040
+translate Tchinese king_morris_route_985d420f:
+
+    # K question "Umm..."
+    K question "“呃...”"
+
+# game/story/Chapter_M3.rpy:3041
+translate Tchinese king_morris_route_99bad87b:
+
+    # "King half raises a finger to get the demon’s attention, but Amare continues ranting."
+    "King豎起一根手指想引起惡魔的注意，但剛伸出一半就被Amare的咆哮打斷了。"
+
+# game/story/Chapter_M3.rpy:3042
+translate Tchinese king_morris_route_ac1e7485:
+
+    # Amar "Worst of all, Vendrake had the balls to cut the funding for my lab."
+    Amar "“更糟糕的是，Vendrake竟敢削減我的研究經費。”"
+
+# game/story/Chapter_M3.rpy:3043
+translate Tchinese king_morris_route_cbdad895:
+
+    # Amar "“We didn’t have all this technology during the previous Demon Lord’s reign and we did just fine. All your machines do is make the torturers lazy.”"
+    Amar "“‘在上一個惡魔紀元，我們沒有這些科技也能做的很好。你的機器只會讓惡魔們變得懶惰。’”"
+
+# game/story/Chapter_M3.rpy:3044
+translate Tchinese king_morris_route_fc63f720:
+
+    # "The lynx demon mockingly imitates Vendrake’s gruff voice."
+    "猞猁惡魔誇張地模仿著Vendrake粗啞的嗓音。"
+
+# game/story/Chapter_M3.rpy:3056
+translate Tchinese king_morris_route_81a903f1:
+
+    # Amar smile "Well before I came along, demons were still bashing souls with rocks, and I don’t think anyone wants that!"
+    Amar smile "“在我誕生之前，他們還在用石頭砸靈魂，怎麼可能有惡魔想過這種生活！”"
+
+# game/story/Chapter_M3.rpy:3060
+translate Tchinese king_morris_route_da1b6e4f:
+
+    # "The hands bring the bottle to Amare’s face."
+    "手把瓶子拿到Amare面前。"
+
+# game/story/Chapter_M3.rpy:3061
+translate Tchinese king_morris_route_7081fa64:
+
+    # K shocked "No, don’t—"
+    K shocked "“別-”"
+
+# game/story/Chapter_M3.rpy:3065
+translate Tchinese king_morris_route_362a7d8e:
+
+    # "Too late, the hands uncap the bottle and the so-called “lemon soda” gushes out, dowsing Amare in sticky lemony sweetness."
+    "太遲了，隨著瓶蓋被打開，所謂的“檸檬汽水”噴湧而出，Amare瞬間淹沒在了黏稠的檸檬甜味中。"
+
+# game/story/Chapter_M3.rpy:3066
+translate Tchinese king_morris_route_061d9f33:
+
+    # Amar "REOW!"
+    Amar "“嗷！”"
+
+# game/story/Chapter_M3.rpy:3069
+translate Tchinese king_morris_route_f35b5bf7:
+
+    # "The demon stumbles, swatting furiously at the torrent of soda. As the deluge fades, Amare stands there soaked, the fur on his face all clumped up and droopy."
+    "惡魔踉蹌著，試圖用手去對抗汽水的洪流。當洪水退去時，Amare渾身濕透地站在那裡，臉上的毛結成一綹又一綹。"
+
+# game/story/Chapter_M3.rpy:3076
+translate Tchinese king_morris_route_f26ab492:
+
+    # "King bursts into laughter."
+    "King捧腹大笑起來。"
+
+# game/story/Chapter_M3.rpy:3081
+translate Tchinese king_morris_route_88954822:
+
+    # K_nt "Sorry, sorry, I couldn’t help it. Here."
+    K_nt "“抱歉，抱歉，我沒忍住。這個給你。”"
+
+# game/story/Chapter_M3.rpy:3082
+translate Tchinese king_morris_route_b50b2480:
+
+    # "The alpaca rushes to the counter with the coffee machine and grabs some paper towels."
+    "羊駝拿著咖啡機沖向櫃臺，拿了一些紙巾。"
+
+# game/story/Chapter_M3.rpy:3096
+translate Tchinese king_morris_route_e629e72c:
+
+    # "Amare is quick to take them and dry himself."
+    "Amare接過紙巾，把身體擦乾。"
+
+# game/story/Chapter_M3.rpy:3101
+translate Tchinese king_morris_route_4974e53b:
+
+    # Amar neutral "Well, I best focus on my work. Also, memo to self to improve bottle opening function on the Mystic Arms."
+    Amar neutral "“好了，我要專心組裝了，還有把神器手臂的開瓶功能提上日程。”"
+
+# game/story/Chapter_M3.rpy:3103
+translate Tchinese king_morris_route_0f6721a7:
+
+    # "Another limb jots the memo down in the air before continuing to work."
+    "另一隻手把他的話記在備忘錄中，然後才開始繼續工作。"
+
+# game/story/Chapter_M3.rpy:3106
+translate Tchinese king_morris_route_b4f4ebb3:
+
+    # "King returns to his seat and watches the demon at work."
+    "King回到座位上，看著惡魔忙東忙西。"
+
+# game/story/Chapter_M3.rpy:3114
+translate Tchinese king_morris_route_3c015ee8:
+
+    # Amar "Finished!"
+    Amar "“完成了！”"
+
+# game/story/Chapter_M3.rpy:3117
+translate Tchinese king_morris_route_57b5e1f9:
+
+    # K "Woah, it’s a... microwave?"
+    K "“哇哦，這是一台...微波爐？”"
+
+# game/story/Chapter_M3.rpy:3120
+translate Tchinese king_morris_route_1a47bf9b:
+
+    # "The food generating machine does indeed look like a regular electronic microwave, except that there are more buttons inscribed with odd symbols."
+    "除了上面刻著奇怪符號的按鈕，這台食物產生機看起來的確就是一台普普通通的電子微波爐。"
+
+# game/story/Chapter_M3.rpy:3121
+translate Tchinese king_morris_route_17c59e00:
+
+    # Amar "It may resemble a household microwave, but instead of simply heating food, it generates the entire dish from its core components."
+    Amar "“類似於家用微波爐，但並非加熱食物這麼簡單，而是通過其核心組件產生整道菜餚。”"
+
+# game/story/Chapter_M3.rpy:3122
+translate Tchinese king_morris_route_06220c25:
+
+    # Amar "Allow me to demonstrate."
+    Amar "“請允許我向你示範。”"
+
+# game/story/Chapter_M3.rpy:3124
+translate Tchinese king_morris_route_8193b07d:
+
+    # "Amare punches three buttons and the machine whirrs to life. King can see thick white smoke swirling behind the glass."
+    "Amare連續按下三個按鈕，機器便啟動了。King可以看到玻璃後面有濃濃的白煙在旋轉。"
+
+# game/story/Chapter_M3.rpy:3126
+translate Tchinese king_morris_route_6e99319d:
+
+    # "In less than a minute, the microwave dings."
+    "不到一分鐘，微波爐‘叮’了一聲。"
+
+# game/story/Chapter_M3.rpy:3130
+translate Tchinese king_morris_route_133d80c5:
+
+    # "Amare opens the door and pulls out a bag of chips."
+    "Amare打開門，拿出一袋洋芋片。"
+
+# game/story/Chapter_M3.rpy:3131
+translate Tchinese king_morris_route_83f7c0f4:
+
+    # K shocked "That’s incredible!"
+    K shocked "“這也行？！”"
+
+# game/story/Chapter_M3.rpy:3138
+translate Tchinese king_morris_route_8a7bac63:
+
+    # "Amare opens the bag, grabs a chip, and bites into it."
+    "Amare撕開袋子，拿起洋芋片送進口中。"
+
+# game/story/Chapter_M3.rpy:3144
+translate Tchinese king_morris_route_ff3d7bda:
+
+    # Amar_nt "Try one."
+    Amar_nt "“嚐嚐看。”"
+
+# game/story/Chapter_M3.rpy:3146
+translate Tchinese king_morris_route_5d4a4e01:
+
+    # K sad "Umm..."
+    K sad "“唔...”"
+
+# game/story/Chapter_M3.rpy:3147
+translate Tchinese king_morris_route_83aeec96:
+
+    # Amar "It’s safe. I assure you, it’s like the materials on Earth."
+    Amar "“放心，它和人界的物質一樣安全。”"
+
+# game/story/Chapter_M3.rpy:3151
+translate Tchinese king_morris_route_ca2b8f94:
+
+    # "That does not assure King in the slightest, but he complies nonetheless."
+    "King一點都不相信，但他還是照做了。"
+
+# game/story/Chapter_M3.rpy:3152
+translate Tchinese king_morris_route_50695bfd:
+
+    # K "Ok, here goes..."
+    K "“好吧，我豁出去了...”"
+
+# game/story/Chapter_M3.rpy:3153
+translate Tchinese king_morris_route_fd35afb3:
+
+    # "The alpaca snaps off a crumb of potato chip, bringing it up to his nose."
+    "羊駝把嘴湊到洋芋片前，咬了一小口。"
+
+# game/story/Chapter_M3.rpy:3155
+translate Tchinese king_morris_route_f8d96f10:
+
+    # "It smells like a chip, but does it taste like a chip?"
+    "聞起來像洋芋片，不過吃起來又如何？"
+
+# game/story/Chapter_M3.rpy:3157
+translate Tchinese king_morris_route_680dbc6a:
+
+    # "Slowly, the alpaca puts the artificial morsel in his mouth and swallows."
+    "羊駝慢慢地把人造食物嚥下肚。"
+
+# game/story/Chapter_M3.rpy:3158
+translate Tchinese king_morris_route_0ac775cc:
+
+    # K serious "It’s... kinda bland."
+    K serious "“有點...淡。”"
+
+# game/story/Chapter_M3.rpy:3161
+translate Tchinese king_morris_route_9cddb72f:
+
+    # Amar sad "Isn’t this how your chips usually are?"
+    Amar sad "“你們的洋芋片不是這樣子的嗎？”"
+
+# game/story/Chapter_M3.rpy:3166
+translate Tchinese king_morris_route_75edd726:
+
+    # "Kings turns his head at the sound of the door opening in front of him."
+    "Kings剛想回答，門口就傳來了開門聲。"
+
+# game/story/Chapter_M3.rpy:3167
+translate Tchinese king_morris_route_fda188e1:
+
+    # "Fortis steps through with several books in hand."
+    "原來是Fortis，他手裡拿著幾本書。"
+
+# game/story/Chapter_M3.rpy:3173
+translate Tchinese king_morris_route_981cea35:
+
+    # Fort "These are all the books I could find."
+    Fort "“這是我能找到的所有書了。”"
+
+# game/story/Chapter_M3.rpy:3175
+translate Tchinese king_morris_route_0c7b3f38:
+
+    # "He walks over and places the books on an unoccupied chair."
+    "他走過去，把書放在一張空椅子上。"
+
+# game/story/Chapter_M3.rpy:3180
+translate Tchinese king_morris_route_c7f7a20a:
+
+    # Amar "Fortis, come try these chips I generated."
+    Amar "“Fortis，快來嚐嚐我做的洋芋片。”"
+
+# game/story/Chapter_M3.rpy:3190
+translate Tchinese king_morris_route_9dfac500:
+
+    # "Fortis takes a bag and devours it in one bite."
+    "Fortis順手拿起一袋，一口就吞了下去。"
+
+# game/story/Chapter_M3.rpy:3194
+translate Tchinese king_morris_route_6aa93260:
+
+    # Fort "Could use some chili and peppers, but they taste like any other chip."
+    Fort "“吃起來跟其他洋芋片沒什麼區別，要是有胡椒和辣椒粉就好了。”"
+
+# game/story/Chapter_M3.rpy:3197
+translate Tchinese king_morris_route_d3c1e5f8:
+
+    # "King rests his hands on his hips."
+    "King兩手叉腰。"
+
+# game/story/Chapter_M3.rpy:3199
+translate Tchinese king_morris_route_f3ce2620:
+
+    # K "Hang on, let me try another."
+    K "“等等，讓我再試一次。”"
+
+# game/story/Chapter_M3.rpy:3200
+translate Tchinese king_morris_route_465d930b:
+
+    # "He takes a whole chip this time, and eats it. It’s flavourless, and distinctly chewy."
+    "這次他吃了一整片，味道寡淡，而且很有嚼勁。"
+
+# game/story/Chapter_M3.rpy:3201
+translate Tchinese king_morris_route_8474ea29:
+
+    # K serious "Nope, it’s not that good. Tastes like I’m eating cardboard."
+    K serious "“果然不行，味道堪比硬紙板。”"
+
+# game/story/Chapter_M3.rpy:3202
+translate Tchinese king_morris_route_383168cc:
+
+    # Amar "Fine, let’s generate something else. Observe, mortal. I’ll teach you how to use the machine at the same time."
+    Amar "“好吧，我們來生成一些別的東西。仔細觀察，凡人，我會教你如何使用這台機器。”"
+
+# game/story/Chapter_M3.rpy:3204
+translate Tchinese king_morris_route_e380777b:
+
+    # "King nods and follows along. After a brief explanation, Amare generates a plate of spaghetti bolognaise."
+    "King點點頭，跟了過去。在簡短的解釋之後，Amare做了一盤義大利肉醬麵。"
+
+# game/story/Chapter_M3.rpy:3215
+translate Tchinese king_morris_route_1e873bba:
+
+    # Amar_nt "Looks fine to me."
+    Amar_nt "“看起來還不錯。”"
+
+# game/story/Chapter_M3.rpy:3218
+translate Tchinese king_morris_route_9d3872af:
+
+    # K "It’s the taste that matters more."
+    K "“味道更重要。”"
+
+# game/story/Chapter_M3.rpy:3223
+translate Tchinese king_morris_route_e46ffa13:
+
+    # "The alpaca grabs a few forks and washes them before handing them out."
+    "羊駝找到幾把叉子，洗乾淨後分發出去。"
+
+# game/story/Chapter_M3.rpy:3226
+translate Tchinese king_morris_route_376bb688:
+
+    # K "Ok, let’s try it together."
+    K "“很好，咱們開動吧。”"
+
+# game/story/Chapter_M3.rpy:3230
+translate Tchinese king_morris_route_fcf0fa7c:
+
+    # "Each of them takes a bite of the generated meal."
+    "他們每個人都吃了一口生成的食物。"
+
+# game/story/Chapter_M3.rpy:3234
+translate Tchinese king_morris_route_e8b39df2:
+
+    # "King winces. The bolognaise sauce is bitter and the pasta overcooked to mush. The dish has the undesirable consistency of baby food.."
+    "King不禁眉頭緊鎖。肉醬發苦，麵條也煮得太爛了，整道菜呈現出一種嬰兒食品的黏稠感..."
+
+# game/story/Chapter_M3.rpy:3235
+translate Tchinese king_morris_route_4c3f77ab:
+
+    # "In contrast, the demon generals shrug to each other before fervently slurping down the noodles."
+    "相比之下，將軍們只是聳聳肩，然後狼吞虎咽地吃下麵條。"
+
+# game/story/Chapter_M3.rpy:3236
+translate Tchinese king_morris_route_50275c7a:
+
+    # K "Honey, R.I.P. to your taste buds if you think that’s good."
+    K "“你們的味覺簡直沒救了。”"
+
+# game/story/Chapter_M3.rpy:3237
+translate Tchinese king_morris_route_2f302d38:
+
+    # Fort neutral1 "It tastes like most of what’s in the Underworld."
+    Fort neutral1 "“地獄裡大部分吃的都這個味啊。”"
+
+# game/story/Chapter_M3.rpy:3238
+translate Tchinese king_morris_route_c134a655:
+
+    # K shocked "That’s terrible! How can you live like that?"
+    K shocked "“太慘了！你們這都能忍？”"
+
+# game/story/Chapter_M3.rpy:3239
+translate Tchinese king_morris_route_53ad56d9:
+
+    # Amar "We’re demons. Our bodies don’t require material sustenance to maintain function, we just do it for recreational purposes.The only demon who cared about how food tasted was [name]."
+    Amar "“我們是惡魔，不需要用物質來保持身體機能，我們更在乎享樂。只有[name]會關心食物的味道。”"
+
+# game/story/Chapter_M3.rpy:3240
+translate Tchinese king_morris_route_ae8b06f5:
+
+    # Amar sad "Huh..."
+    Amar sad "“唉...”"
+
+# game/story/Chapter_M3.rpy:3241
+translate Tchinese king_morris_route_633a062a:
+
+    # Fort confused "What’s up?"
+    Fort confused "“怎麼了？”"
+
+# game/story/Chapter_M3.rpy:3242
+translate Tchinese king_morris_route_9a428cb6:
+
+    # Amar "Perhaps, that’s why he stopped using my machines."
+    Amar "“也許這就是他沒有再使用我的機器的原因了。”"
+
+# game/story/Chapter_M3.rpy:3244
+translate Tchinese king_morris_route_d8ccb988:
+
+    # K serious "Look, this is unacceptable. Let me try some raw ingredients."
+    K serious "“這我不能接受，讓我嚐嚐食材。”"
+
+# game/story/Chapter_M3.rpy:3257
+translate Tchinese king_morris_route_ee7be2fa:
+
+    # "King generates some tomatoes and carrots. He takes a bite out of each, nodding in approval of their taste."
+    "King生產了一些番茄和胡蘿蔔，並每個都咬了一口，點頭表示讚許。"
+
+# game/story/Chapter_M3.rpy:3260
+translate Tchinese king_morris_route_889bdf6b:
+
+    # K "Ok, so raw ingredients are fine. That means, the machine just can’t handle creating a proper dish out of them."
+    K "“所以原料是好的，這意味著這台機器的合成方式有問題。”"
+
+# game/story/Chapter_M3.rpy:3272
+translate Tchinese king_morris_route_769d6324:
+
+    # "King heads for the cabinets where the pots, pans, and portable gas stoves are kept."
+    "King走向放著鍋碗瓢盆和攜帶式燃氣爐子的灶台。"
+
+# game/story/Chapter_M3.rpy:3277
+translate Tchinese king_morris_route_4837f3c4:
+
+    # "Invigorated by his passion for cooking, King arranges the tools of the culinary trade on an unoccupied table."
+    "出於對烹飪的熱愛，King把會用到的工具逐一擺放整齊。"
+
+# game/story/Chapter_M3.rpy:3278
+translate Tchinese king_morris_route_3acf0c44:
+
+    # "He then proceeds to generate a myriad of ingredients, spices, and condiments he knows by heart."
+    "然後，他開始源源不斷地生產那些早已爛熟於心的食材、香料和調味品。"
+
+# game/story/Chapter_M3.rpy:3279
+translate Tchinese king_morris_route_a6975990:
+
+    # "King starts washing, prepping, and cooking the ingredients into his own spaghetti bolognaise."
+    "King清洗、準備食材，並將其烹飪成自己滿意的義大利肉醬麵。"
+
+# game/story/Chapter_M3.rpy:3285
+translate Tchinese king_morris_route_3657d087:
+
+    # "All the while the two demons sit far back, observing him, though Amare looks more keenly as he steals a few pictures and takes a few notes."
+    "那兩個惡魔一直坐在後面很遠的地方觀察著他，Amare不時偷拍幾張照片，還做了幾次筆記。"
+
+# game/story/Chapter_M3.rpy:3286
+translate Tchinese king_morris_route_091f3684:
+
+    # Amar smile "Fascinating, look at him go, and all because of a plate of flavoured wheat."
+    Amar smile "“多有趣啊，瞧他的動作，這一切都始於一盤調味小麥。”"
+
+# game/story/Chapter_M3.rpy:3287
+translate Tchinese king_morris_route_d9624bcf:
+
+    # Fort "I don’t get it. It’s just fuel for the body."
+    Fort "“不懂，食物只是身體的燃料吧。”"
+
+# game/story/Chapter_M3.rpy:3288
+translate Tchinese king_morris_route_cde2fb59:
+
+    # Amar sad "Perhaps there’s something we aren’t getting."
+    Amar sad "“也許這是我們所有人都未曾涉及的領域。”"
+
+# game/story/Chapter_M3.rpy:3290
+translate Tchinese king_morris_route_8166535e:
+
+    # "In almost no time at all, the pantry is filled with the aroma of simmering tomatoes. King makes two separate bolognaise dishes, one that’s vegetarian for himself, and another with meat for the two demons."
+    "很快，茶水間裡就充滿了燉番茄的香氣。King做了兩種不同的醬，一種是給素食的他吃的，另一種是給兩個惡魔的。"
+
+# game/story/Chapter_M3.rpy:3293
+translate Tchinese king_morris_route_8da6c562:
+
+    # "He plates the dishes and presents them upon the demons’ table."
+    "他把菜餚端過來，放在惡魔的桌子上"
+
+# game/story/Chapter_M3.rpy:3298
+translate Tchinese king_morris_route_a701463e:
+
+    # K "Here you go, spaghetti bolognese."
+    K "“大功告成，義大利肉醬麵。”"
+
+# game/story/Chapter_M3.rpy:3299
+translate Tchinese king_morris_route_aa24651c:
+
+    # K "I used bacon strips instead of pancetta."
+    K "““我用培根條代替了鹹肉碎。”"
+
+# game/story/Chapter_M3.rpy:3302
+translate Tchinese king_morris_route_3d88bf3f:
+
+    # "Fortis and Amare bend over to look at the dish closely. The food’s hot steamy hands reach out to brush the demons’ curious noses."
+    "Fortis和Amare彎腰仔細打量著這道菜。食物伸出熱氣騰騰的手，挑動惡魔好奇的鼻子。”"
+
+# game/story/Chapter_M3.rpy:3303
+translate Tchinese king_morris_route_37432d49:
+
+    # K "Bon appétit!"
+    K "“Bon appétit（法語：吃得開心！）”"
+
+# game/story/Chapter_M3.rpy:3304
+translate Tchinese king_morris_route_1e6233dd:
+
+    # Fort "Let’s see what all the fuss is about..."
+    Fort "“讓我瞧瞧這有什麼了不起的...”"
+
+# game/story/Chapter_M3.rpy:3305
+translate Tchinese king_morris_route_b49a6a1f:
+
+    # "Fortis sits back up and carries his plate by the edge. Twisting his head from side to side as he observes the plate."
+    "Fortis停止了腰板，端起盤子，頭從一邊轉到另一邊。"
+
+# game/story/Chapter_M3.rpy:3306
+translate Tchinese king_morris_route_edd7d00f:
+
+    # Fort "I don’t see what’s so special about this."
+    Fort "“看不出特別之處來。”"
+
+# game/story/Chapter_M3.rpy:3307
+translate Tchinese king_morris_route_0cfe23ad:
+
+    # Amar "Yes, it looks very much like what the machine made, however more palatable to the eye."
+    Amar "“是的，和機器製造的東西沒什麼兩樣，不過更加賞心悅目。”"
+
+# game/story/Chapter_M3.rpy:3308
+translate Tchinese king_morris_route_0be52a10:
+
+    # "Amare picks up his plate."
+    "Amare端起自己的盤子。"
+
+# game/story/Chapter_M3.rpy:3309
+translate Tchinese king_morris_route_4def2dc1:
+
+    # Amar "I detect the smell of some kind of cheese."
+    Amar "“我聞到了某種乳酪的味道。”"
+
+# game/story/Chapter_M3.rpy:3310
+translate Tchinese king_morris_route_b8d19a10:
+
+    # K "Parmigiano Reggiano, well, at least I hope the machine was able to replicate that. Go on you two, eat it while it’s hot."
+    K "“嗯，帕爾馬起司，希望機器至少不要把它複製錯了。好啦你們兩個，快趁熱吃吧。”"
+
+# game/story/Chapter_M3.rpy:3315
+translate Tchinese king_morris_route_7951b63a:
+
+    # "Fortis and Amare glance at each other then back at the food."
+    "Fortis和Amare對視了一眼，又回頭看了看食物。"
+
+# game/story/Chapter_M3.rpy:3318
+translate Tchinese king_morris_route_2736e540:
+
+    # "The two pick up their forks and take a bite out of the meal."
+    "二人拿起叉子，吃了一口。"
+
+# game/story/Chapter_M3.rpy:3319
+translate Tchinese king_morris_route_71139dce:
+
+    # Fort shocked "HMM!"
+    Fort shocked "“嗯！”"
+
+# game/story/Chapter_M3.rpy:3320
+translate Tchinese king_morris_route_7efee2c7:
+
+    # Amar shocked "This is—"
+    Amar shocked "“這是-”"
+
+# game/story/Chapter_M3.rpy:3327
+translate Tchinese king_morris_route_9d59465d:
+
+    # Fort pose4 "DELICIOUS!"
+    Fort pose4 "“{b}太好吃啦！{/b}”"
+
+# game/story/Chapter_M3.rpy:3332
+translate Tchinese king_morris_route_b589881a:
+
+    # Fort "It’s... like nothing I’ve ever tasted before."
+    Fort "“我...我還是頭一次吃到這種味道。”"
+
+# game/story/Chapter_M3.rpy:3334
+translate Tchinese king_morris_route_d8563bde:
+
+    # Amar "The pasta is a bit firm, yet easy to chew. The tomato sauce is tangy, salty, and a little sweet. Then the bacon is hearty, and the oil brings the flavours of the dish together! "
+    Amar "“麵條硬了些，但很有嚼勁。濃郁的番茄醬鹹甜適中，培根的味道富有層次，融合了整道菜的油更是點睛之筆！”"
+
+# game/story/Chapter_M3.rpy:3335
+translate Tchinese king_morris_route_743110e9:
+
+    # Amar "None of those snacks [name] asked for before ever reached this level of tastiness!"
+    Amar "“[name]之前點的零食，沒有一樣能達到這般境界！”"
+
+# game/story/Chapter_M3.rpy:3341
+translate Tchinese king_morris_route_dfc82bac:
+
+    # Amar angry "I must know more! King, stuff me with your noodle!"
+    Amar angry "“我必須知道更多！King，用你的麵條塞滿我吧！”"
+
+# game/story/Chapter_M3.rpy:3347
+translate Tchinese king_morris_route_0c75ad68:
+
+    # K "Aww, you guys are too kind. I made a lot, so dig in!"
+    K "“啊~你們別客氣，我做了很多呢，加油吃噢！”"
+
+# game/story/Chapter_M3.rpy:3360
+translate Tchinese king_morris_route_3e72fd64:
+
+    # "As the demons eat, King turns his attention to his plate. Though he misses eating with [name]{w=2}{nw}"
+    "看著惡魔們大快朵頤的模樣，King回想起了自己和[name]一起用餐的時光{w=2}{nw}"
+
+# game/story/Chapter_M3.rpy:3362
+translate Tchinese king_morris_route_3cc961a7:
+
+    # extend ", for now, this little moment is enough to keep him going."
+    extend "，這就足夠讓他在這個地獄裡堅持下去了。"
+
+# game/story/Chapter_M3.rpy:3371
+translate Tchinese king_morris_route_29b6d1ad:
+
+    # Amar "Ahh... I’m so full. Meow~"
+    Amar "“啊...我吃飽了。喵~”"
+
+# game/story/Chapter_M3.rpy:3373
+translate Tchinese king_morris_route_1aae14e3:
+
+    # "The demon sinks deep into his seat. Gentle purring noises emanate from his chest."
+    "惡魔癱在座位上，發出輕柔的咕嚕聲。"
+
+# game/story/Chapter_M3.rpy:3375
+translate Tchinese king_morris_route_f8bc8284:
+
+    # Fort "Hmph— I guess it was good... for mortal cooking."
+    Fort "“哼，凡人的烹飪水平...還行吧。”"
+
+# game/story/Chapter_M3.rpy:3377
+translate Tchinese king_morris_route_692ff57b:
+
+    # K frustration "Just good? I remember someone demanding seconds, then thirds."
+    K frustration "“只是還行嗎？我怎麼記得某人連吃了三大盤呢？”"
+
+# game/story/Chapter_M3.rpy:3378
+translate Tchinese king_morris_route_b7db7540:
+
+    # Fort shocked "Tha-That was just me confirming there was nothing suspicious in it! I’ll admit the food was decent, but the spices were weak."
+    Fort shocked "“我-我只是為了確保你沒有在這道菜裡動手腳！我承認很好吃，但香料太淡了。”"
+
+# game/story/Chapter_M3.rpy:3379
+translate Tchinese king_morris_route_121f75b7:
+
+    # K question "Exsqueeze me? I use the same spices I use back home."
+    K question "“什麼？這香料明明和我在家裡用的一樣。”"
+
+# game/story/Chapter_M3.rpy:3380
+translate Tchinese king_morris_route_7badeaa4:
+
+    # Fort pose2 neutral1 "Yeah I suppose by mortal standards it’s good, but the spices I make will kick your little tooshie."
+    Fort pose2 neutral1 "“以凡人的標準來看是不錯，不過我做的香料可是會香掉你們的鼻子的。”"
+
+# game/story/Chapter_M3.rpy:3381
+translate Tchinese king_morris_route_5e74c4c9:
+
+    # "King raises a curious eyebrow at the thought of spices made in the Underworld."
+    "一想到冥界產的香料，King好奇地豎起了眉毛。"
+
+# game/story/Chapter_M3.rpy:3383
+translate Tchinese king_morris_route_efafadd3:
+
+    # K serious "Well, I’d definitely do better if I was back in my own kitchen, you know, on Earth?"
+    K serious "“如果回到自己的廚房，我肯定能做得更好。我是指地球上，你懂的。”"
+
+# game/story/Chapter_M3.rpy:3384
+translate Tchinese king_morris_route_e9e24138:
+
+    # "An idea comes to mind, King considers using this moment to strike up a bargain."
+    "King的腦海中浮現出一個想法，他打算藉此契機和他們做一筆交易。"
+
+# game/story/Chapter_M3.rpy:3386
+translate Tchinese king_morris_route_50d2cdac:
+
+    # K "How about this, why don’t you guys help me get home, and I promise I’ll cook for you guys whenever you need it."
+    K "“不如這樣，你們幫我回家，我幫你們做飯，隨叫隨到。”"
+
+# game/story/Chapter_M3.rpy:3387
+translate Tchinese king_morris_route_b59613dc:
+
+    # Amar "I’m in."
+    Amar "“算我一個。”"
+
+# game/story/Chapter_M3.rpy:3390
+translate Tchinese king_morris_route_192a092a:
+
+    # "Amare raises his right hand."
+    "Amare舉起右手。"
+
+# game/story/Chapter_M3.rpy:3391
+translate Tchinese king_morris_route_39e00f8c:
+
+    # Amar "If it means I can experience the dishes mortals have been fighting over for the past century, the pancake and the waffle."
+    Amar "“這意味著我可以親自體驗困擾了人類一個多世紀的疑問：煎餅和華夫餅哪個更好吃。”"
+
+# game/story/Chapter_M3.rpy:3394
+translate Tchinese king_morris_route_8928f2e6:
+
+    # "Fortis puts his hand on Amare’s and forces the feline to lower it."
+    "Fortis握住Amare的手，強迫它放下。"
+
+# game/story/Chapter_M3.rpy:3397
+translate Tchinese king_morris_route_71227065:
+
+    # Fort "You will do no such thing. Not only is it going against our orders, but I bet you don’t have a single idea how to get him back on Earth without losing a limb or his life."
+    Fort "“你不能這麼做，這不僅違反了命令，而且我敢說，你根本沒把握把他毫髮無傷的送回去：輕則斷肢，重則斷命。”"
+
+# game/story/Chapter_M3.rpy:3399
+translate Tchinese king_morris_route_6b78b2a0:
+
+    # "Amare raises a finger, he opens his mouth but no words come out."
+    "Amare舉起一根手指，張開嘴巴，卻沒有說話。"
+
+# game/story/Chapter_M3.rpy:3401
+translate Tchinese king_morris_route_e65aca4d:
+
+    # Fort "Exactly. Just do as you’re told Amare, there’s no use in risking your job over this."
+    Fort "“就是這樣，按上頭的意思去做，Amare，沒有必要拿自己的工作去冒險。”"
+
+# game/story/Chapter_M3.rpy:3402
+translate Tchinese king_morris_route_b481d53e:
+
+    # Amar "But..."
+    Amar "“可是...”"
+
+# game/story/Chapter_M3.rpy:3404
+translate Tchinese king_morris_route_97d2aadb:
+
+    # "King wishes he could say something, but he fears making things harder for Amare."
+    "King希望他能說點什麼，卻又擔心這會讓Amare的處境變得更難堪。"
+
+# game/story/Chapter_M3.rpy:3406
+translate Tchinese king_morris_route_490cf6ac:
+
+    # "Fortis turns to King."
+    "Fortis轉向King。"
+
+# game/story/Chapter_M3.rpy:3407
+translate Tchinese king_morris_route_3803b276:
+
+    # Fort "You, no more talk of escaping. I suggest you get comfortable. Take your books and food, and go wild."
+    Fort "“還有你，不許再提逃跑的事了。我建議你給自己找點樂子，多讀書和做飯。”"
+
+# game/story/Chapter_M3.rpy:3408
+translate Tchinese king_morris_route_b952bd19:
+
+    # K @ question "You really think I’ll stop just because you tell me so?"
+    K @ question "“你真以為我會乖乖聽話嗎？”"
+
+# game/story/Chapter_M3.rpy:3409
+translate Tchinese king_morris_route_fecc5600:
+
+    # Fort "It’s just friendly advice. The longer you try to fight, the greater the pain when you realise you can’t do anything about your situation."
+    Fort "“這只是個友善的建議。你越是反抗，就越能認識到自己無能為力，從而更加痛苦。”"
+
+# game/story/Chapter_M3.rpy:3411
+translate Tchinese king_morris_route_151b3d3c:
+
+    # "King sighs. There was some truth in the demon’s words."
+    "King嘆了口氣，這個惡魔的話不無道理。"
+
+# game/story/Chapter_M3.rpy:3413
+translate Tchinese king_morris_route_e5449627:
+
+    # "The tension in the air is thick. No one is looking at each other."
+    "空氣中劍拔弩張，誰也沒有直視對方。"
+
+# game/story/Chapter_M3.rpy:3414
+translate Tchinese king_morris_route_fd03a72b:
+
+    # "Fortis is the first to speak up."
+    "Fortis率先打破僵局。"
+
+# game/story/Chapter_M3.rpy:3416
+translate Tchinese king_morris_route_97ba6902:
+
+    # Fort confused "We should go, we have work to do."
+    Fort confused "“我們得走了，還有工作要忙。”"
+
+# game/story/Chapter_M3.rpy:3420
+translate Tchinese king_morris_route_946a6046:
+
+    # "He yanks Amare by the collar of his shirt and throws the lynx over his shoulder."
+    "他拽著Amare的衣領，把猞猁扛到自己的肩膀上。"
+
+# game/story/Chapter_M3.rpy:3424
+translate Tchinese king_morris_route_c7667c30:
+
+    # Amar "Wait... wait! If we don’t help I won’t get to study King’s food!"
+    Amar "“等...等一下！如果不幫他，我就沒辦法研究他的食物了！”"
+
+# game/story/Chapter_M3.rpy:3426
+translate Tchinese king_morris_route_36e36b81:
+
+    # K neutral "That’s ok Amare, I’ll cook for you anytime you come by, even for you Fortis."
+    K neutral "“沒關係的，Amare，只要你想，我隨時都能做給你吃。你也一樣，Fortis。”"
+
+# game/story/Chapter_M3.rpy:3428
+translate Tchinese king_morris_route_ae8fae19:
+
+    # Fort "Hmph."
+    Fort "“哼。”"
+
+# game/story/Chapter_M3.rpy:3430
+translate Tchinese king_morris_route_851f83e0:
+
+    # Amar neutral "Yes! The research continues!"
+    Amar neutral "“太好了！我可以繼續研究！”"
+
+# game/story/Chapter_M3.rpy:3436
+translate Tchinese king_morris_route_fc6a7271:
+
+    # "The demons leave through the pantry door, locking it from the other side."
+    "惡魔們從茶水間的大門離開，從另一邊鎖上門。"
+
+# game/story/Chapter_M3.rpy:3440
+translate Tchinese king_morris_route_460c1ea4:
+
+    # "King turns his attention to dishes littering the room."
+    "King把注意力投向房間裡胡亂擺放的盤子。"
+
+# game/story/Chapter_M3.rpy:3442
+translate Tchinese king_morris_route_707b5ab7:
+
+    # K "They could have at least stayed to clean up."
+    K "“他們起碼打掃完再走吧。”"
+
+# game/story/Chapter_M3.rpy:3444
+translate Tchinese king_morris_route_51680d4e:
+
+    # "He brings the mess to the nearby sink and begins scrubbing. His thoughts turn to his escape plan."
+    "他把髒盤子拿到附近的水池邊，一邊沖洗，一邊構思自己的逃跑計劃。"
+
+# game/story/Chapter_M3.rpy:3446
+translate Tchinese king_morris_route_445d99f4:
+
+    # "Looking at the soapy plate in hand, his mind runs simulations on how he can escape, and they all lead back to the same idea, getting Fortis’ key."
+    "看著手裡的肥皂，他開始在腦海裡模擬各種過程，而所有過程不外乎指向同一點：就是拿到Fortis的鑰匙。"
+
+# game/story/Chapter_M3.rpy:3447
+translate Tchinese king_morris_route_886db7ba:
+
+    # "A sudden realisation then derails his train of thought."
+    "這頓悟打亂了他的思路。"
+
+# game/story/Chapter_M3.rpy:3448
+translate Tchinese king_morris_route_b8c32c03:
+
+    # K question "Wait, even if I get the key, where do I go?"
+    K question "“慢著，就算拿到了鑰匙，我又該去哪啊？”"
+
+# game/story/Chapter_M3.rpy:3450
+translate Tchinese king_morris_route_e80f5281:
+
+    # "He sighs."
+    "他嘆了口氣。"
+
+# game/story/Chapter_M3.rpy:3451
+translate Tchinese king_morris_route_9182c6c3:
+
+    # K "No, there should still be a way. I just need to find out more about this place."
+    K "“不，還不能放棄，我需要多了解這個地方才行。”"
+
+# game/story/Chapter_M3.rpy:3453
+translate Tchinese king_morris_route_16dc1b8a:
+
+    # "He grips the dripping wet plate in his hands tightly. With one deep breath he refocuses on his chore."
+    "他緊緊拿著手裡濕漉漉的盤子，深吸一口氣，重新投身於家務事中。"
+
+# game/story/Chapter_M3.rpy:3457
+translate Tchinese king_morris_route_5b3e031b:
+
+    # "Upon finishing the dishes, King pulls up a chair and looks through the pile of reading materials Fortis left him with."
+    "洗完盤子後，King拉過來一把椅子，翻閱起Fortis留給他的那堆閱讀材料。"
+
+# game/story/Chapter_M3.rpy:3459
+translate Tchinese king_morris_route_2655de51:
+
+    # K "What are the chances all the answers to my problems are in these magazines? Well, at the very least it would be a decent distraction from all this stress."
+    K "“這些雜誌恰好有我需要的全部答案的可能性有多大？算了，能幫我分散一下注意力也好。”"
+
+# game/story/Chapter_M3.rpy:3460
+translate Tchinese king_morris_route_6b96ce5f:
+
+    # "He pulls out a random magazine."
+    "他隨便抽出一本。"
+
+# game/story/Chapter_M3.rpy:3461
+translate Tchinese king_morris_route_ff2da0f7:
+
+    # K neutral "Muscle Universe, 1993. Ooh, an article on the top ten muscle building tofu recipes, don’t mind if I do."
+    K neutral "“《肌肉宇宙》，1993年著，記載了十大增肌豆腐食譜。就從你看起吧。”"
+
+translate Tchinese strings:
+
+    # game/story/Chapter_M3.rpy:13
+    old "Secrets"
+    new "秘密"
 

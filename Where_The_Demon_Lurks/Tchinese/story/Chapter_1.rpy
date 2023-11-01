@@ -1,6 +1,4 @@
-# TODO: Translation updated at 2023-03-15 21:27
-
-# game/story/Chapter_1.rpy:15
+﻿# game/story/Chapter_1.rpy:15
 translate Tchinese chapter_1_acfa1333:
 
     # "Ding, dong, bing bong~!"
@@ -6845,5 +6843,17 @@ translate Tchinese strings:
 
     # game/story/Chapter_1.rpy:4389
     old "So this silver-tongued piggy is an exorcist, huh? A crooked one at that if how he acted in the shop is any indicator of how he conducts his work. Not that I blame him, exorcists are a dying breed ever since Paw legislated strict restrictions on demonic influences here on Earth. If he were to find out what I really am, I doubt he'd just let me leave town."
-    new "所以這頭伶牙俐齒的小猪是個驅魔師？\n要不是他在超商露了一手，我還以爲他是江湖騙子呢。\n倒也不是不能理解，自從老爸頒布了法律，嚴格限制惡魔在人界的活動後，驅魔師這個職業就瀕臨滅绝了。\n如果他發現我的真實身份，怕不是會直接把我趕出鎮子吧。"
+    new "所以這頭伶牙俐齒的小猪是個驅魔師？\n要不是他在超商露了一手，我還以爲他是江湖騙子呢。\n倒也不是不能理解，自從老爸頒布了法律，嚴格限制惡魔在人界的活動後，驅魔師這個職業就瀕臨滅绝了。\n如果他發現我的真實身份，怕不是會直接把我趕出鎮子吧。"# TODO: Translation updated at 2023-11-01 18:42
+
+# game/story/Chapter_1.rpy:384
+translate Tchinese chapter_1_3549856c:
+
+    # "He flicks his brightly coloured pompadour and bats his long lush lashes at you."
+    "他賣弄著自己五顏六色的飛機頭，纖長的睫毛襯得雙眼含情脈脈。"
+
+translate Tchinese strings:
+
+    # game/story/Chapter_1.rpy:2417
+    old "Lucian and Morris"
+    new "Lucian和Morris"
 

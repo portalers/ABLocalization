@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-03-01 22:01
+﻿# TODO: Translation updated at 2023-03-01 22:01
 
 translate Tchinese strings:
 
@@ -24,17 +24,16 @@ translate Tchinese strings:
 
     # game/scripts/discord.rpy:55
     old "prologue_rpc"
-    new "prologue_rpc"
+    new "序章_rpc"
 
     # game/scripts/discord.rpy:55
     old "chapter1_rpc"
-    new "chapter1_rpc"
+    new "第一章_rpc"
 
     # game/scripts/discord.rpy:55
     old "chapter2_rpc"
-    new "chapter2_rpc"
+    new "第二章_rpc"
 
     # game/scripts/discord.rpy:55
     old "chapter3_rpc"
-    new "chapter3_rpc"
-
+    new "第三章_rpc"

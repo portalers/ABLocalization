@@ -1,6 +1,4 @@
-# TODO: Translation updated at 2023-03-15 21:27
-
-# game/story/chapter_King.rpy:4
+﻿# game/story/chapter_King.rpy:4
 translate Tchinese a_room_fit_for_king_a08be6b8:
 
     # "It seems that you have seen this part of King's story before. It'd be great if you want to see it again, but it could be a chore if you've read this many times. So, would you like to skip this scene?{nw}{done}"
@@ -1079,4 +1077,3 @@ translate Tchinese strings:
     # game/story/chapter_King.rpy:5
     old "It seems that you have seen this part of King's story before. It'd be great if you want to see it again, but it could be a chore if you've read this many times. So, would you like to skip this scene?{fast}"
     new "似乎你已經觀看過King的這部分故事了。重溫一下是不錯，但同一段內容讀太多遍也是個苦差事。那麼，要跳過這一幕嗎？{fast}"
-

@@ -1,6 +1,4 @@
-# TODO: Translation updated at 2023-03-15 21:27
-
-# game/story/chapter_M2.rpy:5
+﻿# game/story/chapter_M2.rpy:5
 translate Tchinese chapter_M2_5e9e11b2:
 
     # "It feels like time slows to a crawl as Morris follows you home. Your mind is unable to focus on anything but him watching silently."
@@ -4451,5 +4449,29 @@ translate Tchinese strings:
 
     # game/story/chapter_M2.rpy:2104
     old "Morris is... Morris is... pretty ok, I guess? Sure he might wipe me out on the spot if he ever finds out what I really am, but he's been nothing but helpful since we teamed up. I'm not sure how long he has had that bandaged hand though, I think he should get it checked, it kind of smells. Still, I'm glad he helped out with King and his parents. I wouldn't have been able to even think about that part of his life on my own. Guess you can't just get transported into another dimension and expect nothing to change at home. Note to self though; watch out for Morris' real power level, the guy's stronger than he looks."
-    new "Morris……Morris他是一個……好人？我們才認識短短幾天，他就幫了我大忙，雖然他知道我的真實身份後八成會當場滅了我吧。説起來他的手包扎多久了？都有味道了，他真的該去醫院看看，不過我還是很高興他幫助了King和King的父母。而最神秘的就屬他的過去，我甚至想像不出他都經歷了什麽，看來就算被平白無故傳送到另一個世界，也不能宅在家無所事事呀。注意：當心Morris真正的實力，這野豬不可貌相。"
+    new "Morris……Morris他是一個……好人？我們才認識短短幾天，他就幫了我大忙，雖然他知道我的真實身份後八成會當場滅了我吧。説起來他的手包扎多久了？都有味道了，他真的該去醫院看看，不過我還是很高興他幫助了King和King的父母。而最神秘的就屬他的過去，我甚至想像不出他都經歷了什麽，看來就算被平白無故傳送到另一個世界，也不能宅在家無所事事呀。注意：當心Morris真正的實力，這野豬不可貌相。"# TODO: Translation updated at 2023-11-01 18:42
+
+# game/story/chapter_M2.rpy:1060
+translate Tchinese chapter_m2_king_search_e0a61435:
+
+    # "At the very top of the chatbox, there was a message from King that just said"
+    "最上面是一則King發出的消息，寫著："
+
+# game/story/chapter_M2.rpy:1061
+translate Tchinese chapter_m2_king_search_0944f8a9:
+
+    # "“Pa, I need to talk to you and Ma tonight, I need to tell you… about the guy I’m dating.”" (screen="say_text_msg", what_size=50)
+    "“爸，關於我對象的事...我今晚想跟你和媽談談。”" (screen="say_text_msg", what_size=50)
+
+# game/story/chapter_M2.rpy:1163
+translate Tchinese chapter_m2_parent_reply_6d5b6409:
+
+    # "You quickly type out your next message,"
+    "你飛快地打字："
+
+# game/story/chapter_M2.rpy:1164
+translate Tchinese chapter_m2_parent_reply_5b5b45c8:
+
+    # p_text "“Well, you aren’t listening to me!”{nw}"
+    p_text "“你們根本沒在為我考慮！”"
 

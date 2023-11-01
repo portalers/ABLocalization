@@ -1,6 +1,4 @@
-# TODO: Translation updated at 2023-03-15 21:27
-
-# game/story/Prologue_Part_2.rpy:9
+﻿# game/story/Prologue_Part_2.rpy:9
 translate Tchinese prologue_part_2_42cfc623:
 
     # "Before you know it, five years have passed."
@@ -1841,4 +1839,3 @@ translate Tchinese strings:
     # game/story/Prologue_Part_2.rpy:436
     old "Of all the jobs in the Underworld, being Demon Lord is the most boring of all. Ever since Paw revolutionized the system there's nothing to do but file paperwork, go to meetings, approve new torture techniques, go to meetings, announce that we have new office printers, go to more meetings, review every single demon's work performance, go to more fucking meetings about the next meeting. AHHHHHHHHHHH! WHY ARE THERE SO MANY FUCKING MEETINGS?!"
     new "冥界那麽多的職業，就屬魔王最無聊。\n自從老爸改格體系後，就只剩下文書工作、開會、審核新的刑訊技術、開一堆會、發公告説辦公室有新印刷機、開更多會、考核每一個惡魔的績效、開更多他媽的關於下一場會議的會。\n{b}啊～～～！\n哪來這麽多會要開啊？！{/b}"
-

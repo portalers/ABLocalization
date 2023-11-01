@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2023-03-15 21:27
-
-# game/story/Chapter_T3.rpy:15
+﻿# game/story/Chapter_T3.rpy:15
 translate Tchinese chapter_T3_7c75de0a:
 
     # "The world is soaked in inky darkness. A lone, brightly light figure stands before you — like a single brilliant star in the night sky."
@@ -5672,5 +5670,8011 @@ translate Tchinese strings:
 
     # game/story/Chapter_T3.rpy:3296
     old "Simulda, the fusion demon. They are among the few demons instructed to punish souls that lived a life of sloth or materialism. I recall they would make souls live out their existence, melding their flesh with the very objects they coveted as mortals. Their bodies were broken by Simulda and reshaped again, and again. However, I never knew they were that into performance. It feels like they’d rather be a magician in life, but I think they’d do better in a slasher film than on the streets of Vegas."
-    new "Simulda，融合惡魔。它們是少數接到了指示，懲罰那些過著懶惰或物慾生活的靈魂的惡魔之一。我記得它們會根據靈魂心裡想的，把他們的肉體與他們作為凡人時所垂涎的物品融合在一起。他們的身體被Simulda破壞，並一次又一次地重組。不過我都不知道它們的表演欲有這麼強，感覺它們更願意當魔術師呢。雖然在我看來，比起在拉斯維加斯的街頭賣藝，它們更適合去演血漿片就是了。"
+    new "Simulda，融合惡魔。它們是少數接到了指示，懲罰那些過著懶惰或物慾生活的靈魂的惡魔之一。我記得它們會根據靈魂心裡想的，把他們的肉體與他們作為凡人時所垂涎的物品融合在一起。他們的身體被Simulda破壞，並一次又一次地重組。不過我都不知道它們的表演欲有這麼強，感覺它們更願意當魔術師呢。雖然在我看來，比起在拉斯維加斯的街頭賣藝，它們更適合去演血漿片就是了。"# TODO: Translation updated at 2023-11-01 18:42
+
+# game/story/Chapter_T3.rpy:161
+translate Tchinese chapter_T3_ec58cba9:
+
+    # p "Oh... Yeah they disbanded twenty-something years ago."
+    p "“欸...他們二十多年前就解散了。”"
+
+# game/story/Chapter_T3.rpy:170
+translate Tchinese chapter_T3_d998b412:
+
+    # p nervous "..."
+    p nervous "“...”"
+
+# game/story/Chapter_T3.rpy:217
+translate Tchinese chapter_T3_street_ef2a1eb9:
+
+    # p sad "Oh... Well I had a dream last night."
+    p sad "“嗯...我昨晚做了一個夢。”"
+
+# game/story/Chapter_T3.rpy:227
+translate Tchinese chapter_T3_street_1485708e:
+
+    # p smile "Yeah, maybe... But my idea makes more sense to me. After all, we’re going to fight Vendrake and save King."
+    p smile "“也許吧...不過我的想法應該更可靠些。畢竟我們要對抗Vendrake，拯救King。”"
+
+# game/story/Chapter_T3.rpy:276
+translate Tchinese chapter_T3_store_08087600:
+
+    # p "Sir... Again, I can’t give anyone a free pull. You’ll have to get the necessary ten stickers again like everyone else."
+    p "“這位先生...我再說一遍，我不能搞特殊待遇。您想要多一次機會，就得跟其他人一樣，重新集齊十張貼紙。”"
+
+# game/story/Chapter_T3.rpy:332
+translate Tchinese chapter_T3_store_f92bd452:
+
+    # p annoyed "Toast, that wasn’t funny... {w=.5}{nw}"
+    p annoyed "“這一點也不好笑，Toast...{w=.5}{nw}”"
+
+# game/story/Chapter_T3.rpy:338
+translate Tchinese chapter_T3_store_bea27c62:
+
+    # p "Yeah, I mean, still... things could go horribly wrong if you just randomly put your hand into someone."
+    p "“是啊，總之...隨隨便便把手伸進一個人身體裡，可能會造成非常嚴重的後果的。”"
+
+# game/story/Chapter_T3.rpy:433
+translate Tchinese chapter_T3_store_d479a3a8:
+
+    # T "Uhh..."
+    T "“呃...”"
+
+# game/story/Chapter_T3.rpy:504
+translate Tchinese chapter_T3_store_a0f306f1:
+
+    # p "It can’t be..."
+    p "“這不可能...”"
+
+# game/story/Chapter_T3.rpy:811
+translate Tchinese chapter_T3_store_b35c1810:
+
+    # M nervous "No... I just thought it over? Are you dreaming about him?"
+    M nervous "“沒有啊...我只是單純的在思考？你夢到他了？”"
+
+# game/story/Chapter_T3.rpy:836
+translate Tchinese chapter_T3_store_788f2ba0:
+
+    # p neutral "Right... Well I might have an idea."
+    p neutral "“算了...我想到一個主意。”"
+
+# game/story/Chapter_T3.rpy:896
+translate Tchinese chapter_T3_store_0106150f:
+
+    # p "Wait a minute... if he has a body now... maybe... I can get him a job."
+    p "“等一下...既然他現在有身體了...或許...我可以給他找份工作。”"
+
+# game/story/Chapter_T3.rpy:1020
+translate Tchinese chapter_T3_store_795a1273:
+
+    # "He set your meal next to him. All the while he’s holding his own meal up to his nose..."
+    "他接住你遞過來的飯菜，舉到自己的鼻子跟前..."
+
+# game/story/Chapter_T3.rpy:1068
+translate Tchinese chapter_T3_store_6a64c2d9:
+
+    # T "Kind of... I still feel hungry though. Like it all went in, but it didn’t stay there for very long."
+    T "“湊活吧...我還是好餓。吃是吃了，但總感覺胃裡空空的。”"
+
+# game/story/Chapter_T3.rpy:1112
+translate Tchinese chapter_T3_store_4c9ec288:
+
+    # T "Need this... not this... maybe some of that."
+    T "“要這個...不要這個...再來點這個。”"
+
+# game/story/Chapter_T3.rpy:1129
+translate Tchinese chapter_T3_store_28d84c25:
+
+    # "At the end of your shift..."
+    "在一天快結束的時候..."
+
+# game/story/Chapter_T3.rpy:1174
+translate Tchinese chapter_T3_lucian_87bef07c:
+
+    # T smile "What’s up, Pretty Boy. Looking pretty umm... the same as before I guess."
+    T smile "“你好啊，美男。你長得，呃...和我想的一樣美。”"
+
+# game/story/Chapter_T3.rpy:1202
+translate Tchinese chapter_T3_lucian_209d32d6:
+
+    # p nervous "Yeah, well..."
+    p nervous "“呃，那個...”"
+
+# game/story/Chapter_T3.rpy:1245
+translate Tchinese chapter_T3_lucian_77df7498:
+
+    # L_nt neutral "......"
+    L_nt neutral "“...”"
+
+# game/story/Chapter_T3.rpy:1278
+translate Tchinese chapter_T3_lucian_d461c137:
+
+    # L "Hmm... A very crude looking cake, it appears many other sweets have been mashed with it."
+    L "“嗯...一個外表潦草的蛋糕，和許多被搗碎的糖果混在一起。”"
+
+# game/story/Chapter_T3.rpy:1286
+translate Tchinese chapter_T3_lucian_ad2986f4:
+
+    # L "I’ll consider that suggestion... later."
+    L "“我...會考慮的。”"
+
+# game/story/Chapter_T3.rpy:1301
+translate Tchinese chapter_T3_lucian_e60b1c8e:
+
+    # L neutral "I... I’m speechless."
+    L neutral "“我...無話可說。”"
+
+# game/story/Chapter_T3.rpy:1304
+translate Tchinese chapter_T3_lucian_45b9ad19:
+
+    # p nervous "About that..."
+    p nervous "“那個啊...”"
+
+# game/story/Chapter_T3.rpy:1309
+translate Tchinese chapter_T3_lucian_77e4d9d0:
+
+    # L sad "Strangely, that makes sense... As long as Vendrake has that mortal hostage, he has a body shield that we can’t break through."
+    L sad "“雖然不甘心，但你是對的...只要人質還在，Vendrake就有一層我們無法突破的人肉盾牌。”"
+
+# game/story/Chapter_T3.rpy:1311
+translate Tchinese chapter_T3_lucian_5dc0ac15:
+
+    # L_nt neutral "Hmm..."
+    L_nt neutral "“嗯...”"
+
+# game/story/Chapter_T3.rpy:1334
+translate Tchinese chapter_T3_lucian_403f6d3c:
+
+    # L grimace "Well yes, but I... this just isn’t top angel work."
+    L grimace "“是有點，雖然...這不是頂級天使該有的素質。”"
+
+# game/story/Chapter_T3.rpy:1336
+translate Tchinese chapter_T3_lucian_9993b94e:
+
+    # L "..."
+    L "“...”"
+
+# game/story/Chapter_T3.rpy:1348
+translate Tchinese chapter_T3_lucian_1bfbe8ad:
+
+    # L "But... I deserve better than being benched until something troublesome happens."
+    L "“但我還是覺得...我應該得到重用，而不是坐在冷板凳上。”"
+
+# game/story/Chapter_T3.rpy:1349
+translate Tchinese chapter_T3_lucian_ff07b6dc:
+
+    # L_nt "Hmm..."
+    L_nt "“嗯...”"
+
+# game/story/Chapter_T3.rpy:1448
+translate Tchinese chapter_T3_lucian_76c4ccb6:
+
+    # T "Oh..."
+    T "“哦...”"
+
+# game/story/Chapter_T3.rpy:1496
+translate Tchinese chapter_T3_lucian_80554ac4:
+
+    # p_mono "He really looks bummed out..."
+    p_mono "“他看起來好沮喪啊...”"
+
+# game/story/Chapter_T3.rpy:1498
+translate Tchinese chapter_T3_lucian_b5f3c9f7:
+
+    # p neutral "Toast..."
+    p neutral "“Toast...”"
+
+# game/story/Chapter_T3.rpy:1549
+translate Tchinese chapter_T3_vendrake_f8b8139e:
+
+    # Ven "That fool..."
+    Ven "“那個傻瓜...”"
+
+# game/story/Chapter_T3.rpy:1578
+translate Tchinese chapter_T3_vendrake_64023d94:
+
+    # Nox "The others sent reports that their journeys have been... disrupted."
+    Nox "“其他人發來報告說，他們在過程中遇到了一些...麻煩。”"
+
+# game/story/Chapter_T3.rpy:1582
+translate Tchinese chapter_T3_vendrake_24809cac:
+
+    # Ven "Useless... Did you relay new instructions to all of them?"
+    Ven "“沒用的東西...你有向他們傳達新的命令嗎？”"
+
+# game/story/Chapter_T3.rpy:1586
+translate Tchinese chapter_T3_vendrake_710c30ac:
+
+    # Ven "I highly doubt that [name]'s luck would continue to save him from a Freelancer with access to their demonic powers, however..."
+    Ven "“相信在解放了力量的自業者面前，[name]的好運也救不了他。不過嘛...”"
+
+# game/story/Chapter_T3.rpy:1588
+translate Tchinese chapter_T3_vendrake_4be3dea7:
+
+    # Nox "But Lord Vendrake..."
+    Nox "“但是，Vendrake大人...”"
+
+# game/story/Chapter_T3.rpy:1612
+translate Tchinese chapter_T3_vendrake_785b52b9:
+
+    # "If you are to describe love, it is this feeling, of being cradled in the head by a soft pillow, a blanket keeping your legs warm, and wrapping your hands around a big, meaty..."
+    "如果讓你形容愛情，那就是現在這種感覺：枕著一個柔軟的枕頭，蓋著一條溫暖的毯子，懷抱一個巨大的、肉乎乎..."
+
+# game/story/Chapter_T3.rpy:1640
+translate Tchinese chapter_T3_vendrake_1f3e4454:
+
+    # T neutral "I want hash browns..."
+    T neutral "“我想吃薯餅...”"
+
+# game/story/Chapter_T3.rpy:1684
+translate Tchinese chapter_T3_freelancer_85643ba1:
+
+    # "Your eyes narrow and you sniff the air... there’s a very faint smell of sugary indulgence wafting between the angel’s breaths."
+    "你眯起眼睛，嗅了嗅空氣...天使的呼吸之間飄蕩著一股若有若無的放縱甜味。"
+
+# game/story/Chapter_T3.rpy:1770
+translate Tchinese chapter_T3_freelancer_09a4bbe5:
+
+    # L "I know... we can’t let it escape."
+    L "“我知道...我們不能讓他逃了。”"
+
+# game/story/Chapter_T3.rpy:1879
+translate Tchinese chapter_T3_freelancer_46bf13ab:
+
+    # p "Besides... He’s kind of annoying."
+    p "“此外...他有點招人煩。”"
+
+# game/story/Chapter_T3.rpy:1915
+translate Tchinese chapter_T3_freelancer_8c0a9792:
+
+    # T "They're.... They're just cards?"
+    T "“這...這只是普通的卡牌？”"
+
+# game/story/Chapter_T3.rpy:2568
+translate Tchinese chapter_T3_freelancer_fb5adce7:
+
+    # p @ question "Morris..."
+    p @ question "“Morris...”"
+
+# game/story/Chapter_T3.rpy:2774
+translate Tchinese chapter_T3_freelancer_9145b766:
+
+    # Simulda "Death of a demon by an angel’s own magic... How poetic!"
+    Simulda "“惡魔死在天使的魔法下...多麼富有詩意！”"
+
+# game/story/Chapter_T3.rpy:2824
+translate Tchinese chapter_T3_freelancer_29f027a3:
+
+    # "He steals skills with his right hand, and projects it with his left..."
+    "他用右手竊取技能，再用左手投射..."
+
+# game/story/Chapter_T3.rpy:3312
+translate Tchinese chapter_T3_ending_b4285a88:
+
+    # M nervous "Shit... yeah I need that."
+    M nervous "“糟...大話說早了。”"
+
+# game/story/Chapter_T3.rpy:3317
+translate Tchinese chapter_T3_ending_506f55dd:
+
+    # p "Sorry..."
+    p "“對不起...”"
+
+# game/story/Chapter_T3.rpy:3322
+translate Tchinese chapter_T3_ending_ec1fbf94:
+
+    # FF2 "Ngh..."
+    FF2 "“呃...”"
+
+# game/story/Chapter_T3.rpy:3333
+translate Tchinese chapter_T3_ending_f8d3f21d:
+
+    # FF2 "Luh... nasaan ako? (Where am I?)"
+    FF2 "“{rb}Luh...nasaan ako{/rb}{rt}我這是在哪{/rt}？”"
+
+# game/story/Chapter_T3.rpy:3386
+translate Tchinese post_freelancer_toast_e0f78eda:
+
+    # "In the Demon Lord's office, Vendrake mulls over the newest letter that has reached him."
+    "魔王的辦公室裡，Vendrake正在思考他最新收到的信件。"
+
+# game/story/Chapter_T3.rpy:3387
+translate Tchinese post_freelancer_toast_f2048465:
+
+    # "The Cerberus guards reported a spike in souls escaping through their defences. They request that security in the Torture Zones be improved."
+    "刻耳柏洛斯的守衛們報告說，不斷有靈魂突破防線逃跑，他們要求加強拷問區的安全系統。"
+
+# game/story/Chapter_T3.rpy:3388
+translate Tchinese post_freelancer_toast_ce3039da:
+
+    # Ven "They have the gall to put the blame on my Security Unit? If they need others to do their jobs, why am I even keeping them on payroll?"
+    Ven "“他們竟敢厚顏無恥地把責任推給我的安保部門？連自己的本職工作都做不好，還領這份工資幹什麼？”"
+
+# game/story/Chapter_T3.rpy:3389
+translate Tchinese post_freelancer_toast_b39401fc:
+
+    # Ven "It seems three heads is not better than one in this case!"
+    Ven "“看來三個頭也沒比一個頭好到哪裡去！”"
+
+# game/story/Chapter_T3.rpy:3402
+translate Tchinese post_freelancer_toast_57125ce7:
+
+    # "Suddenly, Vendrake’s important work is interrupted."
+    "突然，Vendrake的重要工作被打斷了。"
+
+# game/story/Chapter_T3.rpy:3407
+translate Tchinese post_freelancer_toast_0ff202db:
+
+    # "Vendrake sighs. He already knows what this means. He gets up from his seat and walks over to the demon groaning on the floor."
+    "他知道這代表什麼，他嘆了口氣，從座位上站起來，走到躺在地板上呻吟的惡魔那裡。"
+
+# game/story/Chapter_T3.rpy:3408
+translate Tchinese post_freelancer_toast_8ffd5ec2:
+
+    # "The creature has bruises all over, whatever did them in was not holding back."
+    "那傢伙渾身都是淤青，對手顯然沒有留情。"
+
+# game/story/Chapter_T3.rpy:3409
+translate Tchinese post_freelancer_toast_c2262383:
+
+    # Simulda "Buguhhh..."
+    Simulda "“呃啊...”"
+
+# game/story/Chapter_T3.rpy:3410
+translate Tchinese post_freelancer_toast_ecd4dd20:
+
+    # Ven "I swear, why must every Freelancer find me when something goes wrong?"
+    Ven "“為什麼你們總是在我處理問題的時候打擾我？”"
+
+# game/story/Chapter_T3.rpy:3411
+translate Tchinese post_freelancer_toast_7d61479f:
+
+    # "The beaten Simulda groans loudly."
+    "挨了打的Simulda呻吟的更大聲了。"
+
+# game/story/Chapter_T3.rpy:3414
+translate Tchinese post_freelancer_toast_804c47d1:
+
+    # Ven "Aren't you being a little dramatic?"
+    Ven "“你未免太誇張了吧？”"
+
+# game/story/Chapter_T3.rpy:3417
+translate Tchinese post_freelancer_toast_60ad8eb4:
+
+    # Ven "Let me guess, [name] beat you, didn’t he?"
+    Ven "“讓我猜猜，[name]擊敗了你，是不是？”"
+
+# game/story/Chapter_T3.rpy:3418
+translate Tchinese post_freelancer_toast_78f68589:
+
+    # Simulda "Muguhh..."
+    Simulda "“唔嗯...”"
+
+# game/story/Chapter_T3.rpy:3419
+translate Tchinese post_freelancer_toast_5102f0d7:
+
+    # Ven "He had help? From who?"
+    Ven "“他有幫手？是誰？”"
+
+# game/story/Chapter_T3.rpy:3420
+translate Tchinese post_freelancer_toast_ddfdc0e5:
+
+    # Simulda "Meep."
+    Simulda "“呣。”"
+
+# game/story/Chapter_T3.rpy:3421
+translate Tchinese post_freelancer_toast_35fe8c74:
+
+    # Ven "An escaped soul? You let an escaped soul beat you like this? What a disgrace to our company!"
+    Ven "“逃犯？你被一個從冥界逃脫的靈魂打成這樣？簡直是我們公司的恥辱！”"
+
+# game/story/Chapter_T3.rpy:3422
+translate Tchinese post_freelancer_toast_54f0952a:
+
+    # Simulda "H...wasn’t... a...lone..."
+    Simulda "“他...不只是...一個人...”"
+
+# game/story/Chapter_T3.rpy:3423
+translate Tchinese post_freelancer_toast_b010b6b0:
+
+    # Ven "There’s more? Who, damn it?"
+    Ven "“還有幫手？混蛋，是誰？”"
+
+# game/story/Chapter_T3.rpy:3424
+translate Tchinese post_freelancer_toast_2f5138ca:
+
+    # Simulda "Ex...or...ist...n...el"
+    Simulda "“驅...魔...師...”"
+
+# game/story/Chapter_T3.rpy:3431
+translate Tchinese post_freelancer_toast_5442194d:
+
+    # Ven "A receptionist named Mel? What kind of receptionist wields such power?"
+    Ven "“一個叫Mel的接待員？什麼樣的接待員有如此力量？”"
+
+# game/story/Chapter_T3.rpy:3440
+translate Tchinese post_freelancer_toast_f73be2e6:
+
+    # Simulda "Ugh."
+    Simulda "“呃。”"
+
+# game/story/Chapter_T3.rpy:3447
+translate Tchinese post_freelancer_toast_4c0ffe83:
+
+    # "Simulda faints."
+    "Simulda昏了過去。"
+
+# game/story/Chapter_T3.rpy:3460
+translate Tchinese post_freelancer_toast_cf0b3981:
+
+    # Ven "Hey, don't you slack off on me! I'm not done with you!"
+    Ven "“給我清醒點！我還沒有問完！”"
+
+# game/story/Chapter_T3.rpy:3463
+translate Tchinese post_freelancer_toast_145bef74:
+
+    # "Vendrake’s admonishment falls on deaf ears."
+    "Vendrake的警告被無視了。"
+
+# game/story/Chapter_T3.rpy:3464
+translate Tchinese post_freelancer_toast_2b5b36d5:
+
+    # Ven "Nox!"
+    Ven "“Nox！”"
+
+# game/story/Chapter_T3.rpy:3475
+translate Tchinese post_freelancer_toast_23efec5c:
+
+    # "Nox arrives through another portal on command, as if he had been anticipating his call.."
+    "Nox奉命通過另一道傳送門來到辦公室，好像他已經預料到了這次召喚一樣。"
+
+# game/story/Chapter_T3.rpy:3476
+translate Tchinese post_freelancer_toast_4743ba94:
+
+    # Nox "Yes, my Lord?"
+    Nox "“您有何吩咐，大人？”"
+
+# game/story/Chapter_T3.rpy:3477
+translate Tchinese post_freelancer_toast_fe1b7521:
+
+    # Ven "Take this mongrel to treatment."
+    Ven "“帶這隻雜種去治療。”"
+
+# game/story/Chapter_T3.rpy:3478
+translate Tchinese post_freelancer_toast_faa47f31:
+
+    # Nox "Right away."
+    Nox "“我馬上就辦。”"
+
+# game/story/Chapter_T3.rpy:3491
+translate Tchinese post_freelancer_toast_05f34a81:
+
+    # "Nox summons a portal beneath the demon and Simulda falls through. A groan is heard as Simulda crashes into the ground for the third time in two minutes."
+    "Nox在Simulda的身下變出傳送門，惡魔隨即掉了進去。那聲呻吟意味著這是他在兩分鐘內第三次撞擊地面了。"
+
+# game/story/Chapter_T3.rpy:3492
+translate Tchinese post_freelancer_toast_0c3c45ba:
+
+    # Ven "Once they reform, find out who this escaped soul is and the identities of everyone else who’s aiding [name]."
+    Ven "“一旦他清醒過來，查出那個逃跑的靈魂、以及其他所有幫助[name]的人的身份。”"
+
+# game/story/Chapter_T3.rpy:3493
+translate Tchinese post_freelancer_toast_998d0c59:
+
+    # Nox "[name] has allies?"
+    Nox "“[name]還活著？”"
+
+# game/story/Chapter_T3.rpy:3494
+translate Tchinese post_freelancer_toast_dee29bcf:
+
+    # Ven "Apparently so, troublesome characters by the sound of it. Put a notice out to the remaining Freelancers, be on the lookout for an escaped soul, and that blasted Mel!"
+    Ven "“看起來是這樣，真是個麻煩的傢伙。給剩下的自業者們發通知，讓他們留意一個逃跑的靈魂，還有那個該死的Mel！”"
+
+# game/story/Chapter_T3.rpy:3502
+translate Tchinese king_toast_route_ee6643d9:
+
+    # "In the depths of Amare’s workshop lie shelves of old, unused metal parts and retired inventions."
+    "Amare的工坊深處，擺滿了陳舊的、未使用過的金屬部件和被淘汰的發明。"
+
+# game/story/Chapter_T3.rpy:3505
+translate Tchinese king_toast_route_420c133e:
+
+    # "The self-proclaimed genius general of the Underworld walks among his collection, in search for the final piece of [name]’s snack generating machine."
+    "這位自詡是冥界天才的將軍正穿梭於他的藏品之間，尋找[name]的零食生產機的最後一塊拼圖。"
+
+# game/story/Chapter_T3.rpy:3508
+translate Tchinese king_toast_route_9057eaff:
+
+    # "Fortis drags his feet from behind while he carries a box filled with bits and bobs of Amare’s mechanisms."
+    "Fortis則懷抱一個裝滿機械零件的箱子，在後面不厭其煩地跟著他。"
+
+# game/story/Chapter_T3.rpy:3509
+translate Tchinese king_toast_route_2a4dcf48:
+
+    # "As they proceed down the storeroom, the larger demon looks around at the many labelled boxes that line the shelves. He can’t make heads or tails of how they’re arranged."
+    "他們一路向下去往茶水間。大塊頭的惡魔環顧貨架上眾多貼著標籤的盒子，搞不懂它們的排列方式。"
+
+# game/story/Chapter_T3.rpy:3511
+translate Tchinese king_toast_route_093590d5:
+
+    # Fort shocked "Never knew there was a room like this in your workshop."
+    Fort shocked "“我都不知道你的工坊裡有這樣的房間。”"
+
+# game/story/Chapter_T3.rpy:3514
+translate Tchinese king_toast_route_1089be6a:
+
+    # Amar "Visit more often then, I’ll even show you my vinyl records room."
+    Amar "“那就多來做客吧，我可以向你展示我的黑膠唱片室。”"
+
+# game/story/Chapter_T3.rpy:3515
+translate Tchinese king_toast_route_6c4541da:
+
+    # Fort neutral1 "You listen to music?"
+    Fort neutral1 "“你還會聽音樂？”"
+
+# game/story/Chapter_T3.rpy:3516
+translate Tchinese king_toast_route_7e775f32:
+
+    # Amar "Music, environmental sounds, the soul’s eternal screams of anguish, they all help me to pass the tedious part of making machines."
+    Amar "“音樂、自然之聲、靈魂無休止的慘叫，這些幫助我度過了製造機器的乏味過程。”"
+
+# game/story/Chapter_T3.rpy:3517
+translate Tchinese king_toast_route_75cc7f71:
+
+    # Fort confused "So, this is like the room where you keep all the unused junk?"
+    Fort confused "“所以這裡只是裝垃圾的房間？”"
+
+# game/story/Chapter_T3.rpy:3518
+translate Tchinese king_toast_route_eb9e4be6:
+
+    # Amar sad "Don’t call it junk, the motherboards will hear you. They’re very sensitive."
+    Amar sad "“不要說垃圾什麼的，主板會聽到你的，它們非常敏感。”"
+
+# game/story/Chapter_T3.rpy:3519
+translate Tchinese king_toast_route_57638aa7:
+
+    # Amar smile "This is where I store all the broken and retired machinery that I’ve gathered through the years."
+    Amar smile "“這裡集合了我這些年來收集到的所有破損和退休的機器。”"
+
+# game/story/Chapter_T3.rpy:3520
+translate Tchinese king_toast_route_f3dc44c1:
+
+    # Fort "Then this is a graveyard, but for machines."
+    Fort "“那就是墳場囉，機器的墳場。”"
+
+# game/story/Chapter_T3.rpy:3521
+translate Tchinese king_toast_route_ebea0ad9:
+
+    # Amar neutral "Yes, I suppose that is an apt comparison."
+    Amar neutral "“是的，這個比喻很形象。”"
+
+# game/story/Chapter_T3.rpy:3522
+translate Tchinese king_toast_route_cff178fa:
+
+    # Fort "I already don’t get why mortals do that, let alone you."
+    Fort "“我連凡人為什麼這麼做都不明白，更別說你了。”"
+
+# game/story/Chapter_T3.rpy:3523
+translate Tchinese king_toast_route_abd46aac:
+
+    # Amar sad "What’s so strange about saving them? These machines deserve some respect for all they’ve done... or tried to do."
+    Amar sad "“救這些機器一命很奇怪嗎？它們已完成的事業...還有未竟之業，都值得我們尊敬。”"
+
+# game/story/Chapter_T3.rpy:3524
+translate Tchinese king_toast_route_c2010d56:
+
+    # Fort "It seems like a waste of space to do all this, can’t you just keep the blueprints and summon new parts? It would be easier than us searching through all this."
+    Fort "“我倒覺得這只是在浪費空間。你就不能只保留藍圖，等到用時再召喚新的部件嗎？這不比到處翻簡單多了。”"
+
+# game/story/Chapter_T3.rpy:3529
+translate Tchinese king_toast_route_e672328c:
+
+    # Amar_nt "An excellent idea, an item tracker would do just the trick. Fortis, help me find the tracking chip, and ten other parts."
+    Amar_nt "“好主意，為此我需要一個物品追蹤器。Fortis，幫我找到追蹤晶片，外加其他十個部件。”"
+
+# game/story/Chapter_T3.rpy:3533
+translate Tchinese king_toast_route_85c3efcb:
+
+    # Fort "Hold it—"
+    Fort "“等一下-”"
+
+# game/story/Chapter_T3.rpy:3535
+translate Tchinese king_toast_route_bdffbb21:
+
+    # Fort neutral1 "That sounds like more work than what we’ve already started. Just do it later."
+    Fort neutral1 "“這比咱們手頭上的工作還要麻煩，以後再說吧。”"
+
+# game/story/Chapter_T3.rpy:3539
+translate Tchinese king_toast_route_799f8ad5:
+
+    # "They walk a bit further before Amare stops."
+    "又走了一小段路，Amare停下腳步。"
+
+# game/story/Chapter_T3.rpy:3542
+translate Tchinese king_toast_route_aa6e2858:
+
+    # Amar "Alright, the motherboard should be somewhere in this row. Help me look. They should be on the second shelf. You’re looking for the one labelled Snack-Making module."
+    Amar "“主板應該就在這一排的某個地方。幫我找找，好像在第二層架子上，注意是標著零食生產模組的那個。”"
+
+# game/story/Chapter_T3.rpy:3543
+translate Tchinese king_toast_route_9fce951a:
+
+    # Fort @ pose2 "Ten souls say I can find it before you do."
+    Fort @ pose2 "“十個靈魂，賭我比你先找到。”"
+
+# game/story/Chapter_T3.rpy:3544
+translate Tchinese king_toast_route_05b30edb:
+
+    # Amar "It’s not a competition."
+    Amar "“這又不是比賽。”"
+
+# game/story/Chapter_T3.rpy:3550
+translate Tchinese king_toast_route_dcaad870:
+
+    # "Fortis sets the box down and the two split up in opposite directions."
+    "Fortis把箱子放下，二人開始分頭行動。"
+
+# game/story/Chapter_T3.rpy:3552
+translate Tchinese king_toast_route_29da2445:
+
+    # Fort "Gears, no...bulbs... huh?"
+    Fort "“齒輪，不是...電燈泡...嗯？”"
+
+# game/story/Chapter_T3.rpy:3557
+translate Tchinese king_toast_route_844614ad:
+
+    # "A soft yellow glow among the bulbs calls out to the demon. He reaches inwards and pulls out what looks like an arrow made of angelic light."
+    "燈泡發出柔和的黃色光芒，將惡魔呼喚了過去。他把手伸進其中，拔出一支由天使之光製成的箭。"
+
+# game/story/Chapter_T3.rpy:3559
+translate Tchinese king_toast_route_0a53cf54:
+
+    # Fort_nt "Hey, Amare! Why do you have this?"
+    Fort_nt "“嘿，Amare！你怎麼會有這個的？”"
+
+# game/story/Chapter_T3.rpy:3563
+translate Tchinese king_toast_route_34bb9e5f:
+
+    # "Amare turns and gasps."
+    "Amare轉過身，倒吸了一口氣。"
+
+# game/story/Chapter_T3.rpy:3573
+translate Tchinese king_toast_route_bdc5ebf6:
+
+    # Amar_nt "Fahrenheit, there's where it has been all these years. I thought I lost that when I started my collection."
+    Amar_nt "“媽呀，原來這些年它一直在這裡，我還以為我把它給丟了。”"
+
+# game/story/Chapter_T3.rpy:3578
+translate Tchinese king_toast_route_79fd7a6c:
+
+    # "Fortis takes a sniff of the arrow."
+    "Fortis聞了聞箭。"
+
+# game/story/Chapter_T3.rpy:3581
+translate Tchinese king_toast_route_2e3680fe:
+
+    # Fort shocked "It has my scent, wait, is this the arrow that struck me in the butt during the Great War?"
+    Fort shocked "“上面有我的氣味，慢著，這難道是第一次大戰期間射中我屁股的那枝箭？”"
+
+# game/story/Chapter_T3.rpy:3582
+translate Tchinese king_toast_route_60d83b6f:
+
+    # Amar smile "Correct! I kept it after we pulled it out of you."
+    Amar smile "“回答正確！從你身上拔出來後，我就將其納為了收藏品。”"
+
+# game/story/Chapter_T3.rpy:3584
+translate Tchinese king_toast_route_845e742b:
+
+    # Fort neutral2 "I’m surprised, I thought you of all people despised the war."
+    Fort neutral2 "“沒想到啊，我還以為你是反戰派的。”"
+
+# game/story/Chapter_T3.rpy:3585
+translate Tchinese king_toast_route_1c7e710b:
+
+    # Amar sad "I still do, but that doesn’t stop me from collecting the many machineries and weapons left behind from the fight."
+    Amar sad "“我直到現在也是，但這並不妨礙我收集戰鬥中留下的機械和武器。”"
+
+# game/story/Chapter_T3.rpy:3590
+translate Tchinese king_toast_route_683e5ac7:
+
+    # "Fortis looks mournfully at the arrow in his hand."
+    "Fortis悲傷地看著手裡的箭。"
+
+# game/story/Chapter_T3.rpy:3593
+translate Tchinese king_toast_route_865b4015:
+
+    # Fort "It hurts to remember, Amare..."
+    Fort "“真是慘痛的回憶啊，Amare...”"
+
+# game/story/Chapter_T3.rpy:3603
+translate Tchinese king_toast_route_383433f0:
+
+    # Amar "I feel that would be doing those we wronged a disservice."
+    Amar "“銘記歷史，我們才能避免重蹈覆轍。”"
+
+# game/story/Chapter_T3.rpy:3607
+translate Tchinese king_toast_route_8443e344:
+
+    # Fort "Easy for you to say, you were in the backlines while I had to lead the charge to Up Above's gate, watching ally after ally get struck down."
+    Fort "“說得容易，你只是待在後方，而我卻不得不率領大軍在前線作戰。”"
+
+# game/story/Chapter_T3.rpy:3609
+translate Tchinese king_toast_route_4bee31d5:
+
+    # Fort "We've come so far since then, but there are times when I catch demons who survived the war looking at me."
+    Fort "“這麼多年過去了，我還是忘不掉從戰爭中倖存下來的惡魔看我時那飽含憤怒的眼神。”"
+
+# game/story/Chapter_T3.rpy:3610
+translate Tchinese king_toast_route_447fe37e:
+
+    # Fort "Their eyes brimming with anger, after all there's no one else to direct it to, the second Demon Lord has long passed."
+    Fort "“畢竟他們沒有其他人可以責怪，第二任魔王早就與世長辭了。”"
+
+# game/story/Chapter_T3.rpy:3612
+translate Tchinese king_toast_route_4b9fc25b:
+
+    # Fort "I'd give anything to just forget and start over."
+    Fort "“我願意付出任何代價，只要能忘記這一切，重新開始。”"
+
+# game/story/Chapter_T3.rpy:3614
+translate Tchinese king_toast_route_5b177427:
+
+    # Amar "I know... even though I was tied to a forge, I saw the scars of war in the broken bits of machines and weapons that were sent back to me."
+    Amar "“我明白...儘管我當時在鍛造廠脫不開身，卻也從寄回來的機械和武器碎片中一睹戰爭留下的創傷。”"
+
+# game/story/Chapter_T3.rpy:3616
+translate Tchinese king_toast_route_7ba283b5:
+
+    # Amar "Sometimes these broken hands of mine burn when I dream about the war."
+    Amar "“每每夢見那場戰爭，我受過傷的手都會感到灼痛不已。”"
+
+# game/story/Chapter_T3.rpy:3618
+translate Tchinese king_toast_route_895e09de:
+
+    # Fort "Wouldn't it be great if we could just forget all that?"
+    Fort "“所以，統統忘掉不好嗎？”"
+
+# game/story/Chapter_T3.rpy:3623
+translate Tchinese king_toast_route_4bd6f1e9:
+
+    # Amar "It’s in remembering that I can remain grounded in the present, unlike some demons who choose to live in the glory days."
+    Amar "“我們要以此為鑑，珍惜現在來之不易的生活，而是不像某些惡魔一樣，沉溺於昔日的榮光。”"
+
+# game/story/Chapter_T3.rpy:3633
+translate Tchinese king_toast_route_95415b48:
+
+    # "Fortis begins to twirl the arrow like a baton. He appears lost in thought."
+    "Fortis撫摸著箭矢，似乎陷入了沉思。"
+
+# game/story/Chapter_T3.rpy:3634
+translate Tchinese king_toast_route_ee363910:
+
+    # Amar neutral "That there arrow is a rarity, it never broke apart. I wonder what happened to the angel that conjured it, are they keeping it held together?"
+    Amar neutral "“那枝箭很罕見，從來沒有折斷過。不知道召喚它的天使後來怎麼樣了，他還在維繫著那枝箭嗎？”"
+
+# game/story/Chapter_T3.rpy:3635
+translate Tchinese king_toast_route_c8967ee9:
+
+    # Fort confused "Well, whatever it is, that bloke ain’t getting it back."
+    Fort confused "“哎，反正他拿不回去了。”"
+
+# game/story/Chapter_T3.rpy:3636
+translate Tchinese king_toast_route_c6cd7880:
+
+    # Amar "How did you get hit with that in the first place?"
+    Amar "“你當初是怎麼被射中的？”"
+
+# game/story/Chapter_T3.rpy:3637
+translate Tchinese king_toast_route_4ed636d0:
+
+    # Fort laugh "Hmm? It's a funny story."
+    Fort laugh "“啊，說起來也好笑。”"
+
+# game/story/Chapter_T3.rpy:3646
+translate Tchinese king_toast_route_0448faa1:
+
+    # "With a twirl of his wrist, he flicks the arrow in the air and catches it, then, he raises his other hand to show all five fingers."
+    "他手腕一抖，把箭彈到空中，然後接住，舉起另一隻手，露出全部五根手指。"
+
+# game/story/Chapter_T3.rpy:3649
+translate Tchinese king_toast_route_fb42850b:
+
+    # Fort neutral1 "It was me against five of Up Above’s goons. Their bodies beaten and bruised, I figured they would be easy to take down."
+    Fort neutral1 "“我那時單槍匹馬迎戰五個天界的嘍囉，把他們打得落花流水。”"
+
+# game/story/Chapter_T3.rpy:3650
+translate Tchinese king_toast_route_26c39458:
+
+    # Fort "Before I could though, one of their big shots showed up. This tall regal looking fella."
+    Fort "“就在我心想：‘不過這種程度而已’的時候，他們的大人物出現了，那是個高大威猛、氣質不凡的傢伙。”"
+
+# game/story/Chapter_T3.rpy:3651
+translate Tchinese king_toast_route_1b555751:
+
+    # Fort confused "I could tell just by the look in his eyes that he wasn't like the rest of them."
+    Fort confused "“我看他的眼睛就知道，他跟別人不一樣。”"
+
+# game/story/Chapter_T3.rpy:3652
+translate Tchinese king_toast_route_2d5fd74d:
+
+    # Amar "Was he as strong as you?"
+    Amar "“他和你一樣強嗎？”"
+
+# game/story/Chapter_T3.rpy:3653
+translate Tchinese king_toast_route_3d860b0f:
+
+    # Fort laugh pose2 "Hah— {w=.5}{nw}"
+    Fort laugh pose2 "“哈-{w=.5}{nw}”"
+
+# game/story/Chapter_T3.rpy:3655
+translate Tchinese king_toast_route_0761714a:
+
+    # extend "Not physically, but he had speed and magic on his side."
+    extend "“他的肉體比不過我，但速度與魔法占優。”"
+
+# game/story/Chapter_T3.rpy:3656
+translate Tchinese king_toast_route_f6e6456c:
+
+    # Fort annoyed "I tried socking him here and there, but he kept blocking or dodging me."
+    Fort annoyed "“我對他窮追猛打，可他總能擋住或是閃開。”"
+
+# game/story/Chapter_T3.rpy:3660
+translate Tchinese king_toast_route_bb5b368c:
+
+    # Fort "Then he pulled out this arrow and threw— {w=2.5}{nw}"
+    Fort "“後來他拔出這枝箭-{w=2.5}{nw}”"
+
+# game/story/Chapter_T3.rpy:3723
+translate Tchinese king_toast_route_05d73a73:
+
+    # "Fortis accidentally throws the arrow in hand."
+    "Fortis不小心把手裡的箭扔了出去。"
+
+# game/story/Chapter_T3.rpy:3724
+translate Tchinese king_toast_route_1faa43bf:
+
+    # Fort_nt "Uh-Oh!"
+    Fort_nt "“糟了！”"
+
+# game/story/Chapter_T3.rpy:3725
+translate Tchinese king_toast_route_97e5a481:
+
+    # "The arrow zooms across the room, hitting the wall, ricocheting back at tremendous speed."
+    "箭嗖的一聲穿過房間，擊中牆壁，又以極快的速度反彈回來。"
+
+# game/story/Chapter_T3.rpy:3730
+translate Tchinese king_toast_route_6b088c21:
+
+    # Amar_nt "Duck!"
+    Amar_nt "“快閃開！”"
+
+# game/story/Chapter_T3.rpy:3754
+translate Tchinese king_toast_route_3ef97ac2:
+
+    # "Fortis is hit across the chest and is sent flying to the other end of the room."
+    "Fortis胸部被擊中，整個人都飛到了房間的另一端。"
+
+# game/story/Chapter_T3.rpy:3764
+translate Tchinese king_toast_route_e798ed5e:
+
+    # "He slams hard against the wall sending tremors throughout the facility."
+    "他重重地撞在牆上，整個工坊都為之顫抖。"
+
+# game/story/Chapter_T3.rpy:3769
+translate Tchinese king_toast_route_e4c806f9:
+
+    # "A box of random materials falls on the demon."
+    "一盒不知道是什麼的材料落在了惡魔身上。"
+
+# game/story/Chapter_T3.rpy:3781
+translate Tchinese king_toast_route_39c5475a:
+
+    # "Amare picks up the fallen arrow and sends it to his work table via portal."
+    "Amare撿起落下的箭，透過傳送門把它送到他的工作檯。"
+
+# game/story/Chapter_T3.rpy:3782
+translate Tchinese king_toast_route_3687cdc5:
+
+    # Amar neutral "Fascinating, so the arrow is imbued with the ability to bounce, less damage on impact but I suppose for a high level angel that would even hurt Fortis."
+    Amar neutral "“有趣，這枝箭在彈射時造成的傷害很小，但在高階天使的操控下又足以傷害到Fortis。”"
+
+# game/story/Chapter_T3.rpy:3788
+translate Tchinese king_toast_route_a51ad0a1:
+
+    # Amar "Oh yes, Fortis, are you alright?"
+    Amar "“哦對，Fortis，你還好吧？”"
+
+# game/story/Chapter_T3.rpy:3791
+translate Tchinese king_toast_route_998bbebd:
+
+    # "Amare strolls over to his dazed friend."
+    "Amare走到他神志不清的朋友身邊。"
+
+# game/story/Chapter_T3.rpy:3792
+translate Tchinese king_toast_route_38732f0f:
+
+    # Fort confused "Ugh... I'm good."
+    Fort confused "“呃...我很好。”"
+
+# game/story/Chapter_T3.rpy:3800
+translate Tchinese king_toast_route_fbbaa2f1:
+
+    # "Fortis picks himself up and looks at the things that fell on him."
+    "Fortis站起來，看著落在他身上的東西。"
+
+# game/story/Chapter_T3.rpy:3804
+translate Tchinese king_toast_route_1e5222e7:
+
+    # Fort pose4 "Hey, I found the motherboard!"
+    Fort pose4 "“嘿，我找到主板了！”"
+
+# game/story/Chapter_T3.rpy:3805
+translate Tchinese king_toast_route_e4cb0bc4:
+
+    # Amar "Excellent, two notable discoveries in one go!"
+    Amar "“太棒了，一下子就有兩個顯著的發現！”"
+
+# game/story/Chapter_T3.rpy:3806
+translate Tchinese king_toast_route_daf72c10:
+
+    # Fort pose2 neutral1 "I also found this."
+    Fort pose2 neutral1 "“我還找到了這個。”"
+
+# game/story/Chapter_T3.rpy:3807
+translate Tchinese king_toast_route_179f6088:
+
+    # "He pulls out a small black piece of fabric."
+    "他拿出一小塊黑色的布。"
+
+# game/story/Chapter_T3.rpy:3808
+translate Tchinese king_toast_route_5db33e98:
+
+    # Fort confused "Isn't this Nox's cloak? What's it doing here?"
+    Fort confused "“這不是Nox的斗篷嗎？怎麼會在這裡？”"
+
+# game/story/Chapter_T3.rpy:3809
+translate Tchinese king_toast_route_f4cddde7:
+
+    # Amar neutral "I don't know what you're talking about. That's just a rag."
+    Amar neutral "“我不懂你在說什麼，那只是塊抹布。”"
+
+# game/story/Chapter_T3.rpy:3814
+translate Tchinese king_toast_route_98e3e093:
+
+    # "One of Amare's extended arms snatches the cloth, crumples it and throws it into a stray box."
+    "Amare伸手奪住布，把它揉成一團，隨意扔到一個盒子裡。"
+
+# game/story/Chapter_T3.rpy:3816
+translate Tchinese king_toast_route_b30edc05:
+
+    # Fort pose1 "Umm... It had a hoodie."
+    Fort pose1 "“可是...上面還有兜帽呢。”"
+
+# game/story/Chapter_T3.rpy:3817
+translate Tchinese king_toast_route_a1d37150:
+
+    # Amar "It's just a rag."
+    Amar "“那只是塊抹布而已。”"
+
+# game/story/Chapter_T3.rpy:3818
+translate Tchinese king_toast_route_ae290a9a:
+
+    # Fort "No, it's very obviously Nox's cloak."
+    Fort "“不對，明顯是Nox的斗篷嘛。”"
+
+# game/story/Chapter_T3.rpy:3819
+translate Tchinese king_toast_route_d2d68b95:
+
+    # Amar angry "Fortis, while I do enjoy your humour, all I see is a dirty, traitorous rag."
+    Amar angry "“我很欣賞你的幽默感，Fortis，但我看到的就只有一塊骯髒的、背信棄義的抹布。”"
+
+# game/story/Chapter_T3.rpy:3820
+translate Tchinese king_toast_route_b71581d0:
+
+    # Fort shocked "O-Ok..."
+    Fort shocked "“好-好吧...”"
+
+# game/story/Chapter_T3.rpy:3827
+translate Tchinese king_toast_route_60dd93fb:
+
+    # "Amare brings the box of parts over for Fortis to put the motherboard in."
+    "Amare把裝零件的箱子拿過來，示意Fortis把主板放進去。"
+
+# game/story/Chapter_T3.rpy:3829
+translate Tchinese king_toast_route_b6c2f49c:
+
+    # Amar "That's enough time spent here, we should go."
+    Amar "“我們在這裡待夠久了，是時候出發了。”"
+
+# game/story/Chapter_T3.rpy:3841
+translate Tchinese king_toast_route_ac884cc6:
+
+    # "Suddenly, another portal opens before Amare could summon his own. Nox floats through."
+    "就在Amare想要召喚傳送門之前，另一道傳送門突然打開，Nox從中漂了出來。"
+
+# game/story/Chapter_T3.rpy:3849
+translate Tchinese king_toast_route_1a9e695d:
+
+    # Nox "There you two are."
+    Nox "“你們兩個在這啊。”"
+
+# game/story/Chapter_T3.rpy:3851
+translate Tchinese king_toast_route_0139ad44:
+
+    # Amar "Nox..."
+    Amar "“Nox...”"
+
+# game/story/Chapter_T3.rpy:3852
+translate Tchinese king_toast_route_7928855b:
+
+    # Fort "Nox, you wouldn't guess what Amare took from you—"
+    Fort "“Nox，你絕對猜不到Amare從你那-”"
+
+# game/story/Chapter_T3.rpy:3873
+translate Tchinese king_toast_route_92d201b8:
+
+    # Fort "Never mind."
+    Fort "“算了，當我沒說。”"
+
+# game/story/Chapter_T3.rpy:3877
+translate Tchinese king_toast_route_d56408db:
+
+    # Nox "Amare I think something is wrong with your security system. When I arrived at \nthe front of the workshop, your robots attacked me."
+    Nox "“我想你的安保系統發生了故障，Amare。我一來到\n你的工坊，你的機器人就開始襲擊我。”"
+
+# game/story/Chapter_T3.rpy:3878
+translate Tchinese king_toast_route_49747a93:
+
+    # Amar "Oh but of course, I had them set to take out traitors automatically."
+    Amar "“噢，那是當然了，我給它們輸入了除掉叛徒的指令。”"
+
+# game/story/Chapter_T3.rpy:3879
+translate Tchinese king_toast_route_d59b562c:
+
+    # "The lynx demon scowls at the frog but Nox's expression remains unchanged."
+    "山貓怒視著Nox，但青蛙的表情沒有一絲改變。"
+
+# game/story/Chapter_T3.rpy:3880
+translate Tchinese king_toast_route_32b0d26d:
+
+    # Fort neutral1 "Why are you here, Nox?"
+    Fort neutral1 "“你來幹嘛了，Nox？”"
+
+# game/story/Chapter_T3.rpy:3881
+translate Tchinese king_toast_route_cd073fad:
+
+    # Nox "I have something important to tell you, Amare."
+    Nox "“我要向你傳達一件重要的事，Amare。”"
+
+# game/story/Chapter_T3.rpy:3882
+translate Tchinese king_toast_route_00d77032:
+
+    # Amar "Tell me later! We have a mortal to take care of, and he needs sustenance."
+    Amar "“之後再說！我們有一個凡人需要照顧，他得吃東西。”"
+
+# game/story/Chapter_T3.rpy:3883
+translate Tchinese king_toast_route_f4384968:
+
+    # Nox "The instruction comes from Lord Vendrake."
+    Nox "“這是來自Vendrake大人的指示。”"
+
+# game/story/Chapter_T3.rpy:3884
+translate Tchinese king_toast_route_39c8ccd6:
+
+    # Amar neutral "Well, that changes everything. "
+    Amar neutral "“那就另說了。”"
+
+# game/story/Chapter_T3.rpy:3885
+translate Tchinese king_toast_route_3f62a53c:
+
+    # extend angry "Tell me, never!"
+    extend angry "“我，永遠，也不要聽，他的話！”"
+
+# game/story/Chapter_T3.rpy:3890
+translate Tchinese king_toast_route_cc24e729:
+
+    # "Nox looks over to Fortis hoping for some support from his comrade, but the dog turns away."
+    "Nox看向Fortis，希望得到自己戰友的支持，但狗轉過身去。"
+
+# game/story/Chapter_T3.rpy:3897
+translate Tchinese king_toast_route_654da36a:
+
+    # "Fortis picks up the box of parts and the lynx general summons their portal."
+    "Fortis抱起零件箱，山貓將軍召喚他們的傳送門。"
+
+# game/story/Chapter_T3.rpy:3898
+translate Tchinese king_toast_route_088115b5:
+
+    # Amar "Time to feed a hungry alpaca!"
+    Amar "“是時候去餵一隻飢餓的羊駝了！”"
+
+# game/story/Chapter_T3.rpy:3900
+translate Tchinese king_toast_route_107fb0c1:
+
+    # Nox "I'm coming with you. It’s important that you hear this as soon as possible."
+    Nox "“我跟你們一起去，你必須盡快聽到這個消息，這很重要。”"
+
+# game/story/Chapter_T3.rpy:3902
+translate Tchinese king_toast_route_415f49ed:
+
+    # Amar "Fine, just wait until we’re done. You better keep the chatter to a minimum. You know how your questions can aggravate others."
+    Amar "“隨你，至少等我們辦完事再說。還有你最好少說話，你的那些問題總能激怒別人。”"
+
+# game/story/Chapter_T3.rpy:3907
+translate Tchinese king_toast_route_25791ea2:
+
+    # "The three demons move through the portal and arrive right outside the pantry."
+    "三個惡魔穿過傳送門，正好來到茶水間的門外。"
+
+# game/story/Chapter_T3.rpy:3908
+translate Tchinese king_toast_route_067b0e19:
+
+    # Nox "Why didn’t you teleport us inside?"
+    Nox "“為什麼不直接傳送到裡面？”"
+
+# game/story/Chapter_T3.rpy:3909
+translate Tchinese king_toast_route_b0ca4c16:
+
+    # Fort "It’s a security risk. We don’t know how desperate the mortal is. He might try to run into our portals, and I don’t want to find out what happens when he does, well at least not yet."
+    Fort "“這是為了安全考慮。誰也不知道一個絕望的凡人會怎麼做，他或許會衝進我們的傳送門，我可不想考慮那樣的後果，至少現在還不想。”"
+
+# game/story/Chapter_T3.rpy:3910
+translate Tchinese king_toast_route_d9415e27:
+
+    # "Box in hand, the largest of the three takes out a key and opens the door."
+    "犬惡魔騰出一隻手，拿鑰匙開了門。"
+
+# game/story/Chapter_T3.rpy:3919
+translate Tchinese king_toast_route_3c206596:
+
+    # "Fortis steps through and King leaps out from under a table."
+    "Fortis走過來，King從桌子底下跳了出來。"
+
+# game/story/Chapter_T3.rpy:3928
+translate Tchinese king_toast_route_2cee2caa:
+
+    # "King screams while swinging his pan at the demon. It hits Fortis’ on the chest, and with a loud creak the pan bends at the handle."
+    "King尖叫著把平底鍋朝惡魔揮去，並順利擊中了Fortis的胸部。隨著咣噹一聲響，平底鍋的把手都彎了。"
+
+# game/story/Chapter_T3.rpy:3931
+translate Tchinese king_toast_route_152cbd56:
+
+    # "King gasps loudly."
+    "King倒吸了一口氣，大聲地。"
+
+# game/story/Chapter_T3.rpy:3932
+translate Tchinese king_toast_route_6116e2a4:
+
+    # Fort laugh pose2 "Hah— "
+    Fort laugh pose2 "“哈-”"
+
+# game/story/Chapter_T3.rpy:3933
+translate Tchinese king_toast_route_92da59dc:
+
+    # extend pose3 "You gotta try harder than that."
+    extend pose3 "“你還得再用點力。”"
+
+# game/story/Chapter_T3.rpy:3937
+translate Tchinese king_toast_route_60300c5a:
+
+    # "He places the box on the floor and snatches the alpaca’s pan."
+    "他把盒子放在地板上，然後搶走了羊駝的平底鍋。"
+
+# game/story/Chapter_T3.rpy:3947
+translate Tchinese king_toast_route_5081a01d:
+
+    # "King reels back in fear."
+    "King嚇得連連後退。"
+
+# game/story/Chapter_T3.rpy:3951
+translate Tchinese king_toast_route_d1da6f65:
+
+    # K "Ah, don’t hurt me!"
+    K "“呀，不要傷害我！”"
+
+# game/story/Chapter_T3.rpy:3952
+translate Tchinese king_toast_route_943b7152:
+
+    # "Anticipating a painful beating, King shields his face."
+    "King護著臉，以為自己將迎來一頓毒打。"
+
+# game/story/Chapter_T3.rpy:3955
+translate Tchinese king_toast_route_6f3431ff:
+
+    # "However, no such beating comes. Only the sound of metal screeching."
+    "然而並沒有，只聽見金屬刺耳的聲音。"
+
+# game/story/Chapter_T3.rpy:3958
+translate Tchinese king_toast_route_ca0c65b9:
+
+    # "Lowering his hands, King sees that Fortis has restored the pan to its original shape."
+    "King放下手臂，看到Fortis已經把平底鍋恢復成了原來的形狀。"
+
+# game/story/Chapter_T3.rpy:3961
+translate Tchinese king_toast_route_ff4cd273:
+
+    # Fort "Here, don’t go breaking it, that’s company property."
+    Fort "“給，不要再破壞公司的財產了。”"
+
+# game/story/Chapter_T3.rpy:3963
+translate Tchinese king_toast_route_b6ba3102:
+
+    # K sad "Sorry..."
+    K sad "“對不起...”"
+
+# game/story/Chapter_T3.rpy:3970
+translate Tchinese king_toast_route_26653619:
+
+    # "He takes the pan and puts it on the table."
+    "他接住鍋，放在了桌子上。"
+
+# game/story/Chapter_T3.rpy:3973
+translate Tchinese king_toast_route_68c05487:
+
+    # Amar "Fortis, would you please move, you’re blocking the doorway."
+    Amar "“Fortis，介意挪幾步嗎？你把門給擋住了。”"
+
+# game/story/Chapter_T3.rpy:3983
+translate Tchinese king_toast_route_6e757823:
+
+    # "Fortis snorts before finding a place to sit, kicking his legs up onto the table."
+    "Fortis哼了一聲，找個地方坐下，並把腿高高翹到桌子上。"
+
+# game/story/Chapter_T3.rpy:3989
+translate Tchinese king_toast_route_55d6839f:
+
+    # "Although he appears to be relaxing, his eyes remain fixed on the alpaca."
+    "雖然看起來很隨意，但他的眼睛始終盯著羊駝不放。"
+
+# game/story/Chapter_T3.rpy:3990
+translate Tchinese king_toast_route_63402858:
+
+    # Amar smile "Hi there test subject— {w=1}{nw}"
+    Amar smile "“你好啊，實驗對象-{w=1}{nw}”"
+
+# game/story/Chapter_T3.rpy:3992
+translate Tchinese king_toast_route_8fcc0072:
+
+    # extend @ shocked "I mean, King."
+    extend @ shocked "“我是說，King。”"
+
+# game/story/Chapter_T3.rpy:3993
+translate Tchinese king_toast_route_695addc0:
+
+    # "King eyes the demon suspiciously."
+    "King用懷疑的眼神打量著惡魔。"
+
+# game/story/Chapter_T3.rpy:3995
+translate Tchinese king_toast_route_2de3a8d9:
+
+    # Amar "A slip of the tongue, honest. We’re here to install your food generating machine."
+    Amar "“口誤而已，千真萬確。我們今天過來，是為了安裝你的食物產生機。”"
+
+# game/story/Chapter_T3.rpy:3996
+translate Tchinese king_toast_route_359db781:
+
+    # K neutral "Finally, food."
+    K neutral "“終於有吃的了。”"
+
+# game/story/Chapter_T3.rpy:4002
+translate Tchinese king_toast_route_893c6976:
+
+    # Amar_nt "Let me just get the parts and I’ll rebuild it for you."
+    Amar_nt "“在安裝之前，先讓我把零件取出來。”"
+
+# game/story/Chapter_T3.rpy:4003
+translate Tchinese king_toast_route_62d3e631:
+
+    # "The lynx walks over to the box on the floor to unpack the parts."
+    "猞猁從地板上的箱子裡拿出零件。"
+
+# game/story/Chapter_T3.rpy:4007
+translate Tchinese king_toast_route_c03f8253:
+
+    # "As he does so, King becomes aware of the floating frog before him."
+    "與此同時，King注意到他面前漂浮著一隻青蛙。"
+
+# game/story/Chapter_T3.rpy:4009
+translate Tchinese king_toast_route_0125bcfe:
+
+    # "King quickly looks away when Nox notices him staring."
+    "對上對方視線的剎那，King迅速移開目光。"
+
+# game/story/Chapter_T3.rpy:4012
+translate Tchinese king_toast_route_47db2756:
+
+    # "But not before Nox approaches the alpaca."
+    "但Nox已經接近了羊駝。"
+
+# game/story/Chapter_T3.rpy:4015
+translate Tchinese king_toast_route_f28024c4:
+
+    # Nox "Hello mortal, I am Nox, General of the Mental Torture Zone, and Second in \nCommand to the Demon Lord."
+    Nox "“你好，凡人，我是Nox，精神折磨區的將軍，魔王的副手。”"
+
+# game/story/Chapter_T3.rpy:4017
+translate Tchinese king_toast_route_32d40cb2:
+
+    # K "Hello... Yeah, I remember you when I first got here."
+    K "“你好...我剛來的時候就見過你了。”"
+
+# game/story/Chapter_T3.rpy:4019
+translate Tchinese king_toast_route_7aae89eb:
+
+    # Amar angry "You left out Traitor, in your introduction."
+    Amar angry "“你的自我介紹裡少了‘叛徒’這部分。”"
+
+# game/story/Chapter_T3.rpy:4022
+translate Tchinese king_toast_route_afb74f3c:
+
+    # Nox_nt "..."
+    Nox_nt "“...”"
+
+# game/story/Chapter_T3.rpy:4023
+translate Tchinese king_toast_route_914a38b0:
+
+    # Fort confused "Amare, that’s unnecessary."
+    Fort confused "“算了吧，Amare。”"
+
+# game/story/Chapter_T3.rpy:4024
+translate Tchinese king_toast_route_fa449386:
+
+    # Amar smile goggle2 "I’m only stating the facts."
+    Amar smile goggle2 "“我只是在陳述事實。”"
+
+# game/story/Chapter_T3.rpy:4031
+translate Tchinese king_toast_route_0f17cb93:
+
+    # "Amare uses his many arms to carry the parts to the table."
+    "Amare用多隻手把零件抬到桌子上。"
+
+# game/story/Chapter_T3.rpy:4037
+translate Tchinese king_toast_route_9d0e9171:
+
+    # "King feels he’s stuck inside an uncomfortable triangle between the demons. Amare behind him tinkering with his machine, Nox in front of him guarding the door, and Fortis staring at him while manspreading to the right."
+    "King覺得自己被困在了這三個惡魔微妙的關係場中：Amare在他身後擺弄著自己的機器，Nox在他面前守著門，Fortis則兩腿一叉坐在右邊盯著他。"
+
+# game/story/Chapter_T3.rpy:4038
+translate Tchinese king_toast_route_26eb223e:
+
+    # K @ sad "{i}This is feeling a lot like that time me and the girls argued about why we all wore the same dress to prom.{/i}"
+    K @ sad "“{b}感覺就像那次，我跟姑娘們爭論為什麼要穿同樣的衣服參加舞會似的。{/b}”"
+
+# game/story/Chapter_T3.rpy:4041
+translate Tchinese king_toast_route_210230be:
+
+    # "To his relief, Amare breaks the silence with a question."
+    "Amare用一個問題打破了沉默，這讓他鬆了口氣。"
+
+# game/story/Chapter_T3.rpy:4044
+translate Tchinese king_toast_route_50165559:
+
+    # Amar "So, how are you enjoying your stay, King?"
+    Amar "“話說，你在這裡還好嗎，King？”"
+
+# game/story/Chapter_T3.rpy:4046
+translate Tchinese king_toast_route_79e70838:
+
+    # "King crosses his arms."
+    "King雙臂抱胸。"
+
+# game/story/Chapter_T3.rpy:4047
+translate Tchinese king_toast_route_3836ccc8:
+
+    # K "It's terrible!"
+    K "“糟透了！”"
+
+# game/story/Chapter_T3.rpy:4048
+translate Tchinese king_toast_route_9b5c9c50:
+
+    # Amar "Perfect— {w=1}{nw}"
+    Amar "“非常好-{w=1}{nw}”"
+
+# game/story/Chapter_T3.rpy:4050
+translate Tchinese king_toast_route_46dd09b6:
+
+    # extend "I mean, scratch that, force of habit."
+    extend "“我是說，習慣就好。”"
+
+# game/story/Chapter_T3.rpy:4051
+translate Tchinese king_toast_route_2e028227:
+
+    # Amar neutral "We’ll look into the logistics so that we can allow for a more hospitable stay..."
+    Amar neutral "“我們會做好後勤工作，讓你住得更舒適...”"
+
+# game/story/Chapter_T3.rpy:4052
+translate Tchinese king_toast_route_001c87b4:
+
+    # K "I don't need better service, I {b}need{/b} to go home."
+    K "“我才不稀罕舒適的生活，我{b}要{/b}回家。”"
+
+# game/story/Chapter_T3.rpy:4054
+translate Tchinese king_toast_route_517635a6:
+
+    # "King looks at Amare with pleading eyes."
+    "King用懇求的眼神望向Amare。"
+
+# game/story/Chapter_T3.rpy:4055
+translate Tchinese king_toast_route_350bdfe0:
+
+    # K "Please... look into your heart, I shouldn’t be here."
+    K "“請你們捫心自問一下...我真的該在這裡嗎？”"
+
+# game/story/Chapter_T3.rpy:4057
+translate Tchinese king_toast_route_b20cab4d:
+
+    # "Somehow, looking at the alpaca's big, round eyes awakens the cat's desire to protect him."
+    "不知怎的，看著羊駝又大又圓的眼睛，貓不由得升起一股保護欲。"
+
+# game/story/Chapter_T3.rpy:4058
+translate Tchinese king_toast_route_4b088297:
+
+    # Amar neutral "Oooooh noooo—"
+    Amar neutral "“噢——不——”"
+
+# game/story/Chapter_T3.rpy:4059
+translate Tchinese king_toast_route_c8fc95c1:
+
+    # "The sarcasm is thick in his voice."
+    "他的聲音裡充滿了諷刺。"
+
+# game/story/Chapter_T3.rpy:4060
+translate Tchinese king_toast_route_31a1489c:
+
+    # Amar "We could never defy our almighty, all knowing, all empowering leader, Vendrake! No way, nu-uh. Turn away mortal, for I cannot help you."
+    Amar "“我們斷然不可違抗我們那無所不知、無所不能的領袖Vendrake！放棄吧，凡人，我幫不了你。”"
+
+# game/story/Chapter_T3.rpy:4063
+translate Tchinese king_toast_route_f832e756:
+
+    # "Amare winks."
+    "Amare眨巴了一下眼。"
+
+# game/story/Chapter_T3.rpy:4065
+translate Tchinese king_toast_route_a3fc9b6e:
+
+    # Nox "I saw that. Amare you’re putting your position in jeopardy if you disobey our \nLord."
+    Nox "“我聽得懂，Amare，不要試圖違抗那位大人的命令，\n否則你只會引火燒身。”"
+
+# game/story/Chapter_T3.rpy:4067
+translate Tchinese king_toast_route_bfcaf063:
+
+    # Amar angry hands_2 "Funny how you're thinking about my welfare now, Nox."
+    Amar angry hands_2 "“你現在倒是擔心起我的福利問題了，Nox，多可笑啊。”"
+
+# game/story/Chapter_T3.rpy:4069
+translate Tchinese king_toast_route_afb74f3c_1:
+
+    # Nox_nt "..."
+    Nox_nt "“...”"
+
+# game/story/Chapter_T3.rpy:4070
+translate Tchinese king_toast_route_291c1088:
+
+    # Nox "You are important to the Underworld. If you give Lord Vendrake reasons to \nremove you—"
+    Nox "“你對冥界的意義重大，如果被Vendrake大人\n發現開除你的理由-”"
+
+# game/story/Chapter_T3.rpy:4072
+translate Tchinese king_toast_route_e58b16dd:
+
+    # Amar "I bet you both would love that. Replace me with some other demon that's more obedient."
+    Amar "“我打賭你們兩個都巴不得我下台，好把我換成其他更聽話的惡魔。”"
+
+# game/story/Chapter_T3.rpy:4074
+translate Tchinese king_toast_route_40d657bc:
+
+    # Nox "I didn't say that. You're being immature and I won't let you throw your career \naway for one mortal."
+    Nox "“這並非我的本意。你太不成熟了，\n我不能讓你為了區區凡人而葬送自己的前程。”"
+
+# game/story/Chapter_T3.rpy:4077
+translate Tchinese king_toast_route_737a4333:
+
+    # "Amare tightens his gloved fists. He looks at the alpaca once again, dejected."
+    "Amare握緊拳頭，又沮喪地看了眼羊駝。"
+
+# game/story/Chapter_T3.rpy:4078
+translate Tchinese king_toast_route_c9ae6d4a:
+
+    # Amar hands_1 "Sorry... I really do want to help, but the tattletale right there will make it impossible."
+    Amar hands_1 "“抱歉...我真的很想幫你，但那個愛搬弄是非的傢伙是不會坐視不理的。”"
+
+# game/story/Chapter_T3.rpy:4082
+translate Tchinese king_toast_route_5e47d8af:
+
+    # "King sighs and resigns to his seat."
+    "King嘆了口氣，回到自己的座位上。"
+
+# game/story/Chapter_T3.rpy:4084
+translate Tchinese king_toast_route_7ff282ff:
+
+    # "The awkward atmosphere returns as Amare continues to rebuild his machine."
+    "Amare重新投入到機器的建造中，氣氛再度陷入了尷尬。"
+
+# game/story/Chapter_T3.rpy:4085
+translate Tchinese king_toast_route_1f267f9c:
+
+    # "The sound of metal clanking serenades King as he thinks about how he would escape."
+    "在金屬編織而成的小夜曲中，King開始思索如何逃跑。"
+
+# game/story/Chapter_T3.rpy:4086
+translate Tchinese king_toast_route_0c4ebe78:
+
+    # "Several minutes pass..."
+    "幾分鐘過去了..."
+
+# game/story/Chapter_T3.rpy:4104
+translate Tchinese king_toast_route_65cf21c6:
+
+    # Amar "It is done!"
+    Amar "“完成了！”"
+
+# game/story/Chapter_T3.rpy:4109
+translate Tchinese king_toast_route_da903b53:
+
+    # "Amare's announcement snaps King out of his rumination."
+    "Amare的宣告把King從沉思中驚醒。"
+
+# game/story/Chapter_T3.rpy:4113
+translate Tchinese king_toast_route_691983ea:
+
+    # Fort_nt "Finally, I nearly fell asleep watching you work."
+    Fort_nt "“終於，我差點看睡著了。”"
+
+# game/story/Chapter_T3.rpy:4116
+translate Tchinese king_toast_route_2a876f25:
+
+    # "Amare stands before the group, presenting as though he were a salesperson."
+    "Amare站在大家面前，擺出一副銷售員的樣子。"
+
+# game/story/Chapter_T3.rpy:4117
+translate Tchinese king_toast_route_a98782df:
+
+    # Amar hands_2 "This machine can create any dish or raw ingredient from Earth."
+    Amar hands_2 "“這台機器可以製造出地球上的任何菜餚或原料。”"
+
+# game/story/Chapter_T3.rpy:4118
+translate Tchinese king_toast_route_3b7aea9a:
+
+    # K question "It looks like a microwave."
+    K question "“看起來像一台微波爐。”"
+
+# game/story/Chapter_T3.rpy:4119
+translate Tchinese king_toast_route_a68dd1c4:
+
+    # Amar hands_1 neutral "Exactly! Watch me as I use it."
+    Amar hands_1 neutral "“沒錯！你們瞧好了。”"
+
+# game/story/Chapter_T3.rpy:4128
+translate Tchinese king_toast_route_96891b62:
+
+    # "He presses a combination of buttons and the machine whirrs to life. King can see thick white smoke swirling behind the glass."
+    "他按下幾個按鈕，機器就啟動了。隔著玻璃罩，King可以看到裡面正在旋轉的白色濃煙。"
+
+# game/story/Chapter_T3.rpy:4132
+translate Tchinese king_toast_route_a65fc0a4:
+
+    # "In under a minute, the pseudo-microwave dings."
+    "不到一分鐘，偽.微波叮了一聲。"
+
+# game/story/Chapter_T3.rpy:4140
+translate Tchinese king_toast_route_133d80c5:
+
+    # "Amare opens the door and pulls out a bag of chips."
+    "Amare打開門，拿出一袋洋芋片。"
+
+# game/story/Chapter_T3.rpy:4145
+translate Tchinese king_toast_route_fd8e3275:
+
+    # Amar "Tada, give it a try!"
+    Amar "“鐺鐺，來，試試看！”"
+
+# game/story/Chapter_T3.rpy:4148
+translate Tchinese king_toast_route_f6a3b1cc:
+
+    # "One of his floating limbs opens the bag, and grabs a chip while another takes the packet to pass the food around."
+    "他用漂浮著的手撕開袋子，夾出一片洋芋片，並用另一隻手分發起了食物。"
+
+# game/story/Chapter_T3.rpy:4155
+translate Tchinese king_toast_route_88679691:
+
+    # "The arm serves Fortis, skips Nox, then King before returning to Amare."
+    "順序為Fortis，跳過Nox，接著是King，最後返回Amare的身邊。"
+
+# game/story/Chapter_T3.rpy:4162
+translate Tchinese king_toast_route_0e5041e1:
+
+    # "Those with chips in hand take a bite out of them."
+    "大家都嘗了一口。"
+
+# game/story/Chapter_T3.rpy:4167
+translate Tchinese king_toast_route_313e6673:
+
+    # K sad "It's...it...hmmm it tastes like cardboard."
+    K sad "“這...呃...吃起來像硬紙板一樣。”"
+
+# game/story/Chapter_T3.rpy:4168
+translate Tchinese king_toast_route_cc614859:
+
+    # Fort neutral1 "Tastes like a regular old chip to me."
+    Fort neutral1 "“味道普普通通。”"
+
+# game/story/Chapter_T3.rpy:4169
+translate Tchinese king_toast_route_dac3269c:
+
+    # Amar neutral "Yes, this is what the food is always like."
+    Amar neutral "“是的，這就是食物的味道。”"
+
+# game/story/Chapter_T3.rpy:4170
+translate Tchinese king_toast_route_636bc79c:
+
+    # K question "You guys can't really be satisfied with this, right?"
+    K question "“你們不會這樣就滿足了吧？”"
+
+# game/story/Chapter_T3.rpy:4174
+translate Tchinese king_toast_route_cff412c4:
+
+    # "The demons shrug."
+    "惡魔們聳聳肩。"
+
+# game/story/Chapter_T3.rpy:4175
+translate Tchinese king_toast_route_921e41a7:
+
+    # K neutral "Ok, maybe it's because it's processed food. Can we try something freshly cooked?"
+    K neutral "“好吧，也許是因為加工過的緣故，我們能嚐嚐新鮮的食物嗎？”"
+
+# game/story/Chapter_T3.rpy:4176
+translate Tchinese king_toast_route_8a9b3748:
+
+    # Amar "Of course, let me show you how."
+    Amar "“當然可以，讓我示範給你看。”"
+
+# game/story/Chapter_T3.rpy:4189
+translate Tchinese king_toast_route_d636acd4:
+
+    # "Amare demonstrates how the machine's buttons work to King. The alpaca keys in the combination to generate a bowl of spaghetti bolognaise."
+    "Amare向King示範了機器上各個按鈕的左右，羊駝一頓組合，製作出一碗義大利肉醬麵。"
+
+# game/story/Chapter_T3.rpy:4194
+translate Tchinese king_toast_route_e4c469d9:
+
+    # "Once again the food materialises from nothing."
+    "食物又一次從無到有。"
+
+# game/story/Chapter_T3.rpy:4196
+translate Tchinese king_toast_route_b58ceef9:
+
+    # Amar "Looks fine to me."
+    Amar "“看起來還不錯。”"
+
+# game/story/Chapter_T3.rpy:4201
+translate Tchinese king_toast_route_20de791d:
+
+    # K "It’s the taste that matters."
+    K "“味道更重要。”"
+
+# game/story/Chapter_T3.rpy:4214
+translate Tchinese king_toast_route_e46ffa13:
+
+    # "The alpaca grabs a few forks and washes them before handing them out."
+    "羊駝找到幾把叉子，洗乾淨後分發出去。"
+
+# game/story/Chapter_T3.rpy:4215
+translate Tchinese king_toast_route_e49f4c57:
+
+    # "One for Fortis, Amare, then Nox."
+    "先是Fortis，然後是Amare，接著是Nox。"
+
+# game/story/Chapter_T3.rpy:4219
+translate Tchinese king_toast_route_9d4b9dc5:
+
+    # Nox "You want me to try it?"
+    Nox "“你想讓我吃嗎？”"
+
+# game/story/Chapter_T3.rpy:4223
+translate Tchinese king_toast_route_ad4ac8f9:
+
+    # Amar @ angry "Just ignore him, King. I doubt he has any interest in this."
+    Amar @ angry "“別理他，King，我懷疑他根本就不感興趣。”"
+
+# game/story/Chapter_T3.rpy:4227
+translate Tchinese king_toast_route_3367c713:
+
+    # K "Well, we need more tongues to confirm my theory. So all hands on deck, please."
+    K "“為了證實我的理論，我們需要更多舌頭。那麼，請大伙做好準備。”"
+
+# game/story/Chapter_T3.rpy:4228
+translate Tchinese king_toast_route_afb74f3c_2:
+
+    # Nox_nt "..."
+    Nox_nt "“...”"
+
+# game/story/Chapter_T3.rpy:4230
+translate Tchinese king_toast_route_c5d08424:
+
+    # "The frog reaches out and takes the fork."
+    "青蛙伸手拿起叉子。"
+
+# game/story/Chapter_T3.rpy:4232
+translate Tchinese king_toast_route_376bb688:
+
+    # K "Ok, let’s try it together."
+    K "“很好，咱們開動吧。”"
+
+# game/story/Chapter_T3.rpy:4237
+translate Tchinese king_toast_route_fcf0fa7c:
+
+    # "Each of them takes a bite of the generated meal."
+    "他們每個人都吃了一口生成的食物。"
+
+# game/story/Chapter_T3.rpy:4239
+translate Tchinese king_toast_route_bec2639e:
+
+    # "King winces. The bolognaise sauce is bitter and the pasta overcooked to mush. The dish has the undesirable consistency of baby food."
+    "King不禁眉頭緊鎖。肉醬發苦，麵條也煮得太爛了，整道菜呈現出一種嬰兒食品的黏稠感..."
+
+# game/story/Chapter_T3.rpy:4243
+translate Tchinese king_toast_route_9b69135c:
+
+    # "In contrast, the demon’s shrug to each other before fervently slurping down the noodles."
+    "相比之下，惡魔們只是聳聳肩，然後狼吞虎咽地吃下麵條。"
+
+# game/story/Chapter_T3.rpy:4244
+translate Tchinese king_toast_route_7d6724b8:
+
+    # Fort "Tastes normal."
+    Fort "“馬馬虎虎吧。”"
+
+# game/story/Chapter_T3.rpy:4245
+translate Tchinese king_toast_route_9640c52d:
+
+    # Amar "Yes, isn't this what this dish tastes like?"
+    Amar "“對啊，菜不都是這個味嘛？”"
+
+# game/story/Chapter_T3.rpy:4246
+translate Tchinese king_toast_route_8defd7ea:
+
+    # Nox "It reminds me of the mealworm soup I usually have."
+    Nox "“這讓我想起了我經常喝的黃粉蟲湯。”"
+
+# game/story/Chapter_T3.rpy:4247
+translate Tchinese king_toast_route_b00a8148:
+
+    # K shocked "You all need your taste buds checked! This is unacceptable."
+    K shocked "“難以置信，你們的味蕾需要檢查檢查了！”"
+
+# game/story/Chapter_T3.rpy:4249
+translate Tchinese king_toast_route_77b00a92:
+
+    # Amar "We’re demons. We don’t need to eat or drink to live, we just do it because it looks like fun. The only demon who cared about how food tasted was [name]."
+    Amar "“我們是惡魔，不需要依靠吃或喝來維生，我們唯一這樣做的理由是因為有趣。只有[name]會關心食物的味道。”"
+
+# game/story/Chapter_T3.rpy:4250
+translate Tchinese king_toast_route_1e2a1375:
+
+    # Amar sad "Perhaps, that’s why he stopped using my machine."
+    Amar sad "“也許這就是他沒有再使用我的機器的原因了。”"
+
+# game/story/Chapter_T3.rpy:4253
+translate Tchinese king_toast_route_7ee2b051:
+
+    # Nox "Why does the taste of their sustenance matter so much to mortals?"
+    Nox "“為什麼人類如此看重食物的味道？”"
+
+# game/story/Chapter_T3.rpy:4255
+translate Tchinese king_toast_route_ec051143:
+
+    # "King puts a hand on his heart."
+    "King將一隻手放在胸前。"
+
+# game/story/Chapter_T3.rpy:4256
+translate Tchinese king_toast_route_c5be122a:
+
+    # K "Because I live to eat."
+    K "“因為我就是為此而生的。”"
+
+# game/story/Chapter_T3.rpy:4257
+translate Tchinese king_toast_route_ef33f198:
+
+    # Nox "The purpose of living is to continuously find sustenance?"
+    Nox "“生的意義難道不是不停尋找食物嗎？”"
+
+# game/story/Chapter_T3.rpy:4258
+translate Tchinese king_toast_route_a583fe8c:
+
+    # K frustrated "Not literally."
+    K frustrated "“你錯了。”"
+
+# game/story/Chapter_T3.rpy:4259
+translate Tchinese king_toast_route_5c46f944:
+
+    # K neutral "Eating is more than just the food you consume. It’s about bringing people you care about together. It’s how we mend sadness, and it’s the easiest way to tell someone you care about them."
+    K neutral "“吃飯不僅僅是把食物嚥下肚，更是為了和關心的人聚在一起。憑藉這種簡單的方式，我們既可以治癒悲傷，也可以分享對彼此的愛。”"
+
+# game/story/Chapter_T3.rpy:4260
+translate Tchinese king_toast_route_415fb6ca:
+
+    # K "All of that is like life, a roller coaster of experiences."
+    K "“飯桌乃是生活最大的道場。”"
+
+# game/story/Chapter_T3.rpy:4261
+translate Tchinese king_toast_route_36beaab8:
+
+    # Nox "Life... a roller coaster ride... Interesting."
+    Nox "“生活...道場...有趣。”"
+
+# game/story/Chapter_T3.rpy:4263
+translate Tchinese king_toast_route_367fc678:
+
+    # "King scratches the side of his head."
+    "King撓了撓頭。"
+
+# game/story/Chapter_T3.rpy:4265
+translate Tchinese king_toast_route_e2aa4aa3:
+
+    # K "I'm just talking out of my ass. Why don't I get to cooking and show you all how it's done."
+    K "“別往心裡去，我看我還是給你們展示一下何謂真正的料理吧。”"
+
+# game/story/Chapter_T3.rpy:4276
+translate Tchinese king_toast_route_8a27464b:
+
+    # "King summons some raw tomatoes and carrots. He takes a bite out of each, nodding in approval of their tastes."
+    "King生產出一些番茄和胡蘿蔔，並在每個上面都咬了一口，點頭表示讚許。"
+
+# game/story/Chapter_T3.rpy:4279
+translate Tchinese king_toast_route_a6287d87:
+
+    # K "So most raw components are fine. Which means, the machine just can’t handle making a decent dish from the get go."
+    K "“原料是好的，這意味著這台機器的合成方式有問題。”"
+
+# game/story/Chapter_T3.rpy:4280
+translate Tchinese king_toast_route_41dafb9b:
+
+    # K "I know what to do."
+    K "“我知道該怎麼做了。”"
+
+# game/story/Chapter_T3.rpy:4287
+translate Tchinese king_toast_route_769d6324:
+
+    # "King heads for the cabinets where the pots, pans, and portable gas stoves are kept."
+    "King走向放著鍋碗瓢盆和攜帶式燃氣爐子的灶台。"
+
+# game/story/Chapter_T3.rpy:4299
+translate Tchinese king_toast_route_96fcc863:
+
+    # "Invigorated by his passion for cooking, King’s movements become graceful yet precise."
+    "出於對烹飪的熱愛，King的動作變得優雅而精細。"
+
+# game/story/Chapter_T3.rpy:4300
+translate Tchinese king_toast_route_75bfea2b:
+
+    # "King then proceeds to generate a myriad of ingredients, spices, and condiments he knows by heart."
+    "然後，他開始源源不斷地生產那些早已爛熟於心的食材、香料和調味品。"
+
+# game/story/Chapter_T3.rpy:4307
+translate Tchinese king_toast_route_acaf576c:
+
+    # "He starts washing, prepping and cooking the ingredients into his own spaghetti bolognaise."
+    "King清洗、準備食材，並將其烹飪成自己滿意的義大利肉醬麵。"
+
+# game/story/Chapter_T3.rpy:4308
+translate Tchinese king_toast_route_18d1d4e5:
+
+    # "Fortis and Amare take a seat at a nearby table while Nox remains on guard at the door."
+    "Fortis和Amare在附近的桌子坐下，而Nox仍然在門口警戒。"
+
+# game/story/Chapter_T3.rpy:4309
+translate Tchinese king_toast_route_7601de57:
+
+    # "As the mortal moves about, Amare takes down various notes with his floating hands."
+    "Amare用飄浮手記錄下凡人的一舉一動。"
+
+# game/story/Chapter_T3.rpy:4310
+translate Tchinese king_toast_route_b9059161:
+
+    # "Fortis crosses his arms and keeps his eyes glued on the alpaca."
+    "Fortis雙臂抱胸，眼睛始終不曾離開羊駝。"
+
+# game/story/Chapter_T3.rpy:4311
+translate Tchinese king_toast_route_8ad22857:
+
+    # "King weaves from one task to another, in a matter of minutes, he has the completed dish."
+    "King有條不紊地進行著，不出幾分鐘就完成了這道菜餚。"
+
+# game/story/Chapter_T3.rpy:4316
+translate Tchinese king_toast_route_17a41f97:
+
+    # "The pantry is bathed in the aroma of simmering tomatoes."
+    "整個茶水間都沐浴在燉煮番茄的香氣中。"
+
+# game/story/Chapter_T3.rpy:4318
+translate Tchinese king_toast_route_efd6db7b:
+
+    # K "Pasta's up!"
+    K "“義大利麵來囉！”"
+
+# game/story/Chapter_T3.rpy:4320
+translate Tchinese king_toast_route_31ab55cb:
+
+    # "King prepares four plates, three are prepared with minced beef, the other is vegetarian based; for himself."
+    "King準備了四盤面，其中三盤是牛肉麵，他自己吃的那盤則是素麵。"
+
+# game/story/Chapter_T3.rpy:4332
+translate Tchinese king_toast_route_492b70f6:
+
+    # "He approaches Fortis and Amare with a wide grin and places the plates in front of them."
+    "他笑容可掬地走近Fortis和Amare，把盤子放在他們面前。"
+
+# game/story/Chapter_T3.rpy:4334
+translate Tchinese king_toast_route_fbba9b56:
+
+    # "Then he pushes the other plate to Nox, who is smaller in width than the meal itself."
+    "接著將另一個比Nox本人還大的盤子推給他。"
+
+# game/story/Chapter_T3.rpy:4338
+translate Tchinese king_toast_route_3b190c50:
+
+    # K "Dig in!"
+    K "“開動吧！”"
+
+# game/story/Chapter_T3.rpy:4339
+translate Tchinese king_toast_route_843f83fa:
+
+    # "Fortis and Amare examine the steaming hot plate of spaghetti in front of them before turning to each other."
+    "Fortis和Amare看著面前的食物，互相對視了一眼。"
+
+# game/story/Chapter_T3.rpy:4340
+translate Tchinese king_toast_route_e201c871:
+
+    # Fort @ shocked "You see anything different?"
+    Fort @ shocked "“你看出不同來了嗎？”"
+
+# game/story/Chapter_T3.rpy:4341
+translate Tchinese king_toast_route_c661ebfb:
+
+    # Amar "Well, I detect a hint of cheese?"
+    Amar "“唔，我聞到了乳酪的氣味？”"
+
+# game/story/Chapter_T3.rpy:4342
+translate Tchinese king_toast_route_0d7eea2d:
+
+    # K "Right, I used Parmigiano Reggiano."
+    K "“沒錯，我使用了帕爾馬起司。”"
+
+# game/story/Chapter_T3.rpy:4345
+translate Tchinese king_toast_route_0a94042e:
+
+    # "They shrug and take their first bite."
+    "他們聳聳肩，嘗了一口。"
+
+# game/story/Chapter_T3.rpy:4347
+translate Tchinese king_toast_route_7efee2c7:
+
+    # Amar shocked "This is—"
+    Amar shocked "“這是-”"
+
+# game/story/Chapter_T3.rpy:4354
+translate Tchinese king_toast_route_9d59465d:
+
+    # Fort pose4 "DELICIOUS!"
+    Fort pose4 "“{b}太好吃啦！{/b}”"
+
+# game/story/Chapter_T3.rpy:4360
+translate Tchinese king_toast_route_edbaa3c1:
+
+    # Amar "How can food taste like this?"
+    Amar "“食物竟然可以如此美味？”"
+
+# game/story/Chapter_T3.rpy:4372
+translate Tchinese king_toast_route_2430514b:
+
+    # "The two of them continue eating with gusto."
+    "他們兩個津津有味地吃了起來。"
+
+# game/story/Chapter_T3.rpy:4391
+translate Tchinese king_toast_route_05ef4c2f:
+
+    # "King smiles before turning his attention to Nox who's just staring at the food before him."
+    "King笑了笑，然後看向Nox，對方只是沉默地盯著自己那份食物。"
+
+# game/story/Chapter_T3.rpy:4395
+translate Tchinese king_toast_route_36747469:
+
+    # K "Something on your mind? If you’re not a cheese person I can make another plate for you."
+    K "“有什麼心事嗎？如果你不喜歡吃乳酪，我可以再給你做。”"
+
+# game/story/Chapter_T3.rpy:4396
+translate Tchinese king_toast_route_736dc6a7:
+
+    # Nox "I am... perplexed."
+    Nox "“我只是...不理解。”"
+
+# game/story/Chapter_T3.rpy:4398
+translate Tchinese king_toast_route_4c19b1b2:
+
+    # "Nox hesitates for a moment, but the need to ask has been boiling up inside him. While uncharacteristic of himself, he considers that there would be no harm in seeing what insight the mortal could provide to his understanding of life."
+    "Nox猶豫著，但他內心深處的求知慾簡直要沸騰了。他一反常態，迫不及待地希望一探那個凡人會給他帶來怎樣的真知灼見。"
+
+# game/story/Chapter_T3.rpy:4399
+translate Tchinese king_toast_route_51347cea:
+
+    # "Fortis’ ears perk upwards upon noticing the exchange."
+    "Fortis注意到了他們兩個的交流，豎起耳朵。"
+
+# game/story/Chapter_T3.rpy:4400
+translate Tchinese king_toast_route_21c6e7cc:
+
+    # Nox "Tell me mortal, I am certain I’ve left... a less than approachable impression, \nespecially after what my other colleague has said about me. Yet, you still \nchoose to include me."
+    Nox "“請告訴我，凡人，我很確定我給你留下了一個...不平易近人的印象，\n尤其是在我的同事說了那些關於我的話之後。\n然而，你依舊沒有把我排擠在外。”"
+
+# game/story/Chapter_T3.rpy:4401
+translate Tchinese king_toast_route_2ef6488a:
+
+    # K neutral "I’ve been raised to know that no one deserves to starve."
+    K neutral "“我從小就知道，沒有人應該忍飢挨餓。”"
+
+# game/story/Chapter_T3.rpy:4402
+translate Tchinese king_toast_route_7db8f605:
+
+    # Nox "Even someone who cut down one of your only hopes for escape?"
+    Nox "“即使那個人斷絕了你逃跑的唯一希望？”"
+
+# game/story/Chapter_T3.rpy:4403
+translate Tchinese king_toast_route_7ef78750:
+
+    # K @ sad "Not even you. That, and I kind of feel bad that Amare was giving you such a hard time."
+    K @ sad "“沒有錯。而且Amare那樣為難你，我也很過意不去。”"
+
+# game/story/Chapter_T3.rpy:4404
+translate Tchinese king_toast_route_3fc99d46:
+
+    # "The frog croaks."
+    "青蛙呱呱叫了幾聲。"
+
+# game/story/Chapter_T3.rpy:4405
+translate Tchinese king_toast_route_4cd50e77:
+
+    # Nox "Amare has his reasons."
+    Nox "“Amare有他的理由。”"
+
+# game/story/Chapter_T3.rpy:4406
+translate Tchinese king_toast_route_895b9d35:
+
+    # K neutral "I think you should consider... {nw}"
+    K neutral "“我想你應該...{nw}”"
+
+# game/story/Chapter_T3.rpy:4412
+translate Tchinese king_toast_route_0c239468:
+
+    # p "I think you should consider... {fast}your feelings more, Nox."
+    p "“我想你應該...{fast}多去在意自己的想法和感受，Nox。”"
+
+# game/story/Chapter_T3.rpy:4419
+translate Tchinese king_toast_route_8b31f316:
+
+    # "Nox’s eyes widen."
+    "Nox睜大了眼睛。"
+
+# game/story/Chapter_T3.rpy:4421
+translate Tchinese king_toast_route_3a30c69e:
+
+    # Nox "You’re not the first person to tell me that."
+    Nox "“你不是第一個對我說這些話的人。”"
+
+# game/story/Chapter_T3.rpy:4422
+translate Tchinese king_toast_route_a485f459:
+
+    # K "Whoever it was mustn't be so bad.. Maybe, you should listen to them."
+    K "“不管怎樣，那人一定也是為了你好...也許，你應該聽他的。”"
+
+# game/story/Chapter_T3.rpy:4423
+translate Tchinese king_toast_route_e1b308b5:
+
+    # Nox "I'll ponder on that a bit more, for now, allow me to repay your kindness."
+    Nox "“我需要多方思忖，至於現在，請允許我報答你的好意。”"
+
+# game/story/Chapter_T3.rpy:4425
+translate Tchinese king_toast_route_7890cce1:
+
+    # Nox "Discard any notion of escaping. Beyond those pantry doors, your only way out \nis through the elevator you came from. You do not know how to operate it, and \neven then you’ll be had by another demon long before you reach Earth."
+    Nox "“放棄任何逃跑的念頭。\n除了茶水間的門，唯一的出路就是透過來時的電梯。\n但就算你知道如何操作，在抵達人界之前，你也早就被其他惡魔抓住了。”"
+
+# game/story/Chapter_T3.rpy:4427
+translate Tchinese king_toast_route_a9f61853:
+
+    # "King’s fingertips turn cold, his mind playing out the many ways the demons would have their way with him."
+    "一想到惡魔們會用什麼方式來懲罰他，King的指尖霎時變得冰涼。"
+
+# game/story/Chapter_T3.rpy:4428
+translate Tchinese king_toast_route_ff907b65:
+
+    # K question "You have a funny way of repaying kindness, Nox."
+    K question "“好另類的報恩方式，Nox。”"
+
+# game/story/Chapter_T3.rpy:4429
+translate Tchinese king_toast_route_140f6282:
+
+    # "The alpaca breathes and puts on a weak smile."
+    "羊駝喘著氣，勉強一笑。"
+
+# game/story/Chapter_T3.rpy:4430
+translate Tchinese king_toast_route_8aa46a0b:
+
+    # K neutral "I’ll take your advice into consideration. But, if I can survive the Big Blouse Blowout sale at the mall against everyone else in Kibbleton, I won’t let a bunch of demons stop me."
+    K neutral "“我會認真考慮你的建議。不過，既然我能在商場的襯衫大拋售中拔得頭籌，又怎麼會被一群惡魔給絆住了？”"
+
+# game/story/Chapter_T3.rpy:4431
+translate Tchinese king_toast_route_546d6598:
+
+    # Nox "I don’t see the similarity between demons and shop-goers."
+    Nox "“我不明白惡魔和逛商場的人之間有何相似之處。”"
+
+# game/story/Chapter_T3.rpy:4432
+translate Tchinese king_toast_route_9499c290:
+
+    # K frustrated "Tell that to the lady that nearly bit my right arm off over a scarf. Honestly, I was more of an autumn than she was."
+    K frustrated "“這話你可以跟那個因為一條圍巾，差點咬掉我一條手臂的女士講去。不是我自吹，我比她克制多了。”"
+
+# game/story/Chapter_T3.rpy:4437
+translate Tchinese king_toast_route_32ed9886:
+
+    # "King returns to his seat to eat. He silently doubles his willpower to remain composed as he considers how he can escape and help [name]."
+    "King回到座位上，一邊強迫自己冷靜，一邊思考如何逃跑並幫助[name]。"
+
+# game/story/Chapter_T3.rpy:4441
+translate Tchinese king_toast_route_7bc143a9:
+
+    # "Nox on the other hand, stares with longing eyes at the cat demon scarfing down spaghetti. He ponders his orders from Vendrake and the uneasiness that has been dormant within his heart."
+    "另一方面，Nox用如饑似渴的眼神盯著正在狼吞虎咽的貓惡魔。他在思考Vendrake的命令，以及潛藏於他心底的不安。"
+
+# game/story/Chapter_T3.rpy:4443
+translate Tchinese king_toast_route_2b172f67:
+
+    # "The frog demon takes a bite of the spaghetti. A small smile breaks as he finds some relief in the mortal’s meal."
+    "青蛙吃了一口義大利麵，並為從中收穫到的慰藉露出一抹微笑。"
+
+# game/story/Chapter_T3.rpy:4448
+translate Tchinese king_toast_route_9a913433:
+
+    # "A few minutes pass and everyone is done with their meals. The generals gather by the door, ready to leave."
+    "幾分鐘過去了，飯菜被他們一掃而空。將軍們聚集在門邊，準備離開。"
+
+# game/story/Chapter_T3.rpy:4456
+translate Tchinese king_toast_route_62374298:
+
+    # Amar "That was a pleasurable experience, I look forward to studying what else you can cook up, King."
+    Amar "“真是一次愉快的經歷，我對你期望很高哦，King。”"
+
+# game/story/Chapter_T3.rpy:4457
+translate Tchinese king_toast_route_2d4c1bfd:
+
+    # Fort "Vendrake’s going to ride your ass harder than ever if you keep avoiding your work."
+    Fort "“要是你繼續摸魚，Vendrake可要大發雷霆了。”"
+
+# game/story/Chapter_T3.rpy:4459
+translate Tchinese king_toast_route_c949e78a:
+
+    # Amar_nt "What’s the worst he’s going to do? Kill me? We can’t die."
+    Amar_nt "“他能拿我怎樣？殺了我？我們可是不死之身。”"
+
+# game/story/Chapter_T3.rpy:4462
+translate Tchinese king_toast_route_5ee3c33b:
+
+    # "Fortis frowns."
+    "Fortis皺起眉頭。"
+
+# game/story/Chapter_T3.rpy:4464
+translate Tchinese king_toast_route_c053413d:
+
+    # "Noticing his ally’s concern, Amare grumbles but ultimately concedes to the larger demon."
+    "注意到盟友的擔憂，Amare雖不情願，但最終還是選擇了妥協。"
+
+# game/story/Chapter_T3.rpy:4466
+translate Tchinese king_toast_route_8e7659b9:
+
+    # Amar "Fine, I’ll do the bare minimum. I need some time to think about how to help [name] anyhow."
+    Amar "“好吧，不過我只做最低限度的要求。我還得想辦法去幫[name]呢。”"
+
+# game/story/Chapter_T3.rpy:4467
+translate Tchinese king_toast_route_de7949fc:
+
+    # Amar neutral "Nox, what’s the job the Vendrake told you to pass to me?"
+    Amar neutral "“Nox，Vendrake讓你交給我的工作是什麼？”"
+
+# game/story/Chapter_T3.rpy:4468
+translate Tchinese king_toast_route_aa5c3b27:
+
+    # Nox "Job? Oh..."
+    Nox "“工作？哦...”"
+
+# game/story/Chapter_T3.rpy:4473
+translate Tchinese king_toast_route_dba9288c:
+
+    # "All he has to do is tell Amare to prepare to go to Earth to kill [name]."
+    "他只需要告訴Amare，讓他去人界解決掉[name]。"
+
+# game/story/Chapter_T3.rpy:4475
+translate Tchinese king_toast_route_22d4b3e1:
+
+    # "Though now, his heart and mind are at war about what to say."
+    "但現在，他的內心和意志發生了動搖。"
+
+# game/story/Chapter_T3.rpy:4479
+translate Tchinese king_toast_route_f6288010:
+
+    # Nox "Lord Vendrake said to..."
+    Nox "“Vendrake大人...”"
+
+# game/story/Chapter_T3.rpy:4480
+translate Tchinese king_toast_route_880f3a37:
+
+    # Nox "To... finish your work as soon as possible. His patience runs thin."
+    Nox "“讓你...讓你盡快完成自己的任務，他快要失去耐心了。”"
+
+# game/story/Chapter_T3.rpy:4481
+translate Tchinese king_toast_route_f3436df3:
+
+    # "Amare raises an eyebrow at the frog."
+    "Amare朝青蛙豎起眉毛。"
+
+# game/story/Chapter_T3.rpy:4482
+translate Tchinese king_toast_route_2f98bc13:
+
+    # Amar angry "Sure...?"
+    Amar angry "“行...？”"
+
+# game/story/Chapter_T3.rpy:4484
+translate Tchinese king_toast_route_0dfe1c83:
+
+    # Amar_nt "Alright, let's go. Bye-bye King!"
+    Amar_nt "“好了，我們走吧。拜拜，King！”"
+
+# game/story/Chapter_T3.rpy:4499
+translate Tchinese king_toast_route_c7831c0c:
+
+    # "As the demons leave through the front door, the bejewelled hand that cradles Nox gives the impression of a nod before floating away."
+    "托著Nox的那隻珠光寶氣的手像是點了點頭，隨後跟其他惡魔一併從前門離開了。"
+
+# game/story/Chapter_T3.rpy:4504
+translate Tchinese king_toast_route_3da7dc5f:
+
+    # "Alone once more, the alpaca draws out a long sigh."
+    "羊駝又變成了一個人，他長嘆一口氣。"
+
+# game/story/Chapter_T3.rpy:4506
+translate Tchinese king_toast_route_dfa232e1:
+
+    # "He takes a seat and deliberates what his next plan of action is."
+    "他坐下來，開始斟酌下一步的行動。"
+
+# game/story/Chapter_T3.rpy:4508
+translate Tchinese king_toast_route_8aa100c1:
+
+    # K "Getting out through that door is still my best chance, perhaps if I can learn how that elevator works, I might be able to get back home."
+    K "“那扇門依然是我最好的機會，只要學會電梯的工作原理，我就能回家了。”"
+
+# game/story/Chapter_T3.rpy:4509
+translate Tchinese king_toast_route_bd00727c:
+
+    # K serious "I better keep talking to those generals. Maybe, just maybe, they’ll let some clue slip."
+    K serious "“我最好多跟那些將軍們談談，也許他們會說漏嘴，只是也許。”"
+
+# game/story/Chapter_T3.rpy:4511
+translate Tchinese king_toast_route_44ff80ab:
+
+    # "Stretching his arms up, the alpaca looks at the messy pantry."
+    "羊駝伸展雙臂，掃了眼凌亂的茶水間。"
+
+# game/story/Chapter_T3.rpy:4513
+translate Tchinese king_toast_route_53ba57c5:
+
+    # K "I’ll think about it more after I’ve done the dishes."
+    K "“在此之前，我還是先把盤子洗了吧。”"
+
+translate Tchinese strings:
+
+    # game/story/Chapter_T3.rpy:7
+    old "Memories"
+    new "回憶"
+
+# TODO: Translation updated at 2023-10-07 22:17
+
+# game/story/Chapter_T3.rpy:4518
+translate Tchinese king_toast_route_part2_cfb1b037:
+
+    # "Fortunately, hauling a burnt-up wooden doll through the town doesn't attract any unwanted stares."
+    "你們拖著一個燒焦了的木頭玩偶橫穿整座小鎮，幸運的是並沒有引起不必要的關注。"
+
+# game/story/Chapter_T3.rpy:4532
+translate Tchinese king_toast_route_part2_54f8d7fa:
+
+    # "When you arrive at your apartment, you and Lucian place the puppet on the coffee table."
+    "回到公寓後，你在Lucian的幫助下把木偶抬到咖啡桌上。"
+
+# game/story/Chapter_T3.rpy:4533
+translate Tchinese king_toast_route_part2_dd9e3b90:
+
+    # "You momentarily contemplate its lifeless form sprawled out before you."
+    "你凝視著這橫七豎八，毫無生氣的物件。"
+
+# game/story/Chapter_T3.rpy:4542
+translate Tchinese king_toast_route_part2_51e53c05:
+
+    # "Shaking off your thoughts you take a seat on the sofa."
+    "你甩掉腦中的想法，坐在沙發上。"
+
+# game/story/Chapter_T3.rpy:4547
+translate Tchinese king_toast_route_part2_bdf3f69a:
+
+    # "Toast floats over beside you, he’s frowning."
+    "Toast皺著眉頭飄到你身旁。"
+
+# game/story/Chapter_T3.rpy:4549
+translate Tchinese king_toast_route_part2_a6c45fb1:
+
+    # "You wonder if he’s upset over losing a new gift, or if he feels responsible for what happened to it."
+    "你不知道他是因為失去了一份新禮物而感到沮喪，還是他覺得自己該對這件事負責。"
+
+# game/story/Chapter_T3.rpy:4552
+translate Tchinese king_toast_route_part2_2a4e90de:
+
+    # "Lucian plants himself upon the beanbag to your right. He crosses his legs and sinks backwards slowly into the seat until he ends up looking at the ceiling."
+    "Lucian坐在你右手邊的懶人沙發上，翹起二郎腿，慢慢向後仰，直至能看見天花板。"
+
+# game/story/Chapter_T3.rpy:4556
+translate Tchinese king_toast_route_part2_ed96ab56:
+
+    # p "Toast, you mind watching the door for Morris?"
+    p "“Toast，你可以在Morris來之前看一下門嗎？”"
+
+# game/story/Chapter_T3.rpy:4557
+translate Tchinese king_toast_route_part2_91fc3854:
+
+    # "Lucian cuts in before Toast can reply."
+    "不等Toast回答，Lucian插話了。"
+
+# game/story/Chapter_T3.rpy:4558
+translate Tchinese king_toast_route_part2_548617c1:
+
+    # L "I’ll do it."
+    L "“我去吧。”"
+
+# game/story/Chapter_T3.rpy:4567
+translate Tchinese king_toast_route_part2_89c6ef0d:
+
+    # "The angel tries to get up, but the beanbag has him in its clutches. He flails his arms and legs in his hopeless attempt for freedom."
+    "天使嘗試站起來，卻被懶人沙發捕獲，無助地揮舞著四肢。"
+
+# game/story/Chapter_T3.rpy:4570
+translate Tchinese king_toast_route_part2_24d8d662:
+
+    # L "Wha-What is this damned contraption?"
+    L "“這-這奇怪的裝置是什麼？”"
+
+# game/story/Chapter_T3.rpy:4574
+translate Tchinese king_toast_route_part2_febee6bd:
+
+    # "You flick your head towards the door to let Toast know to go ahead."
+    "你用頭向Toast示意門的方向。"
+
+# game/story/Chapter_T3.rpy:4584
+translate Tchinese king_toast_route_part2_30f4c71a:
+
+    # "Meanwhile, you hop to your feet and help free the angel from his beanbag prison."
+    "與此同時，你從沙發上躍起，幫助天使從“牢籠”中解脫出來。"
+
+# game/story/Chapter_T3.rpy:4590
+translate Tchinese king_toast_route_part2_ac4b37f4:
+
+    # "Lucian quickly throws his head into the air as though to say he never needed the help."
+    "但Lucian一個挺身恢復了自由，彷彿是在說他從不需要幫助。"
+
+# game/story/Chapter_T3.rpy:4592
+translate Tchinese king_toast_route_part2_7e115c96:
+
+    # p "Dude, chill. What’s got you so on edge?"
+    p "“冷靜點，老兄，你怎麼這麼心神不寧的？”"
+
+# game/story/Chapter_T3.rpy:4594
+translate Tchinese king_toast_route_part2_426ae3f5:
+
+    # "Lucian scoffs. He looks over to Toast, making sure the ghost is out of ear shot before whispering to you."
+    "Lucian嗤之以鼻，他瞥了眼Toast，確保對方不會聽見，然後才對著你耳語道："
+
+# game/story/Chapter_T3.rpy:4596
+translate Tchinese king_toast_route_part2_10ecaeb0:
+
+    # L "I’m merely concerned that you’re putting too much faith in that ghost."
+    L "“恐怕你太信任那個幽靈了。”"
+
+# game/story/Chapter_T3.rpy:4597
+translate Tchinese king_toast_route_part2_6e3fa59b:
+
+    # p "He’s just watching the door..."
+    p "“他只是去看個門啊...”"
+
+# game/story/Chapter_T3.rpy:4598
+translate Tchinese king_toast_route_part2_1dc6528a:
+
+    # L "Even that. Is that a wise decision?"
+    L "“就算是這樣，這個決定真的明智嗎？”"
+
+# game/story/Chapter_T3.rpy:4599
+translate Tchinese king_toast_route_part2_35180780:
+
+    # L neutral "I’ve been thinking about the battle earlier. I thought it over and realised you were risking it all on Toast to land the finishing blow."
+    L neutral "“我一直在想，關於之前那場戰鬥，你把一切都押在了Toast身上，想以此換來孤注一擲的機會。”"
+
+# game/story/Chapter_T3.rpy:4601
+translate Tchinese king_toast_route_part2_c2e14397:
+
+    # "You flinch."
+    "你開始閃爍其詞。"
+
+# game/story/Chapter_T3.rpy:4602
+translate Tchinese king_toast_route_part2_8e91847e:
+
+    # p "Well, you know, you lose the shots you don’t take."
+    p "“這個嘛，俗話說，有風險才有回報。”"
+
+# game/story/Chapter_T3.rpy:4603
+translate Tchinese king_toast_route_part2_4a97332f:
+
+    # L annoyed "Uh-huh."
+    L annoyed "“哼。”"
+
+# game/story/Chapter_T3.rpy:4604
+translate Tchinese king_toast_route_part2_c289b074:
+
+    # L "The mechanisms of your mind vexes me. I would’ve instantly assumed he had abandoned us."
+    L "“你的思考方式真讓我傷腦筋，如果是我的話，我會立刻假定他拋棄了我們。”"
+
+# game/story/Chapter_T3.rpy:4605
+translate Tchinese king_toast_route_part2_f05932d9:
+
+    # p smile "Come on, Toast wouldn’t ditch us."
+    p smile "“好啦，Toast不會做出這種事的。”"
+
+# game/story/Chapter_T3.rpy:4607
+translate Tchinese king_toast_route_part2_802ae05a:
+
+    # "You look at the ghost who’s preoccupied by sticking his head out through the door."
+    "你看向幽靈，只見他正全神貫注地把頭伸出門外。"
+
+# game/story/Chapter_T3.rpy:4609
+translate Tchinese king_toast_route_part2_6c6e9609:
+
+    # p "He wouldn’t..."
+    p "“他不會的...”"
+
+# game/story/Chapter_T3.rpy:4611
+translate Tchinese king_toast_route_part2_6f734ff9:
+
+    # "You turn to Lucian."
+    "你轉回Lucian。"
+
+# game/story/Chapter_T3.rpy:4613
+translate Tchinese king_toast_route_part2_694ddee4:
+
+    # p "Right?"
+    p "“對吧？”"
+
+# game/story/Chapter_T3.rpy:4614
+translate Tchinese king_toast_route_part2_1208eba7:
+
+    # "The angel’s arched eyebrow sufficiently tells you his opinion about Toast."
+    "天使高高拱起的眉毛足以告訴你他對Toast的評價。"
+
+# game/story/Chapter_T3.rpy:4615
+translate Tchinese king_toast_route_part2_8de991b1:
+
+    # L neutral "In my mind, your answer depends upon the following question. Who is Toast?"
+    L neutral "“在我看來，這個問題的答案取決於Toast究竟是誰？”"
+
+# game/story/Chapter_T3.rpy:4617
+translate Tchinese king_toast_route_part2_be802911:
+
+    # p "Umm..."
+    p "“呃...”"
+
+# game/story/Chapter_T3.rpy:4619
+translate Tchinese king_toast_route_part2_be712b8e:
+
+    # T "Someone’s coming?"
+    T "“好像有人來了？”"
+
+# game/story/Chapter_T3.rpy:4620
+translate Tchinese king_toast_route_part2_40be4fb5:
+
+    # p confused "Huh?"
+    p confused "“欸？”"
+
+# game/story/Chapter_T3.rpy:4630
+translate Tchinese king_toast_route_part2_b9f2941d:
+
+    # "Toast retracts his head back into the room. A knock follows from behind the door."
+    "Toast把頭縮回房間，門後傳來了敲門聲。"
+
+# game/story/Chapter_T3.rpy:4635
+translate Tchinese king_toast_route_part2_c3398813:
+
+    # T @ smile "Who is it?"
+    T @ smile "“是誰？”"
+
+# game/story/Chapter_T3.rpy:4636
+translate Tchinese king_toast_route_part2_b2c33b68:
+
+    # M "What? It’s me, Morris. Open up."
+    M "“蛤？是我啊，Morris，快開門。”"
+
+# game/story/Chapter_T3.rpy:4637
+translate Tchinese king_toast_route_part2_6affcbde:
+
+    # T "Morris who?"
+    T "“哪個Morris？”"
+
+# game/story/Chapter_T3.rpy:4638
+translate Tchinese king_toast_route_part2_c1989f98:
+
+    # "Morris sighs loudly from the other side."
+    "Morris在另一邊大聲嘆了口氣。"
+
+# game/story/Chapter_T3.rpy:4639
+translate Tchinese king_toast_route_part2_7f5b6892:
+
+    # M "Really? We’re doing this? Ok... it’s Morris Boaris, the exorcist!"
+    M "“認真的？在這麼嚴肅的時候？好吧...我是驅魔師，Morris Boaris！”"
+
+# game/story/Chapter_T3.rpy:4640
+translate Tchinese king_toast_route_part2_abdaf5c2:
+
+    # T @ doubt "Hold up, I don’t see your name on the list. What’s the password?"
+    T @ doubt "“等一下，訪客名單上沒有你的名字，你知道密碼嗎？”"
+
+# game/story/Chapter_T3.rpy:4641
+translate Tchinese king_toast_route_part2_1e69ecd9:
+
+    # M "Password? What?!"
+    M "“什麼？密碼？！”"
+
+# game/story/Chapter_T3.rpy:4642
+translate Tchinese king_toast_route_part2_4941c45a:
+
+    # T "Nope."
+    T "“不對。”"
+
+# game/story/Chapter_T3.rpy:4643
+translate Tchinese king_toast_route_part2_297c535c:
+
+    # M "This is ridiculous!"
+    M "“這太荒謬了！”"
+
+# game/story/Chapter_T3.rpy:4644
+translate Tchinese king_toast_route_part2_d3ad0342:
+
+    # T "Nuh-Uh. Try again."
+    T "“還是不對，再試試。”"
+
+# game/story/Chapter_T3.rpy:4645
+translate Tchinese king_toast_route_part2_0c82dc43:
+
+    # M "Concussa!"
+    M "“Concussa！”"
+
+# game/story/Chapter_T3.rpy:4655
+translate Tchinese king_toast_route_part2_0067f68d:
+
+    # "The magical collar shocks Toast. He falls onto his back, with his arms flailing about."
+    "Toast的魔法項圈發出衝擊，他隨即倒在了地上，雙臂發顫。"
+
+# game/story/Chapter_T3.rpy:4661
+translate Tchinese king_toast_route_part2_5e06d5bf:
+
+    # T "Kiki-Ow-Kiki!"
+    T "“嘎-嗷-嘎嘎！”"
+
+# game/story/Chapter_T3.rpy:4665
+translate Tchinese king_toast_route_part2_1e5739be:
+
+    # "Lucian leans close to your ear."
+    "Lucian湊到你耳旁。"
+
+# game/story/Chapter_T3.rpy:4668
+translate Tchinese king_toast_route_part2_5689686c:
+
+    # L "I told you so."
+    L "“我警告過你了。”"
+
+# game/story/Chapter_T3.rpy:4669
+translate Tchinese king_toast_route_part2_8b2dbcbc:
+
+    # p annoyed "Ugh..."
+    p annoyed "“唉...”"
+
+# game/story/Chapter_T3.rpy:4680
+translate Tchinese king_toast_route_part2_a9eca2d0:
+
+    # "You can already picture his smug face without turning to the dog."
+    "你連看都不用看，就能想像出天使鳴鳴得意的表情。"
+
+# game/story/Chapter_T3.rpy:4687
+translate Tchinese king_toast_route_part2_12c22708:
+
+    # "You walk to the entrance, stepping across the convulsing hyena."
+    "你跨過抽搐著的鬣狗，來到大門前。"
+
+# game/story/Chapter_T3.rpy:4688
+translate Tchinese king_toast_route_part2_6d192fe8:
+
+    # p "You should’ve just opened the door, Toast. Null."
+    p "“誰叫你非要耍寶，收。”"
+
+# game/story/Chapter_T3.rpy:4689
+translate Tchinese king_toast_route_part2_a38fdd7b:
+
+    # T "Kikikikiki."
+    T "“咯咯咯咯。”"
+
+# game/story/Chapter_T3.rpy:4690
+translate Tchinese king_toast_route_part2_dcb62a45:
+
+    # p "Toast, you’re not being shocked anymore."
+    p "“Toast，項圈已經沒電了。”"
+
+# game/story/Chapter_T3.rpy:4693
+translate Tchinese king_toast_route_part2_f06b6419:
+
+    # T "Oh...{w=.5} Huh, you’re right."
+    T "“噢...{w=.5}還真是嘿。”"
+
+# game/story/Chapter_T3.rpy:4697
+translate Tchinese king_toast_route_part2_0e78513b:
+
+    # "He rises and floats behind you like nothing happened."
+    "他站了起來，像沒事人一樣漂在你身後。"
+
+# game/story/Chapter_T3.rpy:4707
+translate Tchinese king_toast_route_part2_c712b901:
+
+    # "Morris opens the door, stomping his way in."
+    "Morris打開門，跺著腳走進來。"
+
+# game/story/Chapter_T3.rpy:4711
+translate Tchinese king_toast_route_part2_93e3011a:
+
+    # "He glares at Toast who just snickers at him."
+    "他怒視著Toast，而Toast只是暗自竊笑。"
+
+# game/story/Chapter_T3.rpy:4712
+translate Tchinese king_toast_route_part2_a91236d4:
+
+    # M "You-"
+    M "“你-”"
+
+# game/story/Chapter_T3.rpy:4713
+translate Tchinese king_toast_route_part2_7503ce24:
+
+    # "He points at the ghost."
+    "他指向幽靈。"
+
+# game/story/Chapter_T3.rpy:4714
+translate Tchinese king_toast_route_part2_d742eb60:
+
+    # M "Come with me, I’m fixing the bloody puppet."
+    M "“跟我來，我要修那個該死的木偶。”"
+
+# game/story/Chapter_T3.rpy:4715
+translate Tchinese king_toast_route_part2_f1cd83ca:
+
+    # T smile "Sweet!"
+    T smile "“好耶！”"
+
+# game/story/Chapter_T3.rpy:4721
+translate Tchinese king_toast_route_part2_64124967:
+
+    # "The boar snatches up the puppet on the table and enters the kitchen with Toast following along."
+    "野豬抓起桌子上的木偶，跟Toast一起進了廚房。"
+
+# game/story/Chapter_T3.rpy:4723
+translate Tchinese king_toast_route_part2_d383ebb7:
+
+    # "You pass the time scrolling through your phone and trying to get Lucian interested in what you find."
+    "為了打發時間，你刷起了手機，試圖找到些讓Lucian感興趣的發現。"
+
+# game/story/Chapter_T3.rpy:4729
+translate Tchinese king_toast_route_part2_f1e9b688:
+
+    # "A few minutes later..."
+    "幾分鐘後..."
+
+# game/story/Chapter_T3.rpy:4742
+translate Tchinese king_toast_route_part2_2b988550:
+
+    # T "Bam— I’m back, baby!"
+    T "“砰——我回來了，寶貝兒！”"
+
+# game/story/Chapter_T3.rpy:4748
+translate Tchinese king_toast_route_part2_cf7343c2:
+
+    # "Toast slides into the room, his hand raised high signalling you to high five him."
+    "Toast溜進了房間，他的手高高舉起，擺明是想跟你擊掌。"
+
+# game/story/Chapter_T3.rpy:4753
+translate Tchinese king_toast_route_part2_c3578dcd:
+
+    # "Sporting a grin, you do a little jump to reach the hyena’s hand."
+    "你咧嘴一笑，腳稍微發力，成功在空中與鬣狗會和。"
+
+# game/story/Chapter_T3.rpy:4758
+translate Tchinese king_toast_route_part2_321420a8:
+
+    # T neutral "Come on, I barely felt that. Here, give my arms a real squeeze!"
+    T neutral "“真是的，使點勁嘛。來，捏我的手臂，用力！”"
+
+# game/story/Chapter_T3.rpy:4760
+translate Tchinese king_toast_route_part2_5b897fab:
+
+    # "He flexes his right arm, his grapefruit sized bicep bulges upwards."
+    "他右臂彎舉，葡萄柚大小的二頭肌頓時高高隆起。"
+
+# game/story/Chapter_T3.rpy:4761
+translate Tchinese king_toast_route_part2_52abedb2:
+
+    # "You’re a little bashful at first, but you step close to press your fingers on his bicep."
+    "你一開始有點害羞，但還是走上前，用手指按住他的二頭肌。"
+
+# game/story/Chapter_T3.rpy:4762
+translate Tchinese king_toast_route_part2_ddfea07c:
+
+    # p "Wow, that’s strong, good to see that you're in tip-top shape. It’s like the battle never happened at all."
+    p "“哇哦，好強壯的肌肉，真高興看到你恢復最佳狀態了。”"
+
+# game/story/Chapter_T3.rpy:4766
+translate Tchinese king_toast_route_part2_c3406a32:
+
+    # "Morris cuts in, forcing you to pull back from the ghost."
+    "Morris冷不防地插進來，迫使你離開幽靈。"
+
+# game/story/Chapter_T3.rpy:4767
+translate Tchinese king_toast_route_part2_a3b5ea6a:
+
+    # M "Why thank you, I think I did a pretty good job fixing up something like that for the first time."
+    M "“咳咳，多謝誇獎。第一次修這種東西，我自認為做得還不錯。”"
+
+# game/story/Chapter_T3.rpy:4768
+translate Tchinese king_toast_route_part2_4cb376bd:
+
+    # M "The Nobody is pretty resistant so I didn't need to do much. I even added a little upgrade to it to improve the user experience."
+    M "“幸好那東西夠結實，修起來也不費力，我甚至給它升了下級，保證能改善用戶體驗。”"
+
+# game/story/Chapter_T3.rpy:4769
+translate Tchinese king_toast_route_part2_fb1cb7f6:
+
+    # L "If you’re giving upgrades, be sure to give him a sense of self-preservation."
+    L "“既然如此，別忘了把自我保護的觀念也一併植入進去。”"
+
+# game/story/Chapter_T3.rpy:4770
+translate Tchinese king_toast_route_part2_a0b38300:
+
+    # T @ annoyed "Hey, I did pretty good back there."
+    T @ annoyed "“嘿，那一戰我才是功臣好吧。”"
+
+# game/story/Chapter_T3.rpy:4772
+translate Tchinese king_toast_route_part2_a1d2f422:
+
+    # L "Yes, your ability to get in the way was astounding."
+    L "“是啊，全拜你礙事的能力所賜。”"
+
+# game/story/Chapter_T3.rpy:4773
+translate Tchinese king_toast_route_part2_4d8c51a8:
+
+    # M annoyed "You’re one to talk. One fireball and you’re crying like a baby. I thought angels were tougher than that."
+    M annoyed "“你還好意思說別人。區區一個火球，就把你的眼淚都嚇出來了，虧你還是天使呢。”"
+
+# game/story/Chapter_T3.rpy:4775
+translate Tchinese king_toast_route_part2_e078d10f:
+
+    # "Lucian growls at the boar."
+    "Lucian對著野豬發出低吼。"
+
+# game/story/Chapter_T3.rpy:4776
+translate Tchinese king_toast_route_part2_bfa15a9a:
+
+    # p smile "Guys, don’t fight over it. It was our first battle, and we all still need to learn to work together. Maybe a little training could help?"
+    p smile "“別吵了，伙伴們。這是咱們經歷的第一場戰鬥，缺少磨合，也許咱們應該訓練一下？”"
+
+# game/story/Chapter_T3.rpy:4777
+translate Tchinese king_toast_route_part2_8859c3e7:
+
+    # "They simultaneously grunt and turn their heads at the suggestion."
+    "他們無一例外地搖頭。"
+
+# game/story/Chapter_T3.rpy:4782
+translate Tchinese king_toast_route_part2_36598131:
+
+    # "Toast, Morris and Lucian" "Hmph!" (callback=name_callback, cb_name=['lucian', 'toast', 'morris'])
+    "Toast，Morris和Lucian" "“哼！”" (callback=name_callback, cb_name=['lucian', 'toast', 'morris'])
+
+# game/story/Chapter_T3.rpy:4787
+translate Tchinese king_toast_route_part2_bdbee7c0:
+
+    # p sad "You guys..."
+    p sad "“你們啊...”"
+
+# game/story/Chapter_T3.rpy:4791
+translate Tchinese king_toast_route_part2_53e25dca:
+
+    # "Sighing, you take a seat on the floor in front of the coffee table."
+    "你嘆了口氣，坐在咖啡桌前的地板上。"
+
+# game/story/Chapter_T3.rpy:4793
+translate Tchinese king_toast_route_part2_cf90768b:
+
+    # "The three of them remain standing. Slowly, they look to one another as though waiting to see who would sit first."
+    "他們三個仍然站著，小心打量著彼此，好像誰也不肯服輸。"
+
+# game/story/Chapter_T3.rpy:4805
+translate Tchinese king_toast_route_part2_c37920bb:
+
+    # "Toast is the first to take the seat to your right while Lucian takes your left, and Morris sits across from you."
+    "終於，Toast率先坐在了你的右手邊，Lucian則坐在你的左手邊，Morris坐在你正對面。"
+
+# game/story/Chapter_T3.rpy:4810
+translate Tchinese king_toast_route_part2_76505985:
+
+    # M "Anyways, there’s still two more things we need to talk about."
+    M "“總而言之，我們還有兩件事需要談談。”"
+
+# game/story/Chapter_T3.rpy:4811
+translate Tchinese king_toast_route_part2_b7489793:
+
+    # p @ question "Oh?"
+    p @ question "“哦？”"
+
+# game/story/Chapter_T3.rpy:4812
+translate Tchinese king_toast_route_part2_f48cfca1:
+
+    # M serious "First, my watch."
+    M serious "“首先，我的手錶。”"
+
+# game/story/Chapter_T3.rpy:4813
+translate Tchinese king_toast_route_part2_20773c1d:
+
+    # p nervous "Oh..."
+    p nervous "“啊...”"
+
+# game/story/Chapter_T3.rpy:4814
+translate Tchinese king_toast_route_part2_3389dd2f:
+
+    # "He raises his right arm and gestures towards where his watch used to be."
+    "他舉起右臂，指了指手錶曾經在的地方。"
+
+# game/story/Chapter_T3.rpy:4815
+translate Tchinese king_toast_route_part2_5d0e98fc:
+
+    # p "Right, how much do I owe you for that?"
+    p "“好吧，多少錢？”"
+
+# game/story/Chapter_T3.rpy:4816
+translate Tchinese king_toast_route_part2_073dfd4e:
+
+    # M "Ten thousand dollars."
+    M "“一萬美元。”"
+
+# game/story/Chapter_T3.rpy:4817
+translate Tchinese king_toast_route_part2_655e4524:
+
+    # p scared "T-t-ten thou-wha? How?"
+    p scared "“一、一萬美元？不可能吧？”"
+
+# game/story/Chapter_T3.rpy:4818
+translate Tchinese king_toast_route_part2_98367f55:
+
+    # L "Is that a lot?"
+    L "“很貴嗎？”"
+
+# game/story/Chapter_T3.rpy:4819
+translate Tchinese king_toast_route_part2_572b056f:
+
+    # T @ shocked "That’s like a hundred thousand pieces of bacon."
+    T @ shocked "“就好比十萬片培根。”"
+
+# game/story/Chapter_T3.rpy:4820
+translate Tchinese king_toast_route_part2_b6d6829e:
+
+    # L @ annoyed "Err..."
+    L @ annoyed "“呃...”"
+
+# game/story/Chapter_T3.rpy:4821
+translate Tchinese king_toast_route_part2_378dc578:
+
+    # p "Why is it that expensive?"
+    p "“一塊手錶怎麼會這麼貴的？”"
+
+# game/story/Chapter_T3.rpy:4822
+translate Tchinese king_toast_route_part2_401a66d1:
+
+    # M "It’s a one-of-a-kind watch. There’s only one guy in town that can make another, and this was the best I could bargain for."
+    M "“那是塊{b}獨一無二的{/b}手錶，鎮上只有一個人能做，這一萬已經是我盡力討價還價的結果了。”"
+
+# game/story/Chapter_T3.rpy:4823
+translate Tchinese king_toast_route_part2_f93df62d:
+
+    # p nervous "Ten thousand? How about… I let you have one of the novelty watches from the store?. Kids love them, and you can get one with your favourite superhero!"
+    p nervous "“一萬啊？不如這樣...我賠你一塊當下最時髦的手錶？各種超級英雄的款式都有，孩子們可喜歡了！”"
+
+# game/story/Chapter_T3.rpy:4825
+translate Tchinese king_toast_route_part2_ae3a5823:
+
+    # "Morris crosses his arms."
+    "Morris雙臂抱胸。"
+
+# game/story/Chapter_T3.rpy:4827
+translate Tchinese king_toast_route_part2_087ae496:
+
+    # p "There’s also a pink one with a red panda who sings heavy metal if that’s more your style."
+    p "“還有款粉紅色的，是一隻唱重金屬搖滾的小熊貓的聯名款，如果你喜歡的話？”"
+
+# game/story/Chapter_T3.rpy:4828
+translate Tchinese king_toast_route_part2_107fa9e0:
+
+    # "Morris remains silent, his stern gaze fixed upon your face."
+    "Morris只是不苟言笑地凝視著你的臉。"
+
+# game/story/Chapter_T3.rpy:4832
+translate Tchinese king_toast_route_part2_d487ea02:
+
+    # p "Alright, I don’t have the money. Can you at least wait until after we rescue King? Maybe I can pull some out from the Underworld treasury."
+    p "“好吧好吧，我沒有那麼多錢。能請你至少等到我們救出King之後嗎？也許我可以從冥界的金庫裡撥點錢出來。”"
+
+# game/story/Chapter_T3.rpy:4833
+translate Tchinese king_toast_route_part2_cb6584f1:
+
+    # M @ annoyed "Do I have to make it obvious? I can’t fight at a hundred percent without that watch. "
+    M @ annoyed "“一定要我把話說清楚嗎？沒有那塊表，我就不能在戰鬥中發揮出全力。”"
+
+# game/story/Chapter_T3.rpy:4834
+translate Tchinese king_toast_route_part2_faa527e5:
+
+    # p confused "Huh? I don’t get it."
+    p confused "“啊？我不是很明白。”"
+
+# game/story/Chapter_T3.rpy:4835
+translate Tchinese king_toast_route_part2_05039a13:
+
+    # L smirk "Come now [name], you must know how mortals hold superstitious beliefs that their belongings affect their performance in life."
+    L smirk "“意思是財物的得失會影響到他們自己的行為，凡人在這方面可是相當迷信的，[name]。”"
+
+# game/story/Chapter_T3.rpy:4836
+translate Tchinese king_toast_route_part2_4864f8e8:
+
+    # L "A sentiment I find hilarious. Luck manipulation treasures are rarer than even four-leaf clovers, yet mortals will believe in anything holding some sentimental value."
+    L "“個人認為這是一種很滑稽的情緒。凡人會將任何寄宿著情感價值的東西看做是吉兆或噩兆，明明能夠操縱運氣的寶物比四葉草還要稀有。”"
+
+# game/story/Chapter_T3.rpy:4837
+translate Tchinese king_toast_route_part2_d5e591ea:
+
+    # T @ shocked "Wait, but what about my lucky underwear? I won every fight wearing those!"
+    T @ shocked "“不對啊，那我的幸運內褲怎麼說？我穿著它就沒輸過！”"
+
+# game/story/Chapter_T3.rpy:4838
+translate Tchinese king_toast_route_part2_87a0a866:
+
+    # L neutral "Ugh— Perhaps the stench incapacitated your foes. "
+    L neutral "“噫-也許是惡臭讓你的敵人喪失了行動能力。”"
+
+# game/story/Chapter_T3.rpy:4839
+translate Tchinese king_toast_route_part2_0223dd5a:
+
+    # M annoyed "You think I care about how 'lucky’ I am?"
+    M annoyed "“你覺得我在乎的是‘運氣’？”"
+
+# game/story/Chapter_T3.rpy:4840
+translate Tchinese king_toast_route_part2_284cda18:
+
+    # M "That watch could sap magical power. As a consequence, it kept my powers in check."
+    M "“那塊表能夠抵消魔法，從而控制住我的力量。”"
+
+# game/story/Chapter_T3.rpy:4841
+translate Tchinese king_toast_route_part2_037143fc:
+
+    # p question "What's wrong with your powers?"
+    p question "“你的力量怎麼了？”"
+
+# game/story/Chapter_T3.rpy:4843
+translate Tchinese king_toast_route_part2_acba2e44:
+
+    # "Morris sighs."
+    "Morris嘆了口氣。"
+
+# game/story/Chapter_T3.rpy:4844
+translate Tchinese king_toast_route_part2_1842e1b3:
+
+    # M "I don't like people knowing, but I lose control over my powers if I use it too often or if I get too emotional."
+    M "“這一直是我的難言之隱，如果我太頻繁地使用能力，或者極端情緒化，我體內的力量就會暴走。”"
+
+# game/story/Chapter_T3.rpy:4845
+translate Tchinese king_toast_route_part2_1fced371:
+
+    # M "That's why I'm more used to using exorcism tools. It wasn't until I got that watch that I dared to use some of my own magic."
+    M "“所以我平時才更依賴驅魔道具。在得到那塊表之前，我都不敢使用自己的魔法。”"
+
+# game/story/Chapter_T3.rpy:4847
+translate Tchinese king_toast_route_part2_b4719f7c:
+
+    # p nervous "Ok, so it’s important, but I really can’t afford to pay that much."
+    p nervous "“我明白它的重要性了，但我真的付不起那麼多錢。”"
+
+# game/story/Chapter_T3.rpy:4848
+translate Tchinese king_toast_route_part2_7e0d7ae6:
+
+    # "Morris closes his eyes and rubs his temple with one hand."
+    "Morris閉上眼睛，用一隻手揉著太陽穴。"
+
+# game/story/Chapter_T3.rpy:4849
+translate Tchinese king_toast_route_part2_168cf5fa:
+
+    # M "There’s another way. The guy who makes the watch is also offering a job that will pay ten times what that watch costs."
+    M "“還有一個方法，製造手錶的人提供了一份報酬是手錶價格十倍的工作。”"
+
+# game/story/Chapter_T3.rpy:4850
+translate Tchinese king_toast_route_part2_7fd03590:
+
+    # p smile "A hundred grand, to do what?"
+    p smile "“那可是整整十萬啊，什麼工作？”"
+
+# game/story/Chapter_T3.rpy:4851
+translate Tchinese king_toast_route_part2_a26e330b:
+
+    # M "To take out a ghost at The End Hotel."
+    M "“去把末日酒店的鬼釣出來。”"
+
+# game/story/Chapter_T3.rpy:4852
+translate Tchinese king_toast_route_part2_94c591a2:
+
+    # p shocked "Take out a ghost?"
+    p shocked "“釣出來？”"
+
+# game/story/Chapter_T3.rpy:4853
+translate Tchinese king_toast_route_part2_04383806:
+
+    # p question "Alright, but I don’t kiss on the first date."
+    p question "“行吧，但別想指望我用美人計。”"
+
+# game/story/Chapter_T3.rpy:4855
+translate Tchinese king_toast_route_part2_f0704eff:
+
+    # T "Not like that, they mean exorcising the spirit haunting the place!"
+    T "“不是釣凱子那個釣！他們的意思是驅除盤踞在那個地方的鬼魂。”"
+
+# game/story/Chapter_T3.rpy:4856
+translate Tchinese king_toast_route_part2_13a0a177:
+
+    # L "Where exactly is The End Hotel?"
+    L "“末日酒店在何處？”"
+
+# game/story/Chapter_T3.rpy:4857
+translate Tchinese king_toast_route_part2_51d09704:
+
+    # M neutral "It’s the only hotel located, well, literally at the end of town. It’s the first building you’ll see as you cross the bridge into Kibbleton."
+    M neutral "“位於小鎮邊緣，通過橋來到基布爾頓的人第一眼就能看到。”"
+
+# game/story/Chapter_T3.rpy:4858
+translate Tchinese king_toast_route_part2_63805edd:
+
+    # L "Oh yes, I seem to recall that place now. A dreary looking building, I thought it was abandoned."
+    L "“噢，我想起來了，一棟看起來陰森森的建築，我還以為已經廢棄了。”"
+
+# game/story/Chapter_T3.rpy:4859
+translate Tchinese king_toast_route_part2_dce154eb:
+
+    # L "Strange, I never detected the presence of a spirit when I arrived."
+    L "“這就怪了，我經過那裡的時候並未感知到有靈體存在。”"
+
+# game/story/Chapter_T3.rpy:4860
+translate Tchinese king_toast_route_part2_e0a5d803:
+
+    # T "Then it’s no big deal, bet it’s a pipsqueak of a spirit, barely a wisp."
+    T "“要我說，那就是個掀不起波瀾的小角色罷了。”"
+
+# game/story/Chapter_T3.rpy:4861
+translate Tchinese king_toast_route_part2_53b9f58e:
+
+    # M serious "The people who've gone missing or died over the years would disagree."
+    M serious "“這些年來失蹤和死去的人們可不會同意這話。”"
+
+# game/story/Chapter_T3.rpy:4862
+translate Tchinese king_toast_route_part2_b122e683:
+
+    # "Lucian crosses his arms."
+    "Lucian交叉雙臂。"
+
+# game/story/Chapter_T3.rpy:4863
+translate Tchinese king_toast_route_part2_7c68d86a:
+
+    # L @ annoyed "Hiding in a town where no demon or angel would enter, is it? Clever. Up Above’s reputation would suffer if it were to fester here any longer. "
+    L @ annoyed "“躲在一個惡魔與天使都進不去的小鎮裡，是嗎？愛耍聰明的傢伙。再讓它繼續肆意妄為下去，有損天界的名譽。”"
+
+# game/story/Chapter_T3.rpy:4864
+translate Tchinese king_toast_route_part2_5f9e2efd:
+
+    # L sad "Still..."
+    L sad "“但...”"
+
+# game/story/Chapter_T3.rpy:4865
+translate Tchinese king_toast_route_part2_36265159:
+
+    # "He bites his right thumb. For a second you get the sense that Lucian’s thoughts are overlapping with your own."
+    "他咬了咬自己的右手拇指。有那麼一剎那，你覺得Lucian和你的想法重疊了。"
+
+# game/story/Chapter_T3.rpy:4866
+translate Tchinese king_toast_route_part2_a30f726b:
+
+    # p "But doing this will distract us from saving King."
+    p "“但這樣做會分散我們救King的精力。”"
+
+# game/story/Chapter_T3.rpy:4867
+translate Tchinese king_toast_route_part2_ac00183f:
+
+    # T "And Archon."
+    T "“還有Archon。”"
+
+# game/story/Chapter_T3.rpy:4868
+translate Tchinese king_toast_route_part2_10829ea9:
+
+    # p "Yes, that too."
+    p "“對，還有他。”"
+
+# game/story/Chapter_T3.rpy:4870
+translate Tchinese king_toast_route_part2_ee50f329:
+
+    # M neutral "Not necessarily, you guys need to get to Archon. The easiest way to do that is to buy your way into the cult. After all, what rogue religious group would refuse free money?"
+    M neutral "“那倒未必，你們要找Archon，最簡單方法就是花錢打入邪教。畢竟，哪個流氓團體會拒絕從天上掉下來的錢呢？”"
+
+# game/story/Chapter_T3.rpy:4871
+translate Tchinese king_toast_route_part2_93d8c3dd:
+
+    # M "I just need a small piece of the reward for the watch, and you can use the rest as a bribe."
+    M "“我只需要我手錶的那一小部分，其餘的報酬你們就用來賄賂吧。”"
+
+# game/story/Chapter_T3.rpy:4872
+translate Tchinese king_toast_route_part2_bc83c5d2:
+
+    # p shocked "Really? You’ll just give away the rest of the money to us?"
+    p shocked "“真的嗎？剩下的錢都給我們？”"
+
+# game/story/Chapter_T3.rpy:4874
+translate Tchinese king_toast_route_part2_eceb5a4c:
+
+    # M "If it’s to save King, I don’t mind. I’ll even sweeten the deal and cover the room costs while we’re working on the exorcism."
+    M "“我不介意，如果是為了救King的話，我甚至願意再退一步，譬如支付驅魔期間的房費。”"
+
+# game/story/Chapter_T3.rpy:4877
+translate Tchinese king_toast_route_part2_b020c8f0:
+
+    # T_nt "That means a free vacay! Now, this is what I’m talking about!"
+    T_nt "“就是說咱們可以免費度假！這下爽啦！”"
+
+# game/story/Chapter_T3.rpy:4884
+translate Tchinese king_toast_route_part2_fbb40b17:
+
+    # "Toast pulls Morris into a hug, smothering the boar’s face between his pecs."
+    "Toast將Morris抱在懷中，把野豬的臉埋進他的胸脯。"
+
+# game/story/Chapter_T3.rpy:4885
+translate Tchinese king_toast_route_part2_eebedc7f:
+
+    # T "Toast’s Crew looking out for one another, this is what I’m talking about!"
+    T "“你幫我，我幫你，這才有Toast小隊的樣子嘛！”"
+
+# game/story/Chapter_T3.rpy:4886
+translate Tchinese king_toast_route_part2_4e49442a:
+
+    # "The hyena throws his fist in the air while keeping the flailing Morris trapped in his ample bosom."
+    "鬣狗高舉拳頭歡呼，同時Morris被那傲人的雙峰夾得更緊了。"
+
+# game/story/Chapter_T3.rpy:4887
+translate Tchinese king_toast_route_part2_e3af601d:
+
+    # L "As long as this is in service of getting [name] back to the Underworld, I’ll humour you all."
+    L "“我就遷就一下你們好了，只要這能讓[name]返回冥界。”"
+
+# game/story/Chapter_T3.rpy:4888
+translate Tchinese king_toast_route_part2_52ae6559:
+
+    # T "Heck yeah! Let’s party!"
+    T "“耶！動起來，動起來！”"
+
+# game/story/Chapter_T3.rpy:4889
+translate Tchinese king_toast_route_part2_87aec884:
+
+    # M annoyed "Grngh!"
+    M annoyed "“唔！”"
+
+# game/story/Chapter_T3.rpy:4897
+translate Tchinese king_toast_route_part2_571e708c:
+
+    # "With a strong push, Morris breaks free from the hug. The boar gasps loudly."
+    "Morris用力一推，掙脫了擁抱，大口喘著氣。"
+
+# game/story/Chapter_T3.rpy:4902
+translate Tchinese king_toast_route_part2_31378e7e:
+
+    # "He brushes his hair into place and looks at you."
+    "他把頭髮梳好，然後看向你。"
+
+# game/story/Chapter_T3.rpy:4903
+translate Tchinese king_toast_route_part2_64477b9f:
+
+    # M neutral "Ehem, so how about it?"
+    M neutral "“那麼，你意下如何？”"
+
+# game/story/Chapter_T3.rpy:4904
+translate Tchinese king_toast_route_part2_6186867a:
+
+    # "You nod."
+    "你點點頭。"
+
+# game/story/Chapter_T3.rpy:4905
+translate Tchinese king_toast_route_part2_7afa4fa7:
+
+    # p "Yeah, let’s send that spirit back to the Underworld."
+    p "“嗯，咱們齊心協力，把那個靈魂送回冥界去。”"
+
+# game/story/Chapter_T3.rpy:4906
+translate Tchinese king_toast_route_part2_10fbd76d:
+
+    # T "Woohoo!"
+    T "“嗚呼！”"
+
+# game/story/Chapter_T3.rpy:4907
+translate Tchinese king_toast_route_part2_8d66869e:
+
+    # M "I’ll make a reservation for two days from now."
+    M "“那麼我先預定兩天的房間。”"
+
+# game/story/Chapter_T3.rpy:4908
+translate Tchinese king_toast_route_part2_7f95f5a8:
+
+    # M "We'll go through the information about the hotel on our way there."
+    M "“具體資訊就在過去的路上講吧。”"
+
+# game/story/Chapter_T3.rpy:4910
+translate Tchinese king_toast_route_part2_6186867a_1:
+
+    # "You nod."
+    "你點點頭。"
+
+# game/story/Chapter_T3.rpy:4912
+translate Tchinese king_toast_route_part2_bf5a8165:
+
+    # M "And before I forget my next headache, I’ll need your personal information to make the booking."
+    M "“還有件麻煩事，訂房需要個人資訊。”"
+
+# game/story/Chapter_T3.rpy:4913
+translate Tchinese king_toast_route_part2_d8ae7785:
+
+    # M "You angels and demons have that, right?"
+    M "“你們天使跟惡魔都有，對吧？”"
+
+# game/story/Chapter_T3.rpy:4914
+translate Tchinese king_toast_route_part2_a0a3db67:
+
+    # "You and Lucian nod which pleases Morris."
+    "你和Lucian點了點頭，Morris見狀鬆了口氣。"
+
+# game/story/Chapter_T3.rpy:4915
+translate Tchinese king_toast_route_part2_7179818e:
+
+    # p annoyed "There's just no escaping the bureaucratic engine, is there?"
+    p annoyed "“真是的，到哪裡都逃不掉這些官僚主義。”"
+
+# game/story/Chapter_T3.rpy:4916
+translate Tchinese king_toast_route_part2_32280070:
+
+    # L @ smirk "[name], that's just how all hotels work. We do it too."
+    L @ smirk "“所有酒店都是這樣運作的，[name]，我們也不例外。”"
+
+# game/story/Chapter_T3.rpy:4917
+translate Tchinese king_toast_route_part2_61368a54:
+
+    # p "Fine, but it's still annoying!"
+    p "“好吧，但我還是不喜歡！”"
+
+# game/story/Chapter_T3.rpy:4919
+translate Tchinese king_toast_route_part2_230fa362:
+
+    # "You both pull out your business cards."
+    "你們掏出各自的名片。"
+
+# game/story/Chapter_T3.rpy:4920
+translate Tchinese king_toast_route_part2_d1187d98:
+
+    # "Yours is jet black, embossed with the golden insignia of the Underworld. A minimalist amount of text is written in the demon language below it."
+    "你的名片烏黑發亮，上面飾有金色的冥界徽章浮雕，下面則用惡魔語寫了最低限度的字。"
+
+# game/story/Chapter_T3.rpy:4921
+translate Tchinese king_toast_route_part2_ba22d5e1:
+
+    # "Lucian's is pearly white with a painting of his face to one side. A dense block of text in the angel language covers the rest of the card, along with a small but elegant signature."
+    "Lucian的名片則是珍珠白色，一側畫著他的臉，其餘部分被密集的天使語所覆蓋，還有一個小而精緻的簽名。"
+
+# game/story/Chapter_T3.rpy:4922
+translate Tchinese king_toast_route_part2_1db86a4e:
+
+    # "The gentle strokes and watercolour portrait bring to mind memories of Gary showing you his paintings in meetings past."
+    "柔和的筆觸與水彩顏料讓你想起Gary曾在會議上向你展示過他的畫。"
+
+# game/story/Chapter_T3.rpy:4923
+translate Tchinese king_toast_route_part2_fa4014cc:
+
+    # "As Morris takes the cards, they morph into identification cards that designate you and Lucian as residents of this country."
+    "Morris剛一接觸到這些名片，它們就變成了身份證，表明你和Lucian是這個國家的合法居民。"
+
+# game/story/Chapter_T3.rpy:4924
+translate Tchinese king_toast_route_part2_ec0c2d6c:
+
+    # M "Convenient, these are like the Death Passports we use for our spirits and familiars. I assume more than forgery is involved?"
+    M "“還挺方便的，有點像我們給靈魂和親友使用的死亡護照，不會是抄襲我們的吧？”"
+
+# game/story/Chapter_T3.rpy:4925
+translate Tchinese king_toast_route_part2_14ba504f:
+
+    # L "The audacity, Lord Gary makes every asset at Up Above by hand. This card is no different. When an angel comes down to Earth, the card brings God's blessing and alters all mortal systems to include the angel's identity."
+    L "“放肆，天界的一草一木都是由Gary大人親手創造的，自然也包括這張卡。當天使降臨人間時，這張蒙受賜福的卡會自動改寫一切系統，將天使的身份輸入進去。”"
+
+# game/story/Chapter_T3.rpy:4926
+translate Tchinese king_toast_route_part2_19398af7:
+
+    # p "Mine's pretty much the same, except it curses all mortal systems instead."
+    p "“我的也差不多，只不過它會詛咒凡人的系統。”"
+
+# game/story/Chapter_T3.rpy:4927
+translate Tchinese king_toast_route_part2_b88a339c:
+
+    # p "I go to Earth so often I have one on me at all times."
+    p "“我過去常來地球，所以隨身帶著一張。”"
+
+# game/story/Chapter_T3.rpy:4928
+translate Tchinese king_toast_route_part2_a60a669b:
+
+    # M "Tomato, tomatoes I suppose."
+    M "“大差不差，大差不差。”"
+
+# game/story/Chapter_T3.rpy:4929
+translate Tchinese king_toast_route_part2_18480e05:
+
+    # "Morris takes a picture of the cards before returning them."
+    "Morris在歸還卡片之前還拍了張照片。"
+
+# game/story/Chapter_T3.rpy:4931
+translate Tchinese king_toast_route_part2_7db36b06:
+
+    # "He then turns his attention to Toast."
+    "然後他把注意力轉向Toast。"
+
+# game/story/Chapter_T3.rpy:4933
+translate Tchinese king_toast_route_part2_41b70edf:
+
+    # M "Now you."
+    M "“該你了。”"
+
+# game/story/Chapter_T3.rpy:4934
+translate Tchinese king_toast_route_part2_9b6a2baa:
+
+    # T smile "I left my ID in my other pants, back in LA... probably six feet under."
+    T smile "“我把身份證拉在另一條褲子裡了，在洛杉磯...大概六英尺深的地下。”"
+
+# game/story/Chapter_T3.rpy:4935
+translate Tchinese king_toast_route_part2_aa24b947:
+
+    # M "I know. That's why I'm going to make you a new set of identification documents."
+    M "“我知道，所以我要給你弄一套新的身份。”"
+
+# game/story/Chapter_T3.rpy:4936
+translate Tchinese king_toast_route_part2_533dba65:
+
+    # p smile "Are we going to go be spies and break into a federal building, forging documents and dodging laser rigged booby traps?"
+    p smile "“咱們會成為間諜，闖入聯邦大廈，偽造文件，還有躲避雷射陷阱嗎？”"
+
+# game/story/Chapter_T3.rpy:4937
+translate Tchinese king_toast_route_part2_98d84ac2:
+
+    # T "Hah, booby."
+    T "“哈哈，別傻了。”"
+
+# game/story/Chapter_T3.rpy:4938
+translate Tchinese king_toast_route_part2_eaf36e6e:
+
+    # M question "Did I not just mention Death Passports?"
+    M question "“我剛剛不是提到了死亡護照嗎？”"
+
+# game/story/Chapter_T3.rpy:4939
+translate Tchinese king_toast_route_part2_071600b0:
+
+    # M neutral "It’s a pain in the arse, but there's a lot of red tape all over the world. We have specific exorcists capable of altering and planting identities for spirits we partner with."
+    M neutral "“世界各地有各種令人頭疼的繁文縟節，為了方便行事，我們有專門的驅魔師能夠改變和植入與我們合作的靈魂的身份。”"
+
+# game/story/Chapter_T3.rpy:4940
+translate Tchinese king_toast_route_part2_00abc62f:
+
+    # L "A tad archaic, but I suppose it works."
+    L "“有點老套，但應該行得通。”"
+
+# game/story/Chapter_T3.rpy:4941
+translate Tchinese king_toast_route_part2_4da26d6e:
+
+    # T @ doubt "Alright, what do I got to do to get this passport?"
+    T @ doubt "“好吧，那我要怎麼做才能拿到那個護照？”"
+
+# game/story/Chapter_T3.rpy:4942
+translate Tchinese king_toast_route_part2_0135050e:
+
+    # M "Hang on, let me call someone."
+    M "“別急，讓我打一通電話。”"
+
+# game/story/Chapter_T3.rpy:4945
+translate Tchinese king_toast_route_part2_ec1607a0:
+
+    # "The boar takes out a plain-looking black smartphone. You remember seeing that model advertised three years ago. He dials his contact's number and sets it on the table."
+    "野豬拿出一部外觀普普通通的黑色智慧型手機，你記得上次看到這個型號的廣告還是在三年前。"
+
+# game/story/Chapter_T3.rpy:4949
+translate Tchinese king_toast_route_part2_faa775f7:
+
+    # "The dial tone beeps loudly from the phone's speakers."
+    "他撥打了其中一個聯絡人的號碼，並把手機放在桌子上。"
+
+# game/story/Chapter_T3.rpy:4950
+translate Tchinese king_toast_route_part2_efc0c84f:
+
+    # "Your toes itches with anticipation of who is on the other end."
+    "好奇心癢的你已經等不及了。"
+
+# game/story/Chapter_T3.rpy:4951
+translate Tchinese king_toast_route_part2_754194f4:
+
+    # "The call connects."
+    "電話接通了。"
+
+# game/story/Chapter_T3.rpy:4952
+translate Tchinese king_toast_route_part2_b34a9c27:
+
+    # "Exorcist" "Hello?"
+    "驅魔師" "“哪位？”"
+
+# game/story/Chapter_T3.rpy:4953
+translate Tchinese king_toast_route_part2_6ea62bb4:
+
+    # M serious "The moon smiles upon the weary traveller."
+    M serious "“皎月笑看疲憊的旅者。”"
+
+# game/story/Chapter_T3.rpy:4954
+translate Tchinese king_toast_route_part2_35ec518e:
+
+    # "Exorcist" "Unaware a demon has stolen the traveller's shadow."
+    "驅魔師" "“卻不曾注意他的影子何時被魔鬼偷去。”"
+
+# game/story/Chapter_T3.rpy:4955
+translate Tchinese king_toast_route_part2_6e0d7a3a:
+
+    # "Exorcist" "Morris."
+    "驅魔師" "“Morris。”"
+
+# game/story/Chapter_T3.rpy:4956
+translate Tchinese king_toast_route_part2_10259062:
+
+    # M "Doosh."
+    M "“Doosh。”"
+
+# game/story/Chapter_T3.rpy:4958
+translate Tchinese king_toast_route_part2_f4843808:
+
+    # "The other person on the line bursts into laughter."
+    "電話那頭的人突然大笑起來。"
+
+# game/story/Chapter_T3.rpy:4959
+translate Tchinese king_toast_route_part2_235ee508:
+
+    # "Doosh" "Lil' Sweet Tooth Morris, you still kicking it all this while?"
+    "Doosh" "“嗜糖如命的小Morris，這麼久了還沒能戒掉甜食嗎？”"
+
+# game/story/Chapter_T3.rpy:4960
+translate Tchinese king_toast_route_part2_8d6a8772:
+
+    # M "Ha... ha. Disappointed?"
+    M "“哈...哈，讓你失望了嗎？”"
+
+# game/story/Chapter_T3.rpy:4961
+translate Tchinese king_toast_route_part2_63ba64d8:
+
+    # "Doosh" "Au contraire, I'm having problems summoning my personal demon. Why don't you come by and fill in the role."
+    "Doosh" "“恰恰相反，我在召喚我的私人惡魔時遇到了一些麻煩，隨時歡迎你過來接替它的角色。”"
+
+# game/story/Chapter_T3.rpy:4962
+translate Tchinese king_toast_route_part2_baa470ca:
+
+    # M serious "Real funny... I'm not calling for idle chit chat. I need a Death Passport."
+    M serious "“很好笑...但我不是打電話找你閒聊的，我需要一本死亡護照。”"
+
+# game/story/Chapter_T3.rpy:4965
+translate Tchinese king_toast_route_part2_81fec7af:
+
+    # "Doosh" "Finally got a little ghost pet of your own? Surprised anyone would want to work with you."
+    "Doosh" "“終於有自己的小寵物了？我很驚訝，居然有人願意跟你共事。”"
+
+# game/story/Chapter_T3.rpy:4966
+translate Tchinese king_toast_route_part2_18c0340c:
+
+    # M "Yeah... Look, I'm in a hurry."
+    M "“嗯...聽著，我趕時間。”"
+
+# game/story/Chapter_T3.rpy:4967
+translate Tchinese king_toast_route_part2_a07a68a8:
+
+    # "Doosh" "Well howdy, you and everyone else in the Exorcist's House. I’m running on fumes without a demon to summon, so you can take a number and maybe, just maybe, I'll get to you before the end of this year."
+    "Doosh" "“噢，你，還有驅魔館裡的其他人，我很高興為你們服務，但我現在無惡魔可召，累得筋疲力盡。所以你何不先取個號呢？也許，只是也許，今年年底前就能輪到你了。”"
+
+# game/story/Chapter_T3.rpy:4968
+translate Tchinese king_toast_route_part2_a329d839:
+
+    # M annoyed "Come on, this is important. I've got a job due in two days and it's big!"
+    M annoyed "“拜託了，我必須在這兩天之內完成一項非常重要的工作！”"
+
+# game/story/Chapter_T3.rpy:4970
+translate Tchinese king_toast_route_part2_91913343:
+
+    # "Doosh" "Bite me, Your Highness."
+    "Doosh" "“不爽來咬我啊，王子殿下。”"
+
+# game/story/Chapter_T3.rpy:4971
+translate Tchinese king_toast_route_part2_1019f548:
+
+    # T "This Doosh is a diiiiiiicccckkkk."
+    T "“這個Doosh真是太——————臭屁了。”"
+
+# game/story/Chapter_T3.rpy:4976
+translate Tchinese king_toast_route_part2_8ea08188:
+
+    # "You and Lucian nod simultaneously."
+    "你和Lucian同時點頭。"
+
+# game/story/Chapter_T3.rpy:4979
+translate Tchinese king_toast_route_part2_1300d96f:
+
+    # "Morris remains silent for a minute. You shake your head towards him, irritated by Doosh’s attitude."
+    "Morris沉默了一分鐘有餘，被Doosh的態度激怒了的你對著他搖搖頭。"
+
+# game/story/Chapter_T3.rpy:4980
+translate Tchinese king_toast_route_part2_fa68b768:
+
+    # "Morris just shrugs back, you suppose he’s used to this by now."
+    "Morris只是聳了一下肩，多半是早就習慣了。"
+
+# game/story/Chapter_T3.rpy:4981
+translate Tchinese king_toast_route_part2_079a7f71:
+
+    # M neutral "Alright, if I don’t get my passport right away, then someone might let it slip, that seven years ago, a certain skunk skipped out on his monastery guard duties to make out with every girl in the village pub!"
+    M neutral "“那行吧，但如果沒能馬上拿到護照，我可保不準會說什麼。比如某隻臭鼬在七年前值班的時候溜號，跑去村子裡的酒吧跟姑娘們親熱。”"
+
+# game/story/Chapter_T3.rpy:4985
+translate Tchinese king_toast_route_part2_81ce8cdc:
+
+    # M "The same night, we got attacked by a horde of ghouls, and Master Kinox lost his right eye."
+    M "“而就在當天晚上，我們遭到了一大群食屍鬼的圍攻，Kinox師傅也不幸失去了他的右眼！”"
+
+# game/story/Chapter_T3.rpy:4986
+translate Tchinese king_toast_route_part2_a8c0933b:
+
+    # "Doosh falls silent."
+    "這回輪到Doosh沉默了。"
+
+# game/story/Chapter_T3.rpy:4991
+translate Tchinese king_toast_route_part2_ac83948f:
+
+    # "You raise an eyebrow, wondering if that worked."
+    "你挑起眉毛，想知道這是否奏效。"
+
+# game/story/Chapter_T3.rpy:4992
+translate Tchinese king_toast_route_part2_ea19437c:
+
+    # "Doosh" "Once, just once I'll let you skip the line, but you better forget all that!"
+    "Doosh" "“一次，就這一次，我允許你插隊，但你最好把一切都給我忘掉！”"
+
+# game/story/Chapter_T3.rpy:4993
+translate Tchinese king_toast_route_part2_8db5d5e4:
+
+    # M "That depends on how fast you make my friend his passport. Now let's get to it."
+    M "“這取決於你為我朋友辦護照的速度，趕緊開工吧。”"
+
+# game/story/Chapter_T3.rpy:4994
+translate Tchinese king_toast_route_part2_2000ece4:
+
+    # "Doosh" "Cheh."
+    "Doosh" "“嘖。”"
+
+# game/story/Chapter_T3.rpy:4996
+translate Tchinese king_toast_route_part2_ad0c2ba6:
+
+    # "Morris turns to the rest of you with a smile and a thumb’s up."
+    "Morris轉過身來，微笑著豎起大拇指。"
+
+# game/story/Chapter_T3.rpy:4997
+translate Tchinese king_toast_route_part2_e5b4ecc5:
+
+    # "Doosh" "I need to ascertain the ghost’s particulars to avoid any clashes. Just place the phone close to it."
+    "Doosh" "“我需要那個幽靈的詳細資訊，以免產生誤差，把手機靠近它就行。”"
+
+# game/story/Chapter_T3.rpy:4999
+translate Tchinese king_toast_route_part2_f46ea1da:
+
+    # "The boar pushes the phone towards Toast. With a nod he signals to the ghost to speak."
+    "野豬把電話推給Toast，然後點點頭，示意幽靈說話。"
+
+# game/story/Chapter_T3.rpy:5001
+translate Tchinese king_toast_route_part2_38aff4ba:
+
+    # T @ doubt "Err.. Hi?"
+    T @ doubt "“呃...嗨？”"
+
+# game/story/Chapter_T3.rpy:5002
+translate Tchinese king_toast_route_part2_cc27a033:
+
+    # "Doosh" "You’re the ghost, right? Just don’t do anything. I’ll let my magic scan you."
+    "Doosh" "“就是你沒錯吧？別亂動，我要用魔法對你進行掃描。”"
+
+# game/story/Chapter_T3.rpy:5009
+translate Tchinese king_toast_route_part2_7d58c439:
+
+    # "A blue magic circle appears above the phone’s screen and flashes before light radiates all over the hyena."
+    "一個閃爍著藍光的魔法陣旋即出現在手機螢幕上方，並將光線輻射到鬣狗的全身。"
+
+# game/story/Chapter_T3.rpy:5010
+translate Tchinese king_toast_route_part2_e2af4a2b:
+
+    # p question "Is this safe?"
+    p question "“這安全嗎？”"
+
+# game/story/Chapter_T3.rpy:5011
+translate Tchinese king_toast_route_part2_5cbe0892:
+
+    # "Doosh" "It’s just a spell to detect the records of this ghost’s previous identity. Easier than playing twenty questions with ghosts who—more often than not—have no recollection of who they really were."
+    "Doosh" "“只是個查明生前身份的咒語而已，總比跟幽靈玩你說我猜容易多了，畢竟它們往往不記得自己是誰。”"
+
+# game/story/Chapter_T3.rpy:5016
+translate Tchinese king_toast_route_part2_5de1fd57:
+
+    # "The blue light fades away, signalling that it’s done."
+    "藍光逐漸消失，這表示掃描結束了。"
+
+# game/story/Chapter_T3.rpy:5017
+translate Tchinese king_toast_route_part2_bba021de:
+
+    # "Doosh" "Ok, I got your obituary. Tomás Eduardo, date of death May 15, 1993."
+    "Doosh" "“行了，你的訃告到手了。Tomás Eduardo，逝世於1993年5月15日。”"
+
+# game/story/Chapter_T3.rpy:5018
+translate Tchinese king_toast_route_part2_572df803:
+
+    # "Doosh" "Died in Los Angeles due to a cardiac gunshot wound."
+    "Doosh" "“地點：洛杉磯，死因：心臟中槍。”"
+
+# game/story/Chapter_T3.rpy:5019
+translate Tchinese king_toast_route_part2_f35e4141:
+
+    # T "Yeah, I remember that much."
+    T "“對，我記得很清楚。”"
+
+# game/story/Chapter_T3.rpy:5020
+translate Tchinese king_toast_route_part2_85d28ba5:
+
+    # L "How did you go from Tomás Eduardo to Toast for a name?"
+    L "“你是怎麼從Tomás Eduardo變成Toast的？”"
+
+# game/story/Chapter_T3.rpy:5021
+translate Tchinese king_toast_route_part2_af017e4f:
+
+    # T smile "Tomás sounds close to toast."
+    T smile "“Tomás的發音很像吐司吧？”"
+
+# game/story/Chapter_T3.rpy:5022
+translate Tchinese king_toast_route_part2_2354549c:
+
+    # L @ annoyed "Ohh."
+    L @ annoyed "“哦。”"
+
+# game/story/Chapter_T3.rpy:5023
+translate Tchinese king_toast_route_part2_c222ccba:
+
+    # "Doosh" "Let's move on people, I don't have all day."
+    "Doosh" "“別分心各位，我可沒那麼多時間奉陪。”"
+
+# game/story/Chapter_T3.rpy:5024
+translate Tchinese king_toast_route_part2_ee2f9c28:
+
+    # "You feel you want to ask Toast something, but the question slips from your mind."
+    "你想詢問Toast什麼，卻又讓問題從腦海裡溜走了。"
+
+# game/story/Chapter_T3.rpy:5025
+translate Tchinese king_toast_route_part2_1d31ef16:
+
+    # "Doosh" "I just need the ghosts' new identity and we can finalise the passport."
+    "Doosh" "“現在離護照完成只差一步：一個新的身份。”"
+
+# game/story/Chapter_T3.rpy:5026
+translate Tchinese king_toast_route_part2_dff31ea0:
+
+    # "Doosh" "What's your new name, ghost?"
+    "Doosh" "“你的新名字是什麼，幽靈？”"
+
+# game/story/Chapter_T3.rpy:5027
+translate Tchinese king_toast_route_part2_a77a7ba9:
+
+    # T "I can have any name? Nice, then I want Ultra Rex Megastar."
+    T "“可以自己選的嗎？很好，我要叫超新星霸王龍皇。”"
+
+# game/story/Chapter_T3.rpy:5029
+translate Tchinese king_toast_route_part2_426d84d6:
+
+    # M "He said a new name, not a stripper’s name. Just keep it simple."
+    M "“又不是讓你去說相聲，盡量簡單點。”"
+
+# game/story/Chapter_T3.rpy:5031
+translate Tchinese king_toast_route_part2_b43273df:
+
+    # "Toast's eyebrows furrow."
+    "Toast皺起眉頭。"
+
+# game/story/Chapter_T3.rpy:5032
+translate Tchinese king_toast_route_part2_21afb372:
+
+    # T smile "Simple, huh... I guess I could keep Toast since everyone knows me by that."
+    T smile "“簡單啊...那我還叫Toast好了，因為大伙都這麼叫我。”"
+
+# game/story/Chapter_T3.rpy:5034
+translate Tchinese king_toast_route_part2_5b750eff:
+
+    # p smile "I know, Toast a la Mode."
+    p smile "“我有個點子，{rb}Toast a la Mode{/rb}{rt}冰淇淋吐司{/rt}。”"
+
+# game/story/Chapter_T3.rpy:5036
+translate Tchinese king_toast_route_part2_9ee583d2:
+
+    # L "I suggest Toast au Fromage."
+    L "“我建議用{rb}Toast au Fromage{/rb}{rt}乳酪吐司{/rt}。”"
+
+# game/story/Chapter_T3.rpy:5037
+translate Tchinese king_toast_route_part2_eaef59ba:
+
+    # M annoyed "You two are not helping."
+    M annoyed "“你們倆淨幫倒忙。”"
+
+# game/story/Chapter_T3.rpy:5040
+translate Tchinese king_toast_route_part2_69511e62:
+
+    # T "Toast Eduardo then."
+    T "“就Toast Eduardo好了。”"
+
+# game/story/Chapter_T3.rpy:5042
+translate Tchinese king_toast_route_part2_7e60305e:
+
+    # "Doosh" "That's no different from the original name. You sure?"
+    "Doosh" "“你確定嗎？這就是你的原名吧。”"
+
+# game/story/Chapter_T3.rpy:5043
+translate Tchinese king_toast_route_part2_cbc3d3ac:
+
+    # T neutral "The name Eduardo is important to me. I want to keep it."
+    T neutral "“Eduardo這個姓對我來說很重要，我想把它保留下來。”"
+
+# game/story/Chapter_T3.rpy:5044
+translate Tchinese king_toast_route_part2_2c16b384:
+
+    # M "It's fine."
+    M "“挺不錯的。”"
+
+# game/story/Chapter_T3.rpy:5045
+translate Tchinese king_toast_route_part2_66956592:
+
+    # "Doosh" "Alright, I've tuned my magic circle. Build the circuit, Morris."
+    "Doosh" "陣已完成，你來構建迴路，Morris。"
+
+# game/story/Chapter_T3.rpy:5046
+translate Tchinese king_toast_route_part2_f67239ad:
+
+    # M "Got it."
+    M "“收到。”"
+
+# game/story/Chapter_T3.rpy:5047
+translate Tchinese king_toast_route_part2_84b73b74:
+
+    # "The boar pulls out a small, black notepad. He opens it to the first blank page."
+    "野豬掏出一個黑色的小本子，翻到空白的一頁。"
+
+# game/story/Chapter_T3.rpy:5049
+translate Tchinese king_toast_route_part2_19d64481:
+
+    # "He takes a needle and pricks his finger."
+    "他拿針扎了一下自己的手指。"
+
+# game/story/Chapter_T3.rpy:5050
+translate Tchinese king_toast_route_part2_d5c1d31a:
+
+    # "Using the blood he draws a magic circle on the paper."
+    "然後用血在紙上畫了一個魔法陣。"
+
+# game/story/Chapter_T3.rpy:5051
+translate Tchinese king_toast_route_part2_73c6e517:
+
+    # M "The circuit is complete."
+    M "“迴路已完成。”"
+
+# game/story/Chapter_T3.rpy:5052
+translate Tchinese king_toast_route_part2_8ba5870e:
+
+    # "You sense powerful magic emanating from the phone."
+    "你感覺到手機散發出強大的魔力。"
+
+# game/story/Chapter_T3.rpy:5054
+translate Tchinese king_toast_route_part2_5a730a87:
+
+    # "Doosh" "Radiant ocean, pulsating current, remake the world as I see fit, Dolos."
+    "Doosh" "“光芒四射的海洋，生機勃勃的流水，按照我的意願重塑這個世界，Dolos。”"
+
+# game/story/Chapter_T3.rpy:5055
+translate Tchinese king_toast_route_part2_de8c3f6e:
+
+    # "The blood-stained notebook glows a bright blue and the pages turn rapidly."
+    "霎時間，血跡斑斑的書頁翻飛，發出耀眼的藍色光芒。"
+
+# game/story/Chapter_T3.rpy:5057
+translate Tchinese king_toast_route_part2_208430ac:
+
+    # "A bright, explosive spark envelopes the notebook."
+    "一團明亮而迅猛的火花將筆記本包圍。"
+
+# game/story/Chapter_T3.rpy:5058
+translate Tchinese king_toast_route_part2_dfdd85b3:
+
+    # "The light subsides and the book is now branded with an inscription on the cover."
+    "而後光線暗淡下來，本子的封面上出現了幾行銘文。"
+
+# game/story/Chapter_T3.rpy:5059
+translate Tchinese king_toast_route_part2_d2bc4c6e:
+
+    # "Doosh" "It's done. Don't call me again, Morris."
+    "Doosh" "“搞定。別再給我打電話了，Morris。”"
+
+# game/story/Chapter_T3.rpy:5060
+translate Tchinese king_toast_route_part2_8c79d58d:
+
+    # "The phone call ends just as harshly as it had begun."
+    "電話掛斷得和接通時一樣乾脆。"
+
+# game/story/Chapter_T3.rpy:5063
+translate Tchinese king_toast_route_part2_574f9282:
+
+    # "Morris picks up the transformed book and his phone. Upon touching his hand, the notebook transforms into an identification card, not unlike the cards you and Lucian handed him earlier."
+    "Morris拿起改造後的本子和手機。一碰到他的手，筆記本就變成了一張身份證，和你跟Lucian之前遞給他的身份證沒有兩樣。"
+
+# game/story/Chapter_T3.rpy:5065
+translate Tchinese king_toast_route_part2_48df8e18:
+
+    # M neutral "The phone's battery is nearly dead, but at least we have what we need."
+    M neutral "“手機差點沒電，但好在事情辦完了。”"
+
+# game/story/Chapter_T3.rpy:5066
+translate Tchinese king_toast_route_part2_8ef9eacf:
+
+    # "Morris snaps a picture of the false I.D and hands it to Toast."
+    "Morris先是拍了張照片，再把假身份證遞給Toast。"
+
+# game/story/Chapter_T3.rpy:5067
+translate Tchinese king_toast_route_part2_c8592d30:
+
+    # T smile "Hey, it even has my picture on it."
+    T smile "“嘿，上面還有我的照片吶。”"
+
+# game/story/Chapter_T3.rpy:5068
+translate Tchinese king_toast_route_part2_1748cae7:
+
+    # "You peek around the hyena."
+    "你在旁邊偷偷瞄了一眼。"
+
+# game/story/Chapter_T3.rpy:5070
+translate Tchinese king_toast_route_part2_1e26396b:
+
+    # "You can see the identification card with Toast's new name, indicating him as a citizen of this country."
+    "可以看到身份證上印著Toast的新名字，表明他是這個國家的公民。"
+
+# game/story/Chapter_T3.rpy:5071
+translate Tchinese king_toast_route_part2_a18f1d4b:
+
+    # p smile "Cool, it works."
+    p smile "“成了，酷欸。”"
+
+# game/story/Chapter_T3.rpy:5072
+translate Tchinese king_toast_route_part2_d46e50a3:
+
+    # M "Yup, you better not lose that... Just think of what kind of document you need and it will transform into it. Remember to rip out a page if you need to pass it to someone."
+    M "“可千萬別弄丟了...這東西能按你的心意變成任何文件，如果非得經他人之手，就撕下一頁給他。”"
+
+# game/story/Chapter_T3.rpy:5073
+translate Tchinese king_toast_route_part2_4c6da271:
+
+    # M "The magic will even affect any technology in case anyone tries to check it."
+    M "“為了以防萬一，這魔法還具備干擾機器檢查的功能。”"
+
+# game/story/Chapter_T3.rpy:5074
+translate Tchinese king_toast_route_part2_048a82ec:
+
+    # "Lucian peers over Toast’s other shoulder and smirks."
+    "Lucian從Toast的另一個肩頭看見身份證，不以為然地笑了。"
+
+# game/story/Chapter_T3.rpy:5075
+translate Tchinese king_toast_route_part2_0862ce2f:
+
+    # L smirk "Look at how much they needed to imitate a fraction of our powers, [name]."
+    L smirk "“瞧瞧他們多麼大費周章地來模仿我們的一小部分力量，[name]。”"
+
+# game/story/Chapter_T3.rpy:5076
+translate Tchinese king_toast_route_part2_ad6436eb:
+
+    # p annoyed "It's the results that count, Lucian."
+    p annoyed "“結果才是最重要的，Lucian。”"
+
+# game/story/Chapter_T3.rpy:5080
+translate Tchinese king_toast_route_part2_cfa0e65a:
+
+    # M_nt "Alright, I'll head back and make the reservations. I'll send further instructions when it's time to head out."
+    M_nt "“那麼，我就先回去定房間了，到時候再聯繫。”"
+
+# game/story/Chapter_T3.rpy:5082
+translate Tchinese king_toast_route_part2_4971d093:
+
+    # T "Thanks for the free I.D."
+    T "“謝謝你的免費身份證。”"
+
+# game/story/Chapter_T3.rpy:5093
+translate Tchinese king_toast_route_part2_a845ab31:
+
+    # M "Mmhmm."
+    M "“嗯哼。”"
+
+# game/story/Chapter_T3.rpy:5106
+translate Tchinese king_toast_route_part2_94012adb:
+
+    # "Morris takes his leave."
+    "說罷，Morris離開了。"
+
+# game/story/Chapter_T3.rpy:5111
+translate Tchinese king_toast_route_part2_7ff8e4c6:
+
+    # L "So what now?"
+    L "“接下來幹嘛？”"
+
+# game/story/Chapter_T3.rpy:5112
+translate Tchinese king_toast_route_part2_0f86b8fa:
+
+    # p smile "Well, it's way past breakfast. Why don't I cook us some sausages and eggs?"
+    p smile "“已經過了早餐時間了，我去給大伙煎一些香腸和雞蛋吧？”"
+
+# game/story/Chapter_T3.rpy:5113
+translate Tchinese king_toast_route_part2_694d20a1:
+
+    # T smile "Yes, finally!"
+    T smile "“耶，等好久啦！”"
+
+# game/story/Chapter_T3.rpy:5117
+translate Tchinese king_toast_route_part2_52df0dc5:
+
+    # L_nt "Food again... well I'll leave you two to it."
+    L_nt "“又是食物...好吧，我就不打擾你們兩個了。”"
+
+# game/story/Chapter_T3.rpy:5127
+translate Tchinese king_toast_route_part2_fe847dc5:
+
+    # T_nt "Oh no you don't. We're cooking together."
+    T_nt "“沒有的事，咱們要一起做飯。”"
+
+# game/story/Chapter_T3.rpy:5139
+translate Tchinese king_toast_route_part2_cd12e233:
+
+    # "Toast grabs you and Lucian's wrists before taking you both to the kitchen."
+    "Toast抓住你和Lucian的手腕，把你們拉到廚房。"
+
+# game/story/Chapter_T3.rpy:5140
+translate Tchinese king_toast_route_part2_edcc9c5a:
+
+    # L "This is ridiculous, I don't need food."
+    L "“真是荒謬，我又不需要進食。”"
+
+# game/story/Chapter_T3.rpy:5141
+translate Tchinese king_toast_route_part2_a598710e:
+
+    # T "You don’t need to be such a sour pup. Now, quit your yapping and marinate that sausage."
+    T "“你不用總是擺出一張苦瓜臉，聽話，別再囉哩吧嗦的了，把香腸醃了去。”"
+
+# game/story/Chapter_T3.rpy:5142
+translate Tchinese king_toast_route_part2_3184b8a1:
+
+    # L "Ugh..."
+    L "“唉...”"
+
+# game/story/Chapter_T3.rpy:5143
+translate Tchinese king_toast_route_part2_f64b6332:
+
+    # p "Lucian, no, don't use your feather to wipe the sauces on it!"
+    p "“住手啊，Lucian，不要用你的羽毛擦上面的醬汁！”"
+
+# game/story/Chapter_T3.rpy:5145
+translate Tchinese king_toast_route_part2_61754b3c:
+
+    # "The rest of the afternoon, you spend cooking with your friends. Come evening, it's time for your shift."
+    "下午就這樣其樂融融地過去了，到了晚上，輪到你值班了。"
+
+# game/story/Chapter_T3.rpy:5155
+translate Tchinese king_toast_route_SHOP_b9f3cf85:
+
+    # "The night shift is calm and quiet tonight. Toast has accompanied you to work while Lucian stayed back home, having fallen asleep after the meal."
+    "今晚的夜班很平靜。Toast在店裡陪你，Lucian則留在家中小憩。"
+
+# game/story/Chapter_T3.rpy:5156
+translate Tchinese king_toast_route_SHOP_4870ccd3:
+
+    # "The shop’s centralised air conditioning blankets you in cool air from behind the counter."
+    "便利商店的中央空調使你站在收銀台後面也能享受到涼爽的空氣。"
+
+# game/story/Chapter_T3.rpy:5157
+translate Tchinese king_toast_route_SHOP_ef99e46e:
+
+    # p "You know, you didn't have to come with me to work."
+    p "“其實你不用跟我一起上班的。”"
+
+# game/story/Chapter_T3.rpy:5158
+translate Tchinese king_toast_route_SHOP_830e1caa:
+
+    # T smile "I ain't letting my partner get jumped on like before. We're a team, so I’ve got your back."
+    T smile "“我可不能讓我的搭檔像之前那樣被人欺負。咱們是一個團隊，我永遠是你的後盾。”"
+
+# game/story/Chapter_T3.rpy:5159
+translate Tchinese king_toast_route_SHOP_410c0bce:
+
+    # p smile "Thanks. You know, with your new body and I.D, that reminds me of this crazy idea I had."
+    p smile "“謝啦。說起來，你現在有了新的身體和身份證，我不免產生一個大膽的想法。”"
+
+# game/story/Chapter_T3.rpy:5161
+translate Tchinese king_toast_route_SHOP_e759c6c1:
+
+    # "Toast raises an eyebrow."
+    "Toast揚起眉毛。"
+
+# game/story/Chapter_T3.rpy:5162
+translate Tchinese king_toast_route_SHOP_c4b666d9:
+
+    # p "Why don't you come work with me here?"
+    p "“你要不要來這家店打工呢？”"
+
+# game/story/Chapter_T3.rpy:5163
+translate Tchinese king_toast_route_SHOP_31e488db:
+
+    # T "Me? Work here?"
+    T "“我？在這裡打工？”"
+
+# game/story/Chapter_T3.rpy:5164
+translate Tchinese king_toast_route_SHOP_1adf314c:
+
+    # p neutral "Yeah, you get to earn some cash, and that'll help to keep our expenses manageable."
+    p neutral "“是啊，你可以賺錢，幫助我們彌補一些支出。”"
+
+# game/story/Chapter_T3.rpy:5165
+translate Tchinese king_toast_route_SHOP_f5e02d29:
+
+    # T "I... I don't know... I'm not a brainiac like you."
+    T "“我...我不知道...我沒有你那麼聰明。”"
+
+# game/story/Chapter_T3.rpy:5167
+translate Tchinese king_toast_route_SHOP_96c81637:
+
+    # "Your face squinches in embarrassment."
+    "你尷尬地做了個鬼臉。"
+
+# game/story/Chapter_T3.rpy:5168
+translate Tchinese king_toast_route_SHOP_9c0a8774:
+
+    # p neutral "Trust me, it doesn't take a rocket scientist to work here. I can even train you."
+    p neutral "“相信我，在這裡工作並不需要絕頂的智商，再說還有我訓練你。”"
+
+# game/story/Chapter_T3.rpy:5169
+translate Tchinese king_toast_route_SHOP_c8bcb7f2:
+
+    # T sad "It's just... I've tried doing these kinds of stuff before. It never really worked out."
+    T sad "“可...我之前也嘗試過，最後卻弄得一團糟。”"
+
+# game/story/Chapter_T3.rpy:5170
+translate Tchinese king_toast_route_SHOP_53fe4753:
+
+    # p "Then think of this as a second chance."
+    p "“那就把這當作是第二次機會吧。”"
+
+# game/story/Chapter_T3.rpy:5171
+translate Tchinese king_toast_route_SHOP_0d9e7129:
+
+    # T neutral "A second chance..."
+    T neutral "“第二次機會...”"
+
+# game/story/Chapter_T3.rpy:5172
+translate Tchinese king_toast_route_SHOP_0a2cb108:
+
+    # "Toast contemplates his hands for a bit before his gaze meets your face."
+    "Toast凝視著自己的雙手，然後直直地望向你。"
+
+# game/story/Chapter_T3.rpy:5174
+translate Tchinese king_toast_route_SHOP_87d34014:
+
+    # T @ smile "Ok. If you believe in me, I’ll do it."
+    T @ smile "“好，既然你相信我，我豁出去了。”"
+
+# game/story/Chapter_T3.rpy:5175
+translate Tchinese king_toast_route_SHOP_30214f28:
+
+    # p "Awesome! Now, let's start by drafting your resume. We have a walk-in interview system, so I just need to help you fill out some forms. Then I’ll tell Mike you’re ready for the interview."
+    p "“太棒了！事不宜遲，就從你的簡歷開始吧。我們店實行的是無預約面試措施，所以我只需要幫你填寫一些表格，再告訴Mike有人想來應聘。”"
+
+# game/story/Chapter_T3.rpy:5177
+translate Tchinese king_toast_route_SHOP_a847fa15:
+
+    # "You pull out your phone and open a document."
+    "你掏出手機打開一份文件。"
+
+# game/story/Chapter_T3.rpy:5178
+translate Tchinese king_toast_route_SHOP_eef373c6:
+
+    # p "I've got my old resume saved. So we just need to change a few things for you."
+    p "“把我以前的簡歷改一下就好了。”"
+
+# game/story/Chapter_T3.rpy:5179
+translate Tchinese king_toast_route_SHOP_ff0ad6b2:
+
+    # p "Name, Toast Eduardo.... Sex-"
+    p "“姓名：Toast Eduardo...性-”"
+
+# game/story/Chapter_T3.rpy:5180
+translate Tchinese king_toast_route_SHOP_430c712a:
+
+    # T smile "Not enough."
+    T smile "“飢渴。”"
+
+# game/story/Chapter_T3.rpy:5181
+translate Tchinese king_toast_route_SHOP_99142a5e:
+
+    # p @ smile "Pfft. Education?"
+    p @ smile "“噗。學歷呢？”"
+
+# game/story/Chapter_T3.rpy:5182
+translate Tchinese king_toast_route_SHOP_093763eb:
+
+    # T "I graduated high school, but nothing else after that."
+    T "“我高中畢業後就沒上過學了。”"
+
+# game/story/Chapter_T3.rpy:5183
+translate Tchinese king_toast_route_SHOP_ccefdb85:
+
+    # p "Then we'll use the Death Passport to make a school cert, a birth cert, and whatever’s next..."
+    p "“接著用死亡護照生成畢業證、出生證等等等等...”"
+
+# game/story/Chapter_T3.rpy:5184
+translate Tchinese king_toast_route_SHOP_c8525426:
+
+    # p @ question "Let's focus on the questions about your skills. What can you do?"
+    p @ question "“下面是專業的部分了，你都擅長什麼？”"
+
+# game/story/Chapter_T3.rpy:5185
+translate Tchinese king_toast_route_SHOP_ed5fd45e:
+
+    # T "I can cook some mean enchiladas."
+    T "“我會做好吃的墨西哥捲餅。”"
+
+# game/story/Chapter_T3.rpy:5186
+translate Tchinese king_toast_route_SHOP_edd008a4:
+
+    # p "I’ll put that down as cooking skills."
+    p "“可以把這歸類為烹飪技能。”"
+
+# game/story/Chapter_T3.rpy:5187
+translate Tchinese king_toast_route_SHOP_1205e4ba:
+
+    # T smile "Plus, if anyone’s giving you guys beef, I know how to make them... disappear."
+    T smile "“還有，如果有人對你們抱怨個沒完，我知道怎麼把他們...變消失。”"
+
+# game/story/Chapter_T3.rpy:5188
+translate Tchinese king_toast_route_SHOP_6470e41e:
+
+    # "He cracks his knuckles with a devilish smile."
+    "他露出魔鬼般的微笑，把指關節掰的喀喀響。"
+
+# game/story/Chapter_T3.rpy:5189
+translate Tchinese king_toast_route_SHOP_de61171f:
+
+    # p @ nervous "I’ll... put that under waste management then."
+    p @ nervous "“我就寫...垃圾管理好了。”"
+
+# game/story/Chapter_T3.rpy:5190
+translate Tchinese king_toast_route_SHOP_37d15972:
+
+    # p "Let’s just move on... do you speak another language?"
+    p "“咱們繼續...你有掌握其他語言嗎？”"
+
+# game/story/Chapter_T3.rpy:5191
+translate Tchinese king_toast_route_SHOP_f3789b50:
+
+    # T "¡Sí! Hablo español. (Yes, I speak Spanish.)"
+    T "“{rb}¡Sí! Hablo español{/rb}{rt}是的，我會說西班牙語{/rt}。”"
+
+# game/story/Chapter_T3.rpy:5192
+translate Tchinese king_toast_route_SHOP_280bd89c:
+
+    # p shocked "You speak Spanish? That's so cool. Shoot me a line, man."
+    p shocked "“西班牙語？這麼牛，給我露一手，老兄。”"
+
+# game/story/Chapter_T3.rpy:5202
+translate Tchinese king_toast_route_SHOP_11323ae5:
+
+    # T "Cuando veo tus ojos, siento en mi corazón la necesidad de protegerte. (When I see your eyes I feel in my heart the need to protect you.)"
+    T "“{rb}Cuando veo tus ojos, siento en mi corazón la necesidad de protegerte{/rb}{rt}從我看到你的第一眼起，我就發誓要守護你{/rt}。”"
+
+# game/story/Chapter_T3.rpy:5208
+translate Tchinese king_toast_route_SHOP_eeda98c7:
+
+    # "You fan the side of your face."
+    "你用手對著自己的側臉扇風。"
+
+# game/story/Chapter_T3.rpy:5209
+translate Tchinese king_toast_route_SHOP_aabad32d:
+
+    # p "Woo, I don't know what you just said, but it sounded hot."
+    p "“哇，雖然不懂你說了什麼，但聽起來好熱。”"
+
+# game/story/Chapter_T3.rpy:5210
+translate Tchinese king_toast_route_SHOP_37cee354:
+
+    # T neutral "Yeah..."
+    T neutral "“是嗎...”"
+
+# game/story/Chapter_T3.rpy:5211
+translate Tchinese king_toast_route_SHOP_ba976bfe:
+
+    # "You flip your phone over and activate the camera."
+    "你將手機翻轉過來，然後打開攝影機。"
+
+# game/story/Chapter_T3.rpy:5212
+translate Tchinese king_toast_route_SHOP_75383d65:
+
+    # p "Alright let me snap a pic of you and I can finish up the resume."
+    p "“讓我給你拍張照，簡歷就差不多完成了。”"
+
+# game/story/Chapter_T3.rpy:5217
+translate Tchinese king_toast_route_SHOP_b20528a8:
+
+    # "Toast removes his shirt and raises his arms in a double bicep pose."
+    "Toast脫下上衣，舉起雙臂，擺出展示二頭肌的姿勢。"
+
+# game/story/Chapter_T3.rpy:5218
+translate Tchinese king_toast_route_SHOP_c2b8c5a3:
+
+    # T "How's this looking?"
+    T "“這樣子如何？”"
+
+# game/story/Chapter_T3.rpy:5219
+translate Tchinese king_toast_route_SHOP_1efc3bab:
+
+    # p nervous "Like you’re preparing for a different kind of job."
+    p nervous "“看起來像是在應聘另一份跟便利商店完全不搭邊的工作。”"
+
+# game/story/Chapter_T3.rpy:5220
+translate Tchinese king_toast_route_SHOP_7037a133:
+
+    # "The shutter sound of the camera app repeatedly echoes throughout the store."
+    "店內反覆迴響著相機程序發出的快門聲。"
+
+# game/story/Chapter_T3.rpy:5221
+translate Tchinese king_toast_route_SHOP_54245b48:
+
+    # p neutral "Ehem, I just need a headshot."
+    p neutral "“嗯，還缺一張大頭照。”"
+
+# game/story/Chapter_T3.rpy:5224
+translate Tchinese king_toast_route_SHOP_024f9830:
+
+    # "Toast nods and puts his shirt back on."
+    "Toast點點頭，重新穿上襯衫。"
+
+# game/story/Chapter_T3.rpy:5227
+translate Tchinese king_toast_route_SHOP_5e64bf3a:
+
+    # T @ neutral "Ready!"
+    T @ neutral "“我準備好了！”"
+
+# game/story/Chapter_T3.rpy:5228
+translate Tchinese king_toast_route_SHOP_a6285b47:
+
+    # "He gives you a bright smile and you take the picture."
+    "他給了你一個大大的微笑，你按下快門。"
+
+# game/story/Chapter_T3.rpy:5233
+translate Tchinese king_toast_route_SHOP_5bb9a4e3:
+
+    # "Not long after, you finish up Toast's resume and the related paperwork."
+    "很快，你就完成了Toast的簡歷與相關文書工作。"
+
+# game/story/Chapter_T3.rpy:5234
+translate Tchinese king_toast_route_SHOP_27d48109:
+
+    # "You give Mike a quick call, scheduling the interview for the next day."
+    "你跟Mike通了電話，把面試安排在了明天。"
+
+# game/story/Chapter_T3.rpy:5235
+translate Tchinese king_toast_route_SHOP_2d5b5fcf:
+
+    # "You even convince him to let you sit in on the interview. You said it would be helpful for your training, but really you just want to make sure Toast doesn’t say something inappropriate."
+    "你甚至說服了他讓你旁聽，說是有利於自己的培訓，但事實上你只是想確保Toast不會口不擇言。"
+
+# game/story/Chapter_T3.rpy:5236
+translate Tchinese king_toast_route_SHOP_c735d8dc:
+
+    # "Locking your phone, you go about the rest of your night working while running some mock interview questions by Toast."
+    "於是剩餘的晚上，你一邊工作，一邊給Toast出一些面試模擬題。"
+
+# game/story/Chapter_T3.rpy:5237
+translate Tchinese king_toast_route_SHOP_945a4baa:
+
+    # "You can tell he’s not taking the matter seriously, often becoming distracted by the many curious objects littering the shelves of the convenience store."
+    "你可以看出他並沒有認真對待這件事，因為他經常被遍布貨架的新奇商品分散了注意力。"
+
+# game/story/Chapter_T3.rpy:5238
+translate Tchinese king_toast_route_SHOP_0ae0e118:
+
+    # "You’re starting to think this may not be so easy."
+    "你開始覺得事情可能沒有你想的那麼容易了。"
+
+# game/story/Chapter_T3.rpy:5248
+translate Tchinese king_toast_route_MORNING_429f3491:
+
+    # "The next afternoon, your eyelids are heavy from your night shift, but you squeeze them open knowing Toast’s interview will begin at any moment."
+    "到了第二天下午，因為上夜班的緣故，你的眼皮直打架，但鑑於Toast的面試隨時都會開始，你只好強忍住睡意。"
+
+# game/story/Chapter_T3.rpy:5249
+translate Tchinese king_toast_route_MORNING_580b3dc3:
+
+    # p "Ugh, please tell me you've remembered the answers to all those mock questions?"
+    p "“呃，你還記得那些模擬題的答案嗎？”"
+
+# game/story/Chapter_T3.rpy:5250
+translate Tchinese king_toast_route_MORNING_184e9040:
+
+    # T smile "Nope!"
+    T smile "“忘光啦！”"
+
+# game/story/Chapter_T3.rpy:5253
+translate Tchinese king_toast_route_MORNING_46573cc9:
+
+    # "His bravado is instantly shot down by your tired mind."
+    "他的虛張聲勢幾乎立刻被你疲憊的大腦否決了。"
+
+# game/story/Chapter_T3.rpy:5257
+translate Tchinese king_toast_route_MORNING_b1d31ed5:
+
+    # "Mike enters and flips the shop sign to ‘closed’. The wolf carries with him a clipboard in one hand, and a bright blue pen tucked behind his ear."
+    "Mike走進店裡，順手將掛在門口的招牌翻到“打樣”那一面。狼一手拿著寫字板，耳朵上夾著一支天藍色的鋼筆。"
+
+# game/story/Chapter_T3.rpy:5260
+translate Tchinese king_toast_route_MORNING_10fd8519:
+
+    # "You stand up right, feigning some energy remaining within you."
+    "你立正站好，假裝自己還有精神。"
+
+# game/story/Chapter_T3.rpy:5261
+translate Tchinese king_toast_route_MORNING_493c411a:
+
+    # Mike "This him?"
+    Mike "“就是他嗎？”"
+
+# game/story/Chapter_T3.rpy:5262
+translate Tchinese king_toast_route_MORNING_22df8828:
+
+    # p nervous "Yeah, Mike this is Toast. Toast, Mike."
+    p nervous "“是的。我來介紹一下，Mike，這位是Toast。Toast，這位是Mike。”"
+
+# game/story/Chapter_T3.rpy:5265
+translate Tchinese king_toast_route_MORNING_c0150019:
+
+    # T "Hey man."
+    T "“你好啊，伙伴。”"
+
+# game/story/Chapter_T3.rpy:5267
+translate Tchinese king_toast_route_MORNING_336dd600:
+
+    # "Toast raises his hand for a high five. The sheer sight of the hyena’s hand going above his head causes your brain to inject a copious amount of adrenaline into the rest of your body."
+    "Toast擺出擊掌的架勢，看著鬣狗高懸在頭頂的手，你只感覺腎上腺素在自己體內狂飆。"
+
+# game/story/Chapter_T3.rpy:5268
+translate Tchinese king_toast_route_MORNING_ad60a2b3:
+
+    # "It’s do or die now and the ghost brings an opener that’s sending his career into an early grave."
+    "在這生死攸關的時刻，幽靈的這句開場白無疑給他的職業生涯提前判了死刑。"
+
+# game/story/Chapter_T3.rpy:5272
+translate Tchinese king_toast_route_MORNING_8de6f18f:
+
+    # p_mono "OH NO! I didn't tell him how to give a formal greeting."
+    p_mono "“{b}糟了！{/b}我沒告訴他正經打招呼的方式。”"
+
+# game/story/Chapter_T3.rpy:5275
+translate Tchinese king_toast_route_MORNING_698f55f9:
+
+    # Mike "Umm, nice to meet you."
+    Mike "“嗯，很高興見到你。”"
+
+# game/story/Chapter_T3.rpy:5280
+translate Tchinese king_toast_route_MORNING_fd850c50:
+
+    # "Mike returns the high five which brings a glee to Toast and prompts him to set his hand down."
+    "Mike回了他一掌，Toast因此笑得更加燦爛了。"
+
+# game/story/Chapter_T3.rpy:5281
+translate Tchinese king_toast_route_MORNING_1500b325:
+
+    # Mike "Shall we get things started then?"
+    Mike "“那我們開始吧？”"
+
+# game/story/Chapter_T3.rpy:5282
+translate Tchinese king_toast_route_MORNING_a7d80899:
+
+    # T "You're the boss."
+    T "“你是老闆，你說了算。”"
+
+# game/story/Chapter_T3.rpy:5283
+translate Tchinese king_toast_route_MORNING_d50b2f74:
+
+    # p_mono "Yes he is! So stop talking to him so casually."
+    p_mono "“原來你知道啊喂！別再這麼大大剌剌的了。”"
+
+# game/story/Chapter_T3.rpy:5284
+translate Tchinese king_toast_route_MORNING_939115e6:
+
+    # p "Hehe... Yeah... "
+    p "“呵呵...是啊...”"
+
+# game/story/Chapter_T3.rpy:5285
+translate Tchinese king_toast_route_MORNING_a14383bd:
+
+    # Mike "Hope you don't mind if we do the interview in the break room. I closed the shop so there won’t be any customers anyhow. [name], will be sitting in as part of his training for a managerial post. That ok with you?"
+    Mike "“希望你不介意我們在休息室裡面試。我把店關了，所以不用擔心顧客的問題。[name]會在這裡旁聽，作為他管理崗位培訓的一部分，如果你沒有意見的話？”"
+
+# game/story/Chapter_T3.rpy:5286
+translate Tchinese king_toast_route_MORNING_cf283ed4:
+
+    # T neutral "I'm good."
+    T neutral "“當然沒有。”"
+
+# game/story/Chapter_T3.rpy:5287
+translate Tchinese king_toast_route_MORNING_905a75c6:
+
+    # Mike "Great."
+    Mike "“非常好。”"
+
+# game/story/Chapter_T3.rpy:5300
+translate Tchinese king_toast_route_MORNING_98d9ddb9:
+
+    # "While you wish you could pull Toast away to remind him to be more professional, you’re out of time. The three of you head for the break room."
+    "你很想拉開Toast，提醒他要更專業一點，然而已經沒有時間了，你們三個依次來到了休息室。"
+
+# game/story/Chapter_T3.rpy:5315
+translate Tchinese king_toast_route_MORNING_0d12e2e1:
+
+    # "The lunch table now serves as the interview table with two chairs placed facing one another."
+    "午餐桌被用作面試桌，兩把椅子面對面擺放在兩側。"
+
+# game/story/Chapter_T3.rpy:5322
+translate Tchinese king_toast_route_MORNING_3feac016:
+
+    # "Mike walks over to the far end of the table and you stand behind him. Toast on the other hand stands at the entrance with his back facing the door."
+    "你跟隨Mike走到桌子的另一頭，站在他身後。與此同時，Toast站在門口，背對著門。"
+
+# game/story/Chapter_T3.rpy:5323
+translate Tchinese king_toast_route_MORNING_3ac205f9:
+
+    # "You both watch what the hyena will do."
+    "你們一併注視著鬣狗接下來的行動。"
+
+# game/story/Chapter_T3.rpy:5324
+translate Tchinese king_toast_route_MORNING_70e503cb:
+
+    # p_mono shocked "It's the chair test! It’s ok, I went through this with him before. These mortals are as fickle as Vendrake when it comes to showing social power."
+    p_mono shocked "“這是椅子測試！不要緊的，我給他打過預防針了。凡人在炫耀社會權力這方面可謂出了名的反覆無常，跟Vendrake似的。”"
+
+# game/story/Chapter_T3.rpy:5325
+translate Tchinese king_toast_route_MORNING_72db4edd:
+
+    # p_mono question "During an interview, that power belongs to the interviewer, so Toast just needs to ask for permission to take his seat."
+    p_mono question "“在這場面試中，權力屬於面試官，所以Toast入座前需要先徵求許可。”"
+
+# game/story/Chapter_T3.rpy:5328
+translate Tchinese king_toast_route_MORNING_92a38473:
+
+    # "Toast grabs the chair in front of him and sits first."
+    "Toast拽出他面前的椅子，二話不說坐在上面。"
+
+# game/story/Chapter_T3.rpy:5330
+translate Tchinese king_toast_route_MORNING_89cb1fec:
+
+    # "In your mind, you grab an imaginary chair and fling it out an imaginary window."
+    "你在腦海中舉起一把虛構的椅子，把它扔出一扇虛構的窗戶。"
+
+# game/story/Chapter_T3.rpy:5331
+translate Tchinese king_toast_route_MORNING_5e6d7f4a:
+
+    # p_mono @ shocked "He sat down first! What is he doing?"
+    p_mono @ shocked "“他居然先坐下了！這是在搞什麼啊？”"
+
+# game/story/Chapter_T3.rpy:5333
+translate Tchinese king_toast_route_MORNING_8aeb8fc0:
+
+    # "Mike doesn't respond and takes his seat."
+    "Mike若無其事地坐了下來。"
+
+# game/story/Chapter_T3.rpy:5335
+translate Tchinese king_toast_route_MORNING_ea08bf04:
+
+    # Mike "So, I went over your application on the way here. I see that you didn't have any working experience."
+    Mike "“我在來的路上看到了你的申請，發現你並沒有工作經驗。”"
+
+# game/story/Chapter_T3.rpy:5336
+translate Tchinese king_toast_route_MORNING_51d71d46:
+
+    # T "Yeah, I figured I’d get some while I’m over here."
+    T "“對啊，不過這次被選上的話我就有啦。”"
+
+# game/story/Chapter_T3.rpy:5337
+translate Tchinese king_toast_route_MORNING_4a3cde1d:
+
+    # Mike "It's not a big issue, Sunny Fruits takes in all who are willing to work. So, what's the reason that you want to join our organisation?"
+    Mike "“這倒不是大礙，陽光超市廣招有志之才。那麼，你之所以選擇我們是出於哪些理由？”"
+
+# game/story/Chapter_T3.rpy:5338
+translate Tchinese king_toast_route_MORNING_93a647c5:
+
+    # T "So I can afford to eat."
+    T "“為了填飽肚子。”"
+
+# game/story/Chapter_T3.rpy:5340
+translate Tchinese king_toast_route_MORNING_74457016:
+
+    # "You facepalm yourself."
+    "你一巴掌拍在額頭上。"
+
+# game/story/Chapter_T3.rpy:5342
+translate Tchinese king_toast_route_MORNING_077e2a34:
+
+    # Mike "Ok, tell me about what you can bring to our little shop?"
+    Mike "“原來如此，請告訴我你能為我們的小店帶來什麼？”"
+
+# game/story/Chapter_T3.rpy:5343
+translate Tchinese king_toast_route_MORNING_eeaa13ee:
+
+    # T doubt "Bring? I guess I can bring some instant noodles. [name] doesn't have much at home."
+    T doubt "“帶來什麼？我想想，泡麵吧？[name]家還挺寒酸的。”"
+
+# game/story/Chapter_T3.rpy:5344
+translate Tchinese king_toast_route_MORNING_d21bfdc4:
+
+    # "You watch Mike chortle, but you feel your feet clawing at the ground in desperation."
+    "你看著Mike哈哈大笑，自己則恨不得找個地洞鑽進去。"
+
+# game/story/Chapter_T3.rpy:5345
+translate Tchinese king_toast_route_MORNING_b9ff9a0e:
+
+    # Mike "You live with [name]? Honestly, I expected King to move in with him first."
+    Mike "“你和[name]住在一起嗎？說實話，我還以為King會捷足先登呢。”"
+
+# game/story/Chapter_T3.rpy:5348
+translate Tchinese king_toast_route_MORNING_272f213c:
+
+    # Mike "Ain't that right?"
+    Mike "“是不是啊？”"
+
+# game/story/Chapter_T3.rpy:5350
+translate Tchinese king_toast_route_MORNING_c50d8a9e:
+
+    # "You laugh nervously back at your coworker."
+    "你乾笑了幾嗓子。"
+
+# game/story/Chapter_T3.rpy:5353
+translate Tchinese king_toast_route_MORNING_219e0217:
+
+    # Mike "Perhaps I was being unclear. I meant what kind of skills do you have that can be helpful to our store?"
+    Mike "“也許我表達得不夠清楚，這麼說吧，你認為自己能在店裡發揮哪些優勢？”"
+
+# game/story/Chapter_T3.rpy:5355
+translate Tchinese king_toast_route_MORNING_8ad64ed2:
+
+    # T smile "That's easy! You got heavy stuff, I can lift them! If anyone is giving you trouble in your turf, well I know how to make them play ball."
+    T smile "“簡單！你們有重物，我擅長舉重！此外，如果有人在你的地盤兒上撒野，我保證把他們教訓的服服貼貼。”"
+
+# game/story/Chapter_T3.rpy:5363
+translate Tchinese king_toast_route_MORNING_9b713fb0:
+
+    # p_mono "Aaaaaaaaaaaaaaaaaaaa! It's over..."
+    p_mono "“啊————————！完蛋了...”"
+
+# game/story/Chapter_T3.rpy:5365
+translate Tchinese king_toast_route_MORNING_74863053:
+
+    # Mike "Interesting, so you're saying you are strong physically and diplomatically. We definitely need staff like that."
+    Mike "“有意思，也就是說你的身體和外交能力都很出色，我們正缺這樣的員工。”"
+
+# game/story/Chapter_T3.rpy:5366
+translate Tchinese king_toast_route_MORNING_2b1ca867:
+
+    # Mike "Now, what I found most interesting was that you ticked ‘Do you have a history with law enforcement?’ but didn't elaborate."
+    Mike "“不過最吸引我眼球的是，你勾選了‘是否有執法史？’的選項，但並沒有更進一步的說明。”"
+
+# game/story/Chapter_T3.rpy:5367
+translate Tchinese king_toast_route_MORNING_d727f24c:
+
+    # p_mono @ shocked "Wait, I-I told him to tick 'No' on that. Toast, please don’t say anything incriminating!"
+    p_mono @ shocked "“等一下，我-我告訴過他別選那項了啊。Toast，千萬不要說你有前科之類的話！”"
+
+# game/story/Chapter_T3.rpy:5368
+translate Tchinese king_toast_route_MORNING_456e4cda:
+
+    # T sad "It's complicated... "
+    T sad "“這很複雜...”"
+
+# game/story/Chapter_T3.rpy:5369
+translate Tchinese king_toast_route_MORNING_25a92d10:
+
+    # "Toast looks sternly at Mike."
+    "Toast嚴肅地看著Mike。"
+
+# game/story/Chapter_T3.rpy:5370
+translate Tchinese king_toast_route_MORNING_d24501d5:
+
+    # T "I won’t lie, I’ve spent a few nights in the slammer before."
+    T "“我不想隱瞞什麼，我曾在監獄裡待過幾天。”"
+
+# game/story/Chapter_T3.rpy:5371
+translate Tchinese king_toast_route_MORNING_539874ed:
+
+    # Mike "Why was that?"
+    Mike "“因為什麼？”"
+
+# game/story/Chapter_T3.rpy:5372
+translate Tchinese king_toast_route_MORNING_d5b4413e:
+
+    # T "I was a lot younger, I had to feed my brother. I did some jobs for the local mob. You know, just to get enough to put him through school."
+    T "“年少無知。我為了供弟弟讀書，替當地的流氓團伙做了些見不得人的勾當。”"
+
+# game/story/Chapter_T3.rpy:5373
+translate Tchinese king_toast_route_MORNING_33632076:
+
+    # Mike "A gang, huh. You don’t happen to be currently working with the gang in town?"
+    Mike "“黑幫啊，那你現在還有跟他們打交道嗎？”"
+
+# game/story/Chapter_T3.rpy:5375
+translate Tchinese king_toast_route_MORNING_8e14192d:
+
+    # "Toast shakes his head."
+    "Toast搖頭。"
+
+# game/story/Chapter_T3.rpy:5376
+translate Tchinese king_toast_route_MORNING_b6a48cb5:
+
+    # T "That’s not a life I want to go back to."
+    T "“我這輩子都不要再過那種生活了。”"
+
+# game/story/Chapter_T3.rpy:5377
+translate Tchinese king_toast_route_MORNING_110ab082:
+
+    # "You watch Mike scrawl down a few notes."
+    "你看到Mike用潦草的筆跡寫下幾行字。"
+
+# game/story/Chapter_T3.rpy:5378
+translate Tchinese king_toast_route_MORNING_be22fa39:
+
+    # Mike "I can relate, I have a little sister too. It can be scary how far I’d go for her."
+    Mike "“我理解你的心情，我自己也有一個妹妹，為了她，赴湯蹈火我也在所不辭。”"
+
+# game/story/Chapter_T3.rpy:5379
+translate Tchinese king_toast_route_MORNING_3b593bd8:
+
+    # T @ smile "Family first I say."
+    T @ smile "“我只能說：家庭第一。”"
+
+# game/story/Chapter_T3.rpy:5380
+translate Tchinese king_toast_route_MORNING_f8f15a2b:
+
+    # "Mike nods."
+    "Mike點點頭。"
+
+# game/story/Chapter_T3.rpy:5381
+translate Tchinese king_toast_route_MORNING_84d18e75:
+
+    # p_mono @ question "They’re weirdly getting along..."
+    p_mono @ question "“他們倆莫名其妙好起來了...”"
+
+# game/story/Chapter_T3.rpy:5382
+translate Tchinese king_toast_route_MORNING_df11527c:
+
+    # Mike "Of course, Ana has a penchant for 'Bad Boys', which does not bode well for you."
+    Mike "“不過Ana喜歡‘壞小子’的類型，這對你來說不是個好兆頭。”"
+
+# game/story/Chapter_T3.rpy:5383
+translate Tchinese king_toast_route_MORNING_c8a51291:
+
+    # "Mike stares Toast down."
+    "Mike盯著Toast。"
+
+# game/story/Chapter_T3.rpy:5384
+translate Tchinese king_toast_route_MORNING_8df9de11:
+
+    # p_mono @ annoyed "Ahh... that's what he's concerned about..."
+    p_mono @ annoyed "“...他關心的是這個啊...”"
+
+# game/story/Chapter_T3.rpy:5385
+translate Tchinese king_toast_route_MORNING_4564803d:
+
+    # Mike "But I will say this, your multilingual skills are a plus."
+    Mike "“但不得不說，你的多語言能力確實是個加分項。”"
+
+# game/story/Chapter_T3.rpy:5386
+translate Tchinese king_toast_route_MORNING_7507d714:
+
+    # Mike "Your resume says you speak Spanish."
+    Mike "“簡歷上說你會講西班牙語。”"
+
+# game/story/Chapter_T3.rpy:5387
+translate Tchinese king_toast_route_MORNING_a3a259c0:
+
+    # T smile "¡Sí!"
+    T smile "“{rb}¡Sí{/rb}{rt}是的{/rt}！”"
+
+# game/story/Chapter_T3.rpy:5388
+translate Tchinese king_toast_route_MORNING_5885cbbb:
+
+    # Mike "What a coincidence I took Spanish as my second language class last semester."
+    Mike "“真巧，我上學期剛好選修了西班牙語作為我的第二語言。”"
+
+# game/story/Chapter_T3.rpy:5389
+translate Tchinese king_toast_route_MORNING_583999dc:
+
+    # Mike "Mi nombre es Mike. (My name is Mike.)"
+    Mike "“{rb}Mi nombre es Mike{/rb}{rt}我的名字是Mike{/rt}。”"
+
+# game/story/Chapter_T3.rpy:5390
+translate Tchinese king_toast_route_MORNING_0fe8a64e:
+
+    # T "Oh, ¡eres muy fluido hermano! (Oh, you sound pretty fluent dude!)"
+    T "“{rb}¡eres muy fluido hermano{/rb}{rt}你說得可真地道啊，老兄{/rt}！”"
+
+# game/story/Chapter_T3.rpy:5391
+translate Tchinese king_toast_route_MORNING_5dd4bbfd:
+
+    # Mike "Mi hermana es una biblioteca (My sister is a library.)"
+    Mike "“{rb}Mi hermana es una biblioteca{/rb}{rt}我妹妹是一間圖書館{/rt}。”"
+
+# game/story/Chapter_T3.rpy:5392
+translate Tchinese king_toast_route_MORNING_7373291c:
+
+    # T "¡Seguro tiene muchos visitantes entonces! (She must get a lot of visitors then.)"
+    T "“{rb}¡Seguro tiene muchos visitantes entonces{/rb}{rt}那她一定有不少訪客{/rt}！”"
+
+# game/story/Chapter_T3.rpy:5393
+translate Tchinese king_toast_route_MORNING_304b9174:
+
+    # "Then they both laugh."
+    "然後他們同時笑了。"
+
+# game/story/Chapter_T3.rpy:5394
+translate Tchinese king_toast_route_MORNING_659c5dcf:
+
+    # "A cold chill down your spine. You get the feeling that there was a misunderstanding here, but you are too mentally drained to worry about it."
+    "你打了個冷戰，覺得這其中有誤會，但早已疲憊不堪的你根本沒空去操心。"
+
+# game/story/Chapter_T3.rpy:5395
+translate Tchinese king_toast_route_MORNING_53e95872:
+
+    # Mike "Last question, then let's call it a day."
+    Mike "“那麼，我再問最後一個問題。”"
+
+# game/story/Chapter_T3.rpy:5396
+translate Tchinese king_toast_route_MORNING_a7f94b7a:
+
+    # T "Hit me."
+    T "“你講。”"
+
+# game/story/Chapter_T3.rpy:5397
+translate Tchinese king_toast_route_MORNING_cf318f0b:
+
+    # Mike "Knowing your employer is an important part of any interview. So what is our company motto?"
+    Mike "“了解自己的雇主在任何一場面試中都是相當重要的部分，所以，我們公司的座右銘是什麼？”"
+
+# game/story/Chapter_T3.rpy:5399
+translate Tchinese king_toast_route_MORNING_edaab59b:
+
+    # T shocked "Err..."
+    T shocked "“呃...”"
+
+# game/story/Chapter_T3.rpy:5400
+translate Tchinese king_toast_route_MORNING_39b3ede2:
+
+    # "Toast looks at you, wide eyed and confused."
+    "Toast瞪大了眼睛，滿頭問號地朝你看過來。"
+
+# game/story/Chapter_T3.rpy:5401
+translate Tchinese king_toast_route_MORNING_054065db:
+
+    # p_mono "Crap, I knew I forgot to teach him something. It’s the line in the jingle. Wait... Maybe I can mime it to him!"
+    p_mono "“見鬼，我就知道我忘了教他什麼。座右銘是廣告曲裡的一句話，別急...也許我可以表演給他看！”"
+
+# game/story/Chapter_T3.rpy:5402
+translate Tchinese king_toast_route_MORNING_7d59b014:
+
+    # "You point to the sun logo on your shirt while desperately mouthing the words “Sunny Fruits.”"
+    "你指著襯衫上的太陽標誌，使出吃奶的勁用口型模仿“陽光超市”。"
+
+# game/story/Chapter_T3.rpy:5403
+translate Tchinese king_toast_route_MORNING_39697f8e:
+
+    # T doubt "Taleehoo? I mean, Sunny Fruits..."
+    T doubt "“Taleehoo？我是說，陽光超市...”"
+
+# game/story/Chapter_T3.rpy:5405
+translate Tchinese king_toast_route_MORNING_fe7b1296:
+
+    # "You nod and switch to show a series of actions, first a wide smile."
+    "你點點頭，換了一套動作，首先是燦爛的笑容。"
+
+# game/story/Chapter_T3.rpy:5413
+translate Tchinese king_toast_route_MORNING_7deb7cba:
+
+    # "Then, with both arms you swing them in an arch from left to right to symbolise the rising sun, followed by a sway of your hips as your hands rise and fall to represent the rain."
+    "然後用雙臂從左到右呈弧形擺動，象徵太陽的升起，接著扭動腰肢，手一起一落，代表雨水。"
+
+# game/story/Chapter_T3.rpy:5414
+translate Tchinese king_toast_route_MORNING_8a5de2a9:
+
+    # T smile "I got it!"
+    T smile "“我知道啦！”"
+
+# game/story/Chapter_T3.rpy:5418
+translate Tchinese king_toast_route_MORNING_d6a0700f:
+
+    # Mike "Huh?"
+    Mike "“欸？”"
+
+# game/story/Chapter_T3.rpy:5423
+translate Tchinese king_toast_route_MORNING_7d8ca844:
+
+    # "The wolf turns his head around. You quickly stand still with a goofy grin plastered on your face."
+    "狼轉過頭來，你幾乎馬上僵在了原地，臉上還掛著傻乎乎的笑。"
+
+# game/story/Chapter_T3.rpy:5427
+translate Tchinese king_toast_route_MORNING_ff59fad1:
+
+    # T "'Sunny Fruits, smile and buy our stuff or we'll throw you into the river, and you’ll be sleeping with the fishes.'"
+    T "“陽光超市，笑著進來買東西，否則我們就把你丟到河裡，讓你跟魚一起睡覺。”"
+
+# game/story/Chapter_T3.rpy:5449
+translate Tchinese king_toast_route_MORNING_7a38960d:
+
+    # "Mike bursts out laughing."
+    "Mike爆笑如雷。"
+
+# game/story/Chapter_T3.rpy:5451
+translate Tchinese king_toast_route_MORNING_8ea21ba6:
+
+    # "Toast tilts his head, seemingly unsure of what he just did."
+    "Toast歪著腦袋，似乎還搞不清楚狀況。"
+
+# game/story/Chapter_T3.rpy:5455
+translate Tchinese king_toast_route_MORNING_3577a462:
+
+    # Mike "Oh my gosh, that’s hilarious. Mr. Toast, you have a great sense of humour. Isn’t that right, [name]?"
+    Mike "“哎呀，笑死我了，Toast先生，你真是渾身的幽默細胞。對吧，[name]？”"
+
+# game/story/Chapter_T3.rpy:5458
+translate Tchinese king_toast_route_MORNING_48eb4b86:
+
+    # p nervous "Umm, err, yeah. He’s a joker alright."
+    p nervous "“呃，是啊，他就喜歡開玩笑。”"
+
+# game/story/Chapter_T3.rpy:5460
+translate Tchinese king_toast_route_MORNING_780f4b24:
+
+    # Mike "Alright, our interview ends here, Mr. Toast. You’ll hear from us within two weeks."
+    Mike "“好了，我們的面試到此結束，Toast先生，你將在未來兩週收到我們的消息。”"
+
+# game/story/Chapter_T3.rpy:5462
+translate Tchinese king_toast_route_MORNING_1af969bd:
+
+    # T smile "Sweet."
+    T smile "“酷。”"
+
+# game/story/Chapter_T3.rpy:5471
+translate Tchinese king_toast_route_MORNING_d81b7542:
+
+    # "Once again, Toast raises his hand to offer a high five. Mike happily reciprocates."
+    "Toast再一次舉起手來擊掌，Mike也很高興地回應了他。"
+
+# game/story/Chapter_T3.rpy:5476
+translate Tchinese king_toast_route_MORNING_e85efb71:
+
+    # Mike "[name], you mind escorting your roommate out since your shift is over?"
+    Mike "“[name]，你的輪班也結束了，不介意送你的室友一程吧？”"
+
+# game/story/Chapter_T3.rpy:5478
+translate Tchinese king_toast_route_MORNING_1cc409fe:
+
+    # p neutral "Sure Mike, is it ok if I get changed and leave with Toast?"
+    p neutral "“沒問題，Mike，在此之前我能先換身衣服嗎？”"
+
+# game/story/Chapter_T3.rpy:5479
+translate Tchinese king_toast_route_MORNING_4dbc76db:
+
+    # Mike "That’s fine by me, also, I got your notice about your two day vacation. It’ll be tough with only me and Ana, but you’re good to go."
+    Mike "“我也沒問題。另外，我收到了你想請兩天假的通知，雖然這就苦了我和Ana，不過我批准了。”"
+
+# game/story/Chapter_T3.rpy:5480
+translate Tchinese king_toast_route_MORNING_d39215ef:
+
+    # p @ smile "Thanks Mike, I’ll make it up to you guys."
+    p @ smile "“謝謝，Mike，我會補償你們的。”"
+
+# game/story/Chapter_T3.rpy:5481
+translate Tchinese king_toast_route_MORNING_4e33a697:
+
+    # Mike "It’s fine, we’re in this together."
+    Mike "“別客氣，咱們不是一條船上的嗎？”"
+
+# game/story/Chapter_T3.rpy:5487
+translate Tchinese king_toast_route_MORNING_aac23958:
+
+    # "He puts a reassuring hand on your shoulder and leaves with a smile."
+    "他把手搭在你的肩膀上，讓你安心，然後笑著離開了。"
+
+# game/story/Chapter_T3.rpy:5488
+translate Tchinese king_toast_route_MORNING_50b96b0a:
+
+    # "Toast grins while giving you two thumbs up."
+    "Toast笑容滿面地朝你豎起兩根大拇指。"
+
+# game/story/Chapter_T3.rpy:5490
+translate Tchinese king_toast_route_MORNING_5e1b87d4:
+
+    # "You force yourself to smile back and give him a thumbs up in return."
+    "作為回應，你擠出一個微笑，並同樣豎起大拇指。"
+
+# game/story/Chapter_T3.rpy:5493
+translate Tchinese king_toast_route_MORNING_5a08146f:
+
+    # "After a quick change of clothes you both head back to the apartment for some well-needed rest."
+    "快速換完衣服後，你們兩個都回到了公寓，開始養精蓄銳。"
+
+# game/story/Chapter_T3.rpy:5507
+translate Tchinese king_toast_route_NIGHT_fe898c67:
+
+    # "That night, you toss and turn on your mattress."
+    "那一夜，你輾轉反側。"
+
+# game/story/Chapter_T3.rpy:5510
+translate Tchinese king_toast_route_NIGHT_ad6c333d:
+
+    # p "It’s freaking hot, tonight."
+    p "“今晚也太熱了吧。”"
+
+# game/story/Chapter_T3.rpy:5513
+translate Tchinese king_toast_route_NIGHT_2cad5d0e:
+
+    # "You stab at the darkness to reach the phone lying somewhere beside you."
+    "你在黑暗中摸索，去尋找躺在某處的手機。"
+
+# game/story/Chapter_T3.rpy:5514
+translate Tchinese king_toast_route_NIGHT_889cf78d:
+
+    # "Feeling plastic on your fingertips, you pick up the device, the dim light bathing your face."
+    "指尖傳來塑膠的質感，你拿起手機，昏暗的光線沐浴在你的臉上。"
+
+# game/story/Chapter_T3.rpy:5515
+translate Tchinese king_toast_route_NIGHT_c20db92c:
+
+    # "The dim phone light bathes your face."
+    "昏暗的手機燈光沐浴著你的臉。"
+
+# game/story/Chapter_T3.rpy:5516
+translate Tchinese king_toast_route_NIGHT_91d991c6:
+
+    # p neutral "Maybe a few minutes online will help me sleep."
+    p neutral "“也許刷幾分鐘手機就能睡著了。”"
+
+# game/story/Chapter_T3.rpy:5517
+translate Tchinese king_toast_route_NIGHT_411195f5:
+
+    # "You open your messages to reread the conversation you had with Morris after you got home earlier today."
+    "你打開簡訊，重新瀏覽了一遍早些時候與Morris的對話。"
+
+# game/story/Chapter_T3.rpy:5518
+translate Tchinese king_toast_route_NIGHT_de12d0af:
+
+    # M "Made the bookings for tomorrow. Our cover story is that we’re all just friends who are on vacation. I even rented a car."
+    M "“訂了明天的房，偽裝成是一起去度假的朋友，為此我甚至租了輛車。”"
+
+# game/story/Chapter_T3.rpy:5519
+translate Tchinese king_toast_route_NIGHT_8a9ea640:
+
+    # "The next message is a picture of Morris next to a yellow Beetle car."
+    "下一封簡訊是Morris跟一輛黃色甲殼蟲汽車的合拍照。"
+
+# game/story/Chapter_T3.rpy:5520
+translate Tchinese king_toast_route_NIGHT_aa971462:
+
+    # p_mono "Is that car for us or a family of ants?"
+    p_mono "“這車是為我們準備的，還是為螞蟻一家準備的？”"
+
+# game/story/Chapter_T3.rpy:5521
+translate Tchinese king_toast_route_NIGHT_94906dc0:
+
+    # M "It was the cheapest rental on the lot."
+    M "“勝在便宜。”"
+
+# game/story/Chapter_T3.rpy:5522
+translate Tchinese king_toast_route_NIGHT_413265d4:
+
+    # M "Just make sure you’re packed and ready. Bring essentials like food and water, clothes aren’t important. Remember, we’re hunting a ghost, not going on a vacation."
+    M "“記得打包行李，帶上食物和水等必需品，衣服不重要。記住，咱們是去驅魔，不是去度假的。”"
+
+# game/story/Chapter_T3.rpy:5523
+translate Tchinese king_toast_route_NIGHT_6e514c1f:
+
+    # "You replied with a sticker of a DD14 knight giving a thumbs up."
+    "你回復了一個DD14里的騎士豎起大拇指的表情。"
+
+# game/story/Chapter_T3.rpy:5524
+translate Tchinese king_toast_route_NIGHT_7b7fc966:
+
+    # "The conversation ended with Morris saying he would pick up everyone at your place, come morning."
+    "談話最後，Morris說他會在明天早晨來家裡接你們。"
+
+# game/story/Chapter_T3.rpy:5525
+translate Tchinese king_toast_route_NIGHT_e9b712cf:
+
+    # "A hushed groan escapes your lips. Just the thought of how tomorrow will go makes your heart race."
+    "你發出無聲的呻吟，一想到明天會怎樣度過，你就忍不住心跳加速。"
+
+# game/story/Chapter_T3.rpy:5527
+translate Tchinese king_toast_route_NIGHT_f89d2d58:
+
+    # "That is until Toast’s loud snoring derails your train of thought."
+    "直至Toast的鼾聲打斷了你的思緒。"
+
+# game/story/Chapter_T3.rpy:5529
+translate Tchinese king_toast_route_NIGHT_c8f69a95:
+
+    # "As you watch him sleeping peacefully on the sofa next to you, you can’t help but feel a little envious of how easily he falls asleep."
+    "你看著他安穩地睡在旁邊的沙發上，不禁有點羨慕他的睡眠質量。"
+
+# game/story/Chapter_T3.rpy:5530
+translate Tchinese king_toast_route_NIGHT_c23f6cda:
+
+    # p "{i}Tomás Eduardo...{/i}"
+    p "“{b}Tomás Eduardo...{/b}”"
+
+# game/story/Chapter_T3.rpy:5531
+translate Tchinese king_toast_route_NIGHT_838eb7bf:
+
+    # "You hear the words of a certain angel echo within your mind."
+    "你聽到某個天使的話語在你腦中迴響。"
+
+# game/story/Chapter_T3.rpy:5532
+translate Tchinese king_toast_route_NIGHT_32bc7d3d:
+
+    # L "{i}Who is Toast?{/i}"
+    L "“{b}Toast究竟是誰？{/b}”"
+
+# game/story/Chapter_T3.rpy:5533
+translate Tchinese king_toast_route_NIGHT_4e2ddd66:
+
+    # "You suppose you could just ask him directly, but would he tell you the truth?"
+    "你當然可以直接問他，但他會如實回答嗎？"
+
+# game/story/Chapter_T3.rpy:5534
+translate Tchinese king_toast_route_NIGHT_6eab1950:
+
+    # "Staring at your phone, your finger hovers over the web browser."
+    "你凝視著手機螢幕，手指懸停在瀏覽器的圖示上。"
+
+# game/story/Chapter_T3.rpy:5535
+translate Tchinese king_toast_route_NIGHT_2f1435d4:
+
+    # "Intrigue and anxiety now sit on your chest, their weight growing with each passing moment."
+    "好奇心和焦慮壓得你喘不過氣，且每過一秒都越來越煎熬。"
+
+# game/story/Chapter_T3.rpy:5536
+translate Tchinese king_toast_route_NIGHT_a79326e5:
+
+    # "You know you won’t be able to rest until you try..."
+    "再這樣下去，你是沒辦法好好睡覺的..."
+
+# game/story/Chapter_T3.rpy:5537
+translate Tchinese king_toast_route_NIGHT_47971594:
+
+    # "You open the search window and key in what you remember of Toast’s real identity."
+    "你打開搜尋引擎，輸入你記憶中Toast的真實身份。"
+
+# game/story/Chapter_T3.rpy:5538
+translate Tchinese king_toast_route_NIGHT_2eae9804:
+
+    # "'Tomás Eduardo', '1993', and 'Los Angeles'."
+    "“Tomás Eduardo”，“1993”，還有“洛杉磯”。"
+
+# game/story/Chapter_T3.rpy:5539
+translate Tchinese king_toast_route_NIGHT_86446c23:
+
+    # "A series of newspaper clippings appear in the top search results."
+    "一系列剪報出現在了搜索結果的頂端。"
+
+# game/story/Chapter_T3.rpy:5542
+translate Tchinese king_toast_route_NIGHT_8dd311a9:
+
+    # p_mono confused "What’s all this?"
+    p_mono confused "“這是怎麼回事？”"
+
+# game/story/Chapter_T3.rpy:5543
+translate Tchinese king_toast_route_NIGHT_0152f3bf:
+
+    # "You click on a true crime blog. It appears to compile all sorts of information on past crime stories that happened around the world."
+    "你點開一個記實部落格，裡面匯集了發生在世界各地的犯罪故事。"
+
+# game/story/Chapter_T3.rpy:5544
+translate Tchinese king_toast_route_NIGHT_23af60d4:
+
+    # "The one on Toast reads..."
+    "Toast的故事是..."
+
+# game/story/Chapter_T3.rpy:5545
+translate Tchinese king_toast_route_NIGHT_925dbd96:
+
+    # "May 13, 1993, The residents of an apartment building in Lester Street received a rude awakening by the LA police force."
+    "1993年5月13日，萊斯特大街一棟公寓樓的居民在睡夢中被洛杉磯警察驚醒。"
+
+# game/story/Chapter_T3.rpy:5546
+translate Tchinese king_toast_route_NIGHT_33bfbb81:
+
+    # "Tomás and Chilo Eduardo were found dead in their apartment surrounded by hundred dollar bills amounting to $10,000 soaked in their pools of blood."
+    "Tomás Eduardo與Chilo Eduardo被發現死於自家公寓中，現場散落著大量浸泡在血泊中的鈔票，總價值約達一萬美元。"
+
+# game/story/Chapter_T3.rpy:5547
+translate Tchinese king_toast_route_NIGHT_c3d2180a:
+
+    # "Neighbours reported hearing the brothers arguing—but were unsure of the details—before hearing multiple gunshots emanating from the apartment unit."
+    "從鄰居們口中可以得知，案發前兄弟二人發生曾激烈爭吵，內容不詳，隨後從其房間傳出多聲槍響。"
+
+# game/story/Chapter_T3.rpy:5548
+translate Tchinese king_toast_route_NIGHT_eebdac3a:
+
+    # "The murder weapons were identified as guns belonging to both victims. Fingerprints on the weapons helped investigators surmise that the brothers shot each other during their argument."
+    "經證實，兇器為兩名受害者的槍枝，根據武器上的指紋不難推測出這對兄弟是在爭吵中互相朝對方開槍。"
+
+# game/story/Chapter_T3.rpy:5549
+translate Tchinese king_toast_route_NIGHT_0addad38:
+
+    # "In a statement by Chief Officer Harrison, it was stated that tension had been building between the brothers for a significant period of time prior to the altercation."
+    "Harrison警長在一份聲明中表示，兄弟二人間的緊張關係遠遠早於口角發生前。"
+
+# game/story/Chapter_T3.rpy:5550
+translate Tchinese king_toast_route_NIGHT_7b876909:
+
+    # "According to neighbours, the brothers said they never got along ever since Chilo began law school."
+    "據鄰居們說，自Chilo進入法學院後，他們兄弟就再也沒有和睦相處過。"
+
+# game/story/Chapter_T3.rpy:5551
+translate Tchinese king_toast_route_NIGHT_03e04ade:
+
+    # "Chilo at that time, had recently passed the Nevada bar exam, while Tomás was notoriously known for working with the local crime syndicate."
+    "時年，Chilo剛剛通過了內華達州的律師考試，Tomás則因與當地犯罪集團勾結而臭名在外。"
+
+# game/story/Chapter_T3.rpy:5552
+translate Tchinese king_toast_route_NIGHT_7e1ffbc2:
+
+    # "Some alleged Tomás ran illegal gambling dens, drug trafficking, and was involved in several unsolved murders at the time."
+    "一些人指控Tomás涉嫌經營非法賭博窩點、販毒，並參與了幾起在當時還未偵破的謀殺案。"
+
+# game/story/Chapter_T3.rpy:5553
+translate Tchinese king_toast_route_NIGHT_6f41fe74:
+
+    # "Tomás had already been on the police’s watch list for a long time. Neighbours would describe him as a rage-filled hyena who took pleasure in harassing and threatening people–"
+    "Tomás從很久以前就被警方列入了監視名單，鄰居們形容他是一隻壞脾氣的鬣狗，以騷擾和威脅他人為樂-"
+
+# game/story/Chapter_T3.rpy:5557
+translate Tchinese king_toast_route_NIGHT_c00aa707:
+
+    # "Toast snores loudly."
+    "Toast的呼嚕聲格外刺耳。"
+
+# game/story/Chapter_T3.rpy:5559
+translate Tchinese king_toast_route_NIGHT_0d9a5bbd:
+
+    # "You gasp and turn off your phone."
+    "你喘著氣關掉了手機。"
+
+# game/story/Chapter_T3.rpy:5560
+translate Tchinese king_toast_route_NIGHT_e8b20428:
+
+    # "The hyena shifts around on the sofa before turning away from you."
+    "鬣狗在沙發上翻來倒去，最終定格成背身側臥。"
+
+# game/story/Chapter_T3.rpy:5562
+translate Tchinese king_toast_route_NIGHT_efad04e6:
+
+    # "Your heart races as though you’ve run a mile, there’s no way you can sleep now. Once the coast is clear, you continue reading throughout the night."
+    "你的心跳快得足足像跑了一英里路，現在你睡意全無，閱讀一個通宵都不在話下。"
+
+# game/story/Chapter_T3.rpy:5563
+translate Tchinese king_toast_route_NIGHT_009f2def:
+
+    # "Not much else was said about Toast in the blog."
+    "部落格裡沒有太多關於Toast的內容。"
+
+# game/story/Chapter_T3.rpy:5564
+translate Tchinese king_toast_route_NIGHT_be3488d3:
+
+    # "After that point it went into a discussion of the evidence found at the scene, in particular noting a stray cigarette butt despite neither of the brothers having a history of smoking."
+    "在那之後，文章詳述起了現場發現的物證，尤其是一個孤零零的菸蒂，儘管兄弟二人都沒有吸菸史。"
+
+# game/story/Chapter_T3.rpy:5565
+translate Tchinese king_toast_route_NIGHT_28293007:
+
+    # "The blog ends with the history of Club Eight and its notoriety over the years."
+    "部落格以八號俱樂部的歷史和多年來的惡名作為結尾。"
+
+# game/story/Chapter_T3.rpy:5566
+translate Tchinese king_toast_route_NIGHT_1357dbef:
+
+    # p_mono annoyed "What? That can't be it!"
+    p_mono annoyed "“什麼？這不可能！”"
+
+# game/story/Chapter_T3.rpy:5568
+translate Tchinese king_toast_route_NIGHT_08bd9052:
+
+    # "You scour the web for more information, but the other sites merely regurgitate the same details over and over."
+    "你意圖在網路上搜索更多資訊，卻只找到大同小異的內容。"
+
+# game/story/Chapter_T3.rpy:5569
+translate Tchinese king_toast_route_NIGHT_5c3239d1:
+
+    # "After a while, you give up on your investigation, finding yourself staring blankly at the ceiling."
+    "又過了一段時間，你放棄了調查，茫然地盯著天花板。"
+
+# game/story/Chapter_T3.rpy:5570
+translate Tchinese king_toast_route_NIGHT_1c6a1fa0:
+
+    # "Until eventually, you’re too exhausted and fall asleep despite the hints of sunrise outside."
+    "到了最後，雖然天色漸白，你還是在不知不覺中睡著了。"
+
+# game/story/Chapter_T3.rpy:5571
+translate Tchinese king_toast_route_NIGHT_33ae9038:
+
+    # "For a while your mind is blank, peaceful, serene. Then your eyes snap open, your brow slick with sweat, the thought of Toast having murdered his brother tormenting you upon your awakening."
+    "你的大腦一片空白，平靜又安詳，然而好景不長，你猛然驚醒，額頭上滿是汗水：Toast謀殺親兄弟的事在你腦中揮之不去。"
+
+# game/story/Chapter_T3.rpy:5581
+translate Tchinese king_toast_route_HOTEL_80f82cec:
+
+    # "Morris arrives around eight in the morning. You, Lucian, and Toast gather outside, ready to depart."
+    "Morris大約八點抵達你的住處，你、Lucian和Toast在外面集合，做好出發的準備。"
+
+# game/story/Chapter_T3.rpy:5588
+translate Tchinese king_toast_route_HOTEL_edc432f7:
+
+    # "You stand as idle as you can while actively keeping your head from drooping."
+    "你盡可能裝作若無其事的樣子，同時努力不讓自己的頭下垂。"
+
+# game/story/Chapter_T3.rpy:5601
+translate Tchinese king_toast_route_HOTEL_23977296:
+
+    # "Your body suddenly jolts forward as an icy sensation prickles through the fur on your neck. You spin your head around to see Morris holding a can of cola while nonchalantly taking a sip out another can in his other hand."
+    "突然，冰冷的感覺刺穿了你的脖毛，害你一陣踉蹌。你回頭一看，原來是Morris，他手拿一罐可樂，同時漫不經心地從另一罐裡抿了一口。"
+
+# game/story/Chapter_T3.rpy:5606
+translate Tchinese king_toast_route_HOTEL_b77080e8:
+
+    # p_nt "Yeow, what was that for?"
+    p_nt "“哎呀，你幹嘛？”"
+
+# game/story/Chapter_T3.rpy:5609
+translate Tchinese king_toast_route_HOTEL_fe842ba3:
+
+    # M "You look like death warmed up. Stay up all night playing video games or something?"
+    M "“瞧你那萎靡不振的模樣，玩了一晚上遊戲吧？”"
+
+# game/story/Chapter_T3.rpy:5610
+translate Tchinese king_toast_route_HOTEL_ed448ef9:
+
+    # p sad "No, it's nothing like that... I just read something uncomfortable last night."
+    p sad "“不，不是的...我昨晚讀到一些不舒服的東西。”"
+
+# game/story/Chapter_T3.rpy:5613
+translate Tchinese king_toast_route_HOTEL_bb42acd7:
+
+    # "Your pupils turn to the hyena now arguing with Lucian on how the bags should be stacked."
+    "你用餘光瞄了一眼鬣狗，只見他正在和Lucian爭論行李堆放的問題。"
+
+# game/story/Chapter_T3.rpy:5617
+translate Tchinese king_toast_route_HOTEL_f9e5aa81:
+
+    # "Morris doesn't seem to join the dots."
+    "Morris似乎沒有把你的行為聯繫起來。"
+
+# game/story/Chapter_T3.rpy:5619
+translate Tchinese king_toast_route_HOTEL_a31b7488:
+
+    # M_nt "Well, I can't have you passing out on us. Do you want to sit this one out?"
+    M_nt "“唉，我們總不能眼睜睜看著你昏倒吧，你要不要退出這次行動？”"
+
+# game/story/Chapter_T3.rpy:5621
+translate Tchinese king_toast_route_HOTEL_ad4fd1ef:
+
+    # p neutral "No, no. I'm good. Let's go."
+    p neutral "“不不，我沒事的，咱們走吧。”"
+
+# game/story/Chapter_T3.rpy:5623
+translate Tchinese king_toast_route_HOTEL_10bd31c9:
+
+    # "You down the soda Morris gave you and toss the can in a nearby bin."
+    "你一口氣喝完Morris給你的汽水，把空罐頭扔進附近的垃圾桶。"
+
+# game/story/Chapter_T3.rpy:5624
+translate Tchinese king_toast_route_HOTEL_edbcff3c:
+
+    # "The four of you enter the cramped car and take off for The End Hotel."
+    "你們一行人進了那輛狹小的車，朝著末日酒店出發。"
+
+# game/story/Chapter_T3.rpy:5635
+translate Tchinese king_toast_route_HOTEL_3cad26ec:
+
+    # "Morris is in the driver seat, while Lucian called shotgun so he’s in the front too."
+    "Morris坐在駕駛座上，Lucian則搶了副駕駛的位置。"
+
+# game/story/Chapter_T3.rpy:5636
+translate Tchinese king_toast_route_HOTEL_9711b18e:
+
+    # "Leaving you and Toast to share the backseat."
+    "你和Toast只有後座能做了。"
+
+# game/story/Chapter_T3.rpy:5637
+translate Tchinese king_toast_route_HOTEL_05c5279e:
+
+    # "You wind the windows down a while back after realising the rental car’s AC was busted."
+    "在意識到空調壞了後，你把車窗搖了下來。"
+
+# game/story/Chapter_T3.rpy:5638
+translate Tchinese king_toast_route_HOTEL_60eb6161:
+
+    # "As time passes the concrete jungle of Kibbleton is replaced with lush open fields. Kibbleton is known for its produce, but you rarely get to see the proof in-person."
+    "隨著時間的推移，基布爾頓的混凝土叢林逐漸被鬱鬱蔥蔥的開闊田野所取代。雖說基布爾頓以其農產品而聞名，但能親眼看到的機會卻不多。"
+
+# game/story/Chapter_T3.rpy:5639
+translate Tchinese king_toast_route_HOTEL_511893e2:
+
+    # "Your eyes wander over the scenery speeding by."
+    "你望著飛馳而過的景色。"
+
+# game/story/Chapter_T3.rpy:5640
+translate Tchinese king_toast_route_HOTEL_6ccaf79d:
+
+    # "You breathe deeply, a distinctly crisp morning air fills you. It’s nice to appreciate peace while you have it."
+    "深呼吸，一股清新的空氣流入你的身體。你靜下心來，欣賞這難得一見的美景。"
+
+# game/story/Chapter_T3.rpy:5641
+translate Tchinese king_toast_route_HOTEL_f2204fb9:
+
+    # "Lucian is sticking his head out of the car window, seemingly pantinpg as the wind blows against his face."
+    "Lucian迎著風把頭伸出車窗，像是在喘粗氣。"
+
+# game/story/Chapter_T3.rpy:5642
+translate Tchinese king_toast_route_HOTEL_9c3bd94d:
+
+    # T shocked "Woah! That's a scarecrow!"
+    T shocked "“哇！是稻草人！”"
+
+# game/story/Chapter_T3.rpy:5645
+translate Tchinese king_toast_route_HOTEL_dd790263:
+
+    # "Toast leans over your side of the seat and also sticks his head out of the car."
+    "Toast趴在你那一側的座位上，也把頭伸出車外。"
+
+# game/story/Chapter_T3.rpy:5648
+translate Tchinese king_toast_route_HOTEL_f8dad764:
+
+    # T smile "Woohoo, get a load of this air!"
+    T smile "“嗚呼，這空氣真是絕了！”"
+
+# game/story/Chapter_T3.rpy:5649
+translate Tchinese king_toast_route_HOTEL_47ab1817:
+
+    # "While he enjoys the scent of the countryside, you get a face full of Toast's round behind."
+    "在他感受鄉間氣息的時候，你只收穫了Toast圓滾滾的後腦勺。"
+
+# game/story/Chapter_T3.rpy:5650
+translate Tchinese king_toast_route_HOTEL_09d3859f:
+
+    # "This goes on for several minutes before Morris starts talking."
+    "這種情形持續了幾分鐘，直到Morris開口說話。"
+
+# game/story/Chapter_T3.rpy:5651
+translate Tchinese king_toast_route_HOTEL_5e02dda2:
+
+    # M "Hey, Lucy, mind grabbing the folder I have beside me?"
+    M "“嘿，Lucy，幫忙拿一下旁邊的文件夾好嗎？”"
+
+# game/story/Chapter_T3.rpy:5652
+translate Tchinese king_toast_route_HOTEL_df5e0400:
+
+    # "Lucian sticks his head back inside the car."
+    "Lucian把頭縮了回來。"
+
+# game/story/Chapter_T3.rpy:5653
+translate Tchinese king_toast_route_HOTEL_0167c0eb:
+
+    # L neutral "It's Lucian."
+    L neutral "“我叫Lucian。”"
+
+# game/story/Chapter_T3.rpy:5654
+translate Tchinese king_toast_route_HOTEL_14f13b9e:
+
+    # "He reaches for the yellow folder next to the boar's seat."
+    "他伸手去拿野豬座位旁邊的黃色文件夾。"
+
+# game/story/Chapter_T3.rpy:5655
+translate Tchinese king_toast_route_HOTEL_c4002ffe:
+
+    # M serious "Open it, and read it out loud, it's everything you all need to know about the hotel."
+    M serious "“打開它，然後大聲讀出來，裡面有你們需要知道的關於那酒店的一切。”"
+
+# game/story/Chapter_T3.rpy:5657
+translate Tchinese king_toast_route_HOTEL_effdf38a:
+
+    # "Through the rearview mirror, you catch Morris staring daggers at you, he’s serious."
+    "透過後視鏡，你可以看到Morris銳利的眼神，他是認真的。"
+
+# game/story/Chapter_T3.rpy:5660
+translate Tchinese king_toast_route_HOTEL_93e1a46e:
+
+    # "You grab Toast by the waist and pull him back in."
+    "你抱住Toast的腰，把他拽回來。"
+
+# game/story/Chapter_T3.rpy:5663
+translate Tchinese king_toast_route_HOTEL_f4468221:
+
+    # "He pants heavily and looks at you."
+    "他喘著粗氣看著你。"
+
+# game/story/Chapter_T3.rpy:5664
+translate Tchinese king_toast_route_HOTEL_d32bf279:
+
+    # T "Dude, you should try it. It's pretty fun feeling the wind in your fur."
+    T "“你也來試試啊，老弟，感受風從毛髮間吹過的感覺，超讚的。”"
+
+# game/story/Chapter_T3.rpy:5665
+translate Tchinese king_toast_route_HOTEL_88cc77a7:
+
+    # p "Yeah, maybe later. Morris has something for us to hear."
+    p "“之後吧，Morris要開始說明了。”"
+
+# game/story/Chapter_T3.rpy:5666
+translate Tchinese king_toast_route_HOTEL_76e7a8c6:
+
+    # M neutral "Lucian, give us a reading."
+    M neutral "“給我們讀一讀，Lucian。”"
+
+# game/story/Chapter_T3.rpy:5667
+translate Tchinese king_toast_route_HOTEL_13dd5b30:
+
+    # L "The hotel was built 22 years ago in the year 2000."
+    L "“這家酒店建於22年前的2000年。”"
+
+# game/story/Chapter_T3.rpy:5668
+translate Tchinese king_toast_route_HOTEL_41eb4305:
+
+    # L "The original owners were an elderly couple who always dreamt of owning their own hotel."
+    L "“最初的業主是一對上了年紀的夫婦，他們的夢想是想擁有一家自己的酒店。”"
+
+# game/story/Chapter_T3.rpy:5669
+translate Tchinese king_toast_route_HOTEL_418d7d52:
+
+    # T "I thought old people just wanted their kids to call more."
+    T "“我還以為老人們更喜歡他們的孩子多打電話。”"
+
+# game/story/Chapter_T3.rpy:5670
+translate Tchinese king_toast_route_HOTEL_73b8c789:
+
+    # "You stare blankly, your mind adrift in a sea of thoughts."
+    "你茫然地凝視著空氣，思緒在腦海中翻騰。"
+
+# game/story/Chapter_T3.rpy:5671
+translate Tchinese king_toast_route_HOTEL_30cda2cd:
+
+    # p_mono @ sad "He killed his brother..."
+    p_mono @ sad "“他殺了他的弟弟...”"
+
+# game/story/Chapter_T3.rpy:5672
+translate Tchinese king_toast_route_HOTEL_fe34d4b1:
+
+    # L "A year after the hotel's grand opening, the business was struck with misfortune. A businessman fell from the hotel rooftop and died instantly."
+    L "“酒店剛開業一年，便迎來當頭一棒。一名商界人士從酒店屋頂墜落，當場死亡。”"
+
+# game/story/Chapter_T3.rpy:5673
+translate Tchinese king_toast_route_HOTEL_dea99027:
+
+    # p_mono @ sad "But is it true? I mean he's from the Underworld, so it's no surprise he did something bad."
+    p_mono @ sad "“但真是他做的嗎？我的意思是，他確實來自冥界沒錯，所以做過壞事也不奇怪。”"
+
+# game/story/Chapter_T3.rpy:5674
+translate Tchinese king_toast_route_HOTEL_33b2f51e:
+
+    # p_mono @ sad "I thought he was just bluffing, acting all tough to get what he wants. How could he be someone who would actually go through with murder?"
+    p_mono @ sad "“我原以為他只是裝出一副堅強的樣子，他怎麼可能真的去殺人呢？”"
+
+# game/story/Chapter_T3.rpy:5675
+translate Tchinese king_toast_route_HOTEL_1443093e:
+
+    # L "The witnesses said the body looked strange, like it was all shrivelled up."
+    L "“據目擊者透露，屍體看起來非常怪異，好像枯萎了一樣。”"
+
+# game/story/Chapter_T3.rpy:5676
+translate Tchinese king_toast_route_HOTEL_fc9f7131:
+
+    # p_mono @ sad "I feel shrivelled up inside… Why does it matter so much that he killed someone? Big deal, I've seen the souls of killers dozens of times."
+    p_mono @ sad "“我的心才是要枯萎了...可他殺了人與我何干呢？有什麼大不了的，我明明見過那麼多殺手的靈魂。”"
+
+# game/story/Chapter_T3.rpy:5684
+translate Tchinese king_toast_route_HOTEL_f0e8b1fe:
+
+    # "The car hits a bump and you all lurch forward."
+    "汽車撞上了一個凸起，你們都為之一顛。"
+
+# game/story/Chapter_T3.rpy:5692
+translate Tchinese king_toast_route_HOTEL_f5aa71aa:
+
+    # "Toast puts a hand on your back."
+    "Toast扶住你的背。"
+
+# game/story/Chapter_T3.rpy:5693
+translate Tchinese king_toast_route_HOTEL_f1d19229:
+
+    # T "You ok buddy? You seem out of it."
+    T "“沒事吧兄弟，你看起來好像有點心不在焉。”"
+
+# game/story/Chapter_T3.rpy:5694
+translate Tchinese king_toast_route_HOTEL_598b10b5:
+
+    # p @ nervous "Ye-Yeah, I'm good. Thanks..."
+    p @ nervous "“沒-沒事，我很好，謝謝...”"
+
+# game/story/Chapter_T3.rpy:5695
+translate Tchinese king_toast_route_HOTEL_ed2fdfff:
+
+    # "Lucian flips through the rest of the folder."
+    "Lucian翻了翻文件夾的其餘部分。"
+
+# game/story/Chapter_T3.rpy:5696
+translate Tchinese king_toast_route_HOTEL_aef8a956:
+
+    # L "The hotel returned to business as usual, but ever since then guests would report many strange occurrences."
+    L "“酒店恢復了正常營業，但從那以後，酒店就陸續收到怪異現象的投訴。”"
+
+# game/story/Chapter_T3.rpy:5697
+translate Tchinese king_toast_route_HOTEL_90014568:
+
+    # p_mono @ sad "I know why this stings more, I think he's beginning to rub up- no, rub off, off not up, get it together brain."
+    p_mono @ sad "“其實我很清楚自己為什麼會心痛，因為我對他有了豪-不對，是好，好感。振作點啊，我的大腦。”"
+
+# game/story/Chapter_T3.rpy:5698
+translate Tchinese king_toast_route_HOTEL_0d77188c:
+
+    # L "Objects moving about, people entering rooms from different time periods. Overall the guests said they were drained by the end of their stay."
+    L "“物體四處移動，人們從不同的時間段進入房間。總的來說，客人們在退房時往往處於精疲力竭的狀態。”"
+
+# game/story/Chapter_T3.rpy:5699
+translate Tchinese king_toast_route_HOTEL_ae1c7bcc:
+
+    # "Your head throbs with a dull pain as you piece together fragments of Toast’ actions, but now in a new light."
+    "你的頭隱隱作痛，但你還是從一個新的視角去解讀Toast之前的行為。"
+
+# game/story/Chapter_T3.rpy:5700
+translate Tchinese king_toast_route_HOTEL_ad430d3d:
+
+    # p_mono @ sad "He wanted to smash a brick onto Morris’ head. He called it a “little” bump."
+    p_mono @ sad "“他想用磚頭砸Morris的腦袋，還聲稱只是‘輕輕’來一下。”"
+
+# game/story/Chapter_T3.rpy:5701
+translate Tchinese king_toast_route_HOTEL_4e1666a0:
+
+    # p_mono @ sad "But what if it’s the corruption? How much has he been influenced by it?"
+    p_mono @ sad "“萬一是腐敗的影響呢？到哪種程度了？”"
+
+# game/story/Chapter_T3.rpy:5702
+translate Tchinese king_toast_route_HOTEL_d8dc6489:
+
+    # T "What does that mean?"
+    T "“為什麼？”"
+
+# game/story/Chapter_T3.rpy:5703
+translate Tchinese king_toast_route_HOTEL_942053a0:
+
+    # M "It means the entity in that hotel had an all-you-can-eat buffet of soul energy from the guests."
+    M "“這代表目標盡情享用了他們的靈魂能量。”"
+
+# game/story/Chapter_T3.rpy:5704
+translate Tchinese king_toast_route_HOTEL_35d88d6f:
+
+    # M "Jump to the last page, Lucian."
+    M "“跳到最後一頁，Lucian。”"
+
+# game/story/Chapter_T3.rpy:5705
+translate Tchinese king_toast_route_HOTEL_b5dea6c5:
+
+    # L "In the last two years the hotel is now under the management of the original owners' grandchildren."
+    L "“酒店在兩年前由原業主的孫子們接手管理。”"
+
+# game/story/Chapter_T3.rpy:5706
+translate Tchinese king_toast_route_HOTEL_9c62b6ce:
+
+    # L "While no more deaths have been reported, over the past twenty years several guests have gone missing. Investigations found no evidence that could be tied to the hotel or its staff."
+    L "“雖然沒有更多的死亡報告，但在過去的二十年裡，有幾位客人下落不明。經過調查，沒有發現與酒店或其員工有關的證據。”"
+
+# game/story/Chapter_T3.rpy:5707
+translate Tchinese king_toast_route_HOTEL_b04b3080:
+
+    # M "We're looking at maybe five disappearances since the first death. It's a patient ghost, it knows not to cause too much trouble or the hotel will close."
+    M "“自第一起死亡以來，大概發生了五起失蹤事件。對方很有耐心，它知道不要鬧過火，否則酒店會關門的。”"
+
+# game/story/Chapter_T3.rpy:5708
+translate Tchinese king_toast_route_HOTEL_61d60306:
+
+    # T "Hah, bet it won't be smart enough to take us on! Right partner?"
+    T "“哈哈，我敢說它再聰明也不是咱們的對手！沒錯吧，搭檔？”"
+
+# game/story/Chapter_T3.rpy:5709
+translate Tchinese king_toast_route_HOTEL_f074080c:
+
+    # p "Yeah...."
+    p "“是啊...”"
+
+# game/story/Chapter_T3.rpy:5714
+translate Tchinese king_toast_route_HOTEL_bc29dcf5:
+
+    # "You look nervously at the ghost then turn away from him."
+    "你緊張地看著幽靈，然後把頭轉開。"
+
+# game/story/Chapter_T3.rpy:5716
+translate Tchinese king_toast_route_HOTEL_dbea93f2:
+
+    # p_mono "I need to confirm this with him. I need the truth."
+    p_mono "“我需要和他確認一下，我得知道真相。”"
+
+# game/story/Chapter_T3.rpy:5717
+translate Tchinese king_toast_route_HOTEL_30ff641c:
+
+    # M "I'll reveal the plan when we get there."
+    M "“等到了酒店，我再公布作戰計劃。”"
+
+# game/story/Chapter_T3.rpy:5718
+translate Tchinese king_toast_route_HOTEL_086c936e:
+
+    # T @ doubt "Why then?"
+    T @ doubt "“為什麼？”"
+
+# game/story/Chapter_T3.rpy:5719
+translate Tchinese king_toast_route_HOTEL_bcb4eb97:
+
+    # M serious "Because I can tell that [name], isn't paying attention. Isn't that right, [name]?"
+    M serious "“因為我看得出來，[name]的心思不在這裡。對吧，[name]？”"
+
+# game/story/Chapter_T3.rpy:5720
+translate Tchinese king_toast_route_HOTEL_2f537b90:
+
+    # p shocked "Huh?{w=.5}{nw}"
+    p shocked "“啊？{w=.5}{nw}”"
+
+# game/story/Chapter_T3.rpy:5721
+translate Tchinese king_toast_route_HOTEL_53e2cfa5:
+
+    # extend neutral " Yeah, sure."
+    extend neutral "“嗯，你說得對。”"
+
+# game/story/Chapter_T3.rpy:5726
+translate Tchinese king_toast_route_HOTEL_02f990b4:
+
+    # "With that Morris speeds off to the hotel."
+    "說罷，Morris腳踩油門開向酒店。"
+
+# game/story/Chapter_T3.rpy:5730
+translate Tchinese king_toast_route_HOTEL_38559164:
+
+    # "It’s noon by the time you approach your destination."
+    "你們快中午了才接近目的地。"
+
+# game/story/Chapter_T3.rpy:5733
+translate Tchinese king_toast_route_HOTEL_29745eb1:
+
+    # "Peering out the car window, a majestic white villa welcomes you. Lush, trimmed trees and bushes line the parking lot that leads to the hotel."
+    "從車窗向外望去，一座雄偉的白色別墅正在恭候你們的光臨。鬱鬱蔥蔥、修剪整齊的樹木和灌木排列在通往酒店的道路旁。"
+
+# game/story/Chapter_T3.rpy:5734
+translate Tchinese king_toast_route_HOTEL_edf74564:
+
+    # T "Wow, check that place out."
+    T "“哇哦，好傢伙。”"
+
+# game/story/Chapter_T3.rpy:5735
+translate Tchinese king_toast_route_HOTEL_f0515af8:
+
+    # "Even you have to admit, the place is far better looking than what you could have imagined. You expected a run down place like something from a horror movie."
+    "不得不承認，這個地方大大超出了你的想像，你一度以為它會像恐怖電影裡的那樣破敗不堪。"
+
+# game/story/Chapter_T3.rpy:5736
+translate Tchinese king_toast_route_HOTEL_514dc8ca:
+
+    # "Morris pulls the car to a stop and parks outside the main entrance."
+    "Morris把車停在了正門外。"
+
+# game/story/Chapter_T3.rpy:5737
+translate Tchinese king_toast_route_HOTEL_94da0c23:
+
+    # "The instant you leave the car a chill runs down your spine and you feel goosebumps all over your body."
+    "剛一下車，你就感覺後背一陣發涼，雞皮疙瘩都起來了。"
+
+# game/story/Chapter_T3.rpy:5738
+translate Tchinese king_toast_route_HOTEL_8e82b6a1:
+
+    # "There’s an eerie atmosphere around them. The wind is deathly silent, not even the trees dare to move an inch. It’s like you’ve entered a vacuum devoid of life. You whisper…"
+    "周圍的氣氛異常詭異：風如死一般沉寂，樹枝一動也不敢動，好像一個生命禁區。你喃喃自語道..."
+
+# game/story/Chapter_T3.rpy:5739
+translate Tchinese king_toast_route_HOTEL_8c7e7bc7:
+
+    # p "It’s too quiet..."
+    p "“太安靜了...”"
+
+# game/story/Chapter_T3.rpy:5740
+translate Tchinese king_toast_route_HOTEL_843c1218:
+
+    # M "Sure is, now come on. We got to check in."
+    M "“確實。好了，咱們該去辦理入住手續了。”"
+
+# game/story/Chapter_T3.rpy:5742
+translate Tchinese king_toast_route_HOTEL_9d15f749:
+
+    # "Toast hands you your backpack and you all head inside."
+    "Toast把你的背包遞給你，然後你們一起進入了酒店。"
+
+# game/story/Chapter_T3.rpy:5751
+translate Tchinese king_toast_route_HOTEL_77bdcd1d:
+
+    # "Soft lounge music plays as you enter. It’s so cold inside you can see your own breath."
+    "大廳裡播放著柔和的音樂，裡面冷得連自己的呼吸都能看見。"
+
+# game/story/Chapter_T3.rpy:5756
+translate Tchinese king_toast_route_HOTEL_c6f4fba8:
+
+    # L "Where is the receptionist? This will not bode well for their online ratings."
+    L "“接待員在哪？這種服務可是會拉低在線評分的。”"
+
+# game/story/Chapter_T3.rpy:5768
+translate Tchinese king_toast_route_HOTEL_dedbd54c:
+
+    # Receptionists "Hi there!"
+    Receptionists "“大家好呀！”"
+
+# game/story/Chapter_T3.rpy:5776
+translate Tchinese king_toast_route_HOTEL_e1a23099:
+
+    # L shocked "Ahh!"
+    L shocked "“啊——！”"
+
+# game/story/Chapter_T3.rpy:5782
+translate Tchinese king_toast_route_HOTEL_17f5e7d3:
+
+    # "Lucian hugs you, seemingly for protection."
+    "Lucian像是要保護你一樣抱住了你。"
+
+# game/story/Chapter_T3.rpy:5783
+translate Tchinese king_toast_route_HOTEL_2230c9b1:
+
+    # "A male and female wolf pop out from below the registration counter. Their cheeks are stretched apart by the most painful looking smile."
+    "一隻公狼和一隻母狼從登記台下面跳了出來，臉上掛著只能用痛苦來形容的笑。"
+
+# game/story/Chapter_T3.rpy:5784
+translate Tchinese king_toast_route_HOTEL_957ea305:
+
+    # Kouya "Irasshaimase!"
+    Kouya "“{rb}いらっしゃいませ{/rb}{rt}歡迎光臨{/rt}！”"
+
+# game/story/Chapter_T3.rpy:5785
+translate Tchinese king_toast_route_HOTEL_9f9d21e8:
+
+    # Soya "Irasshaimase!"
+    Soya "“{rb}いらっしゃいませ{/rb}{rt}歡迎光臨{/rt}！”"
+
+# game/story/Chapter_T3.rpy:5786
+translate Tchinese king_toast_route_HOTEL_41208580:
+
+    # Receptionists "Welcome to The End Hotel."
+    Receptionists "“歡迎光臨末日酒店。”"
+
+# game/story/Chapter_T3.rpy:5787
+translate Tchinese king_toast_route_HOTEL_937fb67a:
+
+    # T @ doubt "The heck is wrong with your faces."
+    T @ doubt "“你們的臉是怎麼搞的？”"
+
+# game/story/Chapter_T3.rpy:5788
+translate Tchinese king_toast_route_HOTEL_ffbb57a6:
+
+    # "He points at them."
+    "他指著他們。"
+
+# game/story/Chapter_T3.rpy:5795
+translate Tchinese king_toast_route_HOTEL_f15fa073:
+
+    # "You nudge Toast by the arm."
+    "你用手肘捅了一下Toast。"
+
+# game/story/Chapter_T3.rpy:5799
+translate Tchinese king_toast_route_HOTEL_6d337269:
+
+    # p "That’s rude."
+    p "“很失禮欸。”"
+
+# game/story/Chapter_T3.rpy:5806
+translate Tchinese king_toast_route_HOTEL_0e7d35ec:
+
+    # "Morris hesitantly approaches them but remains composed."
+    "Morris猶豫了一下，但還是鎮定地走上前。"
+
+# game/story/Chapter_T3.rpy:5813
+translate Tchinese king_toast_route_HOTEL_772763a3:
+
+    # M "Hi... You two work here?"
+    M "“嗨...你們是這裡的員工嗎？”"
+
+# game/story/Chapter_T3.rpy:5814
+translate Tchinese king_toast_route_HOTEL_effae82f:
+
+    # Kouya "Absoposilutely!"
+    Kouya "“完全正確！”"
+
+# game/story/Chapter_T3.rpy:5816
+translate Tchinese king_toast_route_HOTEL_855803c2:
+
+    # Soya "Do you have a reservation with us on this fine day?"
+    Soya "“請問您預訂了房間嗎？”"
+
+# game/story/Chapter_T3.rpy:5817
+translate Tchinese king_toast_route_HOTEL_a110e3b2:
+
+    # M neutral "Yeah, it’s under Morris Boarris."
+    M neutral "“是的，在Morris Boarris名下。”"
+
+# game/story/Chapter_T3.rpy:5821
+translate Tchinese king_toast_route_HOTEL_af29198a:
+
+    # "He hands the male receptionist his identification card."
+    "他把身份證遞給男接待員。"
+
+# game/story/Chapter_T3.rpy:5824
+translate Tchinese king_toast_route_HOTEL_25be2dbd:
+
+    # "Without taking their eyes off of any of you, the male brown wolf taps on his computer."
+    "棕色的公狼敲著鍵盤，目光卻沒有從你們中的任何人身上移開。"
+
+# game/story/Chapter_T3.rpy:5825
+translate Tchinese king_toast_route_HOTEL_6364f620:
+
+    # Kouya "Ah, here we are Mr. Morris and his three guests. Your room is ready. Here are your key cards."
+    Kouya "“啊，原來是Morris先生和他的三位客人。您的房間準備好了，這是你們的門卡。”"
+
+# game/story/Chapter_T3.rpy:5829
+translate Tchinese king_toast_route_HOTEL_552ef090:
+
+    # "The female receptionist takes out two cards and hands them to the boar."
+    "女接待員拿出兩張卡片遞給野豬。"
+
+# game/story/Chapter_T3.rpy:5830
+translate Tchinese king_toast_route_HOTEL_5b045b92:
+
+    # M "Thanks... "
+    M "“謝謝...”"
+
+# game/story/Chapter_T3.rpy:5831
+translate Tchinese king_toast_route_HOTEL_c4a3dbe2:
+
+    # Receptionists "May your stay be The End of your troubles."
+    Receptionists "“願您的煩惱和憂愁在此處終結。”"
+
+# game/story/Chapter_T3.rpy:5838
+translate Tchinese king_toast_route_HOTEL_0e8d62b4:
+
+    # M nervous "Ok..."
+    M nervous "“好...”"
+
+# game/story/Chapter_T3.rpy:5845
+translate Tchinese king_toast_route_HOTEL_fcebbd81:
+
+    # "The four of you head over to the elevators tucked in the far corner of the room, away from the prying eyes of the receptionists."
+    "你們四個來到最遠角落的電梯，好避開接待員的耳目。"
+
+# game/story/Chapter_T3.rpy:5847
+translate Tchinese king_toast_route_HOTEL_961937f3:
+
+    # M "Let’s get to our room and set up the trap."
+    M "“咱們先去房間設置陷阱。”"
+
+# game/story/Chapter_T3.rpy:5848
+translate Tchinese king_toast_route_HOTEL_e61a287a:
+
+    # "Toast raises his hands."
+    "Toast高舉雙手。"
+
+# game/story/Chapter_T3.rpy:5849
+translate Tchinese king_toast_route_HOTEL_7c5f528f:
+
+    # T smile "I call shotgun on the sofa!"
+    T smile "“誰都別跟我搶沙發！”"
+
+# game/story/Chapter_T3.rpy:5850
+translate Tchinese king_toast_route_HOTEL_8c43598a:
+
+    # "Morris shakes his head."
+    "Morris搖搖頭。"
+
+# game/story/Chapter_T3.rpy:5851
+translate Tchinese king_toast_route_HOTEL_a4fa7836:
+
+    # M "No need, we have the double queen bed room."
+    M "“不用，房間裡有豪華雙人床。”"
+
+# game/story/Chapter_T3.rpy:5855
+translate Tchinese king_toast_route_HOTEL_a4083207:
+
+    # "Toast throws a fist in the air celebrating his acquisition of a proper sleeping place."
+    "Toast向空中揮拳，慶祝自己有了個適合睡覺的地方。"
+
+# game/story/Chapter_T3.rpy:5858
+translate Tchinese king_toast_route_HOTEL_a74b5d10:
+
+    # M "But that also means we all have to bunk up with someone."
+    M "“不過這也意味著我們必須和某人同床。”"
+
+# game/story/Chapter_T3.rpy:5859
+translate Tchinese king_toast_route_HOTEL_329e9dbe:
+
+    # "Morris looks towards Lucian."
+    "Morris看向Lucian。"
+
+# game/story/Chapter_T3.rpy:5860
+translate Tchinese king_toast_route_HOTEL_cfe2c30a:
+
+    # L "I'm not sleeping."
+    L "“我不睡覺。”"
+
+# game/story/Chapter_T3.rpy:5862
+translate Tchinese king_toast_route_HOTEL_286318f2:
+
+    # "Toast then leans in near you and whispers..."
+    "Toast靠在你耳邊輕聲說..."
+
+# game/story/Chapter_T3.rpy:5864
+translate Tchinese king_toast_route_HOTEL_fce98c0e:
+
+    # T "Hey, if it gets too cold, I'm fine with you snuggling up to me."
+    T "“嘿，如果你感覺冷的話，鑽我懷裡也沒關係。”"
+
+# game/story/Chapter_T3.rpy:5865
+translate Tchinese king_toast_route_HOTEL_0d3f98a7:
+
+    # p "Thanks, but I'm sure the blankets here will be sufficient."
+    p "“謝謝，不過我相信有這裡的毯子就足夠了。”"
+
+# game/story/Chapter_T3.rpy:5866
+translate Tchinese king_toast_route_HOTEL_059124b7:
+
+    # T sad "Oh..."
+    T sad "“噢...”"
+
+# game/story/Chapter_T3.rpy:5868
+translate Tchinese king_toast_route_HOTEL_4410b750:
+
+    # M "Come on, let’s go."
+    M "“行了，咱們走。”"
+
+# game/story/Chapter_T3.rpy:5869
+translate Tchinese king_toast_route_HOTEL_a47a3fc1:
+
+    # p question "Hang on, those receptionists were weird right? It wasn't just me?"
+    p question "“等一下，那些接待員很奇怪吧？還是只有我一個人這麼覺得？”"
+
+# game/story/Chapter_T3.rpy:5871
+translate Tchinese king_toast_route_HOTEL_43eaaa60:
+
+    # "You, Lucian, and Morris look at the reception counter."
+    "你、Lucian和Morris都看向前台。"
+
+# game/story/Chapter_T3.rpy:5873
+translate Tchinese king_toast_route_HOTEL_ddbd5647:
+
+    # "The two receptionists are still standing there, staring into space."
+    "兩位接待員仍然站在那裡，凝視著空氣。"
+
+# game/story/Chapter_T3.rpy:5874
+translate Tchinese king_toast_route_HOTEL_f6992868:
+
+    # "You swear you see a fly land on the female receptionist's nose and she doesn't even react."
+    "你發誓看到一隻蒼蠅落在女接待員的鼻頭上，但她連眼都沒眨一下。"
+
+# game/story/Chapter_T3.rpy:5875
+translate Tchinese king_toast_route_HOTEL_1f6ba748:
+
+    # M "I wouldn’t be surprised if they’re just puppets of the entity here. Leave them be."
+    M "“多半是被那傢伙做成了傀儡，不足為奇。”"
+
+# game/story/Chapter_T3.rpy:5876
+translate Tchinese king_toast_route_HOTEL_1e93f3a7:
+
+    # p sad "Right..."
+    p sad "“也對...”"
+
+# game/story/Chapter_T3.rpy:5879
+translate Tchinese king_toast_route_HOTEL_b36c27ac:
+
+    # "The elevator doors open."
+    "電梯門打開了。"
+
+# game/story/Chapter_T3.rpy:5903
+translate Tchinese king_toast_route_HOTEL_193c7071:
+
+    # "For a grand hotel the elevator ride is unnerving. The doors squeak shut and the fan above rattles."
+    "在如此規模的酒店乘電梯總是會讓人緊張不已。門顫抖地關上，頭頂的風扇吱吱作響。"
+
+# game/story/Chapter_T3.rpy:5904
+translate Tchinese king_toast_route_HOTEL_2aa5f25e:
+
+    # "Sudden jolts accompany your accent to the tenth floor."
+    "伴隨著顛簸和顫音，你們來到了十樓。"
+
+# game/story/Chapter_T3.rpy:5906
+translate Tchinese king_toast_route_HOTEL_eb2ff97d:
+
+    # "The elevator door opens."
+    "電梯門開了。"
+
+# game/story/Chapter_T3.rpy:5952
+translate Tchinese king_toast_route_HOTEL_7810dc35:
+
+    # "Everyone exits the elevator."
+    "大家一起走出電梯。"
+
+# game/story/Chapter_T3.rpy:5960
+translate Tchinese king_toast_route_HOTEL_4c1fac3e:
+
+    # L "D-Did you see that?"
+    L "“你-你們看到了嗎？”"
+
+# game/story/Chapter_T3.rpy:5965
+translate Tchinese king_toast_route_HOTEL_6c24e771:
+
+    # "Your knees weaken and a cool sensation presses against your neck."
+    "你膝蓋發軟，後頸彷彿傳來一陣涼意。"
+
+# game/story/Chapter_T3.rpy:5966
+translate Tchinese king_toast_route_HOTEL_6597f58e:
+
+    # p "It’s already begun..."
+    p "“已經開始了...”"
+
+# game/story/Chapter_T3.rpy:5967
+translate Tchinese king_toast_route_HOTEL_c7a2d39b:
+
+    # L shocked "Don’t say that! It’s the middle of the day, ghosts usually haunt at night."
+    L shocked "“別說這種話啊！現在是中午，幽靈通常只在晚上出沒的。”"
+
+# game/story/Chapter_T3.rpy:5984
+translate Tchinese king_toast_route_HOTEL_3bc40263:
+
+    # M annoyed "Cut the chatter, let’s get to the room."
+    M annoyed "“別囉嗦了，先進房間。”"
+
+# game/story/Chapter_T3.rpy:5985
+translate Tchinese king_toast_route_HOTEL_8a21d720:
+
+    # "You all walk down the corridor before taking a sharp turn to the left. You stop at the third door to the right."
+    "你們沿著走廊直行，然後左轉，在右手邊第三扇門前停了下來。"
+
+# game/story/Chapter_T3.rpy:5986
+translate Tchinese king_toast_route_HOTEL_9e98271a:
+
+    # "Morris opens the door to room 103."
+    "Morris打開103號房的門。"
+
+# game/story/Chapter_T3.rpy:5997
+translate Tchinese king_toast_route_QUESTIONS_bb1f00c2:
+
+    # "Before you is a pristine hotel room room. A sharp breath reveals the crisp scent of lemon wafting through the air."
+    "呈現在你眼前的是一間嶄新的客房，猛吸一口氣，還可以聞到檸檬的清香。"
+
+# game/story/Chapter_T3.rpy:5998
+translate Tchinese king_toast_route_QUESTIONS_b32afa27:
+
+    # "A queen size bed takes up most of the space, with a second rolling single bed nestled into the furthest corner of the room."
+    "一張大床占據了大部分空間，另有一張單人床擺放在最裡面的角落。"
+
+# game/story/Chapter_T3.rpy:6008
+translate Tchinese king_toast_route_QUESTIONS_dec25667:
+
+    # "You all gather inside the space."
+    "你們在房間裡齊聚一堂。"
+
+# game/story/Chapter_T3.rpy:6013
+translate Tchinese king_toast_route_QUESTIONS_4096aafd:
+
+    # M "Alright, here's the plan."
+    M "“那麼，計劃是這樣的。”"
+
+# game/story/Chapter_T3.rpy:6014
+translate Tchinese king_toast_route_QUESTIONS_de0fe6c4:
+
+    # "He takes out a yellow paper charm and a blue bead."
+    "他拿出一張黃色的符咒跟一顆藍色珠子。"
+
+# game/story/Chapter_T3.rpy:6015
+translate Tchinese king_toast_route_QUESTIONS_468ccf46:
+
+    # M serious "The moment I trigger this charm, we’ll draw out any nearby ghosts. No matter what, we stick together. Got it?"
+    M serious "“一旦我發動此咒，附近的幽靈都將無所遁形。不論發生什麼事，我們都必須抱團行動，聽明白了嗎？”"
+
+# game/story/Chapter_T3.rpy:6016
+translate Tchinese king_toast_route_QUESTIONS_47d6c66f:
+
+    # L shocked "Wait a minute, are we sure we’re not rushing into this?"
+    L shocked "“等等，這麼倉促真的好嗎？”"
+
+# game/story/Chapter_T3.rpy:6017
+translate Tchinese king_toast_route_QUESTIONS_33a83db1:
+
+    # M "The longer we stay idle, the more that thing is gonna sap our life force. Fighting it now is our best chance."
+    M "“我們越是閒著，就越會消耗自己的生命力，速戰速決才是我們最好的機會。”"
+
+# game/story/Chapter_T3.rpy:6019
+translate Tchinese king_toast_route_QUESTIONS_51af0987:
+
+    # T @ smile "It won’t know what hit it!"
+    T @ smile "“把它打個措手不及！”"
+
+# game/story/Chapter_T3.rpy:6020
+translate Tchinese king_toast_route_QUESTIONS_2cd9c3f9:
+
+    # "Everybody nods."
+    "大家都點點頭。"
+
+# game/story/Chapter_T3.rpy:6021
+translate Tchinese king_toast_route_QUESTIONS_921c2f28:
+
+    # M "Here we go."
+    M "“開始吧。”"
+
+# game/story/Chapter_T3.rpy:6022
+translate Tchinese king_toast_route_QUESTIONS_1f4e8564:
+
+    # "Morris holds the paper flat on one palm, crushing the blue marble with the other. The speckles of crushed marble trickle between his fingers onto the charm below."
+    "Morris一隻手托起黃紙，另一隻手捏碎藍色彈球，斑駁的粉末從他的手掌間隙流到了下面的符咒上。"
+
+# game/story/Chapter_T3.rpy:6031
+translate Tchinese king_toast_route_QUESTIONS_52905589:
+
+    # "The paper glows blue and bursts into a ball of fire the size of a soccer ball."
+    "符咒發出微弱的藍光，緊接著膨脹成一個足球大小的火球。"
+
+# game/story/Chapter_T3.rpy:6034
+translate Tchinese king_toast_route_QUESTIONS_9ff37e2a:
+
+    # T shocked "Wow!"
+    T shocked "“哇！”"
+
+# game/story/Chapter_T3.rpy:6035
+translate Tchinese king_toast_route_QUESTIONS_2779a360:
+
+    # p nervous "Doesn’t that hurt?"
+    p nervous "“你不疼嗎？”"
+
+# game/story/Chapter_T3.rpy:6039
+translate Tchinese king_toast_route_QUESTIONS_006be431:
+
+    # M neutral "It’s not real fire, don’t worry about it."
+    M neutral "“不用擔心，這不是真正的火焰。”"
+
+# game/story/Chapter_T3.rpy:6061
+translate Tchinese king_toast_route_QUESTIONS_801e0c4c:
+
+    # "Morris tosses the fireball into the air and it splits into two smaller balls. One floats towards the exit, while the other makes a beeline for Toast."
+    "Morris單手一拋，火球在空中分裂成了兩個較小的球。一個飄向門口，另一個則直奔Toast。"
+
+# game/story/Chapter_T3.rpy:6062
+translate Tchinese king_toast_route_QUESTIONS_9151ea0b:
+
+    # T @ annoyed "Hey, what’s the big deal?"
+    T @ annoyed "“嘿，至於嗎？”"
+
+# game/story/Chapter_T3.rpy:6071
+translate Tchinese king_toast_route_QUESTIONS_eef58cd9:
+
+    # "Toast swats at the incoming fireball but upon contact with his hand, the fireball disappears."
+    "Toast一巴掌拍向襲來的火球，但剛一觸碰，火球就消失不見了。"
+
+# game/story/Chapter_T3.rpy:6076
+translate Tchinese king_toast_route_QUESTIONS_303e93a2:
+
+    # M "What do you think? The charm detects the presence of ghosts."
+    M "“你們見識到了吧？此咒能探測到鬼魂的存在。”"
+
+# game/story/Chapter_T3.rpy:6079
+translate Tchinese king_toast_route_QUESTIONS_531fee80:
+
+    # L_nt "So, we just need to follow that one to our target."
+    L_nt "“所以跟著它我們就能發現目標。”"
+
+# game/story/Chapter_T3.rpy:6090
+translate Tchinese king_toast_route_QUESTIONS_fd0cf78a:
+
+    # M_nt "Right, but hang on."
+    M_nt "“正確，不過在此之前-”"
+
+# game/story/Chapter_T3.rpy:6113
+translate Tchinese king_toast_route_QUESTIONS_392e6def:
+
+    # "He runs a hand along the flame, splitting it into two even smaller orbs, before giving you one."
+    "他大手一揮，將火球劈成兩個更小的球，然後分給你一個。"
+
+# game/story/Chapter_T3.rpy:6116
+translate Tchinese king_toast_route_QUESTIONS_20e458a4:
+
+    # M "Keep this close as backup, in case anything happens to the first one."
+    M "“這是備份的，以防萬一。”"
+
+# game/story/Chapter_T3.rpy:6122
+translate Tchinese king_toast_route_QUESTIONS_59d42e93:
+
+    # "You nod and bring the fireball close to your face."
+    "你點點頭，把臉湊到火球邊觀察。"
+
+# game/story/Chapter_T3.rpy:6123
+translate Tchinese king_toast_route_QUESTIONS_baaaf039:
+
+    # "The dark pools of your pupils briefly flood with a warm firefly-like glow."
+    "漆黑的眸子裡瞬間充滿了螢火蟲般溫暖的光芒。"
+
+# game/story/Chapter_T3.rpy:6129
+translate Tchinese king_toast_route_QUESTIONS_be93826a:
+
+    # M "Everybody ready?"
+    M "“大伙準備好了嗎？”"
+
+# game/story/Chapter_T3.rpy:6130
+translate Tchinese king_toast_route_QUESTIONS_0f113e18:
+
+    # p "Hang on, I gotta wash my face."
+    p "“先等一下，我要洗把臉。”"
+
+# game/story/Chapter_T3.rpy:6131
+translate Tchinese king_toast_route_QUESTIONS_4359d6ac:
+
+    # M "Don’t take too long, we’ll wait outside."
+    M "“快去快回，我們在外面等你。”"
+
+# game/story/Chapter_T3.rpy:6132
+translate Tchinese king_toast_route_QUESTIONS_a3693963:
+
+    # T @ angry "I’ll stick around. Got to watch [name]’s back if the ghost tries anything."
+    T @ angry "“我要留下來保護[name]，以免那傢伙圖謀不軌。”"
+
+# game/story/Chapter_T3.rpy:6133
+translate Tchinese king_toast_route_QUESTIONS_db478fe6:
+
+    # L @ smirk "For once, not a bad idea."
+    L @ smirk "“你總算可靠了一回。”"
+
+# game/story/Chapter_T3.rpy:6151
+translate Tchinese king_toast_route_QUESTIONS_34fccc6a:
+
+    # "The angel follows Morris out the door, leaving you and Toast alone."
+    "天使跟Morris出了門，房間內只留下你和Toast。"
+
+# game/story/Chapter_T3.rpy:6182
+translate Tchinese king_toast_route_QUESTIONS_3c04133c:
+
+    # "You smile sheepishly at Toast and head for the toilet. Splashing water onto your face, the wave of coldness invigorating your senses."
+    "你不好意思地笑了笑，然後走進洗手間，用冰涼的水花喚醒自己的感官。"
+
+# game/story/Chapter_T3.rpy:6187
+translate Tchinese king_toast_route_QUESTIONS_9b2c4953:
+
+    # "Once more, your thoughts take a detour towards Toast's past."
+    "你再次思考起了Toast的過去。"
+
+# game/story/Chapter_T3.rpy:6188
+translate Tchinese king_toast_route_QUESTIONS_7922c7d3:
+
+    # p sad "I can't keep holding this in. I have to ask him."
+    p sad "“我再也忍不下去了，我得問問他。”"
+
+# game/story/Chapter_T3.rpy:6189
+translate Tchinese king_toast_route_QUESTIONS_2c74811f:
+
+    # T "You ok there?"
+    T "“你在裡面還好嗎？”"
+
+# game/story/Chapter_T3.rpy:6196
+translate Tchinese king_toast_route_QUESTIONS_6acc73d8:
+
+    # "He stands by the bathroom door. Sighing, you turn to face him."
+    "他站在浴室門口。你嘆了口氣，轉身面對他。"
+
+# game/story/Chapter_T3.rpy:6200
+translate Tchinese king_toast_route_QUESTIONS_722d5f23:
+
+    # p "Ye- {w=1}{nw}"
+    p "“呃-{w=1}{nw}”"
+
+# game/story/Chapter_T3.rpy:6201
+translate Tchinese king_toast_route_QUESTIONS_82e72d73:
+
+    # extend sad "Actually, no."
+    extend sad "“其實並不好。”"
+
+# game/story/Chapter_T3.rpy:6202
+translate Tchinese king_toast_route_QUESTIONS_4ecfc6fc:
+
+    # "You struggle to look at the hyena in the face."
+    "這對你而言也是一種煎熬。"
+
+# game/story/Chapter_T3.rpy:6203
+translate Tchinese king_toast_route_QUESTIONS_833ff93d:
+
+    # p "There’s something we need to talk about, but now isn’t the time for it. So, I’ll wait until we’re done with this hotel business."
+    p "“我需要和你談談，但不是現在，等酒店裡的事辦完再說吧。”"
+
+# game/story/Chapter_T3.rpy:6205
+translate Tchinese king_toast_route_QUESTIONS_b74e5eca:
+
+    # "Toast’s ears droop. You wonder if he has his own suspicions."
+    "Toast耷拉著耳朵，你不知道他是否有所察覺。"
+
+# game/story/Chapter_T3.rpy:6207
+translate Tchinese king_toast_route_QUESTIONS_848fbc59:
+
+    # "Either way, you leave the washroom to go join the others."
+    "不管怎樣，你離開洗手間，去跟其他人會和。"
+
+# game/story/Chapter_T3.rpy:6224
+translate Tchinese king_toast_route_QUESTIONS_19609ef0:
+
+    # "You freeze in place. The hallway has changed, as though you were standing in a completely different building. It takes a moment before you remember to breathe."
+    "你愣在了原地：走廊完全變了樣，簡直是一棟完全不同的建築，你過了好一會才意識到自己屏著氣。"
+
+# game/story/Chapter_T3.rpy:6225
+translate Tchinese king_toast_route_QUESTIONS_0e70296c:
+
+    # T "Hey, you’re blocking the door, man."
+    T "“嘿，你擋住門了，伙伴。”"
+
+# game/story/Chapter_T3.rpy:6227
+translate Tchinese king_toast_route_QUESTIONS_72bda62e:
+
+    # "You turn around."
+    "你轉過身。"
+
+# game/story/Chapter_T3.rpy:6229
+translate Tchinese king_toast_route_QUESTIONS_b97d753d:
+
+    # p "Get back in, Toast!"
+    p "“快回去，Toast！”"
+
+# game/story/Chapter_T3.rpy:6230
+translate Tchinese king_toast_route_QUESTIONS_32b67ccf:
+
+    # T "What?"
+    T "“啊？”"
+
+# game/story/Chapter_T3.rpy:6246
+translate Tchinese king_toast_route_QUESTIONS_272cdefc:
+
+    # "You shove Toast and yourself through the threshold of the door just to find yourself back in the foreign hallway once again."
+    "你推著Toast進入房間，卻發現自己又回到了外面的走廊。"
+
+# game/story/Chapter_T3.rpy:6247
+translate Tchinese king_toast_route_QUESTIONS_404e09e7:
+
+    # T doubt "What the? Where’s our room?"
+    T doubt "“怎麼搞的？咱們的房間呢？”"
+
+# game/story/Chapter_T3.rpy:6254
+translate Tchinese king_toast_route_QUESTIONS_22f749c3:
+
+    # "You let out a groan and punch the wall."
+    "你一拳砸在牆上，沮喪地嘆了口氣。"
+
+# game/story/Chapter_T3.rpy:6256
+translate Tchinese king_toast_route_QUESTIONS_7f342772:
+
+    # p "Crap, it got us."
+    p "“該死，我們被它擺了一道。”"
+
+# game/story/Chapter_T3.rpy:6269
+translate Tchinese king_toast_route_QUESTIONS_47301b08:
+
+    # "Outside room 103, Lucian taps his right foot repeatedly. Ten minutes have passed and his patience is wearing thin."
+    "在103號房外，Lucian正不停地抖他的右腳。十分鐘過去了，他漸漸失去了耐心。"
+
+# game/story/Chapter_T3.rpy:6270
+translate Tchinese king_toast_route_QUESTIONS_d8061f95:
+
+    # "Morris looks on ahead at the path leading towards the elevator. The fireball continues to burn brightly above his unbandaged hand."
+    "Morris望著走廊前方的電梯，火球在他未包紮的那隻手上熊熊燃燒。"
+
+# game/story/Chapter_T3.rpy:6271
+translate Tchinese king_toast_route_QUESTIONS_3a830e07:
+
+    # L "What’s going on in there? Did he fall asleep in the toilet?"
+    L "“這是什麼情況？他在洗手間裡睡著了嗎？”"
+
+# game/story/Chapter_T3.rpy:6272
+translate Tchinese king_toast_route_QUESTIONS_62dd7fa8:
+
+    # M "Go check."
+    M "“去看看。”"
+
+# game/story/Chapter_T3.rpy:6274
+translate Tchinese king_toast_route_QUESTIONS_1e91d786:
+
+    # "The angel rushes back into the room, then back out again. His face is whiter than a bedsheet."
+    "天使衝進房間，又跑了出來，他的臉色比床單還要蒼白。"
+
+# game/story/Chapter_T3.rpy:6278
+translate Tchinese king_toast_route_QUESTIONS_5edab795:
+
+    # L "They’re gone!"
+    L "“他們不見了！”"
+
+# game/story/Chapter_T3.rpy:6281
+translate Tchinese king_toast_route_QUESTIONS_24f7c3e6:
+
+    # M nervous "What? They didn’t even go past us."
+    M nervous "“什麼？他們明明沒出來啊。”"
+
+# game/story/Chapter_T3.rpy:6293
+translate Tchinese king_toast_route_QUESTIONS_e1c9e0dd:
+
+    # "Morris grips his bandaged hand in pain. His thoughts are telegrafted by the scowl on his face."
+    "Morris緊握住纏著繃帶的那隻手，憤怒之情溢於言表。"
+
+# game/story/Chapter_T3.rpy:6303
+translate Tchinese king_toast_route_QUESTIONS_36f5ba7f:
+
+    # L "Oh my gosh, oh my gosh, oh my gosh! We have to get to them! If [name] dies, the balance of life and death will be destroyed, the spirits of the damned will split reality apart. And worse, Lord Gary’s going to call me a Bad Boy!"
+    L "“我的天啊，我的天啊，我的天啊！我們必須找到他們！[name]的離世會破壞生與死的平衡，被詛咒者的靈魂將撕裂現實。更糟糕的是，Gary大人會叫我壞孩子！”"
+
+# game/story/Chapter_T3.rpy:6305
+translate Tchinese king_toast_route_QUESTIONS_f0a51394:
+
+    # M serious "Get a hold of yourself! We don’t know if [name]’s dead yet."
+    M serious "“振作點！[name]的下落還是個未知數。”"
+
+# game/story/Chapter_T3.rpy:6306
+translate Tchinese king_toast_route_QUESTIONS_9d238d85:
+
+    # M "I doubt the spirit would be so kind to offer any of us a swift death."
+    M "“我相信那混蛋絕不會讓我們輕易死去。”"
+
+# game/story/Chapter_T3.rpy:6308
+translate Tchinese king_toast_route_QUESTIONS_e1489332:
+
+    # "The boar’s gaze turns towards the flame in his hand."
+    "野豬把目光投向手中的火焰。"
+
+# game/story/Chapter_T3.rpy:6309
+translate Tchinese king_toast_route_QUESTIONS_38cb1385:
+
+    # M "We need to get to the ghost ASAP."
+    M "“我們需要盡快找到那個幽靈。”"
+
+# game/story/Chapter_T3.rpy:6310
+translate Tchinese king_toast_route_QUESTIONS_ca2c158e:
+
+    # L shocked "This is no time for ghost hunting. [name] is in danger!"
+    L shocked "“現在不是捉鬼的時候，[name]有生命危險！”"
+
+# game/story/Chapter_T3.rpy:6311
+translate Tchinese king_toast_route_QUESTIONS_e57031e2:
+
+    # M "If it could kill him quickly, it wouldn’t have to separate us. The ghost must have plans for them."
+    M "“它之所以把我們分開，是因為它另有所圖。”"
+
+# game/story/Chapter_T3.rpy:6312
+translate Tchinese king_toast_route_QUESTIONS_88d5e6b6:
+
+    # M "I’m sure [name] will come to the same conclusion. I gave him the flame compass for a reason. If we both follow it then we will meet eventually."
+    M "“[name]一定會得出同樣的結論，這也是我將火焰羅盤交給他的原因。如果我們都跟隨羅盤的指引，重逢只是時間的問題。”"
+
+# game/story/Chapter_T3.rpy:6313
+translate Tchinese king_toast_route_QUESTIONS_fd29be4f:
+
+    # L angry "Guhh."
+    L angry "“可惡啊！”"
+
+# game/story/Chapter_T3.rpy:6314
+translate Tchinese king_toast_route_QUESTIONS_8676b053:
+
+    # "The angel clenches his fists. His blood rising to a boil."
+    "天使攥緊了拳頭，怒火中燒。"
+
+# game/story/Chapter_T3.rpy:6315
+translate Tchinese king_toast_route_QUESTIONS_07add075:
+
+    # L neutral "Let’s go."
+    L neutral "“走吧。”"
+
+# game/story/Chapter_T3.rpy:6329
+translate Tchinese king_toast_route_QUESTIONS_2f4ce56e:
+
+    # "Morris pushes the fireball and it hurries down the corridor, the two giving chase."
+    "Morris伸手一推，火球便沿著走廊快速飛去，二人緊隨其後。"
+
+# game/story/Chapter_T3.rpy:6347
+translate Tchinese king_toast_route_TALK_0ecc90c0:
+
+    # "You observe your surroundings. Although the space appears ordinary, the portraits lining the walls weren’t there when you first arrived."
+    "你注意到周圍的環境雖然普通，但牆上卻憑空多出來很多肖像畫。"
+
+# game/story/Chapter_T3.rpy:6349
+translate Tchinese king_toast_route_TALK_dcd2245f:
+
+    # "Suspecting they may be fake, you touch one of the portraits. Dust scrapes away beneath your fingers."
+    "為了驗證其真實性，你摸了摸，用手指刮下來一層灰。"
+
+# game/story/Chapter_T3.rpy:6352
+translate Tchinese king_toast_route_TALK_d9aae1ac:
+
+    # p question "It’s real..."
+    p question "“是真的...”"
+
+# game/story/Chapter_T3.rpy:6360
+translate Tchinese king_toast_route_TALK_803f241b:
+
+    # "A loud crashing sound pulls you out of analysis."
+    "巨大的撞擊聲把你從分析中驚醒。"
+
+# game/story/Chapter_T3.rpy:6361
+translate Tchinese king_toast_route_TALK_0996cde1:
+
+    # "Toast has begun to relentlessly kick the metal bin beside you."
+    "Toast正不停地踢身旁的金屬垃圾桶。"
+
+# game/story/Chapter_T3.rpy:6364
+translate Tchinese king_toast_route_TALK_29033d17:
+
+    # T "Stupid creep, come out here and fight like a real ghost!"
+    T "“膽小鬼，有種出來面對我！”"
+
+# game/story/Chapter_T3.rpy:6367
+translate Tchinese king_toast_route_TALK_17f075b0:
+
+    # "His ferociousness scares you like never before. You now see his outbursts in a different light."
+    "他的兇性比以往任何時候都讓你感到害怕，你現在對他的壞脾氣有了新的認識。"
+
+# game/story/Chapter_T3.rpy:6372
+translate Tchinese king_toast_route_TALK_63c71f41:
+
+    # "Toast chucks the bin at the ceiling, hitting with a metallic 'thunk' before unceremoniously crashing back onto the floor."
+    "垃圾桶被Toast扔到天花板上，發出金屬巨響，然後粗暴地反彈回地板上。"
+
+# game/story/Chapter_T3.rpy:6376
+translate Tchinese king_toast_route_TALK_60ced245:
+
+    # "You frown at the ghost."
+    "你對他皺起眉頭。"
+
+# game/story/Chapter_T3.rpy:6378
+translate Tchinese king_toast_route_TALK_6b8ca6e8:
+
+    # p angry "Toast, calm down. This isn’t helping."
+    p angry "“冷靜點，Toast，你生氣也沒用啊。”"
+
+# game/story/Chapter_T3.rpy:6380
+translate Tchinese king_toast_route_TALK_df8aa4a5:
+
+    # T "I am calm! This is me being calm!"
+    T "“我很冷靜！這就是我的冷靜！”"
+
+# game/story/Chapter_T3.rpy:6385
+translate Tchinese king_toast_route_TALK_369d36d8:
+
+    # "He picks up the bin and gives it a good whack. It spins about before toppling over."
+    "他撿起垃圾桶，狠揍一拳，垃圾桶打著旋飛了出去。"
+
+# game/story/Chapter_T3.rpy:6388
+translate Tchinese king_toast_route_TALK_8b0ad3e8:
+
+    # p sad "Are you ok? You weren’t this agitated when we went up against Simulda."
+    p sad "“你沒事吧？我們當初對陣Simulda的時候，你都沒有這麼激動。”"
+
+# game/story/Chapter_T3.rpy:6389
+translate Tchinese king_toast_route_TALK_653e5b05:
+
+    # T annoyed "It’s that damn voice, it won’t shut up!"
+    T annoyed "“都怪那個該死的聲音，給老子閉嘴！”"
+
+# game/story/Chapter_T3.rpy:6391
+translate Tchinese king_toast_route_TALK_adad59fc:
+
+    # p question "Voice? {w=.5}{nw}"
+    p question "“聲音？{w=.5}{nw}”"
+
+# game/story/Chapter_T3.rpy:6392
+translate Tchinese king_toast_route_TALK_2da09003:
+
+    # extend scared "Argh!"
+    extend scared "“啊！”"
+
+# game/story/Chapter_T3.rpy:6393
+translate Tchinese king_toast_route_TALK_7414d522:
+
+    # "A sharp headache precedes phantom whispers in your ears."
+    "一陣劇烈的頭痛襲來，虛無縹緲的低語聲迴盪在你耳畔。"
+
+# game/story/Chapter_T3.rpy:6397
+translate Tchinese king_toast_route_TALK_dc440070:
+
+    # "In your mind, King’s voice sounds loud and clear."
+    "King的聲音越來越清晰嘹亮。"
+
+# game/story/Chapter_T3.rpy:6405
+translate Tchinese king_toast_route_TALK_abfcfe8a:
+
+    # K "You left me to die..."
+    K "“你對我見死不救...”"
+
+# game/story/Chapter_T3.rpy:6410
+translate Tchinese king_toast_route_TALK_9bf37bd4:
+
+    # "You shake your head to fo rce the voice away, but your mind plays the words over, and over, like a broken record."
+    "你搖頭想把聲音趕走，但腦子裡還是一遍又一遍地播放著這些話，就像一張壞掉的唱片。"
+
+# game/story/Chapter_T3.rpy:6412
+translate Tchinese king_toast_route_TALK_a1c2619d:
+
+    # T "Sucio, bueno para nada, solapado, pedazo de basura. (Dirty, no good, underhanded piece of trash.) Quit hiding, and come out and fight!"
+    T "“{rb}Sucio, bueno para nada, solapado, pedazo de basura{/rb}{rt}卑鄙，下流，齷齪的人渣{/rt}。別躲了，出來和我戰鬥！”"
+
+# game/story/Chapter_T3.rpy:6413
+translate Tchinese king_toast_route_TALK_4088792f:
+
+    # p angry "We need to keep moving and leave this place. It must be some kind of pocket space the ghost created."
+    p angry "“我們必須想辦法離開這個地方，這一定是那個幽靈創造出來的某種口袋空間。”"
+
+# game/story/Chapter_T3.rpy:6415
+translate Tchinese king_toast_route_TALK_1abadc7a:
+
+    # "An idea surfaces within your mind among the sea of anguish."
+    "在痛苦的海洋中，一個想法翩然浮現。"
+
+# game/story/Chapter_T3.rpy:6421
+translate Tchinese king_toast_route_TALK_3b1a7d02:
+
+    # "You raise your hand and begin to focus. A blue ring begins to form but immediately fades away before it can enlarge."
+    "你舉起手，開始集中注意力。一個藍色的環逐漸形成，但不等擴大便立即消失了。"
+
+# game/story/Chapter_T3.rpy:6431
+translate Tchinese king_toast_route_TALK_1896bd9a:
+
+    # "Cursing under your breath, you try again, but to no avail. King’s voice continues to berate you as your mind begins to feel tied."
+    "你低聲咒罵著，又試了一次，然而無濟於事。King的聲音還在大聲斥責你，讓你感到力不從心。"
+
+# game/story/Chapter_T3.rpy:6433
+translate Tchinese king_toast_route_TALK_e8f77a2f:
+
+    # T doubt "You think that’s how those people went missing?"
+    T doubt "“你覺得那些人是因此而失蹤的嗎？”"
+
+# game/story/Chapter_T3.rpy:6435
+translate Tchinese king_toast_route_TALK_1dcc2761:
+
+    # p scared "It could be, but I don’t want to find out."
+    p scared "“有可能，但我不想去考慮。”"
+
+# game/story/Chapter_T3.rpy:6444
+translate Tchinese king_toast_route_TALK_74976f59:
+
+    # "You take out the flame compass. A single tap and it begins to move, guiding you down the narrow hallway."
+    "你拿出火焰羅盤，輕輕一敲，它就開始移動，引導你穿過狹窄的走廊。"
+
+# game/story/Chapter_T3.rpy:6454
+translate Tchinese king_toast_route_TALK_1da84eec:
+
+    # K_nt "[name], help! Save me, they’re tearing me apart!"
+    K_nt "“救命！[name]，救救我！他們要把我撕成碎片了！”"
+
+# game/story/Chapter_T3.rpy:6456
+translate Tchinese king_toast_route_TALK_8ef48427:
+
+    # "You keep telling yourself that it’s all just a trick, to ignore it, but the words cut deep."
+    "你不斷告誡自己這只是它的把戲，但這些話無不切中你的要害。"
+
+# game/story/Chapter_T3.rpy:6458
+translate Tchinese king_toast_route_TALK_86e16c5c:
+
+    # K "They’re killing me! Stop! Why won’t you save me?"
+    K "“好痛！不要！你為什麼不肯救我？”"
+
+# game/story/Chapter_T3.rpy:6460
+translate Tchinese king_toast_route_TALK_f97b3b5a:
+
+    # "Like daggers stabbing into you with every step."
+    "每一句話都像一把匕首刺在你心上。"
+
+# game/story/Chapter_T3.rpy:6461
+translate Tchinese king_toast_route_TALK_153db9c3:
+
+    # "Toast doesn’t appear to be feeling much better, his face contorted in pain."
+    "Toast似乎也沒有好到哪裡去，他的表情因痛苦而扭曲。"
+
+# game/story/Chapter_T3.rpy:6463
+translate Tchinese king_toast_route_TALK_e170288e:
+
+    # "Yet he appears transfixed by the uncanny paintings that adorn the walls."
+    "但又因裝飾在牆上的神秘畫作而呆住了。"
+
+# game/story/Chapter_T3.rpy:6465
+translate Tchinese king_toast_route_TALK_88689568:
+
+    # T -left doubt "Hey... am I going crazy, or are the paintings changing?"
+    T -left doubt "“嘿...是我瘋了，還是那些畫變了？”"
+
+# game/story/Chapter_T3.rpy:6467
+translate Tchinese king_toast_route_TALK_8fb49bd0:
+
+    # "You follow his gaze to a picture to your right."
+    "你跟隨他的目光看向你右邊的一幅畫。"
+
+# game/story/Chapter_T3.rpy:6468
+translate Tchinese king_toast_route_TALK_80ae28ba:
+
+    # "A cat in a gentleman’s suit. You blink, the image changes to King lying on the floor, blood gushing out of his chest cavity."
+    "一隻西裝革履的貓在眨眼之間變成了King，他躺在地上，鮮血從他的胸腔噴湧而出。"
+
+# game/story/Chapter_T3.rpy:6470
+translate Tchinese king_toast_route_TALK_3e090f72:
+
+    # "You gasp in fear."
+    "你在恐懼中喘息。"
+
+# game/story/Chapter_T3.rpy:6472
+translate Tchinese king_toast_route_TALK_ba1c6d08:
+
+    # p "Don’t look at anything, just focus on the flame. Run!"
+    p "“除了火焰什麼都別看，快跑！”"
+
+# game/story/Chapter_T3.rpy:6495
+translate Tchinese king_toast_route_TALK_584c756c:
+
+    # "The both of you sprint after the flame."
+    "你們兩個都拔腿奔向火焰。"
+
+# game/story/Chapter_T3.rpy:6497
+translate Tchinese king_toast_route_TALK_e627cef1:
+
+    # K "How could you let them do this to me?"
+    K "“你怎麼能讓他們這樣對我？”"
+
+# game/story/Chapter_T3.rpy:6499
+translate Tchinese king_toast_route_TALK_f22b614c:
+
+    # "Your legs buckle with each step, the hallway seemingly stretching endlessly."
+    "在這條似乎無窮無盡的走廊上，你邁出的每一步都無比沉重。"
+
+# game/story/Chapter_T3.rpy:6501
+translate Tchinese king_toast_route_TALK_1b86a864:
+
+    # K "You’re a monster! A monster!"
+    K "“你是個怪物！怪物！”"
+
+# game/story/Chapter_T3.rpy:6503
+translate Tchinese king_toast_route_TALK_936375b7:
+
+    # "Every few steps the same image of King dying passes by your peripheral vision."
+    "King垂死的畫面三不五時就會映入你的眼簾。"
+
+# game/story/Chapter_T3.rpy:6507
+translate Tchinese king_toast_route_TALK_6f2df5d8:
+
+    # "Yet, you run, chasing the flame compass until your legs feel like they would give up at any moment."
+    "但你依舊奔跑，追逐著火焰的羅盤，直至力竭。"
+
+# game/story/Chapter_T3.rpy:6519
+translate Tchinese king_toast_route_TALK_c6dfbe09:
+
+    # "After what feels like hours, you both collapse in exhaustion against the walls."
+    "過了幾個小時，你和他都筋疲力盡地靠在牆上。"
+
+# game/story/Chapter_T3.rpy:6521
+translate Tchinese king_toast_route_TALK_fb386aba:
+
+    # "You’re back to where the picture of King dying is."
+    "你們又回到了King垂死的畫像的所在地。"
+
+# game/story/Chapter_T3.rpy:6526
+translate Tchinese king_toast_route_TALK_d53dae8f:
+
+    # "As you try to gather your breath, Toast walks over and turns the portrait around."
+    "在你嘗試調整呼吸時，Toast走過來，把畫像翻了過去。"
+
+# game/story/Chapter_T3.rpy:6529
+translate Tchinese king_toast_route_TALK_507f56a8:
+
+    # p "Thanks... that thing was annoying me."
+    p "“謝謝你...那東西攪得我心煩。”"
+
+# game/story/Chapter_T3.rpy:6530
+translate Tchinese king_toast_route_TALK_923fa5dc:
+
+    # T "Huh? Oh, yeah."
+    T "“啊？哦，是嗎。”"
+
+# game/story/Chapter_T3.rpy:6531
+translate Tchinese king_toast_route_TALK_7a8cd9b3:
+
+    # "His avoidant gaze makes you suspect he saw something else in that picture."
+    "他遮遮掩掩的樣子讓你懷疑他在畫像裡看到了別的東西。"
+
+# game/story/Chapter_T3.rpy:6532
+translate Tchinese king_toast_route_TALK_0fa603d4:
+
+    # "Sweat drips down your back. You barely have any energy left to run, much less to fight."
+    "汗水如雨般從額頭淌下，你幾乎耗做了全部的氣力，更不用說戰鬥了。"
+
+# game/story/Chapter_T3.rpy:6534
+translate Tchinese king_toast_route_TALK_c693c5b4:
+
+    # "Your attention turns to how your shoulders feel heavy and how your mind struggles to think. The maddening voices keep whispering in your head."
+    "沉重的身體令你難以思考，與此同時，那惱人的聲音不斷在你的腦海中竊竊私語。"
+
+# game/story/Chapter_T3.rpy:6540
+translate Tchinese king_toast_route_TALK_13ec2684:
+
+    # "Toast slumps against the wall, a lifeless look in his eyes as he gazes towards the ceiling."
+    "Toast背靠牆壁，用死氣沉沉的眼睛凝望著天花板。"
+
+# game/story/Chapter_T3.rpy:6545
+translate Tchinese king_toast_route_TALK_a5a44f30:
+
+    # "The colours in his eyes seem to be fading away."
+    "他的目光正在潰散。"
+
+# game/story/Chapter_T3.rpy:6546
+translate Tchinese king_toast_route_TALK_c50317ae:
+
+    # "You wonder what the voices have been saying to him."
+    "你不知道那些聲音對他說了什麼。"
+
+# game/story/Chapter_T3.rpy:6547
+translate Tchinese king_toast_route_TALK_8bbabbcf:
+
+    # p "You still with me, Toast?"
+    p "“你還清醒嗎，Toast？”"
+
+# game/story/Chapter_T3.rpy:6548
+translate Tchinese king_toast_route_TALK_1de99406:
+
+    # T "Yeah... I’m just tired..."
+    T "“嗯...我只是有點累...”"
+
+# game/story/Chapter_T3.rpy:6550
+translate Tchinese king_toast_route_TALK_789a2c2c:
+
+    # "He looks at you."
+    "他看向你。"
+
+# game/story/Chapter_T3.rpy:6551
+translate Tchinese king_toast_route_TALK_ae9680bb:
+
+    # T @ doubt "What was it that you wanted to talk about?"
+    T @ doubt "“你之前想跟我談什麼？”"
+
+# game/story/Chapter_T3.rpy:6552
+translate Tchinese king_toast_route_TALK_07f85331:
+
+    # p confused "Hmm?"
+    p confused "“嗯？”"
+
+# game/story/Chapter_T3.rpy:6553
+translate Tchinese king_toast_route_TALK_b22f1a40:
+
+    # T "In the room, you said you had something to talk about."
+    T "“在房間裡的時候，你說你有話要說。”"
+
+# game/story/Chapter_T3.rpy:6555
+translate Tchinese king_toast_route_TALK_ad46f9cb:
+
+    # p neutral "I don’t think it’s the best time to talk about that."
+    p neutral "“我想現在不是談這個的時候。”"
+
+# game/story/Chapter_T3.rpy:6556
+translate Tchinese king_toast_route_TALK_c044bfa5:
+
+    # T "As good a time as any. Just… I don’t want to hear them anymore…"
+    T "“現在正是時候，我...不想聽到它...”"
+
+# game/story/Chapter_T3.rpy:6557
+translate Tchinese king_toast_route_TALK_abc4a560:
+
+    # "He must be talking about the voice in his head."
+    "他一定是在說他腦子裡的聲音。"
+
+# game/story/Chapter_T3.rpy:6559
+translate Tchinese king_toast_route_TALK_b5217cd6:
+
+    # "You close your eyes for a brief second, steadying your nerves for what’s to come."
+    "你閉上眼睛，為即將發生的事情醞釀好情緒。"
+
+# game/story/Chapter_T3.rpy:6561
+translate Tchinese king_toast_route_TALK_9a389ce9:
+
+    # p neutral "Ok..."
+    p neutral "“好吧...”"
+
+# game/story/Chapter_T3.rpy:6562
+translate Tchinese king_toast_route_TALK_014d3d45:
+
+    # p "I know about Chilo."
+    p "“我知道Chilo的事。”"
+
+# game/story/Chapter_T3.rpy:6564
+translate Tchinese king_toast_route_TALK_9780e9b3:
+
+    # "Toast’s eyes widen."
+    "Toast睜大了眼睛。"
+
+# game/story/Chapter_T3.rpy:6565
+translate Tchinese king_toast_route_TALK_a5a80f92:
+
+    # T doubt "How did you-"
+    T doubt "“你是怎麼-”"
+
+# game/story/Chapter_T3.rpy:6566
+translate Tchinese king_toast_route_TALK_1d060f0c:
+
+    # p nervous "I searched your name online last night."
+    p nervous "“我昨晚在網路上搜索了你的名字。”"
+
+# game/story/Chapter_T3.rpy:6567
+translate Tchinese king_toast_route_TALK_448eb95a:
+
+    # T annoyed "You could have just asked."
+    T annoyed "“你本可以直接問我的。”"
+
+# game/story/Chapter_T3.rpy:6568
+translate Tchinese king_toast_route_TALK_77419ba8:
+
+    # "He glares at you."
+    "他怒視著你。"
+
+# game/story/Chapter_T3.rpy:6569
+translate Tchinese king_toast_route_TALK_5469deed:
+
+    # p sad "I know, I’m sorry, my curiosity got the better of me."
+    p sad "“我知道，對不起，我被好奇心沖昏了頭腦。”"
+
+# game/story/Chapter_T3.rpy:6573
+translate Tchinese king_toast_route_TALK_d81130a4:
+
+    # "He sits up straight."
+    "他坐直了。"
+
+# game/story/Chapter_T3.rpy:6575
+translate Tchinese king_toast_route_TALK_78c0a224:
+
+    # p "Why didn’t you tell me?"
+    p "“你為什麼不告訴我？”"
+
+# game/story/Chapter_T3.rpy:6576
+translate Tchinese king_toast_route_TALK_adef8dc5:
+
+    # "He keeps his eyes trained on you."
+    "他目不轉睛地盯著你。"
+
+# game/story/Chapter_T3.rpy:6577
+translate Tchinese king_toast_route_TALK_9ad48df8:
+
+    # p neutral "Toast, tell me there was more to it. That you didn’t just kill your brother in cold blood?"
+    p neutral "“Toast，告訴我這其中另有隱情，告訴我你不是一個冷血的弒親殺手。”"
+
+# game/story/Chapter_T3.rpy:6578
+translate Tchinese king_toast_route_TALK_552abc1f:
+
+    # "He doesn’t answer."
+    "他默不作聲。"
+
+# game/story/Chapter_T3.rpy:6580
+translate Tchinese king_toast_route_TALK_14cbbf72:
+
+    # "In an instant, your ears droop."
+    "你的耳朵瞬間耷拉了下來。"
+
+# game/story/Chapter_T3.rpy:6581
+translate Tchinese king_toast_route_TALK_4b484baa:
+
+    # p "Why... why did you have to kill him?"
+    p "“為什麼...你為什麼非殺了他不可？”"
+
+# game/story/Chapter_T3.rpy:6582
+translate Tchinese king_toast_route_TALK_43c4a89c:
+
+    # T annoyed "He-"
+    T annoyed "“他-”"
+
+# game/story/Chapter_T3.rpy:6583
+translate Tchinese king_toast_route_TALK_9983db1d:
+
+    # "Toast points in the air to emphasise his next point."
+    "Toast手指天空，憤憤不平地說："
+
+# game/story/Chapter_T3.rpy:6585
+translate Tchinese king_toast_route_TALK_d6340c68:
+
+    # T angry "Dug his own grave when he wouldn’t do what I told him!"
+    T angry "“他那是一意孤行，自掘墳墓！”"
+
+# game/story/Chapter_T3.rpy:6586
+translate Tchinese king_toast_route_TALK_8e1e6229:
+
+    # "Toast’s tone of voice catches you off guard."
+    "Toast的語氣出乎你的意料。"
+
+# game/story/Chapter_T3.rpy:6587
+translate Tchinese king_toast_route_TALK_1991c1ae:
+
+    # T "If he didn’t stick his nose where it didn’t belong, at least one of us could still be alive right now!"
+    T "“如果不是他打探不相干的事，我們至少能活一個！”"
+
+# game/story/Chapter_T3.rpy:6588
+translate Tchinese king_toast_route_TALK_5e492170:
+
+    # p @ confused "B-But he was your family."
+    p @ confused "“可-但他是你的家人啊。”"
+
+# game/story/Chapter_T3.rpy:6589
+translate Tchinese king_toast_route_TALK_a9c68bcf:
+
+    # T "Family wouldn’t try to hold me back every step of the way! Family won’t be telling me how shitty I was for fronting for the mob!"
+    T "“家人才不會處處和我作對！也不會罵我是個替黑幫做事的下三濫！”"
+
+# game/story/Chapter_T3.rpy:6590
+translate Tchinese king_toast_route_TALK_e8166585:
+
+    # T "Gargh!"
+    T "“啊！”"
+
+# game/story/Chapter_T3.rpy:6594
+translate Tchinese king_toast_route_TALK_f2f7d763:
+
+    # "Toast and you wince."
+    "Toast和你都在戰慄著。"
+
+# game/story/Chapter_T3.rpy:6595
+translate Tchinese king_toast_route_TALK_df7d5853:
+
+    # "The voices are howling into your ear, but you force yourself to ignore them."
+    "那些聲音在你耳邊咆哮，你強迫自己忽略它們。"
+
+# game/story/Chapter_T3.rpy:6596
+translate Tchinese king_toast_route_TALK_7d6cf173:
+
+    # T angry "Everything I did, I did for him, but he never appreciated it! The one time I asked him to just follow along..."
+    T angry "“我的所作所為都是為了他，但他就是不理解！有一次，我單純叫他跟在我後面...”"
+
+# game/story/Chapter_T3.rpy:6598
+translate Tchinese king_toast_route_TALK_0d1100c3:
+
+    # "His voice breaks, for a brief moment you see a crack in his armour and his expression turns sour."
+    "他的聲音變得沙啞，有那麼一瞬間，你看到他褪去鎧甲，露出痛苦的表情。"
+
+# game/story/Chapter_T3.rpy:6599
+translate Tchinese king_toast_route_TALK_310c617c:
+
+    # T sad "...and he couldn’t even do that."
+    T sad "“...而他連這都不肯。”"
+
+# game/story/Chapter_T3.rpy:6600
+translate Tchinese king_toast_route_TALK_ad352b21:
+
+    # T annoyed "He was nothing but a burden—Argh!"
+    T annoyed "“他就是個累贅！”"
+
+# game/story/Chapter_T3.rpy:6602
+translate Tchinese king_toast_route_TALK_dafbdd47:
+
+    # "He covers his eyes and looks away."
+    "他捂住眼睛，別過頭去。"
+
+# game/story/Chapter_T3.rpy:6604
+translate Tchinese king_toast_route_TALK_54a60c84:
+
+    # T "Life would have been better if we were never related in the first place!"
+    T "“如果我們從一開始就沒有血緣關係，我的生活一定要好得多！”"
+
+# game/story/Chapter_T3.rpy:6605
+translate Tchinese king_toast_route_TALK_45751a70:
+
+    # p sad "Toast..."
+    p sad "“Toast...”"
+
+# game/story/Chapter_T3.rpy:6606
+translate Tchinese king_toast_route_TALK_9ba2c470:
+
+    # "This doesn’t sound like Toast at all. You faintly recall the way he’s spoken about his brother in the past, his words are like a puzzle piece that no longer fits."
+    "這聽起來一點也不像Toast，你隱約記得他過去提及自己弟弟時的樣子，而現在，他的話就像一塊不再合適的拼圖一樣。"
+
+# game/story/Chapter_T3.rpy:6612
+translate Tchinese king_toast_route_TALK_4e5a4c81:
+
+    # "The voices stop, and Toast’s ears perk up. He looks down the corridor in a wide eyed state."
+    "聲音停止了，Toast豎起耳朵，瞪大了眼睛看向走廊。"
+
+# game/story/Chapter_T3.rpy:6629
+translate Tchinese king_toast_route_TALK_e59a6bbc:
+
+    # "Worried, you shake out to his shoulders, but he doesn’t respond."
+    "你擔心地抖了抖他的肩膀，但他沒有反應。"
+
+# game/story/Chapter_T3.rpy:6634
+translate Tchinese king_toast_route_TALK_59fe73ba:
+
+    # p angry "Toast! Snap out of it!"
+    p angry "“振作一點！Toast！”"
+
+# game/story/Chapter_T3.rpy:6636
+translate Tchinese king_toast_route_TALK_c21f926e:
+
+    # "He just stares into the darkness."
+    "他只是凝視著黑暗。"
+
+# game/story/Chapter_T3.rpy:6641
+translate Tchinese king_toast_route_TALK_b0c19f06:
+
+    # "Suddenly, he begins walking."
+    "突然，他開始走路了。"
+
+# game/story/Chapter_T3.rpy:6642
+translate Tchinese king_toast_route_TALK_b3ec151e:
+
+    # p @ angry "Toast, where are you going?"
+    p @ angry "“你要去哪，Toast？”"
+
+# game/story/Chapter_T3.rpy:6643
+translate Tchinese king_toast_route_TALK_d7298dc4:
+
+    # T "P.B?"
+    T "“P.B？”"
+
+# game/story/Chapter_T3.rpy:6648
+translate Tchinese king_toast_route_TALK_17bae996:
+
+    # "He bursts into a sprint, forcing you to give chase."
+    "他猛然衝刺，你被迫在後面追趕。"
+
+# game/story/Chapter_T3.rpy:6649
+translate Tchinese king_toast_route_TALK_c87b183c:
+
+    # p @ angry "Toast, stop! It’s a trap, your brother’s not here!"
+    p @ angry "“快停下，Toast！這是個陷阱，你的弟弟不在這裡！”"
+
+# game/story/Chapter_T3.rpy:6653
+translate Tchinese king_toast_route_TALK_bd0c865c:
+
+    # "Your cries fall upon deaf ears. He runs and runs, until he comes to the end of the hallway where a single brown door stands."
+    "沒有人理會你的呼喊。他跑啊跑，一直跑到走廊盡頭，在那裡只有一扇棕色的門。"
+
+# game/story/Chapter_T3.rpy:6658
+translate Tchinese king_toast_route_TALK_7330852c:
+
+    # "Your heart races, every nerve in your body screaming at you to stop him but it’s too late. Toast reaches the door and enters the darkness beyond its threshold."
+    "你心跳加速，全身上下的每一根神經都在尖叫著要你阻止他，然而太遲了。Toast抵達了門口，跨過門檻步入黑暗。"
+
+# game/story/Chapter_T3.rpy:6659
+translate Tchinese king_toast_route_TALK_1409ca28:
+
+    # p angry "Toast!"
+    p angry "“Toast！”"
+
+# game/story/Chapter_T3.rpy:6668
+translate Tchinese king_toast_route_TALK_e703ef22:
+
+    # "The door closes on you. You bang, and pound, and kick it with all your might."
+    "門在你面前關上了，你用盡全力敲擊、捶打、踢踹。"
+
+# game/story/Chapter_T3.rpy:6669
+translate Tchinese king_toast_route_TALK_6f89e4dd:
+
+    # p "Toast, come out of there! Toast!"
+    p "“Toast，快出來啊！Toast！”"
+
+# game/story/Chapter_T3.rpy:6672
+translate Tchinese king_toast_route_TALK_69c758c3:
+
+    # "You slam the bottom of your fist once more on the door, but there is no response."
+    "你再次用拳頭砸門，但門紋絲不動。"
+
+# game/story/Chapter_T3.rpy:6675
+translate Tchinese king_toast_route_TALK_4e71233c:
+
+    # "You back away, cursing under your breath."
+    "你低聲咒罵著。"
+
+# game/story/Chapter_T3.rpy:6676
+translate Tchinese king_toast_route_TALK_d42cd1fb:
+
+    # p annoyed "Damn it!"
+    p annoyed "“可惡！”"
+
+# game/story/Chapter_T3.rpy:6677
+translate Tchinese king_toast_route_TALK_295c41df:
+
+    # "Grabbing the doorknob, an unnatural chill jolts up your spine."
+    "你握住門把手，一股不自然的寒意攀爬上你的脊椎。"
+
+# game/story/Chapter_T3.rpy:6678
+translate Tchinese king_toast_route_TALK_86744ff5:
+
+    # "Without a doubt, this is a trap. Your imagination stokes the fear in your heart. What lies beyond this door could spell the end for you."
+    "毫無疑問，這是個陷阱。你的想像力激發了內心的恐懼，一旦進去，恐怕就九死一生了。"
+
+# game/story/Chapter_T3.rpy:6679
+translate Tchinese king_toast_route_TALK_eadea9e2:
+
+    # "But what choice do you have? Toast needs you. You force yourself to swallow your fears with a big gulp, and open the door to the darkness."
+    "但還有其他選擇嗎？Toast需要你。於是你強忍著恐懼，打開通往黑暗的大門。"
+
+# game/story/Chapter_T3.rpy:6690
+translate Tchinese king_toast_route_TALK_a4dfa159:
+
+    # "Inside is your former office."
+    "門後是你曾經的辦公室。"
+
+# game/story/Chapter_T3.rpy:6691
+translate Tchinese king_toast_route_TALK_89dc0363:
+
+    # p "Fuck!"
+    p "“操！”"
+
+# game/story/Chapter_T3.rpy:6698
+translate Tchinese king_toast_route_LUCIAN_16d3fe84:
+
+    # "Meanwhile, Lucian and Morris are running through the tenth floor towards the emergency fire escape."
+    "同一時間，Lucian和Morris已經穿過了十樓，在消防通道內狂奔。"
+
+# game/story/Chapter_T3.rpy:6699
+translate Tchinese king_toast_route_LUCIAN_48fc44eb:
+
+    # "The flame compass guides them all the way down to the fifth floor."
+    "在火焰羅盤的帶領下，他們一路來到五樓。"
+
+# game/story/Chapter_T3.rpy:6713
+translate Tchinese king_toast_route_LUCIAN_ecf18cd6:
+
+    # "As it floats through the door back into the hotel interior, Morris grabs Lucian by the shoulder."
+    "當羅盤穿過消防門飄回酒店內部的時候，Morris抓住了Lucian的肩膀。"
+
+# game/story/Chapter_T3.rpy:6716
+translate Tchinese king_toast_route_LUCIAN_ff231c2f:
+
+    # M "Wait, if the ghost’s real body is in there, it’s not going to let us waltz in and exorcise it, be ready."
+    M "“等一下，如果幽靈的真身確實在裡面，那它定然有所防備，不要掉以輕心。”"
+
+# game/story/Chapter_T3.rpy:6719
+translate Tchinese king_toast_route_LUCIAN_9d70d843:
+
+    # L "You’re forgetting who I am. This ghost is going to regret taking [name] away from me!"
+    L "“你以為我是誰？我要讓它後悔從我身邊奪走[name]！”"
+
+# game/story/Chapter_T3.rpy:6724
+translate Tchinese king_toast_route_LUCIAN_11d9eca0:
+
+    # "Morris raises his hand to object but lowers it again."
+    "Morris舉手表示反對，但還是把手放低了。"
+
+# game/story/Chapter_T3.rpy:6736
+translate Tchinese king_toast_route_LUCIAN_1728d05a:
+
+    # "With a squeak of the door, the two step onto the fifth floor."
+    "伴隨著門的吱呀聲，二人踏上了五樓的地板。"
+
+# game/story/Chapter_T3.rpy:6743
+translate Tchinese king_toast_route_LUCIAN_90b68035:
+
+    # "The identical decorum serves to do little other than disorientate them."
+    "一模一樣的裝潢讓他們有些摸不清方向。"
+
+# game/story/Chapter_T3.rpy:6745
+translate Tchinese king_toast_route_LUCIAN_c2a0d872:
+
+    # M "This is the fifth floor right?"
+    M "“這裡是五樓沒錯吧？”"
+
+# game/story/Chapter_T3.rpy:6747
+translate Tchinese king_toast_route_LUCIAN_a813e48d:
+
+    # L "It must be, those bins were in a different position on the tenth floor."
+    L "“絕對沒錯，那些垃圾桶在十樓時是另一個位置。”"
+
+# game/story/Chapter_T3.rpy:6748
+translate Tchinese king_toast_route_LUCIAN_f1cddb22:
+
+    # M neutral "Impressive eyes."
+    M neutral "“好眼力。”"
+
+# game/story/Chapter_T3.rpy:6749
+translate Tchinese king_toast_route_LUCIAN_efb8393f:
+
+    # L smirk "They may look pretty, but the rest of me is just as impressive."
+    L smirk "“承蒙誇獎，但我的實力可不止這種程度。”"
+
+# game/story/Chapter_T3.rpy:6770
+translate Tchinese king_toast_route_LUCIAN_7e2c75b5:
+
+    # "Unbeknown to the duo, two pairs of eyes are watching them from the shadows."
+    "二人不知道的是，有兩雙眼睛在暗處窺視著他們。"
+
+# game/story/Chapter_T3.rpy:6772
+translate Tchinese king_toast_route_LUCIAN_200a7189:
+
+    # M shocked "Did you hear something?"
+    M shocked "“你聽到了嗎？”"
+
+# game/story/Chapter_T3.rpy:6773
+translate Tchinese king_toast_route_LUCIAN_2b6c91a6:
+
+    # L "Hear what?"
+    L "“聽到什麼？”"
+
+# game/story/Chapter_T3.rpy:6777
+translate Tchinese king_toast_route_LUCIAN_f359165e:
+
+    # "Hurried footsteps scurry across the hallway."
+    "急促的腳步聲傳遍走廊。"
+
+# game/story/Chapter_T3.rpy:6779
+translate Tchinese king_toast_route_LUCIAN_e7e3827b:
+
+    # "Then darkness falls upon them!"
+    "而後黑暗將他們籠罩！"
+
+# game/story/Chapter_T3.rpy:6784
+translate Tchinese king_toast_route_LUCIAN_5efcab4a:
+
+    # M "Mmm!"
+    M "“唔！”"
+
+# game/story/Chapter_T3.rpy:6785
+translate Tchinese king_toast_route_LUCIAN_c0096828:
+
+    # L "Morris? Morris, say something!"
+    L "“Morris？Morris，說點什麼啊！”"
+
+# game/story/Chapter_T3.rpy:6800
+translate Tchinese king_toast_route_LUCIAN_c135f612:
+
+    # "The emergency lights flicker on, bathing everything in a violent red hue."
+    "應急燈閃爍不停，一切都沐浴在鮮紅色之中。"
+
+# game/story/Chapter_T3.rpy:6807
+translate Tchinese king_toast_route_LUCIAN_02b142fa:
+
+    # L_nt "Morris! If this is one of your mortal pranks, then it isn’t funny!"
+    L_nt "“Morris！這個惡作劇一點也不好笑！”"
+
+# game/story/Chapter_T3.rpy:6808
+translate Tchinese king_toast_route_LUCIAN_0d2f26e9:
+
+    # "The lights are dull and Lucian is barely able to see."
+    "在昏暗的燈光下，Lucian的視野極其有限。"
+
+# game/story/Chapter_T3.rpy:6810
+translate Tchinese king_toast_route_LUCIAN_5b3074f2:
+
+    # "His eyes dart about, combing through the darkness for the exorcist. He’s nowhere to be found."
+    "他在黑暗中搜尋著驅魔師，然而哪裡都找不見。"
+
+# game/story/Chapter_T3.rpy:6822
+translate Tchinese king_toast_route_LUCIAN_e3a8efaa:
+
+    # "A cold breath brushes down his neck."
+    "一股寒氣拂過他的脖子。"
+
+# game/story/Chapter_T3.rpy:6829
+translate Tchinese king_toast_route_LUCIAN_661c8010:
+
+    # L_nt "By Gary’s beard!"
+    L_nt "“Gary的鬍子啊！”"
+
+# game/story/Chapter_T3.rpy:6833
+translate Tchinese king_toast_route_LUCIAN_8aaad753:
+
+    # "The angel turns around and finds nothing behind him."
+    "天使一個急轉身，卻什麼都沒有發現。"
+
+# game/story/Chapter_T3.rpy:6842
+translate Tchinese king_toast_route_LUCIAN_47b39461:
+
+    # "Lucian’s breathing is shallow and rapid as he runs his hand across the wall, trying to locate the corner ahead of him."
+    "Lucian呼吸急促，他用手扶著牆壁，試圖尋找位於前方的轉角。"
+
+# game/story/Chapter_T3.rpy:6864
+translate Tchinese king_toast_route_LUCIAN_6fca35a6:
+
+    # "He shudders in a frantic manner. The sound of his heart pounding urging him on."
+    "他渾身不停地顫抖，唯有心跳聲在催促他繼續前行。"
+
+# game/story/Chapter_T3.rpy:6874
+translate Tchinese king_toast_route_LUCIAN_abea0c97:
+
+    # "He paces down the hallway."
+    "他在走廊裡踱步。"
+
+# game/story/Chapter_T3.rpy:6882
+translate Tchinese king_toast_route_LUCIAN_52abd7ba:
+
+    # "All is silent until a cold hand grasps at his hair."
+    "四周鴉雀無聲，直到一隻冰冷的手抓住他的頭髮。"
+
+# game/story/Chapter_T3.rpy:6892
+translate Tchinese king_toast_route_LUCIAN_d15b425e:
+
+    # L_nt "Ahhh!"
+    L_nt "“呀———！”"
+
+# game/story/Chapter_T3.rpy:6893
+translate Tchinese king_toast_route_LUCIAN_527d7f28:
+
+    # "Lucian pulls away, several strands of his hair are ripped off."
+    "Lucian掙脫了對方，代價是他的幾縷毛。"
+
+# game/story/Chapter_T3.rpy:6896
+translate Tchinese king_toast_route_LUCIAN_eae16f14:
+
+    # "The hand recedes into the hotel room it came from."
+    "那隻手縮回了酒店的房間裡。"
+
+# game/story/Chapter_T3.rpy:6910
+translate Tchinese king_toast_route_LUCIAN_505ed823:
+
+    # "Just as he’s about to strike the door down, another nearby door swings open."
+    "他正要破門而入，附近另一扇門冷不防打開了。"
+
+# game/story/Chapter_T3.rpy:6921
+translate Tchinese king_toast_route_LUCIAN_7cad7d9f:
+
+    # "Thoroughly freaked out, the angel makes a run for it."
+    "驚魂未定的他被嚇得拔腿就跑。"
+
+# game/story/Chapter_T3.rpy:6925
+translate Tchinese king_toast_route_LUCIAN_afe81a9a:
+
+    # L "Mm-Morris! Morris, get out here this instant!"
+    L "“Mm-Morris！快點出來啊，Morris！”"
+
+# game/story/Chapter_T3.rpy:6927
+translate Tchinese king_toast_route_LUCIAN_13dffc64:
+
+    # "As he runs, every door slams open in quick succession, their symphony crashes like the march of a wild beast."
+    "當他奔跑時，沿途的每一扇門都“哐啷”地打開，各種聲音交織如同一首野獸進行曲。"
+
+# game/story/Chapter_T3.rpy:6934
+translate Tchinese king_toast_route_LUCIAN_d93d76a8:
+
+    # "He turns around, there’s nothing behind him but darkness."
+    "他轉身望去，然而身後空無一物，唯有黑暗。"
+
+# game/story/Chapter_T3.rpy:6938
+translate Tchinese king_toast_route_LUCIAN_eaec2411:
+
+    # L_nt "What? But I just came from here!"
+    L_nt "“怎麼可能？我剛從那邊過來！”"
+
+# game/story/Chapter_T3.rpy:6939
+translate Tchinese king_toast_route_LUCIAN_593e509c:
+
+    # "He turns around, there’s nothing there but darkness."
+    "他再次轉身，前方亦是黑暗。"
+
+# game/story/Chapter_T3.rpy:6948
+translate Tchinese king_toast_route_LUCIAN_9b4cd67a:
+
+    # "Lucian gulps and carries on forward. His steps have slowed to a walk but there's no sign of the creature chasing him."
+    "Lucian嚥了口唾沫，繼續朝前走去，以幾乎可以說是散步的速度，但那個怪物並沒有追上來的跡象。"
+
+# game/story/Chapter_T3.rpy:6951
+translate Tchinese king_toast_route_LUCIAN_c63bc414:
+
+    # L annoyed "This is so unbecoming... Come on... Toughen up Lucian, what if the others in the office hear about this?"
+    L annoyed "“這成何體統...加油...堅強點Lucian，如果被同事們知道這件事，他們會怎麼看我？”"
+
+# game/story/Chapter_T3.rpy:6952
+translate Tchinese king_toast_route_LUCIAN_c76c3cc0:
+
+    # "He tries to reassure himself with his tail tucked between his legs. He’s too panicked to notice the door creaking open next to him."
+    "他夾著尾巴，試圖讓自己安心。但他太害怕了，連旁邊的門緩慢打開都沒注意到。"
+
+# game/story/Chapter_T3.rpy:6959
+translate Tchinese king_toast_route_LUCIAN_06b25799:
+
+    # "He feels the unmistakable sensation of a bony hand grabbing his ankle."
+    "他感到一隻瘦骨嶙峋的手抓住了他的腳踝。"
+
+# game/story/Chapter_T3.rpy:6960
+translate Tchinese king_toast_route_LUCIAN_d69b8e3c:
+
+    # "Without looking down, Lucian pleads to himself in a soft voice."
+    "Lucian沒有低下頭，只是輕聲祈禱。"
+
+# game/story/Chapter_T3.rpy:6961
+translate Tchinese king_toast_route_LUCIAN_c56dbbf0:
+
+    # L "No...please... no."
+    L "“不要...求求你...別這樣。”"
+
+# game/story/Chapter_T3.rpy:6968
+translate Tchinese king_toast_route_LUCIAN_af2461cf:
+
+    # "Now drenched in sweat, the angel forces himself to look down and see..."
+    "滿頭大汗的天使強迫自己低頭去看..."
+
+# game/story/Chapter_T3.rpy:6972
+translate Tchinese king_toast_route_LUCIAN_826fa015:
+
+    # "The male receptionist sprawled on the ground, his head dripping with blood. Patches of fur have fallen off of him, and his face visibly dry and shrivelled."
+    "男接待員匍匐在地，頭部鮮血淋漓，身上的毛脫落了一片又一片，臉又乾又癟。"
+
+# game/story/Chapter_T3.rpy:6975
+translate Tchinese king_toast_route_LUCIAN_178bb321:
+
+    # L "AAAAAAAH!"
+    L "“呀——————！”"
+
+# game/story/Chapter_T3.rpy:6983
+translate Tchinese king_toast_route_LUCIAN_d87677d2:
+
+    # "The creature lets out a guttural cry."
+    "這個生物發出淒厲的叫聲。"
+
+# game/story/Chapter_T3.rpy:6991
+translate Tchinese king_toast_route_LUCIAN_4f4da78f:
+
+    # "However, it would not release Lucian. In his panicked state, Lucian instinctively kicks the person in the stomach over and over again until they are sent flying away from him."
+    "它牢牢抓住Lucian不放，驚慌失措的Lucian本能地、一遍又一遍地踢那個人的肚子，直至將其踹飛。"
+
+# game/story/Chapter_T3.rpy:7000
+translate Tchinese king_toast_route_LUCIAN_af62b6b6:
+
+    # "The angel continues to howl deliriously, running further into the maze of hallways. He turns from one corner to another, never slowing down."
+    "天使瘋狂地嚎叫著，跑進迷宮般的走廊。他從一個角落轉到另一個角落，一步也不敢停。"
+
+# game/story/Chapter_T3.rpy:7008
+translate Tchinese king_toast_route_LUCIAN_0e6853e9:
+
+    # "His mind—awash with fear—has no clue where he is going. He only cares about finding Morris and getting the heavens out of this hotel."
+    "他的頭腦被恐懼所支配，開始漫無目的的遊蕩。他只想找到Morris，然後離開這間酒店。"
+
+# game/story/Chapter_T3.rpy:7012
+translate Tchinese king_toast_route_LUCIAN_80f2b972:
+
+    # "He reaches the end of the hallway. Before him is a wide window glowing an ethereal green."
+    "他來到走廊盡頭，在他面前的是一扇巨大的、泛著綠光的窗戶。"
+
+# game/story/Chapter_T3.rpy:7014
+translate Tchinese king_toast_route_LUCIAN_a437f3d7:
+
+    # "He contemplates jumping out of it when suddenly the receptionist appears in front of him."
+    "他正打算跳窗，接待員突然出現在他面前。"
+
+# game/story/Chapter_T3.rpy:7015
+translate Tchinese king_toast_route_LUCIAN_66cfb9dc:
+
+    # "The wolf’s face appears more disfigured from before. Lucian’s earlier assault has left them with large black bruisers covering their face."
+    "這隻狼比之前還要難看，Lucian的踢擊給它的臉增添了大片黑色的淤青。"
+
+# game/story/Chapter_T3.rpy:7018
+translate Tchinese king_toast_route_LUCIAN_49b66835:
+
+    # Kouya "Mr Lucian, you look a little ill."
+    Kouya "“Lucian先生，您的臉色看起來不太好。”"
+
+# game/story/Chapter_T3.rpy:7019
+translate Tchinese king_toast_route_LUCIAN_0c79ec61:
+
+    # L angry "Look in the mirror, mongrel. Stay back, I don’t know if you’re working with the entity, or if you’re under its control, but I won’t hesitate to use this!"
+    L angry "“照照鏡子吧，狗雜種。退後，雖然不清楚你是跟那個實體合作，還是被他控制了，但我不會手下留情的！”"
+
+# game/story/Chapter_T3.rpy:7026
+translate Tchinese king_toast_route_LUCIAN_270d6d70:
+
+    # "He conjures a feather in his hand and points at the wolf like he would a dagger."
+    "他變出一根羽毛，像匕首一樣指著狼。"
+
+# game/story/Chapter_T3.rpy:7027
+translate Tchinese king_toast_route_LUCIAN_e4ce7195:
+
+    # Kouya "Mr. Lucian, I work for The End Hotel. The hotel just wants you to stay, be happy. Let it take your troubles away."
+    Kouya "“我是末日酒店的員工，Lucian先生。酒店只想讓您住得開心，帶走你的煩惱。”"
+
+# game/story/Chapter_T3.rpy:7028
+translate Tchinese king_toast_route_LUCIAN_2d748c62:
+
+    # L "I’m sorry but I rather enjoy keeping my lifeforce. What did you do to [name], and Morris... and maybe even Toast?"
+    L "“不好意思，但我不喜歡分享我的生命力。你對[name]和Morris...甚至Toast都做了什麼？”"
+
+# game/story/Chapter_T3.rpy:7030
+translate Tchinese king_toast_route_LUCIAN_9f2d2967:
+
+    # Kouya "Mr. Toast and Mr. [name] are in the hands of our beloved hotel, but do not fret, I have Mr. Morris right here."
+    Kouya "“Toast先生和[name]先生還在我們摯愛的酒店中，不過您不用擔心，Morris先生就在這裡呢。”"
+
+# game/story/Chapter_T3.rpy:7031
+translate Tchinese king_toast_route_LUCIAN_3a6347b3:
+
+    # Kouya "We bumped into each other, isn’t that right, Mr. Morris?"
+    Kouya "“我們偶然遇見了，對吧，Morris先生？”"
+
+# game/story/Chapter_T3.rpy:7033
+translate Tchinese king_toast_route_LUCIAN_e8c6f9eb:
+
+    # "Morris steps out behind the receptionist, but his back is turned to the angel."
+    "Morris出現在了接待員身後，但卻背對著天使。"
+
+# game/story/Chapter_T3.rpy:7034
+translate Tchinese king_toast_route_LUCIAN_3ce4a5d0:
+
+    # Kouya "Won’t you come here and greet your friend, Mr. Lucian?"
+    Kouya "“您不來和您的朋友打個招呼嗎，Lucian先生？”"
+
+# game/story/Chapter_T3.rpy:7035
+translate Tchinese king_toast_route_LUCIAN_3aba8080:
+
+    # "Sensing danger Lucian shakes his head."
+    "察覺到危險，Lucian本能地搖了搖頭。"
+
+# game/story/Chapter_T3.rpy:7037
+translate Tchinese king_toast_route_LUCIAN_00b1bee6:
+
+    # L "You expect me to fall for a cheap trick? That can’t be him, turn around!"
+    L "“你以為我會上當嗎？那不可能是他，轉過身來！”"
+
+# game/story/Chapter_T3.rpy:7038
+translate Tchinese king_toast_route_LUCIAN_f54ee49d:
+
+    # "Morris doesn’t move."
+    "Morris一動不動。"
+
+# game/story/Chapter_T3.rpy:7039
+translate Tchinese king_toast_route_LUCIAN_55885ce9:
+
+    # L "I said turn around!"
+    L "“我叫你轉過來！”"
+
+# game/story/Chapter_T3.rpy:7040
+translate Tchinese king_toast_route_LUCIAN_cc7882ef:
+
+    # Kouya "Go on, turn around."
+    Kouya "“就照他說的做好了。”"
+
+# game/story/Chapter_T3.rpy:7047
+translate Tchinese king_toast_route_LUCIAN_9dbe272e:
+
+    # "The thing called Morris turns."
+    "那個名為Morris的東西轉了個身。"
+
+# game/story/Chapter_T3.rpy:7058
+translate Tchinese king_toast_route_LUCIAN_4bddef2c:
+
+    # "Lucian’s scream echoes across the globe, touching the hearts of the young and old. On that day, the world felt a resounding message in their heart, \"Ah, I want to go home.\""
+    "Lucian的尖叫聲響徹整個地球，烙印在老老少少人們的心中。那一天，全世界都感受到了一個響亮的資訊：“啊，我想回家。”"
+
+# game/story/Chapter_T3.rpy:7065
+translate Tchinese king_toast_route_LUCIAN_bcac34cf:
+
+    # "Back to The End Hotel, overcome with great fear, Lucian accidentally taps into the hidden authority he holds as an angel."
+    "視角回到末日酒店，因為極度的恐懼，Lucian意外動用了自己作為天使所擁有的隱藏力量。"
+
+# game/story/Chapter_T3.rpy:7066
+translate Tchinese king_toast_route_LUCIAN_f613e289:
+
+    # "In a state of semi-consciousness, and fueled by his will to live, he lets loose all the magic he wields in a mighty beam."
+    "失去一半意識的他在求生意志的驅使下，將畢生的魔力凝聚成一道巨大的光束，並釋放了出去。"
+
+# game/story/Chapter_T3.rpy:7068
+translate Tchinese king_toast_route_LUCIAN_cae0d79d:
+
+    # Kouya "What? Impossib—"
+    Kouya "“什麼，這不可能-”"
+
+# game/story/Chapter_T3.rpy:7099
+translate Tchinese king_toast_route_LUCIAN_c78cc3fd:
+
+    # "The blast of overwhelming power consumes the possessed receptionist and the faceless creature."
+    "壓倒性的力量吞沒了被附身的接待員和無臉生物。"
+
+# game/story/Chapter_T3.rpy:7110
+translate Tchinese king_toast_route_LUCIAN_9ab92915:
+
+    # "The sheer force of the blast catapults the now cleansed mortal and a sizable chunk of the wall out of the window and into the pool below."
+    "巨大的衝擊波將已被淨化的凡人跟一大塊牆壁吹飛出去，落入下方的水池。"
+
+# game/story/Chapter_T3.rpy:7112
+translate Tchinese king_toast_route_LUCIAN_14ec6c9e:
+
+    # "Lucian falls to his knees, panting for air."
+    "Lucian雙膝跪地，大口喘著粗氣。"
+
+# game/story/Chapter_T3.rpy:7114
+translate Tchinese king_toast_route_LUCIAN_32ffde42:
+
+    # "Every muscle in his body burns from exhaustion."
+    "他身上的每塊肌肉都因疲憊而灼痛。"
+
+# game/story/Chapter_T3.rpy:7125
+translate Tchinese king_toast_route_LUCIAN_889b458e:
+
+    # "As he struggles to get up, a door behind him slams open. The other receptionist flies out and hits the door across the hallway."
+    "就在他掙扎著站起來的時候，身後的門猛地打開了。另一個接待員從裡面飛了出來，直勾勾的撞到走廊對面的門上。"
+
+# game/story/Chapter_T3.rpy:7134
+translate Tchinese king_toast_route_LUCIAN_ef4dec49:
+
+    # "Morris steps out covered in hickies and bite marks all over his neck."
+    "Morris回來了，帶著滿身的吻痕和滿脖子的咬痕。"
+
+# game/story/Chapter_T3.rpy:7139
+translate Tchinese king_toast_route_LUCIAN_63b44656:
+
+    # "He looks wearily at the angel."
+    "他疲憊地看著天使。"
+
+# game/story/Chapter_T3.rpy:7142
+translate Tchinese king_toast_route_LUCIAN_4ee41e8b:
+
+    # M "Hey."
+    M "“嗨。”"
+
+# game/story/Chapter_T3.rpy:7143
+translate Tchinese king_toast_route_LUCIAN_26187522:
+
+    # "Lucian crawls to face the boar."
+    "Lucian爬到野豬身前。"
+
+# game/story/Chapter_T3.rpy:7144
+translate Tchinese king_toast_route_LUCIAN_71c9bd41:
+
+    # L neutral "Where in the blue blazes have you been?"
+    L neutral "“你到底去哪裡了？”"
+
+# game/story/Chapter_T3.rpy:7145
+translate Tchinese king_toast_route_LUCIAN_eeef9a68:
+
+    # "Morris directs Lucian' towards the unconscious woman on the floor."
+    "Morris把地上昏迷的女人指給Lucian看。"
+
+# game/story/Chapter_T3.rpy:7146
+translate Tchinese king_toast_route_LUCIAN_d16b7248:
+
+    # M nervous "She grabbed me in the dark, been trying to off me in the room."
+    M nervous "“她趁黑抓住了我，想把我關在房間裡。”"
+
+# game/story/Chapter_T3.rpy:7147
+translate Tchinese king_toast_route_LUCIAN_9b2ae951:
+
+    # L "Look at yourself, I say she tried to do more than that!"
+    L "“瞧你那副樣子，我敢說她想做的遠不止這些。”"
+
+# game/story/Chapter_T3.rpy:7148
+translate Tchinese king_toast_route_LUCIAN_137807c2:
+
+    # M serious "Eh, she was barking up the wrong tree."
+    M serious "“那她找錯對象了。”"
+
+# game/story/Chapter_T3.rpy:7157
+translate Tchinese king_toast_route_LUCIAN_c8b4b01e:
+
+    # "Morris extends a hand to the angel and helps him up."
+    "Morris伸手把天使扶了起來。"
+
+# game/story/Chapter_T3.rpy:7167
+translate Tchinese king_toast_route_LUCIAN_7611bd2f:
+
+    # "The boar pulls the flame compass out of his pocket once more."
+    "野豬再次從口袋裡掏出火焰羅盤。"
+
+# game/story/Chapter_T3.rpy:7171
+translate Tchinese king_toast_route_LUCIAN_c12dcb19:
+
+    # L sad "Wait, did you see [name]? I haven’t found him."
+    L sad "“等一下，你有看到[name]嗎？我還是沒找到他。”"
+
+# game/story/Chapter_T3.rpy:7172
+translate Tchinese king_toast_route_LUCIAN_8c43598a:
+
+    # "Morris shakes his head."
+    "Morris搖搖頭。"
+
+# game/story/Chapter_T3.rpy:7173
+translate Tchinese king_toast_route_LUCIAN_b07f54d1:
+
+    # M neutral "But there’s hope they’ll make it here. Plus if we destroy the ghost, we may be able to get [name] back."
+    M neutral "“不過他們還是有希望來到這裡的。此外，如果我們消滅那個幽靈，也許就能尋回[name]。”"
+
+# game/story/Chapter_T3.rpy:7174
+translate Tchinese king_toast_route_LUCIAN_cc00b46e:
+
+    # L shocked "Well about that… I’ll have to let you take over from here as I appear to have used up all my magic."
+    L shocked "“好吧...接下來就靠你了，因為我好像用光了所有的魔法。”"
+
+# game/story/Chapter_T3.rpy:7175
+translate Tchinese king_toast_route_LUCIAN_3e1cb8ee:
+
+    # M annoyed "Lucian... "
+    M annoyed "“Lucian...”"
+
+# game/story/Chapter_T3.rpy:7176
+translate Tchinese king_toast_route_LUCIAN_d2213756:
+
+    # "The boar shakes his head in disbelief."
+    "野豬難以置信地搖搖頭。"
+
+# game/story/Chapter_T3.rpy:7177
+translate Tchinese king_toast_route_LUCIAN_9dab07cb:
+
+    # L sad "No, you don't get to judge, I saw things!"
+    L sad "“沒辦法，太嚇人了！”"
+
+# game/story/Chapter_T3.rpy:7179
+translate Tchinese king_toast_route_LUCIAN_90044959:
+
+    # M "Alright, fine, get behind me."
+    M "“好吧，好吧，跟在我身後。”"
+
+# game/story/Chapter_T3.rpy:7189
+translate Tchinese king_toast_route_LUCIAN_50afa53a:
+
+    # "Morris taps the flame and it enters a room far down the hallway."
+    "Morris輕拍火焰，火焰進入了走廊盡頭的一個房間。"
+
+# game/story/Chapter_T3.rpy:7190
+translate Tchinese king_toast_route_LUCIAN_c0d6a543:
+
+    # "The two cautiously follow in turn."
+    "二人小心翼翼地跟上。"
+
+# game/story/Chapter_T3.rpy:7194
+translate Tchinese king_toast_route_LUCIAN_0e1071a0:
+
+    # "Morris takes a deep breath before opening the door and stepping past its threshold."
+    "Morris深吸一口氣，然後打開門，一腳邁了進去。"
+
+# game/story/Chapter_T3.rpy:7198
+translate Tchinese king_toast_route_LUCIAN_3b687889:
+
+    # "A dense blanket of trees tower over them hauntingly, sending shivers down their spins. There’s an uneasy feeling in the air."
+    "濃密的樹木縈繞在他們頭頂，令人不寒而慄，空氣中瀰漫著不安的氛圍。"
+
+# game/story/Chapter_T3.rpy:7200
+translate Tchinese king_toast_route_LUCIAN_7946b2a2:
+
+    # "Lucian looks back, but the doorway is no longer there."
+    "Lucian回頭看去，但門已經不見了。"
+
+# game/story/Chapter_T3.rpy:7201
+translate Tchinese king_toast_route_LUCIAN_521f617e:
+
+    # "A bestial rumble leads them to a lone tree in the middle of the forest, it stands out as being larger than any other. The flame compass vanishes as it hits the tree's bark."
+    "一陣野獸般的轟隆聲將他們引到森林中央的一棵孤樹前，這棵樹比其他任何一棵樹都要大，火焰羅盤剛一碰到樹皮就消失了。"
+
+# game/story/Chapter_T3.rpy:7202
+translate Tchinese king_toast_route_LUCIAN_bf2f5676:
+
+    # "On its branches are massive cocoons where the skeletal remains of its victims hang like rotten fruits."
+    "受害者的遺骨就像腐爛的水果一樣被巨大的繭掛在枝乾上。"
+
+# game/story/Chapter_T3.rpy:7217
+translate Tchinese king_toast_route_LUCIAN_f6506640:
+
+    # "They observe the bark of the tree, dozens of eyes closing and opening line its surface. Right in the middle of it all lies Toast frozen in space. His pupils are lifeless as green energy surrounds him."
+    "他們觀察了一下樹皮，上面起碼長著數十隻眼睛，時閉時睜。而在這一切的中間，Toast被一種綠色的能量凍結在了空中，兩眼無神。"
+
+# game/story/Chapter_T3.rpy:7220
+translate Tchinese king_toast_route_LUCIAN_8e79f858:
+
+    # "Morris and Lucian gasp."
+    "Morris和Lucian都倒吸了一口氣。”"
+
+# game/story/Chapter_T3.rpy:7221
+translate Tchinese king_toast_route_LUCIAN_4638cab8:
+
+    # L "Look, up there, it's [name]."
+    L "“看上面，是[name]。”"
+
+# game/story/Chapter_T3.rpy:7222
+translate Tchinese king_toast_route_LUCIAN_5ec097fd:
+
+    # "High above the tree, is you. Your head is the only part of you that sticks out of the webbed cocoon."
+    "在樹的高處，是只有頭露在網狀繭外面的你。"
+
+# game/story/Chapter_T3.rpy:7223
+translate Tchinese king_toast_route_LUCIAN_2051e8c1:
+
+    # M "[name]!"
+    M "“[name]！”"
+
+# game/story/Chapter_T3.rpy:7224
+translate Tchinese king_toast_route_LUCIAN_f55980c5:
+
+    # "You do not respond to your friends' cries."
+    "你無法回應朋友們的呼喊。"
+
+# game/story/Chapter_T3.rpy:7225
+translate Tchinese king_toast_route_LUCIAN_e8c27902:
+
+    # L sad "Is he..."
+    L sad "“難道他...”"
+
+# game/story/Chapter_T3.rpy:7226
+translate Tchinese king_toast_route_LUCIAN_443fceff:
+
+    # M "He will be if we don't get him down. You get [name], I'll save Toast!"
+    M "“還來得及。[name]交給你，我去救Toast！”"
+
+# game/story/Chapter_T3.rpy:7227
+translate Tchinese king_toast_route_LUCIAN_e8c28e97:
+
+    # L angry "On it."
+    L angry "“知道了。”"
+
+# game/story/Chapter_T3.rpy:7237
+translate Tchinese king_toast_route_LUCIAN_d0ec1184:
+
+    # "In his excitement Lucian leaps into the air but is unable to summon his wings and crashes down."
+    "情緒激動的Lucian跳到空中，卻無法召喚自己的翅膀，墜落下來。"
+
+# game/story/Chapter_T3.rpy:7239
+translate Tchinese king_toast_route_LUCIAN_ed191591:
+
+    # M annoyed "Ugh..."
+    M annoyed "“唉...”"
+
+# game/story/Chapter_T3.rpy:7240
+translate Tchinese king_toast_route_LUCIAN_647dcf96:
+
+    # L "I'm on it in five minutes!"
+    L "“給我五分鐘時間！”"
+
+# game/story/Chapter_T3.rpy:7241
+translate Tchinese king_toast_route_LUCIAN_b052a15b:
+
+    # M nervous "Hang in there, [name], we're coming!"
+    M nervous "“堅持住，[name]，我們馬上過去！”"
 

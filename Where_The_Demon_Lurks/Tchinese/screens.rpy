@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-02-15 21:54
+﻿# TODO: Translation updated at 2023-02-15 21:54
 
 translate Tchinese strings:
 
@@ -188,5 +188,56 @@ translate Tchinese strings:
 
     # game/screens.rpy:1330
     old "Menu"
-    new "主選單"
+    new "主選單"# TODO: Translation updated at 2023-11-01 18:42
+
+translate Tchinese strings:
+
+    # game/screens.rpy:594
+    old "ABOUT"
+    new "{b}關於{/b}"
+
+    # game/screens.rpy:601
+    old "{font=font/Itim-Regular.ttf}Version{/font} [config.version!t]\n"
+    new "{font=font/Itim-Regular.ttf}Version{/font} [config.version!t]\n"
+
+    # game/screens.rpy:635
+    old "SAVE"
+    new "{b}保存{/b}"
+
+    # game/screens.rpy:642
+    old "LOAD"
+    new "{b}讀取{/b}"
+
+    # game/screens.rpy:774
+    old "PREFERENCES"
+    new "{b}設置{/b}"
+
+    # game/screens.rpy:803
+    old "{font=font/Itim-Regular.ttf}Default"
+    new "{font=font/Itim-Regular.ttf}Default"
+
+    # game/screens.rpy:817
+    old "{#DiscordPreference}On"
+    new "開啟"
+
+    # game/screens.rpy:823
+    old "{#DiscordPreference}Off"
+    new "關閉"
+
+    # game/screens.rpy:827
+    old "Nipples"
+    new "乳頭顯示"
+
+    # game/screens.rpy:828
+    old "{#NipplesPreference}On"
+    new "開啟"
+
+    # game/screens.rpy:829
+    old "{#NipplesPreference}Off"
+    new "關閉"
+
+    # game/screens.rpy:960
+    old "HISTORY"
+    new "{b}歷史{/b}"
+
 

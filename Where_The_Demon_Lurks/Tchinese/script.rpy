@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-03-15 21:27
+﻿# TODO: Translation updated at 2023-03-15 21:27
 
 translate Tchinese strings:
 
@@ -188,5 +188,61 @@ translate Tchinese strings:
 
     # game/script.rpy:222
     old "This visual novel may contain mature/suggestive themes,\nby proceeding forward you agree that you are of appropriate age from your \nrespective country to be exposed to these types of materials."
-    new "本視覺小說可能包含成人/性暗示元素，在閱讀之前，請先確保您已達到所在國家允許閱讀此類內容的法定年齡。"
+    new "本視覺小說可能包含成人/性暗示元素，在閱讀之前，請先確保您已達到所在國家允許閱讀此類內容的法定年齡。"# TODO: Translation updated at 2023-11-01 18:42
+
+# game/script.rpy:277
+translate Tchinese end_of_update_55566b14:
+
+    # "{b}TO BE CONTINUED....{/b}"
+    ""
+
+# game/script.rpy:279
+translate Tchinese end_of_update_267ad187:
+
+    # "Thanks for playing the latest update, if you want to let us know how we’re doing, leave a rating and comment on our itchio page. We want to hear from you!"
+    ""
+
+# game/script.rpy:280
+translate Tchinese end_of_update_2b795aa9:
+
+    # "Where the Demon Lurks is supported by those who sponsor us on Patreon! Consider supporting us so we can make the game bigger and better!"
+    ""
+
+# game/script.rpy:281
+translate Tchinese end_of_update_a196eaa4:
+
+    # "Or you can support us by buying our merch, available from the fine folks at Pawprint Press."
+    ""
+
+# game/script.rpy:282
+translate Tchinese end_of_update_f1200ced:
+
+    # "And if you want to be kept up-to-date on the development, feel free to follow our twitter or join our Discord!"
+    ""
+
+translate Tchinese strings:
+
+    # game/script.rpy:71
+    old "Qora{#speakingName}"
+    new ""
+
+    # game/script.rpy:94
+    old "Uriel{#speakingName}"
+    new ""
+
+    # game/script.rpy:95
+    old "Sariel{#speakingName}"
+    new ""
+
+    # game/script.rpy:97
+    old "Receptionists"
+    new ""
+
+    # game/script.rpy:98
+    old "Kouya"
+    new ""
+
+    # game/script.rpy:99
+    old "Soya"
+    new ""
 

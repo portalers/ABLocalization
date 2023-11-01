@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2023-03-15 21:27
-
-# game/story/Chapter_L3.rpy:17
+﻿# game/story/Chapter_L3.rpy:17
 translate Tchinese chapter_L3_5287a94c:
 
     # "The evening sun paints the sky a warm orange hue. Though the peaceful atmosphere would be welcoming for anyone after a day of hard work, you still have things to do."
@@ -5151,3 +5149,3349 @@ translate Tchinese chapter_L3_distraction_db82f877:
 
     # "It bounces again and again. Slamming against the door and crashing into some rubbish bins outside."
     "它一次又一次的反彈，最後猛地撞開門，還打翻了外面的垃圾桶。"
+
+# TODO: Translation updated at 2023-11-01 18:42
+ 
+# game/story/Chapter_L3.rpy:32
+translate Tchinese chapter_L3_e623a6a0:
+
+    # L @ smirk "I just... thought they were cute."
+    L @ smirk "很可愛...不是嗎？"
+
+# game/story/Chapter_L3.rpy:34
+translate Tchinese chapter_L3_0081d4d6:
+
+    # "The angel turns his attention back to the device and walks on."
+    "天使把注意力轉回電腦上，同時邁開腳步。"
+
+# game/story/Chapter_L3.rpy:42
+translate Tchinese chapter_L3_4affe4c0:
+
+    # L "No... wait–"
+    L "慢著...不太對-"
+
+# game/story/Chapter_L3.rpy:113
+translate Tchinese chapter_L3_7d5b96f0:
+
+    # L sad "Well... Welllll... But the H.A.L.O."
+    L sad "呃...呃——...可是H.A.L.O說..."
+
+# game/story/Chapter_L3.rpy:138
+translate Tchinese chapter_L3_a0e8323a:
+
+    # p annoyed "Dude... it’s obviously not working."
+    p annoyed "...還不是因為這東西不可靠。"
+
+# game/story/Chapter_L3.rpy:164
+translate Tchinese chapter_L3_d0ef2a50:
+
+    # p_mono question "A gate that can break through the realm of the living? That would’ve taken up tons of soul energy... Not to mention the ritual would have required a lot of space."
+    p_mono question "一扇可以突破生者領域的大門？那勢必要消耗巨大的靈魂能量...用來舉行儀式的場地也必須足夠寬闊。"
+
+# game/story/Chapter_L3.rpy:166
+translate Tchinese chapter_L3_ba980183:
+
+    # p_mono "So if I want to find that... I can... What can I do?"
+    p_mono "綜合這兩點來看...到底...到底在哪？"
+
+# game/story/Chapter_L3.rpy:168
+translate Tchinese chapter_L3_c8ea8a4a:
+
+    # p "..."
+    p "..."
+
+# game/story/Chapter_L3.rpy:200
+translate Tchinese chapter_L3_18fa7277:
+
+    # p question "Hmm... just chicken is five dollars already. I think, no."
+    p question "唔...光雞肉飯就要五美元，還是算了。"
+
+# game/story/Chapter_L3.rpy:236
+translate Tchinese chapter_L3_5eb06bb1:
+
+    # p neutral talk "So..."
+    p neutral talk "所以..."
+
+# game/story/Chapter_L3.rpy:266
+translate Tchinese chapter_L3_b817966e:
+
+    # Vendor "Personally... I believe it... I walked that street a while back, I swear I heard... my–"
+    Vendor "要我說...我反正是信的...我前陣子剛走過那條街，親耳聽到-"
+
+# game/story/Chapter_L3.rpy:350
+translate Tchinese chapter_L3_617c58fa:
+
+    # p "Here I go... All alone..." (cb_no_talk=True)
+    p "我去了...一個人去了..." (cb_no_talk=True)
+
+# game/story/Chapter_L3.rpy:352
+translate Tchinese chapter_L3_62410610:
+
+    # L "...." (cb_no_talk=True)
+    L "..." (cb_no_talk=True)
+
+# game/story/Chapter_L3.rpy:400
+translate Tchinese chapter_L3_arcade2_f18aa4a1:
+
+    # p talk "It's not a paint job. It's a warning gangs use. They toss red paint on someone's property as a sign that they need to pay up or else..."
+    p talk "和裝修沒關係，這是來自黑幫的警告。他們把紅色油漆塗在別人的財產上，示意他們給錢，否則..."
+
+# game/story/Chapter_L3.rpy:406
+translate Tchinese chapter_L3_arcade2_ebdf7b69:
+
+    # L "Money... The greed of mortals sits wrongly with me."
+    L "錢...凡人的貪婪讓我感到噁心。"
+
+# game/story/Chapter_L3.rpy:415
+translate Tchinese chapter_L3_arcade2_2d93bd32:
+
+    # L sad "I just... I hate seeing Lord Gary working himself to the bone for them, when in life, they rather give their soul to money."
+    L sad "看到Gary大人就是為了這種...為了金錢寧願出賣靈魂的傢伙而拚命工作，我實在很痛心。"
+
+# game/story/Chapter_L3.rpy:431
+translate Tchinese chapter_L3_arcade2_44cfee85:
+
+    # L neutral talk "It's faint... almost ghost-like."
+    L neutral talk "氣息很微弱...似乎是幽靈。"
+
+# game/story/Chapter_L3.rpy:558
+translate Tchinese chapter_L3_arcade2_f8671601:
+
+    # "A soft thud followed by a click of a tongue alerts you. You turn your flashlight to the source, but all you find is Lucian rubbing his snout."
+    "一聲輕響，接著是咂舌聲。你把手電筒對準聲音的源頭，希望能遇見這裡的住人，卻只看到正在揉鼻子的Lucian。"
+
+# game/story/Chapter_L3.rpy:592
+translate Tchinese chapter_L3_arcade2_fedac2d9:
+
+    # p sad "Nothing... Damn it."
+    p sad "什麼也沒有...見鬼。"
+
+# game/story/Chapter_L3.rpy:624
+translate Tchinese chapter_L3_arcade2_51a35bd8:
+
+    # p "Ok, hmm..."
+    p "好的，嗯..."
+
+# game/story/Chapter_L3.rpy:633
+translate Tchinese chapter_L3_arcade2_3ef66cd4:
+
+    # L talk "Right, let me just..."
+    L talk "既然如此..."
+
+# game/story/Chapter_L3.rpy:641
+translate Tchinese chapter_L3_arcade2_233cda3c:
+
+    # p shocked "Woah, these markings..."
+    p shocked "哇，這些花紋..."
+
+# game/story/Chapter_L3.rpy:647
+translate Tchinese chapter_L3_arcade2_edb3eb4f:
+
+    # L neutral talk "Maybe..."
+    L neutral talk "也許..."
+
+# game/story/Chapter_L3.rpy:659
+translate Tchinese chapter_L3_arcade2_54c04574:
+
+    # p shocked "This is it..."
+    p shocked "找到了..."
+
+# game/story/Chapter_L3.rpy:749
+translate Tchinese chapter_L3_arcade2_c32c456d:
+
+    # Person_B "Shit man... We shouldn’t have gone for that cup of coffee."
+    Person_B "見鬼...咱們不該出去喝咖啡的。"
+
+# game/story/Chapter_L3.rpy:799
+translate Tchinese chapter_L3_arcade2_b9262620:
+
+    # Person_B "Hey, you smell that? Smells like... a soul?"
+    Person_B "嘿，你聞到了嗎？好像是...靈魂的氣味？"
+
+# game/story/Chapter_L3.rpy:832
+translate Tchinese chapter_L3_arcade2_294e9d2a:
+
+    # "But... one of those goons said they could smell a soul. A normal person wouldn’t know that."
+    "然而...其中一個打手說他聞見了靈魂的氣味。由此可見，對方絕非凡人。"
+
+# game/story/Chapter_L3.rpy:1019
+translate Tchinese chapter_L3_apartment_810a2692:
+
+    # p "Slow down... Hah.... I think... we’re in the clear..."
+    p "慢一點...呼...我想...我們已經安全了。"
+
+# game/story/Chapter_L3.rpy:1026
+translate Tchinese chapter_L3_apartment_2fa1a458:
+
+    # p neutral talk "Hah... You ok?"
+    p neutral talk "呼...你沒事吧？"
+
+# game/story/Chapter_L3.rpy:1034
+translate Tchinese chapter_L3_apartment_51893acd:
+
+    # L talk "Perhaps..."
+    L talk "也許吧..."
+
+# game/story/Chapter_L3.rpy:1040
+translate Tchinese chapter_L3_apartment_6599d83b:
+
+    # L annoyed "Yes, they were able to detect souls..."
+    L annoyed "是的，他們能夠探測到靈魂..."
+
+# game/story/Chapter_L3.rpy:1074
+translate Tchinese chapter_L3_apartment_b471feb4:
+
+    # p_mono sad "This guy..."
+    p_mono sad "你..."
+
+# game/story/Chapter_L3.rpy:1100
+translate Tchinese chapter_L3_apartment_103c54e2:
+
+    # "You reheat and set down the chicken rice on the table before digging in."
+    "你把重新熱過的雞肉飯放在桌子上，準備開動。"
+
+# game/story/Chapter_L3.rpy:1128
+translate Tchinese chapter_L3_apartment_6569b674:
+
+    # p_mono "Maybe this isn’t my place to say anything..."
+    p_mono "也許我沒有資格說這些..."
+
+# game/story/Chapter_L3.rpy:1132
+translate Tchinese chapter_L3_apartment_686d8eb9:
+
+    # p "Lucian..."
+    p "Lucian..."
+
+# game/story/Chapter_L3.rpy:1154
+translate Tchinese chapter_L3_apartment_340b4ee1:
+
+    # L annoyed "Barely! Today was just... {w=1.0}{nw}"
+    L annoyed "差點就有事了！我...{w=1.0}{nw}"
+
+# game/story/Chapter_L3.rpy:1167
+translate Tchinese chapter_L3_apartment_ecb3a4af:
+
+    # L angry "Then what? Without information on those keyholes, we’re as good as stuck."
+    L angry "那又如何？得不到鑰匙孔的資訊，我們也只能止步於此。"
+
+# game/story/Chapter_L3.rpy:1181
+translate Tchinese chapter_L3_apartment_df9f6d84:
+
+    # L sad "No... I can’t mess up... Not angels. Especially those that are worth anything to God."
+    L sad "不...我不能犯錯...我可是天使啊，還是上帝器重的天使。"
+
+# game/story/Chapter_L3.rpy:1185
+translate Tchinese chapter_L3_apartment_f3aa57f5:
+
+    # p "I... I know how much it hurts to make a mistake. Heck, isn’t that why you’re here? Cause I made so many already?"
+    p "我...我知道犯錯誤的滋味有多難受，但這不就是你來這裡的原因嗎？因為我犯下了太多的錯？"
+
+# game/story/Chapter_L3.rpy:1226
+translate Tchinese chapter_L3_apartment_df4b95e4:
+
+    # T "Ah... You guys’ are done already?"
+    T "啊...你們說完了？"
+
+# game/story/Chapter_L3.rpy:1281
+translate Tchinese chapter_L3_apartment_c90a9dcd:
+
+    # p nervous "Uhh... I mean, I was... uhh... Ok? {w=1}{nw}"
+    p nervous "呃...這，我...唔...好吧？{w=1}{nw}"
+
+# game/story/Chapter_L3.rpy:1318
+translate Tchinese chapter_L3_apartment_8db6fd59:
+
+    # T shocked "Wait... Shit, I have an appointment with Archon! I completely forgot the time! Aight, catch you guys later!"
+    T shocked "更想做的...淦，我得去見Archon！忘得一乾二淨了！咱們待會見！"
+
+# game/story/Chapter_L3.rpy:1394
+translate Tchinese chapter_L3_bed_60ca9158:
+
+    # L "It’s... adequate."
+    L "還...可以。"
+
+# game/story/Chapter_L3.rpy:1414
+translate Tchinese chapter_L3_bed_d43bb4e9:
+
+    # L "Interesting..."
+    L "有趣..."
+
+# game/story/Chapter_L3.rpy:1442
+translate Tchinese chapter_L3_bed_9993b94e:
+
+    # L "..."
+    L "..."
+
+# game/story/Chapter_L3.rpy:1465
+translate Tchinese chapter_L3_bed_c8ea8a4a:
+
+    # p "..."
+    p "..."
+
+# game/story/Chapter_L3.rpy:1467
+translate Tchinese chapter_L3_bed_2309e621:
+
+    # L "I’m sorry... that was uncalled for."
+    L "對不起...是我失言了。"
+
+# game/story/Chapter_L3.rpy:1482
+translate Tchinese chapter_L3_bed_78e9119c:
+
+    # L sad "Ok..."
+    L sad "好吧..."
+
+# game/story/Chapter_L3.rpy:1623
+translate Tchinese chapter_L3_morris_bf20d4d5:
+
+    # p_mono sad "I really could have handled last night better..."
+    p_mono sad "我昨晚實在是太失職了..."
+
+# game/story/Chapter_L3.rpy:1627
+translate Tchinese chapter_L3_morris_0d61e7aa:
+
+    # "You begin to focus on the pavement beneath your feet, mind leaping from one thought to another..."
+    "你看著腳下的人行道，思緒翩躚..."
+
+# game/story/Chapter_L3.rpy:1715
+translate Tchinese chapter_L3_morris2_98b1a828:
+
+    # p nervous "Oh... sorry."
+    p nervous "啊...抱歉。"
+
+# game/story/Chapter_L3.rpy:1723
+translate Tchinese chapter_L3_morris2_f5f2ec00:
+
+    # p_mono neutral "I wonder... Is this the same thing?"
+    p_mono neutral "這件事...也是嗎？"
+
+# game/story/Chapter_L3.rpy:1742
+translate Tchinese chapter_L3_morris2_6c98f6d6:
+
+    # M "Give me a minute, I’m just working on recharging this watch... and no, it’s not working."
+    M "等我一分鐘，我在給表充電...唉，果然不行啊。"
+
+# game/story/Chapter_L3.rpy:1779
+translate Tchinese chapter_L3_morris2_877fd830:
+
+    # p "I need help with saving King. He was... kidnapped by a demon that attacked the store."
+    p "我需要救出King。他被...襲擊便利商店的惡魔綁架了。"
+
+# game/story/Chapter_L3.rpy:1796
+translate Tchinese chapter_L3_morris2_37b066f1:
+
+    # p "Because..."
+    p "因為..."
+
+# game/story/Chapter_L3.rpy:1832
+translate Tchinese chapter_L3_morris2_8f9b5bb6:
+
+    # p_nt "He is a.... Holy person from the same city I hailed from."
+    p_nt "他是...和我來自同一個城市的聖徒。"
+
+# game/story/Chapter_L3.rpy:1836
+translate Tchinese chapter_L3_morris2_6fbeb6c3:
+
+    # p "Umm... Ummm..."
+    p "呃...呃...."
+
+# game/story/Chapter_L3.rpy:1849
+translate Tchinese chapter_L3_morris2_d2bd9b0c:
+
+    # p "Pen...ink...tray...son?"
+    p "筆...墨...紙...硯？"
+
+# game/story/Chapter_L3.rpy:2007
+translate Tchinese chapter_L3_morris2_a2cdc4fe:
+
+    # p question "Yeah, well you're naive, an—and... you’re too cocky!"
+    p question "是啊，你這個天真，又-又...自負的傢伙！"
+
+# game/story/Chapter_L3.rpy:2198
+translate Tchinese chapter_L3_gin_60daf767:
+
+    # L "Maybe... but don’t you think there is something weird about his appearance?"
+    L "可是...你不覺得他哪裡看起來怪怪的？"
+
+# game/story/Chapter_L3.rpy:2342
+translate Tchinese chapter_L3_gin_f8cf8c28:
+
+    # "Lucian counters with a kick to the snake’s face. Gin takes the full brunt of the hit, toppling back but stopping his fall with his tail and bouncing back up again."
+    "Lucian踢向蛇的臉，Gin結結實實的吃下了這一擊，踉蹌地朝地面跌去，不過還是用尾巴穩住了身形，接著一躍而起。"
+
+# game/story/Chapter_L3.rpy:2512
+translate Tchinese chapter_L3_gin_bd0f1e55:
+
+    # M serious "..."
+    M serious "..."
+
+# game/story/Chapter_L3.rpy:2551
+translate Tchinese chapter_L3_gin_0dbedf39:
+
+    # p sad "But..."
+    p sad "可是..."
+
+# game/story/Chapter_L3.rpy:2559
+translate Tchinese chapter_L3_gin_0b96add2:
+
+    # p @ sad "Alright... Help us... and it’s a deal."
+    p @ sad "一言為定...成交。"
+
+# game/story/Chapter_L3.rpy:2565
+translate Tchinese chapter_L3_gin_c780fdb4:
+
+    # p @ angry "We got to lock him away or finish him off. They’re a Mythical Creature, they’re dangerous!"
+    p @ angry "關起來或者幹掉，他是神話中的怪物，非常危險！"
+
+# game/story/Chapter_L3.rpy:2620
+translate Tchinese chapter_L3_gin_7c1b4873:
+
+    # L_nt "We should give it a try. Mythical Creature or not, we don’t have any other way around this. Unless, Morris, do you know how to get to the Underworld?"
+    L_nt "值得一試。不論他的本體是什麼，我們真的沒有太多選擇了。除非...你知道怎麼去冥界嗎，Morris？"
+
+# game/story/Chapter_L3.rpy:2629
+translate Tchinese chapter_L3_gin_18f40422:
+
+    # L_nt "Also, [name], as you’ve advised me, lay off on the whole “Mythical Creature” term. Be nice."
+    L_nt "此外，[name]，就像你建議我的那樣，不要再用‘神話生物’這個詞了。友善一點。"
+
+# game/story/Chapter_L3.rpy:2658
+translate Tchinese chapter_L3_gin_c760e60f:
+
+    # M "In 3...2..."
+    M "3...2..."
+
+# game/story/Chapter_L3.rpy:2672
+translate Tchinese chapter_L3_gin_f1b53a07:
+
+    # Gin "Morris... You bastard... you dare to freeze me?"
+    Gin "Morris...你這個混蛋...你竟敢凍住我？"
+
+# game/story/Chapter_L3.rpy:2676
+translate Tchinese chapter_L3_gin_238628c6:
+
+    # p nervous "Umm, sorry, this might be a bad time, but I kinda... broke this."
+    p nervous "呃，對不起，雖然可能不是時候，但我把...這個弄斷了。"
+
+# game/story/Chapter_L3.rpy:2698
+translate Tchinese chapter_L3_gin_71177bbf:
+
+    # M "Yes, they are my very enthusiastic customers, who followed me here... and reminded me I had to get something from you. Sure, there was a rocky introduction, but we can do business, can we not?"
+    M "沒錯，非常狂熱的客戶，一路尾隨我來到這裡...並提醒了我，我還有東西沒買。雖然鬧出一點小插曲，但這不影響咱們做生意，對吧？"
+
+# game/story/Chapter_L3.rpy:2795
+translate Tchinese chapter_L3_gin_f5be8819:
+
+    # p "The gang..."
+    p "幫派..."
+
+# game/story/Chapter_L3.rpy:2813
+translate Tchinese chapter_L3_gin_80877d81:
+
+    # L "By get rid... you mean?"
+    L "你是說...除掉？"
+
+# game/story/Chapter_L3.rpy:2891
+translate Tchinese chapter_L3_gin_14a29d68:
+
+    # p @ scared "Wait, when he said demon, did he mean..."
+    p @ scared "等一下，他說的惡魔該不會..."
+
+# game/story/Chapter_L3.rpy:2930
+translate Tchinese chapter_L3_gin_31012677:
+
+    # M @ annoyed "Lucian..."
+    M @ annoyed "Lucian..."
+
+# game/story/Chapter_L3.rpy:2977
+translate Tchinese chapter_L3_gin_4d69318e:
+
+    # p question "Ok..."
+    p question "好吧..."
+
+# game/story/Chapter_L3.rpy:3031
+translate Tchinese post_gin_lucian_26433a6e:
+
+    # "The walk to Six Fans feels like a march through a field of landmines."
+    "你彷彿在雷區中穿行。"
+
+# game/story/Chapter_L3.rpy:3032
+translate Tchinese post_gin_lucian_2c49ff61:
+
+    # "You can't help shake this feeling that every person that passes by you could be a Mythical Creature in disguise."
+    "你忍不住覺得，每一個從你身邊經過的人都有可能是偽裝過的神話生物。"
+
+# game/story/Chapter_L3.rpy:3033
+translate Tchinese post_gin_lucian_63b76104:
+
+    # "Though Lucian and Morris seem untroubled."
+    "不過Lucian和Morris似乎沒有這種煩惱。"
+
+# game/story/Chapter_L3.rpy:3041
+translate Tchinese post_gin_lucian_fe78a64f:
+
+    # "You arrive at Six Fans at about 8 p.m.. Even during dinner the restaurant experiences a drought of customers."
+    "你們於晚上8點左右抵達了六扇門。雖然是在晚餐時間，但餐廳裡的顧客意外的少。"
+
+# game/story/Chapter_L3.rpy:3052
+translate Tchinese post_gin_lucian_2359b2bf:
+
+    # "Morris gestures towards a quiet booth in the corner."
+    "Morris指了指角落裡一個安靜的卡座。"
+
+# game/story/Chapter_L3.rpy:3053
+translate Tchinese post_gin_lucian_f4e5c854:
+
+    # "Lucian and Morris sit across from you."
+    "Lucian和Morris坐在了你的對面。"
+
+# game/story/Chapter_L3.rpy:3065
+translate Tchinese post_gin_lucian_c961e258:
+
+    # "Your eyes dart as you take your seat, unable to brush off the uneasy feeling from earlier."
+    "一入座，你的眼睛就開始亂瞟，你始終無法擺脫之前的不安感。"
+
+# game/story/Chapter_L3.rpy:3069
+translate Tchinese post_gin_lucian_a0b231e1:
+
+    # L grimace "Are you ok? You look kind of jumpy."
+    L grimace "你看起來有點緊張，不要緊嗎？"
+
+# game/story/Chapter_L3.rpy:3073
+translate Tchinese post_gin_lucian_4031c4c6:
+
+    # p "I'm just.... being careful."
+    p "我只是在...警惕。"
+
+# game/story/Chapter_L3.rpy:3076
+translate Tchinese post_gin_lucian_9f3cef54:
+
+    # Wait "Howdy everyone."
+    Wait "大家好呀。"
+
+# game/story/Chapter_L3.rpy:3079
+translate Tchinese post_gin_lucian_fea97623:
+
+    # p shocked "Oh my God!?"
+    p shocked "媽耶？！"
+
+# game/story/Chapter_L3.rpy:3080
+translate Tchinese post_gin_lucian_4df62d78:
+
+    # "It’s the waitress that offered Lucian a job the day before."
+    "是前一天給Lucian介紹工作的女服務員。"
+
+# game/story/Chapter_L3.rpy:3084
+translate Tchinese post_gin_lucian_985a5568:
+
+    # Wait "Sorry to spook y’all. You ok there, Peaches?"
+    Wait "抱歉嚇到你了，你還好吧，小可愛？"
+
+# game/story/Chapter_L3.rpy:3086
+translate Tchinese post_gin_lucian_89b8ed13:
+
+    # "You hold your hand to your chest as you nod in response."
+    "你用手捂著胸，點點頭。"
+
+# game/story/Chapter_L3.rpy:3088
+translate Tchinese post_gin_lucian_efe01342:
+
+    # Wait "Why Lucian, what a coinkydink, I was just about to text you after closing up."
+    Wait "哎呀，這不是Lucian嘛，來得正巧，我剛打算下班後發簡訊通知你呢。"
+
+# game/story/Chapter_L3.rpy:3091
+translate Tchinese post_gin_lucian_3dcca16b:
+
+    # "Lucian raises an eyebrow at her."
+    "Lucian不解地看著她。"
+
+# game/story/Chapter_L3.rpy:3092
+translate Tchinese post_gin_lucian_d9a75333:
+
+    # Wait "You've got the job, Sweetie. You can start tomorrow at 11 a.m. I even have your uniform picked out for you."
+    Wait "你被錄用了，親愛的，明天上午11點就能來上班，我連工作服都幫你選好了。"
+
+# game/story/Chapter_L3.rpy:3093
+translate Tchinese post_gin_lucian_2dd63eaa:
+
+    # Wait "You look about my ex-husband's size, so it should fit nice and snug."
+    Wait "你看起來跟我前夫的體型差不多，應該會很合身的。"
+
+# game/story/Chapter_L3.rpy:3094
+translate Tchinese post_gin_lucian_23f05083:
+
+    # L smirk "An expected result. What about the matter of my pay?"
+    L smirk "意料之中的結果，那我的薪水是多少？"
+
+# game/story/Chapter_L3.rpy:3095
+translate Tchinese post_gin_lucian_a4266ea4:
+
+    # Wait "It'll be the standard two dollars fifty cents an hour for a twelve hour shift."
+    Wait "每小時2美元50美分，12小時一輪班。"
+
+# game/story/Chapter_L3.rpy:3096
+translate Tchinese post_gin_lucian_685cc397:
+
+    # L "I don't expect to be in this town for long, may I request my pay be given at the end of each week?"
+    L "我預計不會在這個城市待太久，可以周結嗎？"
+
+# game/story/Chapter_L3.rpy:3097
+translate Tchinese post_gin_lucian_3db1adcd:
+
+    # Wait "Sure thing, Sweetie. I already have that arrangement set up with our chef."
+    Wait "當然可以，親愛的，我都和咱們的廚師說好了。"
+
+# game/story/Chapter_L3.rpy:3098
+translate Tchinese post_gin_lucian_aed22fad:
+
+    # L "How fortunate, I will be at your service tomorrow."
+    L "完美，我明天就開始工作。"
+
+# game/story/Chapter_L3.rpy:3105
+translate Tchinese post_gin_lucian_6263d910:
+
+    # "The two of them shake on the deal."
+    "交易達成，他們二人握了握手。"
+
+# game/story/Chapter_L3.rpy:3110
+translate Tchinese post_gin_lucian_2fd9e138:
+
+    # M "Lucian, introduce me to your charming young friend. I'm Morris."
+    M "Lucian，不向我介紹一下這位美女嗎？在下是Morris。"
+
+# game/story/Chapter_L3.rpy:3111
+translate Tchinese post_gin_lucian_5b98e232:
+
+    # Wait "Oh you, I'm old enough— No, what I mean to say is thank you. Forty is the new thirty, that's what I say."
+    Wait "你的嘴真甜，我已經人老花黃-不，總之謝謝你啦。三十尚未老，四十正當年，我一直這麼認為。"
+
+# game/story/Chapter_L3.rpy:3112
+translate Tchinese post_gin_lucian_093a2065:
+
+    # Qora "The name’s Qora."
+    Qora "叫我Qora就好。"
+
+# game/story/Chapter_L3.rpy:3114
+translate Tchinese post_gin_lucian_9dc216cb:
+
+    # p question "Qora huh, that's the first time I've heard that, if it even is your real name!"
+    p question "Qora啊，我還是頭一回聽說這個名字，假如這是你的真名的話！"
+
+# game/story/Chapter_L3.rpy:3117
+translate Tchinese post_gin_lucian_465ea961:
+
+    # M @ nervous "What my friend, means is that it's a beautiful and exotic name. How were you given that name if you don't mind me asking?"
+    M @ nervous "我朋友的意思是，這是一個美麗且充滿異國風情的名字。可以聽聽它的故事嗎，如果你不介意的話？"
+
+# game/story/Chapter_L3.rpy:3120
+translate Tchinese post_gin_lucian_7d8f3fe8:
+
+    # Qora "Not at all, my mama gave it to me because it was the name of the flower she said grew after her home was burnt down from a volcanic eruption."
+    Qora "當然不介意，我媽媽給我取了這個名字。她說這是一種頑強的花，即使在她被火山摧毀的家鄉上也能盛放。"
+
+# game/story/Chapter_L3.rpy:3121
+translate Tchinese post_gin_lucian_ae320df5:
+
+    # M "Woah— A volcano! You and I need to have coffee and talk more about that one day."
+    M "哇-火山！我必須請你喝一杯咖啡，我們一定有很多共同話題。"
+
+# game/story/Chapter_L3.rpy:3122
+translate Tchinese post_gin_lucian_715d26dd:
+
+    # "Qora giggles."
+    "Qora呵呵笑了。"
+
+# game/story/Chapter_L3.rpy:3123
+translate Tchinese post_gin_lucian_7befcc5f:
+
+    # Qora "Why don't I take y'all’s orders first."
+    Qora "我還是先給你們點單吧。"
+
+# game/story/Chapter_L3.rpy:3124
+translate Tchinese post_gin_lucian_02da6994:
+
+    # "She hands you all a menu each."
+    "她遞給你們每人一份菜單。"
+
+# game/story/Chapter_L3.rpy:3126
+translate Tchinese post_gin_lucian_f05d32f7:
+
+    # "After a minute browsing the menu, you all place your orders and have the table to yourselves."
+    "經過一分鐘的瀏覽，你們依次點了餐，這張桌子也重新恢復了私密。"
+
+# game/story/Chapter_L3.rpy:3128
+translate Tchinese post_gin_lucian_5d7ee8f7:
+
+    # "Morris scowls in your direction."
+    "Morris皺著眉頭看向你。"
+
+# game/story/Chapter_L3.rpy:3129
+translate Tchinese post_gin_lucian_8eef8bf8:
+
+    # M "What's with you?"
+    M "怎麼搞的？"
+
+# game/story/Chapter_L3.rpy:3130
+translate Tchinese post_gin_lucian_fe26ce06:
+
+    # p nervous "I'm sorry. I am just worried that there's an enemy hiding in our midst. I mean the Mythical Creatures could be anyone."
+    p nervous "抱歉，是我多疑了。神話生物可以變形，我擔心敵人就隱藏在我們周圍。"
+
+# game/story/Chapter_L3.rpy:3132
+translate Tchinese post_gin_lucian_8441ede5:
+
+    # M "Relax, I can see through their disguises. You’ve got nothing to worry about."
+    M "放鬆，我能看穿他們的偽裝，你就放一百個心吧。"
+
+# game/story/Chapter_L3.rpy:3133
+translate Tchinese post_gin_lucian_f6b2f377:
+
+    # L "I can confirm that."
+    L "我也能。"
+
+# game/story/Chapter_L3.rpy:3134
+translate Tchinese post_gin_lucian_a7348b9b:
+
+    # p sad "Oh, that's good, I suppose..."
+    p sad "那挺不錯的，大概..."
+
+# game/story/Chapter_L3.rpy:3136
+translate Tchinese post_gin_lucian_a6ac4dcf:
+
+    # "Lucian purses his lip."
+    "Lucian抿著嘴。"
+
+# game/story/Chapter_L3.rpy:3137
+translate Tchinese post_gin_lucian_cfaed953:
+
+    # L grimace "Wait, how come you haven't attuned your eyes to the gang's magic?"
+    L grimace "等等，你怎麼會看不透那些嘍囉的魔法？"
+
+# game/story/Chapter_L3.rpy:3138
+translate Tchinese post_gin_lucian_0827e94e:
+
+    # p question "In my powerless state? Bad enough their magic is a totally different breed from ours."
+    p question "因為我失去了大部分力量？更糟糕的是，他們的魔法體系與我們的完全不同。"
+
+# game/story/Chapter_L3.rpy:3142
+translate Tchinese post_gin_lucian_c1d5d6e5:
+
+    # "Lucian leans forward."
+    "Lucian身體前傾。"
+
+# game/story/Chapter_L3.rpy:3143
+translate Tchinese post_gin_lucian_3a3b8c9e:
+
+    # L "Give it a try. You’ll never know for sure if you never make an effort."
+    L "試一試吧。你不努力，就永遠不知道自己能做到何種程度。"
+
+# game/story/Chapter_L3.rpy:3146
+translate Tchinese post_gin_lucian_87897334:
+
+    # p question "Alright, but how do I know if it's working?"
+    p question "可以是可以，但怎麼練習呢？"
+
+# game/story/Chapter_L3.rpy:3152
+translate Tchinese post_gin_lucian_83664df3:
+
+    # M "Here, this seal is a copy of the alarm spell they use to detect demons entering the town."
+    M "這個印章給你，其中複製了他們在鎮上布下的、用來探測惡魔的預警咒語。"
+
+# game/story/Chapter_L3.rpy:3153
+translate Tchinese post_gin_lucian_74d45be5:
+
+    # M "Can you see the symbol on this?"
+    M "能看到上面的符號嗎？"
+
+# game/story/Chapter_L3.rpy:3154
+translate Tchinese post_gin_lucian_a3c9af12:
+
+    # "The boar produces a slip of paper smaller than the palm of your hand. There doesn't appear to be anything on it."
+    "野豬拿出一張比你的手掌還小的紙條，但上面似乎什麼也沒有。"
+
+# game/story/Chapter_L3.rpy:3158
+translate Tchinese post_gin_lucian_cb657fb8:
+
+    # L "I see it, it’s starry eye with ten lines around it."
+    L "我看到了，是一隻被十條線圍起來的星瞳。"
+
+# game/story/Chapter_L3.rpy:3159
+translate Tchinese post_gin_lucian_12d913a6:
+
+    # p confused "I don't."
+    p confused "我看不到。"
+
+# game/story/Chapter_L3.rpy:3160
+translate Tchinese post_gin_lucian_a91a3f5e:
+
+    # M "Good, then try adjusting your vision to it."
+    M "沒關係，換個角度試試。"
+
+# game/story/Chapter_L3.rpy:3164
+translate Tchinese post_gin_lucian_64c57092:
+
+    # "Lucian takes the paper and holds it in front of you."
+    "Lucian拿著紙，把它舉在你面前。"
+
+# game/story/Chapter_L3.rpy:3165
+translate Tchinese post_gin_lucian_1d71cf79:
+
+    # "Your eyes narrow as you concentrate as hard as you can on the paper."
+    "你眯起眼睛，將注意力全部集中在這張紙上。"
+
+# game/story/Chapter_L3.rpy:3168
+translate Tchinese post_gin_lucian_c8ea8a4a:
+
+    # p "..."
+    p "..."
+
+# game/story/Chapter_L3.rpy:3171
+translate Tchinese post_gin_lucian_0ab5dbaa:
+
+    # "You stare even harder. Picturing in your mind the shape and feel of the Mythical Creature's magic you've seen thus far."
+    "你盯得更緊了，同時在腦中回憶自己迄今為止所看到的神話生物的魔法，包括它們的外觀和感覺。"
+
+# game/story/Chapter_L3.rpy:3174
+translate Tchinese post_gin_lucian_bae83a0f:
+
+    # "The veins on your neck are throbbing as you concentrate harder."
+    "你更加集中注意力，脖子上的血管突突直跳。"
+
+# game/story/Chapter_L3.rpy:3175
+translate Tchinese post_gin_lucian_c1f25883:
+
+    # "Lucian looks concerned."
+    "Lucian不安地問道："
+
+# game/story/Chapter_L3.rpy:3176
+translate Tchinese post_gin_lucian_ef6e64ee:
+
+    # L shocked "[name], you ok?"
+    L shocked "你還好嗎，[name]？"
+
+# game/story/Chapter_L3.rpy:3179
+translate Tchinese post_gin_lucian_43107e60:
+
+    # p "Hurk!"
+    p "噓！"
+
+# game/story/Chapter_L3.rpy:3197
+translate Tchinese post_gin_lucian_f8d2c63e:
+
+    # "Your whole head is practically vibrating at this point. A black circle burns into shape on the paper."
+    "你的頭幾乎整個震動起來，就在這時，紙條上面開始燃燒，留下一圈黑色的灼痕。"
+
+# game/story/Chapter_L3.rpy:3198
+translate Tchinese post_gin_lucian_3a53e2e2:
+
+    # p "I see it! There’s a circle."
+    p "我看到了！是一個圈。"
+
+# game/story/Chapter_L3.rpy:3199
+translate Tchinese post_gin_lucian_833599bf:
+
+    # L smirk "There’s hope for you yet, concentrate harder."
+    L smirk "有希望，保持這個勢頭。"
+
+# game/story/Chapter_L3.rpy:3215
+translate Tchinese post_gin_lucian_aacf4e38:
+
+    # "A star appears within the circle then a single stroke above the eye."
+    "圓圈內出現了一顆星星，接著是星星上方的一條線。"
+
+# game/story/Chapter_L3.rpy:3220
+translate Tchinese post_gin_lucian_9b356589:
+
+    # p annoyed "Blurgh!"
+    p annoyed "嗬！"
+
+# game/story/Chapter_L3.rpy:3222
+translate Tchinese post_gin_lucian_fa6b4169:
+
+    # "It feels like your eyeballs are about to pop out of your head."
+    "你感覺自己的眼球都要從眼眶裡爆出來了。"
+
+# game/story/Chapter_L3.rpy:3223
+translate Tchinese post_gin_lucian_37ae410b:
+
+    # "Beads of sweat trickle down your temple. You curse the remaining lines for not appearing yet."
+    "汗珠從你的太陽穴流下，你咒罵著那些遲遲不肯出現的線條。"
+
+# game/story/Chapter_L3.rpy:3226
+translate Tchinese post_gin_lucian_fad0e2e2:
+
+    # "With a loud gasp you fall back into your seat."
+    "你長吁一口氣，倒在了座位上。"
+
+# game/story/Chapter_L3.rpy:3230
+translate Tchinese post_gin_lucian_a37e9f43:
+
+    # p "I can’t, I give!"
+    p "不行了，我放棄！"
+
+# game/story/Chapter_L3.rpy:3232
+translate Tchinese post_gin_lucian_44edc5ae:
+
+    # L sad "It appeared you were so close, try harder."
+    L sad "你已經很接近成功了，再努力一下吧。"
+
+# game/story/Chapter_L3.rpy:3233
+translate Tchinese post_gin_lucian_87bf92b5:
+
+    # "You wave your hand in front of the oblivious angel."
+    "你朝著不知情的天使擺擺手。"
+
+# game/story/Chapter_L3.rpy:3234
+translate Tchinese post_gin_lucian_8a1ca4a6:
+
+    # p "That’s all I got. Vendrake messed up my magic, in case you’ve forgotten."
+    p "我就這種程度了，別忘記Vendrake毀了我的魔法。"
+
+# game/story/Chapter_L3.rpy:3235
+translate Tchinese post_gin_lucian_964a6e96:
+
+    # M serious "Hmm."
+    M serious "嗯..."
+
+# game/story/Chapter_L3.rpy:3239
+translate Tchinese post_gin_lucian_29219df8:
+
+    # "The angel hands the paper back to the boar."
+    "天使把紙條還給野豬。"
+
+# game/story/Chapter_L3.rpy:3240
+translate Tchinese post_gin_lucian_37bd2a52:
+
+    # L sad "We can’t leave you in this state. If the Rings become hostile, you’ll be a sitting duck."
+    L sad "這樣下去是不行的，萬一Rings家族盯上了你，你就只能坐以待斃。"
+
+# game/story/Chapter_L3.rpy:3244
+translate Tchinese post_gin_lucian_0b03b5c9:
+
+    # p "I’m open to suggestions."
+    p "歡迎你們提出寶貴的建議。"
+
+# game/story/Chapter_L3.rpy:3247
+translate Tchinese post_gin_lucian_d7511f23:
+
+    # M neutral "No worries, I can whip up a few more charms to let you see through their disguises, for a price of course."
+    M neutral "別慌，我可以多製作些符咒，好讓你看穿它們的偽裝。當然，不是免費的。"
+
+# game/story/Chapter_L3.rpy:3249
+translate Tchinese post_gin_lucian_dc36bef7:
+
+    # p neutral "How am I not surprised."
+    p neutral "我怎麼一點也不意外呢。"
+
+# game/story/Chapter_L3.rpy:3250
+translate Tchinese post_gin_lucian_a24acc41:
+
+    # M "All I ask is more details about both of your places of business."
+    M "你們只需要講講那邊世界的事就好了。"
+
+# game/story/Chapter_L3.rpy:3252
+translate Tchinese post_gin_lucian_05be3d58:
+
+    # M "After all, how often can an exorcist say they’ve had a chance to share a table with the Demon Lord."
+    M "畢竟機會難得，有多少驅魔師能跟魔王同桌呢？"
+
+# game/story/Chapter_L3.rpy:3254
+translate Tchinese post_gin_lucian_d2b9a8d9:
+
+    # L "I can already see where this is going. There are consequences to learning about our world, you know."
+    L "我理解你的心情，但這些知識本身就蘊含著後果，這點你要清楚。"
+
+# game/story/Chapter_L3.rpy:3255
+translate Tchinese post_gin_lucian_86e43fb9:
+
+    # p annoyed "Can’t we just sit and eat? After the day I’ve had, I don’t want to ponder on how revealing secrets of the afterlife will pull your soul down an existential hole never to return again."
+    p annoyed "咱們就不能坐下來好好吃頓飯嗎？今天已經夠糟的了，我不想因為你知道得太多、被封印在一個永不見天日的鬼地方而操心。"
+
+# game/story/Chapter_L3.rpy:3256
+translate Tchinese post_gin_lucian_7cc956ee:
+
+    # M "Relax, I’m just taking the chance to sate my curiosity. Besides, existential dread and eternal damnation is part of the job."
+    M "別緊張，我只是想滿足一下我的好奇心嘛。再說了，生存的恐懼和永恆的詛咒也是我工作的一部分。"
+
+# game/story/Chapter_L3.rpy:3257
+translate Tchinese post_gin_lucian_7167ff55:
+
+    # p question "What guarantee do I have that you’re not going to sell this information to the highest bidder?"
+    p question "你怎麼保證不會把這些資訊轉手賣出去？"
+
+# game/story/Chapter_L3.rpy:3258
+translate Tchinese post_gin_lucian_bd5d8bdd:
+
+    # M "My one hundred percent money back guarantee. I take customer confidentiality very seriously."
+    M "全額退款保證，我可是非常注重客戶隱私的。"
+
+# game/story/Chapter_L3.rpy:3259
+translate Tchinese post_gin_lucian_11cf62fc:
+
+    # "He flashes you a toothy grin."
+    "他咧嘴一笑。"
+
+# game/story/Chapter_L3.rpy:3260
+translate Tchinese post_gin_lucian_ee66f283:
+
+    # p neutral "Fine, you want to be careless with your soul, I’ll humour your questions until our food arrives."
+    p neutral "好吧，既然你自己都不當回事，那我也無所謂。我可以回答你的問題，直到我們的菜上齊為止。"
+
+# game/story/Chapter_L3.rpy:3262
+translate Tchinese post_gin_lucian_3580d073:
+
+    # M "Excellent, so what’s the beef between demons and the Rings? I take it that the feelings are mutual."
+    M "好極了，那麼，惡魔與Rings家族之間到底有什麼矛盾？我姑且認為你們的仇恨是相互的。"
+
+# game/story/Chapter_L3.rpy:3264
+translate Tchinese post_gin_lucian_9d7c3c08:
+
+    # p "It’s not just the Rings. That Gin, they’re a part of an entire species we call Mythical Creatures."
+    p "Rings家族、包括那個Gin在內，都來自一個被我們稱做‘神話生物’的物種。"
+
+# game/story/Chapter_L3.rpy:3265
+translate Tchinese post_gin_lucian_d99fb81d:
+
+    # p "Their origins are a mystery even to us."
+    p "這個物種的起源對我們來說也是個謎。"
+
+# game/story/Chapter_L3.rpy:3266
+translate Tchinese post_gin_lucian_d25e5a37:
+
+    # p "What we do know is that some Mythical Creatures have powers that can rival both demons and angels."
+    p "但有一點是肯定的，某些神話生物的力量甚至可以匹敵惡魔和天使。"
+
+# game/story/Chapter_L3.rpy:3268
+translate Tchinese post_gin_lucian_0572783b:
+
+    # "You frown."
+    "你皺緊了眉頭。"
+
+# game/story/Chapter_L3.rpy:3269
+translate Tchinese post_gin_lucian_75e61da4:
+
+    # p "However, unlike angels and demons who work to maintain the balance of the world, their kind seek to destroy and to spread their own influence."
+    p "然而，與致力於維持世界平衡的天使和惡魔不同，他們以破壞和彰顯自己為樂。"
+
+# game/story/Chapter_L3.rpy:3270
+translate Tchinese post_gin_lucian_0f4bae0d:
+
+    # "Morris raises an eyebrow."
+    "Morris眉毛一揚。"
+
+# game/story/Chapter_L3.rpy:3271
+translate Tchinese post_gin_lucian_78c6eecf:
+
+    # p "They’re known to steal souls from mortals or twist them into their willing slaves. Though small in number, their influence was all over the Earth during the Great War."
+    p "據說他們會竊取靈魂，或者將凡人扭曲成自己的奴隸。雖然數量不多，但經過當年那一戰，他們的惡名無人不知無人不曉。"
+
+# game/story/Chapter_L3.rpy:3272
+translate Tchinese post_gin_lucian_bbb94b71:
+
+    # M "Then what happened?"
+    M "後來發生了什麼事？"
+
+# game/story/Chapter_L3.rpy:3273
+translate Tchinese post_gin_lucian_826498d6:
+
+    # p smile "Well, my dad came into the scene! He performed a powerful spell never seen before, and poof, they were gone."
+    p smile "我爸出馬了！他釋放了一個前所未有的魔咒，然後‘噗’的一聲，他們就都消失了。"
+
+# game/story/Chapter_L3.rpy:3274
+translate Tchinese post_gin_lucian_2e6448f6:
+
+    # M "By ‘poof’ you mean?"
+    M "‘噗’的一聲具體是指？"
+
+# game/story/Chapter_L3.rpy:3275
+translate Tchinese post_gin_lucian_fd6e31d0:
+
+    # p neutral "He eradicated them, or so I thought. Some must have fallen through the cracks and have reorganised themselves."
+    p neutral "滅絕，至少我個人這樣認為。一定是有餘黨僥倖鑽了空子，重新結成了組織。"
+
+# game/story/Chapter_L3.rpy:3276
+translate Tchinese post_gin_lucian_fc45d680:
+
+    # M nervous "Pretty drastic don’t you think? Wiping out an entire species?"
+    M nervous "消滅整個種族？不覺得太極端了嗎？"
+
+# game/story/Chapter_L3.rpy:3277
+translate Tchinese post_gin_lucian_7ef4a1a2:
+
+    # p "It wasn’t drastic. The records showed that Mythical Creatures were ruthless tyrants looking out for themselves. All mortal life could have been wiped out if they were left to amass more power."
+    p "並不。有記錄表明，神話生物是只關心自己的暴君。他們殘忍無情，如果讓他們積攢更多力量，假以時日，他們一定會毀滅整個凡人界。"
+
+# game/story/Chapter_L3.rpy:3279
+translate Tchinese post_gin_lucian_a2a30427:
+
+    # p "Paw did what he had to, he’s the reason the Underworld—and by proxy Above Us—was saved."
+    p "老爸做了他必須做的事，是他拯救了我們冥界-順手救了天界。"
+
+# game/story/Chapter_L3.rpy:3280
+translate Tchinese post_gin_lucian_4a44679a:
+
+    # p @ question "So watch your back when you're with that Gin."
+    p @ question "所以你可要小心點，別被那個Gin給背刺了。"
+
+# game/story/Chapter_L3.rpy:3281
+translate Tchinese post_gin_lucian_d5aa0ba4:
+
+    # M "I always watch my back."
+    M "我一貫小心。"
+
+# game/story/Chapter_L3.rpy:3283
+translate Tchinese post_gin_lucian_889573c2:
+
+    # "Morris turns to Lucian."
+    "Morris轉向Lucian。"
+
+# game/story/Chapter_L3.rpy:3285
+translate Tchinese post_gin_lucian_38facea3:
+
+    # M "What about you guys? The angels don’t have anything to say about the Mythical Creatures?"
+    M "那你們天使呢？不發表下對神話生物的看法嗎？"
+
+# game/story/Chapter_L3.rpy:3286
+translate Tchinese post_gin_lucian_93be51a2:
+
+    # "Lucian clasps his hands together."
+    "Lucian雙手合十。"
+
+# game/story/Chapter_L3.rpy:3287
+translate Tchinese post_gin_lucian_2c321f92:
+
+    # L "I was born after the war. From what I was taught, Up Above was busy rebuilding its grounds and let the Underworld handle the Mythical Creature epidemic."
+    L "我出生在戰後。據我所知，當時的天界正忙於重建工作，於是便把神話生物的泛濫交由冥界處理。"
+
+# game/story/Chapter_L3.rpy:3288
+translate Tchinese post_gin_lucian_0458d05b:
+
+    # L "Around that time God issued an order for us to withdraw from Earth. We stopped meddling in Earth’s affairs, leaving prayers no longer answered."
+    L "大約同一時間，我們在神的命令下撤離了地球，不再干涉凡人的事務，也不再回應祈禱。"
+
+# game/story/Chapter_L3.rpy:3289
+translate Tchinese post_gin_lucian_fe2fa307:
+
+    # L "The mission was to concentrate on catching the escaped souls of the Underworld and keep Up Above running."
+    L "我們的主要任務是抓捕從冥界逃脫的靈魂，並維護天界的運轉。"
+
+# game/story/Chapter_L3.rpy:3291
+translate Tchinese post_gin_lucian_9ee48b12:
+
+    # p "Morris, you’ve been with the Rings, do you know if the Underworld Gate is part of any bigger plot against the Underworld?"
+    p "Morris，你和Rings家族共過事，知不知道他們打造冥界之門的目的？難道他們打算反攻冥界？"
+
+# game/story/Chapter_L3.rpy:3293
+translate Tchinese post_gin_lucian_4725beea:
+
+    # "Morris shrugs."
+    "Morris聳聳肩。"
+
+# game/story/Chapter_L3.rpy:3294
+translate Tchinese post_gin_lucian_d08f9cc5:
+
+    # M "Beats me. I only contact the gang when I purchase exorcism tools or when I’m working on my debt. I don’t know anything about what they’re going to do with that gate."
+    M "不清楚。我只有在購買驅魔道具或償還債務的時候才聯絡他們，我對那扇門一無所知。"
+
+# game/story/Chapter_L3.rpy:3296
+translate Tchinese post_gin_lucian_b5f9c0c9:
+
+    # "You rest your chin on your hand and sulk."
+    "你悶悶不樂地用手托住下巴。"
+
+# game/story/Chapter_L3.rpy:3297
+translate Tchinese post_gin_lucian_3abfe844:
+
+    # "A part of you questions why you’re so concerned about the gang’s plans for your former place of work, but you also can’t help worrying about what is to come."
+    "你一邊質疑自己為什麼要在乎那幫人報復你曾經工作過的地方，卻又忍不住擔心。"
+
+# game/story/Chapter_L3.rpy:3299
+translate Tchinese post_gin_lucian_1348f860:
+
+    # M @ nervous "Backtrack a bit, what was this Great War the Underworld was a part of?"
+    M @ nervous "往回退一點，冥界參與的那場大戰是什麼？"
+
+# game/story/Chapter_L3.rpy:3300
+translate Tchinese post_gin_lucian_a72ea4c4:
+
+    # p @ sad "My grandfather was... umm... dissatisfied with his position, to put it lightly. He was well known for hating how the Underworld was stuck with the scum of the Earth, and felt the denizens of Up Above disrespected his authority."
+    p @ sad "我爺爺...呃...說好聽一點，對自己的地位不滿意。他痛恨冥界充斥著凡人的渣滓，認為他的權威沒有得到天界居民的尊重。"
+
+# game/story/Chapter_L3.rpy:3301
+translate Tchinese post_gin_lucian_aee32729:
+
+    # L "It was a clear case of envy. [name]’s grandfather wanted the glory and worship God was getting from Earth, and started a war to get to it. An utterly childish act, no offence."
+    L "這顯然是嫉妒。[name]的祖父對上帝從人界收穫的信仰垂涎已久，並不惜發動一場戰爭。這完全是孩子氣的行為，無意冒犯。"
+
+# game/story/Chapter_L3.rpy:3302
+translate Tchinese post_gin_lucian_899b1db1:
+
+    # p "None taken."
+    p "沒關係。"
+
+# game/story/Chapter_L3.rpy:3303
+translate Tchinese post_gin_lucian_91d74335:
+
+    # M "Heaven really is so great that even the Demon Lord wanted in? Then I’ve got to ask, how do you determine who goes where?"
+    M "天堂真的棒到連魔王都想去嗎？那我可得問問，你們怎麼決定誰去哪？"
+
+# game/story/Chapter_L3.rpy:3305
+translate Tchinese post_gin_lucian_71ff2858:
+
+    # "Your nose wrinkles. The uneasiness in your stomach has settled, and you’re curious to see how this mortal would react to what you tell him."
+    "你皺了皺鼻子。先前的不安已經平息，你更想知道眼前這個凡人會對你的回答作何反應。"
+
+# game/story/Chapter_L3.rpy:3306
+translate Tchinese post_gin_lucian_a70fdbbe:
+
+    # p neutral "When any mortal life expires they are brought to the first level of the Underworld."
+    p neutral "當凡人去世後，他們的靈魂會送往冥界的第一層，無一例外。"
+
+# game/story/Chapter_L3.rpy:3307
+translate Tchinese post_gin_lucian_16d78cf8:
+
+    # p "Imagine a huge building where you, and millions of other souls, are lining up to be assigned your place in the Underworld, or Up Above. We call it the Department of Mortal Vitality."
+    p "你可以想像一下，在一座超級大的建築裡，你跟其他數百萬個靈魂排著隊，等待自己被分配到地獄或者天堂。我們管那叫定命處。"
+
+# game/story/Chapter_L3.rpy:3308
+translate Tchinese post_gin_lucian_122f351e:
+
+    # M nervous "The DMV? Like where you get your driver’s licence sorted?"
+    M nervous "DMV？類似考駕照的地方？"
+
+# game/story/Chapter_L3.rpy:3309
+translate Tchinese post_gin_lucian_c25d2ae7:
+
+    # p "Eiyup."
+    p "喂。"
+
+# game/story/Chapter_L3.rpy:3310
+translate Tchinese post_gin_lucian_3cc6ab3e:
+
+    # M serious "Ok... go on."
+    M serious "好吧...你繼續。"
+
+# game/story/Chapter_L3.rpy:3311
+translate Tchinese post_gin_lucian_965da125:
+
+    # p "They run the usual tests, colour blindness test, reading comprehension, and the evaluation of your soul's score. Now the last one, that's the most important one."
+    p "他們會經歷一系列的常規測試、色盲測試、閱讀理解，以及最重要的：靈魂評估。"
+
+# game/story/Chapter_L3.rpy:3312
+translate Tchinese post_gin_lucian_ffdd8a69:
+
+    # p "Your whole life history is reviewed by the demons there and a final score—be it positive or negative—will determine your place."
+    p "那裡的惡魔會反覆審查你的整段人生，計算出決定你去向的最終分數，無論是正數還是負數。"
+
+# game/story/Chapter_L3.rpy:3313
+translate Tchinese post_gin_lucian_f038cef6:
+
+    # M "Well, what if they get a zero?"
+    M "那假如得了鴨蛋呢？"
+
+# game/story/Chapter_L3.rpy:3314
+translate Tchinese post_gin_lucian_c11562d7:
+
+    # p "We usually send them back in the line to be tested again. By the time they arrive they'll show their true colours."
+    p "一般會送回隊伍中。等他們再次接受測試，就會露出真面目了。"
+
+# game/story/Chapter_L3.rpy:3315
+translate Tchinese post_gin_lucian_a9695407:
+
+    # M nervous "Hold on, I’ve got a bone to pick. Sounds like there’s already predetermined rules about what actions cause your sole score to rise or fall during judgement."
+    M nervous "等等，我不得不問一句：什麼樣的行為會導致分數上升或下降？聽起來你們有制定好的一套標準。"
+
+# game/story/Chapter_L3.rpy:3316
+translate Tchinese post_gin_lucian_63135ba1:
+
+    # p "There is. It’s an extensive list of choices that take into account the circumstances and consequences of each action."
+    p "確實，是一份綜合了各種客觀環境因素與行為後果的詳盡清單。"
+
+# game/story/Chapter_L3.rpy:3317
+translate Tchinese post_gin_lucian_132d0d9d:
+
+    # L "Seems to me that mortals would benefit greatly if they had access to that list."
+    L "在我看來，如果能接觸到那份清單，凡人們必將受益匪淺。"
+
+# game/story/Chapter_L3.rpy:3318
+translate Tchinese post_gin_lucian_ef7adbd6:
+
+    # p @ question "How so?"
+    p @ question "為什麼？"
+
+# game/story/Chapter_L3.rpy:3319
+translate Tchinese post_gin_lucian_56b8db24:
+
+    # L "Based upon my observations the mortals are scurrying about without a clue as to how to live. We ask them to live honourable lives, but we never tell them how."
+    L "根據我的觀察，凡人並不懂生活，只是無謂的奔波。我們要求他們活得體面，卻沒有人告訴他們怎樣活。"
+
+# game/story/Chapter_L3.rpy:3320
+translate Tchinese post_gin_lucian_7b725d80:
+
+    # L @ sad "Up Above sent holy scriptures down when they were founded, but such things did little in guiding the mortals on the right path."
+    L @ sad "上帝曾在文明懵懂之際遣人傳下聖經，希望凡人藉此走上正路，但收效甚微。"
+
+# game/story/Chapter_L3.rpy:3321
+translate Tchinese post_gin_lucian_ae745b34:
+
+    # M shocked "Can you blame us? Those scriptures were vague at best. Anyone who could read could twist those messages into who knows what."
+    M shocked "怪我們囉？你也不看看那些經文有多含糊其辭，任何一個識字的人都能把它曲解成任何東西。"
+
+# game/story/Chapter_L3.rpy:3323
+translate Tchinese post_gin_lucian_4324c160:
+
+    # L sad "An example of why your kind is nothing but a nuisance. Tainting the kindness of our Lord for your own ends. What a waste."
+    L sad "我只是借這個例子，說明你的同類為何令人厭惡。為了一己私利，他們不惜玷汙上帝的恩賜，真是浪費。"
+
+# game/story/Chapter_L3.rpy:3324
+translate Tchinese post_gin_lucian_4d08032d:
+
+    # L "Give people the power of premonition, the power to see the end of their choices. It would do the world a lot of good."
+    L "給他們預知的能力，讓他們看到自己選擇的結局，對這個世界也會大有裨益吧。"
+
+# game/story/Chapter_L3.rpy:3327
+translate Tchinese post_gin_lucian_3c616bfd:
+
+    # p "It'll definitely reduce the work in the Underworld if everyone could live a righteous life."
+    p "正直的人多了，冥界的工作量自然會減少。"
+
+# game/story/Chapter_L3.rpy:3328
+translate Tchinese post_gin_lucian_c82248ec:
+
+    # M "Then you’d be out of a job."
+    M "那你可要失業了。"
+
+# game/story/Chapter_L3.rpy:3329
+translate Tchinese post_gin_lucian_50449875:
+
+    # p "Fine with me."
+    p "我沒有異議。"
+
+# game/story/Chapter_L3.rpy:3330
+translate Tchinese post_gin_lucian_5ade400b:
+
+    # M @ nervous "I dunno. Could you really picture a world where everyone knows their fate, whether their actions would lead them to damnation or salvation?"
+    M @ nervous "你們是認真的嗎？人人都能知道自己的命運？知道自己的行為會導致下地獄還是上天堂？"
+
+# game/story/Chapter_L3.rpy:3336
+translate Tchinese post_gin_lucian_7e018573:
+
+    # "Lucian nods definitively."
+    "Lucian肯定地點了點頭。"
+
+# game/story/Chapter_L3.rpy:3339
+translate Tchinese post_gin_lucian_b9483600:
+
+    # L "It would be the ideal and proper world. The mortals would have no reason to go against one another. They would find a sense of kinship working towards the same goal, now knowing how to save their souls."
+    L "這會是一個理想且正確的世界。凡人沒有理由再相互敵對，他們將攜手共進，為同一個目標，即拯救自己的靈魂而奮鬥。"
+
+# game/story/Chapter_L3.rpy:3340
+translate Tchinese post_gin_lucian_978c3cc2:
+
+    # M nervous "It sounds more like everyone is going to be stuck playing the trolley problem."
+    M nervous "聽起來更像是所有人都要陷入電車難題。"
+
+# game/story/Chapter_L3.rpy:3341
+translate Tchinese post_gin_lucian_5263daaa:
+
+    # L neutral "The trolley problem?"
+    L neutral "電車難題？"
+
+# game/story/Chapter_L3.rpy:3342
+translate Tchinese post_gin_lucian_f4cfbebb:
+
+    # M neutral "Yeah, you control a trolley that can turn one of two ways. On the first track there’s one person, on the second there’s five. Which do you pick?"
+    M neutral "是的，你駕駛著一輛電車來到分叉口。其中一條軌道上有一個人，另一條軌道上有五個人，你會選哪條？"
+
+# game/story/Chapter_L3.rpy:3343
+translate Tchinese post_gin_lucian_aa48eb26:
+
+    # p question "Eh— why would you pick any of those choices? I’d pick to pull the brakes."
+    p question "呃，為什麼要做選擇？直接剎車不就好了。"
+
+# game/story/Chapter_L3.rpy:3344
+translate Tchinese post_gin_lucian_54862253:
+
+    # M "The breaks aren’t working, you only have the one lever that hits either one person or five."
+    M "剎車失靈了，只能手動拉拉杆，要嘛撞到一個人，要嘛撞到五個人。"
+
+# game/story/Chapter_L3.rpy:3345
+translate Tchinese post_gin_lucian_3fcf256d:
+
+    # p scared "Why am I in a trolley in the first place? I travel mostly by walking or portals. Where do you even find a trolley that can run someone over?"
+    p scared "我一開始就不會坐車呀？我出門主要靠步行和傳送門。你從哪找來這麼一輛能撞死人的電車？"
+
+# game/story/Chapter_L3.rpy:3346
+translate Tchinese post_gin_lucian_99c87bc6:
+
+    # M annoyed "It doesn’t matter why you are on the trolley, you’re on it and you have to hit someone with it! It’s an ethical conundrum."
+    M annoyed "你為什麼在電車上不重要，你就是在，也必須用它來撞人！這是一個道德問題。"
+
+# game/story/Chapter_L3.rpy:3349
+translate Tchinese post_gin_lucian_a9469a2a:
+
+    # L "The only conundrum here is why are we letting trolleys exist if they are such a safety hazard."
+    L "唯一的問題是，如果那輛電車會導致安全隱患，那它從一開始就沒有存在的必要。"
+
+# game/story/Chapter_L3.rpy:3358
+translate Tchinese post_gin_lucian_574a3666:
+
+    # "Morris takes a deep breath {w=1.5}and screams internally."
+    "Morris深吸一口氣{w=1.5}，在心裡大聲尖叫。"
+
+# game/story/Chapter_L3.rpy:3361
+translate Tchinese post_gin_lucian_a6565af5:
+
+    # M neutral "My point is, if you let everyone be able to see the fate of their choices they would be stuck behind that trolley forever."
+    M neutral "我是想表達，如果能看到自己所選擇的命運，那所有人都會被困在電車這道難關。"
+
+# game/story/Chapter_L3.rpy:3362
+translate Tchinese post_gin_lucian_9e32f4bd:
+
+    # L "I highly doubt it would lead to that, you’d obviously take the lesser of the two evils."
+    L "未必，兩害相權取其輕，這無可厚非。"
+
+# game/story/Chapter_L3.rpy:3363
+translate Tchinese post_gin_lucian_2afabc79:
+
+    # M @ annoyed "Well, who decided that that one soul is any less than the other five?"
+    M @ annoyed "蛤？一個人的命怎麼就比另五個人的輕了？"
+
+# game/story/Chapter_L3.rpy:3364
+translate Tchinese post_gin_lucian_7af91dda:
+
+    # p "I suppose that would be me if I had my old job."
+    p "我大概也會選一個人的那條，假如我還在原來的崗位工作的話。"
+
+# game/story/Chapter_L3.rpy:3365
+translate Tchinese post_gin_lucian_fe261fa7:
+
+    # M "I’d say people would either be too afraid to make a choice, or they would get so used to taking the lesser evil that it trivialises the value of life."
+    M "依我看，長此以往，只會剩下兩種人。一種害怕作出選擇，另一種習慣了較小的惡，從而淡化生命的價值。"
+
+# game/story/Chapter_L3.rpy:3366
+translate Tchinese post_gin_lucian_05e3d0d4:
+
+    # L @ annoyed "You’re exaggerating."
+    L @ annoyed "你太誇張了。"
+
+# game/story/Chapter_L3.rpy:3367
+translate Tchinese post_gin_lucian_aeb2b5f6:
+
+    # M "You underestimate how people can take things to the extreme."
+    M "你低估了人類讓事物變得極端的能力。"
+
+# game/story/Chapter_L3.rpy:3368
+translate Tchinese post_gin_lucian_eaf76a73:
+
+    # L @ sad "I mean, I suppose there would be outliers."
+    L @ sad "那、那只是一部分另類。"
+
+# game/story/Chapter_L3.rpy:3369
+translate Tchinese post_gin_lucian_c92faa3d:
+
+    # p question "Now that I think about it, won’t everyone just end up doing the same thing because it would guarantee their place in Up Above? Like they’re min-maxing life itself."
+    p question "我想了想，大概所有人都會做同樣的事情？為了確保自己上天堂？比起活著，更像是在計量人生本身。"
+
+# game/story/Chapter_L3.rpy:3371
+translate Tchinese post_gin_lucian_2a796b8c:
+
+    # L_nt "I mean..."
+    L_nt "我覺得..."
+
+# game/story/Chapter_L3.rpy:3373
+translate Tchinese post_gin_lucian_d1b78dcd:
+
+    # M annoyed "Guh!"
+    M annoyed "啊！"
+
+# game/story/Chapter_L3.rpy:3375
+translate Tchinese post_gin_lucian_096e26d8:
+
+    # L "What?"
+    L "怎麼了？"
+
+# game/story/Chapter_L3.rpy:3376
+translate Tchinese post_gin_lucian_8abe1d8e:
+
+    # M neutral "I have goosebumps picturing everyone dressing up the same, all smiles, and just copying one another, blergh. Like a whole world full of copy-paste housing estates."
+    M neutral "想想看，每個人都穿著同樣的衣服、帶著同樣的微笑、用同樣的模板辦事，整個世界就只是一片小區的複製黏貼，你們難道不毛骨悚然嗎？"
+
+# game/story/Chapter_L3.rpy:3377
+translate Tchinese post_gin_lucian_d1da9fa6:
+
+    # L sad "Those are... inconsequential compared to the bigger picture."
+    L sad "這...為了大局，這也是無可奈何的。"
+
+# game/story/Chapter_L3.rpy:3378
+translate Tchinese post_gin_lucian_5f69bbae:
+
+    # M "Lucian, you’re picturing an ideal world where everyone can follow what’s expected of them, but honestly, not everyone’s lucky enough to do that."
+    M "這才不是大局，而是你理想的世界，Lucian。在那個世界裡，每個人都有章可循，但說實話，並不是每個人都有幸做到這一點。"
+
+# game/story/Chapter_L3.rpy:3379
+translate Tchinese post_gin_lucian_f0b95363:
+
+    # M "Plus, if it’s that easy to get eternal happiness, there’d be no reason for people to grow."
+    M "再說了，如果幸福是那麼唾手可得的東西，人類也就沒理由成長了。"
+
+# game/story/Chapter_L3.rpy:3380
+translate Tchinese post_gin_lucian_92f0ec54:
+
+    # L neutral "Grow?"
+    L neutral "成長？"
+
+# game/story/Chapter_L3.rpy:3381
+translate Tchinese post_gin_lucian_b6812424:
+
+    # M "Yeah, people clash and make mistakes, but you have to admit that’s how we get better as a species."
+    M "是的，人類會衝突和犯錯，但你不得不承認，這也讓我們的種族變得更好。"
+
+# game/story/Chapter_L3.rpy:3383
+translate Tchinese post_gin_lucian_dc6f3856:
+
+    # "Lucian frowns as he crosses his arms."
+    "Lucian抱起雙臂，眉頭緊縮。"
+
+# game/story/Chapter_L3.rpy:3389
+translate Tchinese post_gin_lucian_df27658b:
+
+    # "The table is silent as everyone seems to contemplate the points raised."
+    "桌上一片寂靜，每個人都在思考Morris拋出的問題。"
+
+# game/story/Chapter_L3.rpy:3392
+translate Tchinese post_gin_lucian_1723da08:
+
+    # L "Ugh— why do mortals have to make everything so complicated?"
+    L "唉，為什麼凡人非要把一切搞得這麼複雜？"
+
+# game/story/Chapter_L3.rpy:3394
+translate Tchinese post_gin_lucian_a4cb3002:
+
+    # "Doubt binds your hands, it seemed like such a good idea a minute ago, or perhaps you wished you could see your own fate."
+    "懷疑縈繞在你的心頭，明明一分鐘前你還對此表示肯定，又或者你只是希望看到自己的命運。"
+
+# game/story/Chapter_L3.rpy:3395
+translate Tchinese post_gin_lucian_b7c05aea:
+
+    # "Perhaps things would have been different if you had that foresight."
+    "如果你早有先見之明，也許情況會有所不同。"
+
+# game/story/Chapter_L3.rpy:3399
+translate Tchinese post_gin_lucian_cfb4132d:
+
+    # "Just what would everyone’s souls look like if they all knew if they were committing a sin or not?"
+    "如果每個人都知道自己是否走在正道上，他們的靈魂又會是什麼樣子？"
+
+# game/story/Chapter_L3.rpy:3401
+translate Tchinese post_gin_lucian_52c1751b:
+
+    # "The air falls silent around the table. At least, until Qora returns with your orders."
+    "凝重的空氣直到Qora的到來才有所緩和。"
+
+# game/story/Chapter_L3.rpy:3402
+translate Tchinese post_gin_lucian_6380af81:
+
+    # Qora "My, my, everyone’s looking so serious. Am I interrupting?"
+    Qora "哎呀，大家看起來好嚴肅，我沒有打擾你們吧？"
+
+# game/story/Chapter_L3.rpy:3403
+translate Tchinese post_gin_lucian_a701952f:
+
+    # p "Nah, this is a good place for us to take a break. Let’s eat!"
+    p "不想了，這裡是用來放鬆的，吃飯要緊！"
+
+# game/story/Chapter_L3.rpy:3405
+translate Tchinese post_gin_lucian_9b344554:
+
+    # p "I don’t think that’s a good idea."
+    p "我不這樣認為。"
+
+# game/story/Chapter_L3.rpy:3406
+translate Tchinese post_gin_lucian_3e9ee5f4:
+
+    # L smirk "Why not? Picture it, everyone knows the fate of their actions, there’s no reason to pick the wrong option."
+    L smirk "為什麼不呢？試想一下，每個人都知道自己行為的後果，他們再也不會做出錯誤的選擇。"
+
+# game/story/Chapter_L3.rpy:3407
+translate Tchinese post_gin_lucian_0591997a:
+
+    # p @ confused "That’s just it, they HAVE to pick what’s right. If they’re living for the sake of it, it’s no different to how you told me you hate to lie even if it’s for a good cause."
+    p @ confused "這就是原因了，他們{b}必須{/b}作出正確的選擇，也意味他們必須生活在謊言中。你不是跟我說過你討厭撒謊嗎？哪怕是出於好意？"
+
+# game/story/Chapter_L3.rpy:3408
+translate Tchinese post_gin_lucian_550c707d:
+
+    # L sad "I did say that..."
+    L sad "我是說過..."
+
+# game/story/Chapter_L3.rpy:3410
+translate Tchinese post_gin_lucian_be9b837c:
+
+    # M "Hard to imagine people being happy they were lied to... No matter the good that lie might have done, or the cause they championed, they would be shunned by those they deceived."
+    M "沒有人會因為自己被欺騙而高興吧...不管謊言能帶來多大的好處，不管撒謊者有何正當的理由，他們終將被他們欺騙的人所唾棄。"
+
+# game/story/Chapter_L3.rpy:3416
+translate Tchinese post_gin_lucian_4169e333:
+
+    # M "Though, I suppose you could argue that people can grow into their lies."
+    M "還有這麼一句話：人會活成謊言的樣子。"
+
+# game/story/Chapter_L3.rpy:3419
+translate Tchinese post_gin_lucian_6b748120:
+
+    # L "How so?"
+    L "怎麼會？"
+
+# game/story/Chapter_L3.rpy:3420
+translate Tchinese post_gin_lucian_e8403830:
+
+    # M "Like people who say they aren’t good at talking to others, but then they get a job in retail. They’d be forced to talk day in and day out. The smile might be fake at first, but eventually they grow into the role."
+    M "比如那些不善長與人溝通的人，後來被迫找了份推銷的工作，日復一日。雖然一開始他們的笑容可能是假的，但他們遲早會成為這個角色。"
+
+# game/story/Chapter_L3.rpy:3421
+translate Tchinese post_gin_lucian_34b5b781:
+
+    # M "I guess I’m saying it’s not impossible that people can’t become honourable if they have to keep doing honourable things."
+    M "換個說法，如果一個人必須違背初心才能變得體面，那這種行為本身就不體面。"
+
+# game/story/Chapter_L3.rpy:3422
+translate Tchinese post_gin_lucian_61384c08:
+
+    # L "That’s one way to spin it. Though, I believe in a world where people genuinely want to do good, and we give them the chance to see the far reaching consequences of their actions."
+    L "是這樣沒錯，但我相信人性本善。"
+
+# game/story/Chapter_L3.rpy:3423
+translate Tchinese post_gin_lucian_c82bba2a:
+
+    # L smirk "I think that would bring a world where there won’t be a need for war, deceit, or hatred."
+    L smirk "藉由讓他們看到自己行為的後果，我們勢必能創造一個沒有戰爭、欺騙和仇恨的世界。"
+
+# game/story/Chapter_L3.rpy:3429
+translate Tchinese post_gin_lucian_2bbebd67:
+
+    # p "Alright, let's go with that, let’s assume people are generally good and want to do good."
+    p "好吧，就先假設你說的是真的，人性本善。"
+
+# game/story/Chapter_L3.rpy:3430
+translate Tchinese post_gin_lucian_1c208e6d:
+
+    # p "Won’t that just make a world where everyone is satisfied by doing the same thing over, and over again, because that’s what guarantees their place in Up Above?"
+    p "這難道不會創造一個所有人都持續不斷做好事的世界嗎？因為這樣他們才能在天界有一席之地？"
+
+# game/story/Chapter_L3.rpy:3433
+translate Tchinese post_gin_lucian_0a8c5320:
+
+    # L "You’re not actually suggesting that people get better by committing sins?"
+    L "你這是在暗示，人類通過犯罪才能變得更好？"
+
+# game/story/Chapter_L3.rpy:3439
+translate Tchinese post_gin_lucian_fec5b02b:
+
+    # M "I think [name]’s got a point there. Sometimes you’ve got to mess things up before you figure out what’s the right thing to do."
+    M "[name]說的有道理，有時候你就得犯錯，才能學會成長。"
+
+# game/story/Chapter_L3.rpy:3442
+translate Tchinese post_gin_lucian_dda856f1:
+
+    # "Lucian looks at the boar with a quizzical expression."
+    "Lucian不解地看向野豬。"
+
+# game/story/Chapter_L3.rpy:3443
+translate Tchinese post_gin_lucian_9ff98b23:
+
+    # M "Well, I hate to admit it, but growing up I was pretty desperate to find a group to roll with."
+    M "唉，就跟你們講一件難以啟齒的事吧。"
+
+# game/story/Chapter_L3.rpy:3444
+translate Tchinese post_gin_lucian_45f5809f:
+
+    # M "Back when I was training in the monastery, I got caught trying to steal a barrel of beer from the nearby village."
+    M "那時我還是個叛逆的毛頭小子，在寺院裡修行。有一天，我從鄰村偷了一桶啤酒，結果暴露了。"
+
+# game/story/Chapter_L3.rpy:3445
+translate Tchinese post_gin_lucian_7cee8f53:
+
+    # M sad "Old man Kinox paid the price for my mistake. I still remember how it hurt seeing a grown lion taking the verbal beating for me."
+    M sad "是Kinox大叔擋在我前面，替我挨了眾人的責罵，我至今都忘不了當時的那個我有多自責。"
+
+# game/story/Chapter_L3.rpy:3446
+translate Tchinese post_gin_lucian_236dce49:
+
+    # M "I knew damn well I screwed up bad, and it helped me sort out some things about myself."
+    M "我深刻反省了自己的錯誤，這也多少幫助我理清了自己。"
+
+# game/story/Chapter_L3.rpy:3447
+translate Tchinese post_gin_lucian_c82ff60b:
+
+    # L "What a bizarre line of thought. I can’t imagine what would become of Up Above if we were encouraged to make mistakes."
+    L "恕我難以苟同，我無法想像如果我們被鼓勵犯錯，天界會變成什麼樣子。"
+
+# game/story/Chapter_L3.rpy:3448
+translate Tchinese post_gin_lucian_d2a59bd2:
+
+    # M neutral "You’re comparing apples to oranges."
+    M neutral "這根本是兩碼事嘛。"
+
+# game/story/Chapter_L3.rpy:3454
+translate Tchinese post_gin_lucian_520dfe46:
+
+    # p "Now that I think about it, maybe that’s the reason why we never gave a name to that list. We may call the actions listed as sins, but really it’s merely actions and consequences."
+    p "現在想想，也許這就是我們把清單雪藏起來的原因了。有人把那份清單上的條例稱為罪，但其實只是行為與後果而已。"
+
+# game/story/Chapter_L3.rpy:3456
+translate Tchinese post_gin_lucian_290876fd:
+
+    # p "We aren’t really quantifying something as bad or good, applying such a logic to creatures like mortals would not work."
+    p "我們並沒有定義某件事的好壞，把這種邏輯套用在人類這樣的生物身上是行不通的。"
+
+# game/story/Chapter_L3.rpy:3459
+translate Tchinese post_gin_lucian_8cf6b561:
+
+    # "Lucian bites his lower lip and looks down at the table. He’s likely mulling over what you all have discussed."
+    "Lucian咬著嘴唇，垂頭看著桌子，似乎在思考剛才討論的內容。"
+
+# game/story/Chapter_L3.rpy:3460
+translate Tchinese post_gin_lucian_4e3f73ab:
+
+    # "You yourself wonder if you made any sense in defending your stance."
+    "你也在想，這場辯論是否有意義。"
+
+# game/story/Chapter_L3.rpy:3463
+translate Tchinese post_gin_lucian_32b8ed04:
+
+    # "The table falls silent for a minute or two before Qora returns with food."
+    "在沉默了足足一分鐘後，Qora端著食物回來了。"
+
+# game/story/Chapter_L3.rpy:3464
+translate Tchinese post_gin_lucian_2cdffc85:
+
+    # Qora "Wow, what’s with all the long faces?"
+    Qora "欸，怎麼都板著臉？"
+
+# game/story/Chapter_L3.rpy:3465
+translate Tchinese post_gin_lucian_2b470041:
+
+    # M "Oh you know, we’re just discussing which is better, boxers or briefs."
+    M "沒事，我們在討論四角褲和三角褲哪個舒服。"
+
+# game/story/Chapter_L3.rpy:3466
+translate Tchinese post_gin_lucian_715d26dd_1:
+
+    # "Qora giggles."
+    "Qora呵呵笑了。"
+
+# game/story/Chapter_L3.rpy:3467
+translate Tchinese post_gin_lucian_669f80ce:
+
+    # Qora "Well, I hope the food will help lighten the mood."
+    Qora "好吧，希望這些美食能幫你們打起精神。"
+
+# game/story/Chapter_L3.rpy:3471
+translate Tchinese post_gin_lucian_vs_lucian_ea417980:
+
+    # "The colourful smells lift your spirits a little."
+    "噴香的飯菜令你為之一振。"
+
+# game/story/Chapter_L3.rpy:3475
+translate Tchinese post_gin_lucian_vs_lucian_999133f1:
+
+    # "The waitress sets the food in front of each of you and takes her leave."
+    "服務員把食物擺在你們面前，然後告辭。"
+
+# game/story/Chapter_L3.rpy:3476
+translate Tchinese post_gin_lucian_vs_lucian_4bf50c34:
+
+    # "Lucian ordered a basket of plain fries, Morris got seafood lasagna with a side of brownies, while you got a plate of chicken fillet grilled with sauteed mushrooms and broccoli with a side of mashed potatoes."
+    "Lucian點了一份普普通通的薯條；Morris點了海鮮千層麵，配上一塊布朗尼蛋糕；你點了一盤烤雞柳，炒蘑菇和西藍花，再加馬鈴薯泥。"
+
+# game/story/Chapter_L3.rpy:3477
+translate Tchinese post_gin_lucian_vs_lucian_ed143bd6:
+
+    # p "Let’s dig in!"
+    p "開動囉！"
+
+# game/story/Chapter_L3.rpy:3478
+translate Tchinese post_gin_lucian_vs_lucian_0332cd67:
+
+    # "You attack your food with the gusto of a man stranded on a deserted island for days. Your taste buds delight in the juicy chicken paired with the salty sauteed mushrooms."
+    "你就像被困荒島數日的人一樣對食物發起了總攻。多汁的雞肉搭配咸香的炒蘑菇，讓你的味蕾得到充分享受。"
+
+# game/story/Chapter_L3.rpy:3480
+translate Tchinese post_gin_lucian_vs_lucian_09d12e58:
+
+    # "Looking over at the angel, he is using a fork to pick up each individual french fry and biting delicately into them."
+    "你瞄了眼天使，只見他用叉子叉起薯條，放進嘴裡小口嚼。"
+
+# game/story/Chapter_L3.rpy:3481
+translate Tchinese post_gin_lucian_vs_lucian_5478e09c:
+
+    # p neutral "Lucian, just use your hands."
+    p neutral "用你的手就好了，Lucian。"
+
+# game/story/Chapter_L3.rpy:3482
+translate Tchinese post_gin_lucian_vs_lucian_e3ed7ba5:
+
+    # L annoyed "How barbaric, I don’t want to sully my holy hands."
+    L annoyed "太粗魯了，我可不想玷汙我神聖的雙手。"
+
+# game/story/Chapter_L3.rpy:3483
+translate Tchinese post_gin_lucian_vs_lucian_9e29cae4:
+
+    # p smile "It’s fine, that’s how people eat fries. Plus it tastes so good when you get to lick the salt off your fingers."
+    p smile "有什麼關係嘛，凡人都是這樣吃薯條的，而且舔掉手指上的鹽也別有一番滋味。"
+
+# game/story/Chapter_L3.rpy:3484
+translate Tchinese post_gin_lucian_vs_lucian_c1fcbc1b:
+
+    # "Lucian’s eyes narrow."
+    "Lucian眯著眼。"
+
+# game/story/Chapter_L3.rpy:3485
+translate Tchinese post_gin_lucian_vs_lucian_6a1f703b:
+
+    # L "That sounds like a recipe for an upset stomach."
+    L "聽起來對腸胃不好。"
+
+# game/story/Chapter_L3.rpy:3486
+translate Tchinese post_gin_lucian_vs_lucian_676bacc8:
+
+    # p "Don’t worry about it, here I’ll show you."
+    p "別擔心，讓我示範給你看。"
+
+# game/story/Chapter_L3.rpy:3492
+translate Tchinese post_gin_lucian_vs_lucian_77186084:
+
+    # "You attempt to reach for Lucian’s fry but he pulls the basket away."
+    "你伸手去夠Lucian的薯條，卻撲了個空。"
+
+# game/story/Chapter_L3.rpy:3493
+translate Tchinese post_gin_lucian_vs_lucian_6963d876:
+
+    # L "Ah, ah, this is mine. I believe it’s mortal custom to exchange pieces of food that’s equivalent in this situation."
+    L "哎，這是我的。如果你想要，就拿等價的食物交換，這也是你所主張的凡人習俗的一種。"
+
+# game/story/Chapter_L3.rpy:3498
+translate Tchinese post_gin_lucian_vs_lucian_47c6a822:
+
+    # p annoyed "Cheh— Fine, I’ll trade you my broccoli."
+    p annoyed "嘖，行，我的西藍花給你。"
+
+# game/story/Chapter_L3.rpy:3499
+translate Tchinese post_gin_lucian_vs_lucian_c93a5065:
+
+    # L "You just want to get rid of your vegetables, don’t you?"
+    L "你只是在找機會把蔬菜丟掉吧？"
+
+# game/story/Chapter_L3.rpy:3500
+translate Tchinese post_gin_lucian_vs_lucian_b00d962b:
+
+    # p nervous "Lucian, I would never."
+    p nervous "沒-沒有的事。"
+
+# game/story/Chapter_L3.rpy:3505
+translate Tchinese post_gin_lucian_vs_lucian_4407defd:
+
+    # L smirk "Then I’ll let you have a fry if you eat that vegetable."
+    L smirk "把它吃掉，我就分你一根。"
+
+# game/story/Chapter_L3.rpy:3506
+translate Tchinese post_gin_lucian_vs_lucian_9edf832c:
+
+    # p confused "..."
+    p confused "..."
+
+# game/story/Chapter_L3.rpy:3507
+translate Tchinese post_gin_lucian_vs_lucian_ff051c03:
+
+    # p neutral "Morris, want to trade a brownie for my broccoli?"
+    p neutral "Morris，你想用布朗尼換我的西藍花嗎？"
+
+# game/story/Chapter_L3.rpy:3510
+translate Tchinese post_gin_lucian_vs_lucian_b7f7126d:
+
+    # "Morris blinks twice in your direction before quickly stuffing all his brownies into his mouth."
+    "Morris望著你，眨眨眼，然後以風捲殘雲之勢把剩下的布朗尼塞進嘴裡。"
+
+# game/story/Chapter_L3.rpy:3511
+translate Tchinese post_gin_lucian_vs_lucian_7bebf2e8:
+
+    # p shocked "Morris!"
+    p shocked "Morris！"
+
+# game/story/Chapter_L3.rpy:3513
+translate Tchinese post_gin_lucian_vs_lucian_7f0b9850:
+
+    # L "Face the facts [name], you’re stuck with that little green tree."
+    L "面對現實吧，[name]，你奈何不了這顆綠色的小樹。"
+
+# game/story/Chapter_L3.rpy:3516
+translate Tchinese post_gin_lucian_vs_lucian_6a6494f2:
+
+    # "Lucian digs his fork into his basket again and pulls out a broccoli floret."
+    "Lucian再次把叉子伸進筐裡，卻叉出來一小朵西藍花。"
+
+# game/story/Chapter_L3.rpy:3519
+translate Tchinese post_gin_lucian_vs_lucian_7e0ee8b5:
+
+    # "You wiggle the fry you switched when Lucian wasn’t looking and bite into it."
+    "你晃了晃趁Lucian不注意偷換出來的薯條，大口咬下。"
+
+# game/story/Chapter_L3.rpy:3520
+translate Tchinese post_gin_lucian_vs_lucian_28e9a644:
+
+    # L shocked "What?"
+    L shocked "什麼？"
+
+# game/story/Chapter_L3.rpy:3521
+translate Tchinese post_gin_lucian_vs_lucian_08c9f4c7:
+
+    # L angry "That’s foul play! You demon!"
+    L angry "這不公平！你這個魔鬼！"
+
+# game/story/Chapter_L3.rpy:3522
+translate Tchinese post_gin_lucian_vs_lucian_6a7edf13:
+
+    # p "Not my fault you weren’t paying attention. All’s fair in love and food, Lucian."
+    p "只能怪你自己沒注意，Lucian，愛情和食物都是要不擇手段的。"
+
+# game/story/Chapter_L3.rpy:3525
+translate Tchinese post_gin_lucian_vs_lucian_ea94fcd9:
+
+    # M "Smooth, you might do good at the casino."
+    M "身手不錯，可以去賭場混了。"
+
+# game/story/Chapter_L3.rpy:3528
+translate Tchinese post_gin_lucian_vs_lucian_85e60e0e:
+
+    # L annoyed "Don’t encourage him!"
+    L annoyed "別助長這種風氣啊！"
+
+# game/story/Chapter_L3.rpy:3531
+translate Tchinese post_gin_lucian_vs_lucian_241fa2b9:
+
+    # "The rest of your dinner continues on with you and Lucian passing the broccoli back and forth. In the end, it was never eaten."
+    "在你和Lucian的‘謙讓’下，西藍花有幸活到了最後。"
+
+# game/story/Chapter_L3.rpy:3533
+translate Tchinese post_gin_lucian_vs_lucian_e70f2aef:
+
+    # "After dinner, the three of you get ready to part ways."
+    "吃過晚餐，你們三個也該說再見了。"
+
+# game/story/Chapter_L3.rpy:3541
+translate Tchinese post_gin_lucian_vs_lucian_9d52f291:
+
+    # M "Aaah— I don’t know about you two, but I’m stuffed."
+    M "呼——不知道你們吃得怎麼樣，反正我是心滿意足了。"
+
+# game/story/Chapter_L3.rpy:3542
+translate Tchinese post_gin_lucian_vs_lucian_2a8d8d6c:
+
+    # p smile "Yeah, that dinner was worth it."
+    p smile "是啊，這頓飯太值了。"
+
+# game/story/Chapter_L3.rpy:3543
+translate Tchinese post_gin_lucian_vs_lucian_d93bd01d:
+
+    # p confused "Wait a minute..."
+    p confused "慢著..."
+
+# game/story/Chapter_L3.rpy:3545
+translate Tchinese post_gin_lucian_vs_lucian_f754ddaa:
+
+    # extend " I got so swept up in your questions I didn’t ask you anything about the gang!"
+    extend "光顧著回答你了，我都還沒問問題呢！"
+
+# game/story/Chapter_L3.rpy:3546
+translate Tchinese post_gin_lucian_vs_lucian_f499659f:
+
+    # M "You snooze, you lose, champ."
+    M "機不可失，失不再來，小伙子。"
+
+# game/story/Chapter_L3.rpy:3548
+translate Tchinese post_gin_lucian_vs_lucian_23608ff6:
+
+    # "Your right eye twitches as you frown."
+    "你的右眼皮不住抽搐。"
+
+# game/story/Chapter_L3.rpy:3549
+translate Tchinese post_gin_lucian_vs_lucian_336eed1c:
+
+    # M "Don’t worry, you’ll get your chance to ask me all you want after we meet again. Stay focused on the task at hand."
+    M "別急，下次見面的時候，你想問什麼都可以。至於現在，我們最好保持專注，完成各自的任務。"
+
+# game/story/Chapter_L3.rpy:3551
+translate Tchinese post_gin_lucian_vs_lucian_910c59d5:
+
+    # "Rolling your eyes you half heartedly accept the exorcist’s reply."
+    "你翻了個白眼，心不在焉地接受了驅魔師的回答。"
+
+# game/story/Chapter_L3.rpy:3552
+translate Tchinese post_gin_lucian_vs_lucian_90909919:
+
+    # M "Well, I’ll head back home. Tomorrow, I’ll get started on dealing with that demon."
+    M "那麼我就先打道回府了，明天還得去對付那個惡魔。"
+
+# game/story/Chapter_L3.rpy:3553
+translate Tchinese post_gin_lucian_vs_lucian_7e57ab7e:
+
+    # p question "Be careful, there’s no telling what they are capable of."
+    p question "別大意，他的能力還是未知數。"
+
+# game/story/Chapter_L3.rpy:3554
+translate Tchinese post_gin_lucian_vs_lucian_7c79d270:
+
+    # M "I’d worry more about how you two are going to take down that cult leader."
+    M "我更擔心光憑你們兩個要怎麼推翻邪教教主。"
+
+# game/story/Chapter_L3.rpy:3555
+translate Tchinese post_gin_lucian_vs_lucian_4d40d0c1:
+
+    # p smile "We’ll figure something out. I’ve got Lucian by my side."
+    p smile "總會有辦法的，畢竟Lucian在我身邊嘛。"
+
+# game/story/Chapter_L3.rpy:3556
+translate Tchinese post_gin_lucian_vs_lucian_8795803d:
+
+    # L smirk "That goes without saying."
+    L smirk "自不必說。"
+
+# game/story/Chapter_L3.rpy:3559
+translate Tchinese post_gin_lucian_vs_lucian_b518e2b7:
+
+    # "Also, Morris, would you mind lending me one of those Mythical Creature seals? I think it would be handy for [name]’s training."
+    "對了，Morris，可以借我一枚神話生物的印章嗎？我認為這有利於幫助[name]訓練。"
+
+# game/story/Chapter_L3.rpy:3562
+translate Tchinese post_gin_lucian_vs_lucian_d96122ae:
+
+    # p "Training?"
+    p "訓練？"
+
+# game/story/Chapter_L3.rpy:3568
+translate Tchinese post_gin_lucian_vs_lucian_439cdd47:
+
+    # M "Oh sure, I can spare one."
+    M "當然可以，我剛好多一枚。"
+
+# game/story/Chapter_L3.rpy:3569
+translate Tchinese post_gin_lucian_vs_lucian_db3dcff4:
+
+    # M "I’ll see you guys when I’m done from my side."
+    M "等我的事情處理好了就去找你們。"
+
+# game/story/Chapter_L3.rpy:3580
+translate Tchinese post_gin_lucian_vs_lucian_f0b0db25:
+
+    # "Morris heads off."
+    "Morris離開了。"
+
+# game/story/Chapter_L3.rpy:3584
+translate Tchinese post_gin_lucian_vs_lucian_5212b59a:
+
+    # p annoyed "What’s this training you’re talking about?"
+    p annoyed "訓練是什麼意思？"
+
+# game/story/Chapter_L3.rpy:3585
+translate Tchinese post_gin_lucian_vs_lucian_f21febb0:
+
+    # L "Training to get your powers to working levels, but first let’s go home."
+    L "這是為了讓你不拖後腿，總之我們先回家吧。"
+
+# game/story/Chapter_L3.rpy:3587
+translate Tchinese post_gin_lucian_vs_lucian_43f8eac0:
+
+    # p sad "Oh...{w=.8}{nw}"
+    p sad "哦..."
+
+# game/story/Chapter_L3.rpy:3589
+translate Tchinese post_gin_lucian_vs_lucian_fa069ced:
+
+    # "He grabs your hand and pulls you close to his chest."
+    "他拉住你的手，把你拽到懷裡。"
+
+# game/story/Chapter_L3.rpy:3590
+translate Tchinese post_gin_lucian_vs_lucian_82c97897:
+
+    # p "Lucian! Wh-what are you doing?"
+    p "Lucian！你-你做什麼？"
+
+# game/story/Chapter_L3.rpy:3591
+translate Tchinese post_gin_lucian_vs_lucian_dc9d9943:
+
+    # L_nt smirk wag "I thought it would be faster if we flew back."
+    L_nt smirk wag "我想飛回去會比較快。"
+
+# game/story/Chapter_L3.rpy:3592
+translate Tchinese post_gin_lucian_vs_lucian_9406a837:
+
+    # p nervous "No, I mean... I suppose it would. But won’t people see us?"
+    p nervous "我沒問這個啦...雖然確實是這樣，但我們不會被人看到嗎？"
+
+# game/story/Chapter_L3.rpy:3593
+translate Tchinese post_gin_lucian_vs_lucian_fe78c581:
+
+    # L neutral -wag "Who would be looking in the skies at this time of night?"
+    L neutral -wag "誰會在這樣一個夜裡仰望天空呢？"
+
+# game/story/Chapter_L3.rpy:3594
+translate Tchinese post_gin_lucian_vs_lucian_d5698564:
+
+    # p "You don’t know that. Let’s just walk."
+    p "你怎麼知道不會？咱們還是用走的吧。"
+
+# game/story/Chapter_L3.rpy:3596
+translate Tchinese post_gin_lucian_vs_lucian_25582df3:
+
+    # "You place a hand against his chest trying to build some distance from him,{w=.5}{nw}"
+    "你一隻手抵在他的胸口，試圖和他保持一定距離。{w=.5}{nw}"
+
+# game/story/Chapter_L3.rpy:3598
+translate Tchinese post_gin_lucian_vs_lucian_087dda89:
+
+    # extend " but somehow you can’t bring yourself to push him."
+    extend "但不知怎的，你就是不想推開他。"
+
+# game/story/Chapter_L3.rpy:3600
+translate Tchinese post_gin_lucian_vs_lucian_d5723204:
+
+    # "With your hand buried against his exposed chest, the warmth of his fur spreads through your palm."
+    "溫暖的觸感透過你的手掌傳遞過來。"
+
+# game/story/Chapter_L3.rpy:3602
+translate Tchinese post_gin_lucian_vs_lucian_7e20f773:
+
+    # p smile "Umm, thank you... for the offer, anyways."
+    p smile "呃，不過...還是謝謝你的好意。"
+
+# game/story/Chapter_L3.rpy:3603
+translate Tchinese post_gin_lucian_vs_lucian_ad8ac19c:
+
+    # "Being so close, you’re keenly aware of the height difference between the two of you."
+    "你和他的距離如此之近，身高差也被清晰地凸顯。"
+
+# game/story/Chapter_L3.rpy:3608
+translate Tchinese post_gin_lucian_vs_lucian_fc1f7ab5:
+
+    # "He solemnly nods and turns to head in the direction of the apartment."
+    "他鄭重地點點頭，轉身朝公寓的方向走去。"
+
+# game/story/Chapter_L3.rpy:3609
+translate Tchinese post_gin_lucian_vs_lucian_558cf5e0:
+
+    # "Your cheeks feel warm as you follow from behind."
+    "你臉紅耳熱地跟上他。"
+
+# game/story/Chapter_L3.rpy:3617
+translate Tchinese post_gin_lucian_walk_6f0278b9:
+
+    # "All is silent while the two of you walk beside each other."
+    "你們肩並肩走在一起，世界彷彿都安靜了。"
+
+# game/story/Chapter_L3.rpy:3618
+translate Tchinese post_gin_lucian_walk_2cba3d48:
+
+    # "You steal glances at the angel. Your thoughts would not leave you alone."
+    "你偷偷瞥了天使一眼，心中思緒萬千。"
+
+# game/story/Chapter_L3.rpy:3619
+translate Tchinese post_gin_lucian_walk_d26a7731:
+
+    # p_mono "He was pretty helpful today."
+    p_mono "他今天幫了我很多。"
+
+# game/story/Chapter_L3.rpy:3620
+translate Tchinese post_gin_lucian_walk_458b2305:
+
+    # p_mono "Maybe I should tell him that..."
+    p_mono "也許我應該感謝他..."
+
+# game/story/Chapter_L3.rpy:3621
+translate Tchinese post_gin_lucian_walk_99d51bf8:
+
+    # p_mono "No, no, he’ll probably be all like, “You were impressed by that? How cute.”"
+    p_mono "算了，他多半會說：‘感動到你了嗎？你真可愛。’"
+
+# game/story/Chapter_L3.rpy:3622
+translate Tchinese post_gin_lucian_walk_2fbea7e3:
+
+    # p_mono "I’m being silly..."
+    p_mono "我真是個傻瓜..."
+
+# game/story/Chapter_L3.rpy:3624
+translate Tchinese post_gin_lucian_walk_d34a3a15:
+
+    # "You look at him again, all aloof."
+    "你又瞥了他一眼，這次只有冷漠。"
+
+# game/story/Chapter_L3.rpy:3627
+translate Tchinese post_gin_lucian_walk_ef0aa36c:
+
+    # "Sighing, you bury your hands in your pockets and keep walking."
+    "你嘆了口氣，把手揣進口袋，若無其事地繼續走。"
+
+# game/story/Chapter_L3.rpy:3639
+translate Tchinese post_gin_lucian_walk_e284ebd9:
+
+    # "After some time, you and Lucian reach your apartment. As you enter you stretch your arms out while letting out a satisfied groan."
+    "過了段時間，你和Lucian回到了你的公寓。一進門，你就張開雙臂，發出滿足的呻吟。"
+
+# game/story/Chapter_L3.rpy:3642
+translate Tchinese post_gin_lucian_walk_4d7fc4a1:
+
+    # p "I’m beat."
+    p "好累啊。"
+
+# game/story/Chapter_L3.rpy:3644
+translate Tchinese post_gin_lucian_walk_9ee8c1ca:
+
+    # "Lucian taps your shoulder from behind."
+    "Lucian從背後拍了拍你的肩。"
+
+# game/story/Chapter_L3.rpy:3646
+translate Tchinese post_gin_lucian_walk_1e851a58:
+
+    # L "[name]..."
+    L "[name]..."
+
+# game/story/Chapter_L3.rpy:3648
+translate Tchinese post_gin_lucian_walk_4360f764:
+
+    # p_nt "Yeah, Lucian?"
+    p_nt "怎麼了，Lucian？"
+
+# game/story/Chapter_L3.rpy:3650
+translate Tchinese post_gin_lucian_walk_21d0dadb:
+
+    # L "There’s something I need to check, would you mind taking off your clothes?"
+    L "我有件事很在意，可以請你把衣服脫了嗎？"
+
+# game/story/Chapter_L3.rpy:3651
+translate Tchinese post_gin_lucian_walk_8a01eb67:
+
+    # p neutral "Oh of cour—{nw} "
+    p neutral "哦，沒問-{nw}"
+
+# game/story/Chapter_L3.rpy:3653
+translate Tchinese post_gin_lucian_walk_501cc501:
+
+    # extend "What?"
+    extend "什麼？"
+
+# game/story/Chapter_L3.rpy:3654
+translate Tchinese post_gin_lucian_walk_db580078:
+
+    # L "It’s nothing like that. I want to test my theory about your powers. Your training hinges on this."
+    L "沒有別的意思，我是想驗證一下我的理論，你的訓練也取決於此。"
+
+# game/story/Chapter_L3.rpy:3655
+translate Tchinese post_gin_lucian_walk_440b73c5:
+
+    # p confused "Lead with that next time. What’s this idea anyways?"
+    p confused "麻煩你下次先說這個。順便問一句，是什麼理論？"
+
+# game/story/Chapter_L3.rpy:3656
+translate Tchinese post_gin_lucian_walk_31bcd70c:
+
+    # L "Your powers began to fail after you were kicked out of the Underworld, right?"
+    L "自從被逐出冥界，你的力量就削弱了，對嗎？"
+
+# game/story/Chapter_L3.rpy:3657
+translate Tchinese post_gin_lucian_walk_d2f52011:
+
+    # p neutral "Right, Vendrake hit me with a blue orb. After that, I lost basically every ability."
+    p neutral "對，Vendrake用一個藍色的球打了我。從那以後，我幾乎失去了所有能力。"
+
+# game/story/Chapter_L3.rpy:3658
+translate Tchinese post_gin_lucian_walk_9d014b42:
+
+    # L "There must still be some remnants of your powers in you. After all, you can still see demonic and angelic magic."
+    L "但並不是全部，畢竟你仍然可以看到天使與惡魔施展的魔法。"
+
+# game/story/Chapter_L3.rpy:3659
+translate Tchinese post_gin_lucian_walk_77f678b2:
+
+    # p @ sad "I mean... I’ve lost Pressure among other things. I can open some portals, but they’re not stable."
+    p @ sad "嚴格來說...我失去的是命令它們的權能。我可以打開傳送門，但很不穩定。"
+
+# game/story/Chapter_L3.rpy:3660
+translate Tchinese post_gin_lucian_walk_8f220375:
+
+    # L "Then I want to find where your source of power lies inside you, maybe if I dig deep enough I can free it. Healing is a specialty of angels."
+    L "所以我想挖掘出你體內的力量之源，治癒可是天使的專長。"
+
+# game/story/Chapter_L3.rpy:3661
+translate Tchinese post_gin_lucian_walk_58d33376:
+
+    # p question "I guess it’s worth a try, but do I really need to get naked?"
+    p question "值得一試，但我非得脫光不可嗎？"
+
+# game/story/Chapter_L3.rpy:3662
+translate Tchinese post_gin_lucian_walk_f5d79f95:
+
+    # L "Your underwear will suffice, [name]. It’s easier for me to trace magic with fur on fur contact."
+    L "穿著內褲就夠了，[name]。通過皮毛接觸可以使我更容易地追蹤魔力的流向。"
+
+# game/story/Chapter_L3.rpy:3667
+translate Tchinese post_gin_lucian_walk_117d4679:
+
+    # p "Sure it is. Lucian, if you ever want to have a piece of this, you can just say so."
+    p "你說是就是吧，Lucian。不過如果你想‘吃’我的話，可千萬別客氣喔。"
+
+# game/story/Chapter_L3.rpy:3672
+translate Tchinese post_gin_lucian_walk_a6d9f293:
+
+    # "You chuckle as you raise your arms behind your head and shake your hips."
+    "你一邊笑一邊把手臂舉到腦後，搖晃著屁股。"
+
+# game/story/Chapter_L3.rpy:3674
+translate Tchinese post_gin_lucian_walk_1b6626b5:
+
+    # L @ smirk wag "..."
+    L @ smirk wag "..."
+
+# game/story/Chapter_L3.rpy:3677
+translate Tchinese post_gin_lucian_walk_de3f813a:
+
+    # "You notice him staring at your bare chest."
+    "你注意到他正盯著你裸露的胸膛。"
+
+# game/story/Chapter_L3.rpy:3678
+translate Tchinese post_gin_lucian_walk_2e68a63e:
+
+    # L grimace "Ehem... Now that I see you—and smell you—would you mind taking a shower before we start?"
+    L grimace "呃...我之前都沒發現你身上的氣味這麼大，你不介意先去洗個澡吧？"
+
+# game/story/Chapter_L3.rpy:3679
+translate Tchinese post_gin_lucian_walk_4c961b7f:
+
+    # p neutral "Later, let's get this over with."
+    p neutral "把這事辦完再說。"
+
+# game/story/Chapter_L3.rpy:3680
+translate Tchinese post_gin_lucian_walk_4d21b4b4:
+
+    # "The angel closes his eyes and takes a deep breath. Is he bracing himself or having second thoughts?"
+    "天使閉上眼睛，深吸了一口氣。他是在強打起精神，還是另有打算？"
+
+# game/story/Chapter_L3.rpy:3681
+translate Tchinese post_gin_lucian_walk_93996a28:
+
+    # L "Fine, get on the bed."
+    L "好吧，到床上去。"
+
+# game/story/Chapter_L3.rpy:3691
+translate Tchinese post_gin_lucian_walk_b9e28149:
+
+    # p "That’s what he said."
+    p "這是他說的。"
+
+# game/story/Chapter_L3.rpy:3692
+translate Tchinese post_gin_lucian_walk_750ce422:
+
+    # "You dive blindly onto your unkempt mattress like a seasoned pro."
+    "你嫻熟地倒在自己雜亂的床墊上，甚至都不用回頭。"
+
+# game/story/Chapter_L3.rpy:3696
+translate Tchinese post_gin_lucian_walk_70978ef2:
+
+    # L "He who?"
+    L "他是誰？"
+
+# game/story/Chapter_L3.rpy:3697
+translate Tchinese post_gin_lucian_walk_9d0a1d6a:
+
+    # p "I honestly don't know. It just felt like something I should say at the time."
+    p "不清楚，我只是覺得我該說點什麼。"
+
+# game/story/Chapter_L3.rpy:3698
+translate Tchinese post_gin_lucian_walk_b20863f6:
+
+    # L "Uh-huh."
+    L "呃-嗯。"
+
+# game/story/Chapter_L3.rpy:3705
+translate Tchinese post_gin_lucian_walk_9d1c64ac:
+
+    # "Lucian gets on all fours as he crawls on top of you."
+    "Lucian四肢並用地爬到你身上。"
+
+# game/story/Chapter_L3.rpy:3706
+translate Tchinese post_gin_lucian_walk_4ba2361c:
+
+    # "Your eyes widen as you take in the sight of the angel’s piercing blue eyes. A tingling sensation spreads from your chest and slowly up to your face."
+    "看到天使那銳利的藍色眸子，你不自覺睜大了雙眼，一種刺撓感從你的胸部慢慢擴散到了臉上。"
+
+# game/story/Chapter_L3.rpy:3710
+translate Tchinese post_gin_lucian_walk_b156fee2:
+
+    # "He bends down, your snouts almost touching one another."
+    "他彎下腰，鼻尖幾乎碰到你的鼻尖。"
+
+# game/story/Chapter_L3.rpy:3713
+translate Tchinese post_gin_lucian_walk_47c45972:
+
+    # L "Just breathe and I’ll find your spot."
+    L "深呼吸，我會找到你的點的。"
+
+# game/story/Chapter_L3.rpy:3715
+translate Tchinese post_gin_lucian_walk_6fddd354:
+
+    # "You chuckle."
+    "你被他逗笑了。"
+
+# game/story/Chapter_L3.rpy:3717
+translate Tchinese post_gin_lucian_walk_f96597b8:
+
+    # p "You have no idea how dirty that sounds."
+    p "你知不知道那句話聽起來有多下流。"
+
+# game/story/Chapter_L3.rpy:3720
+translate Tchinese post_gin_lucian_walk_e503142b:
+
+    # "The angel presses his cold nose against your neck and sniffs your mane."
+    "天使用他冰涼的鼻子抵住你的脖子，深嗅你的鬃毛。"
+
+# game/story/Chapter_L3.rpy:3725
+translate Tchinese post_gin_lucian_walk_79376f00:
+
+    # "Your body shudders from the contact."
+    "你的身體因此而顫抖。"
+
+# game/story/Chapter_L3.rpy:3728
+translate Tchinese post_gin_lucian_walk_5cb15b74:
+
+    # L @ grimace "Is sex all you can think about?"
+    L @ grimace "你腦子裡裝的全是黃色廢料嗎？"
+
+# game/story/Chapter_L3.rpy:3729
+translate Tchinese post_gin_lucian_walk_09643d3b:
+
+    # p neutral "Don’t knock it till you try it."
+    p neutral "你試過就知道它的好了。"
+
+# game/story/Chapter_L3.rpy:3732
+translate Tchinese post_gin_lucian_walk_66ec6f85:
+
+    # "He rests the back of his hand on your forehead."
+    "他把手背放在你的額頭上。"
+
+# game/story/Chapter_L3.rpy:3735
+translate Tchinese post_gin_lucian_walk_2fe7bede:
+
+    # L "Why would you demons engage in procreation? Aren’t you afraid of the impact you would leave on the mortals?"
+    L "你們惡魔為什麼要繁衍後代？就不怕給凡人造成影響嗎？"
+
+# game/story/Chapter_L3.rpy:3736
+translate Tchinese post_gin_lucian_walk_8e50d21b:
+
+    # p "I mean we have rules against that, but it’s not something we can enforce easily. The only guarantee is that—with the exception of the Demon Lord—the offspring of demons and mortals usually don’t survive conception."
+    p "冥界一直有反對的聲音，但這也不是說說就能算了的呀。我們唯一能保證的是，除了魔王，惡魔與凡人的後代都無法存活下來。"
+
+# game/story/Chapter_L3.rpy:3737
+translate Tchinese post_gin_lucian_walk_1eb780c5:
+
+    # p "Even if they did, almost none live long enough for us to understand what they are."
+    p "即使有，他們也活不到讓我們了解的時候。"
+
+# game/story/Chapter_L3.rpy:3738
+translate Tchinese post_gin_lucian_walk_bb0e432b:
+
+    # "The angel’s hand moves down to your right cheek."
+    "天使把手移動到你的右臉頰。"
+
+# game/story/Chapter_L3.rpy:3739
+translate Tchinese post_gin_lucian_walk_d441362a:
+
+    # L "So... who do you usually meet for your escapades?"
+    L "那...你通常會找哪種人？"
+
+# game/story/Chapter_L3.rpy:3740
+translate Tchinese post_gin_lucian_walk_f4741c03:
+
+    # p "Anyone who’s willing to hang out and party really. We spend a week or two just having the best time of our lives, and I’m outta there. Leaving behind well... nothing, got to wipe their memories after all."
+    p "任何願意跟我約會和上床的人。我們在一兩週的時間裡享盡人間風流，然後我會離開...什麼也不留下，終歸是要抹去他們記憶的。"
+
+# game/story/Chapter_L3.rpy:3741
+translate Tchinese post_gin_lucian_walk_b08cdfce:
+
+    # L "Curious..."
+    L "難以理解..."
+
+# game/story/Chapter_L3.rpy:3744
+translate Tchinese post_gin_lucian_walk_e17df651:
+
+    # "Lucian bends lower and rests his head on your chest."
+    "Lucian俯下身，把頭靠在你的胸口。"
+
+# game/story/Chapter_L3.rpy:3745
+translate Tchinese post_gin_lucian_walk_24ddf622:
+
+    # p sad "Why do I get the feeling that you don’t believe me?"
+    p sad "我怎麼覺得你不相信我呢？"
+
+# game/story/Chapter_L3.rpy:3748
+translate Tchinese post_gin_lucian_walk_b4a5d254:
+
+    # L "From my observations, you seem the type who prefers consistency."
+    L "根據我的觀察，你似乎更期待始終如一的伴侶。"
+
+# game/story/Chapter_L3.rpy:3749
+translate Tchinese post_gin_lucian_walk_1524544b:
+
+    # L "I wonder what that means considering your history of chasing desire."
+    L "所以我不得不考慮你那尋歡作樂的心態是為了什麼。"
+
+# game/story/Chapter_L3.rpy:3750
+translate Tchinese post_gin_lucian_walk_00ea0285:
+
+    # p nervous "I... I’m not sure... how to answer that."
+    p nervous "我...我不知道...該怎麼回答你。"
+
+# game/story/Chapter_L3.rpy:3753
+translate Tchinese post_gin_lucian_walk_dcfb8163:
+
+    # "He slides lower, now resting upon your stomach."
+    "他壓得更近，已經靠在了你的肚子上。"
+
+# game/story/Chapter_L3.rpy:3754
+translate Tchinese post_gin_lucian_walk_54b79715:
+
+    # "You raise your arms, unsure where to put them."
+    "你舉起雙臂，卻又無處安放。"
+
+# game/story/Chapter_L3.rpy:3755
+translate Tchinese post_gin_lucian_walk_70969e78:
+
+    # L "Lower your voice, I hear something."
+    L "收聲，我聽到什麼了。"
+
+# game/story/Chapter_L3.rpy:3756
+translate Tchinese post_gin_lucian_walk_2c1d4ff1:
+
+    # "The angel’s eyes seem to shine under his intense gaze."
+    "天使的眼睛彷彿在閃閃發光。"
+
+# game/story/Chapter_L3.rpy:3757
+translate Tchinese post_gin_lucian_walk_560fbfd4:
+
+    # "He runs his fingers through your short fur. His touch feels so gentle and comforting you could purr."
+    "他用手指在你的短毛間摩挲，這溫柔舒適的觸感令你發出嗚嗚的聲音。"
+
+# game/story/Chapter_L3.rpy:3758
+translate Tchinese post_gin_lucian_walk_0fa503df:
+
+    # "The warmth of his face spreads throughout your body."
+    "他臉上的溫度傳遍了你的全身。"
+
+# game/story/Chapter_L3.rpy:3759
+translate Tchinese post_gin_lucian_walk_d163c2fd:
+
+    # "It’s a pleasantness you’re not even sure you've felt before."
+    "這是一種你甚至不確定自己有感受過的歡愉。"
+
+# game/story/Chapter_L3.rpy:3760
+translate Tchinese post_gin_lucian_walk_5e43c947:
+
+    # p_mono "Is my heart supposed to be racing? I mean I've cuddled before."
+    p_mono "我的心跳這麼快正常嗎？我不是沒被抱過啊。"
+
+# game/story/Chapter_L3.rpy:3761
+translate Tchinese post_gin_lucian_walk_49ac8f10:
+
+    # "You recall the many partners you've held in your arms, but there’s something uniquely comforting about Lucian."
+    "你回憶起眾多床伴，但他們都沒有Lucian能令你放鬆。"
+
+# game/story/Chapter_L3.rpy:3762
+translate Tchinese post_gin_lucian_walk_823110d2:
+
+    # "He seems to light up the room itself... these feelings, they befuddle you."
+    "周圍的一切似乎都因為他而變得目眩神迷..."
+
+# game/story/Chapter_L3.rpy:3763
+translate Tchinese post_gin_lucian_walk_98ec2e09:
+
+    # "It's like having a favourite pillow on top of you. How you feel so comfortable just being here with him."
+    "這感覺就像你正抱著自己最喜歡的枕頭那樣舒服。"
+
+# game/story/Chapter_L3.rpy:3764
+translate Tchinese post_gin_lucian_walk_6b2eb5f0:
+
+    # L "I hear your magic."
+    L "我聽到你的魔力了。"
+
+# game/story/Chapter_L3.rpy:3765
+translate Tchinese post_gin_lucian_walk_bb4f1d6f:
+
+    # p "Uh-huh."
+    p "呃-噢。"
+
+# game/story/Chapter_L3.rpy:3766
+translate Tchinese post_gin_lucian_walk_65794a6d:
+
+    # "You’re too engrossed in comfort to properly pay attention."
+    "你舒服過了頭，以至於差點失神。"
+
+# game/story/Chapter_L3.rpy:3767
+translate Tchinese post_gin_lucian_walk_5f44841f:
+
+    # L "It’s waxing and waning, like there’s something holding it back."
+    L "聲音時斷時續，聽起來是受到了某種阻礙。"
+
+# game/story/Chapter_L3.rpy:3769
+translate Tchinese post_gin_lucian_walk_7c458211:
+
+    # L "I wonder..."
+    L "我在想..."
+
+# game/story/Chapter_L3.rpy:3770
+translate Tchinese post_gin_lucian_walk_40cfe047:
+
+    # "In your comfortable stupor, a thought lingers in your mind."
+    "一個念頭在你舒服到麻木的腦海中縈繞。"
+
+# game/story/Chapter_L3.rpy:3771
+translate Tchinese post_gin_lucian_walk_a01384c0:
+
+    # p_mono "I want to pet him."
+    p_mono "我想摸摸他。"
+
+# game/story/Chapter_L3.rpy:3772
+translate Tchinese post_gin_lucian_walk_297f9be9:
+
+    # p_mono "No, just let him do his thing."
+    p_mono "不，不能妨礙他。"
+
+# game/story/Chapter_L3.rpy:3773
+translate Tchinese post_gin_lucian_walk_6d8f89f9:
+
+    # p_mono "Yes, I’ll pet the doggo."
+    p_mono "我要摸狗狗。"
+
+# game/story/Chapter_L3.rpy:3774
+translate Tchinese post_gin_lucian_walk_2f90478d:
+
+    # p_mono "Don’t do it, you’ll weird him out!"
+    p_mono "別這樣，你會嚇到他的!"
+
+# game/story/Chapter_L3.rpy:3775
+translate Tchinese post_gin_lucian_walk_d1d5bfdb:
+
+    # p_mono "I’ll pet him and call him a good boy."
+    p_mono "我要一邊摸他，一邊叫他乖孩子。"
+
+# game/story/Chapter_L3.rpy:3776
+translate Tchinese post_gin_lucian_walk_dc7caf9c:
+
+    # "Your right hand reaches out and you pat the back of Lucian's head."
+    "你伸出右手，輕輕拍了拍Lucian的後腦勺。"
+
+# game/story/Chapter_L3.rpy:3777
+translate Tchinese post_gin_lucian_walk_c79c7a86:
+
+    # "His hair is smooth as silk. Each strand slipping through your fingertips."
+    "他的頭毛如絲綢般順滑，從你的指尖滑過。"
+
+# game/story/Chapter_L3.rpy:3779
+translate Tchinese post_gin_lucian_walk_b2018a3f:
+
+    # p "You were amazing today, Lucian."
+    p "你今天好棒，Lucian。"
+
+# game/story/Chapter_L3.rpy:3782
+translate Tchinese post_gin_lucian_walk_b0a47e8f:
+
+    # L "Huh?"
+    L "啊？"
+
+# game/story/Chapter_L3.rpy:3783
+translate Tchinese post_gin_lucian_walk_2e5f0e37:
+
+    # "His wide eyes and dropped jaw cause you to think you've done something wrong."
+    "他的大眼睛和垂下來的下巴讓你瞬間清醒了。"
+
+# game/story/Chapter_L3.rpy:3784
+translate Tchinese post_gin_lucian_walk_53ba123c:
+
+    # p "I-I'm sorry! I couldn't help myself."
+    p "對-對不起！我情不自禁。"
+
+# game/story/Chapter_L3.rpy:3785
+translate Tchinese post_gin_lucian_walk_a711b547:
+
+    # L "No..."
+    L "不..."
+
+# game/story/Chapter_L3.rpy:3786
+translate Tchinese post_gin_lucian_walk_656f48df:
+
+    # "He places his hand on top of yours so you won't take it away."
+    "他按住你的手，這樣你就不會把它拿開了。"
+
+# game/story/Chapter_L3.rpy:3787
+translate Tchinese post_gin_lucian_walk_14b8b944:
+
+    # L "I was just surprised... It feels pleasant... You may continue."
+    L "我只是很驚奇...也很愉快...你可以繼續。"
+
+# game/story/Chapter_L3.rpy:3788
+translate Tchinese post_gin_lucian_walk_09406ff7:
+
+    # L "Please."
+    L "好嗎？"
+
+# game/story/Chapter_L3.rpy:3789
+translate Tchinese post_gin_lucian_walk_7b9e8c65:
+
+    # "Your face turns some shade of red as you nod back to the angel."
+    "你紅著臉對天使點頭。"
+
+# game/story/Chapter_L3.rpy:3790
+translate Tchinese post_gin_lucian_walk_fa2b04d5:
+
+    # "You continue to pat the golden bundle lying on top of you."
+    "你繼續撫摸著懷裡的金色。"
+
+# game/story/Chapter_L3.rpy:3791
+translate Tchinese post_gin_lucian_walk_ebe7795d:
+
+    # "His tail thumps against the bed."
+    "他的尾巴拍打床墊，發出砰砰的響聲。"
+
+# game/story/Chapter_L3.rpy:3792
+translate Tchinese post_gin_lucian_walk_04f2da5e:
+
+    # p "You've never been touched like this before?"
+    p "這是你第一次被人這樣摸嗎？"
+
+# game/story/Chapter_L3.rpy:3793
+translate Tchinese post_gin_lucian_walk_669730b8:
+
+    # L "No... It's always been my wish that God would pat me and tell me I did good, though."
+    L "是的...不過我始終希望上帝能摸摸我，對我說我做得很好了。"
+
+# game/story/Chapter_L3.rpy:3794
+translate Tchinese post_gin_lucian_walk_e00a49c7:
+
+    # p "Does Gary really give that {b}good{/b} pats?"
+    p "Gary的手法就這麼{b}棒{/b}？"
+
+# game/story/Chapter_L3.rpy:3795
+translate Tchinese post_gin_lucian_walk_be49d25e:
+
+    # "You continue by scratching behind his ear. Lucian pants a little and smiles."
+    "你撓著他的耳朵根，Lucian輕哼一聲，笑了笑。"
+
+# game/story/Chapter_L3.rpy:3796
+translate Tchinese post_gin_lucian_walk_ec913bd9:
+
+    # L "It's more than that. It's about being acknowledged by perfection, by our creator."
+    L "不僅僅如此，這意味著被我們的創造者、被完美所認可，"
+
+# game/story/Chapter_L3.rpy:3797
+translate Tchinese post_gin_lucian_walk_77d9114c:
+
+    # p "I suppose Gary is like a father to you angels?"
+    p "我猜在你們眼裡，Gary是父親一般的存在了？"
+
+# game/story/Chapter_L3.rpy:3798
+translate Tchinese post_gin_lucian_walk_744a78a3:
+
+    # L "At least in my eyes."
+    L "至少在我眼裡是。"
+
+# game/story/Chapter_L3.rpy:3799
+translate Tchinese post_gin_lucian_walk_d236aaef:
+
+    # L "He does so much for Up Above and we all strive to make him proud."
+    L "他為天界做了很多，我們也都努力讓他感到驕傲。"
+
+# game/story/Chapter_L3.rpy:3800
+translate Tchinese post_gin_lucian_walk_1161ad13:
+
+    # p "A realm full of classy angels like you? No wonder Earth or the Underworld can’t compare to that."
+    p "一個滿是你這樣優雅天使的國度？難怪人界和冥界都不能與之相比。"
+
+# game/story/Chapter_L3.rpy:3801
+translate Tchinese post_gin_lucian_walk_04b773be:
+
+    # L "Up Above is the crowning jewel of life, the Nirvana all are in search for."
+    L "天界是至寶，是所有生命都在追尋的涅槃。"
+
+# game/story/Chapter_L3.rpy:3802
+translate Tchinese post_gin_lucian_walk_2790c232:
+
+    # p "What’s it like to be a part of that?"
+    p "那是種什麼樣的感覺？"
+
+# game/story/Chapter_L3.rpy:3803
+translate Tchinese post_gin_lucian_walk_9993b94e:
+
+    # L "..."
+    L "..."
+
+# game/story/Chapter_L3.rpy:3804
+translate Tchinese post_gin_lucian_walk_f5e986cb:
+
+    # L "It can feel... like you’re a tiny piece amidst a sea of stars."
+    L "就彷彿...置身於星辰大海。"
+
+# game/story/Chapter_L3.rpy:3805
+translate Tchinese post_gin_lucian_walk_1696d5fa:
+
+    # p "That... sounds kind of overwhelming to be honest."
+    p "說實話...聽起來怪抽象的。"
+
+# game/story/Chapter_L3.rpy:3807
+translate Tchinese post_gin_lucian_walk_664c525d:
+
+    # "His grip on your fur tightens."
+    "他緊緊抓住你的毛。"
+
+# game/story/Chapter_L3.rpy:3808
+translate Tchinese post_gin_lucian_walk_c5a416c2:
+
+    # L "{size=20}Sometimes it is."
+    L "{size=20}有時候確實是。"
+
+# game/story/Chapter_L3.rpy:3809
+translate Tchinese post_gin_lucian_walk_5b337205:
+
+    # p "Lucian?"
+    p "Lucian？"
+
+# game/story/Chapter_L3.rpy:3810
+translate Tchinese post_gin_lucian_walk_7b5ba93e:
+
+    # L "It’s nothing, just a passing thought."
+    L "沒什麼，一閃而過的念頭而已。"
+
+# game/story/Chapter_L3.rpy:3811
+translate Tchinese post_gin_lucian_walk_523d253f:
+
+    # p "So you were saying, you’re helping me to get Gary to praise you?"
+    p "我記得你說過，你是為了受到Gary的肯定才幫我的？"
+
+# game/story/Chapter_L3.rpy:3813
+translate Tchinese post_gin_lucian_walk_cefe54ec:
+
+    # L "It’s my wish that he would see {b}me{/b} amongst the crowd."
+    L "我希望自己能從眾多天使中脫穎而出，讓他{b}看到{/b}。"
+
+# game/story/Chapter_L3.rpy:3814
+translate Tchinese post_gin_lucian_walk_de0800d5:
+
+    # p "Well, I see you."
+    p "我就在看著你啊。"
+
+# game/story/Chapter_L3.rpy:3815
+translate Tchinese post_gin_lucian_walk_a93c73af:
+
+    # "You both stop talking and stare into each other's eyes."
+    "你們都沉默不語，凝視著彼此。"
+
+# game/story/Chapter_L3.rpy:3816
+translate Tchinese post_gin_lucian_walk_9fd44fe8:
+
+    # L "Oh... thank you... I–"
+    L "啊...謝謝你...我-"
+
+# game/story/Chapter_L3.rpy:3817
+translate Tchinese post_gin_lucian_walk_d434e89c:
+
+    # "Your heartbeat pounds loudly in your ears."
+    "你的心跳聲響徹耳畔。"
+
+# game/story/Chapter_L3.rpy:3819
+translate Tchinese post_gin_lucian_walk_04aa2585:
+
+    # L wag_fast "I see you too, [name]."
+    L wag_fast "我也一樣，[name]。"
+
+# game/story/Chapter_L3.rpy:3822
+translate Tchinese post_gin_lucian_walk_8f6e4cb6:
+
+    # L -wag_fast "Umm, I think we can move on to the next stage."
+    L -wag_fast "咳，我想我們可以進入下一階段了。"
+
+# game/story/Chapter_L3.rpy:3823
+translate Tchinese post_gin_lucian_walk_be6240d2:
+
+    # p @ nervous "Right, we’re doing that stuff, yes."
+    p @ nervous "對，對，正事要緊。"
+
+# game/story/Chapter_L3.rpy:3835
+translate Tchinese post_gin_lucian_walk_0ba46425:
+
+    # "You sit up while Lucian is on his knees, avoiding your gaze."
+    "你坐起來，不敢去直視Lucian的眼睛。"
+
+# game/story/Chapter_L3.rpy:3836
+translate Tchinese post_gin_lucian_walk_0a46de1b:
+
+    # L "I don't know how to undo the spell that’s weakening you, but perhaps, I can share with you some of my powers. At least enough for you to start being useful in battle."
+    L "我不知道解開那咒語的方法，但也許，我可以分給你一些我的力量，足夠讓你在戰鬥中發揮作用了。"
+
+# game/story/Chapter_L3.rpy:3837
+translate Tchinese post_gin_lucian_walk_71e04f7c:
+
+    # p @ question "You're talking about mixing angelic and demonic magic together. Is there something weird that's going to happen?"
+    p @ question "把天使和惡魔的魔法混在一起，不會發生什麼奇怪的事吧？"
+
+# game/story/Chapter_L3.rpy:3838
+translate Tchinese post_gin_lucian_walk_425bbad3:
+
+    # L smirk "I doubt it, I've read that it has happened before, at most it's a temporary solution, just trust me."
+    L smirk "這只是臨時的解決方案，相信我，我在書上讀到過這種情況。"
+
+# game/story/Chapter_L3.rpy:3839
+translate Tchinese post_gin_lucian_walk_47f866f7:
+
+    # p "I do trust you."
+    p "我肯定是相信你的。"
+
+# game/story/Chapter_L3.rpy:3840
+translate Tchinese post_gin_lucian_walk_6da1a12a:
+
+    # p confused "So, how are we doing this?"
+    p confused "那麼，要怎麼做呢？"
+
+# game/story/Chapter_L3.rpy:3841
+translate Tchinese post_gin_lucian_walk_0d40b8b9:
+
+    # L "For this, I need to be in contact with you."
+    L "為此，我需要和你建立聯繫。"
+
+# game/story/Chapter_L3.rpy:3842
+translate Tchinese post_gin_lucian_walk_f968bce6:
+
+    # L "Close your eyes."
+    L "闔上你的雙眼。"
+
+# game/story/Chapter_L3.rpy:3849
+translate Tchinese post_gin_lucian_walk_cec82bce:
+
+    # "As you close your eyes, you feel the angel's hands holding onto your hips and his forehead touching yours."
+    "你閉上眼睛，天使的雙手握著你的臀部，把他的額頭和你的相抵。"
+
+# game/story/Chapter_L3.rpy:3850
+translate Tchinese post_gin_lucian_walk_7169b40e:
+
+    # "His voice falls to a soft whisper."
+    "他低聲耳語道："
+
+# game/story/Chapter_L3.rpy:3851
+translate Tchinese post_gin_lucian_walk_eb2e2207:
+
+    # L "Don’t fight it, just let me in."
+    L "不要抵抗，讓我進去。"
+
+# game/story/Chapter_L3.rpy:3856
+translate Tchinese post_gin_lucian_walk_92556935:
+
+    # "You feel the warmth of his breath against your lips. Nothing happens at first."
+    "他呼出的熱氣拍打在你的嘴唇上，起初什麼都沒發生。"
+
+# game/story/Chapter_L3.rpy:3857
+translate Tchinese post_gin_lucian_walk_3b96eb79:
+
+    # "Heat begins to build from your sides like dipping your body into a hot spring, the temperature escalates as seconds tick by."
+    "而後熱量開始從你的身體兩側積聚，彷彿浸入溫泉般舒坦，隨著時間一分一秒過去，溫度還在不斷上升。"
+
+# game/story/Chapter_L3.rpy:3892
+translate Tchinese post_gin_lucian_walk_2a343445:
+
+    # "A bright flash of light envelopes your mind. Your entire body stiffens as energy courses inside of you."
+    "一束耀眼的光芒籠罩了你的心靈。能量在你體內流動，你的整個身體都變得僵硬。"
+
+# game/story/Chapter_L3.rpy:3893
+translate Tchinese post_gin_lucian_walk_37d43e2d:
+
+    # G_h "Lucian..."
+    G_h "Lucian..."
+
+# game/story/Chapter_L3.rpy:3894
+translate Tchinese post_gin_lucian_walk_5d2bed07:
+
+    # p_mono "That voice! Gary?"
+    p_mono "這聲音是！Gary？"
+
+# game/story/Chapter_L3.rpy:3897
+translate Tchinese post_gin_lucian_walk_4e009e57:
+
+    # "The voice echoes in your mind, you realise this isn’t real."
+    "聲音在你腦中不停迴響 你隨即意識到那並不是真的Gary。"
+
+# game/story/Chapter_L3.rpy:3898
+translate Tchinese post_gin_lucian_walk_50e73d88:
+
+    # G_h "Your name will be Lucian, may you be a bright light to our guests as per your namesake."
+    G_h "你的名字是Lucian，願你如你的名字一樣，成為照亮我們住客的一盞明燈。"
+
+# game/story/Chapter_L3.rpy:3899
+translate Tchinese post_gin_lucian_walk_d68fe7d7:
+
+    # p_mono "What is this?"
+    p_mono "這是什麼？"
+
+# game/story/Chapter_L3.rpy:3900
+translate Tchinese post_gin_lucian_walk_8516d679:
+
+    # L_h "Look, I’ve managed to conjure a feather!"
+    L_h "看，我變出了一根羽毛!"
+
+# game/story/Chapter_L3.rpy:3901
+translate Tchinese post_gin_lucian_walk_29154062:
+
+    # p_mono "Lucian? No... this isn’t really him."
+    p_mono "Lucian？不對...不是真正的他。"
+
+# game/story/Chapter_L3.rpy:3902
+translate Tchinese post_gin_lucian_walk_206214ec:
+
+    # Uriel_h "Just one? I suppose that will do. "
+    Uriel_h "就一根？還可以吧。"
+
+# game/story/Chapter_L3.rpy:3903
+translate Tchinese post_gin_lucian_walk_492b9e52:
+
+    # Sariel_h "Look, I’ve managed to conjure fifty feathers at a time!"
+    Sariel_h "我能一次變出五十根呢！"
+
+# game/story/Chapter_L3.rpy:3904
+translate Tchinese post_gin_lucian_walk_8749864d:
+
+    # Uriel_h "Now that’s how you do it, learn from Sariel, Lucian."
+    Uriel_h "你應該向Sariel學習才是，Lucian。"
+
+# game/story/Chapter_L3.rpy:3905
+translate Tchinese post_gin_lucian_walk_ea60a656:
+
+    # L_h "Oh..."
+    L_h "哦..."
+
+# game/story/Chapter_L3.rpy:3906
+translate Tchinese post_gin_lucian_walk_5995ad4c:
+
+    # "The voices draw close before fleeing into the abyss, each time bringing fragmented conversations that confuse you."
+    "不時響起的支離破碎的對話讓你感到困惑。"
+
+# game/story/Chapter_L3.rpy:3907
+translate Tchinese post_gin_lucian_walk_fedaa6c0:
+
+    # p_mono "Are these voices from Lucian’s memories?"
+    p_mono "難道這些是Lucian的回憶？"
+
+# game/story/Chapter_L3.rpy:3908
+translate Tchinese post_gin_lucian_walk_38a3831c:
+
+    # Sariel_h "I got a job to capture a dangerous spirit on Earth, it’s worth five hundred points!"
+    Sariel_h "我接到一份去人界抓捕危險靈魂的任務，價值五百分！"
+
+# game/story/Chapter_L3.rpy:3909
+translate Tchinese post_gin_lucian_walk_2aeb24f8:
+
+    # Uriel_h "Lucky you, I want a high point job too. Mine’s just assisting in building the new wings for the new souls, a measly three hundred points. What about you Lucian?"
+    Uriel_h "你真幸運，我的是幫助新靈魂長出新翅膀，只有區區三百分。你呢，Lucian？"
+
+# game/story/Chapter_L3.rpy:3910
+translate Tchinese post_gin_lucian_walk_91887d5f:
+
+    # L_h "I... I’m collecting Blueprint ideas from the souls...again."
+    L_h "我...還是老樣子...從靈魂那裡收集藍圖。"
+
+# game/story/Chapter_L3.rpy:3911
+translate Tchinese post_gin_lucian_walk_deebea47:
+
+    # Uriel_h "Chin up, even low point jobs are important. Your day will come. We all just got to do our part for Up Above."
+    Uriel_h "振作起來，即使是低分數的工作也不能鬆懈，遲早有一天你會出頭的，我們都要為天界盡自己的一份力。"
+
+# game/story/Chapter_L3.rpy:3912
+translate Tchinese post_gin_lucian_walk_16e96694:
+
+    # L_h "Yeah..."
+    L_h "嗯..."
+
+# game/story/Chapter_L3.rpy:3913
+translate Tchinese post_gin_lucian_walk_55f15909:
+
+    # "The voices speaking to Lucian laugh as they fade away."
+    "對Lucian說話的聲音漸漸消失了。"
+
+# game/story/Chapter_L3.rpy:3916
+translate Tchinese post_gin_lucian_walk_c18311cc:
+
+    # L_h "Lord Gary... when will I be good enough to be by your side?"
+    L_h "Gary大人...我什麼時候才會有成為您左膀右臂的資格？"
+
+# game/story/Chapter_L3.rpy:3934
+translate Tchinese post_gin_lucian_walk_ea6d9383:
+
+    # "Your heart sinks at those words."
+    "聽到這話，你的心一沉。"
+
+# game/story/Chapter_L3.rpy:3940
+translate Tchinese post_gin_lucian_walk_ebb2b704:
+
+    # "You sense the flow of energy has stopped. Your ears twitch to the sound of Lucian shuffling away from you."
+    "能量的流動已經停止，你的耳朵隨著Lucian離開的動靜而抽動著。"
+
+# game/story/Chapter_L3.rpy:3942
+translate Tchinese post_gin_lucian_walk_8c380bee:
+
+    # L "It’s done."
+    L "完成了。"
+
+# game/story/Chapter_L3.rpy:3943
+translate Tchinese post_gin_lucian_walk_78b6dcd1:
+
+    # "You open your eyes; you’re still in your room."
+    "你睜開眼睛：這裡依舊是你的房間。"
+
+# game/story/Chapter_L3.rpy:3945
+translate Tchinese post_gin_lucian_walk_f5e3e79e:
+
+    # "Lucian tilts his head to the side."
+    "Lucian把頭歪向一邊。"
+
+# game/story/Chapter_L3.rpy:3947
+translate Tchinese post_gin_lucian_walk_301b48e7:
+
+    # L "How do you feel?"
+    L "感覺如何？"
+
+# game/story/Chapter_L3.rpy:3948
+translate Tchinese post_gin_lucian_walk_d3a9f0f8:
+
+    # p question "Still the same, I think. You didn’t say anything just then, did you? I could hear voices in my head."
+    p question "感覺沒什麼變化，大概。你剛才說了什麼嗎？我腦子一直裡有聲音。"
+
+# game/story/Chapter_L3.rpy:3949
+translate Tchinese post_gin_lucian_walk_7f3f2977:
+
+    # L "Strange, I wasn’t saying anything. What did you hear?"
+    L "奇怪，我什麼也沒有說，你都聽到了什麼？"
+
+# game/story/Chapter_L3.rpy:3950
+translate Tchinese post_gin_lucian_walk_c8d400a5:
+
+    # p "I could hear you speaking to other angels, Uriel and Sariel I believe."
+    p "我聽到你和其他天使說話，應該是Uriel和Sariel。"
+
+# game/story/Chapter_L3.rpy:3951
+translate Tchinese post_gin_lucian_walk_fd40ee0e:
+
+    # L @ shocked "What exactly did these Uriel and Sariel say?"
+    L @ shocked "具體一點？"
+
+# game/story/Chapter_L3.rpy:3952
+translate Tchinese post_gin_lucian_walk_bef1364c:
+
+    # p neutral "You guys were comparing your prowess at conjuring feathers and discussing the tasks assigned to you."
+    p neutral "你們在比較自己變羽毛的本領，還有討論分配給你們的任務。"
+
+# game/story/Chapter_L3.rpy:3953
+translate Tchinese post_gin_lucian_walk_ebcf3c61:
+
+    # "Lucian chuckles but doesn’t look you in the eyes."
+    "Lucian笑了，但沒有直視你的眼睛。"
+
+# game/story/Chapter_L3.rpy:3954
+translate Tchinese post_gin_lucian_walk_c42fe766:
+
+    # L "Ah, so transferring my powers leaked some memories. Don’t worry, just forget about them. They’re random conversations at work, that’s all."
+    L "啊，所以轉移過程還洩露了我的一部分記憶。別在意，忘了就好，那些不過是工作之餘的閒談罷了。"
+
+# game/story/Chapter_L3.rpy:3955
+translate Tchinese post_gin_lucian_walk_781a3b66:
+
+    # p question "Ok? So, did it work?"
+    p question "好吧？那麼成功了嗎？"
+
+# game/story/Chapter_L3.rpy:3959
+translate Tchinese post_gin_lucian_walk_29b1fd69:
+
+    # "Lucian pulls out the seal he borrowed from Morris."
+    "Lucian拿出他從Morris那裡借來的印章。"
+
+# game/story/Chapter_L3.rpy:3961
+translate Tchinese post_gin_lucian_walk_b9309175:
+
+    # L "Only one way to find out. Attune your eyes to the gang’s magic once more."
+    L "只有一種方法可以知道，再看一次這魔法。"
+
+# game/story/Chapter_L3.rpy:3963
+translate Tchinese post_gin_lucian_walk_ba3628f2:
+
+    # "You concentrate on the paper in the angel’s hand, remembering the feel and the smell of the Mythical Creatures magic."
+    "你把注意力集中在天使拿著的紙上，回憶著神話生物魔法的感覺和氣味。"
+
+# game/story/Chapter_L3.rpy:3972
+translate Tchinese post_gin_lucian_walk_6477c699:
+
+    # "A starry eye with ten strokes appear on the paper almost instantaneously."
+    "一隻閃爍著十字星芒的眼睛躍然浮現。"
+
+# game/story/Chapter_L3.rpy:3974
+translate Tchinese post_gin_lucian_walk_db7136d4:
+
+    # p smile "I see it! It works!"
+    p smile "我看到了！有效果！"
+
+# game/story/Chapter_L3.rpy:3980
+translate Tchinese post_gin_lucian_walk_7c233831:
+
+    # L smirk "It’s working!"
+    L smirk "成功了！"
+
+# game/story/Chapter_L3.rpy:3984
+translate Tchinese post_gin_lucian_walk_42571436:
+
+    # p "You did it! High five!"
+    p "你做到了！來擊個掌！"
+
+# game/story/Chapter_L3.rpy:3985
+translate Tchinese post_gin_lucian_walk_15430f6c:
+
+    # "You raise a hand in the air trying to high five the angel."
+    "你舉起一隻手，欲和天使擊掌。"
+
+# game/story/Chapter_L3.rpy:3986
+translate Tchinese post_gin_lucian_walk_785f2829:
+
+    # L grimace "What? Why are you showing me the palm of your hand?"
+    L grimace "什麼意思？你為什麼給我看你的手掌？"
+
+# game/story/Chapter_L3.rpy:3987
+translate Tchinese post_gin_lucian_walk_6a69b3f9:
+
+    # p "Smack my palm, silly. It’s a high five. People do this when they’re excited."
+    p "拍我的手，傻瓜，這是人類在興奮時的一種表現。"
+
+# game/story/Chapter_L3.rpy:3988
+translate Tchinese post_gin_lucian_walk_113c72af:
+
+    # L smirk "Oh, alright."
+    L smirk "噢，好的。"
+
+# game/story/Chapter_L3.rpy:3991
+translate Tchinese post_gin_lucian_walk_1e03f8c4:
+
+    # "He raises his left hand and awkwardly pushes it against your palm."
+    "他舉起左手，尷尬地跟你碰了碰。"
+
+# game/story/Chapter_L3.rpy:3994
+translate Tchinese post_gin_lucian_walk_3d6ad4d9:
+
+    # p question "Eh, good enough. I can’t wait to try out my powers again, I wonder how many of them have returned?"
+    p question "還不錯。不知道我的力量恢復了幾成？我已經等不及大展身手了。"
+
+# game/story/Chapter_L3.rpy:4002
+translate Tchinese post_gin_lucian_walk_c3637bcf:
+
+    # "You raise your right hand, attempting to summon a portal, but Lucian gently brings it down."
+    "你抬起右手，試圖召喚一道傳送門，卻被Lucian輕輕按了下去。"
+
+# game/story/Chapter_L3.rpy:4007
+translate Tchinese post_gin_lucian_walk_80d766e0:
+
+    # L sad "Save that for later. I hate to admit it, but I’m very tired after transferring my powers over to you, and we do have cultists to find tomorrow."
+    L sad "之後再說吧。雖然不想承認，但把力量轉移給你之後，我感覺渾身乏力，而且明天我們還得去找異教徒呢。"
+
+# game/story/Chapter_L3.rpy:4009
+translate Tchinese post_gin_lucian_walk_b77a2ae8:
+
+    # p_nt "Oh, right, we should sleep. Thank you Lucian, for the magic."
+    p_nt "也對，是該睡覺了。謝謝你的魔法，Lucian。"
+
+# game/story/Chapter_L3.rpy:4011
+translate Tchinese post_gin_lucian_walk_79ba8111:
+
+    # L smirk "Think nothing of it."
+    L smirk "別客氣。"
+
+# game/story/Chapter_L3.rpy:4012
+translate Tchinese post_gin_lucian_walk_9869bb1c:
+
+    # L grimace "However, if you must show gratitude, I’d rather much prefer you keep your word and shower first before resting."
+    L grimace "不過，如果你執意表示感謝，我更希望你信守諾言，睡覺前先洗澡。"
+
+# game/story/Chapter_L3.rpy:4013
+translate Tchinese post_gin_lucian_walk_8199342f:
+
+    # "The angel pinches his nose to exclamate his point."
+    "天使捏著鼻子大聲大喊道。"
+
+# game/story/Chapter_L3.rpy:4014
+translate Tchinese post_gin_lucian_walk_d3d87054:
+
+    # p "Pfft."
+    p "嘖。"
+
+# game/story/Chapter_L3.rpy:4015
+translate Tchinese post_gin_lucian_walk_7d33390a:
+
+    # L neutral "I’ll be on guard duty as ’d rather not have my nostrils be further assaulted by your... robust musk."
+    L neutral "我會去放哨，免得我的鼻孔受到你那...濃烈麝香味的襲擊。"
+
+# game/story/Chapter_L3.rpy:4016
+translate Tchinese post_gin_lucian_walk_4fbcf94d:
+
+    # p confused "Really, you’re going to work even though you’re tired?"
+    p confused "認真的？明明這麼累了？"
+
+# game/story/Chapter_L3.rpy:4018
+translate Tchinese post_gin_lucian_walk_a80a062d:
+
+    # L "It’s for our own good."
+    L "這對我們都好。"
+
+# game/story/Chapter_L3.rpy:4020
+translate Tchinese post_gin_lucian_walk_69e8d460:
+
+    # p neutral "Fine, but at least have a bath after me."
+    p neutral "行吧，不過等我洗完你也要洗。"
+
+# game/story/Chapter_L3.rpy:4022
+translate Tchinese post_gin_lucian_walk_9e0b36ec:
+
+    # L smirk "Certainly."
+    L smirk "那是當然。"
+
+# game/story/Chapter_L3.rpy:4023
+translate Tchinese post_gin_lucian_walk_c7851f61:
+
+    # "Lucian smiles as you leave to bathe. Thus, ending your night."
+    "在Lucian微笑的注視下，你進入了浴室。至此，你的夜晚結束了。"
+
+translate Tchinese strings:
+
+    # game/story/Chapter_L3.rpy:7
+    old "{size=50}Chapter 3{/size}"
+    new "第三章"
+
+    # game/story/Chapter_L3.rpy:8
+    old "Identity"
+    new "同一性"
+
+    # game/story/Chapter_L3.rpy:3231
+    old "In order to perceive magic, you must first attune yourself to each specific type of magic. This is also the basis of seeing through illusions and disguises. Having grown up around all kinds of magic, I am naturally aware of most of it. That is until the day Vendrake zapped me. I can tell that my natural awareness of magic has weakened since then. It’s like having a blocked nose, but at least I can smell King’s delicious cooking."
+    new "為了感知到魔法，你必須先讓自己適應特定類型的魔法，這也是看穿幻象和偽裝的基本。在各式各樣魔法中長大的我自然清楚其中的大部分，直到Vendrake背叛我的那一天。從那以後，我與生俱來的魔法親和力就大不如前了，好像鼻子被堵住一樣，不過我仍然能聞到King的美味飯菜。"
+
+    # game/story/Chapter_L3.rpy:3325
+    old "Agree with Lucian"
+    new "贊成Lucian"
+
+    # game/story/Chapter_L3.rpy:3325
+    old "Disagree with Lucian"
+    new "反對Lucian"
+
+# TODO: Translation updated at 2023-10-07 22:17
+
+# game/story/Chapter_L3.rpy:3559
+translate Tchinese post_gin_lucian_vs_lucian_0007daa0:
+
+    # L "Also, Morris, would you mind lending me one of those Mythical Creature seals? I think it would be handy for [name]’s training."
+    L "對了，Morris，你可以借我一枚神話生物的印章嗎？我認為這有利於[name]的訓練。"
+
+

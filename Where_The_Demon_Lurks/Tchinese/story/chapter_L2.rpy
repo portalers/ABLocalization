@@ -1,6 +1,4 @@
-# TODO: Translation updated at 2023-03-15 21:27
-
-# game/story/chapter_L2.rpy:18
+﻿# game/story/chapter_L2.rpy:18
 translate Tchinese chapter_L2_fa3a4a01:
 
     # L "Hey…"
@@ -2804,4 +2802,3 @@ translate Tchinese strings:
     # game/story/chapter_L2.rpy:1355
     old "I’ve been to two other Red Zones before I arrived in Kibbleton. I’ve got to be honest, I can’t really remember them in detail, with me running for my life and all. There was a city, it had this mega corporation that everyone was working for. Like the whole company had its hands in the city’s activities. The second place was nice, they all had this dragon god they all celebrated. It was a nice place, but it felt like I didn’t really belong there if I wasn’t a fan of their god. So far, minus the gang problem and the new cult in town, Kibbleton is pretty alright, but if what Lucian says is true..."
     new "在到達基布爾頓之前，我曾經去過兩個紅區。\n不過説實話，我忙於奔命，哪有功夫記清楚它們的細節呢？\n總之第一座城市有一間所有人都爲其工作的大公司，它就像是陰影，籠罩了城市的各個方面。\n第二個鄉鎮就好很多，人們會爲龍神舉行慶典，可我總覺得自己不屬於那地方，畢竟我又不是龍神的粉絲。\n至於基布爾頓嘛，除去幫派問題和新興的邪教其實還不錯，但假如Lucian所言屬實……"
-

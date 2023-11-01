@@ -1,6 +1,4 @@
-# TODO: Translation updated at 2023-03-15 21:27
-
-# game/story/chapter_T2.rpy:7
+﻿# game/story/chapter_T2.rpy:7
 translate Tchinese chapter_T2_316fbf79:
 
     # p "So where exactly are we going?"
@@ -3819,4 +3817,3 @@ translate Tchinese strings:
     # game/story/chapter_T2.rpy:1849
     old "I’ve met this guy, like twice, and he’s already trying to kill me? That’s a new record. He really despises demons and ghosts. To be fair, yes, our kind has a history of bewitching, possessing and even attempting to bend the will of mortal kind, but that was a long time ago. I’m different. I guess in the right light, his determination can be kind of sexy. A no-nonsense guy who’d do everything in his power to protect what he believes in. Punishing any demon that gets in his way... What am I writing?\nDespite his dubious hustle, Morris is tough. The end."
     new "我才見過這家伙兩次，他就想著殺我了？看來他真的很鄙視惡魔和幽靈。\n平心而論，我們是有蠱惑、附身，甚至扭曲凡人的意志的歷史，但那已經是舊帳了呀。\n我又不一樣。不過换個角度看，他還挺性感的：一個不苟言笑的驅魔師，會竭盡所能地守護自己的信仰，消滅一切妨礙他的惡魔……我在寫什麽東西？\n先不談Morris説自己很忙這件事值得懷疑，但他本人是條漢子。\n完畢。"
-

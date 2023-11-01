@@ -1,6 +1,4 @@
-# TODO: Translation updated at 2023-03-15 21:27
-
-# game/story/Prologue_Part_1.rpy:16
+﻿# game/story/Prologue_Part_1.rpy:16
 translate Tchinese prologue_part_1_463d48b4:
 
     # "A bloody red light tears a hole through the middle of the office room."
@@ -1892,4 +1890,3 @@ translate Tchinese strings:
     # game/story/Prologue_Part_1.rpy:718
     old "Nox, another name for the night. He was the last general to be created; Paw made him. Yet, I never saw them close with each other. Maybe it has to do with how he's often asking questions that don't really have any answer to them. The other generals don't seem to be interested in his questions, guess that's why he bothers me with them most of the time. At least he's pretty dependable and skilled... a little too skilled, I just can't beat the guy in any 2P matches. "
     new "Nox，夜晚的别稱。\n他是最後一位被創造出來的將軍：由我老爸，可是我從來没見他們兩個有多親近。\n即便跟我在一起的時候，他也總是保持一定的距離感。\n他很少提到自己，我只知道他一直在找機會放松。\n他的神秘感跟他在格鬥游戲中的水平不相上下，我從來就没在雙人對戰中贏過他。"
-

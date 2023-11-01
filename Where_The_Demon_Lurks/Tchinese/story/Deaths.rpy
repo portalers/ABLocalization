@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2023-03-15 21:27
-
-# game/story/Deaths.rpy:10
+﻿# game/story/Deaths.rpy:10
 translate Tchinese death_4c3ef161:
 
     # "Unknown" "What? What are you doing here?"
@@ -137,4 +135,3 @@ translate Tchinese death_0944ab75:
 
     # "Unknown" "My shoulders feel so heavy lately. I need more of that deep heating cream."
     "Unknown" "我的肩膀最近感覺好重，我需要更多的深度熱療按摩膏。"
-

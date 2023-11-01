@@ -1,6 +1,4 @@
-# TODO: Translation updated at 2023-03-15 21:27
-
-# game/story/chapter_2.rpy:24
+﻿# game/story/chapter_2.rpy:24
 translate Tchinese chapter_2_35f5707a:
 
     # "In the Demon Lord’s office, Vendrake sits behind his desk while swirling his coffee mug, which reads “#1 Boss”."
@@ -5149,4 +5147,3 @@ translate Tchinese strings:
     # game/story/chapter_2.rpy:11
     old "Freelancer"
     new "自業者"
-

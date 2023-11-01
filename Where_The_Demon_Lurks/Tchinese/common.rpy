@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-02-15 21:54
+﻿# TODO: Translation updated at 2023-02-15 21:54
 
 translate Tchinese strings:
 
@@ -992,5 +992,175 @@ translate Tchinese strings:
 
     # renpy/common/_errorhandling.rpym:673
     old "Parsing the script failed."
-    new "解析腳本失敗。"
+    new "解析腳本失敗。"# TODO: Translation updated at 2023-11-01 18:42
+
+translate Tchinese strings:
+
+    # renpy/common/_compat/gamemenu.rpym:198
+    old "Empty Slot."
+    new ""
+
+    # renpy/common/_compat/gamemenu.rpym:355
+    old "Previous"
+    new ""
+
+    # renpy/common/_compat/gamemenu.rpym:362
+    old "Next"
+    new ""
+
+    # renpy/common/_compat/preferences.rpym:428
+    old "Joystick Mapping"
+    new ""
+
+    # renpy/common/_developer/developer.rpym:38
+    old "Developer Menu"
+    new ""
+
+    # renpy/common/_developer/developer.rpym:43
+    old "Interactive Director (D)"
+    new ""
+
+    # renpy/common/_developer/developer.rpym:45
+    old "Reload Game (Shift+R)"
+    new ""
+
+    # renpy/common/_developer/developer.rpym:47
+    old "Console (Shift+O)"
+    new ""
+
+    # renpy/common/_developer/developer.rpym:49
+    old "Variable Viewer"
+    new ""
+
+    # renpy/common/_developer/developer.rpym:51
+    old "Image Location Picker"
+    new ""
+
+    # renpy/common/_developer/developer.rpym:53
+    old "Filename List"
+    new ""
+
+    # renpy/common/_developer/developer.rpym:57
+    old "Show Image Load Log (F4)"
+    new ""
+
+    # renpy/common/_developer/developer.rpym:60
+    old "Hide Image Load Log (F4)"
+    new ""
+
+    # renpy/common/_developer/developer.rpym:63
+    old "Image Attributes"
+    new ""
+
+    # renpy/common/_developer/developer.rpym:90
+    old "[name] [attributes] (hidden)"
+    new ""
+
+    # renpy/common/_developer/developer.rpym:94
+    old "[name] [attributes]"
+    new ""
+
+    # renpy/common/_developer/developer.rpym:143
+    old "Nothing to inspect."
+    new ""
+
+    # renpy/common/_developer/developer.rpym:154
+    old "Hide deleted"
+    new ""
+
+    # renpy/common/_developer/developer.rpym:154
+    old "Show deleted"
+    new ""
+
+    # renpy/common/_developer/developer.rpym:278
+    old "Return to the developer menu"
+    new ""
+
+    # renpy/common/_developer/developer.rpym:443
+    old "Rectangle: %r"
+    new ""
+
+    # renpy/common/_developer/developer.rpym:448
+    old "Mouse position: %r"
+    new ""
+
+    # renpy/common/_developer/developer.rpym:453
+    old "Right-click or escape to quit."
+    new ""
+
+    # renpy/common/_developer/developer.rpym:485
+    old "Rectangle copied to clipboard."
+    new ""
+
+    # renpy/common/_developer/developer.rpym:488
+    old "Position copied to clipboard."
+    new ""
+
+    # renpy/common/_developer/developer.rpym:506
+    old "Type to filter: "
+    new ""
+
+    # renpy/common/_developer/developer.rpym:633
+    old "Textures: [tex_count] ([tex_size_mb:.1f] MB)"
+    new ""
+
+    # renpy/common/_developer/developer.rpym:637
+    old "Image cache: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
+    new ""
+
+    # renpy/common/_developer/developer.rpym:647
+    old "✔ "
+    new ""
+
+    # renpy/common/_developer/developer.rpym:650
+    old "✘ "
+    new ""
+
+    # renpy/common/_developer/developer.rpym:655
+    old "\n{color=#cfc}✔ predicted image (good){/color}\n{color=#fcc}✘ unpredicted image (bad){/color}\n{color=#fff}Drag to move.{/color}"
+    new ""
+
+    # renpy/common/_developer/inspector.rpym:38
+    old "Displayable Inspector"
+    new ""
+
+    # renpy/common/_developer/inspector.rpym:61
+    old "Size"
+    new ""
+
+    # renpy/common/_developer/inspector.rpym:65
+    old "Style"
+    new ""
+
+    # renpy/common/_developer/inspector.rpym:71
+    old "Location"
+    new ""
+
+    # renpy/common/_developer/inspector.rpym:122
+    old "Inspecting Styles of [displayable_name!q]"
+    new ""
+
+    # renpy/common/_developer/inspector.rpym:139
+    old "displayable:"
+    new ""
+
+    # renpy/common/_developer/inspector.rpym:145
+    old "        (no properties affect the displayable)"
+    new ""
+
+    # renpy/common/_developer/inspector.rpym:147
+    old "        (default properties omitted)"
+    new ""
+
+    # renpy/common/_developer/inspector.rpym:185
+    old "<repr() failed>"
+    new ""
+
+    # renpy/common/_layout/classic_load_save.rpym:170
+    old "a"
+    new ""
+
+    # renpy/common/_layout/classic_load_save.rpym:179
+    old "q"
+    new ""
 
