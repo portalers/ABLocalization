@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2021-10-31 11:05
+﻿# TODO: Translation updated at 2021-10-31 11:05
 
 # game/story/Prologue_Part_2.rpy:9
 translate Schinese prologue_part_2_42cfc623:
@@ -2078,15 +2078,17 @@ translate Schinese prologue_part_2_23b89c77:
     # Amar shocked "Nox! What are you doing?"
     Amar shocked "Nox！你还愣着干什么？"
 
-# game/story/Prologue_Part_2.rpy:1463
+# TODO: Translation updated at 2023-01-28 14:41
+
+# game/story/Prologue_Part_2.rpy:1510
 translate Schinese prologue_part_2_ac24b467:
 
     # "Vendrake tosses you into the air again, {nw}"
-    "Vendrake tosses you into the air again, {nw}"
+    "Vendrake再度将你举到半空，{nw}"
 
 # game/story/Prologue_Part_2.rpy:1542
 translate Schinese prologue_part_2_5b0b55cb:
 
     # extend "firing a blast of green energy at you."
-    extend "firing a blast of green energy at you."
+    extend "紧接着射出一发绿色能量球。"
 

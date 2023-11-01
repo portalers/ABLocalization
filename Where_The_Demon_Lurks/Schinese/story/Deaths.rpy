@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2022-12-09 14:28
+﻿# TODO: Translation updated at 2022-12-09 14:28
 
 # game/story/Deaths.rpy:11
 translate Schinese death_4c3ef161:

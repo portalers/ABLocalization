@@ -68,7 +68,7 @@ translate Schinese strings:
 
     # game/scripts/gallery.rpy:4
     old "The Enemy"
-    new "敌人"
+    new "敌袭"
 
     # game/scripts/gallery.rpy:4
     old "Sascha Ende"
@@ -144,7 +144,7 @@ translate Schinese strings:
 
     # game/scripts/gallery.rpy:141
     old "Loop"
-    new "循环播放"
+    new "顺序播放"
 
     # game/scripts/gallery.rpy:143
     old "Shuffle"
@@ -189,4 +189,12 @@ translate Schinese strings:
     # game/scripts/gallery.rpy:4
     old "Disco Of The 70’s"
     new "70年代迪斯科"
+
+# TODO: Translation updated at 2023-10-07 22:17
+
+translate Schinese strings:
+
+    # game/scripts/gallery.rpy:4
+    old "Rocking Souls Never Die"
+    new "摇滚之魂永存"
 

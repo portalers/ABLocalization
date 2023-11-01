@@ -1,4 +1,4 @@
-translate Schinese python:
+﻿translate Schinese python:
     gui.text_font = gui.preference("font_1", "font/SourceHanSerifCN-Medium.otf")
     gui.name_text_font = gui.preference("font_2", "font/HanyiSentyMarshmallow.ttf")
     gui.interface_text_font = gui.preference("font_3", "font/HuaWenZhongSong-Bold.ttf")

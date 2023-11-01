@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2021-11-07 21:50
+﻿# TODO: Translation updated at 2021-11-07 21:50
 
 translate Schinese strings:
 
@@ -166,9 +166,7 @@ translate Schinese strings:
     old "Menu"
     new "菜单"
 
-    old "Language"
-    new "语言"
-
+# TODO: Translation updated at 2022-06-09 13:13
 
 translate Schinese strings:
 
@@ -178,9 +176,64 @@ translate Schinese strings:
 
     # game/screens.rpy:793
     old "Discord Integration"
-    new "Discord Integration"
+    new "同步到Discord"
 
     # game/screens.rpy:796
     old "On"
-    new "On"
+    new ""
 
+# TODO: Translation updated at 2023-06-27 17:17
+
+translate Schinese strings:
+
+    # game/screens.rpy:594
+    old "ABOUT"
+    new "{b}关于{/b}"
+
+    # game/screens.rpy:601
+    old "{font=font/Itim-Regular.ttf}Version{/font} [config.version!t]\n"
+    new "{font=font/Itim-Regular.ttf}Version{/font} [config.version!t]\n"
+
+    # game/screens.rpy:635
+    old "SAVE"
+    new "{b}保存{/b}"
+
+    # game/screens.rpy:642
+    old "LOAD"
+    new "{b}读取{/b}"
+
+    # game/screens.rpy:774
+    old "PREFERENCES"
+    new "{b}设置{/b}"
+
+    # game/screens.rpy:803
+    old "{font=font/Itim-Regular.ttf}Default"
+    new "{font=font/Itim-Regular.ttf}Default"
+
+    # game/screens.rpy:817
+    old "{#DiscordPreference}On"
+    new "开启"
+
+    # game/screens.rpy:823
+    old "{#DiscordPreference}Off"
+    new "关闭"
+
+    # game/screens.rpy:827
+    old "Nipples"
+    new "乳头显示"
+
+    # game/screens.rpy:828
+    old "{#NipplesPreference}On"
+    new "开启"
+
+    # game/screens.rpy:829
+    old "{#NipplesPreference}Off"
+    new "关闭"
+
+    # game/screens.rpy:960
+    old "HISTORY"
+    new "{b}历史{/b}"
+
+    # game/screens.rpy:960
+    old "Language"
+    new "语言"

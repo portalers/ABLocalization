@@ -2164,5 +2164,5 @@ translate Schinese name_input_3d18f97e:
 translate Schinese name_input_396294b0:
 
     # Fort annoyed "No, he approved my idea first, so that takes priority."
-    Fort annoyed "不，他先批准了我的，所以要以我为准。"
+    Fort annoyed "不，他先批了我的，所以要以我为准。"
 

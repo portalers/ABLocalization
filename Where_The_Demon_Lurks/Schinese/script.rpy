@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2021-11-07 21:50
+﻿# TODO: Translation updated at 2021-11-07 21:50
 
 translate Schinese strings:
 
@@ -241,4 +241,26 @@ translate Schinese strings:
     # game/script.rpy:95
     old "Sariel{#speakingName}"
     new "Sariel{#speakingName}"
+
+# TODO: Translation updated at 2023-10-07 22:17
+
+# game/script.rpy:281
+translate Schinese end_of_update_a196eaa4:
+
+    # "Or you can support us by buying our merch, available from the fine folks at Pawprint Press."
+    ""
+
+translate Schinese strings:
+
+    # game/script.rpy:97
+    old "Receptionists"
+    new "接待员"
+
+    # game/script.rpy:98
+    old "Kouya"
+    new "Kouya"
+
+    # game/script.rpy:99
+    old "Soya"
+    new "Soya"
 

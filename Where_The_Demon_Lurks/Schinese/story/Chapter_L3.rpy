@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2022-11-15 13:14
+﻿# TODO: Translation updated at 2022-11-15 13:14
 
 # game/story/Chapter_L3.rpy:17
 translate Schinese chapter_L3_38c52bc2:
@@ -9407,4 +9407,13 @@ translate Schinese strings:
     # game/story/Chapter_L3.rpy:3325
     old "Disagree with Lucian"
     new "反对Lucian"
+
+# TODO: Translation updated at 2023-10-07 22:17
+
+# game/story/Chapter_L3.rpy:3559
+translate Schinese post_gin_lucian_vs_lucian_0007daa0:
+
+    # L "Also, Morris, would you mind lending me one of those Mythical Creature seals? I think it would be handy for [name]’s training."
+    L "对了，Morris，你可以借我一枚神话生物的印章吗？我认为这有利于[name]的训练。"
+
 
