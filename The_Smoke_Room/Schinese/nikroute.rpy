@@ -6550,3 +6550,11 @@ translate Schinese nikroute_91559ea8:
     # "Yao leads us inside."
     "Yao带领我们走了进去。"
 
+# TODO: Translation updated at 2023-11-02 21:37
+
+# game/nikroute.rpy:1353
+translate Schinese nikroute_a690c6aa:
+
+    # ya "\"Very well. Let us move, and be quick about this. We can talk as we walk.\""
+    ya "“好，那我们出发吧，尽快把事情做完，我们可以边走边谈。”"
+
