@@ -6291,7 +6291,7 @@ translate Schinese aftercliffint2_e3cd6ff4:
 translate Schinese aftercliffint2_715cd521:
 
     # "The two of us look at one another again, and then back to Cliff."
-    "我们两个再度面面相覷，然后转回Cliff。"
+    "我们两个再度面面相觑，然后转回Cliff。"
 
 # game/cliffroute3.rpy:1677
 translate Schinese aftercliffint2_1b7b76bf:
@@ -6375,7 +6375,7 @@ translate Schinese aftercliffint2_25d4acd9:
 translate Schinese aftercliffint2_3c2ba297:
 
     # mu "“...that’s a bitch to time correctly, anyhow.”"
-    mu "“...况且那时间难抓得很。”"
+    mu "“...况且那时机难抓得很。”"
 
 # game/cliffroute3.rpy:1703
 translate Schinese aftercliffint2_dddea4da:
@@ -6435,13 +6435,13 @@ translate Schinese aftercliffint2_b50a621f:
 translate Schinese aftercliffint2_2b48d1e2:
 
     # mu "“But truth be told, I don’t think numbers will help anyone who runs across that thing.”"
-    mu "“但说实话，我觉得以东西来说，数量是不管用的。”"
+    mu "“但说实话，我觉得在那东西面前，多少人都不够看。”"
 
 # game/cliffroute3.rpy:1716
 translate Schinese aftercliffint2_0fc86a49:
 
     # m "“So what will help?”"
-    m "“那什么管用？”"
+    m "“那什么够看？”"
 
 # game/cliffroute3.rpy:1718
 translate Schinese aftercliffint2_1403a60c:
@@ -6597,7 +6597,7 @@ translate Schinese aftercliffint2_730f8388:
 translate Schinese aftercliffint2_837a26f1:
 
     # "I see movement between the trees and see a procession of mostly adult Meseta, walking in a row with a man at the front shaking a rattle."
-    "透过树木间隙，我看到一个大多由成年梅塞塔人所组成的队伍，最前方的男人摇着波浪鼓。"
+    "透过树木间隙，我看到一个大多由成年梅塞塔人所组成的队伍，最前方的男人摇着拨浪鼓。"
 
 # game/cliffroute3.rpy:1764
 translate Schinese aftercliffint2_9a5ce255:
@@ -8109,7 +8109,7 @@ translate Schinese aftercliffint2_18044466:
 translate Schinese aftercliffint2_bc3e2d00:
 
     # "I yowl as I feel it yank me off of my feet, slamming my back into the dirt."
-    "它拽着我的腿，将我四脚朝天甩到地上，痛得我连连号角。"
+    "它拽着我的腿，将我四脚朝天甩到地上，痛得我连连嚎叫。"
 
 # game/cliffroute3.rpy:2279
 translate Schinese aftercliffint2_894ba048:
@@ -11089,7 +11089,7 @@ translate Schinese cliffroute3a_cf9f8280:
 translate Schinese cliffroute3a_35229f8c:
 
     # "I want to think so what if I was, but that’s probably not fair."
-    "我想说‘那又怎样？’，但现在似乎不太合适。"
+    "我想说“那又怎样？”，但现在似乎不太合适。"
 
 # game/cliffroute3.rpy:3630
 translate Schinese cliffroute3a_0600adc9:
@@ -11977,7 +11977,7 @@ translate Schinese cliffroute3a_cd77a47c:
 translate Schinese cliffroute3a_2860c1ed:
 
     # "I think I hear him say something along the lines of Alona but I can’t be certain."
-    "他发出类似‘阿罗纳’的音，大概是。"
+    "他发出类似“阿罗纳”的音，大概是。"
 
 # game/cliffroute3.rpy:3925
 translate Schinese cliffroute3a_11e33ac7:
@@ -12061,7 +12061,7 @@ translate Schinese cliffroute3a_03d6f511:
 translate Schinese cliffroute3a_b81456bb:
 
     # "It doesn’t look that different from my schooling experience."
-    "跟我的就学经历大差不大。"
+    "跟我的就学经历大差不差。"
 
 # game/cliffroute3.rpy:3959
 translate Schinese cliffroute3a_dc221369:
