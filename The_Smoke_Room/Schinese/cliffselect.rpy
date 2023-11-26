@@ -72,9 +72,9 @@ translate Schinese strings:
 
     # game/cliffselect.rpy:98
     old "As Cliff, what do bring up to Tsela and Yiska?"
-    new ""
+    new "扮演Cliff时，你对Tsela和Yiska说了什么？"
 
     # game/cliffselect.rpy:98
     old "You said that there are plans to expand the Echo train station through the settlement."
-    new ""
+    new "你提到回音镇有意将铁路拓展至部落。"
 
