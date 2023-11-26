@@ -92,9 +92,16 @@ translate Schinese strings:
 
     # game/willselect.rpy:62
     old "When William confides in you his feelings about his wife arriving in echo, what did you tell him?"
-    new ""
+    new "William向你坦白了他对前妻来到回音镇的真实想法，你是如何回应的？"
 
     # game/willselect.rpy:93
     old "Said that people sometimes hallucinate."
-    new ""
+    new "说有时人们会产生幻觉。"
+
+translate Schinese strings:
+
+    # game/willselect.rpy:115
+    old "As William, did you get Sam off in the bedroom?"
+    new "扮演William时，你有帮Sam发泄出来吗？"
+
 
