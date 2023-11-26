@@ -29643,19 +29643,19 @@ translate Schinese williamroute3c_ad91db66:
 translate Schinese williamroute3c_d220dd7a:
 
     # m "\"A freshly gutted catfish.\""
-    m "“那就被去了内脏的新鲜鲶鱼好了。”"
+    m "“那就去除了内脏的新鲜鲶鱼好了。”"
 
 # game/williamroute3.rpy:10269
 translate Schinese williamroute3c_78805649:
 
     # cl "\"You cheated!\""
-    cl "“这是作弊！”"
+    cl "“你这是作弊！”"
 
 # game/williamroute3.rpy:10271
 translate Schinese williamroute3c_6a5bb6af:
 
     # m "\"No I didn’t.\""
-    m "“才不是。”"
+    m "“才没有。”"
 
 # game/williamroute3.rpy:10274
 translate Schinese williamroute3c_dd83202b:
