@@ -28705,3 +28705,11 @@ translate Schinese smc1_9d3eaacc:
     # m "\"Right.\""
     m "“当然。”"
 
+# TODO: Translation updated at 2023-11-24 14:59
+
+# game/cliffroute2.rpy:9104
+translate Schinese campsong_8d5721bd:
+
+    # av "\"Scary stories are well and good, but the real things happening in the world every day are usually worse.\""
+    av "“不是说恐怖故事不好，但现实永远比故事更加离奇。”"
+
