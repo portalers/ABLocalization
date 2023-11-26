@@ -1,4 +1,4 @@
-﻿# game/murdochroute3.rpy:4
+# game/murdochroute3.rpy:4
 translate Tchinese murdochroute3_74be125b:
 
     # "When I get to the store I’m handed a list of tasks."
@@ -19345,3 +19345,29 @@ translate Tchinese murdochroute3b_655a611f:
 
     # "Jim appears next and walks up the aisle by himself towards Gretchen."
     "Jim緊接著現身，走向Gretchen。"
+# TODO: Translation updated at 2023-11-24 14:58
+
+# game/murdochroute3.rpy:5938
+translate Tchinese murdochroute3b_a096fa8d:
+
+    # nibadg "\"What?!\""
+    nibadg "什麼！？"
+
+# game/murdochroute3.rpy:5941
+translate Tchinese murdochroute3b_3d78a76f:
+
+    # nibadg "\"Little girls!?\""
+    nibadg "小女孩！？"
+
+# game/murdochroute3.rpy:5943
+translate Tchinese murdochroute3b_f61c7b9c:
+
+    # nibadg "\"You shouldn’t be down here!\""
+    nibadg "妳們不該來這裡的！"
+
+# game/murdochroute3.rpy:5945
+translate Tchinese murdochroute3b_19aa1f13:
+
+    # nibadg "\"It’s not safe! You have to run!\""
+    nibadg "這裡很危險！快跑！"
+
