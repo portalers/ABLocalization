@@ -1,4 +1,4 @@
-﻿# game/cliffroute2.rpy:14
+# game/cliffroute2.rpy:14
 translate Tchinese cliffroute2_0bdb59af:
 
     # "In the cover of darkness, Jebediah leads us through the empty streets all the way to the outskirts of town, where he's prepared a small wooden wagon."
@@ -25437,6 +25437,7 @@ translate Tchinese campsong_8a0c5bf6:
 
     # av "\"Scary stories are well and good, but the real things happening in the world every day you are usually worse.\""
     av "“我不是說恐怖故事不好，但現實永遠比故事更離奇。”"
+    
 translate Tchinese campsong_ea318494:
 
     # av "\"It's… the first time I've thought about her in a long while, to be honest.\""
@@ -26105,3 +26106,11 @@ translate Tchinese hh_7ce91439:
 
     # av "\"Jeb, I don't think that it's safe to--\""
     av "“Jeb，那也太危——”"
+# TODO: Translation updated at 2023-11-24 14:58
+
+# game/cliffroute2.rpy:9104
+translate Tchinese campsong_8d5721bd:
+
+    # av "\"Scary stories are well and good, but the real things happening in the world every day are usually worse.\""
+    av "“我不是說恐怖故事不好，但現實永遠比故事更離奇。”"
+
