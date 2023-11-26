@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-03-19 20:06
+# TODO: Translation updated at 2023-03-19 20:06
 
 # game/williamroute2.rpy:12
 translate Tchinese williamroute2_5cf8bf4a:
@@ -13592,4 +13592,12 @@ translate Tchinese after_sw1_51afd4df:
 
     # sc "\"On it, Madam.\""
     sc "“我這就去，夫人。”"
+
+# TODO: Translation updated at 2023-11-24 14:58
+
+# game/williamroute2.rpy:3955
+translate Tchinese sw2_7cba14a6:
+
+    # wi "\"But some of the days I miss look an awful lot like this one. \""
+    wi "“但是今天足以與其媲美了。”"
 
