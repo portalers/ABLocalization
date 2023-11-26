@@ -1570,7 +1570,7 @@ translate Schinese aftertent_02e686cb:
 translate Schinese aftertent_313c1247:
 
     # cl "“We should be there in a… little while, I'd say.”"
-    cl "“我依看，应该...一会儿就到。”"
+    cl "“依我看，应该...一会儿就到。”"
 
 # game/cliffroute3.rpy:394
 translate Schinese aftertent_f5195263:
@@ -1588,7 +1588,7 @@ translate Schinese aftertent_7ae59b72:
 translate Schinese aftertent_9e0c8551:
 
     # cl "“We should be getting plenty of time to recuperate in the coming week.”"
-    cl "“接下来的一周应该足够大家修养。”"
+    cl "“接下来的一周应该足够大家休养。”"
 
 # game/cliffroute3.rpy:398
 translate Schinese aftertent_b3cd6aa5:
@@ -4635,7 +4635,7 @@ translate Schinese aftercliffint2_d65c1fb8:
 translate Schinese aftercliffint2_f6b0b214:
 
     # "The goose eying us warily doesn’t look Meseta."
-    "一只看起来不像梅塞塔的鹅正仔细打量着我们。"
+    "一只看起来不像梅塞塔人的鹅正仔细打量着我们。"
 
 # game/cliffroute3.rpy:1152
 translate Schinese aftercliffint2_ac10f7ba:
@@ -10243,7 +10243,7 @@ translate Schinese cliffroute3a_c806ebc0_1:
 translate Schinese cliffroute3a_db62cd78:
 
     # "He doesn’t say anything for a while as he keeps dressing my foot."
-    "他继续为我包扎，沉默好了一阵子。"
+    "他继续为我包扎，沉默了好一阵子。"
 
 # game/cliffroute3.rpy:3249
 translate Schinese cliffroute3a_291b0c8b:
@@ -10525,7 +10525,7 @@ translate Schinese cliffroute3a_906b6202:
 translate Schinese cliffroute3a_f767b169:
 
     # "The bark is gone, so it’s easy enough to hold onto both of them and swing my way through a triangular stance."
-    "树枝没有树皮，握起来很趁手，我便放心的以三角形的姿势摆动起来。"
+    "树枝没有树皮，握起来很趁手，我便放心地以三角形的姿势摆动起来。"
 
 # game/cliffroute3.rpy:3411
 translate Schinese cliffroute3a_daf934e6:
@@ -10663,7 +10663,7 @@ translate Schinese cliffroute3a_de427fb1:
 translate Schinese cliffroute3a_4ebb4e7b:
 
     # av "“I’ll check up on your injuries before I leave, but I need to get back to Echo sooner rather than later.”"
-    av "“我不久后就要返回回音了，届时会再给你检查一遍伤口。”"
+    av "“我不久后就要返回回音镇了，届时会再给你检查一遍伤口。”"
 
 # game/cliffroute3.rpy:3498
 translate Schinese cliffroute3a_228dec93:
@@ -10771,7 +10771,7 @@ translate Schinese cliffroute3a_1a06f10b:
 translate Schinese cliffroute3a_ede2d2fa:
 
     # "Some part of me knows it’s terrible, but I’d surely breathe a little easier if he never made his way back to Echo."
-    "如果他再也回不去回音，我肯定会松一口气，虽然我知道自己这样想很差劲。"
+    "如果他再也回不去回音镇，我肯定会松一口气，虽然我知道这样的想法非常恶劣。"
 
 # game/cliffroute3.rpy:3526
 translate Schinese cliffroute3a_3f4e42a0:
@@ -10843,7 +10843,7 @@ translate Schinese cliffroute3a_10774f2d:
 translate Schinese cliffroute3a_e153a921:
 
     # extend " expression shift from relaxed to nervous."
-    extend "表情从休闲变为紧张。"
+    extend "表情从悠闲变为紧张。"
 
 # game/cliffroute3.rpy:3551
 translate Schinese cliffroute3a_3c346cbe:
