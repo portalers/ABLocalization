@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-03-19 20:06
+# TODO: Translation updated at 2023-03-19 20:06
 
 # game/nikroute3.rpy:3
 translate Tchinese nikroute3_1fb29d2f:
@@ -26218,221 +26218,229 @@ translate Tchinese strings:
     # game/nikroute3.rpy:7507
     old "But he still can’t be trusted."
     new "但他還是信不得。"
-# TODO: Translation updated at 2023-10-01 19:12
+# TODO: Translation updated at 2023-11-24 14:58
 
 # game/nikroute3.rpy:19
 translate Tchinese nikroute3_424fdce8:
 
     # ya "\"I do not trip.\""
-    ya ""
+    ya "“其他人不好說。”"
 
 # game/nikroute3.rpy:31
 translate Tchinese nikroute3_283cd2e8:
 
     # ya "\"I do not think I have ever heard you scream that loud.\""
-    ya ""
+    ya "“我還是第一次聽見你叫得那樣大聲。”"
 
 # game/nikroute3.rpy:138
 translate Tchinese nikroute3_ba8e21e0:
 
     # ya "\"I did not.\""
-    ya ""
+    ya "“我沒有看到。”"
 
 # game/nikroute3.rpy:194
 translate Tchinese nikroute3_2dbdcaf4:
 
     # ya "\"They would talk about tree roots that could devour people whole.\""
-    ya ""
+    ya "“其中既有會吞吃人類的樹根。”"
 
 # game/nikroute3.rpy:207
 translate Tchinese nikroute3_2e8891bf:
 
     # ya "\"That is exactly what superstitious people say.\""
-    ya ""
+    ya "“迷信的人都這樣說。”"
 
 # game/nikroute3.rpy:290
 translate Tchinese nikroute3_4b0ec6ba:
 
     # ya "\"We will take what we need.\""
-    ya ""
+    ya "“需要多少拿多少。”"
 
 # game/nikroute3.rpy:293
 translate Tchinese nikroute3_cfe04643:
 
     # ya "\"We cannot be greedy.\""
-    ya ""
+    ya "“切忌貪婪。”"
 
 # game/nikroute3.rpy:423
 translate Tchinese nikroute3_43e98e80:
 
     # ya "\"He will not be able to organize us the way he does now.\""
-    ya ""
+    ya "“也就無法像現在這樣領導我們了。”"
 
 # game/nikroute3.rpy:550
 translate Tchinese nikroute3_aa4805cb:
 
     # ya "\"Then let us hope they do not escalate.\""
-    ya ""
+    ya "“那就祈禱他們別加壓吧。”"
 
 # game/nikroute3.rpy:827
 translate Tchinese nikroute3_dca040f6:
 
     # "He touches my shoulder."
-    ""
+    "他拍了拍我的肩膀。"
 
 # game/nikroute3.rpy:1024
 translate Tchinese nikroute3_c2abbe0d:
 
     # m "\"Well yeah, but it’s not the same thing as robbery.\""
-    m ""
+    m "“是沒錯，但我們又沒有坑蒙拐騙。”"
 
 # game/nikroute3.rpy:1400
 translate Tchinese sny2_0f4d6932:
 
     # "And then I felt very full."
-    ""
+    "然後是被填滿的感覺。"
 
 # game/nikroute3.rpy:1836
 translate Tchinese sny2_c9601406:
 
     # "I’m not exactly a people person Dora, but I’ll do my best."
-    ""
+    "我不擅長交際啊，Dora，不過我會盡力的。"
 
 # game/nikroute3.rpy:4993
 translate Tchinese nikroute3a_0f43e86f:
 
     # ya "\"There is always something somewhere, is there not?\""
-    ya ""
+    ya "“我們注定難逃一劫，不是嗎？”"
 
 # game/nikroute3.rpy:4997
 translate Tchinese nikroute3a_3f8b99ad:
 
     # ya "\"Is that not something they say in your faith, Samuel?\""
-    ya ""
+    ya "“這就是你們的信仰所強調的吧，Samuel？”"
 
 # game/nikroute3.rpy:5042
 translate Tchinese nikroute3a_3d1ce1b3:
 
     # ya "\"But you know it is all ending soon.\""
-    ya ""
+    ya "“但是人終有一死。”"
 
 # game/nikroute3.rpy:5057
 translate Tchinese nikroute3a_6df43b44:
 
     # ya "\"He has made the calls.\""
-    ya ""
+    ya "“他已經做出了決斷。”"
 
 # game/nikroute3.rpy:5064
 translate Tchinese nikroute3a_d3240eaf:
 
     # ya "\"The ones that we will use to protect ourselves if we do not get out on time.\""
-    ya ""
+    ya "“在我們沒有來得及逃脫的時候自保用的。”"
 
 # game/nikroute3.rpy:5082
 translate Tchinese nikroute3a_d09db123:
 
     # ya "\"There are things I do not want to leave behind too.\""
-    ya ""
+    ya "“我也有捨不得拋下的東西。”"
 
 # game/nikroute3.rpy:6274
 translate Tchinese nikroute3b_6e7d0232:
 
     # "If nobody were here, I'd be looking for a weapon bulging from his shoe or his pockets."
-    ""
+    "說不定會從鞋子或口袋裡掏出武器。"
 
 # game/nikroute3.rpy:6337
 translate Tchinese nikroute3b_57a75a61:
 
     # ben "\"Whoa whoa whoa, it’s the boss who’s holdin’ it! Not me!\""
-    ben ""
+    ben "“喂喂，帽子在老闆手上！與我無關啊！”"
 
 # game/nikroute3.rpy:6380
 translate Tchinese nikroute3b_cb91a1f5:
 
     # "His walk turns into a jog as the gap between us grows {nw}"
-    ""
+    "走著走著，他小跑起來，{nw}"
 
 # game/nikroute3.rpy:6661
 translate Tchinese nikroute3b_2ed9ccb6:
 
     # br "\"Because it’s pretty apparent that the gas canister runs two inches thicker than our standard hats.\""
-    br ""
+    br "“很明顯，瓦斯罐比我們的標準厚了兩英寸。”"
 
 # game/nikroute3.rpy:6862
 translate Tchinese nikroute3b_71d620f9:
 
     # "He hesitates before walking up."
-    ""
+    "他猶豫了一下，走出門。"
 
 # game/nikroute3.rpy:7170
 translate Tchinese nikroute3b_2cb7f33e:
 
     # "I look around to see signs of where Nik might've gone off too."
-    ""
+    "我左顧右盼，尋找Nik的去向。"
 
 # game/nikroute3.rpy:7209
 translate Tchinese nikroute3b_00280e61:
 
     # m "\"Just a quick delivery I need to make before we meet up with Yao again.\""
-    m ""
+    m "“在跟Yao會合前，我得去鎮上送個東西。”"
 
 # game/nikroute3.rpy:7301
 translate Tchinese nikroute3b_4bea27f1:
 
     # "His brow lifts as he looks me over, his eyes focused on the envelope that I carry."
-    ""
+    "他挑起眉毛打量我，焦點落在我拿著的信封上。"
 
 # game/nikroute3.rpy:7455
 translate Tchinese sellcomp2b_e582c229:
 
     # "He let out a sudden squeal and puckers his lips, letting the air puff out."
-    ""
+    "他驀地發出一聲驚呼，皺起嘴唇，吐出絲絲的氣流。"
 
 # game/nikroute3.rpy:7509
 translate Tchinese sellcomp2b_7c7d1f14:
 
     # "Then again, he doesn’t seem like the kind of person who struggles to find a way that works for him through life."
-    ""
+    "不過話說回來，他也不像是遇到過絕境的人。"
 
 # game/nikroute3.rpy:7605
 translate Tchinese sny4_ab133aa7:
 
     # m "\"If it weren’t for you I wouldn’t have known the right way to run when...\""
-    m ""
+    m "“多虧了你，我才知道該往哪跑...”"
 
 # game/nikroute3.rpy:7746
 translate Tchinese sny4_281a9ecc:
 
     # ya "\"Do you both remember the way in and out?\""
-    ya ""
+    ya "“你們還記得進出的路吧？”"
 
 # game/nikroute3.rpy:7847
 translate Tchinese sny4_27cf6733:
 
     # "I’m too busy trying to catch my breath before I can respond."
-    ""
+    "我喘了好幾口氣才回答。"
 
 # game/nikroute3.rpy:8252
 translate Tchinese sny4_1f7e587d:
 
     # "If there’s anybody who could find a way out of here, it’s him."
-    ""
+    "除了他，沒人有能力找到出路。"
 
 # game/nikroute3.rpy:8737
 translate Tchinese sny4_ad068c44:
 
     # ben "\"Unless, of course, you’re the one getting killed.\""
-    ben ""
+    ben "“除非，自己就是被殺的那一個。”"
 
 # game/nikroute3.rpy:8755
 translate Tchinese sny4_290145b8:
 
     # "We both stare at it."
-    ""
+    "我們全都看著它。"
 
 # game/nikroute3.rpy:8978
 translate Tchinese sny4_344f6779:
 
     # extend " then notices, and turns to see what we’re looking at,{nw}"
-    extend ""
+    extend "才反應過來，轉身看著我們眼中的東西，{nw}"
+
+# TODO: Translation updated at 2023-11-24 14:59
+
+# game/nikroute3.rpy:2877
+translate Tchinese nikroute3a_ae7d2cc8:
+
+    # co "\"I’ll just have to recheck the entire inventory with my cook after all this.\""
+    co "“接下來就只剩下跟我們家的廚師一起好好檢查一遍庫存了。”"
 
