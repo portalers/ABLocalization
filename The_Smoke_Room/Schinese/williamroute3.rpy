@@ -39701,13 +39701,13 @@ translate Schinese samwill4_21045c82:
 translate Schinese samwill4_a477f516:
 
     # "A chuckle escapes my throat."
-    "我不禁笑了起来。"
+    "我忍不住笑了起来。"
 
 # game/williamroute3.rpy:12009
 translate Schinese samwill4_bdda8c32:
 
     # wi "\"S'pose it's a familiar to the notion I had when I first met you.\""
-    wi "“这跟我第一次见到你时的想法很像。”"
+    wi "“有点像我第一次见到你时的情景。”"
 
 # game/williamroute3.rpy:12011
 translate Schinese samwill4_d011ddb7:
@@ -40073,7 +40073,7 @@ translate Schinese samwill4_c85e4bbf:
 translate Schinese samwill4_ec5e3031:
 
     # m "\"Are you really willing to loosen up?\""
-    m "“那么你准备好放松一下了吗？”"
+    m "“那么你真的准备好放松一下了吗？”"
 
 # game/williamroute3.rpy:12133
 translate Schinese samwill5_23f711af:
