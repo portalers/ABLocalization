@@ -87,15 +87,6 @@ translate Schinese strings:
     old "{color=#000000}{font=willfont.ttf}[manortext]{/font}{/color}"
     new "{color=#000000}{font=fonts/willfont.ttf}[manortext!t]{/font}{/color}"
 
-    old "{color=#000000}{font=willfont.ttf}[hledgertext]{/font}{/color}"
-    new "{color=#000000}{font=fonts/willfont2.ttf}[hledgertext!t]{/font}{/color}"
-
-    old "{color=#000000}{font=willfont.ttf}[hlettertext]{/font}{/color}"
-    new "{color=#000000}{font=fonts/willfont2.ttf}[hlettertext!t]{/font}{/color}"
-
-    old "{color=#000000}{font=willfont.ttf}[ethelclifftext]{/font}{/color}"
-    new "{color=#000000}{font=fonts/willfont2.ttf}[ethelclifftext!t]{/font}{/color}"
-    
     old "Made James bleed. Was funny."
     new "揍了James一顿，痛快。"
 
@@ -162,7 +153,7 @@ translate Schinese strings:
 
     old "The body was in a ditch."
     new "尸体之前在阴沟里。"
-
+    
     old "Tutti-frutti."
     new "什锦口味。"
 
@@ -203,10 +194,10 @@ translate Schinese strings:
     new "James家里有一堵空心的墙，他们声称自己毫不知情。门厅的楼梯顶部挂着一副装有铰链的画。"
 
     old "Names. Addresses. Companions. I could probably track down half the city with all of this information."
-    new "名字、地址、同伴。光有这些信息，就足以让我掌握城里大半人的行踪。"
+    new "名字、地址、同伴。光凭这些资讯，就足够我掌握城里大半人的行踪了。"
 
     old "The mafia uses these pictures as intimidating messeages. Nobody wants to wake up to these in their mail. I imagine Chang Fulin didn't, whoever he is."
-    new "黑手党把这些图样当成恐吓讯息。没人想一大早就在邮筒里看到这些东西。这个叫Chang Fulin的人大概也差不多。"
+    new "黑手党把这些图案当成恐吓讯息。没人想一大早就在邮箱里看到这些东西，那个叫Chang Fulin的家伙大概也一样。"
 
     old "We could hear him down the hallway. But at least I know now that Harlan asked for the wine delivery."
-    new "在走廊上都听得一清二楚。好歹我是知道酒是Harlan订的了。"
+    new "在走廊上都听得一清二楚，但好歹我知道酒是Harlan要的了。"
