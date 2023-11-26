@@ -15664,7 +15664,7 @@ translate Schinese sny1_9e9ef4dc:
 translate Schinese sny1_0f5a4f67:
 
     # ya "\"Listen.\""
-    ya "“听着。”"
+    ya "“听我说。”"
 
 # game/nikroute2.rpy:5080
 translate Schinese sny1_b36c6bbf:
@@ -25617,4 +25617,516 @@ translate Schinese sny1_bdeb1ad6:
 
     # nabj "\"I think foreman Moore should have a look at this--\""
     nabj "“有必要让Moore工头过目-”"
+
+# TODO: Translation updated at 2023-11-02 21:37
+
+# game/nikroute2.rpy:28
+translate Schinese nikroute2_61b8360a:
+
+    # ya "\"Let us go.\""
+    ya "“我们走吧。”"
+
+# game/nikroute2.rpy:54
+translate Schinese nikroute2_047f2f69:
+
+    # ya "\"Don not stand under the stalactites.\""
+    ya "“别站在钟乳石的下面。”"
+
+# game/nikroute2.rpy:124
+translate Schinese nikroute2_84b26b2b:
+
+    # ya "\"Are you talking about Jack?\""
+    ya "“你们是在讨论Jack吗？”"
+
+# game/nikroute2.rpy:194
+translate Schinese nikroute2_92c8d9ad:
+
+    # ya "\"We are here.\""
+    ya "“我们到了。”"
+
+# game/nikroute2.rpy:210
+translate Schinese nikroute2_f76c3a1d:
+
+    # ya "\"I am still close.\""
+    ya "“我还在附近。”"
+
+# game/nikroute2.rpy:212
+translate Schinese nikroute2_1cc4f59b:
+
+    # ya "\"The second drop is not nearly as high.\""
+    ya "“第二个断层就没有这么高了。”"
+
+# game/nikroute2.rpy:258
+translate Schinese nikroute2_9e7216d3:
+
+    # ya "\"We are in a cave. Voices carry far.\""
+    ya "“我们在洞穴里，声音传得很远。”"
+
+# game/nikroute2.rpy:260
+translate Schinese nikroute2_4116621a:
+
+    # ya "\"Since I am down here in this small space, risking my neck for your money, why not come down and help me look?\""
+    ya "“既然我是为了你才冒着生命危险下到这个狭窄的地方，你何不过来帮我一起找呢？”"
+
+# game/nikroute2.rpy:327
+translate Schinese nikroute2_f51f9a79:
+
+    # ya "\"The other pit is over here.\""
+    ya "“另一个坑在这里。”"
+
+# game/nikroute2.rpy:343
+translate Schinese nikroute2_73594e23:
+
+    # ya "\"I am sure you can tell, but this is where we found his body.\""
+    ya "“相信你看得出来，这里就是我们发现他尸体的地方。”"
+
+# game/nikroute2.rpy:393
+translate Schinese nikroute2_f011312c:
+
+    # ya "\"It is built in ways that do not make sense.\""
+    ya "“它的建造方式并不合理。”"
+
+# game/nikroute2.rpy:447
+translate Schinese nikroute2_064df987:
+
+    # ya "\"You are holding charred remains.\""
+    ya "“你手中不过是烧焦的残骸而已。”"
+
+# game/nikroute2.rpy:496
+translate Schinese nikroute2_fb65e46e:
+
+    # ya "\"I do not think it is here, friend.\""
+    ya "“我想这里已经找不到了，朋友。”"
+
+# game/nikroute2.rpy:500
+translate Schinese nikroute2_8b4e38b0:
+
+    # ya "\"Those charred marks were not there when we first found Jack.\""
+    ya "“我们初次发现Jack的时候还没有那些焦痕。”"
+
+# game/nikroute2.rpy:551
+translate Schinese nikroute2_e416d7de:
+
+    # ya "\"I will lead.\""
+    ya "“我来打头。”"
+
+# game/nikroute2.rpy:576
+translate Schinese nikroute2_1e3d3c19:
+
+    # ya "\"Wait until I am at the top.\""
+    ya "“先等我爬到顶上。”"
+
+# game/nikroute2.rpy:629
+translate Schinese nikroute2_abe4179f:
+
+    # ya "\"Unfortunately, this did not help him at all.\""
+    ya "“可惜的是完全没有帮上他的忙。”"
+
+# game/nikroute2.rpy:649
+translate Schinese nikroute2_3015b9ab:
+
+    # ya "\"And for that, I am going to need help, or else it might as well be hand delivered to Mr. Hendricks or one of his lying foremen.\""
+    ya "“为此我需要帮助，否则它们很有可能落入Hendricks先生、或他那些中饱私囊的工头们手中。”"
+
+# game/nikroute2.rpy:674
+translate Schinese nikroute2_c2368217:
+
+    # ya "\"He will be on the first floor at this time.\""
+    ya "“他这个时间会在一楼。”"
+
+# game/nikroute2.rpy:954
+translate Schinese nikroute2_6cc60c45:
+
+    # "He looks at me."
+    "他看向我。"
+
+# game/nikroute2.rpy:958
+translate Schinese nikroute2_6bd7ce38:
+
+    # ya "\"We have two empty beds, but I recommend the top bunk next to me.\""
+    ya "“这里还有两张空床，不过我推荐旁边那张的上铺。”"
+
+# game/nikroute2.rpy:1018
+translate Schinese nikroute2_ed16a7aa:
+
+    # ya "\"I do not know.\""
+    ya "“我不知道。”"
+
+# game/nikroute2.rpy:1020
+translate Schinese nikroute2_ea0fa783:
+
+    # ya "\"It did not walk or sound like any miner I have heard before.\""
+    ya "“那动静听起来绝对不像任何一个矿工。”"
+
+# game/nikroute2.rpy:1023
+translate Schinese nikroute2_b2756150:
+
+    # ya "\"But that is not the first time I have encountered something shambling around in the dark down there.\""
+    ya "“不过这也不是我第一次遇到有东西在暗中徘徊了。”"
+
+# game/nikroute2.rpy:1036
+translate Schinese nikroute2_3e5d4488:
+
+    # ya "\"And then you are enclosed in a tight space with a wild animal.\""
+    ya "“这样一来，不就变成跟野生动物一同被困在狭小空间里了吗。”"
+
+# game/nikroute2.rpy:1304
+translate Schinese nikroute2_64bb0b9c:
+
+    # ya "\"However, misfortunate choices aside, if he learns how to work with explosives, we will have another man know how to extract the ore.\""
+    ya "“不过撇开不幸不谈，如果他学会了炸药的使用方法，我们就能多一个采矿的帮手了。”"
+
+# game/nikroute2.rpy:1306
+translate Schinese nikroute2_1a13baef:
+
+    # ya "\"He only has to do this for one week. We can ensure that he is not forced to do anything reckless.\""
+    ya "“他只需要做一个星期，我们可以确保他不会被迫做出什么鲁莽的行为。”"
+
+# game/nikroute2.rpy:1390
+translate Schinese sny1_98d8733c:
+
+    # ya "\"That is perfectly fair.\""
+    ya "“言之有理。”"
+
+# game/nikroute2.rpy:1478
+translate Schinese sny1_91f95738:
+
+    # ya "\"You will find that if you always follow what your bosses tell you to do, you will not last very long.\""
+    ya "“一味听从老板的指示只会命不久矣。”"
+
+# game/nikroute2.rpy:2091
+translate Schinese sny1_bbee652c:
+
+    # ya "\"You are a free man.\""
+    ya "“请随意。”"
+
+# game/nikroute2.rpy:2383
+translate Schinese sny1_2ca9b517:
+
+    # "I give Nik a look, asking him to back me up,{nw}"
+    "我对Nik使了个眼神，希望他帮我解围，{nw}"
+
+# game/nikroute2.rpy:2385
+translate Schinese sny1_5ffae62d:
+
+    # extend " but he just scratches the back of his head, as if he wants to stay out of this."
+    extend "但他只是挠了挠后脑勺，好像不太想掺和进来。"
+
+# game/nikroute2.rpy:2622
+translate Schinese sny1_37ab6a1b:
+
+    # ya "\"Walk, do not run.\""
+    ya "“不要跑，用走的。”"
+
+# game/nikroute2.rpy:2717
+translate Schinese sny1_1cc615dd:
+
+    # ya "\"But I have also added my own layouts to this-- the ones that I know they do not know about.\""
+    ya "“不过我在上面加了自己的内容：他们尚未掌握的部分。”"
+
+# game/nikroute2.rpy:2747
+translate Schinese sny1_040df7f0:
+
+    # ya "\"That is where the real gold is.\""
+    ya "“那里才是真正的黄金所在。”"
+
+# game/nikroute2.rpy:2780
+translate Schinese sny1_841445d2:
+
+    # ya "\"You are more clever than I thought, Mr. Ayers.\""
+    ya "“你比我想象中的要聪明，Ayers先生。”"
+
+# game/nikroute2.rpy:2783
+translate Schinese sny1_cc2bdc1b:
+
+    # ya "\"Do not thank me until this map is memorized.\""
+    ya "“记住这张地图后再谢我也不迟。”"
+
+# game/nikroute2.rpy:2954
+translate Schinese sny1_f020f43f:
+
+    # benunk "\"Top of the morning, men!\""
+    benunk "““早啊，伙计们！””"
+
+# game/nikroute2.rpy:2960
+translate Schinese sny1_76e079b7:
+
+    # benunk "\"Welcome to the CSCG family. My name’s Ben. You think of me as your guide today for all you newcomers.\""
+    benunk "“欢迎加入CSCG这个大家庭。我叫Ben，你们可以把我当做你们这些新手的向导。”"
+
+# game/nikroute2.rpy:3202
+translate Schinese sny1_d36fca00:
+
+    # m "\"In all frankness I hoped I’d run into him here--\""
+    m "“老实说，我还以为会在这里碰到他-”"
+
+# game/nikroute2.rpy:3545
+translate Schinese sny1_1a8772b7:
+
+    # ya "\"If I do not keep still, he could miss, and crush my fingers.\""
+    ya "“如果我不保持稳当，他可能会打偏，并砸碎我的手指。”"
+
+# game/nikroute2.rpy:3598
+translate Schinese sny1_d7890914:
+
+    # ya "\"We did not say that, but the two of us have worked together long enough to coordinate our actions.\""
+    ya "“没有人那样说过，不过我们已经合作了很久，足够产生行为上的默契了。”"
+
+# game/nikroute2.rpy:3915
+translate Schinese sny1_2974ee99:
+
+    # "The blue jay just shakes his head and spits on the floor,{nw}"
+    "冠蓝鸦只是摇摇头，往地上吐了口唾沫，{nw}"
+
+# game/nikroute2.rpy:3917
+translate Schinese sny1_5c9afcf4:
+
+    # extend " before turning to leave."
+    extend "之后便转身离开了。"
+
+# game/nikroute2.rpy:3940
+translate Schinese sny1_7d00b8f8:
+
+    # diunk "\"Are you a foreman, Keyes?\""
+    diunk "“你是工头吗，Keyes？”"
+
+# game/nikroute2.rpy:4095
+translate Schinese sny1_80b593e0:
+
+    # "The mess hall, which is more of a dimly lit cavern with stools scattered about it than a hall, has a row of iron lockers against the beam and earth walls..."
+    "所谓食堂，倒不如说是一个光线昏暗的洞穴。凳子横七竖八，一排铁柜紧挨着干豆和土墙..."
+
+# game/nikroute2.rpy:4171
+translate Schinese sny1_bece5169:
+
+    # ya "\"Because this is not the first time somebody has forgotten their lunch.\""
+    ya "“因为这不是第一次有人忘记准备午餐。”"
+
+# game/nikroute2.rpy:4176
+translate Schinese sny1_a05d0f92:
+
+    # ya "\"When you are hungry, and hundreds of feet beneath the ground, you might agree to more than you normally would when you are out of options.\""
+    ya "“一个饥肠辘辘的人会更容易接受平时难以接受的条件，尤其是在这几百英尺深的地下，他们别无选择。”"
+
+# game/nikroute2.rpy:4179
+translate Schinese sny1_58c73a7f:
+
+    # ya "\"That is why we have to be ready to feed those who need it.\""
+    ya "“不论是兜售人情，还是以物换物。”"
+
+# game/nikroute2.rpy:4182
+translate Schinese sny1_0f92ecc7:
+
+    # ya "\"Or barter with those who do not.\""
+    ya "“额外的食物都是有必要的。”"
+
+# game/nikroute2.rpy:4247
+translate Schinese sny1_b5622e85:
+
+    # bk "\"{i}From one explorer to another.{/i}\""
+    bk "“一位开拓者致另一位开拓者的心意。”"
+
+# game/nikroute2.rpy:4251
+translate Schinese sny1_8e7c6ea5:
+
+    # bk "\"{i}I hope you find what you’re looking for, Samuel Ayers.{/i}\""
+    bk "“愿你得偿所愿，Samuel Ayers。”"
+
+# game/nikroute2.rpy:4254
+translate Schinese sny1_f09a6be1:
+
+    # bk "\"Signed, {i}James Hendricks the Third.{/i}\""
+    bk "“署名，James Hendricks三世。”"
+
+# game/nikroute2.rpy:5002
+translate Schinese sny1_27c037a6:
+
+    # ya "\"If he is already suspicious of Sam’s presence due to James’ gift, we would not want to implicate ourselves in that.\""
+    ya "“如果他已经因为James的礼物而怀疑到了Sam，那我们两个最好远离是非。”"
+
+# game/nikroute2.rpy:5004
+translate Schinese sny1_a4a0ed62:
+
+    # ya "\"Breaking protocol would make Beckett talk to James, and that is the last thing we want.\""
+    ya "“违规行为将导致Beckett和James的面谈，这是我们最不希望看到的。”"
+
+# game/nikroute2.rpy:5166
+translate Schinese sny1_e38beba4:
+
+    # ya "\"There is something that he wants.\""
+    ya "“他也有想要的东西。”"
+
+# game/nikroute2.rpy:5174
+translate Schinese sny1_935ee145:
+
+    # ya "\"Let us return to the cabin.\""
+    ya "“咱们先回工棚吧。”"
+
+# game/nikroute2.rpy:5269
+translate Schinese sny1_e63bf79a:
+
+    # "As his eyes list across the symbols, his expression moves{nw}"
+    "他目光扫过那些符号，表情从{nw}"
+
+# game/nikroute2.rpy:5271
+translate Schinese sny1_b884a9b3:
+
+    # extend " from perplexed, to angry,{nw}"
+    extend "疑惑转为愤怒，{nw}"
+
+# game/nikroute2.rpy:5273
+translate Schinese sny1_66e2ee0e:
+
+    # extend " then to thoughtful."
+    extend "最后又变成若有所思。"
+
+# game/nikroute2.rpy:5566
+translate Schinese sny1_e46d36d1:
+
+    # m "\"We don’t want to be separated, but we don’t want Beckett to know that we are all associated...\""
+    m "“我们想待在一队，但又不想让Beckett知道我们是一伙的...”"
+
+# game/nikroute2.rpy:5761
+translate Schinese sellcomp_2f3fccea:
+
+    # ya "\"...It is very late.\""
+    ya "“...已经很晚了。”"
+
+# game/nikroute2.rpy:5783
+translate Schinese sellcomp_236b10dc:
+
+    # ya "\"It is the way he looks at you.\""
+    ya "“他看你的眼神。”"
+
+# game/nikroute2.rpy:5798
+translate Schinese sellcomp_986b8689:
+
+    # ya "\"...and I was not sleeping.\""
+    ya "“...其实我刚才没有睡。”"
+
+# game/nikroute2.rpy:5819
+translate Schinese sellcomp_45d2e6ba:
+
+    # ya "\"It is not as embarrassing anonymously among strangers.\""
+    ya "“大家伙儿素不相识的话倒还好。”"
+
+# game/nikroute2.rpy:5859
+translate Schinese sellcomp_bae05e63:
+
+    # ya "\"I cannot pay you anything.\""
+    ya "“我一个子都给不了你。”"
+
+# game/nikroute2.rpy:5872
+translate Schinese sellcomp_c6784357:
+
+    # ya "\"It is a partnership.\""
+    ya "“那是出于兄弟情谊。”"
+
+# game/nikroute2.rpy:5907
+translate Schinese sellcomp_04cc7fe2:
+
+    # ya "\"You do not have to wait.\""
+    ya "“你没必要等的。”"
+
+# game/nikroute2.rpy:6107
+translate Schinese sellcomp_e744ae05:
+
+    # ya "\"I have not finished like that for years.\""
+    ya "“我好几年没有像这样出来过了。”"
+
+# game/nikroute2.rpy:6109
+translate Schinese sellcomp_3582aab7:
+
+    # ya "\"That felt right. In a way it had not before.\""
+    ya "“感觉前所未有的爽。”"
+
+# game/nikroute2.rpy:6119
+translate Schinese sellcomp_0a8b30e5:
+
+    # ya "\"It is astonishing.\""
+    ya "“真是惊人。”"
+
+# game/nikroute2.rpy:6153
+translate Schinese sellcomp_3e962d52:
+
+    # ya "\"Well I do not need to know everything.\""
+    ya "“你不用把原委都告诉我。”"
+
+# game/nikroute2.rpy:6242
+translate Schinese sellcomp_82c789c8:
+
+    # ya "\"You are stubborn too.\""
+    ya "“你也很顽固啊。”"
+
+# game/nikroute2.rpy:6446
+translate Schinese sellcomp_d48241cc:
+
+    # fe "\"Because I know you can't get enough of the sound of my voice, Paul.\""
+    fe "“那是因为我知道你对我的声音百听不厌，Paul。”"
+
+# game/nikroute2.rpy:6906
+translate Schinese sellcomp_77e76532:
+
+    # "Just... nothing, immeasurably dark and deep."
+    "就只是...空虚，深不可测的黑暗。"
+
+# game/nikroute2.rpy:7453
+translate Schinese sellcomp_46140f4c:
+
+    # ya "\"That is our quickest way out when we have... what we are looking for.\""
+    ya "“那里是我们搬运...目标物的最短捷径。”"
+
+# game/nikroute2.rpy:7455
+translate Schinese sellcomp_515bdb59:
+
+    # ya "\"We do not want to risk the discovery.\""
+    ya "“要尽量避免被他人发现。”"
+
+# game/nikroute2.rpy:7470
+translate Schinese sellcomp_d1980d59:
+
+    # ya "\"You do not want to be holding a piece of paper and reading it if we are lost...\""
+    ya "“迷路的时候可没有时间抱着纸慢慢啃...”"
+
+# game/nikroute2.rpy:7862
+translate Schinese locker1bright_678d8a19:
+
+    # ya "\"It is easy to get lost and wander in the same direction for far too long if you are not careful.\""
+    ya "“一不留神就容易迷路，原地打转。”"
+
+# game/nikroute2.rpy:7915
+translate Schinese locker1bright_361dd701:
+
+    # ya "\"You will understand very soon.\""
+    ya "“你们马上就会明白了。”"
+
+# game/nikroute2.rpy:7928
+translate Schinese locker1bright_a36f5d62:
+
+    # ya "\"It is in there.\""
+    ya "“就在里面。”"
+
+# game/nikroute2.rpy:7980
+translate Schinese locker1bright_8bc2ab65:
+
+    # ya "\"There is something much better.\""
+    ya "“那边的东西更是了不得。”"
+
+# game/nikroute2.rpy:8126
+translate Schinese locker1bright_3ddbf165:
+
+    # ya "\"If it is a member of management, we should not be seen.\""
+    ya "“可能是管理层的人，小心别被发现了。”"
+
+# game/nikroute2.rpy:8402
+translate Schinese locker1bright_ec62891c:
+
+    # ya "\"We did not bring any weapons! We have to go!\""
+    ya "“我们身上没有武器！走为上！”"
+
+# game/nikroute2.rpy:8413
+translate Schinese locker1bright_aad43e56:
+
+    # ya "\"It is easy if you retrace your steps.\""
+    ya "“原路返回会比较容易。”"
 
