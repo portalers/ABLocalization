@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-03-19 20:06
+# TODO: Translation updated at 2023-03-19 20:06
 
 # game/nikroute.rpy:3
 translate Tchinese nikroute_38b05af4:
@@ -6550,11 +6550,11 @@ translate Tchinese nikroute_91559ea8:
 
     # "Yao leads us inside."
     "Yao帶領我們走進礦井。"
+# TODO: Translation updated at 2023-11-24 14:58
 
-# TODO: Translation updated at 2023-10-01 19:12
-
-# game/nikroute.rpy:1353
+# game/nikroute.rpy:1354
 translate Tchinese nikroute_a690c6aa:
 
     # ya "\"Very well. Let us move, and be quick about this. We can talk as we walk.\""
     ya "“那好吧。我們走，趕緊的。邊走邊說吧。”"
+
