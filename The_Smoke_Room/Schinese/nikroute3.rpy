@@ -28,7 +28,7 @@ translate Schinese nikroute3_3f6349de:
 translate Schinese nikroute3_b8b71d41:
 
     # ya "“I have those tunnels memorized.”"
-    ya "“那些隧道我记得一清二楚。”"
+    ya "“那些隧道我再熟悉不过了。”"
 
 # game/nikroute3.rpy:12
 translate Schinese nikroute3_52cf3702:
@@ -18886,7 +18886,7 @@ translate Schinese nikroute3b_37ea887b:
 translate Schinese nikroute3b_62938121:
 
     # ben "“Too stubborn to think there could be someone in your group of commie buttfuckers who values the real world over lies and laziness?”"
-    ben "“真是死脑筋，除了你们这群共匪，还有谁会把撒谎和偷懒看得比现实生活更重要呢？”"
+    ben "“真是死脑筋，除了你们这群共匪，还有谁会把撒谎和偷懒看得比现实生活更重要？”"
 
 # game/nikroute3.rpy:6303
 translate Schinese nikroute3b_b6f40f45:
@@ -20830,7 +20830,7 @@ translate Schinese nikroute3b_6cfa6238:
 translate Schinese nikroute3b_ab0581f0:
 
     # bk "“Five years ago both my brother and my cousin had a fairly equal running chance for an administrative position in town hall.”"
-    bk "“五年前，我的兄弟和表亲相互争夺某个镇公所的行政职务，二人不分伯仲。”"
+    bk "“五年前，我的兄弟和表亲相互争夺镇公所的行政职务，二人不分伯仲。”"
 
 # game/nikroute3.rpy:7007
 translate Schinese nikroute3b_c2d52e37:
@@ -26212,4 +26212,230 @@ translate Schinese sny3_a74c56c5:
 
     # co "\"Well it’s the coldest location on our property, which really makes a difference for the ease of storage.\""
     co "“这是我们家最冷的区域了，温度对储藏的便利性可是很大的。”"
+
+# TODO: Translation updated at 2023-11-02 21:37
+
+# game/nikroute3.rpy:19
+translate Schinese nikroute3_424fdce8:
+
+    # ya "\"I do not trip.\""
+    ya "“其他人不好说。”"
+
+# game/nikroute3.rpy:31
+translate Schinese nikroute3_283cd2e8:
+
+    # ya "\"I do not think I have ever heard you scream that loud.\""
+    ya "“我还是第一次听见你叫得那样大声。”"
+
+# game/nikroute3.rpy:138
+translate Schinese nikroute3_ba8e21e0:
+
+    # ya "\"I did not.\""
+    ya "“我没有看到。”"
+
+# game/nikroute3.rpy:194
+translate Schinese nikroute3_2dbdcaf4:
+
+    # ya "\"They would talk about tree roots that could devour people whole.\""
+    ya "“其中既有会吞吃人类的树根。”"
+
+# game/nikroute3.rpy:207
+translate Schinese nikroute3_2e8891bf:
+
+    # ya "\"That is exactly what superstitious people say.\""
+    ya "“迷信的人都这样说。”"
+
+# game/nikroute3.rpy:290
+translate Schinese nikroute3_4b0ec6ba:
+
+    # ya "\"We will take what we need.\""
+    ya "“需要多少拿多少。”"
+
+# game/nikroute3.rpy:293
+translate Schinese nikroute3_cfe04643:
+
+    # ya "\"We cannot be greedy.\""
+    ya "“切忌贪婪。”"
+
+# game/nikroute3.rpy:423
+translate Schinese nikroute3_43e98e80:
+
+    # ya "\"He will not be able to organize us the way he does now.\""
+    ya "“也就无法像现在这样领导我们了。”"
+
+# game/nikroute3.rpy:550
+translate Schinese nikroute3_aa4805cb:
+
+    # ya "\"Then let us hope they do not escalate.\""
+    ya "“那就祈祷他们别加压吧。”"
+
+# game/nikroute3.rpy:827
+translate Schinese nikroute3_dca040f6:
+
+    # "He touches my shoulder."
+    "他拍了拍我的肩膀。"
+
+# game/nikroute3.rpy:1024
+translate Schinese nikroute3_c2abbe0d:
+
+    # m "\"Well yeah, but it’s not the same thing as robbery.\""
+    m "“是没错，但我们又没有坑蒙拐骗。”"
+
+# game/nikroute3.rpy:1400
+translate Schinese sny2_0f4d6932:
+
+    # "And then I felt very full."
+    "然后是被填满的感觉。"
+
+# game/nikroute3.rpy:1836
+translate Schinese sny2_c9601406:
+
+    # "I’m not exactly a people person Dora, but I’ll do my best."
+    "我不擅长交际啊，Dora，不过我会尽力的。"
+
+# game/nikroute3.rpy:4993
+translate Schinese nikroute3a_0f43e86f:
+
+    # ya "\"There is always something somewhere, is there not?\""
+    ya "“我们注定难逃一劫，不是吗？”"
+
+# game/nikroute3.rpy:4997
+translate Schinese nikroute3a_3f8b99ad:
+
+    # ya "\"Is that not something they say in your faith, Samuel?\""
+    ya "“这就是你们的信仰所强调的吧，Samuel？”"
+
+# game/nikroute3.rpy:5042
+translate Schinese nikroute3a_3d1ce1b3:
+
+    # ya "\"But you know it is all ending soon.\""
+    ya "“但是人终有一死。”"
+
+# game/nikroute3.rpy:5057
+translate Schinese nikroute3a_6df43b44:
+
+    # ya "\"He has made the calls.\""
+    ya "“他已经做出了决断。”"
+
+# game/nikroute3.rpy:5064
+translate Schinese nikroute3a_d3240eaf:
+
+    # ya "\"The ones that we will use to protect ourselves if we do not get out on time.\""
+    ya "“在我们没有来得及逃脱的时候自保用的。”"
+
+# game/nikroute3.rpy:5082
+translate Schinese nikroute3a_d09db123:
+
+    # ya "\"There are things I do not want to leave behind too.\""
+    ya "“我也有舍不得抛下的东西。”"
+
+# game/nikroute3.rpy:6274
+translate Schinese nikroute3b_6e7d0232:
+
+    # "If nobody were here, I'd be looking for a weapon bulging from his shoe or his pockets."
+    "指不定会从鞋子或口袋里掏出武器。"
+
+# game/nikroute3.rpy:6337
+translate Schinese nikroute3b_57a75a61:
+
+    # ben "\"Whoa whoa whoa, it’s the boss who’s holdin’ it! Not me!\""
+    ben "“喂喂，帽子在老板手上！与我无关啊！”"
+
+# game/nikroute3.rpy:6380
+translate Schinese nikroute3b_cb91a1f5:
+
+    # "His walk turns into a jog as the gap between us grows {nw}"
+    "走着走着，他小跑起来，{nw}"
+
+# game/nikroute3.rpy:6661
+translate Schinese nikroute3b_2ed9ccb6:
+
+    # br "\"Because it’s pretty apparent that the gas canister runs two inches thicker than our standard hats.\""
+    br "“很明显，瓦斯罐比我们的标准厚了两英寸。”"
+
+# game/nikroute3.rpy:6862
+translate Schinese nikroute3b_71d620f9:
+
+    # "He hesitates before walking up."
+    "他犹豫了一下，走出门。"
+
+# game/nikroute3.rpy:7170
+translate Schinese nikroute3b_2cb7f33e:
+
+    # "I look around to see signs of where Nik might've gone off too."
+    "我左顾右盼，寻找Nik的去向。"
+
+# game/nikroute3.rpy:7209
+translate Schinese nikroute3b_00280e61:
+
+    # m "\"Just a quick delivery I need to make before we meet up with Yao again.\""
+    m "“在跟Yao会合前，我得去镇上送个东西。”"
+
+# game/nikroute3.rpy:7301
+translate Schinese nikroute3b_4bea27f1:
+
+    # "His brow lifts as he looks me over, his eyes focused on the envelope that I carry."
+    "他挑起眉毛打量我，焦点落在我拿着的信封上。"
+
+# game/nikroute3.rpy:7455
+translate Schinese sellcomp2b_e582c229:
+
+    # "He let out a sudden squeal and puckers his lips, letting the air puff out."
+    "他蓦地发出一声惊呼，皱起嘴唇，吐出丝丝的气流。"
+
+# game/nikroute3.rpy:7509
+translate Schinese sellcomp2b_7c7d1f14:
+
+    # "Then again, he doesn’t seem like the kind of person who struggles to find a way that works for him through life."
+    "不过话说回来，他也不像是遇到过绝境的人。"
+
+# game/nikroute3.rpy:7605
+translate Schinese sny4_ab133aa7:
+
+    # m "\"If it weren’t for you I wouldn’t have known the right way to run when...\""
+    m "“多亏了你，我才知道该往哪跑...”"
+
+# game/nikroute3.rpy:7746
+translate Schinese sny4_281a9ecc:
+
+    # ya "\"Do you both remember the way in and out?\""
+    ya "“你们还记得进出的路吧？”"
+
+# game/nikroute3.rpy:7847
+translate Schinese sny4_27cf6733:
+
+    # "I’m too busy trying to catch my breath before I can respond."
+    "我喘了好几口气才回答。"
+
+# game/nikroute3.rpy:8252
+translate Schinese sny4_1f7e587d:
+
+    # "If there’s anybody who could find a way out of here, it’s him."
+    "除了他，没人有能力找到出路。"
+
+# game/nikroute3.rpy:8737
+translate Schinese sny4_ad068c44:
+
+    # ben "\"Unless, of course, you’re the one getting killed.\""
+    ben "“除非，自己就是被杀的那一个。”"
+
+# game/nikroute3.rpy:8755
+translate Schinese sny4_290145b8:
+
+    # "We both stare at it."
+    "我们全都看着它。"
+
+# game/nikroute3.rpy:8978
+translate Schinese sny4_344f6779:
+
+    # extend " then notices, and turns to see what we’re looking at,{nw}"
+    extend "才反应过来，转身看着我们眼中的东西，{nw}"
+
+# TODO: Translation updated at 2023-11-24 14:59
+
+# game/nikroute3.rpy:2877
+translate Schinese nikroute3a_ae7d2cc8:
+
+    # co "\"I’ll just have to recheck the entire inventory with my cook after all this.\""
+    co "“接下来就只剩下跟我们家的厨师一起好好检查一遍库存了。”"
 
