@@ -13495,7 +13495,7 @@ translate Schinese cliffchoice5_a98dedd7:
 translate Schinese cliffchoice5_06c85e1e:
 
     # "He muffles something like {b}‘Yes, Reverend,’{/b} but it’s impossible to tell what he really said."
-    "他含糊不清地说了声{b}‘好的，牧师’{/b}，但我也不确定。"
+    "他含糊不清地说了声{b}“好的，牧师”{/b}，但我也不确定。"
 
 # game/cliffroute3.rpy:4493
 translate Schinese cliffchoice5_1561a541:
@@ -14107,7 +14107,7 @@ translate Schinese cliffchoice5_0a711b77:
 translate Schinese cliffchoice5_d4e2a597:
 
     # ca "“Because there’s no harm in skimming some of the cream off the top here and there.”"
-    ca "“多劳一些油水，何乐而不为。”"
+    ca "“多捞一些油水，何乐而不为。”"
 
 # game/cliffroute3.rpy:4679
 translate Schinese cliffchoice5_869f9c9b:
@@ -14857,7 +14857,7 @@ translate Schinese cliffchoice5_75890ae9:
 translate Schinese cliffchoice5_308f613c:
 
     # "And then I wonder who I’m going to die as."
-    "我到底会以什么样的身分死去？"
+    "我到底会以什么样的身份死去？"
 
 # game/cliffroute3.rpy:4896
 translate Schinese cliffchoice5_c9b1a372:
@@ -15265,7 +15265,7 @@ translate Schinese cliffchoice5_f6ceabdb:
 translate Schinese cliffchoice5_59e12d95:
 
     # cl "“Is this necessary?”"
-    cl "“有这个这必要吗？”"
+    cl "“有这个必要吗？”"
 
 # game/cliffroute3.rpy:5063
 translate Schinese cliffchoice5_48b2f3a8:
@@ -15805,7 +15805,7 @@ translate Schinese cliffchoice5_bfc2da4b:
 translate Schinese cliffchoice5_af4e8f55:
 
     # "He scratches the back of his head bashfully and shoos me away with his paw."
-    "他不好意思地挠了挠后脑杓，挥手示意我快走。"
+    "他不好意思地挠了挠后脑勺，挥手示意我快走。"
 
 # game/cliffroute3.rpy:5268
 translate Schinese cliffchoice5_f4383ba3:
