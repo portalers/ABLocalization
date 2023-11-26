@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-03-19 20:06
+# TODO: Translation updated at 2023-03-19 20:06
 
 # game/williamroute.rpy:3
 translate Tchinese williamroute_218ecce7:
@@ -8422,3 +8422,11 @@ translate Tchinese williamroute_9206859d:
 
     # "Maybe next time I should ask what scares you."
     "也許下一次，我應該問問你內心中的恐懼。"
+# TODO: Translation updated at 2023-11-24 14:58
+
+# game/williamroute.rpy:839
+translate Tchinese williamroute_b452bf11:
+
+    # "And for the first time in weeks, these are tears of gratitude; not fear, nor resentment, nor self-disgust."
+    "而這淚水是由於睽違數周的感激之情，而非恐懼、懊惱、自我厭惡。"
+
