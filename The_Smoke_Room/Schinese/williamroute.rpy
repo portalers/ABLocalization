@@ -8423,3 +8423,11 @@ translate Schinese williamroute_9206859d:
     # "Maybe next time I should ask what scares you."
     "也许下一次，我应该问问你内心中的恐惧。"
 
+# TODO: Translation updated at 2023-11-24 14:59
+
+# game/williamroute.rpy:839
+translate Schinese williamroute_b452bf11:
+
+    # "And for the first time in weeks, these are tears of gratitude; not fear, nor resentment, nor self-disgust."
+    "几周以来，我头一次流下感激的泪水，而非恐惧、怨恨、或是自我厌恶。"
+
