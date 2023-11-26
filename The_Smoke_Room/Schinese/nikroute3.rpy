@@ -538,7 +538,7 @@ translate Schinese nikroute3_c8691ab1:
 translate Schinese nikroute3_f78b6ecd:
 
     # m "“They were all groaning, but it was all wrong... like they were traveling through long pipes and old tubes.”"
-    m "“它们全都在呻吟，可听起来又全完不像...犹如在细长的管道中反射。”"
+    m "“它们全都在呻吟，可听起来又完全不像...犹如在细长的管道中反射。”"
 
 # game/nikroute3.rpy:154
 translate Schinese nikroute3_1b53b763:
@@ -4918,7 +4918,7 @@ translate Schinese sny2_ac94747a:
 translate Schinese sny2_96090a63:
 
     # md "“Relax your shoulders. It’s a good day.”"
-    m "“放轻松，今天难得是个好日子。”"
+    md "“放轻松，今天是个难得的好日子。”"
 
 # game/nikroute3.rpy:1553
 translate Schinese sny2_3127ed37:
@@ -5032,7 +5032,7 @@ translate Schinese sny2_ed48f3ab:
 translate Schinese sny2_0fc9fb83:
 
     # counk "“But I was told by many that your performances had no empty seats.”"
-    counk "“我听说您的演唱会过去可谓是人山人海，座无虛席。”"
+    counk "“我听说您的演唱会过去可谓是人山人海，座无虚席。”"
 
 # game/nikroute3.rpy:1573
 translate Schinese sny2_4789d33d:
@@ -6778,7 +6778,7 @@ translate Schinese sny3_95874b28:
 translate Schinese sny3_d86a0880:
 
     # co "“It’s like something we hear, then we forget.”"
-    co "“仿佛埋藏於潜意识中。”"
+    co "“仿佛埋藏于潜意识中。”"
 
 # game/nikroute3.rpy:1921
 translate Schinese sny3_5086f3c9:
@@ -9720,7 +9720,7 @@ translate Schinese nikroute3a_5c1e8e92:
 translate Schinese nikroute3a_ead6497a:
 
     # co "“Well, hrm.”"
-    co "“唔，这个嘛，”"
+    co "“唔，这个嘛。”"
 
 # game/nikroute3.rpy:3104
 translate Schinese nikroute3a_faa06d94:
@@ -10476,7 +10476,7 @@ translate Schinese nikroute3a_c39e5a2f:
 translate Schinese nikroute3a_fa27276c:
 
     # "Felpe is waving back in the distance, carrying a sign of James III eating money."
-    "Felpe在远处招手回应，他手持一个James三世吃钞票的牌子。"
+    "Felipe在远处招手回应，他手持一个James三世吃钞票的牌子。"
 
 # game/nikroute3.rpy:3315
 translate Schinese nikroute3a_3937c239:
@@ -10572,7 +10572,7 @@ translate Schinese nikroute3a_24b21523:
 translate Schinese nikroute3a_7d0e37d9:
 
     # "Felipe looks scared."
-    "Felipe面露惧色，"
+    "Felipe面露惧色。"
 
 # game/nikroute3.rpy:3364
 translate Schinese nikroute3a_e313bff9:
@@ -11328,7 +11328,7 @@ translate Schinese nikroute3a_c166b918_1:
 translate Schinese nikroute3a_aaf1ba63:
 
     # bk "“Were you paid to plant an explosive?”"
-    bk "“有人付你钱，让对炸药动手脚吗？”"
+    bk "“有人付给你钱，让你对炸药动手脚吗？”"
 
 # game/nikroute3.rpy:3696
 translate Schinese nikroute3a_67aaa788:
@@ -13608,7 +13608,7 @@ translate Schinese nikroute3a_3d72dd32:
 translate Schinese nikroute3a_f232c8c0:
 
     # "I follow the direction of his claw and see a large striped tail lead out of the exit of the barn."
-    "我随他的手指望过去，发现一条带斑纹的大尾巴离开了谷仓。"
+    "我随他的手指望过去，发现一条带条纹的大尾巴离开了谷仓。"
 
 # game/nikroute3.rpy:4554
 translate Schinese nikroute3a_7b866202:
@@ -14286,7 +14286,7 @@ translate Schinese nikroute3a_1efedf5e:
 translate Schinese nikroute3a_31c52bab:
 
     # ni "“Pain is temporary.”"
-    ni "“痛是暂时的，”"
+    ni "“痛是暂时的。”"
 
 # game/nikroute3.rpy:4748
 translate Schinese nikroute3a_43b81f28:
@@ -18802,7 +18802,7 @@ translate Schinese nikroute3b_4372d3cf:
 translate Schinese nikroute3b_adc3e2cf:
 
     # "He nods."
-    "“他点点头。”"
+    "他点点头。"
 
 # game/nikroute3.rpy:6279
 translate Schinese nikroute3b_90f88b9a:
@@ -19216,7 +19216,7 @@ translate Schinese nikroute3b_1f82d2fc:
 translate Schinese nikroute3b_589515ed:
 
     # ya "“You grow more observant.”"
-    ya "你变得更有眼光了。"
+    ya "“你变得更有眼光了。”"
 
 # game/nikroute3.rpy:6401
 translate Schinese nikroute3b_cde72092:
@@ -20830,7 +20830,7 @@ translate Schinese nikroute3b_6cfa6238:
 translate Schinese nikroute3b_ab0581f0:
 
     # bk "“Five years ago both my brother and my cousin had a fairly equal running chance for an administrative position in town hall.”"
-    bk "“五年前，我的兄弟和表亲相互争夺镇公所的行政职务，二人不分伯仲。”"
+    bk "“五年前，我的兄弟和表亲相互争夺镇公所的某个行政职务，二人不分伯仲。”"
 
 # game/nikroute3.rpy:7007
 translate Schinese nikroute3b_c2d52e37:
@@ -20926,7 +20926,7 @@ translate Schinese nikroute3b_eef6b38a:
 translate Schinese nikroute3b_4a43c0ec:
 
     # bk "“I made that very clear.”"
-    bk "“我把话得很明白。”"
+    bk "“我把话说得很明白。”"
 
 # game/nikroute3.rpy:7054
 translate Schinese nikroute3b_fb0b5072:
@@ -21412,7 +21412,7 @@ translate Schinese nikroute3b_573bfebd:
 translate Schinese nikroute3b_f7023ea1:
 
     # "I don’t blame him for avoiding trying to think about what he heard for very long."
-    "也能不怪他想要逃避现实。"
+    "也不能怪他想要逃避现实。"
 
 # game/nikroute3.rpy:7220
 translate Schinese nikroute3b_69f20c6f:
@@ -21508,7 +21508,7 @@ translate Schinese nikroute3b_b8ecfa72:
 translate Schinese nikroute3b_835288f5:
 
     # ni "“Then we warn Will.”"
-    ni "最后通知Will。"
+    ni "“最后通知Will。”"
 
 # game/nikroute3.rpy:7243
 translate Schinese nikroute3b_2ebf2b94:
@@ -21742,7 +21742,7 @@ translate Schinese sellcomp2a_a9a0329c:
 translate Schinese sellcomp2a_57294c4f:
 
     # po "“Oh?”"
-    po "哦？"
+    po "“哦？”"
 
 # game/nikroute3.rpy:7331
 translate Schinese sellcomp2a_320d8946:
@@ -22108,7 +22108,7 @@ translate Schinese sny4_5e4f69fb:
 translate Schinese sny4_d48d3bb1:
 
     # "We follow him past shrubs and down hills until we come across a very familiar place."
-    "我们跟着他穿过灌从，来到一处熟悉的地方。"
+    "我们跟着他穿过灌木从，来到一处熟悉的地方。"
 
 # game/nikroute3.rpy:7534
 translate Schinese sny4_24e32fd5:
@@ -23740,7 +23740,7 @@ translate Schinese sny4_99c6c15d:
 translate Schinese sny4_2d88e7f5:
 
     # ni "“We could bury it like corsairs used to.”"
-    ni "“可以海盗那样埋起来。”"
+    ni "“可以像海盗那样埋起来。”"
 
 # game/nikroute3.rpy:8084
 translate Schinese sny4_8c99e935:
@@ -24262,7 +24262,7 @@ translate Schinese sny4_ff6c427e:
 translate Schinese sny4_0bb56ab6:
 
     # benunk "“If this ain’t the kind of stuff the boss was talking about then I don’t know what is.”"
-    benunk "“要是这还不不对，那我就真不知道老板他想要啥了。”"
+    benunk "“要是这还不对，那我就真不知道老板到底想要啥了。”"
 
 # game/nikroute3.rpy:8250
 translate Schinese sny4_e9f51165:
