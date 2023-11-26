@@ -19056,7 +19056,7 @@ translate Schinese murdochroute3b_d99e2133:
 translate Schinese murdochroute3b_5a4f572c:
 
     # ni "“What?!”"
-    ni "“什么！？”"
+    ni "“什么？！”"
 
 # game/murdochroute3.rpy:5940
 translate Schinese murdochroute3b_e037153e:
@@ -19347,4 +19347,30 @@ translate Schinese murdochroute3b_655a611f:
 
     # "Jim appears next and walks up the aisle by himself towards Gretchen."
     "Jim接着现身，独自一人走向Gretchen。"
+
+# TODO: Translation updated at 2023-11-24 14:59
+
+# game/murdochroute3.rpy:5938
+translate Schinese murdochroute3b_a096fa8d:
+
+    # nibadg "\"What?!\""
+    nibadg "“什么？！”"
+
+# game/murdochroute3.rpy:5941
+translate Schinese murdochroute3b_3d78a76f:
+
+    # nibadg "\"Little girls!?\""
+    nibadg "“小女孩？！”"
+
+# game/murdochroute3.rpy:5943
+translate Schinese murdochroute3b_f61c7b9c:
+
+    # nibadg "\"You shouldn’t be down here!\""
+    nibadg "“你们不该来这里的！”"
+
+# game/murdochroute3.rpy:5945
+translate Schinese murdochroute3b_19aa1f13:
+
+    # nibadg "\"It’s not safe! You have to run!\""
+    nibadg "“这里很危险！快跑！”"
 
