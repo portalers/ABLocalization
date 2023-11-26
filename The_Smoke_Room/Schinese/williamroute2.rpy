@@ -13593,3 +13593,11 @@ translate Schinese after_sw1_51afd4df:
     # sc "\"On it, Madam.\""
     sc "“我这就去，夫人。”"
 
+# TODO: Translation updated at 2023-11-24 14:59
+
+# game/williamroute2.rpy:3955
+translate Schinese sw2_7cba14a6:
+
+    # wi "\"But some of the days I miss look an awful lot like this one. \""
+    wi "“但是今天足以与其媲美了。”"
+
