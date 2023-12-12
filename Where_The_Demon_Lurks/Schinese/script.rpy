@@ -226,7 +226,7 @@ translate Schinese end_of_update_2b795aa9:
 translate Schinese end_of_update_f1200ced:
 
     # "And if you want to be kept up-to-date on the development, feel free to follow our twitter or join our Discord!"
-    "如果您想了解游戏的最新进展，记得随时关注我们的twitter或加入我们的Discord哦!"
+    "如果您想了解游戏的最新进展，记得随时关注我们的twitter或加入我们的Discord哦！"
 
 translate Schinese strings:
 
@@ -248,7 +248,7 @@ translate Schinese strings:
 translate Schinese end_of_update_a196eaa4:
 
     # "Or you can support us by buying our merch, available from the fine folks at Pawprint Press."
-    ""
+    "或者您也能在爪印文化购买我们的周边商品来支持我们。"
 
 translate Schinese strings:
 
@@ -263,4 +263,3 @@ translate Schinese strings:
     # game/script.rpy:99
     old "Soya"
     new "Soya"
-
