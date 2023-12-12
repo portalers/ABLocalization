@@ -200,25 +200,25 @@ translate Tchinese end_of_update_55566b14:
 translate Tchinese end_of_update_267ad187:
 
     # "Thanks for playing the latest update, if you want to let us know how we’re doing, leave a rating and comment on our itchio page. We want to hear from you!"
-    ""
+    "感謝您遊玩最新的更新，如果您有任何意見或建議，歡迎前往我們的itchio頁面進行留言和評分，我們衷心期待您的到來！"
 
 # game/script.rpy:280
 translate Tchinese end_of_update_2b795aa9:
 
     # "Where the Demon Lurks is supported by those who sponsor us on Patreon! Consider supporting us so we can make the game bigger and better!"
-    ""
+    "Where the Demon Lurks現已登陸Patreon平台！還請您多多支持，這樣我們才能把遊戲做得更好更強！"
 
 # game/script.rpy:281
 translate Tchinese end_of_update_a196eaa4:
 
     # "Or you can support us by buying our merch, available from the fine folks at Pawprint Press."
-    ""
+    "或者您也能在爪印文化購買我們的周邊商品來支持我們。"
 
 # game/script.rpy:282
 translate Tchinese end_of_update_f1200ced:
 
     # "And if you want to be kept up-to-date on the development, feel free to follow our twitter or join our Discord!"
-    ""
+    "如果您想了解遊戲的最新進展，記得隨時關注我們的twitter或加入我們的Discord哦！"
 
 translate Tchinese strings:
 
@@ -245,4 +245,3 @@ translate Tchinese strings:
     # game/script.rpy:99
     old "Soya"
     new ""
-
