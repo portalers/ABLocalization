@@ -372,7 +372,7 @@ translate Tchinese strings:
 
     # game/screens.rpy:1771
     old "Close"
-    new "  關閉"
+    new "關閉"
 
     #對筆記進行美化
     old "Notebook updated."

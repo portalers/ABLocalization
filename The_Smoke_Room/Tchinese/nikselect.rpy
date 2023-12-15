@@ -42,3 +42,30 @@ translate Tchinese strings:
     old "Did you say you'd like to wear James Hendrick's armor?"
     new "你有說要穿穿看James Hendrick的盔甲嗎？"
 
+# TODO: Translation updated at 2023-12-02 14:31
+
+translate Tchinese strings:
+
+    # game/nikselect.rpy:213
+    old "During a conversation with Beckett at night, did you:"
+    new "在晚上跟Beckett談話時，你："
+
+    # game/nikselect.rpy:221
+    old "During second meeting with Porter, did you change your previous answer?"
+    new "第二次見到Porter時，你有改變回答嗎？"
+
+    # game/nikselect.rpy:225
+    old "Who did you name instead[porterfirstchoice]"
+    new "你改成誰了？"
+
+    # game/nikselect.rpy:280
+    old "How did you feel about Yao before going to extract the gold?"
+    new "在去採金礦前，你對Yao的想法是？"
+
+    # game/nikselect.rpy:280
+    old "I was glad I pushed my doubts about him back."
+    new "很高興自己能夠不再懷疑他。"
+
+    # game/nikselect.rpy:280
+    old "{color=#a1a1a1}I felt he still can’t be trusted.\n(To be continued in future update){/color}"
+    new "{color=#a1a1a1}感覺還是不能信任。\n(請靜候往後更新){/color}"
