@@ -40849,3 +40849,11 @@ translate Schinese strings:
     old "If you can allow for things go where they need to, then so can I."
     new "如果你能把握好分寸，那我也可以。"
 
+# TODO: Translation updated at 2023-12-15 18:00
+
+translate Schinese strings:
+
+    # game/williamroute3.rpy:12128
+    old "If you can allow for things to go where they need to, then so can I."
+    new ""
+
