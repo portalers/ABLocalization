@@ -44,7 +44,7 @@ translate Schinese strings:
 
 # TODO: Translation updated at 2023-12-02 14:31
 
-translate Tchinese strings:
+translate Schinese strings:
 
     # game/nikselect.rpy:213
     old "During a conversation with Beckett at night, did you:"
