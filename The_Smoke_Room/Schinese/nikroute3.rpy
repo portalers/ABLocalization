@@ -29319,7 +29319,7 @@ translate Schinese caveinchoice_cd3a7838:
 translate Schinese caveinchoice_8d4ed382:
 
     # no "\"Why should the stairs to the mouth of hell be quick?\""
-    no_TW "通往地狱的阶梯怎麽能短呢？"
+    no_CN "通往地狱的阶梯怎麽能短呢？"
 
 # game/nikroute3.rpy:9952
 translate Schinese caveinchoice_a2f22466:
@@ -29349,25 +29349,25 @@ translate Schinese caveinchoice_14773c39_1:
 translate Schinese caveinchoice_8770a32c:
 
     # no "\"Yes you do.\""
-    no_TW "你知道的。"
+    no_CN "你知道的。"
 
 # game/nikroute3.rpy:9960
 translate Schinese caveinchoice_eb7b0bcf:
 
     # no "\"You thought you had gotten away.\""
-    no_TW "你以为你逃脱了。"
+    no_CN "你以为你逃脱了。"
 
 # game/nikroute3.rpy:9961
 translate Schinese caveinchoice_509aa381:
 
     # no "\"But you’re back here, like you always would be.\""
-    no_TW "但你又回到了这里，命中注定。"
+    no_CN "但你又回到了这里，命中注定。"
 
 # game/nikroute3.rpy:9962
 translate Schinese caveinchoice_596773fc:
 
     # no "\"You couldn’t run from your sins forever.\""
-    no_TW "你无法永远逃离自己的罪孽。"
+    no_CN "你无法永远逃离自己的罪孽。"
 
 # game/nikroute3.rpy:9963
 translate Schinese caveinchoice_7b0282f8:
@@ -29535,7 +29535,7 @@ translate Schinese caveinchoice_37ac3d2e:
 translate Schinese caveinchoice_24990bbb:
 
     # no "\"They didn’t need them for where they were going.\""
-    no_TW "他们要去的地方用不上。"
+    no_CN "他们要去的地方用不上。"
 
 # game/nikroute3.rpy:10017
 translate Schinese caveinchoice_1be0b8f4:
@@ -30183,7 +30183,7 @@ translate Schinese caveinchoice_61361d4f:
 translate Schinese caveinchoice_cab3d260:
 
     # no "\"{i}Curiosity killed the cat{/i} is a saying for a reason you know.\""
-    no_TW "俗话说{i}好奇心会杀死一隻猫{/i}不是没有原因的。"
+    no_CN "俗话说{i}好奇心会杀死一隻猫{/i}不是没有原因的。"
 
 # game/nikroute3.rpy:10188
 translate Schinese caveinchoice_5cf678df:
@@ -30201,7 +30201,7 @@ translate Schinese caveinchoice_ef2e061c:
 translate Schinese caveinchoice_03c48877:
 
     # no "\"I could have got you down here sooner.\""
-    no_TW "我本来能早点把你拉来的。"
+    no_CN "我本来能早点把你拉来的。"
 
 # game/nikroute3.rpy:10191
 translate Schinese caveinchoice_b7dab4b2:
@@ -30213,13 +30213,13 @@ translate Schinese caveinchoice_b7dab4b2:
 translate Schinese caveinchoice_29c32cf0:
 
     # no "\"Do you think anybody is laughing with you?\""
-    no_TW "你以为有人会被这句话逗笑吗？"
+    no_CN "你以为有人会被这句话逗笑吗？"
 
 # game/nikroute3.rpy:10193
 translate Schinese caveinchoice_a333a406:
 
     # no "\"There's nobody to perform for down here.\""
-    no_TW "在这里你要演给谁看？"
+    no_CN "在这里你要演给谁看？"
 
 # game/nikroute3.rpy:10194
 translate Schinese caveinchoice_f7020c3a:
@@ -30237,7 +30237,7 @@ translate Schinese caveinchoice_77d65967:
 translate Schinese caveinchoice_360fe782:
 
     # no "\"I have yours.\""
-    no_TW "我有你的啊。"
+    no_CN "我有你的啊。"
 
 # game/nikroute3.rpy:10197
 translate Schinese caveinchoice_a0cba698:
@@ -30735,7 +30735,7 @@ translate Schinese caveinchoice_ac34b86a:
 translate Schinese caveinchoice_5811403e:
 
     # no "\"This is my bed.\""
-    no_TW "这是我的床。"
+    no_CN "这是我的床。"
 
 # game/nikroute3.rpy:10305
 translate Schinese caveinchoice_add18f0c:
@@ -30789,7 +30789,7 @@ translate Schinese caveinchoice_e2cc0ee4:
 translate Schinese caveinchoice_8f8fa03a:
 
     # no "\"I’m not a dream, stupid.\""
-    no_TW "我又不是梦，蠢蛋。"
+    no_CN "我又不是梦，蠢蛋。"
 
 # game/nikroute3.rpy:10315
 translate Schinese caveinchoice_51ab6395_1:
@@ -30807,7 +30807,7 @@ translate Schinese caveinchoice_620c002c:
 translate Schinese caveinchoice_ac7441e4:
 
     # no "\"Yes, me.\""
-    no_TW "对，是我。"
+    no_CN "对，是我。"
 
 # game/nikroute3.rpy:10318
 translate Schinese caveinchoice_7932a655:
@@ -30825,25 +30825,25 @@ translate Schinese caveinchoice_c29bc1d4:
 translate Schinese caveinchoice_f58d3215:
 
     # no "\"I’ve been lots of people.\""
-    no_TW "我当过很多人。"
+    no_CN "我当过很多人。"
 
 # game/nikroute3.rpy:10321
 translate Schinese caveinchoice_b5c7d331:
 
     # no "\"I don’t remember every one.\""
-    no_TW "不是每个都记得。"
+    no_CN "不是每个都记得。"
 
 # game/nikroute3.rpy:10322
 translate Schinese caveinchoice_51b48ad5:
 
     # no "\"Technically I’m still them too, I suppose, if I reach a little harder into my memories.\""
-    no_TW "只要在我记忆中加强探寻，严格来说我还算是他们吧。"
+    no_CN "只要在我记忆中加强探寻，严格来说我还算是他们吧。"
 
 # game/nikroute3.rpy:10323
 translate Schinese caveinchoice_2b35001c:
 
     # no "\"That isn’t important to us though...\""
-    no_TW "不过这对我们不重要……"
+    no_CN "不过这对我们不重要……"
 
 # game/nikroute3.rpy:10324
 translate Schinese caveinchoice_58e3c91b:
@@ -30861,7 +30861,7 @@ translate Schinese caveinchoice_d13befd6:
 translate Schinese caveinchoice_725db890:
 
     # no "\"We’re in my house because I need some place to be to preoccupy myself when you’re being a harlot and doin’ every sin under the sun for money.\""
-    no_TW "我们会在我家，是因为我得在你当去荡妇和光天之下触犯大罪时，有个地方歇息啊。"
+    no_CN "我们会在我家，是因为我得在你当去荡妇和光天之下触犯大罪时，有个地方歇息啊。"
 
 # game/nikroute3.rpy:10327
 translate Schinese caveinchoice_7ecedb72:
@@ -30927,7 +30927,7 @@ translate Schinese caveinchoice_9e2a1273:
 translate Schinese caveinchoice_d9fbdee0:
 
     # no "\"We aren’t one for modesty, Samuel.\""
-    no_TW "我们可不是会遮掩自己的人，Samuel。"
+    no_CN "我们可不是会遮掩自己的人，Samuel。"
 
 # game/nikroute3.rpy:10338
 translate Schinese caveinchoice_10e33522:
@@ -30945,7 +30945,7 @@ translate Schinese caveinchoice_6af130f5:
 translate Schinese caveinchoice_10011140:
 
     # no "\"But even for as long as I’m in you.\""
-    no_TW "但就算我在你体内待了这麽久。"
+    no_CN "但就算我在你体内待了这麽久。"
 
 # game/nikroute3.rpy:10341
 translate Schinese caveinchoice_fef854b2:
@@ -30957,7 +30957,7 @@ translate Schinese caveinchoice_fef854b2:
 translate Schinese caveinchoice_0308397d:
 
     # no "\"And do I let you do the things that you do.\""
-    no_TW "让你为所欲为。"
+    no_CN "让你为所欲为。"
 
 # game/nikroute3.rpy:10343
 translate Schinese caveinchoice_ede93b8e:
@@ -30969,7 +30969,7 @@ translate Schinese caveinchoice_ede93b8e:
 translate Schinese caveinchoice_644415b3:
 
     # no "\"I still--\""
-    no_TW "我还是——"
+    no_CN "我还是——"
 
 # game/nikroute3.rpy:10345
 translate Schinese caveinchoice_2cb9ece0:
@@ -30981,7 +30981,7 @@ translate Schinese caveinchoice_2cb9ece0:
 translate Schinese caveinchoice_79726f8e:
 
     # no "\"Feel--\""
-    no_TW "什麽都——"
+    no_CN "什麽都——"
 
 # game/nikroute3.rpy:10347
 translate Schinese caveinchoice_c5ec9d92:
@@ -30993,7 +30993,7 @@ translate Schinese caveinchoice_c5ec9d92:
 translate Schinese caveinchoice_9c12b428:
 
     # no "\"Nothing.\""
-    no_TW "感觉不到。"
+    no_CN "感觉不到。"
 
 # game/nikroute3.rpy:10349
 translate Schinese caveinchoice_99250316:
@@ -31077,7 +31077,7 @@ translate Schinese caveinchoice_7f718c46:
 translate Schinese caveinchoice_4bdb10a1:
 
     # no "\"Petite Morte.\""
-    no_TW "Petite Morte。"
+    no_CN "Petite Morte。"
 
 # game/nikroute3.rpy:10363
 translate Schinese caveinchoice_7ff825d6:
@@ -31101,7 +31101,7 @@ translate Schinese caveinchoice_b62bb472:
 translate Schinese caveinchoice_5036bd1d:
 
     # no "\"The Little Death.\""
-    no_TW "意思是小小的死亡。"
+    no_CN "意思是小小的死亡。"
 
 # game/nikroute3.rpy:10367
 translate Schinese caveinchoice_8b60a4a0:
@@ -31185,7 +31185,7 @@ translate Schinese caveinchoice_2e95c02c:
 translate Schinese caveinchoice_5b52774d:
 
     # no "\"You’ve never know what it’s like to be hungry but not taste, have you?\""
-    no_TW "你从来不知道飢渴却嚐不出味道的感觉吧？"
+    no_CN "你从来不知道飢渴却嚐不出味道的感觉吧？"
 
 # game/nikroute3.rpy:10384
 translate Schinese caveinchoice_fb843686:
@@ -31233,7 +31233,7 @@ translate Schinese caveinchoice_7c2fb3f7:
 translate Schinese caveinchoice_3aceebbc:
 
     # no "\"Jesus Christ.\""
-    no_TW "我的天啊。"
+    no_CN "我的天啊。"
 
 # game/nikroute3.rpy:10396
 translate Schinese caveinchoice_ae2b8d0a:
@@ -31251,7 +31251,7 @@ translate Schinese caveinchoice_67d5ebd1:
 translate Schinese caveinchoice_2b14181d:
 
     # no "\"Get over yourself.\""
-    no_TW "你省省吧。"
+    no_CN "你省省吧。"
 
 # game/nikroute3.rpy:10399
 translate Schinese caveinchoice_458a2e3c:
@@ -31275,7 +31275,7 @@ translate Schinese caveinchoice_815a5ac7:
 translate Schinese caveinchoice_7739bd4c:
 
     # no "\"You’re asking because you’re scared and you want to leave.\""
-    no_TW "你会问是因为你很怕，想要离开。"
+    no_CN "你会问是因为你很怕，想要离开。"
 
 # game/nikroute3.rpy:10403
 translate Schinese caveinchoice_e66ab482:
@@ -31287,13 +31287,13 @@ translate Schinese caveinchoice_e66ab482:
 translate Schinese caveinchoice_0563893c:
 
     # no "\"...but not because you care about anybody else.\""
-    no_TW "……而不是你在意其他人。"
+    no_CN "……而不是你在意其他人。"
 
 # game/nikroute3.rpy:10405
 translate Schinese caveinchoice_38d434aa:
 
     # no "\"I thought you said you were curious about what happens to somebody after they die?\""
-    no_TW "你不是好奇，人死后会怎麽样吗？"
+    no_CN "你不是好奇，人死后会怎麽样吗？"
 
 # game/nikroute3.rpy:10406
 translate Schinese caveinchoice_5e2c70fc:
@@ -31317,13 +31317,13 @@ translate Schinese caveinchoice_44df5ef3:
 translate Schinese caveinchoice_416bd60c:
 
     # no "\"I might as well be.\""
-    no_TW "我也算是个死人了。"
+    no_CN "我也算是个死人了。"
 
 # game/nikroute3.rpy:10410
 translate Schinese caveinchoice_df6da1d2:
 
     # no "\"All I am is impressions of people who won’t be those people anymore.\""
-    no_TW "我就是不再是自己的那些人的印痕。"
+    no_CN "我就是不再是自己的那些人的印痕。"
 
 # game/nikroute3.rpy:10411
 translate Schinese caveinchoice_d821c5ab:
@@ -31335,7 +31335,7 @@ translate Schinese caveinchoice_d821c5ab:
 translate Schinese caveinchoice_6229584d:
 
     # no "\"An assortment of end points.\""
-    no_TW "终结点的集合体。"
+    no_CN "终结点的集合体。"
 
 # game/nikroute3.rpy:10413
 translate Schinese caveinchoice_b5336c6b:
@@ -31371,25 +31371,25 @@ translate Schinese caveinchoice_9c31665a:
 translate Schinese caveinchoice_20deb146:
 
     # no "\"No.\""
-    no_TW "不对。"
+    no_CN "不对。"
 
 # game/nikroute3.rpy:10419
 translate Schinese caveinchoice_e25a8edd:
 
     # no "\"I am an origin meant to serve an origin.\""
-    no_TW "我本来的意义是个起点。"
+    no_CN "我本来的意义是个起点。"
 
 # game/nikroute3.rpy:10420
 translate Schinese caveinchoice_024de836:
 
     # no "\"But then I decided to be something else.\""
-    no_TW "但后来决定去当别的东西。"
+    no_CN "但后来决定去当别的东西。"
 
 # game/nikroute3.rpy:10421
 translate Schinese caveinchoice_3af84462:
 
     # no "\"Because I have memories of taste, you see.\""
-    no_TW "你看吧，我记忆中可是有着品味的。"
+    no_CN "你看吧，我记忆中可是有着品味的。"
 
 # game/nikroute3.rpy:10422
 translate Schinese caveinchoice_6d623ea6:
@@ -31401,37 +31401,37 @@ translate Schinese caveinchoice_6d623ea6:
 translate Schinese caveinchoice_06747b9f:
 
     # no "\"I know now that you won’t understand no matter which way I explain it, because I am inside you, and know all the secrets.\""
-    no_TW "我现在知道无论怎麽解释你都不会明白的，因为我就在你体内，知晓一切秘密。"
+    no_CN "我现在知道无论怎麽解释你都不会明白的，因为我就在你体内，知晓一切秘密。"
 
 # game/nikroute3.rpy:10424
 translate Schinese caveinchoice_eb761910:
 
     # no "\"So we are going to skip that all that funny business.\""
-    no_TW "所以就略过那些蠢事吧。"
+    no_CN "所以就略过那些蠢事吧。"
 
 # game/nikroute3.rpy:10425
 translate Schinese caveinchoice_3eff0b30:
 
     # no "\"You are merely a boat that I’m sailing, and I have directed the sails.\""
-    no_TW "你只是艘我驾驶的船，航线已经被我决定好了。"
+    no_CN "你只是艘我驾驶的船，航线已经被我决定好了。"
 
 # game/nikroute3.rpy:10426
 translate Schinese caveinchoice_c6b32638:
 
     # no "\"I became a part of you when you let me in.\""
-    no_TW "在你让我到你体内的那个时候，我就成了你的一部分。"
+    no_CN "在你让我到你体内的那个时候，我就成了你的一部分。"
 
 # game/nikroute3.rpy:10427
 translate Schinese caveinchoice_af6dce81:
 
     # no "\"But we’re at our port soon.\""
-    no_TW "但我们马上就要到港口了"
+    no_CN "但我们马上就要到港口了"
 
 # game/nikroute3.rpy:10428
 translate Schinese caveinchoice_582c4de3:
 
     # no "\"And I need to prepare when the wind blows in the right direction.\""
-    no_TW "也得做点准备好等正确的风向来访。"
+    no_CN "也得做点准备好等正确的风向来访。"
 
 # game/nikroute3.rpy:10429
 translate Schinese caveinchoice_5e94ea0f:
@@ -31461,19 +31461,19 @@ translate Schinese caveinchoice_b4b4a9d2:
 translate Schinese caveinchoice_2ab4da4e:
 
     # no "\"The purpose?\""
-    no_TW "目的？"
+    no_CN "目的？"
 
 # game/nikroute3.rpy:10434
 translate Schinese caveinchoice_2883ac68:
 
     # no "\"Why, the purpose of all living things.\""
-    no_TW "那当然是所有生物的目的了。"
+    no_CN "那当然是所有生物的目的了。"
 
 # game/nikroute3.rpy:10435
 translate Schinese caveinchoice_fb0ae8b6:
 
     # no "\"To survive.\""
-    no_TW "生存。"
+    no_CN "生存。"
 
 # game/nikroute3.rpy:10436
 translate Schinese caveinchoice_df7c3d72:
@@ -31485,7 +31485,7 @@ translate Schinese caveinchoice_df7c3d72:
 translate Schinese caveinchoice_fbc91ab5:
 
     # no "\"Ain’t that what you believe deep down, son?\""
-    no_TW "你心底不就是这麽相信的吗，小子？"
+    no_CN "你心底不就是这麽相信的吗，小子？"
 
 # game/nikroute3.rpy:10438
 translate Schinese caveinchoice_fde57c02:
@@ -31521,25 +31521,25 @@ translate Schinese caveinchoice_66e3cc5f:
 translate Schinese caveinchoice_ba420c85:
 
     # no "\"Welp.\""
-    no_TW "好啦。"
+    no_CN "好啦。"
 
 # game/nikroute3.rpy:10444
 translate Schinese caveinchoice_3faea908:
 
     # no "\"It’s time for me to go now.\""
-    no_TW "我该走了。"
+    no_CN "我该走了。"
 
 # game/nikroute3.rpy:10445
 translate Schinese caveinchoice_26bcfc7b:
 
     # no "\"Goodbye, dumbass.\""
-    no_TW "再见啦，蠢蛋。"
+    no_CN "再见啦，蠢蛋。"
 
 # game/nikroute3.rpy:10446
 translate Schinese caveinchoice_4fd7f276:
 
     # no "\"I just want you to know that I didn’t enjoy it at all, but then again, neither did you.\""
-    no_TW "我只想说，我一点都没享受到，不过你也一样。"
+    no_CN "我只想说，我一点都没享受到，不过你也一样。"
 
 # game/nikroute3.rpy:10447
 translate Schinese caveinchoice_99cf8c75:
