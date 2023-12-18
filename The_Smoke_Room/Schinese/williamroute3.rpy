@@ -40857,3 +40857,11 @@ translate Schinese strings:
     old "If you can allow for things to go where they need to, then so can I."
     new ""
 
+# TODO: Translation updated at 2023-12-17 16:41
+
+# game/williamroute3.rpy:9629
+translate Schinese williamroute3c_792b7967:
+
+    # cl "\"{i}Broadly{/i} my foot, I ought to shake you!\""
+    cl ""
+

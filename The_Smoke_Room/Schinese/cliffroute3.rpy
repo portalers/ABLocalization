@@ -16233,3 +16233,35 @@ translate Schinese cliffchoice5_402a4570:
     # jeb "“How are y’all gettin’ more injured in the settlement than the journey?”"
     jeb "“你们在部落里受的伤怎么比路上还多？”"
 
+# TODO: Translation updated at 2023-12-17 16:41
+
+# game/cliffroute3.rpy:111
+translate Schinese cliffroute3_1fcd3842:
+
+    # m @ talking "\"Mornin', professor.\""
+    m @ talking ""
+
+# game/cliffroute3.rpy:115
+translate Schinese cliffroute3_2ce70097:
+
+    # m flustered @ talking "\"Oh, 'm sorry.\""
+    m flustered @ talking ""
+
+# game/cliffroute3.rpy:120
+translate Schinese cliffroute3_1e4b09de:
+
+    # m neutral @ talking "\"Yeah.\""
+    m neutral @ talking ""
+
+# game/cliffroute3.rpy:124
+translate Schinese cliffroute3_e2a31297:
+
+    # m neutral @ talking "\"Uh, did you?\""
+    m neutral @ talking ""
+
+# game/cliffroute3.rpy:1729
+translate Schinese aftercliffint2_15cb676e:
+
+    # cl "\"I had thought if I laid out my reasoning he would come to understand my concerns!\""
+    cl ""
+

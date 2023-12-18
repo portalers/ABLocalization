@@ -6558,3 +6558,287 @@ translate Schinese nikroute_a690c6aa:
     # ya "\"Very well. Let us move, and be quick about this. We can talk as we walk.\""
     ya "“好，那我们出发吧，尽快把事情做完，我们可以边走边谈。”"
 
+# TODO: Translation updated at 2023-12-17 16:41
+
+# game/nikroute.rpy:8
+translate Schinese nikroute_d262d9f7:
+
+    # "But there's another reason... Just thinking about Nik reminded me about something:"
+    ""
+
+# game/nikroute.rpy:16
+translate Schinese nikroute_118f2cdf:
+
+    # "Best to check... and a good excuse to get away from all the busy chatter of the people around me."
+    ""
+
+# game/nikroute.rpy:18
+translate Schinese nikroute_e0f40690:
+
+    # "I just want a little peace... and maybe a little booze, too."
+    ""
+
+# game/nikroute.rpy:29
+translate Schinese nikroute_cd39e6e4:
+
+    # cl "\"Wait, does this mean that you are going to... going to fit me in?\""
+    cl ""
+
+# game/nikroute.rpy:39
+translate Schinese nikroute_a1773045:
+
+    # cl "\"I'm... sorry?\""
+    cl ""
+
+# game/nikroute.rpy:97
+translate Schinese nikroute_fecc2988:
+
+    # m "\"Ch-Christ! Were you... trying to sneak up on me?\""
+    m ""
+
+# game/nikroute.rpy:141
+translate Schinese nikroute_ba212d1c:
+
+    # "I do the same, knowing that the back door is only used by us brothel workers... and a few familiar customers."
+    ""
+
+# game/nikroute.rpy:160
+translate Schinese nikroute_b87ea042:
+
+    # ni "\"Sorry, should I be leaving? I was not sure if... all of the saloon was closed.\""
+    ni ""
+
+# game/nikroute.rpy:198
+translate Schinese nikroute_0aeb080c:
+
+    # m "\"Uh... yeah, this is Clifford.\""
+    m ""
+
+# game/nikroute.rpy:245
+translate Schinese nikroute_11f52af6:
+
+    # cl "\"Oh... I'll take my leave then. Pleasant meeting you, Nik.\""
+    cl ""
+
+# game/nikroute.rpy:263
+translate Schinese nikroute_a17abcc9:
+
+    # ni @ talking "\"I do not like that he assumed what I am here for.\""
+    ni @ talking ""
+
+# game/nikroute.rpy:266
+translate Schinese nikroute_a19a7d6d:
+
+    # ni @ talking "\"He should be careful.\""
+    ni @ talking ""
+
+# game/nikroute.rpy:276
+translate Schinese nikroute_c37f76f1:
+
+    # ni @ talking "\"Are you alright, Sam?\""
+    ni @ talking ""
+
+# game/nikroute.rpy:277
+translate Schinese nikroute_0e385d74:
+
+    # m "\"Mmh... I'm tired.\""
+    m ""
+
+# game/nikroute.rpy:312
+translate Schinese nikroute_159424bb:
+
+    # ni "\"Did I... Did I interrupt an appointment?\""
+    ni ""
+
+# game/nikroute.rpy:340
+translate Schinese nikroute_d8e86be9:
+
+    # m "\"That's only 'cuz you're big and they don't know you're nice... and that's 'cuz you never talk to anyone.\""
+    m ""
+
+# game/nikroute.rpy:370
+translate Schinese nikroute_b9eeab9b:
+
+    # "It's not a feeling I like in any situation... except when I'm with Nik."
+    ""
+
+# game/nikroute.rpy:371
+translate Schinese nikroute_5f6787bc:
+
+    # "He can make me do whatever he wants because of his size and strength... but he doesn't, and I like that."
+    ""
+
+# game/nikroute.rpy:376
+translate Schinese nikroute_8e25f536:
+
+    # "The badger bellows out a laugh, then finally scoops me up into his arms, carrying me like a woman... which I don't like."
+    ""
+
+# game/nikroute.rpy:430
+translate Schinese nikroute_f0f471ca:
+
+    # "So then... maybe he doesn't know... maybe he was gonna ask something that had nothing to do with Jack."
+    ""
+
+# game/nikroute.rpy:505
+translate Schinese nikroute_4cc865eb:
+
+    # ni "\"Hahaha! I know, it's not pleasant, but you can always find a time and place if you must release your... tension.\""
+    ni ""
+
+# game/nikroute.rpy:511
+translate Schinese nikroute_7372298d:
+
+    # ni "\"When you live in such close quarters with many other men, you just... stop caring, I suppose. And they assume that no man would be interested in watching.\""
+    ni ""
+
+# game/nikroute.rpy:517
+translate Schinese nikroute_38c66def:
+
+    # ni "\"Well... I have trouble getting... aroused when I'm not near someone. I need another body to hold onto, I suppose.\""
+    ni ""
+
+# game/nikroute.rpy:524
+translate Schinese nikroute_5a77e5d6:
+
+    # ni "\"Well yes, the goal is never to stay in a bunkhouse. You're there until you find a gold vein and strike it rich... or you give up and leave town, whichever comes first.\""
+    ni ""
+
+# game/nikroute.rpy:541
+translate Schinese nikroute_0ddbb67b:
+
+    # ni @ talking "\"I don't want to ask this--\""
+    ni @ talking ""
+
+# game/nikroute.rpy:543
+translate Schinese nikroute_ed4081e2:
+
+    # m "\"Then don't. Some things... most things are best left unsaid.\""
+    m ""
+
+# game/nikroute.rpy:545
+translate Schinese nikroute_e2f81303:
+
+    # ni @ talking "\"--but did you know Jack?\""
+    ni @ talking ""
+
+# game/nikroute.rpy:554
+translate Schinese nikroute_3f83e372:
+
+    # ni @ talking "\"Because Jack bunked with us, and he didn't... do a very good job of hiding his preferences. He once said that he did not know mountain lions could have white fur.\""
+    ni @ talking ""
+
+# game/nikroute.rpy:557
+translate Schinese nikroute_fba60893:
+
+    # ni @ talking "\"Well, when he didn't show up for work, we all assumed he got tired of the job... but he's been found, and now we know what happened... mostly.\""
+    ni @ talking ""
+
+# game/nikroute.rpy:560
+translate Schinese nikroute_7dc156dc:
+
+    # ni @ talking "\"Sam, do you know what might have happened?\""
+    ni @ talking ""
+
+# game/nikroute.rpy:562
+translate Schinese nikroute_d911d060:
+
+    # "Nik sighs deeply, his chest rising against my paws, and it's only then that I realize his own massive paws are holding my wrists... gripping my wrists?"
+    ""
+
+# game/nikroute.rpy:586
+translate Schinese nikroute_f1a02f0b:
+
+    # m "\"You... You tell William?\""
+    m ""
+
+# game/nikroute.rpy:598
+translate Schinese nikroute_b9258d78:
+
+    # ni "\"Because... you are a dear friend of mine, and I know you... and I knew Jack.\""
+    ni ""
+
+# game/nikroute.rpy:617
+translate Schinese nikroute_0714372a:
+
+    # "Not like Jack at all, I know that, and I wanna believe him... but I can't."
+    ""
+
+# game/nikroute.rpy:636
+translate Schinese nikroute_5cfcf963:
+
+    # ni talking "\"No.\""
+    ni talking ""
+
+# game/nikroute.rpy:639
+translate Schinese nikroute_10425023:
+
+    # ni @ talking "\"I mean that I will not turn you in. I believe you.\""
+    ni @ talking ""
+
+# game/nikroute.rpy:657
+translate Schinese nikroute_9a25ccc5:
+
+    # m "\"Did... did Yao have money?\""
+    m ""
+
+# game/nikroute.rpy:660
+translate Schinese nikroute_4cbe3490:
+
+    # m "\"Wow... now I know I'm stupid, because that sounds like the dumbest fucking scam I've ever heard.\""
+    m ""
+
+# game/nikroute.rpy:661
+translate Schinese nikroute_3f54ae4a:
+
+    # ni talking "\"Well, you were certainly far too hasty, and I wish you would have said something about this to me.\""
+    ni talking ""
+
+# game/nikroute.rpy:674
+translate Schinese nikroute_d8688589:
+
+    # ni "\"No... I think you should do it later, to avoid suspicion. I am the only person who saw you coming from the mines. The only evidence of you being there was your money and your wounds.\""
+    ni ""
+
+# game/nikroute.rpy:680
+translate Schinese nikroute_39e804bf:
+
+    # ni "\"Most don't know you. And... William is on your side, isn't he?\""
+    ni ""
+
+# game/nikroute.rpy:684
+translate Schinese nikroute_a6e5bb55:
+
+    # ni @ talking "\"Not if he knows the truth.\""
+    ni @ talking ""
+
+# game/nikroute.rpy:688
+translate Schinese nikroute_9f041e64:
+
+    # ni "\"I know. It's best not to right now. But... I want to help you. We can make plans to keep you safe, even leave Echo eventually, if that's what you want.\""
+    ni ""
+
+# game/nikroute.rpy:747
+translate Schinese nikroute_9c3f1e47:
+
+    # ni "\"Ugh... what's that?\""
+    ni ""
+
+# game/nikroute.rpy:765
+translate Schinese nikroute_ce44e1b3:
+
+    # m "\"Just... sit on the dang bed, or somethin'!\""
+    m ""
+
+# game/nikroute.rpy:1353
+translate Schinese nikroute_d41cc372:
+
+    # ya @ talking "\"Hello.\""
+    ya @ talking ""
+
+# game/nikroute.rpy:1356
+translate Schinese nikroute_c9dd26d3:
+
+    # ya @ talking "\"As a friend of Nikolai’s, I trust you share in his will and purpose.\""
+    ya @ talking ""
+

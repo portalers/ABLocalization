@@ -6467,3 +6467,263 @@ translate Schinese strings:
     old "Tell William the truth."
     new "告诉William真相。"
 
+# TODO: Translation updated at 2023-12-17 16:41
+
+# game/commonroute.rpy:14
+translate Schinese commonroute_9d4db3b2:
+
+    # "No matter what I do, no matter how hard I try to change things... it just feels like I'm moving in circles here."
+    ""
+
+# game/commonroute.rpy:54
+translate Schinese commonroute_b26eaef5:
+
+    # cy "\"Sammy! Enough hiding away up here, come downstairs... what are you doing?\""
+    cy ""
+
+# game/commonroute.rpy:56
+translate Schinese commonroute_69633cf1:
+
+    # m "\"Uh... I'm prayin'.\""
+    m ""
+
+# game/commonroute.rpy:88
+translate Schinese commonroute_32427a91:
+
+    # cy "\"Oh Sam. As I said, he's from Batavia, and... he made the appointment with you.\""
+    cy ""
+
+# game/commonroute.rpy:93
+translate Schinese commonroute_1c18e497:
+
+    # cy "\"Well, {i}I{/i} didn't look at the list. I would never... but Gabriel did.\""
+    cy ""
+
+# game/commonroute.rpy:109
+translate Schinese commonroute_e96b5c56:
+
+    # "She tells me this like I haven't heard it a thousand times before... but again, it doesn't really matter now."
+    ""
+
+# game/commonroute.rpy:123
+translate Schinese commonroute_b6396c08:
+
+    # m "\"Like I said, it's stuffy in here, makes me feel like I'm goin' crazy... but thanks for makin' an effort.\""
+    m ""
+
+# game/commonroute.rpy:151
+translate Schinese commonroute_1b9b48f2:
+
+    # "If you miss that chance, then you miss it... then you're stuck."
+    ""
+
+# game/commonroute.rpy:164
+translate Schinese commonroute_2615bf84:
+
+    # "So seeing him now with his gas lamp held up, a grin on his face... it's really going to happen."
+    ""
+
+# game/commonroute.rpy:204
+translate Schinese commonroute_da4d5ca2:
+
+    # "As far as I know, you need... stuff, machinery or something to get the gold out."
+    ""
+
+# game/commonroute.rpy:211
+translate Schinese commonroute_68463059:
+
+    # m "\"But... but... how could anyone forget somethin' like that?\""
+    m ""
+
+# game/commonroute.rpy:213
+translate Schinese commonroute_3e207e97:
+
+    # ja "\"Who the hell knows!? But listen, there's a bag of the stuff. I think it's enough to, well... let us live rich for the rest of our lives. Like, REAL rich.\""
+    ja ""
+
+# game/commonroute.rpy:272
+translate Schinese commonroute_4fe8c4d2:
+
+    # ja "\"Here it is, Sam... here it is.\""
+    ja ""
+
+# game/commonroute.rpy:307
+translate Schinese commonroute_96a004d2:
+
+    # "But it's not coming from the front of my head... it's the back."
+    ""
+
+# game/commonroute.rpy:325
+translate Schinese commonroute_22c08531:
+
+    # "I keep blinking at it, waiting for it to go back to blue, or black with stars... whatever time it is."
+    ""
+
+# game/commonroute.rpy:336
+translate Schinese commonroute_8129e240:
+
+    # "I can't see what he's holding, but I hear the clink of coins... and everything comes back to me in a waterfall of confusion, hurt, and most of all, anger."
+    ""
+
+# game/commonroute.rpy:356
+translate Schinese commonroute_e6ea7667:
+
+    # "The thought of so much gold, of living rich... I'd been completely blinded by the thought of it."
+    ""
+
+# game/commonroute.rpy:403
+translate Schinese commonroute_0b94151c:
+
+    # "Like... I just woke something up and it's watching me now."
+    ""
+
+# game/commonroute.rpy:408
+translate Schinese commonroute_05bda310:
+
+    # "If I get caught like this... the men here won't need much more of a reason to hang a whore like me."
+    ""
+
+# game/commonroute.rpy:419
+translate Schinese commonroute_e7decc28:
+
+    # m "\"No... no, no, no, no.\""
+    m ""
+
+# game/commonroute.rpy:424
+translate Schinese commonroute_f103c67d:
+
+    # "Jack had said something about others knowing about this place... maybe I could run into someone, or just find my way out."
+    ""
+
+# game/commonroute.rpy:429
+translate Schinese commonroute_cf6e26ed:
+
+    # m "\"Please... please let me find them...\""
+    m ""
+
+# game/commonroute.rpy:430
+translate Schinese commonroute_4dfb59d3:
+
+    # "I whisper to myself, to God, to nothing... begging my paws to feel the cool metal."
+    ""
+
+# game/commonroute.rpy:460
+translate Schinese commonroute_89860377:
+
+    # "It's quiet, whatever it was that was following me isn't anymore... or it's just too far away."
+    ""
+
+# game/commonroute.rpy:462
+translate Schinese commonroute_72d27186:
+
+    # "A stuttered, rhythmic sound, deep and scratchy... I don't know what it is."
+    ""
+
+# game/commonroute.rpy:476
+translate Schinese commonroute_eeb6ae7a:
+
+    # "I think I wander for a few hours... maybe more."
+    ""
+
+# game/commonroute.rpy:530
+translate Schinese commonroute_41ced8be:
+
+    # m "\"Just some asshole on the street... I dunno who.\""
+    m ""
+
+# game/commonroute.rpy:537
+translate Schinese commonroute_0640b259:
+
+    # m "\"I... I need to go wash up. I can tell you more later.\""
+    m ""
+
+# game/commonroute.rpy:540
+translate Schinese commonroute_b8d1bbb0:
+
+    # m "\"Sorry, but I gotta go. Just... come see me at the saloon sometime.\""
+    m ""
+
+# game/commonroute.rpy:562
+translate Schinese commonroute_49bf0b21:
+
+    # "When I get to the back of my head, I can feel the skin moving around in ways that I'm not used to, and I wonder if Nik was right that I should see a doctor and get stitched up... maybe after I've slept."
+    ""
+
+# game/commonroute.rpy:630
+translate Schinese commonroute_579de853:
+
+    # m "\"I—I was just having a walk through the streets... couple of men came up behind me and bashed my head. I didn't see them.\""
+    m ""
+
+# game/commonroute.rpy:710
+translate Schinese commonroute_666bd57c:
+
+    # "It seems darker than usual, and I’m starting to hate looking into it when I’m alone... If I’ll ever really be alone again after that day. There was something down in those mines."
+    ""
+
+# game/commonroute.rpy:895
+translate Schinese commonroute_b020757d:
+
+    # cy "\"Ha! This is as... authentic... as it gets, sir.\""
+    cy ""
+
+# game/commonroute.rpy:1219
+translate Schinese commonroute_18ff9e51:
+
+    # mu "\"Well... it muddles the narrative, doesn’t it? Was he hit in the head or did he hit himself? He didn’t have safety equipment or a light.\""
+    mu ""
+
+# game/commonroute.rpy:1235
+translate Schinese commonroute_92c480db:
+
+    # wi "\"I know you've seen plenty of miners. Folks get sloppy when they’re... well—\""
+    wi ""
+
+# game/commonroute.rpy:1316
+translate Schinese commonroute_8ee7d160:
+
+    # "If I want to be sane tonight... and more importantly, alluring... then I ought to catch a nap."
+    ""
+
+# game/commonroute.rpy:1330
+translate Schinese commonroute_032f6c5b:
+
+    # "It smells sweaty, musky... very male."
+    ""
+
+# game/commonroute.rpy:1336
+translate Schinese commonroute_1744dfd9:
+
+    # "His tip is already wet... he needs this..."
+    ""
+
+# game/commonroute.rpy:1369
+translate Schinese commonroute_aebed5a9:
+
+    # m "\"Why don’t you... do this yourself, if you think it’s so insightful.\""
+    m ""
+
+# game/commonroute.rpy:1402
+translate Schinese commonroute_690e2a72:
+
+    # "I take a seat between the two of them... which they must have arranged for intentionally."
+    ""
+
+# game/commonroute.rpy:1432
+translate Schinese commonroute_bd48023d:
+
+    # "It’s a bit too... periwinkle for me."
+    ""
+
+# game/commonroute.rpy:1478
+translate Schinese commonroute_33983817:
+
+    # "But anybody would have needed a kiss after putting up with... well, Echo."
+    ""
+
+# game/commonroute.rpy:1488
+translate Schinese commonroute_7f85451f:
+
+    # "Obsession can easily lead to heartbreak... and violence."
+    ""
+
