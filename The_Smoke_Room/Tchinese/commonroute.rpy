@@ -4000,7 +4000,7 @@ translate Tchinese commonroute_60b28dd9:
 translate Tchinese commonroute_1acae7b3:
 
     # cl "\"The bar sounds excellent, my dear! I hope not to impose for very long. You see, I’ve always wanted to visit an authentic western saloon. Why wouldn’t I want to start there?\""
-    cl "“吧檯聽起來棒極了，親愛的！希望我不會打擾你們太久。你知道嗎，我一直都想參觀一家正宗的西部酒館，所以為什麼不從那裡開始呢？”"
+    cl "“吧檯聽起來棒極了，親愛的！希望我不會打擾你們太久。你知道嗎，我一直都想參觀一家道地的西部酒館，所以為什麼不從那裡開始呢？”"
 
 # game/commonroute.rpy:844
 translate Tchinese commonroute_9d95ed15:
@@ -4018,7 +4018,7 @@ translate Tchinese commonroute_579dcc3a:
 translate Tchinese commonroute_0508e6e5:
 
     # cy "\"Ha! This is as...authentic...as it gets, sir.\""
-    cy "“哈！這裡……盡量……正宗了，先生。”"
+    cy "“哈！這裡……盡量……道地了，先生。”"
 
 # game/commonroute.rpy:848
 translate Tchinese commonroute_784b55f8:
@@ -6471,257 +6471,256 @@ translate Tchinese strings:
 translate Tchinese commonroute_9d4db3b2:
 
     # "No matter what I do, no matter how hard I try to change things... it just feels like I'm moving in circles here."
-    ""
+    "感覺無論我怎麼做，無論我多麼努力地去改變……終究只是在兜圈子。"
 
 # game/commonroute.rpy:54
 translate Tchinese commonroute_b26eaef5:
 
     # cy "\"Sammy! Enough hiding away up here, come downstairs... what are you doing?\""
-    cy ""
+    cy "“Sammy！別在這躲著了，下來……你在幹什麼呢？”"
 
 # game/commonroute.rpy:56
 translate Tchinese commonroute_69633cf1:
 
     # m "\"Uh... I'm prayin'.\""
-    m ""
+    m "“呃……我在禱告。”"
 
 # game/commonroute.rpy:88
 translate Tchinese commonroute_32427a91:
 
     # cy "\"Oh Sam. As I said, he's from Batavia, and... he made the appointment with you.\""
-    cy ""
+    cy "“噢，Sam。首先，他來自巴達維亞。其次……他的預約對象是你。”"
 
 # game/commonroute.rpy:93
 translate Tchinese commonroute_1c18e497:
 
     # cy "\"Well, {i}I{/i} didn't look at the list. I would never... but Gabriel did.\""
-    cy ""
+    cy "“啊，{b}我{/b}沒有看那個名單，我永遠不會的……不過Gabriel看了。”"
 
 # game/commonroute.rpy:109
 translate Tchinese commonroute_e96b5c56:
 
     # "She tells me this like I haven't heard it a thousand times before... but again, it doesn't really matter now."
-    ""
+    "她說得好像不是第一千遍告訴我似的……不過，這真的已經無所謂了。"
 
 # game/commonroute.rpy:123
 translate Tchinese commonroute_b6396c08:
 
     # m "\"Like I said, it's stuffy in here, makes me feel like I'm goin' crazy... but thanks for makin' an effort.\""
-    m ""
+    m "“就像我說的，這裡悶到我快要發瘋了……不過還是謝謝你的嘗試。”"
 
 # game/commonroute.rpy:151
 translate Tchinese commonroute_1b9b48f2:
 
     # "If you miss that chance, then you miss it... then you're stuck."
-    ""
+    "如果錯過那個機會，那就真的錯過了……然後你就會深陷於此。"
 
 # game/commonroute.rpy:164
 translate Tchinese commonroute_2615bf84:
 
     # "So seeing him now with his gas lamp held up, a grin on his face... it's really going to happen."
-    ""
+    "所以現在，看見他舉著燈，咧嘴笑著……這真的就要實現了。"
 
 # game/commonroute.rpy:204
 translate Tchinese commonroute_da4d5ca2:
 
     # "As far as I know, you need... stuff, machinery or something to get the gold out."
-    ""
+    "據我所知，你是需要……某些東西，比如機器之類的才能把金子弄出來的。"
 
 # game/commonroute.rpy:211
 translate Tchinese commonroute_68463059:
 
     # m "\"But... but... how could anyone forget somethin' like that?\""
-    m ""
+    m "“但是……但是……怎麼會有人忘記這種事呢？”"
 
 # game/commonroute.rpy:213
 translate Tchinese commonroute_3e207e97:
 
     # ja "\"Who the hell knows!? But listen, there's a bag of the stuff. I think it's enough to, well... let us live rich for the rest of our lives. Like, REAL rich.\""
-    ja ""
+    ja "“誰知道！？不過聽著，我想一袋那東西就足夠，嗯……足夠我們下輩子過上有錢人的生活了。──非常──有錢。”"
 
 # game/commonroute.rpy:272
 translate Tchinese commonroute_4fe8c4d2:
 
     # ja "\"Here it is, Sam... here it is.\""
-    ja ""
+    ja "“就是這，Sam……就是這。”"
 
 # game/commonroute.rpy:307
 translate Tchinese commonroute_96a004d2:
 
     # "But it's not coming from the front of my head... it's the back."
-    ""
+    "但這不是從頭的前面傳來的……是後面。"
 
 # game/commonroute.rpy:325
 translate Tchinese commonroute_22c08531:
 
     # "I keep blinking at it, waiting for it to go back to blue, or black with stars... whatever time it is."
-    ""
+    "我繼續眨著眼，等待著它變回藍色，或是有星星的黑色……不論現在是什麼時候。"
 
 # game/commonroute.rpy:336
 translate Tchinese commonroute_8129e240:
 
     # "I can't see what he's holding, but I hear the clink of coins... and everything comes back to me in a waterfall of confusion, hurt, and most of all, anger."
-    ""
+    "我看不到他拿著什麼，但是我聽到了硬幣碰撞的叮噹聲……所有的一切彷彿瀑布般傾瀉而下，混合著困惑、受傷，尤其是憤怒。"
 
 # game/commonroute.rpy:356
 translate Tchinese commonroute_e6ea7667:
 
     # "The thought of so much gold, of living rich... I'd been completely blinded by the thought of it."
-    ""
+    "這麼多的金子，還有富足的生活……我完全被這個想法蒙蔽了雙眼。"
 
 # game/commonroute.rpy:403
 translate Tchinese commonroute_0b94151c:
 
     # "Like... I just woke something up and it's watching me now."
-    ""
+    "就好像……我剛吵醒了什麼，而它正看著我。"
 
 # game/commonroute.rpy:408
 translate Tchinese commonroute_05bda310:
 
     # "If I get caught like this... the men here won't need much more of a reason to hang a whore like me."
-    ""
+    "如果被這樣抓到……這裡的男人們就無需更多理由來吊死一個我這樣的娼妓了。"
 
 # game/commonroute.rpy:419
 translate Tchinese commonroute_e7decc28:
 
     # m "\"No... no, no, no, no.\""
-    m ""
+    m "“不……不，不，不，不。”"
 
 # game/commonroute.rpy:424
 translate Tchinese commonroute_f103c67d:
 
     # "Jack had said something about others knowing about this place... maybe I could run into someone, or just find my way out."
-    ""
+    "Jack說過還有其他人知道這個地方……也許我能遇到什麼人，或者直接找到出口。"
 
 # game/commonroute.rpy:429
 translate Tchinese commonroute_cf6e26ed:
 
     # m "\"Please... please let me find them...\""
-    m ""
+    m "“拜託……拜託讓我找到……”"
 
 # game/commonroute.rpy:430
 translate Tchinese commonroute_4dfb59d3:
 
     # "I whisper to myself, to God, to nothing... begging my paws to feel the cool metal."
-    ""
+    "我喃喃說道，對上帝、對我自己，又或是誰都不對……祈求爪子感受到金屬的冰涼。"
 
 # game/commonroute.rpy:460
 translate Tchinese commonroute_89860377:
 
     # "It's quiet, whatever it was that was following me isn't anymore... or it's just too far away."
-    ""
+    "不管跟著我的東西是什麼，它很安靜，也許已經走了……又或者只是太遠了。"
 
 # game/commonroute.rpy:462
 translate Tchinese commonroute_72d27186:
 
     # "A stuttered, rhythmic sound, deep and scratchy... I don't know what it is."
-    ""
+    "斷斷續續、有節奏的聲音，深沉而沙啞……我不知道那是什麼。"
 
 # game/commonroute.rpy:476
 translate Tchinese commonroute_eeb6ae7a:
 
     # "I think I wander for a few hours... maybe more."
-    ""
+    "我想，我徘徊了有幾個小時……也許更久。"
 
 # game/commonroute.rpy:530
 translate Tchinese commonroute_41ced8be:
 
     # m "\"Just some asshole on the street... I dunno who.\""
-    m ""
+    m "“街上一些混蛋罷了……我不清楚是誰。”"
 
 # game/commonroute.rpy:537
 translate Tchinese commonroute_0640b259:
 
     # m "\"I... I need to go wash up. I can tell you more later.\""
-    m ""
+    m "“我之後再告訴你。我……我需要清理一下。”"
 
 # game/commonroute.rpy:540
 translate Tchinese commonroute_b8d1bbb0:
 
     # m "\"Sorry, but I gotta go. Just... come see me at the saloon sometime.\""
-    m ""
+    m "“抱歉，我得走了……有空來酒館找我。”"
 
 # game/commonroute.rpy:562
 translate Tchinese commonroute_49bf0b21:
 
     # "When I get to the back of my head, I can feel the skin moving around in ways that I'm not used to, and I wonder if Nik was right that I should see a doctor and get stitched up... maybe after I've slept."
-    ""
+    "當清理到後腦杓的時候，我能感到那裡的皮膚以一種不尋常的方式在移動。也許Nik是對的，我應該找個醫生縫合一下……也許在睡一覺之後。"
 
 # game/commonroute.rpy:630
 translate Tchinese commonroute_579de853:
 
     # m "\"I—I was just having a walk through the streets... couple of men came up behind me and bashed my head. I didn't see them.\""
-    m ""
+    m "“我、我只是在街上散步……幾個男人從背後狠狠砸了我的頭，我沒有看見他們。”"
 
 # game/commonroute.rpy:710
 translate Tchinese commonroute_666bd57c:
 
     # "It seems darker than usual, and I’m starting to hate looking into it when I’m alone... If I’ll ever really be alone again after that day. There was something down in those mines."
-    ""
+    "好像比平時還要黑暗，而我也開始厭惡在獨自一人時看著裡面……如果那天之後，我真的有過任何單獨時刻的話。那些礦井下面有什麼東西。"
 
 # game/commonroute.rpy:895
 translate Tchinese commonroute_b020757d:
 
     # cy "\"Ha! This is as... authentic... as it gets, sir.\""
-    cy ""
+    cy "“哈！這裡……盡量……道地了，先生。”"
 
 # game/commonroute.rpy:1219
 translate Tchinese commonroute_18ff9e51:
 
     # mu "\"Well... it muddles the narrative, doesn’t it? Was he hit in the head or did he hit himself? He didn’t have safety equipment or a light.\""
-    mu ""
+    mu "“這個……它干擾了敘述，不是嗎？他是被人擊中頭部還是自己所為？他身上沒有安全設備，也沒有燈。”"
 
 # game/commonroute.rpy:1235
 translate Tchinese commonroute_92c480db:
 
     # wi "\"I know you've seen plenty of miners. Folks get sloppy when they’re... well—\""
-    wi ""
+    wi "“我知道你見過很多礦工。人們在……的時候，會放鬆警惕。嗯──”"
 
 # game/commonroute.rpy:1316
 translate Tchinese commonroute_8ee7d160:
 
     # "If I want to be sane tonight... and more importantly, alluring... then I ought to catch a nap."
-    ""
+    "如果我今晚想保持清醒……更重要的是，誘人……那我應該小睡一下。"
 
 # game/commonroute.rpy:1330
 translate Tchinese commonroute_032f6c5b:
 
     # "It smells sweaty, musky... very male."
-    ""
+    "濃厚的汗味、富有麝香味……非常男人。"
 
 # game/commonroute.rpy:1336
 translate Tchinese commonroute_1744dfd9:
 
     # "His tip is already wet... he needs this..."
-    ""
+    "他的前端已經濕了……他需要這個……"
 
 # game/commonroute.rpy:1369
 translate Tchinese commonroute_aebed5a9:
 
     # m "\"Why don’t you... do this yourself, if you think it’s so insightful.\""
-    m ""
+    m "“你為什麼……自己不去做，如果你覺得這很有見地的話。”"
 
 # game/commonroute.rpy:1402
 translate Tchinese commonroute_690e2a72:
 
     # "I take a seat between the two of them... which they must have arranged for intentionally."
-    ""
+    "我坐在他們之間的座位上……他們一定是有意安排的。"
 
 # game/commonroute.rpy:1432
 translate Tchinese commonroute_bd48023d:
 
     # "It’s a bit too... periwinkle for me."
-    ""
+    "對我來說，這有點太……花了。"
 
 # game/commonroute.rpy:1478
 translate Tchinese commonroute_33983817:
 
     # "But anybody would have needed a kiss after putting up with... well, Echo."
-    ""
+    "不過任何人都會需要一個吻的，在他們忍受了……好吧，回音鎮之後。"
 
 # game/commonroute.rpy:1488
 translate Tchinese commonroute_7f85451f:
 
     # "Obsession can easily lead to heartbreak... and violence."
-    ""
-
+    "癡迷很容易導致心碎……和暴力。"

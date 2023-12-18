@@ -40856,5 +40856,4 @@ translate Tchinese strings:
 translate Tchinese williamroute3c_792b7967:
 
     # cl "\"{i}Broadly{/i} my foot, I ought to shake you!\""
-    cl ""
-
+    cl "{i}開放{/i}個鬼，看我不揍死你！"
