@@ -31646,7 +31646,7 @@ translate Tchinese caveinchoice_176ea790:
 translate Tchinese caveinchoice_ad0514f4:
 
     # "But then they drop it on my head."
-    "卻又重重壓在我頭上。"
+    "卻又重重砸在我頭上。"
 
 # game/nikroute3.rpy:10480
 translate Tchinese caveinchoice_eecdd5e7:
@@ -31664,7 +31664,7 @@ translate Tchinese caveinchoice_674460a9:
 translate Tchinese caveinchoice_26eb3a76:
 
     # "They drop it on me again."
-    "他們又用那東西壓了我。"
+    "他們又用那東西砸了我。"
 
 # game/nikroute3.rpy:10484
 translate Tchinese caveinchoice_ded17c8a:
@@ -31976,7 +31976,7 @@ translate Tchinese caveinchoice_eed22a82:
 translate Tchinese caveinchoice_0ffefc9e:
 
     # "I’m a little wobbly at first, but I can work fine."
-    "起初我步伐有點不穩，但後來穩住了。"
+    "起初我步伐有點不穩，但還能走。"
 
 # game/nikroute3.rpy:10554
 translate Tchinese caveinchoice_e4b23c69:
@@ -32557,3 +32557,167 @@ translate Tchinese strings:
     # game/nikroute3.rpy:9331
     old "Go deeper."
     new "往深處走。"
+
+# TODO: Translation updated at 2023-12-16 18:43
+
+# game/nikroute3.rpy:7576
+translate Tchinese sny4_0d9f6782:
+
+    # m "\"This is the entrance where Jack almost killed me.\""
+    m "這可是Jack差點殺了我的入口啊。"
+
+# game/nikroute3.rpy:9180
+translate Tchinese nikroute3c1_4cd507b6:
+
+    # ya talking "\"I believe that they also wanted to explore as much as they could to their maximum capacity horizontally rather than vertically.\""
+    ya talking "他們應該是想在最大負荷內往水平方向探勘，而非垂直方向。"
+
+# game/nikroute3.rpy:9191
+translate Tchinese nikroute3c1_4c61c8c4:
+
+    # "Something about being down here in the dark is making it hard to focus again."
+    "一說到底下，我就難以集中在話題上了。"
+
+# game/nikroute3.rpy:9369
+translate Tchinese caveinchoice_77d71b96:
+
+    # ni "\"You are the one who knows the way out, not me.\""
+    ni "知道出路的人是你，不是我。"
+
+# game/nikroute3.rpy:9385
+translate Tchinese caveinchoice_fda418fd:
+
+    # "I don’t hear Nik breathe at all for a moment."
+    "有一瞬間我沒聽見Nik的呼吸聲。"
+
+# game/nikroute3.rpy:9542
+translate Tchinese caveinchoice_b8b4001c:
+
+    # "I wonder if they were doing that to Ben right now and shudder."
+    "一想到這可能就是Ben現在的處境，我就打了個冷顫。"
+
+# game/nikroute3.rpy:9753
+translate Tchinese caveinchoice_fbbfdd4a:
+
+    # "He reaches inside and then pulls out something metallic."
+    "他伸手進去，摸出了個金屬物品。"
+
+# game/nikroute3.rpy:9874
+translate Tchinese caveinchoice_af1d0332:
+
+    # "She’d say that when a person died, all the bad stuff they did in life would come out of their body, and hang around their bones, or their stuff."
+    "據她所說，人死的時候，生前一切罪惡都會離開身軀，纏繞著他們的骸骨或所有物。"
+
+# game/nikroute3.rpy:9938
+translate Tchinese caveinchoice_602ec255:
+
+    # "He leads us into another tunnel entrance that then narrows, transforming into wide slates of rock I could only best describe as steps."
+    "他把我們帶到另一個隧道入口，先是縮窄而後變為寬石板，最好的形容應該是石階吧。"
+
+# game/nikroute3.rpy:9987
+translate Tchinese caveinchoice_f6b8b832:
+
+    # "It opens up to a dark place that doesn’t feel like any of the previous places we had come to before."
+    "通向一個感覺跟之前截然不同的黑暗空間。"
+
+# game/nikroute3.rpy:10006
+translate Tchinese caveinchoice_bb43ac38:
+
+    # "Less impressive, but just as absurd, is the brown-grey mound just outside the entrance of the hallway."
+    "相較之下不算驚人但也很神祕的是，走廊入口外棕灰色的一座檯子。"
+
+# game/nikroute3.rpy:10013
+translate Tchinese caveinchoice_b051bf0b:
+
+    # "Hundreds, maybe thousands of old leather gloves, of varying sizes, in a massive pile, without any meaning to them, or purpose to them."
+    "成千上百隻大小不同的舊皮革手套，被毫無目的或意義地堆在這裡。"
+
+# game/nikroute3.rpy:10061
+translate Tchinese caveinchoice_94aacbe8:
+
+    # ni "\"It’s just a pathway is it not?\""
+    ni "這不過就是條路吧？"
+
+# game/nikroute3.rpy:10105
+translate Tchinese caveinchoice_ce71bec1:
+
+    # m "\"How are you so calm when explaining all this?\""
+    m "你解釋這些的時候怎麼能這麼冷靜？"
+
+# game/nikroute3.rpy:10158
+translate Tchinese caveinchoice_177a7abc:
+
+    # "Like some sort of parlor trick that’s meant to scare me."
+    "像是用來嚇人的小把戲。"
+
+# game/nikroute3.rpy:10201
+translate Tchinese caveinchoice_4fccd277:
+
+    # "You sulfur-spewing bitch."
+    "你個滿嘴硫磺臭的婊子。"
+
+# game/nikroute3.rpy:10277
+translate Tchinese caveinchoice_bd156989:
+
+    # "Whittled angels coop over the out of tune piano which has half of its keys collapsed."
+    "鍵盤塌了一半的走調鋼琴上有幾個天使木雕。"
+
+# game/nikroute3.rpy:10301
+translate Tchinese caveinchoice_ed1ddbb1:
+
+    # "I sit on it because my bed is occupied."
+    "我現在會坐，只是因為我床上沒位子。"
+
+# game/nikroute3.rpy:10333
+translate Tchinese caveinchoice_c785bd68:
+
+    # no "\"The want is there, when I think about it.\""
+    no "只要我有心，就有需求。"
+
+# game/nikroute3.rpy:10334
+translate Tchinese caveinchoice_8519e340:
+
+    # no "\"Even the thought of just eating and drinking are very...\""
+    no "就算只是用吃的跟喝的也很……"
+
+# game/nikroute3.rpy:10439
+translate Tchinese caveinchoice_2ddfd099:
+
+    # "Its voice changes to sound more like me again."
+    "它的聲音又變得像我了。"
+
+# game/nikroute3.rpy:10478
+translate Tchinese caveinchoice_12215b2d:
+
+    # "Briefly the pressure of the load on top of me lessens."
+    "我身上的重壓有一瞬間減輕。"
+
+# game/nikroute3.rpy:10502
+translate Tchinese caveinchoice_335412c4:
+
+    # "The woman’s voice is replaced with a man as well."
+    "女人的聲音也變成了男人的。"
+
+# game/nikroute3.rpy:10532
+translate Tchinese caveinchoice_a053aa2b:
+
+    # ya "\"Dehydration is my best bet.\""
+    ya "最可能是脫水。"
+
+# game/nikroute3.rpy:10551
+translate Tchinese caveinchoice_05d7a57e:
+
+    # "After showing him that I gulp it down my throat, if a bit defiantly, I push the canteen away, gasping for breath."
+    "我做出吞嚥的動作給他看後略為堅定地撥開水壺，喘著大氣。"
+
+# game/nikroute3.rpy:10557
+translate Tchinese caveinchoice_3ba3abf8:
+
+    # "I’m a little wobbly at first, but I can walk fine."
+    "起初我步伐有點不穩，但還能走。"
+
+# game/nikroute3.rpy:10574
+translate Tchinese caveinchoice_83bd911e:
+
+    # "Nik’s shirt is so slippery with his sweat that he’s getting hard to hold onto."
+    "Nik上衣被他汗水浸得濕滑，越來越難摟住。"

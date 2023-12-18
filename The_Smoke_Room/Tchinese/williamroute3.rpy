@@ -40850,3 +40850,11 @@ translate Tchinese strings:
     # game/williamroute3.rpy:682
     old "..."
     new "……"
+# TODO: Translation updated at 2023-12-16 18:43
+
+# game/williamroute3.rpy:9629
+translate Tchinese williamroute3c_792b7967:
+
+    # cl "\"{i}Broadly{/i} my foot, I ought to shake you!\""
+    cl ""
+

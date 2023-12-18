@@ -16232,3 +16232,35 @@ translate Tchinese cliffchoice5_402a4570:
 
     # jeb "\"How are y’all gettin’ more injured in the settlement than the journey?\""
     jeb "\"你們在保留地受的傷怎麼比路上還多？\""
+# TODO: Translation updated at 2023-12-16 18:43
+
+# game/cliffroute3.rpy:111
+translate Tchinese cliffroute3_1fcd3842:
+
+    # m @ talking "\"Mornin', professor.\""
+    m @ talking ""
+
+# game/cliffroute3.rpy:115
+translate Tchinese cliffroute3_2ce70097:
+
+    # m flustered @ talking "\"Oh, 'm sorry.\""
+    m flustered @ talking ""
+
+# game/cliffroute3.rpy:120
+translate Tchinese cliffroute3_1e4b09de:
+
+    # m neutral @ talking "\"Yeah.\""
+    m neutral @ talking ""
+
+# game/cliffroute3.rpy:124
+translate Tchinese cliffroute3_e2a31297:
+
+    # m neutral @ talking "\"Uh, did you?\""
+    m neutral @ talking ""
+
+# game/cliffroute3.rpy:1729
+translate Tchinese aftercliffint2_15cb676e:
+
+    # cl "\"I had thought if I laid out my reasoning he would come to understand my concerns!\""
+    cl ""
+
