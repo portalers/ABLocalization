@@ -670,7 +670,7 @@ translate Schinese commonroute_c761944a:
 translate Schinese commonroute_352a5d32:
 
     # "But everyone gets their chance to get out of this town someday, and this is my chance."
-    "但是，每个人都会有机会离开这座小镇，迟早。而现在就是我的机会。"
+    "但是，每个人迟早都有机会离开这座小镇，而现在就是我的机会。"
 
 # game/commonroute.rpy:149
 translate Schinese commonroute_135189b8:
@@ -6467,263 +6467,263 @@ translate Schinese strings:
     old "Tell William the truth."
     new "告诉William真相。"
 
-# TODO: Translation updated at 2023-12-17 16:41
+# TODO: Translation updated at 2023-12-20 21:20
 
 # game/commonroute.rpy:14
 translate Schinese commonroute_9d4db3b2:
 
     # "No matter what I do, no matter how hard I try to change things... it just feels like I'm moving in circles here."
-    ""
+    "无论我干什么，无论我多么努力地去改变...终究只是在原地兜圈子。"
 
 # game/commonroute.rpy:54
 translate Schinese commonroute_b26eaef5:
 
     # cy "\"Sammy! Enough hiding away up here, come downstairs... what are you doing?\""
-    cy ""
+    cy "“Sammy！别在这躲着了，快下来...你在干嘛呢？”"
 
 # game/commonroute.rpy:56
 translate Schinese commonroute_69633cf1:
 
     # m "\"Uh... I'm prayin'.\""
-    m ""
+    m "“呃...我在祷告。”" 
 
 # game/commonroute.rpy:88
 translate Schinese commonroute_32427a91:
 
     # cy "\"Oh Sam. As I said, he's from Batavia, and... he made the appointment with you.\""
-    cy ""
+    cy "“噢，Sam。首先，他来自巴达维亚。其次...他的预约对象是你。”"
 
 # game/commonroute.rpy:93
 translate Schinese commonroute_1c18e497:
 
     # cy "\"Well, {i}I{/i} didn't look at the list. I would never... but Gabriel did.\""
-    cy ""
+    cy "“啊，{b}我{/b}没有看那个名单，也永远不会看的...不过Gabriel看了。”"
 
 # game/commonroute.rpy:109
 translate Schinese commonroute_e96b5c56:
 
     # "She tells me this like I haven't heard it a thousand times before... but again, it doesn't really matter now."
-    ""
+    "她说得好像这不是第一千遍告诉我似的...不过无所谓了。"
 
 # game/commonroute.rpy:123
 translate Schinese commonroute_b6396c08:
 
     # m "\"Like I said, it's stuffy in here, makes me feel like I'm goin' crazy... but thanks for makin' an effort.\""
-    m ""
+    m "“我说过，这里闷到我快要发疯了...不过还是谢谢你的关心。”"
 
 # game/commonroute.rpy:151
 translate Schinese commonroute_1b9b48f2:
 
     # "If you miss that chance, then you miss it... then you're stuck."
-    ""
+    "如果错过那个机会，就真的错过了...然后你就会深陷于此。"
 
 # game/commonroute.rpy:164
 translate Schinese commonroute_2615bf84:
 
     # "So seeing him now with his gas lamp held up, a grin on his face... it's really going to happen."
-    ""
+    "所以现在，看见他举着灯，咧嘴笑着...这真的就要实现了。"
 
 # game/commonroute.rpy:204
 translate Schinese commonroute_da4d5ca2:
 
     # "As far as I know, you need... stuff, machinery or something to get the gold out."
-    ""
+    "据我所知，你需要...某些东西，比如机器之类的才能把金子弄出来。"
 
 # game/commonroute.rpy:211
 translate Schinese commonroute_68463059:
 
     # m "\"But... but... how could anyone forget somethin' like that?\""
-    m ""
+    m "“但是...但是...怎么会有人忘记这种事呢？”"
 
 # game/commonroute.rpy:213
 translate Schinese commonroute_3e207e97:
 
     # ja "\"Who the hell knows!? But listen, there's a bag of the stuff. I think it's enough to, well... let us live rich for the rest of our lives. Like, REAL rich.\""
-    ja ""
+    ja "“鬼晓得？！不过听着，我想一袋那东西就足够...咱们下辈子过上有钱人的生活了，{b}非常{/b}有钱那种。”"
 
 # game/commonroute.rpy:272
 translate Schinese commonroute_4fe8c4d2:
 
     # ja "\"Here it is, Sam... here it is.\""
-    ja ""
+    ja "“就是这，Sam...就是这。”"
 
 # game/commonroute.rpy:307
 translate Schinese commonroute_96a004d2:
 
     # "But it's not coming from the front of my head... it's the back."
-    ""
+    "但这不是从头的前面传来的...是后面。"
 
 # game/commonroute.rpy:325
 translate Schinese commonroute_22c08531:
 
     # "I keep blinking at it, waiting for it to go back to blue, or black with stars... whatever time it is."
-    ""
+    "我继续眨着眼，等待着它变回蓝色，或是有星星的黑色...不论现在是什么时候。"
 
 # game/commonroute.rpy:336
 translate Schinese commonroute_8129e240:
 
     # "I can't see what he's holding, but I hear the clink of coins... and everything comes back to me in a waterfall of confusion, hurt, and most of all, anger."
-    ""
+    "我看不到他拿着什么，但我听到了硬币碰撞的叮当声...所有的一切仿佛瀑布般倾泻而下，混合着困惑、受伤，尤其是愤怒。"
 
 # game/commonroute.rpy:356
 translate Schinese commonroute_e6ea7667:
 
     # "The thought of so much gold, of living rich... I'd been completely blinded by the thought of it."
-    ""
+    "这么多的金子，还有富足的生活...我完全被这个想法蒙蔽了双眼。"
 
 # game/commonroute.rpy:403
 translate Schinese commonroute_0b94151c:
 
     # "Like... I just woke something up and it's watching me now."
-    ""
+    "就好像...我刚吵醒了什么，而它正注视着我。"
 
 # game/commonroute.rpy:408
 translate Schinese commonroute_05bda310:
 
     # "If I get caught like this... the men here won't need much more of a reason to hang a whore like me."
-    ""
+    "如果被这样抓到...这里的男人们就无需更多理由来吊死一个我这样的妓女了。"
 
 # game/commonroute.rpy:419
 translate Schinese commonroute_e7decc28:
 
     # m "\"No... no, no, no, no.\""
-    m ""
+    m "“不...不，不，不，不。”"
 
 # game/commonroute.rpy:424
 translate Schinese commonroute_f103c67d:
 
     # "Jack had said something about others knowing about this place... maybe I could run into someone, or just find my way out."
-    ""
+    "Jack说过还有其他人知道这个地方...也许我能遇到谁，或者凭运气直接找到出口。"
 
 # game/commonroute.rpy:429
 translate Schinese commonroute_cf6e26ed:
 
     # m "\"Please... please let me find them...\""
-    m ""
+    m "“拜托...拜托让我找到...”"
 
 # game/commonroute.rpy:430
 translate Schinese commonroute_4dfb59d3:
 
     # "I whisper to myself, to God, to nothing... begging my paws to feel the cool metal."
-    ""
+    "我喃喃说道，对上帝、对我自己，又或是谁都不对...祈求爪子感受到金属的冰凉。"
 
 # game/commonroute.rpy:460
 translate Schinese commonroute_89860377:
 
     # "It's quiet, whatever it was that was following me isn't anymore... or it's just too far away."
-    ""
+    "不管跟着我的东西是什么，它很安静...又或者只是离我太远了。"
 
 # game/commonroute.rpy:462
 translate Schinese commonroute_72d27186:
 
     # "A stuttered, rhythmic sound, deep and scratchy... I don't know what it is."
-    ""
+    "断断续续、有节奏的声音，深沉而沙哑...我不知道那是什么。"
 
 # game/commonroute.rpy:476
 translate Schinese commonroute_eeb6ae7a:
 
     # "I think I wander for a few hours... maybe more."
-    ""
+    "我大概徘徊了几个小时...也许更久。"
 
 # game/commonroute.rpy:530
 translate Schinese commonroute_41ced8be:
 
     # m "\"Just some asshole on the street... I dunno who.\""
-    m ""
+    m "“街上一些混蛋罢了...我不清楚是谁。”"
 
 # game/commonroute.rpy:537
 translate Schinese commonroute_0640b259:
 
     # m "\"I... I need to go wash up. I can tell you more later.\""
-    m ""
+    m "“我之后再告诉你，我...我需要清理一下。”"
 
 # game/commonroute.rpy:540
 translate Schinese commonroute_b8d1bbb0:
 
     # m "\"Sorry, but I gotta go. Just... come see me at the saloon sometime.\""
-    m ""
+    m "“抱歉，我真的得走了...有空来酒馆找我。”"
 
 # game/commonroute.rpy:562
 translate Schinese commonroute_49bf0b21:
 
     # "When I get to the back of my head, I can feel the skin moving around in ways that I'm not used to, and I wonder if Nik was right that I should see a doctor and get stitched up... maybe after I've slept."
-    ""
+    "当清理到后脑勺的时候，我能感觉到那里的皮肤以一种不寻常的方式在移动。也许Nik是对的，我应该找个医生缝合一下...先睡一觉再说吧。"
 
 # game/commonroute.rpy:630
 translate Schinese commonroute_579de853:
 
     # m "\"I—I was just having a walk through the streets... couple of men came up behind me and bashed my head. I didn't see them.\""
-    m ""
+    m "“我、我只是在街上散步...然后被几个男人从背后砸了头，我没有看见他们。”"
 
 # game/commonroute.rpy:710
 translate Schinese commonroute_666bd57c:
 
     # "It seems darker than usual, and I’m starting to hate looking into it when I’m alone... If I’ll ever really be alone again after that day. There was something down in those mines."
-    ""
+    "好像比平时还要黑暗，而我也开始厌恶在独自一人时看着里面...如果那天之后，我真的有过任何单独时刻的话。那些矿井下面有什么东西。"
 
 # game/commonroute.rpy:895
 translate Schinese commonroute_b020757d:
 
     # cy "\"Ha! This is as... authentic... as it gets, sir.\""
-    cy ""
+    cy "“哈！这里...确实...很正宗，先生。”"
 
 # game/commonroute.rpy:1219
 translate Schinese commonroute_18ff9e51:
 
     # mu "\"Well... it muddles the narrative, doesn’t it? Was he hit in the head or did he hit himself? He didn’t have safety equipment or a light.\""
-    mu ""
+    mu "“哎...这会混淆事实呀？是有人行凶，还是一起意外事件？他身上没有安全设备，也没有灯。”"
 
 # game/commonroute.rpy:1235
 translate Schinese commonroute_92c480db:
 
     # wi "\"I know you've seen plenty of miners. Folks get sloppy when they’re... well—\""
-    wi ""
+    wi "“我知道你见过很多矿工。人们在...那个的时候，会放松警惕。”"
 
 # game/commonroute.rpy:1316
 translate Schinese commonroute_8ee7d160:
 
     # "If I want to be sane tonight... and more importantly, alluring... then I ought to catch a nap."
-    ""
+    "如果我今晚想保持清醒...更重要的是，诱人...那我应该小憩一下。"
 
 # game/commonroute.rpy:1330
 translate Schinese commonroute_032f6c5b:
 
     # "It smells sweaty, musky... very male."
-    ""
+    "闻起来汗津津的、富有麝香味...非常男人。"
 
 # game/commonroute.rpy:1336
 translate Schinese commonroute_1744dfd9:
 
     # "His tip is already wet... he needs this..."
-    ""
+    "他的头已经湿了...这正是他需要的..."
 
 # game/commonroute.rpy:1369
 translate Schinese commonroute_aebed5a9:
 
     # m "\"Why don’t you... do this yourself, if you think it’s so insightful.\""
-    m ""
+    m "“那你怎么...自己不去做，如果你觉得这很有见地的话。”"
 
 # game/commonroute.rpy:1402
 translate Schinese commonroute_690e2a72:
 
     # "I take a seat between the two of them... which they must have arranged for intentionally."
-    ""
+    "我坐在他们之间的空座上...他们一定是故意这么安排的。"
 
 # game/commonroute.rpy:1432
 translate Schinese commonroute_bd48023d:
 
     # "It’s a bit too... periwinkle for me."
-    ""
+    "对我来说有点太...花哨了。"
 
 # game/commonroute.rpy:1478
 translate Schinese commonroute_33983817:
 
     # "But anybody would have needed a kiss after putting up with... well, Echo."
-    ""
+    "不过任何人都会需要一个吻的，在他们忍受了...回音镇之后。"
 
 # game/commonroute.rpy:1488
 translate Schinese commonroute_7f85451f:
 
     # "Obsession can easily lead to heartbreak... and violence."
-    ""
+    "痴迷很容易导致心碎...和暴力。"
 
