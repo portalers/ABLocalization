@@ -34,13 +34,13 @@ translate Tchinese nikroute_057eb0c5:
 translate Tchinese nikroute_87869e78:
 
     # "But there's another reason...Just thinking about Nik reminded me about something:"
-    "但還有另一個原因……光是想到Nik就讓我回憶起來："
+    "但還有另一個原因...光是想到Nik就讓我回憶起來："
 
 # game/nikroute.rpy:9
 translate Tchinese nikroute_0f9c9dee:
 
     # "He'd seen me after I came out of the mine, and after today's news..."
-    "他看到了從礦坑走出來的我；而且在今天的新聞後……"
+    "他看到了從礦坑走出來的我；而且在今天的新聞後..."
 
 # game/nikroute.rpy:10
 translate Tchinese nikroute_411e2a61:
@@ -82,7 +82,7 @@ translate Tchinese nikroute_7edcff75:
 translate Tchinese nikroute_4998eb9b:
 
     # "Best to check...and a good excuse to get away from all the busy chatter of the people around me."
-    "最好去看一下……也趁此機會離開這人群的喧囂。"
+    "最好去看一下...也趁此機會離開這人群的喧囂。"
 
 # game/nikroute.rpy:17
 translate Tchinese nikroute_1c2eb452:
@@ -94,7 +94,7 @@ translate Tchinese nikroute_1c2eb452:
 translate Tchinese nikroute_784aca8f:
 
     # "I just want a little peace...and maybe a little booze, too."
-    "我只希望能享受一下安穩……或許還能小酌一番。"
+    "我只希望能享受一下安穩...或許還能小酌一番。"
 
 # game/nikroute.rpy:19
 translate Tchinese nikroute_fc56e8d9:
@@ -142,7 +142,7 @@ translate Tchinese nikroute_4e73cd7c:
 translate Tchinese nikroute_90c893be:
 
     # cl "\"Wait, does this mean that you are going to...going to fit me in?\""
-    cl "“等等，這就代表你會……把今晚讓給我嗎？”"
+    cl "“等等，這就代表你會...把今晚讓給我嗎？”"
 
 # game/nikroute.rpy:31
 translate Tchinese nikroute_ebd81bc7:
@@ -172,13 +172,13 @@ translate Tchinese nikroute_dba4e525:
 translate Tchinese nikroute_0bd2906d:
 
     # mu "\"Well aren't you... eager. Do try to make room for him, Sam. You might break his heart otherwise.\""
-    mu "“你還挺……心急的嘛。試著給他騰出點機會啊，Sam。不然你可能會讓他心碎的。”"
+    mu "“你還挺...心急的嘛。試著給他騰出點機會啊，Sam。不然你可能會讓他心碎的。”"
 
 # game/nikroute.rpy:39
 translate Tchinese nikroute_4ba7e9d7:
 
     # cl "\"I'm...sorry?\""
-    cl "“你說……什麼？”"
+    cl "“你說...什麼？”"
 
 # game/nikroute.rpy:41
 translate Tchinese nikroute_e2624786:
@@ -190,7 +190,7 @@ translate Tchinese nikroute_e2624786:
 translate Tchinese nikroute_057a4513:
 
     # cl "\"Er...\""
-    cl "“呃……”"
+    cl "“呃...”"
 
 # game/nikroute.rpy:45
 translate Tchinese nikroute_05ddb9d5:
@@ -232,7 +232,7 @@ translate Tchinese nikroute_d4efb56b:
 translate Tchinese nikroute_1b5986fb:
 
     # cl "\"Heavens! Oh...\""
-    cl "“天啊！喔……”"
+    cl "“天啊！喔...”"
 
 # game/nikroute.rpy:55
 translate Tchinese nikroute_213005c0:
@@ -442,7 +442,7 @@ translate Tchinese nikroute_31170ace:
 translate Tchinese nikroute_614a31eb:
 
     # m "\"Ch-Christ! Were you...trying to sneak up on me?\""
-    m "“老、老天！你是……想嚇死我不成？”"
+    m "“老、老天！你是...想嚇死我不成？”"
 
 # game/nikroute.rpy:98
 translate Tchinese nikroute_fd3ed698:
@@ -538,7 +538,7 @@ translate Tchinese nikroute_58250c28:
 translate Tchinese nikroute_49bb977f:
 
     # cl "\"...Seems I'm causing trouble here wherever I go, eh?\""
-    cl "“……看來我不論到哪都會造成麻煩，是嗎？”"
+    cl "“...看來我不論到哪都會造成麻煩，是嗎？”"
 
 # game/nikroute.rpy:119
 translate Tchinese nikroute_deadb990:
@@ -604,7 +604,7 @@ translate Tchinese nikroute_223ef38e:
 translate Tchinese nikroute_de7b43fb:
 
     # cl "\"Well, if that is the situation...\""
-    cl "“既然如此……”"
+    cl "“既然如此...”"
 
 # game/nikroute.rpy:133
 translate Tchinese nikroute_c1396b6f:
@@ -634,7 +634,7 @@ translate Tchinese nikroute_2659f191:
 translate Tchinese nikroute_1d40b9cc:
 
     # "I do the same, knowing that the back door is only used by us brothel workers...and a few familiar customers."
-    "我也一樣，心想後門只有我們娼館人員……以及一些熟客在用。"
+    "我也一樣，心想後門只有我們娼館人員...以及一些熟客在用。"
 
 # game/nikroute.rpy:142
 translate Tchinese nikroute_89293ea8:
@@ -712,7 +712,7 @@ translate Tchinese nikroute_a36df7bf:
 translate Tchinese nikroute_b38dafe9:
 
     # ni "\"Sorry, should I be leaving? I was not sure if...all of the saloon was closed.\""
-    ni "“抱歉，我是不是該離開？我不確定……是否整間酒館都關了。”"
+    ni "“抱歉，我是不是該離開？我不確定...是否整間酒館都關了。”"
 
 # game/nikroute.rpy:161
 translate Tchinese nikroute_7a6e0645:
@@ -724,7 +724,7 @@ translate Tchinese nikroute_7a6e0645:
 translate Tchinese nikroute_0c6a4f81:
 
     # cl "\"Well, isn't it clearly closed, or...\""
-    cl "“你看，他們不是很明顯打烊了嗎？還是說……”"
+    cl "“你看，他們不是很明顯打烊了嗎？還是說...”"
 
 # game/nikroute.rpy:164
 translate Tchinese nikroute_24e9e84d:
@@ -880,7 +880,7 @@ translate Tchinese nikroute_1482ab00:
 translate Tchinese nikroute_3b1b77cb:
 
     # m "\"Uh...yeah, this is Clifford.\""
-    m "“呃……對，他叫Clifford。”"
+    m "“呃...對，他叫Clifford。”"
 
 # game/nikroute.rpy:199
 translate Tchinese nikroute_6acf0d79:
@@ -928,7 +928,7 @@ translate Tchinese nikroute_bb8681df:
 translate Tchinese nikroute_5f994938:
 
     # ni "\"...I am from Lakhia, but I've lived in this country since I was a young man. You do not sound native, either, by the way.\""
-    ni "“……我是拉克希雅人，但我從小時候就住在這國家了。而且你聽起來也不像本地人。”"
+    ni "“...我是拉克希雅人，但我從小時候就住在這國家了。而且你聽起來也不像本地人。”"
 
 # game/nikroute.rpy:211
 translate Tchinese nikroute_54f3127d:
@@ -982,7 +982,7 @@ translate Tchinese nikroute_457fc3be:
 translate Tchinese nikroute_1eb88595:
 
     # m "\"I mean from the same area, uh...\""
-    m "“我是說從同個區域，呃……”"
+    m "“我是說從同個區域，呃...”"
 
 # game/nikroute.rpy:223
 translate Tchinese nikroute_df243633:
@@ -1006,7 +1006,7 @@ translate Tchinese nikroute_df7069e1:
 translate Tchinese nikroute_8ad3a2eb:
 
     # m "\"Uh, yeah...\""
-    m "“呃，對……”"
+    m "“呃，對...”"
 
 # game/nikroute.rpy:227
 translate Tchinese nikroute_cb2ebb22:
@@ -1048,7 +1048,7 @@ translate Tchinese nikroute_cdc2a180:
 translate Tchinese nikroute_a401575c:
 
     # m "\"Well, we use pesos around here sometimes...\""
-    m "“你看，我們有時候也用比索啊……”"
+    m "“你看，我們有時候也用比索啊...”"
 
 # game/nikroute.rpy:238
 translate Tchinese nikroute_896dffb4:
@@ -1084,7 +1084,7 @@ translate Tchinese nikroute_1a5b075f:
 translate Tchinese nikroute_5ed67d6e:
 
     # cl "\"Oh...I'll take my leave then. Pleasant meeting you, Nik.\""
-    cl "“哦……我這就離開。很榮幸認識你，Nik。”"
+    cl "“哦...我這就離開。很榮幸認識你，Nik。”"
 
 # game/nikroute.rpy:246
 translate Tchinese nikroute_35f8ffd9:
@@ -1204,7 +1204,7 @@ translate Tchinese nikroute_9ef34a75:
 translate Tchinese nikroute_5f5e8b36:
 
     # m "\"Mmh...I'm tired.\""
-    m "“嗯……我累了。”"
+    m "“嗯...我累了。”"
 
 # game/nikroute.rpy:277
 translate Tchinese nikroute_6e64685e:
@@ -1336,7 +1336,7 @@ translate Tchinese nikroute_aa49401f:
 translate Tchinese nikroute_fd94ea4f:
 
     # ni "\"Did I...Did I interrupt an appointment?\""
-    ni "“我……我打擾到你的預約了嗎？”"
+    ni "“我...我打擾到你的預約了嗎？”"
 
 # game/nikroute.rpy:309
 translate Tchinese nikroute_fd139af9:
@@ -1480,7 +1480,7 @@ translate Tchinese nikroute_98ac667e:
 translate Tchinese nikroute_2f47fcdd:
 
     # m "\"That's only 'cuz you're big and they don't know you're nice...and that's 'cuz you never talk to anyone.\""
-    m "“那只是因為你很高大，而且他們不知道你人很好……畢竟你都不跟其他人說話。”"
+    m "“那只是因為你很高大，而且他們不知道你人很好...畢竟你都不跟其他人說話。”"
 
 # game/nikroute.rpy:337
 translate Tchinese nikroute_680560e8:
@@ -1618,13 +1618,13 @@ translate Tchinese nikroute_352e31ad:
 translate Tchinese nikroute_7f778053:
 
     # "It's not a feeling I like in any situation...except when I'm with Nik."
-    "在任何情況下我都不喜歡這種感覺……除非是跟Nik在一起。"
+    "在任何情況下我都不喜歡這種感覺...除非是跟Nik在一起。"
 
 # game/nikroute.rpy:367
 translate Tchinese nikroute_2a95c5f9:
 
     # "He can make me do whatever he wants because of his size and strength...but he doesn't, and I like that."
-    "他完全可以靠力量讓我屈服、擺佈我……但他不會這麼做，而我就喜歡他這點。"
+    "他完全可以靠力量讓我屈服、擺佈我...但他不會這麼做，而我就喜歡他這點。"
 
 # game/nikroute.rpy:368
 translate Tchinese nikroute_44951595:
@@ -1648,7 +1648,7 @@ translate Tchinese nikroute_e12cfe3e:
 translate Tchinese nikroute_2063db02:
 
     # "The badger bellows out a laugh, then finally scoops me up into his arms, carrying me like a woman...which I don't like."
-    "貛放聲大笑，然後把我像女人一樣抱起……我並不喜歡這樣。"
+    "貛放聲大笑，然後把我像女人一樣抱起...我並不喜歡這樣。"
 
 # game/nikroute.rpy:373
 translate Tchinese nikroute_908e9731:
@@ -1900,7 +1900,7 @@ translate Tchinese nikroute_21427282:
 translate Tchinese nikroute_21838fbf:
 
     # m "\"But {i}I{/i} was wondering something, too...\""
-    m "“但{b}我{/b}也有件在意的事……”"
+    m "“但{b}我{/b}也有件在意的事...”"
 
 # game/nikroute.rpy:416
 translate Tchinese nikroute_88175bd1:
@@ -1924,7 +1924,7 @@ translate Tchinese nikroute_dd962a30:
 translate Tchinese nikroute_1ae8acc0:
 
     # ni "\"Sam...\""
-    ni "“Sam……”"
+    ni "“Sam...”"
 
 # game/nikroute.rpy:420
 translate Tchinese nikroute_897ecf5b:
@@ -1966,7 +1966,7 @@ translate Tchinese nikroute_12f2d1fd:
 translate Tchinese nikroute_25796657:
 
     # "So then...maybe he doesn't know...maybe he was gonna ask something that had nothing to do with Jack."
-    "所以……說不定他不知道……說不定他是想問跟Jack毫無關聯的事。"
+    "所以...說不定他不知道...說不定他是想問跟Jack毫無關聯的事。"
 
 # game/nikroute.rpy:427
 translate Tchinese nikroute_926b48da:
@@ -2056,7 +2056,7 @@ translate Tchinese nikroute_2396571e:
 translate Tchinese nikroute_1ae8acc0_1:
 
     # ni "\"Sam...\""
-    ni "“Sam……”"
+    ni "“Sam...”"
 
 # game/nikroute.rpy:443
 translate Tchinese nikroute_5ad9c93b:
@@ -2338,7 +2338,7 @@ translate Tchinese nikroute_963b96d7:
 translate Tchinese nikroute_ef2bc5a4:
 
     # ni "\"Hahaha! I know, it's not pleasant, but you can always find a time and place if you must release your...tension.\""
-    ni "“哈哈哈！我知道，那不算理想，但人總是有辦法找到時間跟地點去釋放……壓力。”"
+    ni "“哈哈哈！我知道，那不算理想，但人總是有辦法找到時間跟地點去釋放...壓力。”"
 
 # game/nikroute.rpy:502
 translate Tchinese nikroute_813fafc4:
@@ -2362,7 +2362,7 @@ translate Tchinese nikroute_6d59dd7d:
 translate Tchinese nikroute_a56c732b:
 
     # ni "\"When you live in such close quarters with many other men, you just...stop caring, I suppose. And they assume that no man would be interested in watching.\""
-    ni "“當你跟一群其他男人住的這麼近時，你就……懶得在意了，我想。而且他們也覺得沒有其他男人會想看。”"
+    ni "“當你跟一群其他男人住的這麼近時，你就...懶得在意了，我想。而且他們也覺得沒有其他男人會想看。”"
 
 # game/nikroute.rpy:507
 translate Tchinese nikroute_9bad79df:
@@ -2386,7 +2386,7 @@ translate Tchinese nikroute_74bda566:
 translate Tchinese nikroute_e8b9abeb:
 
     # ni "\"Well...I have trouble getting...aroused when I'm not near someone. I need another body to hold onto, I suppose.\""
-    ni "“呃……我很難……在身邊沒有其他人時提起情慾。我想我需要摟著誰才行。”"
+    ni "“呃...我很難...在身邊沒有其他人時提起情慾。我想我需要摟著誰才行。”"
 
 # game/nikroute.rpy:513
 translate Tchinese nikroute_fe1f2c53:
@@ -2416,7 +2416,7 @@ translate Tchinese nikroute_2e54c2fd:
 translate Tchinese nikroute_8526acb2:
 
     # ni "\"Well yes, the goal is never to stay in a bunkhouse. You're there until you find a gold vein and strike it rich...or you give up and leave town, whichever comes first.\""
-    ni "“當然，目標是永遠不住在工棚裡。你會在那邊待到你找到金脈而一發致富……或者放棄而離開城鎮為止。”"
+    ni "“當然，目標是永遠不住在工棚裡。你會在那邊待到你找到金脈而一發致富...或者放棄而離開城鎮為止。”"
 
 # game/nikroute.rpy:520
 translate Tchinese nikroute_368e7c66:
@@ -2506,7 +2506,7 @@ translate Tchinese nikroute_9d469299_1:
 translate Tchinese nikroute_9b57c96e:
 
     # m "\"Then don't. Some things...most things are best left unsaid.\""
-    m "“那就別問。有些事……很多事還是別明說的好。”"
+    m "“那就別問。有些事...很多事還是別明說的好。”"
 
 # game/nikroute.rpy:538
 translate Tchinese nikroute_dfc6136a:
@@ -2566,7 +2566,7 @@ translate Tchinese nikroute_9e27ed66:
 translate Tchinese nikroute_386139a8:
 
     # ni "\"Because Jack bunked with us, and he didn't...do a very good job of hiding his preferences. He once said that he did not know mountain lions could have white fur.\""
-    ni "“Jack跟我們一起住，而他……沒怎麼隱瞞他的取向；他曾說過自己不知道美洲獅能有白毛。”"
+    ni "“Jack跟我們一起住，而他...沒怎麼隱瞞他的取向；他曾說過自己不知道美洲獅能有白毛。”"
 
 # game/nikroute.rpy:549
 translate Tchinese nikroute_90540484:
@@ -2584,13 +2584,13 @@ translate Tchinese nikroute_4a32ff64:
 translate Tchinese nikroute_b2d3c56b:
 
     # ni "\"Well, when he didn't show up for work, we all assumed he got tired of the job...but he's been found, and now we know what happened...mostly.\""
-    ni "“唉，他沒上工時，我們大家都以為他不想幹了……但他被發現了，而且我們也知道發生了什麼事……大部分。”"
+    ni "“唉，他沒上工時，我們大家都以為他不想幹了...但他被發現了，而且我們也知道發生了什麼事...大部分。”"
 
 # game/nikroute.rpy:552
 translate Tchinese nikroute_887e49fb:
 
     # m "\"Huh...\""
-    m "“喔……”"
+    m "“喔...”"
 
 # game/nikroute.rpy:553
 translate Tchinese nikroute_5160f4c0:
@@ -2614,7 +2614,7 @@ translate Tchinese nikroute_852609e4:
 translate Tchinese nikroute_933ab905:
 
     # "Nik sighs deeply, his chest rising against my paws, and it's only then that I realize his own massive paws are holding my wrists...gripping my wrists?"
-    "Nik深深嘆氣，令其胸腔在我手下起伏，我這才發現他的兩隻大掌正摟著我的腰……抓著我的腰？"
+    "Nik深深嘆氣，令其胸腔在我手下起伏，我這才發現他的兩隻大掌正摟著我的腰...抓著我的腰？"
 
 # game/nikroute.rpy:557
 translate Tchinese nikroute_c28be849:
@@ -2740,13 +2740,13 @@ translate Tchinese nikroute_90a02850:
 translate Tchinese nikroute_217849a1:
 
     # m "\"You...You tell William?\""
-    m "“你……你要告訴William？”"
+    m "“你...你要告訴William？”"
 
 # game/nikroute.rpy:582
 translate Tchinese nikroute_8ddad480:
 
     # ni "\"...No, that will depend on what you tell me.\""
-    ni "“……還沒，這取決於你告訴我的內容。”"
+    ni "“...還沒，這取決於你告訴我的內容。”"
 
 # game/nikroute.rpy:583
 translate Tchinese nikroute_bf7979f0:
@@ -2794,7 +2794,7 @@ translate Tchinese nikroute_f18143f1:
 translate Tchinese nikroute_29a99669:
 
     # ni "\"Because...you are a dear friend of mine, and I know you...and I knew Jack.\""
-    ni "“因為……你是我很親近的朋友；我認識你……也認識Jack。”"
+    ni "“因為...你是我很親近的朋友；我認識你...也認識Jack。”"
 
 # game/nikroute.rpy:592
 translate Tchinese nikroute_c4802692:
@@ -2878,7 +2878,7 @@ translate Tchinese nikroute_54a92883:
 translate Tchinese nikroute_bf0874e3:
 
     # "But..."
-    "可是……"
+    "可是..."
 
 # game/nikroute.rpy:608
 translate Tchinese nikroute_7e6815a5:
@@ -2890,7 +2890,7 @@ translate Tchinese nikroute_7e6815a5:
 translate Tchinese nikroute_6461d209:
 
     # "Not like Jack at all, I know that, and I wanna believe him...but I can't."
-    "我知道他跟Jack完全不同；我想相信他……但我做不到。"
+    "我知道他跟Jack完全不同；我想相信他...但我做不到。"
 
 # game/nikroute.rpy:610
 translate Tchinese nikroute_c7e16c79:
@@ -3082,7 +3082,7 @@ translate Tchinese nikroute_4ecca03d:
 translate Tchinese nikroute_1bca7578:
 
     # m "\"Did...did Yao have money?\""
-    m "“Yao他……他有錢嗎？”"
+    m "“Yao他...他有錢嗎？”"
 
 # game/nikroute.rpy:651
 translate Tchinese nikroute_da784e50:
@@ -3094,7 +3094,7 @@ translate Tchinese nikroute_da784e50:
 translate Tchinese nikroute_a4d8ce44:
 
     # m "\"Wow...now I know I'm stupid, because that sounds like the dumbest fucking scam I've ever heard.\""
-    m "“哇……我現在覺得自己真蠢，這根本是我聽過最蠢的詐騙了。”"
+    m "“哇...我現在覺得自己真蠢，這根本是我聽過最蠢的詐騙了。”"
 
 # game/nikroute.rpy:654
 translate Tchinese nikroute_d380b4c3:
@@ -3148,7 +3148,7 @@ translate Tchinese nikroute_a70d43d3:
 translate Tchinese nikroute_fc84ae4e:
 
     # ni "\"No...I think you should do it later, to avoid suspicion. I am the only person who saw you coming from the mines. The only evidence of you being there was your money and your wounds.\""
-    ni "“不……我想你該等風頭過去。我是唯一看到你從礦坑離開的人；能證明你在那邊的物證只有你的錢跟傷勢。”"
+    ni "“不...我想你該等風頭過去。我是唯一看到你從礦坑離開的人；能證明你在那邊的物證只有你的錢跟傷勢。”"
 
 # game/nikroute.rpy:667
 translate Tchinese nikroute_34f49e04:
@@ -3172,7 +3172,7 @@ translate Tchinese nikroute_85167231:
 translate Tchinese nikroute_1bacb564:
 
     # ni "\"Most don't know you. And...William is on your side, isn't he?\""
-    ni "“大部分居民不認識你。還有……William是站你這邊的，對吧？”"
+    ni "“大部分居民不認識你。還有...William是站你這邊的，對吧？”"
 
 # game/nikroute.rpy:672
 translate Tchinese nikroute_bd20791c:
@@ -3208,7 +3208,7 @@ translate Tchinese nikroute_fa61cf58:
 translate Tchinese nikroute_6e9007c4:
 
     # ni "\"I know. It's best not to right now. But...I want to help you. We can make plans to keep you safe, even leave Echo eventually, if that's what you want.\""
-    ni "“我想也是。現在還是別讓他知道的好。但……我想幫助你。我們能想辦法讓你安全脫身，或者你想要的話，甚至是離開回音鎮。”"
+    ni "“我想也是。現在還是別讓他知道的好。但...我想幫助你。我們能想辦法讓你安全脫身，或者你想要的話，甚至是離開回音鎮。”"
 
 # game/nikroute.rpy:679
 translate Tchinese nikroute_45919107:
@@ -3322,7 +3322,7 @@ translate Tchinese nikroute_6aeb90bf:
 translate Tchinese nikroute_2de38b74:
 
     # "My forehead, it feels..."
-    "感覺是，在額頭……"
+    "感覺是，在額頭..."
 
 # game/nikroute.rpy:704
 translate Tchinese nikroute_365d89fb:
@@ -3334,13 +3334,13 @@ translate Tchinese nikroute_365d89fb:
 translate Tchinese nikroute_7e399391:
 
     # "My head's been bashed in, but somehow I'm alive..."
-    "我頭癟了，卻不知怎麼地還活著……"
+    "我頭癟了，卻不知怎麼地還活著..."
 
 # game/nikroute.rpy:706
 translate Tchinese nikroute_83be2c22:
 
     # "I cradle my head gently in my paws, thinking, thinking..."
-    "我用雙手搖著頭，不斷思考……"
+    "我用雙手搖著頭，不斷思考..."
 
 # game/nikroute.rpy:707
 translate Tchinese nikroute_e56a37bd:
@@ -3406,7 +3406,7 @@ translate Tchinese nikroute_45d87115:
 translate Tchinese nikroute_1ac956a1:
 
     # unk "\"Help me, please...\""
-    unk "“幫幫我，拜託……”"
+    unk "“幫幫我，拜託...”"
 
 # game/nikroute.rpy:718
 translate Tchinese nikroute_20972f99:
@@ -3490,7 +3490,7 @@ translate Tchinese nikroute_c4e4d9cd:
 translate Tchinese nikroute_084a8004:
 
     # ni "\"Ugh...what's that?\""
-    ni "“呃……怎麼回事？”"
+    ni "“呃...怎麼回事？”"
 
 # game/nikroute.rpy:737
 translate Tchinese nikroute_9c1dc541:
@@ -3520,7 +3520,7 @@ translate Tchinese nikroute_13b95613:
 translate Tchinese nikroute_298513db:
 
     # m "\"Shit...\""
-    m "“我操……”"
+    m "“我操...”"
 
 # game/nikroute.rpy:746
 translate Tchinese nikroute_e6bc06d9:
@@ -3556,7 +3556,7 @@ translate Tchinese nikroute_d9905f2a:
 translate Tchinese nikroute_d643511e:
 
     # m "\"Just...sit on the dang bed, or somethin'!\""
-    m "“你就……隨便坐在床上還是哪裡好了！”"
+    m "“你就...隨便坐在床上還是哪裡好了！”"
 
 # game/nikroute.rpy:753
 translate Tchinese nikroute_78c4fd5f:
@@ -3592,7 +3592,7 @@ translate Tchinese nikroute_b7cd23e5:
 translate Tchinese nikroute_511a7243:
 
     # m "\"Um...\""
-    m "“呃……”"
+    m "“呃...”"
 
 # game/nikroute.rpy:763
 translate Tchinese nikroute_26793828:
@@ -3634,7 +3634,7 @@ translate Tchinese nikroute_cb452eeb:
 translate Tchinese nikroute_36074cd6:
 
     # "So I do the only think I can think to..."
-    "所以我做了唯一能想到的一件事……"
+    "所以我做了唯一能想到的一件事..."
 
 # game/nikroute.rpy:770
 translate Tchinese nikroute_003db1ae:
@@ -3718,7 +3718,7 @@ translate Tchinese nikroute_5b532dab:
 translate Tchinese nikroute_ba5badcc:
 
     # "Especially in the brothel, but because it's right here, in the brothel's \"smoke room,\" well..."
-    "更別提在娼館內了。但這裡是娼館的 「吸菸室」，就…………"
+    "更別提在娼館內了。但這裡是娼館的 「吸菸室」，就......"
 
 # game/nikroute.rpy:790
 translate Tchinese nikroute_a8d47ac6:
@@ -3844,7 +3844,7 @@ translate Tchinese nikroute_31c58f87:
 translate Tchinese nikroute_901d1f09:
 
     # "Did he tell William something... already?"
-    "難道他早就……已經跟William說過什麼了？"
+    "難道他早就...已經跟William說過什麼了？"
 
 # game/nikroute.rpy:822
 translate Tchinese nikroute_7d3de603:
@@ -3880,7 +3880,7 @@ translate Tchinese nikroute_10564324:
 translate Tchinese nikroute_77a98464:
 
     # "I would have woken up if he'd left the room... I think."
-    "他想離開房間的話會把我給吵醒的……大概吧。"
+    "他想離開房間的話會把我給吵醒的...大概吧。"
 
 # game/nikroute.rpy:828
 translate Tchinese nikroute_5dba5886:
@@ -4054,7 +4054,7 @@ translate Tchinese nikroute_b2e1de4d:
 translate Tchinese nikroute_a02b6926:
 
     # ni "\"That is my usual route, but I had to head into town to...\""
-    ni "“通常是那樣，但我必須去鎮中心……”"
+    ni "“通常是那樣，但我必須去鎮中心...”"
 
 # game/nikroute.rpy:875
 translate Tchinese nikroute_8c79cc8d:
@@ -4204,7 +4204,7 @@ translate Tchinese nikroute_545fe203:
 translate Tchinese nikroute_2e7661bb:
 
     # m "\"Yeah, well, you might as well have never told William in the first place. Now he's really suspicious... About the two of us.\""
-    m "“你要這麼說，當初就不該告訴William。現在他真的很懷疑……我們兩個。”"
+    m "“你要這麼說，當初就不該告訴William。現在他真的很懷疑...我們兩個。”"
 
 # game/nikroute.rpy:915
 translate Tchinese nikroute_67d3016b:
@@ -4270,7 +4270,7 @@ translate Tchinese nikroute_876f34f6:
 translate Tchinese nikroute_c8d37fee:
 
     # ni "\"Well... I helped move the body, so I know where it happened.\""
-    ni "“呃……我有幫忙移動屍體，所以知道案發現場在哪。”"
+    ni "“呃...我有幫忙移動屍體，所以知道案發現場在哪。”"
 
 # game/nikroute.rpy:930
 translate Tchinese nikroute_f2b1332e:
@@ -4366,7 +4366,7 @@ translate Tchinese nikroute_9b7daf10:
 translate Tchinese nikroute_17597ad7:
 
     # "I don't like the idea of him fumbling around where..."
-    "我不是很希望讓他在……"
+    "我不是很希望讓他在..."
 
 # game/nikroute.rpy:952
 translate Tchinese nikroute_e439f51a:
@@ -4408,7 +4408,7 @@ translate Tchinese nikroute_8639d958:
 translate Tchinese nikroute_c7c848f0:
 
     # "What if it's still in there, waiting for the next person..."
-    "要是它還在那，等著下一個人去……"
+    "要是它還在那，等著下一個人去..."
 
 # game/nikroute.rpy:960
 translate Tchinese nikroute_19c7b4f8:
@@ -4426,7 +4426,7 @@ translate Tchinese nikroute_bdbbb41a:
 translate Tchinese nikroute_43dd386b:
 
     # "Well, it has to be, because if it isn't..."
-    "它必須得是，不然的話……"
+    "它必須得是，不然的話..."
 
 # game/nikroute.rpy:963
 translate Tchinese nikroute_f3b8bb2b:
@@ -4528,7 +4528,7 @@ translate Tchinese nikroute_4a42cf83:
 translate Tchinese nikroute_57283c14:
 
     # "{i}Couldn't even do him the courtesy of closing his eyes and letting him rest forever...{/i}"
-    "{b}甚至都沒幫他瞑目好令他安息……{/b}"
+    "{b}甚至都沒幫他瞑目好令他安息...{/b}"
 
 # game/nikroute.rpy:980
 translate Tchinese nikroute_51b2e74f:
@@ -4552,7 +4552,7 @@ translate Tchinese nikroute_4d406540:
 translate Tchinese nikroute_a20cefa7:
 
     # "..."
-    "……"
+    "..."
 
 # game/nikroute.rpy:984
 translate Tchinese nikroute_06f94f48:
@@ -4588,7 +4588,7 @@ translate Tchinese nikroute_f5c59ab9:
 translate Tchinese nikroute_210cac8c:
 
     # "I breathe a big sigh of relief... But the relief doesn't come."
-    "我鬆了一大口氣……卻沒感到放鬆。"
+    "我鬆了一大口氣...卻沒感到放鬆。"
 
 # game/nikroute.rpy:990
 translate Tchinese nikroute_19541a51:
@@ -4642,7 +4642,7 @@ translate Tchinese nikroute_cbaec408:
 translate Tchinese nikroute_049c3d50:
 
     # "Holy shit..."
-    "我操……"
+    "我操..."
 
 # game/nikroute.rpy:1001
 translate Tchinese nikroute_40d72092:
@@ -4654,7 +4654,7 @@ translate Tchinese nikroute_40d72092:
 translate Tchinese nikroute_e4dcadb2:
 
     # m "\"Fuck, I need to get out of here...\""
-    m "“幹，我得出去透透氣……”"
+    m "“幹，我得出去透透氣...”"
 
 # game/nikroute.rpy:1003
 translate Tchinese nikroute_9eb413d1:
@@ -4858,7 +4858,7 @@ translate Tchinese nikroute_6572e7cc:
 translate Tchinese nikroute_5c914c17:
 
     # "He's not hurting anybody... Aside from himself, that is."
-    "他也沒傷害任何人……除了他自己。"
+    "他也沒傷害任何人...除了他自己。"
 
 # game/nikroute.rpy:1048
 translate Tchinese nikroute_06ce73bb:
@@ -5104,7 +5104,7 @@ translate Tchinese nikroute_448ef167:
 translate Tchinese nikroute_a26682b9:
 
     # m "\"It's... code, I guess. It tells them you wanna see me without sayin' it out loud. You remember what happened when you did that last time.\""
-    m "“這……算是一種暗語吧。靠這個就能避人耳目地告訴他們你想見我。想必你也記得上次太招搖時的下場。”"
+    m "“這...算是一種暗語吧。靠這個就能避人耳目地告訴他們你想見我。想必你也記得上次太招搖時的下場。”"
 
 # game/nikroute.rpy:1101
 translate Tchinese nikroute_4c7ea86b:
@@ -5392,7 +5392,7 @@ translate Tchinese nikroute_a5aa2288:
 translate Tchinese nikroute_4504e7c4:
 
     # "I frown, wondering..."
-    "我皺起眉頭，心想……"
+    "我皺起眉頭，心想..."
 
 # game/nikroute.rpy:1155
 translate Tchinese nikroute_548d9be5:
@@ -5500,7 +5500,7 @@ translate Tchinese nikroute_5ede5f07:
 translate Tchinese nikroute_abef62b5:
 
     # m "\"Uh... Just passing through. I'll leave in a second.\""
-    m "“呃……只是碰巧經過，一下就走。”"
+    m "“呃...只是碰巧經過，一下就走。”"
 
 # game/nikroute.rpy:1178
 translate Tchinese nikroute_b1d1e3c9:
@@ -5692,7 +5692,7 @@ translate Tchinese nikroute_5b318481:
 translate Tchinese nikroute_3d317c6e:
 
     # m "\"Um... You can get alcohol, or morphine at the drugstore for that.\""
-    m "“呃……你可以去買酒或藥局開的嗎啡啊。”"
+    m "“呃...你可以去買酒或藥局開的嗎啡啊。”"
 
 # game/nikroute.rpy:1229
 translate Tchinese nikroute_a908bb9b:
@@ -5835,7 +5835,7 @@ translate Tchinese nikroute_cdc7e92a:
 translate Tchinese nikroute_f7bcb045:
 
     # "Maybe after this... I can go back and ask a bit more about it."
-    "或許在這之後……我該回去向他們多問點。"
+    "或許在這之後...我該回去向他們多問點。"
 
 # game/nikroute.rpy:1261
 translate Tchinese nikroute_1578b822:
@@ -5937,7 +5937,7 @@ translate Tchinese nikroute_cb29b737:
 translate Tchinese nikroute_3d3da1e1:
 
     # "As time passes in the queerest of ways, I start to wonder if maybe I missed noon, but then..."
-    "時間微妙地流淌著，我開始懷疑自己是否錯過了正午時分，但說時遲那時快……"
+    "時間微妙地流淌著，我開始懷疑自己是否錯過了正午時分，但說時遲那時快..."
 
 # game/nikroute.rpy:1279
 translate Tchinese nikroute_88dc7bbd:
@@ -6177,13 +6177,13 @@ translate Tchinese nikroute_e3571352:
 translate Tchinese nikroute_af89c8a1:
 
     # ya "\"But with that topic breached...\""
-    ya "“但提到這個……”"
+    ya "“但提到這個...”"
 
 # game/nikroute.rpy:1333
 translate Tchinese nikroute_d1539ab1:
 
     # ya "\"...I suspect it is not mandatory for you to share in our trade to understand our obstacles in time.\""
-    ya "“……我認為你未必得從事我們的工作才能理解我們的艱難。”"
+    ya "“...我認為你未必得從事我們的工作才能理解我們的艱難。”"
 
 # game/nikroute.rpy:1336
 translate Tchinese nikroute_4475301d:
@@ -6558,67 +6558,67 @@ translate Tchinese nikroute_a690c6aa:
     # ya "\"Very well. Let us move, and be quick about this. We can talk as we walk.\""
     ya "“那好吧。我們走，趕緊的。邊走邊說吧。”"
 
-# TODO: Translation updated at 2023-12-16 18:43
+# TODO: Translation updated at 2023-12-20 21:29
 
 # game/nikroute.rpy:8
 translate Tchinese nikroute_d262d9f7:
 
     # "But there's another reason... Just thinking about Nik reminded me about something:"
-    "但還有另一個原因……光是想到Nik就讓我回憶起來："
+    "但還有另一個原因...光是想到Nik就讓我回憶起來："
 
 # game/nikroute.rpy:16
 translate Tchinese nikroute_118f2cdf:
 
     # "Best to check... and a good excuse to get away from all the busy chatter of the people around me."
-    "最好去看一下……也趁此機會離開這人群的喧囂。"
+    "最好去看一下...也趁此機會離開這人群的喧囂。"
 
 # game/nikroute.rpy:18
 translate Tchinese nikroute_e0f40690:
 
     # "I just want a little peace... and maybe a little booze, too."
-    "我只希望能享受一下安穩……或許還能小酌一番。"
+    "我只希望能享受一下安穩...或許還能小酌一番。"
 
 # game/nikroute.rpy:29
 translate Tchinese nikroute_cd39e6e4:
 
     # cl "\"Wait, does this mean that you are going to... going to fit me in?\""
-    cl "“等等，這就代表你會……把今晚讓給我嗎？”"
+    cl "“等等，這就代表你會...把今晚讓給我嗎？”"
 
 # game/nikroute.rpy:39
 translate Tchinese nikroute_a1773045:
 
     # cl "\"I'm... sorry?\""
-    cl "“你說……什麼？”"
+    cl "“你說...什麼？”"
 
 # game/nikroute.rpy:97
 translate Tchinese nikroute_fecc2988:
 
     # m "\"Ch-Christ! Were you... trying to sneak up on me?\""
-    m "“老、老天！你是……想嚇死我不成？”"
+    m "“老、老天！你是...想嚇死我不成？”"
 
 # game/nikroute.rpy:141
 translate Tchinese nikroute_ba212d1c:
 
     # "I do the same, knowing that the back door is only used by us brothel workers... and a few familiar customers."
-    "我也一樣，心想後門只有我們娼館人員……以及一些熟客在用。"
+    "我也一樣，心想後門只有我們娼館人員...以及一些熟客在用。"
 
 # game/nikroute.rpy:160
 translate Tchinese nikroute_b87ea042:
 
     # ni "\"Sorry, should I be leaving? I was not sure if... all of the saloon was closed.\""
-    ni "“抱歉，我是不是該離開？我不確定……是否整間酒館都關了。”"
+    ni "“抱歉，我是不是該離開？我不確定...是否整間酒館都關了。”"
 
 # game/nikroute.rpy:198
 translate Tchinese nikroute_0aeb080c:
 
     # m "\"Uh... yeah, this is Clifford.\""
-    m "“呃……對，他叫Clifford。”"
+    m "“呃...對，他叫Clifford。”"
 
 # game/nikroute.rpy:245
 translate Tchinese nikroute_11f52af6:
 
     # cl "\"Oh... I'll take my leave then. Pleasant meeting you, Nik.\""
-    cl "“哦……我這就離開。很榮幸認識你，Nik。”"
+    cl "“哦...我這就離開。很榮幸認識你，Nik。”"
 
 # game/nikroute.rpy:263
 translate Tchinese nikroute_a17abcc9:
@@ -6642,67 +6642,67 @@ translate Tchinese nikroute_c37f76f1:
 translate Tchinese nikroute_0e385d74:
 
     # m "\"Mmh... I'm tired.\""
-    m "“嗯……我累了。”"
+    m "“嗯...我累了。”"
 
 # game/nikroute.rpy:312
 translate Tchinese nikroute_159424bb:
 
     # ni "\"Did I... Did I interrupt an appointment?\""
-    ni "“我……我打擾到你的預約了嗎？”"
+    ni "“我...我打擾到你的預約了嗎？”"
 
 # game/nikroute.rpy:340
 translate Tchinese nikroute_d8e86be9:
 
     # m "\"That's only 'cuz you're big and they don't know you're nice... and that's 'cuz you never talk to anyone.\""
-    m "“那只是因為你很高大，而且他們不知道你人很好……畢竟你都不跟其他人說話。”"
+    m "“那只是因為你很高大，而且他們不知道你人很好...畢竟你都不跟其他人說話。”"
 
 # game/nikroute.rpy:370
 translate Tchinese nikroute_b9eeab9b:
 
     # "It's not a feeling I like in any situation... except when I'm with Nik."
-    "在任何情況下我都不喜歡這種感覺……除非是跟Nik在一起。"
+    "在任何情況下我都不喜歡這種感覺...除非是跟Nik在一起。"
 
 # game/nikroute.rpy:371
 translate Tchinese nikroute_5f6787bc:
 
     # "He can make me do whatever he wants because of his size and strength... but he doesn't, and I like that."
-    "他完全可以靠力量讓我屈服、擺佈我……但他不會這麼做，而我就喜歡他這點。"
+    "他完全可以靠力量讓我屈服、擺佈我...但他不會這麼做，而我就喜歡他這點。"
 
 # game/nikroute.rpy:376
 translate Tchinese nikroute_8e25f536:
 
     # "The badger bellows out a laugh, then finally scoops me up into his arms, carrying me like a woman... which I don't like."
-    "貛放聲大笑，然後把我像女人一樣抱起……我並不喜歡這樣。"
+    "貛放聲大笑，然後把我像女人一樣抱起...我並不喜歡這樣。"
 
 # game/nikroute.rpy:430
 translate Tchinese nikroute_f0f471ca:
 
     # "So then... maybe he doesn't know... maybe he was gonna ask something that had nothing to do with Jack."
-    "所以……說不定他不知道……說不定他是想問跟Jack毫無關聯的事。"
+    "所以...說不定他不知道...說不定他是想問跟Jack毫無關聯的事。"
 
 # game/nikroute.rpy:505
 translate Tchinese nikroute_4cc865eb:
 
     # ni "\"Hahaha! I know, it's not pleasant, but you can always find a time and place if you must release your... tension.\""
-    ni "“哈哈哈！我知道，那不算理想，但人總是有辦法找到時間跟地點去釋放……壓力。”"
+    ni "“哈哈哈！我知道，那不算理想，但人總是有辦法找到時間跟地點去釋放...壓力。”"
 
 # game/nikroute.rpy:511
 translate Tchinese nikroute_7372298d:
 
     # ni "\"When you live in such close quarters with many other men, you just... stop caring, I suppose. And they assume that no man would be interested in watching.\""
-    ni "“當你跟一群其他男人住的這麼近時，你就……懶得在意了，我想。而且他們也覺得沒有其他男人會想看。”"
+    ni "“當你跟一群其他男人住的這麼近時，你就...懶得在意了，我想。而且他們也覺得沒有其他男人會想看。”"
 
 # game/nikroute.rpy:517
 translate Tchinese nikroute_38c66def:
 
     # ni "\"Well... I have trouble getting... aroused when I'm not near someone. I need another body to hold onto, I suppose.\""
-    ni "“呃……我很難……在身邊沒有其他人時提起情慾。我想我需要摟著誰才行。”"
+    ni "“呃...我很難...在身邊沒有其他人時提起情慾。我想我需要摟著誰才行。”"
 
 # game/nikroute.rpy:524
 translate Tchinese nikroute_5a77e5d6:
 
     # ni "\"Well yes, the goal is never to stay in a bunkhouse. You're there until you find a gold vein and strike it rich... or you give up and leave town, whichever comes first.\""
-    ni "“當然，目標是永遠不住在工棚裡。你會在那邊待到你找到金脈而一發致富……或者放棄而離開城鎮為止。”"
+    ni "“當然，目標是永遠不住在工棚裡。你會在那邊待到你找到金脈而一發致富...或者放棄而離開城鎮為止。”"
 
 # game/nikroute.rpy:541
 translate Tchinese nikroute_0ddbb67b:
@@ -6714,25 +6714,25 @@ translate Tchinese nikroute_0ddbb67b:
 translate Tchinese nikroute_ed4081e2:
 
     # m "\"Then don't. Some things... most things are best left unsaid.\""
-    m "“那就別問。有些事……很多事還是別明說的好。”"
+    m "“那就別問。有些事...很多事還是別明說的好。”"
 
 # game/nikroute.rpy:545
 translate Tchinese nikroute_e2f81303:
 
     # ni @ talking "\"--but did you know Jack?\""
-    ni @ talking "“──但你認識Jack嗎？”"
+    ni "“──但你認識Jack嗎？”"
 
 # game/nikroute.rpy:554
 translate Tchinese nikroute_3f83e372:
 
     # ni @ talking "\"Because Jack bunked with us, and he didn't... do a very good job of hiding his preferences. He once said that he did not know mountain lions could have white fur.\""
-    ni @ talking "“Jack跟我們一起住，而他……沒怎麼隱瞞他的取向；他曾說過自己不知道美洲獅能有白毛。”"
+    ni @ talking "“Jack跟我們一起住，而他...沒怎麼隱瞞他的取向；他曾說過自己不知道美洲獅能有白毛。”"
 
 # game/nikroute.rpy:557
 translate Tchinese nikroute_fba60893:
 
     # ni @ talking "\"Well, when he didn't show up for work, we all assumed he got tired of the job... but he's been found, and now we know what happened... mostly.\""
-    ni @ talking "“唉，他沒上工時，我們大家都以為他不想幹了……但他被發現了，而且我們也知道發生了什麼事……大部分。”"
+    ni @ talking "“唉，他沒上工時，我們大家都以為他不想幹了...但他被發現了，而且我們也知道發生了什麼事...大部分。”"
 
 # game/nikroute.rpy:560
 translate Tchinese nikroute_7dc156dc:
@@ -6744,25 +6744,25 @@ translate Tchinese nikroute_7dc156dc:
 translate Tchinese nikroute_d911d060:
 
     # "Nik sighs deeply, his chest rising against my paws, and it's only then that I realize his own massive paws are holding my wrists... gripping my wrists?"
-    "Nik深深嘆氣，令其胸腔在我手下起伏，我這才發現他的兩隻大掌正摟著我的腰……抓著我的腰？"
+    "Nik深深嘆氣，令其胸腔在我手下起伏，我這才發現他的兩隻大掌正摟著我的腰...抓著我的腰？"
 
 # game/nikroute.rpy:586
 translate Tchinese nikroute_f1a02f0b:
 
     # m "\"You... You tell William?\""
-    m "“你……你要告訴William？”"
+    m "“你...你要告訴William？”"
 
 # game/nikroute.rpy:598
 translate Tchinese nikroute_b9258d78:
 
     # ni "\"Because... you are a dear friend of mine, and I know you... and I knew Jack.\""
-    ni "“因為……你是我很親近的朋友；我認識你……也認識Jack。”"
+    ni "“因為...你是我很親近的朋友；我認識你...也認識Jack。”"
 
 # game/nikroute.rpy:617
 translate Tchinese nikroute_0714372a:
 
     # "Not like Jack at all, I know that, and I wanna believe him... but I can't."
-    "我知道他跟Jack完全不同；我想相信他……但我做不到。"
+    "我知道他跟Jack完全不同；我想相信他...但我做不到。"
 
 # game/nikroute.rpy:636
 translate Tchinese nikroute_5cfcf963:
@@ -6780,13 +6780,13 @@ translate Tchinese nikroute_10425023:
 translate Tchinese nikroute_9a25ccc5:
 
     # m "\"Did... did Yao have money?\""
-    m "“Yao他……他有錢嗎？”"
+    m "“Yao他...他有錢嗎？”"
 
 # game/nikroute.rpy:660
 translate Tchinese nikroute_4cbe3490:
 
     # m "\"Wow... now I know I'm stupid, because that sounds like the dumbest fucking scam I've ever heard.\""
-    m "“哇……我現在覺得自己真蠢，這根本是我聽過最蠢的詐騙了。”"
+    m "“哇...我現在覺得自己真蠢，這根本是我聽過最蠢的詐騙了。”"
 
 # game/nikroute.rpy:661
 translate Tchinese nikroute_3f54ae4a:
@@ -6798,13 +6798,13 @@ translate Tchinese nikroute_3f54ae4a:
 translate Tchinese nikroute_d8688589:
 
     # ni "\"No... I think you should do it later, to avoid suspicion. I am the only person who saw you coming from the mines. The only evidence of you being there was your money and your wounds.\""
-    ni "“不……我想你該等風頭過去。我是唯一看到你從礦坑離開的人；能證明你在那邊的物證只有你的錢跟傷勢。”"
+    ni "“不...我想你該等風頭過去。我是唯一看到你從礦坑離開的人；能證明你在那邊的物證只有你的錢跟傷勢。”"
 
 # game/nikroute.rpy:680
 translate Tchinese nikroute_39e804bf:
 
     # ni "\"Most don't know you. And... William is on your side, isn't he?\""
-    ni "“大部分居民不認識你。還有……William是站你這邊的，對吧？”"
+    ni "“大部分居民不認識你。還有...William是站你這邊的，對吧？”"
 
 # game/nikroute.rpy:684
 translate Tchinese nikroute_a6e5bb55:
@@ -6816,19 +6816,19 @@ translate Tchinese nikroute_a6e5bb55:
 translate Tchinese nikroute_9f041e64:
 
     # ni "\"I know. It's best not to right now. But... I want to help you. We can make plans to keep you safe, even leave Echo eventually, if that's what you want.\""
-    ni "“我想也是。現在還是別讓他知道的好。但……我想幫助你。我們能想辦法讓你安全脫身，或者你想要的話，甚至是離開回音鎮。”"
+    ni "“我想也是。現在還是別讓他知道的好。但...我想幫助你。我們能想辦法讓你安全脫身，或者你想要的話，甚至是離開回音鎮。”"
 
 # game/nikroute.rpy:747
 translate Tchinese nikroute_9c3f1e47:
 
     # ni "\"Ugh... what's that?\""
-    ni "“呃……怎麼回事？”"
+    ni "“呃...怎麼回事？”"
 
 # game/nikroute.rpy:765
 translate Tchinese nikroute_ce44e1b3:
 
     # m "\"Just... sit on the dang bed, or somethin'!\""
-    m "“你就……隨便坐在床上還是哪裡好了！”"
+    m "“你就...隨便坐在床上還是哪裡好了！”"
 
 # game/nikroute.rpy:1353
 translate Tchinese nikroute_d41cc372:
@@ -6841,3 +6841,4 @@ translate Tchinese nikroute_c9dd26d3:
 
     # ya @ talking "\"As a friend of Nikolai’s, I trust you share in his will and purpose.\""
     ya @ talking "“身為Nikolai的朋友，我相信你與他志同道合。”"
+
