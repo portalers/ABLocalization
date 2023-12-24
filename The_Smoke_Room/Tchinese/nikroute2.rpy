@@ -25618,511 +25618,1024 @@ translate Tchinese sny1_bdeb1ad6:
 
 # TODO: Translation updated at 2023-11-24 14:58
 
-translate Tchinese nikroute2_61b8360a:
+translate Schinese nikroute2_61b8360a:
 
     # ya "\"Let us go.\""
     ya "“我們走吧。”"
 
 # game/nikroute2.rpy:54
-translate Tchinese nikroute2_047f2f69:
+translate Schinese nikroute2_047f2f69:
 
     # ya "\"Don not stand under the stalactites.\""
     ya "“別站在鐘乳石的下面。”"
 
 # game/nikroute2.rpy:124
-translate Tchinese nikroute2_84b26b2b:
+translate Schinese nikroute2_84b26b2b:
 
     # ya "\"Are you talking about Jack?\""
     ya "“你們是在討論Jack嗎？”"
 
 # game/nikroute2.rpy:194
-translate Tchinese nikroute2_92c8d9ad:
+translate Schinese nikroute2_92c8d9ad:
 
     # ya "\"We are here.\""
     ya "“我們到了。”"
 
 # game/nikroute2.rpy:210
-translate Tchinese nikroute2_f76c3a1d:
+translate Schinese nikroute2_f76c3a1d:
 
     # ya "\"I am still close.\""
     ya "“我還在附近。”"
 
 # game/nikroute2.rpy:212
-translate Tchinese nikroute2_1cc4f59b:
+translate Schinese nikroute2_1cc4f59b:
 
     # ya "\"The second drop is not nearly as high.\""
     ya "“第二個斷層就沒有這麼高了。”"
 
 # game/nikroute2.rpy:258
-translate Tchinese nikroute2_9e7216d3:
+translate Schinese nikroute2_9e7216d3:
 
     # ya "\"We are in a cave. Voices carry far.\""
     ya "“我們在洞穴裡，聲音傳得很遠。”"
 
 # game/nikroute2.rpy:260
-translate Tchinese nikroute2_4116621a:
+translate Schinese nikroute2_4116621a:
 
     # ya "\"Since I am down here in this small space, risking my neck for your money, why not come down and help me look?\""
     ya "“既然我是為了你才冒著生命危險下到這個狹窄的地方，你何不過來幫我一起找呢？”"
 
 # game/nikroute2.rpy:327
-translate Tchinese nikroute2_f51f9a79:
+translate Schinese nikroute2_f51f9a79:
 
     # ya "\"The other pit is over here.\""
     ya "“另一個坑在這裡。”"
 
 # game/nikroute2.rpy:343
-translate Tchinese nikroute2_73594e23:
+translate Schinese nikroute2_73594e23:
 
     # ya "\"I am sure you can tell, but this is where we found his body.\""
     ya "“相信你看得出來，這裡就是我們發現他屍體的地方。”"
 
 # game/nikroute2.rpy:393
-translate Tchinese nikroute2_f011312c:
+translate Schinese nikroute2_f011312c:
 
     # ya "\"It is built in ways that do not make sense.\""
     ya "“它的建造方式並不合理。”"
 
 # game/nikroute2.rpy:447
-translate Tchinese nikroute2_064df987:
+translate Schinese nikroute2_064df987:
 
     # ya "\"You are holding charred remains.\""
     ya "“你手中不過是燒焦的殘骸而已。”"
 
 # game/nikroute2.rpy:496
-translate Tchinese nikroute2_fb65e46e:
+translate Schinese nikroute2_fb65e46e:
 
     # ya "\"I do not think it is here, friend.\""
     ya "“我想這裡已經找不到了，朋友。”"
 
 # game/nikroute2.rpy:500
-translate Tchinese nikroute2_8b4e38b0:
+translate Schinese nikroute2_8b4e38b0:
 
     # ya "\"Those charred marks were not there when we first found Jack.\""
     ya "“我們初次發現Jack的時候還沒有那些焦痕。”"
 
 # game/nikroute2.rpy:551
-translate Tchinese nikroute2_e416d7de:
+translate Schinese nikroute2_e416d7de:
 
     # ya "\"I will lead.\""
     ya "“我來打頭。”"
 
 # game/nikroute2.rpy:576
-translate Tchinese nikroute2_1e3d3c19:
+translate Schinese nikroute2_1e3d3c19:
 
     # ya "\"Wait until I am at the top.\""
     ya "“先等我爬到頂上。”"
 
 # game/nikroute2.rpy:629
-translate Tchinese nikroute2_abe4179f:
+translate Schinese nikroute2_abe4179f:
 
     # ya "\"Unfortunately, this did not help him at all.\""
     ya "“可惜的是完全沒有幫上他的忙。”"
 
 # game/nikroute2.rpy:649
-translate Tchinese nikroute2_3015b9ab:
+translate Schinese nikroute2_3015b9ab:
 
     # ya "\"And for that, I am going to need help, or else it might as well be hand delivered to Mr. Hendricks or one of his lying foremen.\""
     ya "“為此我需要幫助，否則它們很有可能落入Hendricks先生、或他那些中飽私囊的工頭們手中。”"
 
 # game/nikroute2.rpy:674
-translate Tchinese nikroute2_c2368217:
+translate Schinese nikroute2_c2368217:
 
     # ya "\"He will be on the first floor at this time.\""
     ya "“他這個時間會在一樓。”"
 
 # game/nikroute2.rpy:954
-translate Tchinese nikroute2_6cc60c45:
+translate Schinese nikroute2_6cc60c45:
 
     # "He looks at me."
     "他看向我。"
 
 # game/nikroute2.rpy:958
-translate Tchinese nikroute2_6bd7ce38:
+translate Schinese nikroute2_6bd7ce38:
 
     # ya "\"We have two empty beds, but I recommend the top bunk next to me.\""
     ya "“這裡還有兩張空床，不過我推薦旁邊那張的上鋪。”"
 
 # game/nikroute2.rpy:1018
-translate Tchinese nikroute2_ed16a7aa:
+translate Schinese nikroute2_ed16a7aa:
 
     # ya "\"I do not know.\""
     ya "“我不知道。”"
 
 # game/nikroute2.rpy:1020
-translate Tchinese nikroute2_ea0fa783:
+translate Schinese nikroute2_ea0fa783:
 
     # ya "\"It did not walk or sound like any miner I have heard before.\""
     ya "“那動靜聽起來絕對不像任何一個礦工。”"
 
 # game/nikroute2.rpy:1023
-translate Tchinese nikroute2_b2756150:
+translate Schinese nikroute2_b2756150:
 
     # ya "\"But that is not the first time I have encountered something shambling around in the dark down there.\""
     ya "“不過這也不是我第一次遇到有東西在暗中徘徊了。”"
 
 # game/nikroute2.rpy:1036
-translate Tchinese nikroute2_3e5d4488:
+translate Schinese nikroute2_3e5d4488:
 
     # ya "\"And then you are enclosed in a tight space with a wild animal.\""
     ya "“這樣一來，不就變成跟野生動物一同被困在狹小空間裡了嗎。”"
 
 # game/nikroute2.rpy:1304
-translate Tchinese nikroute2_64bb0b9c:
+translate Schinese nikroute2_64bb0b9c:
 
     # ya "\"However, misfortunate choices aside, if he learns how to work with explosives, we will have another man know how to extract the ore.\""
     ya "“不過撇開不幸不談，如果他學會了炸藥的使用方法，我們就能多一個採礦的幫手了。”"
 
 # game/nikroute2.rpy:1306
-translate Tchinese nikroute2_1a13baef:
+translate Schinese nikroute2_1a13baef:
 
     # ya "\"He only has to do this for one week. We can ensure that he is not forced to do anything reckless.\""
     ya "“他只需要做一個星期，我們可以確保他不會被迫做出什麼魯莽的行為。”"
 
 # game/nikroute2.rpy:1390
-translate Tchinese sny1_98d8733c:
+translate Schinese sny1_98d8733c:
 
     # ya "\"That is perfectly fair.\""
     ya "“言之有理。”"
 
 # game/nikroute2.rpy:1478
-translate Tchinese sny1_91f95738:
+translate Schinese sny1_91f95738:
 
     # ya "\"You will find that if you always follow what your bosses tell you to do, you will not last very long.\""
     ya "“一味聽從老闆的指示只會命不久矣。”"
 
 # game/nikroute2.rpy:2091
-translate Tchinese sny1_bbee652c:
+translate Schinese sny1_bbee652c:
 
     # ya "\"You are a free man.\""
     ya "“請隨意。”"
 
 # game/nikroute2.rpy:2383
-translate Tchinese sny1_2ca9b517:
+translate Schinese sny1_2ca9b517:
 
     # "I give Nik a look, asking him to back me up,{nw}"
     "我對Nik使了個眼神，希望他幫我解圍，{nw}"
 
 # game/nikroute2.rpy:2385
-translate Tchinese sny1_5ffae62d:
+translate Schinese sny1_5ffae62d:
 
     # extend " but he just scratches the back of his head, as if he wants to stay out of this."
     extend "但他只是撓了撓後腦勺，好像不太想攪和進來。"
 
 # game/nikroute2.rpy:2622
-translate Tchinese sny1_37ab6a1b:
+translate Schinese sny1_37ab6a1b:
 
     # ya "\"Walk, do not run.\""
     ya "“不要跑，用走的。”"
 
 # game/nikroute2.rpy:2717
-translate Tchinese sny1_1cc615dd:
+translate Schinese sny1_1cc615dd:
 
     # ya "\"But I have also added my own layouts to this-- the ones that I know they do not know about.\""
     ya "“不過我在上面加了自己的內容：他們尚未掌握的部分。”"
 
 # game/nikroute2.rpy:2747
-translate Tchinese sny1_040df7f0:
+translate Schinese sny1_040df7f0:
 
     # ya "\"That is where the real gold is.\""
     ya "“那裡才是真正的黃金所在。”"
 
 # game/nikroute2.rpy:2780
-translate Tchinese sny1_841445d2:
+translate Schinese sny1_841445d2:
 
     # ya "\"You are more clever than I thought, Mr. Ayers.\""
     ya "“你比我想像中的要聰明，Ayers先生。”"
 
 # game/nikroute2.rpy:2783
-translate Tchinese sny1_cc2bdc1b:
+translate Schinese sny1_cc2bdc1b:
 
     # ya "\"Do not thank me until this map is memorized.\""
     ya "“記住這張地圖後再謝我也不遲。”"
 
 # game/nikroute2.rpy:2954
-translate Tchinese sny1_f020f43f:
+translate Schinese sny1_f020f43f:
 
     # benunk "\"Top of the morning, men!\""
     benunk "““早啊，伙伴們！””"
 
 # game/nikroute2.rpy:2960
-translate Tchinese sny1_76e079b7:
+translate Schinese sny1_76e079b7:
 
     # benunk "\"Welcome to the CSCG family. My name’s Ben. You think of me as your guide today for all you newcomers.\""
     benunk "“歡迎加入CSCG這個大家庭。我叫Ben，你們可以把我當做你們這些新手的嚮導。”"
 
 # game/nikroute2.rpy:3202
-translate Tchinese sny1_d36fca00:
+translate Schinese sny1_d36fca00:
 
     # m "\"In all frankness I hoped I’d run into him here--\""
     m "“老實說，我還以為會在這裡碰到他-”"
 
 # game/nikroute2.rpy:3545
-translate Tchinese sny1_1a8772b7:
+translate Schinese sny1_1a8772b7:
 
     # ya "\"If I do not keep still, he could miss, and crush my fingers.\""
     ya "“如果我不保持穩當，他可能會打偏，並砸碎我的手指。”"
 
 # game/nikroute2.rpy:3598
-translate Tchinese sny1_d7890914:
+translate Schinese sny1_d7890914:
 
     # ya "\"We did not say that, but the two of us have worked together long enough to coordinate our actions.\""
     ya "“沒有人那樣說過，不過我們已經合作了很久，足夠產生行為上的默契了。”"
 
 # game/nikroute2.rpy:3915
-translate Tchinese sny1_2974ee99:
+translate Schinese sny1_2974ee99:
 
     # "The blue jay just shakes his head and spits on the floor,{nw}"
     "冠藍鴉只是搖搖頭，往地上吐了口唾沫，{nw}"
 
 # game/nikroute2.rpy:3917
-translate Tchinese sny1_5c9afcf4:
+translate Schinese sny1_5c9afcf4:
 
     # extend " before turning to leave."
     extend "之後便轉身離開了。"
 
 # game/nikroute2.rpy:3940
-translate Tchinese sny1_7d00b8f8:
+translate Schinese sny1_7d00b8f8:
 
     # diunk "\"Are you a foreman, Keyes?\""
     diunk "“你是工頭嗎，Keyes？”"
 
 # game/nikroute2.rpy:4095
-translate Tchinese sny1_80b593e0:
+translate Schinese sny1_80b593e0:
 
     # "The mess hall, which is more of a dimly lit cavern with stools scattered about it than a hall, has a row of iron lockers against the beam and earth walls..."
     "所謂食堂，倒不如說是一個光線昏暗的洞穴。凳子橫七豎八，一排鐵櫃緊靠著干豆和土牆..."
 
 # game/nikroute2.rpy:4171
-translate Tchinese sny1_bece5169:
+translate Schinese sny1_bece5169:
 
     # ya "\"Because this is not the first time somebody has forgotten their lunch.\""
     ya "“因為這不是第一次有人忘記準備午餐。”"
 
 # game/nikroute2.rpy:4176
-translate Tchinese sny1_a05d0f92:
+translate Schinese sny1_a05d0f92:
 
     # ya "\"When you are hungry, and hundreds of feet beneath the ground, you might agree to more than you normally would when you are out of options.\""
     ya "“一個飢腸轆轆的人會更容易接受平時難以接受的條件，尤其是在這幾百英尺深的地下，他們別無選擇。”"
 
 # game/nikroute2.rpy:4179
-translate Tchinese sny1_58c73a7f:
+translate Schinese sny1_58c73a7f:
 
     # ya "\"That is why we have to be ready to feed those who need it.\""
     ya "“不論是兜售人情，還是以物換物。”"
 
 # game/nikroute2.rpy:4182
-translate Tchinese sny1_0f92ecc7:
+translate Schinese sny1_0f92ecc7:
 
     # ya "\"Or barter with those who do not.\""
     ya "“額外的食物都是有必要的。”"
 
 # game/nikroute2.rpy:4247
-translate Tchinese sny1_b5622e85:
+translate Schinese sny1_b5622e85:
 
     # bk "\"{i}From one explorer to another.{/i}\""
     bk "“一位開拓者致另一位開拓者的心意。”"
 
 # game/nikroute2.rpy:4251
-translate Tchinese sny1_8e7c6ea5:
+translate Schinese sny1_8e7c6ea5:
 
     # bk "\"{i}I hope you find what you’re looking for, Samuel Ayers.{/i}\""
     bk "“願你得償所願，Samuel Ayers。”"
 
 # game/nikroute2.rpy:4254
-translate Tchinese sny1_f09a6be1:
+translate Schinese sny1_f09a6be1:
 
     # bk "\"Signed, {i}James Hendricks the Third.{/i}\""
     bk "“署名，James Hendricks三世。”"
 
 # game/nikroute2.rpy:5002
-translate Tchinese sny1_27c037a6:
+translate Schinese sny1_27c037a6:
 
     # ya "\"If he is already suspicious of Sam’s presence due to James’ gift, we would not want to implicate ourselves in that.\""
     ya "“如果他已經因為James的禮物而懷疑到了Sam，那我們兩個最好遠離是非。”"
 
 # game/nikroute2.rpy:5004
-translate Tchinese sny1_a4a0ed62:
+translate Schinese sny1_a4a0ed62:
 
     # ya "\"Breaking protocol would make Beckett talk to James, and that is the last thing we want.\""
     ya "“違規行為將導致Beckett和James的面談，這是我們最不希望看到的。”"
 
 # game/nikroute2.rpy:5166
-translate Tchinese sny1_e38beba4:
+translate Schinese sny1_e38beba4:
 
     # ya "\"There is something that he wants.\""
     ya "“他也有想要的東西。”"
 
 # game/nikroute2.rpy:5174
-translate Tchinese sny1_935ee145:
+translate Schinese sny1_935ee145:
 
     # ya "\"Let us return to the cabin.\""
     ya "“咱們先回工棚吧。”"
 
 # game/nikroute2.rpy:5269
-translate Tchinese sny1_e63bf79a:
+translate Schinese sny1_e63bf79a:
 
     # "As his eyes list across the symbols, his expression moves{nw}"
     "他目光掃過那些符號，表情從{nw}"
 
 # game/nikroute2.rpy:5271
-translate Tchinese sny1_b884a9b3:
+translate Schinese sny1_b884a9b3:
 
     # extend " from perplexed, to angry,{nw}"
     extend "疑惑轉為憤怒，{nw}"
 
 # game/nikroute2.rpy:5273
-translate Tchinese sny1_66e2ee0e:
+translate Schinese sny1_66e2ee0e:
 
     # extend " then to thoughtful."
     extend "最後又變成若有所思。"
 
 # game/nikroute2.rpy:5566
-translate Tchinese sny1_e46d36d1:
+translate Schinese sny1_e46d36d1:
 
     # m "\"We don’t want to be separated, but we don’t want Beckett to know that we are all associated...\""
     m "“我們想待在一隊，但又不想讓Beckett知道我們是一伙的...”"
 
 # game/nikroute2.rpy:5761
-translate Tchinese sellcomp_2f3fccea:
+translate Schinese sellcomp_2f3fccea:
 
     # ya "\"...It is very late.\""
     ya "“...已經很晚了。”"
 
 # game/nikroute2.rpy:5783
-translate Tchinese sellcomp_236b10dc:
+translate Schinese sellcomp_236b10dc:
 
     # ya "\"It is the way he looks at you.\""
     ya "“他看你的眼神。”"
 
 # game/nikroute2.rpy:5798
-translate Tchinese sellcomp_986b8689:
+translate Schinese sellcomp_986b8689:
 
     # ya "\"...and I was not sleeping.\""
     ya "“...其實我剛才沒有睡。”"
 
 # game/nikroute2.rpy:5819
-translate Tchinese sellcomp_45d2e6ba:
+translate Schinese sellcomp_45d2e6ba:
 
     # ya "\"It is not as embarrassing anonymously among strangers.\""
     ya "“大傢伙兒素不相識的話倒還好。”"
 
 # game/nikroute2.rpy:5859
-translate Tchinese sellcomp_bae05e63:
+translate Schinese sellcomp_bae05e63:
 
     # ya "\"I cannot pay you anything.\""
     ya "“我一個子都給不了你。”"
 
 # game/nikroute2.rpy:5872
-translate Tchinese sellcomp_c6784357:
+translate Schinese sellcomp_c6784357:
 
     # ya "\"It is a partnership.\""
     ya "“那是出於兄弟情誼。”"
 
 # game/nikroute2.rpy:5907
-translate Tchinese sellcomp_04cc7fe2:
+translate Schinese sellcomp_04cc7fe2:
 
     # ya "\"You do not have to wait.\""
     ya "“你沒必要等的。”"
 
 # game/nikroute2.rpy:6107
-translate Tchinese sellcomp_e744ae05:
+translate Schinese sellcomp_e744ae05:
 
     # ya "\"I have not finished like that for years.\""
     ya "“我好幾年沒有像這樣出來過了。”"
 
 # game/nikroute2.rpy:6109
-translate Tchinese sellcomp_3582aab7:
+translate Schinese sellcomp_3582aab7:
 
     # ya "\"That felt right. In a way it had not before.\""
     ya "“感覺前所未有的爽。”"
 
 # game/nikroute2.rpy:6119
-translate Tchinese sellcomp_0a8b30e5:
+translate Schinese sellcomp_0a8b30e5:
 
     # ya "\"It is astonishing.\""
     ya "“真是驚人。”"
 
 # game/nikroute2.rpy:6153
-translate Tchinese sellcomp_3e962d52:
+translate Schinese sellcomp_3e962d52:
 
     # ya "\"Well I do not need to know everything.\""
     ya "“你不用把原委都告訴我。”"
 
 # game/nikroute2.rpy:6242
-translate Tchinese sellcomp_82c789c8:
+translate Schinese sellcomp_82c789c8:
 
     # ya "\"You are stubborn too.\""
     ya "“你也很頑固啊。”"
 
 # game/nikroute2.rpy:6446
-translate Tchinese sellcomp_d48241cc:
+translate Schinese sellcomp_d48241cc:
 
     # fe "\"Because I know you can't get enough of the sound of my voice, Paul.\""
     fe "“那是因為我知道你對我的聲音百聽不厭，Paul。”"
 
 # game/nikroute2.rpy:6906
-translate Tchinese sellcomp_77e76532:
+translate Schinese sellcomp_77e76532:
 
     # "Just... nothing, immeasurably dark and deep."
     "就只是...空虛，深不可測的黑暗。"
 
 # game/nikroute2.rpy:7453
-translate Tchinese sellcomp_46140f4c:
+translate Schinese sellcomp_46140f4c:
 
     # ya "\"That is our quickest way out when we have... what we are looking for.\""
     ya "“那裡是我們搬運...目標物的最短捷徑。”"
 
 # game/nikroute2.rpy:7455
-translate Tchinese sellcomp_515bdb59:
+translate Schinese sellcomp_515bdb59:
 
     # ya "\"We do not want to risk the discovery.\""
     ya "“要盡量避免被他人發現。”"
 
 # game/nikroute2.rpy:7470
-translate Tchinese sellcomp_d1980d59:
+translate Schinese sellcomp_d1980d59:
 
     # ya "\"You do not want to be holding a piece of paper and reading it if we are lost...\""
     ya "“迷路的時候可沒有時間抱著紙慢慢啃...”"
 
 # game/nikroute2.rpy:7862
-translate Tchinese locker1bright_678d8a19:
+translate Schinese locker1bright_678d8a19:
 
     # ya "\"It is easy to get lost and wander in the same direction for far too long if you are not careful.\""
     ya "“一不留神就容易迷路，原地打轉。”"
 
 # game/nikroute2.rpy:7915
-translate Tchinese locker1bright_361dd701:
+translate Schinese locker1bright_361dd701:
 
     # ya "\"You will understand very soon.\""
     ya "“你們馬上就會明白了。”"
 
 # game/nikroute2.rpy:7928
-translate Tchinese locker1bright_a36f5d62:
+translate Schinese locker1bright_a36f5d62:
 
     # ya "\"It is in there.\""
     ya "“就在裡面。”"
 
 # game/nikroute2.rpy:7980
-translate Tchinese locker1bright_8bc2ab65:
+translate Schinese locker1bright_8bc2ab65:
 
     # ya "\"There is something much better.\""
     ya "“那邊的東西更是了不得。”"
 
 # game/nikroute2.rpy:8126
-translate Tchinese locker1bright_3ddbf165:
+translate Schinese locker1bright_3ddbf165:
 
     # ya "\"If it is a member of management, we should not be seen.\""
     ya "“可能是管理層的人，小心別被發現了。”"
 
 # game/nikroute2.rpy:8402
-translate Tchinese locker1bright_ec62891c:
+translate Schinese locker1bright_ec62891c:
 
     # ya "\"We did not bring any weapons! We have to go!\""
     ya "“我們身上沒有武器！走為上！”"
 
 # game/nikroute2.rpy:8413
+translate Schinese locker1bright_aad43e56:
+
+    # ya "\"It is easy if you retrace your steps.\""
+    ya "“原路返回會比較容易。”"
+
+# TODO: Translation updated at 2023-12-20 21:29
+
+# game/nikroute2.rpy:31
+translate Tchinese nikroute2_61b8360a:
+
+    # ya "\"Let us go.\""
+    ya "“我們走吧。”"
+
+# game/nikroute2.rpy:59
+translate Tchinese nikroute2_047f2f69:
+
+    # ya "\"Don not stand under the stalactites.\""
+    ya "“別站在鐘乳石的下面。”"
+
+# game/nikroute2.rpy:130
+translate Tchinese nikroute2_84b26b2b:
+
+    # ya "\"Are you talking about Jack?\""
+    ya "“你們是在討論Jack嗎？”"
+
+# game/nikroute2.rpy:200
+translate Tchinese nikroute2_92c8d9ad:
+
+    # ya "\"We are here.\""
+    ya "“我們到了。”"
+
+# game/nikroute2.rpy:216
+translate Tchinese nikroute2_f76c3a1d:
+
+    # ya "\"I am still close.\""
+    ya "“我還在附近。”"
+
+# game/nikroute2.rpy:218
+translate Tchinese nikroute2_1cc4f59b:
+
+    # ya "\"The second drop is not nearly as high.\""
+    ya "“第二個斷層就沒有這麼高了。”"
+
+# game/nikroute2.rpy:264
+translate Tchinese nikroute2_9e7216d3:
+
+    # ya "\"We are in a cave. Voices carry far.\""
+    ya "“我們在洞穴裡，聲音傳得很遠。”"
+
+# game/nikroute2.rpy:266
+translate Tchinese nikroute2_4116621a:
+
+    # ya "\"Since I am down here in this small space, risking my neck for your money, why not come down and help me look?\""
+    ya "“既然我是為了你才冒著生命危險下到這個狹窄的地方，你何不過來幫我一起找呢？”"
+
+# game/nikroute2.rpy:333
+translate Tchinese nikroute2_f51f9a79:
+
+    # ya "\"The other pit is over here.\""
+    ya "“另一個坑在這裡。”"
+
+# game/nikroute2.rpy:349
+translate Tchinese nikroute2_73594e23:
+
+    # ya "\"I am sure you can tell, but this is where we found his body.\""
+    ya "“相信你看得出來，這裡就是我們發現他屍體的地方。”"
+
+# game/nikroute2.rpy:399
+translate Tchinese nikroute2_f011312c:
+
+    # ya "\"It is built in ways that do not make sense.\""
+    ya "“它的建造方式並不合理。”"
+
+# game/nikroute2.rpy:453
+translate Tchinese nikroute2_064df987:
+
+    # ya "\"You are holding charred remains.\""
+    ya "“你手中不過是燒焦的殘骸而已。”"
+
+# game/nikroute2.rpy:502
+translate Tchinese nikroute2_fb65e46e:
+
+    # ya "\"I do not think it is here, friend.\""
+    ya "“我想這裡已經找不到了，朋友。”"
+
+# game/nikroute2.rpy:506
+translate Tchinese nikroute2_8b4e38b0:
+
+    # ya "\"Those charred marks were not there when we first found Jack.\""
+    ya "“我們初次發現Jack的時候還沒有那些焦痕。”"
+
+# game/nikroute2.rpy:557
+translate Tchinese nikroute2_e416d7de:
+
+    # ya "\"I will lead.\""
+    ya "“我來打頭。”"
+
+# game/nikroute2.rpy:582
+translate Tchinese nikroute2_1e3d3c19:
+
+    # ya "\"Wait until I am at the top.\""
+    ya "“先等我爬到頂上。”"
+
+# game/nikroute2.rpy:635
+translate Tchinese nikroute2_abe4179f:
+
+    # ya "\"Unfortunately, this did not help him at all.\""
+    ya "“可惜的是完全沒有幫上他的忙。”"
+
+# game/nikroute2.rpy:655
+translate Tchinese nikroute2_3015b9ab:
+
+    # ya "\"And for that, I am going to need help, or else it might as well be hand delivered to Mr. Hendricks or one of his lying foremen.\""
+    ya "“為此我需要幫助，否則它們很有可能落入Hendricks先生、或他那些中飽私囊的工頭們手中。”"
+
+# game/nikroute2.rpy:680
+translate Tchinese nikroute2_c2368217:
+
+    # ya "\"He will be on the first floor at this time.\""
+    ya "“他這個時間會在一樓。”"
+
+# game/nikroute2.rpy:960
+translate Tchinese nikroute2_6cc60c45:
+
+    # "He looks at me."
+    "他看向我。"
+
+# game/nikroute2.rpy:964
+translate Tchinese nikroute2_6bd7ce38:
+
+    # ya "\"We have two empty beds, but I recommend the top bunk next to me.\""
+    ya "“我們還有兩張空鋪，不過我推薦你睡我隔壁的這張上鋪。”"
+
+# game/nikroute2.rpy:1024
+translate Tchinese nikroute2_ed16a7aa:
+
+    # ya "\"I do not know.\""
+    ya "“我不知道。”"
+
+# game/nikroute2.rpy:1026
+translate Tchinese nikroute2_ea0fa783:
+
+    # ya "\"It did not walk or sound like any miner I have heard before.\""
+    ya "“那動靜聽起來絕對不像任何一個礦工。”"
+
+# game/nikroute2.rpy:1029
+translate Tchinese nikroute2_b2756150:
+
+    # ya "\"But that is not the first time I have encountered something shambling around in the dark down there.\""
+    ya "“不過這也不是我第一次遇到有東西在暗中徘徊了。”"
+
+# game/nikroute2.rpy:1042
+translate Tchinese nikroute2_3e5d4488:
+
+    # ya "\"And then you are enclosed in a tight space with a wild animal.\""
+    ya "“這樣一來，不就是跟一隻野生動物一起被困在狹小的空間裡了嗎。”"
+
+# game/nikroute2.rpy:1310
+translate Tchinese nikroute2_64bb0b9c:
+
+    # ya "\"However, misfortunate choices aside, if he learns how to work with explosives, we will have another man know how to extract the ore.\""
+    ya "“但是，不幸的安排姑且不論，如果他會爆破作業，就多了一個能採礦的人手了。”"
+
+# game/nikroute2.rpy:1312
+translate Tchinese nikroute2_1a13baef:
+
+    # ya "\"He only has to do this for one week. We can ensure that he is not forced to do anything reckless.\""
+    ya "“他只需要做一個禮拜。我們能確保他不會去做危險的作業。”"
+
+# game/nikroute2.rpy:1396
+translate Tchinese sny1_98d8733c:
+
+    # ya "\"That is perfectly fair.\""
+    ya "“言之有理。”"
+
+# game/nikroute2.rpy:1484
+translate Tchinese sny1_91f95738:
+
+    # ya "\"You will find that if you always follow what your bosses tell you to do, you will not last very long.\""
+    ya "“一味聽從老闆的只會命不久矣，你遲早會發現的”"
+
+# game/nikroute2.rpy:2097
+translate Tchinese sny1_bbee652c:
+
+    # ya "\"You are a free man.\""
+    ya "“請隨意。”"
+
+# game/nikroute2.rpy:2389
+translate Tchinese sny1_2ca9b517:
+
+    # "I give Nik a look, asking him to back me up,{nw}"
+    "我對Nik使了個眼神，希望他幫我解圍，{nw}"
+
+# game/nikroute2.rpy:2391
+translate Tchinese sny1_5ffae62d:
+
+    # extend " but he just scratches the back of his head, as if he wants to stay out of this."
+    extend "但他只是撓了撓後腦勺，好像不太想攪和進來。"
+
+# game/nikroute2.rpy:2628
+translate Tchinese sny1_37ab6a1b:
+
+    # ya "\"Walk, do not run.\""
+    ya "“不要跑，用走的。”"
+
+# game/nikroute2.rpy:2723
+translate Tchinese sny1_1cc615dd:
+
+    # ya "\"But I have also added my own layouts to this-- the ones that I know they do not know about.\""
+    ya "“不過我在這上面加了我自己的認知──我知道他們所不知道的部分。”"
+
+# game/nikroute2.rpy:2753
+translate Tchinese sny1_040df7f0:
+
+    # ya "\"That is where the real gold is.\""
+    ya "“那裡才是真正的黃金所在。”"
+
+# game/nikroute2.rpy:2786
+translate Tchinese sny1_841445d2:
+
+    # ya "\"You are more clever than I thought, Mr. Ayers.\""
+    ya "“你頭腦比我想的靈光，Ayers先生。”"
+
+# game/nikroute2.rpy:2789
+translate Tchinese sny1_cc2bdc1b:
+
+    # ya "\"Do not thank me until this map is memorized.\""
+    ya "“等你記好這張地圖再謝我。”"
+
+# game/nikroute2.rpy:2960
+translate Tchinese sny1_f020f43f:
+
+    # benunk "\"Top of the morning, men!\""
+    benunk "““早啊，伙伴們！””"
+
+# game/nikroute2.rpy:2966
+translate Tchinese sny1_76e079b7:
+
+    # benunk "\"Welcome to the CSCG family. My name’s Ben. You think of me as your guide today for all you newcomers.\""
+    benunk "“歡迎加入CSCG礦場這個大家庭。我叫Ben，你們可以把我當做你們這些新手的嚮導。”"
+
+# game/nikroute2.rpy:3208
+translate Tchinese sny1_d36fca00:
+
+    # m "\"In all frankness I hoped I’d run into him here--\""
+    m "“坦白地說，我還以為會在這裡碰到他──”"
+
+# game/nikroute2.rpy:3551
+translate Tchinese sny1_1a8772b7:
+
+    # ya "\"If I do not keep still, he could miss, and crush my fingers.\""
+    ya "“如果我不保持穩當，他可能會打偏，並砸碎我的手指。”"
+
+# game/nikroute2.rpy:3604
+translate Tchinese sny1_d7890914:
+
+    # ya "\"We did not say that, but the two of us have worked together long enough to coordinate our actions.\""
+    ya "“沒有人那樣說過，不過我們已經合作了很久，足夠產生行為上的默契了。”"
+
+# game/nikroute2.rpy:3921
+translate Tchinese sny1_2974ee99:
+
+    # "The blue jay just shakes his head and spits on the floor,{nw}"
+    "冠藍鴉只是搖搖頭，往地上吐了口口水，{nw}"
+
+# game/nikroute2.rpy:3923
+translate Tchinese sny1_5c9afcf4:
+
+    # extend " before turning to leave."
+    extend "之後便轉身離開了。"
+
+# game/nikroute2.rpy:3946
+translate Tchinese sny1_7d00b8f8:
+
+    # diunk "\"Are you a foreman, Keyes?\""
+    diunk "“你是工頭嗎，Keyes？”"
+
+# game/nikroute2.rpy:4101
+translate Tchinese sny1_80b593e0:
+
+    # "The mess hall, which is more of a dimly lit cavern with stools scattered about it than a hall, has a row of iron lockers against the beam and earth walls..."
+    "所謂食堂，倒不如說是一個光線昏暗的洞穴。椅凳散落一地，一排鐵櫃緊靠著梁柱和土牆..."
+
+# game/nikroute2.rpy:4177
+translate Tchinese sny1_bece5169:
+
+    # ya "\"Because this is not the first time somebody has forgotten their lunch.\""
+    ya "“因為這不是第一次有人忘記準備午餐。”"
+
+# game/nikroute2.rpy:4182
+translate Tchinese sny1_a05d0f92:
+
+    # ya "\"When you are hungry, and hundreds of feet beneath the ground, you might agree to more than you normally would when you are out of options.\""
+    ya "“一個飢腸轆轆的人會更容易接受平時難以接受的條件，尤其是在這幾百英尺深的地下，他們別無選擇。”"
+
+# game/nikroute2.rpy:4185
+translate Tchinese sny1_58c73a7f:
+
+    # ya "\"That is why we have to be ready to feed those who need it.\""
+    ya "“不管是兜售人情，還是以物換物。”"
+
+# game/nikroute2.rpy:4188
+translate Tchinese sny1_0f92ecc7:
+
+    # ya "\"Or barter with those who do not.\""
+    ya "“額外的食物都是有必要的。”"
+
+# game/nikroute2.rpy:4253
+translate Tchinese sny1_b5622e85:
+
+    # bk "\"{i}From one explorer to another.{/i}\""
+    bk "“一位開拓者致另一位開拓者的心意。”"
+
+# game/nikroute2.rpy:4257
+translate Tchinese sny1_8e7c6ea5:
+
+    # bk "\"{i}I hope you find what you’re looking for, Samuel Ayers.{/i}\""
+    bk "“願你得償所願，Samuel Ayers。”"
+
+# game/nikroute2.rpy:4260
+translate Tchinese sny1_f09a6be1:
+
+    # bk "\"Signed, {i}James Hendricks the Third.{/i}\""
+    bk "“署名，James Hendricks三世。”"
+
+# game/nikroute2.rpy:5008
+translate Tchinese sny1_27c037a6:
+
+    # ya "\"If he is already suspicious of Sam’s presence due to James’ gift, we would not want to implicate ourselves in that.\""
+    ya "“如果他已經因為James的禮物而懷疑到了Sam，我們兩個最好遠離是非。”"
+
+# game/nikroute2.rpy:5010
+translate Tchinese sny1_a4a0ed62:
+
+    # ya "\"Breaking protocol would make Beckett talk to James, and that is the last thing we want.\""
+    ya "“違反協議將導致Beckett與James的會談，這個是我們最不樂見的。”"
+
+# game/nikroute2.rpy:5172
+translate Tchinese sny1_e38beba4:
+
+    # ya "\"There is something that he wants.\""
+    ya "“他也有想要的東西。”"
+
+# game/nikroute2.rpy:5180
+translate Tchinese sny1_935ee145:
+
+    # ya "\"Let us return to the cabin.\""
+    ya "“我們先回工棚吧。”"
+
+# game/nikroute2.rpy:5275
+translate Tchinese sny1_e63bf79a:
+
+    # "As his eyes list across the symbols, his expression moves{nw}"
+    "他目光掃過那些符號，表情從{nw}"
+
+# game/nikroute2.rpy:5277
+translate Tchinese sny1_b884a9b3:
+
+    # extend " from perplexed, to angry,{nw}"
+    extend "疑惑轉為憤怒，{nw}"
+
+# game/nikroute2.rpy:5279
+translate Tchinese sny1_66e2ee0e:
+
+    # extend " then to thoughtful."
+    extend "最後又變成若有所思。"
+
+# game/nikroute2.rpy:5572
+translate Tchinese sny1_e46d36d1:
+
+    # m "\"We don’t want to be separated, but we don’t want Beckett to know that we are all associated...\""
+    m "“我們不想被排開，但也不想讓Beckett知道我們是一伙的...”"
+
+# game/nikroute2.rpy:5767
+translate Tchinese sellcomp_2f3fccea:
+
+    # ya "\"...It is very late.\""
+    ya "“...已經很晚了。”"
+
+# game/nikroute2.rpy:5789
+translate Tchinese sellcomp_236b10dc:
+
+    # ya "\"It is the way he looks at you.\""
+    ya "“他看你的眼神，”"
+
+# game/nikroute2.rpy:5804
+translate Tchinese sellcomp_986b8689:
+
+    # ya "\"...and I was not sleeping.\""
+    ya "“...其實我剛才沒有睡。”"
+
+# game/nikroute2.rpy:5825
+translate Tchinese sellcomp_45d2e6ba:
+
+    # ya "\"It is not as embarrassing anonymously among strangers.\""
+    ya "“大家素不相識的話倒還好。”"
+
+# game/nikroute2.rpy:5865
+translate Tchinese sellcomp_bae05e63:
+
+    # ya "\"I cannot pay you anything.\""
+    ya "“我一個子都給不了你。”"
+
+# game/nikroute2.rpy:5878
+translate Tchinese sellcomp_c6784357:
+
+    # ya "\"It is a partnership.\""
+    ya "“那是出於兄弟情誼。”"
+
+# game/nikroute2.rpy:5913
+translate Tchinese sellcomp_04cc7fe2:
+
+    # ya "\"You do not have to wait.\""
+    ya "“你沒必要等的。”"
+
+# game/nikroute2.rpy:6113
+translate Tchinese sellcomp_e744ae05:
+
+    # ya "\"I have not finished like that for years.\""
+    ya "“我好幾年沒有像這樣出來過了。”"
+
+# game/nikroute2.rpy:6115
+translate Tchinese sellcomp_3582aab7:
+
+    # ya "\"That felt right. In a way it had not before.\""
+    ya "“感覺前所未有的爽。”"
+
+# game/nikroute2.rpy:6125
+translate Tchinese sellcomp_0a8b30e5:
+
+    # ya "\"It is astonishing.\""
+    ya "“真是驚人。”"
+
+# game/nikroute2.rpy:6159
+translate Tchinese sellcomp_3e962d52:
+
+    # ya "\"Well I do not need to know everything.\""
+    ya "“你不用把原委都告訴我。”"
+
+# game/nikroute2.rpy:6248
+translate Tchinese sellcomp_82c789c8:
+
+    # ya "\"You are stubborn too.\""
+    ya "“你也很頑固啊。”"
+
+# game/nikroute2.rpy:6452
+translate Tchinese sellcomp_d48241cc:
+
+    # fe "\"Because I know you can't get enough of the sound of my voice, Paul.\""
+    fe "“那是因為我知道你對我的聲音百聽不膩，Paul。”"
+
+# game/nikroute2.rpy:6912
+translate Tchinese sellcomp_77e76532:
+
+    # "Just... nothing, immeasurably dark and deep."
+    "就是...空虛、深不可測的黑暗。"
+
+# game/nikroute2.rpy:7459
+translate Tchinese sellcomp_46140f4c:
+
+    # ya "\"That is our quickest way out when we have... what we are looking for.\""
+    ya "“那裡是我們搬運...目標物的最短捷徑。”"
+
+# game/nikroute2.rpy:7461
+translate Tchinese sellcomp_515bdb59:
+
+    # ya "\"We do not want to risk the discovery.\""
+    ya "“要盡量避免被他人發現。”"
+
+# game/nikroute2.rpy:7476
+translate Tchinese sellcomp_d1980d59:
+
+    # ya "\"You do not want to be holding a piece of paper and reading it if we are lost...\""
+    ya "“迷路的時候可沒有時間抱著紙慢慢啃...”"
+
+# game/nikroute2.rpy:7868
+translate Tchinese locker1bright_678d8a19:
+
+    # ya "\"It is easy to get lost and wander in the same direction for far too long if you are not careful.\""
+    ya "“一不留神就容易迷路，原地打轉。”"
+
+# game/nikroute2.rpy:7921
+translate Tchinese locker1bright_361dd701:
+
+    # ya "\"You will understand very soon.\""
+    ya "“你們馬上就會明白了。”"
+
+# game/nikroute2.rpy:7934
+translate Tchinese locker1bright_a36f5d62:
+
+    # ya "\"It is in there.\""
+    ya "“就在裡面。”"
+
+# game/nikroute2.rpy:7986
+translate Tchinese locker1bright_8bc2ab65:
+
+    # ya "\"There is something much better.\""
+    ya "“那邊的東西更是了不得。”"
+
+# game/nikroute2.rpy:8132
+translate Tchinese locker1bright_3ddbf165:
+
+    # ya "\"If it is a member of management, we should not be seen.\""
+    ya "“可能是管理層的人，小心別被發現了。”"
+
+# game/nikroute2.rpy:8408
+translate Tchinese locker1bright_ec62891c:
+
+    # ya "\"We did not bring any weapons! We have to go!\""
+    ya "“我們身上沒有武器！走為上！”"
+
+# game/nikroute2.rpy:8419
 translate Tchinese locker1bright_aad43e56:
 
     # ya "\"It is easy if you retrace your steps.\""
     ya "“原路返回會比較容易。”"
+
