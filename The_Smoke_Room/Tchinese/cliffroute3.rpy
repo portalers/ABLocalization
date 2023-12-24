@@ -1,4 +1,4 @@
-﻿# game/cliffroute3.rpy:13
+# game/cliffroute3.rpy:13
 translate Tchinese cliffroute3_bf256e58:
 
     # unk "“Lovely work, Cornelis. You're really getting the hang of this, aren't you?”"
@@ -16232,8 +16232,7 @@ translate Tchinese cliffchoice5_402a4570:
 
     # jeb "\"How are y’all gettin’ more injured in the settlement than the journey?\""
     jeb "\"你們在保留地受的傷怎麼比路上還多？\""
-
-# TODO: Translation updated at 2023-12-16 18:43
+# TODO: Translation updated at 2023-12-20 21:29
 
 # game/cliffroute3.rpy:111
 translate Tchinese cliffroute3_1fcd3842:
@@ -16264,3 +16263,4 @@ translate Tchinese aftercliffint2_15cb676e:
 
     # cl "\"I had thought if I laid out my reasoning he would come to understand my concerns!\""
     cl "“我還以為只要跟他講道理，他就會明白我的顧慮！”"
+
