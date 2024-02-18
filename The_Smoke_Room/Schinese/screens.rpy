@@ -372,7 +372,7 @@ translate Schinese strings:
 
     # game/screens.rpy:1771
     old "Close"
-    new "  关闭"
+    new "关闭"
 
     #对笔记进行美化
     old "Notebook updated."

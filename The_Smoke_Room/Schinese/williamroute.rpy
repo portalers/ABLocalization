@@ -6117,7 +6117,7 @@ translate Schinese williamroute_fabb21ce:
 translate Schinese williamroute_735a29dc:
 
     # "Murdoch collects our cards and shuffles while William starts to hand out cards from a second deck."
-    "Murdoch将我们的牌聚拢并洗牌，同时William开始用的第二幅牌发牌。"
+    "Murdoch将我们的牌聚拢并洗牌，同时William开始用的第二副牌发牌。"
 
 # game/williamroute.rpy:1690
 translate Schinese williamroute_a4155b55:
@@ -6663,7 +6663,7 @@ translate Schinese williamroute_16cd82b1:
 translate Schinese williamroute_e49a1c4a:
 
     # "If William’s hand is bad...."
-    "如果William的手气不佳...。"
+    "如果William的手气不佳..."
 
 # game/williamroute.rpy:1887
 translate Schinese williamroute_065d87e2:
@@ -6933,7 +6933,7 @@ translate Schinese williamroute_ac4b3772:
 translate Schinese williamroute_094157bc:
 
     # "Nikolai lunges, pushing me to the floor."
-    "Nikolai猛扑了过来，把我推到在地。"
+    "Nikolai猛扑了过来，把我推倒在地。"
 
 # game/williamroute.rpy:1954
 translate Schinese williamroute_cc79a6eb:
@@ -7017,7 +7017,7 @@ translate Schinese williamroute_a1d31fb1:
 translate Schinese williamroute_9dafc170:
 
     # "Todd is already pulling a box from a cabinet."
-    "Todd已经柜里拿出了一个箱子。"
+    "Todd已经从柜里拿出了一个箱子。"
 
 # game/williamroute.rpy:1972
 translate Schinese williamroute_df11277d:
@@ -7131,7 +7131,7 @@ translate Schinese williamroute_80d84fa2:
 translate Schinese williamroute_0c5dd9a6:
 
     # "But it wasn’t too smart to fire off a gun into an armed police sheriff’s department."
-    "不过对着有真枪实弹警察局开火也太不明智了。"
+    "不过对着有真枪实弹的警察局开火也太不明智了。"
 
 # game/williamroute.rpy:1996
 translate Schinese williamroute_75f9955d:

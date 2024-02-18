@@ -2146,7 +2146,7 @@ translate Schinese williamroute2_3707d0b0:
 translate Schinese williamroute2_0695105d:
 
     # "He leans in, speaks softer, and gives her a smile."
-    "他附身上前，面带笑容，用更温和的语气说道："
+    "他俯身上前，面带笑容，用更温和的语气说道："
 
 # game/williamroute2.rpy:632
 translate Schinese williamroute2_d6c88c1b:

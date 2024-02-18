@@ -32461,7 +32461,7 @@ translate Schinese caveinchoice_ff04ef7d:
 translate Schinese caveinchoice_1d4dc70e:
 
     # m "\"We made it out.\""
-    m "“我们做到了。”"
+    m "“我们成功了。”"
 
 # game/nikroute3.rpy:10700
 translate Schinese caveinchoice_16f0c13d:
@@ -32665,13 +32665,13 @@ translate Schinese caveinchoice_ed1ddbb1:
 translate Schinese caveinchoice_c785bd68:
 
     # no "\"The want is there, when I think about it.\""
-    no "“只要我有心，就会有需求。”"
+    no_CN "“只要我有心，就会有需求。”"
 
 # game/nikroute3.rpy:10334
 translate Schinese caveinchoice_8519e340:
 
     # no "\"Even the thought of just eating and drinking are very...\""
-    no "“就算只是单纯的吃和喝也很...”"
+    no_CN "“就算只是单纯的吃和喝也很...”"
 
 # game/nikroute3.rpy:10439
 translate Schinese caveinchoice_2ddfd099:
@@ -32714,3 +32714,7271 @@ translate Schinese caveinchoice_83bd911e:
 
     # "Nik’s shirt is so slippery with his sweat that he’s getting hard to hold onto."
     "Nik的上衣被他的汗水浸得湿滑，越来越难搂住。"
+
+# TODO: Translation updated at 2024-02-03 13:08
+
+# game/nikroute3.rpy:5994
+translate Schinese nikroute3a_aa90d319:
+
+    # pa "\"You sayin’ it’s big old hot and heavy casting of Briggs’ cock and balls or somethin’?\""
+    pa "你难道想说是Briggs老二在喷发不成？"
+
+# game/nikroute3.rpy:7698
+translate Schinese sny4_f09dd96b:
+
+    # ya "\"I worry about your spiritual state.\""
+    ya "我很担心你的精神状况。"
+
+# game/nikroute3.rpy:10729
+translate Schinese caveinchoice_89e7f774:
+
+    # m "\"Do you think we could fit through those windows?\""
+    m "你们觉得能从这窗户走吗？"
+
+# game/nikroute3.rpy:10731
+translate Schinese caveinchoice_5c0f73c5:
+
+    # "I realize it’s a stupid idea right as I say it."
+    "我一说出口就觉得这主意很蠢。"
+
+# game/nikroute3.rpy:10733
+translate Schinese caveinchoice_90557d1c:
+
+    # m "\"Alright, I know we won’t fit, y’all don’t have to look at me like that.\""
+    m "好啦，我自己也知道没法从这走，你们别用那种眼神看我。"
+
+# game/nikroute3.rpy:10734
+translate Schinese caveinchoice_bd0b632a:
+
+    # ni @ talking "\"We’ll have to exit a window from the ground floor.\""
+    ni @ talking "我们得从一楼的窗户离开。"
+
+# game/nikroute3.rpy:10735
+translate Schinese caveinchoice_787a7a32:
+
+    # m "\"How will we avoid the guards?\""
+    m "那怎麽躲开警卫？"
+
+# game/nikroute3.rpy:10737
+translate Schinese caveinchoice_8aac01fd:
+
+    # ya "\"The back of the house overlooks a steep drop off.\""
+    ya "这房子后侧是悬崖。"
+
+# game/nikroute3.rpy:10739
+translate Schinese caveinchoice_2a38acbb:
+
+    # ya "\"We’ll have to climb down.\""
+    ya "我们要从那爬下去。"
+
+# game/nikroute3.rpy:10740
+translate Schinese caveinchoice_2e49287c:
+
+    # ni talking "\"The door’s over here.\""
+    ni talking "门在这里。"
+
+# game/nikroute3.rpy:10742
+translate Schinese caveinchoice_e57fd0be:
+
+    # ni talking "\"It isn’t locked.\""
+    ni talking "没锁。"
+
+# game/nikroute3.rpy:10744
+translate Schinese caveinchoice_39641874:
+
+    # ni eyestalking "\"We should hurry.\""
+    ni eyestalking "赶紧走吧。"
+
+# game/nikroute3.rpy:10749
+translate Schinese caveinchoice_dd463ef4:
+
+    # "The next room is cluttered with cans and storage."
+    "隔壁房间满是瓶罐跟储藏品。"
+
+# game/nikroute3.rpy:10750
+translate Schinese caveinchoice_4007c314:
+
+    # "We follow the corridor until it leads us into a corner."
+    "我们穿越走来来到一个转角。"
+
+# game/nikroute3.rpy:10751
+translate Schinese caveinchoice_a1ba0fae:
+
+    # "We follow it left into another narrow corridor that also guides us left."
+    "拐弯后，又是一条通往左侧的窄走廊。"
+
+# game/nikroute3.rpy:10755
+translate Schinese caveinchoice_52ec4f57:
+
+    # m "\"Why’s this place arranged to go counter-clockwise?\""
+    m "这地方怎麽是逆时针的设计？"
+
+# game/nikroute3.rpy:10757
+translate Schinese caveinchoice_be302526:
+
+    # ni "\"It feels like the stairs in a castle.\""
+    ni "跟城堡里的楼梯一样。"
+
+# game/nikroute3.rpy:10758
+translate Schinese caveinchoice_06d473e0:
+
+    # ni "\"Like it was expected that there could be things climbing up from the basement.\""
+    ni "像是预知了会有东西从地下室爬上来似的。"
+
+# game/nikroute3.rpy:10760
+translate Schinese caveinchoice_18c9c9b3:
+
+    # ni "\"Or maybe, this was what somebody used to expect.\""
+    ni "应该说以前有人这麽想。"
+
+# game/nikroute3.rpy:10765
+translate Schinese caveinchoice_c5fcbf34:
+
+    # "It guides us left, to a center room full of very expensive weight equipment."
+    "走廊向左通往一间满是非常昂贵的重训器材的大房间。"
+
+# game/nikroute3.rpy:10766
+translate Schinese caveinchoice_ecc7d69e:
+
+    # "I feel the padded leather seat and whistle quietly."
+    "我感受着加垫皮革椅的触感，小小吹了声口哨。"
+
+# game/nikroute3.rpy:10769
+translate Schinese caveinchoice_f758330d:
+
+    # m "\"These look way nicer than what y’all got out in the barn.\""
+    m "这些比你们放农仓里的东西好太多了吧。"
+
+# game/nikroute3.rpy:10770
+translate Schinese caveinchoice_06695879:
+
+    # m "\"Want to take a quick break just to sit in ‘em?\""
+    m "想休息一下体验看看吗？"
+
+# game/nikroute3.rpy:10772
+translate Schinese caveinchoice_6d92b8f4:
+
+    # ni "\"Gold ore is heavy enough to lift.\""
+    ni "金矿就已经够重了。"
+
+# game/nikroute3.rpy:10774
+translate Schinese caveinchoice_df4d690b:
+
+    # ya "\"Besides, we’re all sweating. \""
+    ya "而且我们还满身大汗。"
+
+# game/nikroute3.rpy:10775
+translate Schinese caveinchoice_b72221d5:
+
+    # ya "\"We shouldn’t leave a trace on anything.\""
+    ya "不该留下任何踪迹。"
+
+# game/nikroute3.rpy:10779
+translate Schinese caveinchoice_f1cffe32:
+
+    # m "\"Lighten’ up fellas.\""
+    m "放轻松点啦，伙计们。"
+
+# game/nikroute3.rpy:10780
+translate Schinese caveinchoice_552f4b70:
+
+    # m "\"I ain’t {i}actually{/i} suggesting we use it.\""
+    m "我又不是{i}认真的{/i}。"
+
+# game/nikroute3.rpy:10781
+translate Schinese caveinchoice_b0312258:
+
+    # "Truth be told, I always get an uncomfortable feeling when I enter somebody else’s house."
+    "老实说，每次我到别人家都不太自在。"
+
+# game/nikroute3.rpy:10785
+translate Schinese caveinchoice_2311dbb8:
+
+    # "To look alone is a privilege in a stranger’s home."
+    "能在陌生人家独自摸索可是种特权。"
+
+# game/nikroute3.rpy:10786
+translate Schinese caveinchoice_812601a6:
+
+    # "I used to pretend that every surface in a home was a hot stove top just to avoid giving my hosts the wrong impression."
+    "我以前都把任何表面当作烫炉子，以免冒犯主人。"
+
+# game/nikroute3.rpy:10787
+translate Schinese caveinchoice_315510cc:
+
+    # "The feeling is all that much worse when you know you shouldn’t be here."
+    "在知道自己不该身处此地的情况下，这感觉就更糟了。"
+
+# game/nikroute3.rpy:10788
+translate Schinese caveinchoice_3c8cf113:
+
+    # "But then again, this was the case with my old house too."
+    "不过跟我在老家时也差不多。"
+
+# game/nikroute3.rpy:10789
+translate Schinese caveinchoice_31b2c602:
+
+    # "So I’m used to it."
+    "我倒也习惯了。"
+
+# game/nikroute3.rpy:10791
+translate Schinese caveinchoice_b43e528e:
+
+    # "Nik’s voice is barely a whisper as he speaks."
+    "Nik开口时，音量仅仅比耳语大了点。"
+
+# game/nikroute3.rpy:10793
+translate Schinese caveinchoice_c7c3cf8e:
+
+    # ni "\"Found the stairs.\""
+    ni "找到楼梯了。"
+
+# game/nikroute3.rpy:10795
+translate Schinese caveinchoice_ccb815bf:
+
+    # "The three of us ascend slowly."
+    "我们三人慢条斯理地上楼。"
+
+# game/nikroute3.rpy:10796
+translate Schinese caveinchoice_63fee446:
+
+    # "None of us want to make a ruckus on a creaky stairwell."
+    "免得让楼梯发出磨轧声。"
+
+# game/nikroute3.rpy:10797
+translate Schinese caveinchoice_0fae963f:
+
+    # "We push open the door at the top of the stairwell as slowly as we can."
+    "上楼后，我们尽可能缓慢地推开眼前的门。"
+
+# game/nikroute3.rpy:10799
+translate Schinese caveinchoice_65d0d036:
+
+    # "It’s strange to see lights on in a house this early in the morning."
+    "这大白天的，家里还开着灯，很是奇怪。"
+
+# game/nikroute3.rpy:10800
+translate Schinese caveinchoice_512ba301:
+
+    # "But then I remember James has servants."
+    "然后才想起来James家里是有佣人的。"
+
+# game/nikroute3.rpy:10801
+translate Schinese caveinchoice_88d3d4a5:
+
+    # "The kind that do all of the housework before sunrise."
+    "会在天亮前就把所有家事打点好。"
+
+# game/nikroute3.rpy:10802
+translate Schinese caveinchoice_fb6e33a2:
+
+    # "Shit."
+    "操。"
+
+# game/nikroute3.rpy:10805
+translate Schinese caveinchoice_96fb1cb1:
+
+    # m "\"There’s candlelight on either side of us.\""
+    m "两边都有烛光。"
+
+# game/nikroute3.rpy:10807
+translate Schinese caveinchoice_aff0e952:
+
+    # ya "\"But there’s natural light to the right.\""
+    ya "但右边还有天然光。"
+
+# game/nikroute3.rpy:10808
+translate Schinese caveinchoice_577308cd:
+
+    # m "\"Won’t we get seen?\""
+    m "不怕被人撞见吗？"
+
+# game/nikroute3.rpy:10810
+translate Schinese caveinchoice_7fc54098:
+
+    # ya "\"Ideally, no, but I’d rather a servant who doesn’t know my face than a master who does.\""
+    ya "幸运的话不会，但就算被看见了，对方是不认识我们的佣人的话，总比认识我们的主人好。"
+
+# game/nikroute3.rpy:10812
+translate Schinese caveinchoice_af06a897:
+
+    # "He makes a bolt to the right."
+    "他冲向右边。"
+
+# game/nikroute3.rpy:10814
+translate Schinese caveinchoice_61d9221e:
+
+    # "Nik and I follow him and see it’s the den of the Hendricks family."
+    "Nik跟我紧随其后，来到Hendricks家的起居室。"
+
+# game/nikroute3.rpy:10815
+translate Schinese caveinchoice_94917db4:
+
+    # "It looks very clean, so the odds are good that nobody will come to dust it."
+    "非常整洁，八成不会有人来打扫。"
+
+# game/nikroute3.rpy:10817
+translate Schinese caveinchoice_bba6c8af:
+
+    # "There’s a big glass window with a latch and a rising frame."
+    "有扇带闩的离地大玻璃窗。"
+
+# game/nikroute3.rpy:10819
+translate Schinese caveinchoice_ee07676f:
+
+    # "Nik goes through first to test and see if it will fit us all since he’s the biggest."
+    "身体最大的Nik率先测试能不能通过。"
+
+# game/nikroute3.rpy:10820
+translate Schinese caveinchoice_e76f33a1:
+
+    # "He drops out of the window with a quiet thud in the dirt."
+    "他在窗外土地上落脚，发出微小的钝声。"
+
+# game/nikroute3.rpy:10822
+translate Schinese caveinchoice_545627d7:
+
+    # "Yao gets in position to go next, but before he exits the window, he takes a piece of twine from his pocket and ties it to the latch on the window."
+    "Yao准备接着通过，但他在踏出窗外前，从口袋中掏出一条细麻绳，绑在窗闩上。"
+
+# game/nikroute3.rpy:10824
+translate Schinese caveinchoice_ad1c9806:
+
+    # "Then he hops, as gracefully as ever in one fluid motion."
+    "然后优雅如流水地一跃而出。"
+
+# game/nikroute3.rpy:10826
+translate Schinese caveinchoice_7465c1cc:
+
+    # "He clears the landing area and motions me forward with his hands."
+    "落地后挪开位子，招手示意我接着上。"
+
+# game/nikroute3.rpy:10827
+translate Schinese caveinchoice_a4d1acfa:
+
+    # "I put one leg over and breath a sigh of relief when it’s not that far of a drop."
+    "我一脚跨出窗外，因为没想像中高而松了口气。"
+
+# game/nikroute3.rpy:10828
+translate Schinese caveinchoice_8ef80727:
+
+    # "But the confidence escapes me as I see candle light shining in the hall around the corner."
+    "但紧接着就有烛光从大厅角落传来，让我心顿时没了底。"
+
+# game/nikroute3.rpy:10829
+translate Schinese caveinchoice_d9b2ab19:
+
+    # "I swear, jumping out of the window as quickly as I can."
+    "我骂了句髒话，赶忙跳出窗子。"
+
+# game/nikroute3.rpy:10832
+translate Schinese caveinchoice_86f0c0a0:
+
+    # "Yao pulls on the twine to lower the window slowly."
+    "Yao拉动麻绳，慢慢放下窗户。"
+
+# game/nikroute3.rpy:10833
+translate Schinese caveinchoice_e42e926e:
+
+    # "I stay behind and crouch, looking through the glass just to make sure whoever’s holding the candle didn’t see me."
+    "我待在牆后往里看，确保没被刚才那人发现"
+
+# game/nikroute3.rpy:10834
+translate Schinese caveinchoice_4338bb02:
+
+    # "I expect to see somebody who looks like a maid or a butler."
+    "起初我以为会是女佣或管家。"
+
+# game/nikroute3.rpy:10835
+translate Schinese caveinchoice_3d0dc5b7:
+
+    # "But I see instead I see the mistress of the house, holding a candle."
+    "来的却是举着蜡烛的女主人。"
+
+# game/nikroute3.rpy:10836
+translate Schinese caveinchoice_269f90c0:
+
+    # "She’s followed by a fox with red fur."
+    "身后跟着一隻赤狐。"
+
+# game/nikroute3.rpy:10837
+translate Schinese caveinchoice_1548ee96:
+
+    # "She might be one of the Byrnes sisters but I’m not sure."
+    "她应该是Byrnes家里的姊妹之一，但我不太确定。"
+
+# game/nikroute3.rpy:10838
+translate Schinese caveinchoice_eeedff1d:
+
+    # "It’s a strange thing to see at the crack of dawn."
+    "天才刚亮就看到这种景象，实在太怪了。"
+
+# game/nikroute3.rpy:10839
+translate Schinese caveinchoice_111d9a09:
+
+    # "What’s stranger is they’re stopping at a book case."
+    "更怪的是，她们停在了一架书柜前。"
+
+# game/nikroute3.rpy:10840
+translate Schinese caveinchoice_31f8b259:
+
+    # "It looks like they’re rearranging chess pieces on a board."
+    "好像是在把棋盘上的棋子重新排列。"
+
+# game/nikroute3.rpy:10841
+translate Schinese caveinchoice_5db7a94f:
+
+    # "Also looks pretty crazy if I’m being honest."
+    "这景象也挺离奇的。"
+
+# game/nikroute3.rpy:10842
+translate Schinese caveinchoice_86c0a8c4:
+
+    # "A powerful force tugs on my sleeve."
+    "一股强大的力道拉住我的袖子。"
+
+# game/nikroute3.rpy:10847
+translate Schinese caveinchoice_b6c91c6a:
+
+    # ni "\"Sam, what are you doing?\""
+    ni "Sam，你在干嘛？"
+
+# game/nikroute3.rpy:10848
+translate Schinese caveinchoice_da0eb9fb:
+
+    # m "\"I just saw something weird going on.\""
+    m "我刚才看到了奇怪的事。"
+
+# game/nikroute3.rpy:10849
+translate Schinese caveinchoice_9c684182:
+
+    # "I look back and I don’t see anybody present."
+    "我一回头，却一个人影也不见。"
+
+# game/nikroute3.rpy:10850
+translate Schinese caveinchoice_7f4852fb:
+
+    # "If they overheard us that isn’t good."
+    "被她们听见我们的动静可就不妙了。"
+
+# game/nikroute3.rpy:10851
+translate Schinese caveinchoice_5bfe07a9:
+
+    # ni "\"Come on, we have to go!\""
+    ni "快，该走了！"
+
+# game/nikroute3.rpy:10854
+translate Schinese caveinchoice_16c464c7:
+
+    # "He tugs me harder and I’m almost sent sprawling."
+    "他更用力拉了我一把，害我差点爆冲出去。"
+
+# game/nikroute3.rpy:10857
+translate Schinese caveinchoice_401cde07:
+
+    # "We have to walk a few yard past the back of the Hendricks mansion to come upon the precipice."
+    "经过一段路后，我们才绕到Hendricks宅邸后方的峭壁边。"
+
+# game/nikroute3.rpy:10858
+translate Schinese caveinchoice_bebc8ad4:
+
+    # "It’s a much steeper drop than the window."
+    "段差比先前的窗户高得多。"
+
+# game/nikroute3.rpy:10859
+translate Schinese caveinchoice_4f062646:
+
+    # m "\"How the hell we gonna get down that?\""
+    m "这他妈怎麽下去？"
+
+# game/nikroute3.rpy:10860
+translate Schinese caveinchoice_dd711fa1:
+
+    # "Yao doesn’t answer and just starts climbing down with his bare hands."
+    "Yao没回答，直接开始徒手往下爬。"
+
+# game/nikroute3.rpy:10862
+translate Schinese caveinchoice_c099ec64:
+
+    # ni "\"We all have the claw strength to do it Sam.\""
+    ni "我们还有爪力呢。"
+
+# game/nikroute3.rpy:10863
+translate Schinese caveinchoice_5af91294:
+
+    # ni "\"Just go slow.\""
+    ni "爬慢点就行了。"
+
+# game/nikroute3.rpy:10865
+translate Schinese caveinchoice_fbe39efb:
+
+    # ni "\"I’ll go below you.\""
+    ni "我爬在你前面。"
+
+# game/nikroute3.rpy:10868
+translate Schinese caveinchoice_81fbfc8b:
+
+    # "It ain’t exactly worse than climbing down a rope in a dark cave."
+    "其实也没比在黑暗隧道中抓着绳子往下爬糟糕。"
+
+# game/nikroute3.rpy:10869
+translate Schinese caveinchoice_be6f8785:
+
+    # "But I don’t love the feeling of scrabbling down jagged, chunky rock with my claws."
+    "但我还是不太喜欢抓着凹凸不平的岩壁的感觉。"
+
+# game/nikroute3.rpy:10870
+translate Schinese caveinchoice_1bd8c8b4:
+
+    # "By the time I look down Yao has already made it to the bottom."
+    "我一往下看，发现Yao早就到地上了。"
+
+# game/nikroute3.rpy:10871
+translate Schinese caveinchoice_9ee45516:
+
+    # "He mouths that he’ll catch me if I fall."
+    "他的嘴型在说如果我摔下去，他会接住我。"
+
+# game/nikroute3.rpy:10872
+translate Schinese caveinchoice_97f67dee:
+
+    # "Or maybe he said he won’t catch me."
+    "也可能是在说不会接。"
+
+# game/nikroute3.rpy:10873
+translate Schinese caveinchoice_76da1e2c:
+
+    # "Times like this make me want to strangle him just a little bit."
+    "这种时候就会让我有点想掐死他。"
+
+# game/nikroute3.rpy:10874
+translate Schinese caveinchoice_e9235894:
+
+    # "Nik is a third of the way down when he gives me that urgent look he gives me when he thinks I’m in trouble."
+    "Nik爬了三分之一时，就焦急地望向我，眼神满是对我的担忧。"
+
+# game/nikroute3.rpy:10876
+translate Schinese caveinchoice_e533159a:
+
+    # "I take a quick breath and hop down to a lower outcropping of rocks, making the mansion above me disappear from view."
+    "我短短换了口气，跳到一块突出的岩壁上，宅邸从视线中消失。"
+
+# game/nikroute3.rpy:10878
+translate Schinese caveinchoice_c7c395b6:
+
+    # "Hell of a lot easier going down stuff like this cliff after we’ve been running around in that mine."
+    "有了在那矿坑中跑路的经验，爬下这种悬崖也都感觉轻松多了。"
+
+# game/nikroute3.rpy:10881
+translate Schinese caveinchoice_8d72b237:
+
+    # "I’m thankful it’s still dark on this side of the of the land."
+    "幸亏这一侧的大地还是暗的。"
+
+# game/nikroute3.rpy:10882
+translate Schinese caveinchoice_2f79b430:
+
+    # "Because if it were somebody’s job to watch this hill and take shots at anybody going down then we’d probably be dead already."
+    "这山坡如果有人看守，对着正在攀爬的我们射击，我们就全死透了。"
+
+# game/nikroute3.rpy:10883
+translate Schinese caveinchoice_a62d6b44:
+
+    # "It helps some that the bottom ends in a little copse of trees."
+    "崖底有一小丛矮林，真是幸运。"
+
+# game/nikroute3.rpy:10884
+translate Schinese caveinchoice_5a4fb670:
+
+    # m "\"We made--\""
+    m "我们终于——"
+
+# game/nikroute3.rpy:10886
+translate Schinese caveinchoice_53238827:
+
+    # "Nik tackles me, dragging me down into the undergrowth."
+    "Nik一把将我扑倒，把我拉到灌木丛里。"
+
+# game/nikroute3.rpy:10888
+translate Schinese caveinchoice_d34878a4:
+
+    # "I hear a gunshot."
+    "一声枪响传来。"
+
+# game/nikroute3.rpy:10890
+translate Schinese caveinchoice_999a239b:
+
+    # "Wolf" "\"You see somethin’ out there.\""
+    "Wolf" "你看到什麽了吗？"
+
+# game/nikroute3.rpy:10891
+translate Schinese caveinchoice_42c47bb3:
+
+    # "Dog" "\"Yeah.\""
+    "Dog" "对呀。"
+
+# game/nikroute3.rpy:10892
+translate Schinese caveinchoice_4d146c63:
+
+    # "Dog" "\"Thought I heard voices too.\""
+    "Dog" "好像还听到了什麽动静。"
+
+# game/nikroute3.rpy:10893
+translate Schinese caveinchoice_0efecf26:
+
+    # "Wolf" "\"I didn’t hear any.\""
+    "Wolf" "我没听见。"
+
+# game/nikroute3.rpy:10894
+translate Schinese caveinchoice_190f63f4:
+
+    # "Dog" "\"Doesn’t mean there wasn’t none.\""
+    "Dog" "那也不代表没有。"
+
+# game/nikroute3.rpy:10895
+translate Schinese caveinchoice_b5d1ff62:
+
+    # "Wolf" "\"People or animals, you probably scared ‘em off with that shot.\""
+    "Wolf" "不管是人还是动物，早就被你这一枪吓走了吧。"
+
+# game/nikroute3.rpy:10896
+translate Schinese caveinchoice_8fa18e86:
+
+    # "Wolf" "\"You shouldn’t waste your bullets.\""
+    "Wolf" "别浪费子弹。"
+
+# game/nikroute3.rpy:10897
+translate Schinese caveinchoice_b96172a4:
+
+    # "Dog" "\"Wasn’t wasted if I hit one of ‘em.\""
+    "Dog" "要是打中了就不算浪费。"
+
+# game/nikroute3.rpy:10898
+translate Schinese caveinchoice_056e390e:
+
+    # "Wolf" "\"Guess we’ll know soon enough.\""
+    "Wolf" "等等就知道了。"
+
+# game/nikroute3.rpy:10899
+translate Schinese caveinchoice_6227e705:
+
+    # "We don’t move for at least a half an hour until their voices fade off into the distance."
+    "我们按兵不动至少半个小时，他们的声音才渐行渐远。"
+
+# game/nikroute3.rpy:10900
+translate Schinese caveinchoice_6900ada4:
+
+    # "Yao starts crawling on all fours."
+    "Yao匍匐前行。"
+
+# game/nikroute3.rpy:10901
+translate Schinese caveinchoice_502fd6e8:
+
+    # "Nik follows his lead, then me."
+    "Nik也照做，然后是我。"
+
+# game/nikroute3.rpy:10902
+translate Schinese caveinchoice_3b795181:
+
+    # "I wonder how far we need to crawl from the cliff and the woods to steer clear of shoot-first-and ask-later territory."
+    "不知道得从悬崖跟树丛爬多久才能离开这先射后奏的地盘。"
+
+# game/nikroute3.rpy:10903
+translate Schinese caveinchoice_fa6c7b62:
+
+    # "Apparently enough when all the trees thin out."
+    "结果在树丛的另一头就够了。"
+
+# game/nikroute3.rpy:10904
+translate Schinese caveinchoice_489071cb:
+
+    # "My heart jumps for joy when I see the dirt road that leads back into town."
+    "一看到通向镇上的土路，我就欣喜若狂。"
+
+# game/nikroute3.rpy:10907
+translate Schinese caveinchoice_723ca4d6:
+
+    # m "\"Shit, that was close.\""
+    m "干，刚刚超险的。"
+
+# game/nikroute3.rpy:10909
+translate Schinese caveinchoice_d8dcd845:
+
+    # "The tiger just stares at me again."
+    "老虎盯着我看。"
+
+# game/nikroute3.rpy:10910
+translate Schinese caveinchoice_4d1953c4:
+
+    # "He walks towards me and I flinch like he’s about about to punch me."
+    "他朝我走来，我以为会被他揍而惊了一下。"
+
+# game/nikroute3.rpy:10913
+translate Schinese caveinchoice_0381c76b:
+
+    # "But he grabs me tight by the shoulders and kisses me on the mouth."
+    "但他紧紧抓住我的双肩，与我接吻。"
+
+# game/nikroute3.rpy:10915
+translate Schinese caveinchoice_9cb1daff:
+
+    # ni "\"Hey!\""
+    ni "喂！"
+
+# game/nikroute3.rpy:10917
+translate Schinese caveinchoice_7d290232:
+
+    # "Then he pushes me away and start to laugh."
+    "然后推开我，放声大笑。"
+
+# game/nikroute3.rpy:10919
+translate Schinese caveinchoice_2a75a864:
+
+    # m "\"What the hell was that for?!\""
+    m "你干嘛啊！？"
+
+# game/nikroute3.rpy:10921
+translate Schinese caveinchoice_d92fc191:
+
+    # ya "\"We did it you fool!\""
+    ya "我们成功啦，蠢货！"
+
+# game/nikroute3.rpy:10922
+translate Schinese caveinchoice_48d00a3c:
+
+    # ya "\"We’re alive and we’re rich!\""
+    ya "活得好好的，还发财囉！"
+
+# game/nikroute3.rpy:10925
+translate Schinese caveinchoice_715aae9e:
+
+    # "Nik places his hand on Yao’s chest, and, very slowly pushes him out of the way."
+    "Nik一手按住Yao的胸膛，用最小的力道将他推开。"
+
+# game/nikroute3.rpy:10927
+translate Schinese caveinchoice_5c494125:
+
+    # "Then he kisses me on the mouth."
+    "然后一口亲在我嘴上。"
+
+# game/nikroute3.rpy:10928
+translate Schinese caveinchoice_384789df:
+
+    # "For a noticeably longer time than Yao."
+    "持续得比Yao刚才久得多，"
+
+# game/nikroute3.rpy:10930
+translate Schinese caveinchoice_f83b4862:
+
+    # "Then he breaks away."
+    "才松开嘴。"
+
+# game/nikroute3.rpy:10931
+translate Schinese caveinchoice_908417e8:
+
+    # "Looks me over."
+    "上下打量我。"
+
+# game/nikroute3.rpy:10933
+translate Schinese caveinchoice_0ca929a0:
+
+    # "Then dips in to kiss me again."
+    "然后又亲了我一口。"
+
+# game/nikroute3.rpy:10934
+translate Schinese caveinchoice_b9a33000:
+
+    # m "\"Alright already.\""
+    m "够了啦。"
+
+# game/nikroute3.rpy:10936
+translate Schinese caveinchoice_8c478c0d:
+
+    # "I push him back and look around us."
+    "我推开他，环顾四周。"
+
+# game/nikroute3.rpy:10937
+translate Schinese caveinchoice_065b4d1f:
+
+    # m "\"The daylight’s starting to get stronger now.\""
+    m "天越来越亮了。"
+
+# game/nikroute3.rpy:10939
+translate Schinese caveinchoice_bd2fedf8:
+
+    # ya "\"You are not getting away without one either!\""
+    ya "也有你的份！"
+
+# game/nikroute3.rpy:10942
+translate Schinese caveinchoice_86f0535e:
+
+    # "Now that Nik is free of me, the tiger goes in on the badger for a kiss."
+    "Nik和我分开后，老虎就一亲而上。"
+
+# game/nikroute3.rpy:10944
+translate Schinese caveinchoice_424eb110:
+
+    # "Nik lets out a muffled cry of surprise."
+    "Nik发出模糊不清的惊呼声。"
+
+# game/nikroute3.rpy:10946
+translate Schinese caveinchoice_3b07cebb:
+
+    # "But once he’s over the shock and the squirming, he doesn’t push away."
+    "但震惊过后，他也没推开。"
+
+# game/nikroute3.rpy:10948
+translate Schinese caveinchoice_da9b57cf:
+
+    # m "\"Gentlemen this is a road.\""
+    m "这可是大马路上啊，男士们。"
+
+# game/nikroute3.rpy:10951
+translate Schinese caveinchoice_001e7461:
+
+    # "Yao breaks the smack, laughing like a lunatic."
+    "Yao别开吻，狂笑起来。"
+
+# game/nikroute3.rpy:10952
+translate Schinese caveinchoice_795f38bc:
+
+    # "It’s the least restrained I’ve ever seen him."
+    "这是我看过他最放得开的时候。"
+
+# game/nikroute3.rpy:10954
+translate Schinese caveinchoice_9f0a7e57:
+
+    # ya "\"Just one train ticket and we’re--\""
+    ya "只差一张火车票咱们就——"
+
+# game/nikroute3.rpy:10956
+translate Schinese caveinchoice_fc9eecf6:
+
+    # "He sobers up, as if remembering something."
+    "他戛然而止，貌似想起些什麽。"
+
+# game/nikroute3.rpy:10960
+translate Schinese caveinchoice_6e462fed:
+
+    # ya "\"Well, you’re both free.\""
+    ya "呃，你们就自由了。"
+
+# game/nikroute3.rpy:10962
+translate Schinese caveinchoice_9b18edad:
+
+    # m "\"So are you.\""
+    m "你也是啊。"
+
+# game/nikroute3.rpy:10963
+translate Schinese caveinchoice_726fa156:
+
+    # "His lips thin."
+    "他抿着唇。"
+
+# game/nikroute3.rpy:10965
+translate Schinese caveinchoice_fdcc234c:
+
+    # ya "\"Perhaps.\""
+    ya "算是吧。"
+
+# game/nikroute3.rpy:10967
+translate Schinese caveinchoice_c441fb55:
+
+    # ya "\"I still have a lot to think about.\""
+    ya "我还有很多后顾之忧。"
+
+# game/nikroute3.rpy:10968
+translate Schinese caveinchoice_601ac079:
+
+    # m "\"I may need to rethink some approaches.\""
+    m "我也得重新想想一些事。"
+
+# game/nikroute3.rpy:10970
+translate Schinese caveinchoice_d372de95:
+
+    # ya "\"There are important decisions I have yet to be make.\""
+    ya "还有些重要的抉择等着我做。"
+
+# game/nikroute3.rpy:10978
+translate Schinese nikroute3c2_5e024907:
+
+    # "As I step backwards, I suddenly understand Ben’s impulse."
+    "我后退一步，突然理解了Ben的冲动。"
+
+# game/nikroute3.rpy:10979
+translate Schinese nikroute3c2_bb13e44b:
+
+    # "I don’t give a damn if there are rocks or drops into river water behind us."
+    "我才不管身后是岩壁还是无底河。"
+
+# game/nikroute3.rpy:10980
+translate Schinese nikroute3c2_ea7474d2:
+
+    # "My eyes are glued to the thing in front of us."
+    "我眼中只有前面那个东西。"
+
+# game/nikroute3.rpy:10981
+translate Schinese nikroute3c2_b6543b2f:
+
+    # "All I can think about is wanting to get away, wanting to see anything but those lights."
+    "我只想逃跑，别再看到那些光点。"
+
+# game/nikroute3.rpy:10993
+translate Schinese nikroute3c2_810510fa:
+
+    # "But then they dim."
+    "但光点黯淡下来。"
+
+# game/nikroute3.rpy:10995
+translate Schinese nikroute3c2_60e8252c:
+
+    # "That monster spider that crouched over Nate’s body like a fallen angel had disappeared, as if they were never here."
+    "像隻堕天使般蹲伏在Nate身边的蜘蛛怪物消失无踪，彷彿打从一开始就不存在。"
+
+# game/nikroute3.rpy:10996
+translate Schinese nikroute3c2_2ea5a787:
+
+    # "And now we’re in the dark once again."
+    "我们再度回归黑暗中。"
+
+# game/nikroute3.rpy:11001
+translate Schinese nikroute3c2_b170a526:
+
+    # m "\"Is it gone for good this time?\""
+    m "它不会再回来了吗？"
+
+# game/nikroute3.rpy:11004
+translate Schinese nikroute3c2_e5ebdb82:
+
+    # "I hear Nik’s clothes rustle."
+    "Nik衣服的摩擦声传来。"
+
+# game/nikroute3.rpy:11006
+translate Schinese nikroute3c2_c226ef95:
+
+    # ni "\"Don’t know.\""
+    ni "不知道。"
+
+# game/nikroute3.rpy:11007
+translate Schinese nikroute3c2_e249bb8b:
+
+    # m "\"Well it was bright wasn’t it?\""
+    m "它不是很亮吗？"
+
+# game/nikroute3.rpy:11008
+translate Schinese nikroute3c2_6cf06273:
+
+    # m "\"Hard to miss something that glows.\""
+    m "应该不会看漏吧。"
+
+# game/nikroute3.rpy:11009
+translate Schinese nikroute3c2_8c82d21a:
+
+    # "He doesn’t answer me."
+    "他没回答。"
+
+# game/nikroute3.rpy:11011
+translate Schinese nikroute3c2_7304d2a6:
+
+    # ni "\"We need to go get those tools.\""
+    ni "我们得去拿工具。"
+
+# game/nikroute3.rpy:11013
+translate Schinese nikroute3c2_65f2de79:
+
+    # m "\"Tools?\""
+    m "工具？"
+
+# game/nikroute3.rpy:11014
+translate Schinese nikroute3c2_4c7d3cc4:
+
+    # "How could he be thinking about tools after what we just saw."
+    "比起刚才眼前的景象，他竟然更在意工具？"
+
+# game/nikroute3.rpy:11015
+translate Schinese nikroute3c2_ff406288:
+
+    # "How horrible it was up close."
+    "那东西都近在眼前了。"
+
+# game/nikroute3.rpy:11016
+translate Schinese nikroute3c2_4692cb2b:
+
+    # "We can’t deny now that whatever’s down here is real and wrong."
+    "现在已经没办法再否定那东西的存在与亵渎。"
+
+# game/nikroute3.rpy:11018
+translate Schinese nikroute3c2_496bf636:
+
+    # m "\"We just saw the sort of thing that crawls around in places {i}absent{/i} of {i}God{/i}, Nik.\""
+    m "我们刚刚可是亲眼目睹了在这种{i}无神{/i}之地会出现的东西啊，Nik。"
+
+# game/nikroute3.rpy:11019
+translate Schinese nikroute3c2_d25f163e:
+
+    # "His back is turned to me, trotting toward near where Ben left his equipment."
+    "他背对着我，迈步走向Ben的装备。"
+
+# game/nikroute3.rpy:11020
+translate Schinese nikroute3c2_9ffe61e0:
+
+    # ni "\"What does it matter what we saw?\""
+    ni "看到了又怎样？"
+
+# game/nikroute3.rpy:11024
+translate Schinese nikroute3c2_d9cdb342:
+
+    # "Now he’s trudging towards a wall, testing something that sounds like a pick against stone."
+    "然后走向岩壁，镐子敲击岩石的声音随之而来。"
+
+# game/nikroute3.rpy:11028
+translate Schinese nikroute3c2_c749522f:
+
+    # "I walk on over to him, at a loss of what to say."
+    "我靠近他，不知道该说什麽。"
+
+# game/nikroute3.rpy:11030
+translate Schinese nikroute3c2_63033175:
+
+    # m "\"Well...\""
+    m "呃……"
+
+# game/nikroute3.rpy:11031
+translate Schinese nikroute3c2_8ac4f39f:
+
+    # "I hinge my knees and crouch down quietly beside him."
+    "我默默蹲坐在他身后。"
+
+# game/nikroute3.rpy:11032
+translate Schinese nikroute3c2_0e64f293:
+
+    # m "\"Because, once again, we saw with our own eyes that demons walk this earth.\""
+    m "因为我们又见证了恶魔出没。"
+
+# game/nikroute3.rpy:11035
+translate Schinese nikroute3c2_7dbab5f7:
+
+    # "He’s rummaging through a bag now."
+    "他翻找起袋子里的东西来。"
+
+# game/nikroute3.rpy:11036
+translate Schinese nikroute3c2_310f6141:
+
+    # m "\"Are you even listenin’ to me?\""
+    m "你有在听吗？"
+
+# game/nikroute3.rpy:11039
+translate Schinese nikroute3c2_8dd1c319:
+
+    # "He raises his voice a little."
+    "他稍微提高音量。"
+
+# game/nikroute3.rpy:11041
+translate Schinese nikroute3c2_7ff48410:
+
+    # ni "\"That’s not important right now.\""
+    ni "现在先别管那个了。"
+
+# game/nikroute3.rpy:11042
+translate Schinese nikroute3c2_6d1fbc27:
+
+    # m "\"Not important?\""
+    m "别管？"
+
+# game/nikroute3.rpy:11043
+translate Schinese nikroute3c2_3731fb98:
+
+    # ni "\"We could die, Sam.\""
+    ni "我们可能会死啊，Sam。"
+
+# game/nikroute3.rpy:11044
+translate Schinese nikroute3c2_9b6f11a5:
+
+    # "I shake my head and hold up my hand."
+    "我摇头，抬起手来。"
+
+# game/nikroute3.rpy:11045
+translate Schinese nikroute3c2_5f4ae4c6:
+
+    # m "\"This could follow us well past our grave.\""
+    m "它可能会跟着我们一辈子。"
+
+# game/nikroute3.rpy:11047
+translate Schinese nikroute3c2_44900edb:
+
+    # ni "\"Then I am not interested in finding such things out yet.\""
+    ni "我还没兴趣知道会不会。"
+
+# game/nikroute3.rpy:11048
+translate Schinese nikroute3c2_ecbe0be6:
+
+    # ni "\"We might run out of air.\""
+    ni "空气可能会先耗光。"
+
+# game/nikroute3.rpy:11049
+translate Schinese nikroute3c2_1def33ef:
+
+    # "I know he’s doing the right thing right now, but I can’t help but feel a little frustrated that he doesn’t want to think about any of this."
+    "我是知道他是对的，但就是有点不爽他根本不去想这些事。"
+
+# game/nikroute3.rpy:11051
+translate Schinese nikroute3c2_d2264f71:
+
+    # ni "\"I am getting you out of here before anything else can happen.\""
+    ni "我要在其他事发生前把你弄出去。"
+
+# game/nikroute3.rpy:11052
+translate Schinese nikroute3c2_51e194eb:
+
+    # "I know he probably can't see me from where he has his light pointed, but I shake my head anyway."
+    "我知道以他光照的方向，他大概看不到我，但我还是摇摇头。"
+
+# game/nikroute3.rpy:11054
+translate Schinese nikroute3c2_e2a8d0a1:
+
+    # m "\"Now hold on just a minute, Nik.\""
+    m "你先等一下，Nik。"
+
+# game/nikroute3.rpy:11055
+translate Schinese nikroute3c2_d519eeaa:
+
+    # m "\"I agreed to come on down here because I wanted to make sure nothing happened to you.\""
+    m "我会一起来，就是因为我想确保你不会有事。"
+
+# game/nikroute3.rpy:11056
+translate Schinese nikroute3c2_3ba0a249:
+
+    # m "\"I’m not the only one who needs help here.\""
+    m "这里不只有我一个人需要帮助。"
+
+# game/nikroute3.rpy:11058
+translate Schinese nikroute3c2_b794a00b:
+
+    # ni "\"Stop talking.\""
+    ni "别说了。"
+
+# game/nikroute3.rpy:11059
+translate Schinese nikroute3c2_0507c9a8:
+
+    # "His raised voice cuts through the quiet of the chamber."
+    "他提高的音量划破岩室的寂静。"
+
+# game/nikroute3.rpy:11060
+translate Schinese nikroute3c2_ca750df2:
+
+    # "If something’s still here, it had to have heard us."
+    "如果有东西在这，一定能听得一清二楚。"
+
+# game/nikroute3.rpy:11061
+translate Schinese nikroute3c2_f2c86e94:
+
+    # "But nothing comes."
+    "但没有东西杀来。"
+
+# game/nikroute3.rpy:11062
+translate Schinese nikroute3c2_944c6e29:
+
+    # ni "\"I said that I am getting you out of here.\""
+    ni "我说了，我会把你弄出去。"
+
+# game/nikroute3.rpy:11063
+translate Schinese nikroute3c2_5058f956:
+
+    # "I’ve never heard Nik sound so forceful when talking to me, or hear his breath so ragged."
+    "我从没听过Nik对我用这麽强硬的语气说话，也没听过他气息如此紊乱。"
+
+# game/nikroute3.rpy:11064
+translate Schinese nikroute3c2_c0c449be:
+
+    # ni "\"That I am getting you out of here.\""
+    ni "我会把你弄出去。"
+
+# game/nikroute3.rpy:11065
+translate Schinese nikroute3c2_6356c513:
+
+    # ni "\"So that is what we are doing.\""
+    ni "这就是我们要做的事。"
+
+# game/nikroute3.rpy:11067
+translate Schinese nikroute3c2_fedcc956:
+
+    # ni "\"That is what I am doing.\""
+    ni "这就是我要做的事。"
+
+# game/nikroute3.rpy:11069
+translate Schinese nikroute3c2_b1c0ff19:
+
+    # ni "\"I already killed a man to keep that promise, Sam.\""
+    ni "为了保守这约定，我已经杀了一个人了，Sam。"
+
+# game/nikroute3.rpy:11070
+translate Schinese nikroute3c2_29e72ff9:
+
+    # "I wait a spell for him to continue, but he doesn’t."
+    "我静静等他继续说，但他打住了。"
+
+# game/nikroute3.rpy:11072
+translate Schinese nikroute3c2_7a3b77f9:
+
+    # "We stand there in the dark for a while."
+    "我们就这样站在黑暗中。"
+
+# game/nikroute3.rpy:11074
+translate Schinese nikroute3c2_d17f40f4:
+
+    # "We hear water from the stalagmites drip."
+    "水滴从钟乳石落下的声音传来。"
+
+# game/nikroute3.rpy:11075
+translate Schinese nikroute3c2_a03d8ec6:
+
+    # "Nothing else but that, and runnin’ water, and the sound of our own breathing."
+    "除此之外，也只能听见流水和我们自己呼吸的声音。"
+
+# game/nikroute3.rpy:11078
+translate Schinese nikroute3c2_c30a07b6:
+
+    # m "\"I killed a man too, Nik.\""
+    m "我也杀了人啊，Nik。"
+
+# game/nikroute3.rpy:11079
+translate Schinese nikroute3c2_2673d6b0:
+
+    # "My lips go dry."
+    "我变得口乾舌燥。"
+
+# game/nikroute3.rpy:11080
+translate Schinese nikroute3c2_281a4654:
+
+    # m "\"And it was the worst thing that ever happened to me.\""
+    m "那就是我身上发生过最糟的事。"
+
+# game/nikroute3.rpy:11083
+translate Schinese nikroute3c2_f8148ac4:
+
+    # "He curses."
+    "他咒骂一声。"
+
+# game/nikroute3.rpy:11084
+translate Schinese nikroute3c2_069ac4fd:
+
+    # "But not at me."
+    "但不是在骂我。"
+
+# game/nikroute3.rpy:11085
+translate Schinese nikroute3c2_d4d22f35:
+
+    # "I can tell he was looking for dynamite."
+    "我看得出他是在找炸药。"
+
+# game/nikroute3.rpy:11086
+translate Schinese nikroute3c2_fc4baca7:
+
+    # m "\"I hope you’re alright.\""
+    m "希望你过得去。"
+
+# game/nikroute3.rpy:11087
+translate Schinese nikroute3c2_57091740:
+
+    # m "\"As alright as you could be.\""
+    m "能过得了这道砍。"
+
+# game/nikroute3.rpy:11089
+translate Schinese nikroute3c2_fe33ec1e:
+
+    # "I hear Nik exhale."
+    "Nik的叹气声传来。"
+
+# game/nikroute3.rpy:11090
+translate Schinese nikroute3c2_1b999464:
+
+    # ni "\"You think I’ve never thought of it?\""
+    ni "你以为我没想过吗？"
+
+# game/nikroute3.rpy:11091
+translate Schinese nikroute3c2_17799653:
+
+    # "I pause."
+    "我顿了一下。"
+
+# game/nikroute3.rpy:11092
+translate Schinese nikroute3c2_f117f751:
+
+    # m "\"Thought of what?\""
+    m "想什麽？"
+
+# game/nikroute3.rpy:11094
+translate Schinese nikroute3c2_e0917bc0:
+
+    # "Nikolai lets his paws droop to his sides."
+    "Nikolai双爪垂到身旁。"
+
+# game/nikroute3.rpy:11096
+translate Schinese nikroute3c2_1232a2de:
+
+    # ni "\"Doing the things Paul speaks about doing freely.\""
+    ni "做Paul讲过要做的那些事。"
+
+# game/nikroute3.rpy:11099
+translate Schinese nikroute3c2_833086e0:
+
+    # ni "\"Hurting the people who hurt my friends, so we can prosper.\""
+    ni "伤害那些伤害我朋友的人，让我们过得更好。"
+
+# game/nikroute3.rpy:11101
+translate Schinese nikroute3c2_54e4dcda:
+
+    # "There’s an edge in his tone."
+    "他语带刻薄。"
+
+# game/nikroute3.rpy:11102
+translate Schinese nikroute3c2_d890aa7e:
+
+    # m "\"I’ve never heard you talk about that sort of thing.\""
+    m "我从来没听你谈过这种事。"
+
+# game/nikroute3.rpy:11104
+translate Schinese nikroute3c2_6838e348:
+
+    # "Nik closes his eyes."
+    "Nik阖上眼。"
+
+# game/nikroute3.rpy:11106
+translate Schinese nikroute3c2_250bfb3e:
+
+    # "Then opens them."
+    "然后又睁开。"
+
+# game/nikroute3.rpy:11108
+translate Schinese nikroute3c2_bfde10cb:
+
+    # ni "\"When Paul talks about burning barns, the worst he gets is praise.\""
+    ni "Paul说要烧毁农仓的时候，也还是会受人拥戴。"
+
+# game/nikroute3.rpy:11109
+translate Schinese nikroute3c2_d3313824:
+
+    # ni "\"If I ever speak the worst of what is on my mind, I am on a boat back to Lakhia for betrayal of the commonwealth.\""
+    ni "但要是换作我把内心最恶劣的想法脱口而出，我就会因为涉嫌扰乱治安而被遣返回拉克希亚。"
+
+# game/nikroute3.rpy:11111
+translate Schinese nikroute3c2_4e50e17e:
+
+    # ni "\"This man I killed...\""
+    ni "我杀的这个男人……"
+
+# game/nikroute3.rpy:11112
+translate Schinese nikroute3c2_f8c4f115:
+
+    # ni "\"He likely has a family.\""
+    ni "他大概也有家庭。"
+
+# game/nikroute3.rpy:11113
+translate Schinese nikroute3c2_aeca2ff7:
+
+    # "He shakes his head."
+    "他摇摇头。"
+
+# game/nikroute3.rpy:11114
+translate Schinese nikroute3c2_72ea525f:
+
+    # ni "\"Had a family.\""
+    ni "曾有家庭。"
+
+# game/nikroute3.rpy:11115
+translate Schinese nikroute3c2_af30cf4a:
+
+    # "Now I start to bite my lip."
+    "我咬着唇。"
+
+# game/nikroute3.rpy:11116
+translate Schinese nikroute3c2_ecaaea69:
+
+    # m "\"So do I.\""
+    m "我也有啊。"
+
+# game/nikroute3.rpy:11117
+translate Schinese nikroute3c2_e47daa0f:
+
+    # "Technically."
+    "就事实而言。"
+
+# game/nikroute3.rpy:11118
+translate Schinese nikroute3c2_9cc2bbcf:
+
+    # m "\"Those stones he threw hurt like hell.\""
+    m "他那些石头砸得我很疼。"
+
+# game/nikroute3.rpy:11119
+translate Schinese nikroute3c2_5b1ca25b:
+
+    # m "\"If you hadn’t done anything it would have been me who was dead.\""
+    m "要不是你出手，我这会可能都已经死了。"
+
+# game/nikroute3.rpy:11120
+translate Schinese nikroute3c2_be624145:
+
+    # ni "\"All I had to do was stop him.\""
+    ni "我本来只要阻止他就够了。"
+
+# game/nikroute3.rpy:11121
+translate Schinese nikroute3c2_6181e888:
+
+    # ni "\"Not kill him.\""
+    ni "不必杀他的。"
+
+# game/nikroute3.rpy:11122
+translate Schinese nikroute3c2_23662c5b:
+
+    # m "\"But then we would have been trapped in here with ‘em.\""
+    m "但那样的话，我们就会跟他们一起被困在这。"
+
+# game/nikroute3.rpy:11123
+translate Schinese nikroute3c2_9f513ba0:
+
+    # "Who knows what he might have done."
+    "谁知道到时候他们会做些什麽。"
+
+# game/nikroute3.rpy:11124
+translate Schinese nikroute3c2_7fe6ebde:
+
+    # "Or more importantly..."
+    "更准确地说……"
+
+# game/nikroute3.rpy:11125
+translate Schinese nikroute3c2_3a9c7b3c:
+
+    # "...who that thing would have went after if Nate wasn’t there for it."
+    "……要不是有Nate，谁知道那东西到时候会袭击谁。"
+
+# game/nikroute3.rpy:11126
+translate Schinese nikroute3c2_5e9f7c51:
+
+    # "Somehow I know it would have been me."
+    "我总觉得会是我。"
+
+# game/nikroute3.rpy:11127
+translate Schinese nikroute3c2_666a5b8e:
+
+    # ni "\"When Yao comes back he’ll bring help.\""
+    ni "Yao去找救兵了。"
+
+# game/nikroute3.rpy:11129
+translate Schinese nikroute3c2_379e190b:
+
+    # ni "\"Somebody will put together that we were here, and so was Ben’s crew.\""
+    ni "肯定有人会想明白我们跟Ben的队伍都在这。"
+
+# game/nikroute3.rpy:11130
+translate Schinese nikroute3c2_bc4ef451:
+
+    # ni "\"Especially if they see a body.\""
+    ni "更不用说还有尸体在了。"
+
+# game/nikroute3.rpy:11132
+translate Schinese nikroute3c2_5abcd4e6:
+
+    # "This was Yao’s plan in the first place."
+    "这一开始就是Yao的主意。"
+
+# game/nikroute3.rpy:11133
+translate Schinese nikroute3c2_ee612a00:
+
+    # "The fact that he isn’t stuck here in this god forsaken tunnel is a bitter pill to swallow."
+    "让我更加难以接受他没一起被困在这鬼地方的事实。"
+
+# game/nikroute3.rpy:11135
+translate Schinese nikroute3c2_d0e2f107:
+
+    # m "\"So what makes you think he’ll come back for us?\""
+    m "你怎麽觉得他会回来救我们？"
+
+# game/nikroute3.rpy:11136
+translate Schinese nikroute3c2_a84ceeab:
+
+    # m "\"Do you really think he’ll risk his neck for us when we’re this exposed?\""
+    m "我们行踪都暴露了，你真的以为他还会愿意冒这个险？"
+
+# game/nikroute3.rpy:11137
+translate Schinese nikroute3c2_a667c5e8:
+
+    # m "\"Aren’t we animals in a cage down here?\""
+    m "我们这算是笼中困兽了吧？"
+
+# game/nikroute3.rpy:11139
+translate Schinese nikroute3c2_6492a509:
+
+    # ni "\"He wouldn’t abandon us Sam.\""
+    ni "他不会丢下我们的，Sam。"
+
+# game/nikroute3.rpy:11141
+translate Schinese nikroute3c2_509036de:
+
+    # m "\"...didn’t it ever seem like he’d disappear at the first sign of trouble?\""
+    m "……你难道不觉得他是出事会先跑掉的那种人吗？"
+
+# game/nikroute3.rpy:11142
+translate Schinese nikroute3c2_2c4a7303:
+
+    # m "\"He never marked me as somebody who’d pay for others’ mistakes.\""
+    m "我从来不觉得他会给别人的过错买单。"
+
+# game/nikroute3.rpy:11143
+translate Schinese nikroute3c2_8f812f16:
+
+    # ni @ talking "\"The cave-in isn’t our fault Sam.\""
+    ni @ talking "坍方不是我们的错啊，Sam。"
+
+# game/nikroute3.rpy:11144
+translate Schinese nikroute3c2_28fe85b5:
+
+    # m "\"But would he see it that way?\""
+    m "但他会这麽想吗？"
+
+# game/nikroute3.rpy:11146
+translate Schinese nikroute3c2_b96f1255:
+
+    # ni "\"...I don’t know.\""
+    ni "……我不知道。"
+
+# game/nikroute3.rpy:11147
+translate Schinese nikroute3c2_59c99395:
+
+    # m "\"He didn’t see Ben or his people like we did.\""
+    m "他跟我们不一样，没看到Ben那团人。"
+
+# game/nikroute3.rpy:11148
+translate Schinese nikroute3c2_5079c843:
+
+    # m "\"He might be thinking we caused the thing ourselves.\""
+    m "有可能会认为是我们搞的。"
+
+# game/nikroute3.rpy:11150
+translate Schinese nikroute3c2_4d1f5324:
+
+    # "Nik crosses his arms."
+    "Nik双手抱胸。"
+
+# game/nikroute3.rpy:11151
+translate Schinese nikroute3c2_72caf008:
+
+    # ni @ eyestalking "\"I do not think that is true, but it is certainly possible.\""
+    ni @ eyestalking "我不认为他会这麽想，但确实不是没有可能。"
+
+# game/nikroute3.rpy:11152
+translate Schinese nikroute3c2_4e2e42e6:
+
+    # m "\"So what if I’m right?\""
+    m "要是被我说中了呢？"
+
+# game/nikroute3.rpy:11154
+translate Schinese nikroute3c2_3d7cffb0:
+
+    # ni "\"Then we should start clearing the rocks on our side.\""
+    ni "那我们就该自己开挖。"
+
+# game/nikroute3.rpy:11155
+translate Schinese nikroute3c2_9d1883bd:
+
+    # ni "\"We’ll get out faster if we open up the exit from both sides.\""
+    ni "从两边一起挖，就更快了。"
+
+# game/nikroute3.rpy:11157
+translate Schinese nikroute3c2_f943f46f:
+
+    # "He gives me a pickaxe."
+    "他给了我一把镐子。"
+
+# game/nikroute3.rpy:11159
+translate Schinese nikroute3c2_80fdda9a:
+
+    # "I can only take this as encouragement not to give up."
+    "只能把这当作不要放弃希望的鼓励了。"
+
+# game/nikroute3.rpy:11160
+translate Schinese nikroute3c2_336ba344:
+
+    # "But there’s so many stones."
+    "但石头也太多了。"
+
+# game/nikroute3.rpy:11161
+translate Schinese nikroute3c2_81343e83:
+
+    # "And when I turn my back to break the first piece of sandstone, the back of my hairs prickle, and I can’t shake the feeling I’m being watched."
+    "我一转身开始凿砂石，背后就毛发直竖，总感觉自己被盯着看。"
+
+# game/nikroute3.rpy:11162
+translate Schinese nikroute3c2_b6f57151:
+
+    # "I only put together now that the only light we have to work with is Nikolai’s lamp."
+    "我这才惊觉，我们唯一的光源就是Nikolai的头灯。"
+
+# game/nikroute3.rpy:11163
+translate Schinese nikroute3c2_a50aff25:
+
+    # "The rest of our stuff got crushed in the rubble."
+    "其他装备都被压在瓦砾下了。"
+
+# game/nikroute3.rpy:11164
+translate Schinese nikroute3c2_00c6949b:
+
+    # "I shouldn’t have taken my helmet off, but it’s too late to feel bitter about that."
+    "早知道就不脱头盔了，但现在后悔也来不及。"
+
+# game/nikroute3.rpy:11170
+translate Schinese nikroute3c2_f871b0b9:
+
+    # ni "\"You know...\""
+    ni "我说……"
+
+# game/nikroute3.rpy:11173
+translate Schinese nikroute3c2_b8775fe8:
+
+    # "He lets his pick rise, then lets it fall."
+    "他举起镐子，然后又放下。"
+
+# game/nikroute3.rpy:11175
+translate Schinese nikroute3c2_b94ff1d2:
+
+    # ni @ eyestalking "\"This is not the sort of place I want to hold a wedding.\""
+    ni @ eyestalking "我是不想在这种地方举办婚礼。"
+
+# game/nikroute3.rpy:11176
+translate Schinese nikroute3c2_30471d69:
+
+    # "I lift my pick, and follow his stride."
+    "我也拿起镐子，跟他一起走。"
+
+# game/nikroute3.rpy:11177
+translate Schinese nikroute3c2_a570dd0f:
+
+    # m "\"I thought you said weddings weren’t for people like us.\""
+    m "你不是说我们这种人没法办婚礼吗？"
+
+# game/nikroute3.rpy:11179
+translate Schinese nikroute3c2_34fd276f:
+
+    # "He hums."
+    "他哼声回应。"
+
+# game/nikroute3.rpy:11180
+translate Schinese nikroute3c2_51114c62:
+
+    # ni "\"I suppose I did.\""
+    ni "我是说过。"
+
+# game/nikroute3.rpy:11182
+translate Schinese nikroute3c2_35be3998:
+
+    # ni "\"But I think we will have one anyway.\""
+    ni "但我们还是可以办。"
+
+# game/nikroute3.rpy:11184
+translate Schinese nikroute3c2_fd43217b:
+
+    # "He puts his pick down."
+    "他放下镐子。"
+
+# game/nikroute3.rpy:11185
+translate Schinese nikroute3c2_4e696191:
+
+    # "And he stands behind me."
+    "站到我身后。"
+
+# game/nikroute3.rpy:11187
+translate Schinese nikroute3c2_50f9aae3:
+
+    # "Touching me."
+    "贴着我。"
+
+# game/nikroute3.rpy:11188
+translate Schinese nikroute3c2_b59cf8c8:
+
+    # "His mouth on my neck."
+    "吻部碰着我脖子。"
+
+# game/nikroute3.rpy:11190
+translate Schinese nikroute3c2_bd4a3e56:
+
+    # ni "\"But if I have to wed you here, then maybe I will.\""
+    ni "但就算是在这里，我也愿意跟你成婚。"
+
+# game/nikroute3.rpy:11193
+translate Schinese nikroute3c2_bf0e5149:
+
+    # ni "\"That’s the least I can do for you.\""
+    ni "我好歹也要为你做这件事。"
+
+# game/nikroute3.rpy:11195
+translate Schinese nikroute3c2_a8ae6780:
+
+    # "I stumble back and sink into him."
+    "我向后仰倒在他身上。"
+
+# game/nikroute3.rpy:11196
+translate Schinese nikroute3c2_8d99a44b:
+
+    # "He’s so big that it always feels impossible to fall without some part of his body catching me."
+    "他身体太大，我怎麽倒都能被他某个部位接住。"
+
+# game/nikroute3.rpy:11198
+translate Schinese nikroute3c2_82edb195:
+
+    # ni "\"I don’t want this to be the end, Nik.\""
+    ni "我不想在这种地方结束，Nik。"
+
+# game/nikroute3.rpy:11199
+translate Schinese nikroute3c2_4afd1ce5:
+
+    # "His paw covers the entirety of my head."
+    "他用爪把我整颗头盖住。"
+
+# game/nikroute3.rpy:11200
+translate Schinese nikroute3c2_5607b324:
+
+    # "I smell wood and soot and sweat."
+    "能闻到木头、砂土和汗味。"
+
+# game/nikroute3.rpy:11202
+translate Schinese nikroute3c2_73f3c953:
+
+    # "He pushes me back, gently, setting my skull in the crook of his neck."
+    "他把我朝后轻轻一推，让我头仰倒在他颈脖里。"
+
+# game/nikroute3.rpy:11203
+translate Schinese nikroute3c2_06068a46:
+
+    # ni "\"We do not have to believe in endings, Sam.\""
+    ni "不要想着结束的事，Sam。"
+
+# game/nikroute3.rpy:11204
+translate Schinese nikroute3c2_bb816d9a:
+
+    # ni "\"After all, they have not happened yet.\""
+    ni "都还没发生呢。"
+
+# game/nikroute3.rpy:11206
+translate Schinese nikroute3c2_d94ebafa:
+
+    # "He turns me around to look at me."
+    "他把身子转过来，好看着我。"
+
+# game/nikroute3.rpy:11207
+translate Schinese nikroute3c2_8021cdb0:
+
+    # "He touches my cheek."
+    "摸着我的脸颊。"
+
+# game/nikroute3.rpy:11209
+translate Schinese nikroute3c2_09b1c83c:
+
+    # "I can feel him stiffen against me."
+    "我能感觉到他硬了起来。"
+
+# game/nikroute3.rpy:11210
+translate Schinese nikroute3c2_03da967f:
+
+    # ni "\"So let’s keep going, yeah?\""
+    ni "所以别放弃，好吗？"
+
+# game/nikroute3.rpy:11211
+translate Schinese nikroute3c2_e839fe82:
+
+    # "Feeling him get hard makes me get hard."
+    "让我也硬了起来。"
+
+# game/nikroute3.rpy:11212
+translate Schinese nikroute3c2_1bb456dc:
+
+    # "We touch waists."
+    "我们搂着彼此的腰。"
+
+# game/nikroute3.rpy:11213
+translate Schinese nikroute3c2_6bba24de:
+
+    # m "\"I sure would miss this.\""
+    m "要是没法再这样。"
+
+# game/nikroute3.rpy:11214
+translate Schinese nikroute3c2_7be1d2f7:
+
+    # m "\"If I were to lose it.\""
+    m "我一定会很想念的。"
+
+# game/nikroute3.rpy:11216
+translate Schinese nikroute3c2_c88fb2bc:
+
+    # ni "\"I will never.\""
+    ni "我永远"
+
+# game/nikroute3.rpy:11219
+translate Schinese nikroute3c2_a57be5b5:
+
+    # ni "\"Ever.\""
+    ni "也不会"
+
+# game/nikroute3.rpy:11222
+translate Schinese nikroute3c2_9fb9bfc1:
+
+    # ni "\"Lose you.\""
+    ni "失去你。"
+
+# game/nikroute3.rpy:11224
+translate Schinese nikroute3c2_f24bc939:
+
+    # "Even as he pulls away, he stares into my eyes."
+    "他放开了我，但还是盯着我的双眼。"
+
+# game/nikroute3.rpy:11226
+translate Schinese nikroute3c2_a7126ddf:
+
+    # "Then he picks up his pick."
+    "然后捡起镐子。"
+
+# game/nikroute3.rpy:11227
+translate Schinese nikroute3c2_2e4123d4:
+
+    # "Lifts it over a rock."
+    "举向岩块。"
+
+# game/nikroute3.rpy:11228
+translate Schinese nikroute3c2_f8d348b3:
+
+    # "And goes back to work."
+    "继续动作。"
+
+# game/nikroute3.rpy:11229
+translate Schinese nikroute3c2_55995a17:
+
+    # "Just as if it were any other day."
+    "举止就像往常一样。"
+
+# game/nikroute3.rpy:11237
+translate Schinese nikroute3c2_9d0f92e3:
+
+    # m "\"Do you think we’re going to be here for the rest of our lives, Nik?\""
+    m "我们会一辈子待在这吗，Nik？"
+
+# game/nikroute3.rpy:11239
+translate Schinese nikroute3c2_aeca2ff7_1:
+
+    # "He shakes his head."
+    "他摇摇头。"
+
+# game/nikroute3.rpy:11240
+translate Schinese nikroute3c2_03e8d524:
+
+    # ni "\"Is my company so bad Sam?\""
+    ni "你就这麽不喜欢我陪着吗，Sam？"
+
+# game/nikroute3.rpy:11241
+translate Schinese nikroute3c2_c505b8e7:
+
+    # m "\"Don’t joke about that Nik.\""
+    m "别开这种玩笑啦，Nik。"
+
+# game/nikroute3.rpy:11243
+translate Schinese nikroute3c2_4050ebd6:
+
+    # "He hefted his pickaxe high."
+    "他高举镐子。"
+
+# game/nikroute3.rpy:11246
+translate Schinese nikroute3c2_4be0f8cb:
+
+    # "Then he brought it down with such a force that I could feel the dust on my face."
+    "然后大力砸下，尘土都扬到我脸上来了。"
+
+# game/nikroute3.rpy:11249
+translate Schinese nikroute3c2_c494f310:
+
+    # ni "\"I am not joking.\""
+    ni "我不是在开玩笑。"
+
+# game/nikroute3.rpy:11251
+translate Schinese nikroute3c2_f1399e8c:
+
+    # ni "\"I just feel this would be the best opportunity again to be your companion.\""
+    ni "只是觉得这是个能陪着你的绝佳机会。"
+
+# game/nikroute3.rpy:11252
+translate Schinese nikroute3c2_8e744d87:
+
+    # m "\"I know I can’t say it’s the best time, considerin’ the circumstances, but I really wish you’d wait to ask this again later.\""
+    m "我知道现在场合不太对，但真希望你能晚点再问这个。"
+
+# game/nikroute3.rpy:11253
+translate Schinese nikroute3c2_466005f3:
+
+    # ni "\"I cannot call this experience romantic.\""
+    ni "我知道这不怎麽浪漫。"
+
+# game/nikroute3.rpy:11255
+translate Schinese nikroute3c2_30cc2194:
+
+    # ni "\"But I know that today brought us closer.\""
+    ni "但我们因今天而更加拉近了彼此的距离。"
+
+# game/nikroute3.rpy:11257
+translate Schinese nikroute3c2_8583d679:
+
+    # ni "\"If, perhaps, through circumstances I couldn’t wish on anybody else.\""
+    ni "虽说这种情况可遇不可求。"
+
+# game/nikroute3.rpy:11259
+translate Schinese nikroute3c2_676c5841:
+
+    # ni "\"I know that I love you, Sam.\""
+    ni "我知道自己爱着你，Sam。"
+
+# game/nikroute3.rpy:11261
+translate Schinese nikroute3c2_7e937c9d:
+
+    # ni talking "\"...will you spend the rest of your life with me then?\""
+    ni talking "无论是长是短……"
+
+# game/nikroute3.rpy:11263
+translate Schinese nikroute3c2_e0cf5a5b:
+
+    # ni eyestalking "\"However much of it we may have left?\""
+    ni eyestalking "……你愿意与我共度馀生吗？"
+
+# game/nikroute3.rpy:11269
+translate Schinese sny5_38b0af4a:
+
+    # m "\"Okay Nik.\""
+    m "好，Nik。"
+
+# game/nikroute3.rpy:11270
+translate Schinese sny5_42eb9656:
+
+    # "He stops swinging his pickaxe."
+    "他停下挥镐的动作。"
+
+# game/nikroute3.rpy:11271
+translate Schinese sny5_5565909e:
+
+    # m "\"Let’s do it then.\""
+    m "那就来吧。"
+
+# game/nikroute3.rpy:11272
+translate Schinese sny5_cedb5f82:
+
+    # m "\"Until the day we day we die, I’m yours have whenever you please.\""
+    m "直到我们死去的那天，我无时无刻不属于你。"
+
+# game/nikroute3.rpy:11274
+translate Schinese sny5_c26f016d:
+
+    # "He lets out a cry of emotion."
+    "他发出情绪激动的呜咽声。"
+
+# game/nikroute3.rpy:11276
+translate Schinese sny5_6e429084:
+
+    # "Then he clears his throat."
+    "然后清了清嗓子。"
+
+# game/nikroute3.rpy:11279
+translate Schinese sny5_f871b0b9:
+
+    # ni "\"You know...\""
+    ni "我说……"
+
+# game/nikroute3.rpy:11282
+translate Schinese sny5_b8775fe8:
+
+    # "He lets his pick rise, then lets it fall."
+    "他举起镐子，然后又放下。"
+
+# game/nikroute3.rpy:11284
+translate Schinese sny5_b94ff1d2:
+
+    # ni @ eyestalking "\"This is not the sort of place I want to hold a wedding.\""
+    ni @ eyestalking "我是不想在这种地方举办婚礼。"
+
+# game/nikroute3.rpy:11285
+translate Schinese sny5_30471d69:
+
+    # "I lift my pick, and follow his stride."
+    "我也拿起镐子，跟他一起走。"
+
+# game/nikroute3.rpy:11286
+translate Schinese sny5_a570dd0f:
+
+    # m "\"I thought you said weddings weren’t for people like us.\""
+    m "你不是说我们这种人没法办婚礼吗？"
+
+# game/nikroute3.rpy:11288
+translate Schinese sny5_34fd276f:
+
+    # "He hums."
+    "他哼声回应。"
+
+# game/nikroute3.rpy:11289
+translate Schinese sny5_51114c62:
+
+    # ni "\"I suppose I did.\""
+    ni "我是说过。"
+
+# game/nikroute3.rpy:11291
+translate Schinese sny5_35be3998:
+
+    # ni "\"But I think we will have one anyway.\""
+    ni "但我们还是可以办。"
+
+# game/nikroute3.rpy:11293
+translate Schinese sny5_fd43217b:
+
+    # "He puts his pick down."
+    "他放下镐子。"
+
+# game/nikroute3.rpy:11294
+translate Schinese sny5_4e696191:
+
+    # "And he stands behind me."
+    "站到我身后。"
+
+# game/nikroute3.rpy:11296
+translate Schinese sny5_50f9aae3:
+
+    # "Touching me."
+    "贴着我。"
+
+# game/nikroute3.rpy:11297
+translate Schinese sny5_b59cf8c8:
+
+    # "His mouth on my neck."
+    "吻部碰着我脖子。"
+
+# game/nikroute3.rpy:11299
+translate Schinese sny5_bd4a3e56:
+
+    # ni "\"But if I have to wed you here, then maybe I will.\""
+    ni "但就算是在这里，我也愿意跟你成婚。"
+
+# game/nikroute3.rpy:11302
+translate Schinese sny5_bf0e5149:
+
+    # ni "\"That’s the least I can do for you.\""
+    ni "我好歹也要为你做这件事。"
+
+# game/nikroute3.rpy:11304
+translate Schinese sny5_a8ae6780:
+
+    # "I stumble back and sink into him."
+    "我向后仰倒在他身上。"
+
+# game/nikroute3.rpy:11305
+translate Schinese sny5_8d99a44b:
+
+    # "He’s so big that it always feels impossible to fall without some part of his body catching me."
+    "他身体太大，我怎麽倒都能被他某个部位接住。"
+
+# game/nikroute3.rpy:11307
+translate Schinese sny5_82edb195:
+
+    # ni "\"I don’t want this to be the end, Nik.\""
+    ni "我不想在这种地方结束，Nik。"
+
+# game/nikroute3.rpy:11308
+translate Schinese sny5_4afd1ce5:
+
+    # "His paw covers the entirety of my head."
+    "他用爪把我整颗头盖住。"
+
+# game/nikroute3.rpy:11309
+translate Schinese sny5_5607b324:
+
+    # "I smell wood and soot and sweat."
+    "能闻到木头、砂土和汗味。"
+
+# game/nikroute3.rpy:11311
+translate Schinese sny5_73f3c953:
+
+    # "He pushes me back, gently, setting my skull in the crook of his neck."
+    "他把我朝后轻轻一推，让我头仰倒在他颈脖里。"
+
+# game/nikroute3.rpy:11312
+translate Schinese sny5_06068a46:
+
+    # ni "\"We do not have to believe in endings, Sam.\""
+    ni "不要想着结束的事，Sam。"
+
+# game/nikroute3.rpy:11313
+translate Schinese sny5_bb816d9a:
+
+    # ni "\"After all, they have not happened yet.\""
+    ni "都还没发生呢。"
+
+# game/nikroute3.rpy:11315
+translate Schinese sny5_d94ebafa:
+
+    # "He turns me around to look at me."
+    "他把身子转过来，好看着我。"
+
+# game/nikroute3.rpy:11316
+translate Schinese sny5_8021cdb0:
+
+    # "He touches my cheek."
+    "摸着我的脸颊。"
+
+# game/nikroute3.rpy:11318
+translate Schinese sny5_09b1c83c:
+
+    # "I can feel him stiffen against me."
+    "我能感觉到他硬了起来。"
+
+# game/nikroute3.rpy:11319
+translate Schinese sny5_03da967f:
+
+    # ni "\"So let’s keep going, yeah?\""
+    ni "所以别放弃，好吗？"
+
+# game/nikroute3.rpy:11320
+translate Schinese sny5_e839fe82:
+
+    # "Feeling him get hard makes me get hard."
+    "让我也硬了起来。"
+
+# game/nikroute3.rpy:11321
+translate Schinese sny5_1bb456dc:
+
+    # "We touch waists."
+    "我们搂着彼此的腰。"
+
+# game/nikroute3.rpy:11322
+translate Schinese sny5_6bba24de:
+
+    # m "\"I sure would miss this.\""
+    m "要是没法再这样。"
+
+# game/nikroute3.rpy:11323
+translate Schinese sny5_7be1d2f7:
+
+    # m "\"If I were to lose it.\""
+    m "我一定会很想念的。"
+
+# game/nikroute3.rpy:11325
+translate Schinese sny5_c88fb2bc:
+
+    # ni "\"I will never.\""
+    ni "我永远"
+
+# game/nikroute3.rpy:11328
+translate Schinese sny5_a57be5b5:
+
+    # ni "\"Ever.\""
+    ni "也不会"
+
+# game/nikroute3.rpy:11331
+translate Schinese sny5_9fb9bfc1:
+
+    # ni "\"Lose you.\""
+    ni "失去你。"
+
+# game/nikroute3.rpy:11333
+translate Schinese sny5_f24bc939:
+
+    # "Even as he pulls away, he stares into my eyes."
+    "他放开了我，但还是盯着我的双眼。"
+
+# game/nikroute3.rpy:11335
+translate Schinese sny5_a7126ddf:
+
+    # "Then he picks up his pick."
+    "然后捡起镐子。"
+
+# game/nikroute3.rpy:11336
+translate Schinese sny5_2e4123d4:
+
+    # "Lifts it over a rock."
+    "举向岩块。"
+
+# game/nikroute3.rpy:11337
+translate Schinese sny5_f8d348b3:
+
+    # "And goes back to work."
+    "继续动作。"
+
+# game/nikroute3.rpy:11338
+translate Schinese sny5_55995a17:
+
+    # "Just as if it were any other day."
+    "举止就像往常一样。"
+
+# game/nikroute3.rpy:11345
+translate Schinese sny5_6fbe8d41:
+
+    # m "\"Can we please talk about this later?\""
+    m "这件事能之后再谈吗？"
+
+# game/nikroute3.rpy:11346
+translate Schinese sny5_5438914d:
+
+    # m "\"I’m not able to think about it properly now.\""
+    m "我现在没那个精神好好想。"
+
+# game/nikroute3.rpy:11348
+translate Schinese sny5_f7f5bd51:
+
+    # "He nods a bit stiffly without looking me in the eye."
+    "他略显僵硬地点头，望着我的双眼。"
+
+# game/nikroute3.rpy:11349
+translate Schinese sny5_ccbc878b:
+
+    # ni "\"Okay.\""
+    ni "好吧。"
+
+# game/nikroute3.rpy:11350
+translate Schinese sny5_378dc6f9:
+
+    # "I can sense his disappointment, But he doesn’t put any less energy into picking at the rocks."
+    "我感觉得出他很失望，但没有减缓凿石的动作。"
+
+# game/nikroute3.rpy:11351
+translate Schinese sny5_1844591c:
+
+    # ni "\"There might not ever be a later.\""
+    ni "只怕没有之后了。"
+
+# game/nikroute3.rpy:11352
+translate Schinese sny5_e9e0fdbf:
+
+    # ni "\"It could be the last time we can say it.\""
+    ni "这可能是我们最后的机会。"
+
+# game/nikroute3.rpy:11353
+translate Schinese sny5_2248e850:
+
+    # "I think about that."
+    "我想了想。"
+
+# game/nikroute3.rpy:11354
+translate Schinese sny5_ddb58e32:
+
+    # m "\"Then we’d be together anyway, right?\""
+    m "至少我们还在一起，不是吗？"
+
+# game/nikroute3.rpy:11356
+translate Schinese sny5_fbbbbf11:
+
+    # m "\"At the end.\""
+    m "在最后一刻。"
+
+# game/nikroute3.rpy:11357
+translate Schinese sny5_a81e67ab:
+
+    # "I’m trying my best not to be grim, but given our situation, it’s hard to control it."
+    "我尽量避免显得忧愁，但情况使然，实在很难。"
+
+# game/nikroute3.rpy:11359
+translate Schinese sny5_f57a960c:
+
+    # ni "\"I suppose that’s true.\""
+    ni "算是吧。"
+
+# game/nikroute3.rpy:11360
+translate Schinese sny5_eb29fe6c:
+
+    # ni "\"Sometime later, if I get the chance, I will ask you again.\""
+    ni "如果之后还有机会，我会再问你一次的。"
+
+# game/nikroute3.rpy:11362
+translate Schinese sny5_9f00500b:
+
+    # "He goes back to hitting a stone."
+    "他又开始凿石。"
+
+# game/nikroute3.rpy:11364
+translate Schinese sny5_9cb54a8e:
+
+    # ni "\"But Sam?\""
+    ni "只是，Sam？"
+
+# game/nikroute3.rpy:11365
+translate Schinese sny5_a2d47899:
+
+    # "I hit another stone through the delay."
+    "在回应前，我又敲了一次岩石。"
+
+# game/nikroute3.rpy:11366
+translate Schinese sny5_9b78ca0f:
+
+    # m "\"Yeah?\""
+    m "嗯？"
+
+# game/nikroute3.rpy:11368
+translate Schinese sny5_7b0b67ac:
+
+    # ni "\"It will have to be the last time when I do.\""
+    ni "那就会是我最后一次问你了。"
+
+# game/nikroute3.rpy:11370
+translate Schinese sny5_99daf5fe:
+
+    # "He hits another stone."
+    "他砸向另一块岩石。"
+
+# game/nikroute3.rpy:11372
+translate Schinese sny5_cfba757e:
+
+    # m "\"Why only after the third time?\""
+    m "为什麽是第三次？"
+
+# game/nikroute3.rpy:11374
+translate Schinese sny5_2b5ea29d:
+
+    # ni "\"Because that’s the amount of certainty I’d need to begin to grieve you.\""
+    ni "这样就能让我确定自己得不到你了。"
+
+# game/nikroute3.rpy:11377
+translate Schinese sny5_5c6169a6:
+
+    # "Another stone crumbles."
+    "又一块岩石崩落。"
+
+# game/nikroute3.rpy:11378
+translate Schinese sny5_c0807237:
+
+    # m "\"I understand.\""
+    m "我明白了。"
+
+# game/nikroute3.rpy:11380
+translate Schinese sny5_f9b27ce1:
+
+    # "He exhales."
+    "他叹了口气。"
+
+# game/nikroute3.rpy:11382
+translate Schinese sny5_2928b42b:
+
+    # ni "\"I hope.\""
+    ni "但愿吧。"
+
+# game/nikroute3.rpy:11387
+translate Schinese sny5_7ec1537f:
+
+    # "We keep going at the rock for what feels like hours."
+    "我们接着敲了感觉有好几个小时的石头。"
+
+# game/nikroute3.rpy:11388
+translate Schinese sny5_b0da7e42:
+
+    # "I don’t see any end to the piles of rock in front of us, but I don’t want to give up hope."
+    "依然看不到底，但我不想放弃希望。"
+
+# game/nikroute3.rpy:11389
+translate Schinese sny5_c9aa3401:
+
+    # "Nik gets calmer the longer we go at this, but I know he has to feel some sense of nerves."
+    "Nik渐渐平静了下来，但我确信他心中也有不安。"
+
+# game/nikroute3.rpy:11391
+translate Schinese sny5_05a099ff:
+
+    # "But as I’m digging and hit the rocks, a gush of air blows into my face."
+    "就在我再度敲向岩石时，一阵强风打在我脸上。"
+
+# game/nikroute3.rpy:11393
+translate Schinese sny5_71049adc:
+
+    # "It makes my face tingle, and my body tingle."
+    "一阵刺痛从脸部蔓延至全身。"
+
+# game/nikroute3.rpy:11394
+translate Schinese sny5_1159a6ce:
+
+    # m "\"N-nik.\""
+    m "N、Nik。"
+
+# game/nikroute3.rpy:11396
+translate Schinese sny5_97943c8b:
+
+    # "He walks close enough to catch me before I fall."
+    "他在我倒地前走来接住了我。"
+
+# game/nikroute3.rpy:11398
+translate Schinese sny5_ccbdf2f0:
+
+    # "The big badger curses under his breath."
+    "巨貛低声咒骂。"
+
+# game/nikroute3.rpy:11399
+translate Schinese sny5_6a3f5fe4:
+
+    # ni "\"You’ve done enough.\""
+    ni "你做得够多了。"
+
+# game/nikroute3.rpy:11401
+translate Schinese sny5_720bf966:
+
+    # ni "\"Let’s sit you over here until the gas wears off, okay?\""
+    ni "先坐着等瓦斯散掉，好吗？"
+
+# game/nikroute3.rpy:11403
+translate Schinese sny5_77263707:
+
+    # "I give him a vague nod."
+    "我微弱地点了点头。"
+
+# game/nikroute3.rpy:11405
+translate Schinese sny5_36910737:
+
+    # "My whole body is trembling, and it’s hard to keep my eyes open."
+    "我全身都在颤抖，连眼睛都睁不开。"
+
+# game/nikroute3.rpy:11408
+translate Schinese sny5_bab9aa1f:
+
+    # "I rest my head against the wall and try to breath like Nik told me to."
+    "我把头靠在岩壁上，试着用Nik教我的方式换气。"
+
+# game/nikroute3.rpy:11409
+translate Schinese sny5_2c305c52:
+
+    # "I have to believe it won’t be long before we break through."
+    "再过不久就一定能打通了。"
+
+# game/nikroute3.rpy:11410
+translate Schinese sny5_c23fda9f:
+
+    # "It’s going to have to."
+    "一定可以的。"
+
+# game/nikroute3.rpy:11420
+translate Schinese sny5_a34f5a0b:
+
+    # "This place."
+    "这地方。"
+
+# game/nikroute3.rpy:11421
+translate Schinese sny5_a501ef9e:
+
+    # "I’ve been here before."
+    "我来过。"
+
+# game/nikroute3.rpy:11422
+translate Schinese sny5_16df4ffa:
+
+    # "I can hear the wind blow through my ears."
+    "风吹过耳旁。"
+
+# game/nikroute3.rpy:11423
+translate Schinese sny5_14b039f8:
+
+    # "What whistles through my fur and passes me by rustles the sunflower fields."
+    "掠过我身，吹拂着向日葵花田。"
+
+# game/nikroute3.rpy:11424
+translate Schinese sny5_72faa35c:
+
+    # "I inhale, and it almost feels like I can breathe in all of what makes something summer."
+    "我大吸一口气，充满了夏日气息。"
+
+# game/nikroute3.rpy:11425
+translate Schinese sny5_cc1003fc:
+
+    # "These flowers are the kind with leaves so green you can smell the grassiness, even standing a good measure away."
+    "这些花的叶子极绿，站在远处都能闻到青草味。"
+
+# game/nikroute3.rpy:11426
+translate Schinese sny5_e85c2418:
+
+    # "A sense of loss washes over me."
+    "我茫然若失。"
+
+# game/nikroute3.rpy:11427
+translate Schinese sny5_5e306ee9:
+
+    # "I know that this was a patch of flowers just a few hours from a home that wasn’t home."
+    "这个花田离那算不上家的家只有几小时路程。"
+
+# game/nikroute3.rpy:11428
+translate Schinese sny5_aba65a2e:
+
+    # "When I wasn’t allowed inside, the soil would take me."
+    "他们不让我回家时，我就会来到这片大地。"
+
+# game/nikroute3.rpy:11429
+translate Schinese sny5_4ea3cbd2:
+
+    # "I would stare up at the sky and see the puffy clouds billow, spreadin’ like steamboat vapor."
+    "望着天空与各式各样蓬松的云。"
+
+# game/nikroute3.rpy:11430
+translate Schinese sny5_0fc9f30c:
+
+    # "I’d feel safe here."
+    "这里让我很安心。"
+
+# game/nikroute3.rpy:11431
+translate Schinese sny5_64d71e96:
+
+    # "Hidden here."
+    "与世无争。"
+
+# game/nikroute3.rpy:11432
+translate Schinese sny5_0239f559:
+
+    # "But as beautiful as this place was, I knew it could not save me."
+    "但这地方再怎麽美，到头来也拯救不了我。"
+
+# game/nikroute3.rpy:11433
+translate Schinese sny5_89216df7:
+
+    # "It was temporary."
+    "躲得了一时。"
+
+# game/nikroute3.rpy:11434
+translate Schinese sny5_19accd11:
+
+    # "Rain and dark and frost would always come eventually."
+    "但天色会暗，也会下雨结霜。"
+
+# game/nikroute3.rpy:11435
+translate Schinese sny5_0811d7d5:
+
+    # "Creation would always cast me out, just like Adam was."
+    "神总会赶我走，就跟亚当一样。"
+
+# game/nikroute3.rpy:11436
+translate Schinese sny5_6628508f:
+
+    # "Sometimes I think..."
+    "有时候我感觉……"
+
+# game/nikroute3.rpy:11437
+translate Schinese sny5_36d4e942:
+
+    # "...that the beauty that surrounds me in this world was only just put here to tease me."
+    "……世上美好的一切只是被用来嘲弄我的。"
+
+# game/nikroute3.rpy:11438
+translate Schinese sny5_8aeb8037:
+
+    # "To give me a taste of paradise."
+    "让我一嚐乐园的滋味。"
+
+# game/nikroute3.rpy:11439
+translate Schinese sny5_3fa9d109:
+
+    # "Just enough to miss it when it’s taken."
+    "然后又收回，让我欲求不满。"
+
+# game/nikroute3.rpy:11440
+translate Schinese sny5_699e25e1:
+
+    # "Beauty is the one gift that I have."
+    "美是我唯一受赐的礼物。"
+
+# game/nikroute3.rpy:11441
+translate Schinese sny5_515e0d1d:
+
+    # "Even though I know I am an oddity in my beauty."
+    "虽然我知道自己的美不太寻常。"
+
+# game/nikroute3.rpy:11442
+translate Schinese sny5_4ac104ae:
+
+    # "But flowers wilt when fall comes."
+    "但花朵会在秋天凋谢。"
+
+# game/nikroute3.rpy:11443
+translate Schinese sny5_30126e0e:
+
+    # "Clouds burst when water turns to air."
+    "云会因水气绽裂。"
+
+# game/nikroute3.rpy:11444
+translate Schinese sny5_f9958593:
+
+    # "People in the prettiest of pictures wearing the finest of clothes get old."
+    "美观照片中衣着荣华的人也终将会老。"
+
+# game/nikroute3.rpy:11445
+translate Schinese sny5_734b480c:
+
+    # "Get sick."
+    "会病。"
+
+# game/nikroute3.rpy:11446
+translate Schinese sny5_65bbd468:
+
+    # "And then they die."
+    "然后会死。"
+
+# game/nikroute3.rpy:11447
+translate Schinese sny5_80c6bb72:
+
+    # "Flowers have short lives, and the pleasure of never knowing."
+    "花朵生命短暂，无知而无虑。"
+
+# game/nikroute3.rpy:11448
+translate Schinese sny5_8e208080:
+
+    # "I stop to stare at one of the sunflowers."
+    "我望着其中一朵向日葵。"
+
+# game/nikroute3.rpy:11449
+translate Schinese sny5_82a93a11:
+
+    # "I see the black and creamy white of Nik’s fur in the seeds up close."
+    "细看种子，当中洽巧是Nik那身黑色与乳白色相间的毛色。"
+
+# game/nikroute3.rpy:11450
+translate Schinese sny5_008a04f2:
+
+    # "Nikolai is almost twice my age."
+    "Nik年龄将近我的两倍。"
+
+# game/nikroute3.rpy:11451
+translate Schinese sny5_76843238:
+
+    # "Even if I do spend the rest of his days with him, I’ll probably be around a whole lot longer."
+    "就算我真的跟他共度馀生，我也会比他活得更久。"
+
+# game/nikroute3.rpy:11452
+translate Schinese sny5_b7b9fe84:
+
+    # "I have to wonder if he sees me like a flower."
+    "真不知道他是不是把我当成了一朵花。"
+
+# game/nikroute3.rpy:11453
+translate Schinese sny5_5f72fc16:
+
+    # "Even if we both get out of this town intact and alive, eventually he’ll be long gone before he sees me wilt."
+    "我们就算平安无事地离开了小镇，他也会早在我凋零前先就先离去。"
+
+# game/nikroute3.rpy:11454
+translate Schinese sny5_010ce5a6:
+
+    # "Unless I get sick, and he watches me waste away first."
+    "除非我生了大病，那他就会先看着我走了。"
+
+# game/nikroute3.rpy:11455
+translate Schinese sny5_6c463241:
+
+    # "I know he just wants somebody to hold."
+    "我知道他只是想要有个人能抱。"
+
+# game/nikroute3.rpy:11456
+translate Schinese sny5_1aa25225:
+
+    # "He’ll be very cross if my bones become brittle."
+    "等我骨质酥松，他就要不开心了。"
+
+# game/nikroute3.rpy:11457
+translate Schinese sny5_d1f47fb5:
+
+    # "There are two kinds of beautiful people in this world."
+    "世上有两种美丽的人。"
+
+# game/nikroute3.rpy:11458
+translate Schinese sny5_616f724b:
+
+    # "The ones who are complacent, who don’t know that affection will be taken from them."
+    "一种自鸣得意，不知自己终将枯萎。"
+
+# game/nikroute3.rpy:11459
+translate Schinese sny5_f89d9fd9:
+
+    # "And the ones who, with their bright clothes and their carefully curated outfits, are silently screaming out to be something more."
+    "另一种花枝招展，无声宣示着自己渴望能变得更加艳丽。"
+
+# game/nikroute3.rpy:11460
+translate Schinese sny5_5ef5cb7a:
+
+    # "I pray to God that Nik knows a person who lives long enough ain’t never gonna be like a flower."
+    "我只能向上天祈祷Nik能明白，活得久的人绝不是什麽花朵。"
+
+# game/nikroute3.rpy:11461
+translate Schinese sny5_daaab56d:
+
+    # "Most people aren’t."
+    "几乎都不是。"
+
+# game/nikroute3.rpy:11462
+translate Schinese sny5_36b20fe3:
+
+    # "But I’m not sure who to pray to, to ask that I be more than what I was given."
+    "但我也不知道该向谁祷告好让自己能受赐更多。"
+
+# game/nikroute3.rpy:11463
+translate Schinese sny5_91cdbdf7:
+
+    # "I’ve never really fit into a proper place, with proper people."
+    "我跟正经场所或人事从来就不怎麽搭调。"
+
+# game/nikroute3.rpy:11464
+translate Schinese sny5_aded6fca:
+
+    # "And I’m not sure I know how, even if I had a pocket full of money."
+    "就算我满口袋钱也做不来。"
+
+# game/nikroute3.rpy:11465
+translate Schinese sny5_1513015e:
+
+    # "Whenever something feels right in my life, I know I don’t get to keep it."
+    "我只知道，自己人生中邂逅的美好事物，我从来都抓不住。"
+
+# game/nikroute3.rpy:11466
+translate Schinese sny5_86586161:
+
+    # "Or if I do, something goes wrong, and my blessings rot into a curses."
+    "就算抓住了，也会遭逢不测，从祝福变为诅咒。"
+
+# game/nikroute3.rpy:11467
+translate Schinese sny5_34e15452:
+
+    # "I don’t have the strength to stay put around people who feel wrong to me."
+    "我没那精力跟不合拍的人打交道。"
+
+# game/nikroute3.rpy:11468
+translate Schinese sny5_cb9940b7:
+
+    # "And Nikolai will always be a man with many friends."
+    "而Nikolai走到哪都能交到很多朋友。"
+
+# game/nikroute3.rpy:11469
+translate Schinese sny5_0124335b:
+
+    # "So I’ll never make him choose between me and some other folks."
+    "我总不能强迫他在我跟其他人之间做选择。"
+
+# game/nikroute3.rpy:11470
+translate Schinese sny5_6204154b:
+
+    # "But I’ll make the choice myself if it ever comes to that."
+    "我宁愿自己做出那个抉择。"
+
+# game/nikroute3.rpy:11472
+translate Schinese sny5_2ee35b4d:
+
+    # "Another breeze comes my way."
+    "又一阵风吹过。"
+
+# game/nikroute3.rpy:11473
+translate Schinese sny5_4b9c7684:
+
+    # "It tugs me in the direction of that place, that {i}home.{/i}"
+    "将我推向那个地方、那个{i}家{/i}。"
+
+# game/nikroute3.rpy:11474
+translate Schinese sny5_0a646bda:
+
+    # "But what I find as I walk away is a far less familiar road."
+    "但踏上的路却让我十分不熟悉。"
+
+# game/nikroute3.rpy:11477
+translate Schinese sny5_e518a8fc:
+
+    # "My foot touches an apple."
+    "我的脚碰到了一颗苹果。"
+
+# game/nikroute3.rpy:11478
+translate Schinese sny5_6c1df7ad:
+
+    # "For the first time, I have to ask out loud, {i}where am I?{/i}"
+    "我这才第一次大声问道：{i}这是哪里？{/i}"
+
+# game/nikroute3.rpy:11479
+translate Schinese sny5_9d2091b6:
+
+    # "{i}And where is Nik?{i}"
+    "{i}Nik人呢？{i}"
+
+# game/nikroute3.rpy:11480
+translate Schinese sny5_1dbb082b:
+
+    # "I’m supposed to be moving rocks right now."
+    "我现在应该在搬岩石。"
+
+# game/nikroute3.rpy:11481
+translate Schinese sny5_61fd5da5:
+
+    # "Might be that I’m dreamin’."
+    "可能是在做梦。"
+
+# game/nikroute3.rpy:11482
+translate Schinese sny5_f047b289:
+
+    # "More likely that I’m dyin’."
+    "更可能是快死了。"
+
+# game/nikroute3.rpy:11483
+translate Schinese sny5_273767b1:
+
+    # "Might be the case that this road leads me to the world beyond the living."
+    "这条路可能是通往另一个世界的。"
+
+# game/nikroute3.rpy:11484
+translate Schinese sny5_fe76c94f:
+
+    # "‘Cause I have no recollection of an apple orchard that looked like this."
+    "我可不记得这个苹果园。"
+
+# game/nikroute3.rpy:11485
+translate Schinese sny5_0dca7b74:
+
+    # "Nor apples that were ever this red."
+    "也从没看过这麽红的苹果。"
+
+# game/nikroute3.rpy:11486
+translate Schinese sny5_46ed439e:
+
+    # "Granny smith green were the type we’d grow down South."
+    "我们南方种的是翠玉青苹果。"
+
+# game/nikroute3.rpy:11487
+translate Schinese sny5_ba988ae6:
+
+    # "These look more like pinker breed."
+    "这个是比较红的品种。"
+
+# game/nikroute3.rpy:11488
+translate Schinese sny5_5b75a2ae:
+
+    # "Somehow, I know that they’ll be delicious."
+    "但我却不禁觉得一定很好吃。"
+
+# game/nikroute3.rpy:11490
+translate Schinese sny5_5dc3541e:
+
+    # "And somehow, when I bend down to pick one up and taste it, it’s exactly as sweet as I think it will be."
+    "我弯腰捡起一咬，不知怎麽地甜得跟我想像中一模一样。"
+
+# game/nikroute3.rpy:11492
+translate Schinese sny5_dada76e0:
+
+    # "The hairs on the back of my neck stand up."
+    "我后脑杓毛发直竖。"
+
+# game/nikroute3.rpy:11493
+translate Schinese sny5_ce775796:
+
+    # "I figure that dreams can lie to you."
+    "梦境是能欺骗人的。"
+
+# game/nikroute3.rpy:11494
+translate Schinese sny5_6fe45c03:
+
+    # "They can make you think you had memories you never had."
+    "能给人不存在的记忆。"
+
+# game/nikroute3.rpy:11495
+translate Schinese sny5_3fcb7f52:
+
+    # "But the moment you know that, you tend to wake up."
+    "不过一旦知晓这点，通常就要醒来了。"
+
+# game/nikroute3.rpy:11496
+translate Schinese sny5_0f2d2b54:
+
+    # "And here I still stand."
+    "但我依然站在这。"
+
+# game/nikroute3.rpy:11499
+translate Schinese sny5_ade2853c:
+
+    # "Except now I’m not in an apple orchard."
+    "只是不在苹果园。"
+
+# game/nikroute3.rpy:11500
+translate Schinese sny5_ed4e0e26:
+
+    # "I’m on a city street."
+    "而是一座城市的街上。"
+
+# game/nikroute3.rpy:11501
+translate Schinese sny5_9dbacdde:
+
+    # "It’s crowded and cramped."
+    "人满为患。"
+
+# game/nikroute3.rpy:11502
+translate Schinese sny5_5cdf3cd7:
+
+    # "And it looks busy and foreign."
+    "很是繁忙，像是在外国。"
+
+# game/nikroute3.rpy:11503
+translate Schinese sny5_3f01b8a4:
+
+    # "Now I know for a fact that I’ve never seen a place like this in my life, but my legs start to walk, like they’re familiar with where to go."
+    "我知道自己从没见过这种地方，但我的腿自己动了起来，像是很熟这里似的。"
+
+# game/nikroute3.rpy:11504
+translate Schinese sny5_08aeeb3a:
+
+    # "I smell rusted metal, dirty smoke, and piss as I pass an alleyway."
+    "我穿过一条小巷，铁鏽、烟雾和尿液的臭味扑鼻而来。"
+
+# game/nikroute3.rpy:11506
+translate Schinese sny5_359c92b6:
+
+    # "The door that I stop at is easy enough to open and I find myself in in an apartment hallway."
+    "我停在一道门前，轻易打开后，来到一间公寓的走廊。"
+
+# game/nikroute3.rpy:11507
+translate Schinese sny5_0fcba186:
+
+    # "I know to walk through the door on the right."
+    "我知道要穿过右边的门。"
+
+# game/nikroute3.rpy:11508
+translate Schinese sny5_f77a75e4:
+
+    # "And I have a key in my hand."
+    "手里也握着钥匙。"
+
+# game/nikroute3.rpy:11509
+translate Schinese sny5_b7f79b13:
+
+    # m "\"Bonjour pour l'instant.\""
+    m "Bonjour pour l'instant。"
+
+# game/nikroute3.rpy:11510
+translate Schinese sny5_a40242e5:
+
+    # "I don’t know what I just said, but the voice was mine."
+    "我不知道刚刚说了啥，但声音是我自己的。"
+
+# game/nikroute3.rpy:11515
+translate Schinese sny5_6c7452ad:
+
+    # "I walk into my house, and put my things on a table that I shouldn’t know is there."
+    "我走进自家房哩，把东西放在我本不知道在那的一张桌子上。"
+
+# game/nikroute3.rpy:11517
+translate Schinese sny5_6f991e2b:
+
+    # m "\"Je viens d'acheter mon passeport pour partir.\""
+    m "Je viens d'acheter mon passeport pour partir。"
+
+# game/nikroute3.rpy:11518
+translate Schinese sny5_b1fa68a0:
+
+    # "I still don’t understand what’s coming from my own mouth."
+    "我还是不懂自己到底说了啥。"
+
+# game/nikroute3.rpy:11519
+translate Schinese sny5_f8be8ca0:
+
+    # "Everything about this experience tells me that it’s a dream."
+    "一切都在告诉我这是个梦。"
+
+# game/nikroute3.rpy:11520
+translate Schinese sny5_ee2f438e:
+
+    # "But there are too many elements to it that feel too much like being awake."
+    "但资讯太多，感觉又像是醒着。"
+
+# game/nikroute3.rpy:11521
+translate Schinese sny5_b116e1bb:
+
+    # "My legs take me through another doorway."
+    "我的腿带我穿过另一道门。"
+
+# game/nikroute3.rpy:11523
+translate Schinese sny5_e9b084fc:
+
+    # "This place looks is a bedroom."
+    "好像是间寝室。"
+
+# game/nikroute3.rpy:11524
+translate Schinese sny5_16493e2a:
+
+    # "I see some men’s clothing scattered on the floor."
+    "地上散落着一些男装。"
+
+# game/nikroute3.rpy:11525
+translate Schinese sny5_6708d709:
+
+    # "Whoever this place belongs to, either he doesn’t care too much for clothing, or he isn’t well off."
+    "不管这家主人是谁，他要麽不在意穿着，要麽不太富裕。"
+
+# game/nikroute3.rpy:11526
+translate Schinese sny5_b5b1f6d2:
+
+    # "Soon, a drowsiness takes me."
+    "接着，一阵睡意袭来。"
+
+# game/nikroute3.rpy:11529
+translate Schinese sny5_fbde23d5:
+
+    # "I find myself climbing onto the bed, as if following the motions of what this foreign man controlling my body wants to do."
+    "我感觉自己身体被这外国男人操纵着爬上了床，"
+
+# game/nikroute3.rpy:11530
+translate Schinese sny5_cea87c24:
+
+    # "Hell, I don’t even know if it is my body."
+    "操，我连这到底是不是我自己的身体都不晓得。"
+
+# game/nikroute3.rpy:11531
+translate Schinese sny5_13964571:
+
+    # "All I know is that I’m along for the ride, at least for now."
+    "我只知道只能顺其自然，至少现在是这样。"
+
+# game/nikroute3.rpy:11532
+translate Schinese sny5_eebf1fb9:
+
+    # "Sometimes it feels like I have the power to look around, or stand."
+    "有时会觉得能够四处窥探或站起来。"
+
+# game/nikroute3.rpy:11533
+translate Schinese sny5_9959b8c5:
+
+    # "But nothing I do will let me move."
+    "但怎麽也动不了。"
+
+# game/nikroute3.rpy:11535
+translate Schinese sny5_3781be00:
+
+    # "My head is stuck, staring straight into the closet at the foot of the bed."
+    "我的头固定不动，直勾勾望着床脚旁的壁橱。"
+
+# game/nikroute3.rpy:11536
+translate Schinese sny5_24cf2fa0:
+
+    # "At first I just think it’s a doll, or maybe some kind of acting prop."
+    "我本来以为那是个玩偶或道具人偶。"
+
+# game/nikroute3.rpy:11537
+translate Schinese sny5_c27a3a43:
+
+    # "And then it {i}rises.{/i}"
+    "它却{i}升了起来{/i}。"
+
+# game/nikroute3.rpy:11539
+translate Schinese sny5_9a9b4aa3:
+
+    # "Something in that closet is staring back at me."
+    "壁橱里有东西在回望我。"
+
+# game/nikroute3.rpy:11540
+translate Schinese sny5_67ace49d:
+
+    # "But I can’t move around to see what it is."
+    "但我无法改变视角去仔细看。"
+
+# game/nikroute3.rpy:11541
+translate Schinese sny5_fb6f00ff:
+
+    # "I think it might be a home intruder with weird looking glasses."
+    "或许是个带着奇怪眼镜的宵小。"
+
+# game/nikroute3.rpy:11544
+translate Schinese sny5_f187774a:
+
+    # "But then the rims of those big glasses look like they {i}blink.{/i}"
+    "但镜框好像{i}眨眼了。{/i}"
+
+# game/nikroute3.rpy:11545
+translate Schinese sny5_e0b0b3b4:
+
+    # "What the hell is that?"
+    "那是什麽鬼？"
+
+# game/nikroute3.rpy:11546
+translate Schinese sny5_d67cc08d:
+
+    # "And why can’t I get up?"
+    "我怎麽起不来？"
+
+# game/nikroute3.rpy:11547
+translate Schinese sny5_3c37be8e:
+
+    # no "\"Be quiet.\""
+    no_CN "安静。"
+
+# game/nikroute3.rpy:11548
+translate Schinese sny5_68436c7c:
+
+    # "Whatever’s in the closet, it’s talking to me, in perhaps the strangest voice I’ve ever heard."
+    "壁橱里的那东西，正在用最诡异的声音向我搭话。"
+
+# game/nikroute3.rpy:11549
+translate Schinese sny5_1f17365a:
+
+    # "I can only describe it as hearing a voice that sounds familiar at first... like it belongs to a coworker, or a neighbor you see every day."
+    "要描述的话，只能说那像是听见了耳熟的声音……比如每天会见到的同事或邻居。"
+
+# game/nikroute3.rpy:11550
+translate Schinese sny5_c7e6ce4a:
+
+    # "But the longer you think about it, upon reflection, it certainly belongs to a stranger."
+    "但仔细一想，却又能肯定那是陌生人的声音。"
+
+# game/nikroute3.rpy:11551
+translate Schinese sny5_f09ffbf7:
+
+    # no "\"I said {i}be quiet.{/i}\""
+    no_CN "我叫你{i}安静。{/i}"
+
+# game/nikroute3.rpy:11552
+translate Schinese sny5_a3885574:
+
+    # "I don’t know what this thing is talking about."
+    "我不知道它在说什麽。"
+
+# game/nikroute3.rpy:11553
+translate Schinese sny5_5b39df0a:
+
+    # "I didn’t even say anything."
+    "我根本就没说话啊。"
+
+# game/nikroute3.rpy:11554
+translate Schinese sny5_17a3b788:
+
+    # no "\"Yet still, you are loud.\""
+    no_CN "但你还是很吵。"
+
+# game/nikroute3.rpy:11555
+translate Schinese sny5_d20621f5:
+
+    # no "\"Hiding with me is in your interest.\""
+    no_CN "跟我一起躲着，也对你有利。"
+
+# game/nikroute3.rpy:11556
+translate Schinese sny5_2662ff2e:
+
+    # "I get a better look at what’s talking to me in the closet."
+    "我这才稍微看清壁橱里的东西。"
+
+# game/nikroute3.rpy:11558
+translate Schinese sny5_db8ba922:
+
+    # "First it looks..."
+    "起初看起来……"
+
+# game/nikroute3.rpy:11559
+translate Schinese sny5_bb8d11c0:
+
+    # "Almost like me."
+    "跟我十分相像。"
+
+# game/nikroute3.rpy:11560
+translate Schinese sny5_4978e9bf:
+
+    # "It has the silhouette of a puma, but smaller, with my eyes."
+    "有着山狮的轮廓、我的眼睛，但比我小。"
+
+# game/nikroute3.rpy:11561
+translate Schinese sny5_833cd59a:
+
+    # "But the longer I look at it, it changes."
+    "我盯着它看，它又变了貌。"
+
+# game/nikroute3.rpy:11563
+translate Schinese sny5_757e6c1a:
+
+    # "Now it’s a rat."
+    "成了一隻老鼠。"
+
+# game/nikroute3.rpy:11565
+translate Schinese sny5_566700b3:
+
+    # "This time an older woman."
+    "一个老妇人。"
+
+# game/nikroute3.rpy:11566
+translate Schinese sny5_13309cdc:
+
+    # "But then it changes again."
+    "然后又变貌。"
+
+# game/nikroute3.rpy:11568
+translate Schinese sny5_a9686c06:
+
+    # "This time, quickly, it shifts between several different men of different sizes and species..."
+    "这次它在好几个不同体型品种的男人间快速变换……"
+
+# game/nikroute3.rpy:11569
+translate Schinese sny5_5fd6de42:
+
+    # "And then again...?"
+    "然后……？"
+
+# game/nikroute3.rpy:11571
+translate Schinese sny5_acbb8882:
+
+    # "It shifts between some children."
+    "在幼儿间变换。"
+
+# game/nikroute3.rpy:11572
+translate Schinese sny5_112adfcf:
+
+    # "And then, for less than a second..."
+    "接着在不到一秒的时间内……"
+
+# game/nikroute3.rpy:11574
+translate Schinese sny5_fa2630ed:
+
+    # "I think it looks like Nik."
+    "我看出了Nik的容貌。"
+
+# game/nikroute3.rpy:11575
+translate Schinese sny5_d70cd83c:
+
+    # m "\"Stop this.\""
+    m "住手。"
+
+# game/nikroute3.rpy:11576
+translate Schinese sny5_c9857274:
+
+    # "The thing borrows his voice."
+    "那东西用他的声音说话。"
+
+# game/nikroute3.rpy:11577
+translate Schinese sny5_573cc477:
+
+    # "At least, as close to it as it can get."
+    "或者说，拟似他的声音。"
+
+# game/nikroute3.rpy:11578
+translate Schinese sny5_86eb535d:
+
+    # nonik "\"I said to {i}be quiet.{/i}\""
+    nonik_CN "我就叫你{i}安静{/i}了。"
+
+# game/nikroute3.rpy:11579
+translate Schinese sny5_453f968f:
+
+    # "Even the stern tone Nik gets when he’s irritated with me is there."
+    "连Nik对我不耐烦时的口气都有。"
+
+# game/nikroute3.rpy:11580
+translate Schinese sny5_f7e25239:
+
+    # "But it’s still..."
+    "但还是……"
+
+# game/nikroute3.rpy:11581
+translate Schinese sny5_47c84a24:
+
+    # "Slightly wrong."
+    "不太对。"
+
+# game/nikroute3.rpy:11582
+translate Schinese sny5_54c108c9:
+
+    # "Wrong enough to know that this could never really be him."
+    "足以表明它永远也不可能真正变成他。"
+
+# game/nikroute3.rpy:11583
+translate Schinese sny5_983d7ded:
+
+    # m "\"Whatever you are, don’t you dare wear his face.\""
+    m "不管你是谁，都别想用他的脸。"
+
+# game/nikroute3.rpy:11586
+translate Schinese sny5_4dae328f:
+
+    # "I feel the entire apartment shake."
+    "整间公寓摇晃起来。"
+
+# game/nikroute3.rpy:11588
+translate Schinese sny5_e80b81e7:
+
+    # "Nik’s image goes away as the thing shifts between three or so miners I hadn’t seen before."
+    "那东西在三四个我不认识的矿工间变换，Nik的脸也随之消失。"
+
+# game/nikroute3.rpy:11591
+translate Schinese sny5_a5ebd887:
+
+    # "For a moment, he looks like a panda."
+    "有一瞬间，他有着一隻熊猫的容貌。"
+
+# game/nikroute3.rpy:11592
+translate Schinese sny5_608cbc07:
+
+    # "It’s somebody I haven’t seen for weeks."
+    "我好几週没看见他了。"
+
+# game/nikroute3.rpy:11593
+translate Schinese sny5_ea822860:
+
+    # no "\"If you yowl at me as a loved one, and as yourself, then maybe...\""
+    no_CN "这些人之中或许有你爱过的，也有你自己，那麽……"
+
+# game/nikroute3.rpy:11595
+translate Schinese sny5_0e26e4cb:
+
+    # "His face slips into Jack’s image."
+    "他变出Jack的脸。"
+
+# game/nikroute3.rpy:11596
+translate Schinese sny5_97f5dac0:
+
+    # nojack "\"This will keep ya put, ya brick shithouse.\""
+    nojack_CN "这样总能让你安分点了吧，你个废物。"
+
+# game/nikroute3.rpy:11597
+translate Schinese sny5_3805b76c:
+
+    # "I freeze for a moment."
+    "我僵住了一瞬间。"
+
+# game/nikroute3.rpy:11598
+translate Schinese sny5_bffc4593:
+
+    # "Then I yell at the top of my lungs."
+    "然后放声大吼。"
+
+# game/nikroute3.rpy:11599
+translate Schinese sny5_474dfb0a:
+
+    # m "\"No more faces!\""
+    m "别再变脸了！"
+
+# game/nikroute3.rpy:11602
+translate Schinese sny5_f5193390:
+
+    # "The apartment shakes again."
+    "公寓又开始晃动。"
+
+# game/nikroute3.rpy:11603
+translate Schinese sny5_a01851e0:
+
+    # "I almost feel pain from the shaking for some reason."
+    "不知怎麽地，晃动似乎让我感到了痛觉。"
+
+# game/nikroute3.rpy:11606
+translate Schinese sny5_1e67c2c5:
+
+    # "The form of the panda is back."
+    "熊猫的轮廓又回来了。"
+
+# game/nikroute3.rpy:11607
+translate Schinese sny5_be14ecf2:
+
+    # "And he’s the most accurate emotional state yet: fury."
+    "有着最符合这词的神情：暴怒。"
+
+# game/nikroute3.rpy:11608
+translate Schinese sny5_ce48c946:
+
+    # no "\"Idiot!\""
+    no_CN "蠢货！"
+
+# game/nikroute3.rpy:11609
+translate Schinese sny5_276ff3c1:
+
+    # "He lets out a snarl."
+    "他低吼一声。"
+
+# game/nikroute3.rpy:11610
+translate Schinese sny5_99046c01:
+
+    # "But I opt to snarl back."
+    "我也低吼回去。"
+
+# game/nikroute3.rpy:11611
+translate Schinese sny5_e7608758:
+
+    # m "\"You wanna stay hidden?\""
+    m "你想躲是吧？"
+
+# game/nikroute3.rpy:11614
+translate Schinese sny5_395279f1:
+
+    # "More shakes."
+    "摇晃更加剧烈。"
+
+# game/nikroute3.rpy:11615
+translate Schinese sny5_307caa2f:
+
+    # m "\"Then you show me your real face!\""
+    m "那就用你真正的脸示人！"
+
+# game/nikroute3.rpy:11617
+translate Schinese sny5_3a8c892a:
+
+    # no "\"These are my faces.\""
+    no_CN "这些都是我的脸。"
+
+# game/nikroute3.rpy:11618
+translate Schinese sny5_7a80c298:
+
+    # "I sense a second emotion that feels more genuine."
+    "我倒是感到了个更加真实的情绪。"
+
+# game/nikroute3.rpy:11619
+translate Schinese sny5_41b5649d:
+
+    # "Anxiousness."
+    "焦虑。"
+
+# game/nikroute3.rpy:11620
+translate Schinese sny5_c651d0c8:
+
+    # m "\"No.\""
+    m "不对。"
+
+# game/nikroute3.rpy:11621
+translate Schinese sny5_b935965c:
+
+    # m "\"They ain’t yours.\""
+    m "这些不是你的。"
+
+# game/nikroute3.rpy:11622
+translate Schinese sny5_42fc7ca2:
+
+    # "I’m shaking."
+    "我在颤抖。"
+
+# game/nikroute3.rpy:11623
+translate Schinese sny5_76b4bfcd:
+
+    # m "\"That was me.\""
+    m "那是我。"
+
+# game/nikroute3.rpy:11624
+translate Schinese sny5_358275ee:
+
+    # m "\"And my best friend.\""
+    m "和我的死党。"
+
+# game/nikroute3.rpy:11625
+translate Schinese sny5_0612fc0e:
+
+    # m "\"And my...\""
+    m "还有我的……"
+
+# game/nikroute3.rpy:11626
+translate Schinese sny5_1fec7e03:
+
+    # "I don’t want to say it, but it’s the only relation I have to Jack now."
+    "我不想说出口，但那就是我跟Jack如今唯一的关係了。"
+
+# game/nikroute3.rpy:11627
+translate Schinese sny5_7e7b7ace:
+
+    # m "\"My victim.\""
+    m "我的被害者。"
+
+# game/nikroute3.rpy:11628
+translate Schinese sny5_9fbdbf2f:
+
+    # m "\"You’ve got no right to wear their faces.\""
+    m "你没资格用他们的脸。"
+
+# game/nikroute3.rpy:11630
+translate Schinese sny5_8d239c72:
+
+    # "The thing, whatever it was, shifted back to the face that looked like me."
+    "那东西——管它是啥——变回那张很像我的脸。"
+
+# game/nikroute3.rpy:11631
+translate Schinese sny5_6ad90f4a:
+
+    # no "\"These ain’t masks I wear.\""
+    no_CN "这些可不是面具。"
+
+# game/nikroute3.rpy:11632
+translate Schinese sny5_9dc5dfc5:
+
+    # no "\"They’re who I am now.\""
+    no_CN "如今我就是他们。"
+
+# game/nikroute3.rpy:11633
+translate Schinese sny5_7da2068d:
+
+    # no "\"Maybe they won’t be so offensive to ya once time has its way with me.\""
+    no_CN "时间一久，或许你就不会再感到被冒犯了吧。"
+
+# game/nikroute3.rpy:11634
+translate Schinese sny5_fe9e8d02:
+
+    # no "\"I already know you can’t understand what this all means.\""
+    no_CN "我本来就知道你无法理解这一切的意义。"
+
+# game/nikroute3.rpy:11635
+translate Schinese sny5_948e0262:
+
+    # no "\"You became a part of me, after all, so I know everything.\""
+    no_CN "毕竟你成了我的一部分，所以我无所不知。"
+
+# game/nikroute3.rpy:11636
+translate Schinese sny5_06a2d9fe:
+
+    # "He shrugs in what looks like an attempt at an apology."
+    "它以一种类似道歉的举止耸肩。"
+
+# game/nikroute3.rpy:11637
+translate Schinese sny5_82e8144e:
+
+    # m "\"I said I won’t be quiet.\""
+    m "我也说过我不会安静的。"
+
+# game/nikroute3.rpy:11641
+translate Schinese sny5_da9e66a3:
+
+    # "Paintings fall."
+    "画作掉到地上。"
+
+# game/nikroute3.rpy:11642
+translate Schinese sny5_34b5b3c5:
+
+    # no "\"No...\""
+    no_CN "不错……"
+
+# game/nikroute3.rpy:11643
+translate Schinese sny5_289165cb:
+
+    # "He chuckles."
+    "它咯咯笑着。"
+
+# game/nikroute3.rpy:11646
+translate Schinese sny5_de577067:
+
+    # no "\"No, {i}you{/i} wouldn’t would ya?\""
+    no_CN "{i}你{/i}是不会。"
+
+# game/nikroute3.rpy:11650
+translate Schinese sny5_d3fbcf3c:
+
+    # "Dishes in another room shatter."
+    "其他房间的碗盘破碎。"
+
+# game/nikroute3.rpy:11651
+translate Schinese sny5_c44cfe5b:
+
+    # m "\"Wear your own face.\""
+    m "用你自己的脸。"
+
+# game/nikroute3.rpy:11654
+translate Schinese sny5_7ed3701e:
+
+    # "It pauses."
+    "它顿了顿。"
+
+# game/nikroute3.rpy:11655
+translate Schinese sny5_e84004de:
+
+    # "As if thinking."
+    "像在思考。"
+
+# game/nikroute3.rpy:11656
+translate Schinese sny5_17562583:
+
+    # no "\"As you understand it, there is no such a thing.\""
+    no_CN "你也明白，那是不存在的。"
+
+# game/nikroute3.rpy:11657
+translate Schinese sny5_79297189:
+
+    # m "\"So then wear nothing you’ve stolen.\""
+    m "那就别用偷来的。"
+
+# game/nikroute3.rpy:11658
+translate Schinese sny5_cf19b8a0:
+
+    # "It says nothing for a moment."
+    "它沉默了一下。"
+
+# game/nikroute3.rpy:11660
+translate Schinese sny5_256965fb:
+
+    # "But whatever is in the closet grows three times as tall."
+    "但变成了三倍高。"
+
+# game/nikroute3.rpy:11661
+translate Schinese sny5_71d609d6:
+
+    # "It takes up at least the entirety of the door frame."
+    "挤满整个门框。"
+
+# game/nikroute3.rpy:11662
+translate Schinese sny5_0de54d17:
+
+    # "And it looks back at me with a face I know could never belong to any person."
+    "用没可能属于人类的脸回望我。"
+
+# game/nikroute3.rpy:11663
+translate Schinese sny5_0e95b8b7:
+
+    # "But there’s somethin’ about the eyes."
+    "但双眼不太对劲。"
+
+# game/nikroute3.rpy:11664
+translate Schinese sny5_1a537ec2:
+
+    # "Those still feel like they’re mine."
+    "看起来依旧是我的眼睛。"
+
+# game/nikroute3.rpy:11665
+translate Schinese sny5_a68c804b:
+
+    # no "\"Now will you be quiet?\""
+    no_CN "你现在能安分点了吧？"
+
+# game/nikroute3.rpy:11666
+translate Schinese sny5_2676baae:
+
+    # "Its voice is terrible now."
+    "它的声音变得可怕。"
+
+# game/nikroute3.rpy:11667
+translate Schinese sny5_3ccd834b:
+
+    # "But worse is how it moves."
+    "但动起来更恐怖。"
+
+# game/nikroute3.rpy:11668
+translate Schinese sny5_2db27cb5:
+
+    # "Its body is too big for anything my mind can conceive, but its fingers move fast."
+    "它身体大到我无法理解，手指的动作却很快。"
+
+# game/nikroute3.rpy:11669
+translate Schinese sny5_c2d725ed:
+
+    # "Almost like it every twitch was let loose by a wire spring."
+    "像是被弹簧弹动。"
+
+# game/nikroute3.rpy:11670
+translate Schinese sny5_308ca6ae:
+
+    # "Or it had the speed of a bug scaled up several hundred sizes."
+    "或是有着几百倍体积的虫子。"
+
+# game/nikroute3.rpy:11671
+translate Schinese sny5_bdff1f83:
+
+    # m "\"Where am I?\""
+    m "我人在哪？"
+
+# game/nikroute3.rpy:11672
+translate Schinese sny5_57381b0a:
+
+    # no "\"Clearly an apartment.\""
+    no_CN "看就知道是间公寓吧。"
+
+# game/nikroute3.rpy:11673
+translate Schinese sny5_9bdc06fe:
+
+    # "Normally I’d be impatient with anybody who sassed me."
+    "换作平时，我根本受不了这种呛我的人。"
+
+# game/nikroute3.rpy:11674
+translate Schinese sny5_ca08b331:
+
+    # "But it’s horrible to hear something that looks like that and sounds like that {i}bantering{/i}, as if it were an ordinary person."
+    "但眼前这种怪物用那种声音像个普通人一样{i}发牢骚{/i}，这就很可怕了。"
+
+# game/nikroute3.rpy:11675
+translate Schinese sny5_9a29f46e:
+
+    # m "\"Be specific.\""
+    m "讲详细点。"
+
+# game/nikroute3.rpy:11676
+translate Schinese sny5_f7811392:
+
+    # no "\"In the capital city of the country you call Gaul.\""
+    no_CN "这里是你们称做高卢的国家的首都。"
+
+# game/nikroute3.rpy:11677
+translate Schinese sny5_6a20a80d:
+
+    # "I shake my head."
+    "我直摇头。"
+
+# game/nikroute3.rpy:11678
+translate Schinese sny5_3b9337e3:
+
+    # m "\"There’s no way we’re in Gaul.\""
+    m "我们不可能在高卢。"
+
+# game/nikroute3.rpy:11679
+translate Schinese sny5_8a2feade:
+
+    # m "\"Gaul is half the way across the planet, over the ocean.\""
+    m "高卢可是在地球另一头，还要跨海。"
+
+# game/nikroute3.rpy:11680
+translate Schinese sny5_2a7348b9:
+
+    # m "\"I’m in Saguaro county, USC.\""
+    m "我则是在USC的萨瓜罗郡。"
+
+# game/nikroute3.rpy:11681
+translate Schinese sny5_0680723c:
+
+    # no "\"Your body, perhaps.\""
+    no_CN "你的身体或许是吧。"
+
+# game/nikroute3.rpy:11682
+translate Schinese sny5_8973022a:
+
+    # no "\"But this is, in every way, Gaul, to the best of his memory.\""
+    no_CN "但这里无论从何看起，都非常符合他记忆中对高卢的印象。"
+
+# game/nikroute3.rpy:11683
+translate Schinese sny5_daa99c02:
+
+    # "I arch my eyebrow at that."
+    "这句话让我皱眉。"
+
+# game/nikroute3.rpy:11684
+translate Schinese sny5_3a2b5d4d:
+
+    # m "\"Whose memory?\""
+    m "谁的记忆？"
+
+# game/nikroute3.rpy:11685
+translate Schinese sny5_8424fdd9:
+
+    # no "\"You know whose.\""
+    no_CN "你知道是谁的。"
+
+# game/nikroute3.rpy:11686
+translate Schinese sny5_9438396e:
+
+    # "...I didn’t know Jack was Gaulish."
+    "……我不知道Jack是高卢人。"
+
+# game/nikroute3.rpy:11687
+translate Schinese sny5_d0b30033:
+
+    # "But I don’t need to ask any further."
+    "但不用再多问了。"
+
+# game/nikroute3.rpy:11688
+translate Schinese sny5_f2efd75e:
+
+    # m "\"Then why am I here?\""
+    m "那我又怎麽在这？"
+
+# game/nikroute3.rpy:11689
+translate Schinese sny5_b37144b1:
+
+    # no "\"You should know why it’s important to hide...\""
+    no_CN "你也明白，为什麽躲藏起来……"
+
+# game/nikroute3.rpy:11690
+translate Schinese sny5_b9411940:
+
+    # no "\"Being a faggot.\""
+    no_CN "对一个基佬而言很重要。"
+
+# game/nikroute3.rpy:11691
+translate Schinese sny5_79be6ee2:
+
+    # no "\"Something we can’t get rid of wants to find us.\""
+    no_CN "我们无法甩掉的某个东西正在找我们。"
+
+# game/nikroute3.rpy:11692
+translate Schinese sny5_8d31412d:
+
+    # "It’s acting like it wants to help me."
+    "它的举止很像是要帮我。"
+
+# game/nikroute3.rpy:11693
+translate Schinese sny5_02a127e3:
+
+    # "But nothing that moves like that in nature that has ever been good news."
+    "但会有这种动作的东西肯定不是什麽好货。"
+
+# game/nikroute3.rpy:11694
+translate Schinese sny5_8a0e5fd6:
+
+    # "If I were to compare this thing to a spider, it doesn’t move like a tarantula."
+    "用蜘蛛来比喻的话，不像狼蛛。"
+
+# game/nikroute3.rpy:11695
+translate Schinese sny5_275bae61:
+
+    # "It moves more like a black widow."
+    "更像是黑寡妇。"
+
+# game/nikroute3.rpy:11696
+translate Schinese sny5_058c9e39:
+
+    # "Something that you shouldn’t get close to."
+    "生人勿近。"
+
+# game/nikroute3.rpy:11697
+translate Schinese sny5_82256e80:
+
+    # no "\"We can be safe here.\""
+    no_CN "我们在这很安全。"
+
+# game/nikroute3.rpy:11698
+translate Schinese sny5_0832d257:
+
+    # no "\"At least, until it passes.\""
+    no_CN "少说能到它离开为止。"
+
+# game/nikroute3.rpy:11701
+translate Schinese sny5_fc5bb654:
+
+    # "We feel the foundation shake again."
+    "地基再度开始震动。"
+
+# game/nikroute3.rpy:11702
+translate Schinese sny5_b8c83b78:
+
+    # m "\"Until {i}what{/i} passes?\""
+    m "到{i}什麽{/i}离开为止？"
+
+# game/nikroute3.rpy:11704
+translate Schinese sny5_75f5aae6:
+
+    # "It smiles, and hisses softly."
+    "它扬起微笑，发出轻柔的嘶嘶声。"
+
+# game/nikroute3.rpy:11706
+translate Schinese sny5_713599a0:
+
+    # "Then it starts to shake, like a rubber wheel on a spoke moving so fast that it loses its shape."
+    "然后开始抖动，像是在辐条上快速滚动到变形的橡胶轮胎。"
+
+# game/nikroute3.rpy:11708
+translate Schinese sny5_b34670b8:
+
+    # "And it looks like me again."
+    "又变成了我的模样。"
+
+# game/nikroute3.rpy:11709
+translate Schinese sny5_34bd1fc7:
+
+    # no "\"You know.\""
+    no_CN "你也知道。"
+
+# game/nikroute3.rpy:11710
+translate Schinese sny5_4491cfa2:
+
+    # no "\"The hunger.\""
+    no_CN "饥渴。"
+
+# game/nikroute3.rpy:11711
+translate Schinese sny5_3cada57a:
+
+    # "He knows me well after all."
+    "他还是很懂我的。"
+
+# game/nikroute3.rpy:11712
+translate Schinese sny5_fb1d4715:
+
+    # m "\"You sayin’ this thing really is God?\""
+    m "你是说这东西就是神吗？"
+
+# game/nikroute3.rpy:11713
+translate Schinese sny5_dbb40234:
+
+    # "The thing that sort of looks like me shrugs and uses my most annoying grin."
+    "有着我的模样的那东西耸耸肩，摆出我最惹人厌的奸笑。"
+
+# game/nikroute3.rpy:11714
+translate Schinese sny5_daf6ffd0:
+
+    # no "\"Might as well be to poor bastards like us, huh?\""
+    no_CN "对我们这种倒楣鬼来说，可不就是吗？"
+
+# game/nikroute3.rpy:11715
+translate Schinese sny5_6a20a80d_1:
+
+    # "I shake my head."
+    "我摇头。"
+
+# game/nikroute3.rpy:11716
+translate Schinese sny5_6390d985:
+
+    # m "\"If you really are me then you should know what I think about this.\""
+    m "如果你真的是我，一定明白我对这事的看法。"
+
+# game/nikroute3.rpy:11718
+translate Schinese sny5_c35b963d:
+
+    # "The thing vibrates again."
+    "那东西又发出振动。"
+
+# game/nikroute3.rpy:11720
+translate Schinese sny5_bc809a4f:
+
+    # no "\"Maybe you’d think differently if you knew what I knew.\""
+    no_CN "如果你知道得跟我一样多，或许就会有不同看法了。"
+
+# game/nikroute3.rpy:11721
+translate Schinese sny5_0d08e647:
+
+    # no "\"Doesn’t matter though, does it?\""
+    no_CN "但这不是重点吧？"
+
+# game/nikroute3.rpy:11722
+translate Schinese sny5_1de4a998:
+
+    # no "\"At the end of the day, we both just have to hide from it, don’t we?\""
+    no_CN "到头来，我们不还是得躲着它吗？"
+
+# game/nikroute3.rpy:11723
+translate Schinese sny5_1de6d799:
+
+    # no "\"We can put up with each other for that, can’t we.\""
+    no_CN "暂时忍忍彼此，不是什麽难事吧？"
+
+# game/nikroute3.rpy:11724
+translate Schinese sny5_6a20a80d_2:
+
+    # "I shake my head."
+    "我摇头。"
+
+# game/nikroute3.rpy:11725
+translate Schinese sny5_b2a4c400:
+
+    # m "\"Now what’s the point of hiding if that thing really is God?\""
+    m "如果那真的是神，躲起来又有什麽用？"
+
+# game/nikroute3.rpy:11726
+translate Schinese sny5_1ebe7ad6:
+
+    # m "\"Omnipotency always wins in the end.\""
+    m "全知全能是敌不过的。"
+
+# game/nikroute3.rpy:11727
+translate Schinese sny5_4b56a774:
+
+    # "He smiles my smile again."
+    "他又用我的笑容笑着。"
+
+# game/nikroute3.rpy:11729
+translate Schinese sny5_90439056:
+
+    # no "\"The Devil ain’t dead, ain’t he?\""
+    no_CN "魔鬼可还没被消灭哦？"
+
+# game/nikroute3.rpy:11730
+translate Schinese sny5_bdbfe7e8:
+
+    # m "\"Through whose grace though?\""
+    m "你也不想想是谁放他一条生路的？"
+
+# game/nikroute3.rpy:11731
+translate Schinese sny5_2664b1c2:
+
+    # no "\"Sure ‘nough not God.\""
+    no_CN "那肯定不是神。"
+
+# game/nikroute3.rpy:11732
+translate Schinese sny5_5a4aee23:
+
+    # no "\"You can run forever if you can buy the right tickets.\""
+    no_CN "如果能买到对的票，就能永远逃下去。"
+
+# game/nikroute3.rpy:11733
+translate Schinese sny5_855d5fec:
+
+    # no "\"You just need the currency and the contacts.\""
+    no_CN "只要有钱跟人脉就行。"
+
+# game/nikroute3.rpy:11736
+translate Schinese sny5_280a5c91:
+
+    # nojack "\"C'est du gateau, mon cheri.\""
+    nojack_CN "C'est du gateau, mon cheri。"
+
+# game/nikroute3.rpy:11737
+translate Schinese sny5_20393a1c:
+
+    # "He looks like Jack now."
+    "他变成Jack的样子了。"
+
+# game/nikroute3.rpy:11738
+translate Schinese sny5_661804f1:
+
+    # "But that don’t matter."
+    "但这不重要。"
+
+# game/nikroute3.rpy:11739
+translate Schinese sny5_51c61e54:
+
+    # "It’s not the time to think about him."
+    "没闲情去想他的事了。"
+
+# game/nikroute3.rpy:11740
+translate Schinese sny5_183a5f8b:
+
+    # "So I just ask."
+    "所以我直接开口问。"
+
+# game/nikroute3.rpy:11741
+translate Schinese sny5_fa7042d3:
+
+    # m "\"How would it find me?\""
+    m "它要怎麽找到我？"
+
+# game/nikroute3.rpy:11744
+translate Schinese sny5_a5624fd6:
+
+    # "Another rumble."
+    "又一阵鸣动。"
+
+# game/nikroute3.rpy:11746
+translate Schinese sny5_3fe04da3:
+
+    # "More glasses shatter."
+    "更多玻璃碎裂。"
+
+# game/nikroute3.rpy:11747
+translate Schinese sny5_2bdf25b9:
+
+    # "The thing in the closet loses its form again for a moment, like it’s caught off guard."
+    "壁橱里的东西有一瞬间身形不保，彷彿受了震惊。"
+
+# game/nikroute3.rpy:11751
+translate Schinese sny5_73a32dde:
+
+    # "But then it reins itself in, taking a miner’s face this time to speak."
+    "但又把持住了，借用一位矿工的脸来说话。"
+
+# game/nikroute3.rpy:11752
+translate Schinese sny5_3d3006be:
+
+    # no "\"It ain’t looking for gold, buttercup.\""
+    no_CN "它可不是想找黄金啊，小可爱。"
+
+# game/nikroute3.rpy:11753
+translate Schinese sny5_36c252ce:
+
+    # "I tilt my head."
+    "我歪着头。"
+
+# game/nikroute3.rpy:11754
+translate Schinese sny5_ec926099:
+
+    # m "\"Looking how?\""
+    m "怎麽找？"
+
+# game/nikroute3.rpy:11755
+translate Schinese sny5_153b0c76:
+
+    # m "\"I don’t think we’re really in a room.\""
+    m "我们应该不是真的在一个房间里吧。"
+
+# game/nikroute3.rpy:11756
+translate Schinese sny5_dc63acc8:
+
+    # "My head is pounding now."
+    "我头痛欲裂。"
+
+# game/nikroute3.rpy:11757
+translate Schinese sny5_e032f3e8:
+
+    # m "\"Where am I, really?\""
+    m "我人到底在哪里？"
+
+# game/nikroute3.rpy:11758
+translate Schinese sny5_bccd0841:
+
+    # "It looks at me like I should know."
+    "它以一副我自己应该明白的样子看着我。"
+
+# game/nikroute3.rpy:11759
+translate Schinese sny5_6ed11c22:
+
+    # no "\"I brought us closer.\""
+    no_CN "我让咱们的距离更近了一点。"
+
+# game/nikroute3.rpy:11760
+translate Schinese sny5_85cda57c:
+
+    # no "\"For now.\""
+    no_CN "暂时性地。"
+
+# game/nikroute3.rpy:11761
+translate Schinese sny5_ac31346e:
+
+    # no "\"Harder to untangle the threads that way.\""
+    no_CN "这样比较难把结解开。"
+
+# game/nikroute3.rpy:11763
+translate Schinese sny5_370c43a7:
+
+    # "When it closes its eyes, I still get the terrible feeling of being stared at."
+    "哪怕它闭上双眼，我还是感觉被人盯着。"
+
+# game/nikroute3.rpy:11764
+translate Schinese sny5_34e5efa2:
+
+    # m "\"This is like a dream.\""
+    m "这是梦吧。"
+
+# game/nikroute3.rpy:11765
+translate Schinese sny5_969b46c2:
+
+    # m "\"There’s no way my body left that mine.\""
+    m "我的身体不可能离开那个矿坑的。"
+
+# game/nikroute3.rpy:11767
+translate Schinese sny5_173f7b5b:
+
+    # "It steps closer, shaking its head."
+    "它走进一步，摇了摇头。"
+
+# game/nikroute3.rpy:11768
+translate Schinese sny5_7f7901b2:
+
+    # no "\"Now see, I can’t let you be there right now.\""
+    no_CN "我现在不能让你待在这了。"
+
+# game/nikroute3.rpy:11769
+translate Schinese sny5_0000a3f1:
+
+    # no "\"It’s on your ass, boy.\""
+    no_CN "小心别被干掉了，小子。"
+
+# game/nikroute3.rpy:11771
+translate Schinese sny5_6919fc84:
+
+    # "It looks like me again."
+    "它又用了我的身姿。"
+
+# game/nikroute3.rpy:11772
+translate Schinese sny5_fc6c20ff:
+
+    # no "\"And not in the way you usually like it.\""
+    no_CN "这可不是你平常喜欢的那种干。"
+
+# game/nikroute3.rpy:11773
+translate Schinese sny5_36c252ce_1:
+
+    # "I tilt my head."
+    "我歪着头。"
+
+# game/nikroute3.rpy:11774
+translate Schinese sny5_adf75c99:
+
+    # m "\"You said my {i}body?{/i}\""
+    m "你是指说我的{i}身体？{/i}"
+
+# game/nikroute3.rpy:11776
+translate Schinese sny5_a3719c64:
+
+    # "It steps out of the closet, once again its ugly self, its hands in constant motion, twitching on their own accord."
+    "它踏出壁橱，又变成那丑陋的真面目，手部不断抽动。"
+
+# game/nikroute3.rpy:11777
+translate Schinese sny5_47454645:
+
+    # "It looks at me like it’s hungry."
+    "用飢饿的眼神看着我。"
+
+# game/nikroute3.rpy:11778
+translate Schinese sny5_bcbe086e:
+
+    # "For the first time, it smiles at me with its own smile."
+    "这是它第一次用自己的笑容朝我微笑。"
+
+# game/nikroute3.rpy:11779
+translate Schinese sny5_11f8a741:
+
+    # "It doesn’t smile like a person ever could."
+    "没有人能笑成这样。"
+
+# game/nikroute3.rpy:11780
+translate Schinese sny5_06027544:
+
+    # "It juts its head out further, moving closer."
+    "它把头转出来，靠得更近。"
+
+# game/nikroute3.rpy:11782
+translate Schinese sny5_c1bef17e:
+
+    # "Then it’s me again."
+    "然后又变成我。"
+
+# game/nikroute3.rpy:11783
+translate Schinese sny5_4dd116f8:
+
+    # "I’m starting to think this is the only way it can talk."
+    "我在想这是不是它唯一能说话的方式。"
+
+# game/nikroute3.rpy:11784
+translate Schinese sny5_3f89f971:
+
+    # no "\"You can tell that you’re bleeding, aren’t you?\""
+    no_CN "你知道自己在流血吧？"
+
+# game/nikroute3.rpy:11785
+translate Schinese sny5_80147e4f:
+
+    # "I look at my arms and hands."
+    "我看向双手。"
+
+# game/nikroute3.rpy:11786
+translate Schinese sny5_50893c6e:
+
+    # "Nothing seems wrong."
+    "貌似没问题。"
+
+# game/nikroute3.rpy:11787
+translate Schinese sny5_6c076fbb:
+
+    # "But I do feel dizzy."
+    "但我确实有点头晕。"
+
+# game/nikroute3.rpy:11788
+translate Schinese sny5_8cf7bc2b:
+
+    # no "\"Out there, your real body is in trouble.\""
+    no_CN "在外头，你真正的身体有麻烦了。"
+
+# game/nikroute3.rpy:11789
+translate Schinese sny5_27097d2a:
+
+    # no "\"You’re probably gonna die.\""
+    no_CN "大概会死。"
+
+# game/nikroute3.rpy:11790
+translate Schinese sny5_66d40135:
+
+    # "It says this like it’s a casual fact."
+    "它的语气彷彿这话单纯是件事实。"
+
+# game/nikroute3.rpy:11791
+translate Schinese sny5_2e467d83:
+
+    # no "\"But you and I both know that won’t be the worst problem for you.\""
+    no_CN "但你我都心知肚明，这还不是最糟的问题。"
+
+# game/nikroute3.rpy:11792
+translate Schinese sny5_2d5fc9bc:
+
+    # "It closes just a bit more space between us."
+    "它又更靠近了我一点。"
+
+# game/nikroute3.rpy:11793
+translate Schinese sny5_11c8fb27:
+
+    # no "\"I know you’re terrified.\""
+    no_CN "我知道你很惊恐。"
+
+# game/nikroute3.rpy:11794
+translate Schinese sny5_e2d79b84:
+
+    # "It’s right."
+    "他说的没错。"
+
+# game/nikroute3.rpy:11795
+translate Schinese sny5_2daa2d56:
+
+    # "But normally when somebody says this, they’re taunting you."
+    "但通常来说，这句话是人用来威吓别人的。"
+
+# game/nikroute3.rpy:11796
+translate Schinese sny5_93447cdb:
+
+    # "There’s a glee and a smugness to it."
+    "这句话会给人得意忘形的感觉。"
+
+# game/nikroute3.rpy:11797
+translate Schinese sny5_5f23e694:
+
+    # "But again, it’s stating things like they’re cold facts."
+    "但它是用阐述事实的口吻说的。"
+
+# game/nikroute3.rpy:11798
+translate Schinese sny5_6afcd4e1:
+
+    # m "\"And how would know you that for certain?\""
+    m "你怎麽这麽确定？"
+
+# game/nikroute3.rpy:11799
+translate Schinese sny5_de61ab7c:
+
+    # no "\"Because I’m terrified.\""
+    no_CN "因为我很惊恐。"
+
+# game/nikroute3.rpy:11800
+translate Schinese sny5_bdcd8c87:
+
+    # no "\"Which means you have to be too.\""
+    no_CN "想必你也一样。"
+
+# game/nikroute3.rpy:11801
+translate Schinese sny5_6325f96a:
+
+    # no "\"That’s how I know.\""
+    no_CN "我就是这麽知道的。"
+
+# game/nikroute3.rpy:11802
+translate Schinese sny5_d8d04c0d:
+
+    # m "\"...And that’s your only reason?\""
+    m "……理由就只有这样？"
+
+# game/nikroute3.rpy:11803
+translate Schinese sny5_d485cae0:
+
+    # "The thing doesn’t answer me at first."
+    "那东西没有马上回答。"
+
+# game/nikroute3.rpy:11804
+translate Schinese sny5_4cd7c5f3:
+
+    # no "\"Is there any reason for why you breathe air?\""
+    no_CN "你有什麽呼吸空气的理由吗？"
+
+# game/nikroute3.rpy:11805
+translate Schinese sny5_fc71132e:
+
+    # no "\"Reasons can be simple.\""
+    no_CN "理由也能是很单纯的。"
+
+# game/nikroute3.rpy:11806
+translate Schinese sny5_a3d5e7a8:
+
+    # "I try to move my arms and legs again."
+    "我再次尝试挪动手跟腿。"
+
+# game/nikroute3.rpy:11807
+translate Schinese sny5_daecabc3:
+
+    # "It’s not working."
+    "没用。"
+
+# game/nikroute3.rpy:11808
+translate Schinese sny5_f526f134:
+
+    # m "\"Let me out of here.\""
+    m "放我出去。"
+
+# game/nikroute3.rpy:11810
+translate Schinese sny5_4301abc3:
+
+    # "The thing steps partially out of the closet."
+    "那东西一脚踏出壁橱。"
+
+# game/nikroute3.rpy:11811
+translate Schinese sny5_d2f0756f:
+
+    # no "\"That’s not up to you.\""
+    no_CN "这可由不得你。"
+
+# game/nikroute3.rpy:11812
+translate Schinese sny5_f8b988c4:
+
+    # no "\"I can tell you’ve already lost a lot of blood you know.\""
+    no_CN "你已经流太多血了。"
+
+# game/nikroute3.rpy:11813
+translate Schinese sny5_af879059:
+
+    # no "\"That’s why you can’t move.\""
+    no_CN "所以你才动不了。"
+
+# game/nikroute3.rpy:11814
+translate Schinese sny5_1f2060e8:
+
+    # "I still can’t tell if that’s the truth of it, or if this thing is bluffin’."
+    "我还是没法判断它是在说真话还是唬我的。"
+
+# game/nikroute3.rpy:11815
+translate Schinese sny5_576017a6:
+
+    # "But I certainly move around that much in this place."
+    "但我在这里确实动了不少。"
+
+# game/nikroute3.rpy:11816
+translate Schinese sny5_805f438a:
+
+    # "The thing nods."
+    "那东西点了点头。"
+
+# game/nikroute3.rpy:11817
+translate Schinese sny5_373d165b:
+
+    # no "\"I can help you, you know.\""
+    no_CN "我是能帮你的。"
+
+# game/nikroute3.rpy:11818
+translate Schinese sny5_a61f0a31:
+
+    # no "\"We’ll be safer together.\""
+    no_CN "只要咱们在一起，就更安全。"
+
+# game/nikroute3.rpy:11819
+translate Schinese sny5_d45dda60:
+
+    # no "\"I know all sorts of tricks.\""
+    no_CN "我知道不少诀窍。"
+
+# game/nikroute3.rpy:11820
+translate Schinese sny5_0307bac2:
+
+    # m "\"I don’t need any help.\""
+    m "我不用你帮。"
+
+# game/nikroute3.rpy:11821
+translate Schinese sny5_05e1453d:
+
+    # no "\"You keen on dyin’ then?\""
+    no_CN "你就这麽想死？"
+
+# game/nikroute3.rpy:11823
+translate Schinese sny5_31df6558:
+
+    # m "\"I’m not going to die.\""
+    m "我才不会死。"
+
+# game/nikroute3.rpy:11826
+translate Schinese sny5_41f65255:
+
+    # "The thing smiles wider, and its proportions change."
+    "那东西笑得更灿烂，身形比例也变了。"
+
+# game/nikroute3.rpy:11827
+translate Schinese sny5_125b05a9:
+
+    # no "\"Sure seems like It already has you.\""
+    no_CN "它可是早就逮住你了。"
+
+# game/nikroute3.rpy:11830
+translate Schinese sny5_8e5c0d23:
+
+    # no "\"But what would I know?\""
+    no_CN "但我又能怎样呢？"
+
+# game/nikroute3.rpy:11833
+translate Schinese sny5_61073e0a:
+
+    # "The foundations of the apartments start to crack."
+    "公寓的地基裂开。"
+
+# game/nikroute3.rpy:11835
+translate Schinese sny5_1d5b349e:
+
+    # "The creature walks toward me, leaving the boundaries of the closet at last."
+    "那生物朝我走来，终于完全步出壁橱。"
+
+# game/nikroute3.rpy:11836
+translate Schinese sny5_8686a515:
+
+    # no "\"You’re as stubborn as always.\""
+    no_CN "你还是一样顽固。"
+
+# game/nikroute3.rpy:11837
+translate Schinese sny5_9603f28b:
+
+    # no "\"Hell, it might even be fun to watch you die.\""
+    no_CN "操，看着你死好像也挺好玩的。"
+
+# game/nikroute3.rpy:11839
+translate Schinese sny5_466a6a37:
+
+    # "Its entire head is getting bigger now, like the size and shape of a kite."
+    "它整颗头都在变大，已经跟风筝一样大了。"
+
+# game/nikroute3.rpy:11840
+translate Schinese sny5_10955a77:
+
+    # no "\"You know...\""
+    no_CN "你知道吗……"
+
+# game/nikroute3.rpy:11841
+translate Schinese sny5_428d2216:
+
+    # no "\"If it finds you, you’ll be made to sing.\""
+    no_CN "要是被它找到，你就会被迫唱歌了。"
+
+# game/nikroute3.rpy:11843
+translate Schinese sny5_1347188e:
+
+    # "Its whole body is at the foot of the bed now."
+    "它全身都来到床脚了。"
+
+# game/nikroute3.rpy:11844
+translate Schinese sny5_792e2d02:
+
+    # m "\"My voice ain’t the sweetest.\""
+    m "我声音又不好听。"
+
+# game/nikroute3.rpy:11845
+translate Schinese sny5_d8ec5879:
+
+    # "And I can only watch it start to drag the bed into the closet."
+    "我只能眼睁睁看着它把床拖进壁橱。"
+
+# game/nikroute3.rpy:11846
+translate Schinese sny5_7847a929:
+
+    # no "\"But sufferin’ is the sweetest kind of song.\""
+    no_CN "苦痛就是最动听的歌声啊。"
+
+# game/nikroute3.rpy:11847
+translate Schinese sny5_d7bee9f2:
+
+    # "The foot of the bed is bending unnaturally into the closet, like it’s melting."
+    "床脚像在融化似的，不自然地朝壁橱内扭曲。"
+
+# game/nikroute3.rpy:11848
+translate Schinese sny5_af2f70e8:
+
+    # no "\"You’ll want to die before it’s all over.\""
+    no_CN "你在结束之前就会一心求死了。"
+
+# game/nikroute3.rpy:11849
+translate Schinese sny5_84702646:
+
+    # no "\"So I don’t really recommend it.\""
+    no_CN "所以我不太推荐。"
+
+# game/nikroute3.rpy:11851
+translate Schinese sny5_9d09c5fb:
+
+    # m "\"And how is something like you to supposed to help me?\""
+    m "那你是要怎麽帮我？"
+
+# game/nikroute3.rpy:11853
+translate Schinese sny5_7fa2b96e:
+
+    # m "\"You’re already hinderin’ me, keeping me here in this horrible place.\""
+    m "你把我关在这可怕的地方，根本就是在害我吧。"
+
+# game/nikroute3.rpy:11857
+translate Schinese sny5_261b3191:
+
+    # "I scream because I can feel something dragging against my face.."
+    "我感到有什麽在我脸上动，发出尖叫。"
+
+# game/nikroute3.rpy:11859
+translate Schinese sny5_41ccdd40:
+
+    # "The thing looks at my eyes, confused for a moment."
+    "那东西望着我双眼，疑惑了一下。"
+
+# game/nikroute3.rpy:11860
+translate Schinese sny5_3925b9a9:
+
+    # "Like it’s made a mistake."
+    "像是犯了什麽错。"
+
+# game/nikroute3.rpy:11863
+translate Schinese sny5_d6927a88:
+
+    # "The foundation cracks even more."
+    "地基裂得更大了。"
+
+# game/nikroute3.rpy:11864
+translate Schinese sny5_f1a5c001:
+
+    # no "\"Just think about how it would feel if you had to deal with no more pain, ever again.\""
+    no_CN "你想想，如果永远也不会再感到痛苦，那该有多好。"
+
+# game/nikroute3.rpy:11866
+translate Schinese sny5_efaad9d4:
+
+    # "The right side of my face stops hurting the moment it says this."
+    "它说出这句话的瞬间，我右脸就不再痛了。"
+
+# game/nikroute3.rpy:11867
+translate Schinese sny5_2272aa32:
+
+    # "It’s gone completely numb."
+    "完全没有感觉了。"
+
+# game/nikroute3.rpy:11868
+translate Schinese sny5_c477416c:
+
+    # "But it drags my body deeper into the tight space."
+    "但它把我身体拖向更深处。"
+
+# game/nikroute3.rpy:11869
+translate Schinese sny5_c3bfa4aa:
+
+    # no "\"There’s a way out of that.\""
+    no_CN "有办法能逃。"
+
+# game/nikroute3.rpy:11870
+translate Schinese sny5_7381215d:
+
+    # no "\"All you have to do is agree to let me have your body.\""
+    no_CN "你只要同意把身体交给我就行了。"
+
+# game/nikroute3.rpy:11871
+translate Schinese sny5_b7862aee:
+
+    # no "\"If you can sing for that one, then there’s no reason you shouldn’t sing for me.\""
+    no_CN "你能给它唱歌，那就没道理不能给我唱。"
+
+# game/nikroute3.rpy:11872
+translate Schinese sny5_eeab4900:
+
+    # "I don’t like the sound of that."
+    "这听起来不妙。"
+
+# game/nikroute3.rpy:11873
+translate Schinese sny5_19a5459e:
+
+    # m "\"You seem plenty comfy inside it already.\""
+    m "你好像早就擅自进来了啊。"
+
+# game/nikroute3.rpy:11874
+translate Schinese sny5_844fd8da:
+
+    # m "\"I don’t remember letting you in.\""
+    m "我可不记得有同意你进。"
+
+# game/nikroute3.rpy:11875
+translate Schinese sny5_c36cda79:
+
+    # no "\"It’s easy to slip through a crack in the door.\""
+    no_CN "要从打开的门缝熘进来是很容易。"
+
+# game/nikroute3.rpy:11876
+translate Schinese sny5_3ebe3314:
+
+    # no "\"The void in you was so big that it wasn’t even closed.\""
+    no_CN "你体内的空洞太大，关都关不上。"
+
+# game/nikroute3.rpy:11878
+translate Schinese sny5_4da05e87:
+
+    # "Its jaw drops so low that it looks like it could swallow me whole."
+    "它下颚大张，感觉能把我整个人都吞进去。"
+
+# game/nikroute3.rpy:11879
+translate Schinese sny5_bcf5c546:
+
+    # "But it still has to look somewhat like me to keep talking."
+    "但还是得保有我的身姿才能说话。"
+
+# game/nikroute3.rpy:11880
+translate Schinese sny5_e70bdae0:
+
+    # no "\"If you let me make you strong, I can take you to the seed.\""
+    no_CN "让我把你变强壮，我就能带你到种源。"
+
+# game/nikroute3.rpy:11881
+translate Schinese sny5_42dc4d14:
+
+    # no "\"There’s a way to trick it.\""
+    no_CN "有方法能骗过它。"
+
+# game/nikroute3.rpy:11882
+translate Schinese sny5_f1284470:
+
+    # m "\"The hell is a seed?\""
+    m "种源是什麽鬼？"
+
+# game/nikroute3.rpy:11883
+translate Schinese sny5_b1a6d44b:
+
+    # no "\"A blueprint of creation.\""
+    no_CN "创造的蓝图。"
+
+# game/nikroute3.rpy:11884
+translate Schinese sny5_7a200730:
+
+    # no "\"Everything structure needs a basis for design.\""
+    no_CN "世上一切都需要基础设计。"
+
+# game/nikroute3.rpy:11885
+translate Schinese sny5_0dd60a27:
+
+    # no "\"It won’t make you God, but you could be much stronger than the Devil.\""
+    no_CN "儘管不能让你成神，却还是能比魔鬼强大不少。"
+
+# game/nikroute3.rpy:11886
+translate Schinese sny5_d72c186d:
+
+    # no "\"Bet that sounds much better than dyin’ like a chump.\""
+    no_CN "比起白死好多了吧。"
+
+# game/nikroute3.rpy:11888
+translate Schinese sny5_1aaf94b1:
+
+    # "It’s practically on top of me now."
+    "它现在就在我正上方。"
+
+# game/nikroute3.rpy:11889
+translate Schinese sny5_a2d2d1dd:
+
+    # "I need to think."
+    "我需要想想。"
+
+# game/nikroute3.rpy:11892
+translate Schinese sny5_cf51bd6d:
+
+    # "The walls shudder again, this time with drywall flying off."
+    "牆壁震盪，涂漆喷飞。"
+
+# game/nikroute3.rpy:11893
+translate Schinese sny5_7fe78b31:
+
+    # m "\"What would we need to do it?\""
+    m "那该怎麽做？"
+
+# game/nikroute3.rpy:11894
+translate Schinese sny5_39cbb67e:
+
+    # no "\"Truth be told, we’ve already begun.\""
+    no_CN "老实说，我们已经在这麽做了。"
+
+# game/nikroute3.rpy:11897
+translate Schinese sny5_9a541612:
+
+    # "What remains of my image melts away into shadow."
+    "我身姿的形体化于阴影中。"
+
+# game/nikroute3.rpy:11899
+translate Schinese sny5_c2919b71:
+
+    # "There’s nothing inside of its mouth."
+    "它嘴里什麽也没有。"
+
+# game/nikroute3.rpy:11900
+translate Schinese sny5_0544ea2d:
+
+    # "Just black."
+    "一片漆黑。"
+
+# game/nikroute3.rpy:11901
+translate Schinese sny5_0af0c475:
+
+    # "A void."
+    "一片虚空。"
+
+# game/nikroute3.rpy:11903
+translate Schinese sny5_0385087e:
+
+    # no "\"First we’ll need to take your skin.\""
+    no_CN "得先把你的皮囊摘下。"
+
+# game/nikroute3.rpy:11904
+translate Schinese sny5_55c386eb:
+
+    # m "\"Stop this!\""
+    m "快住手！"
+
+# game/nikroute3.rpy:11905
+translate Schinese sny5_3d4e7f14:
+
+    # m "\"Let me wake up!\""
+    m "让我醒来！"
+
+# game/nikroute3.rpy:11906
+translate Schinese sny5_630587ad:
+
+    # no "\"Do what you’re told.\""
+    no_CN "听我的就对了。"
+
+# game/nikroute3.rpy:11907
+translate Schinese sny5_74d62d4d:
+
+    # no "\"This is your last chance for salvation.\""
+    no_CN "这是你最后的救赎机会了。"
+
+# game/nikroute3.rpy:11908
+translate Schinese sny5_dd98ad21:
+
+    # m "\"Salvation?\""
+    m "救赎？"
+
+# game/nikroute3.rpy:11909
+translate Schinese sny5_1edc9c77:
+
+    # m "\"How is this saving me...?\""
+    m "这怎麽算救我……？"
+
+# game/nikroute3.rpy:11910
+translate Schinese sny5_ddfe2e7b:
+
+    # "It starts to devour the bottom of my soles."
+    "它从我的脚开始吃起。"
+
+# game/nikroute3.rpy:11911
+translate Schinese sny5_9c846590:
+
+    # "My feet like they’re burning."
+    "让我的腿感觉像被火烧。"
+
+# game/nikroute3.rpy:11912
+translate Schinese sny5_95a9a256:
+
+    # no "\"Because it is the only way.\""
+    no_CN "这是唯一的方法。"
+
+# game/nikroute3.rpy:11913
+translate Schinese sny5_3fdc5f25:
+
+    # m "\"The only way for me?\""
+    m "是对我来说的唯一？"
+
+# game/nikroute3.rpy:11914
+translate Schinese sny5_93e6d0ba:
+
+    # m "\"Or the only way for {i}you?{/i}\""
+    m "还是对{i}你{/i}来说的唯一？"
+
+# game/nikroute3.rpy:11915
+translate Schinese sny5_1b856f74:
+
+    # no "\"No more.\""
+    no_CN "别再问了。"
+
+# game/nikroute3.rpy:11916
+translate Schinese sny5_abda6500:
+
+    # m "\"If I’m not dead {i}yet{/i}, then what is it looking for?\""
+    m "如果我{i}还{/i}没死，那它想干嘛？"
+
+# game/nikroute3.rpy:11918
+translate Schinese sny5_dc507037:
+
+    # m "\"It’s almost like you’re just trying to save yourself!\""
+    m "你根本就只想救你自己！"
+
+# game/nikroute3.rpy:11922
+translate Schinese sny5_d394436b:
+
+    # "I hear the most terrible noise in my life as the foundations of the house come apart."
+    "房子的地基裂得一分为二，发出我所听过最恐怖的声响。"
+
+# game/nikroute3.rpy:11924
+translate Schinese sny5_de42f237:
+
+    # "I’m no longer in an apartment in Gaul."
+    "我不再在高卢的公寓里了。"
+
+# game/nikroute3.rpy:11929
+translate Schinese sny5_17f50882:
+
+    # "I’m in a void, in series of tunnels that look like they’ve been stitched together by threads of light."
+    "我身处一片虚空，有好几条貌似被光线缝起来的隧道。"
+
+# game/nikroute3.rpy:11930
+translate Schinese sny5_03634e3a:
+
+    # "The spider is above me again, belly pale and terrible and bigger than it’s ever been."
+    "蜘蛛在我身上，肚皮泛白，比之前都还大，恐怖万分。"
+
+# game/nikroute3.rpy:11931
+translate Schinese sny5_c01d800e:
+
+    # "It’s upon the creature in the closet."
+    "也压着壁橱里的那隻生物。"
+
+# game/nikroute3.rpy:11934
+translate Schinese sny5_ae78daac:
+
+    # "The limbs of the spider shift into gaping mouths, monstrous in appearance, not quite identical but similar to the thing in front of me."
+    "蜘蛛脚变形成血盆大口，虽然不能说一模一样，但确实很像我眼前那东西的嘴。"
+
+# game/nikroute3.rpy:11935
+translate Schinese sny5_811761a0:
+
+    # "I try not to look, but I can’t help but stare."
+    "我不愿去看，但不禁盯得入迷。"
+
+# game/nikroute3.rpy:11936
+translate Schinese sny5_14b9f6af:
+
+    # "They’re ripping it apart."
+    "它正被那些嘴撕裂。"
+
+# game/nikroute3.rpy:11939
+translate Schinese sny5_ca87d592:
+
+    # "And as the parts of its body are devoured by a drooling, fanged mouth, I feel the worst pain I have ever felt in my entire life on the left side of my face."
+    "一张流着口水、长着尖牙的嘴吃下它被扯裂的部份。与此同时，我左脸传来人生中经历过最惨烈的痛楚。"
+
+# game/nikroute3.rpy:11942
+translate Schinese sny5_81a91ad1:
+
+    # "I open my eyelids, shaking on the bottom of the floor of the cave."
+    "我睁开双眼，在洞窟的地上抖动。"
+
+# game/nikroute3.rpy:11944
+translate Schinese sny5_9984959d:
+
+    # "I can move my body, and feel everything."
+    "身体能动，也有感觉。"
+
+# game/nikroute3.rpy:11945
+translate Schinese sny5_87c0cc57:
+
+    # "I stare up directly into an eye."
+    "我直望着一颗眼珠。"
+
+# game/nikroute3.rpy:11946
+translate Schinese sny5_98647d69:
+
+    # "A red eye that looks just like mine."
+    "跟我一样的红瞳。"
+
+# game/nikroute3.rpy:11947
+translate Schinese sny5_d303fc01:
+
+    # "It dawns upon me right now that I can only see out of my left eye."
+    "我这才惊觉，自己只有左眼看得见了。"
+
+# game/nikroute3.rpy:11948
+translate Schinese sny5_cad3a9d0:
+
+    # "A wet, red nerve dangles with blood."
+    "一条腥红湿润的神经正滴着血，在我眼前晃动。"
+
+# game/nikroute3.rpy:11949
+translate Schinese sny5_b4b66757:
+
+    # "I touch the right side of my face and can feel the blood streaming down my face."
+    "我碰了碰右脸，能感受到脸上血流不止。"
+
+# game/nikroute3.rpy:11951
+translate Schinese sny5_2e2e20f9:
+
+    # ni "\"DIE!\""
+    ni "{b}去死吧！{/b}"
+
+# game/nikroute3.rpy:11953
+translate Schinese sny5_0f2616a9:
+
+    # "All of its mouths scream as he puts a pickaxe into into its back."
+    "Nik一镐子砸在牠背上，牠所有的嘴一齐惨叫。"
+
+# game/nikroute3.rpy:11956
+translate Schinese sny5_57c9d020:
+
+    # "It dives backwards into the air and we hear it scuttle away."
+    "又升上空中，只有牠跑走的声音传来。"
+
+# game/nikroute3.rpy:11958
+translate Schinese sny5_42b9844b:
+
+    # "I see my eye staring back at me, one last time, before it disappears into the deep."
+    "我目送自己的眼珠离我而去，消失在深渊中。"
+
+# game/nikroute3.rpy:11963
+translate Schinese sny5_4c2df324:
+
+    # "I want it back."
+    "我想要回来。"
+
+# game/nikroute3.rpy:11964
+translate Schinese sny5_63b6f8ab:
+
+    # "I’m too shocked to even cry."
+    "我太过震惊，连哭都哭不出来了。"
+
+# game/nikroute3.rpy:11967
+translate Schinese sny5_a111e2dc:
+
+    # "Nik is tearing cloth."
+    "Nik撕碎布料。"
+
+# game/nikroute3.rpy:11969
+translate Schinese sny5_d13f8552:
+
+    # "He’s stuffing it onto my face."
+    "塞在我脸上。"
+
+# game/nikroute3.rpy:11970
+translate Schinese sny5_903d3c7b:
+
+    # m "\"What are you...\""
+    m "你在……"
+
+# game/nikroute3.rpy:11971
+translate Schinese sny5_552ecc9b:
+
+    # ni "\"I’m stopping the bleeding, Sam.\""
+    ni "我在止血，Sam。"
+
+# game/nikroute3.rpy:11972
+translate Schinese sny5_04c5f4a3:
+
+    # "There’s a sob in his voice."
+    "他语带哭腔。"
+
+# game/nikroute3.rpy:11973
+translate Schinese sny5_d8d58843:
+
+    # ni "\"We have to stop the bleeding...\""
+    ni "得先止血……"
+
+# game/nikroute3.rpy:11974
+translate Schinese sny5_9e8c3c34:
+
+    # m "\"It got me Nik.\""
+    m "我被牠抓走了。"
+
+# game/nikroute3.rpy:11976
+translate Schinese sny5_e7923155:
+
+    # ni "\"No it did not Sam!\""
+    ni "你没被抓走啊，Sam！"
+
+# game/nikroute3.rpy:11977
+translate Schinese sny5_70403ef2:
+
+    # ni "\"You’re here!\""
+    ni "你人还在这！"
+
+# game/nikroute3.rpy:11978
+translate Schinese sny5_171ec1f6:
+
+    # ni "\"I have you!\""
+    ni "就在我身边！"
+
+# game/nikroute3.rpy:11979
+translate Schinese sny5_935da312:
+
+    # m "\"Only some of me...\""
+    m "只有我的一部分……"
+
+# game/nikroute3.rpy:11980
+translate Schinese sny5_6f9dc0c6:
+
+    # ni "\"I have most of you Sam!\""
+    ni "你绝大部分都在这，Sam！"
+
+# game/nikroute3.rpy:11982
+translate Schinese sny5_2dd506b8:
+
+    # ni "\"All the important parts of you, right here!\""
+    ni "重要的部分，全都在这！"
+
+# game/nikroute3.rpy:11983
+translate Schinese sny5_893d5be9:
+
+    # ni "\"We’ll buy you a glass eye.\""
+    ni "大不了给你买个玻璃眼珠。"
+
+# game/nikroute3.rpy:11984
+translate Schinese sny5_0bc4637a:
+
+    # "I can’t help but laugh at that."
+    "我不禁笑了出来。"
+
+# game/nikroute3.rpy:11985
+translate Schinese sny5_12c4a966:
+
+    # m "\"Some gold thieves we are, huh?\""
+    m "咱们可真是不得了的黄金大盗啊。"
+
+# game/nikroute3.rpy:11986
+translate Schinese sny5_1fe8ebdc:
+
+    # ni "\"Forget the fucking gold.\""
+    ni "别他妈管什麽黄金了。"
+
+# game/nikroute3.rpy:11987
+translate Schinese sny5_3b04ddf1:
+
+    # "I hiss at him and grab his shoulder."
+    "我朝他发出嘶声，抓住他的肩膀。"
+
+# game/nikroute3.rpy:11988
+translate Schinese sny5_819e9d94:
+
+    # m "\"Don’t you dare.\""
+    m "你敢。"
+
+# game/nikroute3.rpy:11989
+translate Schinese sny5_38d6ef81:
+
+    # m "\"If you don’t take that gold then that means I would have died for nothin’.\""
+    m "要是不带黄金走，那我不就白死了。"
+
+# game/nikroute3.rpy:11990
+translate Schinese sny5_64702313:
+
+    # ni "\"You are {i}not{/i} going to die!\""
+    ni "你{i}不会{/i}死的！"
+
+# game/nikroute3.rpy:11991
+translate Schinese sny5_d8362f67:
+
+    # m "\"If you don’t take that gold, I’m gonna haunt you.\""
+    m "要是你不带黄金走，我就阴魂不散。"
+
+# game/nikroute3.rpy:11992
+translate Schinese sny5_5501ca41:
+
+    # ni "\"At least not until you are sick in bed.\""
+    ni "等我把你带到病床上再说吧。"
+
+# game/nikroute3.rpy:11993
+translate Schinese sny5_985bbe88:
+
+    # "I feel wet tears splash my forehead as he wraps a piece of cloth around me."
+    "我感到热泪打在额头上，他则在用布给我包扎。"
+
+# game/nikroute3.rpy:11994
+translate Schinese sny5_acd251ec:
+
+    # ni "\"In front of a fire.\""
+    ni "在炉火旁。"
+
+# game/nikroute3.rpy:11995
+translate Schinese sny5_09504f92:
+
+    # "More warm splashes."
+    "更多热滴。"
+
+# game/nikroute3.rpy:11996
+translate Schinese sny5_f88257af:
+
+    # ni "\"Not ‘til you’ve finished your last drop of coffee.\""
+    ni "等你喝完最后一口咖啡。"
+
+# game/nikroute3.rpy:11997
+translate Schinese sny5_822c3221:
+
+    # m "\"I’ll keep you up at night, laughing at how shitty your clothes are, because you couldn’t be fucked to take what we came here for.\""
+    m "我会让你整晚睡不着，笑你衣服寒酸，毕竟你连我们来这的目的都不想管了。"
+
+# game/nikroute3.rpy:11998
+translate Schinese sny5_41de55b6:
+
+    # "He puts a canteen in my face."
+    "他把水壶塞在我脸上。"
+
+# game/nikroute3.rpy:11999
+translate Schinese sny5_5b132d29:
+
+    # "Then he makes me drink."
+    "要我喝水。"
+
+# game/nikroute3.rpy:12000
+translate Schinese sny5_82c34d3c:
+
+    # "The whole world is slanted, and I feel so dizzy."
+    "我整个世界都倾斜了，头晕呼呼的。"
+
+# game/nikroute3.rpy:12002
+translate Schinese sny5_04ef88dd:
+
+    # "It stings when he slaps me."
+    "他拍了我一巴掌，一阵刺痛。"
+
+# game/nikroute3.rpy:12004
+translate Schinese sny5_d558943c:
+
+    # "I think he’s trying to keep me awake, but it’s too hard."
+    "大概是想要让我保持清醒，但太大力了。"
+
+# game/nikroute3.rpy:12005
+translate Schinese sny5_4ee0a706:
+
+    # "He ties the cloth to my face, hard."
+    "他把布绑在我脸上，绑得很紧。"
+
+# game/nikroute3.rpy:12007
+translate Schinese sny5_42d155e9:
+
+    # "My good eye opens and closes, and all I can focus on is the light from his helm."
+    "我把完好的那隻眼一睁一闭，但都只能看到他头盔的灯光。"
+
+# game/nikroute3.rpy:12008
+translate Schinese sny5_1af48d83:
+
+    # "I can’t tell if ten minutes passes, or ten hours."
+    "判断不出是过了十分钟还是十小时。"
+
+# game/nikroute3.rpy:12009
+translate Schinese sny5_5e875bb3:
+
+    # "But I can hear other voices, other rocks tumbling."
+    "但我听见了其他人和另一边岩石崩落的声音。"
+
+# game/nikroute3.rpy:12011
+translate Schinese sny5_ea15ee06:
+
+    # "And then I can’t focus anymore."
+    "然后我就无法集中精神了。"
+
+# game/nikroute3.rpy:12018
+translate Schinese sny5_5e7b5fd8:
+
+    # "For a moment I think I can hear various sounds and see particular colors."
+    "有一瞬间，我还以为自己听到了很多种声响、看见了某些颜色。"
+
+# game/nikroute3.rpy:12020
+translate Schinese sny5_eeed6aa7:
+
+    # "There are voices, but I can’t tell whose."
+    "确实是有别人的声音，但我听不出是谁。"
+
+# game/nikroute3.rpy:12022
+translate Schinese sny5_3803aa12:
+
+    # paunk "\"The whole damn eye?\""
+    paunk "整颗眼珠？"
+
+# game/nikroute3.rpy:12023
+translate Schinese sny5_a02a8f21:
+
+    # feunk "\"There’s no taking half of an eye, is there?\""
+    feunk "也不可能只拿半颗吧？"
+
+# game/nikroute3.rpy:12024
+translate Schinese sny5_8e0246af:
+
+    # ni "\"He needs water.\""
+    ni "他需要水。"
+
+# game/nikroute3.rpy:12025
+translate Schinese sny5_f10b0a38:
+
+    # ni "\"And fresh air.\""
+    ni "和新鲜空气。"
+
+# game/nikroute3.rpy:12026
+translate Schinese sny5_2fedce8e:
+
+    # paunk "\"We can give him water.\""
+    paunk "水不是问题。"
+
+# game/nikroute3.rpy:12027
+translate Schinese sny5_33154fd6:
+
+    # paunk "\"Ain’t much we can do about air.\""
+    paunk "空气就难了。"
+
+# game/nikroute3.rpy:12043
+translate Schinese sny5_845ac95c:
+
+    # "I open my eye."
+    "我睁开眼。"
+
+# game/nikroute3.rpy:12044
+translate Schinese sny5_138b33b9:
+
+    # "The one I still have."
+    "没事的那一隻。"
+
+# game/nikroute3.rpy:12045
+translate Schinese sny5_50fecb96:
+
+    # "My vision is blurry, but I see several outlines of several men standing over me."
+    "视线模糊，但能看见好几个男人的轮廓站在我身旁。"
+
+# game/nikroute3.rpy:12047
+translate Schinese sny5_d4637dd2:
+
+    # "One of them crouches down to take a look at me."
+    "其中一个蹲下来打量我。"
+
+# game/nikroute3.rpy:12053
+translate Schinese sny5_1d9ee847:
+
+    # "It’s a wolverine."
+    "是隻狼貛。"
+
+# game/nikroute3.rpy:12054
+translate Schinese sny5_39b75fe1:
+
+    # "I flinch when I feel his grasp on my chin."
+    "他一把抓住我下巴，吓得我缩了一下。"
+
+# game/nikroute3.rpy:12055
+translate Schinese sny5_f9cf013f:
+
+    # "I didn’t realize he was as close as it is."
+    "我都没看出他离我这麽近。"
+
+# game/nikroute3.rpy:12056
+translate Schinese sny5_72dbbad8:
+
+    # "But he turns my head left to right, then whistles."
+    "他把我的头左摇右摆，然后吹了声口哨。"
+
+# game/nikroute3.rpy:12058
+translate Schinese sny5_1b43c470:
+
+    # pa "\"You did a good job stopping the blood, based on the stain.\""
+    pa "就这血渍来看，你止血功夫做得不错啊。"
+
+# game/nikroute3.rpy:12061
+translate Schinese sny5_4c95b0f7:
+
+    # pa "\"The stain looks like a flower, don’t it?\""
+    pa "这血渍像朵花似的，不觉得吗？"
+
+# game/nikroute3.rpy:12064
+translate Schinese sny5_1b3d0c71:
+
+    # fe "\"Ok.\""
+    fe "够了。"
+
+# game/nikroute3.rpy:12067
+translate Schinese sny5_897da30e:
+
+    # fe "\"Enough fucking around.\""
+    fe "别闹了。"
+
+# game/nikroute3.rpy:12069
+translate Schinese sny5_88494fc6:
+
+    # fe "\"He’s alive, so pay us.\""
+    fe "他还活着，付钱吧。"
+
+# game/nikroute3.rpy:12071
+translate Schinese sny5_2ca7fcef:
+
+    # ni "\"Can’t this wait?\""
+    ni "就不能等等吗？"
+
+# game/nikroute3.rpy:12073
+translate Schinese sny5_c37ec91e:
+
+    # fe "\"Sorry friend, I’m not down here at this time of the day for pinky promises.\""
+    fe "抱歉了朋友，要我在这种时间下来这里，就得付现。"
+
+# game/nikroute3.rpy:12076
+translate Schinese sny5_66906302:
+
+    # ya "\"No pay until we’re out.\""
+    ya "等我们出去再说。"
+
+# game/nikroute3.rpy:12080
+translate Schinese sny5_fa536247:
+
+    # "The hare removes his scarf."
+    "野兔摘下面巾。"
+
+# game/nikroute3.rpy:12083
+translate Schinese sny5_1c5b3cc8:
+
+    # fe "\"I need the money tonight.\""
+    fe "我今晚就要钱。"
+
+# game/nikroute3.rpy:12086
+translate Schinese sny5_726afdc0:
+
+    # fe "\"So my apologies if word if your word is not enough right now.\""
+    fe "很抱歉，口头说说是不够的。"
+
+# game/nikroute3.rpy:12089
+translate Schinese sny5_5de8563d:
+
+    # ya "\"There will be no more words and no pay if you do not follow my directions.\""
+    ya "不听我的指示就免谈，也别想拿钱。"
+
+# game/nikroute3.rpy:12093
+translate Schinese sny5_1746955e:
+
+    # "The wolverine stands and exhales, then steps between the hare and the tiger."
+    "狼貛起身叹气，挡在野兔跟老虎之间。"
+
+# game/nikroute3.rpy:12096
+translate Schinese sny5_6ba2d0f1:
+
+    # pa "\"Easy there, big shot.\""
+    pa "放松点，大傢伙。"
+
+# game/nikroute3.rpy:12099
+translate Schinese sny5_41003861:
+
+    # pa "\"No need to ride his ass.\""
+    pa "火气别这麽大嘛。"
+
+# game/nikroute3.rpy:12101
+translate Schinese sny5_44231c31:
+
+    # "Yao doesn’t move from his spot."
+    "Yao文风不动。"
+
+# game/nikroute3.rpy:12102
+translate Schinese sny5_5ebd6705:
+
+    # "Paul rubs the back of his own neck, looking behind him as if asking the hare for what to say."
+    "Paul揉了揉后颈，回头一望，好似要问野兔该说些什麽。"
+
+# game/nikroute3.rpy:12104
+translate Schinese sny5_6e6bb80f:
+
+    # pa "\"He just wants what he’s earned in his hot little hands for all we’re going through for y’all.\""
+    pa "他帮了你们这麽多，只是想拿点应有的报酬。"
+
+# game/nikroute3.rpy:12107
+translate Schinese sny5_b8058be6:
+
+    # ya "\"I said no pay until we’re out.\""
+    ya "我说了，钱等出去再付。"
+
+# game/nikroute3.rpy:12109
+translate Schinese sny5_ccce3a2e:
+
+    # "Paul walks towards the tiger, but he still doesn’t move."
+    "Paul走向老虎，但他仍不为所动。"
+
+# game/nikroute3.rpy:12112
+translate Schinese sny5_3e35ff54:
+
+    # pa "\"Listen...\""
+    pa "你给我听着……"
+
+# game/nikroute3.rpy:12116
+translate Schinese sny5_437c8942:
+
+    # ya "\"Leave now if you do not agree!\""
+    ya "要是不同意，你们现在就能走！"
+
+# game/nikroute3.rpy:12120
+translate Schinese sny5_74dcfbc2:
+
+    # pa "\"You’ll have more than just an argument comin’ your way if you don’t compensate us at the end of these tunnels.\""
+    pa "要是走出隧道后你还没给我们报酬，等着你的可不只口头争议而已啊。"
+
+# game/nikroute3.rpy:12123
+translate Schinese sny5_b645e229:
+
+    # ya "\"Then it is as it should be!\""
+    ya "这不用你说！"
+
+# game/nikroute3.rpy:12127
+translate Schinese sny5_2f3f9811:
+
+    # "Paul breaks the stare and turns to me, then to Nik."
+    "Paul不再跟他互瞪，看了我一眼后又转向Nik。"
+
+# game/nikroute3.rpy:12130
+translate Schinese sny5_7c0876f1:
+
+    # pa "\"You’re all lucky to be alive.\""
+    pa "你们还活着就该偷笑了。"
+
+# game/nikroute3.rpy:12133
+translate Schinese sny5_c70e578e:
+
+    # fe "\"They don’t even let the foremen come down here.\""
+    fe "连工头都不准下来这里。"
+
+# game/nikroute3.rpy:12135
+translate Schinese sny5_92e016f1:
+
+    # m "\"...and why’s that?\""
+    m "……为什麽？"
+
+# game/nikroute3.rpy:12137
+translate Schinese sny5_b6f6f373:
+
+    # pa "\"Sam, you shouldn’t be talking.\""
+    pa "Sam，你最好别开口说话。"
+
+# game/nikroute3.rpy:12140
+translate Schinese sny5_cbd5d66e:
+
+    # pa "\"What in tarnation do you mean?\""
+    pa "但还能为什麽？"
+
+# game/nikroute3.rpy:12143
+translate Schinese sny5_c940c817:
+
+    # pa "\"These tunnels ain’t stable!\""
+    pa "这些隧道危险得很！"
+
+# game/nikroute3.rpy:12146
+translate Schinese sny5_88770388:
+
+    # pa "\"Sure as shit, you found that out for yourselves.\""
+    pa "你们可是亲身体会到了。"
+
+# game/nikroute3.rpy:12149
+translate Schinese sny5_68e03918:
+
+    # "I start laughing."
+    "我笑了起来。"
+
+# game/nikroute3.rpy:12150
+translate Schinese sny5_0abb5e14:
+
+    # "He doesn’t seem to expect that and gives me a funny look."
+    "出乎他的意料，令他狐疑地看着我。"
+
+# game/nikroute3.rpy:12151
+translate Schinese sny5_2f44d07b:
+
+    # m "\"...you sure about that?\""
+    m "……你确定？"
+
+# game/nikroute3.rpy:12152
+translate Schinese sny5_998115e3:
+
+    # "He gives me a look like I just caught a disease."
+    "他现在用一种我有病的眼神望了过来。"
+
+# game/nikroute3.rpy:12154
+translate Schinese sny5_42dc7b01:
+
+    # pa "\"Y’all should keep an eye on this one.\""
+    pa "你们要看好他啊。"
+
+# game/nikroute3.rpy:12158
+translate Schinese sny5_674e5db3:
+
+    # pa "\"Probably has brain damage.\""
+    pa "脑子可能出问题了。"
+
+# game/nikroute3.rpy:12161
+translate Schinese sny5_542b2942:
+
+    # pa "\"And I ain’t even sayin’ that to be mean.\""
+    pa "我这甚至不是在骂他。"
+
+# game/nikroute3.rpy:12163
+translate Schinese sny5_b9b8dbe6:
+
+    # "He picks up a lantern on the floor and turns his back to us."
+    "他从地上提起一盏灯，转身背对我们。"
+
+# game/nikroute3.rpy:12165
+translate Schinese sny5_e9e1ddfa:
+
+    # pa "\"Let’s finish this business.\""
+    pa "赶快搞定吧。"
+
+# game/nikroute3.rpy:12168
+translate Schinese sny5_c6f34d8e:
+
+    # pa "\"I got a wink or forty to catch up on.\""
+    pa "我还想回去补眠呢。"
+
+# game/nikroute3.rpy:12171
+translate Schinese sny5_cb4e96c5:
+
+    # pa "\"We wouldn’t be doin’ this for just anybody, y’all hear?\""
+    pa "可不是任何人都能让我们愿意帮这种忙的，听见没？"
+
+# game/nikroute3.rpy:12175
+translate Schinese sny5_aea9cb88:
+
+    # "He starts walking forward."
+    "他迳直走离。"
+
+# game/nikroute3.rpy:12176
+translate Schinese sny5_9fdf547c:
+
+    # "Felipe waits a while for Paul to be out of sight."
+    "Felipe则等到Paul不见踪影。"
+
+# game/nikroute3.rpy:12179
+translate Schinese sny5_3f477cb8:
+
+    # fe "\"What did he mean when he asked if we’re sure?\""
+    fe "他刚才问我们确不确定是指什麽？"
+
+# game/nikroute3.rpy:12182
+translate Schinese sny5_b4f355de:
+
+    # fe "\"This one?\""
+    fe "这傢伙？"
+
+# game/nikroute3.rpy:12184
+translate Schinese sny5_81030ba6:
+
+    # "He prods me with his huge boot."
+    "他用脚上的大靴子戳了戳我。"
+
+# game/nikroute3.rpy:12185
+translate Schinese sny5_012612e7:
+
+    # m "\"Quit it.\""
+    m "别弄我。"
+
+# game/nikroute3.rpy:12187
+translate Schinese sny5_9ab1a28c:
+
+    # ya "\"That one likely had brain damage even before his accident.\""
+    ya "他大概从这次意外前就脑子有病了。"
+
+# game/nikroute3.rpy:12189
+translate Schinese sny5_ec68e84b:
+
+    # ya talking "\"He is out of sorts.\""
+    ya talking "人不太正常。"
+
+# game/nikroute3.rpy:12191
+translate Schinese sny5_eb836290:
+
+    # m "\"You want to say that again while you look at me?\""
+    m "你敢看着我再说一遍吗？"
+
+# game/nikroute3.rpy:12193
+translate Schinese sny5_9b7d132f:
+
+    # ni "\"Sam.\""
+    ni "Sam。"
+
+# game/nikroute3.rpy:12194
+translate Schinese sny5_40aae860:
+
+    # "Nik gives me a worried look, that I shouldn’t say another thing."
+    "Nik用焦急的眼神示意我别再说话。"
+
+# game/nikroute3.rpy:12195
+translate Schinese sny5_5f587030:
+
+    # "Yao looks like he’ll kill me if do."
+    "Yao则是一脸想杀我灭口的表情。"
+
+# game/nikroute3.rpy:12197
+translate Schinese sny5_7059e1b7:
+
+    # fe "\"He clearly needs help.\""
+    fe "他很明显需要帮忙。"
+
+# game/nikroute3.rpy:12200
+translate Schinese sny5_f986edbb:
+
+    # fe "\"He’s big, but I can get one side of him.\""
+    fe "个头是很大，但我能帮忙扶一边。"
+
+# game/nikroute3.rpy:12204
+translate Schinese sny5_0ecb6168:
+
+    # ni "\"I’ve got the other.\""
+    ni "我扶另一边。"
+
+# game/nikroute3.rpy:12207
+translate Schinese sny5_a4259669:
+
+    # "They help me up."
+    "他们扶我起身。"
+
+# game/nikroute3.rpy:12208
+translate Schinese sny5_cc280fcb:
+
+    # "Each of them are warm with sweat and earth and their own different smells."
+    "两人身体都很热、大汗淋漓，散发着泥土跟属于他们各自的气味。"
+
+# game/nikroute3.rpy:12212
+translate Schinese sny5_678d15e5:
+
+    # ya "\"I’ll walk behind us, then.\""
+    ya "那我负责殿后。"
+
+# game/nikroute3.rpy:12215
+translate Schinese sny5_8aad5df5:
+
+    # "Felipe’s ears twitch, like they’re annoyed."
+    "Felipe双耳不耐烦地抖了一下。"
+
+# game/nikroute3.rpy:12224
+translate Schinese sny5_3be7f2c4:
+
+    # "We don’t walk for less than a minute until the hare speaks into my ear."
+    "还走不到一分钟，野兔就跟我耳语："
+
+# game/nikroute3.rpy:12226
+translate Schinese sny5_6b36767a:
+
+    # fe "\"No, seriously.\""
+    fe "我说认真的。"
+
+# game/nikroute3.rpy:12229
+translate Schinese sny5_11576ecc:
+
+    # fe "\"What do you mean by that?\""
+    fe "你那到底什麽意思？"
+
+# game/nikroute3.rpy:12231
+translate Schinese sny5_553f73e3:
+
+    # "I can feel Yao’s eyes staring at the back of my neck."
+    "我感觉Yao正死瞪着我后颈。"
+
+# game/nikroute3.rpy:12232
+translate Schinese sny5_cda84f4e:
+
+    # "I wonder if I can tell them about the gold, or about Ben’s crew."
+    "我不知道能不能告诉他黄金或Ben那伙人的事。"
+
+# game/nikroute3.rpy:12233
+translate Schinese sny5_6d787559:
+
+    # "If Yao hasn’t told these men about the gold, he’d have to give them some."
+    "要是Yao没跟他们提过黄金，那麽就得分给他们了。"
+
+# game/nikroute3.rpy:12234
+translate Schinese sny5_06ae3239:
+
+    # "If I tell them about Ben’s crew, it could implicate me and Nik in their deaths."
+    "如果提起Ben那伙人，那他们的死可能会牵连到我和Nik。"
+
+# game/nikroute3.rpy:12235
+translate Schinese sny5_e7ee61cb:
+
+    # "But I don’t have the heart to lie to these men."
+    "但我不愿对这几个人说谎。"
+
+# game/nikroute3.rpy:12236
+translate Schinese sny5_06b3df11:
+
+    # "Not after living through not one but two tunnel collapses by their hand."
+    "毕竟他们已经从矿坑坍方中救了我足足两次。"
+
+# game/nikroute3.rpy:12237
+translate Schinese sny5_23608d06:
+
+    # m "\"The foremen are lyin’ to you.\""
+    m "工头们是在骗你。"
+
+# game/nikroute3.rpy:12239
+translate Schinese sny5_289165cb_1:
+
+    # "He chuckles."
+    "他咯咯笑。"
+
+# game/nikroute3.rpy:12241
+translate Schinese sny5_0bac8c57:
+
+    # fe "\"So the sun comes up in the morning.\""
+    fe "这哪有什麽稀奇的。"
+
+# game/nikroute3.rpy:12244
+translate Schinese sny5_f9b56008:
+
+    # fe "\"What did you see down there?\""
+    fe "你在下面看到了什麽？"
+
+# game/nikroute3.rpy:12246
+translate Schinese sny5_9d917297:
+
+    # "I try to think again."
+    "我再度思考。"
+
+# game/nikroute3.rpy:12247
+translate Schinese sny5_9083aa99:
+
+    # "Think right for once."
+    "想找个好答案。"
+
+# game/nikroute3.rpy:12248
+translate Schinese sny5_87dabc03:
+
+    # "I know Paul says the man needs money."
+    "我知道Paul说他需要钱。"
+
+# game/nikroute3.rpy:12249
+translate Schinese sny5_7caa9c85:
+
+    # "He pocketed profit right in front of me without much of a care."
+    "甚至当着我的面随手就把值钱货塞口袋里。"
+
+# game/nikroute3.rpy:12250
+translate Schinese sny5_6902c275:
+
+    # m "\"Paul said you need money.\""
+    m "Paul说你需要钱。"
+
+# game/nikroute3.rpy:12252
+translate Schinese sny5_eee98eec:
+
+    # fe "\"Mi madre está enferma.\""
+    fe "Mi madre está enferma。"
+
+# game/nikroute3.rpy:12254
+translate Schinese sny5_8d7876b6:
+
+    # "He mumbles it quietly."
+    "他嘀咕道。"
+
+# game/nikroute3.rpy:12256
+translate Schinese sny5_427acb52:
+
+    # "I know enough Sonoran to tell what he’s saying."
+    "我知道一点索诺拉语，听得懂他说了什麽。"
+
+# game/nikroute3.rpy:12257
+translate Schinese sny5_72de1ed6:
+
+    # m "\"What from?\""
+    m "什麽病？"
+
+# game/nikroute3.rpy:12259
+translate Schinese sny5_c1946291:
+
+    # fe "\"Lung problems.\""
+    fe "肺病。"
+
+# game/nikroute3.rpy:12262
+translate Schinese sny5_26ac022a:
+
+    # fe "\"She needs a doctor.\""
+    fe "她需要医生。"
+
+# game/nikroute3.rpy:12264
+translate Schinese sny5_45b55f8a:
+
+    # "It’s not the first time I’ve heard somebody use a family member as an excuse to ask for money."
+    "这也不是第一次我听有人以家人生病为理由要钱。"
+
+# game/nikroute3.rpy:12265
+translate Schinese sny5_6b833cfe:
+
+    # "Problem is, just as many people are sick all the time that some of them are bound to be telling the truth as much as lying."
+    "问题在于，确实很多人都生了病，就算有不少人是在说谎，也肯定有些人是在说真话。"
+
+# game/nikroute3.rpy:12267
+translate Schinese sny5_f841b2ec:
+
+    # fe "\"She could use all the help she could get, you know?\""
+    fe "再小的帮助都对她有用，你懂吗？"
+
+# game/nikroute3.rpy:12269
+translate Schinese sny5_e66954d5:
+
+    # "I want to tell him."
+    "我好想告诉他。"
+
+# game/nikroute3.rpy:12270
+translate Schinese sny5_083beb34:
+
+    # "But I can’t."
+    "但那不行。"
+
+# game/nikroute3.rpy:12271
+translate Schinese sny5_ec996254:
+
+    # "If he knows what’s down there, he’s definitely gonna go look for himself."
+    "要是他知道底下有什麽，他肯定会独自去找的。"
+
+# game/nikroute3.rpy:12272
+translate Schinese sny5_42519f36:
+
+    # "It would be right to lie now."
+    "这里只能先骗他了。"
+
+# game/nikroute3.rpy:12273
+translate Schinese sny5_c7d6168f:
+
+    # "He’ll be better off."
+    "这是为了他好。"
+
+# game/nikroute3.rpy:12274
+translate Schinese sny5_dace0c18:
+
+    # "That’s what I tell myself."
+    "我这麽说服自己。"
+
+# game/nikroute3.rpy:12275
+translate Schinese sny5_1fbec315:
+
+    # "But I want so bad to put the lump of my gold inside his pocket."
+    "但我真的很想把自己这块金子放进他口袋里。"
+
+# game/nikroute3.rpy:12276
+translate Schinese sny5_66ff1b87:
+
+    # "He deserves it as much as we do."
+    "这是他跟我们一样应得的。"
+
+# game/nikroute3.rpy:12277
+translate Schinese sny5_2491256b:
+
+    # "Would I even have a chance to, if Yao is watching me?"
+    "但在Yao的监视下，我能有这种机会吗？"
+
+# game/nikroute3.rpy:12278
+translate Schinese sny5_8bdd5ca4:
+
+    # "I don’t know."
+    "我不知道。"
+
+# game/nikroute3.rpy:12280
+translate Schinese sny5_6ad2e27f:
+
+    # ya "\"Stop asking him questions.\""
+    ya "别再问他问题了。"
+
+# game/nikroute3.rpy:12282
+translate Schinese sny5_175851f8:
+
+    # fe "\"He’ll stay conscious if I keep talking to him.\""
+    fe "跟他讲话能帮他保持清醒。"
+
+# game/nikroute3.rpy:12286
+translate Schinese sny5_73da263e:
+
+    # fe "\"It’s the rest of you who are too quiet.\""
+    fe "反倒是你们太过安静了。"
+
+# game/nikroute3.rpy:12288
+translate Schinese sny5_c0fc8c0c:
+
+    # m "\"I don’t mind talkin’.\""
+    m "讲话挺好的。"
+
+# game/nikroute3.rpy:12289
+translate Schinese sny5_cd86dd42:
+
+    # ya "\"Then talk to him about anything other than money.\""
+    ya "那就谈除了钱以外的话题。"
+
+# game/nikroute3.rpy:12290
+translate Schinese sny5_a1c2471c:
+
+    # ya "\"He is being paid well for this.\""
+    ya "我可是准备付他一大笔钱的。"
+
+# game/nikroute3.rpy:12292
+translate Schinese sny5_43b7c90c:
+
+    # fe "\"But for what I put up with it’s never enough.\""
+    fe "但我做的事可不只值这点。"
+
+# game/nikroute3.rpy:12294
+translate Schinese sny5_c4933282:
+
+    # "He makes the crossing gestures that Catholics do over his heart."
+    "他在心窝比划基督徒会做的十字动作。"
+
+# game/nikroute3.rpy:12296
+translate Schinese sny5_6e6ad28f:
+
+    # fe "\"Maria forgive me for the thought I just had.\""
+    fe "玛丽亚，请原谅我刚才的想法。"
+
+# game/nikroute3.rpy:12298
+translate Schinese sny5_4a11d703:
+
+    # "I snort."
+    "我嗤之以鼻。"
+
+# game/nikroute3.rpy:12299
+translate Schinese sny5_30b30125:
+
+    # m "\"Whatever it was, don’t worry.\""
+    m "不管那是什麽想法，你都不用担心太多。"
+
+# game/nikroute3.rpy:12300
+translate Schinese sny5_59b9873d:
+
+    # m "\"I’m promise I’m way worse than you.\""
+    m "我保证我比你坏多了。"
+
+# game/nikroute3.rpy:12302
+translate Schinese sny5_96114ea2:
+
+    # "He laughs."
+    "他笑了起来。"
+
+# game/nikroute3.rpy:12304
+translate Schinese sny5_55d323e8:
+
+    # fe "\"I apologized to the Holy Mother and all who have perished here before us for being greedy.\""
+    fe "我是为自己的贪婪向圣母和先贤们道歉。"
+
+# game/nikroute3.rpy:12307
+translate Schinese sny5_6987ffac:
+
+    # fe "\"I want nice things for myself and my family, you know?\""
+    fe "我当然想为自己跟家人争取点富贵，你能理解吧？"
+
+# game/nikroute3.rpy:12310
+translate Schinese sny5_605c033b:
+
+    # fe "\"It’s my vice.\""
+    fe "这就是我的罪孽。"
+
+# game/nikroute3.rpy:12315
+translate Schinese sny5_7ee248ac:
+
+    # "Felipe and Nik hold me as they help me over a pile of rubble in our way."
+    "Felipe跟Nik搀扶着我跨过地上的瓦砾堆。"
+
+# game/nikroute3.rpy:12317
+translate Schinese sny5_6b98db80:
+
+    # m "\"I don’t think it’s so bad to want nice things after spendin’ so long in a place like this.\""
+    m "我不认为在这种地方待了这麽久后，想要点好生活是件坏事。"
+
+# game/nikroute3.rpy:12318
+translate Schinese sny5_749ff25d:
+
+    # "Felipe nods."
+    "Felipe点点头。"
+
+# game/nikroute3.rpy:12320
+translate Schinese sny5_0b6f7373:
+
+    # fe "\"My mother says that the angels in the sky who watch over us compose a piece of music for us to listen to, when we enter the gates of heaven.\""
+    fe "我母亲说天使会为我们编曲，在我们上了天堂以后演奏给我们听。"
+
+# game/nikroute3.rpy:12323
+translate Schinese sny5_48c9fa7b:
+
+    # fe "\"She says they write a musical note into the composition for every act of generosity we give.\""
+    fe "每件美德会被记为一个音符。"
+
+# game/nikroute3.rpy:12326
+translate Schinese sny5_721f471d:
+
+    # fe "\"And a lightning crash for every act of selfishness.\""
+    fe "每件作恶则会被记作噪音。"
+
+# game/nikroute3.rpy:12329
+translate Schinese sny5_9a55487a:
+
+    # fe "\"Then they play it on loop for you.\""
+    fe "然后循环播放给我们听。"
+
+# game/nikroute3.rpy:12331
+translate Schinese sny5_1e414ade:
+
+    # "I try to paint a picture of the idea in my head."
+    "我在脑中想像那个画面。"
+
+# game/nikroute3.rpy:12332
+translate Schinese sny5_d38e0953:
+
+    # m "\"You sure that ain’t supposed to be hell?\""
+    m "这更像是地狱吧？"
+
+# game/nikroute3.rpy:12334
+translate Schinese sny5_2fa9bb3a:
+
+    # fe "\"It’s not true of course.\""
+    fe "当然不是真实的了。"
+
+# game/nikroute3.rpy:12337
+translate Schinese sny5_45bffbb7:
+
+    # fe "\"But it does make me think of when she used to speak to me, and that’s enough to make me smile.\""
+    fe "但每次都能让我想起跟她之间的交流，这就足够让我保持笑容了。"
+
+# game/nikroute3.rpy:12339
+translate Schinese sny5_d15644e9:
+
+    # "He pats me on the back."
+    "他拍拍我的背。"
+
+# game/nikroute3.rpy:12341
+translate Schinese sny5_4a570d1c:
+
+    # fe "\"Do you look forward to seeing your mother again?\""
+    fe "你会期待跟自己母亲再会吗？"
+
+# game/nikroute3.rpy:12343
+translate Schinese sny5_c707bc8c:
+
+    # "My ma would probably scream if she saw me right now."
+    "要是我妈看到我现在这个样子，大概会尖叫吧。"
+
+# game/nikroute3.rpy:12344
+translate Schinese sny5_ffb92ff3:
+
+    # m "\"We aren’t close.\""
+    m "我们关係不算好。"
+
+# game/nikroute3.rpy:12345
+translate Schinese sny5_99fd06d3:
+
+    # "Or know if one another’s alive or dead, for that matter."
+    "甚至连彼此是死是活都不知道。"
+
+# game/nikroute3.rpy:12347
+translate Schinese sny5_3aa2ee48:
+
+    # fe "\"You’re impressive.\""
+    fe "我真佩服你。"
+
+# game/nikroute3.rpy:12350
+translate Schinese sny5_7f0a3eb9:
+
+    # fe "\"I don’t think I’d have the courage to come down here for one more day if I didn’t think of her songs.\""
+    fe "要不是我心里想着她的歌，我都不见得敢再在这里多待一天。"
+
+# game/nikroute3.rpy:12352
+translate Schinese sny5_407d008a:
+
+    # m "\"That’s a hell of a lot of an effort to make for somebody just because they sang to you.\""
+    m "只是有人会唱歌给你听，你这也太牺牲了吧。"
+
+# game/nikroute3.rpy:12354
+translate Schinese sny5_16d93624:
+
+    # fe "\"It wasn’t just the songs.\""
+    fe "不单单是歌。"
+
+# game/nikroute3.rpy:12357
+translate Schinese sny5_82705758:
+
+    # fe "\"But sounds are important to my family.\""
+    fe "声音是我们家庭很重要的一环。"
+
+# game/nikroute3.rpy:12359
+translate Schinese sny5_770f33f2:
+
+    # "He flicks his big ears at me with a snap."
+    "他大大的双耳朝我一抖。"
+
+# game/nikroute3.rpy:12361
+translate Schinese sny5_b5babd49:
+
+    # fe "\"Maybe that’s also why I want to know what’s rattling around in both your pockets.\""
+    fe "也许这就是我想知道是什麽在你口袋中作响的原因之一吧。"
+
+# game/nikroute3.rpy:12364
+translate Schinese sny5_234f4564:
+
+    # "His hand slips inside my clothes but it stops."
+    "他把手伸进我衣服，却突然停了下来。"
+
+# game/nikroute3.rpy:12369
+translate Schinese sny5_2be39f84:
+
+    # "The tiger behind me has his wrist in his paw."
+    "我身后的老虎正用爪抓住他手腕。"
+
+# game/nikroute3.rpy:12372
+translate Schinese sny5_8d048d73:
+
+    # ya "\"If you want to keep this hand.\""
+    ya "还想要你这手的话，"
+
+# game/nikroute3.rpy:12373
+translate Schinese sny5_247096ce:
+
+    # ya "\"You will take it out of his pocket.\""
+    ya "就给我慢慢地"
+
+# game/nikroute3.rpy:12374
+translate Schinese sny5_a6a2fd80:
+
+    # ya "\"Very.\""
+    ya "把手从他口袋"
+
+# game/nikroute3.rpy:12375
+translate Schinese sny5_7023bcb3:
+
+    # ya "\"Slowly.\""
+    ya "拿开。"
+
+# game/nikroute3.rpy:12377
+translate Schinese sny5_c2429cfc:
+
+    # "Felipe squirmed, but Yao didn’t let go of it."
+    "Felipe痛得抽动一下，但Yao紧抓不放。"
+
+# game/nikroute3.rpy:12378
+translate Schinese sny5_868f2535:
+
+    # "At least not for a good while."
+    "僵持了好一阵子。"
+
+# game/nikroute3.rpy:12380
+translate Schinese sny5_79bb8855:
+
+    # fe "\"You can’t hate a man for being just a little curious, can you?\""
+    fe "你不会因为有人好奇就跟他反目成仇吧？"
+
+# game/nikroute3.rpy:12382
+translate Schinese sny5_3fa63f5c:
+
+    # ya "\"For this?\""
+    ya "在这件事上？"
+
+# game/nikroute3.rpy:12384
+translate Schinese sny5_1ab1eb93:
+
+    # ya "\"I can.\""
+    ya "我会。"
+
+# game/nikroute3.rpy:12386
+translate Schinese sny5_1901dc64:
+
+    # ya "\"I won’t ask you to respect our privacy tonight again.\""
+    ya "我不会再次警告你今晚尊重我们的隐私了。"
+
+# game/nikroute3.rpy:12388
+translate Schinese sny5_1e6d5d9f:
+
+    # fe "\"Lady above...\""
+    fe "天上圣母啊……"
+
+# game/nikroute3.rpy:12391
+translate Schinese sny5_d3e77679:
+
+    # fe "\"I thought you were supposed to be on our side.\""
+    fe "我还以为妳是站在我们这边的。"
+
+# game/nikroute3.rpy:12393
+translate Schinese sny5_ef059f2e:
+
+    # ya "\"And what message does violating my privacy send, Felipe?\""
+    ya "你觉得侵犯我们隐私在她眼中是什麽行为，Felipe？"
+
+# game/nikroute3.rpy:12396
+translate Schinese sny5_9ee1940e:
+
+    # ni "\"Stop.\""
+    ni "别吵了。"
+
+# game/nikroute3.rpy:12397
+translate Schinese sny5_3ac554e6:
+
+    # ni "\"I do not want us to talk to each other this way.\""
+    ni "我不希望你们这样对待彼此。"
+
+# game/nikroute3.rpy:12398
+translate Schinese sny5_751f1142:
+
+    # "Yao and Felipe aren’t talking, but they’re breathing hard."
+    "Yao和Felipe没再说话，但呼吸急促。"
+
+# game/nikroute3.rpy:12400
+translate Schinese sny5_524f9b76:
+
+    # ni "\"We do not have to like one another to have a common goal.\""
+    ni "就算彼此看不顺眼，也能共同行动。"
+
+# game/nikroute3.rpy:12401
+translate Schinese sny5_d9c6b32f:
+
+    # ni "\"But we do have to trust.\""
+    ni "但信任还是必要的。"
+
+# game/nikroute3.rpy:12403
+translate Schinese sny5_9b632440:
+
+    # ni "\"That is what Dimitri always said.\""
+    ni "Dimitri总是把这句话挂在嘴上。"
+
+# game/nikroute3.rpy:12404
+translate Schinese sny5_52800827:
+
+    # ni "\"Even though I do like all of you.\""
+    ni "不过我自己是喜欢你们大家的。"
+
+# game/nikroute3.rpy:12407
+translate Schinese sny5_4defe056:
+
+    # "Yao finally lets go and Felipe blows on his hand, shaking it."
+    "Yao这才松手，Felipe吹着自己的手，甩了几下。"
+
+# game/nikroute3.rpy:12408
+translate Schinese sny5_97ee8885:
+
+    # "Then he starts mumbling under his mouth."
+    "然后嘀咕几句。"
+
+# game/nikroute3.rpy:12411
+translate Schinese sny5_d5ebb98c:
+
+    # fe "\"Pensé que querías mis dedos para tu colección.\""
+    fe "Pensé que querías mis dedos para tu colección。"
+
+# game/nikroute3.rpy:12414
+translate Schinese sny5_6da765ea:
+
+    # fe "\"Tu también fuiste responsable por eso.\""
+    fe "Tu también fuiste responsable por eso。"
+
+# game/nikroute3.rpy:12424
+translate Schinese sny5_4adfdf52:
+
+    # "The tiger lunges at the hare."
+    "老虎扑向野兔。"
+
+# game/nikroute3.rpy:12426
+translate Schinese sny5_188c0cf7:
+
+    # "Nik rushes to pull Yao away, who was already wailing on the hare’s stomach."
+    "Nik冲上去把Yao拉开，但他早就一拳揍在野兔肚子上了。"
+
+# game/nikroute3.rpy:12427
+translate Schinese sny5_31f5c28c:
+
+    # ni "\"Stop it, Yao!\""
+    ni "快住手，Yao！"
+
+# game/nikroute3.rpy:12428
+translate Schinese sny5_54f45965:
+
+    # ni "\"Stop it!\""
+    ni "别这样！"
+
+# game/nikroute3.rpy:12431
+translate Schinese sny5_949018b4:
+
+    # ya "\"How DARE he!\""
+    ya "他怎麽{b}敢{/b}！"
+
+# game/nikroute3.rpy:12432
+translate Schinese sny5_ffe51a09:
+
+    # ya "\"How DARE?\""
+    ya "怎麽{b}敢{/b}？"
+
+# game/nikroute3.rpy:12433
+translate Schinese sny5_4d1a2f7b:
+
+    # "The hare keels over, coughing."
+    "野兔跪倒在地上咳嗽。"
+
+# game/nikroute3.rpy:12435
+translate Schinese sny5_5682c6d8:
+
+    # "Then he stands up."
+    "然后才站起身子。"
+
+# game/nikroute3.rpy:12440
+translate Schinese sny5_27ffd06a:
+
+    # fe "\"I’m sorry.\""
+    fe "对不起。"
+
+# game/nikroute3.rpy:12442
+translate Schinese sny5_51a2b622:
+
+    # "His scratchy throat is raw."
+    "他咳到都沙哑了。"
+
+# game/nikroute3.rpy:12444
+translate Schinese sny5_15a64a97:
+
+    # fe "\"I mean it, I do.\""
+    fe "我是真的由衷感到抱歉。"
+
+# game/nikroute3.rpy:12445
+translate Schinese sny5_83a9c85c:
+
+    # fe "\"It’s just that...\""
+    fe "我只是……"
+
+# game/nikroute3.rpy:12447
+translate Schinese sny5_80eaf9f6:
+
+    # fe "\"I thought we were supposed to be comrades.\""
+    fe "以为我们是同志。"
+
+# game/nikroute3.rpy:12450
+translate Schinese sny5_9041ea77:
+
+    # fe "\"How can I share my burdens with you when I know you’re keeping secrets from me?\""
+    fe "知道你们有秘密瞒着我，要我还怎麽能跟你们同舟共济？"
+
+# game/nikroute3.rpy:12453
+translate Schinese sny5_e69dd345:
+
+    # fe "\"All three of you.\""
+    fe "你们三个都一样。"
+
+# game/nikroute3.rpy:12455
+translate Schinese sny5_c8e02500:
+
+    # "Paul’s light is far ahead of us by now."
+    "Paul的灯光离我们有好一段距离了。"
+
+# game/nikroute3.rpy:12456
+translate Schinese sny5_4f3c06fe:
+
+    # "He must not be aware of anything that just happened"
+    "他一定没察觉现在上演的事。"
+
+# game/nikroute3.rpy:12459
+translate Schinese sny5_f09471a5:
+
+    # "We stand together in the dark until Nik turns his cap on."
+    "我们站在黑暗中，等Nik点亮头灯。"
+
+# game/nikroute3.rpy:12461
+translate Schinese sny5_85a4beb4:
+
+    # ni "\"Everybody has secrets.\""
+    ni "每个人都有秘密。"
+
+# game/nikroute3.rpy:12462
+translate Schinese sny5_eb2a64c3:
+
+    # ni "\"The more who know a secret, the harder it is to keep.\""
+    ni "越多人知道，就越难保守。"
+
+# game/nikroute3.rpy:12464
+translate Schinese sny5_a20b4ddd:
+
+    # ni "\"Will you trust us when I say we have our reasons?\""
+    ni "如果我跟你说我们有苦衷，你还愿意信任我们吗？"
+
+# game/nikroute3.rpy:12468
+translate Schinese sny5_84ecf757:
+
+    # "He looks like he’s about to respond when {nw}"
+    "他好像正要回答{nw}"
+
+# game/nikroute3.rpy:12471
+translate Schinese sny5_17d3f899:
+
+    # extend "he turns his head sharply."
+    extend "却突然转头。"
+
+# game/nikroute3.rpy:12472
+translate Schinese sny5_3747349c:
+
+    # "The look of anxiousness on him turns into fear."
+    "表情从焦虑转为恐惧。"
+
+# game/nikroute3.rpy:12473
+translate Schinese sny5_f468d4f3:
+
+    # "One of his ears is ticking."
+    "一隻耳朵不停抖动。"
+
+# game/nikroute3.rpy:12476
+translate Schinese sny5_fbee6976:
+
+    # "I look behind us and I hear nothing."
+    "我往后看，什麽也没瞧见。"
+
+# game/nikroute3.rpy:12477
+translate Schinese sny5_83562c48:
+
+    # m "\"What’s wrong?\""
+    m "怎麽了？"
+
+# game/nikroute3.rpy:12478
+translate Schinese sny5_8bf71a5d:
+
+    # fe "\"You don’t hear the numbers?\""
+    fe "你没听见数字吗？"
+
+# game/nikroute3.rpy:12479
+translate Schinese sny5_f087fad9:
+
+    # "I try to listen again."
+    "我再次去听。"
+
+# game/nikroute3.rpy:12481
+translate Schinese sny5_bbd335e7:
+
+    # m "\"Nothing.\""
+    m "没有。"
+
+# game/nikroute3.rpy:12484
+translate Schinese sny5_cd0df08b:
+
+    # fe "\"Like seeing lightning before you hear the thunder roar...?\""
+    fe "就像在听见雷声前就看见闪电那样……？"
+
+# game/nikroute3.rpy:12486
+translate Schinese sny5_54a7761b:
+
+    # ya "\"There are no sound systems connected down here!\""
+    ya "这里没有传音系统啊！"
+
+# game/nikroute3.rpy:12489
+translate Schinese sny5_adc3e2cf:
+
+    # "He nods."
+    "他点头。"
+
+# game/nikroute3.rpy:12491
+translate Schinese sny5_aadcead0:
+
+    # fe "\"Yes.\""
+    fe "对。"
+
+# game/nikroute3.rpy:12494
+translate Schinese sny5_06aac125:
+
+    # fe "\"I know it doesn’t make sense.\""
+    fe "我也知道这不合理。"
+
+# game/nikroute3.rpy:12497
+translate Schinese sny5_765b2115:
+
+    # fe "\"It just keeps getting closer to zero every time I hear it.\""
+    fe "只是每次我听见，都越来越接近零。"
+
+# game/nikroute3.rpy:12499
+translate Schinese sny5_e6996db3:
+
+    # "We don’t have much we can say to that."
+    "我们无言以对。"
+
+# game/nikroute3.rpy:12502
+translate Schinese sny5_6cb6973c:
+
+    # "He turns from us, embarrassed."
+    "他羞愧地别开头。"
+
+# game/nikroute3.rpy:12504
+translate Schinese sny5_04ef6458:
+
+    # fe "\"My father died in the revolution you know.\""
+    fe "我父亲死在了革命中。"
+
+# game/nikroute3.rpy:12507
+translate Schinese sny5_0a46616d:
+
+    # fe "\"I don’t think I would forgive myself if mamma lost me like how she lost papa.\""
+    fe "要是我妈连我都失去了，我是不会原谅自己的。"
+
+# game/nikroute3.rpy:12510
+translate Schinese sny5_a6262d37:
+
+    # "He walks forward a bit."
+    "他往前走几步。"
+
+# game/nikroute3.rpy:12512
+translate Schinese sny5_00ef8d33:
+
+    # fe "\"I really am sorry.\""
+    fe "我真的很抱歉。"
+
+# game/nikroute3.rpy:12513
+translate Schinese sny5_b2166531:
+
+    # fe "\"I won’t tell Paul about any of this if you don’t.\""
+    fe "要是你们不说，我也不会跟Paul提刚才的事。"
+
+# game/nikroute3.rpy:12517
+translate Schinese sny5_fafe352c:
+
+    # "Then he stumbles out of our vision."
+    "然后就这麽踏离我们视线。"
+
+# game/nikroute3.rpy:12518
+translate Schinese sny5_860710d9:
+
+    # ni "\"Felipe, come back!\""
+    ni "Felipe，快回来！"
+
+# game/nikroute3.rpy:12519
+translate Schinese sny5_77d65967:
+
+    # "No response."
+    "无人回应。"
+
+# game/nikroute3.rpy:12521
+translate Schinese sny5_b7278bf8:
+
+    # ni "\"He shouldn’t be by himself.\""
+    ni "他不该单独行动的。"
+
+# game/nikroute3.rpy:12523
+translate Schinese sny5_c2e3a430:
+
+    # "Yao is scowling."
+    "Yao怒目而视。"
+
+# game/nikroute3.rpy:12526
+translate Schinese sny5_d8dc96da:
+
+    # ya "\"Let him go.\""
+    ya "别管他了。"
+
+# game/nikroute3.rpy:12527
+translate Schinese sny5_4d4b795f:
+
+    # m "\"He could run into danger.\""
+    m "他可能会碰到危险。"
+
+# game/nikroute3.rpy:12529
+translate Schinese sny5_8b628fce:
+
+    # ya "\"I am not ready to forgive nor forget just yet.\""
+    ya "我既没忘掉刚才那事，也还没原谅他。"
+
+# game/nikroute3.rpy:12530
+translate Schinese sny5_45a10c3a:
+
+    # ya "\"He covets the money bad enough that he will be waiting for us at the end.\""
+    ya "他那麽贪财，一定会在出口等着我们的。"
+
+# game/nikroute3.rpy:12531
+translate Schinese sny5_dc9ae2dd:
+
+    # m "\"It’s not something he had to do.\""
+    m "但这些不是他的义务。"
+
+# game/nikroute3.rpy:12532
+translate Schinese sny5_30841f0d:
+
+    # m "\"They saved our lives.\""
+    m "他们救了我们。"
+
+# game/nikroute3.rpy:12533
+translate Schinese sny5_e275424f:
+
+    # ya "\"Only with the promise of money.\""
+    ya "全是为了钱。"
+
+# game/nikroute3.rpy:12534
+translate Schinese sny5_e2303cfc:
+
+    # m "\"And I’d gladly give some of mine!\""
+    m "我很乐意付他们钱啊！"
+
+# game/nikroute3.rpy:12535
+translate Schinese sny5_7e1a3bc2:
+
+    # ya "\"That is not at all the point.\""
+    ya "重点不在这里。"
+
+# game/nikroute3.rpy:12537
+translate Schinese sny5_c65b1000:
+
+    # ni "\"Yao’s right, Sam.\""
+    ni "Yao说的对，Sam。"
+
+# game/nikroute3.rpy:12538
+translate Schinese sny5_8d792f44:
+
+    # ni "\"But I understand why somebody would ask for compensation.\""
+    ni "但我也能理解他们想要报酬的心情。"
+
+# game/nikroute3.rpy:12540
+translate Schinese sny5_d8493b8c:
+
+    # ni "\"We’re all suffering from the hardship of the strikes.\""
+    ni "罢工让我们大家都不好过。"
+
+# game/nikroute3.rpy:12542
+translate Schinese sny5_c452b19b:
+
+    # ni @ talking "\"We weren’t paid enough when we worked full time.\""
+    ni @ talking "连全职工作时都没拿到多少薪水。"
+
+# game/nikroute3.rpy:12544
+translate Schinese sny5_adfeaa62:
+
+    # ya "\"True...\""
+    ya "确实……"
+
+# game/nikroute3.rpy:12546
+translate Schinese sny5_6c86858c:
+
+    # ya "\"But that does not give him the right to interrogate our pockets.\""
+    ya "但这也不代表他有资格翻我们口袋。"
+
+# game/nikroute3.rpy:12547
+translate Schinese sny5_26d24b96:
+
+    # ya "\"Or say the things he said to me.\""
+    ya "或说那些话。"
+
+# game/nikroute3.rpy:12548
+translate Schinese sny5_37f2cb08:
+
+    # ni @ eyestalking "\"He said he was sorry.\""
+    ni @ eyestalking "他都道过歉了。"
+
+# game/nikroute3.rpy:12549
+translate Schinese sny5_7827f7a4:
+
+    # ya "\"Yet he still said it.\""
+    ya "说了就是说了。"
+
+# game/nikroute3.rpy:12550
+translate Schinese sny5_1d011d89:
+
+    # ni @ talking "\"I don’t think he meant it.\""
+    ni @ talking "他那应该不是真心的。"
+
+# game/nikroute3.rpy:12551
+translate Schinese sny5_c094675a:
+
+    # "I cock my eyebrow."
+    "我挑起眉毛。"
+
+# game/nikroute3.rpy:12552
+translate Schinese sny5_72d18a27:
+
+    # m "\"Would y’all mind saying what you mean?\""
+    m "你们能解释一下吗？"
+
+# game/nikroute3.rpy:12555
+translate Schinese sny5_f5b46ae9:
+
+    # "They both avoid my gaze."
+    "他们俩都闪躲我的目光。"
+
+# game/nikroute3.rpy:12556
+translate Schinese sny5_9877a899:
+
+    # ya "\"...Years ago, I encouraged a friend to impress one of the foremen by doing a job they thought he could not do.\""
+    ya "……几年前，我怂恿一位朋友去做工头们认为他办不到的工作，好让其中一位工头对他刮目相看。"
+
+# game/nikroute3.rpy:12557
+translate Schinese sny5_923967e4:
+
+    # ya "\"I told him if he could decide where to place the tracks himself, we could learn the outline of the mine quickly.\""
+    ya "我告诉他，如果他能自己判定要在哪铺轨道，就能更快探明矿洞的格局。"
+
+# game/nikroute3.rpy:12558
+translate Schinese sny5_c4015a68:
+
+    # ya "\"...And we did.\""
+    ya "……也确实实行了。"
+
+# game/nikroute3.rpy:12559
+translate Schinese sny5_fc67ceeb:
+
+    # m "\"So what went wrong?\""
+    m "那是出了什麽问题？"
+
+# game/nikroute3.rpy:12560
+translate Schinese sny5_2fbb8f57:
+
+    # "He helps Nik walk with me."
+    "他帮Nik一起扶我走。"
+
+# game/nikroute3.rpy:12561
+translate Schinese sny5_004cec42:
+
+    # "Maybe because he wants to get out of here faster."
+    "也许是想快点离开此地吧。"
+
+# game/nikroute3.rpy:12562
+translate Schinese sny5_3a493d5f:
+
+    # "Or maybe because he doesn’t want to be too distracted by his memories."
+    "也可能是不想沉浸在回忆里。"
+
+# game/nikroute3.rpy:12563
+translate Schinese sny5_19cfc81c:
+
+    # ya "\"Somebody let a minecart loose when he was placing the tracks.\""
+    ya "有人在他铺轨道的时候放下矿车。"
+
+# game/nikroute3.rpy:12564
+translate Schinese sny5_7cb88f65:
+
+    # ya "\"It took all his fingers.\""
+    ya "辗过了他的手指。"
+
+# game/nikroute3.rpy:12565
+translate Schinese sny5_6e388992:
+
+    # "So he is talking about Chang."
+    "原来说的是Chang。"
+
+# game/nikroute3.rpy:12567
+translate Schinese sny5_d1e63a83:
+
+    # m "\"This place takes things from you.\""
+    m "这地方确实会剥夺我们。"
+
+# game/nikroute3.rpy:12570
+translate Schinese sny5_aeca2ff7:
+
+    # "He shakes his head."
+    "他摇摇头。"
+
+# game/nikroute3.rpy:12571
+translate Schinese sny5_4364a6a1:
+
+    # ya "\"This was not a place taking anything.\""
+    ya "这件事可不是一片土地在剥夺人。"
+
+# game/nikroute3.rpy:12572
+translate Schinese sny5_8bc1c3fb:
+
+    # ya "\"This was people.\""
+    ya "是人。"
+
+# game/nikroute3.rpy:12573
+translate Schinese sny5_bfeb3f4b:
+
+    # m "\"But do you {i}know{/i} a person did it?\""
+    m "你{i}确定{/i}那是人为的吗？"
+
+# game/nikroute3.rpy:12574
+translate Schinese sny5_3054a5f3:
+
+    # m "\"We’ve all seen impossible things down there.\""
+    m "我们都在那底下见过了不可思议的事。"
+
+# game/nikroute3.rpy:12575
+translate Schinese sny5_0ad0c5fc:
+
+    # ya "\"There are two things that Chang and I are certain about that day.\""
+    ya "有两件事是我跟Chang对那天明确知道的。"
+
+# game/nikroute3.rpy:12576
+translate Schinese sny5_134db75e:
+
+    # ya "\"The first was that Beckett Moore was overlooking the teams in the mine.\""
+    ya "第一，那天的值班监督是Beckett Moore。"
+
+# game/nikroute3.rpy:12577
+translate Schinese sny5_ff6a05f3:
+
+    # ya "\"The second was that Chang heard somebody laughing at the top of the ramp.\""
+    ya "第二，Chang听见了轨道顶端有人的笑声。"
+
+# game/nikroute3.rpy:12578
+translate Schinese sny5_cbbf69e7:
+
+    # ya "\"At least one person was involved.\""
+    ya "相关人士至少有一个。"
+
+# game/nikroute3.rpy:12579
+translate Schinese sny5_48112cad:
+
+    # "He doesn’t seem like he can be convinced otherwise."
+    "看来他对此坚信不移。"
+
+# game/nikroute3.rpy:12580
+translate Schinese sny5_242fe6e6:
+
+    # "I figure it could have been an accident or a coincidence if nobody really saw anybody do it."
+    "如果真的没人目击事件经过，也有可能是意外或巧合。"
+
+# game/nikroute3.rpy:12581
+translate Schinese sny5_c623bf08:
+
+    # "I suppose something evil could push a cart."
+    "比如某种邪灵推的车。"
+
+# game/nikroute3.rpy:12582
+translate Schinese sny5_daeacefc:
+
+    # "But is there anything really more evil than the human soul?"
+    "但真有东西比人类更邪恶吗？"
+
+# game/nikroute3.rpy:12583
+translate Schinese sny5_43fe6e53:
+
+    # "Maybe the Devil."
+    "魔鬼算是吧。"
+
+# game/nikroute3.rpy:12584
+translate Schinese sny5_4e38668d:
+
+    # "Or God."
+    "或神。"
+
+# game/nikroute3.rpy:12585
+translate Schinese sny5_82a5dd5e:
+
+    # "But I truly do not know."
+    "但我真的说不准。"
+
+# game/nikroute3.rpy:12593
+translate Schinese sny5_88db9ceb:
+
+    # "At the mouth of the cave, Paul and Felipe are waiting for us."
+    "Paul跟Felipe在洞穴入口等着我们。"
+
+# game/nikroute3.rpy:12594
+translate Schinese sny5_2d57be48:
+
+    # "Their paws are outstretched."
+    "两人都把爪伸了过来。"
+
+# game/nikroute3.rpy:12595
+translate Schinese sny5_43c67aaf:
+
+    # "Yao fishes through his pockets and takes out a leather pouch."
+    "Yao从口袋中翻出一个皮包。"
+
+# game/nikroute3.rpy:12597
+translate Schinese sny5_960e5a52:
+
+    # "What he pours in their paws ain’t gold."
+    "倒在他们爪上的，并不是金子。"
+
+# game/nikroute3.rpy:12599
+translate Schinese sny5_09117776:
+
+    # "But it sure is a hell of a lot of silver."
+    "却是大量的银子。"
+
+# game/nikroute3.rpy:12604
+translate Schinese sny5_a82f4e22:
+
+    # "It hurts to watch them walk away, richer certainly in one precious metal, but not the most precious metal of them all."
+    "目送他们带着大量的某种金属——虽然很是贵重，却又不是最贵重的——走离，让我感到心疼。"
+
+# game/nikroute3.rpy:12606
+translate Schinese sny5_ebd1b414:
+
+    # "But then again, I don’t have the smarts or the heart to escape the town on my own."
+    "不过我既没有那个头脑也没那个心能独自逃离这个小镇。"
+
+# game/nikroute3.rpy:12617
+translate Schinese sny5_82c48a01:
+
+    # "The three of us walk together on the dusty road away from the direction of the mine and the Hendricks manor, not so much greeting the sun, but shamed by its presence."
+    "我们三个一起走离矿坑跟Hendricks宅邸的方向，虽然不是很在意太阳，心中却有愧。"
+
+# game/nikroute3.rpy:12618
+translate Schinese sny5_af7f03f5:
+
+    # "Just a reminder of how long it took us to do what needed doing in an hour’s time."
+    "它昭示着我们这趟花了多久时间去做一件本该一小时内就搞定的事。"
+
+# game/nikroute3.rpy:12627
+translate Schinese sny5_5920a1f5:
+
+    # ya @ talking "\"I hope you are both emotionally prepared to leave this place behind.\""
+    ya @ talking "希望你们已经做好离开这里的心理准备了。"
+
+# game/nikroute3.rpy:12629
+translate Schinese sny5_d0e5ca53:
+
+    # "He doesn’t know the half of it."
+    "还真别说。"
+
+# game/nikroute3.rpy:12630
+translate Schinese sny5_a4627693:
+
+    # "I’m so happy I could jump up into the sun."
+    "我已经兴高采烈到能上天了。"
+
+# game/nikroute3.rpy:12631
+translate Schinese sny5_41910321:
+
+    # ya @ talking "\"If you want to say your last goodbyes, you should do so before noon.\""
+    ya @ talking "想跟人道别的话，最好在中午前搞定。"
+
+# game/nikroute3.rpy:12633
+translate Schinese sny5_6b93da89:
+
+    # ni "\"Before we say goodbye to anybody, we still need to tell William about the Guard.\""
+    ni "在跟人道别前，我们得先告诉William镇压军的事。"
+
+# game/nikroute3.rpy:12634
+translate Schinese sny5_c52b21f2:
+
+    # "Then I come back to earth."
+    "然后又回到了地上。"
+
+# game/nikroute3.rpy:12637
+translate Schinese sny5_67e16516:
+
+    # "The tiger grunts as if he was expecting this to come back up again."
+    "老虎闷哼一声，看来早就觉得会提到这事。"
+
+# game/nikroute3.rpy:12638
+translate Schinese sny5_c15db9cf:
+
+    # ya "\"I suppose that is true.\""
+    ya "确实。"
+
+# game/nikroute3.rpy:12639
+translate Schinese sny5_1bd186aa:
+
+    # "A sudden feeling wells up in me when I think about Dora and Cynthia and the girls."
+    "我一想到Dora、Cynthia和那些姑娘们，心中突然涌起一阵感触。"
+
+# game/nikroute3.rpy:12640
+translate Schinese sny5_9191a7fe:
+
+    # "I’m more than ready to go, but I don’t want to start missing them."
+    "我迫不及待要走，但也不想就这麽离开她们。"
+
+# game/nikroute3.rpy:12641
+translate Schinese sny5_52df5ae7:
+
+    # "William comes to mind again, too."
+    "William也浮现在脑中。"
+
+# game/nikroute3.rpy:12642
+translate Schinese sny5_80c302e5:
+
+    # "I know he doesn’t like it here either, but I think he likes the little community we’ve built, loath as he is to admit it."
+    "我知道他也不喜欢这地方，但应该还是对我们共同打造的这个小区感到欣慰，不过他嘴上是不会说的。"
+
+# game/nikroute3.rpy:12643
+translate Schinese sny5_5770282b:
+
+    # "He’s an elected official so he’s pretty much trapped here."
+    "他是被选出来的官员，算是被绑在这走不了。"
+
+# game/nikroute3.rpy:12644
+translate Schinese sny5_6084e162:
+
+    # "Though he probably wouldn’t have much trouble getting work somewhere else."
+    "不过他就算到了其他地方应该也不难找到工作。"
+
+# game/nikroute3.rpy:12645
+translate Schinese sny5_760049ff:
+
+    # "It’s a crazy thing to want to telegram the law when you’re practically runnin’ from it."
+    "明明正要逃离法网，却还想知会执法者，怕是疯了。"
+
+# game/nikroute3.rpy:12646
+translate Schinese sny5_3ab023ca:
+
+    # "But he won’t be sheriff forever."
+    "但他不会当一辈子警长。"
+
+# game/nikroute3.rpy:12647
+translate Schinese sny5_fdf0049c:
+
+    # "Things could happen, given enough time."
+    "正所谓时过境迁。"
+
+# game/nikroute3.rpy:12648
+translate Schinese sny5_08e97a34:
+
+    # "I’d like to think he cares enough about me to want to drink with me and Nik again in a happier time and a happier place."
+    "我是希望他心里能有我的一席之地，让他能想着要在更好的情况下跟我和Nik一起喝一杯。"
+
+# game/nikroute3.rpy:12649
+translate Schinese sny5_c38a6e79:
+
+    # "But maybe he’ll just forget about me and find another warm mouth."
+    "也可能会忘了我，去找下一张温暖的嘴。"
+
+# game/nikroute3.rpy:12651
+translate Schinese sny5_18ec7228:
+
+    # ya "\"I think it would be wise to get your tickets before visiting anybody.\""
+    ya "在去见人前先买好票应该比较明智。"
+
+# game/nikroute3.rpy:12653
+translate Schinese sny5_1941b3da:
+
+    # ya talking "\"I suggest a midnight departure for the smallest crowd.\""
+    ya talking "我建议买午夜的票，人最少。"
+
+# game/nikroute3.rpy:12655
+translate Schinese sny5_c568c6fc:
+
+    # ya talking "\"Otherwise, try to get out as soon as you can...\""
+    ya talking "不然就是越快走越好……"
+
+# game/nikroute3.rpy:12657
+translate Schinese sny5_765f22f3:
+
+    # ya @ talking "\"But the two of you should pick out different times for the same location if you don’t want to be tracked as easily.\""
+    ya @ talking "但如果你们两个要去同个地方，最好买不同时刻的票，比较不容易被追踪。"
+
+# game/nikroute3.rpy:12659
+translate Schinese sny5_7761b16d:
+
+    # ni "\"The two of us?\""
+    ni "我们两个。"
+
+# game/nikroute3.rpy:12661
+translate Schinese sny5_7ae5f830:
+
+    # ni "\"Aren’t you riding with us to Payton?\""
+    ni "你没有要跟我们一起去佩顿吗？"
+
+# game/nikroute3.rpy:12664
+translate Schinese sny5_66010aea:
+
+    # "He looks away from us."
+    "他别开目光。"
+
+# game/nikroute3.rpy:12666
+translate Schinese sny5_90019a4f:
+
+    # "I can’t tell if it’s sad or focused."
+    "看不出是哀伤还是若有所思。"
+
+# game/nikroute3.rpy:12668
+translate Schinese sny5_39b07a4f:
+
+    # ya "\"I have not decided yet.\""
+    ya "我还没决定好。"
+
+# game/nikroute3.rpy:12670
+translate Schinese sny5_d7464a4e:
+
+    # ya "\"Wait three days for me at most at Payton’s Firehouse Inn.\""
+    ya "在佩顿的Firehouse旅店等我，最多三天。"
+
+# game/nikroute3.rpy:12672
+translate Schinese sny5_b7056719:
+
+    # ya talking "\"If everything goes well, I’ll send you a telegraph.\""
+    ya talking "如果一切顺利，我会给你们发电报。"
+
+# game/nikroute3.rpy:12674
+translate Schinese sny5_fb7f4907:
+
+    # ya talking "\"Jin is the name to look out for.\""
+    ya talking "以Jin的名字。"
+
+# game/nikroute3.rpy:12678
+translate Schinese sny5_60a11167:
+
+    # "The tiger turns to go, but he pauses."
+    "老虎转身要走，却停下脚步。"
+
+# game/nikroute3.rpy:12679
+translate Schinese sny5_ebaa4323:
+
+    # ya "\"I know your hearts are in the right place, but stay away from the mine quarry today.\""
+    ya "相信不用我多说，你们今天最好别接近矿坑。"
+
+# game/nikroute3.rpy:12680
+translate Schinese sny5_99a2340a:
+
+    # ya "\"I don’t think I can protect you anymore if something happens.\""
+    ya "出事的话，只怕我再也保护不了你们了。"
+
+# game/nikroute3.rpy:12683
+translate Schinese sny5_daf86256:
+
+    # ya "\"You were both worthy partners.\""
+    ya "你们两个都做得很好。"
+
+# game/nikroute3.rpy:12686
+translate Schinese sny5_5b7178bd:
+
+    # "Before either of us get to ask him anything else, he leaves us."
+    "还不等我们问他话，他就扬长而去。"
+
+# game/nikroute3.rpy:12687
+translate Schinese sny5_c4ed6b5c:
+
+    # m "\"Do you think we should take his advice and head for the train?\""
+    m "该听他的，先去买车票吗？"
+
+# game/nikroute3.rpy:12690
+translate Schinese sny5_85f28231:
+
+    # ni "\"We should hide the gold first.\""
+    ni "最好先藏黄金。"
+
+# game/nikroute3.rpy:12692
+translate Schinese sny5_8b9bbb61:
+
+    # ni @ talking "\"I can buy a proper pack if you wait outside the general store for me.\""
+    ni @ talking "你在杂货店外头等我，我去买个好背包。"
+
+# game/nikroute3.rpy:12693
+translate Schinese sny5_5941448a:
+
+    # "He hands the cloth sacks to me and puts his shirt back on."
+    "他把布袋给我，穿上衣服。"
+
+# game/nikroute3.rpy:12694
+translate Schinese sny5_4fb4aa6a:
+
+    # "Neither of us smell like flowers nor look too clean, but we find a spigot to wash up before showing our faces again in civilized society."
+    "我们无论看或闻起来都不怎麽乾淨，但好歹找了个水龙头冲洗了下身子，才返回文明社会。"
+
+# game/nikroute3.rpy:12698
+translate Schinese sny5_c96808d7:
+
+    # "Thankfully, it’s still too early in the morning for that many folks to be milling around."
+    "幸好时间还太早，没什麽人流。"
+
+# game/nikroute3.rpy:12699
+translate Schinese sny5_9c177da1:
+
+    # "But the store is open."
+    "不过店是开着的。"
+
+# game/nikroute3.rpy:12700
+translate Schinese sny5_b1f73be2:
+
+    # "It doesn’t take long for Nik to be in and out."
+    "从Nik进去到出来也没过多久。"
+
+# game/nikroute3.rpy:12701
+translate Schinese sny5_4df40a29:
+
+    # "We pack our haul together."
+    "我们一起装好战利品。"
+
+# game/nikroute3.rpy:12703
+translate Schinese sny5_fb30072f:
+
+    # "Then we make our way to William’s office."
+    "然后走向William的办公室。"
+
+# game/nikroute3.rpy:12705
+translate Schinese sny5_93b13dfa:
+
+    # "I knock on the door."
+    "我敲了敲门。"
+
+# game/nikroute3.rpy:12707
+translate Schinese sny5_09af4223:
+
+    # "We don’t hear anything."
+    "没有动静。"
+
+# game/nikroute3.rpy:12709
+translate Schinese sny5_fd787300:
+
+    # "Nik knocks on the door a lot louder."
+    "Nik大声敲门。"
+
+# game/nikroute3.rpy:12710
+translate Schinese sny5_abff1b5a:
+
+    # wi "\"Christ almighty, give me a spell.\""
+    wi "天杀的，等我一下。"
+
+# game/nikroute3.rpy:12713
+translate Schinese sny5_d06b33d2:
+
+    # "We hear some shuffling around and some moving bottles."
+    "人物跟酒瓶的移动声传来。"
+
+# game/nikroute3.rpy:12715
+translate Schinese sny5_0a975daf:
+
+    # "Then we hear more locks than we’re used to hearing on William’s door."
+    "然后是数量比William平时门上的锁还多的声音。"
+
+# game/nikroute3.rpy:12718
+translate Schinese sny5_b77e8b33:
+
+    # "It opens up, and we see a bleary eyed-coyote, hands stained with pen ink."
+    "门一开，睡眼惺忪、手上沾满笔墨的郊狼映入眼帘。"
+
+# game/nikroute3.rpy:12723
+translate Schinese sny5_452b2b3c:
+
+    # wi "\"Huh.\""
+    wi "呃。"
+
+# game/nikroute3.rpy:12725
+translate Schinese sny5_77a859c4:
+
+    # wi "\"You two look like shit.\""
+    wi "你们俩看起来真糟。"
+
+# game/nikroute3.rpy:12728
+translate Schinese sny5_a5505e5b:
+
+    # "He opens the door wider and a bottle rolls past us."
+    "他把门开得更大，一个酒瓶从我们身旁滚过。"
+
+# game/nikroute3.rpy:12730
+translate Schinese sny5_adb3dd92:
+
+    # wi "\"Come on in.\""
+    wi "进来吧。"
+
+# game/nikroute3.rpy:12734
+translate Schinese sny5_b387a38e:
+
+    # "He body tenses when he sees me."
+    "他一看到我，就全身紧绷。"
+
+# game/nikroute3.rpy:12736
+translate Schinese sny5_0a9509f5:
+
+    # wi "\"Jesus Christ Sam!\""
+    wi "我的老天，Sam！"
+
+# game/nikroute3.rpy:12737
+translate Schinese sny5_e724af59:
+
+    # wi "\"What the hell happened to your face?\""
+    wi "你脸是怎麽回事？"
+
+# game/nikroute3.rpy:12745
+translate Schinese sny5_fec97169:
+
+    # "To be continued..."
+    ""
+
+translate Schinese strings:
+
+    # game/nikroute3.rpy:7360
+    old "Who should I name instead of [porterfirstchoice]?"
+    new "该把[porterfirstchoice]换成谁？"

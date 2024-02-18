@@ -4990,7 +4990,7 @@ translate Schinese willbedchoice_12e319a7:
 translate Schinese willbedchoice_04613850:
 
     # "It’s the biggest men’s club in town."
-    "那里镇上最大的男人俱乐部。"
+    "那里是镇上最大的男人俱乐部。"
 
 # game/williamroute3.rpy:1341
 translate Schinese willbedchoice_7e79d47a:
@@ -9154,7 +9154,7 @@ translate Schinese samstation_2e313163:
 translate Schinese samstation_a627156e:
 
     # "Todd practically tackles Cliff out of the office, leaving Cynthia alone with me."
-    "Todd几乎是把Cliff赶出了公寓，只留下Cynthia和我。"
+    "Todd几乎是把Cliff赶出了办公室，只留下Cynthia和我。"
 
 # game/williamroute3.rpy:3616
 translate Schinese samstation_9b5717bb:
@@ -30495,7 +30495,7 @@ translate Schinese williamroute3c_1de7bc90:
 translate Schinese williamroute3c_7e384cb7:
 
     # m "\"I found a Meseta spirit woman who said those clawing sounds are the spirits of the unbaptized.\""
-    m "“我找了个梅瑟塔的女灵媒，她说那些抓挠声是未受洗的灵魂导致的。”"
+    m "“我找了个梅塞塔的女灵媒，她说那些抓挠声是未受洗的灵魂导致的。”"
 
 # game/williamroute3.rpy:10533
 translate Schinese williamroute3c_bb18d293:
@@ -30519,7 +30519,7 @@ translate Schinese williamroute3c_dc84b614:
 translate Schinese williamroute3c_873b0d56:
 
     # ha "\"Any fraud with a chisel and bones in their pocket can fake genuine Meseta talismans.\""
-    ha "“只要有凿子和骨头，随便一个骗子都能伪造梅瑟塔的护符。”"
+    ha "“只要有凿子和骨头，随便一个骗子都能伪造梅塞塔的护符。”"
 
 # game/williamroute3.rpy:10542
 translate Schinese williamroute3c_9aafcc91:
@@ -32733,7 +32733,7 @@ translate Schinese williamroute3c_36418a14:
 translate Schinese williamroute3c_d463f70d:
 
     # "I’ve had far worse days than this one."
-    "我经历过比这遭得多的状况。"
+    "我经历过比这糟得多的状况。"
 
 # game/williamroute3.rpy:11281
 translate Schinese williamroute3c_1c615509:
@@ -34269,7 +34269,7 @@ translate Schinese williamroute3c_a96d8571:
 translate Schinese williamroute3c_255d5a3f:
 
     # "We follow the stairs up to the mezzanine, past a path near another set of stairs, and in front of a few doors and what looks like a small lobby with cozy chairs."
-    "我们来到楼上的夹层，途径另一组楼梯，最终抵达了有几道门跟几张舒适椅子的迷你接待厅。"
+    "我们来到楼上的夹层，途经另一组楼梯，最终抵达了有几道门跟几张舒适椅子的迷你接待厅。"
 
 # game/williamroute3.rpy:11714
 translate Schinese williamroute3c_077767d8:
@@ -34845,7 +34845,7 @@ translate Schinese williamroute3c_13040e79:
 translate Schinese williamroute3c_e54070f4:
 
     # ni "\"On off hours.\""
-    ni "“打样时间是。”"
+    ni "“打烊时间是。”"
 
 # game/williamroute3.rpy:11918
 translate Schinese williamroute3c_9a6c7ca3:
@@ -36957,7 +36957,7 @@ translate Schinese williamroute3c_465be46a:
 translate Schinese williamroute3c_1cafd4b6:
 
     # m "\"And we can do something stupid together.\""
-    m "“去找那只狼。”"
+    m "“然后一起做点傻事。”"
 
 # game/williamroute3.rpy:12650
 translate Schinese williamroute3c_943d30eb:
@@ -40849,19 +40849,17 @@ translate Schinese strings:
     old "If you can allow for things go where they need to, then so can I."
     new "如果你能把握好分寸，那我也可以。"
 
-# TODO: Translation updated at 2023-12-15 18:00
-
-translate Schinese strings:
-
-    # game/williamroute3.rpy:12128
-    old "If you can allow for things to go where they need to, then so can I."
-    new ""
-
-# TODO: Translation updated at 2023-12-17 16:41
+# TODO: Translation updated at 2023-12-20 21:20
 
 # game/williamroute3.rpy:9629
 translate Schinese williamroute3c_792b7967:
 
     # cl "\"{i}Broadly{/i} my foot, I ought to shake you!\""
-    cl ""
+    cl "“{b}发散{/b}个鬼啊，小心我揍你哦！”"
+
+translate Schinese strings:
+
+    # game/williamroute3.rpy:12157
+    old "If you can allow for things to go where they need to, then so can I."
+    new "如果你能把握好分寸，那我也可以。"
 

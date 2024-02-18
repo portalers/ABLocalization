@@ -42,30 +42,36 @@ translate Schinese strings:
     old "Did you say you'd like to wear James Hendrick's armor?"
     new "你有说过想穿James Hendrick的盔甲吗？"
 
-# TODO: Translation updated at 2023-12-02 14:31
-
-translate Schinese strings:
-
     # game/nikselect.rpy:213
     old "During a conversation with Beckett at night, did you:"
     new "在晚上跟Beckett谈话时，你："
 
     # game/nikselect.rpy:221
     old "During second meeting with Porter, did you change your previous answer?"
-    new "第二次见到Porter时，你有改变回答吗？"
+    new "在第二次见到Porter时，你有更改之前的回答吗？"
 
     # game/nikselect.rpy:225
     old "Who did you name instead[porterfirstchoice]"
-    new "你改成谁了？"
+    new "你改成了谁？"
 
     # game/nikselect.rpy:280
     old "How did you feel about Yao before going to extract the gold?"
-    new "在去采金矿前，你对Yao的想法是？"
+    new "在去掘金前，你对Yao的想法是？"
 
     # game/nikselect.rpy:280
     old "I was glad I pushed my doubts about him back."
-    new "很高兴自己能够不再怀疑他。"
+    new "很高兴自己不再怀疑他。"
 
     # game/nikselect.rpy:280
     old "{color=#a1a1a1}I felt he still can’t be trusted.\n(To be continued in future update){/color}"
-    new "{color=#a1a1a1}感觉还是不能信任。\n(请静候往后更新){/color}"
+    new "{color=#a1a1a1}感觉他还是不能信任。\n(请静候更新){/color}"# TODO: Translation updated at 2024-02-09 01:33
+
+translate Schinese strings:
+
+    # game/nikselect.rpy:227
+    old "Who did you name instead of [porterfirstchoice]?"
+    new "你把[porterfirstchoice]改成谁了？"
+
+    # game/nikselect.rpy:282
+    old "I felt he still can’t be trusted."
+    new "感觉他还是不能信任。"
