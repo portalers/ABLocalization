@@ -1,4 +1,6 @@
-﻿# game/williamroute3.rpy:18
+﻿# TODO: Translation updated at 2023-03-19 20:06
+
+# game/williamroute3.rpy:18
 translate Tchinese williamroute3_506ab1eb:
 
     # "Is it getting dark already?"
@@ -40840,20 +40842,23 @@ translate Tchinese strings:
     new "也許吧。"
 
     # game/williamroute3.rpy:12128
-    old "If you can allow for things to go where they need to, then so can I."
+    old "If you can allow for things go where they need to, then so can I."
     new "如果你能把握好分寸，那我也可以。"
-
-# TODO: Translation updated at 2023-12-02 14:31
-
-translate Tchinese strings:
-
-    # game/williamroute3.rpy:682
-    old "..."
-    new "……"
-# TODO: Translation updated at 2023-12-16 18:43
+# TODO: Translation updated at 2023-12-20 21:29
 
 # game/williamroute3.rpy:9629
 translate Tchinese williamroute3c_792b7967:
 
     # cl "\"{i}Broadly{/i} my foot, I ought to shake you!\""
     cl "{i}開放{/i}個鬼，看我不揍死你！"
+
+translate Tchinese strings:
+
+    # game/williamroute3.rpy:691
+    old "..."
+    new "..."
+
+    # game/williamroute3.rpy:12157
+    old "If you can allow for things to go where they need to, then so can I."
+    new "如果你能把握好分寸，那我也可以。"
+

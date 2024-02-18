@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-03-19 20:06
-
 translate Tchinese strings:
 
     # game/willselect.rpy:29

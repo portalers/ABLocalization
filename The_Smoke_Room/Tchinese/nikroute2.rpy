@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-03-19 20:06
+﻿# TODO: Translation updated at 2023-03-19 20:06
 
 # game/nikroute2.rpy:10
 translate Tchinese nikroute2_ac8ac9d1:

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-03-19 20:06
-
 translate Tchinese strings:
 
     # game/nikselect.rpy:23
@@ -69,3 +67,15 @@ translate Tchinese strings:
     # game/nikselect.rpy:280
     old "{color=#a1a1a1}I felt he still can’t be trusted.\n(To be continued in future update){/color}"
     new "{color=#a1a1a1}感覺還是不能信任。\n(請靜候往後更新){/color}"
+
+# TODO: Translation updated at 2024-02-03 13:08
+
+translate Tchinese strings:
+
+    # game/nikselect.rpy:227
+    old "Who did you name instead of [porterfirstchoice]?"
+    new "你把[porterfirstchoice]改成誰了？"
+
+    # game/nikselect.rpy:282
+    old "I felt he still can’t be trusted."
+    new "我覺得他還是無法信任。"

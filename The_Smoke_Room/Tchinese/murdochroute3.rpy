@@ -1,4 +1,4 @@
-# game/murdochroute3.rpy:4
+﻿# game/murdochroute3.rpy:4
 translate Tchinese murdochroute3_74be125b:
 
     # "When I get to the store I’m handed a list of tasks."

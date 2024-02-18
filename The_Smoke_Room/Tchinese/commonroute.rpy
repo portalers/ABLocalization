@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-03-19 20:06
+﻿# TODO: Translation updated at 2023-03-19 20:06
 
 # game/commonroute.rpy:7
 translate Tchinese commonroute_ed791d5b:

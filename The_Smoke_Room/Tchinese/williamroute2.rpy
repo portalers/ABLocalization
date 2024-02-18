@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-03-19 20:06
+﻿# TODO: Translation updated at 2023-03-19 20:06
 
 # game/williamroute2.rpy:12
 translate Tchinese williamroute2_5cf8bf4a:

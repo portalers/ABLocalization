@@ -1,4 +1,4 @@
-# game/cliffroute3.rpy:13
+﻿# game/cliffroute3.rpy:13
 translate Tchinese cliffroute3_bf256e58:
 
     # unk "“Lovely work, Cornelis. You're really getting the hang of this, aren't you?”"
