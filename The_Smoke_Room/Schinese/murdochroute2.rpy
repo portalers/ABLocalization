@@ -28623,3 +28623,11 @@ translate Schinese mdq2_4d886868:
     # cy "\"Go get dressed, I’ll be in your room in a bit.\""
     cy "“回房间把衣服换上，我一会儿就过去。”"
 
+# TODO: Translation updated at 2024-02-23 18:59
+
+# game/murdochroute2.rpy:3954
+translate Schinese murdochroute2_027feb0d:
+
+    # "She looks over her shoulder like she hears me, snatches her own hat off her head and holds her arms out, putting each foot down in front of her, widening the gap."
+    ""
+

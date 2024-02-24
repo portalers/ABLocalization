@@ -39982,3 +39982,113 @@ translate Schinese strings:
     # game/nikroute3.rpy:7360
     old "Who should I name instead of [porterfirstchoice]?"
     new "该把[porterfirstchoice]换成谁？"
+# TODO: Translation updated at 2024-02-23 18:59
+
+# game/nikroute3.rpy:9134
+translate Schinese nikroute3c1_4dfc9d26:
+
+    # "So that’s what he meant when he said he knew what was at the bottom of the mine."
+    ""
+
+# game/nikroute3.rpy:10386
+translate Schinese caveinchoice_35dc0259:
+
+    # no "\"You’ve never known what it’s like to be hungry but not taste, have you?\""
+    no ""
+
+# game/nikroute3.rpy:10739
+translate Schinese caveinchoice_80924423:
+
+    # ya "\"We will have to climb down.\""
+    ya ""
+
+# game/nikroute3.rpy:10774
+translate Schinese caveinchoice_7298810f:
+
+    # ya "\"Besides, we are all sweating.\""
+    ya ""
+
+# game/nikroute3.rpy:10775
+translate Schinese caveinchoice_2f654e21:
+
+    # ya "\"We should not leave a trace on anything.\""
+    ya ""
+
+# game/nikroute3.rpy:10807
+translate Schinese caveinchoice_eb8a4976:
+
+    # ya "\"But there is natural light to the right.\""
+    ya ""
+
+# game/nikroute3.rpy:10810
+translate Schinese caveinchoice_de58d040:
+
+    # ya "\"Ideally, no, but I would rather a servant who does not know my face than a master who does.\""
+    ya ""
+
+# game/nikroute3.rpy:10954
+translate Schinese caveinchoice_abc59a9c:
+
+    # ya "\"Just one train ticket and we are--\""
+    ya ""
+
+# game/nikroute3.rpy:10960
+translate Schinese caveinchoice_3673167b:
+
+    # ya "\"Well, you are both free.\""
+    ya ""
+
+# game/nikroute3.rpy:11198
+translate Schinese nikroute3c2_d8e86a78:
+
+    # m "\"I don’t want this to be the end, Nik.\""
+    m ""
+
+# game/nikroute3.rpy:11307
+translate Schinese sny5_d8e86a78:
+
+    # m "\"I don’t want this to be the end, Nik.\""
+    m ""
+
+# game/nikroute3.rpy:11939
+translate Schinese sny5_cab17651:
+
+    # "And as the parts of its body are devoured by a drooling, fanged mouth, I feel the worst pain I have ever felt in my entire life on the right side of my face."
+    ""
+
+# game/nikroute3.rpy:12076
+translate Schinese sny5_6f71f07d:
+
+    # ya "\"No pay until we are out.\""
+    ya ""
+
+# game/nikroute3.rpy:12086
+translate Schinese sny5_e4663b7e:
+
+    # fe "\"So my apologies if your word is not enough right now.\""
+    fe ""
+
+# game/nikroute3.rpy:12107
+translate Schinese sny5_641c25ae:
+
+    # ya "\"I said no pay until we are out.\""
+    ya ""
+
+# game/nikroute3.rpy:12212
+translate Schinese sny5_813f6423:
+
+    # ya "\"I will walk behind us, then.\""
+    ya ""
+
+# game/nikroute3.rpy:12386
+translate Schinese sny5_8461d67d:
+
+    # ya "\"I will not ask you to respect our privacy tonight again.\""
+    ya ""
+
+# game/nikroute3.rpy:12680
+translate Schinese sny5_369df205:
+
+    # ya "\"I do not think I can protect you anymore if something happens.\""
+    ya ""
+
