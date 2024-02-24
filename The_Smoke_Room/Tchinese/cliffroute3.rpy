@@ -16264,3 +16264,11 @@ translate Tchinese aftercliffint2_15cb676e:
     # cl "\"I had thought if I laid out my reasoning he would come to understand my concerns!\""
     cl "“我還以為只要跟他講道理，他就會明白我的顧慮！”"
 
+# TODO: Translation updated at 2024-02-23 18:47
+
+# game/cliffroute3.rpy:3783
+translate Tchinese cliffroute3a_8adb24dc:
+
+    # "I want to say {i}so what if I was{/i}, but that’s probably not fair."
+    ""
+
