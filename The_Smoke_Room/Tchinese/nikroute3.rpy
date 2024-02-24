@@ -32872,7 +32872,7 @@ translate Tchinese caveinchoice_6d92b8f4:
 translate Tchinese caveinchoice_df4d690b:
 
     # ya "\"Besides, we’re all sweating. \""
-    ya "而且我們還滿身大汗。"
+    ya "再說，我們都滿身大汗。"
 
 # game/nikroute3.rpy:10775
 translate Tchinese caveinchoice_b72221d5:
@@ -39989,113 +39989,113 @@ translate Tchinese strings:
     # game/nikroute3.rpy:7360
     old "Who should I name instead of [porterfirstchoice]?"
     new "該把[porterfirstchoice]換成誰？"
+
 # TODO: Translation updated at 2024-02-23 18:47
 
 # game/nikroute3.rpy:9134
 translate Tchinese nikroute3c1_4dfc9d26:
 
     # "So that’s what he meant when he said he knew what was at the bottom of the mine."
-    ""
+    "所以他才說他知道礦坑底部有什麼。"
 
 # game/nikroute3.rpy:10386
 translate Tchinese caveinchoice_35dc0259:
 
     # no "\"You’ve never known what it’s like to be hungry but not taste, have you?\""
-    no ""
+    no "你從來不知道飢渴卻嚐不出味道的感覺吧？"
 
 # game/nikroute3.rpy:10739
 translate Tchinese caveinchoice_80924423:
 
     # ya "\"We will have to climb down.\""
-    ya ""
+    ya "我們要從那爬下去。"
 
 # game/nikroute3.rpy:10774
 translate Tchinese caveinchoice_7298810f:
 
     # ya "\"Besides, we are all sweating.\""
-    ya ""
+    ya "再說，我們都滿身大汗。"
 
 # game/nikroute3.rpy:10775
 translate Tchinese caveinchoice_2f654e21:
 
     # ya "\"We should not leave a trace on anything.\""
-    ya ""
+    ya "不該留下任何蹤跡。"
 
 # game/nikroute3.rpy:10807
 translate Tchinese caveinchoice_eb8a4976:
 
     # ya "\"But there is natural light to the right.\""
-    ya ""
+    ya "但右邊還有天然光。"
 
 # game/nikroute3.rpy:10810
 translate Tchinese caveinchoice_de58d040:
 
     # ya "\"Ideally, no, but I would rather a servant who does not know my face than a master who does.\""
-    ya ""
+    ya "幸運的話不會，但就算被看見了，對方是不認識我們的傭人的話，總比認識我們的主人好。"
 
 # game/nikroute3.rpy:10954
 translate Tchinese caveinchoice_abc59a9c:
 
     # ya "\"Just one train ticket and we are--\""
-    ya ""
+    ya "只差一張火車票咱們就——"
 
 # game/nikroute3.rpy:10960
 translate Tchinese caveinchoice_3673167b:
 
     # ya "\"Well, you are both free.\""
-    ya ""
+    ya "呃，你們就自由了。"
 
 # game/nikroute3.rpy:11198
 translate Tchinese nikroute3c2_d8e86a78:
 
     # m "\"I don’t want this to be the end, Nik.\""
-    m ""
+    m "我不想在這種地方結束，Nik。"
 
 # game/nikroute3.rpy:11307
 translate Tchinese sny5_d8e86a78:
 
     # m "\"I don’t want this to be the end, Nik.\""
-    m ""
+    m "我不想在這種地方結束，Nik。"
 
 # game/nikroute3.rpy:11939
 translate Tchinese sny5_cab17651:
 
     # "And as the parts of its body are devoured by a drooling, fanged mouth, I feel the worst pain I have ever felt in my entire life on the right side of my face."
-    ""
+    "一張流著口水、長著尖牙的嘴吃下它被扯裂的部份。與此同時，我右臉傳來人生中經歷過最慘烈的痛楚。"
 
 # game/nikroute3.rpy:12076
 translate Tchinese sny5_6f71f07d:
 
     # ya "\"No pay until we are out.\""
-    ya ""
+    ya "等我們出去再說。"
 
 # game/nikroute3.rpy:12086
 translate Tchinese sny5_e4663b7e:
 
     # fe "\"So my apologies if your word is not enough right now.\""
-    fe ""
+    fe "很抱歉，口頭說說是不夠的。"
 
 # game/nikroute3.rpy:12107
 translate Tchinese sny5_641c25ae:
 
     # ya "\"I said no pay until we are out.\""
-    ya ""
+    ya "我說了，錢等出去再付。"
 
 # game/nikroute3.rpy:12212
 translate Tchinese sny5_813f6423:
 
     # ya "\"I will walk behind us, then.\""
-    ya ""
+    ya "那我負責殿後。"
 
 # game/nikroute3.rpy:12386
 translate Tchinese sny5_8461d67d:
 
     # ya "\"I will not ask you to respect our privacy tonight again.\""
-    ya ""
+    ya "我不會再次警告你今晚尊重我們的隱私了。"
 
 # game/nikroute3.rpy:12680
 translate Tchinese sny5_369df205:
 
     # ya "\"I do not think I can protect you anymore if something happens.\""
-    ya ""
-
+    ya "出事的話，只怕我再也保護不了你們了。"

@@ -6848,5 +6848,4 @@ translate Tchinese nikroute_c9dd26d3:
 translate Tchinese nikroute_ce8c2d01:
 
     # "As soon as I'm past the tent, I take a quick left, onto a smaller road with hardly any buildings except a house or two."
-    ""
-
+    "一走過帳篷，我馬上左轉，來到比較小的路上，只有零星幾棟房子。"

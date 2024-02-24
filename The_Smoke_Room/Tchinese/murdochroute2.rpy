@@ -28624,5 +28624,4 @@ translate Tchinese mdq2_4d886868:
 translate Tchinese murdochroute2_027feb0d:
 
     # "She looks over her shoulder like she hears me, snatches her own hat off her head and holds her arms out, putting each foot down in front of her, widening the gap."
-    ""
-
+    "她像是聽到了動靜，回頭看了我一眼，然後摘下帽子，伸出雙臂，飛奔了起來。"

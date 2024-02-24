@@ -16270,5 +16270,4 @@ translate Tchinese aftercliffint2_15cb676e:
 translate Tchinese cliffroute3a_8adb24dc:
 
     # "I want to say {i}so what if I was{/i}, but that’s probably not fair."
-    ""
-
+    "我心想「那又怎樣？」，但對他不太公平。"

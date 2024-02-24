@@ -26645,5 +26645,4 @@ translate Tchinese locker1bright_aad43e56:
 translate Tchinese nikroute2_c2bf9c80:
 
     # ya "\"Do not stand under the stalactites.\""
-    ya ""
-
+    ya "別站在鐘乳石的下面。"
