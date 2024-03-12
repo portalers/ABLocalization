@@ -32,7 +32,7 @@ translate Schinese strings:
 
     # game/nikselect.rpy:148
     old "Did you accept Nik's proposal?"
-    new "你有接受Nik的求婚吗？"
+    new "你接受Nik的求婚了吗？"
 
     # game/nikselect.rpy:148
     old "I needed to think on it."
@@ -64,14 +64,23 @@ translate Schinese strings:
 
     # game/nikselect.rpy:280
     old "{color=#a1a1a1}I felt he still can’t be trusted.\n(To be continued in future update){/color}"
-    new "{color=#a1a1a1}感觉他还是不能信任。\n(请静候更新){/color}"# TODO: Translation updated at 2024-02-09 01:33
+    new "{color=#a1a1a1}感觉他还是不能信任。\n(请静候更新){/color}"# TODO: Translation updated at 2024-02-27 20:51
 
 translate Schinese strings:
 
     # game/nikselect.rpy:227
     old "Who did you name instead of [porterfirstchoice]?"
-    new "你把[porterfirstchoice]改成谁了？"
+    new "你改成了谁？"
 
     # game/nikselect.rpy:282
     old "I felt he still can’t be trusted."
     new "感觉他还是不能信任。"
+
+# TODO: Translation updated at 2024-03-03 00:52
+
+translate Schinese strings:
+
+    # game/nikselect.rpy:303
+    old "Did you accept Nik's proposal the second time he asked, after the cave-in in the mines?"
+    new ""
+

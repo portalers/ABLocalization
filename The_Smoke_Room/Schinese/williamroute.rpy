@@ -4540,7 +4540,7 @@ translate Schinese williamroute_4bf8712f:
 translate Schinese williamroute_b5ed41ba:
 
     # m "\"He took me into custody.\""
-    m "“他把我了关起来。”"
+    m "“他把我关了起来。”"
 
 # game/williamroute.rpy:1193
 translate Schinese williamroute_94b55878:

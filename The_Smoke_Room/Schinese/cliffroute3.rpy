@@ -16265,7 +16265,7 @@ translate Schinese aftercliffint2_15cb676e:
     # cl "\"I had thought if I laid out my reasoning he would come to understand my concerns!\""
     cl "“我还以为只要跟他讲明白了，他就会理解我的顾虑！”"
 
-# TODO: Translation updated at 2024-02-23 18:59
+# TODO: Translation updated at 2024-02-27 20:51
 
 # game/cliffroute3.rpy:3783
 translate Schinese cliffroute3a_8adb24dc:

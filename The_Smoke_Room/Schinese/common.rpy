@@ -1151,7 +1151,7 @@ translate Schinese strings:
     old "Parsing the script failed."
     new "解析脚本失败。"
 
-# TODO: Translation updated at 2024-02-09 01:33
+# TODO: Translation updated at 2024-03-03 00:52
 
 translate Schinese strings:
 

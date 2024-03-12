@@ -26136,5 +26136,5 @@ translate Schinese locker1bright_aad43e56:
 translate Schinese nikroute2_c2bf9c80:
 
     # ya "\"Do not stand under the stalactites.\""
-    ya "“别站在钟乳石下面。”"
+    ya ""
 

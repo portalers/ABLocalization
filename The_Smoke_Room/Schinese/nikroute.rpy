@@ -6842,11 +6842,11 @@ translate Schinese nikroute_c9dd26d3:
     # ya @ talking "\"As a friend of Nikolai’s, I trust you share in his will and purpose.\""
     ya @ talking "“身为Nikolai的朋友，我相信你们的意愿与目的一致。”"
 
-# TODO: Translation updated at 2024-02-23 18:59
+# TODO: Translation updated at 2024-02-27 20:51
 
 # game/nikroute.rpy:1186
 translate Schinese nikroute_ce8c2d01:
 
     # "As soon as I'm past the tent, I take a quick left, onto a smaller road with hardly any buildings except a house or two."
-    ""
+    "一经过帐篷，我就马上左转，上了条除一两栋建筑物外空空如也的小路。"
 
