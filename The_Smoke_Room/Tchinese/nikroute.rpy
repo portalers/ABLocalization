@@ -6842,10 +6842,11 @@ translate Tchinese nikroute_c9dd26d3:
     # ya @ talking "\"As a friend of Nikolai’s, I trust you share in his will and purpose.\""
     ya @ talking "“身為Nikolai的朋友，我相信你與他志同道合。”"
 
-# TODO: Translation updated at 2024-02-23 18:47
+# TODO: Translation updated at 2024-02-27 22:22
 
 # game/nikroute.rpy:1186
 translate Tchinese nikroute_ce8c2d01:
 
     # "As soon as I'm past the tent, I take a quick left, onto a smaller road with hardly any buildings except a house or two."
     "一走過帳篷，我馬上左轉，來到比較小的路上，只有零星幾棟房子。"
+

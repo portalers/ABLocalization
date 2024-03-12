@@ -1,4 +1,4 @@
-translate Tchinese strings:
+﻿translate Tchinese strings:
 
     # game/nikselect.rpy:23
     old "Did you find Yao helpful, or suspicious?"
@@ -68,14 +68,22 @@ translate Tchinese strings:
     old "{color=#a1a1a1}I felt he still can’t be trusted.\n(To be continued in future update){/color}"
     new "{color=#a1a1a1}感覺還是不能信任。\n(請靜候往後更新){/color}"
 
-# TODO: Translation updated at 2024-02-03 13:08
+# TODO: Translation updated at 2024-02-27 22:22
 
 translate Tchinese strings:
 
     # game/nikselect.rpy:227
     old "Who did you name instead of [porterfirstchoice]?"
-    new "你把[porterfirstchoice]改成誰了？"
+    new "你改成誰了？"
 
     # game/nikselect.rpy:282
     old "I felt he still can’t be trusted."
-    new "我覺得他還是無法信任。"
+    new "感覺還是不能信任。"
+
+# TODO: Translation updated at 2024-02-29 20:30
+
+translate Tchinese strings:
+
+    # game/nikselect.rpy:303
+    old "Did you accept Nik's proposal the second time he asked, after the cave-in in the mines?"
+    new "在礦洞坍方後，Nik第二次向你求婚時，你接受了嗎？"

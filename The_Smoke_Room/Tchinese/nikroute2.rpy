@@ -26639,10 +26639,11 @@ translate Tchinese locker1bright_aad43e56:
     # ya "\"It is easy if you retrace your steps.\""
     ya "“原路返回會比較容易。”"
 
-# TODO: Translation updated at 2024-02-23 18:47
+# TODO: Translation updated at 2024-02-27 22:22
 
 # game/nikroute2.rpy:59
 translate Tchinese nikroute2_c2bf9c80:
 
     # ya "\"Do not stand under the stalactites.\""
-    ya "別站在鐘乳石的下面。"
+    ya "“別站在鐘乳石的下面。”"
+
