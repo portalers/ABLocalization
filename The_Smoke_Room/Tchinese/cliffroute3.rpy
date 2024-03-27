@@ -1,4 +1,4 @@
-﻿# game/cliffroute3.rpy:13
+# game/cliffroute3.rpy:13
 translate Tchinese cliffroute3_bf256e58:
 
     # unk "“Lovely work, Cornelis. You're really getting the hang of this, aren't you?”"
@@ -16271,4 +16271,30 @@ translate Tchinese cliffroute3a_8adb24dc:
 
     # "I want to say {i}so what if I was{/i}, but that’s probably not fair."
     "我心想{i}那又怎樣？{/i}，但對他不太公平。"
+
+# TODO: Translation updated at 2024-03-27 17:26
+
+# game/cliffroute3.rpy:1898
+translate Tchinese aftercliffint2_fe404791:
+
+    # "The reservation is built upon a precipice, and its deep canyon is too steep to climb with ease, considerin’ the rapids running below it."
+    "保留地建在一個峭壁上，山谷又深又陡，底下還有急流，很難攀爬。"
+
+# game/cliffroute3.rpy:2163
+translate Tchinese aftercliffint2_0bbdd61a:
+
+    # ts "\"When warriors return to their families, there’s always the risk of bringing back ghosts with them.\""
+    ts "“當戰士回到家人身邊時，總是有把鬼魂一同帶回的隱憂。”"
+
+# game/cliffroute3.rpy:4037
+translate Tchinese cliffroute3a_1f6ef30c:
+
+    # ys "\"Sometimes we get so used to them living in the community and asking questions they, as a joke, become considered a part of the family.\""
+    ys "\"有時候我們都習以為常，甚至還會開玩笑說他們都成為我們的一份子了。\""
+
+# game/cliffroute3.rpy:5253
+translate Tchinese cliffchoice5_d3e7eb5a:
+
+    # cl "\"I think that the animal who hunted us at the camp in the woods is still stalking us.\""
+    cl "\"我想在森林裡攻擊了我們的那隻動物，現在還在跟著我們。\""
 
