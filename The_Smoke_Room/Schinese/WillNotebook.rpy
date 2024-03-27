@@ -9,8 +9,8 @@ translate Schinese strings:
     old "{color=#000000} {font=willfont.ttf}Cliff claims Reed tries to break into his apartment.{/font} {/color}"
     new "{color=#000000}{font=fonts/willfont.ttf}Cliff说Reed试图闯入他的公寓。{/font}{/color}"
 
-    old "{color=#000000}{font=willfont.ttf}Cliff works with James for CGCS.{/font}{/color}"
-    new "{color=#000000}{font=fonts/willfont.ttf}Cliff和James一起效力于CGCS。{/font}{/color}"
+    old "{color=#000000}{font=willfont.ttf}Cliff works with James for CSCG.{/font}{/color}"
+    new "{color=#000000}{font=fonts/willfont.ttf}Cliff和James一起效力于CSCG。{/font}{/color}"
 
     old "{color=#000000}{font=willfont.ttf}Cliff's real name is Cornelis. He claims he does not have his worker's permit.{/font} {/color}"
     new "{color=#000000}{font=fonts/willfont.ttf}Cliff的真名是Cornelis，据其本人称没有工作许可证。{/font} {/color}"
