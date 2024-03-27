@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-03-19 20:06
+# TODO: Translation updated at 2023-03-19 20:06
 
 translate Tchinese strings:
 
@@ -72,9 +72,9 @@ translate Tchinese strings:
 
     # game/cliffselect.rpy:98
     old "As Cliff, what do bring up to Tsela and Yiska?"
-    new ""
+    new "扮演Cliff時，你都對Tsela和Yiska說了什麽？"
 
     # game/cliffselect.rpy:98
     old "You said that there are plans to expand the Echo train station through the settlement."
-    new ""
+    new "你提起有人計畫拓展Echo的鐵路，會行經部落。"
 
