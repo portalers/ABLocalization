@@ -64,7 +64,9 @@ translate Schinese strings:
 
     # game/nikselect.rpy:280
     old "{color=#a1a1a1}I felt he still can’t be trusted.\n(To be continued in future update){/color}"
-    new "{color=#a1a1a1}感觉他还是不能信任。\n(请静候更新){/color}"# TODO: Translation updated at 2024-02-27 20:51
+    new "{color=#a1a1a1}感觉他还是不能信任。\n(请静候更新){/color}"
+
+# TODO: Translation updated at 2024-02-27 20:51
 
 translate Schinese strings:
 
@@ -76,11 +78,11 @@ translate Schinese strings:
     old "I felt he still can’t be trusted."
     new "感觉他还是不能信任。"
 
-# TODO: Translation updated at 2024-03-03 00:52
+# TODO: Translation updated at 2024-03-25 20:49
 
 translate Schinese strings:
 
     # game/nikselect.rpy:303
     old "Did you accept Nik's proposal the second time he asked, after the cave-in in the mines?"
-    new ""
+    new "洞穴塌方后，Nik第二次向你求婚，你答应他了吗？"
 
