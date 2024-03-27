@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-03-19 20:06
-
 # game/williamroute3.rpy:18
 translate Tchinese williamroute3_506ab1eb:
 
@@ -40861,4 +40859,30 @@ translate Tchinese strings:
     # game/williamroute3.rpy:12157
     old "If you can allow for things to go where they need to, then so can I."
     new "如果你能把握好分寸，那我也可以。"
+
+# TODO: Translation updated at 2024-03-27 17:26
+
+# game/williamroute3.rpy:5188
+translate Tchinese williamroute3a_908e0d34:
+
+    # "I know Todd said he wanted to leave but I make sure to turn over every shovel, every can, every piece of junk I can find."
+    "我當然知道Todd不想待在這，但不把找到的每把鏟子、每個罐子、每片垃圾都翻個遍，我是不會善罷甘休的。"
+
+# game/williamroute3.rpy:5358
+translate Tchinese williamroute3a_c9fd18e0:
+
+    # to "\"Feels less disrespectful to indulge in earthly pleasures out in nature.\""
+    to "“在大自然中享受世俗的快樂，就沒有那麼不尊重人了。”"
+
+# game/williamroute3.rpy:5441
+translate Tchinese williamroute3a_16bf0e77:
+
+    # "We're practically stuck to one another now between the two of us because of our pre, and his cock is making sounds each time it pulls away."
+    "兩根肉棒交纏在了一起，每次抽動都會發出淫亂的水聲。"
+
+# game/williamroute3.rpy:12621
+translate Tchinese willkanechoice_05a239e6:
+
+    # "He pats my cheek with his palm."
+    "他用掌拍拍我的臉頰。"
 
