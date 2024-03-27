@@ -16271,5 +16271,31 @@ translate Schinese aftercliffint2_15cb676e:
 translate Schinese cliffroute3a_8adb24dc:
 
     # "I want to say {i}so what if I was{/i}, but that’s probably not fair."
-    ""
+    "我想说{b}那又怎样？{/b}，但现在好像不太合适。"
+
+# TODO: Translation updated at 2024-03-27 17:24
+
+# game/cliffroute3.rpy:1898
+translate Schinese aftercliffint2_fe404791:
+
+    # "The reservation is built upon a precipice, and its deep canyon is too steep to climb with ease, considerin’ the rapids running below it."
+    "保留区建在悬崖边，山谷又深又陡，底下还有湍流，难以攀爬。"
+
+# game/cliffroute3.rpy:2163
+translate Schinese aftercliffint2_0bbdd61a:
+
+    # ts "\"When warriors return to their families, there’s always the risk of bringing back ghosts with them.\""
+    ts "“战士归家时，也有将鬼魂一并带回的风险。”"
+
+# game/cliffroute3.rpy:4037
+translate Schinese cliffroute3a_1f6ef30c:
+
+    # ys "\"Sometimes we get so used to them living in the community and asking questions they, as a joke, become considered a part of the family.\""
+    ys "“有时候我们都习以为常了，还会开玩笑说欢迎他们成为我们的一份子。”"
+
+# game/cliffroute3.rpy:5253
+translate Schinese cliffchoice5_d3e7eb5a:
+
+    # cl "\"I think that the animal who hunted us at the camp in the woods is still stalking us.\""
+    cl "“我想在森林里袭击了我们的那只动物现在仍跟着我们。”"
 
