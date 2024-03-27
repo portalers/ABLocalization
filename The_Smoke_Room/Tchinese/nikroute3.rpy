@@ -1,4 +1,4 @@
-﻿# game/nikroute3.rpy:3
+# game/nikroute3.rpy:3
 translate Tchinese nikroute3_1fb29d2f:
 
     # "I crouch, holding my knees, just to breathe and let my heartbeat catch up with me."
@@ -46908,4 +46908,121 @@ translate Tchinese nikroute3d2_7800ac00:
 translate Tchinese nikroute3d2_fec97169:
 
     # "To be continued..."
-    ""
+    "未完待續……"
+    
+# TODO: Translation updated at 2024-03-27 17:26
+
+# game/nikroute3.rpy:1429
+translate Tchinese sny2_16e2a0f6:
+
+    # "He puts his big paw on my head and pushes it down, letting out the loudest moan I’ve ever heard him make. "
+    "他把大爪放我頭上然後往下壓，發出空前絕後的大聲呻吟。"
+
+# game/nikroute3.rpy:2814
+translate Tchinese nikroute3a_e718845f:
+
+    # co "\"It was completely frozen and it shouldn't have been in there!\""
+    co "“那東西都被凍住了，它根本就不該出現在這！”"
+
+# game/nikroute3.rpy:4753
+translate Tchinese nikroute3a_e799e8a7:
+
+    # ni "\"Now do this.\""
+    ni "“那再試試這個。”"
+
+# game/nikroute3.rpy:5586
+translate Tchinese nikroute3a_35160fb2:
+
+    # mu "\"I’m not knowledgeable about this kind of thing, I was just there to set up the tripod and do the lighting for the shoots.\""
+    mu "”這方面的事我不清楚，我只負責去搭三腳架跟照明工作。”"
+
+# game/nikroute3.rpy:9923
+translate Tchinese caveinchoice_a9a02f52:
+
+    # m "\"The way you talk I figured we’d be knee deep in razor rocks.\""
+    m "聽你的說法，我還以為要走在尖碎石堆裡呢。"
+
+# game/nikroute3.rpy:10193
+translate Tchinese caveinchoice_c6d2b18b:
+
+    # no "\"I could have gotten you down here sooner.\""
+    no_TW "我本來能早點把你拉來的。"
+
+# game/nikroute3.rpy:10373
+translate Tchinese caveinchoice_af42bd73:
+
+    # "Then he starts gnawing on his own hand."
+    "然後開始啃自己的手。"
+
+# game/nikroute3.rpy:10427
+translate Tchinese caveinchoice_7c6f2b12:
+
+    # no "\"So we are going to skip all that funny business.\""
+    no_TW "所以就略過那些蠢事吧。"
+
+# game/nikroute3.rpy:11074
+translate Tchinese nikroute3c2_b58fd9ca:
+
+    # "We hear water from the stalactites drip."
+    "水滴從鐘乳石落下的聲音傳來。"
+
+# game/nikroute3.rpy:13573
+translate Tchinese nikroute3d2_db1e13d7:
+
+    # to "\"Well I’ll be near the bar for the most of my stay, so feel free to help me when it’s most conven--\""
+    to "這段時間我大都會待在酒吧，你有空幫我的時候就——"
+
+# game/nikroute3.rpy:13575
+translate Tchinese nikroute3d2_b8d6b3b4:
+
+    # m "\"Sorry to interrupt, but have you seen a small kit fox woman?\""
+    m "抱歉打斷你，但你有看見一位嬌小的耳廓狐女性嗎？"
+
+# game/nikroute3.rpy:13658
+translate Tchinese nikroute3d2_408984c4:
+
+    # cy "\"No, no, no. Let me finish.\""
+    cy "等等，妳先聽我說。"
+
+# game/nikroute3.rpy:13659
+translate Tchinese nikroute3d2_d2433ebd:
+
+    # cy "\"And what about Lucy? And Scarlet?\""
+    cy "Lucy和Scarlet呢？"
+
+# game/nikroute3.rpy:13977
+translate Tchinese nikroute3d2_6438e193:
+
+    # "Paul takes a pistol out of the holster beneath his shirt."
+    "Paul從衣服底下的槍套掏出手槍。"
+
+# game/nikroute3.rpy:14250
+translate Tchinese nikroute3d2_13d07d97:
+
+    # "He mouths {i}are y’all seeing all this{/i}?"
+    "嘴型在說{i}你們看見我這狀況沒？{/i}"
+
+# game/nikroute3.rpy:14762
+translate Tchinese nikroute3d2_a8546327:
+
+    # "Antlered Guard" "\"I can see how that the situation is out of control.\""
+    "Antlered Guard" "看來事態已經超出控制。"
+
+# game/nikroute3.rpy:14787
+translate Tchinese nikroute3d2_7935ea3a:
+
+    # "Antlered Guard" "\"Testerman requested assistance two days ago for the assured safety of Echo city and for the rest of the commonwealth.\""
+    "Antlered Guard" "Testerman兩天前才為回音鎮的公眾安全向我們請求協助。"
+
+# game/nikroute3.rpy:14814
+translate Tchinese nikroute3d2_9983adbe:
+
+    # "Like who can or cannot own land."
+    "比如能持有土地和不能的人。"
+
+# game/nikroute3.rpy:14831
+translate Tchinese nikroute3d2_aafd0da3:
+
+    # ch "\"I’m certain.\""
+    ch "我確定。"
+
