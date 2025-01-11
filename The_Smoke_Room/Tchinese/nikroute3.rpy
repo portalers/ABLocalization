@@ -28,11 +28,11 @@ translate Tchinese nikroute3_b8b71d41:
     # ya "\"I have those tunnels memorized.\""
     ya "“那些隧道我記得一清二楚。”"
 
-# game/nikroute3.rpy:12
-translate Tchinese nikroute3_52cf3702:
+# game/nikroute3.rpy:14
+translate Tchinese nikroute3_02cab61d:
 
-    # m "\"Just falling and tripping might have been all it takes.\""
-    m "“只要一失足可能人就沒了。”"
+    # m "\"Just falling and tripping might have been all it took.\""
+    m "只要一失足可能人就沒了。"
 
 # game/nikroute3.rpy:14
 translate Tchinese nikroute3_c28c3948:
@@ -8573,11 +8573,11 @@ translate Tchinese sny3_b1096fa2:
     # m "\"Why did y’all put your ice in a room this far out of the way?\""
     m "“何必大費周章把冰放在這麼遠的地方？”"
 
-# game/nikroute3.rpy:2407
-translate Tchinese sny3_a5a6c25f:
+# game/nikroute3.rpy:2692
+translate Tchinese sny3_a74c56c5:
 
-    # co "\"Well it’s the coldest location on our property, which really makes a differece for the ease of storage.\""
-    co "“這是我們家最冷的區域了，溫度對儲藏的影響可是很大的。”"
+    # co "\"Well it’s the coldest location on our property, which really makes a difference for the ease of storage.\""
+    co "\"“這是我們家最冷的區域了，溫度對儲藏的影響可是很大的。”\""
 
 # game/nikroute3.rpy:2695
 translate Tchinese sny3_491540f3:
@@ -9099,11 +9099,11 @@ translate Tchinese nikroute3a_1a2fcc1d:
     # co "\"I can’t thank you enough, Mr. Krol!\""
     co "“真是太感謝你了，Krol先生！”"
 
-# game/nikroute3.rpy:2863
-translate Tchinese nikroute3a_43c8fefe:
+# game/nikroute3.rpy:2877
+translate Tchinese nikroute3a_ae7d2cc8:
 
-    # co "\"I’ll just have to have to recheck the entire inventory with my cook after all this.\""
-    co "“接下來就只剩下跟我們家廚師一起檢查一遍庫存了。”"
+    # co "\"I’ll just have to recheck the entire inventory with my cook after all this.\""
+    co "“接下來就只剩下跟我們家的廚師一起好好檢查一遍庫存了。”"
 
 # game/nikroute3.rpy:2866
 translate Tchinese nikroute3a_81387178:
@@ -10473,11 +10473,11 @@ translate Tchinese nikroute3a_c39e5a2f:
     # "Nik looks out into the distance, then suddenly throws his hand into the air, waving."
     "Nik望向遠方，隨後突然高舉起手揮著。"
 
-# game/nikroute3.rpy:3314
-translate Tchinese nikroute3a_fa27276c:
+# game/nikroute3.rpy:3316
+translate Tchinese nikroute3a_046a4813:
 
-    # "Felpe is waving back in the distance, carrying a sign of James III eating money."
-    "Felpe在遠處招手回應，手上正拿著一幅畫著James三世在吃紙鈔的牌子。"
+    # "Felipe is waving back in the distance, carrying a sign of James III eating money."
+    "Felipe在遠處招手回應，他舉著一個James三世吃著紙鈔的牌子。"
 
 # game/nikroute3.rpy:3315
 translate Tchinese nikroute3a_3937c239:
@@ -18629,22 +18629,6 @@ translate Tchinese nikroute3a_cd985598:
     # ni "\"Do you think we could dance tonight?\""
     ni "“今晚想一起跳舞嗎？”"
 
-# TODO: Translation updated at 2023-05-06 09:21
-
-# game/nikroute3.rpy:3316
-translate Tchinese nikroute3a_046a4813:
-
-    # "Felipe is waving back in the distance, carrying a sign of James III eating money."
-    "Felipe在遠處招手回應，他舉著一個James三世吃著紙鈔的牌子。"
-
-# TODO: Translation updated at 2023-07-25 16:41
-
-# game/nikroute3.rpy:2692
-translate Tchinese sny3_a74c56c5:
-
-    # co "\"Well it’s the coldest location on our property, which really makes a difference for the ease of storage.\""
-    co "\"“這是我們家最冷的區域了，溫度對儲藏的影響可是很大的。”\""
-
 # TODO: Translation updated at 2023-08-29 15:28
 
 # game/nikroute3.rpy:6230
@@ -26216,6 +26200,7 @@ translate Tchinese strings:
     # game/nikroute3.rpy:7507
     old "But he still can’t be trusted."
     new "但他還是信不得。"
+
 # TODO: Translation updated at 2023-11-24 14:58
 
 # game/nikroute3.rpy:19
@@ -26433,14 +26418,6 @@ translate Tchinese sny4_344f6779:
 
     # extend " then notices, and turns to see what we’re looking at,{nw}"
     extend "才反應過來，轉身看著我們眼中的東西，{nw}"
-
-# TODO: Translation updated at 2023-11-24 14:59
-
-# game/nikroute3.rpy:2877
-translate Tchinese nikroute3a_ae7d2cc8:
-
-    # co "\"I’ll just have to recheck the entire inventory with my cook after all this.\""
-    co "“接下來就只剩下跟我們家的廚師一起好好檢查一遍庫存了。”"
 
 # TODO: Translation updated at 2023-12-02 14:31
 
@@ -39976,12 +39953,6 @@ translate Tchinese sny5_e724af59:
     # wi "\"What the hell happened to your face?\""
     wi "你臉是怎麼回事？"
 
-# game/nikroute3.rpy:12745
-translate Tchinese sny5_fec97169:
-
-    # "To be continued..."
-    ""
-
 translate Tchinese strings:
 
     # game/nikroute3.rpy:7360
@@ -46040,10 +46011,10 @@ translate Tchinese nikroute3d2_768fd699:
     # "We see them ride down the sun-dried slope, trotting on horses, shifting like distorted pictures in the heat wave."
     "他們騎著馬從背光的斜坡而下，身影在熱浪中晃動。"
 
-# game/nikroute3.rpy:14736
-translate Tchinese nikroute3d2_df9d3f81:
+# game/nikroute3.rpy:14743
+translate Tchinese nikroute3d2_9abf0a28:
 
-    # "Even their beasts, eyes hidden by masked slips, stepped with a mechanical kind of diligence."
+    # "Even their beasts, eyes hidden by masked slips, step with a mechanical kind of diligence."
     "連雙眼在面罩遮蓋下的馬匹都踏著標緻有序的步伐。"
 
 # game/nikroute3.rpy:14737
@@ -46220,10 +46191,10 @@ translate Tchinese nikroute3d2_f37c6c96:
     # "Antlered Guard" "\"Unnecessary.\""
     "Antlered Guard" "沒有必要。"
 
-# game/nikroute3.rpy:14790
-translate Tchinese nikroute3d2_cd9bce3b:
+# game/nikroute3.rpy:14797
+translate Tchinese nikroute3d2_870d0418:
 
-    # "Antlered Guard" "\"We will establish our own lodgings as we occupy the premise.\""
+    # "Antlered Guard" "\"We will establish our own lodgings as we occupy the premises.\""
     "Antlered Guard" "我們會自行在此地駐紮。"
 
 # game/nikroute3.rpy:14792
@@ -46700,10 +46671,10 @@ translate Tchinese nikroute3d2_dc3a3d37:
     # "But he didn’t deserve this."
     "但罪不至此。"
 
-# game/nikroute3.rpy:14934
-translate Tchinese nikroute3d2_d66c2bbf:
+# game/nikroute3.rpy:14946
+translate Tchinese nikroute3d2_786a952a:
 
-    # "I feel like he’d only have one word for somebody who uses a gun in a dark rather than their own fist."
+    # "I feel like he’d only have one word for somebody who uses a gun in the dark rather than their own fist."
     "如果是他，對於這種暗中開槍，而不是光明正大用拳頭說話的人，恐怕只會有一個形容詞："
 
 # game/nikroute3.rpy:14935
@@ -46826,10 +46797,10 @@ translate Tchinese nikroute3d2_7f0759f5:
     # "The noise of the crowd starts as a low roar."
     "群眾的聲音匯聚成一陣低吼。"
 
-# game/nikroute3.rpy:14967
-translate Tchinese nikroute3d2_a431ae45:
+# game/nikroute3.rpy:14981
+translate Tchinese nikroute3d2_8719499e:
 
-    # "One of the soldiers lifts his rifles."
+    # "One of the soldiers lifts his rifle."
     "士兵中的一人舉起了來福槍。"
 
 # game/nikroute3.rpy:14970
@@ -46903,12 +46874,6 @@ translate Tchinese nikroute3d2_7800ac00:
 
     # "A tiger’s tail disappears deeper into the crowd."
     "一條老虎尾巴正消失在人群中。"
-
-# game/nikroute3.rpy:14997
-translate Tchinese nikroute3d2_fec97169:
-
-    # "To be continued..."
-    "未完待續……"
 
 # TODO: Translation updated at 2024-03-27 17:26
 
@@ -47200,13 +47165,9 @@ translate Tchinese nikroute3d2_26d0d6a0:
 translate Tchinese nikroute3d2_ae7bb46c:
 
     # wi "\"Now are you and your people here to help, or are you just here to—\""
-    wi "“你們到底是來幫忙的，還是-”"# TODO: Translation updated at 2025-01-06 18:41
+    wi "“你們到底是來幫忙的，還是-”"
 
-# game/nikroute3.rpy:14
-translate Tchinese nikroute3_02cab61d:
-
-    # m "\"Just falling and tripping might have been all it took.\""
-    m ""
+# TODO: Translation updated at 2025-01-06 18:41
 
 # game/nikroute3.rpy:70
 translate Tchinese nikroute3_5382f4ad:
@@ -48412,34 +48373,4 @@ translate Tchinese nikroute3d2_15001a34:
 translate Tchinese nikroute3d2_2cfffb19:
 
     # "William’s attention isn’t disrupted by my grunt of dismay."
-    ""
-
-# game/nikroute3.rpy:14743
-translate Tchinese nikroute3d2_9abf0a28:
-
-    # "Even their beasts, eyes hidden by masked slips, step with a mechanical kind of diligence."
-    ""
-
-# game/nikroute3.rpy:14797
-translate Tchinese nikroute3d2_870d0418:
-
-    # "Antlered Guard" "\"We will establish our own lodgings as we occupy the premises.\""
-    "Antlered Guard" ""
-
-# game/nikroute3.rpy:14946
-translate Tchinese nikroute3d2_786a952a:
-
-    # "I feel like he’d only have one word for somebody who uses a gun in the dark rather than their own fist."
-    ""
-
-# game/nikroute3.rpy:14981
-translate Tchinese nikroute3d2_8719499e:
-
-    # "One of the soldiers lifts his rifle."
-    ""
-
-# game/nikroute3.rpy:15014
-translate Tchinese niktbc_fec97169:
-
-    # "To be continued..."
     ""

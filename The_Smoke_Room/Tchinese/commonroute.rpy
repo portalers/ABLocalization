@@ -127,9 +127,9 @@ translate Tchinese commonroute_bb22b322:
     "然後，我靜靜地站在門旁，聆聽著。"
 
 # game/commonroute.rpy:30
-translate Tchinese commonroute_aff53815:
+translate Tchinese commonroute_c916811e:
 
-    # "It's mostly quiet, I can hear the girls laughing and talking a ways away, probably down in the empty saloon."
+    # "It's mostly quiet. I can hear the girls laughing and talking a ways away, probably down in the empty saloon."
     "外面基本上很安靜，我能聽見遠處姑娘們的笑聲與談話聲，也許是從下面空蕩蕩的酒館裡傳來的。"
 
 # game/commonroute.rpy:31
@@ -192,10 +192,10 @@ translate Tchinese commonroute_e30d082e:
     # "Slowly, I lower the floorboard again, feeling a little less tensed up since I think they're drunk enough down there that they won't even remember I'm up here."
     "慢慢地，我把地板放回原位。想到下面的人已經醉得甚至不記得我在上面，感覺也沒那麼緊張了。"
 
-# game/commonroute.rpy:42
-translate Tchinese commonroute_b7239517:
+# game/commonroute.rpy:43
+translate Tchinese commonroute_6a970a45:
 
-    # "I kneel there on the floor, looking at the one, gold eagle and the two double eagles resting on my palm pad."
+    # "I kneel there on the floor, looking at the one gold eagle and the two double eagles resting on my palm pad."
     "我跪在地板上，注視著躺在爪墊中的一枚鷹揚金幣和兩枚雙鷹幣。"
 
 # game/commonroute.rpy:43
@@ -324,11 +324,11 @@ translate Tchinese commonroute_2f78aea2:
     # "I think the real main reason is that she's a bit canned from drinking down in the saloon with the others."
     "我想真正的主要原因，是她和其他人在下面的酒館裡喝得醉醺醺的。"
 
-# game/commonroute.rpy:72
-translate Tchinese commonroute_6588b1e0:
+# game/commonroute.rpy:74
+translate Tchinese commonroute_aae5ea38:
 
-    # cy "\"I'll remember next time. Anyway come on down, we're all having such a good time!\""
-    cy "“下次我會記得的。總之下來吧，大家都玩得很開心！”"
+    # cy "\"I'll remember next time. Anyway come on down. We're all having such a good time!\""
+    cy "下次我會記得的。總之下來吧，大家都玩得很開心！"
 
 # game/commonroute.rpy:73
 translate Tchinese commonroute_4e0f1379:
@@ -840,16 +840,16 @@ translate Tchinese commonroute_9a7cabcb:
     # "I turn to show him the beaten up knapsack on my back."
     "我轉過身，讓他看我背上的破背包。"
 
-# game/commonroute.rpy:182
-translate Tchinese commonroute_264ab1af:
+# game/commonroute.rpy:184
+translate Tchinese commonroute_fb76765f:
 
-    # ja "\"Ha! Not carryin' much, are ya? No worries, we'll build a life for ya soon enough. And the money?\""
-    ja "“哈！沒多少，是吧？別擔心，我們很快就能讓你安定下了。錢呢？”"
+    # ja "\"Ha! Not carryin' much, are ya? No worries. We'll build a life for ya soon enough. And the money?\""
+    ja "哈！沒多少，是吧？別擔心，我們很快就能讓你安定下了。錢呢？"
 
-# game/commonroute.rpy:183
-translate Tchinese commonroute_ec4dbada:
+# game/commonroute.rpy:185
+translate Tchinese commonroute_7e4d737a:
 
-    # "I pause, almost panicking because I forgot for just a second where I put the coins, then I shove a paw into my pocket and pull them out."
+    # "I pause, almost panicking because I forget for just a second where I put the coins. Then I shove a paw into my pocket and pull them out."
     "我愣住了，幾乎驚慌起來，因為有那麼一瞬間，我記不起自己將硬幣放在了哪。之後，我把爪子擠進口袋，掏出它們。"
 
 # game/commonroute.rpy:184
@@ -996,10 +996,10 @@ translate Tchinese commonroute_1e20c7a0:
     # ja "\"I know! Looks like they've been there a long time. It's in a part of the mine that no one goes to anymore. I think they just forgot about 'em back in the day.\""
     ja "“我明白！它們看起來已經在那裡很久了。那個礦區一直沒人去過，我想他們就是給忘了。”"
 
-# game/commonroute.rpy:255
-translate Tchinese commonroute_5ec1e8e8:
+# game/commonroute.rpy:210
+translate Tchinese commonroute_a7ad8e9a:
 
-    # "Jack starts walking up the path, toward the mine and I'm left staring after him for a few seconds before I quickly start to follow, trying to find words to say."
+    # "Jack starts walking up the path toward the mine and I'm left staring after him for a few seconds before I quickly start to follow, trying to find words to say."
     "Jack開始沿著小路朝礦井走去，我盯著他看了幾秒鐘，然後迅速跟上，努力組織著自己的話。"
 
 # game/commonroute.rpy:209
@@ -1098,10 +1098,10 @@ translate Tchinese commonroute_e7bb0b8e:
     # ja "\"Ya see—\""
     ja "“瞧著吧──”"
 
-# game/commonroute.rpy:225
-translate Tchinese commonroute_9649444a:
+# game/commonroute.rpy:227
+translate Tchinese commonroute_3ae6e8d2:
 
-    # "Jack starts moving up the side of the big hill that the mine entrance is attached too, the slanted ground adding to the treachery of walking blindly through the wilderness."
+    # "Jack starts moving up the side of the big hill that the mine entrance is attached to, the slanted ground adding to the treachery of walking blindly through the wilderness."
     "Jack開始沿著礦井入口側面的山坡向上移動，傾斜的地面為在荒野中摸黑行走增添了不少變節。"
 
 # game/commonroute.rpy:226
@@ -1218,11 +1218,11 @@ translate Tchinese commonroute_e9e79323:
     # "Jack had only been working in the mines for a few weeks, yet he'd been able to figure all this out?"
     "Jack只在礦井裡工作了幾個星期，就已經把一切都弄清楚了？"
 
-# game/commonroute.rpy:245
-translate Tchinese commonroute_1f2f05cd:
+# game/commonroute.rpy:247
+translate Tchinese commonroute_8f9074a7:
 
-    # ja "\"Few of the others know, just had to talk to 'em.\""
-    ja "“和知道的那幾個人聊聊就行。”"
+    # ja "\"Few of the others know. Just had to talk to 'em.\""
+    ja "和知道的那幾個人聊聊就行。"
 
 # game/commonroute.rpy:247
 translate Tchinese commonroute_132bc3af:
@@ -3186,17 +3186,17 @@ translate Tchinese commonroute_7d03bb1d:
     # "If that's the case, then I might be able to make it out of this alright..."
     "如果是這樣的話，也許我可以挺過去..."
 
-# game/commonroute.rpy:643
-translate Tchinese commonroute_6c5f336b:
+# game/commonroute.rpy:656
+translate Tchinese commonroute_b23b39dd:
 
-    # "...but I'm not alright, I can feel it in my chest."
-    "...但我不會沒事的，我能感到這一切堵在我的胸口。"
+    # "...but I'm not alright. I can feel it in my chest."
+    "……但我不會沒事的，我隱約有這種感覺。"
 
-# game/commonroute.rpy:644
-translate Tchinese commonroute_dcca6228:
+# game/commonroute.rpy:657
+translate Tchinese commonroute_6246181e:
 
-    # "I killed a man in that mine, that's bad enough..."
-    "我在礦井裡殺了人，這已經夠糟了..."
+    # "I killed a man in that mine. That's bad enough..."
+    "我在礦井裡殺了人，這已經夠糟了……"
 
 # game/commonroute.rpy:646
 translate Tchinese commonroute_50025539:
@@ -3964,7 +3964,7 @@ translate Tchinese commonroute_d6cbd900:
 translate Tchinese commonroute_a55e97bd:
 
     # cl "\"Goodness! Here’s that good old hustle and bustle that I miss. The reputation of Saguaro's Hip most certainly precedes her!\""
-    cl "“天啊！這正是我心心念念的那種熙熙攘攘的好地方。Saguaro那邊的Hip肯定還要出名。”"
+    cl "“天啊！這正是我心心念念的那種熙熙攘攘的好地方。薩瓜洛的Hip酒館名不虛傳。”"
 
 # game/commonroute.rpy:835
 translate Tchinese commonroute_3edd96b9:
@@ -4356,16 +4356,16 @@ translate Tchinese commonroute_e3dc6288:
     # ha "\"Outside sounds like a good idea.\""
     ha "“外面聽起來不錯。”"
 
-# game/commonroute.rpy:942
-translate Tchinese commonroute_4f497447:
+# game/commonroute.rpy:1002
+translate Tchinese commonroute_b27f7fce:
 
-    # "There was danger in the hare’s tone."
+    # "There's danger in the hare’s tone."
     "野兔的語氣裡充滿了威脅。"
 
-# game/commonroute.rpy:943
-translate Tchinese commonroute_fd59ae7e:
+# game/commonroute.rpy:1005
+translate Tchinese commonroute_2b833092:
 
-    # "The wolf flinched from the sudden snap, but he shakes it off."
+    # "The wolf flinches from the sudden snap, but he shakes it off."
     "狼被突如其來的厲聲驚了一跳，不過很快拋之腦後。"
 
 # game/commonroute.rpy:945
@@ -4494,11 +4494,11 @@ translate Tchinese commonroute_42856ba4:
     # "Harlan places his fist on his chin, lifts his brow and gives me a curt nod before I turn on him and exit the door."
     "Harlan用拳頭抵著下巴，揚起眉毛，隨意地點了點頭。然後我轉身走出大門。"
 
-# game/commonroute.rpy:979
-translate Tchinese commonroute_c8d26628:
+# game/commonroute.rpy:1052
+translate Tchinese commonroute_21d04443:
 
-    # cl "\"Again, I didn’t mean to argue or create a scene. I truly thought my source was reliable. They said The Sanguaro’s Hip could cater to dandy curiosities.\""
-    cl "“重申一遍，我不是有意製造爭論或大吵大鬧的。我真的認為我的消息來源可靠。他們說，Sanguaro’s Hip能夠滿足花花公子的好奇心。”"
+    # cl "\"Again, I didn’t mean to argue or create a scene. I truly thought my source was reliable. They said The Saguaro’s Hip could cater to dandy curiosities.\""
+    cl "重申一遍，我不是有意製造爭論或大吵大鬧的。我真的認為我的消息來源可靠。他們說，薩瓜洛的Hip酒館能夠滿足花花公子的好奇心。"
 
 # game/commonroute.rpy:980
 translate Tchinese commonroute_5c0bdd4a:
@@ -4668,10 +4668,10 @@ translate Tchinese commonroute_133dba05:
     # "Huxley" "\"Shit!\""
     "Huxley" "“靠！”"
 
-# game/commonroute.rpy:1015
-translate Tchinese commonroute_22f95eac:
+# game/commonroute.rpy:1123
+translate Tchinese commonroute_9749a8e2:
 
-    # re "\"I’m not paying another fucking fine. Let’s get out of here before we’re recognized. I like booze better than I had candy asses.\""
+    # re "\"I’m not paying another fucking fine. Let’s get out of here before we’re recognized. I like booze better than I hate candy asses.\""
     re "“我可不會再交他媽的罰金了，在被認出來之前我們快走。比起一個窩囊廢我更願意和酒打交道。”"
 
 # game/commonroute.rpy:1252
@@ -5142,10 +5142,10 @@ translate Tchinese commonroute_69f5dbaa:
     # wi "\"With your... proclivities.\""
     wi "“利用你的...癖好。”"
 
-# game/commonroute.rpy:1120
-translate Tchinese commonroute_ca48cd43:
+# game/commonroute.rpy:1232
+translate Tchinese commonroute_76509049:
 
-    # "Murdoch looks away, appearing not to listen, and busies himself with his camera. He takes a snapshot at a few of the gathered crowds."
+    # "Murdoch looks away, appearing not to listen, and busies himself with his camera. He takes a snapshot of a few of the gathered crowds."
     "Murdoch移開了視線，似乎不打算聽。他正忙活著自己的相機，並為聚集的人群拍了張快照。"
 
 # game/commonroute.rpy:1121
@@ -6724,99 +6724,11 @@ translate Tchinese commonroute_7f85451f:
 
     # "Obsession can easily lead to heartbreak... and violence."
     "癡迷很容易導致心碎...和暴力。"
-
-# TODO: Translation updated at 2024-10-12 17:44
+# TODO: Translation updated at 2025-01-11 14:04
 
 # game/commonroute.rpy:1123
-translate Tchinese commonroute_9749a8e2:
+translate Tchinese commonroute_22f95eac:
 
-    # re "\"I’m not paying another fucking fine. Let’s get out of here before we’re recognized. I like booze better than I hate candy asses.\""
-    re "“我可不會再交他媽的罰金了，在被認出來之前我們快走。比起一個窩囊廢我更願意和酒打交道。”"
+    # re "\"I’m not paying another fucking fine. Let’s get out of here before we’re recognized. I like booze better than I had candy asses.\""
+    re ""
 
-# TODO: Translation updated at 2025-01-06 18:41
-
-
-
-# game/commonroute.rpy:30
-translate Tchinese commonroute_c916811e:
-
-    # "It's mostly quiet. I can hear the girls laughing and talking a ways away, probably down in the empty saloon."
-    ""
-
-# game/commonroute.rpy:43
-translate Tchinese commonroute_6a970a45:
-
-    # "I kneel there on the floor, looking at the one gold eagle and the two double eagles resting on my palm pad."
-    ""
-
-# game/commonroute.rpy:74
-translate Tchinese commonroute_aae5ea38:
-
-    # cy "\"I'll remember next time. Anyway come on down. We're all having such a good time!\""
-    cy ""
-
-# game/commonroute.rpy:184
-translate Tchinese commonroute_fb76765f:
-
-    # ja "\"Ha! Not carryin' much, are ya? No worries. We'll build a life for ya soon enough. And the money?\""
-    ja ""
-
-# game/commonroute.rpy:185
-translate Tchinese commonroute_7e4d737a:
-
-    # "I pause, almost panicking because I forget for just a second where I put the coins. Then I shove a paw into my pocket and pull them out."
-    ""
-
-# game/commonroute.rpy:210
-translate Tchinese commonroute_a7ad8e9a:
-
-    # "Jack starts walking up the path toward the mine and I'm left staring after him for a few seconds before I quickly start to follow, trying to find words to say."
-    ""
-
-# game/commonroute.rpy:227
-translate Tchinese commonroute_3ae6e8d2:
-
-    # "Jack starts moving up the side of the big hill that the mine entrance is attached to, the slanted ground adding to the treachery of walking blindly through the wilderness."
-    ""
-
-# game/commonroute.rpy:247
-translate Tchinese commonroute_8f9074a7:
-
-    # ja "\"Few of the others know. Just had to talk to 'em.\""
-    ja ""
-
-# game/commonroute.rpy:656
-translate Tchinese commonroute_b23b39dd:
-
-    # "...but I'm not alright. I can feel it in my chest."
-    ""
-
-# game/commonroute.rpy:657
-translate Tchinese commonroute_6246181e:
-
-    # "I killed a man in that mine. That's bad enough..."
-    ""
-
-# game/commonroute.rpy:1002
-translate Tchinese commonroute_b27f7fce:
-
-    # "There's danger in the hare’s tone."
-    ""
-
-# game/commonroute.rpy:1005
-translate Tchinese commonroute_2b833092:
-
-    # "The wolf flinches from the sudden snap, but he shakes it off."
-    ""
-
-# game/commonroute.rpy:1052
-translate Tchinese commonroute_21d04443:
-
-    # cl "\"Again, I didn’t mean to argue or create a scene. I truly thought my source was reliable. They said The Saguaro’s Hip could cater to dandy curiosities.\""
-    cl ""
-
-# game/commonroute.rpy:1232
-translate Tchinese commonroute_76509049:
-
-    # "Murdoch looks away, appearing not to listen, and busies himself with his camera. He takes a snapshot of a few of the gathered crowds."
-    ""

@@ -1716,11 +1716,11 @@ translate Tchinese Murdochroute_1dedd44b:
     # "I think about pictures... remembering how the film has to be taken out in a special room, or else all of the pictures get ruined."
     "我思索著照片的事……記得膠捲必須在一個特別的房間裡取出來，否則全部的照片都會毀掉。"
 
-# game/Murdochroute.rpy:400
-translate Tchinese Murdochroute_3a155649:
+# game/Murdochroute.rpy:401
+translate Tchinese Murdochroute_a8aff84a:
 
-    # "Then I think what the fox said the other day-- that these pictures are probably useless."
-    "接著我想起了狐狸前些時候說過的話──這些照片可能派不上用場。"
+    # "Then I think what the fox said the other day — that these pictures are probably useless."
+    "接著我想起了狐狸前些時候說過的話─這些照片可能派不上用場。"
 
 # game/Murdochroute.rpy:401
 translate Tchinese Murdochroute_e027fec0:
@@ -2022,10 +2022,10 @@ translate Tchinese Murdochroute_c812716e:
     # "The job is quick and thorough... a bit different from all of the slow and sloppy teasing he did last night."
     "他的行動又快又細緻……與昨晚慢而慵懶的挑逗有些不同。"
 
-# game/Murdochroute.rpy:470
-translate Tchinese Murdochroute_69b8ec10:
+# game/Murdochroute.rpy:471
+translate Tchinese Murdochroute_13696703:
 
-    # "He washes the rag again, wrings the water out, then brings it close to my—"
+    # "He washes the rag again, wrings the water out, then brings it close to my--"
     "他把布又清洗了一遍，擰乾水份，然後把它靠近我的──"
 
 # game/Murdochroute.rpy:471
@@ -3072,10 +3072,10 @@ translate Tchinese Murdochroute_2f3a3f7f:
     # mu "\"Have to be in this business. And mind that you're careful when speaking to my father.\""
     mu "“做這行必須的。還有，與我父親交談時要慎重。”"
 
-# game/Murdochroute.rpy:722
-translate Tchinese Murdochroute_ba8a2e59:
+# game/Murdochroute.rpy:723
+translate Tchinese Murdochroute_373b2b21:
 
-    # mu "\"His moods flip like a switch. Best to avoid him unless absolutely necessary if you don’t want to make trouble for yourself.\""
+    # mu "\"His mood flips like a switch. Best to avoid him unless absolutely necessary if you don’t want to make trouble for yourself.\""
     mu "“他翻臉像翻書一樣快。除非有絕對的必要，你最好避開他，如果你不想給自己找麻煩。”"
 
 # game/Murdochroute.rpy:723
@@ -4128,11 +4128,11 @@ translate Tchinese Murdochroute_febe70c1:
     # ra "\"I mean the other thing.\""
     ra "“我指的是另一碼事。”"
 
-# game/Murdochroute.rpy:1030
-translate Tchinese Murdochroute_0999a2a3:
+# game/Murdochroute.rpy:1037
+translate Tchinese Murdochroute_87ba0bd5:
 
-    # mu "\"Well—\""
-    mu "“唔──”"
+    # mu "\"Well--\""
+    mu "唔──"
 
 # game/Murdochroute.rpy:1032
 translate Tchinese Murdochroute_57c002af:
@@ -4140,11 +4140,11 @@ translate Tchinese Murdochroute_57c002af:
     # ra "\"The gob nobbling thing.\""
     ra "“收買口風的事。”"
 
-# game/Murdochroute.rpy:1034
-translate Tchinese Murdochroute_a1f4ddc5:
+# game/Murdochroute.rpy:1041
+translate Tchinese Murdochroute_55ccf505:
 
-    # mu "\"{i}Ralph{/i}—\""
-    mu "“{b}Ralph{/b}──”"
+    # mu "\"{i}Ralph{/i}--\""
+    mu "{b}Ralph{/b}──"
 
 # game/Murdochroute.rpy:1037
 translate Tchinese Murdochroute_b3b81385:
@@ -4512,17 +4512,17 @@ translate Tchinese Murdochroute_5cc4ec50:
     # ra "\"My king, my gentleman.... please don’t threaten me with a good time.\""
     ra "“這位先生……請不要用美好時光來威脅我。”"
 
-# game/Murdochroute.rpy:1158
-translate Tchinese Murdochroute_8f8f6a20:
+# game/Murdochroute.rpy:1165
+translate Tchinese Murdochroute_1003fcba:
 
-    # m "\"Listen—\""
-    m "“聽著──”"
+    # m "\"Listen--\""
+    m "聽著──"
 
-# game/Murdochroute.rpy:1160
-translate Tchinese Murdochroute_14267288:
+# game/Murdochroute.rpy:1167
+translate Tchinese Murdochroute_5b8b49a5:
 
-    # ra "\"No— YOU listen.\""
-    ra "“不──你給我聽著。”"
+    # ra "\"No, YOU listen.\""
+    ra "不，{b}你{/b}才該給我聽著。"
 
 # game/Murdochroute.rpy:1162
 translate Tchinese Murdochroute_ce5de9e4:
@@ -4782,11 +4782,11 @@ translate Tchinese Murdochroute_00681791:
     # "He looks at me, then back to the jar is his hand, and sneers at it before disappearing behind an aisle."
     "他看向我，然後目光回到手中的罐子上，對著它冷笑一聲，接著消失在了走道後面。"
 
-# game/Murdochroute.rpy:1268
-translate Tchinese Murdochroute_8ebaa779:
+# game/Murdochroute.rpy:1275
+translate Tchinese Murdochroute_b99d23d4:
 
-    # m "\"What was tha—\""
-    m "“剛才都是──”"
+    # m "\"What was tha--\""
+    m "剛才都是──"
 
 # game/Murdochroute.rpy:1270
 translate Tchinese Murdochroute_cdf6c555:
@@ -5250,11 +5250,11 @@ translate Tchinese Murdochroute_b82965bc:
     # "Those words sound a little rushed."
     "這句話聽起來有些急促。"
 
-# game/Murdochroute.rpy:1401
-translate Tchinese Murdochroute_fd5964f3:
+# game/Murdochroute.rpy:1408
+translate Tchinese Murdochroute_7885f38b:
 
-    # m "\"One. Nikolai. Big guy— even bigger than me. Has a heart of gold, too.\""
-    m "“認識一位。Nikolai，是個大塊頭──甚至比我還壯，有著一顆金子般的心。”"
+    # m "\"One. Nik. Big guy — even bigger than me. Has a heart of gold, too.\""
+    m "認識一位。Nikolai，是個大塊頭──甚至比我還壯，有著一顆金子般的心。"
 
 # game/Murdochroute.rpy:1402
 translate Tchinese Murdochroute_81703e7d:
@@ -5772,11 +5772,11 @@ translate Tchinese Murdochroute_78ba4919:
     # "Another red fox sits at a desk in the corner. Round glasses too big for her face perch upon her snout, and she peers at me from across the room with curiosity."
     "又一隻赤狐坐在角落的桌子處，好奇地從房間的另一頭端詳著我，她鼻樑上落著一副以她的臉來說過大的圓框眼鏡。"
 
-# game/Murdochroute.rpy:1542
-translate Tchinese Murdochroute_047ac950:
+# game/Murdochroute.rpy:1549
+translate Tchinese Murdochroute_7d1fe0f6:
 
-    # "{color=#B19882}???" "\"Why, hello. You’re someone new.\""
-    "{color=#B19882}???" "“哎呀，你好啊，新人。”"
+    # dhunk "\"Why, hello. You’re someone new.\""
+    dhunk "“哎呀，你好啊，新人。”"
 
 # game/Murdochroute.rpy:1544
 translate Tchinese Murdochroute_8060c66a:
@@ -5784,11 +5784,11 @@ translate Tchinese Murdochroute_8060c66a:
     # m "\"Are you another one of Murdoch’s relatives?\""
     m "“你是Murdoch的另一位親屬嗎？”"
 
-# game/Murdochroute.rpy:1546
-translate Tchinese Murdochroute_98e33743:
+# game/Murdochroute.rpy:1553
+translate Tchinese Murdochroute_b8fb06ae:
 
-    # "{color=#B19882}???" "\"But of course. He’s my older brother. If you came from the right, you must have already met Holly, our sister.\""
-    "{color=#B19882}???" "“那當然，他是我哥。你從右邊來的話，想必一定見過我們姐姐，Holly了。”"
+    # dhunk "\"But of course. He’s my older brother. If you came from the right, you must have already met Holly, our sister.\""
+    dhunk "“那當然，他是我哥。你從右邊來的話，想必一定見過我們姐姐，Holly了。”"
 
 # game/Murdochroute.rpy:1548
 translate Tchinese Murdochroute_05cdf9d4:
@@ -5880,11 +5880,11 @@ translate Tchinese Murdochroute_6a23153d:
     # m "\"Okay. I don’t suppose you have any students present needing a picture day form, then?\""
     m "“好吧，那麼，我猜你這裡一名學生沒有，也不需要照相日表格囉？”"
 
-# game/Murdochroute.rpy:1577
-translate Tchinese Murdochroute_ac56523f:
+# game/Murdochroute.rpy:1586
+translate Tchinese Murdochroute_e1f01506:
 
-    # dh "\"You’ve probably given one to all of my students by now..\""
-    dh "“你可能已經發給我的全部學生了……”"
+    # dh "\"You’ve probably given one to all of my students by now...\""
+    dh "“你可能已經發給我所有學生了……”"
 
 # game/Murdochroute.rpy:1579
 translate Tchinese Murdochroute_e29a84e6:
@@ -6264,11 +6264,11 @@ translate Tchinese Murdochroute_655c4fe5:
     # "Finally, she strides away from us, disappearing down a corridor."
     "說罷，她大步走遠，消失在了走廊的盡頭。"
 
-# game/Murdochroute.rpy:1680
-translate Tchinese Murdochroute_72ae28af:
+# game/Murdochroute.rpy:1695
+translate Tchinese Murdochroute_aa5a2cfb:
 
-    # m "\"That was—\""
-    m "“那是──”"
+    # m "\"That was--\""
+    m "那是──"
 
 # game/Murdochroute.rpy:1681
 translate Tchinese Murdochroute_b4f1224a:
@@ -6360,11 +6360,11 @@ translate Tchinese Murdochroute_825b3a9a:
     # "Murdoch does as well, and snatches it from the pins."
     "Murdoch也是如此，然後他一把將它從夾子上取下。"
 
-# game/Murdochroute.rpy:1707
-translate Tchinese Murdochroute_596f9b1b:
+# game/Murdochroute.rpy:1722
+translate Tchinese Murdochroute_f1a14c55:
 
-    # mu "\"So I bet you can’t help but wonder how we get from this—\""
-    mu "“我打賭，你肯定會好奇我們是怎麼把這個──”"
+    # mu "\"So I bet you can’t help but wonder how we get from this--\""
+    mu "我打賭，你肯定會好奇我們是怎麼把這個──"
 
 # game/Murdochroute.rpy:1708
 translate Tchinese Murdochroute_956cca15:
@@ -6372,11 +6372,11 @@ translate Tchinese Murdochroute_956cca15:
     # "He holds of the small, shiny strip of film."
     "他拿著一小塊亮閃閃的膠片。"
 
-# game/Murdochroute.rpy:1710
-translate Tchinese Murdochroute_4d377cf6:
+# game/Murdochroute.rpy:1725
+translate Tchinese Murdochroute_653a7734:
 
-    # mu "\"—to this.\""
-    mu "“──變成這個的。”"
+    # mu "\"--to this.\""
+    mu "──變成這個的。"
 
 # game/Murdochroute.rpy:1711
 translate Tchinese Murdochroute_d079faef:
@@ -7111,108 +7111,3 @@ translate Tchinese strings:
     # game/Murdochroute.rpy:889
     old "Half a quarter?"
     new "八分之一？"
-
-# TODO: Translation updated at 2023-05-06 09:21
-
-# game/Murdochroute.rpy:1401
-translate Tchinese Murdochroute_1161396b:
-
-    # m "\"One. Nik. Big guy— even bigger than me. Has a heart of gold, too.\""
-    m "“認識一位。Nik，是個大塊頭──甚至比我還壯，有著一顆金子般的心。”"
-
-# TODO: Translation updated at 2023-09-29 22:00
-
-# game/Murdochroute.rpy:723
-translate Tchinese Murdochroute_373b2b21:
-
-    # mu "\"His mood flips like a switch. Best to avoid him unless absolutely necessary if you don’t want to make trouble for yourself.\""
-    mu "“他翻臉像翻書一樣快。除非有絕對的必要，你最好避開他，如果你不想給自己找麻煩。”"
-
-# game/Murdochroute.rpy:1549
-translate Tchinese Murdochroute_7d1fe0f6:
-
-    # dhunk "\"Why, hello. You’re someone new.\""
-    dhunk "“哎呀，你好啊，新人。”"
-
-# game/Murdochroute.rpy:1553
-translate Tchinese Murdochroute_b8fb06ae:
-
-    # dhunk "\"But of course. He’s my older brother. If you came from the right, you must have already met Holly, our sister.\""
-    dhunk "“那當然，他是我哥。你從右邊來的話，想必一定見過我們姐姐，Holly了。”"
-
-# game/Murdochroute.rpy:1586
-translate Tchinese Murdochroute_e1f01506:
-
-    # dh "\"You’ve probably given one to all of my students by now...\""
-    dh "“你可能已經發給我的全部學生了……”"
-
-# TODO: Translation updated at 2024-10-12 17:44
-
-# game/Murdochroute.rpy:401
-translate Tchinese Murdochroute_a8aff84a:
-
-    # "Then I think what the fox said the other day — that these pictures are probably useless."
-    "接著我想起了狐狸前些時候說過的話─這些照片可能派不上用場。"
-
-# TODO: Translation updated at 2025-01-11 02:10
-
-# game/Murdochroute.rpy:471
-translate Tchinese Murdochroute_13696703:
-
-    # "He washes the rag again, wrings the water out, then brings it close to my--"
-    ""
-
-# game/Murdochroute.rpy:1037
-translate Tchinese Murdochroute_87ba0bd5:
-
-    # mu "\"Well--\""
-    mu ""
-
-# game/Murdochroute.rpy:1041
-translate Tchinese Murdochroute_55ccf505:
-
-    # mu "\"{i}Ralph{/i}--\""
-    mu ""
-
-# game/Murdochroute.rpy:1165
-translate Tchinese Murdochroute_1003fcba:
-
-    # m "\"Listen--\""
-    m ""
-
-# game/Murdochroute.rpy:1167
-translate Tchinese Murdochroute_5b8b49a5:
-
-    # ra "\"No, YOU listen.\""
-    ra ""
-
-# game/Murdochroute.rpy:1275
-translate Tchinese Murdochroute_b99d23d4:
-
-    # m "\"What was tha--\""
-    m ""
-
-# game/Murdochroute.rpy:1408
-translate Tchinese Murdochroute_7885f38b:
-
-    # m "\"One. Nik. Big guy — even bigger than me. Has a heart of gold, too.\""
-    m ""
-
-# game/Murdochroute.rpy:1695
-translate Tchinese Murdochroute_aa5a2cfb:
-
-    # m "\"That was--\""
-    m ""
-
-# game/Murdochroute.rpy:1722
-translate Tchinese Murdochroute_f1a14c55:
-
-    # mu "\"So I bet you can’t help but wonder how we get from this--\""
-    mu ""
-
-# game/Murdochroute.rpy:1725
-translate Tchinese Murdochroute_653a7734:
-
-    # mu "\"--to this.\""
-    mu ""
-
