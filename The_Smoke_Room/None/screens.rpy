@@ -17,13 +17,13 @@ screen preferences():
                 if renpy.variant("pc"):
 
                     vbox:
-                        style_prefix "check"
+                        style_prefix "radio"
                         label _("Display")
                         textbutton _("Window") action Preference("display", "window")
                         textbutton _("Fullscreen") action Preference("display", "fullscreen")
 
                 vbox:
-                    style_prefix "check"
+                    style_prefix "radio"
                     label _("Rollback Side")
                     textbutton _("Disable") action Preference("rollback side", "disable")
                     textbutton _("Left") action Preference("rollback side", "left")
@@ -35,7 +35,6 @@ screen preferences():
                     textbutton _("Unseen Text") action Preference("skip", "toggle")
                     textbutton _("After Choices") action Preference("after choices", "toggle")
                     textbutton _("Transitions") action InvertSelected(Preference("transitions", "toggle"))
-
 
                 vbox:
                     style_prefix "check"
