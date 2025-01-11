@@ -19374,3 +19374,85 @@ translate Schinese murdochroute3b_19aa1f13:
     # nibadg "\"It’s not safe! You have to run!\""
     nibadg "“这里很危险！快跑！”"
 
+# TODO: Translation updated at 2024-10-12 17:46
+
+# game/murdochroute3.rpy:478
+translate Schinese murdochroute3a_1a1dc235:
+
+    # m "\"Ah, sorry, I’ll—\""
+    m "“抱歉，我马上-”"
+
+# game/murdochroute3.rpy:1948
+translate Schinese murdochroute3a_9d6f15b8:
+
+    # cl "\"Thank you for your time and your ear, but I must be off to the train.\""
+    cl "“非常感谢你的时间和知识，但我必须去搭火车了。”"
+
+# game/murdochroute3.rpy:3894
+translate Schinese murdochroute3b_8ce2afc4:
+
+    # mu "\"But that doesn’t change the fact that Jim’s friends think Holly — and by extension, me — we’re too poor to be associated with.\""
+    mu "“但有些事实依旧没能改变：Holly，还有我，我们穷到完全入不了Jim朋友的眼。”"
+
+# game/murdochroute3.rpy:4295
+translate Schinese murdochroute3b_39afc56a:
+
+    # cig "\"Look at this town — I know my daughter insists it’s a city but it’s still a town in my eyes.\""
+    cig "“看看这镇子吧，虽然我女儿坚称这是座城市，但在我眼里终究只是个小镇。”"
+
+# game/murdochroute3.rpy:4342
+translate Schinese murdochroute3b_caff7d2a:
+
+    # cig "\"Because, laddie, please don’t take offense when I say this — but outsiders aren’t considered a threat.\""
+    cig "“小伙子，我这么说你别往心里去，但外人算不上什么威胁。”"
+
+# game/murdochroute3.rpy:4426
+translate Schinese murdochroute3b_02e72565:
+
+    # "Blithe Washington — the one who took my money."
+    "捡走我钱的人：Blithe Washington。"
+
+# game/murdochroute3.rpy:4673
+translate Schinese murdochroute3b_76a8b615:
+
+    # m "\"Mr. Byrnes? Please don’t do that.\""
+    m "“Byrnes先生？请别这样。”"
+
+# game/murdochroute3.rpy:4721
+translate Schinese murdochroute3b_0a93ea30:
+
+    # al "\"That happens to the best — best of us.\""
+    al "“算是好事一桩，对我们都好。”"
+
+# game/murdochroute3.rpy:5215
+translate Schinese murdochroute3b_c9e754d0:
+
+    # ji "\"And more quartz than you would care to see — though that’s not unusual by any means.\""
+    ji "“石英则多得夸张，虽然这也不算反常就是了。”"
+
+# game/murdochroute3.rpy:5403
+translate Schinese murdochroute3b_6894a316:
+
+    # "I hadn’t heard her talk about that before, but from the tone of her voice it sounds serious."
+    "我不记得她提过这件事，但听语气她是认真的。"
+
+# game/murdochroute3.rpy:5452
+translate Schinese murdochroute3b_484b5bdc:
+
+    # "They walk in opposite directions while the crowd sort of hovers around the now empty table."
+    "他们往相反的方向走去，徒留一行人待在空桌旁。"
+
+# game/murdochroute3.rpy:5748
+translate Schinese murdochroute3b_765c0b65:
+
+    # bl "\"The hell do you mean lucked out—\""
+    bl "“运气好是什么意-”"
+
+# TODO: Translation updated at 2025-01-11 03:11
+
+# game/murdochroute3.rpy:4721
+translate Schinese murdochroute3b_d1f71700:
+
+    # al "\"That happens to the best-- best of us.\""
+    al ""
+

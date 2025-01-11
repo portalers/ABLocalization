@@ -4,7 +4,7 @@
 translate Schinese cliffroute_38b05af4:
 
     # "While the fox's wager is tempting, it's just that: a wager."
-    "虽然狐狸的赌注很诱人，但它只是一个赌注。"
+    "虽然狐狸的赌注很诱人，但无非只是个赌。"
 
 # game/cliffroute.rpy:9
 translate Schinese cliffroute_fd1a7aec:
@@ -6615,7 +6615,7 @@ translate Schinese cliffroute_ef7aaad5:
 translate Schinese cliffroute_5c25dc56:
 
     # "Cliff is standing with a tea kettle in hand, shaking his free hand wildly."
-    "Cliff站在那里，一只爪子拿着茶壶，另一只则发疯似的挥动着。"
+    "Cliff站在那里，一手拿着茶壶，另一只手则发疯似的挥动着。"
 
 # game/cliffroute.rpy:1528
 translate Schinese cliffroute_f4818b96:
@@ -6915,7 +6915,7 @@ translate Schinese cliffroute_b7de3076:
 translate Schinese cliffroute_822038f0:
 
     # cl "\"Though there is…\""
-    cl "“尽管其中...”"
+    cl "“尽管其中也有...”"
 
 # game/cliffroute.rpy:1609
 translate Schinese cliffroute_a6d2ffda:
@@ -6933,7 +6933,7 @@ translate Schinese cliffroute_9fbe39bc:
 translate Schinese cliffroute_913d48b9:
 
     # cl "\"There is -- I wouldn't call it a connection, so to speak, not yet -- but I do see you as a kindred spirit.\""
-    cl "“其中──我不认为可以把它叫做关系，至少现在不能──但我确实认为你我志趣相投。”"
+    cl "“也有─我不认为可以把这叫做关系，至少现在不能─但我确实认为你我志趣相投。”"
 
 # game/cliffroute.rpy:1613
 translate Schinese cliffroute_6d9db106:
@@ -7841,4 +7841,96 @@ translate Schinese cliffroute_cfa72996:
 
     # "I've never told her I wanted to leave, but Cynthia has a way of finding things out on her own."
     "我从没有向她吐过想要离开的苦水，但她总有办法找到答案。"
+
+# TODO: Translation updated at 2024-10-12 17:46
+
+# game/cliffroute.rpy:150
+translate Schinese cliffroute_1720f4f0:
+
+    # cl "\"I am deeply sorry. I didn't mean to upset you, o-or hit a sore spot, or—\""
+    cl "“真的很抱歉，我不是有意提起你的伤心事的─”"
+
+# game/cliffroute.rpy:167
+translate Schinese cliffroute_5c28e2cd:
+
+    # m "\"Feesus? What's a—\""
+    m "“轮闻？那是啥─”"
+
+# game/cliffroute.rpy:199
+translate Schinese cliffroute_2e08df61:
+
+    # cl "\"Haah… P-Pardon my enthusiasm, I've been waiting for this all evening...\""
+    cl "“哈哈...请─请原谅我的热情，这一刻我等了足足一个晚上。”"
+
+# game/cliffroute.rpy:522
+translate Schinese cliffroute_401a9722:
+
+    # cl "\"Well, I heard—\""
+    cl "“好吧，我听说─”"
+
+# game/cliffroute.rpy:829
+translate Schinese cliffroute_214e558d:
+
+    # m "\"Hey, I’m... I’m sorry, alright?\""
+    m "“嘿，我─我很抱歉。”"
+
+# game/cliffroute.rpy:1095
+translate Schinese cliffroute_659dff2f:
+
+    # cl "\"It's about... about my expedition. It took a while, but I found a guide, Samuel.\""
+    cl "“事情是关于...我的考察的。虽然花了点时间，不过我总算找到一位向导，Samuel。”"
+
+# game/cliffroute.rpy:1107
+translate Schinese cliffroute_e26d146a:
+
+    # cl "\"N-no! N-not like that!\""
+    cl "“不-不！不是的！”"
+
+# game/cliffroute.rpy:1123
+translate Schinese cliffroute_9d017dfa:
+
+    # "Might get bit by something venomous, or get heat stroke, but it’s better than waiting to die here."
+    "可能会被毒虫蜇、被晒中暑，但总比坐在这儿等死强。"
+
+# game/cliffroute.rpy:1267
+translate Schinese cliffroute_f8c2699b:
+
+    # m "\"Ever thought about leavin'? Goin' back to—\""
+    m "“你有想过离开吗？回到─”"
+
+# game/cliffroute.rpy:1402
+translate Schinese cliffroute_ade681fd:
+
+    # "Reed" "\"He tried to—\""
+    "Reed" "“他─”"
+
+# game/cliffroute.rpy:1472
+translate Schinese cliffroute_990915c2:
+
+    # cl "\"Actually—\""
+    cl "“实际上─”"
+
+# game/cliffroute.rpy:1591
+translate Schinese cliffroute_acfb517d:
+
+    # m "\"Cliff, are you—\""
+    m "“Cliff， 你还─”"
+
+# game/cliffroute.rpy:1669
+translate Schinese cliffroute_3e2a0cfd:
+
+    # cl "\"I-I assure you, my reasons for hiring you weren't sexual in nature.\""
+    cl "“我─我向你保证，我雇用你的原因与性无关。”"
+
+# game/cliffroute.rpy:1679
+translate Schinese cliffroute_bad170ce:
+
+    # cl "\"There is — I wouldn't call it a connection, so to speak, not yet — but I do see you as a kindred spirit.\""
+    cl "“-也有你的关系。我们并非深交，但我确实认为你我志趣相投。”"
+
+# game/cliffroute.rpy:1796
+translate Schinese cliffroute_b6852414:
+
+    # cl "\"Oh, thank you! And Clifford is fine. Anyway, Samuel—\""
+    cl "“哦，谢谢你！还有叫我Cliff就好。 总而言之，Samuel─”"
 

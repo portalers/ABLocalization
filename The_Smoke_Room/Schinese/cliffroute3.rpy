@@ -16299,3 +16299,85 @@ translate Schinese cliffchoice5_d3e7eb5a:
     # cl "\"I think that the animal who hunted us at the camp in the woods is still stalking us.\""
     cl "“我想在森林里袭击了我们的那只动物现在仍跟着我们。”"
 
+# TODO: Translation updated at 2024-10-12 17:46
+
+# game/cliffroute3.rpy:192
+translate Schinese cliffroute3_3472f1e0:
+
+    # cl "\"J-just a minute!\""
+    cl "“几-几分钟就好！”"
+
+# game/cliffroute3.rpy:320
+translate Schinese murdochtent_653608b9:
+
+    # cl "\"I had a fantastic go in the springs with you, but… I'd rather we stay on professional terms. At least for now.\""
+    cl "“泉水里的那段时光很美妙，只是...我更希望大伙保持专注，至少目前是这样。”"
+
+# game/cliffroute3.rpy:369
+translate Schinese murdochtent_0b909680:
+
+    # cl "\"We're so sorry. We were just—\""
+    cl "“实在不好意思，我们刚刚-”"
+
+# game/cliffroute3.rpy:438
+translate Schinese aftertent_d455ea12:
+
+    # "I wish that Clifford Tibbits — that {i}I{/i} could be that confident."
+    "真希望Clifford Tibbits-即{b}我{/b}-也能如此自信。"
+
+# game/cliffroute3.rpy:1019
+translate Schinese cliffint1_21c09b86:
+
+    # cl "\"I-I'll take my leave. I'm sorry to have bothered you.\""
+    cl "“我-我先告辞了。很抱歉打扰你们。”"
+
+# game/cliffroute3.rpy:1027
+translate Schinese cliffint1_3d48cdda:
+
+    # cl "\"I-it's quite alright. We've had a long few days.\""
+    cl "“没-没关系，最近确实比较煎熬。”"
+
+# game/cliffroute3.rpy:1490
+translate Schinese aftercliffint2_6bcbaac2:
+
+    # m "\"Truth be told—\""
+    m "“说实话-”"
+
+# game/cliffroute3.rpy:3489
+translate Schinese cliffroute3a_e162e3ee:
+
+    # "There’s a sweet smell that lingers in the air — mostly likely from all the smoke of a small settlement waking up, along with the scent of pine sap."
+    "空气中弥漫着一股甜味，大概这个小小部落的炊烟，其中不乏松树汁液的味道。"
+
+# game/cliffroute3.rpy:3991
+translate Schinese cliffroute3a_53000ff1:
+
+    # "I found out last night that his role in this community was far more important than I initially knew — leading the first night of one of the chants."
+    "昨晚我才发现，他在这团体中的角色比我想的还要重要得多，竟然是第一晚祭祀的头领。"
+
+# game/cliffroute3.rpy:4932
+translate Schinese cliffchoice5_ca14c194:
+
+    # ca "\"{cps=20}And I’ll be telling Hendricks to send somebody more reliab—\"{w=0.3}{nw}"
+    ca "“{cps=20}我会叫Hendricks派一个更可靠-”{w=0.3}{nw}"
+
+# TODO: Translation updated at 2025-01-11 03:11
+
+# game/cliffroute3.rpy:438
+translate Schinese aftertent_c2fbb5bb:
+
+    # "I wish that Clifford Tibbits... that {i}I{/i} could be that confident."
+    ""
+
+# game/cliffroute3.rpy:1490
+translate Schinese aftercliffint2_ffcfe05e:
+
+    # m "\"Truth be told--\""
+    m ""
+
+# game/cliffroute3.rpy:4932
+translate Schinese cliffchoice5_084adb3a:
+
+    # ca "\"{cps=20}And I’ll be telling Hendricks to send somebody more reliab--\"{w=0.3}{nw}"
+    ca ""
+

@@ -598,13 +598,13 @@ translate Schinese nikroute_72032af2:
 translate Schinese nikroute_223ef38e:
 
     # m "\"Again, we're closed.\""
-    m "“再说一遍，我们打烊了。”"
+    m "“再说一遍，我们已经打烊了。”"
 
 # game/nikroute.rpy:132
 translate Schinese nikroute_de7b43fb:
 
     # cl "\"Well, if that is the situation...\""
-    cl "“嗯，既然如此......”"
+    cl "“呃，事已至此...”"
 
 # game/nikroute.rpy:133
 translate Schinese nikroute_c1396b6f:
@@ -6849,4 +6849,224 @@ translate Schinese nikroute_ce8c2d01:
 
     # "As soon as I'm past the tent, I take a quick left, onto a smaller road with hardly any buildings except a house or two."
     "一经过帐篷，我就马上左转，上了条除一两栋建筑物外空空如也的小路。"
+
+# TODO: Translation updated at 2024-10-12 17:46
+
+# game/nikroute.rpy:135
+translate Schinese nikroute_57c8b723:
+
+    # cl "\"Do you think that you'll be able to fit me in—\""
+    cl "“你觉得可以把今晚留给我─”"
+
+# game/nikroute.rpy:188
+translate Schinese nikroute_c853af4b:
+
+    # ni "\"Y-yes.\""
+    ni "“没-没错。”"
+
+# game/nikroute.rpy:193
+translate Schinese nikroute_f7c6d2b1:
+
+    # cl "\"I-I suppose.\""
+    cl "“我-我想也是。”"
+
+# game/nikroute.rpy:241
+translate Schinese nikroute_ec66b04b:
+
+    # cl "\"I thought we were going to—\""
+    cl "“我以为我们会─”"
+
+# game/nikroute.rpy:392
+translate Schinese nikroute_16b26b83:
+
+    # "I'd convinced him to keep coming back even though he could only afford a third of my rate—"
+    "尽管他只付得起三分之一的价格，我还是说服他留了下来─"
+
+# game/nikroute.rpy:393
+translate Schinese nikroute_1d4606db:
+
+    # "—and even though that meant convincing Madam Dora, too."
+    "─即便这意味着我同样要说服Dora夫人。"
+
+# game/nikroute.rpy:417
+translate Schinese nikroute_934c0e09:
+
+    # ni "\"I was wondering—\""
+    ni "“我想知道─”"
+
+# game/nikroute.rpy:541
+translate Schinese nikroute_9bf8e904:
+
+    # ni @ talking "\"I don't want to ask this—\""
+    ni @ talking "“我本来不想问的-”"
+
+# game/nikroute.rpy:545
+translate Schinese nikroute_c810edc7:
+
+    # ni @ talking "\"—but did you know Jack?\""
+    ni @ talking "“-但你认识Jack吗？”"
+
+# game/nikroute.rpy:635
+translate Schinese nikroute_40cbb637:
+
+    # "He stares back, as if thinking, then—"
+    "他若有所思地看回来，然后─"
+
+# game/nikroute.rpy:743
+translate Schinese nikroute_79378cc8:
+
+    # "I wait, hoping whoever it is just goes away, but—"
+    "我等待着，暗自希望那人会直接离开，然而─"
+
+# game/nikroute.rpy:792
+translate Schinese nikroute_25b94cd0:
+
+    # wi "\"Christ Sam, is he reall—\""
+    wi "“老天，Sam，他到底在─”"
+
+# game/nikroute.rpy:807
+translate Schinese nikroute_777b55ff:
+
+    # ni "\"Er, yes, I did not want you to have to see my bare fur, so I thought I should hide myself, but I realized it was causing more trouble than—\""
+    ni "“呃，是的，我不想让你看到我光着身子，所以躲了起来。不过好像反而造成了更多麻烦─”"
+
+# game/nikroute.rpy:883
+translate Schinese nikroute_94cc31d2:
+
+    # wi "\"{i}Listen{/i}, Sam. I know you've been mugged before, it happens when you're out messin' around before the crack of dawn, but maybe it's something worth looking into if it happened the same ni—\""
+    wi "“{b}听着{/b}，Sam，我知道你之前在外面被人打劫过，如果这两件事发生在同一晚─”"
+
+# game/nikroute.rpy:905
+translate Schinese nikroute_6648e370:
+
+    # wi "\"Wait, wha—\""
+    wi "“等等，哈？”"
+
+# game/nikroute.rpy:972
+translate Schinese nikroute_a76d079a:
+
+    # m "\"A-Alright. Thanks, Nik.\""
+    m "“好-好吧。谢谢你，Nik。”"
+
+# game/nikroute.rpy:993
+translate Schinese nikroute_4d5ccd0f:
+
+    # "Whatever happened in there, it was after me, and me alone for killing a man."
+    "不管下面发生了什么，都是因我而起，因为我杀了人。"
+
+# game/nikroute.rpy:1032
+translate Schinese nikroute_9f1b461a:
+
+    # "I look up, and see red eyes stare back—"
+    "我抬起头，看到猩红的双目迎上─"
+
+# game/nikroute.rpy:1036
+translate Schinese nikroute_de36584e:
+
+    # "I actually—"
+    "我实打实地─"
+
+# game/nikroute.rpy:1199
+translate Schinese nikroute_04a6d615:
+
+    # m "\"L-Lee?\""
+    m "“L-Lee？”"
+
+# game/nikroute.rpy:1214
+translate Schinese nikroute_5384d383:
+
+    # m "\"Can I... Can I stand here for just a minute? I won't bother ya. I'm just... the sun's gettin' to me.\""
+    m "“我─我在这里待一会儿可以吗？不会打扰你们的，我就是─就是进来躲躲太阳。”"
+
+# game/nikroute.rpy:1238
+translate Schinese nikroute_35b5bcd2:
+
+    # m "\"I-I won't tell anyone. I mind my own business, I can promise ya that. I'm just catchin' some shade while I can.\""
+    m "“我─我不会告诉任何人的，我保证不会多管闲事，我只是想在中暑之前找个乘凉的地方。”"
+
+# game/nikroute.rpy:1284
+translate Schinese nikroute_7d3bd968:
+
+    # "I think whatever the guy is on — I know what it is, I just can't remember the name — is making him more talkative too."
+    "我想他正在吸的玩意-我知道那是什么，只是忘了名字-也让他变得更健谈了。"
+
+# game/nikroute.rpy:1342
+translate Schinese nikroute_64018220:
+
+    # ni "\"Wha— Sam, what are you doing?\""
+    ni "“什，Sam，你怎么在这？”"
+
+# TODO: Translation updated at 2025-01-11 03:11
+
+# game/nikroute.rpy:73
+translate Schinese nikroute_07513db5:
+
+    # "I like it though. Finally a moment not to be nagged by William, or my other clients, or even Cynthia."
+    ""
+
+# game/nikroute.rpy:561
+translate Schinese nikroute_ea5c670e:
+
+    # "I open my mouth, but I can't speak, even though I try to say something, to pretend I don't know shit. But when nothing comes out, I have to settle for a weak shrug."
+    ""
+
+# game/nikroute.rpy:579
+translate Schinese nikroute_b8879bfc:
+
+    # "I give up. I lay there and just wait. Wait for whatever Nik has in store for me."
+    ""
+
+# game/nikroute.rpy:583
+translate Schinese nikroute_7bfa8f3f:
+
+    # "Then biting his throat out like I should have when I was kissing it."
+    ""
+
+# game/nikroute.rpy:683
+translate Schinese nikroute_19ac776d:
+
+    # m "\"I dunno. I really don't. I think he'd hang me if he knew.\""
+    m ""
+
+# game/nikroute.rpy:993
+translate Schinese nikroute_3f634b59:
+
+    # "Whatever happened in there, it was after me, and me alone for killing that man."
+    ""
+
+# game/nikroute.rpy:1039
+translate Schinese nikroute_707cb2df:
+
+    # "I stare at myself. A look like I can't believe what just happened is on my face."
+    ""
+
+# game/nikroute.rpy:1183
+translate Schinese nikroute_97c6f553:
+
+    # "I need to get to Nik now. Otherwise I'm gonna miss him and he's going in there alone."
+    ""
+
+# game/nikroute.rpy:1195
+translate Schinese nikroute_831d0477:
+
+    # "I know people are in here. I can hear them, but I can't smell them because something else crowds my nostrils."
+    ""
+
+# game/nikroute.rpy:1205
+translate Schinese nikroute_43f14961:
+
+    # "Lee left anyway. At least I think he did."
+    ""
+
+# game/nikroute.rpy:1335
+translate Schinese nikroute_7e0a74ed:
+
+    # "Hands reaching out of a fucking mine, I guess."
+    ""
+
+# game/nikroute.rpy:1452
+translate Schinese nikroute_c746244f:
+
+    # "An old looking polecat sees us and gives us an apprehensive look, and starts speaking in a language I don’t understand."
+    ""
 

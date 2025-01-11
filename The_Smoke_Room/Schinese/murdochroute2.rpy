@@ -26470,7 +26470,7 @@ translate Schinese mdq2_a117d768:
 translate Schinese mdq2_4d094eca:
 
     # "Maybe it was somebody she trusted."
-    "还是说对方是她信任的人。"
+    "又或者说对方是她信任的人。"
 
 # game/murdochroute2.rpy:7622
 translate Schinese mdq2_fde4ac40:
@@ -28630,4 +28630,116 @@ translate Schinese murdochroute2_027feb0d:
 
     # "She looks over her shoulder like she hears me, snatches her own hat off her head and holds her arms out, putting each foot down in front of her, widening the gap."
     "她似乎听到了动静，回头望了我一眼，然后摘下帽子，伸出双臂飞奔起来。"
+
+# TODO: Translation updated at 2024-10-12 17:46
+
+# game/murdochroute2.rpy:149
+translate Schinese murdochroute2_b1cc5bef:
+
+    # "Bit nervous to approach them though — would probably think I'm a weirdo."
+    "接近她们令我有点儿紧张：她们可能会觉得我是个怪人。"
+
+# game/murdochroute2.rpy:263
+translate Schinese murdochroute2_ea382d1d:
+
+    # mu "\"But the photograph—\""
+    mu "“但是那张照片─”"
+
+# game/murdochroute2.rpy:415
+translate Schinese murdochroute2_eebf63d7:
+
+    # "I realize at this moment that one of Murdoch's sisters stands next to him — the tiny astronomer with the big glasses that sit on her snout."
+    "此时，我才注意到Murdoch的妹妹也在他身旁：那个鼻梁上架着副小眼镜的小天文学家。"
+
+# game/murdochroute2.rpy:474
+translate Schinese murdochroute2_157b0a49:
+
+    # ho "\"Of course you have — you've met my juniors.\""
+    ho "“的确，例如我的学生们。”"
+
+# game/murdochroute2.rpy:710
+translate Schinese murdochroute2_e428d828:
+
+    # ra "\"I'm still terrified of the scandal you could cause — and if you're in trouble, the whole business could follow you down the drain.\""
+    ra "“而是担心你可能引起的丑闻：一旦陷入谣言，我们的生意就全完了。”"
+
+# game/murdochroute2.rpy:1971
+translate Schinese murdochroute2_6d2bd295:
+
+    # mu "\"If they're doing something harmful, we should probably interrupt—\""
+    mu "“如果他在干什么勾当，我们应该制止─”"
+
+# game/murdochroute2.rpy:1980
+translate Schinese murdochroute2_3a32bbcd:
+
+    # mu "\"That couldn't be a—\""
+    mu "“不可能─”"
+
+# game/murdochroute2.rpy:2726
+translate Schinese murdochroute2_ee13b73f:
+
+    # cl "\"The meadows and quarries here are ancient — certainly like nothing I've seen before.\""
+    cl "“那里的草场和采石场相当有年头，绝对是我前所未见的。”"
+
+# game/murdochroute2.rpy:2850
+translate Schinese murdochroute2_5c89f323:
+
+    # "Or worse — get me fired."
+    "或是更糟：导致我被开除。"
+
+# game/murdochroute2.rpy:3169
+translate Schinese murdochroute2_ff283e08:
+
+    # bl "\"Sorry I'm early Miz Byrnes, but—\""
+    bl "“不好意思，我来早了，Byrnes女士，不过─”"
+
+# game/murdochroute2.rpy:3728
+translate Schinese murdochroute2_7f397e4c:
+
+    # m "\"MotherFUCK—\""
+    m "“{b}操──{/b}”"
+
+# game/murdochroute2.rpy:3829
+translate Schinese murdochroute2_b520e8ca:
+
+    # "I can feel a rush of air, so similar — too similar — to the entrance of the mines."
+    "我能感到一股气流迎面冲了出来，与矿井入口十分相似──太相似了。"
+
+# game/murdochroute2.rpy:4292
+translate Schinese murdochroute2_606583d1:
+
+    # mu "\"Perhaps both Sam and Jim would prefer to talk about something other than work—\""
+    "我能感到一股气流迎面冲了出来，与矿井入口十分相似──太相似了。"
+
+# game/murdochroute2.rpy:4454
+translate Schinese murdochroute2_72d4991b:
+
+    # gr "\"Holly knows that you have to take credit where credit is due — she’s organizing her entire wedding by herself, and on a budget.\""
+    gr "“Holly就明白这个道理，她独自筹备了整场婚礼，还没有超出预算。”"
+
+# game/murdochroute2.rpy:4471
+translate Schinese murdochroute2_773c9dca:
+
+    # gr "\"Holly understands that — that’s why her classroom is so well-managed.\""
+    gr "“Holly就深知这一点，所以她的班级才管理有方。”"
+
+# game/murdochroute2.rpy:4477
+translate Schinese murdochroute2_1eba5bee:
+
+    # ho "\"Firm boundaries must be established — that’s really all there is to it.\""
+    ho "“严格的规矩是必须的，就这么简单。”"
+
+# game/murdochroute2.rpy:6843
+translate Schinese mdq2_b36dcb5b:
+
+    # mu "\"Because we can always go back to the tailor if we need—\""
+    mu "“现在回去找裁缝也不迟─”"
+
+# TODO: Translation updated at 2025-01-11 03:11
+
+# game/murdochroute2.rpy:4471
+translate Schinese murdochroute2_35caa352:
+
+    # gr "\"Holly understands that. That’s why her classroom is so well-managed.\""
+    gr ""
 

@@ -22,7 +22,7 @@ translate Schinese williamroute3_84c504c4:
 translate Schinese williamroute3_cf285970:
 
     # "...Seven fifteen here, anyway."
-    "...这里的七点一刻，无所谓。"
+    "...至少是这里的七点一刻。"
 
 # game/williamroute3.rpy:27
 translate Schinese williamroute3_2ae1e286:
@@ -376,25 +376,25 @@ translate Schinese williamroute3_b9ca7d92:
 translate Schinese williamroute3_69cff764:
 
     # wi "\"I’m just curious why.\""
-    wi "“我只是好奇为什么。”"
+    wi "“我只是感到好奇。”"
 
 # game/williamroute3.rpy:118
 translate Schinese williamroute3_99ae35fd:
 
     # wi "\"Things aren’t easier just because you go someplace else.\""
-    wi "“生活不会因为你去了别的地方而变得容易的。”"
+    wi "“生活从来不会因为你在哪里而善待你。”"
 
 # game/williamroute3.rpy:119
 translate Schinese williamroute3_5d6c756d:
 
     # m "\"It ain't about things bein’ easy.\""
-    m "“跟容不容易没有关系。”"
+    m "“跟这没有关系。”"
 
 # game/williamroute3.rpy:120
 translate Schinese williamroute3_b027915a:
 
     # m "\"It’s just somethin’ about this place.\""
-    m "“是关于这个地方。”"
+    m "“只是这该死的镇子。”"
 
 # game/williamroute3.rpy:121
 translate Schinese williamroute3_3750563c:
@@ -424,13 +424,13 @@ translate Schinese williamroute3_ad1bd19a:
 translate Schinese williamroute3_0f33f0ef:
 
     # m "\"Everybody’s just constantly coming and going.\""
-    m "“所有人都只是不停地来来去去。”"
+    m "“所有人都不停地来来去去。”"
 
 # game/williamroute3.rpy:126
 translate Schinese williamroute3_abac8aa8:
 
     # m "\"Sometimes it feels like the whole goddamn city is a glorified train station and the only people who stay behind are the ones who lose their fare.\""
-    m "“我不止一次感觉这座该死的小镇就是个虚有其表的火车站，留下的就只有那些丢了车费的家伙们。”"
+    m "“我不止一次感觉这地方就是个虚有其表的火车站，留下的只有那些丢了车费的家伙们。”"
 
 # game/williamroute3.rpy:127
 translate Schinese williamroute3_7fac34eb:
@@ -442,13 +442,13 @@ translate Schinese williamroute3_7fac34eb:
 translate Schinese williamroute3_77a3f2e5:
 
     # m "\"Nik will be gone the moment he finds gold.\""
-    m "“Nik一找到金子就会离开了。”"
+    m "“Nik一找到金子便会离开了。”"
 
 # game/williamroute3.rpy:129
 translate Schinese williamroute3_b9ac3a4c:
 
     # "I think he deserves a little more credit than that."
-    "我想他值得多一些信任。"
+    "我想他值得更多信任。"
 
 # game/williamroute3.rpy:130
 translate Schinese williamroute3_7b2ea3a7:
@@ -484,13 +484,13 @@ translate Schinese williamroute3_f7c14c1b:
 translate Schinese williamroute3_603ad617:
 
     # wi "\"There’s not a whole lot of competition for this job in this location, Sam.\""
-    wi "“我在这里没多少竞争者，Sam。”"
+    wi "“这镇上敢于挑战我职务的人屈指可数，Sam。”"
 
 # game/williamroute3.rpy:137
 translate Schinese williamroute3_fa6a7e93:
 
     # wi "\"But you're right. If I’m out, I’m out.\""
-    wi "“不过你说得对。出来的话，我就只能出局了。”"
+    wi "“不过你说得没错，丢了工作的话，我也只能卷铺盖走人了。”"
 
 # game/williamroute3.rpy:138
 translate Schinese williamroute3_85d38203:
@@ -580,7 +580,7 @@ translate Schinese williamroute3_827cb546:
 translate Schinese williamroute3_7760ce6e:
 
     # "By the L-train."
-    "被大火车。"
+    "被火车。"
 
 # game/williamroute3.rpy:159
 translate Schinese williamroute3_aa5df1aa:
@@ -694,7 +694,7 @@ translate Schinese williamroute3_a44e4307:
 translate Schinese williamroute3_f5c1cb7e:
 
     # "Despite how much you want them to stop with you."
-    "不管你多么希望他们留下。"
+    "无论你多么希望他们留下。"
 
 # game/williamroute3.rpy:184
 translate Schinese williamroute3_bdd61b8c:
@@ -748,7 +748,7 @@ translate Schinese williamroute3_63f7b591:
 translate Schinese williamroute3_f702c6de:
 
     # m "\"Hello?\""
-    m "“没事吧？”"
+    m "“你还好吧？”"
 
 # game/williamroute3.rpy:202
 translate Schinese williamroute3_b7f85a79:
@@ -784,7 +784,7 @@ translate Schinese williamroute3_91903cae:
 translate Schinese williamroute3_2d6ee573:
 
     # m "\"Oh.\""
-    m "“噢。”"
+    m "“哦。”"
 
 # game/williamroute3.rpy:212
 translate Schinese williamroute3_d189977b:
@@ -802,43 +802,43 @@ translate Schinese williamroute3_a6f02c4e:
 translate Schinese williamroute3_c8f7ad2f:
 
     # m "\"...I didn’t say how much yet.\""
-    m "“...我还没出价呢。”"
+    m "“...我还没报价呢。”"
 
 # game/williamroute3.rpy:217
 translate Schinese williamroute3_4bdecf48:
 
     # wi "\"Better described indoors then, yeah?\""
-    wi "“最好在屋里详谈，不是吗？”"
+    wi "“这种事最好在屋里谈，不是吗？”"
 
 # game/williamroute3.rpy:219
 translate Schinese williamroute3_d07c8a5d:
 
     # m "\"...yeah...\""
-    m "“...是啊...”"
+    m "“...也对...”"
 
 # game/williamroute3.rpy:221
 translate Schinese williamroute3_3c44a856:
 
     # "I finally manage to fish the goddamn keys out of my pocket and fit them in the lock."
-    "我总算设法把那该死的钥匙从口袋里掏出来，插进门锁。"
+    "我总算设法把那倒霉催的钥匙从口袋里掏出来，插进门锁。"
 
 # game/williamroute3.rpy:223
 translate Schinese williamroute3_74d9440d:
 
     # "I, ah, would feel more graceful if I weren’t bumping into the lock."
-    "要不是手有些颤抖，我一定显得更有风度。"
+    "要不是手有些抖，我一定显得更有风度。"
 
 # game/williamroute3.rpy:224
 translate Schinese williamroute3_192bb43e:
 
     # "Won’t be damned by how stiff my gait is when I’m inside."
-    "至少里面没人批评我的步态有多僵硬。"
+    "还好里面没人批评我的步伐有多僵硬。"
 
 # game/williamroute3.rpy:228
 translate Schinese williamroute3_48cb7683:
 
     # m "\"We sleeping near the jail again?\""
-    m "“咱们还是睡监狱旁边吗？”"
+    m "“咱们还是睡监狱隔壁吗？”"
 
 # game/williamroute3.rpy:229
 translate Schinese williamroute3_846e867d:
@@ -856,7 +856,7 @@ translate Schinese williamroute3_3b17fe7a:
 translate Schinese williamroute3_2d6ee573_1:
 
     # m "\"Oh.\""
-    m "“喔。”"
+    m "“噢。”"
 
 # game/williamroute3.rpy:234
 translate Schinese williamroute3_0e102f51:
@@ -898,7 +898,7 @@ translate Schinese williamroute3_143f56c3:
 translate Schinese williamroute3_ed9ed18f:
 
     # m "\"How much do you smoke, William?\""
-    m "“你这是抽了多少烟，William？”"
+    m "“你这是抽了多少烟啊，William？”"
 
 # game/williamroute3.rpy:248
 translate Schinese williamroute3_6d9f7580:
@@ -940,7 +940,7 @@ translate Schinese williamroute3_021ecc38:
 translate Schinese williamroute3_70d3d94c:
 
     # wi "\"You’re no bed of flowers yourself when you get riled up.\""
-    wi "“跟你闻起来多香似的。”"
+    wi "“好像你闻起来多香似的。”"
 
 # game/williamroute3.rpy:259
 translate Schinese williamroute3_61ab46cc:
@@ -958,13 +958,13 @@ translate Schinese williamroute3_a6195bb9:
 translate Schinese williamroute3_9e09e4ef:
 
     # m "\"I mean cologne, William.\""
-    m "“古龙水就是古龙水，William。”"
+    m "“我说了，古龙水，William。”"
 
 # game/williamroute3.rpy:264
 translate Schinese williamroute3_899d2697:
 
     # "Soap and water’s just fine."
-    "肥皂配水足够了。"
+    "肥皂配水就足够了。"
 
 # game/williamroute3.rpy:265
 translate Schinese williamroute3_955978d9:
@@ -976,25 +976,25 @@ translate Schinese williamroute3_955978d9:
 translate Schinese williamroute3_4e28b12b:
 
     # wi "\"Need a drink before we start?\""
-    wi "“正戏开始前要不要来一杯？”"
+    wi "“正戏前要不要来一杯？”"
 
 # game/williamroute3.rpy:268
 translate Schinese williamroute3_849f888b:
 
     # m "\"Not much in the mood to drink.\""
-    m "“不是很有那个雅致。”"
+    m "“没那个雅致。”"
 
 # game/williamroute3.rpy:270
 translate Schinese williamroute3_b59fb58a:
 
     # wi "\"Suit yourself.\""
-    wi "“随你便。”"
+    wi "“随你的便。”"
 
 # game/williamroute3.rpy:271
 translate Schinese williamroute3_ede346f2:
 
     # "I pour myself a shot and wash it down."
-    "我为自己倒了杯酒，大口吞下去。"
+    "我为自己倒了杯酒，大口吞下肚。"
 
 # game/williamroute3.rpy:272
 translate Schinese williamroute3_01c0962e:
@@ -1018,37 +1018,37 @@ translate Schinese williamroute3_71912908:
 translate Schinese williamroute3_40641bb9:
 
     # "I jerk my head and he follows me down the hall."
-    "我猛地一抬头，发现他跟着我下楼到了大厅。"
+    "我猛地一抬头，发现他跟着我下了楼，来到大厅。"
 
 # game/williamroute3.rpy:280
 translate Schinese williamroute3_852c56d5:
 
     # m "\"We don’t have to rush if I’m gonna be here all night, you know.\""
-    m "“其实你不用那么急的，我今晚哪也不会去。”"
+    m "“其实你不用那么急的，我今晚哪儿也不会去。”"
 
 # game/williamroute3.rpy:282
 translate Schinese williamroute3_e909bb02:
 
     # "I’m rushing?"
-    "我急吗？"
+    "我很急吗？"
 
 # game/williamroute3.rpy:284
 translate Schinese williamroute3_2f26d10e:
 
     # wi "\"Guess I’m just used to having somewhere else to be.\""
-    wi "“可能是过惯板凳都坐不热的日子了吧。”"
+    wi "“可能是习惯板凳都坐不热的日子了吧。”"
 
 # game/williamroute3.rpy:285
 translate Schinese williamroute3_da3fc3a3:
 
     # wi "\"And there aren’t as many windows in my room.\""
-    wi "“再说我的房间又不是展览馆。”"
+    wi "“再说这里是我家，又不是展览馆。”"
 
 # game/williamroute3.rpy:286
 translate Schinese williamroute3_46cb2aec:
 
     # "I feel the heat rise from my body when I start to strip."
-    "我开始脱衣，身体也随之燥热起来。"
+    "我开始脱衣，浑身燥热难耐。"
 
 # game/williamroute3.rpy:287
 translate Schinese williamroute3_e8430ae3:
@@ -1060,7 +1060,7 @@ translate Schinese williamroute3_e8430ae3:
 translate Schinese williamroute3_f5135c23:
 
     # "We both take a seat on my bed, and the tension in the air between us is a bit thick."
-    "我们肩并肩坐在床上，气氛有点尴尬。"
+    "我们肩并肩坐在床上，气氛有点僵。"
 
 # game/williamroute3.rpy:290
 translate Schinese williamroute3_8e680e62:
@@ -1072,19 +1072,19 @@ translate Schinese williamroute3_8e680e62:
 translate Schinese williamroute3_a428514d:
 
     # m "\"Could do.\""
-    m "“行啊。”"
+    m "“可以啊。”"
 
 # game/williamroute3.rpy:294
 translate Schinese williamroute3_d6f1a3b4:
 
     # m "\"But I figured we could try something else since this is the first time you’ve had more than an hour with me.\""
-    m "“不过咱们可以试试新花样，毕竟你我头一次有超过一小时的时间。”"
+    m "“不过我更想试试新花样，毕竟咱俩头一次有超过一小时的时间。”"
 
 # game/williamroute3.rpy:295
 translate Schinese williamroute3_3a406141:
 
     # "The heat is rushing between my legs."
-    "燥热在我的两腿之间奔涌。"
+    "热气在我的两腿之间升腾。"
 
 # game/williamroute3.rpy:296
 translate Schinese williamroute3_2ebab3f3:
@@ -1096,7 +1096,7 @@ translate Schinese williamroute3_2ebab3f3:
 translate Schinese williamroute3_14aaf1a5:
 
     # m "\"You have a condom?\""
-    m "“你有套吗？”"
+    m "“套子有吗？”"
 
 # game/williamroute3.rpy:300
 translate Schinese williamroute3_e566043c:
@@ -1114,19 +1114,19 @@ translate Schinese williamroute3_44a2d9bc:
 translate Schinese williamroute3_af967afb:
 
     # m "\"Dumb question I guess.\""
-    m "“是我没过脑子。”"
+    m "“是我犯蠢了。”"
 
 # game/williamroute3.rpy:305
 translate Schinese williamroute3_be12431e:
 
     # "He put his hand between my lap."
-    "他的手攀上我的大腿。"
+    "他用手攀上我的大腿。"
 
 # game/williamroute3.rpy:307
 translate Schinese williamroute3_21c1f86a:
 
     # m "\"I’m the only one who really touches this, aren’t I?\""
-    m "“我应该是第一个真真正正摸到这儿的吧？”"
+    m "“我应该是第一个实打实摸到这的人吧？”"
 
 # game/williamroute3.rpy:309
 translate Schinese williamroute3_a3464a2e:
@@ -1150,7 +1150,7 @@ translate Schinese williamroute3_932d9e15:
 translate Schinese williamroute3_7d2fb8e8:
 
     # "It was a slow, slimy sound."
-    "发出了粘稠的声音。"
+    "发出粘稠的声音。"
 
 # game/williamroute3.rpy:314
 translate Schinese williamroute3_6209702c:
@@ -1168,7 +1168,7 @@ translate Schinese williamroute3_931db46b:
 translate Schinese williamroute3_c17349fb:
 
     # wi "\"It’s your fault.\""
-    wi "“怪你。”"
+    wi "“这都怪你。”"
 
 # game/williamroute3.rpy:320
 translate Schinese williamroute3_19c7b8ab:
@@ -1186,7 +1186,7 @@ translate Schinese williamroute3_d2545e0a:
 translate Schinese williamroute3_b72c7690:
 
     # m "\"This is all you.\""
-    m "“要怪你。”"
+    m "“要怪你自己。”"
 
 # game/williamroute3.rpy:326
 translate Schinese williamroute3_10fe6939:
@@ -1198,7 +1198,7 @@ translate Schinese williamroute3_10fe6939:
 translate Schinese williamroute3_48b78d83:
 
     # m "\"Because you’re the one who brought up burying it in me.\""
-    m "“因为是你说要进来的。”"
+    m "“因为是你说要插进来的。”"
 
 # game/williamroute3.rpy:329
 translate Schinese williamroute3_a439b59a:
@@ -1216,13 +1216,13 @@ translate Schinese williamroute3_a2d3d64f:
 translate Schinese williamroute3_9cc92a24:
 
     # wi "\"Might be just the alcohol talking.\""
-    wi "“可能是我喝多了。”"
+    wi "“我好像有点醉了。”"
 
 # game/williamroute3.rpy:334
 translate Schinese williamroute3_0180e254:
 
     # m "\"Then I guess you don’t want to be inside me.\""
-    m "“那你不想进来咯。”"
+    m "“那你是不想进来咯。”"
 
 # game/williamroute3.rpy:336
 translate Schinese williamroute3_668955e9:
@@ -1234,25 +1234,25 @@ translate Schinese williamroute3_668955e9:
 translate Schinese williamroute3_0e01335a:
 
     # m "\"So what do you want?\""
-    m "“那么，你想要什么？”"
+    m "“那么，你想怎么来？”"
 
 # game/williamroute3.rpy:340
 translate Schinese williamroute3_ebad492e:
 
     # "I exhale."
-    "我长呼一口气。"
+    "我长叹一口气。"
 
 # game/williamroute3.rpy:341
 translate Schinese williamroute3_1c5123b0:
 
     # "I don’t want to deal with awkward small talk."
-    "我不喜欢东拉西扯了，太尴尬了。"
+    "我不喜欢东拉西扯。"
 
 # game/williamroute3.rpy:342
 translate Schinese williamroute3_e15442c5:
 
     # "If we’re gonna talk like this, I guess we’re gonna talk for real."
-    "不过既然你想聊，我就要动真格了。"
+    "不过既然你想聊，我乐意奉陪。"
 
 # game/williamroute3.rpy:344
 translate Schinese williamroute3_12295a54:
@@ -1306,13 +1306,13 @@ translate Schinese williamroute3_89627daa:
 translate Schinese williamroute3_8e4d095a:
 
     # m "\"Never thought I’d be talking about this with you.\""
-    m "“没想到还能跟你聊这种话题。 ”"
+    m "““没想到能从你嘴里听到这些。”"
 
 # game/williamroute3.rpy:360
 translate Schinese williamroute3_9c0372de:
 
     # wi "\"Well, me neither, so fair.\""
-    wi "“正常，我也没想到。”"
+    wi "“正常，我自己也没想到。”"
 
 # game/williamroute3.rpy:361
 translate Schinese williamroute3_284a8ec9:
@@ -1378,13 +1378,13 @@ translate Schinese williamroute3_c0807237:
 translate Schinese williamroute3_b6a89dfe:
 
     # m "\"That’s how I feel every time I break one of your laws.\""
-    m "“我每次违反你那些法律时也是这么想的。”"
+    m "“我每次违反你的那些法律时也是这么想的。”"
 
 # game/williamroute3.rpy:381
 translate Schinese williamroute3_f29d916e:
 
     # "That’s not how the government works."
-    "这可不能套到法律上。"
+    "这可不能套用到法律上。"
 
 # game/williamroute3.rpy:382
 translate Schinese williamroute3_cd43c39e:
@@ -1396,7 +1396,7 @@ translate Schinese williamroute3_cd43c39e:
 translate Schinese williamroute3_4867b735:
 
     # m "\"Whatever you say, William.\""
-    m "“随你怎么说吧，William。”"
+    m "“无所谓啦，William。”"
 
 # game/williamroute3.rpy:387
 translate Schinese williamroute3_0b58b94c:
@@ -1438,19 +1438,19 @@ translate Schinese williamroute3_c80a0ba8:
 translate Schinese williamroute3_b8845d3b:
 
     # m "\"Well, maybe I already do... to some extent.\""
-    m "“没准我已经...品尝过一些了呢？”"
+    m "“没准我已经...品尝过其中一些了呢？”"
 
 # game/williamroute3.rpy:399
 translate Schinese williamroute3_68616b87:
 
     # m "\"Help me explore that, a bit.\""
-    m "“再帮我扩展点吧。”"
+    m "“再多让我见识下吧。”"
 
 # game/williamroute3.rpy:401
 translate Schinese williamroute3_7c473187:
 
     # wi "\"You said you don’t have condoms.\""
-    wi "“可你说没有套。”"
+    wi "“可咱们没有套。”"
 
 # game/williamroute3.rpy:403
 translate Schinese williamroute3_b9fae296:
@@ -1462,13 +1462,13 @@ translate Schinese williamroute3_b9fae296:
 translate Schinese williamroute3_4b800115:
 
     # m "\"You don’t have any bumps on your cock and you fuck nobody.\""
-    m "“你鸡巴上又没长疙瘩，也没操过别人。”"
+    m "“你的鸡巴上没长疙瘩，也没操过别人。”"
 
 # game/williamroute3.rpy:408
 translate Schinese williamroute3_392a4f1e:
 
     # m "\"I think I’ll be fine.\""
-    m "“我想没问题。”"
+    m "“我想这就够了。”"
 
 # game/williamroute3.rpy:410
 translate Schinese williamroute3_64b30982:
@@ -1486,7 +1486,7 @@ translate Schinese williamroute3_db120ac9:
 translate Schinese williamroute3_dcabf65a:
 
     # wi "\"Yeah. There’s wood in the living room.\""
-    wi "“能用，柴火在客厅。”"
+    wi "“能，客厅里有柴火。”"
 
 # game/williamroute3.rpy:416
 translate Schinese williamroute3_7ee7d51a:
@@ -1498,7 +1498,7 @@ translate Schinese williamroute3_7ee7d51a:
 translate Schinese williamroute3_dd4d7d6d:
 
     # m "\"I need to make sure I’m clean.\""
-    m "“我得洗干净点。”"
+    m "“我得先洗干净。”"
 
 # game/williamroute3.rpy:421
 translate Schinese williamroute3_bbc6d6a7:
@@ -1516,19 +1516,19 @@ translate Schinese williamroute3_c7ec8ef7:
 translate Schinese williamroute3_62f68a95:
 
     # wi "\"Cloth scraps are under the sink.\""
-    wi "“水槽下面有碎布。”"
+    wi "“在水槽下面。”"
 
 # game/williamroute3.rpy:425
 translate Schinese williamroute3_6c82757a:
 
     # "He’s already rushing out of the bedroom."
-    "他已经冲出卧室了。"
+    "他已经冲出房间了。"
 
 # game/williamroute3.rpy:426
 translate Schinese williamroute3_ccc0abd9:
 
     # "I sigh, feeling my shaft twitch in my pants."
-    "我感受着裤裆里蓄势待发的枪管，叹了口气。"
+    "我摸着裤裆里蓄势待发的枪管，叹了口气。"
 
 # game/williamroute3.rpy:427
 translate Schinese williamroute3_59067105:
@@ -1540,7 +1540,7 @@ translate Schinese williamroute3_59067105:
 translate Schinese williamroute3_0db76832:
 
     # "Can we just go, Sam?"
-    "咱们能不能直接开始啊，Sam？"
+    "咱们就不能直奔正题吗，Sam？"
 
 # game/williamroute3.rpy:429
 translate Schinese williamroute3_a20cefa7_1:
@@ -1558,13 +1558,13 @@ translate Schinese williamroute3_f003c5e7_1:
 translate Schinese williamroute3_f13d17fb:
 
     # "I read a small piece of literature on the city’s zoning laws to kill my erection while I hear pots and pans banging in the kitchen along with some swears."
-    "为了安抚我的小兄弟，我读了一篇关于城市规划的文章，期间能听到厨房里的锅碗瓢盆乒乓作响，还不时夹杂着几句咒骂声。"
+    "为了安抚我的小兄弟，我读了一篇关于城市规划的文章，期间能听到厨房里乒乓作响的锅碗瓢盆，还不时夹杂着几句咒骂声。"
 
 # game/williamroute3.rpy:432
 translate Schinese williamroute3_f2249be7:
 
     # "He’s lucky the sink works here."
-    "那个水槽没坏还真是万幸。"
+    "他真该感谢老天爷那个水槽还能用。"
 
 # game/williamroute3.rpy:433
 translate Schinese williamroute3_0a6c691c:
@@ -1594,7 +1594,7 @@ translate Schinese williamroute3_f2438146:
 translate Schinese williamroute3_f6211bf1:
 
     # wi "\"Fine. I won’t make a fuss, then.\""
-    wi "“行吧，我就不大惊小怪了。”"
+    wi "“行吧，我就不计较了。”"
 
 # game/williamroute3.rpy:441
 translate Schinese williamroute3_e101f622:
@@ -1630,13 +1630,13 @@ translate Schinese williamroute3_5be89981:
 translate Schinese williamroute3_0bd07ca6:
 
     # wi "\"Feels like I’m touching a friend in a way I shouldn’t be touching them.\""
-    wi "“就像我正提心吊胆地揩朋友的油。”"
+    wi "“感觉就像我正提心吊胆地揩朋友的油。”"
 
 # game/williamroute3.rpy:449
 translate Schinese williamroute3_829b21b9:
 
     # wi "\"And there’s a pit in my stomach.\""
-    pass
+    wi "“一个我不该碰的朋友。”"
 
 # game/williamroute3.rpy:450
 translate Schinese williamroute3_3eb52b3f:
@@ -1660,7 +1660,7 @@ translate Schinese williamroute3_c0cbaf19:
 translate Schinese williamroute3_40feee8d:
 
     # wi "\"But somehow, the look of disgust on their faces makes me want to rip off your pants and smile back while they watch, and they can’t do anything about it.\""
-    wi "“但不知为什么，那些人脸上嫌弃的表情让我想一把扯掉你的裤子，然后回他们一个笑。而他们只能干着急，什么都做不了。”"
+    wi "“但不知为什么，那些人脸上嫌弃的表情让我想一把扯掉你的裤子，然后回他们一个笑。而他们只能干瞪眼，什么都做不了。”"
 
 # game/williamroute3.rpy:457
 translate Schinese williamroute3_6a745c39:
@@ -1678,7 +1678,7 @@ translate Schinese williamroute3_ac7f6243:
 translate Schinese williamroute3_0f995192:
 
     # m "\"The way you describe this stuff sticks with me...\""
-    m "“你的描述挺合我胃口...”"
+    m "“你的描述倒是挺合我胃口...”"
 
 # game/williamroute3.rpy:462
 translate Schinese williamroute3_1f492ab1:
@@ -1696,7 +1696,7 @@ translate Schinese williamroute3_ff4cd972:
 translate Schinese williamroute3_8bdfd321:
 
     # "I stick my tongue down his throat and he’s all too receptive."
-    "我把舌头探进他的喉咙，他毫无抵抗地吞了下去。"
+    "我把舌头探进他的喉咙，他顺从地吞了下去。"
 
 # game/williamroute3.rpy:467
 translate Schinese williamroute3_e98e839f:
@@ -1750,13 +1750,13 @@ translate Schinese williamroute3_1b1ec535:
 translate Schinese williamroute3_23791463:
 
     # m "\"Because you know it’s dirty?\""
-    m "“因为你知道这不干净？”"
+    m "“因为你明知这不干净？”"
 
 # game/williamroute3.rpy:481
 translate Schinese williamroute3_cfd6c325:
 
     # "I feel my heartbeat in my shaft, pulsing with angry spurts of warm liquid."
-    "猛烈跳动的心脏，令我下身也奔涌起热流。"
+    "心脏猛跳，令我的下身也奔涌起热流。"
 
 # game/williamroute3.rpy:482
 translate Schinese williamroute3_a16484c9:
@@ -1780,13 +1780,13 @@ translate Schinese williamroute3_b4a69a77:
 translate Schinese williamroute3_bd781713:
 
     # "Maybe I’m going too far."
-    "也许有点言过其实了。"
+    "好像有点言过其实了。"
 
 # game/williamroute3.rpy:489
 translate Schinese williamroute3_481cbe56:
 
     # wi "\"Do you really want me to?\""
-    wi "“你真的想知道？”"
+    wi "“你真想知道？”"
 
 # game/williamroute3.rpy:491
 translate Schinese williamroute3_18676657:
@@ -1798,7 +1798,7 @@ translate Schinese williamroute3_18676657:
 translate Schinese williamroute3_b544cdec:
 
     # "I don’t think I can tell you."
-    "我不觉得我能讲给你听。"
+    "但用讲的不行。"
 
 # game/williamroute3.rpy:494
 translate Schinese williamroute3_4a32a79d:
@@ -1816,7 +1816,7 @@ translate Schinese williamroute3_03b93c9c:
 translate Schinese williamroute3_48f61345:
 
     # "I stand up and I start to take the rest of my clothes off."
-    "我站起来，把剩下的衣服脱干净。"
+    "我站起来，把余下的衣服脱干净。"
 
 # game/williamroute3.rpy:498
 translate Schinese williamroute3_75cb37ae:
@@ -1828,13 +1828,13 @@ translate Schinese williamroute3_75cb37ae:
 translate Schinese williamroute3_398b6b09:
 
     # "A bit of me drips to the floor."
-    "些许淫液滴落到地板上。"
+    "几滴淫液溅落到地板上。"
 
 # game/williamroute3.rpy:500
 translate Schinese williamroute3_e91bb81f:
 
     # "I’ll clean it up later."
-    "事后再说吧。"
+    "事后再清理吧。"
 
 # game/williamroute3.rpy:501
 translate Schinese williamroute3_c3e3f2a8:
@@ -1846,7 +1846,7 @@ translate Schinese williamroute3_c3e3f2a8:
 translate Schinese williamroute3_899a2b0d:
 
     # "I cup my paw and bring it over my cock, forcing one slow thrust through it."
-    "我用手环住龟头，缓缓刺了进去。"
+    "我握住茎身，缓慢而有力地往下一撸。"
 
 # game/williamroute3.rpy:504
 translate Schinese williamroute3_ed734bce:
@@ -1858,7 +1858,7 @@ translate Schinese williamroute3_ed734bce:
 translate Schinese williamroute3_7785248e:
 
     # "He uncorked the stopper, poured some of the slick contents in his paw, and smeared it on me."
-    "他打开瓶塞，倒了些滑腻的液体，并用爪子涂抹在我的肉棒上。"
+    "他打开瓶塞，倒了些滑腻的液体，并用手涂抹在我的肉棒上。"
 
 # game/williamroute3.rpy:507
 translate Schinese williamroute3_c183e324:
@@ -1900,7 +1900,7 @@ translate Schinese williamroute3_e1c513d9:
 translate Schinese williamroute3_24ba0103:
 
     # wi "\"Are you sure you want me to keep going?\""
-    wi "“你确定要继续么？”"
+    wi "“你确定要继续吗？”"
 
 # game/williamroute3.rpy:520
 translate Schinese williamroute3_655f8f4b:
@@ -1960,49 +1960,49 @@ translate Schinese williamroute3_f5bd245e:
 translate Schinese williamroute3_355a6c30:
 
     # wi "\"I’m going to put these ropes on your wrists to make you feel trapped.\""
-    wi "“我会把这些绳子捆在你的手腕上，让你感觉被束缚了。”"
+    wi "“我会用绳子捆住你的手腕，让你有被束缚的感觉。”"
 
 # game/williamroute3.rpy:536
 translate Schinese williamroute3_b9034dbc:
 
     # "I shuffle up behind him, dangling a line of pre while I approach him."
-    "我慢慢走到他身后，淫水在身后拖出了一条线。"
+    "我慢慢走到他身后，淫水在身后拖出一条线。"
 
 # game/williamroute3.rpy:538
 translate Schinese williamroute3_af0d8278:
 
     # "The ropes aren’t as soft as they probably should be."
-    "绳子不像它们看上去那么柔软。"
+    "绳子不似看上去的那般柔软。"
 
 # game/williamroute3.rpy:539
 translate Schinese williamroute3_91499033:
 
     # "He might get burns if he struggles too hard, but his fur is pretty thick."
-    "如果他挣扎得太厉害可能会很疼，不过他的毛发还挺厚实的。"
+    "挣扎得太厉害可能会很疼，好在他的皮毛还算厚。"
 
 # game/williamroute3.rpy:540
 translate Schinese williamroute3_e3c5ddf0:
 
     # wi "\"They’re going on now.\""
-    wi "“我要开始了。”"
+    wi "“我开始绑了。”"
 
 # game/williamroute3.rpy:542
 translate Schinese williamroute3_c339bdcc:
 
     # m "\"Just do it...\""
-    m "“如此这般...”"
+    m "“要做就快点...”"
 
 # game/williamroute3.rpy:544
 translate Schinese williamroute3_50ad931f:
 
     # wi "\"Alright. Goddamn...\""
-    wi "“搞定，该死的...”"
+    wi "“好了，天杀的...”"
 
 # game/williamroute3.rpy:545
 translate Schinese williamroute3_a3783085:
 
     # "I loop them around as he holds still for me."
-    "他一动不动，任凭我把绳子缠在他手腕上。"
+    "他一动不动，任由我把绳子缠在他的手腕上。"
 
 # game/williamroute3.rpy:547
 translate Schinese williamroute3_5c240c33:
@@ -2026,19 +2026,19 @@ translate Schinese williamroute3_3a7ab8f7:
 translate Schinese williamroute3_03b93c9c_1:
 
     # wi "\"Okay.\""
-    wi "“那好。”"
+    wi "“行吧。”"
 
 # game/williamroute3.rpy:553
 translate Schinese williamroute3_86b23726:
 
     # wi "\"I wanted you to feel trapped while you’re hard.\""
-    wi "“我想让你在欲火焚身的时候感到被束缚。”"
+    wi "“我想让你在束缚下感到欲火焚身。”"
 
 # game/williamroute3.rpy:554
 translate Schinese williamroute3_adf71513:
 
     # wi "\"Do you?\""
-    wi "“明白么？”"
+    wi "“你有感觉吗？”"
 
 # game/williamroute3.rpy:556
 translate Schinese williamroute3_fef0d65e:
@@ -2050,7 +2050,7 @@ translate Schinese williamroute3_fef0d65e:
 translate Schinese williamroute3_bd8b4432:
 
     # wi "\"I think I’m gonna loosen you up.\""
-    wi "“我想我得先帮你放松一下。”"
+    wi "“看来我得先帮你放松一下。”"
 
 # game/williamroute3.rpy:560
 translate Schinese williamroute3_06d36ad6:
@@ -2062,13 +2062,13 @@ translate Schinese williamroute3_06d36ad6:
 translate Schinese williamroute3_7d1b529d:
 
     # m "\"You know how?\""
-    m "“你会么？”"
+    m "“你知道怎么弄吗？”"
 
 # game/williamroute3.rpy:564
 translate Schinese williamroute3_ad4dbf51:
 
     # "He thinks I’ve never teased an asshole before."
-    "他还以为我从来没玩弄过后面的洞。"
+    "他还以为我从来没玩过后面的洞。"
 
 # game/williamroute3.rpy:565
 translate Schinese williamroute3_690a3549:
@@ -2080,19 +2080,19 @@ translate Schinese williamroute3_690a3549:
 translate Schinese williamroute3_2219ded0:
 
     # wi "\"Course I know how. Lift those legs...\""
-    wi "“我当然会。抬腿...”"
+    wi "“当然了，抬腿...”"
 
 # game/williamroute3.rpy:567
 translate Schinese williamroute3_a82c7655:
 
     # "He struggles to adjust himself properly without the use of his arms for leverage."
-    "他不借助双手，努力将两条腿抬起来。"
+    "他不借助双手，努力调整着姿势。"
 
 # game/williamroute3.rpy:568
 translate Schinese williamroute3_510eef6d:
 
     # "I get some of that oil onto my middle finger until I can see it shine."
-    "我把油涂在中指上，直到其发亮为止。”"
+    "我把油涂在中指上，直到其反射出亮光。”"
 
 # game/williamroute3.rpy:570
 translate Schinese williamroute3_1b1c47e1:
@@ -2104,19 +2104,19 @@ translate Schinese williamroute3_1b1c47e1:
 translate Schinese williamroute3_7182424d:
 
     # wi "\"Relax. It loosens the muscles.\""
-    wi "“别紧张，好好放松。”"
+    wi "“别紧张，放松肌肉。”"
 
 # game/williamroute3.rpy:573
 translate Schinese williamroute3_a7646f05:
 
     # wi "\"Makes going in a hell of a lot more comfortable for both of us.\""
-    wi "“这样两个人都舒服。”"
+    wi "“这样对两个人都好。”"
 
 # game/williamroute3.rpy:576
 translate Schinese williamroute3_761cdf54:
 
     # "He lies back and lifts his legs in the air, looking a little uncomfortable."
-    "他有些不自在地把腿抬到空中。"
+    "他有些不情愿地把腿抬到空中。"
 
 # game/williamroute3.rpy:577
 translate Schinese williamroute3_e9448d92:
@@ -2128,7 +2128,7 @@ translate Schinese williamroute3_e9448d92:
 translate Schinese williamroute3_3daf8203:
 
     # wi "\"Don’t worry. I won’t be a priss about it.\""
-    wi "“放心，我会温柔的。”"
+    wi "“放心，我会很温柔的。”"
 
 # game/williamroute3.rpy:580
 translate Schinese williamroute3_2e38a2b2:
@@ -2146,7 +2146,7 @@ translate Schinese williamroute3_c44043b3:
 translate Schinese williamroute3_b0e98510:
 
     # "I’ve never been this close to his balls before."
-    "这是我头一回如此靠近他的卵蛋。"
+    "这是我头一回如此接近他的卵蛋。"
 
 # game/williamroute3.rpy:585
 translate Schinese williamroute3_1af327da:
@@ -2164,7 +2164,7 @@ translate Schinese williamroute3_0c6d7251:
 translate Schinese williamroute3_2cbbaa77:
 
     # "Even lower I see that pale ring of muscle."
-    "把头压低，那一圈苍白的肌肉赫然出现在我眼前。"
+    "把头埋低，那一圈苍白的肌肉赫然出现在我眼前。"
 
 # game/williamroute3.rpy:588
 translate Schinese williamroute3_23be524c:
@@ -2176,13 +2176,13 @@ translate Schinese williamroute3_23be524c:
 translate Schinese williamroute3_89b97e6c:
 
     # "The fur on his legs stand up when I do."
-    "他不禁寒毛直立。"
+    "他不禁汗毛直立。"
 
 # game/williamroute3.rpy:590
 translate Schinese williamroute3_13298356:
 
     # "Then I slide against it, curling into a hook for an easy opening."
-    "我用指尖沿着其边缘划动，好似开门的咒语。"
+    "我用指尖沿着边缘划动，好似开门的咒语。"
 
 # game/williamroute3.rpy:591
 translate Schinese williamroute3_63b2a2cd:
@@ -2206,7 +2206,7 @@ translate Schinese williamroute3_a918163e:
 translate Schinese williamroute3_9acdcff7:
 
     # wi "\"Now I’ll pull out slow.\""
-    wi "“现在，我要慢慢拔出来。”"
+    wi "“现在，我会慢慢拔出来。”"
 
 # game/williamroute3.rpy:595
 translate Schinese williamroute3_1c37a65e:
@@ -2218,7 +2218,7 @@ translate Schinese williamroute3_1c37a65e:
 translate Schinese williamroute3_e75da233:
 
     # "He sighs, like he’s steeling himself for something."
-    "他叹了口气，仿佛是下定了决心。"
+    "他喘息着，仿佛已有所觉悟。"
 
 # game/williamroute3.rpy:597
 translate Schinese williamroute3_7fd25c43:
@@ -6262,7 +6262,7 @@ translate Schinese williamchallmenu_b427bae7:
 translate Schinese williamchallmenu_84220745:
 
     # wi "\"But what I’m telling you is that whatever this is, it probably ain't over, and it probably ain't isolated from CGCS affairs.\""
-    wi "“我说过了，虽然尚不明朗，但这起案子很可能只是个开始，CGCS也多半脱不了干系。”"
+    wi "“我说过了，虽然尚不明朗，但这起案子很可能只是个开始，而且与CGCS不无关系。”"
 
 # game/williamroute3.rpy:2038
 translate Schinese williamchallmenu_eb06ff14:
@@ -14416,7 +14416,7 @@ translate Schinese williamroute3a_a484d4ce:
 translate Schinese williamroute3a_ae0fa00b:
 
     # wi "\"We need your help again.\""
-    wi "“我们还需要你的协助。”"
+    wi "“我们仍然需要你的协助。”"
 
 # game/williamroute3.rpy:5494
 translate Schinese williamroute3a_0c50f91c:
@@ -14434,13 +14434,13 @@ translate Schinese williamroute3a_64c9d072:
 translate Schinese williamroute3a_8577a002:
 
     # wi "\"The investigation is underway.\""
-    wi "“调查正在进行中。”"
+    wi "“调查还在进行中。”"
 
 # game/williamroute3.rpy:5498
 translate Schinese williamroute3a_2408dbf1:
 
     # mar "\"Come on in, then.\""
-    mar "“那么，请进吧。”"
+    mar "“那么请进吧。”"
 
 # game/williamroute3.rpy:5506
 translate Schinese williamroute3a_fe9b5311:
@@ -14506,7 +14506,7 @@ translate Schinese williamroute3a_d3a19fa0:
 translate Schinese williamroute3a_05e66831:
 
     # wi "\"My records indicate that Mr. Greene owned a firearm, pawned, and then repurchased within days of his disappearance.\""
-    wi "“记录显示，Greene先生当掉了自己的一把枪，然后又在他失踪的几天前买了回来。”"
+    wi "“记录显示，Greene先生当掉了自己的一把枪，然后又在他失踪的前几天赎了回来。”"
 
 # game/williamroute3.rpy:5520
 translate Schinese williamroute3a_0f131123:
@@ -18106,13 +18106,13 @@ translate Schinese williamroute3a_4d6c47de:
 translate Schinese williamroute3a_db82ae0d:
 
     # "Sam leans into me, whispering in my ear."
-    "Sam斜靠过来，在我耳边低语。"
+    "Sam走过来，在我耳边低语。"
 
 # game/williamroute3.rpy:6645
 translate Schinese williamroute3a_2d958638:
 
     # m "\"The afterbirth wasn’t whole when it came out.\""
-    m "“生下来的胎儿并不完整。”"
+    m "“生下来的胎儿是残缺的。”"
 
 # game/williamroute3.rpy:6647
 translate Schinese williamroute3a_805e35ed:
@@ -20510,7 +20510,7 @@ translate Schinese williamroute3b_bf4b8426:
 translate Schinese williamroute3b_acb155de:
 
     # wi "\"I talk to Nik and Sam plenty.\""
-    wi "“我跟Nik和Sam就聊了不少。”"
+    wi "“我经常跟Nik和Sam聊天啊。”"
 
 # game/williamroute3.rpy:7442
 translate Schinese williamroute3b_7585b58b:
@@ -20528,7 +20528,7 @@ translate Schinese williamroute3b_8680b06b:
 translate Schinese williamroute3b_b69caadc:
 
     # wi "\"So then it works for me.\""
-    wi "“那正合我意。”"
+    wi "“所以我们合得来。”"
 
 # game/williamroute3.rpy:7446
 translate Schinese williamroute3b_3e95880c:
@@ -24638,7 +24638,7 @@ translate Schinese postwillinvestigation2_d4f00b20:
 translate Schinese postwillinvestigation2_dfab7d55:
 
     # ni "\"There’s something I think he should see.\""
-    ni "“我认为他有必要瞧瞧。”"
+    ni "“我认为他应该瞧瞧。”"
 
 # game/williamroute3.rpy:8786
 translate Schinese postwillinvestigation2_10b9b34e:
@@ -31929,7 +31929,7 @@ translate Schinese williamroute3c_a881f2fd:
 translate Schinese williamroute3c_31321d8d:
 
     # "Sam flinches and lets out a genuine shout which makes us all look at him."
-    "Sam被吓了一跳，发出一声惊呼，我们随即看向他。"
+    "Sam被吓得发出一声惊呼，我们随即看向他。"
 
 # game/williamroute3.rpy:11012
 translate Schinese williamroute3c_32de082e:
@@ -31947,13 +31947,13 @@ translate Schinese williamroute3c_96c48d19_2:
 translate Schinese williamroute3c_351907d6:
 
     # m "\"Just surprised.\""
-    m "“我只是被吓到了。”"
+    m "“我被吓到了。”"
 
 # game/williamroute3.rpy:11022
 translate Schinese williamroute3c_6a01c4e8:
 
     # ni "\"I am known to be very scary.\""
-    ni "“大家都知道我很吓人的。”"
+    ni "“我的确是出了名的吓人。”"
 
 # game/williamroute3.rpy:11025
 translate Schinese williamroute3c_ebee6c92:
@@ -32373,7 +32373,7 @@ translate Schinese williamroute3c_c1850782:
 translate Schinese williamroute3c_3eb6a538:
 
     # ni "\"And he will be at the Stag most nights.\""
-    ni "“而且大多数晚上都会去Stag。”"
+    ni "“而且经常在晚上去Stag。”"
 
 # game/williamroute3.rpy:11161
 translate Schinese williamroute3c_129c2868:
@@ -32913,7 +32913,7 @@ translate Schinese williamroute3c_9ecefad9:
 translate Schinese williamroute3c_d284297e:
 
     # "And I don’t even want to think about getting entangled with what things his mother gets up to."
-    "再说，我也完全不想跟他母亲扯上关系。"
+    "再说，我完全不想跟他母亲扯上关系。"
 
 # game/williamroute3.rpy:11319
 translate Schinese williamroute3c_e466cb06:
@@ -34113,7 +34113,7 @@ translate Schinese williamroute3c_cb3e2eb9:
 translate Schinese williamroute3c_8249fb90:
 
     # wi "\"You tellin’ me you never sniffed out the place despite all the years you’ve been here?\""
-    wi "“你都在这几年了，还没去过Stag？”"
+    wi "“话说，你都在这住几年了，还没去过Stag？”"
 
 # game/williamroute3.rpy:11654
 translate Schinese williamroute3c_9cb6ce99:
@@ -34125,13 +34125,13 @@ translate Schinese williamroute3c_9cb6ce99:
 translate Schinese williamroute3c_6aa6957b:
 
     # m "\"Well maybe it’s nice to see you out of your element for a change.\""
-    m "“能看到你的另一面倒也不错。”"
+    m "“如果能看到你的另一面，去一趟也无妨。”"
 
 # game/williamroute3.rpy:11658
 translate Schinese williamroute3c_1d394ec4:
 
     # wi "\"What do you think my element is exactly?\""
-    wi "“我的这一面是什么？”"
+    wi "“什么另一面？”"
 
 # game/williamroute3.rpy:11660
 translate Schinese williamroute3c_3eb46440:
@@ -34431,7 +34431,7 @@ translate Schinese williamroute3c_f6418422:
 translate Schinese williamroute3c_65614dbf:
 
     # cl "\"I thought I told you to redirect anybody down the stairs.\""
-    cl "“我不是让你把其他人请下楼的吗。”"
+    cl "“我不是让你把其他人请下楼吗。”"
 
 # game/williamroute3.rpy:11764
 translate Schinese williamroute3c_6673072f:
@@ -34455,13 +34455,13 @@ translate Schinese williamroute3c_b4a123e2:
 translate Schinese williamroute3c_28d0a016:
 
     # cl "\"I’ll need a moment in the bathroom to freshen up.\""
-    cl "“给我点时间，我去卫生间清理身子。”"
+    cl "“给我点时间，我去卫生间清理下身子。”"
 
 # game/williamroute3.rpy:11771
 translate Schinese williamroute3c_cd44dca5:
 
     # mu "\"Cliff you really don’t have to worry too much about that for where we’re going.\""
-    mu "“Cliff，咱们接下来要去的地方不用这么注重清洁。”"
+    mu "“Cliff，咱们接下来要去的地方不用这么讲究。”"
 
 # game/williamroute3.rpy:11773
 translate Schinese williamroute3c_8e79b996:
@@ -34503,13 +34503,13 @@ translate Schinese williamroute3c_ebd20bcb:
 translate Schinese williamroute3c_d1f940a4:
 
     # wi "\"Did you find out who ordered Ethel to fetch it?\""
-    wi "“你问出是谁指使Ethel拿酒的了吗？”"
+    wi "“你问出是谁指使Ethel拿酒了吗？”"
 
 # game/williamroute3.rpy:11783
 translate Schinese williamroute3c_88e0a284:
 
     # cl "\"Oh that?\""
-    cl "“这件事啊？”"
+    cl "“那个啊？”"
 
 # game/williamroute3.rpy:11785
 translate Schinese williamroute3c_3e847dc6:
@@ -35235,13 +35235,13 @@ translate Schinese williamroute3c_371dcbe4:
 translate Schinese williamroute3c_8ab970bc:
 
     # wi "\"You didn’t know me four years ago, Sam.\""
-    wi "“咱俩认识也就四年吧，Sam。”"
+    wi "“除非你四年前认识我，Sam。”"
 
 # game/williamroute3.rpy:12068
 translate Schinese williamroute3c_e19eeae9:
 
     # "He smirks."
-    "他奸笑起来。"
+    "他笑了笑。"
 
 # game/williamroute3.rpy:12070
 translate Schinese williamroute3c_1db963f0:
@@ -35265,7 +35265,7 @@ translate Schinese williamroute3c_973746ff:
 translate Schinese williamroute3c_14773c39:
 
     # m "\"I don’t know.\""
-    m "“难说哦。”"
+    m "“难说。”"
 
 # game/williamroute3.rpy:12078
 translate Schinese williamroute3c_52aab5c2:
@@ -35277,13 +35277,13 @@ translate Schinese williamroute3c_52aab5c2:
 translate Schinese williamroute3c_28270b4f:
 
     # wi "\"Seems to me like I moved just fine the other night.\""
-    wi "“依我看，那天晚上我还挺行的啊。”"
+    wi "“那天晚上我还挺行的啊。”"
 
 # game/williamroute3.rpy:12082
 translate Schinese williamroute3c_774d9c8e:
 
     # m "\"But you think like you’ll be able to keep up with that wolf you told me about if you see ‘em?.\""
-    m "“那如果你说的那只狼在，你能跟得上他吗？”"
+    m "“那假如你说的那只狼在，你有把握跟上他的舞步吗？”"
 
 # game/williamroute3.rpy:12084
 translate Schinese williamroute3c_8f99ec89:
@@ -35295,13 +35295,13 @@ translate Schinese williamroute3c_8f99ec89:
 translate Schinese williamroute3c_08b8ead4:
 
     # m "\"You’re dodgin’ the question.\""
-    m "“你这是在逃避问题。”"
+    m "“别逃避问题。”"
 
 # game/williamroute3.rpy:12088
 translate Schinese williamroute3c_cf2beb31:
 
     # wi "\"Just because I can dance doesn’t mean I’m going to.\""
-    wi "“就算我会跳，也不代表我想跳。”"
+    wi "“就算我会跳，又不代表我想跳。”"
 
 # game/williamroute3.rpy:12089
 translate Schinese williamroute3c_a2c8abda:
@@ -35325,13 +35325,13 @@ translate Schinese williamroute3c_9b3b690b:
 translate Schinese williamroute3c_951bd4b1:
 
     # wi "\"If I dance with anybody then it’s gonna be you.\""
-    wi "“非要跳的话，我只想跟你跳。”"
+    wi "“非跳不可的话，我只想跟你跳。”"
 
 # game/williamroute3.rpy:12096
 translate Schinese williamroute3c_a8c4d42f:
 
     # m "\"You think that’ll work?\""
-    m "“可能吗？”"
+    m "“这可能吗？”"
 
 # game/williamroute3.rpy:12098
 translate Schinese williamroute3c_1106bb96:
@@ -36453,7 +36453,7 @@ translate Schinese williamroute3c_c2cbcb71:
 translate Schinese williamroute3c_9a93f9eb:
 
     # wi "\"That ain’t the only thing, Sam.\""
-    wi "“但不光是这点，Sam。”"
+    wi "“但我不只是为了他，Sam。”"
 
 # game/williamroute3.rpy:12483
 translate Schinese williamroute3c_02075dcd:
@@ -36471,7 +36471,7 @@ translate Schinese williamroute3c_3fed66ae:
 translate Schinese williamroute3c_539a4c9d:
 
     # wi "\"I was really hoping for a strong drink when we got here.\""
-    wi "“我来是想喝点烈酒。”"
+    wi "“我想喝点烈酒。”"
 
 # game/williamroute3.rpy:12488
 translate Schinese williamroute3c_e49e1c5e:
@@ -36483,7 +36483,7 @@ translate Schinese williamroute3c_e49e1c5e:
 translate Schinese williamroute3c_61542274:
 
     # m "\"Might break some limbs, but some of the people here are so scrawny they obviously ain’t using ‘em anyway.\""
-    m "“但可能会撞坏别人的手臂，但反正有些人瘦得跟皮包骨似的，肯定没在用手吧。”"
+    m "“但可能会撞坏别人的手臂，不过反正有些人瘦得跟皮包骨似的，肯定没在用手吧。”"
 
 # game/williamroute3.rpy:12493
 translate Schinese williamroute3c_4a11d703:
@@ -36495,7 +36495,7 @@ translate Schinese williamroute3c_4a11d703:
 translate Schinese williamroute3c_be4d612c:
 
     # wi "\"You’re atrocious, Sam.\""
-    wi "“好一个狡诈恶毒，Sam。”"
+    wi "“好一张狡诈恶毒的嘴，Sam。”"
 
 # game/williamroute3.rpy:12496
 translate Schinese williamroute3c_6aa61988:
@@ -36507,7 +36507,7 @@ translate Schinese williamroute3c_6aa61988:
 translate Schinese williamroute3c_92b33dbc:
 
     # "The music stops."
-    "音乐停了。"
+    "一曲终了。"
 
 # game/williamroute3.rpy:12501
 translate Schinese williamroute3c_fc2ee215:
@@ -36537,7 +36537,7 @@ translate Schinese williamroute3c_f53c7df9:
 translate Schinese williamroute3c_8a3cf4ff:
 
     # ni "\"Were either of you listening?\""
-    ni "“你们没听见吗？”"
+    ni "“你们没有听见吗？”"
 
 # game/williamroute3.rpy:12513
 translate Schinese williamroute3c_bc602ec0:
@@ -36555,7 +36555,7 @@ translate Schinese williamroute3c_f7d37f2d:
 translate Schinese williamroute3c_fae07780:
 
     # wi "\"That’s often what happens when your parents make you do too much.\""
-    wi "“被父母要求太多的人一般都这样。”"
+    wi "“被父母管太严的人一般都这样。”"
 
 # game/williamroute3.rpy:12523
 translate Schinese williamroute3c_ae78f149:
@@ -39905,7 +39905,7 @@ translate Schinese samwill4_0ffd4df2:
 translate Schinese samwill4_19ec5451:
 
     # "Pulling my back to his chest."
-    "把我拉到他胸前。"
+    "我把他拉进。"
 
 # game/williamroute3.rpy:12066
 translate Schinese samwill4_7d265ef5:
@@ -40888,4 +40888,12828 @@ translate Schinese willkanechoice_05a239e6:
 
     # "He pats my cheek with his palm."
     "他拍了拍我的脸颊。"
+
+# TODO: Translation updated at 2024-06-19 16:30
+
+# game/williamroute3.rpy:134
+translate Schinese williamroute3_bf58d5d0:
+
+    # m "\"Because if you ain't, you’re on your way out too, as far as I’m concerned.\""
+    m "“因为如果没有的话，在我看来，你的离开不过是迟早的事。”"
+
+# game/williamroute3.rpy:3321
+translate Schinese hipinvestigation1_33fd2d68:
+
+    # ha "\"...\""
+    ha "“...”"
+
+# game/williamroute3.rpy:5465
+translate Schinese williamroute3a_6f3ca550:
+
+    # "I snatch my shirt from off of a beam, toss it on myself, and crouch behind a crate."
+    "我抓起横梁上的衬衫，披在身上，然后蹲在箱子后面。"
+
+# game/williamroute3.rpy:5495
+translate Schinese williamroute3a_237c46a8:
+
+    # "I come to the part of the road that’s a three-way juncture."
+    "我来到了一个三岔路口。"
+
+# game/williamroute3.rpy:5525
+translate Schinese williamroute3a_583e6b9e:
+
+    # wi "\"That’s enough tomfoolery.\""
+    wi "“废话少说。”"
+
+# game/williamroute3.rpy:5703
+translate Schinese updatemarcy_50dd5c75:
+
+    # "I see the otter's muscles tense up, then he crabwalks slowly toward my direction, looking up at the forest."
+    "我看到水獭全身的肌肉都绷紧了，他像螃蟹一样慢慢朝我走来，抬头看向森林。"
+
+# game/williamroute3.rpy:5704
+translate Schinese updatemarcy_b68ae3f9:
+
+    # to "\"Do you think, ah...\""
+    to "“你觉得，呃...”"
+
+# game/williamroute3.rpy:5705
+translate Schinese updatemarcy_0bed3908:
+
+    # to "\"Think somebody’s out there, Mr. Ayers?\""
+    to "“外面有人在吗，Ayers？”"
+
+# game/williamroute3.rpy:5706
+translate Schinese updatemarcy_7908ace5:
+
+    # "I perk up my ears."
+    "我竖起耳朵。"
+
+# game/williamroute3.rpy:5707
+translate Schinese updatemarcy_ae01c250:
+
+    # m "\"Can’t hear nothin’.\""
+    m "“什么也没听见。”"
+
+# game/williamroute3.rpy:5708
+translate Schinese updatemarcy_6fa93abb:
+
+    # m "\"Can’t smell nothin’ either.\""
+    m "“什么也没闻见。”"
+
+# game/williamroute3.rpy:5709
+translate Schinese updatemarcy_e37d4454:
+
+    # "Well, at least not much else other than a flustered otter."
+    "除了眼前这只慌慌张张的水獭外。"
+
+# game/williamroute3.rpy:5710
+translate Schinese updatemarcy_23d6d71d:
+
+    # m "\"You’re twitchy.\""
+    m "“你太神经质了。”"
+
+# game/williamroute3.rpy:5712
+translate Schinese updatemarcy_7e76ad5d:
+
+    # "He grits his teeth."
+    "他咬着牙齿。"
+
+# game/williamroute3.rpy:5713
+translate Schinese updatemarcy_fca99300:
+
+    # to "\"Well there’s no reason to go on about my nerves being uncomely...\""
+    to "“没必要用神经质这个词吧...”"
+
+# game/williamroute3.rpy:5715
+translate Schinese updatemarcy_75b0980d:
+
+    # m "\"...I mean you must be bothered by that woman.\""
+    m "“...我的意思是你太在意那个女人了。”"
+
+# game/williamroute3.rpy:5716
+translate Schinese updatemarcy_826c21f2:
+
+    # "The otter shook his head."
+    "水獭摇摇头。"
+
+# game/williamroute3.rpy:5718
+translate Schinese updatemarcy_ed1c93b1:
+
+    # to "\"No, that ain’t it at all.\""
+    to "“不，不是的。”"
+
+# game/williamroute3.rpy:5720
+translate Schinese updatemarcy_86959c6c:
+
+    # "We stop moving, and we listen."
+    "我们停下动作，认真聆听。"
+
+# game/williamroute3.rpy:5722
+translate Schinese updatemarcy_9850f53c:
+
+    # "Nothing."
+    "一无所获。"
+
+# game/williamroute3.rpy:5725
+translate Schinese updatemarcy_e8d90e84:
+
+    # to "\"I thought I heard somebody.\""
+    to "“我好像听到什么动静。”"
+
+# game/williamroute3.rpy:5727
+translate Schinese updatemarcy_23051466:
+
+    # m "\"Well, like I said...\""
+    m "“我说...”"
+
+# game/williamroute3.rpy:5728
+translate Schinese updatemarcy_df2c00e5:
+
+    # m "\"It’s probably just your delayed reaction.\""
+    m "“你可能只是有点迟钝罢了。”"
+
+# game/williamroute3.rpy:5729
+translate Schinese updatemarcy_86deec50:
+
+    # m "\"You saw that she took the news pretty hard.\""
+    m "“你也看到了，她的反应很激烈。”"
+
+# game/williamroute3.rpy:5735
+translate Schinese updatemarcy_83c2589b:
+
+    # "He starts scrambling to button up his trousers and put the rest of his clothes back on."
+    "他匆忙地扣上裤子扣，然后把衣服穿好。"
+
+# game/williamroute3.rpy:5738
+translate Schinese updatemarcy_ced758b8:
+
+    # to "\"Now Mr. Ayers...\""
+    to "“Ayers先生...”"
+
+# game/williamroute3.rpy:5739
+translate Schinese updatemarcy_d044874b:
+
+    # to "\"I know Marcy is upset now and all...\""
+    to "“我知道Marcy现在很难过...”"
+
+# game/williamroute3.rpy:5741
+translate Schinese updatemarcy_d15b3a81:
+
+    # to "\"But in the long run, it’s not gonna be so bad.\""
+    to "“但从长远考虑，这对她来说并不是件坏事。”"
+
+# game/williamroute3.rpy:5743
+translate Schinese updatemarcy_2e7df407:
+
+    # "I scratch the back of my head."
+    "我挠了挠后脑勺。"
+
+# game/williamroute3.rpy:5745
+translate Schinese updatemarcy_557b7dd8:
+
+    # m "\"You mean with Huxley being dead?\""
+    m "“你指的是Huxley死了的事？”"
+
+# game/williamroute3.rpy:5746
+translate Schinese updatemarcy_14773c39:
+
+    # m "\"I don’t know.\""
+    m "“这我就不清楚了。”"
+
+# game/williamroute3.rpy:5747
+translate Schinese updatemarcy_1d3a5479:
+
+    # m "\"Wasn’t he her provider?\""
+    m "“他不是家里的顶梁柱吗？”"
+
+# game/williamroute3.rpy:5749
+translate Schinese updatemarcy_f6374404:
+
+    # to "\"He was her {i}user{/i}, Mr. Ayers.\""
+    to "“她是他的{b}工具{/b}，Ayers先生。”"
+
+# game/williamroute3.rpy:5751
+translate Schinese updatemarcy_2b31cfdf:
+
+    # to "\"She was the one who did all the chores.\""
+    to "“她承担了全部的家务。”"
+
+# game/williamroute3.rpy:5754
+translate Schinese updatemarcy_47424f13:
+
+    # to "\"He never let her do things how she wanted.\""
+    to "“不被允许拥有自己的爱好。”"
+
+# game/williamroute3.rpy:5756
+translate Schinese updatemarcy_085c0cfe:
+
+    # to "\"So trust me when I say that I have a good feeling she’s gonna be way happier from now on.\""
+    to "“相信我，我真心觉得她会一天比一天活得快乐。”"
+
+# game/williamroute3.rpy:5757
+translate Schinese updatemarcy_0c285edf:
+
+    # "I wipe the sweat off my brow."
+    "我擦去额头上的汗。"
+
+# game/williamroute3.rpy:5758
+translate Schinese updatemarcy_6846acc1:
+
+    # m "\"Maybe so.\""
+    m "“或许吧。”"
+
+# game/williamroute3.rpy:5759
+translate Schinese updatemarcy_45cfce6c:
+
+    # m "\"You know her better than me.\""
+    m "“你比我了解她。”"
+
+# game/williamroute3.rpy:5760
+translate Schinese updatemarcy_1774fde8:
+
+    # "Todd nods his head impatiently."
+    "Todd不耐烦地点了点头。"
+
+# game/williamroute3.rpy:5761
+translate Schinese updatemarcy_e08c6efa:
+
+    # to "\"So it ain’t nerves.\""
+    to "“所以不是因为紧张。”"
+
+# game/williamroute3.rpy:5762
+translate Schinese updatemarcy_33c7bf56:
+
+    # to "\"I heard something.\""
+    to "“我真的听到了。”"
+
+# game/williamroute3.rpy:5763
+translate Schinese updatemarcy_12d30e6b:
+
+    # "I clear my throat."
+    "我清了清喉咙。"
+
+# game/williamroute3.rpy:5765
+translate Schinese updatemarcy_f2eb80be:
+
+    # m "\"You think somebody saw us?\""
+    m "“你认为有人在偷看我们？”"
+
+# game/williamroute3.rpy:5766
+translate Schinese updatemarcy_2ff054fb:
+
+    # "He looks back at me and his mouth trembles."
+    "他回望着我，嘴唇颤抖。"
+
+# game/williamroute3.rpy:5768
+translate Schinese updatemarcy_a51bb975:
+
+    # to "\"Nah.\""
+    to "“不。”"
+
+# game/williamroute3.rpy:5769
+translate Schinese updatemarcy_46e79b66:
+
+    # to "\"I’m sure somebody woulda said somethin’, right?\""
+    to "“那样的话，他们应该会说些什么，对吧？”"
+
+# game/williamroute3.rpy:5771
+translate Schinese updatemarcy_a573b36f:
+
+    # m "\"Not necessarily.\""
+    m "“不一定。”"
+
+# game/williamroute3.rpy:5772
+translate Schinese updatemarcy_7d13a39b:
+
+    # "The inside of his ears go pale."
+    "他的耳壁变得苍白。"
+
+# game/williamroute3.rpy:5774
+translate Schinese updatemarcy_9a014d04:
+
+    # "Then he shakes his head a bit {nw}"
+    "接着他摇摇头，{nw}"
+
+# game/williamroute3.rpy:5776
+translate Schinese updatemarcy_98c3d8bb:
+
+    # extend "and cackles."
+    extend "咯咯笑了。"
+
+# game/williamroute3.rpy:5778
+translate Schinese updatemarcy_4eb43b78:
+
+    # to "\"Well. It was just like I was sayin’ before...\""
+    to "“哎，我之前说什么来着...”"
+
+# game/williamroute3.rpy:5781
+translate Schinese updatemarcy_e0cea347:
+
+    # to "\"No reason to worry about somethin’ that ain’t happened yet.\""
+    to "“没必要杞人忧天啦。”"
+
+# game/williamroute3.rpy:5783
+translate Schinese updatemarcy_6cfdcb54:
+
+    # m "\"I still don’t think there was anybody out there, Todd.\""
+    m "“我依旧坚持我的看法，外面没人，Todd。”"
+
+# game/williamroute3.rpy:5784
+translate Schinese updatemarcy_8c5546f0:
+
+    # "Doesn’t mean some{i}thing{/i} wasn’t out there."
+    "{b}非人的东西{/b}就不一定了。"
+
+# game/williamroute3.rpy:5785
+translate Schinese updatemarcy_f438770b:
+
+    # "But I don’t think I should say that out loud."
+    "但这种事还是不要声张的好。"
+
+# game/williamroute3.rpy:5786
+translate Schinese updatemarcy_a12db3a7:
+
+    # m "\"Maybe it’s Mr. Greene’s killer coming back to finish the rest of us off.\""
+    m "“没准是杀害Greene先生的凶手回来灭口了。”"
+
+# game/williamroute3.rpy:5787
+translate Schinese updatemarcy_a09110ed:
+
+    # "I expect him to start twitching again, or for his stubby ears to flick back."
+    "我本以为他会再次发抖，或者短粗的耳朵向后面折。"
+
+# game/williamroute3.rpy:5790
+translate Schinese updatemarcy_fed16cc0:
+
+    # "But instead he draws his gun."
+    "但他却拔出了枪。"
+
+# game/williamroute3.rpy:5793
+translate Schinese updatemarcy_d9d30bd7:
+
+    # "He twirls it in his hands like a performer."
+    "他旋转着手中的枪，好似一个杂耍者。"
+
+# game/williamroute3.rpy:5794
+translate Schinese updatemarcy_b5e0ba51:
+
+    # "Earlier in the day I might be ducking for cover, half expecting him to drop it."
+    "如果是在今天早些时候，我可能会躲起来找掩护，将信将疑地等着他失手。"
+
+# game/williamroute3.rpy:5796
+translate Schinese updatemarcy_07f8427d:
+
+    # "But there’s something about how smooth it spins around his webby claws that lets me know he won’t."
+    "但他灵活自如的模样说服了我。"
+
+# game/williamroute3.rpy:5798
+translate Schinese updatemarcy_78fa5d4a:
+
+    # to "\"You sure do say some silly things, Mr. Ayers.\""
+    to "“别开玩笑了，Ayers先生。”"
+
+# game/williamroute3.rpy:5800
+translate Schinese updatemarcy_070a67d9:
+
+    # m "\"It wasn’t that funny.\""
+    m "“哪里好笑？”"
+
+# game/williamroute3.rpy:5803
+translate Schinese updatemarcy_a566662c:
+
+    # "He looks very pleased with himself, slipping the gun back into his holster."
+    "他带着几分自满，把枪塞回了枪套。"
+
+# game/williamroute3.rpy:5806
+translate Schinese updatemarcy_f0a419db:
+
+    # to "\"Just be a little more careful about sayin’ something like that when I’m armed.\""
+    to "“在我拿着武器的时候，这种话可不能乱说。”"
+
+# game/williamroute3.rpy:5808
+translate Schinese updatemarcy_20ed537f:
+
+    # "I think the clear skepticism ingrained in my face makes him nervous again."
+    "我脸上掩饰不住的怀疑让他又紧张了起来。"
+
+# game/williamroute3.rpy:5810
+translate Schinese updatemarcy_1b9f52d9:
+
+    # m "\"You ever killed a man, Todd?\""
+    m "“你曾经杀过人吗，Todd？”"
+
+# game/williamroute3.rpy:5811
+translate Schinese updatemarcy_a6363d51:
+
+    # to "\"Well...\""
+    to "“唔...”"
+
+# game/williamroute3.rpy:5813
+translate Schinese updatemarcy_41e97370:
+
+    # to "\"Never on purpose.\""
+    to "“没有故意杀过。”"
+
+# game/williamroute3.rpy:5815
+translate Schinese updatemarcy_2cc7b95a:
+
+    # "I blink."
+    "我眨眨眼。"
+
+# game/williamroute3.rpy:5816
+translate Schinese updatemarcy_71f10af9:
+
+    # m "\"...really now?\""
+    m "“...真的假的？”"
+
+# game/williamroute3.rpy:5818
+translate Schinese updatemarcy_f9ca9953:
+
+    # to "\"Bad people everywhere often want to hurt the good ones.\""
+    to "“坏人四处为非作歹。”"
+
+# game/williamroute3.rpy:5819
+translate Schinese updatemarcy_d49dd7a6:
+
+    # to "\"Sometimes you have to shoot before they do.\""
+    to "“有时候，你必须抢在他们前面扣下扳机。”"
+
+# game/williamroute3.rpy:5820
+translate Schinese updatemarcy_d3415b0c:
+
+    # m "\"So you think people are just bad or good then?\""
+    m "“所以在你看来，人都是非恶即善的吗？”"
+
+# game/williamroute3.rpy:5822
+translate Schinese updatemarcy_a8252f04:
+
+    # to "\"Well, I don’t know about all that...\""
+    to "“我不知道...”"
+
+# game/williamroute3.rpy:5824
+translate Schinese updatemarcy_15f56cfa:
+
+    # to "\"But if they’re pointing a gun at a lil’ old lady and about to rob ‘em blind, then they’re probably bad.\""
+    to "“但如果有人用枪指着一位婆婆，想把她抢个精光，那他多半就是坏人没跑了。”"
+
+# game/williamroute3.rpy:5826
+translate Schinese updatemarcy_685ff01d:
+
+    # m "\"That don’t sound like a thing that ever really happened.\""
+    m "“听起来有点不现实。”"
+
+# game/williamroute3.rpy:5828
+translate Schinese updatemarcy_fcce712e:
+
+    # to "\"Shoot, I wish that were true!\""
+    to "“哎，我倒希望是真的！”"
+
+# game/williamroute3.rpy:5830
+translate Schinese updatemarcy_96ba4eb4:
+
+    # "We both look out in the bushes again."
+    "我们再次望向灌木丛。"
+
+# game/williamroute3.rpy:5831
+translate Schinese updatemarcy_9fb2b1e9:
+
+    # "Todd crouches a bit as if expecting something to jump out at us."
+    "Todd蹲下身子，似乎在防备有什么东西跳出来。"
+
+# game/williamroute3.rpy:5833
+translate Schinese updatemarcy_d3e20486:
+
+    # m "\"...so who did you kill?\""
+    m "“...那么你杀了谁？”"
+
+# game/williamroute3.rpy:5835
+translate Schinese updatemarcy_07a8a921:
+
+    # to "\"Well, sometimes it’s a lot if they’re all shooting at ya at once.\""
+    to "“如果很多人同时对我开枪，我也只能把他们都干掉。”"
+
+# game/williamroute3.rpy:5836
+translate Schinese updatemarcy_df1a17a5:
+
+    # to "\"The {i}who{/i} ain’t always certain or particularly memorable.\""
+    to "“并没有哪个{b}谁{/b}让我印象深刻，特别难忘。”"
+
+# game/williamroute3.rpy:5837
+translate Schinese updatemarcy_f6897e56:
+
+    # to "\"But usually it’s cases where the disarming shot is non-lethal, they take to the desert rather than turning themselves in, and they turn up dead elsewhere.\""
+    to "“一般来说，只要他们丢下武器，我就会留他们一命。但比起自首，他们宁愿逃到沙漠，死在别的地方。”"
+
+# game/williamroute3.rpy:5839
+translate Schinese updatemarcy_318e7b3c:
+
+    # m "\"I thought western shoot-outs like that don’t happen no more.\""
+    m "“我还以为西部的枪战早就过时了。”"
+
+# game/williamroute3.rpy:5840
+translate Schinese updatemarcy_d26d131b:
+
+    # to "\"Oh, they still happen.\""
+    to "“偶有发生吧。”"
+
+# game/williamroute3.rpy:5842
+translate Schinese updatemarcy_fda11df0:
+
+    # to "\"Just tend to end a whole lot quicker than you hear about in stories.\""
+    to "“而且往往比故事中描写的快很多。”"
+
+# game/williamroute3.rpy:5844
+translate Schinese updatemarcy_8c6a2a25:
+
+    # m "\"I figured your and William’s jobs were a lot more cushy than that.\""
+    m "“看来你和William的工作并没有我想的那么轻松。”"
+
+# game/williamroute3.rpy:5846
+translate Schinese updatemarcy_bccdabbd:
+
+    # to "\"Truth be told we haven’t had stuff happen like that publicly since Mr. Adler was elected.\""
+    to "“说实话，自从Adler先生上任以来，我们还没有在公开场合遇到过这种情况。”"
+
+# game/williamroute3.rpy:5849
+translate Schinese updatemarcy_c6479c15:
+
+    # to "\"I think people are less keen on tryin’, considering his reputation and connections.\""
+    to "“我想是他的名声和人脉起到了威慑作用。”"
+
+# game/williamroute3.rpy:5851
+translate Schinese updatemarcy_de8df52d:
+
+    # to "\"It’s like we’re livin’ in a proper residential area now, not just the frontier.\""
+    to "“他让人们觉得自己住在一个良好的环境里，而不仅仅是边境地带。”"
+
+# game/williamroute3.rpy:5853
+translate Schinese updatemarcy_dc69f01c:
+
+    # "I nod, slowly."
+    "我点点头，缓慢地。"
+
+# game/williamroute3.rpy:5855
+translate Schinese updatemarcy_67fabc76:
+
+    # m "\"Were you gonna shoot somebody if they saw us?\""
+    m "“如果有人看到我们，你会开枪吗？”"
+
+# game/williamroute3.rpy:5856
+translate Schinese updatemarcy_90791690:
+
+    # to "\"Huh?\""
+    to "“诶？”"
+
+# game/williamroute3.rpy:5857
+translate Schinese updatemarcy_9f44eae2:
+
+    # to "\"You brought up the killer comin’ back.\""
+    to "“还不是因为你提到杀手回来了。”"
+
+# game/williamroute3.rpy:5858
+translate Schinese updatemarcy_c96f2390:
+
+    # m "\"Yeah but you didn’t...\""
+    m "“是，但你...”"
+
+# game/williamroute3.rpy:5859
+translate Schinese updatemarcy_bc35f790:
+
+    # "He blinks."
+    "他眨了眨眼。"
+
+# game/williamroute3.rpy:5861
+translate Schinese updatemarcy_07473d37:
+
+    # to "\"Didn’t what?\""
+    to "“但我什么？”"
+
+# game/williamroute3.rpy:5862
+translate Schinese updatemarcy_1368758e:
+
+    # "You didn’t seem that worried about {i}that{/i}."
+    "你好像并不是很担心的样子。"
+
+# game/williamroute3.rpy:5864
+translate Schinese updatemarcy_16d428e2:
+
+    # m "\"...let’s just drop it.\""
+    m "“...算了。”"
+
+# game/williamroute3.rpy:5865
+translate Schinese updatemarcy_2318236b:
+
+    # to "\"Okay.\""
+    to "“好吧。”"
+
+# game/williamroute3.rpy:5867
+translate Schinese updatemarcy_f0e51a1a:
+
+    # "We’re both still staring out into the woods."
+    "我们都还在凝视着树林。"
+
+# game/williamroute3.rpy:5869
+translate Schinese updatemarcy_72146b3e:
+
+    # to "\"If you’re wonderin’ whether I liked it or not--\""
+    to "“如果你想知道我喜不喜欢-”"
+
+# game/williamroute3.rpy:5871
+translate Schinese updatemarcy_6c80ab56:
+
+    # m "\"I ain’t wonderin’.\""
+    m "“我不想知道。”"
+
+# game/williamroute3.rpy:5872
+translate Schinese updatemarcy_2741c821:
+
+    # m "\"I could tell you did.\""
+    m "“我看得出来。”"
+
+# game/williamroute3.rpy:5873
+translate Schinese updatemarcy_a91fd79f:
+
+    # "He gulps."
+    "他咽了口唾沫。"
+
+# game/williamroute3.rpy:5874
+translate Schinese updatemarcy_58ae2236:
+
+    # to "\"Well uh.\""
+    to "“呃，嗯。”"
+
+# game/williamroute3.rpy:5875
+translate Schinese updatemarcy_560e8646:
+
+    # to "\"I haven’t really had a whole lot of chances to be actin’ up for most of my life.\""
+    to "“我这一辈子很少有任性的机会。”"
+
+# game/williamroute3.rpy:5876
+translate Schinese updatemarcy_aa47fa94:
+
+    # m "\"Actin’ up, huh?\""
+    m "“任性，是吗？”"
+
+# game/williamroute3.rpy:5878
+translate Schinese updatemarcy_aaa32907:
+
+    # to "\"Most days I’m up before six AM helping uncle with the horses.\""
+    to "“我总是早上六点不到就起床帮叔叔赶马了。”"
+
+# game/williamroute3.rpy:5879
+translate Schinese updatemarcy_86027f93:
+
+    # to "\"And that’s only when I don’t get called in for any early patrols or late patrols.\""
+    to "“在我没有早巡或夜巡的情况下。”"
+
+# game/williamroute3.rpy:5881
+translate Schinese updatemarcy_d1cd30dd:
+
+    # to "\"The rest of the day it’s police work, then I go home before five where I have to help weed the garden and make sure ma has what she needs for supper.\""
+    to "“剩下的时间就全是警察的工作，然后我争取在五点前回家，给花园除草，或者替老妈准备晚餐需要的食材。”"
+
+# game/williamroute3.rpy:5882
+translate Schinese updatemarcy_4b66f896:
+
+    # to "\"Then I help with the laundry, wash-up, and I’m in bed by 8:30.\""
+    to "“饭后帮忙洗衣服，洗碗，在八点半上床睡觉。”"
+
+# game/williamroute3.rpy:5884
+translate Schinese updatemarcy_ae94b465:
+
+    # to "\"So there’s not a whole lot of time or privacy to, ah.\""
+    to "“所以没有太多的时间和隐私来...”"
+
+# game/williamroute3.rpy:5885
+translate Schinese updatemarcy_8b09ee9a:
+
+    # to "\"Well, you know?\""
+    to "“你懂的吧？”"
+
+# game/williamroute3.rpy:5886
+translate Schinese updatemarcy_0054068a:
+
+    # m "\"Yeah Todd, I know.\""
+    m "“是啊，Todd，我懂。”"
+
+# game/williamroute3.rpy:5888
+translate Schinese updatemarcy_23ef7727:
+
+    # to "\"...so, uh...\""
+    to "“...所以，呃...”"
+
+# game/williamroute3.rpy:5889
+translate Schinese updatemarcy_db5578d9:
+
+    # to "\"I want to try again.\""
+    to "“我想再试一次。”"
+
+# game/williamroute3.rpy:5892
+translate Schinese updatemarcy_6dba4d08:
+
+    # wi "\"Try what again?\""
+    wi "“再试一次什么？”"
+
+# game/williamroute3.rpy:5893
+translate Schinese updatemarcy_fb6e33a2:
+
+    # "Shit."
+    "操。"
+
+# game/williamroute3.rpy:5895
+translate Schinese updatemarcy_b759e397:
+
+    # "Neither of us had heard Will walking up the road behind us."
+    "我们两个都没有听到Will从后面走了过来。"
+
+# game/williamroute3.rpy:5896
+translate Schinese updatemarcy_beaea31d:
+
+    # "If Huxley’s killer shooting deputy Bronson from the woods wouldn’t have taken him down right there and then, Todd's surprise might do the trick."
+    "Bronson副官的惊讶之情丝毫不亚于Huxley案的凶手从树林里朝他开了一枪。"
+
+# game/williamroute3.rpy:5900
+translate Schinese updatemarcy_3c7ad356:
+
+    # to "\"William!\""
+    to "“William！”"
+
+# game/williamroute3.rpy:5902
+translate Schinese updatemarcy_0aa23368:
+
+    # wi "\"...Yes, that is my name.\""
+    wi "“...没错，是我。”"
+
+# game/williamroute3.rpy:5904
+translate Schinese updatemarcy_d2098923:
+
+    # "He stops for a moment, and his nostrils flare."
+    "他呆立了片刻，鼻孔微张。"
+
+# game/williamroute3.rpy:5906
+translate Schinese updatemarcy_381741c0:
+
+    # "Then he looks in between me and Todd."
+    "接着依次看向我和Todd。"
+
+# game/williamroute3.rpy:5908
+translate Schinese updatemarcy_79644c09:
+
+    # wi "\"...How did investigating the grounds go?\""
+    wi "“...调查进行得如何？”"
+
+# game/williamroute3.rpy:5910
+translate Schinese updatemarcy_4d2696ea:
+
+    # to "\"...uh.\""
+    to "“...啊。”"
+
+# game/williamroute3.rpy:5911
+translate Schinese updatemarcy_33188f9c:
+
+    # "Just lie if you don’t want to talk about it, Todd..."
+    "不想说的话撒谎就好了啊，Todd..."
+
+# game/williamroute3.rpy:5913
+translate Schinese updatemarcy_42eee7cf:
+
+    # wi "\"Y’all were fucking around, weren’t you?\""
+    wi "“瞎搞了半天，是吧？”"
+
+# game/williamroute3.rpy:5915
+translate Schinese updatemarcy_9b5806b2:
+
+    # "Todd bites his lip."
+    "Todd咬着嘴唇。"
+
+# game/williamroute3.rpy:5917
+translate Schinese updatemarcy_85a0aed4:
+
+    # wi "\"This ain’t the time or place to be taking things lightly, boys.\""
+    wi "“现在可不是吊儿郎当的时候，伙计们。”"
+
+# game/williamroute3.rpy:5920
+translate Schinese updatemarcy_7924257b:
+
+    # wi "\"The longer we take to find our leads, the quicker our trails will go cold.\""
+    wi "“我们寻找的时间越长，线索就越容易消失。”"
+
+# game/williamroute3.rpy:5923
+translate Schinese updatemarcy_c3e47394:
+
+    # wi "\"Next thing you know, somebody else will end up dead.\""
+    wi "“然后就会有更多的受害者。”"
+
+# game/williamroute3.rpy:5925
+translate Schinese updatemarcy_5637d6e3:
+
+    # m "\"...We did do some looking in the shack.\""
+    m "“...我们有在棚屋里找到些东西。”"
+
+# game/williamroute3.rpy:5927
+translate Schinese updatemarcy_47b2696e:
+
+    # wi "\"Zip up your pants, Sam.\""
+    wi "“把裤子拉链拉上，Sam。”"
+
+# game/williamroute3.rpy:5929
+translate Schinese updatemarcy_f68cfca4:
+
+    # "I look down."
+    "我低头一看。"
+
+# game/williamroute3.rpy:5930
+translate Schinese updatemarcy_a439b59a:
+
+    # "Huh."
+    "啊。"
+
+# game/williamroute3.rpy:5931
+translate Schinese updatemarcy_28551df2:
+
+    # "I’m still kind of hanging out."
+    "露了一点出来。"
+
+# game/williamroute3.rpy:5932
+translate Schinese updatemarcy_fc0dba82:
+
+    # "Whoops."
+    "啊偶。"
+
+# game/williamroute3.rpy:5933
+translate Schinese updatemarcy_799a3b04:
+
+    # to "\"...I uh.\""
+    to "“...我，呃。”"
+
+# game/williamroute3.rpy:5934
+translate Schinese updatemarcy_55c9dd6a:
+
+    # "The otter shuffles awkwardly, looking extremely embarrassed."
+    "水獭扭着脚，看起来异常尴尬。"
+
+# game/williamroute3.rpy:5935
+translate Schinese updatemarcy_76ea130c:
+
+    # to "\"I promise I didn’t do nothin’...\""
+    to "“我发誓我什么都没有做...”"
+
+# game/williamroute3.rpy:5937
+translate Schinese updatemarcy_69472585:
+
+    # wi "\"Yes, Deputy...\""
+    wi "“是啊，副手...”"
+
+# game/williamroute3.rpy:5939
+translate Schinese updatemarcy_38090a83:
+
+    # wi "\"That’s the problem.\""
+    wi "“这就是问题所在。”"
+
+# game/williamroute3.rpy:5941
+translate Schinese updatemarcy_7d28eb36:
+
+    # to "\"I ah... well, shit...\""
+    to "“我...唉...”"
+
+# game/williamroute3.rpy:5943
+translate Schinese updatemarcy_67131b76:
+
+    # wi "\"Let’s talk about it later.\""
+    wi "“之后再说吧。”"
+
+# game/williamroute3.rpy:5946
+translate Schinese updatemarcy_9eaf61b7:
+
+    # wi "\"I saw Marcy heading into town. Probably towards the Hip.\""
+    wi "“我看见Marcy去了镇里，可能是去Hip。”"
+
+# game/williamroute3.rpy:5949
+translate Schinese updatemarcy_323aa5e4:
+
+    # wi "\"Do you still have her house key?\""
+    wi "“你还留着她家的钥匙吗？”"
+
+# game/williamroute3.rpy:5952
+translate Schinese updatemarcy_550177f6:
+
+    # to "\"’Course...\""
+    to "“嗯...”"
+
+# game/williamroute3.rpy:5954
+translate Schinese updatemarcy_3922036d:
+
+    # wi "\"We should take a look around.\""
+    wi "“我们有必要进去一趟。”"
+
+# game/williamroute3.rpy:5958
+translate Schinese updatemarcy_75396a99:
+
+    # wi "\"It’s not impossible nor improbable that Marcy had something to do with the murder.\""
+    wi "“目前还不能完全排除Marcy的嫌疑。”"
+
+# game/williamroute3.rpy:5959
+translate Schinese updatemarcy_c6512b19:
+
+    # to "\"She wouldn’t!\""
+    to "“怎么会？！”"
+
+# game/williamroute3.rpy:5962
+translate Schinese updatemarcy_c559aff5:
+
+    # wi "\"We don’t know that, but let’s go find out.\""
+    wi "“所以我们才需要证据。”"
+
+# game/williamroute3.rpy:5985
+translate Schinese updatemarcy_9f89bbec:
+
+    # "When we get to the front door, Todd unlocks it and I make a beeline for the kitchen."
+    "我们来到前门，Todd打开门锁，我径直走向厨房。"
+
+# game/williamroute3.rpy:5990
+translate Schinese updatemarcy_311f4b06:
+
+    # "For the love of God, what is wrong with this place?"
+    "老天爷啊，这地方到底怎么了？"
+
+# game/williamroute3.rpy:5991
+translate Schinese updatemarcy_a2d7682e:
+
+    # "I stumble around the kitchen that’s cluttered with half-filled cups and soiled dishes, shuffling past piles of soiled linens."
+    "厨房里堆满了半空杯子和脏盘子，我蹒跚而行，努力避开脚边成堆的脏床单。"
+
+# game/williamroute3.rpy:5993
+translate Schinese updatemarcy_e272a717:
+
+    # "I open the cupboard to see if there’s any indication of what might be going on here."
+    "我打开橱柜，看里面是否有线索。"
+
+# game/williamroute3.rpy:5995
+translate Schinese updatemarcy_e932d430:
+
+    # "Mostly sealed jars of perishables."
+    "大部分是密封的罐头食品。"
+
+# game/williamroute3.rpy:5996
+translate Schinese updatemarcy_ee13d0be:
+
+    # "And a jar of something else."
+    "还有一罐别的。"
+
+# game/williamroute3.rpy:5997
+translate Schinese updatemarcy_8d9f89d6:
+
+    # "I’ve seen this root before."
+    "这植物...我有所耳闻。"
+
+# game/williamroute3.rpy:6000
+translate Schinese updatemarcy_f1300471:
+
+    # "These kinds of plant are more commonly found in whorehouses than the cupboards of housewives."
+    "常见于妓院中，而不是一个家庭主妇的柜子里。"
+
+# game/williamroute3.rpy:6001
+translate Schinese updatemarcy_82dac94d:
+
+    # "Maybe Huxley was having her take them."
+    "也许是Huxley让她拿的。"
+
+# game/williamroute3.rpy:6002
+translate Schinese updatemarcy_99c3cc66:
+
+    # "I’m afraid to think about the things Huxley Greene might have been doing that I didn’t know about."
+    "我不敢去想Huxley Greene背地里都做了什么。"
+
+# game/williamroute3.rpy:6003
+translate Schinese updatemarcy_c5eecc3e:
+
+    # "But I’ll have to think about that later."
+    "但总归是要考虑的。"
+
+# game/williamroute3.rpy:6004
+translate Schinese updatemarcy_10208541:
+
+    # "There’s a big enough pot below her stove to make large batches of medicine."
+    "灶台下面有一口可以用来熬药的大锅。"
+
+# game/williamroute3.rpy:6005
+translate Schinese updatemarcy_74a87bab:
+
+    # "The gas stove is covered in dirty pots and pans, so it doesn’t look like it gets much use."
+    "煤气炉上满是闲置已久的锅碗瓢盆。"
+
+# game/williamroute3.rpy:6006
+translate Schinese updatemarcy_2eef4f17:
+
+    # "Once I’m satisfied with a general scope of the kitchen I move on into the living room."
+    "等厨房搜查得差不多了，我起身前往客厅。"
+
+# game/williamroute3.rpy:6008
+translate Schinese updatemarcy_dcfee830:
+
+    # "Her couch is so covered with these damn dolls that she has no place to sit."
+    "沙发上净是些该死的娃娃，连坐的空间都没有。"
+
+# game/williamroute3.rpy:6009
+translate Schinese updatemarcy_3cfacdd4:
+
+    # "I try not to move anything I’ll forget the placement of, or she might get upset."
+    "我尽量不改变物品的陈设，免得惹她不高兴。"
+
+# game/williamroute3.rpy:6010
+translate Schinese updatemarcy_1c45c0f2:
+
+    # "I go to her bedroom."
+    "我去了她的卧室。"
+
+# game/williamroute3.rpy:6012
+translate Schinese updatemarcy_7a345c40:
+
+    # "Thankfully it’s a little less cluttered than her living room."
+    "谢天谢地，这里比客厅整洁一些。"
+
+# game/williamroute3.rpy:6013
+translate Schinese updatemarcy_7b35235d:
+
+    # "But her bed..."
+    "然而她的床..."
+
+# game/williamroute3.rpy:6014
+translate Schinese updatemarcy_24c9afa7:
+
+    # "More dolls?"
+    "更多娃娃？"
+
+# game/williamroute3.rpy:6015
+translate Schinese updatemarcy_4b492197:
+
+    # "No, that’s just one big lump beneath the sheets."
+    "不，只是床单盖着什么。"
+
+# game/williamroute3.rpy:6016
+translate Schinese updatemarcy_1c026de6:
+
+    # "I don’t know if I can take it if it’s a big doll that looks like Huxley."
+    "别是长得像Huxley的大娃娃吧。"
+
+# game/williamroute3.rpy:6017
+translate Schinese updatemarcy_0cd13c3a:
+
+    # "Thankfully it isn’t."
+    "幸好不是。"
+
+# game/williamroute3.rpy:6018
+translate Schinese updatemarcy_5b5b6ce5:
+
+    # "It’s just more of the little ones."
+    "只是更多更小的娃娃。"
+
+# game/williamroute3.rpy:6019
+translate Schinese updatemarcy_8b1786be:
+
+    # "She shouldn’t be sleeping with these."
+    "她怎么能跟这个一起睡觉。"
+
+# game/williamroute3.rpy:6020
+translate Schinese updatemarcy_47ba7762:
+
+    # "They’re covered in mold."
+    "表面都发霉了。"
+
+# game/williamroute3.rpy:6021
+translate Schinese updatemarcy_5ac4a2d9:
+
+    # "No wonder she looked sick earlier."
+    "难怪她的脸色那么差。"
+
+# game/williamroute3.rpy:6022
+translate Schinese updatemarcy_215175e0:
+
+    # "I start to push the dolls off of the bed, but they have a weird feel to them."
+    "我着手推这些娃娃，却总有一种诡异的感觉。"
+
+# game/williamroute3.rpy:6024
+translate Schinese updatemarcy_76ee8cad:
+
+    # "They land wetly on the ground and makes a noise that makes me want to gag."
+    "它们湿哒哒地落在地上，发出令人作呕的声音。"
+
+# game/williamroute3.rpy:6029
+translate Schinese updatemarcy_ce471fc0:
+
+    # "This bed is unsanitary."
+    "这张床太不卫生了。"
+
+# game/williamroute3.rpy:6030
+translate Schinese updatemarcy_b3b9251e:
+
+    # "She can’t really be sleeping here, could she?"
+    "难道她真的睡在这儿？"
+
+# game/williamroute3.rpy:6031
+translate Schinese updatemarcy_ad2e368b:
+
+    # "I’ll just start with the living room after all."
+    "我还是从客厅开始吧。"
+
+# game/williamroute3.rpy:6033
+translate Schinese updatemarcy_eecceda8:
+
+    # "I can feel the eyes of the dolls on me again when I come back to the room."
+    "我回到房间，感觉娃娃们的眼睛又在盯着我看。"
+
+# game/williamroute3.rpy:6034
+translate Schinese updatemarcy_3a9f7b04:
+
+    # "Marcy’s not the first grown women I’ve known to accumulate baby dolls, and this isn’t even the biggest collection I’ve seen."
+    "我不是没见过喜欢收集娃娃的成年女性，Marcy也不是她们之中最狂热的那个。"
+
+# game/williamroute3.rpy:6035
+translate Schinese updatemarcy_0fdbacd1:
+
+    # "But it’s clear to me that Huxley wasn’t letting her display these when he was around."
+    "但有一点很清楚，Huxley还活着时，她不被允许展示自己的收藏。"
+
+# game/williamroute3.rpy:6036
+translate Schinese updatemarcy_3aef3d85:
+
+    # "That much I can gather from Todd."
+    "这是我从Todd那里了解到的。"
+
+# game/williamroute3.rpy:6037
+translate Schinese updatemarcy_4aeed6c5:
+
+    # "I know that sometimes, doll collecting is used to fill a caretaking void in ex-mothers or would-be mothers."
+    "我知道有人收集娃娃是为了填补孩子夭折的思念，又或者是准妈妈们想积累育儿经验。"
+
+# game/williamroute3.rpy:6038
+translate Schinese updatemarcy_c950b72b:
+
+    # "If Huxley hated the idea of having kids, then it makes sense she’d explore those urges when he wasn’t around to take them down."
+    "如果Huxley讨厌孩子，那么当他不在了，她会发掘这些冲动也无可厚非。"
+
+# game/williamroute3.rpy:6039
+translate Schinese updatemarcy_f2c94af6:
+
+    # "But you’d think somebody who don’t want kids for financial reason wouldn’t mind a few dolls here and there lying around."
+    "但想想看，出于经济原因不想要孩子的人，难道会喜欢家里到处都是娃娃？"
+
+# game/williamroute3.rpy:6041
+translate Schinese updatemarcy_89b168e2:
+
+    # "Todd might be able to walk me through what was going on there."
+    "Todd或许了解些什么。"
+
+# game/williamroute3.rpy:6046
+translate Schinese updatemarcy_a25b433b:
+
+    # wi "\"Let’s talk in the kitchen.\""
+    wi "“我们去厨房谈吧。”"
+
+# game/williamroute3.rpy:6047
+translate Schinese updatemarcy_0dd665b5:
+
+    # "They both follow me."
+    "他们跟上我。"
+
+# game/williamroute3.rpy:6056
+translate Schinese updatemarcy_a5897e7a:
+
+    # wi "\"Todd, Marcy never had dolls out when Huxley was around, right?\""
+    wi "“Todd，Marcy从来没有在Huxley面前把娃娃拿出来过，对不对？”"
+
+# game/williamroute3.rpy:6058
+translate Schinese updatemarcy_8b7da1b8:
+
+    # to "\"Yeah, that’s right.\""
+    to "“对的。”"
+
+# game/williamroute3.rpy:6060
+translate Schinese updatemarcy_d72198af:
+
+    # wi "\"If there’s this many of them, then Huxley must have been storing them all somewhere, yeah?\""
+    wi "“数量这么多，只可能是Huxley把它们藏在了哪里，没错吧？”"
+
+# game/williamroute3.rpy:6061
+translate Schinese updatemarcy_8b4e3740:
+
+    # wi "\"Is there someplace in the house Marcy was never allowed to go?\""
+    wi "“家里有什么地方是Huxley不准Marcy去的吗？”"
+
+# game/williamroute3.rpy:6062
+translate Schinese updatemarcy_5fa11d15:
+
+    # wi "\"Or somewhere Huxley would go but she never would?\""
+    wi "“或者他会去，但她不会去的地方。”"
+
+# game/williamroute3.rpy:6064
+translate Schinese updatemarcy_8d1cb76f:
+
+    # to "\"The strangest thing to me was that she always kept her fruits frozen.\""
+    to "“有一点我很纳闷，她总是把水果冷冻起来。”"
+
+# game/williamroute3.rpy:6065
+translate Schinese updatemarcy_0973e083:
+
+    # to "\"So I know she has an icebox.\""
+    to "“所以这里肯定有一台冰箱。”"
+
+# game/williamroute3.rpy:6066
+translate Schinese updatemarcy_b266009d:
+
+    # wi "\"You do?\""
+    wi "“你确定？”"
+
+# game/williamroute3.rpy:6068
+translate Schinese updatemarcy_85b9f077:
+
+    # to "\"She used to make tarts.\""
+    to "“她过去常做馅饼。”"
+
+# game/williamroute3.rpy:6069
+translate Schinese updatemarcy_ca100712:
+
+    # to "\"The kind with frozen fruits.\""
+    to "“带有冷冻水果的那种。”"
+
+# game/williamroute3.rpy:6071
+translate Schinese updatemarcy_6af0bdd7:
+
+    # wi "\"Think real hard, Todd.\""
+    wi "“好好想一想，Todd。”"
+
+# game/williamroute3.rpy:6073
+translate Schinese updatemarcy_cc1ad74d:
+
+    # wi "\"Where did she used to go before she’d make those desserts?\""
+    wi "“她在做甜点前经常去哪里？”"
+
+# game/williamroute3.rpy:6075
+translate Schinese updatemarcy_f0d974ad:
+
+    # to "\"Well, here, in the kitchen.\""
+    to "“就这里啊，厨房。”"
+
+# game/williamroute3.rpy:6078
+translate Schinese updatemarcy_260b8a12:
+
+    # to "\"But it was always Mr. Greene who’d get the fruit.\""
+    to "“但拿水果的一直是Greene先生。”"
+
+# game/williamroute3.rpy:6082
+translate Schinese updatemarcy_593e93fe:
+
+    # "I jump in the air and listen." with vpunch
+    "我跳到空中，聆听落地的声音。" with vpunch
+
+# game/williamroute3.rpy:6086
+translate Schinese updatemarcy_050cb14d:
+
+    # wi "\"These boards sound hollow to y’all?\""
+    wi "“你们有没有觉得，地板是中空的？”"
+
+# game/williamroute3.rpy:6089
+translate Schinese updatemarcy_8d496fd3:
+
+    # to "\"They do.\""
+    to "“有。”"
+
+# game/williamroute3.rpy:6093
+translate Schinese updatemarcy_e1f2a211:
+
+    # wi "\"Help me move the table.\""
+    wi "“帮我把桌子挪开。”"
+
+# game/williamroute3.rpy:6098
+translate Schinese updatemarcy_6ceb1024:
+
+    # "All three of us give it a good shove, letting the dolls fall off as we move them."
+    "在我们三个费力的推动下，娃娃们纷纷掉落在地。"
+
+# game/williamroute3.rpy:6099
+translate Schinese updatemarcy_abd322cb:
+
+    # "There’s a rug beneath the floor that matches the color of the wood pretty well."
+    "底下是一块与木头颜色相近的地毯。"
+
+# game/williamroute3.rpy:6101
+translate Schinese updatemarcy_3f868868:
+
+    # "I bend down and give it a tug."
+    "我弯下腰，用力一扯。"
+
+# game/williamroute3.rpy:6107
+translate Schinese updatemarcy_13a2a8f3:
+
+    # to "\"Well, I’ll be...\""
+    to "“哇，谁能想到...”"
+
+# game/williamroute3.rpy:6110
+translate Schinese updatemarcy_c9d8f951:
+
+    # to "\"To think that was here the whole time?\""
+    to "“居然在这种地方？”"
+
+# game/williamroute3.rpy:6112
+translate Schinese updatemarcy_71babf9c:
+
+    # wi "\"I think we might have found where they keep the ice.\""
+    wi "“似乎就是这了。”"
+
+# game/williamroute3.rpy:6114
+translate Schinese updatemarcy_6f36d547:
+
+    # to "\"Is it locked?\""
+    to "“锁着吗？”"
+
+# game/williamroute3.rpy:6117
+translate Schinese updatemarcy_63911abb:
+
+    # wi "\"Not securely.\""
+    wi "“并不牢固。”"
+
+# game/williamroute3.rpy:6119
+translate Schinese updatemarcy_998a3932:
+
+    # "I point at the hinges."
+    "我指着铰链。"
+
+# game/williamroute3.rpy:6120
+translate Schinese updatemarcy_991e950f:
+
+    # wi "\"Doesn’t look like the kind of lock designed to keep anybody out.\""
+    wi "“应该不是用来防贼的。”"
+
+# game/williamroute3.rpy:6121
+translate Schinese updatemarcy_67a32388:
+
+    # wi "\"More like the kind of lock that keeps you out long enough to get caught trying to break in.\""
+    wi "“它的目的只是为了拖累想闯进去的家伙，好让他被当场抓住。”"
+
+# game/williamroute3.rpy:6123
+translate Schinese updatemarcy_5fa99210:
+
+    # "I shake the lock and chains to show off how noisy the setup is."
+    "我摇晃着锁和链条，以展示这个装置有多吵。"
+
+# game/williamroute3.rpy:6125
+translate Schinese updatemarcy_7cb473d1:
+
+    # "Todd flinches."
+    "Todd后缩了一下。"
+
+# game/williamroute3.rpy:6127
+translate Schinese updatemarcy_7fe9e355:
+
+    # "I grab the hammer I saw under one of the counters earlier and hold it against a hinge."
+    "我拿起之前在柜台下面看到的锤子，把它顶在其中一页铰链上。"
+
+# game/williamroute3.rpy:6128
+translate Schinese updatemarcy_d37b508d:
+
+    # wi "\"I think I have more than enough excuses to do this by now...\""
+    wi "“这也是迫不得已...”"
+
+# game/williamroute3.rpy:6130
+translate Schinese updatemarcy_c6567d5d:
+
+    # "The top of the planks crunch as the hinges come off."
+    "木板顶部发出碎裂声，铰链脱落了。"
+
+# game/williamroute3.rpy:6132
+translate Schinese updatemarcy_65dd2311:
+
+    # to "\"Well, wait, what if you don’t find an icebox down there?\""
+    to "“等等，如果下面找不到冰箱怎么办？”"
+
+# game/williamroute3.rpy:6134
+translate Schinese updatemarcy_978f66d7:
+
+    # wi "\"Then I’ll make some repairs and issue my apology.\""
+    wi "“那我就向她道歉，然后把门修好。”"
+
+# game/williamroute3.rpy:6137
+translate Schinese updatemarcy_3f6cfc31:
+
+    # "I position the hammer again, putting my body weight down on it until I hear the crunch."
+    "我重新放置好锤子，把全身的重量压在上面，直至听见嘎吱的声音。"
+
+# game/williamroute3.rpy:6139
+translate Schinese updatemarcy_fdd3f208:
+
+    # "The trapdoor made of planks flips out easily from the top, rattling."
+    "活板木门轻松翻开，咔嗒作响。"
+
+# game/williamroute3.rpy:6141
+translate Schinese updatemarcy_d9b16465:
+
+    # wi "\"I guess Mr. Greene thought he was slick.\""
+    wi "“看来Greene先生自认为他很狡猾。”"
+
+# game/williamroute3.rpy:6144
+translate Schinese updatemarcy_589978cc:
+
+    # to "\"It worked on me.\""
+    to "“至少骗到我了。”"
+
+# game/williamroute3.rpy:6145
+translate Schinese updatemarcy_e3689751:
+
+    # "Yeah, that’s not that surprising."
+    "是啊，你没被骗才怪。"
+
+# game/williamroute3.rpy:6147
+translate Schinese updatemarcy_0527a39d:
+
+    # wi "\"Mostly because you don’t tend to expect something as eccentric as this from a banker.\""
+    wi "“毕竟常人很难想到一位银行家会做出如此古怪的行为。”"
+
+# game/williamroute3.rpy:6149
+translate Schinese updatemarcy_33a2b958:
+
+    # "We climb down an iron set of stairs that wobbles as we move beneath it."
+    "我们爬下一把摇摇晃晃的铁制梯子。"
+
+# game/williamroute3.rpy:6150
+translate Schinese updatemarcy_91e4ae76:
+
+    # "It’s dank and dirty down here."
+    "下面又湿又脏。"
+
+# game/williamroute3.rpy:6151
+translate Schinese updatemarcy_63cfd68b:
+
+    # "There’s plenty of cobwebs, and I’m sure I saw a few things crawling around the floor out of the corners of my eye."
+    "到处都是蜘蛛网，而且我确定瞥到有什么在地板上爬来爬去。"
+
+# game/williamroute3.rpy:6154
+translate Schinese updatemarcy_bf165d9e:
+
+    # "I see a dangling lightbulb and pull the string."
+    "我看见一个摇晃的灯泡，过去拉下开关。"
+
+# game/williamroute3.rpy:6156
+translate Schinese updatemarcy_832c29b7:
+
+    # "There’s not much down here but a tall, black chest, and a wooden crib, painted white."
+    "下面东西不多，只有一个高高的黑箱子，跟一张漆成白色的木制婴儿床。"
+
+# game/williamroute3.rpy:6161
+translate Schinese updatemarcy_7398d3f0:
+
+    # to "\"Well what’s somethin’ like that doing down here?\""
+    to "“这里怎么会有婴儿床呢？”"
+
+# game/williamroute3.rpy:6163
+translate Schinese updatemarcy_454914d0:
+
+    # "I slide my fingers along it, expecting to find grime or dust from being in storage."
+    "我用手指沿着它的表面滑动，希望通过污垢或灰尘判断出存放时间。"
+
+# game/williamroute3.rpy:6164
+translate Schinese updatemarcy_f7b61852:
+
+    # wi "\"It’s clean.\""
+    wi "“还很干净。”"
+
+# game/williamroute3.rpy:6165
+translate Schinese updatemarcy_97c34ec1:
+
+    # "There’s a doll here too."
+    "这里也有一个娃娃。"
+
+# game/williamroute3.rpy:6167
+translate Schinese updatemarcy_1f4b171a:
+
+    # to "\"This looks expensive.\""
+    to "“看起来很贵的样子。”"
+
+# game/williamroute3.rpy:6172
+translate Schinese updatemarcy_c4a216fc:
+
+    # wi "\"It’s definitely not like the other ones we’ve seen around the house.\""
+    wi "“跟其他娃娃明显不是一路货色。”"
+
+# game/williamroute3.rpy:6174
+translate Schinese updatemarcy_99fdda2d:
+
+    # wi "\"What’s in the icebox, Todd?\""
+    wi "“冰箱里有什么，Todd？”"
+
+# game/williamroute3.rpy:6176
+translate Schinese updatemarcy_08958eaa:
+
+    # to "\"Well, ah...\""
+    to "“唔...”"
+
+# game/williamroute3.rpy:6177
+translate Schinese updatemarcy_b330cfb2:
+
+    # to "\"Ice.\""
+    to "“冰。”"
+
+# game/williamroute3.rpy:6178
+translate Schinese updatemarcy_f48bae97:
+
+    # wi "\"And?\""
+    wi "“还有呢？”"
+
+# game/williamroute3.rpy:6180
+translate Schinese updatemarcy_89d732a1:
+
+    # to "\"Huckleberries.\""
+    to "“树莓。”"
+
+# game/williamroute3.rpy:6182
+translate Schinese updatemarcy_9dab0ed2:
+
+    # "I follow him to it."
+    "我跟了过去。"
+
+# game/williamroute3.rpy:6183
+translate Schinese updatemarcy_161d49dd:
+
+    # "And he opens it."
+    "他把冰柜门打开。"
+
+# game/williamroute3.rpy:6184
+translate Schinese updatemarcy_1fdd65ee:
+
+    # "The ice box is separated into different sorts of shelves."
+    "里面被不同种类的架子分隔开。"
+
+# game/williamroute3.rpy:6186
+translate Schinese updatemarcy_1ad373c7:
+
+    # to "\"Hey William?\""
+    to "“那个，William？”"
+
+# game/williamroute3.rpy:6187
+translate Schinese updatemarcy_58a8050f:
+
+    # wi "\"Yes Todd?\""
+    wi "“什么事，Todd？”"
+
+# game/williamroute3.rpy:6190
+translate Schinese updatemarcy_4fe471d3:
+
+    # to "\"That really doesn’t look big enough to store a body.\""
+    to "“看大小，这冰柜装不下一具尸体吧。”"
+
+# game/williamroute3.rpy:6191
+translate Schinese updatemarcy_c9a35989:
+
+    # "I can’t disagree with him here."
+    "我无法反驳。"
+
+# game/williamroute3.rpy:6193
+translate Schinese updatemarcy_58a44039:
+
+    # "There’s far less down here than I would have expected."
+    "这儿的东西少得可怜。"
+
+# game/williamroute3.rpy:6194
+translate Schinese updatemarcy_c688a053:
+
+    # "If Huxley had plans for this space, it looks like he never got down to them."
+    "看来Huxley并没有付出实际行动，假如他有计划使用这里的话。"
+
+# game/williamroute3.rpy:6196
+translate Schinese updatemarcy_99af9c3a:
+
+    # m "\"Is this another dead end?\""
+    m "“又闯进死胡同了？”"
+
+# game/williamroute3.rpy:6198
+translate Schinese updatemarcy_39422049:
+
+    # wi "\"I sure hope not.\""
+    wi "“希望不是。”"
+
+# game/williamroute3.rpy:6199
+translate Schinese updatemarcy_bb633b42:
+
+    # "The two of them stare at me as if they’re waiting for what to do next."
+    "他们两个都盯着我，好像在等待下一步的指示。"
+
+# game/williamroute3.rpy:6200
+translate Schinese updatemarcy_f4b3bec8:
+
+    # wi "\"So... the crib and this doll...\""
+    wi "“那么...婴儿床和娃娃...”"
+
+# game/williamroute3.rpy:6202
+translate Schinese updatemarcy_0f90f765:
+
+    # wi "\"Todd, are you sure you never saw Marcy go down the to cellar?\""
+    wi "“Todd，你确定没见过Marcy下地窖？”"
+
+# game/williamroute3.rpy:6204
+translate Schinese updatemarcy_2c8e4e05:
+
+    # to "\"Cross my heart.\""
+    to "“我发誓没有。”"
+
+# game/williamroute3.rpy:6207
+translate Schinese updatemarcy_98755375:
+
+    # wi "\"Huxley doesn’t mark me as a fellow who’d play with dolls.\""
+    wi "“Huxley也不像会玩娃娃的人。”"
+
+# game/williamroute3.rpy:6209
+translate Schinese updatemarcy_5318478d:
+
+    # m "\"Hell no, he wouldn’t.\""
+    m "“这不是明摆着的吗。”"
+
+# game/williamroute3.rpy:6212
+translate Schinese updatemarcy_aab25d51:
+
+    # to "\"So why is this down here?\""
+    to "“所以下面为什么有个娃娃呢？”"
+
+# game/williamroute3.rpy:6214
+translate Schinese updatemarcy_9b63b59f:
+
+    # wi "\"I might have a few ideas.\""
+    wi "“我有想到几种可能性。”"
+
+# game/williamroute3.rpy:6215
+translate Schinese updatemarcy_6d191b11:
+
+    # wi "\"But I think we’re out of time.\""
+    wi "“但时间不多了。”"
+
+# game/williamroute3.rpy:6216
+translate Schinese updatemarcy_f5c12859:
+
+    # wi "\"Let’s put everything back where it was and get out of here as soon as possible.\""
+    wi "“把东西收拾好，然后尽快离开这里。”"
+
+# game/williamroute3.rpy:6217
+translate Schinese updatemarcy_035f31a2:
+
+    # "We climb up the stairs and head back to Marcy’s kitchen."
+    "我们爬上梯子，回到Marcy的厨房。"
+
+# game/williamroute3.rpy:6226
+translate Schinese updatemarcy_8e0766d2:
+
+    # "We put the tablecloth back over the stairs and I double check to make sure all of the dolls are in their right spots."
+    "我们把地毯盖了回去，又仔细检查一番，确保没有娃娃偏离原来的位置。"
+
+# game/williamroute3.rpy:6231
+translate Schinese updatemarcy_78cd8a63:
+
+    # "Once we’re outside and Todd locks up the door, I tell them to start walking, so we can avoid being seen by Marcy on her way back."
+    "等我们到了外面，Todd锁好门，我就催他们快走，避免被回来的Marcy看到。"
+
+# game/williamroute3.rpy:6239
+translate Schinese updatemarcy_dc033ddd:
+
+    # wi "\"Did you ever see Marcy pregnant, Todd?\""
+    wi "“Marcy怀过孕吗，Todd？”"
+
+# game/williamroute3.rpy:6240
+translate Schinese updatemarcy_90791690_1:
+
+    # to "\"Huh?\""
+    to "“诶？”"
+
+# game/williamroute3.rpy:6241
+translate Schinese updatemarcy_f8f8a229:
+
+    # to "\"I think she might have been, once.\""
+    to "“好像怀过一次吧。”"
+
+# game/williamroute3.rpy:6243
+translate Schinese updatemarcy_fa92c6ab:
+
+    # to "\"She lost the baby, though.\""
+    to "“虽然流产了。”"
+
+# game/williamroute3.rpy:6245
+translate Schinese updatemarcy_75daffb7:
+
+    # wi "\"You sure it was just once?\""
+    wi "“你确定只有那一次？”"
+
+# game/williamroute3.rpy:6246
+translate Schinese updatemarcy_f2daaafb:
+
+    # "Todd doesn’t answer for a while."
+    "Todd沉默了许久。"
+
+# game/williamroute3.rpy:6248
+translate Schinese updatemarcy_d15af075:
+
+    # to "\"Twice.\""
+    to "“两次。”"
+
+# game/williamroute3.rpy:6250
+translate Schinese updatemarcy_5acecac1:
+
+    # to "\"At least as far as I know.\""
+    to "“至少我只知道两次。”"
+
+# game/williamroute3.rpy:6252
+translate Schinese updatemarcy_1944daad:
+
+    # to "\"Why d’ya ask?\""
+    to "“问这个干什么？”"
+
+# game/williamroute3.rpy:6253
+translate Schinese updatemarcy_8ce61eb8:
+
+    # "I nod."
+    "我点点头。"
+
+# game/williamroute3.rpy:6254
+translate Schinese updatemarcy_a8cffa2d:
+
+    # wi "\"I found some medicine in Marcy’s cabinet.\""
+    wi "“我在Marcy的壁橱里找到一些药。”"
+
+# game/williamroute3.rpy:6256
+translate Schinese updatemarcy_4586ba8a:
+
+    # wi "\"The kind that prevents childbirth.\""
+    wi "“用来打胎的那种。”"
+
+# game/williamroute3.rpy:6258
+translate Schinese updatemarcy_b30b858a:
+
+    # wi "\"The cabinet wasn’t locked, nor was it particularly hidden, which probably means Marcy was the one who put it there.\""
+    wi "“柜子没有上锁，也没有特别隐藏起来，很可能是Marcy亲自放在那的。”"
+
+# game/williamroute3.rpy:6259
+translate Schinese updatemarcy_2e4c0555:
+
+    # wi "\"It wasn’t local medicine, neither, so somebody probably gave it to her.\""
+    wi "“这不是当地的药，也就是说有人协助她。”"
+
+# game/williamroute3.rpy:6260
+translate Schinese updatemarcy_715c47fc:
+
+    # wi "\"Did y’all come across any stones that might look like they’re stacked over recently disturbed ground?\""
+    wi "“你们有没有留意到什么，比如松动的地面上垒着几块石头？”"
+
+# game/williamroute3.rpy:6262
+translate Schinese updatemarcy_8858034b:
+
+    # m "\"Not that I could see.\""
+    m "“反正我没看见。”"
+
+# game/williamroute3.rpy:6265
+translate Schinese updatemarcy_cdd0c49a:
+
+    # to "\"Me neither.\""
+    to "“我也没有。”"
+
+# game/williamroute3.rpy:6267
+translate Schinese updatemarcy_c7796b8a:
+
+    # wi "\"If any of the pregnancies were late to term then Mr. or Mrs. Greene would have had to bury the evidence.\""
+    wi "“假如孩子被打掉了，Greene先生和Greene太太势必要掩埋证据。”"
+
+# game/williamroute3.rpy:6268
+translate Schinese updatemarcy_4fb8b488:
+
+    # wi "\"There could be something in the house but the place is a wreck, and we have no time.\""
+    wi "“没准就在他们房子里的某个角落，但那地方太乱了，我们也没有那么多时间。”"
+
+# game/williamroute3.rpy:6269
+translate Schinese updatemarcy_a7fa66d7:
+
+    # wi "\"If we can find out why Marcy was taking that medicine, then we might figure out the motive for why somebody wanted Mr. Greene gone.\""
+    wi "“如果我们能查出Marcy服用那种药的原因，应该就可以知道为什么有人想要致Greene先生于死地。”"
+
+# game/williamroute3.rpy:6271
+translate Schinese updatemarcy_9bbbd389:
+
+    # to "\"Now hang on William...\""
+    to "“先等一下，William...”"
+
+# game/williamroute3.rpy:6273
+translate Schinese updatemarcy_2b61fab7:
+
+    # to "\"The way you’re talkin’ almost sounds like you’re saying Marcy did it.\""
+    to "“你这几乎摆明了是把Marcy当凶手吧。”"
+
+# game/williamroute3.rpy:6275
+translate Schinese updatemarcy_46387c9e:
+
+    # m "\"Ain’t she actin’ weird though?\""
+    m "“她的样子是不太正常啊？”"
+
+# game/williamroute3.rpy:6278
+translate Schinese updatemarcy_22a1ca31:
+
+    # m "\"Maybe she did have somethin’ to do with it.\""
+    m "“兴许真和她有关。”"
+
+# game/williamroute3.rpy:6280
+translate Schinese updatemarcy_3bb4898d:
+
+    # wi "\"It’s certainly possible.\""
+    wi "“确实有可能。”"
+
+# game/williamroute3.rpy:6281
+translate Schinese updatemarcy_cb156ff5:
+
+    # "Todd’s lips go a little thin as he shuts up with a snort."
+    "Todd抿着嘴哼了一声。"
+
+# game/williamroute3.rpy:6283
+translate Schinese updatemarcy_256eb2d4:
+
+    # wi "\"But that’s not the only lead I got.\""
+    wi "“不过我还在附近找到另一条线索。”"
+
+# game/williamroute3.rpy:6284
+translate Schinese updatemarcy_bcd4d772:
+
+    # wi "\"There was recent trash from a pack of gum and a film roll.\""
+    wi "“口香糖的包装纸和废弃的胶卷。”"
+
+# game/williamroute3.rpy:6285
+translate Schinese updatemarcy_ccdeaa66:
+
+    # wi "\"I believe they only sell these at Red’s General Store.\""
+    wi "“想必只在Red的杂货店有卖。”"
+
+# game/williamroute3.rpy:6286
+translate Schinese updatemarcy_f9251c67:
+
+    # wi "\"One of the workers there might know a thing or two about what was going on between Marcy and Huxley.\""
+    wi "“那里的工人可能对Marcy和Huxley的事略知一二。”"
+
+# game/williamroute3.rpy:6288
+translate Schinese updatemarcy_e35460f8:
+
+    # to "\"Is that where we’re goin’ next then?\""
+    to "“那咱们下一步要去哪？”"
+
+# game/williamroute3.rpy:6290
+translate Schinese updatemarcy_0be302cc:
+
+    # wi "\"Frankly Todd?\""
+    wi "“说真的-”"
+
+# game/williamroute3.rpy:6292
+translate Schinese updatemarcy_44170de9:
+
+    # wi "\"I think you should take the rest of the day off.\""
+    wi "“我认为你今天应该休息一下，Todd。”"
+
+# game/williamroute3.rpy:6293
+translate Schinese updatemarcy_5f72d1a7:
+
+    # to "\"What do ya mean?\""
+    to "“为啥？”"
+
+# game/williamroute3.rpy:6294
+translate Schinese updatemarcy_a93d3a39:
+
+    # "I’m not sure how delicately I can put this."
+    "我不擅长委婉的说法。"
+
+# game/williamroute3.rpy:6295
+translate Schinese updatemarcy_348ee98a:
+
+    # wi "\"I can’t have you quite literally fuckin’ around on the clock.\""
+    wi "“我不想看你在工作时间乱搞，字面意思上的。”"
+
+# game/williamroute3.rpy:6296
+translate Schinese updatemarcy_7453891f:
+
+    # wi "\"If you want to give a whore a handjob then just stay home.\""
+    wi "“想招妓的话，就乖乖待在房间里。”"
+
+# game/williamroute3.rpy:6297
+translate Schinese updatemarcy_44f179bc:
+
+    # "Todd’s cheeks flush red as a beet."
+    "Todd的脸红得像甜菜一样。"
+
+# game/williamroute3.rpy:6299
+translate Schinese updatemarcy_6fd80151:
+
+    # to "\"Listen, um...\""
+    to "“那个，我...”"
+
+# game/williamroute3.rpy:6301
+translate Schinese updatemarcy_c4127ee7:
+
+    # to "\"I’m real, real sorry.\""
+    to "“真的，真的很对不起。”"
+
+# game/williamroute3.rpy:6302
+translate Schinese updatemarcy_d4663ea9:
+
+    # to "\"It won’t ever happen again.\""
+    to "“我发誓不会再犯了。”"
+
+# game/williamroute3.rpy:6303
+translate Schinese updatemarcy_e8618371:
+
+    # wi "\"Not on the clock it won’t.\""
+    wi "“下班后就无所谓。”"
+
+# game/williamroute3.rpy:6304
+translate Schinese updatemarcy_958539c9:
+
+    # wi "\"What you do on your own time is your business.\""
+    wi "“你在自己的时间想做什么都随你。”"
+
+# game/williamroute3.rpy:6306
+translate Schinese updatemarcy_7bf3beae:
+
+    # to "\"So you ain’t gonna report what happened?\""
+    to "“所以你不会上报了？”"
+
+# game/williamroute3.rpy:6307
+translate Schinese updatemarcy_db9c52b8:
+
+    # wi "\"Frankly, I should, were the consequences measured.\""
+    wi "“说实话，考虑到事件的影响，我应该上报。”"
+
+# game/williamroute3.rpy:6308
+translate Schinese updatemarcy_180ef21b:
+
+    # wi "\"But men have needs and it ain’t the rest of the world’s business.\""
+    wi "“但男人的需求这档事，天王老子来了也管不着。”"
+
+# game/williamroute3.rpy:6310
+translate Schinese updatemarcy_2dc53f97:
+
+    # wi "\"Don’t act stupid again, Todd. You alone should know better.\""
+    wi "“下不为例，Todd，你真该学聪明点了。”"
+
+# game/williamroute3.rpy:6312
+translate Schinese updatemarcy_9a5e7463:
+
+    # "Samuel droops his eyelids at me and smirks."
+    "Samuel垂下眼皮看着我，露出一脸坏笑。"
+
+# game/williamroute3.rpy:6313
+translate Schinese updatemarcy_3e954645:
+
+    # m "\"So what about me?\""
+    m "“那我呢？”"
+
+# game/williamroute3.rpy:6314
+translate Schinese updatemarcy_fe88487e:
+
+    # "Little bit of anger wells up in my belly."
+    "一丝怒火涌上心头。"
+
+# game/williamroute3.rpy:6316
+translate Schinese updatemarcy_e2c728f5:
+
+    # wi "\"You’re a whore, Sam.\""
+    wi "“你是个娼妓，Sam。”"
+
+# game/williamroute3.rpy:6317
+translate Schinese updatemarcy_1ad36003:
+
+    # wi "\"You’ll never know better.\""
+    wi "“永远学不乖。”"
+
+# game/williamroute3.rpy:6318
+translate Schinese updatemarcy_3dc2f68a:
+
+    # "He lets out a one-note laugh and mutters something under his breath."
+    "他干笑一声，嘴里嘟囔着什么。"
+
+# game/williamroute3.rpy:6319
+translate Schinese updatemarcy_f8cb05f9:
+
+    # wi "\"Take him back to the Hip and wash him up.\""
+    wi "“带他回Hip洗个澡。”"
+
+# game/williamroute3.rpy:6322
+translate Schinese updatemarcy_eadeefb9:
+
+    # wi "\"I’ve got a feeling it’s gonna be a while.\""
+    wi "“我有预感，你们得洗上一段时间了。”"
+
+# game/williamroute3.rpy:6327
+translate Schinese updatemarcy_a3f55f46:
+
+    # "I leave them there standing awkwardly on the dirt road and I make the long trek back into town."
+    "我留下他们尴尬地站在土路上，一个人走了回去。"
+
+# game/williamroute3.rpy:6328
+translate Schinese updatemarcy_293a3377:
+
+    # "Alone."
+    "一个人。"
+
+# game/williamroute3.rpy:6330
+translate Schinese updatemarcy_278cdefd:
+
+    # "I probably shouldn’t have said that to Sam."
+    "也许我不该这么对Sam。"
+
+# game/williamroute3.rpy:6331
+translate Schinese updatemarcy_19115fc3:
+
+    # "But I can’t say he didn’t deserve it."
+    "但话说回来，那是他自找的。"
+
+# game/williamroute3.rpy:6339
+translate Schinese updatemarcy_00daa69b:
+
+    # "Once I leave the cloying smell of that house behind me, the tension in my shoulders loosens up."
+    "一离开那栋散发着令人作呕气味的房子，我肩上的紧张感顿时轻了不少。"
+
+# game/williamroute3.rpy:6342
+translate Schinese updatemarcy_8dc0e58d:
+
+    # "The general store is probably closing up by now."
+    "一般的商店可能已经关门了。"
+
+# game/williamroute3.rpy:6343
+translate Schinese updatemarcy_5af00b88:
+
+    # "I can usually find Mr. Byrnes and his son there after hours."
+    "但我照样能找到Byrnes先生和他的儿子。"
+
+# game/williamroute3.rpy:6344
+translate Schinese updatemarcy_f1266b36:
+
+    # "As I walk on over I mull over the things I’m going to say, and how I’m going to approach this."
+    "我一边赶路，一边酝酿要说的话，以及该如何处理这件事。"
+
+# game/williamroute3.rpy:6346
+translate Schinese updatemarcy_0e70230f:
+
+    # "I knock on the front door with the back of my wrist."
+    "我用手背敲响前门。"
+
+# game/williamroute3.rpy:6349
+translate Schinese updatemarcy_e7e0ac4b:
+
+    # "Ralph greets me at the door."
+    "迎接我的是Ralph。"
+
+# game/williamroute3.rpy:6351
+translate Schinese updatemarcy_87c16c59:
+
+    # ra "\"Don’t you know it’s closing time?\""
+    ra "“看不见打烊了么？”"
+
+# game/williamroute3.rpy:6353
+translate Schinese updatemarcy_4f7d40a1:
+
+    # wi "\"It’s the sheriff.\""
+    wi "“我是治安官。”"
+
+# game/williamroute3.rpy:6355
+translate Schinese updatemarcy_fd9d9596:
+
+    # ra "\"And I don’t care if you’re George Albert the fifth.\""
+    ra "“你就是George Albert五世也不好使。”"
+
+# game/williamroute3.rpy:6357
+translate Schinese updatemarcy_d3ae3390:
+
+    # ra "\"We’re tired.\""
+    ra "“我们很累了。”"
+
+# game/williamroute3.rpy:6358
+translate Schinese updatemarcy_f7c3e1bf:
+
+    # ra "\"Come back tomorrow.\""
+    ra "“有事明天再说。”"
+
+# game/williamroute3.rpy:6360
+translate Schinese updatemarcy_093d02d6:
+
+    # "I smell the scent of shoe polish and lemons before I see Murdoch Byrnes at the door, giving me a curious look."
+    "鞋油与柠檬的香气飘进我的鼻孔，我望向来源：站在门口好奇地打量我的Murdoch Byrnes。"
+
+# game/williamroute3.rpy:6361
+translate Schinese updatemarcy_8b7b38e3:
+
+    # "It’s probably better that he came to the door and not his father."
+    "来的人不是他父亲，可能反而更好。"
+
+# game/williamroute3.rpy:6362
+translate Schinese updatemarcy_5854ab86:
+
+    # "He’s the one I work with most."
+    "他与我共事最多。"
+
+# game/williamroute3.rpy:6363
+translate Schinese updatemarcy_c142696c:
+
+    # mu "\"William?\""
+    mu "“William？”"
+
+# game/williamroute3.rpy:6365
+translate Schinese updatemarcy_32b39d3c:
+
+    # wi "\"Afternoon.\""
+    wi "“下午好。”"
+
+# game/williamroute3.rpy:6367
+translate Schinese updatemarcy_99791f3d:
+
+    # mu "\"This is a bit of a bad time.\""
+    mu "“你来的不凑巧。”"
+
+# game/williamroute3.rpy:6368
+translate Schinese updatemarcy_c7db2b4d:
+
+    # mu "\"We have our hands full.\""
+    mu "“我们正忙得不可开交。”"
+
+# game/williamroute3.rpy:6369
+translate Schinese updatemarcy_5c63dc0d:
+
+    # "I can tell by the sheen of his neck that he’s had a long day."
+    "从他脖子上的光泽可以看出，他度过了繁忙的一天。"
+
+# game/williamroute3.rpy:6370
+translate Schinese updatemarcy_a9554317:
+
+    # "Somehow I doubt it was anything like mine though."
+    "虽然我也没什么不同。"
+
+# game/williamroute3.rpy:6372
+translate Schinese updatemarcy_2b8523db:
+
+    # wi "\"I’m afraid it’s urgent.\""
+    wi "“事态紧急。”"
+
+# game/williamroute3.rpy:6373
+translate Schinese updatemarcy_46cd2b87:
+
+    # mu "\"How urgent?\""
+    mu "“有多急？”"
+
+# game/williamroute3.rpy:6376
+translate Schinese updatemarcy_f35ecd68:
+
+    # wi "\"Urgent enough to make a few arrests if I have to.\""
+    wi "“急到足以逮捕几个人，如果有必要的话。”"
+
+# game/williamroute3.rpy:6377
+translate Schinese updatemarcy_b2010b2f:
+
+    # "The rat glares and me and the fox’s eyebrows lift."
+    "老鼠怒视着我，狐狸则挑了挑眉。"
+
+# game/williamroute3.rpy:6379
+translate Schinese updatemarcy_68c013ce:
+
+    # wi "\"But I know you’re more reasonable than that.\""
+    wi "“要不是看在你讲道理的份上。”"
+
+# game/williamroute3.rpy:6380
+translate Schinese updatemarcy_6faf5980:
+
+    # wi "\"That urgent enough?\""
+    wi "“明白了么？”"
+
+# game/williamroute3.rpy:6381
+translate Schinese updatemarcy_f58f8bee:
+
+    # "Murdoch’s brow furrows in confusion."
+    "Murdoch不解地皱起眉头。"
+
+# game/williamroute3.rpy:6383
+translate Schinese updatemarcy_2e97126d:
+
+    # mu "\"Fine, come in.\""
+    mu "“好吧，请进。”"
+
+# game/williamroute3.rpy:6386
+translate Schinese updatemarcy_6af43e56:
+
+    # "The fox opens the door and the rat exhales."
+    "狐狸打开门，老鼠用鼻子喷了口气。"
+
+# game/williamroute3.rpy:6391
+translate Schinese updatemarcy_d7d3e0ef:
+
+    # wi "\"Take me somewhere we can talk where it’s just the two of us.\""
+    wi "“带我去一个没有外人的地方。”"
+
+# game/williamroute3.rpy:6393
+translate Schinese updatemarcy_495f6777:
+
+    # mu "\"The darkroom will work for that.\""
+    mu "“暗室就可以。”"
+
+# game/williamroute3.rpy:6395
+translate Schinese updatemarcy_a0a650d6:
+
+    # "I feel Ralph’s eyes on me as Murdoch walks me to a dinky little closet and opens the door."
+    "Murdoch带我来到一个小小的壁橱前，打开门。与此同时，我感觉Ralph目光始终盯着我的背。"
+
+# game/williamroute3.rpy:6398
+translate Schinese updatemarcy_f4a6a564:
+
+    # "It smells strongly of chemicals and him in here."
+    "这里弥漫着强烈的化学物质与他的气味。"
+
+# game/williamroute3.rpy:6399
+translate Schinese updatemarcy_143faf21:
+
+    # wi "\"Tell me where this is from?\""
+    wi "“知道这个的来源吗？”"
+
+# game/williamroute3.rpy:6400
+translate Schinese updatemarcy_cb42717d:
+
+    # "I pull out the cartridge I found on Marcy’s road."
+    "我掏出在Marcy家附近捡到的胶片盒。"
+
+# game/williamroute3.rpy:6402
+translate Schinese updatemarcy_8e6ebb1e:
+
+    # mu "\"That’s a Kodak film canister.\""
+    mu "“这是柯达产的胶片盒。”"
+
+# game/williamroute3.rpy:6403
+translate Schinese updatemarcy_462bd725:
+
+    # mu "\"The kind our store uses.\""
+    mu "“我们店也用这个牌子。”"
+
+# game/williamroute3.rpy:6405
+translate Schinese updatemarcy_b6d099d9:
+
+    # wi "\"The kind your camera uses, right?\""
+    wi "“也包括你用的，是不是？”"
+
+# game/williamroute3.rpy:6407
+translate Schinese updatemarcy_a2101a45:
+
+    # mu "\"Yes, but we have several.\""
+    mu "“是，但不止我一个人。”"
+
+# game/williamroute3.rpy:6409
+translate Schinese updatemarcy_c2701cf7:
+
+    # wi "\"Found it near Huxley Greene’s property in the woods by the road.\""
+    wi "“这是我在Huxley Greene家附近的树林里找到的。”"
+
+# game/williamroute3.rpy:6410
+translate Schinese updatemarcy_9fdcd535:
+
+    # wi "\"Can’t recall them having many pictures, or a camera for that matter.\""
+    wi "“我不记得他们喜好照片或相机。”"
+
+# game/williamroute3.rpy:6412
+translate Schinese updatemarcy_67d41ad7:
+
+    # mu "\"They’ve never purchased any photography, either.\""
+    mu "“他们从未购买过任何一张相片。”"
+
+# game/williamroute3.rpy:6414
+translate Schinese updatemarcy_ed36a61d:
+
+    # mu "\"At least not to my knowledge.\""
+    mu "“至少据我所知没有。”"
+
+# game/williamroute3.rpy:6415
+translate Schinese updatemarcy_069d1182:
+
+    # wi "\"Where were you the day of the poker game?\""
+    wi "“打扑克那天你在哪儿？”"
+
+# game/williamroute3.rpy:6417
+translate Schinese updatemarcy_115e4624:
+
+    # mu "\"I was at the store all day.\""
+    mu "“我一整天都在店里。”"
+
+# game/williamroute3.rpy:6419
+translate Schinese updatemarcy_df3d54b9:
+
+    # mu "\"Then I ate supper by myself before going over to Mr. Tibbits’ apartment.\""
+    mu "“然后独自吃了晚饭，接着去了Tibbits先生的公寓。”"
+
+# game/williamroute3.rpy:6420
+translate Schinese updatemarcy_ca507ce1:
+
+    # wi "\"You didn’t eat at home?\""
+    wi "“你没有在家里吃吗？”"
+
+# game/williamroute3.rpy:6422
+translate Schinese updatemarcy_453f4fbc:
+
+    # mu "\"Not since it wasn’t a Sunday or a special occasion, no.\""
+    mu "“没有。因为那天不是星期天，也不是什么特别的日子。”"
+
+# game/williamroute3.rpy:6424
+translate Schinese updatemarcy_4ce87170:
+
+    # "Based on when Jimmy had the gun, Huxley had to have it taken from him either past the afternoon of the riot, or any part of the day before the poker game."
+    "从Jimmy拿到枪的时间推断，Huxley的枪是从骚乱发生的下午，到牌局前一天的某个时候落入了某人之手。"
+
+# game/williamroute3.rpy:6425
+translate Schinese updatemarcy_e9db194c:
+
+    # "That’s not a long time for somebody to get killed and have their gun taken from them."
+    "谋杀加上抢夺枪支，这时间算短的了。"
+
+# game/williamroute3.rpy:6426
+translate Schinese updatemarcy_36f7e1ae:
+
+    # "I saw Murdoch most of Thursday."
+    "周四，Murdoch基本没离开我的视线。"
+
+# game/williamroute3.rpy:6427
+translate Schinese updatemarcy_1fb83ee5:
+
+    # "I didn’t see him at all on Friday before the poker game though."
+    "不过周五，在牌局之前，我压根没见过他。"
+
+# game/williamroute3.rpy:6428
+translate Schinese updatemarcy_4704f599:
+
+    # "He’s clean, unless he’s lying."
+    "他是清白的，除非他在撒谎。"
+
+# game/williamroute3.rpy:6429
+translate Schinese updatemarcy_78f78b91:
+
+    # "I have to wonder if that’s the case."
+    "我不得不怀疑这种可能。"
+
+# game/williamroute3.rpy:6430
+translate Schinese updatemarcy_edc2c619:
+
+    # "Or if he’s covering for any of his family."
+    "又或者，他在为他的家人打掩护。"
+
+# game/williamroute3.rpy:6431
+translate Schinese updatemarcy_8a11403b:
+
+    # wi "\"So you didn’t see your parents on Friday night?\""
+    wi "“那么周五晚上，你有没有见到你的父母？”"
+
+# game/williamroute3.rpy:6433
+translate Schinese updatemarcy_49cc4804:
+
+    # mu "\"I didn’t.\""
+    mu "“没有见到。”"
+
+# game/williamroute3.rpy:6434
+translate Schinese updatemarcy_1ca808fa:
+
+    # wi "\"Or on Thursday, after all of the excitement?\""
+    wi "“周四我们分开后呢？”"
+
+# game/williamroute3.rpy:6435
+translate Schinese updatemarcy_be8acbba:
+
+    # mu "\"No.\""
+    mu "“没有。”"
+
+# game/williamroute3.rpy:6438
+translate Schinese updatemarcy_2eacdb37:
+
+    # "He winces as he rolls his neck."
+    "他摇头的时候皱了下眉。"
+
+# game/williamroute3.rpy:6439
+translate Schinese updatemarcy_f7d02c07:
+
+    # wi "\"How’s your shoulder?\""
+    wi "“你的肩膀还好吗？”"
+
+# game/williamroute3.rpy:6440
+translate Schinese updatemarcy_e91bdd97:
+
+    # mu "\"It stings still.\""
+    mu "“还是有点痛。”"
+
+# game/williamroute3.rpy:6441
+translate Schinese updatemarcy_799d8891:
+
+    # wi "\"You redressing it every day?\""
+    wi "“有没有坚持做康复训练？”"
+
+# game/williamroute3.rpy:6444
+translate Schinese updatemarcy_9334347b:
+
+    # mu "\"Is there something you’re trying to get at with this?\""
+    mu "“你问这问题是想怎样？”"
+
+# game/williamroute3.rpy:6445
+translate Schinese updatemarcy_be211f9a:
+
+    # mu "\"I thought you said this was urgent.\""
+    mu "“我记得你的原话是‘事态紧急’。”"
+
+# game/williamroute3.rpy:6447
+translate Schinese updatemarcy_e26889fc:
+
+    # wi "\"I needed somewhere nobody would listen.\""
+    wi "“因为我需要防范隔墙有耳。”"
+
+# game/williamroute3.rpy:6449
+translate Schinese updatemarcy_1439d779:
+
+    # mu "\"I don’t like being scared like that.\""
+    mu "“我不喜欢被你这样子恐吓。”"
+
+# game/williamroute3.rpy:6451
+translate Schinese updatemarcy_5270d2bd:
+
+    # wi "\"...I’m sorry.\""
+    wi "“...抱歉。”"
+
+# game/williamroute3.rpy:6452
+translate Schinese updatemarcy_b3ffcaa2:
+
+    # wi "\"Today has been too much.\""
+    wi "“今天发生太多事了。”"
+
+# game/williamroute3.rpy:6454
+translate Schinese updatemarcy_d6d05fbb:
+
+    # mu "\"You’re forgiven, then.\""
+    mu "“那么，我原谅你了。”"
+
+# game/williamroute3.rpy:6456
+translate Schinese updatemarcy_f67465b6:
+
+    # wi "\"And I had to go through a lot to get this far.\""
+    wi "“我找了很久才找到这里。”"
+
+# game/williamroute3.rpy:6457
+translate Schinese updatemarcy_0e17288b:
+
+    # wi "\"Who in your family drives the company carriage?\""
+    wi "“你们家的拉客的马车是谁在开？”"
+
+# game/williamroute3.rpy:6459
+translate Schinese updatemarcy_0dedebb4:
+
+    # mu "\"Mostly my father.\""
+    mu "“一般是我的父亲。”"
+
+# game/williamroute3.rpy:6461
+translate Schinese updatemarcy_17544ee2:
+
+    # mu "\"Sometimes my mother.\""
+    mu "“有时是我的母亲。”"
+
+# game/williamroute3.rpy:6463
+translate Schinese updatemarcy_37fb06eb:
+
+    # wi "\"How about your sisters?\""
+    wi "“你的姐妹们呢？”"
+
+# game/williamroute3.rpy:6465
+translate Schinese updatemarcy_84a9a44f:
+
+    # mu "\"Holly’s taken it on joyrides before, but she’s not supposed to.\""
+    mu "“Holly只在游乐园里体验过观光马车，开恐怕还不行。”"
+
+# game/williamroute3.rpy:6467
+translate Schinese updatemarcy_3cf58e22:
+
+    # wi "\"Do you know where any of your family had been on those two nights?\""
+    wi "“那你知道他们在那两晚都去了哪吗？”"
+
+# game/williamroute3.rpy:6469
+translate Schinese updatemarcy_90987370:
+
+    # mu "\"I have my guess, but no.\""
+    mu "“我有我的猜测，但也只是猜测。”"
+
+# game/williamroute3.rpy:6470
+translate Schinese updatemarcy_c3d2a120:
+
+    # mu "\"Past six o’clock, my life is mine.\""
+    mu "“毕竟一过六点，我的人生就自由了。”"
+
+# game/williamroute3.rpy:6472
+translate Schinese updatemarcy_3763c887:
+
+    # mu "\"If I ran into them before all of that they’d have favors and chores for me, and I try keep that all to the workday.\""
+    mu "“我会尽量把他们交待的杂务留在工作时间。”"
+
+# game/williamroute3.rpy:6474
+translate Schinese updatemarcy_bca384dc:
+
+    # mu "\"Although...\""
+    mu "“不过嘛...”"
+
+# game/williamroute3.rpy:6475
+translate Schinese updatemarcy_05193031:
+
+    # wi "\"Don’t keep me waiting, fox.\""
+    wi "“别卖关子了，狐狸。”"
+
+# game/williamroute3.rpy:6477
+translate Schinese updatemarcy_54174006:
+
+    # mu "\"Cordelia Hendricks threw a party on Thursday night.\""
+    mu "“Cordelia Hendricks在周四晚上举办了一个宴会。”"
+
+# game/williamroute3.rpy:6479
+translate Schinese updatemarcy_67cd1929:
+
+    # mu "\"I saw the invitation.\""
+    mu "“我看到邀请函了。”"
+
+# game/williamroute3.rpy:6483
+translate Schinese updatemarcy_328d8e12:
+
+    # "Interesting."
+    "有趣。"
+
+# game/williamroute3.rpy:6484
+translate Schinese updatemarcy_e5782886:
+
+    # "Is this all leading back to the Hendricks mansion?"
+    "所有线索都指向Hendricks的庄园？"
+
+# game/williamroute3.rpy:6485
+translate Schinese updatemarcy_5fafbc1d:
+
+    # "Now I have to check in on that next."
+    "看来我得走一遭了。"
+
+# game/williamroute3.rpy:6486
+translate Schinese updatemarcy_8c5803e2:
+
+    # "No doubt in my mind."
+    "毫无疑问。"
+
+# game/williamroute3.rpy:6487
+translate Schinese updatemarcy_135bcc4d:
+
+    # "Not looking forward to talking to that prick again so soon."
+    "没想到这么快就又要跟那个混蛋打交道了。"
+
+# game/williamroute3.rpy:6488
+translate Schinese updatemarcy_7704b409:
+
+    # wi "\"Do you know who attended this party?\""
+    wi "“出席宴会的都有谁？”"
+
+# game/williamroute3.rpy:6490
+translate Schinese updatemarcy_b01adcef:
+
+    # mu "\"My mother for sure.\""
+    mu "“肯定有我母亲。”"
+
+# game/williamroute3.rpy:6493
+translate Schinese updatemarcy_a77ec66e:
+
+    # mu "\"Perhaps my father.\""
+    mu "“也许还有我父亲。”"
+
+# game/williamroute3.rpy:6495
+translate Schinese updatemarcy_bb813e42:
+
+    # mu "\"I’d have to ask my sisters if they did, though.\""
+    mu "“至于我的姐妹们，我得打听一下。”"
+
+# game/williamroute3.rpy:6496
+translate Schinese updatemarcy_2721a605:
+
+    # mu "\"I don’t know.\""
+    mu "“我就知道这么多。”"
+
+# game/williamroute3.rpy:6498
+translate Schinese updatemarcy_6abf2b1a:
+
+    # wi "\"I have just a few more questions...\""
+    wi "“我还有几个问题...”"
+
+# game/williamroute3.rpy:6500
+translate Schinese updatemarcy_82f4ca59:
+
+    # grunk "\"If you have more questions, then you should be asking me.\""
+    grunk "“你有问题可以直接来问我。”"
+
+# game/williamroute3.rpy:6572
+translate Schinese williamroute3b_094aef3e:
+
+    # gr "\"Something was bound to happen, sooner or later.\""
+    gr "“我们的员工在打烊时间也是很忙的。”"
+
+# game/williamroute3.rpy:6576
+translate Schinese williamroute3b_baf48628:
+
+    # wi "\"And what gave you that impression?\""
+    wi "“你怎么会这么想？”"
+
+# game/williamroute3.rpy:6585
+translate Schinese williamroute3b_b806d3e4:
+
+    # gr "\"It’s too bad the law seldom does.\""
+    gr "“只可惜法律无能。”"
+
+# game/williamroute3.rpy:6604
+translate Schinese williamroute3b_cd5ae82e:
+
+    # gr "\"I’m glad the reaper got to him first, slow as you were to act.\""
+    gr "“值得庆幸的是，死神的动作没有你那么慢。”"
+
+# game/williamroute3.rpy:6614
+translate Schinese williamroute3b_ba1c8382:
+
+    # gr "\"They’d send the problems out the front gate of the village with nothing but the clothes on their backs and tell them ‘good luck’.\""
+    gr "“问题分子会被直接流放，全身上下除了衣物，就只有一句‘好运’。”"
+
+# game/williamroute3.rpy:6628
+translate Schinese williamroute3b_64c9d4a2:
+
+    # wi "\"She might not make for much longer, the state she’s in.\""
+    wi "“以现在的情况看，她可能撑不了多久了。”"
+
+# game/williamroute3.rpy:6634
+translate Schinese williamroute3b_e552e088:
+
+    # wi "\"I mean either she’s drugging herself, or somebody was doing it for her.\""
+    wi "“意思是她给自己下了药，或者某人替她开了药。”"
+
+# game/williamroute3.rpy:6636
+translate Schinese williamroute3b_9edf851d:
+
+    # wi "\"Her house is a wreck.\""
+    wi "“她的房子又脏又乱。”"
+
+# game/williamroute3.rpy:6637
+translate Schinese williamroute3b_3a9ecf74:
+
+    # wi "\"The bed she sleeps in is covered in rot and mildew.\""
+    wi "“床上长满了霉斑。”"
+
+# game/williamroute3.rpy:6640
+translate Schinese williamroute3b_3ed40642:
+
+    # gr "\"Where is she now?\""
+    gr "“她人在哪？”"
+
+# game/williamroute3.rpy:6642
+translate Schinese williamroute3b_c0aabe10:
+
+    # wi "\"Still at home as far as I know.\""
+    wi "“据我所知她在家里。”"
+
+# game/williamroute3.rpy:6654
+translate Schinese williamroute3b_9a05c6eb:
+
+    # mu "\"I’m not hiding anything, Will.\""
+    mu "“我没有隐瞒任何事啊，Will。”"
+
+# game/williamroute3.rpy:6660
+translate Schinese williamroute3b_21f5a54c:
+
+    # "But so did Cynthia."
+    "还有Cynthia。"
+
+# game/williamroute3.rpy:6667
+translate Schinese williamroute3b_8fe4886d:
+
+    # wi "\"Well, that’s for certain.\""
+    wi "“我很肯定。”"
+
+# game/williamroute3.rpy:6668
+translate Schinese williamroute3b_fa2f6e4a:
+
+    # wi "\"Doesn’t mean he’s trying to mess with my progress, though.\""
+    wi "“虽然不代表他会妨碍我就是了。”"
+
+# game/williamroute3.rpy:6674
+translate Schinese williamroute3b_187be4e1:
+
+    # wi "\"All I know is his real name ain’t Cliff, and he was brought into town to work on a project for James.\""
+    wi "“我只知道他的真名不叫Cliff，而且是被James雇来做一个项目的。”"
+
+# game/williamroute3.rpy:6677
+translate Schinese williamroute3b_f30641df:
+
+    # mu "\"The first part is strange.\""
+    mu "“名字这点确实有古怪。”"
+
+# game/williamroute3.rpy:6681
+translate Schinese williamroute3b_a7fe9ed6:
+
+    # wi "\"Like I said.\""
+    wi "“我说过了...”"
+
+# game/williamroute3.rpy:6691
+translate Schinese williamroute3b_b5e69c04:
+
+    # wi "\"You don’t even know ‘im.\""
+    wi "“你甚至都不认识他。”"
+
+# game/williamroute3.rpy:6696
+translate Schinese williamroute3b_370d6b8e:
+
+    # wi "\"See how that’s different?\""
+    wi "“明白其中的差别了吗？”"
+
+# game/williamroute3.rpy:6700
+translate Schinese williamroute3b_f2e8b084:
+
+    # wi "\"I wish you wouldn’t act like this ain’t a big deal.\""
+    wi "“别表现得好像没事人一样。”"
+
+# game/williamroute3.rpy:6702
+translate Schinese williamroute3b_bcb77a25:
+
+    # wi "\"If your shoulder gets infected, there’s no cutting it off or burning the sick away.\""
+    wi "“如果肩膀被感染，可就不是截肢或火疗能解决的了。”"
+
+# game/williamroute3.rpy:6705
+translate Schinese williamroute3b_8130124a:
+
+    # mu "\"Well, don’t get weepy on my account.\""
+    mu "“噢，不要为我掉眼泪。”"
+
+# game/williamroute3.rpy:6713
+translate Schinese williamroute3b_f95fc41c:
+
+    # mu "\"I doubt I could afford something so rare.\""
+    mu "“物以稀为贵，这我可买不起。”"
+
+# game/williamroute3.rpy:6729
+translate Schinese williamroute3b_fd4983df:
+
+    # mu "\"I just figured if we’re all going out to the Stag tomorrow night you’d enjoy yourself better if you talked to everybody else more.\""
+    mu "“希望你明晚在Stag里也可以这么畅所欲言。”"
+
+# game/williamroute3.rpy:6737
+translate Schinese williamroute3b_e7ae7191:
+
+    # "I feel the strain in my brow and the bristle at the back of my neck."
+    "我眉间跟后颈的皮肤都紧绷起来。"
+
+# game/williamroute3.rpy:6738
+translate Schinese williamroute3b_82fd99a3:
+
+    # wi "\"To be honest, I don’t even know if that’s happening tomorrow.\""
+    wi "“老实说，我明天不一定会去Stag。”"
+
+# game/williamroute3.rpy:6744
+translate Schinese williamroute3b_923d6c95:
+
+    # wi "\"Because today was exhausting and bore little fruit.\""
+    wi "“因为今天诸事不顺。”"
+
+# game/williamroute3.rpy:6745
+translate Schinese williamroute3b_de10d376:
+
+    # wi "\"There’s too much that I have to do right now if I don’t want to lose my trail.\""
+    wi "“我手头上攒了太多事了。”"
+
+# game/williamroute3.rpy:6746
+translate Schinese williamroute3b_34d60abe:
+
+    # "I’ve had difficult challenges."
+    "我经历过更糟的。"
+
+# game/williamroute3.rpy:6747
+translate Schinese williamroute3b_6dca6695:
+
+    # "Far more difficult."
+    "糟得多得多。"
+
+# game/williamroute3.rpy:6750
+translate Schinese williamroute3b_8fc85f4d:
+
+    # "If I’ve gotten a little rusty I need to shake it off, and quick."
+    "希望我还没有生疏。"
+
+# game/williamroute3.rpy:6756
+translate Schinese williamroute3b_a85d5152:
+
+    # "There’s a glimmer in his eye, but no facial tic or wrinkles."
+    "他眼中闪过一丝微光，但面部肌肉没有动弹。"
+
+# game/williamroute3.rpy:6761
+translate Schinese williamroute3b_3f90c8d8:
+
+    # mu "\"It’s not cheap in bulk, but that’s the only way to get it.\""
+    mu "“一大盒可不便宜，但我们不散卖。”"
+
+# game/williamroute3.rpy:6810
+translate Schinese williamroute3b_4a4038c5:
+
+    # "So now the question is--why him?"
+    "问题在于：为什么是他？"
+
+# game/williamroute3.rpy:6815
+translate Schinese williamroute3b_9313bfed:
+
+    # "Both?"
+    "抑或二者皆是？"
+
+# game/williamroute3.rpy:6876
+translate Schinese williamroute3b_bc3e8fb3:
+
+    # counk "\"James, dear, who’s that at the door?\""
+    counk "“James，亲爱的，是谁登门拜访了？”"
+
+# game/williamroute3.rpy:6902
+translate Schinese williamroute3b_f81e6a9a:
+
+    # wi "\"I don’t speak for others, generally.\""
+    wi "“我很少替别人说话。”"
+
+# game/williamroute3.rpy:6939
+translate Schinese williamroute3b_ab878d86:
+
+    # jam "\"Well, he’s the true lord of the manor.\""
+    jam "“他是我的祖父。”"
+
+# game/williamroute3.rpy:6954
+translate Schinese williamroute3b_6511e713:
+
+    # jam "\"Hardly surprising, considering you’d {i}have{/i} to be to get this many people to pack up their things and live here out in the middle of the desert in the first place.\""
+    jam "“这也难怪，毕竟他说服了那么多人整理行装，来这个大漠安家。”"
+
+# game/williamroute3.rpy:6960
+translate Schinese williamroute3b_efa71a70:
+
+    # jam "\"There’s a lot to tell.\""
+    jam "“能说的还真不少。”"
+
+# game/williamroute3.rpy:7200
+translate Schinese williamroute3b_0716c12d:
+
+    # wi "\"Antonelli was a deeply religious man.\""
+    wi "“Antonelli是一个虔诚的天主教徒。”"
+
+# game/williamroute3.rpy:8120
+translate Schinese postwillinvestigation2_ff6557dc:
+
+    # wi "\"Well, I know at least part of it was meant to bother me.\""
+    wi "“这肯定是其中一部分原因。”"
+
+# game/williamroute3.rpy:8528
+translate Schinese postwillinvestigation3_84f62772:
+
+    # "We get our distance as far away from that house as we can before we talk again."
+    "我们尽可能远离那栋房子，然后才开口说话。"
+
+# game/williamroute3.rpy:8531
+translate Schinese postwillinvestigation3_dea3f566:
+
+    # ni "\"Your son is dangerous, Will.\""
+    ni "“你的儿子是个危险人物，Will。”"
+
+# game/williamroute3.rpy:8533
+translate Schinese postwillinvestigation3_4ebf809c:
+
+    # wi "\"He was fucking with us.\""
+    wi "“他在耍我们。”"
+
+# game/williamroute3.rpy:8535
+translate Schinese postwillinvestigation3_f3c87769:
+
+    # "Nik {nw}"
+    "Nik{nw}"
+
+# game/williamroute3.rpy:8537
+translate Schinese postwillinvestigation3_dc2306e7:
+
+    # extend "blinks."
+    extend "眨了眨眼。"
+
+# game/williamroute3.rpy:8539
+translate Schinese postwillinvestigation3_2a09226f:
+
+    # ni "\"Does that change what I said?\""
+    ni "“这和我说的话有矛盾吗？”"
+
+# game/williamroute3.rpy:8541
+translate Schinese postwillinvestigation3_65149f6c:
+
+    # wi "\"...I think if he really wanted to hit us we wouldn’t be walking right now.\""
+    wi "“...要是他来真的，我们就不会站在这了。”"
+
+# game/williamroute3.rpy:8542
+translate Schinese postwillinvestigation3_90aa310a:
+
+    # wi "\"He’s his own man now, Nik.\""
+    wi "“他有他自己的想法，Nik。”"
+
+# game/williamroute3.rpy:8543
+translate Schinese postwillinvestigation3_56346d28:
+
+    # wi "\"You sayin’ I should talk to him?\""
+    wi "“你说我该不该和他谈谈？”"
+
+# game/williamroute3.rpy:8545
+translate Schinese postwillinvestigation3_778bb2bc:
+
+    # ni "\"I would say so if he didn’t have a gun.\""
+    ni "“我本来想说是，如果他没拿着枪的话。”"
+
+# game/williamroute3.rpy:8546
+translate Schinese postwillinvestigation3_535f8a86:
+
+    # ni "\"...Does his mother have any sway?\""
+    ni "“...他听他妈妈的话吗？”"
+
+# game/williamroute3.rpy:8548
+translate Schinese postwillinvestigation3_2b5d0fd1:
+
+    # wi "\"Some.\""
+    wi "“差不多吧。”"
+
+# game/williamroute3.rpy:8549
+translate Schinese postwillinvestigation3_ac48afa3:
+
+    # wi "\"After all, she’s why he has a roof over his head.\""
+    wi "“毕竟是她给了他一个家。”"
+
+# game/williamroute3.rpy:8550
+translate Schinese postwillinvestigation3_d329dc9b:
+
+    # wi "\"He says he plans to go, but the fact that he hasn’t already lends some credence to the idea that she can convince him to behave.\""
+    wi "“他说他打算参军，但事实上还没有，所以我相信她能教育好他。”"
+
+# game/williamroute3.rpy:8552
+translate Schinese postwillinvestigation3_cae414ea:
+
+    # ni "\"Have her do that.\""
+    ni "“那就交给她吧。”"
+
+# game/williamroute3.rpy:8555
+translate Schinese postwillinvestigation3_6fd74cb8:
+
+    # ni "\"Preferably in a room with closed walls and no windows\""
+    ni "“最好是在一间封闭的、没有窗户的房间里。”"
+
+# game/williamroute3.rpy:8557
+translate Schinese postwillinvestigation3_249a2a6b:
+
+    # "I force a toothy grin to let him know how much of a hilarious, comic genius he is."
+    "我勉强一笑，表示他是个万中无一的喜剧天才。"
+
+# game/williamroute3.rpy:8558
+translate Schinese postwillinvestigation3_7a9ae254:
+
+    # "But he lets the insult roll off his back."
+    "但他对我的讽刺毫不在意。"
+
+# game/williamroute3.rpy:8560
+translate Schinese postwillinvestigation3_d7532803:
+
+    # ni "\"Would you like me to walk you back to the brothel?\""
+    ni "“你想让我送你回妓院吗？”"
+
+# game/williamroute3.rpy:8562
+translate Schinese postwillinvestigation3_b211fad0:
+
+    # wi "\"Who says I’m going back to the brothel?\""
+    wi "“谁说我要回妓院了？”"
+
+# game/williamroute3.rpy:8564
+translate Schinese postwillinvestigation3_cb81527d:
+
+    # ni "\"Because that’s where you always go.\""
+    ni "“因为你总去那。”"
+
+# game/williamroute3.rpy:8566
+translate Schinese postwillinvestigation3_1200a7cc:
+
+    # wi "\"Well, no thank you.\""
+    wi "“谢谢，你的好意我心领了。”"
+
+# game/williamroute3.rpy:8567
+translate Schinese postwillinvestigation3_30b780f9:
+
+    # wi "\"I have to compare some notes with Sam anyway.\""
+    wi "“我得跟Sam交换一下意见。”"
+
+# game/williamroute3.rpy:8569
+translate Schinese postwillinvestigation3_98e6b48e:
+
+    # ni "\"No matter.\""
+    ni "“别客气。”"
+
+# game/williamroute3.rpy:8570
+translate Schinese postwillinvestigation3_7577b58f:
+
+    # ni "\"I need shower anyway.\""
+    ni "“正好我想洗个澡。”"
+
+# game/williamroute3.rpy:8572
+translate Schinese postwillinvestigation3_6520cf5c:
+
+    # ni "\"I’ll show up at Saguaro’s Hip in several hours.\""
+    ni "“我们几个小时后在Saguaro’s Hip见。”"
+
+# game/williamroute3.rpy:8574
+translate Schinese postwillinvestigation3_40f58988:
+
+    # "I tell him that this is fine, wanting to focus on my leads."
+    "我口头上答应下来，心思则集中在线索上。"
+
+# game/williamroute3.rpy:8576
+translate Schinese postwillinvestigation3_bced0554:
+
+    # "The more people I talk to, the more I’m convinced that the murder has something to do with the party that was held at the Hendricks’ manor on Thursday."
+    "随着调查深入，我越来越确信这起杀人案与周四在Hendricks庄园举行的派对有关。"
+
+# game/williamroute3.rpy:8577
+translate Schinese postwillinvestigation3_f78d68ff:
+
+    # "And that’s enough of a breakthrough to make me feel like I’m getting somewhere."
+    "案情终于迎来了突破。"
+
+# game/williamroute3.rpy:8587
+translate Schinese postwillinvestigation3_554be37a:
+
+    # "William’s been gone more than a few hours."
+    "William已经离开几个多小时了。"
+
+# game/williamroute3.rpy:8588
+translate Schinese postwillinvestigation3_146f847e:
+
+    # "I know he’s fine on his own, but, I can’t help but wonder if he’s pushing himself too hard."
+    "我知道他是个独行侠，却还是觉得他把自己逼太紧了。"
+
+# game/williamroute3.rpy:8589
+translate Schinese postwillinvestigation3_6b15ff44:
+
+    # "I know he’s not old, but he {i}ain’t{/i} that young, neither."
+    "他虽然不老，但也{b}不再{/b}年轻。"
+
+# game/williamroute3.rpy:8590
+translate Schinese postwillinvestigation3_c93a8734:
+
+    # "I’m down in the washroom, stripping off my shirt."
+    "我在楼下的洗手间里脱掉上衣。"
+
+# game/williamroute3.rpy:8591
+translate Schinese postwillinvestigation3_fccef683:
+
+    # "I can’t help but shudder."
+    "我忍不住打了个寒颤。"
+
+# game/williamroute3.rpy:8592
+translate Schinese postwillinvestigation3_d3c0e0ea:
+
+    # "Being in that awful house makes my skin crawl."
+    "那恐怖的房子让我浑身起鸡皮疙瘩。"
+
+# game/williamroute3.rpy:8593
+translate Schinese postwillinvestigation3_1dc0f379:
+
+    # "It’s like somethin’ in the air there was {i}sticky{/i}, and I want to scrub it off my clothes and my body."
+    "空气中仿佛弥漫着某种{b}粘稠{/b}的东西，我必须把自己清理干净。"
+
+# game/williamroute3.rpy:8594
+translate Schinese postwillinvestigation3_14181f67:
+
+    # "I swirl my dirty clothes with the wooden paddle and hear them simmer in the boiling water."
+    "我用木桨搅动着脏衣服，听它们在开水里被煮沸。"
+
+# game/williamroute3.rpy:8595
+translate Schinese postwillinvestigation3_4adf931c:
+
+    # "Cynthia shows up in the middle of this with a bundle of her own."
+    "Cynthia带着她自己的一堆衣服走了进来。"
+
+# game/williamroute3.rpy:8597
+translate Schinese postwillinvestigation3_6a50c7bc:
+
+    # cy "\"I know you like to keep yourself immaculate, Sam, but weren’t you down here just yesterday?\""
+    cy "“知道你有洁癖，Sam，可你昨天不是才刚洗过吗？”"
+
+# game/williamroute3.rpy:8598
+translate Schinese postwillinvestigation3_3a48187c:
+
+    # m "\"Marcy’s house is {i}disgusting{/i}.\""
+    m "“Marcy家{b}恶心死了{/b}。”"
+
+# game/williamroute3.rpy:8599
+translate Schinese postwillinvestigation3_47ed5058:
+
+    # m "\"I don’t want to drag anything back into my room.\""
+    m "“我可不想把什么不干净的玩意带回来。”"
+
+# game/williamroute3.rpy:8601
+translate Schinese postwillinvestigation3_49846d95:
+
+    # cy "\"Well, that’s not much like her.\""
+    cy "“哎，不会吧。”"
+
+# game/williamroute3.rpy:8602
+translate Schinese postwillinvestigation3_7c95c7a1:
+
+    # cy "\"She’s the biggest homebody I know.\""
+    cy "“她是我见过的最恋家的人了。”"
+
+# game/williamroute3.rpy:8604
+translate Schinese postwillinvestigation3_8f5e1e81:
+
+    # m "\"Well maybe some{i}body{/i} needs to get her out of that {i}home{/i} because it’s covered in mold and dust and all these unfinished crafts.\""
+    m "“也许得有{b}人{/b}把她从那个{b}家{/b}里弄出来，因为那里到处都是霉菌和灰尘，还有老些没做完的手工艺品。”"
+
+# game/williamroute3.rpy:8606
+translate Schinese postwillinvestigation3_da244e0f:
+
+    # cy "\"She’s not {i}dirty{/i}, Sam.\""
+    cy "“哪有那么{b}夸张{/b}，Sam。”"
+
+# game/williamroute3.rpy:8608
+translate Schinese postwillinvestigation3_25eed875:
+
+    # m "\"If she wasn’t, she is now.\""
+    m "“现在有了。”"
+
+# game/williamroute3.rpy:8609
+translate Schinese postwillinvestigation3_e120a815:
+
+    # m "\"You wouldn’t believe the state of that place.\""
+    m "“不亲自过去一趟，你都想象不到那地方有多脏。”"
+
+# game/williamroute3.rpy:8610
+translate Schinese postwillinvestigation3_7a9b5bd2:
+
+    # "Out of the corner of my eye, somebody big walks by the frame of the door."
+    "我用眼角余光瞥到门口有一个高个子。"
+
+# game/williamroute3.rpy:8612
+translate Schinese postwillinvestigation3_fde814d4:
+
+    # "I feel a little relieved seeing that it’s Will, who for some reason looks even dustier than before we went into Marcy’s place."
+    "发现是Will后，我稍微松了口气。不知道为什么，他看起来比我们去Marcy家之前还要灰头土脸。"
+
+# game/williamroute3.rpy:8617
+translate Schinese postwillinvestigation3_6a0c3791:
+
+    # "He stops talking when he sees Cynthia still scrubbing the grime out of our clothes, glaring at him."
+    "见自己被正在揉搓脏衣服的Cynthia瞪着，他闭上了嘴巴。"
+
+# game/williamroute3.rpy:8646
+translate Schinese postwillinvestigation3_59eaa09b:
+
+    # m "\"...it looks like the two of you should talk.\""
+    m "“...你们两个慢慢聊。”"
+
+# game/williamroute3.rpy:8666
+translate Schinese postwillinvestigation3_01bdf168:
+
+    # cy "\"He goes off with you and comes home stressed out and covered in grime, Mr. Adler.\""
+    cy "“他好端端的跟着你走了，满身是脏的回来，还紧张兮兮的，Adler先生。”"
+
+# game/williamroute3.rpy:8683
+translate Schinese postwillinvestigation3_077e15c6:
+
+    # cy "\"I knew you weren’t as smart as people think you are, but do you really think I’m just mad about Sam?\""
+    cy "“我知道你没有大家想的那么精明，但你真以为我生气只是因为Sam吗？”"
+
+# game/williamroute3.rpy:8684
+translate Schinese postwillinvestigation3_75b612dd:
+
+    # cy "\"\"Did you even care about what Marcy must be going through?\""
+    cy "“你到底在不在乎Marcy的事？”"
+
+# game/williamroute3.rpy:8689
+translate Schinese postwillinvestigation3_f7c320de:
+
+    # cy "\"That man gloated day and night about controlling Marcy’s entire life and I don’t see you getting involved until things are far worse than they should be.\""
+    cy "“那男的成天到晚都在对Marcy幸灾乐祸，限制她的生活，你却没有任何表示。”"
+
+# game/williamroute3.rpy:8691
+translate Schinese postwillinvestigation3_ddf33df6:
+
+    # wi "\"If I had to bring every married man in town just for being too unbecoming with his wife in public, town hall would dismiss me on the spot.\""
+    wi "“如果要我把所有在公共场合贬低妻子的已婚男人都抓起来，恐怕我当场就会被镇公所革职了。”"
+
+# game/williamroute3.rpy:8693
+translate Schinese postwillinvestigation3_b97da543:
+
+    # wi "\"That’s the kind of stuff that gets you a dagger against your neck in the middle of the night.\""
+    wi "“被人挟怨报复也不是没有可能。”"
+
+# game/williamroute3.rpy:8695
+translate Schinese postwillinvestigation3_baf606bb:
+
+    # cy "\"Then how about you spying on all of us and using our private lives for who-knows-what seedy purpose?\""
+    cy "“那你监视我们的私生活，是有什么不可告人的目的？”"
+
+# game/williamroute3.rpy:8754
+translate Schinese postwillinvestigation3_c12f5ace:
+
+    # wi "\"If there’s anything you can share with me about her or James Hendricks, then it can help me.\""
+    wi "“如果你有关于她或James Hendricks的情报，就再好不过了。”"
+
+# game/williamroute3.rpy:8802
+translate Schinese postwillinvestigation3_aa047f7c:
+
+    # cy "\"I almost left the brothel right then and there, that night.\""
+    cy "“我当晚差点直接离家出走了。”"
+
+# game/williamroute3.rpy:8804
+translate Schinese postwillinvestigation3_b1399e09:
+
+    # cy "\"But then I think about how I don’t have anywhere to go back to other than Camp Rosa or the reservation.\""
+    cy "“但除了罗莎营区和保留地外，我无处可去。”"
+
+# game/williamroute3.rpy:8822
+translate Schinese postwillinvestigation3_fdebd3b1:
+
+    # cy "\"For now, he’s my biggest problem.\""
+    cy "“现如今，他是我的一生之敌。”"
+
+# game/williamroute3.rpy:8974
+translate Schinese williamroute3c_91097dc0:
+
+    # cl "\"Well, if money’s the issue, then {i}I’ll{/i} buy the drink.\""
+    cl "“钱的问题由{b}我{/b}摆平。”"
+
+# game/williamroute3.rpy:8987
+translate Schinese williamroute3c_d8530c2d:
+
+    # wi "\"Listen, Miss Tsosie.\""
+    wi "“听我说，Tsosie小姐。”"
+
+# game/williamroute3.rpy:9007
+translate Schinese williamroute3c_4236f769:
+
+    # "She's seeing how far she can push the envelope..."
+    "她在试图挑战我的底线..."
+
+# game/williamroute3.rpy:9064
+translate Schinese williamroute3c_da56050f:
+
+    # wi "\"Those men’s loss.\""
+    wi "“那就是他们的损失了。”"
+
+# game/williamroute3.rpy:9331
+translate Schinese williamroute3c_62ebc2b4:
+
+    # m "\"Then in that case I suppose it depends.\""
+    m "“那就得看情况了。”"
+
+# game/williamroute3.rpy:9488
+translate Schinese williamroute3c_b82292c4:
+
+    # m "\"Sorry, I can’t exactly turn my feelings off like you can.\""
+    m "“对不起啊，我不能像你那样控制自己的情绪。”"
+
+# game/williamroute3.rpy:9490
+translate Schinese williamroute3c_464db963:
+
+    # wi "\"I meant that there’s a difference between what you need and what you want, when it comes to being backed into corners.\""
+    wi "“我的意思是，不能把需求跟要求混为一谈。”"
+
+# game/williamroute3.rpy:9619
+translate Schinese williamroute3c_f7ed4615:
+
+    # ha "\"You’re not usually one for bellyaching, Mr. Ayers.\""
+    ha "“我不常听见你吐苦水，Ayers先生。”"
+
+# game/williamroute3.rpy:10018
+translate Schinese williamroute3c_4cdca5af:
+
+    # m "\"It’s the desert, William.\""
+    m "“这里可是沙漠啊，William。”"
+
+# game/williamroute3.rpy:10059
+translate Schinese williamroute3c_3a7b84f8:
+
+    # wi "\"Did Marcy make it home?\""
+    wi "“Marcy回家了吗？”"
+
+# game/williamroute3.rpy:10064
+translate Schinese williamroute3c_07b00126:
+
+    # wi "\"If she comes off her sickness, she’ll probably have more to tell us.\""
+    wi "“如果她的病好了，我们应该能问出更多消息。”"
+
+# game/williamroute3.rpy:10065
+translate Schinese williamroute3c_b5cfa030:
+
+    # wi "\"We'll need to pay her a follow-up visit tomorrow.\""
+    wi "“我们明天有必要再去拜访一次。”"
+
+# game/williamroute3.rpy:10070
+translate Schinese williamroute3c_5b952796:
+
+    # wi "\"She's given us the lead we need to follow.\""
+    wi "“把线索挖出来。”"
+
+# game/williamroute3.rpy:10079
+translate Schinese williamroute3c_1dee0379:
+
+    # to "\"I, uh...\""
+    to "“我，呃...”"
+
+# game/williamroute3.rpy:10082
+translate Schinese williamroute3c_9a218ff2:
+
+    # to "\"I just wanted to say sorry again for what we...\""
+    to "“我想为我们今天...”"
+
+# game/williamroute3.rpy:10084
+translate Schinese williamroute3c_1d9284b1:
+
+    # "Sam scowls at him."
+    "Sam瞪了他一眼。"
+
+# game/williamroute3.rpy:10086
+translate Schinese williamroute3c_29ca22d1:
+
+    # to "\"For what I did today.\""
+    to "“为我今天的行为道歉。”"
+
+# game/williamroute3.rpy:10088
+translate Schinese williamroute3c_1819de5a:
+
+    # to "\"It really, really won't happen--\""
+    to "“我保证绝对不会有-”"
+
+# game/williamroute3.rpy:10090
+translate Schinese williamroute3c_dfb4e5ff:
+
+    # wi "\"Save your breath.\""
+    wi "“省省吧。”"
+
+# game/williamroute3.rpy:10091
+translate Schinese williamroute3c_77100bfa:
+
+    # wi "\"There's no need to worry about that now.\""
+    wi "“现在不是担心那个的时候。”"
+
+# game/williamroute3.rpy:10093
+translate Schinese williamroute3c_99319ce0:
+
+    # to "\"Well, I just mean...\""
+    to "“唔，我的意思是...”"
+
+# game/williamroute3.rpy:10094
+translate Schinese williamroute3c_f6cae12f:
+
+    # to "\"I was in a pretty good mood, because I thought things were going to be better for her from now on.\""
+    to "“我当时心情很好，因为我觉得从今往后她不必再过苦日子了。”"
+
+# game/williamroute3.rpy:10095
+translate Schinese williamroute3c_d605dcc4:
+
+    # to "\"I don't think I gave it as much attention as I maybe should have.\""
+    to "“是我一时疏忽大意。”"
+
+# game/williamroute3.rpy:10097
+translate Schinese williamroute3c_d95499e0:
+
+    # to "\"I just got carried away since...\""
+    to "“有些忘乎所以...”"
+
+# game/williamroute3.rpy:10099
+translate Schinese williamroute3c_2d4c5d18:
+
+    # to "\"I mean I had never...\""
+    to "“我从来没有想要...”"
+
+# game/williamroute3.rpy:10100
+translate Schinese williamroute3c_e28d5ab7_1:
+
+    # to "\"For now.\""
+    to "“至少现在没有。”"
+
+# game/williamroute3.rpy:10102
+translate Schinese williamroute3c_e737db72:
+
+    # "He looks at Sam."
+    "他看向Sam。"
+
+# game/williamroute3.rpy:10103
+translate Schinese williamroute3c_bb0aaa36:
+
+    # to "\"And the two of you, well.\""
+    to "“那你们两个呢？”"
+
+# game/williamroute3.rpy:10104
+translate Schinese williamroute3c_833bafda:
+
+    # wi "\"Well, what?\""
+    wi "“我们两个怎么？”"
+
+# game/williamroute3.rpy:10105
+translate Schinese williamroute3c_1a567ff0:
+
+    # "He looked between me and Sam again."
+    "他又看了看我和Sam。"
+
+# game/williamroute3.rpy:10106
+translate Schinese williamroute3c_08acdedc:
+
+    # to "\"Well, you know...\""
+    to "“嗯，就是...”"
+
+# game/williamroute3.rpy:10108
+translate Schinese williamroute3c_ce74e46d:
+
+    # "He clears his throat and slicks down the fur on his forehead, as if searching for a way to change the subject."
+    "他摆弄着额头上的毛，清了清嗓子，好像在想办法转移话题。"
+
+# game/williamroute3.rpy:10110
+translate Schinese williamroute3c_a9a4143a:
+
+    # to "\"Either way.\""
+    to "“没什么。”"
+
+# game/williamroute3.rpy:10133
+translate Schinese williamroute3c_400b3e76:
+
+    # to "\"I’m just real concerned about her, is all!\""
+    to "“我只是太担心她了，仅此而已！”"
+
+# game/williamroute3.rpy:10149
+translate Schinese williamroute3c_60b0f886:
+
+    # m "\"There's no chance you knew she was taking that medicine, did you?\""
+    m "“你不会早就知道她在吃那种药了吧？”"
+
+# game/williamroute3.rpy:10239
+translate Schinese williamroute3c_cb951300:
+
+    # ni "\"Oh, lighten up, Sam.\""
+    ni "“高兴点嘛Sam。”"
+
+# game/williamroute3.rpy:10249
+translate Schinese williamroute3c_e5338ad0:
+
+    # ni "\"Well, I usually come here first to get Sam.\""
+    ni "“我来这儿一般是为了找Sam。”"
+
+# game/williamroute3.rpy:10322
+translate Schinese williamroute3c_2f9c338d:
+
+    # ni "\"Looks like you’ll be coming with us tonight, after all?\""
+    ni "“看来你难免要跑这一趟了？”"
+
+# game/williamroute3.rpy:10367
+translate Schinese williamroute3c_c8767aa0:
+
+    # to "\"I’m sure he wouldn’t be mad at us forever just for a little bit of indecency here and there.\""
+    to "“我相信祂不会因为偶尔的下流而永远迁怒于我们的。”"
+
+# game/williamroute3.rpy:10373
+translate Schinese williamroute3c_6354802c:
+
+    # to "\"Well, I just thought about it for a spell.\""
+    to "“我只是想一下而已嘛。”"
+
+# game/williamroute3.rpy:10423
+translate Schinese williamroute3c_bdccbb82:
+
+    # wi "\"Want to join me, Nik?\""
+    wi "“一起来吗，Nik？”"
+
+# game/williamroute3.rpy:10476
+translate Schinese williamroute3c_db49f957:
+
+    # "And I don’t even want to think about getting entangled with whatever his mother gets up to."
+    "更何况我一点儿也不想跟他母亲扯上关系。"
+
+# game/williamroute3.rpy:10531
+translate Schinese williamroute3c_21530902:
+
+    # mu "\"Or aesthetic ones, for the photographs.\""
+    mu "“更别说拍照相关的了。”"
+
+# game/williamroute3.rpy:10563
+translate Schinese williamroute3c_fa50c1f9:
+
+    # mu "\"And God knows I get enough interest that I can be.\""
+    mu "“也没多少留恋。”"
+
+# game/williamroute3.rpy:10566
+translate Schinese williamroute3c_913e02a5:
+
+    # wi "\"Keep the details near and dear to your heart, if you don’t mind.\""
+    wi "“细节还是藏你心里就好了。”"
+
+# game/williamroute3.rpy:10573
+translate Schinese williamroute3c_22a061f0:
+
+    # mu "\"Somebody as vicious as you would probably split me open, but I think I’d enjoy it while it lasts.\""
+    mu "“你这种程度的怕不是会把我撕成两半，但我在做的时候会很享受吧。”"
+
+# game/williamroute3.rpy:10584
+translate Schinese williamroute3c_527c346e:
+
+    # mu "\"But we were at it three times yesterday.\""
+    mu "“可我们昨天都做了三次了。”"
+
+# game/williamroute3.rpy:10586
+translate Schinese williamroute3c_e02044ea:
+
+    # wi "\"I’m very happy for you, Mr. Byrnes.\""
+    wi "“恭喜你啊，Byrnes先生。”"
+
+# game/williamroute3.rpy:10602
+translate Schinese williamroute3c_9f03e3a4:
+
+    # wi "\"Well, I also don’t want to die of embarrassment before the conspirators come for me.\""
+    wi "“我可不想在被幕后黑手杀死前先丢脸而死。”"
+
+# game/williamroute3.rpy:10608
+translate Schinese williamroute3c_06010525:
+
+    # mu "\"And his profession is particularly applicable to these sorts of things, more than mine.\""
+    mu "“更别提他专攻你想了解的那方面。”"
+
+# game/williamroute3.rpy:10609
+translate Schinese williamroute3c_6a20a80d_2:
+
+    # "I shake my head."
+    "我摇了摇头。"
+
+# game/williamroute3.rpy:10620
+translate Schinese williamroute3c_0192805b:
+
+    # mu "\"Second thing I’m doing is finding which room Mr. Tibbits is in so nobody going to strangles him with a makeshift noose made of stockings.\""
+    mu "“再去找Tibbits先生的房间，以防他被谁随手用丝袜勒死。”"
+
+# game/williamroute3.rpy:10621
+translate Schinese williamroute3c_23a79df7:
+
+    # wi "\"Jesus, Murdoch.\""
+    wi "“你这家伙。”"
+
+# game/williamroute3.rpy:10645
+translate Schinese williamroute3c_5166a47b:
+
+    # wi "\"A man's been flirtin' with me.\""
+    wi "“有个男人一直在勾引我。”"
+
+# game/williamroute3.rpy:10649
+translate Schinese williamroute3c_7f080e8c:
+
+    # wi "\"Well, not to me.\""
+    wi "“我没有。”"
+
+# game/williamroute3.rpy:10669
+translate Schinese williamroute3c_0f5f0a23:
+
+    # wi "\"Well, he certainly looks durable.\""
+    wi "“他的身子骨的确结实。”"
+
+# game/williamroute3.rpy:10672
+translate Schinese williamroute3c_ee0e6fa0:
+
+    # "Sam crosses his arms and leans against the rails."
+    "Sam双臂抱胸，靠在栏杆上。"
+
+# game/williamroute3.rpy:10681
+translate Schinese williamroute3c_1ca4d4e2:
+
+    # "He scowls a bit, then he nods."
+    "他皱着眉，然后点点头。"
+
+# game/williamroute3.rpy:10692
+translate Schinese williamroute3c_f90bad7d:
+
+    # "Then he breaks into a chuckle."
+    "接着突然笑了。"
+
+# game/williamroute3.rpy:10694
+translate Schinese williamroute3c_414eae9a:
+
+    # wi "\"...What?\""
+    wi "“...怎么？”"
+
+# game/williamroute3.rpy:10703
+translate Schinese williamroute3c_d8345bdb:
+
+    # m "\"And you’re still alive?\""
+    m "“...他没把你打死？”"
+
+# game/williamroute3.rpy:10731
+translate Schinese williamroute3c_b0b63b17:
+
+    # m "\"Well, after hearing you went through all that, I think swallowing sounds a whole lot more fun than having a kid.\""
+    m "“听你说这些，我感觉吞精比生孩子好多了。”"
+
+# game/williamroute3.rpy:10774
+translate Schinese williamroute3c_4fadee9c_1:
+
+    # wi "\"What makes you think I’d enjoy it?\""
+    wi "“你怎么觉得我会享受...？”"
+
+# game/williamroute3.rpy:10776
+translate Schinese williamroute3c_aca7226d_1:
+
+    # "Sam smiles."
+    "Sam微微一笑。"
+
+# game/williamroute3.rpy:10818
+translate Schinese williamroute3c_975230b3:
+
+    # "He crosses his arms."
+    "他抱起双臂。"
+
+# game/williamroute3.rpy:10825
+translate Schinese williamroute3c_d4808ec1:
+
+    # wi "\"Didn't you already do plenty of scoping today with my deputy?\""
+    wi "“你今天不是刚把生意扩展到我的副手身上吗？”"
+
+# game/williamroute3.rpy:10827
+translate Schinese williamroute3c_9101161f:
+
+    # "Sam bites his lip."
+    "Sam咬着嘴唇。"
+
+# game/williamroute3.rpy:10829
+translate Schinese williamroute3c_ec3e8074:
+
+    # m "\"I wish you hadn't made such a fuss about that.\""
+    m "“你何必在种事上大惊小怪的。”"
+
+# game/williamroute3.rpy:10831
+translate Schinese williamroute3c_2f2d7332:
+
+    # wi "\"And I wish you took my job more seriously.\""
+    wi "“我希望你能更认真地对待我的工作。”"
+
+# game/williamroute3.rpy:10833
+translate Schinese williamroute3c_103e5d31:
+
+    # m "\"I could say the same, you know.\""
+    m "“彼此彼此。”"
+
+# game/williamroute3.rpy:10836
+translate Schinese williamroute3c_47fdb659:
+
+    # m "\"That one's so pent up that anybody could have made a move.\""
+    m "“那家伙压抑太久了，得有人开导一下。”"
+
+# game/williamroute3.rpy:10838
+translate Schinese williamroute3c_016625f5:
+
+    # wi "\"So why'd it have to be you?\""
+    wi "“那为什么非得是你不可？”"
+
+# game/williamroute3.rpy:10840
+translate Schinese williamroute3c_3924ecce:
+
+    # m "\"'Cause early bird gets the worm.\""
+    m "“因为早起的鸟儿有虫吃。”"
+
+# game/williamroute3.rpy:10842
+translate Schinese williamroute3c_1c847a28:
+
+    # wi "\"Fuck's sake.\""
+    wi "“滚蛋。”"
+
+# game/williamroute3.rpy:10843
+translate Schinese williamroute3c_07b448cc:
+
+    # wi "\"Don't say worm.\""
+    wi "“什么虫不虫的。”"
+
+# game/williamroute3.rpy:10845
+translate Schinese williamroute3c_5454448f:
+
+    # m "\"Is peckar preferable?\""
+    m "“那就有树汁吸？”"
+
+# game/williamroute3.rpy:10847
+translate Schinese williamroute3c_82ef9b00:
+
+    # wi "\"Fuck off, Sam.\""
+    wi "“操你的，Sam。”"
+
+# game/williamroute3.rpy:10850
+translate Schinese williamroute3c_888a6234:
+
+    # m "\"Ain't it a good thing he's like us, Will?\""
+    m "“他和我们是一类人，这不是件好事吗，Will？”"
+
+# game/williamroute3.rpy:10852
+translate Schinese williamroute3c_dbefb782:
+
+    # wi "\"Anybody's like us when they don't have the opportunity to get familiar with women out here in the stinkin' desert, Sam.\""
+    wi "“他不是我们的同类，只是在这个鸟不拉屎的沙漠里碰不到女人而已。”"
+
+# game/williamroute3.rpy:10853
+translate Schinese williamroute3c_c4413232:
+
+    # wi "\"You should know that better than anybody.\""
+    wi "“你应该比任何人都更清楚这一点。”"
+
+# game/williamroute3.rpy:10855
+translate Schinese williamroute3c_246be1c8:
+
+    # m "\"He knew about us, Will.\""
+    m "“他知道咱俩的事，Will。”"
+
+# game/williamroute3.rpy:10858
+translate Schinese williamroute3c_6befbbe3:
+
+    # m "\"Now he's way less likely to squeal about it to anybody else.\""
+    m "“不过既然上了这条船，他想跟别人告密也难了。”"
+
+# game/williamroute3.rpy:10860
+translate Schinese williamroute3c_40487bc9:
+
+    # wi "\"All otters do is squeal.\""
+    wi "“水獭不会告密，只会吱吱叫。”"
+
+# game/williamroute3.rpy:10862
+translate Schinese williamroute3c_93da3405:
+
+    # m "\"You know what I mean.\""
+    m "“少装糊涂了。”"
+
+# game/williamroute3.rpy:10865
+translate Schinese williamroute3c_ed150f28:
+
+    # m "\"Plus, he feels a lot different when he's confident.\""
+    m "“还有，他自信的时候跟平时简直两个样。”"
+
+# game/williamroute3.rpy:10867
+translate Schinese williamroute3c_36bbb9da:
+
+    # wi "\"You don't say...\""
+    wi "“真的假的...”"
+
+# game/williamroute3.rpy:10869
+translate Schinese williamroute3c_6ed7c4a0:
+
+    # m "\"Let's just say he didn't need much help to start taking control.\""
+    m "“这么说吧，他不需要别人的帮助，一个人就能掌握局面。”"
+
+# game/williamroute3.rpy:10872
+translate Schinese williamroute3c_acb4f7d9:
+
+    # m "\"I'd feel weirder about it, if it weren't such an improvement.\""
+    m "“如果这还不算是判若两人，那就见了鬼了。”"
+
+# game/williamroute3.rpy:10874
+translate Schinese williamroute3c_e1829763:
+
+    # m "\"Maybe you ought to see what that's like for yourself.\""
+    m "“或许你应该亲眼看一看。”"
+
+# game/williamroute3.rpy:10879
+translate Schinese williamroute3c_4a0d2eb1:
+
+    # m "\"Well, maybe it’s nice to see you out of your element for a change.\""
+    m "“如果能看到你的另一面，去一趟也无妨。”"
+
+# game/williamroute3.rpy:10883
+translate Schinese williamroute3c_bb2675e4:
+
+    # m "\"Just think it’s funny that you can be shot at, or be up to your arms in blood, but you don’t wrinkle your nose until you have to make a social obligation.\""
+    m "“就是哪怕被子弹射中、或跟人干架干出血，你都不眨一下眼睛，可一旦得去社交就千百个不情愿。”"
+
+# game/williamroute3.rpy:10885
+translate Schinese williamroute3c_6ae6bf85:
+
+    # wi "\"A crowded bar with a bunch of pent up drunks ain’t exactly a tea party, Samuel.\""
+    wi "“一间满是欲求不满的醉汉的酒吧算哪门子茶会啊，Sam。”"
+
+# game/williamroute3.rpy:10913
+translate Schinese williamroute3c_c0978465:
+
+    # wi "\"If we're headin' out, then let's head out already.\""
+    wi "“既然决定好了，那就尽快出发吧。”"
+
+# game/williamroute3.rpy:10915
+translate Schinese williamroute3c_75d163af:
+
+    # ni "\"So you are deciding to go?\""
+    ni "“所以你也会去了？”"
+
+# game/williamroute3.rpy:10917
+translate Schinese williamroute3c_133624d4:
+
+    # wi "\"I am deciding to go.\""
+    wi "“没错。”"
+
+# game/williamroute3.rpy:10921
+translate Schinese williamroute3c_dd1e2a15:
+
+    # "Nik smiles and steps forward, clapping me on the back with his big arms."
+    "Nik微笑着走上前，用他的大手拍了拍我的背。”"
+
+# game/williamroute3.rpy:10924
+translate Schinese williamroute3c_0c719636:
+
+    # ni "\"I thought you might come around!\""
+    ni "“我就知道你会回心转意的！”"
+
+# game/williamroute3.rpy:10927
+translate Schinese williamroute3c_215e9b36:
+
+    # "Todd stands up stiffly, making his chair wobble"
+    "Todd唐突地站起来，把椅子弄得摇摇晃晃的。"
+
+# game/williamroute3.rpy:10930
+translate Schinese williamroute3c_5cfcf742:
+
+    # to "\"Are y'all going now?!\""
+    to "“你们所有人都要去？！”"
+
+# game/williamroute3.rpy:10931
+translate Schinese williamroute3c_6f0dcfba:
+
+    # wi "\"I don't want to have to say it again.\""
+    wi "“我不想重复第二遍。”"
+
+# game/williamroute3.rpy:10932
+translate Schinese williamroute3c_2499d510:
+
+    # to "\"So where am I supposed to go?\""
+    to "“那我该怎么办？”"
+
+# game/williamroute3.rpy:10933
+translate Schinese williamroute3c_e7f3b93d:
+
+    # wi "\"Wherever you want.\""
+    wi "“随你。”"
+
+# game/williamroute3.rpy:10934
+translate Schinese williamroute3c_6db138fa:
+
+    # wi "\"I already called it a day for you.\""
+    wi "“我已经准了你一天假。”"
+
+# game/williamroute3.rpy:10936
+translate Schinese williamroute3c_2deb9ed4:
+
+    # ni "\"Maybe he would like to come?\""
+    ni "“要不要跟我们一起？”"
+
+# game/williamroute3.rpy:10939
+translate Schinese williamroute3c_9e2adc06:
+
+    # "Sam shakes his head."
+    "Sam摇摇头。"
+
+# game/williamroute3.rpy:10941
+translate Schinese williamroute3c_60c092cc:
+
+    # m "\"That might not be such a good idea.\""
+    m "“我看最好不要。”"
+
+# game/williamroute3.rpy:10944
+translate Schinese williamroute3c_a983cd19:
+
+    # "Todd emphatically frowns."
+    "Todd立马皱起眉毛。"
+
+# game/williamroute3.rpy:10945
+translate Schinese williamroute3c_0b420822:
+
+    # to "\"Now why wouldn't it be?\""
+    to "“为什么啊？”"
+
+# game/williamroute3.rpy:10948
+translate Schinese williamroute3c_8f95726e:
+
+    # "Nik gives Sam a sideways glance."
+    "Nik瞥了Sam一眼。"
+
+# game/williamroute3.rpy:10950
+translate Schinese williamroute3c_45c883ef:
+
+    # ni "\"I don't know.\""
+    ni "“我也不知道。”"
+
+# game/williamroute3.rpy:10952
+translate Schinese williamroute3c_6b13ffda:
+
+    # ni "\"Strength in numbers, I say.\""
+    ni "“不过要我说，人多力量大。”"
+
+# game/williamroute3.rpy:10956
+translate Schinese williamroute3c_19ae0a67:
+
+    # m "\"It's a very physical place, Mr. Bronson.\""
+    m "“那地方是用来让人放松的，Bronson先生。”"
+
+# game/williamroute3.rpy:10958
+translate Schinese williamroute3c_697ae723:
+
+    # to "\"...Oh.\""
+    to "“...啊。”"
+
+# game/williamroute3.rpy:10959
+translate Schinese williamroute3c_e9a0a074:
+
+    # "He blushes a bit."
+    "他的脸红了少许。"
+
+# game/williamroute3.rpy:10960
+translate Schinese williamroute3c_7c9d5e8f:
+
+    # to "\"Well if that's the case...\""
+    to "“我想...”"
+
+# game/williamroute3.rpy:10962
+translate Schinese williamroute3c_a9518fdc:
+
+    # to "\"I don't think I'd mind?\""
+    to "“我并不介意？”"
+
+# game/williamroute3.rpy:10964
+translate Schinese williamroute3c_f205cfee:
+
+    # to "\"Unless William does, of course.\""
+    to "“当然，除非William允许我去。”"
+
+# game/williamroute3.rpy:10966
+translate Schinese williamroute3c_1c9c9da8:
+
+    # wi "\"Frankly I'd rather you got it out of your system rather at a place like there, than acting out in places you shouldn't.\""
+    wi "“说实话，在那里发泄总好过在一些不应该的地方。”"
+
+# game/williamroute3.rpy:10968
+translate Schinese williamroute3c_86ab37a4:
+
+    # to "\"Well, ah.\""
+    to "“哈，哈。”"
+
+# game/williamroute3.rpy:10971
+translate Schinese williamroute3c_e2848cff:
+
+    # to "\"Alrighty.\""
+    to "“好的。”"
+
+# game/williamroute3.rpy:10995
+translate Schinese williamroute3c_36869f65:
+
+    # m "\"Wouldn’t be my first, second, or third pick, but then again, I’m just a cocksucker.\""
+    m "“她在我这儿连前三都排不上，但反正我就是个吸屌的。”"
+
+# game/williamroute3.rpy:11053
+translate Schinese williamroute3c_f6418422_1:
+
+    # "He lowers his voice."
+    "他压低音量。"
+
+# game/williamroute3.rpy:11076
+translate Schinese williamroute3c_4629c987:
+
+    # cl "\"Well, that was nothing.\""
+    cl "“没什么大不了的。”"
+
+# game/williamroute3.rpy:11147
+translate Schinese williamroute3c_5e3a1557:
+
+    # ni "\"What wheels do you turn to make our Sheriff Adler attend this dance?\""
+    ni "“你们究竟是处于何种相位，才能令Adler警长前来共舞？”"
+
+# game/williamroute3.rpy:11183
+translate Schinese williamroute3c_c8d91635:
+
+    # cl "\"Why might that be so bad?\""
+    cl "“男女情侣有何不妥吗？”"
+
+# game/williamroute3.rpy:11194
+translate Schinese williamroute3c_ca32a983:
+
+    # ni "\"It is called the proletarian class.\""
+    ni "“无产阶级。”"
+
+# game/williamroute3.rpy:11361
+translate Schinese williamroute3c_e19eeae9_1:
+
+    # "He smirks."
+    "他狡黠地笑了。"
+
+# game/williamroute3.rpy:11513
+translate Schinese williamroute3c_a715cdd2:
+
+    # ni "\"You are still too used to the city, Will.\""
+    ni "“你还是改不了城市里的习惯，Will。”"
+
+# game/williamroute3.rpy:11543
+translate Schinese williamroute3c_40f27bc1:
+
+    # m "\"That just wasn’t normal.\""
+    m "“那里不对劲。”"
+
+# game/williamroute3.rpy:11568
+translate Schinese williamroute3c_0e2ad68b:
+
+    # m "\"The world ain’t in need of some good old fashioned justice right now...\""
+    m "“这世界如今需要的不是什么正义...”"
+
+# game/williamroute3.rpy:11781
+translate Schinese williamroute3c_71b526f5:
+
+    # m "\"Well if we bum rush the bar together, we can clear a path.\""
+    m "“咱们是可以一路冲到吧台。”"
+
+# game/williamroute3.rpy:11792
+translate Schinese williamroute3c_83ab9ffa:
+
+    # "Another song starts up and there’s a need round of dance partners."
+    "另一首歌响起，人们开始寻找新的舞伴。"
+
+# game/williamroute3.rpy:11793
+translate Schinese williamroute3c_9aaeff6e:
+
+    # "This one’s quicker, but there still a whole lot of touches on the waist and chests sliding against one another as they make their twirls."
+    "这首歌的节奏比上一首还要快，但不变的是舞者们在旋转时仍会抚摸彼此的胸部和腰肢。"
+
+# game/williamroute3.rpy:11796
+translate Schinese williamroute3c_517ebbe3:
+
+    # "I hear a small thump as the I notice Todd sits next to us."
+    "我听到砰的一声，Todd坐在了我旁边。"
+
+# game/williamroute3.rpy:11799
+translate Schinese williamroute3c_ed359c38:
+
+    # to "\"They make it look easy don’t they?\""
+    to "“大伙都太厉害了吧？”"
+
+# game/williamroute3.rpy:11801
+translate Schinese williamroute3c_d636a86b:
+
+    # wi "\"It is easy if you do it for so long.\""
+    wi "“只要练习足够久，你也能追上他们。”"
+
+# game/williamroute3.rpy:11802
+translate Schinese williamroute3c_75ce35ef:
+
+    # to "\"I meant all the touching.\""
+    to "“我是指他们都在摸来摸去。”"
+
+# game/williamroute3.rpy:11804
+translate Schinese williamroute3c_3b3cb4ed:
+
+    # m "\"That’s even easier.\""
+    m "“那就更简单了。”"
+
+# game/williamroute3.rpy:11807
+translate Schinese williamroute3c_fc4e01ba:
+
+    # "Todd sighs."
+    "Todd连连叹气。"
+
+# game/williamroute3.rpy:11809
+translate Schinese williamroute3c_74365b12:
+
+    # to "\"I wouldn’t know how to keep doing it feeling guilty.\""
+    to "“我就做不到，因为我心里过不去。”"
+
+# game/williamroute3.rpy:11812
+translate Schinese williamroute3c_a214b01d:
+
+    # m "\"Feeling guilty’s just a part of it.\""
+    m "“把负罪感当作游戏的一部分就好了。”"
+
+# game/williamroute3.rpy:11815
+translate Schinese williamroute3c_0057c5ee:
+
+    # m "\"Same goes for all aspects of life.\""
+    m "“这也适用于你的人生。”"
+
+# game/williamroute3.rpy:11817
+translate Schinese williamroute3c_59fa8523:
+
+    # wi "\"It gets a lot easier when you learn to make it feel good.\""
+    wi "“想开了，你就能过去了。”"
+
+# game/williamroute3.rpy:11818
+translate Schinese williamroute3c_61927b37:
+
+    # "They look at me with blank expressions."
+    "他们面无表情地看着我。"
+
+# game/williamroute3.rpy:11819
+translate Schinese williamroute3c_48141d86:
+
+    # wi "\"The shame I mean.\""
+    wi "“我是指负罪感。”"
+
+# game/williamroute3.rpy:11820
+translate Schinese williamroute3c_e0921482:
+
+    # "Legs and groins slide past one another and my eyes are on a few fairly sizable tents."
+    "大腿擦过大腿，胯下贴着胯下，几个大小相当可观的帐篷吸引了我的目光。"
+
+# game/williamroute3.rpy:11821
+translate Schinese williamroute3c_6318e8b3:
+
+    # wi "\"You shouldn’t stay here if you’re uncomfortable, Todd.\""
+    wi "“如果你觉得不舒服的话，就趁早回去吧，Todd。”"
+
+# game/williamroute3.rpy:11823
+translate Schinese williamroute3c_380424d5:
+
+    # "My deputy followed the line of my gaze and gulped."
+    "我的副手顺着我的视线看去，咽了口唾沫。"
+
+# game/williamroute3.rpy:11825
+translate Schinese williamroute3c_27ba3b5f:
+
+    # "Then he put both paws on his lap."
+    "接着他把手放在膝盖上。"
+
+# game/williamroute3.rpy:11826
+translate Schinese williamroute3c_c57ce5b7:
+
+    # "Shyly."
+    "害羞地。"
+
+# game/williamroute3.rpy:11829
+translate Schinese williamroute3c_3df7ebb4:
+
+    # to "\"No.\""
+    to "“不。”"
+
+# game/williamroute3.rpy:11830
+translate Schinese williamroute3c_acb15023:
+
+    # "His tongue lolls a bit as he speaks."
+    "他的舌头有点打结。"
+
+# game/williamroute3.rpy:11831
+translate Schinese williamroute3c_70777d3f:
+
+    # to "\"I think I’ll be staying.\""
+    to "“我想我会留下来。”"
+
+# game/williamroute3.rpy:11832
+translate Schinese williamroute3c_a5fda0a8:
+
+    # "His voice was firm."
+    "他坚定地说。"
+
+# game/williamroute3.rpy:11833
+translate Schinese williamroute3c_c8a2b210:
+
+    # "The unmistakable scent of excitement was coming off of him."
+    "他身上散发出浓烈的男人味。"
+
+# game/williamroute3.rpy:11834
+translate Schinese williamroute3c_26c8ecb8:
+
+    # "A one-note laugh escapes me as I nod."
+    "我皮笑肉不笑地点了点头。"
+
+# game/williamroute3.rpy:11835
+translate Schinese williamroute3c_27a02d81:
+
+    # "Sam is right about Todd."
+    "Sam没有看走眼。"
+
+# game/williamroute3.rpy:11836
+translate Schinese williamroute3c_67923e23:
+
+    # "Whenever he commits to something with confidence, he can feel like a very different person."
+    "一旦Todd自信满满地投入到某件事情中，他就完全变了一个人。"
+
+# game/williamroute3.rpy:11837
+translate Schinese williamroute3c_ed9fadea:
+
+    # "Most people don’t get to see that person, but it’s the reason he’s survived this long in this kind of work."
+    "很少有人能看到另一个他，这也是他能把这份工作坚持这么久的原因。"
+
+# game/williamroute3.rpy:11838
+translate Schinese williamroute3c_f9e2bc3c:
+
+    # "He’s someone who can stop thinking too hard, and commit."
+    "他能做到不胡思乱想，专心致志。"
+
+# game/williamroute3.rpy:11839
+translate Schinese williamroute3c_1c005d6f:
+
+    # "Learning to be less awkward about his natural urges will be good for him."
+    "学会直面自己本能的欲望，对他有好处。"
+
+# game/williamroute3.rpy:11840
+translate Schinese williamroute3c_8baaf705:
+
+    # "I think that’s an unspoken understanding we’ve all come to."
+    "这也是我们所有人心照不宣的事实。"
+
+# game/williamroute3.rpy:11841
+translate Schinese williamroute3c_edfcad57:
+
+    # "Voicing it is another matter entirely."
+    "但说出来就是另一回事了。"
+
+# game/williamroute3.rpy:11842
+translate Schinese williamroute3c_8bb47f76:
+
+    # "I'm the worst man to offer him that kind of advice."
+    "更不应该从我嘴里听到。"
+
+# game/williamroute3.rpy:11887
+translate Schinese williamroute3c_fb2cfbee:
+
+    # "Todd isn't the only person this place has an affect on."
+    "看来Todd不是唯一一个被这个地方影响的人。"
+
+# game/williamroute3.rpy:11928
+translate Schinese williamroute3c_766d5f24:
+
+    # wi "\"Well, who didn’t I dance with tonight?\""
+    wi "“你倒是说说我今晚还没跟谁跳舞？”"
+
+# game/williamroute3.rpy:11943
+translate Schinese williamroute3c_beb85336:
+
+    # m "\"You ain’t the risk-taking type.\""
+    m "“你不是那种爱冒险的人。”"
+
+# game/williamroute3.rpy:11994
+translate Schinese samwill4_4165f687:
+
+    # m "\"Risk has little to do with that.\""
+    m "“跟他危不危险没关系。”"
+
+# game/williamroute3.rpy:12033
+translate Schinese samwill4_852f0ebf:
+
+    # m "\"I wouldn't have done it if I saw the damn thing.\""
+    m "“如果我有看到那玩意儿，才不会招惹上去。”"
+
+# game/williamroute3.rpy:12047
+translate Schinese samwill4_4ddbd38c:
+
+    # wi "\"I'm happy that ain't gone, Sam.\""
+    wi "“我很高兴那信号一直都在，Sam。”"
+
+# game/williamroute3.rpy:12080
+translate Schinese samwill4_18ab3bac:
+
+    # "And we just sit there for a while."
+    "然后我们坐了下来。"
+
+# game/williamroute3.rpy:12081
+translate Schinese samwill4_047d4961:
+
+    # "Enjoying the sound of the desert wind, under the stars and the moon and the heavens that look down upon us."
+    "在星星和月亮的照耀下，在苍天的俯视下，无言地享受着沙漠的晚风。"
+
+# game/williamroute3.rpy:12082
+translate Schinese samwill4_f7c1fdf5:
+
+    # "But once we've had our fill of nature, and each other, we get back on our feet and amble back toward the barn."
+    "等到看腻了大自然和彼此，我们重新站起来，漫步回到谷仓。"
+
+# game/williamroute3.rpy:12086
+translate Schinese samwill4_2ad8c425:
+
+    # "We place our glass mugs on the counter, one after the other, first hearing the clink, then the little pop of air as they settle."
+    "我们把玻璃杯一个接一个地放回吧台上，先是叮当声，随后是杯子落定的轻响。"
+
+# game/williamroute3.rpy:12175
+translate Schinese samwill5_0f610bfd:
+
+    # m "\"Not a whole lot of people like to learn things in the bedroom, Will.\""
+    m "“哪有人喜欢在卧室里学习呢，Will。”"
+
+# game/williamroute3.rpy:12270
+translate Schinese samwill5_6363ee03:
+
+    # ka "\"Well, hello again.\""
+    ka "“哎呀，又见面了。”"
+
+# game/williamroute3.rpy:12284
+translate Schinese samwill5_e39dae8b:
+
+    # ka "\"Can’t believe it ‘til I see it.\""
+    ka "“我得亲眼见识。”"
+
+# game/williamroute3.rpy:12340
+translate Schinese samwill5_6150fc43:
+
+    # wi "\"Illegal business, no doubt.\""
+    wi "“肯定是违法的生意。”"
+
+# game/williamroute3.rpy:12348
+translate Schinese samwill5_49cce2b4:
+
+    # ka "\"Now I’m invested in the entertainment.\""
+    ka "“这么精彩的一出我可不能错过啊。”"
+
+# game/williamroute3.rpy:12359
+translate Schinese samwill5_43354050:
+
+    # ka "\"Oh, you don’t know the half of it.\""
+    ka "“还远不止如此呢。”"
+
+# game/williamroute3.rpy:12859
+translate Schinese willkanechoice_9d469299:
+
+    # "Fuck."
+    "操。"
+
+# game/williamroute3.rpy:12868
+translate Schinese willkanechoice_e34d408e:
+
+    # "I’d never slept on a bale full of hay this well."
+    "我从未有过在干草垛上睡得这么香。"
+
+# game/williamroute3.rpy:12869
+translate Schinese willkanechoice_8dfda68e:
+
+    # "Sam has his arms around me and we’re both soft, if a bit sticky."
+    "Sam用胳膊环抱着我，我们都软了下来，还有点黏。"
+
+# game/williamroute3.rpy:12870
+translate Schinese willkanechoice_b615fd13:
+
+    # m "\"Finally awake over there, Sheriff?\""
+    m "“终于醒了，治安官？”"
+
+# game/williamroute3.rpy:12871
+translate Schinese willkanechoice_8bcb3c7d:
+
+    # "I open my eyes and rub my face."
+    "我睁开眼睛，揉了揉脸颊。"
+
+# game/williamroute3.rpy:12872
+translate Schinese willkanechoice_08047b24_1:
+
+    # wi "\"Yeah.\""
+    wi "“嗯。”"
+
+# game/williamroute3.rpy:12873
+translate Schinese willkanechoice_f69ca710:
+
+    # wi "\"I’m up.\""
+    wi "“醒了。”"
+
+# game/williamroute3.rpy:12874
+translate Schinese willkanechoice_02784371:
+
+    # m "\"Good.\""
+    m "“好。”"
+
+# game/williamroute3.rpy:12875
+translate Schinese willkanechoice_fec1b825:
+
+    # m "\"Was it everything you had wanted?\""
+    m "“昨天晚上你可还满意？”"
+
+# game/williamroute3.rpy:12876
+translate Schinese willkanechoice_1bbc9e0f:
+
+    # wi "\"Well...\""
+    wi "“唔...”"
+
+# game/williamroute3.rpy:12877
+translate Schinese willkanechoice_8eba8e5a:
+
+    # wi "\"It was a little bit crazy.\""
+    wi "“兴许疯了些。”"
+
+# game/williamroute3.rpy:12878
+translate Schinese willkanechoice_3e632d07:
+
+    # m "\"But yeah.\""
+    m "“不过是的。”"
+
+# game/williamroute3.rpy:12879
+translate Schinese willkanechoice_9242d594:
+
+    # wi "\"I think it was.\""
+    wi "“我很喜欢。”"
+
+# game/williamroute3.rpy:12880
+translate Schinese willkanechoice_0b5997a9:
+
+    # "He gives me a soft kiss on my whiskers, slipping me a sliver of tongue."
+    "他轻吻我的胡须，把舌头探入我口中。"
+
+# game/williamroute3.rpy:12881
+translate Schinese willkanechoice_02784371_1:
+
+    # m "\"Good.\""
+    m "“嗯。”"
+
+# game/williamroute3.rpy:12882
+translate Schinese willkanechoice_a10798ed:
+
+    # m "\"I was worried we were taking things a bit far.\""
+    m "“我还在担心我们是不是做过头了。”"
+
+# game/williamroute3.rpy:12883
+translate Schinese willkanechoice_042bfbca:
+
+    # wi "\"Honestly?\""
+    wi "“当真？”"
+
+# game/williamroute3.rpy:12884
+translate Schinese willkanechoice_5aa317d7:
+
+    # wi "\"You could have pushed me harder.\""
+    wi "“你完全可以再逼我一把。”"
+
+# game/williamroute3.rpy:12885
+translate Schinese willkanechoice_daa0241e:
+
+    # "I give him an stony glare and he stares back at me."
+    "我故作严肃地盯着他，他用同样的眼神凝视着我。"
+
+# game/williamroute3.rpy:12886
+translate Schinese willkanechoice_ada6b9d8:
+
+    # "Then his unserious ass goes cross-eyed, and we both break out into laugher."
+    "然后这没心没肺的臭小子成了斗鸡眼，我们都哈哈大笑起来。"
+
+# game/williamroute3.rpy:12887
+translate Schinese willkanechoice_e6c7f01c:
+
+    # "Until a sunbeam strikes me across the face and I feel a stab of pain behind my eyes."
+    "直到一束阳光照在我脸上，为我的眼睛带来一阵胀痛。"
+
+# game/williamroute3.rpy:12891
+translate Schinese willkanechoice_e7108049:
+
+    # wi "\"Shit...\""
+    wi "“操...”"
+
+# game/williamroute3.rpy:12892
+translate Schinese willkanechoice_d0d13db3:
+
+    # "I wince and he touches my arm."
+    "我扭头回避，他见状碰了碰我的胳膊。"
+
+# game/williamroute3.rpy:12894
+translate Schinese willkanechoice_2311f683:
+
+    # m "\"You okay?\""
+    m "“你还好吧？”"
+
+# game/williamroute3.rpy:12896
+translate Schinese willkanechoice_924ab1fa:
+
+    # wi "\"Yeah...\""
+    wi "“嗯...”"
+
+# game/williamroute3.rpy:12898
+translate Schinese willkanechoice_b720d0d9:
+
+    # wi "\"I’m fine.\""
+    wi "“我不要紧。”"
+
+# game/williamroute3.rpy:12899
+translate Schinese willkanechoice_64737680:
+
+    # wi "\"If anything, I've expected to have a headache after a night like that, but everything’s clear.\""
+    wi "“硬要说的话，我本以为经过那样的一晚会很头痛，但现在反而神清气爽。”"
+
+# game/williamroute3.rpy:12901
+translate Schinese willkanechoice_b153ebe6:
+
+    # m "\"That’s good then.\""
+    m "“那就好。”"
+
+# game/williamroute3.rpy:12903
+translate Schinese willkanechoice_a3729434:
+
+    # wi "\"Why... should I not be?\""
+    wi "“怎么...你很意外吗？”"
+
+# game/williamroute3.rpy:12904
+translate Schinese willkanechoice_367c9973:
+
+    # wi "\"It’s nice here with you.\""
+    wi "“跟你一起我当然会高兴了。”"
+
+# game/williamroute3.rpy:12906
+translate Schinese willkanechoice_63033175:
+
+    # m "\"Well...\""
+    m "“这个嘛...”"
+
+# game/williamroute3.rpy:12909
+translate Schinese willkanechoice_22fb4f72:
+
+    # m "\"You sound like your in a better condition than the deputy.\""
+    m "“那位警官的声音听起来就没你这么走运了。”"
+
+# game/williamroute3.rpy:12911
+translate Schinese willkanechoice_60deeda3:
+
+    # "We hear loud snores coming from a barrel."
+    "我们听到木桶里传来巨大的鼾声。"
+
+# game/williamroute3.rpy:12912
+translate Schinese willkanechoice_df9f767a:
+
+    # "The big ass cheeks and the tail of a river otter are sticking out of it, top-side up."
+    "水獭的大屁股和尾巴明晃晃地露在外面。"
+
+# game/williamroute3.rpy:12913
+translate Schinese willkanechoice_10ebfc1d:
+
+    # wi "\"Well, shit...\""
+    wi "“见鬼...”"
+
+# game/williamroute3.rpy:12915
+translate Schinese willkanechoice_d12e10ee:
+
+    # m "\"Also it’s an hour ‘till noon.\""
+    m "“还有一个小时就到正午了。”"
+
+# game/williamroute3.rpy:12917
+translate Schinese willkanechoice_a3ec2aa9:
+
+    # "I rub my snout a little deeper, trying to massage some of the pressure away."
+    "我更加用力地揉搓鼻梁，试图缓解一些压力。"
+
+# game/williamroute3.rpy:12918
+translate Schinese willkanechoice_c90728fc:
+
+    # wi "\"Not good but could be worse.\""
+    wi "“不妙，但还不是最坏的情况。”"
+
+# game/williamroute3.rpy:12919
+translate Schinese willkanechoice_89f0bcf5:
+
+    # "I check my wrist to get a more precise time."
+    "我看向手腕，想知道具体的时间。"
+
+# game/williamroute3.rpy:12920
+translate Schinese willkanechoice_02c61316:
+
+    # "And that’s when I notice that my watch is gone."
+    "就在此时，我才发现我的手表不翼而飞了。"
+
+# game/williamroute3.rpy:12922
+translate Schinese willkanechoice_a32bea9f:
+
+    # wi "\"...The hell?\""
+    wi "“...哈？”"
+
+# game/williamroute3.rpy:12923
+translate Schinese willkanechoice_f62fd733:
+
+    # "I look around me and under me and see if I can get some idea of what’s going on."
+    "我环顾四周和身下，试图还原事情的经过。"
+
+# game/williamroute3.rpy:12924
+translate Schinese willkanechoice_40be59af:
+
+    # "I feel my heart pump quick, but then relax, realizing Sam knew the time."
+    "我感觉心跳加速，但随即冷静下来，毕竟Sam知道时间。"
+
+# game/williamroute3.rpy:12926
+translate Schinese willkanechoice_fc972b80:
+
+    # wi "\"Can I have my watch back Sam.\""
+    wi "“能把表还给我吗，Sam。”"
+
+# game/williamroute3.rpy:12928
+translate Schinese willkanechoice_e4bc5df2:
+
+    # "He averts my gaze."
+    "他移开视线。"
+
+# game/williamroute3.rpy:12929
+translate Schinese willkanechoice_826d2d66:
+
+    # m @ talking "\"I don’t have it.\""
+    m @ talking "“表不在我这。”"
+
+# game/williamroute3.rpy:12931
+translate Schinese willkanechoice_2c8cee96:
+
+    # wi "\"The hell you mean you don’t have it?!\""
+    wi "“‘不在你那’是他妈的什么意思？！”"
+
+# game/williamroute3.rpy:12933
+translate Schinese willkanechoice_fe2ab8d1:
+
+    # m "\"All our clothes are gone...\""
+    m "“咱们的衣服全都不见了...”"
+
+# game/williamroute3.rpy:12935
+translate Schinese willkanechoice_b690fb1b:
+
+    # "He breaks eye contact again."
+    "他还在躲避着我的目光。"
+
+# game/williamroute3.rpy:12936
+translate Schinese willkanechoice_51340a05:
+
+    # m @ talking "\"...including your badge.\""
+    m @ talking "“...包括你的警徽。”"
+
+# game/williamroute3.rpy:12937
+translate Schinese willkanechoice_75bca5c9:
+
+    # wi "\"The fuck?!\""
+    wi "“什么？！”"
+
+# game/williamroute3.rpy:12939
+translate Schinese willkanechoice_47aa6244:
+
+    # "I roll out of the hay, searching under it for the watch with the leather strap, just in case the exact thing that I know has happened hasn’t happened."
+    "我滚下草垛，在地面上寻找那块皮制表带的手表，但心里清楚该发生的早就发生了。"
+
+# game/williamroute3.rpy:12940
+translate Schinese willkanechoice_f31811e9:
+
+    # wi "\"The motherfucker!\""
+    wi "“那个王八蛋！”"
+
+# game/williamroute3.rpy:12941
+translate Schinese willkanechoice_a2330690:
+
+    # wi "\"I’ll throttle him for this!\""
+    wi "“我要宰了他！”"
+
+# game/williamroute3.rpy:12943
+translate Schinese willkanechoice_ffb40849:
+
+    # "I stand up and walk over to the window of the loft."
+    "我站起身，走向顶楼的窗户。"
+
+# game/williamroute3.rpy:12944
+translate Schinese willkanechoice_306b1374:
+
+    # "There’s people walking around outside."
+    "外面人来人往。"
+
+# game/williamroute3.rpy:12945
+translate Schinese willkanechoice_fb6e33a2:
+
+    # "Shit."
+    "操。"
+
+# game/williamroute3.rpy:12948
+translate Schinese willkanechoice_3d9cdefe:
+
+    # m "\"The good news is he didn’t get your guns or your keys.\""
+    m "“好消息是，你的枪和钥匙还在。”"
+
+# game/williamroute3.rpy:12951
+translate Schinese willkanechoice_16529155:
+
+    # m "\"I sort of guessed that this might happen so I hid them.\""
+    m "“我猜到可能会发生这种事，所以把它们藏了起来。”"
+
+# game/williamroute3.rpy:12954
+translate Schinese willkanechoice_b3d8c207:
+
+    # m "\"Didn’t think he’d want the badge but I guess I was wrong.\""
+    m "“但我大意了，我本以为他看不上一块徽章。”"
+
+# game/williamroute3.rpy:12956
+translate Schinese willkanechoice_3dd6275e:
+
+    # wi "\"Well thank you, Sam, but I can’t exactly stroll into town just wearing a holster.\""
+    wi "“谢谢你，Sam，但我不能只带着枪就大摇大摆地回到镇上。”"
+
+# game/williamroute3.rpy:12958
+translate Schinese willkanechoice_5d1e3604:
+
+    # m "\"There’s a burlap sack in the corner.\""
+    m "“角落里有个粗麻袋。”"
+
+# game/williamroute3.rpy:12960
+translate Schinese willkanechoice_5c70a072:
+
+    # wi "\"You gotta be shitting me, Sam.\""
+    wi "“你就别耍我了，Sam。”"
+
+# game/williamroute3.rpy:12962
+translate Schinese willkanechoice_319cb3b8:
+
+    # m "\"It’s better than nothin’, ain’t it?\""
+    m "“总比什么都不穿好吧？”"
+
+# game/williamroute3.rpy:12965
+translate Schinese willkanechoice_344f3449:
+
+    # m "\"Not like I’m the respectable looking one in the first place.\""
+    m "“反正我生来就不是个体面人。”"
+
+# game/williamroute3.rpy:12967
+translate Schinese willkanechoice_234f0c9a:
+
+    # wi "\"I ain’t gonna cut holes into a sack and walk around like I’m in a nightie for the most doped up man alive. \""
+    wi "“我可不想穿着麻袋走来走去，去找一个嗑了药的瘾君子。”"
+
+# game/williamroute3.rpy:12969
+translate Schinese willkanechoice_7f3b78be:
+
+    # m "\"Well there’s three of us so there’s probably enough just to cover our peckers.\""
+    m "“那就把它分一分，大概勉强够咱们三个不漏鸟。”"
+
+# game/williamroute3.rpy:12972
+translate Schinese willkanechoice_aed2866a:
+
+    # m "\"Not unless you want to go looking for a swimming hole and swipe somebody else’s clothes.\""
+    m "“或者去找个池塘，把别人的衣服顺走。”"
+
+# game/williamroute3.rpy:12974
+translate Schinese willkanechoice_02478942:
+
+    # "Son of a bitch."
+    "狗娘养的。"
+
+# game/williamroute3.rpy:12975
+translate Schinese willkanechoice_6f1a1c84:
+
+    # "Just the thought of myself tucking my tail under my legs to hide my ass crack in broad daylight in the middle of town makes my skin crawl."
+    "一想到要在光天化日之下，在镇中心，把尾巴夹在腿里遮住屁股缝，我就浑身起鸡皮疙瘩。"
+
+# game/williamroute3.rpy:12976
+translate Schinese willkanechoice_341e113a:
+
+    # "That bastard Kane didn’t want to just make me his bitch, he wanted to publicly humiliate me."
+    "那个王八蛋Kane玩了我还不够，现在还想当众羞辱我。"
+
+# game/williamroute3.rpy:12977
+translate Schinese willkanechoice_e7734b5b:
+
+    # "This is what I get for allowing myself to have something?"
+    "这就是我允许自己放纵的结果？"
+
+# game/williamroute3.rpy:12979
+translate Schinese willkanechoice_911c7a48:
+
+    # ni "\"...Sam?\""
+    ni "“...Sam？”"
+
+# game/williamroute3.rpy:12980
+translate Schinese willkanechoice_67a82562:
+
+    # "The two of us flinch."
+    "我们两个都被吓了一跳。"
+
+# game/williamroute3.rpy:12981
+translate Schinese willkanechoice_6763efe0:
+
+    # ni "\"Sam is that you?\""
+    ni "“是你吗，Sam？”"
+
+# game/williamroute3.rpy:12982
+translate Schinese willkanechoice_cecf1e2c:
+
+    # "We see very unkempt looking Nikolai walking into the barn."
+    "在我们的注视下，衣衫不整的Nikolai走进谷仓。"
+
+# game/williamroute3.rpy:12984
+translate Schinese willkanechoice_99c96197:
+
+    # m "\"Up here!\""
+    m "“在上面！”"
+
+# game/williamroute3.rpy:12989
+translate Schinese willkanechoice_8a1ec3a2:
+
+    # "He turns around and spots us."
+    "他转过身，发现了我们。"
+
+# game/williamroute3.rpy:12990
+translate Schinese willkanechoice_0240f657:
+
+    # "Thank Christ."
+    "谢天谢地。"
+
+# game/williamroute3.rpy:12992
+translate Schinese willkanechoice_0a14248d:
+
+    # ni "\"Um.\""
+    ni "“呃。”"
+
+# game/williamroute3.rpy:12993
+translate Schinese willkanechoice_2ced978b:
+
+    # wi "\"Hi there.\""
+    wi "“你好。”"
+
+# game/williamroute3.rpy:12995
+translate Schinese willkanechoice_645e2b06:
+
+    # ni "\"...you both tried the firebarrel bourbon didn’t you?\""
+    ni "“...你们是喝了一整桶波旁威士忌吗？”"
+
+# game/williamroute3.rpy:12996
+translate Schinese willkanechoice_5dac79d2:
+
+    # wi "\"What?\""
+    wi "“什么？”"
+
+# game/williamroute3.rpy:12997
+translate Schinese willkanechoice_846e867d_1:
+
+    # wi "\"No.\""
+    wi "“不是。”"
+
+# game/williamroute3.rpy:12999
+translate Schinese willkanechoice_d584509b:
+
+    # ni "\"Then why are you both naked?\""
+    ni "“那你们为什么都一丝不挂？”"
+
+# game/williamroute3.rpy:13000
+translate Schinese willkanechoice_5fe6cd46:
+
+    # ni "\"It’s half-past till noon.\""
+    ni "“还有两刻种就到正午了。”"
+
+# game/williamroute3.rpy:13001
+translate Schinese willkanechoice_14cd2fa1:
+
+    # m "\"Somebody nicked our clothes, Nik.\""
+    m "“有人偷了我们的衣服，Nik。”"
+
+# game/williamroute3.rpy:13002
+translate Schinese willkanechoice_f43d9272:
+
+    # m "\"We can’t come down...\""
+    m "“我们没办法出去...”"
+
+# game/williamroute3.rpy:13003
+translate Schinese willkanechoice_ef54bf78:
+
+    # ni "\"Oh!\""
+    ni "“哦！”"
+
+# game/williamroute3.rpy:13005
+translate Schinese willkanechoice_797bfb85:
+
+    # ni "\"Well this is too bad.\""
+    ni "“太糟糕了。”"
+
+# game/williamroute3.rpy:13007
+translate Schinese willkanechoice_f3b0e6eb:
+
+    # "He puts his hands on his hips like he’s thinking, albeit in a casual manner."
+    "他两手叉腰，像是在思考，尽管显得很漫不经心。"
+
+# game/williamroute3.rpy:13008
+translate Schinese willkanechoice_befab776:
+
+    # wi "\"You’re understating things a bit there, Nik.\""
+    wi "“现在不是悠哉的时候，Nik。”"
+
+# game/williamroute3.rpy:13010
+translate Schinese willkanechoice_ca91c96a:
+
+    # ni "\"Why don’t I go get you both some clothes?\""
+    ni "“我去给你们俩拿些穿的来？”"
+
+# game/williamroute3.rpy:13012
+translate Schinese willkanechoice_cda502ec:
+
+    # wi "\"...That would be appreciated, Nik\""
+    wi "“...感激不尽，Nik。”"
+
+# game/williamroute3.rpy:13014
+translate Schinese willkanechoice_ffedfde2:
+
+    # "Sam tells Nik that he hid our guns and keys underneath a barrel."
+    "Sam告诉Nik，他把我们的枪和钥匙藏在一个桶子下面。"
+
+# game/williamroute3.rpy:13015
+translate Schinese willkanechoice_c24b6a48:
+
+    # "I sigh and feel my heart thump just a little bit slower when I still see that they’re there."
+    "看到它们完好无损，我松了口气，感觉没那么提心吊胆了。"
+
+# game/williamroute3.rpy:13017
+translate Schinese willkanechoice_ac890bdd:
+
+    # wi "\"There’s spare clothes in my bedroom.\""
+    wi "“我房间里有多余的衣服。”"
+
+# game/williamroute3.rpy:13018
+translate Schinese willkanechoice_6430d94a:
+
+    # wi "\"Use the iron key for the office and the brass one for the apartment.\""
+    wi "“开警署的门用铁钥匙，公寓的门用铜钥匙。”"
+
+# game/williamroute3.rpy:13020
+translate Schinese willkanechoice_8c5cf651:
+
+    # ni "\"Two shirts, two pants, and some undergarments?\""
+    ni "“两人份的衬衫、裤子，还有内衣是吗？”"
+
+# game/williamroute3.rpy:13022
+translate Schinese willkanechoice_fc4a88b1:
+
+    # "I hear Todd making groaning noises in the barrel."
+    "我听见Todd在桶里呻吟。"
+
+# game/williamroute3.rpy:13024
+translate Schinese willkanechoice_4df48628:
+
+    # wi "\"...three, actually.\""
+    wi "“...其实是三人份。”"
+
+# game/williamroute3.rpy:13025
+translate Schinese willkanechoice_0bcc3a90:
+
+    # "Nik looks shocked."
+    "Nik一脸震惊的模样。"
+
+# game/williamroute3.rpy:13026
+translate Schinese willkanechoice_1dfd0585:
+
+    # ni "\"Who else is up there?\""
+    ni "“还有谁在上面？”"
+
+# game/williamroute3.rpy:13027
+translate Schinese willkanechoice_2f130d50:
+
+    # wi "\"Just the deputy.\""
+    wi "“我的副手而已。”"
+
+# game/williamroute3.rpy:13028
+translate Schinese willkanechoice_a7978c89:
+
+    # ni "\"The deputy?!\""
+    ni "“你的副手？！”"
+
+# game/williamroute3.rpy:13029
+translate Schinese willkanechoice_50b7f7e9:
+
+    # ni "\"Why?\""
+    ni "“为什么？”"
+
+# game/williamroute3.rpy:13030
+translate Schinese willkanechoice_b4b53551:
+
+    # wi "\"Does it matter?\""
+    wi "“这很重要吗？”"
+
+# game/williamroute3.rpy:13031
+translate Schinese willkanechoice_501ff6da:
+
+    # wi "\"Now you gonna help us out here Nik, or nah?\""
+    wi "“你还要不要帮我们了，Nik？”"
+
+# game/williamroute3.rpy:13033
+translate Schinese willkanechoice_a24d69e1:
+
+    # ni "\"Considering you need all the help you can get right now, yes.\""
+    ni "“我当然不会白白看着你们束手无策。”"
+
+# game/williamroute3.rpy:13034
+translate Schinese willkanechoice_42d1452f:
+
+    # ni "\"It is just a little shocking to see you like this.\""
+    ni "“我只是被你们的样子惊到了。”"
+
+# game/williamroute3.rpy:13035
+translate Schinese willkanechoice_8c5b0841:
+
+    # wi "\"You don’t have to tell me that.\""
+    wi "“这我明白。”"
+
+# game/williamroute3.rpy:13037
+translate Schinese willkanechoice_64d864d6:
+
+    # ni "\"I can’t help but feel like this is my fault to some degree.\""
+    ni "“我忍不住觉得自己多少也有责任。”"
+
+# game/williamroute3.rpy:13038
+translate Schinese willkanechoice_6e8406e2:
+
+    # ni "\"I will be back as quickly as possible.\""
+    ni "“我会尽快回来的。”"
+
+# game/williamroute3.rpy:13040
+translate Schinese willkanechoice_33155c0f:
+
+    # "Nik hurries out of the barn and I see him stride across the glade as fast as his stride can take him."
+    "Nik匆匆走出谷仓，大步流星地穿过空地。"
+
+# game/williamroute3.rpy:13042
+translate Schinese willkanechoice_63aa9f2c:
+
+    # "Todd squeals as Sam tries to tug him out of the barrel,holding onto his stubby hips, but his fur is so oily he keeps slipping on back in like cranberry sauce stuck in a can."
+    "Sam抓住他敦实的屁股，试图把他从桶里拽出来，但他的毛太油了，就像罐头里的蔓越莓酱一样滑。"
+
+# game/williamroute3.rpy:13043
+translate Schinese willkanechoice_5231014e:
+
+    # "It doesn’t take long for me to get tired of watching this so I help Sam tip the barrel sideways so gravity can do most of the work."
+    "没多久我就看腻了，于是帮Sam放倒木桶，把大部分工作交给重力。"
+
+# game/williamroute3.rpy:13049
+translate Schinese willkanechoice_0d10d951:
+
+    # to "\"Oof, that smarts!\""
+    to "“哎呀，你们真机智！”"
+
+# game/williamroute3.rpy:13052
+translate Schinese willkanechoice_306b3c4d:
+
+    # m "\"You alright, deputy Bronson?\""
+    m "“你还好吗，Bronson副官？”"
+
+# game/williamroute3.rpy:13055
+translate Schinese willkanechoice_fd12690d:
+
+    # to "\"Well, I reckon so.\""
+    to "“嗯，我想是的。”"
+
+# game/williamroute3.rpy:13056
+translate Schinese willkanechoice_0dc9113f:
+
+    # wi "\"How’d you get in there?\""
+    wi "“你怎么会在那里面？”"
+
+# game/williamroute3.rpy:13057
+translate Schinese willkanechoice_40190433:
+
+    # to "\"Truth be told I don’t exactly remember.\""
+    to "“说实话我也不记得了。”"
+
+# game/williamroute3.rpy:13059
+translate Schinese willkanechoice_26988e4b:
+
+    # to "\"Feels like most of the blood is still rushin’ out of my head.\""
+    to "“我只感觉血液在我的脑子里到处跑。”"
+
+# game/williamroute3.rpy:13061
+translate Schinese willkanechoice_bf03f64b:
+
+    # to "\"All I know is that I definitely didn’t hurt.\""
+    to "“但我可以肯定我没有受伤。”"
+
+# game/williamroute3.rpy:13064
+translate Schinese willkanechoice_3975166c:
+
+    # m "\"Yeah, you’re definitely not the type to gag.\""
+    m "“是啊，深喉的时候你都没吐。”"
+
+# game/williamroute3.rpy:13066
+translate Schinese willkanechoice_959106ac:
+
+    # "Todd nods, but after a moment {nw}"
+    "Todd点了点头，但过了一会儿，{nw}"
+
+# game/williamroute3.rpy:13068
+translate Schinese willkanechoice_1fd71a1f:
+
+    # extend "does a double take."
+    extend "才恍然大悟。"
+
+# game/williamroute3.rpy:13069
+translate Schinese willkanechoice_4bf3b66e:
+
+    # to "\"Oh God we really...\""
+    to "“上帝啊，我们真的...”"
+
+# game/williamroute3.rpy:13071
+translate Schinese willkanechoice_8b97d7ec:
+
+    # "Sam smirks."
+    "Sam坏笑着。"
+
+# game/williamroute3.rpy:13072
+translate Schinese willkanechoice_6cd8236a:
+
+    # m "\"Sure did.\""
+    m "“千真万确。”"
+
+# game/williamroute3.rpy:13073
+translate Schinese willkanechoice_048cdb3c:
+
+    # m "\"And so did Will.\""
+    m "“还有Will也是。”"
+
+# game/williamroute3.rpy:13074
+translate Schinese willkanechoice_bc9fd45b:
+
+    # "He’s flustered now."
+    "他顿时慌张起来。"
+
+# game/williamroute3.rpy:13075
+translate Schinese willkanechoice_efe657be:
+
+    # "Then he lowers his voice."
+    "然后压低声音问道："
+
+# game/williamroute3.rpy:13077
+translate Schinese willkanechoice_42903708:
+
+    # to "\"Is that why all my clothes are gone?\""
+    to "“所以我现在才裸着吗？”"
+
+# game/williamroute3.rpy:13078
+translate Schinese willkanechoice_34203d28:
+
+    # wi "\"No Todd.\""
+    wi "“不，Todd。”"
+
+# game/williamroute3.rpy:13079
+translate Schinese willkanechoice_b663631d:
+
+    # wi "\"That’s because somebody stole them.\""
+    wi "“因为我们的衣服被偷了。”"
+
+# game/williamroute3.rpy:13080
+translate Schinese willkanechoice_23df2ce8:
+
+    # to "\"Stole ‘em?!\""
+    to "“被偷了？！”"
+
+# game/williamroute3.rpy:13081
+translate Schinese willkanechoice_8a94e2ad:
+
+    # to "\"Well people can’t do go doin’ that, I need my clothes to walk around in!\""
+    to "“真不像话，这下我可怎么出门呀！”"
+
+# game/williamroute3.rpy:13082
+translate Schinese willkanechoice_fa1e746e:
+
+    # wi "\"It’s okay, Nik is already getting some of my clothes.\""
+    wi "“别慌，Nik去我的住处拿备用衣服了。”"
+
+# game/williamroute3.rpy:13083
+translate Schinese willkanechoice_253d4bb0:
+
+    # to "\"Now how am I supposed to wear your clothes William?\""
+    to "“我怎么穿得上你的衣服呢，William？”"
+
+# game/williamroute3.rpy:13084
+translate Schinese willkanechoice_de2b6d44:
+
+    # to "\"They’ll fall right offa me!\""
+    to "“一下子就会掉下来了！”"
+
+# game/williamroute3.rpy:13085
+translate Schinese willkanechoice_428843a3:
+
+    # wi "\"There’s a burlap sack in the corner if you prefer that.\""
+    wi "“如果你不喜欢的话，角落里有个麻袋。”"
+
+# game/williamroute3.rpy:13087
+translate Schinese willkanechoice_ee531d3e:
+
+    # "He looks over."
+    "他看了过去。"
+
+# game/williamroute3.rpy:13088
+translate Schinese willkanechoice_cc9b8df3:
+
+    # "I’m starting to think he might actually consider it."
+    "我觉得他可能是认真的。"
+
+# game/williamroute3.rpy:13090
+translate Schinese willkanechoice_f9abb99a:
+
+    # wi "\"Just wear my damn clothes until you can get home and swap them with your own.\""
+    wi "“让你穿你就穿，到时候再换回去。”"
+
+# game/williamroute3.rpy:13091
+translate Schinese willkanechoice_0ed7453b:
+
+    # to "\"But I want my other clothes back!\""
+    to "“可是我想要我的衣服回来呀！”"
+
+# game/williamroute3.rpy:13093
+translate Schinese willkanechoice_0d2ee99e:
+
+    # m "\"He can keep mine.\""
+    m "“我的他留着也无所谓。”"
+
+# game/williamroute3.rpy:13096
+translate Schinese willkanechoice_62a7008c:
+
+    # m "\"They’re practically rags at this point.\""
+    m "“用破烂来形容都算好的了。”"
+
+# game/williamroute3.rpy:13098
+translate Schinese willkanechoice_8f43bb51:
+
+    # to "\"But my vest was special!\""
+    to "“但我的马甲是有特殊意义的！”"
+
+# game/williamroute3.rpy:13100
+translate Schinese willkanechoice_94299537:
+
+    # wi "\"Listen, Todd.\""
+    wi "“听着，Todd。”"
+
+# game/williamroute3.rpy:13101
+translate Schinese willkanechoice_fe147584:
+
+    # wi "\"If I see him again I’ll chase him down and like the dog he is and make him regret taking our stuff. \""
+    wi "“如果再见到那个人，我一定会抓住他，让他后悔把主意打到我们头上。”"
+
+# game/williamroute3.rpy:13102
+translate Schinese willkanechoice_fe57d728:
+
+    # wi "\"I hope I’ve made myself clear?\""
+    wi "“我说得够清楚了吧？”"
+
+# game/williamroute3.rpy:13104
+translate Schinese willkanechoice_ae318d88:
+
+    # to "\"...yes, sheriff.\""
+    to "“...是的，长官。”"
+
+# game/williamroute3.rpy:13105
+translate Schinese willkanechoice_9eb8f1ba:
+
+    # wi "\"We’ve wasted enough time on this stupid detour.\""
+    wi "“我们在原地兜了太多圈子了。”"
+
+# game/williamroute3.rpy:13106
+translate Schinese willkanechoice_2a34a691:
+
+    # wi "\"Questioning Mrs. Greene one last time is far more important than settling any of these personal vendettas.\""
+    wi "“询问Greene太太比解决私人恩怨重要得多。”"
+
+# game/williamroute3.rpy:13107
+translate Schinese willkanechoice_3d0fc08c:
+
+    # to "\"...okay.\""
+    to "“...好吧。”"
+
+# game/williamroute3.rpy:13109
+translate Schinese willkanechoice_81c44430:
+
+    # "I sit down in the corner and cross my legs while Sam leans against a window."
+    "我坐在角落里翘起二郎腿，Sam则靠在窗边。"
+
+# game/williamroute3.rpy:13113
+translate Schinese willkanechoice_414e187c:
+
+    # m "\"In spite of the thief, I hope y’all both had a good time last night.\""
+    m "“无视掉那个小偷，我希望你们度过了一个愉快的夜晚。”"
+
+# game/williamroute3.rpy:13115
+translate Schinese willkanechoice_eaa3f57a:
+
+    # wi "\"Now’s not the time, Sam.\""
+    wi "“现在不是时候，Sam。”"
+
+# game/williamroute3.rpy:13117
+translate Schinese willkanechoice_a0b8400e:
+
+    # "Todd gets a little bit closer to Sam and leans against the other side of the window."
+    "Todd靠近Sam，依在窗户的另一边。"
+
+# game/williamroute3.rpy:13119
+translate Schinese willkanechoice_bdb527d1:
+
+    # to "\"I thought it was a great time, Mr. Ayers.\""
+    to "“那是一段美妙的时光，Ayers先生。”"
+
+# game/williamroute3.rpy:13121
+translate Schinese willkanechoice_218c12dc:
+
+    # m "\"Glad to hear it.\""
+    m "“那就好。”"
+
+# game/williamroute3.rpy:13125
+translate Schinese willkanechoice_85c0a25c:
+
+    # m "\"Because you still both owe me money.\""
+    m "“因为你们俩都欠着我钱呢。”"
+
+# game/williamroute3.rpy:13128
+translate Schinese willkanechoice_2bfb999c:
+
+    # "I stand up, mostly because I feel like shaking Sam, but outside the window I see Nik is already on his way back with bundles under his arm."
+    "我站起来想给他点颜色看看，却瞥到Nik夹着一堆东西回来了。"
+
+# game/williamroute3.rpy:13129
+translate Schinese willkanechoice_38db23ac:
+
+    # wi "\"Nik is damn speedy when he wants to be, huh?\""
+    wi "“只要愿意，Nik也可以很快，对吧？”"
+
+# game/williamroute3.rpy:13131
+translate Schinese willkanechoice_018859d4:
+
+    # m "\"It’s the long stride.\""
+    m "“这就是步子大的好处了。”"
+
+# game/williamroute3.rpy:13135
+translate Schinese willkanechoice_b9a05e66:
+
+    # "I can feel the collective relief washes over us as Nik gets into the building and hands us our clothes, shying away from looking too close."
+    "当Nik走进谷仓，斜着眼把衣服递给我们时，我能明显感觉到所有人都舒了口气。"
+
+# game/williamroute3.rpy:13136
+translate Schinese willkanechoice_992c7741:
+
+    # "Sam fits into my clothes just fine since we’re nearly the same size."
+    "Sam很适合我的衣服，因为我们有相似的尺码。"
+
+# game/williamroute3.rpy:13137
+translate Schinese willkanechoice_914bc82a:
+
+    # "Todd definitely looks like he’s wearing some sort of baptism outfit in my shirt."
+    "至于Todd，我的衬衫对他来说简直就像是洗礼服一样。"
+
+# game/williamroute3.rpy:13139
+translate Schinese willkanechoice_30969d1a:
+
+    # "I thank Nik now that we’re finally properly ready to get on with what we need."
+    "我谢过Nik，多亏了他，我们终于可以继续我们的工作。"
+
+# game/williamroute3.rpy:13140
+translate Schinese willkanechoice_8198b78a:
+
+    # "Todd dashes off homeward to get a proper change of clothes."
+    "Todd一溜烟跑回家换衣服去了。"
+
+# game/williamroute3.rpy:13141
+translate Schinese willkanechoice_5d959b60:
+
+    # "Nik parts ways with us, assuring us that he’d see us again soon."
+    "Nik与我们分别，但他保证我们很快就会再见。"
+
+# game/williamroute3.rpy:13142
+translate Schinese willkanechoice_0195c5c0:
+
+    # "Sam comes with me back to my office to freshen up."
+    "Sam和我一起回警署洗漱。"
+
+# game/williamroute3.rpy:13166
+translate Schinese willsplitB2_c60e29d9:
+
+    # "Kane whistles as he walks away, turning his glass over, and placing it in front of me, {nw}"
+    "Kane将他的杯子转过来放在面前，{nw}"
+
+# game/williamroute3.rpy:13168
+translate Schinese willsplitB2_826c18ef:
+
+    # extend "before disappearing into the crowd and out the barn door."
+    extend "然后吹着哨子从门口离开，消失在了人海中。"
+
+# game/williamroute3.rpy:13172
+translate Schinese willsplitB2_aada1bd2:
+
+    # m "\"You sure that’s what you really wanted.\""
+    m "“这样做真的好吗？”"
+
+# game/williamroute3.rpy:13175
+translate Schinese willsplitB2_8134a358:
+
+    # "I scowl a bit."
+    "我微微皱眉。"
+
+# game/williamroute3.rpy:13176
+translate Schinese willsplitB2_7c64779d:
+
+    # wi "\"Well.\""
+    wi "“这个嘛。”"
+
+# game/williamroute3.rpy:13178
+translate Schinese willsplitB2_9afe3ae9:
+
+    # wi "\"Not particularly.\""
+    wi "“其实并不是。”"
+
+# game/williamroute3.rpy:13179
+translate Schinese willsplitB2_88ded525:
+
+    # wi "\"But it’s really not the time for me to get sloppy.\""
+    wi "“但现在没有时间享乐了。”"
+
+# game/williamroute3.rpy:13181
+translate Schinese willsplitB2_ca0265ce:
+
+    # m "\"Funny thing about time.\""
+    m "“时间的有趣之处就在于-”"
+
+# game/williamroute3.rpy:13184
+translate Schinese willsplitB2_02c8ff9f:
+
+    # m "\"It often runs out.\""
+    m "“它从不等人。”"
+
+# game/williamroute3.rpy:13186
+translate Schinese willsplitB2_c8a31424:
+
+    # "He leans forward on his stool and looks at me."
+    "他靠在椅背上注视着我。"
+
+# game/williamroute3.rpy:13188
+translate Schinese willsplitB2_7c2336e6:
+
+    # m "\"How many chances like this do you think you’re gonna get?\""
+    m "“你认为自己这辈子能有几次这样的机会？”"
+
+# game/williamroute3.rpy:13190
+translate Schinese willsplitB2_216717a4:
+
+    # "I close my eyes and rub my eyelids."
+    "我闭上眼，揉了揉眼皮。"
+
+# game/williamroute3.rpy:13191
+translate Schinese willsplitB2_2e600917:
+
+    # "He whispers in my ear."
+    "他对我耳语："
+
+# game/williamroute3.rpy:13193
+translate Schinese willsplitB2_fa828c80:
+
+    # m "\"I know how much you wanted this.\""
+    m "“我知道你有多么想要。”"
+
+# game/williamroute3.rpy:13195
+translate Schinese willsplitB2_a669b865:
+
+    # "I lower my voice to a whisper too, but it comes across more as a growl."
+    "我同样压低声音，却难以抑制心中的怒火。"
+
+# game/williamroute3.rpy:13196
+translate Schinese willsplitB2_accd2a1d:
+
+    # wi "\"Going through life isn’t always about doing what you want.\""
+    wi "“人不能总是随心所欲地过活。”"
+
+# game/williamroute3.rpy:13200
+translate Schinese willsplitB2_7aba9f64:
+
+    # m "\"Welp.\""
+    m "“哦。”"
+
+# game/williamroute3.rpy:13204
+translate Schinese willsplitB2_fe03ed70:
+
+    # m "\"Easy come, easy go.\""
+    m "“总之，来得快的东西去得也快。”"
+
+# game/williamroute3.rpy:13207
+translate Schinese willsplitB2_b834ce58:
+
+    # m "\"He seemed a bit pushy for your taste, anyhow.\""
+    m "“他那么爱出风头，不合你的口味也正常。”"
+
+# game/williamroute3.rpy:13213
+translate Schinese willsplitB2_c221866c:
+
+    # "I look out into the crowd again, wondering if he’s still lurking somewhere."
+    "我再次望向人群，不知道他是否还在暗中潜伏着。"
+
+# game/williamroute3.rpy:13215
+translate Schinese willsplitB2_dde29e68:
+
+    # "Then I see a back of a German shepherd’s head."
+    "就在这时，我看到一只德国牧羊犬的背影。"
+
+# game/williamroute3.rpy:13216
+translate Schinese willsplitB2_5a47c1c9:
+
+    # "He’s wearing a black tan cardigan and a crisp white shirt."
+    "他穿着一件黑棕色的开襟羊毛衫和一件干练的白衬衫。"
+
+# game/williamroute3.rpy:13217
+translate Schinese willsplitB2_b155b24b:
+
+    # wi "\"Aiden?\""
+    wi "“Aiden？”"
+
+# game/williamroute3.rpy:13218
+translate Schinese willsplitB2_34686c5c:
+
+    # "The figure doesn’t turn around and keeps shuffling through the crowd."
+    "对方没有转身，只是在人群中穿梭。"
+
+# game/williamroute3.rpy:13219
+translate Schinese willsplitB2_0bc5af5d:
+
+    # "I knew he wouldn’t be turning his head."
+    "我知道他不会回头。"
+
+# game/williamroute3.rpy:13220
+translate Schinese willsplitB2_a7485404:
+
+    # "Because that wasn’t his name, and he wasn’t really here."
+    "因为那不是他的名字，他也不在这里。"
+
+# game/williamroute3.rpy:13221
+translate Schinese willsplitB2_deb952d1:
+
+    # "But there was a sudden pang of hope that made me want to call out anyway."
+    "但这伴随着疼痛出现的一缕希望让我无论如何都想喊出来。"
+
+# game/williamroute3.rpy:13229
+translate Schinese willsplitB2_77a33b23:
+
+    # m "\"Who’s Aiden?\""
+    m "“Aiden是谁？”"
+
+# game/williamroute3.rpy:13231
+translate Schinese willsplitB2_6a20a80d:
+
+    # "I shake my head."
+    "我摇摇头。"
+
+# game/williamroute3.rpy:13232
+translate Schinese willsplitB2_a6233a71:
+
+    # wi "\"Somebody from old home who I used to know.\""
+    wi "“我认识的一个同乡。”"
+
+# game/williamroute3.rpy:13234
+translate Schinese willsplitB2_9cd7ca6c:
+
+    # "Sam’s brow furrows."
+    "Sam皱起眉头。"
+
+# game/williamroute3.rpy:13236
+translate Schinese willsplitB2_42da8081:
+
+    # m "\"From the city?\""
+    m "“城里的？”"
+
+# game/williamroute3.rpy:13238
+translate Schinese willsplitB2_08047b24:
+
+    # wi "\"Yeah.\""
+    wi "“是啊。”"
+
+# game/williamroute3.rpy:13240
+translate Schinese willsplitB2_95e3290b:
+
+    # m "\"Why would somebody like that be here?\""
+    m "“那种人怎么会来这种地方？”"
+
+# game/williamroute3.rpy:13242
+translate Schinese willsplitB2_e3fd8c6b:
+
+    # wi "\"He wouldn’t be.\""
+    wi "“他不会来的。”"
+
+# game/williamroute3.rpy:13243
+translate Schinese willsplitB2_2beb6253:
+
+    # wi "\"I just wanted to see if there was a coincidence.\""
+    wi "“我只是心存侥幸罢了。”"
+
+# game/williamroute3.rpy:13244
+translate Schinese willsplitB2_32ecb1d9:
+
+    # "Sam rightfully strums his paw on the table as if I had just started speaking in tongues."
+    "Sam在桌上拨弄着手指，神情自若，好像没听懂我刚才的话一样。"
+
+# game/williamroute3.rpy:13246
+translate Schinese willsplitB2_5ee02e90:
+
+    # m "\"Okay then.\""
+    m "“好吧。”"
+
+# game/williamroute3.rpy:13254
+translate Schinese skipkane_9d7fe883:
+
+    # "The barkeep, a tawny fox, approaches and sets down a mug to get our attention."
+    "酒保，一只茶色的狐狸走过来，放下一个杯子，好引起我们的注意。"
+
+# game/williamroute3.rpy:13255
+translate Schinese skipkane_e156f8c2:
+
+    # "Barkeep" "\"More pints?\""
+    "Barkeep" "“喝点什么？”"
+
+# game/williamroute3.rpy:13258
+translate Schinese skipkane_c45bcf5b:
+
+    # m "\"I think we’re probably done.\""
+    m "“不用了。”"
+
+# game/williamroute3.rpy:13260
+translate Schinese skipkane_94db95ee:
+
+    # wi "\"Yeah, give me another.\""
+    wi "“再给我一杯。”"
+
+# game/williamroute3.rpy:13261
+translate Schinese skipkane_013931cc:
+
+    # "The fox nods and takes my mug to a barrel."
+    "狐狸点点头，拿着我的杯子回到酒桶。"
+
+# game/williamroute3.rpy:13263
+translate Schinese skipkane_c1ec512f:
+
+    # m "\"Weren’t you just making a fuss about not getting sloppy?\""
+    m "“你不是刚说没时间享乐吗？”"
+
+# game/williamroute3.rpy:13265
+translate Schinese skipkane_cf57e27f:
+
+    # wi "\"I have a much higher tolerance than you.\""
+    wi "“别拿你的酒量跟我的相提并论。”"
+
+# game/williamroute3.rpy:13266
+translate Schinese skipkane_22906cd5:
+
+    # wi "\"Frankly, I’d probably get more lip from anybody here if I {i}weren’t{/i} drinking.\""
+    wi "“况且{b}不{/b}喝点什么的话，我怕控制不住自己的嘴。”"
+
+# game/williamroute3.rpy:13267
+translate Schinese skipkane_d96c033a:
+
+    # ni "\"There you both are.\""
+    ni "“你们在这啊。”"
+
+# game/williamroute3.rpy:13269
+translate Schinese skipkane_3ae62536:
+
+    # "I hear Nik’s voice behind me before I turn around to see him."
+    "后面传来了Nik的声音，于是我转过身。"
+
+# game/williamroute3.rpy:13271
+translate Schinese skipkane_1a34ee48:
+
+    # wi "\"Hello Nik.\""
+    wi "“你好吗，Nik。”"
+
+# game/williamroute3.rpy:13273
+translate Schinese skipkane_fccc7736:
+
+    # m "\"...Hello.\""
+    m "“...你好。”"
+
+# game/williamroute3.rpy:13276
+translate Schinese skipkane_1c1a5e5e:
+
+    # ni "\"So....\""
+    ni "“所以...”"
+
+# game/williamroute3.rpy:13277
+translate Schinese skipkane_4856ce53:
+
+    # ni "\"The reason why I wanted you to come tonight was so we could spend the night {i}together{/i}.\""
+    ni "“我之所以让你过来，是希望{b}我们{/b}能共度一夜。”"
+
+# game/williamroute3.rpy:13279
+translate Schinese skipkane_1f4dd7a2:
+
+    # wi "\"I thought that’s what we’re doing.\""
+    wi "“那你的愿望已经实现了。”"
+
+# game/williamroute3.rpy:13281
+translate Schinese skipkane_662f576d:
+
+    # m "\"...Yes.\""
+    m "“...是啊。”"
+
+# game/williamroute3.rpy:13284
+translate Schinese skipkane_1c11f947:
+
+    # ni "\"Well, no.\""
+    ni "“不。”"
+
+# game/williamroute3.rpy:13285
+translate Schinese skipkane_aef7ab7b:
+
+    # ni "\"That is not exactly the truth.\""
+    ni "“事实并非如此。”"
+
+# game/williamroute3.rpy:13286
+translate Schinese skipkane_c1097284:
+
+    # ni "\"You both keep going off together.\""
+    ni "“一直在一起的是你们两个。”"
+
+# game/williamroute3.rpy:13288
+translate Schinese skipkane_3e446dec:
+
+    # ni "\"Without me.\""
+    ni "“没有我。”"
+
+# game/williamroute3.rpy:13290
+translate Schinese skipkane_94004a03:
+
+    # "Oh."
+    "哇。"
+
+# game/williamroute3.rpy:13291
+translate Schinese skipkane_4e20e7da:
+
+    # "Oh boy."
+    "好家伙。"
+
+# game/williamroute3.rpy:13292
+translate Schinese skipkane_1962d369:
+
+    # "I didn’t think he’d want to go into this tonight."
+    "这话题有够意外的。"
+
+# game/williamroute3.rpy:13293
+translate Schinese skipkane_34921d80:
+
+    # wi "\"We’re glad to have you here now.\""
+    wi "“有你在我们当然高兴了。”"
+
+# game/williamroute3.rpy:13294
+translate Schinese skipkane_85eb5fff:
+
+    # wi "\"Aren’t we, Sam?\""
+    wi "“是不是啊，Sam？”"
+
+# game/williamroute3.rpy:13296
+translate Schinese skipkane_6e1eb639:
+
+    # m "\"Hold on, I could use another drink.\""
+    m "“等等，我也喝点好了。”"
+
+# game/williamroute3.rpy:13299
+translate Schinese skipkane_6e4e82f8:
+
+    # m "\"Barkeep!\""
+    m "“酒保！”"
+
+# game/williamroute3.rpy:13302
+translate Schinese skipkane_0e8abcfe:
+
+    # m "\"Over here! Another pint, please!\""
+    m "“这边！麻烦再来一杯！”"
+
+# game/williamroute3.rpy:13304
+translate Schinese skipkane_f881166f:
+
+    # wi "\"You see?\""
+    wi "“你看吧？”"
+
+# game/williamroute3.rpy:13305
+translate Schinese skipkane_3946d539:
+
+    # wi "\"Everybody’s having a great time.\""
+    wi "“大家玩得都很尽兴。”"
+
+# game/williamroute3.rpy:13307
+translate Schinese skipkane_e38dca32:
+
+    # ni "\"You are right.\""
+    ni "“你说的对。”"
+
+# game/williamroute3.rpy:13309
+translate Schinese skipkane_ed0d0b1c:
+
+    # ni @ talking "\"I do see.\""
+    ni @ talking "“我看在眼里。”"
+
+# game/williamroute3.rpy:13311
+translate Schinese skipkane_822ccd79:
+
+    # "He sits on the opposite side of Sam with a thud."
+    "他重重地坐在Sam的对面。"
+
+# game/williamroute3.rpy:13312
+translate Schinese skipkane_96e65d70:
+
+    # ni @ talking "\"However, it would be good to hear that from Sam himself.\""
+    ni @ talking "“但是，我更想从Sam嘴里听到这些话。”"
+
+# game/williamroute3.rpy:13313
+translate Schinese skipkane_4e43e949:
+
+    # "Sam is not looking at him."
+    "Sam没有直视他。"
+
+# game/williamroute3.rpy:13314
+translate Schinese skipkane_7734e650:
+
+    # "In fact, he’s staring straight forward."
+    "更确切地说，他在凝视前方空气。"
+
+# game/williamroute3.rpy:13315
+translate Schinese skipkane_8becb43d:
+
+    # "Scowling."
+    "愁眉不展。"
+
+# game/williamroute3.rpy:13317
+translate Schinese skipkane_1f228d29:
+
+    # m "\"Okay.\""
+    m "“行。”"
+
+# game/williamroute3.rpy:13320
+translate Schinese skipkane_144f7697:
+
+    # m "\"Let’s talk about anything.\""
+    m "“随你。”"
+
+# game/williamroute3.rpy:13323
+translate Schinese skipkane_476d4b87:
+
+    # m "\"It’s good that William’s here, too, considering he’d hear about anything we talked about anyhow.\""
+    m "“正好Wil也在，反正不管我们说什么都躲不过他的耳朵。”"
+
+# game/williamroute3.rpy:13326
+translate Schinese skipkane_be361a59:
+
+    # m "\"Saves us some time.\""
+    m "“咱们开门见山吧。”"
+
+# game/williamroute3.rpy:13329
+translate Schinese skipkane_2643ddc1:
+
+    # ni "\"You would have done the same to me if something was obviously wrong, and you withhold it!\""
+    ni "“发生了这么大的事，你可以向他全盘托出，却不肯对我透露半点风声！”"
+
+# game/williamroute3.rpy:13331
+translate Schinese skipkane_5cdd5758:
+
+    # m "\"Wrong.\""
+    m "“错了。”"
+
+# game/williamroute3.rpy:13334
+translate Schinese skipkane_2a99ef00:
+
+    # ni "\"Not wrong!\""
+    ni "“没有错！”"
+
+# game/williamroute3.rpy:13337
+translate Schinese skipkane_e237f225:
+
+    # "Nikolai’s fist pounded the table." with vpunch
+    "Nikolai一拳猛地砸在桌子上。" with vpunch
+
+# game/williamroute3.rpy:13339
+translate Schinese skipkane_f21b2f74:
+
+    # "Some of the other bar patrons were looking our way."
+    "酒吧里的其他客人纷纷看了过来。"
+
+# game/williamroute3.rpy:13341
+translate Schinese skipkane_13e6c1ae:
+
+    # "The barkeep delivered Sam’s beer."
+    "酒保送来Sam的啤酒。"
+
+# game/williamroute3.rpy:13342
+translate Schinese skipkane_ab80b2d8:
+
+    # "Slowly."
+    "缓慢地。"
+
+# game/williamroute3.rpy:13343
+translate Schinese skipkane_be61d9fe:
+
+    # ni "\"I thought somebody was after you!\""
+    ni "“我原以为有人在追你！”"
+
+# game/williamroute3.rpy:13344
+translate Schinese skipkane_e254af2a:
+
+    # ni "\"I thought you were in danger, that you client wanted to hush you up, or that you were borrowing money...\""
+    ni "“我担心你受到了某个客户的威胁，或者是想躲债...”"
+
+# game/williamroute3.rpy:13345
+translate Schinese skipkane_ad402888:
+
+    # ni "\"I was scared for you and you cut me out!\""
+    ni "“我为你提心吊胆，你却把我当成局外人！”"
+
+# game/williamroute3.rpy:13348
+translate Schinese skipkane_8e4693bf:
+
+    # m "\"By ratting on me to William?!\""
+    m "“提心吊胆，然后转手把我卖给William？！”"
+
+# game/williamroute3.rpy:13350
+translate Schinese skipkane_b708b104:
+
+    # "I understand where he’s coming from, but it’s awkward being talked about like that when I’m right here."
+    "我能理解他的心情，但被人指鼻子说也太尴尬了。"
+
+# game/williamroute3.rpy:13352
+translate Schinese skipkane_10759d06:
+
+    # m "\"Fuck!\""
+    m "“操！”"
+
+# game/williamroute3.rpy:13355
+translate Schinese skipkane_a2569715:
+
+    # ni "\"I want a beer also, barkeep.\""
+    ni "“酒保，也给我一杯啤酒。”"
+
+# game/williamroute3.rpy:13357
+translate Schinese skipkane_d5c46b7e:
+
+    # "This poor man exhales."
+    "那个可怜的人在喘气。"
+
+# game/williamroute3.rpy:13358
+translate Schinese skipkane_0ce79691:
+
+    # "Barkeep" "\"I'll go do that then...\""
+    "Barkeep" "“我这就去弄...”"
+
+# game/williamroute3.rpy:13360
+translate Schinese skipkane_2b896f40:
+
+    # "Sam sips his drink while Nik becomes the one to taps his claws."
+    "Sam抿了一口酒，Nik则拍着手背。"
+
+# game/williamroute3.rpy:13361
+translate Schinese skipkane_15d5bfc6:
+
+    # wi "\"Do y’all feel better now?\""
+    wi "“你们现在感觉好点了吗？”"
+
+# game/williamroute3.rpy:13363
+translate Schinese skipkane_499b85ea:
+
+    # m "\"Yes.\""
+    m "“嗯。”"
+
+# game/williamroute3.rpy:13365
+translate Schinese skipkane_2271616f:
+
+    # ni @ talking "\"No.\""
+    ni @ talking "“没有。”"
+
+# game/williamroute3.rpy:13366
+translate Schinese skipkane_e3a37a7b:
+
+    # "I rub my temples."
+    "我揉了揉太阳穴。"
+
+# game/williamroute3.rpy:13367
+translate Schinese skipkane_5df86855:
+
+    # wi "\"Well, I’m sorry you think I’m that much of a bastard, Sam, but Nik came looking for me and told me what happened based on concern for you.\""
+    wi "“好吧，很抱歉我在你眼里是个混蛋，Sam，但Nik找我商量你的事完全是为了你好。”"
+
+# game/williamroute3.rpy:13369
+translate Schinese skipkane_e52ddcde:
+
+    # m "\"Because it was a stupid thing to do.\""
+    m "“我看是蠢吧。”"
+
+# game/williamroute3.rpy:13372
+translate Schinese skipkane_aa9f19db:
+
+    # ni "\"Stupid?!\""
+    ni "“蠢？！”"
+
+# game/williamroute3.rpy:13374
+translate Schinese skipkane_ad1e9de7:
+
+    # m "\"You can be that much of a bastard, Will.\""
+    m "“你的确是个混蛋，Will。”"
+
+# game/williamroute3.rpy:13377
+translate Schinese skipkane_a09b3945:
+
+    # m "\"When you want the truth, you get ruthless.\""
+    m "“为了真相，你可以变得冷血无情。”"
+
+# game/williamroute3.rpy:13379
+translate Schinese skipkane_25cd17c9:
+
+    # "I feel grateful that the music in the barn is too loud for much of anybody to hear what they’re saying."
+    "感谢谷仓里的音乐吵到别人听不清他们在讲什么。"
+
+# game/williamroute3.rpy:13380
+translate Schinese skipkane_0e495abd:
+
+    # wi "\"Fair.\""
+    wi "“我不反驳。”"
+
+# game/williamroute3.rpy:13381
+translate Schinese skipkane_7cf237c3:
+
+    # wi "\"Be that as is it may...\""
+    wi "“但归根结底...”"
+
+# game/williamroute3.rpy:13383
+translate Schinese skipkane_028e5213:
+
+    # wi "\"Nik told me what he did out of concern for you.\""
+    wi "“我之所以了解这一切，不外乎是Nik对你的关心。”"
+
+# game/williamroute3.rpy:13384
+translate Schinese skipkane_11928a3c:
+
+    # wi "\"So why don’t you turn around, look him in the eye, shake his hand, and tell him {i}‘thank you’{/i}.\""
+    wi "“所以你为什么不转过身来，看着他的眼睛，与他握手言和，对他说一声{b}‘谢谢’{/b}呢？”"
+
+# game/williamroute3.rpy:13386
+translate Schinese skipkane_b1e4d0e7:
+
+    # m "\"Can’t.\""
+    m "“我做不到。”"
+
+# game/williamroute3.rpy:13389
+translate Schinese skipkane_ac06fe1a:
+
+    # m "\"His eyes go dopey when he’s mad.\""
+    m "“他一生气，两眼就会发呆。”"
+
+# game/williamroute3.rpy:13392
+translate Schinese skipkane_d47b8d26:
+
+    # ni "\"No they do not!\""
+    ni "“我没有！”"
+
+# game/williamroute3.rpy:13393
+translate Schinese skipkane_adfd9d2e:
+
+    # "I’m not gonna remark on the validity of that claim."
+    "我无意评判这说法的准确性。"
+
+# game/williamroute3.rpy:13396
+translate Schinese skipkane_7d3de603:
+
+    # wi "\"Sam.\""
+    wi "“Sam。”"
+
+# game/williamroute3.rpy:13398
+translate Schinese skipkane_1bc2ed61:
+
+    # m "\"Will.\""
+    m "“Will。”"
+
+# game/williamroute3.rpy:13400
+translate Schinese skipkane_fe34d24a:
+
+    # "I take a deep chug of my mug and then set it down."
+    "我痛饮一大口酒，放下杯子。"
+
+# game/williamroute3.rpy:13401
+translate Schinese skipkane_5905ac91:
+
+    # wi "\"Stop being such a pussy.\""
+    wi "“别像个娘们一样。”"
+
+# game/williamroute3.rpy:13402
+translate Schinese skipkane_f713d2c1:
+
+    # "Sam’s claws retract around his Mug and he scrapes the glass."
+    "Sam收紧爪子，刮花了玻璃。"
+
+# game/williamroute3.rpy:13404
+translate Schinese skipkane_ad433fd3:
+
+    # m "\"Fine.\""
+    m "“好吧。”"
+
+# game/williamroute3.rpy:13406
+translate Schinese skipkane_2ac92c06:
+
+    # wi "\"Tell him thank you for caring about you.\""
+    wi "“对他说：谢谢你的关心。”"
+
+# game/williamroute3.rpy:13408
+translate Schinese skipkane_37cf61b9:
+
+    # m "\"Thank you for caring about me, Nik.\""
+    m "“谢谢你关心我，Nik。”"
+
+# game/williamroute3.rpy:13410
+translate Schinese skipkane_317124b7:
+
+    # "Nik is still staring."
+    "Nik只是凝视着他。"
+
+# game/williamroute3.rpy:13413
+translate Schinese skipkane_8a9a60da:
+
+    # "Then his chest heaves with a sniff."
+    "然后胸口开始起伏。"
+
+# game/williamroute3.rpy:13414
+translate Schinese skipkane_f9cfd773:
+
+    # "He makes a low, loud sound as tears well up around his eyes."
+    "泪水在他的眼眶中打转，他的哭声沉闷而又响亮。"
+
+# game/williamroute3.rpy:13416
+translate Schinese skipkane_48146796:
+
+    # m "\"Don’t cry, Nik...\""
+    m "“别哭了，Nik...”"
+
+# game/williamroute3.rpy:13418
+translate Schinese skipkane_dbb1ac5e:
+
+    # "He looks around, cheeks flushed."
+    "他环顾四周，脸颊发红。"
+
+# game/williamroute3.rpy:13420
+translate Schinese skipkane_655be98e:
+
+    # m "\"At least not here... not where people can...\""
+    m "“至少别在这...人们在看...”"
+
+# game/williamroute3.rpy:13422
+translate Schinese skipkane_4e942a37:
+
+    # "Tears well up in his eyes too."
+    "他同样眼含泪水。"
+
+# game/williamroute3.rpy:13424
+translate Schinese skipkane_afbc3996:
+
+    # "Nik wraps his big arms around Sam and holds him tight, both shuddering, making one another damp."
+    "Nik用他那双的粗壮的胳膊抱住Sam，紧紧地抱着。他们二人无不颤抖，泪湿衣襟。"
+
+# game/williamroute3.rpy:13427
+translate Schinese skipkane_d869aab9:
+
+    # "A group of drunks around us start to clap."
+    "周围一群醉汉鼓起了掌。"
+
+# game/williamroute3.rpy:13429
+translate Schinese skipkane_9f703c0d:
+
+    # "They flinch, letting go of each other immediately and going back to their drinks."
+    "他们闻声赶忙放开对方，拿起杯子继续喝酒。"
+
+# game/williamroute3.rpy:13430
+translate Schinese skipkane_e4c69384:
+
+    # "The music picks up again and the drunk people begin to dance once more."
+    "音乐再度响起，醉汉们回到了舞池中。"
+
+# game/williamroute3.rpy:13433
+translate Schinese skipkane_cb594f41:
+
+    # "Nik wipes his eyes."
+    "Nik擦了擦眼睛。"
+
+# game/williamroute3.rpy:13434
+translate Schinese skipkane_aafc1b57:
+
+    # ni "\"Perhaps it would be best to discuss this somewhere more private.\""
+    ni "“我们最好找个私密的地方讨论这个问题。”"
+
+# game/williamroute3.rpy:13436
+translate Schinese skipkane_99723d1f:
+
+    # "Sam wipes his eyes and {nw}"
+    "Sam也擦了擦眼睛，{nw}"
+
+# game/williamroute3.rpy:13438
+translate Schinese skipkane_a70ac714:
+
+    # extend "scowls as his ears go flat."
+    extend "然后皱起眉，耳朵倒向后面。"
+
+# game/williamroute3.rpy:13439
+translate Schinese skipkane_df61b5c2:
+
+    # m @ talking "You don’t say...\""
+    m @ talking "“比如说...”"
+
+# game/williamroute3.rpy:13442
+translate Schinese skipkane_14b41f73:
+
+    # wi "\"You know this place better than us, Nik.\""
+    wi "“你比我们都了解这里。”"
+
+# game/williamroute3.rpy:13443
+translate Schinese skipkane_1f2f2ee2:
+
+    # wi "\"Lead the way.\""
+    wi "“带路吧。”"
+
+# game/williamroute3.rpy:13446
+translate Schinese skipkane_d5c8c288:
+
+    # "Me and Nik stand while {nw}"
+    "我和Nik同时站起来，{nw}"
+
+# game/williamroute3.rpy:13450
+translate Schinese skipkane_a7091218:
+
+    # extend "Sam looks off into the corner."
+    extend "Sam却望向角落。"
+
+# game/williamroute3.rpy:13451
+translate Schinese skipkane_a27ec944:
+
+    # m @ talking "Think its wise to leave the deputy by himself?\""
+    m @ talking "“就这么抛下你的副手好吗？”"
+
+# game/williamroute3.rpy:13452
+translate Schinese skipkane_fe66eb02:
+
+    # "I follow his gaze."
+    "我随他的目光看去。"
+
+# game/williamroute3.rpy:13453
+translate Schinese skipkane_129ee344:
+
+    # "The deputy is holding a spoon with his mouth and an egg in it, twirling while a group of people, including Mr. Byrnes and Mr. Tibbits, clap for him."
+    "只见Todd正嘴里叼着勺子表演抛蛋杂技，收获了包括Byrnes先生和Tibbits先生在内的一群人的掌声。"
+
+# game/williamroute3.rpy:13454
+translate Schinese skipkane_8b091814:
+
+    # wi "Let’s worry about one thing at a time.\""
+    wi "“一次担心一件事就够了。”"
+
+# game/williamroute3.rpy:13458
+translate Schinese skipkane_219dbacf:
+
+    # "Nik walks us out of the barn and into the field with the small patches of fire."
+    "Nik带我们离开酒吧，走进燃着篝火的田野。"
+
+# game/williamroute3.rpy:13459
+translate Schinese skipkane_ce675dfa:
+
+    # "We see shadows shuffling about, most going in and out of barns."
+    "人影涌动着，往来于谷仓之间。"
+
+# game/williamroute3.rpy:13461
+translate Schinese skipkane_421a9c23:
+
+    # "But Nik takes us into a little copse of trees."
+    "但Nik把我们带到了一片小树林里。"
+
+# game/williamroute3.rpy:13464
+translate Schinese skipkane_41569b44:
+
+    # "We walk about ten minutes through brush and come along to a big tree with splitting branches that covers the sandy floor with its canopy."
+    "我们在灌木丛中走了近十分钟，来到一棵枝繁叶茂的大树下。"
+
+# game/williamroute3.rpy:13468
+translate Schinese skipkane_8022ea7f:
+
+    # ni "\"Good.\""
+    ni "“很好。”"
+
+# game/williamroute3.rpy:13470
+translate Schinese skipkane_e0f31da5:
+
+    # ni "\"Thankfully nobody’s here tonight...\""
+    ni "“谢天谢地，今晚没人...”"
+
+# game/williamroute3.rpy:13471
+translate Schinese skipkane_c094675a:
+
+    # "I cock my eyebrow."
+    "我翘起一边眉毛。"
+
+# game/williamroute3.rpy:13473
+translate Schinese skipkane_5095eb2b:
+
+    # wi "\"People frequent this tree?\""
+    wi "“常有人来这边吗？”"
+
+# game/williamroute3.rpy:13475
+translate Schinese skipkane_b2688f5b:
+
+    # ni "It’s a useful shape.\""
+    ni "“这形状很方便的。”"
+
+# game/williamroute3.rpy:13478
+translate Schinese skipkane_447b2043:
+
+    # "Sam steps between the v-shape in the trunks and feels up the bark."
+    "Sam走到V型枝干前，摸了摸树皮。"
+
+# game/williamroute3.rpy:13481
+translate Schinese skipkane_690a00fc:
+
+    # m "\"Good for bending over.\""
+    m "“适合弯腰。”"
+
+# game/williamroute3.rpy:13482
+translate Schinese skipkane_78446800:
+
+    # "Nik ignores this."
+    "Nik无视了他的话。"
+
+# game/williamroute3.rpy:13485
+translate Schinese skipkane_c4ba9562:
+
+    # ni "\"I meant as a landmark for leaving and picking up things.\""
+    ni "“我的意思是作为路标很便利。”"
+
+# game/williamroute3.rpy:13488
+translate Schinese skipkane_23cb7eda:
+
+    # ni "\"Sometimes it draws a crowd during the day, but I have seen no one come here after dark.\""
+    ni "“有时白天会吸引不少人来，但天黑后没有了。”"
+
+# game/williamroute3.rpy:13490
+translate Schinese skipkane_8d4b8e2c:
+
+    # wi "\"Right...\""
+    wi "“好吧...”"
+
+# game/williamroute3.rpy:13491
+translate Schinese skipkane_0bed5529:
+
+    # wi "\"So do the both of you feel better now that you’ve spoken your peace.\""
+    wi "“既然说出了心里话，你们俩有感觉好些吗？”"
+
+# game/williamroute3.rpy:13493
+translate Schinese skipkane_b8d48463:
+
+    # m "\"I guess.\""
+    m "“应该吧。”"
+
+# game/williamroute3.rpy:13496
+translate Schinese skipkane_5f78b3e3:
+
+    # ni "\"I just want things to feel right between me and Sam again.\""
+    ni "“我只是想恢复和Sam的关系。”"
+
+# game/williamroute3.rpy:13499
+translate Schinese skipkane_743b4a76:
+
+    # ni "\"At least before I moved to Payton.\""
+    ni "“至少在我搬去佩顿前。”"
+
+# game/williamroute3.rpy:13500
+translate Schinese skipkane_81c72e31:
+
+    # "Me and Sam snap our attention to Nik."
+    "他挑起了我和Sam的注意力。"
+
+# game/williamroute3.rpy:13503
+translate Schinese skipkane_4cbd156d:
+
+    # m "\"You never told us that.\""
+    m "“你怎么不跟我们说。”"
+
+# game/williamroute3.rpy:13505
+translate Schinese skipkane_2472aeb3:
+
+    # wi "\"How soon?\""
+    wi "“什么时候出发？”"
+
+# game/williamroute3.rpy:13507
+translate Schinese skipkane_fa7ade8c:
+
+    # "He holds his hips and sighs."
+    "他叉着腰，叹了口气。"
+
+# game/williamroute3.rpy:13508
+translate Schinese skipkane_0c39bcf0:
+
+    # ni "\"Less than a week.\""
+    ni "“一周之内。”"
+
+# game/williamroute3.rpy:13509
+translate Schinese skipkane_53f9b31f:
+
+    # "This is sudden."
+    "这太突然了。"
+
+# game/williamroute3.rpy:13511
+translate Schinese skipkane_6fc4837f:
+
+    # wi "\"Really now?\""
+    wi "“此话当真吗？”"
+
+# game/williamroute3.rpy:13513
+translate Schinese skipkane_fc292ef5:
+
+    # m "\"And to think you got mad at {i}me{/i} for withholding things.\""
+    m "“你还因为{b}我{/b}有所隐瞒而生我的气呢。”"
+
+# game/williamroute3.rpy:13516
+translate Schinese skipkane_ab0e11bb:
+
+    # ni "\"I am not withholding it!\""
+    ni "“我没有瞒着你们！”"
+
+# game/williamroute3.rpy:13518
+translate Schinese skipkane_a72e13c9:
+
+    # ni "\"My decision is recent.\""
+    ni "“这是我最近做出的决定。”"
+
+# game/williamroute3.rpy:13519
+translate Schinese skipkane_22d62a94:
+
+    # ni "\"A much better opportunity showed up for me and I will be taking it.\""
+    ni "“一个更好的机会摆在我眼前，我不想错过它。”"
+
+# game/williamroute3.rpy:13522
+translate Schinese skipkane_e0beed67:
+
+    # "I think I hear the train for a moment but it’s just wind rustling through the leaves."
+    "有一瞬间，我似乎听见了火车的声音，但只是树叶在风中沙沙作响。"
+
+# game/williamroute3.rpy:13524
+translate Schinese skipkane_e6e760cc:
+
+    # "Samuel tsks."
+    "Samuel咂舌道："
+
+# game/williamroute3.rpy:13526
+translate Schinese skipkane_5da3d3c7:
+
+    # m "\"{i}Payton{/i} though?\""
+    m "“{b}佩顿{/b}吗？”"
+
+# game/williamroute3.rpy:13530
+translate Schinese skipkane_fb6bd8b1:
+
+    # m "\"Why the hell Payton of all places?\""
+    m "“为什么偏偏是佩顿？”"
+
+# game/williamroute3.rpy:13533
+translate Schinese skipkane_fbe936fe:
+
+    # m "\"If you’re just gonna go, then consider going farther.\""
+    m "“都打算走了，当然是越远越好啊。”"
+
+# game/williamroute3.rpy:13536
+translate Schinese skipkane_8d9155af:
+
+    # ni "\"Because it makes me easier to follow.\""
+    ni "“因为这样方便别人跟上。”"
+
+# game/williamroute3.rpy:13538
+translate Schinese skipkane_0fa5897a:
+
+    # ni "\"I thought there might be a chance some of you might follow me there.\""
+    ni "“我想你们中的一些人可能会跟我一起。”"
+
+# game/williamroute3.rpy:13540
+translate Schinese skipkane_52a3a8a3:
+
+    # m "\"Nik, that place is even more of a hellhole than here.\""
+    m "“那里可是比这里还像地狱啊，Nik。”"
+
+# game/williamroute3.rpy:13543
+translate Schinese skipkane_04c582f6:
+
+    # m "\"They don’t even got electricity on the streets yet.\""
+    m "“他们的街道连电都没通。”"
+
+# game/williamroute3.rpy:13546
+translate Schinese skipkane_c647c444:
+
+    # ni "\"I have faith that not only will they catch up to Echo’s amenities, but exceed them.\""
+    ni "“我相信佩顿的发展能赶上回音镇，甚至超越回音镇。”"
+
+# game/williamroute3.rpy:13548
+translate Schinese skipkane_f4f399d6:
+
+    # ni "\"There is a steel mill and welder’s cooperative I have been asked to partake in.\""
+    ni "“那里的造钢厂和焊工合作社邀请我入职。”"
+
+# game/williamroute3.rpy:13551
+translate Schinese skipkane_a19afb2a:
+
+    # wi "\"Since when do you weld?\""
+    wi "“你什么时候学的焊接？”"
+
+# game/williamroute3.rpy:13553
+translate Schinese skipkane_7f23c00e:
+
+    # ni "\"Since the moment they teach me to.\""
+    ni "“他们教我的时候。”"
+
+# game/williamroute3.rpy:13556
+translate Schinese skipkane_3db7b58e:
+
+    # ni "\"Skills can be learned.\""
+    ni "“技能可以学习。”"
+
+# game/williamroute3.rpy:13559
+translate Schinese skipkane_b8c2f355:
+
+    # ni "\"My connections are more important than what I know.\""
+    ni "“而比知识更重要的是人脉。”"
+
+# game/williamroute3.rpy:13561
+translate Schinese skipkane_e782b816:
+
+    # ni "\"The working conditions and the low pay here are no longer feasible.\""
+    ni "“这里的工作条件和工资已经低到令人发指了。”"
+
+# game/williamroute3.rpy:13563
+translate Schinese skipkane_72992343:
+
+    # "It’s hard for me to think of a time within the last two years where the three of us weren’t together."
+    "在过去的两年里，我很难想象我们三个人会有分别的一天。"
+
+# game/williamroute3.rpy:13565
+translate Schinese skipkane_1d7bd140:
+
+    # "Going on without Nik here is gonna be hard."
+    "没有Nik的日子想必会很难熬吧。"
+
+# game/williamroute3.rpy:13567
+translate Schinese skipkane_f475e807:
+
+    # ni "\"You both aren’t saying anything.\""
+    ni "“你们怎么不说话了。”"
+
+# game/williamroute3.rpy:13569
+translate Schinese skipkane_251579b5:
+
+    # wi "\"What is there to say?\""
+    wi "“有什么好说的？”"
+
+# game/williamroute3.rpy:13570
+translate Schinese skipkane_1c66d983:
+
+    # wi "\"I respect the decision.\""
+    wi "“我尊重你的决定。”"
+
+# game/williamroute3.rpy:13571
+translate Schinese skipkane_ad76be37:
+
+    # wi "\"Sam doesn’t like it here either.\""
+    wi "“Sam也不喜欢这里。”"
+
+# game/williamroute3.rpy:13573
+translate Schinese skipkane_14335a89:
+
+    # m "\"I like the both of you though.\""
+    m "“但我喜欢你们。”"
+
+# game/williamroute3.rpy:13575
+translate Schinese skipkane_84d08191:
+
+    # "I put my hand in my pockets and listen to the crickets chirp."
+    "我两手插兜，听着蟋蟀的鸣唱声。"
+
+# game/williamroute3.rpy:13576
+translate Schinese skipkane_080a3ea1:
+
+    # wi "\"Ain’t that just the way of things, though?\""
+    wi "“生活不就是这么一回事吗？”"
+
+# game/williamroute3.rpy:13577
+translate Schinese skipkane_c6ae7a26:
+
+    # wi "\"Life is just a series of people coming and going.\""
+    wi "“人们来了又去。”"
+
+# game/williamroute3.rpy:13578
+translate Schinese skipkane_c28ef64c:
+
+    # wi "\"People you hate just as much as the people you...\""
+    wi "“有多少你讨厌的人，就有多少讨厌你的人...”"
+
+# game/williamroute3.rpy:13579
+translate Schinese skipkane_d5bd0af5:
+
+    # "They both watch me carefully."
+    "他们认真地看着我。"
+
+# game/williamroute3.rpy:13582
+translate Schinese skipkane_04e11aa0:
+
+    # wi "\"You know, we’re about as close as three men can be with one another, ain’t we?\""
+    wi "“不过咱们三个的情谊天地可鉴，难道不是吗？”"
+
+# game/williamroute3.rpy:13584
+translate Schinese skipkane_e24a5449:
+
+    # "Nikolai blushes."
+    "Nikolai红了脸。"
+
+# game/williamroute3.rpy:13585
+translate Schinese skipkane_0cbde79e:
+
+    # "Sam looks like he’s thinking."
+    "Sam像是在思考什么。"
+
+# game/williamroute3.rpy:13588
+translate Schinese skipkane_209b6c8e:
+
+    # m "\"I want you to talk that out, William.\""
+    m "“我希望你能说出来，William。”"
+
+# game/williamroute3.rpy:13590
+translate Schinese skipkane_24fbd942:
+
+    # wi "\"Now, hold on a minute.\""
+    wi "“给我等一下。”"
+
+# game/williamroute3.rpy:13592
+translate Schinese skipkane_2eb17330:
+
+    # m "\"The crickets are still chirping.\""
+    m "“蟋蟀还在叫。”"
+
+# game/williamroute3.rpy:13595
+translate Schinese skipkane_165ad50c:
+
+    # m "\"Nobody’s snuck up on us.\""
+    m "“没有人偷听。”"
+
+# game/williamroute3.rpy:13597
+translate Schinese skipkane_3ba953e4:
+
+    # "I grit my teeth a little to prevent an impromptu snarl."
+    "我咬紧牙关，以防突然咆哮出来。"
+
+# game/williamroute3.rpy:13598
+translate Schinese skipkane_e0a75797:
+
+    # wi "\"You know what I meant.\""
+    wi "“你知道我是什么意思。”"
+
+# game/williamroute3.rpy:13600
+translate Schinese skipkane_6e273bd6:
+
+    # m "\"But say it.\""
+    m "“但我想听你说。”"
+
+# game/williamroute3.rpy:13602
+translate Schinese skipkane_b303bb9e:
+
+    # wi "\"We’re connected through you Sam.\""
+    wi "“我们通过你相识，Sam。”"
+
+# game/williamroute3.rpy:13603
+translate Schinese skipkane_325239cb:
+
+    # wi "\"Through what we pay you for.\""
+    wi "“通过和你的交易。”"
+
+# game/williamroute3.rpy:13604
+translate Schinese skipkane_2a6596f5:
+
+    # wi "\"And how you take care of us when we need it.\""
+    wi "“以及你对我们的照顾。”"
+
+# game/williamroute3.rpy:13605
+translate Schinese skipkane_5fbc3940:
+
+    # wi "\"I doubt we could function if we hadn’t’ve met you Sam.\""
+    wi "“如果没有遇见你，我们恐怕没办法过上正常的生活，Sam。”"
+
+# game/williamroute3.rpy:13606
+translate Schinese skipkane_a88c4fd8:
+
+    # wi "\"There’s probably more honor in the work you do than me and Nik combined and I should have said it sooner.\""
+    wi "“我应该早点对你说，你所做的工作，可能比我和Nik加起来还要光荣。”"
+
+# game/williamroute3.rpy:13608
+translate Schinese skipkane_9a2a83c4:
+
+    # m "\"Heh.\""
+    m "“呵呵。”"
+
+# game/williamroute3.rpy:13609
+translate Schinese skipkane_efdd1907:
+
+    # wi "\"Oh, fuck off with that expression.\""
+    wi "“少用那表情看我。”"
+
+# game/williamroute3.rpy:13610
+translate Schinese skipkane_0cf8dba9:
+
+    # m "\"You’re just funny when you’re sentimental is all.\""
+    m "“只是觉得你多愁善感的样子挺有趣的。”"
+
+# game/williamroute3.rpy:13611
+translate Schinese skipkane_49400a51:
+
+    # "Now I feel like a fool."
+    "现在我觉得自己就像个白痴。"
+
+# game/williamroute3.rpy:13613
+translate Schinese skipkane_616301ac:
+
+    # m "\"I needed to hear you say this, though.\""
+    m "“不过这对我来说意义非凡。”"
+
+# game/williamroute3.rpy:13616
+translate Schinese skipkane_36b45806:
+
+    # m "\"Truth be told...\""
+    m "“说实话...”"
+
+# game/williamroute3.rpy:13619
+translate Schinese skipkane_c272a926:
+
+    # m "\"I don’t much like that whoring is the only job I have enjoyed.\""
+    m "“我不想一辈子只当个嫖妓。”"
+
+# game/williamroute3.rpy:13622
+translate Schinese skipkane_3fc83220:
+
+    # m "\"Don’t much like that I’m a faggot, neither.\""
+    m "“也不喜欢自己是个基佬。”"
+
+# game/williamroute3.rpy:13624
+translate Schinese skipkane_f126af47:
+
+    # "He spits on the ground."
+    "他吐了口唾沫。"
+
+# game/williamroute3.rpy:13626
+translate Schinese skipkane_deea6d46:
+
+    # m "\"Makes me feel like it’s the only thing I’m good for.\""
+    m "“好像这是我唯一擅长的东西一样。”"
+
+# game/williamroute3.rpy:13629
+translate Schinese skipkane_c04e8a0e:
+
+    # m "\"But I accepted that a long time ago.\""
+    m "“但我早就认命了。”"
+
+# game/williamroute3.rpy:13633
+translate Schinese skipkane_27c5fc92:
+
+    # m "\"And you’re the only two who give me purpose outside of the work.\""
+    m "“你们两个是唯二在工作以外给予了我目标的人。”"
+
+# game/williamroute3.rpy:13636
+translate Schinese skipkane_286b0a2f:
+
+    # m "\"So I don’t really want to lose that either.\""
+    m "“我不想失去你们。”"
+
+# game/williamroute3.rpy:13638
+translate Schinese skipkane_75cb5137:
+
+    # "He puts his hands in his pockets and looks at me."
+    "他把手插进口袋，看了过来。"
+
+# game/williamroute3.rpy:13641
+translate Schinese skipkane_5639ab1f:
+
+    # m "\"So if I keep helping you wrap up this big investigation that you’re working on, Will, can the three of us get out of here together once it’s finished?\""
+    m "“所以，要是我能帮你解决这桩大案，Will，事成之后，我们三个人能一起远走高飞吗？”"
+
+# game/williamroute3.rpy:13643
+translate Schinese skipkane_e3a5312e:
+
+    # "I stare at him."
+    "我注视着他。"
+
+# game/williamroute3.rpy:13645
+translate Schinese skipkane_62a6fde5:
+
+    # wi "\"What, to Payton?\""
+    wi "“去哪里，佩顿？”"
+
+# game/williamroute3.rpy:13647
+translate Schinese skipkane_55323833:
+
+    # m "\"Yeah, to Payton.\""
+    m "“是啊，佩顿。”"
+
+# game/williamroute3.rpy:13650
+translate Schinese skipkane_b8d48463_1:
+
+    # m "\"I guess.\""
+    m "“大概吧。”"
+
+# game/williamroute3.rpy:13653
+translate Schinese skipkane_50c7e591:
+
+    # m "\"If that’s what Nik really thinks would be best.\""
+    m "“如果Nik认为这样可行的话。”"
+
+# game/williamroute3.rpy:13655
+translate Schinese skipkane_204fcc58:
+
+    # "We look to him and wait for him to speak."
+    "我们看着他，等待他开口。"
+
+# game/williamroute3.rpy:13657
+translate Schinese skipkane_c8db62eb:
+
+    # ni "\"Yes.\""
+    ni "“是的。”"
+
+# game/williamroute3.rpy:13658
+translate Schinese skipkane_6f28de30:
+
+    # ni "\"It is the only way forward.\""
+    ni "“这是唯一的出路了。”"
+
+# game/williamroute3.rpy:13661
+translate Schinese skipkane_4e0a186f:
+
+    # "Sam spits again."
+    "Sam又吐了口唾沫。"
+
+# game/williamroute3.rpy:13663
+translate Schinese skipkane_d355531c:
+
+    # m "\"Then I’ll go to fuckin’ Payton.\""
+    m "“那就他妈的走。”"
+
+# game/williamroute3.rpy:13666
+translate Schinese skipkane_f3397abf:
+
+    # m "\"Will you resign and come with us, Will?\""
+    m "“你愿意辞职和我们一起吗，Will？”"
+
+# game/williamroute3.rpy:13668
+translate Schinese skipkane_4be6ea29:
+
+    # "This is one of the craziest things I’ve ever heard."
+    "这是我有生以来听过的最疯狂的提议。"
+
+# game/williamroute3.rpy:13669
+translate Schinese skipkane_bd1ccca2:
+
+    # "And what’s crazier now is how much I’m considering it after everything that’s happened."
+    "更疯狂的是，我居然在认真考虑这件事。"
+
+# game/williamroute3.rpy:13670
+translate Schinese skipkane_9385ccb4:
+
+    # wi "\"It’ll be a lot harder for me to protect you anywhere else, Sam.\""
+    wi "“离开这里，我就很难继续保护你了，Sam。”"
+
+# game/williamroute3.rpy:13671
+translate Schinese skipkane_42b5cbdb:
+
+    # wi "\"Is that what you really want?\""
+    wi "“即使如此也可以吗？”"
+
+# game/williamroute3.rpy:13673
+translate Schinese skipkane_1939486d:
+
+    # "He shrugs."
+    "他耸耸肩。"
+
+# game/williamroute3.rpy:13675
+translate Schinese skipkane_ecc2a539:
+
+    # m "\"If there really is something bad in store for me, it might be because it’s meant to happen.\""
+    m "“就算真有坏事等着我，那也是命中注定。”"
+
+# game/williamroute3.rpy:13678
+translate Schinese skipkane_c19cc8af:
+
+    # m "\"But why should we waste any of the time we might have on people who couldn’t care less if we were all dead.\""
+    m "“但我们为什么要把时间浪费在那些根本不在乎我们死活的人身上呢？”"
+
+# game/williamroute3.rpy:13681
+translate Schinese skipkane_ce7842ca:
+
+    # m "\"Echo will still go on without us.\""
+    m "“少了我们，回音镇还是会继续下去。”"
+
+# game/williamroute3.rpy:13684
+translate Schinese skipkane_d51fcb01:
+
+    # m "\"And if it doesn’t, then, well...\""
+    m "“如果没有，呃...”"
+
+# game/williamroute3.rpy:13687
+translate Schinese skipkane_8409e15d:
+
+    # m "\"Maybe it don’t have any right to exist.\""
+    m "“或许它本就不该存在。”"
+
+# game/williamroute3.rpy:13689
+translate Schinese skipkane_3f739ce1:
+
+    # "I sigh."
+    "我叹了口气。"
+
+# game/williamroute3.rpy:13690
+translate Schinese skipkane_3f2fb5a9:
+
+    # wi "\"Alright.\""
+    wi "“好吧。”"
+
+# game/williamroute3.rpy:13691
+translate Schinese skipkane_0c1c1e69:
+
+    # wi "\"If I can blow the lid off the connection between the CGSC’s operations and the murders in town, and make it public, then that’s the best that I can do for these people.\""
+    wi "“揭开CGSC公司与镇上谋杀案之间的联系，并将其公之于众，这就是我能做的最大的贡献了。”"
+
+# game/williamroute3.rpy:13692
+translate Schinese skipkane_3b505cc5:
+
+    # wi "\"I’ll resign and go with you both.\""
+    wi "“然后我会卸任，和你们一起走。”"
+
+# game/williamroute3.rpy:13693
+translate Schinese skipkane_879377a6:
+
+    # wi "\"Does that sit right with you, Nik?\""
+    wi "“你意下如何，Nik？”"
+
+# game/williamroute3.rpy:13695
+translate Schinese skipkane_e647d0dd:
+
+    # ni "\"Honestly?\""
+    ni "“你问我？”"
+
+# game/williamroute3.rpy:13697
+translate Schinese skipkane_b8e92b77:
+
+    # ni "\"It’s the best thing I could have hoped for.\""
+    ni "“这是我所预料的最好的结果了。”"
+
+# game/williamroute3.rpy:13700
+translate Schinese skipkane_4e865abd:
+
+    # ni "\"I know that I could start a life again without the two of you, only with the help from my connections at CGCS who are leaving too.\""
+    ni "“我一直说服自己可以开始新的生活，只要我还有其他志同道合的CGCS的朋友们。”"
+
+# game/williamroute3.rpy:13701
+translate Schinese skipkane_3d6f1c24:
+
+    # ni "\"But I still don’t want to.\""
+    ni "“但我始终放不下你们。”"
+
+# game/williamroute3.rpy:13703
+translate Schinese skipkane_264a8184:
+
+    # ni "\"I do not think the connection that we share could be found again, even in many, many lifetimes.\""
+    ni "“我害怕就此和你们天各一方，永不再见。”"
+
+# game/williamroute3.rpy:13705
+translate Schinese skipkane_4c04312c:
+
+    # wi "\"So that’s that, then.\""
+    wi "“那就这么说定了。”"
+
+# game/williamroute3.rpy:13706
+translate Schinese skipkane_326382b4:
+
+    # wi "\"You have our word, Sam.\""
+    wi "“我们向你保证，Sam。”"
+
+# game/williamroute3.rpy:13708
+translate Schinese skipkane_20a7f280:
+
+    # "The puma frowns."
+    "美洲狮皱着眉头。"
+
+# game/williamroute3.rpy:13710
+translate Schinese skipkane_91311650:
+
+    # m "\"People give me their word all the time.\""
+    m "“我听过的保证太多了，Will。”"
+
+# game/williamroute3.rpy:13713
+translate Schinese skipkane_36e010ac:
+
+    # m "\"Actions speak louder than words, Will.\""
+    m "“行动胜过一切。”"
+
+# game/williamroute3.rpy:13715
+translate Schinese skipkane_0554a0bf:
+
+    # wi "\"Then what will convince you?\""
+    wi "“那我们要怎么说服你？”"
+
+# game/williamroute3.rpy:13717
+translate Schinese skipkane_63033175:
+
+    # m "\"Well...\""
+    m "“这个嘛...”"
+
+# game/williamroute3.rpy:13721
+translate Schinese skipkane_26e90444:
+
+    # m "\"Actually, forget it.\""
+    m "“算了，当我没说。”"
+
+# game/williamroute3.rpy:13724
+translate Schinese skipkane_3bf81691:
+
+    # "Nik and I tense up a bit."
+    "Nik和我都有点紧张。"
+
+# game/williamroute3.rpy:13726
+translate Schinese skipkane_1c23f781:
+
+    # ni "\"No, Sam, we want you to speak up.\""
+    ni "“不，Sam，我们希望你大声说出来。”"
+
+# game/williamroute3.rpy:13728
+translate Schinese skipkane_d3e5115b:
+
+    # m "\"It’s stupid.\""
+    m "“太傻了。”"
+
+# game/williamroute3.rpy:13730
+translate Schinese skipkane_ff775a05:
+
+    # wi "\"Since when has that ever stopped you from sharing.\""
+    wi "“你之前犯的傻还少吗？”"
+
+# game/williamroute3.rpy:13733
+translate Schinese skipkane_d5510674:
+
+    # "Nik elbowed me and I feel a little bit of wind knocked out of me." with hpunch
+    "Nik用肘撞了我一下，仿佛一阵强风，差点将我吹飞。" with hpunch
+
+# game/williamroute3.rpy:13736
+translate Schinese skipkane_ad433fd3_1:
+
+    # m "\"Fine.\""
+    m "“好吧。”"
+
+# game/williamroute3.rpy:13739
+translate Schinese skipkane_cae80332:
+
+    # m "\"Don’t say I didn’t warn you...\""
+    m "“别怪我没警告你们...”"
+
+# game/williamroute3.rpy:13742
+translate Schinese skipkane_89d8209f:
+
+    # m "\"If y’all promise that we’re going to share everything, then I mean I want y’all to share {i}everything{/i}.\""
+    m "“我希望你们承诺的不分彼此，是真正意义上包含了{b}一切{/b}的那种。”"
+
+# game/williamroute3.rpy:13746
+translate Schinese skipkane_770be296:
+
+    # m "\"I’m never going to feel equal to the both of you if we don’t sleep together regularly without any money being exchanged.\""
+    m "“如果我们在床上的关系是建立在金钱的基础上，那我永远都不会觉得和你们平等。”"
+
+# game/williamroute3.rpy:13748
+translate Schinese skipkane_d0fe808d:
+
+    # "Nik and I share an incredulous look."
+    "Nik和我互换了个不确定的眼神。"
+
+# game/williamroute3.rpy:13749
+translate Schinese skipkane_d094f1ac:
+
+    # ni "\"Do you mean...\""
+    ni "“你的意思是...”"
+
+# game/williamroute3.rpy:13750
+translate Schinese skipkane_3cc713b8:
+
+    # ni "\"At the same time?\""
+    ni "“同时？”"
+
+# game/williamroute3.rpy:13752
+translate Schinese skipkane_ed2eceb5:
+
+    # m "\"The three of us. Yeah.\""
+    m "“是的，我们三个。”"
+
+# game/williamroute3.rpy:13755
+translate Schinese skipkane_f2ffe4b5:
+
+    # m "\"And I want you both to put a dick in your mouth.\""
+    m "“我想要你们口。”"
+
+# game/williamroute3.rpy:13758
+translate Schinese skipkane_0531fcb5:
+
+    # m "\"I don’t particularly care who.\""
+    m "“至于口谁，我不在乎。”"
+
+# game/williamroute3.rpy:13760
+translate Schinese skipkane_607e39b0:
+
+    # wi "\"Christ almighty, Sam...\""
+    wi "“老天爷啊，Sam...”"
+
+# game/williamroute3.rpy:13762
+translate Schinese skipkane_1bc2ed61_1:
+
+    # m "\"Will.\""
+    m "“Will。”"
+
+# game/williamroute3.rpy:13765
+translate Schinese skipkane_ccb77748:
+
+    # m "\"You told me you still think about it.\""
+    m "“你之前告诉我，说自己还想着这件事。”"
+
+# game/williamroute3.rpy:13768
+translate Schinese skipkane_1ae8acc0:
+
+    # ni "\"Sam...\""
+    ni "“Sam...”"
+
+# game/williamroute3.rpy:13769
+translate Schinese skipkane_d2079882:
+
+    # ni "\"If William told you this in confidence, then you shouldn’t be telling me.\""
+    ni "“既然William在私下告诉了你，那你就不该让我知道。”"
+
+# game/williamroute3.rpy:13771
+translate Schinese skipkane_6cad0495:
+
+    # ni "\"But I must confess...\""
+    ni "“不过我必须承认...”"
+
+# game/williamroute3.rpy:13772
+translate Schinese skipkane_5a038c35:
+
+    # ni "\"It feels less lonely knowing that even somebody like William has these thoughts.\""
+    ni "“即使是William也产生过那种想法，这让我感觉没那么孤单了。”"
+
+# game/williamroute3.rpy:13773
+translate Schinese skipkane_0cf5e90d:
+
+    # ni "\"It makes me wonder how many of us that do who never really say it.\""
+    ni "“不知道我们当中究竟有多少这样的人，从始至终都未曾表露出自己的心意。”"
+
+# game/williamroute3.rpy:13775
+translate Schinese skipkane_1d867d0d:
+
+    # ni "\"Is it the truth, William?\""
+    ni "“这是真的吗，William？”"
+
+# game/williamroute3.rpy:13777
+translate Schinese skipkane_ddcc0218:
+
+    # "I can feel the sweat on the back of my neck."
+    "我的后颈泛着一层汗珠。"
+
+# game/williamroute3.rpy:13778
+translate Schinese skipkane_a367b1c6:
+
+    # "I can’t say much."
+    "多说无益。"
+
+# game/williamroute3.rpy:13779
+translate Schinese skipkane_05167196:
+
+    # "But I have to say somethin’."
+    "但我必须说点什么。"
+
+# game/williamroute3.rpy:13785
+translate Schinese swn_08047b24:
+
+    # wi "\"Yeah.\""
+    wi "“是啊。”"
+
+# game/williamroute3.rpy:13787
+translate Schinese swn_64742ca6:
+
+    # "Nik is still just as tense as I am."
+    "Nik仍然和我一样紧张。"
+
+# game/williamroute3.rpy:13789
+translate Schinese swn_b90e05b6:
+
+    # m "\"I’m sorry I spilled the beans, William.\""
+    m "“对不起，我说漏了嘴，William。”"
+
+# game/williamroute3.rpy:13792
+translate Schinese swn_8252560a:
+
+    # m "\"But I don’t want to feel like Sam the whore tonight.\""
+    m "“但是今晚我不想做娼妓。”"
+
+# game/williamroute3.rpy:13795
+translate Schinese swn_3f6248c4:
+
+    # m "\"I want to feel like Sam, your friend.\""
+    m "“我想做你们的朋友。”"
+
+# game/williamroute3.rpy:13798
+translate Schinese swn_dc6f6172:
+
+    # m "\"I want y’all to do for me what I’ve done hundreds of times for y’all.\""
+    m "“我想让你们做我为你们做过几百次的事。”"
+
+# game/williamroute3.rpy:13800
+translate Schinese swn_2fc9e19e:
+
+    # wi "\"So just, suck a cock.\""
+    wi "“所以，就是口。”"
+
+# game/williamroute3.rpy:13802
+translate Schinese swn_c806ebc0:
+
+    # m "\"Yeah.\""
+    m "“是的。”"
+
+# game/williamroute3.rpy:13804
+translate Schinese swn_ee932f35:
+
+    # wi "\"Anybody’s cock.\""
+    wi "“口谁都行。”"
+
+# game/williamroute3.rpy:13806
+translate Schinese swn_7c69c9da:
+
+    # m "\"Mine or Nik’s.\""
+    m "“我的或者Nik的。”"
+
+# game/williamroute3.rpy:13809
+translate Schinese swn_59849756:
+
+    # "Nik looks a little more skittish."
+    "Nik似乎有些震惊。"
+
+# game/williamroute3.rpy:13810
+translate Schinese swn_d80d9a16:
+
+    # ni "\"And you’d like me to do it too, yes?\""
+    ni "“我也要这么做吗？”"
+
+# game/williamroute3.rpy:13812
+translate Schinese swn_1b66dec2:
+
+    # m "\"None of you {i}have{/i} to do shit.\""
+    m "“你们{b}没必要{/b}将就我。”"
+
+# game/williamroute3.rpy:13815
+translate Schinese swn_636c4a13:
+
+    # m "\"By all means don’t if you don’t want to.\""
+    m "“千万不要勉强自己。”"
+
+# game/williamroute3.rpy:13818
+translate Schinese swn_3ba89c75:
+
+    # m "\"I told y’all that it was stupid.\""
+    m "“我说过这很蠢了。”"
+
+# game/williamroute3.rpy:13823
+translate Schinese swn_148d871b:
+
+    # "Nik suddenly kneels."
+    "Nik突然跪下。"
+
+# game/williamroute3.rpy:13825
+translate Schinese swn_c9364fa6:
+
+    # ni "\"Ok.\""
+    ni "“好。”"
+
+# game/williamroute3.rpy:13826
+translate Schinese swn_fa8ea4c1:
+
+    # ni "\"I’ll try you both, then.\""
+    ni "“那就从我开始吧。”"
+
+# game/williamroute3.rpy:13827
+translate Schinese swn_01ab4394:
+
+    # "My heart jolts."
+    "我的心怦怦直跳。"
+
+# game/williamroute3.rpy:13828
+translate Schinese swn_6c0b395a:
+
+    # wi "\"Nik he said we didn’t {i}have{/i} to.\""
+    wi "“Nik，他说我们不必{b}勉强{/b}。”"
+
+# game/williamroute3.rpy:13830
+translate Schinese swn_c56be9d4:
+
+    # ni "\"And who says I didn’t {i}want{/i} to?\""
+    ni "“谁说我{b}不想{/b}呢？”"
+
+# game/williamroute3.rpy:13831
+translate Schinese swn_3403a72d:
+
+    # ni "\"I understand how Sam might feel since he’s the one who always does this.\""
+    ni "“站在Sam的角度，我理解他的感受。”"
+
+# game/williamroute3.rpy:13833
+translate Schinese swn_b2ce8383:
+
+    # ni "\"And like I have said.\""
+    ni "“我之前说了吧。”"
+
+# game/williamroute3.rpy:13834
+translate Schinese swn_5636ca82:
+
+    # ni "\"I have had the thought to do so before.\""
+    ni "“曾经我也有过这样的想法。”"
+
+# game/williamroute3.rpy:13836
+translate Schinese swn_c7944f8f:
+
+    # m "\"...What?\""
+    m "“...什么？”"
+
+# game/williamroute3.rpy:13839
+translate Schinese swn_e5f418d2:
+
+    # ni "\"Please do not make me repeat what I said.\""
+    ni "“不要让我说同样的话。”"
+
+# game/williamroute3.rpy:13841
+translate Schinese swn_53c27663:
+
+    # m "\"Okay, but...\""
+    m "“好吧，可是...”"
+
+# game/williamroute3.rpy:13844
+translate Schinese swn_90539593:
+
+    # m "\"I said the thought was dumb.\""
+    m "“我自己都觉得这很蠢了。”"
+
+# game/williamroute3.rpy:13847
+translate Schinese swn_f78f5f89:
+
+    # m "\"And you'd never ask before to try--\""
+    m "“而且你从来没有提出来要-”"
+
+# game/williamroute3.rpy:13850
+translate Schinese swn_e68b6b36:
+
+    # ni "\"Take off your pants, Sam.\""
+    ni "“脱掉你的裤子，Sam。”"
+
+# game/williamroute3.rpy:13858
+translate Schinese swn_9a6940e1:
+
+    # "I hear the snap of his buttons and the tug of his zipper."
+    "我听到了扣子和拉链的声音。"
+
+# game/williamroute3.rpy:13859
+translate Schinese swn_2c8855c8:
+
+    # "He’s fishing himself out, thick and pink as ever as he scoots up to kneeling Nik."
+    "他把和往常一样又粗又粉的老二掏出来，冲向跪着的Nik。"
+
+# game/williamroute3.rpy:13861
+translate Schinese swn_02ce0e99:
+
+    # ni "\"How should I start?\""
+    ni "“我该怎么做？”"
+
+# game/williamroute3.rpy:13862
+translate Schinese swn_19bb9334:
+
+    # m "\"Just a lick will do.\""
+    m "“先从舔开始吧。”"
+
+# game/williamroute3.rpy:13863
+translate Schinese swn_c6c92a90:
+
+    # "He leans in."
+    "他身体前倾。"
+
+# game/williamroute3.rpy:13864
+translate Schinese swn_050d3ffb:
+
+    # "Hesitates."
+    "犹豫了片刻。"
+
+# game/williamroute3.rpy:13865
+translate Schinese swn_26968278:
+
+    # "Then he opens his mouth, and drags his tongue and the top of his fuzzy snout along Sam’s prick."
+    "然后张开嘴，把舌头和毛茸茸的鼻子顶在Sam的肉棒上。"
+
+# game/williamroute3.rpy:13866
+translate Schinese swn_115c8b85:
+
+    # "It’s strange to see Nik do this to Sam, even knowing he always had been Sam's client."
+    "虽然他是Sam的老客户了，但这一幕在我眼中还是很稀奇。"
+
+# game/williamroute3.rpy:13867
+translate Schinese swn_2e9e42aa:
+
+    # "And it’s suddenly very hard to ignore the growing tent in his pants that shows me just how big every part of him really is."
+    "他逐渐隆起的裤裆令人难以忽视，彰显出他的伟岸名副其实。"
+
+# game/williamroute3.rpy:13868
+translate Schinese swn_49a2ebfe:
+
+    # "Nik licks again."
+    "Nik开始舔了。"
+
+# game/williamroute3.rpy:13869
+translate Schinese swn_5210aed7:
+
+    # "Then again."
+    "一下又一下。"
+
+# game/williamroute3.rpy:13870
+translate Schinese swn_3b350074:
+
+    # "And a fourth time which makes Sam begin to purr."
+    "第四次的时候，Sam就不禁发出呜声。"
+
+# game/williamroute3.rpy:13871
+translate Schinese swn_3a31bcf6:
+
+    # ni "\"Should I do this until you finish?\""
+    ni "“我要一直舔到你射吗？”"
+
+# game/williamroute3.rpy:13872
+translate Schinese swn_c651d0c8:
+
+    # m "\"No.\""
+    m "“不。”"
+
+# game/williamroute3.rpy:13873
+translate Schinese swn_57a5912a:
+
+    # m "\"I don’t need to.\""
+    m "“没那个必要。”"
+
+# game/williamroute3.rpy:13874
+translate Schinese swn_4ad67ddf:
+
+    # m "\"But if you keep that up, I will anyway.\""
+    m "“但也没人拦着你就是了。”"
+
+# game/williamroute3.rpy:13875
+translate Schinese swn_99b17a1a:
+
+    # ni "\"It is not a bad taste at all...\""
+    ni "“这味道出奇的好...”"
+
+# game/williamroute3.rpy:13876
+translate Schinese swn_51ba3cf2:
+
+    # ni "\"Very clean.\""
+    ni "“很干净。”"
+
+# game/williamroute3.rpy:13877
+translate Schinese swn_d03e6711:
+
+    # "The badger gives me a look as he keeps licking."
+    "獾一边舔，一边朝这里看过来。"
+
+# game/williamroute3.rpy:13878
+translate Schinese swn_1f93d8d2:
+
+    # ni "\"You next then?\""
+    ni "“下一个到你了？”"
+
+# game/williamroute3.rpy:13879
+translate Schinese swn_fc5f1caa:
+
+    # "I feel that twang of panic again."
+    "我感到一阵惊慌。"
+
+# game/williamroute3.rpy:13880
+translate Schinese swn_6583f042:
+
+    # wi "\"Do you {i}really{/i} want to lick my prick, Nikolai?\""
+    wi "“你{b}真的{/b}想舔我的老二吗，Nikolai？”"
+
+# game/williamroute3.rpy:13881
+translate Schinese swn_683292fe:
+
+    # ni "\"It would be a good idea.\""
+    ni "“有何不可。”"
+
+# game/williamroute3.rpy:13882
+translate Schinese swn_fcca09ed:
+
+    # ni "\"That is, if you will be trying mine.\""
+    ni "“或者说，你想试试舔我的？”"
+
+# game/williamroute3.rpy:13883
+translate Schinese swn_9d86e32a:
+
+    # "I look at his pants again."
+    "我又瞄了眼他的胯下。"
+
+# game/williamroute3.rpy:13884
+translate Schinese swn_12bdb64f:
+
+    # "Just from the outline it’s hard to believe he could fit something like that down there."
+    "从轮廓上看，很难相信他能把那样的尺寸塞进裤子里去。"
+
+# game/williamroute3.rpy:13885
+translate Schinese swn_d5ab1f4d:
+
+    # "I look away, feeling my ears get hot."
+    "我转过头，耳朵发烫。"
+
+# game/williamroute3.rpy:13886
+translate Schinese swn_325edf89:
+
+    # "I undo the buttons in my pants."
+    "我解开裤子扣。"
+
+# game/williamroute3.rpy:13887
+translate Schinese swn_67ab34ad:
+
+    # "And I slip it out."
+    "掏出家伙。"
+
+# game/williamroute3.rpy:13888
+translate Schinese swn_06e5ff7a:
+
+    # "I feel his wet nose before the warm tongue."
+    "我先是感觉到了他湿润的鼻子。"
+
+# game/williamroute3.rpy:13889
+translate Schinese swn_46693a04:
+
+    # "The lick is strong and firm."
+    "他的舌头坚定又有力。"
+
+# game/williamroute3.rpy:13890
+translate Schinese swn_2777cd94:
+
+    # "A much wider tongue than Sam’s."
+    "比Sam的舌头宽很多。"
+
+# game/williamroute3.rpy:13891
+translate Schinese swn_16c2bd4e:
+
+    # "He pauses after the first lick."
+    "他在第一次舔舐后停顿了一下。"
+
+# game/williamroute3.rpy:13892
+translate Schinese swn_9a830177:
+
+    # ni "\"Eugh.\""
+    ni "“唔。”"
+
+# game/williamroute3.rpy:13893
+translate Schinese swn_17244947:
+
+    # wi "\"...what?\""
+    wi "“...怎么了？”"
+
+# game/williamroute3.rpy:13894
+translate Schinese swn_19b9ea29:
+
+    # ni "\"You’re already sticky...\""
+    ni "“你流了好多...”"
+
+# game/williamroute3.rpy:13895
+translate Schinese swn_61d0ec4a:
+
+    # ni "\"Samuel took much longer.\""
+    ni "“Samuel要舔很久才会流。”"
+
+# game/williamroute3.rpy:13896
+translate Schinese swn_08047b24_1:
+
+    # wi "\"Yeah.\""
+    wi "“是啊。”"
+
+# game/williamroute3.rpy:13897
+translate Schinese swn_e27861d0:
+
+    # wi "\"That happens pretty quickly for me.\""
+    wi "“我总是很快进入状态。”"
+
+# game/williamroute3.rpy:13898
+translate Schinese swn_712517dd:
+
+    # wi "\"Sorry.\""
+    wi "“抱歉。”"
+
+# game/williamroute3.rpy:13899
+translate Schinese swn_380b5da8:
+
+    # "The badger pauses."
+    "獾停顿了一下。"
+
+# game/williamroute3.rpy:13900
+translate Schinese swn_6c8116e1:
+
+    # "I expect him to ask to stop, but then he goes down again."
+    "我以为他会要求停下来，但他又埋下头。"
+
+# game/williamroute3.rpy:13901
+translate Schinese swn_7b77f9ad:
+
+    # "Firmer. Stronger."
+    "更坚定，更有力。"
+
+# game/williamroute3.rpy:13902
+translate Schinese swn_da7fec3e:
+
+    # "Feels... really good."
+    "这感觉...没的说。"
+
+# game/williamroute3.rpy:13903
+translate Schinese swn_e873e625:
+
+    # ni "\"You’re much saltier than Sam.\""
+    ni "“你比Sam咸多了。”"
+
+# game/williamroute3.rpy:13904
+translate Schinese swn_d854e669:
+
+    # ni "\"Perhaps that is why your temper is so quick...\""
+    ni "“所以性子才这么急吧...”"
+
+# game/williamroute3.rpy:13905
+translate Schinese swn_a8d9a7cf:
+
+    # wi "\"...Excuse me?\""
+    wi "“...什么？”"
+
+# game/williamroute3.rpy:13906
+translate Schinese swn_0f9ea5bb:
+
+    # "He goes down on me again, slurping this time."
+    "他再度低头，这次是吮吸。"
+
+# game/williamroute3.rpy:13907
+translate Schinese swn_864ad5cc:
+
+    # wi "\"...Shit.\""
+    wi "“...操。”"
+
+# game/williamroute3.rpy:13908
+translate Schinese swn_737d92c2:
+
+    # "I’m already at full mast."
+    "我已经快缴械了。"
+
+# game/williamroute3.rpy:13909
+translate Schinese swn_0d686209:
+
+    # "It’s hard to believe he’s never done this before."
+    "不敢相信这是他的第一次。"
+
+# game/williamroute3.rpy:13910
+translate Schinese swn_5befd91c:
+
+    # "Or maybe he just understands what feels good naturally."
+    "或者他只是有天分。"
+
+# game/williamroute3.rpy:13911
+translate Schinese swn_3768ba83:
+
+    # "He scoops his tongue against the side of me, tongue rolling, and then pulls away with a smack."
+    "他用舌头贴住我的茎身，然后卷起来，“嗦”的一声抽出。"
+
+# game/williamroute3.rpy:13912
+translate Schinese swn_67058ee1:
+
+    # ni "\"Do you think this is strange?\""
+    ni "“你觉得很奇怪吗？”"
+
+# game/williamroute3.rpy:13913
+translate Schinese swn_78d7b931:
+
+    # "I nod emphatically."
+    "我果断地点了点头。"
+
+# game/williamroute3.rpy:13914
+translate Schinese swn_4d937f9c:
+
+    # wi "\"Oh yeah.\""
+    wi "“是啊。”"
+
+# game/williamroute3.rpy:13915
+translate Schinese swn_e515454e:
+
+    # ni "\"Hmm.\""
+    ni "“唔。”"
+
+# game/williamroute3.rpy:13916
+translate Schinese swn_f7fc878c:
+
+    # "He dips down to my balls, getting them in his mouth, suckling them."
+    "他低头含住我的卵蛋。"
+
+# game/williamroute3.rpy:13917
+translate Schinese swn_58618ae4:
+
+    # "Then he pulls away."
+    "最后离开。"
+
+# game/williamroute3.rpy:13918
+translate Schinese swn_fa933c00:
+
+    # ni "\"If Sam is used to being the only one who does this, then I don’t.\""
+    ni "“Sam可能已经习惯了你的尺寸，但我还没有。”"
+
+# game/williamroute3.rpy:13919
+translate Schinese swn_19aef4d4:
+
+    # "He pulls back and stands up slowly."
+    "他往后退去，慢慢站起来。"
+
+# game/williamroute3.rpy:13920
+translate Schinese swn_3413716d:
+
+    # "It’s impossible to disregard the thick flag pole in his trousers."
+    "眼前赫然是一根巨物。"
+
+# game/williamroute3.rpy:13922
+translate Schinese swn_b1d1aa55:
+
+    # "He undoes the notches of his belt, fumbling with the clip as it comes loose, allowing himself free."
+    "他解开扣子，摸索着抽出皮带。"
+
+# game/williamroute3.rpy:13924
+translate Schinese swn_5f0e06df:
+
+    # "The strong smell of earth is all I notice as he slips his manhood out of the side of the fabric."
+    "他从内裤侧面掏出阳物，而我只闻到到强烈的泥土味。"
+
+# game/williamroute3.rpy:13925
+translate Schinese swn_bd497ea3:
+
+    # ni "\"So...\""
+    ni "“那么...”"
+
+# game/williamroute3.rpy:13926
+translate Schinese swn_46e7d09d:
+
+    # ni "\"What is the best way to go about this, then?\""
+    ni "“我这根要怎么办呢？”"
+
+# game/williamroute3.rpy:13927
+translate Schinese swn_0504838c:
+
+    # "The cougar steps forward, his shaft bobbing as he approaches me from the other side of Nik."
+    "美洲狮向前一步，从Nik的另一侧接近我，同时肉棒还一跳一跳的。"
+
+# game/williamroute3.rpy:13928
+translate Schinese swn_0d1f5f71:
+
+    # "Sam is longer, but not nearly as thick."
+    "比Nik长，但没那么粗。"
+
+# game/williamroute3.rpy:13929
+translate Schinese swn_722579cf:
+
+    # m "\"It’ll be more fun for all of us if we take turns.\""
+    m "“我们轮流来会更有趣。”"
+
+# game/williamroute3.rpy:13930
+translate Schinese swn_14c88eed:
+
+    # m "\"If one of us actually does finish first, the mood flies away.\""
+    m "“有人先射就没意思了。”"
+
+# game/williamroute3.rpy:13931
+translate Schinese swn_0f50dfc8:
+
+    # "I watch them both, throbbing."
+    "我看着他们两个，悸动不已。"
+
+# game/williamroute3.rpy:13932
+translate Schinese swn_d20ee229:
+
+    # "I look to the left."
+    "我左顾。"
+
+# game/williamroute3.rpy:13933
+translate Schinese swn_e6450017:
+
+    # "Then I look to the right."
+    "右盼。"
+
+# game/williamroute3.rpy:13934
+translate Schinese swn_461e457e:
+
+    # "I expect to see the glare of eyes, but there’s really nobody."
+    "以为能看到一双窥视的眼睛，但并没有。"
+
+# game/williamroute3.rpy:13935
+translate Schinese swn_0f74497d:
+
+    # "The crickets are still chirping."
+    "蟋蟀还在鸣叫。"
+
+# game/williamroute3.rpy:13936
+translate Schinese swn_618ac7e2:
+
+    # m "\"Who do you want to try first, Will.\""
+    m "“你想先试谁的，Will？”"
+
+# game/williamroute3.rpy:13937
+translate Schinese swn_b0201cd4:
+
+    # "I cringe."
+    "我畏缩了。"
+
+# game/williamroute3.rpy:13938
+translate Schinese swn_c2c84a08:
+
+    # wi "\"I don’t think that much matters, Sam.\""
+    wi "“这不重要吧，Sam。”"
+
+# game/williamroute3.rpy:13939
+translate Schinese swn_baeb7a28:
+
+    # "Sam pipes up first."
+    "Sam吹了声口哨。"
+
+# game/williamroute3.rpy:13940
+translate Schinese swn_e8030174:
+
+    # m "\"I think you owe me most, but I want to see you try and take Nik.\""
+    m "“虽然你欠我很多次，不过我更想看你试着吃下Nik的样子。”"
+
+# game/williamroute3.rpy:13941
+translate Schinese swn_1a44f60d:
+
+    # "I look at the big badger’s piece skeptically."
+    "我难以置信地看着大獾的鸡巴。"
+
+# game/williamroute3.rpy:13942
+translate Schinese swn_5bcf76a4:
+
+    # wi "\"You saying that anybody can?\""
+    wi "“你是说这个尺寸？”"
+
+# game/williamroute3.rpy:13943
+translate Schinese swn_47db2076:
+
+    # "Nikolai is blushing even harder."
+    "Nikolai脸红得更厉害了。"
+
+# game/williamroute3.rpy:13944
+translate Schinese swn_a79e67d4:
+
+    # ni "\"Sam usually uses both hands.\""
+    ni "“Sam一般只用手。”"
+
+# game/williamroute3.rpy:13946
+translate Schinese swn_d3cfbbfb:
+
+    # "Sam puts his hands on my shoulders to get me down on my knees and Nik walks up."
+    "Sam按住我的肩，让我跪下来。"
+
+# game/williamroute3.rpy:13948
+translate Schinese swn_2cc89c9b:
+
+    # "I dip my head in to give him a sniff first."
+    "我先是把头凑过去一闻。"
+
+# game/williamroute3.rpy:13949
+translate Schinese swn_707ee336:
+
+    # "He’s..."
+    "他..."
+
+# game/williamroute3.rpy:13950
+translate Schinese swn_7a8be759:
+
+    # "Sweaty."
+    "汗味很重。"
+
+# game/williamroute3.rpy:13951
+translate Schinese swn_c8035b1a:
+
+    # "Real sweaty."
+    "非常重。"
+
+# game/williamroute3.rpy:13953
+translate Schinese swn_ce0b0cc1:
+
+    # "I close my eyes and stick out my tongue."
+    "我闭上眼睛，伸出舌头。"
+
+# game/williamroute3.rpy:13954
+translate Schinese swn_31ef4d7b:
+
+    # "Bringing myself in closer to lick."
+    "强迫自己舔上去。"
+
+# game/williamroute3.rpy:13955
+translate Schinese swn_a3899028:
+
+    # "This is my friend."
+    "他是我的好朋友。"
+
+# game/williamroute3.rpy:13956
+translate Schinese swn_b9aa4f35:
+
+    # "Just my good friend."
+    "只是我的好朋友。"
+
+# game/williamroute3.rpy:13958
+translate Schinese swn_e38903ae:
+
+    # "Just like Aiden."
+    "就像Aiden一样。"
+
+# game/williamroute3.rpy:13959
+translate Schinese swn_62260799:
+
+    # "The other cocksucker."
+    "另一个舔屌的。"
+
+# game/williamroute3.rpy:13960
+translate Schinese swn_3315f3e3:
+
+    # "The voice in my head sounds like my father."
+    "脑子里好像有我爸的声音。"
+
+# game/williamroute3.rpy:13962
+translate Schinese swn_e6a51dd6:
+
+    # "Then I hear the punches."
+    "然后是拳击声。"
+
+# game/williamroute3.rpy:13964
+translate Schinese swn_19f0d430:
+
+    # "The window smash."
+    "窗户碎了。"
+
+# game/williamroute3.rpy:13965
+translate Schinese swn_ebc8bd1b:
+
+    # "Blood."
+    "血。"
+
+# game/williamroute3.rpy:13969
+translate Schinese swn_5e74e8bd:
+
+    # "I dip my head in and focus on my friend again."
+    "我低下头，把注意力集中在我的朋友上。"
+
+# game/williamroute3.rpy:13970
+translate Schinese swn_38ced0e8:
+
+    # "He’s damp and warm and I lick him strategically."
+    "在我的舌技下，他变得又湿又热。"
+
+# game/williamroute3.rpy:13971
+translate Schinese swn_c9f914d1:
+
+    # "Once right, once left, once where the balls connect to the shaft to the tip."
+    "我左舔一次，右舔一次，再从根部一口气舔到顶端。"
+
+# game/williamroute3.rpy:13972
+translate Schinese swn_d72327bb:
+
+    # "Then I take as much as I can of him in."
+    "接着尽力含住。"
+
+# game/williamroute3.rpy:13973
+translate Schinese swn_e63e6446:
+
+    # ni "\"Will?\""
+    ni "“Will？”"
+
+# game/williamroute3.rpy:13974
+translate Schinese swn_e2413486:
+
+    # "I look up at him."
+    "我抬头看着他。"
+
+# game/williamroute3.rpy:13975
+translate Schinese swn_12674c56:
+
+    # wi "\"Mmm?\""
+    wi "“嗯？”"
+
+# game/williamroute3.rpy:13976
+translate Schinese swn_cd6a0c62:
+
+    # ni "\"You feel very nice.\""
+    ni "“感觉好舒服。”"
+
+# game/williamroute3.rpy:13977
+translate Schinese swn_93b33ce3:
+
+    # "Heat surges through my cheeks as I ignore the praise."
+    "我无视掉这句赞美，脸颊一阵发热。"
+
+# game/williamroute3.rpy:13978
+translate Schinese swn_e1d439e9:
+
+    # "I keep up with my task."
+    "我继续做着口活。"
+
+# game/williamroute3.rpy:13979
+translate Schinese swn_f5f0590d:
+
+    # ni "\"Oh, um.\""
+    ni "“嗯啊。”"
+
+# game/williamroute3.rpy:13980
+translate Schinese swn_c18160f9:
+
+    # ni "\"Oh wow.\""
+    ni "“哇。”"
+
+# game/williamroute3.rpy:13981
+translate Schinese swn_da3c38af:
+
+    # "Nik moans at first."
+    "Nik起初呻吟着。"
+
+# game/williamroute3.rpy:13982
+translate Schinese swn_76c98d85:
+
+    # "Then he starts to growl."
+    "后来开始低吼。"
+
+# game/williamroute3.rpy:13983
+translate Schinese swn_7f055e7c:
+
+    # "He brings his hands down on my head."
+    "他把手放在我头上。"
+
+# game/williamroute3.rpy:13984
+translate Schinese swn_cbe5f87f:
+
+    # "His gentle touch turns into a vice grip."
+    "温柔的触碰变成紧握。"
+
+# game/williamroute3.rpy:13985
+translate Schinese swn_54a8d179:
+
+    # "It actually hurts a bit."
+    "其实有点疼。"
+
+# game/williamroute3.rpy:13986
+translate Schinese swn_e257e199:
+
+    # "And I don’t want to tell him to stop because it’s making me harder."
+    "但我没有让他住手，因为我更硬了。"
+
+# game/williamroute3.rpy:13987
+translate Schinese swn_8caf6de1:
+
+    # m "\"Nik, your grip.\""
+    m "“Nik，你的手。”"
+
+# game/williamroute3.rpy:13988
+translate Schinese swn_1d6206fa:
+
+    # "There’s immediately a release of claws and my scalp tingles."
+    "他立刻松开了手，给我的头皮留下阵阵刺痛。"
+
+# game/williamroute3.rpy:13989
+translate Schinese swn_3ce783c2:
+
+    # "The badger’s cock pulls out of me, leaving a puddle of spit and pre on the dirt floor."
+    "獾抽出肉棒，口水和淫液滴在地面上，变成一滩小小的湖泊。"
+
+# game/williamroute3.rpy:13990
+translate Schinese swn_9d927b8f:
+
+    # "I grunt a little in relief, but also in disappointment."
+    "我松了一口气，却又感到失望。"
+
+# game/williamroute3.rpy:13991
+translate Schinese swn_aed460ef:
+
+    # ni "\"Sorry.\""
+    ni "“抱歉。”"
+
+# game/williamroute3.rpy:13992
+translate Schinese swn_8739924d:
+
+    # ni "\"I got carried away.\""
+    ni "“我情不自禁。”"
+
+# game/williamroute3.rpy:13993
+translate Schinese swn_09bced46:
+
+    # wi "\"It was fine.\""
+    wi "“没关系。”"
+
+# game/williamroute3.rpy:13994
+translate Schinese swn_43119328:
+
+    # wi "\"Wasn’t like I was bleedin’ or nothin’.\""
+    wi "“我又没有流血受伤。”"
+
+# game/williamroute3.rpy:13995
+translate Schinese swn_70a74371:
+
+    # m "\"Not much more power and you could have been.\""
+    m "“他再用点力就不一定了。”"
+
+# game/williamroute3.rpy:13996
+translate Schinese swn_ec40beeb:
+
+    # m "\"Trust me.\""
+    m "“相信我。”"
+
+# game/williamroute3.rpy:13997
+translate Schinese swn_def9e4cf:
+
+    # wi "\"I’m just saying that I wouldn’t much mind that either so long as it’s killin’ me.\""
+    wi "“我的意思是，真受不了的话我会吭声的。”"
+
+# game/williamroute3.rpy:13999
+translate Schinese swn_dc6398f7:
+
+    # "I close my eyes and bump my nose against him."
+    "我闭上眼睛，用鼻子去蹭。"
+
+# game/williamroute3.rpy:14000
+translate Schinese swn_62956c5f:
+
+    # "The first thing that I notice is he’s as drippy as I am by the way it clings to my nose."
+    "我注意到的第一件事是他和我一样流个不停，液体沾满了我的鼻头。"
+
+# game/williamroute3.rpy:14001
+translate Schinese swn_b13812b7:
+
+    # "The second thing I notice is the beer on Nik’s breath."
+    "第二件事是Nik呼出的啤酒味。"
+
+# game/williamroute3.rpy:14002
+translate Schinese swn_bef2fb18:
+
+    # "I skip the lick and just put it all in my mouth at once."
+    "我跳过舔的步骤，同时含住两根。"
+
+# game/williamroute3.rpy:14003
+translate Schinese swn_c053e810:
+
+    # m "\"...Goddamn.\""
+    m "“...靠。”"
+
+# game/williamroute3.rpy:14004
+translate Schinese swn_55d82cbf:
+
+    # "I swirl my tongue."
+    "我用舌头打旋。"
+
+# game/williamroute3.rpy:14005
+translate Schinese swn_5ebd075d:
+
+    # "I flex my tongue."
+    "挑逗。"
+
+# game/williamroute3.rpy:14006
+translate Schinese swn_201084ef:
+
+    # "I repeat all the little tricks and wishes I’d whisper into Sam’s ear when I was getting close."
+    "我重复着曾教给的Sam小把戏和小心思。"
+
+# game/williamroute3.rpy:14007
+translate Schinese swn_785f8956:
+
+    # "My head is dizzy and swimming with the amount of effort I put in."
+    "因为太过投入，我感觉头晕目眩。"
+
+# game/williamroute3.rpy:14008
+translate Schinese swn_d355fb49:
+
+    # "I start to bob, churning off and on him, determined to make something happen."
+    "于是我一鼓作气，开始上下摇摆搅动。"
+
+# game/williamroute3.rpy:14009
+translate Schinese swn_d6018f69:
+
+    # "He chuckles and pushes me off."
+    "他笑着把我推开。"
+
+# game/williamroute3.rpy:14010
+translate Schinese swn_7b3e6cff:
+
+    # m "\"Holy shit, slow down.\""
+    m "“靠，慢一点。”"
+
+# game/williamroute3.rpy:14011
+translate Schinese swn_cba59d5a:
+
+    # "I heave, catching my breath."
+    "我喘着气。"
+
+# game/williamroute3.rpy:14012
+translate Schinese swn_37f28771:
+
+    # m "\"Fuck.\""
+    m "“操。”"
+
+# game/williamroute3.rpy:14013
+translate Schinese swn_69a431e2:
+
+    # "I wipe my mouth."
+    "我擦擦嘴。"
+
+# game/williamroute3.rpy:14014
+translate Schinese swn_cc1ab0f5:
+
+    # "We’re all panting, and dripping, and sticky."
+    "我们全都气喘吁吁，汗流浃背。"
+
+# game/williamroute3.rpy:14015
+translate Schinese swn_fe82ec10:
+
+    # wi "\"How do we plan on finishing this then?\""
+    wi "“所以你们打算怎么收尾？”"
+
+# game/williamroute3.rpy:14016
+translate Schinese swn_fa86d313:
+
+    # m "\"Well, I’ve only done this once...\""
+    m "“这种事我只做过一次...”"
+
+# game/williamroute3.rpy:14017
+translate Schinese swn_e6b20014:
+
+    # m "\"We’re gonna lie in a circle.\""
+    m "“我们躺成一个圈。”"
+
+# game/williamroute3.rpy:14018
+translate Schinese swn_5b3d7150:
+
+    # m "\"Heads between each other’s knees.\""
+    m "“头放在下一个人的膝盖之间。”"
+
+# game/williamroute3.rpy:14019
+translate Schinese swn_9d7a1ac6:
+
+    # m "\"Will between mine, Nik between Will’s, I between Nik's.\""
+    m "“Will在我这里，Nik在Will那里，我在Nik那里。”"
+
+# game/williamroute3.rpy:14020
+translate Schinese swn_01458cc7:
+
+    # m "\"Mostly we get each other as close as we can before finishing.\""
+    m "“尽量把高潮控制在一起。”"
+
+# game/williamroute3.rpy:14021
+translate Schinese swn_6c4546de:
+
+    # m "\"Then when we can’t control it anymore, just gently squeeze the shaft, like this.\""
+    m "“当控制不了的时候，就轻轻地捏一下，像这样。”"
+
+# game/williamroute3.rpy:14022
+translate Schinese swn_a53b439a:
+
+    # "He cups his paw and grasps the air, flexing open and closed."
+    "他抬起手，握住空气，一闭一张。"
+
+# game/williamroute3.rpy:14023
+translate Schinese swn_e0b7e46a:
+
+    # m "\"If it works out we’ll all finish at the same time.\""
+    m "“不出意外的话，我们会同时射出来。”"
+
+# game/williamroute3.rpy:14024
+translate Schinese swn_e6ff1625:
+
+    # m "\"Y’all ready?\""
+    m "“都准备好了吗？”"
+
+# game/williamroute3.rpy:14025
+translate Schinese swn_79e4e689:
+
+    # "Nik nods."
+    "Nik点点头。"
+
+# game/williamroute3.rpy:14026
+translate Schinese swn_c657a30a:
+
+    # "I just scoot close to Sam who’s lying on a patch of dirt, put my head between him, and slip his warm, thick shaft into my mouth."
+    "我没有说话，只是靠近躺在土堆上的Sam，低下头，把他温暖粗大的肉棒塞进嘴里。"
+
+# game/williamroute3.rpy:14027
+translate Schinese swn_10bbb8ab:
+
+    # "I feel Nik’s massive maw slide between my legs, and his firm licks wash over me again, getting me to shiver."
+    "我感受着Nik的喉咙在我两腿之间滑动，他富有力量的舔舐席卷而来，令我打了个激灵。"
+
+# game/williamroute3.rpy:14028
+translate Schinese swn_4fdf6fec:
+
+    # "The sweat of Sam’s balls still commingle with Nik’s breath."
+    "Sam的汗味与Nik的呼吸交织在一起。"
+
+# game/williamroute3.rpy:14029
+translate Schinese swn_2d1f0223:
+
+    # "We all sweat as we move together-- thrusting, bobbing, slurping."
+    "每次挺身、摆头、吮吸，都会导致我们出更多的汗。"
+
+# game/williamroute3.rpy:14030
+translate Schinese swn_c637e8ff:
+
+    # "Until I feel the squeeze on my dick from Nik’s massive, clumsy claw."
+    "直到我感觉有一只巨大的手笨拙地捏了我一把。"
+
+# game/williamroute3.rpy:14031
+translate Schinese swn_fe50cfc3:
+
+    # "I feel his whole body shake as he shouts into my groin."
+    "Nik对着我的大腿根儿叫嚷，他全身都在颤抖。"
+
+# game/williamroute3.rpy:14032
+translate Schinese swn_6284548b:
+
+    # "I can hear his splatters, which are shockingly loud, and I suddenly understand that Sam was letting me off easy."
+    "他的喷射声大得惊人，清晰可辨，我突然明白Sam是把轻松的活儿分给了我。"
+
+# game/williamroute3.rpy:14033
+translate Schinese swn_45b3421c:
+
+    # "A sudden chemical smell filled the air. And like a chain reaction, Samuel’s leg’s began to shake."
+    "空气中顿时弥漫着一股化学的气味，就像连锁反应一样，Samuel的腿开始发颤。"
+
+# game/williamroute3.rpy:14034
+translate Schinese swn_8c8a8d28:
+
+    # "The thick shots of his murky spunk on my tongue make me swallow, as if by instinct, and the rest of my body follows suit."
+    "浓稠的种汁重重地打在我舌头上，被我吞咽干净，仿佛是出于本能，我身体的其他部分也跟着做出反应。"
+
+# game/williamroute3.rpy:14035
+translate Schinese swn_1f86681b:
+
+    # "I lift my arms, smelling the sickly sweet arousal on my body as I grasp his spurting dick to let him know that I’m about to lose control."
+    "我抬起双臂，嗅着身上甜腻的味道，握住他正在喷射的鸡巴，让他知道我即将失守。"
+
+# game/williamroute3.rpy:14036
+translate Schinese swn_d5995a96:
+
+    # "The tightness in my balls draw tighter and tiger as nik’s mouth swallows as much of me as he can."
+    "卵蛋的紧缩感一阵强过一阵，Nik尽可能一滴不漏地吞下。"
+
+# game/williamroute3.rpy:14037
+translate Schinese swn_ebd63c9b:
+
+    # "And I feel myself start to cum, shooting inside of my best friend, as the whore we’ve both fucked in a way that neither of us can ever deny again."
+    "我射在我最好的朋友身体里，我们再也无法否认自己和那个跟我们都上过床的娼妓有何本质上的不同。"
+
+# game/williamroute3.rpy:14039
+translate Schinese swn_f866fe08:
+
+    # "I think I love these men."
+    "我想我爱上这两个男人了。"
+
+# game/williamroute3.rpy:14040
+translate Schinese swn_427af243:
+
+    # "No, as I hold Sam’s waist and Nik holds mine, I know I love these men."
+    "不，当我搂着Sam的腰，Nik搂着我的腰时，我可以笃定我爱他们。"
+
+# game/williamroute3.rpy:14041
+translate Schinese swn_f6100ea9:
+
+    # "I decide right here and now that we’ll either die together or survive together."
+    "此刻，我做出一个决定，我们要生死与共。"
+
+# game/williamroute3.rpy:14042
+translate Schinese swn_6d8f2c4b:
+
+    # "Nobody’s getting left behind."
+    "绝不抛弃。"
+
+# game/williamroute3.rpy:14045
+translate Schinese swn_544d5309:
+
+    # "I start to breathe deep, and slow."
+    "我慢慢地深呼吸。"
+
+# game/williamroute3.rpy:14046
+translate Schinese swn_539d234a:
+
+    # "Then gasp."
+    "然后吐气。"
+
+# game/williamroute3.rpy:14048
+translate Schinese swn_963dbd5a:
+
+    # "I hadn't realized we had fallen asleep."
+    "在不知不觉中进入了梦乡。"
+
+# game/williamroute3.rpy:14049
+translate Schinese swn_495ddf86:
+
+    # "It's Sam who had woke me."
+    "是Sam叫醒了我。"
+
+# game/williamroute3.rpy:14052
+translate Schinese swn_181b0bd5:
+
+    # "He's shaking my arm."
+    "他在摇我的胳膊。"
+
+# game/williamroute3.rpy:14054
+translate Schinese swn_a7417cc4:
+
+    # "Sam is shaking Nik too, who wakes up with a roar."
+    "同时也在摇Nik，后者大叫一声醒了过来。”"
+
+# game/williamroute3.rpy:14057
+translate Schinese swn_1d8672ce:
+
+    # m "\"Do you see it?\""
+    m "“你们看到了吗？”"
+
+# game/williamroute3.rpy:14059
+translate Schinese swn_76f65661:
+
+    # "He's asking both of us."
+    "他问我们。"
+
+# game/williamroute3.rpy:14061
+translate Schinese swn_efd15150:
+
+    # ni "\"See what?\""
+    ni "“看到什么？”"
+
+# game/williamroute3.rpy:14062
+translate Schinese swn_2532df71:
+
+    # "Nik is looking in between the V of the trees."
+    "Nik看向V型树杈之间。"
+
+# game/williamroute3.rpy:14063
+translate Schinese swn_f40658c2:
+
+    # "I look too, and there's nothing there."
+    "我也一样，但那里什么也没有。"
+
+# game/williamroute3.rpy:14065
+translate Schinese swn_8bfc0e29:
+
+    # "Sam's wide eyes start to droop."
+    "Sam睁大的眼睛耷拉下来。"
+
+# game/williamroute3.rpy:14068
+translate Schinese swn_4081f47d:
+
+    # m "\"I meant that the moon is higher than it oughta be.\""
+    m "“我想说月亮比原本的位置要高。”"
+
+# game/williamroute3.rpy:14070
+translate Schinese swn_20d7fd4c:
+
+    # "Considerin' the moon isn't in the place he was looking, I doubt that's what he meant."
+    "鉴于他看的地方根本就没有月亮，我怀疑他可能是另有所指。"
+
+# game/williamroute3.rpy:14071
+translate Schinese swn_901be3be:
+
+    # "But if he had a night terror I'm not going to press him on it."
+    "但万一刺激到他的夜惊症就不好了。"
+
+# game/williamroute3.rpy:14073
+translate Schinese swn_c57a31d6:
+
+    # m "\"We need shouldn't sleepin' outside like this.\""
+    m "“咱们最好回去睡。”"
+
+# game/williamroute3.rpy:14075
+translate Schinese swn_6f57a51f:
+
+    # "That's something he's right about."
+    "这话倒是没错。"
+
+# game/williamroute3.rpy:14076
+translate Schinese swn_a6285ce9:
+
+    # "If somebody stumbles upon us with our shirts off and our drawers unbuttoned covered in spit and god knows what else..."
+    "如果被路人发现我们光着膀子、裤链大开、满身唾沫和天知道是什么的液体..."
+
+# game/williamroute3.rpy:14077
+translate Schinese swn_d2dc7a98:
+
+    # "Well it would be bad."
+    "就太不妙了。"
+
+# game/williamroute3.rpy:14082
+translate Schinese swn_167b5333:
+
+    # wi "\"It’s not exactly like that.\""
+    wi "“不完全是。”"
+
+# game/williamroute3.rpy:14083
+translate Schinese swn_babddc43:
+
+    # wi "\"Sam shouldn’t have brought it up.\""
+    wi "“Sam，你不该把那件事抖出去的。”"
+
+# game/williamroute3.rpy:14085
+translate Schinese swn_53ab1b83:
+
+    # m "\"Know what?\""
+    m "“其实-”"
+
+# game/williamroute3.rpy:14088
+translate Schinese swn_79e350be:
+
+    # m "\"You’re right.\""
+    m "“-我已经后悔了。”"
+
+# game/williamroute3.rpy:14091
+translate Schinese swn_494758c3:
+
+    # m "\"I overstepped.\""
+    m "“是我不知好歹。”"
+
+# game/williamroute3.rpy:14093
+translate Schinese swn_cfe48721:
+
+    # wi "\"Maybe just a little.\""
+    wi "“是有一点。”"
+
+# game/williamroute3.rpy:14095
+translate Schinese swn_b6fde9ac:
+
+    # "He grimaces and I see a fang."
+    "他做了个鬼脸，露出一只尖牙。"
+
+# game/williamroute3.rpy:14096
+translate Schinese swn_bbb6e7cc:
+
+    # "I’m not in the mood to entertain his attitude tonight."
+    "我今晚没有心情迎合他。"
+
+# game/williamroute3.rpy:14101
+translate Schinese swndecline_1bbc9e0f:
+
+    # wi "\"Well...\""
+    wi "“总之...”"
+
+# game/williamroute3.rpy:14102
+translate Schinese swndecline_f96f7702:
+
+    # wi "\"Like I was saying before: people come and people go.\""
+    wi "“正如我之前所说：人们总是来了又去。”"
+
+# game/williamroute3.rpy:14103
+translate Schinese swndecline_ea20ba40:
+
+    # wi "\"We have much say in a man’s or woman’s life when they make up their minds and feel compelled to do something.\""
+    wi "“纵使你有三寸不烂之舌，也劝不动一个心意已决的人。”"
+
+# game/williamroute3.rpy:14105
+translate Schinese swndecline_53ab36ac:
+
+    # ni "\"So that’s it then?\""
+    ni "“那就这样了？”"
+
+# game/williamroute3.rpy:14106
+translate Schinese swndecline_765849fa:
+
+    # ni "\"You’re both fine with me leaving?\""
+    ni "“你们都不介意我离开吗？”"
+
+# game/williamroute3.rpy:14109
+translate Schinese swndecline_eded7033:
+
+    # m "\"Fine ain’t the right word.\""
+    m "“‘介意’这个词不合适。”"
+
+# game/williamroute3.rpy:14111
+translate Schinese swndecline_0390c7b4:
+
+    # wi "\"Fine’s a plenty good word.\""
+    wi "“已经很合适了。”"
+
+# game/williamroute3.rpy:14113
+translate Schinese swndecline_b332fd25:
+
+    # wi "\"If things are better for Nik in Payton, then they’re better for Nik in Payton.\""
+    wi "“如果Nik在佩顿能过得更好，就说明他该去佩顿。”"
+
+# game/williamroute3.rpy:14114
+translate Schinese swndecline_54eac648:
+
+    # wi "\"That’s just how things shake out sometime.\""
+    wi "“就是这么简单的道理。”"
+
+# game/williamroute3.rpy:14115
+translate Schinese swndecline_1d2c9f02:
+
+    # wi "\"And we’re not that far away if we need to visit.\""
+    wi "“而且想叙旧的话，我们离得也不远。”"
+
+# game/williamroute3.rpy:14116
+translate Schinese swndecline_dec8ddd7:
+
+    # wi "\"Just half an hour by train, ain’t it Nik?\""
+    wi "“坐火车只要半小时，对吧，Nik？”"
+
+# game/williamroute3.rpy:14118
+translate Schinese swndecline_baa0515f:
+
+    # ni "\"True.\""
+    ni "“对。”"
+
+# game/williamroute3.rpy:14119
+translate Schinese swndecline_2843315e:
+
+    # ni "\"Perhaps you will both join me there soon.\""
+    ni "“或许你们不久后就会想加入我了。”"
+
+# game/williamroute3.rpy:14120
+translate Schinese swndecline_8b3dd67b:
+
+    # ni "\"I cannot imagine things running very well for much longer here.\""
+    ni "“太多不好的东西蛀坏了这座小镇。”"
+
+# game/williamroute3.rpy:14121
+translate Schinese swndecline_9997a40a:
+
+    # ni "\"Too many things are going to break.\""
+    ni "“已经无药可救了。”"
+
+# game/williamroute3.rpy:14123
+translate Schinese swndecline_4e0f1379:
+
+    # "I sigh and shake my head."
+    "我叹了口气，摇了摇头。"
+
+# game/williamroute3.rpy:14124
+translate Schinese swndecline_5c1cdc00:
+
+    # wi "\"That’s true, but I’ve gotta help them clean up their mess.\""
+    wi "“确实如此，但我有义务协助他们收拾残局。”"
+
+# game/williamroute3.rpy:14125
+translate Schinese swndecline_31d8e1bf:
+
+    # "I see the muscle in Nik’s lips pull back."
+    "我看到Nik嘴唇紧绷。"
+
+# game/williamroute3.rpy:14127
+translate Schinese swndecline_2a17d78b:
+
+    # ni "\"But why does it have to be your mess?\""
+    ni "“为什么非得是你？”"
+
+# game/williamroute3.rpy:14130
+translate Schinese swndecline_f07ffc0c:
+
+    # ni "\"You can just resign.\""
+    ni "“你可以辞职啊。”"
+
+# game/williamroute3.rpy:14133
+translate Schinese swndecline_6ba2432c:
+
+    # ni "\"No job is worth that much trouble.\""
+    ni "“没有哪份工作值得付出如此代价。”"
+
+# game/williamroute3.rpy:14135
+translate Schinese swndecline_263e0142:
+
+    # wi "\"Not for the guilty, no.\""
+    wi "“除了内疚感。”"
+
+# game/williamroute3.rpy:14136
+translate Schinese swndecline_02606156:
+
+    # "I stick my paws in my pockets and sigh."
+    "我两手揣兜，叹气道："
+
+# game/williamroute3.rpy:14137
+translate Schinese swndecline_8df62733:
+
+    # wi "\"But I owe the Madame a favor or two.\""
+    wi "“我还欠夫人一两个人情。”"
+
+# game/williamroute3.rpy:14138
+translate Schinese swndecline_0c5d6ac2:
+
+    # wi "\"I just needed someplace to be for a while.\""
+    wi "“我需要的只是一片立足之地。”"
+
+# game/williamroute3.rpy:14139
+translate Schinese swndecline_b486d827:
+
+    # wi "\"Maybe that time is just about up.\""
+    wi "“看来这里快到头了。”"
+
+# game/williamroute3.rpy:14140
+translate Schinese swndecline_ad23909a:
+
+    # wi "\"But the least I’m gonna do before makin’ myself scarce is solve the connection between the murders in town and the CSCG operations.\""
+    wi "“但在离开前，我起码得解开镇上的谋杀案与CSCG之间的联系。”"
+
+# game/williamroute3.rpy:14143
+translate Schinese swndecline_666a24da:
+
+    # "Sam scoffs while Nik rubs his eyes and nods."
+    "Sam不屑一顾，Nik则揉了揉眼睛，点点头。"
+
+# game/williamroute3.rpy:14145
+translate Schinese swndecline_a67d0d1f:
+
+    # ni "\"Then that is the way things have to be.\""
+    ni "“看来你也是心意已决。”"
+
+# game/williamroute3.rpy:14146
+translate Schinese swndecline_c9d4a57b:
+
+    # ni "\"I hope you will remember my offer once things are finished here.\""
+    ni "“希望这里的一切结束后，你不会忘记我的提议。”"
+
+# game/williamroute3.rpy:14147
+translate Schinese swndecline_4e1ea2fc:
+
+    # "I shake my head and pull out a cigarette."
+    "我摇了摇头，抽出一支烟。"
+
+# game/williamroute3.rpy:14149
+translate Schinese swndecline_84c9ed55:
+
+    # wi "\"No Nik, I won’t forget.\""
+    wi "“我不会忘的，Nik。”"
+
+# game/williamroute3.rpy:14151
+translate Schinese swndecline_685727fc:
+
+    # "I flick my lighter and let the flames lick the paper."
+    "我点着打火机，让火舌舔舐纸张。"
+
+# game/williamroute3.rpy:14152
+translate Schinese swndecline_123b7a6d:
+
+    # "Then I inhale."
+    "然后吸气。"
+
+# game/williamroute3.rpy:14153
+translate Schinese swndecline_4df5dcee:
+
+    # "Exhale."
+    "吐气。"
+
+# game/williamroute3.rpy:14154
+translate Schinese swndecline_ddb91bdb:
+
+    # "And feel calm."
+    "保持冷静。"
+
+# game/williamroute3.rpy:14155
+translate Schinese swndecline_972ebb40:
+
+    # wi "\"It’s been a long night.\""
+    wi "“真是一个多事之夜啊。”"
+
+# game/williamroute3.rpy:14156
+translate Schinese swndecline_a7c9e35c:
+
+    # wi "\"Sam and I have places to be tomorrow.\""
+    wi "“Sam和我明天还有地方要去。”"
+
+# game/williamroute3.rpy:14158
+translate Schinese swndecline_ab197f68:
+
+    # m "\"Marcy’s again?\""
+    m "“又是Marcy家？”"
+
+# game/williamroute3.rpy:14160
+translate Schinese swndecline_8ce61eb8:
+
+    # "I nod."
+    "我点点头。"
+
+# game/williamroute3.rpy:14161
+translate Schinese swndecline_924583f4:
+
+    # wi "\"That’s the one.\""
+    wi "“没错。”"
+
+# game/williamroute3.rpy:14162
+translate Schinese swndecline_18c60e44:
+
+    # wi "\"Let’s go wrangle up Todd and call it a night.\""
+    wi "“我们回去找Todd，今晚就到这里吧。”"
+
+# game/williamroute3.rpy:14164
+translate Schinese swndecline_e0a28d47:
+
+    # m "\"You think we’ll have to peel him off the floor?\""
+    m "“你觉得我们能把他从地板上拽起来吗？”"
+
+# game/williamroute3.rpy:14166
+translate Schinese swndecline_88849dc0:
+
+    # wi "\"He doesn’t drink, Sam.\""
+    wi "“他不会喝酒，Sam。”"
+
+# game/williamroute3.rpy:14168
+translate Schinese swndecline_4c198c83:
+
+    # m "\"Doesn’t mean he won’t be stuck to something.\""
+    m "“架不住别人劝啊。”"
+
+# game/williamroute3.rpy:14170
+translate Schinese swndecline_b22f2a58:
+
+    # "I cringe a bit."
+    "我愣了愣。"
+
+# game/williamroute3.rpy:14172
+translate Schinese swndecline_9e81a192:
+
+    # ni "\"I will go off on my own way, then.\""
+    ni "“那我就和大家告别了。”"
+
+# game/williamroute3.rpy:14175
+translate Schinese swndecline_38a4ba2a:
+
+    # ni "\"I will make sure to see each of you again before I go.\""
+    ni "“在我走之前，我一定会再来找你们的。”"
+
+# game/williamroute3.rpy:14177
+translate Schinese swndecline_bd7600a8:
+
+    # "He holds out his huge, warm paw that almost entirely envelops mine as he shakes it."
+    "他伸出温暖的大手，几乎把我的手掌全部握住。"
+
+# game/williamroute3.rpy:14180
+translate Schinese swndecline_6cbc0839:
+
+    # "Then pulls Sam into a tight hug."
+    "然后他紧紧地抱住Sam。"
+
+# game/williamroute3.rpy:14181
+translate Schinese swndecline_41837e34:
+
+    # "The puma flinches at first."
+    "美洲狮先是退缩了一下。"
+
+# game/williamroute3.rpy:14183
+translate Schinese swndecline_aef46c38:
+
+    # "Then he leans into it."
+    "接着蜷进他的怀中。"
+
+# game/williamroute3.rpy:14187
+translate Schinese swndecline_966c5dd2:
+
+    # "I give them some space, finishing my cigarette and flicking out the ashes."
+    "我没有打扰他们，走到一旁抽完烟，弹掉烟灰。"
+
+# game/williamroute3.rpy:14190
+translate Schinese postswn_39c879c6:
+
+    # "The journey back to the barn goes without incident."
+    "我们一路平安地回到谷仓。"
+
+# game/williamroute3.rpy:14191
+translate Schinese postswn_66c1e714:
+
+    # "We find Todd passed out on the rafters."
+    "Todd醉倒在了房梁上。"
+
+# game/williamroute3.rpy:14192
+translate Schinese postswn_8f0554f3:
+
+    # "Sam bats at his cheeks to wake him up, and we walk him back into town."
+    "Sam用巴掌把他拍醒，并陪他回到镇上。"
+
+# game/williamroute3.rpy:14194
+translate Schinese postswn_1ceaa54b:
+
+    # "Todd goes his way and Sam spends the night with me again, but we’re both too sore and tired to do much of anything else."
+    "后来Todd一个人回家，Sam去了我那里过夜，但我们累得够呛，几乎一沾枕头就睡着了。"
+
+# game/williamroute3.rpy:14210
+translate Schinese marcymerge_3d66e1a7:
+
+    # "Even without my watch, I could tell we had arrived at the cottage sometime after two pm and before sundown."
+    "即使没有手表，我也能看出我们是在下午两点后、日落之前的某个时分到达小屋的。"
+
+# game/williamroute3.rpy:14211
+translate Schinese marcymerge_ebc3a9f4:
+
+    # "Marcy’s adorable little cottage looks far less adorable each time I see it."
+    "Marcy可爱的小屋于我而言一点也不可爱。"
+
+# game/williamroute3.rpy:14212
+translate Schinese marcymerge_60e1ba32:
+
+    # "Gone are those windowsill pies cooling in the sun and the evidence of bustling activity in the yard and on the porch."
+    "窗台上晾晒的派不见了，院子和门廊死气沉沉。"
+
+# game/williamroute3.rpy:14213
+translate Schinese marcymerge_e2aa45da:
+
+    # "The house feels less like space for somebody to eat and sleep in so much as a replica of a house."
+    "这房子与其说是供人吃饭睡觉的空间，不如说是一栋复制品。"
+
+# game/williamroute3.rpy:14214
+translate Schinese marcymerge_d03e364e:
+
+    # "Dolls line the outside steps."
+    "娃娃们在外面的台阶上排成一排。"
+
+# game/williamroute3.rpy:14215
+translate Schinese marcymerge_898525fe:
+
+    # "Potted plants that used to contain live succulents now have knitted replicas."
+    "过去种着的多肉植物的盆栽如今被针织品替换。"
+
+# game/williamroute3.rpy:14216
+translate Schinese marcymerge_b43bb9b1:
+
+    # "All things on the stoop look untouched, but also unmaintained."
+    "门廊看起来完好无损，但也没有人打扫过。"
+
+# game/williamroute3.rpy:14224
+translate Schinese marcymerge_d81ce1d2:
+
+    # "I can tell she’s home only from the open windows."
+    "我只能从打开的窗户看出她在家。"
+
+# game/williamroute3.rpy:14225
+translate Schinese marcymerge_b21da09c:
+
+    # wi "\"Marcy?\""
+    wi "“Marcy？”"
+
+# game/williamroute3.rpy:14226
+translate Schinese marcymerge_d4a48043:
+
+    # "I don’t get an answer."
+    "没有回应。"
+
+# game/williamroute3.rpy:14227
+translate Schinese marcymerge_ad7cbfca:
+
+    # wi "\"Marcy, it’s Sheriff Adler.\""
+    wi "“Marcy，我是Adler警长。”"
+
+# game/williamroute3.rpy:14228
+translate Schinese marcymerge_b3f40779:
+
+    # wi "\"Please open up, I need to ask you some questions.\""
+    wi "“请开门，我需要问你几个问题。”"
+
+# game/williamroute3.rpy:14229
+translate Schinese marcymerge_03287492:
+
+    # "She doesn’t respond."
+    "还是没有回应。"
+
+# game/williamroute3.rpy:14235
+translate Schinese marcymerge_c63934e5:
+
+    # to "\"We’re sorry to bother ya, Marcy but this’ll be the last time, swear on my grandpa Emmet’s grave.\""
+    to "“很抱歉打扰你，Marcy，但我保证这是最后一次了，我以我爷爷Emmet的坟发誓。”"
+
+# game/williamroute3.rpy:14241
+translate Schinese marcymerge_dc71ef67:
+
+    # "It sounds like she isn’t going to respond."
+    "看来她没有回应的打算。"
+
+# game/williamroute3.rpy:14242
+translate Schinese marcymerge_392409e4:
+
+    # "But then we hear her voice."
+    "但就在这时，我们听到她说话了。"
+
+# game/williamroute3.rpy:14248
+translate Schinese marcymerge_d325f555:
+
+    # mar "\"{cps=20}Just go away.\""
+    mar "“{cps=20}你们走吧。”"
+
+# game/williamroute3.rpy:14249
+translate Schinese marcymerge_e31f990d:
+
+    # "Todd gives me a worried look."
+    "Todd担心地看着我。"
+
+# game/williamroute3.rpy:14250
+translate Schinese marcymerge_3ffd036c:
+
+    # "I stick my head through the window."
+    "我把头伸进窗户。"
+
+# game/williamroute3.rpy:14251
+translate Schinese marcymerge_d445aa74:
+
+    # wi "\"You don’t sound well, Marcy.\""
+    wi "“你听起来不太好，Marcy。”"
+
+# game/williamroute3.rpy:14252
+translate Schinese marcymerge_c0e73644:
+
+    # wi "\"We can help you if you need it.\""
+    wi "“如果有什么需要，我们可以帮你。”"
+
+# game/williamroute3.rpy:14254
+translate Schinese marcymerge_e2ac86d3:
+
+    # "She makes a high pitched groan and then a screech."
+    "她发出高亢的呻吟，接着是一声尖叫。"
+
+# game/williamroute3.rpy:14255
+translate Schinese marcymerge_c9f057cd:
+
+    # mar "\"{cps=20}I said...\""
+    mar "“{cps=20}我让你们...”"
+
+# game/williamroute3.rpy:14256
+translate Schinese marcymerge_2a12f396:
+
+    # mar "\"...go!\"" with vpunch
+    mar "“...离开！”" with vpunch
+
+# game/williamroute3.rpy:14257
+translate Schinese marcymerge_a2fe46ab:
+
+    # "Todd gives me a look as if he’s asking me what to do."
+    "Todd看了我一眼，好像在寻求我的意见。"
+
+# game/williamroute3.rpy:14258
+translate Schinese marcymerge_4f0945b8:
+
+    # "I clear my voice and begin to ask her again."
+    "我清了清喉咙，想再问她一遍。"
+
+# game/williamroute3.rpy:14259
+translate Schinese marcymerge_ebebca5d:
+
+    # "But I never get the chance to."
+    "但不等我张嘴。"
+
+# game/williamroute3.rpy:14262
+translate Schinese marcymerge_9edfd1e1:
+
+    # "From within, we hear something splash onto the floor."
+    "屋里传来溅落的声音。"
+
+# game/williamroute3.rpy:14263
+translate Schinese marcymerge_4e14960f:
+
+    # "We hear Marcy Greene inhale, ragged and slow, until she lets out a shriek that goes well beyond the boundaries of her property, into Lake Emma."
+    "Marcy Greene断断续续地喘着粗气，接着发出震耳欲聋、声音直抵艾玛湖的尖叫。"
+
+# game/williamroute3.rpy:14264
+translate Schinese marcymerge_5960c754:
+
+    # "I can’t tell if she’s screaming at us or from pain."
+    "我无法判断她是因为我们，还是因为疼痛。"
+
+# game/williamroute3.rpy:14265
+translate Schinese marcymerge_4f2dfe72:
+
+    # wi "\"Ayers!\""
+    wi "“Ayers！”"
+
+# game/williamroute3.rpy:14266
+translate Schinese marcymerge_5d6dc0f0:
+
+    # wi "\"Bronson!\""
+    wi "“Bronson！”"
+
+# game/williamroute3.rpy:14267
+translate Schinese marcymerge_8c3985b6:
+
+    # wi "\"Help me bust this door down {i}right now{/i}!\""
+    wi "“帮我把门撞开，{b}快{/b}！”"
+
+# game/williamroute3.rpy:14274
+translate Schinese marcymerge_dbe42e18:
+
+    # "Nobody hesitates."
+    "没有人犹豫。"
+
+# game/williamroute3.rpy:14278
+translate Schinese marcymerge_19c7c5a5:
+
+    # "I place my body on the door and Todd and Sam flank me."
+    "我把身体抵在门上，Todd和Sam分别在我两侧。"
+
+# game/williamroute3.rpy:14279
+translate Schinese marcymerge_74fbd5a5:
+
+    # wi "\"SLAM IT ON THE COUNT OF THREE.\""
+    wi "“{b}我数到三。{/b}”"
+
+# game/williamroute3.rpy:14280
+translate Schinese marcymerge_7bb45a55:
+
+    # wi "\"ONE...\""
+    wi "“{b}一...{/b}”"
+
+# game/williamroute3.rpy:14281
+translate Schinese marcymerge_54f40620:
+
+    # wi "\"TWO...\""
+    wi "“{b}二...{/b}”"
+
+# game/williamroute3.rpy:14282
+translate Schinese marcymerge_9d127c2b:
+
+    # "We hear another horrible scream."
+    "又一声骇人的尖叫。"
+
+# game/williamroute3.rpy:14283
+translate Schinese marcymerge_decc480e:
+
+    # wi "\"THREE!\""
+    wi "“{b}三！{/b}”"
+
+# game/williamroute3.rpy:14285
+translate Schinese marcymerge_8ac5a4ee:
+
+    # "I can feel something knock loose from our combined body weight, but it’s not enough." with vpunch
+    "门板在我们体重的作用下松动了，但还不够。" with vpunch
+
+# game/williamroute3.rpy:14286
+translate Schinese marcymerge_85ea8c9f:
+
+    # "There’s another splash."
+    "溅落声再度响起。"
+
+# game/williamroute3.rpy:14287
+translate Schinese marcymerge_27538934:
+
+    # wi "\"AGAIN!\""
+    wi "“{b}再来！{/b}”"
+
+# game/williamroute3.rpy:14288
+translate Schinese marcymerge_d25c9652:
+
+    # "Then a gurgle."
+    "然后是咯咯的笑声。"
+
+# game/williamroute3.rpy:14289
+translate Schinese marcymerge_7bb45a55_1:
+
+    # wi "\"ONE...\""
+    wi "“{b}一...{/b}”"
+
+# game/williamroute3.rpy:14291
+translate Schinese marcymerge_e2ae6fd9:
+
+    # "The scraping sound of metal on wood."
+    "金属与木头摩擦。"
+
+# game/williamroute3.rpy:14292
+translate Schinese marcymerge_54f40620_1:
+
+    # wi "\"TWO...\""
+    wi "“{b}二...{/b}”"
+
+# game/williamroute3.rpy:14293
+translate Schinese marcymerge_0b998522:
+
+    # "A toppling sound."
+    "断裂声。"
+
+# game/williamroute3.rpy:14294
+translate Schinese marcymerge_decc480e_1:
+
+    # wi "\"THREE!\""
+    wi "“{b}三！{/b}”"
+
+# game/williamroute3.rpy:14296
+translate Schinese marcymerge_449a2a98:
+
+    # "The wooden slot gives this time and the door busts open." with vpunch
+    "门闩弯曲，门被撞开。" with vpunch
+
+# game/williamroute3.rpy:14299
+translate Schinese marcymerge_470630e0:
+
+    # "Marcy is squatting in a pail in front of the fireplace."
+    "Marcy蹲在壁炉前的桶那里。"
+
+# game/williamroute3.rpy:14300
+translate Schinese marcymerge_4ec0f2aa:
+
+    # "Tears are streaming down her face."
+    "泪水顺着她的脸庞流下。"
+
+# game/williamroute3.rpy:14301
+translate Schinese marcymerge_b8413b05:
+
+    # "Blood is running down her legs."
+    "她的两腿鲜血淋漓。"
+
+# game/williamroute3.rpy:14302
+translate Schinese marcymerge_6c6f1937:
+
+    # "Marcy crouches, squeezes her eyes shut, looks skyward into the ceiling, and yowls."
+    "Marcy双眼紧闭，仰天哀嚎。"
+
+# game/williamroute3.rpy:14303
+translate Schinese marcymerge_780ae106:
+
+    # "Birds in the trees outside above us caw as they disperse."
+    "树上的乌鸦呱呱叫着四散飞开。"
+
+# game/williamroute3.rpy:14310
+translate Schinese marcymerge_9d71ee4f:
+
+    # to "\"M-ma’am...\""
+    to "“太-太太...”"
+
+# game/williamroute3.rpy:14311
+translate Schinese marcymerge_f8281bdc:
+
+    # to "\"Are you okay?!\""
+    to "“你没事吧？！”"
+
+# game/williamroute3.rpy:14312
+translate Schinese marcymerge_9f8e3c5d:
+
+    # "Sam looks at Todd as if he can’t believe he just asked that, and he looks at me in a daze."
+    "Sam看向Todd，不敢相信他怎么会问出这种问题，他则是怔怔地看着我。"
+
+# game/williamroute3.rpy:14315
+translate Schinese marcymerge_16d53462:
+
+    # "She cries out, sinking to the ground on her knees as a pool of something dark overflows from the pail below her."
+    "她大叫一声跪在地上，一滩黑色的东西从下面的桶里溢出。"
+
+# game/williamroute3.rpy:14317
+translate Schinese marcymerge_0fa98db1:
+
+    # m "\"Oh, shit!\"" with vpunch
+    m "“操！”" with vpunch
+
+# game/williamroute3.rpy:14323
+translate Schinese marcymerge_8e0e3b7a:
+
+    # to "\"That’s...\""
+    to "“那是...”"
+
+# game/williamroute3.rpy:14324
+translate Schinese marcymerge_015b0ba5:
+
+    # "Sounds like they both just realized right now what’s happening."
+    "他们终于意识到发生了什么。"
+
+# game/williamroute3.rpy:14326
+translate Schinese marcymerge_87933f8e:
+
+    # m "\"She’s in labor!\""
+    m "“她临盆了！”"
+
+# game/williamroute3.rpy:14332
+translate Schinese marcymerge_50529e3a:
+
+    # to "\"The heck you mean she’s in labor?!\""
+    to "“临盆是什么意思？！”"
+
+# game/williamroute3.rpy:14334
+translate Schinese marcymerge_21323cfc:
+
+    # m "\"I don’t think I fuckin' stuttered!\""
+    m "“我说得还他妈不够清楚吗！”"
+
+# game/williamroute3.rpy:14336
+translate Schinese marcymerge_a37c902f:
+
+    # "A slew of curse words fly out of my mouth."
+    "我骂骂咧咧个不停。"
+
+# game/williamroute3.rpy:14337
+translate Schinese marcymerge_3c53f6cb:
+
+    # "I should have known from the medicine this might not have happened yet."
+    "看到那药的时候，我就应该预判到这种事的。"
+
+# game/williamroute3.rpy:14338
+translate Schinese marcymerge_072e3cc6:
+
+    # wi "\"You ever delivered an infant, Todd?\""
+    wi "“你接生过吗，Todd？”"
+
+# game/williamroute3.rpy:14339
+translate Schinese marcymerge_5449ea0b:
+
+    # to "\"Not a person’s, no!\""
+    to "“只、只有动物的！”"
+
+# game/williamroute3.rpy:14340
+translate Schinese marcymerge_8c956b46:
+
+    # wi "\"Well, it ain't much different.\""
+    wi "“区别不大。”"
+
+# game/williamroute3.rpy:14341
+translate Schinese marcymerge_44e09d60:
+
+    # wi "\"Go to the cupboard and get her a clean sheet.\""
+    wi "“从壁橱里拿张干净床单来。”"
+
+# game/williamroute3.rpy:14346
+translate Schinese marcymerge_73fcd3fb:
+
+    # to "\"I, uh, um... ok!\""
+    to "“我，呃...是！”"
+
+# game/williamroute3.rpy:14348
+translate Schinese marcymerge_60b803d5:
+
+    # "He runs a little stiffly as his thick tail trots behind him."
+    "他翘着粗长的尾巴，僵硬地跑远了。"
+
+# game/williamroute3.rpy:14350
+translate Schinese marcymerge_df68bb53:
+
+    # "We hear him slide and run into some cupboards as a few boxes topple."
+    "我们依次听到滑倒、撞击橱柜，还有箱子倒塌的声音。"
+
+# game/williamroute3.rpy:14352
+translate Schinese marcymerge_03b7e7ac:
+
+    # "I hold Mrs. Greene."
+    "我抱住Greene太太。"
+
+# game/williamroute3.rpy:14353
+translate Schinese marcymerge_d11e2418:
+
+    # "She’s shaking something fierce."
+    "她颤抖个不停。"
+
+# game/williamroute3.rpy:14354
+translate Schinese marcymerge_db4f1c3a:
+
+    # wi "\"Deep breaths, M-ma’am...\""
+    wi "“深呼吸，女士...”"
+
+# game/williamroute3.rpy:14355
+translate Schinese marcymerge_695c04c0:
+
+    # wi "\"Help me move her, Sam.\""
+    wi "“过来帮忙，Sam。”"
+
+# game/williamroute3.rpy:14356
+translate Schinese marcymerge_a9ceb6e6:
+
+    # "She’s leaving thin, splattery trails as we get her out of the kettle."
+    "我们把她从桶里搬出来，液体溅了一路，留下长长的条痕。"
+
+# game/williamroute3.rpy:14357
+translate Schinese marcymerge_78b3fbe8:
+
+    # "I try to get her onto the floor, onto a flat surface, but the coppery smell of blood is cloying."
+    "我试图将其安置在一个平坦的地方，但血的铜臭味令我头晕目眩。"
+
+# game/williamroute3.rpy:14359
+translate Schinese marcymerge_889440bd:
+
+    # "Sam elevates her head with a pillow."
+    "Sam用枕头垫高她的头。"
+
+# game/williamroute3.rpy:14361
+translate Schinese marcymerge_312df7b4:
+
+    # m "\"Do you have a midwife?\""
+    m "“你有认识的产婆吗？”"
+
+# game/williamroute3.rpy:14363
+translate Schinese marcymerge_3c8d2b0f:
+
+    # "She looks at him, like she’s lost, and shakes her head and starts crying again."
+    "她好像没听懂一样注视着我，然后摇摇头，又大哭起来。"
+
+# game/williamroute3.rpy:14368
+translate Schinese marcymerge_500a9c58:
+
+    # "I hear Todd’s footsteps as he races back into the room with what looks like a tablecloth."
+    "我听到了Todd的脚步声，他拿着一张看起来像桌布的东西。"
+
+# game/williamroute3.rpy:14369
+translate Schinese marcymerge_59d0632e:
+
+    # wi "\"We have to get these off of her.\""
+    wi "“我们得把她的衣服脱下来。”"
+
+# game/williamroute3.rpy:14374
+translate Schinese marcymerge_968616c0:
+
+    # to "\"C-can we d-do that, m-ma’am...?\""
+    to "“可-可以吗，太-太太...？”"
+
+# game/williamroute3.rpy:14375
+translate Schinese marcymerge_34d8c6d7:
+
+    # "She nods, still shaking."
+    "她点点头，依然在发抖。"
+
+# game/williamroute3.rpy:14380
+translate Schinese marcymerge_9aede437:
+
+    # "Todd looks at me like I’m the one who needs to do it."
+    "Todd以一种“交给你了”的眼神看了过来。"
+
+# game/williamroute3.rpy:14386
+translate Schinese marcymerge_d09b0135:
+
+    # "Sam shakes his head and jerks it towards her, giving Todd the hardest stare I’ve seen him give in his life."
+    "Sam摇摇头，以可能是他这辈子最严厉的眼神狠狠瞪了水獭一眼。"
+
+# game/williamroute3.rpy:14391
+translate Schinese marcymerge_2318236b:
+
+    # to "\"Okay.\""
+    to "“好吧。”"
+
+# game/williamroute3.rpy:14396
+translate Schinese marcymerge_4c6e08a4:
+
+    # to "\"Alright.\""
+    to "“好。”"
+
+# game/williamroute3.rpy:14399
+translate Schinese marcymerge_0b230745:
+
+    # "Todd crouches, grimacing from the smell as he puts his paws below."
+    "Todd蹲下，强忍着气味把爪子伸进裙子里。"
+
+# game/williamroute3.rpy:14401
+translate Schinese marcymerge_6ef61b98:
+
+    # "I hear the undergarments squelch as he pulls them down, sticking slightly to the skin."
+    "粘在皮肤上内衣被剥下，发出“刷啦”的声响。"
+
+# game/williamroute3.rpy:14402
+translate Schinese marcymerge_5013a862:
+
+    # "I can tell from the streaks on the side of her leg she has an infection."
+    "从她腿上的痕迹可以看出，她感染了。"
+
+# game/williamroute3.rpy:14403
+translate Schinese marcymerge_193a4a29:
+
+    # wi "\"Don’t try to push too hard.\""
+    wi "“别太用力。”"
+
+# game/williamroute3.rpy:14408
+translate Schinese marcymerge_0ff0c0f1:
+
+    # "She shakes her head, tears still welling out of her eyes."
+    "她摇着头，泪水从眼眶中滑落。"
+
+# game/williamroute3.rpy:14413
+translate Schinese marcymerge_ff145eb3:
+
+    # to "\"It’s okay Mrs. Greene!\""
+    to "“没事的，Greene太太！”"
+
+# game/williamroute3.rpy:14418
+translate Schinese marcymerge_a02515ad:
+
+    # to "\"You’re gonna be a mommy!\""
+    to "“你要当妈妈了！”"
+
+# game/williamroute3.rpy:14423
+translate Schinese marcymerge_be253d41:
+
+    # "The rat starts wailing again."
+    "老鼠又开始哭泣。"
+
+# game/williamroute3.rpy:14425
+translate Schinese marcymerge_9bf34e9d:
+
+    # "More blood splashes to the ground."
+    "更多的血溅到地上。"
+
+# game/williamroute3.rpy:14431
+translate Schinese marcymerge_59cb3582:
+
+    # to "\"I think I see a head!\""
+    to "“我好像看见头了！”"
+
+# game/williamroute3.rpy:14436
+translate Schinese marcymerge_f4945552:
+
+    # "Mrs. Greene screams again."
+    "Greene太太再度尖叫起来。"
+
+# game/williamroute3.rpy:14441
+translate Schinese marcymerge_022aeb24:
+
+    # to "\"I definitely see a head!\""
+    to "“真的是头！”"
+
+# game/williamroute3.rpy:14446
+translate Schinese marcymerge_bb17569e:
+
+    # "I hold her paw and she squeezes mine."
+    "我握住Greene太太的手。"
+
+# game/williamroute3.rpy:14447
+translate Schinese marcymerge_902ab488:
+
+    # "Hattie did the same when she delivered Andy."
+    "Andy出生时，我就像现在这样握着Hattie的手。"
+
+# game/williamroute3.rpy:14448
+translate Schinese marcymerge_c564836d:
+
+    # "Without any medicine I can’t imagine the pain that Mrs. Greene is going through."
+    "没有任何分娩药物，我无法想象Greene太太所承受的痛苦"
+
+# game/williamroute3.rpy:14453
+translate Schinese marcymerge_9e410951:
+
+    # to "\"Now there’s a body!\""
+    to "“身子也出来了！”"
+
+# game/williamroute3.rpy:14458
+translate Schinese marcymerge_f626b159:
+
+    # wi "\"Hold it while it comes out.\""
+    wi "“小心托住孩子。”"
+
+# game/williamroute3.rpy:14460
+translate Schinese marcymerge_3353c13b:
+
+    # to "\"I am, I am!\""
+    to "“我在托，我在托！”"
+
+# game/williamroute3.rpy:14461
+translate Schinese marcymerge_2402d8c7:
+
+    # wi "\"Make sure the cord isn’t wrapped around its neck.\""
+    wi "“确保脖子没有被脐带缠住。”"
+
+# game/williamroute3.rpy:14462
+translate Schinese marcymerge_d7ee95b2:
+
+    # to "\"Is that not supposed to happen?\""
+    to "“有什么说法吗？”"
+
+# game/williamroute3.rpy:14463
+translate Schinese marcymerge_0985d243:
+
+    # wi "\"The baby can get strangled on it if you’re not careful.\""
+    wi "“否则可能会勒死婴儿的。”"
+
+# game/williamroute3.rpy:14464
+translate Schinese marcymerge_052a483a:
+
+    # to "\"It’s sliding out pretty easy now.\""
+    to "“终于顺畅些了。”"
+
+# game/williamroute3.rpy:14466
+translate Schinese marcymerge_b96b8b27:
+
+    # "I can see it too."
+    "我也看到了它。"
+
+# game/williamroute3.rpy:14467
+translate Schinese marcymerge_4dbcddf1:
+
+    # "It’s bloody and hairless with chunks of pus coating the body, and encased in a thin film of mucus."
+    "血淋淋、无毛，身上覆盖着大片的脓，被一层薄薄的粘液包裹在里面。"
+
+# game/williamroute3.rpy:14468
+translate Schinese marcymerge_281fe207:
+
+    # "But it’s small."
+    "可它好小。"
+
+# game/williamroute3.rpy:14469
+translate Schinese marcymerge_b631b457:
+
+    # "Very small."
+    "太小了。"
+
+# game/williamroute3.rpy:14474
+translate Schinese marcymerge_0166d36c:
+
+    # to "\"Do we need to cut the cord?\""
+    to "“我们需要剪断脐带吗？”"
+
+# game/williamroute3.rpy:14476
+translate Schinese marcymerge_e211b439:
+
+    # wi "\"No need.\""
+    wi "“不需要。”"
+
+# game/williamroute3.rpy:14478
+translate Schinese marcymerge_835e967f:
+
+    # wi "\"It’s good to let the blood flow through the cord and the rest comes out later.\""
+    wi "“最好让胎盘里的血液经由脐带流到孩子体内。”"
+
+# game/williamroute3.rpy:14480
+translate Schinese marcymerge_b67eafcc:
+
+    # m "\"It usually detaches by itself.\""
+    m "“脐带会自己脱落的。”"
+
+# game/williamroute3.rpy:14482
+translate Schinese marcymerge_d0c59e1b:
+
+    # to "\"How do you know that?\""
+    to "“你怎么知道？”"
+
+# game/williamroute3.rpy:14484
+translate Schinese marcymerge_5050d759:
+
+    # m "\"Because it happens enough at work.\""
+    m "“因为我在工作的地方见过很多次。”"
+
+# game/williamroute3.rpy:14490
+translate Schinese marcymerge_c9f79710:
+
+    # "I know he’s right."
+    "他是对的。"
+
+# game/williamroute3.rpy:14491
+translate Schinese marcymerge_62bb335e:
+
+    # "There aren’t any sounds."
+    "周围一片寂静。"
+
+# game/williamroute3.rpy:14492
+translate Schinese marcymerge_cb730a7b:
+
+    # "I feel my expression numb and Todd looks scared."
+    "我板着脸，Todd则害怕得不得了。"
+
+# game/williamroute3.rpy:14493
+translate Schinese marcymerge_1995b93f:
+
+    # "Sam just covers his mouth, unable to look away from the scene of Mrs. Greene trembling while the sour-smelling thing attached by a fleshy cord below her legs doesn’t breathe."
+    "而Sam只是捂着嘴，无法把目光从颤抖着的Greene太太、和她两腿间那用一根肉线连接起来的酸臭之物上挪开。"
+
+# game/williamroute3.rpy:14494
+translate Schinese marcymerge_a2ed5018:
+
+    # "I hang my head, pinch my nose, and then look back to Sam."
+    "我低下头，捏住鼻子，然后看向Sam。"
+
+# game/williamroute3.rpy:14499
+translate Schinese marcymerge_69fb63a1:
+
+    # wi "\"We need to keep her awake.\""
+    wi "“我们得让她保持清醒。”"
+
+# game/williamroute3.rpy:14501
+translate Schinese marcymerge_02e1dcf8:
+
+    # wi "\"She’s lost a lot of blood.\""
+    wi "“她失血过多了。”"
+
+# game/williamroute3.rpy:14502
+translate Schinese marcymerge_fb7d5d36:
+
+    # mar "\"{cps=20}I knew they were dead.\""
+    mar "“{cps=20}我知道它会死。”"
+
+# game/williamroute3.rpy:14503
+translate Schinese marcymerge_33d0bfe9:
+
+    # mar "\"{cps=20}I knew it, I knew it, I knew it.\""
+    mar "“{cps=20}我知道，我知道，我知道。”"
+
+# game/williamroute3.rpy:14505
+translate Schinese marcymerge_d575160f:
+
+    # m "\"You don’t have to worry about that now, Mrs. Greene.\""
+    m "“你不要太责怪自己，Greene太太。”"
+
+# game/williamroute3.rpy:14507
+translate Schinese marcymerge_899baae6:
+
+    # mar "\"{cps=20}But it’s all my fault.\""
+    mar "“{cps=20}可这全都是我的错。”"
+
+# game/williamroute3.rpy:14509
+translate Schinese marcymerge_9c361421:
+
+    # m "\"It’s not.\""
+    m "“不是的。”"
+
+# game/williamroute3.rpy:14512
+translate Schinese marcymerge_6b1dd710:
+
+    # m "\"This thing happens all the time.\""
+    m "“这是天意。”"
+
+# game/williamroute3.rpy:14515
+translate Schinese marcymerge_b1be15b6:
+
+    # m "\"Trust me, I see it happen all the time.\""
+    m "“相信我，这种事情我早就见过不知道多少次了。”"
+
+# game/williamroute3.rpy:14517
+translate Schinese marcymerge_155de504:
+
+    # mar "\"{cps=20}But it is though.\""
+    mar "“{cps=20}但确实是我的错。”"
+
+# game/williamroute3.rpy:14518
+translate Schinese marcymerge_5feea452:
+
+    # mar "\"{cps=20}If it would have lived, he would have taken it.\""
+    mar "“就算它活下来，他也不会放过它。”"
+
+# game/williamroute3.rpy:14524
+translate Schinese marcymerge_414eae9a:
+
+    # wi "\"...What?\""
+    wi "“...什么？”"
+
+# game/williamroute3.rpy:14525
+translate Schinese marcymerge_6dd6a9c0:
+
+    # mar "\"{cps=20}Taken it like he took me.\""
+    mar "“{cps=20}就像他不会放过我那样。”"
+
+# game/williamroute3.rpy:14527
+translate Schinese marcymerge_4feb6bf8:
+
+    # m "\"Mrs. Greene?!\""
+    m "“Greene太太？！”"
+
+# game/williamroute3.rpy:14529
+translate Schinese marcymerge_150110d0:
+
+    # mar "\"{cps=20}If he was dead then I could have had this one.\""
+    mar "“{cps=20}如果它死了，我就能保护它了。”"
+
+# game/williamroute3.rpy:14530
+translate Schinese marcymerge_c4d629b9:
+
+    # mar "\"{cps=20}But now there won’t be another one.\""
+    mar "“{cps=20}但再没有下一个了。”"
+
+# game/williamroute3.rpy:14531
+translate Schinese marcymerge_f079242a:
+
+    # mar "\"{cps=20}Forever again, for never again, for never again.\""
+    mar "“{cps=20}永远，永远，永远。”"
+
+# game/williamroute3.rpy:14532
+translate Schinese marcymerge_1b63b36f:
+
+    # "Her eyelids flutter before they close."
+    "她合上了颤抖的眼皮。"
+
+# game/williamroute3.rpy:14534
+translate Schinese marcymerge_e02b3251:
+
+    # m "\"Stay with me, Mrs. Greene.\""
+    m "“醒一醒，Greene太太。”"
+
+# game/williamroute3.rpy:14536
+translate Schinese marcymerge_51da01a8:
+
+    # wi "\"Todd, go get her something to drink.\""
+    wi "“Todd，去拿点东西给她喝。”"
+
+# game/williamroute3.rpy:14538
+translate Schinese marcymerge_9a7bba41:
+
+    # wi "\"Sit with her and keep talking, Sam.\""
+    wi "“你留在这儿继续陪她聊天，Sam。”"
+
+# game/williamroute3.rpy:14539
+translate Schinese marcymerge_fd01203a:
+
+    # wi "\"I’m going to go boil some water.\""
+    wi "“我去烧热水。”"
+
+# game/williamroute3.rpy:14541
+translate Schinese marcymerge_a6756986:
+
+    # "I don’t look back at them when I stand up, feeling my tail sway behind me as it prickles."
+    "我笔直地站起身，没有回头，只留给他们一条刺眼的黄褐色的尾巴。"
+
+# game/williamroute3.rpy:14542
+translate Schinese marcymerge_d616b405:
+
+    # "I see Sam shake her shoulder to try to wake her up again."
+    "Sam摇了摇她的肩膀，试图唤醒她。"
+
+# game/williamroute3.rpy:14543
+translate Schinese marcymerge_9b9a17e7:
+
+    # "There’s a big enough pot below her stove."
+    "炉子下面有一口足够大的锅。"
+
+# game/williamroute3.rpy:14548
+translate Schinese marcymerge_a7cae05a:
+
+    # "Todd knows exactly where the cups are."
+    "Todd直奔杯子而去。"
+
+# game/williamroute3.rpy:14553
+translate Schinese marcymerge_8fa4c6e7:
+
+    # "He finds a large jug of water in a pantry and turns the knob to let it flow."
+    "并在储藏室里的一个大罐子那接满。"
+
+# game/williamroute3.rpy:14559
+translate Schinese marcymerge_4a059a02:
+
+    # "I turn on her sink and let the water begin to flow."
+    "我打开水槽的龙头。"
+
+# game/williamroute3.rpy:14561
+translate Schinese marcymerge_4a6647b6:
+
+    # "Todd runs out with the cup in his hand."
+    "Todd手捧杯子跑了出去。"
+
+# game/williamroute3.rpy:14563
+translate Schinese marcymerge_58cf3723:
+
+    # "I’m surprised but thankful that she has a gas stove, so I don’t have to light a fire or stoke any coals to get started."
+    "没想到她家居然有煤气炉，很好，这样我就不用生火或添煤了。"
+
+# game/williamroute3.rpy:14564
+translate Schinese marcymerge_5cde8627:
+
+    # "I have to find a place where Marcy can lie down."
+    "得找个地方让Marcy躺下。"
+
+# game/williamroute3.rpy:14566
+translate Schinese marcymerge_dcfee830:
+
+    # "Her couch is so covered with these damn dolls that she has no place to sit."
+    "沙发上满是那些该死的娃娃，连坐的空间都没有。"
+
+# game/williamroute3.rpy:14567
+translate Schinese marcymerge_c12b34bd:
+
+    # "Upsetting her further will just add stress."
+    "进一步刺激她，只会加重她的病情。"
+
+# game/williamroute3.rpy:14568
+translate Schinese marcymerge_4c147d88:
+
+    # "I remove each and every one of those dolls from the couch and place them on the only surface left, which is the table."
+    "我把娃娃从沙发上依次拿开，放在客厅唯一的平面、也就是桌子上。"
+
+# game/williamroute3.rpy:14577
+translate Schinese marcymerge_9b86380c:
+
+    # "Sam and Todd bring her in and she’s holding a pink-stained sheet, wrapped up in swaddle."
+    "Sam和Todd把她搬了过来，我看见她怀里抱着一个被染成了粉红色的襁褓。"
+
+# game/williamroute3.rpy:14579
+translate Schinese marcymerge_d44199fc:
+
+    # wi "\"Here, here!\""
+    wi "“这里，这里！”"
+
+# game/williamroute3.rpy:14591
+translate Schinese marcymerge_19e7e851:
+
+    # "I direct them to the couch."
+    "我呼唤他们来到沙发前。"
+
+# game/williamroute3.rpy:14592
+translate Schinese marcymerge_fe716702:
+
+    # "Marcy is still dripping from the legs."
+    "Marcy的腿还在不停地往下滴液体。"
+
+# game/williamroute3.rpy:14594
+translate Schinese marcymerge_639386cd:
+
+    # mar "\"{cps=20}Bedroom.\""
+    mar "“{cps=20}卧室。”"
+
+# game/williamroute3.rpy:14596
+translate Schinese marcymerge_928a3ea9:
+
+    # wi "\"No Marcy, it’s not clean.\""
+    wi "“不行，Marcy，卧室里不干净。”"
+
+# game/williamroute3.rpy:14597
+translate Schinese marcymerge_4b49b8f9:
+
+    # "She holds up the sheet."
+    "她举起襁褓。"
+
+# game/williamroute3.rpy:14605
+translate Schinese marcymerge_d3a4b189:
+
+    # mar "\"{cps=20}I want to put her with the others.\""
+    mar "“{cps=20}我想把她跟其他孩子放在一起。”"
+
+# game/williamroute3.rpy:14607
+translate Schinese marcymerge_435042d0:
+
+    # "With the others?!"
+    "其他孩子？！"
+
+# game/williamroute3.rpy:14608
+translate Schinese marcymerge_6a2742f0:
+
+    # "Oh, God..."
+    "老天爷..."
+
+# game/williamroute3.rpy:14616
+translate Schinese marcymerge_dbb89bd1:
+
+    # "Todd takes it for her and disappears into the bedroom."
+    "Todd接过襁褓，然后消失在了卧室。"
+
+# game/williamroute3.rpy:14618
+translate Schinese marcymerge_44e65c28:
+
+    # mar "\"{cps=20}Thank you.\""
+    mar "“{cps=20}谢谢。”"
+
+# game/williamroute3.rpy:14620
+translate Schinese marcymerge_00475cea:
+
+    # mar "\"{cps=20}Always such a good boy.\""
+    mar "“{cps=20}他一直是个热心肠的好孩子。”"
+
+# game/williamroute3.rpy:14623
+translate Schinese marcymerge_db82ae0d:
+
+    # "Sam leans into me, whispering in my ear."
+    "Sam走过来，在我耳边小声说："
+
+# game/williamroute3.rpy:14625
+translate Schinese marcymerge_2d958638:
+
+    # m "\"The afterbirth wasn’t whole when it came out.\""
+    m "“生下来的胎儿是残缺的。”"
+
+# game/williamroute3.rpy:14627
+translate Schinese marcymerge_805e35ed:
+
+    # "I feel the ‘Fuck’ roll out of me like it’s a gasp."
+    "“操”这个词从我的嘴里呼之欲出。"
+
+# game/williamroute3.rpy:14629
+translate Schinese marcymerge_d51f776a:
+
+    # wi "\"Marcy, who’s your doctor?\""
+    wi "“Marcy，你的大夫是谁？”"
+
+# game/williamroute3.rpy:14631
+translate Schinese marcymerge_222c22c8:
+
+    # mar "\"{cps=20}Medicine?\""
+    mar "“{cps=20}药？”"
+
+# game/williamroute3.rpy:14633
+translate Schinese marcymerge_c0009990:
+
+    # mar "\"{cps=20}I’ve had my fill of medicine.\""
+    mar "“我吃药都吃饱了。”"
+
+# game/williamroute3.rpy:14635
+translate Schinese marcymerge_23df5923:
+
+    # wi "\"We already know everything so there’s no need to hide anything from us anymore.\""
+    wi "“我们什么都知道，你不必对我们有所隐瞒。”"
+
+# game/williamroute3.rpy:14636
+translate Schinese marcymerge_a2bc2451:
+
+    # wi "\"You’re very sick, and you need help.\""
+    wi "“你病得很重，需要帮助。”"
+
+# game/williamroute3.rpy:14644
+translate Schinese marcymerge_70780cbd:
+
+    # "Todd comes out of the room looking a little queasy."
+    "Todd从卧室里出来，看起来有点想吐。"
+
+# game/williamroute3.rpy:14645
+translate Schinese marcymerge_be3ad3c6:
+
+    # to "\"I dragged the couch in there and kept her on it.\""
+    to "“我把沙发拖进去，让她睡在上面吧。”"
+
+# game/williamroute3.rpy:14646
+translate Schinese marcymerge_e93cfcb7:
+
+    # "Okay, that’s enough."
+    "真是够了。"
+
+# game/williamroute3.rpy:14647
+translate Schinese marcymerge_a25b433b:
+
+    # wi "\"Let’s talk in the kitchen.\""
+    wi "“我们去厨房谈谈。”"
+
+# game/williamroute3.rpy:14648
+translate Schinese marcymerge_0dd665b5:
+
+    # "They both follow me."
+    "他们跟上我。"
+
+# game/williamroute3.rpy:14664
+translate Schinese marcymerge_b250a54f:
+
+    # wi "\"Okay, this is really bad.\""
+    wi "“不得不说，情况非常糟糕。”"
+
+# game/williamroute3.rpy:14666
+translate Schinese marcymerge_46acdbfe:
+
+    # wi "\"Sam?\""
+    wi "“Sam？”"
+
+# game/williamroute3.rpy:14667
+translate Schinese marcymerge_bac208f2:
+
+    # wi "\"Dora knows doctors, right?\""
+    wi "“Dora有认识的大夫，对吧？”"
+
+# game/williamroute3.rpy:14669
+translate Schinese marcymerge_8471a5c2:
+
+    # m "\"People who are close enough, yeah.\""
+    m "“这一带的都认识。”"
+
+# game/williamroute3.rpy:14671
+translate Schinese marcymerge_5944b77a:
+
+    # wi "\"Would she help in this case?\""
+    wi "“她会帮忙吗？”"
+
+# game/williamroute3.rpy:14673
+translate Schinese marcymerge_10c1ef6b:
+
+    # m "\"She would.\""
+    m "“会的。”"
+
+# game/williamroute3.rpy:14675
+translate Schinese marcymerge_89a8d797:
+
+    # wi "\"She’d respond better to you than she would to me.\""
+    wi "“你比我更讨她的喜欢。”"
+
+# game/williamroute3.rpy:14677
+translate Schinese marcymerge_9788f6f8:
+
+    # m "\"...Right.\""
+    m "“...是没错。”"
+
+# game/williamroute3.rpy:14680
+translate Schinese marcymerge_582b2f65:
+
+    # m "\"I could go get help?\""
+    m "“那我去通知她？”"
+
+# game/williamroute3.rpy:14682
+translate Schinese marcymerge_350ceebe:
+
+    # wi "\"I think it would be a good idea to go fetch her.\""
+    wi "“最好把她和大夫一块儿请来。”"
+
+# game/williamroute3.rpy:14683
+translate Schinese marcymerge_70152007:
+
+    # wi "\"Be careful about who else you bring.\""
+    wi "“多留个心眼。”"
+
+# game/williamroute3.rpy:14684
+translate Schinese marcymerge_1e7c1dfe:
+
+    # wi "\"If a licensed doctor saw any of this, it wouldn’t be good for her.\""
+    wi "“如果这里的事被有执照的医生看到，只会给她招来麻烦。”"
+
+# game/williamroute3.rpy:14686
+translate Schinese marcymerge_f773a643:
+
+    # m "\"Yeah, okay.\""
+    m "“知道了。”"
+
+# game/williamroute3.rpy:14689
+translate Schinese marcymerge_c1287dc8:
+
+    # "Sam gives Marcy another cautious look before disappearing out the front door."
+    "Sam探头在厨房的过道里张望，又小心地望了Marcy一眼，接着消失在了前门。"
+
+# game/williamroute3.rpy:14698
+translate Schinese marcymerge_7a7fc07f:
+
+    # "Me and Todd head back to the living room."
+    "我和Todd回到客厅。"
+
+# game/williamroute3.rpy:14699
+translate Schinese marcymerge_3d9775f6:
+
+    # "She’s staring up at the ceiling, holding her paw up, feeling one of the yarn streamers tacked to her walls, letting it slip through her digits, coiling them up."
+    "她正凝视着天花板，举起爪子，抚摸钉在墙上的纱线流苏，让它从指缝中滑过，把它们卷成一圈。"
+
+# game/williamroute3.rpy:14700
+translate Schinese marcymerge_cd8785fe:
+
+    # wi "\"Marcy.\""
+    wi "“Marcy。”"
+
+# game/williamroute3.rpy:14701
+translate Schinese marcymerge_a6fd2574:
+
+    # "She doesn’t respond to my voice."
+    "她没有反应。"
+
+# game/williamroute3.rpy:14702
+translate Schinese marcymerge_4e132234:
+
+    # wi "\"Mrs. Greene?\""
+    wi "“Greene女士？”"
+
+# game/williamroute3.rpy:14707
+translate Schinese marcymerge_df1973cc:
+
+    # to "\"Is it okay if we give you this?\""
+    to "“你要收下这个吗？”"
+
+# game/williamroute3.rpy:14713
+translate Schinese marcymerge_8e4063cb:
+
+    # "Her eyes widened as her mouth broke into a smile."
+    "她的眼睛突然睁得大大的，嘴角也绽开了笑容。"
+
+# game/williamroute3.rpy:14714
+translate Schinese marcymerge_909187f0:
+
+    # mar "\"{cps=20}Penelope...\""
+    mar "“{cps=20}Penelope...”"
+
+# game/williamroute3.rpy:14715
+translate Schinese marcymerge_4ff66d40:
+
+    # mar "\"{cps=20}I bet you thought I had forgotten all about you.\""
+    mar "“{cps=20}你肯定觉得我把你忘得一干二净了吧。”"
+
+# game/williamroute3.rpy:14716
+translate Schinese marcymerge_4c6ba147:
+
+    # wi "\"Is Penelope the doll’s name?\""
+    wi "“Penelope是娃娃的名字吗？”"
+
+# game/williamroute3.rpy:14718
+translate Schinese marcymerge_ded39dfb:
+
+    # mar "\"{cps=20}No.\""
+    mar "“{cps=20}不。”"
+
+# game/williamroute3.rpy:14720
+translate Schinese marcymerge_a42dc6cd:
+
+    # mar "\"{cps=20}That was my sister.\""
+    mar "“{cps=20}是我的妹妹的名字。”"
+
+# game/williamroute3.rpy:14722
+translate Schinese marcymerge_673ef2df:
+
+    # mar "\"{cps=20}The doll is hers.\""
+    mar "“{cps=20}娃娃是她的。”"
+
+# game/williamroute3.rpy:14724
+translate Schinese marcymerge_a2a008c6:
+
+    # wi "\"Did she give it to you for safekeeping?\""
+    wi "“她把它交给你保管？”"
+
+# game/williamroute3.rpy:14725
+translate Schinese marcymerge_799bf36b:
+
+    # wi "\"It doesn’t look cheap.\""
+    wi "“看起来不像便宜货。”"
+
+# game/williamroute3.rpy:14727
+translate Schinese marcymerge_29144d5a:
+
+    # mar "\"{cps=20}Because it wasn’t.\""
+    mar "“{cps=20}确实不是。”"
+
+# game/williamroute3.rpy:14730
+translate Schinese marcymerge_cf1073fb:
+
+    # mar "\"{cps=20}I stole it because I was jealous.\""
+    mar "“{cps=20}出于嫉妒，我偷走了它。”"
+
+# game/williamroute3.rpy:14733
+translate Schinese marcymerge_5022b718:
+
+    # mar "\"{cps=20}But I was going to give it back.\""
+    mar "“{cps=20}但我本来打算还回去的。”"
+
+# game/williamroute3.rpy:14739
+translate Schinese marcymerge_68fd216c:
+
+    # mar "\"{cps=20}I just never got the chance to.\""
+    mar "“{cps=20}只是一直都没有机会。”"
+
+# game/williamroute3.rpy:14741
+translate Schinese marcymerge_1e4d12cf:
+
+    # "None of us dare ask why."
+    "我们谁也不敢问为什么。"
+
+# game/williamroute3.rpy:14743
+translate Schinese marcymerge_347a9513:
+
+    # wi "\"Why do you think Mr. Greene had this locked in the cellar?\""
+    wi "“Greene先生为什么把它锁在地窖里？”"
+
+# game/williamroute3.rpy:14745
+translate Schinese marcymerge_ac3f4c3b:
+
+    # mar "\"{cps=20}Because he knew I wanted it.\""
+    mar "“{cps=20}因为他知道我想要它。”"
+
+# game/williamroute3.rpy:14748
+translate Schinese marcymerge_d738fa59:
+
+    # mar "\"{cps=20}He’d know if I’d try to mess with the chains.\""
+    mar "“{cps=20}也知道我什么时候会想闯进去。”"
+
+# game/williamroute3.rpy:14750
+translate Schinese marcymerge_2b3a17dc:
+
+    # wi "\"But why would he put it down there?\""
+    wi "“但为什么是下面？”"
+
+# game/williamroute3.rpy:14752
+translate Schinese marcymerge_ff802f11:
+
+    # mar "\"{cps=20}Same reason he always did.\""
+    mar "“{cps=20}他总有自己的理由。”"
+
+# game/williamroute3.rpy:14754
+translate Schinese marcymerge_2fb06aa3:
+
+    # mar "\"{cps=20}He knew little girls like dollies.\""
+    mar "“{cps=20}他知道小姑娘喜欢娃娃。”"
+
+# game/williamroute3.rpy:14756
+translate Schinese marcymerge_319861d8:
+
+    # "She takes a look at the porcelain and gives it a kiss on the cheek."
+    "她看了眼瓷娃娃，在它脸颊上亲了一下。"
+
+# game/williamroute3.rpy:14758
+translate Schinese marcymerge_bdd22dda:
+
+    # mar "\"{cps=20}In the dark, and the quiet, it’s safe and warm.\""
+    mar "“{cps=20}在黑暗和寂静中，它才能感到安全和温暖。”"
+
+# game/williamroute3.rpy:14761
+translate Schinese marcymerge_c2ecfbac:
+
+    # mar "\"{cps=20}Sometimes you have to lose yourself in the coziness.\""
+    mar "“{cps=20}有时候，你就得待在自己的舒适圈里。”"
+
+# game/williamroute3.rpy:14764
+translate Schinese marcymerge_67b87472:
+
+    # mar "\"{cps=20}And the idea of not moving anymore isn’t so bad.\""
+    mar "“{cps=20}不出门也没多糟。”"
+
+# game/williamroute3.rpy:14767
+translate Schinese marcymerge_78974291:
+
+    # mar "\"{cps=20}Because you’re pretty as a picture and not quite so cheap.\""
+    mar "“{cps=20}毕竟你长得像照片一样漂亮，可得好好供起来。”"
+
+# game/williamroute3.rpy:14769
+translate Schinese marcymerge_16d9b6fc:
+
+    # wi "\"Mrs. Greene.\""
+    wi "“Greene女士。”"
+
+# game/williamroute3.rpy:14771
+translate Schinese marcymerge_ae513beb:
+
+    # wi "\"What does this have to do with anything?\""
+    wi "“这和我的问题有什么关系吗？”"
+
+# game/williamroute3.rpy:14773
+translate Schinese marcymerge_1b5b1a69:
+
+    # mar "\"{cps=20}I’m just repeating what he said, before he took me away from everybody I knew.\""
+    mar "“{cps=20}我只是在重复他把我从认识的每一个人身边带走前说的话。”"
+
+# game/williamroute3.rpy:14776
+translate Schinese marcymerge_2cf77fae:
+
+    # mar "\"{cps=20}I think I understand now that he just liked to hurt me.\""
+    mar "“{cps=20}现在我明白了，他只是喜欢伤害我。”"
+
+# game/williamroute3.rpy:14779
+translate Schinese marcymerge_2b3aa8fa:
+
+    # mar "\"{cps=20}Not because I think it made him happy...\""
+    mar "“{cps=20}不仅仅因为癖好...”"
+
+# game/williamroute3.rpy:14782
+translate Schinese marcymerge_65485971:
+
+    # mar "\"{cps=20}But because it made him feel more alive.\""
+    mar "“{cps=20}更因为这让他有活着的感觉。”"
+
+# game/williamroute3.rpy:14785
+translate Schinese marcymerge_8266c4d9:
+
+    # mar "\"{cps=20}Made him feel more alive than me, all the while saying he was doing me the greatest favor.\""
+    mar "“{cps=20}他嘴上说着为我着想，同时从我这里夺走一件又一件东西。”"
+
+# game/williamroute3.rpy:14788
+translate Schinese marcymerge_923875d8:
+
+    # mar "\"{cps=20}Well, he wasn’t doing that.\""
+    mar "“{cps=20}唉，不过那件事不是他干的。”"
+
+# game/williamroute3.rpy:14790
+translate Schinese marcymerge_9991da86:
+
+    # mar "\"{cps=20}I just think...\""
+    mar "“{cps=20}我认为...”"
+
+# game/williamroute3.rpy:14791
+translate Schinese marcymerge_5f772c90:
+
+    # mar "\"{cps=15}I just think--\""
+    mar "“{cps=15}我认为-”"
+
+# game/williamroute3.rpy:14794
+translate Schinese marcymerge_1d7787e3:
+
+    # "We flinch as she goes cross-eyed and retches loudly."
+    "她眯起眼睛大声干呕，吓得我们后退一步。"
+
+# game/williamroute3.rpy:14795
+translate Schinese marcymerge_504e61e7:
+
+    # "Red vomit shoots into the dark water we cleaned her with."
+    "红色的呕吐物飞射进清洗过污垢的黑水中。"
+
+# game/williamroute3.rpy:14803
+translate Schinese marcymerge_e670d484:
+
+    # "I don’t know if she’s going to be okay, or if she’s got much time left."
+    "我不知道她是否会好起来，或她还有多少时间。"
+
+# game/williamroute3.rpy:14808
+translate Schinese marcymerge_9dcb51b8:
+
+    # wi "\"Mrs. Greene, don’t push yourself.\""
+    wi "“别勉强自己，Greene女士。”"
+
+# game/williamroute3.rpy:14810
+translate Schinese marcymerge_84652f22:
+
+    # mar "\"{cps=20}But I... want. To.\""
+    mar "“{cps=20}但我...{b}就要{/b}。”"
+
+# game/williamroute3.rpy:14811
+translate Schinese marcymerge_9935225d:
+
+    # mar "\"{cps=20}Won’t let him hurt people no more.\""
+    mar "“{cps=20}我不会让他再伤害别人了。”"
+
+# game/williamroute3.rpy:14813
+translate Schinese marcymerge_7c58191e:
+
+    # mar "\"{cps=20}Not even... dead...\""
+    mar "“{cps=20}即使...在他死后...”"
+
+# game/williamroute3.rpy:14814
+translate Schinese marcymerge_e304407f:
+
+    # wi "\"Mrs. Greene!\""
+    wi "“Greene女士！”"
+
+# game/williamroute3.rpy:14815
+translate Schinese marcymerge_4f5a2b83:
+
+    # mar "\"{cps=20}He had the gun.\""
+    mar "“{cps=20}他拿着那把枪。”"
+
+# game/williamroute3.rpy:14816
+translate Schinese marcymerge_364b0e81:
+
+    # mar "\"{cps=20}Went in the carriage.\""
+    mar "“{cps=20}上了马车。”"
+
+# game/williamroute3.rpy:14817
+translate Schinese marcymerge_d274e6c4:
+
+    # mar "\"{cps=20}Doing things for Huxley even she didn’t know.\""
+    mar "“{cps=20}为Huxley做着她自己都不知道的勾当。”"
+
+# game/williamroute3.rpy:14818
+translate Schinese marcymerge_f350417f:
+
+    # mar "\"{cps=20}Red... fox...\""
+    mar "“{cps=20}红色的...狐狸...”"
+
+# game/williamroute3.rpy:14819
+translate Schinese marcymerge_4e267d77:
+
+    # wi "\"Red...\""
+    wi "“红色的...”"
+
+# game/williamroute3.rpy:14824
+translate Schinese marcymerge_38037788:
+
+    # to "\"Fox?\""
+    to "“狐狸？”"
+
+# game/williamroute3.rpy:14825
+translate Schinese marcymerge_ee759996:
+
+    # "...That’s what I needed."
+    "...我需要的就是这个。"
+
+# game/williamroute3.rpy:14827
+translate Schinese marcymerge_adeb5fa0:
+
+    # "She vomits again, brighter red this time, and her breath quickens."
+    "她又吐了，这次的呕吐物更红，她的呼吸也更急促。"
+
+# game/williamroute3.rpy:14828
+translate Schinese marcymerge_771ed6b5:
+
+    # wi "\"Todd, I want you to stay with her while Sam brings help.\""
+    wi "“Todd，我要你陪着她，Sam已经去找人帮忙了。”"
+
+# game/williamroute3.rpy:14833
+translate Schinese marcymerge_508b0dc6:
+
+    # to "\"Y-yes sir.\""
+    to "“是-是，长官。”"
+
+# game/williamroute3.rpy:14840
+translate Schinese marcymerge_c0b77a35:
+
+    # "I’m used to being covered in body fluids any day of the week, but I’m still not used to blood."
+    "一离开那栋散发着令人作呕气味的房子，我肩上的紧张感顿时轻了不少。"
+
+# game/williamroute3.rpy:14841
+translate Schinese marcymerge_d2ef88e2:
+
+    # cy "\"Sam?\""
+    cy "“Sam？”"
+
+# game/williamroute3.rpy:14848
+translate Schinese marcymerge_320813a5:
+
+    # m "\"Hrm?\""
+    m "“嗯？”"
+
+# game/williamroute3.rpy:14850
+translate Schinese marcymerge_0717a272:
+
+    # cy "\"Are you with me?\""
+    cy "“你有在听吗？”"
+
+# game/williamroute3.rpy:14851
+translate Schinese marcymerge_b22dce0c:
+
+    # "I stop staring at the bucket of water that’s taken on a pink hue."
+    "我不再盯着那桶染上红晕的水。"
+
+# game/williamroute3.rpy:14854
+translate Schinese marcymerge_a6c70821:
+
+    # cy "\"Could you hand me a rag from one of the clean buckets?\""
+    cy "“能从干净的水桶里拿条布给我吗？”"
+
+# game/williamroute3.rpy:14856
+translate Schinese marcymerge_9f894d12:
+
+    # cy "\"This one’s already warm.\""
+    cy "“这条已经不凉了。”"
+
+# game/williamroute3.rpy:14858
+translate Schinese marcymerge_658cfb7d:
+
+    # md "\"It’s because her temperature is increasing.\""
+    md "“因为她的体温很高。”"
+
+# game/williamroute3.rpy:14861
+translate Schinese marcymerge_66391047:
+
+    # md "\"She’s burning up.\""
+    md "“在发高烧。”"
+
+# game/williamroute3.rpy:14864
+translate Schinese marcymerge_37a4dffc:
+
+    # cy "\"Is she gonna be alright?\""
+    cy "“她不会有事吧？”"
+
+# game/williamroute3.rpy:14866
+translate Schinese marcymerge_a5c40ed8:
+
+    # md "\"I’ve seen women in worse conditions pull through, but it’s pretty bad.\""
+    md "“也有比她更虚弱的女人最终挺过来，但情况确实不容乐观。”"
+
+# game/williamroute3.rpy:14869
+translate Schinese marcymerge_91c19754:
+
+    # md "\"What do you think, Avery?\""
+    md "“你怎么看，Avery？”"
+
+# game/williamroute3.rpy:14872
+translate Schinese marcymerge_5f96e459:
+
+    # av "\"It’s... bad.\""
+    av "“非常...不妙。”"
+
+# game/williamroute3.rpy:14874
+translate Schinese marcymerge_f141d7be:
+
+    # av "\"I think an IV solution is necessary for any chance at a partial recovery.\""
+    av "“她需要进行静脉注射。”"
+
+# game/williamroute3.rpy:14876
+translate Schinese marcymerge_832d826b:
+
+    # av "\"But there will be permanent damage.\""
+    av "“但会留下永久性的后遗症。”"
+
+# game/williamroute3.rpy:14879
+translate Schinese marcymerge_fcecf78e:
+
+    # md "\"I’ll pay any expense.\""
+    md "“一切费用由我来出。”"
+
+# game/williamroute3.rpy:14882
+translate Schinese marcymerge_e3c7c73c:
+
+    # md "\"Just do what has to be done.\""
+    md "“放手去做吧。”"
+
+# game/williamroute3.rpy:14885
+translate Schinese marcymerge_cff910e6:
+
+    # av "\"Right away.\""
+    av "“收到。”"
+
+# game/williamroute3.rpy:14888
+translate Schinese marcymerge_6abe1e1a:
+
+    # av "\"Could I ask one of the residents to stay for a moment?\""
+    av "“你们能来个人搭把手吗？”"
+
+# game/williamroute3.rpy:14892
+translate Schinese marcymerge_b9b44f21:
+
+    # cy "\"I can--\""
+    cy "“我可以-”"
+
+# game/williamroute3.rpy:14895
+translate Schinese marcymerge_2176a8cb:
+
+    # md "\"That will be me.\""
+    md "“让我来吧。”"
+
+# game/williamroute3.rpy:14898
+translate Schinese marcymerge_999bd77d:
+
+    # "Cynthia closes her mouth and nods."
+    "Cynthia闭上嘴，点了点头。"
+
+# game/williamroute3.rpy:14902
+translate Schinese marcymerge_99174734:
+
+    # grunk "\"Where is she?\""
+    grunk "“她在哪？”"
+
+# game/williamroute3.rpy:14907
+translate Schinese marcymerge_9db41181:
+
+    # "A familiar, stern voice echoes through the hallway."
+    "熟悉、严肃的声音响彻走廊。"
+
+# game/williamroute3.rpy:14910
+translate Schinese marcymerge_bc3ffb86:
+
+    # "An older vixen, who I recognize as Mrs. Byrnes, makes her way into the hall, being trailed by Scarlet."
+    "一只年长的母狐狸-我记得她是Byrnes太太-来到大厅，Scarlet紧跟在她身后。"
+
+# game/williamroute3.rpy:14912
+translate Schinese marcymerge_e7188afc:
+
+    # sc "\"I told her that she should wait but--\""
+    sc "“我叫她在外面等，可是-”"
+
+# game/williamroute3.rpy:14918
+translate Schinese marcymerge_6d324913:
+
+    # md "\"It’s fine, Scarlet.\""
+    md "“没关系，Scarlet。”"
+
+# game/williamroute3.rpy:14922
+translate Schinese marcymerge_bfc97446:
+
+    # gr "\"Let me see her.\""
+    gr "“让我看看她。”"
+
+# game/williamroute3.rpy:14925
+translate Schinese marcymerge_adc1409e:
+
+    # "The madam makes a quiet gesture with her hand and Mrs. Byrnes stands over the bedside of Marcy Greene."
+    "顺着夫人的手势，Byrnes太太来到Marcy Greene的床前。"
+
+# game/williamroute3.rpy:14928
+translate Schinese marcymerge_15034506:
+
+    # "Her stiff face slackens to a look of remorse."
+    "她严肃的表情转为哀愁。"
+
+# game/williamroute3.rpy:14930
+translate Schinese marcymerge_12d07dbb:
+
+    # gr "\"What happened to her?\""
+    gr "“她怎么了？”"
+
+# game/williamroute3.rpy:14933
+translate Schinese marcymerge_8bb8bf57:
+
+    # av "\"From what I can tell, complications in delivery long term may have lead to sepsis.\""
+    av "“根据我的判断，她分娩期拖了太久，可能会导致败血症。”"
+
+# game/williamroute3.rpy:14936
+translate Schinese marcymerge_ed17bf43:
+
+    # gr "\"From just one delivery?\""
+    gr "“因为这一次分娩？”"
+
+# game/williamroute3.rpy:14939
+translate Schinese marcymerge_5165eaa8:
+
+    # av "\"This looks like several.\""
+    av "“看上去不止一次。”"
+
+# game/williamroute3.rpy:14942
+translate Schinese marcymerge_90b46ca4:
+
+    # md "\"From what the police have told me, more than ten.\""
+    md "“根据警官的说法，至少十次以上。”"
+
+# game/williamroute3.rpy:14947
+translate Schinese marcymerge_ef6d9cd5:
+
+    # "Her head snaps to the madam."
+    "她的头瞬间转向夫人。"
+
+# game/williamroute3.rpy:14949
+translate Schinese marcymerge_cb2c5d8c:
+
+    # gr "\"More than ten?!\""
+    gr "“十次以上！？”"
+
+# game/williamroute3.rpy:14951
+translate Schinese marcymerge_fdbd9ea4:
+
+    # gr "\"Oh, that beast...\""
+    gr "“那个人渣...”"
+
+# game/williamroute3.rpy:14954
+translate Schinese marcymerge_f55b84d9:
+
+    # gr "\"She doesn’t have to worry anymore.\""
+    gr "“至少她不用再受苦了。”"
+
+# game/williamroute3.rpy:14957
+translate Schinese marcymerge_73deb433:
+
+    # gr "\"We’ll take good care of her.\""
+    gr "“我们会好好照顾她的。”"
+
+# game/williamroute3.rpy:14961
+translate Schinese marcymerge_8082c628:
+
+    # md "\"Yes, we will.\""
+    md "“是啊，我们会的。”"
+
+# game/williamroute3.rpy:14964
+translate Schinese marcymerge_fbd17b18:
+
+    # md "\"What will you provide to the cause, Gretchen?\""
+    md "“你愿意提供帮助吗，Gretchen？”"
+
+# game/williamroute3.rpy:14967
+translate Schinese marcymerge_314ea66c:
+
+    # gr "\"What do you need?\""
+    gr "“你们需要什么？”"
+
+# game/williamroute3.rpy:14970
+translate Schinese marcymerge_71395ae7:
+
+    # gr "\"Money?\""
+    gr "“钱？”"
+
+# game/williamroute3.rpy:14973
+translate Schinese marcymerge_0c1c61ca:
+
+    # md "\"Assurance.\""
+    md "“保证。”"
+
+# game/williamroute3.rpy:14976
+translate Schinese marcymerge_87b4e994:
+
+    # gr "\"On?\""
+    gr "“哦？”"
+
+# game/williamroute3.rpy:14979
+translate Schinese marcymerge_332780dd:
+
+    # md "\"That you’ll go through me and the doctor before giving anymore girls in the community dosages.\""
+    md "“今后在给镇上的姑娘们用药之前，先经过我和医生的同意。”"
+
+# game/williamroute3.rpy:14983
+translate Schinese marcymerge_9a1e7847:
+
+    # "She looks like she’s about to argue, {nw}"
+    "她似乎想抗议，{nw}"
+
+# game/williamroute3.rpy:14985
+translate Schinese marcymerge_17365ae0:
+
+    # extend "but the madam gives her a look so intense that the vixen recedes."
+    extend "但在夫人尖锐的眼神下退让了。"
+
+# game/williamroute3.rpy:14987
+translate Schinese marcymerge_226a2faf:
+
+    # "She clasps Marcy’s paw like she’s a daughter, stoops over her and kisses her forehead once before wiping away a tear."
+    "她紧紧握住Marcy的手，俯身亲吻了一下她的额头，然后擦去眼泪。"
+
+# game/williamroute3.rpy:14989
+translate Schinese marcymerge_05111307:
+
+    # gr "\"Alright.\""
+    gr "“我知道了。”"
+
+# game/williamroute3.rpy:14992
+translate Schinese marcymerge_18ded773:
+
+    # md "\"Good.\""
+    md "“很好。”"
+
+# game/williamroute3.rpy:14996
+translate Schinese marcymerge_3bfc0cce:
+
+    # md "\"Nothing we’ve said leaves this room.\""
+    md "“在场的所有人。”"
+
+# game/williamroute3.rpy:14999
+translate Schinese marcymerge_95d39b3b:
+
+    # md "\"That goes for everyone here.\""
+    md "“谁也别把这里的事说出去。”"
+
+# game/williamroute3.rpy:15006
+translate Schinese marcymerge_dcfa5f97:
+
+    # "Me, Cynthia, Avery and Scarlet all nod and she draws the curtains over Marcy’s bed, leaving only the outline of her silhouette and the doctor’s."
+    "我、Cynthia、Avery和Scarle都点点头，她便拉上Marcy病床的帘子，只见她跟医生的剪影。"
+
+# game/williamroute3.rpy:15008
+translate Schinese marcymerge_ad8892c9:
+
+    # cy "\"Let’s go do some laundry, Sam.\""
+    cy "“我们去洗衣房吧，Sam。”"
+
+# game/williamroute3.rpy:15010
+translate Schinese marcymerge_5244a1c5:
+
+    # cy "\"Your clothes are a bit of a mess.\""
+    cy "“你的衣服有点脏了。”"
+
+# game/williamroute3.rpy:15012
+translate Schinese marcymerge_eb12ac53:
+
+    # sc "\"Bit of a mess?\""
+    sc "“有点脏？”"
+
+# game/williamroute3.rpy:15014
+translate Schinese marcymerge_1832f566:
+
+    # sc "\"He looks like the ripper.\""
+    sc "“他根本像个屠夫嘛。”"
+
+# game/williamroute3.rpy:15015
+translate Schinese marcymerge_b0ffe6b9:
+
+    # sc "\"What went on at the Greene’s?\""
+    sc "“Greene家里究竟发生了什么？”"
+
+# game/williamroute3.rpy:15017
+translate Schinese marcymerge_f2d944d9:
+
+    # m "\"A lot.\""
+    m "“一言难尽。”"
+
+# game/williamroute3.rpy:15018
+translate Schinese marcymerge_e07ea451:
+
+    # m "\"It’s a bit of a long story.\""
+    m "“说来话长。”"
+
+# game/williamroute3.rpy:15020
+translate Schinese marcymerge_c28f9bf5:
+
+    # sc "\"And tossin’ your scants around in grey water is such a high intensity activity?\""
+    sc "“难道把衣服扔进水里搓是多急的事吗？”"
+
+# game/williamroute3.rpy:15021
+translate Schinese marcymerge_5dd4eb8b:
+
+    # sc "\"Tell me the details, love.\""
+    sc "“如实招来吧，亲爱的。”"
+
+# game/williamroute3.rpy:15022
+translate Schinese marcymerge_4378758d:
+
+    # sc "\"That’s it, I’m comin’ with you.\""
+    sc "“算了，我跟你们一起去洗衣房。”"
+
+# game/williamroute3.rpy:15023
+translate Schinese marcymerge_60741cbf:
+
+    # "Both Cynthia and I refuse because we’re so worn out, but she doesn’t really take no for an answer."
+    "由于太过疲惫，我和Cynthia一致拒绝了她，但她可听不进去。"
+
+# game/williamroute3.rpy:15027
+translate Schinese marcymerge_2ae39c64:
+
+    # "So the three of us huddle around the laundry room barrel, rolling our soiled clothes over the washboard, as I tell them both what happened."
+    "于是我们仨就围在洗衣房的水桶旁，一边洗衣服，一边由我把故事娓娓道来。"
+
+# game/williamroute3.rpy:15028
+translate Schinese marcymerge_2c5023e3:
+
+    # sc "\"...what in the name of creation was going on in that awful house?\""
+    sc "“...他们家怎么会这么可怕？”"
+
+# game/williamroute3.rpy:15030
+translate Schinese marcymerge_6c75c0d9:
+
+    # cy "\"Mrs. Byrnes must have known to some extent, right?\""
+    cy "“Byrnes太太肯定也略知一二吧？”"
+
+# game/williamroute3.rpy:15031
+translate Schinese marcymerge_dc990537:
+
+    # sc "\"I doubt to that extent.\""
+    sc "“我表示怀疑。”"
+
+# game/williamroute3.rpy:15032
+translate Schinese marcymerge_e7a2906c:
+
+    # sc "\"She’s provided plenty of medicine for us and I’ve never seen it go sideways like that.\""
+    sc "“她是给我们很多人用过药，但从来没有出过这种岔子。”"
+
+# game/williamroute3.rpy:15033
+translate Schinese marcymerge_0e493581:
+
+    # "She shakes her head."
+    "她摇摇头。"
+
+# game/williamroute3.rpy:15035
+translate Schinese marcymerge_6b83182a:
+
+    # sc "\"Ten though?\""
+    sc "“十次啊？”"
+
+# game/williamroute3.rpy:15036
+translate Schinese marcymerge_5127c6d5:
+
+    # sc "\"Just one takes a toll, but ten?\""
+    sc "“一次可能是不幸，但十次呢？”"
+
+# game/williamroute3.rpy:15037
+translate Schinese marcymerge_46b1ac6c:
+
+    # cy "\"It’s unbelievable.\""
+    cy "“简直难以置信。”"
+
+# game/williamroute3.rpy:15039
+translate Schinese marcymerge_d565bea2:
+
+    # cy "\"That man of hers needs more than an earful.\""
+    cy "“一定要让她老公好看。”"
+
+# game/williamroute3.rpy:15040
+translate Schinese marcymerge_cc910a74:
+
+    # m "\"He’s dead.\""
+    m "“他死了。”"
+
+# game/williamroute3.rpy:15042
+translate Schinese marcymerge_0ba916d3:
+
+    # sc "\"Too true my duckie, I’m ready to march on his property meself and give him the hosing down that his mother ought to have done years ago.\""
+    sc "“没错宝贝，我这就冲到他家，把他老娘这些年欠他的打骂统统还给他。”"
+
+# game/williamroute3.rpy:15044
+translate Schinese marcymerge_603cc6a7:
+
+    # m "\"I mean he’s actually dead.\""
+    m "“他真的死了。”"
+
+# game/williamroute3.rpy:15046
+translate Schinese marcymerge_d9bd89c3:
+
+    # "She looks at me and tilts her head."
+    "她歪头看我。"
+
+# game/williamroute3.rpy:15047
+translate Schinese marcymerge_889d0c9b:
+
+    # sc "\"Since when?\""
+    sc "“什么时候？”"
+
+# game/williamroute3.rpy:15048
+translate Schinese marcymerge_303e6c61:
+
+    # m "\"Since Thursday.\""
+    m "“礼拜四。”"
+
+# game/williamroute3.rpy:15050
+translate Schinese marcymerge_0412e2dd:
+
+    # m "\"His head’s been cut off.\""
+    m "“他的头不见了。”"
+
+# game/williamroute3.rpy:15052
+translate Schinese marcymerge_05a51c1a:
+
+    # "Both she and Cynthia look shocked."
+    "她和Cynthia都一脸震惊。"
+
+# game/williamroute3.rpy:15053
+translate Schinese marcymerge_5886a584:
+
+    # sc "\"That might be a thing worth knowin’?!\""
+    sc "“这不是大快人心吗？！”"
+
+# game/williamroute3.rpy:15054
+translate Schinese marcymerge_687878a4:
+
+    # sc "\"You’d think the sheriff would go spreading the great news?\""
+    sc "“你们说警长会不会公开这个好消息？”"
+
+# game/williamroute3.rpy:15056
+translate Schinese marcymerge_58c0214f:
+
+    # cy "\"Adler’s too busy spying on us and making deals to do his job I wager.\""
+    cy "“我打赌，Adler正在忙着监视我们，和跟其他人做交易，才没时间干正事。”"
+
+# game/williamroute3.rpy:15057
+translate Schinese marcymerge_3271a4dd:
+
+    # sc "\"That’s usually how things go for a sheriff in this part of the country though, innit?\""
+    sc "“这地区的警长不都这样吗？”"
+
+# game/williamroute3.rpy:15058
+translate Schinese marcymerge_bef51a13:
+
+    # sc "\"Next one through the revolving door doesn’t tend to be much different.\""
+    sc "“换个人来也差不多啦。”"
+
+# game/williamroute3.rpy:15059
+translate Schinese marcymerge_fda24e3b:
+
+    # sc "\"Hopefully this one won’t be sent away in a casket looking like swiss cheese.\""
+    sc "“希望他离职的原因不是被子弹打成蜂窝吧。”"
+
+# game/williamroute3.rpy:15060
+translate Schinese marcymerge_0e405c09:
+
+    # m "\"But he was doing his job.\""
+    m "“但他在干正事啊。”"
+
+# game/williamroute3.rpy:15061
+translate Schinese marcymerge_91b4ff29:
+
+    # m "\"He announced it to the widow first.\""
+    m "“他一开始就告知了那位寡妇。”"
+
+# game/williamroute3.rpy:15062
+translate Schinese marcymerge_08c63c2c:
+
+    # m "\"Soon after she had her emergency.\""
+    m "“只是意外来得太突然。”"
+
+# game/williamroute3.rpy:15064
+translate Schinese marcymerge_60237ed2:
+
+    # cy "\"Then where is he now?\""
+    cy "“那他现在人在哪？”"
+
+# game/williamroute3.rpy:15066
+translate Schinese marcymerge_14773c39:
+
+    # m "\"I don’t know.\""
+    m "“我不清楚。”"
+
+# game/williamroute3.rpy:15067
+translate Schinese marcymerge_51c27b2d:
+
+    # m "\"He had to chase a lead, but he made sure Marcy was taken care of.\""
+    m "“他去查线索了，但有先确认Marcy的事。”"
+
+# game/williamroute3.rpy:15069
+translate Schinese marcymerge_d95fa8a8:
+
+    # cy "\"And he just zoomed off, leaving you alone?\""
+    cy "“然后就丢下你一个人跑了？”"
+
+# game/williamroute3.rpy:15071
+translate Schinese marcymerge_2e9c323e:
+
+    # cy "\"With the otter?\""
+    cy "“跟那只水獭一起？”"
+
+# game/williamroute3.rpy:15073
+translate Schinese marcymerge_952520cd:
+
+    # "Her tone is sounding more and more incredulous as time passes."
+    "她的语气越来越暴躁。"
+
+# game/williamroute3.rpy:15075
+translate Schinese marcymerge_c1911bff:
+
+    # m "\"Bronson got the job done.\""
+    m "“Bronson做了份内的事。”"
+
+# game/williamroute3.rpy:15077
+translate Schinese marcymerge_2c875370:
+
+    # cy "\"The man can barely get his holster on, Sam.\""
+    cy "“他连枪套都戴不好，Sam。”"
+
+# game/williamroute3.rpy:15079
+translate Schinese marcymerge_2fc43edb:
+
+    # m "\"If you have a problem with this then why don’t you just talk to the sheriff?\""
+    m "“你有意见怎么不亲自去跟警长抱怨？”"
+
+# game/williamroute3.rpy:15081
+translate Schinese marcymerge_a479647e:
+
+    # cy "\"I don’t need to talk to him.\""
+    cy "“我才懒得理他。”"
+
+# game/williamroute3.rpy:15082
+translate Schinese marcymerge_662fe997:
+
+    # cy "\"I’m just saying he was probably better equipped to handle a situation like that than--\""
+    cy "“我只是想说，他本来能把事情处理得更-”"
+
+# game/williamroute3.rpy:15085
+translate Schinese marcymerge_46acdbfe_1:
+
+    # wi "\"Sam?\""
+    wi "“Sam？”"
+
+# game/williamroute3.rpy:15086
+translate Schinese marcymerge_1cd904f5:
+
+    # "We hear William’s voice down the corner."
+    "William的声音从拐角传来。"
+
+# game/williamroute3.rpy:15087
+translate Schinese marcymerge_d2c463e0:
+
+    # sc "\"Looks like it’s time for me to pack it up.\""
+    sc "“看来我该告辞了。”"
+
+# game/williamroute3.rpy:15088
+translate Schinese marcymerge_9afd03f7:
+
+    # sc "\"Let’s talk again soon, lovelies.\""
+    sc "“晚些时候见咯，甜心们。”"
+
+# game/williamroute3.rpy:15090
+translate Schinese marcymerge_eb730215:
+
+    # "She leaves the doorway and lets a one-note giggle as she bumps into William in the hall and clamors past him."
+    "她笑着走出门，迎面撞在William身上，一面抱怨一面离去。"
+
+# game/williamroute3.rpy:15091
+translate Schinese marcymerge_25b67434:
+
+    # "Cynthia marches right up to him."
+    "Cynthia径直走向他。"
+
+# game/williamroute3.rpy:15093
+translate Schinese marcymerge_431c29c0:
+
+    # cy "\"What the hell happened, William?\""
+    cy "“到底怎么回事，William？”"
+
+# game/williamroute3.rpy:15095
+translate Schinese marcymerge_ddd954ae:
+
+    # wi "\"I don’t have time to go over it, but you probably heard everything there is to tell.\""
+    wi "“我没有时间细说，不过基本上就是你听到的那些。”"
+
+# game/williamroute3.rpy:15099
+translate Schinese marcymerge_ead1fad1:
+
+    # wi "\"I need to talk to Mrs. Byrnes, and now.\""
+    wi "“我需要和Byrnes夫人谈谈，立刻。”"
+
+# game/williamroute3.rpy:15101
+translate Schinese marcymerge_6244d67b:
+
+    # cy "\"Why now?\""
+    cy "“为什么？”"
+
+# game/williamroute3.rpy:15104
+translate Schinese marcymerge_63ecb12c:
+
+    # wi "\"Because I know she’s here, and I know she’s involved.\""
+    wi "“因为她就在这里，而且我知道她跟这案子脱不了干系。”"
+
+# game/williamroute3.rpy:15109
+translate Schinese marcymerge_fec97169:
+
+    # "To be continued..."
+    "未完待续..."
+
+translate Schinese strings:
+
+    # game/williamroute3.rpy:13781
+    old "Tell Nikolai the truth?"
+    new "要把事实告诉给Nikolai吗？"
+
+# TODO: Translation updated at 2024-07-13 14:33
+
+# game/williamroute3.rpy:21
+translate Schinese williamroute3_a428258c:
+
+    # "Nine fifteen PM."
+    "下午九点一刻。"
+
+# game/williamroute3.rpy:823
+translate Schinese willbedchoice_d5830888:
+
+    # wi "\"Then tell me if you do.\""
+    wi "“那就等有了再说。”"
+
+# game/williamroute3.rpy:1125
+translate Schinese willbedchoice_de8bfa25:
+
+    # wi "\"It’s common protocol to investigate a victim a little closer after they’ve been attacked.\""
+    wi "“譬如最常规的流程，进一步调查遇袭的受害者。”"
+
+# game/williamroute3.rpy:1967
+translate Schinese williamchallmenu_a4af6664:
+
+    # jam "\"Don’t act so suburban, Mr. Adler, there’s a treasure trove of knowledge all around you.\""
+    jam "“别这么不识趣，Adler先生，这里可是知识的海洋呢。”"
+
+# game/williamroute3.rpy:10620
+translate Schinese williamroute3c_90f8ff52:
+
+    # mu "\"Second thing I’m doing is finding which room Mr. Tibbits is in, so nobody's going to strangle him with a makeshift noose made of stockings.\""
+    mu "“再去找Tibbits先生的房间，以防他被谁随手用丝袜勒死。”"
+
+# game/williamroute3.rpy:10845
+translate Schinese williamroute3c_e1fbb23d:
+
+    # m "\"Is pecker preferable?\""
+    m "“那就有树汁吸？”"
+
+# game/williamroute3.rpy:10927
+translate Schinese williamroute3c_91fce64c:
+
+    # "Todd stands up stiffly, making his chair wobble."
+    "Todd唐突地站起来，把椅子弄得摇摇晃晃的。"
+
+# game/williamroute3.rpy:10966
+translate Schinese williamroute3c_d1c4bbc9:
+
+    # wi "\"Frankly I'd rather you got it out of your system at a place like that, than acting out in places you shouldn't.\""
+    wi "“说实话，在那里发泄总好过在一些不应该的地方。”"
+
+# game/williamroute3.rpy:11792
+translate Schinese williamroute3c_b34c70ac:
+
+    # "Another song starts up and there’s a next round of dance partners."
+    "另一首歌响起，人们开始寻找新的舞伴。"
+
+# game/williamroute3.rpy:11793
+translate Schinese williamroute3c_4615ee0d:
+
+    # "This one’s quicker, but there’s still a whole lot of touches on the waist and chests sliding against one another as they make their twirls."
+    "这首歌的节奏比上一首还要快，但不变的是舞者们在旋转时仍会抚摸彼此的胸部和腰肢。"
+
+# game/williamroute3.rpy:11796
+translate Schinese williamroute3c_d63c5963:
+
+    # "I hear a small thump as I notice Todd sitting next to us."
+    "我听到一声脆响，Todd坐在了我们旁边。"
+
+# game/williamroute3.rpy:11890
+translate Schinese williamroute3c_444e3846:
+
+    # "Todd isn't the only person this place has an effect on."
+    "看来Todd不是唯一一个被这个地方影响的人。"
+
+# game/williamroute3.rpy:12029
+translate Schinese samwill4_c00fd483:
+
+    # wi "\"S'pose it's familiar to the notion I had when I first met you.\""
+    wi "“有点像我第一次见到你的时候。”"
+
+# game/williamroute3.rpy:12108
+translate Schinese samwill4_1a1fffe9:
+
+    # m "\"That there are things that, if you pass them up, you won’t have a chance to do again.\""
+    m "“有些事情，一旦错过就再也没机会做了。”"
+
+# game/williamroute3.rpy:12114
+translate Schinese samwill4_593a25ee:
+
+    # m "\"I think you’ve been through that too many times.\""
+    m "“我想这种情况你已经经历过无数次了。”"
+
+# game/williamroute3.rpy:12118
+translate Schinese samwill4_8e5d7202:
+
+    # wi "\"So you want me to do something stupid?\""
+    wi "“你是想要我做点傻事？”"
+
+# game/williamroute3.rpy:12129
+translate Schinese samwill4_5dbc7738:
+
+    # m "\"Not the thirty-five year old man who thinks too much and who’s a stranger in his own body sometimes.\""
+    m "“而不是这个瞻前顾后，有时连自己的身体都不熟悉的三十五岁男人。”"
+
+# game/williamroute3.rpy:12152
+translate Schinese samwill4_ccdacf90:
+
+    # m "\"But I have faith the show will be satisfying when you're butting heads with somebody just as stubborn as you.\""
+    m "“不过看两个同样顽固的家伙正面交锋，相信会上演一出好戏的。”"
+
+# game/williamroute3.rpy:12881
+translate Schinese willkanechoice_928b402a:
+
+    # wi "\"But yeah.\""
+    wi "“不过是的。”"
+
+# game/williamroute3.rpy:12888
+translate Schinese willkanechoice_59112691:
+
+    # "I give him a stony glare and he stares back at me."
+    "我故作严肃地盯着他，他用同样的眼神盯着我。"
+
+# game/williamroute3.rpy:12889
+translate Schinese willkanechoice_9223afcf:
+
+    # "Then his unserious ass goes cross-eyed, and we both break out into laughter."
+    "然后这没心没肺的臭小子成了斗鸡眼，我们都哈哈大笑起来。"
+
+# game/williamroute3.rpy:12902
+translate Schinese willkanechoice_39fe9e96:
+
+    # wi "\"If anything, I would've expected to have a headache after a night like that, but everything’s clear.\""
+    wi "“硬要说的话，我本以为经过那样的一晚会很头痛，但现在反而神清气爽。”"
+
+# game/williamroute3.rpy:12912
+translate Schinese willkanechoice_7db4caf4:
+
+    # m "\"You sound like you're in a better condition than the deputy.\""
+    m "“那位警官的声音听起来就没你这么活泼了。”"
+
+# game/williamroute3.rpy:12918
+translate Schinese willkanechoice_4f903859:
+
+    # m "\"Also it’s an hour ‘til noon.\""
+    m "“还有一个小时就到正午了。”"
+
+# game/williamroute3.rpy:12931
+translate Schinese willkanechoice_e3e0b238:
+
+    # "He averts his gaze."
+    "他移开视线。"
+
+# game/williamroute3.rpy:12970
+translate Schinese willkanechoice_8efda18a:
+
+    # wi "\"I ain’t gonna cut holes into a sack and walk around like I’m in a nightie for the most doped up man alive.\""
+    wi "“我可不想穿着麻袋走来走去，去找一个嗑了药的瘾君子。”"
+
+# game/williamroute3.rpy:12985
+translate Schinese willkanechoice_4e535329:
+
+    # "We see a very unkempt-looking Nikolai walking into the barn."
+    "在我们的注视下，衣衫异常凌乱的Nikolai走进谷仓。"
+
+# game/williamroute3.rpy:13003
+translate Schinese willkanechoice_9deaa39f:
+
+    # ni "\"It’s half-past eleven.\""
+    ni "“都十一点半了。”"
+
+# game/williamroute3.rpy:13015
+translate Schinese willkanechoice_83cea645:
+
+    # wi "\"...That would be appreciated, Nik.\""
+    wi "“...感激不尽，Nik。”"
+
+# game/williamroute3.rpy:13018
+translate Schinese willkanechoice_23f31ccb:
+
+    # "I sigh and feel my heart thump just a little bit slower when I see that they’re still there."
+    "看到它们完好无损，我松了口气，感觉没那么提心吊胆了。"
+
+# game/williamroute3.rpy:13084
+translate Schinese willkanechoice_86d79948:
+
+    # to "\"Well people can’t go doin’ that, I need my clothes to walk around in!\""
+    to "“真不像话，这下我可怎么出门呀！”"
+
+# game/williamroute3.rpy:13104
+translate Schinese willkanechoice_ceebacae:
+
+    # wi "\"If I see him again I’ll chase him down like the dog he is and make him regret taking our stuff.\""
+    wi "“如果再见到那个人，我一定会拿下他，让他后悔把主意打到我们头上。”"
+
+# game/williamroute3.rpy:13138
+translate Schinese willkanechoice_3b8e3d45:
+
+    # "I can feel the collective relief wash over us as Nik gets into the building and hands us our clothes, shying away from looking too close."
+    "当Nik走进谷仓，斜着眼把衣服递给我们时，我明显感觉所有人都舒了口气。"
+
+# game/williamroute3.rpy:13279
+translate Schinese skipkane_bd497ea3:
+
+    # ni "\"So...\""
+    ni "“那么...”"
+
+# game/williamroute3.rpy:13347
+translate Schinese skipkane_cd7019df:
+
+    # ni "\"I thought you were in danger, that your client wanted to hush you up, or that you were borrowing money...\""
+    ni "“我担心你受到了某个客户的威胁，或者是想躲债...”"
+
+# game/williamroute3.rpy:13405
+translate Schinese skipkane_7adf6d9e:
+
+    # "Sam’s claws retract around his mug and he scrapes the glass."
+    "Sam收紧爪子，刮花了玻璃。"
+
+# game/williamroute3.rpy:13454
+translate Schinese skipkane_fcb110b3:
+
+    # m @ talking "Think it’s wise to leave the deputy by himself?\""
+    m @ talking "“就这么抛下你的副手好吗？”"
+
+# game/williamroute3.rpy:13494
+translate Schinese skipkane_36131d44:
+
+    # wi "\"So do the both of you feel better now that you’ve spoken your peace?\""
+    wi "“既然说出了心里话，你们俩有感觉好些吗？”"
+
+# game/williamroute3.rpy:13578
+translate Schinese skipkane_34b1d979:
+
+    # "I put my hands in my pockets and listen to the crickets chirp."
+    "我两手插兜，听着蟋蟀的鸣唱声。"
+
+# game/williamroute3.rpy:14039
+translate Schinese swn_60e38164:
+
+    # "The tightness in my balls draw tighter and tighter as Nik’s mouth swallows as much of me as he can."
+    "卵蛋的紧缩感一阵强过一阵，Nik尽可能一滴不漏地吞下。"
+
+# game/williamroute3.rpy:14215
+translate Schinese marcymerge_b62eba53:
+
+    # "Even without my watch, I could tell we had arrived at the cottage sometime after two PM and before sundown."
+    "即使没有手表，我也能看出我们是在下午两点后、日落之前的某个时分到达小屋的。"
+
+# game/williamroute3.rpy:14217
+translate Schinese marcymerge_00c51d11:
+
+    # "It's ten past five PM there, so ten past three PM here when we arrive at Marcy's cottage."
+    "我们在那里的下午五点十分抵达Marcy的小屋，也就是这里的下午三点十分。"
+
+# game/williamroute3.rpy:14846
+translate Schinese marcymerge_2a0e417f:
+
+    # "I’m used to being covered in bodily fluids any day of the week, but I’m still not used to blood."
+    "我是习惯了每天被体液打湿，但不包括血。"
+
+# game/williamroute3.rpy:14872
+translate Schinese marcymerge_45b7a0c2:
+
+    # md "\"I’ve seen women in worse condition pull through, but it’s pretty bad.\""
+    md "“也有比她身子骨比她更弱的女人最终挺过来，但情况确实不容乐观。”"
+
+# game/williamroute3.rpy:15099
+translate Schinese marcymerge_803b2173:
+
+    # "She leaves the doorway and lets out a one-note giggle as she bumps into William in the hall and clamors past him."
+    "她笑着走出门，迎面撞在William身上，一面抱怨一面离去。"
+
+# TODO: Translation updated at 2024-10-12 17:46
+
+# game/williamroute3.rpy:138
+translate Schinese williamroute3_2c037af4:
+
+    # wi "\"That being said — as far as I’m concerned, pessimism is only for losers.\""
+    wi "“话虽如此，就我个人而言，悲观主义者注定会是失败者。”"
+
+# game/williamroute3.rpy:643
+translate Schinese williamroute3_b8bbbdc0:
+
+    # m "\"Why—\""
+    m "“为什-”"
+
+# game/williamroute3.rpy:651
+translate Schinese williamroute3_15b9f0b3:
+
+    # "I wiggle it to make him yell — as much as he can with the dampened rag."
+    "我在里面扭动着，令他的叫声把布都润湿。"
+
+# game/williamroute3.rpy:722
+translate Schinese willbedchoice_a0a3eeb0:
+
+    # "There’s already more than three bursts of it coating my paw, the rest hitting him beneath the chin."
+    "至少三股射在了我的爪子上，其余则飞向了他的下巴。"
+
+# game/williamroute3.rpy:954
+translate Schinese willbedchoice_60030b09:
+
+    # "Those are definitely his clothes, though — I’d recognize Marcy’s stitchwork anywhere."
+    "少了几片毛和肉，但这身衣服绝对是他的没错：Marcy的手艺烧成灰我都认得。"
+
+# game/williamroute3.rpy:1844
+translate Schinese williamchallmenu_d01fe61c:
+
+    # wi "\"But odds are—\""
+    wi "“但可能性-”"
+
+# game/williamroute3.rpy:2959
+translate Schinese samstation_5d34a9b8:
+
+    # cl "\"Well of cou—\""
+    cl "“当然可-”"
+
+# game/williamroute3.rpy:3547
+translate Schinese hipinvestigation1_210b73c3:
+
+    # "It’s free — and besides. Men know how to make it feel good better than women can, anyway."
+    "免费不说，男人肯定比女人更懂得如何取悦自己。"
+
+# game/williamroute3.rpy:4021
+translate Schinese williamroute3a_61e0f24e:
+
+    # wi "\"More to the point, whenever they’re close by, there’s no telling who else is.\""
+    wi "“我就直说了吧，幕后推手可能就在附近。”"
+
+# game/williamroute3.rpy:4135
+translate Schinese williamroute3a_529be99c:
+
+    # wi "\"Well you could also let me know—\""
+    wi "“你也可以直接告诉我-”"
+
+# game/williamroute3.rpy:4879
+translate Schinese williamroute3a_e0cfb504:
+
+    # to "\"You’re right Mrs. Greene, he’s not comin’ back!\""
+    to "“没有错，Greene太太，他再也不会回来了！”"
+
+# game/williamroute3.rpy:4998
+translate Schinese williamroute3a_6f19d038:
+
+    # m "\"Alright.\""
+    m "“很好。”"
+
+# game/williamroute3.rpy:5869
+translate Schinese updatemarcy_fbc51710:
+
+    # to "\"If you’re wonderin’ whether I liked it or not—\""
+    to "“如果你想知道我喜不喜欢-”"
+
+# game/williamroute3.rpy:6810
+translate Schinese williamroute3b_aff6dc6b:
+
+    # "So now the question is — why him?"
+    "问题在于：为什么是他？"
+
+# game/williamroute3.rpy:7202
+translate Schinese williamroute3b_106b1d16:
+
+    # wi "\"But part of what made him so hard to catch wasn’t just his pristine reputation — it was that he rarely conducted his crimes himself.\""
+    wi "“但他之所以难抓，不只是因为他坐享美誉，更因为他几乎不亲自动手。”"
+
+# game/williamroute3.rpy:7230
+translate Schinese williamroute3b_c060812e:
+
+    # wi "\"I started riding at prime times and saw the suitcase transfers before the crimes occurred.\""
+    wi "“于是我开始在高峰时间乘坐火车，见证了行李箱转移的过程。”"
+
+# game/williamroute3.rpy:7235
+translate Schinese williamroute3b_642582dd:
+
+    # wi "\"My testimony and the evidence that I gathered put a lot of important people away — not just Antonelli.\""
+    wi "“被我的证词和证据击垮的远不只Antonelli一个。”"
+
+# game/williamroute3.rpy:7256
+translate Schinese williamroute3b_b40b87d5:
+
+    # jam "\"Enough of this—\""
+    jam "“够了-”"
+
+# game/williamroute3.rpy:7275
+translate Schinese williamroute3b_b06241e5:
+
+    # jam "\"Well let’s not go overboard—\""
+    jam "“你别乱想-”"
+
+# game/williamroute3.rpy:7314
+translate Schinese williamroute3b_8d7d5ef4:
+
+    # jam "\"Oh, for the love of—\""
+    jam "“喔，真是-”"
+
+# game/williamroute3.rpy:7352
+translate Schinese willinvestigation2_58a47ca6:
+
+    # wi "\"Mrs. Hendricks, you said that there are all sorts of doorways to nowhere in this house, correct?\""
+    wi "“Hendricks太太，你之前提到这房子里有很多不通往任何地方的门，对吧？”"
+
+# game/williamroute3.rpy:7478
+translate Schinese willinvestigation2_792afcae:
+
+    # wi "\"I wasn’t raising it at {i}you{/i}, I was—\""
+    wi "“我没有吼{b}你{/b}，我是-”"
+
+# game/williamroute3.rpy:7772
+translate Schinese willinvestigation2_379c692c:
+
+    # wi "\"There’s nothing—?\""
+    wi "“什么都-？”"
+
+# game/williamroute3.rpy:7806
+translate Schinese willinvestigation2_1bdeacb5:
+
+    # wi "\"Even if we managed to outrun our old enemies—\""
+    wi "“就算甩掉了我们那些宿敌-”"
+
+# game/williamroute3.rpy:8189
+translate Schinese postwillinvestigation2_4bede319:
+
+    # "I shake my head again and press through."
+    "我摇了摇头，把门推开。"
+
+# game/williamroute3.rpy:8400
+translate Schinese postwillinvestigation3_070e957b:
+
+    # wi "\"It’s easier for—\""
+    wi "“容易被-”"
+
+# game/williamroute3.rpy:8621
+translate Schinese postwillinvestigation3_76815637:
+
+    # m "\"Will—\""
+    m "“Will-”"
+
+# game/williamroute3.rpy:8852
+translate Schinese williamroute3c_72203f4c:
+
+    # wi "\"Mr. Tibbits...\""
+    wi "“Tibbits先生...”"
+
+# game/williamroute3.rpy:9335
+translate Schinese williamroute3c_83d06a09:
+
+    # m "\"Time to take another guess Mr. Tibbits.\""
+    m "“该猜答案了，Tibbits先生。”"
+
+# game/williamroute3.rpy:10088
+translate Schinese williamroute3c_a07de08f:
+
+    # to "\"It really, really won't happen—\""
+    to "“我保证绝对不会有-”"
+
+# game/williamroute3.rpy:10475
+translate Schinese williamroute3c_89ba1cc9:
+
+    # "A healthy working relationship with his father is necessary to make my job possible."
+    "为了我的工作，我得和他父亲保持健全的协同关系。"
+
+# game/williamroute3.rpy:10618
+translate Schinese williamroute3c_ba150e18:
+
+    # wi "\"You don’t—\""
+    wi "“别-”"
+
+# game/williamroute3.rpy:10721
+translate Schinese williamroute3c_01c74705:
+
+    # wi "\"He wanted a child before the year was up or he’d send me to the sanitarium.\""
+    wi "“他要求我在一年内生个孩子，否则就把我送进疯人院。”"
+
+# game/williamroute3.rpy:11007
+translate Schinese williamroute3c_779d989c:
+
+    # wi "\"What the hell was—\""
+    wi "“那是什-”"
+
+# game/williamroute3.rpy:11045
+translate Schinese williamroute3c_efd83f01:
+
+    # cl "\"Mr. Byrnes I thought—\""
+    cl "“Byrnes先生，我不是-”"
+
+# game/williamroute3.rpy:12782
+translate Schinese willkanechoice_4f7f4fc0:
+
+    # wi "\"Wait—\""
+    wi "“等-”"
+
+# game/williamroute3.rpy:13363
+translate Schinese skipkane_90f44ede:
+
+    # "Sam sips his drink while Nik becomes the one to tap his claws."
+    "Sam抿了一口酒，Nik则拍着手背。"
+
+# game/williamroute3.rpy:13850
+translate Schinese swn_df5e8837:
+
+    # m "\"And you'd never ask before to try—\""
+    m "“而且你从来没有提出来要-”"
+
+# game/williamroute3.rpy:14032
+translate Schinese swn_69c54285:
+
+    # "We all sweat as we move together — thrusting, bobbing, slurping."
+    "每次挺身、摆头、吮吸，都会导致我们出更多的汗。"
+
+# game/williamroute3.rpy:14797
+translate Schinese marcymerge_dbc4d25d:
+
+    # mar "\"{cps=15}I just think—\""
+    mar "“{cps=15}我认为-”"
+
+# game/williamroute3.rpy:14898
+translate Schinese marcymerge_ad16b228:
+
+    # cy "\"I can—\""
+    cy "“我可以-”"
+
+# game/williamroute3.rpy:14918
+translate Schinese marcymerge_0816a54b:
+
+    # sc "\"I told her that she should wait but—\""
+    sc "“我叫她在外面等，可是-”"
+
+# game/williamroute3.rpy:15088
+translate Schinese marcymerge_b8fb421a:
+
+    # cy "\"I’m just saying he was probably better equipped to handle a situation like that than—\""
+    cy "“我只是想说，他本来能把事情处理得更-”"
+
+# TODO: Translation updated at 2025-01-11 03:11
+
+# game/williamroute3.rpy:121
+translate Schinese williamroute3_f6418422:
+
+    # "He lowers his voice."
+    ""
+
+# game/williamroute3.rpy:124
+translate Schinese williamroute3_8d5173af:
+
+    # m "\"Like this is a place you move to, you stay for a while, and then you keep on moving once you scrape together enough money.\""
+    m ""
+
+# game/williamroute3.rpy:314
+translate Schinese williamroute3_5e7958ad:
+
+    # "He puts his hand between my legs."
+    ""
+
+# game/williamroute3.rpy:319
+translate Schinese williamroute3_b96c3c00:
+
+    # "He slips his hand under the tent in my trousers and touches me."
+    ""
+
+# game/williamroute3.rpy:320
+translate Schinese williamroute3_97a27d31:
+
+    # "And squeezes."
+    ""
+
+# game/williamroute3.rpy:321
+translate Schinese williamroute3_fc5626d5:
+
+    # "It's a slow, slimy sound."
+    ""
+
+# game/williamroute3.rpy:331
+translate Schinese williamroute3_9f6765c1:
+
+    # "He curls his digits and strokes me once."
+    ""
+
+# game/williamroute3.rpy:355
+translate Schinese williamroute3_e8247ca4:
+
+    # "Sam stops stroking me."
+    ""
+
+# game/williamroute3.rpy:357
+translate Schinese williamroute3_f9b45a88:
+
+    # "He glares."
+    ""
+
+# game/williamroute3.rpy:365
+translate Schinese williamroute3_3b8e00c5:
+
+    # "His glare turns into a surprised look."
+    ""
+
+# game/williamroute3.rpy:415
+translate Schinese williamroute3_8b78b649:
+
+    # "He lets out a short laugh."
+    ""
+
+# game/williamroute3.rpy:453
+translate Schinese williamroute3_49b1e2d5:
+
+    # "He takes a seat next to me, and I hook my arm around his waist."
+    ""
+
+# game/williamroute3.rpy:454
+translate Schinese williamroute3_cb461fcd:
+
+    # "His hand is on my thigh again."
+    ""
+
+# game/williamroute3.rpy:517
+translate Schinese williamroute3_bbbfa4f9:
+
+    # "He uncorks the stopper, pours some of the slick contents in his paw, and smears it on me."
+    ""
+
+# game/williamroute3.rpy:558
+translate Schinese williamroute3_6e741c65:
+
+    # "I tie it in a way that I know he can’t get out of."
+    ""
+
+# game/williamroute3.rpy:571
+translate Schinese williamroute3_f3a19331:
+
+    # "Sam hums."
+    ""
+
+# game/williamroute3.rpy:600
+translate Schinese williamroute3_3e243c90:
+
+    # "The fur on his legs stands up when I do."
+    ""
+
+# game/williamroute3.rpy:749
+translate Schinese willbedchoice_5402cf18:
+
+    # "My paws are as clean as they're gonna get, so I undo the bonds of rope behind his hands and pull the coils off of his wrists."
+    ""
+
+# game/williamroute3.rpy:766
+translate Schinese willbedchoice_20d5de8e:
+
+    # "He doesn’t bother to take off the gag before he finishes himself off."
+    ""
+
+# game/williamroute3.rpy:806
+translate Schinese willbedchoice_0b9ebcb3:
+
+    # "He turns around, still looking up."
+    ""
+
+# game/williamroute3.rpy:925
+translate Schinese willbedchoice_322956f3:
+
+    # to "\"Well there you are, Sheriff.\""
+    to ""
+
+# game/williamroute3.rpy:947
+translate Schinese willbedchoice_61af4631:
+
+    # "I grab his shoulder to move him aside and see the carcass-sized pillow case."
+    ""
+
+# game/williamroute3.rpy:1007
+translate Schinese willbedchoice_90917f4c:
+
+    # "I turn and see the red of Sam’s eyes staring from my office."
+    ""
+
+# game/williamroute3.rpy:1014
+translate Schinese willbedchoice_126b2761:
+
+    # "He disappears behind the window and we hear the heavy lock of the door click."
+    ""
+
+# game/williamroute3.rpy:1064
+translate Schinese willbedchoice_5ec9d47e:
+
+    # cl "\"Well I had thought it was patently obvious that I am frightened, Sheriff.\""
+    cl ""
+
+# game/williamroute3.rpy:1085
+translate Schinese willbedchoice_3afb492d:
+
+    # "The stoat is filling his kettle and striking a match beneath the wood stove."
+    ""
+
+# game/williamroute3.rpy:1099
+translate Schinese willbedchoice_9cf8c583:
+
+    # "He stops all of a sudden, a bit flushed in the ears."
+    ""
+
+# game/williamroute3.rpy:1121
+translate Schinese willbedchoice_bb037198:
+
+    # "He turns to look at me as he fills a few metal capsules with dry leaf and flower bundles."
+    ""
+
+# game/williamroute3.rpy:1207
+translate Schinese willbedchoice_c4835890:
+
+    # "It states his full name, Clifford Tibbits, and his job title, consultant, in gold letters. Health information follows."
+    ""
+
+# game/williamroute3.rpy:1313
+translate Schinese willbedchoice_143980b8:
+
+    # cl "\"Very good. I shan't be long.\""
+    cl ""
+
+# game/williamroute3.rpy:1318
+translate Schinese willbedchoice_35877bc2:
+
+    # "We wait a while outdoors until we see a very weary looking Murdoch emerge from the apartment."
+    ""
+
+# game/williamroute3.rpy:1419
+translate Schinese cityhallnight_4ea80fef:
+
+    # m "\"{i}...These things hast thou done, and I kept silence; thou thoughtest that I was altogether such a one as thyself: but I will reprove thee, and set them in order before thine eyes.{/i}\""
+    m ""
+
+# game/williamroute3.rpy:1661
+translate Schinese cityhallnight_1ef7288b:
+
+    # wi "\"Sure. But I don’t want to see you within 100 yards of that stoat or we’re gonna have ourselves a more punctual problem.\""
+    wi ""
+
+# game/williamroute3.rpy:1749
+translate Schinese cityhallnight_fbf238cb:
+
+    # "James rolls his eyes."
+    ""
+
+# game/williamroute3.rpy:1964
+translate Schinese williamchallmenu_06fbdc25:
+
+    # "His bodyguards are sitting in a corner, flipping through magazines."
+    ""
+
+# game/williamroute3.rpy:1981
+translate Schinese williamchallmenu_6ebc1de7:
+
+    # "He flips a page to the beginning of another short story."
+    ""
+
+# game/williamroute3.rpy:2018
+translate Schinese williamchallmenu_53ab8238:
+
+    # "He lifts an eyebrow."
+    ""
+
+# game/williamroute3.rpy:2025
+translate Schinese williamchallmenu_34fd276f:
+
+    # "He hums."
+    ""
+
+# game/williamroute3.rpy:2238
+translate Schinese williamchallmenu_087a328c:
+
+    # "He flashes me a smile and walks away."
+    ""
+
+# game/williamroute3.rpy:2249
+translate Schinese endofwillchallinterviews1_b53d5812:
+
+    # "I think I’ve learned all that I can."
+    ""
+
+# game/williamroute3.rpy:2350
+translate Schinese stagnight_ffff33cb:
+
+    # "I know what a barn smells like."
+    ""
+
+# game/williamroute3.rpy:2442
+translate Schinese loftjump_d215a1c5:
+
+    # wi "\"Do you know any folks in these parts who’d be comfortable to share what they know with me?\""
+    wi ""
+
+# game/williamroute3.rpy:2554
+translate Schinese willstagmenu2_e2da6819:
+
+    # "He points to the bear, the wolverine, and the jackrabbit respectively."
+    ""
+
+# game/williamroute3.rpy:2555
+translate Schinese willstagmenu2_b1b3f537:
+
+    # ni "\"Say hello to Sheriff Adler.\""
+    ni ""
+
+# game/williamroute3.rpy:2694
+translate Schinese endofwillstaginterviews2_792a412a:
+
+    # "A big Sonoran wolf stares at me through the space they leave behind."
+    ""
+
+# game/williamroute3.rpy:2749
+translate Schinese endofwillstaginterviews2_7d0250a2:
+
+    # ka "\"Say, do you like to brawl, Sheriff?\""
+    ka ""
+
+# game/williamroute3.rpy:2760
+translate Schinese endofwillstaginterviews2_4ae81bbf:
+
+    # "The hell is with this guy?"
+    ""
+
+# game/williamroute3.rpy:2839
+translate Schinese endofwillchallinterviews2_7f51adf4:
+
+    # "I’m tired of the smell of sweat and rye whiskey."
+    ""
+
+# game/williamroute3.rpy:2890
+translate Schinese samstation_17d92b06:
+
+    # "There’s not been a whole lot to do for those two since they found out Will locks his record cabinet."
+    ""
+
+# game/williamroute3.rpy:2927
+translate Schinese samstation_f6418422:
+
+    # "He lowers his voice."
+    ""
+
+# game/williamroute3.rpy:3026
+translate Schinese samstation_c41b2d46:
+
+    # cy "\"And come back to work tonight. We miss you.\""
+    cy ""
+
+# game/williamroute3.rpy:3044
+translate Schinese samstation_2cc3b129:
+
+    # "She adjusts her purse and walks past Will into the doorway."
+    ""
+
+# game/williamroute3.rpy:3059
+translate Schinese samstation_86f2bbe0:
+
+    # "He takes some money out of his pocket and puts it in my hand."
+    ""
+
+# game/williamroute3.rpy:3068
+translate Schinese samstation_6189fbdf:
+
+    # "Will shrugs."
+    ""
+
+# game/williamroute3.rpy:3161
+translate Schinese hipinvestigation_88031256:
+
+    # cy "\"I’ve barely seen him at work now that he’s running around town with you.\""
+    cy ""
+
+# game/williamroute3.rpy:3182
+translate Schinese hipinvestigation_8c87788e:
+
+    # cy "\"You really think the word of one Meseta hooker is more trustworthy than the big shot sheriff?\""
+    cy ""
+
+# game/williamroute3.rpy:3201
+translate Schinese hipinvestigation_a2edaf19:
+
+    # wi "\"But he’s not safe being on his own yet.\""
+    wi ""
+
+# game/williamroute3.rpy:3225
+translate Schinese hipinvestigation_b242808a:
+
+    # "Dora is on the couch. She's been watching me ever since I entered the room."
+    ""
+
+# game/williamroute3.rpy:3226
+translate Schinese hipinvestigation_ab046085:
+
+    # "The only other person who’d be easy to access is Ethel, sitting alone on the couch."
+    ""
+
+# game/williamroute3.rpy:3440
+translate Schinese hipinvestigation1_fb426a00:
+
+    # et "\"You’re the fucking sheriff, aren’t you?\""
+    et ""
+
+# game/williamroute3.rpy:3448
+translate Schinese hipinvestigation1_29fa0f08:
+
+    # et "\"Then hand over some money. This isn’t a charity.\""
+    et ""
+
+# game/williamroute3.rpy:3467
+translate Schinese hipinvestigation1_729b2855:
+
+    # wi "\"And if it turned out you had a bad habit of breaching the confidentiality of your coworkers’ clients...\""
+    wi ""
+
+# game/williamroute3.rpy:3591
+translate Schinese hipinvestigation1_8009ce31:
+
+    # cy "\"Then, he asked if it was a special Meseta braid, but I was just honest and told him it’s how Lucy makes challah bread.\""
+    cy ""
+
+# game/williamroute3.rpy:3763
+translate Schinese hattie_43191023:
+
+    # wi "\"Better to get a head start on an officer position than get dragged in as a foot soldier with everybody else, right?\""
+    wi ""
+
+# game/williamroute3.rpy:4084
+translate Schinese williamroute3a_507f254e:
+
+    # to "\"But I really oughta get some rest, Sheriff.\""
+    to ""
+
+# game/williamroute3.rpy:4137
+translate Schinese williamroute3a_ca560462:
+
+    # "But he's already gone."
+    ""
+
+# game/williamroute3.rpy:4167
+translate Schinese williamroute3a_7f1febb0:
+
+    # "The scattered papers look cleaner and are stacked neatly."
+    ""
+
+# game/williamroute3.rpy:4252
+translate Schinese williamroute3a_de77cf18:
+
+    # wi "\"She showed me a photograph somebody took of her while she was sleeping.\""
+    wi ""
+
+# game/williamroute3.rpy:4272
+translate Schinese williamroute3a_17cbac77:
+
+    # "His lips tighten and he nods."
+    ""
+
+# game/williamroute3.rpy:4463
+translate Schinese williamroute3a_4b2cc288:
+
+    # wi "\"He served under the former sheriff.\""
+    wi ""
+
+# game/williamroute3.rpy:4556
+translate Schinese williamroute3a_b5216a9d:
+
+    # "That’s when I realize how tired I am."
+    ""
+
+# game/williamroute3.rpy:4817
+translate Schinese williamroute3a_9dce1046:
+
+    # "I can see clusters of half-filled teacups scattered about the house, some still with fluid in them, catching flies and bugs and specks of grime."
+    ""
+
+# game/williamroute3.rpy:4844
+translate Schinese williamroute3a_874f06d2:
+
+    # "She wheezes first, and then giggles."
+    ""
+
+# game/williamroute3.rpy:4850
+translate Schinese williamroute3a_fdcdf8f6:
+
+    # "She pouts."
+    ""
+
+# game/williamroute3.rpy:4856
+translate Schinese williamroute3a_16b56a71:
+
+    # "She leans away."
+    ""
+
+# game/williamroute3.rpy:4862
+translate Schinese williamroute3a_cf50155a:
+
+    # mar "\"He ain’t never coming back, is he?\""
+    mar ""
+
+# game/williamroute3.rpy:4936
+translate Schinese williamroute3a_623c8e74:
+
+    # "I can hear soft wailing from the inside."
+    ""
+
+# game/williamroute3.rpy:4942
+translate Schinese williamroute3a_27c12c32:
+
+    # wi "\"And now more so because Deputy Bronson couldn’t keep his fuckin’ mouth shut for just a little while longer.\""
+    wi ""
+
+# game/williamroute3.rpy:4987
+translate Schinese williamroute3a_ef03f767:
+
+    # wi "\"I know, but it's close to where I'll be for the next few days, and I think it would be best for you to keep by.\""
+    wi ""
+
+# game/williamroute3.rpy:5095
+translate Schinese williamroute3a_f477e9ff:
+
+    # m "\"Well, you’ve known Mrs. Greene for a while, right?\""
+    m ""
+
+# game/williamroute3.rpy:5097
+translate Schinese williamroute3a_2f0278b5:
+
+    # to "\"’Course I have.\""
+    to ""
+
+# game/williamroute3.rpy:5175
+translate Schinese williamroute3a_cb0cf761:
+
+    # m "\"Your family ever try to make you wash your mouth out with bleach if you swore?\""
+    m ""
+
+# game/williamroute3.rpy:5182
+translate Schinese williamroute3a_fa945ca7:
+
+    # m "\"How often did your family visit the Greenes'?\""
+    m ""
+
+# game/williamroute3.rpy:5302
+translate Schinese williamroute3a_9539d400:
+
+    # "I knew there was something funny about this one when I worked him up to spankin' himself off at the sheriff's office."
+    ""
+
+# game/williamroute3.rpy:5403
+translate Schinese williamroute3a_16e2bce0:
+
+    # m "\"Keep these on in case we have to cover up quick if somebody comes our way.\""
+    m ""
+
+# game/williamroute3.rpy:5407
+translate Schinese williamroute3a_6c3ea4fd:
+
+    # "I set down a sheet covering a crate and lay it on the dirt."
+    ""
+
+# game/williamroute3.rpy:5569
+translate Schinese williamroute3a_3d739e4a:
+
+    # ka "\"I think you missed the part where I told you that I’m very food-motivated, Sheriff.\""
+    ka ""
+
+# game/williamroute3.rpy:5716
+translate Schinese updatemarcy_b9562706:
+
+    # "The otter shakes his head."
+    ""
+
+# game/williamroute3.rpy:5772
+translate Schinese updatemarcy_3d16e9d6:
+
+    # "The insides of his ears go pale."
+    ""
+
+# game/williamroute3.rpy:5896
+translate Schinese updatemarcy_51190e20:
+
+    # "If Huxley’s killer shooting Deputy Bronson from the woods wouldn’t have taken him down right there and then, Todd's surprise might do the trick."
+    ""
+
+# game/williamroute3.rpy:6024
+translate Schinese updatemarcy_d624a4e4:
+
+    # "They land wetly on the ground and make a noise that makes me want to gag."
+    ""
+
+# game/williamroute3.rpy:6030
+translate Schinese updatemarcy_ad99321e:
+
+    # "She can’t really be sleeping here, can she?"
+    ""
+
+# game/williamroute3.rpy:6034
+translate Schinese updatemarcy_fa9235c7:
+
+    # "Marcy’s not the first grown woman I’ve known to accumulate baby dolls, and this isn’t even the biggest collection I’ve seen."
+    ""
+
+# game/williamroute3.rpy:6130
+translate Schinese updatemarcy_8c1c0b26:
+
+    # "The tops of the planks crunch as the hinges come off."
+    ""
+
+# game/williamroute3.rpy:6151
+translate Schinese updatemarcy_cd87a0a6:
+
+    # "There’s plenty of cobwebs, and I’m sure I see a few things crawling around the floor out of the corners of my eye."
+    ""
+
+# game/williamroute3.rpy:6202
+translate Schinese updatemarcy_5f06bd26:
+
+    # wi "\"Todd, are you sure you never saw Marcy go down to the cellar?\""
+    wi ""
+
+# game/williamroute3.rpy:6377
+translate Schinese updatemarcy_408e9901:
+
+    # "The rat glares at me and the fox’s eyebrows lift."
+    ""
+
+# game/williamroute3.rpy:6467
+translate Schinese updatemarcy_5d6eb3a0:
+
+    # wi "\"Do you know where any of your family were on those two nights?\""
+    wi ""
+
+# game/williamroute3.rpy:6599
+translate Schinese williamroute3b_4fd6f620:
+
+    # "And she was as terrified of being alone as she was terrified of being with him."
+    ""
+
+# game/williamroute3.rpy:6610
+translate Schinese williamroute3b_18a8f54b:
+
+    # gr "\"The men without character wouldn’t be allowed near their daughters in the first place.\""
+    gr ""
+
+# game/williamroute3.rpy:6634
+translate Schinese williamroute3b_985bede9:
+
+    # wi "\"I mean either she’s drugging herself, or somebody's doing it for her.\""
+    wi ""
+
+# game/williamroute3.rpy:6749
+translate Schinese williamroute3b_71ec52be:
+
+    # "And I know that Marcy and Huxley aren’t going to be the end of it."
+    ""
+
+# game/williamroute3.rpy:6850
+translate Schinese williamroute3b_d2baaff1:
+
+    # jam "\"Is this a stakeout, Sheriff?\""
+    jam ""
+
+# game/williamroute3.rpy:7000
+translate Schinese williamroute3b_dfb53dd0:
+
+    # "But then I see somebody I didn’t expect to see here."
+    ""
+
+# game/williamroute3.rpy:7123
+translate Schinese williamroute3b_196f0a17:
+
+    # jam "\"My grandfather didn’t want a manor. He wanted a citadel.\""
+    jam ""
+
+# game/williamroute3.rpy:7148
+translate Schinese williamroute3b_c75d718a:
+
+    # "Who knows what he’s added or removed to the interior?"
+    ""
+
+# game/williamroute3.rpy:7299
+translate Schinese williamroute3b_df0aa66c:
+
+    # "Nikolai puts his hands in his pockets."
+    ""
+
+# game/williamroute3.rpy:7322
+translate Schinese williamroute3b_474ae23f:
+
+    # jam "\"Please excuse my absence. I doubt it will be brief.\""
+    jam ""
+
+# game/williamroute3.rpy:7433
+translate Schinese willinvestigation2_b81220c8:
+
+    # "Nik follows me to the foyer and keeps his voice low until we get a good distance away from the hall and start to climb the stairs."
+    ""
+
+# game/williamroute3.rpy:7492
+translate Schinese willinvestigation2_dd603dad:
+
+    # wi "\"Well isn’t that partly your fault?\""
+    wi ""
+
+# game/williamroute3.rpy:7794
+translate Schinese willinvestigation2_9b9079c7:
+
+    # "Then she takes a look at me, drops the spoon, and sighs."
+    ""
+
+# game/williamroute3.rpy:7894
+translate Schinese willinvestigation2_5d1a8c04:
+
+    # "What the hell?"
+    ""
+
+# game/williamroute3.rpy:7916
+translate Schinese willinvestigation2_b317f26e:
+
+    # "Nik and Mrs. Hendricks seem to be deep in conversation when I return."
+    ""
+
+# game/williamroute3.rpy:8028
+translate Schinese willinvestigation2_897dcbe8:
+
+    # "He frowns and shakes a bit."
+    ""
+
+# game/williamroute3.rpy:8032
+translate Schinese willinvestigation2_991ed5df:
+
+    # "The outsides of his cheeks are red."
+    ""
+
+# game/williamroute3.rpy:8202
+translate Schinese willinvestigation3_032f6dea:
+
+    # "I try to open it but the door is stuck."
+    ""
+
+# game/williamroute3.rpy:8275
+translate Schinese willinvestigation3_7a193065:
+
+    # "The Byrneses are the only developers in town I know of accessible to the public, but knowing the money James has, it shouldn’t be hard to find a private developer."
+    ""
+
+# game/williamroute3.rpy:8356
+translate Schinese postwillinvestigation3_d7272041:
+
+    # mrs "\"Now that’s a downright shame.\""
+    mrs ""
+
+# game/williamroute3.rpy:8441
+translate Schinese postwillinvestigation3_fc522327:
+
+    # wi "\"Your mama’s gonna get an ear full of this the next time I see her, son.\""
+    wi ""
+
+# game/williamroute3.rpy:8477
+translate Schinese postwillinvestigation3_4e71cfac:
+
+    # "I see James show up behind Andy and Noah."
+    ""
+
+# game/williamroute3.rpy:8588
+translate Schinese postwillinvestigation3_8750cdd9:
+
+    # "I know he’s fine on his own, but I can’t help but wonder if he’s pushing himself too hard."
+    ""
+
+# game/williamroute3.rpy:9289
+translate Schinese williamroute3c_9b56e3a1:
+
+    # cl "\"Does it glow?\""
+    cl ""
+
+# game/williamroute3.rpy:9381
+translate Schinese williamroute3c_1fe8178c:
+
+    # cl "\"...A what!?\""
+    cl ""
+
+# game/williamroute3.rpy:9543
+translate Schinese williamroute3c_b659fb11:
+
+    # "Sam runs off a slurry of curses under his breath."
+    ""
+
+# game/williamroute3.rpy:9639
+translate Schinese williamroute3c_71f7ebc7:
+
+    # "His ears quirk."
+    ""
+
+# game/williamroute3.rpy:9649
+translate Schinese williamroute3c_8372ba80:
+
+    # "Because I mean to be telling lies tonight, not the partial truth."
+    ""
+
+# game/williamroute3.rpy:9650
+translate Schinese williamroute3c_35369cc0:
+
+    # "He stops pouring."
+    ""
+
+# game/williamroute3.rpy:9659
+translate Schinese williamroute3c_a986d259:
+
+    # "Harlan snorts dismissively."
+    ""
+
+# game/williamroute3.rpy:9693
+translate Schinese williamroute3c_79fc99f3:
+
+    # "An alarmed looking squirrel holding four mugs of beer in her hand looks his way."
+    ""
+
+# game/williamroute3.rpy:9701
+translate Schinese williamroute3c_19a39a68:
+
+    # "She nods quickly, and before I can speak he's lifting the latch on the bar."
+    ""
+
+# game/williamroute3.rpy:9706
+translate Schinese williamroute3c_fee00bc5:
+
+    # "He doesn't wait for me to agree, but I follow."
+    ""
+
+# game/williamroute3.rpy:9711
+translate Schinese williamroute3c_38d541b9:
+
+    # "Once I'm there, he looks at my pocket again."
+    ""
+
+# game/williamroute3.rpy:9850
+translate Schinese williamroute3c_21916de3:
+
+    # "When I open it up it just has names and dates for various people, and identifying information."
+    ""
+
+# game/williamroute3.rpy:9944
+translate Schinese williamroute3c_a6625602:
+
+    # "She hems."
+    ""
+
+# game/williamroute3.rpy:9968
+translate Schinese williamroute3c_e38bbe1c:
+
+    # "I swing one leg over the other, twisting my tail and body through the opening, and lower myself to a crouch as the door creaks open."
+    ""
+
+# game/williamroute3.rpy:10003
+translate Schinese williamroute3c_1e9b0275:
+
+    # m "\"I consider most of Cynthia’s judgments good enough to be considered what I believe, more likely than not.\""
+    m ""
+
+# game/williamroute3.rpy:10014
+translate Schinese williamroute3c_b868eb13:
+
+    # m "\"So long as I like you, Sheriff.\""
+    m ""
+
+# game/williamroute3.rpy:10105
+translate Schinese williamroute3c_7aa1fc31:
+
+    # "He looks between me and Sam again."
+    ""
+
+# game/williamroute3.rpy:10455
+translate Schinese williamroute3c_4a44b21b:
+
+    # mu "\"Hello, Sheriff.\""
+    mu ""
+
+# game/williamroute3.rpy:10757
+translate Schinese williamroute3c_cb12835d:
+
+    # m "\"Just try it, just once with me.\""
+    m ""
+
+# game/williamroute3.rpy:10910
+translate Schinese williamroute3c_739ad0d5:
+
+    # "Nik and Todd are where we left them."
+    ""
+
+# game/williamroute3.rpy:10975
+translate Schinese williamroute3c_a6d81476:
+
+    # "Todd takes this as an invitation to go, too."
+    ""
+
+# game/williamroute3.rpy:11034
+translate Schinese williamroute3c_99ff9273:
+
+    # "I only see the salamander's hand as she pushes a very glossy Mr. Tibbits out of the room and closes the door."
+    ""
+
+# game/williamroute3.rpy:11057
+translate Schinese williamroute3c_d6883f30:
+
+    # mu "\"They just got here. I didn’t have time to.\""
+    mu ""
+
+# game/williamroute3.rpy:11112
+translate Schinese williamroute3c_83e21a7f:
+
+    # "After circling the whole Hip two or three more times, Sam finds them in the powder room, which confuses us all because we think we checked there."
+    ""
+
+# game/williamroute3.rpy:11285
+translate Schinese williamroute3c_478c88bd:
+
+    # "He grins and a small groan hovers about the crowd."
+    ""
+
+# game/williamroute3.rpy:11333
+translate Schinese williamroute3c_c9d58e4d:
+
+    # m "\"He’s still upset with me, isn’t he?\""
+    m ""
+
+# game/williamroute3.rpy:11446
+translate Schinese williamroute3c_e9280923:
+
+    # "The barn has a bit of a glimmer to it when there are more lanterns and candles lit."
+    ""
+
+# game/williamroute3.rpy:11682
+translate Schinese williamroute3c_244cd33a:
+
+    # ch "\"What are you looking for, Sheriff Adler?\""
+    ch ""
+
+# game/williamroute3.rpy:11714
+translate Schinese williamroute3c_bb10f2a9:
+
+    # "As I turn to go I hear the tiger speak urgently with the sable, his voice getting slightly louder as he refuses to respond."
+    ""
+
+# game/williamroute3.rpy:11823
+translate Schinese williamroute3c_cafcb237:
+
+    # "My deputy follows the line of my gaze and gulps."
+    ""
+
+# game/williamroute3.rpy:11825
+translate Schinese williamroute3c_fc8bcd2c:
+
+    # "Then he puts both paws on his lap."
+    ""
+
+# game/williamroute3.rpy:11832
+translate Schinese williamroute3c_860326a7:
+
+    # "His voice is firm."
+    ""
+
+# game/williamroute3.rpy:11833
+translate Schinese williamroute3c_e8855bb7:
+
+    # "The unmistakable scent of excitement is coming off of him."
+    ""
+
+# game/williamroute3.rpy:11978
+translate Schinese samwill4_1cc3f3f8:
+
+    # wi "\"I think you lose something when you stop listening to your instincts.\""
+    wi ""
+
+# game/williamroute3.rpy:12301
+translate Schinese samwill5_d28f1b1e:
+
+    # "Kane chuckles."
+    ""
+
+# game/williamroute3.rpy:12320
+translate Schinese samwill5_1b6d44ab:
+
+    # "The otter clams up."
+    ""
+
+# game/williamroute3.rpy:12561
+translate Schinese willkanechoice_d78b7bb0:
+
+    # "It sounds like somebody else is finishing."
+    ""
+
+# game/williamroute3.rpy:12592
+translate Schinese willkanechoice_e6699534:
+
+    # "I just now notice Sam’s shirt is gone."
+    ""
+
+# game/williamroute3.rpy:12749
+translate Schinese willkanechoice_21a7f83f:
+
+    # ka "\"I can tell this isn’t your first time.\""
+    ka ""
+
+# game/williamroute3.rpy:12770
+translate Schinese willkanechoice_9af95af7:
+
+    # ka "\"What’s that, Sheriff?\""
+    ka ""
+
+# game/williamroute3.rpy:12777
+translate Schinese willkanechoice_320d381c:
+
+    # ka "\"He reeks like a whore just from startin' to suck just one cock.\""
+    ka ""
+
+# game/williamroute3.rpy:12838
+translate Schinese willkanechoice_8772cc72:
+
+    # "As the warm moisture sinks into my snout, so too do his lips on my tip."
+    ""
+
+# game/williamroute3.rpy:13055
+translate Schinese willkanechoice_7e6e8734:
+
+    # m "\"You alright, Deputy Bronson?\""
+    m ""
+
+# game/williamroute3.rpy:13084
+translate Schinese willkanechoice_72c54136:
+
+    # to "\"Well people can’t go doin’ that. I need my clothes to walk around in!\""
+    to ""
+
+# game/williamroute3.rpy:13085
+translate Schinese willkanechoice_72947420:
+
+    # wi "\"It’s okay. Nik is already getting some of my clothes.\""
+    wi ""
+
+# game/williamroute3.rpy:13107
+translate Schinese willkanechoice_bcfe8594:
+
+    # to "\"...yes, Sheriff.\""
+    to ""
+
+# game/williamroute3.rpy:13144
+translate Schinese willkanechoice_2151eb86:
+
+    # "Nik parts ways with us, assuring us that he’ll see us again soon."
+    ""
+
+# game/williamroute3.rpy:13175
+translate Schinese willsplitB2_9f11f200:
+
+    # m "\"You sure that’s what you really wanted?\""
+    m ""
+
+# game/williamroute3.rpy:13218
+translate Schinese willsplitB2_975add4d:
+
+    # "Then I see the back of a German shepherd’s head."
+    ""
+
+# game/williamroute3.rpy:13223
+translate Schinese willsplitB2_de24914e:
+
+    # "Because that wasn’t his name, and he isn’t really here."
+    ""
+
+# game/williamroute3.rpy:13235
+translate Schinese willsplitB2_623768af:
+
+    # wi "\"Somebody from my old home who I used to know.\""
+    wi ""
+
+# game/williamroute3.rpy:13332
+translate Schinese skipkane_6a1e4ae6:
+
+    # ni "\"You would have done the same to me if something was obviously wrong and you withheld it!\""
+    ni ""
+
+# game/williamroute3.rpy:13340
+translate Schinese skipkane_be385235:
+
+    # "Nikolai’s fist pounds the table." with vpunch
+    "" with vpunch
+
+# game/williamroute3.rpy:13342
+translate Schinese skipkane_b9e64693:
+
+    # "Some of the other bar patrons are looking our way."
+    ""
+
+# game/williamroute3.rpy:13344
+translate Schinese skipkane_9bb3bf59:
+
+    # "The barkeep delivers Sam’s beer."
+    ""
+
+# game/williamroute3.rpy:13494
+translate Schinese skipkane_3d75842e:
+
+    # wi "\"So do the both of you feel better now that you’ve spoken your piece?\""
+    wi ""
+
+# game/williamroute3.rpy:13502
+translate Schinese skipkane_c067b5c0:
+
+    # ni "\"At least before I move to Payton.\""
+    ni ""
+
+# game/williamroute3.rpy:13681
+translate Schinese skipkane_983b4199:
+
+    # m "\"But why should we waste any of the time we might have on people who couldn’t care less if we were all dead?\""
+    m ""
+
+# game/williamroute3.rpy:13733
+translate Schinese skipkane_34875191:
+
+    # wi "\"Since when has that ever stopped you from sharing?\""
+    wi ""
+
+# game/williamroute3.rpy:13736
+translate Schinese skipkane_19f0f5fc:
+
+    # "Nik elbows me and I feel a little bit of wind knocked out of me." with hpunch
+    "" with hpunch
+
+# game/williamroute3.rpy:13776
+translate Schinese skipkane_6e12435d:
+
+    # ni "\"It makes me wonder how many of us there are who do but never really say it.\""
+    ni ""
+
+# game/williamroute3.rpy:13807
+translate Schinese swn_95bae8fc:
+
+    # wi "\"Anybody’s cock?\""
+    wi ""
+
+# game/williamroute3.rpy:13869
+translate Schinese swn_a3d09ef8:
+
+    # "It’s strange to see Nik do this to Sam, even knowing he always has been Sam's client."
+    ""
+
+# game/williamroute3.rpy:14000
+translate Schinese swn_389aa0a0:
+
+    # wi "\"I’m just saying that I wouldn’t much mind that either so long as it’s not killin’ me.\""
+    wi ""
+
+# game/williamroute3.rpy:14029
+translate Schinese swn_33db0741:
+
+    # "I just scoot close to Sam who’s lying on a patch of dirt, put my head between his legs, and slip his warm, thick shaft into my mouth."
+    ""
+
+# game/williamroute3.rpy:14031
+translate Schinese swn_b7dcb7b5:
+
+    # "The sweat of Sam’s balls still commingles with Nik’s breath."
+    ""
+
+# game/williamroute3.rpy:14036
+translate Schinese swn_ecf9d0c6:
+
+    # "A sudden chemical smell fills the air. And like a chain reaction, Samuel’s legs begin to shake."
+    ""
+
+# game/williamroute3.rpy:14039
+translate Schinese swn_976b5e60:
+
+    # "The tightness in my balls draws tighter and tighter as Nik’s mouth swallows as much of me as he can."
+    ""
+
+# game/williamroute3.rpy:14052
+translate Schinese swn_f5c8b6ec:
+
+    # "It's Sam who has woken me."
+    ""
+
+# game/williamroute3.rpy:14076
+translate Schinese swn_a2805246:
+
+    # m "\"We shouldn't be sleepin' outside like this.\""
+    m ""
+
+# game/williamroute3.rpy:14117
+translate Schinese swndecline_a2d0b29d:
+
+    # wi "\"That’s just how things shake out sometimes.\""
+    wi ""
+
+# game/williamroute3.rpy:14215
+translate Schinese marcymerge_66648880:
+
+    # "Even without my watch, I can tell we've arrived at the cottage sometime after two PM and before sundown."
+    ""
+
+# game/williamroute3.rpy:14719
+translate Schinese marcymerge_324babf1:
+
+    # "Her eyes widen as her mouth breaks into a smile."
+    ""
 

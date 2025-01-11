@@ -40,7 +40,7 @@ translate Schinese commonroute_19fc7758:
 translate Schinese commonroute_0b32187b:
 
     # "I'm just tired..."
-    "我只是...好累..."
+    "我真的...好累..."
 
 # game/commonroute.rpy:14
 translate Schinese commonroute_b5553ef5:
@@ -352,13 +352,13 @@ translate Schinese commonroute_bba2e1f9:
 translate Schinese commonroute_166e2c80:
 
     # cy "\"Oh stop being so down all the time. Besides, we're uh, talking about you—\""
-    cy "“噢，别老是这么沮丧。再说了，我们，呃，正在讨论你──”"
+    cy "“别总是一幅阴沉的样子啦。再说了，我们，呃，正在讨论你-”"
 
 # game/commonroute.rpy:78
 translate Schinese commonroute_1f840ec3:
 
     # "That perks my ears up."
-    "我的耳朵立了起来。"
+    "我竖起耳朵。"
 
 # game/commonroute.rpy:79
 translate Schinese commonroute_fdcfd18e:
@@ -370,67 +370,67 @@ translate Schinese commonroute_fdcfd18e:
 translate Schinese commonroute_bfbd0731:
 
     # cy "\"Well, you know, there's this weasel in town. He's from Batavia and apparently he's made an appointment here!\""
-    cy "“这个嘛，你知道镇上有只鼬吧，来自{rb}巴达维亚{/rb}{rt}Batavia{/rt}那只。据说他在这里预约了！”"
+    cy "“你知道镇上那只鼬吧，来自{rb}巴达维亚{/rb}{rt}Batavia{/rt}那只。据说他在这里预约了！”"
 
 # game/commonroute.rpy:83
 translate Schinese commonroute_50a5dca6:
 
     # "The fox bounces up and down excitedly, paws up to her muzzle."
-    "这只狐狸兴奋地上下摇摆，把爪子捂在了嘴边。"
+    "狐狸双手捂嘴，兴奋地上下抖动。"
 
 # game/commonroute.rpy:84
 translate Schinese commonroute_d92013fd:
 
     # m "\"So what?\""
-    m "“那又怎么样？”"
+    m "“那又怎样？”"
 
 # game/commonroute.rpy:86
 translate Schinese commonroute_4a469786:
 
     # cy "\"Oh Sam. As I said, he's from Batavia, and...he made the appointment with you.\""
-    cy "“噢，Sam。首先，他来自巴达维亚。其次...他的预约对象是你。”"
+    cy "“哎呀，Sam，首先他来自巴达维亚，其次...他的对象是你。”"
 
 # game/commonroute.rpy:88
 translate Schinese commonroute_fb923c94:
 
     # "I bristle."
-    "我的毛激了起来。"
+    "我的毛立了起来。"
 
 # game/commonroute.rpy:89
 translate Schinese commonroute_1ddd870b:
 
     # m "\"How do you know that?\""
-    m "“你怎么知道的？”"
+    m "“你是怎么知道的？”"
 
 # game/commonroute.rpy:91
 translate Schinese commonroute_ee783a59:
 
     # cy "\"Well, {i}I{/i} didn't look at the list. I would never...but Gabriel did.\""
-    cy "“啊，{b}我{/b}没有看那个名单，我永远不会的...不过Gabriel看了。”"
+    cy "“这个嘛，{b}我{/b}是肯定不会偷看名单的...不过Gabriel看了。”"
 
 # game/commonroute.rpy:93
 translate Schinese commonroute_bfbf4a6c:
 
     # "The fox grins again, and I push my paws to my face, sighing in frustration."
-    "狐狸又咧开嘴笑了，我用爪子捂住脸，沮丧地叹了口气。"
+    "狐狸又咧开嘴笑了，我用手捂住脸，沮丧地叹了口气。"
 
 # game/commonroute.rpy:94
 translate Schinese commonroute_fbde89b0:
 
     # m "\"You know how much trouble you could get into for that? You'd lose me my whole business if it got out that you guys are snoopin' on my clients.\""
-    m "“你们知道自己会为此惹上多大麻烦吗？如果被发现你们窥探我的客户，我的生意就全毁了。”"
+    m "“你们真是看热闹不嫌事大，要是客户的隐私被泄露出去，我就得卷铺盖走人了。”"
 
 # game/commonroute.rpy:95
 translate Schinese commonroute_5f6a25de:
 
     # "Not that it matters anymore."
-    "倒也无所谓了。"
+    "不过也无所谓了。"
 
 # game/commonroute.rpy:97
 translate Schinese commonroute_8cc868ab:
 
     # cy "\"Again, it wasn't me that did it, and it was a one-time thing to see who was getting the weasel. We didn't expect it to be you.\""
-    cy "“再说一遍，不是我干的，而且只有这一次。我们想知道谁会得到那只白鼬，没想到是你。”"
+    cy "“强调一下，不是我干的，而且这次是个例外。我们都很好奇谁会得到那只白鼬的青睐，没想到是你。”"
 
 # game/commonroute.rpy:98
 translate Schinese commonroute_4b83e202:
@@ -448,7 +448,7 @@ translate Schinese commonroute_e515ea5f:
 translate Schinese commonroute_d8bf8baf:
 
     # cy "\"Now come downstairs.\""
-    cy "“现在，下楼去吧。”"
+    cy "“现在下楼去吧。”"
 
 # game/commonroute.rpy:102
 translate Schinese commonroute_3f739ce1:
@@ -460,43 +460,43 @@ translate Schinese commonroute_3f739ce1:
 translate Schinese commonroute_cc626e99:
 
     # m "\"No, I'm headin' out for the night. This room's too stuffy. Think the evenin' air will do me some good.\""
-    m "“不了，我要出去散步。这个房间太闷了，我想晚上的空气会让我好受些。”"
+    m "“不了，我想出去散个步。这房间太闷了，也许夜晚的空气会让我好受些。”"
 
 # game/commonroute.rpy:105
 translate Schinese commonroute_77ae5dba:
 
     # "Cynthia gives me a look, one that I've seen more than I can count."
-    "Cynthia看了我一眼，用那种我数不清有过多少次的眼神。"
+    "Cynthia看了我一眼，用那种我见过无数次的眼神。"
 
 # game/commonroute.rpy:106
 translate Schinese commonroute_1cc2a7dd:
 
     # cy "\"Fine, but you should try to show your face around more often; that's the first step to building your clientèle.\""
-    cy "“好吧，不过你应该尽量多露露面，这是收获客户的第一步。”"
+    cy "“好吧，不过你应该多露面才对，这是收获顾客的第一步。”"
 
 # game/commonroute.rpy:107
 translate Schinese commonroute_0fc889d5:
 
     # "She tells me this like I haven't heard it a thousand times before...but again, it doesn't really matter now."
-    "她说得好像不是第一千遍告诉我似的...不过，这真的已经无所谓了。"
+    "天晓得我听了多少遍这句话...不过没关系。"
 
 # game/commonroute.rpy:108
 translate Schinese commonroute_f02b8378:
 
     # m "\"You know mine are different. They find {i}me{/i}.\""
-    m "“你知道，我不一样。 是他们找上{i}我{/i}的。”"
+    m "“我们不一样，我的顾客会自己找上{b}我{/b}。”"
 
 # game/commonroute.rpy:109
 translate Schinese commonroute_ae5e5d0f:
 
     # "I can tell I'm wearing the fox out, and in her buzzed state, she gives up on me quicker than usual."
-    "可以看出来这只狐狸对此已经有些厌倦了，再加上她兴奋的状态，她比平时更快放过了我。"
+    "看得出来这只狐狸已经有点厌倦了，再加上醉醺醺的状态，她很快便不再纠缠我。"
 
 # game/commonroute.rpy:111
 translate Schinese commonroute_18e7a05c:
 
     # cy "\"Well, I'm going back downstairs. You're always welcome to join us. Believe it or not, most of us like you.\""
-    cy "“好吧，我要回楼下去了，随时欢迎你加入。信不信由你，我们大多数都很喜欢你的。”"
+    cy "“那好吧，我回去了，你想加入的话随时欢迎。信不信由你，姐妹们还是很喜欢你的。”"
 
 # game/commonroute.rpy:112
 translate Schinese commonroute_8ce72f0c:
@@ -508,7 +508,7 @@ translate Schinese commonroute_8ce72f0c:
 translate Schinese commonroute_144ff281:
 
     # "As she's about to turn the corner, I suddenly remember how this might be the last time I ever see her."
-    "当她即将从拐角离开的时候，我突然想到这也许会是我最后一次见到她。"
+    "当她即将从拐角离开的时候，我突然意识到这或许是我们最后一次见面。"
 
 # game/commonroute.rpy:114
 translate Schinese commonroute_73eb772f:
@@ -520,13 +520,13 @@ translate Schinese commonroute_73eb772f:
 translate Schinese commonroute_1334d82e:
 
     # "I blurt it out awkwardly, not used to saying it."
-    "我笨拙地脱口而出，我不习惯这么说。"
+    "我不自觉地说了出来，却又因此而感到尴尬。"
 
 # game/commonroute.rpy:117
 translate Schinese commonroute_f8aeebe8:
 
     # "And Cynthia's not used to hearing it, based on how she leans back around the door frame, a confused look on her face."
-    "从Cynthia靠在门框上，一脸疑惑的表情来看，她同样不习惯听到。"
+    "从Cynthia靠在门框上，一脸疑惑的表情来看，她同样不习惯听到这些话。"
 
 # game/commonroute.rpy:119
 translate Schinese commonroute_a5cf47f0:
@@ -538,19 +538,19 @@ translate Schinese commonroute_a5cf47f0:
 translate Schinese commonroute_6eb52607:
 
     # "I curse myself for sounding so damn suspicious, but I keep a straight face, shrugging."
-    "我暗中咒骂着听起来这么可疑的自己，绷起脸，耸了耸肩。"
+    "我暗中咒骂自己表现得这么可疑，然后绷起脸，耸了耸肩。"
 
 # game/commonroute.rpy:121
 translate Schinese commonroute_0e5dac74:
 
     # m "\"Like I said, it's stuffy in here, makes me feel like I'm goin' crazy...but thanks for makin' an effort.\""
-    m "“就像我说的，这里闷到我快要发疯了...不过还是谢谢你的尝试。”"
+    m "“我不是说了吗，这破地方闷得我快要发疯了...不过还是谢谢你的邀请。”"
 
 # game/commonroute.rpy:123
 translate Schinese commonroute_51987788:
 
     # cy "\"Sure Sam. Stay safe on those streets.\""
-    cy "“没什么，Sam。在街上注意安全。”"
+    cy "“别客气，Sam，在街上注意安全。”"
 
 # game/commonroute.rpy:124
 translate Schinese commonroute_011d6512:
@@ -562,19 +562,19 @@ translate Schinese commonroute_011d6512:
 translate Schinese commonroute_cb44b2d0:
 
     # "Cynthia disappears behind the door frame, and I realize that I'm sad to see her go."
-    "Cynthia消失在了门框后面。看到她离开了，我意识到自己很难过。"
+    "Cynthia消失在了门后，此时此刻，我心中才涌现出一股酸楚。"
 
 # game/commonroute.rpy:127
 translate Schinese commonroute_65888baf:
 
     # "She's one of the few people I'm gonna miss here, aside from a few of my clients."
-    "除了我的几个客户以外，她是这里为数不多我会想念的人。"
+    "除了几个顾客外，她是这里为数不多我舍不得的人。"
 
 # game/commonroute.rpy:128
 translate Schinese commonroute_bd79086a:
 
     # "I shove the few bits of clothing and belongings I have into an old knapsack I found on the side of the road a few months ago."
-    "我把仅有的几件衣服和物品，塞进几个月前在路边发现的一个旧背包里。"
+    "我把仅有的几件衣服和杂物塞进几个月前从路边捡到的旧背包里。"
 
 # game/commonroute.rpy:129
 translate Schinese commonroute_c50ac222:
@@ -586,139 +586,139 @@ translate Schinese commonroute_c50ac222:
 translate Schinese commonroute_969326d9:
 
     # "It'll make what I'm about to do a hell of a lot easier."
-    "这会让我接下来做的事轻松不少。"
+    "这会让接下来的事轻松不少。"
 
 # game/commonroute.rpy:132
 translate Schinese commonroute_477cf541:
 
     # "With that, I carefully make my way down the stairs, listening to my chattering coworkers as I turn the corner and take the back exit through the empty kitchen."
-    "就这样，我轻手轻脚地走下楼梯。一边听着同事们的喋喋不休，一边拐过一个拐角，穿过空荡荡的厨房，从后门走了出去。"
+    "就这样，我在同事们喋喋不休的说话声中蹑手蹑脚地走下楼梯，拐过一道弯，穿越空荡荡的厨房，从后门离开了。"
 
 # game/commonroute.rpy:136
 translate Schinese commonroute_93150042:
 
     # "It's that time of night that the typical crowds of the day switch out for the typical crowds of the night."
-    "现在正是一个特定的时刻：白天典型的人群切换成夜晚典型的人群。"
+    "夜幕降临，白天的人群切换成为夜晚的人群。"
 
 # game/commonroute.rpy:137
 translate Schinese commonroute_9c9bc2fe:
 
     # "Men talk and shout in little clustered groups in front of the saloons that don't bother with the Sunday Law."
-    "雄性们在那些压根不在乎主日法令的酒吧前三五成群，交谈着、喊叫着。"
+    "男人们在不受星期日法令约束的酒馆前三五成群，交谈着、喧哗着。"
 
 # game/commonroute.rpy:138
 translate Schinese commonroute_c7fc53b2:
 
     # "The streetwalkers stand in alleys and doorways, waiting for any of the drunk men wandering the streets to notice them."
-    "妓女们站在小巷与门口，等待着被在街上游荡的醉汉们注意到。"
+    "妓女们则站在小巷和酒馆门前，等待着醉汉们的光顾。"
 
 # game/commonroute.rpy:139
 translate Schinese commonroute_73f8e77f:
 
     # "The lowest of the low, and even if I managed to find a spot in the most reputable brothel in town, I still feel like I'm one of them."
-    "她们的身份是最低贱的，虽然我设法在镇上最有名的妓院得到了一席之地，但始终觉得自己是她们中的一员。"
+    "她们的身份是最最低贱的，虽然我设法在享誉全镇的妓院里获得了自己的一席之地，却也和她们没什么两样。"
 
 # game/commonroute.rpy:140
 translate Schinese commonroute_2e844220:
 
     # "I walk quickly through the streets, head down, paws in my pockets, the way I always walk."
-    "我匆匆穿过街道，低下头，把爪子插在口袋里──这是我一贯的走路方式。"
+    "我行色匆匆地走在街上，低下头，两手揣兜：这是我一贯的走路方式。"
 
 # game/commonroute.rpy:141
 translate Schinese commonroute_2a9952df:
 
     # "It usually keeps attention away, even with my attention-grabbing white fur."
-    "这样一般不会引起什么关注，即便我有着引人注目的白色皮毛。"
+    "这样可以避免引起多余的关注，即使我长着一身惹人注目的白色皮毛。"
 
 # game/commonroute.rpy:142
 translate Schinese commonroute_7e3049ca:
 
     # "I look up a few times, trying to make sure I'm heading in the right direction, not used to this part of town."
-    "我不时抬头瞥几眼，确定自己的方向是正确的，我不习惯这部分区域。"
+    "我不时抬头瞥一眼方向，因为我很少过来这里。"
 
 # game/commonroute.rpy:143
 translate Schinese commonroute_06af4db0:
 
     # "Jack had wanted me to meet him near the mine since he apparently needs me to help him with something before we hop the midnight train."
-    "Jack希望我在矿井附近和他会面。显然，在我们跳上午夜的火车前，他需要我帮他做些什么。"
+    "Jack约我在矿井附近和他碰面。很显然，在我们跳上午夜的火车前，他需要我帮他做些什么。"
 
 # game/commonroute.rpy:144
 translate Schinese commonroute_6e3163e3:
 
     # "I feel a little thrill in my chest at the idea that by sunrise, Echo will be far behind me."
-    "一想到日出时，回音镇就会被远远甩在身后，我感觉胸膛中洋溢着一丝激动。"
+    "一想到日出时，回音镇就会被远远甩在身后，我胸中洋溢着激动之情。"
 
 # game/commonroute.rpy:145
 translate Schinese commonroute_e772f4e1:
 
     # "On my way to a life on the west coast where I can start over the right way."
-    "我要搬去西海岸，在那里，我可以重新走上正确的道路。"
+    "我要搬去西海岸，在那里，我可以开始全新的生活。"
 
 # game/commonroute.rpy:146
 translate Schinese commonroute_63f42014:
 
     # "I actually have to stop myself from skipping, excited for the first time since I started planning all this."
-    "实际上，我必须强忍自己不蹦跳着走路。这是我开始计划这一切以来，头一次这么兴奋。"
+    "事实上，我必须强忍住自己欢快的步伐，这是我自计划开始以来头一回这么兴奋。"
 
 # game/commonroute.rpy:147
 translate Schinese commonroute_c761944a:
 
     # "I still feel guilty leaving everyone behind; Madam Dora for giving me a place to stay and work, William and Nik for just listening to me, Cynthia for being a friend..."
-    "不过我还是为抛下了所有人而感到自责：Dora夫人给了我一个工作和生活的地方，William和Nik是我倾诉的对象，Cynthia是我的朋友..."
+    "不过我还是为抛下了他们而感到自责：Dora夫人给了我工作和住所，William和Nik是我倾诉的对象，Cynthia是我的朋友..."
 
 # game/commonroute.rpy:148
 translate Schinese commonroute_352a5d32:
 
     # "But everyone gets their chance to get out of this town someday, and this is my chance."
-    "但是，每个人迟早都有机会离开这座小镇，而现在就是我的机会。"
+    "但没有人不想离开这座小镇，而现在就是我的机会。"
 
 # game/commonroute.rpy:149
 translate Schinese commonroute_135189b8:
 
     # "If you miss that chance, then you miss it...then you're stuck."
-    "如果错过那个机会，那就真的错过了...然后你就会深陷于此。"
+    "一旦错过那个机会...恐怕就再也没有办法了。"
 
 # game/commonroute.rpy:150
 translate Schinese commonroute_7ad5270a:
 
     # "At least that's what I've been told about this place."
-    "至少我听其他人这样描述这个地方。"
+    "至少其他人是这样说的。"
 
 # game/commonroute.rpy:152
 translate Schinese commonroute_81856177:
 
     # "True or not, I'm not gonna miss mine."
-    "不管是真是假，我不会错过我的。"
+    "不管是真是假，我不想错过我的机会。"
 
 # game/commonroute.rpy:156
 translate Schinese commonroute_60b2481e:
 
     # "The buildings become fewer as I get closer to the mine, the dirt road becoming harder to discern from the sagebrush-covered wilderness."
-    "越靠近矿井，建筑物就越稀少，土路也越来越难从山艾丛生的荒野里分辨出来。"
+    "越靠近矿井，建筑物就越稀少，荒野中丛生的灌木几乎覆盖了整条路。"
 
 # game/commonroute.rpy:157
 translate Schinese commonroute_ecea6939:
 
     # "I feel better though, being away from all the light and the people."
-    "不过，远离了所有的灯光和人群，我感觉很好。"
+    "不过我喜欢这远离灯光和人群的感觉。"
 
 # game/commonroute.rpy:158
 translate Schinese commonroute_46bb7d64:
 
     # "Makes me feel protected somehow."
-    "莫名让我有一种受到保护的感觉。"
+    "莫名有安全感。"
 
 # game/commonroute.rpy:159
 translate Schinese commonroute_101e5c32:
 
     # "But there is a small light ahead of me, and I know right away that it's Jack with his lantern, right where he said he'd be."
-    "前方出现了一个亮点，就在他说过的那个位置，我也马上知道那是Jack的提灯。"
+    "前方出现了一个亮点，就在他说过的那个位置，我马上察觉到那是Jack的提灯。"
 
 # game/commonroute.rpy:160
 translate Schinese commonroute_7de5d76b:
 
     # "Relief floods through me, having had suspicions that I'd been duped somehow up until this point."
-    "在此刻，我从自己也许被骗了的怀疑中解脱出来。"
+    "我终于从被欺骗的怀疑中解脱了出来。"
 
 # game/commonroute.rpy:161
 translate Schinese commonroute_50358a7e:
@@ -736,7 +736,7 @@ translate Schinese commonroute_a4958f79:
 translate Schinese commonroute_d5544b76:
 
     # "His expression is infectious, so I smile back sheepishly, raising a paw."
-    "他的表情十分富有感染力，于是我也不好意思地回了个笑容，举起一只爪子。"
+    "他的表情十分富有感染力，于是我也不好意思地回了个微笑，举起一只手。"
 
 # game/commonroute.rpy:164
 translate Schinese commonroute_0459514c:
@@ -748,55 +748,55 @@ translate Schinese commonroute_0459514c:
 translate Schinese commonroute_29b75f42:
 
     # ja "\"Howdy, Sam! How are ya this fine evenin'?\""
-    ja "“好呀，Sam！今晚过得怎么样？”"
+    ja "“呦，Sam！今晚过得怎么样？”"
 
 # game/commonroute.rpy:167
 translate Schinese commonroute_37f05e71:
 
     # m "\"Better now that I'm out of that pit.\""
-    m "“从那个陷阱里出来后，感觉好多了。”"
+    m "“比在那个窑子里好。”"
 
 # game/commonroute.rpy:168
 translate Schinese commonroute_2b253b7a:
 
     # "The older man claps me on the back hard, and even though he's a good deal smaller and less muscular than I am, it almost makes me stumble."
-    "这个年长的家伙使劲拍了拍我的后背，差点让我摔倒。尽管他的体型比我小得多，肌肉也没有我发达。"
+    "这个年长的家伙使劲拍了拍我的后背，差点害我摔倒，尽管他的体型比我小得多，肌肉也没有我发达。"
 
 # game/commonroute.rpy:169
 translate Schinese commonroute_b3adb9d9:
 
     # ja "\"And you'll never have to go back again! How does that feel?\""
-    ja "“还有你再也不用回去了！感觉如何啊？”"
+    ja "“反正你再也不用回去了！感觉如何啊？”"
 
 # game/commonroute.rpy:170
 translate Schinese commonroute_a5e8d1c4:
 
     # "I take a deep breath."
-    "我深吸了一口气。"
+    "我深吸一口气。"
 
 # game/commonroute.rpy:171
 translate Schinese commonroute_e656eebc:
 
     # m "\"Good, I think. I don't really know yet.\""
-    m "“现在还不清楚，不过我想挺好的。”"
+    m "“很复杂，不过我想总归是好的。”"
 
 # game/commonroute.rpy:172
 translate Schinese commonroute_097d0257:
 
     # ja "\"That's normal. I've done it a few times myself. Hopefully this'll be the last time now that I got myself a partner!\""
-    ja "“正常。我自己也干过几次。现在我有个伴了，希望这会是最后一次。”"
+    ja "“正常。这活儿我自己干过几次，现在有个伴了，希望一切顺利吧！”"
 
 # game/commonroute.rpy:173
 translate Schinese commonroute_3bce1f45:
 
     # "The paw on my back moves to wrap around my side, pulling me in to a side hug."
-    "背上的爪子绕过我的身体，把我拉了过去，从侧面抱住了我。"
+    "背上的手绕过我的身体，把我拉了过去，从侧面抱住了我。"
 
 # game/commonroute.rpy:174
 translate Schinese commonroute_00200b14:
 
     # "I feel my spirits lifting a bit."
-    "我感觉自己振作了一些。"
+    "我感觉自己振作了些。"
 
 # game/commonroute.rpy:175
 translate Schinese commonroute_7253d8a0:
@@ -1018,7 +1018,7 @@ translate Schinese commonroute_b3ad216e:
 translate Schinese commonroute_01781c68:
 
     # ja "\"Who the hell knows!? But listen, there's a bag of the stuff. I think it's enough to, well...let us live rich for the rest of our lives. Like, REAL rich.\""
-    ja "“谁知道！？不过听着，我想一袋那东西就足够，嗯...足够我们下辈子过上有钱人的生活了。──非常──有钱。”"
+    ja "“谁知道？！不过听着，我想一袋那东西就足够，嗯...足够咱们下辈子过上有钱人的生活了。非常非常有钱。”"
 
 # game/commonroute.rpy:212
 translate Schinese commonroute_d9546968:
@@ -1036,7 +1036,7 @@ translate Schinese commonroute_eb0af119:
 translate Schinese commonroute_157481d1:
 
     # "How could anyone?"
-    "会有人敢信吗？"
+    "会有人信吗？"
 
 # game/commonroute.rpy:215
 translate Schinese commonroute_68d33dd1:
@@ -1048,19 +1048,19 @@ translate Schinese commonroute_68d33dd1:
 translate Schinese commonroute_69478730:
 
     # "Not just move to the coast, but move there and live rich."
-    "不只是搬到海边，而且是富裕地生活在那里。"
+    "不只是搬到海边，还有富裕的生活。"
 
 # game/commonroute.rpy:217
 translate Schinese commonroute_ce428115:
 
     # "It's something I'd never even considered."
-    "这是我从来都没有想过的。"
+    "这是我想都不敢想的。"
 
 # game/commonroute.rpy:218
 translate Schinese commonroute_85eb14d6:
 
     # "I'm quiet until Jack takes a left turn, off of the path and into the brush even though the entrance of the mine is 100 feet straight ahead of us."
-    "我安静地看着Jack左转，离开小路走进灌木丛中，尽管矿井的入口在距离我们一百英尺的前方。"
+    "我安静地看着Jack左转，离开小路走进灌丛中，尽管矿井的入口在距离我们一百英尺的前方。"
 
 # game/commonroute.rpy:219
 translate Schinese commonroute_94012a2b:
@@ -1078,13 +1078,13 @@ translate Schinese commonroute_0fb87515:
 translate Schinese commonroute_9c3d62ce:
 
     # ja "\"Come on, boy! We don't got much time.\""
-    ja "“跟上，伙计！我们时间不多了。”"
+    ja "“快跟上，小子！时间不等人啊。”"
 
 # game/commonroute.rpy:222
 translate Schinese commonroute_a2dc4bee:
 
     # "I hesitate, then force myself forward, cursing as I start stepping on the sharp stones hidden beneath the sagebrush."
-    "我犹豫了一下，然后强迫自己走了过去，一边在心里诅咒脚下那些隐藏在艾灌丛中的尖锐石子。"
+    "我犹豫了一下，然后强迫自己走过去，一边在心里诅咒脚下那些隐藏在艾灌丛中的尖锐石子。"
 
 # game/commonroute.rpy:223
 translate Schinese commonroute_3673caf4:
@@ -1096,25 +1096,25 @@ translate Schinese commonroute_3673caf4:
 translate Schinese commonroute_e7bb0b8e:
 
     # ja "\"Ya see—\""
-    ja "“瞧着吧──”"
+    ja "“瞧好吧─”"
 
 # game/commonroute.rpy:225
 translate Schinese commonroute_9649444a:
 
     # "Jack starts moving up the side of the big hill that the mine entrance is attached too, the slanted ground adding to the treachery of walking blindly through the wilderness."
-    "Jack开始沿着矿井入口侧面的山坡向上移动，倾斜的地面为在荒野中摸黑行走增添了不少变节。"
+    "Jack开始沿着矿井入口侧面的山坡向上移动，倾斜的地面为在荒野中摸黑行走增添了不少意外因素。"
 
 # game/commonroute.rpy:226
 translate Schinese commonroute_d09b0662:
 
     # ja "\"There are still miners in the main stretch of the mine, even though it's Sunday. This is why I left it there until now; we're gonna grab it and get the hell outta town before anyone can get their dirty paws on it.\""
-    ja "“虽然今天是星期日，不过主矿区依然有矿工在，所以我才把这事儿留到现在。我们得赶在任何人的脏爪子前把它们拿走，然后离开这个该死的镇子。”"
+    ja "“虽然今天是周日，不过主矿区还有矿工在，所以我才选在这个点儿。咱们可得先下手为强，然后离开这该死的镇子。”"
 
 # game/commonroute.rpy:227
 translate Schinese commonroute_2d6ee573:
 
     # m "\"Oh.\""
-    m "“噢。”"
+    m "“哦。”"
 
 # game/commonroute.rpy:228
 translate Schinese commonroute_a89e16ea:
@@ -6725,5 +6725,105 @@ translate Schinese commonroute_33983817:
 translate Schinese commonroute_7f85451f:
 
     # "Obsession can easily lead to heartbreak... and violence."
-    "痴迷很容易导致心碎...和暴力。"
+    "痴迷容易导致心碎...和暴力。"
+
+# TODO: Translation updated at 2024-10-12 17:46
+
+# game/commonroute.rpy:1123
+translate Schinese commonroute_9749a8e2:
+
+    # re "\"I’m not paying another fucking fine. Let’s get out of here before we’re recognized. I like booze better than I hate candy asses.\""
+    re "“我可不想再他妈交罚金了。趁还没被认出来，咱们快溜吧。比起一个窝囊废，我更愿意和酒打交道。”"
+
+# TODO: Translation updated at 2025-01-11 03:11
+
+# game/commonroute.rpy:26
+translate Schinese commonroute_df5de8f0:
+
+    # "I move around quietly. For some reason the idea of what I'm about to do makes me feel like I gotta keep it all secret."
+    ""
+
+# game/commonroute.rpy:30
+translate Schinese commonroute_c916811e:
+
+    # "It's mostly quiet. I can hear the girls laughing and talking a ways away, probably down in the empty saloon."
+    ""
+
+# game/commonroute.rpy:43
+translate Schinese commonroute_6a970a45:
+
+    # "I kneel there on the floor, looking at the one gold eagle and the two double eagles resting on my palm pad."
+    ""
+
+# game/commonroute.rpy:74
+translate Schinese commonroute_aae5ea38:
+
+    # cy "\"I'll remember next time. Anyway come on down. We're all having such a good time!\""
+    cy ""
+
+# game/commonroute.rpy:184
+translate Schinese commonroute_fb76765f:
+
+    # ja "\"Ha! Not carryin' much, are ya? No worries. We'll build a life for ya soon enough. And the money?\""
+    ja ""
+
+# game/commonroute.rpy:185
+translate Schinese commonroute_7e4d737a:
+
+    # "I pause, almost panicking because I forget for just a second where I put the coins. Then I shove a paw into my pocket and pull them out."
+    ""
+
+# game/commonroute.rpy:210
+translate Schinese commonroute_a7ad8e9a:
+
+    # "Jack starts walking up the path toward the mine and I'm left staring after him for a few seconds before I quickly start to follow, trying to find words to say."
+    ""
+
+# game/commonroute.rpy:227
+translate Schinese commonroute_3ae6e8d2:
+
+    # "Jack starts moving up the side of the big hill that the mine entrance is attached to, the slanted ground adding to the treachery of walking blindly through the wilderness."
+    ""
+
+# game/commonroute.rpy:247
+translate Schinese commonroute_8f9074a7:
+
+    # ja "\"Few of the others know. Just had to talk to 'em.\""
+    ja ""
+
+# game/commonroute.rpy:656
+translate Schinese commonroute_b23b39dd:
+
+    # "...but I'm not alright. I can feel it in my chest."
+    ""
+
+# game/commonroute.rpy:657
+translate Schinese commonroute_6246181e:
+
+    # "I killed a man in that mine. That's bad enough..."
+    ""
+
+# game/commonroute.rpy:1002
+translate Schinese commonroute_b27f7fce:
+
+    # "There's danger in the hare’s tone."
+    ""
+
+# game/commonroute.rpy:1005
+translate Schinese commonroute_2b833092:
+
+    # "The wolf flinches from the sudden snap, but he shakes it off."
+    ""
+
+# game/commonroute.rpy:1052
+translate Schinese commonroute_21d04443:
+
+    # cl "\"Again, I didn’t mean to argue or create a scene. I truly thought my source was reliable. They said The Saguaro’s Hip could cater to dandy curiosities.\""
+    cl ""
+
+# game/commonroute.rpy:1232
+translate Schinese commonroute_76509049:
+
+    # "Murdoch looks away, appearing not to listen, and busies himself with his camera. He takes a snapshot of a few of the gathered crowds."
+    ""
 

@@ -13601,3 +13601,343 @@ translate Schinese sw2_7cba14a6:
     # wi "\"But some of the days I miss look an awful lot like this one. \""
     wi "“但是今天足以与其媲美了。”"
 
+# TODO: Translation updated at 2024-10-12 17:46
+
+# game/williamroute2.rpy:159
+translate Schinese williamroute2_ad401faf:
+
+    # m "\"{cps=25}Well, I suppose, but if he hadn’t—{w=0.3}{nw}"
+    m "“{cps=25}这，也许吧，但如果他没──{nw}"
+
+# game/williamroute2.rpy:381
+translate Schinese williamroute2_956645e5:
+
+    # cy "\"Don’t forget the shopping li—\""
+    cy "“别忘了带上购-”"
+
+# game/williamroute2.rpy:578
+translate Schinese williamroute2_b02babcc:
+
+    # wi "\"Todd, what the—\""
+    wi "“Todd，搞什-”"
+
+# game/williamroute2.rpy:675
+translate Schinese williamroute2_f6573476:
+
+    # m "\"Oh, I don’t need noth—\""
+    m "“噢，我什么也不─”"
+
+# game/williamroute2.rpy:1601
+translate Schinese after_sw1_647e774e:
+
+    # m "\"Bad shit happens all the time here. That shouldn’t get in the way of—\""
+    m "“这里每天都会发生各种破事儿，别见怪─”"
+
+# game/williamroute2.rpy:1952
+translate Schinese after_sw1_345ce45e:
+
+    # m "\"...but that’s different—\""
+    m "“...但这不是一回事─”"
+
+# game/williamroute2.rpy:2015
+translate Schinese after_sw1_075e85c4:
+
+    # "Scarlet repeats her lines and I can tell that her Caledonian brogue is getting softer."
+    "Scarlet重复着她的台词，可以听到她的苏格兰口音越来越柔和了。"
+
+# game/williamroute2.rpy:2040
+translate Schinese after_sw1_0dc3caa5:
+
+    # cy "{cps=17}\"Sa—\"{w=0.2}{nw}"
+    cy "{cps=17}“Sa—”{w=0.2}{nw}"
+
+# game/williamroute2.rpy:2634
+translate Schinese dd2b_0a90f87f:
+
+    # "Just like I thought — if I had stayed any longer, I could have been caught."
+    "和我猜想的一样：要是再待下去，我很可能会被逮到。"
+
+# game/williamroute2.rpy:3787
+translate Schinese sw2_c44733bc:
+
+    # mu "\"That reminds me — I brought the pin-hole camera.\""
+    mu "“说到这，我带了针孔相机来。”"
+
+# game/williamroute2.rpy:3940
+translate Schinese sw2_6c8fe0cf:
+
+    # wi "\"Well that’s what’s nice about the West, Sam — everybody gets to be in danger all of the time.\""
+    wi "“西部好就好在，人人都时刻与危险相伴，Sam。”"
+
+# TODO: Translation updated at 2025-01-11 03:11
+
+# game/williamroute2.rpy:64
+translate Schinese williamroute2_2fc3a2ec:
+
+    # m "\"What for? I don’t even know these people!\""
+    m ""
+
+# game/williamroute2.rpy:152
+translate Schinese williamroute2_03f46135:
+
+    # "The vixen’s eyes narrow."
+    ""
+
+# game/williamroute2.rpy:225
+translate Schinese williamroute2_4dd6a76a:
+
+    # "His eyes brighten at that last bit while he points his finger at the ceiling."
+    ""
+
+# game/williamroute2.rpy:227
+translate Schinese williamroute2_31da6446:
+
+    # "Then they darken a bit again."
+    ""
+
+# game/williamroute2.rpy:271
+translate Schinese williamroute2_389cd3f8:
+
+    # "Is this rat sweating?"
+    ""
+
+# game/williamroute2.rpy:296
+translate Schinese williamroute2_a3b756e1:
+
+    # "The old rat looks over to the vixen with pleading eyes."
+    ""
+
+# game/williamroute2.rpy:301
+translate Schinese williamroute2_8b84232c:
+
+    # "She takes the teacup in her hand and sniffs it."
+    ""
+
+# game/williamroute2.rpy:306
+translate Schinese williamroute2_aace3511:
+
+    # "She sips silently at the cup."
+    ""
+
+# game/williamroute2.rpy:386
+translate Schinese williamroute2_71b7faea:
+
+    # "I decide to skip breakfast in the kitchen and make my way over to William’s place."
+    ""
+
+# game/williamroute2.rpy:677
+translate Schinese williamroute2_1cac2c94:
+
+    # "She's already hustling into the other room."
+    ""
+
+# game/williamroute2.rpy:702
+translate Schinese williamroute2_a040ecf8:
+
+    # "After she puts a piece of pie on each plate she carefully puts the dish down on a cozy and takes a seat, sitting up straight and setting her paws in her lap."
+    ""
+
+# game/williamroute2.rpy:798
+translate Schinese williamroute2_5215805a:
+
+    # "Todd stops eating his pie."
+    ""
+
+# game/williamroute2.rpy:800
+translate Schinese williamroute2_98981822:
+
+    # wi "\"We don’t know, Marcy. We might have to look for him.\""
+    wi ""
+
+# game/williamroute2.rpy:940
+translate Schinese williamroute2_3a00f7d4:
+
+    # "His eyes flick to me."
+    ""
+
+# game/williamroute2.rpy:1021
+translate Schinese williamroute2_b5167a9b:
+
+    # "The movements in the seats in front of me stay William’s hand."
+    ""
+
+# game/williamroute2.rpy:1064
+translate Schinese williamroute2_6bbc4d8d:
+
+    # "The ram leans over and flicks a knob on my door."
+    ""
+
+# game/williamroute2.rpy:1065
+translate Schinese williamroute2_20d67ea0:
+
+    # "The door handle lets me out this time."
+    ""
+
+# game/williamroute2.rpy:1202
+translate Schinese williamroute2_599917bd:
+
+    # "He closes his eyes."
+    ""
+
+# game/williamroute2.rpy:1349
+translate Schinese sw1_bddd99bc:
+
+    # "William scratches his fur on his head with some ferocity."
+    ""
+
+# game/williamroute2.rpy:1785
+translate Schinese after_sw1_1445c056:
+
+    # "The other girls coo."
+    ""
+
+# game/williamroute2.rpy:1789
+translate Schinese after_sw1_47605458:
+
+    # "She shrugs and takes a sip of her drink."
+    ""
+
+# game/williamroute2.rpy:1823
+translate Schinese after_sw1_b9b09300:
+
+    # "She lets out a deep, melodious cry from her core."
+    ""
+
+# game/williamroute2.rpy:1851
+translate Schinese after_sw1_28b01902:
+
+    # "We all take a sip of our drinks. Lucy and Cynthia cross their legs."
+    ""
+
+# game/williamroute2.rpy:1865
+translate Schinese after_sw1_179296ab:
+
+    # "Cynthia puts her glass down and stands up, heading to the corner wall behind us."
+    ""
+
+# game/williamroute2.rpy:2297
+translate Schinese after_sw1_fc959847:
+
+    # "I can’t complain too much. The headache is mostly gone, and I just have to walk a few feet."
+    ""
+
+# game/williamroute2.rpy:2478
+translate Schinese after_sw1_79465bed:
+
+    # "The hare looks like he's about to bring something up, but stops, exhales, and straightens his posture."
+    ""
+
+# game/williamroute2.rpy:2529
+translate Schinese dd1b_9b971d52:
+
+    # "He turns to Dora and puts on a falsetto voice."
+    ""
+
+# game/williamroute2.rpy:2531
+translate Schinese dd1b_880bc6a6:
+
+    # "He turns back to me."
+    ""
+
+# game/williamroute2.rpy:2596
+translate Schinese dd2b_9b971d52:
+
+    # "He turns to Dora and puts on a falsetto voice."
+    ""
+
+# game/williamroute2.rpy:2598
+translate Schinese dd2b_880bc6a6:
+
+    # "He turns back to me."
+    ""
+
+# game/williamroute2.rpy:2633
+translate Schinese dd2b_0a425f89:
+
+    # "But the sound stops, and the light in the powder room gets bright."
+    ""
+
+# game/williamroute2.rpy:2784
+translate Schinese dd2b_c435e340:
+
+    # "I keep getting the feeling like both me and Cynthia are being watched in this room."
+    ""
+
+# game/williamroute2.rpy:2997
+translate Schinese dd2b_97dea386:
+
+    # mu "\"Oh, he’s here. He just had to take care of some business.\""
+    mu ""
+
+# game/williamroute2.rpy:3021
+translate Schinese dd2b_51f5e86b:
+
+    # "Both of them say nothing as they turn away to look back at the blanket."
+    ""
+
+# game/williamroute2.rpy:3092
+translate Schinese dd2b_1f768a01:
+
+    # mu "\"There was certainly something violent going on over there.\""
+    mu ""
+
+# game/williamroute2.rpy:3175
+translate Schinese dd2b_fc6d1adb:
+
+    # ni "\"This could be a discontinued shaft from CSCG Site A.\""
+    ni ""
+
+# game/williamroute2.rpy:3228
+translate Schinese dd2b_1e25452a:
+
+    # wi "\"Small fries, but they're using the code of a don I knew without a doubt.\""
+    wi ""
+
+# game/williamroute2.rpy:3688
+translate Schinese sw2_71a76601:
+
+    # wi "\"Sam and I just needed some downtime after what we found.\""
+    wi ""
+
+# game/williamroute2.rpy:3691
+translate Schinese sw2_207b881e:
+
+    # mu "\"Nik has been filling us in.\""
+    mu ""
+
+# game/williamroute2.rpy:3719
+translate Schinese sw2_689cfcd3:
+
+    # "Nik makes a humming noise."
+    ""
+
+# game/williamroute2.rpy:3916
+translate Schinese sw2_dc48922a:
+
+    # "I tilt my head and look past his shoulder."
+    ""
+
+# game/williamroute2.rpy:3918
+translate Schinese sw2_d305e596:
+
+    # "I glance in the direction of Mr. Tibbits again, who’s squinting at his book and framing a landscape with his stubby little digits."
+    ""
+
+# game/williamroute2.rpy:4031
+translate Schinese sw2_f1205f57:
+
+    # "Nik puts his hand on Will’s shoulder."
+    ""
+
+# game/williamroute2.rpy:4044
+translate Schinese sw2_dc205c02:
+
+    # "Something like a look of realization spreads across Will’s face."
+    ""
+
+# game/williamroute2.rpy:4048
+translate Schinese sw2_75d43515:
+
+    # wi "\"Speaking of hard work... I won’t be able to see you until the weekend, will I Nik?\""
+    wi ""
+
