@@ -9,8 +9,8 @@ translate Tchinese strings:
     old "{color=#000000} {font=willfont.ttf}Cliff claims Reed tries to break into his apartment.{/font} {/color}"
     new "{color=#000000}{font=fonts/willfont2.ttf}Cliff說Reed試圖闖入他的公寓。{/font}{/color}"
 
-    old "{color=#000000}{font=willfont.ttf}Cliff works with James for CGCS.{/font}{/color}"
-    new "{color=#000000}{font=fonts/willfont2.ttf}Cliff和James一起效力於CGCS。{/font}{/color}"
+    old "{color=#000000}{font=willfont.ttf}Cliff works with James for CSCG.{/font}{/color}"
+    new "{color=#000000}{font=fonts/willfont2.ttf}Cliff和James一起效力於CSCG。{/font}{/color}"
 
     old "{color=#000000}{font=willfont.ttf}Cliff's real name is Cornelis. He claims he does not have his worker's permit.{/font} {/color}"
     new "{color=#000000}{font=fonts/willfont2.ttf}Cliff的真名是Cornelis。據本人稱沒有工作證。{/font} {/color}"

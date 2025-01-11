@@ -8430,3 +8430,315 @@ translate Tchinese williamroute_b452bf11:
     # "And for the first time in weeks, these are tears of gratitude; not fear, nor resentment, nor self-disgust."
     "而這淚水是由於睽違數周的感激之情，而非恐懼、懊惱、自我厭惡。"
 
+# TODO: Translation updated at 2024-10-12 17:44
+
+# game/williamroute.rpy:15
+translate Tchinese williamroute_14367cd0:
+
+    # cy "\"You know Sam, you really lucked out with the picks tonight. Why, if I were in your shoes—\""
+    cy "“Sam，你今晚的選項真好耶。哎，如果我是你─”"
+
+# game/williamroute.rpy:93
+translate Tchinese williamroute_ddd379d6:
+
+    # "I figure that even if I did get away with killing Jack, scot-free, that wouldn't matter to God."
+    "我想就算在殺了Jack之後能逃脫法網，神也不會寬恕我。"
+
+# game/williamroute.rpy:162
+translate Tchinese williamroute_bd834035:
+
+    # m "\"William... I'm a murderer—\""
+    m "“William……我是個殺人犯─”"
+
+# game/williamroute.rpy:689
+translate Tchinese williamroute_c0ae7a6c:
+
+    # m "\"But Nik—\""
+    m "“可是Nik─”"
+
+# game/williamroute.rpy:975
+translate Tchinese williamroute_61369090:
+
+    # wi "\"Something that you failed to pull off, if I must remind—\""
+    wi "“而這就是你先前受的教訓，如果我必須提醒─”"
+
+# game/williamroute.rpy:1210
+translate Tchinese williamroute_07ac4127:
+
+    # md "\"And he protects us to the extent of his capabilities.\""
+    md "“他盡其所能保護著我們。”"
+
+# game/williamroute.rpy:1387
+translate Tchinese williamroute_b7c914da:
+
+    # "His scent is particularly earthy today — he must have been working long hours in the mine."
+    "他今天聞起來格外具有泥土味，他一定是在礦上工作了很長一段時間。"
+
+# game/williamroute.rpy:1514
+translate Tchinese williamroute_5e7d103b:
+
+    # to "\"Well, uh, y’see—\""
+    to "“這個，呃，你看──”"
+
+# game/williamroute.rpy:1606
+translate Tchinese williamroute_19ffa2c3:
+
+    # to "\"This means every player has to match the amount of chips — or in this case, bottlecaps — to the amount raised, and place those chips in the middle of the table.\""
+    to "“這意味著每名玩家必須將等金額的籌碼─在這裡是瓶蓋─放到桌子中間。”"
+
+# game/williamroute.rpy:1688
+translate Tchinese williamroute_c6a48dbd:
+
+    # wi "\"Y’all let me lead you around by the nose — don’t let me do that!\""
+    wi "“你們全都被我牽著鼻子走，別再讓我得逞了！”"
+
+# game/williamroute.rpy:1969
+translate Tchinese williamroute_6d777eb8:
+
+    # mu "\"It’s only a bit of blood. It grazed m—\""
+    mu "“出了點血而已，擦傷─”"
+
+# TODO: Translation updated at 2025-01-06 18:41
+
+# game/williamroute.rpy:9
+translate Tchinese williamroute_220063e6:
+
+    # "And I feel like something is staring at me."
+    ""
+
+# game/williamroute.rpy:27
+translate Tchinese williamroute_039b4340:
+
+    # cy "\"If I may be bold, Sam, I'm spooked plenty of nights, but I'm half as tall and weigh two thirds less than you.\""
+    cy ""
+
+# game/williamroute.rpy:41
+translate Tchinese williamroute_b714acd7:
+
+    # "The door behind us opens suddenly."
+    ""
+
+# game/williamroute.rpy:72
+translate Tchinese williamroute_859c075a:
+
+    # "My hands are shaking."
+    ""
+
+# game/williamroute.rpy:73
+translate Tchinese williamroute_668efca6:
+
+    # "My voice is hoarse."
+    ""
+
+# game/williamroute.rpy:123
+translate Tchinese williamroute_10970bc7:
+
+    # "He's biting his lip, and there's something wild in his eyes."
+    ""
+
+# game/williamroute.rpy:176
+translate Tchinese williamroute_bf512001:
+
+    # "Is William telling me the truth?"
+    ""
+
+# game/williamroute.rpy:305
+translate Tchinese williamroute_ceb50c53:
+
+    # "The sudden change in the fox's tone, expression... and general cheeriness unnerves me."
+    ""
+
+# game/williamroute.rpy:306
+translate Tchinese williamroute_e3126a4d:
+
+    # "He goes from irate to amiable at the drop of a hat."
+    ""
+
+# game/williamroute.rpy:315
+translate Tchinese williamroute_71596dd3:
+
+    # "The fox states it like a confirmation rather than a question."
+    ""
+
+# game/williamroute.rpy:327
+translate Tchinese williamroute_0f139ece:
+
+    # "When I open the door, I'm rattled by the hulking shadow that is waiting just behind the door frame."
+    ""
+
+# game/williamroute.rpy:347
+translate Tchinese williamroute_b79199c6:
+
+    # ni "\"Did he now?\""
+    ni ""
+
+# game/williamroute.rpy:351
+translate Tchinese williamroute_5e4372d9:
+
+    # "Nik adjusts his hat and looks behind him, looking more and more like somebody is hitting him each growing second."
+    ""
+
+# game/williamroute.rpy:562
+translate Tchinese williamroute_88f37f84:
+
+    # "The fox goes on through before me."
+    ""
+
+# game/williamroute.rpy:589
+translate Tchinese williamroute_6c33aac2:
+
+    # "Or at least what looks like moss."
+    ""
+
+# game/williamroute.rpy:591
+translate Tchinese williamroute_cd0d345d:
+
+    # "I flinch away. My paw had almost brushed one of the many bundles of legs."
+    ""
+
+# game/williamroute.rpy:598
+translate Tchinese williamroute_329923f5:
+
+    # "William kneels down and slaps away a few of the layers of spiders with a flat rock."
+    ""
+
+# game/williamroute.rpy:603
+translate Tchinese williamroute_a53a7697:
+
+    # "The big coyote turns and looks at me."
+    ""
+
+# game/williamroute.rpy:606
+translate Tchinese williamroute_777b60d0:
+
+    # "My chest tightens as he smiles at me."
+    ""
+
+# game/williamroute.rpy:607
+translate Tchinese williamroute_2be3981d:
+
+    # "He looks to Murdoch and jerks his head."
+    ""
+
+# game/williamroute.rpy:661
+translate Tchinese williamroute_9ae541b2:
+
+    # "The coyote turns to yell into the tunnel."
+    ""
+
+# game/williamroute.rpy:664
+translate Tchinese williamroute_f8737811:
+
+    # "There's no reply."
+    ""
+
+# game/williamroute.rpy:665
+translate Tchinese williamroute_4bded32c:
+
+    # "But something from deeper in the mines responds."
+    ""
+
+# game/williamroute.rpy:666
+translate Tchinese williamroute_748e7732:
+
+    # "Something that sounds like a mix between high pitched laughter and dead leaves."
+    ""
+
+# game/williamroute.rpy:667
+translate Tchinese williamroute_2c0b02c4:
+
+    # "I can tell from William's face that he hears something too."
+    ""
+
+# game/williamroute.rpy:678
+translate Tchinese williamroute_a4e3ef92:
+
+    # "I do not look back."
+    ""
+
+# game/williamroute.rpy:679
+translate Tchinese williamroute_19a7621b:
+
+    # "I do not speak to that voice."
+    ""
+
+# game/williamroute.rpy:680
+translate Tchinese williamroute_65a77fb2:
+
+    # "I just stare at William's back, who is willing to walk in front of me now, guiding us home with the lantern."
+    ""
+
+# game/williamroute.rpy:681
+translate Tchinese williamroute_6a7f79f0:
+
+    # "Nikolai breaks away from our line first."
+    ""
+
+# game/williamroute.rpy:682
+translate Tchinese williamroute_c61fe596:
+
+    # "I have to stop him from leaving so abruptly."
+    ""
+
+# game/williamroute.rpy:839
+translate Tchinese williamroute_7475bae7:
+
+    # "Tears spill down my face."
+    ""
+
+# game/williamroute.rpy:911
+translate Tchinese williamroute_41c1f9e4:
+
+    # "He pours some of the contents into a bowl and brings it my way."
+    ""
+
+# game/williamroute.rpy:1053
+translate Tchinese williamroute_1172661d:
+
+    # wi "\"I’d welcome another mainstay than just Mr. Hendricks’s mine, if that’s what you mean, yes.\""
+    wi ""
+
+# game/williamroute.rpy:1059
+translate Tchinese williamroute_f12aee87:
+
+    # "William shoots me a look."
+    ""
+
+# game/williamroute.rpy:1512
+translate Tchinese williamroute_d6692611:
+
+    # "Todd makes a choking sound."
+    ""
+
+# game/williamroute.rpy:1517
+translate Tchinese williamroute_cd950eb1:
+
+    # wi "\"You don’t have to explain that Todd. He’s fucking with you.\""
+    wi ""
+
+# game/williamroute.rpy:1921
+translate Tchinese williamroute_09edfa57:
+
+    # "What?!"
+    ""
+
+# game/williamroute.rpy:2145
+translate Tchinese williamroute_9a075a40:
+
+    # "I feel a pit in my stomach."
+    ""
+
+# game/williamroute.rpy:2299
+translate Tchinese williamroute_04b19289:
+
+    # wi "\"Well, make sure you check in with me tomorrow. We need to put ideas together.\""
+    wi ""
+
+# TODO: Translation updated at 2025-01-11 02:10
+
+# game/williamroute.rpy:1950
+translate Tchinese williamroute_e2bbff47:
+
+    # cl "\"Who’s--\""
+    cl ""
+

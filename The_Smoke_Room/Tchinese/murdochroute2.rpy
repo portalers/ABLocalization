@@ -28626,3 +28626,106 @@ translate Tchinese murdochroute2_027feb0d:
     # "She looks over her shoulder like she hears me, snatches her own hat off her head and holds her arms out, putting each foot down in front of her, widening the gap."
     "她像是聽到了動靜，回頭看了我一眼，然後摘下帽子，伸出雙臂，飛奔了起來。"
 
+# TODO: Translation updated at 2024-10-12 17:44
+
+# game/murdochroute2.rpy:149
+translate Tchinese murdochroute2_b1cc5bef:
+
+    # "Bit nervous to approach them though — would probably think I'm a weirdo."
+    "接近她們令我有一點緊張：她們可能會覺得我是個怪人。"
+
+# game/murdochroute2.rpy:263
+translate Tchinese murdochroute2_ea382d1d:
+
+    # mu "\"But the photograph—\""
+    mu "“但是那張照片─”"
+
+# game/murdochroute2.rpy:415
+translate Tchinese murdochroute2_eebf63d7:
+
+    # "I realize at this moment that one of Murdoch's sisters stands next to him — the tiny astronomer with the big glasses that sit on her snout."
+    "就在此時，我才意識到他身旁站著Murdoch的一個姐妹：那個鼻樑上戴著副小眼鏡的小天文學家。"
+
+# game/murdochroute2.rpy:474
+translate Tchinese murdochroute2_157b0a49:
+
+    # ho "\"Of course you have — you've met my juniors.\""
+    ho "“那是當然，你已經見識過我的學生了。”"
+
+# game/murdochroute2.rpy:710
+translate Tchinese murdochroute2_e428d828:
+
+    # ra "\"I'm still terrified of the scandal you could cause — and if you're in trouble, the whole business could follow you down the drain.\""
+    ra "“我還是在害怕你可能引起的醜聞：如果你陷入了麻煩，整個生意都將跟著你完蛋。”"
+
+# game/murdochroute2.rpy:1971
+translate Tchinese murdochroute2_6d2bd295:
+
+    # mu "\"If they're doing something harmful, we should probably interrupt—\""
+    mu "“如果他在幹什麼勾當，我們應該制止─”"
+
+# game/murdochroute2.rpy:1980
+translate Tchinese murdochroute2_3a32bbcd:
+
+    # mu "\"That couldn't be a—\""
+    mu "“不可能─”"
+
+# game/murdochroute2.rpy:2726
+translate Tchinese murdochroute2_ee13b73f:
+
+    # cl "\"The meadows and quarries here are ancient — certainly like nothing I've seen before.\""
+    cl "“那裡的草場和採石場相當有年頭，絕對是我前所未見的。”"
+
+# game/murdochroute2.rpy:2850
+translate Tchinese murdochroute2_5c89f323:
+
+    # "Or worse — get me fired."
+    "或者更糟：導致我被開除。"
+
+# game/murdochroute2.rpy:3169
+translate Tchinese murdochroute2_ff283e08:
+
+    # bl "\"Sorry I'm early Miz Byrnes, but—\""
+    bl "“不好意思，我來早了，Byrnes小姐，但是─”"
+
+# game/murdochroute2.rpy:3728
+translate Tchinese murdochroute2_7f397e4c:
+
+    # m "\"MotherFUCK—\""
+    m "“{b}喔幹─{/b}”"
+
+# game/murdochroute2.rpy:3829
+translate Tchinese murdochroute2_b520e8ca:
+
+    # "I can feel a rush of air, so similar — too similar — to the entrance of the mines."
+    "我能感到一股氣流迎面衝了出來，與礦井入口十分相似─太相似了。"
+
+# game/murdochroute2.rpy:4292
+translate Tchinese murdochroute2_606583d1:
+
+    # mu "\"Perhaps both Sam and Jim would prefer to talk about something other than work—\""
+    mu "“也許Sam和Jim喜歡討論工作以外的事情——”"
+
+# game/murdochroute2.rpy:4454
+translate Tchinese murdochroute2_72d4991b:
+
+    # gr "\"Holly knows that you have to take credit where credit is due — she’s organizing her entire wedding by herself, and on a budget.\""
+    gr "“Holly就明白這個道理，她獨自籌備了整場婚禮，還沒有超出預算。”"
+
+# game/murdochroute2.rpy:4471
+translate Tchinese murdochroute2_35caa352:
+
+    # gr "\"Holly understands that. That’s why her classroom is so well-managed.\""
+    gr "Holly深知這一點，所以她的班級才管理有方。"
+
+# game/murdochroute2.rpy:4477
+translate Tchinese murdochroute2_1eba5bee:
+
+    # ho "\"Firm boundaries must be established — that’s really all there is to it.\""
+    ho "“嚴格的規矩是必須的，就這麼簡單。”"
+
+# game/murdochroute2.rpy:6843
+translate Tchinese mdq2_b36dcb5b:
+
+    # mu "\"Because we can always go back to the tailor if we need—\""
+    mu "“如果有需要，還是能回去找裁縫─”"

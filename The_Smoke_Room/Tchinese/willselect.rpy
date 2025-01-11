@@ -1,7 +1,7 @@
 translate Tchinese strings:
 
-    # game/willselect.rpy:29
-    old "When William confides in you his feelings about his Wife arriving in echo, what did you tell him?"
+    # game/willselect.rpy:62
+    old "When William confides in you his feelings about his wife arriving in echo, what did you tell him?"
     new "William對你坦白他對妻子來到Echo的想法時，你是怎麼回應的？"
 
     # game/willselect.rpy:29
@@ -44,8 +44,8 @@ translate Tchinese strings:
     old "Assured him he's done nothing wrong."
     new "說他沒有錯。"
 
-    # game/willselect.rpy:60
-    old "Said that people sometimes hallucinate"
+    # game/willselect.rpy:93
+    old "Said that people sometimes hallucinate."
     new "說有時人們會產生幻覺。"
 
     # game/willselect.rpy:60
@@ -56,8 +56,8 @@ translate Tchinese strings:
     old "Talked about gasses in the mines."
     new "提起礦井裡有瓦斯。"
 
-    # game/willselect.rpy:82
-    old "As William, do you get Sam off in the bedroom?"
+    # game/willselect.rpy:115
+    old "As William, did you get Sam off in the bedroom?"
     new "扮演William時，你有幫Sam發洩嗎？"
 
     # game/willselect.rpy:96
@@ -83,23 +83,3 @@ translate Tchinese strings:
     # game/willselect.rpy:131
     old "Cynthia."
     new "Cynthia。"
-
-# TODO: Translation updated at 2023-09-29 22:00
-
-translate Tchinese strings:
-
-    # game/willselect.rpy:62
-    old "When William confides in you his feelings about his wife arriving in echo, what did you tell him?"
-    new "William對你坦白他對妻子來到Echo的想法時，你是怎麼回應的？"
-
-    # game/willselect.rpy:93
-    old "Said that people sometimes hallucinate."
-    new "說有時人們會產生幻覺。"
-
-# TODO: Translation updated at 2023-10-01 19:12
-
-translate Tchinese strings:
-
-    # game/willselect.rpy:115
-    old "As William, did you get Sam off in the bedroom?"
-    new "扮演William時，你有幫Sam發洩嗎？"

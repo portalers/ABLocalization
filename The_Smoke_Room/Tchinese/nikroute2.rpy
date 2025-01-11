@@ -26647,3 +26647,775 @@ translate Tchinese nikroute2_c2bf9c80:
     # ya "\"Do not stand under the stalactites.\""
     ya "“別站在鐘乳石的下面。”"
 
+# TODO: Translation updated at 2024-10-12 17:44
+
+# game/nikroute2.rpy:176
+translate Tchinese nikroute2_11a59088:
+
+    # ya "\"But Jack was an unethical drunk who substituted earnestness for wit...\""
+    ya "“但Jack是個沒有道德感的酒鬼、做人毫無真誠、只會耍小聰明……”"
+
+# game/nikroute2.rpy:308
+translate Tchinese nikroute2_53ef61ec:
+
+    # ni "\"Looks to me like a hefty vein of quartz.\""
+    ni "“看起來像是一大片的石英礦脈。”"
+
+# game/nikroute2.rpy:1119
+translate Tchinese nikroute2_a432542a:
+
+    # "To the left is a man who I’m starting to get used to seeing — James Hendricks."
+    "左手邊是我最近越來越常見到的人──James Hendricks。"
+
+# game/nikroute2.rpy:1158
+translate Tchinese nikroute2_976a733f:
+
+    # m "\"Another day another dollar, Mr. Briggs.\""
+    m "“能賺一天是一天，Briggs先生。”"
+
+# game/nikroute2.rpy:1201
+translate Tchinese nikroute2_b1d3e032:
+
+    # jam "\"Mr. Ayers. One of our current troubles is that Nicholas is one of our best workers! But I fear he’s run away with some wild ideas.\""
+    jam "“Nicholas稱得上是這裡最優秀的員工，Ayers先生！我們目前的其中一個問題，就是我怕他會帶著一些瘋狂的想法跑掉。”"
+
+# game/nikroute2.rpy:1885
+translate Tchinese sny1_8115c737:
+
+    # m "\"But—\""
+    m "“可是─”"
+
+# game/nikroute2.rpy:2723
+translate Tchinese sny1_cd807e0b:
+
+    # ya "\"But I have also added my own layouts to this — the ones that I know they do not know about.\""
+    ya "“不過我在這上面加了我自己的認知──我知道他們所不知道的部分。”"
+
+# game/nikroute2.rpy:3113
+translate Tchinese sny1_211f8a82:
+
+    # "I notice that the tunnels on the third level — if this really is the third level, anyway — have much shorter ceilings than the top floor."
+    "我注意到第三層的洞高比第一層矮得多，假如這裡真是第三層的話。"
+
+# game/nikroute2.rpy:3208
+translate Tchinese sny1_1ab67bf3:
+
+    # m "\"In all frankness I hoped I’d run into him here—\""
+    m "“老實說，我還以為會在這裡碰到他-”"
+
+# game/nikroute2.rpy:3796
+translate Tchinese sny1_fc3fc4f7:
+
+    # ni "\"But still, I would not bother. You will get dirty again in the afternoon anyway—\""
+    ni "“不過我就不用麻煩了，反正下午還會弄髒─”"
+
+# game/nikroute2.rpy:3868
+translate Tchinese sny1_fea2ad4a:
+
+    # nabj "\"I think foreman Moore should have a look at this—\""
+    nabj "“最好讓Moore工頭過目─”"
+
+# game/nikroute2.rpy:6296
+translate Tchinese sellcomp_44ddf1a5:
+
+    # "I can see three mallard ducks painted on the side — one’s white, one black and white, and one is orange and striped."
+    "我看見側面畫了三隻野鴨：一隻白色、一隻黑白相間、一隻黃底黑條紋。"
+
+# game/nikroute2.rpy:6928
+translate Tchinese sellcomp_67641e19:
+
+    # "Beckett tested every single wick in the pack."
+    "Beckett檢驗了所有的燈芯。"
+
+# game/nikroute2.rpy:7100
+translate Tchinese sellcomp_687d352a:
+
+    # "I put on my best smile — the kind of smile that makes a client think I’ve had just the right amount of alcohol to feel starcrossed."
+    "我擺出最好的笑臉：會讓客戶覺得我剛剛好喝到微醺程度的那種。"
+
+# game/nikroute2.rpy:7838
+translate Tchinese locker1bright_f3b05889:
+
+    # ya "\"These are incredibly close — one on the left, one on the right.\""
+    ya "“這兩個近得出人意料：一個在左，一個在右。”"
+
+# game/nikroute2.rpy:8028
+translate Tchinese locker1bright_0874743c:
+
+    # ya "\"Not without knowing what is above and below the vein in this chasm first.\""
+    ya "“還不知道這個斷層的礦脈上下有什麼的話就不行。”"
+
+# TODO: Translation updated at 2025-01-06 18:41
+
+# game/nikroute2.rpy:55
+translate Tchinese nikroute2_717a45f3:
+
+    # "And the sickle-shaped rocks quietly drip into puddles."
+    ""
+
+# game/nikroute2.rpy:172
+translate Tchinese nikroute2_de60cf6e:
+
+    # "I hear the tiger inhale."
+    ""
+
+# game/nikroute2.rpy:393
+translate Tchinese nikroute2_4285a38c:
+
+    # ya "\"The shadows of the cave, as well as its vertical nature, hide it well.\""
+    ya ""
+
+# game/nikroute2.rpy:565
+translate Tchinese nikroute2_3a15f209:
+
+    # "Something moves out of the corner of my eye, near the ground entrance."
+    ""
+
+# game/nikroute2.rpy:853
+translate Tchinese nikroute2_59383f2f:
+
+    # "To the left is the rest of the cabin. Two sets of bunk beds align the north and south wall, and one bunk is at the west wall."
+    ""
+
+# game/nikroute2.rpy:967
+translate Tchinese nikroute2_fece6806:
+
+    # "There’s nothing on the wall. Nothing at all."
+    ""
+
+# game/nikroute2.rpy:968
+translate Tchinese nikroute2_aecc25b3:
+
+    # "No sheets or pillows on the mattress. Nothin’."
+    ""
+
+# game/nikroute2.rpy:1008
+translate Tchinese nikroute2_f4ec77e0:
+
+    # "I make my voice as low as possible."
+    ""
+
+# game/nikroute2.rpy:1101
+translate Tchinese nikroute2_ecd451e2:
+
+    # "She picks up a telephone with one hand and slides the rotary dial."
+    ""
+
+# game/nikroute2.rpy:1107
+translate Tchinese nikroute2_f6c9dfe2:
+
+    # "Her eyes narrow and she tilts her head."
+    ""
+
+# game/nikroute2.rpy:1276
+translate Tchinese nikroute2_eb0c32c0:
+
+    # "Yao looks over his shoulder."
+    ""
+
+# game/nikroute2.rpy:1280
+translate Tchinese nikroute2_08b70637:
+
+    # "Nik's face falls."
+    ""
+
+# game/nikroute2.rpy:1437
+translate Tchinese sny1_e0f04bd3:
+
+    # "Nik looks embarrassed."
+    ""
+
+# game/nikroute2.rpy:1494
+translate Tchinese sny1_05d409d6:
+
+    # "Yao’s tail twitches as he looks between the two of us, as if he is still trying to put something together, but can't."
+    ""
+
+# game/nikroute2.rpy:2068
+translate Tchinese sny1_c0cc7390:
+
+    # "The head of a black-furred weasel pokes out from a space behind the bear."
+    ""
+
+# game/nikroute2.rpy:2358
+translate Tchinese sny1_326d666f:
+
+    # "The insides of his ears go red."
+    ""
+
+# game/nikroute2.rpy:2432
+translate Tchinese sny1_31e061c0:
+
+    # "Yao cuts him off."
+    ""
+
+# game/nikroute2.rpy:2532
+translate Tchinese sny1_54e2ba4b:
+
+    # m "\"I'm from the south. Of course I know how.\""
+    m ""
+
+# game/nikroute2.rpy:2584
+translate Tchinese sny1_d18a61d2:
+
+    # "The wolverine stands up and punches the dog in the face."
+    ""
+
+# game/nikroute2.rpy:2587
+translate Tchinese sny1_1cc1e049:
+
+    # "The dog spins an entire three-hundred and sixty degrees before he falls over and crashes into a barrel, screaming as he goes down."
+    ""
+
+# game/nikroute2.rpy:2810
+translate Tchinese sny1_d475da11:
+
+    # "Yao is the first to stand, taking his map as he pads back to the lockers."
+    ""
+
+# game/nikroute2.rpy:2813
+translate Tchinese sny1_ef57cae3:
+
+    # "I stand up too, thinking I should add something, but Nik makes himself comfortable, resting supine with his arms behind his head."
+    ""
+
+# game/nikroute2.rpy:2923
+translate Tchinese sny1_aeca2ff7:
+
+    # "He shakes his head."
+    ""
+
+# game/nikroute2.rpy:2953
+translate Tchinese sny1_db737678:
+
+    # "Yet here I am, at the mouth of the mine, feeling the wind against me as I follow half a dozen men into the dark."
+    ""
+
+# game/nikroute2.rpy:2955
+translate Tchinese sny1_500f0099:
+
+    # "They tell me that I should stand in the elevator room."
+    ""
+
+# game/nikroute2.rpy:2957
+translate Tchinese sny1_6413587f:
+
+    # "It's easy enough to find; I couldn’t forget that room if I tried."
+    ""
+
+# game/nikroute2.rpy:2961
+translate Tchinese sny1_37c6e438:
+
+    # "The voice I hear isn’t one I expected."
+    ""
+
+# game/nikroute2.rpy:2962
+translate Tchinese sny1_24fbe353:
+
+    # "It's sunny and boyish; but you could almost call it manic, too."
+    ""
+
+# game/nikroute2.rpy:3074
+translate Tchinese sny1_62a303c4:
+
+    # "That doesn’t seem right."
+    ""
+
+# game/nikroute2.rpy:3358
+translate Tchinese sny1_3fc1ee5a:
+
+    # ni "\"I heard you say that this one lacks equipment.\""
+    ni ""
+
+# game/nikroute2.rpy:3360
+translate Tchinese sny1_364b7210:
+
+    # "He nods to me."
+    ""
+
+# game/nikroute2.rpy:3711
+translate Tchinese sny1_630b1e93:
+
+    # "He hammers the spike up to its head in the rock, then pulls the spike out."
+    ""
+
+# game/nikroute2.rpy:3715
+translate Tchinese sny1_745be1b0:
+
+    # "He cups his mouth with his hands and bellows out behind him."
+    ""
+
+# game/nikroute2.rpy:3732
+translate Tchinese sny1_8c1c4c9b:
+
+    # "The fizzy sound of the sparks is unmistakable."
+    ""
+
+# game/nikroute2.rpy:3909
+translate Tchinese sny1_abd4a4b5:
+
+    # "Then he shakes his head, like he's lost."
+    ""
+
+# game/nikroute2.rpy:3952
+translate Tchinese sny1_d1339ebc:
+
+    # "It's the bear from the stag. The one Nik and Yao know."
+    ""
+
+# game/nikroute2.rpy:3954
+translate Tchinese sny1_04321751:
+
+    # ben "\"Move along Dimitri. This doesn’t concern you.\""
+    ben ""
+
+# game/nikroute2.rpy:4164
+translate Tchinese sny1_5a2edd20:
+
+    # "I don’t like this notion Nik has that it’s a regular habit of mine to leer at somebody else’s lunch like I’m a lunatic when I forget to prepare a meal."
+    ""
+
+# game/nikroute2.rpy:4190
+translate Tchinese sny1_ccb5b0c3:
+
+    # "I eat the bread and the meat Yao handed me, which is very good, but very salty."
+    ""
+
+# game/nikroute2.rpy:4192
+translate Tchinese sny1_c8046c11:
+
+    # "I try to refuse, but he does not let me."
+    ""
+
+# game/nikroute2.rpy:4194
+translate Tchinese sny1_a8b7e189:
+
+    # "Yao tells us about how he had to replace one of the bands running the compressor so they could get the rock drill running again."
+    ""
+
+# game/nikroute2.rpy:4274
+translate Tchinese sny1_f6418422:
+
+    # "He lowers his voice."
+    ""
+
+# game/nikroute2.rpy:4451
+translate Tchinese sny1_d847f660:
+
+    # "The lizard pulls up his hat and scratches under his head."
+    ""
+
+# game/nikroute2.rpy:4504
+translate Tchinese sny1_9221202b:
+
+    # "The two of them head off."
+    ""
+
+# game/nikroute2.rpy:4546
+translate Tchinese sny1_f0ba93ad:
+
+    # "The bear lets out a dark chuckle."
+    ""
+
+# game/nikroute2.rpy:4606
+translate Tchinese sny1_badf8a16:
+
+    # "The jackrabbit and the wolverine are back, each carrying a sack respectively."
+    ""
+
+# game/nikroute2.rpy:4636
+translate Tchinese sny1_d1a5b207:
+
+    # "The jackrabbit rolls his eyes."
+    ""
+
+# game/nikroute2.rpy:4711
+translate Tchinese sny1_1c1ed1aa:
+
+    # "The lizard takes a pick out of his pocket and places it at an angle at knee’s height on the bedrock in front of us."
+    ""
+
+# game/nikroute2.rpy:4732
+translate Tchinese sny1_a53d08f3:
+
+    # ben "\"He’s a novice though. He could really mess up your hand.\""
+    ben ""
+
+# game/nikroute2.rpy:4861
+translate Tchinese sny1_4d06ac54:
+
+    # "His eyeballs bulge with a sudden force of white-hot anger that I can feel in my bones."
+    ""
+
+# game/nikroute2.rpy:4862
+translate Tchinese sny1_7e045bf6:
+
+    # "Every instinct I have ever felt tells me that I am in the presence of evil, and that if I stay still, I'll die."
+    ""
+
+# game/nikroute2.rpy:4898
+translate Tchinese sny1_f9b27ce1:
+
+    # "He exhales."
+    ""
+
+# game/nikroute2.rpy:5066
+translate Tchinese sny1_f6418422_1:
+
+    # "He lowers his voice."
+    ""
+
+# game/nikroute2.rpy:5089
+translate Tchinese sny1_9e70dae1:
+
+    # "Nik looks to his friend, then to me with confusion."
+    ""
+
+# game/nikroute2.rpy:5091
+translate Tchinese sny1_ee015aa3:
+
+    # "Then his eyelids narrow."
+    ""
+
+# game/nikroute2.rpy:5289
+translate Tchinese sny1_7e99b190:
+
+    # "He says the name like it's dripping with poison."
+    ""
+
+# game/nikroute2.rpy:5291
+translate Tchinese sny1_5ba79df3:
+
+    # "Then he folds his good paw over the damaged one."
+    ""
+
+# game/nikroute2.rpy:5297
+translate Tchinese sny1_c4b54dd7:
+
+    # "He looks to his left, then to his right."
+    ""
+
+# game/nikroute2.rpy:5421
+translate Tchinese sny1_71bbcccd:
+
+    # "But when I look again at the back door, I can see a little candle lit on a plate."
+    ""
+
+# game/nikroute2.rpy:5445
+translate Tchinese sny1_695adc90:
+
+    # "He says that somewhat stiffly."
+    ""
+
+# game/nikroute2.rpy:5477
+translate Tchinese sny1_e2df1475:
+
+    # "It's like he's giving me one last chance."
+    ""
+
+# game/nikroute2.rpy:5481
+translate Tchinese sny1_7870dc8d:
+
+    # "The words just spill messily out of my mouth."
+    ""
+
+# game/nikroute2.rpy:5526
+translate Tchinese sny1_01c5ba53:
+
+    # po "\"If you’re selling something about yourself, then it needs to be much better than that.\""
+    po ""
+
+# game/nikroute2.rpy:5909
+translate Tchinese sellcomp_4972b518:
+
+    # "The side of his thigh presses up to mine, and he feels warm."
+    ""
+
+# game/nikroute2.rpy:6048
+translate Tchinese sellcomp_24e010e8:
+
+    # "He hooks his arm under mine and then lets his wrist rest on my belly."
+    ""
+
+# game/nikroute2.rpy:6065
+translate Tchinese sellcomp_fee7445d:
+
+    # "...and I grab him."
+    ""
+
+# game/nikroute2.rpy:6213
+translate Tchinese sellcomp_46dfa10b:
+
+    # "We wait for people to get bored with looking at us, and when they continue their conversations, we lower our voices."
+    ""
+
+# game/nikroute2.rpy:6300
+translate Tchinese sellcomp_1ff0a19d:
+
+    # "The badger frowns."
+    ""
+
+# game/nikroute2.rpy:6326
+translate Tchinese sellcomp_2acf3707:
+
+    # "Nik picks up his pail and his equipment and disappears into the hall of the cabin."
+    ""
+
+# game/nikroute2.rpy:6395
+translate Tchinese sellcomp_614352c0_1:
+
+    # "He smiles at that."
+    ""
+
+# game/nikroute2.rpy:6447
+translate Tchinese sellcomp_9752b8b2:
+
+    # "Felipe clicks his tongue."
+    ""
+
+# game/nikroute2.rpy:6636
+translate Tchinese sellcomp_a0c2abfc:
+
+    # "Ben smiles."
+    ""
+
+# game/nikroute2.rpy:6643
+translate Tchinese sellcomp_0b4dce82:
+
+    # "And then he's off."
+    ""
+
+# game/nikroute2.rpy:6662
+translate Tchinese sellcomp_22ed5035:
+
+    # "Paul looks down the tunnel to see if anybody is coming."
+    ""
+
+# game/nikroute2.rpy:6664
+translate Tchinese sellcomp_3b9403c6:
+
+    # "Dimitri just shakes his head."
+    ""
+
+# game/nikroute2.rpy:6670
+translate Tchinese sellcomp_1be19fc7:
+
+    # "Dimitri pats me on the shoulder."
+    ""
+
+# game/nikroute2.rpy:6680
+translate Tchinese sellcomp_92acaa74:
+
+    # "He adds that quickly with a warm laugh."
+    ""
+
+# game/nikroute2.rpy:6819
+translate Tchinese sellcomp_b210b430:
+
+    # "Beckett, Nate and Ben are all running towards us."
+    ""
+
+# game/nikroute2.rpy:6821
+translate Tchinese sellcomp_0b2e4385:
+
+    # "Felipe is on the floor shoving the piece of boulder off Dimitri’s leg, which makes him roar out in pain."
+    ""
+
+# game/nikroute2.rpy:6836
+translate Tchinese sellcomp_a1d93017:
+
+    # "As far as I can tell it's only Dimitri's foot that's hurt..."
+    ""
+
+# game/nikroute2.rpy:6838
+translate Tchinese sellcomp_836d5cbb:
+
+    # "...but that is a lot of blood."
+    ""
+
+# game/nikroute2.rpy:6894
+translate Tchinese sellcomp_c351f199:
+
+    # "Ben gives the wolverine an incredulous look."
+    ""
+
+# game/nikroute2.rpy:6908
+translate Tchinese sellcomp_918b611b:
+
+    # "I see Ben stare back at us with blank eyes; it’s like there’s nothing there."
+    ""
+
+# game/nikroute2.rpy:6910
+translate Tchinese sellcomp_2ce28c17:
+
+    # "No guilt, no anger from receiving a false accusation."
+    ""
+
+# game/nikroute2.rpy:6918
+translate Tchinese sellcomp_bab2c0f8:
+
+    # "He walks up to Paul and takes the bag from his hand, retrieving a dynamite stick, then plucking the wick out of it."
+    ""
+
+# game/nikroute2.rpy:6920
+translate Tchinese sellcomp_db662652:
+
+    # "He holds it to the flame and waits."
+    ""
+
+# game/nikroute2.rpy:6922
+translate Tchinese sellcomp_c2ecb131:
+
+    # "It gives off a slow, steady burn."
+    ""
+
+# game/nikroute2.rpy:6924
+translate Tchinese sellcomp_fbd1806b:
+
+    # "Paul looks like he doesn’t know what to say."
+    ""
+
+# game/nikroute2.rpy:6928
+translate Tchinese sellcomp_ee8b19ff:
+
+    # "Beckett tests every single wick in the bag."
+    ""
+
+# game/nikroute2.rpy:6930
+translate Tchinese sellcomp_8c9ee519:
+
+    # "None of them lights up like the first one."
+    ""
+
+# game/nikroute2.rpy:6938
+translate Tchinese sellcomp_f7ff17e6:
+
+    # m "\"Could he... or, well, anybody just tamper with one?\""
+    m ""
+
+# game/nikroute2.rpy:6942
+translate Tchinese sellcomp_04af60be:
+
+    # "Beckett stands up and rubs his hands together."
+    ""
+
+# game/nikroute2.rpy:6947
+translate Tchinese sellcomp_c19940dc:
+
+    # "More men rush into the hall."
+    ""
+
+# game/nikroute2.rpy:6949
+translate Tchinese sellcomp_2704daf5:
+
+    # "One of them must be a medic, because he says that the bear is fine to move."
+    ""
+
+# game/nikroute2.rpy:6951
+translate Tchinese sellcomp_e063ffe9:
+
+    # "Felipe and one of the other pumas lift the bear up and help him hop with one foot out of the hallway."
+    ""
+
+# game/nikroute2.rpy:6959
+translate Tchinese sellcomp_9df7df21:
+
+    # "Beckett blows air out his lips and shakes his head, looking at nobody in particular."
+    ""
+
+# game/nikroute2.rpy:6971
+translate Tchinese sellcomp_b6e9df9a:
+
+    # "’He looks at me, then to Paul, then to Ben."
+    ""
+
+# game/nikroute2.rpy:7018
+translate Tchinese sellcomp_60d3a5c3:
+
+    # "She smiles with her mouth, but cringes with the rest of her face."
+    ""
+
+# game/nikroute2.rpy:7020
+translate Tchinese sellcomp_bc1c3f6a:
+
+    # "The sounds of voices come through the door."
+    ""
+
+# game/nikroute2.rpy:7022
+translate Tchinese sellcomp_01c101be:
+
+    # "They're yelling."
+    ""
+
+# game/nikroute2.rpy:7063
+translate Tchinese sellcomp_28f6299b:
+
+    # "He opens the door and pokes his head out."
+    ""
+
+# game/nikroute2.rpy:7295
+translate Tchinese sellcomp_f82e4b3c:
+
+    # jam "\"Not to say that the ins and outs of the grunt work are my forte to begin with.\""
+    jam ""
+
+# game/nikroute2.rpy:7447
+translate Tchinese sellcomp_93c2f70d:
+
+    # "I check again to see if anybody is near us, but I don't see anybody."
+    ""
+
+# game/nikroute2.rpy:7678
+translate Tchinese locker1bright_6129eab8:
+
+    # "He crouches down and takes my pail from the bottom of my locker."
+    ""
+
+# game/nikroute2.rpy:7896
+translate Tchinese locker1bright_7a75e5b1:
+
+    # "And there it is."
+    ""
+
+# game/nikroute2.rpy:7900
+translate Tchinese locker1bright_08001fea:
+
+    # "All we have left is to go down this very narrow, very long tunnel."
+    ""
+
+# game/nikroute2.rpy:8730
+translate Tchinese youdidit_baac48e8:
+
+    # "We both scramble to get up and turn around in the direction of William’s voice."
+    ""
+
+# game/nikroute2.rpy:8771
+translate Tchinese youdidit_5f8a6f79:
+
+    # "He takes a slow drag on his cigarette and blows."
+    ""
+
+# game/nikroute2.rpy:8822
+translate Tchinese youdidit_41da85be:
+
+    # wi "\"When blame is going to come pouring down from the sky like molten rock. I don't want either of you under that.\""
+    wi ""
+
+# game/nikroute2.rpy:8851
+translate Tchinese youdidit_5e1ea49c:
+
+    # "I’m reminded of that time a few days ago when Nik and I were caught with our pants down."
+    ""
+
+# game/nikroute2.rpy:8934
+translate Tchinese youdidit_56ccf218:
+
+    # "The wind picks up, and we all have to cover our eyes."
+    ""
+
+# game/nikroute2.rpy:8970
+translate Tchinese youdidit_56b3b38f:
+
+    # "Yao tosses the massive lead pipe he's carrying with both of his hands to the ground."
+    ""
+

@@ -40,10 +40,6 @@
     old "Did you say you'd like to wear James Hendrick's armor?"
     new "你有說要穿穿看James Hendrick的盔甲嗎？"
 
-# TODO: Translation updated at 2023-12-02 14:31
-
-translate Tchinese strings:
-
     # game/nikselect.rpy:213
     old "During a conversation with Beckett at night, did you:"
     new "在晚上跟Beckett談話時，你："
@@ -52,9 +48,9 @@ translate Tchinese strings:
     old "During second meeting with Porter, did you change your previous answer?"
     new "第二次見到Porter時，你有改變回答嗎？"
 
-    # game/nikselect.rpy:225
-    old "Who did you name instead[porterfirstchoice]"
-    new "你改成誰了？"
+    # game/nikselect.rpy:227
+    old "Who did you name instead of [porterfirstchoice]?"
+    new "你把[porterfirstchoice]改成誰了？"
 
     # game/nikselect.rpy:280
     old "How did you feel about Yao before going to extract the gold?"
@@ -64,25 +60,9 @@ translate Tchinese strings:
     old "I was glad I pushed my doubts about him back."
     new "很高興自己能夠不再懷疑他。"
 
-    # game/nikselect.rpy:280
-    old "{color=#a1a1a1}I felt he still can’t be trusted.\n(To be continued in future update){/color}"
-    new "{color=#a1a1a1}感覺還是不能信任。\n(請靜候往後更新){/color}"
-
-# TODO: Translation updated at 2024-02-27 22:22
-
-translate Tchinese strings:
-
-    # game/nikselect.rpy:227
-    old "Who did you name instead of [porterfirstchoice]?"
-    new "你改成誰了？"
-
     # game/nikselect.rpy:282
     old "I felt he still can’t be trusted."
     new "感覺還是不能信任。"
-
-# TODO: Translation updated at 2024-02-29 20:30
-
-translate Tchinese strings:
 
     # game/nikselect.rpy:303
     old "Did you accept Nik's proposal the second time he asked, after the cave-in in the mines?"

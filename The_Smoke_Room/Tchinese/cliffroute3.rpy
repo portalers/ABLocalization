@@ -1,4 +1,4 @@
-# game/cliffroute3.rpy:13
+﻿# game/cliffroute3.rpy:13
 translate Tchinese cliffroute3_bf256e58:
 
     # unk "“Lovely work, Cornelis. You're really getting the hang of this, aren't you?”"
@@ -16298,3 +16298,64 @@ translate Tchinese cliffchoice5_d3e7eb5a:
     # cl "\"I think that the animal who hunted us at the camp in the woods is still stalking us.\""
     cl "\"我想在森林裡攻擊了我們的那隻動物，現在還在跟著我們。\""
 
+# TODO: Translation updated at 2024-10-12 17:44
+
+# game/cliffroute3.rpy:192
+translate Tchinese cliffroute3_3472f1e0:
+
+    # cl "\"J-just a minute!\""
+    cl "“幾──幾分鐘就好！”"
+
+# game/cliffroute3.rpy:320
+translate Tchinese murdochtent_653608b9:
+
+    # cl "\"I had a fantastic go in the springs with you, but… I'd rather we stay on professional terms. At least for now.\""
+    cl "“跟你在泉水裡的時光很美好，只是……我更希望大伙保持專注，至少目前是這樣。”"
+
+# game/cliffroute3.rpy:369
+translate Tchinese murdochtent_0b909680:
+
+    # cl "\"We're so sorry. We were just—\""
+    cl "“實在不好意思，我們剛剛──”"
+
+# game/cliffroute3.rpy:438
+translate Tchinese aftertent_c2fbb5bb:
+
+    # "I wish that Clifford Tibbits... that {i}I{/i} could be that confident."
+    "真希望Clifford Tibbits——即{b}我{/b}——也能如此自信。"
+
+# game/cliffroute3.rpy:1019
+translate Tchinese cliffint1_21c09b86:
+
+    # cl "\"I-I'll take my leave. I'm sorry to have bothered you.\""
+    cl "“我─我先告辭了。很抱歉打擾你們。”"
+
+# game/cliffroute3.rpy:1027
+translate Tchinese cliffint1_3d48cdda:
+
+    # cl "\"I-it's quite alright. We've had a long few days.\""
+    cl "“沒─沒關係，最近確實比較煎熬。”"
+
+# game/cliffroute3.rpy:1490
+translate Tchinese aftercliffint2_ffcfe05e:
+
+    # m "\"Truth be told--\""
+    m "實話實說——"
+
+# game/cliffroute3.rpy:3489
+translate Tchinese cliffroute3a_e162e3ee:
+
+    # "There’s a sweet smell that lingers in the air — mostly likely from all the smoke of a small settlement waking up, along with the scent of pine sap."
+    "空氣中飄散著一種甜味—應該是源於整個保留地的人都起來燒柴而冒出的煙，當中還帶有松樹液的氣味。"
+
+# game/cliffroute3.rpy:3991
+translate Tchinese cliffroute3a_53000ff1:
+
+    # "I found out last night that his role in this community was far more important than I initially knew — leading the first night of one of the chants."
+    "昨晚我才發現他在這社群的角色比我想的重要多了—竟然是祭祀第一晚的頭領。"
+
+# game/cliffroute3.rpy:4932
+translate Tchinese cliffchoice5_084adb3a:
+
+    # ca "\"{cps=20}And I’ll be telling Hendricks to send somebody more reliab--\"{w=0.3}{nw}"
+    ca "{cps=20}我會叫Hendricks找個更牢靠的——\"{w=0.3}{nw}"

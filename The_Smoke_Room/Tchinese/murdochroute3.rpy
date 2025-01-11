@@ -15336,11 +15336,11 @@ translate Tchinese murdochroute3b_877129bc:
     # al "\"It doesn’t matter if you disturbed the waters when you weren’t supposed to.\""
     al "\"就算驚擾了不該驚擾的水也無所謂。\""
 
-# game/murdochroute3.rpy:4720
-translate Tchinese murdochroute3b_097ebb3d:
+# game/murdochroute3.rpy:4721
+translate Tchinese murdochroute3b_d1f71700:
 
-    # al "\"That happens to the best--best of us.\""
-    al "\"也算好事一件——對我們都好。\""
+    # al "\"That happens to the best-- best of us.\""
+    al "也算好事一件——對我們都好。"
 
 # game/murdochroute3.rpy:4721
 translate Tchinese murdochroute3b_c7944f8f:
@@ -19371,3 +19371,76 @@ translate Tchinese murdochroute3b_19aa1f13:
     # nibadg "\"It’s not safe! You have to run!\""
     nibadg "這裡很危險！快跑！"
 
+# TODO: Translation updated at 2024-10-12 17:44
+
+# game/murdochroute3.rpy:478
+translate Tchinese murdochroute3a_1a1dc235:
+
+    # m "\"Ah, sorry, I’ll—\""
+    m "“啊，對不起，我馬上─”"
+
+# game/murdochroute3.rpy:1948
+translate Tchinese murdochroute3a_9d6f15b8:
+
+    # cl "\"Thank you for your time and your ear, but I must be off to the train.\""
+    cl "“十分感謝你的時間跟知識，但我必須去趕火車了。”"
+
+# game/murdochroute3.rpy:3894
+translate Tchinese murdochroute3b_8ce2afc4:
+
+    # mu "\"But that doesn’t change the fact that Jim’s friends think Holly — and by extension, me — we’re too poor to be associated with.\""
+    mu "\"但這依然沒改變Jim朋友對Holly—再說開點，也包含我—窮到不值得深交。\""
+
+# game/murdochroute3.rpy:4295
+translate Tchinese murdochroute3b_39afc56a:
+
+    # cig "\"Look at this town — I know my daughter insists it’s a city but it’s still a town in my eyes.\""
+    cig "\"看看這鎮子吧—雖說我女兒堅稱是個城市，但在我看來終究是個小鎮。\""
+
+# game/murdochroute3.rpy:4342
+translate Tchinese murdochroute3b_caff7d2a:
+
+    # cig "\"Because, laddie, please don’t take offense when I say this — but outsiders aren’t considered a threat.\""
+    cig "\"因為呀，小夥子，我這麼說你別往心裡去，但外人算不上什麼威脅。\""
+
+# game/murdochroute3.rpy:4426
+translate Tchinese murdochroute3b_02e72565:
+
+    # "Blithe Washington — the one who took my money."
+    "Blithe Washington—拿走我的錢的人。"
+
+# game/murdochroute3.rpy:4673
+translate Tchinese murdochroute3b_76a8b615:
+
+    # m "\"Mr. Byrnes? Please don’t do that.\""
+    m "\"Byrnes先生？請別這樣。\""
+
+# game/murdochroute3.rpy:4721
+translate Tchinese murdochroute3b_0a93ea30:
+
+    # al "\"That happens to the best — best of us.\""
+    al "\"也算好事一件—對我們都好。\""
+
+# game/murdochroute3.rpy:5215
+translate Tchinese murdochroute3b_c9e754d0:
+
+    # ji "\"And more quartz than you would care to see — though that’s not unusual by any means.\""
+    ji "\"石英也多得誇張—雖然這也不算反常。\""
+
+# game/murdochroute3.rpy:5403
+translate Tchinese murdochroute3b_6894a316:
+
+    # "I hadn’t heard her talk about that before, but from the tone of her voice it sounds serious."
+    "我沒聽她提過這件事，但她的語氣是認真的。"
+
+# game/murdochroute3.rpy:5452
+translate Tchinese murdochroute3b_484b5bdc:
+
+    # "They walk in opposite directions while the crowd sort of hovers around the now empty table."
+    "他們走往相反方向，獨留一行人就這麼待在空桌旁。"
+
+# game/murdochroute3.rpy:5748
+translate Tchinese murdochroute3b_765c0b65:
+
+    # bl "\"The hell do you mean lucked out—\""
+    bl "\"走好運是什麼意—\""

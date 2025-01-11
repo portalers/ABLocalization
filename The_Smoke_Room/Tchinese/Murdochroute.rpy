@@ -7146,3 +7146,73 @@ translate Tchinese Murdochroute_e1f01506:
     # dh "\"You’ve probably given one to all of my students by now...\""
     dh "“你可能已經發給我的全部學生了……”"
 
+# TODO: Translation updated at 2024-10-12 17:44
+
+# game/Murdochroute.rpy:401
+translate Tchinese Murdochroute_a8aff84a:
+
+    # "Then I think what the fox said the other day — that these pictures are probably useless."
+    "接著我想起了狐狸前些時候說過的話─這些照片可能派不上用場。"
+
+# TODO: Translation updated at 2025-01-11 02:10
+
+# game/Murdochroute.rpy:471
+translate Tchinese Murdochroute_13696703:
+
+    # "He washes the rag again, wrings the water out, then brings it close to my--"
+    ""
+
+# game/Murdochroute.rpy:1037
+translate Tchinese Murdochroute_87ba0bd5:
+
+    # mu "\"Well--\""
+    mu ""
+
+# game/Murdochroute.rpy:1041
+translate Tchinese Murdochroute_55ccf505:
+
+    # mu "\"{i}Ralph{/i}--\""
+    mu ""
+
+# game/Murdochroute.rpy:1165
+translate Tchinese Murdochroute_1003fcba:
+
+    # m "\"Listen--\""
+    m ""
+
+# game/Murdochroute.rpy:1167
+translate Tchinese Murdochroute_5b8b49a5:
+
+    # ra "\"No, YOU listen.\""
+    ra ""
+
+# game/Murdochroute.rpy:1275
+translate Tchinese Murdochroute_b99d23d4:
+
+    # m "\"What was tha--\""
+    m ""
+
+# game/Murdochroute.rpy:1408
+translate Tchinese Murdochroute_7885f38b:
+
+    # m "\"One. Nik. Big guy — even bigger than me. Has a heart of gold, too.\""
+    m ""
+
+# game/Murdochroute.rpy:1695
+translate Tchinese Murdochroute_aa5a2cfb:
+
+    # m "\"That was--\""
+    m ""
+
+# game/Murdochroute.rpy:1722
+translate Tchinese Murdochroute_f1a14c55:
+
+    # mu "\"So I bet you can’t help but wonder how we get from this--\""
+    mu ""
+
+# game/Murdochroute.rpy:1725
+translate Tchinese Murdochroute_653a7734:
+
+    # mu "\"--to this.\""
+    mu ""
+
