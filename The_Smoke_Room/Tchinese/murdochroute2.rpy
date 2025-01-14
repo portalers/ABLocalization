@@ -6712,11 +6712,11 @@ translate Tchinese murdochroute2_ede00384:
     # "I swallow before speaking up."
     "我吞了口口水，然後說道："
 
-# game/murdochroute2.rpy:1917
-translate Tchinese murdochroute2_153ee216:
+# game/murdochroute2.rpy:1920
+translate Tchinese murdochroute2_5101c866:
 
-    # m "\"I heard the pictures talk to me today\""
-    m "“我今天聽到照片在對我說話。”"
+    # m "\"I heard the pictures talk to me today.\""
+    m "我今天聽到照片在對我說話。"
 
 # game/murdochroute2.rpy:1919
 translate Tchinese murdochroute2_138ccc7a:
@@ -14181,11 +14181,11 @@ translate Tchinese murdochroute2_d09783e6:
     # bl "\"If I thought like you did I’d be sayin’ all boys should wear flowers all the time to be taken seriously.\""
     bl "“要是照你的邏輯，我會說‘所有的男孩都該一直戴著花，被好好呵護’。”"
 
-# game/murdochroute2.rpy:3963
-translate Tchinese murdochroute2_13a2bc52:
+# game/murdochroute2.rpy:3967
+translate Tchinese murdochroute2_be6cc502:
 
-    # bl "\"People would laugh at me. And they’d right to laugh, because I’d sound fuckin’ dumb.\""
-    bl "“然後別人會嘲笑我，因為這聽起來太他媽蠢了。”"
+    # bl "\"People would laugh at me. And they’d be right to laugh, because I’d sound fuckin’ dumb.\""
+    bl "然後別人會嘲笑我，因為這聽起來太他媽蠢了。"
 
 # game/murdochroute2.rpy:3964
 translate Tchinese murdochroute2_28b09264:

@@ -5556,6 +5556,12 @@ translate Tchinese nikroute4a_586e365d:
     # "Behind it we can see a visible stone."
     "後方能看見一塊岩石。"
 
+# game/nikroute4.rpy:1650
+translate Tchinese nikroute4a_b2e13fd2:
+
+    # "We can see a some loose stone."
+    "能看見鬆動的石塊。"
+
 # game/nikroute4.rpy:1643
 translate Tchinese nikroute4a_a915490d:
 
@@ -6434,10 +6440,6 @@ translate Tchinese nikroute4a_f01ec07a:
 
 # TODO: Translation updated at 2024-10-12 17:44
 
-
-
-
-
 # game/nikroute4.rpy:53
 translate Tchinese nikroute4a_8ca9b2aa:
 
@@ -6685,9 +6687,3 @@ translate Tchinese nikroute4a_8e955e56:
     pa "我們{i}只要{/i}不斷直走就能找到正確的路了。"
 
 # TODO: Translation updated at 2025-01-11 02:10
-
-# game/nikroute4.rpy:1650
-translate Tchinese nikroute4a_b2e13fd2:
-
-    # "We can see a some loose stone."
-    "能看見鬆動的石塊。"

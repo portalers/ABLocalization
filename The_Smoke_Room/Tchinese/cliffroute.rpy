@@ -4276,11 +4276,11 @@ translate Tchinese cliffroute_4c71c54c:
     # "James looks at me incredulously."
     "James懷疑地看著我。"
 
-# game/cliffroute.rpy:929
-translate Tchinese cliffroute_29f70cab:
+# game/cliffroute.rpy:946
+translate Tchinese cliffroute_896396c7:
 
-    # jam "\"And you will not tell Nikolai either.\""
-    jam "“還有，你同樣不可告訴Nikolai。”"
+    # jam "\"And you will not tell Nicholas either.\""
+    jam "“還有，你同樣不可告訴Nicholas。”"
 
 # game/cliffroute.rpy:931
 translate Tchinese cliffroute_d9f97187:
@@ -5494,10 +5494,10 @@ translate Tchinese cliffroute_68ab05c9:
     # "Chances are I'll never see her again after tonight, and I think she knows that, too."
     "今晚過後，我可能再也不會見到她了，我想她也明白。"
 
-# game/cliffroute.rpy:1269
-translate Tchinese cliffroute_b24f5363:
+# game/cliffroute.rpy:1286
+translate Tchinese cliffroute_cfa72996:
 
-    # "I've never told her I wanted to leave, but Cynthia has a way of finding things out for her own."
+    # "I've never told her I wanted to leave, but Cynthia has a way of finding things out on her own."
     "我從沒有向她吐過想要離開的苦水，但她總有辦法找到答案。"
 
 # game/cliffroute.rpy:1271
@@ -7824,21 +7824,6 @@ translate Tchinese strings:
     old "Don't object"
     new "不反對"
 
-# TODO: Translation updated at 2023-05-06 09:21
-
-# game/cliffroute.rpy:946
-translate Tchinese cliffroute_896396c7:
-
-    # jam "\"And you will not tell Nicholas either.\""
-    jam "“還有，你同樣不可告訴Nicholas。”"
-
-# TODO: Translation updated at 2023-07-25 16:41
-
-# game/cliffroute.rpy:1286
-translate Tchinese cliffroute_cfa72996:
-
-    # "I've never told her I wanted to leave, but Cynthia has a way of finding things out on her own."
-    "我從沒有向她吐過想要離開的苦水，但她總有辦法找到答案。"
 # TODO: Translation updated at 2024-10-12 17:44
 
 # game/cliffroute.rpy:150
@@ -7930,4 +7915,3 @@ translate Tchinese cliffroute_b6852414:
 
     # cl "\"Oh, thank you! And Clifford is fine. Anyway, Samuel—\""
     cl "“哦，謝謝你！還有叫我Cliff就好。 總而言之，Samuel-”"
-

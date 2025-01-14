@@ -205,9 +205,9 @@ translate Tchinese nikroute4b_7b7f0dcc:
     "把頭轉向群眾。"
 
 # game/nikroute4b.rpy:66
-translate Tchinese nikroute4b_b1e5f6e6:
+translate Tchinese nikroute4b_9cd6aad8:
 
-    # wi "Now I have a question for the workin' folks.\""
+    # wi "\"Now I have a question for the workin' folks.\""
     wi "工人們，我有個問題。"
 
 # game/nikroute4b.rpy:68
@@ -774,16 +774,16 @@ translate Tchinese nikroute4b_fa34c755:
     # m "\"I mean, really talk.\""
     m "認真談。"
 
-# game/nikroute4b.rpy:67
-translate Tchinese nikroute4b_0c7d424e:
+# game/nikroute4b.rpy:235
+translate Tchinese nikroute4b_8d8270fe:
 
-    # ni "\"He {nw}"
-    ni "他{nw}"
+    # "He {nw}"
+    "他{nw}"
 
-# game/nikroute4b.rpy:233
-translate Tchinese nikroute4b_d9d5b197:
+# game/nikroute4b.rpy:237
+translate Tchinese nikroute4b_dc2306e7:
 
-    # extend "blinks.\""
+    # extend "blinks."
     extend "眨了眨眼。"
 
 # game/nikroute4b.rpy:70
@@ -3046,7 +3046,7 @@ translate Tchinese nikroute4b_3fa9f549:
 translate Tchinese nikroute4b_9a7543e8:
 
     # ben "\"I weren’t tryin’ to kill you.\""
-    ben "我沒想殺了妳。"
+    ben "我沒想殺了你的。"
 
 # game/nikroute4b.rpy:723
 translate Tchinese nikroute4b_07de32fa:
@@ -4020,10 +4020,10 @@ translate Tchinese nikroute4b_3ce0938b:
     # br "\"So the second secret about this gun that I carry is that the first barrel is empty.\""
     br "這把槍的第二個秘密，就是第一個槍膛是空的。"
 
-# game/nikroute4b.rpy:1139
-translate Tchinese nikroute4b_4a9453ab:
+# game/nikroute4b.rpy:1329
+translate Tchinese nikroute4b_f006b394:
 
-    # "He turns the gun around in his paw and holds it up to ben."
+    # "He turns the gun around in his paw and holds it up to Ben."
     "他把手中的槍一轉，指向Ben。"
 
 # game/nikroute4b.rpy:1141
@@ -4588,7 +4588,7 @@ translate Tchinese nikroute4b_1ba4357e:
 translate Tchinese nikroute4b_a88ca7eb:
 
     # br "\"If you want any money, all you have to do is light one of the fuses...\""
-    br "你們想要前，只需要點燃一根導火線就行了……"
+    br "你們想要錢，只需要點燃一根導火線就行了……"
 
 # game/nikroute4b.rpy:1375
 translate Tchinese nikroute4b_bcc5790b:
@@ -6138,11 +6138,11 @@ translate Tchinese nikroute4b_f1b2bdcb:
     # "But they stand resolute, in spite of my weight, and in spite of the smothering scent of our sweat, our blood, of smoke and fire."
     "但哪怕拖著我的體重、聞著我們汗水、血液、煙與火的惡臭，他們依舊站得很穩。"
 
-# game/nikroute4b.rpy:2008
-translate Tchinese nikroute4b_d1349a3b:
+# game/nikroute4b.rpy:2199
+translate Tchinese nikroute4b_d882f701:
 
-    # ni "\"{cps=15}{i}Oh my goodness, oh my God\nmay God help you. Hops, heaven.{/i}\""
-    ni "{cps=15}{i}Oh my goodness, oh my God\nmay God help you. Hops, heaven.{/i}"
+    # ni "\"{cps=15}{i}Oh hop, you poor thing\nMay God help you, oh poor hop.{/i}\""
+    ni "{cps=15}{i}Oh hop, you poor thing\nMay God help you, oh poor hop.{/i}"
 
 # game/nikroute4b.rpy:2011
 translate Tchinese nikroute4b_0b7e1bb3:
@@ -6702,10 +6702,10 @@ translate Tchinese nikroute4b_168f59be:
     # md "\"I have my contingency plans Sam, but this is pretty goddamn bad.\""
     md "我是有應急計畫，Sam，只是這情況實在糟透了。"
 
-# game/nikroute4b.rpy:2400
-translate Tchinese nikroute4b_374d47a9:
+# game/nikroute4b.rpy:2404
+translate Tchinese nikroute4b_26ebaba2:
 
-    # "The sign on the front of the hip falls to the ground with a loud crash." with vpunch
+    # "The sign on the front of the Hip falls to the ground with a loud crash." with vpunch
     "Hip酒館前的招牌大聲砸在地上。" with vpunch
 
 # game/nikroute4b.rpy:2203
@@ -7464,10 +7464,10 @@ translate Tchinese nikroute4b_1ed69411:
     # pa "\"Well look who kept their fur unsinged.\""
     pa "看看是誰還沒被燒死啊。"
 
-# game/nikroute4b.rpy:2511
-translate Tchinese nikroute4b_ad4cac97:
+# game/nikroute4b.rpy:2715
+translate Tchinese nikroute4b_57d0c6e1:
 
-    # pa "\"I though y’all were charcoal when I saw you sneak on through that cave.\""
+    # pa "\"I thought y’all were charcoal when I saw you sneak on through that cave.\""
     pa "先前見到你們偷偷鑽進礦洞，還以為早就被燒成炭了呢。"
 
 # game/nikroute4b.rpy:2515
@@ -7639,9 +7639,9 @@ translate Tchinese nikroute4b_8b73c9d0:
     bk "怎麼每次有糟心事，都會遇見你？"
 
 # game/nikroute4b.rpy:2799
-translate Tchinese nikroute4b_392039b9:
+translate Tchinese nikroute4b_a25fe26e:
 
-    # m "When aren’t things going wrong here?\""
+    # m "\"When aren’t things going wrong here?\""
     m "這裡什麼時候沒糟心事了？"
 
 # game/nikroute4b.rpy:2801
@@ -7681,9 +7681,9 @@ translate Tchinese nikroute4b_ced77e29:
     bk "你以為是誰要負責收拾這爛攤子啊？"
 
 # game/nikroute4b.rpy:2814
-translate Tchinese nikroute4b_455eb60e:
+translate Tchinese nikroute4b_907a2ab6:
 
-    # "I wince a little at the thought.\""
+    # "I wince a little at the thought."
     "我想了一下，眉頭稍皺。"
 
 # game/nikroute4b.rpy:2815
@@ -7789,9 +7789,9 @@ translate Tchinese nikroute4b_839674b1:
     "讓我更加確信自己的猜想。"
 
 # game/nikroute4b.rpy:2849
-translate Tchinese nikroute4b_0e4df6c2:
+translate Tchinese nikroute4b_effea4b3:
 
-    # bk "\"A paycheck is paycheck, buddy.\""
+    # bk "\"A paycheck is a paycheck, buddy.\""
     bk "人總要工作的，朋友。"
 
 # game/nikroute4b.rpy:2851
@@ -8394,10 +8394,10 @@ translate Tchinese yaofuturechoice2_4d5d2923:
     # "And fuck you for the promise of better days and a better life."
     "還說什麼在這裡能過上更好的生活，去你媽的。"
 
-# game/nikroute4b.rpy:2705
-translate Tchinese yaofuturechoice2_a7f11a2b:
+# game/nikroute4b.rpy:3049
+translate Tchinese yaofuturechoice2_895edaf4:
 
-    # "Now that you’re nothing, may nobody stumble upon you on some god forsaken path."
+    # "Now that you’re nothing, may nobody stumble upon you on some God forsaken path."
     "現在你終於毀了，但願再也沒人會到你這來。"
 
 # game/nikroute4b.rpy:2706
@@ -8596,7 +8596,7 @@ translate Tchinese yaofuturechoice2_247fb0a7:
 translate Tchinese yaofuturechoice2_16a5af47:
 
     # "I sweat a little."
-    "我冒了點冷汗。"
+    "我捏了把冷汗。"
 
 # game/nikroute4b.rpy:2803
 translate Tchinese yaofuturechoice2_8a8ef219:
@@ -8680,7 +8680,7 @@ translate Tchinese yaofuturechoice2_81373d6d:
 translate Tchinese yaofuturechoice2_8d9584c6:
 
     # wi "\"Good, because me and Sam are taking 20.\""
-    wi "很好，因為我跟Sam要休息個20分鐘了。"
+    wi "很好，我跟Sam要去休息20分鐘了。"
 
 # game/nikroute4b.rpy:2836
 translate Tchinese yaofuturechoice2_49b490b2:
@@ -8872,7 +8872,7 @@ translate Tchinese yaofuturechoice2_65bd5756:
 translate Tchinese yaofuturechoice2_fdb27522:
 
     # m "\"Hrm.\""
-    m "呃。"
+    m "呃……"
 
 # game/nikroute4b.rpy:2898
 translate Tchinese yaofuturechoice2_9368e53f:
@@ -8980,7 +8980,7 @@ translate Tchinese yaofuturechoice2_1c3fa283:
 translate Tchinese yaofuturechoice2_dbbb853e:
 
     # m "\"You think I’d still have it if I had seen her?\""
-    m "要是我有見到她，你覺得我還會留著這東西嗎？"
+    m "你覺得我要是有見到她，還會留著這東西嗎？"
 
 # game/nikroute4b.rpy:2930
 translate Tchinese yaofuturechoice2_e72b64d4:
@@ -8992,7 +8992,7 @@ translate Tchinese yaofuturechoice2_e72b64d4:
 translate Tchinese yaofuturechoice2_1a4c50d3:
 
     # m "\"That would be helpful.\""
-    m "那會對我很有幫助。"
+    m "那就幫了我大忙了。"
 
 # game/nikroute4b.rpy:3140
 translate Tchinese yaofuturechoice2_1a94a347:
@@ -10648,7 +10648,7 @@ translate Tchinese yaofuturechoice2_67c61bea:
 translate Tchinese yaofuturechoice2_0bcbbae1:
 
     # ya "\"I don’t care where you dump my ashes...\""
-    ya "我才不管你把我骨灰倒哪……"
+    ya "我不在乎你把我骨灰倒哪……"
 
 # game/nikroute4b.rpy:3451
 translate Tchinese yaofuturechoice2_fd83dc28:
@@ -10906,13 +10906,13 @@ translate Tchinese yaofuturechoice2_7b27b487:
 translate Tchinese yaofuturechoice2_d4d7d6ac:
 
     # ya "\"There is no method of political change we can make to turn an evil empire good.\""
-    ya "沒有任何政治上的方式能改善這邪惡的帝國。"
+    ya "我們無法在政治層面上改善邪惡的帝國。"
 
 # game/nikroute4b.rpy:3532
 translate Tchinese yaofuturechoice2_dbf2429f:
 
     # ya "\"But we can still live good lives within one, together, on the fringes.\""
-    ya "但我們依舊在此共度了幸福美滿的人生。"
+    ya "但依舊在此共度了幸福美滿的人生。"
 
 # game/nikroute4b.rpy:3534
 translate Tchinese yaofuturechoice2_91fd83fd:
@@ -10980,10 +10980,10 @@ translate Tchinese yaofuturechoice2_6b3ff80d:
     # ch "\"Nonsense.\""
     ch "胡說八道。"
 
-# game/nikroute4b.rpy:3551
-translate Tchinese yaofuturechoice2_b591c702:
+# game/nikroute4b.rpy:3912
+translate Tchinese yaofuturechoice2_4a5ab240:
 
-    # ch "\"I’m am as healthy as I ever was.\""
+    # ch "\"I’m as healthy as I ever was.\""
     ch "我還是跟以前一樣健康。"
 
 # game/nikroute4b.rpy:3553
@@ -11014,7 +11014,7 @@ translate Tchinese yaofuturechoice2_d33ad4cb:
 translate Tchinese yaofuturechoice2_d08c1cee:
 
     # ya "\"But okay...\""
-    ya "但，好吧……"
+    ya "但，行吧……"
 
 # game/nikroute4b.rpy:3564
 translate Tchinese yaofuturechoice2_a79b9ff0:
@@ -11044,7 +11044,7 @@ translate Tchinese strings:
 
     # game/nikroute4b.rpy:2620
     old "Being able to see you has nothing to do with what’s smart or not."
-    new "想和你再見，跟聰不聰明無關。"
+    new "能和你再見，跟聰不聰明無關。"
 
     # game/nikroute4b.rpy:2620
     old "I guess you’re right."

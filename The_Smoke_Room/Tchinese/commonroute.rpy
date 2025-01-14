@@ -4669,10 +4669,10 @@ translate Tchinese commonroute_133dba05:
     "Huxley" "“靠！”"
 
 # game/commonroute.rpy:1123
-translate Tchinese commonroute_9749a8e2:
+translate Tchinese commonroute_22f95eac:
 
-    # re "\"I’m not paying another fucking fine. Let’s get out of here before we’re recognized. I like booze better than I hate candy asses.\""
-    re "“我可不會再交他媽的罰金了，在被認出來之前我們快走。比起一個窩囊廢我更願意和酒打交道。”"
+    # re "\"I’m not paying another fucking fine. Let’s get out of here before we’re recognized. I like booze better than I had candy asses.\""
+    re "我可不想再他媽繳罰金了，在被認出來之前我們快走。比起一個窩囊廢我更願意和酒打交道。"
 
 # game/commonroute.rpy:1252
 translate Tchinese commonroute_bc71f4a2:
@@ -6724,11 +6724,3 @@ translate Tchinese commonroute_7f85451f:
 
     # "Obsession can easily lead to heartbreak... and violence."
     "癡迷很容易導致心碎...和暴力。"
-# TODO: Translation updated at 2025-01-11 14:04
-
-# game/commonroute.rpy:1123
-translate Tchinese commonroute_22f95eac:
-
-    # re "\"I’m not paying another fucking fine. Let’s get out of here before we’re recognized. I like booze better than I had candy asses.\""
-    re ""
-

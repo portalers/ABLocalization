@@ -48374,3 +48374,11 @@ translate Tchinese nikroute3d2_2cfffb19:
 
     # "William’s attention isn’t disrupted by my grunt of dismay."
     ""
+# TODO: Translation updated at 2025-01-13 17:21
+
+# game/nikroute3.rpy:14799
+translate Tchinese nikroute3d2_4d7f4c19:
+
+    # wi "\"What’s unnecessary is an occupation-- especially in response to civilian concern of criminal allegations.\""
+    wi ""
+

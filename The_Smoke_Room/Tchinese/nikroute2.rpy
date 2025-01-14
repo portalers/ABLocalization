@@ -1740,6 +1740,12 @@ translate Tchinese nikroute2_22687612:
     # "It’s shining somewhere higher than my head."
     "光源來自我頭頂上方。"
 
+# game/nikroute2.rpy:487
+translate Tchinese nikroute2_7e26b49c:
+
+    # "It’s just the flame from his taper."
+    "但只是他細蠟燭的火光。"
+
 # game/nikroute2.rpy:6920
 translate Tchinese sellcomp_db662652:
 
@@ -26747,11 +26753,6 @@ translate Tchinese locker1bright_0874743c:
 
 # TODO: Translation updated at 2025-01-06 18:41
 
-
-
-
-
-
 # game/nikroute2.rpy:565
 translate Tchinese nikroute2_3a15f209:
 
@@ -26847,8 +26848,6 @@ translate Tchinese sny1_d18a61d2:
 
     # "The wolverine stands up and punches the dog in the face."
     ""
-
-
 
 # game/nikroute2.rpy:2810
 translate Tchinese sny1_d475da11:
@@ -27137,11 +27136,3 @@ translate Tchinese sellcomp_2acf3707:
 
     # "Nik picks up his pail and his equipment and disappears into the hall of the cabin."
     ""
-
-# TODO: Translation updated at 2025-01-11 11:04
-
-# game/nikroute2.rpy:487
-translate Tchinese nikroute2_7e26b49c:
-
-    # "It’s just the flame from his taper."
-    "只是他細蠟燭的火光。"
