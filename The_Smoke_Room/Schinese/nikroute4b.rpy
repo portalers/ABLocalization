@@ -11057,3 +11057,77 @@ translate Schinese strings:
     # game/nikroute4b.rpy:2626
     old "Because you’re my friend."
     new "因为你是我的朋友。"
+# TODO: Translation updated at 2025-01-13 17:49
+
+# game/nikroute4b.rpy:66
+translate Schinese nikroute4b_9cd6aad8:
+
+    # wi "\"Now I have a question for the workin' folks.\""
+    wi ""
+
+# game/nikroute4b.rpy:235
+translate Schinese nikroute4b_8d8270fe:
+
+    # "He {nw}"
+    ""
+
+# game/nikroute4b.rpy:237
+translate Schinese nikroute4b_dc2306e7:
+
+    # extend "blinks."
+    extend ""
+
+# game/nikroute4b.rpy:1329
+translate Schinese nikroute4b_f006b394:
+
+    # "He turns the gun around in his paw and holds it up to Ben."
+    ""
+
+# game/nikroute4b.rpy:2199
+translate Schinese nikroute4b_d882f701:
+
+    # ni "\"{cps=15}{i}Oh hop, you poor thing\nMay God help you, oh poor hop.{/i}\""
+    ni ""
+
+# game/nikroute4b.rpy:2404
+translate Schinese nikroute4b_26ebaba2:
+
+    # "The sign on the front of the Hip falls to the ground with a loud crash." with vpunch
+    "" with vpunch
+
+# game/nikroute4b.rpy:2715
+translate Schinese nikroute4b_57d0c6e1:
+
+    # pa "\"I thought y’all were charcoal when I saw you sneak on through that cave.\""
+    pa ""
+
+# game/nikroute4b.rpy:2799
+translate Schinese nikroute4b_a25fe26e:
+
+    # m "\"When aren’t things going wrong here?\""
+    m ""
+
+# game/nikroute4b.rpy:2814
+translate Schinese nikroute4b_907a2ab6:
+
+    # "I wince a little at the thought."
+    ""
+
+# game/nikroute4b.rpy:2849
+translate Schinese nikroute4b_effea4b3:
+
+    # bk "\"A paycheck is a paycheck, buddy.\""
+    bk ""
+
+# game/nikroute4b.rpy:3049
+translate Schinese yaofuturechoice2_895edaf4:
+
+    # "Now that you’re nothing, may nobody stumble upon you on some God forsaken path."
+    ""
+
+# game/nikroute4b.rpy:3912
+translate Schinese yaofuturechoice2_4a5ab240:
+
+    # ch "\"I’m as healthy as I ever was.\""
+    ch ""
+

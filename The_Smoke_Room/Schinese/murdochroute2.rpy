@@ -28743,3 +28743,17 @@ translate Schinese murdochroute2_35caa352:
     # gr "\"Holly understands that. That’s why her classroom is so well-managed.\""
     gr ""
 
+# TODO: Translation updated at 2025-01-13 17:49
+
+# game/murdochroute2.rpy:1920
+translate Schinese murdochroute2_5101c866:
+
+    # m "\"I heard the pictures talk to me today.\""
+    m ""
+
+# game/murdochroute2.rpy:3967
+translate Schinese murdochroute2_be6cc502:
+
+    # bl "\"People would laugh at me. And they’d be right to laugh, because I’d sound fuckin’ dumb.\""
+    bl ""
+
