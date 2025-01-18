@@ -37,9 +37,9 @@ translate Tchinese williamroute_862a1537:
     "我現在的思緒不適合工作，需要跟誰聊聊才行。"
 
 # game/williamroute.rpy:9
-translate Tchinese williamroute_9769b4cd:
+translate Tchinese williamroute_220063e6:
 
-    # "And I can feel like something is staring at me."
+    # "And I feel like something is staring at me."
     "我甚至感到了某種視線："
 
 # game/williamroute.rpy:10
@@ -121,10 +121,10 @@ translate Tchinese williamroute_bbbe2ba1:
     m "“我今晚不工作，神經太緊繃了。”"
 
 # game/williamroute.rpy:27
-translate Tchinese williamroute_372e9ff1:
+translate Tchinese williamroute_039b4340:
 
-    # cy "\"If I may be bold, Sam, I'm spooked plenty of nights, but I'm half as tall and weigh two thirds as less as you.\""
-    cy "“別怪我多嘴，Sam。我常常神經緊繃，但我身高是你一半、體重只有你三分之一。”"
+    # cy "\"If I may be bold, Sam, I'm spooked plenty of nights, but I'm half as tall and weigh two thirds less than you.\""
+    cy "別怪我多嘴，Sam。我常常神經緊繃，但我身高是你一半、體重只有你三分之一。"
 
 # game/williamroute.rpy:28
 translate Tchinese williamroute_59e9fb24:
@@ -169,9 +169,9 @@ translate Tchinese williamroute_51fb45ea:
     mu "“礦坑工會也曾抗爭過，但從來沒有鬧到這種時辰。”"
 
 # game/williamroute.rpy:41
-translate Tchinese williamroute_960ffbbc:
+translate Tchinese williamroute_b714acd7:
 
-    # "The door behind us opened suddenly."
+    # "The door behind us opens suddenly."
     "我們身後的門突然打開了。"
 
 # game/williamroute.rpy:46
@@ -289,15 +289,15 @@ translate Tchinese williamroute_efee701f:
     "我握住他的手腕，連爪子都伸出來。"
 
 # game/williamroute.rpy:72
-translate Tchinese williamroute_635a0283:
+translate Tchinese williamroute_859c075a:
 
-    # "My hands were shaking."
+    # "My hands are shaking."
     "我雙手在顫抖、"
 
 # game/williamroute.rpy:73
-translate Tchinese williamroute_e7b567d9:
+translate Tchinese williamroute_668efca6:
 
-    # "My voice was hoarse."
+    # "My voice is hoarse."
     "聲音嘶啞。"
 
 # game/williamroute.rpy:74
@@ -529,9 +529,9 @@ translate Tchinese williamroute_6192ced3:
     wi "“現在你該做一件事。”"
 
 # game/williamroute.rpy:123
-translate Tchinese williamroute_f30c961a:
+translate Tchinese williamroute_10970bc7:
 
-    # "He was biting his lip, and there was something wild in his eyes."
+    # "He's biting his lip, and there's something wild in his eyes."
     "他咬著嘴唇，眼中閃過一絲狂野。"
 
 # game/williamroute.rpy:124
@@ -751,9 +751,9 @@ translate Tchinese williamroute_f70e4581:
     "我心中有一部分仍然不相信自己聽到的話。"
 
 # game/williamroute.rpy:176
-translate Tchinese williamroute_404257f0:
+translate Tchinese williamroute_bf512001:
 
-    # "Was William telling me the truth?"
+    # "Is William telling me the truth?"
     "William是在說真話嗎？"
 
 # game/williamroute.rpy:177
@@ -1261,15 +1261,15 @@ translate Tchinese williamroute_9dab8dbc:
     mu "“那好吧，先生。”"
 
 # game/williamroute.rpy:305
-translate Tchinese williamroute_6b43083c:
+translate Tchinese williamroute_ceb50c53:
 
-    # "The sudden change in the fox's tone, expression... and general cheeriness unnerved me."
+    # "The sudden change in the fox's tone, expression... and general cheeriness unnerves me."
     "狐狸那突然切換的語氣、表情……以及雀躍的氛圍都讓我不安。"
 
 # game/williamroute.rpy:306
-translate Tchinese williamroute_cf7691d1:
+translate Tchinese williamroute_e3126a4d:
 
-    # "He went from irate to amiable at the drop of a hat."
+    # "He goes from irate to amiable at the drop of a hat."
     "他從煩悶到開朗只是一瞬間的事。"
 
 # game/williamroute.rpy:307
@@ -1297,9 +1297,9 @@ translate Tchinese williamroute_fb259b98:
     mu "“真的啊。”"
 
 # game/williamroute.rpy:315
-translate Tchinese williamroute_d78fa023:
+translate Tchinese williamroute_71596dd3:
 
-    # "The fox stated it like a confirmation rather than a question."
+    # "The fox states it like a confirmation rather than a question."
     "狐狸的語氣比起疑問更像確認。"
 
 # game/williamroute.rpy:317
@@ -1351,9 +1351,9 @@ translate Tchinese williamroute_ff68ae22:
     "即便如此，我還是不喜歡被當成囚犯。"
 
 # game/williamroute.rpy:327
-translate Tchinese williamroute_362868ad:
+translate Tchinese williamroute_0f139ece:
 
-    # "When I open the door, I'm rattled by the hulking shadow that had been waiting just behind the door frame."
+    # "When I open the door, I'm rattled by the hulking shadow that is waiting just behind the door frame."
     "我一開門，就被等在門框後的高大身影嚇得跳起。"
 
 # game/williamroute.rpy:329
@@ -1435,10 +1435,10 @@ translate Tchinese williamroute_ce40a496:
     wi "“Sam自稱是證人，但還沒被認證。”"
 
 # game/williamroute.rpy:347
-translate Tchinese williamroute_ed53ab79:
+translate Tchinese williamroute_b79199c6:
 
-    # ni "\"Did he now.\""
-    ni "“他這麼說的？”"
+    # ni "\"Did he now?\""
+    ni "他這麼說的？"
 
 # game/williamroute.rpy:348
 translate Tchinese williamroute_c5edfa31:
@@ -1453,9 +1453,9 @@ translate Tchinese williamroute_85e529de:
     ni "“哼嗯。”"
 
 # game/williamroute.rpy:351
-translate Tchinese williamroute_e83a29af:
+translate Tchinese williamroute_5e4372d9:
 
-    # "Nik adjusts his hat and looks behind him, looking more and more like somebody was hitting him each growing second."
+    # "Nik adjusts his hat and looks behind him, looking more and more like somebody is hitting him each growing second."
     "Nik整了整帽子並看向身後，好像有人隨時會來打他一樣。"
 
 # game/williamroute.rpy:352
@@ -2256,10 +2256,10 @@ translate Tchinese williamroute_0a31e1e9:
     # mu "\"I can, but I have to be careful with my equipment.\""
     mu "“行，但我要小心翼翼才不會傷到我的道具。”"
 
-# game/williamroute.rpy:561
-translate Tchinese williamroute_753387dd:
+# game/williamroute.rpy:562
+translate Tchinese williamroute_88f37f84:
 
-    # "The fox goes in through before me."
+    # "The fox goes on through before me."
     "狐狸在我先頭通過了。"
 
 # game/williamroute.rpy:562
@@ -2364,10 +2364,10 @@ translate Tchinese williamroute_99917b48:
     # "But there was nothing there except spiky moss."
     "但那裡除了刺人的苔癬以外什麼也沒有。"
 
-# game/williamroute.rpy:588
-translate Tchinese williamroute_bab09d78:
+# game/williamroute.rpy:589
+translate Tchinese williamroute_6c33aac2:
 
-    # "Or at least what looked like moss."
+    # "Or at least what looks like moss."
     "或者說看起來像苔癬的東西。"
 
 # game/williamroute.rpy:589
@@ -2376,10 +2376,10 @@ translate Tchinese williamroute_a9bc8fbb:
     # m "\"Jesus that's a tarantula nest!\""
     m "“天啊，那可是個狼蛛巢！”"
 
-# game/williamroute.rpy:590
-translate Tchinese williamroute_fbc0e3bf:
+# game/williamroute.rpy:591
+translate Tchinese williamroute_cd0d345d:
 
-    # "I flinched away. My paw had almost brushed one of the many bundles of legs."
+    # "I flinch away. My paw had almost brushed one of the many bundles of legs."
     "我嚇得跳開。我的爪差點就擦過那成群的蜘蛛腳了。"
 
 # game/williamroute.rpy:592
@@ -2406,10 +2406,10 @@ translate Tchinese williamroute_00adf307:
     # mu "\"Before cannibalizing one another.\""
     mu "“然後就開始同類相食了。”"
 
-# game/williamroute.rpy:597
-translate Tchinese williamroute_c993b8f5:
+# game/williamroute.rpy:598
+translate Tchinese williamroute_329923f5:
 
-    # "William kneeled down and slapped away a few of the the layers of spiders with a flat rock."
+    # "William kneels down and slaps away a few of the layers of spiders with a flat rock."
     "William蹲下，用平板石塊拍走了幾層蜘蛛。"
 
 # game/williamroute.rpy:600
@@ -2418,10 +2418,10 @@ translate Tchinese williamroute_75551d00:
     # wi "\"Here's our sack of rocks.\""
     wi "“我們要找的那袋石頭就在這。”"
 
-# game/williamroute.rpy:602
-translate Tchinese williamroute_612cf22e:
+# game/williamroute.rpy:603
+translate Tchinese williamroute_a53a7697:
 
-    # "The big coyote turned and looked at me."
+    # "The big coyote turns and looks at me."
     "大郊狼轉過頭來看我。"
 
 # game/williamroute.rpy:603
@@ -2430,16 +2430,16 @@ translate Tchinese williamroute_c9781cab:
     # wi "\"See? You're good, Sam.\""
     wi "“看到了吧？你不用擔心了，Sam。”"
 
-# game/williamroute.rpy:605
-translate Tchinese williamroute_279da0eb:
+# game/williamroute.rpy:606
+translate Tchinese williamroute_777b60d0:
 
-    # "My chest tightened as he smiled at me."
+    # "My chest tightens as he smiles at me."
     "他對我微笑，令我心頭一緊。"
 
-# game/williamroute.rpy:606
-translate Tchinese williamroute_75887e87:
+# game/williamroute.rpy:607
+translate Tchinese williamroute_2be3981d:
 
-    # "He looked to Murdoch and jerked his head."
+    # "He looks to Murdoch and jerks his head."
     "他接著看向Murdoch，晃頭示意。"
 
 # game/williamroute.rpy:607
@@ -2628,17 +2628,17 @@ translate Tchinese williamroute_af863a58:
     # wi "\"Maybe Todd wasn't seeing things after all.\""
     wi "“也許Todd真不是看到幻覺。”"
 
-# game/williamroute.rpy:652
-translate Tchinese williamroute_b372a516:
+# game/williamroute.rpy:661
+translate Tchinese williamroute_9ae541b2:
 
-    # "The coyote turned to yell into the tunnel."
+    # "The coyote turns to yell into the tunnel."
     "郊狼轉身，向隧道大喊。"
 
 # game/williamroute.rpy:653
 translate Tchinese williamroute_b9a66fc7:
 
     # wi "\"If there's a bunch of pranksters in here, y'all best get home!\""
-    wi "“如果有不自愛的人們在裡面，你們最好都給我回家！”"
+    wi "“如果有不自愛的人在裡面，你們最好都給我回家！”"
 
 # game/williamroute.rpy:654
 translate Tchinese williamroute_a12ab5f0:
@@ -2646,22 +2646,22 @@ translate Tchinese williamroute_a12ab5f0:
     # wi "\"This place ain't safe during the day when there's lots of people here. Pokin' around alone without experience is a death wish!\""
     wi "“這地方在白天很多人的時候可不安全。沒經驗就自己亂鑽跟自殺可沒兩樣！”"
 
-# game/williamroute.rpy:655
-translate Tchinese williamroute_2e4c8373:
+# game/williamroute.rpy:664
+translate Tchinese williamroute_f8737811:
 
-    # "There was no reply."
+    # "There's no reply."
     "毫無回應。"
 
-# game/williamroute.rpy:656
-translate Tchinese williamroute_4df2b56d:
+# game/williamroute.rpy:665
+translate Tchinese williamroute_4bded32c:
 
-    # "But something from deeper in the mines responded."
+    # "But something from deeper in the mines responds."
     "但礦坑更深處的某種存在回答了。"
 
-# game/williamroute.rpy:657
-translate Tchinese williamroute_163f0942:
+# game/williamroute.rpy:666
+translate Tchinese williamroute_748e7732:
 
-    # "Something that sounded like a mix between high pitched laughter and dead leaves."
+    # "Something that sounds like a mix between high pitched laughter and dead leaves."
     "某種聽著像是尖笑跟腐葉的混合聲音。"
 
 # game/williamroute.rpy:658
@@ -2706,34 +2706,34 @@ translate Tchinese williamroute_b7893779:
     # "{i}Aren't you hungry, too?{/i}"
     "{b}「你不也餓著嗎？」{/b}"
 
-# game/williamroute.rpy:669
-translate Tchinese williamroute_4a95496d:
+# game/williamroute.rpy:678
+translate Tchinese williamroute_a4e3ef92:
 
-    # "I did not look back."
+    # "I do not look back."
     "我沒回頭看；"
 
-# game/williamroute.rpy:670
-translate Tchinese williamroute_b35cc2e7:
+# game/williamroute.rpy:679
+translate Tchinese williamroute_19a7621b:
 
-    # "I did not speak to that voice."
-    "我沒回應那聲音；"
+    # "I do not speak to that voice."
+    "沒回應那聲音；"
 
-# game/williamroute.rpy:671
-translate Tchinese williamroute_04a4178b:
+# game/williamroute.rpy:680
+translate Tchinese williamroute_65a77fb2:
 
-    # "I just stared at William's back, who was willing to walk in front of me now, guiding us home with the lantern."
-    "我只是盯著William的背。現在他願意走在我前方了，手提油燈，領著我們回家。"
+    # "I just stare at William's back, who is willing to walk in front of me now, guiding us home with the lantern."
+    "只是盯著William的背。現在他願意走在我前方了，手提油燈，領著我們回家。"
 
-# game/williamroute.rpy:672
-translate Tchinese williamroute_77520dc5:
+# game/williamroute.rpy:681
+translate Tchinese williamroute_6a7f79f0:
 
-    # "Nikolai broke away from our line first."
+    # "Nikolai breaks away from our line first."
     "Nikolai最先離隊。"
 
-# game/williamroute.rpy:673
-translate Tchinese williamroute_e2b99834:
+# game/williamroute.rpy:682
+translate Tchinese williamroute_c61fe596:
 
-    # "I had to stop him from leaving so abruptly."
+    # "I have to stop him from leaving so abruptly."
     "我得叫住他，不讓他走得如此唐突。"
 
 # game/williamroute.rpy:674
@@ -3288,10 +3288,10 @@ translate Tchinese williamroute_c1e8672e:
     # wi "\"Mouthy bastard nearly blinded me twice when it sparkled.\""
     wi "“那多嘴的混蛋差點閃瞎我兩次。”"
 
-# game/williamroute.rpy:830
-translate Tchinese williamroute_123f0a9e:
+# game/williamroute.rpy:839
+translate Tchinese williamroute_7475bae7:
 
-    # "Tears spilled down my face."
+    # "Tears spill down my face."
     "熱淚奪眶而出，流落我的臉。"
 
 # game/williamroute.rpy:831
@@ -3558,10 +3558,10 @@ translate Tchinese williamroute_78c81c5a:
     # "I see William standing over a pot that hangs from a rack on the hearth at the end of the room."
     "我看到William站在房間盡頭壁爐架上掛著的一口鍋旁。"
 
-# game/williamroute.rpy:902
-translate Tchinese williamroute_c975bcb6:
+# game/williamroute.rpy:911
+translate Tchinese williamroute_41c1f9e4:
 
-    # "He pours some of the contents into the bowl and brings it my way."
+    # "He pours some of the contents into a bowl and brings it my way."
     "他把鍋裡的東西倒進碗中，然後端給我。"
 
 # game/williamroute.rpy:904
@@ -4080,11 +4080,11 @@ translate Tchinese williamroute_3357ff42:
     # m "\"So you want to see this shithole get bigger?\""
     m "“所以你想看到這個糞坑越來越大嗎？”"
 
-# game/williamroute.rpy:1044
-translate Tchinese williamroute_b02acdf1:
+# game/williamroute.rpy:1053
+translate Tchinese williamroute_1172661d:
 
-    # wi "\"I’d welcome another mainstay than just Mr. Hendrick’s mine, if that’s what you mean, yes.\""
-    wi "“我歡迎另一支主力軍，而不只是Hendrick先生的礦業一家獨大。所以是的，如果這就是你的意思的話。”"
+    # wi "\"I’d welcome another mainstay than just Mr. Hendricks’s mine, if that’s what you mean, yes.\""
+    wi "我歡迎另一支主力軍，而不只是Hendrick先生的礦業一家獨大。所以是的，如果這就是你的意思的話。"
 
 # game/williamroute.rpy:1046
 translate Tchinese williamroute_16a44dca:
@@ -4098,10 +4098,10 @@ translate Tchinese williamroute_1cd40adb:
     # m "\"Can’t say I’d be sad to see the ground swallow this place, really.\""
     m "“說真的，看到這地方被大地吞沒我並不會難過。”"
 
-# game/williamroute.rpy:1050
-translate Tchinese williamroute_505748e7:
+# game/williamroute.rpy:1059
+translate Tchinese williamroute_f12aee87:
 
-    # "William shot me a look."
+    # "William shoots me a look."
     "William看了我一眼。"
 
 # game/williamroute.rpy:1052
@@ -5592,10 +5592,10 @@ translate Tchinese williamroute_892a783a:
     # mu "\"What’s that?\""
     mu "“那是什麼？”"
 
-# game/williamroute.rpy:1502
-translate Tchinese williamroute_b812bce2:
+# game/williamroute.rpy:1512
+translate Tchinese williamroute_d6692611:
 
-    # "Todd made a choking sound."
+    # "Todd makes a choking sound."
     "Todd發出了被嗆住的聲音。"
 
 # game/williamroute.rpy:1504
@@ -5604,11 +5604,11 @@ translate Tchinese williamroute_5831ce78:
     # to "\"Well, uh, y’see--\""
     to "“這個，呃，你看──”"
 
-# game/williamroute.rpy:1507
-translate Tchinese williamroute_9ee14fcb:
+# game/williamroute.rpy:1517
+translate Tchinese williamroute_cd950eb1:
 
-    # wi "\"You don’t have to explain that Todd, he’s fucking with you.\""
-    wi "“不必解釋，Todd，他是在跟你開玩笑。”"
+    # wi "\"You don’t have to explain that Todd. He’s fucking with you.\""
+    wi "不必解釋，Todd，他是在跟你開玩笑。"
 
 # game/williamroute.rpy:1511
 translate Tchinese williamroute_87bf20bf:
@@ -6791,11 +6791,11 @@ translate Tchinese williamroute_d2793920:
     # wi "\"Then I raise.\""
     wi "“那麼我加注。”"
 
-# game/williamroute.rpy:1911
-translate Tchinese williamroute_4d5a386b:
+# game/williamroute.rpy:1921
+translate Tchinese williamroute_09edfa57:
 
-    # "What!"
-    "什麼！"
+    # "What?!"
+    "什麼！？"
 
 # game/williamroute.rpy:1912
 translate Tchinese williamroute_f6d107a4:
@@ -6917,11 +6917,11 @@ translate Tchinese williamroute_09f217a8:
     # cl "\"Wait.\""
     cl "“等一下。”"
 
-# game/williamroute.rpy:1940
-translate Tchinese williamroute_28ff9aa8:
+# game/williamroute.rpy:1950
+translate Tchinese williamroute_e2bbff47:
 
-    # cl "\"Who’s—\""
-    cl "“誰──”"
+    # cl "\"Who’s--\""
+    cl "誰──"
 
 # game/williamroute.rpy:1943
 translate Tchinese williamroute_ac4b3772:
@@ -7619,10 +7619,10 @@ translate Tchinese williamroute_15f4f1da:
     # wi "\"I just haven’t honed in on anything as of yet.\""
     wi "“只是目前為止，我還沒有取得任何進展。”"
 
-# game/williamroute.rpy:2133
-translate Tchinese williamroute_cfb08dc2:
+# game/williamroute.rpy:2145
+translate Tchinese williamroute_9a075a40:
 
-    # "I felt a pit in my stomach."
+    # "I feel a pit in my stomach."
     "我感覺自己胃痛了起來。"
 
 # game/williamroute.rpy:2134
@@ -8213,11 +8213,11 @@ translate Tchinese williamroute_3d851395:
     # m "\"Wouldn’t stay, not even if you paid me.\""
     m "“就算付我錢，我也不會待在這。”"
 
-# game/williamroute.rpy:2287
-translate Tchinese williamroute_50ae6c55:
+# game/williamroute.rpy:2299
+translate Tchinese williamroute_04b19289:
 
-    # wi "\"Well, make sure you check in with me tomorrow, we need to put ideas together.\""
-    wi "“好，明天務必與我聯繫，我們需要集思廣益。”"
+    # wi "\"Well, make sure you check in with me tomorrow. We need to put ideas together.\""
+    wi "好，明天務必與我聯繫，我們需要集思廣益。"
 
 # game/williamroute.rpy:2289
 translate Tchinese williamroute_3bb14302:
@@ -8497,248 +8497,3 @@ translate Tchinese williamroute_6d777eb8:
 
     # mu "\"It’s only a bit of blood. It grazed m—\""
     mu "“出了點血而已，擦傷─”"
-
-# TODO: Translation updated at 2025-01-06 18:41
-
-# game/williamroute.rpy:9
-translate Tchinese williamroute_220063e6:
-
-    # "And I feel like something is staring at me."
-    ""
-
-# game/williamroute.rpy:27
-translate Tchinese williamroute_039b4340:
-
-    # cy "\"If I may be bold, Sam, I'm spooked plenty of nights, but I'm half as tall and weigh two thirds less than you.\""
-    cy ""
-
-# game/williamroute.rpy:41
-translate Tchinese williamroute_b714acd7:
-
-    # "The door behind us opens suddenly."
-    ""
-
-# game/williamroute.rpy:72
-translate Tchinese williamroute_859c075a:
-
-    # "My hands are shaking."
-    ""
-
-# game/williamroute.rpy:73
-translate Tchinese williamroute_668efca6:
-
-    # "My voice is hoarse."
-    ""
-
-# game/williamroute.rpy:123
-translate Tchinese williamroute_10970bc7:
-
-    # "He's biting his lip, and there's something wild in his eyes."
-    ""
-
-# game/williamroute.rpy:176
-translate Tchinese williamroute_bf512001:
-
-    # "Is William telling me the truth?"
-    ""
-
-# game/williamroute.rpy:305
-translate Tchinese williamroute_ceb50c53:
-
-    # "The sudden change in the fox's tone, expression... and general cheeriness unnerves me."
-    ""
-
-# game/williamroute.rpy:306
-translate Tchinese williamroute_e3126a4d:
-
-    # "He goes from irate to amiable at the drop of a hat."
-    ""
-
-# game/williamroute.rpy:315
-translate Tchinese williamroute_71596dd3:
-
-    # "The fox states it like a confirmation rather than a question."
-    ""
-
-# game/williamroute.rpy:327
-translate Tchinese williamroute_0f139ece:
-
-    # "When I open the door, I'm rattled by the hulking shadow that is waiting just behind the door frame."
-    ""
-
-# game/williamroute.rpy:347
-translate Tchinese williamroute_b79199c6:
-
-    # ni "\"Did he now?\""
-    ni ""
-
-# game/williamroute.rpy:351
-translate Tchinese williamroute_5e4372d9:
-
-    # "Nik adjusts his hat and looks behind him, looking more and more like somebody is hitting him each growing second."
-    ""
-
-# game/williamroute.rpy:562
-translate Tchinese williamroute_88f37f84:
-
-    # "The fox goes on through before me."
-    ""
-
-# game/williamroute.rpy:589
-translate Tchinese williamroute_6c33aac2:
-
-    # "Or at least what looks like moss."
-    ""
-
-# game/williamroute.rpy:591
-translate Tchinese williamroute_cd0d345d:
-
-    # "I flinch away. My paw had almost brushed one of the many bundles of legs."
-    ""
-
-# game/williamroute.rpy:598
-translate Tchinese williamroute_329923f5:
-
-    # "William kneels down and slaps away a few of the layers of spiders with a flat rock."
-    ""
-
-# game/williamroute.rpy:603
-translate Tchinese williamroute_a53a7697:
-
-    # "The big coyote turns and looks at me."
-    ""
-
-# game/williamroute.rpy:606
-translate Tchinese williamroute_777b60d0:
-
-    # "My chest tightens as he smiles at me."
-    ""
-
-# game/williamroute.rpy:607
-translate Tchinese williamroute_2be3981d:
-
-    # "He looks to Murdoch and jerks his head."
-    ""
-
-# game/williamroute.rpy:661
-translate Tchinese williamroute_9ae541b2:
-
-    # "The coyote turns to yell into the tunnel."
-    ""
-
-# game/williamroute.rpy:664
-translate Tchinese williamroute_f8737811:
-
-    # "There's no reply."
-    ""
-
-# game/williamroute.rpy:665
-translate Tchinese williamroute_4bded32c:
-
-    # "But something from deeper in the mines responds."
-    ""
-
-# game/williamroute.rpy:666
-translate Tchinese williamroute_748e7732:
-
-    # "Something that sounds like a mix between high pitched laughter and dead leaves."
-    ""
-
-# game/williamroute.rpy:667
-translate Tchinese williamroute_2c0b02c4:
-
-    # "I can tell from William's face that he hears something too."
-    ""
-
-# game/williamroute.rpy:678
-translate Tchinese williamroute_a4e3ef92:
-
-    # "I do not look back."
-    ""
-
-# game/williamroute.rpy:679
-translate Tchinese williamroute_19a7621b:
-
-    # "I do not speak to that voice."
-    ""
-
-# game/williamroute.rpy:680
-translate Tchinese williamroute_65a77fb2:
-
-    # "I just stare at William's back, who is willing to walk in front of me now, guiding us home with the lantern."
-    ""
-
-# game/williamroute.rpy:681
-translate Tchinese williamroute_6a7f79f0:
-
-    # "Nikolai breaks away from our line first."
-    ""
-
-# game/williamroute.rpy:682
-translate Tchinese williamroute_c61fe596:
-
-    # "I have to stop him from leaving so abruptly."
-    ""
-
-# game/williamroute.rpy:839
-translate Tchinese williamroute_7475bae7:
-
-    # "Tears spill down my face."
-    ""
-
-# game/williamroute.rpy:911
-translate Tchinese williamroute_41c1f9e4:
-
-    # "He pours some of the contents into a bowl and brings it my way."
-    ""
-
-# game/williamroute.rpy:1053
-translate Tchinese williamroute_1172661d:
-
-    # wi "\"I’d welcome another mainstay than just Mr. Hendricks’s mine, if that’s what you mean, yes.\""
-    wi ""
-
-# game/williamroute.rpy:1059
-translate Tchinese williamroute_f12aee87:
-
-    # "William shoots me a look."
-    ""
-
-# game/williamroute.rpy:1512
-translate Tchinese williamroute_d6692611:
-
-    # "Todd makes a choking sound."
-    ""
-
-# game/williamroute.rpy:1517
-translate Tchinese williamroute_cd950eb1:
-
-    # wi "\"You don’t have to explain that Todd. He’s fucking with you.\""
-    wi ""
-
-# game/williamroute.rpy:1921
-translate Tchinese williamroute_09edfa57:
-
-    # "What?!"
-    ""
-
-# game/williamroute.rpy:2145
-translate Tchinese williamroute_9a075a40:
-
-    # "I feel a pit in my stomach."
-    ""
-
-# game/williamroute.rpy:2299
-translate Tchinese williamroute_04b19289:
-
-    # wi "\"Well, make sure you check in with me tomorrow. We need to put ideas together.\""
-    wi ""
-
-# TODO: Translation updated at 2025-01-11 02:10
-
-# game/williamroute.rpy:1950
-translate Tchinese williamroute_e2bbff47:
-
-    # cl "\"Who’s--\""
-    cl ""
-
