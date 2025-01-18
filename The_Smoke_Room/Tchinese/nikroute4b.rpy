@@ -6958,7 +6958,7 @@ translate Tchinese nikroute4b_92764d88:
 translate Tchinese nikroute4b_f119dc3d:
 
     # "But it does feel weird to know this will be the last errand I run for the Madame."
-    "但一想到這次我最後一次幫夫人辦事，確實心情複雜。"
+    "但一想到這是我最後一次幫夫人辦事，確實心情複雜。"
 
 # game/nikroute4b.rpy:2290
 translate Tchinese nikroute4b_b862c3d8:
@@ -8338,7 +8338,7 @@ translate Tchinese yaofuturechoice2_0825e892:
 translate Tchinese yaofuturechoice2_e061220f:
 
     # "It all tears itself apart again."
-    "全都毀於一旦。"
+    "卻又付之一炬。"
 
 # game/nikroute4b.rpy:2695
 translate Tchinese yaofuturechoice2_be91e804:
@@ -9676,7 +9676,7 @@ translate Tchinese yaofuturechoice2_f717f5db:
 translate Tchinese yaofuturechoice2_28d169c6:
 
     # ni "\"I am often happy when I’m with you, Sam.\""
-    ni "跟你在一起時，我通常都很開心，Samㄡ"
+    ni "跟你在一起時，我通常都很開心，Sam。"
 
 # game/nikroute4b.rpy:3416
 translate Tchinese yaofuturechoice2_f25cd1d4:

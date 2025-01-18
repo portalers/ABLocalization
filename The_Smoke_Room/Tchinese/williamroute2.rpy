@@ -473,10 +473,10 @@ translate Tchinese williamroute2_aa6c9430:
     gr "“那你的意思是，他的傷是可以避免的？”"
 
 # game/williamroute2.rpy:159
-translate Tchinese williamroute2_ad401faf:
+translate Tchinese williamroute2_4aa57f14:
 
-    # m "\"{cps=25}Well, I suppose, but if he hadn’t—{w=0.3}{nw}"
-    m "“{cps=25}這，也許吧，但如果他沒——{nw}"
+    # m "\"{cps=25}Well, I suppose, but if he hadn’t--{nw}"
+    m "{cps=25}這，也許吧，但如果他沒——{nw}"
 
 # game/williamroute2.rpy:161
 translate Tchinese williamroute2_9b9f65d5:
@@ -1055,10 +1055,10 @@ translate Tchinese williamroute2_1e5a8587:
     m "“我得走了。”"
 
 # game/williamroute2.rpy:381
-translate Tchinese williamroute2_956645e5:
+translate Tchinese williamroute2_d248c1bd:
 
-    # cy "\"Don’t forget the shopping li—\""
-    cy "“別忘了帶上購物清——”"
+    # cy "\"Don’t forget the shopping li--\""
+    cy "別忘了帶上購物清——"
 
 # game/williamroute2.rpy:383
 translate Tchinese williamroute2_11eb96a8:
@@ -1739,10 +1739,10 @@ translate Tchinese williamroute2_78393772:
     "接著嗅了嗅空氣。"
 
 # game/williamroute2.rpy:578
-translate Tchinese williamroute2_b02babcc:
+translate Tchinese williamroute2_9de995a3:
 
-    # wi "\"Todd, what the—\""
-    wi "“Todd，搞什麼——”"
+    # wi "\"Todd, what the--.\""
+    wi "Todd，搞什麼——"
 
 # game/williamroute2.rpy:581
 translate Tchinese williamroute2_14f05252:
@@ -2057,10 +2057,10 @@ translate Tchinese williamroute2_a63e7faf:
     mar "“熱呼呼的派馬上就好囉，大家都有份噢。”"
 
 # game/williamroute2.rpy:675
-translate Tchinese williamroute2_f6573476:
+translate Tchinese williamroute2_0adc244f:
 
-    # m "\"Oh, I don’t need noth—\""
-    m "“噢，我什麼也不——”"
+    # m "\"Oh, I don’t need noth--\""
+    m "噢，我什麼也不——"
 
 # game/williamroute2.rpy:677
 translate Tchinese williamroute2_1cac2c94:
@@ -5200,10 +5200,10 @@ translate Tchinese after_sw1_75970105:
     wi "“抱歉，沒那個心情了。”"
 
 # game/williamroute2.rpy:1601
-translate Tchinese after_sw1_647e774e:
+translate Tchinese after_sw1_7f79357f:
 
-    # m "\"Bad shit happens all the time here. That shouldn’t get in the way of—\""
-    m "“這裡每天都會發生各種破事，別見怪——”"
+    # m "\"Bad shit happens all the time here. That shouldn’t get in the way of--\""
+    m "這裡每天都會發生各種破事，別見怪——"
 
 # game/williamroute2.rpy:1527
 translate Tchinese after_sw1_b5fab8b1:
@@ -6502,10 +6502,10 @@ translate Tchinese after_sw1_018d675d:
     m "“不……”"
 
 # game/williamroute2.rpy:1952
-translate Tchinese after_sw1_345ce45e:
+translate Tchinese after_sw1_6fe8b942:
 
-    # m "\"...but that’s different—\""
-    m "“……但這不是一回事——”"
+    # m "\"...but that’s different--\""
+    m "……但這不是一回事——"
 
 # game/williamroute2.rpy:1878
 translate Tchinese after_sw1_8a0409aa:
@@ -6790,10 +6790,10 @@ translate Tchinese after_sw1_fc32d35c:
     "無法理解。"
 
 # game/williamroute2.rpy:2015
-translate Tchinese after_sw1_075e85c4:
+translate Tchinese after_sw1_b60b1bfe:
 
-    # "Scarlet repeats her lines and I can tell that her Caledonian brogue is getting softer."
-    "Scarlet重複著她的台詞，可以聽到她的蘇格蘭口音越來越柔和了。"
+    # "Scarlet repeats her lines and I can tell that her Scottish brogue is getting softer."
+    "Scarlet重複著她的台詞，可以聽出她的蘇格蘭口音越來越柔和了。"
 
 # game/williamroute2.rpy:1940
 translate Tchinese after_sw1_ca5479d6_1:
@@ -6904,10 +6904,10 @@ translate Tchinese after_sw1_d2ef88e2:
     cy "“Sam？”"
 
 # game/williamroute2.rpy:2040
-translate Tchinese after_sw1_0dc3caa5:
+translate Tchinese after_sw1_ed15ad6b:
 
-    # cy "{cps=17}\"Sa—\"{w=0.2}{nw}"
-    cy "{cps=17}“Sa——”{w=0.2}{nw}"
+    # cy "{cps=17}\"Sa--\"{nw}"
+    cy "{cps=17}“Sa——”{nw}"
 
 # game/williamroute2.rpy:1971
 translate Tchinese after_sw1_19b50e25:
@@ -8662,9 +8662,9 @@ translate Tchinese dd2b_0a425f89:
     "然而聲音戛然而止，接著化妝室亮了起來。"
 
 # game/williamroute2.rpy:2634
-translate Tchinese dd2b_0a90f87f:
+translate Tchinese dd2b_311204ff:
 
-    # "Just like I thought — if I had stayed any longer, I could have been caught."
+    # "Just like I thought-- if I had stayed any longer, I could have been caught."
     "和我想的一樣：要是再待下去，我可能會被逮到。"
 
 # game/williamroute2.rpy:2560
@@ -12310,10 +12310,10 @@ translate Tchinese sw2_275ac27e:
     mu "“沒關係。”"
 
 # game/williamroute2.rpy:3787
-translate Tchinese sw2_c44733bc:
+translate Tchinese sw2_fbbfa703:
 
-    # mu "\"That reminds me — I brought the pin-hole camera.\""
-    mu "“這倒是提醒我了，我帶了針孔相機來。”"
+    # mu "\"That reminds me-- I brought the pin-hole camera.\""
+    mu "這倒是提醒我了，我帶了針孔相機來。"
 
 # game/williamroute2.rpy:3764
 translate Tchinese sw2_48dbc7c0:
@@ -12802,10 +12802,10 @@ translate Tchinese sw2_78a4b356:
     m "“我們這類人終究難逃一劫，不是嗎？”"
 
 # game/williamroute2.rpy:3940
-translate Tchinese sw2_6c8fe0cf:
+translate Tchinese sw2_0eb2ab17:
 
-    # wi "\"Well that’s what’s nice about the West, Sam — everybody gets to be in danger all of the time.\""
-    wi "“西部好就好在，人人都時刻與危險相伴，Sam。”"
+    # wi "\"Well that’s what’s nice about the West, Sam--everybody gets to be in danger all of the time.\""
+    wi "西部好就好在，人人都時刻與危險相伴，Sam。"
 
 # game/williamroute2.rpy:3917
 translate Tchinese sw2_e5e65a33:

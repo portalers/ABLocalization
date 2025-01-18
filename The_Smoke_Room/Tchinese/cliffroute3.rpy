@@ -1331,10 +1331,10 @@ translate Tchinese murdochtent_db865fdd:
     "不是太好聞。"
 
 # game/cliffroute3.rpy:369
-translate Tchinese murdochtent_0b909680:
+translate Tchinese murdochtent_44665f95:
 
-    # cl "\"We're so sorry. We were just—\""
-    cl "“實在不好意思，我們剛剛──”"
+    # cl "\"We're so sorry. We were just--\""
+    cl "實在不好意思，我們剛剛──"
 
 # game/cliffroute3.rpy:338
 translate Tchinese murdochtent_c6fc64b5:
@@ -16226,7 +16226,7 @@ translate Tchinese cliffchoice5_402a4570:
 
     # jeb "\"How are y’all gettin’ more injured in the settlement than the journey?\""
     jeb "\"你們在保留地受的傷怎麼比路上還多？\""
-    
+
 # TODO: Translation updated at 2023-12-20 21:29
 
 # game/cliffroute3.rpy:111

@@ -70,7 +70,7 @@ translate Tchinese williamroute_a77731a1:
 translate Tchinese williamroute_7d02c32a:
 
     # cy "\"You know Sam, you really lucked out with the picks tonight. Why, if I were in your shoes--\""
-    cy "“Sam，你今晚的選項真好耶。哎，如果我是你──”"
+    cy "Sam，你今晚的選項真好耶。哎，如果我是你——"
 
 # game/williamroute.rpy:16
 translate Tchinese williamroute_3fc0acd8:
@@ -370,7 +370,7 @@ translate Tchinese williamroute_23c14411:
 translate Tchinese williamroute_87b29e47:
 
     # "I figure that even if I did get away with killing Jack, scott free, that wouldn't matter to God."
-    "我想就算在殺了Jack之後能逃脫法網，神也不會寬恕我。"
+    "我想，就算在殺了Jack之後能逃脫法網，神也不會寬恕我。"
 
 # game/williamroute.rpy:94
 translate Tchinese williamroute_ea33374f:
@@ -694,7 +694,7 @@ translate Tchinese williamroute_d54583cb:
 translate Tchinese williamroute_6787ff19:
 
     # m "\"William... I'm a murderer--\""
-    m "“William……我是個殺人犯──”"
+    m "William……我是個殺人犯——"
 
 # game/williamroute.rpy:163
 translate Tchinese williamroute_74674646:
@@ -1048,7 +1048,7 @@ translate Tchinese williamroute_9a2a4a3a:
 translate Tchinese williamroute_9737665a:
 
     # m "\"But what am {i}I{/i} supposed to do right now? This very night?\""
-    m "“但是{b}我{/b}現在該做什麼──我是說今晚？”"
+    m "“但是{b}我{/b}現在該做什麼——我是說今晚？”"
 
 # game/williamroute.rpy:257
 translate Tchinese williamroute_fa16db8e:
@@ -2664,10 +2664,10 @@ translate Tchinese williamroute_748e7732:
     # "Something that sounds like a mix between high pitched laughter and dead leaves."
     "某種聽著像是尖笑跟腐葉的混合聲音。"
 
-# game/williamroute.rpy:658
-translate Tchinese williamroute_e884841e:
+# game/williamroute.rpy:667
+translate Tchinese williamroute_2c0b02c4:
 
-    # "I can tell from William's face that he heard something too."
+    # "I can tell from William's face that he hears something too."
     "從William的表情，我看得出他也聽見了什麼。"
 
 # game/williamroute.rpy:659
@@ -2754,11 +2754,11 @@ translate Tchinese williamroute_d4b9a5b1:
     # ni "\"Not sure that I want to right now.\""
     ni "“但我不確定現在想聊。”"
 
-# game/williamroute.rpy:680
+# game/williamroute.rpy:689
 translate Tchinese williamroute_6adcba33:
 
     # m "\"But Nik--\""
-    m "“可是Nik──”"
+    m "可是Nik——"
 
 # game/williamroute.rpy:682
 translate Tchinese williamroute_8ca7faf1:
@@ -3294,10 +3294,10 @@ translate Tchinese williamroute_7475bae7:
     # "Tears spill down my face."
     "熱淚奪眶而出，流落我的臉。"
 
-# game/williamroute.rpy:831
-translate Tchinese williamroute_8b97bda4:
+# game/williamroute.rpy:839
+translate Tchinese williamroute_b452bf11:
 
-    # "And for the first time in weeks, these are tears of grattitude; not fear, nor resentment, nor self-disgust."
+    # "And for the first time in weeks, these are tears of gratitude; not fear, nor resentment, nor self-disgust."
     "而這淚水是由於睽違數周的感激之情，而非恐懼、懊惱、自我厭惡。"
 
 # game/williamroute.rpy:833
@@ -3424,7 +3424,7 @@ translate Tchinese williamroute_1738a51e:
 translate Tchinese williamroute_e43a1887:
 
     # m "\"Somethin' about letting things fester.\""
-    m "“什麼把事情擺爛的──”"
+    m "“什麼把事情擺爛的——”"
 
 # game/williamroute.rpy:870
 translate Tchinese williamroute_834e0288:
@@ -3792,11 +3792,11 @@ translate Tchinese williamroute_f8aca35f:
     # wi "\"And you won’t have to if you can suss ‘em out without letting ‘em know.\""
     wi "“如果能在不讓他們發覺的情況下把他們找出來的話，你就不必了。”"
 
-# game/williamroute.rpy:966
+# game/williamroute.rpy:975
 translate Tchinese williamroute_51de6039:
 
     # wi "\"Something that you failed to pull off, if I must remind--\""
-    wi "“而這就是你先前受的教訓，如果我必須提醒──”"
+    wi "而這就是你先前受的教訓，如果我必須提醒——"
 
 # game/williamroute.rpy:967
 translate Tchinese williamroute_1f228d29:
@@ -4596,11 +4596,11 @@ translate Tchinese williamroute_d3bfcc37:
     # md "\"Just enough.\""
     md "“這就夠了。”"
 
-# game/williamroute.rpy:1201
+# game/williamroute.rpy:1210
 translate Tchinese williamroute_d3a88ea9:
 
     # md "\"And he protects us to the extent of his capabilies.\""
-    md "“他盡其所能保護著我們。”"
+    md "他盡其所能保護著我們。"
 
 # game/williamroute.rpy:1203
 translate Tchinese williamroute_d3bfcc37_1:
@@ -5226,11 +5226,11 @@ translate Tchinese williamroute_a5ec71ce:
     # ni "\"You finally playing a game with us?\""
     ni "“你終於肯和我們一起玩了？”"
 
-# game/williamroute.rpy:1378
+# game/williamroute.rpy:1387
 translate Tchinese williamroute_f46e912b:
 
     # "His scent is particularly earthy today--he must have been working long hours in the mine."
-    "他今天聞起來格外具有泥土味，他一定是在礦上工作了很長一段時間。"
+    "他今天身上的泥土味格外濃厚，一定是在礦上工作了很長一段時間。"
 
 # game/williamroute.rpy:1379
 translate Tchinese williamroute_6e21a918:
@@ -5598,11 +5598,11 @@ translate Tchinese williamroute_d6692611:
     # "Todd makes a choking sound."
     "Todd發出了被嗆住的聲音。"
 
-# game/williamroute.rpy:1504
+# game/williamroute.rpy:1514
 translate Tchinese williamroute_5831ce78:
 
     # to "\"Well, uh, y’see--\""
-    to "“這個，呃，你看──”"
+    to "這個，呃，你看——"
 
 # game/williamroute.rpy:1517
 translate Tchinese williamroute_cd950eb1:
@@ -5620,7 +5620,7 @@ translate Tchinese williamroute_87bf20bf:
 translate Tchinese williamroute_d771b34c:
 
     # to "\"W-well, y-y’see, the next highest is a full house...\""
-    to "“好──好吧，繼續，再下一手牌是滿堂紅……”"
+    to "“好——好吧，繼續，再下一手牌是滿堂紅……”"
 
 # game/williamroute.rpy:1515
 translate Tchinese williamroute_6ede209b:
@@ -5837,11 +5837,11 @@ translate Tchinese williamroute_a8302ddd:
     # to "\"Instead of checking, you can choose to raise.\""
     to "“除了過牌，你也可以選擇加注。”"
 
-# game/williamroute.rpy:1596
+# game/williamroute.rpy:1606
 translate Tchinese williamroute_4244a96a:
 
     # to "\"This means every player has to match the amount of chips-- or in this case, bottlecaps-- to the amount raised, and place those chips in the middle of the table.\""
-    to "“這意味著每名玩家必須將等金額的籌碼──在這裡是瓶蓋──放到桌子中間。”"
+    to "這意味著每名玩家必須將等金額的籌碼——在這裡是瓶蓋——放到桌子中間。"
 
 # game/williamroute.rpy:1599
 translate Tchinese williamroute_352556f5:
@@ -6101,11 +6101,11 @@ translate Tchinese williamroute_2b1052f7:
     # "Nik is smiling and Murdoch is holding his chin in his paw."
     "Nik在笑，而Murdoch用爪子托著下巴。"
 
-# game/williamroute.rpy:1678
+# game/williamroute.rpy:1688
 translate Tchinese williamroute_0e44d870:
 
     # wi "\"Y’all let me lead you around by the nose-- don’t let me do that!\""
-    wi "“你們全都被我牽著鼻子走了──別再讓我得逞了！”"
+    wi "你們全都被我牽著鼻子走，別再讓我得逞了！"
 
 # game/williamroute.rpy:1680
 translate Tchinese williamroute_fabb21ce:
@@ -6921,7 +6921,7 @@ translate Tchinese williamroute_09f217a8:
 translate Tchinese williamroute_e2bbff47:
 
     # cl "\"Who’s--\""
-    cl "誰──"
+    cl "誰——"
 
 # game/williamroute.rpy:1943
 translate Tchinese williamroute_ac4b3772:
@@ -7001,11 +7001,11 @@ translate Tchinese williamroute_a05be102:
     # cl "\"He’s injured! Who knows first aid? Do something! Somebody help him!\""
     cl "“他受傷了！誰懂急救？快想想辦法！誰來幫幫他！”"
 
-# game/williamroute.rpy:1959
+# game/williamroute.rpy:1969
 translate Tchinese williamroute_11166223:
 
     # mu "\"It’s only a bit of blood. It grazed m--\""
-    mu "“出了點血而已，擦傷──”"
+    mu "出了點血而已，擦傷——"
 
 # game/williamroute.rpy:1961
 translate Tchinese williamroute_a1d31fb1:
@@ -8422,78 +8422,3 @@ translate Tchinese williamroute_9206859d:
 
     # "Maybe next time I should ask what scares you."
     "也許下一次，我應該問問你內心中的恐懼。"
-# TODO: Translation updated at 2023-11-24 14:58
-
-# game/williamroute.rpy:839
-translate Tchinese williamroute_b452bf11:
-
-    # "And for the first time in weeks, these are tears of gratitude; not fear, nor resentment, nor self-disgust."
-    "而這淚水是由於睽違數周的感激之情，而非恐懼、懊惱、自我厭惡。"
-
-# TODO: Translation updated at 2024-10-12 17:44
-
-# game/williamroute.rpy:15
-translate Tchinese williamroute_14367cd0:
-
-    # cy "\"You know Sam, you really lucked out with the picks tonight. Why, if I were in your shoes—\""
-    cy "“Sam，你今晚的選項真好耶。哎，如果我是你─”"
-
-# game/williamroute.rpy:93
-translate Tchinese williamroute_ddd379d6:
-
-    # "I figure that even if I did get away with killing Jack, scot-free, that wouldn't matter to God."
-    "我想就算在殺了Jack之後能逃脫法網，神也不會寬恕我。"
-
-# game/williamroute.rpy:162
-translate Tchinese williamroute_bd834035:
-
-    # m "\"William... I'm a murderer—\""
-    m "“William……我是個殺人犯─”"
-
-# game/williamroute.rpy:689
-translate Tchinese williamroute_c0ae7a6c:
-
-    # m "\"But Nik—\""
-    m "“可是Nik─”"
-
-# game/williamroute.rpy:975
-translate Tchinese williamroute_61369090:
-
-    # wi "\"Something that you failed to pull off, if I must remind—\""
-    wi "“而這就是你先前受的教訓，如果我必須提醒─”"
-
-# game/williamroute.rpy:1210
-translate Tchinese williamroute_07ac4127:
-
-    # md "\"And he protects us to the extent of his capabilities.\""
-    md "“他盡其所能保護著我們。”"
-
-# game/williamroute.rpy:1387
-translate Tchinese williamroute_b7c914da:
-
-    # "His scent is particularly earthy today — he must have been working long hours in the mine."
-    "他今天聞起來格外具有泥土味，他一定是在礦上工作了很長一段時間。"
-
-# game/williamroute.rpy:1514
-translate Tchinese williamroute_5e7d103b:
-
-    # to "\"Well, uh, y’see—\""
-    to "“這個，呃，你看──”"
-
-# game/williamroute.rpy:1606
-translate Tchinese williamroute_19ffa2c3:
-
-    # to "\"This means every player has to match the amount of chips — or in this case, bottlecaps — to the amount raised, and place those chips in the middle of the table.\""
-    to "“這意味著每名玩家必須將等金額的籌碼─在這裡是瓶蓋─放到桌子中間。”"
-
-# game/williamroute.rpy:1688
-translate Tchinese williamroute_c6a48dbd:
-
-    # wi "\"Y’all let me lead you around by the nose — don’t let me do that!\""
-    wi "“你們全都被我牽著鼻子走，別再讓我得逞了！”"
-
-# game/williamroute.rpy:1969
-translate Tchinese williamroute_6d777eb8:
-
-    # mu "\"It’s only a bit of blood. It grazed m—\""
-    mu "“出了點血而已，擦傷─”"

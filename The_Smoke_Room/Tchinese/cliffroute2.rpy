@@ -26582,4 +26582,4 @@ translate Tchinese campsong_352c1ef4:
 translate Tchinese campsong_1e4c84a5:
 
     # jeb "\"Well, I-I saw… it was wearing his skin, his fur, and it… it talked like him, but it wasn't.\""
-    jeb "“唉，我-我看見……它披著他的皮，還操著他的口音，但我知道那不是他。”"
+    jeb "“唉，我、我看見……它披著他的皮，還操著他的口音，但我知道那不是他。”"

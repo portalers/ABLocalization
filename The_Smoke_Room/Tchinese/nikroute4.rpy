@@ -6685,5 +6685,3 @@ translate Tchinese nikroute4a_8e955e56:
 
     # pa "\"All we {i}have{/i} to do is keep going straight until we run into the right way.\""
     pa "我們{i}只要{/i}不斷直走就能找到正確的路了。"
-
-# TODO: Translation updated at 2025-01-11 02:10
