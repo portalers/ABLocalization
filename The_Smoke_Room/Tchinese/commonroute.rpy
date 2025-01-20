@@ -220,7 +220,7 @@ translate Tchinese commonroute_d9b887dd:
 translate Tchinese commonroute_5839574b:
 
     # m "\"Jesus!\""
-    m "“哎呀！”"
+    m "哎呀！"
 
 # game/commonroute.rpy:49
 translate Tchinese commonroute_fcfed3b4:
@@ -232,7 +232,7 @@ translate Tchinese commonroute_fcfed3b4:
 translate Tchinese commonroute_2ed6e0d1:
 
     # cy "\"Sammy! Enough hiding away up here, come downstairs...what are you doing?\""
-    cy "“Sammy！別在這躲著了，下來...你在幹什麼呢？”"
+    cy "Sammy！別在這躲著了，下來...你在幹什麼呢？"
 
 # game/commonroute.rpy:53
 translate Tchinese commonroute_ad68948c:
@@ -244,7 +244,7 @@ translate Tchinese commonroute_ad68948c:
 translate Tchinese commonroute_f654e67f:
 
     # m "\"Uh...I'm prayin'.\""
-    m "“呃...我在禱告。”"
+    m "呃...我在禱告。"
 
 # game/commonroute.rpy:56
 translate Tchinese commonroute_d8f42a45:
@@ -256,19 +256,19 @@ translate Tchinese commonroute_d8f42a45:
 translate Tchinese commonroute_2c9118e0:
 
     # cy "\"You pray?\""
-    cy "“你在禱告？”"
+    cy "你在禱告？"
 
 # game/commonroute.rpy:58
 translate Tchinese commonroute_333aca36:
 
     # m "\"Of course I pray!\""
-    m "“我當然是在禱告！”"
+    m "我當然是在禱告！"
 
 # game/commonroute.rpy:59
 translate Tchinese commonroute_066a55f8:
 
     # cy "\"Well I mean the down-on-your-knees-and-clasp-your-paws-to-heaven kind of praying.\""
-    cy "“我指的是，跪──下──抱──起──爪──子──向──天──堂──禱──告，那種禱告。”"
+    cy "我指的是，跪──下──抱──起──爪──子──向──天──堂──禱──告，那種禱告。"
 
 # game/commonroute.rpy:60
 translate Tchinese commonroute_9cb94fa1:
@@ -292,7 +292,7 @@ translate Tchinese commonroute_dc0c775d:
 translate Tchinese commonroute_806909e9:
 
     # cy "\"You alright, Sam? You look a little shaken up.\""
-    cy "“你還好吧，Sam？你看起來有點慌亂。”"
+    cy "你還好吧，Sam？你看起來有點慌亂。"
 
 # game/commonroute.rpy:65
 translate Tchinese commonroute_12abecb8:
@@ -310,13 +310,13 @@ translate Tchinese commonroute_88ca38f5:
 translate Tchinese commonroute_994528f3:
 
     # m "\"Well, that's 'cuz you busted in here without even a knock!\""
-    m "“那是因為你門都不敲就闖了進來！”"
+    m "那是因為你門都不敲就闖了進來！"
 
 # game/commonroute.rpy:69
 translate Tchinese commonroute_4cb8e941:
 
     # cy "\"Sorry about that, just kind of forgot to. Me and the other girls don't really do it.\""
-    cy "“我忘了，不好意思。我和其他姑娘們沒這個習慣。”"
+    cy "我忘了，不好意思。我和其他姑娘們沒這個習慣。"
 
 # game/commonroute.rpy:70
 translate Tchinese commonroute_2f78aea2:
@@ -340,7 +340,7 @@ translate Tchinese commonroute_4e0f1379:
 translate Tchinese commonroute_cae8e3c1:
 
     # m "\"Not tonight.\""
-    m "“今晚不行。”"
+    m "今晚不行。"
 
 # game/commonroute.rpy:75
 translate Tchinese commonroute_bba2e1f9:
@@ -352,7 +352,7 @@ translate Tchinese commonroute_bba2e1f9:
 translate Tchinese commonroute_166e2c80:
 
     # cy "\"Oh stop being so down all the time. Besides, we're uh, talking about you—\""
-    cy "“噢，別老是這麼沮喪。再說了，我們，呃，正在討論你──”"
+    cy "噢，別老是這麼沮喪。再說了，我們，呃，正在討論你──"
 
 # game/commonroute.rpy:78
 translate Tchinese commonroute_1f840ec3:
@@ -364,13 +364,13 @@ translate Tchinese commonroute_1f840ec3:
 translate Tchinese commonroute_fdcfd18e:
 
     # m "\"Why?\""
-    m "“為什麼？”"
+    m "為什麼？"
 
 # game/commonroute.rpy:81
 translate Tchinese commonroute_bfbd0731:
 
     # cy "\"Well, you know, there's this weasel in town. He's from Batavia and apparently he's made an appointment here!\""
-    cy "“這個嘛，你知道鎮上有隻鼬吧，來自巴達維亞（Batavia）那隻。據說他在這裡預約了！”"
+    cy "這個嘛，你知道鎮上有隻鼬吧，來自巴達維亞（Batavia）那隻。據說他在這裡預約了！"
 
 # game/commonroute.rpy:83
 translate Tchinese commonroute_50a5dca6:
@@ -382,13 +382,13 @@ translate Tchinese commonroute_50a5dca6:
 translate Tchinese commonroute_d92013fd:
 
     # m "\"So what?\""
-    m "“那又怎麼樣？”"
+    m "那又怎麼樣？"
 
 # game/commonroute.rpy:86
 translate Tchinese commonroute_4a469786:
 
     # cy "\"Oh Sam. As I said, he's from Batavia, and...he made the appointment with you.\""
-    cy "“噢，Sam。首先，他來自巴達維亞。其次...他的預約對象是你。”"
+    cy "噢，Sam。首先，他來自巴達維亞。其次...他的預約對象是你。"
 
 # game/commonroute.rpy:88
 translate Tchinese commonroute_fb923c94:
@@ -400,13 +400,13 @@ translate Tchinese commonroute_fb923c94:
 translate Tchinese commonroute_1ddd870b:
 
     # m "\"How do you know that?\""
-    m "“你怎麼知道的？”"
+    m "你怎麼知道的？"
 
 # game/commonroute.rpy:91
 translate Tchinese commonroute_ee783a59:
 
     # cy "\"Well, {i}I{/i} didn't look at the list. I would never...but Gabriel did.\""
-    cy "“啊，{b}我{/b}沒有看那個名單，我永遠不會的...不過Gabriel看了。”"
+    cy "啊，{b}我{/b}沒有看那個名單，我永遠不會的...不過Gabriel看了。"
 
 # game/commonroute.rpy:93
 translate Tchinese commonroute_bfbf4a6c:
@@ -418,7 +418,7 @@ translate Tchinese commonroute_bfbf4a6c:
 translate Tchinese commonroute_fbde89b0:
 
     # m "\"You know how much trouble you could get into for that? You'd lose me my whole business if it got out that you guys are snoopin' on my clients.\""
-    m "“你們知道自己會為此惹上多大麻煩嗎？如果被發現你們窺探我的客戶，我的生意就全毀了。”"
+    m "你們知道自己會為此惹上多大麻煩嗎？如果被發現你們窺探我的客戶，我的生意就全毀了。"
 
 # game/commonroute.rpy:95
 translate Tchinese commonroute_5f6a25de:
@@ -430,25 +430,25 @@ translate Tchinese commonroute_5f6a25de:
 translate Tchinese commonroute_8cc868ab:
 
     # cy "\"Again, it wasn't me that did it, and it was a one-time thing to see who was getting the weasel. We didn't expect it to be you.\""
-    cy "“再說一遍，不是我做的，而且只有這一次。我們想知道誰會被那隻白鼬看上，沒想到是你。”"
+    cy "再說一遍，不是我做的，而且只有這一次。我們想知道誰會被那隻白鼬看上，沒想到是你。"
 
 # game/commonroute.rpy:98
 translate Tchinese commonroute_4b83e202:
 
     # m "\"Doesn't make it right.\""
-    m "“這不能代表你們是無辜的。”"
+    m "這不能代表你們是無辜的。"
 
 # game/commonroute.rpy:99
 translate Tchinese commonroute_e515ea5f:
 
     # cy "\"No it doesn't.\""
-    cy "“是不能。”"
+    cy "是不能。"
 
 # game/commonroute.rpy:101
 translate Tchinese commonroute_d8bf8baf:
 
     # cy "\"Now come downstairs.\""
-    cy "“現在，下樓去吧。”"
+    cy "現在，下樓去吧。"
 
 # game/commonroute.rpy:102
 translate Tchinese commonroute_3f739ce1:
@@ -460,7 +460,7 @@ translate Tchinese commonroute_3f739ce1:
 translate Tchinese commonroute_cc626e99:
 
     # m "\"No, I'm headin' out for the night. This room's too stuffy. Think the evenin' air will do me some good.\""
-    m "“不了，我要出去散步。這個房間太悶了，我想晚上的空氣會讓我好受些。”"
+    m "不了，我要出去散步。這個房間太悶了，我想晚上的空氣會讓我好受些。"
 
 # game/commonroute.rpy:105
 translate Tchinese commonroute_77ae5dba:
@@ -472,7 +472,7 @@ translate Tchinese commonroute_77ae5dba:
 translate Tchinese commonroute_1cc2a7dd:
 
     # cy "\"Fine, but you should try to show your face around more often; that's the first step to building your clientèle.\""
-    cy "“好吧，不過你應該盡量多露露面，這是收穫客戶的第一步。”"
+    cy "好吧，不過你應該盡量多露露面，這是收穫客戶的第一步。"
 
 # game/commonroute.rpy:107
 translate Tchinese commonroute_0fc889d5:
@@ -484,7 +484,7 @@ translate Tchinese commonroute_0fc889d5:
 translate Tchinese commonroute_f02b8378:
 
     # m "\"You know mine are different. They find {i}me{/i}.\""
-    m "“你知道，我不一樣。 是他們找上{b}我{/b}的。”"
+    m "你知道，我不一樣。 是他們找上{b}我{/b}的。"
 
 # game/commonroute.rpy:109
 translate Tchinese commonroute_ae5e5d0f:
@@ -496,13 +496,13 @@ translate Tchinese commonroute_ae5e5d0f:
 translate Tchinese commonroute_18e7a05c:
 
     # cy "\"Well, I'm going back downstairs. You're always welcome to join us. Believe it or not, most of us like you.\""
-    cy "“好吧，我要回樓下去了，隨時歡迎你加入。信不信由你，我們大多數都很喜歡你的。”"
+    cy "好吧，我要回樓下去了，隨時歡迎你加入。信不信由你，我們大多數都很喜歡你的。"
 
 # game/commonroute.rpy:112
 translate Tchinese commonroute_8ce72f0c:
 
     # m "\"Yeah, yeah...\""
-    m "“是，是...”"
+    m "是，是..."
 
 # game/commonroute.rpy:113
 translate Tchinese commonroute_144ff281:
@@ -514,7 +514,7 @@ translate Tchinese commonroute_144ff281:
 translate Tchinese commonroute_73eb772f:
 
     # m "\"And thanks!\""
-    m "“對了，謝謝你！”"
+    m "對了，謝謝你！"
 
 # game/commonroute.rpy:115
 translate Tchinese commonroute_1334d82e:
@@ -532,7 +532,7 @@ translate Tchinese commonroute_f8aeebe8:
 translate Tchinese commonroute_a5cf47f0:
 
     # cy "\"Yeah, don't worry about it. You alright, Sam?\""
-    cy "“啊，別在意。你還好吧，Sam？”"
+    cy "啊，別在意。你還好吧，Sam？"
 
 # game/commonroute.rpy:120
 translate Tchinese commonroute_6eb52607:
@@ -544,19 +544,19 @@ translate Tchinese commonroute_6eb52607:
 translate Tchinese commonroute_0e5dac74:
 
     # m "\"Like I said, it's stuffy in here, makes me feel like I'm goin' crazy...but thanks for makin' an effort.\""
-    m "“就像我說的，這裡悶到我快要發瘋了...不過還是謝謝你的嘗試。”"
+    m "就像我說的，這裡悶到我快要發瘋了...不過還是謝謝你的嘗試。"
 
 # game/commonroute.rpy:123
 translate Tchinese commonroute_51987788:
 
     # cy "\"Sure Sam. Stay safe on those streets.\""
-    cy "“沒什麼，Sam。在街上注意安全。”"
+    cy "沒什麼，Sam。在街上注意安全。"
 
 # game/commonroute.rpy:124
 translate Tchinese commonroute_011d6512:
 
     # m "\"I will.\""
-    m "“我會的。”"
+    m "我會的。"
 
 # game/commonroute.rpy:126
 translate Tchinese commonroute_cb44b2d0:
@@ -742,19 +742,19 @@ translate Tchinese commonroute_d5544b76:
 translate Tchinese commonroute_0459514c:
 
     # m "\"Jack.\""
-    m "“Jack。”"
+    m "Jack。"
 
 # game/commonroute.rpy:166
 translate Tchinese commonroute_29b75f42:
 
     # ja "\"Howdy, Sam! How are ya this fine evenin'?\""
-    ja "“你好呀，Sam！今晚過得怎麼樣？”"
+    ja "你好呀，Sam！今晚過得怎麼樣？"
 
 # game/commonroute.rpy:167
 translate Tchinese commonroute_37f05e71:
 
     # m "\"Better now that I'm out of that pit.\""
-    m "“從那個陷阱裡出來後，感覺好多了。”"
+    m "從那個陷阱裡出來後，感覺好多了。"
 
 # game/commonroute.rpy:168
 translate Tchinese commonroute_2b253b7a:
@@ -766,7 +766,7 @@ translate Tchinese commonroute_2b253b7a:
 translate Tchinese commonroute_b3adb9d9:
 
     # ja "\"And you'll never have to go back again! How does that feel?\""
-    ja "“還有你再也不用回去了！感覺如何啊？”"
+    ja "還有你再也不用回去了！感覺如何啊？"
 
 # game/commonroute.rpy:170
 translate Tchinese commonroute_a5e8d1c4:
@@ -778,13 +778,13 @@ translate Tchinese commonroute_a5e8d1c4:
 translate Tchinese commonroute_e656eebc:
 
     # m "\"Good, I think. I don't really know yet.\""
-    m "“現在還不清楚，不過我想挺好的。”"
+    m "現在還不清楚，不過我想挺好的。"
 
 # game/commonroute.rpy:172
 translate Tchinese commonroute_097d0257:
 
     # ja "\"That's normal. I've done it a few times myself. Hopefully this'll be the last time now that I got myself a partner!\""
-    ja "“正常。我自己也做過幾次。現在我有個伴了，希望這會是最後一次。”"
+    ja "正常。我自己也做過幾次。現在我有個伴了，希望這會是最後一次。"
 
 # game/commonroute.rpy:173
 translate Tchinese commonroute_3bce1f45:
@@ -826,13 +826,13 @@ translate Tchinese commonroute_7ad6330f:
 translate Tchinese commonroute_031476ee:
 
     # ja "\"So you got all your stuff?\""
-    ja "“那麼，東西都帶上了？”"
+    ja "那麼，東西都帶上了？"
 
 # game/commonroute.rpy:180
 translate Tchinese commonroute_e32a4e6b:
 
     # m "\"Yup.\""
-    m "“是的。”"
+    m "是的。"
 
 # game/commonroute.rpy:181
 translate Tchinese commonroute_9a7cabcb:
@@ -868,7 +868,7 @@ translate Tchinese commonroute_bc63c0e4:
 translate Tchinese commonroute_178dae5b:
 
     # ja "\"Been a while since I've seen a double, no less two! Good work, boy!\""
-    ja "“我有段日子沒見過雙鷹了，更別提是兩枚！做得漂亮，夥伴！”"
+    ja "我有段日子沒見過雙鷹了，更別提是兩枚！做得漂亮，夥伴！"
 
 # game/commonroute.rpy:187
 translate Tchinese commonroute_1e092490:
@@ -910,13 +910,13 @@ translate Tchinese commonroute_c39bfc3c:
 translate Tchinese commonroute_d4aa51b0:
 
     # m "\"So what was it you needed help with?\""
-    m "“那麼，你之前說要我幫忙的是什麼？”"
+    m "那麼，你之前說要我幫忙的是什麼？"
 
 # game/commonroute.rpy:194
 translate Tchinese commonroute_14c300da:
 
     # ja "\"Well—\""
-    ja "“啊──”"
+    ja "啊──"
 
 # game/commonroute.rpy:195
 translate Tchinese commonroute_a1498963:
@@ -928,7 +928,7 @@ translate Tchinese commonroute_a1498963:
 translate Tchinese commonroute_cabb7909:
 
     # ja "\"—I struck big in the mine.\""
-    ja "“──我在礦井裡找到了大的。”"
+    ja "──我在礦井裡找到了大的。"
 
 # game/commonroute.rpy:197
 translate Tchinese commonroute_e499761a:
@@ -940,13 +940,13 @@ translate Tchinese commonroute_e499761a:
 translate Tchinese commonroute_df8ec4bc:
 
     # m "\"What?\""
-    m "“什麼？”"
+    m "什麼？"
 
 # game/commonroute.rpy:199
 translate Tchinese commonroute_fbd80db2:
 
     # ja "\"Samuel, I found gold in the mine!\""
-    ja "“Samuel，我在裡面發現了金子！”"
+    ja "Samuel，我在裡面發現了金子！"
 
 # game/commonroute.rpy:200
 translate Tchinese commonroute_75c48cf6:
@@ -958,7 +958,7 @@ translate Tchinese commonroute_75c48cf6:
 translate Tchinese commonroute_bf992361:
 
     # m "\"How?\""
-    m "“怎麼發現的？”"
+    m "怎麼發現的？"
 
 # game/commonroute.rpy:202
 translate Tchinese commonroute_72716aec:
@@ -982,7 +982,7 @@ translate Tchinese commonroute_08ed5fd1:
 translate Tchinese commonroute_f80d7d71:
 
     # ja "\"See, this is what I wanted to tell ya about. I didn't dig it up. Someone left some gold in a few bags that they already done mined.\""
-    ja "“不是我挖出來的。我跟你說，是有人挖完金礦後，留下的幾個袋子裡還剩點金子。”"
+    ja "不是我挖出來的。我跟你說，是有人挖完金礦後，留下的幾個袋子裡還剩點金子。"
 
 # game/commonroute.rpy:206
 translate Tchinese commonroute_fb80c1c6:
@@ -994,7 +994,7 @@ translate Tchinese commonroute_fb80c1c6:
 translate Tchinese commonroute_1e20c7a0:
 
     # ja "\"I know! Looks like they've been there a long time. It's in a part of the mine that no one goes to anymore. I think they just forgot about 'em back in the day.\""
-    ja "“我明白！它們看起來已經在那裡很久了。那個礦區一直沒人去過，我想他們就是給忘了。”"
+    ja "我明白！它們看起來已經在那裡很久了。那個礦區一直沒人去過，我想他們就是給忘了。"
 
 # game/commonroute.rpy:210
 translate Tchinese commonroute_a7ad8e9a:
@@ -1006,7 +1006,7 @@ translate Tchinese commonroute_a7ad8e9a:
 translate Tchinese commonroute_c6f38eb8:
 
     # m "\"But..but...how could anyone forget somethin' like that?\""
-    m "“但是...但是...怎麼會有人忘記這種事呢？”"
+    m "但是...但是...怎麼會有人忘記這種事呢？"
 
 # game/commonroute.rpy:210
 translate Tchinese commonroute_b3ad216e:
@@ -1018,7 +1018,7 @@ translate Tchinese commonroute_b3ad216e:
 translate Tchinese commonroute_01781c68:
 
     # ja "\"Who the hell knows!? But listen, there's a bag of the stuff. I think it's enough to, well...let us live rich for the rest of our lives. Like, REAL rich.\""
-    ja "“誰知道！？不過聽著，我想一袋那東西就足夠，嗯...足夠我們下輩子過上有錢人的生活了。──非常──有錢。”"
+    ja "誰知道！？不過聽著，我想一袋那東西就足夠，嗯...足夠我們下輩子過上有錢人的生活了。──非常──有錢。"
 
 # game/commonroute.rpy:212
 translate Tchinese commonroute_d9546968:
@@ -1072,13 +1072,13 @@ translate Tchinese commonroute_94012a2b:
 translate Tchinese commonroute_0fb87515:
 
     # m "\"Jack?\""
-    m "“Jack？”"
+    m "Jack？"
 
 # game/commonroute.rpy:221
 translate Tchinese commonroute_9c3d62ce:
 
     # ja "\"Come on, boy! We don't got much time.\""
-    ja "“快跟上！我們時間不多了。”"
+    ja "快跟上！我們時間不多了。"
 
 # game/commonroute.rpy:222
 translate Tchinese commonroute_a2dc4bee:
@@ -1090,13 +1090,13 @@ translate Tchinese commonroute_a2dc4bee:
 translate Tchinese commonroute_3673caf4:
 
     # m "\"Where are ya goin'?\""
-    m "“你要去哪？”"
+    m "你要去哪？"
 
 # game/commonroute.rpy:224
 translate Tchinese commonroute_e7bb0b8e:
 
     # ja "\"Ya see—\""
-    ja "“瞧著吧──”"
+    ja "瞧著吧──"
 
 # game/commonroute.rpy:227
 translate Tchinese commonroute_3ae6e8d2:
@@ -1108,13 +1108,13 @@ translate Tchinese commonroute_3ae6e8d2:
 translate Tchinese commonroute_d09b0662:
 
     # ja "\"There are still miners in the main stretch of the mine, even though it's Sunday. This is why I left it there until now; we're gonna grab it and get the hell outta town before anyone can get their dirty paws on it.\""
-    ja "“雖然今天是週日，不過主礦區依然有礦工在，所以我才把這事留到現在。我們得趕在任何人的髒爪子前把它們拿走，然後離開這個該死的鎮子。”"
+    ja "雖然今天是週日，不過主礦區依然有礦工在，所以我才把這事留到現在。我們得趕在任何人的髒爪子前把它們拿走，然後離開這個該死的鎮子。"
 
 # game/commonroute.rpy:227
 translate Tchinese commonroute_2d6ee573:
 
     # m "\"Oh.\""
-    m "“噢。”"
+    m "噢。"
 
 # game/commonroute.rpy:228
 translate Tchinese commonroute_a89e16ea:
@@ -1126,13 +1126,13 @@ translate Tchinese commonroute_a89e16ea:
 translate Tchinese commonroute_73531d3f:
 
     # m "\"Is it far?\""
-    m "“那裡遠嗎？”"
+    m "那裡遠嗎？"
 
 # game/commonroute.rpy:230
 translate Tchinese commonroute_68f0598f:
 
     # ja "\"It's right here.\""
-    ja "“已經到了。”"
+    ja "已經到了。"
 
 # game/commonroute.rpy:231
 translate Tchinese commonroute_3c1f98d6:
@@ -1150,7 +1150,7 @@ translate Tchinese commonroute_edc4dc78:
 translate Tchinese commonroute_6e575c89:
 
     # m "\"Here.\""
-    m "“這邊。”"
+    m "這邊。"
 
 # game/commonroute.rpy:234
 translate Tchinese commonroute_c1c5be6c:
@@ -1162,13 +1162,13 @@ translate Tchinese commonroute_c1c5be6c:
 translate Tchinese commonroute_bd64bbb4:
 
     # ja "\"I'm gettin' too old to do anything these days.\""
-    ja "“我最近已經老得什麼都做不成了。”"
+    ja "我最近已經老得什麼都做不成了。"
 
 # game/commonroute.rpy:236
 translate Tchinese commonroute_82dd48c3:
 
     # m "\"Now I know that's not true.\""
-    m "“我知道這不是事實。”"
+    m "我知道這不是事實。"
 
 # game/commonroute.rpy:237
 translate Tchinese commonroute_7ff7d3a9:
@@ -1192,7 +1192,7 @@ translate Tchinese commonroute_6fe5ac5e:
 translate Tchinese commonroute_c2d19494:
 
     # m "\"What is this?\""
-    m "“這是什麼？”"
+    m "這是什麼？"
 
 # game/commonroute.rpy:241
 translate Tchinese commonroute_2915c6b5:
@@ -1204,13 +1204,13 @@ translate Tchinese commonroute_2915c6b5:
 translate Tchinese commonroute_b1fc8404:
 
     # ja "\"Secret little back entrance.\""
-    ja "“秘密入口。”"
+    ja "秘密入口。"
 
 # game/commonroute.rpy:243
 translate Tchinese commonroute_87c13793:
 
     # m "\"How the hell did you find it?\""
-    m "“你怎麼找到這的？”"
+    m "你怎麼找到這的？"
 
 # game/commonroute.rpy:244
 translate Tchinese commonroute_e9e79323:
@@ -1264,7 +1264,7 @@ translate Tchinese commonroute_24d4de1a:
 translate Tchinese commonroute_b983fb80:
 
     # ja "\"Watch your head, Sam. You're big enough to get a knock from up there.\""
-    ja "“當心頭頂，Sam。你塊頭夠大的了。”"
+    ja "當心頭頂，Sam。你塊頭夠大的了。"
 
 # game/commonroute.rpy:257
 translate Tchinese commonroute_c35fb450:
@@ -1288,13 +1288,13 @@ translate Tchinese commonroute_a836c23c:
 translate Tchinese commonroute_19994ebe:
 
     # m "\"Hey, you know where we are? We could get lost—\""
-    m "“嘿，你清楚我們的方位嗎？我們也許會迷路──”"
+    m "嘿，你清楚我們的方位嗎？我們也許會迷路──"
 
 # game/commonroute.rpy:261
 translate Tchinese commonroute_6a300b56:
 
     # ja "\"I know EXACTLY where we are. Don't worry your pretty little kitty head about that!\""
-    ja "“我──很清楚──我們在哪裡，你那可愛的貓咪腦袋就別擔心了。”"
+    ja "我──很清楚──我們在哪裡，你那可愛的貓咪腦袋就別擔心了。"
 
 # game/commonroute.rpy:262
 translate Tchinese commonroute_419beb4c:
@@ -1348,7 +1348,7 @@ translate Tchinese commonroute_1d5b5483:
 translate Tchinese commonroute_cdb42733:
 
     # ja "\"Here it is, Sam...here it is.\""
-    ja "“就是這，Sam...就是這。”"
+    ja "就是這，Sam...就是這。"
 
 # game/commonroute.rpy:271
 translate Tchinese commonroute_8695717b:
@@ -1360,13 +1360,13 @@ translate Tchinese commonroute_8695717b:
 translate Tchinese commonroute_fedf7d1a:
 
     # m "\"I don't think I'm gonna fit through there.\""
-    m "“我不認為我鑽得過去。”"
+    m "我不認為我鑽得過去。"
 
 # game/commonroute.rpy:273
 translate Tchinese commonroute_a5bbebfc:
 
     # ja "\"It's the same size the whole way through. You'll make it, but you'll have to turn those big 'ol shoulders sideways.\""
-    ja "“它從頭到尾都一個樣，你能做到的。不過，得把你的大肩膀先側過來。”"
+    ja "它從頭到尾都一個樣，你能做到的。不過，得把你的大肩膀先側過來。"
 
 # game/commonroute.rpy:274
 translate Tchinese commonroute_e9892e9e:
@@ -1414,7 +1414,7 @@ translate Tchinese commonroute_bb16000a:
 translate Tchinese commonroute_7bd8e522:
 
     # ja "\"There...\""
-    ja "“在那...”"
+    ja "在那..."
 
 # game/commonroute.rpy:285
 translate Tchinese commonroute_33606a4d:
@@ -1432,7 +1432,7 @@ translate Tchinese commonroute_db73b326:
 translate Tchinese commonroute_b5ddb56d:
 
     # m "\"Really? They're all filled up?\""
-    m "“是真的嗎？都是滿的？”"
+    m "是真的嗎？都是滿的？"
 
 # game/commonroute.rpy:288
 translate Tchinese commonroute_2983b20c:
@@ -1444,7 +1444,7 @@ translate Tchinese commonroute_2983b20c:
 translate Tchinese commonroute_6907814b:
 
     # ja "\"Yes! Look in 'em.\""
-    ja "“是啊！看看它們。”"
+    ja "是啊！看看它們。"
 
 # game/commonroute.rpy:290
 translate Tchinese commonroute_de957f46:
@@ -1492,7 +1492,7 @@ translate Tchinese commonroute_470f7d07:
 translate Tchinese commonroute_e59f6a1b:
 
     # m "\"Hey, can you—\""
-    m "“嘿，你能──”"
+    m "嘿，你能──"
 
 # game/commonroute.rpy:300
 translate Tchinese commonroute_f8c2c8d6:
@@ -1552,7 +1552,7 @@ translate Tchinese commonroute_67ce038f:
 translate Tchinese commonroute_e6558d33:
 
     # ja "\"Ya big sonuvabitch!\""
-    ja "“你這婊子養的！”"
+    ja "你這婊子養的！"
 
 # game/commonroute.rpy:313
 translate Tchinese commonroute_b76cdcb1:
@@ -1588,7 +1588,7 @@ translate Tchinese commonroute_a20cefa7_3:
 translate Tchinese commonroute_1160ad10:
 
     # ja "\"—like a goddamn brick shithouse!\""
-    ja "“──真他媽的壯！”"
+    ja "──真他媽的壯！"
 
 # game/commonroute.rpy:320
 translate Tchinese commonroute_bb6627a9:
@@ -1612,7 +1612,7 @@ translate Tchinese commonroute_dbe91e97:
 translate Tchinese commonroute_ec1e38ab:
 
     # ja "\"Now where'd ya put 'em...\""
-    ja "“我來瞧瞧，你把它們放哪了...”"
+    ja "我來瞧瞧，你把它們放哪了..."
 
 # game/commonroute.rpy:324
 translate Tchinese commonroute_38222b8e:
@@ -1636,7 +1636,7 @@ translate Tchinese commonroute_954ba826:
 translate Tchinese commonroute_162e471b:
 
     # ja "\"No, no. Paws down or I'll hit ya again!\""
-    ja "“去，去。爪子拿開，不然我就繼續扁你了！”"
+    ja "去，去。爪子拿開，不然我就繼續扁你了！"
 
 # game/commonroute.rpy:329
 translate Tchinese commonroute_50f3d2ae:
@@ -1654,7 +1654,7 @@ translate Tchinese commonroute_08407e7b:
 translate Tchinese commonroute_2ec9c5da:
 
     # ja "\"Haha! There they are!\""
-    ja "“啊哈！它們在這！”"
+    ja "啊哈！它們在這！"
 
 # game/commonroute.rpy:332
 translate Tchinese commonroute_49889683:
@@ -1678,7 +1678,7 @@ translate Tchinese commonroute_7e6aa837:
 translate Tchinese commonroute_b993264b:
 
     # ja "\"Down pussycat! I don't wanna, but I'll give you another one if you don't just stay layin' on the ground.\""
-    ja "“趴下，貓咪！要是不老實在地上待著，我只能再給你來一下子。”"
+    ja "趴下，貓咪！要是不老實在地上待著，我只能再給你來一下子。"
 
 # game/commonroute.rpy:336
 translate Tchinese commonroute_436ebb64:
@@ -1720,7 +1720,7 @@ translate Tchinese commonroute_7262f22e:
 translate Tchinese commonroute_fd09e9a5:
 
     # ja "\"Unfh!\""
-    ja "“呃啊！”"
+    ja "呃啊！"
 
 # game/commonroute.rpy:344
 translate Tchinese commonroute_680953bc:
@@ -1876,7 +1876,7 @@ translate Tchinese commonroute_fd3849b7:
 translate Tchinese commonroute_ca0cf5a6:
 
     # m "\"Don't! DON'T!\""
-    m "“不要！不要！”"
+    m "不要！不要！"
 
 # game/commonroute.rpy:370
 translate Tchinese commonroute_84ee5230:
@@ -1978,7 +1978,7 @@ translate Tchinese commonroute_eed7a327:
 translate Tchinese commonroute_0fb87515_1:
 
     # m "\"Jack?\""
-    m "“Jack？”"
+    m "Jack？"
 
 # game/commonroute.rpy:389
 translate Tchinese commonroute_2295b173:
@@ -2098,7 +2098,7 @@ translate Tchinese commonroute_5a882715:
 translate Tchinese commonroute_9a25ca6e:
 
     # m "\"No...no, no, no, no.\""
-    m "“不...不，不，不，不。”"
+    m "不...不，不，不，不。"
 
 # game/commonroute.rpy:411
 translate Tchinese commonroute_13824914:
@@ -2158,7 +2158,7 @@ translate Tchinese commonroute_3560515c:
 translate Tchinese commonroute_13961210:
 
     # m "\"Please...please let me find them...\""
-    m "“拜託...拜託讓我找到...”"
+    m "拜託...拜託讓我找到..."
 
 # game/commonroute.rpy:421
 translate Tchinese commonroute_3e2e6372:
@@ -2188,7 +2188,7 @@ translate Tchinese commonroute_ed864bc5:
 translate Tchinese commonroute_609df1b5:
 
     # m "\"J-Jack?\""
-    m "“J──Jack？”"
+    m "J──Jack？"
 
 # game/commonroute.rpy:427
 translate Tchinese commonroute_eca5ee73:
@@ -2218,7 +2218,7 @@ translate Tchinese commonroute_edefc5ac:
 translate Tchinese commonroute_0fb87515_2:
 
     # m "\"Jack?\""
-    m "“Jack？”"
+    m "Jack？"
 
 # game/commonroute.rpy:432
 translate Tchinese commonroute_60384ec8:
@@ -2290,7 +2290,7 @@ translate Tchinese commonroute_69a9f971:
 translate Tchinese commonroute_f3cb72ec:
 
     # m "\"HELP! SOMEONE HELP ME!\""
-    m "“救命啊！誰來救救我！”"
+    m "救命啊！誰來救救我！"
 
 # game/commonroute.rpy:444
 translate Tchinese commonroute_f6cbed96:
@@ -2548,7 +2548,7 @@ translate Tchinese commonroute_040045e0:
 translate Tchinese commonroute_7b241cdf:
 
     # ni "\"Samuel? What are you doing?\""
-    ni "“Samuel？你在做什麼？”"
+    ni "Samuel？你在做什麼？"
 
 # game/commonroute.rpy:492
 translate Tchinese commonroute_52af95d0:
@@ -2560,13 +2560,13 @@ translate Tchinese commonroute_52af95d0:
 translate Tchinese commonroute_1029fd50:
 
     # ni "\"What happened!?\""
-    ni "“發生什麼事了！？”"
+    ni "發生什麼事了！？"
 
 # game/commonroute.rpy:495
 translate Tchinese commonroute_cbde3242:
 
     # m "\"I...\""
-    m "“我...”"
+    m "我..."
 
 # game/commonroute.rpy:496
 translate Tchinese commonroute_c3054137:
@@ -2578,13 +2578,13 @@ translate Tchinese commonroute_c3054137:
 translate Tchinese commonroute_9b8a1c42:
 
     # m "\"...fell down.\""
-    m "“...摔倒了。”"
+    m "...摔倒了。"
 
 # game/commonroute.rpy:499
 translate Tchinese commonroute_5d2753c4:
 
     # ni "\"Fell down.\""
-    ni "“摔倒。”"
+    ni "摔倒。"
 
 # game/commonroute.rpy:500
 translate Tchinese commonroute_9065b88d:
@@ -2614,19 +2614,19 @@ translate Tchinese commonroute_6a622b67:
 translate Tchinese commonroute_66a37241:
 
     # ni "\"Dear God...\""
-    ni "“上帝啊...”"
+    ni "上帝啊..."
 
 # game/commonroute.rpy:506
 translate Tchinese commonroute_df8ec4bc_1:
 
     # m "\"What?\""
-    m "“怎麼？”"
+    m "怎麼？"
 
 # game/commonroute.rpy:507
 translate Tchinese commonroute_52280fcb:
 
     # ni "\"Your head, it's busted all open.\""
-    ni "“你的頭，全都裂開了。”"
+    ni "你的頭，全都裂開了。"
 
 # game/commonroute.rpy:508
 translate Tchinese commonroute_fc121f5b:
@@ -2644,31 +2644,31 @@ translate Tchinese commonroute_41735146:
 translate Tchinese commonroute_59dd89bf:
 
     # ni "\"No, no. You need to see a doctor.\""
-    ni "“不，不。你需要去看醫生。”"
+    ni "不，不。你需要去看醫生。"
 
 # game/commonroute.rpy:512
 translate Tchinese commonroute_38852d9c:
 
     # m "\"I don't have money for a doctor.\""
-    m "“我沒有錢請醫生。”"
+    m "我沒有錢請醫生。"
 
 # game/commonroute.rpy:514
 translate Tchinese commonroute_1fa2a44d:
 
     # ni "\"Then I will help you see one.\""
-    ni "“那我幫你請。”"
+    ni "那我幫你請。"
 
 # game/commonroute.rpy:515
 translate Tchinese commonroute_873391a9:
 
     # m "\"You don't got money either.\""
-    m "“你也沒有錢。”"
+    m "你也沒有錢。"
 
 # game/commonroute.rpy:516
 translate Tchinese commonroute_a8878fa2:
 
     # ni "\"I know others with money. Who beat you?\""
-    ni "“我認識有錢的人。是誰打你？”"
+    ni "我認識有錢的人。是誰打你？"
 
 # game/commonroute.rpy:517
 translate Tchinese commonroute_8147045b:
@@ -2680,13 +2680,13 @@ translate Tchinese commonroute_8147045b:
 translate Tchinese commonroute_bbe76774:
 
     # m "\"Just some asshole on the street...I dunno who.\""
-    m "“街上一些混蛋罷了...我不清楚是誰。”"
+    m "街上一些混蛋罷了...我不清楚是誰。"
 
 # game/commonroute.rpy:520
 translate Tchinese commonroute_8e11965a:
 
     # ni "\"Did he beat you because of your work? What did he look like?\""
-    ni "“他是因為你的工作打你嗎？他長什麼樣？”"
+    ni "他是因為你的工作打你嗎？他長什麼樣？"
 
 # game/commonroute.rpy:521
 translate Tchinese commonroute_51383dce:
@@ -2716,19 +2716,19 @@ translate Tchinese commonroute_10be6609:
 translate Tchinese commonroute_89905673:
 
     # m "\"I...I need to go wash up. I can tell you more later.\""
-    m "“我之後再告訴你。我...我需要清理一下。”"
+    m "我之後再告訴你。我...我需要清理一下。"
 
 # game/commonroute.rpy:527
 translate Tchinese commonroute_38bbe2c1:
 
     # ni "\"Samuel.\""
-    ni "“Samuel。”"
+    ni "Samuel。"
 
 # game/commonroute.rpy:528
 translate Tchinese commonroute_6afde184:
 
     # m "\"Sorry, but I gotta go. Just...come see me at the saloon sometime.\""
-    m "“抱歉，我得走了...有空來酒館找我。”"
+    m "抱歉，我得走了...有空來酒館找我。"
 
 # game/commonroute.rpy:530
 translate Tchinese commonroute_2662f66c:
@@ -2914,7 +2914,7 @@ translate Tchinese commonroute_cf0dcd7e:
 translate Tchinese commonroute_1fafc296:
 
     # cy "\"SAMUEL!\""
-    cy "“SAMUEL！”"
+    cy "SAMUEL！"
 
 # game/commonroute.rpy:571
 translate Tchinese commonroute_4a43c7e8:
@@ -2926,13 +2926,13 @@ translate Tchinese commonroute_4a43c7e8:
 translate Tchinese commonroute_e1503a01:
 
     # m "\"Whu—?\""
-    m "“哈──？”"
+    m "哈──？"
 
 # game/commonroute.rpy:573
 translate Tchinese commonroute_b6b75d7d:
 
     # cy "\"OH MY GOD! He's alive!\""
-    cy "“我的上帝啊！他還活著！”"
+    cy "我的上帝啊！他還活著！"
 
 # game/commonroute.rpy:574
 translate Tchinese commonroute_26a9a2b7:
@@ -2944,7 +2944,7 @@ translate Tchinese commonroute_26a9a2b7:
 translate Tchinese commonroute_557afca0:
 
     # cy "\"Sam, what happened!?\""
-    cy "“Sam，發生什麼事了！？”"
+    cy "Sam，發生什麼事了！？"
 
 # game/commonroute.rpy:576
 translate Tchinese commonroute_79f36bf6:
@@ -2998,7 +2998,7 @@ translate Tchinese commonroute_1ba775b8:
 translate Tchinese commonroute_d3045526:
 
     # md "\"You should have come to me immediately, Sam.\""
-    md "“你應該馬上來找我的，Sam。”"
+    md "你應該馬上來找我的，Sam。"
 
 # game/commonroute.rpy:593
 translate Tchinese commonroute_bb095f0f:
@@ -3022,7 +3022,7 @@ translate Tchinese commonroute_5ef0bed7:
 translate Tchinese commonroute_dc2b593a:
 
     # md "\"You know, it's also my job to keep you healthy. Whiskey isn't going to fix something like this. CYNTHIA!\""
-    md "“你知道，保持你的健康也是我的工作。威士忌解決不了這種問題。CYNTHIA！”"
+    md "你知道，保持你的健康也是我的工作。威士忌解決不了這種問題。CYNTHIA！"
 
 # game/commonroute.rpy:601
 translate Tchinese commonroute_1390d6dc:
@@ -3040,19 +3040,19 @@ translate Tchinese commonroute_e05afb72:
 translate Tchinese commonroute_1941d3ff:
 
     # cy "\"Y-yes Madam?\""
-    cy "“什──什麼事，夫人？”"
+    cy "什──什麼事，夫人？"
 
 # game/commonroute.rpy:605
 translate Tchinese commonroute_45d61978:
 
     # md "\"Stop that crying and get dressed. Run to Dr. Avery's. Tell him to come as soon as he can.\""
-    md "“別哭了，穿好衣服去找Avery醫生。告訴他盡快到。”"
+    md "別哭了，穿好衣服去找Avery醫生。告訴他盡快到。"
 
 # game/commonroute.rpy:607
 translate Tchinese commonroute_b5ceb913:
 
     # cy "\"Yes Madam!\""
-    cy "“是的，夫人！”"
+    cy "是的，夫人！"
 
 # game/commonroute.rpy:608
 translate Tchinese commonroute_2ed30b46:
@@ -3064,7 +3064,7 @@ translate Tchinese commonroute_2ed30b46:
 translate Tchinese commonroute_cace20fe:
 
     # md "\"Who did this?\""
-    md "“是誰做的？”"
+    md "是誰做的？"
 
 # game/commonroute.rpy:612
 translate Tchinese commonroute_bdff7f08:
@@ -3076,7 +3076,7 @@ translate Tchinese commonroute_bdff7f08:
 translate Tchinese commonroute_b3e1d544:
 
     # md "\"My job is also to keep you safe. Be honest with me. I do not care who it is.\""
-    md "“我的工作同樣包括保護你的安全。如實地告訴我，我不在乎是誰。”"
+    md "我的工作同樣包括保護你的安全。如實地告訴我，我不在乎是誰。"
 
 # game/commonroute.rpy:616
 translate Tchinese commonroute_c473af00:
@@ -3088,7 +3088,7 @@ translate Tchinese commonroute_c473af00:
 translate Tchinese commonroute_d99144fe:
 
     # m "\"I—I was just having a walk through the streets...couple of men came up behind me and bashed my head. I didn't see them.\""
-    m "“我──我只是在街上散步...幾個男人從背後狠狠砸了我的頭，我沒有看見他們。”"
+    m "我──我只是在街上散步...幾個男人從背後狠狠砸了我的頭，我沒有看見他們。"
 
 # game/commonroute.rpy:619
 translate Tchinese commonroute_8352540a:
@@ -3106,19 +3106,19 @@ translate Tchinese commonroute_78f4a19e:
 translate Tchinese commonroute_2eaa2264:
 
     # md "\"You should never go out alone without telling anybody, Sam. You know this.\""
-    md "“你不應該在沒有告知的情況下獨自外出，Sam。你知道的。”"
+    md "你不應該在沒有告知的情況下獨自外出，Sam。你知道的。"
 
 # game/commonroute.rpy:624
 translate Tchinese commonroute_3ed7b932:
 
     # m "\"I'm sorry.\""
-    m "“對不起。”"
+    m "對不起。"
 
 # game/commonroute.rpy:626
 translate Tchinese commonroute_4c2f4505:
 
     # md "\"Well, you've suffered the consequences. Stay in this room until you see the doctor. You won't be working tonight, that should be punishment enough while you rest. Now, put some trousers on so I can send one of the girls in to change your sheets.\""
-    md "“嗯，你已經承受這個後果了。在就醫之前待在這個房間裡。今晚你不用工作，休養的時間應該足夠算懲罰了。現在，找條褲子穿上，我好派位姑娘給你換床單。”"
+    md "嗯，你已經承受這個後果了。在就醫之前待在這個房間裡。今晚你不用工作，休養的時間應該足夠算懲罰了。現在，找條褲子穿上，我好派位姑娘給你換床單。"
 
 # game/commonroute.rpy:628
 translate Tchinese commonroute_99a6ac80:
@@ -3304,7 +3304,7 @@ translate Tchinese commonroute_5cc1918d:
 translate Tchinese commonroute_a0bb41e3:
 
     # cy "\"Samuel?\""
-    cy "“Samuel？”"
+    cy "Samuel？"
 
 # game/commonroute.rpy:693
 translate Tchinese commonroute_f041c2ed:
@@ -3448,7 +3448,7 @@ translate Tchinese commonroute_6b79cb54:
 translate Tchinese commonroute_db19efa3:
 
     # cy "\"Samuel! May I have a word, or a few?\""
-    cy "“Samuel！我可以說幾句話嗎？”"
+    cy "Samuel！我可以說幾句話嗎？"
 
 # game/commonroute.rpy:719
 translate Tchinese commonroute_5b1cde6d:
@@ -3460,7 +3460,7 @@ translate Tchinese commonroute_5b1cde6d:
 translate Tchinese commonroute_e270c066:
 
     # m "\"Come in.\""
-    m "“請進。”"
+    m "請進。"
 
 # game/commonroute.rpy:721
 translate Tchinese commonroute_ef999747:
@@ -3478,19 +3478,19 @@ translate Tchinese commonroute_e3803a3b:
 translate Tchinese commonroute_4f9a4ed7:
 
     # cy "\"I didn’t mean to hurt you. Stupid of me to be so loud.\""
-    cy "“我不是故意弄疼你的。我真傻，竟然這麼大聲。”"
+    cy "我不是故意弄疼你的。我真傻，竟然這麼大聲。"
 
 # game/commonroute.rpy:728
 translate Tchinese commonroute_c77d3cd2:
 
     # m "\"It’s not so bad.\""
-    m "“沒有那麼痛。”"
+    m "沒有那麼痛。"
 
 # game/commonroute.rpy:730
 translate Tchinese commonroute_5ee03f0a:
 
     # cy "\"It is. You're crying.\""
-    cy "“有的。你在哭。”"
+    cy "有的。你在哭。"
 
 # game/commonroute.rpy:731
 translate Tchinese commonroute_a6ec18a7:
@@ -3520,7 +3520,7 @@ translate Tchinese commonroute_5dc5d11e:
 translate Tchinese commonroute_4bba70e7:
 
     # cy "\"Madame wants you to do a few errands today, considering you’ve been idle. Could be helpful for you to be out and about for a spell.\""
-    cy "“因為你現在閒著，夫人想讓你今天去辦點事。多到外面走走有助於康復。”"
+    cy "因為你現在閒著，夫人想讓你今天去辦點事。多到外面走走有助於康復。"
 
 # game/commonroute.rpy:739
 translate Tchinese commonroute_8d4a660b:
@@ -3532,13 +3532,13 @@ translate Tchinese commonroute_8d4a660b:
 translate Tchinese commonroute_1223e586:
 
     # cy "\"Find me if you need me to do this for you instead, of course. And return before dark.\""
-    cy "“當然，如果你需要我替你完成，來找我就行。還有在天黑前回來。”"
+    cy "當然，如果你需要我替你完成，來找我就行。還有在天黑前回來。"
 
 # game/commonroute.rpy:741
 translate Tchinese commonroute_a0eb2bb6:
 
     # m "\"Stop fussing. I wouldn’t be caught dead outside after dark.\""
-    m "“別大驚小怪，我不會在天黑後被搞死在外頭的。”"
+    m "別大驚小怪，我不會在天黑後被搞死在外頭的。"
 
 # game/commonroute.rpy:742
 translate Tchinese commonroute_2275890c:
@@ -3556,7 +3556,7 @@ translate Tchinese commonroute_92e0c1fa:
 translate Tchinese commonroute_256aba92:
 
     # cy "\"Well that’s the frightful possibility of the moment, is it not?! Follow the route. Do not bother going if you cannot.\""
-    cy "“這就是最可怕的可能性，難道不是嗎？！沿著路線走，如果你不能的話就不要去了。”"
+    cy "這就是最可怕的可能性，難道不是嗎？！沿著路線走，如果你不能的話就不要去了。"
 
 # game/commonroute.rpy:749
 translate Tchinese commonroute_c382a53b:
@@ -3574,7 +3574,7 @@ translate Tchinese commonroute_16ad460f:
 translate Tchinese commonroute_277488ed:
 
     # "\"Take the day off and mingle with some folks in the saloon. If you plan on going out, follow the safe route where trusted eyes will be on you. Spend some leisure time today. That’s not a request.\""
-    "“休息一天，和酒館裡的各位打打交道。如果你計畫外出，沿著安全的路線──有信任的目光看著你那種。度過一段閒暇時光。這不是請求。”"
+    "休息一天，和酒館裡的各位打打交道。如果你計畫外出，沿著安全的路線──有信任的目光看著你那種。度過一段閒暇時光。這不是請求。"
 
 # game/commonroute.rpy:752
 translate Tchinese commonroute_129c2868:
@@ -3652,7 +3652,7 @@ translate Tchinese commonroute_708f5afc:
 translate Tchinese commonroute_4f5842dd:
 
     # ha "\"What will you have, Sam?\""
-    ha "“要喝點什麼，Sam？”"
+    ha "要喝點什麼，Sam？"
 
 # game/commonroute.rpy:771
 translate Tchinese commonroute_c2611384:
@@ -3682,13 +3682,13 @@ translate Tchinese commonroute_165c4c93:
 translate Tchinese commonroute_ad0d226e:
 
     # m "\"Just whiskey with sugar. Bitters too.\""
-    m "“威士忌加糖，還有苦精。”"
+    m "威士忌加糖，還有苦精。"
 
 # game/commonroute.rpy:777
 translate Tchinese commonroute_7e8e2b5f:
 
     # ha "\"I can do that Sam.\""
-    ha "“可以，Sam。”"
+    ha "可以，Sam。"
 
 # game/commonroute.rpy:779
 translate Tchinese commonroute_1ae38f83:
@@ -3706,7 +3706,7 @@ translate Tchinese commonroute_49e28b07:
 translate Tchinese commonroute_0bdb99a8:
 
     # m "\"You holding up well today?\""
-    m "“今天還應付得過來嗎？”"
+    m "今天還應付得過來嗎？"
 
 # game/commonroute.rpy:784
 translate Tchinese commonroute_5095b5c0:
@@ -3718,7 +3718,7 @@ translate Tchinese commonroute_5095b5c0:
 translate Tchinese commonroute_b339a36b:
 
     # ha "\"We’re big, but we ain't this big. I’m running out of stock faster than I should and the girls can barely keep up. We’re built for thirty in the lounge at a time. Not forty. Not fifty. If we turn people away there’s gonna be a fuss.\""
-    ha "“我們規模很大，但沒有那麼大。我存貨見底的速度快了不少，姑娘們也勉強才跟得上活。我們酒廊是按三十人規模建的。不是四十，不是五十。把客人拒之門外會引起麻煩。”"
+    ha "我們規模很大，但沒有那麼大。我存貨見底的速度快了不少，姑娘們也勉強才跟得上活。我們酒廊是按三十人規模建的。不是四十，不是五十。把客人拒之門外會引起麻煩。"
 
 # game/commonroute.rpy:788
 translate Tchinese commonroute_a03ebbf1:
@@ -3736,7 +3736,7 @@ translate Tchinese commonroute_5ae8b436:
 translate Tchinese commonroute_a1de7b9b:
 
     # ha "\"Enjoy, Sam.\""
-    ha "“好好享受，Sam。”"
+    ha "好好享受，Sam。"
 
 # game/commonroute.rpy:795
 translate Tchinese commonroute_db290b6c:
@@ -3856,37 +3856,37 @@ translate Tchinese commonroute_98c77922:
 translate Tchinese commonroute_6c2a0940:
 
     # "Huxley" "\"Marcy told me that the rug is staying.\""
-    "Huxley" "“Marcy告訴我地毯還在。”"
+    "Huxley" "Marcy告訴我地毯還在。"
 
 # game/commonroute.rpy:815
 translate Tchinese commonroute_08cb88ea:
 
     # re "\"Does Marcy pay your bills?\""
-    re "“Marcy替你付帳嗎？”"
+    re "Marcy替你付帳嗎？"
 
 # game/commonroute.rpy:837
 translate Tchinese commonroute_376b6e5e:
 
     # "Huxley" "\"No.\""
-    "Huxley" "“不。”"
+    "Huxley" "不。"
 
 # game/commonroute.rpy:817
 translate Tchinese commonroute_f395b12f:
 
     # re "\"Does Marcy know anything of the world beyond fussing, tidying, and playing with wooden puzzles all day when you’re not about to coddle her?\""
-    re "“除了瞎忙一氣、整理、整天玩木製拼圖外，Marcy還知道什麼嗎，當你不寵著她的時候？”"
+    re "除了瞎忙一氣、整理、整天玩木製拼圖外，Marcy還知道什麼嗎，當你不寵著她的時候？"
 
 # game/commonroute.rpy:840
 translate Tchinese commonroute_de549008:
 
     # "Huxley" "\"No, but the damn rug is her mother’s. It’s filthy.\""
-    "Huxley" "“不，但那條該死的地毯是她媽的，髒死了。”"
+    "Huxley" "不，但那條該死的地毯是她媽的，髒死了。"
 
 # game/commonroute.rpy:843
 translate Tchinese commonroute_4b9b8d91:
 
     # re "\"So she should clean it then.\""
-    re "“那就該讓她弄乾淨。”"
+    re "那就該讓她弄乾淨。"
 
 # game/commonroute.rpy:851
 translate Tchinese commonroute_9e152619:
@@ -3898,31 +3898,31 @@ translate Tchinese commonroute_9e152619:
 translate Tchinese commonroute_075f41e3:
 
     # "Huxley" "\"She’s tried, but she ain't that clever. I’m just sick of looking at the damn thing.\""
-    "Huxley" "“她試過，不過她沒那麼機靈。我要看吐那東西了。”"
+    "Huxley" "她試過，不過她沒那麼機靈。我要看吐那東西了。"
 
 # game/commonroute.rpy:822
 translate Tchinese commonroute_68f0b73e:
 
     # re "\"So do something about it, then.\""
-    re "“那你自己想辦法吧。”"
+    re "那你自己想辦法吧。"
 
 # game/commonroute.rpy:857
 translate Tchinese commonroute_5d98e3f9:
 
     # "Huxley" "\"Royal flush.\""
-    "Huxley" "“皇家同花順。”"
+    "Huxley" "皇家同花順。"
 
 # game/commonroute.rpy:824
 translate Tchinese commonroute_9df68357:
 
     # re "\"Sunavabitch. Stop distractin’ me with your damn stories.\""
-    re "“媽的，別用你倒霉的故事分散我的注意。”"
+    re "媽的，別用你倒霉的故事分散我的注意。"
 
 # game/commonroute.rpy:864
 translate Tchinese commonroute_db63532e:
 
     # "Huxley" "\"Mind yer business and you’ll win some.\""
-    "Huxley" "“管好自己的事，你會贏的。”"
+    "Huxley" "管好自己的事，你會贏的。"
 
 # game/commonroute.rpy:826
 translate Tchinese commonroute_c4bdf5e9:
@@ -3964,7 +3964,7 @@ translate Tchinese commonroute_d6cbd900:
 translate Tchinese commonroute_a55e97bd:
 
     # cl "\"Goodness! Here’s that good old hustle and bustle that I miss. The reputation of Saguaro's Hip most certainly precedes her!\""
-    cl "“天啊！這正是我心心念念的那種熙熙攘攘的好地方。薩瓜洛的Hip酒館名不虛傳。”"
+    cl "天啊！這正是我心心念念的那種熙熙攘攘的好地方。薩瓜洛的Hip酒館名不虛傳。"
 
 # game/commonroute.rpy:835
 translate Tchinese commonroute_3edd96b9:
@@ -3994,13 +3994,13 @@ translate Tchinese commonroute_257a8f96:
 translate Tchinese commonroute_60b28dd9:
 
     # cy "\"I’m sorry sir, but we have no seating left aside from the bar.\""
-    cy "“對不起，先生。除了吧檯，我們沒有其他座位了。”"
+    cy "對不起，先生。除了吧檯，我們沒有其他座位了。"
 
 # game/commonroute.rpy:842
 translate Tchinese commonroute_1acae7b3:
 
     # cl "\"The bar sounds excellent, my dear! I hope not to impose for very long. You see, I’ve always wanted to visit an authentic western saloon. Why wouldn’t I want to start there?\""
-    cl "“吧檯聽起來棒極了，親愛的！希望我不會打擾你們太久。你知道嗎，我一直都想參觀一家正宗的西部酒館，所以為什麼不從那裡開始呢？”"
+    cl "吧檯聽起來棒極了，親愛的！希望我不會打擾你們太久。你知道嗎，我一直都想參觀一家正宗的西部酒館，所以為什麼不從那裡開始呢？"
 
 # game/commonroute.rpy:844
 translate Tchinese commonroute_9d95ed15:
@@ -4018,7 +4018,7 @@ translate Tchinese commonroute_579dcc3a:
 translate Tchinese commonroute_0508e6e5:
 
     # cy "\"Ha! This is as...authentic...as it gets, sir.\""
-    cy "“哈！這裡...盡量...正宗了，先生。”"
+    cy "哈！這裡...盡量...正宗了，先生。"
 
 # game/commonroute.rpy:848
 translate Tchinese commonroute_784b55f8:
@@ -4060,25 +4060,25 @@ translate Tchinese commonroute_3bdf6ce1:
 translate Tchinese commonroute_4d4bbb49:
 
     # cl "\"Sir! Is this a genuine Dalbéra?!\""
-    cl "“先生！這是真的達爾貝拉嗎？”"
+    cl "先生！這是真的達爾貝拉嗎？"
 
 # game/commonroute.rpy:860
 translate Tchinese commonroute_84b746ab:
 
     # ha "\"No sirs here, just Harlan. And I couldn’t tell ya. I just serve the drinks here. What’ll ya have?\""
-    ha "“這裡沒有先生，只有Harlan。而且我沒辦法告訴你，我只是提供酒水的。你要點什麼？”"
+    ha "這裡沒有先生，只有Harlan。而且我沒辦法告訴你，我只是提供酒水的。你要點什麼？"
 
 # game/commonroute.rpy:863
 translate Tchinese commonroute_88c9cefd:
 
     # cl "\"What’s most popular?\""
-    cl "“什麼最受歡迎？”"
+    cl "什麼最受歡迎？"
 
 # game/commonroute.rpy:865
 translate Tchinese commonroute_0caf592e:
 
     # ha "\"Beer.\""
-    ha "“啤酒。”"
+    ha "啤酒。"
 
 # game/commonroute.rpy:868
 translate Tchinese commonroute_5c2c5981:
@@ -4096,19 +4096,19 @@ translate Tchinese commonroute_420a2086:
 translate Tchinese commonroute_aa88ca28:
 
     # cl "\"Ah, I see. Well, I’ll have one then.\""
-    cl "“啊，我明白了。好吧，那我點一杯。”"
+    cl "啊，我明白了。好吧，那我點一杯。"
 
 # game/commonroute.rpy:872
 translate Tchinese commonroute_8a69acef:
 
     # ha "\"There’s more than one kind.\""
-    ha "“有很多品種。”"
+    ha "有很多品種。"
 
 # game/commonroute.rpy:875
 translate Tchinese commonroute_1b3d1bff:
 
     # cl "\"Yes, well, then I would like to have whichever kind is most preferred by the clientèle.\""
-    cl "“嗯，那麼，我想要顧客們最喜歡的那種。”"
+    cl "嗯，那麼，我想要顧客們最喜歡的那種。"
 
 # game/commonroute.rpy:877
 translate Tchinese commonroute_65b62e32:
@@ -4138,7 +4138,7 @@ translate Tchinese commonroute_65c0793d:
 translate Tchinese commonroute_d63b117d:
 
     # cl "\"You’re one of the workers here, aren’t you!?\""
-    cl "“你是這裡的工作人員之一，是不是！？”"
+    cl "你是這裡的工作人員之一，是不是！？"
 
 # game/commonroute.rpy:886
 translate Tchinese commonroute_cdda12e1:
@@ -4156,13 +4156,13 @@ translate Tchinese commonroute_d9f0d364:
 translate Tchinese commonroute_6d02a55b:
 
     # m "\"No. Just a frequent visitor.\""
-    m "“不。只是一個常客。”"
+    m "不。只是一個常客。"
 
 # game/commonroute.rpy:890
 translate Tchinese commonroute_47abecab:
 
     # cl "\"That’s strange. You fit the exact description of somebody I was told to look for.\""
-    cl "“真奇怪，你完全符合我要找的人的描述。”"
+    cl "真奇怪，你完全符合我要找的人的描述。"
 
 # game/commonroute.rpy:891
 translate Tchinese commonroute_fb6e33a2:
@@ -4186,19 +4186,19 @@ translate Tchinese commonroute_3f46151a:
 translate Tchinese commonroute_2f68815c:
 
     # cl "\"A mountain lion with beautiful markings and near-white fur. Built like a house, she said.\""
-    cl "“一隻有著美麗斑紋和近乎白色皮毛的美洲獅，體格像房子一樣。她這樣說的。”"
+    cl "一隻有著美麗斑紋和近乎白色皮毛的美洲獅，體格像房子一樣。她這樣說的。"
 
 # game/commonroute.rpy:896
 translate Tchinese commonroute_19181036:
 
     # m "\"Work does things to the body.\""
-    m "“體力勞動對身體有好處。”"
+    m "體力勞動對身體有好處。"
 
 # game/commonroute.rpy:898
 translate Tchinese commonroute_ed48999e:
 
     # cl "\"Y—yes, it does.\""
-    cl "“是──是啊，確實。”"
+    cl "是──是啊，確實。"
 
 # game/commonroute.rpy:899
 translate Tchinese commonroute_8ae969a4:
@@ -4216,7 +4216,7 @@ translate Tchinese commonroute_8bce8132:
 translate Tchinese commonroute_dc2d7522:
 
     # ha "\"This one won’t be able to tell you very much about our evening selections. Come back after dark if you’re interested.\""
-    ha "“關於我們的夜間選擇，這位無法告訴你太多。如果你有興趣，天黑後再來。”"
+    ha "關於我們的夜間選擇，這位無法告訴你太多。如果你有興趣，天黑後再來。"
 
 # game/commonroute.rpy:904
 translate Tchinese commonroute_94428711:
@@ -4228,7 +4228,7 @@ translate Tchinese commonroute_94428711:
 translate Tchinese commonroute_31ab5608:
 
     # cl "\"Oh! My apologies then.\""
-    cl "“喔！我很抱歉。”"
+    cl "喔！我很抱歉。"
 
 # game/commonroute.rpy:908
 translate Tchinese commonroute_16daf5df:
@@ -4240,13 +4240,13 @@ translate Tchinese commonroute_16daf5df:
 translate Tchinese commonroute_23b20522:
 
     # ha "\"The ladies will be able to help you with whatever you need.\""
-    ha "“女士們可以滿足你的任何需求。”"
+    ha "女士們可以滿足你的任何需求。"
 
 # game/commonroute.rpy:913
 translate Tchinese commonroute_9ff41bad:
 
     # cl "\"Oh, but I’m interested in the men.\""
-    cl "“哦，但是我喜歡雄性。”"
+    cl "哦，但是我喜歡雄性。"
 
 # game/commonroute.rpy:914
 translate Tchinese commonroute_cca89d89:
@@ -4276,25 +4276,25 @@ translate Tchinese commonroute_d00f64eb:
 translate Tchinese commonroute_95a4329c:
 
     # ha "\"I’m afraid that we aren’t that sort of establishment.\""
-    ha "“恐怕我們不是那種地方。”"
+    ha "恐怕我們不是那種地方。"
 
 # game/commonroute.rpy:922
 translate Tchinese commonroute_87ceb8a5:
 
     # cl "\"S—sir, I do not—\""
-    cl "“先──先生，我無意──”"
+    cl "先──先生，我無意──"
 
 # game/commonroute.rpy:924
 translate Tchinese commonroute_1bdd8296:
 
     # ha "\"Harlan.\""
-    ha "“Harlan。”"
+    ha "Harlan。"
 
 # game/commonroute.rpy:927
 translate Tchinese commonroute_28a3ba57:
 
     # cl "\"I do not mean to be impudent, but I was most specifically informed that you offered male options.\""
-    cl "“我無意冒犯，但我被明確告知了你們提供雄性選擇。”"
+    cl "我無意冒犯，但我被明確告知了你們提供雄性選擇。"
 
 # game/commonroute.rpy:929
 translate Tchinese commonroute_29c2e36b:
@@ -4306,13 +4306,13 @@ translate Tchinese commonroute_29c2e36b:
 translate Tchinese commonroute_f7aedd51:
 
     # re "\"You should stop yelling.\""
-    re "“你應該停止這麼大聲。”"
+    re "你應該停止這麼大聲。"
 
 # game/commonroute.rpy:983
 translate Tchinese commonroute_a9a24ce5:
 
     # cl "\"I—I hadn’t realized that I was.\""
-    cl "“我──我不是有意的。”"
+    cl "我──我不是有意的。"
 
 # game/commonroute.rpy:932
 translate Tchinese commonroute_eb4b1dc1:
@@ -4324,7 +4324,7 @@ translate Tchinese commonroute_eb4b1dc1:
 translate Tchinese commonroute_86ac297b:
 
     # re "\"I think we need to have a talk outside, fella. \""
-    re "“我想我們得到外面談談，小子。”"
+    re "我想我們得到外面談談，小子。"
 
 # game/commonroute.rpy:1045
 translate Tchinese commonroute_21d9bde4:
@@ -4354,7 +4354,7 @@ translate Tchinese commonroute_e6d36697:
 translate Tchinese commonroute_e3dc6288:
 
     # ha "\"Outside sounds like a good idea.\""
-    ha "“外面聽起來不錯。”"
+    ha "外面聽起來不錯。"
 
 # game/commonroute.rpy:1002
 translate Tchinese commonroute_b27f7fce:
@@ -4372,13 +4372,13 @@ translate Tchinese commonroute_2b833092:
 translate Tchinese commonroute_9e608646:
 
     # cl "\"I think I may have made a mistake—\""
-    cl "“我想也許我犯了個錯誤──”"
+    cl "我想也許我犯了個錯誤──"
 
 # game/commonroute.rpy:946
 translate Tchinese commonroute_20476614:
 
     # "Huxley" "\"Damn right you did.\""
-    "Huxley" "“完全正確。”"
+    "Huxley" "完全正確。"
 
 # game/commonroute.rpy:947
 translate Tchinese commonroute_79ad87f0:
@@ -4402,13 +4402,13 @@ translate Tchinese commonroute_d9c6cf1c:
 translate Tchinese commonroute_96b601bf:
 
     # cl "\"A—and when a mistake is m—made, a remedy can be supplied through... good communication. I-I t-think talking would be a good idea.\""
-    cl "“當──當錯誤發──發生後，可以通過...良好的溝通進行糾正。我──我覺──覺得談一談會是個好主意。”"
+    cl "當──當錯誤發──發生後，可以通過...良好的溝通進行糾正。我──我覺──覺得談一談會是個好主意。"
 
 # game/commonroute.rpy:954
 translate Tchinese commonroute_d764d096:
 
     # ha "\"Outside.\""
-    ha "“外面。”"
+    ha "外面。"
 
 # game/commonroute.rpy:956
 translate Tchinese commonroute_f68a59df:
@@ -4474,7 +4474,7 @@ translate Tchinese commonroute_c056c0ae:
 translate Tchinese commonroute_df89e176:
 
     # ha "\"Let them be, Sam. You don’t need any more stitches.\""
-    ha "“隨他們去吧，Sam。你沒必要多縫幾針。”"
+    ha "隨他們去吧，Sam。你沒必要多縫幾針。"
 
 # game/commonroute.rpy:972
 translate Tchinese commonroute_f46649ac:
@@ -4486,7 +4486,7 @@ translate Tchinese commonroute_f46649ac:
 translate Tchinese commonroute_805c3c48:
 
     # m "\"You just lost your customer. I don’t necessarily want to do the same. I need the money.\""
-    m "“你剛剛失去了自己的客戶，而我絕對不想失去我的。我需要錢。”"
+    m "你剛剛失去了自己的客戶，而我絕對不想失去我的。我需要錢。"
 
 # game/commonroute.rpy:975
 translate Tchinese commonroute_42856ba4:
@@ -4504,13 +4504,13 @@ translate Tchinese commonroute_21d04443:
 translate Tchinese commonroute_5c0bdd4a:
 
     # re "\"What in the name of God is wrong with this filthy Limey?\""
-    re "“看在上帝的份上，這個下流的英國佬是怎麼回事？”"
+    re "看在上帝的份上，這個下流的英國佬是怎麼回事？"
 
 # game/commonroute.rpy:1053
 translate Tchinese commonroute_7916bfec:
 
     # "Huxley" "\"There were kids in there, you goddamn pervert.\""
-    "Huxley" "“裡面還有孩子，你這個該死的變態。”"
+    "Huxley" "裡面還有孩子，你這個該死的變態。"
 
 # game/commonroute.rpy:982
 translate Tchinese commonroute_7f16228e:
@@ -4528,25 +4528,25 @@ translate Tchinese commonroute_bef4f694:
 translate Tchinese commonroute_247cd440:
 
     # re "\"What kind of shithole are you from that produces men like you? Educated men no less.\""
-    re "“什麼樣的鬼地方能產出你這種人？居然還受過教育。”"
+    re "什麼樣的鬼地方能產出你這種人？居然還受過教育。"
 
 # game/commonroute.rpy:1059
 translate Tchinese commonroute_2d26af80:
 
     # "Huxley" "\"Educated, he says. Probably why he’s here; degenerate like him got chased out from where he came from.\""
-    "Huxley" "“受過教育，聽他說吧。也許這就是他這樣墮落的人出現在這的原因，從出生地被趕出來的。”"
+    "Huxley" "受過教育，聽他說吧。也許這就是他這樣墮落的人出現在這的原因，從出生地被趕出來的。"
 
 # game/commonroute.rpy:986
 translate Tchinese commonroute_ab5f2810:
 
     # re "\"Wouldn’t be the first faggot to lie.\""
-    re "“不會是第一個說瞎話的基佬。”"
+    re "不會是第一個說瞎話的基佬。"
 
 # game/commonroute.rpy:1067
 translate Tchinese commonroute_84672b56:
 
     # "Huxley" "\"Not so sure he’s a faggot. Caught him makin’ eyes at Marcy.\""
-    "Huxley" "“不確定是不是個基佬。他還朝Marcy拋媚眼來著。”"
+    "Huxley" "不確定是不是個基佬。他還朝Marcy拋媚眼來著。"
 
 # game/commonroute.rpy:988
 translate Tchinese commonroute_49ae6b44:
@@ -4558,25 +4558,25 @@ translate Tchinese commonroute_49ae6b44:
 translate Tchinese commonroute_851ba106:
 
     # re "\"Well who don’t? She’s a nasty bitch.\""
-    re "“誰不是呢？那個婊子勾人得很。”"
+    re "誰不是呢？那個婊子勾人得很。"
 
 # game/commonroute.rpy:1114
 translate Tchinese commonroute_4811f7f0:
 
     # "Huxley" "\"He’s a filthy bastard who just wants to fuck anything, isn’t he?\""
-    "Huxley" "“他是個什麼東西都想上的下流混蛋，不是嗎？”"
+    "Huxley" "他是個什麼東西都想上的下流混蛋，不是嗎？"
 
 # game/commonroute.rpy:992
 translate Tchinese commonroute_e73800e6:
 
     # cl "\"Well…\""
-    cl "“這個...”"
+    cl "這個..."
 
 # game/commonroute.rpy:994
 translate Tchinese commonroute_53671291:
 
     # cl "\"I certainly want to fuck neither of you.\""
-    cl "“我肯定不想上你們中的任何一個。”"
+    cl "我肯定不想上你們中的任何一個。"
 
 # game/commonroute.rpy:998
 translate Tchinese commonroute_ce2260f3:
@@ -4594,7 +4594,7 @@ translate Tchinese commonroute_bc132094:
 translate Tchinese commonroute_44c4072e:
 
     # "Huxley" "\"Filth suits you better than that woman’s shit you’re wearing, you greasy pile of shit.\""
-    "Huxley" "“比起那身娘兮兮的東西，骯髒更適合你，你這坨油膩的大便。”"
+    "Huxley" "比起那身娘兮兮的東西，骯髒更適合你，你這坨油膩的大便。"
 
 # game/commonroute.rpy:1002
 translate Tchinese commonroute_338c9413:
@@ -4666,7 +4666,7 @@ translate Tchinese commonroute_3c75a068:
 translate Tchinese commonroute_133dba05:
 
     # "Huxley" "\"Shit!\""
-    "Huxley" "“靠！”"
+    "Huxley" "靠！"
 
 # game/commonroute.rpy:1123
 translate Tchinese commonroute_22f95eac:
@@ -4690,31 +4690,31 @@ translate Tchinese commonroute_25f4aad1:
 translate Tchinese commonroute_b1313138:
 
     # m "\"You alright... professor?\""
-    m "“你沒事吧...教授？”"
+    m "你沒事吧...教授？"
 
 # game/commonroute.rpy:1021
 translate Tchinese commonroute_4a88db54:
 
     # cl "\"S—student!\""
-    cl "“學──學生！”"
+    cl "學──學生！"
 
 # game/commonroute.rpy:1022
 translate Tchinese commonroute_6e13fd4f:
 
     # m "\"Can you move?\""
-    m "“你能動嗎？”"
+    m "你能動嗎？"
 
 # game/commonroute.rpy:1023
 translate Tchinese commonroute_3db8f4d9:
 
     # cl "\"I—I d—don’t kn—kn—know!\""
-    cl "“我──我不知──知──知道！”"
+    cl "我──我不知──知──知道！"
 
 # game/commonroute.rpy:1024
 translate Tchinese commonroute_c5ac5316:
 
     # m "\"Wiggle your feet.\""
-    m "“擺動你的腳。”"
+    m "擺動你的腳。"
 
 # game/commonroute.rpy:1025
 translate Tchinese commonroute_41a90ef8:
@@ -4726,19 +4726,19 @@ translate Tchinese commonroute_41a90ef8:
 translate Tchinese commonroute_3ee6b8e7:
 
     # m "\"Now your hands... now your... fingers... Good. You’re fine.\""
-    m "“現在是你的爪子...現在，你的...手指...好了，你很好。”"
+    m "現在是你的爪子...現在，你的...手指...好了，你很好。"
 
 # game/commonroute.rpy:1278
 translate Tchinese commonroute_449e5f1d:
 
     # cl "\"No I’m not fine. I was beaten! Everything h—hurts!\""
-    cl "“不，我不好，我被打了！全身都──痛！”"
+    cl "不，我不好，我被打了！全身都──痛！"
 
 # game/commonroute.rpy:1028
 translate Tchinese commonroute_b7abbfb3:
 
     # m "\"But you’ll live without any permanent damage. Better than I can say for most who’d have the balls to do what you did back there.\""
-    m "“但是你沒有受到任何永久性的傷害。我可以說，你比大多數有膽量像你那樣做的人下場好得多。”"
+    m "但是你沒有受到任何永久性的傷害。我可以說，你比大多數有膽量像你那樣做的人下場好得多。"
 
 # game/commonroute.rpy:1029
 translate Tchinese commonroute_a0ab13f1:
@@ -4786,7 +4786,7 @@ translate Tchinese commonroute_eb7b7fe1:
 translate Tchinese commonroute_22f31095:
 
     # m "\"Maybe that will help the pain.\""
-    m "“也許這會減輕疼痛。”"
+    m "也許這會減輕疼痛。"
 
 # game/commonroute.rpy:1039
 translate Tchinese commonroute_86e15fb8:
@@ -4804,7 +4804,7 @@ translate Tchinese commonroute_c1228a8e:
 translate Tchinese commonroute_9fcf7358:
 
     # m "\"You had the right place. Be smart about it next time? You’re supposed to be good at that, right?\""
-    m "“你找的地方是對的，不過下次聰明一些？你應該很擅長這個，對吧？”"
+    m "你找的地方是對的，不過下次聰明一些？你應該很擅長這個，對吧？"
 
 # game/commonroute.rpy:1043
 translate Tchinese commonroute_4f560fbb:
@@ -4822,13 +4822,13 @@ translate Tchinese commonroute_d76ab457:
 translate Tchinese commonroute_4befb69b:
 
     # m "\"Don’t worry about getting a punch thrown at you from time to time, being what you are here. See, there’s always something for these folks to busy themselves with.\""
-    m "“不用擔心三不五時被揍一頓，做你自己就好。看，這些人總有事情會忙。”"
+    m "不用擔心三不五時被揍一頓，做你自己就好。看，這些人總有事情會忙。"
 
 # game/commonroute.rpy:1046
 translate Tchinese commonroute_dfe85e38:
 
     # m "\"They can hardly control themselves. They’ll forget this in no time.\""
-    m "“他們很難控制住自己。他們很快就會忘記這件事了。”"
+    m "他們很難控制住自己。他們很快就會忘記這件事了。"
 
 # game/commonroute.rpy:1047
 translate Tchinese commonroute_b291b8e6:
@@ -4918,7 +4918,7 @@ translate Tchinese commonroute_162cbc62:
 translate Tchinese commonroute_e047d1ef:
 
     # mu "\"I don’t know what these miners expect you can do, unfortunately.\""
-    mu "“我不知道那些礦工在期望著你什麼，很不幸。”"
+    mu "我不知道那些礦工在期望著你什麼，很不幸。"
 
 # game/commonroute.rpy:1064
 translate Tchinese commonroute_71a7852a:
@@ -4930,7 +4930,7 @@ translate Tchinese commonroute_71a7852a:
 translate Tchinese commonroute_0586ff3e:
 
     # wi "\"The usual, I suppose. They want me to sniff out a scumbag so he can dangle on the end of a rope. And then they can piss themselves drunk. What else?\""
-    wi "“我想還是老樣子。他們希望我嗅出一個人渣，這樣他就能掛在繩尾晃來晃去，然後他們可以把自己灌成一灘爛泥。還能有什麼？”"
+    wi "我想還是老樣子。他們希望我嗅出一個人渣，這樣他就能掛在繩尾晃來晃去，然後他們可以把自己灌成一灘爛泥。還能有什麼？"
 
 # game/commonroute.rpy:1067
 translate Tchinese commonroute_14791375:
@@ -4942,43 +4942,43 @@ translate Tchinese commonroute_14791375:
 translate Tchinese commonroute_e53bb083:
 
     # mu "\"How cheerful. Well, at least it sounds like they know how to have fun. They might’ve had justice if only they had waited. I already know that Avery will tell me that these photos are useless.\""
-    mu "“多樂觀啊。嗯，至少聽起來他們知道怎麼找樂子。也許他們會獲得公正的結果，如果只是靜等著的話。我已經預想得到Avery會告訴我這些照片派不上用場了。”"
+    mu "多樂觀啊。嗯，至少聽起來他們知道怎麼找樂子。也許他們會獲得公正的結果，如果只是靜等著的話。我已經預想得到Avery會告訴我這些照片派不上用場了。"
 
 # game/commonroute.rpy:1071
 translate Tchinese commonroute_38c37438:
 
     # wi "\"These boys are out for blood. They’re hungry, they’re tired, they’re overworked, and now one of them is dead.\""
-    wi "“那些傢伙不會善罷甘休的。他們飢餓，他們疲倦，他們超負荷工作。而現在，他們中的一員死了。”"
+    wi "那些傢伙不會善罷甘休的。他們飢餓，他們疲倦，他們超負荷工作。而現在，他們中的一員死了。"
 
 # game/commonroute.rpy:1073
 translate Tchinese commonroute_98a803d1:
 
     # wi "\"Even if you paint the prettiest picture of how some bastard got drunk and nailed himself in the head, that’s not going to give them the relief that they want.\""
-    wi "“即使你用最漂亮的畫面去描述一個可憐蟲是如何喝醉、把自己釘在了石頭上，也無法給他們帶來想要的慰藉。”"
+    wi "即使你用最漂亮的畫面去描述一個可憐蟲是如何喝醉、把自己釘在了石頭上，也無法給他們帶來想要的慰藉。"
 
 # game/commonroute.rpy:1075
 translate Tchinese commonroute_4921111e:
 
     # mu "\"Well, maybe a keener eye than mine can produce some evidence. These pictures aren't going to show them anything interesting.\""
-    mu "“好吧，也許一雙比我更加敏銳的眼睛能提供些證據。這些照片不會向他們展示出什麼有趣的東西的。”"
+    mu "好吧，也許一雙比我更加敏銳的眼睛能提供些證據。這些照片不會向他們展示出什麼有趣的東西的。"
 
 # game/commonroute.rpy:1077
 translate Tchinese commonroute_1f22e9e2:
 
     # mu "\"Perhaps we can tell them that Ralph did it.\""
-    mu "“也許我們可以告訴他們是Ralph做的。”"
+    mu "也許我們可以告訴他們是Ralph做的。"
 
 # game/commonroute.rpy:1078
 translate Tchinese commonroute_37111c71:
 
     # wi "\"Don't joke like that.\""
-    wi "“別開這種玩笑。”"
+    wi "別開這種玩笑。"
 
 # game/commonroute.rpy:1080
 translate Tchinese commonroute_840a6893:
 
     # mu "\"Who's joking?\""
-    mu "“誰開玩笑了？”"
+    mu "誰開玩笑了？"
 
 # game/commonroute.rpy:1081
 translate Tchinese commonroute_a85e0de2:
@@ -4990,7 +4990,7 @@ translate Tchinese commonroute_a85e0de2:
 translate Tchinese commonroute_871f84d8:
 
     # wi "\"Sam. Just the man I wanted to talk to.\""
-    wi "“Sam。我正想和你談談。”"
+    wi "Sam。我正想和你談談。"
 
 # game/commonroute.rpy:1085
 translate Tchinese commonroute_f7921830:
@@ -5008,13 +5008,13 @@ translate Tchinese commonroute_9bd9e160:
 translate Tchinese commonroute_bc449edb:
 
     # m "\"Talk away.\""
-    m "“說吧。”"
+    m "說吧。"
 
 # game/commonroute.rpy:1089
 translate Tchinese commonroute_f46b2280:
 
     # wi "\"Somebody reported a dead miner.\""
-    wi "“有人報告說一個礦工死了。”"
+    wi "有人報告說一個礦工死了。"
 
 # game/commonroute.rpy:1090
 translate Tchinese commonroute_3c16ea35:
@@ -5026,7 +5026,7 @@ translate Tchinese commonroute_3c16ea35:
 translate Tchinese commonroute_2bc1c117:
 
     # wi "\"Folks suspect foul play.\""
-    wi "“人們懷疑這是謀殺。”"
+    wi "人們懷疑這是謀殺。"
 
 # game/commonroute.rpy:1092
 translate Tchinese commonroute_0c876f5d:
@@ -5038,7 +5038,7 @@ translate Tchinese commonroute_0c876f5d:
 translate Tchinese commonroute_98107f46:
 
     # mu "\"And unfortunately tampered with the crime scene.\""
-    mu "“而且不幸的是，犯罪現場被破壞了。”"
+    mu "而且不幸的是，犯罪現場被破壞了。"
 
 # game/commonroute.rpy:1095
 translate Tchinese commonroute_55a05ff3:
@@ -5068,7 +5068,7 @@ translate Tchinese commonroute_ebf995ac:
 translate Tchinese commonroute_0f94a233:
 
     # mu "\"They brought the body to the town square, wrapped up in a blanket, and extracted the purported murder weapon.\""
-    mu "“他們將屍體運到了鎮上的廣場，裹在毯子裡，並取出了據稱的兇器。”"
+    mu "他們將屍體運到了鎮上的廣場，裹在毯子裡，並取出了據稱的兇器。"
 
 # game/commonroute.rpy:1102
 translate Tchinese commonroute_2ab242f4:
@@ -5080,37 +5080,37 @@ translate Tchinese commonroute_2ab242f4:
 translate Tchinese commonroute_976e46b8:
 
     # wi "\"Mmm, pulled the pickaxe clean from his skull. Did so much damage that we can’t tell if the blunt end or the sharp end hit him.\""
-    wi "“嗯，把鶴嘴鋤從他的頭骨上拔了下來。造成的破壞大到我們無法判斷是平端還是尖端擊中的他。”"
+    wi "嗯，把鶴嘴鋤從他的頭骨上拔了下來。造成的破壞大到我們無法判斷是平端還是尖端擊中的他。"
 
 # game/commonroute.rpy:1105
 translate Tchinese commonroute_94ecf08b:
 
     # m "\"Why does that matter?\""
-    m "“這很重要嗎？”"
+    m "這很重要嗎？"
 
 # game/commonroute.rpy:1107
 translate Tchinese commonroute_689fc5b5:
 
     # mu "\"Well...it muddles the narrative, doesn’t it? Was he hit in the head or did he hit himself? He didn’t have safety equipment or a light.\""
-    mu "“這個...它干擾了敘述，不是嗎？他是被人擊中頭部還是自己所為？他身上沒有安全設備，也沒有燈。”"
+    mu "這個...它干擾了敘述，不是嗎？他是被人擊中頭部還是自己所為？他身上沒有安全設備，也沒有燈。"
 
 # game/commonroute.rpy:1108
 translate Tchinese commonroute_420826b3:
 
     # wi "\"He doesn’t need to know that many details, Murdoch. But aye... most pressing is if there were signs of a struggle, there won’t be now.\""
-    wi "“他不需要知道那麼多細節，Murdoch。不過，沒錯...最不可忽視的是，就算現場有扭打的痕跡，也不復存在了。”"
+    wi "他不需要知道那麼多細節，Murdoch。不過，沒錯...最不可忽視的是，就算現場有扭打的痕跡，也不復存在了。"
 
 # game/commonroute.rpy:1110
 translate Tchinese commonroute_c0bbb8cc:
 
     # wi "\"Idiots.\""
-    wi "“一群白癡。”"
+    wi "一群白癡。"
 
 # game/commonroute.rpy:1111
 translate Tchinese commonroute_2451fee9:
 
     # m "\"So you might never know what happened?\""
-    m "“所以，你們也許永遠無法得知發生了什麼事？”"
+    m "所以，你們也許永遠無法得知發生了什麼事？"
 
 # game/commonroute.rpy:1113
 translate Tchinese commonroute_1b3b5385:
@@ -5122,7 +5122,7 @@ translate Tchinese commonroute_1b3b5385:
 translate Tchinese commonroute_1c15c20d:
 
     # wi "\"Maybe not. But it’s possible you could help us.\""
-    wi "“也許，但是有你的幫助就有可能。”"
+    wi "也許，但是有你的幫助就有可能。"
 
 # game/commonroute.rpy:1116
 translate Tchinese commonroute_04ba3be0:
@@ -5134,13 +5134,13 @@ translate Tchinese commonroute_04ba3be0:
 translate Tchinese commonroute_30fc1643:
 
     # m "\"Help how?\""
-    m "“怎麼幫？”"
+    m "怎麼幫？"
 
 # game/commonroute.rpy:1118
 translate Tchinese commonroute_69f5dbaa:
 
     # wi "\"With your... proclivities.\""
-    wi "“利用你的...癖好。”"
+    wi "利用你的...癖好。"
 
 # game/commonroute.rpy:1232
 translate Tchinese commonroute_76509049:
@@ -5152,7 +5152,7 @@ translate Tchinese commonroute_76509049:
 translate Tchinese commonroute_352d8b9e:
 
     # m "\"...I understand.\""
-    m "“...我明白了。”"
+    m "...我明白了。"
 
 # game/commonroute.rpy:1122
 translate Tchinese commonroute_14be7cff:
@@ -5164,7 +5164,7 @@ translate Tchinese commonroute_14be7cff:
 translate Tchinese commonroute_3352be17:
 
     # wi "\"I know you've seen plenty of miners. Folks get sloppy when they’re...well—\""
-    wi "“我知道你見過很多礦工。人們在...的時候，會放鬆警惕。嗯──”"
+    wi "我知道你見過很多礦工。人們在...的時候，會放鬆警惕。嗯──"
 
 # game/commonroute.rpy:1124
 translate Tchinese commonroute_02c85f7b:
@@ -5176,13 +5176,13 @@ translate Tchinese commonroute_02c85f7b:
 translate Tchinese commonroute_2b7df2b1:
 
     # wi "\"—I need to know if Jack had enemies. Personally, I’m willing to bet the fool was looking for gold and wanted to steal it away for himself.\""
-    wi "“──我需要知道Jack有沒有仇家。就個人意見而言，我敢打賭那個傻瓜是在找金子，並且想把它偷走，據為己有。”"
+    wi "──我需要知道Jack有沒有仇家。就個人意見而言，我敢打賭那個傻瓜是在找金子，並且想把它偷走，據為己有。"
 
 # game/commonroute.rpy:1127
 translate Tchinese commonroute_ab4257c5:
 
     # wi "\"Then he tried to use a pickaxe in the dark. But if something did happen, there’s no better evidence than a confession.\""
-    wi "“然後他試著在黑暗中使用鶴嘴鋤。不過，如果真的發生了什麼事，也沒有比認罪更好的證據了。”"
+    wi "然後他試著在黑暗中使用鶴嘴鋤。不過，如果真的發生了什麼事，也沒有比認罪更好的證據了。"
 
 # game/commonroute.rpy:1128
 translate Tchinese commonroute_332b542c:
@@ -5194,13 +5194,13 @@ translate Tchinese commonroute_332b542c:
 translate Tchinese commonroute_5ab3be69:
 
     # m "\"I can try, William.\""
-    m "“我可以試試，William。”"
+    m "我可以試試，William。"
 
 # game/commonroute.rpy:1131
 translate Tchinese commonroute_d6f1465a:
 
     # wi "\"Good man. I’ll stop by for further questions later in the evening.\""
-    wi "“好傢伙。先到這裡，晚上的時候我再來進一步討論。”"
+    wi "好傢伙。先到這裡，晚上的時候我再來進一步討論。"
 
 # game/commonroute.rpy:1133
 translate Tchinese commonroute_7a7c9d6d:
@@ -5218,7 +5218,7 @@ translate Tchinese commonroute_75f8f221:
 translate Tchinese commonroute_02cff361:
 
     # mu "\"William spent all of five minutes having a conversation with you. He seems to like you.\""
-    mu "“William花了整整五分鐘和你談話。他似乎喜歡你。”"
+    mu "William花了整整五分鐘和你談話。他似乎喜歡你。"
 
 # game/commonroute.rpy:1137
 translate Tchinese commonroute_fb6e33a2_2:
@@ -5236,7 +5236,7 @@ translate Tchinese commonroute_c625e504:
 translate Tchinese commonroute_0135db01:
 
     # mu "\"What are you blackmailing him with?\""
-    mu "“你用什麼勒索了他？”"
+    mu "你用什麼勒索了他？"
 
 # game/commonroute.rpy:1141
 translate Tchinese commonroute_3b0d29b8:
@@ -5260,7 +5260,7 @@ translate Tchinese commonroute_63cc82d9:
 translate Tchinese commonroute_01bd5dce:
 
     # mu "\"I was just joking.\""
-    mu "“我只是在開玩笑。”"
+    mu "我只是在開玩笑。"
 
 # game/commonroute.rpy:1146
 translate Tchinese commonroute_28c24e42:
@@ -5278,13 +5278,13 @@ translate Tchinese commonroute_ffd8393d:
 translate Tchinese commonroute_c1c6c0ea:
 
     # mu "\"Ha! But his scent is on you... so maybe you are blackmailing him.\""
-    mu "“哈！不過你身上有他的氣味...所以也許不是。”"
+    mu "哈！不過你身上有他的氣味...所以也許不是。"
 
 # game/commonroute.rpy:1254
 translate Tchinese commonroute_4efd987d:
 
     # mu "\"Either way, it’s not really my business.\""
-    mu "“不管怎樣，這不關我的事。”"
+    mu "不管怎樣，這不關我的事。"
 
 # game/commonroute.rpy:1261
 translate Tchinese commonroute_7a57d39c:
@@ -5302,7 +5302,7 @@ translate Tchinese commonroute_3e979ef9:
 translate Tchinese commonroute_3264fc8e:
 
     # m "\"What ain’t your business exactly?\""
-    m "“你到底想說什麼東西？”"
+    m "你到底想說什麼東西？"
 
 # game/commonroute.rpy:1153
 translate Tchinese commonroute_4d5873dc:
@@ -5314,7 +5314,7 @@ translate Tchinese commonroute_4d5873dc:
 translate Tchinese commonroute_0070fe7c:
 
     # mu "\"Just that he's paying for something I can get for free. That’s all.\""
-    mu "“為我可以免費得到的東西付錢而已，就這樣。”"
+    mu "為我可以免費得到的東西付錢而已，就這樣。"
 
 # game/commonroute.rpy:1264
 translate Tchinese commonroute_21bfbe61:
@@ -5326,13 +5326,13 @@ translate Tchinese commonroute_21bfbe61:
 translate Tchinese commonroute_41fe9b4b:
 
     # m "\"Sounds like you're just a sucker.\""
-    m "“聽起來像個傻瓜。”"
+    m "聽起來像個傻瓜。"
 
 # game/commonroute.rpy:1267
 translate Tchinese commonroute_6d9ce7e3:
 
     # mu "\"Not the word choice I’d use for this conversation. Not wrong to some effect.\""
-    mu "“我不會在這場談話中選用這種詞。不過某種意義上來說沒錯。”"
+    mu "我不會在這場談話中選用這種詞。不過某種意義上來說沒錯。"
 
 # game/commonroute.rpy:1159
 translate Tchinese commonroute_e235a16e:
@@ -5350,7 +5350,7 @@ translate Tchinese commonroute_4427bffc:
 translate Tchinese commonroute_e7f81680:
 
     # mu "\"Maybe I’ll have some questions of my own for you tonight when William shows up.\""
-    mu "“也許當我今晚看到William現身時候，我想問的一些問題也一起出來了呢。”"
+    mu "也許當我今晚看到William現身時候，我想問的一些問題也一起出來了呢。"
 
 # game/commonroute.rpy:1272
 translate Tchinese commonroute_e96dc677:
@@ -5362,29 +5362,29 @@ translate Tchinese commonroute_e96dc677:
 translate Tchinese commonroute_dc4d3972:
 
     # mu "\"And maybe I'll give you some answers to some questions, too.\""
-    mu "“而且也許，你想知道的一些答案，我說不定也會告訴你喔。”"
+    mu "而且也許，你想知道的一些答案，我說不定也會告訴你喔。"
 
 # game/commonroute.rpy:1276
 translate Tchinese commonroute_e9245344:
 
     # m "\"Answers...\""
-    m "“答案...”"
+    m "答案..."
 translate Tchinese commonroute_1ca79906:
 
     # mu "\"Yeah. Like how to have fun around here. Breaks my heart to see a newcomer so gloomy.\""
-    mu "“是的。比如如何在附近玩得開心。看到一位新來者如此憂鬱，我真是傷透了心。”"
+    mu "是的。比如如何在附近玩得開心。看到一位新來者如此憂鬱，我真是傷透了心。"
 
 # game/commonroute.rpy:1165
 translate Tchinese commonroute_5da5fcbb:
 
     # m "\"I’m not looking for fun. I’m looking for prospects.\""
-    m "“我不是在找樂子，是在找潛在的客戶。”"
+    m "我不是在找樂子，是在找潛在的客戶。"
 
 # game/commonroute.rpy:1166
 translate Tchinese commonroute_638d2e20:
 
     # mu "\"Fun and prospects don’t have to be so separate.\""
-    mu "“樂趣和潛在客戶不必如此分離。”"
+    mu "樂趣和潛在客戶不必如此分離。"
 
 # game/commonroute.rpy:1167
 translate Tchinese commonroute_2f3373fb:
@@ -5396,19 +5396,19 @@ translate Tchinese commonroute_2f3373fb:
 translate Tchinese commonroute_a05d73b0:
 
     # mu "\"If anything, I could help you out on the connections end. I’ve got more than a few. Third generation, born and raised.\""
-    mu "“如果有的話，我可以幫忙牽線，我還是有些關係的。土生土長的第三代。”"
+    mu "如果有的話，我可以幫忙牽線，我還是有些關係的。土生土長的第三代。"
 
 # game/commonroute.rpy:1293
 translate Tchinese commonroute_51e4eb20:
 
     # m "\"Sounds suspect.\""
-    m "“聽起來很可疑。”"
+    m "聽起來很可疑。"
 
 # game/commonroute.rpy:1172
 translate Tchinese commonroute_1106d917:
 
     # mu "\"Well I should hope not. Locals around here have reputations to uphold, after all. Wouldn’t want to be seen as a troublemaker.\""
-    mu "“好吧，我應該希望沒有。畢竟當地人要維護名聲，我不想被視為麻煩製造者。”"
+    mu "好吧，我應該希望沒有。畢竟當地人要維護名聲，我不想被視為麻煩製造者。"
 
 # game/commonroute.rpy:1174
 translate Tchinese commonroute_9e914f64:
@@ -5420,18 +5420,18 @@ translate Tchinese commonroute_9e914f64:
 translate Tchinese commonroute_c8aecf7a:
 
     # m "\"Not the kind of reputation I’m after, I’m afraid.\""
-    m "“恐怕我不希望那種名聲。”"
+    m "恐怕我不希望那種名聲。"
 
 # game/commonroute.rpy:1177
 translate Tchinese commonroute_ae38fe9e:
 
     # mu "\"Good thing that my family's balls at it here, then. Clean cut grocers and schoolteachers. No pirates, no bandits, no upstart revolutionaries.\""
-    mu "“那麼，還好我們有勇氣留下。乾淨的雜貨店和教師。沒有海盜，沒有強盜，沒有自命不凡的革命者。”"
+    mu "那麼，還好我們有勇氣留下。乾淨的雜貨店和教師。沒有海盜，沒有強盜，沒有自命不凡的革命者。"
 
 translate Tchinese commonroute_a98caf29:
 
     # mu "\"Bit pathetic if you ask me. But it puts bread on the table in an up and coming city like Echo. It would bode well to have your name established on the map early. \""
-    mu "“有些可悲，如果你問我的話。但是這能讓一個新興的城市──比如回音鎮，家家的桌子上能有麵包。早些讓自己的名字響亮是個好兆頭。”"
+    mu "有些可悲，如果你問我的話。但是這能讓一個新興的城市──比如回音鎮，家家的桌子上能有麵包。早些讓自己的名字響亮是個好兆頭。"
 
 # game/commonroute.rpy:1180
 translate Tchinese commonroute_3b528293:
@@ -5443,13 +5443,13 @@ translate Tchinese commonroute_3b528293:
 translate Tchinese commonroute_5791779f:
 
     # m "\"Maybe I’ll consider your advice...\""
-    m "“我也許會考慮你的建議...”"
+    m "我也許會考慮你的建議..."
 
 # game/commonroute.rpy:1184
 translate Tchinese commonroute_2681f923:
 
     # mu "\"Maybe is all I need.\""
-    mu "“也許這就是我需要的。”"
+    mu "也許這就是我需要的。"
 
 # game/commonroute.rpy:1186
 translate Tchinese commonroute_cf0de76b:
@@ -5521,7 +5521,7 @@ translate Tchinese commonroute_d12dd499:
 translate Tchinese commonroute_609bf422:
 
     # unk "\"Whiff it.\""
-    unk "“聞吧。”"
+    unk "聞吧。"
 
 # game/commonroute.rpy:1203
 translate Tchinese commonroute_3e774764:
@@ -5539,7 +5539,7 @@ translate Tchinese commonroute_e31a7aca:
 translate Tchinese commonroute_c92e6b4d:
 
     # unk "\"No need to build up tension, darlin’. Suck it.\""
-    unk "“沒必要緊張，親愛的。吸吧。”"
+    unk "沒必要緊張，親愛的。吸吧。"
 
 # game/commonroute.rpy:1209
 translate Tchinese commonroute_af09f49f:
@@ -5587,7 +5587,7 @@ translate Tchinese commonroute_8eabc5d4:
 translate Tchinese commonroute_f97b509b:
 
     # wi "\"Nothing prettier than white on black.\""
-    wi "“沒什麼比黑底白紋更漂亮的了。”"
+    wi "沒什麼比黑底白紋更漂亮的了。"
 
 # game/commonroute.rpy:1220
 translate Tchinese commonroute_effa8255:
@@ -5599,7 +5599,7 @@ translate Tchinese commonroute_effa8255:
 translate Tchinese commonroute_7a7f98a1:
 
     # wi "\"You’re good at this.\""
-    wi "“你很在行。”"
+    wi "你很在行。"
 
 # game/commonroute.rpy:1222
 translate Tchinese commonroute_052ff4be:
@@ -5611,37 +5611,37 @@ translate Tchinese commonroute_052ff4be:
 translate Tchinese commonroute_0e97bf35:
 
     # m "\"It’s not so difficult.\""
-    m "“這沒多難。”"
+    m "這沒多難。"
 
 # game/commonroute.rpy:1228
 translate Tchinese commonroute_b30bbe58:
 
     # wi "\"Rude to reject a compliment. You’ll do well in my books if you keep pants loose and keep tongues looser.\""
-    wi "“拒絕稱讚是不禮貌的。在我看來，你會完成得很好，如果你保持寬鬆的褲子和更寬鬆的舌頭的話。”"
+    wi "拒絕稱讚是不禮貌的。在我看來，你會完成得很好，如果你保持寬鬆的褲子和更寬鬆的舌頭的話。"
 
 # game/commonroute.rpy:1229
 translate Tchinese commonroute_4ac421d1:
 
     # wi "\"Might even save an innocent man from getting dragged so a murderer can waltz free.\""
-    wi "“甚至可以挽救一個無辜的人被拖下水，以免兇手可以逍遙法外。”"
+    wi "甚至可以挽救一個無辜的人被拖下水，以免兇手可以逍遙法外。"
 
 # game/commonroute.rpy:1230
 translate Tchinese commonroute_01ae3993:
 
     # m "\"I’m a whore, not a spy, William.\""
-    m "“我是個娼妓，不是間諜，William。”"
+    m "我是個娼妓，不是間諜，William。"
 
 # game/commonroute.rpy:1231
 translate Tchinese commonroute_acf6cd19:
 
     # wi "\"Any smart whore is a spy. Smart whores live longer. Especially if the law is in their favor.\""
-    wi "“任何聰明的娼妓都是間諜。聰明的娼妓們活得更久，尤其是在法律對他們有利的情況下。”"
+    wi "任何聰明的娼妓都是間諜。聰明的娼妓們活得更久，尤其是在法律對他們有利的情況下。"
 
 # game/commonroute.rpy:1232
 translate Tchinese commonroute_277439dc:
 
     # wi "\"A blind eye here and there is what you need more than anything.\""
-    wi "“睜一隻眼閉一隻眼，這就是你最需要的。”"
+    wi "睜一隻眼閉一隻眼，這就是你最需要的。"
 
 # game/commonroute.rpy:1234
 translate Tchinese commonroute_47e07516:
@@ -5677,31 +5677,31 @@ translate Tchinese commonroute_f8c458d4:
 translate Tchinese commonroute_6c45875f:
 
     # wi "\"Do what you do and be my eyes after dark. I can’t keep tabs on as many folks as I’d like with all the new folks moving in.\""
-    wi "“做你該做的，天黑後成為我的眼睛。隨著新人的搬入，我不能如自己希望的那樣監視那麼多人。”"
+    wi "做你該做的，天黑後成為我的眼睛。隨著新人的搬入，我不能如自己希望的那樣監視那麼多人。"
 
 # game/commonroute.rpy:1243
 translate Tchinese commonroute_0267ac1a:
 
     # m "\"Why don’t you...do this yourself, if you think it’s so insightful.\""
-    m "“你為什麼...自己不去做，如果你覺得這很有見地的話。”"
+    m "你為什麼...自己不去做，如果你覺得這很有見地的話。"
 
 # game/commonroute.rpy:1245
 translate Tchinese commonroute_6cf0e6ed:
 
     # wi "\"Cause I ain't a cocksucker. I already carved out my way to be of use. You, not so much, fella. But it would make both of our lives easier.\""
-    wi "“因為我不是做這行的。我已經為自己闖出了一條路，而你沒有，小伙子。不過這會讓我們兩個都活得更輕鬆些。”"
+    wi "因為我不是做這行的。我已經為自己闖出了一條路，而你沒有，小伙子。不過這會讓我們兩個都活得更輕鬆些。"
 
 # game/commonroute.rpy:1246
 translate Tchinese commonroute_6b0e9388:
 
     # m "\"So long as you’re sheriff.\""
-    m "“只要你還是警長。”"
+    m "只要你還是警長。"
 
 # game/commonroute.rpy:1248
 translate Tchinese commonroute_44098654:
 
     # wi "\"So long as I’m sheriff.\""
-    wi "“只要我還是警長。”"
+    wi "只要我還是警長。"
 
 # game/commonroute.rpy:1250
 translate Tchinese commonroute_216e3fcd:
@@ -5713,7 +5713,7 @@ translate Tchinese commonroute_216e3fcd:
 translate Tchinese commonroute_77935805:
 
     # wi "\"You’ll learn about the world quick enough. Quicker would be better, I might add.\""
-    wi "“你很快就會瞭解這個世界了。補充一句，越快越好。”"
+    wi "你很快就會瞭解這個世界了。補充一句，越快越好。"
 
 # game/commonroute.rpy:1254
 translate Tchinese commonroute_e80f5281:
@@ -5725,19 +5725,19 @@ translate Tchinese commonroute_e80f5281:
 translate Tchinese commonroute_a09704ed:
 
     # wi "\"Anyway, clean yourself up before you talk to me outside. I need witnesses to a better reason for my visit tonight.\""
-    wi "“不管怎樣，把自己收拾乾淨，然後和我到外面聊天。我需要目擊者為我今晚的訪問提供更好的理由。”"
+    wi "不管怎樣，把自己收拾乾淨，然後和我到外面聊天。我需要目擊者為我今晚的訪問提供更好的理由。"
 
 # game/commonroute.rpy:1258
 translate Tchinese commonroute_f0f1d907:
 
     # m "\"Okay...\""
-    m "“好...”"
+    m "好..."
 
 # game/commonroute.rpy:1260
 translate Tchinese commonroute_afd73d09:
 
     # wi "\"Peaches.\""
-    wi "“美人。”"
+    wi "美人。"
 
 # game/commonroute.rpy:1264
 translate Tchinese commonroute_b4dda3bc:
@@ -5797,7 +5797,7 @@ translate Tchinese commonroute_5e33c645:
 translate Tchinese commonroute_55b3183e:
 
     # wi "\"Let’s get down to business then.\""
-    wi "“我們開始正題吧。”"
+    wi "我們開始正題吧。"
 
 # game/commonroute.rpy:1278
 translate Tchinese commonroute_564fd3ec:
@@ -5809,7 +5809,7 @@ translate Tchinese commonroute_564fd3ec:
 translate Tchinese commonroute_014ff9c8:
 
     # mu "\"You mean you hadn’t already?\""
-    mu "“你的意思是你們還沒有？”"
+    mu "你的意思是你們還沒有？"
 
 # game/commonroute.rpy:1281
 translate Tchinese commonroute_1a30b223:
@@ -5821,25 +5821,25 @@ translate Tchinese commonroute_1a30b223:
 translate Tchinese commonroute_980ed249:
 
     # wi "\"Not in the least!\""
-    wi "“完全沒有！”"
+    wi "完全沒有！"
 
 # game/commonroute.rpy:1285
 translate Tchinese commonroute_e9abcc79:
 
     # wi "\"Alcohol and debauch makes a loon out of a sane man and much worse out of the trash.\""
-    wi "“酒精和淫逸會使一個理智的人變成笨蛋，更甚者，一個廢物。”"
+    wi "酒精和淫逸會使一個理智的人變成笨蛋，更甚者，一個廢物。"
 
 # game/commonroute.rpy:1287
 translate Tchinese commonroute_52658ec9:
 
     # wi "\"If our murderer exists, he makes succor out of the best medicine for guilt. Pleasures that distract among people proper society tends to forget.\""
-    wi "“如果兇手確實存在，他會為自己的罪惡感尋求最好的解藥：一個規矩社會傾向遺忘的，分散人心的歡愉。”"
+    wi "如果兇手確實存在，他會為自己的罪惡感尋求最好的解藥：一個規矩社會傾向遺忘的，分散人心的歡愉。"
 
 # game/commonroute.rpy:1289
 translate Tchinese commonroute_2691da54:
 
     # mu "\"Or at least pretend to forget. Proper book keeping covers blind spots.\""
-    mu "“或至少假裝遺忘。確實的記帳可以掩蓋盲點。”"
+    mu "或至少假裝遺忘。確實的記帳可以掩蓋盲點。"
 
 # game/commonroute.rpy:1290
 translate Tchinese commonroute_a8875731:
@@ -5851,13 +5851,13 @@ translate Tchinese commonroute_a8875731:
 translate Tchinese commonroute_f5d22343:
 
     # m "\"...Which means you need to meet some of the ladies.\""
-    m "“...這意味著你同樣需要去見一些女士。”"
+    m "...這意味著你同樣需要去見一些女士。"
 
 # game/commonroute.rpy:1292
 translate Tchinese commonroute_1646bb76:
 
     # wi "\"They'll give us access to the men.\""
-    wi "“她們會讓我們接近那些男人。”"
+    wi "她們會讓我們接近那些男人。"
 
 # game/commonroute.rpy:1294
 translate Tchinese commonroute_a8b4fa56:
@@ -5875,7 +5875,7 @@ translate Tchinese commonroute_f88ecf5e:
 translate Tchinese commonroute_22ff4d31:
 
     # ha "\"You’ll want the powder room, then. Cynthia!\""
-    ha "“既然如此，你們會想去化妝室的。Cynthia！”"
+    ha "既然如此，你們會想去化妝室的。Cynthia！"
 
 # game/commonroute.rpy:1299
 translate Tchinese commonroute_1cab3d8c:
@@ -5917,13 +5917,13 @@ translate Tchinese commonroute_83d4f8b5:
 translate Tchinese commonroute_6f75072b:
 
     # md "\"William.\""
-    md "“William。”"
+    md "William。"
 
 # game/commonroute.rpy:1313
 translate Tchinese commonroute_f12b3bf1:
 
     # wi "\"I just need a few words.\""
-    wi "“我只說幾句話。”"
+    wi "我只說幾句話。"
 
 # game/commonroute.rpy:1316
 translate Tchinese commonroute_16b03c13:
@@ -5935,19 +5935,19 @@ translate Tchinese commonroute_16b03c13:
 translate Tchinese commonroute_be720fe0:
 
     # md "\"Pray that they engross me. My attention span is short and my patience for God-fearing men is shorter.\""
-    md "“祈禱它們能吸引我吧。我的注意力很短暫，對畏神之人的耐心更是如此。”"
+    md "祈禱它們能吸引我吧。我的注意力很短暫，對畏神之人的耐心更是如此。"
 
 # game/commonroute.rpy:1321
 translate Tchinese commonroute_c9b6a07e:
 
     # wi "\"I’ll be short, then.\""
-    wi "“我會短說的。”"
+    wi "我會短說的。"
 
 # game/commonroute.rpy:1325
 translate Tchinese commonroute_cfc5ef24:
 
     # md "\"Your sort usually is.\""
-    md "“你一向如此。”"
+    md "你一向如此。"
 
 # game/commonroute.rpy:1327
 translate Tchinese commonroute_72da458a:
@@ -5971,7 +5971,7 @@ translate Tchinese commonroute_33bea182:
 translate Tchinese commonroute_000cc2e4:
 
     # cl "\"You’re here!\""
-    cl "“你在這！”"
+    cl "你在這！"
 
 # game/commonroute.rpy:1333
 translate Tchinese commonroute_4262efa2:
@@ -5983,19 +5983,19 @@ translate Tchinese commonroute_4262efa2:
 translate Tchinese commonroute_1c874007:
 
     # cy "\"This one has a bit of spunk to him.\""
-    cy "“他還是有些勇氣。”"
+    cy "他還是有些勇氣。"
 
 # game/commonroute.rpy:1337
 translate Tchinese commonroute_1c963487:
 
     # cl "\"A bit of what?\""
-    cl "“有些什麼？”"
+    cl "有些什麼？"
 
 # game/commonroute.rpy:1339
 translate Tchinese commonroute_2a49e444:
 
     # cy "\"I can show you what I mean if you’re willing to spend the night with me.\""
-    cy "“如果你願意和我過夜，我可以和你說我的意思。”"
+    cy "如果你願意和我過夜，我可以和你說我的意思。"
 
 # game/commonroute.rpy:1340
 translate Tchinese commonroute_d0769178:
@@ -6007,13 +6007,13 @@ translate Tchinese commonroute_d0769178:
 translate Tchinese commonroute_d2dad2df:
 
     # cl "\"A tempting offer, but if I must be honest, I am most curious about an experience with Sam, here.\""
-    cl "“一個誘人的提議，不過我必須說實話的話，最吸引我的是和Sam之間的體驗。”"
+    cl "一個誘人的提議，不過我必須說實話的話，最吸引我的是和Sam之間的體驗。"
 
 # game/commonroute.rpy:1344
 translate Tchinese commonroute_73028603:
 
     # cl "\"If I’m stubborn enough to take a beating for that, then I’m stubborn enough to seek a unique opportunity.\""
-    cl "“如果我固執到能為此挨一頓痛打，那麼同樣可以固執到請求一個絕無僅有的機會。”"
+    cl "如果我固執到能為此挨一頓痛打，那麼同樣可以固執到請求一個絕無僅有的機會。"
 
 # game/commonroute.rpy:1345
 translate Tchinese commonroute_53c0b1a2:
@@ -6055,7 +6055,7 @@ translate Tchinese commonroute_51b5aaad:
 translate Tchinese commonroute_9f69b6d1:
 
     # m "\"I’m booked tonight, unfortunately.\""
-    m "“很遺憾，我今晚有約了。”"
+    m "很遺憾，我今晚有約了。"
 
 # game/commonroute.rpy:1352
 translate Tchinese commonroute_9e8863ee:
@@ -6085,7 +6085,7 @@ translate Tchinese commonroute_8f6c75c8:
 translate Tchinese commonroute_7c46a732:
 
     # cl "\"Then I will double your usual price!\""
-    cl "“那我付給你雙倍的價錢！”"
+    cl "那我付給你雙倍的價錢！"
 
 # game/commonroute.rpy:1358
 translate Tchinese commonroute_dc09fe9a:
@@ -6115,7 +6115,7 @@ translate Tchinese commonroute_50f80080:
 translate Tchinese commonroute_98a7f0dd:
 
     # m "\"I’ll consider if my regular client cancels, which happens often enough. But I can't guarantee an immediate booking without prior arrangements.\""
-    m "“如果我的老主顧爽約了，我會考慮的，這種事常有。我不能在沒有事先安排的情況下保證一個即時預定。”"
+    m "如果我的老主顧爽約了，我會考慮的，這種事常有。我不能在沒有事先安排的情況下保證一個即時預定。"
 
 # game/commonroute.rpy:1363
 translate Tchinese commonroute_3b5e5320:
@@ -6127,13 +6127,13 @@ translate Tchinese commonroute_3b5e5320:
 translate Tchinese commonroute_cbbe1a4c:
 
     # cl "\"I do understand. You are a professional after all, and you have to ensure the health of your livelihood. I will make reservations if I cannot book tonight.\""
-    cl "“我能夠理解。你畢竟是一位專業人士，而且必須保證自己生計的健康。如果今晚無法預定，我會預約的。”"
+    cl "我能夠理解。你畢竟是一位專業人士，而且必須保證自己生計的健康。如果今晚無法預定，我會預約的。"
 
 # game/commonroute.rpy:1368
 translate Tchinese commonroute_6d6b1dde:
 
     # cy "\"So is this the fella with cold feet, then?\""
-    cy "“那麼，這就是那個猶豫不決的傢伙了？”"
+    cy "那麼，這就是那個猶豫不決的傢伙了？"
 
 # game/commonroute.rpy:1369
 translate Tchinese commonroute_b8add591:
@@ -6151,13 +6151,13 @@ translate Tchinese commonroute_2cb49cbe:
 translate Tchinese commonroute_4a04be6d:
 
     # mu "\"Unfortunately not, my dear. I’m here for business, not for pleasure.\""
-    mu "“可惜不是，親愛的。我來這裡是為了生意，不是為了快活。”"
+    mu "可惜不是，親愛的。我來這裡是為了生意，不是為了快活。"
 
 # game/commonroute.rpy:1373
 translate Tchinese commonroute_be0d1260:
 
     # cy "\"But your pleasure is our business, aren’t I right, Sam?\""
-    cy "“不過你的快活就是我們的生意，我說的沒錯吧，Sam？”"
+    cy "不過你的快活就是我們的生意，我說的沒錯吧，Sam？"
 
 # game/commonroute.rpy:1374
 translate Tchinese commonroute_1827191a:
@@ -6169,13 +6169,13 @@ translate Tchinese commonroute_1827191a:
 translate Tchinese commonroute_03ea0943:
 
     # mu "\"Then you should have charged me already. I’m having a lovely time just taking in the atmosphere.\""
-    mu "“那麼，你們應該向我收費了。我在這裡度過了一段愉快的時光。”"
+    mu "那麼，你們應該向我收費了。我在這裡度過了一段愉快的時光。"
 
 # game/commonroute.rpy:1377
 translate Tchinese commonroute_1ed85299:
 
     # m "\"I can bill you by the hour if you’re that insistent.\""
-    m "“如果你堅持，我可以按小時為你計費。”"
+    m "如果你堅持，我可以按小時為你計費。"
 
 # game/commonroute.rpy:1378
 translate Tchinese commonroute_8de8ff08:
@@ -6187,7 +6187,7 @@ translate Tchinese commonroute_8de8ff08:
 translate Tchinese commonroute_e4e4a723:
 
     # mu "\"Not so much. I’m trained to think of ways to make money faster than I spend it.\""
-    mu "“算了。我被教導過──要想辦法讓賺錢的速度比花錢快。”"
+    mu "算了。我被教導過──要想辦法讓賺錢的速度比花錢快。"
 
 # game/commonroute.rpy:1380
 translate Tchinese commonroute_da96f001:
@@ -6199,7 +6199,7 @@ translate Tchinese commonroute_da96f001:
 translate Tchinese commonroute_693014de:
 
     # cy "\"So he’s after our jobs?\""
-    cy "“所以，他是想幹我們的工作？”"
+    cy "所以，他是想幹我們的工作？"
 
 # game/commonroute.rpy:1383
 translate Tchinese commonroute_19b03aa7:
@@ -6211,31 +6211,31 @@ translate Tchinese commonroute_19b03aa7:
 translate Tchinese commonroute_33bd7c54:
 
     # mu "\"I don’t think I’m cut out for such a thing. But in another lifetime, perhaps even if I were, I’d have to be cut from a different cloth, so to speak.\""
-    mu "“我想自己不是這塊料，就算另一生的我可以，也一定是從其他的衣服上裁剪下來的。打個比喻。”"
+    mu "我想自己不是這塊料，就算另一生的我可以，也一定是從其他的衣服上裁剪下來的。打個比喻。"
 
 # game/commonroute.rpy:1386
 translate Tchinese commonroute_32c8efdb:
 
     # mu "\"My family is willful about how I spend my time and develop my trade.\""
-    mu "“我的家人對我如何消磨時間和做生意是很任性的。”"
+    mu "我的家人對我如何消磨時間和做生意是很任性的。"
 
 # game/commonroute.rpy:1387
 translate Tchinese commonroute_842b285b:
 
     # m "\"So the shorter story is that you’re a coward.\""
-    m "“簡而言之，你是個懦夫。”"
+    m "簡而言之，你是個懦夫。"
 
 # game/commonroute.rpy:1388
 translate Tchinese commonroute_1f6e554b:
 
     # cy "\"He’s right you know. I’ve heard that sob story before plenty of times.\""
-    cy "“他說得對。你知道嗎，那個傷感的故事我都聽過無數次了。”"
+    cy "他說得對。你知道嗎，那個傷感的故事我都聽過無數次了。"
 
 # game/commonroute.rpy:1389
 translate Tchinese commonroute_97ad7298:
 
     # m "\"Grow a spine and spend some of mommy’s money to slob on a knob.\""
-    m "“有點骨氣，拿一部分媽咪的錢給遊手好閒的自己壯壯陽吧。”"
+    m "有點骨氣，拿一部分媽咪的錢給遊手好閒的自己壯壯陽吧。"
 
 # game/commonroute.rpy:1391
 translate Tchinese commonroute_4ce750d0:
@@ -6283,43 +6283,43 @@ translate Tchinese commonroute_105f3e5f:
 translate Tchinese commonroute_b2809ae9:
 
     # mu "\"If you want a chance at my money that bad, I’ll spend a night. I mean it when I say I don’t intend to pay for sex.\""
-    mu "“如果你這麼想打我的錢的主意，我會待上一夜。不過我不打算為性付錢，字面意思上。”"
+    mu "如果你這麼想打我的錢的主意，我會待上一夜。不過我不打算為性付錢，字面意思上。"
 
 # game/commonroute.rpy:1401
 translate Tchinese commonroute_c3ed3cfd:
 
     # mu "\"But if we want to make this a point of personal pride, well, we’re going to have to hold a wager.\""
-    mu "“但是，如果這上升到個人名譽的層面，那麼，我們必須打一個賭。”"
+    mu "但是，如果這上升到個人名譽的層面，那麼，我們必須打一個賭。"
 
 # game/commonroute.rpy:1402
 translate Tchinese commonroute_9b01a0b5:
 
     # mu "\"Five times your hourly rate to whoever has the best time.\""
-    mu "“五倍於你的時薪，給度過了最美好時光的那個人。”"
+    mu "五倍於你的時薪，給度過了最美好時光的那個人。"
 
 # game/commonroute.rpy:1403
 translate Tchinese commonroute_f891bc1b:
 
     # m "\"I’m not interested in any uncertainties. If you book me for the night, you pay.\""
-    m "“我對一切不確定因素都沒興趣。如果你預定我過夜，就要掏錢。”"
+    m "我對一切不確定因素都沒興趣。如果你預定我過夜，就要掏錢。"
 
 # game/commonroute.rpy:1405
 translate Tchinese commonroute_7df2abb8:
 
     # mu "\"I’ve got far more than money to lose if I’m caught spending the night in a brothel.\""
-    mu "“如果被發現在妓院過夜，我損失的可不只錢這麼簡單。”"
+    mu "如果被發現在妓院過夜，我損失的可不只錢這麼簡單。"
 
 # game/commonroute.rpy:1407
 translate Tchinese commonroute_7e97f7b3:
 
     # mu "\"Now who’s the coward?\""
-    mu "“現在誰才是懦夫？”"
+    mu "現在誰才是懦夫？"
 
 # game/commonroute.rpy:1409
 translate Tchinese commonroute_e6c59df5:
 
     # cy "\"Have a little more faith in your hips, Sam. Five for one is a great deal!\""
-    cy "“對自己的屁股再自信點，Sam。五倍可是個大買賣！”"
+    cy "對自己的屁股再自信點，Sam。五倍可是個大買賣！"
 
 # game/commonroute.rpy:1411
 translate Tchinese commonroute_77ac4895:
@@ -6331,7 +6331,7 @@ translate Tchinese commonroute_77ac4895:
 translate Tchinese commonroute_14a3c333:
 
     # cy "\"That family’s wealthy enough to pay, too. They wouldn’t be hurting for much. And they’d squash any rumors about their own son.\""
-    cy "“那個富裕家庭掏得起錢，他們不會有多大損失的。而且他們會壓下任何關於自己兒子的謠言。”"
+    cy "那個富裕家庭掏得起錢，他們不會有多大損失的。而且他們會壓下任何關於自己兒子的謠言。"
 
 # game/commonroute.rpy:1416
 translate Tchinese commonroute_91df39a3:
@@ -6427,25 +6427,25 @@ translate Tchinese commonroute_3c3e320a:
 translate Tchinese commonroute_38b32d5e:
 
     # wi "\"Everybody hunker down tonight. I don’t want to see a SINGLE SOUL wander out into those streets.\""
-    wi "“今晚，所有人保持低調。我不想看到任何{b}單獨{/b}在街上遊蕩的人。”"
+    wi "今晚，所有人保持低調。我不想看到任何{b}單獨{/b}在街上遊蕩的人。"
 
 # game/commonroute.rpy:1432
 translate Tchinese commonroute_2564b393:
 
     # cy "\"Looks like all of your prospects will have to stay, Sam.\""
-    cy "“看來你所有的潛在客戶都必須留下了，Sam。”"
+    cy "看來你所有的潛在客戶都必須留下了，Sam。"
 
 # game/commonroute.rpy:1433
 translate Tchinese commonroute_6c3a6138:
 
     # m "\"I can’t attend to all of them!\""
-    m "“我顧不了他們全部！”"
+    m "我顧不了他們全部！"
 
 # game/commonroute.rpy:1434
 translate Tchinese commonroute_90524780:
 
     # cy "\"Then attend to one of them! We’re going to have to find somewhere for the rest.\""
-    cy "“那就專注其中一個！我們得找個休息的地方。”"
+    cy "那就專注其中一個！我們得找個休息的地方。"
 
 translate Tchinese strings:
 
@@ -6477,25 +6477,25 @@ translate Tchinese commonroute_9d4db3b2:
 translate Tchinese commonroute_b26eaef5:
 
     # cy "\"Sammy! Enough hiding away up here, come downstairs... what are you doing?\""
-    cy "“Sammy！別在這躲著了，下來...你在幹什麼呢？”"
+    cy "Sammy！別在這躲著了，下來...你在幹什麼呢？"
 
 # game/commonroute.rpy:56
 translate Tchinese commonroute_69633cf1:
 
     # m "\"Uh... I'm prayin'.\""
-    m "“呃...我在禱告。”"
+    m "呃...我在禱告。"
 
 # game/commonroute.rpy:88
 translate Tchinese commonroute_32427a91:
 
     # cy "\"Oh Sam. As I said, he's from Batavia, and... he made the appointment with you.\""
-    cy "“噢，Sam。首先，他來自巴達維亞。其次...他的預約對象是你。”"
+    cy "噢，Sam。首先，他來自巴達維亞。其次...他的預約對象是你。"
 
 # game/commonroute.rpy:93
 translate Tchinese commonroute_1c18e497:
 
     # cy "\"Well, {i}I{/i} didn't look at the list. I would never... but Gabriel did.\""
-    cy "“啊，{b}我{/b}沒有看那個名單，我永遠不會的...不過Gabriel看了。”"
+    cy "啊，{b}我{/b}沒有看那個名單，我永遠不會的...不過Gabriel看了。"
 
 # game/commonroute.rpy:109
 translate Tchinese commonroute_e96b5c56:
@@ -6507,7 +6507,7 @@ translate Tchinese commonroute_e96b5c56:
 translate Tchinese commonroute_b6396c08:
 
     # m "\"Like I said, it's stuffy in here, makes me feel like I'm goin' crazy... but thanks for makin' an effort.\""
-    m "“就像我說的，這裡悶到我快要發瘋了...不過還是謝謝你的嘗試。”"
+    m "就像我說的，這裡悶到我快要發瘋了...不過還是謝謝你的嘗試。"
 
 # game/commonroute.rpy:151
 translate Tchinese commonroute_1b9b48f2:
@@ -6531,19 +6531,19 @@ translate Tchinese commonroute_da4d5ca2:
 translate Tchinese commonroute_68463059:
 
     # m "\"But... but... how could anyone forget somethin' like that?\""
-    m "“但是...但是...怎麼會有人忘記這種事呢？”"
+    m "但是...但是...怎麼會有人忘記這種事呢？"
 
 # game/commonroute.rpy:213
 translate Tchinese commonroute_3e207e97:
 
     # ja "\"Who the hell knows!? But listen, there's a bag of the stuff. I think it's enough to, well... let us live rich for the rest of our lives. Like, REAL rich.\""
-    ja "“誰知道！？不過聽著，我想一袋那東西就足夠，嗯...足夠我們下輩子過上有錢人的生活了。──非常──有錢。”"
+    ja "誰知道！？不過聽著，我想一袋那東西就足夠，嗯...足夠我們下輩子過上有錢人的生活了。──非常──有錢。"
 
 # game/commonroute.rpy:272
 translate Tchinese commonroute_4fe8c4d2:
 
     # ja "\"Here it is, Sam... here it is.\""
-    ja "“就是這，Sam...就是這。”"
+    ja "就是這，Sam...就是這。"
 
 # game/commonroute.rpy:307
 translate Tchinese commonroute_96a004d2:
@@ -6585,7 +6585,7 @@ translate Tchinese commonroute_05bda310:
 translate Tchinese commonroute_e7decc28:
 
     # m "\"No... no, no, no, no.\""
-    m "“不...不，不，不，不。”"
+    m "不...不，不，不，不。"
 
 # game/commonroute.rpy:424
 translate Tchinese commonroute_f103c67d:
@@ -6597,7 +6597,7 @@ translate Tchinese commonroute_f103c67d:
 translate Tchinese commonroute_cf6e26ed:
 
     # m "\"Please... please let me find them...\""
-    m "“拜託...拜託讓我找到...”"
+    m "拜託...拜託讓我找到..."
 
 # game/commonroute.rpy:430
 translate Tchinese commonroute_4dfb59d3:
@@ -6627,19 +6627,19 @@ translate Tchinese commonroute_eeb6ae7a:
 translate Tchinese commonroute_41ced8be:
 
     # m "\"Just some asshole on the street... I dunno who.\""
-    m "“街上一些混蛋罷了...我不清楚是誰。”"
+    m "街上一些混蛋罷了...我不清楚是誰。"
 
 # game/commonroute.rpy:537
 translate Tchinese commonroute_0640b259:
 
     # m "\"I... I need to go wash up. I can tell you more later.\""
-    m "“我之後再告訴你。我...我需要清理一下。”"
+    m "我之後再告訴你。我...我需要清理一下。"
 
 # game/commonroute.rpy:540
 translate Tchinese commonroute_b8d1bbb0:
 
     # m "\"Sorry, but I gotta go. Just... come see me at the saloon sometime.\""
-    m "“抱歉，我得走了...有空來酒館找我。”"
+    m "抱歉，我得走了...有空來酒館找我。"
 
 # game/commonroute.rpy:562
 translate Tchinese commonroute_49bf0b21:
@@ -6651,7 +6651,7 @@ translate Tchinese commonroute_49bf0b21:
 translate Tchinese commonroute_579de853:
 
     # m "\"I—I was just having a walk through the streets... couple of men came up behind me and bashed my head. I didn't see them.\""
-    m "“我──我只是在街上散步...幾個男人從背後狠狠砸了我的頭，我沒有看見他們。”"
+    m "我──我只是在街上散步...幾個男人從背後狠狠砸了我的頭，我沒有看見他們。"
 
 # game/commonroute.rpy:710
 translate Tchinese commonroute_666bd57c:
@@ -6663,19 +6663,19 @@ translate Tchinese commonroute_666bd57c:
 translate Tchinese commonroute_b020757d:
 
     # cy "\"Ha! This is as... authentic... as it gets, sir.\""
-    cy "“哈！這裡...盡量...正宗了，先生。”"
+    cy "哈！這裡...盡量...正宗了，先生。"
 
 # game/commonroute.rpy:1219
 translate Tchinese commonroute_18ff9e51:
 
     # mu "\"Well... it muddles the narrative, doesn’t it? Was he hit in the head or did he hit himself? He didn’t have safety equipment or a light.\""
-    mu "“這個...它干擾了敘述，不是嗎？他是被人擊中頭部還是自己所為？他身上沒有安全設備，也沒有燈。”"
+    mu "這個...它干擾了敘述，不是嗎？他是被人擊中頭部還是自己所為？他身上沒有安全設備，也沒有燈。"
 
 # game/commonroute.rpy:1235
 translate Tchinese commonroute_92c480db:
 
     # wi "\"I know you've seen plenty of miners. Folks get sloppy when they’re... well—\""
-    wi "“我知道你見過很多礦工。人們在...的時候，會放鬆警惕。”"
+    wi "我知道你見過很多礦工。人們在...的時候，會放鬆警惕。"
 
 # game/commonroute.rpy:1316
 translate Tchinese commonroute_8ee7d160:
@@ -6699,7 +6699,7 @@ translate Tchinese commonroute_1744dfd9:
 translate Tchinese commonroute_aebed5a9:
 
     # m "\"Why don’t you... do this yourself, if you think it’s so insightful.\""
-    m "“你為什麼...自己不去做，如果你覺得這很有見地的話。”"
+    m "你為什麼...自己不去做，如果你覺得這很有見地的話。"
 
 # game/commonroute.rpy:1402
 translate Tchinese commonroute_690e2a72:
