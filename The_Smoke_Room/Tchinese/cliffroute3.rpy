@@ -11621,7 +11621,7 @@ translate Tchinese cliffroute3a_f3b1beb3:
 translate Tchinese cliffroute3a_29659c5e:
 
     # mu "\"I have a good reason to believe our employer might be in trouble.\""
-    mu "我很確信咱們雇主有麻煩了。"
+    mu "我很確信我們雇主有麻煩了。"
 
 # game/cliffroute3.rpy:3797
 translate Tchinese cliffroute3a_44e582c0:

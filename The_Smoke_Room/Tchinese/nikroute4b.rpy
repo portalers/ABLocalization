@@ -1600,7 +1600,7 @@ translate Tchinese nikroute4b_85bffc3d:
 translate Tchinese nikroute4b_d71ccfd6:
 
     # m "\"Let’s avoid it?\""
-    m "咱們躲著吧？"
+    m "我們躲著吧？"
 
 # game/nikroute4b.rpy:294
 translate Tchinese nikroute4b_4618919e:
@@ -6772,7 +6772,7 @@ translate Tchinese nikroute4b_0a8f0ec0:
 translate Tchinese nikroute4b_73e39003:
 
     # m "\"I told her to take a trip to Payton.\""
-    m "我讓她去佩頓了。"
+    m "我讓她去沛頓了。"
 
 # game/nikroute4b.rpy:2228
 translate Tchinese nikroute4b_8fd52d7a:
@@ -7258,7 +7258,7 @@ translate Tchinese nikroute4b_44516361:
 translate Tchinese nikroute4b_646ccfbf:
 
     # wi "\"Come find me in Payton, because this town isn’t my problem anymore.\""
-    wi "那就來佩頓找我吧，這小鎮已經不歸我管了。"
+    wi "那就來沛頓找我吧，這小鎮已經不歸我管了。"
 
 # game/nikroute4b.rpy:2398
 translate Tchinese nikroute4b_2a1aaee2:
@@ -7348,7 +7348,7 @@ translate Tchinese nikroute4b_6c9d5b65:
 translate Tchinese nikroute4b_a49721a4:
 
     # di "\"All aboard the Payton express, eh?\""
-    di "都是要去佩頓的，是吧？"
+    di "都是要去沛頓的，是吧？"
 
 # game/nikroute4b.rpy:2446
 translate Tchinese nikroute4b_7b08e88c:
@@ -7456,7 +7456,7 @@ translate Tchinese nikroute4b_c821d003:
 translate Tchinese nikroute4b_390cf9a1:
 
     # fe "\"I need to find work, and that work is in Payton now.\""
-    fe "如今為了工作，我得去佩頓。"
+    fe "如今為了工作，我得去沛頓。"
 
 # game/nikroute4b.rpy:2508
 translate Tchinese nikroute4b_1ed69411:
@@ -7516,13 +7516,13 @@ translate Tchinese nikroute4b_c866a5eb:
 translate Tchinese nikroute4b_0736231a:
 
     # pa "\"If we’re all goin’ in the same direction and the same place, y’all wouldn’t mind if we shacked up for a bit, right?\""
-    pa "既然目的地一樣，不如咱幾個暫時住一塊吧？"
+    pa "既然目的地一樣，不如我幾個暫時住一塊吧？"
 
 # game/nikroute4b.rpy:2540
 translate Tchinese nikroute4b_f4706c14:
 
     # pa "\"I figure money is tight between the lot of us.\""
-    pa "我看咱們都挺缺錢的。"
+    pa "我看我們都挺缺錢的。"
 
 # game/nikroute4b.rpy:2543
 translate Tchinese nikroute4b_58fcc1d8:
@@ -7660,7 +7660,7 @@ translate Tchinese nikroute4b_27012727:
 translate Tchinese nikroute4b_da4bb78e:
 
     # m "\"You leavin’ for Payton?\""
-    m "你要去佩頓？"
+    m "你要去沛頓？"
 
 # game/nikroute4b.rpy:2806
 translate Tchinese nikroute4b_c4393e7b:
@@ -7894,7 +7894,7 @@ translate Tchinese nikroute4b_beae53a6:
 translate Tchinese nikroute4b_5899ee84:
 
     # bk "\"I got a feeling we won’t be seeing one another again.\""
-    bk "我覺得咱們以後不會再見到了。"
+    bk "我覺得我們以後不會再見到了。"
 
 # game/nikroute4b.rpy:2887
 translate Tchinese nikroute4b_fc1cb941:
@@ -8260,7 +8260,7 @@ translate Tchinese yaofuturechoice2_739e8b48:
 translate Tchinese yaofuturechoice2_2569a572:
 
     # m "\"Come with us to Payton.\""
-    m "跟我們一起去佩頓吧。"
+    m "跟我們一起去沛頓吧。"
 
 # game/nikroute4b.rpy:2668
 translate Tchinese yaofuturechoice2_5b1d236d:
@@ -9148,7 +9148,7 @@ translate Tchinese yaofuturechoice2_86bc3221:
 translate Tchinese yaofuturechoice2_035f8b78:
 
     # wi "\"Let’s worry about Lord Król’s plans for now, huh?\""
-    wi "現在咱們還是先處理Król大王的事吧？"
+    wi "現在我們還是先處理Król大王的事吧？"
 
 # game/nikroute4b.rpy:2978
 translate Tchinese yaofuturechoice2_f01b4aef:
@@ -10258,13 +10258,13 @@ translate Tchinese yaofuturechoice2_2db541f5:
 translate Tchinese yaofuturechoice2_7647b8a0:
 
     # ni "\"I’m grateful we could afford a tub to contain us both.\""
-    ni "幸好我們買得起能塞得下咱倆的浴缸。"
+    ni "幸好我們買得起能塞得下我倆的浴缸。"
 
 # game/nikroute4b.rpy:3355
 translate Tchinese yaofuturechoice2_cd3e7c44:
 
     # m "\"I’m grateful there exists a tub to contain us both.\""
-    m "幸好世上有塞得下咱倆的浴缸。"
+    m "幸好世上有塞得下我倆的浴缸。"
 
 # game/nikroute4b.rpy:3356
 translate Tchinese yaofuturechoice2_9efc86fa:

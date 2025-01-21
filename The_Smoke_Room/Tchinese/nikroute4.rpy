@@ -910,7 +910,7 @@ translate Tchinese nikroute4a_b99455f8:
 translate Tchinese nikroute4a_9f531b18:
 
     # bk "\"After that, we’re even.\""
-    bk "然後咱倆就扯平了。"
+    bk "然後我倆就扯平了。"
 
 # game/nikroute4.rpy:270
 translate Tchinese nikroute4a_76629d28:
@@ -2110,7 +2110,7 @@ translate Tchinese nikroute4a_6b973d7d:
 translate Tchinese nikroute4a_15f64a75:
 
     # pa "\"Let’s move.\""
-    pa "咱們走。"
+    pa "我們走。"
 
 # game/nikroute4.rpy:643
 translate Tchinese nikroute4a_85e915f3:
@@ -2638,7 +2638,7 @@ translate Tchinese nikroute4a_b3e63b5f:
 translate Tchinese nikroute4a_4f43a5f7:
 
     # pa "\"If you want to think that way, then you’re just admitting that you think we’re much worse off than we’re tellin’ ya.\""
-    pa "你要這麼想，那咱們的處境就比想像中更糟了。"
+    pa "你要這麼想，那我們的處境就比想像中更糟了。"
 
 # game/nikroute4.rpy:809
 translate Tchinese nikroute4a_d6d5ef49:
@@ -3208,7 +3208,7 @@ translate Tchinese nikroute4a_f9c6b94b:
 translate Tchinese nikroute4a_32214bf6:
 
     # fe "\"He pushes us this far and doesn’t even give us anything to protect ourselves with?\""
-    fe "他把咱們全都推上了槍口，卻一件能用來自保的道具都不給？"
+    fe "他把我們全都推上了槍口，卻一件能用來自保的道具都不給？"
 
 # game/nikroute4.rpy:987
 translate Tchinese nikroute4a_565449cc:
@@ -3382,7 +3382,7 @@ translate Tchinese nikroute4a_50ff490f:
 translate Tchinese nikroute4a_011e1585:
 
     # fe "\"You think it was worth it, losing all of our friends? All of our jobs?\""
-    fe "咱們失去了親朋好友、工作甚至性命，"
+    fe "我們失去了親朋好友、工作甚至性命，"
 
 # game/nikroute4.rpy:1046
 translate Tchinese nikroute4a_0ff19ef8:
@@ -3958,7 +3958,7 @@ translate Tchinese nikroute4a_b439dc8f:
 translate Tchinese nikroute4a_ac3a758a:
 
     # "Nik operates the winch from the bottom, and I feel a little better once the three of us are down here together with the rest of the men."
-    "Nik在底部操縱絞盤，在咱們三人團聚後，我也好受了一點。"
+    "Nik在底部操縱絞盤，在我們三人團聚後，我也好受了一點。"
 
 # game/nikroute4.rpy:1226
 translate Tchinese nikroute4a_6eb3278c:

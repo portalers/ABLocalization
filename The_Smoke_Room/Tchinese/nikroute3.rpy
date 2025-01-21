@@ -24731,7 +24731,7 @@ translate Tchinese sny4_180feb9d:
 translate Tchinese sny4_d63d3057:
 
     # nat "\"We can barely do jack shit without Rogers and we don’t even know his condition.\""
-    nat "沒了Rogers咱們啥也沒法做，甚至連他情況都不知道啊。"
+    nat "沒了Rogers我們啥也沒法做，甚至連他情況都不知道啊。"
 
 # game/nikroute3.rpy:8449
 translate Tchinese sny4_bb0b3dcb:
@@ -36765,7 +36765,7 @@ translate Tchinese sny5_bccd0841:
 translate Tchinese sny5_6ed11c22:
 
     # no "\"I brought us closer.\""
-    no_TW "我讓咱們的距離更近了一點。"
+    no_TW "我讓我們的距離更近了一點。"
 
 # game/nikroute3.rpy:11760
 translate Tchinese sny5_85cda57c:
@@ -37083,7 +37083,7 @@ translate Tchinese sny5_373d165b:
 translate Tchinese sny5_a61f0a31:
 
     # no "\"We’ll be safer together.\""
-    no_TW "只要咱們在一起，就更安全。"
+    no_TW "只要我們在一起，就更安全。"
 
 # game/nikroute3.rpy:11819
 translate Tchinese sny5_d45dda60:
@@ -37743,7 +37743,7 @@ translate Tchinese sny5_0bc4637a:
 translate Tchinese sny5_12c4a966:
 
     # m "\"Some gold thieves we are, huh?\""
-    m "咱們可真是不得了的黃金大盜啊。"
+    m "我們可真是不得了的黃金大盜啊。"
 
 # game/nikroute3.rpy:11986
 translate Tchinese sny5_1fe8ebdc:
@@ -39741,7 +39741,7 @@ translate Tchinese sny5_7761b16d:
 translate Tchinese sny5_7ae5f830:
 
     # ni "\"Aren’t you riding with us to Payton?\""
-    ni "你沒有要跟我們一起去佩頓嗎？"
+    ni "你沒有要跟我們一起去沛頓嗎？"
 
 # game/nikroute3.rpy:12664
 translate Tchinese sny5_66010aea:
@@ -39765,7 +39765,7 @@ translate Tchinese sny5_39b07a4f:
 translate Tchinese sny5_d7464a4e:
 
     # ya "\"Wait three days for me at most at Payton’s Firehouse Inn.\""
-    ya "在佩頓的Firehouse旅店等我，最多三天。"
+    ya "在沛頓的Firehouse旅店等我，最多三天。"
 
 # game/nikroute3.rpy:12672
 translate Tchinese sny5_b7056719:
@@ -40687,7 +40687,7 @@ translate Tchinese nikroute3d1_645b5a93:
 translate Tchinese nikroute3d1_6091185d:
 
     # ni "\"All of us could!\""
-    ni "咱們所有人都可能會死！"
+    ni "我們所有人都可能會死！"
 
 # game/nikroute3.rpy:12931
 translate Tchinese nikroute3d1_191bc43b:
@@ -40837,7 +40837,7 @@ translate Tchinese nikroute3d2_d51f87b0:
 translate Tchinese nikroute3d2_862fcfd8:
 
     # "Back at that time where our pants were down, right after I got my first head injury."
-    "我頭第一次受傷，咱倆雙雙沒穿褲子的那一刻。"
+    "我頭第一次受傷，我倆雙雙沒穿褲子的那一刻。"
 
 # game/nikroute3.rpy:12993
 translate Tchinese nikroute3d2_93965385:
@@ -41239,7 +41239,7 @@ translate Tchinese nikroute3d2_b9a6200d:
 translate Tchinese nikroute3d2_f8683f28:
 
     # wi "\"You don’t get to decide whether we do or don’t.\""
-    wi "咱們想做啥可不歸你管。"
+    wi "我們想做啥可不歸你管。"
 
 # game/nikroute3.rpy:13114
 translate Tchinese nikroute3d2_be4d1439:
@@ -42523,7 +42523,7 @@ translate Tchinese nikroute3d2_390d2bf8:
 translate Tchinese nikroute3d2_fdabf90a:
 
     # to "\"My folks have leaky pipes, and my room got the worst of it.\""
-    to "咱家水管漏水呢，我的房間受害最嚴重。"
+    to "我家水管漏水呢，我的房間受害最嚴重。"
 
 # game/nikroute3.rpy:13566
 translate Tchinese nikroute3d2_d13034e0:
@@ -43261,7 +43261,7 @@ translate Tchinese nikroute3d2_6defc29a:
 translate Tchinese nikroute3d2_23361141:
 
     # di "\"You see, bears?\""
-    di "就說咱們熊吧？"
+    di "就說我們熊吧？"
 
 # game/nikroute3.rpy:13763
 translate Tchinese nikroute3d2_8d2b7bb2:
@@ -43291,7 +43291,7 @@ translate Tchinese nikroute3d2_5d9dde03:
 translate Tchinese nikroute3d2_ac84ae76:
 
     # di "\"The Citrine Valley Tribune will make us pay if we break it.\""
-    di "弄壞的話，黃晶谷壇報會要咱們賠償的。"
+    di "弄壞的話，黃晶谷壇報會要我們賠償的。"
 
 # game/nikroute3.rpy:13776
 translate Tchinese nikroute3d2_10adde53:
@@ -43351,7 +43351,7 @@ translate Tchinese nikroute3d2_3bdf51f8:
 translate Tchinese nikroute3d2_88f683d4:
 
     # "The trains deliver to Camp Rosa, to Payton, to Mesa."
-    "火車會通向羅莎營區、佩頓和梅薩。"
+    "火車會通向羅莎營區、沛頓和梅薩。"
 
 # game/nikroute3.rpy:13786
 translate Tchinese nikroute3d2_5069494b:
@@ -44047,7 +44047,7 @@ translate Tchinese nikroute3d2_c1cf4c7e:
 translate Tchinese nikroute3d2_9a641388:
 
     # di "\"Why would they do this if we’re close to cutting a deal?\""
-    di "咱們都快協商完畢了，又何必這個樣子？"
+    di "我們都快協商完畢了，又何必這個樣子？"
 
 # game/nikroute3.rpy:14017
 translate Tchinese nikroute3d2_da93c222:
@@ -44065,7 +44065,7 @@ translate Tchinese nikroute3d2_a917a1eb:
 translate Tchinese nikroute3d2_54824e36:
 
     # di "\"The idea is to give them no alternatives.\""
-    di "但重點是咱們沒給他們退路。"
+    di "但重點是我們沒給他們退路。"
 
 # game/nikroute3.rpy:14026
 translate Tchinese nikroute3d2_777944f4:
@@ -44143,7 +44143,7 @@ translate Tchinese nikroute3d2_1c7a90ad:
 translate Tchinese nikroute3d2_86e467f4:
 
     # di "\"And we aren’t going to win if we make turn this into a battle of force.\""
-    di "如果用暴力抗爭，咱們也贏不了。"
+    di "如果用暴力抗爭，我們也贏不了。"
 
 # game/nikroute3.rpy:14068
 translate Tchinese nikroute3d2_cdf6f3ed:
@@ -44221,7 +44221,7 @@ translate Tchinese nikroute3d2_51a2ce51:
 translate Tchinese nikroute3d2_7614783f:
 
     # pa "\"We’re all emotional!\""
-    pa "咱們全都很上頭好吧！"
+    pa "我們全都很上頭好吧！"
 
 # game/nikroute3.rpy:14103
 translate Tchinese nikroute3d2_c6fda0e7:
@@ -44269,13 +44269,13 @@ translate Tchinese nikroute3d2_2616af1a:
 translate Tchinese nikroute3d2_b039f764:
 
     # di "\"But thinking, and acting, is absolutely what we should not do right now.\""
-    di "但思考跟行動是咱們現在絕不該做的。"
+    di "但思考跟行動是我們現在絕不該做的。"
 
 # game/nikroute3.rpy:14123
 translate Tchinese nikroute3d2_e8ac2a8c:
 
     # di "\"Perhaps he wants us all at the quarry.\""
-    di "他可能是想引咱們到採石場。"
+    di "他可能是想引我們到採石場。"
 
 # game/nikroute3.rpy:14126
 translate Tchinese nikroute3d2_a259e530:
@@ -44287,7 +44287,7 @@ translate Tchinese nikroute3d2_a259e530:
 translate Tchinese nikroute3d2_d757e307:
 
     # di "\"Any misstep we make could get our friends killed.\""
-    di "咱們走錯一步都會害死盟友。"
+    di "我們走錯一步都會害死盟友。"
 
 # game/nikroute3.rpy:14132
 translate Tchinese nikroute3d2_c6be432a:
@@ -44449,7 +44449,7 @@ translate Tchinese nikroute3d2_df8ec4bc:
 translate Tchinese nikroute3d2_36f64201:
 
     # ni "\"Go with her and wait for me in Payton, Sam.\""
-    ni "你跟她一起到佩頓等我吧，Sam。"
+    ni "你跟她一起到沛頓等我吧，Sam。"
 
 # game/nikroute3.rpy:14190
 translate Tchinese nikroute3d2_23ede4f3:
@@ -44557,7 +44557,7 @@ translate Tchinese nikroute3d2_6a727754:
 translate Tchinese nikroute3d2_3a76fe10:
 
     # cy "\"Three days in Payton should be enough to know the state of things.\""
-    cy "在佩頓待上三天，情況應該就明瞭了。"
+    cy "在沛頓待上三天，情況應該就明瞭了。"
 
 # game/nikroute3.rpy:14224
 translate Tchinese nikroute3d2_d7b0a3c8:
@@ -44797,7 +44797,7 @@ translate Tchinese nikroute3d2_796c1c0e:
 translate Tchinese nikroute3d2_836189cb:
 
     # m "\"Why don’t we go to the station for those midnight tickets while we can?\""
-    m "咱們先去車站買午夜票吧？"
+    m "我們先去車站買午夜票吧？"
 
 # game/nikroute3.rpy:14302
 translate Tchinese nikroute3d2_bd8ac52b:
@@ -45085,7 +45085,7 @@ translate Tchinese nikroute3d2_ce769b20:
 translate Tchinese nikroute3d2_60187dcf:
 
     # wi "\"Luckily, I still haven’t seen any ground troops, so the situation shouldn’t be dire if we head over fast enough.\""
-    wi "幸虧我還沒看到任何部隊人員，只要咱們趕過去，情況應該不至於太糟。"
+    wi "幸虧我還沒看到任何部隊人員，只要我們趕過去，情況應該不至於太糟。"
 
 # game/nikroute3.rpy:14384
 translate Tchinese nikroute3d2_37d3f75f:
@@ -45373,7 +45373,7 @@ translate Tchinese nikroute3d2_690e867f:
 translate Tchinese nikroute3d2_8833c876:
 
     # "And I thought we managed to save his life once already."
-    "還以為咱們已經救了他一命。"
+    "還以為我們已經救了他一命。"
 
 # game/nikroute3.rpy:14499
 translate Tchinese nikroute3d2_aa35a08c:

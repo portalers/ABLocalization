@@ -7829,47 +7829,47 @@ translate Tchinese strings:
 translate Tchinese cliffroute_3dc7d76b:
 
     # cl "\"I am deeply sorry. I didn't mean to upset you, o-or hit a sore spot, or--\""
-    cl ""
+    cl "真的很抱歉，我不是有意勾起你的傷心事的——"
 
 # game/cliffroute.rpy:167
 translate Tchinese cliffroute_94b84fbd:
 
     # m "\"Feesus? What's a--\""
-    m ""
+    m "愣文？什麼是——"
 
 # game/cliffroute.rpy:522
 translate Tchinese cliffroute_441d1578:
 
     # cl "\"Well, I heard--\""
-    cl ""
+    cl "好吧，我聽說——"
 
 # game/cliffroute.rpy:1267
 translate Tchinese cliffroute_c684ce5d:
 
     # m "\"Ever thought about leavin'? Goin' back to--\""
-    m ""
+    m "你有想過離開嗎？回到——"
 
 # game/cliffroute.rpy:1402
 translate Tchinese cliffroute_514c555a:
 
     # "Reed" "\"He tried to--\""
-    "Reed" ""
+    "Reed " "他試圖——"
 
 # game/cliffroute.rpy:1472
 translate Tchinese cliffroute_d3e2c643:
 
     # cl "\"Actually--\""
-    cl ""
+    cl "實際上——"
 
 # game/cliffroute.rpy:1591
 translate Tchinese cliffroute_ef7aaad5:
 
     # m "\"Cliff, are you--\""
-    m ""
+    m "Cliff，你還——"
 
 # game/cliffroute.rpy:1796
 translate Tchinese cliffroute_6dddad4a:
 
     # cl "\"Oh, thank you! And Clifford is fine. Anyway, Samuel--\""
-    cl ""
+    cl "哦，謝謝你！還有叫我Cliff就好。 總而言之，Samuel——"
 

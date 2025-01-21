@@ -28055,7 +28055,7 @@ translate Tchinese williamroute3c_d8a1a56f:
 translate Tchinese williamroute3c_4b604cd7:
 
     # m "\"Why don’t we get to know each other a little more down at the bar?\""
-    m "要不去咱們酒吧熟悉一下彼此吧？"
+    m "要不去我們酒吧熟悉一下彼此吧？"
 
 # game/williamroute3.rpy:9834
 translate Tchinese williamroute3c_d77725dc:
@@ -28247,7 +28247,7 @@ translate Tchinese williamroute3c_b097d4d5:
 translate Tchinese williamroute3c_0162ad2c:
 
     # wi "\"But we both know I'm not gonna do that.\""
-    wi "但咱倆都知道，我不會動手的。"
+    wi "但我倆都知道，我不會動手的。"
 
 # game/williamroute3.rpy:9886
 translate Tchinese williamroute3c_60481e00:
@@ -29801,7 +29801,7 @@ translate Tchinese williamroute3c_70919e6a:
 translate Tchinese williamroute3c_8001e862:
 
     # m "\"Our bartender?\""
-    m "咱們的酒保？"
+    m "我們的酒保？"
 
 # game/williamroute3.rpy:10325
 translate Tchinese williamroute3c_521c210d:
@@ -34163,7 +34163,7 @@ translate Tchinese williamroute3c_916641d6:
 translate Tchinese williamroute3c_51094d2e:
 
     # m "\"If we take turns bending him over the table he’ll probably pop faster than the kettle lid.\""
-    m "咱倆輪流在桌上幹他，他肯定叫得比水燒開還快。"
+    m "我倆輪流在桌上幹他，他肯定叫得比水燒開還快。"
 
 # game/williamroute3.rpy:11671
 translate Tchinese williamroute3c_475d0658:
@@ -34247,7 +34247,7 @@ translate Tchinese williamroute3c_47dbcd7c:
 translate Tchinese williamroute3c_58fdc766:
 
     # wi "\"I think that’s where our Batavian friend might be.\""
-    wi "咱們那個巴達維亞朋友好像就在那。"
+    wi "我們那個巴達維亞朋友好像就在那。"
 
 # game/williamroute3.rpy:11705
 translate Tchinese williamroute3c_6d847c16:
@@ -35177,7 +35177,7 @@ translate Tchinese williamroute3c_1f31bef7:
 translate Tchinese williamroute3c_b1ed6738:
 
     # m "\"Tonight’s supposed to be fun.\""
-    m "咱們今晚是來享樂的。"
+    m "我們今晚是來享樂的。"
 
 # game/williamroute3.rpy:12053
 translate Tchinese williamroute3c_d8056cfb:
@@ -38531,7 +38531,7 @@ translate Tchinese willkanechoice_7d7b50ee:
 translate Tchinese willkanechoice_a51f315a:
 
     # "So I give him what we both want."
-    "我便滿足咱倆的共同需求。"
+    "我便滿足我倆的共同需求。"
 
 # game/williamroute3.rpy:13135
 translate Tchinese willkanechoice_88c0acca:
@@ -39197,7 +39197,7 @@ translate Tchinese williamroute3a_b5a548c5:
 translate Tchinese williamroute3a_bbf94b52:
 
     # m "\"We can do something quick and easy and then you can visit me later...\""
-    m "咱們可以做一些簡單快速的事情，之後如果你有意..."
+    m "我們可以做一些簡單快速的事情，之後如果你有意..."
 
 # game/williamroute3.rpy:9093
 translate Tchinese williamroute3c_44e182a6:
@@ -39377,7 +39377,7 @@ translate Tchinese williamroute3c_dd9d6659:
 translate Tchinese williamroute3c_37f51b6a:
 
     # mu "\"Cliff, you really don’t have to worry too much about that for where we’re going.\""
-    mu "Cliff，咱們接下來要去的地方不用這麼注重儀容儀表。"
+    mu "Cliff，我們接下來要去的地方不用這麼注重儀容儀表。"
 
 # game/williamroute3.rpy:11152
 translate Tchinese williamroute3c_a1400bea:
@@ -39671,7 +39671,7 @@ translate Tchinese samwill4_69447906:
 translate Tchinese samwill4_d237a39c:
 
     # wi "\"We have more important things on our minds than me getting my dick wet, anyway.\""
-    wi "總之，咱們都有比弄濕老二更重要的事值得操心。"
+    wi "總之，我們都有比弄濕老二更重要的事值得操心。"
 
 # game/williamroute3.rpy:11997
 translate Tchinese samwill4_8e2e6d20:
@@ -40673,7 +40673,7 @@ translate Tchinese samwill5_4aa3a755:
 translate Tchinese samwill5_1d4f9749:
 
     # m "\"Besides, if he tries anything fishy, we outnumber him.\""
-    m "就算他想耍心眼，也是咱們人多。"
+    m "就算他想耍心眼，也是我們人多。"
 
 # game/williamroute3.rpy:12358
 translate Tchinese samwill5_d969ed3b:
@@ -42744,7 +42744,7 @@ translate Tchinese updatemarcy_f9251c67:
 translate Tchinese updatemarcy_e35460f8:
 
     # to "\"Is that where we’re goin’ next then?\""
-    to "那咱們下一步要去哪？"
+    to "那我們下一步要去哪？"
 
 # game/williamroute3.rpy:6290
 translate Tchinese updatemarcy_0be302cc:
@@ -44604,7 +44604,7 @@ translate Tchinese williamroute3c_c4413232:
 translate Tchinese williamroute3c_246be1c8:
 
     # m "\"He knew about us, Will.\""
-    m "他知道咱倆的事，Will。"
+    m "他知道我倆的事，Will。"
 
 # game/williamroute3.rpy:10858
 translate Tchinese williamroute3c_6befbbe3:
@@ -44904,7 +44904,7 @@ translate Tchinese williamroute3c_0e2ad68b:
 translate Tchinese williamroute3c_71b526f5:
 
     # m "\"Well if we bum rush the bar together, we can clear a path.\""
-    m "咱們是可以一路衝到吧檯。"
+    m "我們是可以一路衝到吧檯。"
 
 # game/williamroute3.rpy:11792
 translate Tchinese williamroute3c_83ab9ffa:
@@ -45486,7 +45486,7 @@ translate Tchinese willkanechoice_2c8cee96:
 translate Tchinese willkanechoice_fe2ab8d1:
 
     # m "\"All our clothes are gone...\""
-    m "咱們的衣服全都不見了..."
+    m "我們的衣服全都不見了..."
 
 # game/williamroute3.rpy:12935
 translate Tchinese willkanechoice_b690fb1b:
@@ -45600,7 +45600,7 @@ translate Tchinese willkanechoice_234f0c9a:
 translate Tchinese willkanechoice_7f3b78be:
 
     # m "\"Well there’s three of us so there’s probably enough just to cover our peckers.\""
-    m "那就把它分一分，大概勉強夠咱們三個不漏鳥。"
+    m "那就把它分一分，大概勉強夠我們三個不露鳥。"
 
 # game/williamroute3.rpy:12972
 translate Tchinese willkanechoice_aed2866a:
@@ -46704,7 +46704,7 @@ translate Tchinese skipkane_476d4b87:
 translate Tchinese skipkane_be361a59:
 
     # m "\"Saves us some time.\""
-    m "咱們開門見山吧。"
+    m "我們開門見山吧。"
 
 # game/williamroute3.rpy:13329
 translate Tchinese skipkane_2643ddc1:
@@ -47220,7 +47220,7 @@ translate Tchinese skipkane_5f78b3e3:
 translate Tchinese skipkane_743b4a76:
 
     # ni "\"At least before I moved to Payton.\""
-    ni "至少在我搬去佩頓前。"
+    ni "至少在我搬去沛頓前。"
 
 # game/williamroute3.rpy:13500
 translate Tchinese skipkane_81c72e31:
@@ -47304,13 +47304,13 @@ translate Tchinese skipkane_e6e760cc:
 translate Tchinese skipkane_5da3d3c7:
 
     # m "\"{i}Payton{/i} though?\""
-    m "{b}佩頓{/b}嗎？"
+    m "{b}沛頓{/b}嗎？"
 
 # game/williamroute3.rpy:13530
 translate Tchinese skipkane_fb6bd8b1:
 
     # m "\"Why the hell Payton of all places?\""
-    m "為什麼偏偏是佩頓？"
+    m "為什麼偏偏是沛頓？"
 
 # game/williamroute3.rpy:13533
 translate Tchinese skipkane_fbe936fe:
@@ -47346,7 +47346,7 @@ translate Tchinese skipkane_04c582f6:
 translate Tchinese skipkane_c647c444:
 
     # ni "\"I have faith that not only will they catch up to Echo’s amenities, but exceed them.\""
-    ni "我相信佩頓的發展能趕上回音鎮，甚至超越回音鎮。"
+    ni "我相信沛頓的發展能趕上回音鎮，甚至超越回音鎮。"
 
 # game/williamroute3.rpy:13548
 translate Tchinese skipkane_f4f399d6:
@@ -47460,7 +47460,7 @@ translate Tchinese skipkane_d5bd0af5:
 translate Tchinese skipkane_04e11aa0:
 
     # wi "\"You know, we’re about as close as three men can be with one another, ain’t we?\""
-    wi "不過咱們三個的情誼天地可鑑，難道不是嗎？"
+    wi "不過我們三個的情誼天地可鑑，難道不是嗎？"
 
 # game/williamroute3.rpy:13584
 translate Tchinese skipkane_e24a5449:
@@ -47646,13 +47646,13 @@ translate Tchinese skipkane_e3a5312e:
 translate Tchinese skipkane_62a6fde5:
 
     # wi "\"What, to Payton?\""
-    wi "去哪裡，佩頓？"
+    wi "去哪裡，沛頓？"
 
 # game/williamroute3.rpy:13647
 translate Tchinese skipkane_55323833:
 
     # m "\"Yeah, to Payton.\""
-    m "是啊，佩頓。"
+    m "是啊，沛頓。"
 
 # game/williamroute3.rpy:13650
 translate Tchinese skipkane_b8d48463_1:
@@ -49332,7 +49332,7 @@ translate Tchinese swn_901be3be:
 translate Tchinese swn_c57a31d6:
 
     # m "\"We need shouldn't sleepin' outside like this.\""
-    m "咱們最好回去睡。"
+    m "我們最好回去睡。"
 
 # game/williamroute3.rpy:14075
 translate Tchinese swn_6f57a51f:
@@ -49446,7 +49446,7 @@ translate Tchinese swndecline_0390c7b4:
 translate Tchinese swndecline_b332fd25:
 
     # wi "\"If things are better for Nik in Payton, then they’re better for Nik in Payton.\""
-    wi "如果Nik在佩頓能過得更好，就說明他該去佩頓。"
+    wi "如果Nik在沛頓能過得更好，就說明他該去沛頓。"
 
 # game/williamroute3.rpy:14114
 translate Tchinese swndecline_54eac648:
@@ -52546,1163 +52546,1163 @@ translate Tchinese marcymerge_b8fb421a:
 translate Tchinese williamroute3_f6418422:
 
     # "He lowers his voice."
-    ""
+    "他壓低聲音。"
 
 # game/williamroute3.rpy:124
 translate Tchinese williamroute3_8d5173af:
 
     # m "\"Like this is a place you move to, you stay for a while, and then you keep on moving once you scrape together enough money.\""
-    m ""
+    m "這就好比你暫時落戶到這裡，一旦賺夠錢，就又繼續上路。"
 
 # game/williamroute3.rpy:314
 translate Tchinese williamroute3_5e7958ad:
 
     # "He puts his hand between my legs."
-    ""
+    "燥熱在我的兩腿之間奔湧。"
 
 # game/williamroute3.rpy:319
 translate Tchinese williamroute3_b96c3c00:
 
     # "He slips his hand under the tent in my trousers and touches me."
-    ""
+    "他一路溜進我支起來的小帳篷。"
 
 # game/williamroute3.rpy:320
 translate Tchinese williamroute3_97a27d31:
 
     # "And squeezes."
-    ""
+    "然後一捏。"
 
 # game/williamroute3.rpy:321
 translate Tchinese williamroute3_fc5626d5:
 
     # "It's a slow, slimy sound."
-    ""
+    "發出了黏稠的聲音。"
 
 # game/williamroute3.rpy:331
 translate Tchinese williamroute3_9f6765c1:
 
     # "He curls his digits and strokes me once."
-    ""
+    "他蜷起手指，握住我的肉棒一擼。"
 
 # game/williamroute3.rpy:355
 translate Tchinese williamroute3_e8247ca4:
 
     # "Sam stops stroking me."
-    ""
+    "Sam停下了手上的動作。"
 
 # game/williamroute3.rpy:357
 translate Tchinese williamroute3_f9b45a88:
 
     # "He glares."
-    ""
+    "他瞪著我。"
 
 # game/williamroute3.rpy:365
 translate Tchinese williamroute3_3b8e00c5:
 
     # "His glare turns into a surprised look."
-    ""
+    "他瞪大的雙眼多了幾分驚訝。"
 
 # game/williamroute3.rpy:415
 translate Tchinese williamroute3_8b78b649:
 
     # "He lets out a short laugh."
-    ""
+    "他笑了一聲。"
 
 # game/williamroute3.rpy:453
 translate Tchinese williamroute3_49b1e2d5:
 
     # "He takes a seat next to me, and I hook my arm around his waist."
-    ""
+    "他坐在我邊上，我順勢摟住他的腰。"
 
 # game/williamroute3.rpy:454
 translate Tchinese williamroute3_cb461fcd:
 
     # "His hand is on my thigh again."
-    ""
+    "他的手又撫上了我的大腿。"
 
 # game/williamroute3.rpy:517
 translate Tchinese williamroute3_bbbfa4f9:
 
     # "He uncorks the stopper, pours some of the slick contents in his paw, and smears it on me."
-    ""
+    "他打開瓶塞，倒了些滑膩的液體，並用爪子塗抹在我的肉棒上。"
 
 # game/williamroute3.rpy:558
 translate Tchinese williamroute3_6e741c65:
 
     # "I tie it in a way that I know he can’t get out of."
-    ""
+    "我繫緊了繩子，確保他沒辦法掙脫。"
 
 # game/williamroute3.rpy:571
 translate Tchinese williamroute3_f3a19331:
 
     # "Sam hums."
-    ""
+    "Sam哼了一聲。"
 
 # game/williamroute3.rpy:600
 translate Tchinese williamroute3_3e243c90:
 
     # "The fur on his legs stands up when I do."
-    ""
+    "他不禁寒毛直立。"
 
 # game/williamroute3.rpy:749
 translate Tchinese willbedchoice_5402cf18:
 
     # "My paws are as clean as they're gonna get, so I undo the bonds of rope behind his hands and pull the coils off of his wrists."
-    ""
+    "待擦乾淨爪子，我解開繩索，取下他手腕上的線圈。"
 
 # game/williamroute3.rpy:766
 translate Tchinese willbedchoice_20d5de8e:
 
     # "He doesn’t bother to take off the gag before he finishes himself off."
-    ""
+    "他開始動手，甚至沒有在意堵住他嘴的東西。"
 
 # game/williamroute3.rpy:806
 translate Tchinese willbedchoice_0b9ebcb3:
 
     # "He turns around, still looking up."
-    ""
+    "他轉過身，卻依然盯著牆壁不放。"
 
 # game/williamroute3.rpy:925
 translate Tchinese willbedchoice_322956f3:
 
     # to "\"Well there you are, Sheriff.\""
-    to ""
+    to "你來啦，警長。"
 
 # game/williamroute3.rpy:947
 translate Tchinese willbedchoice_61af4631:
 
     # "I grab his shoulder to move him aside and see the carcass-sized pillow case."
-    ""
+    "我抓住他的肩膀把他移到一邊，屍體大小的袋子映入我的眼簾。"
 
 # game/williamroute3.rpy:1007
 translate Tchinese willbedchoice_90917f4c:
 
     # "I turn and see the red of Sam’s eyes staring from my office."
-    ""
+    "我轉過身，正對上Sam的紅瞳，他正從辦公室裡望著我。"
 
 # game/williamroute3.rpy:1014
 translate Tchinese willbedchoice_126b2761:
 
     # "He disappears behind the window and we hear the heavy lock of the door click."
-    ""
+    "他消失在了窗戶後面，沉重的門鎖隨之發出喀噠聲。"
 
 # game/williamroute3.rpy:1064
 translate Tchinese willbedchoice_5ec9d47e:
 
     # cl "\"Well I had thought it was patently obvious that I am frightened, Sheriff.\""
-    cl ""
+    cl "我顯然是在害怕，警長。"
 
 # game/williamroute3.rpy:1085
 translate Tchinese willbedchoice_3afb492d:
 
     # "The stoat is filling his kettle and striking a match beneath the wood stove."
-    ""
+    "白鼬往水壺裡灌滿水，並在柴爐下划著一根火柴。"
 
 # game/williamroute3.rpy:1099
 translate Tchinese willbedchoice_9cf8c583:
 
     # "He stops all of a sudden, a bit flushed in the ears."
-    ""
+    "他話說到一半，耳朵微微發紅。"
 
 # game/williamroute3.rpy:1121
 translate Tchinese willbedchoice_bb037198:
 
     # "He turns to look at me as he fills a few metal capsules with dry leaf and flower bundles."
-    ""
+    "他回頭看著我，手裡不忘往金屬容器裡裝乾茶葉和小花束。"
 
 # game/williamroute3.rpy:1207
 translate Tchinese willbedchoice_c4835890:
 
     # "It states his full name, Clifford Tibbits, and his job title, consultant, in gold letters. Health information follows."
-    ""
+    "上面用金字寫著他的全名：Clifford Tibbits，以及他的職稱：顧問，外加健康訊息。"
 
 # game/williamroute3.rpy:1313
 translate Tchinese willbedchoice_143980b8:
 
     # cl "\"Very good. I shan't be long.\""
-    cl ""
+    cl "很好，不會讓你等太久的。"
 
 # game/williamroute3.rpy:1318
 translate Tchinese willbedchoice_35877bc2:
 
     # "We wait a while outdoors until we see a very weary looking Murdoch emerge from the apartment."
-    ""
+    "我們在屋外等了一會，直至看到一臉疲憊的Murdoch從公寓裡走出來。"
 
 # game/williamroute3.rpy:1419
 translate Tchinese cityhallnight_4ea80fef:
 
     # m "\"{i}...These things hast thou done, and I kept silence; thou thoughtest that I was altogether such a one as thyself: but I will reprove thee, and set them in order before thine eyes.{/i}\""
-    m ""
+    m "{b}……你行了這些事，我還閉口不言。你想我恰和你一樣。其實我要責備你，將這些事擺在你眼前。{/b}"
 
 # game/williamroute3.rpy:1661
 translate Tchinese cityhallnight_1ef7288b:
 
     # wi "\"Sure. But I don’t want to see you within 100 yards of that stoat or we’re gonna have ourselves a more punctual problem.\""
-    wi ""
+    wi "當然可以。但不要讓我看到你出現在那隻白鼬的一百碼以內，否則你可沒今天這麼好運了。"
 
 # game/williamroute3.rpy:1749
 translate Tchinese cityhallnight_fbf238cb:
 
     # "James rolls his eyes."
-    ""
+    "James翻了個白眼。"
 
 # game/williamroute3.rpy:1964
 translate Tchinese williamchallmenu_06fbdc25:
 
     # "His bodyguards are sitting in a corner, flipping through magazines."
-    ""
+    "他的保鏢們則坐在角落裡翻閱雜誌。"
 
 # game/williamroute3.rpy:1981
 translate Tchinese williamchallmenu_6ebc1de7:
 
     # "He flips a page to the beginning of another short story."
-    ""
+    "他翻到另一篇短篇小說的開頭。"
 
 # game/williamroute3.rpy:2018
 translate Tchinese williamchallmenu_53ab8238:
 
     # "He lifts an eyebrow."
-    ""
+    "他揚起眉毛。"
 
 # game/williamroute3.rpy:2025
 translate Tchinese williamchallmenu_34fd276f:
 
     # "He hums."
-    ""
+    "他哼著。"
 
 # game/williamroute3.rpy:2238
 translate Tchinese williamchallmenu_087a328c:
 
     # "He flashes me a smile and walks away."
-    ""
+    "他對我微微一笑，走開了。"
 
 # game/williamroute3.rpy:2249
 translate Tchinese endofwillchallinterviews1_b53d5812:
 
     # "I think I’ve learned all that I can."
-    ""
+    "我想我沒有遺漏什麼。"
 
 # game/williamroute3.rpy:2350
 translate Tchinese stagnight_ffff33cb:
 
     # "I know what a barn smells like."
-    ""
+    "酒吧什麼味道我再清楚不過了。"
 
 # game/williamroute3.rpy:2442
 translate Tchinese loftjump_d215a1c5:
 
     # wi "\"Do you know any folks in these parts who’d be comfortable to share what they know with me?\""
-    wi ""
+    wi "你知道這裡有誰肯和我分享情報嗎？"
 
 # game/williamroute3.rpy:2554
 translate Tchinese willstagmenu2_e2da6819:
 
     # "He points to the bear, the wolverine, and the jackrabbit respectively."
-    ""
+    "他分別指著熊、狼獾和野兔。"
 
 # game/williamroute3.rpy:2555
 translate Tchinese willstagmenu2_b1b3f537:
 
     # ni "\"Say hello to Sheriff Adler.\""
-    ni ""
+    ni "來跟Adler警長打個招呼。"
 
 # game/williamroute3.rpy:2694
 translate Tchinese endofwillstaginterviews2_792a412a:
 
     # "A big Sonoran wolf stares at me through the space they leave behind."
-    ""
+    "一隻高大的諾索拉狼隔著空位打量起我。"
 
 # game/williamroute3.rpy:2749
 translate Tchinese endofwillstaginterviews2_7d0250a2:
 
     # ka "\"Say, do you like to brawl, Sheriff?\""
-    ka ""
+    ka "說起來，你喜歡鬥毆嗎，警長？"
 
 # game/williamroute3.rpy:2760
 translate Tchinese endofwillstaginterviews2_4ae81bbf:
 
     # "The hell is with this guy?"
-    ""
+    "這傢伙搞什麼？"
 
 # game/williamroute3.rpy:2839
 translate Tchinese endofwillchallinterviews2_7f51adf4:
 
     # "I’m tired of the smell of sweat and rye whiskey."
-    ""
+    "他拿起威士忌時沒在看我。"
 
 # game/williamroute3.rpy:2890
 translate Tchinese samstation_17d92b06:
 
     # "There’s not been a whole lot to do for those two since they found out Will locks his record cabinet."
-    ""
+    "Will鎖上了他的檔案櫃，他們倆也只能乾瞪眼了。"
 
 # game/williamroute3.rpy:2927
 translate Tchinese samstation_f6418422:
 
     # "He lowers his voice."
-    ""
+    "他壓低音量。"
 
 # game/williamroute3.rpy:3026
 translate Tchinese samstation_c41b2d46:
 
     # cy "\"And come back to work tonight. We miss you.\""
-    cy ""
+    cy "還有，今晚回來上班吧，我們想你了。"
 
 # game/williamroute3.rpy:3044
 translate Tchinese samstation_2cc3b129:
 
     # "She adjusts her purse and walks past Will into the doorway."
-    ""
+    "她揣好錢包，從Will身旁走過。"
 
 # game/williamroute3.rpy:3059
 translate Tchinese samstation_86f2bbe0:
 
     # "He takes some money out of his pocket and puts it in my hand."
-    ""
+    "他從口袋裡掏出幾張鈔票塞進我手中。"
 
 # game/williamroute3.rpy:3068
 translate Tchinese samstation_6189fbdf:
 
     # "Will shrugs."
-    ""
+    "Will聳聳肩。"
 
 # game/williamroute3.rpy:3161
 translate Tchinese hipinvestigation_88031256:
 
     # cy "\"I’ve barely seen him at work now that he’s running around town with you.\""
-    cy ""
+    cy "他跟你在鎮上到處跑，連工作都不要了。"
 
 # game/williamroute3.rpy:3182
 translate Tchinese hipinvestigation_8c87788e:
 
     # cy "\"You really think the word of one Meseta hooker is more trustworthy than the big shot sheriff?\""
-    cy ""
+    cy "你真的認為一個梅塞塔娼妓的話比大名鼎鼎的警長更可信嗎？"
 
 # game/williamroute3.rpy:3201
 translate Tchinese hipinvestigation_a2edaf19:
 
     # wi "\"But he’s not safe being on his own yet.\""
-    wi ""
+    wi "但目前來看，他一個人不安全。"
 
 # game/williamroute3.rpy:3225
 translate Tchinese hipinvestigation_b242808a:
 
     # "Dora is on the couch. She's been watching me ever since I entered the room."
-    ""
+    "Dora坐在沙發上，打從我進來就一直盯著我。"
 
 # game/williamroute3.rpy:3226
 translate Tchinese hipinvestigation_ab046085:
 
     # "The only other person who’d be easy to access is Ethel, sitting alone on the couch."
-    ""
+    "唯一方便問話的另一個人是坐在沙發上的Ethel。"
 
 # game/williamroute3.rpy:3440
 translate Tchinese hipinvestigation1_fb426a00:
 
     # et "\"You’re the fucking sheriff, aren’t you?\""
-    et ""
+    et "你他媽的不是警長嗎？"
 
 # game/williamroute3.rpy:3448
 translate Tchinese hipinvestigation1_29fa0f08:
 
     # et "\"Then hand over some money. This isn’t a charity.\""
-    et ""
+    et "那就掏錢，這裡不是做慈善的。"
 
 # game/williamroute3.rpy:3467
 translate Tchinese hipinvestigation1_729b2855:
 
     # wi "\"And if it turned out you had a bad habit of breaching the confidentiality of your coworkers’ clients...\""
-    wi ""
+    wi "要是結果證明你有洩露同事客戶機密的壞習慣……"
 
 # game/williamroute3.rpy:3591
 translate Tchinese hipinvestigation1_8009ce31:
 
     # cy "\"Then, he asked if it was a special Meseta braid, but I was just honest and told him it’s how Lucy makes challah bread.\""
-    cy ""
+    cy "之後，他問我這是不是梅塞塔獨有的辮子，不過我誠實地告訴他這是Lucy做辮子麵包的手法。"
 
 # game/williamroute3.rpy:3763
 translate Tchinese hattie_43191023:
 
     # wi "\"Better to get a head start on an officer position than get dragged in as a foot soldier with everybody else, right?\""
-    wi ""
+    wi "與其和別人一起被抓去當個步兵，不如先下手為強，謀個軍官的位置，不是嗎？"
 
 # game/williamroute3.rpy:4084
 translate Tchinese williamroute3a_507f254e:
 
     # to "\"But I really oughta get some rest, Sheriff.\""
-    to ""
+    to "總之，我真的需要休息一下，警長。"
 
 # game/williamroute3.rpy:4137
 translate Tchinese williamroute3a_ca560462:
 
     # "But he's already gone."
-    ""
+    "但他已經消失不見了。"
 
 # game/williamroute3.rpy:4167
 translate Tchinese williamroute3a_7f1febb0:
 
     # "The scattered papers look cleaner and are stacked neatly."
-    ""
+    "零散的文件有序地堆放在一起。"
 
 # game/williamroute3.rpy:4252
 translate Tchinese williamroute3a_de77cf18:
 
     # wi "\"She showed me a photograph somebody took of her while she was sleeping.\""
-    wi ""
+    wi "她給我看了一張別人偷拍她睡覺的照片。"
 
 # game/williamroute3.rpy:4272
 translate Tchinese williamroute3a_17cbac77:
 
     # "His lips tighten and he nods."
-    ""
+    "他抿起嘴唇，點點頭。"
 
 # game/williamroute3.rpy:4463
 translate Tchinese williamroute3a_4b2cc288:
 
     # wi "\"He served under the former sheriff.\""
-    wi ""
+    wi "他曾效力於前任警長。"
 
 # game/williamroute3.rpy:4556
 translate Tchinese williamroute3a_b5216a9d:
 
     # "That’s when I realize how tired I am."
-    ""
+    "疲憊頓時將我淹沒。"
 
 # game/williamroute3.rpy:4817
 translate Tchinese williamroute3a_9dce1046:
 
     # "I can see clusters of half-filled teacups scattered about the house, some still with fluid in them, catching flies and bugs and specks of grime."
-    ""
+    "可以看到屋中散落著一串串半滿的茶杯：有些茶杯裡還裝著液體，引來蒼蠅、飛蟲和斑斑點點的汙垢。"
 
 # game/williamroute3.rpy:4844
 translate Tchinese williamroute3a_874f06d2:
 
     # "She wheezes first, and then giggles."
-    ""
+    "她先是喘了口氣，接著呵呵地笑了起來。"
 
 # game/williamroute3.rpy:4850
 translate Tchinese williamroute3a_fdcdf8f6:
 
     # "She pouts."
-    ""
+    "她抿起嘴。"
 
 # game/williamroute3.rpy:4856
 translate Tchinese williamroute3a_16b56a71:
 
     # "She leans away."
-    ""
+    "她側過身。"
 
 # game/williamroute3.rpy:4862
 translate Tchinese williamroute3a_cf50155a:
 
     # mar "\"He ain’t never coming back, is he?\""
-    mar ""
+    mar "他再也回不來了，是不是？"
 
 # game/williamroute3.rpy:4936
 translate Tchinese williamroute3a_623c8e74:
 
     # "I can hear soft wailing from the inside."
-    ""
+    "我能聽到從裡面傳來細微的哀號。"
 
 # game/williamroute3.rpy:4942
 translate Tchinese williamroute3a_27c12c32:
 
     # wi "\"And now more so because Deputy Bronson couldn’t keep his fuckin’ mouth shut for just a little while longer.\""
-    wi ""
+    wi "都怪Bronson副手管不住他那張該死的嘴。"
 
 # game/williamroute3.rpy:4987
 translate Tchinese williamroute3a_ef03f767:
 
     # wi "\"I know, but it's close to where I'll be for the next few days, and I think it would be best for you to keep by.\""
-    wi ""
+    wi "我知道，但我接下來要去的地方離那很近，你待在那我也可以放心。"
 
 # game/williamroute3.rpy:5095
 translate Tchinese williamroute3a_f477e9ff:
 
     # m "\"Well, you’ve known Mrs. Greene for a while, right?\""
-    m ""
+    m "你是Greene太太的老相識了，沒錯吧？"
 
 # game/williamroute3.rpy:5097
 translate Tchinese williamroute3a_2f0278b5:
 
     # to "\"’Course I have.\""
-    to ""
+    to "當然啦。"
 
 # game/williamroute3.rpy:5175
 translate Tchinese williamroute3a_cb0cf761:
 
     # m "\"Your family ever try to make you wash your mouth out with bleach if you swore?\""
-    m ""
+    m "你的家人有逼你在說髒話後用漂白水漱嘴嗎。"
 
 # game/williamroute3.rpy:5182
 translate Tchinese williamroute3a_fa945ca7:
 
     # m "\"How often did your family visit the Greenes'?\""
-    m ""
+    m "你們多久去一次Greene家？"
 
 # game/williamroute3.rpy:5302
 translate Tchinese williamroute3a_9539d400:
 
     # "I knew there was something funny about this one when I worked him up to spankin' himself off at the sheriff's office."
-    ""
+    "發現他在警署裡偷偷摸摸打手槍的時候，我就知道這傢伙有點意思。"
 
 # game/williamroute3.rpy:5403
 translate Tchinese williamroute3a_16e2bce0:
 
     # m "\"Keep these on in case we have to cover up quick if somebody comes our way.\""
-    m ""
+    m "假如有人過來，麻煩你把這個遮好囉。"
 
 # game/williamroute3.rpy:5407
 translate Tchinese williamroute3a_6c3ea4fd:
 
     # "I set down a sheet covering a crate and lay it on the dirt."
-    ""
+    "我把被單蓋在木箱上，再將其放置於地面。"
 
 # game/williamroute3.rpy:5569
 translate Tchinese williamroute3a_3d739e4a:
 
     # ka "\"I think you missed the part where I told you that I’m very food-motivated, Sheriff.\""
-    ka ""
+    ka "忘記了嗎，滿足口腹之慾啊，警長。"
 
 # game/williamroute3.rpy:5716
 translate Tchinese updatemarcy_b9562706:
 
     # "The otter shakes his head."
-    ""
+    "水獺搖搖頭。"
 
 # game/williamroute3.rpy:5772
 translate Tchinese updatemarcy_3d16e9d6:
 
     # "The insides of his ears go pale."
-    ""
+    "他的耳壁變得蒼白。"
 
 # game/williamroute3.rpy:5896
 translate Tchinese updatemarcy_51190e20:
 
     # "If Huxley’s killer shooting Deputy Bronson from the woods wouldn’t have taken him down right there and then, Todd's surprise might do the trick."
-    ""
+    "Bronson副官的驚訝之情絲毫不亞於Huxley案的兇手從樹林裡朝他開了一槍。"
 
 # game/williamroute3.rpy:6024
 translate Tchinese updatemarcy_d624a4e4:
 
     # "They land wetly on the ground and make a noise that makes me want to gag."
-    ""
+    "它們濕噠噠地落在地上，發出令人作嘔的聲音。"
 
 # game/williamroute3.rpy:6030
 translate Tchinese updatemarcy_ad99321e:
 
     # "She can’t really be sleeping here, can she?"
-    ""
+    "難道她真的睡在這裡？"
 
 # game/williamroute3.rpy:6034
 translate Tchinese updatemarcy_fa9235c7:
 
     # "Marcy’s not the first grown woman I’ve known to accumulate baby dolls, and this isn’t even the biggest collection I’ve seen."
-    ""
+    "我不是沒見過喜歡收集娃娃的成年女性，Marcy也不是她們之中最狂熱的那個。"
 
 # game/williamroute3.rpy:6130
 translate Tchinese updatemarcy_8c1c0b26:
 
     # "The tops of the planks crunch as the hinges come off."
-    ""
+    "木板頂部發出碎裂聲，鉸鏈脫落了。"
 
 # game/williamroute3.rpy:6151
 translate Tchinese updatemarcy_cd87a0a6:
 
     # "There’s plenty of cobwebs, and I’m sure I see a few things crawling around the floor out of the corners of my eye."
-    ""
+    "到處都是蜘蛛網，而且我肯定瞥到有什麼在地板上爬來爬去。"
 
 # game/williamroute3.rpy:6202
 translate Tchinese updatemarcy_5f06bd26:
 
     # wi "\"Todd, are you sure you never saw Marcy go down to the cellar?\""
-    wi ""
+    wi "Todd，你確定沒見過Marcy下地窖？"
 
 # game/williamroute3.rpy:6377
 translate Tchinese updatemarcy_408e9901:
 
     # "The rat glares at me and the fox’s eyebrows lift."
-    ""
+    "老鼠怒視著我，我和狐狸則揚了揚眉。"
 
 # game/williamroute3.rpy:6467
 translate Tchinese updatemarcy_5d6eb3a0:
 
     # wi "\"Do you know where any of your family were on those two nights?\""
-    wi ""
+    wi "那你知道他們在那兩晚都去了哪嗎？"
 
 # game/williamroute3.rpy:6599
 translate Tchinese williamroute3b_4fd6f620:
 
     # "And she was as terrified of being alone as she was terrified of being with him."
-    ""
+    "但她不只怕他，還怕寂寞。"
 
 # game/williamroute3.rpy:6610
 translate Tchinese williamroute3b_18a8f54b:
 
     # gr "\"The men without character wouldn’t be allowed near their daughters in the first place.\""
-    gr ""
+    gr "沒擔當的男人打從一開始就不被准許接近自己女兒。"
 
 # game/williamroute3.rpy:6634
 translate Tchinese williamroute3b_985bede9:
 
     # wi "\"I mean either she’s drugging herself, or somebody's doing it for her.\""
-    wi ""
+    wi "意思是她給自己下了藥，或者某人替她開了藥。"
 
 # game/williamroute3.rpy:6749
 translate Tchinese williamroute3b_71ec52be:
 
     # "And I know that Marcy and Huxley aren’t going to be the end of it."
-    ""
+    "也知道Marcy跟Huxley不會是最後一起事件。"
 
 # game/williamroute3.rpy:6850
 translate Tchinese williamroute3b_d2baaff1:
 
     # jam "\"Is this a stakeout, Sheriff?\""
-    jam ""
+    jam "你是來盯哨的嗎，警長？"
 
 # game/williamroute3.rpy:7000
 translate Tchinese williamroute3b_dfb53dd0:
 
     # "But then I see somebody I didn’t expect to see here."
-    ""
+    "但一個意外的人映入我眼簾。"
 
 # game/williamroute3.rpy:7123
 translate Tchinese williamroute3b_196f0a17:
 
     # jam "\"My grandfather didn’t want a manor. He wanted a citadel.\""
-    jam ""
+    jam "我爺爺想要的可不是棟宅邸，而是座堡壘。"
 
 # game/williamroute3.rpy:7148
 translate Tchinese williamroute3b_c75d718a:
 
     # "Who knows what he’s added or removed to the interior?"
-    ""
+    "誰知道他在內部做了什麼改建。"
 
 # game/williamroute3.rpy:7299
 translate Tchinese williamroute3b_df0aa66c:
 
     # "Nikolai puts his hands in his pockets."
-    ""
+    "Nikolai雙手插進口袋。"
 
 # game/williamroute3.rpy:7322
 translate Tchinese williamroute3b_474ae23f:
 
     # jam "\"Please excuse my absence. I doubt it will be brief.\""
-    jam ""
+    jam "恕我先失陪了，恐怕一時半會是回不來的。"
 
 # game/williamroute3.rpy:7433
 translate Tchinese willinvestigation2_b81220c8:
 
     # "Nik follows me to the foyer and keeps his voice low until we get a good distance away from the hall and start to climb the stairs."
-    ""
+    "Nik跟我來到玄關，一路保持靜默直到遠離大廳，爬上樓梯。"
 
 # game/williamroute3.rpy:7492
 translate Tchinese willinvestigation2_dd603dad:
 
     # wi "\"Well isn’t that partly your fault?\""
-    wi ""
+    wi "這有一部分是你的錯吧？"
 
 # game/williamroute3.rpy:7794
 translate Tchinese willinvestigation2_9b9079c7:
 
     # "Then she takes a look at me, drops the spoon, and sighs."
-    ""
+    "然後望向我，放下湯匙，嘆了口氣。"
 
 # game/williamroute3.rpy:7894
 translate Tchinese willinvestigation2_5d1a8c04:
 
     # "What the hell?"
-    ""
+    "什麼鬼？"
 
 # game/williamroute3.rpy:7916
 translate Tchinese willinvestigation2_b317f26e:
 
     # "Nik and Mrs. Hendricks seem to be deep in conversation when I return."
-    ""
+    "Nik和Hendricks夫人似乎談得正歡。"
 
 # game/williamroute3.rpy:8028
 translate Tchinese willinvestigation2_897dcbe8:
 
     # "He frowns and shakes a bit."
-    ""
+    "他皺起眉毛，微微發抖。"
 
 # game/williamroute3.rpy:8032
 translate Tchinese willinvestigation2_991ed5df:
 
     # "The outsides of his cheeks are red."
-    ""
+    "他臉頰都紅了。"
 
 # game/williamroute3.rpy:8202
 translate Tchinese willinvestigation3_032f6dea:
 
     # "I try to open it but the door is stuck."
-    ""
+    "我試著拉開，但門文風不動。"
 
 # game/williamroute3.rpy:8275
 translate Tchinese willinvestigation3_7a193065:
 
     # "The Byrneses are the only developers in town I know of accessible to the public, but knowing the money James has, it shouldn’t be hard to find a private developer."
-    ""
+    "我知道Byrnes家是鎮上唯一開放沖洗照片的地方，但James這麼富有，要私下找人幫他沖洗照片也不是難事。"
 
 # game/williamroute3.rpy:8356
 translate Tchinese postwillinvestigation3_d7272041:
 
     # mrs "\"Now that’s a downright shame.\""
-    mrs ""
+    mrs "這可真是遺憾。"
 
 # game/williamroute3.rpy:8441
 translate Tchinese postwillinvestigation3_fc522327:
 
     # wi "\"Your mama’s gonna get an ear full of this the next time I see her, son.\""
-    wi ""
+    wi "下次我再見到你媽，我一定跟她講個沒完，小鬼。"
 
 # game/williamroute3.rpy:8477
 translate Tchinese postwillinvestigation3_4e71cfac:
 
     # "I see James show up behind Andy and Noah."
-    ""
+    "James出現在Andy和Noah身後。"
 
 # game/williamroute3.rpy:8588
 translate Tchinese postwillinvestigation3_8750cdd9:
 
     # "I know he’s fine on his own, but I can’t help but wonder if he’s pushing himself too hard."
-    ""
+    "我知道他是個獨行俠，卻還是覺得他把自己逼太緊了。"
 
 # game/williamroute3.rpy:9289
 translate Tchinese williamroute3c_9b56e3a1:
 
     # cl "\"Does it glow?\""
-    cl ""
+    cl "會發光嗎？"
 
 # game/williamroute3.rpy:9381
 translate Tchinese williamroute3c_1fe8178c:
 
     # cl "\"...A what!?\""
-    cl ""
+    cl "……什麼東西！？"
 
 # game/williamroute3.rpy:9543
 translate Tchinese williamroute3c_b659fb11:
 
     # "Sam runs off a slurry of curses under his breath."
-    ""
+    "Sam低聲一連串地咒罵。"
 
 # game/williamroute3.rpy:9639
 translate Tchinese williamroute3c_71f7ebc7:
 
     # "His ears quirk."
-    ""
+    "他雙耳直豎。"
 
 # game/williamroute3.rpy:9649
 translate Tchinese williamroute3c_8372ba80:
 
     # "Because I mean to be telling lies tonight, not the partial truth."
-    ""
+    "我本來想胡扯的，卻講出了一點事實。"
 
 # game/williamroute3.rpy:9650
 translate Tchinese williamroute3c_35369cc0:
 
     # "He stops pouring."
-    ""
+    "他停止倒酒。"
 
 # game/williamroute3.rpy:9659
 translate Tchinese williamroute3c_a986d259:
 
     # "Harlan snorts dismissively."
-    ""
+    "Harlan不屑地嗤之以鼻。"
 
 # game/williamroute3.rpy:9693
 translate Tchinese williamroute3c_79fc99f3:
 
     # "An alarmed looking squirrel holding four mugs of beer in her hand looks his way."
-    ""
+    "一隻拿著四杯啤酒的松鼠驚愕地看向他。"
 
 # game/williamroute3.rpy:9701
 translate Tchinese williamroute3c_19a39a68:
 
     # "She nods quickly, and before I can speak he's lifting the latch on the bar."
-    ""
+    "她迅速點頭，他沒等我開口就已經拉起了吧台的木栓。"
 
 # game/williamroute3.rpy:9706
 translate Tchinese williamroute3c_fee00bc5:
 
     # "He doesn't wait for me to agree, but I follow."
-    ""
+    "我還沒來得及回應，但還是跟著他走。"
 
 # game/williamroute3.rpy:9711
 translate Tchinese williamroute3c_38d541b9:
 
     # "Once I'm there, he looks at my pocket again."
-    ""
+    "到了後，他又看向我的口袋。"
 
 # game/williamroute3.rpy:9850
 translate Tchinese williamroute3c_21916de3:
 
     # "When I open it up it just has names and dates for various people, and identifying information."
-    ""
+    "翻開後，裡面只寫著幾個人的名字、日期和個人資料。"
 
 # game/williamroute3.rpy:9944
 translate Tchinese williamroute3c_a6625602:
 
     # "She hems."
-    ""
+    "她悶聲思考。"
 
 # game/williamroute3.rpy:9968
 translate Tchinese williamroute3c_e38bbe1c:
 
     # "I swing one leg over the other, twisting my tail and body through the opening, and lower myself to a crouch as the door creaks open."
-    ""
+    "我一腳跨過另一腳，側身把身子連同尾巴探出窗外，在門被打開時蹲下。"
 
 # game/williamroute3.rpy:10003
 translate Tchinese williamroute3c_1e9b0275:
 
     # m "\"I consider most of Cynthia’s judgments good enough to be considered what I believe, more likely than not.\""
-    m ""
+    m "我覺得Cynthia對大多事的判斷是對的，我通常也都信她。"
 
 # game/williamroute3.rpy:10014
 translate Tchinese williamroute3c_b868eb13:
 
     # m "\"So long as I like you, Sheriff.\""
-    m ""
+    m "只要有我喜歡你就好了，警長。"
 
 # game/williamroute3.rpy:10105
 translate Tchinese williamroute3c_7aa1fc31:
 
     # "He looks between me and Sam again."
-    ""
+    "他又看了看我和Sam。"
 
 # game/williamroute3.rpy:10455
 translate Tchinese williamroute3c_4a44b21b:
 
     # mu "\"Hello, Sheriff.\""
-    mu ""
+    mu "你好啊，警長。"
 
 # game/williamroute3.rpy:10757
 translate Tchinese williamroute3c_cb12835d:
 
     # m "\"Just try it, just once with me.\""
-    m ""
+    m "就跟我試一次嘛。"
 
 # game/williamroute3.rpy:10910
 translate Tchinese williamroute3c_739ad0d5:
 
     # "Nik and Todd are where we left them."
-    ""
+    "Nik跟Todd還留在原位。"
 
 # game/williamroute3.rpy:10975
 translate Tchinese williamroute3c_a6d81476:
 
     # "Todd takes this as an invitation to go, too."
-    ""
+    "Todd也把這當作邀請。"
 
 # game/williamroute3.rpy:11034
 translate Tchinese williamroute3c_99ff9273:
 
     # "I only see the salamander's hand as she pushes a very glossy Mr. Tibbits out of the room and closes the door."
-    ""
+    "只見蠑螈的一隻手把全身光滑的Tibbits先生推了出來，關上房門。"
 
 # game/williamroute3.rpy:11057
 translate Tchinese williamroute3c_d6883f30:
 
     # mu "\"They just got here. I didn’t have time to.\""
-    mu ""
+    mu "他們才剛到，我來不及。"
 
 # game/williamroute3.rpy:11112
 translate Tchinese williamroute3c_83e21a7f:
 
     # "After circling the whole Hip two or three more times, Sam finds them in the powder room, which confuses us all because we think we checked there."
-    ""
+    "把整間Hip巡過兩三次後，Sam才在梳妝室找到他們，讓我們都很詫異，畢竟理應早就搜過了。"
 
 # game/williamroute3.rpy:11285
 translate Tchinese williamroute3c_478c88bd:
 
     # "He grins and a small groan hovers about the crowd."
-    ""
+    "他咧嘴一笑，一行人中突然傳出一小道噓聲。"
 
 # game/williamroute3.rpy:11333
 translate Tchinese williamroute3c_c9d58e4d:
 
     # m "\"He’s still upset with me, isn’t he?\""
-    m ""
+    m "他還在生我的氣吧？"
 
 # game/williamroute3.rpy:11446
 translate Tchinese williamroute3c_e9280923:
 
     # "The barn has a bit of a glimmer to it when there are more lanterns and candles lit."
-    ""
+    "被燈籠跟蠟燭點亮的農倉是有點熠熠生輝。"
 
 # game/williamroute3.rpy:11682
 translate Tchinese williamroute3c_244cd33a:
 
     # ch "\"What are you looking for, Sheriff Adler?\""
-    ch ""
+    ch "你有何貴幹，Adler警長？"
 
 # game/williamroute3.rpy:11714
 translate Tchinese williamroute3c_bb10f2a9:
 
     # "As I turn to go I hear the tiger speak urgently with the sable, his voice getting slightly louder as he refuses to respond."
-    ""
+    "我轉身離去時，聽見老虎急促地向黑貂搭話，因為對方不願回應而愈發大聲。"
 
 # game/williamroute3.rpy:11823
 translate Tchinese williamroute3c_cafcb237:
 
     # "My deputy follows the line of my gaze and gulps."
-    ""
+    "我的副手順著我的視線看去，嚥了口唾沫。"
 
 # game/williamroute3.rpy:11825
 translate Tchinese williamroute3c_fc8bcd2c:
 
     # "Then he puts both paws on his lap."
-    ""
+    "接著他把手放在膝蓋上。"
 
 # game/williamroute3.rpy:11832
 translate Tchinese williamroute3c_860326a7:
 
     # "His voice is firm."
-    ""
+    "他堅定地說。"
 
 # game/williamroute3.rpy:11833
 translate Tchinese williamroute3c_e8855bb7:
 
     # "The unmistakable scent of excitement is coming off of him."
-    ""
+    "他身上散發出濃烈的男人味。"
 
 # game/williamroute3.rpy:11978
 translate Tchinese samwill4_1cc3f3f8:
 
     # wi "\"I think you lose something when you stop listening to your instincts.\""
-    wi ""
+    wi "有些東西，只有順從直覺才能得到。"
 
 # game/williamroute3.rpy:12301
 translate Tchinese samwill5_d28f1b1e:
 
     # "Kane chuckles."
-    ""
+    "Kane笑出聲。"
 
 # game/williamroute3.rpy:12320
 translate Tchinese samwill5_1b6d44ab:
 
     # "The otter clams up."
-    ""
+    "水獺陷入尷尬。"
 
 # game/williamroute3.rpy:12561
 translate Tchinese willkanechoice_d78b7bb0:
 
     # "It sounds like somebody else is finishing."
-    ""
+    "好像有其他人完事了。"
 
 # game/williamroute3.rpy:12592
 translate Tchinese willkanechoice_e6699534:
 
     # "I just now notice Sam’s shirt is gone."
-    ""
+    "我才發現Sam上衣已經沒了。"
 
 # game/williamroute3.rpy:12749
 translate Tchinese willkanechoice_21a7f83f:
 
     # ka "\"I can tell this isn’t your first time.\""
-    ka ""
+    ka "我感覺得出來，這不是你第一次了。"
 
 # game/williamroute3.rpy:12770
 translate Tchinese willkanechoice_9af95af7:
 
     # ka "\"What’s that, Sheriff?\""
-    ka ""
+    ka "怎麼了，警長？"
 
 # game/williamroute3.rpy:12777
 translate Tchinese willkanechoice_320d381c:
 
     # ka "\"He reeks like a whore just from startin' to suck just one cock.\""
-    ka ""
+    ka "他才不過剛開始吸一根屌，就已經一身妓女味了。"
 
 # game/williamroute3.rpy:12838
 translate Tchinese willkanechoice_8772cc72:
 
     # "As the warm moisture sinks into my snout, so too do his lips on my tip."
-    ""
+    "溫熱的液體浸入我的吻部時，我的頂部也沒入他的唇。"
 
 # game/williamroute3.rpy:13055
 translate Tchinese willkanechoice_7e6e8734:
 
     # m "\"You alright, Deputy Bronson?\""
-    m ""
+    m "你還好嗎，Bronson副官？"
 
 # game/williamroute3.rpy:13084
 translate Tchinese willkanechoice_72c54136:
 
     # to "\"Well people can’t go doin’ that. I need my clothes to walk around in!\""
-    to ""
+    to "真不像話，這下我可怎麼出門呀！"
 
 # game/williamroute3.rpy:13085
 translate Tchinese willkanechoice_72947420:
 
     # wi "\"It’s okay. Nik is already getting some of my clothes.\""
-    wi ""
+    wi "別慌，Nik去我的住處拿備用衣服了。"
 
 # game/williamroute3.rpy:13107
 translate Tchinese willkanechoice_bcfe8594:
 
     # to "\"...yes, Sheriff.\""
-    to ""
+    to "......是的，長官。"
 
 # game/williamroute3.rpy:13144
 translate Tchinese willkanechoice_2151eb86:
 
     # "Nik parts ways with us, assuring us that he’ll see us again soon."
-    ""
+    "Nik與我們分別，但他保證我們很快就會再見。"
 
 # game/williamroute3.rpy:13175
 translate Tchinese willsplitB2_9f11f200:
 
     # m "\"You sure that’s what you really wanted?\""
-    m ""
+    m "這樣做真的好嗎？"
 
 # game/williamroute3.rpy:13218
 translate Tchinese willsplitB2_975add4d:
 
     # "Then I see the back of a German shepherd’s head."
-    ""
+    "就在這時，我看到一隻德國牧羊犬的背影。"
 
 # game/williamroute3.rpy:13223
 translate Tchinese willsplitB2_de24914e:
 
     # "Because that wasn’t his name, and he isn’t really here."
-    ""
+    "因為那不是他的名字，他也不在這裡。"
 
 # game/williamroute3.rpy:13235
 translate Tchinese willsplitB2_623768af:
 
     # wi "\"Somebody from my old home who I used to know.\""
-    wi ""
+    wi "我認識的一個同鄉。"
 
 # game/williamroute3.rpy:13332
 translate Tchinese skipkane_6a1e4ae6:
 
     # ni "\"You would have done the same to me if something was obviously wrong and you withheld it!\""
-    ni ""
+    ni "發生了這麼大的事，你可以向他全盤托出，卻不肯對我透露半點風聲！"
 
 # game/williamroute3.rpy:13340
 translate Tchinese skipkane_be385235:
 
     # "Nikolai’s fist pounds the table." with vpunch
-    "" with vpunch
+    "Nikolai一拳猛地砸在桌子上。" with vpunch
 
 # game/williamroute3.rpy:13342
 translate Tchinese skipkane_b9e64693:
 
     # "Some of the other bar patrons are looking our way."
-    ""
+    "酒吧裡的其他客人紛紛看了過來。"
 
 # game/williamroute3.rpy:13344
 translate Tchinese skipkane_9bb3bf59:
 
     # "The barkeep delivers Sam’s beer."
-    ""
+    "酒保送來Sam的啤酒。"
 
 # game/williamroute3.rpy:13494
 translate Tchinese skipkane_3d75842e:
 
     # wi "\"So do the both of you feel better now that you’ve spoken your piece?\""
-    wi ""
+    wi "既然說出了心裡話，你們倆有感覺好些嗎？"
 
 # game/williamroute3.rpy:13502
 translate Tchinese skipkane_c067b5c0:
 
     # ni "\"At least before I move to Payton.\""
-    ni ""
+    ni "至少在我搬去沛頓前。"
 
 # game/williamroute3.rpy:13681
 translate Tchinese skipkane_983b4199:
 
     # m "\"But why should we waste any of the time we might have on people who couldn’t care less if we were all dead?\""
-    m ""
+    m "但我們為什麼要把時間浪費在那些根本不在乎我們死活的人身上呢？"
 
 # game/williamroute3.rpy:13733
 translate Tchinese skipkane_34875191:
 
     # wi "\"Since when has that ever stopped you from sharing?\""
-    wi ""
+    wi "你之前犯的傻還少嗎？"
 
 # game/williamroute3.rpy:13736
 translate Tchinese skipkane_19f0f5fc:
 
     # "Nik elbows me and I feel a little bit of wind knocked out of me." with hpunch
-    "" with hpunch
+    "Nik用肘撞了我一下，彷彿一陣強風，差點將我吹飛。" with hpunch
 
 # game/williamroute3.rpy:13776
 translate Tchinese skipkane_6e12435d:
 
     # ni "\"It makes me wonder how many of us there are who do but never really say it.\""
-    ni ""
+    ni "不知道我們當中究竟有多少這樣的人，從始至終都未曾表露出自己的心意。"
 
 # game/williamroute3.rpy:13807
 translate Tchinese swn_95bae8fc:
 
     # wi "\"Anybody’s cock?\""
-    wi ""
+    wi "口誰都行。"
 
 # game/williamroute3.rpy:13869
 translate Tchinese swn_a3d09ef8:
 
     # "It’s strange to see Nik do this to Sam, even knowing he always has been Sam's client."
-    ""
+    "雖然他是Sam的老客戶了，但這一幕在我眼中還是很稀奇。"
 
 # game/williamroute3.rpy:14000
 translate Tchinese swn_389aa0a0:
 
     # wi "\"I’m just saying that I wouldn’t much mind that either so long as it’s not killin’ me.\""
-    wi ""
+    wi "我的意思是，真受不了的話我會吭聲的。"
 
 # game/williamroute3.rpy:14029
 translate Tchinese swn_33db0741:
 
     # "I just scoot close to Sam who’s lying on a patch of dirt, put my head between his legs, and slip his warm, thick shaft into my mouth."
-    ""
+    "我沒有說話，只是靠近躺在土堆上的Sam，低下頭，把他溫熱粗大的肉棒塞進嘴裡。"
 
 # game/williamroute3.rpy:14031
 translate Tchinese swn_b7dcb7b5:
 
     # "The sweat of Sam’s balls still commingles with Nik’s breath."
-    ""
+    "Sam的汗味與Nik的呼吸交織在一起。"
 
 # game/williamroute3.rpy:14036
 translate Tchinese swn_ecf9d0c6:
 
     # "A sudden chemical smell fills the air. And like a chain reaction, Samuel’s legs begin to shake."
-    ""
+    "空氣中頓時瀰漫著一股化學的氣味，就像連鎖反應一樣，Samuel的腿開始發顫。"
 
 # game/williamroute3.rpy:14039
 translate Tchinese swn_976b5e60:
 
     # "The tightness in my balls draws tighter and tighter as Nik’s mouth swallows as much of me as he can."
-    ""
+    "卵蛋的緊縮感一陣強過一陣，Nik盡可能一滴不漏地吞下。"
 
 # game/williamroute3.rpy:14052
 translate Tchinese swn_f5c8b6ec:
 
     # "It's Sam who has woken me."
-    ""
+    "是Sam叫醒了我。"
 
 # game/williamroute3.rpy:14076
 translate Tchinese swn_a2805246:
 
     # m "\"We shouldn't be sleepin' outside like this.\""
-    m ""
+    m "我們最好回去睡。"
 
 # game/williamroute3.rpy:14117
 translate Tchinese swndecline_a2d0b29d:
 
     # wi "\"That’s just how things shake out sometimes.\""
-    wi ""
+    wi "就是這麼簡單的道理。"
 
 # game/williamroute3.rpy:14215
 translate Tchinese marcymerge_66648880:
 
     # "Even without my watch, I can tell we've arrived at the cottage sometime after two PM and before sundown."
-    ""
+    "即使沒有手錶，我也能看出我們是在下午兩點後、日落之前的某個時分到達小屋的。"
 
 # game/williamroute3.rpy:14719
 translate Tchinese marcymerge_324babf1:
 
     # "Her eyes widen as her mouth breaks into a smile."
-    ""
+    "她的眼睛突然睜得大大的，嘴角也綻開了笑容。"
 
