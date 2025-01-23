@@ -16367,17 +16367,17 @@ translate Schinese cliffchoice5_ca14c194:
 translate Schinese aftertent_c2fbb5bb:
 
     # "I wish that Clifford Tibbits... that {i}I{/i} could be that confident."
-    ""
+    "真希望Clifford Tibbits-即{b}我{/b}-也能如此自信。"
 
 # game/cliffroute3.rpy:1490
 translate Schinese aftercliffint2_ffcfe05e:
 
     # m "\"Truth be told--\""
-    m ""
+    m "“说实话-”"
 
 # game/cliffroute3.rpy:4932
 translate Schinese cliffchoice5_084adb3a:
 
     # ca "\"{cps=20}And I’ll be telling Hendricks to send somebody more reliab--\"{w=0.3}{nw}"
-    ca ""
+    ca "“{cps=20}我会叫Hendricks派一个更可靠-”{w=0.3}{nw}"
 

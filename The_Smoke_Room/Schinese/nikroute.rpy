@@ -7002,71 +7002,71 @@ translate Schinese nikroute_64018220:
 translate Schinese nikroute_07513db5:
 
     # "I like it though. Finally a moment not to be nagged by William, or my other clients, or even Cynthia."
-    ""
+    "我喜欢这样，终于有一刻，能从William、我的客户、甚至Cynthia的唠叨中解放出来。"
 
 # game/nikroute.rpy:561
 translate Schinese nikroute_ea5c670e:
 
     # "I open my mouth, but I can't speak, even though I try to say something, to pretend I don't know shit. But when nothing comes out, I have to settle for a weak shrug."
-    ""
+    "我张开嘴想要说些什么，假装根本不知情。但是我一个字也吐不出来，只能无力地耸了下肩。"
 
 # game/nikroute.rpy:579
 translate Schinese nikroute_b8879bfc:
 
     # "I give up. I lay there and just wait. Wait for whatever Nik has in store for me."
-    ""
+    "我放弃了抵抗，只是躺在那里，等待着Nik为我准备的一切。"
 
 # game/nikroute.rpy:583
 translate Schinese nikroute_7bfa8f3f:
 
     # "Then biting his throat out like I should have when I was kissing it."
-    ""
+    "然后咬断他的喉咙，我在亲他时就该这样做的。"
 
 # game/nikroute.rpy:683
 translate Schinese nikroute_19ac776d:
 
     # m "\"I dunno. I really don't. I think he'd hang me if he knew.\""
-    m ""
+    m "“我不清楚，真的不清楚。我觉得他知道后会把我吊死。”"
 
 # game/nikroute.rpy:993
 translate Schinese nikroute_3f634b59:
 
     # "Whatever happened in there, it was after me, and me alone for killing that man."
-    ""
+    "不管下面发生了什么，都是因我而起，因为我杀了人。"
 
 # game/nikroute.rpy:1039
 translate Schinese nikroute_707cb2df:
 
     # "I stare at myself. A look like I can't believe what just happened is on my face."
-    ""
+    "我凝视着自己，一脸难以置信的表情。"
 
 # game/nikroute.rpy:1183
 translate Schinese nikroute_97c6f553:
 
     # "I need to get to Nik now. Otherwise I'm gonna miss him and he's going in there alone."
-    ""
+    "我必须马上去找Nik，否则会来不及阻止他独自下去。"
 
 # game/nikroute.rpy:1195
 translate Schinese nikroute_831d0477:
 
     # "I know people are in here. I can hear them, but I can't smell them because something else crowds my nostrils."
-    ""
+    "我知道有人在这里，我能听到他们的声音，但闻不到他们的气味，因为别的什么东西挤满了我的鼻孔。"
 
 # game/nikroute.rpy:1205
 translate Schinese nikroute_43f14961:
 
     # "Lee left anyway. At least I think he did."
-    ""
+    "不管怎样，Lee已经离开了，至少我这么认为。"
 
 # game/nikroute.rpy:1335
 translate Schinese nikroute_7e0a74ed:
 
     # "Hands reaching out of a fucking mine, I guess."
-    ""
+    "一堆手从矿洞里伸出来，大概？"
 
 # game/nikroute.rpy:1452
 translate Schinese nikroute_c746244f:
 
     # "An old looking polecat sees us and gives us an apprehensive look, and starts speaking in a language I don’t understand."
-    ""
+    "一只长相老成的艾鼬看到了我们，投来怀疑的眼神，还说着陌生的语言。"
 

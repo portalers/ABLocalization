@@ -11950,7 +11950,7 @@ translate Schinese sny1_e83fe390:
 translate Schinese sny1_b5e4652c:
 
     # "He hammered the spike up to its head in the rock, then pulled the spike out."
-    "他把钢钉锤到头，然后拔了出来。"
+    "他把钢钉锤到头儿，然后再拔出来。"
 
 # game/nikroute2.rpy:3661
 translate Schinese sny1_424d7d31:
@@ -20127,7 +20127,7 @@ translate Schinese sellcomp_73b6c634:
 translate Schinese sellcomp_4d14829e:
 
     # ben "\"Sounds like something you shouldn’t say without proof!\""
-    ben "“你口说无凭！”"
+    ben "“你血口喷人！”"
 
 # game/nikroute2.rpy:6774
 translate Schinese sellcomp_c9205d6c:
@@ -20193,7 +20193,7 @@ translate Schinese sellcomp_76fddcac:
 translate Schinese sellcomp_ff1b37df:
 
     # "Paul looked like he didn’t know what to say."
-    "Paul哑口无言。"
+    "Paul无话可说。"
 
 # game/nikroute2.rpy:6800
 translate Schinese sellcomp_d76e4233:
@@ -26242,671 +26242,671 @@ translate Schinese locker1bright_0874743c:
 translate Schinese nikroute2_717a45f3:
 
     # "And the sickle-shaped rocks quietly drip into puddles."
-    ""
+    "镰刀状的石林静悬于顶，水珠滴落汇聚成泊。"
 
 # game/nikroute2.rpy:172
 translate Schinese nikroute2_de60cf6e:
 
     # "I hear the tiger inhale."
-    ""
+    "老虎深吸一口气，然后吐出来。"
 
 # game/nikroute2.rpy:393
 translate Schinese nikroute2_4285a38c:
 
     # ya "\"The shadows of the cave, as well as its vertical nature, hide it well.\""
-    ya ""
+    ya "“洞穴的阴影和垂直特性提供了良好的隐蔽条件。”"
 
 # game/nikroute2.rpy:565
 translate Schinese nikroute2_3a15f209:
 
     # "Something moves out of the corner of my eye, near the ground entrance."
-    ""
+    "在视线角落，靠近地面那个出口的位置，有什么悄然移动着。"
 
 # game/nikroute2.rpy:853
 translate Schinese nikroute2_59383f2f:
 
     # "To the left is the rest of the cabin. Two sets of bunk beds align the north and south wall, and one bunk is at the west wall."
-    ""
+    "左手边的其余房间，两组双层床分别整齐排列在南北墙边，还有一个铺位挨着西墙。"
 
 # game/nikroute2.rpy:967
 translate Schinese nikroute2_fece6806:
 
     # "There’s nothing on the wall. Nothing at all."
-    ""
+    "墙上一无所有，空空如也。"
 
 # game/nikroute2.rpy:968
 translate Schinese nikroute2_aecc25b3:
 
     # "No sheets or pillows on the mattress. Nothin’."
-    ""
+    "床垫上没有床单，没有枕头，什么都没有。"
 
 # game/nikroute2.rpy:1008
 translate Schinese nikroute2_f4ec77e0:
 
     # "I make my voice as low as possible."
-    ""
+    "我尽可能压低音量。"
 
 # game/nikroute2.rpy:1101
 translate Schinese nikroute2_ecd451e2:
 
     # "She picks up a telephone with one hand and slides the rotary dial."
-    ""
+    "她拿起话筒，用手拨了一串号码。"
 
 # game/nikroute2.rpy:1107
 translate Schinese nikroute2_f6c9dfe2:
 
     # "Her eyes narrow and she tilts her head."
-    ""
+    "她歪着头，眯起眼睛。"
 
 # game/nikroute2.rpy:1276
 translate Schinese nikroute2_eb0c32c0:
 
     # "Yao looks over his shoulder."
-    ""
+    "Yao也越过他的肩头看了看。"
 
 # game/nikroute2.rpy:1280
 translate Schinese nikroute2_08b70637:
 
     # "Nik's face falls."
-    ""
+    "Nik脸色一沉。"
 
 # game/nikroute2.rpy:1437
 translate Schinese sny1_e0f04bd3:
 
     # "Nik looks embarrassed."
-    ""
+    "Nik显得有些尴尬。"
 
 # game/nikroute2.rpy:1494
 translate Schinese sny1_05d409d6:
 
     # "Yao’s tail twitches as he looks between the two of us, as if he is still trying to put something together, but can't."
-    ""
+    "Yao摆动着尾巴，目光在我们两个之间游离，像是努力想拼凑出什么，却没有成功。"
 
 # game/nikroute2.rpy:2068
 translate Schinese sny1_c0cc7390:
 
     # "The head of a black-furred weasel pokes out from a space behind the bear."
-    ""
+    "一只黑毛鼬从熊的身后探出头。"
 
 # game/nikroute2.rpy:2358
 translate Schinese sny1_326d666f:
 
     # "The insides of his ears go red."
-    ""
+    "他的耳朵从内侧变红了。"
 
 # game/nikroute2.rpy:2432
 translate Schinese sny1_31e061c0:
 
     # "Yao cuts him off."
-    ""
+    "Yao打断了他的话。"
 
 # game/nikroute2.rpy:2532
 translate Schinese sny1_54e2ba4b:
 
     # m "\"I'm from the south. Of course I know how.\""
-    m ""
+    m "“当然，我可是南方人。”"
 
 # game/nikroute2.rpy:2584
 translate Schinese sny1_d18a61d2:
 
     # "The wolverine stands up and punches the dog in the face."
-    ""
+    "狼獾站起身，一拳朝狗的脸上招呼过去。"
 
 # game/nikroute2.rpy:2587
 translate Schinese sny1_1cc1e049:
 
     # "The dog spins an entire three-hundred and sixty degrees before he falls over and crashes into a barrel, screaming as he goes down."
-    ""
+    "那条狗在空中转了足有三百六十度，然后伴随着惨叫撞在了木桶上。"
 
 # game/nikroute2.rpy:2810
 translate Schinese sny1_d475da11:
 
     # "Yao is the first to stand, taking his map as he pads back to the lockers."
-    ""
+    "Yao率先站了起来，他拿着地图，蹑手蹑脚地走向储物柜。"
 
 # game/nikroute2.rpy:2813
 translate Schinese sny1_ef57cae3:
 
     # "I stand up too, thinking I should add something, but Nik makes himself comfortable, resting supine with his arms behind his head."
-    ""
+    "我也站起身，想着补充几句，不过Nik已经头枕双手，舒服地躺在了床上。"
 
 # game/nikroute2.rpy:2923
 translate Schinese sny1_aeca2ff7:
 
     # "He shakes his head."
-    ""
+    "他摇摇头。"
 
 # game/nikroute2.rpy:2953
 translate Schinese sny1_db737678:
 
     # "Yet here I am, at the mouth of the mine, feeling the wind against me as I follow half a dozen men into the dark."
-    ""
+    "但我还是来了。我站在矿井的入口，感受着呼啸而过的风，跟着半打人一起步入黑暗。"
 
 # game/nikroute2.rpy:2955
 translate Schinese sny1_500f0099:
 
     # "They tell me that I should stand in the elevator room."
-    ""
+    "他们告诉我要乘升降机。"
 
 # game/nikroute2.rpy:2957
 translate Schinese sny1_6413587f:
 
     # "It's easy enough to find; I couldn’t forget that room if I tried."
-    ""
+    "升降机的位置并不难找，毕竟那地方我想忘也忘不掉。"
 
 # game/nikroute2.rpy:2961
 translate Schinese sny1_37c6e438:
 
     # "The voice I hear isn’t one I expected."
-    ""
+    "和我想象中的声音不同。"
 
 # game/nikroute2.rpy:2962
 translate Schinese sny1_24fbe353:
 
     # "It's sunny and boyish; but you could almost call it manic, too."
-    ""
+    "这声音既开朗，又有些孩子气，称之为狂躁也不为过。"
 
 # game/nikroute2.rpy:3074
 translate Schinese sny1_62a303c4:
 
     # "That doesn’t seem right."
-    ""
+    "不对吧。"
 
 # game/nikroute2.rpy:3358
 translate Schinese sny1_3fc1ee5a:
 
     # ni "\"I heard you say that this one lacks equipment.\""
-    ni ""
+    ni "“我听到你说这个人设备不全。”"
 
 # game/nikroute2.rpy:3360
 translate Schinese sny1_364b7210:
 
     # "He nods to me."
-    ""
+    "他朝我点点头。"
 
 # game/nikroute2.rpy:3711
 translate Schinese sny1_630b1e93:
 
     # "He hammers the spike up to its head in the rock, then pulls the spike out."
-    ""
+    "他把钢钉锤到头儿，然后拔了出来。"
 
 # game/nikroute2.rpy:3715
 translate Schinese sny1_745be1b0:
 
     # "He cups his mouth with his hands and bellows out behind him."
-    ""
+    "他转过身，双手扩音大声吼道："
 
 # game/nikroute2.rpy:3732
 translate Schinese sny1_8c1c4c9b:
 
     # "The fizzy sound of the sparks is unmistakable."
-    ""
+    "火花和嘶嘶声再明显不过了。"
 
 # game/nikroute2.rpy:3909
 translate Schinese sny1_abd4a4b5:
 
     # "Then he shakes his head, like he's lost."
-    ""
+    "然后他输了似的摇摇头。"
 
 # game/nikroute2.rpy:3952
 translate Schinese sny1_d1339ebc:
 
     # "It's the bear from the stag. The one Nik and Yao know."
-    ""
+    "是我在Stag里见过的那头熊，Nik和Yao也都认识。"
 
 # game/nikroute2.rpy:3954
 translate Schinese sny1_04321751:
 
     # ben "\"Move along Dimitri. This doesn’t concern you.\""
-    ben ""
+    ben "“让开，Dimitri，这件事与你无关。”"
 
 # game/nikroute2.rpy:4164
 translate Schinese sny1_5a2edd20:
 
     # "I don’t like this notion Nik has that it’s a regular habit of mine to leer at somebody else’s lunch like I’m a lunatic when I forget to prepare a meal."
-    ""
+    "我不喜欢被Nik看成缺乏准备，总是觊觎别人午饭的怪胎一样。"
 
 # game/nikroute2.rpy:4190
 translate Schinese sny1_ccb5b0c3:
 
     # "I eat the bread and the meat Yao handed me, which is very good, but very salty."
-    ""
+    "我吃了Yao递给我的面包和肉，味道很好，不过很咸。"
 
 # game/nikroute2.rpy:4192
 translate Schinese sny1_c8046c11:
 
     # "I try to refuse, but he does not let me."
-    ""
+    "我本想拒绝，但他不由分说。"
 
 # game/nikroute2.rpy:4194
 translate Schinese sny1_a8b7e189:
 
     # "Yao tells us about how he had to replace one of the bands running the compressor so they could get the rock drill running again."
-    ""
+    "Yao告诉我们，他必须更换空压机的一个金属箍，才能让凿岩机重新恢复运转。"
 
 # game/nikroute2.rpy:4274
 translate Schinese sny1_f6418422:
 
     # "He lowers his voice."
-    ""
+    "他压低声音。"
 
 # game/nikroute2.rpy:4451
 translate Schinese sny1_d847f660:
 
     # "The lizard pulls up his hat and scratches under his head."
-    ""
+    "蜥蜴拉起帽子，挠着头道："
 
 # game/nikroute2.rpy:4504
 translate Schinese sny1_9221202b:
 
     # "The two of them head off."
-    ""
+    "他们携伴离开了。"
 
 # game/nikroute2.rpy:4546
 translate Schinese sny1_f0ba93ad:
 
     # "The bear lets out a dark chuckle."
-    ""
+    "熊冷笑了一声。"
 
 # game/nikroute2.rpy:4606
 translate Schinese sny1_badf8a16:
 
     # "The jackrabbit and the wolverine are back, each carrying a sack respectively."
-    ""
+    "野兔和狼獾一人提着一个袋子回来了。"
 
 # game/nikroute2.rpy:4636
 translate Schinese sny1_d1a5b207:
 
     # "The jackrabbit rolls his eyes."
-    ""
+    "野兔翻了个白眼。"
 
 # game/nikroute2.rpy:4711
 translate Schinese sny1_1c1ed1aa:
 
     # "The lizard takes a pick out of his pocket and places it at an angle at knee’s height on the bedrock in front of us."
-    ""
+    "蜥蜴从口袋中抽出一把凿子，斜抵在我们面前的基岩上，位于膝盖高度。"
 
 # game/nikroute2.rpy:4732
 translate Schinese sny1_a53d08f3:
 
     # ben "\"He’s a novice though. He could really mess up your hand.\""
-    ben ""
+    ben "“但他是个新手，可能会弄伤您的。”"
 
 # game/nikroute2.rpy:4861
 translate Schinese sny1_4d06ac54:
 
     # "His eyeballs bulge with a sudden force of white-hot anger that I can feel in my bones."
-    ""
+    "他突然瞪大眼睛，迸发出直刺进我骨子里的狂怒。"
 
 # game/nikroute2.rpy:4862
 translate Schinese sny1_7e045bf6:
 
     # "Every instinct I have ever felt tells me that I am in the presence of evil, and that if I stay still, I'll die."
-    ""
+    "体内最原始的本能发出了预警：我正面临着纯粹的恶意。要是不做些什么，我必死无疑。"
 
 # game/nikroute2.rpy:4898
 translate Schinese sny1_f9b27ce1:
 
     # "He exhales."
-    ""
+    "他松了口气。"
 
 # game/nikroute2.rpy:5066
 translate Schinese sny1_f6418422_1:
 
     # "He lowers his voice."
-    ""
+    "他压低声音。"
 
 # game/nikroute2.rpy:5089
 translate Schinese sny1_9e70dae1:
 
     # "Nik looks to his friend, then to me with confusion."
-    ""
+    "Nik注视着他的朋友，之后不解地回过头。"
 
 # game/nikroute2.rpy:5091
 translate Schinese sny1_ee015aa3:
 
     # "Then his eyelids narrow."
-    ""
+    "接着眯起眼睛。"
 
 # game/nikroute2.rpy:5289
 translate Schinese sny1_7e99b190:
 
     # "He says the name like it's dripping with poison."
-    ""
+    "他说得咬牙切齿。"
 
 # game/nikroute2.rpy:5291
 translate Schinese sny1_5ba79df3:
 
     # "Then he folds his good paw over the damaged one."
-    ""
+    "然后以完好的爪遮住残疾的另一只。"
 
 # game/nikroute2.rpy:5297
 translate Schinese sny1_c4b54dd7:
 
     # "He looks to his left, then to his right."
-    ""
+    "他左顾右盼。"
 
 # game/nikroute2.rpy:5421
 translate Schinese sny1_71bbcccd:
 
     # "But when I look again at the back door, I can see a little candle lit on a plate."
-    ""
+    "再次查看后门的时候，我留意到一个中间点了根蜡烛的盘子。"
 
 # game/nikroute2.rpy:5445
 translate Schinese sny1_695adc90:
 
     # "He says that somewhat stiffly."
-    ""
+    "他冷冷地说道："
 
 # game/nikroute2.rpy:5477
 translate Schinese sny1_e2df1475:
 
     # "It's like he's giving me one last chance."
-    ""
+    "他应该是在给我最后的机会。"
 
 # game/nikroute2.rpy:5481
 translate Schinese sny1_7870dc8d:
 
     # "The words just spill messily out of my mouth."
-    ""
+    "我语无伦次地脱口而出。"
 
 # game/nikroute2.rpy:5526
 translate Schinese sny1_01c5ba53:
 
     # po "\"If you’re selling something about yourself, then it needs to be much better than that.\""
-    po ""
+    po "“若是打算推销自己的情报，你可得精选一些有价值的。”"
 
 # game/nikroute2.rpy:5909
 translate Schinese sellcomp_4972b518:
 
     # "The side of his thigh presses up to mine, and he feels warm."
-    ""
+    "他大腿的一侧紧贴着我，感觉暖暖的。"
 
 # game/nikroute2.rpy:6048
 translate Schinese sellcomp_24e010e8:
 
     # "He hooks his arm under mine and then lets his wrist rest on my belly."
-    ""
+    "他把手从我手臂下方伸过来，摆在我肚皮上。"
 
 # game/nikroute2.rpy:6065
 translate Schinese sellcomp_fee7445d:
 
     # "...and I grab him."
-    ""
+    "...握住他的。"
 
 # game/nikroute2.rpy:6213
 translate Schinese sellcomp_46dfa10b:
 
     # "We wait for people to get bored with looking at us, and when they continue their conversations, we lower our voices."
-    ""
+    "等其他人看腻、回归他们自己的谈话后，我们才压低声音继续。"
 
 # game/nikroute2.rpy:6300
 translate Schinese sellcomp_1ff0a19d:
 
     # "The badger frowns."
-    ""
+    "獾皱起眉头。"
 
 # game/nikroute2.rpy:6326
 translate Schinese sellcomp_2acf3707:
 
     # "Nik picks up his pail and his equipment and disappears into the hall of the cabin."
-    ""
+    "Nik提起他自己的餐桶和装备，朝走廊走去。"
 
 # game/nikroute2.rpy:6395
 translate Schinese sellcomp_614352c0_1:
 
     # "He smiles at that."
-    ""
+    "他听罢一笑。"
 
 # game/nikroute2.rpy:6447
 translate Schinese sellcomp_9752b8b2:
 
     # "Felipe clicks his tongue."
-    ""
+    "Felipe发出弹舌声。"
 
 # game/nikroute2.rpy:6636
 translate Schinese sellcomp_a0c2abfc:
 
     # "Ben smiles."
-    ""
+    "Ben露出笑容。"
 
 # game/nikroute2.rpy:6643
 translate Schinese sellcomp_0b4dce82:
 
     # "And then he's off."
-    ""
+    "之后便离开了。"
 
 # game/nikroute2.rpy:6662
 translate Schinese sellcomp_22ed5035:
 
     # "Paul looks down the tunnel to see if anybody is coming."
-    ""
+    "Paul望向隧道，查看是否有人靠近。"
 
 # game/nikroute2.rpy:6664
 translate Schinese sellcomp_3b9403c6:
 
     # "Dimitri just shakes his head."
-    ""
+    "Dimitri只是摇了摇头。"
 
 # game/nikroute2.rpy:6670
 translate Schinese sellcomp_1be19fc7:
 
     # "Dimitri pats me on the shoulder."
-    ""
+    "Dimitri拍了拍我的肩膀。"
 
 # game/nikroute2.rpy:6680
 translate Schinese sellcomp_92acaa74:
 
     # "He adds that quickly with a warm laugh."
-    ""
+    "他爽朗一笑，迅速补充道。"
 
 # game/nikroute2.rpy:6819
 translate Schinese sellcomp_b210b430:
 
     # "Beckett, Nate and Ben are all running towards us."
-    ""
+    "Beckett、Nate和Ben都跑了过来。"
 
 # game/nikroute2.rpy:6821
 translate Schinese sellcomp_0b2e4385:
 
     # "Felipe is on the floor shoving the piece of boulder off Dimitri’s leg, which makes him roar out in pain."
-    ""
+    "Felipe蹲在地上，搬开压着Dimitri的腿的岩石，这令他痛得哀嚎。"
 
 # game/nikroute2.rpy:6836
 translate Schinese sellcomp_a1d93017:
 
     # "As far as I can tell it's only Dimitri's foot that's hurt..."
-    ""
+    "据我所见，Dimitri只有腿部受伤..."
 
 # game/nikroute2.rpy:6838
 translate Schinese sellcomp_836d5cbb:
 
     # "...but that is a lot of blood."
-    ""
+    "...然而出血量非常大。"
 
 # game/nikroute2.rpy:6894
 translate Schinese sellcomp_c351f199:
 
     # "Ben gives the wolverine an incredulous look."
-    ""
+    "Ben难以置信地盯着狼獾。"
 
 # game/nikroute2.rpy:6908
 translate Schinese sellcomp_918b611b:
 
     # "I see Ben stare back at us with blank eyes; it’s like there’s nothing there."
-    ""
+    "我看到Ben以空虚的眼神回望着我们，其中不含一丝感情。"
 
 # game/nikroute2.rpy:6910
 translate Schinese sellcomp_2ce28c17:
 
     # "No guilt, no anger from receiving a false accusation."
-    ""
+    "既没有罪恶感，也没有被冤枉的愤怒。"
 
 # game/nikroute2.rpy:6918
 translate Schinese sellcomp_bab2c0f8:
 
     # "He walks up to Paul and takes the bag from his hand, retrieving a dynamite stick, then plucking the wick out of it."
-    ""
+    "他走到Paul面前，从对方手中夺过袋子，取出一根炸药并抽出引线。"
 
 # game/nikroute2.rpy:6920
 translate Schinese sellcomp_db662652:
 
     # "He holds it to the flame and waits."
-    ""
+    "他将其点燃。"
 
 # game/nikroute2.rpy:6922
 translate Schinese sellcomp_c2ecb131:
 
     # "It gives off a slow, steady burn."
-    ""
+    "引线燃得缓慢而稳定。"
 
 # game/nikroute2.rpy:6924
 translate Schinese sellcomp_fbd1806b:
 
     # "Paul looks like he doesn’t know what to say."
-    ""
+    "Paul一时语塞。"
 
 # game/nikroute2.rpy:6928
 translate Schinese sellcomp_ee8b19ff:
 
     # "Beckett tests every single wick in the bag."
-    ""
+    "Beckett依次检查了所有引线。"
 
 # game/nikroute2.rpy:6930
 translate Schinese sellcomp_8c9ee519:
 
     # "None of them lights up like the first one."
-    ""
+    "全都没有第一根燃得那么夸张。"
 
 # game/nikroute2.rpy:6938
 translate Schinese sellcomp_f7ff17e6:
 
     # m "\"Could he... or, well, anybody just tamper with one?\""
-    m ""
+    m "“有没有可能是他...或其他人只对其中一根做了手脚？”"
 
 # game/nikroute2.rpy:6942
 translate Schinese sellcomp_04af60be:
 
     # "Beckett stands up and rubs his hands together."
-    ""
+    "Beckett站起身，搓了搓双手。"
 
 # game/nikroute2.rpy:6947
 translate Schinese sellcomp_c19940dc:
 
     # "More men rush into the hall."
-    ""
+    "又有更多人冲了进来。"
 
 # game/nikroute2.rpy:6949
 translate Schinese sellcomp_2704daf5:
 
     # "One of them must be a medic, because he says that the bear is fine to move."
-    ""
+    "其中一名医护人员说熊可以挪动。"
 
 # game/nikroute2.rpy:6951
 translate Schinese sellcomp_e063ffe9:
 
     # "Felipe and one of the other pumas lift the bear up and help him hop with one foot out of the hallway."
-    ""
+    "在Felipe和另一只美洲狮的搀扶下，他单脚缓慢跳离了隧道。"
 
 # game/nikroute2.rpy:6959
 translate Schinese sellcomp_9df7df21:
 
     # "Beckett blows air out his lips and shakes his head, looking at nobody in particular."
-    ""
+    "Beckett呼出一口气，摇摇头，目光没有放在任何人身上。"
 
 # game/nikroute2.rpy:6971
 translate Schinese sellcomp_b6e9df9a:
 
     # "’He looks at me, then to Paul, then to Ben."
-    ""
+    "他先是看向我，然后是Paul跟Ben。"
 
 # game/nikroute2.rpy:7018
 translate Schinese sellcomp_60d3a5c3:
 
     # "She smiles with her mouth, but cringes with the rest of her face."
-    ""
+    "她嘴角扯出一个笑，脸的其余部分却透露出嫌弃。"
 
 # game/nikroute2.rpy:7020
 translate Schinese sellcomp_bc1c3f6a:
 
     # "The sounds of voices come through the door."
-    ""
+    "门后传来了说话声。"
 
 # game/nikroute2.rpy:7022
 translate Schinese sellcomp_01c101be:
 
     # "They're yelling."
-    ""
+    "他们在大呼小叫。"
 
 # game/nikroute2.rpy:7063
 translate Schinese sellcomp_28f6299b:
 
     # "He opens the door and pokes his head out."
-    ""
+    "他打开门，探出一颗头。"
 
 # game/nikroute2.rpy:7295
 translate Schinese sellcomp_f82e4b3c:
 
     # jam "\"Not to say that the ins and outs of the grunt work are my forte to begin with.\""
-    jam ""
+    jam "“处理这些琐碎的粗活也不是我的专长。”"
 
 # game/nikroute2.rpy:7447
 translate Schinese sellcomp_93c2f70d:
 
     # "I check again to see if anybody is near us, but I don't see anybody."
-    ""
+    "我再次确认过周围没人。"
 
 # game/nikroute2.rpy:7678
 translate Schinese locker1bright_6129eab8:
 
     # "He crouches down and takes my pail from the bottom of my locker."
-    ""
+    "他蹲下，把午餐桶从我的储物柜底部拿走。"
 
 # game/nikroute2.rpy:7896
 translate Schinese locker1bright_7a75e5b1:
 
     # "And there it is."
-    ""
+    "然后终于到了。"
 
 # game/nikroute2.rpy:7900
 translate Schinese locker1bright_08001fea:
 
     # "All we have left is to go down this very narrow, very long tunnel."
-    ""
+    "剩下的就只有沿着这条狭长的隧道走下去。"
 
 # game/nikroute2.rpy:8730
 translate Schinese youdidit_baac48e8:
 
     # "We both scramble to get up and turn around in the direction of William’s voice."
-    ""
+    "我们连忙支撑着站起身，转向William声音的方向。"
 
 # game/nikroute2.rpy:8771
 translate Schinese youdidit_5f8a6f79:
 
     # "He takes a slow drag on his cigarette and blows."
-    ""
+    "他长吸一口烟，又吐出来。"
 
 # game/nikroute2.rpy:8822
 translate Schinese youdidit_41da85be:
 
     # wi "\"When blame is going to come pouring down from the sky like molten rock. I don't want either of you under that.\""
-    wi ""
+    wi "“当责难如陨石从天而降的时候，希望被砸到的不是你们。”"
 
 # game/nikroute2.rpy:8851
 translate Schinese youdidit_5e1ea49c:
 
     # "I’m reminded of that time a few days ago when Nik and I were caught with our pants down."
-    ""
+    "我回想起几天前，Nik和我一丝不挂被撞见的时候。"
 
 # game/nikroute2.rpy:8934
 translate Schinese youdidit_56ccf218:
 
     # "The wind picks up, and we all have to cover our eyes."
-    ""
+    "风越刮越大，我们只得遮住眼睛。"
 
 # game/nikroute2.rpy:8970
 translate Schinese youdidit_56b3b38f:
 
     # "Yao tosses the massive lead pipe he's carrying with both of his hands to the ground."
-    ""
+    "Yao把两只手拿着的巨大铅管丢到地上。"
 

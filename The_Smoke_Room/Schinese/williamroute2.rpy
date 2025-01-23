@@ -3135,7 +3135,7 @@ translate Schinese williamroute2_9098a549:
 translate Schinese williamroute2_f92b4c2c:
 
     # wi "“The only excitement these people get comes from the shit that they put in their bodies. And, well....”"
-    wi "“这些人激动的唯一来源就是那些让人上瘾的狗屁，以及，嗯...”"
+    wi "“唯一能让人激动的只有那些狗屁毒品，还有...”"
 
 # game/williamroute2.rpy:876
 translate Schinese williamroute2_fda4017b:
@@ -3147,7 +3147,7 @@ translate Schinese williamroute2_fda4017b:
 translate Schinese williamroute2_1a97e088:
 
     # wi "“Come along Sam, we don’t need to waste any more time here.”"
-    wi "“跟上，Sam，没必要在这浪费时间了。”"
+    wi "“下车，Sam，咱们没必要在这浪费时间了。”"
 
 # game/williamroute2.rpy:878
 translate Schinese williamroute2_94f3e1d0:
@@ -3249,31 +3249,31 @@ translate Schinese williamroute2_1a384a64:
 translate Schinese williamroute2_1a5e364c:
 
     # "Then he turns to me, and the anger melts away."
-    "接着他转头看向我，怒气也迅速消融。"
+    "接着他转头看向我，怒气迅速消融。"
 
 # game/williamroute2.rpy:895
 translate Schinese williamroute2_adbb61a5:
 
     # jam "“Now then.”"
-    jam "“那么现在。”"
+    jam "“那么。”"
 
 # game/williamroute2.rpy:896
 translate Schinese williamroute2_b157175b:
 
     # jam "“You seem like a boy with a good head on your shoulders.”"
-    jam "“看起来你是个聪明的孩子。”"
+    jam "“你似乎是个聪明的孩子。”"
 
 # game/williamroute2.rpy:897
 translate Schinese williamroute2_9782efb6:
 
     # "I sure don’t hear that very much, but okay."
-    "我不常听到这样的话，不过没关系。"
+    "我不常听到这种话，不过没关系。"
 
 # game/williamroute2.rpy:898
 translate Schinese williamroute2_4264d0c5:
 
     # jam "“Please take the list.”"
-    jam "“请带上这张名单。”"
+    jam "“请拿着这张名单。”"
 
 # game/williamroute2.rpy:899
 translate Schinese williamroute2_f1bae36a:
@@ -3285,7 +3285,7 @@ translate Schinese williamroute2_f1bae36a:
 translate Schinese williamroute2_5e24a383:
 
     # "You sure haven’t, not unless I’m on that list."
-    "当然不可能，除非我在那个名单上。"
+    "怎么可能，除非我在那个名单上。"
 
 # game/williamroute2.rpy:901
 translate Schinese williamroute2_ef34a5b3:
@@ -3309,19 +3309,19 @@ translate Schinese williamroute2_504c151d:
 translate Schinese williamroute2_8980ed46:
 
     # jam "“There’s always a hope and a prayer.”"
-    jam "“希望与祈祷总是如影随形。”"
+    jam "“祈祷总是会带来希望。”"
 
 # game/williamroute2.rpy:905
 translate Schinese williamroute2_4b25c276:
 
     # "He slips the list into the front pocket of my shirt."
-    "他把名单塞进了我上衣的侧口袋。"
+    "他把名单放进我上衣的侧袋。"
 
 # game/williamroute2.rpy:906
 translate Schinese williamroute2_1ef77602:
 
     # jam "“Off you go.”"
-    jam "“去吧。”"
+    jam "“你可以离开了。”"
 
 # game/williamroute2.rpy:907
 translate Schinese williamroute2_98c7e767:
@@ -3357,7 +3357,7 @@ translate Schinese williamroute2_4caec451:
 translate Schinese williamroute2_75d4f8aa:
 
     # jam "“You don’t agree with what that pigheaded idiot said, do you?”"
-    jam "“你不同意那个顽固的白痴的话，对吧？”"
+    jam "“你应该不同意那个顽固的白痴的话吧？”"
 
 # game/williamroute2.rpy:913
 translate Schinese williamroute2_fe10ab79:
@@ -3381,13 +3381,13 @@ translate Schinese williamroute2_e09ba999:
 translate Schinese williamroute2_99884beb:
 
     # jam "“But you offer an entirely different kind of perspective.”"
-    jam "“不过，你提供了一种完全不同的视角。”"
+    jam "“不过你站在第三人的视角。”"
 
 # game/williamroute2.rpy:917
 translate Schinese williamroute2_b504e077:
 
     # jam "“So tickle my curiosity.”"
-    jam "“权当满足我的好奇心吧。”"
+    jam "“权当满足一下我的好奇心。”"
 
 # game/williamroute2.rpy:918
 translate Schinese williamroute2_63033175:
@@ -3471,7 +3471,7 @@ translate Schinese williamroute2_0fec38d2:
 translate Schinese williamroute2_7f2b13c1:
 
     # jam "“You see?”"
-    jam "“你瞧。”"
+    jam "“瞧吧。”"
 
 # game/williamroute2.rpy:932
 translate Schinese williamroute2_c670236d:
@@ -3483,7 +3483,7 @@ translate Schinese williamroute2_c670236d:
 translate Schinese williamroute2_906fcb6d:
 
     # jam "“I’m really quite nice, wouldn’t you say?”"
-    jam "“我是个相当友好的人，你不觉得吗？”"
+    jam "“我可是个相当友好的人，你不觉得吗？”"
 
 # game/williamroute2.rpy:934
 translate Schinese williamroute2_b65bd793:
@@ -3495,7 +3495,7 @@ translate Schinese williamroute2_b65bd793:
 translate Schinese williamroute2_b90fb4dc:
 
     # m "“You said it.”"
-    m "“您说得对。”"
+    m "“您说得没错。”"
 
 # game/williamroute2.rpy:936
 translate Schinese williamroute2_4195c69c:
@@ -10659,7 +10659,7 @@ translate Schinese dd2b_e52b7eaa:
 translate Schinese dd2b_0cb4bb10:
 
     # wi "\"Some not-so-nice men.\""
-    wi "“一些──不──怎么──友好──的家伙。”"
+    wi "“一些不怎么友好的家伙。”"
 
 # game/williamroute2.rpy:3205
 translate Schinese dd2b_b1884a8d:
@@ -13675,269 +13675,269 @@ translate Schinese sw2_6c8fe0cf:
 translate Schinese williamroute2_2fc3a2ec:
 
     # m "\"What for? I don’t even know these people!\""
-    m ""
+    m "“为什么，我压根儿就不认识他们！”"
 
 # game/williamroute2.rpy:152
 translate Schinese williamroute2_03f46135:
 
     # "The vixen’s eyes narrow."
-    ""
+    "雌狐眯起眼睛。"
 
 # game/williamroute2.rpy:225
 translate Schinese williamroute2_4dd6a76a:
 
     # "His eyes brighten at that last bit while he points his finger at the ceiling."
-    ""
+    "话到最后，他用手指着天花板，眼睛恢复了些神采。"
 
 # game/williamroute2.rpy:227
 translate Schinese williamroute2_31da6446:
 
     # "Then they darken a bit again."
-    ""
+    "接着又黯淡下来。"
 
 # game/williamroute2.rpy:271
 translate Schinese williamroute2_389cd3f8:
 
     # "Is this rat sweating?"
-    ""
+    "这只老鼠在冒汗吗？"
 
 # game/williamroute2.rpy:296
 translate Schinese williamroute2_a3b756e1:
 
     # "The old rat looks over to the vixen with pleading eyes."
-    ""
+    "上了年纪的老鼠用恳求的目光看向雌狐。"
 
 # game/williamroute2.rpy:301
 translate Schinese williamroute2_8b84232c:
 
     # "She takes the teacup in her hand and sniffs it."
-    ""
+    "她托起茶杯嗅了嗅。"
 
 # game/williamroute2.rpy:306
 translate Schinese williamroute2_aace3511:
 
     # "She sips silently at the cup."
-    ""
+    "她默默抿着茶。"
 
 # game/williamroute2.rpy:386
 translate Schinese williamroute2_71b7faea:
 
     # "I decide to skip breakfast in the kitchen and make my way over to William’s place."
-    ""
+    "我决定跳过早饭，直接去William那里。"
 
 # game/williamroute2.rpy:677
 translate Schinese williamroute2_1cac2c94:
 
     # "She's already hustling into the other room."
-    ""
+    "她已经窜到另一个房间去了。"
 
 # game/williamroute2.rpy:702
 translate Schinese williamroute2_a040ecf8:
 
     # "After she puts a piece of pie on each plate she carefully puts the dish down on a cozy and takes a seat, sitting up straight and setting her paws in her lap."
-    ""
+    "她往每个盘子里都发了一块派，并小心翼翼放在垫子上，接着把爪子安放在大腿上，笔直坐了下来。"
 
 # game/williamroute2.rpy:798
 translate Schinese williamroute2_5215805a:
 
     # "Todd stops eating his pie."
-    ""
+    "Todd吃派的动作停下了。"
 
 # game/williamroute2.rpy:800
 translate Schinese williamroute2_98981822:
 
     # wi "\"We don’t know, Marcy. We might have to look for him.\""
-    wi ""
+    wi "“不清楚，Marcy，我们可能得去找他。”"
 
 # game/williamroute2.rpy:940
 translate Schinese williamroute2_3a00f7d4:
 
     # "His eyes flick to me."
-    ""
+    "他瞥了我一眼。"
 
 # game/williamroute2.rpy:1021
 translate Schinese williamroute2_b5167a9b:
 
     # "The movements in the seats in front of me stay William’s hand."
-    ""
+    "我前面座位上的动静令William停下了手。"
 
 # game/williamroute2.rpy:1064
 translate Schinese williamroute2_6bbc4d8d:
 
     # "The ram leans over and flicks a knob on my door."
-    ""
+    "公羊俯身，轻拍我这边的门把手。"
 
 # game/williamroute2.rpy:1065
 translate Schinese williamroute2_20d67ea0:
 
     # "The door handle lets me out this time."
-    ""
+    "这次没有东西阻拦我出去了。"
 
 # game/williamroute2.rpy:1202
 translate Schinese williamroute2_599917bd:
 
     # "He closes his eyes."
-    ""
+    "他闭上双眼。"
 
 # game/williamroute2.rpy:1349
 translate Schinese sw1_bddd99bc:
 
     # "William scratches his fur on his head with some ferocity."
-    ""
+    "William有些凶狠地挠了挠头毛。"
 
 # game/williamroute2.rpy:1785
 translate Schinese after_sw1_1445c056:
 
     # "The other girls coo."
-    ""
+    "姑娘们嘀咕了起来。"
 
 # game/williamroute2.rpy:1789
 translate Schinese after_sw1_47605458:
 
     # "She shrugs and takes a sip of her drink."
-    ""
+    "她耸耸肩，抿了一口酒。"
 
 # game/williamroute2.rpy:1823
 translate Schinese after_sw1_b9b09300:
 
     # "She lets out a deep, melodious cry from her core."
-    ""
+    "她发出深沉而悠扬的叫声。"
 
 # game/williamroute2.rpy:1851
 translate Schinese after_sw1_28b01902:
 
     # "We all take a sip of our drinks. Lucy and Cynthia cross their legs."
-    ""
+    "我们都喝了口酒，Lucy和Cythia翘起二郎腿。"
 
 # game/williamroute2.rpy:1865
 translate Schinese after_sw1_179296ab:
 
     # "Cynthia puts her glass down and stands up, heading to the corner wall behind us."
-    ""
+    "Cynthia放下杯子，起身朝我们身后的墙角走去。"
 
 # game/williamroute2.rpy:2297
 translate Schinese after_sw1_fc959847:
 
     # "I can’t complain too much. The headache is mostly gone, and I just have to walk a few feet."
-    ""
+    "抱怨也没用。头痛基本上已经消退了，我只需要走几步路..."
 
 # game/williamroute2.rpy:2478
 translate Schinese after_sw1_79465bed:
 
     # "The hare looks like he's about to bring something up, but stops, exhales, and straightens his posture."
-    ""
+    "野兔像是有话要说，不过还是忍住，深吸一口气，端正姿势。"
 
 # game/williamroute2.rpy:2529
 translate Schinese dd1b_9b971d52:
 
     # "He turns to Dora and puts on a falsetto voice."
-    ""
+    "他转向Dora，装腔作势地说道："
 
 # game/williamroute2.rpy:2531
 translate Schinese dd1b_880bc6a6:
 
     # "He turns back to me."
-    ""
+    "他转回身。"
 
 # game/williamroute2.rpy:2596
 translate Schinese dd2b_9b971d52:
 
     # "He turns to Dora and puts on a falsetto voice."
-    ""
+    "他转向Dora，装腔作势地说道："
 
 # game/williamroute2.rpy:2598
 translate Schinese dd2b_880bc6a6:
 
     # "He turns back to me."
-    ""
+    "他转回身。"
 
 # game/williamroute2.rpy:2633
 translate Schinese dd2b_0a425f89:
 
     # "But the sound stops, and the light in the powder room gets bright."
-    ""
+    "然而声音戛然而止，接着化妆室亮了起来。"
 
 # game/williamroute2.rpy:2784
 translate Schinese dd2b_c435e340:
 
     # "I keep getting the feeling like both me and Cynthia are being watched in this room."
-    ""
+    "我总觉得房间里有什么东西在监视我们。"
 
 # game/williamroute2.rpy:2997
 translate Schinese dd2b_97dea386:
 
     # mu "\"Oh, he’s here. He just had to take care of some business.\""
-    mu ""
+    mu "“他来了呀，只不过有事离开一下。”"
 
 # game/williamroute2.rpy:3021
 translate Schinese dd2b_51f5e86b:
 
     # "Both of them say nothing as they turn away to look back at the blanket."
-    ""
+    "他们两个什么也没说，只是回头看向毯子。"
 
 # game/williamroute2.rpy:3092
 translate Schinese dd2b_1f768a01:
 
     # mu "\"There was certainly something violent going on over there.\""
-    mu ""
+    mu "“那里肯定发生过一些暴力事件。”"
 
 # game/williamroute2.rpy:3175
 translate Schinese dd2b_fc6d1adb:
 
     # ni "\"This could be a discontinued shaft from CSCG Site A.\""
-    ni ""
+    ni "“可能是已经停产了的A区的升降机。”"
 
 # game/williamroute2.rpy:3228
 translate Schinese dd2b_1e25452a:
 
     # wi "\"Small fries, but they're using the code of a don I knew without a doubt.\""
-    wi ""
+    wi "“几个小喽啰而已，但毫无疑问，他们使用的是黑手党头目的暗号。”"
 
 # game/williamroute2.rpy:3688
 translate Schinese sw2_71a76601:
 
     # wi "\"Sam and I just needed some downtime after what we found.\""
-    wi ""
+    wi "“Sam和我只是想在发现了那些之后好好静一静。”"
 
 # game/williamroute2.rpy:3691
 translate Schinese sw2_207b881e:
 
     # mu "\"Nik has been filling us in.\""
-    mu ""
+    mu "“详情我们已经从Nik那听说了。”"
 
 # game/williamroute2.rpy:3719
 translate Schinese sw2_689cfcd3:
 
     # "Nik makes a humming noise."
-    ""
+    "Nik又发出哼哼的声音。"
 
 # game/williamroute2.rpy:3916
 translate Schinese sw2_dc48922a:
 
     # "I tilt my head and look past his shoulder."
-    ""
+    "我偏过头，看向他身后。"
 
 # game/williamroute2.rpy:3918
 translate Schinese sw2_d305e596:
 
     # "I glance in the direction of Mr. Tibbits again, who’s squinting at his book and framing a landscape with his stubby little digits."
-    ""
+    "我又把目光投向Tibbits先生。他正眯着眼，用短粗的小手指勾勒出一幅风景画。"
 
 # game/williamroute2.rpy:4031
 translate Schinese sw2_f1205f57:
 
     # "Nik puts his hand on Will’s shoulder."
-    ""
+    "Nik把手搭在Will的肩上。"
 
 # game/williamroute2.rpy:4044
 translate Schinese sw2_dc205c02:
 
     # "Something like a look of realization spreads across Will’s face."
-    ""
+    "Will作出恍然大悟的表情。"
 
 # game/williamroute2.rpy:4048
 translate Schinese sw2_75d43515:
 
     # wi "\"Speaking of hard work... I won’t be able to see you until the weekend, will I Nik?\""
-    wi ""
+    wi "“说到努力...周天之前你有时间外出吗，Nik？”"
 

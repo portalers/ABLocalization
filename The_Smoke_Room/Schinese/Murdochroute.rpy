@@ -7158,59 +7158,59 @@ translate Schinese Murdochroute_a8aff84a:
 translate Schinese Murdochroute_13696703:
 
     # "He washes the rag again, wrings the water out, then brings it close to my--"
-    ""
+    "他把布又清洗了一遍，拧干水分，然后把它靠近我的─"
 
 # game/Murdochroute.rpy:1037
 translate Schinese Murdochroute_87ba0bd5:
 
     # mu "\"Well--\""
-    mu ""
+    mu "“唔-”"
 
 # game/Murdochroute.rpy:1041
 translate Schinese Murdochroute_55ccf505:
 
     # mu "\"{i}Ralph{/i}--\""
-    mu ""
+    mu "“{b}Ralph{/b}-”"
 
 # game/Murdochroute.rpy:1165
 translate Schinese Murdochroute_1003fcba:
 
     # m "\"Listen--\""
-    m ""
+    m "“听着-”"
 
 # game/Murdochroute.rpy:1167
 translate Schinese Murdochroute_5b8b49a5:
 
     # ra "\"No, YOU listen.\""
-    ra ""
+    ra "“不，你给我听着。”"
 
 # game/Murdochroute.rpy:1275
 translate Schinese Murdochroute_b99d23d4:
 
     # m "\"What was tha--\""
-    m ""
+    m "“刚才都是─”"
 
 # game/Murdochroute.rpy:1408
 translate Schinese Murdochroute_7885f38b:
 
     # m "\"One. Nik. Big guy — even bigger than me. Has a heart of gold, too.\""
-    m ""
+    m "“认识一位。Nikolai，他是个大块头，比我还高，有着一颗金子般的心。”"
 
 # game/Murdochroute.rpy:1695
 translate Schinese Murdochroute_aa5a2cfb:
 
     # m "\"That was--\""
-    m ""
+    m "“那是─”"
 
 # game/Murdochroute.rpy:1722
 translate Schinese Murdochroute_f1a14c55:
 
     # mu "\"So I bet you can’t help but wonder how we get from this--\""
-    mu ""
+    mu "“我打赌，你肯定会好奇我们是怎么把这个─”"
 
 # game/Murdochroute.rpy:1725
 translate Schinese Murdochroute_653a7734:
 
     # mu "\"--to this.\""
-    mu ""
+    mu "“─变成这个的。”"
 

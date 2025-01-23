@@ -28741,7 +28741,7 @@ translate Schinese mdq2_b36dcb5b:
 translate Schinese murdochroute2_35caa352:
 
     # gr "\"Holly understands that. That’s why her classroom is so well-managed.\""
-    gr ""
+    gr "“Holly就深知这一点，所以她的班级才管理有方。”"
 
 # TODO: Translation updated at 2025-01-13 17:49
 
@@ -28749,11 +28749,11 @@ translate Schinese murdochroute2_35caa352:
 translate Schinese murdochroute2_5101c866:
 
     # m "\"I heard the pictures talk to me today.\""
-    m ""
+    m "“我今天听到照片在对我说话。”"
 
 # game/murdochroute2.rpy:3967
 translate Schinese murdochroute2_be6cc502:
 
     # bl "\"People would laugh at me. And they’d be right to laugh, because I’d sound fuckin’ dumb.\""
-    bl ""
+    bl "“然后别人会嘲笑我，因为这听起来太他妈蠢了。”"
 

@@ -29189,29 +29189,29 @@ translate Schinese campsong_1e4c84a5:
 translate Schinese aftercanyon_2dff55b4:
 
     # cl "\"Is-- do you think it’s a predator?\""
-    cl ""
+    cl "“那-那是某种肉食性动物吗？”"
 
 # game/cliffroute2.rpy:2912
 translate Schinese aftercanyon_ee6bea54:
 
     # cl "\"Oh, come now--\""
-    cl ""
+    cl "“噢，拜托-”"
 
 # game/cliffroute2.rpy:5216
 translate Schinese mt2_b826ef13:
 
     # cl "\"Pardon, sir. It's just that... despite all my years of research on the subject, I've never heard a Meseta song before.\""
-    cl ""
+    cl "“不好意思，先生，只是-我做了这么多年研究，却从来没有听过一首梅塞塔音乐。”"
 
 # game/cliffroute2.rpy:5372
 translate Schinese mt2_1ecc2372:
 
     # m "\"The map. What your father said... is that all true?\""
-    m ""
+    m "“那张地图。你父亲的话...是真的吗？”"
 
 # game/cliffroute2.rpy:8008
 translate Schinese hh_12751385:
 
     # cl "\"My name is Clifford Tibbits, leader of this expedition-- Ow!\""
-    cl ""
+    cl "“我叫Clifford Tibbits，是这次考察的领队-嗷！”"
 

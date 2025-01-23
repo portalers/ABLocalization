@@ -13,7 +13,7 @@ init python:
     no3a_TW = Character('???', color="#FFFFFF", screen="sayMore", show_col="#FFFFFF", what_font="fonts/xinyugongcangsangti.ttf",what_size=55)
     nonik_TW = Character('???', color="#255226", screen="sayMore", show_col="#255226", what_font="fonts/sin_TW.ttf",what_size=55)
     nojack_TW = Character('???', color="#255226", screen="sayMore", show_col="#255226", what_font="fonts/sin_TW.ttf",what_size=55)
-
+    m_EN = Character('Samuel', color="#ff3333", screen="sayMore", show_col="#ff3333", image="sam", what_font="font/LibreBaskervilleRegular.ttf")
 
 translate None python:
     if not renpy.variant("pc"):

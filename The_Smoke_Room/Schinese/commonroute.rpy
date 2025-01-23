@@ -6741,89 +6741,89 @@ translate Schinese commonroute_9749a8e2:
 translate Schinese commonroute_df5de8f0:
 
     # "I move around quietly. For some reason the idea of what I'm about to do makes me feel like I gotta keep it all secret."
-    ""
+    "我的动作很轻。不知为何，我要做的事让我觉得必须把它当成一个秘密来保守。"
 
 # game/commonroute.rpy:30
 translate Schinese commonroute_c916811e:
 
     # "It's mostly quiet. I can hear the girls laughing and talking a ways away, probably down in the empty saloon."
-    ""
+    "外面还算安静，我能听见远处姑娘们的笑声与谈话声，也许是从楼下空荡荡的酒吧里传来的。"
 
 # game/commonroute.rpy:43
 translate Schinese commonroute_6a970a45:
 
     # "I kneel there on the floor, looking at the one gold eagle and the two double eagles resting on my palm pad."
-    ""
+    "我跪在地板上，注视着躺在爪垫中的一枚鹰扬币和两枚双鹰币。"
 
 # game/commonroute.rpy:74
 translate Schinese commonroute_aae5ea38:
 
     # cy "\"I'll remember next time. Anyway come on down. We're all having such a good time!\""
-    cy ""
+    cy "“下次我会记得敲门的。总之快来啦，大伙玩得正开心呢！”"
 
 # game/commonroute.rpy:184
 translate Schinese commonroute_fb76765f:
 
     # ja "\"Ha! Not carryin' much, are ya? No worries. We'll build a life for ya soon enough. And the money?\""
-    ja ""
+    ja "“哈！没多少，是吧？别担心，我们很快就能安定下了。钱呢？”"
 
 # game/commonroute.rpy:185
 translate Schinese commonroute_7e4d737a:
 
     # "I pause, almost panicking because I forget for just a second where I put the coins. Then I shove a paw into my pocket and pull them out."
-    ""
+    "我愣住了，几乎惊慌起来，因为有那么一瞬间，我记不起自己将硬币放在了哪。之后，我把手挤进兜里，掏出硬币。"
 
 # game/commonroute.rpy:210
 translate Schinese commonroute_a7ad8e9a:
 
     # "Jack starts walking up the path toward the mine and I'm left staring after him for a few seconds before I quickly start to follow, trying to find words to say."
-    ""
+    "说完，Jack沿着小路朝矿井走去，我盯着他看了几秒钟，然后迅速跟上，努力组织着自己的话。"
 
 # game/commonroute.rpy:227
 translate Schinese commonroute_3ae6e8d2:
 
     # "Jack starts moving up the side of the big hill that the mine entrance is attached to, the slanted ground adding to the treachery of walking blindly through the wilderness."
-    ""
+    "Jack开始沿着矿井入口侧面的山坡朝上移动，倾斜的地面为在荒野中摸黑行走增添了不少意外因素。"
 
 # game/commonroute.rpy:247
 translate Schinese commonroute_8f9074a7:
 
     # ja "\"Few of the others know. Just had to talk to 'em.\""
-    ja ""
+    ja "“和知道的人聊聊就行。”"
 
 # game/commonroute.rpy:656
 translate Schinese commonroute_b23b39dd:
 
     # "...but I'm not alright. I can feel it in my chest."
-    ""
+    "...但我不会没事的，我能感到这一切堵在我的胸口。"
 
 # game/commonroute.rpy:657
 translate Schinese commonroute_6246181e:
 
     # "I killed a man in that mine. That's bad enough..."
-    ""
+    "我在矿井里杀了人，这已经够糟了..."
 
 # game/commonroute.rpy:1002
 translate Schinese commonroute_b27f7fce:
 
     # "There's danger in the hare’s tone."
-    ""
+    "野兔的语气里充满了威胁。"
 
 # game/commonroute.rpy:1005
 translate Schinese commonroute_2b833092:
 
     # "The wolf flinches from the sudden snap, but he shakes it off."
-    ""
+    "狼被突如其来的厉声惊了一跳，不过很快抛之脑后。"
 
 # game/commonroute.rpy:1052
 translate Schinese commonroute_21d04443:
 
     # cl "\"Again, I didn’t mean to argue or create a scene. I truly thought my source was reliable. They said The Saguaro’s Hip could cater to dandy curiosities.\""
-    cl ""
+    cl "“重申一遍，我不是故意制造争论或大吵大闹的，我认为我的消息来源足够可靠。他们说，Saguaro’s Hip是一个让许多花花公子都趋之若鹜的好地方。”"
 
 # game/commonroute.rpy:1232
 translate Schinese commonroute_76509049:
 
     # "Murdoch looks away, appearing not to listen, and busies himself with his camera. He takes a snapshot of a few of the gathered crowds."
-    ""
+    "Murdoch移开了视线，似乎不打算听。他正忙活着自己的相机，并为聚集的人群拍了张快照。"
 

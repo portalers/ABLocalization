@@ -19454,5 +19454,5 @@ translate Schinese murdochroute3b_765c0b65:
 translate Schinese murdochroute3b_d1f71700:
 
     # al "\"That happens to the best-- best of us.\""
-    al ""
+    al "“算是好事一桩，对我们都好。”"
 
