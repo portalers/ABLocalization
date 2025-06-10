@@ -27136,3 +27136,125 @@ translate Tchinese sellcomp_2acf3707:
 
     # "Nik picks up his pail and his equipment and disappears into the hall of the cabin."
     "Nik提起他自己的餐桶跟裝備，走向小屋走廊。"
+# TODO: Translation updated at 2025-06-06 01:45
+
+# game/nikroute2.rpy:1205
+translate Tchinese nikroute2_82af61bf:
+
+    # jam "\"It would make his life so much easier if he were to rein those thoughts in.\""
+    jam ""
+
+# game/nikroute2.rpy:1766
+translate Tchinese sny1_11d57222:
+
+    # "She takes a puff of her cigarette then blows smoke."
+    ""
+
+# game/nikroute2.rpy:2663
+translate Tchinese sny1_16f80f94:
+
+    # m "\"Twitchy fella.\""
+    m ""
+
+# game/nikroute2.rpy:2921
+translate Tchinese sny1_844aa40a:
+
+    # m "\"’M ready.\""
+    m ""
+
+# game/nikroute2.rpy:2979
+translate Tchinese sny1_5a72d4dc:
+
+    # ben "\"You Sam Ayers, fella?\""
+    ben ""
+
+# game/nikroute2.rpy:2981
+translate Tchinese sny1_ac72fd7d:
+
+    # "He looks and sounds a bit too familiar to be calling me fella."
+    ""
+
+# game/nikroute2.rpy:3140
+translate Tchinese sny1_d6900169:
+
+    # "But when I get a closer look, it’s a sturdy-looking Gila monster. "
+    ""
+
+# game/nikroute2.rpy:3244
+translate Tchinese sny1_f3ce6504:
+
+    # ben "\"Wait, don’t blame me for the new fella’s mistakes.\""
+    ben ""
+
+# game/nikroute2.rpy:3274
+translate Tchinese sny1_f303e188:
+
+    # "The Gila turns away from us and flips the switch to his machine."
+    ""
+
+# game/nikroute2.rpy:3279
+translate Tchinese sny1_1ca686c2:
+
+    # "The Gila curses under his breath."
+    ""
+
+# game/nikroute2.rpy:5237
+translate Tchinese sny1_aa511a53:
+
+    # "A stack of papers is scattered on a coffee table in front of the sofa he sits on, and he notices me immediately."
+    ""
+
+# game/nikroute2.rpy:5524
+translate Tchinese sny1_efa09ae3:
+
+    # "The Gila fake yawns."
+    ""
+
+# game/nikroute2.rpy:6560
+translate Tchinese sellcomp_434d8aff:
+
+    # ben "\"Howdy fellas.\""
+    ben ""
+
+# game/nikroute2.rpy:6753
+translate Tchinese sellcomp_e253dc1f:
+
+    # "Once we haul all of the rocks out of the way and load them into carts, then unload them into cages, it’s my and Dimitri’s turn to do the next blast."
+    ""
+
+# game/nikroute2.rpy:7426
+translate Tchinese sellcomp_84b45744:
+
+    # "Then I’m relieved to hear Nik, Yao and my name in the yellow team."
+    ""
+
+# game/nikroute2.rpy:7445
+translate Tchinese sellcomp_3e1047fd:
+
+    # "He takes out his map."
+    ""
+
+# game/nikroute2.rpy:7736
+translate Tchinese locker1bright_cc28177a:
+
+    # "But being nude around Nik just reminds me of all of the time we've spend together."
+    ""
+
+# game/nikroute2.rpy:8876
+translate Tchinese youdidit_480f7628:
+
+    # "Will takes another drag on his cigarette."
+    ""
+
+# game/nikroute2.rpy:8910
+translate Tchinese youdidit_aeca2ff7:
+
+    # "He shakes his head."
+    ""
+
+# game/nikroute2.rpy:8926
+translate Tchinese youdidit_ff3934c2:
+
+    # "He takes a good look at the both of us."
+    ""
+

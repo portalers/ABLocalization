@@ -8422,3 +8422,29 @@ translate Tchinese williamroute_9206859d:
 
     # "Maybe next time I should ask what scares you."
     "也許下一次，我應該問問你內心中的恐懼。"
+# TODO: Translation updated at 2025-06-06 01:45
+
+# game/williamroute.rpy:93
+translate Tchinese williamroute_ddd379d6:
+
+    # "I figure that even if I did get away with killing Jack, scot-free, that wouldn't matter to God."
+    ""
+
+# game/williamroute.rpy:417
+translate Tchinese williamroute_606affa0:
+
+    # "I swerve to the left, leading us up the dirt road."
+    ""
+
+# game/williamroute.rpy:591
+translate Tchinese williamroute_4d427a4f:
+
+    # "I flinch away. My paw almost brushed one of the many bundles of legs."
+    ""
+
+# game/williamroute.rpy:2148
+translate Tchinese williamroute_48537202:
+
+    # wi "\"Todd weren’t troublin’ Mrs. Greene just for her pies.\""
+    wi ""
+

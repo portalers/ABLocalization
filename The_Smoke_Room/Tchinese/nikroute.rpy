@@ -6995,3 +6995,41 @@ translate Tchinese nikroute_64018220:
 
     # ni "\"Wha— Sam, what are you doing?\""
     ni "什——Sam，你怎麼在這？"
+# TODO: Translation updated at 2025-06-06 01:45
+
+# game/nikroute.rpy:847
+translate Tchinese nikroute_59188e9f:
+
+    # m "\"Eh, think so. Memory's fuzzy, having my brains shook up like that.\""
+    m ""
+
+# game/nikroute.rpy:1025
+translate Tchinese nikroute_e011b163:
+
+    # "I should read the Bible for now."
+    ""
+
+# game/nikroute.rpy:1028
+translate Tchinese nikroute_02a09d67:
+
+    # "I open the little wooden compartment on my vanity, seeing the worn, leather spine of the Bible that was there when I first started working here."
+    ""
+
+# game/nikroute.rpy:1044
+translate Tchinese nikroute_2433cf87:
+
+    # "I quickly snap shut the chest, hiding the Bible from sight, saying a quick \"sorry\" to God for cursing in front of the holy book."
+    ""
+
+# game/nikroute.rpy:1151
+translate Tchinese nikroute_aeb87dc1:
+
+    # cl "\"Indeed, you said almost as many words to me in the past five minutes as you have the past few days. I look forward to our appointment!\""
+    cl ""
+
+# game/nikroute.rpy:1452
+translate Tchinese nikroute_0a4e54a9:
+
+    # "An old-looking polecat sees us and gives us an apprehensive look, and starts speaking in a language I don’t understand."
+    ""
+

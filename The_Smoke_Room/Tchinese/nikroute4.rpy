@@ -6685,3 +6685,47 @@ translate Tchinese nikroute4a_8e955e56:
 
     # pa "\"All we {i}have{/i} to do is keep going straight until we run into the right way.\""
     pa "我們{i}只要{/i}不斷直走就能找到正確的路了。"
+# TODO: Translation updated at 2025-06-06 01:45
+
+# game/nikroute4.rpy:13
+translate Tchinese nikroute4a_0a40570d:
+
+    # "I want to say {i}we can’t leave him{/i}."
+    ""
+
+# game/nikroute4.rpy:14
+translate Tchinese nikroute4a_9788b547:
+
+    # "I want to say {i}but he’s still right there{/i}."
+    ""
+
+# game/nikroute4.rpy:671
+translate Tchinese nikroute4a_426e354e:
+
+    # "I can barely make out Paul and Felipe exchanging glances silently. Then the wolverine clears his throat."
+    ""
+
+# game/nikroute4.rpy:699
+translate Tchinese nikroute4a_478c4506:
+
+    # "I can make out Nik and Felipe getting tense when he says that."
+    ""
+
+# game/nikroute4.rpy:1200
+translate Tchinese nikroute4a_d22fa2f9:
+
+    # "The wolverine gestures with his arms and shouts."
+    ""
+
+# game/nikroute4.rpy:1511
+translate Tchinese nikroute4a_44f965d8:
+
+    # "Some of the men start following him while others argue with one another, perhaps over in which direction to go."
+    ""
+
+# game/nikroute4.rpy:1816
+translate Tchinese nikroute4a_181c71db:
+
+    # "The girls and the Madam are nowhere to be found."
+    ""
+

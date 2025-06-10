@@ -48382,3 +48382,641 @@ translate Tchinese nikroute3d2_4d7f4c19:
 
     # wi "\"What’s unnecessary is an occupation-- especially in response to civilian concern of criminal allegations.\""
     wi "駐紮才是真的沒有必要——況且這還只是民事指控。"
+# TODO: Translation updated at 2025-06-06 01:45
+
+# game/nikroute3.rpy:112
+translate Tchinese nikroute3_5e8ef183:
+
+    # ya "\"I have never had a problem checking on this space until tonight.\""
+    ya ""
+
+# game/nikroute3.rpy:218
+translate Tchinese nikroute3_1936b2ca:
+
+    # m "\"Ain’t a snowball’s chance in Hell that thing was a person.\""
+    m ""
+
+# game/nikroute3.rpy:308
+translate Tchinese nikroute3_6540d5fa:
+
+    # pa "\"The Hell you been?\""
+    pa ""
+
+# game/nikroute3.rpy:433
+translate Tchinese nikroute3_82a9d491:
+
+    # pa "\"They sicced the National Guard on their asses.\""
+    pa ""
+
+# game/nikroute3.rpy:445
+translate Tchinese nikroute3_89be12b7:
+
+    # pa "\"They end up sending the National Guard for us and we’re finished.\""
+    pa ""
+
+# game/nikroute3.rpy:878
+translate Tchinese nikroute3_6bef2e17:
+
+    # "It’s not the most crowded in the middle of the week, but the Hip always has a crowd."
+    ""
+
+# game/nikroute3.rpy:1064
+translate Tchinese nikroute3_d46b9ae8:
+
+    # m "\"To drag me down to Hell where I belong.\""
+    m ""
+
+# game/nikroute3.rpy:1465
+translate Tchinese sny2_3895b84d:
+
+    # "There’s ladies in Sunday dresses and men in top hats wandering about."
+    ""
+
+# game/nikroute3.rpy:1466
+translate Tchinese sny2_d7f9a8a6:
+
+    # m "\"The Hell?\""
+    m ""
+
+# game/nikroute3.rpy:1483
+translate Tchinese sny2_d7f9a8a6_1:
+
+    # m "\"The Hell?\""
+    m ""
+
+# game/nikroute3.rpy:1687
+translate Tchinese sny2_23a71bd2:
+
+    # jam "\"Naw don’t just stand there jabberjawed!\""
+    jam ""
+
+# game/nikroute3.rpy:1833
+translate Tchinese sny2_44b54934:
+
+    # md "\"And Lord knows she could use more people to talk to.\""
+    md ""
+
+# game/nikroute3.rpy:2122
+translate Tchinese sny3_8cf5fe12:
+
+    # co "\"The popular opinion in town is that this is the natives’ fault.\""
+    co ""
+
+# game/nikroute3.rpy:2246
+translate Tchinese sny3_80edab47:
+
+    # co "\"It’s a card game developed during the Renaissance meant to reveal the truth of the world to the viewer through their own understandings.\""
+    co ""
+
+# game/nikroute3.rpy:2694
+translate Tchinese sny3_ea5e8f72:
+
+    # co "\"We haven’t bothered to replace it yet because we aren’t down here enough to be fussed with it.\""
+    co ""
+
+# game/nikroute3.rpy:2882
+translate Tchinese nikroute3a_fa1704dc:
+
+    # co "\"I’m loath to say it, gentlemen, but I don’t know which products are safe to use at the moment.\""
+    co ""
+
+# game/nikroute3.rpy:4598
+translate Tchinese nikroute3a_8701ccea:
+
+    # m "\"...What the Hell is going on here?\""
+    m ""
+
+# game/nikroute3.rpy:4625
+translate Tchinese nikroute3a_ebc2fbf8:
+
+    # m "\"How the Hell are you supposed to build muscle like that?\""
+    m ""
+
+# game/nikroute3.rpy:4680
+translate Tchinese nikroute3a_63efe2e0:
+
+    # "The German Shepherd nods his head, backing away from one bar while the polar bear groans and stretches, hopping away."
+    ""
+
+# game/nikroute3.rpy:4948
+translate Tchinese nikroute3a_c746330d:
+
+    # m "\"The Hell!?\""
+    m ""
+
+# game/nikroute3.rpy:5002
+translate Tchinese nikroute3a_6e1e728d:
+
+    # "What the Hell does he know about my faith, exactly?"
+    ""
+
+# game/nikroute3.rpy:5277
+translate Tchinese nikroute3a_dde2ad26:
+
+    # m "\"Do we look like fellas who can afford a fancy watch?\""
+    m ""
+
+# game/nikroute3.rpy:5545
+translate Tchinese nikroute3a_8451f6cd:
+
+    # pa "\"It’s seven-thirty PM.\""
+    pa ""
+
+# game/nikroute3.rpy:5629
+translate Tchinese nikroute3a_2168ddc6:
+
+    # "He chuckles, and then{nw}"
+    ""
+
+# game/nikroute3.rpy:5631
+translate Tchinese nikroute3a_96e0f05c:
+
+    # extend " frowns."
+    extend ""
+
+# game/nikroute3.rpy:6053
+translate Tchinese nikroute3a_0cfddf9a:
+
+    # "The stories, as terse as they were, still leave us tense."
+    ""
+
+# game/nikroute3.rpy:6159
+translate Tchinese nikroute3a_b511fba2:
+
+    # "Then I hear the screen door and the wooden door creak as he starts to shuffle through the knobs of his locker."
+    ""
+
+# game/nikroute3.rpy:6165
+translate Tchinese nikroute3a_63d8d9c3:
+
+    # "It’s a Hell of a lot prettier than the flat, muggy swamp I crawled out of."
+    ""
+
+# game/nikroute3.rpy:6215
+translate Tchinese nikroute3a_9f7a0176:
+
+    # "???" "\"The Hell?\""
+    "???" ""
+
+# game/nikroute3.rpy:6266
+translate Tchinese nikroute3b_286fb2ed:
+
+    # ben "\"Took you by the hand and gave you a newcomer’s welcome and everything.\""
+    ben ""
+
+# game/nikroute3.rpy:6355
+translate Tchinese nikroute3b_8250c730:
+
+    # "I hardly ever see his face so that he keeps slipping my mind."
+    ""
+
+# game/nikroute3.rpy:6512
+translate Tchinese nikroute3b_6d493248:
+
+    # m "\"His name’s Mr. Król.\""
+    m ""
+
+# game/nikroute3.rpy:6594
+translate Tchinese nikroute3b_c85470f1:
+
+    # ni "\"Nicholas King is a direct translation of my birth name, from Lachian.\""
+    ni ""
+
+# game/nikroute3.rpy:6803
+translate Tchinese nikroute3b_48d24f60:
+
+    # br "\"So with that truth lying at my feet every day, do you really think I have the space in my head to give a damn about the life or death of a singular man based on his eccentric proclivities?\""
+    br ""
+
+# game/nikroute3.rpy:6909
+translate Tchinese nikroute3b_87fbb48c:
+
+    # bk "\"Now what the Hell do you want?\""
+    bk ""
+
+# game/nikroute3.rpy:6936
+translate Tchinese nikroute3b_cf4b45ed:
+
+    # "There’s a picture of a big family group of Gilas."
+    ""
+
+# game/nikroute3.rpy:6938
+translate Tchinese nikroute3b_73744972:
+
+    # "He’s touched on the shoulder by a much older looking lizard, who’s also touching a Gila who looks like a slightly younger Beckett."
+    ""
+
+# game/nikroute3.rpy:6967
+translate Tchinese nikroute3b_645dd4b1:
+
+    # bk "\"That’s me, my late cousin Amos, and the good-for-nothing spawn from Hell who I used to call my twin brother.\""
+    bk ""
+
+# game/nikroute3.rpy:7104
+translate Tchinese nikroute3b_6c52c609:
+
+    # bk "\"It’s been a shitty day.\""
+    bk ""
+
+# game/nikroute3.rpy:7251
+translate Tchinese nikroute3b_5f17ecfc:
+
+    # ni "\"The National Guard are on their way.\""
+    ni ""
+
+# game/nikroute3.rpy:7634
+translate Tchinese sny4_7361a614:
+
+    # ni "\"How could I not when you and Sam are the ones who have to put up with my snoring all these years?\""
+    ni ""
+
+# game/nikroute3.rpy:7807
+translate Tchinese sny4_e05a358d:
+
+    # ni "\"A blast could cause a cave-in.\""
+    ni ""
+
+# game/nikroute3.rpy:8039
+translate Tchinese sny4_4e8edcc3:
+
+    # m "\"Briggs called the National Guard.\""
+    m ""
+
+# game/nikroute3.rpy:8040
+translate Tchinese sny4_141d6260:
+
+    # ya "\"The National Guard?!\""
+    ya ""
+
+# game/nikroute3.rpy:8048
+translate Tchinese sny4_87355464:
+
+    # ya "\"Against the Guard?\""
+    ya ""
+
+# game/nikroute3.rpy:8748
+translate Tchinese sny4_e4412a36:
+
+    # "I think for a moment that another cave-in is about to happen."
+    ""
+
+# game/nikroute3.rpy:8757
+translate Tchinese sny4_73c503c1:
+
+    # "Something big and stone-colored dangles from the ceiling,{nw}"
+    ""
+
+# game/nikroute3.rpy:8952
+translate Tchinese sny4_e4412a36_1:
+
+    # "I think for a moment that another cave-in is about to happen."
+    ""
+
+# game/nikroute3.rpy:9078
+translate Tchinese nikroute3c1_21988566:
+
+    # m "\"But where the Hell are we gonna go, Nik?\""
+    m ""
+
+# game/nikroute3.rpy:9181
+translate Tchinese nikroute3c1_69161282:
+
+    # ya "\"I believe that the odd tunnel shapes in this mine do not come just from a desire to confuse us.\""
+    ya ""
+
+# game/nikroute3.rpy:9317
+translate Tchinese nikroute3c1_a07215d2:
+
+    # ya talking "\"I vote to stay behind and use the tools to clear the cave-in.\""
+    ya talking ""
+
+# game/nikroute3.rpy:9354
+translate Tchinese caveinchoice_96bf41ca:
+
+    # ya "\"Very well, I will not drag my feet.\""
+    ya ""
+
+# game/nikroute3.rpy:9518
+translate Tchinese caveinchoice_113ba1cc:
+
+    # "He says something harsh in Huaxian that neither me nor Nik understands."
+    ""
+
+# game/nikroute3.rpy:9791
+translate Tchinese caveinchoice_9a32e2b7:
+
+    # ya talking "\"Surely if his tunnels were in use by him, he would check his secret places from time to time.\""
+    ya talking ""
+
+# game/nikroute3.rpy:9866
+translate Tchinese caveinchoice_2bc17bc4:
+
+    # "The Bible doesn’t mention ghosts."
+    ""
+
+# game/nikroute3.rpy:9953
+translate Tchinese caveinchoice_9eebce13:
+
+    # no "\"Why should the stairs to the mouth of Hell be quick?\""
+    no ""
+
+# game/nikroute3.rpy:10003
+translate Tchinese caveinchoice_74d4658d:
+
+    # ya talking "\"There are signs of some volcanic activity in areas close to this one.\""
+    ya talking ""
+
+# game/nikroute3.rpy:10025
+translate Tchinese caveinchoice_20d956c4:
+
+    # m "\"Well, the Hendricks are weird, aren’t they?\""
+    m ""
+
+# game/nikroute3.rpy:10026
+translate Tchinese caveinchoice_cd85439c:
+
+    # "I say that, ignoring the voice, the one implying to me that people are drawn here, that they crawl here on their bellies, hands first and alone, and make the journey directly into Hell."
+    ""
+
+# game/nikroute3.rpy:10030
+translate Tchinese caveinchoice_e3bca431:
+
+    # ni "\"That honestly would not surprise me.\""
+    ni ""
+
+# game/nikroute3.rpy:10064
+translate Tchinese caveinchoice_74d04942:
+
+    # ni "\"It’s just a pathway, is it not?\""
+    ni ""
+
+# game/nikroute3.rpy:10080
+translate Tchinese caveinchoice_6e281905:
+
+    # "I hear noises the likes of which I’ve never heard before."
+    ""
+
+# game/nikroute3.rpy:10177
+translate Tchinese caveinchoice_8f3832ce:
+
+    # "I don’t want to upset Yao, or slow Nik down any more than I already am because of the burden of the ore."
+    ""
+
+# game/nikroute3.rpy:10186
+translate Tchinese caveinchoice_4815f6d7:
+
+    # "If this were some kind of gateway to Hell..."
+    ""
+
+# game/nikroute3.rpy:10495
+translate Tchinese caveinchoice_c6663552:
+
+    # "The male voice says it’s not his fault."
+    ""
+
+# game/nikroute3.rpy:10499
+translate Tchinese caveinchoice_a2a297c8:
+
+    # "Because I’m in Hell."
+    ""
+
+# game/nikroute3.rpy:10597
+translate Tchinese caveinchoice_20d9bb27:
+
+    # m "\"I don’t sleepwalk.\""
+    m ""
+
+# game/nikroute3.rpy:10862
+translate Tchinese caveinchoice_80789f74:
+
+    # m "\"How the Hell we gonna get down that?\""
+    m ""
+
+# game/nikroute3.rpy:10922
+translate Tchinese caveinchoice_484d505e:
+
+    # m "\"What the Hell was that for?!\""
+    m ""
+
+# game/nikroute3.rpy:10973
+translate Tchinese caveinchoice_65a1fb09:
+
+    # ya "\"There are important decisions I have yet to make.\""
+    ya ""
+
+# game/nikroute3.rpy:11121
+translate Tchinese nikroute3c2_e4b518c7:
+
+    # m "\"Those stones he threw hurt like Hell.\""
+    m ""
+
+# game/nikroute3.rpy:11548
+translate Tchinese sny5_e1cfef52:
+
+    # "What the Hell is that?"
+    ""
+
+# game/nikroute3.rpy:11738
+translate Tchinese sny5_bc4cbe2d:
+
+    # nojack "\"C'est du gâteau, mon chéri.\""
+    nojack ""
+
+# game/nikroute3.rpy:11817
+translate Tchinese sny5_4f8365ab:
+
+    # "But I certainly can’t move around that much in this place."
+    ""
+
+# game/nikroute3.rpy:11884
+translate Tchinese sny5_889b630e:
+
+    # m "\"The Hell is a seed?\""
+    m ""
+
+# game/nikroute3.rpy:12334
+translate Tchinese sny5_c6864be6:
+
+    # m "\"You sure that ain’t supposed to be Hell?\""
+    m ""
+
+# game/nikroute3.rpy:12354
+translate Tchinese sny5_955de5df:
+
+    # m "\"That’s a Hell of a lot of an effort to make for somebody just because they sang to you.\""
+    m ""
+
+# game/nikroute3.rpy:12416
+translate Tchinese sny5_1b6ebe3a:
+
+    # fe "\"Tú también fuiste responsable por eso.\""
+    fe ""
+
+# game/nikroute3.rpy:12459
+translate Tchinese sny5_dd51fce6:
+
+    # "He must not be aware of anything that just happened."
+    ""
+
+# game/nikroute3.rpy:12602
+translate Tchinese sny5_3c94eded:
+
+    # "But it sure is a Hell of a lot of silver."
+    ""
+
+# game/nikroute3.rpy:12675
+translate Tchinese sny5_ea30f0e0:
+
+    # ya talking "\"If everything goes well, I will send you a telegraph.\""
+    ya talking ""
+
+# game/nikroute3.rpy:12800
+translate Tchinese nikroute3d1_dbc94b2c:
+
+    # ni "\"It’s the National Guard, Will.\""
+    ni ""
+
+# game/nikroute3.rpy:12837
+translate Tchinese nikroute3d1_f420f330:
+
+    # wi "\"So what if the Guard is coming?\""
+    wi ""
+
+# game/nikroute3.rpy:12847
+translate Tchinese nikroute3d1_4b4db516:
+
+    # "Especially if the tiger’s going to try something illegal with the Guard before he leaves."
+    ""
+
+# game/nikroute3.rpy:12906
+translate Tchinese nikroute3d1_9cc34394:
+
+    # wi "\"Especially if the National Guard does start a disaster.\""
+    wi ""
+
+# game/nikroute3.rpy:12928
+translate Tchinese nikroute3d1_102d367f:
+
+    # ni "\"If the Guard is there, this is their opportunity to remove undesirables without claiming responsibility!\""
+    ni ""
+
+# game/nikroute3.rpy:12943
+translate Tchinese nikroute3d1_7a9444ab:
+
+    # ni "\"If you want to help, then we need to tell people to stay away from the mines before the Guard shows up!\""
+    ni ""
+
+# game/nikroute3.rpy:12969
+translate Tchinese nikroute3d1_243c7b93:
+
+    # wi "\"I am not going to let a serial killer go because there’s a chance that the Guard and the protestors start up a fight.\""
+    wi ""
+
+# game/nikroute3.rpy:12983
+translate Tchinese nikroute3d2_c662af51:
+
+    # wi "\"What the Hell happened to your face?\""
+    wi ""
+
+# game/nikroute3.rpy:13123
+translate Tchinese nikroute3d2_c07287ed:
+
+    # wi "\"Sometimes you sure as Hell make it hard to.\""
+    wi ""
+
+# game/nikroute3.rpy:13174
+translate Tchinese nikroute3d2_c4d3e899:
+
+    # m "\"I told you countless times that I wanted out of this hellhole.\""
+    m ""
+
+# game/nikroute3.rpy:13223
+translate Tchinese nikroute3d2_6ef01a26:
+
+    # ni "\"The National Guard is coming to town.\""
+    ni ""
+
+# game/nikroute3.rpy:13297
+translate Tchinese nikroute3d2_82d23e96:
+
+    # wi "\"And believe me, it’s a Hell of a pill to swallow....\""
+    wi ""
+
+# game/nikroute3.rpy:13375
+translate Tchinese nikroute3d2_87fa10d4:
+
+    # "It’s a picture of a lady wolf, who’s young and pretty, and a very small wolf who looks not a day over ten, and a Hell of a lot like William."
+    ""
+
+# game/nikroute3.rpy:13398
+translate Tchinese nikroute3d2_786445b6:
+
+    # m "\"Need to pack up my things. Talk to the Madam.\""
+    m ""
+
+# game/nikroute3.rpy:13662
+translate Tchinese nikroute3d2_9327928a:
+
+    # cy "\"And the Madam?\""
+    cy ""
+
+# game/nikroute3.rpy:13687
+translate Tchinese nikroute3d2_3458bd1a:
+
+    # m "\"The National Guard is coming to the mines.\""
+    m ""
+
+# game/nikroute3.rpy:13727
+translate Tchinese nikroute3d2_996913f3:
+
+    # "Both U and W used to be replaced by one V and two V’s respectively in spite of the very fact that all three of these letters make drastically different phonemes."
+    ""
+
+# game/nikroute3.rpy:13966
+translate Tchinese nikroute3d2_841b9bb3:
+
+    # pa "\"Who the Hell is attacking a damn press?\""
+    pa ""
+
+# game/nikroute3.rpy:14032
+translate Tchinese nikroute3d2_2830828e:
+
+    # pa "\"So what the Hell changed?\""
+    pa ""
+
+# game/nikroute3.rpy:14175
+translate Tchinese nikroute3d2_d3c5a549:
+
+    # m "\"Is the Guard already here?!\""
+    m ""
+
+# game/nikroute3.rpy:14221
+translate Tchinese nikroute3d2_bd98ed67:
+
+    # cy "\"I’ll ask the Madam first, then see if we can get additional tickets.\""
+    cy ""
+
+# game/nikroute3.rpy:14252
+translate Tchinese nikroute3d2_ff4ebce6:
+
+    # "He mouths {i}are y’all seeing all this?{/i}"
+    ""
+
+# game/nikroute3.rpy:14416
+translate Tchinese nikroute3d2_8d4ef223:
+
+    # wi "\"Can somebody tell me what the Hell’s going on?\""
+    wi ""
+
+# game/nikroute3.rpy:14440
+translate Tchinese nikroute3d2_3068364b:
+
+    # "The Gila gives William a frustrated shrug."
+    ""
+
+# game/nikroute3.rpy:14508
+translate Tchinese nikroute3d2_230a195b:
+
+    # ni @ talking "\"The National Guard is coming.\""
+    ni @ talking ""
+

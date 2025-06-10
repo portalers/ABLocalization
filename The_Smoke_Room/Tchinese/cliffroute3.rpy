@@ -16258,3 +16258,917 @@ translate Tchinese aftercliffint2_15cb676e:
 
     # cl "\"I had thought if I laid out my reasoning he would come to understand my concerns!\""
     cl "我還以為只要跟他講道理，他就會明白我的顧慮！"
+# TODO: Translation updated at 2025-06-06 01:45
+
+# game/cliffroute3.rpy:29
+translate Tchinese cliffroute3_d21af654:
+
+    # cor "\"Not if father has anything to say about the matter.\""
+    cor ""
+
+# game/cliffroute3.rpy:36
+translate Tchinese cliffroute3_6ef8ea74:
+
+    # unk "\"I'm well aware the man loathes me, lad. No need to hold back for my sake.\""
+    unk ""
+
+# game/cliffroute3.rpy:81
+translate Tchinese cliffroute3_0b5e97eb:
+
+    # cor "\"May I... read the book?\""
+    cor ""
+
+# game/cliffroute3.rpy:111
+translate Tchinese cliffroute3_fc13fe1c:
+
+    # m @ talking "\"Mornin', Professor.\""
+    m @ talking ""
+
+# game/cliffroute3.rpy:127
+translate Tchinese cliffroute3_2a95207e:
+
+    # "He gets up, on his knees, and I savor the breath I've been holding in these past long minutes."
+    ""
+
+# game/cliffroute3.rpy:154
+translate Tchinese cliffroute3_bb9cb46a:
+
+    # cl "\"Absolutely nothing to be worried about. Just... anxious to get to work.\""
+    cl ""
+
+# game/cliffroute3.rpy:193
+translate Tchinese cliffroute3_965650de:
+
+    # "My regular clothes are all the way at the bottom of my pack, sitting neatly folded underneath my bag of taffies as if I'd never disturbed them."
+    ""
+
+# game/cliffroute3.rpy:224
+translate Tchinese cliffroute3_7a9d7ec3:
+
+    # mu "\"Just me. Avery and Jebediah are still sleeping too.\""
+    mu ""
+
+# game/cliffroute3.rpy:248
+translate Tchinese cliffroute3_61557aac:
+
+    # cl "\"I, erm...\""
+    cl ""
+
+# game/cliffroute3.rpy:320
+translate Tchinese murdochtent_bf1ab10b:
+
+    # cl "\"I had a fantastic go in the springs with you, but... I'd rather we stay on professional terms. At least for now.\""
+    cl ""
+
+# game/cliffroute3.rpy:369
+translate Tchinese murdochtent_0b909680:
+
+    # cl "\"We're so sorry. We were just—\""
+    cl ""
+
+# game/cliffroute3.rpy:400
+translate Tchinese murdochtent_ee52633b:
+
+    # mu "\"I'll go wake up the others then.\""
+    mu ""
+
+# game/cliffroute3.rpy:438
+translate Tchinese aftertent_d455ea12:
+
+    # "I wish that Clifford Tibbits — that {i}I{/i} could be that confident."
+    ""
+
+# game/cliffroute3.rpy:445
+translate Tchinese aftertent_d95d528e:
+
+    # cl "\"We should be there in a... little while, I'd say.\""
+    cl ""
+
+# game/cliffroute3.rpy:456
+translate Tchinese aftertent_9e5646d0:
+
+    # cl "\"There are studies which take months, if not years.\""
+    cl ""
+
+# game/cliffroute3.rpy:500
+translate Tchinese aftertent_fda0b29a:
+
+    # "I'm well aware of the way my contemporaries discuss the Meseta, as well as other tribes like them, but still... it's quite disheartening."
+    ""
+
+# game/cliffroute3.rpy:510
+translate Tchinese aftertent_f16405fe:
+
+    # cl "\"I'm sure with the correct reasoning...\""
+    cl ""
+
+# game/cliffroute3.rpy:535
+translate Tchinese aftertent_50d32c7c:
+
+    # "Or... no one, it seems."
+    ""
+
+# game/cliffroute3.rpy:552
+translate Tchinese aftertent_7d9f7161:
+
+    # mu "\"But it's... what, noon?\""
+    mu ""
+
+# game/cliffroute3.rpy:626
+translate Tchinese aftertent_c71d78fb:
+
+    # av "\"They've already got enough mouths to feed as is. No problem though. There's an inn pretty close by.\""
+    av ""
+
+# game/cliffroute3.rpy:659
+translate Tchinese aftertent_91d8dc15:
+
+    # cl "\"It won't take long. I promise.\""
+    cl ""
+
+# game/cliffroute3.rpy:685
+translate Tchinese aftertent_2ccc8fec:
+
+    # ca "\"Reverend Caldwell. And you are...\""
+    ca ""
+
+# game/cliffroute3.rpy:780
+translate Tchinese aftertent_8cda1a7e:
+
+    # cl "\"You're... planning to expand the railroad through Meseta land?\""
+    cl ""
+
+# game/cliffroute3.rpy:840
+translate Tchinese aftertent_1fe28dce:
+
+    # "I think I would be correct in assuming the wellbeing of the children in this man's care is the last thing on his mind."
+    ""
+
+# game/cliffroute3.rpy:880
+translate Tchinese aftertent_214d811f:
+
+    # "I should still have some time before Sam or Murdoch comes looking for me."
+    ""
+
+# game/cliffroute3.rpy:941
+translate Tchinese aftertent_4e801f0c:
+
+    # cl "\"What confuses me, though, is that from what I have gathered from trustworthy sources, the Meseta have had a strong tradition of maintaining a nomadic lifestyle.\""
+    cl ""
+
+# game/cliffroute3.rpy:1077
+translate Tchinese cliffint1_2d1a167d:
+
+    # "James might be disappointed if this venture doesn’t turn out well, but I’m sure he has backup plans for other routes just in case."
+    ""
+
+# game/cliffroute3.rpy:1107
+translate Tchinese aftercliffint1_ed9f3aca:
+
+    # "He’s not usually one to speak, or ask questions for that matter."
+    ""
+
+# game/cliffroute3.rpy:1143
+translate Tchinese aftercliffint1_222b487f:
+
+    # "It’s a modest little trading post, but there’s something of everything: canned food, oil lamps, fishing poles, hardware tools."
+    ""
+
+# game/cliffroute3.rpy:1147
+translate Tchinese aftercliffint1_453e63af:
+
+    # "She looks at me with a facial expression that is impossible to read... not angry, nor cheerful. Nor bored, not bothered."
+    ""
+
+# game/cliffroute3.rpy:1156
+translate Tchinese aftercliffint1_4bfe0453:
+
+    # cl "\"Where else could we go in town for supplies?\""
+    cl ""
+
+# game/cliffroute3.rpy:1240
+translate Tchinese aftercliffint2_e486fe4d:
+
+    # "That would be after sundown... just about the time the reverend asked me to bring him the documents."
+    ""
+
+# game/cliffroute3.rpy:1241
+translate Tchinese aftercliffint2_77ec7ae0:
+
+    # "Young squirrel" "\"There’s also the trail.\""
+    "Young squirrel" ""
+
+# game/cliffroute3.rpy:1314
+translate Tchinese aftercliffint2_d6664cec:
+
+    # "The goose shakes her beak."
+    ""
+
+# game/cliffroute3.rpy:1317
+translate Tchinese aftercliffint2_b7cbd8af:
+
+    # "Murdoch nods with understanding, as if he can recognize that tone of voice a mile away."
+    ""
+
+# game/cliffroute3.rpy:1339
+translate Tchinese aftercliffint2_bacef964:
+
+    # m "\"...Ain’t there a difference, typically, between what’s short to us, and short to Professor Tibbits?\""
+    m ""
+
+# game/cliffroute3.rpy:1346
+translate Tchinese aftercliffint2_e02c88b4:
+
+    # "The goose clears her throat."
+    ""
+
+# game/cliffroute3.rpy:1356
+translate Tchinese aftercliffint2_0d8ac63f:
+
+    # "The Goose flips through her booklet with her bony talons."
+    ""
+
+# game/cliffroute3.rpy:1365
+translate Tchinese aftercliffint2_f7bbe236:
+
+    # "The fox leans into the counter, places his paw on his hips, and gives the goose his best smile."
+    ""
+
+# game/cliffroute3.rpy:1396
+translate Tchinese aftercliffint2_0e6dfaa0:
+
+    # "She unhooks a set of keys off the wall and sets them in the fox’s paw as he puts the paper away in his vest jacket."
+    ""
+
+# game/cliffroute3.rpy:1417
+translate Tchinese aftercliffint2_9aae8be6:
+
+    # mu "\"It’s Mr. Tibbits’s real name.\""
+    mu ""
+
+# game/cliffroute3.rpy:1429
+translate Tchinese aftercliffint2_f2d3b663:
+
+    # mu "\"My grandparents had to change their names when they immigrated, though they didn’t have to change them by very much.\""
+    mu ""
+
+# game/cliffroute3.rpy:1490
+translate Tchinese aftercliffint2_6bcbaac2:
+
+    # m "\"Truth be told—\""
+    m ""
+
+# game/cliffroute3.rpy:1504
+translate Tchinese aftercliffint2_ea2348ee:
+
+    # "If I walked, I could probably make it on my own to Camp Rosa."
+    ""
+
+# game/cliffroute3.rpy:1559
+translate Tchinese aftercliffint2_140abaa2:
+
+    # "We turn to see the horse crouching to stand in the small doorway as he makes his way inside."
+    ""
+
+# game/cliffroute3.rpy:1593
+translate Tchinese aftercliffint2_66826bd5:
+
+    # m "\"You’re overselling my contributions.\""
+    m ""
+
+# game/cliffroute3.rpy:1670
+translate Tchinese aftercliffint2_0d6643ba:
+
+    # mu "\"We had multiple different experienced trackers experience problems and inconsistencies.\""
+    mu ""
+
+# game/cliffroute3.rpy:1676
+translate Tchinese aftercliffint2_69e68940:
+
+    # cl "\"I know there are various types of hallucinogenic gasses that cause people to lose track of such things, and we must have fallen victim without realizing.\""
+    cl ""
+
+# game/cliffroute3.rpy:1684
+translate Tchinese aftercliffint2_293c33ea:
+
+    # jeb "\"Here’s something simpler, Mr. Tibbits.\""
+    jeb ""
+
+# game/cliffroute3.rpy:1717
+translate Tchinese aftercliffint2_a3deefa5:
+
+    # "He ducks down and out of the room, slamming the door behind him."
+    ""
+
+# game/cliffroute3.rpy:1719
+translate Tchinese aftercliffint2_d8f2a560:
+
+    # "We can hear him trot down the stairs in a hurry."
+    ""
+
+# game/cliffroute3.rpy:1752
+translate Tchinese aftercliffint2_be24499c:
+
+    # "I look at Murdoch to see his reaction to this."
+    ""
+
+# game/cliffroute3.rpy:1785
+translate Tchinese aftercliffint2_65a35e7e:
+
+    # "The stoat’s lip trembles."
+    ""
+
+# game/cliffroute3.rpy:1788
+translate Tchinese aftercliffint2_e3db045d:
+
+    # "He takes off his glasses to wipe them off, and then places them back with trembling hands."
+    ""
+
+# game/cliffroute3.rpy:1790
+translate Tchinese aftercliffint2_9965d1a4:
+
+    # cl "\"You’re both right, of course.\""
+    cl ""
+
+# game/cliffroute3.rpy:1799
+translate Tchinese aftercliffint2_e38dcb47:
+
+    # cl "\"This is my first expedition, and I should be trying harder to be on my best behavior.\""
+    cl ""
+
+# game/cliffroute3.rpy:1800
+translate Tchinese aftercliffint2_de58789a:
+
+    # cl "\"I don’t know what I’m doing, and this is the last impression the both of you will have of me if this really is our last week together.\""
+    cl ""
+
+# game/cliffroute3.rpy:1807
+translate Tchinese aftercliffint2_d6b84d8b:
+
+    # m "\"Hey, Professor?\""
+    m ""
+
+# game/cliffroute3.rpy:1821
+translate Tchinese aftercliffint2_afb69e74:
+
+    # "Me and Murdoch look at one another again, and then back to Cliff."
+    ""
+
+# game/cliffroute3.rpy:1827
+translate Tchinese aftercliffint2_5fcd380e:
+
+    # "He walks out of the room, not exactly slamming the door, but not closing it gently neither."
+    ""
+
+# game/cliffroute3.rpy:1853
+translate Tchinese aftercliffint2_7ba20a6a:
+
+    # "He stops shuffling through his pack and looks in my direction."
+    ""
+
+# game/cliffroute3.rpy:1860
+translate Tchinese aftercliffint2_ca30743a:
+
+    # "The fox narrows his eyes."
+    ""
+
+# game/cliffroute3.rpy:1875
+translate Tchinese aftercliffint2_fbc9f7a0:
+
+    # m "\"Just make sure you stumble first. And make sure to tell me what you learn before you bleed out.\""
+    m ""
+
+# game/cliffroute3.rpy:1883
+translate Tchinese aftercliffint2_4922bf45:
+
+    # "I ask directions to the few people wandering outside, but I'm only met with avoidant glances, head shakes, and quick words in a language I don’t understand."
+    ""
+
+# game/cliffroute3.rpy:1913
+translate Tchinese aftercliffint2_8343e489:
+
+    # "There’s Yiska, that bear from the trip, hitting a drum."
+    ""
+
+# game/cliffroute3.rpy:1941
+translate Tchinese aftercliffint2_d32d100a:
+
+    # "He lets out a string of chants, then starts to play his drum again."
+    ""
+
+# game/cliffroute3.rpy:1942
+translate Tchinese aftercliffint2_9241b8d7:
+
+    # "Another group of men passes by, some carrying pillows."
+    ""
+
+# game/cliffroute3.rpy:1943
+translate Tchinese aftercliffint2_5e875f96:
+
+    # "Another, a paper lamp with wooden siding that has leaves whittled out of it."
+    ""
+
+# game/cliffroute3.rpy:1992
+translate Tchinese aftercliffint2_b57e1918:
+
+    # ts "\"Do not compare my people to your fantasies of the world molded in your image.\""
+    ts ""
+
+# game/cliffroute3.rpy:2002
+translate Tchinese aftercliffint2_dd392eaf:
+
+    # "A shadow of doubt crosses the kit fox’s face."
+    ""
+
+# game/cliffroute3.rpy:2016
+translate Tchinese aftercliffint2_2736eb79:
+
+    # m "\"We followed the law and the religion of our township, but that place and my family are practically dead to me.\""
+    m ""
+
+# game/cliffroute3.rpy:2030
+translate Tchinese aftercliffint2_6a416692:
+
+    # m "\"I still don’t see what makes your faith so much better or different than mine.\""
+    m ""
+
+# game/cliffroute3.rpy:2077
+translate Tchinese aftercliffint2_5876e302:
+
+    # ts "\"The clergy doesn’t care as much about what the older generation does.\""
+    ts ""
+
+# game/cliffroute3.rpy:2127
+translate Tchinese aftercliffint2_0fc16ab1:
+
+    # ts "\"The unnatural things that plague us.\""
+    ts ""
+
+# game/cliffroute3.rpy:2171
+translate Tchinese aftercliffint2_0e51a010:
+
+    # ts "\"It can take place for nine nights, alongside many other rituals.\""
+    ts ""
+
+# game/cliffroute3.rpy:2191
+translate Tchinese aftercliffint2_60e1f854:
+
+    # m "\"That little stoat fella rode all the way across the sea just to hear about stuff like this.\""
+    m ""
+
+# game/cliffroute3.rpy:2235
+translate Tchinese aftercliffint2_a5ac6b54:
+
+    # m "\"...Huh.\""
+    m ""
+
+# game/cliffroute3.rpy:2249
+translate Tchinese aftercliffint2_62259c48:
+
+    # ts "\"She is my cousin.\""
+    ts ""
+
+# game/cliffroute3.rpy:2287
+translate Tchinese aftercliffint2_45de933b:
+
+    # m "\"Have you been to Camp Rosa yourself?\""
+    m ""
+
+# game/cliffroute3.rpy:2361
+translate Tchinese aftercliffint2_2a379116:
+
+    # "There’s thrashing and galloping and the sound of something repeatedly slamming into wood."
+    ""
+
+# game/cliffroute3.rpy:2390
+translate Tchinese aftercliffint2_a450f05d:
+
+    # "If I try, I can make out some shapes that might be barns in the distance, but they look more like blobs to me."
+    ""
+
+# game/cliffroute3.rpy:2421
+translate Tchinese aftercliffint2_7235d18f:
+
+    # ts "\"What we might have heard was one of the pack animals smelling the wound of the other animal.\""
+    ts ""
+
+# game/cliffroute3.rpy:2472
+translate Tchinese aftercliffint2_55b7243a:
+
+    # "I think about how far above the canyon this settlement is."
+    ""
+
+# game/cliffroute3.rpy:2475
+translate Tchinese aftercliffint2_b6df8abf:
+
+    # "But then I stop moving."
+    ""
+
+# game/cliffroute3.rpy:2581
+translate Tchinese aftercliffint2_d34bbff2:
+
+    # "Even I don’t believe it when I say that, but I don’t want to think about any other possibility."
+    ""
+
+# game/cliffroute3.rpy:2744
+translate Tchinese cliffroute3a_7a380571:
+
+    # "I sink deeper into the couch, thinking of one of Benton’s piano pieces back at the Hip to drown out the sound of the bugs and taps of wood against the glass."
+    ""
+
+# game/cliffroute3.rpy:3294
+translate Tchinese cliffroute3a_356ed85d:
+
+    # "All I want to do now is focus on finishing my breakfast."
+    ""
+
+# game/cliffroute3.rpy:3314
+translate Tchinese cliffroute3a_ee727877:
+
+    # av "\"Well if it isn’t Mr. Tibbits’s bodyguard.\""
+    av ""
+
+# game/cliffroute3.rpy:3347
+translate Tchinese cliffroute3a_159db879:
+
+    # m "\"Thanks, Doc.\""
+    m ""
+
+# game/cliffroute3.rpy:3354
+translate Tchinese cliffroute3a_c6da8e3c:
+
+    # m "\"...Thanks, Doc.\""
+    m ""
+
+# game/cliffroute3.rpy:3362
+translate Tchinese cliffroute3a_5991ab75:
+
+    # av "\"But I bet they’ll just charge you a pretty penny to say ‘keep it wrapped and don’t put pressure on it.’\""
+    av ""
+
+# game/cliffroute3.rpy:3374
+translate Tchinese cliffroute3a_459cf7f5:
+
+    # m "\"What have you been doing around the settlement since yesterday?\""
+    m ""
+
+# game/cliffroute3.rpy:3589
+translate Tchinese cliffroute3a_f7a8b71d:
+
+    # av "\"Now that you’re mobile again I figure I’d better mention that your travel companions were looking for you yesterday.\""
+    av ""
+
+# game/cliffroute3.rpy:3672
+translate Tchinese cliffroute3a_47ad6509:
+
+    # "In the woods, he whistled while he walked away, but now he stays quiet, increasing his distance until he disappears between the pine trees."
+    ""
+
+# game/cliffroute3.rpy:3696
+translate Tchinese cliffroute3a_1ea183ce:
+
+    # "I hear the sound of Murdoch’s voice and the sounds of scrabbling through papers on a desk before a chair pushes out and somebody’s footsteps get closer."
+    ""
+
+# game/cliffroute3.rpy:3726
+translate Tchinese cliffroute3a_dfd8dc1e:
+
+    # "Jeb looks like he’s about to say something, but Murdoch butts in."
+    ""
+
+# game/cliffroute3.rpy:3817
+translate Tchinese cliffroute3a_7459eb17:
+
+    # "That feels like forever ago after what we’ve been through."
+    ""
+
+# game/cliffroute3.rpy:3829
+translate Tchinese cliffroute3a_1efbf1ec:
+
+    # "The longer I look at it, the more I can almost smell the corpses of Jeb’s donkeys."
+    ""
+
+# game/cliffroute3.rpy:3900
+translate Tchinese cliffroute3a_8e135521:
+
+    # jeb "\"Still, we’ve had a lot of luck since the assault, so it’s hard to be too pessimistic about our success, or lack of it, depending on how you want to look at things.\""
+    jeb ""
+
+# game/cliffroute3.rpy:3914
+translate Tchinese cliffroute3a_49cc5473:
+
+    # m "\"But at the beginning of the trip, Professor Tibbits said he’s like us when he was talkin’ to you.\""
+    m ""
+
+# game/cliffroute3.rpy:3922
+translate Tchinese cliffroute3a_e9f4856e:
+
+    # "Jeb scrunches up his face, as if confused,{nw}"
+    ""
+
+# game/cliffroute3.rpy:3924
+translate Tchinese cliffroute3a_baaa9f76:
+
+    # extend " before his eyes widen."
+    extend ""
+
+# game/cliffroute3.rpy:3929
+translate Tchinese cliffroute3a_3b00658d:
+
+    # "He takes off his hat and fans himself with it."
+    ""
+
+# game/cliffroute3.rpy:3965
+translate Tchinese cliffroute3a_e77ff83d:
+
+    # "Through all of my long nights and all of my bitter travels, it wasn’t until last night that I thought, “My God, maybe this really was all worth it.”"
+    ""
+
+# game/cliffroute3.rpy:4101
+translate Tchinese cliffroute3a_0270e241:
+
+    # "It’s empty right now, and he leads us through a corridor on the left side of the crucifix-shaped building."
+    ""
+
+# game/cliffroute3.rpy:4109
+translate Tchinese cliffroute3a_173e1889:
+
+    # "Several dozen boys and girls dressed in white shirts and black pants are looking over the Bible, copying specific passages onto brown paper with quills and ink."
+    ""
+
+# game/cliffroute3.rpy:4120
+translate Tchinese cliffroute3a_d278f056:
+
+    # ca "\"Heating and guaranteed lunch and morning meals that they would often otherwise miss are provided.\""
+    ca ""
+
+# game/cliffroute3.rpy:4135
+translate Tchinese cliffroute3a_7afc6d4f:
+
+    # "I could easily see myself attending a school not unlike this in Batavia, had my parents been poorer."
+    ""
+
+# game/cliffroute3.rpy:4157
+translate Tchinese cliffroute3a_4c5b3590:
+
+    # "There are wild flowers and fruit trees of many varieties placed perfectly into snug, raised beds."
+    ""
+
+# game/cliffroute3.rpy:4216
+translate Tchinese cliffroute3a_4035ebfe:
+
+    # cl "\"Why, I’d never forgive myself if I crushed some by accident, or made a mess of all the precious honeycomb.\""
+    cl ""
+
+# game/cliffroute3.rpy:4237
+translate Tchinese cliffroute3a_a8cb860e:
+
+    # "Inside, there are hats with nets tied to the brim, and thick, hardy gloves made of reinforced canvas."
+    ""
+
+# game/cliffroute3.rpy:4254
+translate Tchinese cliffroute3a_b1d4a1e0:
+
+    # "Yiska pulls something off of a barrel. It looks like a metal can with a bellows attached behind it that has a long metal tip that’s stoppered with a cork."
+    ""
+
+# game/cliffroute3.rpy:4262
+translate Tchinese cliffroute3a_faf5e56a:
+
+    # ys "\"We can start a flame with cardboard and pine needles that burns inside, and we can puff out the smoke using the spout and the bellows.\""
+    ys ""
+
+# game/cliffroute3.rpy:4275
+translate Tchinese cliffroute3a_bbd10257:
+
+    # "We leave the shed, locking it behind us as the bear leans over to scoop dry pine needles off of the floor, stuffing them into the smoker."
+    ""
+
+# game/cliffroute3.rpy:4279
+translate Tchinese cliffroute3a_96c14a2d:
+
+    # "But eventually he closes the top and squeezes the bellows a few times to show me the puffs of concentrated smoke that emit from the spout."
+    ""
+
+# game/cliffroute3.rpy:4286
+translate Tchinese cliffroute3a_7c96b37a:
+
+    # "The bear squeezes the bellows and aims the nozzle at the opening of the box where bees are climbing out."
+    ""
+
+# game/cliffroute3.rpy:4350
+translate Tchinese cliffroute3a_1ffe2aa4:
+
+    # "It smells shyly of honeysuckle, but there is a strong, melony scent of saguaro flowers within."
+    ""
+
+# game/cliffroute3.rpy:4365
+translate Tchinese cliffroute3a_67909420:
+
+    # ys "\"I just pictured you as a more delicate eater.\""
+    ys ""
+
+# game/cliffroute3.rpy:4368
+translate Tchinese cliffroute3a_d2b7b455:
+
+    # "I forgot that we didn’t even eat breakfast, and my stomach rumbles."
+    ""
+
+# game/cliffroute3.rpy:4370
+translate Tchinese cliffroute3a_fc6c832d:
+
+    # "A sudden draft blows in, and it blows soft ripples over the grass."
+    ""
+
+# game/cliffroute3.rpy:4380
+translate Tchinese cliffchoice4_76638014:
+
+    # "Of course a school like this would seem normal to me."
+    ""
+
+# game/cliffroute3.rpy:4450
+translate Tchinese cliffchoice4_c535d161:
+
+    # cl "\"Is this the work of that animal that was tracking us in the woods?\""
+    cl ""
+
+# game/cliffroute3.rpy:4457
+translate Tchinese cliffchoice4_8edc5fab:
+
+    # "...like {i}no way out on foot or cart{/i}."
+    ""
+
+# game/cliffroute3.rpy:4484
+translate Tchinese cliffchoice4_e02d4b90:
+
+    # ca "\"That man is out of order.\""
+    ca ""
+
+# game/cliffroute3.rpy:4629
+translate Tchinese cliffchoice5_040443b7:
+
+    # "Caldwell looks at me like I’ve lost my mind."
+    ""
+
+# game/cliffroute3.rpy:4652
+translate Tchinese cliffchoice5_b91bd45d:
+
+    # ca "\"Since the moment you stepped into this settlement, I’ve seen nothing but insubordination and instigation.\""
+    ca ""
+
+# game/cliffroute3.rpy:4687
+translate Tchinese cliffchoice5_b3ec8e7a:
+
+    # "I try to open the door, but I know it’s locked from the outside."
+    ""
+
+# game/cliffroute3.rpy:4698
+translate Tchinese cliffchoice5_859f519e:
+
+    # "I’m sweating, and I try not to panic about how I haven’t drunk any water in hours."
+    ""
+
+# game/cliffroute3.rpy:4700
+translate Tchinese cliffchoice5_15b643ef:
+
+    # "I bang again, hoping to see the man or the young girl who was out on the lawn."
+    ""
+
+# game/cliffroute3.rpy:4733
+translate Tchinese cliffchoice5_8b5e0ded:
+
+    # "My heart sinks, knowing I’ll have to dig deeper."
+    ""
+
+# game/cliffroute3.rpy:4750
+translate Tchinese cliffchoice5_e2648a0e:
+
+    # "I think I'm on scoop four hundred or so, but I started to lose count in the 300’s."
+    ""
+
+# game/cliffroute3.rpy:4773
+translate Tchinese cliffchoice5_0048b9ba:
+
+    # "An awful noise comes out of me, and I start to bleed a little."
+    ""
+
+# game/cliffroute3.rpy:4798
+translate Tchinese cliffchoice5_f58e0657:
+
+    # cl "\"You can’t possibly be blaming me for that.\""
+    cl ""
+
+# game/cliffroute3.rpy:4811
+translate Tchinese cliffchoice5_cde69d8c:
+
+    # cl "\"Besides, even if he could, I don’t think he would take something’s head off.\""
+    cl ""
+
+# game/cliffroute3.rpy:4870
+translate Tchinese cliffchoice5_ea37991f:
+
+    # cl "\"...Who told you about that?\""
+    cl ""
+
+# game/cliffroute3.rpy:4905
+translate Tchinese cliffchoice5_e5a737d4:
+
+    # cl "\"...Why are you being this cruel?\""
+    cl ""
+
+# game/cliffroute3.rpy:4908
+translate Tchinese cliffchoice5_6ac4d96b:
+
+    # "I’m so dizzy now from the sickness and this unbearable weight that I feel in my body, I can’t see straight."
+    ""
+
+# game/cliffroute3.rpy:4920
+translate Tchinese cliffchoice5_bc103a4a:
+
+    # ca "\"Now you have brought your misfortunes to me and my people.\""
+    ca ""
+
+# game/cliffroute3.rpy:4932
+translate Tchinese cliffchoice5_ca14c194:
+
+    # ca "\"{cps=20}And I’ll be telling Hendricks to send somebody more reliab—\"{w=0.3}{nw}"
+    ca ""
+
+# game/cliffroute3.rpy:4985
+translate Tchinese cliffchoice5_b4a2e56a:
+
+    # "They have horns. The light of the moon reflects off their glasses."
+    ""
+
+# game/cliffroute3.rpy:5024
+translate Tchinese cliffchoice5_4319148a:
+
+    # av "\"But do you want to know what the worst thing about all of this is, Reverend?\""
+    av ""
+
+# game/cliffroute3.rpy:5059
+translate Tchinese cliffchoice5_53c145db:
+
+    # "But staying home would have been a mistake too."
+    ""
+
+# game/cliffroute3.rpy:5169
+translate Tchinese cliffchoice5_1abe8152:
+
+    # m "\"Easy enough. He’s lighter than his luggage.\""
+    m ""
+
+# game/cliffroute3.rpy:5213
+translate Tchinese cliffchoice5_04d405cf:
+
+    # "I try to protest as Sam lifts me under my arms, shakes his head, and whistles as Murdoch forms suds with a rag and a piece of the nice soap with oats in it from his family’s store."
+    ""
+
+# game/cliffroute3.rpy:5220
+translate Tchinese cliffchoice5_90764df8:
+
+    # m "\"Ain’t any mint perfume gonna cover that. We need purifying soap.\""
+    m ""
+
+# game/cliffroute3.rpy:5347
+translate Tchinese cliffchoice5_a2259a11:
+
+    # jeb "\"How are y’all gettin’ more injured in the settlement than on the journey?\""
+    jeb ""
+
+# game/cliffroute3.rpy:5458
+translate Tchinese cliffchoice5_6a4ea7f2:
+
+    # "The bear, Yiska, is sitting on top of what I first think is an old sequoia tree stump, but the closer I look, the bark becomes hair and skin."
+    ""
+
+# game/cliffroute3.rpy:5459
+translate Tchinese cliffchoice5_1216b7d1:
+
+    # "He’s chatting with others in the Meseta language, although it sounds like he has a slight lisp he didn't have before, as if he had a tongue injury."
+    ""
+
+# game/cliffroute3.rpy:5460
+translate Tchinese cliffchoice5_4bc6e11f:
+
+    # "He’s holding onto a spear in his left hand that has punctured beneath the jaw of the great pig, and Tsela is sitting next to him, comfortable."
+    ""
+
+# game/cliffroute3.rpy:5465
+translate Tchinese cliffchoice5_2683d4ef:
+
+    # "I’m starting to wonder whether or not what we ran into in the forest really was just a big old pissed off hog."
+    ""
+
+# game/cliffroute3.rpy:5467
+translate Tchinese cliffchoice5_5b984a8d:
+
+    # "As I think about this, I notice something strange."
+    ""
+
+translate Tchinese strings:
+
+    # game/cliffroute3.rpy:4373
+    old "There are too many implications which concern me."
+    new ""
+

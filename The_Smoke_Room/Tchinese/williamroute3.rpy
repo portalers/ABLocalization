@@ -53706,3 +53706,185 @@ translate Tchinese marcymerge_324babf1:
     # "Her eyes widen as her mouth breaks into a smile."
     "她的眼睛突然睜得大大的，嘴角也綻開了笑容。"
 
+# TODO: Translation updated at 2025-06-06 01:45
+
+# game/williamroute3.rpy:667
+translate Tchinese williamroute3_54a8a9ac:
+
+    # "His fat monster of a cock is just drumming against his belly now."
+    ""
+
+# game/williamroute3.rpy:814
+translate Tchinese willbedchoice_300fc4ad:
+
+    # "That Jack fella really fucked him up."
+    ""
+
+# game/williamroute3.rpy:918
+translate Tchinese willbedchoice_8b7f1402:
+
+    # "Todd’s still pounding on the door like a madman."
+    ""
+
+# game/williamroute3.rpy:938
+translate Tchinese willbedchoice_bf61018a:
+
+    # wi "\"Oh, yeah? And what sort of state was he in?\""
+    wi ""
+
+# game/williamroute3.rpy:1107
+translate Tchinese willbedchoice_e4070725:
+
+    # cl "\"That’s splendid, but I won’t feel a moment’s peace with that madman on the loose.\""
+    cl ""
+
+# game/williamroute3.rpy:1318
+translate Tchinese willbedchoice_cf4c1b10:
+
+    # "We wait a while outdoors until we see a very weary-looking Murdoch emerge from the apartment."
+    ""
+
+# game/williamroute3.rpy:1443
+translate Tchinese cityhallnight_2096553e:
+
+    # to "\"I’ll admit I need to brush up on my Old Testament, but the way you said that made me feel I was sweating in the pews.\""
+    to ""
+
+# game/williamroute3.rpy:1463
+translate Tchinese cityhallnight_da967b79:
+
+    # "Sam sure is invested in the Bible."
+    ""
+
+# game/williamroute3.rpy:1630
+translate Tchinese cityhallnight_56a642f6:
+
+    # wi "\"Of Mr. Tibbits?\""
+    wi ""
+
+# game/williamroute3.rpy:1705
+translate Tchinese cityhallnight_33082a0a:
+
+    # "Chrissy isn’t at reception right now, but I’ve been through these halls so much I won’t need to wait for her."
+    ""
+
+# game/williamroute3.rpy:1999
+translate Tchinese williamchallmenu_5a83f588:
+
+    # jam "\"Now {i}that{/i} I can’t talk about.\""
+    jam ""
+
+# game/williamroute3.rpy:2022
+translate Tchinese williamchallmenu_1df11d25:
+
+    # wi "\"Little fella who goes by the name Clifford Tibbits.\""
+    wi ""
+
+# game/williamroute3.rpy:2522
+translate Tchinese willstagmenu2_5f5a05c6:
+
+    # "Strange fella."
+    ""
+
+# game/williamroute3.rpy:2603
+translate Tchinese willstagmenu2_81324f45:
+
+    # pa "\"If you’re here to sniff around for information about James, the Stag won’t do you much good.\""
+    pa ""
+
+# game/williamroute3.rpy:2606
+translate Tchinese willstagmenu2_b8b7a9e4:
+
+    # pa "\"The Hip is more his speed.\""
+    pa ""
+
+# game/williamroute3.rpy:3079
+translate Tchinese samstation_a670cf59:
+
+    # m "\"Is that smoked salmon?\""
+    m ""
+
+# game/williamroute3.rpy:3126
+translate Tchinese hipinvestigation_a6217eca:
+
+    # "Mormons and Meseta; Marxists and capitalists; atheists and Protestants; suffragettes and satirists; bull moose boys and yes-men conservatives."
+    ""
+
+# game/williamroute3.rpy:3578
+translate Tchinese hipinvestigation1_27a0fa4c:
+
+    # cy "\"I decided a long time ago that I’d rather sell my body than let another man like that take away my freedom.\""
+    cy ""
+
+# game/williamroute3.rpy:5394
+translate Tchinese williamroute3a_8defb835:
+
+    # m "\"Saying the Lord’s name in vain already?\""
+    m ""
+
+# game/williamroute3.rpy:5528
+translate Tchinese williamroute3a_12570f58:
+
+    # wi "\"What’s a fella like you doing all the way out here?\""
+    wi ""
+
+# game/williamroute3.rpy:8555
+translate Tchinese postwillinvestigation3_97fb9772:
+
+    # ni "\"Preferably in a room with closed walls and no windows.\""
+    ni ""
+
+# game/williamroute3.rpy:8976
+translate Tchinese williamroute3c_dbf609ec:
+
+    # "He wags his index finger."
+    ""
+
+# game/williamroute3.rpy:9005
+translate Tchinese williamroute3c_e66230a1:
+
+    # "That would spread to the Madam, and I wouldn't be welcome here anymore."
+    ""
+
+# game/williamroute3.rpy:9987
+translate Tchinese williamroute3c_0c848bfb:
+
+    # m "\"He ain’t ever been the nicest fella, but he’s fair enough if you don’t give him any trouble.\""
+    m ""
+
+# game/williamroute3.rpy:10341
+translate Tchinese williamroute3c_bd4ca93c:
+
+    # wi "\"Good thing alcohol tends to clean even the dirtiest of mouths.\""
+    wi ""
+
+# game/williamroute3.rpy:11162
+translate Tchinese williamroute3c_183efd64:
+
+    # mu "\"The Hip is still a brothel, Mr. Tibbits, but it’s world famous for its entertainment and its organizational policies.\""
+    mu ""
+
+# game/williamroute3.rpy:12314
+translate Tchinese samwill5_dcb900e6:
+
+    # to "\"What exactly are you fellas talking about that’s gettin’ folks so jumpy?\""
+    to ""
+
+# game/williamroute3.rpy:12475
+translate Tchinese willkanechoice_3e359435:
+
+    # to "\"How about we tell that Mr. Tibbits fella?\""
+    to ""
+
+# game/williamroute3.rpy:12482
+translate Tchinese willkanechoice_62bdc41c:
+
+    # ka "\"Don’t keep me waiting, fellas.\""
+    ka ""
+
+# game/williamroute3.rpy:14140
+translate Tchinese swndecline_4ca49a89:
+
+    # wi "\"But I owe the Madam a favor or two.\""
+    wi ""
+

@@ -13590,3 +13590,23 @@ translate Tchinese after_sw1_51afd4df:
 
     # sc "\"On it, Madam.\""
     sc "我這就去，夫人。"
+# TODO: Translation updated at 2025-06-06 01:45
+
+# game/williamroute2.rpy:1968
+translate Tchinese after_sw1_a5b1daad:
+
+    # cy "\"But some people like to be scared at this stuff and I don’t want to ruin their fun.\""
+    cy ""
+
+# game/williamroute2.rpy:2174
+translate Tchinese after_sw1_8815fb59:
+
+    # ha "\"I got ‘im.\""
+    ha ""
+
+# game/williamroute2.rpy:2533
+translate Tchinese dd1b_dbe756d9:
+
+    # ha "\"This man is the piss poorest liar I’ve met in my life.\""
+    ha ""
+

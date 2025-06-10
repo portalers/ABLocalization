@@ -1367,3 +1367,23 @@ translate Tchinese strings:
     old "Retry"
     new ""
 
+# TODO: Translation updated at 2025-06-06 01:45
+
+translate Tchinese strings:
+
+    # renpy/common/00accessibility.rpy:198
+    old "Self-voicing support is limited when using a touch screen."
+    new ""
+
+    # renpy/common/00translation.rpy:63
+    old "Translation identifier: [identifier]"
+    new ""
+
+    # renpy/common/00translation.rpy:84
+    old " translates [tl.filename]:[tl.linenumber]"
+    new ""
+
+    # renpy/common/00translation.rpy:101
+    old "\n{color=#fff}Copied to clipboard.{/color}"
+    new ""
+

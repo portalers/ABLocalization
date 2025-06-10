@@ -7873,3 +7873,311 @@ translate Tchinese cliffroute_6dddad4a:
     # cl "\"Oh, thank you! And Clifford is fine. Anyway, Samuel--\""
     cl "哦，謝謝你！還有叫我Cliff就好。 總而言之，Samuel——"
 
+# TODO: Translation updated at 2025-06-06 01:45
+
+# game/cliffroute.rpy:48
+translate Tchinese cliffroute_e9c564ee:
+
+    # m "\"It's not the worst place to spend an evening, I s'pose.\""
+    m ""
+
+# game/cliffroute.rpy:58
+translate Tchinese cliffroute_b9360a0e:
+
+    # cl "\"I’m quite alright, thank you. Just a tad... rattled, I suppose.\""
+    cl ""
+
+# game/cliffroute.rpy:129
+translate Tchinese cliffroute_e3792ded:
+
+    # cl "\"As for my mother... she passed away about ten years ago.\""
+    cl ""
+
+# game/cliffroute.rpy:143
+translate Tchinese cliffroute_3f93d86f:
+
+    # cl "\"Oh, t-that's...\""
+    cl ""
+
+# game/cliffroute.rpy:169
+translate Tchinese cliffroute_9db54b68:
+
+    # cl "\"Oh no! The order's all scrambled...\""
+    cl ""
+
+# game/cliffroute.rpy:173
+translate Tchinese cliffroute_0bc735e3:
+
+    # cl "\"Alright, that should be all of them. Please forgive me, Samuel. I didn't mean to waste our precious time together behaving so... well, clumsily. Now...\""
+    cl ""
+
+# game/cliffroute.rpy:176
+translate Tchinese cliffroute_571f7fc3:
+
+    # cl "\"May I... touch you?\""
+    cl ""
+
+# game/cliffroute.rpy:178
+translate Tchinese cliffroute_48ff0827:
+
+    # cl "\"I suppose it is, yes! Alright, here goes...\""
+    cl ""
+
+# game/cliffroute.rpy:193
+translate Tchinese cliffroute_e2806f8e:
+
+    # cl "\"Mm...\""
+    cl ""
+
+# game/cliffroute.rpy:199
+translate Tchinese cliffroute_208221b6:
+
+    # cl "\"Haah... P-Pardon my enthusiasm, I've been waiting for this all evening...\""
+    cl ""
+
+# game/cliffroute.rpy:215
+translate Tchinese cliffroute_fde02400:
+
+    # cl "\"It's... a price I'm willing to pay just for this.\""
+    cl ""
+
+# game/cliffroute.rpy:226
+translate Tchinese cliffroute_1ab87bba:
+
+    # m "\"Very sensitive...\""
+    m ""
+
+# game/cliffroute.rpy:228
+translate Tchinese cliffroute_f9893edb:
+
+    # cl "\"W-Well...\""
+    cl ""
+
+# game/cliffroute.rpy:241
+translate Tchinese cliffroute_6f3d7461:
+
+    # cl "\"I didn’t know you could use your tongue like that...\""
+    cl ""
+
+# game/cliffroute.rpy:242
+translate Tchinese cliffroute_1866051b:
+
+    # m "\"Well... when you think about what feels nice on your own, it’s easy to come up with things.\""
+    m ""
+
+# game/cliffroute.rpy:253
+translate Tchinese cliffroute_27d79d75:
+
+    # "The insides of the little weasel’s ear tips look the color of cherry tomatoes and I can’t help but give him my toothiest grin."
+    ""
+
+# game/cliffroute.rpy:264
+translate Tchinese cliffroute_e99c0ebd:
+
+    # m "\"Getting used to the new taste...\""
+    m ""
+
+# game/cliffroute.rpy:282
+translate Tchinese cliffroute_564c484f:
+
+    # cl "\"Better...\""
+    cl ""
+
+# game/cliffroute.rpy:283
+translate Tchinese cliffroute_b8b176fa:
+
+    # cl "\"...but only because it tastes like my mouth spray.\""
+    cl ""
+
+# game/cliffroute.rpy:307
+translate Tchinese cliffroute_fff515d7:
+
+    # m "\"You’re very talented, Professor.\""
+    m ""
+
+# game/cliffroute.rpy:323
+translate Tchinese cliffroute_daff9c63:
+
+    # m "\"Well... I suppose you’ve got me there.\""
+    m ""
+
+# game/cliffroute.rpy:326
+translate Tchinese cliffroute_f84c8813:
+
+    # cl "\"Well... perhaps you could turn around?\""
+    cl ""
+
+# game/cliffroute.rpy:351
+translate Tchinese cliffroute_5072008b:
+
+    # cl "\"Granted, with women there are... different techniques involved, and different... parts, of course.\""
+    cl ""
+
+# game/cliffroute.rpy:370
+translate Tchinese cliffroute_362a562e:
+
+    # "Some of his seed escapes the inside of my cheek and dribbles down the side of my chin due to the power of it."
+    ""
+
+# game/cliffroute.rpy:396
+translate Tchinese cliffroute_c8a3f6ff:
+
+    # "From the corner of my eye, on the other end of the room, I can make out the faint shape of... something."
+    ""
+
+# game/cliffroute.rpy:425
+translate Tchinese cliffroute_9ff87811:
+
+    # cl "\"Are... are you alright?\""
+    cl ""
+
+# game/cliffroute.rpy:450
+translate Tchinese cliffroute_8b7d51b6:
+
+    # m "\"And there was this smell...\""
+    m ""
+
+# game/cliffroute.rpy:451
+translate Tchinese cliffroute_115799bd:
+
+    # cl "\"This creature... What did it look like?\""
+    cl ""
+
+# game/cliffroute.rpy:602
+translate Tchinese cliffroute_81f1b0ae:
+
+    # cy "\"You mean besides the Madam just about ready to throw herself at you?\""
+    cy ""
+
+# game/cliffroute.rpy:692
+translate Tchinese cliffroute_a3c5c752:
+
+    # "It passes just as quickly as it picked up."
+    ""
+
+# game/cliffroute.rpy:779
+translate Tchinese cliffroute_015d913c:
+
+    # mu "\"Don’t tell the sheriff I told you this, but...\""
+    mu ""
+
+# game/cliffroute.rpy:784
+translate Tchinese cliffroute_8c5e366e:
+
+    # mu "\"Sheriff said none of the big players in town are getting any rest until the perpetrator’s hanging from the gallows.\""
+    mu ""
+
+# game/cliffroute.rpy:824
+translate Tchinese cliffroute_aa95e756:
+
+    # "She looks at me once more and narrows her eyes."
+    ""
+
+# game/cliffroute.rpy:826
+translate Tchinese cliffroute_309b6728:
+
+    # cy "\"Didn’t see him, myself. The Madam took care of it. Brought him straight to your room.\""
+    cy ""
+
+# game/cliffroute.rpy:827
+translate Tchinese cliffroute_8f060216:
+
+    # "That’s... unusual. They don’t even do that for my richer clients."
+    ""
+
+# game/cliffroute.rpy:898
+translate Tchinese cliffroute_5e6cfd56:
+
+    # "The intensity of his attention and the smell of his erection have me hard too, and I feel myself begin to leak as much as him."
+    ""
+
+# game/cliffroute.rpy:964
+translate Tchinese cliffroute_b2471095:
+
+    # "The ram hobbles to the door, turning around to look at me before he slips into the doorway."
+    ""
+
+# game/cliffroute.rpy:982
+translate Tchinese cliffroute_27f32f50:
+
+    # m "\"Leave me alone...\""
+    m ""
+
+# game/cliffroute.rpy:1078
+translate Tchinese cliffroute_727c2f42:
+
+    # m "\"Back for your next lesson so soon, Professor?\""
+    m ""
+
+# game/cliffroute.rpy:1091
+translate Tchinese cliffroute_bae02f7c:
+
+    # cl "\"Yes, well, hm...\""
+    cl ""
+
+# game/cliffroute.rpy:1103
+translate Tchinese cliffroute_a9c10fe0:
+
+    # "I'd get to... leave Echo?"
+    ""
+
+# game/cliffroute.rpy:1113
+translate Tchinese cliffroute_0b63e578:
+
+    # cl "\"I think I would feel a lot safer traveling with someone I can trust. Someone like you, Sam.\""
+    cl ""
+
+# game/cliffroute.rpy:1191
+translate Tchinese cliffroute_175046ec:
+
+    # "She gently takes my arm and smiles."
+    ""
+
+# game/cliffroute.rpy:1341
+translate Tchinese cliffroute_74e1c54b:
+
+    # m "\"And where exactly did you find somebody like that last minute?\""
+    m ""
+
+# game/cliffroute.rpy:1395
+translate Tchinese cliffroute_20f59a02:
+
+    # m "\"Keep it down...\""
+    m ""
+
+# game/cliffroute.rpy:1595
+translate Tchinese cliffroute_3ebf405b:
+
+    # cl "\"Oh, Samuel! So sorry to have frightened you. I just... spilled some tea water on myself.\""
+    cl ""
+
+# game/cliffroute.rpy:1674
+translate Tchinese cliffroute_17b7e7d6:
+
+    # cl "\"Though there is...\""
+    cl ""
+
+# game/cliffroute.rpy:1682
+translate Tchinese cliffroute_8c8288b4:
+
+    # cl "\"Not even the sheriff could help in the end...\""
+    cl ""
+
+# game/cliffroute.rpy:1704
+translate Tchinese cliffroute_db72d450:
+
+    # cl "\"Now, watch my footwork...\""
+    cl ""
+
+# game/cliffroute.rpy:1749
+translate Tchinese cliffroute_ff25f9d2:
+
+    # m "\"Goodnight, Professor.\""
+    m ""
+
+# game/cliffroute.rpy:1859
+translate Tchinese after_smc1_ae25dee9:
+
+    # mu "\"So, Sam...\""
+    mu ""
+

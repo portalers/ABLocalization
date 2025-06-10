@@ -6724,3 +6724,41 @@ translate Tchinese commonroute_7f85451f:
 
     # "Obsession can easily lead to heartbreak... and violence."
     "癡迷很容易導致心碎...和暴力。"
+# TODO: Translation updated at 2025-06-06 01:45
+
+# game/commonroute.rpy:751
+translate Tchinese commonroute_9c45b431:
+
+    # cy "\"Madam wants you to do a few errands today, considering you’ve been idle. Could be helpful for you to be out and about for a spell.\""
+    cy ""
+
+# game/commonroute.rpy:817
+translate Tchinese commonroute_d0f1a9e3:
+
+    # "Some of the more expensive ones closer to the bar are electric, which Madam says is safer near the alcohol."
+    ""
+
+# game/commonroute.rpy:825
+translate Tchinese commonroute_42c108a1:
+
+    # "Madam has me run errands for board..."
+    ""
+
+# game/commonroute.rpy:1123
+translate Tchinese commonroute_9749a8e2:
+
+    # re "\"I’m not paying another fucking fine. Let’s get out of here before we’re recognized. I like booze better than I hate candy asses.\""
+    re ""
+
+# game/commonroute.rpy:1198
+translate Tchinese commonroute_c7b96979:
+
+    # "I can read the familiar twinge of anger on his face when he stares at me, but I can sense a harsh protectiveness there, too... similar to Madam."
+    ""
+
+# game/commonroute.rpy:1444
+translate Tchinese commonroute_84b00fbd:
+
+    # "Madam places her chin on her wrist as she stares into William's eyes, dark and sparkling in the candlelight."
+    ""
+

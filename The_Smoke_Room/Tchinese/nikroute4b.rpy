@@ -11057,3 +11057,77 @@ translate Tchinese strings:
     # game/nikroute4b.rpy:2626
     old "Because you’re my friend."
     new "因為你是我的朋友。"
+# TODO: Translation updated at 2025-06-06 01:45
+
+# game/nikroute4b.rpy:1230
+translate Tchinese nikroute4b_fe917b25:
+
+    # br "\"Of course, he’s still a chink, through no fault of his own. That means he will sell me out to the highest price one day.\""
+    br ""
+
+# game/nikroute4b.rpy:1307
+translate Tchinese nikroute4b_a154aee2:
+
+    # br "\"I like to be careful with my gun...\""
+    br ""
+
+# game/nikroute4b.rpy:2312
+translate Tchinese nikroute4b_2808565f:
+
+    # wi "\"The Guard’s still hauling buckets up and down from Lake Emma to put it out.\""
+    wi ""
+
+# game/nikroute4b.rpy:2340
+translate Tchinese nikroute4b_060fde8a:
+
+    # m "\"I need to check on the Madam.\""
+    m ""
+
+# game/nikroute4b.rpy:2360
+translate Tchinese nikroute4b_e1f3dd9a:
+
+    # "If I didn’t know better, I’d say it feels like the end of the world."
+    ""
+
+# game/nikroute4b.rpy:2366
+translate Tchinese nikroute4b_34a18126:
+
+    # "The upper scale menswear store had its glass kicked in."
+    ""
+
+# game/nikroute4b.rpy:2487
+translate Tchinese nikroute4b_9fc2cfdc:
+
+    # "But it does feel weird to know this will be the last errand I run for the Madam."
+    ""
+
+# game/nikroute4b.rpy:3201
+translate Tchinese yaofuturechoice2_4df9aa8a:
+
+    # wi "\"And thanks to the evidence we’ve compiled, she’s trying to pin the fire on ‘im, too.\""
+    wi ""
+
+# game/nikroute4b.rpy:3264
+translate Tchinese yaofuturechoice2_abdd9ab8:
+
+    # "One is a picture of the old staff at the Hip last year."
+    ""
+
+# game/nikroute4b.rpy:3265
+translate Tchinese yaofuturechoice2_cc1a1cbd:
+
+    # "The other is a browned, formal-looking piece of paper."
+    ""
+
+# game/nikroute4b.rpy:3338
+translate Tchinese yaofuturechoice2_5c930c96:
+
+    # wi "\"No need to be cold with me Yao, I ain’t police no more.\""
+    wi ""
+
+# game/nikroute4b.rpy:3689
+translate Tchinese yaofuturechoice2_8a98fd50:
+
+    # ni "\"Or some calliope music sounding off.\""
+    ni ""
+

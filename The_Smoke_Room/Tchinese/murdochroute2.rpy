@@ -28729,3 +28729,1049 @@ translate Tchinese mdq2_b36dcb5b:
 
     # mu "\"Because we can always go back to the tailor if we need—\""
     mu "如果有需要，還是能回去找裁縫─"
+# TODO: Translation updated at 2025-06-06 01:45
+
+# game/murdochroute2.rpy:115
+translate Tchinese murdochroute2_7d298645:
+
+    # "The old fox's beam turns into a look of consternation."
+    ""
+
+# game/murdochroute2.rpy:116
+translate Tchinese murdochroute2_55bc8079:
+
+    # "He leers at me for a moment, small green eyes squinting, as if putting one and two together."
+    ""
+
+# game/murdochroute2.rpy:122
+translate Tchinese murdochroute2_ae7aead9:
+
+    # "The old fox is still talking, but the volume of his voice has raised to a shout."
+    ""
+
+# game/murdochroute2.rpy:141
+translate Tchinese murdochroute2_719297d7:
+
+    # "There's patches of grass beneath pine trees and lots of open space."
+    ""
+
+# game/murdochroute2.rpy:228
+translate Tchinese murdochroute2_3c96d3fb:
+
+    # "I don't like that one bit."
+    ""
+
+# game/murdochroute2.rpy:229
+translate Tchinese murdochroute2_bde748d6:
+
+    # "Makes me feel a giant weirdo."
+    ""
+
+# game/murdochroute2.rpy:230
+translate Tchinese murdochroute2_b7008f31:
+
+    # "'Cept they're the ones being odd."
+    ""
+
+# game/murdochroute2.rpy:234
+translate Tchinese murdochroute2_0300608a:
+
+    # "I head in the front door of the school where the secretary is waiting."
+    ""
+
+# game/murdochroute2.rpy:259
+translate Tchinese murdochroute2_db67a968:
+
+    # "The fox's expression softens."
+    ""
+
+# game/murdochroute2.rpy:281
+translate Tchinese murdochroute2_1abee5bf:
+
+    # gr "\"Every man, woman, and child who grows up in Echo will be proud of their days spent in these halls.\""
+    gr ""
+
+# game/murdochroute2.rpy:326
+translate Tchinese murdochroute2_1b4fcbaf:
+
+    # "The fox's expression seems distant."
+    ""
+
+# game/murdochroute2.rpy:348
+translate Tchinese murdochroute2_81d3dc8d:
+
+    # "I can feel my mouth break into a scowl."
+    ""
+
+# game/murdochroute2.rpy:353
+translate Tchinese murdochroute2_02098a34:
+
+    # "The door opens again."
+    ""
+
+# game/murdochroute2.rpy:357
+translate Tchinese murdochroute2_4b4a7ab3:
+
+    # "Gretchen is back with a grey vest hanging from one of her arms and a derby hat."
+    ""
+
+# game/murdochroute2.rpy:361
+translate Tchinese murdochroute2_85104ef9:
+
+    # "She thrusts the hat and vest into my hand."
+    ""
+
+# game/murdochroute2.rpy:363
+translate Tchinese murdochroute2_265dbe94:
+
+    # "I don't hesitate to put it on."
+    ""
+
+# game/murdochroute2.rpy:365
+translate Tchinese murdochroute2_eb5844fa:
+
+    # "The fit is snug and the cap is tight, but I can move easily enough in the clothing."
+    ""
+
+# game/murdochroute2.rpy:378
+translate Tchinese murdochroute2_8ff2fbd3:
+
+    # "By the time the last student is finished with their shoot and exits the auditorium, the two of us are breathing in relief."
+    ""
+
+# game/murdochroute2.rpy:397
+translate Tchinese murdochroute2_14130cca:
+
+    # "He opens his eyes again and gives me a weak smile, then shakes his head."
+    ""
+
+# game/murdochroute2.rpy:451
+translate Tchinese murdochroute2_6647a380:
+
+    # "To her left is Ralph, stalking towards us. He's one of the last people I want to see right now."
+    ""
+
+# game/murdochroute2.rpy:481
+translate Tchinese murdochroute2_7bbe82ae:
+
+    # ho "\"Well if the rest of you can be brave, we'll just have to follow at our wedding next week.\""
+    ho ""
+
+# game/murdochroute2.rpy:493
+translate Tchinese murdochroute2_de1a105d:
+
+    # "What the fuck are you doing, Sam?"
+    ""
+
+# game/murdochroute2.rpy:495
+translate Tchinese murdochroute2_94871ed8:
+
+    # "Why?"
+    ""
+
+# game/murdochroute2.rpy:500
+translate Tchinese murdochroute2_ad26b7b7:
+
+    # "Jim, the fox I blew yesterday, looks me in the eye, then looks away, then nods gruffly."
+    ""
+
+# game/murdochroute2.rpy:536
+translate Tchinese murdochroute2_38951aca:
+
+    # "After all, I still haven't spilled Murdoch's food yet, moving this fast."
+    ""
+
+# game/murdochroute2.rpy:680
+translate Tchinese murdochroute2_b6a04c3c:
+
+    # ra "\"And you're a fuck boy. We all have our vices.\""
+    ra ""
+
+# game/murdochroute2.rpy:806
+translate Tchinese murdochroute2_031d6d23:
+
+    # "The rat smiles and lifts his eyebrows."
+    ""
+
+# game/murdochroute2.rpy:838
+translate Tchinese murdochroute2_f9d4bfb6:
+
+    # "Murdoch starts whistling as he makes his way over to the darkroom door, and Ralph looks back at him for a second."
+    ""
+
+# game/murdochroute2.rpy:859
+translate Tchinese murdochroute2_39a06798:
+
+    # "I know he's been waiting to talk about this all day."
+    ""
+
+# game/murdochroute2.rpy:884
+translate Tchinese murdochroute2_a3dd2786:
+
+    # m "\"Or the Devil's.\""
+    m ""
+
+# game/murdochroute2.rpy:1245
+translate Tchinese murdochroute2_1047d16c:
+
+    # "William smirks at me."
+    ""
+
+# game/murdochroute2.rpy:1300
+translate Tchinese murdochroute2_e17e5969:
+
+    # m "\"It was the most disorganized I've ever seen him.\""
+    m ""
+
+# game/murdochroute2.rpy:1305
+translate Tchinese murdochroute2_b4f67ba9:
+
+    # "Murdoch's lips purse."
+    ""
+
+# game/murdochroute2.rpy:1308
+translate Tchinese murdochroute2_4fb51848:
+
+    # "He makes spinning gestures with his paws in the air."
+    ""
+
+# game/murdochroute2.rpy:1341
+translate Tchinese murdochroute2_1334bd5e:
+
+    # "The rat swings open the door, takes off his goggles, then immediately stops in front of me."
+    ""
+
+# game/murdochroute2.rpy:1352
+translate Tchinese murdochroute2_3403ae21:
+
+    # "The rat sighs and rubs the back of his neck with his paw."
+    ""
+
+# game/murdochroute2.rpy:1367
+translate Tchinese murdochroute2_44f756cc:
+
+    # "He plucks a photograph from his pocket and slaps the side of it with his knuckles."
+    ""
+
+# game/murdochroute2.rpy:1380
+translate Tchinese murdochroute2_42f56964:
+
+    # "The rat blows a quick puff of smoke over his shoulder."
+    ""
+
+# game/murdochroute2.rpy:1431
+translate Tchinese murdochroute2_063aad32:
+
+    # "The fox rolls his eyes."
+    ""
+
+# game/murdochroute2.rpy:1449
+translate Tchinese murdochroute2_7839208d:
+
+    # mu "\"Pharmacy isn't spelled with an 'F.'\""
+    mu ""
+
+# game/murdochroute2.rpy:1458
+translate Tchinese murdochroute2_f40f5b8d:
+
+    # "The rat is already on the opposite side of me, breathing down my neck."
+    ""
+
+# game/murdochroute2.rpy:1464
+translate Tchinese murdochroute2_3ca5e49b:
+
+    # ra "\"Enough dallying. Let's be off.\""
+    ra ""
+
+# game/murdochroute2.rpy:1496
+translate Tchinese murdochroute2_3e31d2a1:
+
+    # "Ralph lets out a laugh."
+    ""
+
+# game/murdochroute2.rpy:1502
+translate Tchinese murdochroute2_a1f39db7:
+
+    # "Murdoch hems."
+    ""
+
+# game/murdochroute2.rpy:1550
+translate Tchinese murdochroute2_9115d167:
+
+    # ra "\"It's a big, bloody lake and we're still in the middle of summer.\""
+    ra ""
+
+# game/murdochroute2.rpy:1568
+translate Tchinese murdochroute2_0d5819c6:
+
+    # m "\"Where's 'here?'\""
+    m ""
+
+# game/murdochroute2.rpy:1572
+translate Tchinese murdochroute2_e33dadd2:
+
+    # "The rat jerks his head at the fox."
+    ""
+
+# game/murdochroute2.rpy:1578
+translate Tchinese murdochroute2_a1243f64:
+
+    # "Murdoch digs through his pants pocket, slips out a photograph, and hands it to me."
+    ""
+
+# game/murdochroute2.rpy:1712
+translate Tchinese murdochroute2_823eadfd:
+
+    # "The fox tries to fake a light laugh."
+    ""
+
+# game/murdochroute2.rpy:1765
+translate Tchinese murdochroute2_db69373a:
+
+    # "Murdoch shrugs his shoulders."
+    ""
+
+# game/murdochroute2.rpy:1854
+translate Tchinese murdochroute2_8861c642:
+
+    # mu "\"'til Holly snitched on where we were.\""
+    mu ""
+
+# game/murdochroute2.rpy:1988
+translate Tchinese murdochroute2_3ba163ec:
+
+    # "Whoever it is hobbles over to one of the rock piles and starts stuffing the sack with pebbles."
+    ""
+
+# game/murdochroute2.rpy:2065
+translate Tchinese murdochroute2_66dbd24f:
+
+    # "She spits on him."
+    ""
+
+# game/murdochroute2.rpy:2067
+translate Tchinese murdochroute2_fa833a7a:
+
+    # "Ralph makes a motion towards her."
+    ""
+
+# game/murdochroute2.rpy:2099
+translate Tchinese murdochroute2_1edd8644:
+
+    # mu "\"Not 'interesting.' You're not safe!\""
+    mu ""
+
+# game/murdochroute2.rpy:2105
+translate Tchinese murdochroute2_2772505a:
+
+    # "...What does she mean by that?"
+    ""
+
+# game/murdochroute2.rpy:2117
+translate Tchinese murdochroute2_2bf991ea:
+
+    # "We turn to see where Ralph is pointing."
+    ""
+
+# game/murdochroute2.rpy:2123
+translate Tchinese murdochroute2_f3c27838:
+
+    # "I feel a little better once we're past the canyon tunnel and by the more crowded parts of the lake, running past a crowd of people."
+    ""
+
+# game/murdochroute2.rpy:2193
+translate Tchinese murdochroute2_890631e6:
+
+    # "There's a pause in the air."
+    ""
+
+# game/murdochroute2.rpy:2225
+translate Tchinese murdochroute2_a7adffec:
+
+    # "The rat's tone is stern."
+    ""
+
+# game/murdochroute2.rpy:2295
+translate Tchinese murdochroute2_dda6bd85:
+
+    # "He yips, thrusting with his hips as I pull off his tie, vest, and shirt."
+    ""
+
+# game/murdochroute2.rpy:2315
+translate Tchinese murdochroute2_b986e39d:
+
+    # "I fish my cock out of my pants. It's throbbing from the heat."
+    ""
+
+# game/murdochroute2.rpy:2316
+translate Tchinese murdochroute2_e617f004:
+
+    # "The excitement."
+    ""
+
+# game/murdochroute2.rpy:2318
+translate Tchinese murdochroute2_2219fdab:
+
+    # ra "\"He really asked you to do that?\""
+    ra ""
+
+# game/murdochroute2.rpy:2362
+translate Tchinese murdochroute2_c13ad584:
+
+    # m "\"Let's both get on the floor.\""
+    m ""
+
+# game/murdochroute2.rpy:2371
+translate Tchinese murdochroute2_22d3c8f2:
+
+    # "I can tell he's already close by the pulse in his dick and the twitches in his leg."
+    ""
+
+# game/murdochroute2.rpy:2375
+translate Tchinese murdochroute2_90382558:
+
+    # "It doesn't take long for either of us to start to spurt, and we have to swallow each other's hot mouthfuls to keep breathing."
+    ""
+
+# game/murdochroute2.rpy:2682
+translate Tchinese murdochroute2_9240ada6:
+
+    # "The smallest sister sighs wistfully."
+    ""
+
+# game/murdochroute2.rpy:2709
+translate Tchinese murdochroute2_8c0747f8:
+
+    # cl "\"Well, ah, I'm sure there are certainly more impressive things to gawk at than our churches, no?\""
+    cl ""
+
+# game/murdochroute2.rpy:2786
+translate Tchinese murdochroute2_1f9abf4e:
+
+    # "Dahlia puts on a bashful look and Holly's lips tighten."
+    ""
+
+# game/murdochroute2.rpy:2859
+translate Tchinese murdochroute2_1ed502f2:
+
+    # "The smaller sister speaks up."
+    ""
+
+# game/murdochroute2.rpy:2984
+translate Tchinese murdochroute2_6ed17a0f:
+
+    # "It's so small in my hand that I'm afraid I'll break it if I squeeze too hard."
+    ""
+
+# game/murdochroute2.rpy:3010
+translate Tchinese murdochroute2_6892c7a6:
+
+    # "She plucks whatever it is that she's working on on the typewriter and shoves it into her pocket."
+    ""
+
+# game/murdochroute2.rpy:3125
+translate Tchinese murdochroute2_da538674:
+
+    # "She hands me a packet of paper that's sitting on one of the tables."
+    ""
+
+# game/murdochroute2.rpy:3146
+translate Tchinese murdochroute2_e852ab90:
+
+    # "I scratch it, and look at the smaller pieces of paper she gives me."
+    ""
+
+# game/murdochroute2.rpy:3160
+translate Tchinese murdochroute2_862e9469:
+
+    # "She nibbles on one of her paw digits before answering again."
+    ""
+
+# game/murdochroute2.rpy:3200
+translate Tchinese murdochroute2_122051e0:
+
+    # bl "\"Well of course, Miz Byrnes.\""
+    bl ""
+
+# game/murdochroute2.rpy:3219
+translate Tchinese murdochroute2_b1641db2:
+
+    # bl "\"There’s a big difference between liking math and being good at math, Miz Byrnes.\""
+    bl ""
+
+# game/murdochroute2.rpy:3265
+translate Tchinese murdochroute2_d6c80fdf:
+
+    # bl "\"I wonder what happened to make you so paranoid, Mister Ayers.\""
+    bl ""
+
+# game/murdochroute2.rpy:3274
+translate Tchinese murdochroute2_cf48bd96:
+
+    # bl "\"Language, Mister Ayers.\""
+    bl ""
+
+# game/murdochroute2.rpy:3362
+translate Tchinese murdochroute2_9cc8682a:
+
+    # "She flips the coin again."
+    ""
+
+# game/murdochroute2.rpy:3423
+translate Tchinese murdochroute2_8915de45:
+
+    # "I want to tell her not to do that, but I get the feeling she won’t listen to me anyway."
+    ""
+
+# game/murdochroute2.rpy:3539
+translate Tchinese murdochroute2_38e4d9df:
+
+    # mu "\"Well I'd hope it wouldn’t.\""
+    mu ""
+
+# game/murdochroute2.rpy:3621
+translate Tchinese murdochroute2_8b44306b:
+
+    # ho "\"I’ll be back before the lunch hour is up. Don’t worry on my behalf.\""
+    ho ""
+
+# game/murdochroute2.rpy:3711
+translate Tchinese murdochroute2_32140675:
+
+    # "When I arrive, I look to the opposite side of the tracks and can see a gated area off in the distance."
+    ""
+
+# game/murdochroute2.rpy:3740
+translate Tchinese murdochroute2_f2488b3e:
+
+    # "Dead flower petals litter the floor, and the remains of old candles burned down to their wick stain the alcoves and the candle holders spread around the room."
+    ""
+
+# game/murdochroute2.rpy:3955
+translate Tchinese murdochroute2_cb9e01c2:
+
+    # "I sprint after her for a few minutes before I have to slow down."
+    ""
+
+# game/murdochroute2.rpy:3988
+translate Tchinese murdochroute2_1b99afe5:
+
+    # m "\"’Cause I’m using the power of my imagination.\""
+    m ""
+
+# game/murdochroute2.rpy:4019
+translate Tchinese murdochroute2_4653e586:
+
+    # bl "\"No wonder you can’t recognize any of Ms. Byrnes’ codes.\""
+    bl ""
+
+# game/murdochroute2.rpy:4121
+translate Tchinese murdochroute2_93b7ff62:
+
+    # "Ever since he missed his appointment with me, I can’t tell where the hell he’s been."
+    ""
+
+# game/murdochroute2.rpy:4136
+translate Tchinese murdochroute2_d15757cb:
+
+    # "The Byrneses are a five minute walk from their store, just outside the range of downtown."
+    ""
+
+# game/murdochroute2.rpy:4146
+translate Tchinese murdochroute2_78277d25:
+
+    # "I haven’t smelled fresh roses since I left home."
+    ""
+
+# game/murdochroute2.rpy:4178
+translate Tchinese murdochroute2_401b9c75:
+
+    # "She looks at us again."
+    ""
+
+# game/murdochroute2.rpy:4189
+translate Tchinese murdochroute2_0d4af43f:
+
+    # "She removes her gloves."
+    ""
+
+# game/murdochroute2.rpy:4208
+translate Tchinese murdochroute2_0b9e4bfc:
+
+    # "There are several ornamental crosses nailed to the wall, and a statue of the Virgin Mary sitting on an end table."
+    ""
+
+# game/murdochroute2.rpy:4216
+translate Tchinese murdochroute2_6be4c0b8:
+
+    # "So he's right."
+    ""
+
+# game/murdochroute2.rpy:4266
+translate Tchinese murdochroute2_f57f9878:
+
+    # al "\"Well, I think you’ll find that most business-minded folks will have to risk somethin’ to gain somethin’, wouldn’t you say?\""
+    al ""
+
+# game/murdochroute2.rpy:4298
+translate Tchinese murdochroute2_49c47723:
+
+    # "Alfred’s relaxed tone suddenly shifts to a sharp one."
+    ""
+
+# game/murdochroute2.rpy:4315
+translate Tchinese murdochroute2_7762e46d:
+
+    # al "\"They send him all over the west coast and they pay him to do it, don’t they Jim?\""
+    al ""
+
+# game/murdochroute2.rpy:4404
+translate Tchinese murdochroute2_8913be7e:
+
+    # "Plates are placed on knitted doilies and a large glass pitcher of water filled with lemons sits in the center of the table."
+    ""
+
+# game/murdochroute2.rpy:4427
+translate Tchinese murdochroute2_7ab8591b:
+
+    # "I rise from the chair, pulling it out carefully as I walk all the way to the opposite end of the table."
+    ""
+
+# game/murdochroute2.rpy:4534
+translate Tchinese murdochroute2_4eeeed74:
+
+    # "I bow my head and close my eyes, folding my paws over each other."
+    ""
+
+# game/murdochroute2.rpy:4599
+translate Tchinese murdochroute2_908b3962:
+
+    # "The peals of laughter and the clinks and clanks of utensils stop."
+    ""
+
+# game/murdochroute2.rpy:4653
+translate Tchinese murdochroute2_06398373_1:
+
+    # "She sighs."
+    ""
+
+# game/murdochroute2.rpy:4709
+translate Tchinese murdochroute2_6f07f74e:
+
+    # al "\"I’ve managed that store for nearly 20 years without you. We’ll live without you there for another hour or two.\""
+    al ""
+
+# game/murdochroute2.rpy:4777
+translate Tchinese murdochroute2_418ca16b:
+
+    # mu "\"I made a list of things you might be able to do before we get pulled downtown for a fitting.\""
+    mu ""
+
+# game/murdochroute2.rpy:4779
+translate Tchinese murdochroute2_7b88876b:
+
+    # "He hands me a little piece of paper."
+    ""
+
+# game/murdochroute2.rpy:4941
+translate Tchinese murdochroute2_f5624fdd:
+
+    # "An impatient-looking rabbit at the counter sizes us up."
+    ""
+
+# game/murdochroute2.rpy:4962
+translate Tchinese murdochroute2_c7b94b67:
+
+    # "He turns to me and Murdoch."
+    ""
+
+# game/murdochroute2.rpy:4983
+translate Tchinese murdochroute2_eb773534:
+
+    # "The rabbit directs us to a closet with high shelves, mirrors, and a fake plant in it."
+    ""
+
+# game/murdochroute2.rpy:4998
+translate Tchinese murdochroute2_8fa2b814:
+
+    # "Murdoch looks at me and raises his voice to a growl too."
+    ""
+
+# game/murdochroute2.rpy:5020
+translate Tchinese murdochroute2_ce8ea353:
+
+    # m "\"...Come again?\""
+    m ""
+
+# game/murdochroute2.rpy:5082
+translate Tchinese murdochroute2_3904b9b7:
+
+    # "He folds his hands on his lap, looking away."
+    ""
+
+# game/murdochroute2.rpy:5083
+translate Tchinese murdochroute2_73d04951:
+
+    # "Then he nods his head, shaking, squeezing out a few tears."
+    ""
+
+# game/murdochroute2.rpy:5100
+translate Tchinese murdochroute2_21043f89:
+
+    # "Murdoch snorts."
+    ""
+
+# game/murdochroute2.rpy:5281
+translate Tchinese murdochroute2_86a439db:
+
+    # "He swallows his spit."
+    ""
+
+# game/murdochroute2.rpy:5288
+translate Tchinese murdochroute2_9a8cd1a9:
+
+    # "The fox shrugs."
+    ""
+
+# game/murdochroute2.rpy:5369
+translate Tchinese murdochroute2_16f132f2:
+
+    # "He lets out a squeaky whine."
+    ""
+
+# game/murdochroute2.rpy:5431
+translate Tchinese murdochroute2_abf12970:
+
+    # "Murdoch recoils away from me."
+    ""
+
+# game/murdochroute2.rpy:5433
+translate Tchinese murdochroute2_18224889:
+
+    # "His eyes are wide and red."
+    ""
+
+# game/murdochroute2.rpy:5434
+translate Tchinese murdochroute2_5de33668:
+
+    # "He looks a lot like his little brother right now."
+    ""
+
+# game/murdochroute2.rpy:5464
+translate Tchinese murdochroute2_7ee7acc7:
+
+    # "He buttons each button and buckles each clasp as he stares into the mirror, watching out of the corner of his eye... quite attentively."
+    ""
+
+# game/murdochroute2.rpy:5625
+translate Tchinese muc0_ebf2b17d:
+
+    # "Murdoch lowers his voice."
+    ""
+
+# game/murdochroute2.rpy:5683
+translate Tchinese muc0_06a59937:
+
+    # "He looks me up and down."
+    ""
+
+# game/murdochroute2.rpy:5696
+translate Tchinese muc0_f40ad0e0:
+
+    # ji "\"I would.\""
+    ji ""
+
+# game/murdochroute2.rpy:5704
+translate Tchinese muc0_22ca1bc6:
+
+    # "I look down on the display case and see a large variety of rings inside."
+    ""
+
+# game/murdochroute2.rpy:5728
+translate Tchinese muc0_e37dca88:
+
+    # "Jim curses under his breath."
+    ""
+
+# game/murdochroute2.rpy:5905
+translate Tchinese muc0_44f3d73e:
+
+    # "I rub my nose."
+    ""
+
+# game/murdochroute2.rpy:5920
+translate Tchinese muc0_b20a8bfa:
+
+    # "By the time we get back to the store, we're surprised to see a sign on the front door."
+    ""
+
+# game/murdochroute2.rpy:5976
+translate Tchinese muc0_d21278ed:
+
+    # "There's something sharp and shrill in this man’s voice that I can hear now that I didn’t before."
+    ""
+
+# game/murdochroute2.rpy:5999
+translate Tchinese muc0_d6cb8478:
+
+    # "He turns to Mr. Byrnes."
+    ""
+
+# game/murdochroute2.rpy:6009
+translate Tchinese muc0_819c8879:
+
+    # "The older fox opens his mouth, like he's about to say something, then closes it again."
+    ""
+
+# game/murdochroute2.rpy:6011
+translate Tchinese muc0_05eab3a9:
+
+    # "Almost like he has confused himself."
+    ""
+
+# game/murdochroute2.rpy:6018
+translate Tchinese muc0_8910502a:
+
+    # "He strokes his chin and then jerks his head toward a hallway."
+    ""
+
+# game/murdochroute2.rpy:6020
+translate Tchinese muc0_e7ee769f:
+
+    # "Then he glares at Murdoch."
+    ""
+
+# game/murdochroute2.rpy:6022
+translate Tchinese muc0_19053261:
+
+    # al "\"Good. We can reopen before we lose all of the luncheon crowd.\""
+    al ""
+
+# game/murdochroute2.rpy:6050
+translate Tchinese muc0_81efe3db_1:
+
+    # m "\"Sure, Sheriff.\""
+    m ""
+
+# game/murdochroute2.rpy:6241
+translate Tchinese muc0_e19eeae9:
+
+    # "He smirks."
+    ""
+
+# game/murdochroute2.rpy:6254
+translate Tchinese muc0_efe37e68:
+
+    # "Murdoch merely shrugs."
+    ""
+
+# game/murdochroute2.rpy:6297
+translate Tchinese muc0_5ccd7af9:
+
+    # "Then he slips through the door and shuts it softly behind him."
+    ""
+
+# game/murdochroute2.rpy:6308
+translate Tchinese muc0_1367a07e:
+
+    # "But it just seems like sometimes he genuinely can’t tell the difference."
+    ""
+
+# game/murdochroute2.rpy:6311
+translate Tchinese muc0_18b04986:
+
+    # "Murdoch scratches the back of his head."
+    ""
+
+# game/murdochroute2.rpy:6467
+translate Tchinese mdq2_7a574bca:
+
+    # mu "\"But any image that shows off a pickaxe wound, perchance, could spend some time in the developer.\""
+    mu ""
+
+# game/murdochroute2.rpy:6568
+translate Tchinese mdq2_a7e6a438:
+
+    # "Murdoch walks toward me and stares over my shoulder, then grunts."
+    ""
+
+# game/murdochroute2.rpy:6586
+translate Tchinese mdq2_a8174cfb:
+
+    # "He leans against the countertop and shifts his weight from his left foot to his right."
+    ""
+
+# game/murdochroute2.rpy:6675
+translate Tchinese mdq2_1939486d:
+
+    # "He shrugs."
+    ""
+
+# game/murdochroute2.rpy:6717
+translate Tchinese mdq2_4613c348:
+
+    # "Murdoch shrugs again."
+    ""
+
+# game/murdochroute2.rpy:6807
+translate Tchinese mdq2_86814205:
+
+    # mu "\"...What?\""
+    mu ""
+
+# game/murdochroute2.rpy:6835
+translate Tchinese mdq2_ea7758cf:
+
+    # "He doesn’t say much more throughout the day as we develop the rest of the photos."
+    ""
+
+# game/murdochroute2.rpy:6837
+translate Tchinese mdq2_d6fa257d:
+
+    # "Five o’clock comes faster than I thought it would, but my head is dizzy with the cloying scent of fox and chemicals in the small, warm room."
+    ""
+
+# game/murdochroute2.rpy:6871
+translate Tchinese mdq2_cf101880:
+
+    # cy "\"Just hoping for a little bit of shut-eye before the late night shift.\""
+    cy ""
+
+# game/murdochroute2.rpy:6902
+translate Tchinese mdq2_dc704233:
+
+    # "She crosses her arms and nods."
+    ""
+
+# game/murdochroute2.rpy:6907
+translate Tchinese mdq2_114b7500:
+
+    # cy "\"Go get dressed. I’ll be in your room in a bit.\""
+    cy ""
+
+# game/murdochroute2.rpy:6927
+translate Tchinese mdq2_43084a69:
+
+    # cy "\"The waist fit looks good but the cuffs of the pants need adjustments.\""
+    cy ""
+
+# game/murdochroute2.rpy:7020
+translate Tchinese mdq2_c0596b74:
+
+    # "She's pretty rough with the next pin."
+    ""
+
+# game/murdochroute2.rpy:7048
+translate Tchinese mdq2_14b2c275:
+
+    # "She cuts the thread off the needle with her teeth."
+    ""
+
+# game/murdochroute2.rpy:7053
+translate Tchinese mdq2_a30dd810:
+
+    # m "\"When there isn’t some task to perform, there’s some person to please.\""
+    m ""
+
+# game/murdochroute2.rpy:7054
+translate Tchinese mdq2_73e402c7:
+
+    # m "\"Workin’ here, at least I know what people want.\""
+    m ""
+
+# game/murdochroute2.rpy:7098
+translate Tchinese mdq2_7679376b:
+
+    # "She gives me a small curtsy and leaves."
+    ""
+
+# game/murdochroute2.rpy:7108
+translate Tchinese mdq2_2502b5ca:
+
+    # "Getting through the rest of the night isn’t as hard as the rest of the day."
+    ""
+
+# game/murdochroute2.rpy:7110
+translate Tchinese mdq2_c4966dea:
+
+    # "My first session doesn’t even use up the whole thirty minutes, as much as he needs to let it out."
+    ""
+
+# game/murdochroute2.rpy:7156
+translate Tchinese mdq2_ccf8bce4:
+
+    # "I feel my face screw up, trying to stall."
+    ""
+
+# game/murdochroute2.rpy:7176
+translate Tchinese mdq2_66dfc8a3:
+
+    # msho "\"Angels are said to be jealous of man and woman’s right to atone, and to choose who they wish to be.\""
+    msho ""
+
+# game/murdochroute2.rpy:7289
+translate Tchinese mdq2_30beda04:
+
+    # "Mrs. Byrnes’s eyebrow perks up."
+    ""
+
+# game/murdochroute2.rpy:7338
+translate Tchinese mdq2_f4db86c4:
+
+    # "She closes her book with a light puff, still smiling."
+    ""
+
+# game/murdochroute2.rpy:7406
+translate Tchinese mdq2_e7184578:
+
+    # bl "\"But instead, books can do that with descriptions of images on top of just what the dialogue of the characters are saying.\""
+    bl ""
+
+# game/murdochroute2.rpy:7417
+translate Tchinese mdq2_0d0b1342:
+
+    # me "\"If somebody makes me uncomfortable, I don’t want to spend hours of my life with them all by my lonesome.\""
+    me ""
+
+# game/murdochroute2.rpy:7483
+translate Tchinese mdq2_00985ab7:
+
+    # bl "\"Bought a cozy bit of carpet, an end table, some pillows.\""
+    bl ""
+
+# game/murdochroute2.rpy:7752
+translate Tchinese mdq2_0ea36ae9:
+
+    # "Of what is magic, and sacred, and special."
+    ""
+
+# game/murdochroute2.rpy:7858
+translate Tchinese mdq2_7122a3d1:
+
+    # no2 "\"You don’t realize it yet, but every failure you commit undermines your chance to escape.\""
+    no2 ""
+
+# game/murdochroute2.rpy:7868
+translate Tchinese mdq2_daf01164:
+
+    # "The man begins to mumble."
+    ""
+
+# game/murdochroute2.rpy:7870
+translate Tchinese mdq2_ebc38a42:
+
+    # "And then his voice fades."
+    ""
+
+# game/murdochroute2.rpy:7871
+translate Tchinese mdq2_f7f2c350:
+
+    # "And the only sound that is left is once again the roar of the cave water."
+    ""
+
+# game/murdochroute2.rpy:7933
+translate Tchinese mdq2_aaf7244f:
+
+    # "Except he was alone this time."
+    ""
+
