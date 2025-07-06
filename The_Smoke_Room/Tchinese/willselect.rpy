@@ -70,16 +70,16 @@ translate Tchinese strings:
 
     # game/willselect.rpy:131
     old "Dora."
-    new "Dora。"
+    new "Dora"
 
     # game/willselect.rpy:131
     old "Harlan."
-    new "Harlan。"
+    new "Harlan"
 
     # game/willselect.rpy:131
     old "Ethel."
-    new "Ethel。"
+    new "Ethel"
 
     # game/willselect.rpy:131
     old "Cynthia."
-    new "Cynthia。"
+    new "Cynthia"
