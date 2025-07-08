@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2025-01-11 14:05
-
 # game/nikroute4b.rpy:17
 translate Tchinese nikroute4b_ead296c0:
 
@@ -3798,10 +3796,10 @@ translate Tchinese nikroute4b_ff20d5c2:
     # br "\"Then I have my excellent engineer, who fought tooth and claw to be here. He crossed a whole damn ocean, in fact.\""
     br "一邊是個出色的工程師，歷經千辛萬苦才來到這。他甚至還是跨越了一個大洋來的呢。"
 
-# game/nikroute4b.rpy:1042
-translate Tchinese nikroute4b_5205fde4:
+# game/nikroute4b.rpy:1230
+translate Tchinese nikroute4b_fe917b25:
 
-    # br "\"Of course, he’s still a chink, through no fault of his own. That means he will sell me out to the highest price once day.\""
+    # br "\"Of course, he’s still a chink, through no fault of his own. That means he will sell me out to the highest price one day.\""
     br "當然，雖說怪不得他，但他到底是個華夏佬。總有一天會為了利益把我賣出去的。"
 
 # game/nikroute4b.rpy:1045
@@ -3978,10 +3976,10 @@ translate Tchinese nikroute4b_c5716c9d:
     # br "\"Doesn’t mean I haven’t hunted in my time, but that’s not the same as being a professional mankiller.\""
     br "我是有去打獵過，但根本比不過專業的殺手。"
 
-# game/nikroute4b.rpy:1119
-translate Tchinese nikroute4b_e9ad6fbe:
+# game/nikroute4b.rpy:1307
+translate Tchinese nikroute4b_a154aee2:
 
-    # br "\"I liked to be careful with my gun...\""
+    # br "\"I like to be careful with my gun...\""
     br "我對這槍還是挺小心的……"
 
 # game/nikroute4b.rpy:1122
@@ -6420,10 +6418,10 @@ translate Tchinese nikroute4b_0d44037e:
     # wi "\"James Hendricks is still missing.\""
     wi "James Hendricks還是不見蹤影。"
 
-# game/nikroute4b.rpy:2120
-translate Tchinese nikroute4b_46728725:
+# game/nikroute4b.rpy:2312
+translate Tchinese nikroute4b_2808565f:
 
-    # wi "\"The Guard’s still hauling buckets up and down from lake Emma to put it out.\""
+    # wi "\"The Guard’s still hauling buckets up and down from Lake Emma to put it out.\""
     wi "衛兵正從艾瑪湖提水滅火。"
 
 # game/nikroute4b.rpy:2121
@@ -6498,10 +6496,10 @@ translate Tchinese nikroute4b_657deff9:
     # ni "\"But the fire’s worse there!\""
     ni "但那裡火更大！"
 
-# game/nikroute4b.rpy:2148
-translate Tchinese nikroute4b_b69e6962:
+# game/nikroute4b.rpy:2340
+translate Tchinese nikroute4b_060fde8a:
 
-    # m "\"I need to check on the Madame.\""
+    # m "\"I need to check on the Madam.\""
     m "我要去找夫人。"
 
 # game/nikroute4b.rpy:2149
@@ -6564,10 +6562,10 @@ translate Tchinese nikroute4b_83b89e4e:
     # "Everything everywhere looks bathed in red light from the smoke and the firelight."
     "一切的一切都被火光與濃煙照得通紅。"
 
-# game/nikroute4b.rpy:2168
-translate Tchinese nikroute4b_7ac81646:
+# game/nikroute4b.rpy:2360
+translate Tchinese nikroute4b_e1f3dd9a:
 
-    # "If I didn’t know better, I’d say it felt like the end of the world."
+    # "If I didn’t know better, I’d say it feels like the end of the world."
     "世界末日的景象也莫過於此。"
 
 # game/nikroute4b.rpy:2169
@@ -6588,10 +6586,10 @@ translate Tchinese nikroute4b_dc811f47:
     # "From here I can see town hall is torched."
     "鎮公所熊熊大火。"
 
-# game/nikroute4b.rpy:2174
-translate Tchinese nikroute4b_efd324fb:
+# game/nikroute4b.rpy:2366
+translate Tchinese nikroute4b_34a18126:
 
-    # "The upper scale men’s wear store had its glass kicked in."
+    # "The upper scale menswear store had its glass kicked in."
     "高檔男裝店的玻璃被砸。"
 
 # game/nikroute4b.rpy:2175
@@ -6954,10 +6952,10 @@ translate Tchinese nikroute4b_92764d88:
     # "I probably shouldn’t have taken Harlan for granted, considerin’ how willing he was to wheel her stuff around."
     "也許我不該把Harlan的付出視為理所當然，他總是自告奮勇要幫她推東西。"
 
-# game/nikroute4b.rpy:2285
-translate Tchinese nikroute4b_f119dc3d:
+# game/nikroute4b.rpy:2487
+translate Tchinese nikroute4b_9fc2cfdc:
 
-    # "But it does feel weird to know this will be the last errand I run for the Madame."
+    # "But it does feel weird to know this will be the last errand I run for the Madam."
     "但一想到這是我最後一次幫夫人辦事，確實心情複雜。"
 
 # game/nikroute4b.rpy:2290
@@ -8760,10 +8758,10 @@ translate Tchinese yaofuturechoice2_0b8ce459:
     # wi "\"No, but his missus is giving him hell.\""
     wi "沒有，但他夫人可沒給對面好日子過。"
 
-# game/nikroute4b.rpy:2859
-translate Tchinese yaofuturechoice2_4e3fd8a0:
+# game/nikroute4b.rpy:3201
+translate Tchinese yaofuturechoice2_4df9aa8a:
 
-    # wi "\"And thanks to the evidence we’ve compiled, she’s trying to pin the fire on ‘em, too.\""
+    # wi "\"And thanks to the evidence we’ve compiled, she’s trying to pin the fire on ‘im, too.\""
     wi "在我們蒐集的證據幫助下，她也在努力給他定縱火的罪責。"
 
 # game/nikroute4b.rpy:2861
@@ -8950,18 +8948,18 @@ translate Tchinese yaofuturechoice2_b6a32c79:
 translate Tchinese yaofuturechoice2_a2530253:
 
     # "He pulls two things from the inside of the envelope."
-    "從中抽出兩個東西。"
+    "從中抽出兩件物品。"
 
-# game/nikroute4b.rpy:3127
-translate Tchinese yaofuturechoice2_a60323cf:
+# game/nikroute4b.rpy:3264
+translate Tchinese yaofuturechoice2_abdd9ab8:
 
-    # "One is a picture of the old staff at the Stag last year."
+    # "One is a picture of the old staff at the Hip last year."
     "一個是去年Stag酒館的員工合照。"
 
-# game/nikroute4b.rpy:2922
-translate Tchinese yaofuturechoice2_1aa3d848:
+# game/nikroute4b.rpy:3265
+translate Tchinese yaofuturechoice2_cc1a1cbd:
 
-    # "The other is a browned, formal looking piece of paper."
+    # "The other is a browned, formal-looking piece of paper."
     "另一個則是泛黃的正式紙張。"
 
 # game/nikroute4b.rpy:2924
@@ -9186,10 +9184,10 @@ translate Tchinese yaofuturechoice2_81a85d7e:
     # ya "\"...Adler.\""
     ya "……Adler。"
 
-# game/nikroute4b.rpy:2995
-translate Tchinese yaofuturechoice2_f1791b0b:
+# game/nikroute4b.rpy:3338
+translate Tchinese yaofuturechoice2_5c930c96:
 
-    # wi "\"No need to be cold with me Yao, I ain’t a police no more.\""
+    # wi "\"No need to be cold with me Yao, I ain’t police no more.\""
     wi "別這麼冷淡嘛Yao，我已經不當警察了。"
 
 # game/nikroute4b.rpy:3000
@@ -10206,10 +10204,10 @@ translate Tchinese yaofuturechoice2_27fa3263:
     # ni "\"You would hear popcorn machines popping.\""
     ni "爆米花機器的聲響。"
 
-# game/nikroute4b.rpy:3340
-translate Tchinese yaofuturechoice2_36deaf70:
+# game/nikroute4b.rpy:3689
+translate Tchinese yaofuturechoice2_8a98fd50:
 
-    # ni "\"Or some Calliope music sounding off.\""
+    # ni "\"Or some calliope music sounding off.\""
     ni "或汽笛風琴聲。"
 
 # game/nikroute4b.rpy:3341
@@ -11057,77 +11055,3 @@ translate Tchinese strings:
     # game/nikroute4b.rpy:2626
     old "Because you’re my friend."
     new "因為你是我的朋友。"
-# TODO: Translation updated at 2025-06-06 01:45
-
-# game/nikroute4b.rpy:1230
-translate Tchinese nikroute4b_fe917b25:
-
-    # br "\"Of course, he’s still a chink, through no fault of his own. That means he will sell me out to the highest price one day.\""
-    br ""
-
-# game/nikroute4b.rpy:1307
-translate Tchinese nikroute4b_a154aee2:
-
-    # br "\"I like to be careful with my gun...\""
-    br ""
-
-# game/nikroute4b.rpy:2312
-translate Tchinese nikroute4b_2808565f:
-
-    # wi "\"The Guard’s still hauling buckets up and down from Lake Emma to put it out.\""
-    wi ""
-
-# game/nikroute4b.rpy:2340
-translate Tchinese nikroute4b_060fde8a:
-
-    # m "\"I need to check on the Madam.\""
-    m ""
-
-# game/nikroute4b.rpy:2360
-translate Tchinese nikroute4b_e1f3dd9a:
-
-    # "If I didn’t know better, I’d say it feels like the end of the world."
-    ""
-
-# game/nikroute4b.rpy:2366
-translate Tchinese nikroute4b_34a18126:
-
-    # "The upper scale menswear store had its glass kicked in."
-    ""
-
-# game/nikroute4b.rpy:2487
-translate Tchinese nikroute4b_9fc2cfdc:
-
-    # "But it does feel weird to know this will be the last errand I run for the Madam."
-    ""
-
-# game/nikroute4b.rpy:3201
-translate Tchinese yaofuturechoice2_4df9aa8a:
-
-    # wi "\"And thanks to the evidence we’ve compiled, she’s trying to pin the fire on ‘im, too.\""
-    wi ""
-
-# game/nikroute4b.rpy:3264
-translate Tchinese yaofuturechoice2_abdd9ab8:
-
-    # "One is a picture of the old staff at the Hip last year."
-    ""
-
-# game/nikroute4b.rpy:3265
-translate Tchinese yaofuturechoice2_cc1a1cbd:
-
-    # "The other is a browned, formal-looking piece of paper."
-    ""
-
-# game/nikroute4b.rpy:3338
-translate Tchinese yaofuturechoice2_5c930c96:
-
-    # wi "\"No need to be cold with me Yao, I ain’t police no more.\""
-    wi ""
-
-# game/nikroute4b.rpy:3689
-translate Tchinese yaofuturechoice2_8a98fd50:
-
-    # ni "\"Or some calliope music sounding off.\""
-    ni ""
-

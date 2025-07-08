@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-03-19 20:06
-
 # game/williamroute.rpy:3
 translate Tchinese williamroute_218ecce7:
 
@@ -367,9 +365,9 @@ translate Tchinese williamroute_23c14411:
     "在我做好心理準備前，腦中千思萬緒。"
 
 # game/williamroute.rpy:93
-translate Tchinese williamroute_87b29e47:
+translate Tchinese williamroute_ddd379d6:
 
-    # "I figure that even if I did get away with killing Jack, scott free, that wouldn't matter to God."
+    # "I figure that even if I did get away with killing Jack, scot-free, that wouldn't matter to God."
     "我想，就算在殺了Jack之後能逃脫法網，神也不會寬恕我。"
 
 # game/williamroute.rpy:94
@@ -1698,11 +1696,11 @@ translate Tchinese williamroute_1b297a9e:
     # "It takes more willpower than I thought to stop myself."
     "我得用比想像中更費神的意志才能停下腳步。"
 
-# game/williamroute.rpy:416
-translate Tchinese williamroute_9f107fb1:
+# game/williamroute.rpy:417
+translate Tchinese williamroute_606affa0:
 
-    # "I swerve to the right, leading us up the dirt road."
-    "我轉向右側，領著一行人來到砂土路上。"
+    # "I swerve to the left, leading us up the dirt road."
+    "我轉向左側，領著一行人來到砂土路上。"
 
 # game/williamroute.rpy:418
 translate Tchinese williamroute_c325a1cd:
@@ -2377,9 +2375,9 @@ translate Tchinese williamroute_a9bc8fbb:
     m "天啊，那可是個狼蛛巢！"
 
 # game/williamroute.rpy:591
-translate Tchinese williamroute_cd0d345d:
+translate Tchinese williamroute_4d427a4f:
 
-    # "I flinch away. My paw had almost brushed one of the many bundles of legs."
+    # "I flinch away. My paw almost brushed one of the many bundles of legs."
     "我嚇得跳開。我的爪差點就擦過那成群的蜘蛛腳了。"
 
 # game/williamroute.rpy:592
@@ -7631,11 +7629,11 @@ translate Tchinese williamroute_3a33cb92:
     # m "\"What sorts of strange things, William?\""
     m "什麼樣的怪事，William？"
 
-# game/williamroute.rpy:2136
-translate Tchinese williamroute_644b33e8:
+# game/williamroute.rpy:2148
+translate Tchinese williamroute_48537202:
 
-    # wi "\"Todd weren’t troublin’ Mrs. Green just for her pies.\""
-    wi "Todd可不只是為了Green夫人的派才去叨擾她的。"
+    # wi "\"Todd weren’t troublin’ Mrs. Greene just for her pies.\""
+    wi "Todd可不只是為了Greene夫人的派才去叨擾她的。"
 
 # game/williamroute.rpy:2138
 translate Tchinese williamroute_a7a0541f:
@@ -8422,29 +8420,3 @@ translate Tchinese williamroute_9206859d:
 
     # "Maybe next time I should ask what scares you."
     "也許下一次，我應該問問你內心中的恐懼。"
-# TODO: Translation updated at 2025-06-06 01:45
-
-# game/williamroute.rpy:93
-translate Tchinese williamroute_ddd379d6:
-
-    # "I figure that even if I did get away with killing Jack, scot-free, that wouldn't matter to God."
-    ""
-
-# game/williamroute.rpy:417
-translate Tchinese williamroute_606affa0:
-
-    # "I swerve to the left, leading us up the dirt road."
-    ""
-
-# game/williamroute.rpy:591
-translate Tchinese williamroute_4d427a4f:
-
-    # "I flinch away. My paw almost brushed one of the many bundles of legs."
-    ""
-
-# game/williamroute.rpy:2148
-translate Tchinese williamroute_48537202:
-
-    # wi "\"Todd weren’t troublin’ Mrs. Greene just for her pies.\""
-    wi ""
-

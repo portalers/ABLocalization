@@ -6555,10 +6555,10 @@ translate Tchinese after_sw1_d42849cb:
     # cy "\"I can play these games because they’re not scary.\""
     cy "我會玩這些把戲，正是因為它們並不可怕。"
 
-# game/williamroute2.rpy:1892
-translate Tchinese after_sw1_f2b2ab19:
+# game/williamroute2.rpy:1968
+translate Tchinese after_sw1_a5b1daad:
 
-    # cy "\"But some people liked to be scared at this stuff and I don’t want to ruin their fun.\""
+    # cy "\"But some people like to be scared at this stuff and I don’t want to ruin their fun.\""
     cy "但就有些人喜歡被這些東西嚇一跳，我不想壞了她們的興頭。"
 
 # game/williamroute2.rpy:1894
@@ -7263,10 +7263,10 @@ translate Tchinese after_sw1_fffb1d67:
     # "Something grabs me under the arm."
     "什麼東西夾住了我的手臂。"
 
-# game/williamroute2.rpy:2098
-translate Tchinese after_sw1_b5512484:
+# game/williamroute2.rpy:2174
+translate Tchinese after_sw1_8815fb59:
 
-    # ha "\"I got ‘em.\""
+    # ha "\"I got ‘im.\""
     ha "扶住了。"
 
 # game/williamroute2.rpy:2101
@@ -8349,10 +8349,10 @@ translate Tchinese dd1b_880bc6a6:
     # "He turns back to me."
     "他轉回身。"
 
-# game/williamroute2.rpy:2456
-translate Tchinese dd1b_678e4aa3:
+# game/williamroute2.rpy:2533
+translate Tchinese dd1b_dbe756d9:
 
-    # ha "\"This man is the pissest poor liar I’ve met in my life.\""
+    # ha "\"This man is the piss poorest liar I’ve met in my life.\""
     ha "這個男人是我這輩子見過的最差勁的騙子了。"
 
 # game/williamroute2.rpy:2457
@@ -13205,8 +13205,6 @@ translate Tchinese strings:
     old "Witches."
     new "女巫。"
 
-# TODO: Translation updated at 2023-05-06 09:21
-
 # game/williamroute2.rpy:1750
 translate Tchinese after_sw1_1f5ff82c:
 
@@ -13590,23 +13588,3 @@ translate Tchinese after_sw1_51afd4df:
 
     # sc "\"On it, Madam.\""
     sc "我這就去，夫人。"
-# TODO: Translation updated at 2025-06-06 01:45
-
-# game/williamroute2.rpy:1968
-translate Tchinese after_sw1_a5b1daad:
-
-    # cy "\"But some people like to be scared at this stuff and I don’t want to ruin their fun.\""
-    cy ""
-
-# game/williamroute2.rpy:2174
-translate Tchinese after_sw1_8815fb59:
-
-    # ha "\"I got ‘im.\""
-    ha ""
-
-# game/williamroute2.rpy:2533
-translate Tchinese dd1b_dbe756d9:
-
-    # ha "\"This man is the piss poorest liar I’ve met in my life.\""
-    ha ""
-

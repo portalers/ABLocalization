@@ -515,15 +515,15 @@ translate Tchinese murdochroute2_7cf0c1c9:
     m "……說到Murdoch，我在找他。"
 
 # game/murdochroute2.rpy:115
-translate Tchinese murdochroute2_88542279:
+translate Tchinese murdochroute2_7d298645:
 
-    # "The old fox's beam turned into a look of consternation."
+    # "The old fox's beam turns into a look of consternation."
     "老狐狸滿臉的笑容變為了驚愕。"
 
 # game/murdochroute2.rpy:116
-translate Tchinese murdochroute2_c864c209:
+translate Tchinese murdochroute2_55bc8079:
 
-    # "He leered at me for a moment, small green eyes squinting, as if putting one and two together."
+    # "He leers at me for a moment, small green eyes squinting, as if putting one and two together."
     "他眯著綠色的小眼睛，色眯眯地打量了我一段時間，像是在心裡推測著什麼。"
 
 # game/murdochroute2.rpy:117
@@ -551,9 +551,9 @@ translate Tchinese murdochroute2_46b45b63:
     al "把它放回原處！"
 
 # game/murdochroute2.rpy:122
-translate Tchinese murdochroute2_19aedcee:
+translate Tchinese murdochroute2_ae7aead9:
 
-    # "The old fox was still talking, but the volume of his voice had raised to a shout."
+    # "The old fox is still talking, but the volume of his voice has raised to a shout."
     "老狐狸依然在講話，但音量已經上升到了喊的程度。"
 
 # game/murdochroute2.rpy:124
@@ -616,10 +616,10 @@ translate Tchinese murdochroute2_d2853a79:
     # "Kids are running every which way, but most of them are headed to a clearing behind the school."
     "孩子們四處奔走，不過大部分是朝著學校後面的空地而去。"
 
-# game/murdochroute2.rpy:142
-translate Tchinese murdochroute2_31cbf163:
+# game/murdochroute2.rpy:141
+translate Tchinese murdochroute2_719297d7:
 
-    # "There's patches of grass beneath pine trees and of open space."
+    # "There's patches of grass beneath pine trees and lots of open space."
     "生長著松樹與成片草地的廣場。"
 
 # game/murdochroute2.rpy:143
@@ -664,11 +664,11 @@ translate Tchinese murdochroute2_391f10a1:
     # "There's a group of girls under a pine tree up ahead."
     "前面的松樹下有一群女孩。"
 
-# game/murdochroute2.rpy:150
-translate Tchinese murdochroute2_e8a5268a:
+# game/murdochroute2.rpy:149
+translate Tchinese murdochroute2_b1cc5bef:
 
-    # "Bit nervous to approach them though-- would probably think I'm a weirdo."
-    "接近她們令我有一點緊張：她們可能會覺得我是個怪人。"
+    # "Bit nervous to approach them though — would probably think I'm a weirdo."
+    "接近她們令我有一點緊張——她們可能會覺得我是個怪人。"
 
 # game/murdochroute2.rpy:151
 translate Tchinese murdochroute2_cdfede9c:
@@ -934,22 +934,22 @@ translate Tchinese murdochroute2_5ac9de80:
     # "All of the girls are dead quiet now."
     "女孩們現在如死一般安靜。"
 
-# game/murdochroute2.rpy:229
-translate Tchinese murdochroute2_fc2466e2:
+# game/murdochroute2.rpy:228
+translate Tchinese murdochroute2_3c96d3fb:
 
-    # "I didn't like that one bit."
+    # "I don't like that one bit."
     "我一點也不喜歡。"
 
-# game/murdochroute2.rpy:230
-translate Tchinese murdochroute2_4100a3c2:
+# game/murdochroute2.rpy:229
+translate Tchinese murdochroute2_bde748d6:
 
-    # "Made me feel a giant weirdo."
+    # "Makes me feel a giant weirdo."
     "讓我感覺自己是個怪人。"
 
-# game/murdochroute2.rpy:231
-translate Tchinese murdochroute2_07923024:
+# game/murdochroute2.rpy:230
+translate Tchinese murdochroute2_b7008f31:
 
-    # "'Cept they were the ones being odd."
+    # "'Cept they're the ones being odd."
     "不過他們才是怪胎。"
 
 # game/murdochroute2.rpy:232
@@ -958,10 +958,10 @@ translate Tchinese murdochroute2_cf46c756:
     # "Lousy kids."
     "噁心的崽子們。"
 
-# game/murdochroute2.rpy:235
-translate Tchinese murdochroute2_b1f61de9:
+# game/murdochroute2.rpy:234
+translate Tchinese murdochroute2_0300608a:
 
-    # "I head into the front door of the school where the secretary is waiting."
+    # "I head in the front door of the school where the secretary is waiting."
     "我走進學校正門，秘書正等在那裡。"
 
 # game/murdochroute2.rpy:236
@@ -1054,10 +1054,10 @@ translate Tchinese murdochroute2_72c92604:
     # m "\"We both had one thing on our mind yesterday...\""
     m "我們都有自己的心事……"
 
-# game/murdochroute2.rpy:889
-translate Tchinese murdochroute2_ebc0afe9:
+# game/murdochroute2.rpy:259
+translate Tchinese murdochroute2_db67a968:
 
-    # "The fox's expression softened."
+    # "The fox's expression softens."
     "狐狸的表情柔和了下來。"
 
 # game/murdochroute2.rpy:262
@@ -1066,11 +1066,11 @@ translate Tchinese murdochroute2_f0754f50:
     # mu "\"I rarely have just one thing on my mind.\""
     mu "我很少只想著一件事。"
 
-# game/murdochroute2.rpy:264
-translate Tchinese murdochroute2_9dbc59fc:
+# game/murdochroute2.rpy:263
+translate Tchinese murdochroute2_ea382d1d:
 
-    # mu "\"But the photograph--\""
-    mu "但是那張照片──"
+    # mu "\"But the photograph—\""
+    mu "但是那張照片——"
 
 # game/murdochroute2.rpy:267
 translate Tchinese murdochroute2_3440bd86:
@@ -1109,9 +1109,9 @@ translate Tchinese murdochroute2_69791a2a:
     gr "三十二年來，我們始終保持著半年一次的拍照日野餐活動。"
 
 # game/murdochroute2.rpy:281
-translate Tchinese murdochroute2_762936b3:
+translate Tchinese murdochroute2_1abee5bf:
 
-    # gr "\"Every man, woman and child who grows up in Echo will be proud of their days spent in these halls.\""
+    # gr "\"Every man, woman, and child who grows up in Echo will be proud of their days spent in these halls.\""
     gr "每一個在回音鎮長大的男人、女人以及孩子，都會為他們在那些禮堂中度過的時光而自豪。"
 
 # game/murdochroute2.rpy:283
@@ -1216,10 +1216,10 @@ translate Tchinese murdochroute2_d2e8e108:
     # m "\"What the hell was that?\""
     m "搞什麼東西？"
 
-# game/murdochroute2.rpy:325
-translate Tchinese murdochroute2_c9a198cf:
+# game/murdochroute2.rpy:326
+translate Tchinese murdochroute2_1b4fcbaf:
 
-    # "The fox's expression seemed distant."
+    # "The fox's expression seems distant."
     "狐狸似乎有些出神。"
 
 # game/murdochroute2.rpy:328
@@ -1282,10 +1282,10 @@ translate Tchinese murdochroute2_a083deca:
     # mu "\"I won't let it be your problem.\""
     mu "我不會讓這困擾到你的。"
 
-# game/murdochroute2.rpy:347
-translate Tchinese murdochroute2_1b0557c4:
+# game/murdochroute2.rpy:348
+translate Tchinese murdochroute2_81d3dc8d:
 
-    # "I could feel my mouth break into a scowl."
+    # "I can feel my mouth break into a scowl."
     "我能感到自己的嘴咧成了不悅的表情。"
 
 # game/murdochroute2.rpy:348
@@ -1294,16 +1294,16 @@ translate Tchinese murdochroute2_3b060475:
     # m "\"I won't either.\""
     m "我也不會。"
 
-# game/murdochroute2.rpy:352
-translate Tchinese murdochroute2_cf794c16:
+# game/murdochroute2.rpy:353
+translate Tchinese murdochroute2_02098a34:
 
-    # "The door opened again."
+    # "The door opens again."
     "大門再次打開。"
 
-# game/murdochroute2.rpy:355
-translate Tchinese murdochroute2_fbe70539:
+# game/murdochroute2.rpy:357
+translate Tchinese murdochroute2_4b4a7ab3:
 
-    # "Gretchen was back with a grey vest hanging from one of her arms and a derby hat."
+    # "Gretchen is back with a grey vest hanging from one of her arms and a derby hat."
     "Gretchen回來了，她的手臂上掛著一件灰色背心，拿著一頂圓禮帽。"
 
 # game/murdochroute2.rpy:357
@@ -1312,22 +1312,22 @@ translate Tchinese murdochroute2_54617632:
     # gr "\"This belonged to my cousin, but he got too twiggy for it. You look close to the right size.\""
     gr "這是我表兄的，不過他太瘦小了。看起來很合你的身。"
 
-# game/murdochroute2.rpy:359
-translate Tchinese murdochroute2_6b4631a2:
+# game/murdochroute2.rpy:361
+translate Tchinese murdochroute2_85104ef9:
 
-    # "She thrust the hat and vest into my hand."
+    # "She thrusts the hat and vest into my hand."
     "她把帽子和背心推到我手裡。"
 
-# game/murdochroute2.rpy:361
-translate Tchinese murdochroute2_9a0f7792:
+# game/murdochroute2.rpy:363
+translate Tchinese murdochroute2_265dbe94:
 
-    # "I didn't hesitate to put it on."
+    # "I don't hesitate to put it on."
     "我毫不猶豫地穿戴上它們。"
 
-# game/murdochroute2.rpy:363
-translate Tchinese murdochroute2_2ed4219b:
+# game/murdochroute2.rpy:365
+translate Tchinese murdochroute2_eb5844fa:
 
-    # "The fit was snug and the cap was tight, but I could move easily enough in the clothing."
+    # "The fit is snug and the cap is tight, but I can move easily enough in the clothing."
     "尺寸很緊，帽子也很牢固，不過足夠我自由移動了。"
 
 # game/murdochroute2.rpy:365
@@ -1372,10 +1372,10 @@ translate Tchinese murdochroute2_3af8c802:
     # "The next few hours go by slowly."
     "接下來的幾個小時慢慢過去了。"
 
-# game/murdochroute2.rpy:376
-translate Tchinese murdochroute2_9d2a92d8:
+# game/murdochroute2.rpy:378
+translate Tchinese murdochroute2_8ff2fbd3:
 
-    # "By the time the last student is finished with their shoot and exit the auditorium the two of us are breathing in relief."
+    # "By the time the last student is finished with their shoot and exits the auditorium, the two of us are breathing in relief."
     "等到最後一個學生拍攝完畢，退出了禮堂的時候，我們二人皆鬆了口氣。"
 
 # game/murdochroute2.rpy:378
@@ -1444,10 +1444,10 @@ translate Tchinese murdochroute2_365c1165:
     # m "\"I'll bring you back a plate.\""
     m "我會給你弄一些。"
 
-# game/murdochroute2.rpy:395
-translate Tchinese murdochroute2_b8d59d07:
+# game/murdochroute2.rpy:397
+translate Tchinese murdochroute2_14130cca:
 
-    # "He opened his eyes again and gave me a weak smile, then shook his head."
+    # "He opens his eyes again and gives me a weak smile, then shakes his head."
     "他又睜開眼睛，虛弱地對我笑了笑，然後搖搖頭。"
 
 # game/murdochroute2.rpy:396
@@ -1522,11 +1522,11 @@ translate Tchinese murdochroute2_68e14860:
     # m "\"The hell are you doing here?\""
     m "你怎麼在這裡？"
 
-# game/murdochroute2.rpy:413
-translate Tchinese murdochroute2_5b9267ae:
+# game/murdochroute2.rpy:415
+translate Tchinese murdochroute2_eebf63d7:
 
-    # "I realize at this moment that one of Murdoch's sisters stands next to him--the tiny astronomer with the big glasses that sit on her snout."
-    "就在此時，我才意識到他身旁站著Murdoch的一個姐妹：那個鼻樑上戴著副小眼鏡的小天文學家。"
+    # "I realize at this moment that one of Murdoch's sisters stands next to him — the tiny astronomer with the big glasses that sit on her snout."
+    "就在此時，我才意識到他身旁站著Murdoch的一個姐妹——那個鼻樑上戴著副小眼鏡的小天文學家。"
 
 # game/murdochroute2.rpy:415
 translate Tchinese murdochroute2_fdae0880:
@@ -1616,12 +1616,12 @@ translate Tchinese murdochroute2_8206e154:
 translate Tchinese murdochroute2_98fa8510:
 
     # "Murdoch's other sister, sporting an emerald plaid summer dress, glides toward us."
-    "Murdoch的另一個姐妹──穿著一件翡翠格紋的夏裝──朝我們無聲走了過來。"
+    "Murdoch的另一個姐妹——穿著一件翡翠格紋的夏裝——朝我們無聲走了過來。"
 
-# game/murdochroute2.rpy:449
-translate Tchinese murdochroute2_c31db000:
+# game/murdochroute2.rpy:451
+translate Tchinese murdochroute2_6647a380:
 
-    # "To her left is Ralph stalking towards us, who's one of the last people I want to see right now."
+    # "To her left is Ralph, stalking towards us. He's one of the last people I want to see right now."
     "跟在她左側的是Ralph，我目前最不想見到的人之一。"
 
 # game/murdochroute2.rpy:453
@@ -1654,10 +1654,10 @@ translate Tchinese murdochroute2_e4300262:
     # "Her glance flicks to me."
     "她的目光瞟到了我身上。"
 
-# game/murdochroute2.rpy:463
-translate Tchinese murdochroute2_92cc291a:
+# game/murdochroute2.rpy:465
+translate Tchinese murdochroute2_0e3b12ad:
 
-    # ho "\"Working one our longest days of the year on your second day isn't the best of luck.\""
+    # ho "\"Working one of our longest days of the year on your second day isn't the best of luck.\""
     ho "第二個工作日就是一年中最漫長的一天，真是不走運。"
 
 # game/murdochroute2.rpy:465
@@ -1684,11 +1684,11 @@ translate Tchinese murdochroute2_e49a247b:
     # m "\"I've dealt with scarier, miss.\""
     m "我處理過更嚇人的，女士。"
 
-# game/murdochroute2.rpy:472
-translate Tchinese murdochroute2_7b9ced77:
+# game/murdochroute2.rpy:474
+translate Tchinese murdochroute2_157b0a49:
 
-    # ho "\"Of course you have--you've met my juniors.\""
-    ho "那是當然：你已經見識過我的學生了。"
+    # ho "\"Of course you have — you've met my juniors.\""
+    ho "那是當然——你已經見識過我的學生了。"
 
 # game/murdochroute2.rpy:475
 translate Tchinese murdochroute2_83e8395d:
@@ -1702,10 +1702,10 @@ translate Tchinese murdochroute2_8022627a:
     # "Good Lord almighty I need to escape this."
     "萬能的主啊，讓我逃離這一切吧。"
 
-# game/murdochroute2.rpy:479
-translate Tchinese murdochroute2_664d5f7d:
+# game/murdochroute2.rpy:481
+translate Tchinese murdochroute2_7bbe82ae:
 
-    # ho "\"Well if the rest of you can be brave, we'll just have follow at our wedding next week.\""
+    # ho "\"Well if the rest of you can be brave, we'll just have to follow at our wedding next week.\""
     ho "如果你們其他人能勇敢一點，我們下週的婚禮就又有參與者了。"
 
 # game/murdochroute2.rpy:481
@@ -1732,11 +1732,11 @@ translate Tchinese murdochroute2_5d9ff484:
     # ho "\"This is my fiance, Jim.\""
     ho "這是我的未婚夫，Jim。"
 
-# game/murdochroute2.rpy:491
-translate Tchinese murdochroute2_8928ce4a:
+# game/murdochroute2.rpy:493
+translate Tchinese murdochroute2_de1a105d:
 
-    # "What the fuck are you doing, Sam."
-    "你他媽在幹嘛，Sam。"
+    # "What the fuck are you doing, Sam?"
+    "你他媽在幹嘛，Sam？"
 
 # game/murdochroute2.rpy:492
 translate Tchinese murdochroute2_a0c4bcf5:
@@ -1744,16 +1744,16 @@ translate Tchinese murdochroute2_a0c4bcf5:
     # m "\"Good to see you.\""
     m "很高興見到你。"
 
-# game/murdochroute2.rpy:493
-translate Tchinese murdochroute2_34dd82cf:
+# game/murdochroute2.rpy:495
+translate Tchinese murdochroute2_94871ed8:
 
-    # "Why."
+    # "Why?"
     "為什麼。"
 
-# game/murdochroute2.rpy:498
-translate Tchinese murdochroute2_2308c589:
+# game/murdochroute2.rpy:500
+translate Tchinese murdochroute2_ad26b7b7:
 
-    # "Jim, the fox I blew yesterday looks me in the eye, then away, then nods gruffly."
+    # "Jim, the fox I blew yesterday, looks me in the eye, then looks away, then nods gruffly."
     "Jim，那隻我昨天吹過的狐狸直視著我的眼睛，然後移開視線，生硬地點了點頭。"
 
 # game/murdochroute2.rpy:499
@@ -1840,10 +1840,10 @@ translate Tchinese murdochroute2_dc4f842f:
     # "Maybe I should insist on being a waiter to Harlan."
     "也許我應該堅持當Harlan的服務員。"
 
-# game/murdochroute2.rpy:534
-translate Tchinese murdochroute2_aeb79650:
+# game/murdochroute2.rpy:536
+translate Tchinese murdochroute2_38951aca:
 
-    # "After all, I still haven't spilled Murdoch's food yet moving this fast."
+    # "After all, I still haven't spilled Murdoch's food yet, moving this fast."
     "畢竟在這麼快的速度下我還沒把Murdoch的食物給灑了。"
 
 # game/murdochroute2.rpy:535
@@ -2260,11 +2260,11 @@ translate Tchinese murdochroute2_9d75d70b:
     # m "\"And you have a personality that clears out the room.\""
     m "而你的性格將房間一掃而空。"
 
-# game/murdochroute2.rpy:678
-translate Tchinese murdochroute2_710cb9a2:
+# game/murdochroute2.rpy:680
+translate Tchinese murdochroute2_b6a04c3c:
 
-    # ra "\"And you're a fuck boy, we all have our vices.\""
-    ra "而你是一個該死小鬼。我們都有自己的惡習。"
+    # ra "\"And you're a fuck boy. We all have our vices.\""
+    ra "而你是一個男妓。我們都有自己的惡習。"
 
 # game/murdochroute2.rpy:680
 translate Tchinese murdochroute2_6c052881:
@@ -2356,10 +2356,10 @@ translate Tchinese murdochroute2_c8a4cc7d:
     # ra "\"Doesn't matter if you're the nicest guy on the block.\""
     ra "跟你是不是這街區最善良的傢伙無關。"
 
-# game/murdochroute2.rpy:708
-translate Tchinese murdochroute2_76b85f4b:
+# game/murdochroute2.rpy:710
+translate Tchinese murdochroute2_e428d828:
 
-    # ra "\"I'm still terrified of the scandal you could cause-- and if you're in trouble, the whole business could follow you down the drain.\""
+    # ra "\"I'm still terrified of the scandal you could cause — and if you're in trouble, the whole business could follow you down the drain.\""
     ra "我還是在害怕你可能引起的醜聞：如果你陷入了麻煩，整個生意都將跟著你完蛋。"
 
 # game/murdochroute2.rpy:709
@@ -2662,10 +2662,10 @@ translate Tchinese murdochroute2_e8d42bf4:
     # mu "\"Just one trip was all it took.\""
     mu "只需要一趟就可以。"
 
-# game/murdochroute2.rpy:804
-translate Tchinese murdochroute2_05f3d367:
+# game/murdochroute2.rpy:806
+translate Tchinese murdochroute2_031d6d23:
 
-    # "The rat smiled and lifted his eyebrows."
+    # "The rat smiles and lifts his eyebrows."
     "老鼠笑著揚了揚眉。"
 
 # game/murdochroute2.rpy:806
@@ -2746,10 +2746,10 @@ translate Tchinese murdochroute2_5924eeba:
     # ra "\"Yeah, yeah.\""
     ra "是，是。"
 
-# game/murdochroute2.rpy:836
-translate Tchinese murdochroute2_648deff5:
+# game/murdochroute2.rpy:838
+translate Tchinese murdochroute2_f9d4bfb6:
 
-    # "Murdoch starts whistling as he makes his way over to the darkroom door and Ralph looks back at him for a second."
+    # "Murdoch starts whistling as he makes his way over to the darkroom door, and Ralph looks back at him for a second."
     "Murdoch開始吹起口哨，走到暗室門口。Ralph回頭看了他一眼。"
 
 # game/murdochroute2.rpy:838
@@ -2824,10 +2824,10 @@ translate Tchinese murdochroute2_cb8074a6:
     # mu "\"It took too long for us to be alone again.\""
     mu "我們的再次獨處花了太長時間了。"
 
-# game/murdochroute2.rpy:857
-translate Tchinese murdochroute2_740fc859:
+# game/murdochroute2.rpy:859
+translate Tchinese murdochroute2_39a06798:
 
-    # "I knew he had been waiting to talk about this all day."
+    # "I know he's been waiting to talk about this all day."
     "我知道他一整天都在等著談這件事。"
 
 # game/murdochroute2.rpy:858
@@ -2926,10 +2926,10 @@ translate Tchinese murdochroute2_3fe98436:
     # m "\"God's.\""
     m "上帝的。"
 
-# game/murdochroute2.rpy:882
-translate Tchinese murdochroute2_09adb7d8:
+# game/murdochroute2.rpy:884
+translate Tchinese murdochroute2_a3dd2786:
 
-    # m "\"Or the devil's.\""
+    # m "\"Or the Devil's.\""
     m "或是魔鬼的。"
 
 # game/murdochroute2.rpy:883
@@ -4252,10 +4252,10 @@ translate Tchinese murdochroute2_fbddc8fd:
     # mu "\"Sam here helped me cut the labor in half.\""
     mu "Sam幫我省去了一半的勞動時間。"
 
-# game/murdochroute2.rpy:1243
-translate Tchinese murdochroute2_984b2cb6:
+# game/murdochroute2.rpy:1245
+translate Tchinese murdochroute2_1047d16c:
 
-    # "William smirked at me."
+    # "William smirks at me."
     "William嘲弄地對我笑了笑。"
 
 # game/murdochroute2.rpy:1245
@@ -4432,10 +4432,10 @@ translate Tchinese murdochroute2_0c55c81f:
     # m "\"He looked miserable and scared.\""
     m "他看起來既痛苦，又害怕。"
 
-# game/murdochroute2.rpy:1298
-translate Tchinese murdochroute2_57b24d8f:
+# game/murdochroute2.rpy:1300
+translate Tchinese murdochroute2_e17e5969:
 
-    # m "\"It was the most disorganized I had ever seen him.\""
+    # m "\"It was the most disorganized I've ever seen him.\""
     m "這是我頭一次看見他這麼六神無主。"
 
 # game/murdochroute2.rpy:1300
@@ -4450,10 +4450,10 @@ translate Tchinese murdochroute2_1ade7122:
     # m "\"Is it changing William too?\""
     m "其中也包括William嗎？"
 
-# game/murdochroute2.rpy:1303
-translate Tchinese murdochroute2_661db3ff:
+# game/murdochroute2.rpy:1305
+translate Tchinese murdochroute2_b4f67ba9:
 
-    # "Murdoch's lips pursed."
+    # "Murdoch's lips purse."
     "Murdoch噘起嘴唇。"
 
 # game/murdochroute2.rpy:1305
@@ -4462,10 +4462,10 @@ translate Tchinese murdochroute2_d1897d81:
     # mu "\"Maybe.\""
     mu "也許吧。"
 
-# game/murdochroute2.rpy:1306
-translate Tchinese murdochroute2_a5896655:
+# game/murdochroute2.rpy:1308
+translate Tchinese murdochroute2_4fb51848:
 
-    # "He made spinning gestures with his paws in the air."
+    # "He makes spinning gestures with his paws in the air."
     "他用爪子在空中揮了一圈。"
 
 # game/murdochroute2.rpy:1308
@@ -4600,10 +4600,10 @@ translate Tchinese murdochroute2_7625dd14:
     # ra "\"Oh? Change your mind?\""
     ra "哦？改主意了？"
 
-# game/murdochroute2.rpy:1339
-translate Tchinese murdochroute2_e400b578:
+# game/murdochroute2.rpy:1341
+translate Tchinese murdochroute2_1334bd5e:
 
-    # "The rat swung open the door, takes off goggles, then immediately stops in front of me."
+    # "The rat swings open the door, takes off his goggles, then immediately stops in front of me."
     "那隻老鼠推開門，摘下護目鏡，緊接著停在了我面前。"
 
 # game/murdochroute2.rpy:1341
@@ -4630,10 +4630,10 @@ translate Tchinese murdochroute2_36641ad8:
     # mu "\"I couldn't be more.\""
     mu "真的不能再真了。"
 
-# game/murdochroute2.rpy:1350
-translate Tchinese murdochroute2_9e563afb:
+# game/murdochroute2.rpy:1352
+translate Tchinese murdochroute2_3403ae21:
 
-    # "The rat sighed and rubbed the back of his neck with his paw."
+    # "The rat sighs and rubs the back of his neck with his paw."
     "老鼠揉了揉脖子後面，嘆了口氣。"
 
 # game/murdochroute2.rpy:1352
@@ -4684,10 +4684,10 @@ translate Tchinese murdochroute2_54e35425:
     # mu "\"Doesn't matter.\""
     mu "不要緊。"
 
-# game/murdochroute2.rpy:1365
-translate Tchinese murdochroute2_da24bad2:
+# game/murdochroute2.rpy:1367
+translate Tchinese murdochroute2_44f756cc:
 
-    # "He plucked a photograph from his pocket and slapped the side of it with his knuckles."
+    # "He plucks a photograph from his pocket and slaps the side of it with his knuckles."
     "他從口袋裡掏出一張照片，用指節從側面敲了敲。"
 
 # game/murdochroute2.rpy:1367
@@ -4732,10 +4732,10 @@ translate Tchinese murdochroute2_61c0af5c:
     # ra "\"Yeah I do.\""
     ra "是啊，確實。"
 
-# game/murdochroute2.rpy:1378
-translate Tchinese murdochroute2_7c6df4f3:
+# game/murdochroute2.rpy:1380
+translate Tchinese murdochroute2_42f56964:
 
-    # "The rat blew a quick puff of smoke over his shoulder."
+    # "The rat blows a quick puff of smoke over his shoulder."
     "老鼠扭頭吐出一口菸。"
 
 # game/murdochroute2.rpy:1380
@@ -4930,10 +4930,10 @@ translate Tchinese murdochroute2_4e00b124:
     # m "\"I want somebody to know where we are if I'm going out.\""
     m "既然如此，我希望有人知道我們的位置。"
 
-# game/murdochroute2.rpy:1429
-translate Tchinese murdochroute2_b2b6af6b:
+# game/murdochroute2.rpy:1431
+translate Tchinese murdochroute2_063aad32:
 
-    # "The fox rolled his eyes."
+    # "The fox rolls his eyes."
     "狐狸翻了個白眼。"
 
 # game/murdochroute2.rpy:1430
@@ -5008,11 +5008,11 @@ translate Tchinese murdochroute2_688f7f91:
     # m "\"...and the pharmacy rat...\""
     m "……還有藥房裡的老鼠……"
 
-# game/murdochroute2.rpy:1451
-translate Tchinese murdochroute2_50d4ff50:
+# game/murdochroute2.rpy:1449
+translate Tchinese murdochroute2_7839208d:
 
-    # mu "\"Pharmacy isn't spelled with an ‘F'.\""
-    mu "‘藥房’的拼寫不帶‘F’。"
+    # mu "\"Pharmacy isn't spelled with an 'F.'\""
+    mu "藥房的拼寫不帶「F」。"
 
 # game/murdochroute2.rpy:1448
 translate Tchinese murdochroute2_6f70ca52:
@@ -5050,10 +5050,10 @@ translate Tchinese murdochroute2_839e69cc:
     # ra "\"Why is he talking to himself?\""
     ra "他為什麼在自言自語？"
 
-# game/murdochroute2.rpy:1456
-translate Tchinese murdochroute2_9f08c4c7:
+# game/murdochroute2.rpy:1458
+translate Tchinese murdochroute2_f40f5b8d:
 
-    # "The rat was already on the opposite side of me, breathing down my neck."
+    # "The rat is already on the opposite side of me, breathing down my neck."
     "那隻老鼠已經出現在了我的對面，呼吸順著我的脖子流了下來。"
 
 # game/murdochroute2.rpy:1458
@@ -5074,10 +5074,10 @@ translate Tchinese murdochroute2_f006d64a:
     # "I leave the note face up on the desk."
     "我把字條正面朝上放在了桌子上。"
 
-# game/murdochroute2.rpy:1462
-translate Tchinese murdochroute2_53cf4f9f:
+# game/murdochroute2.rpy:1464
+translate Tchinese murdochroute2_3ca5e49b:
 
-    # ra "\"Enough dallying, let's be off.\""
+    # ra "\"Enough dallying. Let's be off.\""
     ra "別拖拖拉拉的，走了。"
 
 # game/murdochroute2.rpy:1465
@@ -5194,10 +5194,10 @@ translate Tchinese murdochroute2_98a5a6b2:
     # m "\"Shocking.\""
     m "真是沒想到。"
 
-# game/murdochroute2.rpy:1494
-translate Tchinese murdochroute2_d51de1b8:
+# game/murdochroute2.rpy:1496
+translate Tchinese murdochroute2_3e31d2a1:
 
-    # "Ralph let out a laugh."
+    # "Ralph lets out a laugh."
     "Ralph笑了出來。"
 
 # game/murdochroute2.rpy:1496
@@ -5212,10 +5212,10 @@ translate Tchinese murdochroute2_ec87c9db:
     # ra "\"You still have your balls so you did well.\""
     ra "到現在還有膽，不錯。"
 
-# game/murdochroute2.rpy:1500
-translate Tchinese murdochroute2_003f2ad9:
+# game/murdochroute2.rpy:1502
+translate Tchinese murdochroute2_a1f39db7:
 
-    # "Murdoch hemmed."
+    # "Murdoch hems."
     "Murdoch哼了一聲。"
 
 # game/murdochroute2.rpy:1503
@@ -5374,10 +5374,10 @@ translate Tchinese murdochroute2_8bbb39e3:
     # ra "\"Mate. Why wouldn't it be crowded?\""
     ra "有什麼不可以的，老弟？"
 
-# game/murdochroute2.rpy:1548
-translate Tchinese murdochroute2_d1c3c92f:
+# game/murdochroute2.rpy:1550
+translate Tchinese murdochroute2_9115d167:
 
-    # ra "\"It's big, bloody lake and we're still in the middle of summer.\""
+    # ra "\"It's a big, bloody lake and we're still in the middle of summer.\""
     ra "這個湖可大得離譜，再說現在還是仲夏。"
 
 # game/murdochroute2.rpy:1549
@@ -5434,11 +5434,11 @@ translate Tchinese murdochroute2_f86bdd4a:
     # ra "\"We're here.\""
     ra "我們到了。"
 
-# game/murdochroute2.rpy:1565
-translate Tchinese murdochroute2_027c8cd3:
+# game/murdochroute2.rpy:1568
+translate Tchinese murdochroute2_0d5819c6:
 
-    # m "\"Where's 'here'?\""
-    m "到{b}哪{/b}了？"
+    # m "\"Where's 'here?'\""
+    m "到「哪」了？"
 
 # game/murdochroute2.rpy:1568
 translate Tchinese murdochroute2_cc836b1d:
@@ -5446,10 +5446,10 @@ translate Tchinese murdochroute2_cc836b1d:
     # ra "\"A place me and him have been coming to for years.\""
     ra "一個我和他造訪多年的地方。"
 
-# game/murdochroute2.rpy:1569
-translate Tchinese murdochroute2_e037da60:
+# game/murdochroute2.rpy:1572
+translate Tchinese murdochroute2_e33dadd2:
 
-    # "The rat jerked his head at the fox."
+    # "The rat jerks his head at the fox."
     "老鼠猛地看向狐狸。"
 
 # game/murdochroute2.rpy:1571
@@ -5464,10 +5464,10 @@ translate Tchinese murdochroute2_48086a03:
     # mu "\"And after all of these years, we discovered a neat trick.\""
     mu "並且經過這麼多年，我們發現了一個技巧。"
 
-# game/murdochroute2.rpy:1575
-translate Tchinese murdochroute2_33653518:
+# game/murdochroute2.rpy:1578
+translate Tchinese murdochroute2_a1243f64:
 
-    # "Murdoch digs through his pants pocket, slips out a photograph and hands it to me."
+    # "Murdoch digs through his pants pocket, slips out a photograph, and hands it to me."
     "Murdoch從褲子口袋掏出一張照片遞了過來。"
 
 # game/murdochroute2.rpy:1577
@@ -5938,10 +5938,10 @@ translate Tchinese murdochroute2_4f5e9e8c:
     # ra "\"Except it's not possible to stay perpetually randy all of the time.\""
     ra "除了不能保持無限的性慾以外。"
 
-# game/murdochroute2.rpy:1709
-translate Tchinese murdochroute2_a4ddfa21:
+# game/murdochroute2.rpy:1712
+translate Tchinese murdochroute2_823eadfd:
 
-    # "The fox tried to fake a light laugh."
+    # "The fox tries to fake a light laugh."
     "狐狸裝出輕笑的樣子。"
 
 # game/murdochroute2.rpy:1711
@@ -6112,10 +6112,10 @@ translate Tchinese murdochroute2_16a9886c:
     # ra "\"We jerked it before looking a few times.\""
     ra "看到過幾次後我們就做了。"
 
-# game/murdochroute2.rpy:1762
-translate Tchinese murdochroute2_ab9396aa:
+# game/murdochroute2.rpy:1765
+translate Tchinese murdochroute2_db69373a:
 
-    # "Murdoch shrugged his shoulders."
+    # "Murdoch shrugs his shoulders."
     "Murdoch聳了聳肩。"
 
 # game/murdochroute2.rpy:1764
@@ -6394,10 +6394,10 @@ translate Tchinese murdochroute2_8a7363fc:
     # "But they also don't seem as formal or uptight."
     "但沒有顯得多麼拘謹。"
 
-# game/murdochroute2.rpy:1832
-translate Tchinese murdochroute2_e36475f1:
+# game/murdochroute2.rpy:1834
+translate Tchinese murdochroute2_7048fda8:
 
-    # "Ralph look all around him and lifts his head to the rock ceiling."
+    # "Ralph looks all around him and lifts his head to the rock ceiling."
     "Ralph看了圈四周，然後抬頭望向岩頂。"
 
 # game/murdochroute2.rpy:1835
@@ -6448,10 +6448,10 @@ translate Tchinese murdochroute2_d30f60ae:
     # mu "\"We still had a good time.\""
     mu "但依然是段美好的時光。"
 
-# game/murdochroute2.rpy:1851
-translate Tchinese murdochroute2_4cfeaf56:
+# game/murdochroute2.rpy:1854
+translate Tchinese murdochroute2_8861c642:
 
-    # mu "\"'till Holly snitched on where we were.\""
+    # mu "\"'til Holly snitched on where we were.\""
     mu "直到Holly告發了我們的行蹤。"
 
 # game/murdochroute2.rpy:1853
@@ -6952,11 +6952,11 @@ translate Tchinese murdochroute2_6cf867c1:
     # mu "\"Hopefully they're not dumping anything toxic into the lake.\""
     mu "希望他沒有往湖裡傾倒有毒物質。"
 
-# game/murdochroute2.rpy:1968
-translate Tchinese murdochroute2_27a70459:
+# game/murdochroute2.rpy:1971
+translate Tchinese murdochroute2_6d2bd295:
 
-    # mu "\"If they're doing something harmful, we should probably interrupt--\""
-    mu "如果他在幹什麼勾當，我們應該制止──"
+    # mu "\"If they're doing something harmful, we should probably interrupt—\""
+    mu "如果他在幹什麼勾當，我們應該制止——"
 
 # game/murdochroute2.rpy:1969
 translate Tchinese murdochroute2_05610e57:
@@ -7006,11 +7006,11 @@ translate Tchinese murdochroute2_c469d2f8:
     # mu "\"No...\""
     mu "不……"
 
-# game/murdochroute2.rpy:1977
-translate Tchinese murdochroute2_d45f964b:
+# game/murdochroute2.rpy:1980
+translate Tchinese murdochroute2_3a32bbcd:
 
-    # mu "\"That couldn't be a--\""
-    mu "不可能──"
+    # mu "\"That couldn't be a—\""
+    mu "不可能——"
 
 # game/murdochroute2.rpy:1978
 translate Tchinese murdochroute2_3427be79:
@@ -7042,10 +7042,10 @@ translate Tchinese murdochroute2_7b0d70d9:
     # "None of us can say anything."
     "我們誰也說不出話來。"
 
-# game/murdochroute2.rpy:1985
-translate Tchinese murdochroute2_41a25d0a:
+# game/murdochroute2.rpy:1988
+translate Tchinese murdochroute2_3ba163ec:
 
-    # "Whoever it is hobbles over to one of the rock piles and starts stuffing the sacks with pebbles."
+    # "Whoever it is hobbles over to one of the rock piles and starts stuffing the sack with pebbles."
     "那個不明身份的傢伙一瘸一拐地走到其中一個石碓旁，開始往袋子裡塞鵝卵石。"
 
 # game/murdochroute2.rpy:1987
@@ -7330,17 +7330,17 @@ translate Tchinese murdochroute2_6637b5aa:
     # ra "\"If you don't scoot on home you'll end up missin' too, bloody deb.\""
     ra "不想一起失蹤的話還是快溜回家吧，不諳世事的大小姐。"
 
-# game/murdochroute2.rpy:2062
-translate Tchinese murdochroute2_ccd5ab64:
+# game/murdochroute2.rpy:2065
+translate Tchinese murdochroute2_66dbd24f:
 
-    # "She spit on him."
-    "她朝Ralph吐了口口水。"
+    # "She spits on him."
+    "她朝他吐了口口水。"
 
-# game/murdochroute2.rpy:2064
-translate Tchinese murdochroute2_af23628c:
+# game/murdochroute2.rpy:2067
+translate Tchinese murdochroute2_fa833a7a:
 
-    # "Ralph made a motion towards her."
-    "Ralph朝她比了個手勢。"
+    # "Ralph makes a motion towards her."
+    "Ralph則朝她比了個手勢。"
 
 # game/murdochroute2.rpy:2066
 translate Tchinese murdochroute2_debae66c:
@@ -7426,11 +7426,11 @@ translate Tchinese murdochroute2_7edf4a8d:
     # bl "\"How interesting.\""
     bl "真有趣。"
 
-# game/murdochroute2.rpy:2096
-translate Tchinese murdochroute2_472a2fd0:
+# game/murdochroute2.rpy:2099
+translate Tchinese murdochroute2_1edd8644:
 
-    # mu "\"Not 'interesting'. You're not safe!\""
-    mu "一點也不‘有趣’，這裡不安全！"
+    # mu "\"Not 'interesting.' You're not safe!\""
+    mu "一點也不「有趣」，這裡不安全！"
 
 # game/murdochroute2.rpy:2098
 translate Tchinese murdochroute2_d94abce5:
@@ -7444,10 +7444,10 @@ translate Tchinese murdochroute2_4b1cfd5d:
     # bl "\"You must be comfy with getting tailed by now.\""
     bl "你們一定已經習慣被跟蹤了吧。"
 
-# game/murdochroute2.rpy:2102
-translate Tchinese murdochroute2_161a6ef3:
+# game/murdochroute2.rpy:2105
+translate Tchinese murdochroute2_2772505a:
 
-    # "...What did she mean by that?"
+    # "...What does she mean by that?"
     "……這話是什麼意思？"
 
 # game/murdochroute2.rpy:2104
@@ -7486,10 +7486,10 @@ translate Tchinese murdochroute2_92d3198f:
     # mu "\"What?\""
     mu "什麼？"
 
-# game/murdochroute2.rpy:2114
-translate Tchinese murdochroute2_4d250563:
+# game/murdochroute2.rpy:2117
+translate Tchinese murdochroute2_2bf991ea:
 
-    # "We turned to see where Ralph pointed."
+    # "We turn to see where Ralph is pointing."
     "我們轉頭看向Ralph所指的方向。"
 
 # game/murdochroute2.rpy:2116
@@ -7510,10 +7510,10 @@ translate Tchinese murdochroute2_17a1446c:
     # m "\"Stop talking and haul ass!\""
     m "別廢話了，趕緊開溜！"
 
-# game/murdochroute2.rpy:2120
-translate Tchinese murdochroute2_a833a2e9:
+# game/murdochroute2.rpy:2123
+translate Tchinese murdochroute2_f3c27838:
 
-    # "I feel a little better once we're past the canyon tunnel and by the more crowded parts of the lake, running past each crowd."
+    # "I feel a little better once we're past the canyon tunnel and by the more crowded parts of the lake, running past a crowd of people."
     "我們穿過峽谷隧道，到了相對比較熱鬧的湖邊，從人群中跑過，我總算感覺好了一些。"
 
 # game/murdochroute2.rpy:2121
@@ -7774,10 +7774,10 @@ translate Tchinese murdochroute2_4dcf270e:
     # m "\"Were you yankin' my chain or was that really true?\""
     m "那是真的，還是說你在耍我？"
 
-# game/murdochroute2.rpy:2190
-translate Tchinese murdochroute2_e54b3306:
+# game/murdochroute2.rpy:2193
+translate Tchinese murdochroute2_890631e6:
 
-    # "There was a pause in the air."
+    # "There's a pause in the air."
     "空氣安靜了下來。"
 
 # game/murdochroute2.rpy:2192
@@ -7906,10 +7906,10 @@ translate Tchinese murdochroute2_510e1f73:
     # ra "\"Not right now.\""
     ra "不是現在。"
 
-# game/murdochroute2.rpy:2222
-translate Tchinese murdochroute2_ad6769c2:
+# game/murdochroute2.rpy:2225
+translate Tchinese murdochroute2_a7adffec:
 
-    # "The rat's tone was stern."
+    # "The rat's tone is stern."
     " 老鼠的語氣非常嚴肅。"
 
 # game/murdochroute2.rpy:2224
@@ -7936,10 +7936,10 @@ translate Tchinese murdochroute2_30707ef2:
     # "I want this evil out of me."
     "我想要擺脫那個邪魔。"
 
-# game/murdochroute2.rpy:2229
-translate Tchinese murdochroute2_048f95a1:
+# game/murdochroute2.rpy:2231
+translate Tchinese murdochroute2_a2252bcb:
 
-    # "So tug on Murdoch's sleeve, and he gives me a sly kind of smile."
+    # "So I tug on Murdoch's sleeve, and he gives me a sly kind of smile."
     "於是我抓住Murdoch的衣袖，他回以一抹狡詐的笑容。"
 
 # game/murdochroute2.rpy:2230
@@ -8248,10 +8248,10 @@ translate Tchinese murdochroute2_1f729296:
     # "I roll my head on my shoulders, laughing at him, watching him with my eyelids half closed, then I push my tongue into his mouth."
     " 我歪著頭，眼睛半閉，嘲弄地看著他，然後把舌頭伸進了他的嘴裡。"
 
-# game/murdochroute2.rpy:2292
-translate Tchinese murdochroute2_19bd563d:
+# game/murdochroute2.rpy:2295
+translate Tchinese murdochroute2_dda6bd85:
 
-    # "He yips, thrusting with his hips as I pull off his tie, vest and shirt."
+    # "He yips, thrusting with his hips as I pull off his tie, vest, and shirt."
     "他支支吾吾地擺著臀，任由我脫下他的領帶、背心和襯衫。"
 
 # game/murdochroute2.rpy:2293
@@ -8356,16 +8356,16 @@ translate Tchinese murdochroute2_d75cdd51:
     # m "\"Couldn't be clearer.\""
     m "認真到不能再認真了。"
 
-# game/murdochroute2.rpy:2312
-translate Tchinese murdochroute2_a64efc2c:
+# game/murdochroute2.rpy:2315
+translate Tchinese murdochroute2_b986e39d:
 
-    # "I fish my cock out of my pants which is throbbing from the heat."
-    "我從褲子裡掏出自己滾燙、尚在勃動的肉柱。"
+    # "I fish my cock out of my pants. It's throbbing from the heat."
+    "我從褲子裡掏出自己滾燙、尚在勃動的肉棒。"
 
-# game/murdochroute2.rpy:2313
-translate Tchinese murdochroute2_32589452:
+# game/murdochroute2.rpy:2316
+translate Tchinese murdochroute2_e617f004:
 
-    # " The excitement."
+    # "The excitement."
     "刺激。"
 
 # game/murdochroute2.rpy:2314
@@ -8374,10 +8374,10 @@ translate Tchinese murdochroute2_d0a81993:
     # "The anticipation."
     "期待。"
 
-# game/murdochroute2.rpy:2315
-translate Tchinese murdochroute2_1410d170:
+# game/murdochroute2.rpy:2318
+translate Tchinese murdochroute2_2219fdab:
 
-    # ra "\"He really asked you to do that.\""
+    # ra "\"He really asked you to do that?\""
     ra "他真的那麼要求你了。"
 
 # game/murdochroute2.rpy:2316
@@ -8428,10 +8428,10 @@ translate Tchinese murdochroute2_d4b3f530:
     # ra "\"You've seen my teeth, haven't you?\""
     ra "你見過我的牙齒，不記得了嗎？"
 
-# game/murdochroute2.rpy:2324
-translate Tchinese murdochroute2_73fbe980:
+# game/murdochroute2.rpy:2326
+translate Tchinese murdochroute2_bbd4795f:
 
-    # m "\"I'm sure you'd learn be careful.\""
+    # m "\"I'm sure you'd learn to be careful.\""
     m "相信你會學會小心的。"
 
 # game/murdochroute2.rpy:2325
@@ -8638,10 +8638,10 @@ translate Tchinese murdochroute2_41d4780b:
     # m "\"I'm going to show you a little trick from the brothel.\""
     m "給你示範一下妓院裡的小把戲吧。"
 
-# game/murdochroute2.rpy:2359
-translate Tchinese murdochroute2_e14853b8:
+# game/murdochroute2.rpy:2362
+translate Tchinese murdochroute2_c13ad584:
 
-    # m "\"Let's get both on the floor.\""
+    # m "\"Let's both get on the floor.\""
     m "一起躺到地板上。"
 
 # game/murdochroute2.rpy:2360
@@ -8686,10 +8686,10 @@ translate Tchinese murdochroute2_afc32209:
     # "He trembles on me with both of our bellies touching one another."
     "他貼著我的身體顫抖不已。"
 
-# game/murdochroute2.rpy:2368
-translate Tchinese murdochroute2_fd33fc15:
+# game/murdochroute2.rpy:2371
+translate Tchinese murdochroute2_22d3c8f2:
 
-    # "I could tell he was already close by the pulse in his dick and the twitches in his leg."
+    # "I can tell he's already close by the pulse in his dick and the twitches in his leg."
     "根據他兩腿及兩腿間的抽動，我知道他已經臨近邊緣了。"
 
 # game/murdochroute2.rpy:2369
@@ -8710,10 +8710,10 @@ translate Tchinese murdochroute2_5cde038d:
     # "So we piston off on one another loudly."
     "於是我們大聲地為彼此做起活塞運動。"
 
-# game/murdochroute2.rpy:2372
-translate Tchinese murdochroute2_34785849:
+# game/murdochroute2.rpy:2375
+translate Tchinese murdochroute2_90382558:
 
-    # "It doesn't take long for either of us to start to spurt, and we have to swallow each other's hot mouthful to keep breathing."
+    # "It doesn't take long for either of us to start to spurt, and we have to swallow each other's hot mouthfuls to keep breathing."
     "沒過多久，我們兩個就開始了噴發，我們不得不吞下對方的熱流以保持呼吸。"
 
 # game/murdochroute2.rpy:2373
@@ -9910,11 +9910,11 @@ translate Tchinese murdochroute2_03f455e4:
     # ho "\"Beasts, the both of you.\""
     ho "你們兩個禽獸。"
 
-# game/murdochroute2.rpy:2679
-translate Tchinese murdochroute2_d68f205b:
+# game/murdochroute2.rpy:2682
+translate Tchinese murdochroute2_9240ada6:
 
-    # "The smallest sister sighed wistfully."
-    "最小的妹妹傷感地嘆了口氣。"
+    # "The smallest sister sighs wistfully."
+    "小妹傷感地嘆了口氣。"
 
 # game/murdochroute2.rpy:2681
 translate Tchinese murdochroute2_247e92e0:
@@ -9976,10 +9976,10 @@ translate Tchinese murdochroute2_d755679a:
     # "He looks a bit uneasy."
     "他看起來有點不自在。"
 
-# game/murdochroute2.rpy:2706
-translate Tchinese murdochroute2_ceaac1f0:
+# game/murdochroute2.rpy:2709
+translate Tchinese murdochroute2_8c0747f8:
 
-    # cl "\"Well, ah, I'm sure there's certainly more impressive things to gawk at than our churches, no?\""
+    # cl "\"Well, ah, I'm sure there are certainly more impressive things to gawk at than our churches, no?\""
     cl "啊，我相信這裡肯定有比我們教堂更令人印象深刻的部分，不是嗎？"
 
 # game/murdochroute2.rpy:2709
@@ -10012,11 +10012,11 @@ translate Tchinese murdochroute2_a5c36228:
     # cl "\"But I suppose there's a divine presence in the landscape of the western plains, no?\""
     cl "此外，我覺得西部平原的風景一定如有神賜，不是嗎？"
 
-# game/murdochroute2.rpy:2723
-translate Tchinese murdochroute2_0fbfd160:
+# game/murdochroute2.rpy:2726
+translate Tchinese murdochroute2_ee13b73f:
 
-    # cl "\"The meadows and quarries here are ancient-- certainly like nothing I've seen before.\""
-    cl "那裡的草場和採石場相當有年頭，絕對是我前所未見的。"
+    # cl "\"The meadows and quarries here are ancient — certainly like nothing I've seen before.\""
+    cl "那裡的草場和採石場相當有年頭——絕對是我前所未見的。"
 
 # game/murdochroute2.rpy:2725
 translate Tchinese murdochroute2_f05a198c:
@@ -10174,10 +10174,10 @@ translate Tchinese murdochroute2_419d9134:
     # m "\"I think her name's Blithe?\""
     m "我記得她的名字是Blithe？"
 
-# game/murdochroute2.rpy:2783
-translate Tchinese murdochroute2_3ce66f8b:
+# game/murdochroute2.rpy:2786
+translate Tchinese murdochroute2_1f9abf4e:
 
-    # "Dahlia put on a bashful look and Holly's lips tightened."
+    # "Dahlia puts on a bashful look and Holly's lips tighten."
     "Dahlia擺出了一副害羞的樣子，Holly則繃緊了嘴唇。"
 
 # game/murdochroute2.rpy:2785
@@ -10330,11 +10330,11 @@ translate Tchinese murdochroute2_ac91f5bd:
     # "But I have a bad feeling that declining the offer would get Murdoch into a heap of trouble."
     "但我有種不好的預感，拒絕這個邀請會給Murdoch帶來一大堆麻煩。"
 
-# game/murdochroute2.rpy:2847
-translate Tchinese murdochroute2_1b208bba:
+# game/murdochroute2.rpy:2850
+translate Tchinese murdochroute2_5c89f323:
 
-    # "Or worse--get me fired."
-    "或者更糟：導致我被開除。"
+    # "Or worse — get me fired."
+    "或者更糟——導致我被開除。"
 
 # game/murdochroute2.rpy:2850
 translate Tchinese murdochroute2_baa2a227:
@@ -10348,10 +10348,10 @@ translate Tchinese murdochroute2_cb49cb57:
     # dh "\"But she'll have to cancel.\""
     dh "但是她得取消了。"
 
-# game/murdochroute2.rpy:2856
-translate Tchinese murdochroute2_b0c98cdc:
+# game/murdochroute2.rpy:2859
+translate Tchinese murdochroute2_1ed502f2:
 
-    # "The smaller sister spoke up."
+    # "The smaller sister speaks up."
     "小妹大聲說道。"
 
 # game/murdochroute2.rpy:2858
@@ -10678,10 +10678,10 @@ translate Tchinese murdochroute2_934020f0:
     # "She shakes my paw."
     "她搖了搖我的爪子。"
 
-# game/murdochroute2.rpy:2981
-translate Tchinese murdochroute2_5c2a671d:
+# game/murdochroute2.rpy:2984
+translate Tchinese murdochroute2_6ed17a0f:
 
-    # "It's so small in my hand that I'm afraid I'd break it if I squeezed too hard."
+    # "It's so small in my hand that I'm afraid I'll break it if I squeeze too hard."
     "她的手小巧到我生怕握得太用力會把它捏碎。"
 
 # game/murdochroute2.rpy:2982
@@ -10780,10 +10780,10 @@ translate Tchinese murdochroute2_4916e06b:
     # dh "\"It's no trouble at all!\""
     dh "完全沒關係！"
 
-# game/murdochroute2.rpy:3007
-translate Tchinese murdochroute2_7af994e3:
+# game/murdochroute2.rpy:3010
+translate Tchinese murdochroute2_6892c7a6:
 
-    # "She plucks whatever it was that she was working on on the typewriter and shoves it into her pocket."
+    # "She plucks whatever it is that she's working on on the typewriter and shoves it into her pocket."
     "她把正在打的東西從打字機上取下來，裝進了自己的口袋。"
 
 # game/murdochroute2.rpy:3009
@@ -11218,10 +11218,10 @@ translate Tchinese murdochroute2_816742ef:
     # dh "\"Part of being a good astronomer is knowing what stars are brightest in the night sky without having to rely on a telescope.\""
     dh "要成為一名優秀的天文學家，就必須不借助望遠鏡也能知道夜空中最亮的星星有哪些。"
 
-# game/murdochroute2.rpy:3122
-translate Tchinese murdochroute2_a5653a06:
+# game/murdochroute2.rpy:3125
+translate Tchinese murdochroute2_da538674:
 
-    # "She hands me a packet of paper that was sitting on one of the tables."
+    # "She hands me a packet of paper that's sitting on one of the tables."
     "她把桌子上的一包紙遞了過來。"
 
 # game/murdochroute2.rpy:3123
@@ -11246,7 +11246,7 @@ translate Tchinese murdochroute2_f7086f75:
 translate Tchinese murdochroute2_061b54fc:
 
     # dh "\"Sol is magnitude −26.74 and marked as rank 1, because it's the brightest.\""
-    dh "Sol的視星等為──26.74，被標記為一等，因為它是最明亮的。"
+    dh "Sol的視星等為——26.74，被標記為一等，因為它是最明亮的。"
 
 # game/murdochroute2.rpy:3130
 translate Tchinese murdochroute2_4f5494e3:
@@ -11296,10 +11296,10 @@ translate Tchinese murdochroute2_b2af7328:
     # "My head kind of hurts."
     "我開始有點頭痛了。"
 
-# game/murdochroute2.rpy:3143
-translate Tchinese murdochroute2_f71e4b41:
+# game/murdochroute2.rpy:3146
+translate Tchinese murdochroute2_e852ab90:
 
-    # "I scratch it, and look at the smaller pieces of paper she gave me."
+    # "I scratch it, and look at the smaller pieces of paper she gives me."
     "我搔了搔頭，看著她遞過來的小紙片。"
 
 # game/murdochroute2.rpy:3145
@@ -11350,10 +11350,10 @@ translate Tchinese murdochroute2_4cc35d31:
     # dh "\"Well.\""
     dh "唔。"
 
-# game/murdochroute2.rpy:3157
-translate Tchinese murdochroute2_77c53339:
+# game/murdochroute2.rpy:3160
+translate Tchinese murdochroute2_862e9469:
 
-    # "She nibbled on one of her paw digits before answering again."
+    # "She nibbles on one of her paw digits before answering again."
     "她咬著自己的一根爪子，然後回答道："
 
 # game/murdochroute2.rpy:3159
@@ -11374,11 +11374,11 @@ translate Tchinese murdochroute2_8e51d810:
     # "Both of us look over as we hear the wooden ladder squeak."
     "我們同時看向嘎吱作響的木梯。"
 
-# game/murdochroute2.rpy:3166
-translate Tchinese murdochroute2_eea4c47b:
+# game/murdochroute2.rpy:3169
+translate Tchinese murdochroute2_ff283e08:
 
-    # bl "\"Sorry I'm early Miz Byrnes, but--\""
-    bl "不好意思，我來早了，Byrnes小姐，但是──"
+    # bl "\"Sorry I'm early Miz Byrnes, but—\""
+    bl "不好意思，我來早了，Byrnes小姐，但是——"
 
 # game/murdochroute2.rpy:3168
 translate Tchinese murdochroute2_98662624:
@@ -11475,10 +11475,10 @@ translate Tchinese murdochroute2_6b54e72d:
     # dh "\"Call him Mr. Ayers, Ms. Washington.\""
     dh "要稱呼他Ayers先生，Washington小姐。"
 
-# game/murdochroute2.rpy:3197
-translate Tchinese murdochroute2_d746268a:
+# game/murdochroute2.rpy:3200
+translate Tchinese murdochroute2_122051e0:
 
-    # bl "\"Well of course Miz Byrnes.\""
+    # bl "\"Well of course, Miz Byrnes.\""
     bl "當然可以，Byrnes女士。"
 
 # game/murdochroute2.rpy:3198
@@ -11547,10 +11547,10 @@ translate Tchinese murdochroute2_6692927a:
     # dh "\"You have good enough math scores.\""
     dh "你的數學成績夠好了。"
 
-# game/murdochroute2.rpy:3216
-translate Tchinese murdochroute2_3566027c:
+# game/murdochroute2.rpy:3219
+translate Tchinese murdochroute2_b1641db2:
 
-    # bl "\"There’s a big difference between liking math and being good at math Miz Byrnes.\""
+    # bl "\"There’s a big difference between liking math and being good at math, Miz Byrnes.\""
     bl "喜歡和擅長是有很大區別的，Byrnes女士。"
 
 # game/murdochroute2.rpy:3218
@@ -11709,10 +11709,10 @@ translate Tchinese murdochroute2_ea50faf9:
     # m "\"So what is it?\""
     m "別隱瞞了。"
 
-# game/murdochroute2.rpy:3262
-translate Tchinese murdochroute2_edb585ad:
+# game/murdochroute2.rpy:3265
+translate Tchinese murdochroute2_d6c80fdf:
 
-    # bl "\"I wonder what happened to make you so paranoid, mister Ayers.\""
+    # bl "\"I wonder what happened to make you so paranoid, Mister Ayers.\""
     bl "真好奇是何種經歷讓你變得如此多疑，Ayers先生。"
 
 # game/murdochroute2.rpy:3264
@@ -11739,10 +11739,10 @@ translate Tchinese murdochroute2_68c8e4aa:
     # m "\"Ex-fucking-scuse me?\""
     m "你他媽再說一遍？"
 
-# game/murdochroute2.rpy:3271
-translate Tchinese murdochroute2_8a999b2e:
+# game/murdochroute2.rpy:3274
+translate Tchinese murdochroute2_cf48bd96:
 
-    # bl "\"Language, mister Ayers.\""
+    # bl "\"Language, Mister Ayers.\""
     bl "注意你的言辭，Ayers先生。"
 
 # game/murdochroute2.rpy:3273
@@ -12033,11 +12033,11 @@ translate Tchinese murdochroute2_c5ad1717:
     # m "\"Well that ain’t sayin’ much.\""
     m "這又說明不了什麼。"
 
-# game/murdochroute2.rpy:3359
-translate Tchinese murdochroute2_18686661:
+# game/murdochroute2.rpy:3362
+translate Tchinese murdochroute2_9cc8682a:
 
-    # "She flipped the coin again."
-    "她又翻弄起了硬幣。"
+    # "She flips the coin again."
+    "她又擲起了硬幣。"
 
 # game/murdochroute2.rpy:3361
 translate Tchinese murdochroute2_496f535c:
@@ -12249,10 +12249,10 @@ translate Tchinese murdochroute2_4307fca8:
     # "The cat sprints off without any kind of light."
     "貓飛奔進了伸手不見五指的黑夜中。"
 
-# game/murdochroute2.rpy:3420
-translate Tchinese murdochroute2_96aa974c:
+# game/murdochroute2.rpy:3423
+translate Tchinese murdochroute2_8915de45:
 
-    # "I want to tell her not to do that but I get the feeling she won’t listen to me anyway."
+    # "I want to tell her not to do that, but I get the feeling she won’t listen to me anyway."
     "我想勸她不要那樣做，但反正她也不會聽的吧。"
 
 # game/murdochroute2.rpy:3423
@@ -12651,10 +12651,10 @@ translate Tchinese murdochroute2_733027ea:
     # m "\"I needed the rest. I promise it won’t happen tomorrow.\""
     m "我需要休息。我保證明天不會了。"
 
-# game/murdochroute2.rpy:3536
-translate Tchinese murdochroute2_63e19d96:
+# game/murdochroute2.rpy:3539
+translate Tchinese murdochroute2_38e4d9df:
 
-    # mu "\"Well I hope it wouldn’t.\""
+    # mu "\"Well I'd hope it wouldn’t.\""
     mu "希望如此。"
 
 # game/murdochroute2.rpy:3538
@@ -12921,10 +12921,10 @@ translate Tchinese murdochroute2_d5017e0c:
     # ra "\"Bit far from the school, aren’t you?\""
     ra "這裡離學校有點遠吧？"
 
-# game/murdochroute2.rpy:3618
-translate Tchinese murdochroute2_96b53aed:
+# game/murdochroute2.rpy:3621
+translate Tchinese murdochroute2_8b44306b:
 
-    # ho "\"I’ll be back before the lunch hour is up, don’t worry on my behalf.\""
+    # ho "\"I’ll be back before the lunch hour is up. Don’t worry on my behalf.\""
     ho "不必擔心，我會在午餐時間之前趕回去的。"
 
 # game/murdochroute2.rpy:3621
@@ -13179,10 +13179,10 @@ translate Tchinese murdochroute2_ffaa183e:
     # "But I keep marching my way south towards the train tracks, blocking the sunlight with my paw as I look for the station."
     "我一路向南朝鐵軌前進，用爪子遮擋住陽光，尋找車站。"
 
-# game/murdochroute2.rpy:3708
-translate Tchinese murdochroute2_96389218:
+# game/murdochroute2.rpy:3711
+translate Tchinese murdochroute2_32140675:
 
-    # "When I arrive, I look to the opposite side of the tracks, and can see a gated area off in the distance."
+    # "When I arrive, I look to the opposite side of the tracks and can see a gated area off in the distance."
     "等到達目的地，我望向另一側，看到遠方有一處大門緊閉的區域。"
 
 # game/murdochroute2.rpy:3710
@@ -13245,11 +13245,11 @@ translate Tchinese murdochroute2_71ad499c:
     # "The door of the mausoleum rattles and I jump back, hitting my shin on a stone cross."
     "陵墓的門發出嘎吱一聲，嚇得我向後一躍，小腿不偏不倚撞到了一個石頭十字架上。"
 
-# game/murdochroute2.rpy:3725
-translate Tchinese murdochroute2_18ab6ebc:
+# game/murdochroute2.rpy:3728
+translate Tchinese murdochroute2_7f397e4c:
 
-    # m "\"MotherFUCK--\""
-    m "{b}喔幹──{/b}"
+    # m "\"MotherFUCK—\""
+    m "{b}喔幹——{/b}"
 
 # game/murdochroute2.rpy:3728
 translate Tchinese murdochroute2_90d025e4:
@@ -13281,10 +13281,10 @@ translate Tchinese murdochroute2_2d7e853f:
     # "There’s a small set of stairs leading to a lower chamber with a coffin inside."
     "裡面有一小截通往地下室的台階，下面還安放著一口棺材。"
 
-# game/murdochroute2.rpy:3737
-translate Tchinese murdochroute2_68cf4065:
+# game/murdochroute2.rpy:3740
+translate Tchinese murdochroute2_f2488b3e:
 
-    # "Dead flower petals litter the floor, and the remains of old candles burned down to their wick stain the alcoves and the candle holders spread among the room."
+    # "Dead flower petals litter the floor, and the remains of old candles burned down to their wick stain the alcoves and the candle holders spread around the room."
     "地面上到處是枯死的花瓣，燒得只剩燈芯的舊蠟燭殘骸染紅了散布在房間中的壁龕和燭台。"
 
 # game/murdochroute2.rpy:3738
@@ -13557,11 +13557,11 @@ translate Tchinese murdochroute2_c93177ed:
     # "It opens to a long, dark tunnel."
     "其後是一條又長又黑的隧道。"
 
-# game/murdochroute2.rpy:3825
-translate Tchinese murdochroute2_25832fa7:
+# game/murdochroute2.rpy:3829
+translate Tchinese murdochroute2_b520e8ca:
 
-    # "I can feel a rush of air, so similar--too similar--to the entrance of the mines."
-    "我能感到一股氣流迎面衝了出來，與礦井入口十分相似──太相似了。"
+    # "I can feel a rush of air, so similar — too similar — to the entrance of the mines."
+    "我能感到一股氣流迎面衝了出來，與礦井入口十分相似——太相似了。"
 
 # game/murdochroute2.rpy:3827
 translate Tchinese murdochroute2_c2d19494:
@@ -14109,17 +14109,17 @@ translate Tchinese murdochroute2_c48bfae2:
     # "I press off of the back of my foot, jolting forward, using the initial push off the ground to give me speed."
     "我腳底卯足了勁，往後一蹬，借助最初的推力開始加速。"
 
-# game/murdochroute2.rpy:3950
-translate Tchinese murdochroute2_2741625b:
+# game/murdochroute2.rpy:3954
+translate Tchinese murdochroute2_027feb0d:
 
-    # "She looks over her shoulder like she hears me, snatches her own hat off her head and holds her arms out, putting each foot in front of her down in front of her, widening the gap."
+    # "She looks over her shoulder like she hears me, snatches her own hat off her head and holds her arms out, putting each foot down in front of her, widening the gap."
     "她像是聽到了動靜，回頭看了我一眼，然後摘下帽子，伸出雙臂，飛奔了起來。"
 
-# game/murdochroute2.rpy:3951
-translate Tchinese murdochroute2_2ddd5019:
+# game/murdochroute2.rpy:3955
+translate Tchinese murdochroute2_cb9e01c2:
 
-    # "I can sprint after her for a few minutes before I have to slow down."
-    "前幾分鐘，我還能在她身後衝刺，之後不得不放慢速度。"
+    # "I sprint after her for a few minutes before I have to slow down."
+    "我在她身後衝刺了幾分鐘，便不得不放慢速度。"
 
 # game/murdochroute2.rpy:3952
 translate Tchinese murdochroute2_e7c7026d:
@@ -14307,10 +14307,10 @@ translate Tchinese murdochroute2_6b017c1a:
     # bl "\"Besides, how would you know anyway if you’re not Mark Twain?\""
     bl "再說你怎麼知道？你又不是馬克·吐溫。"
 
-# game/murdochroute2.rpy:3984
-translate Tchinese murdochroute2_634d7576:
+# game/murdochroute2.rpy:3988
+translate Tchinese murdochroute2_1b99afe5:
 
-    # m "\"’’Cause I’m using the power of my imagination.\""
+    # m "\"’Cause I’m using the power of my imagination.\""
     m "因為我有用自己的想像力。"
 
 # game/murdochroute2.rpy:3985
@@ -14493,10 +14493,10 @@ translate Tchinese murdochroute2_5e49c8aa:
     # m "\"Hell no.\""
     m "怎麼可能。"
 
-# game/murdochroute2.rpy:4015
-translate Tchinese murdochroute2_816853f7:
+# game/murdochroute2.rpy:4019
+translate Tchinese murdochroute2_4653e586:
 
-    # bl "\"No wonder you can’t recognize any of Mrs. Byrnes’ codes.\""
+    # bl "\"No wonder you can’t recognize any of Ms. Byrnes’ codes.\""
     bl "難怪Byrnes女士的暗碼你一個都認不出來。"
 
 # game/murdochroute2.rpy:4016
@@ -14901,10 +14901,10 @@ translate Tchinese murdochroute2_e60003ac:
     # "But I haven’t seen him for almost a week."
     "但我已經將近一週沒有見到他了。"
 
-# game/murdochroute2.rpy:4116
-translate Tchinese murdochroute2_0bf5f1ca:
+# game/murdochroute2.rpy:4121
+translate Tchinese murdochroute2_93b7ff62:
 
-    # "Ever since he missed his appointment with me I can’t tell where the hell he’s been."
+    # "Ever since he missed his appointment with me, I can’t tell where the hell he’s been."
     "自從錯過上次的預約，我就再沒有了他的消息。"
 
 # game/murdochroute2.rpy:4117
@@ -14961,10 +14961,10 @@ translate Tchinese murdochroute2_0513d8f1:
     # "I tell him we live in the fucking desert."
     "我告訴他我們住在一個該死的沙漠裡。"
 
-# game/murdochroute2.rpy:4131
-translate Tchinese murdochroute2_e3104e46:
+# game/murdochroute2.rpy:4136
+translate Tchinese murdochroute2_d15757cb:
 
-    # "The Byrnes are a five minute’s walk from their store, just outside the range of downtown."
+    # "The Byrneses are a five minute walk from their store, just outside the range of downtown."
     "Byrnes一家離他們的雜貨店只有五分鐘的步行路程，緊靠著鎮中心。"
 
 # game/murdochroute2.rpy:4134
@@ -15003,10 +15003,10 @@ translate Tchinese murdochroute2_763863b5:
     # "Roses and jasmine."
     "是玫瑰和茉莉。"
 
-# game/murdochroute2.rpy:4141
-translate Tchinese murdochroute2_5a8b339b:
+# game/murdochroute2.rpy:4146
+translate Tchinese murdochroute2_78277d25:
 
-    # "I hadn’t smelled fresh roses since I left home."
+    # "I haven’t smelled fresh roses since I left home."
     "自從離開家後，我就再也沒有聞到過新鮮的玫瑰花了。"
 
 # game/murdochroute2.rpy:4142
@@ -15099,10 +15099,10 @@ translate Tchinese murdochroute2_cd6e8073:
     # ho "\"Well, somebody has to prune away the imperfections.\""
     ho "這個嘛，總得有人把瑕疵修剪掉。"
 
-# game/murdochroute2.rpy:4173
-translate Tchinese murdochroute2_ea102a43:
+# game/murdochroute2.rpy:4178
+translate Tchinese murdochroute2_401b9c75:
 
-    # "She looked at us again."
+    # "She looks at us again."
     "她又看了我們一眼。"
 
 # game/murdochroute2.rpy:4176
@@ -15129,10 +15129,10 @@ translate Tchinese murdochroute2_31bacef0:
     # ho "\"There’s a table I have to set and lemons I still have to squeeze.\""
     ho "還有桌子要擺，檸檬也還沒擠。"
 
-# game/murdochroute2.rpy:4184
-translate Tchinese murdochroute2_7c0b9965:
+# game/murdochroute2.rpy:4189
+translate Tchinese murdochroute2_0d4af43f:
 
-    # "She removed her gloves."
+    # "She removes her gloves."
     "她摘下手套。"
 
 # game/murdochroute2.rpy:4186
@@ -15195,10 +15195,10 @@ translate Tchinese murdochroute2_6f8ff0d1:
     # "That must be the mother’s influence."
     "一定是他母親的影響。"
 
-# game/murdochroute2.rpy:4203
-translate Tchinese murdochroute2_e8275427:
+# game/murdochroute2.rpy:4208
+translate Tchinese murdochroute2_0b9e4bfc:
 
-    # "There are several ornamental crosses nailed to the wall, and a statue of the virgin Mary sitting on an end table."
+    # "There are several ornamental crosses nailed to the wall, and a statue of the Virgin Mary sitting on an end table."
     "牆上釘著數個裝飾性的十字架，茶几上擺放著一尊聖母瑪利亞的雕像。"
 
 # game/murdochroute2.rpy:4204
@@ -15231,10 +15231,10 @@ translate Tchinese murdochroute2_0623bcbe:
     # m "\"...oh.\""
     m "……啊。"
 
-# game/murdochroute2.rpy:4211
-translate Tchinese murdochroute2_ff9cf546:
+# game/murdochroute2.rpy:4216
+translate Tchinese murdochroute2_6be4c0b8:
 
-    # "So he was right."
+    # "So he's right."
     "他說的對。"
 
 # game/murdochroute2.rpy:4212
@@ -15291,10 +15291,10 @@ translate Tchinese murdochroute2_c65899a7:
     # al "\"Oh, so Mr. Ayers could make it?\""
     al "噢，Ayers先生來了？"
 
-# game/murdochroute2.rpy:4231
-translate Tchinese murdochroute2_f08ba5b3:
+# game/murdochroute2.rpy:4233
+translate Tchinese murdochroute2_efc84888:
 
-    # "Murdoch sits on the empty chair closest to the fire, leaving me the couch with his father or the other empty chair that places the finance between us."
+    # "Murdoch sits on the empty chair closest to the fire, leaving me the couch with his father or the other empty chair that places the fiance between us."
     "Murdoch坐在離火爐最近的椅子上，把他父親的沙發，或另一把空椅子留給了我。"
 
 # game/murdochroute2.rpy:4233
@@ -15381,10 +15381,10 @@ translate Tchinese murdochroute2_b639b926:
     # m "\"I’m not sure I know what you mean.\""
     m "我不太明白您的意思。"
 
-# game/murdochroute2.rpy:4261
-translate Tchinese murdochroute2_d2ee3648:
+# game/murdochroute2.rpy:4266
+translate Tchinese murdochroute2_f57f9878:
 
-    # al "\"Well, I think you’ll find that most business minded folks will have to risk somethin’ to gain somethin’, wouldn’t you say?\""
+    # al "\"Well, I think you’ll find that most business-minded folks will have to risk somethin’ to gain somethin’, wouldn’t you say?\""
     al "你會發現，大多數具有商業頭腦的人為了獲得一些東西不得不面臨風險，不是嗎？"
 
 # game/murdochroute2.rpy:4263
@@ -15447,11 +15447,11 @@ translate Tchinese murdochroute2_c3ce9be2:
     # al "\"And a mark of greatness by my standards.\""
     al "在我看來，這也是偉大的標誌。"
 
-# game/murdochroute2.rpy:4287
-translate Tchinese murdochroute2_764acdbb:
+# game/murdochroute2.rpy:4292
+translate Tchinese murdochroute2_606583d1:
 
-    # mu "\"Perhaps both Sam and Jim would prefer to talk about something other than work--\""
-    mu "也許Sam和Jim喜歡討論工作以外的事情──"
+    # mu "\"Perhaps both Sam and Jim would prefer to talk about something other than work—\""
+    mu "也許Sam和Jim喜歡討論工作以外的事情——"
 
 # game/murdochroute2.rpy:4291
 translate Tchinese murdochroute2_75767bde:
@@ -15459,10 +15459,10 @@ translate Tchinese murdochroute2_75767bde:
     # al "\"You don’t interrupt me.\""
     al "你少插嘴。"
 
-# game/murdochroute2.rpy:4293
-translate Tchinese murdochroute2_bc6da134:
+# game/murdochroute2.rpy:4298
+translate Tchinese murdochroute2_49c47723:
 
-    # "Alfred’s relaxed tone suddenly shifted to a sharp one."
+    # "Alfred’s relaxed tone suddenly shifts to a sharp one."
     "Alfred輕鬆的語氣突然變得尖銳起來。"
 
 # game/murdochroute2.rpy:4297
@@ -15483,10 +15483,10 @@ translate Tchinese murdochroute2_aea509a7:
     # ji "\"I don’t mind at all, sir. Please continue.\""
     ji "我完全不介意，先生，請繼續吧。"
 
-# game/murdochroute2.rpy:4310
-translate Tchinese murdochroute2_e33df4ed:
+# game/murdochroute2.rpy:4315
+translate Tchinese murdochroute2_7762e46d:
 
-    # al "\"They send him all over the west coast and they pay them to do it, don’t they Jim?\""
+    # al "\"They send him all over the west coast and they pay him to do it, don’t they Jim?\""
     al "他們把他送到西海岸各處，還付錢給他，是不是，Jim？"
 
 # game/murdochroute2.rpy:4314
@@ -15637,7 +15637,7 @@ translate Tchinese murdochroute2_676a1465:
 translate Tchinese murdochroute2_008bc5c6:
 
     # "...that’s a brave thing to say in this house, in this room."
-    "……他還真敢說。在這間房子、這個房間裡──"
+    "……他還真敢說。在這間房子、這個房間裡——"
 
 # game/murdochroute2.rpy:4370
 translate Tchinese murdochroute2_176006f8:
@@ -15723,10 +15723,10 @@ translate Tchinese murdochroute2_e6f0dbfe:
     # "It would be hard to believe people ate food off of it if the plates weren’t lined with steaming, red corned beef sitting on mounds of cabbage."
     "要不是盤子上堆積如山的高麗菜和熱氣騰騰的醃牛肉，沒人會相信這是用來吃飯的。"
 
-# game/murdochroute2.rpy:4399
-translate Tchinese murdochroute2_0fe42e00:
+# game/murdochroute2.rpy:4404
+translate Tchinese murdochroute2_8913be7e:
 
-    # "Plates were placed on knitted doilies and a large glass pitcher of water filled with lemons sits in the center of the table."
+    # "Plates are placed on knitted doilies and a large glass pitcher of water filled with lemons sits in the center of the table."
     "餐桌上鋪著一張針織桌墊，正中央還有一個盛滿檸檬水的大玻璃瓶。"
 
 # game/murdochroute2.rpy:4400
@@ -15777,10 +15777,10 @@ translate Tchinese murdochroute2_0a4bbc1b:
     # gr "\"Not for the fuss, no. Over here if you please.\""
     gr "別大驚小怪的，請過來。"
 
-# game/murdochroute2.rpy:4422
-translate Tchinese murdochroute2_9a7334f2:
+# game/murdochroute2.rpy:4427
+translate Tchinese murdochroute2_7ab8591b:
 
-    # "I rise from the chair, pulling it out carefully as I walked all the way to the opposite end of the table."
+    # "I rise from the chair, pulling it out carefully as I walk all the way to the opposite end of the table."
     "我站起來，一直走到桌子那頭，並小心翼翼地拉出椅子。"
 
 # game/murdochroute2.rpy:4424
@@ -15789,10 +15789,10 @@ translate Tchinese murdochroute2_c03e3982:
     # gr "\"There. Now the whole family’s eyes can be on you as a proper guest.\""
     gr "啊，這才稱得上是我們一家的貴賓。"
 
-# game/murdochroute2.rpy:4426
-translate Tchinese murdochroute2_9e599320:
+# game/murdochroute2.rpy:4428
+translate Tchinese murdochroute2_1a16c8fb:
 
-    # gr "\"I’m proud to say the hiring you was one of the best things my son has done in months.\""
+    # gr "\"I’m proud to say that hiring you was one of the best things my son has done in months.\""
     gr "我可以自豪地說，僱傭了你是我兒子這幾個月來最值得稱道的行為。"
 
 # game/murdochroute2.rpy:4429
@@ -15837,10 +15837,10 @@ translate Tchinese murdochroute2_9f5e75dd:
     # gr "\"If you shy away from claiming your achievements, then I assure you a competitor will summon the bravery.\""
     gr "若是羞於承認自己的成就，那麼我向你保證，你已經助長了對手的勢。"
 
-# game/murdochroute2.rpy:4449
-translate Tchinese murdochroute2_682ca8be:
+# game/murdochroute2.rpy:4454
+translate Tchinese murdochroute2_72d4991b:
 
-    # gr "\"Holly knows that you have to take credit where credit is due--she’s organizing her entire wedding by herself, and on a budget.\""
+    # gr "\"Holly knows that you have to take credit where credit is due — she’s organizing her entire wedding by herself, and on a budget.\""
     gr "Holly就明白這個道理，她獨自籌備了整場婚禮，還沒有超出預算。"
 
 # game/murdochroute2.rpy:4451
@@ -15885,17 +15885,17 @@ translate Tchinese murdochroute2_349d67ae:
     # gr "\"But as for the rest of us who have our heads down on planet Earth, we have to consider that people talk, and that you have to have some influence on what they say.\""
     gr "只要你還活在這個世界上，就不得不在意別人的話，還需對他們的言語施加一定的影響。"
 
-# game/murdochroute2.rpy:4466
-translate Tchinese murdochroute2_dde0a850:
+# game/murdochroute2.rpy:4471
+translate Tchinese murdochroute2_35caa352:
 
-    # gr "\"Holly understands that--that’s why her classroom is so well-managed.\""
+    # gr "\"Holly understands that. That’s why her classroom is so well-managed.\""
     gr "Holly深知這一點，所以她的班級才管理有方。"
 
-# game/murdochroute2.rpy:4472
-translate Tchinese murdochroute2_8b12fb75:
+# game/murdochroute2.rpy:4477
+translate Tchinese murdochroute2_1eba5bee:
 
-    # ho "\"Firm boundaries must be established--that’s really all there is to it.\""
-    ho "嚴格的規矩是必須的，就這麼簡單。"
+    # ho "\"Firm boundaries must be established — that’s really all there is to it.\""
+    ho "嚴格的規矩是必須的——就這麼簡單。"
 
 # game/murdochroute2.rpy:4476
 translate Tchinese murdochroute2_6e49f673:
@@ -16053,10 +16053,10 @@ translate Tchinese murdochroute2_0ab29b96:
     # gr "\"The Lord’s word comes first, dear. It’s time to pray.\""
     gr "主的話優先，親愛的，是時候祈禱了。"
 
-# game/murdochroute2.rpy:4529
-translate Tchinese murdochroute2_890c0077:
+# game/murdochroute2.rpy:4534
+translate Tchinese murdochroute2_4eeeed74:
 
-    # "I bow my head and close my eyes, folding my paws over the other."
+    # "I bow my head and close my eyes, folding my paws over each other."
     "我低下頭，閉上眼睛，疊起雙爪。"
 
 # game/murdochroute2.rpy:4530
@@ -16197,10 +16197,10 @@ translate Tchinese murdochroute2_900c661d:
     # "But when he sees everybody looking at him, his ears splay back, and he lowers his voice."
     "但看到所有人都望向他時，他的耳朵向後耷拉，壓低了聲音。"
 
-# game/murdochroute2.rpy:4594
-translate Tchinese murdochroute2_6401aa56:
+# game/murdochroute2.rpy:4599
+translate Tchinese murdochroute2_908b3962:
 
-    # "The peals of laughter and the clinks and clanks of utensils stopped."
+    # "The peals of laughter and the clinks and clanks of utensils stop."
     "歡快的笑聲和器具的叮噹聲停止了。"
 
 # game/murdochroute2.rpy:4596
@@ -16335,10 +16335,10 @@ translate Tchinese murdochroute2_a8c22f28:
     # gr "\"A party with lots of alcohol and tomfoolery?\""
     gr "一個充滿酒精與胡鬧的派對？"
 
-# game/murdochroute2.rpy:4648
-translate Tchinese murdochroute2_f41901fa:
+# game/murdochroute2.rpy:4653
+translate Tchinese murdochroute2_06398373_1:
 
-    # "She sighed."
+    # "She sighs."
     "她嘆了口氣。"
 
 # game/murdochroute2.rpy:4650
@@ -16359,10 +16359,10 @@ translate Tchinese murdochroute2_8e80adf8:
     # ji "\"Oh please, I was planning to invite them anyway.\""
     ji "拜託，我本來就打算邀請他們的。"
 
-# game/murdochroute2.rpy:4660
-translate Tchinese murdochroute2_ee9b4a66:
+# game/murdochroute2.rpy:4662
+translate Tchinese murdochroute2_6251d9cf:
 
-    # ji "\"What kind of groom would if I didn’t treat my own ushers to the best part of this ceremony?\""
+    # ji "\"What kind of groom would I be if I didn’t treat my own ushers to the best part of this ceremony?\""
     ji "沒有讓伴郎們享受到婚禮最精彩的部分，那我還算哪門子新郎？"
 
 # game/murdochroute2.rpy:4665
@@ -16437,10 +16437,10 @@ translate Tchinese murdochroute2_16340b27:
     # mu "\"That’s during work hours.\""
     mu "可那是在工作時間。"
 
-# game/murdochroute2.rpy:4704
-translate Tchinese murdochroute2_1817d48d:
+# game/murdochroute2.rpy:4709
+translate Tchinese murdochroute2_6f07f74e:
 
-    # al "\"I’ve managed that store for nearly 20 years without you, we’ll live without you there for another hour or two.\""
+    # al "\"I’ve managed that store for nearly 20 years without you. We’ll live without you there for another hour or two.\""
     al "我已經經營這家店快20年了，少你一兩個小時，我們也過得下去。"
 
 # game/murdochroute2.rpy:4706
@@ -16665,16 +16665,16 @@ translate Tchinese murdochroute2_7c11fb4b:
     # mu "\"Sorry, but it’s a bit difficult for me to focus on anything now.\""
     mu "抱歉，我現在不怎麼能集中注意力。"
 
-# game/murdochroute2.rpy:4772
-translate Tchinese murdochroute2_bbfa7cf0:
+# game/murdochroute2.rpy:4777
+translate Tchinese murdochroute2_418ca16b:
 
-    # mu "\"I made a list for things you might be able to do before we get pulled downtown for a fitting.\""
+    # mu "\"I made a list of things you might be able to do before we get pulled downtown for a fitting.\""
     mu "我給你列了一份清單，上面有在我們被帶去試衣前能做的事。"
 
-# game/murdochroute2.rpy:4774
-translate Tchinese murdochroute2_6a7e43ef:
+# game/murdochroute2.rpy:4779
+translate Tchinese murdochroute2_7b88876b:
 
-    # "He handed me a little piece of paper."
+    # "He hands me a little piece of paper."
     "他遞給我一小張紙條。"
 
 # game/murdochroute2.rpy:4775
@@ -17151,17 +17151,17 @@ translate Tchinese murdochroute2_2c8cf5f1:
     # "It’s cool and cozy inside, but the air has the thick smell of shoe polish to it."
     "店內涼爽又舒適，只差空氣中飄著濃厚的鞋油味。"
 
-# game/murdochroute2.rpy:4936
-translate Tchinese murdochroute2_0acf663c:
+# game/murdochroute2.rpy:4941
+translate Tchinese murdochroute2_f5624fdd:
 
-    # "An impatient looking rabbit at the counter sizes us up."
+    # "An impatient-looking rabbit at the counter sizes us up."
     "一隻看起來很不耐煩的兔子在櫃檯打量著我們。"
 
 # game/murdochroute2.rpy:4937
 translate Tchinese murdochroute2_c6b69679:
 
     # "Rabbit" "\"Can I help you?\""
-    "Rabbit" "有何貴幹？"
+    "兔子" "有何貴幹？"
 
 # game/murdochroute2.rpy:4942
 translate Tchinese murdochroute2_4fd540fd:
@@ -17179,7 +17179,7 @@ translate Tchinese murdochroute2_7c8ad4bb:
 translate Tchinese murdochroute2_01ae7e95:
 
     # "Rabbit" "\"So we are.\""
-    "Rabbit" "確實。"
+    "兔子" "確實。"
 
 # game/murdochroute2.rpy:4947
 translate Tchinese murdochroute2_7466fdf2:
@@ -17191,7 +17191,7 @@ translate Tchinese murdochroute2_7466fdf2:
 translate Tchinese murdochroute2_267d809a:
 
     # "Rabbit" "\"You’re in luck then. There’s plenty of that fabric.\""
-    "Rabbit" "算你幸運。那種布料還剩很多。"
+    "兔子" "算你幸運。那種布料還剩很多。"
 
 # game/murdochroute2.rpy:4951
 translate Tchinese murdochroute2_32501021:
@@ -17203,7 +17203,7 @@ translate Tchinese murdochroute2_32501021:
 translate Tchinese murdochroute2_662e2ff1:
 
     # "Rabbit" "\"That would be sufficient if we have their measurements today.\""
-    "Rabbit" "如果今天量好尺寸的話，時間上是夠的。"
+    "兔子" "如果今天量好尺寸的話，時間上是夠的。"
 
 # game/murdochroute2.rpy:4955
 translate Tchinese murdochroute2_2c8b52c5:
@@ -17211,10 +17211,10 @@ translate Tchinese murdochroute2_2c8b52c5:
     # ji "\"I trust the two of you can take it from here.\""
     ji "接下來的事你們兩個沒問題吧。"
 
-# game/murdochroute2.rpy:4957
-translate Tchinese murdochroute2_09c99a9c:
+# game/murdochroute2.rpy:4962
+translate Tchinese murdochroute2_c7b94b67:
 
-    # "He turned to me and Murdoch."
+    # "He turns to me and Murdoch."
     "他轉向我跟Murdoch。"
 
 # game/murdochroute2.rpy:4959
@@ -17227,7 +17227,7 @@ translate Tchinese murdochroute2_3eb92e46:
 translate Tchinese murdochroute2_fac4d56c:
 
     # "Rabbit" "\"Very well, sir.\""
-    "Rabbit" "好的，先生。"
+    "兔子" "好的，先生。"
 
 # game/murdochroute2.rpy:4963
 translate Tchinese murdochroute2_21b3efcc:
@@ -17251,7 +17251,7 @@ translate Tchinese murdochroute2_1e1888ed:
 translate Tchinese murdochroute2_f8c059f6:
 
     # "Rabbit" "\"Try a few of these sizes and we’ll go to specifics based on which fits best on any of you.\""
-    "Rabbit" "把這些尺寸都試穿看看，之後再從最合適的做微調。"
+    "兔子" "把這些尺寸都試穿看看，之後再從最合適的做微調。"
 
 # game/murdochroute2.rpy:4970
 translate Tchinese murdochroute2_1d3c0d81:
@@ -17263,7 +17263,7 @@ translate Tchinese murdochroute2_1d3c0d81:
 translate Tchinese murdochroute2_134252c5:
 
     # "Rabbit" "\"The changing room is to your left, sir!\""
-    "Rabbit" "更衣室在你左手邊，先生！"
+    "兔子" "更衣室在你左手邊，先生！"
 
 # game/murdochroute2.rpy:4972
 translate Tchinese murdochroute2_3e21f232:
@@ -17289,10 +17289,10 @@ translate Tchinese murdochroute2_ed86203a:
     # "Staring at nothing."
     "望向虛空。"
 
-# game/murdochroute2.rpy:4978
-translate Tchinese murdochroute2_93400d32:
+# game/murdochroute2.rpy:4983
+translate Tchinese murdochroute2_eb773534:
 
-    # "The rabbit directs us to a closet with high shelves, mirrors and a fake plant in it."
+    # "The rabbit directs us to a closet with high shelves, mirrors, and a fake plant in it."
     "兔子指引我們到一間有著高櫃子、鏡子以及擬造植物的衣櫥。"
 
 # game/murdochroute2.rpy:4979
@@ -17367,10 +17367,10 @@ translate Tchinese murdochroute2_b700df7a:
     # m "\"Tell me what’s wrong or don’t, but you better stop putting me into awkward as hell positions.\""
     m "想不想告訴我問題出在哪隨便你，但你最好別再放我一個人這麼尷尬了。"
 
-# game/murdochroute2.rpy:4993
-translate Tchinese murdochroute2_53faebb8:
+# game/murdochroute2.rpy:4998
+translate Tchinese murdochroute2_8fa2b814:
 
-    # "Murdoch looks at me and raises his voice to a growl, too."
+    # "Murdoch looks at me and raises his voice to a growl too."
     "Murdoch看向我，同樣把音量拉高到低吼的程度。"
 
 # game/murdochroute2.rpy:4995
@@ -17439,10 +17439,10 @@ translate Tchinese murdochroute2_a8604eb9:
     # mu "\"...He’s fucking me, too.\""
     mu "……他也睡了我。"
 
-# game/murdochroute2.rpy:5015
-translate Tchinese murdochroute2_16819148:
+# game/murdochroute2.rpy:5020
+translate Tchinese murdochroute2_ce8ea353:
 
-    # m "\"...come again?\""
+    # m "\"...Come again?\""
     m "……你再說一次？"
 
 # game/murdochroute2.rpy:5016
@@ -17805,16 +17805,16 @@ translate Tchinese murdochroute2_a5ab0e43:
     # m "\"There something in you now?\""
     m "你現在有嗑？"
 
-# game/murdochroute2.rpy:5077
-translate Tchinese murdochroute2_bce4ee09:
+# game/murdochroute2.rpy:5082
+translate Tchinese murdochroute2_3904b9b7:
 
-    # "He folded his hands on his lap, looking away."
+    # "He folds his hands on his lap, looking away."
     "他雙手闔在大腿上，別開目光。"
 
-# game/murdochroute2.rpy:5078
-translate Tchinese murdochroute2_b7e314ce:
+# game/murdochroute2.rpy:5083
+translate Tchinese murdochroute2_73d04951:
 
-    # "Then he nodded his head, shaking, squeezing out a few tears."
+    # "Then he nods his head, shaking, squeezing out a few tears."
     "然後他顫抖著點點頭，眼中擠出些許淚滴。"
 
 # game/murdochroute2.rpy:5079
@@ -17913,10 +17913,10 @@ translate Tchinese murdochroute2_21103482:
     # m "\"If somebody told me their wellbeing was based on how good I sucked their boyfriend’s cock, I woulda used teeth.\""
     m "要是有人跟我講說，他們的幸福取決於我吸他們男友的屌吸得多好，我就要用咬的了。"
 
-# game/murdochroute2.rpy:5095
-translate Tchinese murdochroute2_e5674837:
+# game/murdochroute2.rpy:5100
+translate Tchinese murdochroute2_21043f89:
 
-    # "Murdoch snorted."
+    # "Murdoch snorts."
     "Murdoch嗤之以鼻。"
 
 # game/murdochroute2.rpy:5096
@@ -18663,10 +18663,10 @@ translate Tchinese murdochroute2_ef534549:
     # m "\"What then?\""
     m "那會怎麼樣？"
 
-# game/murdochroute2.rpy:5276
-translate Tchinese murdochroute2_d89938b6:
+# game/murdochroute2.rpy:5281
+translate Tchinese murdochroute2_86a439db:
 
-    # "He swallowed his spit."
+    # "He swallows his spit."
     "他吞了口口水。"
 
 # game/murdochroute2.rpy:5278
@@ -18687,10 +18687,10 @@ translate Tchinese murdochroute2_03c799ca:
     # m "\"What next?\""
     m "然後你會做什麼？"
 
-# game/murdochroute2.rpy:5283
-translate Tchinese murdochroute2_7598c20a:
+# game/murdochroute2.rpy:5288
+translate Tchinese murdochroute2_9a8cd1a9:
 
-    # "The fox shrugged."
+    # "The fox shrugs."
     "狐狸聳肩。"
 
 # game/murdochroute2.rpy:5285
@@ -18999,10 +18999,10 @@ translate Tchinese murdochroute2_1c85eca1:
     # m "\"What's really in it for you?\""
     m "對你有什麼好處？"
 
-# game/murdochroute2.rpy:5364
-translate Tchinese murdochroute2_79e86fe6:
+# game/murdochroute2.rpy:5369
+translate Tchinese murdochroute2_16f132f2:
 
-    # "He let out a squeaky whine."
+    # "He lets out a squeaky whine."
     "他發出了聲尖銳的嗚咽。"
 
 # game/murdochroute2.rpy:5365
@@ -19227,22 +19227,22 @@ translate Tchinese murdochroute2_165b2b73:
     # m "\"Shut the HELL up.\""
     m "給我閉嘴。"
 
-# game/murdochroute2.rpy:5426
-translate Tchinese murdochroute2_392293b8:
+# game/murdochroute2.rpy:5431
+translate Tchinese murdochroute2_abf12970:
 
-    # "Murdoch recoiled away from me."
+    # "Murdoch recoils away from me."
     "Murdoch被我嚇得後彈。"
 
-# game/murdochroute2.rpy:5428
-translate Tchinese murdochroute2_eea77451:
+# game/murdochroute2.rpy:5433
+translate Tchinese murdochroute2_18224889:
 
-    # "His eyes were wide and red."
+    # "His eyes are wide and red."
     "他赤色的眼眸大張。"
 
-# game/murdochroute2.rpy:5429
-translate Tchinese murdochroute2_513e27f2:
+# game/murdochroute2.rpy:5434
+translate Tchinese murdochroute2_5de33668:
 
-    # "He looked a lot like his little brother right now."
+    # "He looks a lot like his little brother right now."
     "現在看起來跟他弟弟很像。"
 
 # game/murdochroute2.rpy:5430
@@ -19353,10 +19353,10 @@ translate Tchinese murdochroute2_ad2d3d82:
     # mu "\"...And get dressed for the parts we are meant to play.\""
     mu "……換上服裝，扮好我們的角色。"
 
-# game/murdochroute2.rpy:5459
-translate Tchinese murdochroute2_5b92481c:
+# game/murdochroute2.rpy:5464
+translate Tchinese murdochroute2_7ee7acc7:
 
-    # "He buttons each button and buckles each clasp as he stares into the mirror watching out of the corner of his eye... quite attentively."
+    # "He buttons each button and buckles each clasp as he stares into the mirror, watching out of the corner of his eye... quite attentively."
     "他注視鏡子，扣上每個鈕扣，同時用餘光……精心打量。"
 
 # game/murdochroute2.rpy:5460
@@ -19809,11 +19809,11 @@ translate Tchinese muc0_e2e01131:
     # mu "\"The fits are nearly perfect.\""
     mu "非常合身。"
 
-# game/murdochroute2.rpy:5620
-translate Tchinese muc0_c443348d:
+# game/murdochroute2.rpy:5625
+translate Tchinese muc0_ebf2b17d:
 
-    # "Murdoch lowered his voice."
-    "Murdoch降低音量。"
+    # "Murdoch lowers his voice."
+    "Murdoch降低音量："
 
 # game/murdochroute2.rpy:5622
 translate Tchinese muc0_739b4442:
@@ -19995,10 +19995,10 @@ translate Tchinese muc0_f079ee94:
     # ji "\"You’re a bit wider and taller than most folks in town.\""
     ji "你比這鎮上大多人都還高大魁梧。"
 
-# game/murdochroute2.rpy:5678
-translate Tchinese muc0_93e35ac5:
+# game/murdochroute2.rpy:5683
+translate Tchinese muc0_06a59937:
 
-    # "He looked me up and down."
+    # "He looks me up and down."
     "他上下打量我。"
 
 # game/murdochroute2.rpy:5680
@@ -20031,10 +20031,10 @@ translate Tchinese muc0_ed50ae2f:
     # m "\"You’d like the view, so to speak?\""
     m "就是說，你想我這麼接待你囉？"
 
-# game/murdochroute2.rpy:5691
-translate Tchinese muc0_105bdfd4:
+# game/murdochroute2.rpy:5696
+translate Tchinese muc0_f40ad0e0:
 
-    # ji "\"I do.\""
+    # ji "\"I would.\""
     ji "我是想。"
 
 # game/murdochroute2.rpy:5694
@@ -20061,10 +20061,10 @@ translate Tchinese muc0_6cec7980:
     # "Stay comfortable, Jim."
     "你就儘管放鬆吧，Jim。"
 
-# game/murdochroute2.rpy:5699
-translate Tchinese muc0_8684ecbf:
+# game/murdochroute2.rpy:5704
+translate Tchinese muc0_22ca1bc6:
 
-    # "I look down on the display case and see a large variety of rings in the display case."
+    # "I look down on the display case and see a large variety of rings inside."
     "我望向展示櫃，看見各式各樣的戒指。"
 
 # game/murdochroute2.rpy:5701
@@ -20139,10 +20139,10 @@ translate Tchinese muc0_948af10f:
     # "Bear" "\"Sorry kid. No diamonds in stock the size you want.\""
     "Bear" "抱歉，小子。庫存裡沒有大小符合你要求的鑽石。"
 
-# game/murdochroute2.rpy:5723
-translate Tchinese muc0_b75a0529:
+# game/murdochroute2.rpy:5728
+translate Tchinese muc0_e37dca88:
 
-    # "Jim cursed under his breath."
+    # "Jim curses under his breath."
     "Jim順著呼吸低聲咒罵。"
 
 # game/murdochroute2.rpy:5725
@@ -20685,10 +20685,10 @@ translate Tchinese muc0_d693a109:
     # mu "\"And sometimes a little fear can make things worse.\""
     mu "也有時候，恐懼會搞砸事情的。"
 
-# game/murdochroute2.rpy:5900
-translate Tchinese muc0_27b3bd1f:
+# game/murdochroute2.rpy:5905
+translate Tchinese muc0_44f3d73e:
 
-    # "I rubbed my nose."
+    # "I rub my nose."
     "我揉了揉鼻頭。"
 
 # game/murdochroute2.rpy:5901
@@ -20739,10 +20739,10 @@ translate Tchinese muc0_b8692afe:
     # "I don’t think Murdoch needs anything else to feel anxious about."
     "我認為Murdoch要擔憂的已經夠多了。"
 
-# game/murdochroute2.rpy:5915
-translate Tchinese muc0_cb4a12a5:
+# game/murdochroute2.rpy:5920
+translate Tchinese muc0_b20a8bfa:
 
-    # "By the time we got back to the store, we were surprised to see a sign on the front door."
+    # "By the time we get back to the store, we're surprised to see a sign on the front door."
     "我們回到店面時，驚訝於正門的告示。"
 
 # game/murdochroute2.rpy:5917
@@ -20979,11 +20979,11 @@ translate Tchinese muc0_b897798f:
     # al "\"He’s here! He’s here!\""
     al "他在這！他在這！"
 
-# game/murdochroute2.rpy:5971
-translate Tchinese muc0_a5fe27fe:
+# game/murdochroute2.rpy:5976
+translate Tchinese muc0_d21278ed:
 
-    # "There was something sharp and shrill in this man’s voice that I can hear now that I didn’t before."
-    "這男人的音色哩，帶有我之前沒聽過的刺激與興奮感。"
+    # "There's something sharp and shrill in this man’s voice that I can hear now that I didn’t before."
+    "這男人的音色裡，帶有我之前沒聽過的刺激與興奮感。"
 
 # game/murdochroute2.rpy:5972
 translate Tchinese muc0_6bd2b854:
@@ -21027,8 +21027,8 @@ translate Tchinese muc0_cfd36056:
     # "He looks more put together than how he looked a couple of nights ago, but the bags under his eyes are much worse."
     "他比幾晚前體面得多，不過眼袋也重多了。"
 
-# game/murdochroute2.rpy:5988
-translate Tchinese muc0_81efe3db:
+# game/murdochroute2.rpy:6050
+translate Tchinese muc0_81efe3db_1:
 
     # m "\"Sure, Sheriff.\""
     m "行，警長。"
@@ -21051,10 +21051,10 @@ translate Tchinese muc0_60f6bbaf:
     # wi "\"Just your cooperation.\""
     wi "只要你的合作。"
 
-# game/murdochroute2.rpy:5994
-translate Tchinese muc0_78f4d33a:
+# game/murdochroute2.rpy:5999
+translate Tchinese muc0_d6cb8478:
 
-    # "He turned to Mr. Byrnes."
+    # "He turns to Mr. Byrnes."
     "他轉向Byrnes先生。"
 
 # game/murdochroute2.rpy:5997
@@ -21075,16 +21075,16 @@ translate Tchinese muc0_3cd2b0f7:
     # al "\"Of course.\""
     al "那是自然。"
 
-# game/murdochroute2.rpy:6004
-translate Tchinese muc0_72b924f8:
+# game/murdochroute2.rpy:6009
+translate Tchinese muc0_819c8879:
 
-    # "The older fox opened his mouth, like he was about to say something, then closed it again."
+    # "The older fox opens his mouth, like he's about to say something, then closes it again."
     "老狐狸張著嘴，像是有話要說，卻又閉上。"
 
-# game/murdochroute2.rpy:6006
-translate Tchinese muc0_7a67aeb2:
+# game/murdochroute2.rpy:6011
+translate Tchinese muc0_05eab3a9:
 
-    # "Almost like he had confused himself."
+    # "Almost like he has confused himself."
     "彷彿被自己的話所迷惑。"
 
 # game/murdochroute2.rpy:6008
@@ -21099,22 +21099,22 @@ translate Tchinese muc0_4c1b5f3f:
     # al "\"Right. He can do that.\""
     al "對，讓他來吧。"
 
-# game/murdochroute2.rpy:6013
-translate Tchinese muc0_122f1064:
+# game/murdochroute2.rpy:6018
+translate Tchinese muc0_8910502a:
 
-    # "He stroked his chin and then jerked his head toward a hallway."
+    # "He strokes his chin and then jerks his head toward a hallway."
     "他拉著自己下巴的毛，用頭指向走廊。"
 
-# game/murdochroute2.rpy:6015
-translate Tchinese muc0_ec6aee1a:
+# game/murdochroute2.rpy:6020
+translate Tchinese muc0_e7ee769f:
 
-    # "Then he glared at Murdoch."
+    # "Then he glares at Murdoch."
     "然後望著Murdoch。"
 
-# game/murdochroute2.rpy:6017
-translate Tchinese muc0_56cef545:
+# game/murdochroute2.rpy:6022
+translate Tchinese muc0_19053261:
 
-    # al "\"Good, we can reopen before we lose all of the luncheon crowd.\""
+    # al "\"Good. We can reopen before we lose all of the luncheon crowd.\""
     al "很好，這樣就能在錯失午餐人流前重新開店了。"
 
 # game/murdochroute2.rpy:6020
@@ -21717,10 +21717,10 @@ translate Tchinese muc0_61837e19:
     # wi "\"I thought it was strange at first, but now I think I get it.\""
     wi "一開始我還覺得奇怪，但現在明白了。"
 
-# game/murdochroute2.rpy:6236
-translate Tchinese muc0_4730ab69:
+# game/murdochroute2.rpy:6241
+translate Tchinese muc0_e19eeae9:
 
-    # "He smirked."
+    # "He smirks."
     "他揚起奸笑。"
 
 # game/murdochroute2.rpy:6239
@@ -21753,10 +21753,10 @@ translate Tchinese muc0_74c2ccd5:
     # "But it sounds more like he’s suspicious."
     "但聽上去比較像在質疑他。"
 
-# game/murdochroute2.rpy:6249
-translate Tchinese muc0_85f71738:
+# game/murdochroute2.rpy:6254
+translate Tchinese muc0_efe37e68:
 
-    # "Murdoch merely shrugged."
+    # "Murdoch merely shrugs."
     "Murdoch只是聳了聳肩。"
 
 # game/murdochroute2.rpy:6251
@@ -21843,10 +21843,10 @@ translate Tchinese muc0_9de087a9:
     # wi "\"If there’s anything important for me to know, I’ll be in touch.\""
     wi "要是有什麼重要消息，隨時來找我。"
 
-# game/murdochroute2.rpy:6292
-translate Tchinese muc0_af9b975b:
+# game/murdochroute2.rpy:6297
+translate Tchinese muc0_5ccd7af9:
 
-    # "Then he slipped through the door and shut it softly behind him."
+    # "Then he slips through the door and shuts it softly behind him."
     "然後他踏出門外，輕輕帶上門。"
 
 # game/murdochroute2.rpy:6294
@@ -21903,10 +21903,10 @@ translate Tchinese muc0_b7cbc655:
     # "If I didn’t know better I’d think that’s the difference in his relationships between a customer and an employee."
     "我要是個外人，可能還會以為那是他對客人跟員工的差別待遇。"
 
-# game/murdochroute2.rpy:6303
-translate Tchinese muc0_efc0ec7e:
+# game/murdochroute2.rpy:6308
+translate Tchinese muc0_1367a07e:
 
-    # "But it just seems like sometimes he genuinely can’t tell the difference at any given time."
+    # "But it just seems like sometimes he genuinely can’t tell the difference."
     "但有時候感覺他是真的分不清楚兩者。"
 
 # game/murdochroute2.rpy:6304
@@ -21915,10 +21915,10 @@ translate Tchinese muc0_d5b19957:
     # "It’s completely unpredictable."
     "完全無法預測。"
 
-# game/murdochroute2.rpy:6306
-translate Tchinese muc0_390fe78e:
+# game/murdochroute2.rpy:6311
+translate Tchinese muc0_18b04986:
 
-    # "Murdoch scratched the back of his head."
+    # "Murdoch scratches the back of his head."
     "Murdoch抓了抓後腦杓。"
 
 # game/murdochroute2.rpy:6308
@@ -22371,10 +22371,10 @@ translate Tchinese mdq2_2ded1c59:
     # mu "\"And there are more pictures of unmasked hangings than I would like.\""
     mu "沒蓋面罩的吊屍照片也多到我發毛。"
 
-# game/murdochroute2.rpy:6462
-translate Tchinese mdq2_cedf36ea:
+# game/murdochroute2.rpy:6467
+translate Tchinese mdq2_7a574bca:
 
-    # mu "\"But any image that shows of a pickaxe wound, perchance, could spend some time in the developer.\""
+    # mu "\"But any image that shows off a pickaxe wound, perchance, could spend some time in the developer.\""
     mu "比方說，拍有鎬子造成的傷口的照片之類的，就能泡久一點。"
 
 # game/murdochroute2.rpy:6463
@@ -22713,10 +22713,10 @@ translate Tchinese mdq2_427690d6:
     # m "\"Like this one?\""
     m "像這張一樣嗎？"
 
-# game/murdochroute2.rpy:6563
-translate Tchinese mdq2_fc54c478:
+# game/murdochroute2.rpy:6568
+translate Tchinese mdq2_a7e6a438:
 
-    # "Murdoch’s walks toward me and stares over my shoulder, then grunts."
+    # "Murdoch walks toward me and stares over my shoulder, then grunts."
     "Murdoch湊近我，越過我肩膀一看，並悶哼一聲。"
 
 # game/murdochroute2.rpy:6564
@@ -22797,10 +22797,10 @@ translate Tchinese mdq2_d64c7ed0:
     # m "\"You think so?\""
     m "認為？"
 
-# game/murdochroute2.rpy:6581
-translate Tchinese mdq2_06e724cf:
+# game/murdochroute2.rpy:6586
+translate Tchinese mdq2_a8174cfb:
 
-    # "He leaned against the countertop and shifted his weight from his left foot to his right."
+    # "He leans against the countertop and shifts his weight from his left foot to his right."
     "他靠在檯子上，把重心從左腳移到右腳。"
 
 # game/murdochroute2.rpy:6582
@@ -23067,10 +23067,10 @@ translate Tchinese mdq2_60156780:
     # mu "\"I already know too much about you without even trying.\""
     mu "我在不經意中早就知道了太多你的事。"
 
-# game/murdochroute2.rpy:6670
-translate Tchinese mdq2_4e58404d:
+# game/murdochroute2.rpy:6675
+translate Tchinese mdq2_1939486d:
 
-    # "He shrugged."
+    # "He shrugs."
     "他聳肩。"
 
 # game/murdochroute2.rpy:6672
@@ -23205,10 +23205,10 @@ translate Tchinese mdq2_205c94e2:
     # m "\"A gentle touch, that one.\""
     m "也太直接了吧。"
 
-# game/murdochroute2.rpy:6712
-translate Tchinese mdq2_48d603c7:
+# game/murdochroute2.rpy:6717
+translate Tchinese mdq2_4613c348:
 
-    # "Murdoch shrugged again."
+    # "Murdoch shrugs again."
     "Murdoch再次聳肩。"
 
 # game/murdochroute2.rpy:6713
@@ -23529,10 +23529,10 @@ translate Tchinese mdq2_becaa7a9:
     # m "\"I’ll trust you if you face the possibility that they’ll hurt you.\""
     m "如果你願意面對他們傷害你的可能性，我就信任你。"
 
-# game/murdochroute2.rpy:6802
-translate Tchinese mdq2_b3e2046e:
+# game/murdochroute2.rpy:6807
+translate Tchinese mdq2_86814205:
 
-    # mu "\"...what?\""
+    # mu "\"...What?\""
     mu "……什麼？"
 
 # game/murdochroute2.rpy:6803
@@ -23655,10 +23655,10 @@ translate Tchinese mdq2_0ab4cce4:
     # mu "\"I just don't think that's the state of things.\""
     mu "我只是不覺得事情有這麼糟。"
 
-# game/murdochroute2.rpy:6830
-translate Tchinese mdq2_09cab4e1:
+# game/murdochroute2.rpy:6835
+translate Tchinese mdq2_ea7758cf:
 
-    # "He didn’t say much more throughout the day as we developed the rest of the photos."
+    # "He doesn’t say much more throughout the day as we develop the rest of the photos."
     "接下來的時間他沒再多說什麼，我們就這樣沖洗照片。"
 
 # game/murdochroute2.rpy:6831
@@ -23667,10 +23667,10 @@ translate Tchinese mdq2_f5fea9de:
     # "Nothing risque or gruesome, thankfully."
     "幸好沒什麼淫穢或血腥的。"
 
-# game/murdochroute2.rpy:6832
-translate Tchinese mdq2_5ee81fb4:
+# game/murdochroute2.rpy:6837
+translate Tchinese mdq2_d6fa257d:
 
-    # "Five o’clock came faster than I thought it would, but my head is dizzy with the cloying scent of fox and chemicals in the small, warm room."
+    # "Five o’clock comes faster than I thought it would, but my head is dizzy with the cloying scent of fox and chemicals in the small, warm room."
     "五點比我想像中來得還早，但我的頭早就被這又小又熱的房間裡充斥的狐狸味跟化學藥物氣味薰暈了。"
 
 # game/murdochroute2.rpy:6833
@@ -23703,11 +23703,11 @@ translate Tchinese mdq2_e78bd340:
     # mu "\"You're sure you’ll be able to get it hemmed?\""
     mu "你確定你能搞定摺邊嗎？"
 
-# game/murdochroute2.rpy:6838
-translate Tchinese mdq2_546dc202:
+# game/murdochroute2.rpy:6843
+translate Tchinese mdq2_b36dcb5b:
 
-    # mu "\"Because we can always go back to the tailor if we need--\""
-    mu "如果有需要，還是能回去找裁縫──"
+    # mu "\"Because we can always go back to the tailor if we need—\""
+    mu "如果有需要，還是能回去找裁縫——"
 
 # game/murdochroute2.rpy:6839
 translate Tchinese mdq2_f0105877:
@@ -23799,10 +23799,10 @@ translate Tchinese mdq2_d58ee523:
     # cy "\"Don’t trouble yourself with any worries.\""
     cy "用不著擔心。"
 
-# game/murdochroute2.rpy:6866
-translate Tchinese mdq2_4ecf4628:
+# game/murdochroute2.rpy:6871
+translate Tchinese mdq2_cf101880:
 
-    # cy "\"Just hoping for a little bit of shut eye before the late night shift.\""
+    # cy "\"Just hoping for a little bit of shut-eye before the late night shift.\""
     cy "只是想在晚班前小睡一下而已。"
 
 # game/murdochroute2.rpy:6868
@@ -23907,10 +23907,10 @@ translate Tchinese mdq2_f21b4799:
     # m "\"Think you could help me out?\""
     m "妳能幫我弄嗎？"
 
-# game/murdochroute2.rpy:6897
-translate Tchinese mdq2_30fa58d5:
+# game/murdochroute2.rpy:6902
+translate Tchinese mdq2_dc704233:
 
-    # "She crossed her arms and nodded."
+    # "She crosses her arms and nods."
     "她雙手抱胸，點了頭。"
 
 # game/murdochroute2.rpy:6899
@@ -23919,10 +23919,10 @@ translate Tchinese mdq2_6fb1716b:
     # cy "\"I can spare thirty minutes.\""
     cy "我能撥出三十分鐘。"
 
-# game/murdochroute2.rpy:6902
-translate Tchinese mdq2_2bd52847:
+# game/murdochroute2.rpy:6907
+translate Tchinese mdq2_114b7500:
 
-    # cy "\"Go get dressed I’ll be in your room in a bit.\""
+    # cy "\"Go get dressed. I’ll be in your room in a bit.\""
     cy "把衣服換上，我等等就去你房間。"
 
 # game/murdochroute2.rpy:6904
@@ -23991,10 +23991,10 @@ translate Tchinese mdq2_5a74eb6b:
     # cy "\"That’s not what I said...\""
     cy "我不是這個意思……"
 
-# game/murdochroute2.rpy:6922
-translate Tchinese mdq2_109298c3:
+# game/murdochroute2.rpy:6927
+translate Tchinese mdq2_43084a69:
 
-    # cy "\"The waist fit looks good but the cuff of the pants need adjustments.\""
+    # cy "\"The waist fit looks good but the cuffs of the pants need adjustments.\""
     cy "腰部挺合的，但褲管需要修一下。"
 
 # game/murdochroute2.rpy:6925
@@ -24453,10 +24453,10 @@ translate Tchinese mdq2_5fa176a0:
     # m "\"I just thought I’d get that yelp out the way.\""
     m "只是想先叫完而已。"
 
-# game/murdochroute2.rpy:7015
-translate Tchinese mdq2_caf5ceeb:
+# game/murdochroute2.rpy:7020
+translate Tchinese mdq2_c0596b74:
 
-    # "She was pretty rough with the next pin."
+    # "She's pretty rough with the next pin."
     "下個別針她戳得特別用力。"
 
 # game/murdochroute2.rpy:7016
@@ -24543,10 +24543,10 @@ translate Tchinese mdq2_ee7edfc3:
     # cy "\"More grooming would do you wonders.\""
     cy "修整一下毛髮會有奇效的。"
 
-# game/murdochroute2.rpy:7043
-translate Tchinese mdq2_676a0973:
+# game/murdochroute2.rpy:7048
+translate Tchinese mdq2_14b2c275:
 
-    # "She cut the thread off the needle with her teeth."
+    # "She cuts the thread off the needle with her teeth."
     "她咬斷線頭。"
 
 # game/murdochroute2.rpy:7045
@@ -24561,16 +24561,16 @@ translate Tchinese mdq2_d50a6585:
     # "I hold it out, stiffly, rolling my eyes."
     "我僵硬地把手擺好，翻了個白眼。"
 
-# game/murdochroute2.rpy:7048
-translate Tchinese mdq2_a1d533a5:
+# game/murdochroute2.rpy:7053
+translate Tchinese mdq2_a30dd810:
 
-    # m "\"When there isn’t some task to perform there’s some person to please.\""
+    # m "\"When there isn’t some task to perform, there’s some person to please.\""
     m "不是有事要幹就是有人要應付。"
 
-# game/murdochroute2.rpy:7049
-translate Tchinese mdq2_b1ca5054:
+# game/murdochroute2.rpy:7054
+translate Tchinese mdq2_73e402c7:
 
-    # m "\"Workin’ here at least I know what people want.\""
+    # m "\"Workin’ here, at least I know what people want.\""
     m "在這工作，我至少還知道別人想要的是什麼。"
 
 # game/murdochroute2.rpy:7050
@@ -24711,10 +24711,10 @@ translate Tchinese mdq2_1ba77422:
     # cy "\"Now don’t be a stranger.\""
     cy "記得好好保持聯絡。"
 
-# game/murdochroute2.rpy:7093
-translate Tchinese mdq2_e9139a99:
+# game/murdochroute2.rpy:7098
+translate Tchinese mdq2_7679376b:
 
-    # "She gave me a small curtsy and left."
+    # "She gives me a small curtsy and leaves."
     "她稍微行了個屈膝禮然後轉身離去。"
 
 # game/murdochroute2.rpy:7094
@@ -24753,16 +24753,16 @@ translate Tchinese mdq2_92de6beb:
     # m "\"I’ll get to it.\""
     m "馬上辦。"
 
-# game/murdochroute2.rpy:7103
-translate Tchinese mdq2_6458a557:
+# game/murdochroute2.rpy:7108
+translate Tchinese mdq2_2502b5ca:
 
-    # "Getting through the rest of the night wasn’t as hard as the rest of the day."
+    # "Getting through the rest of the night isn’t as hard as the rest of the day."
     "夜晚比白天輕鬆。"
 
-# game/murdochroute2.rpy:7105
-translate Tchinese mdq2_c13c9e19:
+# game/murdochroute2.rpy:7110
+translate Tchinese mdq2_c4966dea:
 
-    # "My first session doesn’t even use up the whole thirty minutes, as much as he needed to let it out."
+    # "My first session doesn’t even use up the whole thirty minutes, as much as he needs to let it out."
     "我第一個時段根本都沒用上整個三十分鐘，對方完事就走了。"
 
 # game/murdochroute2.rpy:7106
@@ -24943,7 +24943,7 @@ translate Tchinese mdq2_69ae8e10:
 translate Tchinese mdq2_15682e08:
 
     # hounk "\"{i}Mr. Rochester, you must neither expect nor exact anything celestial of me — for you will not get it, any more than I shall get it of you: which I do not at all anticipate.{/i}\""
-    hounk "{b}「羅切斯特先生，你不該在我身上期望或尋求天界才有的東西──你不會得到的，就像我無法從你那兒得到一樣；我也不會指望這點。」{/b}"
+    hounk "{b}「羅切斯特先生，你不該在我身上期望或尋求天界才有的東西——你不會得到的，就像我無法從你那兒得到一樣；我也不會指望這點。」{/b}"
 
 # game/murdochroute2.rpy:7147
 translate Tchinese mdq2_9f7a287c:
@@ -24963,10 +24963,10 @@ translate Tchinese mdq2_a4723529:
     # "She was looking at me, so I knew this was coming."
     "她有在看我，所以我早就知道會這樣。"
 
-# game/murdochroute2.rpy:7151
-translate Tchinese mdq2_2b4f20bb:
+# game/murdochroute2.rpy:7156
+translate Tchinese mdq2_ccf8bce4:
 
-    # "I felt my face screw up, trying to stall."
+    # "I feel my face screw up, trying to stall."
     "我臉色僵硬，想拖延時間。"
 
 # game/murdochroute2.rpy:7152
@@ -25017,10 +25017,10 @@ translate Tchinese mdq2_b2922a50:
     # msho "\"But remember: even in a biblical sense, angels are soulless.\""
     msho "別忘了：即使在聖經中，天使都是毫無生氣的。"
 
-# game/murdochroute2.rpy:7171
-translate Tchinese mdq2_34342c9e:
+# game/murdochroute2.rpy:7176
+translate Tchinese mdq2_66dfc8a3:
 
-    # msho "\"Angels are said to be jealous of man and woman right’s to atone, and to choose who they wish to be.\""
+    # msho "\"Angels are said to be jealous of man and woman’s right to atone, and to choose who they wish to be.\""
     msho "天使被描寫為對人類能夠贖罪及自己選擇道路的權力有所嚮往。"
 
 # game/murdochroute2.rpy:7173
@@ -25051,7 +25051,7 @@ translate Tchinese mdq2_b53563e8:
 translate Tchinese mdq2_135c0d71:
 
     # msho "\"You must neither expect nor exact anything celestial of me — for you will not get it, any more than I shall get it of you.\""
-    msho "你不該在我身上期望或尋求天界才有的東西──你不會得到的，就像我無法從你那兒得到一樣；我也不會指望這點。"
+    msho "你不該在我身上期望或尋求天界才有的東西——你不會得到的，就像我無法從你那兒得到一樣；我也不會指望這點。"
 
 # game/murdochroute2.rpy:7192
 translate Tchinese mdq2_ecd5588a:
@@ -25287,10 +25287,10 @@ translate Tchinese mdq2_48426fe1:
     # me "\"{i}'I cry because I am miserable.'{/i}\""
     me "{b}「我是因為心裡難受才哭的。」{/b}"
 
-# game/murdochroute2.rpy:7284
-translate Tchinese mdq2_45d3174b:
+# game/murdochroute2.rpy:7289
+translate Tchinese mdq2_30beda04:
 
-    # "Mrs. Byrne’s eyebrow perked up."
+    # "Mrs. Byrnes’s eyebrow perks up."
     "Byrnes老師挑起眉毛。"
 
 # game/murdochroute2.rpy:7286
@@ -25357,7 +25357,7 @@ translate Tchinese mdq2_06e1c80d:
 translate Tchinese mdq2_90a11344:
 
     # msho "\"{i}Do you think I am an automaton? — a machine without feelings?{/i}\""
-    msho "{b}「你以為我是一架機器？──一架沒有感情的機器？」{/b}"
+    msho "{b}「你以為我是一架機器？——一架沒有感情的機器？」{/b}"
 
 # game/murdochroute2.rpy:7312
 translate Tchinese mdq2_ae11f86d:
@@ -25375,7 +25375,7 @@ translate Tchinese mdq2_f2bf1eaa:
 translate Tchinese mdq2_55de1e06:
 
     # msho "\"{i}You think wrong! — I have as much soul as you — and full as much heart!{/i}\""
-    msho "{b}「大錯特錯！──我的心靈跟你一樣豐富──心胸跟你一樣充實！」{/b} "
+    msho "{b}「大錯特錯！——我的心靈跟你一樣豐富——心胸跟你一樣充實！」{/b} "
 
 # game/murdochroute2.rpy:7321
 translate Tchinese mdq2_88bade7e:
@@ -25399,12 +25399,12 @@ translate Tchinese mdq2_b2f1cf24:
 translate Tchinese mdq2_28724771:
 
     # msho "\"{i}Just as if both had passed through the grave, and we stood at God's feet, equal — as we are!{/i}\""
-    msho "{b}「就彷彿我們兩人穿過墳墓，站在上帝腳下，彼此平等──本來就如此！」{/b}"
+    msho "{b}「就彷彿我們兩人穿過墳墓，站在上帝腳下，彼此平等——本來就如此！」{/b}"
 
-# game/murdochroute2.rpy:7333
-translate Tchinese mdq2_4f50e5b2:
+# game/murdochroute2.rpy:7338
+translate Tchinese mdq2_f4db86c4:
 
-    # "She closed her book with a light puff, still smiling."
+    # "She closes her book with a light puff, still smiling."
     "她微笑著闔上書，令其發出輕輕氣聲。"
 
 # game/murdochroute2.rpy:7337
@@ -25593,10 +25593,10 @@ translate Tchinese mdq2_d7b060ef:
     # bl "\"Sort of.\""
     bl "差不多。"
 
-# game/murdochroute2.rpy:7401
-translate Tchinese mdq2_697542e4:
+# game/murdochroute2.rpy:7406
+translate Tchinese mdq2_e7184578:
 
-    # bl "\"But instead, books can do that with descriptions of images on top just what the dialogue of the characters are saying.\""
+    # bl "\"But instead, books can do that with descriptions of images on top of just what the dialogue of the characters are saying.\""
     bl "但書本除了角色的台詞本身，還能添加對情境的描述。"
 
 # game/murdochroute2.rpy:7404
@@ -25617,10 +25617,10 @@ translate Tchinese mdq2_a04a3770:
     # me "\"Well if reading is just like having a conversation with somebody, it makes perfect sense why I struggle.\""
     me "如果讀書就像跟人對話一樣，怪不得我這麼不得要領。"
 
-# game/murdochroute2.rpy:7412
-translate Tchinese mdq2_fd2eeea0:
+# game/murdochroute2.rpy:7417
+translate Tchinese mdq2_0d0b1342:
 
-    # me "\"If somebody makes me uncomfortable, I don’t want to spends hours of my life with them all by my lonesome.\""
+    # me "\"If somebody makes me uncomfortable, I don’t want to spend hours of my life with them all by my lonesome.\""
     me "我可不想面對我不喜歡的人這麼長時間。"
 
 # game/murdochroute2.rpy:7414
@@ -25809,10 +25809,10 @@ translate Tchinese mdq2_1a97f9cd:
     # bl "\"Found a bunch of money somebody dropped.\""
     bl "我找到有人掉的一大筆錢。"
 
-# game/murdochroute2.rpy:7478
-translate Tchinese mdq2_163f1a86:
+# game/murdochroute2.rpy:7483
+translate Tchinese mdq2_00985ab7:
 
-    # bl "\"Bought a cozy bit of carpet, and end table, some pillows.\""
+    # bl "\"Bought a cozy bit of carpet, an end table, some pillows.\""
     bl "買了保暖的毛毯、床頭櫃，還有一些枕頭。"
 
 # game/murdochroute2.rpy:7479
@@ -26931,10 +26931,10 @@ translate Tchinese mdq2_1089108d:
     # "And their perversions of what is good."
     "跟他們的變態興趣，"
 
-# game/murdochroute2.rpy:7747
-translate Tchinese mdq2_b37a8f4e:
+# game/murdochroute2.rpy:7752
+translate Tchinese mdq2_0ea36ae9:
 
-    # "Of what is magic, and sacred and special."
+    # "Of what is magic, and sacred, and special."
     "還有任何巫術、神聖、特別的事物。"
 
 # game/murdochroute2.rpy:7748
@@ -27537,10 +27537,10 @@ translate Tchinese mdq2_198ce5c3:
     # "???" "\"How sad.\""
     "???" "那可真遺憾。"
 
-# game/murdochroute2.rpy:7853
-translate Tchinese mdq2_4d1a8d1f:
+# game/murdochroute2.rpy:7858
+translate Tchinese mdq2_7122a3d1:
 
-    # no2_TW "\"You don’t realize it, yet, but every failure you commit undermines your chance to escape.\""
+    # no2 "\"You don’t realize it yet, but every failure you commit undermines your chance to escape.\""
     no2_TW "你還不懂，但你每次失敗都會降低自己逃離的可能性。"
 
 # game/murdochroute2.rpy:7854
@@ -27552,19 +27552,19 @@ translate Tchinese mdq2_d67921e5:
 # game/murdochroute2.rpy:7855
 translate Tchinese mdq2_1a00e82f:
 
-    # no2_TW "\"And yet you must.\""
+    # no2 "\"And yet you must.\""
     no2_TW "但你必須得。"
 
 # game/murdochroute2.rpy:7856
 translate Tchinese mdq2_cb4a3c39:
 
-    # no2_TW "\"Or else your eyes will be opened.\""
+    # no2 "\"Or else your eyes will be opened.\""
     no2_TW "不然就等著瞧吧。"
 
 # game/murdochroute2.rpy:7857
 translate Tchinese mdq2_1952456a:
 
-    # no2_TW "\"And you’ll wish it was me who did the prying.\""
+    # no2 "\"And you’ll wish it was me who did the prying.\""
     no2_TW "你還會希望纏上你的是我呢。"
 
 # game/murdochroute2.rpy:7858
@@ -27591,10 +27591,10 @@ translate Tchinese mdq2_024976d6:
     # "???" "\"Answer me, spirit!\""
     "???" "回答我，邪靈！"
 
-# game/murdochroute2.rpy:7863
-translate Tchinese mdq2_d7d4374e:
+# game/murdochroute2.rpy:7868
+translate Tchinese mdq2_daf01164:
 
-    # "The man began to mumble."
+    # "The man begins to mumble."
     "男人喃喃自語。"
 
 # game/murdochroute2.rpy:7864
@@ -27603,16 +27603,16 @@ translate Tchinese mdq2_3044d7f0:
     # "???" "\"Miserable, wet shit.\""
     "???" "可悲的屎東西。"
 
-# game/murdochroute2.rpy:7865
-translate Tchinese mdq2_a9da420c:
+# game/murdochroute2.rpy:7870
+translate Tchinese mdq2_ebc38a42:
 
-    # "And then his voice faded."
+    # "And then his voice fades."
     "然後他的話音消逝。"
 
-# game/murdochroute2.rpy:7866
-translate Tchinese mdq2_6c2e31d8:
+# game/murdochroute2.rpy:7871
+translate Tchinese mdq2_f7f2c350:
 
-    # "And the only sound that was left was once again the roar of the cave water."
+    # "And the only sound that is left is once again the roar of the cave water."
     "此處再度只剩洞裡的水聲。"
 
 # game/murdochroute2.rpy:7867
@@ -27813,10 +27813,10 @@ translate Tchinese mdq2_3bf102bf:
     # "I saw Mr. Ayers there too, watching with me."
     "我也看到了Ayers先生正望著那一切。"
 
-# game/murdochroute2.rpy:7928
-translate Tchinese mdq2_037d8624:
+# game/murdochroute2.rpy:7933
+translate Tchinese mdq2_aaf7244f:
 
-    # " Except he was alone this time."
+    # "Except he was alone this time."
     "只不過這次他是自己一人。"
 
 # game/murdochroute2.rpy:7929
@@ -28568,1210 +28568,3 @@ translate Tchinese strings:
     # game/murdochroute2.rpy:6399
     old "500?"
     new "500？"
-
-# TODO: Translation updated at 2023-07-25 16:41
-
-# game/murdochroute2.rpy:465
-translate Tchinese murdochroute2_0e3b12ad:
-
-    # ho "\"Working one of our longest days of the year on your second day isn't the best of luck.\""
-    ho "第二個工作日就是一年中最漫長的一天，真是不走運。"
-
-# game/murdochroute2.rpy:1834
-translate Tchinese murdochroute2_7048fda8:
-
-    # "Ralph looks all around him and lifts his head to the rock ceiling."
-    "Ralph看了圈四周，然後抬頭望向岩頂。"
-
-# game/murdochroute2.rpy:2231
-translate Tchinese murdochroute2_a2252bcb:
-
-    # "So I tug on Murdoch's sleeve, and he gives me a sly kind of smile."
-    "於是我抓住Murdoch的衣袖，他回以一抹狡詐的笑容。"
-
-# game/murdochroute2.rpy:2326
-translate Tchinese murdochroute2_bbd4795f:
-
-    # m "\"I'm sure you'd learn to be careful.\""
-    m "相信你會學會小心的。"
-
-# game/murdochroute2.rpy:4233
-translate Tchinese murdochroute2_efc84888:
-
-    # "Murdoch sits on the empty chair closest to the fire, leaving me the couch with his father or the other empty chair that places the fiance between us."
-    "Murdoch坐在離火爐最近的椅子上，把他父親的沙發，或另一把空椅子留給了我。"
-
-# game/murdochroute2.rpy:4428
-translate Tchinese murdochroute2_1a16c8fb:
-
-    # gr "\"I’m proud to say that hiring you was one of the best things my son has done in months.\""
-    gr "我可以自豪地說，僱傭了你是我兒子這幾個月來最值得稱道的行為。"
-
-# game/murdochroute2.rpy:4662
-translate Tchinese murdochroute2_6251d9cf:
-
-    # ji "\"What kind of groom would I be if I didn’t treat my own ushers to the best part of this ceremony?\""
-    ji "沒有讓伴郎們享受到婚禮最精彩的部分，那我還算哪門子新郎？"
-
-# game/murdochroute2.rpy:6904
-translate Tchinese mdq2_4d886868:
-
-    # cy "\"Go get dressed, I’ll be in your room in a bit.\""
-    cy "把衣服換上，我等等就去你房間。"
-# TODO: Translation updated at 2024-02-27 22:22
-
-# game/murdochroute2.rpy:3954
-translate Tchinese murdochroute2_027feb0d:
-
-    # "She looks over her shoulder like she hears me, snatches her own hat off her head and holds her arms out, putting each foot down in front of her, widening the gap."
-    "她像是聽到了動靜，回頭看了我一眼，然後摘下帽子，伸出雙臂，飛奔了起來。"
-
-# TODO: Translation updated at 2024-10-12 17:44
-
-# game/murdochroute2.rpy:149
-translate Tchinese murdochroute2_b1cc5bef:
-
-    # "Bit nervous to approach them though — would probably think I'm a weirdo."
-    "接近她們令我有一點緊張：她們可能會覺得我是個怪人。"
-
-# game/murdochroute2.rpy:263
-translate Tchinese murdochroute2_ea382d1d:
-
-    # mu "\"But the photograph—\""
-    mu "但是那張照片─"
-
-# game/murdochroute2.rpy:415
-translate Tchinese murdochroute2_eebf63d7:
-
-    # "I realize at this moment that one of Murdoch's sisters stands next to him — the tiny astronomer with the big glasses that sit on her snout."
-    "就在此時，我才意識到他身旁站著Murdoch的一個姐妹：那個鼻樑上戴著副小眼鏡的小天文學家。"
-
-# game/murdochroute2.rpy:474
-translate Tchinese murdochroute2_157b0a49:
-
-    # ho "\"Of course you have — you've met my juniors.\""
-    ho "那是當然，你已經見識過我的學生了。"
-
-# game/murdochroute2.rpy:710
-translate Tchinese murdochroute2_e428d828:
-
-    # ra "\"I'm still terrified of the scandal you could cause — and if you're in trouble, the whole business could follow you down the drain.\""
-    ra "我還是在害怕你可能引起的醜聞：如果你陷入了麻煩，整個生意都將跟著你完蛋。"
-
-# game/murdochroute2.rpy:1971
-translate Tchinese murdochroute2_6d2bd295:
-
-    # mu "\"If they're doing something harmful, we should probably interrupt—\""
-    mu "如果他在幹什麼勾當，我們應該制止─"
-
-# game/murdochroute2.rpy:1980
-translate Tchinese murdochroute2_3a32bbcd:
-
-    # mu "\"That couldn't be a—\""
-    mu "不可能─"
-
-# game/murdochroute2.rpy:2726
-translate Tchinese murdochroute2_ee13b73f:
-
-    # cl "\"The meadows and quarries here are ancient — certainly like nothing I've seen before.\""
-    cl "那裡的草場和採石場相當有年頭，絕對是我前所未見的。"
-
-# game/murdochroute2.rpy:2850
-translate Tchinese murdochroute2_5c89f323:
-
-    # "Or worse — get me fired."
-    "或者更糟：導致我被開除。"
-
-# game/murdochroute2.rpy:3169
-translate Tchinese murdochroute2_ff283e08:
-
-    # bl "\"Sorry I'm early Miz Byrnes, but—\""
-    bl "不好意思，我來早了，Byrnes小姐，但是─"
-
-# game/murdochroute2.rpy:3728
-translate Tchinese murdochroute2_7f397e4c:
-
-    # m "\"MotherFUCK—\""
-    m "{b}喔幹─{/b}"
-
-# game/murdochroute2.rpy:3829
-translate Tchinese murdochroute2_b520e8ca:
-
-    # "I can feel a rush of air, so similar — too similar — to the entrance of the mines."
-    "我能感到一股氣流迎面衝了出來，與礦井入口十分相似─太相似了。"
-
-# game/murdochroute2.rpy:4292
-translate Tchinese murdochroute2_606583d1:
-
-    # mu "\"Perhaps both Sam and Jim would prefer to talk about something other than work—\""
-    mu "也許Sam和Jim喜歡討論工作以外的事情——"
-
-# game/murdochroute2.rpy:4454
-translate Tchinese murdochroute2_72d4991b:
-
-    # gr "\"Holly knows that you have to take credit where credit is due — she’s organizing her entire wedding by herself, and on a budget.\""
-    gr "Holly就明白這個道理，她獨自籌備了整場婚禮，還沒有超出預算。"
-
-# game/murdochroute2.rpy:4471
-translate Tchinese murdochroute2_35caa352:
-
-    # gr "\"Holly understands that. That’s why her classroom is so well-managed.\""
-    gr "Holly深知這一點，所以她的班級才管理有方。"
-
-# game/murdochroute2.rpy:4477
-translate Tchinese murdochroute2_1eba5bee:
-
-    # ho "\"Firm boundaries must be established — that’s really all there is to it.\""
-    ho "嚴格的規矩是必須的，就這麼簡單。"
-
-# game/murdochroute2.rpy:6843
-translate Tchinese mdq2_b36dcb5b:
-
-    # mu "\"Because we can always go back to the tailor if we need—\""
-    mu "如果有需要，還是能回去找裁縫─"
-# TODO: Translation updated at 2025-06-06 01:45
-
-# game/murdochroute2.rpy:115
-translate Tchinese murdochroute2_7d298645:
-
-    # "The old fox's beam turns into a look of consternation."
-    ""
-
-# game/murdochroute2.rpy:116
-translate Tchinese murdochroute2_55bc8079:
-
-    # "He leers at me for a moment, small green eyes squinting, as if putting one and two together."
-    ""
-
-# game/murdochroute2.rpy:122
-translate Tchinese murdochroute2_ae7aead9:
-
-    # "The old fox is still talking, but the volume of his voice has raised to a shout."
-    ""
-
-# game/murdochroute2.rpy:141
-translate Tchinese murdochroute2_719297d7:
-
-    # "There's patches of grass beneath pine trees and lots of open space."
-    ""
-
-# game/murdochroute2.rpy:228
-translate Tchinese murdochroute2_3c96d3fb:
-
-    # "I don't like that one bit."
-    ""
-
-# game/murdochroute2.rpy:229
-translate Tchinese murdochroute2_bde748d6:
-
-    # "Makes me feel a giant weirdo."
-    ""
-
-# game/murdochroute2.rpy:230
-translate Tchinese murdochroute2_b7008f31:
-
-    # "'Cept they're the ones being odd."
-    ""
-
-# game/murdochroute2.rpy:234
-translate Tchinese murdochroute2_0300608a:
-
-    # "I head in the front door of the school where the secretary is waiting."
-    ""
-
-# game/murdochroute2.rpy:259
-translate Tchinese murdochroute2_db67a968:
-
-    # "The fox's expression softens."
-    ""
-
-# game/murdochroute2.rpy:281
-translate Tchinese murdochroute2_1abee5bf:
-
-    # gr "\"Every man, woman, and child who grows up in Echo will be proud of their days spent in these halls.\""
-    gr ""
-
-# game/murdochroute2.rpy:326
-translate Tchinese murdochroute2_1b4fcbaf:
-
-    # "The fox's expression seems distant."
-    ""
-
-# game/murdochroute2.rpy:348
-translate Tchinese murdochroute2_81d3dc8d:
-
-    # "I can feel my mouth break into a scowl."
-    ""
-
-# game/murdochroute2.rpy:353
-translate Tchinese murdochroute2_02098a34:
-
-    # "The door opens again."
-    ""
-
-# game/murdochroute2.rpy:357
-translate Tchinese murdochroute2_4b4a7ab3:
-
-    # "Gretchen is back with a grey vest hanging from one of her arms and a derby hat."
-    ""
-
-# game/murdochroute2.rpy:361
-translate Tchinese murdochroute2_85104ef9:
-
-    # "She thrusts the hat and vest into my hand."
-    ""
-
-# game/murdochroute2.rpy:363
-translate Tchinese murdochroute2_265dbe94:
-
-    # "I don't hesitate to put it on."
-    ""
-
-# game/murdochroute2.rpy:365
-translate Tchinese murdochroute2_eb5844fa:
-
-    # "The fit is snug and the cap is tight, but I can move easily enough in the clothing."
-    ""
-
-# game/murdochroute2.rpy:378
-translate Tchinese murdochroute2_8ff2fbd3:
-
-    # "By the time the last student is finished with their shoot and exits the auditorium, the two of us are breathing in relief."
-    ""
-
-# game/murdochroute2.rpy:397
-translate Tchinese murdochroute2_14130cca:
-
-    # "He opens his eyes again and gives me a weak smile, then shakes his head."
-    ""
-
-# game/murdochroute2.rpy:451
-translate Tchinese murdochroute2_6647a380:
-
-    # "To her left is Ralph, stalking towards us. He's one of the last people I want to see right now."
-    ""
-
-# game/murdochroute2.rpy:481
-translate Tchinese murdochroute2_7bbe82ae:
-
-    # ho "\"Well if the rest of you can be brave, we'll just have to follow at our wedding next week.\""
-    ho ""
-
-# game/murdochroute2.rpy:493
-translate Tchinese murdochroute2_de1a105d:
-
-    # "What the fuck are you doing, Sam?"
-    ""
-
-# game/murdochroute2.rpy:495
-translate Tchinese murdochroute2_94871ed8:
-
-    # "Why?"
-    ""
-
-# game/murdochroute2.rpy:500
-translate Tchinese murdochroute2_ad26b7b7:
-
-    # "Jim, the fox I blew yesterday, looks me in the eye, then looks away, then nods gruffly."
-    ""
-
-# game/murdochroute2.rpy:536
-translate Tchinese murdochroute2_38951aca:
-
-    # "After all, I still haven't spilled Murdoch's food yet, moving this fast."
-    ""
-
-# game/murdochroute2.rpy:680
-translate Tchinese murdochroute2_b6a04c3c:
-
-    # ra "\"And you're a fuck boy. We all have our vices.\""
-    ra ""
-
-# game/murdochroute2.rpy:806
-translate Tchinese murdochroute2_031d6d23:
-
-    # "The rat smiles and lifts his eyebrows."
-    ""
-
-# game/murdochroute2.rpy:838
-translate Tchinese murdochroute2_f9d4bfb6:
-
-    # "Murdoch starts whistling as he makes his way over to the darkroom door, and Ralph looks back at him for a second."
-    ""
-
-# game/murdochroute2.rpy:859
-translate Tchinese murdochroute2_39a06798:
-
-    # "I know he's been waiting to talk about this all day."
-    ""
-
-# game/murdochroute2.rpy:884
-translate Tchinese murdochroute2_a3dd2786:
-
-    # m "\"Or the Devil's.\""
-    m ""
-
-# game/murdochroute2.rpy:1245
-translate Tchinese murdochroute2_1047d16c:
-
-    # "William smirks at me."
-    ""
-
-# game/murdochroute2.rpy:1300
-translate Tchinese murdochroute2_e17e5969:
-
-    # m "\"It was the most disorganized I've ever seen him.\""
-    m ""
-
-# game/murdochroute2.rpy:1305
-translate Tchinese murdochroute2_b4f67ba9:
-
-    # "Murdoch's lips purse."
-    ""
-
-# game/murdochroute2.rpy:1308
-translate Tchinese murdochroute2_4fb51848:
-
-    # "He makes spinning gestures with his paws in the air."
-    ""
-
-# game/murdochroute2.rpy:1341
-translate Tchinese murdochroute2_1334bd5e:
-
-    # "The rat swings open the door, takes off his goggles, then immediately stops in front of me."
-    ""
-
-# game/murdochroute2.rpy:1352
-translate Tchinese murdochroute2_3403ae21:
-
-    # "The rat sighs and rubs the back of his neck with his paw."
-    ""
-
-# game/murdochroute2.rpy:1367
-translate Tchinese murdochroute2_44f756cc:
-
-    # "He plucks a photograph from his pocket and slaps the side of it with his knuckles."
-    ""
-
-# game/murdochroute2.rpy:1380
-translate Tchinese murdochroute2_42f56964:
-
-    # "The rat blows a quick puff of smoke over his shoulder."
-    ""
-
-# game/murdochroute2.rpy:1431
-translate Tchinese murdochroute2_063aad32:
-
-    # "The fox rolls his eyes."
-    ""
-
-# game/murdochroute2.rpy:1449
-translate Tchinese murdochroute2_7839208d:
-
-    # mu "\"Pharmacy isn't spelled with an 'F.'\""
-    mu ""
-
-# game/murdochroute2.rpy:1458
-translate Tchinese murdochroute2_f40f5b8d:
-
-    # "The rat is already on the opposite side of me, breathing down my neck."
-    ""
-
-# game/murdochroute2.rpy:1464
-translate Tchinese murdochroute2_3ca5e49b:
-
-    # ra "\"Enough dallying. Let's be off.\""
-    ra ""
-
-# game/murdochroute2.rpy:1496
-translate Tchinese murdochroute2_3e31d2a1:
-
-    # "Ralph lets out a laugh."
-    ""
-
-# game/murdochroute2.rpy:1502
-translate Tchinese murdochroute2_a1f39db7:
-
-    # "Murdoch hems."
-    ""
-
-# game/murdochroute2.rpy:1550
-translate Tchinese murdochroute2_9115d167:
-
-    # ra "\"It's a big, bloody lake and we're still in the middle of summer.\""
-    ra ""
-
-# game/murdochroute2.rpy:1568
-translate Tchinese murdochroute2_0d5819c6:
-
-    # m "\"Where's 'here?'\""
-    m ""
-
-# game/murdochroute2.rpy:1572
-translate Tchinese murdochroute2_e33dadd2:
-
-    # "The rat jerks his head at the fox."
-    ""
-
-# game/murdochroute2.rpy:1578
-translate Tchinese murdochroute2_a1243f64:
-
-    # "Murdoch digs through his pants pocket, slips out a photograph, and hands it to me."
-    ""
-
-# game/murdochroute2.rpy:1712
-translate Tchinese murdochroute2_823eadfd:
-
-    # "The fox tries to fake a light laugh."
-    ""
-
-# game/murdochroute2.rpy:1765
-translate Tchinese murdochroute2_db69373a:
-
-    # "Murdoch shrugs his shoulders."
-    ""
-
-# game/murdochroute2.rpy:1854
-translate Tchinese murdochroute2_8861c642:
-
-    # mu "\"'til Holly snitched on where we were.\""
-    mu ""
-
-# game/murdochroute2.rpy:1988
-translate Tchinese murdochroute2_3ba163ec:
-
-    # "Whoever it is hobbles over to one of the rock piles and starts stuffing the sack with pebbles."
-    ""
-
-# game/murdochroute2.rpy:2065
-translate Tchinese murdochroute2_66dbd24f:
-
-    # "She spits on him."
-    ""
-
-# game/murdochroute2.rpy:2067
-translate Tchinese murdochroute2_fa833a7a:
-
-    # "Ralph makes a motion towards her."
-    ""
-
-# game/murdochroute2.rpy:2099
-translate Tchinese murdochroute2_1edd8644:
-
-    # mu "\"Not 'interesting.' You're not safe!\""
-    mu ""
-
-# game/murdochroute2.rpy:2105
-translate Tchinese murdochroute2_2772505a:
-
-    # "...What does she mean by that?"
-    ""
-
-# game/murdochroute2.rpy:2117
-translate Tchinese murdochroute2_2bf991ea:
-
-    # "We turn to see where Ralph is pointing."
-    ""
-
-# game/murdochroute2.rpy:2123
-translate Tchinese murdochroute2_f3c27838:
-
-    # "I feel a little better once we're past the canyon tunnel and by the more crowded parts of the lake, running past a crowd of people."
-    ""
-
-# game/murdochroute2.rpy:2193
-translate Tchinese murdochroute2_890631e6:
-
-    # "There's a pause in the air."
-    ""
-
-# game/murdochroute2.rpy:2225
-translate Tchinese murdochroute2_a7adffec:
-
-    # "The rat's tone is stern."
-    ""
-
-# game/murdochroute2.rpy:2295
-translate Tchinese murdochroute2_dda6bd85:
-
-    # "He yips, thrusting with his hips as I pull off his tie, vest, and shirt."
-    ""
-
-# game/murdochroute2.rpy:2315
-translate Tchinese murdochroute2_b986e39d:
-
-    # "I fish my cock out of my pants. It's throbbing from the heat."
-    ""
-
-# game/murdochroute2.rpy:2316
-translate Tchinese murdochroute2_e617f004:
-
-    # "The excitement."
-    ""
-
-# game/murdochroute2.rpy:2318
-translate Tchinese murdochroute2_2219fdab:
-
-    # ra "\"He really asked you to do that?\""
-    ra ""
-
-# game/murdochroute2.rpy:2362
-translate Tchinese murdochroute2_c13ad584:
-
-    # m "\"Let's both get on the floor.\""
-    m ""
-
-# game/murdochroute2.rpy:2371
-translate Tchinese murdochroute2_22d3c8f2:
-
-    # "I can tell he's already close by the pulse in his dick and the twitches in his leg."
-    ""
-
-# game/murdochroute2.rpy:2375
-translate Tchinese murdochroute2_90382558:
-
-    # "It doesn't take long for either of us to start to spurt, and we have to swallow each other's hot mouthfuls to keep breathing."
-    ""
-
-# game/murdochroute2.rpy:2682
-translate Tchinese murdochroute2_9240ada6:
-
-    # "The smallest sister sighs wistfully."
-    ""
-
-# game/murdochroute2.rpy:2709
-translate Tchinese murdochroute2_8c0747f8:
-
-    # cl "\"Well, ah, I'm sure there are certainly more impressive things to gawk at than our churches, no?\""
-    cl ""
-
-# game/murdochroute2.rpy:2786
-translate Tchinese murdochroute2_1f9abf4e:
-
-    # "Dahlia puts on a bashful look and Holly's lips tighten."
-    ""
-
-# game/murdochroute2.rpy:2859
-translate Tchinese murdochroute2_1ed502f2:
-
-    # "The smaller sister speaks up."
-    ""
-
-# game/murdochroute2.rpy:2984
-translate Tchinese murdochroute2_6ed17a0f:
-
-    # "It's so small in my hand that I'm afraid I'll break it if I squeeze too hard."
-    ""
-
-# game/murdochroute2.rpy:3010
-translate Tchinese murdochroute2_6892c7a6:
-
-    # "She plucks whatever it is that she's working on on the typewriter and shoves it into her pocket."
-    ""
-
-# game/murdochroute2.rpy:3125
-translate Tchinese murdochroute2_da538674:
-
-    # "She hands me a packet of paper that's sitting on one of the tables."
-    ""
-
-# game/murdochroute2.rpy:3146
-translate Tchinese murdochroute2_e852ab90:
-
-    # "I scratch it, and look at the smaller pieces of paper she gives me."
-    ""
-
-# game/murdochroute2.rpy:3160
-translate Tchinese murdochroute2_862e9469:
-
-    # "She nibbles on one of her paw digits before answering again."
-    ""
-
-# game/murdochroute2.rpy:3200
-translate Tchinese murdochroute2_122051e0:
-
-    # bl "\"Well of course, Miz Byrnes.\""
-    bl ""
-
-# game/murdochroute2.rpy:3219
-translate Tchinese murdochroute2_b1641db2:
-
-    # bl "\"There’s a big difference between liking math and being good at math, Miz Byrnes.\""
-    bl ""
-
-# game/murdochroute2.rpy:3265
-translate Tchinese murdochroute2_d6c80fdf:
-
-    # bl "\"I wonder what happened to make you so paranoid, Mister Ayers.\""
-    bl ""
-
-# game/murdochroute2.rpy:3274
-translate Tchinese murdochroute2_cf48bd96:
-
-    # bl "\"Language, Mister Ayers.\""
-    bl ""
-
-# game/murdochroute2.rpy:3362
-translate Tchinese murdochroute2_9cc8682a:
-
-    # "She flips the coin again."
-    ""
-
-# game/murdochroute2.rpy:3423
-translate Tchinese murdochroute2_8915de45:
-
-    # "I want to tell her not to do that, but I get the feeling she won’t listen to me anyway."
-    ""
-
-# game/murdochroute2.rpy:3539
-translate Tchinese murdochroute2_38e4d9df:
-
-    # mu "\"Well I'd hope it wouldn’t.\""
-    mu ""
-
-# game/murdochroute2.rpy:3621
-translate Tchinese murdochroute2_8b44306b:
-
-    # ho "\"I’ll be back before the lunch hour is up. Don’t worry on my behalf.\""
-    ho ""
-
-# game/murdochroute2.rpy:3711
-translate Tchinese murdochroute2_32140675:
-
-    # "When I arrive, I look to the opposite side of the tracks and can see a gated area off in the distance."
-    ""
-
-# game/murdochroute2.rpy:3740
-translate Tchinese murdochroute2_f2488b3e:
-
-    # "Dead flower petals litter the floor, and the remains of old candles burned down to their wick stain the alcoves and the candle holders spread around the room."
-    ""
-
-# game/murdochroute2.rpy:3955
-translate Tchinese murdochroute2_cb9e01c2:
-
-    # "I sprint after her for a few minutes before I have to slow down."
-    ""
-
-# game/murdochroute2.rpy:3988
-translate Tchinese murdochroute2_1b99afe5:
-
-    # m "\"’Cause I’m using the power of my imagination.\""
-    m ""
-
-# game/murdochroute2.rpy:4019
-translate Tchinese murdochroute2_4653e586:
-
-    # bl "\"No wonder you can’t recognize any of Ms. Byrnes’ codes.\""
-    bl ""
-
-# game/murdochroute2.rpy:4121
-translate Tchinese murdochroute2_93b7ff62:
-
-    # "Ever since he missed his appointment with me, I can’t tell where the hell he’s been."
-    ""
-
-# game/murdochroute2.rpy:4136
-translate Tchinese murdochroute2_d15757cb:
-
-    # "The Byrneses are a five minute walk from their store, just outside the range of downtown."
-    ""
-
-# game/murdochroute2.rpy:4146
-translate Tchinese murdochroute2_78277d25:
-
-    # "I haven’t smelled fresh roses since I left home."
-    ""
-
-# game/murdochroute2.rpy:4178
-translate Tchinese murdochroute2_401b9c75:
-
-    # "She looks at us again."
-    ""
-
-# game/murdochroute2.rpy:4189
-translate Tchinese murdochroute2_0d4af43f:
-
-    # "She removes her gloves."
-    ""
-
-# game/murdochroute2.rpy:4208
-translate Tchinese murdochroute2_0b9e4bfc:
-
-    # "There are several ornamental crosses nailed to the wall, and a statue of the Virgin Mary sitting on an end table."
-    ""
-
-# game/murdochroute2.rpy:4216
-translate Tchinese murdochroute2_6be4c0b8:
-
-    # "So he's right."
-    ""
-
-# game/murdochroute2.rpy:4266
-translate Tchinese murdochroute2_f57f9878:
-
-    # al "\"Well, I think you’ll find that most business-minded folks will have to risk somethin’ to gain somethin’, wouldn’t you say?\""
-    al ""
-
-# game/murdochroute2.rpy:4298
-translate Tchinese murdochroute2_49c47723:
-
-    # "Alfred’s relaxed tone suddenly shifts to a sharp one."
-    ""
-
-# game/murdochroute2.rpy:4315
-translate Tchinese murdochroute2_7762e46d:
-
-    # al "\"They send him all over the west coast and they pay him to do it, don’t they Jim?\""
-    al ""
-
-# game/murdochroute2.rpy:4404
-translate Tchinese murdochroute2_8913be7e:
-
-    # "Plates are placed on knitted doilies and a large glass pitcher of water filled with lemons sits in the center of the table."
-    ""
-
-# game/murdochroute2.rpy:4427
-translate Tchinese murdochroute2_7ab8591b:
-
-    # "I rise from the chair, pulling it out carefully as I walk all the way to the opposite end of the table."
-    ""
-
-# game/murdochroute2.rpy:4534
-translate Tchinese murdochroute2_4eeeed74:
-
-    # "I bow my head and close my eyes, folding my paws over each other."
-    ""
-
-# game/murdochroute2.rpy:4599
-translate Tchinese murdochroute2_908b3962:
-
-    # "The peals of laughter and the clinks and clanks of utensils stop."
-    ""
-
-# game/murdochroute2.rpy:4653
-translate Tchinese murdochroute2_06398373_1:
-
-    # "She sighs."
-    ""
-
-# game/murdochroute2.rpy:4709
-translate Tchinese murdochroute2_6f07f74e:
-
-    # al "\"I’ve managed that store for nearly 20 years without you. We’ll live without you there for another hour or two.\""
-    al ""
-
-# game/murdochroute2.rpy:4777
-translate Tchinese murdochroute2_418ca16b:
-
-    # mu "\"I made a list of things you might be able to do before we get pulled downtown for a fitting.\""
-    mu ""
-
-# game/murdochroute2.rpy:4779
-translate Tchinese murdochroute2_7b88876b:
-
-    # "He hands me a little piece of paper."
-    ""
-
-# game/murdochroute2.rpy:4941
-translate Tchinese murdochroute2_f5624fdd:
-
-    # "An impatient-looking rabbit at the counter sizes us up."
-    ""
-
-# game/murdochroute2.rpy:4962
-translate Tchinese murdochroute2_c7b94b67:
-
-    # "He turns to me and Murdoch."
-    ""
-
-# game/murdochroute2.rpy:4983
-translate Tchinese murdochroute2_eb773534:
-
-    # "The rabbit directs us to a closet with high shelves, mirrors, and a fake plant in it."
-    ""
-
-# game/murdochroute2.rpy:4998
-translate Tchinese murdochroute2_8fa2b814:
-
-    # "Murdoch looks at me and raises his voice to a growl too."
-    ""
-
-# game/murdochroute2.rpy:5020
-translate Tchinese murdochroute2_ce8ea353:
-
-    # m "\"...Come again?\""
-    m ""
-
-# game/murdochroute2.rpy:5082
-translate Tchinese murdochroute2_3904b9b7:
-
-    # "He folds his hands on his lap, looking away."
-    ""
-
-# game/murdochroute2.rpy:5083
-translate Tchinese murdochroute2_73d04951:
-
-    # "Then he nods his head, shaking, squeezing out a few tears."
-    ""
-
-# game/murdochroute2.rpy:5100
-translate Tchinese murdochroute2_21043f89:
-
-    # "Murdoch snorts."
-    ""
-
-# game/murdochroute2.rpy:5281
-translate Tchinese murdochroute2_86a439db:
-
-    # "He swallows his spit."
-    ""
-
-# game/murdochroute2.rpy:5288
-translate Tchinese murdochroute2_9a8cd1a9:
-
-    # "The fox shrugs."
-    ""
-
-# game/murdochroute2.rpy:5369
-translate Tchinese murdochroute2_16f132f2:
-
-    # "He lets out a squeaky whine."
-    ""
-
-# game/murdochroute2.rpy:5431
-translate Tchinese murdochroute2_abf12970:
-
-    # "Murdoch recoils away from me."
-    ""
-
-# game/murdochroute2.rpy:5433
-translate Tchinese murdochroute2_18224889:
-
-    # "His eyes are wide and red."
-    ""
-
-# game/murdochroute2.rpy:5434
-translate Tchinese murdochroute2_5de33668:
-
-    # "He looks a lot like his little brother right now."
-    ""
-
-# game/murdochroute2.rpy:5464
-translate Tchinese murdochroute2_7ee7acc7:
-
-    # "He buttons each button and buckles each clasp as he stares into the mirror, watching out of the corner of his eye... quite attentively."
-    ""
-
-# game/murdochroute2.rpy:5625
-translate Tchinese muc0_ebf2b17d:
-
-    # "Murdoch lowers his voice."
-    ""
-
-# game/murdochroute2.rpy:5683
-translate Tchinese muc0_06a59937:
-
-    # "He looks me up and down."
-    ""
-
-# game/murdochroute2.rpy:5696
-translate Tchinese muc0_f40ad0e0:
-
-    # ji "\"I would.\""
-    ji ""
-
-# game/murdochroute2.rpy:5704
-translate Tchinese muc0_22ca1bc6:
-
-    # "I look down on the display case and see a large variety of rings inside."
-    ""
-
-# game/murdochroute2.rpy:5728
-translate Tchinese muc0_e37dca88:
-
-    # "Jim curses under his breath."
-    ""
-
-# game/murdochroute2.rpy:5905
-translate Tchinese muc0_44f3d73e:
-
-    # "I rub my nose."
-    ""
-
-# game/murdochroute2.rpy:5920
-translate Tchinese muc0_b20a8bfa:
-
-    # "By the time we get back to the store, we're surprised to see a sign on the front door."
-    ""
-
-# game/murdochroute2.rpy:5976
-translate Tchinese muc0_d21278ed:
-
-    # "There's something sharp and shrill in this man’s voice that I can hear now that I didn’t before."
-    ""
-
-# game/murdochroute2.rpy:5999
-translate Tchinese muc0_d6cb8478:
-
-    # "He turns to Mr. Byrnes."
-    ""
-
-# game/murdochroute2.rpy:6009
-translate Tchinese muc0_819c8879:
-
-    # "The older fox opens his mouth, like he's about to say something, then closes it again."
-    ""
-
-# game/murdochroute2.rpy:6011
-translate Tchinese muc0_05eab3a9:
-
-    # "Almost like he has confused himself."
-    ""
-
-# game/murdochroute2.rpy:6018
-translate Tchinese muc0_8910502a:
-
-    # "He strokes his chin and then jerks his head toward a hallway."
-    ""
-
-# game/murdochroute2.rpy:6020
-translate Tchinese muc0_e7ee769f:
-
-    # "Then he glares at Murdoch."
-    ""
-
-# game/murdochroute2.rpy:6022
-translate Tchinese muc0_19053261:
-
-    # al "\"Good. We can reopen before we lose all of the luncheon crowd.\""
-    al ""
-
-# game/murdochroute2.rpy:6050
-translate Tchinese muc0_81efe3db_1:
-
-    # m "\"Sure, Sheriff.\""
-    m ""
-
-# game/murdochroute2.rpy:6241
-translate Tchinese muc0_e19eeae9:
-
-    # "He smirks."
-    ""
-
-# game/murdochroute2.rpy:6254
-translate Tchinese muc0_efe37e68:
-
-    # "Murdoch merely shrugs."
-    ""
-
-# game/murdochroute2.rpy:6297
-translate Tchinese muc0_5ccd7af9:
-
-    # "Then he slips through the door and shuts it softly behind him."
-    ""
-
-# game/murdochroute2.rpy:6308
-translate Tchinese muc0_1367a07e:
-
-    # "But it just seems like sometimes he genuinely can’t tell the difference."
-    ""
-
-# game/murdochroute2.rpy:6311
-translate Tchinese muc0_18b04986:
-
-    # "Murdoch scratches the back of his head."
-    ""
-
-# game/murdochroute2.rpy:6467
-translate Tchinese mdq2_7a574bca:
-
-    # mu "\"But any image that shows off a pickaxe wound, perchance, could spend some time in the developer.\""
-    mu ""
-
-# game/murdochroute2.rpy:6568
-translate Tchinese mdq2_a7e6a438:
-
-    # "Murdoch walks toward me and stares over my shoulder, then grunts."
-    ""
-
-# game/murdochroute2.rpy:6586
-translate Tchinese mdq2_a8174cfb:
-
-    # "He leans against the countertop and shifts his weight from his left foot to his right."
-    ""
-
-# game/murdochroute2.rpy:6675
-translate Tchinese mdq2_1939486d:
-
-    # "He shrugs."
-    ""
-
-# game/murdochroute2.rpy:6717
-translate Tchinese mdq2_4613c348:
-
-    # "Murdoch shrugs again."
-    ""
-
-# game/murdochroute2.rpy:6807
-translate Tchinese mdq2_86814205:
-
-    # mu "\"...What?\""
-    mu ""
-
-# game/murdochroute2.rpy:6835
-translate Tchinese mdq2_ea7758cf:
-
-    # "He doesn’t say much more throughout the day as we develop the rest of the photos."
-    ""
-
-# game/murdochroute2.rpy:6837
-translate Tchinese mdq2_d6fa257d:
-
-    # "Five o’clock comes faster than I thought it would, but my head is dizzy with the cloying scent of fox and chemicals in the small, warm room."
-    ""
-
-# game/murdochroute2.rpy:6871
-translate Tchinese mdq2_cf101880:
-
-    # cy "\"Just hoping for a little bit of shut-eye before the late night shift.\""
-    cy ""
-
-# game/murdochroute2.rpy:6902
-translate Tchinese mdq2_dc704233:
-
-    # "She crosses her arms and nods."
-    ""
-
-# game/murdochroute2.rpy:6907
-translate Tchinese mdq2_114b7500:
-
-    # cy "\"Go get dressed. I’ll be in your room in a bit.\""
-    cy ""
-
-# game/murdochroute2.rpy:6927
-translate Tchinese mdq2_43084a69:
-
-    # cy "\"The waist fit looks good but the cuffs of the pants need adjustments.\""
-    cy ""
-
-# game/murdochroute2.rpy:7020
-translate Tchinese mdq2_c0596b74:
-
-    # "She's pretty rough with the next pin."
-    ""
-
-# game/murdochroute2.rpy:7048
-translate Tchinese mdq2_14b2c275:
-
-    # "She cuts the thread off the needle with her teeth."
-    ""
-
-# game/murdochroute2.rpy:7053
-translate Tchinese mdq2_a30dd810:
-
-    # m "\"When there isn’t some task to perform, there’s some person to please.\""
-    m ""
-
-# game/murdochroute2.rpy:7054
-translate Tchinese mdq2_73e402c7:
-
-    # m "\"Workin’ here, at least I know what people want.\""
-    m ""
-
-# game/murdochroute2.rpy:7098
-translate Tchinese mdq2_7679376b:
-
-    # "She gives me a small curtsy and leaves."
-    ""
-
-# game/murdochroute2.rpy:7108
-translate Tchinese mdq2_2502b5ca:
-
-    # "Getting through the rest of the night isn’t as hard as the rest of the day."
-    ""
-
-# game/murdochroute2.rpy:7110
-translate Tchinese mdq2_c4966dea:
-
-    # "My first session doesn’t even use up the whole thirty minutes, as much as he needs to let it out."
-    ""
-
-# game/murdochroute2.rpy:7156
-translate Tchinese mdq2_ccf8bce4:
-
-    # "I feel my face screw up, trying to stall."
-    ""
-
-# game/murdochroute2.rpy:7176
-translate Tchinese mdq2_66dfc8a3:
-
-    # msho "\"Angels are said to be jealous of man and woman’s right to atone, and to choose who they wish to be.\""
-    msho ""
-
-# game/murdochroute2.rpy:7289
-translate Tchinese mdq2_30beda04:
-
-    # "Mrs. Byrnes’s eyebrow perks up."
-    ""
-
-# game/murdochroute2.rpy:7338
-translate Tchinese mdq2_f4db86c4:
-
-    # "She closes her book with a light puff, still smiling."
-    ""
-
-# game/murdochroute2.rpy:7406
-translate Tchinese mdq2_e7184578:
-
-    # bl "\"But instead, books can do that with descriptions of images on top of just what the dialogue of the characters are saying.\""
-    bl ""
-
-# game/murdochroute2.rpy:7417
-translate Tchinese mdq2_0d0b1342:
-
-    # me "\"If somebody makes me uncomfortable, I don’t want to spend hours of my life with them all by my lonesome.\""
-    me ""
-
-# game/murdochroute2.rpy:7483
-translate Tchinese mdq2_00985ab7:
-
-    # bl "\"Bought a cozy bit of carpet, an end table, some pillows.\""
-    bl ""
-
-# game/murdochroute2.rpy:7752
-translate Tchinese mdq2_0ea36ae9:
-
-    # "Of what is magic, and sacred, and special."
-    ""
-
-# game/murdochroute2.rpy:7858
-translate Tchinese mdq2_7122a3d1:
-
-    # no2 "\"You don’t realize it yet, but every failure you commit undermines your chance to escape.\""
-    no2 ""
-
-# game/murdochroute2.rpy:7868
-translate Tchinese mdq2_daf01164:
-
-    # "The man begins to mumble."
-    ""
-
-# game/murdochroute2.rpy:7870
-translate Tchinese mdq2_ebc38a42:
-
-    # "And then his voice fades."
-    ""
-
-# game/murdochroute2.rpy:7871
-translate Tchinese mdq2_f7f2c350:
-
-    # "And the only sound that is left is once again the roar of the cave water."
-    ""
-
-# game/murdochroute2.rpy:7933
-translate Tchinese mdq2_aaf7244f:
-
-    # "Except he was alone this time."
-    ""
-

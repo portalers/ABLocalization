@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-07-21 12:43
-
 # game/nikroute4.rpy:3
 translate Tchinese nikroute4a_223c76ba:
 
@@ -24,17 +22,17 @@ translate Tchinese nikroute4a_cfdfd878:
     # "The pool of blood around him stains the sand."
     "血泊染紅了大地。"
 
-# game/nikroute4.rpy:12
-translate Tchinese nikroute4a_216a9935:
+# game/nikroute4.rpy:13
+translate Tchinese nikroute4a_0a40570d:
 
-    # "I want to say ‘{i}we can’t leave him{/i}.’"
+    # "I want to say {i}we can’t leave him{/i}."
     "我很想說「{i}不能丟下他不管{/i}」。"
 
-# game/nikroute4.rpy:13
-translate Tchinese nikroute4a_c71c743e:
+# game/nikroute4.rpy:14
+translate Tchinese nikroute4a_9788b547:
 
-    # "I want to say ‘{i}but he’s still right there{/i}.’"
-    "很想說「{i}他人還在這{/i}」。"
+    # "I want to say {i}but he’s still right there{/i}."
+    "很想說「{i}他人還在這啊{/i}」。"
 
 # game/nikroute4.rpy:14
 translate Tchinese nikroute4a_a0cd11cb:
@@ -187,9 +185,9 @@ translate Tchinese nikroute4a_a5d29c29:
     "我前方又一波人應聲倒地。"
 
 # game/nikroute4.rpy:53
-translate Tchinese nikroute4a_37c48b37:
+translate Tchinese nikroute4a_8ca9b2aa:
 
-    # "Why God, why, is there nowhere left to go?"
+    # "Why God, why is there nowhere left to go?"
     "主啊，為何絕人之路？"
 
 # game/nikroute4.rpy:54
@@ -379,9 +377,9 @@ translate Tchinese nikroute4a_94d6b048:
     "我們終於通過了狹窄的走道，來到了開闊的圓頂洞穴。"
 
 # game/nikroute4.rpy:117
-translate Tchinese nikroute4a_63908f2b:
+translate Tchinese nikroute4a_38030f07:
 
-    # "Apart from fleeing the protestors, the mines are completely empty today."
+    # "Apart from the fleeing protestors, the mines are completely empty today."
     "除了逃亡的抗議者以外，礦洞完全沒有其他人在。"
 
 # game/nikroute4.rpy:118
@@ -445,9 +443,9 @@ translate Tchinese nikroute4a_71acdddc:
     ni "為什麼去那！？"
 
 # game/nikroute4.rpy:132
-translate Tchinese nikroute4a_7f7bdb3b:
+translate Tchinese nikroute4a_ba28e7c3:
 
-    # m "\"Becket’s in there.\""
+    # m "\"Beckett’s in there.\""
     m "Beckett在裡面。"
 
 # game/nikroute4.rpy:134
@@ -475,9 +473,9 @@ translate Tchinese nikroute4a_e6feaa04:
     "雖然看不清他全身，但我知道他正從遮光玻璃後看著我們。"
 
 # game/nikroute4.rpy:143
-translate Tchinese nikroute4a_f1a9f609:
+translate Tchinese nikroute4a_58f2d6d1:
 
-    # "I open the mail slat with my claw and slip down to my knees."
+    # "I open the mail slot with my claw and slip down to my knees."
     "我用爪推開收信口，跪倒在地。"
 
 # game/nikroute4.rpy:145
@@ -553,15 +551,15 @@ translate Tchinese nikroute4a_cbe7c9cc:
     ni "你為什麼會提起老虎！？"
 
 # game/nikroute4.rpy:165
-translate Tchinese nikroute4a_40999951:
+translate Tchinese nikroute4a_2fb8935d:
 
-    # bk "\"Well he’s part of the reason the guard is here, ain’t he?\""
+    # bk "\"Well he’s part of the reason the Guard is here, ain’t he?\""
     bk "他可不就是衛兵會來的原因之一嗎？"
 
 # game/nikroute4.rpy:166
-translate Tchinese nikroute4a_a3069366:
+translate Tchinese nikroute4a_3786692a:
 
-    # bk "\"He was staching dangerous weapons in the mine.\""
+    # bk "\"He was stashing dangerous weapons in the mine.\""
     bk "在礦坑裡藏匿危險武器。"
 
 # game/nikroute4.rpy:167
@@ -679,9 +677,9 @@ translate Tchinese nikroute4a_f9e61c24:
     "他用槍推我。"
 
 # game/nikroute4.rpy:190
-translate Tchinese nikroute4a_03068c62:
+translate Tchinese nikroute4a_c04ba253:
 
-    # bk "\"Whatever his crimes, it weren’t stachin weapons.\""
+    # bk "\"Whatever his crimes, it weren’t stashin’ weapons.\""
     bk "他就算犯了罪，也不是私藏武器。"
 
 # game/nikroute4.rpy:191
@@ -727,9 +725,9 @@ translate Tchinese nikroute4a_45b5f8c2:
     bk "這下可終於看清他真面目了。"
 
 # game/nikroute4.rpy:201
-translate Tchinese nikroute4a_6eb8cad2:
+translate Tchinese nikroute4a_72059d17:
 
-    # m "\"If he’s under arrest, then why’s the guard runnin’ everybody down?\""
+    # m "\"If he’s under arrest, then why’s the Guard runnin’ everybody down?\""
     m "如果他已經被逮捕了，衛兵怎麼還在殺人？"
 
 # game/nikroute4.rpy:202
@@ -805,15 +803,15 @@ translate Tchinese nikroute4a_5e767881:
     bk "……什麼？"
 
 # game/nikroute4.rpy:220
-translate Tchinese nikroute4a_bef92bc1:
+translate Tchinese nikroute4a_afbce895:
 
-    # m "\"In the trailer.\""
-    m "在那輛拖車裡的時候。"
+    # m "\"In the office.\""
+    m "在辦公室裡的時候。"
 
 # game/nikroute4.rpy:222
-translate Tchinese nikroute4a_e7b17b8c:
+translate Tchinese nikroute4a_2a89babc:
 
-    # ni "\"Sam, he isn’t going to--\""
+    # ni "\"Sam, he isn’t going to—\""
     ni "Sam，他不會——"
 
 # game/nikroute4.rpy:225
@@ -1147,9 +1145,9 @@ translate Tchinese nikroute4a_f8173ac2:
     m "他會出現在那全都是我的錯。"
 
 # game/nikroute4.rpy:354
-translate Tchinese nikroute4a_00b1a966:
+translate Tchinese nikroute4a_aef57e2e:
 
-    # "Becket flicks his forked tongue past his lips."
+    # "Beckett flicks his forked tongue past his lips."
     "Beckett分岔的舌頭在唇外翻動了一下。"
 
 # game/nikroute4.rpy:356
@@ -1483,9 +1481,9 @@ translate Tchinese nikroute4a_bd0b9072:
     m "拜託！"
 
 # game/nikroute4.rpy:473
-translate Tchinese nikroute4a_ef68218e:
+translate Tchinese nikroute4a_a1725ec2:
 
-    # m "\"If we can just hide--\""
+    # m "\"If we can just hide—\""
     m "只要讓我們躲——"
 
 # game/nikroute4.rpy:474
@@ -1495,9 +1493,9 @@ translate Tchinese nikroute4a_0e1c4ebb:
     bk "你以為他們不會檢查這裡？"
 
 # game/nikroute4.rpy:475
-translate Tchinese nikroute4a_cd009db7:
+translate Tchinese nikroute4a_930dcfd7:
 
-    # "He turns his head and see Nik."
+    # "He turns his head and sees Nik."
     "他轉過頭看Nik。"
 
 # game/nikroute4.rpy:476
@@ -1735,10 +1733,10 @@ translate Tchinese nikroute4a_ce58e9ec:
     "有個男人朝我們喊話。"
 
 # game/nikroute4.rpy:540
-translate Tchinese nikroute4a_f31c7470:
+translate Tchinese nikroute4a_3eb02943:
 
-    # "???" "\"Identify yourself. Now.\""
-    "???" "立刻表明身分。"
+    # "???" "\"Identify yourself. Now!\""
+    "???" "立刻表明身分！"
 
 # game/nikroute4.rpy:541
 translate Tchinese nikroute4a_74e2654b:
@@ -1819,10 +1817,10 @@ translate Tchinese nikroute4a_77474a95:
     "???" "你開槍射我一個人也沒用的。"
 
 # game/nikroute4.rpy:557
-translate Tchinese nikroute4a_edfbf0a9:
+translate Tchinese nikroute4a_36baed64:
 
-    # "???" "\"Drop your weapons and face us.\""
-    "???" "趕緊丟下武器現身。"
+    # "???" "\"Drop your weapons and face us!\""
+    "???" "趕緊丟下武器現身！"
 
 # game/nikroute4.rpy:559
 translate Tchinese nikroute4a_40578aba:
@@ -1865,6 +1863,18 @@ translate Tchinese nikroute4a_285bbad9:
 
     # ni "\"It sounds like there’s only one of you.\""
     ni "聽起來你只有一個人。"
+
+# game/nikroute4.rpy:577
+translate Tchinese nikroute4a_f3bc420c:
+
+    # "Nikolai crouches and places his paw on a rock."
+    "Nikolai蹲下，用手抓起一塊岩石。"
+
+# game/nikroute4.rpy:578
+translate Tchinese nikroute4a_11e215e9:
+
+    # "I've never seen him sit so still."
+    "以最悄無聲息的方式。"
 
 # game/nikroute4.rpy:569
 translate Tchinese nikroute4a_cf9d9cf3:
@@ -2178,10 +2188,10 @@ translate Tchinese nikroute4a_8c5f5017:
     # "We walk along passageway after passageway, feeling the walls."
     "我們沿著牆走過一條又一條的通道。"
 
-# game/nikroute4.rpy:655
-translate Tchinese nikroute4a_e95ee05d:
+# game/nikroute4.rpy:660
+translate Tchinese nikroute4a_ed35ffcb:
 
-    # "I loosen up with a stretch and a silent sigh now that the sounds of the guns are a distant way aways now."
+    # "I loosen up with a stretch and a silent sigh now that the sounds of the guns are a distant way away now."
     "遠離槍聲後，我舒展身體，暗自鬆了口氣。"
 
 # game/nikroute4.rpy:656
@@ -2203,9 +2213,9 @@ translate Tchinese nikroute4a_06fbbe6a:
     ni "你們有看到其他人嗎？"
 
 # game/nikroute4.rpy:671
-translate Tchinese nikroute4a_47f00b96:
+translate Tchinese nikroute4a_426e354e:
 
-    # "I can barely make out Paul and Felipe exchange glances silently. Then the wolverine clears his throat."
+    # "I can barely make out Paul and Felipe exchanging glances silently. Then the wolverine clears his throat."
     "我隱約看見Paul跟Felipe默默對視了一面後，狼貛清了清嗓子。"
 
 # game/nikroute4.rpy:667
@@ -2274,10 +2284,10 @@ translate Tchinese nikroute4a_e1229b85:
     # pa "\"Especially when it comes to the lives and deaths of red-blooded Columbians!\""
     pa "尤其這還關乎哥倫比亞人的生死！"
 
-# game/nikroute4.rpy:693
-translate Tchinese nikroute4a_8f617915:
+# game/nikroute4.rpy:699
+translate Tchinese nikroute4a_478c4506:
 
-    # "I can make out Nik and Felipe tense when he says that."
+    # "I can make out Nik and Felipe getting tense when he says that."
     "Nik和Felipe一聽，身體就僵了一下。"
 
 # game/nikroute4.rpy:695
@@ -2568,10 +2578,10 @@ translate Tchinese nikroute4a_85c8f3e9:
     # "Nik adds weight to my question."
     "Nik出言補充："
 
-# game/nikroute4.rpy:777
-translate Tchinese nikroute4a_89aa973a:
+# game/nikroute4.rpy:782
+translate Tchinese nikroute4a_f70754dd:
 
-    # ni @ talking "\"He told you were the rendezvous would be then?\""
+    # ni @ talking "\"He told you where the rendezvous would be then?\""
     ni @ talking "那他是說了集合地點嗎？"
 
 # game/nikroute4.rpy:785
@@ -2604,10 +2614,10 @@ translate Tchinese nikroute4a_f6653ff1:
     # m "\"He showed us where he hid his weapons before.\""
     m "他有給我們看過藏武器的地方。"
 
-# game/nikroute4.rpy:792
-translate Tchinese nikroute4a_542b36c5:
+# game/nikroute4.rpy:797
+translate Tchinese nikroute4a_e2d7db69:
 
-    # "In that place. Below. Which led to the Hendricks’ Manor."
+    # "In that place. Below. Which led to the Hendricks’ manor."
     "就在那下面，通往Hendricks宅邸的路上。"
 
 # game/nikroute4.rpy:794
@@ -2784,10 +2794,10 @@ translate Tchinese nikroute4a_385f094a:
     # ni "\"They don’t need to know.\""
     ni "他們不必知道。"
 
-# game/nikroute4.rpy:856
-translate Tchinese nikroute4a_f148d5e8:
+# game/nikroute4.rpy:861
+translate Tchinese nikroute4a_d7c7ff4a:
 
-    # m "\"But It’s all over your chest.\""
+    # m "\"But it’s all over your chest.\""
     m "但流得你胸前都是。"
 
 # game/nikroute4.rpy:858
@@ -2874,10 +2884,10 @@ translate Tchinese nikroute4a_44b49ff1:
     # "The longer we walk, the more voices we hear ahead."
     "我們越走，前方就傳來越多人聲。"
 
-# game/nikroute4.rpy:884
-translate Tchinese nikroute4a_2322231e:
+# game/nikroute4.rpy:889
+translate Tchinese nikroute4a_02738041:
 
-    # "The only thing that keeps me from panicking is that hear more than just Albion being spoken."
+    # "The only thing that keeps me from panicking is that I hear more than just Albion being spoken."
     "唯一讓我安心的，就是當中不只有阿爾比恩語。"
 
 # game/nikroute4.rpy:886
@@ -3252,10 +3262,10 @@ translate Tchinese nikroute4a_5e8500ef:
     # fe "\"I don’t care.\""
     fe "我不在乎。"
 
-# game/nikroute4.rpy:1004
-translate Tchinese nikroute4a_9cdfbd1f:
+# game/nikroute4.rpy:1009
+translate Tchinese nikroute4a_a291d3bc:
 
-    # fe "\"There’s no excuse for putting us into this position.\""
+    # fe "\"There’s no excuse for putting us in this position.\""
     fe "不管有什麼理由，都不該讓我們陷入這種情況。"
 
 # game/nikroute4.rpy:1006
@@ -3396,16 +3406,16 @@ translate Tchinese nikroute4a_94c440bc:
     # fe "\"How was any of this worth it?\""
     fe "這到底有什麼值得的？"
 
-# game/nikroute4.rpy:1048
-translate Tchinese nikroute4a_c4382f15:
+# game/nikroute4.rpy:1053
+translate Tchinese nikroute4a_dbf6f3cf:
 
-    # "I worry that if Paul pulls any tighter on the hare’s arm that he’ll tear it off by at the socket."
+    # "I worry that if Paul pulls any tighter on the hare’s arm that he’ll tear it off at the socket."
     "我深怕Paul再多用點力，野兔的手臂就要直接被硬生生扯下來了。"
 
-# game/nikroute4.rpy:1050
-translate Tchinese nikroute4a_a22813d1:
+# game/nikroute4.rpy:1055
+translate Tchinese nikroute4a_7d575277:
 
-    # pa "\"How is the guard’s overreaction {i}our{/i} fault?\""
+    # pa "\"How is the Guard’s overreaction {i}our{/i} fault?\""
     pa "衛兵反應這麼極端，怎麼就是{i}我們{/i}的錯了？"
 
 # game/nikroute4.rpy:1053
@@ -3414,10 +3424,10 @@ translate Tchinese nikroute4a_f2abbcc9:
     # pa "\"Do you really think things would have gone better if we hadn’t done anything at all?\""
     pa "你以為我們什麼都不做，事情發展就會比較好了？"
 
-# game/nikroute4.rpy:1055
-translate Tchinese nikroute4a_eee2c4a2:
+# game/nikroute4.rpy:1060
+translate Tchinese nikroute4a_4249b86f:
 
-    # fe "\"I reall don’t know!\""
+    # fe "\"I really don’t know!\""
     fe "我真的不知道！"
 
 # game/nikroute4.rpy:1058
@@ -3522,10 +3532,10 @@ translate Tchinese nikroute4a_4a7f1d28:
     # fe "\"I’m out!\""
     fe "我不幹了！"
 
-# game/nikroute4.rpy:1107
-translate Tchinese nikroute4a_6e264111:
+# game/nikroute4.rpy:1112
+translate Tchinese nikroute4a_4eff858c:
 
-    # "The hare pushes past the wolverine and starts loping the tunnel."
+    # "The hare pushes past the wolverine and starts loping down the tunnel."
     "野兔推開狼貛，拐向隧道。"
 
 # game/nikroute4.rpy:1115
@@ -3834,10 +3844,10 @@ translate Tchinese nikroute4a_50cefcd9:
     # "There’s dark red paint splattered on the floor."
     "暗紅色的漆噴灑在地。"
 
-# game/nikroute4.rpy:1194
-translate Tchinese nikroute4a_5c0213c2:
+# game/nikroute4.rpy:1200
+translate Tchinese nikroute4a_d22fa2f9:
 
-    # "The wolverine gestures with his arms and shouts, pointing his arms."
+    # "The wolverine gestures with his arms and shouts."
     "狼貛手臂一揮，指向坑洞大喊："
 
 # game/nikroute4.rpy:1196
@@ -3882,10 +3892,10 @@ translate Tchinese nikroute4a_8fcef907:
     # "Some people try to carry him, but others argue about it."
     "有人想扛著他走，也有人反對。"
 
-# game/nikroute4.rpy:1206
-translate Tchinese nikroute4a_365340e6:
+# game/nikroute4.rpy:1211
+translate Tchinese nikroute4a_16bdf93f:
 
-    # "We can’t don’t stop to see whether they bring him or not."
+    # "We don’t stop to see whether they bring him or not."
     "我們沒停下來看他究竟有沒有被帶上。"
 
 # game/nikroute4.rpy:1208
@@ -3936,10 +3946,10 @@ translate Tchinese nikroute4a_548563ad:
     # "The way it whines and squeals sends chills through my bones as I watch the first group of ten go down."
     "我望著第一批十人降下，它發出的磨軋聲讓我脊髓流過一陣寒意。"
 
-# game/nikroute4.rpy:1221
-translate Tchinese nikroute4a_a45f66bf:
+# game/nikroute4.rpy:1226
+translate Tchinese nikroute4a_4dbbcf94:
 
-    # "It’s not any easier when It’s my turn to descend."
+    # "It’s not any easier when it’s my turn to descend."
     "輪到我自己時也沒好到哪去。"
 
 # game/nikroute4.rpy:1222
@@ -4050,10 +4060,10 @@ translate Tchinese nikroute4a_6a013463:
     # ni "\"You will need that more than me.\""
     ni "你比我更需要。"
 
-# game/nikroute4.rpy:1249
-translate Tchinese nikroute4a_dced5767:
+# game/nikroute4.rpy:1254
+translate Tchinese nikroute4a_f396e3f2:
 
-    # "He bears his fangs and shows me fistcuffs, lightening my heart, making me forget for just one moment where we are again, and what’s happened to us."
+    # "He bares his fangs and shows me fisticuffs, lightening my heart, making me forget for just one moment where we are again, and what’s happened to us."
     "他展露尖牙、雙手握拳，以此安撫我，讓我一時間忘了我們的境遇。"
 
 # game/nikroute4.rpy:1253
@@ -4140,10 +4150,10 @@ translate Tchinese nikroute4a_10d6f62e:
     # pa "\"So how come it wasn't in the letter then?\""
     pa "那他怎麼沒寫在信上？"
 
-# game/nikroute4.rpy:1277
-translate Tchinese nikroute4a_db7c1f83:
+# game/nikroute4.rpy:1282
+translate Tchinese nikroute4a_33e04841:
 
-    # "Thats a fair question."
+    # "That’s a fair question."
     "這問題很合理。"
 
 # game/nikroute4.rpy:1278
@@ -4158,16 +4168,16 @@ translate Tchinese nikroute4a_e4b77fe3:
     # "Nik and I weren’t guaranteed to be here to tell anybody."
     "他沒辦法保證我跟Nik能把這件事告訴大家。"
 
-# game/nikroute4.rpy:1280
-translate Tchinese nikroute4a_9775f743:
+# game/nikroute4.rpy:1285
+translate Tchinese nikroute4a_aeacf6ad:
 
-    # "That omission feels reckless for a fellah like Yao."
+    # "That omission feels reckless for a fella like Yao."
     "這種疏忽不像是Yao會犯的。"
 
-# game/nikroute4.rpy:1281
-translate Tchinese nikroute4a_a7a98699:
+# game/nikroute4.rpy:1286
+translate Tchinese nikroute4a_fd02b790:
 
-    # "A fellah who’d factor in every detail."
+    # "A fella who’d factor in every detail."
     "他行事那麼周密。"
 
 # game/nikroute4.rpy:1282
@@ -4206,10 +4216,10 @@ translate Tchinese nikroute4a_ca4668cc:
     # "Considerin’ the circumstances, I’m impressed that too many people aren’t crossing over at the same time."
     "都這種情況了，大家還沒爭先恐後搶著過橋，讓我挺驚訝的。"
 
-# game/nikroute4.rpy:1295
-translate Tchinese nikroute4a_a4e6635f:
+# game/nikroute4.rpy:1300
+translate Tchinese nikroute4a_87f8ac54:
 
-    # "But considerin’ we can’t even see the bottom of where we’d fall, it might be because everybody’s knows they don’t really want to cross this bridge."
+    # "But considerin’ we can’t even see the bottom of where we’d fall, it might be because everybody knows they don’t really want to cross this bridge."
     "不過也可能是他們不確定該不該走上這深不見底的橋。"
 
 # game/nikroute4.rpy:1296
@@ -4218,10 +4228,10 @@ translate Tchinese nikroute4a_51b65ba7:
     # "Even though they know now that they have to."
     "哪怕心裡清楚這是唯一的路。"
 
-# game/nikroute4.rpy:1298
-translate Tchinese nikroute4a_11346c8a:
+# game/nikroute4.rpy:1303
+translate Tchinese nikroute4a_0a0077af:
 
-    # "In somes ways its a miracle we can manage to get this many people across this old bridge without it failing."
+    # "In some ways it’s a miracle we can manage to get this many people across this old bridge without it failing."
     "某方面來說，這橋這麼多人通過還沒垮，簡直就是奇蹟。"
 
 # game/nikroute4.rpy:1299
@@ -4302,10 +4312,10 @@ translate Tchinese nikroute4a_285747b9:
     # "It gets darker."
     "越來越暗。"
 
-# game/nikroute4.rpy:1315
-translate Tchinese nikroute4a_c8cc6f92:
+# game/nikroute4.rpy:1320
+translate Tchinese nikroute4a_c9c3252b:
 
-    # "Hearing the shambling of so many footsteps stop making me feel so comfortable now."
+    # "Hearing the shambling of so many footsteps stops making me feel so comfortable now."
     "聽見無數腳步聲不再讓我安心。"
 
 # game/nikroute4.rpy:1322
@@ -4506,10 +4516,10 @@ translate Tchinese nikroute4a_74d2f563:
     # "It’s impossible to ignore the massive pile of stacked gloves beside me."
     "身旁那一大堆手套的存在感很強烈。"
 
-# game/nikroute4.rpy:1360
-translate Tchinese nikroute4a_9df3ae19:
+# game/nikroute4.rpy:1365
+translate Tchinese nikroute4a_394b36bf:
 
-    # "Without saying anything, Paul takes Yao’s glove and tosses them onto the pile."
+    # "Without saying anything, Paul takes Yao’s gloves and tosses them onto the pile."
     "Paul一字不說就拿走Yao的那雙，丟到手套堆上。"
 
 # game/nikroute4.rpy:1362
@@ -4632,10 +4642,10 @@ translate Tchinese nikroute4a_cc0e2b24:
     # "{i}The pile has already been there after all{/i}."
     "{i}那堆手套本來就在那了{/i}。"
 
-# game/nikroute4.rpy:1396
-translate Tchinese nikroute4a_91fff247:
+# game/nikroute4.rpy:1401
+translate Tchinese nikroute4a_7ace834f:
 
-    # "It feels very grim to me, like agreeing to have your bones throne into a tomb, or an ossuary."
+    # "It feels very grim to me, like agreeing to have your bones thrown into a tomb, or an ossuary."
     "在我看來，這就跟屍骨被丟到墓園一樣陰鬱。"
 
 # game/nikroute4.rpy:1397
@@ -4728,11 +4738,11 @@ translate Tchinese nikroute4a_5dccbd56:
     # ni "\"Must be.\""
     ni "肯定是了。"
 
-# game/nikroute4.rpy:1427
-translate Tchinese nikroute4a_db8675d7:
+# game/nikroute4.rpy:1432
+translate Tchinese nikroute4a_6d38cf2c:
 
-    # pa "\"Well what the hell.\""
-    pa "我操。"
+    # pa "\"Well, what the hell?\""
+    pa "我操，什麼鬼？"
 
 # game/nikroute4.rpy:1430
 translate Tchinese nikroute4a_a50c6337:
@@ -4854,10 +4864,10 @@ translate Tchinese nikroute4a_75b3b452:
     # "It doesn’t sound like a cave in, or a dynamite stick going off."
     "聽起來不像坍方或一發炸藥。"
 
-# game/nikroute4.rpy:1468
-translate Tchinese nikroute4a_682f1675:
+# game/nikroute4.rpy:1474
+translate Tchinese nikroute4a_a1ad52be:
 
-    # "It sounds like a hundred hundred dynamite stick tied together and then launched into the sun."
+    # "It sounds like a hundred dynamite sticks tied together and then launched into the sun."
     "更像幾百發炸藥被捆在一起丟向太陽的結果。"
 
 # game/nikroute4.rpy:1469
@@ -4932,10 +4942,10 @@ translate Tchinese nikroute4a_2f3e0705:
     # "Paul’s patience has run out, too."
     "Paul也沒耐心了。"
 
-# game/nikroute4.rpy:1496
-translate Tchinese nikroute4a_511114cd:
+# game/nikroute4.rpy:1501
+translate Tchinese nikroute4a_8e955e56:
 
-    # pa "\"All we {i}have{/i} to do is keeping going straight until we run into the right way.\""
+    # pa "\"All we {i}have{/i} to do is keep going straight until we run into the right way.\""
     pa "我們{i}只要{/i}不斷直走就能找到正確的路了。"
 
 # game/nikroute4.rpy:1504
@@ -4969,9 +4979,9 @@ translate Tchinese nikroute4a_f4eaf779:
     "狼貛雙手擺向前方示意。"
 
 # game/nikroute4.rpy:1511
-translate Tchinese nikroute4a_8932ae24:
+translate Tchinese nikroute4a_44f965d8:
 
-    # "Some of the men start following him while others argue with one another, perhaps in which direction to go."
+    # "Some of the men start following him while others argue with one another, perhaps over in which direction to go."
     "有些人開始跟著他，也有些人似乎在爭論該往哪個方向走。"
 
 # game/nikroute4.rpy:1506
@@ -6342,10 +6352,10 @@ translate Tchinese nikroute4a_84232f6b:
     # "The town hall and most of downtown has been caught in the flames too."
     "鎮公所和市中心也陷入一片火海。"
 
-# game/nikroute4.rpy:1806
-translate Tchinese nikroute4a_1fcf0d5c:
+# game/nikroute4.rpy:1816
+translate Tchinese nikroute4a_181c71db:
 
-    # "The girls and the Madame are nowhere to be found."
+    # "The girls and the Madam are nowhere to be found."
     "姑娘們跟夫人都不見蹤影。"
 
 # game/nikroute4.rpy:1807
@@ -6437,295 +6447,3 @@ translate Tchinese nikroute4a_f01ec07a:
 
     # "Amen."
     "阿們。"
-
-# TODO: Translation updated at 2024-10-12 17:44
-
-# game/nikroute4.rpy:53
-translate Tchinese nikroute4a_8ca9b2aa:
-
-    # "Why God, why is there nowhere left to go?"
-    "主啊，為何絕人之路？"
-
-# game/nikroute4.rpy:117
-translate Tchinese nikroute4a_38030f07:
-
-    # "Apart from the fleeing protestors, the mines are completely empty today."
-    "除了逃亡的抗議者以外，礦洞完全沒有其他人在。"
-
-# game/nikroute4.rpy:132
-translate Tchinese nikroute4a_ba28e7c3:
-
-    # m "\"Beckett’s in there.\""
-    m "Beckett在裡面。"
-
-# game/nikroute4.rpy:143
-translate Tchinese nikroute4a_58f2d6d1:
-
-    # "I open the mail slot with my claw and slip down to my knees."
-    "我用爪推開收信口，跪倒在地。"
-
-# game/nikroute4.rpy:165
-translate Tchinese nikroute4a_2fb8935d:
-
-    # bk "\"Well he’s part of the reason the Guard is here, ain’t he?\""
-    bk "他可不就是衛兵會來的原因之一嗎？"
-
-# game/nikroute4.rpy:166
-translate Tchinese nikroute4a_3786692a:
-
-    # bk "\"He was stashing dangerous weapons in the mine.\""
-    bk "在礦坑裡藏匿危險武器。"
-
-# game/nikroute4.rpy:190
-translate Tchinese nikroute4a_c04ba253:
-
-    # bk "\"Whatever his crimes, it weren’t stashin’ weapons.\""
-    bk "他就算犯了罪，也不是私藏武器。"
-
-# game/nikroute4.rpy:201
-translate Tchinese nikroute4a_72059d17:
-
-    # m "\"If he’s under arrest, then why’s the Guard runnin’ everybody down?\""
-    m "如果他已經被逮捕了，衛兵怎麼還在殺人？"
-
-# game/nikroute4.rpy:220
-translate Tchinese nikroute4a_afbce895:
-
-    # m "\"In the office.\""
-    m "辦公室裡那次。"
-
-# game/nikroute4.rpy:222
-translate Tchinese nikroute4a_2a89babc:
-
-    # ni "\"Sam, he isn’t going to—\""
-    ni "Sam，他不會—"
-
-# game/nikroute4.rpy:354
-translate Tchinese nikroute4a_aef57e2e:
-
-    # "Beckett flicks his forked tongue past his lips."
-    "Beckett分岔的舌頭在唇外翻動了一下。"
-
-# game/nikroute4.rpy:473
-translate Tchinese nikroute4a_a1725ec2:
-
-    # m "\"If we can just hide—\""
-    m "只要讓我們躲——"
-
-# game/nikroute4.rpy:475
-translate Tchinese nikroute4a_930dcfd7:
-
-    # "He turns his head and sees Nik."
-    "他轉過頭看Nik。"
-
-# game/nikroute4.rpy:540
-translate Tchinese nikroute4a_3eb02943:
-
-    # "???" "\"Identify yourself. Now!\""
-    "???" "立刻表明身分。"
-
-# game/nikroute4.rpy:557
-translate Tchinese nikroute4a_36baed64:
-
-    # "???" "\"Drop your weapons and face us!\""
-    "???" "趕緊丟下武器現身。"
-
-# game/nikroute4.rpy:577
-translate Tchinese nikroute4a_f3bc420c:
-
-    # "Nikolai crouches and places his paw on a rock."
-    "Nikolai蹲下，用手抓起一塊岩石。"
-
-# game/nikroute4.rpy:578
-translate Tchinese nikroute4a_11e215e9:
-
-    # "I've never seen him sit so still."
-    "以最悄無聲息的方式。"
-
-# game/nikroute4.rpy:660
-translate Tchinese nikroute4a_ed35ffcb:
-
-    # "I loosen up with a stretch and a silent sigh now that the sounds of the guns are a distant way away now."
-    "遠離槍聲後，我舒展身體，暗自鬆了口氣。"
-
-# game/nikroute4.rpy:782
-translate Tchinese nikroute4a_f70754dd:
-
-    # ni @ talking "\"He told you where the rendezvous would be then?\""
-    ni @ talking "那他是說了集合地點嗎？"
-
-# game/nikroute4.rpy:797
-translate Tchinese nikroute4a_e2d7db69:
-
-    # "In that place. Below. Which led to the Hendricks’ manor."
-    "就在那下面，通往Hendricks宅邸的路上。"
-
-# game/nikroute4.rpy:861
-translate Tchinese nikroute4a_d7c7ff4a:
-
-    # m "\"But it’s all over your chest.\""
-    m "但流得你胸前都是。"
-
-# game/nikroute4.rpy:889
-translate Tchinese nikroute4a_02738041:
-
-    # "The only thing that keeps me from panicking is that I hear more than just Albion being spoken."
-    "唯一讓我安心的，就是當中不只有阿爾比恩語。"
-
-# game/nikroute4.rpy:1009
-translate Tchinese nikroute4a_a291d3bc:
-
-    # fe "\"There’s no excuse for putting us in this position.\""
-    fe "不管有什麼理由，都不該讓我們陷入這種情況。"
-
-# game/nikroute4.rpy:1053
-translate Tchinese nikroute4a_dbf6f3cf:
-
-    # "I worry that if Paul pulls any tighter on the hare’s arm that he’ll tear it off at the socket."
-    "我深怕Paul再多用點力，野兔的手臂就要直接被硬生生扯下來了。"
-
-# game/nikroute4.rpy:1055
-translate Tchinese nikroute4a_7d575277:
-
-    # pa "\"How is the Guard’s overreaction {i}our{/i} fault?\""
-    pa "衛兵反應這麼極端，怎麼就是{i}我們{/i}的錯了？"
-
-# game/nikroute4.rpy:1060
-translate Tchinese nikroute4a_4249b86f:
-
-    # fe "\"I really don’t know!\""
-    fe "我真的不知道！"
-
-# game/nikroute4.rpy:1112
-translate Tchinese nikroute4a_4eff858c:
-
-    # "The hare pushes past the wolverine and starts loping down the tunnel."
-    "野兔推開狼貛，拐向隧道。"
-
-# game/nikroute4.rpy:1211
-translate Tchinese nikroute4a_16bdf93f:
-
-    # "We don’t stop to see whether they bring him or not."
-    "我們沒停下來看他究竟有沒有被帶上。"
-
-# game/nikroute4.rpy:1226
-translate Tchinese nikroute4a_4dbbcf94:
-
-    # "It’s not any easier when it’s my turn to descend."
-    "輪到我自己時也沒好到哪去。"
-
-# game/nikroute4.rpy:1254
-translate Tchinese nikroute4a_f396e3f2:
-
-    # "He bares his fangs and shows me fisticuffs, lightening my heart, making me forget for just one moment where we are again, and what’s happened to us."
-    "他展露尖牙、雙手握拳，以此安撫我，讓我一時間忘了我們的境遇。"
-
-# game/nikroute4.rpy:1282
-translate Tchinese nikroute4a_33e04841:
-
-    # "That’s a fair question."
-    "這問題很合理。"
-
-# game/nikroute4.rpy:1285
-translate Tchinese nikroute4a_aeacf6ad:
-
-    # "That omission feels reckless for a fella like Yao."
-    "這種疏忽不像是Yao會犯的。"
-
-# game/nikroute4.rpy:1286
-translate Tchinese nikroute4a_fd02b790:
-
-    # "A fella who’d factor in every detail."
-    "他行事那麼周密。"
-
-# game/nikroute4.rpy:1300
-translate Tchinese nikroute4a_87f8ac54:
-
-    # "But considerin’ we can’t even see the bottom of where we’d fall, it might be because everybody knows they don’t really want to cross this bridge."
-    "不過也可能是他們不確定該不該走上這深不見底的橋。"
-
-# game/nikroute4.rpy:1303
-translate Tchinese nikroute4a_0a0077af:
-
-    # "In some ways it’s a miracle we can manage to get this many people across this old bridge without it failing."
-    "某方面來說，這橋這麼多人通過還沒垮，簡直就是奇蹟。"
-
-# game/nikroute4.rpy:1320
-translate Tchinese nikroute4a_c9c3252b:
-
-    # "Hearing the shambling of so many footsteps stops making me feel so comfortable now."
-    "聽見無數腳步聲不再讓我安心。"
-
-# game/nikroute4.rpy:1365
-translate Tchinese nikroute4a_394b36bf:
-
-    # "Without saying anything, Paul takes Yao’s gloves and tosses them onto the pile."
-    "Paul一字不說就拿走Yao的那雙，丟到手套堆上。"
-
-# game/nikroute4.rpy:1401
-translate Tchinese nikroute4a_7ace834f:
-
-    # "It feels very grim to me, like agreeing to have your bones thrown into a tomb, or an ossuary."
-    "在我看來，這就跟屍骨被丟到墓園一樣陰鬱。"
-
-# game/nikroute4.rpy:1432
-translate Tchinese nikroute4a_6d38cf2c:
-
-    # pa "\"Well, what the hell?\""
-    pa "我操？"
-
-# game/nikroute4.rpy:1474
-translate Tchinese nikroute4a_a1ad52be:
-
-    # "It sounds like a hundred dynamite sticks tied together and then launched into the sun."
-    "更像幾百發炸藥被捆在一起丟向太陽的結果。"
-
-# game/nikroute4.rpy:1501
-translate Tchinese nikroute4a_8e955e56:
-
-    # pa "\"All we {i}have{/i} to do is keep going straight until we run into the right way.\""
-    pa "我們{i}只要{/i}不斷直走就能找到正確的路了。"
-# TODO: Translation updated at 2025-06-06 01:45
-
-# game/nikroute4.rpy:13
-translate Tchinese nikroute4a_0a40570d:
-
-    # "I want to say {i}we can’t leave him{/i}."
-    ""
-
-# game/nikroute4.rpy:14
-translate Tchinese nikroute4a_9788b547:
-
-    # "I want to say {i}but he’s still right there{/i}."
-    ""
-
-# game/nikroute4.rpy:671
-translate Tchinese nikroute4a_426e354e:
-
-    # "I can barely make out Paul and Felipe exchanging glances silently. Then the wolverine clears his throat."
-    ""
-
-# game/nikroute4.rpy:699
-translate Tchinese nikroute4a_478c4506:
-
-    # "I can make out Nik and Felipe getting tense when he says that."
-    ""
-
-# game/nikroute4.rpy:1200
-translate Tchinese nikroute4a_d22fa2f9:
-
-    # "The wolverine gestures with his arms and shouts."
-    ""
-
-# game/nikroute4.rpy:1511
-translate Tchinese nikroute4a_44f965d8:
-
-    # "Some of the men start following him while others argue with one another, perhaps over in which direction to go."
-    ""
-
-# game/nikroute4.rpy:1816
-translate Tchinese nikroute4a_181c71db:
-
-    # "The girls and the Madam are nowhere to be found."
-    ""
-

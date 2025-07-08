@@ -1529,9 +1529,9 @@ translate Tchinese murdochroute3a_ac84a8d9:
     "出於習慣。"
 
 # game/murdochroute3.rpy:478
-translate Tchinese murdochroute3a_1a1dc235:
+translate Tchinese murdochroute3a_f16f92c2:
 
-    # m "\"Ah, sorry, I’ll—\""
+    # m "\"Ah, sorry, I’ll--\""
     m "啊，對不起，我馬上——"
 
 # game/murdochroute3.rpy:479
@@ -2338,6 +2338,7 @@ translate Tchinese murdochroute3a_f2280cbc:
     # al "\"You been messin’ around down here?\""
     al "你有下來動過嗎？"
 
+# game/murdochroute3.rpy:704
 translate Tchinese murdochroute3a_0a7320c2:
 
     # mu "\"No Dad, I don’t go into the cellar.\""
@@ -9938,6 +9939,8 @@ translate Tchinese murdochroute3a_eae289a7:
 
     # ho "\"And we will move to your house in the city, as husband and wife, while you make up your mind on whether or not our four year relationship means anything to you.\""
     ho "然後以夫妻身分搬到你在城裡的家，你可以在那裡慢慢思考我們四年的感情對你而言到底有什麼意義。"
+
+# game/murdochroute3.rpy:3198
 translate Tchinese murdochroute3a_8aad4bbf:
 
     # ji "\"What a pretty fantasy.\""
@@ -15248,9 +15251,9 @@ translate Tchinese murdochroute3b_877129bc:
     al "就算驚擾了不該驚擾的水也無所謂。"
 
 # game/murdochroute3.rpy:4721
-translate Tchinese murdochroute3b_0a93ea30:
+translate Tchinese murdochroute3b_d1f71700:
 
-    # al "\"That happens to the best — best of us.\""
+    # al "\"That happens to the best-- best of us.\""
     al "也算好事一件——對我們都好。"
 
 # game/murdochroute3.rpy:4721
@@ -21017,7 +21020,7 @@ translate Tchinese murdochroute3c_c0accfc8:
 translate Tchinese murdochroute3c_ec380eb9:
 
     # cy "\"But there is an uncanny sense of... wrongness I get from some of the people here sometimes.\""
-    cy "只不過，這裡有的會人讓我感覺……詭異地不對勁。"
+    cy "只不過，這裡有的人會讓我感覺……詭異地不對勁。"
 
 # game/murdochroute3.rpy:6673
 translate Tchinese murdochroute3c_fa042619:
@@ -24833,7 +24836,7 @@ translate Tchinese neilandreubin_21d1a27c:
 translate Tchinese neilandreubin_9e95e6b1:
 
     # no "\"He isn’t.\""
-    no "並非沒事。"
+    no_TW "並非沒事。"
 
 # game/murdochroute3.rpy:8089
 translate Tchinese neilandreubin_401cb6d9:
@@ -26237,7 +26240,7 @@ translate Tchinese neilandreubin_6c511b13:
 translate Tchinese neilandreubin_13161946:
 
     # no "\"Exactly.\""
-    no "那還用說。"
+    no_TW "那還用說。"
 
 # game/murdochroute3.rpy:8548
 translate Tchinese neilandreubin_db9d1171:
@@ -26287,7 +26290,7 @@ translate Tchinese neilandreubin_a21cd6e5:
     # wi "\"Not everybody has what you have.\""
     wi "你這優點不是人人都有的。"
 
-﻿# game/murdochroute3.rpy:8565
+# game/murdochroute3.rpy:8565
 translate Tchinese neilandreubin_57192a68:
 
     # wi "\"Pretty soon there might be a time when people are gonna have to rely on that strength.\""
@@ -26297,7 +26300,7 @@ translate Tchinese neilandreubin_57192a68:
 translate Tchinese neilandreubin_103dad25:
 
     # m "\"A lot of folks I know are expecting the worst.\""
-    m "我知道有很多人做好了最壞的打算。"
+    m "我知道有很多人都做了最壞的打算。"
 
 # game/murdochroute3.rpy:8569
 translate Tchinese neilandreubin_cf5e06d4:
@@ -32614,26 +32617,26 @@ translate Tchinese neilreubinhip_24478a7b:
 # game/murdochroute3.rpy:10444
 translate Tchinese neilreubinhip_1359f6dd:
 
-    # me "\"{i}She heard a voice like voice of doves,{/i}\""
-    me ""
+    # me "\"{b}She heard a voice like voice of doves,{/b}\""
+    me "{i}她聽見鴿子般的聲響——{/i}"
 
 # game/murdochroute3.rpy:10447
 translate Tchinese neilreubinhip_c6d81fcc:
 
-    # me "\"{i}Cooing all together.{/i}\""
-    me ""
+    # me "\"{b}Cooing all together.{/b}\""
+    me "{i}咕咕叫喚。{/i}"
 
 # game/murdochroute3.rpy:10450
 translate Tchinese neilreubinhip_b54bade8:
 
-    # me "\"{i}They sounded kind and full of loves.{/i}\""
-    me ""
+    # me "\"{b}They sounded kind and full of loves.{/b}\""
+    me "{i}天氣晴朗，{/i}"
 
 # game/murdochroute3.rpy:10453
 translate Tchinese neilreubinhip_57a70e11:
 
-    # me "\"{i}In the pleasant weather.{/i}\""
-    me ""
+    # me "\"{b}In the pleasant weather.{/b}\""
+    me "{i}聲音里滿是愛意與安詳。{/i}"
 
 # game/murdochroute3.rpy:10455
 translate Tchinese neilreubinhip_a85c3ee5:
@@ -32645,7 +32648,7 @@ translate Tchinese neilreubinhip_a85c3ee5:
 translate Tchinese neilreubinhip_14ac86ca:
 
     # me "\"{i}Come buy! Come buy, was still their cry.{/i}\""
-    me ""
+    me "{i}來買，來買！依然是熟悉的叫賣。{/i}"
 
 # game/murdochroute3.rpy:10460
 translate Tchinese neilreubinhip_37c840b3:
@@ -32717,13 +32720,13 @@ translate Tchinese neilreubinhip_4794881d:
 translate Tchinese neilreubinhip_2e4afb44:
 
     # me "\"{i}To cheer one on the tedious way.{/i}\""
-    me ""
+    me "{i}在你苦悶難言時給你歡欣鼓舞。{/i}"
 
 # game/murdochroute3.rpy:10479
 translate Tchinese neilreubinhip_bcf953e1:
 
     # me "\"{i}To fetch one if one goes astray.{/i}\""
-    me ""
+    me "{i}在你誤入歧途時把你拉回正路。{/i}"
 
 # game/murdochroute3.rpy:10481
 translate Tchinese neilreubinhip_c47009db:
@@ -34103,7 +34106,7 @@ translate Tchinese neilreubinhip_ef32e25d:
 translate Tchinese neilreubinhip_eee0758c:
 
     # no "\"You’re unreliable.\""
-    no "你不可靠。"
+    no_TW "你不可靠。"
 
 # game/murdochroute3.rpy:11111
 translate Tchinese neilreubinhip_222857d0:
@@ -35006,7 +35009,7 @@ translate Tchinese neilreubinhip_f325ba37:
     "我經過幾個從來不認識、或不打算認識的姑娘，在恐慌中顫抖。"
 
 # game/murdochroute3.rpy:11432
-translate Tchinese neilreubinhip_b82854b5:縣
+translate Tchinese neilreubinhip_b82854b5:
 
     # "It doesn’t take long at all for the front entrance to become dangerously crowded."
     "不一會兒，正門就人滿為患。"
@@ -35297,7 +35300,7 @@ translate Tchinese neilreubinhip_ea4b7740:
 translate Tchinese neilreubinhip_d85cbb46:
 
     # "I pluck the [murdochchoices] from my pocket and place it in her palm without hesitation."
-    "我從口袋掏出[murdochchoices]，毫不猶豫地放在他掌中。"
+    "我從口袋掏出[murdochchoices!t]，毫不猶豫地放在他掌中。"
 
 # game/murdochroute3.rpy:11524
 translate Tchinese neilreubinhip_466b0ab9:
@@ -35855,7 +35858,7 @@ translate Tchinese neilreubinhip_62f27ca8:
 translate Tchinese neilreubinhip_142f3dba:
 
     # no "\"Let me out.\""
-    no "放我出去。"
+    no_TW "放我出去。"
 
 # game/murdochroute3.rpy:11707
 translate Tchinese neilreubinhip_143104f5:
@@ -35879,7 +35882,7 @@ translate Tchinese neilreubinhip_cec8699a:
 translate Tchinese neilreubinhip_e593bc58:
 
     # no "\"Let me {i}out{/i}.\""
-    no "放我{i}出去{/i}。"
+    no_TW "放我{i}出去{/i}。"
 
 # game/murdochroute3.rpy:11713
 translate Tchinese neilreubinhip_050445d7:
@@ -36335,13 +36338,9 @@ translate Tchinese neilreubinhip_55baf4a2:
 translate Tchinese neilreubinhip_753ea9ac:
 
     # mu "\"Shall we?\""
-    mu "進去吧？"
+    mu "我們進去吧？"
 
 translate Tchinese strings:
-
-    # game/murdochroute3.rpy:6758
-    old "[murdochchoices]"
-    new "[murdochchoices]"
 
     # game/murdochroute3.rpy:6758
     old "Holly"
@@ -36361,7 +36360,7 @@ translate Tchinese strings:
 
     # game/murdochroute3.rpy:9281
     old "If luck is with me, I won’t have to."
-    new "幸運的話，我就不用。"
+    new "運氣好的話，就不需要。"
 
     # game/murdochroute3.rpy:9281
     old "Approach Neil."
