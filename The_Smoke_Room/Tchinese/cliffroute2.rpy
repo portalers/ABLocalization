@@ -62,7 +62,7 @@ translate Tchinese cliffroute2_75d15484:
 translate Tchinese cliffroute2_12e26ab2:
 
     # "More packs of canned food than I can count, and booze..."
-    "數不清的罐頭，還有酒……"
+    "數不清的罐頭，還有酒"
 
 # game/cliffroute2.rpy:38
 translate Tchinese cliffroute2_00f8b8b5:
@@ -6676,10 +6676,10 @@ translate Tchinese aftercanyon_96b9c8c4:
     # cl "\"Perhaps I was foolish to think that in this wild, untamed frontier I'd be free to love who I want, no matter their gender.\""
     cl "或許是期待能在這尚未開化的荒郊野土上，能夠不受性別拘束、自由愛上他人的我太愚蠢了。"
 
-# game/cliffroute2.rpy:1427
-translate Tchinese aftercanyon_b964ef31:
+# game/cliffroute2.rpy:1711
+translate Tchinese aftercanyon_a6045686:
 
-    # "I'd say."
+    # "I'll say."
     "正是如此。"
 
 # game/cliffroute2.rpy:1428
@@ -7696,10 +7696,10 @@ translate Tchinese aftercanyon_e0f750e8:
     # mu "\"Where's that gotten you?\""
     mu "你究竟想何去何從？"
 
-# game/cliffroute2.rpy:1582
-translate Tchinese aftercanyon_d98c194b:
+# game/cliffroute2.rpy:1944
+translate Tchinese aftercanyon_cbde3242:
 
-    # m "\"I…\""
+    # m "\"I...\""
     m "我……"
 
 # game/cliffroute2.rpy:1583
@@ -16787,9 +16787,9 @@ translate Tchinese maphogan2_116bf71e:
     cl "我只是去拿背包裡的東西而已！"
 
 # game/cliffroute2.rpy:5847
-translate Tchinese maphogan2_488ea755:
+translate Tchinese maphogan2_3ce4983a:
 
-    # cl "\"I'd misplaced the rag I normally use to clean my glasses, see, and--\""
+    # cl "\"I'd misplaced the rag I normally use to clean my glasses, see, and—\""
     cl "我把平時用來擦眼鏡的布放錯地方了，然後——"
 
 # game/cliffroute2.rpy:4256
@@ -19061,9 +19061,9 @@ translate Tchinese hh_d338a72b:
     "Avery皺起眉。"
 
 # game/cliffroute2.rpy:7186
-translate Tchinese hh_7ce91439:
+translate Tchinese hh_06e78d3a:
 
-    # av "\"Jeb, I don't think that it's safe to--\""
+    # av "\"Jeb, I don't think that it's safe to—\""
     av "Jeb，這樣太危險——"
 
 # game/cliffroute2.rpy:4927

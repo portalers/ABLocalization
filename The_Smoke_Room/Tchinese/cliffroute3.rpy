@@ -802,10 +802,10 @@ translate Tchinese cliffroute3_f756cbad:
     # cl "Well, there was last night."
     cl "這個嘛，比方說昨晚。"
 
-# game/cliffroute3.rpy:167
-translate Tchinese cliffroute3_c806ebc0_1:
+# game/cliffroute3.rpy:161
+translate Tchinese cliffroute3_c806ebc0:
 
-    # m "Yeah."
+    # m "\"Yeah.\""
     m "是啊。"
 
 # game/cliffroute3.rpy:168
@@ -4366,11 +4366,11 @@ translate Tchinese aftercliffint2_e486fe4d:
     # "That would be after sundown... just about the time the reverend asked me to bring him the documents."
     "也就是日落後……牧師讓我把文件送過去的時間。"
 
-# game/cliffroute3.rpy:1055
-translate Tchinese aftercliffint2_6fd3927b:
+# game/cliffroute3.rpy:1241
+translate Tchinese aftercliffint2_77ec7ae0:
 
-    # "Young squirrel" "There’s also the trail?"
-    "年輕松鼠" "還有那條小路呢？"
+    # "Young squirrel" "\"There’s also the trail.\""
+    "年輕松鼠" "還有那條小路呢。"
 
 # game/cliffroute3.rpy:1056
 translate Tchinese aftercliffint2_9b663b02:
@@ -16036,3 +16036,9 @@ translate Tchinese strings:
     # game/cliffroute3.rpy:4404
     old "Stop him."
     new "阻止他。"
+
+# game/cliffroute3.rpy:5494
+translate Tchinese cliffchoice5_fec97169:
+
+    # "To be continued..."
+    ""

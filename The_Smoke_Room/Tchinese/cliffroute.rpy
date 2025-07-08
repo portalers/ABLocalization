@@ -689,9 +689,9 @@ translate Tchinese cliffroute_0eac34c7:
     cl "這些是我論文的筆記，請把那些遞給我。"
 
 # game/cliffroute.rpy:167
-translate Tchinese cliffroute_94b84fbd:
+translate Tchinese cliffroute_5c28e2cd:
 
-    # m "\"Feesus? What's a--\""
+    # m "\"Feesus? What's a—\""
     m "愣文？什麼是——"
 
 # game/cliffroute.rpy:169
@@ -2465,9 +2465,9 @@ translate Tchinese cliffroute_13b6fc33:
     "小Cynthia曾給大家講過。"
 
 # game/cliffroute.rpy:522
-translate Tchinese cliffroute_441d1578:
+translate Tchinese cliffroute_401a9722:
 
-    # cl "\"Well, I heard--\""
+    # cl "\"Well, I heard—\""
     cl "好吧，我聽說——"
 
 # game/cliffroute.rpy:521
@@ -5423,9 +5423,9 @@ translate Tchinese cliffroute_8edf1ccf:
     cy "這個小鎮真是一波未平，一波又起。"
 
 # game/cliffroute.rpy:1267
-translate Tchinese cliffroute_c684ce5d:
+translate Tchinese cliffroute_f8c2699b:
 
-    # m "\"Ever thought about leavin'? Goin' back to--\""
+    # m "\"Ever thought about leavin'? Goin' back to—\""
     m "你有想過離開嗎？回到——"
 
 # game/cliffroute.rpy:1247
@@ -5981,9 +5981,9 @@ translate Tchinese cliffroute_8fc4e2d5:
     "狼得意的表情馬上消失無蹤。"
 
 # game/cliffroute.rpy:1402
-translate Tchinese cliffroute_514c555a:
+translate Tchinese cliffroute_ade681fd:
 
-    # "Reed" "\"He tried to--\""
+    # "Reed" "\"He tried to—\""
     "Reed " "他試圖——"
 
 # game/cliffroute.rpy:1350
@@ -6203,9 +6203,9 @@ translate Tchinese cliffroute_f4de9dc7:
     wi "學術目的，我沒聽錯吧。那裡有什麼好學的，風滾草嗎？"
 
 # game/cliffroute.rpy:1472
-translate Tchinese cliffroute_d3e2c643:
+translate Tchinese cliffroute_990915c2:
 
-    # cl "\"Actually--\""
+    # cl "\"Actually—\""
     cl "實際上——"
 
 # game/cliffroute.rpy:1410
@@ -6605,9 +6605,9 @@ translate Tchinese cliffroute_728bd896:
     "我起身把書扔到桌上，小跑著趕去了廚房。"
 
 # game/cliffroute.rpy:1591
-translate Tchinese cliffroute_ef7aaad5:
+translate Tchinese cliffroute_acfb517d:
 
-    # m "\"Cliff, are you--\""
+    # m "\"Cliff, are you—\""
     m "Cliff，你還——"
 
 # game/cliffroute.rpy:1515
@@ -7409,9 +7409,9 @@ translate Tchinese cliffroute_f23f2b78:
     mu "你要求的額外補給已經到了。"
 
 # game/cliffroute.rpy:1796
-translate Tchinese cliffroute_6dddad4a:
+translate Tchinese cliffroute_b6852414:
 
-    # cl "\"Oh, thank you! And Clifford is fine. Anyway, Samuel--\""
+    # cl "\"Oh, thank you! And Clifford is fine. Anyway, Samuel—\""
     cl "哦，謝謝你！還有叫我Cliff就好。 總而言之，Samuel——"
 
 # game/cliffroute.rpy:1724

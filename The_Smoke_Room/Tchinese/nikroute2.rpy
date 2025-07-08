@@ -557,9 +557,9 @@ translate Tchinese nikroute2_352faad7:
     ya "我是不想說死人壞話。"
 
 # game/nikroute2.rpy:176
-translate Tchinese nikroute2_11a59088:
+translate Tchinese nikroute2_5e7d09ac:
 
-    # ya "\"But Jack was an unethical drunk who substituted earnestness for wit...\""
+    # ya "\"But Jack was an unethical drunk who substituted earnesty for wit...\""
     ya "但Jack是個沒有道德感的酒鬼、做人毫無真誠、只會耍小聰明……"
 
 # game/nikroute2.rpy:170
@@ -4109,9 +4109,9 @@ translate Tchinese nikroute2_fd3e6c60:
     "另一邊則有兩張舒適的扶手椅。"
 
 # game/nikroute2.rpy:1119
-translate Tchinese nikroute2_a432542a:
+translate Tchinese nikroute2_a0a86729:
 
-    # "To the left is a man who I’m starting to get used to seeing — James Hendricks."
+    # "To the left is a man who I’m starting to get used to seeing-- James Hendricks."
     "左手邊是我最近越來越常見到的人——James Hendricks。"
 
 # game/nikroute2.rpy:1103
@@ -9410,7 +9410,7 @@ translate Tchinese sny1_3a60006b:
 translate Tchinese sny1_d475da11:
 
     # "Yao is the first to stand, taking his map as he pads back to the lockers."
-    "Yao率先站了起來，他拿著地圖，躡手躡腳地走向置物櫃。""
+    "Yao率先站了起來，他拿著地圖，躡手躡腳地走向置物櫃。"
 
 # game/nikroute2.rpy:2764
 translate Tchinese sny1_d37e0b70:
@@ -18839,9 +18839,9 @@ translate Tchinese sellcomp_ca91fac2:
     "他把提手推進我的爪裡，我馬上就感受到了內容物的重量。"
 
 # game/nikroute2.rpy:6296
-translate Tchinese sellcomp_44ddf1a5:
+translate Tchinese sellcomp_e901da91:
 
-    # "I can see three mallard ducks painted on the side — one’s white, one black and white, and one is orange and striped."
+    # "I can see three mallard ducks painted on the side-- one’s white, one black and white, and one is orange and striped."
     "我看見側面畫了三隻野鴨：一隻白色、一隻黑白相間、一隻黃底黑條紋。"
 
 # game/nikroute2.rpy:6180
@@ -20685,9 +20685,9 @@ translate Tchinese sellcomp_06e14c23:
     m "我只是來為新工具向你道謝的。"
 
 # game/nikroute2.rpy:7100
-translate Tchinese sellcomp_687d352a:
+translate Tchinese sellcomp_c9c8d220:
 
-    # "I put on my best smile — the kind of smile that makes a client think I’ve had just the right amount of alcohol to feel starcrossed."
+    # "I put on my best smile--the kind of smile that makes a client think I’ve had just the right amount of alcohol to feel starcrossed.""
     "我擺出最好的笑臉——會讓客戶覺得我剛剛好喝到微醺程度的那種。"
 
 # game/nikroute2.rpy:6972

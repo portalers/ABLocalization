@@ -1067,9 +1067,9 @@ translate Tchinese murdochroute2_f0754f50:
     mu "我很少只想著一件事。"
 
 # game/murdochroute2.rpy:263
-translate Tchinese murdochroute2_ea382d1d:
+translate Tchinese murdochroute2_9dbc59fc:
 
-    # mu "\"But the photograph—\""
+    # mu "\"But the photograph--\""
     mu "但是那張照片——"
 
 # game/murdochroute2.rpy:267
@@ -6953,9 +6953,9 @@ translate Tchinese murdochroute2_6cf867c1:
     mu "希望他沒有往湖裡傾倒有毒物質。"
 
 # game/murdochroute2.rpy:1971
-translate Tchinese murdochroute2_6d2bd295:
+translate Tchinese murdochroute2_27a70459:
 
-    # mu "\"If they're doing something harmful, we should probably interrupt—\""
+    # mu "\"If they're doing something harmful, we should probably interrupt--\""
     mu "如果他在幹什麼勾當，我們應該制止——"
 
 # game/murdochroute2.rpy:1969
@@ -7007,9 +7007,9 @@ translate Tchinese murdochroute2_c469d2f8:
     mu "不……"
 
 # game/murdochroute2.rpy:1980
-translate Tchinese murdochroute2_3a32bbcd:
+translate Tchinese murdochroute2_d45f964b:
 
-    # mu "\"That couldn't be a—\""
+    # mu "\"That couldn't be a--\""
     mu "不可能——"
 
 # game/murdochroute2.rpy:1978
@@ -11375,10 +11375,10 @@ translate Tchinese murdochroute2_8e51d810:
     "我們同時看向嘎吱作響的木梯。"
 
 # game/murdochroute2.rpy:3169
-translate Tchinese murdochroute2_ff283e08:
+translate Tchinese murdochroute2_eea4c47b:
 
-    # bl "\"Sorry I'm early Miz Byrnes, but—\""
-    bl "不好意思，我來早了，Byrnes小姐，但是——"
+    # bl "\"Sorry I'm early Miz Byrnes, but--\""
+    bl "不好意思，我來早了，Byrnes老師，但是——"
 
 # game/murdochroute2.rpy:3168
 translate Tchinese murdochroute2_98662624:
@@ -11432,7 +11432,7 @@ translate Tchinese murdochroute2_655c4c58:
 translate Tchinese murdochroute2_b1903777:
 
     # bl "\"Whatever you say Miz Byrnes.\""
-    bl "悉聽尊便，Byrnes女士。"
+    bl "悉聽尊便，Byrnes老師。"
 
 # game/murdochroute2.rpy:3185
 translate Tchinese murdochroute2_e955791b:
@@ -11479,7 +11479,7 @@ translate Tchinese murdochroute2_6b54e72d:
 translate Tchinese murdochroute2_122051e0:
 
     # bl "\"Well of course, Miz Byrnes.\""
-    bl "當然可以，Byrnes女士。"
+    bl "當然可以，Byrnes老師。"
 
 # game/murdochroute2.rpy:3198
 translate Tchinese murdochroute2_b5bfacea:
@@ -11509,7 +11509,7 @@ translate Tchinese murdochroute2_0b640303:
 translate Tchinese murdochroute2_e4a4abe6:
 
     # bl "\"Well, uh, that’s the thing Miz Byrnes.\""
-    bl "那個，呃，是這樣的，Byrnes女士。"
+    bl "那個，呃，是這樣的，Byrnes老師。"
 
 # game/murdochroute2.rpy:3206
 translate Tchinese murdochroute2_8e87caf1:
@@ -11551,7 +11551,7 @@ translate Tchinese murdochroute2_6692927a:
 translate Tchinese murdochroute2_b1641db2:
 
     # bl "\"There’s a big difference between liking math and being good at math, Miz Byrnes.\""
-    bl "喜歡和擅長是有很大區別的，Byrnes女士。"
+    bl "喜歡和擅長是有很大區別的，Byrnes老師。"
 
 # game/murdochroute2.rpy:3218
 translate Tchinese murdochroute2_3f0a88a2:
@@ -11569,7 +11569,7 @@ translate Tchinese murdochroute2_a1f48de4:
 translate Tchinese murdochroute2_28ec3ca1:
 
     # bl "\"That’s nice, Miz Byrnes.\""
-    bl "您過獎了，Byrnes女士。"
+    bl "您過獎了，Byrnes老師。"
 
 # game/murdochroute2.rpy:3224
 translate Tchinese murdochroute2_31754330:
@@ -13246,9 +13246,9 @@ translate Tchinese murdochroute2_71ad499c:
     "陵墓的門發出嘎吱一聲，嚇得我向後一躍，小腿不偏不倚撞到了一個石頭十字架上。"
 
 # game/murdochroute2.rpy:3728
-translate Tchinese murdochroute2_7f397e4c:
+translate Tchinese murdochroute2_18ab6ebc:
 
-    # m "\"MotherFUCK—\""
+    # m "\"MotherFUCK--\""
     m "{b}喔幹——{/b}"
 
 # game/murdochroute2.rpy:3728
@@ -15448,9 +15448,9 @@ translate Tchinese murdochroute2_c3ce9be2:
     al "在我看來，這也是偉大的標誌。"
 
 # game/murdochroute2.rpy:4292
-translate Tchinese murdochroute2_606583d1:
+translate Tchinese murdochroute2_764acdbb:
 
-    # mu "\"Perhaps both Sam and Jim would prefer to talk about something other than work—\""
+    # mu "\"Perhaps both Sam and Jim would prefer to talk about something other than work--\""
     mu "也許Sam和Jim喜歡討論工作以外的事情——"
 
 # game/murdochroute2.rpy:4291
@@ -21027,8 +21027,8 @@ translate Tchinese muc0_cfd36056:
     # "He looks more put together than how he looked a couple of nights ago, but the bags under his eyes are much worse."
     "他比幾晚前體面得多，不過眼袋也重多了。"
 
-# game/murdochroute2.rpy:6050
-translate Tchinese muc0_81efe3db_1:
+# game/murdochroute2.rpy:5993
+translate Tchinese muc0_81efe3db:
 
     # m "\"Sure, Sheriff.\""
     m "行，警長。"
@@ -23704,9 +23704,9 @@ translate Tchinese mdq2_e78bd340:
     mu "你確定你能搞定摺邊嗎？"
 
 # game/murdochroute2.rpy:6843
-translate Tchinese mdq2_b36dcb5b:
+translate Tchinese mdq2_546dc202:
 
-    # mu "\"Because we can always go back to the tailor if we need—\""
+    # mu "\"Because we can always go back to the tailor if we need--\""
     mu "如果有需要，還是能回去找裁縫——"
 
 # game/murdochroute2.rpy:6839

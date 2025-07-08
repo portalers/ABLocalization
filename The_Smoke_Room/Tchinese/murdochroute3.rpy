@@ -19124,7 +19124,7 @@ translate Tchinese murdochroute3c_278e187d:
 translate Tchinese murdochroute3c_f6bab61a:
 
     # "Priest" "\"Top of the hill? Do you mean the Hendricks’ manor?\""
-    "Priest" "山丘頂部？是指Hendricks宅邸嗎？"
+    "神父" "山丘頂部？是指Hendricks宅邸嗎？"
 
 # game/murdochroute3.rpy:6007
 translate Tchinese murdochroute3c_2ff9b099:
@@ -19298,7 +19298,7 @@ translate Tchinese murdochroute3c_f71512bd:
 translate Tchinese murdochroute3c_8b14b361:
 
     # "Priest" "\"I believe Sister Freda tends to it, but I admit that I haven’t been down there for years.\""
-    "Priest" "Freda修女應該有在打理，但我確實好幾年沒下去過了。"
+    "神父" "Freda修女應該有在打理，但我確實好幾年沒下去過了。"
 
 # game/murdochroute3.rpy:6095
 translate Tchinese murdochroute3c_a2bde3ef:
@@ -19454,7 +19454,7 @@ translate Tchinese murdochroute3c_7f10ed6b:
 translate Tchinese murdochroute3c_a2eff5a0:
 
     # "Priest" "\"Ah. You’ll be the ones staying, then?\""
-    "Priest" "哦，你們要留下嗎？"
+    "神父" "哦，你們要留下嗎？"
 
 # game/murdochroute3.rpy:6164
 translate Tchinese murdochroute3c_563bb0c4:
@@ -19478,7 +19478,7 @@ translate Tchinese murdochroute3c_0c213096:
 translate Tchinese murdochroute3c_caf57bec:
 
     # "Priest" "\"Ah. Well, the basement is this way.\""
-    "Priest" "好的，地下室這邊請。"
+    "神父" "好的，地下室這邊請。"
 
 # game/murdochroute3.rpy:6178
 translate Tchinese murdochroute3c_800505ca:
@@ -19496,7 +19496,7 @@ translate Tchinese murdochroute3c_9de71275:
 translate Tchinese murdochroute3c_8e150d47:
 
     # "Priest" "\"Give space for the elderly first, please.\""
-    "Priest" "請讓老者先進吧。"
+    "神父" "請讓老者先進吧。"
 
 # game/murdochroute3.rpy:6184
 translate Tchinese murdochroute3c_94c77629:
@@ -19514,7 +19514,7 @@ translate Tchinese murdochroute3c_c052829b:
 translate Tchinese murdochroute3c_84605d66:
 
     # "Priest" "\"I believe it was built as an infirmary, though there’s been no need for it.\""
-    "Priest" "這本來應該是要建成醫務室的，但從來沒有用到。"
+    "神父" "這本來應該是要建成醫務室的，但從來沒有用到。"
 
 # game/murdochroute3.rpy:6190
 translate Tchinese murdochroute3c_8ffefe57:
@@ -19526,7 +19526,7 @@ translate Tchinese murdochroute3c_8ffefe57:
 translate Tchinese murdochroute3c_c69a594b:
 
     # "Priest" "\"There won’t be, God willing, but we maintain precaution.\""
-    "Priest" "但願上天不會令我們有用到的一天，但還是會未雨綢繆。"
+    "神父" "但願上天不會令我們有用到的一天，但還是會未雨綢繆。"
 
 # game/murdochroute3.rpy:6194
 translate Tchinese murdochroute3c_907ac2b4:
@@ -19610,13 +19610,13 @@ translate Tchinese murdochroute3c_c0b53fa1:
 translate Tchinese murdochroute3c_29ea1ea5:
 
     # "Priest" "\"Down this way, Mrs. Sterling.\""
-    "Priest" "這邊請，Sterling夫人。"
+    "神父" "這邊請，Sterling夫人。"
 
 # game/murdochroute3.rpy:6221
 translate Tchinese murdochroute3c_63c54637:
 
     # "Priest" "\"Er, I mean soon-to-be Mrs. Sterling.\""
-    "Priest" "呃，我是說將來的Sterling夫人。"
+    "神父" "呃，我是說將來的Sterling夫人。"
 
 # game/murdochroute3.rpy:6223
 translate Tchinese murdochroute3c_67d602c7:
@@ -23930,19 +23930,19 @@ translate Tchinese neilandreubin_f232962a:
 translate Tchinese neilandreubin_15332c0b:
 
     # "Priest" "\"Ah, my brothers and sisters, if I could have your attention.\""
-    "Priest" "哦，弟兄姊妹們，且聽我一言。"
+    "神父" "哦，弟兄姊妹們，且聽我一言。"
 
 # game/murdochroute3.rpy:7671
 translate Tchinese neilandreubin_7fe0afa8:
 
     # "Priest" "\"It would appear that the conflagration at the Hendricks manse, rather than receding, is only getting worse.\""
-    "Priest" "據說Hendricks宅邸的火勢不減反增。"
+    "神父" "據說Hendricks宅邸的火勢不減反增。"
 
 # game/murdochroute3.rpy:7673
 translate Tchinese neilandreubin_c23fe4e1:
 
     # "Priest" "\"I would advise that you head for downtown as quickly, but as orderly, as possible.\""
-    "Priest" "建議各位盡可能迅速但有序地前往鎮中心。"
+    "神父" "建議各位盡可能迅速但有序地前往鎮中心。"
 
 # game/murdochroute3.rpy:7675
 translate Tchinese neilandreubin_f776a45b:
@@ -23954,25 +23954,25 @@ translate Tchinese neilandreubin_f776a45b:
 translate Tchinese neilandreubin_12c91df8:
 
     # "Priest" "\"Those who would like may stay with us for as long as they wish, though I do not advise it, as we are one of the closer buildings to the active hazard.\""
-    "Priest" "希望留下的人，想待多久都行。但我不太建議，這兒離事發地點很近。"
+    "神父" "希望留下的人，想待多久都行。但我不太建議，這兒離事發地點很近。"
 
 # game/murdochroute3.rpy:7679
 translate Tchinese neilandreubin_fafb8c41:
 
     # "Priest" "\"I myself will not be staying due to my poor tolerance of harsh airs, though sister Freda has volunteered to await the return of Mr. and Mrs. Byrnes.\""
-    "Priest" "本人對空氣品質較敏感，不會留在此處，不過Freda修女自願留守等待Byrnes夫婦歸來。"
+    "神父" "本人對空氣品質較敏感，不會留在此處，不過Freda修女自願留守等待Byrnes夫婦歸來。"
 
 # game/murdochroute3.rpy:7681
 translate Tchinese neilandreubin_2abe0179:
 
     # "Priest" "\"The fortunate news is that if you are a visitor here there are ample lodgings throughout downtown.\""
-    "Priest" "好消息是，鎮中心有多家旅店可供各位旅客留宿。"
+    "神父" "好消息是，鎮中心有多家旅店可供各位旅客留宿。"
 
 # game/murdochroute3.rpy:7683
 translate Tchinese neilandreubin_a510a399:
 
     # "Priest" "\"A phonecall sent from Mayor Testerman’s office also announced accommodations at city hall for those who need it.\""
-    "Priest" "Testerman鎮長也已致電，表示可在市公所借宿。"
+    "神父" "Testerman鎮長也已致電，表示可在市公所借宿。"
 
 # game/murdochroute3.rpy:7685
 translate Tchinese neilandreubin_563c6c62:
@@ -24170,7 +24170,7 @@ translate Tchinese neilandreubin_f9ebc1e1:
 translate Tchinese neilandreubin_c1e17fda:
 
     # "Priest" "\"Please go out slowly, one at a time, so not as much smoke can get through the doors.\""
-    "Priest" "請一個一個慢慢走，以免濃煙一下進到室內。"
+    "神父" "請一個一個慢慢走，以免濃煙一下進到室內。"
 
 # game/murdochroute3.rpy:7766
 translate Tchinese neilandreubin_7708febe:
