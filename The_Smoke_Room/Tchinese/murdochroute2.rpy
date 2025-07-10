@@ -21183,10 +21183,10 @@ translate Tchinese muc0_03b93c9c:
     # wi "\"Okay.\""
     wi "好。"
 
-# game/murdochroute2.rpy:6045
-translate Tchinese muc0_113fc50b:
+# game/murdochroute2.rpy:6050
+translate Tchinese muc0_81efe3db_1:
 
-    # m "\"Sure, sheriff.\""
+    # m "\"Sure, Sheriff.\""
     m "來吧，警長。"
 
 # game/murdochroute2.rpy:6047

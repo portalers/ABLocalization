@@ -6743,9 +6743,9 @@ translate Tchinese sny1_653a2239:
     ni "不，我請你。"
 
 # game/nikroute2.rpy:1885
-translate Tchinese sny1_8115c737:
+translate Tchinese sny1_2eed0d2a:
 
-    # m "\"But—\""
+    # m "\"But--\""
     m "可是——"
 
 # game/nikroute2.rpy:1869
@@ -10457,9 +10457,9 @@ translate Tchinese sny1_cd8c99e2:
     ben "我先把你介紹給管事的。"
 
 # game/nikroute2.rpy:3113
-translate Tchinese sny1_211f8a82:
+translate Tchinese sny1_d7094400:
 
-    # "I notice that the tunnels on the third level — if this really is the third level, anyway — have much shorter ceilings than the top floor."
+    # "I notice that the tunnels on the third level--if this really is the third level, anyway--have much shorter ceilings than the top floor."
     "我注意到第三層的洞高比第一層矮得多——假如這裡真是第三層的話。"
 
 # game/nikroute2.rpy:3062
@@ -12173,9 +12173,9 @@ translate Tchinese sny1_180294ff:
     ni "唔，等到了午餐時間，你會有機會清理的。"
 
 # game/nikroute2.rpy:3796
-translate Tchinese sny1_fc3fc4f7:
+translate Tchinese sny1_4330e35a:
 
-    # ni "\"But still, I would not bother. You will get dirty again in the afternoon anyway—\""
+    # ni "\"But still, I would not bother. You will get dirty again in the afternoon anyway--\""
     ni "不過我就不用麻煩了，反正下午還會弄髒——"
 
 # game/nikroute2.rpy:3743
@@ -20229,9 +20229,9 @@ translate Tchinese sellcomp_d76e4233:
     bk "這個沒問題。"
 
 # game/nikroute2.rpy:6928
-translate Tchinese sellcomp_67641e19:
+translate Tchinese sellcomp_ee8b19ff:
 
-    # "Beckett tested every single wick in the pack."
+    # "Beckett tests every single wick in the bag."
     "Beckett檢驗了所有的燈芯。"
 
 # game/nikroute2.rpy:6930
@@ -22647,9 +22647,9 @@ translate Tchinese locker1bright_7aaa4147:
     m "我記得是這樣。"
 
 # game/nikroute2.rpy:7838
-translate Tchinese locker1bright_f3b05889:
+translate Tchinese locker1bright_d167a6e4:
 
-    # ya "\"These are incredibly close — one on the left, one on the right.\""
+    # ya "\"These are incredibly close-- one on the left, one on the right.\""
     ya "這兩個近得出人意料：一個在左，一個在右。"
 
 # game/nikroute2.rpy:7706
