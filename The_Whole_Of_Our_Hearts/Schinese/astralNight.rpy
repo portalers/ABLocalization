@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-09-30 23:38
+# TODO: Translation updated at 2025-09-30 23:38
 
 # game/astralNight.rpy:694
 translate Schinese codyCheck1_e74c2106:

@@ -1,10 +1,10 @@
-﻿# TODO: Translation updated at 2025-09-30 23:38
+# TODO: Translation updated at 2025-09-30 23:38
 
 # game/sean12192024.rpy:4
 translate Schinese sean12192024_5af227bb:
 
     # nvl clear
-    # nulln "It's comforting, isn't it, that place."
+    # nulln "It''s comforting, isn''t it, that place."
     nvl clear
     nulln "那地方很舒心吧？"
 
@@ -12,7 +12,7 @@ translate Schinese sean12192024_5af227bb:
 translate Schinese sean12192024_a99efbee:
 
     # nulln "You always seem to cling to it."
-    nulln "你总是惦记着那里。"
+    nulln "你总是惦记著那里。"
 
 # game/sean12192024.rpy:7
 translate Schinese sean12192024_78c6e56f:
@@ -35,14 +35,14 @@ translate Schinese sean12192024_1484ae71:
 # game/sean12192024.rpy:10
 translate Schinese sean12192024_2ed81b33:
 
-    # nulln "Learning the world isn't safe does have that effect, doesn't it?"
+    # nulln "Learning the world isn''t safe does have that effect, doesn''t it?"
     nulln "一旦明白这世界并不安全，确实也有这种副作用，是吧？"
 
 # game/sean12192024.rpy:11
 translate Schinese sean12192024_d5c585d1:
 
-    # nulln "Just remember, once you go in, you won't come out the same."
-    nulln "但你要记得，进去以后，你就再也无法恢復原样了。"
+    # nulln "Just remember, once you go in, you won''t come out the same."
+    nulln "但你要记得，进去以后，你就再也无法恢复原样了。"
 
 # game/sean12192024.rpy:12
 translate Schinese sean12192024_22a30f8a:
@@ -72,13 +72,13 @@ translate Schinese sean12192024_cd53a528:
 translate Schinese sean12192024_afd3e81a:
 
     # "When was that?"
-    "是几点来着？"
+    "是几点来著？"
 
 # game/sean12192024.rpy:27
 translate Schinese sean12192024_52665a32:
 
     # "I still needed to shower."
-    "我还得冲个澡。"
+    "我还得沖个澡。"
 
 # game/sean12192024.rpy:28
 translate Schinese sean12192024_32303ad2:
@@ -107,62 +107,62 @@ translate Schinese sean12192024_e59f3e43:
 # game/sean12192024.rpy:33
 translate Schinese sean12192024_d4844c36:
 
-    # narrator sideSeanSad "I really only used the app to look at other people being happy. I've gotten a few dms, but I could never press send."
+    # narrator sideSeanSad "I really only used the app to look at other people being happy. I''ve gotten a few dms, but I could never press send."
     narrator sideSeanSad "我用这app基本上只是在看其他人幸福的样子。是有收过几封私聊，但从来没回过。"
 
 # game/sean12192024.rpy:34
 translate Schinese sean12192024_f4f5cccc:
 
-    # narrator sideSeanEmbarrassed "Maybe this time... I mean, he's way out of my league."
+    # narrator sideSeanEmbarrassed "Maybe this time... I mean, he''s way out of my league."
     narrator sideSeanEmbarrassed "也许这次……不过这人我实在高攀不起啊。"
 
 # game/sean12192024.rpy:35
 translate Schinese sean12192024_aa521c6b:
 
     # narrator sideSeanNeutral "Uuugh, what should I say?"
-    narrator sideSeanNeutral "呃呃呃，我该说什麽？"
+    narrator sideSeanNeutral "呃呃呃，我该说什么？"
 
 # game/sean12192024.rpy:36
 translate Schinese sean12192024_50a1b7fc:
 
-    # "Should I just give a 'heyyyy?'"
+    # "Should I just give a ''heyyyy?''"
     "直接写「嗨～～～」吗？"
 
 # game/sean12192024.rpy:37
 translate Schinese sean12192024_bb41a557:
 
-    # "No, I don't want to look like a bottom."
+    # "No, I don''t want to look like a bottom."
     "不行，我不想被当成受。"
 
 # game/sean12192024.rpy:38
 translate Schinese sean12192024_95039ce5:
 
-    # "Maybe I go more formal? Like, \"Hey, how's it goin'?\""
-    "正式一点怎麽样？比如「嗨，你好吗？」"
+    # "Maybe I go more formal? Like, \"Hey, how''s it goin''?\""
+    "正式一点怎么样？比如「嗨，你好吗？」"
 
 # game/sean12192024.rpy:39
 translate Schinese sean12192024_49897671:
 
     # narrator sideSeanAngry "Aaah! Why is this so hard?"
-    narrator sideSeanAngry "呃啊啊！这怎麽这麽难啊？"
+    narrator sideSeanAngry "呃啊啊！这怎么这么难啊？"
 
 # game/sean12192024.rpy:40
 translate Schinese sean12192024_4491b579:
 
-    # narrator sideSeanNeutral "Maybe I shouldn't send anything."
+    # narrator sideSeanNeutral "Maybe I shouldn''t send anything."
     narrator sideSeanNeutral "或许就不该回他。"
 
 # game/sean12192024.rpy:47
 translate Schinese sean12192024_0659b993:
 
-    # narrator sideSeanEmbarrassed "Welp, at least he knows he's messaging a bottom..."
+    # narrator sideSeanEmbarrassed "Welp, at least he knows he''s messaging a bottom..."
     narrator sideSeanEmbarrassed "嗯，至少他知道我是受了……"
 
 # game/sean12192024.rpy:48
 translate Schinese sean12192024_d7e27e03:
 
     # "Why did I do that?"
-    "我怎麽就那样回话了？"
+    "我怎么就那样回话了？"
 
 # game/sean12192024.rpy:52
 translate Schinese sean12192024_300a0956:
@@ -173,7 +173,7 @@ translate Schinese sean12192024_300a0956:
 # game/sean12192024.rpy:53
 translate Schinese sean12192024_93b76007:
 
-    # "Let's hope he can carry the conversation."
+    # "Let''s hope he can carry the conversation."
     "希望他能主持话题。"
 
 # game/sean12192024.rpy:57
@@ -203,7 +203,7 @@ translate Schinese sean12192024_c3d47485:
 # game/sean12192024.rpy:67
 translate Schinese sean12192024_59979443:
 
-    # narrator sideSeanSmile "Ok, show that you care. Don't wanna mess this up."
+    # narrator sideSeanSmile "Ok, show that you care. Don''t wanna mess this up."
     narrator sideSeanSmile "好，表示出你的态度，别搞砸了。"
 
 # game/sean12192024.rpy:71
@@ -222,30 +222,30 @@ translate Schinese sean12192024_82f5f9bb:
 translate Schinese sean12192024_61056f4b:
 
     # narrator sideSeanEmbarrassed "WHY DID I SEND THAT? WHY DID I SEND THAT? WHY DID I SEND THAT?"
-    narrator sideSeanEmbarrassed "{b}我怎麽那样回了？我怎麽那样回了？我怎麽那样回了？{/b}"
+    narrator sideSeanEmbarrassed "{b}我怎么那样回了？我怎么那样回了？我怎么那样回了？{/b}"
 
 # game/sean12192024.rpy:79
 translate Schinese sean12192024_af4ae67c:
 
-    # narrator sideSeanNeutral "Welp that's dealt with. I plop my phone on the night stand and begin showering."
-    narrator sideSeanNeutral "好，处理完了。我把手机放在床头柜上，开始冲澡。"
+    # narrator sideSeanNeutral "Welp that''s dealt with. I plop my phone on the night stand and begin showering."
+    narrator sideSeanNeutral "好，处理完了。我把手机放在床头柜上，开始沖澡。"
 
 # game/sean12192024.rpy:84
 translate Schinese sean12192024_7e65354b:
 
-    # narrator sideSeanNeutral "Although I didn't mind the communal showers of the dorms, it was nice to not hear anyone else come in. I could be alone with my thoughts and just melt under the uncomfortably hot water."
+    # narrator sideSeanNeutral "Although I didn''t mind the communal showers of the dorms, it was nice to not hear anyone else come in. I could be alone with my thoughts and just melt under the uncomfortably hot water."
     narrator sideSeanNeutral "我虽然不嫌弃宿舍的公共浴室，但不必听到其他人的动静还是很棒的。我能沉浸在思考中，被热到不太舒服的洗澡水淋到快溶化。"
 
 # game/sean12192024.rpy:85
 translate Schinese sean12192024_4b18a300:
 
     # "No matter where you went, showers would either boil you alive, or give you hypothermia."
-    "不管在哪，洗澡水要麽能把人煮熟，要麽会让人失温。"
+    "不管在哪，洗澡水要么能把人煮熟，要么会让人失温。"
 
 # game/sean12192024.rpy:86
 translate Schinese sean12192024_2d7b22b9:
 
-    # narrator sideSeanSmile "Thankfully it doesn't take long for my body to adjust to the scalding temperature."
+    # narrator sideSeanSmile "Thankfully it doesn''t take long for my body to adjust to the scalding temperature."
     narrator sideSeanSmile "幸好我身体没多久就适应了这个超烫高温。"
 
 # game/sean12192024.rpy:88
@@ -263,8 +263,8 @@ translate Schinese sean12192024_aa826bdb:
 # game/sean12192024.rpy:92
 translate Schinese sean12192024_ba4c2dce:
 
-    # seanMom sideSeanScared "Sean, Rocco's here!"
-    seanMom sideSeanScared "Sean，Rocco来囉！"
+    # seanMom sideSeanScared "Sean, Rocco''s here!"
+    seanMom sideSeanScared "Sean，Rocco来啰！"
 
 translate Schinese strings:
 
@@ -281,7 +281,7 @@ translate Schinese strings:
     new "嗨，你好吗？"
 
     # game/sean12192024.rpy:59
-    old "What's up?"
+    old "What''s up?"
     new "在干嘛？"
 
     # game/sean12192024.rpy:64

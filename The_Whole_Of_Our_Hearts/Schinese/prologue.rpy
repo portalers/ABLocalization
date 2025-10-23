@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-09-30 23:38
+# TODO: Translation updated at 2025-09-30 23:38
 
 # game/prologue.rpy:17
 translate Schinese prologue_773bfa4d:
@@ -21,7 +21,7 @@ translate Schinese prologue_f6770a4b:
 # game/prologue.rpy:27
 translate Schinese prologue_3665ec24:
 
-    # arthur "I'm still mad you lost my aux."
+    # arthur "I''m still mad you lost my aux."
     arthur "我还是很气你把我播放器搞丢了。"
 
 # game/prologue.rpy:30
@@ -58,13 +58,13 @@ translate Schinese prologue_f71709a7:
 translate Schinese prologue_3e89d463:
 
     # "His body draped over the center as he continued digging. Sounds of ruffling bags came from behind."
-    "他整个人鑽过座椅中央翻找，行囊碰撞声随之传来。"
+    "他整个人钻过座椅中央翻找，行囊碰撞声随之传来。"
 
 # game/prologue.rpy:54
 translate Schinese prologue_e8443b6a:
 
     # "Followed by the donk of his baritone sax falling on him."
-    "紧接着，他的上低音萨克斯风倾倒，把他砸了个正着。"
+    "紧接著，他的上低音萨克斯风倾倒，把他砸了个正著。"
 
 # game/prologue.rpy:59
 translate Schinese prologue_fe1196ed:
@@ -81,7 +81,7 @@ translate Schinese prologue_2c67f17e:
 # game/prologue.rpy:73
 translate Schinese prologue_821d4984:
 
-    # "The wrappers and fast food bags certainly weren't helping as he fumbled about."
+    # "The wrappers and fast food bags certainly weren''t helping as he fumbled about."
     "一堆包装纸跟速食纸袋自然也是一大阻碍。"
 
 # game/prologue.rpy:74
@@ -93,7 +93,7 @@ translate Schinese prologue_24bff0de:
 # game/prologue.rpy:75
 translate Schinese prologue_979cdaeb:
 
-    # "I try to push them away, but it doesn't take long for Arthur to roll back over. A gentle purr coming from him."
+    # "I try to push them away, but it doesn''t take long for Arthur to roll back over. A gentle purr coming from him."
     "我是想推开，但没多久Arthur就把身子转了回来，发出一阵柔和的咕噜声。"
 
 # game/prologue.rpy:86
@@ -106,12 +106,12 @@ translate Schinese prologue_3d360c93:
 translate Schinese prologue_c5485969:
 
     # "Arthur holds the small wire triumphantly in his paw."
-    "Arthur炫耀着爪中的细线。"
+    "Arthur炫耀著爪中的细线。"
 
 # game/prologue.rpy:97
 translate Schinese prologue_40364173:
 
-    # "He plugs it into his phone, and begins to play some instrumental music I'd never heard."
+    # "He plugs it into his phone, and begins to play some instrumental music I''d never heard."
     "待他接上手机后，我没听过的纯乐器曲子就播放了出来。"
 
 # game/prologue.rpy:98
@@ -123,7 +123,7 @@ translate Schinese prologue_c6f33e92:
 # game/prologue.rpy:99
 translate Schinese prologue_05b02310:
 
-    # "This time they were some Swedish group named after our galaxy. I didn't really catch the name, nor did I entirely care."
+    # "This time they were some Swedish group named after our galaxy. I didn''t really catch the name, nor did I entirely care."
     "这次是以我们星系命名的瑞典乐团。我记不太清具体是啥名了，反正也不太在意。"
 
 # game/prologue.rpy:100
@@ -154,7 +154,7 @@ translate Schinese prologue_da41575a:
 translate Schinese prologue_22ca593d:
 
     # "That golden hue filling the sky. The twilight hours slowly descending upon us. The empty highway wrapping its way through the wooded mountain side."
-    "夜幕将至，天空一片金黄。空荡荡的高速公路围绕着一片山林。"
+    "夜幕将至，天空一片金黄。空蕩蕩的高速公路围绕著一片山林。"
 
 # game/prologue.rpy:110
 translate Schinese prologue_48773ddd:
@@ -166,12 +166,12 @@ translate Schinese prologue_48773ddd:
 translate Schinese prologue_ad7f0afd:
 
     # sean "Maybe. Why?"
-    sean "或许吧，怎麽了？"
+    sean "或许吧，怎么了？"
 
 # game/prologue.rpy:116
 translate Schinese prologue_e5a96d73:
 
-    # arthur "I, well, I still haven't told my parents I'm- I just, well."
+    # arthur "I, well, I still haven''t told my parents I''m- I just, well."
     arthur "我，那个，还没跟我家人说我是——我就是，唉。"
 
 # game/prologue.rpy:119
@@ -183,25 +183,25 @@ translate Schinese prologue_07538da6:
 # game/prologue.rpy:124
 translate Schinese prologue_739bb24f:
 
-    # arthur "I don't know how they'll react, you know how my Mom is. I know, I'm an adult so it's not like they can do anything about it. But..."
+    # arthur "I don''t know how they''ll react, you know how my Mom is. I know, I''m an adult so it''s not like they can do anything about it. But..."
     arthur "我不知道他们会作何感想，你也知道我妈是那个样子。我也知道我已经成年了，他们当然是没法干嘛，只是……"
 
 # game/prologue.rpy:127
 translate Schinese prologue_f73ba61b:
 
-    # "We look at each other for a moment. Arthur's leg is shaking, paws clasped together. As our eyes met he quickly looks out the window. I refocuse my gaze on the road."
-    "我们互视一眼。Arthur双腿颤抖、双掌交扣。一对上目光，他就把视线转向窗外，我则继续看着前方道路。"
+    # "We look at each other for a moment. Arthur''s leg is shaking, paws clasped together. As our eyes met he quickly looks out the window. I refocuse my gaze on the road."
+    "我们互视一眼。Arthur双腿颤抖、双掌交扣。一对上目光，他就把视线转向窗外，我则继续看著前方道路。"
 
 # game/prologue.rpy:130
 translate Schinese prologue_fc8e5ccb:
 
-    # arthur "I know you guys are the only ones I've come out to, but still. I just- I need more time to think of how to tell them."
-    arthur "我也只跟你们出柜过了，但我——我还需要点时间准备怎麽告诉他们。"
+    # arthur "I know you guys are the only ones I''ve come out to, but still. I just- I need more time to think of how to tell them."
+    arthur "我也只跟你们出柜过了，但我——我还需要点时间准备怎么告诉他们。"
 
 # game/prologue.rpy:131
 translate Schinese prologue_175c8662:
 
-    # arthur "I don't think pulling that bandaid off when I get back would be wise. Since I'm so close to finishing college and they're helping with that. Plus with everything going on politically, you know-"
+    # arthur "I don''t think pulling that bandaid off when I get back would be wise. Since I''m so close to finishing college and they''re helping with that. Plus with everything going on politically, you know-"
     arthur "一回去就直接说应该不是个好办法，毕竟我也快大学毕业了，他们还帮我付学费呢。你也知道，还有政治情势的——"
 
 # game/prologue.rpy:134
@@ -213,13 +213,13 @@ translate Schinese prologue_c73ad94c:
 # game/prologue.rpy:137
 translate Schinese prologue_04404bad:
 
-    # sean "Dude. It's cool, we'll figure something out. I think Cody got an apartment since his folks moved out to Toast. You might be able to crash there."
+    # sean "Dude. It''s cool, we''ll figure something out. I think Cody got an apartment since his folks moved out to Toast. You might be able to crash there."
     sean "没事的，我们慢慢来。Cody父母搬去了托斯特，他一个人就租了间公寓。你应该可以借住那边。"
 
 # game/prologue.rpy:142
 translate Schinese prologue_b68c2ace:
 
-    # arthur "Sorry I'm being a-"
+    # arthur "Sorry I''m being a-"
     arthur "抱歉给你们添——"
 
 # game/prologue.rpy:145
@@ -231,20 +231,20 @@ translate Schinese prologue_befb34bf:
 # game/prologue.rpy:148
 translate Schinese prologue_a83732d2:
 
-    # sean "There's nothing to be sorry about."
-    sean "用不着道歉。"
+    # sean "There''s nothing to be sorry about."
+    sean "用不著道歉。"
 
 # game/prologue.rpy:157
 translate Schinese prologue_44ae74de:
 
     # "I turn off the highway. Gently coasting my way down the mountain side. The sun fading over the horizon as we descend into the shadowed valley below."
-    "我下了高速，缓缓驶下山。随着我们降到背阴的山谷里，太阳也渐渐落至地平线下。"
+    "我下了高速，缓缓驶下山。随著我们降到背阴的山谷里，太阳也渐渐落至地平线下。"
 
 # game/prologue.rpy:158
 translate Schinese prologue_52b73f24:
 
     # "Carthage was never a hotspot. A small place nestled deep in the mountains. The kind that most mapping sites forgot about."
-    "迦太基一向没什麽人气，只是座深山小镇，甚至不会出现在大部分地图上。"
+    "迦太基一向没什么人气，只是座深山小镇，甚至不会出现在大部分地图上。"
 
 # game/prologue.rpy:159
 translate Schinese prologue_9e8072f3:
@@ -261,7 +261,7 @@ translate Schinese prologue_a1cc07c5:
 # game/prologue.rpy:165
 translate Schinese prologue_99527771:
 
-    # arthur "He still doesn't have a car?"
+    # arthur "He still doesn''t have a car?"
     arthur "他还是没车吗？"
 
 # game/prologue.rpy:168
@@ -273,7 +273,7 @@ translate Schinese prologue_8619f2c6:
 # game/prologue.rpy:171
 translate Schinese prologue_6a80a97c:
 
-    # sean "All he said was 'Pick me up when you get back.' So I guess not."
+    # sean "All he said was ''Pick me up when you get back.'' So I guess not."
     sean "他只写「到了先接我。」所以大概没有吧。"
 
 # game/prologue.rpy:174
@@ -291,14 +291,14 @@ translate Schinese prologue_42cdbd01:
 # game/prologue.rpy:176
 translate Schinese prologue_5597438a:
 
-    # "We would have the month to spend together now that Arthur and I are on break. However, Rocco's a full time adult, and Cody is pushing through his last year of med school."
+    # "We would have the month to spend together now that Arthur and I are on break. However, Rocco''s a full time adult, and Cody is pushing through his last year of med school."
     "我跟Arthur现在放假，所以有一个月的时间。然而Rocco已经出了社会，而Cody正在医学院最后一年打拼。"
 
 # game/prologue.rpy:177
 translate Schinese prologue_244322cf:
 
-    # "He just wanted to guarantee one last hangout with everyone. I can't blame him."
-    "他说什麽都想让大伙们最后再聚一次。这也怪不得他。"
+    # "He just wanted to guarantee one last hangout with everyone. I can''t blame him."
+    "他说什么都想让大伙们最后再聚一次。这也怪不得他。"
 
 # game/prologue.rpy:178
 translate Schinese prologue_dd9514e7:
@@ -310,24 +310,24 @@ translate Schinese prologue_dd9514e7:
 translate Schinese prologue_ab2cc75e:
 
     # arthur "Thanks. For helping me through this. Just being here for me means a lot."
-    arthur "谢谢你帮我度过这道难关了。光有你陪着就很够了。"
+    arthur "谢谢你帮我度过这道难关了。光有你陪著就很够了。"
 
 # game/prologue.rpy:184
 translate Schinese prologue_13b79e1d:
 
-    # sean "It's not like you were never there for me. I was a mess after I came out to you."
-    sean "我当时也是有你陪着啊。向你出柜那时我根本就一团糟。"
+    # sean "It''s not like you were never there for me. I was a mess after I came out to you."
+    sean "我当时也是有你陪著啊。向你出柜那时我根本就一团糟。"
 
 # game/prologue.rpy:189
 translate Schinese prologue_0ca73e42:
 
-    # arthur "Heh, yeah. Brings me back you know, but l-like we've swapped roles. Feels like when you talked to me about having a crush on Casey."
+    # arthur "Heh, yeah. Brings me back you know, but l-like we''ve swapped roles. Feels like when you talked to me about having a crush on Casey."
     arthur "哈，也是。让我回想起来了，只不过这、这次角色颠倒了。很像你跟我说你对Casey有意思的时候呢。"
 
 # game/prologue.rpy:193
 translate Schinese prologue_4595c8a1:
 
-    # narrator sideSeanSad "The words stabbed my heart harder than I expected. I hadn't thought about Casey all year. It had been three and a half since-"
+    # narrator sideSeanSad "The words stabbed my heart harder than I expected. I hadn''t thought about Casey all year. It had been three and a half since-"
     narrator sideSeanSad "这句话超乎预想，深深刺穿我的心。我一整年都没想起Casey了。这都过了三年半了，自从——"
 
 # game/prologue.rpy:194
@@ -339,7 +339,7 @@ translate Schinese prologue_6104fb50:
 # game/prologue.rpy:199
 translate Schinese prologue_e2001a5a:
 
-    # arthur "Shit- I'm sorry. I didn't- I wasn't thinking when I-"
+    # arthur "Shit- I''m sorry. I didn''t- I wasn''t thinking when I-"
     arthur "操，抱歉，我不、我没想——"
 
 # game/prologue.rpy:202
@@ -352,30 +352,30 @@ translate Schinese prologue_598561f8:
 translate Schinese prologue_cb143886:
 
     # "I wiped the small start of tears from my eyes. I knew the lion was looking at me."
-    "我擦去盈眶的热泪，深知狮子正望着我。"
+    "我擦去盈眶的热泪，深知狮子正望著我。"
 
 # game/prologue.rpy:208
 translate Schinese prologue_0e151dac:
 
-    # sean sideSeanNeutral "It's ok."
+    # sean sideSeanNeutral "It''s ok."
     sean sideSeanNeutral "没事。"
 
 # game/prologue.rpy:213
 translate Schinese prologue_413b4301:
 
-    # "We sat in silence listening to the last of the 'folktronic' band Arthur had pulled up."
-    "我们静静坐着，聆听Arthur播的最后一首「素人电音」。"
+    # "We sat in silence listening to the last of the ''folktronic'' band Arthur had pulled up."
+    "我们静静坐著，聆听Arthur播的最后一首「素人电音」。"
 
 # game/prologue.rpy:214
 translate Schinese prologue_7bf207db:
 
-    # "At this point we weren't far from the hotel. I wouldn't mind getting out to stretch. Though, knowing Rocco, he would want to leave asap."
-    "已经离旅馆不远了。我是很想下车伸展一下，但认识Rocco这麽久，我知道他肯定一刻都不想多待。"
+    # "At this point we weren''t far from the hotel. I wouldn''t mind getting out to stretch. Though, knowing Rocco, he would want to leave asap."
+    "已经离旅馆不远了。我是很想下车伸展一下，但认识Rocco这么久，我知道他肯定一刻都不想多待。"
 
 # game/prologue.rpy:215
 translate Schinese prologue_b6f19684:
 
-    # "I guess we could at Cody's."
+    # "I guess we could at Cody''s."
     "等到了Cody家再下车吧。"
 
 # game/prologue.rpy:224
@@ -387,7 +387,7 @@ translate Schinese prologue_e811d3a0:
 # game/prologue.rpy:225
 translate Schinese prologue_904d0584:
 
-    # "Usually people pass through Carthage. If anyone was staying, it's to spend the night on their trip to the east coast. That was typically one or two cars."
+    # "Usually people pass through Carthage. If anyone was staying, it''s to spend the night on their trip to the east coast. That was typically one or two cars."
     "大家通常只会路过迦太基。就算有人住下，也只是在通往东岸的路程上暂宿一晚。一般也就一两辆车。"
 
 # game/prologue.rpy:226
@@ -411,14 +411,14 @@ translate Schinese prologue_8a789bb7:
 # game/prologue.rpy:245
 translate Schinese prologue_6fe9878d:
 
-    # narrator sideSeanSmile "Outside stood a 6' 3\" husky. The man's cold, white, eyes peered in through the window. He was more muscular than I remember."
-    narrator sideSeanSmile "一隻6呎3的哈士奇站在窗外，用冷峻的白瞳望穿窗户。体型比我记忆中更加壮实。"
+    # narrator sideSeanSmile "Outside stood a 6'' 3\" husky. The man''s cold, white, eyes peered in through the window. He was more muscular than I remember."
+    narrator sideSeanSmile "一只6呎3的哈士奇站在窗外，用冷峻的白瞳望穿窗户。体型比我记忆中更加壮实。"
 
 # game/prologue.rpy:246
 translate Schinese prologue_f8ce75f1:
 
-    # "He was wearing a white button down with a black vest and slacks. A fancy getup he wouldn't be caught dead wearing two years ago."
-    "他身穿白色衬衫、黑色背心与长裤。两年前的他死都不会打扮得如此精緻。"
+    # "He was wearing a white button down with a black vest and slacks. A fancy getup he wouldn''t be caught dead wearing two years ago."
+    "他身穿白色衬衫、黑色背心与长裤。两年前的他死都不会打扮得如此精致。"
 
 # game/prologue.rpy:247
 translate Schinese prologue_21e181f3:
@@ -453,7 +453,7 @@ translate Schinese prologue_5fa0457d:
 # game/prologue.rpy:282
 translate Schinese prologue_e41027e2:
 
-    # rocco "Ooooh! Comin' on to me gay boy? I saw you checkin' me out."
+    # rocco "Ooooh! Comin'' on to me gay boy? I saw you checkin'' me out."
     rocco "哦哟！是在撩我吗，小gay炮？我有看到你在打量我。"
 
 # game/prologue.rpy:285
@@ -465,13 +465,13 @@ translate Schinese prologue_f42cc45a:
 # game/prologue.rpy:286
 translate Schinese prologue_a70bc8b2:
 
-    # "He's probably the one straight person in our group. Though we still managed to have a good, platonic, relationship."
-    "他大概是我们一行人里唯一的直男了。不过彼此间的关係还是不错。"
+    # "He''s probably the one straight person in our group. Though we still managed to have a good, platonic, relationship."
+    "他大概是我们一行人里唯一的直男了。不过彼此间的关系还是不错。"
 
 # game/prologue.rpy:287
 translate Schinese prologue_65952042:
 
-    # "Even if he would tease me about my 'gayness'."
+    # "Even if he would tease me about my ''gayness''."
     "虽说他会调侃我的「基情度」。"
 
 # game/prologue.rpy:288
@@ -483,67 +483,67 @@ translate Schinese prologue_d9e54f72:
 # game/prologue.rpy:291
 translate Schinese prologue_0bc4c682:
 
-    # rocco "So, how's the college gang doin'?"
+    # rocco "So, how''s the college gang doin''?"
     rocco "你俩大学生过得如何啊？"
 
 # game/prologue.rpy:296
 translate Schinese prologue_47fd98a0:
 
-    # arthur sideSeanSmile "I'm surviving. Gonna start student teaching next semester, so that'll be fun!"
-    arthur sideSeanSmile "得过且过吧。下学期就要开始教学生了，有得乐囉！"
+    # arthur sideSeanSmile "I''m surviving. Gonna start student teaching next semester, so that''ll be fun!"
+    arthur sideSeanSmile "得过且过吧。下学期就要开始教学生了，有得乐啰！"
 
 # game/prologue.rpy:299
 translate Schinese prologue_44c1fedb:
 
-    # rocco "Cool! You goin' over to Elwood Elementary?"
+    # rocco "Cool! You goin'' over to Elwood Elementary?"
     rocco "酷耶！是要去埃尔伍德小学？"
 
 # game/prologue.rpy:302
 translate Schinese prologue_640601b1:
 
-    # arthur "Nah, I know the music teacher over at Monroe's middle school. We play jazz together at a local club. He got me a position to help out for a bit."
+    # arthur "Nah, I know the music teacher over at Monroe''s middle school. We play jazz together at a local club. He got me a position to help out for a bit."
     arthur "不是，我跟梦露中学的音乐老师认识。我们在当地俱乐部一起演奏爵士乐。他帮我找了个岗位。"
 
 # game/prologue.rpy:305
 translate Schinese prologue_9608a058:
 
-    # rocco "Hell yeah! You're still doin' that?"
+    # rocco "Hell yeah! You''re still doin'' that?"
     rocco "爽耶！你还有玩音乐啊？"
 
 # game/prologue.rpy:308
 translate Schinese prologue_97a69bc9:
 
-    # arthur "Yeah, it's a lot easier in the college town. More people and all that jazz. Plus we're big enough, so I can drop the alto and bust out my bari!"
+    # arthur "Yeah, it''s a lot easier in the college town. More people and all that jazz. Plus we''re big enough, so I can drop the alto and bust out my bari!"
     arthur "对呀，在大学城里容易多了。人多，玩爵士乐的也多。我都不用吹高音了，直接把中低音拿出来玩！"
 
 # game/prologue.rpy:311
 translate Schinese prologue_ad15979e:
 
-    # rocco "You'll have to text me next time you play! I'll have Cody take me up. We could hang out afterwards!"
+    # rocco "You''ll have to text me next time you play! I''ll have Cody take me up. We could hang out afterwards!"
     rocco "下次你们演奏时给我发个简讯吧！我会叫Cody载我过去。完事后一起去玩！"
 
 # game/prologue.rpy:314
 translate Schinese prologue_7abbe53d:
 
-    # "Arthur doesn't say anything. He would never text me when he was performing. I figured he was just nervous playing for people he knew."
+    # "Arthur doesn''t say anything. He would never text me when he was performing. I figured he was just nervous playing for people he knew."
     "Arthur不作回应。他从不再演奏时找我。我猜是怕在熟人面前表演吧。"
 
 # game/prologue.rpy:315
 translate Schinese prologue_d29558eb:
 
-    # "Though every now and then I'd catch him wandering out into the dead 5 a.m. campus."
+    # "Though every now and then I''d catch him wandering out into the dead 5 a.m. campus."
     "不过偶尔能在清晨5点这死人时间撞见他跑去校区。"
 
 # game/prologue.rpy:316
 translate Schinese prologue_def19684:
 
-    # "He'd sneak over near the business building and play outside for the people cramming during finals. No one ever saw him perform, so he became a campus legend."
+    # "He''d sneak over near the business building and play outside for the people cramming during finals. No one ever saw him perform, so he became a campus legend."
     "他会躲在教学大楼旁，为了众多期末考生奏乐。从来就没人亲眼看见他演奏，已经成了某种校园传奇了。"
 
 # game/prologue.rpy:317
 translate Schinese prologue_c0bbc581:
 
-    # "The ghost of a dead sax player cheering on the crammers of Kramer's."
+    # "The ghost of a dead sax player cheering on the crammers of Kramer''s."
     "在克莱默楼给挣扎考生加油打气的幽灵萨克斯风手。"
 
 # game/prologue.rpy:319
@@ -555,20 +555,20 @@ translate Schinese prologue_bb8edc66:
 # game/prologue.rpy:322
 translate Schinese prologue_d2b7eb85:
 
-    # rocco "How 'bout you?"
+    # rocco "How ''bout you?"
     rocco "那你呢？"
 
 # game/prologue.rpy:325
 translate Schinese prologue_f7e6d4ec:
 
-    # sean "I'm almost done with my mechanical degree. Don't really know what I'm doing after that."
-    sean "我快拿到机械工程学位了，就是不知道之后该做什麽。"
+    # sean "I''m almost done with my mechanical degree. Don''t really know what I''m doing after that."
+    sean "我快拿到机械工程学位了，就是不知道之后该做什么。"
 
 # game/prologue.rpy:328
 translate Schinese prologue_3da64fd0:
 
-    # rocco "Internships didn't pan out? I thought you had at least one lined up."
-    rocco "实习没着落吗？我还以为至少有一两个。"
+    # rocco "Internships didn''t pan out? I thought you had at least one lined up."
+    rocco "实习没著落吗？我还以为至少有一两个。"
 
 # game/prologue.rpy:333
 translate Schinese prologue_0d9aeecc:
@@ -579,7 +579,7 @@ translate Schinese prologue_0d9aeecc:
 # game/prologue.rpy:336
 translate Schinese prologue_130c9363:
 
-    # rocco "Shit man, I'm sorry."
+    # rocco "Shit man, I''m sorry."
     rocco "真操蛋，可惜了。"
 
 # game/prologue.rpy:339
@@ -592,12 +592,12 @@ translate Schinese prologue_3d1c88d7:
 translate Schinese prologue_34edb07a:
 
     # sean "It happens. Hey, know why there were so many cars?"
-    sean "这也没办法。话说，你知道车怎麽那麽多吗？"
+    sean "这也没办法。话说，你知道车怎么那么多吗？"
 
 # game/prologue.rpy:351
 translate Schinese prologue_3c3cda6c:
 
-    # rocco "I guess the news hasn't gotten out of town yet."
+    # rocco "I guess the news hasn''t gotten out of town yet."
     rocco "看来新闻还没传出镇外啊。"
 
 # game/prologue.rpy:354
@@ -615,8 +615,8 @@ translate Schinese prologue_0caa97f7:
 # game/prologue.rpy:358
 translate Schinese prologue_2c4a9268:
 
-    # rocco "It opened up like Sunday. Dead fuckin' center of town. It's some 'geologic wonder'."
-    rocco "记得是在礼拜天吧。直接开在他妈的镇中心，说是什麽「地理奇观」。"
+    # rocco "It opened up like Sunday. Dead fuckin'' center of town. It''s some ''geologic wonder''."
+    rocco "记得是在礼拜天吧。直接开在他妈的镇中心，说是什么「地理奇观」。"
 
 # game/prologue.rpy:361
 translate Schinese prologue_c9def6cd:
@@ -633,7 +633,7 @@ translate Schinese prologue_e59adefa:
 # game/prologue.rpy:369
 translate Schinese prologue_a7f2c34a:
 
-    # rocco "You're gonna wanna go down 5th then onto Aspin. Most of Main Street and Pine are blocked off 'cuz of our new 'town wonder'."
+    # rocco "You''re gonna wanna go down 5th then onto Aspin. Most of Main Street and Pine are blocked off ''cuz of our new ''town wonder''."
     rocco "走5号路拐杨木街吧。咱们这个新「奇观」把主大街和松木街大半都堵死了。"
 
 # game/prologue.rpy:372
@@ -657,19 +657,19 @@ translate Schinese prologue_00e345f7:
 # game/prologue.rpy:390
 translate Schinese prologue_79dad79d:
 
-    # rocco "If you're fine weaving through news vans. Fucking press just leaves them all over the place. They act like they own our roads."
-    rocco "如果愿意鑽过一堆新闻车，你大可试试。白痴报社瞎鸡巴乱停，好像路是他们开的一样。"
+    # rocco "If you''re fine weaving through news vans. Fucking press just leaves them all over the place. They act like they own our roads."
+    rocco "如果愿意钻过一堆新闻车，你大可试试。白癡报社瞎鸡巴乱停，好像路是他们开的一样。"
 
 # game/prologue.rpy:393
 translate Schinese prologue_f22e7a93:
 
-    # sean "No one's talked to them about it?"
+    # sean "No one''s talked to them about it?"
     sean "没人去跟他们抱怨吗？"
 
 # game/prologue.rpy:396
 translate Schinese prologue_f4b95729:
 
-    # rocco "I got no idea. I haven't seen anyone around town. They just ditched their shit near the hole."
+    # rocco "I got no idea. I haven''t seen anyone around town. They just ditched their shit near the hole."
     rocco "我不知道。在镇上没看人出现过，光把东西丢坑附近了。"
 
 # game/prologue.rpy:399
@@ -681,13 +681,13 @@ translate Schinese prologue_aa1f4d94:
 # game/prologue.rpy:402
 translate Schinese prologue_f5eab9e6:
 
-    # rocco "I think so. Like I said, I don't remember seeing anyone. They got shit near it, so I assume someone's looking into it."
+    # rocco "I think so. Like I said, I don''t remember seeing anyone. They got shit near it, so I assume someone''s looking into it."
     rocco "应该有。但我刚才也说过，我没看过任何人来。东西都在坑附近了，我就觉得应该有人在调查吧。"
 
 # game/prologue.rpy:409
 translate Schinese prologue_a9a4ea94:
 
-    # arthur "Then the hotel's gotta be busy?"
+    # arthur "Then the hotel''s gotta be busy?"
     arthur "那旅馆不就很忙？"
 
 # game/prologue.rpy:414
@@ -699,25 +699,25 @@ translate Schinese prologue_a6acb76d:
 # game/prologue.rpy:417
 translate Schinese prologue_b9359d33:
 
-    # arthur "Why's that?"
-    arthur "为什麽？"
+    # arthur "Why''s that?"
+    arthur "为什么？"
 
 # game/prologue.rpy:421
 translate Schinese prologue_ddf7756b:
 
-    # rocco "No one's stopped by when I'm on duty. I think the computer says we have like seven or eight rooms booked."
+    # rocco "No one''s stopped by when I''m on duty. I think the computer says we have like seven or eight rooms booked."
     rocco "我站岗的时候没人来。电脑上是写有七八个房间被订了。"
 
 # game/prologue.rpy:422
 translate Schinese prologue_4c3a1596:
 
-    # rocco "Yet I haven't seen anyone come in or out."
+    # rocco "Yet I haven''t seen anyone come in or out."
     rocco "但我一直都没看到有人进出。"
 
 # game/prologue.rpy:425
 translate Schinese prologue_1ea4971a:
 
-    # sean "Weird... They haven't even walked in to grab something from their room?"
+    # sean "Weird... They haven''t even walked in to grab something from their room?"
     sean "真奇怪……都没人去房里拿东西吗？"
 
 # game/prologue.rpy:428
@@ -735,31 +735,31 @@ translate Schinese prologue_4f9f9c54:
 # game/prologue.rpy:432
 translate Schinese prologue_0a61b3b5:
 
-    # "Rocco didn't say anything about it. Hopefully no one was hurt."
+    # "Rocco didn''t say anything about it. Hopefully no one was hurt."
     "这部分Rocco没提，但愿没人受伤。"
 
 # game/prologue.rpy:436
 translate Schinese prologue_fe2f434a:
 
-    # arthur sideSeanNeutral "Oh! What's Cody been up to? How's med school going for him?"
-    arthur sideSeanNeutral "喔对了！Cody过得好吗？医学院怎麽样？"
+    # arthur sideSeanNeutral "Oh! What''s Cody been up to? How''s med school going for him?"
+    arthur sideSeanNeutral "喔对了！Cody过得好吗？医学院怎么样？"
 
 # game/prologue.rpy:440
 translate Schinese prologue_2e1271ce:
 
     # narrator sideSeanConcerned "Rocco lets out a hiss through his teeth. I see him lean back into his seat through the rear view mirror. His eyes looking vacantly out into the dark wilderness."
-    narrator sideSeanConcerned "Rocco唇齿间发出嘶嘶声。我在后视镜中看见他缩回座位上，眼神空洞地望着黑暗的荒野。"
+    narrator sideSeanConcerned "Rocco唇齿间发出嘶嘶声。我在后视镜中看见他缩回座位上，眼神空洞地望著黑暗的荒野。"
 
 # game/prologue.rpy:444
 translate Schinese prologue_242d703c:
 
-    # rocco "Don't bring up college with Cody. Last semester was rough for him."
+    # rocco "Don''t bring up college with Cody. Last semester was rough for him."
     rocco "别跟Cody提起大学。他上个学期过得很糟。"
 
 # game/prologue.rpy:447
 translate Schinese prologue_3438badd:
 
-    # narrator sideSeanNeutral "Cody was practically the smartest one out of all of us. Last I heard he had a 3.6 at Stanton's med school."
+    # narrator sideSeanNeutral "Cody was practically the smartest one out of all of us. Last I heard he had a 3.6 at Stanton''s med school."
     narrator sideSeanNeutral "Cody是我们之中最聪明的。上次我听说他在斯坦顿医学院的GPA是3.6。"
 
 # game/prologue.rpy:448
@@ -778,24 +778,24 @@ translate Schinese prologue_dc1366fe:
 translate Schinese prologue_3b7e7868:
 
     # arthur sideSeanConcerned "W-what happened?"
-    arthur sideSeanConcerned "发、发生什麽事了？"
+    arthur sideSeanConcerned "发、发生什么事了？"
 
 # game/prologue.rpy:456
 translate Schinese prologue_4e5ffbb4:
 
-    # "Arthur's voice cracked as the words came out."
+    # "Arthur''s voice cracked as the words came out."
     "Arthur挤出几个字来。"
 
 # game/prologue.rpy:459
 translate Schinese prologue_34f3bf3d:
 
-    # rocco "I don't know all the details. I just got a call from him one night."
+    # rocco "I don''t know all the details. I just got a call from him one night."
     rocco "我不清楚详情，只是在某一晚接了他的电话。"
 
 # game/prologue.rpy:462
 translate Schinese prologue_3025361e:
 
-    # rocco "He wouldn't stop crying. Kept sayin' that he fucked up. That he was dropping out."
+    # rocco "He wouldn''t stop crying. Kept sayin'' that he fucked up. That he was dropping out."
     rocco "他哭个不停，说是搞砸了，打算辍学。"
 
 # game/prologue.rpy:463
@@ -826,7 +826,7 @@ translate Schinese prologue_8460dc80:
 translate Schinese prologue_f45fc891:
 
     # "He paused. Continuing to stare out the window into the cold, dark, night."
-    "他顿了顿，依旧望着窗外冰冷的暗夜。"
+    "他顿了顿，依旧望著窗外冰冷的暗夜。"
 
 # game/prologue.rpy:479
 translate Schinese prologue_18896e59:
@@ -844,54 +844,54 @@ translate Schinese prologue_bd0acc33:
 translate Schinese prologue_d3cb6e17:
 
     # rocco "After a bit he said he was gonna come back... live on his own for a while. Figure shit out."
-    rocco "接着，他就说要回来……先自己住一阵子，思考人生。"
+    rocco "接著，他就说要回来……先自己住一阵子，思考人生。"
 
 # game/prologue.rpy:488
 translate Schinese prologue_bd20e5ad:
 
     # "I heard Arthur whisper a concerned \"damn\" as we both just watched the road."
-    "我俩望着前路，只听Arthur低呼一声「我靠」。"
+    "我俩望著前路，只听Arthur低呼一声「我靠」。"
 
 # game/prologue.rpy:491
 translate Schinese prologue_2aa0b717:
 
-    # rocco "Whatever happened it just... fucked him up. Don't bring it up unless he does."
-    rocco "不管发生了什麽，总之……就是压垮他了。他没提的话就别谈。"
+    # rocco "Whatever happened it just... fucked him up. Don''t bring it up unless he does."
+    rocco "不管发生了什么，总之……就是压垮他了。他没提的话就别谈。"
 
 # game/prologue.rpy:494
 translate Schinese prologue_b846a98a:
 
-    # "I didn't know how to respond to that."
+    # "I didn''t know how to respond to that."
     "我不知道该作何回应。"
 
 # game/prologue.rpy:498
 translate Schinese prologue_e804fde6:
 
-    # rocco "I don't know anymore than that. I don't want to talk about it any more. So let's just avoid the topic."
-    rocco "我知道的就这麽多，也不想再多谈。就别聊这个话题了。"
+    # rocco "I don''t know anymore than that. I don''t want to talk about it any more. So let''s just avoid the topic."
+    rocco "我知道的就这么多，也不想再多谈。就别聊这个话题了。"
 
 # game/prologue.rpy:501
 translate Schinese prologue_ba9dd5f6:
 
-    # "We sat in silence for a minute. Slowly following Aspin to Cody's."
-    "我们沉默了好一阵子，随着杨木街慢慢驶向Cody家。"
+    # "We sat in silence for a minute. Slowly following Aspin to Cody''s."
+    "我们沉默了好一阵子，随著杨木街慢慢驶向Cody家。"
 
 # game/prologue.rpy:504
 translate Schinese prologue_7a1aede8:
 
-    # arthur "I'm sorry to hear that."
+    # arthur "I''m sorry to hear that."
     arthur "真遗憾。"
 
 # game/prologue.rpy:507
 translate Schinese prologue_201338d4:
 
     # rocco "Not your shit to deal with. We wanted to make sure you guys could still focus on your school stuff."
-    rocco "用不着你操心。我们还是希望你俩能专注在自己的课业上。"
+    rocco "用不著你操心。我们还是希望你俩能专注在自己的课业上。"
 
 # game/prologue.rpy:508
 translate Schinese prologue_ab54e732:
 
-    # rocco "You shouldn't have to worry about us."
+    # rocco "You shouldn''t have to worry about us."
     rocco "别分心在我们身上。"
 
 # game/prologue.rpy:511
@@ -903,25 +903,25 @@ translate Schinese prologue_c8483b13:
 # game/prologue.rpy:514
 translate Schinese prologue_b9b4e2b3:
 
-    # "I could hear Rocco's claws tap on the sax case."
-    "Rocco爪子敲着萨克斯风箱。"
+    # "I could hear Rocco''s claws tap on the sax case."
+    "Rocco爪子敲著萨克斯风箱。"
 
 # game/prologue.rpy:518
 translate Schinese prologue_adffcf9e:
 
-    # rocco "Look, he's been giving me rides to work, and I've been checking up on him daily. It's nothing you need to worry about."
-    rocco "现在是这样，他会载我上班，我会每天探望他。你们没什麽好担心的。"
+    # rocco "Look, he''s been giving me rides to work, and I''ve been checking up on him daily. It''s nothing you need to worry about."
+    rocco "现在是这样，他会载我上班，我会每天探望他。你们没什么好担心的。"
 
 # game/prologue.rpy:521
 translate Schinese prologue_2d0d8c90:
 
-    # rocco "He's fine."
+    # rocco "He''s fine."
     rocco "他没事。"
 
 # game/prologue.rpy:526
 translate Schinese prologue_41299879:
 
-    # "Rocco whispers something but I couldn't hear it."
+    # "Rocco whispers something but I couldn''t hear it."
     "Rocco嘀咕了几声，但我没听清。"
 
 # game/prologue.rpy:530
@@ -939,7 +939,7 @@ translate Schinese prologue_eb0fe4d2:
 # game/prologue.rpy:537
 translate Schinese prologue_05fb4836:
 
-    # rocco sideSeanSmile "Oh yeah, yeah we chat inside for a bit. He doesn't have much there, but we can show you around."
+    # rocco sideSeanSmile "Oh yeah, yeah we chat inside for a bit. He doesn''t have much there, but we can show you around."
     rocco sideSeanSmile "也对，可以在里面聊一会儿。他屋里没啥东西，但能先给你们看看。"
 
 # game/prologue.rpy:540
@@ -951,7 +951,7 @@ translate Schinese prologue_ddf1b82f:
 # game/prologue.rpy:546
 translate Schinese prologue_74fb9f15:
 
-    # narrator sideSeanSmile "The complex is relatively small. It's a few, old, two-story buildings. Located on the upper outskirts of town."
+    # narrator sideSeanSmile "The complex is relatively small. It''s a few, old, two-story buildings. Located on the upper outskirts of town."
     narrator sideSeanSmile "住宅区算小，就是几栋老旧的双层楼。位于小镇的上层郊区。"
 
 # game/prologue.rpy:547
@@ -975,7 +975,7 @@ translate Schinese prologue_4ba8f44a:
 # game/prologue.rpy:551
 translate Schinese prologue_007763c9:
 
-    # "From what I know, the buildings hadn't been touched since the early 80s. Just general maintenance to keep the few people who lived there from dying."
+    # "From what I know, the buildings hadn''t been touched since the early 80s. Just general maintenance to keep the few people who lived there from dying."
     "据我所知，这些建筑从80年代早期就没动过了。只有一些例行修缮以免住户活不下去。"
 
 # game/prologue.rpy:552
@@ -993,7 +993,7 @@ translate Schinese prologue_e2947e3a:
 # game/prologue.rpy:557
 translate Schinese prologue_fd32398c:
 
-    # rocco "We're going to building 3. The one in the back of the lot."
+    # rocco "We''re going to building 3. The one in the back of the lot."
     rocco "是3号楼，停车场后面那栋。"
 
 # game/prologue.rpy:560
@@ -1042,19 +1042,19 @@ translate Schinese prologue_b3d18c28:
 translate Schinese prologue_4f6a5a3e:
 
     # "Rocco fishes through his pocket, and pulls out a small key ring. He fiddles with the lock for a second; paws shaking."
-    "Rocco翻找口袋，从中掏出一小圈钥匙，双爪颤抖着开锁。"
+    "Rocco翻找口袋，从中掏出一小圈钥匙，双爪颤抖著开锁。"
 
 # game/prologue.rpy:603
 translate Schinese prologue_dde258f8:
 
-    # rocco "I'm coming in!"
+    # rocco "I''m coming in!"
     rocco "我要进去了！"
 
 # game/prologue.rpy:608
 translate Schinese prologue_dc80879a:
 
     # "Rocco yells, letting himself in."
-    "Rocco大喊着闯进门。"
+    "Rocco大喊著闯进门。"
 
 # game/prologue.rpy:609
 translate Schinese prologue_f1c8f052:
@@ -1071,32 +1071,32 @@ translate Schinese prologue_e5bb500e:
 # game/prologue.rpy:617
 translate Schinese prologue_79564386:
 
-    # "Rocco doesn't answer."
+    # "Rocco doesn''t answer."
     "Rocco没有回答。"
 
 # game/prologue.rpy:625
 translate Schinese prologue_9bd25a06:
 
     # narrator sideSeanConcerned "He goes straight for the bathroom in the back, throws open the door, and lets out a heavy sigh."
-    narrator sideSeanConcerned "他迳直走向里面的厕所，把门甩开，重重吐了口气。"
+    narrator sideSeanConcerned "他逕直走向里面的厕所，把门甩开，重重吐了口气。"
 
 # game/prologue.rpy:630
 translate Schinese prologue_4c0cf2e9:
 
     # "Behind him, the other door opens. Revealing an exhausted looking raccoon."
-    "他身后的另一扇门打开了，一隻神情疲倦的浣熊从中现身。"
+    "他身后的另一扇门打开了，一只神情疲倦的浣熊从中现身。"
 
 # game/prologue.rpy:631
 translate Schinese prologue_df13ea2f:
 
-    # "He's wearing a stained short sleeve shirt, a jacket, and a pair of unintentionally ripped jeans."
-    "他穿着外套、有汙痕的短袖上衣、和并非因设计而撕裂的牛仔裤。"
+    # "He''s wearing a stained short sleeve shirt, a jacket, and a pair of unintentionally ripped jeans."
+    "他穿著外套、有污痕的短袖上衣、和并非因设计而撕裂的牛仔裤。"
 
 # game/prologue.rpy:636
 translate Schinese prologue_633d3b0a:
 
     # cody "Why do you always- What are you even-"
-    cody "你怎麽每次都……你到底是——"
+    cody "你怎么每次都……你到底是——"
 
 # game/prologue.rpy:640
 translate Schinese prologue_c925edb6:
@@ -1108,12 +1108,12 @@ translate Schinese prologue_c925edb6:
 translate Schinese prologue_f5ea1ddf:
 
     # cody sideSeanSmile "Sean! Arthur! What are you two doing back in town?"
-    cody sideSeanSmile "Sean！Arthur！你们两个怎麽回来了？"
+    cody sideSeanSmile "Sean！Arthur！你们两个怎么回来了？"
 
 # game/prologue.rpy:670
 translate Schinese prologue_00491cc9:
 
-    # "He scampers over to us, ignoring Rocco's intrusion."
+    # "He scampers over to us, ignoring Rocco''s intrusion."
     "他无视Rocco擅闯民宅，朝我们跑来。"
 
 # game/prologue.rpy:676
@@ -1125,31 +1125,31 @@ translate Schinese prologue_aff61676:
 # game/prologue.rpy:677
 translate Schinese prologue_1c666ffd:
 
-    # narrator sideSeanConcerned "He's cold, and his arms weakly wrap around me. My own meet greasy and matted fur."
-    narrator sideSeanConcerned "他身躯冰凉，双臂孱弱地环绕住我。我的身体贴上他油腻髒汙的毛皮。"
+    # narrator sideSeanConcerned "He''s cold, and his arms weakly wrap around me. My own meet greasy and matted fur."
+    narrator sideSeanConcerned "他身躯冰凉，双臂孱弱地环绕住我。我的身体贴上他油腻脏汙的毛皮。"
 
     # game/prologue.rpy:678
 translate Schinese prologue_86ffd092:
 
-    # "When we finish our hug, I catch a whiff of something smelly. I don't comment on it, but I know it's coming from him."
-    "一抱完，我就闻到一股臭味。我没说什麽，但很明显是从他身上发出来的。"
+    # "When we finish our hug, I catch a whiff of something smelly. I don''t comment on it, but I know it''s coming from him."
+    "一抱完，我就闻到一股臭味。我没说什么，但很明显是从他身上发出来的。"
 
 # game/prologue.rpy:679
 translate Schinese prologue_30f7683e:
 
-    # narrator sideSeanSmile "It's hard to smile at him. Though I've had a lot of practice faking it. "
-    narrator sideSeanSmile "很难微笑着面对他，所幸我早就习惯陪笑了。"
+    # narrator sideSeanSmile "It''s hard to smile at him. Though I''ve had a lot of practice faking it. "
+    narrator sideSeanSmile "很难微笑著面对他，所幸我早就习惯陪笑了。"
 
 # game/prologue.rpy:682
 translate Schinese prologue_2ac1dd0c:
 
-    # sean "We just got in. Didn't Rocco tell you?"
+    # sean "We just got in. Didn''t Rocco tell you?"
     sean "我们刚到。Rocco没跟你说过吗？"
 
 # game/prologue.rpy:685
 translate Schinese prologue_eec4a034:
 
-    # cody "Oh? Oh! Is that this week? Heh. Sorry, time's just been molding together for me."
+    # cody "Oh? Oh! Is that this week? Heh. Sorry, time''s just been molding together for me."
     cody "啊？哦！是这星期吗？呵，抱歉，我的时间概念有点乱了。"
 
 # game/prologue.rpy:688
@@ -1161,26 +1161,26 @@ translate Schinese prologue_e62dc264:
 # game/prologue.rpy:691
 translate Schinese prologue_8775b00c:
 
-    # cody "Come in. Come in! Sorry about the mess. Life's been keeping me busy."
+    # cody "Come in. Come in! Sorry about the mess. Life''s been keeping me busy."
     cody "进来进来！抱歉屋里很乱，我事情太多了。"
 
 # game/prologue.rpy:706
 translate Schinese prologue_9ea3cca5:
 
-    # narrator sideSeanSmile "I look around. Despite what he said, it's no messier than my dorm room."
-    narrator sideSeanSmile "我环顾四周。他嘴上虽然那麽说，却也不比我宿舍房间乱。"
+    # narrator sideSeanSmile "I look around. Despite what he said, it''s no messier than my dorm room."
+    narrator sideSeanSmile "我环顾四周。他嘴上虽然那么说，却也不比我宿舍房间乱。"
 
 # game/prologue.rpy:707
 translate Schinese prologue_386e2e17:
 
     # "The little trash is neatly piled in a corner. A single couch sits nearby a cardboard box table with a small tv on top."
-    "小型垃圾整齐堆积在角落。一张沙发对着摆放小电视的纸箱板桌。"
+    "小型垃圾整齐堆积在角落。一张沙发对著摆放小电视的纸箱板桌。"
 
 # game/prologue.rpy:708
 translate Schinese prologue_db381689:
 
     # "The kitchenette on the other side seems to be clean. At least no dishes are left out."
-    "另一头的流理台貌似颇乾淨，至少不见没洗的碗盘。"
+    "另一头的流理台貌似颇乾净，至少不见没洗的碗盘。"
 
 # game/prologue.rpy:710
 translate Schinese prologue_d3a47065:
@@ -1204,18 +1204,18 @@ translate Schinese prologue_3abdcbc3:
 translate Schinese prologue_8af88a28:
 
     # sean "So why did you move out here?"
-    sean "所以你怎麽搬来这了？"
+    sean "所以你怎么搬来这了？"
 
 # game/prologue.rpy:723
 translate Schinese prologue_5c5e8a5b:
 
     # narrator sideSeanConcerned "Cody pauses for a moment. Clearly trying to think of the right thing to say. His eyes glaze over as he shifts his gaze out the window."
-    narrator sideSeanConcerned "Cody停顿了一会儿，显然在想该说什麽，眼光转而望向窗外。"
+    narrator sideSeanConcerned "Cody停顿了一会儿，显然在想该说什么，眼光转而望向窗外。"
 
 # game/prologue.rpy:727
 translate Schinese prologue_ff0fac4c:
 
-    # cody "Med school was... a lot more than I expected. I just- I can't- I- I needed some time away from it. Pull myself together for the last year."
+    # cody "Med school was... a lot more than I expected. I just- I can''t- I- I needed some time away from it. Pull myself together for the last year."
     cody "医学院……比我想得还难太多了。我就是……我没办法……我、我需要点时间来准备好面对最后一年。"
 
 # game/prologue.rpy:730
@@ -1240,12 +1240,12 @@ translate Schinese prologue_db5141aa:
 translate Schinese prologue_5fd16a70:
 
     # rocco "Should be good to chill there for the night. Everything was basically untouched since last time."
-    rocco "应该能直接去那边，跟上次基本没什麽变。"
+    rocco "应该能直接去那边，跟上次基本没什么变。"
 
 # game/prologue.rpy:744
 translate Schinese prologue_2781f80a:
 
-    # rocco "I went and gathered some firewood around the spot yesterday. Told those two to get some s'more stuff while they were on the road too."
+    # rocco "I went and gathered some firewood around the spot yesterday. Told those two to get some s''more stuff while they were on the road too."
     rocco "我昨天才去附近捡了些木柴。也有叫他俩在路上带点东西。"
 
 # game/prologue.rpy:748
@@ -1269,7 +1269,7 @@ translate Schinese prologue_e9b79e91:
 # game/prologue.rpy:753
 translate Schinese prologue_af8a0dc8:
 
-    # nulln sideSeanSad "I wish Casey could've been there."
+    # nulln sideSeanSad "I wish Casey could''ve been there."
     nulln sideSeanSad "真希望Casey当时也在。"
 
 # game/prologue.rpy:759
@@ -1281,20 +1281,20 @@ translate Schinese prologue_1b6bbc69:
 # game/prologue.rpy:763
 translate Schinese prologue_4afd3950:
 
-    # nulln "It wasn't a surprise to me. I accidentally caught him in a vulnerable moment at college and he told me everything."
+    # nulln "It wasn''t a surprise to me. I accidentally caught him in a vulnerable moment at college and he told me everything."
     nulln "我并不意外。早在大学期间，我就不小心撞见了他的尴尬场面，他就全跟我说了。"
 
 # game/prologue.rpy:767
 translate Schinese prologue_cc0566f2:
 
-    # nulln "What was surprising was the synthetic mane he got. I remember him putting it on for the first time. He wouldn't stop stroking it."
-    nulln "他戴的假鬃毛倒是让我挺意外的。我还记得他刚戴的时候，还不停揪着鬃毛。"
+    # nulln "What was surprising was the synthetic mane he got. I remember him putting it on for the first time. He wouldn''t stop stroking it."
+    nulln "他戴的假鬃毛倒是让我挺意外的。我还记得他刚戴的时候，还不停揪著鬃毛。"
 
 # game/prologue.rpy:768
 translate Schinese prologue_806389df:
 
     # nulln "For the rest of the night, no matter what happened, he was smiling. Even if we accidently dead named him."
-    nulln "那天晚上他脸上洋溢着笑容，就算我们不小心叫了他以前的名字也不消退。"
+    nulln "那天晚上他脸上洋溢著笑容，就算我们不小心叫了他以前的名字也不消退。"
 
 # game/prologue.rpy:769
 translate Schinese prologue_70ebb92d:
@@ -1308,13 +1308,13 @@ translate Schinese prologue_98ad7c4b:
     # nvl clear
     # nulln "Cody was next with a reveal. He was able to secure enough scholarships for another year of med school."
     nvl clear
-    nulln "接着宣布消息的是Cody。他拿到的奖学金足够他新一年的医学院学费了。"
+    nulln "接著宣布消息的是Cody。他拿到的奖学金足够他新一年的医学院学费了。"
 
 # game/prologue.rpy:779
 translate Schinese prologue_c28d2d17:
 
-    # nulln sideSeanNeutral "It wasn't a big surprise, he was the reason I was able to pass chem 1, but we were still proud of him."
-    nulln sideSeanNeutral "这也不算什麽惊喜。毕竟我能过高中化学课全都是靠他，但我们还是与有荣焉。"
+    # nulln sideSeanNeutral "It wasn''t a big surprise, he was the reason I was able to pass chem 1, but we were still proud of him."
+    nulln sideSeanNeutral "这也不算什么惊喜。毕竟我能过高中化学课全都是靠他，但我们还是与有荣焉。"
 
 # game/prologue.rpy:780
 translate Schinese prologue_04ba56c0:
@@ -1331,13 +1331,13 @@ translate Schinese prologue_40c74feb:
 # game/prologue.rpy:787
 translate Schinese prologue_b57105cd:
 
-    # nulln "I didn't have any big news to share that night. I was still working on my mechanical degree. I hadn't started dating again either."
-    nulln "我在那晚没什麽能说的。当时还在努力读机械工程，也没跟人交往。"
+    # nulln "I didn''t have any big news to share that night. I was still working on my mechanical degree. I hadn''t started dating again either."
+    nulln "我在那晚没什么能说的。当时还在努力读机械工程，也没跟人交往。"
 
 # game/prologue.rpy:791
 translate Schinese prologue_356f387d:
 
-    # nulln sideSeanSad "It had been two years since, but I still couldn't open up."
+    # nulln sideSeanSad "It had been two years since, but I still couldn''t open up."
     nulln sideSeanSad "过了两年，我还是放不下。"
 
 # game/prologue.rpy:797
@@ -1369,19 +1369,19 @@ translate Schinese prologue_e901e97d:
 # game/prologue.rpy:809
 translate Schinese prologue_ca5919cc:
 
-    # nulln "While we all went to college, Rocco worked at the town's hotel."
+    # nulln "While we all went to college, Rocco worked at the town''s hotel."
     nulln "我们上大学时，Rocco就在小镇旅馆工作了。"
 
 # game/prologue.rpy:810
 translate Schinese prologue_cf7b4d94:
 
-    # nulln "He didn't hate the job, but he wanted to do something more."
+    # nulln "He didn''t hate the job, but he wanted to do something more."
     nulln "他倒是不讨厌这份工作，但另有抱负。"
 
 # game/prologue.rpy:811
 translate Schinese prologue_1b7854c2:
 
-    # nulln "His new goal, that night, was to save up money for college. He'd get a degree in social work, and eventually become a therapist."
+    # nulln "His new goal, that night, was to save up money for college. He''d get a degree in social work, and eventually become a therapist."
     nulln "那天晚上，他的目标就是存钱上大学。说是想读社工系，然后当心理治疗师。"
 
 # game/prologue.rpy:813
@@ -1393,7 +1393,7 @@ translate Schinese prologue_dadf3ca4:
 # game/prologue.rpy:815
 translate Schinese prologue_98c2c615:
 
-    # nulln "Who knows, maybe he'd be good at it."
+    # nulln "Who knows, maybe he''d be good at it."
     nulln "谁知道呢，或许还真能干得不错呢。"
 
 # game/prologue.rpy:816
@@ -1412,7 +1412,7 @@ translate Schinese prologue_c530c1c3:
 translate Schinese prologue_c37f06c1:
 
     # "Rocco and Cody were talking about something."
-    "Rocco跟Cody在聊些什麽。"
+    "Rocco跟Cody在聊些什么。"
 
 # game/prologue.rpy:832
 translate Schinese prologue_c924d746:
@@ -1429,14 +1429,14 @@ translate Schinese prologue_d03a3159:
 # game/prologue.rpy:838
 translate Schinese prologue_1ba31b1f:
 
-    # cody "And he hasn't run into anyone there?"
+    # cody "And he hasn''t run into anyone there?"
     cody "他也没遇见任何人吗？"
 
 # game/prologue.rpy:841
 translate Schinese prologue_c234c4d9:
 
-    # rocco "That's what he says. Who knows, maybe he's just been getting lucky."
-    rocco "他是这麽说的。但谁知道呢，搞不好只是运气问题。"
+    # rocco "That''s what he says. Who knows, maybe he''s just been getting lucky."
+    rocco "他是这么说的。但谁知道呢，搞不好只是运气问题。"
 
 # game/prologue.rpy:844
 translate Schinese prologue_9650400c:
@@ -1489,26 +1489,26 @@ translate Schinese prologue_160c5fd0:
 # game/prologue.rpy:871
 translate Schinese prologue_833fb211:
 
-    # rocco "I don't want to go barreling down the mountain tonight. Just let Cody fuckin' drive."
+    # rocco "I don''t want to go barreling down the mountain tonight. Just let Cody fuckin'' drive."
     rocco "我可不想坠崖，你他妈让Cody开就是了。"
 
 # game/prologue.rpy:874
 translate Schinese prologue_995a6257:
 
-    # sean sideSeanNeutral "I'll be fine."
+    # sean sideSeanNeutral "I''ll be fine."
     sean sideSeanNeutral "我没问题的。"
 
 # game/prologue.rpy:877
 translate Schinese prologue_04185318:
 
-    # "I know he said not to ask, but I am curious. What has Cody been doing while he's taking a semester off?"
-    "我知道他要我们别问，但我止不住好奇心。Cody休息一学期的时间，到底都在做些什麽？"
+    # "I know he said not to ask, but I am curious. What has Cody been doing while he''s taking a semester off?"
+    "我知道他要我们别问，但我止不住好奇心。Cody休息一学期的时间，到底都在做些什么？"
 
 # game/prologue.rpy:881
 translate Schinese prologue_6b84e981:
 
-    # sean "I don't know if I caught it, but what have you been doing Cody?"
-    sean "我好像没听见，你最近都在做什麽啊，Cody？"
+    # sean "I don''t know if I caught it, but what have you been doing Cody?"
+    sean "我好像没听见，你最近都在做什么啊，Cody？"
 
 # game/prologue.rpy:885
 translate Schinese prologue_6a89ec1b:
@@ -1519,31 +1519,31 @@ translate Schinese prologue_6a89ec1b:
 # game/prologue.rpy:888
 translate Schinese prologue_2bec2445:
 
-    # cody "I work part time down at the gas station. They don't have enough hours to get me a full time spot, so I have to tap into my savings."
+    # cody "I work part time down at the gas station. They don''t have enough hours to get me a full time spot, so I have to tap into my savings."
     cody "我在加油站打工。他们工时不够给我做正职，所以我还得动用储蓄。"
 
 # game/prologue.rpy:889
 translate Schinese prologue_8cb1a9af:
 
-    # cody "I can't move back in with my folks, and this place was cheap."
+    # cody "I can''t move back in with my folks, and this place was cheap."
     cody "我不能搬回我父母那边，这里又很便宜。"
 
 # game/prologue.rpy:892
 translate Schinese prologue_3a749937:
 
     # sean "Why not?"
-    sean "为什麽不能？"
+    sean "为什么不能？"
 
 # game/prologue.rpy:896
 translate Schinese prologue_0bbbc472:
 
-    # rocco sideSeanAngry "Sean I don't think-"
+    # rocco sideSeanAngry "Sean I don''t think-"
     rocco sideSeanAngry "Sean，你别——"
 
 # game/prologue.rpy:900
 translate Schinese prologue_d11dcb64:
 
-    # cody sideSeanConcerned "It's fine Rocco."
+    # cody sideSeanConcerned "It''s fine Rocco."
     cody sideSeanConcerned "没事，Rocco。"
 
 # game/prologue.rpy:904
@@ -1561,19 +1561,19 @@ translate Schinese prologue_7bf23b15:
 # game/prologue.rpy:908
 translate Schinese prologue_b78ba14e:
 
-    # cody "Dropping out, after they did so much for me, feels like I'm letting them down."
-    cody "他们都为我做了那麽多，我还休了学，一定很让他们失望。"
+    # cody "Dropping out, after they did so much for me, feels like I''m letting them down."
+    cody "他们都为我做了那么多，我还休了学，一定很让他们失望。"
 
 # game/prologue.rpy:910
 translate Schinese prologue_da1df888:
 
-    # cody "Plus I can just hear my Dad say \"Goin' back next semester?\" Y'know."
+    # cody "Plus I can just hear my Dad say \"Goin'' back next semester?\" Y''know."
     cody "而且我爸一定会问我「你下学期要回去了吗？」"
 
 # game/prologue.rpy:914
 translate Schinese prologue_9b53e12b:
 
-    # narrator sideSeanSmile "Cody mockingly deepens his voice. It gives off a cartoonish dad vibe and I can't help but chuckle at it."
+    # narrator sideSeanSmile "Cody mockingly deepens his voice. It gives off a cartoonish dad vibe and I can''t help but chuckle at it."
     narrator sideSeanSmile "Cody特意装出低沉的声音，给人一种卡通里爸爸角色说话的感觉，害我不禁笑了出来。"
 
 # game/prologue.rpy:917
@@ -1585,7 +1585,7 @@ translate Schinese prologue_38890c8d:
 # game/prologue.rpy:918
 translate Schinese prologue_2770acc4:
 
-    # cody "But it's nice not having parents breathing down your neck."
+    # cody "But it''s nice not having parents breathing down your neck."
     cody "但不用成天看父母脸色还是挺好的。"
 
 # game/prologue.rpy:923
@@ -1597,7 +1597,7 @@ translate Schinese prologue_ff60b540:
 # game/prologue.rpy:929
 translate Schinese prologue_c499bdca:
 
-    # narrator sideSeanNeutral "I want to dig more, but I doubt that's a good idea here."
+    # narrator sideSeanNeutral "I want to dig more, but I doubt that''s a good idea here."
     narrator sideSeanNeutral "我是想追问，但现在似乎不是时候。"
 
 # game/prologue.rpy:937
@@ -1610,19 +1610,19 @@ translate Schinese prologue_0a501e7d:
 translate Schinese prologue_7be4409f:
 
     # "His eyes are a little wide, and hang on Cody for a bit too long. He gives his head a shake and is back to normal."
-    "他眼神略显惊慌，直勾勾地望着Cody。良久才摇摇头，回復原状。"
+    "他眼神略显惊慌，直勾勾地望著Cody。良久才摇摇头，回复原状。"
 
 # game/prologue.rpy:942
 translate Schinese prologue_73cf7c09:
 
-    # arthur sideSeanNeutral "H-Hey, what'd I miss?"
-    arthur sideSeanNeutral "呃，嘿，你们聊什麽呢？"
+    # arthur sideSeanNeutral "H-Hey, what''d I miss?"
+    arthur sideSeanNeutral "呃，嘿，你们聊什么呢？"
 
 # game/prologue.rpy:946
 translate Schinese prologue_44bff6b1:
 
-    # rocco "Nothin' much. Planning on heading out soon if that's good with you?"
-    rocco "没什麽，你准备好的话，我们差不多该走了？"
+    # rocco "Nothin'' much. Planning on heading out soon if that''s good with you?"
+    rocco "没什么，你准备好的话，我们差不多该走了？"
 
 # game/prologue.rpy:949
 translate Schinese prologue_c4b4b054:
@@ -1681,13 +1681,13 @@ translate Schinese prologue_d0cf17e4:
 # game/prologue.rpy:997
 translate Schinese prologue_728d5920:
 
-    # sean "I don't know. Catching up with my folks, then figuring it out from there."
+    # sean "I don''t know. Catching up with my folks, then figuring it out from there."
     sean "不知道。跟我家人聊聊，思考未来吧。"
 
 # game/prologue.rpy:1000
 translate Schinese prologue_dbec609b:
 
-    # rocco "You really don't think ahead of the next thing do you? Figured by now you'd at least think about the day after tomorrow."
+    # rocco "You really don''t think ahead of the next thing do you? Figured by now you''d at least think about the day after tomorrow."
     rocco "你对未来一点考量都没有吗？还以为你好歹会计画往后几天的事呢。"
 
 # game/prologue.rpy:1004
@@ -1705,14 +1705,14 @@ translate Schinese prologue_e3b2ef4f:
 # game/prologue.rpy:1006
 translate Schinese prologue_91a13da4:
 
-    # "There just isn't much around Carthage."
+    # "There just isn''t much around Carthage."
     "只是迦太基一穷二白。"
 
 # game/prologue.rpy:1007
 translate Schinese prologue_ef10aac1:
 
     # narrator sideSeanNeutral "Sure we could do a trip to another town, loiter around Main Street, or go for a hike. Those were things we always did to pass the time."
-    narrator sideSeanNeutral "硬要说，当然还是能跑去别的镇上、逛主要大街，或者去爬山。我们以前就一直都这麽杀时间的。"
+    narrator sideSeanNeutral "硬要说，当然还是能跑去别的镇上、逛主要大街，或者去爬山。我们以前就一直都这么杀时间的。"
 
 # game/prologue.rpy:1008
 translate Schinese prologue_8f7a7cfb:
@@ -1723,13 +1723,13 @@ translate Schinese prologue_8f7a7cfb:
 # game/prologue.rpy:1011
 translate Schinese prologue_963705cd:
 
-    # sean "It's not like there's much to Carthage. Our new town feature is probably closed off to the public."
-    sean "迦太基又没什麽能做的。这个新的小镇奇观估计也不会对外开放。"
+    # sean "It''s not like there''s much to Carthage. Our new town feature is probably closed off to the public."
+    sean "迦太基又没什么能做的。这个新的小镇奇观估计也不会对外开放。"
 
 # game/prologue.rpy:1016
 translate Schinese prologue_08f9d1b8:
 
-    # rocco "You'd think. I haven't seen any active cops around it. They just leave old cars and stuff to scare off people."
+    # rocco "You''d think. I haven''t seen any active cops around it. They just leave old cars and stuff to scare off people."
     rocco "照理来说是这样，但我都没看到附近有警察在巡逻。只是把一些旧车旧东西放在那，起个喝止作用而已。"
 
 # game/prologue.rpy:1019
@@ -1741,8 +1741,8 @@ translate Schinese prologue_8a353713:
 # game/prologue.rpy:1024
 translate Schinese prologue_97723dcd:
 
-    # rocco "Like you said, we've basically done everything around town. I was curious so I snooped around it one day."
-    rocco "你也说过，我们把镇上能做的都做了。我有天起了点好奇心，就偷熘过去了。"
+    # rocco "Like you said, we''ve basically done everything around town. I was curious so I snooped around it one day."
+    rocco "你也说过，我们把镇上能做的都做了。我有天起了点好奇心，就偷溜过去了。"
 
 # game/prologue.rpy:1025
 translate Schinese prologue_20764884:
@@ -1772,7 +1772,7 @@ translate Schinese prologue_cca0badf:
 translate Schinese prologue_c492b4ed:
 
     # "I take glances at the two of them back there through the rear view mirror. Cody, tired as he looks, is keeping up with the conversation."
-    "我透过后照镜瞥了他们俩一眼。Cody儘管神色疲惫，却也聊得起劲。"
+    "我透过后照镜瞥了他们俩一眼。Cody尽管神色疲惫，却也聊得起劲。"
 
 # game/prologue.rpy:1033
 translate Schinese prologue_f0f70f35:
@@ -1789,49 +1789,49 @@ translate Schinese prologue_f2bf4ac8:
 # game/prologue.rpy:1039
 translate Schinese prologue_028dd7b7:
 
-    # sean "Rocco, why do you have a key to Cody's apartment?"
-    sean "Rocco，为什麽你有Cody公寓的钥匙？"
+    # sean "Rocco, why do you have a key to Cody''s apartment?"
+    sean "Rocco，为什么你有Cody公寓的钥匙？"
 
 # game/prologue.rpy:1043
 translate Schinese prologue_25a5bff1:
 
-    # rocco sideSeanSmile "We're not fuck buddies if you're wondering. He gave me a spare incase I got off before him."
-    rocco sideSeanSmile "我们不是砲友，如果你是那个意思的话。他给我备用钥匙，是让我比他早出来的时候用的。"
+    # rocco sideSeanSmile "We''re not fuck buddies if you''re wondering. He gave me a spare incase I got off before him."
+    rocco sideSeanSmile "我们不是炮友，如果你是那个意思的话。他给我备用钥匙，是让我比他早出来的时候用的。"
 
 # game/prologue.rpy:1049
 translate Schinese prologue_11db9930:
 
     # narrator sideSeanSmile "I snicker at the phrasing, and Rocco places a paw to his face."
-    narrator sideSeanSmile "我因这用词而窃笑，让他一爪盖着脸。"
+    narrator sideSeanSmile "我因这用词而窃笑，让他一爪盖著脸。"
 
 # game/prologue.rpy:1054
 translate Schinese prologue_693e9daa:
 
-    # rocco "You know what I mean! Look, I would get off work, and sometimes he wouldn't be there. So instead of waiting outside he gave me a key so I could come inside."
+    # rocco "You know what I mean! Look, I would get off work, and sometimes he wouldn''t be there. So instead of waiting outside he gave me a key so I could come inside."
     rocco "你也懂我意思吧！我下班的时候他人不一定在。他给我钥匙我就能进屋，不用乾站外头等了。"
 
 # game/prologue.rpy:1055
 translate Schinese prologue_496933ec:
 
-    # rocco "It's not that hard of a concept, Sean!"
-    rocco "没那麽难理解吧，Sean！"
+    # rocco "It''s not that hard of a concept, Sean!"
+    rocco "没那么难理解吧，Sean！"
 
 # game/prologue.rpy:1059
 translate Schinese prologue_49188008:
 
-    # sean "I feel like you're doing it on purpose."
+    # sean "I feel like you''re doing it on purpose."
     sean "我感觉你是故意的。"
 
 # game/prologue.rpy:1063
 translate Schinese prologue_394080af:
 
-    # "I tease, speaking in a goofier voice than normal. I looked over at him and the poor dog's flustered."
+    # "I tease, speaking in a goofier voice than normal. I looked over at him and the poor dog''s flustered."
     "我用装蒜的语气逗他。可怜的狗一脸羞涩。"
 
 # game/prologue.rpy:1064
 translate Schinese prologue_43c6cdff:
 
-    # "He refuses to look at me, and I can tell he doesn't want to continue with this."
+    # "He refuses to look at me, and I can tell he doesn''t want to continue with this."
     "他拒绝和我对视，我也看得出来他不想继续这个话题。"
 
 # game/prologue.rpy:1065
@@ -1843,20 +1843,20 @@ translate Schinese prologue_adb31592:
 # game/prologue.rpy:1069
 translate Schinese prologue_393c52fa:
 
-    # sean "Look, it's nice how close both of you have gotten, platonically."
+    # sean "Look, it''s nice how close both of you have gotten, platonically."
     sean "好啦，你俩处得不错还是挺好好的，在友谊上。"
 
 # game/prologue.rpy:1072
 translate Schinese prologue_c2d9edb8:
 
-    # rocco sideSeanConcerned "Life's been lonely without you and Arthur. Everyone's moving on with their lives. I feel like I'm stuck in a loop."
+    # rocco sideSeanConcerned "Life''s been lonely without you and Arthur. Everyone''s moving on with their lives. I feel like I''m stuck in a loop."
     rocco sideSeanConcerned "你跟Arthur不在，生活还是很寂寞的。大家都渐行渐远，就我还在原地转圈。"
 
 # game/prologue.rpy:1075
 translate Schinese prologue_9450bf15:
 
     # narrator sideSeanNeutral "He pauses. Considering his next words. Probably because of my teasing."
-    narrator sideSeanNeutral "他停顿下来，思考用词。或许是因为我刚才逗他的关係吧。"
+    narrator sideSeanNeutral "他停顿下来，思考用词。或许是因为我刚才逗他的关系吧。"
 
 # game/prologue.rpy:1079
 translate Schinese prologue_cbb206bc:
@@ -1867,7 +1867,7 @@ translate Schinese prologue_cbb206bc:
 # game/prologue.rpy:1080
 translate Schinese prologue_89d0cf31:
 
-    # rocco "Those who are left usually fuck of to Salem when they can. If they can't then they drink away their paycheck at Morris's."
+    # rocco "Those who are left usually fuck of to Salem when they can. If they can''t then they drink away their paycheck at Morris''s."
     rocco "留下来的也都会跑去赛勒姆。做不到的就会把薪水拿去Morris买醉。"
 
 # game/prologue.rpy:1085
@@ -1885,8 +1885,8 @@ translate Schinese prologue_8323bd08:
 # game/prologue.rpy:1089
 translate Schinese prologue_19de1822:
 
-    # "All I heard was rumors, but apparently their first night together didn't go well."
-    "我只听过传言，说是他们初夜不怎麽顺利。"
+    # "All I heard was rumors, but apparently their first night together didn''t go well."
+    "我只听过传言，说是他们初夜不怎么顺利。"
 
 # game/prologue.rpy:1090
 translate Schinese prologue_e9d52bf1:
@@ -1897,19 +1897,19 @@ translate Schinese prologue_e9d52bf1:
 # game/prologue.rpy:1091
 translate Schinese prologue_66ea6fa5:
 
-    # "From what Arthur told me Belle hadn't been at school the week after the break up."
+    # "From what Arthur told me Belle hadn''t been at school the week after the break up."
     "Arthur告诉我，他们分手后的一星期，Belle都没去上学。"
 
 # game/prologue.rpy:1097
 translate Schinese prologue_79d07f86:
 
-    # rocco sideSeanNeutral "Yeah she's still here. Goes over to Salem to work in a department store."
+    # rocco sideSeanNeutral "Yeah she''s still here. Goes over to Salem to work in a department store."
     rocco sideSeanNeutral "她还在这，会去赛勒姆的百货公司上班。"
 
 # game/prologue.rpy:1100
 translate Schinese prologue_6d958998:
 
-    # arthur "Wasn't she going to major in chemistry?"
+    # arthur "Wasn''t she going to major in chemistry?"
     arthur "她不是想上化学系吗？"
 
 # game/prologue.rpy:1104
@@ -1927,7 +1927,7 @@ translate Schinese prologue_931dd351:
 # game/prologue.rpy:1112
 translate Schinese prologue_dfdbb266:
 
-    # rocco sideSeanSad "She uh... didn't get high enough on the S.A.T., couldn't get enough scholarships, and didn't want to take out a loan... same sitch as me."
+    # rocco sideSeanSad "She uh... didn''t get high enough on the S.A.T., couldn''t get enough scholarships, and didn''t want to take out a loan... same sitch as me."
     rocco sideSeanSad "她，呃……SAT分数不够拿奖学金，也不想背学贷……跟我一样的处境。"
 
 # game/prologue.rpy:1116
@@ -1945,14 +1945,14 @@ translate Schinese prologue_db7cc280:
 # game/prologue.rpy:1125
 translate Schinese prologue_167df0df:
 
-    # rocco "Sean, aside from the people in the car, I don't know who you fuckin' know."
+    # rocco "Sean, aside from the people in the car, I don''t know who you fuckin'' know."
     rocco "Sean，除了车里这几人，我都不知道你他妈还认识谁。"
 
 # game/prologue.rpy:1126
 translate Schinese prologue_64d3deb8:
 
     # rocco "Ty and Xander work at the autobody shop on Pine. Carl still sells weed out of his hippie van."
-    rocco "Ty跟Xander在松木街的汽修站工作。Carl还在他的嬉皮麵包车里卖大麻。"
+    rocco "Ty跟Xander在松木街的汽修站工作。Carl还在他的嬉皮面包车里卖大麻。"
 
 # game/prologue.rpy:1132
 translate Schinese prologue_9f7a278b:
@@ -1963,7 +1963,7 @@ translate Schinese prologue_9f7a278b:
 # game/prologue.rpy:1136
 translate Schinese prologue_3a75064d:
 
-    # arthur "Oh shit Carl's still selling weed!"
+    # arthur "Oh shit Carl''s still selling weed!"
     arthur "喔干，Carl还在卖大麻！"
 
 # game/prologue.rpy:1141
@@ -1981,13 +1981,13 @@ translate Schinese prologue_91a5c2a8:
 # game/prologue.rpy:1145
 translate Schinese prologue_82b24605:
 
-    # rocco "Hikers trekking along the mountains, folk from Salem and Toast, and he's basically got a monopoly on those who smoke here."
+    # rocco "Hikers trekking along the mountains, folk from Salem and Toast, and he''s basically got a monopoly on those who smoke here."
     rocco "有登山客和赛勒姆跟托斯的居民，基本上这里吸麻的客源全被他垄断了。"
 
 # game/prologue.rpy:1147
 translate Schinese prologue_481cc221:
 
-    # rocco "Well he would if he wasn't a dumbass."
+    # rocco "Well he would if he wasn''t a dumbass."
     rocco "只可惜他就是个傻缺。"
 
 # game/prologue.rpy:1151
@@ -1999,7 +1999,7 @@ translate Schinese prologue_4c7049f0:
 # game/prologue.rpy:1155
 translate Schinese prologue_0cc7fa28:
 
-    # rocco "He does 'camping nights'. From what I've heard, he has people test out new strands he's been growing. Invited me a few times, but I never went."
+    # rocco "He does ''camping nights''. From what I''ve heard, he has people test out new strands he''s been growing. Invited me a few times, but I never went."
     rocco "他会办「露营之夜」。就我所知，他会给人试抽他种的新品。也邀了我几次，但我没去过。"
 
 # game/prologue.rpy:1159
@@ -2011,19 +2011,19 @@ translate Schinese prologue_5c744142:
 # game/prologue.rpy:1163
 translate Schinese prologue_0dd58360:
 
-    # rocco "Oh, and Hank's working as a janitor at the Hotel."
+    # rocco "Oh, and Hank''s working as a janitor at the Hotel."
     rocco "喔对，Hank在旅馆当清洁员。"
 
 # game/prologue.rpy:1166
 translate Schinese prologue_8a8c8b75:
 
-    # sean sideSeanNeutral "Yeah, I think you mentioned him back at Cody's."
+    # sean sideSeanNeutral "Yeah, I think you mentioned him back at Cody''s."
     sean sideSeanNeutral "嗯，在Cody家的时候你好像就提过他了。"
 
 # game/prologue.rpy:1169
 translate Schinese prologue_46bde398:
 
-    # rocco "He's alright. We've hung out a bit, but he mostly keeps to himself."
+    # rocco "He''s alright. We''ve hung out a bit, but he mostly keeps to himself."
     rocco "他还算过得去吧。我们有时候会聚一聚，但他通常不太跟人交际。"
 
 # game/prologue.rpy:1172
@@ -2095,7 +2095,7 @@ translate Schinese prologue_70a79be7:
 # game/prologue.rpy:1252
 translate Schinese prologue_90a690dd:
 
-    # nulln "Cody put a blanket and the s'more materials down on the stump."
+    # nulln "Cody put a blanket and the s''more materials down on the stump."
     nulln "Cody在木桩上铺了毯子后把巧克力棉花糖摆上桌。"
 
 # game/prologue.rpy:1259
@@ -2164,7 +2164,7 @@ translate Schinese prologue_76b2fe88_3:
 translate Schinese prologue_31c5e2f0:
 
     # nulln sideSeanSmile "It was a pair of rabbits locked in an eternal dance."
-    nulln sideSeanSmile "是一对兔子永远跳着舞的模样。"
+    nulln sideSeanSmile "是一对兔子永远跳著舞的模样。"
 
 # game/prologue.rpy:1337
 translate Schinese prologue_dc7bf6fd:
@@ -2206,24 +2206,24 @@ translate Schinese prologue_60a61622:
 translate Schinese prologue_bf189249:
 
     # narrator sideSeanSad "I could only find the dancer on the right."
-    narrator sideSeanSad "只看到了右边那隻。"
+    narrator sideSeanSad "只看到了右边那只。"
 
 # game/prologue.rpy:1348
 translate Schinese prologue_ff71fe38:
 
     # "A gentle paw rested itself on my shoulder."
-    "一隻爪轻柔地搭上我肩膀。"
+    "一只爪轻柔地搭上我肩膀。"
 
 # game/prologue.rpy:1354
 translate Schinese prologue_12a52b5b:
 
-    # narrator sideSeanSmile "It was Cody's."
+    # narrator sideSeanSmile "It was Cody''s."
     narrator sideSeanSmile "是Cody。"
 
 # game/prologue.rpy:1356
 translate Schinese prologue_6f51f671:
 
-    # narrator sideSeanSad "He didn't say anything."
+    # narrator sideSeanSad "He didn''t say anything."
     narrator sideSeanSad "他一语不发。"
 
 # game/prologue.rpy:1357
@@ -2235,13 +2235,13 @@ translate Schinese prologue_e5c7b801:
 # game/prologue.rpy:1360
 translate Schinese prologue_71f7ed82:
 
-    # narrator sideSeanSmile "I wiped tears from my face. I hadn't cried this much since- I guess after holding it in for so long the dam was bound to break."
-    narrator sideSeanSmile "我擦去脸上的泪水。我很久没这样大哭过了，自从……憋了这麽久，早晚都会溃堤的。"
+    # narrator sideSeanSmile "I wiped tears from my face. I hadn''t cried this much since- I guess after holding it in for so long the dam was bound to break."
+    narrator sideSeanSmile "我擦去脸上的泪水。我很久没这样大哭过了，自从……憋了这么久，早晚都会溃堤的。"
 
 # game/prologue.rpy:1388
 translate Schinese prologue_f3f5ef37:
 
-    # narrator sideSeanSmile "I rejoined the group. Enjoying a s'more of my own."
+    # narrator sideSeanSmile "I rejoined the group. Enjoying a s''more of my own."
     narrator sideSeanSmile "我也加入大伙，享受巧克力棉花糖。"
 
 # game/prologue.rpy:1389
@@ -2254,7 +2254,7 @@ translate Schinese prologue_44dc90e7:
 translate Schinese prologue_d9c5a035:
 
     # "I had some energy to burn from the car ride. Sitting for so long really makes hiking through a dark forest appealing."
-    "开了那麽久的车，我想活动一下身子。久坐让我很想在黑暗的森林中健行。"
+    "开了那么久的车，我想活动一下身子。久坐让我很想在黑暗的森林中健行。"
 
 # game/prologue.rpy:1391
 translate Schinese prologue_59652c35:
@@ -2265,13 +2265,13 @@ translate Schinese prologue_59652c35:
 # game/prologue.rpy:1413
 translate Schinese p_walk_w_arthur_1_288ef727:
 
-    # sean sideSeanSmile "Hey Arthur, I'm gonna go for a short walk. Wanna come with?"
+    # sean sideSeanSmile "Hey Arthur, I''m gonna go for a short walk. Wanna come with?"
     sean sideSeanSmile "欸，Arthur，我想去散个步。你要一起吗？"
 
 # game/prologue.rpy:1417
 translate Schinese p_walk_w_arthur_1_74685fb5:
 
-    # "He looks up at me, mouth full of s'more."
+    # "He looks up at me, mouth full of s''more."
     "他抬头看我，嘴都被巧克力棉花糖塞满了。"
 
 # game/prologue.rpy:1420
@@ -2307,7 +2307,7 @@ translate Schinese p_walk_w_arthur_1_540d4f20:
 # game/prologue.rpy:1433
 translate Schinese p_walk_w_arthur_1_6c496cd9:
 
-    # "Even Rocco and Cody's words are long gone from our ears."
+    # "Even Rocco and Cody''s words are long gone from our ears."
     "就连Rocco和Cody的谈话声都已听不见。"
 
 # game/prologue.rpy:1438
@@ -2350,25 +2350,25 @@ translate Schinese p_walk_w_arthur_1_542c24d1:
 translate Schinese p_walk_w_arthur_1_b77fde56:
 
     # "His tail frantically swishes back and forth. His paws are interlocked, thumbs picking at his claws, and his head staring at the ground."
-    "尾巴甩个不停；双爪紧扣，抠着拇指指甲；低头俯视地面。"
+    "尾巴甩个不停；双爪紧扣，抠著拇指指甲；低头俯视地面。"
 
 # game/prologue.rpy:1459
 translate Schinese p_walk_w_arthur_1_42ce7115:
 
-    # arthur "I'm glad Rocco is checking up on him."
+    # arthur "I''m glad Rocco is checking up on him."
     arthur "我很庆幸Rocco在关照他。"
 
 # game/prologue.rpy:1462
 translate Schinese p_walk_w_arthur_1_10966d39:
 
     # sean "Why are you bringing this up?"
-    sean "为什麽要提这个？"
+    sean "为什么要提这个？"
 
 # game/prologue.rpy:1465
 translate Schinese p_walk_w_arthur_1_69723567:
 
     # "Yeah Cody looked bad, but he seemed alright in the car ride over."
-    "Cody看上去确实不太好，但在车上没什麽问题。"
+    "Cody看上去确实不太好，但在车上没什么问题。"
 
 # game/prologue.rpy:1466
 translate Schinese p_walk_w_arthur_1_7bdfea98:
@@ -2404,18 +2404,18 @@ translate Schinese p_walk_w_arthur_1_468278a8:
 translate Schinese p_walk_w_arthur_1_48ab1880:
 
     # arthur "There was a cut piece of rope tied to a rafter."
-    arthur "房樑上绑着一条被切断的绳子。"
+    arthur "房樑上绑著一条被切断的绳子。"
 
 # game/prologue.rpy:1486
 translate Schinese p_walk_w_arthur_1_9eff597c:
 
-    # "We're both quiet as I process his words. I want to say something, but what do you say?"
-    "我咀嚼着他这句话，两人一阵沉默。我是想说点什麽，但又能说什麽呢？"
+    # "We''re both quiet as I process his words. I want to say something, but what do you say?"
+    "我咀嚼著他这句话，两人一阵沉默。我是想说点什么，但又能说什么呢？"
 
 # game/prologue.rpy:1487
 translate Schinese p_walk_w_arthur_1_91514458:
 
-    # "What if it's nothing."
+    # "What if it''s nothing."
     "搞不好没事啊。"
 
 # game/prologue.rpy:1488
@@ -2433,7 +2433,7 @@ translate Schinese p_walk_w_arthur_1_9074997e:
 # game/prologue.rpy:1493
 translate Schinese p_walk_w_arthur_1_3212a3f3:
 
-    # arthur "It looked old, b-b-but I don't know. M-Maybe it was, like, wine or something. I didn't want to dig or pry, but after that... I just-"
+    # arthur "It looked old, b-b-but I don''t know. M-Maybe it was, like, wine or something. I didn''t want to dig or pry, but after that... I just-"
     arthur "看起来像很旧的，可、可、可是我不太确定。也、也有可能是红酒之类的。我不想刨根问底，可是看到这些……我就——"
 
 # game/prologue.rpy:1496
@@ -2451,7 +2451,7 @@ translate Schinese p_walk_w_arthur_1_c1ea43fa:
 # game/prologue.rpy:1498
 translate Schinese p_walk_w_arthur_1_76d1a80f:
 
-    # "I usher him along. We're not that far from the fire, they might be able to hear us."
+    # "I usher him along. We''re not that far from the fire, they might be able to hear us."
     "我示意他赶紧跟上。我们离营火也不算太远，可能会被他们听见。"
 
 # game/prologue.rpy:1499
@@ -2470,12 +2470,12 @@ translate Schinese p_walk_w_arthur_1_66ae1b72:
 translate Schinese p_walk_w_arthur_1_0d9ff172:
 
     # narrator "I stumble a bit, taking hold of his paw as we walk through the trees."
-    narrator "我一个踉跄，牵着他的爪穿越树林。"
+    narrator "我一个踉跄，牵著他的爪穿越树林。"
 
 # game/prologue.rpy:1507
 translate Schinese p_walk_w_arthur_1_e0181ab1:
 
-    # "Arthur's voice cracks and gets louder."
+    # "Arthur''s voice cracks and gets louder."
     "Arthur难以压抑住音量。"
 
 # game/prologue.rpy:1510
@@ -2487,14 +2487,14 @@ translate Schinese p_walk_w_arthur_1_b307505e:
 # game/prologue.rpy:1513
 translate Schinese p_walk_w_arthur_1_872309ef:
 
-    # "That can't be right."
+    # "That can''t be right."
     "这绝对有问题。"
 
 # game/prologue.rpy:1514
 translate Schinese p_walk_w_arthur_1_4d61a76a:
 
     # "Should we say something?"
-    "我们该说点什麽吗？"
+    "我们该说点什么吗？"
 
 # game/prologue.rpy:1515
 translate Schinese p_walk_w_arthur_1_d6fe6805:
@@ -2505,8 +2505,8 @@ translate Schinese p_walk_w_arthur_1_d6fe6805:
 # game/prologue.rpy:1516
 translate Schinese p_walk_w_arthur_1_7f6fb459:
 
-    # narrator sideSeanConcerned "Maybe it's a memento, a reminder or something. Why does he have a scalpel in his bathroom?"
-    narrator sideSeanConcerned "也许是某种对自我的提醒。他浴室里为什麽会有手术刀？"
+    # narrator sideSeanConcerned "Maybe it''s a memento, a reminder or something. Why does he have a scalpel in his bathroom?"
+    narrator sideSeanConcerned "也许是某种对自我的提醒。他浴室里为什么会有手术刀？"
 
 # game/prologue.rpy:1517
 translate Schinese p_walk_w_arthur_1_099c056f:
@@ -2530,13 +2530,13 @@ translate Schinese p_walk_w_arthur_1_e20e47b3:
 translate Schinese p_walk_w_arthur_1_6053f76f:
 
     # "The benches are dusted in a light snow. The trees encircle us bordering the moon. Its yellow glow casts down on us as we just stand there."
-    "树枝被一层薄雪复盖；树木围绕着我们与月亮。淡黄的月光照亮伫立的我俩。"
+    "树枝被一层薄雪覆盖；树木围绕著我们与月亮。淡黄的月光照亮伫立的我俩。"
 
 # game/prologue.rpy:1521
 translate Schinese p_walk_w_arthur_1_dd0ee98f:
 
     # "I look at him."
-    "我望着他。"
+    "我望著他。"
 
 # game/prologue.rpy:1524
 translate Schinese p_walk_w_arthur_1_bfad7d03:
@@ -2547,19 +2547,19 @@ translate Schinese p_walk_w_arthur_1_bfad7d03:
 # game/prologue.rpy:1525
 translate Schinese p_walk_w_arthur_1_b2b31f02:
 
-    # "His tail won't stop moving."
+    # "His tail won''t stop moving."
     "尾巴摆动不停。"
 
 # game/prologue.rpy:1528
 translate Schinese p_walk_w_arthur_1_3f084089:
 
-    # sean sideSeanNeutral "You're sure?"
+    # sean sideSeanNeutral "You''re sure?"
     sean sideSeanNeutral "你确定吗？"
 
 # game/prologue.rpy:1532
 translate Schinese p_walk_w_arthur_1_65c66c01:
 
-    # arthur "Yes-no-I don't know. I wasn't in there for long, but- Sean I'm worried about him."
+    # arthur "Yes-no-I don''t know. I wasn''t in there for long, but- Sean I''m worried about him."
     arthur "对、不……我不知道。我没待太久，可是……Sean，我好担心他。"
 
 # game/prologue.rpy:1535
@@ -2571,8 +2571,8 @@ translate Schinese p_walk_w_arthur_1_a28a788c:
 # game/prologue.rpy:1539
 translate Schinese p_walk_w_arthur_1_9a692862:
 
-    # arthur "W-what if, I don't know, what if we make it worse. What if we just don't do anything. I mean he doesn't know we know."
-    arthur "要、要是，怎麽说，会让事情恶化怎麽办？不然乾脆什麽都别做吧？他还不知道我们知道这件事。"
+    # arthur "W-what if, I don''t know, what if we make it worse. What if we just don''t do anything. I mean he doesn''t know we know."
+    arthur "要、要是，怎么说，会让事情恶化怎么办？不然乾脆什么都别做吧？他还不知道我们知道这件事。"
 
 # game/prologue.rpy:1542
 translate Schinese p_walk_w_arthur_1_2c816168:
@@ -2595,7 +2595,7 @@ translate Schinese p_walk_w_arthur_1_45b566c1:
 # game/prologue.rpy:1545
 translate Schinese p_walk_w_arthur_1_bc1a164d:
 
-    # "He should talk to us about these kinds of things. We're friends."
+    # "He should talk to us about these kinds of things. We''re friends."
     "这种事他应该要跟我们商量的。我们是朋友啊。"
 
 # game/prologue.rpy:1546
@@ -2607,14 +2607,14 @@ translate Schinese p_walk_w_arthur_1_9979a58c:
 # game/prologue.rpy:1547
 translate Schinese p_walk_w_arthur_1_0776acf7:
 
-    # narrator sideSeanNeutral "Maybe I'm just overthinking this."
+    # narrator sideSeanNeutral "Maybe I''m just overthinking this."
     narrator sideSeanNeutral "也许只是我想太多了。"
 
 # game/prologue.rpy:1550
 translate Schinese p_walk_w_arthur_1_52cb9a82:
 
-    # sean "I don't know. Maybe we should do something."
-    sean "不好说，我们可能该做点什麽吧。"
+    # sean "I don''t know. Maybe we should do something."
+    sean "不好说，我们可能该做点什么吧。"
 
 # game/prologue.rpy:1551
 translate Schinese p_walk_w_arthur_1_1424a985:
@@ -2631,13 +2631,13 @@ translate Schinese p_walk_w_arthur_1_be27a989:
 # game/prologue.rpy:1558
 translate Schinese p_walk_w_arthur_1_58973d80:
 
-    # arthur "I-I mean, I'm staying at his place tonight. I-I could try talking to him one on one."
-    arthur "你、你看，我今晚会住他家。我、我试着跟他一对一谈谈吧。"
+    # arthur "I-I mean, I''m staying at his place tonight. I-I could try talking to him one on one."
+    arthur "你、你看，我今晚会住他家。我、我试著跟他一对一谈谈吧。"
 
 # game/prologue.rpy:1561
 translate Schinese p_walk_w_arthur_1_a2336196:
 
-    # sean "Would that help? We don't really know how sensitive this is."
+    # sean "Would that help? We don''t really know how sensitive this is."
     sean "会有用吗？我们不知道事情有多严重。"
 
 # game/prologue.rpy:1562
@@ -2650,7 +2650,7 @@ translate Schinese p_walk_w_arthur_1_8612ea5e:
 translate Schinese p_walk_w_arthur_1_3bf4ae91:
 
     # arthur "What else can we do?"
-    arthur "不然还能怎麽办？"
+    arthur "不然还能怎么办？"
 
 # game/prologue.rpy:1581
 translate Schinese p_tell_arthur_to_confront_cody_65cadf37:
@@ -2661,25 +2661,25 @@ translate Schinese p_tell_arthur_to_confront_cody_65cadf37:
 # game/prologue.rpy:1584
 translate Schinese p_tell_arthur_to_confront_cody_9bd9a31f:
 
-    # arthur "You really think that's a good idea?"
+    # arthur "You really think that''s a good idea?"
     arthur "你真认为这是好主意吗？"
 
 # game/prologue.rpy:1587
 translate Schinese p_tell_arthur_to_confront_cody_2dd8336a:
 
-    # sean "Yeah. Just, be calm about it. Don't, like, back him into a corner, or something."
+    # sean "Yeah. Just, be calm about it. Don''t, like, back him into a corner, or something."
     sean "嗯，淡定点来就是了。不要把他逼太紧之类的。"
 
 # game/prologue.rpy:1591
 translate Schinese p_tell_arthur_to_confront_cody_07740085:
 
     # arthur sideSeanNeutral "Yeah... Yeah, ok, I think I know how to approach this."
-    arthur sideSeanNeutral "好……好吧，我大概知道该怎麽做了。"
+    arthur sideSeanNeutral "好……好吧，我大概知道该怎么做了。"
 
 # game/prologue.rpy:1602
 translate Schinese p_tell_arthur_to_not_confront_cody_4304a10d:
 
-    # sean "I don't think that's a good idea."
+    # sean "I don''t think that''s a good idea."
     sean "我不觉得这是个好主意。"
 
 # game/prologue.rpy:1606
@@ -2697,7 +2697,7 @@ translate Schinese p_tell_arthur_to_not_confront_cody_8ef137c3:
 # game/prologue.rpy:1613
 translate Schinese p_tell_arthur_to_not_confront_cody_67d55fb8:
 
-    # "Arthur nods. I think he understands that it's better to take things slow and put the pieces together."
+    # "Arthur nods. I think he understands that it''s better to take things slow and put the pieces together."
     "Arthur点头。他应该也明白最好慢慢来，好逐渐了解事情全貌。"
 
 # game/prologue.rpy:1614
@@ -2709,8 +2709,8 @@ translate Schinese p_tell_arthur_to_not_confront_cody_fd000c86:
 # game/prologue.rpy:1615
 translate Schinese p_tell_arthur_to_not_confront_cody_6d926665:
 
-    # "I know he said he didn't want to talk about it, but neither of us can help it. We need to know what's going on with our friend."
-    "他是有说过不想多谈，但我们不吃这套。我们就是要知道朋友怎麽了。"
+    # "I know he said he didn''t want to talk about it, but neither of us can help it. We need to know what''s going on with our friend."
+    "他是有说过不想多谈，但我们不吃这套。我们就是要知道朋友怎么了。"
 
 # game/prologue.rpy:1618
 translate Schinese p_tell_arthur_to_not_confront_cody_d412931c:
@@ -2721,37 +2721,37 @@ translate Schinese p_tell_arthur_to_not_confront_cody_d412931c:
 # game/prologue.rpy:1621
 translate Schinese p_tell_arthur_to_not_confront_cody_3f2cf3e9:
 
-    # arthur "I don't think he'll want to give us anymore info. He didn't tell us that much in the car."
+    # arthur "I don''t think he''ll want to give us anymore info. He didn''t tell us that much in the car."
     arthur "他应该不会跟我们多说了吧。在车里的时候他就不想多谈了。"
 
 # game/prologue.rpy:1624
 translate Schinese p_tell_arthur_to_not_confront_cody_2e480b3c:
 
-    # sean "I'll figure something out. I just don't want to put anymore stress on Cody. He clearly has enough going on."
+    # sean "I''ll figure something out. I just don''t want to put anymore stress on Cody. He clearly has enough going on."
     sean "我会想办法。总之不能再给Cody更多压力了。他都快撑不住了。"
 
 # game/prologue.rpy:1627
 translate Schinese p_tell_arthur_to_not_confront_cody_83eaff34:
 
     # "Arthur sighs. I think he agrees with me, to some extent. Still, it sucks not being able to directly help Cody."
-    "Arthur叹了口气。他应该多少也贊同我的想法。但没办法直接帮助Cody，还是很不甘心。"
+    "Arthur叹了口气。他应该多少也赞同我的想法。但没办法直接帮助Cody，还是很不甘心。"
 
 # game/prologue.rpy:1628
 translate Schinese p_tell_arthur_to_not_confront_cody_8433de5d:
 
     # "Who knows, maybe seeing us is helping. Maybe going back to how things were will reignite something in him."
-    "这也难说，搞不好光是有我们陪着就够了。也许回忆起过往，能勾起他心中的一些情感。"
+    "这也难说，搞不好光是有我们陪著就够了。也许回忆起过往，能勾起他心中的一些情感。"
 
 # game/prologue.rpy:1639
 translate Schinese p_walk_w_arthur_2_c006e638:
 
-    # arthur sideSeanNeutral "We should get back. We had a whole six hour car ride to talk. Kinda weird we're not spending it with our friends."
+    # arthur sideSeanNeutral "We should get back. We had a whole six hour car ride to talk. Kinda weird we''re not spending it with our friends."
     arthur sideSeanNeutral "我们该回去了。都已经在车上聊了六小时，不多跟朋友们相处会很怪。"
 
 # game/prologue.rpy:1642
 translate Schinese p_walk_w_arthur_2_5479c0a5:
 
-    # sean "Yeah you're right."
+    # sean "Yeah you''re right."
     sean "嗯，说的也是。"
 
 # game/prologue.rpy:1645
@@ -2764,7 +2764,7 @@ translate Schinese p_walk_w_arthur_2_fffd0692:
 translate Schinese p_walk_w_arthur_2_76a6a858:
 
     # narrator sideSeanNeutral "We walked back to our faux campsite. The fire was starting to die down. Thankfully its faint embers were still visible in the dark."
-    narrator sideSeanNeutral "我们走回简易露营地。火已经快灭了，幸好馀烬的光亮在黑暗中依然可见。"
+    narrator sideSeanNeutral "我们走回简易露营地。火已经快灭了，幸好余烬的光亮在黑暗中依然可见。"
 
 # game/prologue.rpy:1664
 translate Schinese p_walk_w_arthur_2_24f14e4a:
@@ -2782,19 +2782,19 @@ translate Schinese p_walk_w_arthur_2_c0623180:
 translate Schinese p_walk_w_arthur_2_4b63a89e:
 
     # narrator sideSeanSmile "He makes an ooooh sound while wiggling his paws at us. Arthur snorts at the comment. I give him a smile."
-    narrator sideSeanSmile "他发出「呜呜呜」的声音，对我们晃着双爪。Arthur哼笑一声，我则向他微笑。"
+    narrator sideSeanSmile "他发出「呜呜呜」的声音，对我们晃著双爪。Arthur哼笑一声，我则向他微笑。"
 
 # game/prologue.rpy:1676
 translate Schinese p_walk_w_arthur_2_a93490c1:
 
-    # "It's nice to finally be back."
+    # "It''s nice to finally be back."
     "回来的感觉真棒。"
 
 # game/prologue.rpy:1679
 translate Schinese p_walk_w_arthur_2_4462f1a5:
 
     # cody "We were talking about doing a Salem trip later on in the week. They have this new Escape Room place at the mall."
-    cody "我们刚才聊到这週晚点要去赛勒姆一趟。购物中心里新开了间密室逃脱。"
+    cody "我们刚才聊到这周晚点要去赛勒姆一趟。购物中心里新开了间密室逃脱。"
 
 # game/prologue.rpy:1685
 translate Schinese p_walk_w_arthur_2_ed1ffd37:
@@ -2811,37 +2811,37 @@ translate Schinese p_walk_w_arthur_2_8c4be974:
 # game/prologue.rpy:1693
 translate Schinese p_walk_w_arthur_2_6b4bb7bd:
 
-    # rocco "Hey I've been up since six. Mind if we put this out and then head back."
+    # rocco "Hey I''ve been up since six. Mind if we put this out and then head back."
     rocco "欸，我今早六点就起来了。可以把这灭了，然后回家了吗？"
 
 # game/prologue.rpy:1697
 translate Schinese p_walk_w_arthur_2_c3be589f:
 
-    # "He points down at the fire with his foot. Arthur looks a little angry. Probably wanting one last s'more."
-    "他用脚指着营火。Arthur略显不悦，大概是还想再吃个巧克力棉花糖吧。"
+    # "He points down at the fire with his foot. Arthur looks a little angry. Probably wanting one last s''more."
+    "他用脚指著营火。Arthur略显不悦，大概是还想再吃个巧克力棉花糖吧。"
 
 # game/prologue.rpy:1700
 translate Schinese p_walk_w_arthur_2_8947b679:
 
-    # arthur "Don't you work evening shifts?"
+    # arthur "Don''t you work evening shifts?"
     arthur "你不是下午才上班吗？"
 
 # game/prologue.rpy:1705
 translate Schinese p_walk_w_arthur_2_c469dbda:
 
-    # rocco "Yeah, but my folks don't. Their bickering starts with coffee in the morning and ends with Dad asleep on the couch."
+    # rocco "Yeah, but my folks don''t. Their bickering starts with coffee in the morning and ends with Dad asleep on the couch."
     rocco "我是，但我爸妈不是。他们每天从一早泡好咖啡就开始吵到晚上老爸睡在沙发上。"
 
 # game/prologue.rpy:1711
 translate Schinese p_walk_w_arthur_2_7f616bc4:
 
-    # narrator sideSeanConcerned "Arthur and I give a concerned look. Rocco just put up his paws. I didn't think it was that bad."
-    narrator sideSeanConcerned "我跟Arthur担忧地望着Rocco，他只双爪往上一摆。没想到这麽糟。"
+    # narrator sideSeanConcerned "Arthur and I give a concerned look. Rocco just put up his paws. I didn''t think it was that bad."
+    narrator sideSeanConcerned "我跟Arthur担忧地望著Rocco，他只双爪往上一摆。没想到这么糟。"
 
 # game/prologue.rpy:1714
 translate Schinese p_walk_w_arthur_2_ab6177fb:
 
-    # rocco "It's been like this for three fuckin' years. I'm used to it."
+    # rocco "It''s been like this for three fuckin'' years. I''m used to it."
     rocco "这他妈三年来一直都是这样，我已经习惯了。"
 
 # game/prologue.rpy:1717
@@ -2859,44 +2859,44 @@ translate Schinese p_walk_w_arthur_2_ecc13708:
 # game/prologue.rpy:1724
 translate Schinese p_walk_w_arthur_2_9255c7fc:
 
-    # cody "I know I'm already hosting Arthur, but do you want to-"
+    # cody "I know I''m already hosting Arthur, but do you want to-"
     cody "虽然Arthur已经要在这睡了，但你要不——"
 
 # game/prologue.rpy:1727
 translate Schinese p_walk_w_arthur_2_f6879c9a:
 
-    # rocco "Nah, it's fine. Fuckers would probably yell at me if I didn't come home."
+    # rocco "Nah, it''s fine. Fuckers would probably yell at me if I didn''t come home."
     rocco "不用，没事。要是我不回家，肯定会被他们两个臭骂一顿。"
 
 # game/prologue.rpy:1730
 translate Schinese p_walk_w_arthur_2_6202d874:
 
-    # arthur "Why don't you move out?"
-    arthur "怎麽不搬走？"
+    # arthur "Why don''t you move out?"
+    arthur "怎么不搬走？"
 
 # game/prologue.rpy:1733
 translate Schinese p_walk_w_arthur_2_c44c27c8:
 
-    # rocco "Beacuse I don't have to pay rent or for food. With how much I'm making it's either save for college or pay for basic necessities."
-    rocco "我这样不用付房租或餐费。我赚的就这麽点，没法兼顾大学学费跟生活费。"
+    # rocco "Beacuse I don''t have to pay rent or for food. With how much I''m making it''s either save for college or pay for basic necessities."
+    rocco "我这样不用付房租或餐费。我赚的就这么点，没法兼顾大学学费跟生活费。"
 
 # game/prologue.rpy:1736
 translate Schinese p_walk_w_arthur_2_eadf30e1:
 
-    # "I start to speak, but as if knowing what I'm about to say Rocco cuts me off."
-    "我正要开口，Rocco就像知道我想说什麽似地出声打断："
+    # "I start to speak, but as if knowing what I''m about to say Rocco cuts me off."
+    "我正要开口，Rocco就像知道我想说什么似地出声打断："
 
 # game/prologue.rpy:1739
 translate Schinese p_walk_w_arthur_2_1045597b:
 
-    # rocco "No I'm not getting a fucking student loan. I don't want to be paying off college for the next thirty one years."
+    # rocco "No I''m not getting a fucking student loan. I don''t want to be paying off college for the next thirty one years."
     rocco "我才不要申请狗屁助学贷款。要不然往后三十一年我都得一直还债了。"
 
 # game/prologue.rpy:1742
 translate Schinese p_walk_w_arthur_2_766e8e2c:
 
     # sean "How did you- whatever."
-    sean "你怎麽……算了。"
+    sean "你怎么……算了。"
 
 # game/prologue.rpy:1745
 translate Schinese p_walk_w_arthur_2_2397b68d:
@@ -2907,19 +2907,19 @@ translate Schinese p_walk_w_arthur_2_2397b68d:
 # game/prologue.rpy:1749
 translate Schinese p_walk_w_arthur_2_be5f97ce:
 
-    # rocco "You're not that hard to read Sean. C'mon, let's clean this shit up and bounce."
+    # rocco "You''re not that hard to read Sean. C''mon, let''s clean this shit up and bounce."
     rocco "你还挺好懂的，Sean。好啦，收拾收拾走人吧。"
 
 # game/prologue.rpy:1752
 translate Schinese p_walk_w_arthur_2_046b3489:
 
-    # "Thankfully it doesn't take long to get everything together and hike back to my car."
+    # "Thankfully it doesn''t take long to get everything together and hike back to my car."
     "还好收拾东西跟走回车上没花多久。"
 
 # game/prologue.rpy:1768
 translate Schinese p_walk_w_rocco_1_7278de9d:
 
-    # sean sideSeanSmile "Hey Rocco, I'm gonna go for a walk. Wanna join me?"
+    # sean sideSeanSmile "Hey Rocco, I''m gonna go for a walk. Wanna join me?"
     sean sideSeanSmile "欸Rocco，我要去散个步，要不要一起来？"
 
 # game/prologue.rpy:1772
@@ -2931,7 +2931,7 @@ translate Schinese p_walk_w_rocco_1_ac9f8423:
 # game/prologue.rpy:1776
 translate Schinese p_walk_w_rocco_1_8065584f:
 
-    # rocco "Sean I'm flattered, really, but c'mon man. You know I don't swing that way."
+    # rocco "Sean I''m flattered, really, but c''mon man. You know I don''t swing that way."
     rocco "Sean，我真的很感谢你的心意，但你也知道，我不是那一边的。"
 
 # game/prologue.rpy:1779
@@ -2943,13 +2943,13 @@ translate Schinese p_walk_w_rocco_1_7cb09da5:
 # game/prologue.rpy:1782
 translate Schinese p_walk_w_rocco_1_b6d6d88e:
 
-    # sean "If you don't want to come you can just say that."
+    # sean "If you don''t want to come you can just say that."
     sean "不想的话，你直说就是了。"
 
 # game/prologue.rpy:1786
 translate Schinese p_walk_w_rocco_1_cb9003b1:
 
-    # "My tone comes out more frustrated than teasing. I see a flash of regret wipe over Rocco's face."
+    # "My tone comes out more frustrated than teasing. I see a flash of regret wipe over Rocco''s face."
     "我的语气比起讥讽听起来更近似不悦，令Rocco脸上闪过一丝懊悔。"
 
 # game/prologue.rpy:1790
@@ -2974,19 +2974,19 @@ translate Schinese p_walk_w_rocco_1_bf81ac17:
 translate Schinese p_walk_w_rocco_1_022280c4:
 
     # "Rocco seems to be enjoying the weather too. I hear a soft hum come from his snout as we get further from the fire."
-    "Rocco似乎也很享受这天气。随着我们离营火越走越远，他鼻头也传出哼唱声。"
+    "Rocco似乎也很享受这天气。随著我们离营火越走越远，他鼻头也传出哼唱声。"
 
 # game/prologue.rpy:1803
 translate Schinese p_walk_w_rocco_1_3a813739:
 
-    # "We subconsciously find the trail. I guess we're far enough away now."
+    # "We subconsciously find the trail. I guess we''re far enough away now."
     "我们下意识来到了小径，看来已经够远了。"
 
 # game/prologue.rpy:1807
 translate Schinese p_walk_w_rocco_1_6445f02a:
 
-    # sean sideSeanNeutral "Why do you always have to act like I'm coming on to you?"
-    sean sideSeanNeutral "你怎麽每次都表现得好像我对你有意思一样？"
+    # sean sideSeanNeutral "Why do you always have to act like I''m coming on to you?"
+    sean sideSeanNeutral "你怎么每次都表现得好像我对你有意思一样？"
 
 # game/prologue.rpy:1811
 translate Schinese p_walk_w_rocco_1_b267c5a1:
@@ -2997,26 +2997,26 @@ translate Schinese p_walk_w_rocco_1_b267c5a1:
 # game/prologue.rpy:1814
 translate Schinese p_walk_w_rocco_1_80aa384f:
 
-    # sean "It's been a while. I get it. A lot has happened."
+    # sean "It''s been a while. I get it. A lot has happened."
     sean "我也知道已经过了很久，发生了很多事。"
 
 # game/prologue.rpy:1817
 translate Schinese p_walk_w_rocco_1_e29f5c2c:
 
-    # "I sigh. This wasn't anything new."
-    "我叹了口气。这也不是什麽新鲜事了。"
+    # "I sigh. This wasn''t anything new."
+    "我叹了口气。这也不是什么新鲜事了。"
 
 # game/prologue.rpy:1818
 translate Schinese p_walk_w_rocco_1_1cf15428:
 
-    # "He, affectionately, referred to Casey and I as the 'Gay Boys' after we came out."
-    "在我和Casey出柜后，他就给我们起了个「小gay炮」的暱称。"
+    # "He, affectionately, referred to Casey and I as the ''Gay Boys'' after we came out."
+    "在我和Casey出柜后，他就给我们起了个「小gay炮」的昵称。"
 
 # game/prologue.rpy:1819
 translate Schinese p_walk_w_rocco_1_8a5fd6bc:
 
-    # "This was just how he was before Casey went to camp. Now that it's coming back it just felt... wrong."
-    "在Casey去矫正营之前他就是这个样子。现在又故态復萌，感觉就是……很不对。"
+    # "This was just how he was before Casey went to camp. Now that it''s coming back it just felt... wrong."
+    "在Casey去矫正营之前他就是这个样子。现在又故态复萌，感觉就是……很不对。"
 
 # game/prologue.rpy:1822
 translate Schinese p_walk_w_rocco_1_c08f90a4:
@@ -3027,7 +3027,7 @@ translate Schinese p_walk_w_rocco_1_c08f90a4:
 # game/prologue.rpy:1825
 translate Schinese p_walk_w_rocco_1_3d33f219:
 
-    # "I don't want to finish that sentence."
+    # "I don''t want to finish that sentence."
     "我不想把整句话说出来。"
 
 # game/prologue.rpy:1828
@@ -3051,7 +3051,7 @@ translate Schinese p_walk_w_rocco_1_3a1ef8ae:
 # game/prologue.rpy:1836
 translate Schinese p_walk_w_rocco_1_811d4053:
 
-    # rocco "I'm sorry."
+    # rocco "I''m sorry."
     rocco "对不起。"
 
 # game/prologue.rpy:1840
@@ -3063,31 +3063,31 @@ translate Schinese p_walk_w_rocco_1_32e054f9:
 # game/prologue.rpy:1844
 translate Schinese p_walk_w_rocco_1_b5ef6d9b:
 
-    # rocco sideSeanConcerned "I really am stuck in a loop, aren't I?"
+    # rocco sideSeanConcerned "I really am stuck in a loop, aren''t I?"
     rocco sideSeanConcerned "我就是在兜圈子，对吧？"
 
 # game/prologue.rpy:1845
 translate Schinese p_walk_w_rocco_1_9d04a3c8:
 
-    # rocco "Everyone's growing, changing, learning new things about themselves."
+    # rocco "Everyone''s growing, changing, learning new things about themselves."
     rocco "大家都在成长、改变、发掘自我。"
 
 # game/prologue.rpy:1846
 translate Schinese p_walk_w_rocco_1_6fac0a84:
 
-    # rocco "I'm still the same old asshole that I was in highschool."
+    # rocco "I''m still the same old asshole that I was in highschool."
     rocco "我却还是高中时期那个混混。"
 
 # game/prologue.rpy:1849
 translate Schinese p_walk_w_rocco_1_0362b63e:
 
-    # "I'm about to say something, but he continues."
-    "我正想说些什麽，他却继续说下去："
+    # "I''m about to say something, but he continues."
+    "我正想说些什么，他却继续说下去："
 
 # game/prologue.rpy:1852
 translate Schinese p_walk_w_rocco_1_80bd112f:
 
-    # rocco "I know that's not an excuse."
+    # rocco "I know that''s not an excuse."
     rocco "我也知道这不是理由。"
 
 # game/prologue.rpy:1853
@@ -3099,7 +3099,7 @@ translate Schinese p_walk_w_rocco_1_47617095:
 # game/prologue.rpy:1854
 translate Schinese p_walk_w_rocco_1_bcd07be7:
 
-    # rocco "Now that the gang's back together, for a bit, I wanted to relive those golden days."
+    # rocco "Now that the gang''s back together, for a bit, I wanted to relive those golden days."
     rocco "现在大伙暂时又聚一块了，我就想回味那段美好时光。"
 
 # game/prologue.rpy:1855
@@ -3112,18 +3112,18 @@ translate Schinese p_walk_w_rocco_1_c4a649c5:
 translate Schinese p_walk_w_rocco_1_93d96643:
 
     # narrator sideSeanConcerned "He looks solemnly at the ground."
-    narrator sideSeanConcerned "他静肃地望着地面。"
+    narrator sideSeanConcerned "他静肃地望著地面。"
 
 # game/prologue.rpy:1863
 translate Schinese p_walk_w_rocco_1_b6a26012:
 
-    # rocco sideSeanSmile "Shit man. I'll try to be better."
+    # rocco sideSeanSmile "Shit man. I''ll try to be better."
     rocco sideSeanSmile "唉，我会努力改的。"
 
 # game/prologue.rpy:1866
 translate Schinese p_walk_w_rocco_1_2d0c6751:
 
-    # sean "It's ok. Just, try not to do it too often. I don't want it to become a habit again."
+    # sean "It''s ok. Just, try not to do it too often. I don''t want it to become a habit again."
     sean "没事，就……不要太常说就行了。别又成了坏习惯。"
 
 # game/prologue.rpy:1867
@@ -3141,8 +3141,8 @@ translate Schinese p_walk_w_rocco_1_a754db20:
 # game/prologue.rpy:1875
 translate Schinese p_walk_w_rocco_1_6d0d912e:
 
-    # rocco "Well I have been working out. Didn't know you were into the... uuh... Fuck, what do the gays call it?"
-    rocco "我是有在健身。都不知道你喜欢……呃……操，gay都怎麽说的？"
+    # rocco "Well I have been working out. Didn''t know you were into the... uuh... Fuck, what do the gays call it?"
+    rocco "我是有在健身。都不知道你喜欢……呃……操，gay都怎么说的？"
 
 # game/prologue.rpy:1878
 translate Schinese p_walk_w_rocco_1_d9d126bc:
@@ -3165,7 +3165,7 @@ translate Schinese p_walk_w_rocco_1_993a7ec9:
 # game/prologue.rpy:1887
 translate Schinese p_walk_w_rocco_1_49f018be:
 
-    # rocco "If you're interested we could go work out at the gym in Salem. I go there every thursday!"
+    # rocco "If you''re interested we could go work out at the gym in Salem. I go there every thursday!"
     rocco "有兴趣的话，咱们可以一起去赛勒姆的健身房练练。我每个礼拜四都会去！"
 
 # game/prologue.rpy:1890
@@ -3183,7 +3183,7 @@ translate Schinese p_walk_w_rocco_1_f2b5be88:
 # game/prologue.rpy:1896
 translate Schinese p_walk_w_rocco_1_9f16dc47:
 
-    # "And... he's ruined it."
+    # "And... he''s ruined it."
     "嗯……他又来了。"
 
 # game/prologue.rpy:1900
@@ -3195,14 +3195,14 @@ translate Schinese p_walk_w_rocco_1_bba9785c:
 # game/prologue.rpy:1903
 translate Schinese p_walk_w_rocco_1_2a722e8f:
 
-    # rocco "Shit! Sorry I'll stop."
+    # rocco "Shit! Sorry I''ll stop."
     rocco "喔靠！抱歉，我不会再犯了。"
 
 # game/prologue.rpy:1907
 translate Schinese p_walk_w_rocco_1_91b90c40:
 
     # sean "So what has been going on around town?"
-    sean "话说镇上都发生了什麽事？"
+    sean "话说镇上都发生了什么事？"
 
 # game/prologue.rpy:1911
 translate Schinese p_walk_w_rocco_1_0b3579da:
@@ -3219,38 +3219,38 @@ translate Schinese p_walk_w_rocco_1_a2acb379:
 # game/prologue.rpy:1917
 translate Schinese p_walk_w_rocco_1_e28af35d:
 
-    # rocco sideSeanConcerned "As I said, nonstop fighting with my folks. It's a sin to let people actually enjoy their lives."
+    # rocco sideSeanConcerned "As I said, nonstop fighting with my folks. It''s a sin to let people actually enjoy their lives."
     rocco sideSeanConcerned "我之前也说过，跟我爸妈吵个不停。好像让人享受人生是种罪恶。"
 
 # game/prologue.rpy:1920
 translate Schinese p_walk_w_rocco_1_19530009:
 
     # "Ever since Arthur and I graduated their relationship had gone downhill."
-    "自从我跟Arthur毕业，他们的关係就走了下坡。"
+    "自从我跟Arthur毕业，他们的关系就走了下坡。"
 
 # game/prologue.rpy:1921
 translate Schinese p_walk_w_rocco_1_3f28f59a:
 
-    # "Part of me is glad that they're suffering. After the hell they put their son through, they deserved it."
+    # "Part of me is glad that they''re suffering. After the hell they put their son through, they deserved it."
     "一方面我是很高兴他们活得很痛苦。那样对待自己的儿子，他们活该。"
 
 # game/prologue.rpy:1922
 translate Schinese p_walk_w_rocco_1_8fbf0a15:
 
-    # narrator sideSeanSad "The other part is sad they're bringing down the one still with them."
+    # narrator sideSeanSad "The other part is sad they''re bringing down the one still with them."
     narrator sideSeanSad "另一方面，还在的那个儿子也被一起拖下水，则让我很难过。"
 
 # game/prologue.rpy:1925
 translate Schinese p_walk_w_rocco_1_73934134:
 
-    # rocco sideSeanNeutral "Then there's the fucking press."
+    # rocco sideSeanNeutral "Then there''s the fucking press."
     rocco sideSeanNeutral "还有那个蠢报社。"
 
 # game/prologue.rpy:1927
 translate Schinese p_walk_w_rocco_1_ff5dc04e:
 
     # rocco "Rolling in and acting like they own the place. All because they make more money in a second than anyone does in a year here."
-    rocco "仗着自己分分钟就能赚得比这里人年薪还多，就跑来装得好像这里是他们地盘似的。"
+    rocco "仗著自己分分钟就能赚得比这里人年薪还多，就跑来装得好像这里是他们地盘似的。"
 
 # game/prologue.rpy:1928
 translate Schinese p_walk_w_rocco_1_956e5263:
@@ -3262,7 +3262,7 @@ translate Schinese p_walk_w_rocco_1_956e5263:
 translate Schinese p_walk_w_rocco_1_8bb07f9c:
 
     # sean sideSeanConcerned "Wait, people have gone missing?"
-    sean sideSeanConcerned "什麽，有人失踪？"
+    sean sideSeanConcerned "什么，有人失蹤？"
 
 # game/prologue.rpy:1935
 translate Schinese p_walk_w_rocco_1_0666217d:
@@ -3273,13 +3273,13 @@ translate Schinese p_walk_w_rocco_1_0666217d:
 # game/prologue.rpy:1936
 translate Schinese p_walk_w_rocco_1_ca105265:
 
-    # rocco "They leave their junk around town. You can't find who owns it, and get them to move."
+    # rocco "They leave their junk around town. You can''t find who owns it, and get them to move."
     rocco "到处都是他们的东西，却找不到物主来移走。"
 
 # game/prologue.rpy:1940
 translate Schinese p_walk_w_rocco_1_d0bd059c:
 
-    # rocco "I tried calling one of the news stations and they said they'll 'look into it'."
+    # rocco "I tried calling one of the news stations and they said they''ll ''look into it''."
     rocco "我有打给其中一间电台，他们只说「会调查」。"
 
 # game/prologue.rpy:1941
@@ -3298,12 +3298,12 @@ translate Schinese p_walk_w_rocco_1_992acd3b:
 translate Schinese p_walk_w_rocco_1_7cea3560:
 
     # rocco "Carl found a kid out in the woods, stoat girl."
-    rocco "Carl在森林里发现了一个小孩，是隻小女鼬。"
+    rocco "Carl在森林里发现了一个小孩，是只小女鼬。"
 
 # game/prologue.rpy:1950
 translate Schinese p_walk_w_rocco_1_963afa12:
 
-    # rocco "He said she has amnesia, so he took her to the cops to see if they could help. That was on wednesday, haven't heard anything since."
+    # rocco "He said she has amnesia, so he took her to the cops to see if they could help. That was on wednesday, haven''t heard anything since."
     rocco "说是她有失忆症，就把她带给警察看看他们能不能帮上忙。礼拜三的事了，到现在都没消息。"
 
 # game/prologue.rpy:1954
@@ -3315,13 +3315,13 @@ translate Schinese p_walk_w_rocco_1_938e6881:
 # game/prologue.rpy:1957
 translate Schinese p_walk_w_rocco_1_9f8017f6:
 
-    # rocco "Oh, then there's the hole. Don't get me fucking started on the hole!"
+    # rocco "Oh, then there''s the hole. Don''t get me fucking started on the hole!"
     rocco "哦，还有那个天坑。更别提那个天坑了！"
 
 # game/prologue.rpy:1960
 translate Schinese p_walk_w_rocco_1_1ba0d5e9:
 
-    # "His voice starts to raise as a low growl builds in his throat. I hope we're far enough away from the camp so the others don't hear it."
+    # "His voice starts to raise as a low growl builds in his throat. I hope we''re far enough away from the camp so the others don''t hear it."
     "他喉头传出低吼声。但愿离其他人够远，没让他们听见。"
 
 # game/prologue.rpy:1963
@@ -3351,20 +3351,20 @@ translate Schinese p_walk_w_rocco_1_f782c349:
 # game/prologue.rpy:1972
 translate Schinese p_walk_w_rocco_1_4fa161d6:
 
-    # narrator sideSeanNeutral "I don't say anything. Just letting Rocco vent. It feels like he's been holding this in for months."
-    narrator sideSeanNeutral "我闭口不语，让Rocco好好发洩。感觉他已经积了几个月的怨气了。"
+    # narrator sideSeanNeutral "I don''t say anything. Just letting Rocco vent. It feels like he''s been holding this in for months."
+    narrator sideSeanNeutral "我闭口不语，让Rocco好好发泄。感觉他已经积了几个月的怨气了。"
 
 # game/prologue.rpy:1976
 translate Schinese p_walk_w_rocco_1_8e3faf2b:
 
-    # rocco "I have no fucking idea why corperate keeps the lights on. It's a fucking miracle I've been able to work that shit hole to get some kind of money."
-    rocco "我都不知道为什麽旅馆还没倒闭。我能在那屎地方工作赚钱根本就是奇蹟。"
+    # rocco "I have no fucking idea why corperate keeps the lights on. It''s a fucking miracle I''ve been able to work that shit hole to get some kind of money."
+    rocco "我都不知道为什么旅馆还没倒闭。我能在那屎地方工作赚钱根本就是奇蹟。"
 
 # game/prologue.rpy:1977
 translate Schinese p_walk_w_rocco_1_12bd3354:
 
     # rocco "But the best part."
-    rocco "但你知道最棒的是什麽吗？"
+    rocco "但你知道最棒的是什么吗？"
 
 # game/prologue.rpy:1979
 translate Schinese p_walk_w_rocco_1_ad3632ba:
@@ -3381,14 +3381,14 @@ translate Schinese p_walk_w_rocco_1_ddee5398:
 # game/prologue.rpy:1981
 translate Schinese p_walk_w_rocco_1_21a60574:
 
-    # rocco "All because he couldn't bear the guilt of killing someone!"
+    # rocco "All because he couldn''t bear the guilt of killing someone!"
     rocco "就因为他背负不了杀了人的罪恶感！"
 
 # game/prologue.rpy:1984
 translate Schinese p_walk_w_rocco_1_12e816a2:
 
     # "What the fuck."
-    "什麽鬼？"
+    "什么鬼？"
 
 # game/prologue.rpy:1987
 translate Schinese p_walk_w_rocco_1_2a773eb7:
@@ -3400,12 +3400,12 @@ translate Schinese p_walk_w_rocco_1_2a773eb7:
 translate Schinese p_walk_w_rocco_1_28a6e101:
 
     # "He stares at me. Eyes wide with fear. Realizing what he just said."
-    "他惊觉自己说了什麽，惊恐地瞪大双眼望着我。"
+    "他惊觉自己说了什么，惊恐地瞪大双眼望著我。"
 
 # game/prologue.rpy:1989
 translate Schinese p_walk_w_rocco_1_3772f7eb:
 
-    # "He doesn't say anything."
+    # "He doesn''t say anything."
     "他一语不发。"
 
 # game/prologue.rpy:1990
@@ -3430,7 +3430,7 @@ translate Schinese p_walk_w_rocco_1_887162af:
 translate Schinese p_walk_w_rocco_1_ca279478:
 
     # "He yells, punching a nearby tree."
-    "他怒吼着一拳揍向身旁的树。"
+    "他怒吼著一拳揍向身旁的树。"
 
 # game/prologue.rpy:2000
 translate Schinese p_walk_w_rocco_1_edc9c1e9:
@@ -3441,13 +3441,13 @@ translate Schinese p_walk_w_rocco_1_edc9c1e9:
 # game/prologue.rpy:2001
 translate Schinese p_walk_w_rocco_1_44eeb5c3:
 
-    # narrator sideSeanConcerned "I hope he didn't break any fingers."
+    # narrator sideSeanConcerned "I hope he didn''t break any fingers."
     narrator sideSeanConcerned "希望他没把手指揍断。"
 
 # game/prologue.rpy:2004
 translate Schinese p_walk_w_rocco_1_2dd7117b:
 
-    # "Now he's covering his eyes. His body curled up, tail drooped, ears down, and back facing me."
+    # "Now he''s covering his eyes. His body curled up, tail drooped, ears down, and back facing me."
     "他爪盖双眼、身子蜷缩、尾耳下垂、转身回头看我。"
 
 # game/prologue.rpy:2005
@@ -3459,7 +3459,7 @@ translate Schinese p_walk_w_rocco_1_dfde2c74:
 # game/prologue.rpy:2007
 translate Schinese p_walk_w_rocco_1_7d789cef:
 
-    # "I didn't know what to do."
+    # "I didn''t know what to do."
     "当时我不知道该作何反应。"
 
 # game/prologue.rpy:2008
@@ -3477,43 +3477,43 @@ translate Schinese p_walk_w_rocco_1_5ae93dd6:
 # game/prologue.rpy:2010
 translate Schinese p_walk_w_rocco_1_62112c41:
 
-    # "I didn't-"
+    # "I didn''t-"
     "我没有——"
 
 # game/prologue.rpy:2011
 translate Schinese p_walk_w_rocco_1_123ee7bf:
 
-    # "couldn't do anything."
+    # "couldn''t do anything."
     "我没能做到任何事情。"
 
 # game/prologue.rpy:2013
 translate Schinese p_walk_w_rocco_1_6a6070b3:
 
     # narrator sideSeanConcerned "Here I was again. What the fuck do I do in a situation like this?"
-    narrator sideSeanConcerned "同样的场面再度上演，这种情况我她妈到底该怎麽办啊？"
+    narrator sideSeanConcerned "同样的场面再度上演，这种情况我她妈到底该怎么办啊？"
 
 # game/prologue.rpy:2030
 translate Schinese p_confront_rocco_7bbcb1b6:
 
     # sean "What did you mean by that?"
-    sean "你这话什麽意思？"
+    sean "你这话什么意思？"
 
 # game/prologue.rpy:2033
 translate Schinese p_confront_rocco_3772f7eb:
 
-    # "He doesn't say anything."
+    # "He doesn''t say anything."
     "他没回答。"
 
 # game/prologue.rpy:2036
 translate Schinese p_confront_rocco_7efe8614:
 
     # sean sideSeanAngry "Rocco, what did you mean by finding your best friend hanging from the ceiling?"
-    sean sideSeanAngry "Rocco，你说看到死党吊在天花板上，是什麽意思？"
+    sean sideSeanAngry "Rocco，你说看到死党吊在天花板上，是什么意思？"
 
 # game/prologue.rpy:2040
 translate Schinese p_confront_rocco_7182b106:
 
-    # "His body goes still. Not even his tail shakes. I'm about to speak again."
+    # "His body goes still. Not even his tail shakes. I''m about to speak again."
     "他全身僵住，连尾巴都没动。我正要追问——"
 
 # game/prologue.rpy:2043
@@ -3532,13 +3532,13 @@ translate Schinese p_confront_rocco_1805b5ce:
 translate Schinese p_confront_rocco_03611a1f:
 
     # rocco "Please."
-    rocco "拜託。"
+    rocco "拜讬。"
 
 # game/prologue.rpy:2053
 translate Schinese p_confront_rocco_9ef189ce:
 
-    # "I let it out as a sigh. I haven't seen Rocco this distraught in years."
-    "把那口气以叹息吐出。我有好几年没看过Rocco这麽焦虑了。"
+    # "I let it out as a sigh. I haven''t seen Rocco this distraught in years."
+    "把那口气以叹息吐出。我有好几年没看过Rocco这么焦虑了。"
 
 # game/prologue.rpy:2056
 translate Schinese p_confront_rocco_ea0ab45b:
@@ -3561,7 +3561,7 @@ translate Schinese p_confront_rocco_40231d6d:
 # game/prologue.rpy:2065
 translate Schinese p_confront_rocco_41b32ed0:
 
-    # sean "After we drop off Arthur and Cody, we're talking about it."
+    # sean "After we drop off Arthur and Cody, we''re talking about it."
     sean "等送Arthur和Cody回去后就谈。"
 
 # game/prologue.rpy:2069
@@ -3586,24 +3586,24 @@ translate Schinese p_confront_rocco_3bd97069:
 translate Schinese p_comfort_rocco_7209010b:
 
     # narrator sideSeanConcerned "I sit down next to him, rubbing his back."
-    narrator sideSeanConcerned "我坐到他身旁，拍着他的背。"
+    narrator sideSeanConcerned "我坐到他身旁，拍著他的背。"
 
 # game/prologue.rpy:2090
 translate Schinese p_comfort_rocco_3844c97c:
 
     # "His body is quivering. His eyes cradling tears. Trying his best to not let them out."
-    "他身子颤抖，眼中带泪，拼命抑制着泪水。"
+    "他身子颤抖，眼中带泪，拼命抑制著泪水。"
 
 # game/prologue.rpy:2091
 translate Schinese p_comfort_rocco_1b55907b:
 
     # "We sat in the relative quiet. Listening to the wind blow through the branches. The night sky slowly wandering above us."
-    "我们坐在一片静谧之中，听着掠过树枝的风声。上方夜空守望着我们。"
+    "我们坐在一片静谧之中，听著掠过树枝的风声。上方夜空守望著我们。"
 
 # game/prologue.rpy:2094
 translate Schinese p_comfort_rocco_7d37e997:
 
-    # sean sideSeanSmile "It's a beautiful night out. I almost forgot how much I missed the countryside."
+    # sean sideSeanSmile "It''s a beautiful night out. I almost forgot how much I missed the countryside."
     sean sideSeanSmile "今晚真美。我都快忘了自己有多想念郊外。"
 
 # game/prologue.rpy:2097
@@ -3627,14 +3627,14 @@ translate Schinese p_comfort_rocco_6da737fa:
 # game/prologue.rpy:2106
 translate Schinese p_comfort_rocco_4adb5af8:
 
-    # rocco "Sometimes. Whenever we have hikers stop in town. Most're nice."
+    # rocco "Sometimes. Whenever we have hikers stop in town. Most''re nice."
     rocco "有登山客来的时候偶尔会。大多还挺不错的。"
 
 # game/prologue.rpy:2110
 translate Schinese p_comfort_rocco_b31449f4:
 
     # sean "I never thought I would miss being out here."
-    sean "没想过我会这麽想念这边。"
+    sean "没想过我会这么想念这边。"
 
 # game/prologue.rpy:2113
 translate Schinese p_comfort_rocco_604e89ca:
@@ -3645,20 +3645,20 @@ translate Schinese p_comfort_rocco_604e89ca:
 # game/prologue.rpy:2114
 translate Schinese p_comfort_rocco_92417c96:
 
-    # "The gentle breeze continues to blow. Masking the last bits of Rocco's tears."
+    # "The gentle breeze continues to blow. Masking the last bits of Rocco''s tears."
     "微风持续吹拂，盖过了Rocco脸上残留的泪水。"
 
 # game/prologue.rpy:2117
 translate Schinese p_comfort_rocco_9b7d5e83:
 
-    # narrator sideSeanConcerned "Rocco pulls me into a hug. I'm caught off guard, but reciprocate it."
+    # narrator sideSeanConcerned "Rocco pulls me into a hug. I''m caught off guard, but reciprocate it."
     narrator sideSeanConcerned "Rocco将我抱入怀中。我虽然意外，也伸手回抱住他。"
 
 # game/prologue.rpy:2120
 translate Schinese p_comfort_rocco_7095bda5:
 
-    # rocco "If-if you ever get depressed, you'll tell me. Ok?"
-    rocco "要、要是你哪天抑鬱了，一定要跟我商量，好吗？"
+    # rocco "If-if you ever get depressed, you''ll tell me. Ok?"
+    rocco "要、要是你哪天抑郁了，一定要跟我商量，好吗？"
 
 # game/prologue.rpy:2123
 translate Schinese p_comfort_rocco_c5eb1844:
@@ -3669,8 +3669,8 @@ translate Schinese p_comfort_rocco_c5eb1844:
 # game/prologue.rpy:2126
 translate Schinese p_comfort_rocco_4bff595b:
 
-    # "He doesn't respond. We just hold the hug for a few moments."
-    "他没答腔，我们持续抱着好几秒。"
+    # "He doesn''t respond. We just hold the hug for a few moments."
+    "他没答腔，我们持续抱著好几秒。"
 
 # game/prologue.rpy:2129
 translate Schinese p_comfort_rocco_a5213f1a:
@@ -3682,7 +3682,7 @@ translate Schinese p_comfort_rocco_a5213f1a:
 translate Schinese p_comfort_rocco_9a554dd7:
 
     # "I pull out of the hug to look him in his eyes."
-    "我退开，望着他的双眼。"
+    "我退开，望著他的双眼。"
 
 # game/prologue.rpy:2136
 translate Schinese p_comfort_rocco_acc39c67:
@@ -3693,20 +3693,20 @@ translate Schinese p_comfort_rocco_acc39c67:
 # game/prologue.rpy:2139
 translate Schinese p_comfort_rocco_f4ce3680:
 
-    # "We continue our star gazing. I try to remember all the constellations Casey taught me. It's been years, so my memory is foggy, but I'm able to find a few."
-    "我们继续观星。我回想着Casey告诉过我的各种星座。已经好几年了，记不太全，但还是认出了一些。"
+    # "We continue our star gazing. I try to remember all the constellations Casey taught me. It''s been years, so my memory is foggy, but I''m able to find a few."
+    "我们继续观星。我回想著Casey告诉过我的各种星座。已经好几年了，记不太全，但还是认出了一些。"
 
 # game/prologue.rpy:2140
 translate Schinese p_comfort_rocco_d8e4e3df:
 
-    # "I know Rocco isn't really paying attention."
+    # "I know Rocco isn''t really paying attention."
     "Rocco显然心不在焉。"
 
 # game/prologue.rpy:2141
 translate Schinese p_comfort_rocco_ec4b91ac:
 
     # "Sharing what Casey taught me always puts a warm feeling in my chest. It seems to have helped Rocco calm down too."
-    "分享Casey教我的事情，总能温暖我的心头。似乎也平復了Rocco的心绪。 "
+    "分享Casey教我的事情，总能温暖我的心头。似乎也平复了Rocco的心绪。 "
 
 # game/prologue.rpy:2142
 translate Schinese p_comfort_rocco_6a99a56b:
@@ -3717,7 +3717,7 @@ translate Schinese p_comfort_rocco_6a99a56b:
 # game/prologue.rpy:2146
 translate Schinese p_comfort_rocco_226dec71:
 
-    # rocco sideSeanNeutral "C'mon, it's starting to get late and I don't want the others to worry about us."
+    # rocco sideSeanNeutral "C''mon, it''s starting to get late and I don''t want the others to worry about us."
     rocco sideSeanNeutral "走吧，时候不早了，别让他们两个担心。"
 
 # game/prologue.rpy:2149
@@ -3729,13 +3729,13 @@ translate Schinese p_comfort_rocco_9435bce1:
 # game/prologue.rpy:2168
 translate Schinese p_after_rocco_choice_78918d0e:
 
-    # narrator sideSeanNeutral "It doesn't take us too long to get back. Cody and Arthur seem to be finishing up a conversation as we return."
+    # narrator sideSeanNeutral "It doesn''t take us too long to get back. Cody and Arthur seem to be finishing up a conversation as we return."
     narrator sideSeanNeutral "路途不长，我们回来时，Cody跟Arthur刚巧快聊完话题。"
 
 # game/prologue.rpy:2173
 translate Schinese p_after_rocco_choice_41e583ac:
 
-    # arthur "Even if there's no lab evidence; that doesn't make them taste better."
+    # arthur "Even if there''s no lab evidence; that doesn''t make them taste better."
     arthur "就算没有科学证明，那样也不会更好吃啊。"
 
 # game/prologue.rpy:2177
@@ -3747,19 +3747,19 @@ translate Schinese p_after_rocco_choice_73f27dc6:
 # game/prologue.rpy:2182
 translate Schinese p_after_rocco_choice_bbf678b2:
 
-    # arthur sideSeanSmile "There won't be a next time."
+    # arthur sideSeanSmile "There won''t be a next time."
     arthur sideSeanSmile "不会有下次了。"
 
 # game/prologue.rpy:2186
 translate Schinese p_after_rocco_choice_c026ae5a:
 
-    # "Arthur's voice is commedically serious. Cody belts out a laugh."
+    # "Arthur''s voice is commedically serious. Cody belts out a laugh."
     "Arthur特意装出严肃的语调，把Cody给逗笑了。"
 
 # game/prologue.rpy:2189
 translate Schinese p_after_rocco_choice_964d1bcf:
 
-    # narrator sideSeanConcerned "When they notice us the mood immediately shifts. There's a new tension that fills the air as Arthur acknowledges us."
+    # narrator sideSeanConcerned "When they notice us the mood immediately shifts. There''s a new tension that fills the air as Arthur acknowledges us."
     narrator sideSeanConcerned "一看见我们，他们氛围丕变，Arthur出声搭话，气氛紧张。"
 
 # game/prologue.rpy:2192
@@ -3771,7 +3771,7 @@ translate Schinese p_after_rocco_choice_91ba185c:
 # game/prologue.rpy:2196
 translate Schinese p_after_rocco_choice_0a150e7c:
 
-    # rocco sideSeanNeutral "Yeah, we're good. I, uh, slid down the mountain a bit."
+    # rocco sideSeanNeutral "Yeah, we''re good. I, uh, slid down the mountain a bit."
     rocco sideSeanNeutral "嗯，没事。我就是、呃、差点滑下山坡。"
 
 # game/prologue.rpy:2200
@@ -3807,13 +3807,13 @@ translate Schinese p_after_rocco_choice_1b166e5a:
 # game/prologue.rpy:2219
 translate Schinese p_after_rocco_choice_33e2e95c:
 
-    # narrator sideSeanNeutral "I didn't like using the fact that he's bad with horror against him. But I think we'd both like to avoid talking about his little ramble."
+    # narrator sideSeanNeutral "I didn''t like using the fact that he''s bad with horror against him. But I think we''d both like to avoid talking about his little ramble."
     narrator sideSeanNeutral "我是不乐意搬出他怕恐怖故事的事实，但避开他刚才的牢骚还是对我俩更好。"
 
 # game/prologue.rpy:2225
 translate Schinese p_after_rocco_choice_5b600790:
 
-    # rocco "Anyways it's late, we should douse that and start heading back."
+    # rocco "Anyways it''s late, we should douse that and start heading back."
     rocco "总之，时候不早了，该灭火回去了。"
 
 # game/prologue.rpy:2228
@@ -3825,13 +3825,13 @@ translate Schinese p_after_rocco_choice_155298d6:
 # game/prologue.rpy:2229
 translate Schinese p_after_rocco_choice_737fd3e1:
 
-    # "After Arthur's done we douse the fire and make our way back to the car."
+    # "After Arthur''s done we douse the fire and make our way back to the car."
     "之后我们灭了火，走回车上。"
 
 # game/prologue.rpy:2245
 translate Schinese p_walk_w_cody_1_c45ce480:
 
-    # sean sideSeanSmile "Hey Cody, I'm gonna go for a walk. Wanna join?"
+    # sean sideSeanSmile "Hey Cody, I''m gonna go for a walk. Wanna join?"
     sean sideSeanSmile "欸Cody，我要去散个步，要不要一起来？"
 
 # game/prologue.rpy:2249
@@ -3843,26 +3843,26 @@ translate Schinese p_walk_w_cody_1_ddec7bf6:
 # game/prologue.rpy:2252
 translate Schinese p_walk_w_cody_1_85befb43:
 
-    # cody "Y-yeah? Yeah, let's go."
+    # cody "Y-yeah? Yeah, let''s go."
     cody "是、是吗？那好哇，走吧。"
 
 # game/prologue.rpy:2255
 translate Schinese p_walk_w_cody_1_c4460b25:
 
     # "He gets up and walks around the fire. A warm smile plastered on his face as we began walking out into the wilderness."
-    "他起身绕开营火。我们走向荒野，温暖的笑容在他脸上荡漾。"
+    "他起身绕开营火。我们走向荒野，温暖的笑容在他脸上蕩漾。"
 
 # game/prologue.rpy:2262
 translate Schinese p_walk_w_cody_1_f246cefb:
 
-    # narrator sideSeanSmile "Though our spot isn't very far from a trail, it does take us a couple of minutes to find it."
+    # narrator sideSeanSmile "Though our spot isn''t very far from a trail, it does take us a couple of minutes to find it."
     narrator sideSeanSmile "我们待的地方一条离登山道路不远，但还是花了好几分钟才找到。"
 
 # game/prologue.rpy:2265
 translate Schinese p_walk_w_cody_1_cd5b9676:
 
     # sean "So, how are you doing?"
-    sean "所以，你过得怎麽样？"
+    sean "所以，你过得怎么样？"
 
 # game/prologue.rpy:2269
 translate Schinese p_walk_w_cody_1_7261209a:
@@ -3873,7 +3873,7 @@ translate Schinese p_walk_w_cody_1_7261209a:
 # game/prologue.rpy:2272
 translate Schinese p_walk_w_cody_1_e365afa4:
 
-    # cody sideSeanConcerned "I'm fine."
+    # cody sideSeanConcerned "I''m fine."
     cody sideSeanConcerned "还好。"
 
 # game/prologue.rpy:2275
@@ -3885,7 +3885,7 @@ translate Schinese p_walk_w_cody_1_f51a3479:
 # game/prologue.rpy:2279
 translate Schinese p_walk_w_cody_1_4756772f:
 
-    # cody "Sorry. I've just been hearing that question a lot recently."
+    # cody "Sorry. I''ve just been hearing that question a lot recently."
     cody "抱歉，最近太常被这样问了。"
 
 # game/prologue.rpy:2282
@@ -3897,20 +3897,20 @@ translate Schinese p_walk_w_cody_1_ee0956ad:
 # game/prologue.rpy:2283
 translate Schinese p_walk_w_cody_1_7ef8026c:
 
-    # sean sideSeanNeutral "I get it. I'll drop it."
+    # sean sideSeanNeutral "I get it. I''ll drop it."
     sean sideSeanNeutral "行吧，我就不多问了。"
 
 # game/prologue.rpy:2286
 translate Schinese p_walk_w_cody_1_eb465862:
 
-    # "Cody's eyes look down at the ground. His snout furrows and then his whole body seems to droop."
-    "Cody望着地面，鼻头皱起，看着垂头丧气。"
+    # "Cody''s eyes look down at the ground. His snout furrows and then his whole body seems to droop."
+    "Cody望著地面，鼻头皱起，看著垂头丧气。"
 
 # game/prologue.rpy:2289
 translate Schinese p_walk_w_cody_1_41a2aa3f:
 
     # cody "No, I get it. I look like shit. I smell like shit. I am shit. Sean, I get why everyone is worried about me."
-    cody "唉，我也知道。我这一副屎样子、闻起来也像屎，我就是坨屎。我知道为什麽大家都在担心我，Sean。"
+    cody "唉，我也知道。我这一副屎样子、闻起来也像屎，我就是坨屎。我知道为什么大家都在担心我，Sean。"
 
 # game/prologue.rpy:2293
 translate Schinese p_walk_w_cody_1_74ff1cca:
@@ -3921,19 +3921,19 @@ translate Schinese p_walk_w_cody_1_74ff1cca:
 # game/prologue.rpy:2297
 translate Schinese p_walk_w_cody_1_9cbb213a:
 
-    # cody "I'm not ok. I get that more than anyone. I just wish I could talk to someone about it."
+    # cody "I''m not ok. I get that more than anyone. I just wish I could talk to someone about it."
     cody "我一点都不好。我比谁都清楚。只希望能跟人谈谈。"
 
 # game/prologue.rpy:2300
 translate Schinese p_walk_w_cody_1_c3b23641:
 
-    # sean sideSeanSmile "I'm here."
+    # sean sideSeanSmile "I''m here."
     sean sideSeanSmile "我人就在这啊。"
 
 # game/prologue.rpy:2305
 translate Schinese p_walk_w_cody_1_acecf162:
 
-    # cody sideSeanNeutral "You wouldn't understand."
+    # cody sideSeanNeutral "You wouldn''t understand."
     cody sideSeanNeutral "你不会懂的。"
 
 # game/prologue.rpy:2308
@@ -3963,8 +3963,8 @@ translate Schinese p_walk_w_cody_1_145e18d0:
 # game/prologue.rpy:2316
 translate Schinese p_walk_w_cody_1_2e8d1b8f:
 
-    # sean "Maybe I won't. But neither of us will know until you try."
-    sean "也许我不会懂，但你不说又怎麽知道呢？"
+    # sean "Maybe I won''t. But neither of us will know until you try."
+    sean "也许我不会懂，但你不说又怎么知道呢？"
 
 # game/prologue.rpy:2320
 translate Schinese p_walk_w_cody_1_bea50235:
@@ -3981,14 +3981,14 @@ translate Schinese p_walk_w_cody_1_22471222:
 # game/prologue.rpy:2324
 translate Schinese p_walk_w_cody_1_aef0a021:
 
-    # "He's not gonna talk about it more, why force it. We should be enjoying the time we have before I head back."
-    "他都不想说了，强迫又有什麽用呢？不如趁回去之前好好享受相处的时光吧。"
+    # "He''s not gonna talk about it more, why force it. We should be enjoying the time we have before I head back."
+    "他都不想说了，强迫又有什么用呢？不如趁回去之前好好享受相处的时光吧。"
 
 # game/prologue.rpy:2330
 translate Schinese p_walk_w_cody_1_3f090b01:
 
     # sean sideSeanSmile "Read any good books recently?"
-    sean sideSeanSmile "最近有读什麽好书吗？"
+    sean sideSeanSmile "最近有读什么好书吗？"
 
 # game/prologue.rpy:2334
 translate Schinese p_walk_w_cody_1_9522892b:
@@ -3999,7 +3999,7 @@ translate Schinese p_walk_w_cody_1_9522892b:
 # game/prologue.rpy:2335
 translate Schinese p_walk_w_cody_1_dc23247a:
 
-    # "I didn't want to upset him with the previous topic. But it didn't come out of nowhere."
+    # "I didn''t want to upset him with the previous topic. But it didn''t come out of nowhere."
     "我是不愿让先前的话题搞坏他的心情，但这也怪不得我问。"
 
 # game/prologue.rpy:2336
@@ -4011,7 +4011,7 @@ translate Schinese p_walk_w_cody_1_33d97940:
 # game/prologue.rpy:2340
 translate Schinese p_walk_w_cody_1_28e307b9:
 
-    # cody sideSeanNeutral "I've had the time to, but not the energy. If that makes sense."
+    # cody sideSeanNeutral "I''ve had the time to, but not the energy. If that makes sense."
     cody sideSeanNeutral "我是有时间，但没那心力，你能懂吧？"
 
 # game/prologue.rpy:2343
@@ -4035,26 +4035,26 @@ translate Schinese p_walk_w_cody_1_d14b1e68:
 # game/prologue.rpy:2351
 translate Schinese p_walk_w_cody_1_3d81ade0:
 
-    # sean sideSeanSmile "What's it called?"
-    sean sideSeanSmile "叫什麽？"
+    # sean sideSeanSmile "What''s it called?"
+    sean sideSeanSmile "叫什么？"
 
 # game/prologue.rpy:2354
 translate Schinese p_walk_w_cody_1_527bd97e:
 
-    # cody "I think it's called 'One Sided World'? Basically a coyote goes back his home town, but no one knows who he is."
+    # cody "I think it''s called ''One Sided World''? Basically a coyote goes back his home town, but no one knows who he is."
     cody "好像叫《单方世界》？内容是有位郊狼回到故乡，却没人认识他。"
 
 # game/prologue.rpy:2355
 translate Schinese p_walk_w_cody_1_20695174:
 
-    # cody sideSeanConcerned "His parent's think he's a robber when he goes to visit them. His friends think he's some scam caller when he contacts them."
+    # cody sideSeanConcerned "His parent''s think he''s a robber when he goes to visit them. His friends think he''s some scam caller when he contacts them."
     cody sideSeanConcerned "他去探望爸妈，却被以为是强盗；连络他朋友时，也被以为是诈骗。"
 
 # game/prologue.rpy:2356
 translate Schinese p_walk_w_cody_1_4a8853a9:
 
-    # cody "His girlfriend calls the police on him thinking he's a stalker."
-    cody "他女朋友觉得他是跟踪狂，还叫了警察。"
+    # cody "His girlfriend calls the police on him thinking he''s a stalker."
+    cody "他女朋友觉得他是跟蹤狂，还叫了警察。"
 
 # game/prologue.rpy:2359
 translate Schinese p_walk_w_cody_1_4dd9a11d:
@@ -4077,7 +4077,7 @@ translate Schinese p_walk_w_cody_1_65abf0bd:
 # game/prologue.rpy:2366
 translate Schinese p_walk_w_cody_1_6f6e274a:
 
-    # cody sideSeanSmile "I'll let you borrow it after I'm done."
+    # cody sideSeanSmile "I''ll let you borrow it after I''m done."
     cody sideSeanSmile "等我看完可以借你。"
 
 # game/prologue.rpy:2369
@@ -4107,14 +4107,14 @@ translate Schinese p_walk_w_cody_1_e5d81813:
 # game/prologue.rpy:2382
 translate Schinese p_walk_w_cody_1_0f02d929:
 
-    # sean sideSeanSad "You know, I'm kind of in the same boat. I haven't had much energy to read, watch movies, or do anything outside of school work."
-    sean sideSeanSad "其实我也差不多。没什麽心力读书、看电影或做任何跟学业无关的事。"
+    # sean sideSeanSad "You know, I''m kind of in the same boat. I haven''t had much energy to read, watch movies, or do anything outside of school work."
+    sean sideSeanSad "其实我也差不多。没什么心力读书、看电影或做任何跟学业无关的事。"
 
 # game/prologue.rpy:2385
 translate Schinese p_walk_w_cody_1_5f27fb43:
 
     # "Cody gives me a concerned look."
-    "Cody关心地望着我。"
+    "Cody关心地望著我。"
 
 # game/prologue.rpy:2388
 translate Schinese p_walk_w_cody_1_4a199010:
@@ -4131,14 +4131,14 @@ translate Schinese p_walk_w_cody_1_9cfb2cfd:
 # game/prologue.rpy:2406
 translate Schinese p_open_up_to_cody_bcd33a37:
 
-    # sean sideSeanSad "I guess my thing is, I'm scared."
+    # sean sideSeanSad "I guess my thing is, I''m scared."
     sean sideSeanSad "我应该是在害怕吧。"
 
 # game/prologue.rpy:2407
 translate Schinese p_open_up_to_cody_ac108ae0:
 
-    # sean "All my life I've just done what people told me to do. Now that I'm almost done with college, I don't know what to do."
-    sean "我这辈子都只是在照别人吩咐做事。现在大学都快毕业了，却不知道该做什麽。"
+    # sean "All my life I''ve just done what people told me to do. Now that I''m almost done with college, I don''t know what to do."
+    sean "我这辈子都只是在照别人吩咐做事。现在大学都快毕业了，却不知道该做什么。"
 
 # game/prologue.rpy:2409
 translate Schinese p_open_up_to_cody_bd5531df:
@@ -4150,7 +4150,7 @@ translate Schinese p_open_up_to_cody_bd5531df:
 translate Schinese p_open_up_to_cody_27321a70:
 
     # "Cody looks at me. A soft frown on his face."
-    "Cody望着我，眉头轻皱。"
+    "Cody望著我，眉头轻皱。"
 
 # game/prologue.rpy:2417
 translate Schinese p_open_up_to_cody_2ac5d370:
@@ -4170,13 +4170,13 @@ translate Schinese p_open_up_to_cody_b2da0b0e:
 translate Schinese p_open_up_to_cody_7b28c8c7:
 
     # nulln "Their distant light gazing at us from an unfathomable distance."
-    nulln "遥远的星光于千里之外观望着我们。"
+    nulln "遥远的星光于千里之外观望著我们。"
 
 # game/prologue.rpy:2426
 translate Schinese p_open_up_to_cody_96295d58:
 
-    # nulln "I remember Casey telling me about how their light works. Due to their distance we're basically staring at corpses."
-    nulln "我还记得Casey教过我星光是怎麽一回事。由于距离遥远，我们看到的基本都是星星的亡骸。"
+    # nulln "I remember Casey telling me about how their light works. Due to their distance we''re basically staring at corpses."
+    nulln "我还记得Casey教过我星光是怎么一回事。由于距离遥远，我们看到的基本都是星星的亡骸。"
 
 # game/prologue.rpy:2428
 translate Schinese p_open_up_to_cody_aaac6ba2:
@@ -4187,14 +4187,14 @@ translate Schinese p_open_up_to_cody_aaac6ba2:
 # game/prologue.rpy:2429
 translate Schinese p_open_up_to_cody_0ee3b6d0:
 
-    # nulln "Still, there are probably millions, if not billions, of stars who's light has yet to reach us. And even more who have yet to see our light."
+    # nulln "Still, there are probably millions, if not billions, of stars who''s light has yet to reach us. And even more who have yet to see our light."
     nulln "不过，还有无以计量的星星光芒照不到我们这里。也有更多看不到地球的星星。"
 
 # game/prologue.rpy:2431
 translate Schinese p_open_up_to_cody_48543140:
 
     # nulln "Why am I thinking about Casey so much..."
-    nulln "我怎麽一直在想Casey……"
+    nulln "我怎么一直在想Casey……"
 
 # game/prologue.rpy:2432
 translate Schinese p_open_up_to_cody_76b2fe88:
@@ -4205,19 +4205,19 @@ translate Schinese p_open_up_to_cody_76b2fe88:
 # game/prologue.rpy:2437
 translate Schinese p_open_up_to_cody_cda508b9:
 
-    # cody "I wish there was more I could do to help you. Just saying that you relate to a problem doesn't really fix it."
-    cody "真希望我有办法帮你。只表示有同感也没什麽帮助。"
+    # cody "I wish there was more I could do to help you. Just saying that you relate to a problem doesn''t really fix it."
+    cody "真希望我有办法帮你。只表示有同感也没什么帮助。"
 
 # game/prologue.rpy:2440
 translate Schinese p_open_up_to_cody_ca36f857:
 
     # "He says sheepishly. Scratching the back of his head."
-    "他搔着后脑杓，腼腆说道。"
+    "他搔著后脑杓，腼腆说道。"
 
 # game/prologue.rpy:2444
 translate Schinese p_open_up_to_cody_bd5982f4:
 
-    # sean sideSeanSmile "It's nice to know I'm not alone."
+    # sean sideSeanSmile "It''s nice to know I''m not alone."
     sean sideSeanSmile "至少我知道自己不孤单。"
 
 # game/prologue.rpy:2447
@@ -4236,18 +4236,18 @@ translate Schinese p_open_up_to_cody_b30d26a4:
 translate Schinese p_open_up_to_cody_bbd3c5ab:
 
     # sean sideSeanConcerned "Is there anything you want to talk about."
-    sean sideSeanConcerned "你有什麽想谈的吗？"
+    sean sideSeanConcerned "你有什么想谈的吗？"
 
 # game/prologue.rpy:2455
 translate Schinese p_open_up_to_cody_c44c6bd1:
 
-    # "Cody doesn't respond. Instead we just keep walking. Enjoying the peace and quiet of the night."
-    "Cody不作回应。我们只是继续走着，沉浸在夜晚的安详与沉寂之中。"
+    # "Cody doesn''t respond. Instead we just keep walking. Enjoying the peace and quiet of the night."
+    "Cody不作回应。我们只是继续走著，沉浸在夜晚的安详与沉寂之中。"
 
 # game/prologue.rpy:2456
 translate Schinese p_open_up_to_cody_4c766168:
 
-    # "Though it doesn't take long for him to change his mind."
+    # "Though it doesn''t take long for him to change his mind."
     "但不久他便改变心意。"
 
 # game/prologue.rpy:2459
@@ -4260,7 +4260,7 @@ translate Schinese p_open_up_to_cody_5cbeb4f6:
 translate Schinese p_open_up_to_cody_8b90e36b:
 
     # cody "I still need to think about how I want to tell you and Arthur. Sorry."
-    cody "我还在想怎麽跟你和Arthur说，对不起。"
+    cody "我还在想怎么跟你和Arthur说，对不起。"
 
 # game/prologue.rpy:2463
 translate Schinese p_open_up_to_cody_93ac58fb:
@@ -4283,8 +4283,8 @@ translate Schinese p_open_up_to_cody_f7ff9a8b:
 # game/prologue.rpy:2468
 translate Schinese p_open_up_to_cody_4a8a2b8b:
 
-    # "His face looks serious. His sunken eyes have a shine to them that I hadn't seen all night. The slouch he had been walking with was gone."
-    "他表情严肃，凹陷的双眼中闪着我整晚没见过的光芒，姿势也不再垂头丧气。"
+    # "His face looks serious. His sunken eyes have a shine to them that I hadn''t seen all night. The slouch he had been walking with was gone."
+    "他表情严肃，凹陷的双眼中闪著我整晚没见过的光芒，姿势也不再垂头丧气。"
 
 # game/prologue.rpy:2469
 translate Schinese p_open_up_to_cody_9ed9e3a4:
@@ -4301,32 +4301,32 @@ translate Schinese p_open_up_to_cody_9bb3c7d8:
 # game/prologue.rpy:2485
 translate Schinese p_stay_closed_off_acae0012:
 
-    # sean sideSeanNeutral "No. I don't really feel like talking about it."
-    sean sideSeanNeutral "不行，这事我不怎麽想谈。"
+    # sean sideSeanNeutral "No. I don''t really feel like talking about it."
+    sean sideSeanNeutral "不行，这事我不怎么想谈。"
 
 # game/prologue.rpy:2486
 translate Schinese p_stay_closed_off_8f6bf2d0:
 
     # sean "Not really your problem anyways."
-    sean "反正也跟你没什麽关係。"
+    sean "反正也跟你没什么关系。"
 
 # game/prologue.rpy:2490
 translate Schinese p_stay_closed_off_2d828115:
 
-    # "Cody's ears drooped at that. He looked off and up."
+    # "Cody''s ears drooped at that. He looked off and up."
     "Cody一听便双耳下垂，瞥向旁边与上方。"
 
 # game/prologue.rpy:2491
 translate Schinese p_stay_closed_off_e7d336a5:
 
-    # "The trail's canopy began close above us. The light of the stars disappearing under the leaves above."
+    # "The trail''s canopy began close above us. The light of the stars disappearing under the leaves above."
     "我们来到步道枝叶茂密的地方，上空星光被树叶遮蔽。"
 
 # game/prologue.rpy:2492
 translate Schinese p_stay_closed_off_9bbac249:
 
-    # "We didn't talk much, if at all. Instead we just listened to the rustling leaves."
-    "我们几乎什麽话都没聊，只是听着树叶的沙沙声。"
+    # "We didn''t talk much, if at all. Instead we just listened to the rustling leaves."
+    "我们几乎什么话都没聊，只是听著树叶的沙沙声。"
 
 # game/prologue.rpy:2493
 translate Schinese p_stay_closed_off_02b8acb9:
@@ -4343,8 +4343,8 @@ translate Schinese p_stay_closed_off_98f8838e:
 # game/prologue.rpy:2498
 translate Schinese p_stay_closed_off_1f71d77d:
 
-    # cody "You can talk to me if something's wrong. I know I'm not doing the best, but I'm here for you man."
-    cody "你遇到问题的话，可以跟我谈。我也知道自己过得不太好，但至少还能陪着你。"
+    # cody "You can talk to me if something''s wrong. I know I''m not doing the best, but I''m here for you man."
+    cody "你遇到问题的话，可以跟我谈。我也知道自己过得不太好，但至少还能陪著你。"
 
 # game/prologue.rpy:2502
 translate Schinese p_stay_closed_off_b04d5b56:
@@ -4356,12 +4356,12 @@ translate Schinese p_stay_closed_off_b04d5b56:
 translate Schinese p_stay_closed_off_6ac31399:
 
     # "Cody and Rocco were definitely hiding something from us, and he wanted me to open up."
-    "Cody和Rocco绝对有事瞒着我们不说，现在还想要我找他谈心？"
+    "Cody和Rocco绝对有事瞒著我们不说，现在还想要我找他谈心？"
 
 # game/prologue.rpy:2504
 translate Schinese p_stay_closed_off_d91be6da:
 
-    # "This is a two way street, and if the road's closed on one end it's closed on both."
+    # "This is a two way street, and if the road''s closed on one end it''s closed on both."
     "这可是双向道，一边不通，另一边当然也不能通。"
 
 # game/prologue.rpy:2508
@@ -4379,8 +4379,8 @@ translate Schinese p_stay_closed_off_d904d4da:
 # game/prologue.rpy:2513
 translate Schinese p_stay_closed_off_c0b60467:
 
-    # "His face looked away from me. Off into the dark of the woods. He didn't say anything, and we just kept walking."
-    "他别开脸，看向树林的一片漆黑。他什麽也不说，我们只是继续走着。"
+    # "His face looked away from me. Off into the dark of the woods. He didn''t say anything, and we just kept walking."
+    "他别开脸，看向树林的一片漆黑。他什么也不说，我们只是继续走著。"
 
 # game/prologue.rpy:2515
 translate Schinese p_stay_closed_off_766331c3:
@@ -4391,13 +4391,13 @@ translate Schinese p_stay_closed_off_766331c3:
 # game/prologue.rpy:2518
 translate Schinese p_stay_closed_off_e3ffbad3:
 
-    # cody sideSeanConcerned "I... didn't drop out."
+    # cody sideSeanConcerned "I... didn''t drop out."
     cody sideSeanConcerned "我……不是休学。"
 
 # game/prologue.rpy:2522
 translate Schinese p_stay_closed_off_52e6f17c:
 
-    # "His voice wavered. He clearly didn't want to say what was coming next."
+    # "His voice wavered. He clearly didn''t want to say what was coming next."
     "他声音耗弱，显然不太想继续说下去。"
 
 # game/prologue.rpy:2526
@@ -4415,8 +4415,8 @@ translate Schinese p_stay_closed_off_70e3de02:
 # game/prologue.rpy:2532
 translate Schinese p_stay_closed_off_49974060:
 
-    # cody sideSeanSad "Depression just... hit me out of nowhere. I didn't know or want to do anything. I just... stopped."
-    cody sideSeanSad "我……突然抑鬱了。我不知道也不想做任何事。整个人都……停止机能了。"
+    # cody sideSeanSad "Depression just... hit me out of nowhere. I didn''t know or want to do anything. I just... stopped."
+    cody sideSeanSad "我……突然抑郁了。我不知道也不想做任何事。整个人都……停止机能了。"
 
 # game/prologue.rpy:2535
 translate Schinese p_stay_closed_off_b8aee430:
@@ -4451,7 +4451,7 @@ translate Schinese p_stay_closed_off_3407e05f:
 # game/prologue.rpy:2545
 translate Schinese p_stay_closed_off_27fe9d01:
 
-    # cody sideSeanConcerned "That's basically it..."
+    # cody sideSeanConcerned "That''s basically it..."
     cody sideSeanConcerned "差不多就这样……"
 
 # game/prologue.rpy:2549
@@ -4464,12 +4464,12 @@ translate Schinese p_stay_closed_off_4bfebf1b:
 translate Schinese p_stay_closed_off_f1bbe591:
 
     # "It felt weird having him open up like this."
-    "他把话讲这麽开，感觉还挺奇妙的。"
+    "他把话讲这么开，感觉还挺奇妙的。"
 
 # game/prologue.rpy:2552
 translate Schinese p_stay_closed_off_36989209:
 
-    # "Still, I'm glad he did. Now I understand better, I can help him better."
+    # "Still, I''m glad he did. Now I understand better, I can help him better."
     "但我很高兴他开了口。理解了状况，我也能有办法帮他。"
 
 # game/prologue.rpy:2555
@@ -4487,19 +4487,19 @@ translate Schinese p_stay_closed_off_ddf30963:
 # game/prologue.rpy:2560
 translate Schinese p_stay_closed_off_a641a2b6:
 
-    # "I can tell Cody didn't want me to see him like this, but I know he needed it."
+    # "I can tell Cody didn''t want me to see him like this, but I know he needed it."
     "Cody貌似不想让我看到他这个样子，但这对他有益。"
 
 # game/prologue.rpy:2561
 translate Schinese p_stay_closed_off_e095d92c:
 
-    # "I've held in my emotions for too long before, and it nearly destroyed me. "
+    # "I''ve held in my emotions for too long before, and it nearly destroyed me. "
     "我以前也把情绪都积在心里，差点就毁了我自己。"
 
 # game/prologue.rpy:2564
 translate Schinese p_stay_closed_off_31b723c3:
 
-    # sean sideSeanConcerned "I guess it's my turn now."
+    # sean sideSeanConcerned "I guess it''s my turn now."
     sean sideSeanConcerned "现在换我了。"
 
 # game/prologue.rpy:2568
@@ -4511,25 +4511,25 @@ translate Schinese p_stay_closed_off_2d18f98e:
 # game/prologue.rpy:2572
 translate Schinese p_stay_closed_off_2cf4c335:
 
-    # sean sideSeanSad "I've felt directionless recently."
+    # sean sideSeanSad "I''ve felt directionless recently."
     sean sideSeanSad "我最近很迷惘。"
 
 # game/prologue.rpy:2573
 translate Schinese p_stay_closed_off_00ba550a:
 
-    # sean "All my life I've just done what my parents, teachers, or counselors have told me to do."
+    # sean "All my life I''ve just done what my parents, teachers, or counselors have told me to do."
     sean "我这辈子都只是在照父母、老师和指导员的吩咐做事。"
 
 # game/prologue.rpy:2574
 translate Schinese p_stay_closed_off_4d6ec717:
 
-    # sean "Now that I'm about to be thrown out into the real world, I haven't asked myself what I want to do."
-    sean "现在都快出社会了，却想不到将来要做什麽。"
+    # sean "Now that I''m about to be thrown out into the real world, I haven''t asked myself what I want to do."
+    sean "现在都快出社会了，却想不到将来要做什么。"
 
 # game/prologue.rpy:2575
 translate Schinese p_stay_closed_off_f23133df:
 
-    # sean sideSeanNeutral "I just coasted my life away. And now that I have to choose, I don't know what to do."
+    # sean sideSeanNeutral "I just coasted my life away. And now that I have to choose, I don''t know what to do."
     sean sideSeanNeutral "我把人生都交给了别人，如今轮到我自己必须做出决定，却没有头绪。"
 
 # game/prologue.rpy:2578
@@ -4541,7 +4541,7 @@ translate Schinese p_stay_closed_off_4d043265:
 # game/prologue.rpy:2579
 translate Schinese p_stay_closed_off_022a1c59:
 
-    # "Everything he dreamed about was thrown away because of something he couldn't control."
+    # "Everything he dreamed about was thrown away because of something he couldn''t control."
     "他的梦想破灭，是因为事情不在他的掌控之中。"
 
 # game/prologue.rpy:2580
@@ -4553,31 +4553,31 @@ translate Schinese p_stay_closed_off_d453139d:
 # game/prologue.rpy:2584
 translate Schinese p_stay_closed_off_3851fa82:
 
-    # cody sideSeanNeutral "Sean, you're 21."
+    # cody sideSeanNeutral "Sean, you''re 21."
     cody sideSeanNeutral "Sean，你才２１岁。"
 
 # game/prologue.rpy:2585
 translate Schinese p_stay_closed_off_79088354:
 
-    # cody "You have at least eighty more years of life to live. You can't expect to know the answer to that now."
+    # cody "You have at least eighty more years of life to live. You can''t expect to know the answer to that now."
     cody "至少还有八十年的人生，没道理现在就得找到答案。"
 
 # game/prologue.rpy:2588
 translate Schinese p_stay_closed_off_72cf6ca0:
 
-    # "That's what everyone told me. Yet here I am, working for a degree that will decide the rest of my life."
-    "大家都是这麽跟我说的。但我还在苦读将会决定我下半辈子的科系。"
+    # "That''s what everyone told me. Yet here I am, working for a degree that will decide the rest of my life."
+    "大家都是这么跟我说的。但我还在苦读将会决定我下半辈子的科系。"
 
 # game/prologue.rpy:2591
 translate Schinese p_stay_closed_off_389ed210:
 
-    # cody "I know. I know. Everyone says it, but some things are cliche because they're true."
-    cody "我明白、我都明白。大家都会这麽说，但有些说法之所以老套，就是因为那是事实。"
+    # cody "I know. I know. Everyone says it, but some things are cliche because they''re true."
+    cody "我明白、我都明白。大家都会这么说，但有些说法之所以老套，就是因为那是事实。"
 
 # game/prologue.rpy:2592
 translate Schinese p_stay_closed_off_dd546f58:
 
-    # cody "Even if you don't want to be a machinist when you graduate; getting that piece of paper shows your ability to commit to something!"
+    # cody "Even if you don''t want to be a machinist when you graduate; getting that piece of paper shows your ability to commit to something!"
     cody "就算你毕业后不想当机械工，拿到文凭也是努力的证明！"
 
 # game/prologue.rpy:2595
@@ -4595,25 +4595,25 @@ translate Schinese p_stay_closed_off_da77b9fe:
 # game/prologue.rpy:2597
 translate Schinese p_stay_closed_off_932b2ade:
 
-    # narrator sideSeanNeutral "Knowing me, I would've just wasted it regardless."
+    # narrator sideSeanNeutral "Knowing me, I would''ve just wasted it regardless."
     narrator sideSeanNeutral "但考虑到自己的生性，恐怕终究会虚度光阴吧。"
 
 # game/prologue.rpy:2601
 translate Schinese p_stay_closed_off_d9156e8f:
 
-    # sean "Yeah, I guess you're right."
+    # sean "Yeah, I guess you''re right."
     sean "嗯，你说得对。"
 
 # game/prologue.rpy:2604
 translate Schinese p_stay_closed_off_4cd7e676:
 
-    # cody "You're close to the finish line just..."
+    # cody "You''re close to the finish line just..."
     cody "你就只差一点了，只要……"
 
 # game/prologue.rpy:2608
 translate Schinese p_stay_closed_off_dc0001b1:
 
-    # narrator sideSeanConcerned "He paused. I had a weird feeling that Cody wanted to say 'don't end up like me', but he stopped himself."
+    # narrator sideSeanConcerned "He paused. I had a weird feeling that Cody wanted to say ''don''t end up like me'', but he stopped himself."
     narrator sideSeanConcerned "他停顿了一下。我总感觉Cody是想说「别像我一样」，不过打住了。"
 
 # game/prologue.rpy:2612
@@ -4638,12 +4638,12 @@ translate Schinese p_after_cody_choice_4f614737:
 translate Schinese p_after_cody_choice_72e08eef:
 
     # "We tried brainstorming ideas for tomorrow, but kept coming up short."
-    "我们有考虑明天该做些什麽，却没个好主意。"
+    "我们有考虑明天该做些什么，却没个好主意。"
 
 # game/prologue.rpy:2628
 translate Schinese p_after_cody_choice_e91c434f:
 
-    # "We'd probably just head up to Salem and wander around the mall."
+    # "We''d probably just head up to Salem and wander around the mall."
     "应该就是跑去赛勒姆逛商场吧。"
 
 # game/prologue.rpy:2629
@@ -4673,32 +4673,32 @@ translate Schinese p_after_cody_choice_5ed204b5:
 # game/prologue.rpy:2646
 translate Schinese p_after_cody_choice_73f1f413:
 
-    # rocco sideSeanConcerned "All I'm saying is that you should be careful with this."
+    # rocco sideSeanConcerned "All I''m saying is that you should be careful with this."
     rocco sideSeanConcerned "我只是要你谨慎一点。"
 
 # game/prologue.rpy:2649
 translate Schinese p_after_cody_choice_a038d9e4:
 
-    # arthur "I know. I know. That's why I'm staying at Cody's."
+    # arthur "I know. I know. That''s why I''m staying at Cody''s."
     arthur "我知道、我知道啦。所以我才住Cody家啊。"
 
 # game/prologue.rpy:2652
 translate Schinese p_after_cody_choice_a1b4ace1:
 
-    # "Rocco's voice is quiet but firm. Like a dad talking to his son. Arthur, on the other paw, sounds more frustrated. "
+    # "Rocco''s voice is quiet but firm. Like a dad talking to his son. Arthur, on the other paw, sounds more frustrated. "
     "Rocco音量不大，却很坚毅，像是父亲在跟儿子谈话。Arthur听上去则颇为懊恼。"
 
 # game/prologue.rpy:2655
 translate Schinese p_after_cody_choice_c8852daf:
 
-    # rocco "I just want to make sure you don't have to live at Cody's."
+    # rocco "I just want to make sure you don''t have to live at Cody''s."
     rocco "我只是不希望你到时只能住Cody家。"
 
 # game/prologue.rpy:2658
 translate Schinese p_after_cody_choice_2af02444:
 
-    # arthur "Rocco, I get it. I'm an adult, I know how to handle these things."
-    arthur "我明白，Rocco。我也是个大人，知道该怎麽处理这些事。"
+    # arthur "Rocco, I get it. I''m an adult, I know how to handle these things."
+    arthur "我明白，Rocco。我也是个大人，知道该怎么处理这些事。"
 
 # game/prologue.rpy:2669
 translate Schinese p_after_cody_choice_607b9167:
@@ -4727,43 +4727,43 @@ translate Schinese p_after_cody_choice_b74dad1c:
 # game/prologue.rpy:2693
 translate Schinese p_after_cody_choice_957875f3:
 
-    # "Arthur just huffs. Stuffing the last of his s'more into his maw."
+    # "Arthur just huffs. Stuffing the last of his s''more into his maw."
     "Arthur冷哼一声，把最后一块棉花糖塞入口中。"
 
 # game/prologue.rpy:2696
 translate Schinese p_after_cody_choice_17d1eee8:
 
     # sean "What was that about?"
-    sean "你们在吵什麽？"
+    sean "你们在吵什么？"
 
 # game/prologue.rpy:2699
 translate Schinese p_after_cody_choice_2499a137:
 
     # rocco sideSeanNeutral "Nothing."
-    rocco sideSeanNeutral "没什麽。"
+    rocco sideSeanNeutral "没什么。"
 
 # game/prologue.rpy:2703
 translate Schinese p_after_cody_choice_1d3a51ad:
 
-    # "It sure didn't sound like nothing. I hear Cody mumble something similar next to me."
-    "听起来可不像没什麽。一旁Cody也在嘟嚷着差不多的话。"
+    # "It sure didn''t sound like nothing. I hear Cody mumble something similar next to me."
+    "听起来可不像没什么。一旁Cody也在嘟嚷著差不多的话。"
 
 # game/prologue.rpy:2706
 translate Schinese p_after_cody_choice_ef604d9a:
 
-    # arthur "I think we should head back. I'm getting tired."
+    # arthur "I think we should head back. I''m getting tired."
     arthur "我们也该回去了，我有点累了。"
 
 # game/prologue.rpy:2709
 translate Schinese p_after_cody_choice_fc324e34:
 
-    # "His voice was surprisingly neutral. Like the s'more helped push down his anger."
+    # "His voice was surprisingly neutral. Like the s''more helped push down his anger."
     "他的声音意外平淡。看来棉花糖抑制了他的怒火。"
 
 # game/prologue.rpy:2712
 translate Schinese p_after_cody_choice_423aced2:
 
-    # rocco "Yeah it's getting late. I don't want an earful from my folks for staying out too late."
+    # rocco "Yeah it''s getting late. I don''t want an earful from my folks for staying out too late."
     rocco "也是，时候不早了。我可不想晚回家被爸妈骂个臭头。"
 
 # game/prologue.rpy:2717
@@ -4781,19 +4781,19 @@ translate Schinese p_after_cody_choice_363d68e3:
 # game/prologue.rpy:2719
 translate Schinese p_after_cody_choice_a0a27957:
 
-    # narrator sideSeanConcerned "Cody's mood, however, didn't get back to what it was."
-    narrator sideSeanConcerned "然而，Cody的情绪却没能平復。"
+    # narrator sideSeanConcerned "Cody''s mood, however, didn''t get back to what it was."
+    narrator sideSeanConcerned "然而，Cody的情绪却没能平复。"
 
 # game/prologue.rpy:2720
 translate Schinese p_after_cody_choice_da15d159:
 
-    # "It made me feel bad, but hopefully it wouldn't last."
+    # "It made me feel bad, but hopefully it wouldn''t last."
     "我有点心痛，但愿不会持续太久。"
 
 # game/prologue.rpy:2741
 translate Schinese p_after_walk_4d185082:
 
-    # narrator sideSeanNeutral "The drive back to Cody's was fairly uneventful. Everyone seemed to be drained of small talk."
+    # narrator sideSeanNeutral "The drive back to Cody''s was fairly uneventful. Everyone seemed to be drained of small talk."
     narrator sideSeanNeutral "开回Cody家的路上无事发生，大家都累到聊不起来了。"
 
 # game/prologue.rpy:2743
@@ -4817,8 +4817,8 @@ translate Schinese p_after_walk_fda7793b:
 # game/prologue.rpy:2754
 translate Schinese p_after_walk_c505bfda:
 
-    # cody "What's up."
-    cody "怎麽了？"
+    # cody "What''s up."
+    cody "怎么了？"
 
 # game/prologue.rpy:2757
 translate Schinese p_after_walk_cbfcc111:
@@ -4829,61 +4829,61 @@ translate Schinese p_after_walk_cbfcc111:
 # game/prologue.rpy:2761
 translate Schinese p_after_walk_7c97125a:
 
-    # arthur "You're the I.T. guy now?"
+    # arthur "You''re the I.T. guy now?"
     arthur "你还做ＩＴ？"
 
 # game/prologue.rpy:2765
 translate Schinese p_after_walk_a0dedce7:
 
-    # rocco "No, but I gotta be there when he shows up. Apparently something's gone wrong. Half the hotel rooms have people checked into them."
-    rocco "我不是，但我得在ＩＴ来时在场。好像出了什麽问题，让大半房间都呈现有来客的情况。"
+    # rocco "No, but I gotta be there when he shows up. Apparently something''s gone wrong. Half the hotel rooms have people checked into them."
+    rocco "我不是，但我得在ＩＴ来时在场。好像出了什么问题，让大半房间都呈现有来客的情况。"
 
 # game/prologue.rpy:2768
 translate Schinese p_after_walk_9852447b:
 
-    # arthur "Why can't Hank deal with it?"
+    # arthur "Why can''t Hank deal with it?"
     arthur "Hank不能自己处理吗？"
 
 # game/prologue.rpy:2771
 translate Schinese p_after_walk_c8c323c6:
 
-    # rocco "Someone has to be there to supervise the I.T. guy. Hank's just the janitor."
+    # rocco "Someone has to be there to supervise the I.T. guy. Hank''s just the janitor."
     rocco "必须要有人监督ＩＴ。Hank只是清洁员。"
 
 # game/prologue.rpy:2772
 translate Schinese p_after_walk_896def48:
 
-    # rocco "Normally, we got this deal goin'. I taught him how to man the front desk. He showed me what needs to be done to keep the place clean."
-    rocco "平常我们之间有个协议。我教他怎麽当前台；他教我怎麽打理环境。"
+    # rocco "Normally, we got this deal goin''. I taught him how to man the front desk. He showed me what needs to be done to keep the place clean."
+    rocco "平常我们之间有个协议。我教他怎么当前台；他教我怎么打理环境。"
 
 # game/prologue.rpy:2773
 translate Schinese p_after_walk_d0b43e0c:
 
-    # rocco "We both 'work' full hours, but since the hotel is so slow we just do each other's job and alternate shifts."
-    rocco "我们都是平日「正职」，但毕竟旅馆没什麽人，我们就决定轮班，每天把彼此的工作包办了。"
+    # rocco "We both ''work'' full hours, but since the hotel is so slow we just do each other''s job and alternate shifts."
+    rocco "我们都是平日「正职」，但毕竟旅馆没什么人，我们就决定轮班，每天把彼此的工作包办了。"
 
 # game/prologue.rpy:2774
 translate Schinese p_after_walk_822113f3:
 
     # rocco "I think day crew do the same thing."
-    rocco "日班的人应该也是这麽干的。"
+    rocco "日班的人应该也是这么干的。"
 
 # game/prologue.rpy:2778
 translate Schinese p_after_walk_e0c9c827:
 
-    # cody "Isn't that illegal? Like against your contract or something?"
+    # cody "Isn''t that illegal? Like against your contract or something?"
     cody "这不合法吧？违反契约之类的？"
 
 # game/prologue.rpy:2781
 translate Schinese p_after_walk_b9ac94ae:
 
-    # rocco "Yeah probably. We haven't gotten in trouble so far. Been doin it for two years anyways."
+    # rocco "Yeah probably. We haven''t gotten in trouble so far. Been doin it for two years anyways."
     rocco "大概吧，但至今为止都没出问题。都已经干了两年了。"
 
 # game/prologue.rpy:2785
 translate Schinese p_after_walk_88400244:
 
-    # "Rocco's ears flatten. His hackles raised. I can hear a low growl building in his voice."
+    # "Rocco''s ears flatten. His hackles raised. I can hear a low growl building in his voice."
     "Rocco双耳耸平，颈毛直立，音色中夹带低吼声。"
 
 # game/prologue.rpy:2790
@@ -4895,13 +4895,13 @@ translate Schinese p_after_walk_77e31677:
 # game/prologue.rpy:2791
 translate Schinese p_after_walk_8b8eba19:
 
-    # rocco "Let's just hope they don't think we're fuckin with our books."
+    # rocco "Let''s just hope they don''t think we''re fuckin with our books."
     rocco "希望不会被当成我们在名单上造假。"
 
 # game/prologue.rpy:2795
 translate Schinese p_after_walk_9d6871f3:
 
-    # cody "You'll need a ride tomorrow, right?"
+    # cody "You''ll need a ride tomorrow, right?"
     cody "那你明天要人载吧？"
 
 # game/prologue.rpy:2799
@@ -4919,26 +4919,26 @@ translate Schinese p_after_walk_36ed9949:
 # game/prologue.rpy:2803
 translate Schinese p_after_walk_27ec1c37:
 
-    # "Rocco's voice sounded defeated. The growl in it gone."
+    # "Rocco''s voice sounded defeated. The growl in it gone."
     "Rocco音色中没了低吼声，有气无力。"
 
 # game/prologue.rpy:2807
 translate Schinese p_after_walk_dc4ca27a:
 
-    # cody sideSeanSmile "How about I pick everyone up! Arthur will be at my place. Sean is on the way. Then after you're done we can go hang out."
+    # cody sideSeanSmile "How about I pick everyone up! Arthur will be at my place. Sean is on the way. Then after you''re done we can go hang out."
     cody sideSeanSmile "那就我来载大家吧！Arthur住我家，Sean那边也顺路。等你搞定后就能一起出去玩了。"
 
 # game/prologue.rpy:2811
 translate Schinese p_after_walk_b915cf0d:
 
-    # rocco "Maybe, let me see what time he's showing up."
-    rocco "或许吧，得先看他什麽时候来。"
+    # rocco "Maybe, let me see what time he''s showing up."
+    rocco "或许吧，得先看他什么时候来。"
 
 # game/prologue.rpy:2816
 translate Schinese p_after_walk_0ad51ca2:
 
-    # arthur "Is Mabelle's still open? We could get some doughnuts for breakfast."
-    arthur "玛贝尔还开着吗？能去买甜甜圈当早餐。"
+    # arthur "Is Mabelle''s still open? We could get some doughnuts for breakfast."
+    arthur "玛贝尔还开著吗？能去买甜甜圈当早餐。"
 
 # game/prologue.rpy:2820
 translate Schinese p_after_walk_67ce018f:
@@ -4949,19 +4949,19 @@ translate Schinese p_after_walk_67ce018f:
 # game/prologue.rpy:2823
 translate Schinese p_after_walk_810a7fa3:
 
-    # "It felt like ages since we last had their doughnuts. I'm glad to hear the old mom-n'-pop shop was still around."
-    "感觉已经超久没吃他们家甜甜圈了。很开心能听到那家老店还开着。"
+    # "It felt like ages since we last had their doughnuts. I''m glad to hear the old mom-n''-pop shop was still around."
+    "感觉已经超久没吃他们家甜甜圈了。很开心能听到那家老店还开著。"
 
 # game/prologue.rpy:2824
 translate Schinese p_after_walk_0e0a7ca0:
 
-    # "In almost an instant Rocco's voice perks up."
+    # "In almost an instant Rocco''s voice perks up."
     "Rocco语气一亮："
 
 # game/prologue.rpy:2827
 translate Schinese p_after_walk_b197be32:
 
-    # rocco "Hell yeah! I'll cover it."
+    # rocco "Hell yeah! I''ll cover it."
     rocco "好哇！我请客。"
 
 # game/prologue.rpy:2830
@@ -4980,18 +4980,18 @@ translate Schinese p_after_walk_2e9345f6:
 translate Schinese p_after_walk_bb3dd45f:
 
     # "Immediately I recognized what it is."
-    "瞬间就听出是什麽了。"
+    "瞬间就听出是什么了。"
 
 # game/prologue.rpy:2839
 translate Schinese p_after_walk_4a958c83:
 
-    # "I see Cody and Arthur's eyes shift me in the rear view mirror. Rocco tries to look out the window. I know his eyes dart over to me."
+    # "I see Cody and Arthur''s eyes shift me in the rear view mirror. Rocco tries to look out the window. I know his eyes dart over to me."
     "我从后照镜中看见Cody跟Arthur的眼神看向我，Rocco虽然把头转向窗外，但目光也瞥来了。"
 
 # game/prologue.rpy:2840
 translate Schinese p_after_walk_11d6852e:
 
-    # "A Tail Raiser's notification..."
+    # "A Tail Raiser''s notification..."
     "翘尾巴的通知音……"
 
 # game/prologue.rpy:2841
@@ -5004,18 +5004,18 @@ translate Schinese p_after_walk_45f97418:
 translate Schinese p_after_walk_86753b74:
 
     # "Another ping, this time a text tone. My face is on fire as I focus all my attention onto the road."
-    "又一声通知，这次是讯息音。我烫红着脸，把注意力集中在眼前路上。"
+    "又一声通知，这次是讯息音。我烫红著脸，把注意力集中在眼前路上。"
 
 # game/prologue.rpy:2849
 translate Schinese p_after_walk_54b3c38c:
 
-    # rocco "Oh hey, Hank got back to me. Looks like they're expected to show up at ten."
+    # rocco "Oh hey, Hank got back to me. Looks like they''re expected to show up at ten."
     rocco "喔，Hank回我了。看来他们大概１０点会到。"
 
 # game/prologue.rpy:2852
 translate Schinese p_after_walk_ec772195:
 
-    # cody "C-Cool, I'll grab everyone at eight so we'll have time."
+    # cody "C-Cool, I''ll grab everyone at eight so we''ll have time."
     cody "好、好喔，那我就在８点去接大家，这样时间足够。"
 
 # game/prologue.rpy:2855
@@ -5028,12 +5028,12 @@ translate Schinese p_after_walk_13020fb2:
 translate Schinese p_after_walk_c187745e:
 
     # "It had been a while since I last messaged someone on it. Why would the app even go off here?"
-    "我都很久没在上面发消息了，怎麽就在这地方响了呢？"
+    "我都很久没在上面发消息了，怎么就在这地方响了呢？"
 
 # game/prologue.rpy:2857
 translate Schinese p_after_walk_df0a50aa:
 
-    # "Well Cody's bi so maybe he installed it."
+    # "Well Cody''s bi so maybe he installed it."
     "Cody是个双，说不定他也装了。"
 
 # game/prologue.rpy:2864
@@ -5045,8 +5045,8 @@ translate Schinese p_after_walk_8169a7c5:
 # game/prologue.rpy:2865
 translate Schinese p_after_walk_ea30c3e0:
 
-    # "Rocco just stared out the window. Arthur had fallen asleep on Cody's shoulder, but he didn't seem to mind."
-    "Rocco只是望着窗外，Arthur睡在了Cody肩上，但他倒也不介意。"
+    # "Rocco just stared out the window. Arthur had fallen asleep on Cody''s shoulder, but he didn''t seem to mind."
+    "Rocco只是望著窗外，Arthur睡在了Cody肩上，但他倒也不介意。"
 
 # game/prologue.rpy:2881
 translate Schinese p_after_walk_9fc0abc5:
@@ -5063,7 +5063,7 @@ translate Schinese p_after_walk_7e53fe4c:
 # game/prologue.rpy:2886
 translate Schinese p_after_walk_db8db11c:
 
-    # "Even though we were meeting up in only a few hours, I wish we could've gotten in earlier."
+    # "Even though we were meeting up in only a few hours, I wish we could''ve gotten in earlier."
     "哪怕几小时后我们又会聚一块，也希望当初能再早点到。"
 
 # game/prologue.rpy:2895
@@ -5093,25 +5093,25 @@ translate Schinese p_after_walk_1c4e0e74:
 # game/prologue.rpy:2928
 translate Schinese p_after_walk_049a16eb:
 
-    # "Rocco didn't want to listen to any music. I agreed. It was late, and the quiet was nice."
+    # "Rocco didn''t want to listen to any music. I agreed. It was late, and the quiet was nice."
     "Rocco不想听音乐，我也同意。已经很晚了，安静点也好。"
 
 # game/prologue.rpy:2943
 translate Schinese p_arthur_sean_talk_to_rocco_4374c5fc:
 
-    # "Though, I did make a promise to Arthur. It's not like I would get a better time than this."
+    # "Though, I did make a promise to Arthur. It''s not like I would get a better time than this."
     "但我跟Arthur说好了。这是绝佳时机。"
 
 # game/prologue.rpy:2948
 translate Schinese p_arthur_sean_talk_to_rocco_557b27cf:
 
-    # sean "So, now that we're alone..."
+    # sean "So, now that we''re alone..."
     sean "既然现在就剩我们俩了……"
 
 # game/prologue.rpy:2951
 translate Schinese p_arthur_sean_talk_to_rocco_4bf1fecb:
 
-    # rocco sideSeanAngry "Sean, I'm flattered really-"
+    # rocco sideSeanAngry "Sean, I''m flattered really-"
     rocco sideSeanAngry "Sean，我是很受宠若惊——"
 
 # game/prologue.rpy:2955
@@ -5130,7 +5130,7 @@ translate Schinese p_arthur_sean_talk_to_rocco_5f8d1f1b:
 translate Schinese p_arthur_sean_talk_to_rocco_51a28f72:
 
     # "My tone is blunt. That seems to change his attitude. Dropping the goofy face he normally wears when teasing me."
-    "我语气强硬，让他改变态度，不再摆着平常闹我时的"
+    "我语气强硬，让他改变态度，不再摆著平常闹我时的"
 
 # game/prologue.rpy:2965
 translate Schinese p_arthur_sean_talk_to_rocco_6c34471b:
@@ -5141,7 +5141,7 @@ translate Schinese p_arthur_sean_talk_to_rocco_6c34471b:
 # game/prologue.rpy:2969
 translate Schinese p_arthur_sean_talk_to_rocco_9ff22a20:
 
-    # "I decide it's best to pull over for a second. Rocco begins to look concerned. I don't blame him."
+    # "I decide it''s best to pull over for a second. Rocco begins to look concerned. I don''t blame him."
     "我决定先停在路旁，令Rocco神色凝重。这也怪不得他。"
 
 # game/prologue.rpy:2972
@@ -5159,43 +5159,43 @@ translate Schinese p_arthur_sean_talk_to_rocco_bf86e001:
 # game/prologue.rpy:2979
 translate Schinese p_arthur_sean_talk_to_rocco_6c215bbe:
 
-    # rocco "Like I said Sean. I really don't want to talk about it."
+    # rocco "Like I said Sean. I really don''t want to talk about it."
     rocco "我也说过了，Sean，我不太想谈这事。"
 
 # game/prologue.rpy:2996
 translate Schinese p_push_rocco_671d070f:
 
-    # sean sideSeanAngry "No. You're not getting out of this. Either you tell me, or you walk."
-    sean sideSeanAngry "不行，你休想脱身。你要麽开口，要麽下车。"
+    # sean sideSeanAngry "No. You''re not getting out of this. Either you tell me, or you walk."
+    sean sideSeanAngry "不行，你休想脱身。你要么开口，要么下车。"
 
 # game/prologue.rpy:2999
 translate Schinese p_push_rocco_5fec9bb3:
 
-    # "I hated giving him an ultimatum like this. Work must've been exhausting, and a potentially hour long walk from the mountains must not be appealing."
+    # "I hated giving him an ultimatum like this. Work must''ve been exhausting, and a potentially hour long walk from the mountains must not be appealing."
     "我是不想这样逼他选。他工作一定很累，肯定是不想走一个小时山路的。"
 
 # game/prologue.rpy:3000
 translate Schinese p_push_rocco_d5fba195:
 
-    # "Still I needed to know what happened. I wouldn't be able to sleep tonight unless I knew."
-    "可我非得知道来龙去脉不可。不然今晚睡不着觉的。"
+    # "Still I needed to know what happened. I wouldn''t be able to sleep tonight unless I knew."
+    "可我非得知道来龙去脉不可。不然今晚睡不著觉的。"
 
 # game/prologue.rpy:3002
 translate Schinese p_push_rocco_817a13ad:
 
     # "Rocco puts a paw to his face. He takes a deep breath in, and an even longer exhale."
-    "Rocco一爪撑着脸，深吸一口气，然后吐了更长一口气出来。"
+    "Rocco一爪撑著脸，深吸一口气，然后吐了更长一口气出来。"
 
 # game/prologue.rpy:3006
 translate Schinese p_push_rocco_545bd04d:
 
-    # rocco sideSeanSad "Fuck it and fuck you! You wanna fucking know? Then fine, I'll tell you!"
+    # rocco sideSeanSad "Fuck it and fuck you! You wanna fucking know? Then fine, I''ll tell you!"
     rocco sideSeanSad "不管了，去你的！你他妈想知道？那我就告诉你！"
 
 # game/prologue.rpy:3008
 translate Schinese p_push_rocco_e94b88a2:
 
-    # rocco "You're not gonna like what you hear though..."
+    # rocco "You''re not gonna like what you hear though..."
     rocco "你听不开心可别怪我……"
 
 # game/prologue.rpy:3010
@@ -5219,7 +5219,7 @@ translate Schinese p_let_it_go_1a4cd32c:
 # game/prologue.rpy:3026
 translate Schinese p_let_it_go_5a06207f:
 
-    # rocco "I promise, we'll tell you and Arthur. But right now, it's just not the best time to get into this."
+    # rocco "I promise, we''ll tell you and Arthur. But right now, it''s just not the best time to get into this."
     rocco "我保证会告诉你和Arthur。但现在真不是时候。"
 
 # game/prologue.rpy:3029
@@ -5231,8 +5231,8 @@ translate Schinese p_let_it_go_917d6b96:
 # game/prologue.rpy:3032
 translate Schinese p_let_it_go_c8599bb9:
 
-    # "We don't talk for the rest of the drive. It honestly makes me a little sad."
-    "剩下的路程，我们没再多说什麽。其实还让我挺伤心的。"
+    # "We don''t talk for the rest of the drive. It honestly makes me a little sad."
+    "剩下的路程，我们没再多说什么。其实还让我挺伤心的。"
 
 # game/prologue.rpy:3033
 translate Schinese p_let_it_go_b51ca729:
@@ -5243,20 +5243,20 @@ translate Schinese p_let_it_go_b51ca729:
 # game/prologue.rpy:3035
 translate Schinese p_let_it_go_96ba49db:
 
-    # "Yet neither of us want to break the silence. So we just let it fill the air as I take him back to his parent's house."
+    # "Yet neither of us want to break the silence. So we just let it fill the air as I take him back to his parent''s house."
     "但我俩都不想沉默，便在一片寂静中载他回他爸妈家。"
 
 # game/prologue.rpy:3042
 translate Schinese p_rocco_talk_to_sean_d065ce03:
 
-    # "A sigh broke the silence. I pull off to the side of the road. I know what's coming."
+    # "A sigh broke the silence. I pull off to the side of the road. I know what''s coming."
     "一道叹息打破了沉默。我停在路旁，面对接下来的事。"
 
 # game/prologue.rpy:3043
 translate Schinese p_rocco_talk_to_sean_6473f84f:
 
-    # "Rocco rolled towards the window. Staring out into the abyss. I can tell he's debating how to start this."
-    "Rocco挪向窗边，望着深渊，显然是在想该如何开口。"
+    # "Rocco rolled towards the window. Staring out into the abyss. I can tell he''s debating how to start this."
+    "Rocco挪向窗边，望著深渊，显然是在想该如何开口。"
 
 # game/prologue.rpy:3049
 translate Schinese p_rocco_talk_to_sean_d4ba4d60:
@@ -5267,7 +5267,7 @@ translate Schinese p_rocco_talk_to_sean_d4ba4d60:
 # game/prologue.rpy:3052
 translate Schinese p_rocco_talk_to_sean_b32d2190:
 
-    # "His voice was low, quiet, and punctual. It didn't have any of his normal roughness to it. "
+    # "His voice was low, quiet, and punctual. It didn''t have any of his normal roughness to it. "
     "他声音低沉、平静而清晰，没有了平时的粗糙感。"
 
 # game/prologue.rpy:3056
@@ -5291,19 +5291,19 @@ translate Schinese p_rocco_talk_to_sean_38971997:
 # game/prologue.rpy:3067
 translate Schinese p_rocco_tells_sean_about_cody_3f8dcb5c:
 
-    # rocco sideSeanConcerned "This is my side of things. Don't bother Cody for his, not right now."
+    # rocco sideSeanConcerned "This is my side of things. Don''t bother Cody for his, not right now."
     rocco sideSeanConcerned "这是我的所见所闻，但别去追问Cody，现在不行。"
 
 # game/prologue.rpy:3068
 translate Schinese p_rocco_tells_sean_about_cody_5d3d56cb:
 
     # rocco "He told me about a surgery he was going to shadow for a class. A heart replacement, transplant, whatever."
-    rocco "他跟我说过，有堂课要去帮忙动手术。好像是心脏置换还是移植什麽的。"
+    rocco "他跟我说过，有堂课要去帮忙动手术。好像是心脏置换还是移植什么的。"
 
 # game/prologue.rpy:3069
 translate Schinese p_rocco_tells_sean_about_cody_195b2211:
 
-    # rocco "Like I said before, Doc wanted Cody to do a part of it. Showed him where to cut, then let him do it. Cody didn't think much of it at the time. Thought it was a normal thing to do or something."
+    # rocco "Like I said before, Doc wanted Cody to do a part of it. Showed him where to cut, then let him do it. Cody didn''t think much of it at the time. Thought it was a normal thing to do or something."
     rocco "医生要Cody当助手，告诉他该切哪里，让他动手。Cody当时没有多想，觉得很稀松平常。"
 
 # game/prologue.rpy:3070
@@ -5327,19 +5327,19 @@ translate Schinese p_rocco_tells_sean_about_cody_58b9b68d:
 # game/prologue.rpy:3079
 translate Schinese p_rocco_tells_sean_about_cody_c7ae2548:
 
-    # rocco sideSeanConcerned "They got the surgeon on the phone tellin' him it wasn't his fault. The body wouldn't take the heart. It happens."
+    # rocco sideSeanConcerned "They got the surgeon on the phone tellin'' him it wasn''t his fault. The body wouldn''t take the heart. It happens."
     rocco sideSeanConcerned "执刀医生在电话中表示他那不是他的错，是病人身体排斥那颗心脏，就是会有这种万一。"
 
 # game/prologue.rpy:3080
 translate Schinese p_rocco_tells_sean_about_cody_bc882256:
 
-    # rocco "Cody didn't buy it."
+    # rocco "Cody didn''t buy it."
     rocco "Cody不相信。"
 
 # game/prologue.rpy:3082
 translate Schinese p_rocco_tells_sean_about_cody_74e67620:
 
-    # rocco sideSeanScared "That went down three months ago. Remember the call I got from him. Thing is, Cody wasn't calling about quitting."
+    # rocco sideSeanScared "That went down three months ago. Remember the call I got from him. Thing is, Cody wasn''t calling about quitting."
     rocco sideSeanScared "这是三个月前的事了。还记得我说他有打给我吗？但他打来不是跟我说想休学。"
 
 # game/prologue.rpy:3083
@@ -5357,8 +5357,8 @@ translate Schinese p_rocco_tells_sean_about_cody_61553de3:
 # game/prologue.rpy:3090
 translate Schinese p_rocco_tells_sean_about_cody_4cd65ee9:
 
-    # rocco "I don't know how the fuck I did it, but here we are."
-    rocco "我也不知道我怎麽办到的，但现在就是这麽个情况。"
+    # rocco "I don''t know how the fuck I did it, but here we are."
+    rocco "我也不知道我怎么办到的，但现在就是这么个情况。"
 
 # game/prologue.rpy:3091
 translate Schinese p_rocco_tells_sean_about_cody_791783c2:
@@ -5369,8 +5369,8 @@ translate Schinese p_rocco_tells_sean_about_cody_791783c2:
 # game/prologue.rpy:3095
 translate Schinese p_rocco_tells_sean_about_cody_cdaafb80:
 
-    # sean sideSeanConcerned "I-I don't know what to say."
-    sean sideSeanConcerned "我、我不知道该说什麽了。"
+    # sean sideSeanConcerned "I-I don''t know what to say."
+    sean sideSeanConcerned "我、我不知道该说什么了。"
 
 # game/prologue.rpy:3099
 translate Schinese p_rocco_tells_sean_about_cody_a4102b50:
@@ -5387,7 +5387,7 @@ translate Schinese p_rocco_tells_sean_about_cody_a148017d:
 # game/prologue.rpy:3116
 translate Schinese p_please_stop_58833b2b:
 
-    # sean sideSeanScared "I think I understand... I don't need to hear any more. I'm sorry for making you talk about it."
+    # sean sideSeanScared "I think I understand... I don''t need to hear any more. I''m sorry for making you talk about it."
     sean sideSeanScared "我已经明白了……不用再说了。抱歉让你开这个口。"
 
 # game/prologue.rpy:3119
@@ -5406,7 +5406,7 @@ translate Schinese p_please_stop_cdff298f:
 translate Schinese p_please_stop_dc1f4bc9:
 
     # narrator sideSeanConcerned "He put a paw on my shoulder, making me swerve a little. Surprised at the gesture. We sit in silence for the rest of the drive."
-    narrator sideSeanConcerned "他一爪搭在我肩上，害我猝不及防，差点偏离车道。剩下的路途，我们没再多说什麽。"
+    narrator sideSeanConcerned "他一爪搭在我肩上，害我猝不及防，差点偏离车道。剩下的路途，我们没再多说什么。"
 
 # game/prologue.rpy:3135
 translate Schinese p_keep_going_02d97920:
@@ -5417,8 +5417,8 @@ translate Schinese p_keep_going_02d97920:
 # game/prologue.rpy:3138
 translate Schinese p_keep_going_102faf15:
 
-    # "I wasn't sure I wanted to know, but I'm already in this deep."
-    "我也不太确定到底想不想继续听，但都已经听了这麽多。"
+    # "I wasn''t sure I wanted to know, but I''m already in this deep."
+    "我也不太确定到底想不想继续听，但都已经听了这么多。"
 
 # game/prologue.rpy:3142
 translate Schinese p_keep_going_8059355f:
@@ -5435,7 +5435,7 @@ translate Schinese p_keep_going_8ce61eb8:
 # game/prologue.rpy:3148
 translate Schinese p_keep_going_e1600306:
 
-    # rocco "He's back, we hang out, things are going good. He gave me a spare key to let myself in. I get off work before him every now and then. You know that part."
+    # rocco "He''s back, we hang out, things are going good. He gave me a spare key to let myself in. I get off work before him every now and then. You know that part."
     rocco "他回来之后，我们偶尔会聚聚，还算不差。他给了我备用钥匙好让我进他家。有时候我会比他早下班，这你已经知道了。"
 
 # game/prologue.rpy:3150
@@ -5447,14 +5447,14 @@ translate Schinese p_keep_going_9b1d38fb:
 # game/prologue.rpy:3152
 translate Schinese p_keep_going_57774bb7:
 
-    # rocco "I knock and wait a bit. No answer. I decide he's not home and let myself in."
+    # rocco "I knock and wait a bit. No answer. I decide he''s not home and let myself in."
     rocco "我敲门，等了一下后没人回应，就以为他不在家，直接进门。"
 
 # game/prologue.rpy:3153
 translate Schinese p_keep_going_66aca791:
 
     # rocco sideSeanScared "I go to his bathroom to take a leak. What do I find on the other side of the door?"
-    rocco sideSeanScared "我想先上个厕所，你猜门后是什麽情景？"
+    rocco sideSeanScared "我想先上个厕所，你猜门后是什么情景？"
 
 # game/prologue.rpy:3155
 translate Schinese p_keep_going_cc9e00c0:
@@ -5465,14 +5465,14 @@ translate Schinese p_keep_going_cc9e00c0:
 # game/prologue.rpy:3156
 translate Schinese p_keep_going_2ff00f83:
 
-    # rocco "Next thing I know, I'm diggin' through his kitchen looking for a knife or anything that can cut him free."
+    # rocco "Next thing I know, I''m diggin'' through his kitchen looking for a knife or anything that can cut him free."
     rocco "我连忙跑去厨房找刀具把绳子切断。"
 
 # game/prologue.rpy:3159
 translate Schinese p_keep_going_b1ab616b:
 
-    # "Rocco's sentences become a mixture of sobbing and rage."
-    "Rocco的话语夹杂着啜泣跟暴怒。"
+    # "Rocco''s sentences become a mixture of sobbing and rage."
+    "Rocco的话语夹杂著啜泣跟暴怒。"
 
 # game/prologue.rpy:3162
 translate Schinese p_keep_going_0fa55f5c:
@@ -5489,8 +5489,8 @@ translate Schinese p_keep_going_fccd6fd1:
 # game/prologue.rpy:3164
 translate Schinese p_keep_going_a7d9f7a6:
 
-    # rocco "I had a hard time finding a pulse. 911's on speaker as I start doing cpr because I don't fucking know what to do."
-    rocco "脉搏微弱，边打给９１１边做ＣＰＲ，不然我他妈也不知道该怎麽办。"
+    # rocco "I had a hard time finding a pulse. 911''s on speaker as I start doing cpr because I don''t fucking know what to do."
+    rocco "脉搏微弱，边打给９１１边做ＣＰＲ，不然我他妈也不知道该怎么办。"
 
 # game/prologue.rpy:3165
 translate Schinese p_keep_going_6bf0e11a:
@@ -5501,14 +5501,14 @@ translate Schinese p_keep_going_6bf0e11a:
 # game/prologue.rpy:3166
 translate Schinese p_keep_going_52c1f155:
 
-    # rocco "We couldn't afford it anyway."
+    # rocco "We couldn''t afford it anyway."
     rocco "反正也付不起这个钱。"
 
 # game/prologue.rpy:3167
 translate Schinese p_keep_going_ee011931:
 
     # rocco sideSeanSad "I hang up and just sit there, holding him. Waiting for him to wake up from this nightmare."
-    rocco sideSeanSad "挂断电话后，我就坐在那边抱着他。等他从恶梦中醒来。"
+    rocco sideSeanSad "挂断电话后，我就坐在那边抱著他。等他从恶梦中醒来。"
 
 # game/prologue.rpy:3171
 translate Schinese p_keep_going_3792cccd:
@@ -5543,8 +5543,8 @@ translate Schinese p_keep_going_66a87ed6:
 # game/prologue.rpy:3176
 translate Schinese p_keep_going_c4209fe7:
 
-    # "To tell him I'm sorry for not being there when he needed me."
-    "向他道歉，自己没能在他需要时陪着。"
+    # "To tell him I''m sorry for not being there when he needed me."
+    "向他道歉，自己没能在他需要时陪著。"
 
 # game/prologue.rpy:3177
 translate Schinese p_keep_going_d78f330a:
@@ -5555,25 +5555,25 @@ translate Schinese p_keep_going_d78f330a:
 # game/prologue.rpy:3181
 translate Schinese p_keep_going_de08fa76:
 
-    # rocco sideSeanConcerned "I'll never forget the first words he said to me."
+    # rocco sideSeanConcerned "I''ll never forget the first words he said to me."
     rocco sideSeanConcerned "我永远也忘不了他最先向我说的话。"
 
 # game/prologue.rpy:3182
 translate Schinese p_keep_going_52444148:
 
-    # rocco "When he woke up, he was still limp. The only thing he said was 'I'm sorry' over and over."
-    rocco "在他醒来后，他身体还很虚弱。嘴里却不停说着「对不起」。"
+    # rocco "When he woke up, he was still limp. The only thing he said was ''I''m sorry'' over and over."
+    rocco "在他醒来后，他身体还很虚弱。嘴里却不停说著「对不起」。"
 
 # game/prologue.rpy:3183
 translate Schinese p_keep_going_b7833d33:
 
-    # rocco "He couldn't hug me."
+    # rocco "He couldn''t hug me."
     rocco "他抱不住我、"
 
 # game/prologue.rpy:3184
 translate Schinese p_keep_going_7d0cb299:
 
-    # rocco sideSeanSad "He couldn't cry."
+    # rocco sideSeanSad "He couldn''t cry."
     rocco sideSeanSad "哭不出来，"
 
 # game/prologue.rpy:3185
@@ -5592,13 +5592,13 @@ translate Schinese p_keep_going_31580e5d:
 translate Schinese p_keep_going_fe4fd50f:
 
     # "I felt a paw gently rest on my face. Drying my cheeks."
-    "一隻爪轻搭在我脸上，擦拭脸颊。"
+    "一只爪轻搭在我脸上，擦拭脸颊。"
 
 # game/prologue.rpy:3191
 translate Schinese p_keep_going_d01834cc:
 
-    # "Why didn't they tell us? This was Sunday. Fucking Sunday."
-    "他们怎麽没跟我们说？那是星期天啊，他妈的星期天。"
+    # "Why didn''t they tell us? This was Sunday. Fucking Sunday."
+    "他们怎么没跟我们说？那是星期天啊，他妈的星期天。"
 
 # game/prologue.rpy:3192
 translate Schinese p_keep_going_51b83c5c:
@@ -5609,13 +5609,13 @@ translate Schinese p_keep_going_51b83c5c:
 # game/prologue.rpy:3193
 translate Schinese p_keep_going_c63d3a62:
 
-    # "We could've known. We could've been back sooner."
+    # "We could''ve known. We could''ve been back sooner."
     "我们可以知道的；我们可以早点回来的。"
 
 # game/prologue.rpy:3194
 translate Schinese p_keep_going_7281f020:
 
-    # "Hell if I didn't do this I doubt Arthur or I would ever know."
+    # "Hell if I didn''t do this I doubt Arthur or I would ever know."
     "干，要不是我逼他说，只怕我和Arthur永远都不会知道这件事。"
 
 # game/prologue.rpy:3197
@@ -5627,20 +5627,20 @@ translate Schinese p_keep_going_ac1e21e2:
 # game/prologue.rpy:3200
 translate Schinese p_keep_going_52ae6b61:
 
-    # sean "What the fuck! Why wouldn't you tell us?"
-    sean "什麽鬼！？你怎麽不告诉我们呢？"
+    # sean "What the fuck! Why wouldn''t you tell us?"
+    sean "什么鬼！？你怎么不告诉我们呢？"
 
 # game/prologue.rpy:3204
 translate Schinese p_keep_going_d3e152eb:
 
-    # "Rocco doesn't respond."
+    # "Rocco doesn''t respond."
     "Rocco没有回答。"
 
 # game/prologue.rpy:3207
 translate Schinese p_keep_going_00ec74f8:
 
     # sean "Were you two going to keep this a secret from us forever! That Cody almost ended up like-"
-    sean "你们是想把这事永远瞒着我们吗！？Cody的下场都快跟——"
+    sean "你们是想把这事永远瞒著我们吗！？Cody的下场都快跟——"
 
 # game/prologue.rpy:3210
 translate Schinese p_keep_going_558aece2:
@@ -5681,7 +5681,7 @@ translate Schinese p_keep_going_fbec104a:
 # game/prologue.rpy:3227
 translate Schinese p_keep_going_79564386:
 
-    # "Rocco doesn't answer."
+    # "Rocco doesn''t answer."
     "Rocco没有回答。"
 
 # game/prologue.rpy:3231
@@ -5699,13 +5699,13 @@ translate Schinese p_keep_going_79d35336:
 # game/prologue.rpy:3237
 translate Schinese p_keep_going_5e7a7f1b:
 
-    # sean "Rocco you don't know how to deal with this. You can't possibly think-"
-    sean "Rocco，这事你不知道该怎麽处理。你不可能会觉得——"
+    # sean "Rocco you don''t know how to deal with this. You can''t possibly think-"
+    sean "Rocco，这事你不知道该怎么处理。你不可能会觉得——"
 
 # game/prologue.rpy:3241
 translate Schinese p_keep_going_977d487d:
 
-    # rocco sideSeanScared "You don't think I fucking know that Sean! You really think, after what happened last time, that I would try to play therapist again!"
+    # rocco sideSeanScared "You don''t think I fucking know that Sean! You really think, after what happened last time, that I would try to play therapist again!"
     rocco sideSeanScared "你他妈以为我不知道吗，Sean！？你难道真的以为，上次那件事后，我还会想再充当治疗师的职责吧！？"
 
 # game/prologue.rpy:3245
@@ -5717,13 +5717,13 @@ translate Schinese p_keep_going_5e98174f:
 # game/prologue.rpy:3249
 translate Schinese p_keep_going_2396d2d7:
 
-    # rocco "Sean, he can't afford it. He has debt, an unfinished degree, and parents that he won't talk to anymore."
+    # rocco "Sean, he can''t afford it. He has debt, an unfinished degree, and parents that he won''t talk to anymore."
     rocco "Sean，他付不起。他有债务、大学肄业，还不去找父母谈。"
 
 # game/prologue.rpy:3250
 translate Schinese p_keep_going_d6beccf8:
 
-    # rocco "They don't know he flunked out. They think he's dropped out."
+    # rocco "They don''t know he flunked out. They think he''s dropped out."
     rocco "他们还不知道他是被退学的，还以为只是休学。"
 
 # game/prologue.rpy:3252
@@ -5747,14 +5747,14 @@ translate Schinese p_keep_going_ead1246d:
 # game/prologue.rpy:3271
 translate Schinese p_after_sean_talk_to_rocco_d3208142:
 
-    # narrator sideSeanNeutral "Rocco's place, or well his parents, hadn't changed much. It was an old ranch style house that sat one street off of Main, 5th and Ash."
-    narrator sideSeanNeutral "Rocco家——或者该说他爸妈家——没什麽变化。是个坐落在主大街、５号路跟桭木街的老旧牧场式住宅。"
+    # narrator sideSeanNeutral "Rocco''s place, or well his parents, hadn''t changed much. It was an old ranch style house that sat one street off of Main, 5th and Ash."
+    narrator sideSeanNeutral "Rocco家——或者该说他爸妈家——没什么变化。是个坐落在主大街、５号路跟桭木街的老旧牧场式住宅。"
 
 # game/prologue.rpy:3272
 translate Schinese p_after_sean_talk_to_rocco_5f6ac132:
 
     # "Although it was getting close to 1, the lights in the living room were still on."
-    "虽然已经快１点了，客厅的灯还亮着。"
+    "虽然已经快１点了，客厅的灯还亮著。"
 
 # game/prologue.rpy:3276
 translate Schinese p_after_sean_talk_to_rocco_4740523d:
@@ -5766,13 +5766,13 @@ translate Schinese p_after_sean_talk_to_rocco_4740523d:
 translate Schinese p_after_sean_talk_to_rocco_4813e0de:
 
     # rocco "Great, probably gonna get an earful for being out so late."
-    rocco "真棒，这麽晚回来，肯定要被骂个狗血淋头。"
+    rocco "真棒，这么晚回来，肯定要被骂个狗血淋头。"
 
 # game/prologue.rpy:3284
 translate Schinese p_after_sean_talk_to_rocco_9aeed259:
 
-    # sean sideSeanConcerned "Why, you're almost 24."
-    sean sideSeanConcerned "为什麽？你都快２４了。"
+    # sean sideSeanConcerned "Why, you''re almost 24."
+    sean sideSeanConcerned "为什么？你都快２４了。"
 
 # game/prologue.rpy:3287
 translate Schinese p_after_sean_talk_to_rocco_084537d7:
@@ -5801,14 +5801,14 @@ translate Schinese p_after_sean_talk_to_rocco_ac5a3ee8:
 # game/prologue.rpy:3300
 translate Schinese p_after_sean_talk_to_rocco_741115d4:
 
-    # "I nod and he moves in to hug me. I accept, not fully realizing how strong he's gotten in these past few years. I heard my back pop as his arms wrapped around me."
-    "我点头，他凑近给了我个拥抱。我接下他的怀抱，才明白他这几年变得有多壮。嵴椎关节都被他抱得发出咔咔声了。"
+    # "I nod and he moves in to hug me. I accept, not fully realizing how strong he''s gotten in these past few years. I heard my back pop as his arms wrapped around me."
+    "我点头，他凑近给了我个拥抱。我接下他的怀抱，才明白他这几年变得有多壮。脊椎关节都被他抱得发出咔咔声了。"
 
 # game/prologue.rpy:3301
 translate Schinese p_after_sean_talk_to_rocco_8243adff:
 
     # "He lets me out of the embrace staring at me."
-    "他松开怀抱，凝望着我。"
+    "他松开怀抱，凝望著我。"
 
 # game/prologue.rpy:3304
 translate Schinese p_after_sean_talk_to_rocco_7adda183:
@@ -5837,7 +5837,7 @@ translate Schinese p_after_sean_talk_to_rocco_7011ae1c:
 # game/prologue.rpy:3317
 translate Schinese p_after_sean_talk_to_rocco_675206b0:
 
-    # rocco "You too. I'll see you tomorrow."
+    # rocco "You too. I''ll see you tomorrow."
     rocco "你也是，明天见。"
 
 # game/prologue.rpy:3321
@@ -5849,7 +5849,7 @@ translate Schinese p_after_sean_talk_to_rocco_53dbcb10:
 # game/prologue.rpy:3324
 translate Schinese p_after_sean_talk_to_rocco_49820594:
 
-    # narrator sideSeanSmile "It's immediately released in relief. Rocco turns, giving me a thumbs up and a cheeky smile. Then he tip-toes in."
+    # narrator sideSeanSmile "It''s immediately released in relief. Rocco turns, giving me a thumbs up and a cheeky smile. Then he tip-toes in."
     narrator sideSeanSmile "然后顿时松了口气，转身对我竖起拇指，得意一笑，然后蹑手蹑脚地进了屋。"
 
 # game/prologue.rpy:3332
@@ -5861,7 +5861,7 @@ translate Schinese p_after_sean_talk_to_rocco_76b2fe88:
 # game/prologue.rpy:3336
 translate Schinese p_after_sean_talk_to_rocco_8f6b68bb:
 
-    # nulln sideSeanNeutral "For the first time today, I'm left alone."
+    # nulln sideSeanNeutral "For the first time today, I''m left alone."
     nulln sideSeanNeutral "这是我今天第一次独处。"
 
 # game/prologue.rpy:3337
@@ -5873,7 +5873,7 @@ translate Schinese p_after_sean_talk_to_rocco_0e0a2d38:
 # game/prologue.rpy:3338
 translate Schinese p_after_sean_talk_to_rocco_3cd2f024:
 
-    # nulln "My eyes are tired, but I'm able to stay conscious enough to make it back home."
+    # nulln "My eyes are tired, but I''m able to stay conscious enough to make it back home."
     nulln "我眼睛很累了，但还能保持意识回到家。"
 
 # game/prologue.rpy:3339
@@ -5885,8 +5885,8 @@ translate Schinese p_after_sean_talk_to_rocco_76b2fe88_1:
 # game/prologue.rpy:3346
 translate Schinese p_after_sean_talk_to_rocco_d3ad5fd9:
 
-    # nulln sideSeanNeutral "I parked on the road outside the house. Dad's work van took up the driveway. The lights were out on our side of the old duplex. Our neighbors were still up doing whatever it is they do. That or they left a light on."
-    nulln sideSeanNeutral "老爸的工作休旅车占走了车道，我便停在家门前的路边。我们家这边的灯光熄了，但隔壁家好像还醒着，或只是没关灯。"
+    # nulln sideSeanNeutral "I parked on the road outside the house. Dad''s work van took up the driveway. The lights were out on our side of the old duplex. Our neighbors were still up doing whatever it is they do. That or they left a light on."
+    nulln sideSeanNeutral "老爸的工作休旅车占走了车道，我便停在家门前的路边。我们家这边的灯光熄了，但隔壁家好像还醒著，或只是没关灯。"
 
 # game/prologue.rpy:3347
 translate Schinese p_after_sean_talk_to_rocco_2e062098:
@@ -5897,7 +5897,7 @@ translate Schinese p_after_sean_talk_to_rocco_2e062098:
 # game/prologue.rpy:3348
 translate Schinese p_after_sean_talk_to_rocco_ed5c5938:
 
-    # nulln "8 missed messages, 2 missed calls, 1 Tail Raisers notification. So I didn't uninstall it..."
+    # nulln "8 missed messages, 2 missed calls, 1 Tail Raisers notification. So I didn''t uninstall it..."
     nulln "8条未读讯息、2通未接来电、1则翘尾巴通知。看来我真没删啊……"
 
 # game/prologue.rpy:3349
@@ -5909,7 +5909,7 @@ translate Schinese p_after_sean_talk_to_rocco_1031915f:
 # game/prologue.rpy:3350
 translate Schinese p_after_sean_talk_to_rocco_a8abede2:
 
-    # nulln sideSeanNeutral "I sent a quick 'sorry im home' text and put it away. "
+    # nulln sideSeanNeutral "I sent a quick ''sorry im home'' text and put it away. "
     nulln sideSeanNeutral "我连忙发了条「抱歉我到家了」的讯息，然后放回手机。"
 
 # game/prologue.rpy:3351
@@ -5939,14 +5939,14 @@ translate Schinese p_after_sean_talk_to_rocco_f494f858:
 # game/prologue.rpy:3361
 translate Schinese p_after_sean_talk_to_rocco_c787a369:
 
-    # nulln "Mom left out two plates of food on the table. I wasn't hungry, but took a few bites. "
+    # nulln "Mom left out two plates of food on the table. I wasn''t hungry, but took a few bites. "
     nulln "老妈在桌上留了两盘吃的。我也不饿，但还是吃了几口。"
 
 # game/prologue.rpy:3362
 translate Schinese p_after_sean_talk_to_rocco_0f646531:
 
-    # nulln sideSeanSmile "Above the table was a pawmade 'Welcome Home' sign. Each letter was on its own piece of printer paper, traced out in marker, tied together with some of Mom's crocheting yarn."
-    nulln sideSeanSmile "桌子上方挂着「Welcome Home」的爪作字牌。每个字母都用分别在不同影印机纸上用马克笔画出来，再用老妈的针织羊毛繫起来。"
+    # nulln sideSeanSmile "Above the table was a pawmade ''Welcome Home'' sign. Each letter was on its own piece of printer paper, traced out in marker, tied together with some of Mom''s crocheting yarn."
+    nulln sideSeanSmile "桌子上方挂著「Welcome Home」的爪作字牌。每个字母都用分别在不同影印机纸上用马克笔画出来，再用老妈的针织羊毛系起来。"
 
 # game/prologue.rpy:3363
 translate Schinese p_after_sean_talk_to_rocco_cf84c93e:
@@ -5957,7 +5957,7 @@ translate Schinese p_after_sean_talk_to_rocco_cf84c93e:
 # game/prologue.rpy:3364
 translate Schinese p_after_sean_talk_to_rocco_53db7dec:
 
-    # nulln sideSeanEmbarrassed "As I took another bite of food I realized something. Wait if my phone was on silent, who's Tail Raisers ping went off?"
+    # nulln sideSeanEmbarrassed "As I took another bite of food I realized something. Wait if my phone was on silent, who''s Tail Raisers ping went off?"
     nulln sideSeanEmbarrassed "我又咬了一口食物，才发觉一件事：如果我手机静音了，那是谁的翘尾巴发出的通知声？"
 
 # game/prologue.rpy:3365
@@ -5975,8 +5975,8 @@ translate Schinese p_after_sean_talk_to_rocco_76b2fe88_3:
 # game/prologue.rpy:3373
 translate Schinese p_after_sean_talk_to_rocco_05a56ed9:
 
-    # nulln sideSeanNeutral "I hadn't been home in about a year. Aside from the bed being made, and any dishes being taken out, everything was how I remember."
-    nulln sideSeanNeutral "我大概一年没回家了。除了床被打理过的跟吃剩的东西被收拾乾淨外，一切都跟我记忆中没两样。"
+    # nulln sideSeanNeutral "I hadn''t been home in about a year. Aside from the bed being made, and any dishes being taken out, everything was how I remember."
+    nulln sideSeanNeutral "我大概一年没回家了。除了床被打理过的跟吃剩的东西被收拾乾净外，一切都跟我记忆中没两样。"
 
 # game/prologue.rpy:3374
 translate Schinese p_after_sean_talk_to_rocco_b1cebcdd:
@@ -5993,8 +5993,8 @@ translate Schinese p_after_sean_talk_to_rocco_a7ac19c6:
 # game/prologue.rpy:3376
 translate Schinese p_after_sean_talk_to_rocco_6e6d9105:
 
-    # nulln "He's a younger dog, wolf, husky...? he's some flavor of dog in his early 20s."
-    nulln "是隻年轻的狗、狼、哈士奇……？反正是大概20来岁的某种犬类。"
+    # nulln "He''s a younger dog, wolf, husky...? he''s some flavor of dog in his early 20s."
+    nulln "是只年轻的狗、狼、哈士奇……？反正是大概20来岁的某种犬类。"
 
 # game/prologue.rpy:3377
 translate Schinese p_after_sean_talk_to_rocco_76805a7f:
@@ -6005,8 +6005,8 @@ translate Schinese p_after_sean_talk_to_rocco_76805a7f:
 # game/prologue.rpy:3378
 translate Schinese p_after_sean_talk_to_rocco_0676f6e0:
 
-    # nulln "Either way, Blake could be an issue for tomorrow. Who knows, maybe he'd be down for something. Or maybe he's a top."
-    nulln "总之，Blake的事明天再去想吧。谁知道呢，说不定他会想约出来干点什麽，或许真的是想干呢。"
+    # nulln "Either way, Blake could be an issue for tomorrow. Who knows, maybe he''d be down for something. Or maybe he''s a top."
+    nulln "总之，Blake的事明天再去想吧。谁知道呢，说不定他会想约出来干点什么，或许真的是想干呢。"
 
 # game/prologue.rpy:3379
 translate Schinese p_after_sean_talk_to_rocco_8017cc86:
@@ -6032,13 +6032,13 @@ translate Schinese p_after_sean_talk_to_rocco_7b20f447:
 translate Schinese p_after_sean_talk_to_rocco_ae78b2e9:
 
     # nulln "A warm shower sounded amazing right now, but the dryer would probably wake my parents. Plus I was extremely tired after today. I could take a quick one in the morning. "
-    nulln "我是想洗个热水澡，但吹风机大概会吵醒爸妈。而且我今天超累的，还是等早上再冲一下吧。"
+    nulln "我是想洗个热水澡，但吹风机大概会吵醒爸妈。而且我今天超累的，还是等早上再沖一下吧。"
 
 # game/prologue.rpy:3385
 translate Schinese p_after_sean_talk_to_rocco_dc999b72:
 
     # nulln "I meandered back over to the bed, turned off the lamp, and let sleep take me."
-    nulln "我慢步走回床上，关掉檯灯，然后坠入梦乡。"
+    nulln "我慢步走回床上，关掉台灯，然后坠入梦乡。"
 
 # game/prologue.rpy:3387
 translate Schinese p_after_sean_talk_to_rocco_76b2fe88_4:

@@ -1,10 +1,10 @@
-﻿# TODO: Translation updated at 2025-09-30 23:38
+# TODO: Translation updated at 2025-09-30 23:38
 
 # game/arthur12192024.rpy:5
 translate Schinese arthur12192024_04ad26c5:
 
     # nvl clear
-    # nulln "It doesn't feel good."
+    # nulln "It doesn''t feel good."
     nvl clear
     nulln "感觉很糟。"
 
@@ -18,13 +18,13 @@ translate Schinese arthur12192024_8b2540e8:
 translate Schinese arthur12192024_c363e313:
 
     # nulln "You wish you could just tell them. That it could be that easy. That they would understand, they should understand."
-    nulln "很希望能直接告诉他们；很希望真有这麽容易；很希望他们能理解，他们应该要理解。"
+    nulln "很希望能直接告诉他们；很希望真有这么容易；很希望他们能理解，他们应该要理解。"
 
 # game/arthur12192024.rpy:9
 translate Schinese arthur12192024_cd5b47e6:
 
-    # nulln "It's never that easy."
-    nulln "但事情没有这麽简单。"
+    # nulln "It''s never that easy."
+    nulln "但事情没有这么简单。"
 
 # game/arthur12192024.rpy:10
 translate Schinese arthur12192024_cffc6961:
@@ -41,19 +41,19 @@ translate Schinese arthur12192024_731431b1:
 # game/arthur12192024.rpy:12
 translate Schinese arthur12192024_6f1f6ff2:
 
-    # nulln "It's easier to just play the part. You can be a daughter at home and a son with them."
+    # nulln "It''s easier to just play the part. You can be a daughter at home and a son with them."
     nulln "演好自己的角色比较简单。在家就乖乖当女儿，跟他们在一起就当儿子。"
 
 # game/arthur12192024.rpy:13
 translate Schinese arthur12192024_a917108a:
 
-    # nulln "It's fine, you're going to be fine."
+    # nulln "It''s fine, you''re going to be fine."
     nulln "没事的，你一定没问题的。"
 
 # game/arthur12192024.rpy:14
 translate Schinese arthur12192024_b4ef4f34:
 
-    # nulln "You'll keep doing it."
+    # nulln "You''ll keep doing it."
     nulln "继续扮演下去。"
 
 # game/arthur12192024.rpy:15
@@ -65,8 +65,8 @@ translate Schinese arthur12192024_65800581:
 # game/arthur12192024.rpy:21
 translate Schinese arthur12192024_c4c41194:
 
-    # narrator sideArthurUnmanedAngry "The wind bellows outside my room. Hooray... more insomnia. How come every time I try to go to bed at a mildly reasonable time I can't."
-    narrator sideArthurUnmanedAngry "房间外风声呼啸。真棒……又要睡不着了。怎麽我每次想在正常时间睡觉都没办法？"
+    # narrator sideArthurUnmanedAngry "The wind bellows outside my room. Hooray... more insomnia. How come every time I try to go to bed at a mildly reasonable time I can''t."
+    narrator sideArthurUnmanedAngry "房间外风声呼啸。真棒……又要睡不著了。怎么我每次想在正常时间睡觉都没办法？"
 
 # game/arthur12192024.rpy:22
 translate Schinese arthur12192024_5a5db994:
@@ -77,8 +77,8 @@ translate Schinese arthur12192024_5a5db994:
 # game/arthur12192024.rpy:23
 translate Schinese arthur12192024_bd030c0b:
 
-    # narrator sideArthurUnmanedSad "First spending most of the car ride thinking of ways to come out to mom and dad. Then finding that scalpel in Cody's bathroom."
-    narrator sideArthurUnmanedSad "先是把几乎所有车程都拿来想怎麽向爸妈出柜，然后在Cody浴室找到那把手术刀。"
+    # narrator sideArthurUnmanedSad "First spending most of the car ride thinking of ways to come out to mom and dad. Then finding that scalpel in Cody''s bathroom."
+    narrator sideArthurUnmanedSad "先是把几乎所有车程都拿来想怎么向爸妈出柜，然后在Cody浴室找到那把手术刀。"
 
 # game/arthur12192024.rpy:24
 translate Schinese arthur12192024_3d300eb3:
@@ -101,19 +101,19 @@ translate Schinese arthur12192024_fc749cb8:
 # game/arthur12192024.rpy:29
 translate Schinese arthur12192024_5ec68ec3:
 
-    # narrator sideArthurUnmanedNeutral "Normally, on sleepless nights, I would just get up and leave. Lugging my bari sax out to Kramer's and blat out a solo from my soul."
-    narrator sideArthurUnmanedNeutral "晚上睡不着的时候，我通常会直接下床。带着我的上低音萨克斯风去克莱默校区，独奏我的灵魂一曲。"
+    # narrator sideArthurUnmanedNeutral "Normally, on sleepless nights, I would just get up and leave. Lugging my bari sax out to Kramer''s and blat out a solo from my soul."
+    narrator sideArthurUnmanedNeutral "晚上睡不著的时候，我通常会直接下床。带著我的上低音萨克斯风去克莱默校区，独奏我的灵魂一曲。"
 
 # game/arthur12192024.rpy:30
 translate Schinese arthur12192024_ee5c475d:
 
-    # "I couldn't do that here."
+    # "I couldn''t do that here."
     "在这里就行不通。"
 
 # game/arthur12192024.rpy:31
 translate Schinese arthur12192024_e29314bc:
 
-    # "First it's cold as hell, second I wouldn't want to wake Cody, third-"
+    # "First it''s cold as hell, second I wouldn''t want to wake Cody, third-"
     "第一，这里冷死了；第二，我不想吵醒Cody；第三——"
 
 # game/arthur12192024.rpy:33
@@ -126,18 +126,18 @@ translate Schinese arthur12192024_7a4ef268:
 translate Schinese arthur12192024_fec4ee77:
 
     # "The sheets on his bed are flat, the door to the room slightly open, and the light in his bathroom is on."
-    "他床上的被单平坦，房门微开，浴室灯亮着。"
+    "他床上的被单平坦，房门微开，浴室灯亮著。"
 
 # game/arthur12192024.rpy:36
 translate Schinese arthur12192024_881f7107:
 
-    # narrator sideArthurUnmanedNeutral "He wouldn't, probably a late night piss, or something."
+    # narrator sideArthurUnmanedNeutral "He wouldn''t, probably a late night piss, or something."
     narrator sideArthurUnmanedNeutral "他不会吧。应该只是去尿尿而已。"
 
 # game/arthur12192024.rpy:37
 translate Schinese arthur12192024_3bca1a92:
 
-    # "Oh, he never did brush his teeth. Yeah it's probably that. Brushing teeth..."
+    # "Oh, he never did brush his teeth. Yeah it''s probably that. Brushing teeth..."
     "对了，他好像还没刷牙。嗯，一定是去刷牙了……"
 
 # game/arthur12192024.rpy:39
@@ -149,26 +149,26 @@ translate Schinese arthur12192024_f3f2e8e2:
 # game/arthur12192024.rpy:40
 translate Schinese arthur12192024_eb4e9514:
 
-    # narrator sideArthurUnmanedScared "I mean like he wouldn't while I'm over."
+    # narrator sideArthurUnmanedScared "I mean like he wouldn''t while I''m over."
     narrator sideArthurUnmanedScared "他不至于在我在的时候搞吧。"
 
 # game/arthur12192024.rpy:41
 translate Schinese arthur12192024_94b9cc01:
 
-    # narrator sideArthurUnmanedNeutral "I'm overthinking this."
+    # narrator sideArthurUnmanedNeutral "I''m overthinking this."
     narrator sideArthurUnmanedNeutral "一定是我想太多了。"
 
 # game/arthur12192024.rpy:42
 translate Schinese arthur12192024_4d5d2caa:
 
-    # "Like Cody is a considerate, over-analytical, kind of guy. There's no way he would."
+    # "Like Cody is a considerate, over-analytical, kind of guy. There''s no way he would."
     "Cody是善解人意、心思细腻的人，不会那样的。"
 
 # game/arthur12192024.rpy:43
 translate Schinese arthur12192024_07e4116e:
 
-    # narrator sideArthurUnmanedConcerned "He also hasn't done laundry in weeks... His fur was a mess... He didn't eat much... When we talked he said he wasn't really enjoying reading... "
-    narrator sideArthurUnmanedConcerned "他也好几个礼拜没洗衣服了……毛皮髒乱……没吃多少东西……聊天的时候他也说不想看书……"
+    # narrator sideArthurUnmanedConcerned "He also hasn''t done laundry in weeks... His fur was a mess... He didn''t eat much... When we talked he said he wasn''t really enjoying reading... "
+    narrator sideArthurUnmanedConcerned "他也好几个礼拜没洗衣服了……毛皮脏乱……没吃多少东西……聊天的时候他也说不想看书……"
 
 # game/arthur12192024.rpy:45
 translate Schinese arthur12192024_3777c56d:
@@ -185,7 +185,7 @@ translate Schinese arthur12192024_887a6d3e:
 # game/arthur12192024.rpy:47
 translate Schinese arthur12192024_4fb20346:
 
-    # narrator sideArthurUnmanedSad "I can hear a soft whimper from behind the door. The barely audible kind you make when you're scared that someone might find something you don't want them to."
+    # narrator sideArthurUnmanedSad "I can hear a soft whimper from behind the door. The barely audible kind you make when you''re scared that someone might find something you don''t want them to."
     narrator sideArthurUnmanedSad "门后传出一小声呻吟。是在怕被人发现时会发出的、几乎听不见的那种。"
 
 # game/arthur12192024.rpy:48
@@ -198,7 +198,7 @@ translate Schinese arthur12192024_a12b5f81:
 translate Schinese arthur12192024_7f2beb41:
 
     # narrator sideArthurUnmanedConcerned "I give the door a gentle knock. The sound of something metal clanging to the floor. Nobody uses a metal toothbrush."
-    narrator sideArthurUnmanedConcerned "我轻轻敲门。里面发出金属掉在地上的声音。没人会用金属製的牙刷。"
+    narrator sideArthurUnmanedConcerned "我轻轻敲门。里面发出金属掉在地上的声音。没人会用金属制的牙刷。"
 
 # game/arthur12192024.rpy:54
 translate Schinese arthur12192024_fb4b9508:
@@ -234,12 +234,12 @@ translate Schinese a19TalkToCody_28421f84:
 translate Schinese a19TalkToCody_edb07a83:
 
     # narrator sideArthurUnmanedAngry "Cody Needs your help! This is no time to worry about your pants."
-    narrator sideArthurUnmanedAngry "Cody需要你的帮助！别管裤子会怎麽样了。"
+    narrator sideArthurUnmanedAngry "Cody需要你的帮助！别管裤子会怎么样了。"
 
 # game/arthur12192024.rpy:76
 translate Schinese a19TalkToCody_3e84fa8a:
 
-    # narrator sideArthurUnmanedNeutral "It takes him a moment before he opens the door. Just enough time to calm myself and act like I couldn't hear him."
+    # narrator sideArthurUnmanedNeutral "It takes him a moment before he opens the door. Just enough time to calm myself and act like I couldn''t hear him."
     narrator sideArthurUnmanedNeutral "他没有马上开门。给了我时间冷静下来，假装没听见他动静的样子。"
 
 # game/arthur12192024.rpy:77
@@ -257,44 +257,44 @@ translate Schinese a19TalkToCody_35817e93:
 # game/arthur12192024.rpy:83
 translate Schinese a19TalkToCody_af6e1feb:
 
-    # "He's small and hunched over. His eyes avoid me as he shuffles out from the bathroom."
-    "他缩着身子鑽出浴室门，没有看向我。"
+    # "He''s small and hunched over. His eyes avoid me as he shuffles out from the bathroom."
+    "他缩著身子钻出浴室门，没有看向我。"
 
 # game/arthur12192024.rpy:84
 translate Schinese a19TalkToCody_0b1b0ad4:
 
     # "A barely noticeable trail of red snakes its way down his shirt. Damp lines run down his cheeks, and his body quivers ever so slightly."
-    "一道难以发现的红痕顺着他上衣而下；脸颊上有湿润的泪痕；身体微微颤抖。"
+    "一道难以发现的红痕顺著他上衣而下；脸颊上有湿润的泪痕；身体微微颤抖。"
 
 # game/arthur12192024.rpy:87
 translate Schinese a19TalkToCody_c2bfb54a:
 
-    # arthur sideArthurUnmanedHappy "Thanks, feels like I'm gonna... You good?"
+    # arthur sideArthurUnmanedHappy "Thanks, feels like I''m gonna... You good?"
     arthur sideArthurUnmanedHappy "谢了，我差点就……你还好吗？"
 
 # game/arthur12192024.rpy:90
 translate Schinese a19TalkToCody_f0e26386:
 
-    # narrator sideArthurUnmanedConcerned "It's hard to play it cool."
+    # narrator sideArthurUnmanedConcerned "It''s hard to play it cool."
     narrator sideArthurUnmanedConcerned "很难装出若无其事的样子。"
 
 # game/arthur12192024.rpy:94
 translate Schinese a19TalkToCody_c6540779:
 
     # cody "Y-yeah why?"
-    cody "嗯、嗯啊，怎麽了？"
+    cody "嗯、嗯啊，怎么了？"
 
 # game/arthur12192024.rpy:97
 translate Schinese a19TalkToCody_89bd7a48:
 
-    # arthur "You've been crying... are you sure?"
+    # arthur "You''ve been crying... are you sure?"
     arthur "你在哭耶……你确定吗？"
 
 # game/arthur12192024.rpy:101
 translate Schinese a19TalkToCody_f7efcbfb:
 
     # cody "How-"
-    cody "你怎麽——"
+    cody "你怎么——"
 
 # game/arthur12192024.rpy:105
 translate Schinese a19TalkToCody_e646f049:
@@ -305,7 +305,7 @@ translate Schinese a19TalkToCody_e646f049:
 # game/arthur12192024.rpy:108
 translate Schinese a19TalkToCody_09a03b1f:
 
-    # "He's internalizing it, like he always does."
+    # "He''s internalizing it, like he always does."
     "他藏在心底不说。他总是这样。"
 
 # game/arthur12192024.rpy:111
@@ -341,13 +341,13 @@ translate Schinese a19SeanPromisedArthur_353dd700:
 # game/arthur12192024.rpy:122
 translate Schinese a19SeanPromisedArthur_35e7bbff:
 
-    # "Don't make this worse."
+    # "Don''t make this worse."
     "别把事情搞得更糟。"
 
 # game/arthur12192024.rpy:124
 translate Schinese a19SeanPromisedArthur_3e84fa8a:
 
-    # narrator sideArthurUnmanedNeutral "It takes him a moment before he opens the door. Just enough time to calm myself and act like I couldn't hear him."
+    # narrator sideArthurUnmanedNeutral "It takes him a moment before he opens the door. Just enough time to calm myself and act like I couldn''t hear him."
     narrator sideArthurUnmanedNeutral "他没有马上开门。给了我时间冷静下来，假装没听见他动静的样子。"
 
 # game/arthur12192024.rpy:125
@@ -365,19 +365,19 @@ translate Schinese a19SeanPromisedArthur_35817e93:
 # game/arthur12192024.rpy:131
 translate Schinese a19SeanPromisedArthur_af6e1feb:
 
-    # "He's small and hunched over. His eyes avoid me as he shuffles out from the bathroom."
-    "他缩着身子鑽出浴室门，没有看向我。"
+    # "He''s small and hunched over. His eyes avoid me as he shuffles out from the bathroom."
+    "他缩著身子钻出浴室门，没有看向我。"
 
 # game/arthur12192024.rpy:132
 translate Schinese a19SeanPromisedArthur_0b1b0ad4:
 
     # "A barely noticeable trail of red snakes its way down his shirt. Damp lines run down his cheeks, and his body quivers ever so slightly."
-    "一道难以发现的红痕顺着他上衣而下；脸颊上有湿润的泪痕；身体微微颤抖。"
+    "一道难以发现的红痕顺著他上衣而下；脸颊上有湿润的泪痕；身体微微颤抖。"
 
 # game/arthur12192024.rpy:136
 translate Schinese a19SeanPromisedArthur_8ce4470a:
 
-    # arthur sideArthurUnmanedHappy "Thanks, feels like I'm gonna piss my pants!"
+    # arthur sideArthurUnmanedHappy "Thanks, feels like I''m gonna piss my pants!"
     arthur sideArthurUnmanedHappy "谢了，我差点就要尿裤子上了！"
 
 # game/arthur12192024.rpy:138
@@ -395,7 +395,7 @@ translate Schinese a19SeanPromisedArthur_9301ef61:
 # game/arthur12192024.rpy:146
 translate Schinese a19SeanPromisedArthur_677fa3ac:
 
-    # arthur "No trouble man! Gotta make sure you don't get cavities."
+    # arthur "No trouble man! Gotta make sure you don''t get cavities."
     arthur "没事没事！顾好牙齿也很重要。"
 
 # game/arthur12192024.rpy:149
@@ -437,8 +437,8 @@ translate Schinese a19SeanPromisedArthur_e58a82f6:
 # game/arthur12192024.rpy:157
 translate Schinese a19SeanPromisedArthur_487b55be:
 
-    # narrator sideArthurUnmanedConcerned "As I'm washing my paws I, regrettably, let curiosity get the better of me."
-    narrator sideArthurUnmanedConcerned "我洗着爪，好奇心却令我做出了后悔之举。"
+    # narrator sideArthurUnmanedConcerned "As I''m washing my paws I, regrettably, let curiosity get the better of me."
+    narrator sideArthurUnmanedConcerned "我洗著爪，好奇心却令我做出了后悔之举。"
 
 # game/arthur12192024.rpy:158
 translate Schinese a19SeanPromisedArthur_ace5e213:
