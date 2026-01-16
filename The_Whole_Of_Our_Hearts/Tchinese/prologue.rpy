@@ -6099,3 +6099,17 @@ translate Tchinese strings:
     # game/prologue.rpy:3109
     old "Keep going..."
     new "繼續說吧……"
+# TODO: Translation updated at 2026-01-16 14:43
+
+# game/prologue.rpy:127
+translate Tchinese prologue_18170bba:
+
+    # "We look at each other for a moment. Arthur's leg is shaking, paws clasped together. As our eyes met he quickly looks out the window. I refocus my gaze on the road."
+    ""
+
+# game/prologue.rpy:1112
+translate Tchinese prologue_ada72986:
+
+    # rocco sideSeanSad2 "She uh... didn't get high enough on the S.A.T., couldn't get enough scholarships, and didn't want to take out a loan... same sitch as me."
+    rocco sideSeanSad2 ""
+

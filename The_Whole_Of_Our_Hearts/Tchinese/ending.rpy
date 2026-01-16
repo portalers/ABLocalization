@@ -119,3 +119,63 @@ translate Tchinese end_983c80ee:
 
     # "Thanks for reading, and I'll, hopefully, see you in the next build!"
     "感謝各位閱讀，期待下個版本再見！"
+# TODO: Translation updated at 2026-01-16 14:43
+
+# game/ending.rpy:70
+translate Tchinese end_bdd964b9:
+
+    # narrator sideInfernus "Sprites & Phone: {a=https://bsky.app/profile/infernojam.bsky.social}Infernus{/a} (@infernojam.bsky.social)"
+    narrator sideInfernus ""
+
+# game/ending.rpy:72
+translate Tchinese end_239e788c:
+
+    # narrator sideDaniel "Cody's Apartment & Main Street: {a=https://bsky.app/profile/dmillustration.bsky.social}Daniel McIntyre{/a} (@dmillustration.bsky.social)"
+    narrator sideDaniel ""
+
+# game/ending.rpy:73
+translate Tchinese end_53db4237:
+
+    # narrator sideBunniesOnFire "Backgrounds: {a=https://bsky.app/profile/bunniesonfire.bsky.social}BunniesOnFire{/a} (@bunniesonfire.bsky.social)"
+    narrator sideBunniesOnFire ""
+
+# game/ending.rpy:74
+translate Tchinese end_9066e2ea:
+
+    # narrator sideJango "Save Icons and CGs: {a=https://bsky.app/profile/jangomango.bsky.social}Jango{/a} (@jangomango.bsky.social)"
+    narrator sideJango ""
+
+# game/ending.rpy:94
+translate Tchinese end_0e70c380:
+
+    # "Looks like the save file you're using doesn't have Sean selected for fuck and Rocco selected for marry."
+    ""
+
+# game/ending.rpy:95
+translate Tchinese end_33afa67d:
+
+    # "If you wan't to fix your descision, so you're on the correct path, I can take you back to the Astral Night!"
+    ""
+
+# game/ending.rpy:101
+translate Tchinese end_5fe8bcf2:
+
+    # "Must be an alt save eh?"
+    ""
+
+# game/ending.rpy:103
+translate Tchinese end_983c80ee_1:
+
+    # "Thanks for reading, and I'll, hopefully, see you in the next build!"
+    ""
+
+translate Tchinese strings:
+
+    # game/ending.rpy:97
+    old "Take me back please!"
+    new ""
+
+    # game/ending.rpy:100
+    old "Nah I'm good."
+    new ""
+
