@@ -187,10 +187,10 @@ translate Tchinese prologue_739bb24f:
     arthur "我不知道他們會作何感想，你也知道我媽是那個樣子。我也知道我已經成年了，他們當然是沒法幹嘛，只是……"
 
 # game/prologue.rpy:127
-translate Tchinese prologue_f73ba61b:
+translate Tchinese prologue_18170bba:
 
-    # "We look at each other for a moment. Arthur's leg is shaking, paws clasped together. As our eyes met he quickly looks out the window. I refocuse my gaze on the road."
-    "我們互視一眼。Arthur雙腿顫抖、雙掌交扣。一對上目光，他就把視線轉向窗外，我則繼續看著前方道路。"
+    # "We look at each other for a moment. Arthur's leg is shaking, paws clasped together. As our eyes met he quickly looks out the window. I refocus my gaze on the road."
+    "我們互視一眼。Arthur雙腿顫抖、雙爪交扣。一對上目光，他就連忙把視線轉向窗外，我則繼續看向前方道路。"
 
 # game/prologue.rpy:130
 translate Tchinese prologue_fc8e5ccb:
@@ -1925,10 +1925,10 @@ translate Tchinese prologue_931dd351:
     "他語氣哀愁。"
 
 # game/prologue.rpy:1112
-translate Tchinese prologue_dfdbb266:
+translate Tchinese prologue_ada72986:
 
-    # rocco sideSeanSad "She uh... didn't get high enough on the S.A.T., couldn't get enough scholarships, and didn't want to take out a loan... same sitch as me."
-    rocco sideSeanSad "她，呃……SAT分數不夠拿獎學金，也不想背學貸……跟我一樣的處境。"
+    # rocco sideSeanSad2 "She uh... didn't get high enough on the S.A.T., couldn't get enough scholarships, and didn't want to take out a loan... same sitch as me."
+    rocco sideSeanSad2 "她，呃……S.A.T.分數不夠高，拿不到足夠的獎學金，也不想背學貸……處境跟我一樣。"
 
 # game/prologue.rpy:1116
 translate Tchinese prologue_d5ec4ab4:
@@ -5994,7 +5994,7 @@ translate Tchinese p_after_sean_talk_to_rocco_a7ac19c6:
 translate Tchinese p_after_sean_talk_to_rocco_6e6d9105:
 
     # nulln "He's a younger dog, wolf, husky...? he's some flavor of dog in his early 20s."
-    nulln "是隻年輕的狗、狼、哈士奇……？反正是大概20來歲的某種犬類。"
+    nulln "是隻年輕的狗、狼、哈士奇……？反正是大概20出頭的某種犬類。"
 
 # game/prologue.rpy:3377
 translate Tchinese p_after_sean_talk_to_rocco_76805a7f:
@@ -6099,17 +6099,3 @@ translate Tchinese strings:
     # game/prologue.rpy:3109
     old "Keep going..."
     new "繼續說吧……"
-# TODO: Translation updated at 2026-01-16 14:43
-
-# game/prologue.rpy:127
-translate Tchinese prologue_18170bba:
-
-    # "We look at each other for a moment. Arthur's leg is shaking, paws clasped together. As our eyes met he quickly looks out the window. I refocus my gaze on the road."
-    ""
-
-# game/prologue.rpy:1112
-translate Tchinese prologue_ada72986:
-
-    # rocco sideSeanSad2 "She uh... didn't get high enough on the S.A.T., couldn't get enough scholarships, and didn't want to take out a loan... same sitch as me."
-    rocco sideSeanSad2 ""
-

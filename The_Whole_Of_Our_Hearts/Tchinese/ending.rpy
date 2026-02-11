@@ -19,10 +19,10 @@ translate Tchinese end_ce670dcf:
     "有興趣請關注我們的繪師們。沒有他們的努力就沒有本作品！"
 
 # game/ending.rpy:70
-translate Tchinese end_0bd2559b:
+translate Tchinese end_bdd964b9:
 
-    # narrator sideInfernus "Sprites: {a=https://bsky.app/profile/infernojam.bsky.social}Infernus{/a} (@infernojam.bsky.social)"
-    narrator sideInfernus "立繪：{a=https://bsky.app/profile/infernojam.bsky.social}Infernus{/a} (@infernojam.bsky.social)"
+    # narrator sideInfernus "Sprites & Phone: {a=https://bsky.app/profile/infernojam.bsky.social}Infernus{/a} (@infernojam.bsky.social)"
+    narrator sideInfernus "立繪與手機：{a=https://bsky.app/profile/infernojam.bsky.social}Infernus{/a} (@infernojam.bsky.social)"
 
 # game/ending.rpy:71
 translate Tchinese end_1ac88567:
@@ -31,22 +31,22 @@ translate Tchinese end_1ac88567:
     narrator sideTeal "塔羅牌：{a=https://bsky.app/profile/tealfolf.bsky.social}Teal{/a} (@tealfolf.bsky.social)"
 
 # game/ending.rpy:72
-translate Tchinese end_e369237d:
+translate Tchinese end_239e788c:
 
-    # narrator sideDaniel "Cody's Apartment: {a=https://bsky.app/profile/dmillustration.bsky.social}Daniel McIntyre{/a} (@dmillustration.bsky.social)"
-    narrator sideDaniel "Cody公寓：{a=https://bsky.app/profile/dmillustration.bsky.social}Daniel McIntyre{/a} (@dmillustration.bsky.social)"
+    # narrator sideDaniel "Cody's Apartment & Main Street: {a=https://bsky.app/profile/dmillustration.bsky.social}Daniel McIntyre{/a} (@dmillustration.bsky.social)"
+    narrator sideDaniel "Cody公寓與主要大街：{a=https://bsky.app/profile/dmillustration.bsky.social}Daniel McIntyre{/a} (@dmillustration.bsky.social)"
 
 # game/ending.rpy:73
-translate Tchinese end_c2c315be:
+translate Tchinese end_53db4237:
 
-    # narrator sideBunniesOnFire "Astral Night, Hotel, and Highway: {a=https://bsky.app/profile/bunniesonfire.bsky.social}BunniesOnFire{/a} (@bunniesonfire.bsky.social)"
-    narrator sideBunniesOnFire "觀星夜、旅館以及高速公路：{a=https://bsky.app/profile/bunniesonfire.bsky.social}BunniesOnFire{/a} (@bunniesonfire.bsky.social)"
+    # narrator sideBunniesOnFire "Backgrounds: {a=https://bsky.app/profile/bunniesonfire.bsky.social}BunniesOnFire{/a} (@bunniesonfire.bsky.social)"
+    narrator sideBunniesOnFire "背景：{a=https://bsky.app/profile/bunniesonfire.bsky.social}BunniesOnFire{/a} (@bunniesonfire.bsky.social)"
 
 # game/ending.rpy:74
-translate Tchinese end_124b19eb:
+translate Tchinese end_9066e2ea:
 
-    # narrator sideJango "Save Icons and S' more S'mores: {a=https://bsky.app/profile/jangomango.bsky.social}Jango{/a} (@jangomango.bsky.social)"
-    narrator sideJango "存檔圖標和各種小東西：{a=https://bsky.app/profile/jangomango.bsky.social}Jango{/a} (@jangomango.bsky.social)"
+    # narrator sideJango "Save Icons and CGs: {a=https://bsky.app/profile/jangomango.bsky.social}Jango{/a} (@jangomango.bsky.social)"
+    narrator sideJango "存檔圖標與CG：{a=https://bsky.app/profile/jangomango.bsky.social}Jango{/a} (@jangomango.bsky.social)"
 
 # game/ending.rpy:76
 translate Tchinese end_0b318f0d:
@@ -114,68 +114,36 @@ translate Tchinese end_bb4fb53b:
     # "If that plan changes then I'll let you know."
     "要是計畫有變，我會另行通知。"
 
-# game/ending.rpy:93
-translate Tchinese end_983c80ee:
-
-    # "Thanks for reading, and I'll, hopefully, see you in the next build!"
-    "感謝各位閱讀，期待下個版本再見！"
-# TODO: Translation updated at 2026-01-16 14:43
-
-# game/ending.rpy:70
-translate Tchinese end_bdd964b9:
-
-    # narrator sideInfernus "Sprites & Phone: {a=https://bsky.app/profile/infernojam.bsky.social}Infernus{/a} (@infernojam.bsky.social)"
-    narrator sideInfernus ""
-
-# game/ending.rpy:72
-translate Tchinese end_239e788c:
-
-    # narrator sideDaniel "Cody's Apartment & Main Street: {a=https://bsky.app/profile/dmillustration.bsky.social}Daniel McIntyre{/a} (@dmillustration.bsky.social)"
-    narrator sideDaniel ""
-
-# game/ending.rpy:73
-translate Tchinese end_53db4237:
-
-    # narrator sideBunniesOnFire "Backgrounds: {a=https://bsky.app/profile/bunniesonfire.bsky.social}BunniesOnFire{/a} (@bunniesonfire.bsky.social)"
-    narrator sideBunniesOnFire ""
-
-# game/ending.rpy:74
-translate Tchinese end_9066e2ea:
-
-    # narrator sideJango "Save Icons and CGs: {a=https://bsky.app/profile/jangomango.bsky.social}Jango{/a} (@jangomango.bsky.social)"
-    narrator sideJango ""
-
 # game/ending.rpy:94
 translate Tchinese end_0e70c380:
 
     # "Looks like the save file you're using doesn't have Sean selected for fuck and Rocco selected for marry."
-    ""
+    "你現在這個存檔，似乎沒有選擇Sean為「fuck」的對象、Rocco為「marry」的對象。"
 
 # game/ending.rpy:95
 translate Tchinese end_33afa67d:
 
     # "If you wan't to fix your descision, so you're on the correct path, I can take you back to the Astral Night!"
-    ""
+    "若想更改選擇，以走向正確路線，我能將你帶回觀星之夜！"
 
 # game/ending.rpy:101
 translate Tchinese end_5fe8bcf2:
 
     # "Must be an alt save eh?"
-    ""
+    "看來是分身存檔吧？"
 
 # game/ending.rpy:103
 translate Tchinese end_983c80ee_1:
 
     # "Thanks for reading, and I'll, hopefully, see you in the next build!"
-    ""
+    "感謝遊玩，期待下個版本再見！"
 
 translate Tchinese strings:
 
     # game/ending.rpy:97
     old "Take me back please!"
-    new ""
+    new "帶我回去！"
 
     # game/ending.rpy:100
     old "Nah I'm good."
-    new ""
-
+    new "不用了。"
