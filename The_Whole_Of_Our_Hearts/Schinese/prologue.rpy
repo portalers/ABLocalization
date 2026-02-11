@@ -187,10 +187,10 @@ translate Schinese prologue_739bb24f:
     arthur "我不知道他们会作何感想，你也知道我妈是那个样子。我也知道我已经成年了，他们当然是没法干嘛，只是……"
 
 # game/prologue.rpy:127
-translate Schinese prologue_f73ba61b:
+translate Schinese prologue_18170bba:
 
-    # "We look at each other for a moment. Arthur''s leg is shaking, paws clasped together. As our eyes met he quickly looks out the window. I refocuse my gaze on the road."
-    "我们互视一眼。Arthur双腿颤抖、双掌交扣。一对上目光，他就把视线转向窗外，我则继续看著前方道路。"
+    # "We look at each other for a moment. Arthur''s leg is shaking, paws clasped together. As our eyes met he quickly looks out the window. I refocus my gaze on the road."
+    "我们互视一眼。Arthur双腿颤抖、双爪交扣。一对上目光，他就连忙把视线转向窗外，我则继续看向前方道路。"
 
 # game/prologue.rpy:130
 translate Schinese prologue_fc8e5ccb:
@@ -1925,10 +1925,10 @@ translate Schinese prologue_931dd351:
     "他语气哀愁。"
 
 # game/prologue.rpy:1112
-translate Schinese prologue_dfdbb266:
+translate Schinese prologue_ada72986:
 
-    # rocco sideSeanSad "She uh... didn''t get high enough on the S.A.T., couldn''t get enough scholarships, and didn''t want to take out a loan... same sitch as me."
-    rocco sideSeanSad "她，呃……SAT分数不够拿奖学金，也不想背学贷……跟我一样的处境。"
+    # rocco sideSeanSad2 "She uh... didn''t get high enough on the S.A.T., couldn''t get enough scholarships, and didn''t want to take out a loan... same sitch as me."
+    rocco sideSeanSad2 "她，呃……S.A.T.分数不够高，拿不到足够的奖学金，也不想背学贷……处境跟我一样。"
 
 # game/prologue.rpy:1116
 translate Schinese prologue_d5ec4ab4:
@@ -5994,7 +5994,7 @@ translate Schinese p_after_sean_talk_to_rocco_a7ac19c6:
 translate Schinese p_after_sean_talk_to_rocco_6e6d9105:
 
     # nulln "He''s a younger dog, wolf, husky...? he''s some flavor of dog in his early 20s."
-    nulln "是只年轻的狗、狼、哈士奇……？反正是大概20来岁的某种犬类。"
+    nulln "是只年轻的狗、狼、哈士奇……？反正是大概20出头的某种犬类。"
 
 # game/prologue.rpy:3377
 translate Schinese p_after_sean_talk_to_rocco_76805a7f:

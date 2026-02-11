@@ -19,10 +19,10 @@ translate Schinese end_ce670dcf:
     "有兴趣请关注我们的绘师们。没有他们的努力就没有本作品！"
 
 # game/ending.rpy:70
-translate Schinese end_0bd2559b:
+translate Schinese end_bdd964b9:
 
-    # narrator sideInfernus "Sprites: {a=https://bsky.app/profile/infernojam.bsky.social}Infernus{/a} (@infernojam.bsky.social)"
-    narrator sideInfernus "立绘：{a=https://bsky.app/profile/infernojam.bsky.social}Infernus{/a} (@infernojam.bsky.social)"
+    # narrator sideInfernus "Sprites & Phone: {a=https://bsky.app/profile/infernojam.bsky.social}Infernus{/a} (@infernojam.bsky.social)"
+    narrator sideInfernus "立绘与手机：{a=https://bsky.app/profile/infernojam.bsky.social}Infernus{/a} (@infernojam.bsky.social)"
 
 # game/ending.rpy:71
 translate Schinese end_1ac88567:
@@ -31,22 +31,22 @@ translate Schinese end_1ac88567:
     narrator sideTeal "塔罗牌：{a=https://bsky.app/profile/tealfolf.bsky.social}Teal{/a} (@tealfolf.bsky.social)"
 
 # game/ending.rpy:72
-translate Schinese end_e369237d:
+translate Schinese end_239e788c:
 
-    # narrator sideDaniel "Cody''s Apartment: {a=https://bsky.app/profile/dmillustration.bsky.social}Daniel McIntyre{/a} (@dmillustration.bsky.social)"
-    narrator sideDaniel "Cody公寓：{a=https://bsky.app/profile/dmillustration.bsky.social}Daniel McIntyre{/a} (@dmillustration.bsky.social)"
+    # narrator sideDaniel "Cody''s Apartment & Main Street: {a=https://bsky.app/profile/dmillustration.bsky.social}Daniel McIntyre{/a} (@dmillustration.bsky.social)"
+    narrator sideDaniel "Cody公寓与主要大街：{a=https://bsky.app/profile/dmillustration.bsky.social}Daniel McIntyre{/a} (@dmillustration.bsky.social)"
 
 # game/ending.rpy:73
-translate Schinese end_c2c315be:
+translate Schinese end_53db4237:
 
-    # narrator sideBunniesOnFire "Astral Night, Hotel, and Highway: {a=https://bsky.app/profile/bunniesonfire.bsky.social}BunniesOnFire{/a} (@bunniesonfire.bsky.social)"
-    narrator sideBunniesOnFire "观星夜、旅馆以及高速公路：{a=https://bsky.app/profile/bunniesonfire.bsky.social}BunniesOnFire{/a} (@bunniesonfire.bsky.social)"
+    # narrator sideBunniesOnFire "Backgrounds: {a=https://bsky.app/profile/bunniesonfire.bsky.social}BunniesOnFire{/a} (@bunniesonfire.bsky.social)"
+    narrator sideBunniesOnFire "背景：{a=https://bsky.app/profile/bunniesonfire.bsky.social}BunniesOnFire{/a} (@bunniesonfire.bsky.social)"
 
 # game/ending.rpy:74
-translate Schinese end_124b19eb:
+translate Schinese end_9066e2ea:
 
-    # narrator sideJango "Save Icons and S'' more S''mores: {a=https://bsky.app/profile/jangomango.bsky.social}Jango{/a} (@jangomango.bsky.social)"
-    narrator sideJango "存档图标和各种小东西：{a=https://bsky.app/profile/jangomango.bsky.social}Jango{/a} (@jangomango.bsky.social)"
+    # narrator sideJango "Save Icons and CGs: {a=https://bsky.app/profile/jangomango.bsky.social}Jango{/a} (@jangomango.bsky.social)"
+    narrator sideJango "存档图标与CG：{a=https://bsky.app/profile/jangomango.bsky.social}Jango{/a} (@jangomango.bsky.social)"
 
 # game/ending.rpy:76
 translate Schinese end_0b318f0d:
@@ -114,8 +114,44 @@ translate Schinese end_bb4fb53b:
     # "If that plan changes then I''ll let you know."
     "要是计画有变，我会另行通知。"
 
-# game/ending.rpy:93
+# game/ending.rpy:94
+translate Schinese end_0e70c380:
+
+    # "Looks like the save file you''re using doesn''t have Sean selected for fuck and Rocco selected for marry."
+    "你现在这个存档，似乎没有选择Sean为「fuck」的对象、Rocco为「marry」的对象。"
+
+# game/ending.rpy:95
+translate Schinese end_33afa67d:
+
+    # "If you wan''t to fix your descision, so you''re on the correct path, I can take you back to the Astral Night!"
+    "若想更改选择，以走向正确路线，我能将你带回观星之夜！"
+
+# game/ending.rpy:101
+translate Schinese end_5fe8bcf2:
+
+    # "Must be an alt save eh?"
+    "看来是分身存档吧？"
+
+# game/ending.rpy:103
+translate Schinese end_983c80ee_1:
+
+    # "Thanks for reading, and I''ll, hopefully, see you in the next build!"
+    "感谢游玩，期待下个版本再见！"
+
+translate Schinese strings:
+
+    # game/ending.rpy:97
+    old "Take me back please!"
+    new "带我回去！"
+
+    # game/ending.rpy:100
+    old "Nah I''m good."
+    new "不用了。"
+
+# TODO: Translation updated at 2026-02-11 14:39
+
+# game/ending.rpy:98
 translate Schinese end_983c80ee:
 
     # "Thanks for reading, and I''ll, hopefully, see you in the next build!"
-    "感谢各位阅读，期待下个版本再见！"
+    "感谢游玩，期待下个版本再见！"
