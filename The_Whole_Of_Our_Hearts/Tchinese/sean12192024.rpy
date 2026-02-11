@@ -14135,3 +14135,91 @@ translate chinese afterCodySplit1219S_6b28cc5a:
 
     # "Looks like I was right about him in his early 20s."
     "看來我猜他二十出頭沒猜錯。"
+
+# game/sean12192024.rpy:7471
+translate chinese afterCodySplit1219S_251a7ae0:
+
+    # seanPhone "Cool, you near Salem?"
+    seanPhone "酷，你住賽勒姆附近？"
+
+# game/sean12192024.rpy:7475
+translate chinese afterCodySplit1219S_bd1320da:
+
+    # "It takes him a while to respond"
+    "他過了一陣子才回覆。"
+
+# game/sean12192024.rpy:7479
+translate chinese afterCodySplit1219S_dd13d85d:
+
+    # blakePhone "Ye wanna meet at the Howler?"
+    blakePhone "對，要在嚎叫者見面嗎？"
+
+# game/sean12192024.rpy:7483
+translate chinese afterCodySplit1219S_518916f0:
+
+    # "Howler was the gay bar in Salem. I even heard some folks at Monroe talk about going to hang there."
+    "嚎叫者是賽勒姆的一間gay吧。甚至在夢露我都聽人說過要去那玩。"
+
+# game/sean12192024.rpy:7484
+translate chinese afterCodySplit1219S_8e27e0e0:
+
+    # "It was so well known that it's usually the first search result if you're looking for 'local gay bars' online."
+    "有名到在網上搜「本地gay酒吧」通常都會是第一結果。"
+
+# game/sean12192024.rpy:7485
+translate chinese afterCodySplit1219S_4f9c6fbe:
+
+    # "If the guy turns out to not be who he says he is, or if he's a creep, then I should be safe."
+    "要是這傢伙虛報身份，或者是個變態，我應該也很安全。"
+
+# game/sean12192024.rpy:7489
+translate chinese afterCodySplit1219S_7acab85c:
+
+    # seanPhone "{image=phone/thumbsup.png}"
+    seanPhone "{image=phone/thumbsup.png}"
+
+# game/sean12192024.rpy:7494
+translate chinese afterCodySplit1219S_788f8a4c:
+
+    # "Well that's one thread that I won't have to worry about."
+    "嗯，這方面就不必擔心了。"
+
+# game/sean12192024.rpy:7495
+translate chinese afterCodySplit1219S_3328e0a1:
+
+    # "I check the time and it's almost eleven."
+    "我看了眼時間，快11點了。"
+
+# game/sean12192024.rpy:7496
+translate chinese afterCodySplit1219S_94388d2b:
+
+    # "Sure I could stay up, I have no idea if we have anything planned for tomorrow, but right now I just want to pass out."
+    "熬夜也不是不行，反正也不知道明天有沒有計畫，但現在只想直接昏睡過去。"
+
+# game/sean12192024.rpy:7497
+translate chinese afterCodySplit1219S_36471efb:
+
+    # "Before I do I take a quick shower, brush my fangs, and do one last scroll through Twitter before finally calling it a night."
+    "睡前我快速沖澡、刷牙，最後滑了一次推特，才終於給這一天劃下句號。"
+
+translate Tchinese strings:
+
+    # game/sean12192024.rpy:980
+    old "Arthur"
+    new "Arthur"
+
+    # game/sean12192024.rpy:983
+    old "Cody"
+    new "Cody"
+
+    # game/sean12192024.rpy:986
+    old "Rocco"
+    new "Rocco"
+
+    # game/sean12192024.rpy:989
+    old "Claire"
+    new "Claire"
+
+    # game/sean12192024.rpy:992
+    old "Hank"
+    new "Hank"
