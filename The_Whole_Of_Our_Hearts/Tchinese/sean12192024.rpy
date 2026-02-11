@@ -13570,7 +13570,7 @@ translate chinese afterCodySplit1219S_034727a8:
 translate chinese afterCodySplit1219S_35755f90:
 
     # rocco "I just saw you moping out the window, and-"
-    rocco "我看你無精打采地望著窗外，而且——""
+    rocco "我看你無精打采地望著窗外，而且——"
 
 # game/sean12192024.rpy:7155
 translate chinese afterCodySplit1219S_5e265f6a:
