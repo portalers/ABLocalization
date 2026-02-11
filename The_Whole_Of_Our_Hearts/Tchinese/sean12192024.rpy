@@ -7709,7 +7709,7 @@ translate Tchinese s12192019Claire_92cc48d4:
     "我同意，把掛墜放回背包。我們倆祝他們感情順遂，便離開了房間。"
 
 # game/sean12192024.rpy:4082
-translate Tchinese s12192024Claire_022c091f:
+translate Tchinese s12192019Claire_022c091f:
 
     # narrator sideSeanNeutral "We quickly go through the rest of the rooms. They all have something that belongs to someone. 102, our last room, had a surprise for us."
     narrator sideSeanNeutral "我們快速查完剩下的房間。每間都有私人物品。最後一間，102號房給了我們一道驚喜。"
@@ -8491,7 +8491,7 @@ translate Tchinese s12192019Claire_065401a2:
     claire "我真開始覺得這不是出bug了，而是他該去看個醫生。"
 
 # game/sean12192024.rpy:4474
-translate Tchinese s12192019Rocco_e7b67f89:
+translate Tchinese s12192019Claire_e7b67f89:
 
     # rocco sideSeanScared "All I'm saying is this whole thing makes no sense."
     rocco sideSeanScared "我只想說，這整件事完全不合理。"

@@ -147,3 +147,11 @@ translate Tchinese strings:
     # game/ending.rpy:100
     old "Nah I'm good."
     new "不用了。"
+
+# TODO: Translation updated at 2026-02-11 14:39
+
+# game/ending.rpy:98
+translate Tchinese end_983c80ee:
+
+    # "Thanks for reading, and I'll, hopefully, see you in the next build!"
+    "感謝遊玩，期待下個版本再見！"
