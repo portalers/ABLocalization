@@ -299,241 +299,241 @@ translate Tchinese strings:
 # TODO: Translation updated at 2026-01-16 14:43
 
 # game/sean12192024.rpy:100
-translate tchinese sean12192024_9102340c:
+translate Tchinese sean12192024_9102340c:
 
     # "Shit that's right we're getting doughnuts."
     "操，對喔，我們要去買甜甜圈。"
 
 # game/sean12192024.rpy:103
-translate tchinese sean12192024_897c1481:
+translate Tchinese sean12192024_897c1481:
 
     # sean sideSeanEmbarrassed "What time is it?"
     sean sideSeanEmbarrassed "現在幾點了？"
 
 # game/sean12192024.rpy:106
-translate tchinese sean12192024_3526fd19:
+translate Tchinese sean12192024_3526fd19:
 
     # seanMom "Ten till."
     seanMom "50分。"
 
 # game/sean12192024.rpy:108
-translate tchinese sean12192024_b7afd55e:
+translate Tchinese sean12192024_b7afd55e:
 
     # narrator sideSeanConcerned "Fuck did I get the time wrong."
     narrator sideSeanConcerned "幹，我是不是搞錯時間了？"
 
 # game/sean12192024.rpy:111
-translate tchinese sean12192024_2c427ca0:
+translate Tchinese sean12192024_2c427ca0:
 
     # sean sideSeanNeutral "Thanks!"
     sean sideSeanNeutral "謝啦！"
 
 # game/sean12192024.rpy:114
-translate tchinese sean12192024_e4ef8e36:
+translate Tchinese sean12192024_e4ef8e36:
 
     # "I shut off the water and begin feverishly drying my fur with towels. The air dryer, although perfect to maintain my fluffy volume, would take too long."
     "我關掉水，瘋狂用毛巾擦乾毛。吹風機雖然能讓毛髮蓬鬆，但太慢了。"
 
 # game/sean12192024.rpy:121
-translate tchinese sean12192024_b2993857:
+translate Tchinese sean12192024_b2993857:
 
     # narrator sideSeanNeutral "I burn through three towels to get myself dry enough for clothes. Throw on my nearest shirt and coat, which happen to be yesterday's."
     narrator sideSeanNeutral "擦了三條毛巾才乾到能穿衣服。我隨手抓起最近的襯衫和外套，剛好就是昨天穿的。"
 
 # game/sean12192024.rpy:123
-translate tchinese sean12192024_45a5a5f9:
+translate Tchinese sean12192024_45a5a5f9:
 
     # "Wallet, phone, keys, perfect!"
     "錢包、手機、鑰匙，完美！"
 
 # game/sean12192024.rpy:137
-translate tchinese sean12192024_b65225f8:
+translate Tchinese sean12192024_b65225f8:
 
     # rocco sideSeanSmile "-so they had to get their entire basement redone?"
     rocco sideSeanSmile "……所以他們整間地下室都要重做？"
 
 # game/sean12192024.rpy:140
-translate tchinese sean12192024_18695d59:
+translate Tchinese sean12192024_18695d59:
 
     # seanDad "Just about. S' why it's important to keep your pipes heated for the winter."
     seanDad "差不多。所以在冬天做好水管保溫很重要。"
 
 # game/sean12192024.rpy:143
-translate tchinese sean12192024_960e0a5b:
+translate Tchinese sean12192024_960e0a5b:
 
     # rocco "Dang..."
     rocco "哇靠……"
 
 # game/sean12192024.rpy:146
-translate tchinese sean12192024_52248dbf:
+translate Tchinese sean12192024_52248dbf:
 
     # rocco "Oh, mornin' Sean!"
     rocco "哦，早啊Sean！"
 
 # game/sean12192024.rpy:149
-translate tchinese sean12192024_7c020517:
+translate Tchinese sean12192024_7c020517:
 
     # sean "Hey!"
     sean "嘿！"
 
 # game/sean12192024.rpy:152
-translate tchinese sean12192024_705e79e5:
+translate Tchinese sean12192024_705e79e5:
 
     # "I threw finger guns."
     "我比了個手指槍。"
 
 # game/sean12192024.rpy:155
-translate tchinese sean12192024_bd497997:
+translate Tchinese sean12192024_bd497997:
 
     # seanDad "How'd ya sleep sport?"
     seanDad "睡得好嗎，小子？"
 
 # game/sean12192024.rpy:159
-translate tchinese sean12192024_8843a24d:
+translate Tchinese sean12192024_8843a24d:
 
     # sean sideSeanEmbarrassed "Good, good. Sorry about last night."
     sean sideSeanEmbarrassed "很好很好。抱歉昨晚沒回來。"
 
 # game/sean12192024.rpy:162
-translate tchinese sean12192024_ff83e321:
+translate Tchinese sean12192024_ff83e321:
 
     # seanDad sideSeanSmile "S'all good. Just glad you're able to get together. How's Nora doin'?"
     seanDad sideSeanSmile "沒事。你們能聚在一起我也很高興。Nora她怎麼樣？"
 
 # game/sean12192024.rpy:166
-translate tchinese sean12192024_d7e9355d:
+translate Tchinese sean12192024_d7e9355d:
 
     # sean sideSeanEmbarrassed "He-she's good. Schools goin' well for her."
     sean sideSeanEmbarrassed "他、她很好啊。學校一切順利。"
 
 # game/sean12192024.rpy:170
-translate tchinese sean12192024_9984df0c:
+translate Tchinese sean12192024_9984df0c:
 
     # seanDad sideSeanSmile "Still doin that Jazz thing?"
     seanDad sideSeanSmile "還在玩那個爵士樂嗎？"
 
 # game/sean12192024.rpy:173
-translate tchinese sean12192024_c22a772e:
+translate Tchinese sean12192024_c22a772e:
 
     # sean "Yup."
     sean "對。"
 
 # game/sean12192024.rpy:176
-translate tchinese sean12192024_02f6de55:
+translate Tchinese sean12192024_02f6de55:
 
     # seanDad "Groovy."
     seanDad "酷。"
 
 # game/sean12192024.rpy:179
-translate tchinese sean12192024_97217384:
+translate Tchinese sean12192024_97217384:
 
     # "He turns to Rocco."
     "他轉向Rocco。"
 
 # game/sean12192024.rpy:182
-translate tchinese sean12192024_1dee311a:
+translate Tchinese sean12192024_1dee311a:
 
     # seanDad "Y'know Sean's ol' man used to play banjo in a bluegrass group."
     seanDad "你知道Sean他老爸以前在藍草樂團彈班卓琴嗎？"
 
 # game/sean12192024.rpy:185
-translate tchinese sean12192024_06d0fa1b:
+translate Tchinese sean12192024_06d0fa1b:
 
     # rocco "Really?"
     rocco "真的？"
 
 # game/sean12192024.rpy:193
-translate tchinese sean12192024_314e2d0b:
+translate Tchinese sean12192024_314e2d0b:
 
     # seanMom "You should've heard him. Before he hurt his wrist he could shred a banjo."
     seanMom "你該聽聽他彈的。他手腕受傷前，班卓琴彈得可猛了。"
 
 # game/sean12192024.rpy:202
-translate tchinese sean12192024_5bd8131e:
+translate Tchinese sean12192024_5bd8131e:
 
     # "Mom walks in and places a kiss on his cheek. She then heads into the kitchen and begins filling the coffee cup I got her last mother's day."
     "媽媽走進來，親了一下他的臉頰。然後走進廚房，用我去年母親節送她的咖啡杯倒咖啡。"
 
 # game/sean12192024.rpy:207
-translate tchinese sean12192024_1e0f4cfa:
+translate Tchinese sean12192024_1e0f4cfa:
 
     # seanDad "Naww' yer too kind hun."
     seanDad "哎喲，妳太恭維我了，親愛的。"
 
 # game/sean12192024.rpy:214
-translate tchinese sean12192024_be037ee8:
+translate Tchinese sean12192024_be037ee8:
 
     # "Dad stands up and goes over to the kitchen to join her."
     "爸爸站起來，走去廚房陪她。"
 
 # game/sean12192024.rpy:218
-translate tchinese sean12192024_ed78a3a1:
+translate Tchinese sean12192024_ed78a3a1:
 
     # sean sideSeanNeutral "Speaking of, where is Cody and Ar-{nw}"
     sean sideSeanNeutral "說到這個，Cody和Ar——{nw}"
 
 # game/sean12192024.rpy:219
-translate tchinese sean12192024_2ecf806f:
+translate Tchinese sean12192024_2ecf806f:
 
     # sean sideSeanEmbarrassed "Speaking of, where is Cody and Ar-{fast}Nora?"
     sean sideSeanEmbarrassed "說到這個，Cody和Ar——{fast}Nora呢？"
 
 # game/sean12192024.rpy:223
-translate tchinese sean12192024_d7d8a0ab:
+translate Tchinese sean12192024_d7d8a0ab:
 
     # rocco sideSeanConcerned "Oh, right. My folks were spending another Saturday morning arguing. Didn't wanna deal with that so I came here. Don't worry, I told them."
     rocco sideSeanConcerned "喔對。難得禮拜六早上，我爸媽又在吵架了。我不想待在家才來這的。別擔心，我跟他們說過了。"
 
 # game/sean12192024.rpy:226
-translate tchinese sean12192024_018bfede:
+translate Tchinese sean12192024_018bfede:
 
     # sean "I'm sorry to hear that."
     sean "辛苦你了。"
 
 # game/sean12192024.rpy:234
-translate tchinese sean12192024_2013211d:
+translate Tchinese sean12192024_2013211d:
 
     # seanMom sideSeanSmile "Rocco if you ever need a place to stay you always have a home here."
     seanMom sideSeanSmile "Rocco，如果你需要地方住，這裡永遠歡迎你。"
 
 # game/sean12192024.rpy:237
-translate tchinese sean12192024_cc955787:
+translate Tchinese sean12192024_cc955787:
 
     # "I can hear Rocco's tail thumping on the bottom of the chair."
     "我聽到Rocco的尾巴在椅子底下拍打。"
 
 # game/sean12192024.rpy:240
-translate tchinese sean12192024_2b93437a:
+translate Tchinese sean12192024_2b93437a:
 
     # rocco "Thank you Mrs. Wright. It means a lot."
     rocco "謝謝妳，Wright太太。我很感激你們的心意。"
 
 # game/sean12192024.rpy:243
-translate tchinese sean12192024_bf9f9690:
+translate Tchinese sean12192024_bf9f9690:
 
     # seanMom "Oh hush, it's the least we can do."
     seanMom "哎，別客氣，這是我們應該的。"
 
 # game/sean12192024.rpy:246
-translate tchinese sean12192024_994f5d6d:
+translate Tchinese sean12192024_994f5d6d:
 
     # "A warm smile sits on his face. Rocco's phone pings."
     "Rocco臉上掛著溫暖的笑容。他手機響了。"
 
 # game/sean12192024.rpy:249
-translate tchinese sean12192024_68057183:
+translate Tchinese sean12192024_68057183:
 
     # rocco "Neat, they're on their way."
     rocco "好，他們在路上了。"
 
 # game/sean12192024.rpy:252
-translate tchinese sean12192024_447ddf22:
+translate Tchinese sean12192024_447ddf22:
 
     # sean "Cool..."
     sean "酷……"
 
 # game/sean12192024.rpy:271
-translate tchinese sean12192024_4711ad5c:
+translate Tchinese sean12192024_4711ad5c:
 
     # nvl clear
     # nulln sideSeanNeutral "Rocco and I squish into the back bench, wrappers crunching under our feet. Cody used to keep his truck spotless."
@@ -541,139 +541,139 @@ translate tchinese sean12192024_4711ad5c:
     nulln sideSeanNeutral "Rocco和我擠在後座，踩得腳下包裝紙作響。Cody的卡車以前總保持得一塵不染。"
 
 # game/sean12192024.rpy:273
-translate tchinese sean12192024_7504d177:
+translate Tchinese sean12192024_7504d177:
 
     # nulln "When he got it we weren't allowed to eat in it for the first month. I don't know why, it was a used car, but that's how it was for a bit."
     nulln "他剛買的第一個月，都不准我們在車上吃東西。都是輛二手車了，也不知道是為了什麼，但反正好一段時間都是那樣。"
 
 # game/sean12192024.rpy:274
-translate tchinese sean12192024_6f313540:
+translate Tchinese sean12192024_6f313540:
 
     # nulln "After Rocco got his license he wanted to use it to learn stick. Cody made him sit in the back with Casey and I that month."
     nulln "Rocco拿到駕照後想用它練手排。結果Cody整個月都讓他跟Casey和我擠後座。"
 
 # game/sean12192024.rpy:275
-translate tchinese sean12192024_7300c3b8:
+translate Tchinese sean12192024_7300c3b8:
 
     # nulln "He did, eventually, get a chance to try it."
     nulln "他最終還是試到了。"
 
 # game/sean12192024.rpy:276
-translate tchinese sean12192024_3d05e7b1:
+translate Tchinese sean12192024_3d05e7b1:
 
     # nulln "Though that was his last time driving the truck."
     nulln "但那同時也是他最後一次開這輛卡車。"
 
 # game/sean12192024.rpy:296
-translate tchinese sean12192024_0a5e77bd:
+translate Tchinese sean12192024_0a5e77bd:
 
     # narrator sideSeanSmile "Mabelle's wasn't far from my place, but Rocco suggested we find a spot to park on the other side of the hole."
     narrator sideSeanSmile "Mabelle的店離我家不遠，不過Rocco建議我們把車停在洞的另一邊。"
 
 # game/sean12192024.rpy:297
-translate tchinese sean12192024_e1078c5d:
+translate Tchinese sean12192024_e1078c5d:
 
     # "He thought it would be best in case we lose track of time with breakfast. It would also be nice to get out and walk along the remains of main street."
     "這樣一來就算早餐吃太久也沒什麼問題。在主要大街殘餘的路段上走走也挺好的。"
 
 # game/sean12192024.rpy:298
-translate tchinese sean12192024_2a815d2e:
+translate Tchinese sean12192024_2a815d2e:
 
     # "It felt like it had been ages since I walked the main strip. We used to loiter around there after school in the summer. There was a model train store that one of us liked to look at, though I can't remember who."
     "感覺很久沒走主要大街了。以前夏天放學後我們常在那晃。我們其中一人很愛去看某間火車模型店，但我想不起來是誰。"
 
 # game/sean12192024.rpy:301
-translate tchinese sean12192024_74366bb5:
+translate Tchinese sean12192024_74366bb5:
 
     # sean sideSeanNeutral "Hey, who was it that always wanted to stop by Tyson's Trains?"
     sean sideSeanNeutral "欸，那個一直想去Tyson火車模型店的是誰啊？"
 
 # game/sean12192024.rpy:305
-translate tchinese sean12192024_7d2f98ae:
+translate Tchinese sean12192024_7d2f98ae:
 
     # arthur "Cody, wasn't that you?"
     arthur "是你吧，Cody？"
 
 # game/sean12192024.rpy:309
-translate tchinese sean12192024_ef88de73:
+translate Tchinese sean12192024_ef88de73:
 
     # cody "Maybe, I liked that Tyson always kept it cold. I don't know how you guys put up with the summer heat."
     cody "可能吧，我喜歡Tyson店裡的冷氣。真不知道你們怎麼受得了夏天的氣溫。"
 
 # game/sean12192024.rpy:313
-translate tchinese sean12192024_9afe75c2:
+translate Tchinese sean12192024_9afe75c2:
 
     # sean "I could've sworn one of us was into model trains. I mean we could've just gone to the ice cream place next door."
     sean "我記得有個人超愛火車模型的。明明隔壁就有冰淇淋店能去。"
 
 # game/sean12192024.rpy:314
-translate tchinese sean12192024_5c15506b:
+translate Tchinese sean12192024_5c15506b:
 
     # sean "Well back when it was still open..."
     sean "至少在那間店還開著的時候……"
 
 # game/sean12192024.rpy:318
-translate tchinese sean12192024_3f85916b:
+translate Tchinese sean12192024_3f85916b:
 
     # arthur "Maybe it was Casey. He definitely had a train phase."
     arthur "有可能是Casey。他絕對有過火車狂熱時期。"
 
 # game/sean12192024.rpy:321
-translate tchinese sean12192024_33e1d398:
+translate Tchinese sean12192024_33e1d398:
 
     # "I don't remember him ever gushing about trains, but I could be wrong. Maybe he felt embarrassed about model trains?"
     "在我記憶中他沒有對火車狂熱過，但也可能是記錯了。也許他覺得喜歡火車模型很羞恥？"
 
 # game/sean12192024.rpy:322
-translate tchinese sean12192024_fedc9bda:
+translate Tchinese sean12192024_fedc9bda:
 
     # "I'd feel bad if that was the case. I always loved listening to his hyperfixation rambles."
     "那就太遺憾了。我一直都很喜歡聽他滔滔不絕地談著自己的興趣。"
 
 # game/sean12192024.rpy:323
-translate tchinese sean12192024_fda70a5b:
+translate Tchinese sean12192024_fda70a5b:
 
     # "They were cute."
     "很可愛。"
 
 # game/sean12192024.rpy:383
-translate tchinese sean12192024_533f4bb7:
+translate Tchinese sean12192024_533f4bb7:
 
     # rocco sideSeanConcerned "Sean... something is very wrong. Where did they go!?! WHAT DID YOU DO!?!?!?!"
     rocco sideSeanConcerned "Sean……大事不妙了。他們去哪了！？！{b}你做了什麼{/b}！？！？！？！"
 
 # game/sean12192024.rpy:384
-translate tchinese sean12192024_4451ee8a:
+translate Tchinese sean12192024_4451ee8a:
 
     # rocco "Sean {cps=5}ANSWER ME!!{/cps}{nw}"
     rocco "Sean，{cps=5}快回答我！！{/cps}{nw}"
 
 # game/sean12192024.rpy:387
-translate tchinese sean12192024_7b47f9b7:
+translate Tchinese sean12192024_7b47f9b7:
 
     # narrator sideReece "We're sorry, but something went wrong with your save of The Whole of Our Hearts."
     narrator sideReece "不好意思，你的《The Whole of Our Hearts》存檔出了問題。"
 
 # game/sean12192024.rpy:388
-translate tchinese sean12192024_06a9e63b:
+translate Tchinese sean12192024_06a9e63b:
 
     # "Please reselect your route to prevent furthur issues with the story."
     "請重新選擇路線，以避免遭遇更多遊玩問題。"
 
 # game/sean12192024.rpy:392
-translate tchinese sean12192024_051007d5:
+translate Tchinese sean12192024_051007d5:
 
     # narrator sideSeanNeutral "We hop out of the car and start walking down the street. Most of the stores had been closed."
     narrator sideSeanNeutral "我們下車走在街上。大多數店都關了。"
 
 # game/sean12192024.rpy:393
-translate tchinese sean12192024_67b66d9e:
+translate Tchinese sean12192024_67b66d9e:
 
     # "Book Nook, Reel Deal, and Crazy Canoez were all still around. Tyson's Trains was replaced with Evan's Engines. I guess old man Tyson wasn't able to keep the store going."
     "角落書店、實惠釣具和瘋狂獨木舟都還在。Tyson火車則被Evan引擎取代了。看來老Tyson沒撐下來。"
 
 # game/sean12192024.rpy:398
-translate tchinese sean12192024_47af60c7:
+translate Tchinese sean12192024_47af60c7:
 
     # nvl clear
     # nulln "Shame. Although he was crotchety, the man was passionate about passions. He loved to listen to people talk about their interests just as much as he loved sharing his."
@@ -681,61 +681,61 @@ translate tchinese sean12192024_47af60c7:
     nulln "真可惜。他雖然脾氣不好，但特別有熱忱。很愛跟人閒聊彼此的興趣。"
 
 # game/sean12192024.rpy:404
-translate tchinese sean12192024_b21114a3:
+translate Tchinese sean12192024_b21114a3:
 
     # nulln "He even hired a local guitarist to play music in his shop for a week. All because the guy talked to him about starting a solo indie career."
     nulln "他甚至還雇了個本地吉他手，在店裡彈奏一星期。只因為那人跟他說想要走獨立音樂的路。"
 
 # game/sean12192024.rpy:408
-translate tchinese sean12192024_da1a0481:
+translate Tchinese sean12192024_da1a0481:
 
     # nulln sideSeanSmile "Now that I think about it, Casey definitely was the one to make us stop there. He and Tyson would gush about whatever hobby he was getting into."
     nulln sideSeanSmile "這麼一想，要我們去那的人絕對就是Casey。他迷上任何興趣都會和Tyson狂聊。"
 
 # game/sean12192024.rpy:411
-translate tchinese sean12192024_2de7ef57:
+translate Tchinese sean12192024_2de7ef57:
 
     # nulln "I chuckle remembering the Grandpa Ty incident."
     nulln "想起Ty老爺子那件事讓我會心一笑。"
 
 # game/sean12192024.rpy:412
-translate tchinese sean12192024_c8202efc:
+translate Tchinese sean12192024_c8202efc:
 
     # nulln "I hope he's doing alright."
     nulln "希望他過得還好。"
 
 # game/sean12192024.rpy:418
-translate tchinese sean12192024_a573dbe8:
+translate Tchinese sean12192024_a573dbe8:
 
     # "We could see the hole as we walked along the unkept sidewalk. The few barricades barely protected it."
     "沿著沒人維護的人行道走，我們就看到了坑。被寥寥幾個路障圍著。"
 
 # game/sean12192024.rpy:419
-translate tchinese sean12192024_31de8052:
+translate Tchinese sean12192024_31de8052:
 
     # narrator sideSeanNeutral "A cop car guarded its perimeter, yet not an officer in sight. I guess Rocco was right."
     narrator sideSeanNeutral "一輛警車鎮坐在旁，但沒看到警察。Rocco說的還真沒錯。"
 
 # game/sean12192024.rpy:423
-translate tchinese sean12192024_be80ad50:
+translate Tchinese sean12192024_be80ad50:
 
     # "Sitting in the parking lot were various vans. Wires slithered out of them like veins, burrowing deep into the depths of our town wonder."
     "停車場停著各種休旅車。電線像血管一樣從車裡爬出，鑽進我們小鎮奇觀的深處。"
 
 # game/sean12192024.rpy:428
-translate tchinese sean12192024_8f0957d9:
+translate Tchinese sean12192024_8f0957d9:
 
     # "Computers sat off, hooked up to an array of sensors and generators, resting underneath tents and mobile lamp posts."
     "電腦關機，接著一堆擺在帳篷和移動燈柱下的感測器和發電機。"
 
 # game/sean12192024.rpy:429
-translate tchinese sean12192024_c1d2f2d7:
+translate Tchinese sean12192024_c1d2f2d7:
 
     # "It looked like a movie set. Intricate props just begging for actors to start messing with them."
     "看起來很像電影場景。各式各樣的小道具等著演員來把弄。"
 
 # game/sean12192024.rpy:443
-translate tchinese sean12192024_aa3e25fc:
+translate Tchinese sean12192024_aa3e25fc:
 
     # nvl clear
     # nulln "The hole itself was ominous."
@@ -743,415 +743,415 @@ translate tchinese sean12192024_aa3e25fc:
     nulln "天坑本身很奇妙。"
 
 # game/sean12192024.rpy:445
-translate tchinese sean12192024_45cd9b4f:
+translate Tchinese sean12192024_45cd9b4f:
 
     # nulln "Bits of rebar and concrete dangling over the void."
     nulln "鋼筋和水泥碎片懸掛在虛空上方。"
 
 # game/sean12192024.rpy:446
-translate tchinese sean12192024_5cc6e348:
+translate Tchinese sean12192024_5cc6e348:
 
     # nulln "Like fingers pointing me into the abyss."
     nulln "像指著深淵的手指。"
 
 # game/sean12192024.rpy:447
-translate tchinese sean12192024_d632b324:
+translate Tchinese sean12192024_d632b324:
 
     # nulln "No light nor sound escaped from its clutch."
     nulln "沒有光線或聲音能逃脫它的掌握。"
 
 # game/sean12192024.rpy:448
-translate tchinese sean12192024_13bdc881:
+translate Tchinese sean12192024_13bdc881:
 
     # nulln "Aside from the mess of cables, a solitary rope crawled down inside."
     nulln "除了凌亂的電纜，還有一條孤獨的繩子爬進坑裡。"
 
 # game/sean12192024.rpy:449
-translate tchinese sean12192024_fc87a8fc:
+translate Tchinese sean12192024_fc87a8fc:
 
     # nulln "The idea of a faint noise echoed from within. Barely audible, yet clear as day."
     nulln "微弱的噪音從裡面回響。幾乎聽不見，卻又清晰萬分。"
 
 # game/sean12192024.rpy:450
-translate tchinese sean12192024_e72c8402:
+translate Tchinese sean12192024_e72c8402:
 
     # nulln "Words I could understand but didn't know the meaning of tickled my mind."
     nulln "聽得懂卻不明白意思的詞語鑽進我的腦海。"
 
 # game/sean12192024.rpy:452
-translate tchinese sean12192024_5aad44d1:
+translate Tchinese sean12192024_5aad44d1:
 
     # nulln "\nSomething was calling to me."
     nulln "\n有東西在呼喚我。"
 
 # game/sean12192024.rpy:453
-translate tchinese sean12192024_e17f4abe:
+translate Tchinese sean12192024_e17f4abe:
 
     # nulln "Looking for us."
     nulln "在找我們。"
 
 # game/sean12192024.rpy:456
-translate tchinese sean12192024_ed38c512:
+translate Tchinese sean12192024_ed38c512:
 
     # nulln "No{cps=4}...{/cps} No, that's stupid."
     nulln "不{cps=4}……{/cps}不對，這也太蠢了。"
 
 # game/sean12192024.rpy:472
-translate tchinese sean12192024_ff7cde3c:
+translate Tchinese sean12192024_ff7cde3c:
 
     # narrator sideSeanSmile "For now we had a date with Mabelle's."
     narrator sideSeanSmile "現在我們跟Mabelle的店有約。"
 
 # game/sean12192024.rpy:475
-translate tchinese sean12192024_e9c810db:
+translate Tchinese sean12192024_e9c810db:
 
     # "Arthur was the first to enter, giddy at the thought of doughnuts. Rocco held the door open for the rest of us."
     "Arthur想著甜甜圈，興奮地率先進店。Rocco則幫剩下的人拄著門。"
 
 # game/sean12192024.rpy:494
-translate tchinese sean12192024_0b90b27a:
+translate Tchinese sean12192024_0b90b27a:
 
     # narrator sideSeanSmile "I was happy to see this place still open. The smell of fresh coffee wafted through the warm air."
     narrator sideSeanSmile "很高興看到這地方還開著。溫暖的空氣中充斥著剛泡好的咖啡香氣。"
 
 # game/sean12192024.rpy:495
-translate tchinese sean12192024_d1add86e:
+translate Tchinese sean12192024_d1add86e:
 
     # "Behind the counter a stout deer woman counted bills before placing them in the register. Her amber eyes looked up at our group and a warm smile grew on her muzzle."
     "櫃檯後一位矮壯的鹿女士數完鈔票放進收銀機。她的琥珀色眼眸抬起，看見我們，嘴上漾起一抹溫暖的微笑。"
 
 # game/sean12192024.rpy:500
-translate tchinese sean12192024_eade156d:
+translate Tchinese sean12192024_eade156d:
 
     # mabelle "Well look who it is. I haven't seen this rag tag group together in ages! How're y'all holdin' up?"
     mabelle "哎呀，看看是誰來了。好久沒看到你們這幫人聚在一起了！大家都還好嗎？"
 
 # game/sean12192024.rpy:503
-translate tchinese sean12192024_96d79801:
+translate Tchinese sean12192024_96d79801:
 
     # sean sideSeanNeutral "Huh, I guess it has been a while. I'm doin' swell. How's business?"
     sean sideSeanNeutral "嗯，是有點久了。我挺好的。生意怎麼樣？"
 
 # game/sean12192024.rpy:510
-translate tchinese sean12192024_70ad1d2b:
+translate Tchinese sean12192024_70ad1d2b:
 
     # mabelle sideSeanConcerned "Business is boomin'! Or, well, it was."
     mabelle sideSeanConcerned "生意超興隆！唉，之前是啦。"
 
 # game/sean12192024.rpy:511
-translate tchinese sean12192024_57281767:
+translate Tchinese sean12192024_57281767:
 
     # mabelle "When the hole opened up we sold out every mornin'. Now we're back to the same ol' same ol'."
     mabelle "天坑剛開的時候，每天早上都賣光了呢。現在又回到了老樣子。"
 
 # game/sean12192024.rpy:517
-translate tchinese sean12192024_a2ef78f2:
+translate Tchinese sean12192024_a2ef78f2:
 
     # mabelle sideSeanSmile "Still, can't complain too much. I've made more in the past week than I made last year!"
     mabelle sideSeanSmile "但也沒法抱怨太多啦。光這星期賺的就比去年一整年還多了！"
 
 # game/sean12192024.rpy:522
-translate tchinese sean12192024_c055029e:
+translate Tchinese sean12192024_c055029e:
 
     # arthur "Glad to hear that. You honestly deserve it."
     arthur "那真不錯。妳應得的。"
 
 # game/sean12192024.rpy:526
-translate tchinese sean12192024_f766bc5a:
+translate Tchinese sean12192024_f766bc5a:
 
     # mabelle "Aww shoot hun you're too kind! How're you doin Nora? I hope these boys are treating you right."
     mabelle "噢，小寶貝妳嘴真甜！Nora妳過得怎麼樣？男孩們對妳還好吧？"
 
 # game/sean12192024.rpy:529
-translate tchinese sean12192024_eaa5df1c:
+translate Tchinese sean12192024_eaa5df1c:
 
     # "Arthur lets out a nervous chuckle at being dead named.{nw}"
     "Arthur被叫錯名字，緊張地笑了笑。{nw}"
 
 # game/sean12192024.rpy:531
-translate tchinese sean12192024_d93e9b5b:
+translate Tchinese sean12192024_d93e9b5b:
 
     # "Arthur lets out a nervous chuckle at being dead named.{fast} H{nw}"
     "Arthur被叫錯名字，緊張地笑了笑。{fast}他{nw}"
 
 # game/sean12192024.rpy:533
-translate tchinese sean12192024_91e7ac02:
+translate Tchinese sean12192024_91e7ac02:
 
     # "Arthur lets out a nervous chuckle at being dead named. Hi{fast}s face twitched. It was small enough that most people never notice it."
     "Arthur被叫錯名字，緊張地笑了笑。他的{fast}臉抽動了一下。幅度很小，不太會被注意到。"
 
 # game/sean12192024.rpy:535
-translate tchinese sean12192024_4efdcb7d:
+translate Tchinese sean12192024_4efdcb7d:
 
     # "On campus, it's my queue to get him out of his current predicament."
     "在學校時，這就是要我幫他脫離尷尬的信號。"
 
 # game/sean12192024.rpy:540
-translate tchinese sean12192024_a0292e82:
+translate Tchinese sean12192024_a0292e82:
 
     # arthur "They're not that bad."
     arthur "他們還行啦。"
 
 # game/sean12192024.rpy:543
-translate tchinese sean12192024_dd4e5cd7:
+translate Tchinese sean12192024_dd4e5cd7:
 
     # mabelle "Well I would hope so. If anything, I know yer safe with Sean!"
     mabelle "那必須得行的。至少我知道，有Sean陪著妳會很安全！"
 
 # game/sean12192024.rpy:545
-translate tchinese sean12192024_90dad36d:
+translate Tchinese sean12192024_90dad36d:
 
     # "We both chuckle at that, it's become a reflex at this point. A helpful one to have since it moves the conversation along."
     "我們倆都笑了笑，這已經變成反射動作了。有助於讓對話繼續下去。"
 
 # game/sean12192024.rpy:547
-translate tchinese sean12192024_3c58fb74:
+translate Tchinese sean12192024_3c58fb74:
 
     # narrator sideSeanSad "My one regret with Casey was letting everything get public. I feel like a freak being ogled at whenever someone references my preferences."
     narrator sideSeanSad "我對Casey唯一的遺憾，就是公開一切。每當有人提起我的性取向，我就感覺自己活像個被人審視的怪胎。"
 
 # game/sean12192024.rpy:549
-translate tchinese sean12192024_2b6012e1:
+translate Tchinese sean12192024_2b6012e1:
 
     # narrator sideSeanNeutral "Even though most people have gotten better about it, I'll never be a person to them."
     narrator sideSeanNeutral "雖然大多數人現在好多了，但對他們來說，我永遠算不上人。"
 
 # game/sean12192024.rpy:551
-translate tchinese sean12192024_4d2cfb60:
+translate Tchinese sean12192024_4d2cfb60:
 
     # "I'll just be gay."
     "我只是個gay。"
 
 # game/sean12192024.rpy:556
-translate tchinese sean12192024_ef14bb1a:
+translate Tchinese sean12192024_ef14bb1a:
 
     # mabelle sideSeanSmile "Well why don't ya'll pick something out. First one's on the house for bein' such loyal customers."
     mabelle sideSeanSmile "來，你們挑點東西吧。第一個我請了，就當是給你們幾個忠實顧客的謝禮囉。"
 
 # game/sean12192024.rpy:561
-translate tchinese sean12192024_deb6bb63:
+translate Tchinese sean12192024_deb6bb63:
 
     # rocco "No, we couldn't..."
     rocco "這樣不好吧……"
 
 # game/sean12192024.rpy:564
-translate tchinese sean12192024_85c79060:
+translate Tchinese sean12192024_85c79060:
 
     # "Rocco says licking his maw. I doubt he was paying attention to the previous conversation."
     "Rocco說著便舔了舔嘴。我懷疑他根本沒在聽剛才的對話。"
 
 # game/sean12192024.rpy:566
-translate tchinese sean12192024_820eb240:
+translate Tchinese sean12192024_820eb240:
 
     # mabelle "I insist. Think nothin' of it."
     mabelle "我很堅持，別客氣了。"
 
 # game/sean12192024.rpy:569
-translate tchinese sean12192024_1958d272:
+translate Tchinese sean12192024_1958d272:
 
     # cody "Thanks ma'am. I think I'll take a maple long john."
     cody "謝謝妳。我要楓糖長條甜甜圈。"
 
 # game/sean12192024.rpy:573
-translate tchinese sean12192024_7b6ec23c:
+translate Tchinese sean12192024_7b6ec23c:
 
     # rocco "I'll take a Boston Cream!"
     rocco "我要波士頓奶油！"
 
 # game/sean12192024.rpy:576
-translate tchinese sean12192024_8fa893e7:
+translate Tchinese sean12192024_8fa893e7:
 
     # sean "I'll just take a glazed."
     sean "我只要糖霜的就行了。"
 
 # game/sean12192024.rpy:579
-translate tchinese sean12192024_04547b7c:
+translate Tchinese sean12192024_04547b7c:
 
     # narrator sideSeanNeutral "Arthur's been staring at the display cabinet. I have to nudge him with my elbow."
     narrator sideSeanNeutral "Arthur一直在盯著展示櫃。我只好用手肘頂他一把。"
 
 # game/sean12192024.rpy:583
-translate tchinese sean12192024_bd2bf1bd:
+translate Tchinese sean12192024_bd2bf1bd:
 
     # arthur sideSeanSmile "Oh, umm... I'll take a pink frosted sprinkle."
     arthur sideSeanSmile "喔，呃……我要粉紅糖霜的。"
 
 # game/sean12192024.rpy:586
-translate tchinese sean12192024_8a071dd9:
+translate Tchinese sean12192024_8a071dd9:
 
     # "We take our doughnuts and thank Mabelle. I leave a 5 dollar bill in the tip jar for her."
     "我們拿了甜甜圈並向Mabelle道謝。我在小費罐放了5元紙鈔給她。"
 
 # game/sean12192024.rpy:588
-translate tchinese sean12192024_bc2da0db:
+translate Tchinese sean12192024_bc2da0db:
 
     # "It's not enough to cover the free doughnuts, but I would feel bad not giving her something. She mouths a 'thank you' at me and I go to join the others."
     "是不夠付免費甜甜圈的錢，但不給她點什麼我會過意不去。她用嘴型對我說了「謝謝」後，我也跟上了其他人。"
 
 # game/sean12192024.rpy:590
-translate tchinese sean12192024_14064a2b:
+translate Tchinese sean12192024_14064a2b:
 
     # "We never really had a spot at the shop. Usually we just took whatever tables were open in the back."
     "我們在店裡沒有固定座位。通常後面哪裡有空就坐哪。"
 
 # game/sean12192024.rpy:592
-translate tchinese sean12192024_ea9ac3dc:
+translate Tchinese sean12192024_ea9ac3dc:
 
     # "Today, there was an otter sipping coffee and reading the newspaper with a red wolf. A opossum and a panther sat in one of the many booths talking about some road trip."
     "今天有隻水獺在跟身旁的紅狼喝咖啡看報紙。一隻負鼠和黑豹坐在其中一個卡座聊公路旅遊。"
 
 # game/sean12192024.rpy:594
-translate tchinese sean12192024_206711ff:
+translate Tchinese sean12192024_206711ff:
 
     # "Aside from them, the rest of the tables were open. We opted for the high top by the front glass."
     "除了他們，其他桌子都空著。我們選了店面玻璃窗邊的高腳桌。"
 
 # game/sean12192024.rpy:602
-translate tchinese sean12192024_507b2c4f:
+translate Tchinese sean12192024_507b2c4f:
 
     # arthur "Do you recognize those two?"
     arthur "你認得那他們兩個嗎？"
 
 # game/sean12192024.rpy:604
-translate tchinese sean12192024_20d12881:
+translate Tchinese sean12192024_20d12881:
 
     # "He says pointing to the poss and panther."
     "他指著負鼠和黑豹。"
 
 # game/sean12192024.rpy:608
-translate tchinese sean12192024_d01e3f79:
+translate Tchinese sean12192024_d01e3f79:
 
     # rocco "Oh them? Yeah, they're doing a small town motorcycle trip. Came in two nights ago. Why?"
     rocco "喔，他們嗎？嗯，他們正在小鎮摩托車旅行途中。兩晚前來的。怎麼了？"
 
 # game/sean12192024.rpy:612
-translate tchinese sean12192024_e836105c:
+translate Tchinese sean12192024_e836105c:
 
     # arthur "Just wondering if they were a part of that computer, bug, thing."
     arthur "只是好奇他們跟那什麼電腦bug有無關係。"
 
 # game/sean12192024.rpy:616
-translate tchinese sean12192024_17791b89:
+translate Tchinese sean12192024_17791b89:
 
     # rocco "Nah, I checked them in myself. Some room on the second floor."
     rocco "沒，是我親自給他們辦的入住手續。二樓某間房。"
 
 # game/sean12192024.rpy:620
-translate tchinese sean12192024_9c8fb0e5:
+translate Tchinese sean12192024_9c8fb0e5:
 
     # "Rocco took a bite out of his doughnut as he finished. A bit of the cream dripped onto his slacks."
     "Rocco說完便咬了一口甜甜圈。一點奶油滴到他的長褲上。"
 
 # game/sean12192024.rpy:624
-translate tchinese sean12192024_8e9427c2:
+translate Tchinese sean12192024_8e9427c2:
 
     # rocco "Shit."
     rocco "操。"
 
 # game/sean12192024.rpy:628
-translate tchinese sean12192024_a5f672a0:
+translate Tchinese sean12192024_a5f672a0:
 
     # "Before he could grab a napkin of his own, Cody was already wiping it off."
     "他還沒來得及拿紙巾，Cody已經在幫他擦了。"
 
 # game/sean12192024.rpy:632
-translate tchinese sean12192024_e5109138:
+translate Tchinese sean12192024_e5109138:
 
     # rocco "Dude, I'm not five."
     rocco "哥們，我又不是五歲小孩。"
 
 # game/sean12192024.rpy:634
-translate tchinese sean12192024_cacf0c71:
+translate Tchinese sean12192024_cacf0c71:
 
     # "Rocco playfully pushed him away, tail wagging. Cody just chuckled."
     "Rocco搖著尾巴，嬉鬧地推開對方。Cody只笑了笑。"
 
 # game/sean12192024.rpy:636
-translate tchinese sean12192024_4cfca097:
+translate Tchinese sean12192024_4cfca097:
 
     # cody "Sorry, it happens every time. I wanted to see if I could catch it, but I was a lil' too late."
     cody "抱歉，每次會都這樣。我就想看看能不能接住，但晚了一點。"
 
 # game/sean12192024.rpy:640
-translate tchinese sean12192024_a80ceadd:
+translate Tchinese sean12192024_a80ceadd:
 
     # sean "How often do you get doughnuts here?"
     sean "你們多常來這買甜甜圈？"
 
 # game/sean12192024.rpy:644
-translate tchinese sean12192024_1a18036f:
+translate Tchinese sean12192024_1a18036f:
 
     # cody "Just, like y'know, every Saturday or somethin' like that."
     cody "就，差不多每個星期六之類的。"
 
 # game/sean12192024.rpy:648
-translate tchinese sean12192024_d9f71cd0:
+translate Tchinese sean12192024_d9f71cd0:
 
     # rocco "It helps get us up whenever we got weekend shifts."
     rocco "週末輪班時能幫我們提神。"
 
 # game/sean12192024.rpy:652
-translate tchinese sean12192024_d15dc623:
+translate Tchinese sean12192024_d15dc623:
 
     # "Rocco nudges Cody."
     "Rocco頂了Cody一肘。"
 
 # game/sean12192024.rpy:656
-translate tchinese sean12192024_8f5d0631:
+translate Tchinese sean12192024_8f5d0631:
 
     # rocco "And when we don't, we usually take a hike along the trail. Works off the doughnuts."
     rocco "不輪班時通常會去步道走走。消耗甜甜圈的熱量。"
 
 # game/sean12192024.rpy:660
-translate tchinese sean12192024_b533a447:
+translate Tchinese sean12192024_b533a447:
 
     # arthur "You sure you're not?"
     arthur "真消耗了嗎？"
 
 # game/sean12192024.rpy:664
-translate tchinese sean12192024_6e11dc87:
+translate Tchinese sean12192024_6e11dc87:
 
     # "Arthur cuts himself off with a chuckle. Rocco groans, but Cody laughs with him."
     "Arthur的笑聲打斷了自己。Rocco發出呻吟，但Cody也跟他一起笑出了聲。"
 
 # game/sean12192024.rpy:668
-translate tchinese sean12192024_13db3c4f:
+translate Tchinese sean12192024_13db3c4f:
 
     # arthur "Maybe when we're done at the hotel we can go for a walk?"
     arthur "也許旅館的事搞完後我們可以去走走？"
 
 # game/sean12192024.rpy:672
-translate tchinese sean12192024_482d3eff:
+translate Tchinese sean12192024_482d3eff:
 
     # cody "That would be nice. Sound good Sean?"
     cody "不錯啊。Sean你覺得呢？"
 
 # game/sean12192024.rpy:676
-translate tchinese sean12192024_18d9a169:
+translate Tchinese sean12192024_18d9a169:
 
     # sean "Huh? Yeah, walk sounds nice."
     sean "啊？哦，走走也好。"
 
 # game/sean12192024.rpy:680
-translate tchinese sean12192024_558c8742:
+translate Tchinese sean12192024_558c8742:
 
     # "Rocco takes another bite out of his doughnut. He makes a show of leaning over the table. Thankfully no globs of the cream fall out."
     "Rocco又咬了一口甜甜圈。他誇張地靠在桌子上。所幸奶油沒掉出來。"
 
 # game/sean12192024.rpy:682
-translate tchinese sean12192024_ecd8144b:
+translate Tchinese sean12192024_ecd8144b:
 
     # "We finish our doughnuts as we stare out onto main street. Our town was cut in two, yet I felt closer than ever to the people around me."
     "我們吃完甜甜圈，望著主要大街。小鎮已被一分為二，我卻感覺跟身邊的人前所未有地親近。"
 
 # game/sean12192024.rpy:684
-translate tchinese sean12192024_fd5aed42:
+translate Tchinese sean12192024_fd5aed42:
 
     # "We still had stuff we needed to work through, but it didn't feel like anything would separate us. We could get through this."
     "我們還有必須解決的事情，但感覺沒什麼事能把我們分開。我們能度過這關的。"
 
 # game/sean12192024.rpy:693
-translate tchinese sean12192024_65639938:
+translate Tchinese sean12192024_65639938:
 
     # nvl clear
     # nulln "My wandering gaze was brought back to the sinkhole. The oddity that fractured our town."
@@ -1159,43 +1159,43 @@ translate tchinese sean12192024_65639938:
     nulln "我游移的目光回到天坑。那個撕裂小鎮的奇觀。"
 
 # game/sean12192024.rpy:696
-translate tchinese sean12192024_f0843a24:
+translate Tchinese sean12192024_f0843a24:
 
     # nulln "It was something that would attract people to our town. Scientists, conspiracy theorists, the government..."
     nulln "它會招引別人來到我們鎮上。科學家、陰謀論者、政府……"
 
 # game/sean12192024.rpy:698
-translate tchinese sean12192024_e65ab757:
+translate Tchinese sean12192024_e65ab757:
 
     # nulln "Yet it was empty. No one came in or out of it. No one drove by it. Those who walked past just seemed to ignore it. Like it had always been there."
     nulln "但它空空如也。沒人進出；沒人開車經過。路過的人都視而不見，彷彿它打從一開始就在那裡。"
 
 # game/sean12192024.rpy:700
-translate tchinese sean12192024_72884d2b:
+translate Tchinese sean12192024_72884d2b:
 
     # nulln "We bought another round of doughnuts, then walked back to the truck."
     nulln "我們又買了一輪甜甜圈，然後走回卡車。"
 
 # game/sean12192024.rpy:702
-translate tchinese sean12192024_216f0f1f:
+translate Tchinese sean12192024_216f0f1f:
 
     # nulln "\n\nI kept watching."
     nulln "\n\n我一直看著。"
 
 # game/sean12192024.rpy:704
-translate tchinese sean12192024_2d704e45:
+translate Tchinese sean12192024_2d704e45:
 
     # nulln "\n\nWaiting for something to happen with the hole."
     nulln "\n\n等著坑裡發生什麼。"
 
 # game/sean12192024.rpy:706
-translate tchinese sean12192024_40ec1533:
+translate Tchinese sean12192024_40ec1533:
 
     # nulln "To hear that voice again. To try and manifest someone emerging from it so I could ask them about it."
     nulln "好讓我能再聽到那聲音。令某人從裡面出現，好讓我能就這天坑問些問題。"
 
 # game/sean12192024.rpy:720
-translate tchinese sean12192024_7f00526e:
+translate Tchinese sean12192024_7f00526e:
 
     # nvl clear
     # nulln "The drive over to the hotel was calm. We listened to one of the few radio stations on our short drive."
@@ -1203,181 +1203,181 @@ translate tchinese sean12192024_7f00526e:
     nulln "開去旅館的路上很平靜。在短短路途上，我們聽著寥寥無幾的電台之一。"
 
 # game/sean12192024.rpy:722
-translate tchinese sean12192024_2a123786:
+translate Tchinese sean12192024_2a123786:
 
     # nulln "It was some classic rock station that played the kind of music dads listen to while changing their oil. Rocco points us to a parking spot that's always open."
     nulln "是會播我爸換機油時聽的那種音樂的某個經典搖滾樂電台。Rocco給我們指了個永遠空著的車位。"
 
 # game/sean12192024.rpy:735
-translate tchinese sean12192024_984ee5b0:
+translate Tchinese sean12192024_984ee5b0:
 
     # narrator sideSeanNeutral "We loiter in the lounge for a while. Rocco has to sit behind the desk pretending to do work."
     narrator sideSeanNeutral "我們在大廳閒晃了一陣。Rocco得坐在櫃檯前假裝在工作。"
 
 # game/sean12192024.rpy:736
-translate tchinese sean12192024_efa8fbc7:
+translate Tchinese sean12192024_efa8fbc7:
 
     # "Hank comes through to do some general cleaning. He doesn't say anything, just nods his head at us and moves on to another hallway. "
     "Hank在做整體清掃時有經過。他什麼也沒說，只是對我們點頭，就去到另一條走廊了。"
 
 # game/sean12192024.rpy:739
-translate tchinese sean12192024_1f4b9f95:
+translate Tchinese sean12192024_1f4b9f95:
 
     # rocco "uuugh... This guy is taking for-fucking-ever."
     rocco "呃呃呃……這傢伙也他媽太久了。"
 
 # game/sean12192024.rpy:742
-translate tchinese sean12192024_f1acff98:
+translate Tchinese sean12192024_f1acff98:
 
     # "I look down at my phone, 10:38 damn. I wonder what's taking them so long. Rocco gets up from the desk and heads over to a hallway."
     "我低頭看手機，哇靠，10:38。真不知道怎麼這麼慢。Rocco起身從櫃檯走向走廊。"
 
 # game/sean12192024.rpy:745
-translate tchinese sean12192024_9793b95f:
+translate Tchinese sean12192024_9793b95f:
 
     # rocco "Hank!"
     rocco "Hank！"
 
 # game/sean12192024.rpy:755
-translate tchinese sean12192024_a16a67b8:
+translate Tchinese sean12192024_a16a67b8:
 
     # "A brown head pokes out from a room."
     "一顆棕色腦袋從房間探出頭。"
 
 # game/sean12192024.rpy:758
-translate tchinese sean12192024_5582c23d:
+translate Tchinese sean12192024_5582c23d:
 
     # rocco "I.T. guy said he'd be here at 10:00 right?"
     rocco "ＩＴ人員是說10:00會到對吧？"
 
 # game/sean12192024.rpy:761
-translate tchinese sean12192024_4cfd3617:
+translate Tchinese sean12192024_4cfd3617:
 
     # hank "Yeah."
     hank "對。"
 
 # game/sean12192024.rpy:768
-translate tchinese sean12192024_cc1326c2:
+translate Tchinese sean12192024_cc1326c2:
 
     # "Hank goes back into the room. Rocco walks back to the front desk's counter and hops up on it."
     "Hank縮回房間。Rocco走回櫃檯前，跳坐上去。"
 
 # game/sean12192024.rpy:773
-translate tchinese sean12192024_6e0e1ea3:
+translate Tchinese sean12192024_6e0e1ea3:
 
     # rocco "Where the fuck is he?"
     rocco "他媽的人到底在哪？"
 
 # game/sean12192024.rpy:776
-translate tchinese sean12192024_12ac3379:
+translate Tchinese sean12192024_12ac3379:
 
     # arthur "It's cool dude. They probably took a wrong exit or something."
     arthur "冷靜點。可能是走錯了出口之類的。"
 
 # game/sean12192024.rpy:779
-translate tchinese sean12192024_74922126:
+translate Tchinese sean12192024_74922126:
 
     # "Rocco groans. As if on queue a black sedan pulls into the front drive."
     "Rocco一陣呻吟。有如響應一般，一輛黑色轎車停進了正門車道。"
 
 # game/sean12192024.rpy:793
-translate tchinese sean12192024_c3789435:
+translate Tchinese sean12192024_c3789435:
 
     # "A frazzled, exhausted, goth, bat steps out of the car. She rushes to the main lobby, almost running into the automatic door before it's open."
     "一隻狼狽而疲憊的哥德風蝙蝠下了車。她衝向大廳，差點撞上還沒打開的自動門。"
 
 # game/sean12192024.rpy:800
-translate tchinese sean12192024_2a4b94da:
+translate Tchinese sean12192024_2a4b94da:
 
     # bat sideSeanConcerned "Hey, I am so sorry I'm late. There was an accident on 70 that completely shut off the highway."
     bat sideSeanConcerned "嘿，我來遲了真的很抱歉。70號公路上出了事故，整條高速都封了。"
 
 # game/sean12192024.rpy:810
-translate tchinese sean12192024_ca5a68c4:
+translate Tchinese sean12192024_ca5a68c4:
 
     # "Rocco hops off of the front desk and walks over to her. He seems to have calmed down."
     "Rocco從櫃檯跳下並走向她。看來已經冷靜下來了。"
 
 # game/sean12192024.rpy:817
-translate tchinese sean12192024_1da3321e:
+translate Tchinese sean12192024_1da3321e:
 
     # rocco sideSeanNeutral "It's cool. I take it you're the I.T. guy from Salem?"
     rocco sideSeanNeutral "沒事。妳就是賽勒姆來的ＩＴ人員吧？"
 
 # game/sean12192024.rpy:822
-translate tchinese sean12192024_0a15fab8:
+translate Tchinese sean12192024_0a15fab8:
 
     # "Rocco holds out his paw. The bat shakes it."
     "Rocco伸爪。蝙蝠跟他握了手。"
 
 # game/sean12192024.rpy:828
-translate tchinese sean12192024_37262444:
+translate Tchinese sean12192024_37262444:
 
     # bat "That I am. I take it you're Mr. Smith?"
     bat "是的。你應該是Smith先生吧？"
 
 # game/sean12192024.rpy:833
-translate tchinese sean12192024_43dddb07:
+translate Tchinese sean12192024_43dddb07:
 
     # rocco "Rocco's fine."
     rocco "叫Rocco就行了。"
 
 # game/sean12192024.rpy:836
-translate tchinese sean12192024_476b01fe:
+translate Tchinese sean12192024_476b01fe:
 
     # claire "Got it. I'm Claire by the by.{nw}"
     claire "了解。對了，我叫Claire。{nw}"
 
 # game/sean12192024.rpy:838
-translate tchinese sean12192024_cdb7d849:
+translate Tchinese sean12192024_cdb7d849:
 
     # claire "Got it. I'm Claire by the by.{fast} Who're they?"
     claire "了解。對了，我叫Claire。{fast}他們是？"
 
 # game/sean12192024.rpy:841
-translate tchinese sean12192024_547ecc93:
+translate Tchinese sean12192024_547ecc93:
 
     # rocco "They're uuuh... part timers, but I called 'em in just in case we needed more paws. The raccoon is Cody, the lion is Arthur, and the fox is Sean."
     rocco "他們是，呃……兼職的，我就是把他們叫來以免需要更多人爪。浣熊叫Cody、獅子叫Arthur、狐狸叫Sean。"
 
 # game/sean12192024.rpy:845
-translate tchinese sean12192024_2516c90d:
+translate Tchinese sean12192024_2516c90d:
 
     # narrator sideSeanSmile "We give her a small wave."
     narrator sideSeanSmile "我們對她小小揮手。"
 
 # game/sean12192024.rpy:850
-translate tchinese sean12192024_15d16349:
+translate Tchinese sean12192024_15d16349:
 
     # claire "Cool, nice to meet ya'll."
     claire "酷，很高興認識你們。"
 
 # game/sean12192024.rpy:855
-translate tchinese sean12192024_7b840697:
+translate Tchinese sean12192024_7b840697:
 
     # narrator sideSeanNeutral "She does a stretch and begins pulling equipment out of her messenger bag. While the computer is booting up, she techno babbles at us."
     narrator sideSeanNeutral "她伸了個懶腰，從斜背包拿出設備。在電腦開機時，她給我們講了一堆科技術語。"
 
 # game/sean12192024.rpy:857
-translate tchinese sean12192024_be013699:
+translate Tchinese sean12192024_be013699:
 
     # "I have no idea what any of it means, something about checking systems, corrupted data, and cloud syncing. I can tell Rocco is lost too."
     "我完全聽不懂什麼系統檢查、資料損壞、雲端同步之類的。Rocco看起來也雲裡霧裡的。"
 
 # game/sean12192024.rpy:861
-translate tchinese sean12192024_b965089b:
+translate Tchinese sean12192024_b965089b:
 
     # claire "Ok, the system scan shows that nothing weird happened. No detected packet loss, no reports of a connection loss, rsync logs are good... Let me... try something else."
     claire "好，系統掃描顯示沒什麼問題。沒偵測到封包丟失；沒有連線中斷報告；rsync日誌正常……我來……試試別的。"
 
 # game/sean12192024.rpy:865
-translate tchinese sean12192024_974ece3c:
+translate Tchinese sean12192024_974ece3c:
 
     # "She keeps fiddling around with her laptop."
     "她繼續操作著筆電。"
 
 # game/sean12192024.rpy:868
-translate tchinese sean12192024_f64d15d6:
+translate Tchinese sean12192024_f64d15d6:
 
     # claire "So I can get us the list of rooms checked out... When did you say this problem started."
     claire "我可以調出退房清單……你說這問題是什麼時候開始的？"
@@ -7001,1279 +7001,1279 @@ translate Tchinese s12192019Rocco_7c316c49:
     hank "什麼房？"
 
 # game/sean12192024.rpy:3712
-translate chinese s12192019Rocco_1bc74579:
+translate Tchinese s12192019Rocco_1bc74579:
 
     # arthur "Oh it was something straight out of a horror film!"
     arthur "哎，根本就是恐怖片裡會出現的東西！"
 
 # game/sean12192024.rpy:3716
-translate chinese s12192019Rocco_be8da202:
+translate Tchinese s12192019Rocco_be8da202:
 
     # arthur "A room covered wall to wall with the phrases 'it speaks to me' and 'I can't hide myself'."
     arthur "整間房牆上全貼滿了「它在跟我說話」和「我躲不掉」的字句。"
 
 # game/sean12192024.rpy:3720
-translate chinese s12192019Rocco_d1498f90:
+translate Tchinese s12192019Rocco_d1498f90:
 
     # "Arthur says them in a spooky voice. Reminds me of that bathroom Rocco and I found."
     "Arthur用陰森的語調說出。讓我想起Rocco和我找到的那間浴室。"
 
 # game/sean12192024.rpy:3722
-translate chinese s12192019Rocco_685fde00:
+translate Tchinese s12192019Rocco_685fde00:
 
     # "Hank just groans at the thought of cleaning that up."
     "一想到還要清理，Hank就發出呻吟。"
 
 # game/sean12192024.rpy:3726
-translate chinese s12192019Rocco_f880bec2:
+translate Tchinese s12192019Rocco_f880bec2:
 
     # hank sideSeanConcerned "That was supposed to be cleaned on Thursday."
     hank sideSeanConcerned "本來星期四就該清裡掉了啊。"
 
 # game/sean12192024.rpy:3731
-translate chinese s12192019Rocco_46dd3c14:
+translate Tchinese s12192019Rocco_46dd3c14:
 
     # claire sideSeanNeutral "Well we also had a one hundred percent success rate."
     claire sideSeanNeutral "嗯，我們也是百發百中。"
 
 # game/sean12192024.rpy:3735
-translate chinese s12192019Rocco_28efb1a7:
+translate Tchinese s12192019Rocco_28efb1a7:
 
     # rocco "So what now?"
     rocco "那現在怎麼辦？"
 
 # game/sean12192024.rpy:3741
-translate chinese s12192019Claire_a88de58a:
+translate Tchinese s12192019Claire_a88de58a:
 
     # sean sideSeanSmile "I'll go with Claire if that's alright with her."
     sean sideSeanSmile "要是Claire不介意，我就跟她一起吧。"
 
 # game/sean12192024.rpy:3745
-translate chinese s12192019Claire_8905ce77:
+translate Tchinese s12192019Claire_8905ce77:
 
     # claire "Sure."
     claire "行啊。"
 
 # game/sean12192024.rpy:3749
-translate chinese s12192019Claire_f486cb79:
+translate Tchinese s12192019Claire_f486cb79:
 
     # "She walks over and holds her paw up for a high five."
     "她走過來舉爪擊掌。"
 
 # game/sean12192024.rpy:3750
-translate chinese s12192019Claire_e73c3f2b:
+translate Tchinese s12192019Claire_e73c3f2b:
 
     # "There's a satisfying sound as our paws smack into each other."
     "我們擊爪，發出爽快的聲響。"
 
 # game/sean12192024.rpy:3754
-translate chinese s12192019Claire_e64a71c2:
+translate Tchinese s12192019Claire_e64a71c2:
 
     # rocco sideSeanNeutral "Cool, Hank you're with me. We're taking the second floor. Arthur and Cody, you both will take the first floor."
     rocco sideSeanNeutral "好，Hank你跟我負責二樓。Arthur和Cody，你們兩個負責一樓。"
 
 # game/sean12192024.rpy:3755
-translate chinese s12192019Claire_264fbddd:
+translate Tchinese s12192019Claire_264fbddd:
 
     # rocco "Remember, knock and say 'housekeeping' or something like that three times. If you don't get a response then you can enter."
     rocco "別忘了，要先敲門，然後喊「客房清潔」之類的三次。沒人回應才能進去。"
 
 # game/sean12192024.rpy:3758
-translate chinese s12192019Claire_d4f2102e:
+translate Tchinese s12192019Claire_d4f2102e:
 
     # "I feel like he's primarily talking to the three of us."
     "我覺得他主要是在說給我們三個聽。"
 
 # game/sean12192024.rpy:3761
-translate chinese s12192019Claire_45177a1c:
+translate Tchinese s12192019Claire_45177a1c:
 
     # rocco "If it looks like someone's staying in the room mark your key."
     rocco "如果感覺有人住，就在房卡上標記。"
 
 # game/sean12192024.rpy:3762
-translate chinese s12192019Claire_6d36efe4:
+translate Tchinese s12192019Claire_6d36efe4:
 
     # rocco "If you want to, make the bed and grab the trash. It'll make Hank's life easier, so I'm sure he'll appreciate it."
     rocco "可以的話，就順便整理床鋪、收拾垃圾。會讓Hank輕鬆點，他一定會很感激。"
 
 # game/sean12192024.rpy:3765
-translate chinese s12192019Claire_70d6c8a4:
+translate Tchinese s12192019Claire_70d6c8a4:
 
     # hank "I would."
     hank "我會的。"
 
 # game/sean12192024.rpy:3768
-translate chinese s12192019Claire_bea4056f:
+translate Tchinese s12192019Claire_bea4056f:
 
     # rocco "We'll meet back here in an hour to discuss what we've found. Any questions?"
     rocco "一小時後回到這裡討論情況。有沒有問題？"
 
 # game/sean12192024.rpy:3771
-translate chinese s12192019Claire_26513984:
+translate Tchinese s12192019Claire_26513984:
 
     # "Nobody speaks up."
     "沒人開口。"
 
 # game/sean12192024.rpy:3774
-translate chinese s12192019Claire_f69a6d6a:
+translate Tchinese s12192019Claire_f69a6d6a:
 
     # rocco "Great."
     rocco "很好。"
 
 # game/sean12192024.rpy:3778
-translate chinese s12192019Claire_ef558bb6:
+translate Tchinese s12192019Claire_ef558bb6:
 
     # arthur "Alright everyone paws in!"
     arthur "好啦，大家來疊爪！"
 
 # game/sean12192024.rpy:3784
-translate chinese s12192019Claire_b4780ce0:
+translate Tchinese s12192019Claire_b4780ce0:
 
     # "Rocco gives him a puzzled look. Claire, Cody, and I all eagerly put our paws in. Hank is reluctant, but he puts his in."
     "Rocco遲疑地望向他。Claire、Cody和我則興奮地伸爪交疊。Hank不太情願，但還是伸出了爪。"
 
 # game/sean12192024.rpy:3785
-translate chinese s12192019Claire_ab0b7e48:
+translate Tchinese s12192019Claire_ab0b7e48:
 
     # "Rocco groans, putting his paw over the massive bear's."
     "Rocco一陣呻吟，伸爪蓋在大熊爪上。"
 
 # game/sean12192024.rpy:3788
-translate chinese s12192019Claire_6d5ddd36:
+translate Tchinese s12192019Claire_6d5ddd36:
 
     # arthur "On three, we say hotel investigation! One, two, three!"
     arthur "數到三，就喊旅館調查！一、二、三！"
 
 # game/sean12192024.rpy:3792
-translate chinese s12192019Claire_e33708aa:
+translate Tchinese s12192019Claire_e33708aa:
 
     # allNoRocco sideSeanSmile "Hotel investigation!"
     allNoRocco sideSeanSmile "旅館調查！"
 
 # game/sean12192024.rpy:3795
-translate chinese s12192019Claire_d35bff83:
+translate Tchinese s12192019Claire_d35bff83:
 
     # rocco "Let's just get this done."
     rocco "趕緊搞定吧。"
 
 # game/sean12192024.rpy:3805
-translate chinese s12192019Claire_0d6d59df:
+translate Tchinese s12192019Claire_0d6d59df:
 
     # narrator sideSeanNeutral "We walked over to the first floor of the east wing."
     narrator sideSeanNeutral "我們走向東翼一樓。"
 
 # game/sean12192024.rpy:3806
-translate chinese s12192019Claire_75a1e7ca:
+translate Tchinese s12192019Claire_75a1e7ca:
 
     # "I fan out the cards in my paw. I pick out keys the for the first floor. Then I put the others in my pocket."
     "我把房卡攤在爪上。挑出一樓的，並把其他的塞進口袋。"
 
 # game/sean12192024.rpy:3809
-translate chinese s12192019Claire_d8acfc39:
+translate Tchinese s12192019Claire_d8acfc39:
 
     # sean "Looks like there are only five rooms for this floor. Which one do you wanna do first?"
     sean "這層好像只有五間房。妳想先查哪間？"
 
 # game/sean12192024.rpy:3812
-translate chinese s12192019Claire_32a898fe:
+translate Tchinese s12192019Claire_32a898fe:
 
     # claire "The elevators are in the main lobby, so we should work from the back to the front."
     claire "電梯在大廳，所以我們應該從後往前查。"
 
 # game/sean12192024.rpy:3816
-translate chinese s12192019Claire_212735a2:
+translate Tchinese s12192019Claire_212735a2:
 
     # narrator sideSeanSmile "She grabs key 114 from my paw."
     narrator sideSeanSmile "她從我爪上捎走114號房卡。"
 
 # game/sean12192024.rpy:3819
-translate chinese s12192019Claire_97dc38e6:
+translate Tchinese s12192019Claire_97dc38e6:
 
     # claire "C'mon let's check this one out."
     claire "來吧，先查這間。"
 
 # game/sean12192024.rpy:3822
-translate chinese s12192019Claire_e2dd5005:
+translate Tchinese s12192019Claire_e2dd5005:
 
     # "We both walk off to the back of the hall."
     "我們倆一起走向走廊盡頭。"
 
 # game/sean12192024.rpy:3825
-translate chinese s12192019Claire_9c53ce07:
+translate Tchinese s12192019Claire_9c53ce07:
 
     # sean sideSeanNeutral "So... What do you normally do?"
     sean sideSeanNeutral "所以……妳平常都在做什麼？"
 
 # game/sean12192024.rpy:3829
-translate chinese s12192019Claire_a4b1187b:
+translate Tchinese s12192019Claire_a4b1187b:
 
     # claire "Like, for my normal job?"
     claire "你是說我平時的工作內容嗎？"
 
 # game/sean12192024.rpy:3830
-translate chinese s12192019Claire_affd8c2d:
+translate Tchinese s12192019Claire_affd8c2d:
 
     # claire "Mostly just sit behind a computer and work tickets."
     claire "通常都是坐在電腦後面處理反饋。"
 
 # game/sean12192024.rpy:3831
-translate chinese s12192019Claire_ac98a249:
+translate Tchinese s12192019Claire_ac98a249:
 
     # claire "Update software, something bugs out in our lobby, or bad data gets stored in our servers and I gotta delete it."
     claire "更新軟體、大廳出bug、伺服器資料錯誤要刪除。"
 
 # game/sean12192024.rpy:3832
-translate chinese s12192019Claire_ca9f2bc2:
+translate Tchinese s12192019Claire_ca9f2bc2:
 
     # claire "That kind of stuff."
     claire "之類的事。"
 
 # game/sean12192024.rpy:3835
-translate chinese s12192019Claire_83871bff:
+translate Tchinese s12192019Claire_83871bff:
 
     # sean "Why don't you work at the H.Q.?"
     sean "妳怎麼不在總部工作？"
 
 # game/sean12192024.rpy:3838
-translate chinese s12192019Claire_a1648f27:
+translate Tchinese s12192019Claire_a1648f27:
 
     # claire "It's nice to keep someone onsite in case of a hardware failure. I can do everything else remote."
     claire "萬一硬體損壞，現場有人在會比較方便處理。其他我都能遠端搞定。"
 
 # game/sean12192024.rpy:3839
-translate chinese s12192019Claire_ac449a79:
+translate Tchinese s12192019Claire_ac449a79:
 
     # claire "I just find an empty hotel room and work from there."
     claire "我會在旅館裡找一間空房待著工作。"
 
 # game/sean12192024.rpy:3841
-translate chinese s12192019Claire_50e86c39:
+translate Tchinese s12192019Claire_50e86c39:
 
     # claire sideSeanNeutral "In fact, the reason why I'm here is because everything looked normal from my end."
     claire sideSeanNeutral "老實說，我來這裡的原因，就是我這邊看到的一切都很正常。"
 
 # game/sean12192024.rpy:3844
-translate chinese s12192019Claire_72997d21:
+translate Tchinese s12192019Claire_72997d21:
 
     # sean "Really?"
     sean "真的嗎？"
 
 # game/sean12192024.rpy:3848
-translate chinese s12192019Claire_a12ba4c1:
+translate Tchinese s12192019Claire_a12ba4c1:
 
     # claire "Yup, nothing was out of the ordinary. Nothing strange in the logs, no sign of data corruption or packet loss, even a remote scan of the system showed all green."
     claire "對，沒什麼異常。紀錄裡沒怪東西、沒有資料損壞或封包丟失，遠端掃描系統也沒問題。"
 
 # game/sean12192024.rpy:3849
-translate chinese s12192019Claire_6e85cd1f:
+translate Tchinese s12192019Claire_6e85cd1f:
 
     # claire sideSeanNeutral "Rocco insisted that something wasn't adding up."
     claire sideSeanNeutral "Rocco堅稱有哪裡不對勁。"
 
 # game/sean12192024.rpy:3850
-translate chinese s12192019Claire_578d97c1:
+translate Tchinese s12192019Claire_578d97c1:
 
     # claire "I figured, why not come over here and see if I could figure it out."
     claire "我就想說，乾脆來現場看看能不能找出問題好了。"
 
 # game/sean12192024.rpy:3853
-translate chinese s12192019Claire_7b6faf6f:
+translate Tchinese s12192019Claire_7b6faf6f:
 
     # narrator sideSeanNeutral "I kind of follow along with what she's saying. Though if she found nothing wrong then what was Rocco's problem?"
     narrator sideSeanNeutral "我大概聽得懂她的意思。但如果她沒發現錯誤，那Rocco是哪裡出了問題？"
 
 # game/sean12192024.rpy:3855
-translate chinese s12192019Claire_bbc53976:
+translate Tchinese s12192019Claire_bbc53976:
 
     # "Claire does the three knocks on room 114, each one not getting a response. Then she swipes the card unlocking the door."
     "Claire在114號房門上敲了三次，都沒人回應。於是刷卡開門。"
 
 # game/sean12192024.rpy:3866
-translate chinese s12192019Claire_2a7c367c:
+translate Tchinese s12192019Claire_2a7c367c:
 
     # narrator sideSeanNeutral "Two, unkept, queen beds were crammed into the space. A table and two chairs had been shoved into the corner."
     narrator sideSeanNeutral "空間裡擠著兩張沒整理的大號雙人床。一張桌子和兩把椅子被推到了角落。"
 
 # game/sean12192024.rpy:3867
-translate chinese s12192019Claire_cf1fab45:
+translate Tchinese s12192019Claire_cf1fab45:
 
     # "The desk across from the beds had a laptop closed on it with a camcorder plugged into it."
     "床對面的桌上放著一台關著的筆電，上面還插著攝影機。"
 
 # game/sean12192024.rpy:3868
-translate chinese s12192019Claire_65b1ba8f:
+translate Tchinese s12192019Claire_65b1ba8f:
 
     # "In the closet four suitcases lay open with clothes of different sizes spilling out of them."
     "衣櫥裡開著四個溢出各種尺寸衣服的行李箱。"
 
 # game/sean12192024.rpy:3871
-translate chinese s12192019Claire_fa1a2888:
+translate Tchinese s12192019Claire_fa1a2888:
 
     # narrator sideSeanConcerned "The drawers and cabinets of the room are randomly opened. Pillows fill the space between the beds."
     narrator sideSeanConcerned "房間的抽屜和櫃子都被胡亂拉開。枕頭塞滿了兩張床之間的空隙。"
 
 # game/sean12192024.rpy:3872
-translate chinese s12192019Claire_c8e700f5:
+translate Tchinese s12192019Claire_c8e700f5:
 
     # "It looks like the room had been turned over, like someone was looking for something."
     "看來房間被人翻過，像是在找什麼的樣子。"
 
 # game/sean12192024.rpy:3875
-translate chinese s12192019Claire_ef3696ff:
+translate Tchinese s12192019Claire_ef3696ff:
 
     # claire "What happened here?"
     claire "這裡是怎麼了？"
 
 # game/sean12192024.rpy:3878
-translate chinese s12192019Claire_cf26daf8:
+translate Tchinese s12192019Claire_cf26daf8:
 
     # sean "Beats me. Maybe they misplaced something."
     sean "誰知道。可能是搞丟了什麼。"
 
 # game/sean12192024.rpy:3881
-translate chinese s12192019Claire_7fadf420:
+translate Tchinese s12192019Claire_7fadf420:
 
     # "I look into the bathroom."
     "我看向浴室。"
 
 # game/sean12192024.rpy:3887
-translate chinese s12192019Claire_fc174500:
+translate Tchinese s12192019Claire_fc174500:
 
     # "Towels litter the ground, a sideways bottle of shampoo tetters on the edge of a shelf, the light and vent are still on."
     "毛巾散落地面，一瓶側倒的洗髮精在架子邊緣搖搖欲墜，燈和抽風機還開著。"
 
 # game/sean12192024.rpy:3888
-translate chinese s12192019Claire_7b88a5ba:
+translate Tchinese s12192019Claire_7b88a5ba:
 
     # "Thankfully the water was turned off."
     "幸好水關了。"
 
 # game/sean12192024.rpy:3890
-translate chinese s12192019Claire_faf4e8f4:
+translate Tchinese s12192019Claire_faf4e8f4:
 
     # "I look back over to Claire who's opened up the laptop. It has a screen saver of a happy family of stoats sitting together in a forest."
     "我回頭看Claire，她已經打開了筆電。螢幕保護圖片是一家白鼬和樂融融地坐在森林裡。"
 
 # game/sean12192024.rpy:3893
-translate chinese s12192019Claire_a5b843da:
+translate Tchinese s12192019Claire_a5b843da:
 
     # "I wonder if they're related to that missing stoat girl?"
     "不知道他們跟那個失蹤的白鼬女孩有沒有關係？"
 
 # game/sean12192024.rpy:3895
-translate chinese s12192019Claire_9717c91d:
+translate Tchinese s12192019Claire_9717c91d:
 
     # "Claire is looking around the desk for something."
     "Claire在桌子上找些什麼。"
 
 # game/sean12192024.rpy:3898
-translate chinese s12192019Claire_4add26cc:
+translate Tchinese s12192019Claire_4add26cc:
 
     # sean sideSeanNeutral "What are you doing?"
     sean sideSeanNeutral "你在幹嘛？"
 
 # game/sean12192024.rpy:3902
-translate chinese s12192019Claire_097f8a27:
+translate Tchinese s12192019Claire_097f8a27:
 
     # claire "Trying to find their password book."
     claire "找他們的密碼本。"
 
 # game/sean12192024.rpy:3905
-translate chinese s12192019Claire_6d0d4b2e:
+translate Tchinese s12192019Claire_6d0d4b2e:
 
     # sean "Why?"
     sean "為什麼？"
 
 # game/sean12192024.rpy:3909
-translate chinese s12192019Claire_514eda70:
+translate Tchinese s12192019Claire_514eda70:
 
     # claire "I want to see if there's any clues on the laptop."
     claire "我想看看筆電裡有沒有線索。"
 
 # game/sean12192024.rpy:3912
-translate chinese s12192019Claire_05458c29:
+translate Tchinese s12192019Claire_05458c29:
 
     # "Clues for what? We shouldn't be doing this."
     "什麼的線索？我們不能做這種事。"
 
 # game/sean12192024.rpy:3913
-translate chinese s12192019Claire_3927a900:
+translate Tchinese s12192019Claire_3927a900:
 
     # "She continues fiddling with the drawers."
     "她繼續翻找抽屜。"
 
 # game/sean12192024.rpy:3916
-translate chinese s12192019Claire_099b659f:
+translate Tchinese s12192019Claire_099b659f:
 
     # sean "What clues-{nw}"
     sean "什麼線索——{nw}"
 
 # game/sean12192024.rpy:3917
-translate chinese s12192019Claire_36210f60:
+translate Tchinese s12192019Claire_36210f60:
 
     # sean sideSeanAngry "What clues-{fast} wait, this incredibly illegal?"
     sean sideSeanAngry "什麼線索——{fast}等一下，這根本就違法吧？"
 
 # game/sean12192024.rpy:3921
-translate chinese s12192019Claire_cfa4e3fb:
+translate Tchinese s12192019Claire_cfa4e3fb:
 
     # claire "Yup. Though if you tell the cops I can get you, and your friends, trespassed."
     claire "對。但你報警的話，我也可以告發你跟你朋友非法入侵。"
 
 # game/sean12192024.rpy:3924
-translate chinese s12192019Claire_c9c06dde:
+translate Tchinese s12192019Claire_c9c06dde:
 
     # sean "I'm sorry what?"
     sean "你說什麼？"
 
 # game/sean12192024.rpy:3928
-translate chinese s12192019Claire_c130cc3c:
+translate Tchinese s12192019Claire_c130cc3c:
 
     # claire sideSeanScared "Sean, I know you, Arthur, and Cody aren't employees. I've got a list of everyone who works here, full and part time."
     claire sideSeanScared "Sean，我知道你跟Arthur和Cody都不是員工。我有這裡所有員工的名單，不管是全職還是兼職。"
 
 # game/sean12192024.rpy:3931
-translate chinese s12192019Claire_2c990d04:
+translate Tchinese s12192019Claire_2c990d04:
 
     # "I freeze in place."
     "我僵在原地。"
 
 # game/sean12192024.rpy:3934
-translate chinese s12192019Claire_9849c8b6:
+translate Tchinese s12192019Claire_9849c8b6:
 
     # claire "I'm not a snitch, as long as you aren't one."
     claire "我不會告發的，只要你也不說出去。"
 
 # game/sean12192024.rpy:3937
-translate chinese s12192019Claire_2d37b4f4:
+translate Tchinese s12192019Claire_2d37b4f4:
 
     # sean "Ok...{nw}"
     sean "好……{nw}"
 
 # game/sean12192024.rpy:3938
-translate chinese s12192019Claire_7fddacb2:
+translate Tchinese s12192019Claire_7fddacb2:
 
     # sean sideSeanNeutral "Ok...{fast} but that doesn't justify digging through their stuff."
     sean sideSeanNeutral "好……{fast}但亂翻人家東西還是不太好吧。"
 
 # game/sean12192024.rpy:3944
-translate chinese s12192019Claire_17949cb4:
+translate Tchinese s12192019Claire_17949cb4:
 
     # "She gets up and walks over to the room's safe."
     "她起身走向房間的保險箱。"
 
 # game/sean12192024.rpy:3948
-translate chinese s12192019Claire_69775d44:
+translate Tchinese s12192019Claire_69775d44:
 
     # claire "Something happened in here. The family clearly left in a hurry."
     claire "這裡發生過了什麼。這家人明顯離開得很匆忙。"
 
 # game/sean12192024.rpy:3952
-translate chinese s12192019Claire_157513be:
+translate Tchinese s12192019Claire_157513be:
 
     # sean sideSeanConcerned "There was a stoat that Carl found in the woods. Think it has something to do with that?"
     sean sideSeanConcerned "Carl在樹林發現了一隻白鼬。妳覺得會跟這有關嗎？"
 
 # game/sean12192024.rpy:3955
-translate chinese s12192019Claire_beab1e1b:
+translate Tchinese s12192019Claire_beab1e1b:
 
     # claire "This is probably her family. She couldn't remember their names, but maybe she would remember their faces."
     claire "這大概是她家人吧。她是不記得名字，但或許還記得樣貌。"
 
 # game/sean12192024.rpy:3959
-translate chinese s12192019Claire_2c7d69c7:
+translate Tchinese s12192019Claire_2c7d69c7:
 
     # claire sideSeanConcerned "I heard on the radio that there was a kid found in the woods who had amnesia. Couldn't remember who her parents were."
     claire sideSeanConcerned "我聽廣播說有人在樹林裡找到了一個失憶的小孩。不記得她父母是誰。"
 
 # game/sean12192024.rpy:3962
-translate chinese s12192019Claire_2e06bf45:
+translate Tchinese s12192019Claire_2e06bf45:
 
     # sean "And that was the stoat kid?"
     sean "就是那隻白鼬小孩？"
 
 # game/sean12192024.rpy:3965
-translate chinese s12192019Claire_e823d8db:
+translate Tchinese s12192019Claire_e823d8db:
 
     # claire "Bingo!"
     claire "賓果！"
 
 # game/sean12192024.rpy:3968
-translate chinese s12192019Claire_6be249bf:
+translate Tchinese s12192019Claire_6be249bf:
 
     # "She presses a seemingly random series of keys on the safe. It pops open."
     "她在保險箱上按了一串看似隨機的數字。它應聲打開了。"
 
 # game/sean12192024.rpy:3971
-translate chinese s12192019Claire_e078ead0:
+translate Tchinese s12192019Claire_e078ead0:
 
     # sean "Strange...{nw}"
     sean "奇怪……{nw}"
 
 # game/sean12192024.rpy:3972
-translate chinese s12192019Claire_9c62e064:
+translate Tchinese s12192019Claire_9c62e064:
 
     # sean sideSeanNeutral "Strange...{fast} Wait, how did you know the combo?"
     sean sideSeanNeutral "奇怪……{fast}等等，妳怎麼知道密碼的？"
 
 # game/sean12192024.rpy:3976
-translate chinese s12192019Claire_d88c7b8e:
+translate Tchinese s12192019Claire_d88c7b8e:
 
     # claire "All the safes in the hotel have a master combo. You're supposed to make your's unique, no one ever does."
     claire "旅館所有保險箱都有萬用密碼。房客應該改成自己的密碼，但沒人這麼做。"
 
 # game/sean12192024.rpy:3979
-translate chinese s12192019Claire_ef5b795a:
+translate Tchinese s12192019Claire_ef5b795a:
 
     # "She starts digging through it, and pulls out a cheap looking kid's phone."
     "她翻找保險箱，拿出一支看起來很廉價的兒童手機。"
 
 # game/sean12192024.rpy:3981
-translate chinese s12192019Claire_8a1b7afb:
+translate Tchinese s12192019Claire_8a1b7afb:
 
     # narrator sideSeanConcerned "Sliding a pad along it opens the phone."
     narrator sideSeanConcerned "滑一下觸控墊就開了。"
 
 # game/sean12192024.rpy:3982
-translate chinese s12192019Claire_fa22c8c2:
+translate Tchinese s12192019Claire_fa22c8c2:
 
     # "I walk up behind her and look down at the phone."
     "我走到她身後，低頭看手機。"
 
 # game/sean12192024.rpy:3984
-translate chinese s12192019Claire_c35e83b8:
+translate Tchinese s12192019Claire_c35e83b8:
 
     # "Inside are myriads of texts from 'Mom' saying things like:\n \"WHERE ARE YOU!?!!?!\", \"Chloe com bck!\", \"I primuse youre not in trougle\", and \"Your dad and I are worried. Please come back.\""
     "裡面滿是來自「媽媽」的訊息，像：\n「{b}妳在哪裡{/b}！？！？！」、「Chloe快回來！」、「我們不會怪妳的」，還有「妳爸和我很擔心。快回來吧。」"
 
 # game/sean12192024.rpy:3985
-translate chinese s12192019Claire_176d0730:
+translate Tchinese s12192019Claire_176d0730:
 
     # "Along with about ten missed calls over the course of an hour."
     "以及一小時內打來了十通左右的未接來電。"
 
 # game/sean12192024.rpy:3988
-translate chinese s12192019Claire_b3c6c6fb:
+translate Tchinese s12192019Claire_b3c6c6fb:
 
     # sean "That's not good."
     sean "這不太妙吧。"
 
 # game/sean12192024.rpy:3991
-translate chinese s12192019Claire_748f7d90:
+translate Tchinese s12192019Claire_748f7d90:
 
     # "Claire pushes down on the volume button."
     "Claire按下音量鍵。"
 
 # game/sean12192024.rpy:3995
-translate chinese s12192019Claire_b8999c2d:
+translate Tchinese s12192019Claire_b8999c2d:
 
     # claire "It was set to silent. That's probably why there are so many texts and calls..."
     claire "被設成靜音了。難怪有這麼多訊息和來電……"
 
 # game/sean12192024.rpy:3998
-translate chinese s12192019Claire_a22963db:
+translate Tchinese s12192019Claire_a22963db:
 
     # sean "Why was it in the safe though?"
     sean "但為什麼放在保險箱裡？"
 
 # game/sean12192024.rpy:4002
-translate chinese s12192019Claire_1d5718a0:
+translate Tchinese s12192019Claire_1d5718a0:
 
     # claire "It's a kid's phone. Parent's probably locked it up when they were going to bed."
     claire "這是兒童手機。父母大概在睡前鎖起來的。"
 
 # game/sean12192024.rpy:4003
-translate chinese s12192019Claire_904e1ff6:
+translate Tchinese s12192019Claire_904e1ff6:
 
     # claire "I guess they assumed that Chloe took it out and left to play on it."
     claire "我猜他們以為是Chloe拿出去玩了。"
 
 # game/sean12192024.rpy:4006
-translate chinese s12192019Claire_4a7ff226:
+translate Tchinese s12192019Claire_4a7ff226:
 
     # sean sideSeanNeutral "We should tell the cops. Did the kid at least remember her last name?"
     sean sideSeanNeutral "我們去告訴警察吧。那孩子有至少記得自己姓什麼嗎？"
 
 # game/sean12192024.rpy:4009
-translate chinese s12192019Claire_ed2bbefa:
+translate Tchinese s12192019Claire_ed2bbefa:
 
     # "Clair wipes the phone off on the bed. Then, using a blanket to hold the phone, she places it back in the safe."
     "Claire在床上擦拭手機。然後用毯子包好，放回保險箱。"
 
 # game/sean12192024.rpy:4012
-translate chinese s12192019Claire_55a112de:
+translate Tchinese s12192019Claire_55a112de:
 
     # claire "Maybe, Rocco will probably have to report this. I can see if it's the same last name as the person that booked this room."
     claire "或許吧，Rocco應該去報案。我可以查是不是跟訂房的人同姓。"
 
 # game/sean12192024.rpy:4024
-translate chinese s12192019Claire_cd62caf6:
+translate Tchinese s12192019Claire_cd62caf6:
 
     # narrator sideSeanNeutral "We walk out to the hall shaken at the idea of a missing family. Hopefully they're still in town."
     narrator sideSeanNeutral "我們來到走廊，為一家人離奇失蹤感到震撼。希望他們還在鎮上。"
 
 # game/sean12192024.rpy:4025
-translate chinese s12192019Claire_7138bd59:
+translate Tchinese s12192019Claire_7138bd59:
 
     # "She pulls out a sharpie from her messenger back and marks the key with a big check mark."
     "她從斜背包拿出簽字筆，在房卡上打一個大勾。"
 
 # game/sean12192024.rpy:4026
-translate chinese s12192019Claire_267934d1:
+translate Tchinese s12192019Claire_267934d1:
 
     # "The next door down is one 108."
     "下一間房是108。"
 
 # game/sean12192024.rpy:4027
-translate chinese s12192019Claire_ee0243cc:
+translate Tchinese s12192019Claire_ee0243cc:
 
     # "This time I do the knocking and all three times there is no response."
     "這次換我敲門，三次都沒人回應。"
 
 # game/sean12192024.rpy:4030
-translate chinese s12192019Claire_8173bf03:
+translate Tchinese s12192019Claire_8173bf03:
 
     # sean "Housekeeping! Coming in!"
     sean "客房清潔！打擾了！"
 
 # game/sean12192024.rpy:4042
-translate chinese s12192019Claire_c7bc3c9d:
+translate Tchinese s12192019Claire_c7bc3c9d:
 
     # narrator sideSeanNeutral "I slowly open the door, and am greeted to a familiar scene."
     narrator sideSeanNeutral "我緩緩開門，熟悉的景象映入眼簾。"
 
 # game/sean12192024.rpy:4043
-translate chinese s12192019Claire_aa3392c7:
+translate Tchinese s12192019Claire_aa3392c7:
 
     # "Like 114 the pillows are thrown about the floor. The bed sheets are tangled into each other and the comforter has been thrown to the ground."
     "跟114號房一樣，枕頭散落地板、床單纏在一起，被子也被丟到地上。"
 
 # game/sean12192024.rpy:4044
-translate chinese s12192019Claire_af2ecd45:
+translate Tchinese s12192019Claire_af2ecd45:
 
     # "A half eaten, heart shaped box of chocolates sits on top of the desk."
     "桌上放著吃了一半的愛心形巧克力盒。"
 
 # game/sean12192024.rpy:4046
-translate chinese s12192019Claire_b52826bc:
+translate Tchinese s12192019Claire_b52826bc:
 
     # "Claire and I begin looking for anything of note. I find a satchel hanging up in the closet with a black sun hat resting with it on a hook."
     "Claire和我開始找值得注意的東西。我發現衣櫥裡掛著一個背包，旁邊鉤子上掛著一頂黑色遮陽帽。"
 
 # game/sean12192024.rpy:4047
-translate chinese s12192019Claire_c28502d0:
+translate Tchinese s12192019Claire_c28502d0:
 
     # "Inside the satchel is a locket with a snow leopard and a red squirrel."
     "背包裡有一條掛墜，裡面有一張雪豹和紅松鼠的照片。"
 
 # game/sean12192024.rpy:4050
-translate chinese s12192019Claire_460e1947:
+translate Tchinese s12192019Claire_460e1947:
 
     # sean "I think I found the people who're staying in this room."
     sean "我好像找到住這間房的人是誰了。"
 
 # game/sean12192024.rpy:4053
-translate chinese s12192019Claire_36f6d591:
+translate Tchinese s12192019Claire_36f6d591:
 
     # claire "I think I found why they're not here."
     claire "我好像知道他們為什麼不在了。"
 
 # game/sean12192024.rpy:4057
-translate chinese s12192019Claire_5a17786a:
+translate Tchinese s12192019Claire_5a17786a:
 
     # "Tucked away in the desk, Claire pulls out a small box. Inside is an ornate ring with a beautiful onyx in it."
     "Claire從桌裡掏出一個小盒子。裡面有一枚精緻的戒指，鑲著美麗的黑瑪瑙。"
 
 # game/sean12192024.rpy:4060
-translate chinese s12192019Claire_5b4fec2e:
+translate Tchinese s12192019Claire_5b4fec2e:
 
     # claire sideSeanSmile "Squirrel dude's gonna propose. They're probably at brunch or something."
     claire sideSeanSmile "松鼠哥要求婚了。他們大概是去吃早午餐之類的。"
 
 # game/sean12192024.rpy:4063
-translate chinese s12192019Claire_4e07b10e:
+translate Tchinese s12192019Claire_4e07b10e:
 
     # "Claire waves a note card in her other paw. Then slides the two back in."
     "Claire揮了揮另一隻爪中的記事卡。然後把兩樣東西塞回去。"
 
 # game/sean12192024.rpy:4067
-translate chinese s12192019Claire_0decc70e:
+translate Tchinese s12192019Claire_0decc70e:
 
     # claire sideSeanNeutral "We should get out of here before they come back."
     claire sideSeanNeutral "在他們回來前快走吧。"
 
 # game/sean12192024.rpy:4070
-translate chinese s12192019Claire_92cc48d4:
+translate Tchinese s12192019Claire_92cc48d4:
 
     # "I agree and put the locket back in the satchel. We both wish them luck in their romantic pursuit and head out the door."
     "我同意，把掛墜放回背包。我們倆祝他們感情順遂，便離開了房間。"
 
 # game/sean12192024.rpy:4082
-translate chinese s12192024Claire_022c091f:
+translate Tchinese s12192024Claire_022c091f:
 
     # narrator sideSeanNeutral "We quickly go through the rest of the rooms. They all have something that belongs to someone. 102, our last room, had a surprise for us."
     narrator sideSeanNeutral "我們快速查完剩下的房間。每間都有私人物品。最後一間，102號房給了我們一道驚喜。"
 
 # game/sean12192024.rpy:4100
-translate chinese s12192019Claire_1ba6f75f:
+translate Tchinese s12192019Claire_1ba6f75f:
 
     # narrator sideSeanScared "We're immediately greeted with a waft of something rancid. On the bed I see a container of take out spilled over it."
     narrator sideSeanScared "一股腐臭味撲鼻而來。我看到外賣容器灑了一床。"
 
 # game/sean12192024.rpy:4101
-translate chinese s12192019Claire_f1910217:
+translate Tchinese s12192019Claire_f1910217:
 
     # "Flies circle the box pecking at the rice. Though takeout should not smell this bad."
     "蒼蠅圍繞著盒子蠶食米飯。外賣不該臭成這樣啊。"
 
 # game/sean12192024.rpy:4102
-translate chinese s12192019Claire_f6fde703:
+translate Tchinese s12192019Claire_f6fde703:
 
     # "I do my best to hold back vomit as I try to get a better look at the room. Claire is not as lucky as I am."
     "我盡力忍著不吐出來，好仔細觀察房間。Claire就沒這麼幸運了。"
 
 # game/sean12192024.rpy:4105
-translate chinese s12192019Claire_cb8115cc:
+translate Tchinese s12192019Claire_cb8115cc:
 
     # claire "What... the fuck... has Hank... been doing."
     claire "他媽的……Hank……到底……有沒有在做事啊？"
 
 # game/sean12192024.rpy:4108
-translate chinese s12192019Claire_14b7ead9:
+translate Tchinese s12192019Claire_14b7ead9:
 
     # sean "No... idea."
     sean "誰……知道。"
 
 # game/sean12192024.rpy:4111
-translate chinese s12192019Claire_7782aa86:
+translate Tchinese s12192019Claire_7782aa86:
 
     # "I drape my shirt over my nose, hoping it'll block some of the stench."
     "我用衣服蓋住鼻頭，希望能擋住一點臭味。"
 
 # game/sean12192024.rpy:4112
-translate chinese s12192019Claire_385ce674:
+translate Tchinese s12192019Claire_385ce674:
 
     # "It does not."
     "並不能。"
 
 # game/sean12192024.rpy:4113
-translate chinese s12192019Claire_54083234:
+translate Tchinese s12192019Claire_54083234:
 
     # "I look on the desk across from the bed and find a massive styrofoam container of rotting shrimp."
     "我看向床對面的桌子，發現一個裝滿腐爛蝦子的巨大保麗龍盒。"
 
 # game/sean12192024.rpy:4116
-translate chinese s12192019Claire_3850cf00:
+translate Tchinese s12192019Claire_3850cf00:
 
     # sean "Found our culprit."
     sean "找到元兇了。"
 
 # game/sean12192024.rpy:4119
-translate chinese s12192019Claire_87ed8010:
+translate Tchinese s12192019Claire_87ed8010:
 
     # "Claire has already rushed over to the window and opens it up."
     "Claire已經衝到窗邊打開了窗戶。"
 
 # game/sean12192024.rpy:4120
-translate chinese s12192019Claire_b0710981:
+translate Tchinese s12192019Claire_b0710981:
 
     # "Taking in a breath of fresh air before it's contaminated."
     "大吸一口還沒被污染的新鮮空氣。"
 
 # game/sean12192024.rpy:4121
-translate chinese s12192019Claire_653d2d40:
+translate Tchinese s12192019Claire_653d2d40:
 
     # "With the room's complimentary note pad I push the rotting sea food into the trash can and quickly tie it up."
     "我用房間附的便條紙把腐爛的海鮮刷進垃圾桶，快速綁好。"
 
 # game/sean12192024.rpy:4124
-translate chinese s12192019Claire_924022fe:
+translate Tchinese s12192019Claire_924022fe:
 
     # sean "let's go to the second floor. Hank can deal with this."
     sean "我們去二樓吧。這間就交給Hank處理。"
 
 # game/sean12192024.rpy:4127
-translate chinese s12192019Claire_3ce6f2e7:
+translate Tchinese s12192019Claire_3ce6f2e7:
 
     # claire "Please."
     claire "那肯定的。"
 
 # game/sean12192024.rpy:4130
-translate chinese s12192019Claire_5d977bf4:
+translate Tchinese s12192019Claire_5d977bf4:
 
     # "I make a note of 'stinky' on the card and mark it as inhabited."
     "我在房卡上註記了「臭」，標記為有人住。"
 
 # game/sean12192024.rpy:4140
-translate chinese s12192019Claire_36f516c7:
+translate Tchinese s12192019Claire_36f516c7:
 
     # narrator sideSeanNeutral "We then make our way to the second floor."
     narrator sideSeanNeutral "接著我們前往二樓。"
 
 # game/sean12192024.rpy:4141
-translate chinese s12192019Claire_933e3f53:
+translate Tchinese s12192019Claire_933e3f53:
 
     # "As we're walking up I notice an orange, white, and purple pin on her messenger bag."
     "走上樓時，我注意到她斜背包上有一個橘、白、紫色相間的徽章。"
 
 # game/sean12192024.rpy:4147
-translate chinese s12192019Claire_1d75290c:
+translate Tchinese s12192019Claire_1d75290c:
 
     # sean "Are you a lesbian?"
     sean "你是拉拉嗎？"
 
 # game/sean12192024.rpy:4151
-translate chinese s12192019Claire_f0eba10d:
+translate Tchinese s12192019Claire_f0eba10d:
 
     # claire sideSeanConcerned "Oh fuck! I forgot to take that off."
     claire sideSeanConcerned "喔靠！我忘了拿下來。"
 
 # game/sean12192024.rpy:4154
-translate chinese s12192019Claire_4a4eb87d:
+translate Tchinese s12192019Claire_4a4eb87d:
 
     # "She stops mid flight and begins to fiddle with the pin trying to take it off."
     "她在樓梯中段停下，開始把弄徽章，想要拿下來。"
 
 # game/sean12192024.rpy:4158
-translate chinese s12192019Claire_bd50e71b:
+translate Tchinese s12192019Claire_bd50e71b:
 
     # sean sideSeanSmile "No, no it's cool! I'm gay."
     sean sideSeanSmile "沒事，不要緊！我是gay。"
 
 # game/sean12192024.rpy:4161
-translate chinese s12192019Claire_31996795:
+translate Tchinese s12192019Claire_31996795:
 
     # "She pauses and gives me a confused look."
     "她停下動作，疑惑地望著我。"
 
 # game/sean12192024.rpy:4164
-translate chinese s12192019Claire_db8b12e3:
+translate Tchinese s12192019Claire_db8b12e3:
 
     # claire sideSeanNeutral "How? This is one of the more conservative towns in a hundred miles."
     claire sideSeanNeutral "怎麼可能？這是方圓百里最保守的小鎮之一耶。"
 
 # game/sean12192024.rpy:4165
-translate chinese s12192019Claire_18a9a280:
+translate Tchinese s12192019Claire_18a9a280:
 
     # claire "The church is constantly on the news for the hateful shit they spit out."
     claire "教堂還因為噴了太多仇恨言論，常常上新聞。"
 
 # game/sean12192024.rpy:4168
-translate chinese s12192019Claire_1e3f65f4:
+translate Tchinese s12192019Claire_1e3f65f4:
 
     # "I chuckle at that."
     "我對此輕笑。"
 
 # game/sean12192024.rpy:4171
-translate chinese s12192019Claire_77ad598f:
+translate Tchinese s12192019Claire_77ad598f:
 
     # sean "It's not all that bad."
     sean "沒那麼糟啦。"
 
 # game/sean12192024.rpy:4175
-translate chinese s12192019Claire_bbb8b6ed:
+translate Tchinese s12192019Claire_bbb8b6ed:
 
     # claire "Not bad? A kid offed himself because he was outed."
     claire "不糟？都有個小孩因為被出櫃而自殺了。"
 
 # game/sean12192024.rpy:4178
-translate chinese s12192019Claire_bcccd0f6:
+translate Tchinese s12192019Claire_bcccd0f6:
 
     # narrator sideSeanSad2 "Word about Casey made it out of town..."
     narrator sideSeanSad2 "Casey的事都傳到鎮外了……"
 
 # game/sean12192024.rpy:4180
-translate chinese s12192019Claire_f2b947ce:
+translate Tchinese s12192019Claire_f2b947ce:
 
     # narrator sideSeanSad "I can't look at her. I'm frozen on the staircase."
     narrator sideSeanSad "我沒眼看她。整個人僵在樓梯上。"
 
 # game/sean12192024.rpy:4184
-translate chinese s12192019Claire_094afa4c:
+translate Tchinese s12192019Claire_094afa4c:
 
     # sean "I know I was his... boyfriend... at the time."
     sean "我知道。我就是他……當時的……男朋友。"
 
 # game/sean12192024.rpy:4187
-translate chinese s12192019Claire_c442c98d:
+translate Tchinese s12192019Claire_c442c98d:
 
     # "It's hard to say those words. Even if I missed calling him that."
     "這話很難說出口。哪怕我很懷念這樣稱呼他。"
 
 # game/sean12192024.rpy:4188
-translate chinese s12192019Claire_7d55d07f:
+translate Tchinese s12192019Claire_7d55d07f:
 
     # "The town had gotten better after he died. Though, she is right."
     "在他死後，小鎮是有所改善。不過，她說得對。"
 
 # game/sean12192024.rpy:4189
-translate chinese s12192019Claire_1636cdab:
+translate Tchinese s12192019Claire_1636cdab:
 
     # narrator sideSeanConcerned "Even if they got better, it's still not good enough to be open about it. I doubt anyone would recognize the lesbian flag."
     narrator sideSeanConcerned "就算有所改善，也不足以讓人開誠布公。我是不覺得有人會認得拉拉旗幟啦。"
 
 # game/sean12192024.rpy:4190
-translate chinese s12192019Claire_bf0a0463:
+translate Tchinese s12192019Claire_bf0a0463:
 
     # narrator sideSeanScared "If she had a rainbow one, that would be a problem."
     narrator sideSeanScared "如果她戴的是彩虹旗，那就要出問題了。"
 
 # game/sean12192024.rpy:4194
-translate chinese s12192019Claire_d6946eae:
+translate Tchinese s12192019Claire_d6946eae:
 
     # claire sideSeanConcerned "I'm sor- I didn't... do your friends know you're?"
     claire sideSeanConcerned "我很抱、我不……你朋友知道你是嗎？"
 
 # game/sean12192024.rpy:4197
-translate chinese s12192019Claire_e62d431a:
+translate Tchinese s12192019Claire_e62d431a:
 
     # sean sideSeanSad "They all do. Some folk in town too. Hell, Rocco was the one who convinced Casey and I to get together..."
     sean sideSeanSad "他們都知道。鎮上有些人也知道。哎，Rocco還是說服我倆在一起的人……"
 
 # game/sean12192024.rpy:4201
-translate chinese s12192019Claire_7709f191:
+translate Tchinese s12192019Claire_7709f191:
 
     # claire "And, you're safe?"
     claire "那，你安全嗎？"
 
 # game/sean12192024.rpy:4204
-translate chinese s12192019Claire_34a26cfc:
+translate Tchinese s12192019Claire_34a26cfc:
 
     # "I don't respond."
     "我沒回話。"
 
 # game/sean12192024.rpy:4205
-translate chinese s12192019Claire_f7c0dedc:
+translate Tchinese s12192019Claire_f7c0dedc:
 
     # "I mean I'm an adult. The most I get is an odd look from those who know."
     "我都成年了。通常不過是被知道的人陰陽怪氣地瞅一眼。"
 
 # game/sean12192024.rpy:4206
-translate chinese s12192019Claire_a16fd2df:
+translate Tchinese s12192019Claire_a16fd2df:
 
     # "Things have, slowly, been getting better."
     "事情有在慢慢進步。"
 
 # game/sean12192024.rpy:4208
-translate chinese s12192019Claire_8fc149f4:
+translate Tchinese s12192019Claire_8fc149f4:
 
     # "It's still a fine line."
     "雖然還是很微妙。"
 
 # game/sean12192024.rpy:4209
-translate chinese s12192019Claire_c2863f1b:
+translate Tchinese s12192019Claire_c2863f1b:
 
     # "I avoid walking around town by myself, but it feels like it's gotten better."
     "我會避免一個人走在街上，但感覺是有好轉。"
 
 # game/sean12192024.rpy:4210
-translate chinese s12192019Claire_1ca30f88:
+translate Tchinese s12192019Claire_1ca30f88:
 
     # "Pride month is always taxing..."
     "驕傲月就很累人了……"
 
 # game/sean12192024.rpy:4211
-translate chinese s12192019Claire_b2b5f6c9:
+translate Tchinese s12192019Claire_b2b5f6c9:
 
     # "I hear Claire fishing through her bag."
     "我聽到Claire在包裡翻東西。"
 
 # game/sean12192024.rpy:4215
-translate chinese s12192019Claire_0e89aed4:
+translate Tchinese s12192019Claire_0e89aed4:
 
     # claire "I know some people who can help-"
     claire "我認識一些能幫忙的人——"
 
 # game/sean12192024.rpy:4218
-translate chinese s12192019Claire_6a88e7a8:
+translate Tchinese s12192019Claire_6a88e7a8:
 
     # sean sideSeanNeutral "We're fine."
     sean sideSeanNeutral "我們沒事的。"
 
 # game/sean12192024.rpy:4221
-translate chinese s12192019Claire_a7325c16:
+translate Tchinese s12192019Claire_a7325c16:
 
     # "I feel a paw rest on my shoulder. I turn to face Claire and I'm pulled into a hug."
     "一隻爪子搭在我肩上。我轉向Claire，被她拉進懷抱。"
 
 # game/sean12192024.rpy:4222
-translate chinese s12192019Claire_9a7cda94:
+translate Tchinese s12192019Claire_9a7cda94:
 
     # narrator sideSeanSad2 "I've never been hugged by a winged species before."
     narrator sideSeanSad2 "我從來沒被有翼種抱過。"
 
 # game/sean12192024.rpy:4223
-translate chinese s12192019Claire_0c4c5687:
+translate Tchinese s12192019Claire_0c4c5687:
 
     # "There's this all encompassing warmth as her leathery wings wrap around me."
     "她皮革般的翅膀包覆住我，帶來全方位的溫暖。"
 
 # game/sean12192024.rpy:4227
-translate chinese s12192019Claire_398a42d6:
+translate Tchinese s12192019Claire_398a42d6:
 
     # claire sideSeanConcerned "Sorry... I just don't know how I would be without Hailey."
     claire sideSeanConcerned "抱歉……我都沒法想像，自己沒了Hailey陪著會怎樣。"
 
 # game/sean12192024.rpy:4228
-translate chinese s12192019Claire_b25fb61c:
+translate Tchinese s12192019Claire_b25fb61c:
 
     # claire "We've both gotten close."
     claire "我們也曾經差點就……"
 
 # game/sean12192024.rpy:4229
-translate chinese s12192019Claire_713d8edd:
+translate Tchinese s12192019Claire_713d8edd:
 
     # claire "It's hard, I know, and it seems like it's only getting harder."
     claire "我知道這種人生很難，而且好像越來越難了。"
 
 # game/sean12192024.rpy:4233
-translate chinese s12192019Claire_892c6c15:
+translate Tchinese s12192019Claire_892c6c15:
 
     # sean sideSeanSad "I wish it wasn't."
     sean sideSeanSad "真希望事情不是這樣的。"
 
 # game/sean12192024.rpy:4236
-translate chinese s12192019Claire_2d16f82b:
+translate Tchinese s12192019Claire_2d16f82b:
 
     # "It's hard to not choke on my words."
     "說話很難不哽咽。"
 
 # game/sean12192024.rpy:4237
-translate chinese s12192019Claire_f0878f15:
+translate Tchinese s12192019Claire_f0878f15:
 
     # "Everything just builds up over time."
     "一切都隨著時間逐漸堆積。"
 
 # game/sean12192024.rpy:4238
-translate chinese s12192019Claire_ffeba930:
+translate Tchinese s12192019Claire_ffeba930:
 
     # "Every time I break; I feel like I finally let everything out."
     "每次我崩潰，感覺就像終於把一切都釋放出來了。"
 
 # game/sean12192024.rpy:4239
-translate chinese s12192019Claire_cd9937ec:
+translate Tchinese s12192019Claire_cd9937ec:
 
     # "Then I'm fine. I can start fixing myself."
     "然後我就好了。可以開始修復自己。"
 
 # game/sean12192024.rpy:4240
-translate chinese s12192019Claire_bb611134:
+translate Tchinese s12192019Claire_bb611134:
 
     # "Something else comes in and I'm a mess again."
     "然後又撞到其他事，我就又一團糟。"
 
 # game/sean12192024.rpy:4241
-translate chinese s12192019Claire_4451431d:
+translate Tchinese s12192019Claire_4451431d:
 
     # "Why can't I just be normal?"
     "我怎麼就不能當個正常人？"
 
 # game/sean12192024.rpy:4244
-translate chinese s12192019Claire_bf40c2ab:
+translate Tchinese s12192019Claire_bf40c2ab:
 
     # sean "Well... maybe after this mess is over we could have our groups meet up.{nw}"
     sean "嗯……等這麻煩事搞完後，我們一夥人或許可以聚聚。{nw}"
 
 # game/sean12192024.rpy:4248
-translate chinese s12192019Claire_3715ff6b:
+translate Tchinese s12192019Claire_3715ff6b:
 
     # sean sideSeanSmile "Well... maybe after this mess is over we could have our groups meet up.{fast} Solidarity in numbers."
     sean sideSeanSmile "嗯……等這麻煩事搞完後，我們一夥人或許可以聚聚。{fast}人多力量大。"
 
 # game/sean12192024.rpy:4251
-translate chinese s12192019Claire_cfe97980:
+translate Tchinese s12192019Claire_cfe97980:
 
     # "Claire wipes her eyes."
     "Claire擦擦眼睛。"
 
 # game/sean12192024.rpy:4255
-translate chinese s12192019Claire_4b017db5:
+translate Tchinese s12192019Claire_4b017db5:
 
     # claire "Yeah, sounds like fun! We should get back to work. Don't want everyone else waiting on us."
     claire "嗯，感覺會很有意思！我們該回到正事上了。讓其他人乾等不太好。"
 
 # game/sean12192024.rpy:4258
-translate chinese s12192019Claire_7d5f0104:
+translate Tchinese s12192019Claire_7d5f0104:
 
     # "I try to fill my voice with optimism."
     "我努力讓聲音充滿樂觀。"
 
 # game/sean12192024.rpy:4261
-translate chinese s12192019Claire_7bf5de77:
+translate Tchinese s12192019Claire_7bf5de77:
 
     # sean "Yeah."
     sean "對。"
 
 # game/sean12192024.rpy:4273
-translate chinese s12192019Claire_ec373d13:
+translate Tchinese s12192019Claire_ec373d13:
 
     # narrator sideSeanNeutral "We finish our trek to the second floor."
     narrator sideSeanNeutral "我們終於來到二樓。"
 
 # game/sean12192024.rpy:4274
-translate chinese s12192019Claire_4ca9da81:
+translate Tchinese s12192019Claire_4ca9da81:
 
     # "As we start knocking, only one person answers their door. Claire explains the whole situation and apologizes for the inconvenience."
     "我們開始敲門，只有一個人應門。Claire解釋了來龍去脈，並為打擾而道歉。"
 
 # game/sean12192024.rpy:4275
-translate chinese s12192019Claire_f6a03068:
+translate Tchinese s12192019Claire_f6a03068:
 
     # "The rest of the rooms show that someone was there. These ones mostly have broadcast equipment in them."
     "剩下的房間都有人住過的跡象。大多有廣播器材。"
 
 # game/sean12192024.rpy:4276
-translate chinese s12192019Claire_c76c4b56:
+translate Tchinese s12192019Claire_c76c4b56:
 
     # "The last room, however, catches us both off guard."
     "不過最後一間出乎了我們的意料。"
 
 # game/sean12192024.rpy:4288
-translate chinese s12192019Claire_7782151c:
+translate Tchinese s12192019Claire_7782151c:
 
     # narrator sideSeanNeutral "It has a tray with various rocks on it, strange machines hooked up to a computer, and various other devices littered around the room."
     narrator sideSeanNeutral "有個托盤上放著各種岩石，一堆奇特的機器連著一台電腦，其他各種裝置散落地板。"
 
 # game/sean12192024.rpy:4289
-translate chinese s12192019Claire_47641fa0:
+translate Tchinese s12192019Claire_47641fa0:
 
     # narrator sideSeanScared "On top of that a rotting bottle of ranch is spilled over a half eaten pizza. I gingerly start shoveling slices into a trash bag."
     narrator sideSeanScared "在此之上，還有個吃到一半的披薩，上面灑了瓶發霉的田園沙拉醬。我小心地把披薩片鏟進垃圾袋。"
 
 # game/sean12192024.rpy:4290
-translate chinese s12192019Claire_5c5dfea6:
+translate Tchinese s12192019Claire_5c5dfea6:
 
     # "Trying to avoid touching the festering pile of ranch."
     "避免碰到發酵的醬。"
 
 # game/sean12192024.rpy:4294
-translate chinese s12192019Claire_6afd9f6e:
+translate Tchinese s12192019Claire_6afd9f6e:
 
     # claire sideSeanNeutral "Who the fuck doesn't keep a password on their laptop?"
     claire sideSeanNeutral "誰他媽不給筆電設密碼啊？"
 
 # game/sean12192024.rpy:4297
-translate chinese s12192019Claire_5a3fdbf4:
+translate Tchinese s12192019Claire_5a3fdbf4:
 
     # "Claire shouts out from the desk."
     "Claire在桌邊大喊。"
 
 # game/sean12192024.rpy:4300
-translate chinese s12192019Claire_53e1dd18:
+translate Tchinese s12192019Claire_53e1dd18:
 
     # sean "What are you doing?"
     sean "妳在幹嘛？"
 
 # game/sean12192024.rpy:4304
-translate chinese s12192019Claire_e9560c0f:
+translate Tchinese s12192019Claire_e9560c0f:
 
     # "Claire points to the equipment in the room."
     "Claire指向房裡的器材。"
 
 # game/sean12192024.rpy:4307
-translate chinese s12192019Claire_2eab6d32:
+translate Tchinese s12192019Claire_2eab6d32:
 
     # claire "That's survey equipment. I did a gig updating a parser for one of those old machines."
     claire "那是測量儀器。我接過個案子，要更新其中一台老機器的解析器。"
 
 # game/sean12192024.rpy:4308
-translate chinese s12192019Claire_31be8eef:
+translate Tchinese s12192019Claire_31be8eef:
 
     # claire "This must be the room of whatever geologist they hired to investigate the hole."
     claire "這一定是他們請來調查天坑的地質學家的房間。"
 
 # game/sean12192024.rpy:4311
-translate chinese s12192019Claire_c3ebd66e:
+translate Tchinese s12192019Claire_c3ebd66e:
 
     # sean "So you're just going to break into their computer?"
     sean "所以你是要直接動他們的電腦？"
 
 # game/sean12192024.rpy:4314
-translate chinese s12192019Claire_d7335806:
+translate Tchinese s12192019Claire_d7335806:
 
     # claire "If you leave a door unlocked is it illegal if I open it and enter?{w}\nYes."
     claire "如果你門沒鎖，我直接開門進去算違法嗎？{w}\n算。"
 
 # game/sean12192024.rpy:4315
-translate chinese s12192019Claire_5a9a79e8:
+translate Tchinese s12192019Claire_5a9a79e8:
 
     # claire "However, I can't not see if they have any info on that crazy hole."
     claire "不過，我可不能不找找他們有沒有那鬼天坑的任何資訊。"
 
 # game/sean12192024.rpy:4318
-translate chinese s12192019Claire_90bbbde7:
+translate Tchinese s12192019Claire_90bbbde7:
 
     # "I walk up behind her as she pulls something up."
     "她點開東西時，我走到她後面。"
 
 # game/sean12192024.rpy:4321
-translate chinese s12192019Claire_15f335c5:
+translate Tchinese s12192019Claire_15f335c5:
 
     # claire sideSeanConcerned "This video is from Monday. Maybe it can tell us what's going on."
     claire sideSeanConcerned "這段影像是星期一的。也許能讓我們搞清楚現況。"
 
 # game/sean12192024.rpy:4324
-translate chinese s12192019Claire_b2fafebc:
+translate Tchinese s12192019Claire_b2fafebc:
 
     # "She pulls up the video and turns up the volume. I have to admit, I'm also curious. What has been happening?"
     "她拉出影片並把音量調大。我得承認，我也很好奇。現在到底什麼情況？"
 
 # game/sean12192024.rpy:4330
-translate chinese s12192019Claire_76b2fe88:
+translate Tchinese s12192019Claire_76b2fe88:
 
     # nvl clear
     nvl clear
 
 # game/sean12192024.rpy:4332
-translate chinese s12192019Claire_b6829f6f:
+translate Tchinese s12192019Claire_b6829f6f:
 
     # camPerson2 sideSeanConcerned "Yes I'm fucking recording."
     camPerson2 sideSeanConcerned "對啦，我她媽在錄了。"
 
 # game/sean12192024.rpy:4334
-translate chinese s12192019Claire_c4b53eca:
+translate Tchinese s12192019Claire_c4b53eca:
 
     # nulln "The camera points down the mountain, past a german shepherd, to main street."
     nulln "鏡頭從山上俯瞰，越過一隻德國牧羊犬，對準主要大街。"
 
 # game/sean12192024.rpy:4336
-translate chinese s12192019Claire_d45c1937:
+translate Tchinese s12192019Claire_d45c1937:
 
     # nulln sideSeanScared "The road is concave."
     nulln sideSeanScared "路面凹陷。"
 
 # game/sean12192024.rpy:4337
-translate chinese s12192019Claire_f86f8515:
+translate Tchinese s12192019Claire_f86f8515:
 
     # nulln "Like some invisible ball is pressing down on it."
     nulln "像有顆隱形的球體壓在上面。"
 
 # game/sean12192024.rpy:4338
-translate chinese s12192019Claire_ef6e303e:
+translate Tchinese s12192019Claire_ef6e303e:
 
     # nulln sideSeanConcerned "Cars stop at its edge."
     nulln sideSeanConcerned "車輛停在其邊緣。"
 
 # game/sean12192024.rpy:4339
-translate chinese s12192019Claire_3e5b779a:
+translate Tchinese s12192019Claire_3e5b779a:
 
     # nulln "A couple people come out to investigate, but they're too far away to recognize."
     nulln "一些人下車調查，但太遠了，認不出面貌。"
 
 # game/sean12192024.rpy:4342
-translate chinese s12192019Claire_c1843773:
+translate Tchinese s12192019Claire_c1843773:
 
     # shep "What the hell?"
     shep "什麼鬼？"
 
 # game/sean12192024.rpy:4344
-translate chinese s12192019Claire_88b9b065:
+translate Tchinese s12192019Claire_88b9b065:
 
     # nulln "Large cracks start to form in the road. Small patches of black eat away at the asphalt as bits fall down into a deep abyss."
     nulln "路上開了幾道大裂縫。黑色斑塊侵蝕著柏油路，碎片掉進深淵。"
 
 # game/sean12192024.rpy:4345
-translate chinese s12192019Claire_ff10479b:
+translate Tchinese s12192019Claire_ff10479b:
 
     # nvl clear
     # nulln "The town is silent as the pair just watch."
@@ -8281,481 +8281,481 @@ translate chinese s12192019Claire_ff10479b:
     nulln "小鎮靜謐，而兩人只是看著。"
 
 # game/sean12192024.rpy:4348
-translate chinese s12192019Claire_20dbd531:
+translate Tchinese s12192019Claire_20dbd531:
 
     # nulln sideSeanScared "In an instant the ground gives way."
     nulln sideSeanScared "地面瞬間塌陷。"
 
 # game/sean12192024.rpy:4349
-translate chinese s12192019Claire_926123b0:
+translate Tchinese s12192019Claire_926123b0:
 
     # nulln "With the road, chunks of the sidewalk and a nearby parking lot fall in."
     nulln "大半人行道和附近的停車場連著路面坍塌。"
 
 # game/sean12192024.rpy:4352
-translate chinese s12192019Claire_0eb9e8c0:
+translate Tchinese s12192019Claire_0eb9e8c0:
 
     # nulln sideSeanConcerned "The hole that we're now familiar with has opened up."
     nulln sideSeanConcerned "我們現在熟知的那個天坑就此開啟。"
 
 # game/sean12192024.rpy:4353
-translate chinese s12192019Claire_46a9765a:
+translate Tchinese s12192019Claire_46a9765a:
 
     # nulln sideSeanNeutral "Thankfully it looks like no one fell in with the road."
     nulln sideSeanNeutral "幸好看沒人跟道路一起掉進去。"
 
 # game/sean12192024.rpy:4355
-translate chinese s12192019Claire_3442dab6:
+translate Tchinese s12192019Claire_3442dab6:
 
     # camPerson2 sideSeanConcerned "Why the hell would a sinkhole form on the side of the Appalachians?"
     camPerson2 sideSeanConcerned "阿帕拉契山側怎麼就開了個天坑啊？"
 
 # game/sean12192024.rpy:4357
-translate chinese s12192019Claire_f9de7f29:
+translate Tchinese s12192019Claire_f9de7f29:
 
     # nulln "The german shepherd shrugs."
     nulln "德國牧羊犬聳肩。"
 
 # game/sean12192024.rpy:4359
-translate chinese s12192019Claire_5baf5cd2:
+translate Tchinese s12192019Claire_5baf5cd2:
 
     # shep sideSeanNeutral "Sounds like a more interesting thesis than mountain samples. We should talk to the professor!"
     shep sideSeanNeutral "把這拿來寫論文感覺比山脈樣本有趣多了。我們去找教授吧！"
 
 # game/sean12192024.rpy:4361
-translate chinese s12192019Claire_76b2fe88_1:
+translate Tchinese s12192019Claire_76b2fe88_1:
 
     # nvl clear
     nvl clear
 
 # game/sean12192024.rpy:4363
-translate chinese s12192019Claire_eaa5a7ba:
+translate Tchinese s12192019Claire_eaa5a7ba:
 
     # camPerson2 "No dude, I think this is way beyond our project."
     camPerson2 "不行啦，這遠超過我們的研究項目了。"
 
 # game/sean12192024.rpy:4365
-translate chinese s12192019Claire_d4c995a3:
+translate Tchinese s12192019Claire_d4c995a3:
 
     # shep "Well c'mon let's go check it out!"
     shep "來嘛，就去看看！"
 
 # game/sean12192024.rpy:4367
-translate chinese s12192019Claire_fda7d8ba:
+translate Tchinese s12192019Claire_fda7d8ba:
 
     # nulln "The german shepherd begins running down the mountain towards main street."
     nulln "德國牧羊犬邁步跑下山，朝主要大街去。"
 
 # game/sean12192024.rpy:4370
-translate chinese s12192019Claire_dd06a84d:
+translate Tchinese s12192019Claire_dd06a84d:
 
     # camPerson2 sideSeanConcerned "Wait! Hold up man!"
     camPerson2 sideSeanConcerned "等等！慢點啊哥們！"
 
 # game/sean12192024.rpy:4372
-translate chinese s12192019Claire_c67b657e:
+translate Tchinese s12192019Claire_c67b657e:
 
     # nulln "The video ends."
     nulln "影片結束。"
 
 # game/sean12192024.rpy:4378
-translate chinese s12192019Claire_f528a2f2:
+translate Tchinese s12192019Claire_f528a2f2:
 
     # narrator sideSeanScared "We both stay there for a moment wide eyed."
     narrator sideSeanScared "我們倆目瞪口呆了一小會。"
 
 # game/sean12192024.rpy:4382
-translate chinese s12192019Claire_74455b75:
+translate Tchinese s12192019Claire_74455b75:
 
     # claire sideSeanConcerned "So... that's how the hole happened."
     claire sideSeanConcerned "所以……天坑就是這樣形成的。"
 
 # game/sean12192024.rpy:4385
-translate chinese s12192019Claire_2f79160d:
+translate Tchinese s12192019Claire_2f79160d:
 
     # sean "Creepy."
     sean "好恐怖。"
 
 # game/sean12192024.rpy:4388
-translate chinese s12192019Claire_ef23a677:
+translate Tchinese s12192019Claire_ef23a677:
 
     # claire "Was it just me or did it look like a paw came up from the earth and pulled it in?"
     claire "是只有我嗎，還是看起來像地裡伸出了一隻爪，把地面拉進去的？"
 
 # game/sean12192024.rpy:4391
-translate chinese s12192019Claire_4b3819db:
+translate Tchinese s12192019Claire_4b3819db:
 
     # sean "I saw darkness slowly eating away at it..."
     sean "我是看到黑暗漸漸吞噬……"
 
 # game/sean12192024.rpy:4394
-translate chinese s12192019Claire_5de96228:
+translate Tchinese s12192019Claire_5de96228:
 
     # "I don't know any other way to describe it. The two people in the video seemed like geologists."
     "我不知道還有什麼其他方式能形容。影片中的兩人似乎是地質學家。"
 
 # game/sean12192024.rpy:4395
-translate chinese s12192019Claire_aa6046ea:
+translate Tchinese s12192019Claire_aa6046ea:
 
     # "I don't know what goes into rocks and stuff, but if they were stumped then how the hell should I explain it."
     "我對岩石不太清楚，但如果連他們都搞不懂，那我是要怎麼解釋？"
 
 # game/sean12192024.rpy:4396
-translate chinese s12192019Claire_ca656867:
+translate Tchinese s12192019Claire_ca656867:
 
     # "Though it's not like they had much time to think about it."
     "不過他們也沒多少時間思考。"
 
 # game/sean12192024.rpy:4400
-translate chinese s12192019Claire_70e07694:
+translate Tchinese s12192019Claire_70e07694:
 
     # claire "Welp, we can talk about that with the group. Mark the card and let's skedaddle."
     claire "唔，我們去跟大夥討論好了。標好房卡走人吧。"
 
 # game/sean12192024.rpy:4425
-translate chinese s12192019Claire_64772dd0:
+translate Tchinese s12192019Claire_64772dd0:
 
     # narrator sideSeanNeutral "We make our way back to the main lobby."
     narrator sideSeanNeutral "我們回到大廳。"
 
 # game/sean12192024.rpy:4426
-translate chinese s12192019Claire_519ffcfb:
+translate Tchinese s12192019Claire_519ffcfb:
 
     # "Arthur and Cody are already there waiting for the rest of us. I can see their key cards laid out on the table, each one with a prominent mark."
     "Arthur和Cody已經在等著了。他們的房卡攤在桌上，每張都做了明顯的標記。"
 
 # game/sean12192024.rpy:4429
-translate chinese s12192019Claire_725850cd:
+translate Tchinese s12192019Claire_725850cd:
 
     # arthur "Yo, how'd it go?"
     arthur "唷，怎麼樣？"
 
 # game/sean12192024.rpy:4432
-translate chinese s12192019Claire_0843bc3c:
+translate Tchinese s12192019Claire_0843bc3c:
 
     # sean "Not bad... a lot of left out food."
     sean "還行……很多沒收的食物。"
 
 # game/sean12192024.rpy:4435
-translate chinese s12192019Claire_46ec5a00:
+translate Tchinese s12192019Claire_46ec5a00:
 
     # arthur "What was your percentage?"
     arthur "你們中了多少？"
 
 # game/sean12192024.rpy:4438
-translate chinese s12192019Claire_49faedb0:
+translate Tchinese s12192019Claire_49faedb0:
 
     # sean "One hundred. All of them showed signs of someone being there... We only ran into one person though."
     sean "百分之百。每間有人住過的跡象……不過我們只碰到一個人。"
 
 # game/sean12192024.rpy:4441
-translate chinese s12192019Claire_81763cf1:
+translate Tchinese s12192019Claire_81763cf1:
 
     # "I throw my cards on top of theirs.{nw}"
     "我把我的房卡丟到他們的上面。{nw}"
 
 # game/sean12192024.rpy:4444
-translate chinese s12192019Claire_a3b13e3b:
+translate Tchinese s12192019Claire_a3b13e3b:
 
     # "I throw my cards on top of theirs.{fast} Cody picks up the stinky key and they both giggle."
     "我把我的房卡丟到他們的上面。{fast} Cody拿起那張「臭」的卡，兩人都笑了。"
 
 # game/sean12192024.rpy:4449
-translate chinese s12192019Claire_73704307:
+translate Tchinese s12192019Claire_73704307:
 
     # sean "I'm guessing it's the same story for you two?"
     sean "你們兩個也是一樣吧？"
 
 # game/sean12192024.rpy:4452
-translate chinese s12192019Claire_ee848f84:
+translate Tchinese s12192019Claire_ee848f84:
 
     # arthur "Yup... Do you think Rocco was wrong?"
     arthur "對……你覺得是Rocco搞錯了嗎？"
 
 # game/sean12192024.rpy:4455
-translate chinese s12192019Claire_b3e06ce2:
+translate Tchinese s12192019Claire_b3e06ce2:
 
     # "Cody shrugs and looks at us."
     "Cody聳肩望向我們。"
 
 # game/sean12192024.rpy:4458
-translate chinese s12192019Claire_13e6514a:
+translate Tchinese s12192019Claire_13e6514a:
 
     # cody "He was complaining about the amount of guests coming in, but he never talked about seeing anyone."
     cody "他有在抱怨來客太多，卻從來沒說過看到了任何人。"
 
 # game/sean12192024.rpy:4468
-translate chinese s12192019Claire_065401a2:
+translate Tchinese s12192019Claire_065401a2:
 
     # claire "I'm really starting to think this is less of a bug, and more like he needs to see a doctor."
     claire "我真開始覺得這不是出bug了，而是他該去看個醫生。"
 
 # game/sean12192024.rpy:4474
-translate chinese s12192019Rocco_e7b67f89:
+translate Tchinese s12192019Rocco_e7b67f89:
 
     # rocco sideSeanScared "All I'm saying is this whole thing makes no sense."
     rocco sideSeanScared "我只想說，這整件事完全不合理。"
 
 # game/sean12192024.rpy:4477
-translate chinese s12192019Claire_22038645:
+translate Tchinese s12192019Claire_22038645:
 
     # "We collectively jump hearing his voice."
     "我們全都被他的聲音嚇了一跳。"
 
 # game/sean12192024.rpy:4485
-translate chinese s12192019Claire_12f1a58c:
+translate Tchinese s12192019Claire_12f1a58c:
 
     # rocco sideSeanConcerned "We also got a perfect score..."
     rocco sideSeanConcerned "我們也全中……"
 
 # game/sean12192024.rpy:4488
-translate chinese s12192019Claire_5d8c4e2c:
+translate Tchinese s12192019Claire_5d8c4e2c:
 
     # "His cards slap on top of ours. He looks dejected at the pile."
     "他把房卡甩到我們的上面。他沮喪地望著卡堆。"
 
 # game/sean12192024.rpy:4489
-translate chinese s12192019Claire_66db69a5:
+translate Tchinese s12192019Claire_66db69a5:
 
     # "Hank starts pacing around the chairs."
     "Hank在椅子周圍踱步。"
 
 # game/sean12192024.rpy:4490
-translate chinese s12192019Claire_3cfaaa3d:
+translate Tchinese s12192019Claire_3cfaaa3d:
 
     # "The only noise in the room is Claire clacking away on a keyboard."
     "Claire敲打鍵盤的聲音，是屋內唯一的動靜。"
 
 # game/sean12192024.rpy:4497
-translate chinese s12192019Hank_6d2ac029:
+translate Tchinese s12192019Hank_6d2ac029:
 
     # sean sideSeanSmile "I guess I'll go with Hank. If that's fine with you."
     sean sideSeanSmile "我跟Hank一起好了。如果你不介意的話。"
 
 # game/sean12192024.rpy:4500
-translate chinese s12192019Hank_d4c7bb69:
+translate Tchinese s12192019Hank_d4c7bb69:
 
     # narrator sideSeanNeutral "Hank just shrugs. It's his job to do stuff like this, I figure it'd be best to follow his lead."
     narrator sideSeanNeutral "Hank只聳了聳肩。這是他的工作，我覺得讓他帶頭最好。"
 
 # game/sean12192024.rpy:4503
-translate chinese s12192019Hank_eed0c7be:
+translate Tchinese s12192019Hank_eed0c7be:
 
     # rocco "Alright, Claire you're with me. Arthur, Cody, you two can take the west wing second floor."
     rocco "那好，Claire妳跟我一起。Arthur、Cody，你們兩個負責西翼二樓。"
 
 # game/sean12192024.rpy:4504
-translate chinese s12192019Hank_264fbddd:
+translate Tchinese s12192019Hank_264fbddd:
 
     # rocco "Remember, knock and say 'housekeeping' or something like that three times. If you don't get a response then you can enter."
     rocco "別忘了，要先敲門，然後喊「客房清潔」之類的三次。沒人回應才能進去。"
 
 # game/sean12192024.rpy:4507
-translate chinese s12192019Hank_d4f2102e:
+translate Tchinese s12192019Hank_d4f2102e:
 
     # "I feel like he's primarily talking to the three of us."
     "我覺得他主要是在說給我們三個聽。"
 
 # game/sean12192024.rpy:4510
-translate chinese s12192019Hank_45177a1c:
+translate Tchinese s12192019Hank_45177a1c:
 
     # rocco "If it looks like someone's staying in the room mark your key."
     rocco "如果感覺有人住，就在房卡上標記。"
 
 # game/sean12192024.rpy:4511
-translate chinese s12192019Hank_6d36efe4:
+translate Tchinese s12192019Hank_6d36efe4:
 
     # rocco "If you want to, make the bed and grab the trash. It'll make Hank's life easier, so I'm sure he'll appreciate it."
     rocco "可以的話，就順便整理床鋪、收拾垃圾。會讓Hank輕鬆點，他一定會很感激。"
 
 # game/sean12192024.rpy:4514
-translate chinese s12192019Hank_70d6c8a4:
+translate Tchinese s12192019Hank_70d6c8a4:
 
     # hank "I would."
     hank "我會的。"
 
 # game/sean12192024.rpy:4517
-translate chinese s12192019Hank_bea4056f:
+translate Tchinese s12192019Hank_bea4056f:
 
     # rocco "We'll meet back here in an hour to discuss what we've found. Any questions?"
     rocco "一小時後回到這裡討論情況。有沒有問題？"
 
 # game/sean12192024.rpy:4520
-translate chinese s12192019Hank_26513984:
+translate Tchinese s12192019Hank_26513984:
 
     # "Nobody speaks up."
     "沒人開口。"
 
 # game/sean12192024.rpy:4523
-translate chinese s12192019Hank_f69a6d6a:
+translate Tchinese s12192019Hank_f69a6d6a:
 
     # rocco "Great."
     rocco "很好。"
 
 # game/sean12192024.rpy:4527
-translate chinese s12192019Hank_ef558bb6:
+translate Tchinese s12192019Hank_ef558bb6:
 
     # arthur "Alright everyone paws in!"
     arthur "好啦，大家來疊爪！"
 
 # game/sean12192024.rpy:4533
-translate chinese s12192019Hank_b4780ce0:
+translate Tchinese s12192019Hank_b4780ce0:
 
     # "Rocco gives him a puzzled look. Claire, Cody, and I all eagerly put our paws in. Hank is reluctant, but he puts his in."
     "Rocco遲疑地望向他。Claire、Cody和我則興奮地伸爪交疊。Hank不太情願，但還是伸出了爪。"
 
 # game/sean12192024.rpy:4534
-translate chinese s12192019Hank_ab0b7e48:
+translate Tchinese s12192019Hank_ab0b7e48:
 
     # "Rocco groans, putting his paw over the massive bear's."
     "Rocco一陣呻吟，伸爪蓋在大熊爪上。"
 
 # game/sean12192024.rpy:4537
-translate chinese s12192019Hank_6d5ddd36:
+translate Tchinese s12192019Hank_6d5ddd36:
 
     # arthur "On three, we say hotel investigation! One, two, three!"
     arthur "數到三，我們喊旅館調查！一、二、三！"
 
 # game/sean12192024.rpy:4541
-translate chinese s12192019Hank_e33708aa:
+translate Tchinese s12192019Hank_e33708aa:
 
     # allNoRocco sideSeanSmile "Hotel investigation!"
     allNoRocco sideSeanSmile "旅館調查！"
 
 # game/sean12192024.rpy:4544
-translate chinese s12192019Hank_d35bff83:
+translate Tchinese s12192019Hank_d35bff83:
 
     # rocco "Let's just get this done."
     rocco "趕緊搞定吧。"
 
 # game/sean12192024.rpy:4547
-translate chinese s12192019Hank_ae5440b5:
+translate Tchinese s12192019Hank_ae5440b5:
 
     # "We all walk off in our separate directions."
     "我們走向各自負責的方向。"
 
 # game/sean12192024.rpy:4560
-translate chinese s12192019Hank_858b9320:
+translate Tchinese s12192019Hank_858b9320:
 
     # narrator sideSeanNeutral "Hank and I take the stairs up, deciding to work from the top to the bottom."
     narrator sideSeanNeutral "Hank和我決定從上往下查，便走樓梯上去。"
 
 # game/sean12192024.rpy:4561
-translate chinese s12192019Hank_2bc9e7b7:
+translate Tchinese s12192019Hank_2bc9e7b7:
 
     # "He isn't much for conversation, and I don't mind that."
     "他不太愛聊天，我倒也不介意。"
 
 # game/sean12192024.rpy:4571
-translate chinese s12192019Hank_ae084ebd:
+translate Tchinese s12192019Hank_ae084ebd:
 
     # narrator sideSeanNeutral "We go over to our first room, 204. Hank does the knocking."
     narrator sideSeanNeutral "我們走向第一間房，204。由Hank負責敲門。"
 
 # game/sean12192024.rpy:4572
-translate chinese s12192019Hank_a509906d:
+translate Tchinese s12192019Hank_a509906d:
 
     # "There's no response after the first three, so we just go on in."
     "前三次敲門都沒回應，我們就直接進去。"
 
 # game/sean12192024.rpy:4583
-translate chinese s12192019Hank_cd30f4d5:
+translate Tchinese s12192019Hank_cd30f4d5:
 
     # narrator sideSeanNeutral "The room itself seems to have been devoid of life."
     narrator sideSeanNeutral "房間本身看起來毫無生氣。"
 
 # game/sean12192024.rpy:4584
-translate chinese s12192019Hank_da162ccd:
+translate Tchinese s12192019Hank_da162ccd:
 
     # "The bed is still made. Styrofoam clamshells filled with eastern takeout rest on its sheets."
     "床還是整理好的。床單上擺著裝了東方外賣的保麗龍餐盒。"
 
 # game/sean12192024.rpy:4585
-translate chinese s12192019Hank_a01f8bc1:
+translate Tchinese s12192019Hank_a01f8bc1:
 
     # "I hover my paw over it, the food's gone cold."
     "我伸爪懸在上方，食物已經涼了。"
 
 # game/sean12192024.rpy:4586
-translate chinese s12192019Hank_c1e027d3:
+translate Tchinese s12192019Hank_c1e027d3:
 
     # "Two suitcases are open at the bottom of the closet. A pair of nice dresses hang above them. They both have a C6 pin on them, probably Channel Six News."
     "衣櫥底部有兩個行李箱開著，上方掛著兩件精美的洋裝，都別著C6的徽章，大概是第6頻道新聞台。"
 
 # game/sean12192024.rpy:4588
-translate chinese s12192019Hank_eb2f5af4:
+translate Tchinese s12192019Hank_eb2f5af4:
 
     # "A laptop sits open on the desk, plugged into the wall. It's next to a camera bag and a battery charging station."
     "桌上筆電開著，插著電源。旁邊有個相機包和充電站。"
 
 # game/sean12192024.rpy:4589
-translate chinese s12192019Hank_d1a06933:
+translate Tchinese s12192019Hank_d1a06933:
 
     # "Two of the five batteries are missing. SD cards litter the table next to it."
     "五顆電池中的兩顆從缺。旁邊的桌上散落著一些SD卡。"
 
 # game/sean12192024.rpy:4590
-translate chinese s12192019Hank_cd31de27:
+translate Tchinese s12192019Hank_cd31de27:
 
     # "Somehow, the laptop hasn't gone into sleep mode."
     "不知為何，筆電沒進入睡眠模式。"
 
 # game/sean12192024.rpy:4593
-translate chinese s12192019Hank_96e6774d:
+translate Tchinese s12192019Hank_96e6774d:
 
     # sean sideSeanConcerned "Hey check this out."
     sean sideSeanConcerned "嘿，你看這個。"
 
 # game/sean12192024.rpy:4595
-translate chinese s12192019Hank_97437b25:
+translate Tchinese s12192019Hank_97437b25:
 
     # "I wave Hank over to me."
     "我招手叫Hank過來。"
 
 # game/sean12192024.rpy:4599
-translate chinese s12192019Hank_cd5bc156:
+translate Tchinese s12192019Hank_cd5bc156:
 
     # hank "Don't mess with their stuff."
     hank "別亂動別人東西。"
 
 # game/sean12192024.rpy:4604
-translate chinese s12192019Hank_3e472782:
+translate Tchinese s12192019Hank_3e472782:
 
     # sean "Is that you?"
     sean "那是你嗎？"
 
 # game/sean12192024.rpy:4607
-translate chinese s12192019Hank_aa231b30:
+translate Tchinese s12192019Hank_aa231b30:
 
     # "I point to the screen. A small poodle woman stands next to a massive brown bear."
     "我指向螢幕。一隻小貴賓犬女性站在一隻巨大的棕熊身旁。"
 
 # game/sean12192024.rpy:4609
-translate chinese s12192019Hank_6b38cc88:
+translate Tchinese s12192019Hank_6b38cc88:
 
     # "The bear looks similar to Hank. He has the same facial expression."
     "那隻熊貌似Hank。神情也一模一樣。"
 
 # game/sean12192024.rpy:4613
-translate chinese s12192019Hank_822df5cd:
+translate Tchinese s12192019Hank_822df5cd:
 
     # hank "I never did an interview with anyone."
     hank "我沒被任何人採訪過。"
 
 # game/sean12192024.rpy:4616
-translate chinese s12192019Hank_3aa80707:
+translate Tchinese s12192019Hank_3aa80707:
 
     # sean "I kinda want to play it."
     sean "我有點想播耶。"
 
 # game/sean12192024.rpy:4619
-translate chinese s12192019Hank_6dafdcc2:
+translate Tchinese s12192019Hank_6dafdcc2:
 
     # "Hank is faster than me. He presses the spacebar before I can even reach for it."
     "Hank動作比我快。我還沒伸手，他就按了空白鍵。"
 
 # game/sean12192024.rpy:4624
-translate chinese s12192019Hank_5d258340:
+translate Tchinese s12192019Hank_5d258340:
 
     # nvl clear
     # poodle "Hello I'm Maria Mitchell with channel six news!"
@@ -8763,421 +8763,421 @@ translate chinese s12192019Hank_5d258340:
     poodle "大家好，我是第6台新聞的Maria Mitchell！"
 
 # game/sean12192024.rpy:4626
-translate chinese s12192019Hank_518b0dc9:
+translate Tchinese s12192019Hank_518b0dc9:
 
     # maria "It is nine twenty on December eighteenth, and I'm reporting to you from a new geological wonder."
     maria "現在是12月18日上午9點20分，正從一道新的地理奇觀所在地為您報導。"
 
 # game/sean12192024.rpy:4627
-translate chinese s12192019Hank_4a8ea974:
+translate Tchinese s12192019Hank_4a8ea974:
 
     # maria "A sinkhole has opened in the center of a town in the middle of a mountain!"
     maria "一座山中的小鎮中央開了一個天坑！"
 
 # game/sean12192024.rpy:4628
-translate chinese s12192019Hank_da962f8b:
+translate Tchinese s12192019Hank_da962f8b:
 
     # maria "It's a strange phenomenon that has been rattling the brains of scientists for days!"
     maria "這奇異的現象已經震撼科學家們的頭腦好幾天了！"
 
 # game/sean12192024.rpy:4629
-translate chinese s12192019Hank_2a2174a4:
+translate Tchinese s12192019Hank_2a2174a4:
 
     # maria "I'm here with a local to talk about what effects it's had on the town. Please sir, what's your name?"
     maria "我們邀請到一位本地人，談談這件事對小鎮有什麼影響。先生，請問貴姓大名？"
 
 # game/sean12192024.rpy:4632
-translate chinese s12192019Hank_e1fcbea6:
+translate Tchinese s12192019Hank_e1fcbea6:
 
     # bear sideSeanScared "Hank Everglade."
     bear sideSeanScared "Hank Everglade。"
 
 # game/sean12192024.rpy:4634
-translate chinese s12192019Hank_76b2fe88:
+translate Tchinese s12192019Hank_76b2fe88:
 
     # nvl clear
     nvl clear
 
 # game/sean12192024.rpy:4638
-translate chinese s12192019Hank_3bd0b565:
+translate Tchinese s12192019Hank_3bd0b565:
 
     # narrator sideSeanConcerned "I hear a soft whisper escape Hank's mouth."
     narrator sideSeanConcerned "Hank脫口而出一小聲低語："
 
 # game/sean12192024.rpy:4641
-translate chinese s12192019Hank_1cf92f06:
+translate Tchinese s12192019Hank_1cf92f06:
 
     # hank "The fuck?"
     hank "什麼鬼？"
 
 # game/sean12192024.rpy:4648
-translate chinese s12192019Hank_a2ba6ad8:
+translate Tchinese s12192019Hank_a2ba6ad8:
 
     # maria "And how has the sinkhole affected you?"
     maria "天坑對你有什麼影響呢？"
 
 # game/sean12192024.rpy:4650
-translate chinese s12192019Hank_d955b798:
+translate Tchinese s12192019Hank_d955b798:
 
     # hankN "It takes longer to get to work."
     hankN "通勤要更久。"
 
 # game/sean12192024.rpy:4653
-translate chinese s12192019Hank_d8500220:
+translate Tchinese s12192019Hank_d8500220:
 
     # nulln "Maria gives an unenthusiastic laugh."
     nulln "Maria乾笑一聲。"
 
 # game/sean12192024.rpy:4656
-translate chinese s12192019Hank_c0ede9ab:
+translate Tchinese s12192019Hank_c0ede9ab:
 
     # maria "Ok, how do you feel about the sinkhole?"
     maria "好吧，那你對天坑有什麼感想？"
 
 # game/sean12192024.rpy:4658
-translate chinese s12192019Hank_231ec956:
+translate Tchinese s12192019Hank_231ec956:
 
     # hankN "It's weird."
     hankN "很怪。"
 
 # game/sean12192024.rpy:4660
-translate chinese s12192019Hank_7099bbdc:
+translate Tchinese s12192019Hank_7099bbdc:
 
     # nulln "The poodle's face scrunches up."
     nulln "貴賓犬的臉僵了起來。"
 
 # game/sean12192024.rpy:4662
-translate chinese s12192019Hank_92867a93:
+translate Tchinese s12192019Hank_92867a93:
 
     # maria "Well... Do you have anything else you'd like to say."
     maria "呃……還有什麼想說的嗎？"
 
 # game/sean12192024.rpy:4665
-translate chinese s12192019Hank_0777a44d:
+translate Tchinese s12192019Hank_0777a44d:
 
     # hankN sideSeanSmile "Stay in school kids."
     hankN sideSeanSmile "孩子們，好好上學。"
 
 # game/sean12192024.rpy:4668
-translate chinese s12192019Hank_0f975d71:
+translate Tchinese s12192019Hank_0f975d71:
 
     # maria sideSeanNeutral "Thank you Mr. Everglade... You can go now."
     maria sideSeanNeutral "謝謝Everglade先生……你可以走了。"
 
 # game/sean12192024.rpy:4670
-translate chinese s12192019Hank_49939396:
+translate Tchinese s12192019Hank_49939396:
 
     # nulln "Hank walks off screen. After he's gone her face immediately drops into a frown."
     nulln "Hank走出畫面。他走後，她的臉立刻皺成一團。"
 
 # game/sean12192024.rpy:4672
-translate chinese s12192019Hank_76b2fe88_1:
+translate Tchinese s12192019Hank_76b2fe88_1:
 
     # nvl clear
     nvl clear
 
 # game/sean12192024.rpy:4674
-translate chinese s12192019Hank_44231213:
+translate Tchinese s12192019Hank_44231213:
 
     # maria sideSeanAngry "Yeah we're not using that. Fucking creepy hicks."
     maria sideSeanAngry "嗯，這段不用了。媽的臭鄉巴佬。"
 
 # game/sean12192024.rpy:4677
-translate chinese s12192019Hank_2f66fc79:
+translate Tchinese s12192019Hank_2f66fc79:
 
     # camPerson sideSeanConcerned "Umm, did- do you see that?"
     camPerson sideSeanConcerned "呃，你、你有沒有看到？"
 
 # game/sean12192024.rpy:4679
-translate chinese s12192019Hank_e38b4469:
+translate Tchinese s12192019Hank_e38b4469:
 
     # nulln "The poodle turns around."
     nulln "貴賓犬轉身。"
 
 # game/sean12192024.rpy:4681
-translate chinese s12192019Hank_826acb55:
+translate Tchinese s12192019Hank_826acb55:
 
     # maria "See what?"
     maria "看到什麼？"
 
 # game/sean12192024.rpy:4683
-translate chinese s12192019Hank_8d1ec157:
+translate Tchinese s12192019Hank_8d1ec157:
 
     # camPerson "I thought I saw someone looking up from the hole. Here-"
     camPerson "我好像看到有人從坑裡往上看。這邊——"
 
 # game/sean12192024.rpy:4688
-translate chinese s12192019Hank_0085c275:
+translate Tchinese s12192019Hank_0085c275:
 
     # "The video cuts off. Hank puts a trembling paw on my shoulder."
     "影片中斷。Hank顫抖的爪子搭上我的肩膀。"
 
 # game/sean12192024.rpy:4692
-translate chinese s12192019Hank_5ab05652:
+translate Tchinese s12192019Hank_5ab05652:
 
     # hank "I never got interviewed."
     hank "我沒被採訪過啊。"
 
 # game/sean12192024.rpy:4695
-translate chinese s12192019Hank_28839675:
+translate Tchinese s12192019Hank_28839675:
 
     # sean sideSeanEmbarrassed "That's you in the video though?"
     sean sideSeanEmbarrassed "可是影片裡那是你吧？"
 
 # game/sean12192024.rpy:4698
-translate chinese s12192019Hank_adc3e2cf:
+translate Tchinese s12192019Hank_adc3e2cf:
 
     # "He nods."
     "他點頭。"
 
 # game/sean12192024.rpy:4702
-translate chinese s12192019Hank_c1dbc233:
+translate Tchinese s12192019Hank_c1dbc233:
 
     # hank sideSeanConcerned "Let's just go to the next room Sean."
     hank sideSeanConcerned "我們去下一間吧，Sean。"
 
 # game/sean12192024.rpy:4705
-translate chinese s12192019Hank_63787dd3:
+translate Tchinese s12192019Hank_63787dd3:
 
     # "I hear the door open, and I quickly follow after Hank."
     "聽見門打開，我趕緊跟上Hank。"
 
 # game/sean12192024.rpy:4716
-translate chinese s12192019Hank_af6e9cf6:
+translate Tchinese s12192019Hank_af6e9cf6:
 
     # narrator sideSeanNeutral "The next few rooms are pretty similar to each other. Messed up bed, suitcases filled with clothes, and broadcast equipment."
     narrator sideSeanNeutral "接下來幾間房都差不多。亂糟糟的床、塞滿衣服的行李箱、廣播器材。"
 
 # game/sean12192024.rpy:4717
-translate chinese s12192019Hank_53923e97:
+translate Tchinese s12192019Hank_53923e97:
 
     # "At one of the doors we actually get a response from someone, a mouse, and have to explain the situation to him."
     "其中一間有人應門，是隻老鼠，我們跟他解釋了情況。"
 
 # game/sean12192024.rpy:4718
-translate chinese s12192019Hank_ba44c1be:
+translate Tchinese s12192019Hank_ba44c1be:
 
     # "We apologize for the disturbance, and move to the last room on the second floor."
     "為打擾到他而道歉後，我們走向二樓最後一間房。"
 
 # game/sean12192024.rpy:4719
-translate chinese s12192019Hank_1a15f45d:
+translate Tchinese s12192019Hank_1a15f45d:
 
     # "It has a do not disturb sign on the door."
     "門上掛著請勿打擾的牌子。"
 
 # game/sean12192024.rpy:4720
-translate chinese s12192019Hank_6d9c29eb:
+translate Tchinese s12192019Hank_6d9c29eb:
 
     # "We don't get a response from our knocking."
     "敲門後沒人回應。"
 
 # game/sean12192024.rpy:4731
-translate chinese s12192019Hank_1019d846:
+translate Tchinese s12192019Hank_1019d846:
 
     # narrator sideSeanScared "The room itself smells rancid."
     narrator sideSeanScared "房內充斥著腐臭味。"
 
 # game/sean12192024.rpy:4733
-translate chinese s12192019Hank_f56ec356:
+translate Tchinese s12192019Hank_f56ec356:
 
     # narrator sideSeanNeutral "Flies circle an open pizza box sitting on a table. A bottle of ranch dressing sits tipped over next to it."
     narrator sideSeanNeutral "蒼蠅圍繞桌上開著的披薩盒。外賣不該臭成這樣啊。旁邊倒著一瓶田園沙拉醬。"
 
 # game/sean12192024.rpy:4734
-translate chinese s12192019Hank_1d3c39b4:
+translate Tchinese s12192019Hank_1d3c39b4:
 
     # "Its contents are already poured and molding on the ground below."
     "內容物都灑了出來，在下方地上發霉。"
 
 # game/sean12192024.rpy:4735
-translate chinese s12192019Hank_5661ac44:
+translate Tchinese s12192019Hank_5661ac44:
 
     # "The bed is in shambles. A blanket filled with different kinds of rock sits at the foot of it."
     "床亂七八糟的。床腳邊橫躺一條擺了各種岩石的毯子。"
 
 # game/sean12192024.rpy:4736
-translate chinese s12192019Hank_16fc0797:
+translate Tchinese s12192019Hank_16fc0797:
 
     # "On the desk across from it another laptop sits open, however this one is still in sleep mode."
     "對面桌上有另一台筆電開著，但處於睡眠模式。"
 
 # game/sean12192024.rpy:4739
-translate chinese s12192019Hank_63e2e9af:
+translate Tchinese s12192019Hank_63e2e9af:
 
     # sean "Did you ever check in on this room?"
     sean "你有來看過這間房嗎？"
 
 # game/sean12192024.rpy:4742
-translate chinese s12192019Hank_384bad7e:
+translate Tchinese s12192019Hank_384bad7e:
 
     # hank "They had the do not disturb sign."
     hank "他們掛了請勿打擾的牌子。"
 
 # game/sean12192024.rpy:4745
-translate chinese s12192019Hank_74a77196:
+translate Tchinese s12192019Hank_74a77196:
 
     # "I guess that makes sense. I walk over to the window and open it. Hopefully some of the stink will fly out."
     "也有道理。我前去打開窗戶。希望臭味能稍微散出去。"
 
 # game/sean12192024.rpy:4748
-translate chinese s12192019Hank_f53534c3:
+translate Tchinese s12192019Hank_f53534c3:
 
     # sean "So anything interesting?"
     sean "有找到什麼嗎？"
 
 # game/sean12192024.rpy:4751
-translate chinese s12192019Hank_250b4844:
+translate Tchinese s12192019Hank_250b4844:
 
     # "Hank shakes his head no. I walk over to him and look at the rocks. To me they're just stones."
     "Hank搖搖頭。我走到他身旁看了眼那些岩石。對我來說就只是石頭。"
 
 # game/sean12192024.rpy:4752
-translate chinese s12192019Hank_0c2051a5:
+translate Tchinese s12192019Hank_0c2051a5:
 
     # "I have no idea how important they are, so I move onto the closet. Aside from clothes, there are a few devices on the ground."
     "我是不知道它們有多重要，就轉而去看衣櫥了。除了衣服，地上還有幾個裝置。"
 
 # game/sean12192024.rpy:4753
-translate chinese s12192019Hank_8a9b21fa:
+translate Tchinese s12192019Hank_8a9b21fa:
 
     # "Again I'm at a loss for identifying what they're used for."
     "我依舊認不出是幹嘛用的。"
 
 # game/sean12192024.rpy:4756
-translate chinese s12192019Hank_fb528966:
+translate Tchinese s12192019Hank_fb528966:
 
     # hank sideSeanConcerned "Why would you not have a password on your computer."
     hank sideSeanConcerned "為什麼電腦不設密碼啊？"
 
 # game/sean12192024.rpy:4759
-translate chinese s12192019Hank_a08f8089:
+translate Tchinese s12192019Hank_a08f8089:
 
     # "I whip my head around to see the bear digging through their laptop."
     "我猛然轉頭，看到熊正在動用他們的筆電。"
 
 # game/sean12192024.rpy:4763
-translate chinese s12192019Hank_4bae1e35:
+translate Tchinese s12192019Hank_4bae1e35:
 
     # sean sideSeanSmile "Hey I thought you said not to mess with people's stuff!"
     sean sideSeanSmile "喂，你還說別亂動別人東西！"
 
 # game/sean12192024.rpy:4767
-translate chinese s12192019Hank_6fbeaba8:
+translate Tchinese s12192019Hank_6fbeaba8:
 
     # hank sideSeanConcerned "They've been gone for too long."
     hank sideSeanConcerned "他們離開很久了。"
 
 # game/sean12192024.rpy:4770
-translate chinese s12192019Hank_725a908d:
+translate Tchinese s12192019Hank_725a908d:
 
     # "He points to the molding ranch."
     "他指向發霉的田園沙拉醬。"
 
 # game/sean12192024.rpy:4773
-translate chinese s12192019Hank_c17483f9:
+translate Tchinese s12192019Hank_c17483f9:
 
     # sean "Shouldn't we call the cops about it? File a missing persons' report?"
     sean "我們是不是該報警？報告有人失蹤？"
 
 # game/sean12192024.rpy:4777
-translate chinese s12192019Hank_7f25c655:
+translate Tchinese s12192019Hank_7f25c655:
 
     # hank "How will we file a report if we don't know who's missing."
     hank "連是誰失蹤都不知道，怎麼報案？"
 
 # game/sean12192024.rpy:4780
-translate chinese s12192019Hank_914a0e5c:
+translate Tchinese s12192019Hank_914a0e5c:
 
     # sean sideSeanNeutral "Claire has a list of everyone who checked out a room."
     sean sideSeanNeutral "Claire有所有房客名單。"
 
 # game/sean12192024.rpy:4783
-translate chinese s12192019Hank_aa6883a3:
+translate Tchinese s12192019Hank_aa6883a3:
 
     # hank "We don't know how many people stayed in this room."
     hank "我們又不知道這間住了幾個人。"
 
 # game/sean12192024.rpy:4786
-translate chinese s12192019Hank_e4d7d4e7:
+translate Tchinese s12192019Hank_e4d7d4e7:
 
     # "I look back at the closet. He's right. We could guess at least two, since there are both medium and large shirts."
     "我回頭看衣櫥。他說得對。至少有兩個人，因為有中號和大號的衣服。"
 
 # game/sean12192024.rpy:4789
-translate chinese s12192019Hank_19fa560f:
+translate Tchinese s12192019Hank_19fa560f:
 
     # hank "Look at this."
     hank "你看這個。"
 
 # game/sean12192024.rpy:4792
-translate chinese s12192019Hank_882d5ce8:
+translate Tchinese s12192019Hank_882d5ce8:
 
     # "I walk behind the bear. He has to lean off to the side so I can see the laptop's screen."
     "我走到熊身後。他得別開身子才能讓我看見筆電螢幕。"
 
 # game/sean12192024.rpy:4793
-translate chinese s12192019Hank_c370f426:
+translate Tchinese s12192019Hank_c370f426:
 
     # "It's a bunch of photos along the mountain side. Then a video."
     "一堆半山腰的照片。還有一段影片。"
 
 # game/sean12192024.rpy:4798
-translate chinese s12192019Hank_76b2fe88_2:
+translate Tchinese s12192019Hank_76b2fe88_2:
 
     # nvl clear
     nvl clear
 
 # game/sean12192024.rpy:4800
-translate chinese s12192019Hank_b6829f6f:
+translate Tchinese s12192019Hank_b6829f6f:
 
     # camPerson2 sideSeanConcerned "Yes I'm fucking recording."
     camPerson2 sideSeanConcerned "對啦，我她媽在錄了。"
 
 # game/sean12192024.rpy:4802
-translate chinese s12192019Hank_c4b53eca:
+translate Tchinese s12192019Hank_c4b53eca:
 
     # nulln "The camera points down the mountain, past a german shepherd, to main street."
     nulln "鏡頭從山上俯瞰，越過一隻德國牧羊犬，對準主要大街。"
 
 # game/sean12192024.rpy:4803
-translate chinese s12192019Hank_d45c1937:
+translate Tchinese s12192019Hank_d45c1937:
 
     # nulln sideSeanScared "The road is concave."
     nulln sideSeanScared "路面凹陷。"
 
 # game/sean12192024.rpy:4804
-translate chinese s12192019Hank_f86f8515:
+translate Tchinese s12192019Hank_f86f8515:
 
     # nulln "Like some invisible ball is pressing down on it."
     nulln "像有顆隱形的球體壓在上面。"
 
 # game/sean12192024.rpy:4805
-translate chinese s12192019Hank_ef6e303e:
+translate Tchinese s12192019Hank_ef6e303e:
 
     # nulln sideSeanConcerned "Cars stop at its edge."
     nulln sideSeanConcerned "車輛停在其邊緣。"
 
 # game/sean12192024.rpy:4807
-translate chinese s12192019Hank_3e5b779a:
+translate Tchinese s12192019Hank_3e5b779a:
 
     # nulln "A couple people come out to investigate, but they're too far away to recognize."
     nulln "一些人下車調查，但太遠了，認不出面貌。"
 
 # game/sean12192024.rpy:4809
-translate chinese s12192019Hank_c1843773:
+translate Tchinese s12192019Hank_c1843773:
 
     # shep "What the hell?"
     shep "什麼鬼？"
 
 # game/sean12192024.rpy:4811
-translate chinese s12192019Hank_88b9b065:
+translate Tchinese s12192019Hank_88b9b065:
 
     # nulln "Large cracks start to form in the road. Small patches of black eat away at the asphalt as bits fall down into a deep abyss."
     nulln "路上開了幾道大裂縫。黑色斑塊侵蝕著柏油路，碎片掉進深淵。"
 
 # game/sean12192024.rpy:4812
-translate chinese s12192019Hank_ff10479b:
+translate Tchinese s12192019Hank_ff10479b:
 
     # nvl clear
     # nulln "The town is silent as the pair just watch."
@@ -9185,49 +9185,49 @@ translate chinese s12192019Hank_ff10479b:
     nulln "小鎮靜謐，而兩人只是看著。"
 
 # game/sean12192024.rpy:4815
-translate chinese s12192019Hank_20dbd531:
+translate Tchinese s12192019Hank_20dbd531:
 
     # nulln sideSeanScared "In an instant the ground gives way."
     nulln sideSeanScared "地面瞬間塌陷。"
 
 # game/sean12192024.rpy:4816
-translate chinese s12192019Hank_926123b0:
+translate Tchinese s12192019Hank_926123b0:
 
     # nulln "With the road, chunks of the sidewalk and a nearby parking lot fall in."
     nulln "大半人行道和附近的停車場連著路面坍塌。"
 
 # game/sean12192024.rpy:4817
-translate chinese s12192019Hank_0eb9e8c0:
+translate Tchinese s12192019Hank_0eb9e8c0:
 
     # nulln sideSeanConcerned "The hole that we're now familiar with has opened up."
     nulln sideSeanConcerned "我們現在熟知的那個天坑就此開啟。"
 
 # game/sean12192024.rpy:4818
-translate chinese s12192019Hank_46a9765a:
+translate Tchinese s12192019Hank_46a9765a:
 
     # nulln sideSeanNeutral "Thankfully it looks like no one fell in with the road."
     nulln sideSeanNeutral "幸好看沒人跟道路一起掉進去。"
 
 # game/sean12192024.rpy:4821
-translate chinese s12192019Hank_3442dab6:
+translate Tchinese s12192019Hank_3442dab6:
 
     # camPerson2 sideSeanConcerned "Why the hell would a sinkhole form on the side of the Appalachians?"
     camPerson2 sideSeanConcerned "阿帕拉契山側怎麼就開了個天坑啊？"
 
 # game/sean12192024.rpy:4823
-translate chinese s12192019Hank_f9de7f29:
+translate Tchinese s12192019Hank_f9de7f29:
 
     # nulln "The german shepherd shrugs."
     nulln "德國牧羊犬聳肩。"
 
 # game/sean12192024.rpy:4826
-translate chinese s12192019Hank_5baf5cd2:
+translate Tchinese s12192019Hank_5baf5cd2:
 
     # shep sideSeanNeutral "Sounds like a more interesting thesis than mountain samples. We should talk to the professor!"
     shep sideSeanNeutral "把這拿來寫論文感覺比山脈樣本有趣多了。我們去找教授吧！"
 
 # game/sean12192024.rpy:4828
-translate chinese s12192019Hank_2c85cfd8:
+translate Tchinese s12192019Hank_2c85cfd8:
 
     # nvl clear
     # camPerson2 "No dude, I think this is way beyond our project."
@@ -9235,1033 +9235,1033 @@ translate chinese s12192019Hank_2c85cfd8:
     camPerson2 "不行啦，這遠超過我們的研究項目了。"
 
 # game/sean12192024.rpy:4832
-translate chinese s12192019Hank_d4c995a3:
+translate Tchinese s12192019Hank_d4c995a3:
 
     # shep "Well c'mon let's go check it out!"
     shep "來嘛，就去看看！"
 
 # game/sean12192024.rpy:4834
-translate chinese s12192019Hank_fda7d8ba:
+translate Tchinese s12192019Hank_fda7d8ba:
 
     # nulln "The german shepherd begins running down the mountain towards main street."
     nulln "德國牧羊犬邁步跑下山，朝主要大街去。"
 
 # game/sean12192024.rpy:4836
-translate chinese s12192019Hank_dd06a84d:
+translate Tchinese s12192019Hank_dd06a84d:
 
     # camPerson2 sideSeanConcerned "Wait! Hold up man!"
     camPerson2 sideSeanConcerned "等等！慢點啊哥們！"
 
 # game/sean12192024.rpy:4838
-translate chinese s12192019Hank_c67b657e:
+translate Tchinese s12192019Hank_c67b657e:
 
     # nulln "The video ends."
     nulln "影片結束。"
 
 # game/sean12192024.rpy:4845
-translate chinese s12192019Hank_feab225a:
+translate Tchinese s12192019Hank_feab225a:
 
     # hank "I remember seeing the sinkhole... Didn't see them around it."
     hank "我記得自己是去看了天坑……但附近沒見到他們。"
 
 # game/sean12192024.rpy:4849
-translate chinese s12192019Hank_bac4529a:
+translate Tchinese s12192019Hank_bac4529a:
 
     # sean "I'm guessing you don't remember seeing them around town either."
     sean "你應該也不記得有在鎮上看過他們吧？"
 
 # game/sean12192024.rpy:4852
-translate chinese s12192019Hank_13552db0:
+translate Tchinese s12192019Hank_13552db0:
 
     # narrator sideSeanNeutral "Hank shakes his head. Figures."
     narrator sideSeanNeutral "Hank搖頭。不意外。"
 
 # game/sean12192024.rpy:4853
-translate chinese s12192019Hank_1968f3cb:
+translate Tchinese s12192019Hank_1968f3cb:
 
     # "What the hell is going on?"
     "到底怎麼回事？"
 
 # game/sean12192024.rpy:4854
-translate chinese s12192019Hank_aacbe3c4:
+translate Tchinese s12192019Hank_aacbe3c4:
 
     # "Hank starts looking through other parts of the computer. They have some photos of around and in the hole."
     "Hank開始查看電腦裡的其他資料。有天坑周圍和裡面的照片。"
 
 # game/sean12192024.rpy:4855
-translate chinese s12192019Hank_21ceb30a:
+translate Tchinese s12192019Hank_21ceb30a:
 
     # "Each image still has the default name, the most recent one was Wednesday the sixteenth."
     "每張圖都還是預設檔名，最新的是1月16日星期三。"
 
 # game/sean12192024.rpy:4858
-translate chinese s12192019Hank_700e6242:
+translate Tchinese s12192019Hank_700e6242:
 
     # sean "We should move on."
     sean "我們該繼續了。"
 
 # game/sean12192024.rpy:4861
-translate chinese s12192019Hank_4cfd3617:
+translate Tchinese s12192019Hank_4cfd3617:
 
     # hank "Yeah."
     hank "嗯。"
 
 # game/sean12192024.rpy:4883
-translate chinese s12192019Hank_994b28cd:
+translate Tchinese s12192019Hank_994b28cd:
 
     # narrator sideSeanNeutral "We only have five rooms to look at on the first floor."
     narrator sideSeanNeutral "一樓只剩五間房要查。"
 
 # game/sean12192024.rpy:4894
-translate chinese s12192019Hank_acd8cec2:
+translate Tchinese s12192019Hank_acd8cec2:
 
     # narrator sideSeanNeutral "One is filled with touristy stuff from the east coast. They have two adult, and two child, sized suitcases."
     narrator sideSeanNeutral "一間塞滿了東岸的觀光產品。有兩個成人、兩個兒童尺寸的行李箱。"
 
 # game/sean12192024.rpy:4895
-translate chinese s12192019Hank_f3eb7a82:
+translate Tchinese s12192019Hank_f3eb7a82:
 
     # "There is a camera filled with pictures of a family of stoats."
     "一台相機裡滿是一家白鼬的照片。"
 
 # game/sean12192024.rpy:4896
-translate chinese s12192019Hank_38818a14:
+translate Tchinese s12192019Hank_38818a14:
 
     # "Hank, once again, has no idea who any of the people are."
     "Hank依舊完全不認識這些人。"
 
 # game/sean12192024.rpy:4912
-translate chinese s12192019Hank_8ca4425f:
+translate Tchinese s12192019Hank_8ca4425f:
 
     # narrator sideSeanNeutral "The next room also has signs of someone living in it."
     narrator sideSeanNeutral "下一間也有人住過的跡象。"
 
 # game/sean12192024.rpy:4913
-translate chinese s12192019Hank_40b73b91:
+translate Tchinese s12192019Hank_40b73b91:
 
     # "A married couple, maybe, Hank spots a wedding ring under the bed and puts it up on the night stand."
     "可能是對夫妻，Hank在床下發現了結婚戒指，放回床頭櫃上。"
 
 # game/sean12192024.rpy:4914
-translate chinese s12192019Hank_f146da0b:
+translate Tchinese s12192019Hank_f146da0b:
 
     # "Another card marked."
     "又標了一張房卡。"
 
 # game/sean12192024.rpy:4931
-translate chinese s12192019Hank_f5c6e398:
+translate Tchinese s12192019Hank_f5c6e398:
 
     # narrator sideSeanNeutral "At first the next room was fairly clean."
     narrator sideSeanNeutral "下一間乍看之下挺乾淨。"
 
 # game/sean12192024.rpy:4932
-translate chinese s12192019Hank_8d31a36e:
+translate Tchinese s12192019Hank_8d31a36e:
 
     # "There was some paper and a journal left out on the desk. Crumpled up notes in the trashcan."
     "桌上放著一些紙和日記本。垃圾桶裡有揉成團的筆記。"
 
 # game/sean12192024.rpy:4933
-translate chinese s12192019Hank_67461e9b:
+translate Tchinese s12192019Hank_67461e9b:
 
     # "The standard bible in every hotel room was missing, and it didn't take long for me to find it."
     "每間旅館房的標配聖經不見蹤影，不過我很快就找到了。"
 
 # game/sean12192024.rpy:4936
-translate chinese s12192019Hank_4f35a5dc:
+translate Tchinese s12192019Hank_4f35a5dc:
 
     # "It sat, with no pages in it, in front of the door to the bathroom."
     "它半頁不剩地坐落在浴室門前。"
 
 # game/sean12192024.rpy:4937
-translate chinese s12192019Hank_e2f9d382:
+translate Tchinese s12192019Hank_e2f9d382:
 
     # "My body hesitates to go inside."
     "我身體猶豫著該不該進去。"
 
 # game/sean12192024.rpy:4939
-translate chinese s12192019Hank_0ef30bc9:
+translate Tchinese s12192019Hank_0ef30bc9:
 
     # "I take a look back at Hank; he's engrossed in the journal."
     "我回頭瞥了Hank一眼。他正埋頭於那本日記。"
 
 # game/sean12192024.rpy:4940
-translate chinese s12192019Hank_923e3a91:
+translate Tchinese s12192019Hank_923e3a91:
 
     # "I take a breath and open the door."
     "我深呼吸一口，把門打開。"
 
 # game/sean12192024.rpy:4950
-translate chinese s12192019Hank_c562df95:
+translate Tchinese s12192019Hank_c562df95:
 
     # centered "{color=#ffffff}I step into the dark room.{/color}"
     centered "{color=#ffffff}踏進漆黑的房間。{/color}"
 
 # game/sean12192024.rpy:4951
-translate chinese s12192019Hank_b3a77e46:
+translate Tchinese s12192019Hank_b3a77e46:
 
     # centered "{color=#ffffff}The sharp crinkle of paper etches into my ears.\nI look down to see pages of that bible scattered across the floor.{/color}"
     centered "{color=#ffffff}紙張尖銳的皺摺聲鑽入雙耳。\n我低頭一看，發現聖經書頁散落了一地。{/color}"
 
 # game/sean12192024.rpy:4952
-translate chinese s12192019Hank_517da006:
+translate Tchinese s12192019Hank_517da006:
 
     # centered "{color=#ffffff}Water stained foot prints mark a few of them.{/color}"
     centered "{color=#ffffff}當中幾張上面有著腳印水漬。{/color}"
 
 # game/sean12192024.rpy:4953
-translate chinese s12192019Hank_948200c5:
+translate Tchinese s12192019Hank_948200c5:
 
     # centered "{color=#ffffff}What looks like a floor plan for some massive complex is drawn out on the scattered pages.{/color}"
     centered "{color=#ffffff}散落的頁面上，畫著某種巨大建築的平面圖。{/color}"
 
 # game/sean12192024.rpy:4955
-translate chinese s12192019Hank_5df12b34:
+translate Tchinese s12192019Hank_5df12b34:
 
     # centered "{color=#ffffff}Then I look up.{/color}"
     centered "{color=#ffffff}然後我抬頭仰望。{/color}"
 
 # game/sean12192024.rpy:4962
-translate chinese s12192019Hank_ac73bdd6:
+translate Tchinese s12192019Hank_ac73bdd6:
 
     # sean sideSeanScared "Aaaaah!"
     sean sideSeanScared "啊啊啊啊！"
 
 # game/sean12192024.rpy:4965
-translate chinese s12192019Hank_bc4cc634:
+translate Tchinese s12192019Hank_bc4cc634:
 
     # "A pair of eyes stare into mine."
     "一雙眼睛盯著我。"
 
 # game/sean12192024.rpy:4966
-translate chinese s12192019Hank_6a75a345:
+translate Tchinese s12192019Hank_6a75a345:
 
     # "The pages slip under my feet."
     "書頁在我腳下滑動。"
 
 # game/sean12192024.rpy:4967
-translate chinese s12192019Hank_d0fb7c61:
+translate Tchinese s12192019Hank_d0fb7c61:
 
     # "I catch myself on the shower curtain before my head smacks into the tub."
     "我連忙抓著浴簾穩住自己，以免頭撞到浴缸。"
 
 # game/sean12192024.rpy:4968
-translate chinese s12192019Hank_da4d96f5:
+translate Tchinese s12192019Hank_da4d96f5:
 
     # "Black lifeless voids enter my mind, and I want to look away. Surrounding them, more eyes are locked to the sink."
     "了無生機的黑暗空洞映入我腦海，讓我很想移開視線。更多眼睛圍繞著那雙眼，死盯著水槽。"
 
 # game/sean12192024.rpy:4969
-translate chinese s12192019Hank_a52d920b:
+translate Tchinese s12192019Hank_a52d920b:
 
     # "They all look at a map of Carthage."
     "都在盯著一張迦太基的地圖。"
 
 # game/sean12192024.rpy:4970
-translate chinese s12192019Hank_5bf537cb:
+translate Tchinese s12192019Hank_5bf537cb:
 
     # "The hole cut into it, and placed over the drain."
     "被剪了一個洞，貼在排水口上。"
 
 # game/sean12192024.rpy:4977
-translate chinese s12192019Hank_af104e83:
+translate Tchinese s12192019Hank_af104e83:
 
     # hank "Sean!"
     hank "Sean！"
 
 # game/sean12192024.rpy:4981
-translate chinese s12192019Hank_e40b806b:
+translate Tchinese s12192019Hank_e40b806b:
 
     # "I hear the bear stumble in."
     "熊跌跌撞撞進來了。"
 
 # game/sean12192024.rpy:4982
-translate chinese s12192019Hank_95ecefa8:
+translate Tchinese s12192019Hank_95ecefa8:
 
     # "At first he's angry; probably imagining the work that's going to go into cleaning this up."
     "起初他很生氣，大概在想像清理起來有多麻煩。"
 
 # game/sean12192024.rpy:4984
-translate chinese s12192019Hank_b3a21cd8:
+translate Tchinese s12192019Hank_b3a21cd8:
 
     # "Then his eyes meet mine."
     "然後與我四目相會。"
 
 # game/sean12192024.rpy:4986
-translate chinese s12192019Hank_956f71fd:
+translate Tchinese s12192019Hank_956f71fd:
 
     # "He sees my panicked state and almost instantly shifts his mood. The bear picks me up and mumbles something reassuring as we leave the room."
     "他看到我驚恐的樣子，當即情緒一轉。熊扶起我，邊離開房間邊低聲安撫著我。"
 
 # game/sean12192024.rpy:4989
-translate chinese s12192019Hank_f146da0b_1:
+translate Tchinese s12192019Hank_f146da0b_1:
 
     # "Another card marked."
     "又標了一張房卡。"
 
 # game/sean12192024.rpy:5001
-translate chinese s12192019Hank_b84ea51e:
+translate Tchinese s12192019Hank_b84ea51e:
 
     # narrator sideSeanSad "The last three rooms show signs of life."
     narrator sideSeanSad "最後三間房都有生活跡象。"
 
 # game/sean12192024.rpy:5002
-translate chinese s12192019Hank_062a8869:
+translate Tchinese s12192019Hank_062a8869:
 
     # "At this point we don't even bother snooping."
     "到這份上，我們都懶得翻了。"
 
 # game/sean12192024.rpy:5003
-translate chinese s12192019Hank_906e1322:
+translate Tchinese s12192019Hank_906e1322:
 
     # "All of the rooms have people staying in them. It just seems like they haven't been around recently."
     "所有房間都有房客。只是好像最近都沒在。"
 
 # game/sean12192024.rpy:5014
-translate chinese s12192019Hank_ce86a804:
+translate Tchinese s12192019Hank_ce86a804:
 
     # narrator sideSeanNeutral "I'm still shaken, as we wait for everyone to get back. Though I doubt anyone can tell."
     narrator sideSeanNeutral "我們等著其他人，我還驚魂未定。但別人應該看不出來吧。"
 
 # game/sean12192024.rpy:5015
-translate chinese s12192019Hank_d1cbffc8:
+translate Tchinese s12192019Hank_d1cbffc8:
 
     # "I've gotten good at recognizing my tells and suppressing them."
     "我還挺擅長辨識自己的微表情，再加以壓抑的。"
 
 # game/sean12192024.rpy:5016
-translate chinese s12192019Hank_d9509246:
+translate Tchinese s12192019Hank_d9509246:
 
     # "It's in the moment when I fall apart."
     "在我崩潰的那一刻才顯露。"
 
 # game/sean12192024.rpy:5025
-translate chinese s12192019Hank_295de61d:
+translate Tchinese s12192019Hank_295de61d:
 
     # "Arthur and Cody are the first to come back. Cody takes a chair and Arthur slaps all of their key cards on the table."
     "Arthur和Cody最先回來。Cody拿了把椅子，Arthur則把他們所有房卡甩在桌上。"
 
 # game/sean12192024.rpy:5028
-translate chinese s12192019Hank_f524d6f9:
+translate Tchinese s12192019Hank_f524d6f9:
 
     # arthur sideSeanConcerned "One hundred percent occupied..."
     arthur sideSeanConcerned "全都有人住……"
 
 # game/sean12192024.rpy:5031
-translate chinese s12192019Hank_54564d39:
+translate Tchinese s12192019Hank_54564d39:
 
     # sean "You didn't see anything weird did you?"
     sean "你們沒看到什麼怪東西吧？"
 
 # game/sean12192024.rpy:5035
-translate chinese s12192019Hank_57e9127a:
+translate Tchinese s12192019Hank_57e9127a:
 
     # cody "All of it was weird. It was like no one had been in any of these rooms since Thursday."
     cody "全都很怪。感覺這些房間自從星期四以來就沒人進去過。"
 
 # game/sean12192024.rpy:5040
-translate chinese s12192019Hank_83e4584d:
+translate Tchinese s12192019Hank_83e4584d:
 
     # arthur "One of the rooms had red marker all over the walls."
     arthur "有間房的牆上被紅色簽字筆畫滿了。"
 
 # game/sean12192024.rpy:5044
-translate chinese s12192019Hank_d0884f12:
+translate Tchinese s12192019Hank_d0884f12:
 
     # "Hank groans at that."
     "Hank對此發出呻吟。"
 
 # game/sean12192024.rpy:5048
-translate chinese s12192019Hank_3f886146:
+translate Tchinese s12192019Hank_3f886146:
 
     # arthur sideSeanScared "Just repeating the phrases 'it speaks to me' and 'I can't hide myself'."
     arthur sideSeanScared "全都寫著「它在跟我說話」和「我躲不掉」的字句。"
 
 # game/sean12192024.rpy:5053
-translate chinese s12192019Hank_3bf1151f:
+translate Tchinese s12192019Hank_3bf1151f:
 
     # narrator sideSeanConcerned "I look at Hank."
     narrator sideSeanConcerned "我看向Hank。"
 
 # game/sean12192024.rpy:5056
-translate chinese s12192019Hank_9f90c749:
+translate Tchinese s12192019Hank_9f90c749:
 
     # sean "That sounds like the bathroom."
     sean "聽起來很像那間浴室。"
 
 # game/sean12192024.rpy:5059
-translate chinese s12192019Hank_2dad6e67:
+translate Tchinese s12192019Hank_2dad6e67:
 
     # cody "What happened in the bathroom?"
     cody "浴室怎麼了？"
 
 # game/sean12192024.rpy:5062
-translate chinese s12192019Hank_131b5af9:
+translate Tchinese s12192019Hank_131b5af9:
 
     # sean sideSeanNeutral "Someone tore out all the pages of a bible and drew eyes n' stuff on them. Taped it on the mirror, and put a map of Carthage in the sink."
     sean sideSeanNeutral "有人撕掉聖經所有書頁，在上面畫眼睛之類的東西。貼在鏡子上，還把迦太基的地圖放進水槽。"
 
 # game/sean12192024.rpy:5066
-translate chinese s12192019Hank_4c220010:
+translate Tchinese s12192019Hank_4c220010:
 
     # arthur "Oooh! Did it have the hole overlapping the drain?"
     arthur "哦哦！洞有沒有重疊在排水口上？"
 
 # game/sean12192024.rpy:5069
-translate chinese s12192019Hank_74507bce:
+translate Tchinese s12192019Hank_74507bce:
 
     # narrator sideSeanConcerned "What is going on here?"
     narrator sideSeanConcerned "什麼情況？"
 
 # game/sean12192024.rpy:5074
-translate chinese s12192019Hank_04a4ce5d:
+translate Tchinese s12192019Hank_04a4ce5d:
 
     # hank "Yup."
     hank "對。"
 
 # game/sean12192024.rpy:5078
-translate chinese s12192019Hank_f202c7b8:
+translate Tchinese s12192019Hank_f202c7b8:
 
     # cody "It could be a case of MPI... Did you find any other rooms like it?"
     cody "這可能是集體歇斯底里案例……有其他類似的房間嗎？"
 
 # game/sean12192024.rpy:5081
-translate chinese s12192019Hank_2b2ad1e4:
+translate Tchinese s12192019Hank_2b2ad1e4:
 
     # narrator sideSeanNeutral "I shake my head. Cody takes a minute to think."
     narrator sideSeanNeutral "我搖搖頭。Cody想了一會兒。"
 
 # game/sean12192024.rpy:5084
-translate chinese s12192019Hank_dfb3b1fd:
+translate Tchinese s12192019Hank_dfb3b1fd:
 
     # cody "Nothing else strange?"
     cody "還有其他怪事嗎？"
 
 # game/sean12192024.rpy:5087
-translate chinese s12192019Hank_8dd15bb7:
+translate Tchinese s12192019Hank_8dd15bb7:
 
     # sean sideSeanConcerned "We found some... weird... things in our rooms. One of them did have someone in it, but-"
     sean sideSeanConcerned "我們有在房間裡找到一些……怪……東西。其中一間是真的有人在，不過——"
 
 # game/sean12192024.rpy:5091
-translate chinese s12192019Hank_66d7d81c:
+translate Tchinese s12192019Hank_66d7d81c:
 
     # "I stop myself and look at Hank. He sighs and shrugs."
     "我欲言又止，看向Hank。他嘆氣聳肩。"
 
 # game/sean12192024.rpy:5094
-translate chinese s12192019Hank_e7eddb15:
+translate Tchinese s12192019Hank_e7eddb15:
 
     # sean sideSeanNeutral "We looked through a computers in one room. One of them was for Channel Six."
     sean sideSeanNeutral "我們查看了某間房的電腦。是第6台的。"
 
 # game/sean12192024.rpy:5095
-translate chinese s12192019Hank_1b98b8f9:
+translate Tchinese s12192019Hank_1b98b8f9:
 
     # sean "Apparently Hank did an interview with them, but he has no memory of it."
     sean "Hank好像被他們採訪過，但他完全不記得這回事。"
 
 # game/sean12192024.rpy:5101
-translate chinese s12192019Hank_b02af64c:
+translate Tchinese s12192019Hank_b02af64c:
 
     # narrator sideSeanConcerned "Arthur and Cody look at each other, give a nod, and then look back at Hank and I."
     narrator sideSeanConcerned "Arthur和Cody對視一眼，點了點頭，回看Hank和我。"
 
 # game/sean12192024.rpy:5102
-translate chinese s12192019Hank_e318e187:
+translate Tchinese s12192019Hank_e318e187:
 
     # "Cody's voice is low when he talks"
     "Cody說話時壓低音量。"
 
 # game/sean12192024.rpy:5107
-translate chinese s12192019Hank_1c23f88f:
+translate Tchinese s12192019Hank_1c23f88f:
 
     # cody "We... also did some snooping. Someone recorded a video at the gas station."
     cody "我們……也翻了些東西。有人在加油站錄了影片。"
 
 # game/sean12192024.rpy:5108
-translate chinese s12192019Hank_8ac489e1:
+translate Tchinese s12192019Hank_8ac489e1:
 
     # cody "I had checked them out but-"
     cody "我確實有替他們服務過，但——"
 
 # game/sean12192024.rpy:5112
-translate chinese s12192019Hank_8612ad3e:
+translate Tchinese s12192019Hank_8612ad3e:
 
     # narrator sideSeanNeutral "He cuts himself off as we hear footsteps approaching."
     narrator sideSeanNeutral "有腳步聲靠近，他就不說了。"
 
 # game/sean12192024.rpy:5115
-translate chinese s12192019Hank_2ae36385:
+translate Tchinese s12192019Hank_2ae36385:
 
     # cody "Nevermind."
     cody "當我沒說吧。"
 
 # game/sean12192024.rpy:5128
-translate chinese s12192019Hank_cf39d0f9:
+translate Tchinese s12192019Hank_cf39d0f9:
 
     # "Our heads look back to the western wing. Rocco and Claire walk towards us with dejected looks."
     "我們回頭看向西翼。Rocco和Claire垂頭喪氣朝我們走來。"
 
 # game/sean12192024.rpy:5129
-translate chinese s12192019Hank_b2f636e1:
+translate Tchinese s12192019Hank_b2f636e1:
 
     # "Claire just walks past us to her computer and begins typing away at the keys."
     "Claire徑直走過我們身旁，坐到她的電腦前開始敲鍵盤。"
 
 # game/sean12192024.rpy:5132
-translate chinese s12192019Hank_84d3e560:
+translate Tchinese s12192019Hank_84d3e560:
 
     # cody "How'd it go?"
     cody "怎麼樣？"
 
 # game/sean12192024.rpy:5137
-translate chinese s12192019Hank_9e4cae20:
+translate Tchinese s12192019Hank_9e4cae20:
 
     # rocco "Shitty."
     rocco "糟透了。"
 
 # game/sean12192024.rpy:5140
-translate chinese s12192019Hank_6d412e89:
+translate Tchinese s12192019Hank_6d412e89:
 
     # "He throws the keys down on the table. Each one marked showing that someone was there."
     "他把房卡甩在桌上。每張都標記有人住。"
 
 # game/sean12192024.rpy:5143
-translate chinese s12192019Hank_90631fa0:
+translate Tchinese s12192019Hank_90631fa0:
 
     # rocco "All of them had people's crap. Though, for most of them, it's like they hadn't been used for a week."
     rocco "每間都有別人的東西。不過大多數看起來像一禮拜沒人碰過。"
 
 # game/sean12192024.rpy:5164
-translate chinese s12192019AfterHotel_b9984732:
+translate Tchinese s12192019AfterHotel_b9984732:
 
     # hank sideSeanNeutral "Should we check the-"
     hank sideSeanNeutral "我們要不要查——"
 
 # game/sean12192024.rpy:5167
-translate chinese s12192019AfterHotel_2abe2d11:
+translate Tchinese s12192019AfterHotel_2abe2d11:
 
     # rocco "CCTV footage only goes back twenty four hours."
     rocco "監視器畫面只紀錄24小時。"
 
 # game/sean12192024.rpy:5171
-translate chinese s12192019AfterHotel_5312e43d:
+translate Tchinese s12192019AfterHotel_5312e43d:
 
     # claire "No, it stores a month of footage."
     claire "不對，會保存一個月。"
 
 # game/sean12192024.rpy:5178
-translate chinese s12192019AfterHotel_70bfb724:
+translate Tchinese s12192019AfterHotel_70bfb724:
 
     # narrator sideSeanConcerned "I see panic go over Rocco and Hank's faces."
     narrator sideSeanConcerned "Rocco和Hank臉上泛起恐慌之情。"
 
 # game/sean12192024.rpy:5181
-translate chinese s12192019AfterHotel_ac3e7427:
+translate Tchinese s12192019AfterHotel_ac3e7427:
 
     # "That reassurance Cody gave vanished in an instant."
     "Cody方才給的安慰瞬間消散。"
 
 # game/sean12192024.rpy:5186
-translate chinese s12192019AfterHotel_c4d4a814:
+translate Tchinese s12192019AfterHotel_c4d4a814:
 
     # rocco sideSeanNeutral "We haven't cleaned out the files in years. It's probably full."
     rocco sideSeanNeutral "我們都好幾年沒清檔案了。內存大概滿了。"
 
 # game/sean12192024.rpy:5190
-translate chinese s12192019AfterHotel_34f4cefe:
+translate Tchinese s12192019AfterHotel_34f4cefe:
 
     # claire "At the end of the month it automatically zips and sends them to corporate for long term storage."
     claire "月底都會自動壓縮，傳給總公司長期儲存。"
 
 # game/sean12192024.rpy:5195
-translate chinese s12192019AfterHotel_f3a733c0:
+translate Tchinese s12192019AfterHotel_f3a733c0:
 
     # "The panic grows on Hank and Rocco's faces."
     "Hank和Rocco臉上的恐慌加劇。"
 
 # game/sean12192024.rpy:5199
-translate chinese s12192019AfterHotel_9657851e:
+translate Tchinese s12192019AfterHotel_9657851e:
 
     # claire "I'm actually checking it right now. It's gonna take a minute to uncompress the files though."
     claire "其實我現在就在查。不過解壓縮檔案要一點時間。"
 
 # game/sean12192024.rpy:5204
-translate chinese s12192019AfterHotel_a1773728:
+translate Tchinese s12192019AfterHotel_a1773728:
 
     # rocco "You don't need to worry about that. We can look at it."
     rocco "不用麻煩妳了。我們自己看就好。"
 
 # game/sean12192024.rpy:5212
-translate chinese s12192019AfterHotel_26a04c4d:
+translate Tchinese s12192019AfterHotel_26a04c4d:
 
     # claire "Rocco I know Sean, Arthur, and Cody don't work here."
     claire "Rocco，我知道Sean、Arthur和Cody不是這裡的員工。"
 
 # game/sean12192024.rpy:5215
-translate chinese s12192019AfterHotel_b8c5d01a:
+translate Tchinese s12192019AfterHotel_b8c5d01a:
 
     # "They all freeze."
     "他們全都僵住了。"
 
 # game/sean12192024.rpy:5218
-translate chinese s12192019AfterHotel_d681a1c5:
+translate Tchinese s12192019AfterHotel_d681a1c5:
 
     # claire sideSeanScared "Rocco I know Sean, Arthur, and Cody don't work here."
     claire sideSeanScared "Rocco，我知道Sean、Arthur和Cody不是這裡的員工。"
 
 # game/sean12192024.rpy:5221
-translate chinese s12192019AfterHotel_71c7c30d:
+translate Tchinese s12192019AfterHotel_71c7c30d:
 
     # "We all freeze."
     "我們全都僵住了。"
 
 # game/sean12192024.rpy:5224
-translate chinese s12192019AfterHotel_7def0696:
+translate Tchinese s12192019AfterHotel_7def0696:
 
     # claire "I pulled a registry of every employee at this hotel."
     claire "我調出了這間旅館所有員工的名單。"
 
 # game/sean12192024.rpy:5225
-translate chinese s12192019AfterHotel_04ece1e9:
+translate Tchinese s12192019AfterHotel_04ece1e9:
 
     # claire "I was going to contact and get other people's stories to see if they noticed anything weird with the system."
     claire "我本來是想聯絡其他人，打聽有沒有誰發現系統出錯。"
 
 # game/sean12192024.rpy:5228
-translate chinese s12192019AfterHotel_93920385:
+translate Tchinese s12192019AfterHotel_93920385:
 
     # "She slightly folds down the top of her laptop making direct eye contact with Rocco."
     "她微微壓低筆電螢幕，直視Rocco。"
 
 # game/sean12192024.rpy:5237
-translate chinese s12192019AfterHotel_a466fcb2:
+translate Tchinese s12192019AfterHotel_a466fcb2:
 
     # claire sideSeanNeutral "Don't worry I'm not gonna snitch at whatever it is you're doing here. I don't get paid enough to worry about it."
     claire sideSeanNeutral "別擔心，不管你們在這裡搞什麼，我都不會舉報的。薪水沒多到讓我想多管閒事。"
 
 # game/sean12192024.rpy:5239
-translate chinese s12192019AfterHotel_6a509278:
+translate Tchinese s12192019AfterHotel_6a509278:
 
     # claire "However, I do want to know what's going on."
     claire "不過，我確實想知道實情。"
 
 # game/sean12192024.rpy:5242
-translate chinese s12192019AfterHotel_63aad0ea:
+translate Tchinese s12192019AfterHotel_63aad0ea:
 
     # "All the tension in Hank and Rocco's body seems to leave as they both sit down on the ground."
     "Hank和Rocco身上的緊張感似乎瞬間散去，兩人都癱坐在地。"
 
 # game/sean12192024.rpy:5245
-translate chinese s12192019AfterHotel_280fae52:
+translate Tchinese s12192019AfterHotel_280fae52:
 
     # rocco "Thank god."
     rocco "謝天謝地。"
 
 # game/sean12192024.rpy:5249
-translate chinese s12192019AfterHotel_30cf9164:
+translate Tchinese s12192019AfterHotel_30cf9164:
 
     # claire "What don't you want me to see?"
     claire "你們不想讓我看到什麼？"
 
 # game/sean12192024.rpy:5253
-translate chinese s12192019AfterHotel_753c6bdb:
+translate Tchinese s12192019AfterHotel_753c6bdb:
 
     # rocco "Hank and I do double duty. We trade work days."
     rocco "Hank和我身兼雙職。我們會輪班。"
 
 # game/sean12192024.rpy:5257
-translate chinese s12192019AfterHotel_43db9e37:
+translate Tchinese s12192019AfterHotel_43db9e37:
 
     # claire "Cuz it's a slow hotel? I get that."
     claire "因為旅館沒什麼生意嗎？能理解。"
 
 # game/sean12192024.rpy:5258
-translate chinese s12192019AfterHotel_6669fc5b:
+translate Tchinese s12192019AfterHotel_6669fc5b:
 
     # claire "Oh! Looks like yesterday's footage is ready."
     claire "哦！看來昨天的錄像已經好了。"
 
 # game/sean12192024.rpy:5272
-translate chinese s12192019AfterHotel_5a69349f:
+translate Tchinese s12192019AfterHotel_5a69349f:
 
     # narrator sideSeanNeutral "She hops off the counter and spins the laptop around to face the group. The footage shows different sides of the building."
     narrator sideSeanNeutral "她從櫃檯跳下，把筆電轉向大家。畫面顯示著建築的不同角度。"
 
 # game/sean12192024.rpy:5273
-translate chinese s12192019AfterHotel_7d9ee581:
+translate Tchinese s12192019AfterHotel_7d9ee581:
 
     # "Claire punches the arrow keys to change cameras and eventually lands on a split screen of the front door and front desk."
     "Claire按著方向鍵切換鏡頭，最後停在前門和大廳櫃檯的分鏡畫面。"
 
 # game/sean12192024.rpy:5274
-translate chinese s12192019AfterHotel_da785582:
+translate Tchinese s12192019AfterHotel_da785582:
 
     # "A bored husky sits behind the desk."
     "一隻無聊的哈士奇坐在櫃檯後方。"
 
 # game/sean12192024.rpy:5278
-translate chinese s12192019AfterHotel_bd9b9123:
+translate Tchinese s12192019AfterHotel_bd9b9123:
 
     # rocco "I doubt we're gonna see anything. No one came in yesterday."
     rocco "應該沒什麼有趣的。昨天沒人來。"
 
 # game/sean12192024.rpy:5282
-translate chinese s12192019AfterHotel_77ccf9b8:
+translate Tchinese s12192019AfterHotel_77ccf9b8:
 
     # "On cue a snow leopard walks in through the door. They're wearing a light cardigan with a sun hat."
     "話音剛落，就有一隻雪豹走進門。穿著淺色開襟衫，頭戴遮陽帽。"
 
 # game/sean12192024.rpy:5283
-translate chinese s12192019AfterHotel_fa3d381d:
+translate Tchinese s12192019AfterHotel_fa3d381d:
 
     # "Behind them walks a nervous squirrel with glasses and a long scarf. They both approach the front desk and talk with Rocco."
     "後面跟著一隻緊張的松鼠，戴著眼鏡和長圍巾。兩人都走向櫃檯，跟Rocco對話。"
 
 # game/sean12192024.rpy:5287
-translate chinese s12192019AfterHotel_f4a43c60:
+translate Tchinese s12192019AfterHotel_f4a43c60:
 
     # claire "You were saying?"
     claire "你剛說什麼來著？"
 
 # game/sean12192024.rpy:5291
-translate chinese s12192019AfterHotel_05a26938:
+translate Tchinese s12192019AfterHotel_05a26938:
 
     # rocco sideSeanConcerned "What the fuck, no one came in that night!"
     rocco sideSeanConcerned "什麼情況，那晚根本沒人進來！"
 
 # game/sean12192024.rpy:5296
-translate chinese s12192019AfterHotel_a4768159:
+translate Tchinese s12192019AfterHotel_a4768159:
 
     # arthur sideSeanSmile "Video says otherwise."
     arthur sideSeanSmile "影片可不是這麼說的。"
 
 # game/sean12192024.rpy:5301
-translate chinese s12192019AfterHotel_52fe6b3e:
+translate Tchinese s12192019AfterHotel_52fe6b3e:
 
     # cody sideSeanNeutral "Arthur..."
     cody sideSeanNeutral "Arthur……"
 
 # game/sean12192024.rpy:5304
-translate chinese s12192019AfterHotel_acb4f39b:
+translate Tchinese s12192019AfterHotel_acb4f39b:
 
     # "They grab a key from him and walk off to the east wing."
     "他們從他手中接過房卡，走向東翼。"
 
 # game/sean12192024.rpy:5307
-translate chinese s12192019AfterHotel_b0b0347e:
+translate Tchinese s12192019AfterHotel_b0b0347e:
 
     # sean "What time was that?"
     sean "這是幾點的事？"
 
 # game/sean12192024.rpy:5311
-translate chinese s12192019AfterHotel_6c0a16f9:
+translate Tchinese s12192019AfterHotel_6c0a16f9:
 
     # claire "Six thirty eight, why?"
     claire "6:38，怎麼了？"
 
 # game/sean12192024.rpy:5315
-translate chinese s12192019AfterHotel_0702b67c:
+translate Tchinese s12192019AfterHotel_0702b67c:
 
     # sean "Does your list log what time someone checked in?"
     sean "妳的名單有記錄入住時間嗎？"
 
 # game/sean12192024.rpy:5318
-translate chinese s12192019AfterHotel_25732285:
+translate Tchinese s12192019AfterHotel_25732285:
 
     # "Immediately Claire begins navigating through folders. She quickly finds some file filled with text."
     "Claire立刻開始翻找資料夾。很快便找到一個滿是文字的檔案。"
 
 # game/sean12192024.rpy:5319
-translate chinese s12192019AfterHotel_e682c942:
+translate Tchinese s12192019AfterHotel_e682c942:
 
     # "After a few key presses, it looks like she found what I was looking for."
     "按幾下鍵後，好像就找到了我要的東西。"
 
 # game/sean12192024.rpy:5324
-translate chinese s12192019AfterHotel_bc0a34e8:
+translate Tchinese s12192019AfterHotel_bc0a34e8:
 
     # claire "One Miss Sibl Taenfeather. I know what room she got, and it matches with some things we saw in it."
     claire "Sibl Taenfeather小姐。我知道她住哪間房了，對得上我們看到的內容。"
 
 # game/sean12192024.rpy:5327
-translate chinese s12192019AfterHotel_86c1d4ce:
+translate Tchinese s12192019AfterHotel_86c1d4ce:
 
     # "She turns her computer around to show us."
     "她把電腦轉過來給我們看。"
 
 # game/sean12192024.rpy:5330
-translate chinese s12192019AfterHotel_086bc5d1:
+translate Tchinese s12192019AfterHotel_086bc5d1:
 
     # sean "I can vouch for her. The sun hat and bag were in the room."
     sean "我可以證實。遮陽帽和包都在房間裡。"
 
 # game/sean12192024.rpy:5334
-translate chinese s12192019AfterHotel_d3a45511:
+translate Tchinese s12192019AfterHotel_d3a45511:
 
     # "The rest of us look at Rocco. His tail droops low and he avoids our eyes."
     "其他人都看向Rocco。他尾巴下垂，避開我們的目光。"
 
 # game/sean12192024.rpy:5338
-translate chinese s12192019AfterHotel_97dc3889:
+translate Tchinese s12192019AfterHotel_97dc3889:
 
     # claire "One Miss Sibl Taenfeather... Ring any bells Rocco? Hank?"
     claire "Sibl Taenfeather小姐……有印象嗎，Rocco？Hank？"
 
 # game/sean12192024.rpy:5342
-translate chinese s12192019AfterHotel_c5507413:
+translate Tchinese s12192019AfterHotel_c5507413:
 
     # rocco "Nadda."
     rocco "完全沒。"
 
 # game/sean12192024.rpy:5345
-translate chinese s12192019AfterHotel_544b2422:
+translate Tchinese s12192019AfterHotel_544b2422:
 
     # "Hank shakes his head no. Well shit. I thought we had something."
     "Hank搖頭。媽的，還以為有點線索了。"
 
 # game/sean12192024.rpy:5349
-translate chinese s12192019AfterHotel_3ad44664:
+translate Tchinese s12192019AfterHotel_3ad44664:
 
     # sean "I saw her stuff. It was in room 108. The room I checked before Cody showed me the bathroom."
     sean "我有看到她的東西。在108號房。是我在Cody帶我去看浴室前查的那間。"
 
 # game/sean12192024.rpy:5352
-translate chinese s12192019AfterHotel_ee330471:
+translate Tchinese s12192019AfterHotel_ee330471:
 
     # "Everyone looks at me, as if there's more to say."
     "大家都看向我，好像我還有什麼後續能說似的。"
 
 # game/sean12192024.rpy:5356
-translate chinese s12192019AfterHotel_97dc3889_1:
+translate Tchinese s12192019AfterHotel_97dc3889_1:
 
     # claire "One Miss Sibl Taenfeather... Ring any bells Rocco? Hank?"
     claire "Sibl Taenfeather小姐……有印象嗎，Rocco？Hank？"
 
 # game/sean12192024.rpy:5359
-translate chinese s12192019AfterHotel_c5507413_1:
+translate Tchinese s12192019AfterHotel_c5507413_1:
 
     # rocco "Nadda."
     rocco "完全沒。"
 
 # game/sean12192024.rpy:5362
-translate chinese s12192019AfterHotel_544b2422_1:
+translate Tchinese s12192019AfterHotel_544b2422_1:
 
     # "Hank shakes his head no. Well shit. I thought we had something."
     "Hank搖頭。媽的，還以為有點線索了。"
 
 # game/sean12192024.rpy:5366
-translate chinese s12192019AfterHotel_f9ab11f6:
+translate Tchinese s12192019AfterHotel_f9ab11f6:
 
     # claire "Welp, as fun and interesting as this little investigation was, that's all I can do for you."
     claire "好吧，這小小調查雖然挺有趣的，但我也就能幫這麼多了。"
 
 # game/sean12192024.rpy:5367
-translate chinese s12192019AfterHotel_63868c26:
+translate Tchinese s12192019AfterHotel_63868c26:
 
     # claire "I'll send you the list I pulled from the database. I have the CCTV footage extracting to your server right now."
     claire "我會把從資料庫拉的名單傳給你們。監視器畫面現在正在解壓縮到你們的伺服器上。"
 
 # game/sean12192024.rpy:5368
-translate chinese s12192019AfterHotel_510b6350:
+translate Tchinese s12192019AfterHotel_510b6350:
 
     # claire "Once it's done you can start looking through it. Should be in the backups folder."
     claire "結束以後你們就能看了。應該會在backups資料夾裡。"
 
 # game/sean12192024.rpy:5373
-translate chinese s12192019AfterHotel_68910ec2:
+translate Tchinese s12192019AfterHotel_68910ec2:
 
     # arthur sideSeanConcerned "You're not gonna help us figure this out?"
     arthur sideSeanConcerned "妳不幫我們繼續查下去嗎？"
 
 # game/sean12192024.rpy:5379
-translate chinese s12192019AfterHotel_b71c459d:
+translate Tchinese s12192019AfterHotel_b71c459d:
 
     # claire "Nope. I gotta report to write, then I got a date with my girlfriend tonight."
     claire "不會。我還要寫報告，然後晚上要跟女朋友約會。"
 
 # game/sean12192024.rpy:5384
-translate chinese s12192019AfterHotel_0e2bfba7:
+translate Tchinese s12192019AfterHotel_0e2bfba7:
 
     # claire "Nope. I gotta report to write, then I got a date with my g- partner tonight."
     claire "不會。我還要寫報告，然後晚上要跟……對象約會。"
 
 # game/sean12192024.rpy:5387
-translate chinese s12192019AfterHotel_10df6e7e:
+translate Tchinese s12192019AfterHotel_10df6e7e:
 
     # "She grabs a notepad off the front desk and scribbles something on it."
     "她從櫃檯抄起一本記事本快速寫了些東西。"
 
 # game/sean12192024.rpy:5391
-translate chinese s12192019AfterHotel_51852e78:
+translate Tchinese s12192019AfterHotel_51852e78:
 
     # claire "Here. Shoot me a text if you solve the case, or if you can't find the footage."
     claire "拿去。如果破案了或找不到畫面，就發消息給我吧。"
 
 # game/sean12192024.rpy:5394
-translate chinese s12192019AfterHotel_36d0a83a:
+translate Tchinese s12192019AfterHotel_36d0a83a:
 
     # "She paws it to Rocco."
     "她把紙遞給Rocco。"
 
 # game/sean12192024.rpy:5397
-translate chinese s12192019AfterHotel_cd9ef4b5:
+translate Tchinese s12192019AfterHotel_cd9ef4b5:
 
     # rocco "Thanks. You need anything before you go?"
     rocco "謝了。妳離開之前還需要什麼嗎？"
 
 # game/sean12192024.rpy:5401
-translate chinese s12192019AfterHotel_e3f2b362:
+translate Tchinese s12192019AfterHotel_e3f2b362:
 
     # claire "Nah, I'm fine. Good luck gang!"
     claire "不用了。祝你們大家好運！"
 
 # game/sean12192024.rpy:5416
-translate chinese s12192019AfterHotel_499067a0:
+translate Tchinese s12192019AfterHotel_499067a0:
 
     # "With a wave she heads out to her car and drives away. Now that leaves the five of us in the foyer."
     "她揮揮手，走上車駛離。大廳只剩我們五個人了。"
 
 # game/sean12192024.rpy:5420
-translate chinese s12192019AfterHotel_1edf1219:
+translate Tchinese s12192019AfterHotel_1edf1219:
 
     # hank "So where do we go from here? File a missing person report?"
     hank "那接下來怎麼辦？報告有人失蹤嗎？"
 
 # game/sean12192024.rpy:5427
-translate chinese s12192019AfterHotel_2a88616b:
+translate Tchinese s12192019AfterHotel_2a88616b:
 
     # sean sideSeanNeutral "Actually, Claire and I found something interesting in one of the rooms. I think the amnesia girl's parents stayed here."
     sean sideSeanNeutral "其實，我跟Claire在其中一間房發現了有意思的東西。我覺得那個失憶少女的父母住過這裡。"
 
 # game/sean12192024.rpy:5430
-translate chinese s12192019AfterHotel_8df2f4b4:
+translate Tchinese s12192019AfterHotel_8df2f4b4:
 
     # "The group looks at me."
     "大家看向我。"
 
 # game/sean12192024.rpy:5437
-translate chinese s12192019AfterHotel_73557a02:
+translate Tchinese s12192019AfterHotel_73557a02:
 
     # sean sideSeanEmbarrassed "W-we found a laptop with a stoat family as a screensaver. M-maybe there's a connection."
     sean sideSeanEmbarrassed "我、我們找到了一台筆電，螢幕保護圖片是一家白鼬。或、或許有什麼關聯。"
 
 # game/sean12192024.rpy:5441
-translate chinese s12192019AfterHotel_ed068c9b:
+translate Tchinese s12192019AfterHotel_ed068c9b:
 
     # rocco sideSeanNeutral "Sean there wasn't a family of-"
     rocco sideSeanNeutral "Sean，根本就沒有什麼一家——"
 
 # game/sean12192024.rpy:5445
-translate chinese s12192019AfterHotel_b35b0284:
+translate Tchinese s12192019AfterHotel_b35b0284:
 
     # "Rocco cuts himself off."
     "Rocco自己打住。"
 
 # game/sean12192024.rpy:5450
-translate chinese s12192019AfterHotel_4c48d143:
+translate Tchinese s12192019AfterHotel_4c48d143:
 
     # rocco "Nope, not finishing that cuz' you'll just say I'm fuckin' crazy."
     rocco "算了，不多講了，不然你們他媽又要說我瘋了。"
 
 # game/sean12192024.rpy:5453
-translate chinese s12192019AfterHotel_cbc16456:
+translate Tchinese s12192019AfterHotel_cbc16456:
 
     # "He pouts and Cody rubs his back. To be fair, I don't think we should be relying on Rocco and Hank's memory."
     "他撅起嘴，Cody拍著他的背。有一說一，我們不能仰賴Rocco和Hank的記憶。"
 
 # game/sean12192024.rpy:5458
-translate chinese s12192019AfterHotel_cafbf75f:
+translate Tchinese s12192019AfterHotel_cafbf75f:
 
     # cody "So we gotta do the report for them, and then what."
     cody "那我們就得幫他們報案，然後呢？"
 
 # game/sean12192024.rpy:5461
-translate chinese s12192019AfterHotel_305135f1:
+translate Tchinese s12192019AfterHotel_305135f1:
 
     # hank "We'll probably have to do it for everyone."
     hank "大概得幫所有人都報案吧。"
 
 # game/sean12192024.rpy:5468
-translate chinese s12192019AfterHotel_fc6008be:
+translate Tchinese s12192019AfterHotel_fc6008be:
 
     # sean sideSeanNeutral "I think I know where one person is."
     sean sideSeanNeutral "我可能知道其中一個人在哪。"
 
 # game/sean12192024.rpy:5471
-translate chinese s12192019AfterHotel_6f414937:
+translate Tchinese s12192019AfterHotel_6f414937:
 
     # "They all look at me."
     "大家都看向我。"
 
 # game/sean12192024.rpy:5478
-translate chinese s12192019AfterHotel_3ce4d44a:
+translate Tchinese s12192019AfterHotel_3ce4d44a:
 
     # sean sideSeanEmbarrassed "The hole? Remember that bathroom Hank and I found?"
     sean sideSeanEmbarrassed "那個天坑？記得Hank和我找到的那間浴室嗎？"
 
 # game/sean12192024.rpy:5481
-translate chinese s12192019AfterHotel_8bfb24d7:
+translate Tchinese s12192019AfterHotel_8bfb24d7:
 
     # rocco sideSeanNeutral "No?"
     rocco sideSeanNeutral "啥？"
 
 # game/sean12192024.rpy:5484
-translate chinese s12192019AfterHotel_bbdf2a30:
+translate Tchinese s12192019AfterHotel_bbdf2a30:
 
     # hank "You weren't back yet."
     hank "那時候你還沒回來。"
 
 # game/sean12192024.rpy:5487
-translate chinese s12192019AfterHotel_a6f76e24:
+translate Tchinese s12192019AfterHotel_a6f76e24:
 
     # cody "I doubt it. If they were stuck in the hole we would've definitely heard them."
     cody "不太可能吧。如果有人被卡在坑裡出不來，我們一定聽得到動靜。"
 
 # game/sean12192024.rpy:5494
-translate chinese s12192019AfterHotel_bf3b39f6:
+translate Tchinese s12192019AfterHotel_bf3b39f6:
 
     # arthur sideSeanSmile "What if they were abducted by ALIENS!!!"
     arthur sideSeanSmile "會不會是被{b}外星人{/b}綁架了！！！？"
 
 # game/sean12192024.rpy:5497
-translate chinese s12192019AfterHotel_7065d68b:
+translate Tchinese s12192019AfterHotel_7065d68b:
 
     # "Everyone chuckles at that. Even Hank breaks his stoic demeanor."
     "大家都笑了。連面癱的Hank都破顏了。"
 
 # game/sean12192024.rpy:5504
-translate chinese s12192019AfterHotel_68fa63d3:
+translate Tchinese s12192019AfterHotel_68fa63d3:
 
     # cody sideSeanNeutral "In all seriousness, we should at least report everyone. Just in case someone sees them."
     cody sideSeanNeutral "講真的，我們至少該幫所有人報案。指不定有人見到他們呢。"
 
 # game/sean12192024.rpy:5507
-translate chinese s12192019AfterHotel_bfc56ae3:
+translate Tchinese s12192019AfterHotel_bfc56ae3:
 
     # "Rocco groans."
     "Rocco一陣呻吟。"
 
 # game/sean12192024.rpy:5514
-translate chinese s12192019AfterHotel_75560649:
+translate Tchinese s12192019AfterHotel_75560649:
 
     # rocco sideSeanNeutral "That's gonna be a fuckin pain!"
     rocco sideSeanNeutral "那也太他媽麻煩了！"
 
 # game/sean12192024.rpy:5517
-translate chinese s12192019AfterHotel_a04382d3:
+translate Tchinese s12192019AfterHotel_a04382d3:
 
     # arthur "So we're just gonna go to the police station now?"
     arthur "所以我們現在直接去警察局嗎？"
 
 # game/sean12192024.rpy:5521
-translate chinese s12192019AfterHotel_809260ca:
+translate Tchinese s12192019AfterHotel_809260ca:
 
     # rocco "I don't fuckin' know. Uuugh..."
     rocco "誰他媽知道啊。唔呃呃……"
 
 # game/sean12192024.rpy:5538
-translate chinese s12192019AfterHotel_9714c96f:
+translate Tchinese s12192019AfterHotel_9714c96f:
 
     # nvl clear
     # nulln sideSeanNeutral "We talk it over for a bit, and decide to head over to the station."
@@ -10269,49 +10269,49 @@ translate chinese s12192019AfterHotel_9714c96f:
     nulln sideSeanNeutral "我們討論一陣子後，決定去警局。"
 
 # game/sean12192024.rpy:5540
-translate chinese s12192019AfterHotel_2f4d928c:
+translate Tchinese s12192019AfterHotel_2f4d928c:
 
     # nulln "Hank stays behind to watch after the hotel."
     nulln "Hank留下看守旅館。"
 
 # game/sean12192024.rpy:5541
-translate chinese s12192019AfterHotel_fb7da930:
+translate Tchinese s12192019AfterHotel_fb7da930:
 
     # nulln "The parking lot of the station is sparse."
     nulln "警局停車場很空。"
 
 # game/sean12192024.rpy:5542
-translate chinese s12192019AfterHotel_f7d5c601:
+translate Tchinese s12192019AfterHotel_f7d5c601:
 
     # nulln "Only a couple of cars sit in the lot."
     nulln "只停了幾輛車。"
 
 # game/sean12192024.rpy:5546
-translate chinese s12192019AfterHotel_1e1e4882:
+translate Tchinese s12192019AfterHotel_1e1e4882:
 
     # nulln sideSeanConcerned "Inside we're able to describe the situation to the receptionist. Apparently, like the guests at the hotel, some cops have gone missing."
     nulln sideSeanConcerned "我們向櫃台描述情況。才知道原來有些警員也像旅館客人一樣失蹤了。"
 
 # game/sean12192024.rpy:5547
-translate chinese s12192019AfterHotel_e29ef88c:
+translate Tchinese s12192019AfterHotel_e29ef88c:
 
     # nulln "From the names of missing cops, just like the mysterious hotel people, no one knew who they were."
     nulln "失蹤警員的名字，跟旅館那些神秘人一樣，沒人認得。"
 
 # game/sean12192024.rpy:5548
-translate chinese s12192019AfterHotel_a0d4e9e7:
+translate Tchinese s12192019AfterHotel_a0d4e9e7:
 
     # nulln "The receptionist said they'll try to get someone out tomorrow for an official investigation. Until then we were told to leave the rooms as is."
     nulln "櫃台說明天會試著派人來正式調查。叫我們在那之前別動房間。"
 
 # game/sean12192024.rpy:5552
-translate chinese s12192019AfterHotel_e50a9eaf:
+translate Tchinese s12192019AfterHotel_e50a9eaf:
 
     # nulln sideSeanNeutral "I guess that's all we can do."
     nulln sideSeanNeutral "我們也就能做這麼多了。"
 
 # game/sean12192024.rpy:5554
-translate chinese s12192019AfterHotel_d3c4c82f:
+translate Tchinese s12192019AfterHotel_d3c4c82f:
 
     # nvl clear
     # nulln "The four of us then went out to get lunch at the old sandwich shop run by Mr. Parson."
@@ -10319,25 +10319,25 @@ translate chinese s12192019AfterHotel_d3c4c82f:
     nulln "我們四個到Parson先生開的老三明治店吃午餐。"
 
 # game/sean12192024.rpy:5556
-translate chinese s12192019AfterHotel_43380a34:
+translate Tchinese s12192019AfterHotel_43380a34:
 
     # nulln "We didn't chat much and mostly focused on our meals."
     nulln "沒怎麼聊天，基本專注在食物上。"
 
 # game/sean12192024.rpy:5559
-translate chinese s12192019AfterHotel_381e0284:
+translate Tchinese s12192019AfterHotel_381e0284:
 
     # nulln "Afterwards Rocco grabbed a sandwich to go for Hank, and went back to the hotel to finish his shift."
     nulln "吃完，Rocco幫Hank打包了一個三明治，然後回旅館繼續上班。"
 
 # game/sean12192024.rpy:5560
-translate chinese s12192019AfterHotel_a4fd1c4e:
+translate Tchinese s12192019AfterHotel_a4fd1c4e:
 
     # nulln "While he was there, Cody, Arthur, and I decided to take a walk down by the river."
     nulln "在此期間，我、Cody、Arthur決定去河邊走走。"
 
 # game/sean12192024.rpy:5573
-translate chinese s12192019AfterHotel_2f977217:
+translate Tchinese s12192019AfterHotel_2f977217:
 
     # nvl clear
     # nulln sideSeanNeutral "Clouds cover the sky in a gray haze. A cool breeze flows with the river."
@@ -10345,73 +10345,73 @@ translate chinese s12192019AfterHotel_2f977217:
     nulln sideSeanNeutral "灰霧般的雲遮蔽了天空；涼風隨河水吹來。"
 
 # game/sean12192024.rpy:5575
-translate chinese s12192019AfterHotel_1c16625a:
+translate Tchinese s12192019AfterHotel_1c16625a:
 
     # nulln "The old dirt path that followed the stream has seen better days."
     nulln "溪畔的老土路已經風光不再。"
 
 # game/sean12192024.rpy:5578
-translate chinese s12192019AfterHotel_04019efc:
+translate Tchinese s12192019AfterHotel_04019efc:
 
     # nulln sideSeanScared "Some parts of it have fallen down into the water, others have tree roots starting to poke through the ground, and at times you can easily lose the trail itself due to how dead everything has become."
     nulln sideSeanScared "有些部分已經塌進水裡；有些部分有樹根冒出地面。一片死氣沉沉的，有時都看不出哪裡是路了。"
 
 # game/sean12192024.rpy:5580
-translate chinese s12192019AfterHotel_76b2fe88:
+translate Tchinese s12192019AfterHotel_76b2fe88:
 
     # nvl clear
     nvl clear
 
 # game/sean12192024.rpy:5583
-translate chinese s12192019AfterHotel_8ad3350c:
+translate Tchinese s12192019AfterHotel_8ad3350c:
 
     # nulln sideSeanNeutral "We eventually get to the stone bench."
     nulln sideSeanNeutral "我們終於走到石椅處。"
 
 # game/sean12192024.rpy:5585
-translate chinese s12192019AfterHotel_022e9e86:
+translate Tchinese s12192019AfterHotel_022e9e86:
 
     # nulln "It was a memorial for some lumberjack that gave his life saving a girl from being crushed by a tree."
     nulln "這是用來紀念一位為了救一個快被樹壓死的女孩而犧牲的伐木工。"
 
 # game/sean12192024.rpy:5586
-translate chinese s12192019AfterHotel_5365f3d6:
+translate Tchinese s12192019AfterHotel_5365f3d6:
 
     # nulln sideSeanSmile "During Casey's history phase he had done some research on Carthage. It was an impressively large logging town way back in the day."
     nulln sideSeanSmile "Casey在歷史狂熱時研究過迦太基。彼時這裡是個非凡的伐木大鎮。"
 
 # game/sean12192024.rpy:5589
-translate chinese s12192019AfterHotel_2dd4e80d:
+translate Tchinese s12192019AfterHotel_2dd4e80d:
 
     # nulln "The lumberjacks used the river in the valley to float the large trees to the mills down in Salem."
     nulln "伐木工會利用溪谷的河流把大樹漂到賽勒姆的鋸木廠。"
 
 # game/sean12192024.rpy:5591
-translate chinese s12192019AfterHotel_7641546b:
+translate Tchinese s12192019AfterHotel_7641546b:
 
     # nulln "Because of the amount of lumber being shipped, there was enough incentive to justify a rail line between Carthage and Salem."
     nulln "之所以要往來迦太基與賽勒姆的鐵路，也是由於木材的運送量實在太大。"
 
 # game/sean12192024.rpy:5594
-translate chinese s12192019AfterHotel_0d643975:
+translate Tchinese s12192019AfterHotel_0d643975:
 
     # nulln "Once the abandoned rail line was built they'd use that instead of the river. Logs would go out to Salem and workers would ride it back hoping to get a job somewhere here."
     nulln "現在已經廢棄的鐵路當年建好後，他們就不再運用河流了。木材會被送往賽勒姆，工人則會前來尋找工作。"
 
 # game/sean12192024.rpy:5596
-translate chinese s12192019AfterHotel_9550d560:
+translate Tchinese s12192019AfterHotel_9550d560:
 
     # nulln "Apparently Carthage was busy enough that folk would come all the way from New York for the hope of some kind of work."
     nulln "據說迦太基當時熱鬧到有人從紐約遠道而來找活幹。"
 
 # game/sean12192024.rpy:5597
-translate chinese s12192019AfterHotel_d4f3dbde:
+translate Tchinese s12192019AfterHotel_d4f3dbde:
 
     # nulln "It was, at one point, connected up to the transcontinental railroad. Though that phase didn't last long."
     nulln "有一段時間還接上了橫貫大陸鐵路。沒持續多久就是了。"
 
 # game/sean12192024.rpy:5599
-translate chinese s12192019AfterHotel_c496dafa:
+translate Tchinese s12192019AfterHotel_c496dafa:
 
     # nvl clear
     # nulln sideSeanNeutral "Eventually the deforestation would destroy the land, causing it to erode more frequently. With all the accidents and repairs the rail line would shut down."
@@ -10419,37 +10419,37 @@ translate chinese s12192019AfterHotel_c496dafa:
     nulln sideSeanNeutral "最終，過度砍伐毀了土地，水土流失愈加嚴重。加上諸多事故和維修需求，鐵路關閉了。"
 
 # game/sean12192024.rpy:5601
-translate chinese s12192019AfterHotel_a09cf475:
+translate Tchinese s12192019AfterHotel_a09cf475:
 
     # nulln "With the railway gone, the forest shrinking, and mills closing in Salem, logging companies left the town behind."
     nulln "鐵路沒了、森林縮小、賽勒姆鋸木廠關門大吉，伐木公司就拋棄了小鎮。"
 
 # game/sean12192024.rpy:5602
-translate chinese s12192019AfterHotel_7ecf7e21:
+translate Tchinese s12192019AfterHotel_7ecf7e21:
 
     # nulln "Carthage slowly became a ghost of its former self."
     nulln "迦太基逐漸化為過去的鬼影。"
 
 # game/sean12192024.rpy:5606
-translate chinese s12192019AfterHotel_3d5b1c27:
+translate Tchinese s12192019AfterHotel_3d5b1c27:
 
     # nulln sideSeanSmile "Thankfully ecologists would work to save the land, and the mountain side would be one step of the 'Great Appalachian Trail' project."
     nulln sideSeanSmile "幸好有生態學家出力於拯救土地，山側成了「大阿帕拉契步道」計畫的一環。"
 
 # game/sean12192024.rpy:5607
-translate chinese s12192019AfterHotel_18c5ba72:
+translate Tchinese s12192019AfterHotel_18c5ba72:
 
     # nulln "People would need a place to rest and restock. The husk that was Carthage would be rebuilt a few years after the Night of Fire, and subsequent end of The Great War."
     nulln "人們需要能休息和補給的地方。迦太基的空殼在大火之夜與世界大戰結束後幾年重建了。"
 
 # game/sean12192024.rpy:5609
-translate chinese s12192019AfterHotel_47eca04e:
+translate Tchinese s12192019AfterHotel_47eca04e:
 
     # nulln sideSeanSad "Or at least that's how Casey saw this spot."
     nulln sideSeanSad "至少Casey是如此看代這個地方的。"
 
 # game/sean12192024.rpy:5611
-translate chinese s12192019AfterHotel_b1f56b44:
+translate Tchinese s12192019AfterHotel_b1f56b44:
 
     # nvl clear
     # nulln "I remember it for a different reason."
@@ -10457,523 +10457,523 @@ translate chinese s12192019AfterHotel_b1f56b44:
     nulln "我會記得它，則是另有緣由。"
 
 # game/sean12192024.rpy:5613
-translate chinese s12192019AfterHotel_398a8eb6:
+translate Tchinese s12192019AfterHotel_398a8eb6:
 
     # nulln "There was an alcove a bit further down where you were blind to anyone walking the river trail. So most couples in high school would go on 'private' walks to it."
     nulln "再往下走有個凹室，處於走在河邊步道上的人的盲點。所以高中生情侶大多會去那「私密」散步。"
 
 # game/sean12192024.rpy:5614
-translate chinese s12192019AfterHotel_abb960b5:
+translate Tchinese s12192019AfterHotel_abb960b5:
 
     # nulln "Casey and I were never brave enough to spend time there. Since it was a known secret, couples tended to stumble into each other."
     nulln "Casey和我從沒勇氣去那。這畢竟公開的秘密，常有情侶撞在一起。"
 
 # game/sean12192024.rpy:5615
-translate chinese s12192019AfterHotel_69e5de70:
+translate Tchinese s12192019AfterHotel_69e5de70:
 
     # nulln sideSeanNeutral "Although I would've loved to share in that local ritual, I doubt it would've made our situation any better."
     nulln sideSeanNeutral "雖然我也想參與這一本地儀式，但對我們的處境不是很有利。"
 
 # game/sean12192024.rpy:5628
-translate chinese s12192019AfterHotel_e1f56bfc:
+translate Tchinese s12192019AfterHotel_e1f56bfc:
 
     # narrator sideSeanNeutral "We walked further down to The Riverside Park."
     narrator sideSeanNeutral "我們繼續沿路走到河濱公園。"
 
 # game/sean12192024.rpy:5629
-translate chinese s12192019AfterHotel_f80b2b0d:
+translate Tchinese s12192019AfterHotel_f80b2b0d:
 
     # "It was a group of three wood tables, a fire pit, and a fence to keep drunk people from falling down the mountain into the river."
     "也就是三張木桌、一個火坑，以及防止醉漢從山上掉進河裡的圍欄。"
 
 # game/sean12192024.rpy:5630
-translate chinese s12192019AfterHotel_5de3da1d:
+translate Tchinese s12192019AfterHotel_5de3da1d:
 
     # "Though the wood that made the benches was really showing its age, we took our chances and sat down."
     "雖然長椅的木頭盡顯其老舊，我們還是冒險坐了上去。"
 
 # game/sean12192024.rpy:5631
-translate chinese s12192019AfterHotel_91d970c7:
+translate Tchinese s12192019AfterHotel_91d970c7:
 
     # "Cody and Arthur were facing the river. I sat across from them."
     "Cody和Arthur面向河流。我坐在他們對面。"
 
 # game/sean12192024.rpy:5644
-translate chinese arthurTalkedToCody1219S_f6502e81:
+translate Tchinese arthurTalkedToCody1219S_f6502e81:
 
     # arthur sideSeanConcerned "So, Sean, Cody and I talked a bit last night."
     arthur sideSeanConcerned "我說，Sean，昨晚我和Cody聊了一點。"
 
 # game/sean12192024.rpy:5648
-translate chinese arthurTalkedToCody1219S_dc458c3c:
+translate Tchinese arthurTalkedToCody1219S_dc458c3c:
 
     # "The raccoon averts his gaze and mutters an 'oh no'. Arthur gives him a sympathetic look, but Cody doesn't acknowledge it."
     "浣熊別開視線，嘟嚷一聲「喔不」。Arthur同情地望著他，但Cody不以為意。"
 
 # game/sean12192024.rpy:5651
-translate chinese arthurTalkedToCody1219S_bd95be21:
+translate Tchinese arthurTalkedToCody1219S_bd95be21:
 
     # arthur "Look, I just want to get this part over with."
     arthur "唉，我只是想趕快搞定這件事。"
 
 # game/sean12192024.rpy:5654
-translate chinese arthurTalkedToCody1219S_ea575bf8:
+translate Tchinese arthurTalkedToCody1219S_ea575bf8:
 
     # "He pats Cody on his back."
     "他拍拍Cody的背。"
 
 # game/sean12192024.rpy:5657
-translate chinese arthurTalkedToCody1219S_ddf3ce44:
+translate Tchinese arthurTalkedToCody1219S_ddf3ce44:
 
     # arthur "Do you want to tell him?"
     arthur "你想自己跟他說嗎？"
 
 # game/sean12192024.rpy:5661
-translate chinese arthurTalkedToCody1219S_1ea8a346:
+translate Tchinese arthurTalkedToCody1219S_1ea8a346:
 
     # cody "I'll just mess it up. Like I did last night."
     cody "我只會搞砸而已。就像昨晚。"
 
 # game/sean12192024.rpy:5665
-translate chinese arthurTalkedToCody1219S_9d064db7:
+translate Tchinese arthurTalkedToCody1219S_9d064db7:
 
     # arthur sideSeanNeutral "You didn't- Cody-"
     arthur sideSeanNeutral "你才沒……Cody……"
 
 # game/sean12192024.rpy:5669
-translate chinese arthurTalkedToCody1219S_847dd0f7:
+translate Tchinese arthurTalkedToCody1219S_847dd0f7:
 
     # "He stops himself and takes a breath. There's a bit of frustration behind his voice."
     "他打住，深呼吸一口。聲音帶有挫折感。"
 
 # game/sean12192024.rpy:5673
-translate chinese arthurTalkedToCody1219S_88d5c449:
+translate Tchinese arthurTalkedToCody1219S_88d5c449:
 
     # arthur sideSeanConcerned "I wasn't the best last night either, and you were honest for the first half. It's fine, we just need to talk it out."
     arthur sideSeanConcerned "我昨晚也不怎麼樣，你好歹前半段很誠實。沒關係的，只要好好談就行了。"
 
 # game/sean12192024.rpy:5678
-translate chinese arthurTalkedToCody1219S_fd1b2b39:
+translate Tchinese arthurTalkedToCody1219S_fd1b2b39:
 
     # cody "I don't know why we need to. Let's just stop bringing it up so you both can enjoy your break."
     cody "我不知道為什麼要談。別再提這事了，你們倆好好享受假期就是了。"
 
 # game/sean12192024.rpy:5683
-translate chinese arthurTalkedToCody1219S_e7b3ee79:
+translate Tchinese arthurTalkedToCody1219S_e7b3ee79:
 
     # arthur sideSeanNeutral "You have a scalpel in your sink drawer!"
     arthur sideSeanNeutral "你水槽的抽屜裡放了把手術刀耶！"
 
 # game/sean12192024.rpy:5687
-translate chinese arthurTalkedToCody1219S_a5672375:
+translate Tchinese arthurTalkedToCody1219S_a5672375:
 
     # "Cody shrinks into himself as Arthur raises his voice at him. He stares at nothing on the ground."
     "Cody被Arthur一吼，縮成一團。他空洞地盯著地面。"
 
 # game/sean12192024.rpy:5689
-translate chinese arthurTalkedToCody1219S_af1fa9b1:
+translate Tchinese arthurTalkedToCody1219S_af1fa9b1:
 
     # narrator sideSeanConcerned "His mouth opens only to close,{nw}"
     narrator sideSeanConcerned "嘴巴張了又合，{nw}"
 
 # game/sean12192024.rpy:5691
-translate chinese arthurTalkedToCody1219S_969de676:
+translate Tchinese arthurTalkedToCody1219S_969de676:
 
     # "His mouth opens only to close,{fast} tail sweeping the snow behind him."
     "嘴巴張了又合，{fast}尾巴掃著身後的雪。"
 
 # game/sean12192024.rpy:5692
-translate chinese arthurTalkedToCody1219S_3f131212:
+translate Tchinese arthurTalkedToCody1219S_3f131212:
 
     # "His leg bounces as he fiddles with nothing in his paws. The fur around his neck standing on edge."
     "他腿抖個不停，雙爪相互搓揉。脖子周圍的毛髮直豎。"
 
 # game/sean12192024.rpy:5694
-translate chinese arthurTalkedToCody1219S_f0b3db39:
+translate Tchinese arthurTalkedToCody1219S_f0b3db39:
 
     # "Arthur doesn't stop looking at him."
     "Arthur一直盯著他。"
 
 # game/sean12192024.rpy:5698
-translate chinese arthurTalkedToCody1219S_31099998:
+translate Tchinese arthurTalkedToCody1219S_31099998:
 
     # arthur sideSeanNeutral "You can't keep pretending you're ok. I just want you to tell me what's wrong so we can help."
     arthur sideSeanNeutral "你不能一直假裝沒事。我只希望你能告訴我問題出在哪，我們才有辦法幫你。"
 
 # game/sean12192024.rpy:5701
-translate chinese arthurTalkedToCody1219S_26742aeb:
+translate Tchinese arthurTalkedToCody1219S_26742aeb:
 
     # cody "I already did."
     cody "我已經說了。"
 
 # game/sean12192024.rpy:5705
-translate chinese arthurTalkedToCody1219S_857363b0:
+translate Tchinese arthurTalkedToCody1219S_857363b0:
 
     # arthur "No, you didn't!"
     arthur "你才沒說！"
 
 # game/sean12192024.rpy:5710
-translate chinese arthurTalkedToCody1219S_f086fabc:
+translate Tchinese arthurTalkedToCody1219S_f086fabc:
 
     # cody "Why can't you just believe me."
     cody "你怎麼就不相信我呢？"
 
 # game/sean12192024.rpy:5713
-translate chinese arthurTalkedToCody1219S_0950bf4e:
+translate Tchinese arthurTalkedToCody1219S_0950bf4e:
 
     # narrator sideSeanConcerned "The racoon sighs and goes even deeper into himself. His eyes dart to me as if asking for help."
     narrator sideSeanConcerned "浣熊嘆氣，縮成更小一圈。眼睛瞥向我，像是在求救。"
 
 # game/sean12192024.rpy:5714
-translate chinese arthurTalkedToCody1219S_ddf7bb95:
+translate Tchinese arthurTalkedToCody1219S_ddf7bb95:
 
     # "Arthur is entirely focused on him."
     "Arthur注意力全在他身上。"
 
 # game/sean12192024.rpy:5715
-translate chinese arthurTalkedToCody1219S_aa9b29c7:
+translate Tchinese arthurTalkedToCody1219S_aa9b29c7:
 
     # "Cody's leg starts to speed up as Arthur's voice raises."
     "Arthur提高音量，Cody的腿抖得更快了。"
 
 # game/sean12192024.rpy:5719
-translate chinese arthurTalkedToCody1219S_f18b5f54:
+translate Tchinese arthurTalkedToCody1219S_f18b5f54:
 
     # arthur sideSeanScared "Cody whatever's happening isn't just ok!"
     arthur sideSeanScared "Cody，不管你經歷了什麼，這都不叫沒事！"
 
 # game/sean12192024.rpy:5723
-translate chinese arthurTalkedToCody1219S_5a696171:
+translate Tchinese arthurTalkedToCody1219S_5a696171:
 
     # narrator sideSeanConcerned "The raccoon is trying desperately to ignore the lion."
     narrator sideSeanConcerned "浣熊拼命想忽視獅子。"
 
 # game/sean12192024.rpy:5724
-translate chinese arthurTalkedToCody1219S_c55afda0:
+translate Tchinese arthurTalkedToCody1219S_c55afda0:
 
     # "It isn't working nor is it helping."
     "完全沒用，也沒幫助。"
 
 # game/sean12192024.rpy:5727
-translate chinese arthurTalkedToCody1219S_c3386106:
+translate Tchinese arthurTalkedToCody1219S_c3386106:
 
     # arthur "Let us help.{nw}"
     arthur "就讓我們幫你吧。{nw}"
 
 # game/sean12192024.rpy:5729
-translate chinese arthurTalkedToCody1219S_3be698e8:
+translate Tchinese arthurTalkedToCody1219S_3be698e8:
 
     # arthur "Let us help.{fast} We're your fucking friends!"
     arthur "就讓我們幫你吧。{fast}我們是你他媽的朋友耶！"
 
 # game/sean12192024.rpy:5732
-translate chinese arthurTalkedToCody1219S_51241356:
+translate Tchinese arthurTalkedToCody1219S_51241356:
 
     # narrator sideSeanNeutral "I should put a stop to this."
     narrator sideSeanNeutral "我該出馬叫停了。"
 
 # game/sean12192024.rpy:5733
-translate chinese arthurTalkedToCody1219S_d4e7edc5:
+translate Tchinese arthurTalkedToCody1219S_d4e7edc5:
 
     # "Though I doubt saying anything would actually stop them."
     "但也不知道說什麼才能讓他們消停。"
 
 # game/sean12192024.rpy:5734
-translate chinese arthurTalkedToCody1219S_39567bb9:
+translate Tchinese arthurTalkedToCody1219S_39567bb9:
 
     # narrator sideSeanConcerned "Cody clearly isn't enjoying this spotlight, but I really can't entirely blame Arthur. I want to know what's going on with the raccoon as much as he does."
     narrator sideSeanConcerned "Cody顯然不願受到關切，但也不能全怪Arthur。我也跟他一樣，很想知道浣熊是怎麼了。"
 
 # game/sean12192024.rpy:5735
-translate chinese arthurTalkedToCody1219S_f05ab04d:
+translate Tchinese arthurTalkedToCody1219S_f05ab04d:
 
     # "Though I doubt this pushing this much will get us anywhere."
     "可是像這樣逼他，也難有什麼結果。"
 
 # game/sean12192024.rpy:5736
-translate chinese arthurTalkedToCody1219S_6948032a:
+translate Tchinese arthurTalkedToCody1219S_6948032a:
 
     # narrator sideSeanNeutral "I trust Cody."
     narrator sideSeanNeutral "我信任Cody。"
 
 # game/sean12192024.rpy:5737
-translate chinese arthurTalkedToCody1219S_161d5814:
+translate Tchinese arthurTalkedToCody1219S_161d5814:
 
     # "He'll tell us when he's ready."
     "他準備好，就會告訴我們的。"
 
 # game/sean12192024.rpy:5742
-translate chinese arthurTalkedToCody1219S_214026e7:
+translate Tchinese arthurTalkedToCody1219S_214026e7:
 
     # sean sideSeanAngry "Guys!"
     sean sideSeanAngry "你們兩個！"
 
 # game/sean12192024.rpy:5745
-translate chinese arthurTalkedToCody1219S_5d95728e:
+translate Tchinese arthurTalkedToCody1219S_5d95728e:
 
     # narrator sideSeanEmbarrassed "Shit I didn't expect that to work."
     narrator sideSeanEmbarrassed "操，沒想到這招還真管用。"
 
 # game/sean12192024.rpy:5750
-translate chinese arthurTalkedToCody1219S_9152f0ac:
+translate Tchinese arthurTalkedToCody1219S_9152f0ac:
 
     # sean sideSeanNeutral "Do we really want to do this right now? It is concerning, but Cody clearly isn't gonna talk about it."
     sean sideSeanNeutral "真的要現在談這個嗎？這是很令人憂心沒錯，但Cody明顯就不想談啊。"
 
 # game/sean12192024.rpy:5753
-translate chinese arthurTalkedToCody1219S_f80348cf:
+translate Tchinese arthurTalkedToCody1219S_f80348cf:
 
     # cody "..."
     cody "……"
 
 # game/sean12192024.rpy:5757
-translate chinese arthurTalkedToCody1219S_dac5977f:
+translate Tchinese arthurTalkedToCody1219S_dac5977f:
 
     # sean "We will talk about it Arthur, but later. For now let's focus on what happened last night?"
     sean "我們會談的，Arthur，但不是現在。不如先專注在昨晚的事上吧？"
 
 # game/sean12192024.rpy:5761
-translate chinese arthurTalkedToCody1219S_0febf991:
+translate Tchinese arthurTalkedToCody1219S_0febf991:
 
     # "The two of them look at each other. Cody's leg stops bouncing and he steeples his paws on the table."
     "他們兩個對視。Cody的腿不再抖動，爪子交疊在桌上。"
 
 # game/sean12192024.rpy:5762
-translate chinese arthurTalkedToCody1219S_7879a0bd:
+translate Tchinese arthurTalkedToCody1219S_7879a0bd:
 
     # narrator sideSeanNeutral "Arthur rests a paw on top of them and gives Cody a knowing look."
     narrator sideSeanNeutral "Arthur伸出一爪疊在上方，給Cody一個會意的眼神。"
 
 # game/sean12192024.rpy:5763
-translate chinese arthurTalkedToCody1219S_45e29995:
+translate Tchinese arthurTalkedToCody1219S_45e29995:
 
     # "The lion's tail gently pats the ground."
     "獅子的尾巴輕拍地面。"
 
 # game/sean12192024.rpy:5767
-translate chinese arthurTalkedToCody1219S_06dbaf3e:
+translate Tchinese arthurTalkedToCody1219S_06dbaf3e:
 
     # arthur sideSeanConcerned "Do you want me to-"
     arthur sideSeanConcerned "你要我——"
 
 # game/sean12192024.rpy:5771
-translate chinese arthurTalkedToCody1219S_e5f32dc2:
+translate Tchinese arthurTalkedToCody1219S_e5f32dc2:
 
     # cody "No I should... Sean, I'm guessing you know I flunked out of med school right?"
     cody "不，我來吧……Sean，你應該知道我從醫學院退學了吧？"
 
 # game/sean12192024.rpy:5774
-translate chinese arthurTalkedToCody1219S_c0e50bb3:
+translate Tchinese arthurTalkedToCody1219S_c0e50bb3:
 
     # sean "Rocco said you were just taking a semester off."
     sean "Rocco說你只是休學一學期。"
 
 # game/sean12192024.rpy:5777
-translate chinese arthurTalkedToCody1219S_497a3b4e:
+translate Tchinese arthurTalkedToCody1219S_497a3b4e:
 
     # cody "Well... Now you know. Do you know why I flunked out?"
     cody "那……現在你知道了。你知道原因嗎？"
 
 # game/sean12192024.rpy:5780
-translate chinese arthurTalkedToCody1219S_37487535:
+translate Tchinese arthurTalkedToCody1219S_37487535:
 
     # sean "The surgery?"
     sean "那場手術？"
 
 # game/sean12192024.rpy:5783
-translate chinese arthurTalkedToCody1219S_ee6e1a74:
+translate Tchinese arthurTalkedToCody1219S_ee6e1a74:
 
     # cody "Yeah... that."
     cody "對……沒錯。"
 
 # game/sean12192024.rpy:5785
-translate chinese arthurTalkedToCody1219S_71fc8c0e:
+translate Tchinese arthurTalkedToCody1219S_71fc8c0e:
 
     # cody "Well I'm trying to work off student loan debt, pay for the apartment, and prove to my parents that I'm not a complete failure."
     cody "我正在努力還學貸、付公寓租金，然後向爸媽證明我不是徹頭徹尾的廢物。"
 
 # game/sean12192024.rpy:5786
-translate chinese arthurTalkedToCody1219S_607b41b4:
+translate Tchinese arthurTalkedToCody1219S_607b41b4:
 
     # cody "They don't know that I flunked out, so I would like it if you didn't talk to your folks about it."
     cody "他們還不知道我被退學了，所以希望你們也別亂跟家人說。"
 
 # game/sean12192024.rpy:5787
-translate chinese arthurTalkedToCody1219S_55e648f5:
+translate Tchinese arthurTalkedToCody1219S_55e648f5:
 
     # cody "They still do brunch after church."
     cody "他們都還會在去完教堂後一起吃早午餐。"
 
 # game/sean12192024.rpy:5790
-translate chinese arthurTalkedToCody1219S_52ebb8a8:
+translate Tchinese arthurTalkedToCody1219S_52ebb8a8:
 
     # sean sideSeanSmile "Of course! Is there anything-"
     sean sideSeanSmile "沒問題！有什麼——"
 
 # game/sean12192024.rpy:5793
-translate chinese arthurTalkedToCody1219S_43287a28:
+translate Tchinese arthurTalkedToCody1219S_43287a28:
 
     # cody sideSeanNeutral "No there's really not."
     cody sideSeanNeutral "真的沒有。"
 
 # game/sean12192024.rpy:5794
-translate chinese arthurTalkedToCody1219S_c8d8bd64:
+translate Tchinese arthurTalkedToCody1219S_c8d8bd64:
 
     # cody "This is something that I need to do by myself, for myself."
     cody "這是我得為了自己，親自去做的事。"
 
 # game/sean12192024.rpy:5797
-translate chinese arthurTalkedToCody1219S_4d28ee9d:
+translate Tchinese arthurTalkedToCody1219S_4d28ee9d:
 
     # "Cody stands up from the table and walks over to the fence."
     "Cody從桌邊站起，走到圍欄旁。"
 
 # game/sean12192024.rpy:5798
-translate chinese arthurTalkedToCody1219S_005764a7:
+translate Tchinese arthurTalkedToCody1219S_005764a7:
 
     # narrator sideSeanConcerned "I swivel around to face him, ready to move if I need to."
     narrator sideSeanConcerned "我轉身面向他，準備好在必要時行動。"
 
 # game/sean12192024.rpy:5801
-translate chinese arthurTalkedToCody1219S_37908622:
+translate Tchinese arthurTalkedToCody1219S_37908622:
 
     # cody "That's mostly what Arthur and I talked about. I feel like a failure right now, and I know what you'll say, but that's how I feel."
     cody "我和Arthur昨晚差不多就談這麼多了。如今我認為自己好失敗，我也知道你們會說什麼，但我就是這麼覺得。"
 
 # game/sean12192024.rpy:5802
-translate chinese arthurTalkedToCody1219S_1741d23b:
+translate Tchinese arthurTalkedToCody1219S_1741d23b:
 
     # cody "Nothing is going to change that until I can prove to myself that I'm competent."
     cody "除非我能證明自己有能力，否則什麼都改變不了。"
 
 # game/sean12192024.rpy:5803
-translate chinese arthurTalkedToCody1219S_acc227c2:
+translate Tchinese arthurTalkedToCody1219S_acc227c2:
 
     # cody "That I can succeed at something."
     cody "證明我能在某件事上有所成就。"
 
 # game/sean12192024.rpy:5807
-translate chinese arthurTalkedToCody1219S_440157d3:
+translate Tchinese arthurTalkedToCody1219S_440157d3:
 
     # narrator sideSeanSmile "Cody looks back at us. He has a serious expression on his face."
     narrator sideSeanSmile "Cody回頭看向我們。神情嚴肅。"
 
 # game/sean12192024.rpy:5808
-translate chinese arthurTalkedToCody1219S_dc83c245:
+translate Tchinese arthurTalkedToCody1219S_dc83c245:
 
     # "For some strange reason I'm jealous."
     "不知為何，我有點嫉妒。"
 
 # game/sean12192024.rpy:5809
-translate chinese arthurTalkedToCody1219S_8a320ac8:
+translate Tchinese arthurTalkedToCody1219S_8a320ac8:
 
     # "I never felt determined to do anything. He has a goal he wants to work towards, and here I am just going through the motions."
     "我從沒認真想去做任何事情。他有努力想達成的目標，我卻只是隨波逐流。"
 
 # game/sean12192024.rpy:5810
-translate chinese arthurTalkedToCody1219S_8fbefe0b:
+translate Tchinese arthurTalkedToCody1219S_8fbefe0b:
 
     # "Just doing what I'm told, not what I want to."
     "做的事都是別人叫我做的，不是我想做的。"
 
 # game/sean12192024.rpy:5811
-translate chinese arthurTalkedToCody1219S_39bf9dec:
+translate Tchinese arthurTalkedToCody1219S_39bf9dec:
 
     # "What would I want to do?"
     "我自己想做什麼？"
 
 # game/sean12192024.rpy:5815
-translate chinese arthurTalkedToCody1219S_ef4b74b2:
+translate Tchinese arthurTalkedToCody1219S_ef4b74b2:
 
     # cody "If I'm going to be honest, you two being here with me is genuinely helping! Aside from the pestering..."
     cody "實話實說，你們兩個陪在我身邊，真的很有幫助！除了死纏爛打的部分……"
 
 # game/sean12192024.rpy:5818
-translate chinese arthurTalkedToCody1219S_c5abae96:
+translate Tchinese arthurTalkedToCody1219S_c5abae96:
 
     # "He gives a fake laugh."
     "他露出假笑。"
 
 # game/sean12192024.rpy:5821
-translate chinese arthurTalkedToCody1219S_98158caa:
+translate Tchinese arthurTalkedToCody1219S_98158caa:
 
     # cody "When I was alone I'd just keep all these thoughts in my head, and spiral into myself."
     cody "獨處時，我只會把這些想法悶在腦袋裡，越陷越深。"
 
 # game/sean12192024.rpy:5824
-translate chinese arthurTalkedToCody1219S_39f4d7f2:
+translate Tchinese arthurTalkedToCody1219S_39f4d7f2:
 
     # "A warm smile, like when he was talking with Arthur in the car, covers his muzzle. Arthur and I can't help but mirror it."
     "他換上了一抹有如在車上跟Arthur聊天時那樣溫暖的笑容。我和Arthur也不禁隨之破顏而笑。"
 
 # game/sean12192024.rpy:5826
-translate chinese arthurTalkedToCody1219S_87238de3:
+translate Tchinese arthurTalkedToCody1219S_87238de3:
 
     # "That genuine warmth Cody would radiate when he was around us was back."
     "Cody在我們身邊時散發的那種真摯的暖意回來了。"
 
 # game/sean12192024.rpy:5827
-translate chinese arthurTalkedToCody1219S_7ddda8e0:
+translate Tchinese arthurTalkedToCody1219S_7ddda8e0:
 
     # "If only for a moment."
     "儘管只有一瞬間。"
 
 # game/sean12192024.rpy:5830
-translate chinese arthurTalkedToCody1219S_ca3391f3:
+translate Tchinese arthurTalkedToCody1219S_ca3391f3:
 
     # cody "Being able to put words to these thoughts has been really helpful."
     cody "能把這些想法說出來，真的很有幫助。"
 
 # game/sean12192024.rpy:5834
-translate chinese arthurTalkedToCody1219S_812c9c51:
+translate Tchinese arthurTalkedToCody1219S_812c9c51:
 
     # arthur "I'm glad this helped you,{nw}"
     arthur "很高興能幫到你，{nw}"
 
 # game/sean12192024.rpy:5836
-translate chinese arthurTalkedToCody1219S_1ad6202e:
+translate Tchinese arthurTalkedToCody1219S_1ad6202e:
 
     # arthur "I'm glad this helped you,{fast} but- I just- uugh!"
     arthur "很高興能幫到你，{fast}但、我只是、呃啊！"
 
 # game/sean12192024.rpy:5843
-translate chinese arthurTalkedToCody1219S_337127f4:
+translate Tchinese arthurTalkedToCody1219S_337127f4:
 
     # narrator sideSeanConcerned "Arthur starts tugging at his mane. He gets up from the bench and starts walking down the trail."
     narrator sideSeanConcerned "Arthur開始拉自己的鬃毛。從長椅站起，沿步道往下走。"
 
 # game/sean12192024.rpy:5846
-translate chinese arthurTalkedToCody1219S_e90460e6:
+translate Tchinese arthurTalkedToCody1219S_e90460e6:
 
     # sean "Where are you going?"
     sean "你要去哪？"
 
 # game/sean12192024.rpy:5849
-translate chinese arthurTalkedToCody1219S_7f4e8c37:
+translate Tchinese arthurTalkedToCody1219S_7f4e8c37:
 
     # arthur "I need a minute to myself. I just can't let this go."
     arthur "我要自己一個人靜一靜。我就是放不下這事。"
 
 # game/sean12192024.rpy:5853
-translate chinese arthurTalkedToCody1219S_13514edc:
+translate Tchinese arthurTalkedToCody1219S_13514edc:
 
     # narrator sideSeanNeutral "I look over to Cody and he shrugs. He turns back to the river and just wistfully stares out at it."
     narrator sideSeanNeutral "我看向Cody，他聳聳肩。他轉回河流，惆悵地望著水面。"
 
 # game/sean12192024.rpy:5854
-translate chinese arthurTalkedToCody1219S_1d86b8ea:
+translate Tchinese arthurTalkedToCody1219S_1d86b8ea:
 
     # "I move over to join him. It's nice leaning against the old metal fence, enjoying the breeze coming off of the river."
     "我走過去陪他。靠著老舊的鐵圍欄，享受從河面吹來的微風，很是舒暢。"
 
 # game/sean12192024.rpy:5855
-translate chinese arthurTalkedToCody1219S_411860dc:
+translate Tchinese arthurTalkedToCody1219S_411860dc:
 
     # narrator sideSeanSmile "The gray haze of the clouds above, the murky river water, and the barren trees give this an almost nostalgic feeling."
     narrator sideSeanSmile "灰霧般的雲層、混濁的河水與枯樹，給人一種近似懷舊之感。"
 
 # game/sean12192024.rpy:5860
-translate chinese arthurTalkedToCody1219S_818013e8:
+translate Tchinese arthurTalkedToCody1219S_818013e8:
 
     # nvl clear
     # nulln sideSeanNeutral "Though we never spent much time around the river as kids, it still held a sentimental place in my heart. To some extent the whole town did, and yet with each year that sentiment slowly died."
@@ -10981,1291 +10981,1291 @@ translate chinese arthurTalkedToCody1219S_818013e8:
     nulln sideSeanNeutral "雖然我們小時候沒花多少時間待在河邊，它在我心裡仍有一席之地。某方面來說，整個小鎮都是如此，但隨著一年年過去，這種鄉情也慢慢死去了。"
 
 # game/sean12192024.rpy:5862
-translate chinese arthurTalkedToCody1219S_510b70e3:
+translate Tchinese arthurTalkedToCody1219S_510b70e3:
 
     # nulln "The more I learned about myself, and the world, the more distant I felt from my home."
     nulln "越是了解自己和世界，與家之間就越有距離感。"
 
 # game/sean12192024.rpy:5864
-translate chinese arthurTalkedToCody1219S_34a0d96c:
+translate Tchinese arthurTalkedToCody1219S_34a0d96c:
 
     # nulln sideSeanSad "After Casey, I wondered if there was anything left for me here. It felt like the town slowly took back everything it had given me."
     nulln sideSeanSad "Casey不在，我都不知道這裡對我還有什麼意義。感覺像是小鎮在漸漸回收它給過我的一切。"
 
 # game/sean12192024.rpy:5867
-translate chinese arthurTalkedToCody1219S_d2b7c9e5:
+translate Tchinese arthurTalkedToCody1219S_d2b7c9e5:
 
     # nulln "I'd tell people that fundamental part of my life was nothing more than a phase. Some bought it, some didn't, some used it as a justification for what they did."
     nulln "我對外宣稱，奠定我人生基礎的那部分時光不外乎是一段過渡期。有人信，也有人不信，還有人以此為他們的所作所為開脫。"
 
 # game/sean12192024.rpy:5868
-translate chinese arthurTalkedToCody1219S_1c92fa64:
+translate Tchinese arthurTalkedToCody1219S_1c92fa64:
 
     # nulln sideSeanNeutral "Calling it a phase did help to get their eyes and claws off of me."
     nulln sideSeanNeutral "說是過渡期，確實讓我得以擺脫他們的目光和魔爪。"
 
 # game/sean12192024.rpy:5869
-translate chinese arthurTalkedToCody1219S_a2bf4558:
+translate Tchinese arthurTalkedToCody1219S_a2bf4558:
 
     # nulln "Even if it hurt every time I had to say it."
     nulln "即便每次說出口都很心痛。"
 
 # game/sean12192024.rpy:5876
-translate chinese arthurTalkedToCody1219S_ca6dc86f:
+translate Tchinese arthurTalkedToCody1219S_ca6dc86f:
 
     # "I was broken out of my trance with the sound of a ka-thonk."
     "一陣水花聲將我從恍惚中拉回現實。"
 
 # game/sean12192024.rpy:5877
-translate chinese arthurTalkedToCody1219S_06dddfa0:
+translate Tchinese arthurTalkedToCody1219S_06dddfa0:
 
     # "Cody had moved down to the shore, trying to skip rocks across the river."
     "Cody正在岸邊打水漂。"
 
 # game/sean12192024.rpy:5883
-translate chinese arthurTalkedToCody1219S_80b14831:
+translate Tchinese arthurTalkedToCody1219S_80b14831:
 
     # "He's able to get one to skip four times before it thonked into the water."
     "他讓一顆石頭跳了四下才沉進水裡。"
 
 # game/sean12192024.rpy:5884
-translate chinese arthurTalkedToCody1219S_3c4dc995:
+translate Tchinese arthurTalkedToCody1219S_3c4dc995:
 
     # narrator sideSeanSmile "I gave him a little clap as I joined him."
     narrator sideSeanSmile "我小小鼓掌，走了過去。"
 
 # game/sean12192024.rpy:5897
-translate chinese arthurTalkedToCody1219S_f9561a90:
+translate Tchinese arthurTalkedToCody1219S_f9561a90:
 
     # cody sideSeanSmile "How's academia treating you? Hopefully better than me."
     cody sideSeanSmile "你的大學生活怎麼樣？希望比我好。"
 
 # game/sean12192024.rpy:5902
-translate chinese arthurTalkedToCody1219S_4d5e166d:
+translate Tchinese arthurTalkedToCody1219S_4d5e166d:
 
     # "He laughs at his misfortune, throwing another rock. Only one hop this time."
     "他自嘲不幸，又甩出一顆石頭。這次只跳了一下。"
 
 # game/sean12192024.rpy:5905
-translate chinese arthurTalkedToCody1219S_de0bbf2f:
+translate Tchinese arthurTalkedToCody1219S_de0bbf2f:
 
     # sean "Schools alright. I do wish you and Rocco could be there with us."
     sean "還過得去。倒是很希望你和Rocco也在。"
 
 # game/sean12192024.rpy:5908
-translate chinese arthurTalkedToCody1219S_e9fce0eb:
+translate Tchinese arthurTalkedToCody1219S_e9fce0eb:
 
     # cody sideSeanNeutral "I heard you survived calc two without me?"
     cody sideSeanNeutral "聽說你沒我幫忙也過了進階微積分？"
 
 # game/sean12192024.rpy:5915
-translate chinese arthurTalkedToCody1219S_5960a476:
+translate Tchinese arthurTalkedToCody1219S_5960a476:
 
     # "Three hops, so close yet so far from his newly set record."
     "三下，離他的最新紀錄就只差那麼一下。"
 
 # game/sean12192024.rpy:5919
-translate chinese arthurTalkedToCody1219S_ec461e73:
+translate Tchinese arthurTalkedToCody1219S_ec461e73:
 
     # sean "Barely, that class had an overly generous curve."
     sean "低空飛過。那堂課及格線超寬鬆的。"
 
 # game/sean12192024.rpy:5922
-translate chinese arthurTalkedToCody1219S_14533479:
+translate Tchinese arthurTalkedToCody1219S_14533479:
 
     # cody "Really?"
     cody "真的嗎？"
 
 # game/sean12192024.rpy:5927
-translate chinese arthurTalkedToCody1219S_851f21cb:
+translate Tchinese arthurTalkedToCody1219S_851f21cb:
 
     # "It immediately sinks."
     "立刻沉了。"
 
 # game/sean12192024.rpy:5931
-translate chinese arthurTalkedToCody1219S_87ae9003:
+translate Tchinese arthurTalkedToCody1219S_87ae9003:
 
     # sean "Yeah, you could get a fifty five and still have a C."
     sean "對，55分還能拿C。"
 
 # game/sean12192024.rpy:5934
-translate chinese arthurTalkedToCody1219S_84a4fb6a:
+translate Tchinese arthurTalkedToCody1219S_84a4fb6a:
 
     # cody sideSeanSmile "Let me guess... you squeaked out with a sixty?"
     cody sideSeanSmile "那我猜……你拿了個60分？"
 
 # game/sean12192024.rpy:5940
-translate chinese arthurTalkedToCody1219S_92fc1b42:
+translate Tchinese arthurTalkedToCody1219S_92fc1b42:
 
     # "I laugh at that as he gets two bounces."
     "我對此大笑，他這次扔的跳了兩下。"
 
 # game/sean12192024.rpy:5941
-translate chinese arthurTalkedToCody1219S_534203d5:
+translate Tchinese arthurTalkedToCody1219S_534203d5:
 
     # "Cody has first paw experience with how bad at math I am. He tutored me through algebra two back in highschool and helped me prep for my calc one final."
     "Cody親身體驗過我數學有多爛。他輔導過我高中的代數課，還幫我準備了初階微積分的期末考。"
 
 # game/sean12192024.rpy:5942
-translate chinese arthurTalkedToCody1219S_6138495e:
+translate Tchinese arthurTalkedToCody1219S_6138495e:
 
     # "I don't think I would've passed if it wasn't for him."
     "沒有他我大概過不了。"
 
 # game/sean12192024.rpy:5946
-translate chinese arthurTalkedToCody1219S_2469f8ab:
+translate Tchinese arthurTalkedToCody1219S_2469f8ab:
 
     # sean sideSeanNeutral "No... I got a fifty four point six. Professor Ward was kind enough to bump me up so I could stay on track."
     sean sideSeanNeutral "不……我拿了54.6。Ward教授好心幫我調高了，讓我能繼續跟上學分。"
 
 # game/sean12192024.rpy:5949
-translate chinese arthurTalkedToCody1219S_c9dda22e:
+translate Tchinese arthurTalkedToCody1219S_c9dda22e:
 
     # cody "That was nice of him. I told you going to office hours would pay off."
     cody "他人真好。我就跟你說，常去辦公室露臉有用吧。"
 
 # game/sean12192024.rpy:5958
-translate chinese arthurTalkedToCody1219S_d64b92ce:
+translate Tchinese arthurTalkedToCody1219S_d64b92ce:
 
     # "Four bounces."
     "四下。"
 
 # game/sean12192024.rpy:5962
-translate chinese arthurTalkedToCody1219S_f28626a6:
+translate Tchinese arthurTalkedToCody1219S_f28626a6:
 
     # sean sideSeanSmile "Yeah, yeah, you were right."
     sean sideSeanSmile "是啊，你說得對。"
 
 # game/sean12192024.rpy:5963
-translate chinese arthurTalkedToCody1219S_2fd19a49:
+translate Tchinese arthurTalkedToCody1219S_2fd19a49:
 
     # sean "He saw I put in the effort and bumped me up so I could pass.{nw}"
     sean "他看在我很努力的份上，就幫我調高分數讓我過了。{nw}"
 
 # game/sean12192024.rpy:5964
-translate chinese arthurTalkedToCody1219S_f5681b5b:
+translate Tchinese arthurTalkedToCody1219S_f5681b5b:
 
     # sean sideSeanNeutral "He saw I put in the effort and bumped me up so I could pass.{fast} I really wasn't looking forward to retaking it and I think he could tell."
     sean sideSeanNeutral "他看在我很努力的份上，就幫我調高分數讓我過了。{fast}我真的很不想重修，他大概也看得出來。"
 
 # game/sean12192024.rpy:5968
-translate chinese arthurTalkedToCody1219S_2532bb54:
+translate Tchinese arthurTalkedToCody1219S_2532bb54:
 
     # narrator sideSeanSmile "We laugh about it. Calc is impossible and I will never fully understand integration and derivatives."
     narrator sideSeanSmile "我們對此大笑。微積分實在太難了，我一直都搞不懂積分和導數。"
 
 # game/sean12192024.rpy:5969
-translate chinese arthurTalkedToCody1219S_73e7bd0b:
+translate Tchinese arthurTalkedToCody1219S_73e7bd0b:
 
     # "Thank god calculators exist."
     "感謝上帝，世上有計算機。"
 
 # game/sean12192024.rpy:5972
-translate chinese arthurTalkedToCody1219S_2d6a28a6:
+translate Tchinese arthurTalkedToCody1219S_2d6a28a6:
 
     # sean sideSeanNeutral "What's life at the gas station like?"
     sean sideSeanNeutral "加油站那邊怎麼樣？"
 
 # game/sean12192024.rpy:5975
-translate chinese arthurTalkedToCody1219S_fe962014:
+translate Tchinese arthurTalkedToCody1219S_fe962014:
 
     # cody "Surprisingly interesting. Lotta weird people come in."
     cody "意外挺有趣的。有很多怪人會來。"
 
 # game/sean12192024.rpy:5981
-translate chinese arthurTalkedToCody1219S_87cd6ed1:
+translate Tchinese arthurTalkedToCody1219S_87cd6ed1:
 
     # "One bounce."
     "一下。"
 
 # game/sean12192024.rpy:5984
-translate chinese arthurTalkedToCody1219S_ef9367d2:
+translate Tchinese arthurTalkedToCody1219S_ef9367d2:
 
     # sean sideSeanSmile "Like who?"
     sean sideSeanSmile "比方說？"
 
 # game/sean12192024.rpy:5988
-translate chinese arthurTalkedToCody1219S_98a111de:
+translate Tchinese arthurTalkedToCody1219S_98a111de:
 
     # cody "Well Carl is our best customer when he gets the munchies."
     cody "嗯，Carl餓瘋時是我們最好的顧客。"
 
 # game/sean12192024.rpy:5989
-translate chinese arthurTalkedToCody1219S_42bcfb22:
+translate Tchinese arthurTalkedToCody1219S_42bcfb22:
 
     # cody "The hikers always have a funny story when they come in."
     cody "登山客們總會分享好笑的故事。"
 
 # game/sean12192024.rpy:5992
-translate chinese arthurTalkedToCody1219S_43d45208:
+translate Tchinese arthurTalkedToCody1219S_43d45208:
 
     # narrator sideSeanNeutral "He pauses for a moment."
     narrator sideSeanNeutral "他停頓片刻。"
 
 # game/sean12192024.rpy:5994
-translate chinese arthurTalkedToCody1219S_e58f5a5d:
+translate Tchinese arthurTalkedToCody1219S_e58f5a5d:
 
     # "A confused expression covering his face. He even does the forty-five degree head tilt that he used for the obtusely difficult word problems."
     "一臉困惑。甚至45度歪頭，這是他做超難字題時的常見姿勢。"
 
 # game/sean12192024.rpy:5998
-translate chinese arthurTalkedToCody1219S_648c8c6e:
+translate Tchinese arthurTalkedToCody1219S_648c8c6e:
 
     # cody sideSeanConcerned "Huh... I can't think of anything more specific."
     cody sideSeanConcerned "唔……想不太到其他例子了。"
 
 # game/sean12192024.rpy:6000
-translate chinese arthurTalkedToCody1219S_ac6552c6:
+translate Tchinese arthurTalkedToCody1219S_ac6552c6:
 
     # cody "Like, I remember that plenty of people came in during my shift, but nothing is standing out."
     cody "我是記得輪班時有很多人來，但都沒什麼特別的。"
 
 # game/sean12192024.rpy:6002
-translate chinese arthurTalkedToCody1219S_af4cfa9b:
+translate Tchinese arthurTalkedToCody1219S_af4cfa9b:
 
     # cody sideSeanSmile "Maybe whatever Rocco caught is contagious."
     cody sideSeanSmile "也許Rocco的情況會傳染。"
 
 # game/sean12192024.rpy:6005
-translate chinese arthurTalkedToCody1219S_fe8bb9bf:
+translate Tchinese arthurTalkedToCody1219S_fe8bb9bf:
 
     # "We shouldn't, but we laugh at that."
     "我們不該笑，但還是笑了。"
 
 # game/sean12192024.rpy:6009
-translate chinese arthurTalkedToCody1219S_f72c8fdc:
+translate Tchinese arthurTalkedToCody1219S_f72c8fdc:
 
     # sean "What does your expert medical opinion say?"
     sean "你的醫學專家意見怎麼說？"
 
 # game/sean12192024.rpy:6015
-translate chinese arthurTalkedToCody1219S_d972ccfe:
+translate Tchinese arthurTalkedToCody1219S_d972ccfe:
 
     # "Two bounces."
     "兩下。"
 
 # game/sean12192024.rpy:6018
-translate chinese arthurTalkedToCody1219S_c79ee0c3:
+translate Tchinese arthurTalkedToCody1219S_c79ee0c3:
 
     # cody sideSeanNeutral "I think it says it's time we head back. We've certainly had a day."
     cody sideSeanNeutral "它說我們是時候回去了。今天夠累了。"
 
 # game/sean12192024.rpy:6021
-translate chinese arthurTalkedToCody1219S_dd66521e:
+translate Tchinese arthurTalkedToCody1219S_dd66521e:
 
     # "I check my phone, three old notifications pop up."
     "我檢查手機，跳出三條舊通知。"
 
 # game/sean12192024.rpy:6022
-translate chinese arthurTalkedToCody1219S_ab29a996:
+translate Tchinese arthurTalkedToCody1219S_ab29a996:
 
     # "One from Rocco asking if Cody can drive him back from work, one from my parents asking if I'd be home for dinner at six,{nw}"
     "一條是Rocco問Cody能否開車接他下班；一條是爸媽問我6點會否回家吃飯；{nw}"
 
 # game/sean12192024.rpy:6023
-translate chinese arthurTalkedToCody1219S_662bf477:
+translate Tchinese arthurTalkedToCody1219S_662bf477:
 
     # narrator sideSeanEmbarrassed "One from Rocco asking if Cody can drive him back from work, one from my parents asking if I'd be home for dinner at six,{fast} and one more from my Tail Raisers friend that I quickly swipe away.{nw}"
     narrator sideSeanEmbarrassed "一條是Rocco問Cody能否開車接他下班；一條是爸媽問我6點會否回家吃飯；{fast}還有一條是翹尾巴上那位朋友傳的，被我快速滑掉。{nw}"
 
 # game/sean12192024.rpy:6024
-translate chinese arthurTalkedToCody1219S_41987e7e:
+translate Tchinese arthurTalkedToCody1219S_41987e7e:
 
     # narrator sideSeanNeutral "One from Rocco asking if Cody can drive him back from work, one from my parents asking if I'd be home for dinner at six, and one more from my Tail Raisers friend that I quickly swipe away.{fast}"
     narrator sideSeanNeutral "一條是Rocco問Cody能否開車接他下班；一條是爸媽問我6點會否回家吃飯；還有一條是翹尾巴上那位朋友傳的，被我快速滑掉。{fast}"
 
 # game/sean12192024.rpy:6025
-translate chinese arthurTalkedToCody1219S_575fd33f:
+translate Tchinese arthurTalkedToCody1219S_575fd33f:
 
     # "Cody's right it's around five o'clock so we better head out."
     "Cody說得對，現在是5點左右，我們也該回去了。"
 
 # game/sean12192024.rpy:6026
-translate chinese arthurTalkedToCody1219S_392e1af8:
+translate Tchinese arthurTalkedToCody1219S_392e1af8:
 
     # "I try to give Rocco and my folks a response but they fail to send."
     "我想回訊息給Rocco和爸媽，但都發不出去。"
 
 # game/sean12192024.rpy:6031
-translate chinese arthurTalkedToCody1219S_d838fa0c:
+translate Tchinese arthurTalkedToCody1219S_d838fa0c:
 
     # "A light fog had started growing along the ground."
     "地上開始起薄霧。"
 
 # game/sean12192024.rpy:6032
-translate chinese arthurTalkedToCody1219S_65352245:
+translate Tchinese arthurTalkedToCody1219S_65352245:
 
     # "It wasn't high enough to obscure our vision, but it was probably for the best if we headed back."
     "霧沒高到遮擋視線，但最好還是馬上啟程。"
 
 # game/sean12192024.rpy:6035
-translate chinese arthurTalkedToCody1219S_7bf19ace:
+translate Tchinese arthurTalkedToCody1219S_7bf19ace:
 
     # sean "Yeah, let's grab Arthur and head out."
     sean "嗯，去找Arthur一起回去吧。"
 
 # game/sean12192024.rpy:6039
-translate chinese arthurTalkedToCody1219S_bb87fe90:
+translate Tchinese arthurTalkedToCody1219S_bb87fe90:
 
     # narrator sideSeanConcerned "We walk down the trail calling out for the lion. He shouldn't have gone that far, but we weren't having any luck."
     narrator sideSeanConcerned "我們沿步道往下走，呼喚著獅子。他應該沒走太遠，但我們就是沒找著。"
 
 # game/sean12192024.rpy:6040
-translate chinese arthurTalkedToCody1219S_d65eadff:
+translate Tchinese arthurTalkedToCody1219S_d65eadff:
 
     # "I tried giving his phone a call, but I still couldn't get a connection."
     "我試著給他打電話，但依舊沒訊號。"
 
 # game/sean12192024.rpy:6043
-translate chinese arthurTalkedToCody1219S_ff078ac8:
+translate Tchinese arthurTalkedToCody1219S_ff078ac8:
 
     # sean "You don't think he-"
     sean "他該不會——"
 
 # game/sean12192024.rpy:6046
-translate chinese arthurTalkedToCody1219S_a25bb349:
+translate Tchinese arthurTalkedToCody1219S_a25bb349:
 
     # cody "I'd rather not talk about that. C'mon, maybe he's up by the road stop."
     cody "別提那個了。來吧，搞不好他在路邊休息站呢。"
 
 # game/sean12192024.rpy:6050
-translate chinese arthurTalkedToCody1219S_c55cd3ea:
+translate Tchinese arthurTalkedToCody1219S_c55cd3ea:
 
     # "I hoped that was the case."
     "但願如此。"
 
 # game/sean12192024.rpy:6051
-translate chinese arthurTalkedToCody1219S_4be13c35:
+translate Tchinese arthurTalkedToCody1219S_4be13c35:
 
     # "If anything I'd definitely be able to get a signal there. It was way further than I would want him to go."
     "那裡肯定會有訊號的。我倒是不希望他走那麼遠。"
 
 # game/sean12192024.rpy:6052
-translate chinese arthurTalkedToCody1219S_320523ea:
+translate Tchinese arthurTalkedToCody1219S_320523ea:
 
     # "Sure Carthage isn't as dangerous as the coastal cities, but there was still wild life that would stalk down the mountain."
     "迦太基自然沒有沿海城市那麼危險，但還是有會野生動物跟蹤人下山。"
 
 # game/sean12192024.rpy:6053
-translate chinese arthurTalkedToCody1219S_ae844d71:
+translate Tchinese arthurTalkedToCody1219S_ae844d71:
 
     # "It was also easy to get lost, and if you ran into anyone in the woods you're better off running for it than asking for help."
     "容易迷路不說，在樹林遇到人最好趕快跑，別跟對方求救。"
 
 # game/sean12192024.rpy:6054
-translate chinese arthurTalkedToCody1219S_f44a3100:
+translate Tchinese arthurTalkedToCody1219S_f44a3100:
 
     # "You never really know what kind of weirdo lurks out here, and I really don't want to find out."
     "永遠不知道有什麼怪人會潛伏在這，我真的不想碰上。"
 
 # game/sean12192024.rpy:6066
-translate chinese seanTalkedToRocco1219S_2483adce:
+translate Tchinese seanTalkedToRocco1219S_2483adce:
 
     # sean sideSeanConcerned "So I talked with Rocco Last night."
     sean sideSeanConcerned "我昨晚跟Rocco聊過了。"
 
 # game/sean12192024.rpy:6070
-translate chinese seanTalkedToRocco1219S_0d95bf0a:
+translate Tchinese seanTalkedToRocco1219S_0d95bf0a:
 
     # "Cody immediately breaks eye contact with me. He flinches as Arthur puts a paw on his shoulder."
     "Cody立刻跟我斷開眼神接觸。在Arthur一爪搭上他肩膀十縮了一下。"
 
 # game/sean12192024.rpy:6073
-translate chinese seanTalkedToRocco1219S_e860e848:
+translate Tchinese seanTalkedToRocco1219S_e860e848:
 
     # arthur "What did he say?"
     arthur "他說了什麼？"
 
 # game/sean12192024.rpy:6077
-translate chinese seanTalkedToRocco1219S_ac2af37a:
+translate Tchinese seanTalkedToRocco1219S_ac2af37a:
 
     # narrator sideSeanNeutral "I take a breath trying to center myself."
     narrator sideSeanNeutral "我深呼吸一口，穩住自己。"
 
 # game/sean12192024.rpy:6078
-translate chinese seanTalkedToRocco1219S_1f3adafb:
+translate Tchinese seanTalkedToRocco1219S_1f3adafb:
 
     # "Knowing Rocco's side of the story, this isn't going to be easy. It's hard for me to even think about how to start."
     "有鑑於Rocco的證詞，這話很難開口。甚至都想不到怎麼開頭才好。"
 
 # game/sean12192024.rpy:6080
-translate chinese seanTalkedToRocco1219S_1196c1a0:
+translate Tchinese seanTalkedToRocco1219S_1196c1a0:
 
     # "I see the two of them stare at me. Their eyes locked anticipating the worst."
     "他們兩人盯著我。眼神表示做好了最糟的心理準備。"
 
 # game/sean12192024.rpy:6081
-translate chinese seanTalkedToRocco1219S_6761d397:
+translate Tchinese seanTalkedToRocco1219S_6761d397:
 
     # "This must be the same feeling Rocco had three years ago."
     "Rocco在三年前想必就是這種感覺吧。"
 
 # game/sean12192024.rpy:6086
-translate chinese seanTalkedToRocco1219S_afcdd794:
+translate Tchinese seanTalkedToRocco1219S_afcdd794:
 
     # sean sideSeanConcerned "There was... a lot. Though I don't think I should be the one to tell it."
     sean sideSeanConcerned "說了……很多。但我不覺得該由我說出口。"
 
 # game/sean12192024.rpy:6089
-translate chinese seanTalkedToRocco1219S_5a3828aa:
+translate Tchinese seanTalkedToRocco1219S_5a3828aa:
 
     # cody "We shouldn't be talking about it. Everything is fine..."
     cody "那就別談這個了。一切都沒事啦……"
 
 # game/sean12192024.rpy:6092
-translate chinese seanTalkedToRocco1219S_e49aadd9:
+translate Tchinese seanTalkedToRocco1219S_e49aadd9:
 
     # "His words are soft. Trying to dismiss what I said and move on. Sorry buddy, but I can't."
     "他輕聲說道，試圖帶過並岔開話題。抱歉了哥們，這行不通。"
 
 # game/sean12192024.rpy:6095
-translate chinese seanTalkedToRocco1219S_a80dd520:
+translate Tchinese seanTalkedToRocco1219S_a80dd520:
 
     # sean "Cody... something is clearly eating away at you. We just want to-"
     sean "Cody……顯然有什麼在侵蝕著你。我們只是想——"
 
 # game/sean12192024.rpy:6100
-translate chinese seanTalkedToRocco1219S_07e59a6f:
+translate Tchinese seanTalkedToRocco1219S_07e59a6f:
 
     # cody "Help!? Yeah Sean... You apparently know I killed someone so how can you help?"
     cody "幫忙是吧！？對 Sean……看來你知道我殺了人，那你是想怎麼幫忙？"
 
 # game/sean12192024.rpy:6104
-translate chinese seanTalkedToRocco1219S_63a4e959:
+translate Tchinese seanTalkedToRocco1219S_63a4e959:
 
     # arthur "I'm sorry what?"
     arthur "抱歉，什麼東西？"
 
 # game/sean12192024.rpy:6108
-translate chinese seanTalkedToRocco1219S_2751bc17:
+translate Tchinese seanTalkedToRocco1219S_2751bc17:
 
     # "The raccoon shoves his paws in his face."
     "浣熊雙爪捂臉。"
 
 # game/sean12192024.rpy:6109
-translate chinese seanTalkedToRocco1219S_349ac78e:
+translate Tchinese seanTalkedToRocco1219S_349ac78e:
 
     # "Arthur has that reflexive nervous smile. The kind that pops on your face to try and make a situation not worse."
     "Arthur反射性地尷尬一笑。是那種為了不讓情況更糟而擠出的笑容。"
 
 # game/sean12192024.rpy:6110
-translate chinese seanTalkedToRocco1219S_191241d3:
+translate Tchinese seanTalkedToRocco1219S_191241d3:
 
     # "I need to try and salvage this before he thinks I'm gonna pull a body up from the river bed."
     "趕在Arthur以為我會在河床挖出屍體前救一下場好了。"
 
 # game/sean12192024.rpy:6114
-translate chinese seanTalkedToRocco1219S_4f7c00a6:
+translate Tchinese seanTalkedToRocco1219S_4f7c00a6:
 
     # sean sideSeanConcerned "You didn't kill-"
     sean sideSeanConcerned "你才沒有殺——"
 
 # game/sean12192024.rpy:6118
-translate chinese seanTalkedToRocco1219S_ca70505d:
+translate Tchinese seanTalkedToRocco1219S_ca70505d:
 
     # cody "It was my fault-"
     cody "是我害——"
 
 # game/sean12192024.rpy:6122
-translate chinese seanTalkedToRocco1219S_54853d9a:
+translate Tchinese seanTalkedToRocco1219S_54853d9a:
 
     # sean "It's not your-"
     sean "不是你的——"
 
 # game/sean12192024.rpy:6126
-translate chinese seanTalkedToRocco1219S_45b8fdc5:
+translate Tchinese seanTalkedToRocco1219S_45b8fdc5:
 
     # cody "I was trusted with-"
     cody "他們信任我——"
 
 # game/sean12192024.rpy:6129
-translate chinese seanTalkedToRocco1219S_e6e4e6be:
+translate Tchinese seanTalkedToRocco1219S_e6e4e6be:
 
     # sean "Cody you know-"
     sean "Cody，你也知道——"
 
 # game/sean12192024.rpy:6132
-translate chinese seanTalkedToRocco1219S_dce9d54c:
+translate Tchinese seanTalkedToRocco1219S_dce9d54c:
 
     # cody "I didn't want to-"
     cody "我不想——"
 
 # game/sean12192024.rpy:6135
-translate chinese seanTalkedToRocco1219S_e89b2bbf:
+translate Tchinese seanTalkedToRocco1219S_e89b2bbf:
 
     # sean "Would you stop-"
     sean "你能不能先——"
 
 # game/sean12192024.rpy:6140
-translate chinese seanTalkedToRocco1219S_ca2e624e:
+translate Tchinese seanTalkedToRocco1219S_ca2e624e:
 
     # cody sideSeanNeutral "Sean let me fucking finish!"
     cody sideSeanNeutral "Sean，讓我先他媽說完！"
 
 # game/sean12192024.rpy:6145
-translate chinese seanTalkedToRocco1219S_19281301:
+translate Tchinese seanTalkedToRocco1219S_19281301:
 
     # "It's silent for a moment longer than it should be."
     "漫長的沉默。"
 
 # game/sean12192024.rpy:6146
-translate chinese seanTalkedToRocco1219S_543e9061:
+translate Tchinese seanTalkedToRocco1219S_543e9061:
 
     # "Arthur, at this point, has scooted away from an alleged killer. His face, the complete opposite of Cody's anger."
     "這時Arthur已經從潛在的殺人犯身旁挪開。他的表情，跟Cody的憤怒完全相反。"
 
 # game/sean12192024.rpy:6147
-translate chinese seanTalkedToRocco1219S_707678ba:
+translate Tchinese seanTalkedToRocco1219S_707678ba:
 
     # "I, out of instinct, remained stoic."
     "出於本能，我保持鎮靜。"
 
 # game/sean12192024.rpy:6148
-translate chinese seanTalkedToRocco1219S_970164b1:
+translate Tchinese seanTalkedToRocco1219S_970164b1:
 
     # "Of course fear was running through my body. I can't remember how to show it in moments like this."
     "當然，恐懼在我體內奔竄。我卻不記得這種時候該怎麼表現出來。"
 
 # game/sean12192024.rpy:6152
-translate chinese seanTalkedToRocco1219S_4ba17079:
+translate Tchinese seanTalkedToRocco1219S_4ba17079:
 
     # cody "I didn't want to kill him... I was shadowing a surgery and... well... I thought it went well."
     cody "我不想害死他的……我就是在給手術幫忙……嗯……以為進行得很順利。"
 
 # game/sean12192024.rpy:6157
-translate chinese seanTalkedToRocco1219S_76b64ae3:
+translate Tchinese seanTalkedToRocco1219S_76b64ae3:
 
     # "He's trying to hide his tears. His voice wavers and out of the corner of my eye I see Arthur lean in."
     "他試圖隱藏眼淚，聲音顫抖。我眼睛餘光瞥見Arthur靠了過來。"
 
 # game/sean12192024.rpy:6158
-translate chinese seanTalkedToRocco1219S_90be8440:
+translate Tchinese seanTalkedToRocco1219S_90be8440:
 
     # narrator sideSeanSad "Why did I do this..."
     narrator sideSeanSad "我為什麼這樣逼他……？"
 
 # game/sean12192024.rpy:6161
-translate chinese seanTalkedToRocco1219S_65fc4892:
+translate Tchinese seanTalkedToRocco1219S_65fc4892:
 
     # cody sideSeanConcerned "During the surgery, the surgeon I was shadowing said he was impressed with my work."
     cody sideSeanConcerned "進行手術時，我跟診的外科醫生說，他很認可我的表現。"
 
 # game/sean12192024.rpy:6162
-translate chinese seanTalkedToRocco1219S_68b097ea:
+translate Tchinese seanTalkedToRocco1219S_68b097ea:
 
     # cody "I know he was being nice. He could see how nervous I was; even with the mask on."
     cody "我知道那只是客套話。就算隔著口罩，他也看得出我有多緊張。"
 
 # game/sean12192024.rpy:6163
-translate chinese seanTalkedToRocco1219S_0c9dca9d:
+translate Tchinese seanTalkedToRocco1219S_0c9dca9d:
 
     # cody "When I called the nurse was able to get him on the phone with me."
     cody "我打電話過去時，護士有找他來接聽。"
 
 # game/sean12192024.rpy:6166
-translate chinese seanTalkedToRocco1219S_e99d5b63:
+translate Tchinese seanTalkedToRocco1219S_e99d5b63:
 
     # "He pauses for a moment, clasping his paws together. His breaths were short and he wouldn't look up at us."
     "他停頓片刻，雙爪緊握、呼吸急促，不願抬頭看我們。"
 
 # game/sean12192024.rpy:6167
-translate chinese seanTalkedToRocco1219S_866b625d:
+translate Tchinese seanTalkedToRocco1219S_866b625d:
 
     # "I could hear the old wood of the table creak as his leg bounced faster and faster."
     "他腿越抖越快，桌子的老舊木頭吱嘎作響。"
 
 # game/sean12192024.rpy:6171
-translate chinese seanTalkedToRocco1219S_ddb47017:
+translate Tchinese seanTalkedToRocco1219S_ddb47017:
 
     # cody "I had killed a man that week."
     cody "那週，我殺了一個人。"
 
 # game/sean12192024.rpy:6175
-translate chinese seanTalkedToRocco1219S_7daf27b7:
+translate Tchinese seanTalkedToRocco1219S_7daf27b7:
 
     # cody "In trying to learn how to save a life I participated in his death..."
     cody "我是要學習救人時，卻導致他死去……"
 
 # game/sean12192024.rpy:6178
-translate chinese seanTalkedToRocco1219S_6484aa4d:
+translate Tchinese seanTalkedToRocco1219S_6484aa4d:
 
     # "He let the words hang in the air. I think Arthur knew he was wrong."
     "他言盡於此。Arthur應該也知道他誤解了。"
 
 # game/sean12192024.rpy:6181
-translate chinese seanTalkedToRocco1219S_053a3405:
+translate Tchinese seanTalkedToRocco1219S_053a3405:
 
     # "He gave me a sympathetic look before scooting closer to Cody."
     "他同情地望了我一眼，然後挪近Cody。"
 
 # game/sean12192024.rpy:6185
-translate chinese seanTalkedToRocco1219S_b8b2fc7f:
+translate Tchinese seanTalkedToRocco1219S_b8b2fc7f:
 
     # cody "All I could think about was the body lying on the table."
     cody "我腦中只想著躺在手術台上的屍體。"
 
 # game/sean12192024.rpy:6186
-translate chinese seanTalkedToRocco1219S_a981ac0d:
+translate Tchinese seanTalkedToRocco1219S_a981ac0d:
 
     # cody "How I was holding the knife."
     cody "我是怎麼拿刀的。"
 
 # game/sean12192024.rpy:6187
-translate chinese seanTalkedToRocco1219S_fbcc5859:
+translate Tchinese seanTalkedToRocco1219S_fbcc5859:
 
     # cody "Running over that afternoon in my head trying to figure out what I did wrong."
     cody "腦中反覆重播那天下午，想找出我是哪裡做錯了。"
 
 # game/sean12192024.rpy:6189
-translate chinese seanTalkedToRocco1219S_97054ce8:
+translate Tchinese seanTalkedToRocco1219S_97054ce8:
 
     # cody "I stopped going to class. I stopped leaving my dorm."
     cody "我不再去上課、不再離開宿舍。"
 
 # game/sean12192024.rpy:6190
-translate chinese seanTalkedToRocco1219S_e1923ffe:
+translate Tchinese seanTalkedToRocco1219S_e1923ffe:
 
     # cody "And when a counselor came to tell me I had failed all my classes; I decided I wasn't going back."
     cody "輔導員通知我每科都被當了以後，我就決定不回去了。"
 
 # game/sean12192024.rpy:6193
-translate chinese seanTalkedToRocco1219S_de341cf8:
+translate Tchinese seanTalkedToRocco1219S_de341cf8:
 
     # arthur "Did anyone come to check on you."
     arthur "有人來看你嗎？"
 
 # game/sean12192024.rpy:6197
-translate chinese seanTalkedToRocco1219S_3bf4c00b:
+translate Tchinese seanTalkedToRocco1219S_3bf4c00b:
 
     # cody "I never answered."
     cody "我都沒應門。"
 
 # game/sean12192024.rpy:6200
-translate chinese seanTalkedToRocco1219S_ee29791b:
+translate Tchinese seanTalkedToRocco1219S_ee29791b:
 
     # sean "What happened to your roommate. Chris, right?"
     sean "那你室友呢？是叫Chris來著吧？"
 
 # game/sean12192024.rpy:6204
-translate chinese seanTalkedToRocco1219S_2024317c:
+translate Tchinese seanTalkedToRocco1219S_2024317c:
 
     # cody sideSeanNeutral "He left for a different college months ago."
     cody sideSeanNeutral "他幾個月前就轉去別的大學了。"
 
 # game/sean12192024.rpy:6207
-translate chinese seanTalkedToRocco1219S_7e0c62d3:
+translate Tchinese seanTalkedToRocco1219S_7e0c62d3:
 
     # "We sit in silence for a moment."
     "我們沉默片刻。"
 
 # game/sean12192024.rpy:6210
-translate chinese seanTalkedToRocco1219S_7aefcf2a:
+translate Tchinese seanTalkedToRocco1219S_7aefcf2a:
 
     # narrator sideSeanConcerned "Then Cody laughs."
     narrator sideSeanConcerned "然後Cody笑了。"
 
 # game/sean12192024.rpy:6211
-translate chinese seanTalkedToRocco1219S_dea3d21c:
+translate Tchinese seanTalkedToRocco1219S_dea3d21c:
 
     # "It's that anxious laugh, the kind typically accompanied by an exaggerated smile."
     "是焦慮的笑，伴隨浮誇笑容的那種。"
 
 # game/sean12192024.rpy:6214
-translate chinese seanTalkedToRocco1219S_0e5e67f0:
+translate Tchinese seanTalkedToRocco1219S_0e5e67f0:
 
     # cody "T-then one night... I get a text from...{nw}"
     cody "然、然後某天晚上……我收到一則……{nw}"
 
 # game/sean12192024.rpy:6216
-translate chinese seanTalkedToRocco1219S_e863a3b7:
+translate Tchinese seanTalkedToRocco1219S_e863a3b7:
 
     # cody "T-then one night... I get a text from...{fast} Rocco? It was nothing more than a how ya doin'."
     cody "然、然後某天晚上……我收到一則……{fast}Rocco傳的訊息？就只是問個好。"
 
 # game/sean12192024.rpy:6220
-translate chinese seanTalkedToRocco1219S_5f4c8265:
+translate Tchinese seanTalkedToRocco1219S_5f4c8265:
 
     # "He laughs again. This time putting a paw to his face."
     "他又笑了。這次一爪拄著臉。"
 
 # game/sean12192024.rpy:6223
-translate chinese seanTalkedToRocco1219S_e0b76955:
+translate Tchinese seanTalkedToRocco1219S_e0b76955:
 
     # cody "Though, he spelled doin' with a g."
     cody "只不過，他把doin'多寫了個g。"
 
 # game/sean12192024.rpy:6226
-translate chinese seanTalkedToRocco1219S_289165cb:
+translate Tchinese seanTalkedToRocco1219S_289165cb:
 
     # "He chuckles."
     "他喀喀笑著。"
 
 # game/sean12192024.rpy:6229
-translate chinese seanTalkedToRocco1219S_76faf227:
+translate Tchinese seanTalkedToRocco1219S_76faf227:
 
     # cody "I mean how do you even fat finger that."
     cody "手滑也不可能打錯成那樣吧。"
 
 # game/sean12192024.rpy:6232
-translate chinese seanTalkedToRocco1219S_e98cd944:
+translate Tchinese seanTalkedToRocco1219S_e98cd944:
 
     # narrator sideSeanNeutral "This wasn't the story Rocco told me..."
     narrator sideSeanNeutral "跟Rocco告訴我的不一樣……"
 
 # game/sean12192024.rpy:6237
-translate chinese seanTalkedToRocco1219S_69af4ce5:
+translate Tchinese seanTalkedToRocco1219S_69af4ce5:
 
     # cody sideSeanConcerned "I break. After what felt like a month of isolation I tell him everything."
     cody sideSeanConcerned "我崩潰了。在近乎一個月的自我孤立後，我就跟他攤牌了。"
 
 # game/sean12192024.rpy:6238
-translate chinese seanTalkedToRocco1219S_1ecce732:
+translate Tchinese seanTalkedToRocco1219S_1ecce732:
 
     # cody "I watch the little dots at the bottom of the screen start and stop for thirty minutes."
     cody "我看著螢幕底下的小點點出現又消失，持續了三十分鐘。"
 
 # game/sean12192024.rpy:6239
-translate chinese seanTalkedToRocco1219S_31d91a02:
+translate Tchinese seanTalkedToRocco1219S_31d91a02:
 
     # cody "Eventually he just calls me."
     cody "最後他直接打來。"
 
 # game/sean12192024.rpy:6241
-translate chinese seanTalkedToRocco1219S_c4820487:
+translate Tchinese seanTalkedToRocco1219S_c4820487:
 
     # cody "We talk."
     cody "我們談了。"
 
 # game/sean12192024.rpy:6242
-translate chinese seanTalkedToRocco1219S_51b71626:
+translate Tchinese seanTalkedToRocco1219S_51b71626:
 
     # cody "He tells me about how he fell asleep at the front desk. I tell him about how I haven't slept in a few days."
     cody "他告訴我，他在櫃檯都打瞌睡了；我告訴他，我好幾天沒睡了。"
 
 # game/sean12192024.rpy:6243
-translate chinese seanTalkedToRocco1219S_1d5f262f:
+translate Tchinese seanTalkedToRocco1219S_1d5f262f:
 
     # cody "He tells me about an argument he had with his parents. I tell him that I haven't talked to mine in weeks."
     cody "他告訴我，他跟父母吵架了。我告訴他，我好幾個星期沒跟父母講話了。"
 
 # game/sean12192024.rpy:6244
-translate chinese seanTalkedToRocco1219S_605b3ed8:
+translate Tchinese seanTalkedToRocco1219S_605b3ed8:
 
     # cody "He tells me about how he beat the pool shark at Morris's.{nw}"
     cody "他告訴我，他在Morris打贏了撞球老手；{nw}"
 
 # game/sean12192024.rpy:6246
-translate chinese seanTalkedToRocco1219S_172119ce:
+translate Tchinese seanTalkedToRocco1219S_172119ce:
 
     # cody sideSeanScared "He tells me about how he beat the pool shark at Morris's.{fast} I tell him about how I want to jump out the window."
     cody sideSeanScared "他告訴我，他在Morris打贏了撞球老手；{fast}我告訴他，我好想跳窗。"
 
 # game/sean12192024.rpy:6248
-translate chinese seanTalkedToRocco1219S_2d3fa02d:
+translate Tchinese seanTalkedToRocco1219S_2d3fa02d:
 
     # cody sideSeanConcerned "He tells me not to."
     cody sideSeanConcerned "他勸我不要。"
 
 # game/sean12192024.rpy:6250
-translate chinese seanTalkedToRocco1219S_5364278e:
+translate Tchinese seanTalkedToRocco1219S_5364278e:
 
     # cody "I don't."
     cody "我就沒跳。"
 
 # game/sean12192024.rpy:6253
-translate chinese seanTalkedToRocco1219S_69f95d15:
+translate Tchinese seanTalkedToRocco1219S_69f95d15:
 
     # "There's a smile behind his paws and tears."
     "他雙爪和眼淚底下蘊含笑容。"
 
 # game/sean12192024.rpy:6256
-translate chinese seanTalkedToRocco1219S_dc616258:
+translate Tchinese seanTalkedToRocco1219S_dc616258:
 
     # cody "I came back early. Had to crash a few nights at his place."
     cody "我提早回來了。得在他那裡借住幾晚。"
 
 # game/sean12192024.rpy:6258
-translate chinese seanTalkedToRocco1219S_8f0b7fa1:
+translate Tchinese seanTalkedToRocco1219S_8f0b7fa1:
 
     # cody sideSeanAngry "After being called a slur by his father we decided it was best for me to find a place here."
     cody sideSeanAngry "被他爸罵了髒字後，我們就決定最好還是在這裡找個地方住。"
 
 # game/sean12192024.rpy:6260
-translate chinese seanTalkedToRocco1219S_d003dff6:
+translate Tchinese seanTalkedToRocco1219S_d003dff6:
 
     # cody sideSeanConcerned "Thankfully that paid internship left me with enough savings to figure things out."
     cody sideSeanConcerned "幸好當時的帶薪實習讓我存了些應急錢。"
 
 # game/sean12192024.rpy:6261
-translate chinese seanTalkedToRocco1219S_4efc1df5:
+translate Tchinese seanTalkedToRocco1219S_4efc1df5:
 
     # cody "Though by the end of break I either need to move in with my parents again, or apply to a different college and hope they don't look at my record."
     cody "但是假期結束前，我要麼搬回去跟父母住，要麼去申請別的大學並祈禱他們不會審查我的紀錄。"
 
 # game/sean12192024.rpy:6263
-translate chinese seanTalkedToRocco1219S_8686e2ba:
+translate Tchinese seanTalkedToRocco1219S_8686e2ba:
 
     # cody "Either way, I'll have to leave you both behind."
     cody "不管選哪邊，我都會離開你們兩個。"
 
 # game/sean12192024.rpy:6267
-translate chinese seanTalkedToRocco1219S_b08865cb:
+translate Tchinese seanTalkedToRocco1219S_b08865cb:
 
     # "The raccoon looks down at the ground. His eyes still red and wet."
     "浣熊低頭望著地面。雙眼還紅腫濕潤。"
 
 # game/sean12192024.rpy:6268
-translate chinese seanTalkedToRocco1219S_078ff2be:
+translate Tchinese seanTalkedToRocco1219S_078ff2be:
 
     # "I wish I could offer him more than words. That I could do something to fix his mind."
     "真希望有什麼比單純言語還能幫上忙的地方。只求能修復他的心靈。"
 
 # game/sean12192024.rpy:6269
-translate chinese seanTalkedToRocco1219S_df0ac257:
+translate Tchinese seanTalkedToRocco1219S_df0ac257:
 
     # "Get him back to the man he was."
     "讓他變回原本的樣子。"
 
 # game/sean12192024.rpy:6270
-translate chinese seanTalkedToRocco1219S_cf37fa25:
+translate Tchinese seanTalkedToRocco1219S_cf37fa25:
 
     # "Arthur and I looked at each other. Something felt wrong."
     "Arthur和我對看一眼。感覺不太對勁。"
 
 # game/sean12192024.rpy:6271
-translate chinese seanTalkedToRocco1219S_33461f91:
+translate Tchinese seanTalkedToRocco1219S_33461f91:
 
     # "Though his face didn't show it I could tell he was mad about something. It was that sixth sense I had developed from knowing him for so long."
     "雖然他臉上沒有表現，但我看得出他正在生氣。這是我跟他長久交往所培養出的第六感。"
 
 # game/sean12192024.rpy:6275
-translate chinese seanTalkedToRocco1219S_d9dda323:
+translate Tchinese seanTalkedToRocco1219S_d9dda323:
 
     # arthur sideSeanNeutral "What happened after?"
     arthur sideSeanNeutral "之後呢？"
 
 # game/sean12192024.rpy:6278
-translate chinese seanTalkedToRocco1219S_5e8e7fa8:
+translate Tchinese seanTalkedToRocco1219S_5e8e7fa8:
 
     # "His tone was blunt and demanding. His snout wrinkled as he finished the words. One paw resting itself within his mane."
     "他的語氣直白而強硬。說完便皺起吻部，一隻爪拄在鬃毛裡。"
 
 # game/sean12192024.rpy:6282
-translate chinese seanTalkedToRocco1219S_be2215e2:
+translate Tchinese seanTalkedToRocco1219S_be2215e2:
 
     # cody sideSeanConcerned "That's the part I really don't want to talk about..."
     cody sideSeanConcerned "那部分我真的不想談……"
 
 # game/sean12192024.rpy:6286
-translate chinese seanTalkedToRocco1219S_b5793332:
+translate Tchinese seanTalkedToRocco1219S_b5793332:
 
     # "I can get it."
     "我能理解。"
 
 # game/sean12192024.rpy:6287
-translate chinese seanTalkedToRocco1219S_36b58a98:
+translate Tchinese seanTalkedToRocco1219S_36b58a98:
 
     # "From what Rocco told me, and the fact that we basically forced him into the first part, I wouldn't want to hear it either."
     "考慮到Rocco告訴我的部分，再加上我們根本是逼著他吐露前半段的，我也不怎麼想聽後續。"
 
 # game/sean12192024.rpy:6288
-translate chinese seanTalkedToRocco1219S_c27c7f2e:
+translate Tchinese seanTalkedToRocco1219S_c27c7f2e:
 
     # "It is strange that he would lie about calling Rocco, or did Rocco lie to me?"
     "但他謊稱沒有打給Rocco這點有古怪，還是Rocco對我說了謊？"
 
 # game/sean12192024.rpy:6289
-translate chinese seanTalkedToRocco1219S_dfcf8955:
+translate Tchinese seanTalkedToRocco1219S_dfcf8955:
 
     # "No stop it mind."
     "不行，別想了。"
 
 # game/sean12192024.rpy:6290
-translate chinese seanTalkedToRocco1219S_364e1ee0:
+translate Tchinese seanTalkedToRocco1219S_364e1ee0:
 
     # "I'm not here to interrogate my friend."
     "我不是來審問朋友的。"
 
 # game/sean12192024.rpy:6294
-translate chinese seanTalkedToRocco1219S_19bbee2f:
+translate Tchinese seanTalkedToRocco1219S_19bbee2f:
 
     # sean "Thanks for telling us what you did Cody."
     sean "謝謝你願意說出來，Cody。"
 
 # game/sean12192024.rpy:6297
-translate chinese seanTalkedToRocco1219S_838fb913:
+translate Tchinese seanTalkedToRocco1219S_838fb913:
 
     # "The raccoon's face lightens a bit as I try to shift the subject."
     "我試著轉移話題，浣熊的臉稍微放鬆了點。"
 
 # game/sean12192024.rpy:6299
-translate chinese seanTalkedToRocco1219S_dcdbc289:
+translate Tchinese seanTalkedToRocco1219S_dcdbc289:
 
     # "Arthur gets up from the table."
     "Arthur從桌子旁站起來。"
 
 # game/sean12192024.rpy:6302
-translate chinese seanTalkedToRocco1219S_cd3f47c6:
+translate Tchinese seanTalkedToRocco1219S_cd3f47c6:
 
     # arthur sideSeanNeutral "I need to go for a walk."
     arthur sideSeanNeutral "我要去走走。"
 
 # game/sean12192024.rpy:6308
-translate chinese seanTalkedToRocco1219S_1dd2094b:
+translate Tchinese seanTalkedToRocco1219S_1dd2094b:
 
     # "We watch as the lion walks off in a huff. Paws tucked into his jean pockets walking down the abandoned wooded path."
     "我們看著獅子氣呼呼地離開，雙爪塞進牛仔褲口袋，沿著廢棄的林間小徑往下走。"
 
 # game/sean12192024.rpy:6309
-translate chinese seanTalkedToRocco1219S_ae838286:
+translate Tchinese seanTalkedToRocco1219S_ae838286:
 
     # "His tail swept the ground, stirring the powdery snow as he became smaller and smaller."
     "他的尾巴掃過地面，攪動粉雪，人影越來越小。"
 
 # game/sean12192024.rpy:6310
-translate chinese seanTalkedToRocco1219S_31b078d3:
+translate Tchinese seanTalkedToRocco1219S_31b078d3:
 
     # "Maybe this was one of those moments that I should have gone after him."
     "也許這種時候我是該追上去。"
 
 # game/sean12192024.rpy:6311
-translate chinese seanTalkedToRocco1219S_c8b5191f:
+translate Tchinese seanTalkedToRocco1219S_c8b5191f:
 
     # "But I didn't."
     "但我沒有。"
 
 # game/sean12192024.rpy:6312
-translate chinese seanTalkedToRocco1219S_5350355f:
+translate Tchinese seanTalkedToRocco1219S_5350355f:
 
     # "I turned to Cody and said the worst thing I could say at that moment."
     "我轉向Cody，說出此時此刻最糟糕的話。"
 
 # game/sean12192024.rpy:6316
-translate chinese seanTalkedToRocco1219S_45ce0974:
+translate Tchinese seanTalkedToRocco1219S_45ce0974:
 
     # sean "Rocco told me the rest."
     sean "Rocco把剩下的部分都跟我說了。"
 
 # game/sean12192024.rpy:6320
-translate chinese seanTalkedToRocco1219S_dec375f0:
+translate Tchinese seanTalkedToRocco1219S_dec375f0:
 
     # "His eyes explored every emotion possible before landing on shock. His muzzle slowly turns to meet mine."
     "他的眼睛閃過萬分情緒，最後定格於震驚。吻部慢慢轉向我。"
 
 # game/sean12192024.rpy:6324
-translate chinese seanTalkedToRocco1219S_42185ed8:
+translate Tchinese seanTalkedToRocco1219S_42185ed8:
 
     # sean "Some things he said didn't match what you said, but I don't care about that."
     sean "他的細節跟你不同，但我不管那些。"
 
 # game/sean12192024.rpy:6327
-translate chinese seanTalkedToRocco1219S_11e4fc20:
+translate Tchinese seanTalkedToRocco1219S_11e4fc20:
 
     # "I reach my paws out across the table and Cody hesitantly places his in mine."
     "我雙爪伸過桌子，Cody猶豫地握起。"
 
 # game/sean12192024.rpy:6333
-translate chinese seanTalkedToRocco1219S_0a568590:
+translate Tchinese seanTalkedToRocco1219S_0a568590:
 
     # sean "I just need to know you're ok. That you won't... try again..."
     sean "我只想確保你沒事。確保你不會……再次……"
 
 # game/sean12192024.rpy:6336
-translate chinese seanTalkedToRocco1219S_35f914ff:
+translate Tchinese seanTalkedToRocco1219S_35f914ff:
 
     # "There was a knowing look of horror, or maybe it was rage, on his face."
     "他臉上浮現了然的驚恐表情，又或許是氣憤。"
 
 # game/sean12192024.rpy:6337
-translate chinese seanTalkedToRocco1219S_a220ada5:
+translate Tchinese seanTalkedToRocco1219S_a220ada5:
 
     # "I'm sure deep down he was pissed at Rocco, and Rocco will be pissed at me for telling him."
     "想必他心裡很不爽Rocco，而Rocco也會因為我說破而不爽。"
 
 # game/sean12192024.rpy:6338
-translate chinese seanTalkedToRocco1219S_870d01b6:
+translate Tchinese seanTalkedToRocco1219S_870d01b6:
 
     # "Hell Rocco was going to be mad at me regardless of what happened."
     "但反正不管怎樣Rocco都會對我生氣的。"
 
 # game/sean12192024.rpy:6339
-translate chinese seanTalkedToRocco1219S_36dbadb9:
+translate Tchinese seanTalkedToRocco1219S_36dbadb9:
 
     # "I know he'll get over it."
     "他會放下的。"
 
 # game/sean12192024.rpy:6344
-translate chinese seanTalkedToRocco1219S_eb487e4c:
+translate Tchinese seanTalkedToRocco1219S_eb487e4c:
 
     # sean "I can't lose someone else Cody. I know it's selfish of me to say, but I really don't know if I can take it again."
     sean "我不想再失去任何人了，Cody。我也知道這樣說很自私，但真的不知道自己能不能再次承受。"
 
 # game/sean12192024.rpy:6347
-translate chinese seanTalkedToRocco1219S_c03d2b39:
+translate Tchinese seanTalkedToRocco1219S_c03d2b39:
 
     # "I want to cry. I want to express any other emotion right now."
     "我好想哭。我想表達出任何其他的情緒。"
 
 # game/sean12192024.rpy:6348
-translate chinese seanTalkedToRocco1219S_9aafc67e:
+translate Tchinese seanTalkedToRocco1219S_9aafc67e:
 
     # "But all I can muster is that cold blank expression that I default to when things get too heavy for me."
     "卻只能擠出我會在負荷不了時自動擺出的冷淡空洞表情。"
 
 # game/sean12192024.rpy:6349
-translate chinese seanTalkedToRocco1219S_02598612:
+translate Tchinese seanTalkedToRocco1219S_02598612:
 
     # "It takes Cody a moment."
     "Cody愣了一小會兒。"
 
 # game/sean12192024.rpy:6353
-translate chinese seanTalkedToRocco1219S_4e1ffe70:
+translate Tchinese seanTalkedToRocco1219S_4e1ffe70:
 
     # "He lets go of my paws, walks over to the rail, and I fear the worst."
     "他放開我的爪子，走到圍欄旁，我好怕他會做出傻事。"
 
 # game/sean12192024.rpy:6356
-translate chinese seanTalkedToRocco1219S_849821cc:
+translate Tchinese seanTalkedToRocco1219S_849821cc:
 
     # cody "I... genuinely don't know right now Sean..."
     cody "我……現在真的好迷茫，Sean……"
 
 # game/sean12192024.rpy:6359
-translate chinese seanTalkedToRocco1219S_0f1a8527:
+translate Tchinese seanTalkedToRocco1219S_0f1a8527:
 
     # "He sighs staring off across the river."
     "他遙望河對岸，唉聲嘆氣。"
 
 # game/sean12192024.rpy:6362
-translate chinese seanTalkedToRocco1219S_89a575ae:
+translate Tchinese seanTalkedToRocco1219S_89a575ae:
 
     # cody "I don't want to lie, or make hollow promises to you. But... I just don't know anymore."
     cody "我不想騙你，也不想給你空洞的承諾。但……我真的好迷茫。"
 
 # game/sean12192024.rpy:6363
-translate chinese seanTalkedToRocco1219S_da6dae57:
+translate Tchinese seanTalkedToRocco1219S_da6dae57:
 
     # cody "I lost everything and it's all my fault."
     cody "我失去了一切，全是我自己的錯。"
 
 # game/sean12192024.rpy:6366
-translate chinese seanTalkedToRocco1219S_6cc1fc6b:
+translate Tchinese seanTalkedToRocco1219S_6cc1fc6b:
 
     # "He rests his chin on his arms and I join him by the rails. For nothing more than to make sure he doesn't throw himself down the mountain."
     "他下巴靠在手臂上，我也走到圍欄旁陪他。基本上是為了確保他不會跳下山。"
 
 # game/sean12192024.rpy:6370
-translate chinese seanTalkedToRocco1219S_010bc94d:
+translate Tchinese seanTalkedToRocco1219S_010bc94d:
 
     # cody sideSeanConcerned "And... I... I think I like, no love, Rocco."
     cody sideSeanConcerned "還有……我……我好像喜歡，不對，是愛Rocco。"
 
 # game/sean12192024.rpy:6371
-translate chinese seanTalkedToRocco1219S_757b8c8f:
+translate Tchinese seanTalkedToRocco1219S_757b8c8f:
 
     # cody "I just feel so safe when he's around.{nw}"
     cody "有他陪著，我就好有安全感。{nw}"
 
 # game/sean12192024.rpy:6373
-translate chinese seanTalkedToRocco1219S_902a9a4c:
+translate Tchinese seanTalkedToRocco1219S_902a9a4c:
 
     # cody "I just feel so safe when he's around.{fast} But I know he doesn't feel the same way. I fell in love with the only straight guy I truly know."
     cody "有他陪著，我就好有安全感。{fast}可是我知道他對我不是那種感情。我愛上了唯一真正認識的直男。"
 
 # game/sean12192024.rpy:6374
-translate chinese seanTalkedToRocco1219S_180a01f0:
+translate Tchinese seanTalkedToRocco1219S_180a01f0:
 
     # cody "Don't get me wrong, previous conversation notwithstanding, I do like spending time with you both."
     cody "你別誤會，就算不提這回事，我也很喜歡跟你們兩個相處。"
 
 # game/sean12192024.rpy:6375
-translate chinese seanTalkedToRocco1219S_43776222:
+translate Tchinese seanTalkedToRocco1219S_43776222:
 
     # cody "I just don't know where my life is going anymore."
     cody "只是不清楚人生還能何去何從。"
 
 # game/sean12192024.rpy:6376
-translate chinese seanTalkedToRocco1219S_6fc03c0d:
+translate Tchinese seanTalkedToRocco1219S_6fc03c0d:
 
     # cody "I'll be honest, part of me feels like it won't go anywhere."
     cody "實話實說，我有點看不到未來了。"
 
 # game/sean12192024.rpy:6378
-translate chinese seanTalkedToRocco1219S_3fdc6614:
+translate Tchinese seanTalkedToRocco1219S_3fdc6614:
 
     # cody "I had one chance to get out of this hell hole and I fucked it up."
     cody "我只有一次機會能逃出這個狗屎地方，卻搞砸了。"
 
 # game/sean12192024.rpy:6381
-translate chinese seanTalkedToRocco1219S_79829f97:
+translate Tchinese seanTalkedToRocco1219S_79829f97:
 
     # sean sideSeanNeutral "Cody you didn't-"
     sean sideSeanNeutral "Cody，你沒——"
 
 # game/sean12192024.rpy:6384
-translate chinese seanTalkedToRocco1219S_3ec7b07c:
+translate Tchinese seanTalkedToRocco1219S_3ec7b07c:
 
     # cody "Sean- please. I know what you're going to say. I've heard it time and time again."
     cody "Sean，別。我知道你想說什麼。我都聽過無數次了。"
 
 # game/sean12192024.rpy:6385
-translate chinese seanTalkedToRocco1219S_c0376585:
+translate Tchinese seanTalkedToRocco1219S_c0376585:
 
     # cody "You saying 'everything is going to be ok' is the same bullshit the preachers sold us at Casey's funeral!"
     cody "「一切都會沒事的」這種話，就跟牧師們在Casey葬禮上說的屁話沒兩樣！"
 
 # game/sean12192024.rpy:6388
-translate chinese seanTalkedToRocco1219S_de165446:
+translate Tchinese seanTalkedToRocco1219S_de165446:
 
     # "Sold you..."
     "屁話……"
 
 # game/sean12192024.rpy:6392
-translate chinese seanTalkedToRocco1219S_ede4df2a:
+translate Tchinese seanTalkedToRocco1219S_ede4df2a:
 
     # cody "I don't need more post grad therapist pep talk! I need my friend!"
     cody "我不要碩博治療師的心靈雞湯！我只想要我的朋友！"
 
 # game/sean12192024.rpy:6396
-translate chinese seanTalkedToRocco1219S_10d98461:
+translate Tchinese seanTalkedToRocco1219S_10d98461:
 
     # sean "Sorry."
     sean "對不起。"
 
 # game/sean12192024.rpy:6400
-translate chinese seanTalkedToRocco1219S_b9be95f3:
+translate Tchinese seanTalkedToRocco1219S_b9be95f3:
 
     # "He pinches the bridge of his muzzle."
     "他捏住鼻樑。"
 
 # game/sean12192024.rpy:6405
-translate chinese seanTalkedToRocco1219S_f9b6aa1d:
+translate Tchinese seanTalkedToRocco1219S_f9b6aa1d:
 
     # cody "No... No, I'm sorry. I shouldn't snap at you."
     cody "不……不會，該道歉的是我。我不該朝你發火的。"
 
 # game/sean12192024.rpy:6406
-translate chinese seanTalkedToRocco1219S_5c05a93c:
+translate Tchinese seanTalkedToRocco1219S_5c05a93c:
 
     # cody "I get you're trying to help. Just, stop trying. It feels so much better when we can just be... you know?"
     cody "我知道你有心幫忙。但還是別想了。我們還是純粹混在一起比較……你也懂吧？"
 
 # game/sean12192024.rpy:6409
-translate chinese seanTalkedToRocco1219S_379ee214:
+translate Tchinese seanTalkedToRocco1219S_379ee214:
 
     # sean "Yeah... At the start of every school year it feels like we can never just hang out."
     sean "是啊……每學年開始，我都感覺再也不能單純混在一起了。"
 
 # game/sean12192024.rpy:6410
-translate chinese seanTalkedToRocco1219S_cbc4869a:
+translate Tchinese seanTalkedToRocco1219S_cbc4869a:
 
     # sean "We have to have a reason to, or we need to be doing something. We can't waste time like we used to."
     sean "得找個什麼理由或事情去做。不能像以前那樣虛度日常。"
 
 # game/sean12192024.rpy:6414
-translate chinese seanTalkedToRocco1219S_f55c5ae2:
+translate Tchinese seanTalkedToRocco1219S_f55c5ae2:
 
     # "He chuckles out a sigh."
     "他笑中帶嘆。"
 
 # game/sean12192024.rpy:6417
-translate chinese seanTalkedToRocco1219S_99e9a1a6:
+translate Tchinese seanTalkedToRocco1219S_99e9a1a6:
 
     # cody sideSeanSmile "Finally someone puts those feelings to words!"
     cody sideSeanSmile "終於有人把這種感覺化為言語說出來了！"
 
 # game/sean12192024.rpy:6420
-translate chinese seanTalkedToRocco1219S_f1e86a07:
+translate Tchinese seanTalkedToRocco1219S_f1e86a07:
 
     # "I can't help but join him."
     "我忍不住跟著笑。"
 
 # game/sean12192024.rpy:6425
-translate chinese seanTalkedToRocco1219S_48b1ce97:
+translate Tchinese seanTalkedToRocco1219S_48b1ce97:
 
     # sean "Remember how we'd all just sit around the library or the fence to the football field when Rocco's practice went on too late."
     sean "還記得Rocco練習拖太晚，我們就坐在圖書館或足球場圍欄旁邊的時候嗎？"
 
 # game/sean12192024.rpy:6430
-translate chinese seanTalkedToRocco1219S_01b21901:
+translate Tchinese seanTalkedToRocco1219S_01b21901:
 
     # cody "We'd either be listening to Casey's new hyperfixation, I'd be helping the three of you with math, or we'd talk comic books..."
     cody "一起聽Casey講他新迷上的興趣、我幫你們三個補習數學、聊漫畫……"
 
 # game/sean12192024.rpy:6433
-translate chinese seanTalkedToRocco1219S_07849727:
+translate Tchinese seanTalkedToRocco1219S_07849727:
 
     # sean "You know {i}After It All{/i} finished it's last issue?"
     sean "你知道《劫後餘生》出完最終話了嗎？"
 
 # game/sean12192024.rpy:6436
-translate chinese seanTalkedToRocco1219S_4e7dae4e:
+translate Tchinese seanTalkedToRocco1219S_4e7dae4e:
 
     # cody "That zombie comic?"
     cody "那部殭屍漫畫？"
 
 # game/sean12192024.rpy:6439
-translate chinese seanTalkedToRocco1219S_85ac55e8:
+translate Tchinese seanTalkedToRocco1219S_85ac55e8:
 
     # sean "Yeah!{nw}"
     sean "對啊！{nw}"
 
 # game/sean12192024.rpy:6440
-translate chinese seanTalkedToRocco1219S_9f5389e8:
+translate Tchinese seanTalkedToRocco1219S_9f5389e8:
 
     # sean sideSeanNeutral "Yeah!{fast} Though it got really weird. Mae, Garret, and Vance were somehow the last ones you see alive."
     sean sideSeanNeutral "對啊！{fast}雖然結局超怪的。Mae、Garret和Vance居然是最後出現的活人。"
 
 # game/sean12192024.rpy:6444
-translate chinese seanTalkedToRocco1219S_3e3d99bf:
+translate Tchinese seanTalkedToRocco1219S_3e3d99bf:
 
     # cody "Spoilers!"
     cody "劇透！"
 
 # game/sean12192024.rpy:6448
-translate chinese seanTalkedToRocco1219S_5ce91aee:
+translate Tchinese seanTalkedToRocco1219S_5ce91aee:
 
     # narrator sideSeanSmile "He laughed, weekly shoving my arm."
     narrator sideSeanSmile "他笑著輕推我手臂。"
 
 # game/sean12192024.rpy:6450
-translate chinese seanTalkedToRocco1219S_4d5d6049:
+translate Tchinese seanTalkedToRocco1219S_4d5d6049:
 
     # cody "Oh who am I kidding. I'm never gonna get around to it. Spoil away!"
     cody "哎，說笑的。我永遠不會去看的。隨你劇透！"
 
 # game/sean12192024.rpy:6455
-translate chinese seanTalkedToRocco1219S_76b2fe88:
+translate Tchinese seanTalkedToRocco1219S_76b2fe88:
 
     # nvl clear
     nvl clear
 
 # game/sean12192024.rpy:6457
-translate chinese seanTalkedToRocco1219S_e02e36da:
+translate Tchinese seanTalkedToRocco1219S_e02e36da:
 
     # nulln "I rambled to him about the ending."
     nulln "我把結局娓娓道來。"
 
 # game/sean12192024.rpy:6458
-translate chinese seanTalkedToRocco1219S_3411db3c:
+translate Tchinese seanTalkedToRocco1219S_3411db3c:
 
     # nulln "Trying to remind him of the important plot beats we read all those years ago."
     nulln "試圖喚起他對多年前我們讀過的重要劇情點的記憶。"
 
 # game/sean12192024.rpy:6460
-translate chinese seanTalkedToRocco1219S_81c1136c:
+translate Tchinese seanTalkedToRocco1219S_81c1136c:
 
     # nulln "The ones that were called back as the three sailed off to Europa hoping that the apocalypse didn't spread there."
     nulln "他們三人航向歐洲，希望浩劫沒有擴散時，閃回了那些劇情。"
 
 # game/sean12192024.rpy:6462
-translate chinese seanTalkedToRocco1219S_fe89840f:
+translate Tchinese seanTalkedToRocco1219S_fe89840f:
 
     # nulln sideSeanNeutral "The rest of the cast was unknown, probably spinoff bait."
     nulln sideSeanNeutral "其他角色都下落不明，大概是為了衍生作品留的伏筆。"
 
 # game/sean12192024.rpy:6464
-translate chinese seanTalkedToRocco1219S_c202ca5a:
+translate Tchinese seanTalkedToRocco1219S_c202ca5a:
 
     # nvl clear
     # nulln "Cody talked about {i}Amulet{/i}, a graphic novel we read."
@@ -12273,547 +12273,547 @@ translate chinese seanTalkedToRocco1219S_c202ca5a:
     nulln "Cody聊起《護符》，是我們讀過的圖像小說。"
 
 # game/sean12192024.rpy:6466
-translate chinese seanTalkedToRocco1219S_23d8f222:
+translate Tchinese seanTalkedToRocco1219S_23d8f222:
 
     # nulln "The shool's library was missing the last book and we could never seem to track it down."
     nulln "學校圖書館缺了最終卷，我們怎麼都找不到。"
 
 # game/sean12192024.rpy:6468
-translate chinese seanTalkedToRocco1219S_dbc9ce55:
+translate Tchinese seanTalkedToRocco1219S_dbc9ce55:
 
     # nulln sideSeanSmile "So, Arthur and Casey worked in secret for Cody's birthday and made their own ending."
     nulln sideSeanSmile "於是Arthur和Casey私下合力，為了慶祝Cody生日自製了結局。"
 
 # game/sean12192024.rpy:6469
-translate chinese seanTalkedToRocco1219S_c0c66ba0:
+translate Tchinese seanTalkedToRocco1219S_c0c66ba0:
 
     # nulln "It wasn't well written, or drawn, but he still held onto it."
     nulln "寫得不好、畫得也爛，但他還是留著了。"
 
 # game/sean12192024.rpy:6471
-translate chinese seanTalkedToRocco1219S_314f8e11:
+translate Tchinese seanTalkedToRocco1219S_314f8e11:
 
     # nulln "Apparently as he was packing up his dorm room he found it and gave it another read."
     nulln "收拾宿舍時，他好像挖出來了，就又讀了一次。"
 
 # game/sean12192024.rpy:6472
-translate chinese seanTalkedToRocco1219S_0ae2c516:
+translate Tchinese seanTalkedToRocco1219S_0ae2c516:
 
     # nulln "It was worse than he remembered, but in a good way."
     nulln "比記憶中還爛，但爛得很好看。"
 
 # game/sean12192024.rpy:6473
-translate chinese seanTalkedToRocco1219S_0033e96b:
+translate Tchinese seanTalkedToRocco1219S_0033e96b:
 
     # nulln "He had actually ordered, and finished, a copy of the final book. We laughed as he talked about the differences."
     nulln "他其實訂了最終卷，也看完了。聽他描述兩邊差異時，我們都要笑死了。"
 
 # game/sean12192024.rpy:6474
-translate chinese seanTalkedToRocco1219S_5627e230:
+translate Tchinese seanTalkedToRocco1219S_5627e230:
 
     # nulln "With how he described the insanity that was Casey's plot, it made me really want to read it."
     nulln "Casey那些瘋癲劇情，他描述得讓我真心想拜讀。"
 
 # game/sean12192024.rpy:6476
-translate chinese seanTalkedToRocco1219S_7f43ab4c:
+translate Tchinese seanTalkedToRocco1219S_7f43ab4c:
 
     # nulln sideSeanNeutral "They had Cody come in as a guest character and use the magic of biology to save the life of the protagonist."
     nulln sideSeanNeutral "他們讓Cody充當客串角色，用生物學魔法救了主角一命。"
 
 # game/sean12192024.rpy:6485
-translate chinese seanTalkedToRocco1219S_1958b374:
+translate Tchinese seanTalkedToRocco1219S_1958b374:
 
     # "A gentle fog began to creep up the shore of the river making its way towards us."
     "薄霧開始沿河岸向我們蔓延。"
 
 # game/sean12192024.rpy:6486
-translate chinese seanTalkedToRocco1219S_480a2759:
+translate Tchinese seanTalkedToRocco1219S_480a2759:
 
     # "I checked my phone, and had three old notifications pop up."
     "我檢查手機，跳出三條舊通知。"
 
 # game/sean12192024.rpy:6487
-translate chinese seanTalkedToRocco1219S_ab29a996:
+translate Tchinese seanTalkedToRocco1219S_ab29a996:
 
     # "One from Rocco asking if Cody can drive him back from work, one from my parents asking if I'd be home for dinner at six,{nw}"
     "一條是Rocco問Cody能否開車接他下班；一條是爸媽問我6點會否回家吃飯；{nw}"
 
 # game/sean12192024.rpy:6488
-translate chinese seanTalkedToRocco1219S_662bf477:
+translate Tchinese seanTalkedToRocco1219S_662bf477:
 
     # narrator sideSeanEmbarrassed "One from Rocco asking if Cody can drive him back from work, one from my parents asking if I'd be home for dinner at six,{fast} and one more from my Tail Raisers friend that I quickly swipe away.{nw}"
     narrator sideSeanEmbarrassed "一條是Rocco問Cody能否開車接他下班；一條是爸媽問我6點會否回家吃飯；{fast}還有一條是翹尾巴上那位朋友傳的，被我快速滑掉。{nw}"
 
 # game/sean12192024.rpy:6489
-translate chinese seanTalkedToRocco1219S_41987e7e:
+translate Tchinese seanTalkedToRocco1219S_41987e7e:
 
     # narrator sideSeanNeutral "One from Rocco asking if Cody can drive him back from work, one from my parents asking if I'd be home for dinner at six, and one more from my Tail Raisers friend that I quickly swipe away.{fast}"
     narrator sideSeanNeutral "一條是Rocco問Cody能否開車接他下班；一條是爸媽問我6點會否回家吃飯；{fast}還有一條是翹尾巴上那位朋友傳的，被我快速滑掉。{fast}"
 
 # game/sean12192024.rpy:6490
-translate chinese seanTalkedToRocco1219S_4e494b03:
+translate Tchinese seanTalkedToRocco1219S_4e494b03:
 
     # "I tried calling the lion, but the signal never connected us."
     "我試著打給獅子，但一直沒訊號。"
 
 # game/sean12192024.rpy:6491
-translate chinese seanTalkedToRocco1219S_e4d5429a:
+translate Tchinese seanTalkedToRocco1219S_e4d5429a:
 
     # "Guess we'll just have to do it the old fashion way."
     "看來只能用老方法了。"
 
 # game/sean12192024.rpy:6495
-translate chinese seanTalkedToRocco1219S_54ec6c81:
+translate Tchinese seanTalkedToRocco1219S_54ec6c81:
 
     # sean sideSeanEmbarrassed "I... don't know everything that happened. It got too heavy..."
     sean sideSeanEmbarrassed "我……也不清楚來龍去脈。實在太沉重了……"
 
 # game/sean12192024.rpy:6499
-translate chinese seanTalkedToRocco1219S_935e3399:
+translate Tchinese seanTalkedToRocco1219S_935e3399:
 
     # cody sideSeanNeutral "So why are we talking about it?"
     cody sideSeanNeutral "那我們為什麼還要談？"
 
 # game/sean12192024.rpy:6504
-translate chinese seanTalkedToRocco1219S_47da1c1b:
+translate Tchinese seanTalkedToRocco1219S_47da1c1b:
 
     # arthur "Because just keeping it to yourself isn't helping."
     arthur "因為悶在心裡對你沒幫助。"
 
 # game/sean12192024.rpy:6507
-translate chinese seanTalkedToRocco1219S_8c93b8df:
+translate Tchinese seanTalkedToRocco1219S_8c93b8df:
 
     # "Cody scoffs at that."
     "Cody冷哼一聲。"
 
 # game/sean12192024.rpy:6512
-translate chinese seanTalkedToRocco1219S_a076257f:
+translate Tchinese seanTalkedToRocco1219S_a076257f:
 
     # cody sideSeanConcerned "Who says I want help- Look lets just move on from it.{nw}"
     cody sideSeanConcerned "誰說我要尋求幫……我說，就別再談這個了。{nw}"
 
 # game/sean12192024.rpy:6514
-translate chinese seanTalkedToRocco1219S_26347cae:
+translate Tchinese seanTalkedToRocco1219S_26347cae:
 
     # cody "Who says I want help- Look lets just move on from it.{fast} You both are on break. We should be having fun. Not doing this."
     cody "誰說我要尋求幫……我說，就別再談這個了。{fast}你們兩個在放假。我們應該要開開心心的，而不是聊這種事。"
 
 # game/sean12192024.rpy:6518
-translate chinese seanTalkedToRocco1219S_01e8b291:
+translate Tchinese seanTalkedToRocco1219S_01e8b291:
 
     # arthur "Well maybe I can't have fun knowing my friend is in a rough spot. Sean what did Rocco tell you?"
     arthur "知道朋友過得很慘，我哪還開心得起來啊。Sean，Rocco跟你說了什麼？"
 
 # game/sean12192024.rpy:6521
-translate chinese seanTalkedToRocco1219S_5483bcb1:
+translate Tchinese seanTalkedToRocco1219S_5483bcb1:
 
     # cody "Do we really-"
     cody "真的有必要——"
 
 # game/sean12192024.rpy:6526
-translate chinese seanTalkedToRocco1219S_d4b6497c:
+translate Tchinese seanTalkedToRocco1219S_d4b6497c:
 
     # arthur sideSeanEmbarrassed "Sean. What. Did. Rocco. Tell. You!"
     arthur sideSeanEmbarrassed "Sean，Rocco・跟你・說了・什麼！？"
 
 # game/sean12192024.rpy:6530
-translate chinese seanTalkedToRocco1219S_91b082f0:
+translate Tchinese seanTalkedToRocco1219S_91b082f0:
 
     # "Cody shrinks into himself as Arthur annunciates each word. I don't blame him, being cornered like this isn't helping."
     "Arthur字字分明，令Cody縮起身子。我不怪他，這樣逼問他也不好。"
 
 # game/sean12192024.rpy:6534
-translate chinese seanTalkedToRocco1219S_f6a20cc6:
+translate Tchinese seanTalkedToRocco1219S_f6a20cc6:
 
     # sean sideSeanConcerned "Well... He already told us about the surgery."
     sean sideSeanConcerned "這……他已經跟我們說過手術的事了。"
 
 # game/sean12192024.rpy:6538
-translate chinese seanTalkedToRocco1219S_fc6e1378:
+translate Tchinese seanTalkedToRocco1219S_fc6e1378:
 
     # cody "That I killed someone."
     cody "我殺了人。"
 
 # game/sean12192024.rpy:6542
-translate chinese seanTalkedToRocco1219S_3d91ed77:
+translate Tchinese seanTalkedToRocco1219S_3d91ed77:
 
     # arthur sideSeanScared "Cody!"
     arthur sideSeanScared "Cody！"
 
 # game/sean12192024.rpy:6546
-translate chinese seanTalkedToRocco1219S_1cca0b2f:
+translate Tchinese seanTalkedToRocco1219S_1cca0b2f:
 
     # "The lion snapped at the raccoon. Cody somehow deflated even more. "
     "獅子朝浣熊大吼。Cody莫名更加洩氣了。"
 
 # game/sean12192024.rpy:6550
-translate chinese seanTalkedToRocco1219S_bd7d016c:
+translate Tchinese seanTalkedToRocco1219S_bd7d016c:
 
     # sean sideSeanConcerned "What he didn't tell us was the call with Cody."
     sean sideSeanConcerned "但他沒告訴我們那通跟Cody之間的電話。"
 
 # game/sean12192024.rpy:6554
-translate chinese seanTalkedToRocco1219S_a755a2a7:
+translate Tchinese seanTalkedToRocco1219S_a755a2a7:
 
     # "I look at the raccoon, who just gives me a defeated glance before turning his whole body away from us."
     "我看向浣熊，他只給我一個認命的眼神，然後別開身子。"
 
 # game/sean12192024.rpy:6555
-translate chinese seanTalkedToRocco1219S_55aa7d8e:
+translate Tchinese seanTalkedToRocco1219S_55aa7d8e:
 
     # "I really shouldn't be doing this."
     "我真的不該這麼做。"
 
 # game/sean12192024.rpy:6556
-translate chinese seanTalkedToRocco1219S_3525534f:
+translate Tchinese seanTalkedToRocco1219S_3525534f:
 
     # "But Arthur needs to know."
     "但Arthur有必要知道。"
 
 # game/sean12192024.rpy:6561
-translate chinese seanTalkedToRocco1219S_00daff42:
+translate Tchinese seanTalkedToRocco1219S_00daff42:
 
     # sean "He had called Rocco asking him to convince him to not... kill himself."
     sean "他打給了Rocco，求他說服自己不要……自殺。"
 
 # game/sean12192024.rpy:6564
-translate chinese seanTalkedToRocco1219S_a3272238:
+translate Tchinese seanTalkedToRocco1219S_a3272238:
 
     # "It was a hard sentence to say."
     "這句話很難說出口。"
 
 # game/sean12192024.rpy:6565
-translate chinese seanTalkedToRocco1219S_5bf87d2a:
+translate Tchinese seanTalkedToRocco1219S_5bf87d2a:
 
     # "Even harder for Arthur to process. The lion seemed locked in time while Cody looked like he was ready to run away at any moment."
     "對Arthur來說，就更難消化了。獅子整個人僵在原地，Cody則一副打算隨時落跑的樣子。"
 
 # game/sean12192024.rpy:6566
-translate chinese seanTalkedToRocco1219S_e6d2a4f8:
+translate Tchinese seanTalkedToRocco1219S_e6d2a4f8:
 
     # "We shouldn't be doing this."
     "我們不該這樣的。"
 
 # game/sean12192024.rpy:6570
-translate chinese seanTalkedToRocco1219S_035e5a7c:
+translate Tchinese seanTalkedToRocco1219S_035e5a7c:
 
     # arthur "The scalpel... you-you wouldn't."
     arthur "那把手術刀……你、你不會吧。"
 
 # game/sean12192024.rpy:6574
-translate chinese seanTalkedToRocco1219S_a87af3ee:
+translate Tchinese seanTalkedToRocco1219S_a87af3ee:
 
     # "Cody doesn't answer."
     "Cody不作回應。"
 
 # game/sean12192024.rpy:6577
-translate chinese seanTalkedToRocco1219S_5af9f5d0:
+translate Tchinese seanTalkedToRocco1219S_5af9f5d0:
 
     # sean sideSeanSad2 "Rocco said there was more, but... I-I couldn't."
     sean sideSeanSad2 "Rocco說還有後續，可是……我、我聽不下去。"
 
 # game/sean12192024.rpy:6580
-translate chinese seanTalkedToRocco1219S_e50b8055:
+translate Tchinese seanTalkedToRocco1219S_e50b8055:
 
     # "Arthur's eyes were no longer on me. I could see Cody's entire body trembling."
     "Arthur目光不再看著我。Cody全身都在顫抖。"
 
 # game/sean12192024.rpy:6584
-translate chinese seanTalkedToRocco1219S_91221c99:
+translate Tchinese seanTalkedToRocco1219S_91221c99:
 
     # arthur sideSeanNeutral "Cody... can you-"
     arthur sideSeanNeutral "Cody……你能——"
 
 # game/sean12192024.rpy:6589
-translate chinese seanTalkedToRocco1219S_e9564f02:
+translate Tchinese seanTalkedToRocco1219S_e9564f02:
 
     # cody sideSeanConcerned "Please... I'm begging you just drop it."
     cody sideSeanConcerned "拜託……我求你們別再說了。"
 
 # game/sean12192024.rpy:6592
-translate chinese seanTalkedToRocco1219S_cb583d32:
+translate Tchinese seanTalkedToRocco1219S_cb583d32:
 
     # arthur "But I just want to-"
     arthur "但我只是想——"
 
 # game/sean12192024.rpy:6596
-translate chinese seanTalkedToRocco1219S_aa65ddea:
+translate Tchinese seanTalkedToRocco1219S_aa65ddea:
 
     # cody "Arthur please!"
     cody "Arthur，求你了！"
 
 # game/sean12192024.rpy:6600
-translate chinese seanTalkedToRocco1219S_76c87089:
+translate Tchinese seanTalkedToRocco1219S_76c87089:
 
     # "The lion rests a paw on the raccoon's back. Slowly rubbing it while he weeps."
     "獅子把爪放在浣熊背上。在對方抽泣時微微安撫。"
 
 # game/sean12192024.rpy:6601
-translate chinese seanTalkedToRocco1219S_c276d29b:
+translate Tchinese seanTalkedToRocco1219S_c276d29b:
 
     # "It feels like an hour of us just sitting there."
     "我們像這樣坐了感覺有一個小時。"
 
 # game/sean12192024.rpy:6602
-translate chinese seanTalkedToRocco1219S_36ce0e47:
+translate Tchinese seanTalkedToRocco1219S_36ce0e47:
 
     # "The deafening silence was only broken by the wind rustling the trees. Our frozen breaths coating the air."
     "震耳欲聾的寂靜，被風吹動樹葉的聲響擊碎。我們凍結的呼吸填充了空氣。"
 
 # game/sean12192024.rpy:6604
-translate chinese seanTalkedToRocco1219S_d2f22f45:
+translate Tchinese seanTalkedToRocco1219S_d2f22f45:
 
     # "Each inhale and exhale desynced from one another."
     "每人一呼一吸都不同步。"
 
 # game/sean12192024.rpy:6605
-translate chinese seanTalkedToRocco1219S_13bcf22c:
+translate Tchinese seanTalkedToRocco1219S_13bcf22c:
 
     # "Cody's shallow and panicked."
     "Cody的淺短而慌亂；"
 
 # game/sean12192024.rpy:6606
-translate chinese seanTalkedToRocco1219S_ff11cca8:
+translate Tchinese seanTalkedToRocco1219S_ff11cca8:
 
     # "Arthur's deep and calm."
     "Arthur的深沉而平靜；"
 
 # game/sean12192024.rpy:6607
-translate chinese seanTalkedToRocco1219S_5e7792c4:
+translate Tchinese seanTalkedToRocco1219S_5e7792c4:
 
     # "Mine hidden within their own breaths."
     "我的則被他們的蓋過。"
 
 # game/sean12192024.rpy:6612
-translate chinese seanTalkedToRocco1219S_2e0044ea:
+translate Tchinese seanTalkedToRocco1219S_2e0044ea:
 
     # cody sideSeanScared "I hung myself last Sunday.{nw}"
     cody sideSeanScared "我上禮拜天上吊了。{nw}"
 
 # game/sean12192024.rpy:6614
-translate chinese seanTalkedToRocco1219S_e7ee712f:
+translate Tchinese seanTalkedToRocco1219S_e7ee712f:
 
     # cody "I hung myself last Sunday.{fast} There... Are you satisfied?"
     cody "我上禮拜天上吊了。{fast}就這樣……你們滿意了嗎？"
 
 # game/sean12192024.rpy:6617
-translate chinese seanTalkedToRocco1219S_07804ba8:
+translate Tchinese seanTalkedToRocco1219S_07804ba8:
 
     # "Arthur stops rubbing Cody's back and I want to vomit."
     "Arthur停止撫摸Cody的背，我則一陣反胃。"
 
 # game/sean12192024.rpy:6621
-translate chinese seanTalkedToRocco1219S_2940351c:
+translate Tchinese seanTalkedToRocco1219S_2940351c:
 
     # cody sideSeanConcerned "Rocco ripped my corpse out of hell."
     cody sideSeanConcerned "Rocco把我的屍首從地獄拉了出來。"
 
 # game/sean12192024.rpy:6624
-translate chinese seanTalkedToRocco1219S_f56e70f7:
+translate Tchinese seanTalkedToRocco1219S_f56e70f7:
 
     # "He says between snivels and I want to be anywhere other than here. Arthur has become a statue."
     "他夾帶抽泣說出，我只想離開這裡。Arthur已經化為了一座雕像。"
 
 # game/sean12192024.rpy:6628
-translate chinese seanTalkedToRocco1219S_86fe7926:
+translate Tchinese seanTalkedToRocco1219S_86fe7926:
 
     # cody "Now can we please drop this."
     cody "現在可以別再談了嗎？"
 
 # game/sean12192024.rpy:6632
-translate chinese seanTalkedToRocco1219S_c89c5b8f:
+translate Tchinese seanTalkedToRocco1219S_c89c5b8f:
 
     # arthur "But... what about... I mean... that fucking..."
     arthur "可是……那那把……就是……該死的……"
 
 # game/sean12192024.rpy:6635
-translate chinese seanTalkedToRocco1219S_6a532893:
+translate Tchinese seanTalkedToRocco1219S_6a532893:
 
     # narrator sideSeanNeutral "He's spiraling."
     narrator sideSeanNeutral "他崩潰了。"
 
 # game/sean12192024.rpy:6640
-translate chinese seanTalkedToRocco1219S_bc3f2e4b:
+translate Tchinese seanTalkedToRocco1219S_bc3f2e4b:
 
     # arthur "Scalpel. The one in your sink drawer."
     arthur "手術刀。你水槽抽屜裡那把。"
 
 # game/sean12192024.rpy:6643
-translate chinese seanTalkedToRocco1219S_5aaf4e0a:
+translate Tchinese seanTalkedToRocco1219S_5aaf4e0a:
 
     # cody "I just want this to be over."
     cody "我只想結束一切。"
 
 # game/sean12192024.rpy:6646
-translate chinese seanTalkedToRocco1219S_18decdb7:
+translate Tchinese seanTalkedToRocco1219S_18decdb7:
 
     # arthur "Then, please, just... I mean your towels..."
     arthur "算我拜託你……我是說，你的毛巾……"
 
 # game/sean12192024.rpy:6649
-translate chinese seanTalkedToRocco1219S_0265c059:
+translate Tchinese seanTalkedToRocco1219S_0265c059:
 
     # sean sideSeanConcerned "Arthur, c'mon. Let's just move on."
     sean sideSeanConcerned "Arthur，算了吧。我們別再說了。"
 
 # game/sean12192024.rpy:6653
-translate chinese seanTalkedToRocco1219S_4ae28355:
+translate Tchinese seanTalkedToRocco1219S_4ae28355:
 
     # cody "Thanks."
     cody "謝謝。"
 
 # game/sean12192024.rpy:6657
-translate chinese seanTalkedToRocco1219S_7c719ded:
+translate Tchinese seanTalkedToRocco1219S_7c719ded:
 
     # arthur sideSeanNeutral "No-{nw}"
     arthur sideSeanNeutral "不——{nw}"
 
 # game/sean12192024.rpy:6659
-translate chinese seanTalkedToRocco1219S_42c385e2:
+translate Tchinese seanTalkedToRocco1219S_42c385e2:
 
     # arthur "No-{fast} No, I can't."
     arthur "不——{fast}不行，我不行。"
 
 # game/sean12192024.rpy:6668
-translate chinese seanTalkedToRocco1219S_d082a649:
+translate Tchinese seanTalkedToRocco1219S_d082a649:
 
     # "The lion gets up and starts pacing around. Cody remains hunched over the picnic table."
     "獅子站起身子踱步。Cody仍然趴在野餐桌上。"
 
 # game/sean12192024.rpy:6669
-translate chinese seanTalkedToRocco1219S_8a7da853:
+translate Tchinese seanTalkedToRocco1219S_8a7da853:
 
     # "Snow begins to drip onto us as the wind picks up."
     "風變強了，令雪灑落在我們身上。"
 
 # game/sean12192024.rpy:6676
-translate chinese seanTalkedToRocco1219S_72561820:
+translate Tchinese seanTalkedToRocco1219S_72561820:
 
     # "I stand up, walking over to the frantic lion."
     "我站起身子，走向焦躁的獅子。"
 
 # game/sean12192024.rpy:6679
-translate chinese seanTalkedToRocco1219S_1bb5b589:
+translate Tchinese seanTalkedToRocco1219S_1bb5b589:
 
     # sean sideSeanConcerned "Are you good?"
     sean sideSeanConcerned "你還好嗎？"
 
 # game/sean12192024.rpy:6682
-translate chinese seanTalkedToRocco1219S_49478691:
+translate Tchinese seanTalkedToRocco1219S_49478691:
 
     # arthur "What do you think Sean?"
     arthur "你覺得呢，Sean？"
 
 # game/sean12192024.rpy:6686
-translate chinese seanTalkedToRocco1219S_d2da3454:
+translate Tchinese seanTalkedToRocco1219S_d2da3454:
 
     # cody "I told you we shouldn't talk about this."
     cody "我都說了，就不該談這事。"
 
 # game/sean12192024.rpy:6689
-translate chinese seanTalkedToRocco1219S_b4a57c72:
+translate Tchinese seanTalkedToRocco1219S_b4a57c72:
 
     # "A low growl forms in the lion's maw."
     "獅子發出低吼聲。"
 
 # game/sean12192024.rpy:6692
-translate chinese seanTalkedToRocco1219S_dc8ad0b5:
+translate Tchinese seanTalkedToRocco1219S_dc8ad0b5:
 
     # arthur "Maybe we need to!"
     arthur "只怕我們就是需要談！"
 
 # game/sean12192024.rpy:6695
-translate chinese seanTalkedToRocco1219S_d728a528:
+translate Tchinese seanTalkedToRocco1219S_d728a528:
 
     # sean "Arthur..."
     sean "Arthur……"
 
 # game/sean12192024.rpy:6699
-translate chinese seanTalkedToRocco1219S_e0b9ae5b:
+translate Tchinese seanTalkedToRocco1219S_e0b9ae5b:
 
     # arthur sideSeanNeutral "No Sean! I mean the whole reason Casey-"
     arthur sideSeanNeutral "不是啊，Sean！Casey那時候就是因為——"
 
 # game/sean12192024.rpy:6701
-translate chinese seanTalkedToRocco1219S_8993475d:
+translate Tchinese seanTalkedToRocco1219S_8993475d:
 
     # arthur "Look... the last time this all happened we had no idea how bad it was."
     arthur "聽著……上次發生這種事時，我們根本不知道有多嚴重。"
 
 # game/sean12192024.rpy:6704
-translate chinese seanTalkedToRocco1219S_73bb2292:
+translate Tchinese seanTalkedToRocco1219S_73bb2292:
 
     # "I feel my mind shut down."
     "我感覺腦袋當機了。"
 
 # game/sean12192024.rpy:6705
-translate chinese seanTalkedToRocco1219S_e239512c:
+translate Tchinese seanTalkedToRocco1219S_e239512c:
 
     # "Maybe Arthur is right."
     "也許Arthur是對的。"
 
 # game/sean12192024.rpy:6706
-translate chinese seanTalkedToRocco1219S_4a5be6fa:
+translate Tchinese seanTalkedToRocco1219S_4a5be6fa:
 
     # "I left Casey alone and he ended up dead."
     "我讓Casey獨處，他最後死了。"
 
 # game/sean12192024.rpy:6707
-translate chinese seanTalkedToRocco1219S_0c90c30e:
+translate Tchinese seanTalkedToRocco1219S_0c90c30e:
 
     # "Doing nothing let him get further away. Him getting further away probably made him feel more isolated."
     "什麼都沒做，只讓他漸行漸遠。他離得越遠，恐怕越覺得孤寂。"
 
 # game/sean12192024.rpy:6708
-translate chinese seanTalkedToRocco1219S_4a8c9578:
+translate Tchinese seanTalkedToRocco1219S_4a8c9578:
 
     # "I turn to look at the raccoon who looks furious at Arthur."
     "我轉頭看向浣熊，他正怒視著Arthur。"
 
 # game/sean12192024.rpy:6709
-translate chinese seanTalkedToRocco1219S_509a1360:
+translate Tchinese seanTalkedToRocco1219S_509a1360:
 
     # "Maybe Cody is right."
     "也許Cody是對的。"
 
 # game/sean12192024.rpy:6710
-translate chinese seanTalkedToRocco1219S_bcfef0c7:
+translate Tchinese seanTalkedToRocco1219S_bcfef0c7:
 
     # "Maybe we are murderers."
     "也許我們就是殺人兇手。"
 
 # game/sean12192024.rpy:6714
-translate chinese seanTalkedToRocco1219S_f483a551:
+translate Tchinese seanTalkedToRocco1219S_f483a551:
 
     # cody "Why did you have to bring him up."
     cody "你為什麼要提他？"
 
 # game/sean12192024.rpy:6717
-translate chinese seanTalkedToRocco1219S_fa08bbc4:
+translate Tchinese seanTalkedToRocco1219S_fa08bbc4:
 
     # arthur "Because- I don't know! Fuck!"
     arthur "因為……我不知道啦！幹！"
 
 # game/sean12192024.rpy:6723
-translate chinese seanTalkedToRocco1219S_6c7a3707:
+translate Tchinese seanTalkedToRocco1219S_6c7a3707:
 
     # "The lion, too absorbed in his own mind, walks off into the woods."
     "獅子過於沉浸在思緒裡，走進樹林。"
 
 # game/sean12192024.rpy:6724
-translate chinese seanTalkedToRocco1219S_c4eb0a5c:
+translate Tchinese seanTalkedToRocco1219S_c4eb0a5c:
 
     # "His body gets smaller and smaller until, just like Casey, he's gone."
     "他的身影越來越小，直到像Casey一樣消失無蹤。"
 
 # game/sean12192024.rpy:6726
-translate chinese seanTalkedToRocco1219S_72b4e7e9:
+translate Tchinese seanTalkedToRocco1219S_72b4e7e9:
 
     # "I want to go after him. To make sure he's alright."
     "我想追上去，以確保他沒事。"
 
 # game/sean12192024.rpy:6731
-translate chinese seanTalkedToRocco1219S_416a28b5:
+translate Tchinese seanTalkedToRocco1219S_416a28b5:
 
     # nvl clear
     # nulln sideSeanConcerned "Casey used to always what to do in situations like this."
@@ -12821,289 +12821,289 @@ translate chinese seanTalkedToRocco1219S_416a28b5:
     nulln sideSeanConcerned "碰上這種情況，Casey總是有辦法應付。"
 
 # game/sean12192024.rpy:6735
-translate chinese seanTalkedToRocco1219S_819c0aae:
+translate Tchinese seanTalkedToRocco1219S_819c0aae:
 
     # nulln "he'd-{cps=2} {/cps}{nw}"
     nulln "他會——{cps=2} {/cps}{nw}"
 
 # game/sean12192024.rpy:6742
-translate chinese seanTalkedToRocco1219S_601f9f28:
+translate Tchinese seanTalkedToRocco1219S_601f9f28:
 
     # cody sideSeanNeutral "Sean... Are you alright?"
     cody sideSeanNeutral "Sean……你還好嗎？"
 
 # game/sean12192024.rpy:6745
-translate chinese seanTalkedToRocco1219S_fc3ea6f9:
+translate Tchinese seanTalkedToRocco1219S_fc3ea6f9:
 
     # "I blink and the stoic face I'm used to wearing comes back to me."
     "我眨了眨眼，回歸那張我習慣性戴上的冷淡表情。"
 
 # game/sean12192024.rpy:6749
-translate chinese seanTalkedToRocco1219S_3990901a:
+translate Tchinese seanTalkedToRocco1219S_3990901a:
 
     # cody "Sean?"
     cody "Sean？"
 
 # game/sean12192024.rpy:6752
-translate chinese seanTalkedToRocco1219S_322e76b4:
+translate Tchinese seanTalkedToRocco1219S_322e76b4:
 
     # sean "Yeah? Yeah. I'm... I'm good."
     sean "啊？嗯。我……我沒事。"
 
 # game/sean12192024.rpy:6753
-translate chinese seanTalkedToRocco1219S_82d2da6e:
+translate Tchinese seanTalkedToRocco1219S_82d2da6e:
 
     # sean sideSeanConcerned "Cody? Are we killers?"
     sean sideSeanConcerned "Cody？我們是殺人兇手嗎？"
 
 # game/sean12192024.rpy:6757
-translate chinese seanTalkedToRocco1219S_d278758b:
+translate Tchinese seanTalkedToRocco1219S_d278758b:
 
     # narrator sideSeanNeutral "He lets out a nervous sight. His breath shaky."
     narrator sideSeanNeutral "他發出緊張的嘆息，呼吸不穩。"
 
 # game/sean12192024.rpy:6760
-translate chinese seanTalkedToRocco1219S_90e4ef2b:
+translate Tchinese seanTalkedToRocco1219S_90e4ef2b:
 
     # cody "Who knows..."
     cody "誰知道呢……"
 
 # game/sean12192024.rpy:6764
-translate chinese seanTalkedToRocco1219S_92528f38:
+translate Tchinese seanTalkedToRocco1219S_92528f38:
 
     # "The raccoon runs a paw up and down his arm. We're both at a loss for words, but somehow he finds something to say."
     "浣熊一爪上下撫摸手臂。我們都不知道該說些什麼好，但他還是說了出口："
 
 # game/sean12192024.rpy:6767
-translate chinese seanTalkedToRocco1219S_51836aed:
+translate Tchinese seanTalkedToRocco1219S_51836aed:
 
     # cody "I'm sorry."
     cody "對不起。"
 
 # game/sean12192024.rpy:6770
-translate chinese seanTalkedToRocco1219S_d4b7b9e4:
+translate Tchinese seanTalkedToRocco1219S_d4b7b9e4:
 
     # "He takes a shaky breath."
     "他顫抖地吸氣。"
 
 # game/sean12192024.rpy:6773
-translate chinese seanTalkedToRocco1219S_ad1a186e:
+translate Tchinese seanTalkedToRocco1219S_ad1a186e:
 
     # cody "I'm sorry I couldn't be stronger. For both you and Arthur."
     cody "對不起，我沒能更加堅強。為了你和Arthur。"
 
 # game/sean12192024.rpy:6774
-translate chinese seanTalkedToRocco1219S_74f25b4b:
+translate Tchinese seanTalkedToRocco1219S_74f25b4b:
 
     # cody "I really thought I had it figured out."
     cody "我真的以為我能搞定。"
 
 # game/sean12192024.rpy:6777
-translate chinese seanTalkedToRocco1219S_52d4e66d:
+translate Tchinese seanTalkedToRocco1219S_52d4e66d:
 
     # "He puts an arm around my shoulder and we walk down to the river bank."
     "他一手環住我肩膀，我們走下河岸邊。"
 
 # game/sean12192024.rpy:6790
-translate chinese seanTalkedToRocco1219S_ac38eca4:
+translate Tchinese seanTalkedToRocco1219S_ac38eca4:
 
     # narrator sideSeanNeutral "The water had receded enough to form a rocky beach. We both just sit down and hold each other."
     narrator sideSeanNeutral "河水退潮，露出岩灘。我們只是坐下，擁抱彼此。"
 
 # game/sean12192024.rpy:6791
-translate chinese seanTalkedToRocco1219S_52e778ef:
+translate Tchinese seanTalkedToRocco1219S_52e778ef:
 
     # "The minutes feel like a moment as we enjoy the warmth of one another."
     "我們享受彼此的溫暖，感覺時間過得飛快。"
 
 # game/sean12192024.rpy:6792
-translate chinese seanTalkedToRocco1219S_e81aedcc:
+translate Tchinese seanTalkedToRocco1219S_e81aedcc:
 
     # "Cody's thin body was hardly comforting. His rough, wiry, fur rubbed against my soft pelt."
     "Cody瘦弱的身體很難稱得上舒適。他粗糙的硬毛摩擦著我柔軟的毛皮。"
 
 # game/sean12192024.rpy:6793
-translate chinese seanTalkedToRocco1219S_6ea02363:
+translate Tchinese seanTalkedToRocco1219S_6ea02363:
 
     # "He was still in the rough of it and here we were pressuring him to relive those recent memories. "
     "他還處於痛苦的時期，而我們卻逼他重溫最近那些記憶。"
 
 # game/sean12192024.rpy:6796
-translate chinese seanTalkedToRocco1219S_d942ebe2:
+translate Tchinese seanTalkedToRocco1219S_d942ebe2:
 
     # sean sideSeanConcerned "I'm sorry."
     sean sideSeanConcerned "對不起。"
 
 # game/sean12192024.rpy:6799
-translate chinese seanTalkedToRocco1219S_05177b82:
+translate Tchinese seanTalkedToRocco1219S_05177b82:
 
     # cody "It's ok."
     cody "沒關係。"
 
 # game/sean12192024.rpy:6802
-translate chinese seanTalkedToRocco1219S_02a79b05:
+translate Tchinese seanTalkedToRocco1219S_02a79b05:
 
     # "It's not."
     "才怪。"
 
 # game/sean12192024.rpy:6806
-translate chinese seanTalkedToRocco1219S_a4d209d5:
+translate Tchinese seanTalkedToRocco1219S_a4d209d5:
 
     # cody "It was going to come out eventually."
     cody "遲早都要說出來的。"
 
 # game/sean12192024.rpy:6810
-translate chinese seanTalkedToRocco1219S_042b54fa:
+translate Tchinese seanTalkedToRocco1219S_042b54fa:
 
     # sean "Still... we backed you into a corner."
     sean "但我們……還是把你逼到牆角了。"
 
 # game/sean12192024.rpy:6813
-translate chinese seanTalkedToRocco1219S_22931cd7:
+translate Tchinese seanTalkedToRocco1219S_22931cd7:
 
     # cody "I know you both care."
     cody "我知道你們兩個都很在乎。"
 
 # game/sean12192024.rpy:6814
-translate chinese seanTalkedToRocco1219S_a8417f1d:
+translate Tchinese seanTalkedToRocco1219S_a8417f1d:
 
     # cody "That's why I wish I was stronger. So I wouldn't need you both to pressure me."
     cody "所以我才希望自己能更加堅強。就不用你們兩個逼我說了。"
 
 # game/sean12192024.rpy:6818
-translate chinese seanTalkedToRocco1219S_a9d5e75d:
+translate Tchinese seanTalkedToRocco1219S_a9d5e75d:
 
     # narrator sideSeanNeutral "He chuckles."
     narrator sideSeanNeutral "他輕笑。"
 
 # game/sean12192024.rpy:6822
-translate chinese seanTalkedToRocco1219S_a77a9de3:
+translate Tchinese seanTalkedToRocco1219S_a77a9de3:
 
     # cody sideSeanNeutral "I didn't want Rocco to find out, but I was at the end of my line that night."
     cody sideSeanNeutral "我其實不想讓Rocco知道，但那天晚上我真的到極限了。"
 
 # game/sean12192024.rpy:6823
-translate chinese seanTalkedToRocco1219S_f3def5ee:
+translate Tchinese seanTalkedToRocco1219S_f3def5ee:
 
     # cody "I just broke, kinda like now, and let everything out."
     cody "我直接崩潰，把一切都說出來了，有點像現在這樣。"
 
 # game/sean12192024.rpy:6826
-translate chinese seanTalkedToRocco1219S_befb6bf4:
+translate Tchinese seanTalkedToRocco1219S_befb6bf4:
 
     # sean sideSeanConcerned "You shouldn't have to break."
     sean sideSeanConcerned "你不該拖到崩潰的。"
 
 # game/sean12192024.rpy:6830
-translate chinese seanTalkedToRocco1219S_d11368f4:
+translate Tchinese seanTalkedToRocco1219S_d11368f4:
 
     # cody "I know. I know... It's just- I don't know."
     cody "我知道。我知道……只是……我也說不上來。"
 
 # game/sean12192024.rpy:6831
-translate chinese seanTalkedToRocco1219S_1c17b93f:
+translate Tchinese seanTalkedToRocco1219S_1c17b93f:
 
     # cody "I feel like I need to hold myself together. For you all."
     cody "我覺得必須得撐住。為了你們大家。"
 
 # game/sean12192024.rpy:6832
-translate chinese seanTalkedToRocco1219S_6da58cd5:
+translate Tchinese seanTalkedToRocco1219S_6da58cd5:
 
     # cody "You and Arthur have targets for just being yourself. I can at least pretend I'm straight."
     cody "你和Arthur光是做自己，就成了靶子。我好歹還能假裝是直男。"
 
 # game/sean12192024.rpy:6835
-translate chinese seanTalkedToRocco1219S_31901f7d:
+translate Tchinese seanTalkedToRocco1219S_31901f7d:
 
     # sean sideSeanNeutral "I don't see how that's different from us."
     sean sideSeanNeutral "我不覺得這跟我們有什麼不同。"
 
 # game/sean12192024.rpy:6839
-translate chinese seanTalkedToRocco1219S_8214b83c:
+translate Tchinese seanTalkedToRocco1219S_8214b83c:
 
     # cody "I guess because it's partially true."
     cody "有一部分算是真的吧。"
 
 # game/sean12192024.rpy:6842
-translate chinese seanTalkedToRocco1219S_4d5235d8:
+translate Tchinese seanTalkedToRocco1219S_4d5235d8:
 
     # sean sideSeanConcerned "But you're still lying to yourself."
     sean sideSeanConcerned "但你這還是在騙自己。"
 
 # game/sean12192024.rpy:6845
-translate chinese seanTalkedToRocco1219S_4aa787e5:
+translate Tchinese seanTalkedToRocco1219S_4aa787e5:
 
     # "He lets out a sigh."
     "他嘆了口氣。"
 
 # game/sean12192024.rpy:6848
-translate chinese seanTalkedToRocco1219S_7d7ed0c4:
+translate Tchinese seanTalkedToRocco1219S_7d7ed0c4:
 
     # cody "We should get going."
     cody "我們該回去了。"
 
 # game/sean12192024.rpy:6851
-translate chinese seanTalkedToRocco1219S_43b6d3a5:
+translate Tchinese seanTalkedToRocco1219S_43b6d3a5:
 
     # "The two of us get up and head back to the picnic tables."
     "我們兩個站起來，走回野餐桌。"
 
 # game/sean12192024.rpy:6861
-translate chinese seanTalkedToRocco1219S_f7ccc022:
+translate Tchinese seanTalkedToRocco1219S_f7ccc022:
 
     # narrator sideSeanNeutral "Everything, except the breeze, is quiet."
     narrator sideSeanNeutral "除了微風，一切都很安靜。"
 
 # game/sean12192024.rpy:6862
-translate chinese seanTalkedToRocco1219S_a6970681:
+translate Tchinese seanTalkedToRocco1219S_a6970681:
 
     # "The lion is nowhere to be found. The only trace of him were prints in the snow."
     "獅子不見蹤影。獨留雪地上的腳印。"
 
 # game/sean12192024.rpy:6867
-translate chinese seanTalkedToRocco1219S_1958b374_1:
+translate Tchinese seanTalkedToRocco1219S_1958b374_1:
 
     # "A gentle fog began to creep up the shore of the river making its way towards us."
     "薄霧開始沿河岸向我們蔓延。"
 
 # game/sean12192024.rpy:6868
-translate chinese seanTalkedToRocco1219S_9d0ba9d0:
+translate Tchinese seanTalkedToRocco1219S_9d0ba9d0:
 
     # "With Arthur nowhere to be found, we began walking along the trail following his tracks."
     "Arthur不見蹤影，我們便沿著步道跟隨他的腳印走。"
 
 # game/sean12192024.rpy:6869
-translate chinese seanTalkedToRocco1219S_407a6742:
+translate Tchinese seanTalkedToRocco1219S_407a6742:
 
     # "I had three old notifications pop up."
     "有三條舊通知跳了出來。"
 
 # game/sean12192024.rpy:6870
-translate chinese seanTalkedToRocco1219S_ab29a996_1:
+translate Tchinese seanTalkedToRocco1219S_ab29a996_1:
 
     # "One from Rocco asking if Cody can drive him back from work, one from my parents asking if I'd be home for dinner at six,{nw}"
     "一條是Rocco問Cody能否開車接他下班；一條是爸媽問我6點會否回家吃飯；{nw}"
 
 # game/sean12192024.rpy:6871
-translate chinese seanTalkedToRocco1219S_662bf477_1:
+translate Tchinese seanTalkedToRocco1219S_662bf477_1:
 
     # narrator sideSeanEmbarrassed "One from Rocco asking if Cody can drive him back from work, one from my parents asking if I'd be home for dinner at six,{fast} and one more from my Tail Raisers friend that I quickly swipe away.{nw}"
     narrator sideSeanEmbarrassed "一條是Rocco問Cody能否開車接他下班；一條是爸媽問我6點會否回家吃飯；{fast}還有一條是翹尾巴上那位朋友傳的，被我快速滑掉。{nw}"
 
 # game/sean12192024.rpy:6872
-translate chinese seanTalkedToRocco1219S_41987e7e_1:
+translate Tchinese seanTalkedToRocco1219S_41987e7e_1:
 
     # narrator sideSeanNeutral "One from Rocco asking if Cody can drive him back from work, one from my parents asking if I'd be home for dinner at six, and one more from my Tail Raisers friend that I quickly swipe away.{fast}"
     narrator sideSeanNeutral "一條是Rocco問Cody能否開車接他下班；一條是爸媽問我6點會否回家吃飯；{fast}還有一條是翹尾巴上那位朋友傳的，被我快速滑掉。{fast}"
 
 # game/sean12192024.rpy:6873
-translate chinese seanTalkedToRocco1219S_3524aacb:
+translate Tchinese seanTalkedToRocco1219S_3524aacb:
 
     # "I tried calling the lion, but the signal never connected us. Guess we'll just have to do it the old fashion way."
     "我試著打給獅子，但一直沒訊號。看來只能用老方法了。"
 
 # game/sean12192024.rpy:6889
-translate chinese afterCodySplit1219S_740caeab:
+translate Tchinese afterCodySplit1219S_740caeab:
 
     # nvl clear
     # nulln sideSeanConcerned "The fog grew denser as we continued along the trail."
@@ -13111,43 +13111,43 @@ translate chinese afterCodySplit1219S_740caeab:
     nulln sideSeanConcerned "我們繼續沿著步道走，霧越來越濃了。"
 
 # game/sean12192024.rpy:6891
-translate chinese afterCodySplit1219S_cf99ac5c:
+translate Tchinese afterCodySplit1219S_cf99ac5c:
 
     # nulln "Still no sign of Arthur."
     nulln "還是沒見到Arthur人影。"
 
 # game/sean12192024.rpy:6892
-translate chinese afterCodySplit1219S_17e6c8ab:
+translate Tchinese afterCodySplit1219S_17e6c8ab:
 
     # nulln "I mean, he would definitely be at the road stop. He wasn't dumb enough to wander out into the woods."
     nulln "他肯定是在路邊休息站吧。他沒笨到會深入樹林。"
 
 # game/sean12192024.rpy:6893
-translate chinese afterCodySplit1219S_66d78411:
+translate Tchinese afterCodySplit1219S_66d78411:
 
     # nulln "Maybe he didn't see us by the shoreside and went back to the car."
     nulln "也許是因為在河邊沒看到我們，就回車上了。"
 
 # game/sean12192024.rpy:6894
-translate chinese afterCodySplit1219S_836a5758:
+translate Tchinese afterCodySplit1219S_836a5758:
 
     # nulln "Still no sign of him on the trail."
     nulln "步道上還是沒他的蹤跡。"
 
 # game/sean12192024.rpy:6896
-translate chinese afterCodySplit1219S_94965dc5:
+translate Tchinese afterCodySplit1219S_94965dc5:
 
     # nulln "No, there's no way he didn't hear Cody and I talking."
     nulln "不對，他不可能沒聽到我和Cody的談話聲。"
 
 # game/sean12192024.rpy:6897
-translate chinese afterCodySplit1219S_15a8704c:
+translate Tchinese afterCodySplit1219S_15a8704c:
 
     # nulln "I held my breath as we walked up the last bit of stairs."
     nulln "走上最後一段階梯時，我屏氣凝神。"
 
 # game/sean12192024.rpy:6909
-translate chinese afterCodySplit1219S_c3d6342d:
+translate Tchinese afterCodySplit1219S_c3d6342d:
 
     # nvl clear
     # nulln sideSeanConcerned "The rest stop now in plain view."
@@ -13155,187 +13155,187 @@ translate chinese afterCodySplit1219S_c3d6342d:
     nulln sideSeanConcerned "休息站現在清楚可見。"
 
 # game/sean12192024.rpy:6911
-translate chinese afterCodySplit1219S_a23f8fb0:
+translate Tchinese afterCodySplit1219S_a23f8fb0:
 
     # nulln "The vending machines that haven't been refilled since the early two thousands. Several stone benches are dotted with bird poop."
     nulln "自動販賣機從2000年代早期就沒補貨；幾張石椅上滿是鳥屎；"
 
 # game/sean12192024.rpy:6912
-translate chinese afterCodySplit1219S_bcda0ebb:
+translate Tchinese afterCodySplit1219S_bcda0ebb:
 
     # nulln "An empty parking lot littered with potholes. Then there was the brick building that Belle claimed was 'super haunted'."
     nulln "空蕩蕩的停車場坑坑窪窪的；最後是Belle說「超級鬧鬼」的磚屋。"
 
 # game/sean12192024.rpy:6917
-translate chinese afterCodySplit1219S_e3d71f3d:
+translate Tchinese afterCodySplit1219S_e3d71f3d:
 
     # narrator sideSeanNeutral "And no sign of the lion."
     narrator sideSeanNeutral "依然不見獅子蹤影。"
 
 # game/sean12192024.rpy:6921
-translate chinese afterCodySplit1219S_7f041910:
+translate Tchinese afterCodySplit1219S_7f041910:
 
     # "Thankfully I had a few bars, and gave him a call. It rang three times before he picked up."
     "幸好我有了幾格訊號，於是打給他。響了三聲後，他接了。"
 
 # game/sean12192024.rpy:6923
-translate chinese afterCodySplit1219S_69ccfaf2:
+translate Tchinese afterCodySplit1219S_69ccfaf2:
 
     # arthur "Yo."
     arthur "唷。"
 
 # game/sean12192024.rpy:6929
-translate chinese afterCodySplit1219S_03484853:
+translate Tchinese afterCodySplit1219S_03484853:
 
     # sean "Where are you?"
     sean "你在哪？"
 
 # game/sean12192024.rpy:6932
-translate chinese afterCodySplit1219S_c9faf094:
+translate Tchinese afterCodySplit1219S_c9faf094:
 
     # arthur sideSeanScared "Behind you."
     arthur sideSeanScared "你後面。"
 
 # game/sean12192024.rpy:6935
-translate chinese afterCodySplit1219S_82cf0eae:
+translate Tchinese afterCodySplit1219S_82cf0eae:
 
     # "I jump as I hear the lion's voice twice."
     "聽見兩道獅子的聲音，我嚇了一大跳。"
 
 # game/sean12192024.rpy:6941
-translate chinese afterCodySplit1219S_d01b4fa5:
+translate Tchinese afterCodySplit1219S_d01b4fa5:
 
     # arthur sideSeanNeutral "I had to take a shit."
     arthur sideSeanNeutral "我去拉了泡屎。"
 
 # game/sean12192024.rpy:6945
-translate chinese afterCodySplit1219S_a2d47bd8:
+translate Tchinese afterCodySplit1219S_a2d47bd8:
 
     # "I hang up the phone and turned to him."
     "我掛斷電話轉向他。"
 
 # game/sean12192024.rpy:6946
-translate chinese afterCodySplit1219S_21039ab3:
+translate Tchinese afterCodySplit1219S_21039ab3:
 
     # "He has a shit eating grin across his muzzle, and a slight giggle in his voice."
     "他嘴上掛著賤笑，語帶嘻笑聲。"
 
 # game/sean12192024.rpy:6949
-translate chinese afterCodySplit1219S_04d4a377:
+translate Tchinese afterCodySplit1219S_04d4a377:
 
     # sean "You good?"
     sean "你還好嗎？"
 
 # game/sean12192024.rpy:6952
-translate chinese afterCodySplit1219S_a30ae76a:
+translate Tchinese afterCodySplit1219S_a30ae76a:
 
     # arthur "Better now. We headin' out?"
     arthur "現在好多了。要走了嗎？"
 
 # game/sean12192024.rpy:6955
-translate chinese afterCodySplit1219S_622ca4bf:
+translate Tchinese afterCodySplit1219S_622ca4bf:
 
     # cody "That's the plan. Gotta grab Rocco then I think we're gonna get some dinner."
     cody "是這麼個打算。得先去接Rocco，然後去吃晚餐吧。"
 
 # game/sean12192024.rpy:6959
-translate chinese afterCodySplit1219S_48d812db:
+translate Tchinese afterCodySplit1219S_48d812db:
 
     # sean sideSeanEmbarrassed "Actually I promised my parents I'd have dinner with them tonight."
     sean sideSeanEmbarrassed "其實，我答應過爸媽今晚要回家吃飯了。"
 
 # game/sean12192024.rpy:6960
-translate chinese afterCodySplit1219S_50c3f090:
+translate Tchinese afterCodySplit1219S_50c3f090:
 
     # sean sideSeanConcerned "I spaced on it last night, so I wanna make it up to them."
     sean sideSeanConcerned "昨晚我給忘了，所以要補償他們。"
 
 # game/sean12192024.rpy:6963
-translate chinese afterCodySplit1219S_ce3c7f53:
+translate Tchinese afterCodySplit1219S_ce3c7f53:
 
     # arthur sideSeanNeutral "Aww, that's cute. Well, are you still good Cody?"
     arthur sideSeanNeutral "哎喲，真可愛。那Cody你還去嗎？"
 
 # game/sean12192024.rpy:6969
-translate chinese afterCodySplit1219S_1ee5ab0b:
+translate Tchinese afterCodySplit1219S_1ee5ab0b:
 
     # cody "Shouldn't you..."
     cody "你難道不該……"
 
 # game/sean12192024.rpy:6972
-translate chinese afterCodySplit1219S_9f7124cf:
+translate Tchinese afterCodySplit1219S_9f7124cf:
 
     # "He looks at Arthur hoping he'll fill in the blanks."
     "他看著Arthur，等他意會。"
 
 # game/sean12192024.rpy:6974
-translate chinese afterCodySplit1219S_6713faad:
+translate Tchinese afterCodySplit1219S_6713faad:
 
     # narrator sideSeanConcerned "The lion rolls his eyes knowing exactly what he's talking about."
     narrator sideSeanConcerned "獅子很清楚他的意思，翻了個白眼。"
 
 # game/sean12192024.rpy:6977
-translate chinese afterCodySplit1219S_219da819:
+translate Tchinese afterCodySplit1219S_219da819:
 
     # arthur "Yes, but..."
     arthur "是沒錯，但……"
 
 # game/sean12192024.rpy:6980
-translate chinese afterCodySplit1219S_c998069c:
+translate Tchinese afterCodySplit1219S_c998069c:
 
     # cody "It's been months, they probably want to see you."
     cody "都好幾個月了，他們應該也很想見你。"
 
 # game/sean12192024.rpy:6984
-translate chinese afterCodySplit1219S_83d2876d:
+translate Tchinese afterCodySplit1219S_83d2876d:
 
     # arthur "They want to see Nora."
     arthur "他們想見的是Nora。"
 
 # game/sean12192024.rpy:6989
-translate chinese afterCodySplit1219S_19bc2214:
+translate Tchinese afterCodySplit1219S_19bc2214:
 
     # cody sideSeanNeutral "Look we still have to pick up Rocco, and your stuff is still at my place. How about we grab him and I can drop Sean off."
     cody sideSeanNeutral "這樣吧，我們還得去接Rocco，你的東西也還在我那。我們就先去接他，然後順路送Sean回家再說吧？"
 
 # game/sean12192024.rpy:6990
-translate chinese afterCodySplit1219S_07be480e:
+translate Tchinese afterCodySplit1219S_07be480e:
 
     # cody "If you decide you want to go back I'll take you before we get back to my place"
     cody "如果你決定要回去，我在回家前可以載你過去。"
 
 # game/sean12192024.rpy:6994
-translate chinese afterCodySplit1219S_72c72c94:
+translate Tchinese afterCodySplit1219S_72c72c94:
 
     # "Arthur nods and his ears droop. He clutches his mane."
     "Arthur點點頭，耳朵下垂。他抓緊自己的鬃毛。"
 
 # game/sean12192024.rpy:6995
-translate chinese afterCodySplit1219S_719872ae:
+translate Tchinese afterCodySplit1219S_719872ae:
 
     # "I know he loves his parents even if some of the things they say make him uncomfortable."
     "我知道他愛他爸媽，即便他們會說些讓他不太舒服的話。"
 
 # game/sean12192024.rpy:6996
-translate chinese afterCodySplit1219S_764e05ab:
+translate Tchinese afterCodySplit1219S_764e05ab:
 
     # "I got lucky with mine, but all of us know what happens if you aren't."
     "我家爸媽算我撞了大運，但如果沒這運氣會有什麼後果，我們都心知肚明。"
 
 # game/sean12192024.rpy:6997
-translate chinese afterCodySplit1219S_a0d819d5:
+translate Tchinese afterCodySplit1219S_a0d819d5:
 
     # "We just have a few more years."
     "我們只剩幾年要撐了。"
 
 # game/sean12192024.rpy:6998
-translate chinese afterCodySplit1219S_5efb2f04:
+translate Tchinese afterCodySplit1219S_5efb2f04:
 
     # "Then hopefully we all can get jobs somewhere else and move out. It's not like there was anything else for us anyways."
     "希望我們都能在別處找到工作搬出去。反正留在這也沒什麼意義了。"
 
 # game/sean12192024.rpy:7012
-translate chinese afterCodySplit1219S_bd4d48c7:
+translate Tchinese afterCodySplit1219S_bd4d48c7:
 
     # nvl clear
     # nulln sideSeanNeutral "The walk back is quiet. There's still a little tension between Arthur and Cody, but it's not that bad."
@@ -13343,25 +13343,25 @@ translate chinese afterCodySplit1219S_bd4d48c7:
     nulln sideSeanNeutral "回程很安靜。Arthur和Cody之間氣氛還有點緊張，但不算太糟。"
 
 # game/sean12192024.rpy:7014
-translate chinese afterCodySplit1219S_f6f9658f:
+translate Tchinese afterCodySplit1219S_f6f9658f:
 
     # nulln "I think going home is occupying Arthur's mind more than Cody's situation."
     nulln "在Arthur腦中，回家比起Cody的事恐怕更加重大。"
 
 # game/sean12192024.rpy:7015
-translate chinese afterCodySplit1219S_2db68807:
+translate Tchinese afterCodySplit1219S_2db68807:
 
     # nulln "Still the ominous fog, and rustling trees aren't helping our situation."
     nulln "然而，不祥的霧和沙沙作響的樹木，無益於舒緩狀況。"
 
 # game/sean12192024.rpy:7020
-translate chinese afterCodySplit1219S_8ccecb10:
+translate Tchinese afterCodySplit1219S_8ccecb10:
 
     # nulln "We get in the car and it feels like it's rising with us. Stalking our every movement."
     nulln "我們上了車，卻感覺霧在跟著我們上升。像在跟蹤我們的行動。"
 
 # game/sean12192024.rpy:7033
-translate chinese afterCodySplit1219S_29aa5e6b:
+translate Tchinese afterCodySplit1219S_29aa5e6b:
 
     # nvl clear
     # nulln sideSeanNeutral "It's probably just paranoia at this point, we've had a stressful day after all, but I just can't shake the feeling. "
@@ -13369,247 +13369,247 @@ translate chinese afterCodySplit1219S_29aa5e6b:
     nulln sideSeanNeutral "到這份上，估計只是被害妄想了，畢竟今天事情實在太多，但我就是甩不掉這感覺。"
 
 # game/sean12192024.rpy:7035
-translate chinese afterCodySplit1219S_0d2bf315:
+translate Tchinese afterCodySplit1219S_0d2bf315:
 
     # nulln "Thankfully we never crossed the hole so the hotel isn't too far away."
     nulln "幸好我們沒越過天坑，旅館不算太遠。"
 
 # game/sean12192024.rpy:7048
-translate chinese afterCodySplit1219S_6eeaf513:
+translate Tchinese afterCodySplit1219S_6eeaf513:
 
     # nulln sideSeanNeutral "The cars in the lot haven't moved since we got here. I can only wonder what Rocco will say when he gets in."
     nulln sideSeanNeutral "停車場的車自從我們回到鎮上就沒動過。真不知道Rocco上車時會說什麼。"
 
 # game/sean12192024.rpy:7049
-translate chinese afterCodySplit1219S_785357e7:
+translate Tchinese afterCodySplit1219S_785357e7:
 
     # nulln "I send him a text letting him know we're outside. It gets marked as read, but he doesn't respond."
     nulln "我傳訊息告訴他我們在外面了。他已讀不回。"
 
 # game/sean12192024.rpy:7050
-translate chinese afterCodySplit1219S_2d123623:
+translate Tchinese afterCodySplit1219S_2d123623:
 
     # nulln "I fiddle with the radio as the silence in the car becomes more unbearable."
     nulln "車內沉寂愈發難耐，於是我開始把弄收音機。"
 
 # game/sean12192024.rpy:7051
-translate chinese afterCodySplit1219S_b49f75d1:
+translate Tchinese afterCodySplit1219S_b49f75d1:
 
     # nulln "We don't grab any news stations and the local radio is just silent."
     nulln "沒捕捉到任何新聞台，連本地電台都悄無聲息。"
 
 # game/sean12192024.rpy:7057
-translate chinese afterCodySplit1219S_1b913a75:
+translate Tchinese afterCodySplit1219S_1b913a75:
 
     # sean sideSeanSmile "Hey Arthur, you wanna put something on?"
     sean sideSeanSmile "欸，Arthur，你要放點音樂嗎？"
 
 # game/sean12192024.rpy:7060
-translate chinese afterCodySplit1219S_250dc6e0:
+translate Tchinese afterCodySplit1219S_250dc6e0:
 
     # "I dangle the aux cord back at him, but he doesn't move."
     "我晃著播放器的線給他看，但他無動於衷。"
 
 # game/sean12192024.rpy:7061
-translate chinese afterCodySplit1219S_6f144218:
+translate Tchinese afterCodySplit1219S_6f144218:
 
     # narrator sideSeanNeutral "He's just staring out the window."
     narrator sideSeanNeutral "只是望著窗外。"
 
 # game/sean12192024.rpy:7064
-translate chinese afterCodySplit1219S_3c989350:
+translate Tchinese afterCodySplit1219S_3c989350:
 
     # sean "Arthur?"
     sean "Arthur？"
 
 # game/sean12192024.rpy:7067
-translate chinese afterCodySplit1219S_86a013d2:
+translate Tchinese afterCodySplit1219S_86a013d2:
 
     # arthur "Nah I'm good..."
     arthur "不用了……"
 
 # game/sean12192024.rpy:7070
-translate chinese afterCodySplit1219S_3e716d0d:
+translate Tchinese afterCodySplit1219S_3e716d0d:
 
     # "Going back must really be getting to him."
     "回家這件事一定很折磨。"
 
 # game/sean12192024.rpy:7071
-translate chinese afterCodySplit1219S_1c6626e1:
+translate Tchinese afterCodySplit1219S_1c6626e1:
 
     # "I gesture the cable over to Cody, but he declines as well"
     "我把線遞向Cody，但他也拒絕了。"
 
 # game/sean12192024.rpy:7072
-translate chinese afterCodySplit1219S_a4761404:
+translate Tchinese afterCodySplit1219S_a4761404:
 
     # "We all just sit in deafening silence while we wait for Rocco."
     "我們就這樣坐在震耳欲聾的沉默裡等待Rocco。"
 
 # game/sean12192024.rpy:7078
-translate chinese afterCodySplit1219S_e4c2b45b:
+translate Tchinese afterCodySplit1219S_e4c2b45b:
 
     # "Thankfully the dog doesn't take too long. His tail was wagging at full speed as he jogs over to us."
     "幸好狗沒讓我們等太久。他小跑步過來，尾巴搖得飛快。"
 
 # game/sean12192024.rpy:7080
-translate chinese afterCodySplit1219S_f0329d29:
+translate Tchinese afterCodySplit1219S_f0329d29:
 
     # "However, when he gets in it goes stiff and still."
     "然而，上車後尾巴當即僵住不動。"
 
 # game/sean12192024.rpy:7081
-translate chinese afterCodySplit1219S_05bd7b11:
+translate Tchinese afterCodySplit1219S_05bd7b11:
 
     # "A quiet whimper escapes his mouth as he shut his door. His eyes darted between the three of us."
     "他關門時發出微弱的嗚咽聲。眼睛在我們三個之間來回打轉。"
 
 # game/sean12192024.rpy:7085
-translate chinese afterCodySplit1219S_2afe83a7:
+translate Tchinese afterCodySplit1219S_2afe83a7:
 
     # rocco "What happened while I was gone?"
     rocco "我不在的時候怎麼了？"
 
 # game/sean12192024.rpy:7088
-translate chinese afterCodySplit1219S_bc7231ab:
+translate Tchinese afterCodySplit1219S_bc7231ab:
 
     # cody "Nothing, just a little tense after today."
     cody "沒什麼，只是今天有點累人。"
 
 # game/sean12192024.rpy:7093
-translate chinese afterCodySplit1219S_47471bc0:
+translate Tchinese afterCodySplit1219S_47471bc0:
 
     # "Arthur mutters something but I can't hear it."
     "Arthur嘟嚷了什麼，但我聽不清。"
 
 # game/sean12192024.rpy:7098
-translate chinese afterCodySplit1219S_0fd2cacb:
+translate Tchinese afterCodySplit1219S_0fd2cacb:
 
     # cody "I'm gonna drop Sean at his place if that's cool."
     cody "沒問題的話，我就先送Sean回家。"
 
 # game/sean12192024.rpy:7101
-translate chinese afterCodySplit1219S_83da82a6:
+translate Tchinese afterCodySplit1219S_83da82a6:
 
     # rocco "Fine by me."
     rocco "我沒意見。"
 
 # game/sean12192024.rpy:7116
-translate chinese afterCodySplit1219S_48b79c95:
+translate Tchinese afterCodySplit1219S_48b79c95:
 
     # narrator sideSeanNeutral "He pulls out and starts making his way to my place."
     narrator sideSeanNeutral "他開始往我家方向行駛。"
 
 # game/sean12192024.rpy:7117
-translate chinese afterCodySplit1219S_40da626f:
+translate Tchinese afterCodySplit1219S_40da626f:
 
     # "Cody takes the drive slow due to the fog. Not that anyone would be out on the road, but he's not taking any chances."
     "由於霧大，Cody開得很慢。雖然路上根本沒人，但他不想冒險。"
 
 # game/sean12192024.rpy:7120
-translate chinese afterCodySplit1219S_dc42267f:
+translate Tchinese afterCodySplit1219S_dc42267f:
 
     # rocco "So...{nw}"
     rocco "所以……{nw}"
 
 # game/sean12192024.rpy:7122
-translate chinese afterCodySplit1219S_cb3ece79:
+translate Tchinese afterCodySplit1219S_cb3ece79:
 
     # rocco "So...{fast} how was walking around or whatever you did?"
     rocco "所以……{fast}你們散步還是做其他事的感想如何？"
 
 # game/sean12192024.rpy:7125
-translate chinese afterCodySplit1219S_a4abdd53:
+translate Tchinese afterCodySplit1219S_a4abdd53:
 
     # sean sideSeanNeutral "It was fine. Nice to see the river before the fog rolled in."
     sean sideSeanNeutral "還行。起霧之前能觀賞河景還挺不錯的。"
 
 # game/sean12192024.rpy:7128
-translate chinese afterCodySplit1219S_d3cab65e:
+translate Tchinese afterCodySplit1219S_d3cab65e:
 
     # rocco "Cool.{nw}"
     rocco "酷。{nw}"
 
 # game/sean12192024.rpy:7130
-translate chinese afterCodySplit1219S_c871d41e:
+translate Tchinese afterCodySplit1219S_c871d41e:
 
     # rocco sideSeanNeutral "Cool.{fast} Everything good Arthur?"
     rocco sideSeanNeutral "酷。{fast}你還好嗎，Arthur？"
 
 # game/sean12192024.rpy:7133
-translate chinese afterCodySplit1219S_b87d96c8:
+translate Tchinese afterCodySplit1219S_b87d96c8:
 
     # "The lion doesn't respond."
     "獅子沒回應。"
 
 # game/sean12192024.rpy:7137
-translate chinese afterCodySplit1219S_c24030ec:
+translate Tchinese afterCodySplit1219S_c24030ec:
 
     # rocco "Arthur?"
     rocco "Arthur？"
 
 # game/sean12192024.rpy:7140
-translate chinese afterCodySplit1219S_daf8898c:
+translate Tchinese afterCodySplit1219S_daf8898c:
 
     # arthur "Yeah."
     arthur "嗯。"
 
 # game/sean12192024.rpy:7144
-translate chinese afterCodySplit1219S_bf72db5f:
+translate Tchinese afterCodySplit1219S_bf72db5f:
 
     # rocco "I just saw you moping out the window, and-"
     rocco "我看你無精打采地望著窗外，而且——"
 
 # game/sean12192024.rpy:7148
-translate chinese afterCodySplit1219S_034727a8:
+translate Tchinese afterCodySplit1219S_034727a8:
 
     # arthur "I'm fine."
     arthur "我沒事。"
 
 # game/sean12192024.rpy:7153
-translate chinese afterCodySplit1219S_35755f90:
+translate Tchinese afterCodySplit1219S_35755f90:
 
     # rocco "I just saw you moping out the window, and-"
     rocco "我看你無精打采地望著窗外，而且——"
 
 # game/sean12192024.rpy:7155
-translate chinese afterCodySplit1219S_5e265f6a:
+translate Tchinese afterCodySplit1219S_5e265f6a:
 
     # "A loud sigh escapes his muzzle and he turns his head away from the lion."
     "他大嘆一口氣，把頭轉離獅子。"
 
 # game/sean12192024.rpy:7156
-translate chinese afterCodySplit1219S_ce06e776:
+translate Tchinese afterCodySplit1219S_ce06e776:
 
     # "Rocco looks at me and whispers."
     "Rocco看像我，低聲說道："
 
 # game/sean12192024.rpy:7160
-translate chinese afterCodySplit1219S_031ac5c0:
+translate Tchinese afterCodySplit1219S_031ac5c0:
 
     # rocco "The fuck happened to them?"
     rocco "他們到底怎麼回事？"
 
 # game/sean12192024.rpy:7163
-translate chinese afterCodySplit1219S_ae763888:
+translate Tchinese afterCodySplit1219S_ae763888:
 
     # sean "Arthur thinks Cody isn't telling us the full truth about his... situation."
     sean "Arthur認為Cody沒有從實招來他的……情況。"
 
 # game/sean12192024.rpy:7167
-translate chinese afterCodySplit1219S_d563e68d:
+translate Tchinese afterCodySplit1219S_d563e68d:
 
     # rocco "Makes sense, I feel like he left out some details with me too."
     rocco "能理解，我感覺他告訴我的時候，也遺漏了點細節。"
 
 # game/sean12192024.rpy:7170
-translate chinese afterCodySplit1219S_9b82d484:
+translate Tchinese afterCodySplit1219S_9b82d484:
 
     # narrator sideSeanConcerned "I look at Arthur through the mirror."
     narrator sideSeanConcerned "我從後視鏡中看著Arthur。"
 
 # game/sean12192024.rpy:7175
-translate chinese afterCodySplit1219S_7fca2862:
+translate Tchinese afterCodySplit1219S_7fca2862:
 
     # nvl clear
     # nulln "I don't remember us ever fighting like this."
@@ -13617,67 +13617,67 @@ translate chinese afterCodySplit1219S_7fca2862:
     nulln "我記得以前從沒吵成這樣過。"
 
 # game/sean12192024.rpy:7177
-translate chinese afterCodySplit1219S_e3cccb48:
+translate Tchinese afterCodySplit1219S_e3cccb48:
 
     # nulln "Though I am thankful that it doesn't seem to be a friendship ruining fight."
     nulln "所幸這不是會摧毀友誼的那種吵架。"
 
 # game/sean12192024.rpy:7178
-translate chinese afterCodySplit1219S_c9af5d96:
+translate Tchinese afterCodySplit1219S_c9af5d96:
 
     # nulln "Maybe after some rest the two of them can sort things out."
     nulln "或許休息一下，他們兩個就能言歸於好。"
 
 # game/sean12192024.rpy:7179
-translate chinese afterCodySplit1219S_669fa080:
+translate Tchinese afterCodySplit1219S_669fa080:
 
     # nulln "Tomorrow is a new day, and I can only hope that things will get better."
     nulln "明天是新的一天，但願事情會好轉。"
 
 # game/sean12192024.rpy:7185
-translate chinese afterCodySplit1219S_fec2b2a3:
+translate Tchinese afterCodySplit1219S_fec2b2a3:
 
     # rocco "Sean?"
     rocco "Sean？"
 
 # game/sean12192024.rpy:7190
-translate chinese afterCodySplit1219S_cc65c929:
+translate Tchinese afterCodySplit1219S_cc65c929:
 
     # nulln sideSeanNeutral "I mean if we survived going off to college and are still friends this'll probably be a minor bump."
     nulln sideSeanNeutral "要我說，我們都上了大學，還能維持這份友誼，這也就是道小崁罷了。"
 
 # game/sean12192024.rpy:7191
-translate chinese afterCodySplit1219S_080c6aae:
+translate Tchinese afterCodySplit1219S_080c6aae:
 
     # nulln "I just wish they weren't so stubborn."
     nulln "只希望他們不要這麼固執。"
 
 # game/sean12192024.rpy:7192
-translate chinese afterCodySplit1219S_9ce6955f:
+translate Tchinese afterCodySplit1219S_9ce6955f:
 
     # nulln "Usually one of them would break, apologize, and everything would be fine. We would move on."
     nulln "通常會有其中一人先態度軟化並道歉，就萬事大吉了。這事就算過去了。"
 
 # game/sean12192024.rpy:7198
-translate chinese afterCodySplit1219S_b00327f7:
+translate Tchinese afterCodySplit1219S_b00327f7:
 
     # rocco "Hey Sean?"
     rocco "欸，Sean？"
 
 # game/sean12192024.rpy:7203
-translate chinese afterCodySplit1219S_298cc931:
+translate Tchinese afterCodySplit1219S_298cc931:
 
     # nulln sideSeanConcerned "Though, I have a gut feeling that we won't get that opportunity."
     nulln sideSeanConcerned "然而我有種直覺，我們怕是沒那個機會了。"
 
 # game/sean12192024.rpy:7209
-translate chinese afterCodySplit1219S_90db36df:
+translate Tchinese afterCodySplit1219S_90db36df:
 
     # rocco "Sean!"
     rocco "Sean！"
 
 # game/sean12192024.rpy:7214
-translate chinese afterCodySplit1219S_50723cb3:
+translate Tchinese afterCodySplit1219S_50723cb3:
 
     # nvl clear
     # nulln "While Casey and I were dating I was always terrified dad would come home early."
@@ -13685,127 +13685,127 @@ translate chinese afterCodySplit1219S_50723cb3:
     nulln "Casey和我交往時，我一直都很怕爸會提早回家。"
 
 # game/sean12192024.rpy:7216
-translate chinese afterCodySplit1219S_aaa74ad3:
+translate Tchinese afterCodySplit1219S_aaa74ad3:
 
     # nulln "We never did anything that would raise suspicion, at least I don't think we did, but I really didn't want to have that kind of talk."
     nulln "我們從沒做什麼會招人懷疑的事，至少我不覺得有，但我真的不想跟他們談論。"
 
 # game/sean12192024.rpy:7217
-translate chinese afterCodySplit1219S_aba8c48f:
+translate Tchinese afterCodySplit1219S_aba8c48f:
 
     # nulln "If he didn't say we should both come out to our parents, then they would probably still think I'm straight."
     nulln "要不是他提議我們向爸媽出櫃，他們恐怕到現在都還會以為我是直的。"
 
 # game/sean12192024.rpy:7218
-translate chinese afterCodySplit1219S_ede8e70e:
+translate Tchinese afterCodySplit1219S_ede8e70e:
 
     # nulln sideSeanNeutral "They'd probably ask when I was getting a girlfriend."
     nulln sideSeanNeutral "大概會問我什麼時候要交女朋友。"
 
 # game/sean12192024.rpy:7220
-translate chinese afterCodySplit1219S_7d21a227:
+translate Tchinese afterCodySplit1219S_7d21a227:
 
     # nulln sideSeanConcerned "Sometimes I wish I would have joined him. So he wouldn't be lonely up there."
     nulln sideSeanConcerned "有時候，我很希望自己跟他一起走了。這樣他在天上就不會孤單寂寞。"
 
 # game/sean12192024.rpy:7221
-translate chinese afterCodySplit1219S_efb9f06d:
+translate Tchinese afterCodySplit1219S_efb9f06d:
 
     # nulln "No... it was so I wouldn't be lonely down here."
     nulln "不對……是為了讓我不會在地下孤身一人。"
 
 # game/sean12192024.rpy:7227
-translate chinese afterCodySplit1219S_3f018afb:
+translate Tchinese afterCodySplit1219S_3f018afb:
 
     # rocco "Uuugh..."
     rocco "呃呃呃……"
 
 # game/sean12192024.rpy:7231
-translate chinese afterCodySplit1219S_82317be5:
+translate Tchinese afterCodySplit1219S_82317be5:
 
     # narrator sideSeanScared "I feel two massive paws grip my shoulder."
     narrator sideSeanScared "我感到兩隻大爪抓住我肩膀。"
 
 # game/sean12192024.rpy:7235
-translate chinese afterCodySplit1219S_766fb451:
+translate Tchinese afterCodySplit1219S_766fb451:
 
     # rocco "Hey space cadet, wake the fuck up!"
     rocco "喂，太空隊長，你他媽醒醒！"
 
 # game/sean12192024.rpy:7238
-translate chinese afterCodySplit1219S_48aaa696:
+translate Tchinese afterCodySplit1219S_48aaa696:
 
     # rocco "Hey gay boy, wake the fuck up!"
     rocco "喂，小gay炮，你他媽醒醒！"
 
 # game/sean12192024.rpy:7243
-translate chinese afterCodySplit1219S_fdc92e8b:
+translate Tchinese afterCodySplit1219S_fdc92e8b:
 
     # "I feel the truck slam on its brakes. I'm jostled out of my reminiscing."
     "卡車急煞。我從回憶中彈飛。"
 
 # game/sean12192024.rpy:7248
-translate chinese afterCodySplit1219S_68cb2823:
+translate Tchinese afterCodySplit1219S_68cb2823:
 
     # cody sideSeanAngry "Rocco!"
     cody sideSeanAngry "Rocco！"
 
 # game/sean12192024.rpy:7252
-translate chinese afterCodySplit1219S_3c935c70:
+translate Tchinese afterCodySplit1219S_3c935c70:
 
     # sean "The fuck dude!"
     sean "你他媽幹嘛！？"
 
 # game/sean12192024.rpy:7255
-translate chinese afterCodySplit1219S_1d6d1dcf:
+translate Tchinese afterCodySplit1219S_1d6d1dcf:
 
     # rocco "Sorry... You were zonked out..."
     rocco "抱歉……你整個人放空了……"
 
 # game/sean12192024.rpy:7259
-translate chinese afterCodySplit1219S_7f4d93c4:
+translate Tchinese afterCodySplit1219S_7f4d93c4:
 
     # narrator sideSeanNeutral "We all take a moment to look at the dog before Cody begins driving again."
     narrator sideSeanNeutral "我們盯著狗看了一會兒，Cody才繼續開車。"
 
 # game/sean12192024.rpy:7264
-translate chinese afterCodySplit1219S_37fa70ce:
+translate Tchinese afterCodySplit1219S_37fa70ce:
 
     # rocco "I just wanted to know if you had plans for tomorrow."
     rocco "我只是想知道你明天有沒有什麼打算。"
 
 # game/sean12192024.rpy:7267
-translate chinese afterCodySplit1219S_705e2631:
+translate Tchinese afterCodySplit1219S_705e2631:
 
     # "The dog's voice is defeated. Clearly that was funnier in his head than it was in real life."
     "狗的聲音很洩氣。顯然他腦中的發展比現實中有趣多了。"
 
 # game/sean12192024.rpy:7270
-translate chinese afterCodySplit1219S_6d96b40b:
+translate Tchinese afterCodySplit1219S_6d96b40b:
 
     # sean "No I don't."
     sean "沒啊。"
 
 # game/sean12192024.rpy:7273
-translate chinese afterCodySplit1219S_8b7a9c2f:
+translate Tchinese afterCodySplit1219S_8b7a9c2f:
 
     # "My tone is harsher than I wanted it to be. Rocco lets out a soft whimper."
     "我的語氣比預想中還兇。Rocco輕聲嗚咽。"
 
 # game/sean12192024.rpy:7277
-translate chinese afterCodySplit1219S_ae211b82:
+translate Tchinese afterCodySplit1219S_ae211b82:
 
     # rocco "We could do a Salem trip. If you wanna."
     rocco "那我們可以去賽勒姆一趟。你想的話。"
 
 # game/sean12192024.rpy:7280
-translate chinese afterCodySplit1219S_08a06af0:
+translate Tchinese afterCodySplit1219S_08a06af0:
 
     # sean "Sure, whatever."
     sean "好啊，隨便。"
 
 # game/sean12192024.rpy:7286
-translate chinese afterCodySplit1219S_747f1400:
+translate Tchinese afterCodySplit1219S_747f1400:
 
     # nvl clear
     # nulln "Nothing happened for the rest of the drive."
@@ -13813,391 +13813,391 @@ translate chinese afterCodySplit1219S_747f1400:
     nulln "剩於的路程無事發生。"
 
 # game/sean12192024.rpy:7288
-translate chinese afterCodySplit1219S_a919fe77:
+translate Tchinese afterCodySplit1219S_a919fe77:
 
     # nulln "I was able to use that time to recenter myself, and prepare for dinner. Get all of the standard answers logged in my head."
     nulln "我藉這時間重新振作起來，準備面對晚餐。腦中跑過標準答案。"
 
 # game/sean12192024.rpy:7289
-translate chinese afterCodySplit1219S_cd4e9977:
+translate Tchinese afterCodySplit1219S_cd4e9977:
 
     # nulln "'Classes were hard, but not impossible.', 'I was getting my GPA back up after the tragedy that was last year.', and 'I'm not seeing any guys, just focusing on school.'"
     nulln "「課業是很難，但我還是撐過去了。」、「去年是很慘，但我有在把GPA拉回來。」，還有「我沒交男朋友，想專注在課業上。」"
 
 # game/sean12192024.rpy:7290
-translate chinese afterCodySplit1219S_b8141f64:
+translate Tchinese afterCodySplit1219S_b8141f64:
 
     # nulln sideSeanEmbarrassed "I hope they don't ask about the internship."
     nulln sideSeanEmbarrassed "希望他們別問實習的事。"
 
 # game/sean12192024.rpy:7303
-translate chinese afterCodySplit1219S_37c1f964:
+translate Tchinese afterCodySplit1219S_37c1f964:
 
     # narrator sideSeanSmile "Dinner itself was about what I expected."
     narrator sideSeanSmile "晚餐本身跟我預料中差不多。"
 
 # game/sean12192024.rpy:7304
-translate chinese afterCodySplit1219S_7831eea5:
+translate Tchinese afterCodySplit1219S_7831eea5:
 
     # "We went through the motions of catching each other up."
     "我們照慣例交流彼此近況。"
 
 # game/sean12192024.rpy:7305
-translate chinese afterCodySplit1219S_b50b9151:
+translate Tchinese afterCodySplit1219S_b50b9151:
 
     # "Dad had gotten a bonus at work letting him buy that new T.V. Mom was getting ready to quit her job at the big box store down in Salem."
     "爸工作拿了獎金，買了新電視。媽準備辭掉在賽勒姆大賣場的工作。"
 
 # game/sean12192024.rpy:7306
-translate chinese afterCodySplit1219S_0adf9471:
+translate Tchinese afterCodySplit1219S_0adf9471:
 
     # "Mabelle was able to rehire her due to all the traction the shop had been getting since the hole opened up."
     "Mabelle在天坑開了之後，店裡生意變好，就重新雇用了她。"
 
 # game/sean12192024.rpy:7307
-translate chinese afterCodySplit1219S_952efaa7:
+translate Tchinese afterCodySplit1219S_952efaa7:
 
     # "I know she really liked working at the bakery, and we were all sad when Mabelle had to lay her off just to keep the shop open. "
     "我知道她真的很愛麵包店的工作，Mabelle為了讓撐住店面而不得不裁掉她的時候，我們大家都很難過。"
 
 # game/sean12192024.rpy:7309
-translate chinese afterCodySplit1219S_c70f79f9:
+translate Tchinese afterCodySplit1219S_c70f79f9:
 
     # narrator sideSeanEmbarrassed "After dinner I took care of the dishes as an apology for last night."
     narrator sideSeanEmbarrassed "晚餐後我負責洗碗，作為昨晚的賠禮。"
 
 # game/sean12192024.rpy:7310
-translate chinese afterCodySplit1219S_ac7afe79:
+translate Tchinese afterCodySplit1219S_ac7afe79:
 
     # narrator sideSeanSmile "I did like eating with them, even if I had to be a little guarded about my personal life."
     narrator sideSeanSmile "我確實很喜歡跟他們一起吃飯，哪怕要對私人生活保持戒備。"
 
 # game/sean12192024.rpy:7311
-translate chinese afterCodySplit1219S_0e6de08d:
+translate Tchinese afterCodySplit1219S_0e6de08d:
 
     # "I wouldn't want them to worry about me."
     "我不想讓他們擔心我。"
 
 # game/sean12192024.rpy:7312
-translate chinese afterCodySplit1219S_58f8cb8e:
+translate Tchinese afterCodySplit1219S_58f8cb8e:
 
     # "After the dishes were done I joined them in the living room. I stayed and chatted with them for a bit."
     "洗完碗後，我陪他們待在客廳聊了一會兒。"
 
 # game/sean12192024.rpy:7314
-translate chinese afterCodySplit1219S_6a91c960:
+translate Tchinese afterCodySplit1219S_6a91c960:
 
     # narrator sideSeanNeutral "Dad had that one overtly republican news channel in the background."
     narrator sideSeanNeutral "爸開著那偏向共和黨的新聞台。"
 
 # game/sean12192024.rpy:7315
-translate chinese afterCodySplit1219S_fabf2b63:
+translate Tchinese afterCodySplit1219S_fabf2b63:
 
     # "He liked watching it for the 'stock analysis' though most of the segments that played were just straight up bigotry."
     "他說喜歡看他們的「股市分析」，但大多數片段根本就是赤裸裸的偏見。"
 
 # game/sean12192024.rpy:7316
-translate chinese afterCodySplit1219S_c0bfd872:
+translate Tchinese afterCodySplit1219S_c0bfd872:
 
     # "I guess they're not even claiming to be neutral anymore."
     "看來他們都懶得裝中立了。"
 
 # game/sean12192024.rpy:7317
-translate chinese afterCodySplit1219S_be301ab1:
+translate Tchinese afterCodySplit1219S_be301ab1:
 
     # narrator sideSeanEmbarrassed "Eventually it made me way too uncomfortable and I just excused myself."
     narrator sideSeanEmbarrassed "最後實在太令我爽，我就先離開了。"
 
 # game/sean12192024.rpy:7319
-translate chinese afterCodySplit1219S_50e66b8d:
+translate Tchinese afterCodySplit1219S_50e66b8d:
 
     # "I tried to play it off like I was just tired from today, it wasn't entirely a lie, and went back to my room."
     "我假裝今天太累了，就回到自己房間，那也不完全是謊言。"
 
 # game/sean12192024.rpy:7326
-translate chinese afterCodySplit1219S_c1c290fa:
+translate Tchinese afterCodySplit1219S_c1c290fa:
 
     # narrator sideSeanNeutral "I flopped on my bed mindlessly scrolling through my socials."
     narrator sideSeanNeutral "我癱在床上，無意識地滑著社群軟體。"
 
 # game/sean12192024.rpy:7329
-translate chinese afterCodySplit1219S_72c325f6:
+translate Tchinese afterCodySplit1219S_72c325f6:
 
     # narrator sideSeanConcerned "Oh shit there was that Tail Raisers guy."
     narrator sideSeanConcerned "喔靠，還有那個翹尾巴的傢伙。"
 
 # game/sean12192024.rpy:7362
-translate chinese afterCodySplit1219S_76b2fe88:
+translate Tchinese afterCodySplit1219S_76b2fe88:
 
     # nvl clear
     nvl clear
 
 # game/sean12192024.rpy:7365
-translate chinese afterCodySplit1219S_8d7d29d8:
+translate Tchinese afterCodySplit1219S_8d7d29d8:
 
     # seanPhone "Heyyyyy! :3{nw}"
     seanPhone "嗨～～～！:3"
 
 # game/sean12192024.rpy:7367
-translate chinese afterCodySplit1219S_8bae8419:
+translate Tchinese afterCodySplit1219S_8bae8419:
 
     # seanPhone "Hey!{nw}"
     seanPhone "嗨！{nw}"
 
 # game/sean12192024.rpy:7371
-translate chinese afterCodySplit1219S_bd48c211:
+translate Tchinese afterCodySplit1219S_bd48c211:
 
     # blakePhone sideSeanEmbarrassed "Sup cutie"
     blakePhone sideSeanEmbarrassed "嗨，小可愛"
 
 # game/sean12192024.rpy:7375
-translate chinese afterCodySplit1219S_526d15cd:
+translate Tchinese afterCodySplit1219S_526d15cd:
 
     # "I immediately blush and fumble out a response."
     "我臉紅唰地紅了，連忙回覆。"
 
 # game/sean12192024.rpy:7379
-translate chinese afterCodySplit1219S_6dce15d4:
+translate Tchinese afterCodySplit1219S_6dce15d4:
 
     # seanPhone "hwo r u?"
     seanPhone "你好嗎？"
 
 # game/sean12192024.rpy:7381
-translate chinese afterCodySplit1219S_1b66e448:
+translate Tchinese afterCodySplit1219S_1b66e448:
 
     # blakePhone "Doin fine, u?"
     blakePhone "很好，你呢？"
 
 # game/sean12192024.rpy:7383
-translate chinese afterCodySplit1219S_bf8de9ef:
+translate Tchinese afterCodySplit1219S_bf8de9ef:
 
     # seanPhone sideSeanNeutral "Better now that Im talkin with you. Long day."
     seanPhone sideSeanNeutral "像這樣跟你聊天就好多了。今天累死了。"
 
 # game/sean12192024.rpy:7387
-translate chinese afterCodySplit1219S_91e3485e:
+translate Tchinese afterCodySplit1219S_91e3485e:
 
     # seanPhone "How u doin?{nw}"
     seanPhone "你好嗎？{nw}"
 
 # game/sean12192024.rpy:7389
-translate chinese afterCodySplit1219S_2091e71b:
+translate Tchinese afterCodySplit1219S_2091e71b:
 
     # seanPhone "Hey hows it goin?{nw}"
     seanPhone "嗨，你好嗎？{nw}"
 
 # game/sean12192024.rpy:7393
-translate chinese afterCodySplit1219S_2d818698:
+translate Tchinese afterCodySplit1219S_2d818698:
 
     # blakePhone sideSeanSmile "Doin well you?"
     blakePhone sideSeanSmile "很好，你呢？"
 
 # game/sean12192024.rpy:7395
-translate chinese afterCodySplit1219S_19c41e95:
+translate Tchinese afterCodySplit1219S_19c41e95:
 
     # seanPhone sideSeanNeutral "Could be better long day..."
     seanPhone sideSeanNeutral "不怎麼樣，今天累死了……"
 
 # game/sean12192024.rpy:7398
-translate chinese afterCodySplit1219S_6632e1d7:
+translate Tchinese afterCodySplit1219S_6632e1d7:
 
     # seanPhone "What's up?{nw}"
     seanPhone "在幹嘛？{nw}"
 
 # game/sean12192024.rpy:7403
-translate chinese afterCodySplit1219S_f29543b3:
+translate Tchinese afterCodySplit1219S_f29543b3:
 
     # blakePhone sideSeanSmile "Nuttin much u?"
     blakePhone sideSeanSmile "沒啥，你呢？"
 
 # game/sean12192024.rpy:7405
-translate chinese afterCodySplit1219S_19c41e95_1:
+translate Tchinese afterCodySplit1219S_19c41e95_1:
 
     # seanPhone sideSeanNeutral "Could be better long day..."
     seanPhone sideSeanNeutral "不怎麼樣，今天累死了……"
 
 # game/sean12192024.rpy:7408
-translate chinese afterCodySplit1219S_cbd0d854:
+translate Tchinese afterCodySplit1219S_cbd0d854:
 
     # seanPhone "Yo!{nw}"
     seanPhone "唷！{nw}"
 
 # game/sean12192024.rpy:7413
-translate chinese afterCodySplit1219S_74c657e3:
+translate Tchinese afterCodySplit1219S_74c657e3:
 
     # blakePhone sideSeanSmile "Yo howsit goin"
     blakePhone sideSeanSmile "唷，你好嗎？"
 
 # game/sean12192024.rpy:7415
-translate chinese afterCodySplit1219S_2d3a8ec4:
+translate Tchinese afterCodySplit1219S_2d3a8ec4:
 
     # seanPhone sideSeanNeutral "I could be better long day"
     seanPhone sideSeanNeutral "不怎麼樣，今天累死了"
 
 # game/sean12192024.rpy:7418
-translate chinese afterCodySplit1219S_993f6dc8:
+translate Tchinese afterCodySplit1219S_993f6dc8:
 
     # seanPhone "Hey hot stuff!{nw}"
     seanPhone "嗨，帥哥！{nw}"
 
 # game/sean12192024.rpy:7423
-translate chinese afterCodySplit1219S_ca6ce5b9:
+translate Tchinese afterCodySplit1219S_ca6ce5b9:
 
     # blakePhone sideSeanEmbarrassed "Hello to you too ;)"
     blakePhone sideSeanEmbarrassed "你好啊 ;)"
 
 # game/sean12192024.rpy:7427
-translate chinese afterCodySplit1219S_8eb1af7b:
+translate Tchinese afterCodySplit1219S_8eb1af7b:
 
     # "Why did I send that... Maybe I can pivot into something more normal?"
     "我怎麼傳那種訊息啊……或許能轉成正常一點的話題？"
 
 # game/sean12192024.rpy:7431
-translate chinese afterCodySplit1219S_d3ea104a:
+translate Tchinese afterCodySplit1219S_d3ea104a:
 
     # seanPhone "What are you up to?"
     seanPhone "你在幹嘛？"
 
 # game/sean12192024.rpy:7433
-translate chinese afterCodySplit1219S_56060e43:
+translate Tchinese afterCodySplit1219S_56060e43:
 
     # blakePhone sideSeanNeutral "Just chattin with a cute guy. You?"
     blakePhone sideSeanNeutral "在跟一個可愛的傢伙聊天。你呢？"
 
 # game/sean12192024.rpy:7437
-translate chinese afterCodySplit1219S_7b2834a3:
+translate Tchinese afterCodySplit1219S_7b2834a3:
 
     # "So he's probably talking with someone else... Oh well, maybe I could swing this into a friendship."
     "所以他大概在跟別人聊……算了，也許可以發展成朋友關係。"
 
 # game/sean12192024.rpy:7441
-translate chinese afterCodySplit1219S_0c0e710b:
+translate Tchinese afterCodySplit1219S_0c0e710b:
 
     # seanPhone "Not much, had a long day."
     seanPhone "沒啥，今天累死了。"
 
 # game/sean12192024.rpy:7443
-translate chinese afterCodySplit1219S_02f69171:
+translate Tchinese afterCodySplit1219S_02f69171:
 
     # blakePhone "Sorry to hear that. Anyway I could hlep?"
     blakePhone "辛苦你了。有什麼我能方你的嗎？"
 
 # game/sean12192024.rpy:7445
-translate chinese afterCodySplit1219S_094c7f31:
+translate Tchinese afterCodySplit1219S_094c7f31:
 
     # blakePhone sideSeanSmile "Help*"
     blakePhone sideSeanSmile "幫*"
 
 # game/sean12192024.rpy:7449
-translate chinese afterCodySplit1219S_56aa3de7:
+translate Tchinese afterCodySplit1219S_56aa3de7:
 
     # "I laugh at the typo."
     "這錯字讓我笑了。"
 
 # game/sean12192024.rpy:7453
-translate chinese afterCodySplit1219S_eb5551dd:
+translate Tchinese afterCodySplit1219S_eb5551dd:
 
     # seanPhone "Chattin is nice, but I'm also beat. Maybe we could meet up some time?"
     seanPhone "聊天就挺不錯的，不過我要累斃了。也許哪天可以見面？"
 
 # game/sean12192024.rpy:7455
-translate chinese afterCodySplit1219S_b75c00f0:
+translate Tchinese afterCodySplit1219S_b75c00f0:
 
     # blakePhone sideSeanNeutral "Gonna be busy this week. I have thursday off."
     blakePhone sideSeanNeutral "這星期挺忙的。我星期四休假。"
 
 # game/sean12192024.rpy:7457
-translate chinese afterCodySplit1219S_16dec5b9:
+translate Tchinese afterCodySplit1219S_16dec5b9:
 
     # seanPhone "Works 4 me. I'm on break rn."
     seanPhone "我沒問題。我現在放假。"
 
 # game/sean12192024.rpy:7459
-translate chinese afterCodySplit1219S_2635933a:
+translate Tchinese afterCodySplit1219S_2635933a:
 
     # blakePhone "How old r u?"
     blakePhone "你幾歲？"
 
 # game/sean12192024.rpy:7461
-translate chinese afterCodySplit1219S_80c9c4e4:
+translate Tchinese afterCodySplit1219S_80c9c4e4:
 
     # seanPhone "21 in college. u?"
     seanPhone "21 大學生。你呢？"
 
 # game/sean12192024.rpy:7463
-translate chinese afterCodySplit1219S_a18bcbb8:
+translate Tchinese afterCodySplit1219S_a18bcbb8:
 
     # blakePhone "23"
     blakePhone "23"
 
 # game/sean12192024.rpy:7467
-translate chinese afterCodySplit1219S_6b28cc5a:
+translate Tchinese afterCodySplit1219S_6b28cc5a:
 
     # "Looks like I was right about him in his early 20s."
     "看來我猜他二十出頭沒猜錯。"
 
 # game/sean12192024.rpy:7471
-translate chinese afterCodySplit1219S_251a7ae0:
+translate Tchinese afterCodySplit1219S_251a7ae0:
 
     # seanPhone "Cool, you near Salem?"
     seanPhone "酷，你住賽勒姆附近？"
 
 # game/sean12192024.rpy:7475
-translate chinese afterCodySplit1219S_bd1320da:
+translate Tchinese afterCodySplit1219S_bd1320da:
 
     # "It takes him a while to respond"
     "他過了一陣子才回覆。"
 
 # game/sean12192024.rpy:7479
-translate chinese afterCodySplit1219S_dd13d85d:
+translate Tchinese afterCodySplit1219S_dd13d85d:
 
     # blakePhone "Ye wanna meet at the Howler?"
     blakePhone "對，要在嚎叫者見面嗎？"
 
 # game/sean12192024.rpy:7483
-translate chinese afterCodySplit1219S_518916f0:
+translate Tchinese afterCodySplit1219S_518916f0:
 
     # "Howler was the gay bar in Salem. I even heard some folks at Monroe talk about going to hang there."
     "嚎叫者是賽勒姆的一間gay吧。甚至在夢露我都聽人說過要去那玩。"
 
 # game/sean12192024.rpy:7484
-translate chinese afterCodySplit1219S_8e27e0e0:
+translate Tchinese afterCodySplit1219S_8e27e0e0:
 
     # "It was so well known that it's usually the first search result if you're looking for 'local gay bars' online."
     "有名到在網上搜「本地gay酒吧」通常都會是第一結果。"
 
 # game/sean12192024.rpy:7485
-translate chinese afterCodySplit1219S_4f9c6fbe:
+translate Tchinese afterCodySplit1219S_4f9c6fbe:
 
     # "If the guy turns out to not be who he says he is, or if he's a creep, then I should be safe."
     "要是這傢伙虛報身份，或者是個變態，我應該也很安全。"
 
 # game/sean12192024.rpy:7489
-translate chinese afterCodySplit1219S_7acab85c:
+translate Tchinese afterCodySplit1219S_7acab85c:
 
     # seanPhone "{image=phone/thumbsup.png}"
     seanPhone "{image=phone/thumbsup.png}"
 
 # game/sean12192024.rpy:7494
-translate chinese afterCodySplit1219S_788f8a4c:
+translate Tchinese afterCodySplit1219S_788f8a4c:
 
     # "Well that's one thread that I won't have to worry about."
     "嗯，這方面就不必擔心了。"
 
 # game/sean12192024.rpy:7495
-translate chinese afterCodySplit1219S_3328e0a1:
+translate Tchinese afterCodySplit1219S_3328e0a1:
 
     # "I check the time and it's almost eleven."
     "我看了眼時間，快11點了。"
 
 # game/sean12192024.rpy:7496
-translate chinese afterCodySplit1219S_94388d2b:
+translate Tchinese afterCodySplit1219S_94388d2b:
 
     # "Sure I could stay up, I have no idea if we have anything planned for tomorrow, but right now I just want to pass out."
     "熬夜也不是不行，反正也不知道明天有沒有計畫，但現在只想直接昏睡過去。"
 
 # game/sean12192024.rpy:7497
-translate chinese afterCodySplit1219S_36471efb:
+translate Tchinese afterCodySplit1219S_36471efb:
 
     # "Before I do I take a quick shower, brush my fangs, and do one last scroll through Twitter before finally calling it a night."
     "睡前我快速沖澡、刷牙，最後滑了一次推特，才終於給這一天劃下句號。"
