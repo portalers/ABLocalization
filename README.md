@@ -13,9 +13,11 @@
 
 >Plurk：[Plurk链接](https://www.plurk.com/ABLocalization)
 
->Telegram：[频道链接](https://t.me/Easyfurry)
+>Telegram：[电报链接](https://t.me/Easyfurry)
 
->QQ频道：[频道链接](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&inviteCode=2kr67C&from=246610&biz=ka)
+>QQ频道：[频道链接](https://pd.qq.com/s/611s5tyhb)
+
+>汉化组Wiki：[点此访问](https://wiki.ablocalization.ltd)
 
 ### 组员汉化视频(通常快于补丁发布)
 
