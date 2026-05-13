@@ -13,7 +13,7 @@
 
 >Plurk：[Plurk链接](https://www.plurk.com/ABLocalization)
 
->Telegram：[频道链接](https://t.me/AuroraBorealisCN)
+>Telegram：[频道链接](https://t.me/Easyfurry)
 
 >QQ频道：[频道链接](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&inviteCode=2kr67C&from=246610&biz=ka)
 
