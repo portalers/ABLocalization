@@ -25555,3 +25555,23 @@ translate Tchinese strings:
     # game/nikroute2.rpy:8471
     old "The map's left, my right,"
     new "地圖的左邊，我的右邊。"
+# TODO: Translation updated at 2026-06-05 10:23
+
+# game/nikroute2.rpy:308
+translate Tchinese nikroute2_2f289cdc:
+
+    # ni "\"Looks like to me like a hefty vein of quartz.\""
+    ni ""
+
+# game/nikroute2.rpy:1159
+translate Tchinese nikroute2_2824fe90:
+
+    # m "\"Another day another dollar, Mr Briggs.\""
+    m ""
+
+# game/nikroute2.rpy:1202
+translate Tchinese nikroute2_fba08962:
+
+    # jam "\"Mr Ayers. One of our current troubles is that Nicholas is one of our best workers! But I fear he’s run away with some wild ideas.\""
+    jam ""
+

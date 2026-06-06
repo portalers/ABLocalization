@@ -11055,3 +11055,83 @@ translate Tchinese strings:
     # game/nikroute4b.rpy:2626
     old "Because you’re my friend."
     new "因為你是我的朋友。"
+# TODO: Translation updated at 2026-06-05 10:23
+
+# game/nikroute4b.rpy:1059
+translate Tchinese nikroute4b_9703739b:
+
+    # "But it doesn’t much matter now, because the wolf and the badger are running straight for us."
+    ""
+
+# game/nikroute4b.rpy:1189
+translate Tchinese nikroute4b_68cc71b6:
+
+    # "He nods at the badger on his left."
+    ""
+
+# game/nikroute4b.rpy:1439
+translate Tchinese nikroute4b_25077857:
+
+    # badeli "\"Should I shut him up?\""
+    badeli ""
+
+# game/nikroute4b.rpy:1450
+translate Tchinese nikroute4b_97869079:
+
+    # "Ben's eyes narrow and he opens his mouth."
+    ""
+
+# game/nikroute4b.rpy:1534
+translate Tchinese nikroute4b_839d5878:
+
+    # "The wolf aims his guns at us while the badger pats us down, one by one."
+    ""
+
+# game/nikroute4b.rpy:1537
+translate Tchinese nikroute4b_3ac836c6:
+
+    # badeli "\"They’re clear.\""
+    badeli ""
+
+# game/nikroute4b.rpy:1779
+translate Tchinese nikroute4b_f7903f6b:
+
+    # "I fumble with the box a bit, {nw}"
+    ""
+
+# game/nikroute4b.rpy:1782
+translate Tchinese nikroute4b_4e744b93:
+
+    # extend "noticing the wolf and the badger still staring at me as I get a little bit closer to the wires that go toward the Hendricks manor."
+    extend ""
+
+# game/nikroute4b.rpy:1792
+translate Tchinese nikroute4b_b653b73a:
+
+    # "And I look at both of the bodyguards above me."
+    ""
+
+# game/nikroute4b.rpy:1835
+translate Tchinese nikroute4b_f1484d29:
+
+    # "The badger is bleeding from his hand, just like I am."
+    ""
+
+# game/nikroute4b.rpy:1862
+translate Tchinese nikroute4b_a8dfadb3:
+
+    # "But the badger is up again, {nw}"
+    ""
+
+# game/nikroute4b.rpy:1876
+translate Tchinese nikroute4b_9405be76:
+
+    # "Yao’s claws are out, leaving deep gashes in the badger’s arms as he fights for control of the rifle, until he can wrestle it out of his arms."
+    ""
+
+# game/nikroute4b.rpy:1881
+translate Tchinese nikroute4b_507a7b97:
+
+    # "Nik races for it across the rope bridge, pulling a pair of shears from his pocket and cutting it."
+    ""
+

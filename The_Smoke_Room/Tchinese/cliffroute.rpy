@@ -7823,3 +7823,35 @@ translate Tchinese strings:
     # game/cliffroute.rpy:1815
     old "Don't object"
     new "不反對"
+# TODO: Translation updated at 2026-06-05 10:23
+
+# game/cliffroute.rpy:640
+translate Tchinese cliffroute_0060120d:
+
+    # "He’s flanked by a wolf and a badger, the latter of whom I recognize from the saloon."
+    ""
+
+# game/cliffroute.rpy:643
+translate Tchinese cliffroute_62978ca4:
+
+    # "{i}The Third{/i}, if I’m not mistaken."
+    ""
+
+# game/cliffroute.rpy:651
+translate Tchinese cliffroute_95c19cef:
+
+    # "I swallow and pick my words carefully, noticing the bodyguards staring at me."
+    ""
+
+# game/cliffroute.rpy:682
+translate Tchinese cliffroute_191b6cb8:
+
+    # "He shoos away the wolf and the badger {nw}"
+    ""
+
+# game/cliffroute.rpy:684
+translate Tchinese cliffroute_73c07ee0:
+
+    # extend "with a hand gesture."
+    extend ""
+

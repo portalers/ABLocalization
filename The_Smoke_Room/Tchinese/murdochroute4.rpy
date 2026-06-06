@@ -10155,3 +10155,1307 @@ translate Tchinese strings:
     # game/murdochroute4.rpy:2825
     old "Neil."
     new "Neil"
+
+# TODO: Translation updated at 2026-06-05 10:23
+
+# game/murdochroute4.rpy:27
+translate Tchinese murdochroute4_ed3424b3:
+
+    # me "\"...Do you really think we’re alone here, Mr. Ayers?\""
+    me ""
+
+# game/murdochroute4.rpy:101
+translate Tchinese murdochroute4_db840078:
+
+    # bl "\"The school ain’t that big, Mr. Ayers.\""
+    bl ""
+
+# game/murdochroute4.rpy:102
+translate Tchinese murdochroute4_8c800ff1:
+
+    # bl "\"Nobody can get lost, and if something happens, we’d hear it.\""
+    bl ""
+
+# game/murdochroute4.rpy:174
+translate Tchinese murdochroute4_18ebbf91:
+
+    # reu "\"Don’t you have a firearm, miss?\""
+    reu ""
+
+# game/murdochroute4.rpy:180
+translate Tchinese murdochroute4_b382dd5b:
+
+    # reu "\"My friend {i}just{/i} said manning the front of the school with firearms would be prudent.\""
+    reu ""
+
+# game/murdochroute4.rpy:312
+translate Tchinese schoolexplorationmain_168c75f8:
+
+    # me "\"Mister Ayers?\""
+    me ""
+
+# game/murdochroute4.rpy:347
+translate Tchinese schoolexplorationmain_cdaaa792:
+
+    # bl "\"If I said I did, would it much matter?\""
+    bl ""
+
+# game/murdochroute4.rpy:351
+translate Tchinese schoolexplorationmain_bed5fc99:
+
+    # "Something I ought to stop forgetting in spite of her behavior - this girl is smart."
+    ""
+
+# game/murdochroute4.rpy:471
+translate Tchinese schoolauditorium_673615f6:
+
+    # m "\"Do you think I’d be doing this if I didn’t think it was necessary?\""
+    m ""
+
+# game/murdochroute4.rpy:548
+translate Tchinese schoolauditorium_de69ddc2:
+
+    # m "\"...Can we just check behind the curtains and get out of here?\""
+    m ""
+
+# game/murdochroute4.rpy:633
+translate Tchinese schoolauditorium_042402b0:
+
+    # "...Still nobody there."
+    ""
+
+# game/murdochroute4.rpy:639
+translate Tchinese schoolauditorium_2dde9590:
+
+    # "If he wants to complain about how I’m doing things then he can be the first person to check out the dangerous places."
+    ""
+
+# game/murdochroute4.rpy:662
+translate Tchinese schoolauditorium_04111a3d:
+
+    # ji "\"So there was some digging, and some permits to procure.\""
+    ji ""
+
+# game/murdochroute4.rpy:724
+translate Tchinese schoolauditorium_89dfe098:
+
+    # "That didn’t seem entirely right to me, but it wasn’t like I was gonna argue about it."
+    ""
+
+# game/murdochroute4.rpy:767
+translate Tchinese schoolauditorium_5b4b5372:
+
+    # m "\"Murdoch, what the hell?\""
+    m ""
+
+# game/murdochroute4.rpy:805
+translate Tchinese schoolauditorium_17774a42:
+
+    # me "\"What’s the matter, Mr. Ayers?\""
+    me ""
+
+# game/murdochroute4.rpy:815
+translate Tchinese schoolauditorium_748c215c:
+
+    # me "\"My ears work real good, you know.\""
+    me ""
+
+# game/murdochroute4.rpy:830
+translate Tchinese schoolauditorium_301abb14:
+
+    # bl "\"The hell you doin’, Mr. Ayers?\""
+    bl ""
+
+# game/murdochroute4.rpy:863
+translate Tchinese schoolauditorium_da6ba21c:
+
+    # bl "\"This isn’t a comedy of errors, Mr. Byrnes.\""
+    bl ""
+
+# game/murdochroute4.rpy:964
+translate Tchinese schoolbasement_e3a1e126:
+
+    # "I barely have room to walk, considering the clutter."
+    ""
+
+# game/murdochroute4.rpy:1036
+translate Tchinese schoolbasement_7a5e32f7:
+
+    # ra "\"...Thus proving my point.\""
+    ra ""
+
+# game/murdochroute4.rpy:1103
+translate Tchinese schoolbasement_31e3493b:
+
+    # mu "\"Probably not, in honesty.\""
+    mu ""
+
+# game/murdochroute4.rpy:1104
+translate Tchinese schoolbasement_6ca68560:
+
+    # mu "\"A lot of the stuff down here was old and out of commission since Mother became the principal.\""
+    mu ""
+
+# game/murdochroute4.rpy:1113
+translate Tchinese schoolbasement_0514b4fc:
+
+    # "At least he’s trying, I suppose."
+    ""
+
+# game/murdochroute4.rpy:1154
+translate Tchinese schoolbasement_6b37ff63:
+
+    # me "\"...No, I think I’ll stay.\""
+    me ""
+
+# game/murdochroute4.rpy:1185
+translate Tchinese schoolbasement_2ea2d0bd:
+
+    # mu "\"Be careful with those. They might be full of mold.\""
+    mu ""
+
+# game/murdochroute4.rpy:1199
+translate Tchinese schoolbasement_10fa0de2:
+
+    # "It dawns on me now that a girl that scrawny has had no trouble holding up and waving a book that size around like that."
+    ""
+
+# game/murdochroute4.rpy:1224
+translate Tchinese schoolbasement_565636b1:
+
+    # me "\"Hey, this one sounds hollow too!\""
+    me ""
+
+# game/murdochroute4.rpy:1292
+translate Tchinese schoolbasement_81181aa9:
+
+    # "As he slams it, I catch the scuttling sound of somebody running up towards us." with hpunch
+    "" with hpunch
+
+# game/murdochroute4.rpy:1330
+translate Tchinese schoolbasement_fa40c4e5:
+
+    # mu "\"That door locks from only one side, so I don’t think we have to worry.\""
+    mu ""
+
+# game/murdochroute4.rpy:1347
+translate Tchinese schoolbasement_c2ca119c:
+
+    # mu "\"...Let’s take a small break before we cover the next area, alright Sam?\""
+    mu ""
+
+# game/murdochroute4.rpy:1394
+translate Tchinese schoolbasement_f03dbd2d:
+
+    # bl "\"Something really did happen to you back in the tunnels, Mr. Ayers.\""
+    bl ""
+
+# game/murdochroute4.rpy:1452
+translate Tchinese schoolclassroom_e6d775c1:
+
+    # m "\"Didn’t say I think she will be either.\""
+    m ""
+
+# game/murdochroute4.rpy:1455
+translate Tchinese schoolclassroom_4ee9ab2b:
+
+    # "When we get to the door on the corner of the building, I step out of the way."
+    ""
+
+# game/murdochroute4.rpy:1463
+translate Tchinese schoolclassroom_096782ad:
+
+    # "Getting back to Holly’s office is one of the more time-consuming backtracks."
+    ""
+
+# game/murdochroute4.rpy:1505
+translate Tchinese schoolclassroom_245c089a:
+
+    # ji "\"...Yes.\""
+    ji ""
+
+# game/murdochroute4.rpy:1507
+translate Tchinese schoolclassroom_63468d89:
+
+    # m "\"The more, the merrier as far as I’m concerned.\""
+    m ""
+
+# game/murdochroute4.rpy:1527
+translate Tchinese schoolclassroom_0f143761:
+
+    # ji "\"...It’s where we started dating.\""
+    ji ""
+
+# game/murdochroute4.rpy:1563
+translate Tchinese schoolclassroom_74f03783:
+
+    # "It’s the usual shit you’d expect a teacher to have."
+    ""
+
+# game/murdochroute4.rpy:1571
+translate Tchinese schoolclassroom_abd2cced:
+
+    # ra "\"Is it a key or a combination lock.\""
+    ra ""
+
+# game/murdochroute4.rpy:1631
+translate Tchinese schoolclassroom_eecdec4f:
+
+    # "Murdoch takes his out of his pockets and sets it on the table."
+    ""
+
+# game/murdochroute4.rpy:1646
+translate Tchinese schoolclassroom_beffe80a:
+
+    # mu "\"Wait Jim.\""
+    mu ""
+
+# game/murdochroute4.rpy:1672
+translate Tchinese schoolclassroom_30199045:
+
+    # m "\"Burn it, Jim.\""
+    m ""
+
+# game/murdochroute4.rpy:1782
+translate Tchinese schoolclassroom_ebb0f7d9:
+
+    # bl "\"I’m sayin’ you’re looking around for dark holes more often than me, if you get what I mean.\""
+    bl ""
+
+# game/murdochroute4.rpy:1785
+translate Tchinese schoolclassroom_a3b9848e:
+
+    # bl "\"You’re not {i}that{/i} good of a liar, Mr. Byrnes.\""
+    bl ""
+
+# game/murdochroute4.rpy:1823
+translate Tchinese schoolclassroom_cd32feae:
+
+    # "I think we’ve already found all that really mattered here, anyway."
+    ""
+
+# game/murdochroute4.rpy:1835
+translate Tchinese schooloffice_0184422d:
+
+    # "The idea of looking inside of Gretchen’s office is one of the only thoughts that makes me hesitate."
+    ""
+
+# game/murdochroute4.rpy:1836
+translate Tchinese schooloffice_3620ef27:
+
+    # "I can’t decide if that’s because it’s the one place that would feel most like breaking and entering..."
+    ""
+
+# game/murdochroute4.rpy:1915
+translate Tchinese schooloffice_ed47a0b8:
+
+    # "The only evidence of comfort is the giant bay window in the back wall, but even that is partially covered by plain-looking curtains."
+    ""
+
+# game/murdochroute4.rpy:1922
+translate Tchinese schooloffice_d75e82fb:
+
+    # "Going back to Gretchen’s office the second time puts me more on edge than it did the first time."
+    ""
+
+# game/murdochroute4.rpy:1975
+translate Tchinese schooloffice_efa6fcad:
+
+    # ra "\"And sometimes people take on more responsibilities than they should because they prefer to be busy rather than be alone with their thoughts.\""
+    ra ""
+
+# game/murdochroute4.rpy:2028
+translate Tchinese schooloffice_ca389c2f:
+
+    # ji "\"Come now, how the hell do you live with this?\""
+    ji ""
+
+# game/murdochroute4.rpy:2032
+translate Tchinese schooloffice_6bf44c86:
+
+    # ji "\"You mean your rat-infested hovel?\""
+    ji ""
+
+# game/murdochroute4.rpy:2039
+translate Tchinese schooloffice_89096960:
+
+    # mu "\"In truth, I don’t find the behavior particularly funny.\""
+    mu ""
+
+# game/murdochroute4.rpy:2049
+translate Tchinese schooloffice_daa758a1:
+
+    # ji "\"Well then, the coast is clear, unless your mother is hanging in the chimney like a vampire.\""
+    ji ""
+
+# game/murdochroute4.rpy:2224
+translate Tchinese schooloffice_3c14ff08:
+
+    # "It’s a stack of letters in a basket labelled 1915."
+    ""
+
+# game/murdochroute4.rpy:2242
+translate Tchinese schooloffice_f63c765f:
+
+    # bl "\"{i}Mary Applegate will be transferred to P.S. 4, Camp Rosa, this following fall.{/i}\""
+    bl ""
+
+# game/murdochroute4.rpy:2264
+translate Tchinese schooloffice_688fcef4:
+
+    # bl "\"Read it out loud, Mr. Byrnes.\""
+    bl ""
+
+# game/murdochroute4.rpy:2273
+translate Tchinese schooloffice_3a18319b:
+
+    # mu "\"{i}Melissa Boike will be transferred to P.S. 3, Payton, this following fall.{/i}\""
+    mu ""
+
+# game/murdochroute4.rpy:2349
+translate Tchinese schoollibrary_486f8d2e:
+
+    # "Behind the glass wall, the library looks dark and empty."
+    ""
+
+# game/murdochroute4.rpy:2468
+translate Tchinese schoollibrary_a4f753e6:
+
+    # ra "\"Then there’s no point in thinking the worst when there’s nothing to suggest it.\""
+    ra ""
+
+# game/murdochroute4.rpy:2493
+translate Tchinese schoollibrary_55bf0f8f:
+
+    # ji "\"Did you know that the the geologist teaching here at the time just said that’s how the world really moves rather than fix the damn thing?\""
+    ji ""
+
+# game/murdochroute4.rpy:2525
+translate Tchinese schoollibrary_5f5ca6a2:
+
+    # m "\"You found those yearbooks I take it?\""
+    m ""
+
+# game/murdochroute4.rpy:2621
+translate Tchinese schoollibrary_14ac180a:
+
+    # me "\"I didn’t take you for the envious type, Mr. Ayers.\""
+    me ""
+
+# game/murdochroute4.rpy:2665
+translate Tchinese schoollibrary_87783ca7:
+
+    # bl "\"You look scared, Mr. Ayers.\""
+    bl ""
+
+# game/murdochroute4.rpy:2741
+translate Tchinese schoollibrary_bddce34e:
+
+    # mu "\"I’ll be back in a little while. Please watch over one another.\""
+    mu ""
+
+# game/murdochroute4.rpy:2836
+translate Tchinese schoolconvos_b7674fe3:
+
+    # cy "\"About as good as one can, I suppose.\""
+    cy ""
+
+# game/murdochroute4.rpy:2845
+translate Tchinese schoolconvos_0b6fd347:
+
+    # m "\"...Don’t you mean Scarlet?\""
+    m ""
+
+# game/murdochroute4.rpy:2852
+translate Tchinese schoolconvos_dd737c58:
+
+    # cy "\"After everything she’s been through, I reckon she’d be too embarrassed to put {i}perished to flames{/i} on her tombstone if that’s what does her in.\""
+    cy ""
+
+# game/murdochroute4.rpy:2882
+translate Tchinese schoolconvos_3ae75d15:
+
+    # reu "\"If lunatic yokels busted down the door, at least I’d have something to do.\""
+    reu ""
+
+# game/murdochroute4.rpy:2950
+translate Tchinese schoolconvos_2f4c5529:
+
+    # m "\"Take a deep breath, or something’.\""
+    m ""
+
+# game/murdochroute4.rpy:2960
+translate Tchinese schoolconvos_e818dd40:
+
+    # "The dog is sitting in a seat, staring out the window."
+    ""
+
+# game/murdochroute4.rpy:3065
+translate Tchinese schoolconvos_8cbe52d7:
+
+    # ji "\"This isn’t a sob story Mr Ayers.\""
+    ji ""
+
+# game/murdochroute4.rpy:3090
+translate Tchinese schoolconvos_d942695a:
+
+    # m "\"It wasn’t {i}that{/i} long ago, was it?\""
+    m ""
+
+# game/murdochroute4.rpy:3143
+translate Tchinese schoolconvos_4f02feaa:
+
+    # me "\"Hello, Mr. Ayers.\""
+    me ""
+
+# game/murdochroute4.rpy:3221
+translate Tchinese schoolconvos_51178dec:
+
+    # me "\"Yes, Mr Ayers.\""
+    me ""
+
+# game/murdochroute4.rpy:3251
+translate Tchinese schoolconvos_92ad6394:
+
+    # bl "\"You’re so sensitive about that, Mr. Ayers.\""
+    bl ""
+
+# game/murdochroute4.rpy:3287
+translate Tchinese schoolconvos_0a6e587b:
+
+    # m "\"I’m still an employee with the Byrneses.\""
+    m ""
+
+# game/murdochroute4.rpy:3290
+translate Tchinese schoolconvos_ba4c50be:
+
+    # bl "\"The Byrneses are not exactly known for charity, Mr. Ayers.\""
+    bl ""
+
+# game/murdochroute4.rpy:3302
+translate Tchinese schoolconvos_dcb1def3:
+
+    # m "\"I don’t think I could afford more of your services, lil ma’am.\""
+    m ""
+
+# game/murdochroute4.rpy:3330
+translate Tchinese schoolconvos_d3c27107:
+
+    # m "\"...You good?\""
+    m ""
+
+# game/murdochroute4.rpy:3369
+translate Tchinese dahliaprogression_b409ee36:
+
+    # m "\"Thank you, Miss Washington.\""
+    m ""
+
+# game/murdochroute4.rpy:3379
+translate Tchinese dahliaprogression_451853bc:
+
+    # bl "\"Then again, it’s impossible to save everybody, ain’t it?\""
+    bl ""
+
+# game/murdochroute4.rpy:3403
+translate Tchinese dahliaprogression_7421b3fa:
+
+    # "I grip the wood, making my first step up, and it squeaks beneath me, bearin’ my weight."
+    ""
+
+# game/murdochroute4.rpy:3495
+translate Tchinese dahliaprogression_4df975e6:
+
+    # dh "\"It’s when the nature of waves changes when they hit a barrier.\""
+    dh ""
+
+# game/murdochroute4.rpy:3506
+translate Tchinese dahliaprogression_a88dac5b:
+
+    # dh "\"It’s believed that shape of the wave changes as it spreads.\""
+    dh ""
+
+# game/murdochroute4.rpy:3549
+translate Tchinese dahliaprogression_39d9671c:
+
+    # dh "\"But there are some things that they can’t do.\""
+    dh ""
+
+# game/murdochroute4.rpy:3552
+translate Tchinese dahliaprogression_a03c338b:
+
+    # dh "\"I see Kepler’s star tonight, Mr. Ayers.\""
+    dh ""
+
+# game/murdochroute4.rpy:3565
+translate Tchinese dahliaprogression_1e4d724d:
+
+    # m "\"I know that that I’m ignorant of all this, but your brother’s worried sick!\""
+    m ""
+
+# game/murdochroute4.rpy:3580
+translate Tchinese dahliaprogression_3395afe9:
+
+    # dh "\"If I step away for even a moment, I could miss something, and that’s one sliver of data the future won’t have.\""
+    dh ""
+
+# game/murdochroute4.rpy:3678
+translate Tchinese thirddahliaattempt_de2bdfd9:
+
+    # dh "\"Each and every one of us, as the planet moves on its axis.\""
+    dh ""
+
+# game/murdochroute4.rpy:3689
+translate Tchinese thirddahliaattempt_63163985:
+
+    # dh "\"Beamsick with the rotting light of dead stars which have spiraled downward, fetid upon arrival.\""
+    dh ""
+
+# game/murdochroute4.rpy:3701
+translate Tchinese thirddahliaattempt_2ff87dcb:
+
+    # "It’s hard to see what she’s doing over there in the dark, but from the shape of her silhouette, I can see that she shakes her head."
+    ""
+
+# game/murdochroute4.rpy:3717
+translate Tchinese thirddahliaattempt_acf94379:
+
+    # dh "\"Go now, Mr. Ayers.\""
+    dh ""
+
+# game/murdochroute4.rpy:3730
+translate Tchinese thirddahliaattempt_b8c9700f:
+
+    # m "\"I’m going, see?\""
+    m ""
+
+# game/murdochroute4.rpy:3745
+translate Tchinese thirddahliaattempt_27514e84:
+
+    # "I knew the Byrneses were crazy, but I had a feeling she was different."
+    ""
+
+# game/murdochroute4.rpy:3764
+translate Tchinese thirddahliaattempt_9d2937c9:
+
+    # "Or at least have the capacity to understand what just happened."
+    ""
+
+# game/murdochroute4.rpy:3790
+translate Tchinese thirddahliaattempt_4eabf7fc:
+
+    # cy "\"...Was she alright?\""
+    cy ""
+
+# game/murdochroute4.rpy:3794
+translate Tchinese thirddahliaattempt_5d10e21a:
+
+    # "Cynthia lets a low, one note laugh."
+    ""
+
+# game/murdochroute4.rpy:3820
+translate Tchinese dahliasuccess_46b6acb4:
+
+    # dh "\"...So you have been paying some attention.\""
+    dh ""
+
+# game/murdochroute4.rpy:3852
+translate Tchinese dahliasuccess_d00d403a:
+
+    # dh "\"Repeat it back to me.\""
+    dh ""
+
+# game/murdochroute4.rpy:3947
+translate Tchinese dahliasuccess_6f19d038:
+
+    # m "\"Alright.\""
+    m ""
+
+# game/murdochroute4.rpy:3950
+translate Tchinese dahliasuccess_18d37fff:
+
+    # m "\"I’m gonna back up real soon and you’re gonna follow.\""
+    m "我馬上退開，妳也跟上來。"
+
+# game/murdochroute4.rpy:3951
+translate Tchinese dahliasuccess_11b3a699:
+
+    # m "\"Do we have a deal?\""
+    m "這樣行嗎？"
+
+# game/murdochroute4.rpy:3953
+translate Tchinese dahliasuccess_28e6410f:
+
+    # dh "\"We do.\""
+    dh "行。"
+
+# game/murdochroute4.rpy:3955
+translate Tchinese dahliasuccess_59cdbb37:
+
+    # "I back up, always looking forward, when I reach the ladder."
+    "我向後退，始終注視著前方，直到碰到梯子。"
+
+# game/murdochroute4.rpy:3957
+translate Tchinese dahliasuccess_6872c23f:
+
+    # "I put one paw behind the other as she approaches, following me down."
+    "我一爪一爪往下爬，她走來隨我下降。"
+
+# game/murdochroute4.rpy:3959
+translate Tchinese dahliasuccess_2f15cf5d:
+
+    # "Out of the observatory."
+    "離開天文台。"
+
+# game/murdochroute4.rpy:3961
+translate Tchinese dahliasuccess_dccf8d1e:
+
+    # "Out of the library."
+    "離開圖書館。"
+
+# game/murdochroute4.rpy:3963
+translate Tchinese dahliasuccess_4e431fea:
+
+    # "Jim and his friends are waiting on the steps with Cynthia."
+    "Jim和他朋友們跟Cynthia一起在樓梯上等著。"
+
+# game/murdochroute4.rpy:3965
+translate Tchinese dahliasuccess_2ac864fe:
+
+    # "Their turn their necks when they hear us walking."
+    "一聽見我們的腳步聲，便轉過頭來。"
+
+# game/murdochroute4.rpy:3967
+translate Tchinese dahliasuccess_4f85cba2:
+
+    # mu "\"Dahlia?\""
+    mu "Dahlia？"
+
+# game/murdochroute4.rpy:3972
+translate Tchinese dahliasuccess_8fd766c0:
+
+    # "Murdoch’s voice comes from the end of the hallway at the other side of the staircase."
+    "Murdoch的聲音從樓梯另一側的走廊盡頭傳來。"
+
+# game/murdochroute4.rpy:3974
+translate Tchinese dahliasuccess_0aef36ea:
+
+    # dh "\"Murdoch.\""
+    dh "Murdoch。"
+
+# game/murdochroute4.rpy:3977
+translate Tchinese dahliasuccess_668339e7:
+
+    # mu "\"Why weren’t you at the wedding?\""
+    mu "妳怎麼沒去婚禮？"
+
+# game/murdochroute4.rpy:3979
+translate Tchinese dahliasuccess_c64c11f7:
+
+    # dh "\"I had duties.\""
+    dh "我有職責在身。"
+
+# game/murdochroute4.rpy:3982
+translate Tchinese dahliasuccess_20716e03:
+
+    # mu "\"That doesn’t matter.\""
+    mu "那不重要。"
+
+# game/murdochroute4.rpy:3984
+translate Tchinese dahliasuccess_1d635a42:
+
+    # mu "\"Everybody was looking for you.\""
+    mu "大家都在找妳。"
+
+# game/murdochroute4.rpy:3986
+translate Tchinese dahliasuccess_7e28f461:
+
+    # dh "\"This couldn’t wait.\""
+    dh "這件事不能等。"
+
+# game/murdochroute4.rpy:3990
+translate Tchinese dahliasuccess_833e256a:
+
+    # dh "\"I would have been stopped had I told anyone.\""
+    dh "要是我告訴別人，就會遭受阻礙。"
+
+# game/murdochroute4.rpy:3993
+translate Tchinese dahliasuccess_e7ccb796:
+
+    # mu "\"...\""
+    mu "……"
+
+# game/murdochroute4.rpy:3995
+translate Tchinese dahliasuccess_d74a8040:
+
+    # dh "\"Well?\""
+    dh "怎麼樣？"
+
+# game/murdochroute4.rpy:3998
+translate Tchinese dahliasuccess_e7bfa603:
+
+    # dh "\"You wanted answers, didn’t you?\""
+    dh "你們不是想要答案嗎？"
+
+# game/murdochroute4.rpy:4001
+translate Tchinese dahliasuccess_fc6c6cac:
+
+    # dh "\"Prove that I can trust you with them.\""
+    dh "那就證明自己足以受我信任吧。"
+
+# game/murdochroute4.rpy:4007
+translate Tchinese dahliasuccess_66b7f073:
+
+    # ji "\"What is she talking about?\""
+    ji "她在說什麼？"
+
+# game/murdochroute4.rpy:4010
+translate Tchinese dahliasuccess_e0d66acb:
+
+    # dh "\"Everybody who needs to understand already does.\""
+    dh "需要理解的人，都已經明白了。"
+
+# game/murdochroute4.rpy:4014
+translate Tchinese dahliasuccess_049540ec:
+
+    # ji "\"...What the fuck is that supposed to mean?\""
+    ji "……這他媽是什麼意思？"
+
+# game/murdochroute4.rpy:4016
+translate Tchinese dahliasuccess_e66e3475:
+
+    # m "\"Remember when we saw a cellar downstairs?\""
+    m "還記得我們在樓下有看到一間地窖嗎？"
+
+# game/murdochroute4.rpy:4020
+translate Tchinese dahliasuccess_2762e133:
+
+    # m "\"There was light coming from behind one of the{nw}"
+    m "其中一個架子後面{nw}有光透出來。"
+
+# game/murdochroute4.rpy:4024
+translate Tchinese dahliasuccess_98118025:
+
+    # extend " shelves.\""
+    extend "有光透出來。"
+
+# game/murdochroute4.rpy:4026
+translate Tchinese dahliasuccess_51eba043:
+
+    # ji "\"So what?\""
+    ji "那又怎樣？"
+
+# game/murdochroute4.rpy:4032
+translate Tchinese dahliasuccess_75d793de:
+
+    # cy "\"Do you really think it’s a good idea to go poking around down there, Sam?\""
+    cy "你真的覺得下去亂翻是個好主意嗎，Sam？"
+
+# game/murdochroute4.rpy:4033
+translate Tchinese dahliasuccess_3ffbe621:
+
+    # cy "\"Whoever was down there seemed like they wanted people to stay out.\""
+    cy "底下那人看來不太想遇到別人。"
+
+# game/murdochroute4.rpy:4034
+translate Tchinese dahliasuccess_123f1765:
+
+    # m "\"Well, if he’s the arsonist I’d like to make sure he doesn’t have an opportunity to smoke us up while we sleep.\""
+    m "這個嘛，如果他就是縱火犯，最好確保他不會趁咱們睡覺的時候放火。"
+
+# game/murdochroute4.rpy:4036
+translate Tchinese dahliasuccess_48a5a220:
+
+    # cy "\"What makes you think he’s the guy?\""
+    cy "你為什麼覺得就是他？"
+
+# game/murdochroute4.rpy:4037
+translate Tchinese dahliasuccess_25b6238f:
+
+    # m "\"I figure if he wants to light the whole town up, then this place is probably next, right?\""
+    m "要是他想燒掉整個鎮子，這裡大概就是下一個目標，沒錯吧？"
+
+# game/murdochroute4.rpy:4041
+translate Tchinese dahliasuccess_b9e66a0b:
+
+    # ji "\"Not necessarily.\""
+    ji "不見得。"
+
+# game/murdochroute4.rpy:4044
+translate Tchinese dahliasuccess_cdbe46c0:
+
+    # ji "\"We have no understanding why somebody set fire to the town.\""
+    ji "我們又不知道為什麼有人放火燒毀小鎮。"
+
+# game/murdochroute4.rpy:4047
+translate Tchinese dahliasuccess_c3708a01:
+
+    # ji "\"For all we know they’ve already fled.\""
+    ji "說不定犯人早就逃之夭夭了。"
+
+# game/murdochroute4.rpy:4050
+translate Tchinese dahliasuccess_822de030:
+
+    # nei "\"It wouldn’t hurt to make sure.\""
+    nei "確認一下也沒壞處。"
+
+# game/murdochroute4.rpy:4052
+translate Tchinese dahliasuccess_4c0faea0:
+
+    # m "\"Yeah, that’s what I’m sayin’.\""
+    m "對啊，我就這意思。"
+
+# game/murdochroute4.rpy:4054
+translate Tchinese dahliasuccess_fed48b1d:
+
+    # nei "\"Fear isn’t becoming of you, Jim.\""
+    nei "你可不是膽小怕事的人啊，Jim。"
+
+# game/murdochroute4.rpy:4057
+translate Tchinese dahliasuccess_518e3829:
+
+    # ji "\"Asking for rational explanation for something risky isn’t fear.\""
+    ji "對危險事項要求合理解釋才不是害怕。"
+
+# game/murdochroute4.rpy:4061
+translate Tchinese dahliasuccess_2b35989a:
+
+    # reu "\"What manner of pussy talk is this?\""
+    reu "你說這啥孬種話啊？"
+
+# game/murdochroute4.rpy:4063
+translate Tchinese dahliasuccess_cb44c247:
+
+    # ji "\"...\""
+    ji "……"
+
+# game/murdochroute4.rpy:4067
+translate Tchinese dahliasuccess_41a36f95:
+
+    # lu "\"I don’t like the way that basement smells.\""
+    lu "我不喜歡那地下室的味道。"
+
+# game/murdochroute4.rpy:4068
+translate Tchinese dahliasuccess_28ec4553:
+
+    # lu "\"It’s an evil kinda smell.\""
+    lu "那是一種邪門的味道。"
+
+# game/murdochroute4.rpy:4069
+translate Tchinese dahliasuccess_2d51183d:
+
+    # "A few of us flinch when we hear Lucy’s voice."
+    "Lucy開口時嚇了幾個人一跳。"
+
+# game/murdochroute4.rpy:4070
+translate Tchinese dahliasuccess_c6a087ef:
+
+    # "She’s so quiet that a few of us had forgotten she was here."
+    "她實在太安靜，都已經有些人忘了她在場了。"
+
+# game/murdochroute4.rpy:4072
+translate Tchinese dahliasuccess_2300d693:
+
+    # lu "\"I ain’t going down there.\""
+    lu "我不會下去。"
+
+# game/murdochroute4.rpy:4075
+translate Tchinese dahliasuccess_98d84b06:
+
+    # nei "\"I don’t think anybody expected you to, my dear.\""
+    nei "應該也不會有人期望妳去，親愛的。"
+
+# game/murdochroute4.rpy:4078
+translate Tchinese dahliasuccess_4c305a2b:
+
+    # "Cynthia puts her paw on her temple."
+    "Cynthia一爪拄著太陽穴。"
+
+# game/murdochroute4.rpy:4079
+translate Tchinese dahliasuccess_deef8fe8:
+
+    # "It’s something she does whenever she’s very irritated."
+    "這是她非常不爽時的舉動。"
+
+# game/murdochroute4.rpy:4081
+translate Tchinese dahliasuccess_598a2030:
+
+    # cy "\"...right.\""
+    cy "……行吧。"
+
+# game/murdochroute4.rpy:4083
+translate Tchinese dahliasuccess_ce24fbf8:
+
+    # cy "\"But does it make sense to leave the front exposed?\""
+    cy "但有道理放著正門不管嗎？"
+
+# game/murdochroute4.rpy:4085
+translate Tchinese dahliasuccess_ca580b7e:
+
+    # cy "\"...how about the men go {i}downstairs{/i} and the women stay {i}upstairs?{/i}\""
+    cy "……要不男人{i}下去{/i}，女人留在{i}樓上{/i}如何？"
+
+# game/murdochroute4.rpy:4087
+translate Tchinese dahliasuccess_ca6f2486:
+
+    # cy "\"I don’t think it’s a bad idea to keep a lookout for looters, and we can take sleeping shifts.\""
+    cy "留人看門防賊很合理，可以輪流補眠。"
+
+# game/murdochroute4.rpy:4097
+translate Tchinese dahliasuccess_1733e6c9:
+
+    # bl "\"I’m not staying up here.\""
+    bl "我不要留在樓上。"
+
+# game/murdochroute4.rpy:4101
+translate Tchinese dahliasuccess_2dad29e4:
+
+    # "Cynthia gives her a stupefied look."
+    "Cynthia目瞪口呆地望向她。"
+
+# game/murdochroute4.rpy:4103
+translate Tchinese dahliasuccess_89ba3473:
+
+    # cy "\"But {i}why?{/i}\""
+    cy "這又是{i}為什麼？{/i}"
+
+# game/murdochroute4.rpy:4105
+translate Tchinese dahliasuccess_96462298:
+
+    # bl "\"Because at this point I need to know everything I can about this goddamn school.\""
+    bl "事到如今，我要盡可能了解這間該死的學校。"
+
+# game/murdochroute4.rpy:4110
+translate Tchinese dahliasuccess_e4cdd47c:
+
+    # bl "\"Don’t you see that something is very wrong here?\""
+    bl "妳難道看不出這裡大有問題嗎？"
+
+# game/murdochroute4.rpy:4113
+translate Tchinese dahliasuccess_41445181:
+
+    # cy "\"I can know something’s wrong without needing to prod it with a stick.\""
+    cy "就算不伸木棍打探，我也能知道有問題。"
+
+# game/murdochroute4.rpy:4115
+translate Tchinese dahliasuccess_e1f7f9c7:
+
+    # bl "\"Maybe try using a knife sometime.\""
+    bl "那妳偶爾換成用刀刺探吧。"
+
+# game/murdochroute4.rpy:4117
+translate Tchinese dahliasuccess_a57447f4:
+
+    # bl "\"That’s the only way to get what you want sometimes.\""
+    bl "有時候，為了得到想要的東西只能這麼做。"
+
+# game/murdochroute4.rpy:4119
+translate Tchinese dahliasuccess_4ef51f74:
+
+    # cy "\"Not the sort of things I want.\""
+    cy "我想要的東西，可不是這種事。"
+
+# game/murdochroute4.rpy:4121
+translate Tchinese dahliasuccess_dde67164:
+
+    # cy "\"Me and Lucy are staying upstairs.\""
+    cy "我和Lucy會留在樓上。"
+
+# game/murdochroute4.rpy:4126
+translate Tchinese dahliasuccess_32ce4429:
+
+    # mu "\"I think it’s a good idea to keep a lookout anyway.\""
+    mu "無論如何，留人把守是個好主意。"
+
+# game/murdochroute4.rpy:4130
+translate Tchinese dahliasuccess_f395e56d:
+
+    # cy "\"If it’s just the two of us we aren’t going to be able to take breaks or check on the rest of you.\""
+    cy "要是只有我們兩個，就沒法休息或去查看你們的情況了。"
+
+# game/murdochroute4.rpy:4132
+translate Tchinese dahliasuccess_047c8812:
+
+    # m "\"If...\""
+    m "要是……"
+
+# game/murdochroute4.rpy:4134
+translate Tchinese dahliasuccess_c5eb1ee3:
+
+    # "I do a quick count of everybody coming."
+    "我草草數了一下要去的人。"
+
+# game/murdochroute4.rpy:4136
+translate Tchinese dahliasuccess_c71b288a:
+
+    # m "\"Eight people manage to get in trouble, you shouldn’t come down for us anyway.\""
+    m "八個人去都全出事了，我看妳們也甭來找人了。"
+
+# game/murdochroute4.rpy:4138
+translate Tchinese dahliasuccess_60309c65:
+
+    # ra "\"Nine people, but agreed.\""
+    ra "九個人，但我有同感。"
+
+# game/murdochroute4.rpy:4140
+translate Tchinese dahliasuccess_f92b4d20:
+
+    # ra "\"I think it’s safe to say you can’t take whatever got us.\""
+    ra "想必妳們也沒法應付兇手。"
+
+# game/murdochroute4.rpy:4142
+translate Tchinese dahliasuccess_863a2b40:
+
+    # cy "\"Just be careful, Sam.\""
+    cy "小心點啊，Sam。"
+
+# game/murdochroute4.rpy:4144
+translate Tchinese dahliasuccess_69f248f9:
+
+    # m "\"I feel good about the odds Cynthia.\""
+    m "我覺得勝算還不錯，Cynthia。"
+
+# game/murdochroute4.rpy:4146
+translate Tchinese dahliasuccess_828374c6:
+
+    # cy "\"You be surprised how quickly mistakes can stack up.\""
+    cy "怕你是不知道所謂一步錯，步步錯。"
+
+# game/murdochroute4.rpy:4148
+translate Tchinese dahliasuccess_689b3ac6:
+
+    # cy "\"Some things are better off not knowing, if it means you don’t piss off the wrong person.\""
+    cy "有些事情還是不要知道比較好，免得惹錯人。"
+
+# game/murdochroute4.rpy:4150
+translate Tchinese dahliasuccess_e42ee7d6:
+
+    # m "\"I suppose the same goes when people get left in the dark for too long.\""
+    m "要是被人蒙在鼓裡太久，那也是一樣。"
+
+# game/murdochroute4.rpy:4152
+translate Tchinese dahliasuccess_bc267737:
+
+    # m "\"Now I know this isn’t going to sound {i}sensible{/i}...\""
+    m "我知道這聽起來不太合理……"
+
+# game/murdochroute4.rpy:4154
+translate Tchinese dahliasuccess_5659f183:
+
+    # m "\"But I think Lucy was onto something when she thought there was something wrong with that basement.\""
+    m "但我覺得Lucy說那地下室有問題是對的。"
+
+# game/murdochroute4.rpy:4156
+translate Tchinese dahliasuccess_8785f4bc:
+
+    # "I don’t know how to tell her that both Murdoch and Blithe were reading Dahlia’s messages."
+    "我不知道該怎麼告訴她Murdoch和Blithe都解讀了Dahlia的訊息。"
+
+# game/murdochroute4.rpy:4158
+translate Tchinese dahliasuccess_c12191dd:
+
+    # "She knows something that she wanted somebody to find."
+    "她知道一些事，並希望有人能發現。"
+
+# game/murdochroute4.rpy:4160
+translate Tchinese dahliasuccess_cf19c923:
+
+    # "But for some reason she could never just come out and say it."
+    "但不知為何，她從不直說。"
+
+# game/murdochroute4.rpy:4162
+translate Tchinese dahliasuccess_edd0c7a4:
+
+    # "She’s afraid about it getting traced back to her."
+    "她是怕會被人追查到她身上。"
+
+# game/murdochroute4.rpy:4164
+translate Tchinese dahliasuccess_3440caa5:
+
+    # "But why?"
+    "但這又是為什麼？"
+
+# game/murdochroute4.rpy:4166
+translate Tchinese dahliasuccess_d504f6b0:
+
+    # m "\"Just trust me when I say this...\""
+    m "總之聽我說……"
+
+# game/murdochroute4.rpy:4168
+translate Tchinese dahliasuccess_276ff9f9:
+
+    # m "\"...I don’t feel like any force on heaven or on earth could stop some of them from gettin’ through that door.\""
+    m "……我感覺天地間都無力阻止某些存在穿過那扇門。"
+
+# game/murdochroute4.rpy:4170
+translate Tchinese dahliasuccess_867d8701:
+
+    # "Something about the way I said that must have scared her."
+    "她好像被我的說法嚇到了。"
+
+# game/murdochroute4.rpy:4172
+translate Tchinese dahliasuccess_06feb4cf:
+
+    # cy "\"Jesus.\""
+    cy "天啊。"
+
+# game/murdochroute4.rpy:4174
+translate Tchinese dahliasuccess_75d0667b:
+
+    # "She puts her hands on her hips, sighing with exasperation."
+    "她雙手叉腰，惱怒嘆氣。"
+
+# game/murdochroute4.rpy:4175
+translate Tchinese dahliasuccess_1f2c9a81:
+
+    # cy "\"...okay.\""
+    cy "……那好吧。"
+
+# game/murdochroute4.rpy:4176
+translate Tchinese dahliasuccess_1a61daaf:
+
+    # cy "\"Can you promise that you won’t let anybody know Lucy and I are here if you get caught?\""
+    cy "能答應我，要是你們真被抓了，別把我和Lucy供出來嗎？"
+
+# game/murdochroute4.rpy:4177
+translate Tchinese dahliasuccess_896f681c:
+
+    # cy "\"Can you at least promise that?\""
+    cy "可以至少保證這點嗎？"
+
+# game/murdochroute4.rpy:4178
+translate Tchinese dahliasuccess_7edb3c26:
+
+    # m "\"Well, there {i}are{/i} eight of us--\""
+    m "呃，我們{i}有{/i}八個人——"
+
+# game/murdochroute4.rpy:4180
+translate Tchinese dahliasuccess_909b3ca5:
+
+    # ra "\"{i}Nine{/i}.\""
+    ra "{i}九個。{/i}"
+
+# game/murdochroute4.rpy:4182
+translate Tchinese dahliasuccess_596aae0c:
+
+    # m "\"...\""
+    m "……"
+
+# game/murdochroute4.rpy:4183
+translate Tchinese dahliasuccess_354cf154:
+
+    # m "\"Nobody will know because of me.\""
+    m "我反正是不會說的。"
+
+# game/murdochroute4.rpy:4184
+translate Tchinese dahliasuccess_2614316f:
+
+    # m "\"Lock the door behind us.\""
+    m "我們出發後，把門鎖上。"
+
+# game/murdochroute4.rpy:4185
+translate Tchinese dahliasuccess_0b62e41b:
+
+    # cy "\"Already planned to.\""
+    cy "我本來就是這個打算。"
+
+# game/murdochroute4.rpy:4189
+translate Tchinese dahliasuccess_858ea818:
+
+    # "One by one, we descend into the basement."
+    "我們一個接一個走下地下室。"
+
+# game/murdochroute4.rpy:4191
+translate Tchinese dahliasuccess_c56a1f5e:
+
+    # "The stairs creak beneath us quietly."
+    "階梯在我們腳下輕聲吱嘎作響。"
+
+# game/murdochroute4.rpy:4193
+translate Tchinese dahliasuccess_127dd781:
+
+    # "I don’t know if it’s just paranoia or the real sensation, but I do feel like we’re being watched."
+    "我不確定是出於恐慌還是真實的感受，但感覺我們正被盯著。"
+
+# game/murdochroute4.rpy:4194
+translate Tchinese dahliasuccess_77c1e5c6:
+
+    # "Melissa points out where the false shelf was and {nw}"
+    "Melissa指出假架子的位置後，{nw}"
+
+# game/murdochroute4.rpy:4198
+translate Tchinese dahliasuccess_0f15615b:
+
+    # extend "we pull it back."
+    extend "我們把它拉開。"
+
+# game/murdochroute4.rpy:4199
+translate Tchinese dahliasuccess_f2d8c0ed:
+
+    # "The metal door gleams back at us."
+    "金屬門朝我們反光。"
+
+# game/murdochroute4.rpy:4200
+translate Tchinese dahliasuccess_657d5de7:
+
+    # "The corridor behind it is too dark to see how far it goes."
+    "門後的走廊暗到看不出有多長。"
+
+# game/murdochroute4.rpy:4202
+translate Tchinese dahliasuccess_6d4fb261:
+
+    # "I see a lock with four dials."
+    "有一把四位數字的密碼鎖。"
+
+# game/murdochroute4.rpy:4203
+translate Tchinese dahliasuccess_add3cf57:
+
+    # "All I have to do is put in the right numbers."
+    "只要輸入正確的數字就好。"
+
+# game/murdochroute4.rpy:4204
+translate Tchinese dahliasuccess_175b1271:
+
+    # "Dahlia's riddle is still fresh in my mind."
+    "Dahlia的謎語我還記憶猶新。"
+
+# game/murdochroute4.rpy:4205
+translate Tchinese dahliasuccess_295d97ce:
+
+    # "{i}There is a Canis Major and a Canis Minor. Orion has a Belt. Its handle is Polaris. He is God’s brightest angel.{/i}"
+    "{i}大犬座與小犬座雙雙存在。獵戶座有條腰帶。以北極星作為把手。他乃是神最光耀的天使。{/i}"
+
+# game/murdochroute4.rpy:4206
+translate Tchinese dahliasuccess_151e923b:
+
+    # "I suck in air as I grab hold of the lock in my hand."
+    "我深吸一口氣，握住手中的鎖。"
+
+# game/murdochroute4.rpy:4212
+translate Tchinese basementlock_16ab8929:
+
+    # "I feel a click."
+    "感覺到喀擦一聲。"
+
+# game/murdochroute4.rpy:4219
+translate Tchinese basementlock_c33484d2:
+
+    # "The lock won't budge."
+    "鎖不為所動。"
+
+# game/murdochroute4.rpy:4224
+translate Tchinese basementlock_a20cefa7:
+
+    # "..."
+    "……"
+
+# game/murdochroute4.rpy:4229
+translate Tchinese basementlock_fb6e33a2:
+
+    # "Shit."
+    "我操。"
+
+# game/murdochroute4.rpy:4230
+translate Tchinese basementlock_4f6499cf:
+
+    # "It just won’t open."
+    "死活打不開。"

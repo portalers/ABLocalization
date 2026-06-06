@@ -13588,3 +13588,11 @@ translate Tchinese after_sw1_51afd4df:
 
     # sc "\"On it, Madam.\""
     sc "我這就去，夫人。"
+# TODO: Translation updated at 2026-06-05 10:23
+
+# game/williamroute2.rpy:964
+translate Tchinese williamroute2_ac36ce9b:
+
+    # "The blue eyes of a badger bodyguard are watching me from the passenger seat."
+    ""
+

@@ -53388,3 +53388,95 @@ translate Tchinese marcymerge_fec97169:
 
     # "To be continued..."
     "未完待續……"
+# TODO: Translation updated at 2026-06-05 10:23
+
+# game/williamroute3.rpy:2678
+translate Tchinese endofwillstaginterviews2_882a9fba:
+
+    # bartre "\"What will it be?\""
+    bartre ""
+
+# game/williamroute3.rpy:2686
+translate Tchinese endofwillstaginterviews2_c5dc23d7:
+
+    # bartre "\"Comin’ right up...\""
+    bartre ""
+
+# game/williamroute3.rpy:2690
+translate Tchinese endofwillstaginterviews2_cd3663ca:
+
+    # bartre "\"Ain't it a bit early for that?\""
+    bartre ""
+
+# game/williamroute3.rpy:2697
+translate Tchinese endofwillstaginterviews2_4d4553d7:
+
+    # bartre "\"Hey, I know you.\""
+    bartre ""
+
+# game/williamroute3.rpy:2701
+translate Tchinese endofwillstaginterviews2_9d82b45c:
+
+    # bartre "\"You’re Sheriff Adler.\""
+    bartre ""
+
+# game/williamroute3.rpy:2706
+translate Tchinese endofwillstaginterviews2_36707ad5:
+
+    # bartre "\"How come you’re not wearing your badge?\""
+    bartre ""
+
+# game/williamroute3.rpy:2712
+translate Tchinese endofwillstaginterviews2_6b50a489:
+
+    # bartre "\"Your drink will be right up.\""
+    bartre ""
+
+# game/williamroute3.rpy:2714
+translate Tchinese endofwillstaginterviews2_bde5b10d:
+
+    # "He hurries away and{nw}"
+    ""
+
+# game/williamroute3.rpy:2716
+translate Tchinese endofwillstaginterviews2_f1d6097f:
+
+    # extend " I can feel the breath leaving my lungs."
+    extend ""
+
+# game/williamroute3.rpy:12433
+translate Tchinese samwill5_c0527dea:
+
+    # "A full, gold glass of rye smellin’ whiskey gets placed in front {nw}"
+    ""
+
+# game/williamroute3.rpy:12435
+translate Tchinese samwill5_e5a17fd8:
+
+    # extend "of me."
+    extend ""
+
+# game/williamroute3.rpy:13301
+translate Tchinese skipkane_72949149:
+
+    # bartre "\"More pints?\""
+    bartre ""
+
+# game/williamroute3.rpy:13404
+translate Tchinese skipkane_40d6d308:
+
+    # bartre "\"I'll go do that then...\""
+    bartre ""
+
+# game/williamroute3.rpy:13992
+translate Tchinese swn_83dfc41e:
+
+    # "Sam puts his hands on my shoulders to get me down on my knees{nw}"
+    ""
+
+# game/williamroute3.rpy:13994
+translate Tchinese swn_f85a9450:
+
+    # extend " and Nik walks up."
+    extend ""
+

@@ -46251,3 +46251,29 @@ translate Tchinese sny4_9c0c56cb:
     # "Something big, and stone-colored dangles from the ceiling,{nw}"
     ""
 
+# TODO: Translation updated at 2026-06-05 10:23
+
+# game/nikroute3.rpy:10902
+translate Tchinese caveinchoice_66120fbf:
+
+    # badeli "\"Yeah.\""
+    badeli ""
+
+# game/nikroute3.rpy:10905
+translate Tchinese caveinchoice_24f920d3:
+
+    # badeli "\"Thought I heard voices too.\""
+    badeli ""
+
+# game/nikroute3.rpy:10909
+translate Tchinese caveinchoice_ad04b2b8:
+
+    # badeli "\"Doesn’t mean there wasn’t none.\""
+    badeli ""
+
+# game/nikroute3.rpy:10915
+translate Tchinese caveinchoice_08076638:
+
+    # badeli "\"Wasn’t wasted if I hit one of ‘em.\""
+    badeli ""
+

@@ -36369,3 +36369,1409 @@ translate Tchinese strings:
     # game/murdochroute3.rpy:9281
     old "Approach Reubin."
     new "去找Reubin。"
+# TODO: Translation updated at 2026-06-05 10:23
+
+# game/murdochroute3.rpy:15
+translate Tchinese murdochroute3_1b00a1e7:
+
+    # "I’m so surprised by this man’s appearance I have to bite my own tongue to keep myself from letting loose an unholy string of expletives. "
+    ""
+
+# game/murdochroute3.rpy:653
+translate Tchinese murdochroute3a_3aee91ef:
+
+    # "Then we hear Mrs. Byrnes’s voice before we see her."
+    ""
+
+# game/murdochroute3.rpy:835
+translate Tchinese murdochroute3a_2a9e191e:
+
+    # "Murdoch gives Ralph a look that says {i}please don’t{/i} without speaking it aloud."
+    ""
+
+# game/murdochroute3.rpy:1756
+translate Tchinese murdochroute3a_83e95d89:
+
+    # mu "\"My sides have never hurt this much from laughing\""
+    mu ""
+
+# game/murdochroute3.rpy:1886
+translate Tchinese murdochroute3a_8836f20b:
+
+    # dh "\"They never maintain the potter’s fields.\""
+    dh ""
+
+# game/murdochroute3.rpy:2083
+translate Tchinese murdochroute3a_6099dc7b:
+
+    # "I walk up to read the grave he’s looking at."
+    ""
+
+# game/murdochroute3.rpy:2084
+translate Tchinese murdochroute3a_08e7f4a4:
+
+    # "It’s one of those plain grave stones with only the surname on it."
+    ""
+
+# game/murdochroute3.rpy:2105
+translate Tchinese murdochroute3a_3f06b0af:
+
+    # "It’s the time of night where lights are still on in folks’ houses but the streets are empty enough to enjoy a private stroll."
+    ""
+
+# game/murdochroute3.rpy:2404
+translate Tchinese murdochroute3a_1f2f0079:
+
+    # "I can tell he’s holding back laughter."
+    ""
+
+# game/murdochroute3.rpy:3435
+translate Tchinese murdochroute3b_1ef331f6:
+
+    # "It’s the younger sister."
+    ""
+
+# game/murdochroute3.rpy:3436
+translate Tchinese murdochroute3b_f85e7933:
+
+    # m "\"Truth be told I’m surprised they ain’t awake, considerin’ all the yellin’.\""
+    m ""
+
+# game/murdochroute3.rpy:3605
+translate Tchinese murdochroute3b_ddb1f19e:
+
+    # "Murdoch is staring, but it’s a placid kind of look."
+    ""
+
+# game/murdochroute3.rpy:3606
+translate Tchinese murdochroute3b_c8467a02:
+
+    # "Whether it’s true or not don’t matter."
+    ""
+
+# game/murdochroute3.rpy:3608
+translate Tchinese murdochroute3b_fe9a7478:
+
+    # "But he’s wounded."
+    ""
+
+# game/murdochroute3.rpy:3779
+translate Tchinese murdochroute3b_dcde1317:
+
+    # "It’s barely louder than a whisper."
+    ""
+
+# game/murdochroute3.rpy:3785
+translate Tchinese murdochroute3b_3373b097:
+
+    # "It’s not a very big rock; it’s fairly light, and it fits in the center of my palm pretty easily."
+    ""
+
+# game/murdochroute3.rpy:3904
+translate Tchinese murdochroute3b_abfd44d0:
+
+    # mu "\"They don’t even consider the Briggses or the Hendrickses to be particularly wealthy.\""
+    mu ""
+
+# game/murdochroute3.rpy:4433
+translate Tchinese murdochroute3b_c7819f5d:
+
+    # "Nonetheless, she’d have to know this was here, wouldn’t she?"
+    ""
+
+# game/murdochroute3.rpy:4691
+translate Tchinese murdochroute3b_d58bfeda:
+
+    # "As I ask myself this, I come across another suitcase that’s thinner than the last one."
+    ""
+
+# game/murdochroute3.rpy:5332
+translate Tchinese murdochroute3b_d35e71c0:
+
+    # "She lets out a small laugh and turns to her mother, but Gretchen has eyes only for the Madame."
+    ""
+
+# game/murdochroute3.rpy:5618
+translate Tchinese murdochroute3b_4f49f117:
+
+    # "He’s changed his look slightly."
+    ""
+
+# game/murdochroute3.rpy:5634
+translate Tchinese murdochroute3b_65abdad3:
+
+    # "{font=font/forbid.ttf}{i}Don’t wake those who sleep, child.{/i}{font}"
+    ""
+
+# game/murdochroute3.rpy:5951
+translate Tchinese murdochroute3b_8d7ba9f0:
+
+    # "I wipe my brow and glance left and right to make sure everybody’s where they’re supposed to be."
+    ""
+
+# game/murdochroute3.rpy:5952
+translate Tchinese murdochroute3b_98709ad0:
+
+    # "Everybody who’s present, anyway."
+    ""
+
+# game/murdochroute3.rpy:5964
+translate Tchinese murdochroute3b_1dde35d2:
+
+    # "She’s as radiant as ever, especially standing next to her father."
+    ""
+
+# game/murdochroute3.rpy:6102
+translate Tchinese murdochroute3c_941d853e:
+
+    # gr "\"Obviously somebody has to. Hendricks's manor is huge. If the fire’s not taken care of soon there will be a lot of smoke damage.\""
+    gr ""
+
+# game/murdochroute3.rpy:6203
+translate Tchinese murdochroute3c_3b0287ff:
+
+    # "We tend to keep finding things that we shouldn’t be finding in them here."
+    ""
+
+# game/murdochroute3.rpy:6207
+translate Tchinese murdochroute3c_14f64198:
+
+    # "If somebody wanted to hide a trap door or cover something up with plywood, then they probably--"
+    ""
+
+# game/murdochroute3.rpy:6249
+translate Tchinese murdochroute3c_61061397:
+
+    # m "\"...You think there’s a false wall somewhere in this room?\""
+    m ""
+
+# game/murdochroute3.rpy:6257
+translate Tchinese murdochroute3c_4317bb55:
+
+    # m "\"...Anyway, how come you didn’t go back to the Hip?\""
+    m ""
+
+# game/murdochroute3.rpy:6287
+translate Tchinese murdochroute3c_32fe5770:
+
+    # "I know she’s jokin’, but there’s some bite to how she says {i}burn.{/i}"
+    ""
+
+# game/murdochroute3.rpy:6297
+translate Tchinese murdochroute3c_64cb072b:
+
+    # ra "Listen, me and Murdoch gotta talk with you."
+    ra ""
+
+# game/murdochroute3.rpy:6299
+translate Tchinese murdochroute3c_f1a0c0b2:
+
+    # "He gives Cynthia a look-over, then speaks to me."
+    ""
+
+# game/murdochroute3.rpy:6301
+translate Tchinese murdochroute3c_8db7c0a3:
+
+    # ra "It’s private."
+    ra ""
+
+# game/murdochroute3.rpy:6305
+translate Tchinese murdochroute3c_170d8caa:
+
+    # cy "I’m not much one for gossip."
+    cy ""
+
+# game/murdochroute3.rpy:6307
+translate Tchinese murdochroute3c_03e8cc04:
+
+    # ra "...I mean it’s sensitive stuff. It would be indecent."
+    ra ""
+
+# game/murdochroute3.rpy:6309
+translate Tchinese murdochroute3c_474357c8:
+
+    # cy "I’m not so modest, so that sounds good to me."
+    cy ""
+
+# game/murdochroute3.rpy:6312
+translate Tchinese murdochroute3c_08275099:
+
+    # "Ralph blinks, so she continues."
+    ""
+
+# game/murdochroute3.rpy:6314
+translate Tchinese murdochroute3c_8785bb06:
+
+    # cy "I suspect the wait down here will be boring otherwise."
+    cy ""
+
+# game/murdochroute3.rpy:6318
+translate Tchinese murdochroute3c_bb4bce25:
+
+    # cy "So?"
+    cy ""
+
+# game/murdochroute3.rpy:6339
+translate Tchinese murdochroute3c_b8cdc0e0:
+
+    # "Murduch puts his hands in his pocket and looks us over quickly."
+    ""
+
+# game/murdochroute3.rpy:6378
+translate Tchinese murdochroute3c_b114d5b1:
+
+    # cy "\"Miss Holly isn’t much for talking with help, sir.\""
+    cy ""
+
+# game/murdochroute3.rpy:6406
+translate Tchinese murdochroute3c_3545b9fd:
+
+    # cy "Miss Holly would pretend not to be bothered but I could tell she cared more about that."
+    cy ""
+
+# game/murdochroute3.rpy:6429
+translate Tchinese murdochroute3c_8ffe486b:
+
+    # ra "\"...So you know about it already, then?\""
+    ra ""
+
+# game/murdochroute3.rpy:6436
+translate Tchinese murdochroute3c_eb7da59f:
+
+    # cy "\"One day, and it was a Sunday if I recall, she said that phrase again {i}very calmly{/i} when I was clearing her drinks.\""
+    cy ""
+
+# game/murdochroute3.rpy:6440
+translate Tchinese murdochroute3c_81ef1ea6:
+
+    # cy "\"And then I said, I didn’t. Then she repeated that odd phrase, then patted my paw.\""
+    cy ""
+
+# game/murdochroute3.rpy:6473
+translate Tchinese murdochroute3c_ea2378bd:
+
+    # mu "\"What’s particularly scandalous is that the man hanged and convicted of these murders, John Begay, was a notable associate of CSCG’s original co-owner.\""
+    mu ""
+
+# game/murdochroute3.rpy:6477
+translate Tchinese murdochroute3c_4481ffbf:
+
+    # mu "\"Some accounts of the incident say Begay publicly claimed that he had an intimate affair with James Hendricks Sr., the grandfather of the current Hendricks in town.\""
+    mu ""
+
+# game/murdochroute3.rpy:6495
+translate Tchinese murdochroute3c_3a0afbb8:
+
+    # cy "\"So they were all either sick with something, or they were lying.\""
+    cy ""
+
+# game/murdochroute3.rpy:6529
+translate Tchinese murdochroute3c_cb3b0ab2:
+
+    # mu "\"That’s partly why women remain lower than a tenth of Echo’s population to this day, but it was even lower back then.\""
+    mu ""
+
+# game/murdochroute3.rpy:6534
+translate Tchinese murdochroute3c_78c392bf:
+
+    # "...What?"
+    ""
+
+# game/murdochroute3.rpy:6540
+translate Tchinese murdochroute3c_5610daac:
+
+    # "Why’s he bringing all of this up...?"
+    ""
+
+# game/murdochroute3.rpy:6550
+translate Tchinese murdochroute3c_48ae0590:
+
+    # m "\"...Did he do it?\""
+    m ""
+
+# game/murdochroute3.rpy:6554
+translate Tchinese murdochroute3c_e981f7d0:
+
+    # mu "\"They said they saw him in their houses, taking their things in the middle of the night, breathing loudly while they could see him but couldn’t move.\""
+    mu ""
+
+# game/murdochroute3.rpy:6563
+translate Tchinese murdochroute3c_1cf63235:
+
+    # cy "\"...Did any more lurid deaths happen after they got him?\""
+    cy ""
+
+# game/murdochroute3.rpy:6588
+translate Tchinese murdochroute3c_388cd7b0:
+
+    # mu "\"Echo wasn’t seen as a desirable place to live, even in spite of the work opportunities.\""
+    mu ""
+
+# game/murdochroute3.rpy:6609
+translate Tchinese murdochroute3c_9b3c2731:
+
+    # mu "\"James Hendricks Jr. invested heavily into tourism from 1893 until 1910, which more than influenced how things are in town in modern day.\""
+    mu ""
+
+# game/murdochroute3.rpy:6613
+translate Tchinese murdochroute3c_7eeba537:
+
+    # mu "\"Honestly, if it weren’t for Hendricks Jr., we’d both be out of a job.\""
+    mu ""
+
+# game/murdochroute3.rpy:6630
+translate Tchinese murdochroute3c_d8c60ed8:
+
+    # mu "\"But to get what my sister was telling you...\""
+    mu ""
+
+# game/murdochroute3.rpy:6739
+translate Tchinese murdochroute3c_d0f1b681:
+
+    # cy "\"I don’t mean any offense, Sam, but do you really think you’re the best person to?\""
+    cy ""
+
+# game/murdochroute3.rpy:6795
+translate Tchinese churchbasement_ea838303:
+
+    # "So I clear my voice and shift the weight from my left paw to my right."
+    ""
+
+# game/murdochroute3.rpy:6820
+translate Tchinese churchbasement_a04ef9bc:
+
+    # "I open my mouth to answer, but she interrupts me."
+    ""
+
+# game/murdochroute3.rpy:6837
+translate Tchinese churchbasement_64ce24fb:
+
+    # "But she’s fetched me to break up a brawl or toss out a drunk, once in a blue moon."
+    ""
+
+# game/murdochroute3.rpy:6962
+translate Tchinese churchbasement_55050ac6:
+
+    # ho "\"The boy who wasn’t really allowed to love things became the love of my life on July fourth, 1905.\""
+    ho ""
+
+# game/murdochroute3.rpy:6979
+translate Tchinese churchbasement_16714cbb:
+
+    # ho "\"There was a time in my life when I think I was more like my sister.\""
+    ho ""
+
+# game/murdochroute3.rpy:7041
+translate Tchinese churchbasement_5f0519bc:
+
+    # ho "\"They’ve both treated us worse ever since it happened.\""
+    ho ""
+
+# game/murdochroute3.rpy:7046
+translate Tchinese churchbasement_56b5b1c5:
+
+    # m "\"It just sounds to me like you’re more resentful of how they treat you than you are of your brother dying.\""
+    m ""
+
+# game/murdochroute3.rpy:7053
+translate Tchinese churchbasement_1b1a985f:
+
+    # m "\"...Maybe just a little bit.\""
+    m ""
+
+# game/murdochroute3.rpy:7081
+translate Tchinese churchbasement_962dfe13:
+
+    # ho "\"Riding it out might here might be the best chance to survive.\""
+    ho ""
+
+# game/murdochroute3.rpy:7088
+translate Tchinese churchbasement_1a9c4556:
+
+    # ho "\"I don’t have much else to say to you, Mr. Ayers.\""
+    ho ""
+
+# game/murdochroute3.rpy:7161
+translate Tchinese churchbasement_a50c73f3:
+
+    # ji "\"...Where to?\""
+    ji ""
+
+# game/murdochroute3.rpy:7178
+translate Tchinese churchbasement_d0c732c9:
+
+    # ji "\"Of course I do, if he’s going to be... family.\""
+    ji ""
+
+# game/murdochroute3.rpy:7207
+translate Tchinese churchbasement_e28104b5:
+
+    # ji "\"But the trains. We can’t--\""
+    ji ""
+
+# game/murdochroute3.rpy:7210
+translate Tchinese churchbasement_920ccdb3:
+
+    # m "\"Now that you’re off the hook, there’s no reason for you to stay.\""
+    m ""
+
+# game/murdochroute3.rpy:7231
+translate Tchinese churchbasement_b67696b9:
+
+    # ji "\"If he needs a safe place to sleep, then I can provide. For a while.\""
+    ji ""
+
+# game/murdochroute3.rpy:7278
+translate Tchinese neilandreubin_ded56b17:
+
+    # "I’ve noticed that he likes to complain."
+    ""
+
+# game/murdochroute3.rpy:7301
+translate Tchinese neilandreubin_c51e125c:
+
+    # nei "\"No tape recorders.\""
+    nei ""
+
+# game/murdochroute3.rpy:7309
+translate Tchinese neilandreubin_b550b27d:
+
+    # "His hands linger on the back of my head as he musses down some of the fur."
+    ""
+
+# game/murdochroute3.rpy:7312
+translate Tchinese neilandreubin_ce975ce7:
+
+    # "When the moment passes, he pats my cheek twice."
+    ""
+
+# game/murdochroute3.rpy:7339
+translate Tchinese neilandreubin_2c38b340:
+
+    # m "\"Where do you plan on going if they don’t start up tonight?\""
+    m ""
+
+# game/murdochroute3.rpy:7372
+translate Tchinese neilandreubin_a525924a:
+
+    # "When he delivers that line, he sounds like he’s speaking to a soldier."
+    ""
+
+# game/murdochroute3.rpy:7453
+translate Tchinese neilandreubin_40dd0077:
+
+    # m "\"Has Jim’s fiance every brought up anything to you called the calamities?\""
+    m ""
+
+# game/murdochroute3.rpy:7480
+translate Tchinese neilandreubin_72271458:
+
+    # m "\"If enough people believed that they had an excuse to act their worst.\""
+    m ""
+
+# game/murdochroute3.rpy:7481
+translate Tchinese neilandreubin_8288196b:
+
+    # m "\"What if they collectively seized that opportunity?\""
+    m ""
+
+# game/murdochroute3.rpy:7530
+translate Tchinese neilandreubin_94bc5d69:
+
+    # "There’s people I don’t know who I presume are workers from the school, friends of the family, and."
+    ""
+
+# game/murdochroute3.rpy:7531
+translate Tchinese neilandreubin_24f92a04:
+
+    # "There’s also the Sister with a stern face who’s circled by a concerned group of people."
+    ""
+
+# game/murdochroute3.rpy:7532
+translate Tchinese neilandreubin_a07ea5c4:
+
+    # "Then there’s the nervous Father looking over his pocket book who don’t look too thrilled by the idea of talking to anybody right now."
+    ""
+
+# game/murdochroute3.rpy:7533
+translate Tchinese neilandreubin_28753b65:
+
+    # "I’m not fond of the idea of traveling with catholic clergy considerin’ the natures of me and our {i}companions{/i} so far."
+    ""
+
+# game/murdochroute3.rpy:7534
+translate Tchinese neilandreubin_88daf9c3:
+
+    # ci "\"C’mere to me, Mr Ayers.\""
+    ci ""
+
+# game/murdochroute3.rpy:7537
+translate Tchinese neilandreubin_32a92c5a:
+
+    # ci "\"Saw ya sling yourself between my grandson, my granddaughter, and her hubby-to-be.\""
+    ci ""
+
+# game/murdochroute3.rpy:7539
+translate Tchinese neilandreubin_9c331d1f:
+
+    # ci "\"Hope nothin’ naughty, as it does nobody a bit of good to go effin’ and blindin’ in a church, even if it’s just the basement.\""
+    ci ""
+
+# game/murdochroute3.rpy:7548
+translate Tchinese neilandreubin_6b85e9fe:
+
+    # ci "\"Sure look, the trouble is that it’s very hard to solve even the easiest challenges when your brain’s all banjaxed from being too poor, too hungry, and too tired all of the time.\""
+    ci ""
+
+# game/murdochroute3.rpy:7562
+translate Tchinese neilandreubin_51798ec1:
+
+    # ci "\"The Good Book leaves no ambiguity on who holds dominion over the Earth, so who knows what sorts of access the most manky things in creation have to all aspects of our lives?\""
+    ci ""
+
+# game/murdochroute3.rpy:7575
+translate Tchinese neilandreubin_90c9b44f:
+
+    # "She leans a little close to me, lowering her voice."
+    ""
+
+# game/murdochroute3.rpy:7579
+translate Tchinese neilandreubin_cbab19e9:
+
+    # "...Why would she say something like that?"
+    ""
+
+# game/murdochroute3.rpy:7617
+translate Tchinese neilandreubin_8479d790:
+
+    # ci "\"You don’t strike me too much as an arrogant man, Mr. Ayers.\""
+    ci ""
+
+# game/murdochroute3.rpy:7656
+translate Tchinese neilandreubin_a95d40d7:
+
+    # mu "\"I know you’re picky with your conversation partners, Grandma.\""
+    mu ""
+
+# game/murdochroute3.rpy:7663
+translate Tchinese neilandreubin_9b3b82c5:
+
+    # mu "\"Mother and Father would be back by now, if they weren’t held up by something.\""
+    mu ""
+
+# game/murdochroute3.rpy:7678
+translate Tchinese neilandreubin_3fbfd4a7:
+
+    # "Priest" "\"I myself will not be staying due to my poor tolerance of harsh airs, though Sister Freda has volunteered to await the return of Mr. and Mrs. Byrnes.\""
+    "Priest" ""
+
+# game/murdochroute3.rpy:7710
+translate Tchinese neilandreubin_cc66a263:
+
+    # cy "\"There’s almost always something free, though the cheap rooms are usually taken without a reservation.\""
+    cy ""
+
+# game/murdochroute3.rpy:7731
+translate Tchinese neilandreubin_d2f3d13a:
+
+    # m "\"Do you want to come with us, Murdoch? Ralph?\""
+    m ""
+
+# game/murdochroute3.rpy:7735
+translate Tchinese neilandreubin_1f3eeedb:
+
+    # mu "\"I need to know where Grandma will be going first.\""
+    mu ""
+
+# game/murdochroute3.rpy:7872
+translate Tchinese neilandreubin_e5a64f88:
+
+    # "We change directions just a bit as a trio of tumbleweeds passes us by."
+    ""
+
+# game/murdochroute3.rpy:7993
+translate Tchinese neilandreubin_db0d9d74:
+
+    # cy "\"...Whoa.\""
+    cy ""
+
+# game/murdochroute3.rpy:7994
+translate Tchinese neilandreubin_6bff4e6b:
+
+    # m "\"...Yeah.\""
+    m ""
+
+# game/murdochroute3.rpy:8025
+translate Tchinese neilandreubin_9a0aab36:
+
+    # "I presume that they’re officers at first, considering they have uniforms, and they’re standing on the opposite side of wooden saw horses with the word ‘blockade’ printed on the wood."
+    ""
+
+# game/murdochroute3.rpy:8080
+translate Tchinese neilandreubin_6e807993:
+
+    # "When he says that, I can’t help but think that I haven’t heard from Nik in weeks."
+    ""
+
+# game/murdochroute3.rpy:8109
+translate Tchinese neilandreubin_6399acd8:
+
+    # "The one with dark fur shakes a floppy cactus leaf in one hand and waves a switch blade in the other, but the other girl emphatically shakes her head."
+    ""
+
+# game/murdochroute3.rpy:8138
+translate Tchinese neilandreubin_78022d07:
+
+    # "Me, Murdoch, Ralph, Cynthia, and Jim all watch the two girls go through the third row of blockades unnoticed, once again not drawing any attention."
+    ""
+
+# game/murdochroute3.rpy:8163
+translate Tchinese neilandreubin_15dd2587:
+
+    # nei "\"Why don’t you direct me to your superior officer?\""
+    nei ""
+
+# game/murdochroute3.rpy:8232
+translate Tchinese neilandreubin_931d1b41:
+
+    # "Cynthia sounds surprised, offended, and disappointed in equal measure."
+    ""
+
+# game/murdochroute3.rpy:8244
+translate Tchinese neilandreubin_6a60a775:
+
+    # m "\"Yeah, you go ahead. You really got me there.\""
+    m ""
+
+# game/murdochroute3.rpy:8252
+translate Tchinese neilandreubin_721c1a74:
+
+    # m "\"I ain’t even got anything against you, child. I just want my damn money!\""
+    m ""
+
+# game/murdochroute3.rpy:8265
+translate Tchinese neilandreubin_81d15a98:
+
+    # cy "\"What’s the tromping grounds.\""
+    cy ""
+
+# game/murdochroute3.rpy:8314
+translate Tchinese neilandreubin_86f3afc3:
+
+    # cy "\"What?\""
+    cy ""
+
+# game/murdochroute3.rpy:8319
+translate Tchinese neilandreubin_698b8a50:
+
+    # me "\"...Excuse me.\""
+    me ""
+
+# game/murdochroute3.rpy:8328
+translate Tchinese neilandreubin_e75e82aa:
+
+    # m "\"What, you know ‘em?\""
+    m ""
+
+# game/murdochroute3.rpy:8392
+translate Tchinese neilandreubin_9e4886a7:
+
+    # "Melissa nods, her hands trembling."
+    ""
+
+# game/murdochroute3.rpy:8408
+translate Tchinese neilandreubin_f4fc97e4:
+
+    # "I spin on the balls of my feet, turnin’ the corner again to get back to Murdoch, Ralph, and Jim’s group when there’s a shadow blocking my way."
+    ""
+
+# game/murdochroute3.rpy:8415
+translate Tchinese neilandreubin_1ba9b110:
+
+    # wi "\"Hope you don’t mind me eavesdropping.\""
+    wi ""
+
+# game/murdochroute3.rpy:8418
+translate Tchinese neilandreubin_d86c2add:
+
+    # m "\"I thought you’d be too busy to see, considerin’ whatever the hell’s going on right now.\""
+    m ""
+
+# game/murdochroute3.rpy:8483
+translate Tchinese neilandreubin_88972bbf:
+
+    # "I don’t think he’d be takin’ risks like that if he intended to stay in town."
+    ""
+
+# game/murdochroute3.rpy:8500
+translate Tchinese neilandreubin_b7754afd:
+
+    # m "\"...Do you know if he’s safe?\""
+    m ""
+
+# game/murdochroute3.rpy:8502
+translate Tchinese neilandreubin_b43ccea9:
+
+    # wi "\"I know he wasn’t at the rally when the National Guard arrived, if that’s what you’re asking.\""
+    wi ""
+
+# game/murdochroute3.rpy:8505
+translate Tchinese neilandreubin_82d7b95b:
+
+    # wi "\"But if he took a train out of town last night, there’s no damn way to follow up on that.\""
+    wi ""
+
+# game/murdochroute3.rpy:8594
+translate Tchinese neilandreubin_2c481723:
+
+    # mu "\"I saw you come from the same direction as Sheriff Adler.\""
+    mu ""
+
+# game/murdochroute3.rpy:8718
+translate Tchinese neilandreubin_f4e5483f:
+
+    # ji "\"That woman will let us book without your presence, right?\""
+    ji ""
+
+# game/murdochroute3.rpy:8740
+translate Tchinese neilandreubin_78dcafac:
+
+    # "I don’t think I’ve seen a man win a spar as hard as Jim just did ever before in my life."
+    ""
+
+# game/murdochroute3.rpy:8762
+translate Tchinese neilandreubin_97d350df:
+
+    # ra "\"Murdoch’s a big boy, Captain Ayers.\""
+    ra ""
+
+# game/murdochroute3.rpy:8763
+translate Tchinese neilandreubin_7aa1ce5a:
+
+    # ra "\"I think he can brave the horrors of his childhood home.\""
+    ra ""
+
+# game/murdochroute3.rpy:8769
+translate Tchinese neilandreubin_bc00775a:
+
+    # m "\"That goes for any of us who travel by ourselves.\""
+    m ""
+
+# game/murdochroute3.rpy:8771
+translate Tchinese neilandreubin_4ad49d9b:
+
+    # ra "\"Need me come and hold the white of your tail, Murdy?\""
+    ra ""
+
+# game/murdochroute3.rpy:8776
+translate Tchinese neilandreubin_9bf33a70:
+
+    # "He makes a gesture with his arm wrist before he takes a step backward and bows."
+    ""
+
+# game/murdochroute3.rpy:8782
+translate Tchinese neilandreubin_179454be:
+
+    # ra "\"If he says it won’t be long, then it won’t be long.\""
+    ra ""
+
+# game/murdochroute3.rpy:8820
+translate Tchinese neilandreubin_c46316d6:
+
+    # ra "\"Now come along. I can’t bear to be sober for another moment.\""
+    ra ""
+
+# game/murdochroute3.rpy:8830
+translate Tchinese neilandreubin_83149f80:
+
+    # "When we make our way inside, the tall red ears of a squirrel are pointing back at us."
+    ""
+
+# game/murdochroute3.rpy:8852
+translate Tchinese neilandreubin_e030ff2a:
+
+    # sc "\"I’m not one for speculation that causes more harm than good, nor givin’ strangers more good than harm if they don’t know my pay grade, if’n you know what I mean?\""
+    sc ""
+
+# game/murdochroute3.rpy:8854
+translate Tchinese neilandreubin_1ea24e4c:
+
+    # sc "\"‘Till we know what’s what, then all I plan to do is hunker down.\""
+    sc ""
+
+# game/murdochroute3.rpy:8913
+translate Tchinese neilandreubin_94170bc3:
+
+    # m "\"...What day?\""
+    m ""
+
+# game/murdochroute3.rpy:8916
+translate Tchinese neilandreubin_d93a30cb:
+
+    # ra "\"July fourth, 1905.\""
+    ra ""
+
+# game/murdochroute3.rpy:9021
+translate Tchinese neilandreubin_58448142:
+
+    # "I don’t want to leave Ralph alone, but I figure he’s not dumb enough to go outside by his own, even drunk."
+    ""
+
+# game/murdochroute3.rpy:9037
+translate Tchinese neilandreubin_9328e539:
+
+    # "When I get to her door, I knock with the back of my knuckles, just three raps."
+    ""
+
+# game/murdochroute3.rpy:9074
+translate Tchinese neilandreubin_3dd7cde4:
+
+    # lu "\"Now look at that pretty little smile!\""
+    lu ""
+
+# game/murdochroute3.rpy:9076
+translate Tchinese neilandreubin_850f0d1f:
+
+    # lu "\"That smile would turn the winter season, it would!\""
+    lu ""
+
+# game/murdochroute3.rpy:9084
+translate Tchinese neilandreubin_c7aff07d:
+
+    # "The door to Cynthia’s ladies opens."
+    ""
+
+# game/murdochroute3.rpy:9087
+translate Tchinese neilandreubin_9d872349:
+
+    # "I see a wetter, cleaner looking Blithe still wearing an expression as mean as it was."
+    ""
+
+# game/murdochroute3.rpy:9099
+translate Tchinese neilandreubin_f86f846c:
+
+    # lu "\"You keep that, little sister. It’s a much better color on you.\""
+    lu ""
+
+# game/murdochroute3.rpy:9103
+translate Tchinese neilandreubin_a47a44f7:
+
+    # m "\"You’re the one who knows the tunnels, right?\""
+    m ""
+
+# game/murdochroute3.rpy:9112
+translate Tchinese neilandreubin_cb706c7e:
+
+    # m "\"What if we have to go back through ‘em?\""
+    m ""
+
+# game/murdochroute3.rpy:9139
+translate Tchinese neilandreubin_01b7f5ed:
+
+    # bl "\"If I have to take her back into that god forsaken hole again, it’ll cost you dear.\""
+    bl ""
+
+# game/murdochroute3.rpy:9154
+translate Tchinese neilandreubin_3cd8fa61:
+
+    # cy "\"I was gonna offer to pitch in, but I don’t have that kind of money, Sam.\""
+    cy ""
+
+# game/murdochroute3.rpy:9288
+translate Tchinese neilreubinhip_44445e07:
+
+    # "Sometimes irritable men are the easiest to please, because they need relief the most."
+    ""
+
+# game/murdochroute3.rpy:9314
+translate Tchinese neilreubinhip_945cce6e:
+
+    # m "\"Mind if I sit with you in bed?\""
+    m ""
+
+# game/murdochroute3.rpy:9327
+translate Tchinese neilreubinhip_f9577f9a:
+
+    # nei "\"...Sit.\""
+    nei ""
+
+# game/murdochroute3.rpy:9329
+translate Tchinese neilreubinhip_528d240d:
+
+    # "I slip off my footwear, then bend my knees, slipping onto the opposite side of the bed with him and hearing the airy crunch of the clean, white blankets."
+    ""
+
+# game/murdochroute3.rpy:9336
+translate Tchinese neilreubinhip_714dee6b:
+
+    # "Mint is on his breath, and he’s still sharp with the clean smell of that ointment. The chemicals that linger there brush off on me."
+    ""
+
+# game/murdochroute3.rpy:9392
+translate Tchinese neilreubinhip_9f061b9a:
+
+    # "I slip off the bed again, bend my knees a bit, then crouch to the floor, spreading my legs to distribute the weight on my knees."
+    ""
+
+# game/murdochroute3.rpy:9447
+translate Tchinese neilreubinhip_275a340f:
+
+    # "And when I feel him get completely stiff, then feel the first ooze of warmth pressed against my temple, I figure that I made the right decision."
+    ""
+
+# game/murdochroute3.rpy:9458
+translate Tchinese neilreubinhip_617e07fe:
+
+    # "I let his smooth tip push its way past my lips, his pulse raging with the need to push forward."
+    ""
+
+# game/murdochroute3.rpy:9459
+translate Tchinese neilreubinhip_d6d52090:
+
+    # "The paw still on my head barely has to move with the way I’m pistoning on and off of him, as I’m rewarded with salty, sticky jolts on my tongue."
+    ""
+
+# game/murdochroute3.rpy:9522
+translate Tchinese neilreubinhip_e9ac69d1:
+
+    # "It’s hard to separate the scent of the dog’s dick and balls stuck on my nose from the sharp smell of my own growing neediness."
+    ""
+
+# game/murdochroute3.rpy:9531
+translate Tchinese neilreubinhip_57e33b4e:
+
+    # "And he pushes me down onto the floor boards."
+    ""
+
+# game/murdochroute3.rpy:9540
+translate Tchinese neilreubinhip_fd50cfd7:
+
+    # "He pushes me down closer."
+    ""
+
+# game/murdochroute3.rpy:9613
+translate Tchinese neilreubinhip_31900280:
+
+    # m "\"...Oh.\""
+    m ""
+
+# game/murdochroute3.rpy:9618
+translate Tchinese neilreubinhip_e8e58c38:
+
+    # "He pulls me in closer, as if he and I are entirely different men from the ones we were five seconds ago, and then pats me on the back."
+    ""
+
+# game/murdochroute3.rpy:9672
+translate Tchinese neilreubinhip_e06eba59:
+
+    # reu "\"Lead the way, Mr. Ayers.\""
+    reu ""
+
+# game/murdochroute3.rpy:9782
+translate Tchinese neilreubinhip_defee973:
+
+    # reu "\"A regular day at the office for me includes inducing men and women into sleep before cutting them open.\""
+    reu ""
+
+# game/murdochroute3.rpy:9837
+translate Tchinese neilreubinhip_b40be536:
+
+    # m "\"Right away, Doctor.\""
+    m ""
+
+# game/murdochroute3.rpy:9908
+translate Tchinese neilreubinhip_56c8208b:
+
+    # m "\"There’s nothing nastier than a sodomites dick in your mouth, is there?\""
+    m ""
+
+# game/murdochroute3.rpy:9914
+translate Tchinese neilreubinhip_28c07600:
+
+    # m "\"It all starts with just a lick, Doctor.\""
+    m ""
+
+# game/murdochroute3.rpy:9942
+translate Tchinese neilreubinhip_06eed7c5:
+
+    # "I want to call bullshit, but it’s hard to deny."
+    ""
+
+# game/murdochroute3.rpy:9943
+translate Tchinese neilreubinhip_03b7f430:
+
+    # "He’s found the right spot again."
+    ""
+
+# game/murdochroute3.rpy:9944
+translate Tchinese neilreubinhip_08180c46:
+
+    # "After every thrust, it’s plain to see I’m getting bigger."
+    ""
+
+# game/murdochroute3.rpy:9947
+translate Tchinese neilreubinhip_58254486:
+
+    # "He’s making me start to smell, too."
+    ""
+
+# game/murdochroute3.rpy:9949
+translate Tchinese neilreubinhip_8a78ff2c:
+
+    # reu "\"Think you can--endure much more-- Ayers?\""
+    reu ""
+
+# game/murdochroute3.rpy:9952
+translate Tchinese neilreubinhip_e6727a28:
+
+    # "He can smell the rut on me, obviously knowing that he’s the cause."
+    ""
+
+# game/murdochroute3.rpy:9982
+translate Tchinese neilreubinhip_804e80b8:
+
+    # m "\"Sure thing, Doctor.\""
+    m ""
+
+# game/murdochroute3.rpy:9994
+translate Tchinese neilreubinhip_01c34835:
+
+    # "\"He holds my cock in his paw and his muzzle goes over with less hesitancy than before."
+    ""
+
+# game/murdochroute3.rpy:9995
+translate Tchinese neilreubinhip_a5419959:
+
+    # "The slurps around my prick are just as messy sounding as they were beneath my tail, and the groans just a bestial."
+    ""
+
+# game/murdochroute3.rpy:10053
+translate Tchinese neilreubinhip_326d666f:
+
+    # "The insides of his ears go red."
+    ""
+
+# game/murdochroute3.rpy:10065
+translate Tchinese neilreubinhip_bf50c554:
+
+    # "Now that he’s felt my dick, he damn well needs it."
+    ""
+
+# game/murdochroute3.rpy:10071
+translate Tchinese neilreubinhip_8dbd04df:
+
+    # "I know I can’t stop it from happening."
+    ""
+
+# game/murdochroute3.rpy:10079
+translate Tchinese neilreubinhip_e4103524:
+
+    # m "\"Oh fuck, yes\""
+    m ""
+
+# game/murdochroute3.rpy:10082
+translate Tchinese neilreubinhip_77d5edeb:
+
+    # reu "\"Oh god.\""
+    reu ""
+
+# game/murdochroute3.rpy:10099
+translate Tchinese neilreubinhip_f95a0e01:
+
+    # "My hole feels wetter."
+    ""
+
+# game/murdochroute3.rpy:10111
+translate Tchinese neilreubinhip_6bac4df3:
+
+    # m "\"I said what are you doing?\""
+    m ""
+
+# game/murdochroute3.rpy:10141
+translate Tchinese neilreubinhip_6ec8557f:
+
+    # "My cum mats a bit in my fur as I start to work on it with the undersized towel."
+    ""
+
+# game/murdochroute3.rpy:10266
+translate Tchinese neilreubinhip_060d4acc:
+
+    # mu "\"It was last night... She showed up after...\""
+    mu ""
+
+# game/murdochroute3.rpy:10292
+translate Tchinese neilreubinhip_226a55a7:
+
+    # ra "\"We’re not asking for a character analysis, you musty fuck. We’re trying to figure out where she is.\""
+    ra ""
+
+# game/murdochroute3.rpy:10320
+translate Tchinese neilreubinhip_4b37f5eb:
+
+    # mu "\"...No.\""
+    mu ""
+
+# game/murdochroute3.rpy:10324
+translate Tchinese neilreubinhip_6ee376be:
+
+    # mu "\"...She’s at the school.\""
+    mu ""
+
+# game/murdochroute3.rpy:10330
+translate Tchinese neilreubinhip_acf3a350:
+
+    # ra "\"The observatory is her life’s achievement. I wouldn’t doubt she’s protective.\""
+    ra ""
+
+# game/murdochroute3.rpy:10383
+translate Tchinese neilreubinhip_373e3bc5:
+
+    # m "\"She strikes me as a somebody who knows how to speak for herself, Miss...?\""
+    m ""
+
+# game/murdochroute3.rpy:10508
+translate Tchinese neilreubinhip_c33d60ca:
+
+    # me "\"I don’t why, but I don’t like how it smells.\""
+    me ""
+
+# game/murdochroute3.rpy:10629
+translate Tchinese neilreubinhip_4171f3be:
+
+    # reu "\"Oh dear god, it’s a baby.\""
+    reu ""
+
+# game/murdochroute3.rpy:10660
+translate Tchinese neilreubinhip_70e4108e:
+
+    # ji "\"Bleed over {i}there{/i} if you must. You already know I’m not good with blood.\""
+    ji ""
+
+# game/murdochroute3.rpy:10671
+translate Tchinese neilreubinhip_8ebb7e6b:
+
+    # cy "\"This will help the bleeding, Mister...?\""
+    cy ""
+
+# game/murdochroute3.rpy:10711
+translate Tchinese neilreubinhip_811e1345:
+
+    # bl "\"The old potter's field is an option.\""
+    bl ""
+
+# game/murdochroute3.rpy:10717
+translate Tchinese neilreubinhip_9c530058:
+
+    # bl "\"Ain’t nothing for nobody out there, and if we need to change locations, they’s multiple escape routes.\""
+    bl ""
+
+# game/murdochroute3.rpy:10720
+translate Tchinese neilreubinhip_92a959e6:
+
+    # nei "\"I’m in favor of camping the train station.\""
+    nei ""
+
+# game/murdochroute3.rpy:10805
+translate Tchinese neilreubinhip_20529f81:
+
+    # cy "\"Not like we’re in a hurry, is it?\""
+    cy ""
+
+# game/murdochroute3.rpy:10825
+translate Tchinese neilreubinhip_bf59a0d6:
+
+    # cy "\"Very sorry, Mr. Rat.\""
+    cy ""
+
+# game/murdochroute3.rpy:10841
+translate Tchinese neilreubinhip_0052341d:
+
+    # bl "\"I don’t give a damn where we go, mister.\""
+    bl ""
+
+# game/murdochroute3.rpy:10998
+translate Tchinese neilreubinhip_3258eebf:
+
+    # reu "\"It wasn’t even likely for you to win. The heads side is heavier.\""
+    reu ""
+
+# game/murdochroute3.rpy:11001
+translate Tchinese neilreubinhip_fbaf0a98:
+
+    # ji "\"But it was likely for tails to keep winning that many times in a row?\""
+    ji ""
+
+# game/murdochroute3.rpy:11010
+translate Tchinese neilreubinhip_e24522fd:
+
+    # ji "\"Probably for the best, for a surgeon.\""
+    ji ""
+
+# game/murdochroute3.rpy:11158
+translate Tchinese neilreubinhip_20e9b405:
+
+    # "She swallows her spit before she continues."
+    ""
+
+# game/murdochroute3.rpy:11233
+translate Tchinese neilreubinhip_94bb2626:
+
+    # "Cynthia paused."
+    ""
+
+# game/murdochroute3.rpy:11281
+translate Tchinese neilreubinhip_27d66385:
+
+    # "As he turns, I can see now that his entire left arm is outstretched."
+    ""
+
+# game/murdochroute3.rpy:11338
+translate Tchinese neilreubinhip_d2af553a:
+
+    # m "\"...What do y’all mean?\""
+    m ""
+
+# game/murdochroute3.rpy:11357
+translate Tchinese neilreubinhip_b8c120fb:
+
+    # m "\"You don’t think Harlan {i}died{/i} in there, do you?\""
+    m ""
+
+# game/murdochroute3.rpy:11373
+translate Tchinese neilreubinhip_5d63c6df:
+
+    # sc "\"I couldn’t tell ya. It started almost as soon as you two came.\""
+    sc ""
+
+# game/murdochroute3.rpy:11391
+translate Tchinese neilreubinhip_367c9899:
+
+    # "So I slam it a second time and hear it splinter." with hpunch
+    "" with hpunch
+
+# game/murdochroute3.rpy:11405
+translate Tchinese neilreubinhip_f870abf0:
+
+    # "All I can see is a stacked pile of something that looks like it’s been stacked way too high, and that the insides of the windows have been shuttered by boards nailed into the wall."
+    ""
+
+# game/murdochroute3.rpy:11418
+translate Tchinese neilreubinhip_608171dc:
+
+    # "Cynthia’s screams carry up the hall to make Ralph poke his head down the stairs."
+    ""
+
+# game/murdochroute3.rpy:11431
+translate Tchinese neilreubinhip_a22108f4:
+
+    # "I find Ralph, Murdoch, Jim, his friends, and the two girls being shoved left and right while people try to crawl over one other to get down the stairs."
+    ""
+
+# game/murdochroute3.rpy:11454
+translate Tchinese neilreubinhip_e182179c:
+
+    # "We duck and cover our heads, expecting to protect ourselves from glass or stray furniture being used to make other exits."
+    ""
+
+# game/murdochroute3.rpy:11458
+translate Tchinese neilreubinhip_35820fe1:
+
+    # m "\"What the {i}fuck{/i} is going on?\""
+    m ""
+
+# game/murdochroute3.rpy:11459
+translate Tchinese neilreubinhip_c07b0258:
+
+    # cy "\"The Hip’s lost, Sam. We’ve got to get out of here!\""
+    cy ""
+
+# game/murdochroute3.rpy:11460
+translate Tchinese neilreubinhip_b637623b:
+
+    # m "\"How’s the Hip lost? It’s barely just been {i}assailed{/i}.\""
+    m ""
+
+# game/murdochroute3.rpy:11475
+translate Tchinese neilreubinhip_8387e697:
+
+    # "The front of it is covered in flames."
+    ""
+
+# game/murdochroute3.rpy:11476
+translate Tchinese neilreubinhip_df0e00cf:
+
+    # "The Hip isn’t the only place on fire."
+    ""
+
+# game/murdochroute3.rpy:11488
+translate Tchinese neilreubinhip_df77bfb3:
+
+    # ra "\"Paws off of him! Let him catch his breath!\""
+    ra ""
+
+# game/murdochroute3.rpy:11490
+translate Tchinese neilreubinhip_6ddd8ea0:
+
+    # "Ralph tries to push him off me, but the fox holds to the side of my lapel."
+    ""
+
+# game/murdochroute3.rpy:11505
+translate Tchinese neilreubinhip_8fbd5afd:
+
+    # reu "\"That’s farther away from the station than even here!\""
+    reu ""
+
+# game/murdochroute3.rpy:11509
+translate Tchinese neilreubinhip_87e84274:
+
+    # m "\"Come or don’t but that’s where we’re goin’!\""
+    m ""
+
+# game/murdochroute3.rpy:11533
+translate Tchinese neilreubinhip_122365d9:
+
+    # sc "\"We’re stayin’, love. The Madam will know what to do!\""
+    sc ""
+
+# game/murdochroute3.rpy:11547
+translate Tchinese neilreubinhip_54db8b2a:
+
+    # mu "\"...Sorry, but people will need to see how bad things got here.\""
+    mu ""
+
+# game/murdochroute3.rpy:11563
+translate Tchinese neilreubinhip_0d46e06c:
+
+    # "Cynthia grabs the wrist of her friend, and I sling Murdoch’s paw over my shoulders, following Melissa into the alleyway."
+    ""
+
+# game/murdochroute3.rpy:11577
+translate Tchinese neilreubinhip_3ee66f07:
+
+    # "Blithe jumps, cutting the cloth down as she hops, running through the hood and out the other end."
+    ""
+
+# game/murdochroute3.rpy:11627
+translate Tchinese neilreubinhip_e05a2b1f:
+
+    # "Jim, Reubin, Ralph, and Murdoch all reach into their pockets."
+    ""
+
+# game/murdochroute3.rpy:11650
+translate Tchinese neilreubinhip_43e28f8e:
+
+    # "Jim and his friends follow, while me, Ralph, and Murdoch cover the rear."
+    ""
+
+# game/murdochroute3.rpy:11724
+translate Tchinese neilreubinhip_45b7a25a:
+
+    # "Ralph and Murdoch each get beneath one of my shoulders."
+    ""
+
+# game/murdochroute3.rpy:11849
+translate Tchinese neilreubinhip_7c22f18e:
+
+    # ji "\"Now that we’re outside an impenetrable fortress, all we have to do is find a way inside. \""
+    ji ""
+
