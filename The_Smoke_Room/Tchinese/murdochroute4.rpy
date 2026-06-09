@@ -77,9 +77,9 @@ translate Tchinese murdochroute4_dc26e3f4:
     "樓上的木頭發出磨軋聲，像在懟她似的。"
 
 # game/murdochroute4.rpy:27
-translate Tchinese murdochroute4_68a24d6b:
+translate Tchinese murdochroute4_ed3424b3:
 
-    # me "\"...Do you really think we’re alone here Mr. Ayers?\""
+    # me "\"...Do you really think we’re alone here, Mr. Ayers?\""
     me "……你真的認為這裡只有我們在嗎，Ayers先生？"
 
 # game/murdochroute4.rpy:30
@@ -10158,12 +10158,6 @@ translate Tchinese strings:
 
 # TODO: Translation updated at 2026-06-05 10:23
 
-# game/murdochroute4.rpy:27
-translate Tchinese murdochroute4_ed3424b3:
-
-    # me "\"...Do you really think we’re alone here, Mr. Ayers?\""
-    me ""
-
 # game/murdochroute4.rpy:101
 translate Tchinese murdochroute4_db840078:
 
@@ -10768,7 +10762,7 @@ translate Tchinese dahliasuccess_d00d403a:
 translate Tchinese dahliasuccess_6f19d038:
 
     # m "\"Alright.\""
-    m ""
+    m "好。"
 
 # game/murdochroute4.rpy:3950
 translate Tchinese dahliasuccess_18d37fff:

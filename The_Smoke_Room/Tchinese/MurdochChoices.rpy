@@ -53,3 +53,12 @@ translate Tchinese strings:
 
     old "I need to try something different..."
     new "得試試別的答案……"
+
+    old "What's the lock combination?"
+    new "鎖的密碼是？"
+
+    old "Shit, there’s something missing."
+    new "操，還少了什麼。"
+
+    old "What am I missing?"
+    new "缺的是什麼？"

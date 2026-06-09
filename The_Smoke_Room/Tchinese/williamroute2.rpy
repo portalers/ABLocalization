@@ -2847,11 +2847,11 @@ translate Tchinese williamroute2_eacccdf1:
     # jam "\"Just drive around the block. I’ll let you know when to stop.\""
     jam "繞著這片街區開，我到時候會讓你停的。"
 
-# game/williamroute2.rpy:887
-translate Tchinese williamroute2_ec265d6a:
+# game/williamroute2.rpy:964
+translate Tchinese williamroute2_ac36ce9b:
 
-    # "The golden eyes of another wolf are watching me from the passenger seat."
-    "坐在副駕駛座上的另一隻狼用金色的眼睛注視著我。"
+    # "The blue eyes of a badger bodyguard are watching me from the passenger seat."
+    "坐在副駕駛座上的貛保鑣正用蒼藍的眼眸注視著我。"
 
 # game/williamroute2.rpy:888
 translate Tchinese williamroute2_4bf8712f:
@@ -13588,11 +13588,3 @@ translate Tchinese after_sw1_51afd4df:
 
     # sc "\"On it, Madam.\""
     sc "我這就去，夫人。"
-# TODO: Translation updated at 2026-06-05 10:23
-
-# game/williamroute2.rpy:964
-translate Tchinese williamroute2_ac36ce9b:
-
-    # "The blue eyes of a badger bodyguard are watching me from the passenger seat."
-    ""
-

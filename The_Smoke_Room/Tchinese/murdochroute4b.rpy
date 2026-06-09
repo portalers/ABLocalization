@@ -1420,7 +1420,7 @@ translate Tchinese murdochroute4b_238de74c:
 translate Tchinese murdochroute4b_f8b38125:
 
     # "It’s Jim breaking the silence that brings us back to the present."
-    Jim打破沉默，把我們拉回現實。""
+    "Jim打破沉默，把我們拉回現實。"
 
 # game/murdochroute4b.rpy:565
 translate Tchinese murdochroute4b_c0ee42f1:
@@ -1438,7 +1438,7 @@ translate Tchinese murdochroute4b_d7d21a9d:
 translate Tchinese murdochroute4b_ac62df2d:
 
     # m "\"I’m sorry about your classmates, Blithe.\""
-    m 我為你的同學感到遺憾，Blithe。""
+    m "我為你的同學感到遺憾，Blithe。"
 
 # game/murdochroute4b.rpy:568
 translate Tchinese murdochroute4b_5cfa534a:
@@ -6820,7 +6820,7 @@ translate Tchinese murdochroute4b_c84e1a27:
 translate Tchinese murdochroute4b_a7b71754:
 
     # ra "\"{cps=22}A bottle labeled {i}Milk Thistle.{/i}\""
-    ra "{cps=22}一瓶標著奶薊的瓶子。"
+    ra "{cps=22}一瓶標著{i}奶薊{/i}的瓶子。"
 
 # game/murdochroute4b.rpy:2571
 translate Tchinese murdochroute4b_f1e1cb15:
@@ -15184,7 +15184,7 @@ translate Tchinese medicinedone_8bece214:
 translate Tchinese medicinedone_e02fa66f:
 
     # m "\"Not anymore at least.\""
-    m 至少現在很難了。""
+    m "至少現在很難了。"
 
 # game/murdochroute4b.rpy:5597
 translate Tchinese medicinedone_6f079222:
@@ -16640,8 +16640,8 @@ translate Tchinese strings:
 
     # game/murdochroute4b.rpy:2722
     old "Am I done?"
-    new "都準備好了了嗎？"
+    new "都準備好了嗎？"
 
     # game/murdochroute4b.rpy:2760
     old "I am I really missing something?"
-    new "我有忘掉什麼嗎？"
+    new "我真的忘了什麼嗎？"
