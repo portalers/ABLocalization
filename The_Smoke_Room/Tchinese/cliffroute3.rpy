@@ -16041,4 +16041,4 @@ translate Tchinese strings:
 translate Tchinese cliffchoice5_fec97169:
 
     # "To be continued..."
-    ""
+    "To be continued..."

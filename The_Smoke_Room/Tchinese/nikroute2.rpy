@@ -1079,9 +1079,9 @@ translate Tchinese nikroute2_c990226e:
     m "那是什麼，Nik？"
 
 # game/nikroute2.rpy:308
-translate Tchinese nikroute2_53ef61ec:
+translate Tchinese nikroute2_2f289cdc:
 
-    # ni "\"Looks to me like a hefty vein of quartz.\""
+    # ni "\"Looks like to me like a hefty vein of quartz.\""
     ni "看起來像是一大片的石英礦脈。"
 
 # game/nikroute2.rpy:302
@@ -4234,10 +4234,10 @@ translate Tchinese nikroute2_543e3383:
     # br "\"Let me ask you Mr. Ayers, were you happy here?\""
     br "讓我問問你，Ayers先生：你在這過得開心嗎？"
 
-# game/nikroute2.rpy:1158
-translate Tchinese nikroute2_976a733f:
+# game/nikroute2.rpy:1159
+translate Tchinese nikroute2_2824fe90:
 
-    # m "\"Another day another dollar, Mr. Briggs.\""
+    # m "\"Another day another dollar, Mr Briggs.\""
     m "能賺一天是一天，Briggs先生。"
 
 # game/nikroute2.rpy:1143
@@ -4336,10 +4336,10 @@ translate Tchinese nikroute2_ada9de94:
     # "I’ve never met this man until yesterday."
     "昨天是我跟他的第一次見面。"
 
-# game/nikroute2.rpy:1201
-translate Tchinese nikroute2_b1d3e032:
+# game/nikroute2.rpy:1202
+translate Tchinese nikroute2_fba08962:
 
-    # jam "\"Mr. Ayers. One of our current troubles is that Nicholas is one of our best workers! But I fear he’s run away with some wild ideas.\""
+    # jam "\"Mr Ayers. One of our current troubles is that Nicholas is one of our best workers! But I fear he’s run away with some wild ideas.\""
     jam "Ayers先生。我們現在面臨的麻煩之一，就是Nikolas是我們最棒的員工之一！只怕他萌生了些胡亂的想法。"
 
 # game/nikroute2.rpy:1186
@@ -25555,23 +25555,3 @@ translate Tchinese strings:
     # game/nikroute2.rpy:8471
     old "The map's left, my right,"
     new "地圖的左邊，我的右邊。"
-# TODO: Translation updated at 2026-06-05 10:23
-
-# game/nikroute2.rpy:308
-translate Tchinese nikroute2_2f289cdc:
-
-    # ni "\"Looks like to me like a hefty vein of quartz.\""
-    ni ""
-
-# game/nikroute2.rpy:1159
-translate Tchinese nikroute2_2824fe90:
-
-    # m "\"Another day another dollar, Mr Briggs.\""
-    m ""
-
-# game/nikroute2.rpy:1202
-translate Tchinese nikroute2_fba08962:
-
-    # jam "\"Mr Ayers. One of our current troubles is that Nicholas is one of our best workers! But I fear he’s run away with some wild ideas.\""
-    jam ""
-

@@ -3430,11 +3430,11 @@ translate Tchinese nikroute4b_21732888:
     # "I try to muzzle his mouth, but he bites me."
     "我試著摀住他的嘴，卻被他咬了。"
 
-# game/nikroute4b.rpy:875
-translate Tchinese nikroute4b_089f4232:
+# game/nikroute4b.rpy:1059
+translate Tchinese nikroute4b_9703739b:
 
-    # "But it doesn’t much matter now, because those two wolves are running straight for us."
-    "但那也已經無所謂了，那兩隻狼正直直往我們這邊衝來。"
+    # "But it doesn’t much matter now, because the wolf and the badger are running straight for us."
+    "但那也已經無所謂了，狼和貛正直直往我們這邊衝來。"
 
 # game/nikroute4b.rpy:877
 translate Tchinese nikroute4b_22bde8c3:
@@ -3670,11 +3670,11 @@ translate Tchinese nikroute4b_493e4fec:
     # br "\"So how come he could do that.\""
     br "他怎麼就辦到了？"
 
-# game/nikroute4b.rpy:992
-translate Tchinese nikroute4b_21cdc79c:
+# game/nikroute4b.rpy:1189
+translate Tchinese nikroute4b_68cc71b6:
 
-    # "He nods at the wolf on his left."
-    "他點頭示意他左手邊的狼。"
+    # "He nods at the badger on his left."
+    "他點頭示意左手邊的貛。"
 
 # game/nikroute4b.rpy:994
 translate Tchinese nikroute4b_72da9366:
@@ -4264,11 +4264,11 @@ translate Tchinese nikroute4b_340dc5af:
     # "Ben pauses."
     "Ben停了下來。"
 
-# game/nikroute4b.rpy:1242
-translate Tchinese nikroute4b_db3be951:
+# game/nikroute4b.rpy:1439
+translate Tchinese nikroute4b_25077857:
 
-    # "Wolf" "\"Should I shut him up?\""
-    "Wolf" "要我讓他閉嘴嗎？"
+    # badeli "\"Should I shut him up?\""
+    badeli "要我讓他閉嘴嗎？"
 
 # game/nikroute4b.rpy:1244
 translate Tchinese nikroute4b_5d36955a:
@@ -4282,11 +4282,11 @@ translate Tchinese nikroute4b_40f124ef:
     # br "\"It’s a free country.\""
     br "這是個自由的國度。"
 
-# game/nikroute4b.rpy:1250
-translate Tchinese nikroute4b_994e5d91:
+# game/nikroute4b.rpy:1450
+translate Tchinese nikroute4b_97869079:
 
-    # "His eyes narrow and he opens his mouth."
-    "他瞇起眼開口道。"
+    # "Ben's eyes narrow and he opens his mouth."
+    "Ben瞇起眼，張開嘴巴。"
 
 # game/nikroute4b.rpy:1252
 translate Tchinese nikroute4b_ffbfa847:
@@ -4474,17 +4474,17 @@ translate Tchinese nikroute4b_dfd58efe:
     # "I lift mine as well. A few specks of my own blood hit my forehead."
     "我也舉起手，幾滴血落在額頭上。"
 
-# game/nikroute4b.rpy:1519
-translate Tchinese nikroute4b_52ab2229:
+# game/nikroute4b.rpy:1534
+translate Tchinese nikroute4b_839d5878:
 
-    # "One of them aims his guns at us while the other pats us down, one by one."
-    "其中一人用槍指著我們，另一人一個接一個地搜著我們的身。"
+    # "The wolf aims his guns at us while the badger pats us down, one by one."
+    "狼用槍指著我們，貛則一個接一個地搜著我們的身。"
 
-# game/nikroute4b.rpy:1330
-translate Tchinese nikroute4b_7a5c690f:
+# game/nikroute4b.rpy:1537
+translate Tchinese nikroute4b_3ac836c6:
 
-    # "Wolf" "\"They’re clear.\""
-    "Wolf" "沒問題。"
+    # badeli "\"They’re clear.\""
+    badeli "沒問題。"
 
 # game/nikroute4b.rpy:1334
 translate Tchinese nikroute4b_6b085c52:
@@ -5068,11 +5068,17 @@ translate Tchinese nikroute4b_afa49766:
     # "He slips out the box of matches in his pocket and places them in my good hand."
     "他從口袋抽出火柴盒，放在我完好的那隻手上。"
 
-# game/nikroute4b.rpy:1569
-translate Tchinese nikroute4b_ab9cf9d0:
+# game/nikroute4b.rpy:1779
+translate Tchinese nikroute4b_f7903f6b:
 
-    # "I fumble with the box a bit, noticing the two wolves still staring at me as I get a little bit closer to the wires that go toward the Hendricks manor."
-    "我把弄了一下火柴盒，走向通往Hendricks宅邸的引線，那兩隻狼緊盯著我。"
+    # "I fumble with the box a bit, {nw}"
+    "我把弄了一下火柴盒，{nw}"
+
+# game/nikroute4b.rpy:1782
+translate Tchinese nikroute4b_4e744b93:
+
+    # extend "noticing the wolf and the badger still staring at me as I get a little bit closer to the wires that go toward the Hendricks manor."
+    extend "走向通往Hendricks宅邸的引線，狼和貛則緊盯著我。"
 
 # game/nikroute4b.rpy:1571
 translate Tchinese nikroute4b_dcef1b73:
@@ -5098,11 +5104,11 @@ translate Tchinese nikroute4b_5bab2c5e:
     # "I get down on one knee."
     "單膝跪地。"
 
-# game/nikroute4b.rpy:1579
-translate Tchinese nikroute4b_1eb4784a:
+# game/nikroute4b.rpy:1792
+translate Tchinese nikroute4b_b653b73a:
 
-    # "And I look at both of the wolves above me."
-    "望向身前的兩隻狼。"
+    # "And I look at both of the bodyguards above me."
+    "望向身前的兩名保鑣。"
 
 # game/nikroute4b.rpy:1581
 translate Tchinese nikroute4b_d3904e83:
@@ -5200,11 +5206,11 @@ translate Tchinese nikroute4b_c5d3b423:
     # "Yao is standing over the other man with a smoking pistol in his hand."
     "Yao則站在另一人身前，手中的槍還在冒煙。"
 
-# game/nikroute4b.rpy:1804
-translate Tchinese nikroute4b_842debb3:
+# game/nikroute4b.rpy:1835
+translate Tchinese nikroute4b_f1484d29:
 
-    # "The wolf is bleeding from his hand, just like I am."
-    "那狼的手血流如注，跟我一樣。"
+    # "The badger is bleeding from his hand, just like I am."
+    "貛的手血流如注，跟我一樣。"
 
 # game/nikroute4b.rpy:1806
 translate Tchinese nikroute4b_5c3b32e5:
@@ -5254,11 +5260,11 @@ translate Tchinese nikroute4b_46ea4e54:
     # ya "\"Has been for one. Single. Scream.\""
     ya "都是為了能夠{b}聽見你們這一聲慘叫{/b}。"
 
-# game/nikroute4b.rpy:1642
-translate Tchinese nikroute4b_6f1e329c:
+# game/nikroute4b.rpy:1862
+translate Tchinese nikroute4b_a8dfadb3:
 
-    # "But the wolf is up again, {nw}"
-    "但那隻狼又爬了起來，{nw}"
+    # "But the badger is up again, {nw}"
+    "但那隻貛又爬了起來，{nw}"
 
 # game/nikroute4b.rpy:1645
 translate Tchinese nikroute4b_8f154b49:
@@ -5296,11 +5302,11 @@ translate Tchinese nikroute4b_51fe7a8c:
     # "Nik rushes on over to help Yao, but he doesn’t need the help by the time Nik gets there."
     "Nik衝去幫Yao，但對方在Nik到達前就搞定了。"
 
-# game/nikroute4b.rpy:1655
-translate Tchinese nikroute4b_ddfed7b4:
+# game/nikroute4b.rpy:1876
+translate Tchinese nikroute4b_9405be76:
 
-    # "Yao’s claws are out, leaving deep gashes in the wolf’s arms as he fights for control of the rifle, until he can wrestle it out of his arms."
-    "Yao爪子外露，深深劃裂了狼的雙臂，從他手中一把奪過來福槍。"
+    # "Yao’s claws are out, leaving deep gashes in the badger’s arms as he fights for control of the rifle, until he can wrestle it out of his arms."
+    "Yao爪子外露，深深劃裂了貛的雙臂，從他手中一把奪過來福槍。"
 
 # game/nikroute4b.rpy:1657
 translate Tchinese nikroute4b_fdc60419:
@@ -5314,11 +5320,11 @@ translate Tchinese nikroute4b_55900373:
     # m "\"Nik, the fuse!\""
     m "Nik，導火線！"
 
-# game/nikroute4b.rpy:1847
-translate Tchinese nikroute4b_987dbda8:
+# game/nikroute4b.rpy:1881
+translate Tchinese nikroute4b_507a7b97:
 
-    # "The badger races for it across the rope bridge, pulling a pair of shears from his pocket and cutting it."
-    "貛衝過吊橋趕上火光，從口袋中掏出一把剪子將其剪斷。"
+    # "Nik races for it across the rope bridge, pulling a pair of shears from his pocket and cutting it."
+    "Nik衝過吊橋趕上火花，從口袋中掏出一把剪子將其剪斷。"
 
 # game/nikroute4b.rpy:1852
 translate Tchinese nikroute4b_b4a07db7:
@@ -11055,83 +11061,3 @@ translate Tchinese strings:
     # game/nikroute4b.rpy:2626
     old "Because you’re my friend."
     new "因為你是我的朋友。"
-# TODO: Translation updated at 2026-06-05 10:23
-
-# game/nikroute4b.rpy:1059
-translate Tchinese nikroute4b_9703739b:
-
-    # "But it doesn’t much matter now, because the wolf and the badger are running straight for us."
-    ""
-
-# game/nikroute4b.rpy:1189
-translate Tchinese nikroute4b_68cc71b6:
-
-    # "He nods at the badger on his left."
-    ""
-
-# game/nikroute4b.rpy:1439
-translate Tchinese nikroute4b_25077857:
-
-    # badeli "\"Should I shut him up?\""
-    badeli ""
-
-# game/nikroute4b.rpy:1450
-translate Tchinese nikroute4b_97869079:
-
-    # "Ben's eyes narrow and he opens his mouth."
-    ""
-
-# game/nikroute4b.rpy:1534
-translate Tchinese nikroute4b_839d5878:
-
-    # "The wolf aims his guns at us while the badger pats us down, one by one."
-    ""
-
-# game/nikroute4b.rpy:1537
-translate Tchinese nikroute4b_3ac836c6:
-
-    # badeli "\"They’re clear.\""
-    badeli ""
-
-# game/nikroute4b.rpy:1779
-translate Tchinese nikroute4b_f7903f6b:
-
-    # "I fumble with the box a bit, {nw}"
-    ""
-
-# game/nikroute4b.rpy:1782
-translate Tchinese nikroute4b_4e744b93:
-
-    # extend "noticing the wolf and the badger still staring at me as I get a little bit closer to the wires that go toward the Hendricks manor."
-    extend ""
-
-# game/nikroute4b.rpy:1792
-translate Tchinese nikroute4b_b653b73a:
-
-    # "And I look at both of the bodyguards above me."
-    ""
-
-# game/nikroute4b.rpy:1835
-translate Tchinese nikroute4b_f1484d29:
-
-    # "The badger is bleeding from his hand, just like I am."
-    ""
-
-# game/nikroute4b.rpy:1862
-translate Tchinese nikroute4b_a8dfadb3:
-
-    # "But the badger is up again, {nw}"
-    ""
-
-# game/nikroute4b.rpy:1876
-translate Tchinese nikroute4b_9405be76:
-
-    # "Yao’s claws are out, leaving deep gashes in the badger’s arms as he fights for control of the rifle, until he can wrestle it out of his arms."
-    ""
-
-# game/nikroute4b.rpy:1881
-translate Tchinese nikroute4b_507a7b97:
-
-    # "Nik races for it across the rope bridge, pulling a pair of shears from his pocket and cutting it."
-    ""
-

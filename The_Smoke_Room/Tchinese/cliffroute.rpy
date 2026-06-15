@@ -2975,11 +2975,11 @@ translate Tchinese cliffroute_40655b61:
     # "His eyes are greener than grass itself, gazing down at Echo from behind a custom-fitted monocle with a silver frame."
     "他比草還要綠的眼睛，在訂製的銀框單片眼鏡後面俯視著回音鎮。"
 
-# game/cliffroute.rpy:628
-translate Tchinese cliffroute_615ba7a5:
+# game/cliffroute.rpy:640
+translate Tchinese cliffroute_0060120d:
 
-    # "He’s flanked by two wolves, one of whom I recognize from the saloon."
-    "在他身旁有兩隻狼，其中一隻我通過酒館認得。"
+    # "He’s flanked by a wolf and a badger, the latter of whom I recognize from the saloon."
+    "在他身旁有一隻狼和一隻我在酒館見過的貛"
 
 # game/cliffroute.rpy:629
 translate Tchinese cliffroute_cec1078c:
@@ -2993,11 +2993,11 @@ translate Tchinese cliffroute_c77de54f:
     # "There’s no doubt about it. This is James Hendricks."
     "毫無疑問，他是James Hendricks。"
 
-# game/cliffroute.rpy:631
-translate Tchinese cliffroute_67491752:
+# game/cliffroute.rpy:643
+translate Tchinese cliffroute_62978ca4:
 
-    # "The Third, if I’m not mistaken."
-    "三世，如果我沒有記錯的話。"
+    # "{i}The Third{/i}, if I’m not mistaken."
+    "{i}三世{/i}，如果我沒有記錯的話。"
 
 # game/cliffroute.rpy:631
 translate Tchinese cliffroute_58c7d805:
@@ -3029,11 +3029,11 @@ translate Tchinese cliffroute_b948fe77:
     # "He tips his head at me, like he's rehearsed this."
     "他像是提前排練過一樣，對我點點頭。"
 
-# game/cliffroute.rpy:649
-translate Tchinese cliffroute_d4c119a4:
+# game/cliffroute.rpy:651
+translate Tchinese cliffroute_95c19cef:
 
-    # "I swallow and pick my words carefully, noticing the wolves staring at me."
-    "注意到狼在盯著我，我吞了口唾沫，仔細斟酌著用詞。"
+    # "I swallow and pick my words carefully, noticing the bodyguards staring at me."
+    "注意到保鑣在盯著我，我吞了口口水，仔細斟酌著用詞。"
 
 # game/cliffroute.rpy:635
 translate Tchinese cliffroute_fe431451:
@@ -3131,11 +3131,17 @@ translate Tchinese cliffroute_3f608514:
     # jam "\"Lovely.\""
     jam "很迷人。"
 
-# game/cliffroute.rpy:660
-translate Tchinese cliffroute_04f4b37c:
+# game/cliffroute.rpy:682
+translate Tchinese cliffroute_191b6cb8:
 
-    # "He shoos away the wolves with a hand gesture."
-    "他做了手勢，把狼轟走了。"
+    # "He shoos away the wolf and the badger {nw}"
+    "他做了手勢，{nw}"
+
+# game/cliffroute.rpy:684
+translate Tchinese cliffroute_73c07ee0:
+
+    # extend "with a hand gesture."
+    "把狼和貛趕走了。"
 
 # game/cliffroute.rpy:662
 translate Tchinese cliffroute_8678ae38:
@@ -7823,35 +7829,3 @@ translate Tchinese strings:
     # game/cliffroute.rpy:1815
     old "Don't object"
     new "不反對"
-# TODO: Translation updated at 2026-06-05 10:23
-
-# game/cliffroute.rpy:640
-translate Tchinese cliffroute_0060120d:
-
-    # "He’s flanked by a wolf and a badger, the latter of whom I recognize from the saloon."
-    ""
-
-# game/cliffroute.rpy:643
-translate Tchinese cliffroute_62978ca4:
-
-    # "{i}The Third{/i}, if I’m not mistaken."
-    ""
-
-# game/cliffroute.rpy:651
-translate Tchinese cliffroute_95c19cef:
-
-    # "I swallow and pick my words carefully, noticing the bodyguards staring at me."
-    ""
-
-# game/cliffroute.rpy:682
-translate Tchinese cliffroute_191b6cb8:
-
-    # "He shoos away the wolf and the badger {nw}"
-    ""
-
-# game/cliffroute.rpy:684
-translate Tchinese cliffroute_73c07ee0:
-
-    # extend "with a hand gesture."
-    extend ""
-

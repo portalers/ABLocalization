@@ -19674,10 +19674,10 @@ translate Tchinese nikroute3b_08f4b170:
     # ni "\"Yes, of course.\""
     ni "這是當然。"
 
-# game/nikroute3.rpy:6573
-translate Tchinese nikroute3b_167c363c:
+# game/nikroute3.rpy:6599
+translate Tchinese nikroute3b_c85470f1:
 
-    # ni "\"Nicholas King is a direct translation of my birth name, from Lachia.\""
+    # ni "\"Nicholas King is a direct translation of my birth name, from Lachian.\""
     ni "Nicholas King是我拉克希亞本名的直譯。"
 
 # game/nikroute3.rpy:6576
@@ -19728,10 +19728,10 @@ translate Tchinese nikroute3b_8ec2705d:
     # br "\"If they meant exactly the same thing, then they’d be the same thing.\""
     br "如果內在一模一樣，那外在也會一模一樣。"
 
-# game/nikroute3.rpy:6594
-translate Tchinese nikroute3b_c85470f1:
+# game/nikroute3.rpy:6620
+translate Tchinese nikroute3b_3c0bab22:
 
-    # ni "\"Nicholas King is a direct translation of my birth name, from Lachian.\""
+    # br "\"You know, Nikolai sounds like as much of a Rus name as it is Lachian.\""
     br "你知道吧，Nikolai聽起來不只像拉克名，也像羅斯名。"
 
 # game/nikroute3.rpy:6604
@@ -25842,8 +25842,8 @@ translate Tchinese sny4_e4412a36:
     # "I think for a moment that another cave-in is about to happen."
     "有一瞬間，我以為礦洞又要坍方一次。"
 
-# game/nikroute3.rpy:8937
-translate Tchinese sny4_9c0c56cb_1:
+# game/nikroute3.rpy:8961
+translate Tchinese sny4_9c0c56cb:
 
     # "Something big, and stone-colored dangles from the ceiling,{nw}"
     "有個岩石色的巨大物體從頂部掉了下來，{nw}"
@@ -32756,17 +32756,17 @@ translate Tchinese caveinchoice_999a239b:
     # "Wolf" "\"You see somethin’ out there.\""
     "Wolf" "你看到什麼了嗎？"
 
-# game/nikroute3.rpy:10891
-translate Tchinese caveinchoice_42c47bb3:
+# game/nikroute3.rpy:10902
+translate Tchinese caveinchoice_66120fbf:
 
-    # "Dog" "\"Yeah.\""
-    "Dog" "對呀。"
+    # badeli "\"Yeah.\""
+    badeli "對呀。"
 
-# game/nikroute3.rpy:10892
-translate Tchinese caveinchoice_4d146c63:
+# game/nikroute3.rpy:10905
+translate Tchinese caveinchoice_24f920d3:
 
-    # "Dog" "\"Thought I heard voices too.\""
-    "Dog" "好像還聽到了什麼動靜。"
+    # badeli "\"Thought I heard voices too.\""
+    badeli "好像還聽到了什麼動靜。"
 
 # game/nikroute3.rpy:10893
 translate Tchinese caveinchoice_0efecf26:
@@ -32774,11 +32774,11 @@ translate Tchinese caveinchoice_0efecf26:
     # "Wolf" "\"I didn’t hear any.\""
     "Wolf" "我沒聽見。"
 
-# game/nikroute3.rpy:10894
-translate Tchinese caveinchoice_190f63f4:
+# game/nikroute3.rpy:10909
+translate Tchinese caveinchoice_ad04b2b8:
 
-    # "Dog" "\"Doesn’t mean there wasn’t none.\""
-    "Dog" "那也不代表沒有。"
+    # badeli "\"Doesn’t mean there wasn’t none.\""
+    badeli "那也不代表沒有。"
 
 # game/nikroute3.rpy:10895
 translate Tchinese caveinchoice_b5d1ff62:
@@ -32792,11 +32792,11 @@ translate Tchinese caveinchoice_8fa18e86:
     # "Wolf" "\"You shouldn’t waste your bullets.\""
     "Wolf" "別浪費子彈。"
 
-# game/nikroute3.rpy:10897
-translate Tchinese caveinchoice_b96172a4:
+# game/nikroute3.rpy:10915
+translate Tchinese caveinchoice_08076638:
 
-    # "Dog" "\"Wasn’t wasted if I hit one of ‘em.\""
-    "Dog" "要是打中了就不算浪費。"
+    # badeli "\"Wasn’t wasted if I hit one of ‘em.\""
+    badeli "要是打中了就不叫浪費。"
 
 # game/nikroute3.rpy:10898
 translate Tchinese caveinchoice_056e390e:
@@ -46237,43 +46237,3 @@ translate Tchinese nikroute3a_96e0f05c:
 
     # extend " frowns."
     extend "皺起眉頭。"
-# TODO: Translation updated at 2025-07-10 11:45
-
-# game/nikroute3.rpy:6620
-translate Tchinese nikroute3b_3c0bab22:
-
-    # br "\"You know, Nikolai sounds like as much of a Rus name as it is Lachian.\""
-    br ""
-
-# game/nikroute3.rpy:8961
-translate Tchinese sny4_9c0c56cb:
-
-    # "Something big, and stone-colored dangles from the ceiling,{nw}"
-    ""
-
-# TODO: Translation updated at 2026-06-05 10:23
-
-# game/nikroute3.rpy:10902
-translate Tchinese caveinchoice_66120fbf:
-
-    # badeli "\"Yeah.\""
-    badeli ""
-
-# game/nikroute3.rpy:10905
-translate Tchinese caveinchoice_24f920d3:
-
-    # badeli "\"Thought I heard voices too.\""
-    badeli ""
-
-# game/nikroute3.rpy:10909
-translate Tchinese caveinchoice_ad04b2b8:
-
-    # badeli "\"Doesn’t mean there wasn’t none.\""
-    badeli ""
-
-# game/nikroute3.rpy:10915
-translate Tchinese caveinchoice_08076638:
-
-    # badeli "\"Wasn’t wasted if I hit one of ‘em.\""
-    badeli ""
-

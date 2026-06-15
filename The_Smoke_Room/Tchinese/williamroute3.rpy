@@ -8230,11 +8230,11 @@ translate Tchinese endofwillstaginterviews2_98611b33:
     # "The bartender strolls over slowly."
     "酒保慢吞吞地過來了。"
 
-# game/williamroute3.rpy:2622
-translate Tchinese endofwillstaginterviews2_56050963:
+# game/williamroute3.rpy:2678
+translate Tchinese endofwillstaginterviews2_882a9fba:
 
-    # "Barkeep" "What will it be?"
-    "酒保" "喝點什麼？"
+    # bartre "\"What will it be?\""
+    bartre "喝點什麼？"
 
 # game/williamroute3.rpy:2623
 translate Tchinese endofwillstaginterviews2_803c9501:
@@ -8242,17 +8242,17 @@ translate Tchinese endofwillstaginterviews2_803c9501:
     # wi "Just a scotch on the rocks."
     wi "一杯蘇格蘭威士忌，加冰。"
 
-# game/williamroute3.rpy:2625
-translate Tchinese endofwillstaginterviews2_87ce236f:
+# game/williamroute3.rpy:2686
+translate Tchinese endofwillstaginterviews2_c5dc23d7:
 
-    # "Barkeep" "Comin’ right up..."
-    "酒保" "馬上就來……"
+    # bartre "\"Comin’ right up...\""
+    bartre "馬上來……"
 
-# game/williamroute3.rpy:2627
-translate Tchinese endofwillstaginterviews2_51f46eac:
+# game/williamroute3.rpy:2690
+translate Tchinese endofwillstaginterviews2_cd3663ca:
 
-    # "Barkeep" "Ain't it a bit early for that?"
-    "酒保" "這個時間喝酒會不會有點太早了？"
+    # bartre "\"Ain't it a bit early for that?\""
+    bartre "這個時間喝酒會不會有點太早了？"
 
 # game/williamroute3.rpy:2628
 translate Tchinese endofwillstaginterviews2_14cce044:
@@ -8266,11 +8266,11 @@ translate Tchinese endofwillstaginterviews2_ab5f9587:
     # "The barkeep turns his head towards me and squints at me."
     "酒保把頭轉過來，眯眼打量著我。"
 
-# game/williamroute3.rpy:2630
-translate Tchinese endofwillstaginterviews2_fa3eac19:
+# game/williamroute3.rpy:2697
+translate Tchinese endofwillstaginterviews2_4d4553d7:
 
-    # "Barkeep" "Hey, I know you."
-    "酒保" "嘿，我認得你。"
+    # bartre "\"Hey, I know you.\""
+    bartre "嘿，我認得你。"
 
 # game/williamroute3.rpy:2631
 translate Tchinese endofwillstaginterviews2_8a5b5e5a:
@@ -8278,11 +8278,11 @@ translate Tchinese endofwillstaginterviews2_8a5b5e5a:
     # "Oh boy. Here comes trouble."
     "唉，麻煩來了。"
 
-# game/williamroute3.rpy:2632
-translate Tchinese endofwillstaginterviews2_b85d5c11:
+# game/williamroute3.rpy:2701
+translate Tchinese endofwillstaginterviews2_9d82b45c:
 
-    # "Barkeep" "You’re Sheriff Adler."
-    "酒保" "你是Adler警長。"
+    # bartre "\"You’re Sheriff Adler.\""
+    bartre "你是Adler警長。"
 
 # game/williamroute3.rpy:2633
 translate Tchinese endofwillstaginterviews2_18547e8f:
@@ -8296,11 +8296,11 @@ translate Tchinese endofwillstaginterviews2_0a538541:
     # wi "Right now I’m just thirsty, thanks."
     wi "我現在只想來一杯，謝謝。"
 
-# game/williamroute3.rpy:2635
-translate Tchinese endofwillstaginterviews2_e198c294:
+# game/williamroute3.rpy:2706
+translate Tchinese endofwillstaginterviews2_36707ad5:
 
-    # "Barkeep" "How come you’re not wearing your badge?"
-    "酒保" "你怎麼沒戴著警徽？"
+    # bartre "\"How come you’re not wearing your badge?\""
+    bartre "你怎麼沒戴著警徽？"
 
 # game/williamroute3.rpy:2636
 translate Tchinese endofwillstaginterviews2_97759e5e:
@@ -8320,17 +8320,23 @@ translate Tchinese endofwillstaginterviews2_08e00c7d:
     # wi "Are you saying you have time to talk with me?"
     wi "你有空聊幾句嗎？"
 
-# game/williamroute3.rpy:2639
-translate Tchinese endofwillstaginterviews2_e80f177c:
+# game/williamroute3.rpy:2712
+translate Tchinese endofwillstaginterviews2_6b50a489:
 
-    # "Barkeep" "Your drink will be right up."
-    "酒保" "你的酒馬上好。"
+    # bartre "\"Your drink will be right up.\""
+    bartre "你的酒馬上好。"
 
-# game/williamroute3.rpy:2640
-translate Tchinese endofwillstaginterviews2_01c64b16:
+# game/williamroute3.rpy:2714
+translate Tchinese endofwillstaginterviews2_bde5b10d:
 
-    # "He hurries away and I can feel the breath leaving my lungs."
-    "他快步離去，而我感覺肺都要氣炸了。"
+    # "He hurries away and"
+    "他快步離去，{nw}"
+
+# game/williamroute3.rpy:2716
+translate Tchinese endofwillstaginterviews2_f1d6097f:
+
+    # extend " I can feel the breath leaving my lungs."
+    extend "而我感覺肺都要氣炸了。"
 
 # game/williamroute3.rpy:2641
 translate Tchinese endofwillstaginterviews2_9eb59bda:
@@ -37251,11 +37257,17 @@ translate Tchinese williamroute3c_39f316fe:
     # ka "\"Get me a glass of spirits over here, and put it on my tab.\""
     ka "來杯烈的，記我帳上。"
 
-# game/williamroute3.rpy:12785
-translate Tchinese williamroute3c_5c6c04e5:
+# game/williamroute3.rpy:12433
+translate Tchinese samwill5_c0527dea:
 
-    # "A full, gold glass of rye smellin’ whiskey gets placed in front of me."
-    "一整杯有著麥酒香的金黃色威士忌被擺在我面前。"
+    # "A full, gold glass of rye smellin’ whiskey gets placed in front {nw}"
+    "一整杯有著麥酒香的金黃色威士忌{nw}"
+
+# game/williamroute3.rpy:12435
+translate Tchinese samwill5_e5a17fd8:
+
+    # extend "of me."
+    extend "被擺在我面前。"
 
 # game/williamroute3.rpy:12786
 translate Tchinese williamroute3c_5a9a1942:
@@ -46293,11 +46305,11 @@ translate Tchinese skipkane_9d7fe883:
     # "The barkeep, a tawny fox, approaches and sets down a mug to get our attention."
     "酒保，一隻茶色的狐狸走過來，放下一個杯子，好引起我們的注意。"
 
-# game/williamroute3.rpy:13255
-translate Tchinese skipkane_e156f8c2:
+# game/williamroute3.rpy:13301
+translate Tchinese skipkane_72949149:
 
-    # "Barkeep" "\"More pints?\""
-    "Barkeep" "喝點什麼？"
+    # bartre "\"More pints?\""
+    bartre "喝點什麼？"
 
 # game/williamroute3.rpy:13258
 translate Tchinese skipkane_c45bcf5b:
@@ -46623,11 +46635,11 @@ translate Tchinese skipkane_d5c46b7e:
     # "This poor man exhales."
     "那個可憐的人在喘氣。"
 
-# game/williamroute3.rpy:13358
-translate Tchinese skipkane_0ce79691:
+# game/williamroute3.rpy:13404
+translate Tchinese skipkane_40d6d308:
 
-    # "Barkeep" "\"I'll go do that then...\""
-    "Barkeep" "我這就去弄..."
+    # bartre "\"I'll go do that then...\""
+    bartre "我這就去弄..."
 
 # game/williamroute3.rpy:13360
 translate Tchinese skipkane_2b896f40:
@@ -48543,11 +48555,17 @@ translate Tchinese swn_a79e67d4:
     # ni "\"Sam usually uses both hands.\""
     ni "Sam一般只用手。"
 
-# game/williamroute3.rpy:13946
-translate Tchinese swn_d3cfbbfb:
+# game/williamroute3.rpy:13992
+translate Tchinese swn_83dfc41e:
 
-    # "Sam puts his hands on my shoulders to get me down on my knees and Nik walks up."
-    "Sam按住我的肩，讓我跪下來。"
+    # "Sam puts his hands on my shoulders to get me down on my knees"
+    "Sam按住我的肩，讓我跪下，{nw}"
+
+# game/williamroute3.rpy:13994
+translate Tchinese swn_f85a9450:
+
+    # extend " and Nik walks up."
+    extend "然後Nik走了過來。"
 
 # game/williamroute3.rpy:13948
 translate Tchinese swn_2cc89c9b:
@@ -53381,102 +53399,10 @@ translate Tchinese cityhallnight_56a642f6:
     # wi "\"Of Mr. Tibbits?\""
     wi "Tibbits先生嗎？"
 
-# TODO: Translation updated at 2025-07-08 16:51
+# TODO: Translation updated at 2026-06-13 15:46
 
-# game/williamroute3.rpy:15136
+# game/williamroute3.rpy:15184
 translate Tchinese marcymerge_fec97169:
 
     # "To be continued..."
-    "未完待續……"
-# TODO: Translation updated at 2026-06-05 10:23
-
-# game/williamroute3.rpy:2678
-translate Tchinese endofwillstaginterviews2_882a9fba:
-
-    # bartre "\"What will it be?\""
-    bartre ""
-
-# game/williamroute3.rpy:2686
-translate Tchinese endofwillstaginterviews2_c5dc23d7:
-
-    # bartre "\"Comin’ right up...\""
-    bartre ""
-
-# game/williamroute3.rpy:2690
-translate Tchinese endofwillstaginterviews2_cd3663ca:
-
-    # bartre "\"Ain't it a bit early for that?\""
-    bartre ""
-
-# game/williamroute3.rpy:2697
-translate Tchinese endofwillstaginterviews2_4d4553d7:
-
-    # bartre "\"Hey, I know you.\""
-    bartre ""
-
-# game/williamroute3.rpy:2701
-translate Tchinese endofwillstaginterviews2_9d82b45c:
-
-    # bartre "\"You’re Sheriff Adler.\""
-    bartre ""
-
-# game/williamroute3.rpy:2706
-translate Tchinese endofwillstaginterviews2_36707ad5:
-
-    # bartre "\"How come you’re not wearing your badge?\""
-    bartre ""
-
-# game/williamroute3.rpy:2712
-translate Tchinese endofwillstaginterviews2_6b50a489:
-
-    # bartre "\"Your drink will be right up.\""
-    bartre ""
-
-# game/williamroute3.rpy:2714
-translate Tchinese endofwillstaginterviews2_bde5b10d:
-
-    # "He hurries away and{nw}"
-    ""
-
-# game/williamroute3.rpy:2716
-translate Tchinese endofwillstaginterviews2_f1d6097f:
-
-    # extend " I can feel the breath leaving my lungs."
-    extend ""
-
-# game/williamroute3.rpy:12433
-translate Tchinese samwill5_c0527dea:
-
-    # "A full, gold glass of rye smellin’ whiskey gets placed in front {nw}"
-    ""
-
-# game/williamroute3.rpy:12435
-translate Tchinese samwill5_e5a17fd8:
-
-    # extend "of me."
-    extend ""
-
-# game/williamroute3.rpy:13301
-translate Tchinese skipkane_72949149:
-
-    # bartre "\"More pints?\""
-    bartre ""
-
-# game/williamroute3.rpy:13404
-translate Tchinese skipkane_40d6d308:
-
-    # bartre "\"I'll go do that then...\""
-    bartre ""
-
-# game/williamroute3.rpy:13992
-translate Tchinese swn_83dfc41e:
-
-    # "Sam puts his hands on my shoulders to get me down on my knees{nw}"
-    ""
-
-# game/williamroute3.rpy:13994
-translate Tchinese swn_f85a9450:
-
-    # extend " and Nik walks up."
-    extend ""
-
+    "To be continued..."

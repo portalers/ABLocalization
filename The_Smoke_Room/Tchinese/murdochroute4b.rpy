@@ -10276,7 +10276,7 @@ translate Tchinese medicinedone_d798a354:
 translate Tchinese medicinedone_59b09d44:
 
     # gr "\"This one strangled both of his wives and walked the earth for seven years after.\""
-    gr "這人掐死了的兩任妻子，之後還活在這世上七年之久。"
+    gr "這人把兩任妻子都掐死了，卻還活在這世上七年之久。"
 
 # game/murdochroute4b.rpy:3912
 translate Tchinese medicinedone_0eb52439:
@@ -12892,7 +12892,7 @@ translate Tchinese medicinedone_db731c5d:
 translate Tchinese medicinedone_aadc1ecd:
 
     # ho "\"LIAR!\""
-    ho "{b}騙子！{/b}"
+    ho "{b}你胡說！{/b}"
 
 # game/murdochroute4b.rpy:5004
 translate Tchinese medicinedone_1216708e:
