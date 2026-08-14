@@ -8019,10 +8019,10 @@ translate Tchinese after_sw1_f57f41aa:
     # md "\"I’m just glad that it happened, and that was enough.\""
     md "我只會為那些往事的發生而感到高興，這就足夠了。"
 
-# game/williamroute2.rpy:2339
-translate Tchinese after_sw1_134ed030:
+# game/williamroute2.rpy:2417
+translate Tchinese after_sw1_fb660abb:
 
-    # ha "\"Ma’am...If I may ask... why did you have to bring this up?\""
+    # ha "\"Ma’am... If I may ask... why did you have to bring this up?\""
     ha "夫人……恕我直言……您為何要提起這些？"
 
 # game/williamroute2.rpy:2342

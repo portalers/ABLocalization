@@ -59,10 +59,10 @@ translate Tchinese murdochroute4_6f4941dc:
     m "所有人都在。"
 
 # game/murdochroute4.rpy:20
-translate Tchinese murdochroute4_7df6a7a7:
+translate Tchinese murdochroute4_7c66a342:
 
-    # "Melissa slowly peaks her head around an archway, looking left, then looking right."
-    "Melissa緩緩將耳朵對向一道門廊，左顧右盼。"
+    # "Melissa slowly peeks her head around an archway, looking left, then looking right."
+    "Melissa緩緩將頭跨過一道門廊，左顧右盼。"
 
 # game/murdochroute4.rpy:22
 translate Tchinese murdochroute4_bf2add26:
@@ -551,9 +551,9 @@ translate Tchinese schoolexplorationmain_fb67875c:
     me "要去哪裡？"
 
 # game/murdochroute4.rpy:345
-translate Tchinese schoolexplorationmain_3b8e8b9b:
+translate Tchinese schoolexplorationmain_dd45861b:
 
-    # m "\"Would you mind comin’ with us Ms. Washington?\""
+    # m "\"Would you mind comin’ with us, Miss Washington?\""
     m "妳會介意跟我們一起去嗎，Washington小姐？"
 
 # game/murdochroute4.rpy:347
@@ -1481,9 +1481,9 @@ translate Tchinese schoolauditorium_e36505e8:
     ji "多半又是另一間衣櫃吧。"
 
 # game/murdochroute4.rpy:724
-translate Tchinese schoolauditorium_89dfe098:
+translate Tchinese schoolauditorium_d8caa6c6:
 
-    # "That didn’t seem entirely right to me, but it wasn’t like I was gonna argue about it."
+    # "That doesn’t seem entirely right to me, but it isn’t like I’m gonna argue about it."
     "感覺不太對，但我也懶得跟他吵。"
 
 # game/murdochroute4.rpy:726
@@ -2495,9 +2495,9 @@ translate Tchinese schoolbasement_d357c511:
     "她指向一排書架。"
 
 # game/murdochroute4.rpy:1161
-translate Tchinese schoolbasement_117eef49:
+translate Tchinese schoolbasement_c0ed96e8:
 
-    # m "\"...what, books?\""
+    # m "\"...What, books?\""
     m "……什麼，書嗎？"
 
 # game/murdochroute4.rpy:1163
@@ -3593,9 +3593,9 @@ translate Tchinese schoolclassroom_192df7cd:
     "Ralph走了過來。"
 
 # game/murdochroute4.rpy:1571
-translate Tchinese schoolclassroom_abd2cced:
+translate Tchinese schoolclassroom_027448d8:
 
-    # ra "\"Is it a key or a combination lock.\""
+    # ra "\"Is it a key or a combination lock?\""
     ra "是鑰匙鎖還是旋轉組合鎖？"
 
 # game/murdochroute4.rpy:1572
@@ -3653,9 +3653,9 @@ translate Tchinese schoolclassroom_39334884:
     ra "我有股直覺。"
 
 # game/murdochroute4.rpy:1589
-translate Tchinese schoolclassroom_d85c80c0:
+translate Tchinese schoolclassroom_92bfd7bb:
 
-    # "He removes the lock then pulls open the drawer."
+    # "He removes the lock, then pulls open the drawer."
     "他拿掉鎖，拉開抽屜。"
 
 # game/murdochroute4.rpy:1590
@@ -5735,9 +5735,9 @@ translate Tchinese schoollibrary_db3a2fd0:
     "裡面有無數排書架。"
 
 # game/murdochroute4.rpy:2398
-translate Tchinese schoollibrary_ea9dbf91:
+translate Tchinese schoollibrary_54416a53:
 
-    # "It wouldn’t be hard for somebody to hide in here at all, but {i}why{/i} they would, I couldn’t figure."
+    # "It wouldn’t be hard for somebody to hide in here at all, but {i}why{/i} they would, I can’t figure."
     "要想躲在這是不難，但{i}為什麼{/i}就是另一回事了。"
 
 # game/murdochroute4.rpy:2399
@@ -6047,9 +6047,9 @@ translate Tchinese schoollibrary_c4ef90ea:
     "在他搜尋時，我跟上了Jim。"
 
 # game/murdochroute4.rpy:2525
-translate Tchinese schoollibrary_5f5ca6a2:
+translate Tchinese schoollibrary_6ba33319:
 
-    # m "\"You found those yearbooks I take it?\""
+    # m "\"You found those yearbooks, I take it?\""
     m "你找到你說的畢業紀念冊了？"
 
 # game/murdochroute4.rpy:2526
@@ -6569,9 +6569,9 @@ translate Tchinese schoollibrary_d79782bb:
     bl "喔。"
 
 # game/murdochroute4.rpy:2701
-translate Tchinese schoollibrary_2868c044:
+translate Tchinese schoollibrary_0a6e770f:
 
-    # bl "\"You mean the little Ms. Byrnes.\""
+    # bl "\"You mean the little Miss Byrnes.\""
     bl "你是指小Byrnes女士。"
 
 # game/murdochroute4.rpy:2703
@@ -6773,9 +6773,9 @@ translate Tchinese schoollibrary_486e8910:
     bl "我是能理解這是箇中緣由之一。"
 
 # game/murdochroute4.rpy:2764
-translate Tchinese schoollibrary_3e72e037:
+translate Tchinese schoollibrary_193551f6:
 
-    # m "\"...huh?\""
+    # m "\"...Huh?\""
     m "……啊？"
 
 # game/murdochroute4.rpy:2766
@@ -7307,9 +7307,9 @@ translate Tchinese schoolconvos_d4d52414:
     mu "這不……"
 
 # game/murdochroute4.rpy:2950
-translate Tchinese schoolconvos_2f4c5529:
+translate Tchinese schoolconvos_4ae23770:
 
-    # m "\"Take a deep breath, or something’.\""
+    # m "\"Take a deep breath or something’.\""
     m "你先深呼吸一下。"
 
 # game/murdochroute4.rpy:2951
@@ -7637,9 +7637,9 @@ translate Tchinese schoolconvos_5cb0879c:
     "他冷哼一聲。"
 
 # game/murdochroute4.rpy:3065
-translate Tchinese schoolconvos_8cbe52d7:
+translate Tchinese schoolconvos_9f99589e:
 
-    # ji "\"This isn’t a sob story Mr Ayers.\""
+    # ji "\"This isn’t a sob story, Mr. Ayers.\""
     ji "我這又不是什麼悲情故事，Ayers先生。"
 
 # game/murdochroute4.rpy:3068
@@ -7763,9 +7763,9 @@ translate Tchinese schoolconvos_af986036:
     m "這不要緊。"
 
 # game/murdochroute4.rpy:3109
-translate Tchinese schoolconvos_3d166073:
+translate Tchinese schoolconvos_dc74eaf3:
 
-    # m "\"I’ve done way more for men than make them smile and I don’t know most of their names, either.\""
+    # m "\"I’ve done way more for men than make them smile, and I don’t know most of their names, either.\""
     m "我為很多男人做過不只讓他們露出笑容的事，也都不知道他們大部分的人的名字。"
 
 # game/murdochroute4.rpy:3110
@@ -8045,9 +8045,9 @@ translate Tchinese schoolconvos_fd02119b:
     m "好吧，謝了，Melissa。"
 
 # game/murdochroute4.rpy:3221
-translate Tchinese schoolconvos_51178dec:
+translate Tchinese schoolconvos_fe3ed1d0:
 
-    # me "\"Yes, Mr Ayers.\""
+    # me "\"Yes, Mr. Ayers.\""
     me "嗯，Ayers先生。"
 
 # game/murdochroute4.rpy:3224
@@ -8321,9 +8321,9 @@ translate Tchinese schoolconvos_c78c025c:
     bl "我跟大人要求的，從來都只有在大事不妙的時候聽我一言。"
 
 # game/murdochroute4.rpy:3310
-translate Tchinese schoolconvos_728effb4:
+translate Tchinese schoolconvos_23292c9f:
 
-    # bl "\"Getting five grown men to cooperate is more than I could ever ever do one my own, so there’s something about you that I figure is useful to have around.\""
+    # bl "\"Getting five grown men to cooperate is more than I could ever do on my own, so there’s something about you that I figure is useful to have around.\""
     bl "找來五個大男人合作，是我自己一個人永遠也辦不到的事，你對我來說已經很有用了。"
 
 # game/murdochroute4.rpy:3313
@@ -8615,9 +8615,9 @@ translate Tchinese dahliaprogression_3be0f023:
     "身處夾窄地方的不快感流經全身。"
 
 # game/murdochroute4.rpy:3407
-translate Tchinese dahliaprogression_f5cd3207:
+translate Tchinese dahliaprogression_744fa477:
 
-    # "That feeling of dread isn’t new, but I can’t help feel it get worse the higher I go."
+    # "That feeling of dread isn’t new, but I can’t help but feel it get worse the higher I go."
     "這種恐慌感也不算新奇了，但爬得越高，我感覺就越糟。"
 
 # game/murdochroute4.rpy:3408
@@ -8735,9 +8735,9 @@ translate Tchinese dahliaprogression_dceabfab:
     "要不是現況如此，這問題還算合理。"
 
 # game/murdochroute4.rpy:3441
-translate Tchinese dahliaprogression_4c544913:
+translate Tchinese dahliaprogression_78d1aaa5:
 
-    # m "\"Murdoch’s been turnin’ over every rock in creation for you.\""
+    # m "\"Murdoch’s been turnin’ over every rock in creation lookin’ for you.\""
     m "Murdoch到處在找妳。"
 
 # game/murdochroute4.rpy:3442
@@ -9083,9 +9083,9 @@ translate Tchinese dahliaprogression_06398373:
     "她嘆了口氣。"
 
 # game/murdochroute4.rpy:3577
-translate Tchinese dahliaprogression_fc592989:
+translate Tchinese dahliaprogression_532d72cd:
 
-    # dh "\"Because I am the only one who can do what I am doing Mr. Ayers.\""
+    # dh "\"Because I am the only one who can do what I am doing, Mr. Ayers.\""
     dh "我是唯一能做我正在做的事的人，Ayers先生。"
 
 # game/murdochroute4.rpy:3580
@@ -9107,9 +9107,9 @@ translate Tchinese dahliaprogression_a8a8d9db:
     dh "我正在數屍體呢。"
 
 # game/murdochroute4.rpy:3588
-translate Tchinese dahliaprogression_a7b2438d:
+translate Tchinese dahliaprogression_d5ac6034:
 
-    # dh "\"This sky is {i}not{/i} my sky, Mr. Ayers, and nor is it yours.\""
+    # dh "\"This sky is {i}not{/i} my sky, Mr. Ayers, nor is it yours.\""
     dh "這片天空{i}並非{/i}我的天空，Ayers先生，也不是你的。"
 
 # game/murdochroute4.rpy:3591
@@ -9880,10 +9880,10 @@ translate Tchinese dahliasuccess_9969e16b:
     # dh "\"I think that when we are buffeted with trillion year old light from the deepest, oldest, most alien parts of the universe...\""
     dh "我認為當幾兆歲的光從宇宙最深遠、最古老、最異質的地方照來……"
 
-# game/murdochroute4.rpy:3879
-translate Tchinese dahliasuccess_fc941547:
+# game/murdochroute4.rpy:3882
+translate Tchinese dahliasuccess_923b805c:
 
-    # dh "\"Light which exists on a frequency, that, which, in many ways...\""
+    # dh "\"Light which exists on a frequency that, in many ways...\""
     dh "這些光以一定頻率存在，從各種角度上來說……"
 
 # game/murdochroute4.rpy:3882
@@ -10212,10 +10212,10 @@ translate Tchinese dahliasuccess_4e431fea:
     # "Jim and his friends are waiting on the steps with Cynthia."
     "Jim和他朋友們跟Cynthia一起在樓梯上等著。"
 
-# game/murdochroute4.rpy:3965
-translate Tchinese dahliasuccess_2ac864fe:
+# game/murdochroute4.rpy:3967
+translate Tchinese dahliasuccess_35734da7:
 
-    # "Their turn their necks when they hear us walking."
+    # "They turn their necks when they hear us walking."
     "一聽見我們的腳步聲，便轉過頭來。"
 
 # game/murdochroute4.rpy:3967
@@ -10350,10 +10350,10 @@ translate Tchinese dahliasuccess_3ffbe621:
     # cy "\"Whoever was down there seemed like they wanted people to stay out.\""
     cy "底下那人看來不太想遇到別人。"
 
-# game/murdochroute4.rpy:4034
-translate Tchinese dahliasuccess_123f1765:
+# game/murdochroute4.rpy:4036
+translate Tchinese dahliasuccess_dc566b16:
 
-    # m "\"Well, if he’s the arsonist I’d like to make sure he doesn’t have an opportunity to smoke us up while we sleep.\""
+    # m "\"Well, if he’s the arsonist, I’d like to make sure he doesn’t have an opportunity to smoke us up while we sleep.\""
     m "這個嘛，如果他就是縱火犯，最好確保他不會趁咱們睡覺的時候放火。"
 
 # game/murdochroute4.rpy:4036
@@ -10404,10 +10404,10 @@ translate Tchinese dahliasuccess_fed48b1d:
     # nei "\"Fear isn’t becoming of you, Jim.\""
     nei "你可不是膽小怕事的人啊，Jim。"
 
-# game/murdochroute4.rpy:4057
-translate Tchinese dahliasuccess_518e3829:
+# game/murdochroute4.rpy:4059
+translate Tchinese dahliasuccess_380c51b2:
 
-    # ji "\"Asking for rational explanation for something risky isn’t fear.\""
+    # ji "\"Asking for a rational explanation for something risky isn’t fear.\""
     ji "對危險事項要求合理解釋才不是害怕。"
 
 # game/murdochroute4.rpy:4061
@@ -10470,10 +10470,10 @@ translate Tchinese dahliasuccess_deef8fe8:
     # "It’s something she does whenever she’s very irritated."
     "這是她非常不爽時的舉動。"
 
-# game/murdochroute4.rpy:4081
-translate Tchinese dahliasuccess_598a2030:
+# game/murdochroute4.rpy:4083
+translate Tchinese dahliasuccess_5673332a:
 
-    # cy "\"...right.\""
+    # cy "\"...Right.\""
     cy "……行吧。"
 
 # game/murdochroute4.rpy:4083
@@ -10482,10 +10482,10 @@ translate Tchinese dahliasuccess_ce24fbf8:
     # cy "\"But does it make sense to leave the front exposed?\""
     cy "但有道理放著正門不管嗎？"
 
-# game/murdochroute4.rpy:4085
-translate Tchinese dahliasuccess_ca580b7e:
+# game/murdochroute4.rpy:4087
+translate Tchinese dahliasuccess_5d03ce78:
 
-    # cy "\"...how about the men go {i}downstairs{/i} and the women stay {i}upstairs?{/i}\""
+    # cy "\"...How about the men go {i}downstairs{/i} and the women stay {i}upstairs?{/i}\""
     cy "……要不男人{i}下去{/i}，女人留在{i}樓上{/i}如何？"
 
 # game/murdochroute4.rpy:4087
@@ -10560,10 +10560,10 @@ translate Tchinese dahliasuccess_32ce4429:
     # mu "\"I think it’s a good idea to keep a lookout anyway.\""
     mu "無論如何，留人把守是個好主意。"
 
-# game/murdochroute4.rpy:4130
-translate Tchinese dahliasuccess_f395e56d:
+# game/murdochroute4.rpy:4132
+translate Tchinese dahliasuccess_75797f8f:
 
-    # cy "\"If it’s just the two of us we aren’t going to be able to take breaks or check on the rest of you.\""
+    # cy "\"If it’s just the two of us, we aren’t going to be able to take breaks or check on the rest of you.\""
     cy "要是只有我們兩個，就沒法休息或去查看你們的情況了。"
 
 # game/murdochroute4.rpy:4132
@@ -10578,11 +10578,11 @@ translate Tchinese dahliasuccess_c5eb1ee3:
     # "I do a quick count of everybody coming."
     "我草草數了一下要去的人。"
 
-# game/murdochroute4.rpy:4136
-translate Tchinese dahliasuccess_c71b288a:
+# game/murdochroute4.rpy:4138
+translate Tchinese dahliasuccess_abf8c6df:
 
-    # m "\"Eight people manage to get in trouble, you shouldn’t come down for us anyway.\""
-    m "八個人去都全出事了，我看妳們也甭來找人了。"
+    # m "\"...eight people manage to get in trouble, you shouldn’t come down for us anyway.\""
+    m "……八個人去都全出事了，我看妳們也甭來找人了。"
 
 # game/murdochroute4.rpy:4138
 translate Tchinese dahliasuccess_60309c65:
@@ -10602,22 +10602,22 @@ translate Tchinese dahliasuccess_863a2b40:
     # cy "\"Just be careful, Sam.\""
     cy "小心點啊，Sam。"
 
-# game/murdochroute4.rpy:4144
-translate Tchinese dahliasuccess_69f248f9:
+# game/murdochroute4.rpy:4146
+translate Tchinese dahliasuccess_f57eb7e8:
 
-    # m "\"I feel good about the odds Cynthia.\""
+    # m "\"I feel good about the odds, Cynthia.\""
     m "我覺得勝算還不錯，Cynthia。"
 
-# game/murdochroute4.rpy:4146
-translate Tchinese dahliasuccess_828374c6:
+# game/murdochroute4.rpy:4148
+translate Tchinese dahliasuccess_acbb3e1f:
 
-    # cy "\"You be surprised how quickly mistakes can stack up.\""
+    # cy "\"You'd be surprised how quickly mistakes can stack up.\""
     cy "怕你是不知道所謂一步錯，步步錯。"
 
-# game/murdochroute4.rpy:4148
-translate Tchinese dahliasuccess_689b3ac6:
+# game/murdochroute4.rpy:4150
+translate Tchinese dahliasuccess_ff3d4dce:
 
-    # cy "\"Some things are better off not knowing, if it means you don’t piss off the wrong person.\""
+    # cy "\"Some things we’re better off not knowing, if it means you don’t piss off the wrong person.\""
     cy "有些事情還是不要知道比較好，免得惹錯人。"
 
 # game/murdochroute4.rpy:4150
@@ -10632,11 +10632,11 @@ translate Tchinese dahliasuccess_bc267737:
     # m "\"Now I know this isn’t going to sound {i}sensible{/i}...\""
     m "我知道這聽起來不太合理……"
 
-# game/murdochroute4.rpy:4154
-translate Tchinese dahliasuccess_5659f183:
+# game/murdochroute4.rpy:4156
+translate Tchinese dahliasuccess_ea45c0f9:
 
-    # m "\"But I think Lucy was onto something when she thought there was something wrong with that basement.\""
-    m "但我覺得Lucy說那地下室有問題是對的。"
+    # m "\"...but I think Lucy was onto something when she thought there was something wrong with that basement.\""
+    m "……但我覺得Lucy說那地下室有問題是對的。"
 
 # game/murdochroute4.rpy:4156
 translate Tchinese dahliasuccess_8785f4bc:
@@ -10698,10 +10698,10 @@ translate Tchinese dahliasuccess_75d0667b:
     # "She puts her hands on her hips, sighing with exasperation."
     "她雙手叉腰，惱怒嘆氣。"
 
-# game/murdochroute4.rpy:4175
-translate Tchinese dahliasuccess_1f2c9a81:
+# game/murdochroute4.rpy:4177
+translate Tchinese dahliasuccess_9d55735c:
 
-    # cy "\"...okay.\""
+    # cy "\"...Okay.\""
     cy "……那好吧。"
 
 # game/murdochroute4.rpy:4176
@@ -10806,10 +10806,10 @@ translate Tchinese dahliasuccess_add3cf57:
     # "All I have to do is put in the right numbers."
     "只要輸入正確的數字就好。"
 
-# game/murdochroute4.rpy:4204
-translate Tchinese dahliasuccess_175b1271:
+# game/murdochroute4.rpy:4206
+translate Tchinese dahliasuccess_1fdbdce4:
 
-    # "Dahlia's riddle is still fresh in my mind."
+    # "Dahlia’s riddle is still fresh in my mind."
     "Dahlia的謎語我還記憶猶新。"
 
 # game/murdochroute4.rpy:4205
@@ -10830,10 +10830,10 @@ translate Tchinese basementlock_16ab8929:
     # "I feel a click."
     "感覺到喀擦一聲。"
 
-# game/murdochroute4.rpy:4219
-translate Tchinese basementlock_c33484d2:
+# game/murdochroute4.rpy:4221
+translate Tchinese basementlock_b0e24b94:
 
-    # "The lock won't budge."
+    # "The lock won’t budge."
     "鎖不為所動。"
 
 # game/murdochroute4.rpy:4224
@@ -10853,3 +10853,2055 @@ translate Tchinese basementlock_4f6499cf:
 
     # "It just won’t open."
     "死活打不開。"
+
+# TODO: Translation updated at 2026-08-05 05:59
+
+# game/murdochroute4.rpy:4239
+translate Tchinese basementlocklasttry_14317e0f:
+
+    # m "\"It’s not opening.\""
+    m ""
+
+# game/murdochroute4.rpy:4240
+translate Tchinese basementlocklasttry_d7951e47:
+
+    # m "\"...Why doesn’t she just tell us the damn combination?\""
+    m ""
+
+# game/murdochroute4.rpy:4242
+translate Tchinese basementlocklasttry_05c389ec:
+
+    # mu "\"I think some part of her doesn’t want us to get through these doors.\""
+    mu ""
+
+# game/murdochroute4.rpy:4244
+translate Tchinese basementlocklasttry_e742f0f7:
+
+    # mu "\"...What did she tell you?\""
+    mu ""
+
+# game/murdochroute4.rpy:4245
+translate Tchinese basementlocklasttry_c903d4d9:
+
+    # "I list off the phrases, one by one."
+    ""
+
+# game/murdochroute4.rpy:4247
+translate Tchinese basementlocklasttry_e4419124:
+
+    # mu "\"Hrm.\""
+    mu ""
+
+# game/murdochroute4.rpy:4249
+translate Tchinese basementlocklasttry_a5c715d0:
+
+    # mu "\"The thing about Dahlia is that she refuses to be straightforward.\""
+    mu ""
+
+# game/murdochroute4.rpy:4251
+translate Tchinese basementlocklasttry_dc301fdf:
+
+    # mu "\"Some of those phrases seem to be talking about individual stars and some seem to be talking about constellations.\""
+    mu ""
+
+# game/murdochroute4.rpy:4252
+translate Tchinese basementlocklasttry_2433992f:
+
+    # mu "\"Figuring out which is which will probably give us the combination.\""
+    mu ""
+
+# game/murdochroute4.rpy:4259
+translate Tchinese basementlocklasttry_16ab8929:
+
+    # "I feel a click."
+    ""
+
+# game/murdochroute4.rpy:4268
+translate Tchinese basementlocklasttry_a6dcd2bb:
+
+    # m "\"It won’t open.\""
+    m ""
+
+# game/murdochroute4.rpy:4270
+translate Tchinese basementlocklasttry_1896907e:
+
+    # m "\"It still won’t open.\""
+    m ""
+
+# game/murdochroute4.rpy:4272
+translate Tchinese basementlocklasttry_30e861b8:
+
+    # mu "\"Are you going to try again?\""
+    mu ""
+
+# game/murdochroute4.rpy:4273
+translate Tchinese basementlocklasttry_cd399b0f:
+
+    # m "\"I don’t think it will make a difference.\""
+    m ""
+
+# game/murdochroute4.rpy:4275
+translate Tchinese basementlocklasttry_dc098958:
+
+    # me "\"Um... excuse me?\""
+    me ""
+
+# game/murdochroute4.rpy:4276
+translate Tchinese basementlocklasttry_ac24eeaf:
+
+    # "We hear the rabbit’s voice calling from the top of the stairs."
+    ""
+
+# game/murdochroute4.rpy:4277
+translate Tchinese basementlocklasttry_fb4a7567:
+
+    # me "\"There’s somebody here at the door.\""
+    me ""
+
+# game/murdochroute4.rpy:4278
+translate Tchinese basementlocklasttry_f7f6cefc:
+
+    # me "\"We’re not sure if we should let them in or not.\""
+    me ""
+
+# game/murdochroute4.rpy:4280
+translate Tchinese basementlocklasttry_76cc4abf:
+
+    # ra "\"Who is it?\""
+    ra ""
+
+# game/murdochroute4.rpy:4281
+translate Tchinese basementlocklasttry_37cb56b1:
+
+    # me "\"Um...\""
+    me ""
+
+# game/murdochroute4.rpy:4282
+translate Tchinese basementlocklasttry_d26d2ff7:
+
+    # me "\"We don’t know, but--\""
+    me ""
+
+# game/murdochroute4.rpy:4284
+translate Tchinese basementlocklasttry_12ac7066:
+
+    # cy "\"They’re unlocking the door!\""
+    cy ""
+
+# game/murdochroute4.rpy:4285
+translate Tchinese basementlocklasttry_a9e923ab:
+
+    # cy "\"Somebody get up here!\""
+    cy ""
+
+# game/murdochroute4.rpy:4287
+translate Tchinese basementlocklasttry_cceadb2e:
+
+    # "I stare at that cellar door again."
+    ""
+
+# game/murdochroute4.rpy:4288
+translate Tchinese basementlocklasttry_fd468c2a:
+
+    # "Something about it makes me feel like it wants to be unlocked."
+    ""
+
+# game/murdochroute4.rpy:4289
+translate Tchinese basementlocklasttry_2e2f44f7:
+
+    # "Wants us inside."
+    ""
+
+# game/murdochroute4.rpy:4290
+translate Tchinese basementlocklasttry_aa7eedc0:
+
+    # "Murdoch is staring at it harder than me."
+    ""
+
+# game/murdochroute4.rpy:4291
+translate Tchinese basementlocklasttry_ab598825:
+
+    # "Maybe leaving it be might be for the best."
+    ""
+
+# game/murdochroute4.rpy:4292
+translate Tchinese basementlocklasttry_8794e2d9:
+
+    # m "\"Coming.\""
+    m ""
+
+# game/murdochroute4.rpy:4294
+translate Tchinese basementlocklasttry_64e2e099:
+
+    # mu "\"But what about the door?\""
+    mu ""
+
+# game/murdochroute4.rpy:4295
+translate Tchinese basementlocklasttry_6302ff6f:
+
+    # m "\"It’s not going anywhere.\""
+    m ""
+
+# game/murdochroute4.rpy:4296
+translate Tchinese basementlocklasttry_85c99b79:
+
+    # m "\"Leave it be for now.\""
+    m ""
+
+# game/murdochroute4.rpy:4298
+translate Tchinese basementlocklasttry_8d1c4e0f:
+
+    # "Disappointment washes over his face."
+    ""
+
+# game/murdochroute4.rpy:4299
+translate Tchinese basementlocklasttry_f5fbccc2:
+
+    # "His fixation on that door worries me some."
+    ""
+
+# game/murdochroute4.rpy:4300
+translate Tchinese basementlocklasttry_cf9e7561:
+
+    # m "\"Let’s just do one thing at a time, yeah?\""
+    m ""
+
+# game/murdochroute4.rpy:4302
+translate Tchinese basementlocklasttry_7c15d310:
+
+    # mu "\"I really think we should be focusing on this.\""
+    mu ""
+
+# game/murdochroute4.rpy:4303
+translate Tchinese basementlocklasttry_58fd3e52:
+
+    # m "\"Well, maybe somebody smarter than me can figure out the combination then.\""
+    m ""
+
+# game/murdochroute4.rpy:4304
+translate Tchinese basementlocklasttry_53f10690:
+
+    # m "\"Let’s just see who’s at the door for now, okay?\""
+    m ""
+
+# game/murdochroute4.rpy:4306
+translate Tchinese basementlocklasttry_fa98d387:
+
+    # "He bites his bottom lip."
+    ""
+
+# game/murdochroute4.rpy:4308
+translate Tchinese basementlocklasttry_3a5001d4:
+
+    # mu "\"Fine.\""
+    mu ""
+
+# game/murdochroute4.rpy:4311
+translate Tchinese basementlocklasttry_0d81a592:
+
+    # "The wooden steps creak and groan from how fast I stomp up them."
+    ""
+
+# game/murdochroute4.rpy:4332
+translate Tchinese failuremerge_c610577a:
+
+    # "Everybody in the atrium is looking at the front door."
+    ""
+
+# game/murdochroute4.rpy:4334
+translate Tchinese failuremerge_a81f9de0:
+
+    # "The end of a long, narrow key slips through the lock."
+    ""
+
+# game/murdochroute4.rpy:4336
+translate Tchinese failuremerge_1fbc6c56:
+
+    # "It turns."
+    ""
+
+# game/murdochroute4.rpy:4338
+translate Tchinese failuremerge_73379d98:
+
+    # "Clicks softly."
+    ""
+
+# game/murdochroute4.rpy:4340
+translate Tchinese failuremerge_f2d007b0:
+
+    # "Holly Byrnes steps through the doorway."
+    ""
+
+# game/murdochroute4.rpy:4343
+translate Tchinese failuremerge_1eb98365:
+
+    # "She pauses, seeing all of us staring back at her."
+    ""
+
+# game/murdochroute4.rpy:4345
+translate Tchinese failuremerge_18e8b3d2:
+
+    # ho "\"What are you all doing here?!\""
+    ho ""
+
+# game/murdochroute4.rpy:4348
+translate Tchinese failuremerge_1175694b:
+
+    # ho "\"Who let you in?!\""
+    ho ""
+
+# game/murdochroute4.rpy:4352
+translate Tchinese failuremerge_f57bed26:
+
+    # "Murdoch steps forward."
+    ""
+
+# game/murdochroute4.rpy:4354
+translate Tchinese failuremerge_0b20fa5e:
+
+    # mu "\"Sorry.\""
+    mu ""
+
+# game/murdochroute4.rpy:4357
+translate Tchinese failuremerge_527333f8:
+
+    # "Holly sees him, and her expression shifts from surprised to irritated."
+    ""
+
+# game/murdochroute4.rpy:4360
+translate Tchinese failuremerge_fa43ebc0:
+
+    # ho "\"Of course.\""
+    ho ""
+
+# game/murdochroute4.rpy:4363
+translate Tchinese failuremerge_722128ef:
+
+    # ho "\"Now we’ll never hear the end of this.\""
+    ho ""
+
+# game/murdochroute4.rpy:4366
+translate Tchinese failuremerge_6ac71d17:
+
+    # ho "\"Why did you think this was a good idea?\""
+    ho ""
+
+# game/murdochroute4.rpy:4368
+translate Tchinese failuremerge_04b9e317:
+
+    # mu "\"We’ve used the school for emergency contingencies before.\""
+    mu ""
+
+# game/murdochroute4.rpy:4370
+translate Tchinese failuremerge_c9f15e1b:
+
+    # ho "\"The church was sufficiently safe.\""
+    ho ""
+
+# game/murdochroute4.rpy:4373
+translate Tchinese failuremerge_08766c0a:
+
+    # mu "\"We wanted to be away from the fires and as close to the train as possible.\""
+    mu ""
+
+# game/murdochroute4.rpy:4375
+translate Tchinese failuremerge_7f620fce:
+
+    # ho "\"Well what’s the point of--\""
+    ho ""
+
+# game/murdochroute4.rpy:4377
+translate Tchinese failuremerge_4989ebf0:
+
+    # "Her gaze meets somebody else's."
+    ""
+
+# game/murdochroute4.rpy:4378
+translate Tchinese failuremerge_d4cd4983:
+
+    # "I turn around to see Jim staring down from the top of the stairs."
+    ""
+
+# game/murdochroute4.rpy:4381
+translate Tchinese failuremerge_9c95ae76:
+
+    # "Her expression softens."
+    ""
+
+# game/murdochroute4.rpy:4383
+translate Tchinese failuremerge_3af91d8b:
+
+    # ho "\"...I wasn’t sure that I’d be seeing you again.\""
+    ho ""
+
+# game/murdochroute4.rpy:4385
+translate Tchinese failuremerge_d4ae121f:
+
+    # "He scowls."
+    ""
+
+# game/murdochroute4.rpy:4387
+translate Tchinese failuremerge_693fd103:
+
+    # ji "\"Everybody’s leaving, Holly.\""
+    ji ""
+
+# game/murdochroute4.rpy:4390
+translate Tchinese failuremerge_050711d6:
+
+    # ji "\"First chance that we get.\""
+    ji ""
+
+# game/murdochroute4.rpy:4393
+translate Tchinese failuremerge_293c4eb9:
+
+    # ho "\"Well, obviously.\""
+    ho ""
+
+# game/murdochroute4.rpy:4396
+translate Tchinese failuremerge_a94e2e2e:
+
+    # ho "\"Half of downtown’s already been swallowed by flames.\""
+    ho ""
+
+# game/murdochroute4.rpy:4399
+translate Tchinese failuremerge_0bd0e9aa:
+
+    # ji "\"...Do you regret that?\""
+    ji ""
+
+# game/murdochroute4.rpy:4402
+translate Tchinese failuremerge_027058b1:
+
+    # ho "\"Of course I regret that.\""
+    ho ""
+
+# game/murdochroute4.rpy:4405
+translate Tchinese failuremerge_d4c5585e:
+
+    # ji "\"Good to know you’re capable.\""
+    ji ""
+
+# game/murdochroute4.rpy:4408
+translate Tchinese failuremerge_a264eff7:
+
+    # "She opens her mouth, as if to speak, {nw}"
+    ""
+
+# game/murdochroute4.rpy:4410
+translate Tchinese failuremerge_fefeb965:
+
+    # extend "then closes it."
+    extend ""
+
+# game/murdochroute4.rpy:4412
+translate Tchinese failuremerge_4c13c181:
+
+    # ho "\"Yes, I’m capable.\""
+    ho ""
+
+# game/murdochroute4.rpy:4414
+translate Tchinese failuremerge_71e2a82c:
+
+    # "They stare at each other, in silence."
+    ""
+
+# game/murdochroute4.rpy:4416
+translate Tchinese failuremerge_53faec48:
+
+    # "It’s almost like they’ve forgotten everybody else in the room."
+    ""
+
+# game/murdochroute4.rpy:4418
+translate Tchinese failuremerge_e48a1508:
+
+    # ho "\"Could we speak in private?\""
+    ho ""
+
+# game/murdochroute4.rpy:4420
+translate Tchinese failuremerge_97b865c8:
+
+    # "Jim makes a beckoning gesture with his hand."
+    ""
+
+# game/murdochroute4.rpy:4422
+translate Tchinese failuremerge_75f768b2:
+
+    # "Quickly, she glides up the stairs."
+    ""
+
+# game/murdochroute4.rpy:4426
+translate Tchinese failuremerge_f478266f:
+
+    # "The two of them disappear in the direction of the library."
+    ""
+
+# game/murdochroute4.rpy:4428
+translate Tchinese failuremerge_de050a39:
+
+    # m "\"She looks like she forgot what she was going to say real quick.\""
+    m ""
+
+# game/murdochroute4.rpy:4430
+translate Tchinese failuremerge_2b213610:
+
+    # ra "\"Wouldn’t be the first time.\""
+    ra ""
+
+# game/murdochroute4.rpy:4432
+translate Tchinese failuremerge_878a2deb:
+
+    # "Ralph’s tail is curling with agitation."
+    ""
+
+# game/murdochroute4.rpy:4434
+translate Tchinese failuremerge_c81c8947:
+
+    # ra "\"He’s always had that effect on her.\""
+    ra ""
+
+# game/murdochroute4.rpy:4436
+translate Tchinese failuremerge_c2a90e79:
+
+    # ra "\"I don’t like those two being alone together.\""
+    ra ""
+
+# game/murdochroute4.rpy:4438
+translate Tchinese failuremerge_7301e869:
+
+    # mu "\"Let them be.\""
+    mu ""
+
+# game/murdochroute4.rpy:4440
+translate Tchinese failuremerge_259f44ef:
+
+    # mu "\"If it’s anything, she’s trying to apologize again.\""
+    mu ""
+
+# game/murdochroute4.rpy:4443
+translate Tchinese failuremerge_9a3ca57f:
+
+    # ra "\"Funny how it’s never to you.\""
+    ra ""
+
+# game/murdochroute4.rpy:4445
+translate Tchinese failuremerge_a2234e0e:
+
+    # "The fox lowers his voice."
+    ""
+
+# game/murdochroute4.rpy:4447
+translate Tchinese failuremerge_8f8650a3:
+
+    # mu "\"That’s just how it works when you’re family.\""
+    mu ""
+
+# game/murdochroute4.rpy:4449
+translate Tchinese failuremerge_2c065278:
+
+    # "Ralph opens his mouth to push back but the glare Murdoch gives him stops him."
+    ""
+
+# game/murdochroute4.rpy:4451
+translate Tchinese failuremerge_0e4d3fc9:
+
+    # ra "\"...Lunacy.\""
+    ra ""
+
+# game/murdochroute4.rpy:4455
+translate Tchinese failuremerge_cf0f533c:
+
+    # "Ralph steps away, squatting in a corner."
+    ""
+
+# game/murdochroute4.rpy:4457
+translate Tchinese failuremerge_442bd256:
+
+    # ra "\"You know, they banished my ancestors to an island for very good reason.\""
+    ra ""
+
+# game/murdochroute4.rpy:4460
+translate Tchinese failuremerge_e85c1fc4:
+
+    # ra "\"Criminal is criminal.\""
+    ra ""
+
+# game/murdochroute4.rpy:4461
+translate Tchinese failuremerge_d92897ca:
+
+    # ra "\"And blood be damned.\""
+    ra ""
+
+# game/murdochroute4.rpy:4463
+translate Tchinese failuremerge_86488cbf:
+
+    # "Murdoch’s tail swishes with agitation."
+    ""
+
+# game/murdochroute4.rpy:4465
+translate Tchinese failuremerge_c57ba101:
+
+    # "I can’t say my relations with my own family were much different."
+    ""
+
+# game/murdochroute4.rpy:4467
+translate Tchinese failuremerge_1d423401:
+
+    # "Forgiveness was mandated."
+    ""
+
+# game/murdochroute4.rpy:4469
+translate Tchinese failuremerge_714a5be3:
+
+    # "You honored your elders."
+    ""
+
+# game/murdochroute4.rpy:4471
+translate Tchinese failuremerge_0d3044ce:
+
+    # "You didn’t break covenants with your siblings."
+    ""
+
+# game/murdochroute4.rpy:4473
+translate Tchinese failuremerge_de43df30:
+
+    # "That was just how it was."
+    ""
+
+# game/murdochroute4.rpy:4475
+translate Tchinese failuremerge_53cf37bb:
+
+    # "It’s partly why I ran from them."
+    ""
+
+# game/murdochroute4.rpy:4483
+translate Tchinese failuremerge_671f3613:
+
+    # reu "\"I won’t complain if he’s listening to her so we don’t have to.\""
+    reu ""
+
+# game/murdochroute4.rpy:4486
+translate Tchinese failuremerge_16b8b276:
+
+    # reu "\"She’s his ball and chain.\""
+    reu ""
+
+# game/murdochroute4.rpy:4489
+translate Tchinese failuremerge_e379c35a:
+
+    # reu "\"Not mine.\""
+    reu ""
+
+# game/murdochroute4.rpy:4492
+translate Tchinese failuremerge_3e8ca38b:
+
+    # mu "\"Looks like they’re smoothing things over.\""
+    mu ""
+
+# game/murdochroute4.rpy:4494
+translate Tchinese failuremerge_61baea5d:
+
+    # m "\"...What makes you say that?\""
+    m ""
+
+# game/murdochroute4.rpy:4497
+translate Tchinese failuremerge_89fb2cc3:
+
+    # "The dog barks out a quiet laugh."
+    ""
+
+# game/murdochroute4.rpy:4499
+translate Tchinese failuremerge_e504dae6:
+
+    # nei "\"I’ve seen this happen countless times.\""
+    nei ""
+
+# game/murdochroute4.rpy:4502
+translate Tchinese failuremerge_19f7ea5b:
+
+    # nei "\"I know the body language.\""
+    nei ""
+
+# game/murdochroute4.rpy:4505
+translate Tchinese failuremerge_1afd945c:
+
+    # nei "\"Relationships of this manner always fall back into place, in spite of the hiccups.\""
+    nei ""
+
+# game/murdochroute4.rpy:4512
+translate Tchinese failuremerge_5791b968:
+
+    # "I’m not sure if that’s true, not that it’s my business, or that I even care."
+    ""
+
+# game/murdochroute4.rpy:4514
+translate Tchinese failuremerge_e7402532:
+
+    # "But if she’s too preoccupied to push us out of the school for the night, that’s all we need to pass until morning."
+    ""
+
+# game/murdochroute4.rpy:4517
+translate Tchinese failuremerge_8451333b:
+
+    # "I try my best to stay awake, but I’m more exhausted than I realized, and stopping for a spell is all my body needs to feel heavy."
+    ""
+
+# game/murdochroute4.rpy:4518
+translate Tchinese failuremerge_685de594:
+
+    # "Before I know it, I feel my eyes flipping open."
+    ""
+
+# game/murdochroute4.rpy:4520
+translate Tchinese failuremerge_6af86606:
+
+    # "I see sunlight stream through the windows."
+    ""
+
+# game/murdochroute4.rpy:4522
+translate Tchinese failuremerge_ae3d2d77:
+
+    # "It’s morning."
+    ""
+
+# game/murdochroute4.rpy:4524
+translate Tchinese failuremerge_b487d419:
+
+    # ra "\"Good morning, your highness.\""
+    ra ""
+
+# game/murdochroute4.rpy:4526
+translate Tchinese failuremerge_f08d229d:
+
+    # m "\"...Shit.\""
+    m ""
+
+# game/murdochroute4.rpy:4528
+translate Tchinese failuremerge_5855582e:
+
+    # m "\"I don’t remember falling asleep.\""
+    m ""
+
+# game/murdochroute4.rpy:4530
+translate Tchinese failuremerge_eae26027:
+
+    # ra "\"Well.\""
+    ra ""
+
+# game/murdochroute4.rpy:4532
+translate Tchinese failuremerge_2c0c9271:
+
+    # ra "\"You did.\""
+    ra ""
+
+# game/murdochroute4.rpy:4534
+translate Tchinese failuremerge_3eaf512a:
+
+    # ra "\"Jim’s group already left for the station.\""
+    ra ""
+
+# game/murdochroute4.rpy:4536
+translate Tchinese failuremerge_1e701bfb:
+
+    # m "\"They went without us?\""
+    m ""
+
+# game/murdochroute4.rpy:4538
+translate Tchinese failuremerge_d670fa20:
+
+    # ra "\"Are you surprised?\""
+    ra ""
+
+# game/murdochroute4.rpy:4540
+translate Tchinese failuremerge_531d71da:
+
+    # ra "\"Our usefulness has run out.\""
+    ra ""
+
+# game/murdochroute4.rpy:4542
+translate Tchinese failuremerge_9b3221f3:
+
+    # ra "\"Of course, Holly was quite insistent that they leave without waking too many people up.\""
+    ra ""
+
+# game/murdochroute4.rpy:4544
+translate Tchinese failuremerge_d58b68ee:
+
+    # m "\"...Who’s left?\""
+    m ""
+
+# game/murdochroute4.rpy:4546
+translate Tchinese failuremerge_6e33976a:
+
+    # ra "\"Just the Hip workers.\""
+    ra ""
+
+# game/murdochroute4.rpy:4548
+translate Tchinese failuremerge_71152eb4:
+
+    # ra "\"Those two girls must have slipped off sometime when Holly arrived.\""
+    ra ""
+
+# game/murdochroute4.rpy:4550
+translate Tchinese failuremerge_d2ef88e2:
+
+    # cy "\"Sam?\""
+    cy ""
+
+# game/murdochroute4.rpy:4552
+translate Tchinese failuremerge_ca9a236e:
+
+    # "I feel a little more at ease when I hear Cynthia’s voice."
+    ""
+
+# game/murdochroute4.rpy:4554
+translate Tchinese failuremerge_f2093ff4:
+
+    # "She walks toward me, rubbing her eyes."
+    ""
+
+# game/murdochroute4.rpy:4556
+translate Tchinese failuremerge_a5081413:
+
+    # "I’ve rarely ever seen her this tired."
+    ""
+
+# game/murdochroute4.rpy:4558
+translate Tchinese failuremerge_f14adaeb:
+
+    # cy "\"It’s good that you’re up.\""
+    cy ""
+
+# game/murdochroute4.rpy:4560
+translate Tchinese failuremerge_354d8cbf:
+
+    # cy "\"I was worried you were going to keep sleeping.\""
+    cy ""
+
+# game/murdochroute4.rpy:4562
+translate Tchinese failuremerge_690e867f:
+
+    # m "\"Shit.\""
+    m ""
+
+# game/murdochroute4.rpy:4564
+translate Tchinese failuremerge_fd2eb9ea:
+
+    # m "\"How late is it?\""
+    m ""
+
+# game/murdochroute4.rpy:4566
+translate Tchinese failuremerge_b08f1847:
+
+    # cy "\"I’d wager about half past ten.\""
+    cy ""
+
+# game/murdochroute4.rpy:4568
+translate Tchinese failuremerge_1c238f71:
+
+    # cy "\"We need to be off if we want to make the noon train.\""
+    cy ""
+
+# game/murdochroute4.rpy:4570
+translate Tchinese failuremerge_6bff4e6b:
+
+    # m "\"...Yeah.\""
+    m ""
+
+# game/murdochroute4.rpy:4572
+translate Tchinese failuremerge_a2832ddf:
+
+    # m "\"It would be good to go soon then, wouldn’t it?\""
+    m ""
+
+# game/murdochroute4.rpy:4574
+translate Tchinese failuremerge_90cd340b:
+
+    # m "\"Where’s Murdoch?\""
+    m ""
+
+# game/murdochroute4.rpy:4576
+translate Tchinese failuremerge_ec108c2f:
+
+    # ra "\"He’s already at the station.\""
+    ra ""
+
+# game/murdochroute4.rpy:4578
+translate Tchinese failuremerge_d558ef9b:
+
+    # "...Huh?"
+    ""
+
+# game/murdochroute4.rpy:4580
+translate Tchinese failuremerge_fdcfd18e:
+
+    # m "\"Why?\""
+    m ""
+
+# game/murdochroute4.rpy:4582
+translate Tchinese failuremerge_063d0e48:
+
+    # ra "\"Why don’t you ask him?\""
+    ra ""
+
+# game/murdochroute4.rpy:4584
+translate Tchinese failuremerge_5119ff21:
+
+    # m "\"What’s that supposed to mean?\""
+    m ""
+
+# game/murdochroute4.rpy:4586
+translate Tchinese failuremerge_3693e18a:
+
+    # ra "\"You’re the one he’s been talking to the last few weeks.\""
+    ra ""
+
+# game/murdochroute4.rpy:4588
+translate Tchinese failuremerge_7e045c2e:
+
+    # ra "\"He’d tell you before he told me.\""
+    ra ""
+
+# game/murdochroute4.rpy:4590
+translate Tchinese failuremerge_3520f701:
+
+    # "The rat sounds a bit resentful."
+    ""
+
+# game/murdochroute4.rpy:4592
+translate Tchinese failuremerge_cee8d13f:
+
+    # m "\"I just didn’t think he’d go to the station without me is all.\""
+    m ""
+
+# game/murdochroute4.rpy:4594
+translate Tchinese failuremerge_806c9704:
+
+    # ra "\"When Murdoch wants to do something, there’s no talking to him about it.\""
+    ra ""
+
+# game/murdochroute4.rpy:4596
+translate Tchinese failuremerge_0fd799fd:
+
+    # ra "\"He makes up his mind and he does it.\""
+    ra ""
+
+# game/murdochroute4.rpy:4598
+translate Tchinese failuremerge_36fbab8a:
+
+    # m "\"That doesn’t sound like him.\""
+    m ""
+
+# game/murdochroute4.rpy:4600
+translate Tchinese failuremerge_cd2594d0:
+
+    # ra "\"I’ve known him a lot longer than you have.\""
+    ra ""
+
+# game/murdochroute4.rpy:4602
+translate Tchinese failuremerge_a4dcf766:
+
+    # ra "\"Anyways, if you want to talk to him about it, you’d better catch him at the station before the train is off.\""
+    ra ""
+
+# game/murdochroute4.rpy:4604
+translate Tchinese failuremerge_ff5f4bbc:
+
+    # "Right."
+    ""
+
+# game/murdochroute4.rpy:4606
+translate Tchinese failuremerge_9acddd6a:
+
+    # "There’s no use speculating anyway."
+    ""
+
+# game/murdochroute4.rpy:4608
+translate Tchinese failuremerge_babbf797:
+
+    # m "\"Are we all ready?\""
+    m ""
+
+# game/murdochroute4.rpy:4610
+translate Tchinese failuremerge_d7009bf1:
+
+    # cy "\"Yeah.\""
+    cy ""
+
+# game/murdochroute4.rpy:4612
+translate Tchinese failuremerge_3b4d8dd3:
+
+    # lu "\"...I’m real dizzy.\""
+    lu ""
+
+# game/murdochroute4.rpy:4614
+translate Tchinese failuremerge_3d4c8fe2:
+
+    # cy "\"You’ll feel better once we get you away from all this bad air...\""
+    cy ""
+
+# game/murdochroute4.rpy:4617
+translate Tchinese failuremerge_9c6db5df:
+
+    # cy "\"Let’s go, gentlemen.\""
+    cy ""
+
+# game/murdochroute4.rpy:4620
+translate Tchinese failuremerge_a5327c5b:
+
+    # "The sky is a pale white rather than bloody red."
+    ""
+
+# game/murdochroute4.rpy:4622
+translate Tchinese failuremerge_9c5d1013:
+
+    # "The ruins of Echo’s downtown smolder in the distance as we trudge along."
+    ""
+
+# game/murdochroute4.rpy:4624
+translate Tchinese failuremerge_75a77bbe:
+
+    # "We take about thirty feet of steps out the front door before we hear a noise."
+    ""
+
+# game/murdochroute4.rpy:4626
+translate Tchinese failuremerge_e9f4fc11:
+
+    # "The door slams behind us."
+    ""
+
+# game/murdochroute4.rpy:4628
+translate Tchinese failuremerge_ef44780f:
+
+    # m "\"That was the younger sister, wasn’t it?\""
+    m ""
+
+# game/murdochroute4.rpy:4630
+translate Tchinese failuremerge_b35f8e9b:
+
+    # "Ralph looks back."
+    ""
+
+# game/murdochroute4.rpy:4632
+translate Tchinese failuremerge_804e8901:
+
+    # "He looks like he’s thinking."
+    ""
+
+# game/murdochroute4.rpy:4634
+translate Tchinese failuremerge_6312e981:
+
+    # ra "\"Her whole life’s achievements are wrapped up in this place.\""
+    ra ""
+
+# game/murdochroute4.rpy:4636
+translate Tchinese failuremerge_d1fa1774:
+
+    # ra "\"Makes some sense that she wouldn’t bring herself to leave.\""
+    ra ""
+
+# game/murdochroute4.rpy:4637
+translate Tchinese failuremerge_90c39e8d:
+
+    # "Something is bothering me, but I can’t tell what."
+    ""
+
+# game/murdochroute4.rpy:4639
+translate Tchinese failuremerge_f04dccb3:
+
+    # "Maybe it’s the way in which the door slammed."
+    ""
+
+# game/murdochroute4.rpy:4641
+translate Tchinese failuremerge_491a5669:
+
+    # "Or the feeling that I’ve left something unfinished."
+    ""
+
+# game/murdochroute4.rpy:4643
+translate Tchinese failuremerge_73a8f37e:
+
+    # "But Ralph's answer is satisfactory enough."
+    ""
+
+# game/murdochroute4.rpy:4645
+translate Tchinese failuremerge_cd79f48a:
+
+    # "I don’t want to hold up Cynthia anymore than I already have."
+    ""
+
+# game/murdochroute4.rpy:4647
+translate Tchinese failuremerge_d8313ecf:
+
+    # "So we keep on walking."
+    ""
+
+# game/murdochroute4.rpy:4650
+translate Tchinese failuremerge_7d39876e:
+
+    # "White ash sifts through the air as we go."
+    ""
+
+# game/murdochroute4.rpy:4652
+translate Tchinese failuremerge_21a8bf04:
+
+    # "It might feel like freshly fallen snow if it wasn’t in the dead of summer heat."
+    ""
+
+# game/murdochroute4.rpy:4654
+translate Tchinese failuremerge_8414dd24:
+
+    # "The Hip didn’t make it."
+    ""
+
+# game/murdochroute4.rpy:4656
+translate Tchinese failuremerge_3baa17bf:
+
+    # "Neither did city hall."
+    ""
+
+# game/murdochroute4.rpy:4658
+translate Tchinese failuremerge_d1fb81ef:
+
+    # "We’re lucky the train station didn’t get caught up in the fire, else we would be standing in the heat with no escape from the sun."
+    ""
+
+# game/murdochroute4.rpy:4661
+translate Tchinese failuremerge_71408323:
+
+    # "A crowd like nothing I’ve never seen before has assembled in the ticket lines."
+    ""
+
+# game/murdochroute4.rpy:4663
+translate Tchinese failuremerge_8865a65a:
+
+    # "I can see a flash of red fur within the crowd."
+    ""
+
+# game/murdochroute4.rpy:4665
+translate Tchinese failuremerge_a8693e6a:
+
+    # "When I make my way deep enough through, I can see who it belongs to."
+    ""
+
+# game/murdochroute4.rpy:4668
+translate Tchinese failuremerge_0aefacd5:
+
+    # m "\"Holly Byrnes.\""
+    m ""
+
+# game/murdochroute4.rpy:4669
+translate Tchinese failuremerge_da637587:
+
+    # "She tilts her head before turning it."
+    ""
+
+# game/murdochroute4.rpy:4671
+translate Tchinese failuremerge_29bd03aa:
+
+    # ho "\"Oh. You.\""
+    ho ""
+
+# game/murdochroute4.rpy:4673
+translate Tchinese failuremerge_32916f9f:
+
+    # "She closes her eyes, unbothered, rubbing her forehead with the back of her palm."
+    ""
+
+# game/murdochroute4.rpy:4675
+translate Tchinese failuremerge_655b29e5:
+
+    # ho "\"I didn’t much expect to run into you again.\""
+    ho ""
+
+# game/murdochroute4.rpy:4677
+translate Tchinese failuremerge_4a68aeac:
+
+    # m "\"I can say the same.\""
+    m ""
+
+# game/murdochroute4.rpy:4679
+translate Tchinese failuremerge_90cd340b_1:
+
+    # m "\"Where’s Murdoch?\""
+    m ""
+
+# game/murdochroute4.rpy:4681
+translate Tchinese failuremerge_39b786af:
+
+    # "A twinge of annoyance flashes across her face."
+    ""
+
+# game/murdochroute4.rpy:4683
+translate Tchinese failuremerge_bcef83bf:
+
+    # ho "\"I’m not sure why you’re asking me.\""
+    ho ""
+
+# game/murdochroute4.rpy:4685
+translate Tchinese failuremerge_e0b336ac:
+
+    # m "\"I was told he went to the train station with you.\""
+    m ""
+
+# game/murdochroute4.rpy:4687
+translate Tchinese failuremerge_52107312:
+
+    # m "\"At your insistence.\""
+    m ""
+
+# game/murdochroute4.rpy:4689
+translate Tchinese failuremerge_c0e3f59a:
+
+    # ho "\"Hrm.\""
+    ho ""
+
+# game/murdochroute4.rpy:4691
+translate Tchinese failuremerge_b89e3755:
+
+    # ho "\"If that were the case, he would be here, wouldn’t he?\""
+    ho ""
+
+# game/murdochroute4.rpy:4693
+translate Tchinese failuremerge_499b85ea:
+
+    # m "\"Yes.\""
+    m ""
+
+# game/murdochroute4.rpy:4695
+translate Tchinese failuremerge_bf293c7a:
+
+    # ho "\"Well, as you can see, he isn’t.\""
+    ho ""
+
+# game/murdochroute4.rpy:4697
+translate Tchinese failuremerge_03e0f990:
+
+    # "She could be lying to me."
+    ""
+
+# game/murdochroute4.rpy:4699
+translate Tchinese failuremerge_73463806:
+
+    # "She probably is lying to me."
+    ""
+
+# game/murdochroute4.rpy:4701
+translate Tchinese failuremerge_7ade962a:
+
+    # "But I can’t shake the fact that she’s right."
+    ""
+
+# game/murdochroute4.rpy:4703
+translate Tchinese failuremerge_018d54d3:
+
+    # "I can see Jim standing near her, avoiding eye contact with me."
+    ""
+
+# game/murdochroute4.rpy:4705
+translate Tchinese failuremerge_5574fa6d:
+
+    # "But no other flash of red."
+    ""
+
+# game/murdochroute4.rpy:4707
+translate Tchinese failuremerge_86126630:
+
+    # "No other red fox in the crowd."
+    ""
+
+# game/murdochroute4.rpy:4709
+translate Tchinese failuremerge_80c3e519:
+
+    # ho "\"My brother is free to live his own life.\""
+    ho ""
+
+# game/murdochroute4.rpy:4712
+translate Tchinese failuremerge_f698b618:
+
+    # ho "\"It’s about time he started.\""
+    ho ""
+
+# game/murdochroute4.rpy:4715
+translate Tchinese failuremerge_3b73520c:
+
+    # "The whistle blows. The doors of the train open."
+    ""
+
+# game/murdochroute4.rpy:4717
+translate Tchinese failuremerge_eb3c8569:
+
+    # ho "\"Are you ready, dear?\""
+    ho ""
+
+# game/murdochroute4.rpy:4720
+translate Tchinese failuremerge_abbf5974:
+
+    # "The silver fox has the look of somebody deeply troubled but made up in his mind."
+    ""
+
+# game/murdochroute4.rpy:4723
+translate Tchinese failuremerge_f9a1d25c:
+
+    # ji "\"I am.\""
+    ji ""
+
+# game/murdochroute4.rpy:4726
+translate Tchinese failuremerge_96af5d68:
+
+    # ho "\"Then let’s not look back.\""
+    ho ""
+
+# game/murdochroute4.rpy:4728
+translate Tchinese failuremerge_a52dedef:
+
+    # "She holds out her paw to him."
+    ""
+
+# game/murdochroute4.rpy:4732
+translate Tchinese failuremerge_34352670:
+
+    # "He takes it and they step on board."
+    ""
+
+# game/murdochroute4.rpy:4734
+translate Tchinese failuremerge_5f3ddbd8:
+
+    # m "\"Holly what the hell HAPPENED last night?\""
+    m ""
+
+# game/murdochroute4.rpy:4736
+translate Tchinese failuremerge_54b58e3d:
+
+    # "She stops for a moment at the door."
+    ""
+
+# game/murdochroute4.rpy:4738
+translate Tchinese failuremerge_f58c77e7:
+
+    # "I hear her speak."
+    ""
+
+# game/murdochroute4.rpy:4740
+translate Tchinese failuremerge_4475fa98:
+
+    # ho "\"You can see that he’s not with us.\""
+    ho ""
+
+# game/murdochroute4.rpy:4742
+translate Tchinese failuremerge_2f795f9d:
+
+    # "And then she disappears."
+    ""
+
+# game/murdochroute4.rpy:4744
+translate Tchinese failuremerge_6614e40f:
+
+    # "Dozens more fill into the train."
+    ""
+
+# game/murdochroute4.rpy:4746
+translate Tchinese failuremerge_99477cc2:
+
+    # "I look around me, half expecting to see some sign of Murdoch."
+    ""
+
+# game/murdochroute4.rpy:4748
+translate Tchinese failuremerge_dd645ed3:
+
+    # "But there isn’t any."
+    ""
+
+# game/murdochroute4.rpy:4750
+translate Tchinese failuremerge_706573ce:
+
+    # cy "\"Sam, are you getting on the train?\""
+    cy ""
+
+# game/murdochroute4.rpy:4752
+translate Tchinese failuremerge_ebd5094d:
+
+    # m "\"Huh...?\""
+    m ""
+
+# game/murdochroute4.rpy:4754
+translate Tchinese failuremerge_7078ebbf:
+
+    # cy "\"Everybody’s boarding!\""
+    cy ""
+
+# game/murdochroute4.rpy:4756
+translate Tchinese failuremerge_37ef442b:
+
+    # cy "\"You got your ticket, right?\""
+    cy ""
+
+# game/murdochroute4.rpy:4758
+translate Tchinese failuremerge_6bff4e6b_1:
+
+    # m "\"...Yeah.\""
+    m ""
+
+# game/murdochroute4.rpy:4760
+translate Tchinese failuremerge_1b451e7c:
+
+    # "She’s right."
+    ""
+
+# game/murdochroute4.rpy:4762
+translate Tchinese failuremerge_704bd6cb:
+
+    # "But I’m not sure what to do."
+    ""
+
+# game/murdochroute4.rpy:4764
+translate Tchinese failuremerge_b35e429d:
+
+    # "There’s a possibility Murdoch is already on that train."
+    ""
+
+# game/murdochroute4.rpy:4766
+translate Tchinese failuremerge_95eb7d1d:
+
+    # "Is he avoiding me?"
+    ""
+
+# game/murdochroute4.rpy:4768
+translate Tchinese failuremerge_78ef3828:
+
+    # "I wouldn’t know why."
+    ""
+
+# game/murdochroute4.rpy:4770
+translate Tchinese failuremerge_4dcce2b6:
+
+    # "I haven’t done anything."
+    ""
+
+# game/murdochroute4.rpy:4772
+translate Tchinese failuremerge_b037163a:
+
+    # "But if he isn’t on the train, where would he be?"
+    ""
+
+# game/murdochroute4.rpy:4774
+translate Tchinese failuremerge_11cee0b7:
+
+    # "That doesn’t make sense either."
+    ""
+
+# game/murdochroute4.rpy:4776
+translate Tchinese failuremerge_6e5b57b8:
+
+    # cy "\"Sam, we’ve got to go.\""
+    cy ""
+
+# game/murdochroute4.rpy:4778
+translate Tchinese failuremerge_dc6ac5c6:
+
+    # m "\"But my friend is missing.\""
+    m ""
+
+# game/murdochroute4.rpy:4780
+translate Tchinese failuremerge_10e22a42:
+
+    # cy "\"Which one?\""
+    cy ""
+
+# game/murdochroute4.rpy:4782
+translate Tchinese failuremerge_6745d7ed:
+
+    # cy "\"You’ve had a lot of those recently.\""
+    cy ""
+
+# game/murdochroute4.rpy:4784
+translate Tchinese failuremerge_a57a9297:
+
+    # m "\"The red fox.\""
+    m ""
+
+# game/murdochroute4.rpy:4786
+translate Tchinese failuremerge_c2c24598:
+
+    # cy "\"Oh!\""
+    cy ""
+
+# game/murdochroute4.rpy:4788
+translate Tchinese failuremerge_6f97b046:
+
+    # cy "\"Hrm.\""
+    cy ""
+
+# game/murdochroute4.rpy:4790
+translate Tchinese failuremerge_5ea13399:
+
+    # cy "\"That family’s never been hurting for money, so if somebody said he’s getting out, I’d believe he has the means.\""
+    cy ""
+
+# game/murdochroute4.rpy:4792
+translate Tchinese failuremerge_9788f6f8:
+
+    # m "\"...Right.\""
+    m ""
+
+# game/murdochroute4.rpy:4794
+translate Tchinese failuremerge_4fbcc48b:
+
+    # cy "\"Why don’t you come with me to Payton and we can work it out?\""
+    cy ""
+
+# game/murdochroute4.rpy:4796
+translate Tchinese failuremerge_2e550946:
+
+    # cy "\"We’ve got to get out of here until the roads are cleared anyway.\""
+    cy ""
+
+# game/murdochroute4.rpy:4798
+translate Tchinese failuremerge_f10cd663:
+
+    # cy "\"If he’s still here, it’s only a short train ride back?\""
+    cy ""
+
+# game/murdochroute4.rpy:4800
+translate Tchinese failuremerge_fdded483:
+
+    # "That seems like the sensible option."
+    ""
+
+# game/murdochroute4.rpy:4802
+translate Tchinese failuremerge_c9188ca6:
+
+    # "But something feels wrong."
+    ""
+
+# game/murdochroute4.rpy:4804
+translate Tchinese failuremerge_01058330:
+
+    # "Like I’ve missed something."
+    ""
+
+# game/murdochroute4.rpy:4806
+translate Tchinese failuremerge_3e48424c:
+
+    # "Something I can’t afford to miss."
+    ""
+
+# game/murdochroute4.rpy:4808
+translate Tchinese failuremerge_8bdd5ca4:
+
+    # "I don’t know."
+    ""
+
+# game/murdochroute4.rpy:4812
+translate Tchinese failuremerge_e771e908:
+
+    # "All I know is that I feel terrible, like my stomach is sinking."
+    ""
+
+# game/murdochroute4.rpy:4816
+translate Tchinese failuremerge_c608345f:
+
+    # "But I board that train."
+    ""
+
+# game/murdochroute4.rpy:4819
+translate Tchinese failuremerge_3ab81b23:
+
+    # "And I walk each and every cart as it starts to move."
+    ""
+
+# game/murdochroute4.rpy:4821
+translate Tchinese failuremerge_e1b1db10:
+
+    # "I can’t find him."
+    ""
+
+# game/murdochroute4.rpy:4823
+translate Tchinese failuremerge_1671f191:
+
+    # "I find Ralph Walker sitting alone."
+    ""
+
+# game/murdochroute4.rpy:4825
+translate Tchinese failuremerge_58548615:
+
+    # "I decide to sit beside him."
+    ""
+
+# game/murdochroute4.rpy:4826
+translate Tchinese failuremerge_fde90112:
+
+    # "Tell him something I think he already knows."
+    ""
+
+# game/murdochroute4.rpy:4827
+translate Tchinese failuremerge_9376e556:
+
+    # m "\"He’s not on this train.\""
+    m ""
+
+# game/murdochroute4.rpy:4829
+translate Tchinese failuremerge_0ac0335f:
+
+    # ra "\"Or if he is, he’s hiding from us.\""
+    ra ""
+
+# game/murdochroute4.rpy:4830
+translate Tchinese failuremerge_d558b60d:
+
+    # ra "\"I’m sorry.\""
+    ra ""
+
+# game/murdochroute4.rpy:4831
+translate Tchinese failuremerge_431aedfa:
+
+    # m "\"Sorry for what?\""
+    m ""
+
+# game/murdochroute4.rpy:4833
+translate Tchinese failuremerge_77eada3a:
+
+    # ra "\"For knowing what it’s like to be me.\""
+    ra ""
+
+# game/murdochroute4.rpy:4834
+translate Tchinese failuremerge_9c02709f:
+
+    # ra "\"He’d rather chase the past than be in the present.\""
+    ra ""
+
+# game/murdochroute4.rpy:4836
+translate Tchinese failuremerge_65a7576a:
+
+    # ra "\"You might see him again one day.\""
+    ra ""
+
+# game/murdochroute4.rpy:4837
+translate Tchinese failuremerge_aa439ab7:
+
+    # ra "\"But you’ll just remember how things can never be the same.\""
+    ra ""
+
+# game/murdochroute4.rpy:4838
+translate Tchinese failuremerge_b9c04d9f:
+
+    # m "\"But what does that have to do with where he is?\""
+    m ""
+
+# game/murdochroute4.rpy:4839
+translate Tchinese failuremerge_943bfb81:
+
+    # ra "\"Because he’s not with you.\""
+    ra ""
+
+# game/murdochroute4.rpy:4841
+translate Tchinese failuremerge_b84cdbaa:
+
+    # ra "\"Accept that point.\""
+    ra ""
+
+# game/murdochroute4.rpy:4842
+translate Tchinese failuremerge_e68b6fad:
+
+    # m "\"That doesn’t make any damn sense.\""
+    m ""
+
+# game/murdochroute4.rpy:4844
+translate Tchinese failuremerge_7e53a65a:
+
+    # ra "\"Welcome to people.\""
+    ra ""
+
+# game/murdochroute4.rpy:4845
+translate Tchinese failuremerge_3999cfb8:
+
+    # ra "\"You must be new.\""
+    ra ""
+
+# game/murdochroute4.rpy:4847
+translate Tchinese failuremerge_6b3e0ac3:
+
+    # "We don’t talk for the rest of the train ride."
+    ""
+
+# game/murdochroute4.rpy:4849
+translate Tchinese failuremerge_3e40ea97:
+
+    # "That's the last time I see Ralph Walker, who elects to stay on the train."
+    ""
+
+# game/murdochroute4.rpy:4851
+translate Tchinese failuremerge_128c6b5e:
+
+    # "He says he isn’t stopping until he reaches the sea."
+    ""
+
+# game/murdochroute4.rpy:4853
+translate Tchinese failuremerge_b8b0b598:
+
+    # "When we arrive in Payton, I don’t see Murdoch get off the train."
+    ""
+
+# game/murdochroute4.rpy:4854
+translate Tchinese failuremerge_4b8a3a78:
+
+    # "Just another flash of red fur from one of the windows that must be Holly’s as the train continues into the east."
+    ""
+
+# game/murdochroute4.rpy:4856
+translate Tchinese failuremerge_b297ee21:
+
+    # "Cynthia’s rendezvous in Payton is a little bed and breakfast."
+    ""
+
+# game/murdochroute4.rpy:4857
+translate Tchinese failuremerge_63d93160:
+
+    # "Scarlet shows up with a sizable chunk of money to put her, me, and a few of the other Hip girls up for a while."
+    ""
+
+# game/murdochroute4.rpy:4858
+translate Tchinese failuremerge_33b72a6c:
+
+    # "News of what has happened in Echo is spreading across the nation."
+    ""
+
+# game/murdochroute4.rpy:4859
+translate Tchinese failuremerge_6f6eb664:
+
+    # "There are a few interviews from Mayor Testerman in the local paper announcing his resignation, as little there is left to govern."
+    ""
+
+# game/murdochroute4.rpy:4860
+translate Tchinese failuremerge_9b21a43a:
+
+    # "A long list of missing people runs through the paper."
+    ""
+
+# game/murdochroute4.rpy:4861
+translate Tchinese failuremerge_ca940ba8:
+
+    # "Some of the more notable names include James Hendricks and William Adler."
+    ""
+
+# game/murdochroute4.rpy:4862
+translate Tchinese failuremerge_0bd867d6:
+
+    # "Murdoch Byrnes isn’t mentioned, though the paper does state there are likely unaccounted-for persons."
+    ""
+
+# game/murdochroute4.rpy:4868
+translate Tchinese failuremerge_d4193009:
+
+    # "After relying on Scarlet’s hospitality for a while, I decided to take the train back to Echo."
+    ""
+
+# game/murdochroute4.rpy:4870
+translate Tchinese failuremerge_97297e8f:
+
+    # "When I arrived, I wasn’t too shocked to see how little had been repaired or cleaned up."
+    ""
+
+# game/murdochroute4.rpy:4871
+translate Tchinese failuremerge_eab36ee1:
+
+    # "It was almost like all of the lifeblood had drained from it and spilled into Payton."
+    ""
+
+# game/murdochroute4.rpy:4872
+translate Tchinese failuremerge_71c8602a:
+
+    # "Everything was familiar, but unfamiliar."
+    ""
+
+# game/murdochroute4.rpy:4873
+translate Tchinese failuremerge_f6dd5fe9:
+
+    # "Porches where people drank and hollered were crusted with black dust."
+    ""
+
+# game/murdochroute4.rpy:4874
+translate Tchinese failuremerge_7d7e1264:
+
+    # "Roads where traffic ran heavy had only tracks."
+    ""
+
+# game/murdochroute4.rpy:4875
+translate Tchinese failuremerge_ddbae2ff:
+
+    # "The place was a shell of itself."
+    ""
+
+# game/murdochroute4.rpy:4876
+translate Tchinese failuremerge_a731d71d:
+
+    # "The tent city was still here though."
+    ""
+
+# game/murdochroute4.rpy:4877
+translate Tchinese failuremerge_78a30ff2:
+
+    # "People were still living here."
+    ""
+
+# game/murdochroute4.rpy:4878
+translate Tchinese failuremerge_723542cd:
+
+    # "The ones who couldn’t get out, or didn’t want to leave."
+    ""
+
+# game/murdochroute4.rpy:4879
+translate Tchinese failuremerge_3b2919f4:
+
+    # "Life recovered partially."
+    ""
+
+# game/murdochroute4.rpy:4881
+translate Tchinese failuremerge_a650f1fd:
+
+    # "The Stag didn’t get hit by the fire, but it was on its last legs."
+    ""
+
+# game/murdochroute4.rpy:4883
+translate Tchinese failuremerge_e3afb8e1:
+
+    # "I sat there on weekends, waiting for a guitar pluck or a gentle tap on my shoulder, but it never came."
+    ""
+
+# game/murdochroute4.rpy:4885
+translate Tchinese failuremerge_3dd77e3b:
+
+    # "At times the pit in my stomach turned to bitter acid."
+    ""
+
+# game/murdochroute4.rpy:4887
+translate Tchinese failuremerge_bc726b65:
+
+    # "Where had he gone?"
+    ""
+
+# game/murdochroute4.rpy:4889
+translate Tchinese failuremerge_a9cef83b:
+
+    # "Had something happened to him, or did he trick me?"
+    ""
+
+# game/murdochroute4.rpy:4891
+translate Tchinese failuremerge_e091705d:
+
+    # "How can somebody say that they care about you more than anything one day, then disappear altogether the next?"
+    ""
+
+# game/murdochroute4.rpy:4893
+translate Tchinese failuremerge_12a55d24:
+
+    # "As if nothing happened?"
+    ""
+
+# game/murdochroute4.rpy:4895
+translate Tchinese failuremerge_7bf43377:
+
+    # "As if we hadn’t happened."
+    ""
+
+# game/murdochroute4.rpy:4897
+translate Tchinese failuremerge_b1c74f38:
+
+    # "But it did happen."
+    ""
+
+# game/murdochroute4.rpy:4899
+translate Tchinese failuremerge_f114d630:
+
+    # "I remember it like it was yesterday."
+    ""
+
+# game/murdochroute4.rpy:4901
+translate Tchinese failuremerge_7cca650e:
+
+    # "Sometimes it felt like he was still right there with me, telling me his worries or brushing his muzzle against me."
+    ""
+
+# game/murdochroute4.rpy:4903
+translate Tchinese failuremerge_a1ce0de2:
+
+    # "The more time passed, the more it felt like time wasn’t real."
+    ""
+
+# game/murdochroute4.rpy:4905
+translate Tchinese failuremerge_44b07208:
+
+    # "Each day I felt more like I was there with him, in that summer."
+    ""
+
+# game/murdochroute4.rpy:4907
+translate Tchinese failuremerge_692515e4:
+
+    # "I walked by his house on occasion."
+    ""
+
+# game/murdochroute4.rpy:4909
+translate Tchinese failuremerge_024310eb:
+
+    # "Somebody still lived there, but I never saw them come out."
+    ""
+
+# game/murdochroute4.rpy:4911
+translate Tchinese failuremerge_bd81de91:
+
+    # "I learned it was his mother, after she had sold the house."
+    ""
+
+# game/murdochroute4.rpy:4913
+translate Tchinese failuremerge_65e569ff:
+
+    # "When she left, the school closed."
+    ""
+
+# game/murdochroute4.rpy:4915
+translate Tchinese failuremerge_e899772c:
+
+    # "After it was abandoned, I broke in."
+    ""
+
+# game/murdochroute4.rpy:4917
+translate Tchinese failuremerge_5ba05212:
+
+    # "The walls were painted slightly different, but it was the same place."
+    ""
+
+# game/murdochroute4.rpy:4919
+translate Tchinese failuremerge_ef167f80:
+
+    # "It had the same photos."
+    ""
+
+# game/murdochroute4.rpy:4921
+translate Tchinese failuremerge_19560eca:
+
+    # "The same trophies."
+    ""
+
+# game/murdochroute4.rpy:4923
+translate Tchinese failuremerge_dd6f0bdc:
+
+    # "The same musty smells."
+    ""
+
+# game/murdochroute4.rpy:4925
+translate Tchinese failuremerge_7b7a2d84:
+
+    # "I knew he wasn’t here, but this was the last place I had seen him."
+    ""
+
+# game/murdochroute4.rpy:4927
+translate Tchinese failuremerge_e75b34d5:
+
+    # "I needed a hint."
+    ""
+
+# game/murdochroute4.rpy:4929
+translate Tchinese failuremerge_cfa93b86:
+
+    # "He was always sharing hints he found with me, wasn’t he?"
+    ""
+
+# game/murdochroute4.rpy:4931
+translate Tchinese failuremerge_ddfeadbd:
+
+    # "But it was just another sterile building."
+    ""
+
+# game/murdochroute4.rpy:4933
+translate Tchinese failuremerge_8edca564:
+
+    # "I checked the auditorium."
+    ""
+
+# game/murdochroute4.rpy:4935
+translate Tchinese failuremerge_fc8319d8:
+
+    # "The classrooms."
+    ""
+
+# game/murdochroute4.rpy:4937
+translate Tchinese failuremerge_14954165:
+
+    # "The offices."
+    ""
+
+# game/murdochroute4.rpy:4939
+translate Tchinese failuremerge_8fe6f8d1:
+
+    # "There was no trace left of Murdoch Byrnes, or his sisters."
+    ""
+
+# game/murdochroute4.rpy:4941
+translate Tchinese failuremerge_de7eb4cc:
+
+    # "The observatory had long been relocated."
+    ""
+
+# game/murdochroute4.rpy:4943
+translate Tchinese failuremerge_0a5ea803:
+
+    # "The last place I needed to check was the basement."
+    ""
+
+# game/murdochroute4.rpy:4945
+translate Tchinese failuremerge_45900144:
+
+    # "The door was locked, but I wasn’t going to let that stop me."
+    ""
+
+# game/murdochroute4.rpy:4948
+translate Tchinese failuremerge_991f0d44:
+
+    # "I was still strong enough to break it, even though I was long past my prime, and my joints were starting to hurt."
+    ""
+
+# game/murdochroute4.rpy:4951
+translate Tchinese failuremerge_357ede2f:
+
+    # "The basement had only gotten worse."
+    ""
+
+# game/murdochroute4.rpy:4952
+translate Tchinese failuremerge_f5b71d15:
+
+    # "More dusty."
+    ""
+
+# game/murdochroute4.rpy:4953
+translate Tchinese failuremerge_6e272015:
+
+    # "But it felt the same."
+    ""
+
+# game/murdochroute4.rpy:4954
+translate Tchinese failuremerge_b76f98a4:
+
+    # "Everything was left as we put it."
+    ""
+
+# game/murdochroute4.rpy:4955
+translate Tchinese failuremerge_05297cd5:
+
+    # "Even the cellar door was left exposed."
+    ""
+
+# game/murdochroute4.rpy:4956
+translate Tchinese failuremerge_edc48353:
+
+    # "Except that the locks were open."
+    ""
+
+translate Tchinese strings:
+
+    # game/murdochroute4.rpy:4236
+    old "Ask Murdoch."
+    new ""
+
+    # game/murdochroute4.rpy:4264
+    old "Give Up."
+    new ""

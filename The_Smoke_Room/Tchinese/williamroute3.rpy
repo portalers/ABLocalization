@@ -26821,10 +26821,10 @@ translate Tchinese postwillinvestigation3_3d04a99f:
     # cy "\"I knew you weren’t as smart as people think you are but do you really think I’m just mad about Sam?\""
     cy "我是知道你沒大家說的那麼精明，但你真心以為我生氣只是因為Sam嗎？"
 
-# game/williamroute3.rpy:9558
-translate Tchinese postwillinvestigation3_29624a76:
+# game/williamroute3.rpy:8712
+translate Tchinese postwillinvestigation3_22ef4919:
 
-    # cy "\"Did you even care about what was happening to Marcy?\""
+    # cy "\"Did you even care about what Marcy must be going through?\""
     cy "你到底在不在乎Marcy身上發生的事？"
 
 # game/williamroute3.rpy:9560
@@ -53398,11 +53398,11 @@ translate Tchinese cityhallnight_56a642f6:
 
     # wi "\"Of Mr. Tibbits?\""
     wi "Tibbits先生嗎？"
+# TODO: Translation updated at 2026-08-05 05:59
 
-# TODO: Translation updated at 2026-06-13 15:46
-
-# game/williamroute3.rpy:15184
+# game/williamroute3.rpy:15186
 translate Tchinese marcymerge_fec97169:
 
     # "To be continued..."
-    "To be continued..."
+    ""
+

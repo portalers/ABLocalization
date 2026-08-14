@@ -97,9 +97,9 @@ translate Tchinese murdochroute4b_1a3eacf6:
     ji "我們之前看到的人，大概{i}還在{/i} 還在下面。"
 
 # game/murdochroute4b.rpy:56
-translate Tchinese murdochroute4b_a7925863:
+translate Tchinese murdochroute4b_6d66ebd6:
 
-    # "The fake wall moved a little too smoothly for the kind of thing it was."
+    # "The fake wall moves a little too smoothly for the kind of thing it is."
     "假牆與外觀不符，移動得有點太滑順了。"
 
 # game/murdochroute4b.rpy:60
@@ -229,9 +229,9 @@ translate Tchinese murdochroute4b_aace6b8a:
     "我看到走廊盡頭還有一道門框，通往一個更大的蜂巢狀圓頂房間。"
 
 # game/murdochroute4b.rpy:102
-translate Tchinese murdochroute4b_712a80f1:
+translate Tchinese murdochroute4b_966017eb:
 
-    # "There's a door on each wall."
+    # "There’s a door on each wall."
     "每面牆都有一扇門。"
 
 # game/murdochroute4b.rpy:117
@@ -841,9 +841,9 @@ translate Tchinese murdochroute4b_155f2e33:
     mu "她還有事瞞著我。"
 
 # game/murdochroute4b.rpy:416
-translate Tchinese murdochroute4b_43b32bc7:
+translate Tchinese murdochroute4b_a118f734:
 
-    # mu "\"If it’s about the particular about what’s going on with this town, she might never say.\""
+    # mu "\"If it’s about what’s going on with this town, she might never say.\""
     mu "如果是關於這個小鎮正在發生的事，她恐怕永遠不會說出來。"
 
 # game/murdochroute4b.rpy:417
@@ -907,9 +907,9 @@ translate Tchinese murdochroute4b_544d3f01:
     bl "往這邊。"
 
 # game/murdochroute4b.rpy:438
-translate Tchinese murdochroute4b_59ddb484:
+translate Tchinese murdochroute4b_b6e61f9b:
 
-    # "She sure as hell wasn’t lying about how narrow the tunnel was."
+    # "She sure as hell wasn’t lying about how narrow the tunnel is."
     "她確實沒騙人，這隧道有夠窄。"
 
 # game/murdochroute4b.rpy:440
@@ -1015,9 +1015,9 @@ translate Tchinese murdochroute4b_8fab2cb0:
     "不知怎麼地，我產生了一種和以前爸媽帶我去教堂時相同的感覺。"
 
 # game/murdochroute4b.rpy:471
-translate Tchinese murdochroute4b_c7feb665:
+translate Tchinese murdochroute4b_1c1ddc14:
 
-    # "It was a feeling I’d only get when the service was over, after even the church had cleared out."
+    # "It was a feeling I’d only get when the service was over, after everyone in the church had cleared out."
     "只有在禮拜結束後、教堂空無一人時，我才會有那種感覺。"
 
 # game/murdochroute4b.rpy:473
@@ -1045,15 +1045,15 @@ translate Tchinese murdochroute4b_ed0662f6:
     "空氣中充斥著什麼，讓空房間感覺並不空蕩。"
 
 # game/murdochroute4b.rpy:481
-translate Tchinese murdochroute4b_8b9b71da:
+translate Tchinese murdochroute4b_af2fd59e:
 
-    # "And it ain't never felt bad."
+    # "And it ain’t never felt bad."
     "從沒給人不好的感覺。"
 
 # game/murdochroute4b.rpy:483
-translate Tchinese murdochroute4b_944bb155:
+translate Tchinese murdochroute4b_713958a3:
 
-    # "And it ain't never felt good."
+    # "And it ain’t never felt good."
     "也從沒給人好的感覺。"
 
 # game/murdochroute4b.rpy:485
@@ -1081,9 +1081,9 @@ translate Tchinese murdochroute4b_f38a1a88:
     "我們從洞裡出來時，我看見Blithe的輪廓正把我們拉出來。"
 
 # game/murdochroute4b.rpy:492
-translate Tchinese murdochroute4b_d98360d3:
+translate Tchinese murdochroute4b_ae1ac9b8:
 
-    # bl "\"Don’t stand up, it’s not tall enough for even me.\""
+    # bl "\"Don’t stand up. It’s not tall enough for even me.\""
     bl "別想站起來，這裡連我都站不直了。"
 
 # game/murdochroute4b.rpy:493
@@ -1165,9 +1165,9 @@ translate Tchinese murdochroute4b_0726ef02:
     ji "看看牆壁。"
 
 # game/murdochroute4b.rpy:513
-translate Tchinese murdochroute4b_339a80fd:
+translate Tchinese murdochroute4b_08019aa2:
 
-    # "They were stacked layers of stones, overlapping and spiraling upwards, like no walls I’ve ever seen before."
+    # "They’re stacked layers of stones, overlapping and spiraling upwards, like no walls I’ve ever seen before."
     "牆壁是以石層螺旋向上堆疊，我從來沒看見這種東西。"
 
 # game/murdochroute4b.rpy:514
@@ -1183,9 +1183,9 @@ translate Tchinese murdochroute4b_e4900d1b:
     m "到底是誰會這麼大費周章蓋這麼矮的天花板？"
 
 # game/murdochroute4b.rpy:517
-translate Tchinese murdochroute4b_9bbbc906:
+translate Tchinese murdochroute4b_8263999c:
 
-    # mu "\"The buildings techniques here look like corbelling.\""
+    # mu "\"The building techniques here look like corbelling.\""
     mu "這裡的建築技術看起來像是疊澀。"
 
 # game/murdochroute4b.rpy:518
@@ -1405,9 +1405,9 @@ translate Tchinese murdochroute4b_c5981d6d:
     "沙中冒著一些白色碎片。"
 
 # game/murdochroute4b.rpy:562
-translate Tchinese murdochroute4b_760b7417:
+translate Tchinese murdochroute4b_626b49a3:
 
-    # "Not a single soul among us then and there had a whole lot of doubts about what we’re looking at."
+    # "Not a single soul among us then and there has a whole lot of doubts about what we’re looking at."
     "在場全員無一看不出那些是什麼。"
 
 # game/murdochroute4b.rpy:563
@@ -1777,9 +1777,9 @@ translate Tchinese murdochroute4b_b29d1247:
     dh "但這些骨頭早在我們家族來到這個鎮上{i}之前{/i}就存在了。"
 
 # game/murdochroute4b.rpy:672
-translate Tchinese murdochroute4b_44030b58:
+translate Tchinese murdochroute4b_a64ab8d6:
 
-    # "Murdoch looks at her like she had just hit him square between the eyes with a frying pan."
+    # "Murdoch looks at her like she has just hit him square between the eyes with a frying pan."
     "Murdoch的表情像是臉被她用平底鍋砸了個正著。"
 
 # game/murdochroute4b.rpy:674
@@ -1867,9 +1867,9 @@ translate Tchinese murdochroute4b_24e04bba:
     "Ralph表情十分苦澀。"
 
 # game/murdochroute4b.rpy:724
-translate Tchinese murdochroute4b_8901bced:
+translate Tchinese murdochroute4b_0176ce29:
 
-    # ra "\"It’s how she kept Hendricks from running the school, wasn’t it?\""
+    # ra "\"It’s how she kept Hendricks from running the school, isn’t it?\""
     ra "她就是以此阻止Hendricks掌管學校的，沒錯吧？"
 
 # game/murdochroute4b.rpy:725
@@ -2556,10 +2556,10 @@ translate Tchinese murdochroute4b_3da3d777:
     # m "\"Are you sure?\""
     m "你確定？"
 
-# game/murdochroute4b.rpy:1019
-translate Tchinese murdochroute4b_005fa2e5:
+# game/murdochroute4b.rpy:1020
+translate Tchinese murdochroute4b_45b31457:
 
-    # ha "\"Positve.\""
+    # ha "\"Positive.\""
     ha "對。"
 
 # game/murdochroute4b.rpy:1021
@@ -2754,10 +2754,10 @@ translate Tchinese murdochroute4b_dd7d9844:
     # ra "\"Ask him later, Sam.\""
     ra "晚點再問吧，Sam。"
 
-# game/murdochroute4b.rpy:1094
-translate Tchinese murdochroute4b_335f11da:
+# game/murdochroute4b.rpy:1095
+translate Tchinese murdochroute4b_979768cc:
 
-    # ra "\"Right now I need you clear some space so I can deal with her leg, that girl is still bleeding.\""
+    # ra "\"Right now I need you to clear some space so I can deal with her leg. That girl is still bleeding.\""
     ra "現在先幫我清出空間，好讓我處理那女孩的腿，血還在流呢。"
 
 # game/murdochroute4b.rpy:1096
@@ -2766,10 +2766,10 @@ translate Tchinese murdochroute4b_d618dd90:
     # ra "\"Get me some rope.\""
     ra "也找條繩子來。"
 
-# game/murdochroute4b.rpy:1098
-translate Tchinese murdochroute4b_a6c65754:
+# game/murdochroute4b.rpy:1099
+translate Tchinese murdochroute4b_9ca67f92:
 
-    # m "\"...alright.\""
+    # m "\"...Alright.\""
     m "……好。"
 
 # game/murdochroute4b.rpy:1100
@@ -2796,10 +2796,10 @@ translate Tchinese murdochroute4b_7fb33540:
     # ra "\"I SAID I NEED ROPE!\""
     ra "{b}我叫你們找繩子來！{/b}"
 
-# game/murdochroute4b.rpy:1116
-translate Tchinese murdochroute4b_cac64004:
+# game/murdochroute4b.rpy:1117
+translate Tchinese murdochroute4b_3617e4d0:
 
-    # "I take off my cumberbund."
+    # "I take off my cummerbund."
     "我解下腰帶。"
 
 # game/murdochroute4b.rpy:1117
@@ -2874,10 +2874,10 @@ translate Tchinese murdochroute4b_2a764bfd:
     # "I know something is wrong, and can’t help but feel we’re already down two able-bodied people while things are getting worse around us."
     "我知道事態不對勁，又為少了兩個戰力而擔憂，周遭情況也是越來越惡劣。"
 
-# game/murdochroute4b.rpy:1151
-translate Tchinese murdochroute4b_a38b2fbc:
+# game/murdochroute4b.rpy:1152
+translate Tchinese murdochroute4b_ee4ac890:
 
-    # "There’s still no way to make sense out of Harlan being here and there ain’t no way I’m the only one who feels the same."
+    # "There’s still no way to make sense out of Harlan being here, and there ain’t no way I’m the only one who feels the same."
     "Harlan出現在這裡還是毫無道理，而且這麼想的絕對不只我一個人。"
 
 # game/murdochroute4b.rpy:1152
@@ -2928,10 +2928,10 @@ translate Tchinese murdochroute4b_3ea2934f:
     # ra "\"I think she should be fine, but she’ll be out for hours.\""
     ra "應該沒有大礙，但會昏睡好幾個小時。"
 
-# game/murdochroute4b.rpy:1168
-translate Tchinese murdochroute4b_b12a4ec6:
+# game/murdochroute4b.rpy:1169
+translate Tchinese murdochroute4b_8858e121:
 
-    # "Ralphs eyes narrow in on Harlan, who’s flanked by Jim and Neil on the other side of the room."
+    # "Ralph’s eyes narrow in on Harlan, who’s flanked by Jim and Neil on the other side of the room."
     "Ralph瞇眼瞪向Harlan，對方正被Jim和Neil包夾著站在房間另一側。"
 
 # game/murdochroute4b.rpy:1170
@@ -3354,10 +3354,10 @@ translate Tchinese murdochroute4b_bd478ecd:
     # ha "\"That seem fair?\""
     ha "這樣公平吧？"
 
-# game/murdochroute4b.rpy:1365
-translate Tchinese murdochroute4b_bfd002c9:
+# game/murdochroute4b.rpy:1366
+translate Tchinese murdochroute4b_3c26928a:
 
-    # "Jim’s brow quirk and I see a flash in Neil’s eye."
+    # "Jim’s brow quirks and I see a flash in Neil’s eye."
     "Jim揚起眉毛，Neil也眼神一亮。"
 
 # game/murdochroute4b.rpy:1367
@@ -3372,10 +3372,10 @@ translate Tchinese murdochroute4b_6c543501:
     # "I need to say what I’m going to say next awfully careful-like."
     "我得謹慎思考接下來要說的話。"
 
-# game/murdochroute4b.rpy:1371
-translate Tchinese murdochroute4b_1c4d73df:
+# game/murdochroute4b.rpy:1372
+translate Tchinese murdochroute4b_ba8259c3:
 
-    # m "\"Seems more than fair for somebody who doesn’t have a whole lot to gain, don’t it.\""
+    # m "\"Seems more than fair for somebody who doesn’t have a whole lot to gain, don’t it?\""
     m "你又得不到什麼好處，這都不只是一句公平能概括了吧？"
 
 # game/murdochroute4b.rpy:1375
@@ -3714,17 +3714,17 @@ translate Tchinese murdochroute4b_8224070d:
     # "There were the pictures... then the voice."
     "是有那些照片……和那個聲音。"
 
-# game/murdochroute4b.rpy:1488
-translate Tchinese murdochroute4b_aa8bf631:
+# game/murdochroute4b.rpy:1489
+translate Tchinese murdochroute4b_18c4a5a7:
 
-    # "But I haven't heard it for some time now."
+    # "But I haven’t heard it for some time now."
     "但我已經很久沒聽見了。"
 
-# game/murdochroute4b.rpy:1490
-translate Tchinese murdochroute4b_aa2ecee1:
+# game/murdochroute4b.rpy:1491
+translate Tchinese murdochroute4b_6f59243e:
 
-    # ha "\"Your face tell me that you already know.\""
-    ha "你的表情告訴我你已經知道了。"
+    # ha "\"Your faces tell me that you already know.\""
+    ha "你們的表情說明已經知曉了。"
 
 # game/murdochroute4b.rpy:1493
 translate Tchinese murdochroute4b_ff6265d1:
@@ -4452,10 +4452,10 @@ translate Tchinese murdochroute4b_a8e7b0af:
     # mu "\"Is that why I can see the man inside of you now?\""
     mu "所以我現在才能看到你體內那個人嗎？"
 
-# game/murdochroute4b.rpy:1822
-translate Tchinese murdochroute4b_95064bf6:
+# game/murdochroute4b.rpy:1823
+translate Tchinese murdochroute4b_c723eb55:
 
-    # "Ralph gives Murdoch a look as if he had just eaten a pawful of bees."
+    # "Ralph gives Murdoch a look as if he has just eaten a pawful of bees."
     "Ralph看向Murdoch的表情活像剛生吞了一大把蜜蜂。"
 
 # game/murdochroute4b.rpy:1824
@@ -4614,10 +4614,10 @@ translate Tchinese murdochroute4b_0c76c8a3:
     # nei "\"It’s a common expression.\""
     nei "我這只是個習慣用語。"
 
-# game/murdochroute4b.rpy:1895
-translate Tchinese murdochroute4b_ae8e7a48:
+# game/murdochroute4b.rpy:1896
+translate Tchinese murdochroute4b_0d3f3346:
 
-    # ha "\"So if you’re not a man of God you would call yourself... what?\""
+    # ha "\"So if you’re not a man of God, you would call yourself... what?\""
     ha "既然你不是上帝的子民，那你怎麼……自稱？"
 
 # game/murdochroute4b.rpy:1899
@@ -4680,10 +4680,10 @@ translate Tchinese murdochroute4b_b5201a91:
     # nei "\"A change in act would be more than appreciated.\""
     nei "換個表演會更受青睞。"
 
-# game/murdochroute4b.rpy:1927
-translate Tchinese murdochroute4b_8bf71350:
+# game/murdochroute4b.rpy:1928
+translate Tchinese murdochroute4b_f39237b4:
 
-    # ha "\"How about some slapstick then.\""
+    # ha "\"How about some slapstick then?\""
     ha "那就來點鬧劇如何？"
 
 # game/murdochroute4b.rpy:1930
@@ -4728,10 +4728,10 @@ translate Tchinese murdochroute4b_8b74c62e:
     # "He just lunges at the man with his bare claws."
     "直接亮爪撲向那男人。"
 
-# game/murdochroute4b.rpy:1953
-translate Tchinese murdochroute4b_7f14299d:
+# game/murdochroute4b.rpy:1954
+translate Tchinese murdochroute4b_9e41d30c:
 
-    # "None of us expected him to make this move."
+    # "None of us expect him to make this move."
     "沒人預料到他這舉動。"
 
 # game/murdochroute4b.rpy:1956
@@ -4752,10 +4752,10 @@ translate Tchinese murdochroute4b_d025acd4:
     # "I didn’t see whether the force came from Harlan or this supposed spirit."
     "我沒看清楚那股推力是來自Harlan還是那所謂的靈體。"
 
-# game/murdochroute4b.rpy:1963
-translate Tchinese murdochroute4b_ae9023e1:
+# game/murdochroute4b.rpy:1964
+translate Tchinese murdochroute4b_5d84fd9b:
 
-    # "But Murdoch was on the floor, and I could smell a bit of copper."
+    # "But Murdoch is on the floor, and I can smell a bit of copper."
     "但Murdoch倒在地上，我聞到一點血腥味。"
 
 # game/murdochroute4b.rpy:1965
@@ -4962,10 +4962,10 @@ translate Tchinese murdochroute4b_d273147e:
     # "I can’t believe this has happened."
     "不敢相信居然發生了這種事。"
 
-# game/murdochroute4b.rpy:2049
-translate Tchinese murdochroute4b_b3482228:
+# game/murdochroute4b.rpy:2050
+translate Tchinese murdochroute4b_fe7d5e8d:
 
-    # bl "\"It was only just yesterday that we found her Ms. Byrnes.\""
+    # bl "\"It was only just yesterday that we found her, Ms. Byrnes.\""
     bl "我們可是昨天才找到她的，Byrnes女士。"
 
 # game/murdochroute4b.rpy:2050
@@ -4986,17 +4986,17 @@ translate Tchinese murdochroute4b_2554c0f0:
     # bl "\"How the hell did this happen?\""
     bl "到底為什麼會發生這種事？"
 
-# game/murdochroute4b.rpy:2053
-translate Tchinese murdochroute4b_129b6b87:
+# game/murdochroute4b.rpy:2054
+translate Tchinese murdochroute4b_4223978f:
 
-    # "Ms. Byrnes stares forward, here eyes as wide as saucers."
+    # "Ms. Byrnes stares forward, her eyes as wide as saucers."
     "Byrnes女士望著前方，眼睛瞪得像碟子一樣大。"
 
-# game/murdochroute4b.rpy:2055
-translate Tchinese murdochroute4b_ee8cd1e9:
+# game/murdochroute4b.rpy:2056
+translate Tchinese murdochroute4b_0c67385b:
 
-    # dh "\"Because this is an evil place Miss Washington.\""
-    dh "因為這裡是個邪惡的地方，Washington同學。"
+    # dh "\"Because this is an evil place, Miss Washington.\""
+    dh "因為這裡是邪惡的地方，Washington同學。"
 
 # game/murdochroute4b.rpy:2058
 translate Tchinese murdochroute4b_689494c1:
@@ -5160,10 +5160,10 @@ translate Tchinese murdochroute4b_6915c32d:
     # "Surely four young men can more than handle him."
     "四個年輕力壯的男人肯定能輕鬆搞定他。"
 
-# game/murdochroute4b.rpy:2093
-translate Tchinese murdochroute4b_83c66d22:
+# game/murdochroute4b.rpy:2094
+translate Tchinese murdochroute4b_2b2c8498:
 
-    # "Mr Ayers alone can probably handle him."
+    # "Mr. Ayers alone can probably handle him."
     "光是Ayers先生一個人可能就夠了。"
 
 # game/murdochroute4b.rpy:2094
@@ -5442,10 +5442,10 @@ translate Tchinese murdochroute4b_5ea6ea8c:
     # "Light that rots and festers."
     "會腐爛、潰爛的光。"
 
-# game/murdochroute4b.rpy:2157
-translate Tchinese murdochroute4b_cc50aa0c:
+# game/murdochroute4b.rpy:2158
+translate Tchinese murdochroute4b_2c267bed:
 
-    # "Bleeching rays that stain your skin with some sort of hot poison that clings stubbornly to you like an oily residue."
+    # "Bleaching rays that stain your skin with some sort of hot poison that clings stubbornly to you like an oily residue."
     "漂白般的射線以某種灼熱的毒藥浸染皮膚，像油性殘渣一樣頑強沾黏。"
 
 # game/murdochroute4b.rpy:2158
@@ -5574,10 +5574,10 @@ translate Tchinese murdochroute4b_dac271e3:
     # "My hands move on their own even though my mind would have given the message just as surely."
     "我的手擅自動了起來——雖說頭腦肯定也會下達同樣的指令就是了。"
 
-# game/murdochroute4b.rpy:2179
-translate Tchinese murdochroute4b_1910a6d2:
+# game/murdochroute4b.rpy:2180
+translate Tchinese murdochroute4b_39cfb8e3:
 
-    # "To protect what I love he must die."
+    # "To protect what I love, he must die."
     "為了保護我心愛之人，他必須死。"
 
 # game/murdochroute4b.rpy:2180
@@ -5598,10 +5598,10 @@ translate Tchinese murdochroute4b_37193e62:
     # "And so the blade slips through him like butter."
     "刀刃像在切奶油一樣刺入他。"
 
-# game/murdochroute4b.rpy:2185
-translate Tchinese murdochroute4b_b36c2064:
+# game/murdochroute4b.rpy:2186
+translate Tchinese murdochroute4b_9d915d06:
 
-    # "It goes in deep but not fare enough to get through him."
+    # "It goes in deep but not far enough to get through him."
     "刺得很深，但還不足以貫穿。"
 
 # game/murdochroute4b.rpy:2186
@@ -5634,10 +5634,10 @@ translate Tchinese murdochroute4b_b53fdbda:
     # "He’s just a dying person."
     "只是一個垂死之人。"
 
-# game/murdochroute4b.rpy:2191
-translate Tchinese murdochroute4b_270f335d:
+# game/murdochroute4b.rpy:2192
+translate Tchinese murdochroute4b_8951e995:
 
-    # "He tries to gore me with his horns, but I pull the sword out, and watch his mouth foams red."
+    # "He tries to gore me with his horns, but I pull the sword out and watch as his mouth foams red."
     "他試圖用角刺我，但我拔出劍，看著他嘴巴吐出紅色泡沫。"
 
 # game/murdochroute4b.rpy:2192
@@ -5652,10 +5652,10 @@ translate Tchinese murdochroute4b_efea11c0:
     # "The red light fades."
     "紅光消退。"
 
-# game/murdochroute4b.rpy:2195
-translate Tchinese murdochroute4b_1af170d8:
+# game/murdochroute4b.rpy:2196
+translate Tchinese murdochroute4b_e06f8e69:
 
-    # "The eyes of one old man fades to another."
+    # "The eyes of one old man fade to another."
     "一位老人的眼睛淡化成另一位。"
 
 # game/murdochroute4b.rpy:2196
@@ -6396,10 +6396,10 @@ translate Tchinese murdochroute4b_f95203ef:
     # "He does damage and then he runs."
     "他是幹了就跑的人。"
 
-# game/murdochroute4b.rpy:2434
-translate Tchinese murdochroute4b_1940c6d3:
+# game/murdochroute4b.rpy:2435
+translate Tchinese murdochroute4b_7172fa41:
 
-    # "For all I know he could be miles away from us by now if he really knows how to navigate those tunnels."
+    # "For all I know, he could be miles away from us by now if he really knows how to navigate those tunnels."
     "要是他真的熟悉隧道的路線，現在可能已經跑好幾里遠了。"
 
 # game/murdochroute4b.rpy:2436
@@ -6522,10 +6522,10 @@ translate Tchinese murdochroute4b_88491e1a:
     # m "\"Do you know what kind of poison he used?\""
     m "你知道他下的是什麼毒嗎？"
 
-# game/murdochroute4b.rpy:2476
-translate Tchinese murdochroute4b_2fb1698d:
+# game/murdochroute4b.rpy:2477
+translate Tchinese murdochroute4b_5bf4287f:
 
-    # ra "\"{cps=27}Nobody’s having violent seizures so that’s the good news.\""
+    # ra "\"{cps=27}Nobody’s having violent seizures, so that’s the good news.\""
     ra "{cps=27}沒人劇烈抽搐，這是好事。"
 
 # game/murdochroute4b.rpy:2478
@@ -6600,10 +6600,10 @@ translate Tchinese murdochroute4b_cbb5edf2:
     # "A dull ache of pain runs through my shoulder."
     "肩膀一陣鈍痛。"
 
-# game/murdochroute4b.rpy:2502
-translate Tchinese murdochroute4b_d9d4143a:
+# game/murdochroute4b.rpy:2503
+translate Tchinese murdochroute4b_75e5e54b:
 
-    # "The force of my body wasn’t strong enough to break the door, but the latch had rotted out."
+    # "The force of my body wasn’t strong enough to break the door, but the latch has rotted out."
     "我身體的力量不足以撞破門的本體，但門閂早就腐朽了。"
 
 # game/murdochroute4b.rpy:2503
@@ -7860,10 +7860,10 @@ translate Tchinese medicinedone_221cbb86:
     # m "\"I need help!\""
     m "來幫忙！"
 
-# game/murdochroute4b.rpy:2996
-translate Tchinese medicinedone_d86429b6:
+# game/murdochroute4b.rpy:2997
+translate Tchinese medicinedone_8d8cd8f9:
 
-    # "The rate lurches forward and grabs his wrist."
+    # "The rat lurches forward and grabs his wrist."
     "老鼠衝向前，抓住他的手腕。"
 
 # game/murdochroute4b.rpy:2998
@@ -8058,10 +8058,10 @@ translate Tchinese medicinedone_f142f221:
     # "If it’s Harlan I don’t have to hesitate."
     "如果是Harlan，就不必猶豫。"
 
-# game/murdochroute4b.rpy:3062
-translate Tchinese medicinedone_32f22612:
+# game/murdochroute4b.rpy:3063
+translate Tchinese medicinedone_7971c9e0:
 
-    # "If it’s somebody else I can’t help them if I’m caught."
+    # "If it’s somebody else, I can’t help them if I’m caught."
     "如果是其他人，我先被發現的話就幫不上忙了。"
 
 # game/murdochroute4b.rpy:3064
@@ -8718,10 +8718,10 @@ translate Tchinese medicinedone_aef821ed:
     # m "\"You’re getting more medicine.\""
     m "你還要再喝藥。"
 
-# game/murdochroute4b.rpy:3284
-translate Tchinese medicinedone_6a0b56e9:
+# game/murdochroute4b.rpy:3285
+translate Tchinese medicinedone_856f22e0:
 
-    # "Murdoch looks like he’s about to say something but I don’t let him."
+    # "Murdoch looks like he’s about to say something, but I don’t let him."
     "Murdoch似乎想說什麼，但我沒讓他開口。"
 
 # game/murdochroute4b.rpy:3286
@@ -8778,10 +8778,10 @@ translate Tchinese medicinedone_aabaf3f1:
     # "I don’t think he should be walking around right now, but it doesn’t matter."
     "我感覺他現在不該走動，但無所謂了。"
 
-# game/murdochroute4b.rpy:3306
-translate Tchinese medicinedone_55c95231:
+# game/murdochroute4b.rpy:3307
+translate Tchinese medicinedone_a3fa0aff:
 
-    # "He’s learning over the table, barely able to keep himself up now."
+    # "He’s leaning over the table, barely able to keep himself up now."
     "他靠在桌子上，勉強撐起自己。"
 
 # game/murdochroute4b.rpy:3308
@@ -8886,10 +8886,10 @@ translate Tchinese medicinedone_fbbdac97:
     # "It’s mine now too."
     "現在也是我的了。"
 
-# game/murdochroute4b.rpy:3341
-translate Tchinese medicinedone_ae5fb0c0:
+# game/murdochroute4b.rpy:3342
+translate Tchinese medicinedone_71453056:
 
-    # "At least this time getting the medicine down is a little easier."
+    # "At least this time, getting the medicine down is a little easier."
     "好歹這次餵藥比較順利。"
 
 # game/murdochroute4b.rpy:3343
@@ -9348,10 +9348,10 @@ translate Tchinese medicinedone_69c5f0d8:
     # al "\"Which remains?\""
     al "哪些遺骸？"
 
-# game/murdochroute4b.rpy:3512
-translate Tchinese medicinedone_d1b3ba12:
+# game/murdochroute4b.rpy:3513
+translate Tchinese medicinedone_dc46bd3f:
 
-    # "He doesn’t sound surprised when he ask."
+    # "He doesn’t sound surprised when he asks."
     "他發問的語氣並不驚訝。"
 
 # game/murdochroute4b.rpy:3514
@@ -9750,10 +9750,10 @@ translate Tchinese medicinedone_cc77c79c:
     # mu "\"Why can’t you tell me anything?\""
     mu "為什麼你什麼都不肯告訴我？"
 
-# game/murdochroute4b.rpy:3692
-translate Tchinese medicinedone_84f2314e:
+# game/murdochroute4b.rpy:3693
+translate Tchinese medicinedone_9d539a46:
 
-    # al "\"Because I love you son.\""
+    # al "\"Because I love you, son.\""
     al "因為我愛你，兒子。"
 
 # game/murdochroute4b.rpy:3694
@@ -9966,10 +9966,10 @@ translate Tchinese medicinedone_0b75e360:
     # al "\"You lose your temper when you don’t get your way.\""
     al "一不順心，就會發脾氣。"
 
-# game/murdochroute4b.rpy:3785
-translate Tchinese medicinedone_d7d1db5f:
+# game/murdochroute4b.rpy:3786
+translate Tchinese medicinedone_eb34f2e4:
 
-    # mu "\"I’m calm dad.\""
+    # mu "\"I’m calm, dad.\""
     mu "我很冷靜，爸。"
 
 # game/murdochroute4b.rpy:3787
@@ -10176,10 +10176,10 @@ translate Tchinese medicinedone_d09d1058:
     # "But one of them is fresh."
     "但其中一具是新鮮的。"
 
-# game/murdochroute4b.rpy:3869
-translate Tchinese medicinedone_fa679ad2:
+# game/murdochroute4b.rpy:3870
+translate Tchinese medicinedone_de264166:
 
-    # "On the floor there was Reed Morris."
+    # "On the floor, there is Reed Morris."
     "Reed Morris倒在地板上。"
 
 # game/murdochroute4b.rpy:3871
@@ -10482,10 +10482,10 @@ translate Tchinese medicinedone_1fa2332e:
     # gr "\"I’d say you’d get the noose if somebody were to take it to court.\""
     gr "要是有人把這件事告上法庭，你肯定會被判絞刑。"
 
-# game/murdochroute4b.rpy:3994
-translate Tchinese medicinedone_3a171da1:
+# game/murdochroute4b.rpy:3995
+translate Tchinese medicinedone_e3c81adf:
 
-    # "How did she know?"
+    # "How does she know?"
     "她怎麼知道？"
 
 # game/murdochroute4b.rpy:3996
@@ -10512,10 +10512,10 @@ translate Tchinese medicinedone_356886a7:
     # "But I haven’t seen him for weeks."
     "但我也已經好幾個禮拜沒看到他了。"
 
-# game/murdochroute4b.rpy:4004
-translate Tchinese medicinedone_98e17165:
+# game/murdochroute4b.rpy:4005
+translate Tchinese medicinedone_e605dc28:
 
-    # m "\"Don’t believe a word she’s saying Murdoch.\""
+    # m "\"Don’t believe a word she’s saying, Murdoch.\""
     m "別信她說的任何一個字，Murdoch。"
 
 # game/murdochroute4b.rpy:4006
@@ -10542,10 +10542,10 @@ translate Tchinese medicinedone_bc3dddcd:
     # gr "\"That’s rather well-established in my sources.\""
     gr "我的消息來源很可靠。"
 
-# game/murdochroute4b.rpy:4016
-translate Tchinese medicinedone_67f614f1:
+# game/murdochroute4b.rpy:4017
+translate Tchinese medicinedone_a43810bb:
 
-    # gr "\"Frankly there’s no need for a fuss.\""
+    # gr "\"Frankly, there’s no need for a fuss.\""
     gr "說實話，這沒什麼好大驚小怪的。"
 
 # game/murdochroute4b.rpy:4019
@@ -10770,10 +10770,10 @@ translate Tchinese medicinedone_19510907:
     # gr "\"Not all lethal force is sin.\""
     gr "並非所有致命性的武力都是罪惡。"
 
-# game/murdochroute4b.rpy:4111
-translate Tchinese medicinedone_94d70563:
+# game/murdochroute4b.rpy:4112
+translate Tchinese medicinedone_c14bd7b8:
 
-    # gr "\"Each of these men were killing this community in some way or another with outright malice.\""
+    # gr "\"Each of these men was killing this community in some way or another with outright malice.\""
     gr "這些男人們，一個個的都在以徹底的惡意、各自的方式，殺害這個社區。"
 
 # game/murdochroute4b.rpy:4113
@@ -10782,10 +10782,10 @@ translate Tchinese medicinedone_9aa8bfa5:
     # m "\"But you don’t think killing me is a problem.\""
     m "但你不覺得殺我有問題。"
 
-# game/murdochroute4b.rpy:4115
-translate Tchinese medicinedone_61d28727:
+# game/murdochroute4b.rpy:4116
+translate Tchinese medicinedone_e5f32582:
 
-    # gr "\"Have you paid no attention.\""
+    # gr "\"Have you paid no attention?\""
     gr "你都沒在聽嗎？"
 
 # game/murdochroute4b.rpy:4118
@@ -10818,10 +10818,10 @@ translate Tchinese medicinedone_17133a0c:
     # gr "\"But if you wanted to walk the path of a martyr for some misguided sense of spiritual exaltation...\""
     gr "但如果你想為了盲目的崇高感而踏上殉道之路……"
 
-# game/murdochroute4b.rpy:4131
-translate Tchinese medicinedone_02bae31e:
+# game/murdochroute4b.rpy:4132
+translate Tchinese medicinedone_60229c40:
 
-    # gr "\"There are painless ways to go you know.\""
+    # gr "\"There are painless ways to go, you know.\""
     gr "那也有無痛的方式可選，你知道吧。"
 
 # game/murdochroute4b.rpy:4135
@@ -10836,10 +10836,10 @@ translate Tchinese medicinedone_d93608c2:
     # "I see her reaching into her purse."
     "她在手提包中摸索。"
 
-# game/murdochroute4b.rpy:4140
-translate Tchinese medicinedone_fe141afd:
+# game/murdochroute4b.rpy:4141
+translate Tchinese medicinedone_7d3d76c9:
 
-    # "She pulls out a crystal bottle with an ornate looking top."
+    # "She pulls out a crystal bottle with an ornate-looking top."
     "掏出一個有著精緻瓶蓋的水晶瓶。"
 
 # game/murdochroute4b.rpy:4144
@@ -10932,10 +10932,10 @@ translate Tchinese medicinedone_d9a50e8b:
     # m "\"...And why’s that?\""
     m "……怎麼說？"
 
-# game/murdochroute4b.rpy:4177
-translate Tchinese medicinedone_30fb033c:
+# game/murdochroute4b.rpy:4178
+translate Tchinese medicinedone_2f9804d2:
 
-    # gr "\"Because you know that even if you run out of here, and make this all public, that I’ll still be able to manage better press than you.\""
+    # gr "\"Because you know that even if you run out of here and make this all public, that I’ll still be able to manage better press than you.\""
     gr "因為你知道，哪怕你能成功逃脫、公開一切，我的話語權依舊凌駕於你。"
 
 # game/murdochroute4b.rpy:4180
@@ -11244,10 +11244,10 @@ translate Tchinese medicinedone_ee73d42d:
     # al "\"I know.\""
     al "我知道。"
 
-# game/murdochroute4b.rpy:4308
-translate Tchinese medicinedone_eb5d53ce:
+# game/murdochroute4b.rpy:4309
+translate Tchinese medicinedone_05bc792e:
 
-    # gr "\"So why in the {i}fuck{/i} are you cleaning up other people’s messes.\""
+    # gr "\"So why in the {i}fuck{/i} are you cleaning up other people’s messes?\""
     gr "那{i}你他媽{/i}為什麼要去收拾別人的爛攤子？"
 
 # game/murdochroute4b.rpy:4311
@@ -11634,10 +11634,10 @@ translate Tchinese medicinedone_84ef9b25:
     # al "\"He’s confused.\""
     al "是他記錯了。"
 
-# game/murdochroute4b.rpy:4451
-translate Tchinese medicinedone_a7281ca8:
+# game/murdochroute4b.rpy:4452
+translate Tchinese medicinedone_522cee7f:
 
-    # al "\"He can’t even get store the store inventory straight.\""
+    # al "\"He can’t even get the store inventory straight.\""
     al "他連店裡的庫存都搞不清楚。"
 
 # game/murdochroute4b.rpy:4454
@@ -11646,10 +11646,10 @@ translate Tchinese medicinedone_4d7e6714:
     # ra "\"Five copper rockets, six zinc, three potassium.\""
     ra "五個銅火箭、六個鋅的、三個鉀的。"
 
-# game/murdochroute4b.rpy:4459
-translate Tchinese medicinedone_4eacd0f1:
+# game/murdochroute4b.rpy:4460
+translate Tchinese medicinedone_b5f31c64:
 
-    # "None of us noticed that Ralph was in the doorway."
+    # "None of us noticed that Ralph is in the doorway."
     "沒人注意到Ralph出現在門口。"
 
 # game/murdochroute4b.rpy:4461
@@ -11670,10 +11670,10 @@ translate Tchinese medicinedone_749c1315:
     # gr "\"Ralph...\""
     gr "Ralph……"
 
-# game/murdochroute4b.rpy:4469
-translate Tchinese medicinedone_4f92e3a1:
+# game/murdochroute4b.rpy:4470
+translate Tchinese medicinedone_9a59c34d:
 
-    # ra "\"Yes Mrs. Byrnes?\""
+    # ra "\"Yes, Mrs. Byrnes?\""
     ra "是，Byrnes夫人？"
 
 # game/murdochroute4b.rpy:4471
@@ -11724,16 +11724,16 @@ translate Tchinese medicinedone_99d52468:
     # "Her lips thin."
     "她抿起嘴唇。"
 
-# game/murdochroute4b.rpy:4490
-translate Tchinese medicinedone_d475b12b:
+# game/murdochroute4b.rpy:4491
+translate Tchinese medicinedone_e4aac4c2:
 
-    # gr "\"I never liked you Ralph.\""
+    # gr "\"I never liked you, Ralph.\""
     gr "我從來都不喜歡你，Ralph。"
 
-# game/murdochroute4b.rpy:4493
-translate Tchinese medicinedone_c42e5e8c:
+# game/murdochroute4b.rpy:4494
+translate Tchinese medicinedone_908be3d6:
 
-    # ra "\"The feeling is mutual Mrs. Byrnes.\""
+    # ra "\"The feeling is mutual, Mrs. Byrnes.\""
     ra "我有同感，Byrnes夫人。"
 
 # game/murdochroute4b.rpy:4495
@@ -11784,10 +11784,10 @@ translate Tchinese medicinedone_06fa15ad:
     # gr "\"I wouldn’t have trusted you to do what we do if you were sloppy about details.\""
     gr "要不是你注重細節，我不可能會信任你來幹我們在這的勾當。"
 
-# game/murdochroute4b.rpy:4513
-translate Tchinese medicinedone_b2920d02:
+# game/murdochroute4b.rpy:4514
+translate Tchinese medicinedone_66ae27a4:
 
-    # gr "\"Give me a reason -- any reason Alfred.\""
+    # gr "\"Give me a reason -- any reason, Alfred.\""
     gr "給我一個理由——任何理由，Alfred。"
 
 # game/murdochroute4b.rpy:4516
@@ -11868,10 +11868,10 @@ translate Tchinese medicinedone_9ed9c5fa:
     # al "\"He tried to run.\""
     al "他想逃跑。"
 
-# game/murdochroute4b.rpy:4552
-translate Tchinese medicinedone_6d9ee57d:
+# game/murdochroute4b.rpy:4553
+translate Tchinese medicinedone_ce7658ed:
 
-    # al "\"He called {i}out{/i} Gretchen.\""
+    # al "\"He called {i}out{/i}, Gretchen.\""
     al "他出聲{i}大喊{/i}了，Gretchen。"
 
 # game/murdochroute4b.rpy:4556
@@ -12066,10 +12066,10 @@ translate Tchinese medicinedone_832e35ac:
     # gr "\"Because I will make sure you tell them everything.\""
     gr "因為我會確保來龍去脈鉅細靡遺。"
 
-# game/murdochroute4b.rpy:4654
-translate Tchinese medicinedone_80d5b53f:
+# game/murdochroute4b.rpy:4655
+translate Tchinese medicinedone_3ddf9b97:
 
-    # gr "\"Or you could just walk away, and let what’s buried here stay burried.\""
+    # gr "\"Or you could just walk away, and let what’s buried here stay buried.\""
     gr "或者也可以就此離開，讓這裡的東西永不見光。"
 
 # game/murdochroute4b.rpy:4657
@@ -12270,16 +12270,16 @@ translate Tchinese medicinedone_3d79ff55:
     # extend "but I help him drag their bodies upstairs."
     extend "而我則幫他把他們拖上樓。"
 
-# game/murdochroute4b.rpy:4733
-translate Tchinese medicinedone_4737a707:
+# game/murdochroute4b.rpy:4734
+translate Tchinese medicinedone_632510d6:
 
-    # "When Cynthia sees us her eyes widen with terror, {nw}"
+    # "When Cynthia sees us, her eyes widen with terror, {nw}"
     "Cynthia一看到我們，就因驚恐而瞪大雙眼，{nw}"
 
-# game/murdochroute4b.rpy:4735
-translate Tchinese medicinedone_6156678e:
+# game/murdochroute4b.rpy:4736
+translate Tchinese medicinedone_d5570c57:
 
-    # extend "but she sighs a breath of relief whenever she notices Jim’s diaphragm heaving."
+    # extend "but she sighs a breath of relief when she notices Jim’s diaphragm heaving."
     extend "但她注意到Jim的胸膛還在起伏，便鬆了一口氣。"
 
 # game/murdochroute4b.rpy:4737
@@ -12294,10 +12294,10 @@ translate Tchinese medicinedone_266534fc:
     # "I still don’t feel safe enough to sleep."
     "我還是覺得不夠安全，睡不著。"
 
-# game/murdochroute4b.rpy:4741
-translate Tchinese medicinedone_f28db43c:
+# game/murdochroute4b.rpy:4742
+translate Tchinese medicinedone_75127af1:
 
-    # "I sit on the front steps of the school and wait until the sunrises."
+    # "I sit on the front steps of the school and wait until the sun rises."
     "我坐在學校前的台階上，等待太陽升起。"
 
 # game/murdochroute4b.rpy:4744
@@ -12444,10 +12444,10 @@ translate Tchinese medicinedone_823a10f9:
     # dh "\"I didn’t suspect that you would.\""
     dh "我也這麼想。"
 
-# game/murdochroute4b.rpy:4809
-translate Tchinese medicinedone_364fe9b3:
+# game/murdochroute4b.rpy:4810
+translate Tchinese medicinedone_68867c13:
 
-    # reu "\"...Mother fucker.\""
+    # reu "\"...Motherfucker.\""
     reu "……去他媽的。"
 
 # game/murdochroute4b.rpy:4812
@@ -12504,11 +12504,11 @@ translate Tchinese medicinedone_7dba9d46:
     # "We all agree upon walking to the station above ground."
     "我們都同意在地面上走到車站。"
 
-# game/murdochroute4b.rpy:4839
-translate Tchinese medicinedone_ab7a4a21:
+# game/murdochroute4b.rpy:4840
+translate Tchinese medicinedone_13822e66:
 
-    # "When we leave the school, I can’t help wondering about who knows about the bodies beneath the school."
-    "離開學校時，我忍不住在想都有誰知道學校底下那些屍體。"
+    # "When we leave the school, I can’t help wondering who knows about the bodies beneath the school."
+    "離開學校時，我忍不住在想，都有誰知道學校底下那些屍體。"
 
 # game/murdochroute4b.rpy:4841
 translate Tchinese medicinedone_e86aa471:
@@ -12744,11 +12744,11 @@ translate Tchinese medicinedone_ae64a9e9:
     # ho "\"I need support if I want to get out of here, Jim.\""
     ho "我需要援助才能離得開，Jim。"
 
-# game/murdochroute4b.rpy:4944
-translate Tchinese medicinedone_6634d66b:
+# game/murdochroute4b.rpy:4945
+translate Tchinese medicinedone_c1b3879c:
 
-    # ho "\"You’ve always had money so I know you’ve never understood that.\""
-    ho "你一直不愁錢，所以我知道你根本不懂。"
+    # ho "\"You’ve always had money, so I know you’ve never understood that.\""
+    ho "你從來都不愁錢，所以我知道你根本不懂。"
 
 # game/murdochroute4b.rpy:4947
 translate Tchinese medicinedone_571dceae:
@@ -13014,10 +13014,10 @@ translate Tchinese medicinedone_9ad138d5:
     # ho "\"So you’re the one who put him up to this then?\""
     ho "就是你慫恿他這麼做的？"
 
-# game/murdochroute4b.rpy:5050
-translate Tchinese medicinedone_4cf9063f:
+# game/murdochroute4b.rpy:5051
+translate Tchinese medicinedone_fbfc3fe4:
 
-    # ho "\"Make sense.\""
+    # ho "\"Makes sense.\""
     ho "說得通。"
 
 # game/murdochroute4b.rpy:5053
@@ -13152,10 +13152,10 @@ translate Tchinese medicinedone_69191a88:
     # ra "\"Fuck!\""
     ra "我操！"
 
-# game/murdochroute4b.rpy:5100
-translate Tchinese medicinedone_5721ac21:
+# game/murdochroute4b.rpy:5101
+translate Tchinese medicinedone_a5e8b466:
 
-    # ra "\"Okay then Holly.\""
+    # ra "\"Okay then, Holly.\""
     ra "那好吧，Holly。"
 
 # game/murdochroute4b.rpy:5101
@@ -13218,10 +13218,10 @@ translate Tchinese medicinedone_5db5f9f6:
     # mu "\"I will.\""
     mu "我會的。"
 
-# game/murdochroute4b.rpy:5121
-translate Tchinese medicinedone_72d165ee:
+# game/murdochroute4b.rpy:5122
+translate Tchinese medicinedone_4340e174:
 
-    # mu "\"Goodbye Holly.\""
+    # mu "\"Goodbye, Holly.\""
     mu "再見了，Holly。"
 
 # game/murdochroute4b.rpy:5123
@@ -13572,10 +13572,10 @@ translate Tchinese medicinedone_dc859670:
     # "It’s cold, and round."
     "又冷又圓。"
 
-# game/murdochroute4b.rpy:5247
-translate Tchinese medicinedone_bc09ff8a:
+# game/murdochroute4b.rpy:5248
+translate Tchinese medicinedone_7fe4af97:
 
-    # bl "\"Here’s your money as promised mister.\""
+    # bl "\"Here’s your money as promised, mister.\""
     bl "說好要給你的錢，先生。"
 
 # game/murdochroute4b.rpy:5249
@@ -13620,10 +13620,10 @@ translate Tchinese medicinedone_9988faf1:
     # "It’s crazy how just holding it can’t compare to real work."
     "僅是握著它，也無法體會到真正的苦勞，這實在太神奇了。"
 
-# game/murdochroute4b.rpy:5256
-translate Tchinese medicinedone_8bb88d62:
+# game/murdochroute4b.rpy:5257
+translate Tchinese medicinedone_6d7e9005:
 
-    # "The next person who palm this slips into isn’t going to feel all those real experiences."
+    # "The next person whose palm this slips into isn’t going to feel all those real experiences."
     "下一個拿到這玩意的人，並不會感受到那些真實的經歷。"
 
 # game/murdochroute4b.rpy:5257
@@ -13662,10 +13662,10 @@ translate Tchinese medicinedone_808f0b6e:
     # m "\"You ain’t gonna need it yourself?\""
     m "妳自己不需要嗎？"
 
-# game/murdochroute4b.rpy:5267
-translate Tchinese medicinedone_9d05da62:
+# game/murdochroute4b.rpy:5268
+translate Tchinese medicinedone_f3e459c9:
 
-    # m "\"I’d think it would be hard for couple of kids to get by without any money.\""
+    # m "\"I’d think it would be hard for a couple of kids to get by without any money.\""
     m "我感覺小孩子們沒錢會很難過活。"
 
 # game/murdochroute4b.rpy:5269
@@ -13782,10 +13782,10 @@ translate Tchinese medicinedone_1acb2f42:
     # "There’s something unnerving about the look in her eye, but she doesn’t sit still long enough for me to think on it."
     "她的眼神有點令人不安，但她沒有久坐，我也沒法細思。"
 
-# game/murdochroute4b.rpy:5310
-translate Tchinese medicinedone_20a6fd7c:
+# game/murdochroute4b.rpy:5311
+translate Tchinese medicinedone_2158e960:
 
-    # bl "\"Let’s go check out the dining cart Melissa.\""
+    # bl "\"Let’s go check out the dining cart, Melissa.\""
     bl "我們去餐車看看吧，Melissa。"
 
 # game/murdochroute4b.rpy:5313
@@ -14130,22 +14130,22 @@ translate Tchinese medicinedone_c74a989f:
     # mu "\"It wants me back because it doesn’t want to be over.\""
     mu "它想把我拉回去，是因為它不想要終結。"
 
-# game/murdochroute4b.rpy:5399
-translate Tchinese medicinedone_b48fb3a8:
+# game/murdochroute4b.rpy:5400
+translate Tchinese medicinedone_03b9576d:
 
-    # mu "\"Then once its through and done with us, it’ll look for what else is left.\""
+    # mu "\"Then once it's through and done with us, it’ll look for what else is left.\""
     mu "我們跟它之間已經結束了，它就會去找剩下的事物。"
 
-# game/murdochroute4b.rpy:5400
-translate Tchinese medicinedone_569c13f6:
+# game/murdochroute4b.rpy:5401
+translate Tchinese medicinedone_010c826d:
 
-    # mu "\"But without an economy there isn’t going to be anymore.\""
+    # mu "\"But without an economy, there isn’t going to be any more.\""
     mu "但缺乏經濟，就什麼也沒有了。"
 
-# game/murdochroute4b.rpy:5401
-translate Tchinese medicinedone_9364f9b9:
+# game/murdochroute4b.rpy:5402
+translate Tchinese medicinedone_6900bce7:
 
-    # mu "\"Without a {i}life{/i} there isn’t going to be anymore.\""
+    # mu "\"Without a {i}life{/i} there isn’t going to be any more.\""
     mu "缺少{i}生命{/i}，就什麼也沒有了。"
 
 # game/murdochroute4b.rpy:5403
@@ -14208,10 +14208,10 @@ translate Tchinese medicinedone_13d34e9d:
     # "The sky is pink now rather than red as we distance ourselves from the smoke and the fog."
     "隨著我們遠離煙霧，天空轉為粉紅而非紅色。"
 
-# game/murdochroute4b.rpy:5418
-translate Tchinese medicinedone_f989e773:
+# game/murdochroute4b.rpy:5419
+translate Tchinese medicinedone_61026cbb:
 
-    # "The sun peaks shyly over the mountains and the shadow of saguaros bar the ground, taunting us like the light from prison cells."
+    # "The sun peaks shyly over the mountains and the shadows of saguaros bar the ground, taunting us like the light from prison cells."
     "太陽從山間探出頭來，仙人掌的影子橫在地上，呈現貌似監獄牢房的光線，彷彿在嘲諷我們。"
 
 # game/murdochroute4b.rpy:5419
@@ -14754,10 +14754,10 @@ translate Tchinese medicinedone_e2775e5f:
     # "We wait for it glide past us."
     "我們等著牠滑翔遠去。"
 
-# game/murdochroute4b.rpy:5524
-translate Tchinese medicinedone_25b3956d:
+# game/murdochroute4b.rpy:5525
+translate Tchinese medicinedone_cfda003a:
 
-    # m "\"I just figured she’s want to be by put the school.\""
+    # m "\"I just figured she’d want to be by put the school.\""
     m "我只是以為她會想被葬在學校附近。"
 
 # game/murdochroute4b.rpy:5525
@@ -14874,11 +14874,11 @@ translate Tchinese medicinedone_8f400d9d:
     # m "\"Damn...\""
     m "我靠……"
 
-# game/murdochroute4b.rpy:5544
-translate Tchinese medicinedone_0fbfc0f2:
+# game/murdochroute4b.rpy:5545
+translate Tchinese medicinedone_03223f43:
 
-    # "I put my paws in my pocket."
-    "我把爪伸進口袋。"
+    # "I put my paws in my pockets."
+    "我把爪插進口袋。"
 
 # game/murdochroute4b.rpy:5545
 translate Tchinese medicinedone_fd84703f:
@@ -15000,10 +15000,10 @@ translate Tchinese medicinedone_ebe714ec:
     # mu "\"Something about cross-referencing her the astronomy program for wealther areas along the west coast.\""
     mu "好像是在用她的天文項目交叉比對西岸繁榮區域什麼的。"
 
-# game/murdochroute4b.rpy:5566
-translate Tchinese medicinedone_e0c22df6:
+# game/murdochroute4b.rpy:5567
+translate Tchinese medicinedone_dc884e65:
 
-    # mu "\"...but yeah.\""
+    # mu "\"...But yeah.\""
     mu "……總之。"
 
 # game/murdochroute4b.rpy:5567
@@ -15030,10 +15030,10 @@ translate Tchinese medicinedone_e84afc83:
     # "The fox hums."
     "狐狸哼了一聲。"
 
-# game/murdochroute4b.rpy:5571
-translate Tchinese medicinedone_5165e1ee:
+# game/murdochroute4b.rpy:5572
+translate Tchinese medicinedone_09155d50:
 
-    # mu "\"Maybe not afriad.\""
+    # mu "\"Maybe not afraid.\""
     mu "我不是害怕。"
 
 # game/murdochroute4b.rpy:5572
@@ -15150,10 +15150,10 @@ translate Tchinese medicinedone_b2d06d1f:
     # mu "\"What about the former Hip employees?\""
     mu "Hip酒館的前員工呢？"
 
-# game/murdochroute4b.rpy:5591
-translate Tchinese medicinedone_39103fd8:
+# game/murdochroute4b.rpy:5592
+translate Tchinese medicinedone_eab5615d:
 
-    # m "\"I still don’t know what happened to Harlan, though I imagine that meeting of the minds would involve catching the end of my crowbar than precious memories.\""
+    # m "\"I still don’t know what happened to Harlan, though I imagine that meeting of the minds would involve catching the end of my crowbar more than precious memories.\""
     m "我還是不知道Harlan的下落，但真見到面，他就要跟我的翹棍親密談談過往了。"
 
 # game/murdochroute4b.rpy:5592
@@ -15270,10 +15270,10 @@ translate Tchinese medicinedone_b93e3427:
     # m "\"I guess there were some good parts.\""
     m "那確實還是有一些不錯的部分。"
 
-# game/murdochroute4b.rpy:5611
-translate Tchinese medicinedone_d7330879:
+# game/murdochroute4b.rpy:5612
+translate Tchinese medicinedone_64b939c2:
 
-    # mu "\"There were great parts Sam.\""
+    # mu "\"There were great parts, Sam.\""
     mu "簡直堪稱美好啊，Sam。"
 
 # game/murdochroute4b.rpy:5612
@@ -15384,10 +15384,10 @@ translate Tchinese medicinedone_df4a6852:
     # mu "\"Before the wedding.\""
     mu "婚禮之前那次。"
 
-# game/murdochroute4b.rpy:5630
-translate Tchinese medicinedone_bf78435b:
+# game/murdochroute4b.rpy:5631
+translate Tchinese medicinedone_99ad997b:
 
-    # m "\"...vaguely.\""
+    # m "\"...Vaguely.\""
     m "……有點印象。"
 
 # game/murdochroute4b.rpy:5631
@@ -15486,10 +15486,10 @@ translate Tchinese medicinedone_40d7c98d:
     # "He blows out a puff of air."
     "他吐出一口氣。"
 
-# game/murdochroute4b.rpy:5647
-translate Tchinese medicinedone_06665e1e:
+# game/murdochroute4b.rpy:5648
+translate Tchinese medicinedone_ad690868:
 
-    # mu "\"Back then I thought I could put myself though anything if I found the right man to inspire me.\""
+    # mu "\"Back then, I thought I could put myself through anything if I found the right man to inspire me.\""
     mu "當時，我以為只要找到對的人來激勵我，我就能承受任何事情。"
 
 # game/murdochroute4b.rpy:5648
@@ -15498,10 +15498,10 @@ translate Tchinese medicinedone_abeb3223:
     # mu "\"I chased after you like I chased a dream.\""
     mu "我像在追夢一樣追求你。"
 
-# game/murdochroute4b.rpy:5649
-translate Tchinese medicinedone_fe4c3ca7:
+# game/murdochroute4b.rpy:5650
+translate Tchinese medicinedone_22ad5672:
 
-    # mu "\"Sharing as much of myself with somebody I barely knew wasn’t okay.\""
+    # mu "\"Sharing so much of myself with somebody I barely knew wasn’t okay.\""
     mu "我不該向一位剛認識的人吐那麼多苦水。"
 
 # game/murdochroute4b.rpy:5650
@@ -15564,10 +15564,10 @@ translate Tchinese medicinedone_088db350:
     # "I rub the back of my neck, nodding."
     "我揉了揉後頸，點了頭。"
 
-# game/murdochroute4b.rpy:5660
-translate Tchinese medicinedone_c2e90a27:
+# game/murdochroute4b.rpy:5661
+translate Tchinese medicinedone_b904aeef:
 
-    # m "\"...most people probably get pitied for something or other.\""
+    # m "\"...Most people probably get pitied for something or other.\""
     m "……大多人總會因為某些原因被人憐憫的。"
 
 # game/murdochroute4b.rpy:5661
@@ -15588,10 +15588,10 @@ translate Tchinese medicinedone_3b90b008:
     # m "\"I don’t mean any offense by this.\""
     m "那真不好意思。"
 
-# game/murdochroute4b.rpy:5664
-translate Tchinese medicinedone_3f1b922d:
+# game/murdochroute4b.rpy:5665
+translate Tchinese medicinedone_5988674a:
 
-    # m "\"But you’re not nearly as good at guilting me than I am at guilting myself.\""
+    # m "\"But you’re not nearly as good at guilting me as I am at guilting myself.\""
     m "想讓我有罪惡感，你跟我自己比起來還差得遠了。"
 
 # game/murdochroute4b.rpy:5665
@@ -15702,10 +15702,10 @@ translate Tchinese medicinedone_95653826:
     # m "\"Especially things that have no right to be.\""
     m "尤其是那些本不該有趣的事。"
 
-# game/murdochroute4b.rpy:5683
-translate Tchinese medicinedone_a08d746f:
+# game/murdochroute4b.rpy:5684
+translate Tchinese medicinedone_af5683c1:
 
-    # m "\"I’ll never get tired of you Murdoch Byrnes.\""
+    # m "\"I’ll never get tired of you, Murdoch Byrnes.\""
     m "我永遠都不會厭倦你，Murdoch Byrnes。"
 
 # game/murdochroute4b.rpy:5684
@@ -15810,10 +15810,10 @@ translate Tchinese medicinedone_4917ee90:
     # mu "\"I’m sixty-two.\""
     mu "我都六十二了。"
 
-# game/murdochroute4b.rpy:5702
-translate Tchinese medicinedone_ed0714bd:
+# game/murdochroute4b.rpy:5703
+translate Tchinese medicinedone_5279c34d:
 
-    # ra "\"Not to old for fireworks I hope?\""
+    # ra "\"Not too old for fireworks I hope?\""
     ra "還沒老到不能放煙火吧？"
 
 # game/murdochroute4b.rpy:5703
@@ -15912,10 +15912,10 @@ translate Tchinese medicinedone_f0a2e566:
     # "Sitting on a stone facing the ocean, we see a bottle rocket sticking out of a coca cola bottle."
     "坐在面向大海的岩石上，一個可口可樂瓶火箭就在眼前。"
 
-# game/murdochroute4b.rpy:5719
-translate Tchinese medicinedone_c7290342:
+# game/murdochroute4b.rpy:5720
+translate Tchinese medicinedone_a08a0569:
 
-    # "The words scrawled on the side were {i}Goodbye Seamus.{/i}"
+    # "The words scrawled on the side are {i}Goodbye Seamus.{/i}"
     "側邊草草寫著「永別了 Seamus」。"
 
 # game/murdochroute4b.rpy:5720
@@ -16044,10 +16044,10 @@ translate Tchinese medicinedone_acc6eedf:
     # "Her eyes are occluded by dark shades."
     "雙眼被深色面紗遮住。"
 
-# game/murdochroute4b.rpy:5757
-translate Tchinese medicinedone_f5148a0d:
+# game/murdochroute4b.rpy:5758
+translate Tchinese medicinedone_08acda4d:
 
-    # "The only part of her that isn’t covered my clothing is her snout."
+    # "The only part of her that isn’t covered by clothing is her snout."
     "吻部是她身上唯一沒有被衣物遮蓋的部位。"
 
 # game/murdochroute4b.rpy:5758
@@ -16086,10 +16086,10 @@ translate Tchinese medicinedone_0ed0063e:
     # ji "\"Thank you for coming, Dahlia.\""
     ji "謝謝妳來，Dahlia。"
 
-# game/murdochroute4b.rpy:5764
-translate Tchinese medicinedone_742d649e:
+# game/murdochroute4b.rpy:5765
+translate Tchinese medicinedone_6d721bea:
 
-    # ji "\"In frankness I wasn’t sure that you would.\""
+    # ji "\"In frankness, I wasn’t sure that you would.\""
     ji "其實，我太不確定妳會不會來。"
 
 # game/murdochroute4b.rpy:5765
@@ -16164,10 +16164,10 @@ translate Tchinese medicinedone_9896682f:
     # ji "\"Understood.\""
     ji "知道了。"
 
-# game/murdochroute4b.rpy:5777
-translate Tchinese medicinedone_337c4287:
+# game/murdochroute4b.rpy:5778
+translate Tchinese medicinedone_bf125792:
 
-    # bl "\"Regardless, I‘m here.\""
+    # bl "\"Regardless, I’m here.\""
     bl "反正我是來了。"
 
 # game/murdochroute4b.rpy:5778
@@ -16308,10 +16308,10 @@ translate Tchinese medicinedone_834266e3:
     # dh "\"You’re one step closer to paying off your debt, Miss Washington.\""
     dh "妳又向還清債務更進一步了呢，Washington女士。"
 
-# game/murdochroute4b.rpy:5801
-translate Tchinese medicinedone_daf6565f:
+# game/murdochroute4b.rpy:5802
+translate Tchinese medicinedone_10935445:
 
-    # bl "\"As much as I like to bitch I still would have come.\""
+    # bl "\"As much as I like to bitch, I still would have come.\""
     bl "我是很想抱怨，但我本來就打算過來。"
 
 # game/murdochroute4b.rpy:5802
@@ -16332,16 +16332,16 @@ translate Tchinese medicinedone_61274555:
     # bl "\"If we can call it alive.\""
     bl "如果能稱作活著的話。"
 
-# game/murdochroute4b.rpy:5805
-translate Tchinese medicinedone_d3226df4:
+# game/murdochroute4b.rpy:5806
+translate Tchinese medicinedone_bc16ca8b:
 
-    # ji "\"Even if it’s not alive it likely replicates through crystalization.\""
+    # ji "\"Even if it’s not alive, it likely replicates through crystallization.\""
     ji "就算不是活物，也有可能透過結晶化自我複製。"
 
-# game/murdochroute4b.rpy:5806
-translate Tchinese medicinedone_c84739a2:
+# game/murdochroute4b.rpy:5807
+translate Tchinese medicinedone_117555c3:
 
-    # ra "\"Anyway I’m going to be frank about what I think.\""
+    # ra "\"Anyway, I’m going to be frank about what I think.\""
     ra "總而言之，我就直說了。"
 
 # game/murdochroute4b.rpy:5807
@@ -16386,10 +16386,10 @@ translate Tchinese medicinedone_2c55950c:
     # ra "\"I know about all the little favors he kept doing for you in exchange for the shelter.\""
     ra "我知道他為了換取庇護，都為你做了什麼事情。"
 
-# game/murdochroute4b.rpy:5814
-translate Tchinese medicinedone_1427dd58:
+# game/murdochroute4b.rpy:5815
+translate Tchinese medicinedone_bbcfe8fb:
 
-    # ji "\"You don’t know actually know as much as you think you do.\""
+    # ji "\"You don’t actually know as much as you think you do.\""
     ji "其實你知道的也不過就是一部分。"
 
 # game/murdochroute4b.rpy:5815
@@ -16398,10 +16398,10 @@ translate Tchinese medicinedone_28936e21:
     # ji "\"Pick your next words carefully if you don’t want to upset me anymore than you have.\""
     ji "要是不想惹我更不爽，嘴巴最好放乾淨點。"
 
-# game/murdochroute4b.rpy:5816
-translate Tchinese medicinedone_cfed47f1:
+# game/murdochroute4b.rpy:5817
+translate Tchinese medicinedone_62d64ae6:
 
-    # ji "\"I just need assurance on thing.\""
+    # ji "\"I just need assurance on one thing.\""
     ji "我只是想要確保一件事。"
 
 # game/murdochroute4b.rpy:5817
@@ -16446,10 +16446,10 @@ translate Tchinese medicinedone_d22bf737:
     # ji "\"State law mandates that the relatives decide.\""
     ji "州法律規定要由親屬決定。"
 
-# game/murdochroute4b.rpy:5824
-translate Tchinese medicinedone_9f1dc046:
+# game/murdochroute4b.rpy:5825
+translate Tchinese medicinedone_97289eab:
 
-    # "All eyes turned Dahlia."
+    # "All eyes turn to Dahlia."
     "所有目光都轉向Dahlia。"
 
 # game/murdochroute4b.rpy:5825
@@ -16530,10 +16530,10 @@ translate Tchinese medicinedone_35cd778d:
     # dh "\"Have you prepared space for myself, Miss Washington, and Miss Boike?\""
     dh "你為我、Washington女士和Boike女士準備好房間了嗎？"
 
-# game/murdochroute4b.rpy:5838
-translate Tchinese medicinedone_f6f41292:
+# game/murdochroute4b.rpy:5839
+translate Tchinese medicinedone_11b7553c:
 
-    # ji "\"Yes, I’ll have the servants can throw something together.\""
+    # ji "\"Yes, I’ll have the servants throw something together.\""
     ji "好，我會讓僕人準備。"
 
 # game/murdochroute4b.rpy:5839
@@ -16555,9 +16555,9 @@ translate Tchinese medicinedone_5dd3b801:
     "Jim Sterling醒來時，感受到了他人生中前幾嚴重的頭痛。"
 
 # game/murdochroute4b.rpy:5845
-translate Tchinese medicinedone_d9f73774:
+translate Tchinese medicinedone_1464d4f9:
 
-    # "News from a servant announced Holly Byrnes' intentions to reclaim the remains of her brother."
+    # "News from a servant announced Holly Byrnes’ intentions to reclaim the remains of her brother."
     "僕人帶來消息，表示Holly Byrnes有意取回她弟弟的遺骸。"
 
 # game/murdochroute4b.rpy:5845
