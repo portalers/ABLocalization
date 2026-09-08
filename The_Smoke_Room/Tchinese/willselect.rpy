@@ -58,7 +58,7 @@ translate Tchinese strings:
 
     # game/willselect.rpy:115
     old "As William, did you get Sam off in the bedroom?"
-    new "扮演William時，你有幫Sam發洩嗎？"
+    new "作為William時，你有幫Sam發洩嗎？"
 
     # game/willselect.rpy:96
     old "Where did you go investigate first in the day?"
@@ -83,3 +83,19 @@ translate Tchinese strings:
     # game/willselect.rpy:131
     old "Cynthia."
     new "Cynthia"
+
+    # game/willselect.rpy:254
+    old "As William, when Sam asked why would you take a risk with Kane, what did you reply?"
+    new "作為William時，當Sam問你為何會冒險與Kane勾搭，你的回答是？"
+
+    # game/willselect.rpy:270
+    old "As William, when Sam asked asked if you would loosen up and let Kane call the shots, what was your reply?"
+    new "作為William時，當Sam問你是否會放下身段讓Kane做主，你的回答是？"
+
+    # game/willselect.rpy:287
+    old "As William, did you decide to make a mistake with Kane?"
+    new "作為William時，你有鑄下大錯，與Kane勾搭嗎？"
+
+    # game/willselect.rpy:296
+    old "As William, did you decide to tell Nikolai the truth about how you feel?"
+    new "作為William時，你有向Nikolai坦白心意嗎？"

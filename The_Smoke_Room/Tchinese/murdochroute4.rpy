@@ -10828,7 +10828,7 @@ translate Tchinese dahliasuccess_151e923b:
 translate Tchinese basementlock_16ab8929:
 
     # "I feel a click."
-    "感覺到喀擦一聲。"
+    "感覺到咔嗒一聲。"
 
 # game/murdochroute4.rpy:4221
 translate Tchinese basementlock_b0e24b94:
@@ -10860,2048 +10860,2048 @@ translate Tchinese basementlock_4f6499cf:
 translate Tchinese basementlocklasttry_14317e0f:
 
     # m "\"It’s not opening.\""
-    m ""
+    m "打不開。"
 
 # game/murdochroute4.rpy:4240
 translate Tchinese basementlocklasttry_d7951e47:
 
     # m "\"...Why doesn’t she just tell us the damn combination?\""
-    m ""
+    m "……她為什麼不直接把這蠢密碼告訴我們？"
 
 # game/murdochroute4.rpy:4242
 translate Tchinese basementlocklasttry_05c389ec:
 
     # mu "\"I think some part of her doesn’t want us to get through these doors.\""
-    mu ""
+    mu "我想，她其實並不完全希望我們進這些門。"
 
 # game/murdochroute4.rpy:4244
 translate Tchinese basementlocklasttry_e742f0f7:
 
     # mu "\"...What did she tell you?\""
-    mu ""
+    mu "……她跟你說了什麼？"
 
 # game/murdochroute4.rpy:4245
 translate Tchinese basementlocklasttry_c903d4d9:
 
     # "I list off the phrases, one by one."
-    ""
+    "我把那些詞句一條條列出來。"
 
 # game/murdochroute4.rpy:4247
 translate Tchinese basementlocklasttry_e4419124:
 
     # mu "\"Hrm.\""
-    mu ""
+    mu "嗯……"
 
 # game/murdochroute4.rpy:4249
 translate Tchinese basementlocklasttry_a5c715d0:
 
     # mu "\"The thing about Dahlia is that she refuses to be straightforward.\""
-    mu ""
+    mu "Dahlia為人不愛直白。"
 
 # game/murdochroute4.rpy:4251
 translate Tchinese basementlocklasttry_dc301fdf:
 
     # mu "\"Some of those phrases seem to be talking about individual stars and some seem to be talking about constellations.\""
-    mu ""
+    mu "有些句子似乎是在指特定星體，有些則像在說星座。"
 
 # game/murdochroute4.rpy:4252
 translate Tchinese basementlocklasttry_2433992f:
 
     # mu "\"Figuring out which is which will probably give us the combination.\""
-    mu ""
+    mu "弄清楚哪個是哪個，應該就能得出密碼。"
 
 # game/murdochroute4.rpy:4259
 translate Tchinese basementlocklasttry_16ab8929:
 
     # "I feel a click."
-    ""
+    "感覺到咔噠一聲。"
 
 # game/murdochroute4.rpy:4268
 translate Tchinese basementlocklasttry_a6dcd2bb:
 
     # m "\"It won’t open.\""
-    m ""
+    m "打不開。"
 
 # game/murdochroute4.rpy:4270
 translate Tchinese basementlocklasttry_1896907e:
 
     # m "\"It still won’t open.\""
-    m ""
+    m "還是打不開。"
 
 # game/murdochroute4.rpy:4272
 translate Tchinese basementlocklasttry_30e861b8:
 
     # mu "\"Are you going to try again?\""
-    mu ""
+    mu "你還要再試嗎？"
 
 # game/murdochroute4.rpy:4273
 translate Tchinese basementlocklasttry_cd399b0f:
 
     # m "\"I don’t think it will make a difference.\""
-    m ""
+    m "我不覺得再試會有什麼用。"
 
 # game/murdochroute4.rpy:4275
 translate Tchinese basementlocklasttry_dc098958:
 
     # me "\"Um... excuse me?\""
-    me ""
+    me "呃……不好意思？"
 
 # game/murdochroute4.rpy:4276
 translate Tchinese basementlocklasttry_ac24eeaf:
 
     # "We hear the rabbit’s voice calling from the top of the stairs."
-    ""
+    "兔子的聲音從樓梯頂端傳來。"
 
 # game/murdochroute4.rpy:4277
 translate Tchinese basementlocklasttry_fb4a7567:
 
     # me "\"There’s somebody here at the door.\""
-    me ""
+    me "門口有人。"
 
 # game/murdochroute4.rpy:4278
 translate Tchinese basementlocklasttry_f7f6cefc:
 
     # me "\"We’re not sure if we should let them in or not.\""
-    me ""
+    me "我們不確定該不該讓他們進來。"
 
 # game/murdochroute4.rpy:4280
 translate Tchinese basementlocklasttry_76cc4abf:
 
     # ra "\"Who is it?\""
-    ra ""
+    ra "是誰？"
 
 # game/murdochroute4.rpy:4281
 translate Tchinese basementlocklasttry_37cb56b1:
 
     # me "\"Um...\""
-    me ""
+    me "呃……"
 
 # game/murdochroute4.rpy:4282
 translate Tchinese basementlocklasttry_d26d2ff7:
 
     # me "\"We don’t know, but--\""
-    me ""
+    me "我們不知道，但是——"
 
 # game/murdochroute4.rpy:4284
 translate Tchinese basementlocklasttry_12ac7066:
 
     # cy "\"They’re unlocking the door!\""
-    cy ""
+    cy "他們在開鎖！"
 
 # game/murdochroute4.rpy:4285
 translate Tchinese basementlocklasttry_a9e923ab:
 
     # cy "\"Somebody get up here!\""
-    cy ""
+    cy "誰快點上來！"
 
 # game/murdochroute4.rpy:4287
 translate Tchinese basementlocklasttry_cceadb2e:
 
     # "I stare at that cellar door again."
-    ""
+    "我再次盯著地窖的門。"
 
 # game/murdochroute4.rpy:4288
 translate Tchinese basementlocklasttry_fd468c2a:
 
     # "Something about it makes me feel like it wants to be unlocked."
-    ""
+    "它給我一種渴望被打開的感覺。"
 
 # game/murdochroute4.rpy:4289
 translate Tchinese basementlocklasttry_2e2f44f7:
 
     # "Wants us inside."
-    ""
+    "想讓我們進去。"
 
 # game/murdochroute4.rpy:4290
 translate Tchinese basementlocklasttry_aa7eedc0:
 
     # "Murdoch is staring at it harder than me."
-    ""
+    "Murdoch盯得比我還緊。"
 
 # game/murdochroute4.rpy:4291
 translate Tchinese basementlocklasttry_ab598825:
 
     # "Maybe leaving it be might be for the best."
-    ""
+    "或許最好還是先放著別管了。"
 
 # game/murdochroute4.rpy:4292
 translate Tchinese basementlocklasttry_8794e2d9:
 
     # m "\"Coming.\""
-    m ""
+    m "來了。"
 
 # game/murdochroute4.rpy:4294
 translate Tchinese basementlocklasttry_64e2e099:
 
     # mu "\"But what about the door?\""
-    mu ""
+    mu "那門怎麼辦？"
 
 # game/murdochroute4.rpy:4295
 translate Tchinese basementlocklasttry_6302ff6f:
 
     # m "\"It’s not going anywhere.\""
-    m ""
+    m "它又不會跑掉。"
 
 # game/murdochroute4.rpy:4296
 translate Tchinese basementlocklasttry_85c99b79:
 
     # m "\"Leave it be for now.\""
-    m ""
+    m "先放著吧。"
 
 # game/murdochroute4.rpy:4298
 translate Tchinese basementlocklasttry_8d1c4e0f:
 
     # "Disappointment washes over his face."
-    ""
+    "失望掠過他的臉。"
 
 # game/murdochroute4.rpy:4299
 translate Tchinese basementlocklasttry_f5fbccc2:
 
     # "His fixation on that door worries me some."
-    ""
+    "他對那道門的執著，讓我有點擔心。"
 
 # game/murdochroute4.rpy:4300
 translate Tchinese basementlocklasttry_cf9e7561:
 
     # m "\"Let’s just do one thing at a time, yeah?\""
-    m ""
+    m "事情一件一件做，對吧？"
 
 # game/murdochroute4.rpy:4302
 translate Tchinese basementlocklasttry_7c15d310:
 
     # mu "\"I really think we should be focusing on this.\""
-    mu ""
+    mu "我真的覺得這個才是重點。"
 
 # game/murdochroute4.rpy:4303
 translate Tchinese basementlocklasttry_58fd3e52:
 
     # m "\"Well, maybe somebody smarter than me can figure out the combination then.\""
-    m ""
+    m "呃，那就得找個比我聰明的人解開密碼了。"
 
 # game/murdochroute4.rpy:4304
 translate Tchinese basementlocklasttry_53f10690:
 
     # m "\"Let’s just see who’s at the door for now, okay?\""
-    m ""
+    m "先去看看是誰在門口，行嗎？"
 
 # game/murdochroute4.rpy:4306
 translate Tchinese basementlocklasttry_fa98d387:
 
     # "He bites his bottom lip."
-    ""
+    "他咬住下唇。"
 
 # game/murdochroute4.rpy:4308
 translate Tchinese basementlocklasttry_3a5001d4:
 
     # mu "\"Fine.\""
-    mu ""
+    mu "好吧。"
 
 # game/murdochroute4.rpy:4311
 translate Tchinese basementlocklasttry_0d81a592:
 
     # "The wooden steps creak and groan from how fast I stomp up them."
-    ""
+    "木樓梯被我快步踩得吱嘎作響。"
 
 # game/murdochroute4.rpy:4332
 translate Tchinese failuremerge_c610577a:
 
     # "Everybody in the atrium is looking at the front door."
-    ""
+    "中庭裡的全員都望著前門。"
 
 # game/murdochroute4.rpy:4334
 translate Tchinese failuremerge_a81f9de0:
 
     # "The end of a long, narrow key slips through the lock."
-    ""
+    "一把細長鑰匙的末端滑進鎖孔。"
 
 # game/murdochroute4.rpy:4336
 translate Tchinese failuremerge_1fbc6c56:
 
     # "It turns."
-    ""
+    "轉動。"
 
 # game/murdochroute4.rpy:4338
 translate Tchinese failuremerge_73379d98:
 
     # "Clicks softly."
-    ""
+    "輕輕咔噠一聲。"
 
 # game/murdochroute4.rpy:4340
 translate Tchinese failuremerge_f2d007b0:
 
     # "Holly Byrnes steps through the doorway."
-    ""
+    "Holly Byrnes踏進了門。"
 
 # game/murdochroute4.rpy:4343
 translate Tchinese failuremerge_1eb98365:
 
     # "She pauses, seeing all of us staring back at her."
-    ""
+    "見我們所有人都盯著她，便停下腳步。"
 
 # game/murdochroute4.rpy:4345
 translate Tchinese failuremerge_18e8b3d2:
 
     # ho "\"What are you all doing here?!\""
-    ho ""
+    ho "你們在這做什麼！？"
 
 # game/murdochroute4.rpy:4348
 translate Tchinese failuremerge_1175694b:
 
     # ho "\"Who let you in?!\""
-    ho ""
+    ho "誰讓你們進來的？！"
 
 # game/murdochroute4.rpy:4352
 translate Tchinese failuremerge_f57bed26:
 
     # "Murdoch steps forward."
-    ""
+    "Murdoch走上前。"
 
 # game/murdochroute4.rpy:4354
 translate Tchinese failuremerge_0b20fa5e:
 
     # mu "\"Sorry.\""
-    mu ""
+    mu "對不起。"
 
 # game/murdochroute4.rpy:4357
 translate Tchinese failuremerge_527333f8:
 
     # "Holly sees him, and her expression shifts from surprised to irritated."
-    ""
+    "Holly一看見他，表情就從驚訝轉為煩悶。"
 
 # game/murdochroute4.rpy:4360
 translate Tchinese failuremerge_fa43ebc0:
 
     # ho "\"Of course.\""
-    ho ""
+    ho "我就知道。"
 
 # game/murdochroute4.rpy:4363
 translate Tchinese failuremerge_722128ef:
 
     # ho "\"Now we’ll never hear the end of this.\""
-    ho ""
+    ho "爸媽肯定要把我們唸到死了。"
 
 # game/murdochroute4.rpy:4366
 translate Tchinese failuremerge_6ac71d17:
 
     # ho "\"Why did you think this was a good idea?\""
-    ho ""
+    ho "你怎麼覺得這是個好主意？"
 
 # game/murdochroute4.rpy:4368
 translate Tchinese failuremerge_04b9e317:
 
     # mu "\"We’ve used the school for emergency contingencies before.\""
-    mu ""
+    mu "我們就有把學校當緊急避難所用過。"
 
 # game/murdochroute4.rpy:4370
 translate Tchinese failuremerge_c9f15e1b:
 
     # ho "\"The church was sufficiently safe.\""
-    ho ""
+    ho "教堂已經夠安全了。"
 
 # game/murdochroute4.rpy:4373
 translate Tchinese failuremerge_08766c0a:
 
     # mu "\"We wanted to be away from the fires and as close to the train as possible.\""
-    mu ""
+    mu "我們想遠離火場，同時盡可能靠近火車站。"
 
 # game/murdochroute4.rpy:4375
 translate Tchinese failuremerge_7f620fce:
 
     # ho "\"Well what’s the point of--\""
-    ho ""
+    ho "那有什麼意義——"
 
 # game/murdochroute4.rpy:4377
 translate Tchinese failuremerge_4989ebf0:
 
     # "Her gaze meets somebody else's."
-    ""
+    "她的目光與某人對上。"
 
 # game/murdochroute4.rpy:4378
 translate Tchinese failuremerge_d4cd4983:
 
     # "I turn around to see Jim staring down from the top of the stairs."
-    ""
+    "我轉身，發現Jim正從樓梯頂端看過來。"
 
 # game/murdochroute4.rpy:4381
 translate Tchinese failuremerge_9c95ae76:
 
     # "Her expression softens."
-    ""
+    "她的神情柔和下來。"
 
 # game/murdochroute4.rpy:4383
 translate Tchinese failuremerge_3af91d8b:
 
     # ho "\"...I wasn’t sure that I’d be seeing you again.\""
-    ho ""
+    ho "……我本來不確定還能不能再見到你。"
 
 # game/murdochroute4.rpy:4385
 translate Tchinese failuremerge_d4ae121f:
 
     # "He scowls."
-    ""
+    "他皺起眉頭。"
 
 # game/murdochroute4.rpy:4387
 translate Tchinese failuremerge_693fd103:
 
     # ji "\"Everybody’s leaving, Holly.\""
-    ji ""
+    ji "大家都要走了，Holly。"
 
 # game/murdochroute4.rpy:4390
 translate Tchinese failuremerge_050711d6:
 
     # ji "\"First chance that we get.\""
-    ji ""
+    ji "一有機會就走。"
 
 # game/murdochroute4.rpy:4393
 translate Tchinese failuremerge_293c4eb9:
 
     # ho "\"Well, obviously.\""
-    ho ""
+    ho "嗯，這不用說。"
 
 # game/murdochroute4.rpy:4396
 translate Tchinese failuremerge_a94e2e2e:
 
     # ho "\"Half of downtown’s already been swallowed by flames.\""
-    ho ""
+    ho "市中心已經被火焰吞了大半。"
 
 # game/murdochroute4.rpy:4399
 translate Tchinese failuremerge_0bd0e9aa:
 
     # ji "\"...Do you regret that?\""
-    ji ""
+    ji "……你後悔嗎？"
 
 # game/murdochroute4.rpy:4402
 translate Tchinese failuremerge_027058b1:
 
     # ho "\"Of course I regret that.\""
-    ho ""
+    ho "我當然後悔。"
 
 # game/murdochroute4.rpy:4405
 translate Tchinese failuremerge_d4c5585e:
 
     # ji "\"Good to know you’re capable.\""
-    ji ""
+    ji "很高興知道妳有後悔的感情。"
 
 # game/murdochroute4.rpy:4408
 translate Tchinese failuremerge_a264eff7:
 
     # "She opens her mouth, as if to speak, {nw}"
-    ""
+    "她張開嘴，像是要說話，{nw}"
 
 # game/murdochroute4.rpy:4410
 translate Tchinese failuremerge_fefeb965:
 
     # extend "then closes it."
-    extend ""
+    extend "然後又閉上。"
 
 # game/murdochroute4.rpy:4412
 translate Tchinese failuremerge_4c13c181:
 
     # ho "\"Yes, I’m capable.\""
-    ho ""
+    ho "沒錯，我有。"
 
 # game/murdochroute4.rpy:4414
 translate Tchinese failuremerge_71e2a82c:
 
     # "They stare at each other, in silence."
-    ""
+    "他們沉默地對視。"
 
 # game/murdochroute4.rpy:4416
 translate Tchinese failuremerge_53faec48:
 
     # "It’s almost like they’ve forgotten everybody else in the room."
-    ""
+    "活像是忘了屋裡還有其他人。"
 
 # game/murdochroute4.rpy:4418
 translate Tchinese failuremerge_e48a1508:
 
     # ho "\"Could we speak in private?\""
-    ho ""
+    ho "我們能私下談談嗎？"
 
 # game/murdochroute4.rpy:4420
 translate Tchinese failuremerge_97b865c8:
 
     # "Jim makes a beckoning gesture with his hand."
-    ""
+    "Jim以手勢示意。"
 
 # game/murdochroute4.rpy:4422
 translate Tchinese failuremerge_75f768b2:
 
     # "Quickly, she glides up the stairs."
-    ""
+    "她迅速滑上樓梯。"
 
 # game/murdochroute4.rpy:4426
 translate Tchinese failuremerge_f478266f:
 
     # "The two of them disappear in the direction of the library."
-    ""
+    "兩人消失到圖書館的方向。"
 
 # game/murdochroute4.rpy:4428
 translate Tchinese failuremerge_de050a39:
 
     # m "\"She looks like she forgot what she was going to say real quick.\""
-    m ""
+    m "她好像一下就忘了自己本來想說什麼。"
 
 # game/murdochroute4.rpy:4430
 translate Tchinese failuremerge_2b213610:
 
     # ra "\"Wouldn’t be the first time.\""
-    ra ""
+    ra "也不是第一次了。"
 
 # game/murdochroute4.rpy:4432
 translate Tchinese failuremerge_878a2deb:
 
     # "Ralph’s tail is curling with agitation."
-    ""
+    "Ralph尾巴煩躁地捲曲。"
 
 # game/murdochroute4.rpy:4434
 translate Tchinese failuremerge_c81c8947:
 
     # ra "\"He’s always had that effect on her.\""
-    ra ""
+    ra "他對她影響就是這麼大。"
 
 # game/murdochroute4.rpy:4436
 translate Tchinese failuremerge_c2a90e79:
 
     # ra "\"I don’t like those two being alone together.\""
-    ra ""
+    ra "我不喜歡讓他們兩個獨處。"
 
 # game/murdochroute4.rpy:4438
 translate Tchinese failuremerge_7301e869:
 
     # mu "\"Let them be.\""
-    mu ""
+    mu "隨他們去吧。"
 
 # game/murdochroute4.rpy:4440
 translate Tchinese failuremerge_259f44ef:
 
     # mu "\"If it’s anything, she’s trying to apologize again.\""
-    mu ""
+    mu "反正大概就是她想再次道歉。"
 
 # game/murdochroute4.rpy:4443
 translate Tchinese failuremerge_9a3ca57f:
 
     # ra "\"Funny how it’s never to you.\""
-    ra ""
+    ra "有趣的是，她從來沒對你道過歉。"
 
 # game/murdochroute4.rpy:4445
 translate Tchinese failuremerge_a2234e0e:
 
     # "The fox lowers his voice."
-    ""
+    "狐狸壓低聲音。"
 
 # game/murdochroute4.rpy:4447
 translate Tchinese failuremerge_8f8650a3:
 
     # mu "\"That’s just how it works when you’re family.\""
-    mu ""
+    mu "家人就是這樣的。"
 
 # game/murdochroute4.rpy:4449
 translate Tchinese failuremerge_2c065278:
 
     # "Ralph opens his mouth to push back but the glare Murdoch gives him stops him."
-    ""
+    "Ralph張嘴想反駁，但不敵Murdoch的瞪視。"
 
 # game/murdochroute4.rpy:4451
 translate Tchinese failuremerge_0e4d3fc9:
 
     # ra "\"...Lunacy.\""
-    ra ""
+    ra "……真是瘋了。"
 
 # game/murdochroute4.rpy:4455
 translate Tchinese failuremerge_cf0f533c:
 
     # "Ralph steps away, squatting in a corner."
-    ""
+    "Ralph走離，蹲到角落。"
 
 # game/murdochroute4.rpy:4457
 translate Tchinese failuremerge_442bd256:
 
     # ra "\"You know, they banished my ancestors to an island for very good reason.\""
-    ra ""
+    ra "你知道嗎，我的祖先被流放到島上的理由可充分了。"
 
 # game/murdochroute4.rpy:4460
 translate Tchinese failuremerge_e85c1fc4:
 
     # ra "\"Criminal is criminal.\""
-    ra ""
+    ra "罪犯就是罪犯。"
 
 # game/murdochroute4.rpy:4461
 translate Tchinese failuremerge_d92897ca:
 
     # ra "\"And blood be damned.\""
-    ra ""
+    ra "光憑血緣關係就有罪。"
 
 # game/murdochroute4.rpy:4463
 translate Tchinese failuremerge_86488cbf:
 
     # "Murdoch’s tail swishes with agitation."
-    ""
+    "Murdoch尾巴煩躁地甩動。"
 
 # game/murdochroute4.rpy:4465
 translate Tchinese failuremerge_c57ba101:
 
     # "I can’t say my relations with my own family were much different."
-    ""
+    "我自己與家人的關係也沒多大差別。"
 
 # game/murdochroute4.rpy:4467
 translate Tchinese failuremerge_1d423401:
 
     # "Forgiveness was mandated."
-    ""
+    "強制性的原諒；"
 
 # game/murdochroute4.rpy:4469
 translate Tchinese failuremerge_714a5be3:
 
     # "You honored your elders."
-    ""
+    "人須敬老尊賢；"
 
 # game/murdochroute4.rpy:4471
 translate Tchinese failuremerge_0d3044ce:
 
     # "You didn’t break covenants with your siblings."
-    ""
+    "不許破壞與手足的盟約。"
 
 # game/murdochroute4.rpy:4473
 translate Tchinese failuremerge_de43df30:
 
     # "That was just how it was."
-    ""
+    "事情就是這樣。"
 
 # game/murdochroute4.rpy:4475
 translate Tchinese failuremerge_53cf37bb:
 
     # "It’s partly why I ran from them."
-    ""
+    "這也是我逃離他們的部分原因。"
 
 # game/murdochroute4.rpy:4483
 translate Tchinese failuremerge_671f3613:
 
     # reu "\"I won’t complain if he’s listening to her so we don’t have to.\""
-    reu ""
+    reu "既然他要聽她說話，我們就不必聽了，我倒沒什麼好抱怨的。"
 
 # game/murdochroute4.rpy:4486
 translate Tchinese failuremerge_16b8b276:
 
     # reu "\"She’s his ball and chain.\""
-    reu ""
+    reu "她是他的枷鎖。"
 
 # game/murdochroute4.rpy:4489
 translate Tchinese failuremerge_e379c35a:
 
     # reu "\"Not mine.\""
-    reu ""
+    reu "不是我的。"
 
 # game/murdochroute4.rpy:4492
 translate Tchinese failuremerge_3e8ca38b:
 
     # mu "\"Looks like they’re smoothing things over.\""
-    mu ""
+    mu "看來他們要和好了。"
 
 # game/murdochroute4.rpy:4494
 translate Tchinese failuremerge_61baea5d:
 
     # m "\"...What makes you say that?\""
-    m ""
+    m "……怎麼說？"
 
 # game/murdochroute4.rpy:4497
 translate Tchinese failuremerge_89fb2cc3:
 
     # "The dog barks out a quiet laugh."
-    ""
+    "狗低笑了一聲。"
 
 # game/murdochroute4.rpy:4499
 translate Tchinese failuremerge_e504dae6:
 
     # nei "\"I’ve seen this happen countless times.\""
-    nei ""
+    nei "我看過無數次了。"
 
 # game/murdochroute4.rpy:4502
 translate Tchinese failuremerge_19f7ea5b:
 
     # nei "\"I know the body language.\""
-    nei ""
+    nei "我懂那些肢體語言。"
 
 # game/murdochroute4.rpy:4505
 translate Tchinese failuremerge_1afd945c:
 
     # nei "\"Relationships of this manner always fall back into place, in spite of the hiccups.\""
-    nei ""
+    nei "那怕有波折，這種關係總會回到正軌。"
 
 # game/murdochroute4.rpy:4512
 translate Tchinese failuremerge_5791b968:
 
     # "I’m not sure if that’s true, not that it’s my business, or that I even care."
-    ""
+    "我不知道這是不是真的，但反正不關我的事、我也不在乎。"
 
 # game/murdochroute4.rpy:4514
 translate Tchinese failuremerge_e7402532:
 
     # "But if she’s too preoccupied to push us out of the school for the night, that’s all we need to pass until morning."
-    ""
+    "但如果她沒閒情把我們趕出學校過夜，那就夠我們撐到早上了。"
 
 # game/murdochroute4.rpy:4517
 translate Tchinese failuremerge_8451333b:
 
     # "I try my best to stay awake, but I’m more exhausted than I realized, and stopping for a spell is all my body needs to feel heavy."
-    ""
+    "我努力保持清醒，但身體比想像中更勞累，只要一有停頓，就變得沉重。"
 
 # game/murdochroute4.rpy:4518
 translate Tchinese failuremerge_685de594:
 
     # "Before I know it, I feel my eyes flipping open."
-    ""
+    "回過神來，我感覺自己睜開了眼睛。"
 
 # game/murdochroute4.rpy:4520
 translate Tchinese failuremerge_6af86606:
 
     # "I see sunlight stream through the windows."
-    ""
+    "看見陽光從窗戶透進來。"
 
 # game/murdochroute4.rpy:4522
 translate Tchinese failuremerge_ae3d2d77:
 
     # "It’s morning."
-    ""
+    "已經是早上了。"
 
 # game/murdochroute4.rpy:4524
 translate Tchinese failuremerge_b487d419:
 
     # ra "\"Good morning, your highness.\""
-    ra ""
+    ra "早安，殿下。"
 
 # game/murdochroute4.rpy:4526
 translate Tchinese failuremerge_f08d229d:
 
     # m "\"...Shit.\""
-    m ""
+    m "……幹。"
 
 # game/murdochroute4.rpy:4528
 translate Tchinese failuremerge_5855582e:
 
     # m "\"I don’t remember falling asleep.\""
-    m ""
+    m "我都不記得自己睡著了。"
 
 # game/murdochroute4.rpy:4530
 translate Tchinese failuremerge_eae26027:
 
     # ra "\"Well.\""
-    ra ""
+    ra "嗯。"
 
 # game/murdochroute4.rpy:4532
 translate Tchinese failuremerge_2c0c9271:
 
     # ra "\"You did.\""
-    ra ""
+    ra "你確實睡了。"
 
 # game/murdochroute4.rpy:4534
 translate Tchinese failuremerge_3eaf512a:
 
     # ra "\"Jim’s group already left for the station.\""
-    ra ""
+    ra "Jim一行人已經去車站了。"
 
 # game/murdochroute4.rpy:4536
 translate Tchinese failuremerge_1e701bfb:
 
     # m "\"They went without us?\""
-    m ""
+    m "他們沒等我們就走了？"
 
 # game/murdochroute4.rpy:4538
 translate Tchinese failuremerge_d670fa20:
 
     # ra "\"Are you surprised?\""
-    ra ""
+    ra "意外嗎？"
 
 # game/murdochroute4.rpy:4540
 translate Tchinese failuremerge_531d71da:
 
     # ra "\"Our usefulness has run out.\""
-    ra ""
+    ra "我們已經沒用了。"
 
 # game/murdochroute4.rpy:4542
 translate Tchinese failuremerge_9b3221f3:
 
     # ra "\"Of course, Holly was quite insistent that they leave without waking too many people up.\""
-    ra ""
+    ra "更別提，Holly還堅持要他們在走的時候別吵醒太多人。"
 
 # game/murdochroute4.rpy:4544
 translate Tchinese failuremerge_d58b68ee:
 
     # m "\"...Who’s left?\""
-    m ""
+    m "……還有誰在？"
 
 # game/murdochroute4.rpy:4546
 translate Tchinese failuremerge_6e33976a:
 
     # ra "\"Just the Hip workers.\""
-    ra ""
+    ra "只剩Hip的員工。"
 
 # game/murdochroute4.rpy:4548
 translate Tchinese failuremerge_71152eb4:
 
     # ra "\"Those two girls must have slipped off sometime when Holly arrived.\""
-    ra ""
+    ra "那兩個女孩大概在Holly來的時候就趁機溜走了。"
 
 # game/murdochroute4.rpy:4550
 translate Tchinese failuremerge_d2ef88e2:
 
     # cy "\"Sam?\""
-    cy ""
+    cy "Sam？"
 
 # game/murdochroute4.rpy:4552
 translate Tchinese failuremerge_ca9a236e:
 
     # "I feel a little more at ease when I hear Cynthia’s voice."
-    ""
+    "聽到Cynthia的聲音，我感覺清鬆了一點。"
 
 # game/murdochroute4.rpy:4554
 translate Tchinese failuremerge_f2093ff4:
 
     # "She walks toward me, rubbing her eyes."
-    ""
+    "她走向我，揉著眼睛。"
 
 # game/murdochroute4.rpy:4556
 translate Tchinese failuremerge_a5081413:
 
     # "I’ve rarely ever seen her this tired."
-    ""
+    "我很少看到她這麼累。"
 
 # game/murdochroute4.rpy:4558
 translate Tchinese failuremerge_f14adaeb:
 
     # cy "\"It’s good that you’re up.\""
-    cy ""
+    cy "你醒了就好。"
 
 # game/murdochroute4.rpy:4560
 translate Tchinese failuremerge_354d8cbf:
 
     # cy "\"I was worried you were going to keep sleeping.\""
-    cy ""
+    cy "我還擔心你會一直睡下去呢。"
 
 # game/murdochroute4.rpy:4562
 translate Tchinese failuremerge_690e867f:
 
     # m "\"Shit.\""
-    m ""
+    m "操。"
 
 # game/murdochroute4.rpy:4564
 translate Tchinese failuremerge_fd2eb9ea:
 
     # m "\"How late is it?\""
-    m ""
+    m "現在幾點了？"
 
 # game/murdochroute4.rpy:4566
 translate Tchinese failuremerge_b08f1847:
 
     # cy "\"I’d wager about half past ten.\""
-    cy ""
+    cy "我猜大概十點半吧。"
 
 # game/murdochroute4.rpy:4568
 translate Tchinese failuremerge_1c238f71:
 
     # cy "\"We need to be off if we want to make the noon train.\""
-    cy ""
+    cy "如果要去趕中午的火車，我們就得走了。"
 
 # game/murdochroute4.rpy:4570
 translate Tchinese failuremerge_6bff4e6b:
 
     # m "\"...Yeah.\""
-    m ""
+    m "……嗯。"
 
 # game/murdochroute4.rpy:4572
 translate Tchinese failuremerge_a2832ddf:
 
     # m "\"It would be good to go soon then, wouldn’t it?\""
-    m ""
+    m "那最好趕快走，沒錯吧？"
 
 # game/murdochroute4.rpy:4574
 translate Tchinese failuremerge_90cd340b:
 
     # m "\"Where’s Murdoch?\""
-    m ""
+    m "Murdoch人呢？"
 
 # game/murdochroute4.rpy:4576
 translate Tchinese failuremerge_ec108c2f:
 
     # ra "\"He’s already at the station.\""
-    ra ""
+    ra "他已經在車站了。"
 
 # game/murdochroute4.rpy:4578
 translate Tchinese failuremerge_d558ef9b:
 
     # "...Huh?"
-    ""
+    "……啊？"
 
 # game/murdochroute4.rpy:4580
 translate Tchinese failuremerge_fdcfd18e:
 
     # m "\"Why?\""
-    m ""
+    m "為什麼？"
 
 # game/murdochroute4.rpy:4582
 translate Tchinese failuremerge_063d0e48:
 
     # ra "\"Why don’t you ask him?\""
-    ra ""
+    ra "你怎麼不去問他？"
 
 # game/murdochroute4.rpy:4584
 translate Tchinese failuremerge_5119ff21:
 
     # m "\"What’s that supposed to mean?\""
-    m ""
+    m "你這是什麼意思？"
 
 # game/murdochroute4.rpy:4586
 translate Tchinese failuremerge_3693e18a:
 
     # ra "\"You’re the one he’s been talking to the last few weeks.\""
-    ra ""
+    ra "這幾週來，他的談話對象都是你。"
 
 # game/murdochroute4.rpy:4588
 translate Tchinese failuremerge_7e045c2e:
 
     # ra "\"He’d tell you before he told me.\""
-    ra ""
+    ra "比起我，他肯定會先告訴你。"
 
 # game/murdochroute4.rpy:4590
 translate Tchinese failuremerge_3520f701:
 
     # "The rat sounds a bit resentful."
-    ""
+    "老鼠語帶怨氣。"
 
 # game/murdochroute4.rpy:4592
 translate Tchinese failuremerge_cee8d13f:
 
     # m "\"I just didn’t think he’d go to the station without me is all.\""
-    m ""
+    m "我只是沒想到他會拋下我，自己去車站。"
 
 # game/murdochroute4.rpy:4594
 translate Tchinese failuremerge_806c9704:
 
     # ra "\"When Murdoch wants to do something, there’s no talking to him about it.\""
-    ra ""
+    ra "Murdoch下定決心想做的事，沒人勸得動。"
 
 # game/murdochroute4.rpy:4596
 translate Tchinese failuremerge_0fd799fd:
 
     # ra "\"He makes up his mind and he does it.\""
-    ra ""
+    ra "他一旦決定就會去做。"
 
 # game/murdochroute4.rpy:4598
 translate Tchinese failuremerge_36fbab8a:
 
     # m "\"That doesn’t sound like him.\""
-    m ""
+    m "這聽起來不像他的為人。"
 
 # game/murdochroute4.rpy:4600
 translate Tchinese failuremerge_cd2594d0:
 
     # ra "\"I’ve known him a lot longer than you have.\""
-    ra ""
+    ra "我認識他比你久多了。"
 
 # game/murdochroute4.rpy:4602
 translate Tchinese failuremerge_a4dcf766:
 
     # ra "\"Anyways, if you want to talk to him about it, you’d better catch him at the station before the train is off.\""
-    ra ""
+    ra "總之，如果你想跟他談，最好在火車開走前，去車站找他。"
 
 # game/murdochroute4.rpy:4604
 translate Tchinese failuremerge_ff5f4bbc:
 
     # "Right."
-    ""
+    "也對。"
 
 # game/murdochroute4.rpy:4606
 translate Tchinese failuremerge_9acddd6a:
 
     # "There’s no use speculating anyway."
-    ""
+    "反正瞎猜也沒用。"
 
 # game/murdochroute4.rpy:4608
 translate Tchinese failuremerge_babbf797:
 
     # m "\"Are we all ready?\""
-    m ""
+    m "大家都準備好了嗎？"
 
 # game/murdochroute4.rpy:4610
 translate Tchinese failuremerge_d7009bf1:
 
     # cy "\"Yeah.\""
-    cy ""
+    cy "嗯。"
 
 # game/murdochroute4.rpy:4612
 translate Tchinese failuremerge_3b4d8dd3:
 
     # lu "\"...I’m real dizzy.\""
-    lu ""
+    lu "……我頭好暈。"
 
 # game/murdochroute4.rpy:4614
 translate Tchinese failuremerge_3d4c8fe2:
 
     # cy "\"You’ll feel better once we get you away from all this bad air...\""
-    cy ""
+    cy "等離開這裡糟糕的空氣就會好了……"
 
 # game/murdochroute4.rpy:4617
 translate Tchinese failuremerge_9c6db5df:
 
     # cy "\"Let’s go, gentlemen.\""
-    cy ""
+    cy "走吧，男士們。"
 
 # game/murdochroute4.rpy:4620
 translate Tchinese failuremerge_a5327c5b:
 
     # "The sky is a pale white rather than bloody red."
-    ""
+    "天空是蒼白色的，而非血紅。"
 
 # game/murdochroute4.rpy:4622
 translate Tchinese failuremerge_9c5d1013:
 
     # "The ruins of Echo’s downtown smolder in the distance as we trudge along."
-    ""
+    "我們舉步維艱，Echo鎮中心的廢墟還在遠處悶燒。"
 
 # game/murdochroute4.rpy:4624
 translate Tchinese failuremerge_75a77bbe:
 
     # "We take about thirty feet of steps out the front door before we hear a noise."
-    ""
+    "走離前門大約三十呎後，我們聽到一聲響動。"
 
 # game/murdochroute4.rpy:4626
 translate Tchinese failuremerge_e9f4fc11:
 
     # "The door slams behind us."
-    ""
+    "門在我們身後猛然關閉。"
 
 # game/murdochroute4.rpy:4628
 translate Tchinese failuremerge_ef44780f:
 
     # m "\"That was the younger sister, wasn’t it?\""
-    m ""
+    m "那是小妹吧？"
 
 # game/murdochroute4.rpy:4630
 translate Tchinese failuremerge_b35f8e9b:
 
     # "Ralph looks back."
-    ""
+    "Ralph回望。"
 
 # game/murdochroute4.rpy:4632
 translate Tchinese failuremerge_804e8901:
 
     # "He looks like he’s thinking."
-    ""
+    "若有所思。"
 
 # game/murdochroute4.rpy:4634
 translate Tchinese failuremerge_6312e981:
 
     # ra "\"Her whole life’s achievements are wrapped up in this place.\""
-    ra ""
+    ra "這個地方就是她畢生成就的一切。"
 
 # game/murdochroute4.rpy:4636
 translate Tchinese failuremerge_d1fa1774:
 
     # ra "\"Makes some sense that she wouldn’t bring herself to leave.\""
-    ra ""
+    ra "她捨不得離開，也情有可原。"
 
 # game/murdochroute4.rpy:4637
 translate Tchinese failuremerge_90c39e8d:
 
     # "Something is bothering me, but I can’t tell what."
-    ""
+    "有什麼事正困擾著我，但我說不上來。"
 
 # game/murdochroute4.rpy:4639
 translate Tchinese failuremerge_f04dccb3:
 
     # "Maybe it’s the way in which the door slammed."
-    ""
+    "也許是門關上的方式。"
 
 # game/murdochroute4.rpy:4641
 translate Tchinese failuremerge_491a5669:
 
     # "Or the feeling that I’ve left something unfinished."
-    ""
+    "或是感覺好像有什麼事還沒做完。"
 
 # game/murdochroute4.rpy:4643
 translate Tchinese failuremerge_73a8f37e:
 
     # "But Ralph's answer is satisfactory enough."
-    ""
+    "但Ralph的回答已經足夠了。"
 
 # game/murdochroute4.rpy:4645
 translate Tchinese failuremerge_cd79f48a:
 
     # "I don’t want to hold up Cynthia anymore than I already have."
-    ""
+    "我也不想再拖累Cynthia了。"
 
 # game/murdochroute4.rpy:4647
 translate Tchinese failuremerge_d8313ecf:
 
     # "So we keep on walking."
-    ""
+    "於是我們繼續前行。"
 
 # game/murdochroute4.rpy:4650
 translate Tchinese failuremerge_7d39876e:
 
     # "White ash sifts through the air as we go."
-    ""
+    "空中飄著白灰。"
 
 # game/murdochroute4.rpy:4652
 translate Tchinese failuremerge_21a8bf04:
 
     # "It might feel like freshly fallen snow if it wasn’t in the dead of summer heat."
-    ""
+    "要不是夏天熱得要命，感覺會像剛下的雪。"
 
 # game/murdochroute4.rpy:4654
 translate Tchinese failuremerge_8414dd24:
 
     # "The Hip didn’t make it."
-    ""
+    "Hip沒保住。"
 
 # game/murdochroute4.rpy:4656
 translate Tchinese failuremerge_3baa17bf:
 
     # "Neither did city hall."
-    ""
+    "鎮公所也沒有。"
 
 # game/murdochroute4.rpy:4658
 translate Tchinese failuremerge_d1fb81ef:
 
     # "We’re lucky the train station didn’t get caught up in the fire, else we would be standing in the heat with no escape from the sun."
-    ""
+    "萬幸，火車站沒被燒到，不然這大熱天的，我們甚至沒地方能躲太陽。"
 
 # game/murdochroute4.rpy:4661
 translate Tchinese failuremerge_71408323:
 
     # "A crowd like nothing I’ve never seen before has assembled in the ticket lines."
-    ""
+    "售票處聚集了前所未見的人群。"
 
 # game/murdochroute4.rpy:4663
 translate Tchinese failuremerge_8865a65a:
 
     # "I can see a flash of red fur within the crowd."
-    ""
+    "我在人群中看到一抹紅毛。"
 
 # game/murdochroute4.rpy:4665
 translate Tchinese failuremerge_a8693e6a:
 
     # "When I make my way deep enough through, I can see who it belongs to."
-    ""
+    "擠過人群，我才看清那是誰。"
 
 # game/murdochroute4.rpy:4668
 translate Tchinese failuremerge_0aefacd5:
 
     # m "\"Holly Byrnes.\""
-    m ""
+    m "Holly Byrnes。"
 
 # game/murdochroute4.rpy:4669
 translate Tchinese failuremerge_da637587:
 
     # "She tilts her head before turning it."
-    ""
+    "她歪頭，轉了過來。"
 
 # game/murdochroute4.rpy:4671
 translate Tchinese failuremerge_29bd03aa:
 
     # ho "\"Oh. You.\""
-    ho ""
+    ho "哦，是你啊。"
 
 # game/murdochroute4.rpy:4673
 translate Tchinese failuremerge_32916f9f:
 
     # "She closes her eyes, unbothered, rubbing her forehead with the back of her palm."
-    ""
+    "她毫不在意地閉著眼，用手背揉額頭。"
 
 # game/murdochroute4.rpy:4675
 translate Tchinese failuremerge_655b29e5:
 
     # ho "\"I didn’t much expect to run into you again.\""
-    ho ""
+    ho "我沒怎麼預期會再碰到你。"
 
 # game/murdochroute4.rpy:4677
 translate Tchinese failuremerge_4a68aeac:
 
     # m "\"I can say the same.\""
-    m ""
+    m "我也一樣。"
 
 # game/murdochroute4.rpy:4679
 translate Tchinese failuremerge_90cd340b_1:
 
     # m "\"Where’s Murdoch?\""
-    m ""
+    m "Murdoch在哪？"
 
 # game/murdochroute4.rpy:4681
 translate Tchinese failuremerge_39b786af:
 
     # "A twinge of annoyance flashes across her face."
-    ""
+    "她的臉閃過一絲不悅。"
 
 # game/murdochroute4.rpy:4683
 translate Tchinese failuremerge_bcef83bf:
 
     # ho "\"I’m not sure why you’re asking me.\""
-    ho ""
+    ho "我都不知道你為什麼要問我。"
 
 # game/murdochroute4.rpy:4685
 translate Tchinese failuremerge_e0b336ac:
 
     # m "\"I was told he went to the train station with you.\""
-    m ""
+    m "有人說他是跟妳一起來車站的。"
 
 # game/murdochroute4.rpy:4687
 translate Tchinese failuremerge_52107312:
 
     # m "\"At your insistence.\""
-    m ""
+    m "在妳的堅持下。"
 
 # game/murdochroute4.rpy:4689
 translate Tchinese failuremerge_c0e3f59a:
 
     # ho "\"Hrm.\""
-    ho ""
+    ho "嗯。"
 
 # game/murdochroute4.rpy:4691
 translate Tchinese failuremerge_b89e3755:
 
     # ho "\"If that were the case, he would be here, wouldn’t he?\""
-    ho ""
+    ho "既然如此，那他不就該在這裡嗎？"
 
 # game/murdochroute4.rpy:4693
 translate Tchinese failuremerge_499b85ea:
 
     # m "\"Yes.\""
-    m ""
+    m "是啊。"
 
 # game/murdochroute4.rpy:4695
 translate Tchinese failuremerge_bf293c7a:
 
     # ho "\"Well, as you can see, he isn’t.\""
-    ho ""
+    ho "不過，如你所見，他並不在。"
 
 # game/murdochroute4.rpy:4697
 translate Tchinese failuremerge_03e0f990:
 
     # "She could be lying to me."
-    ""
+    "她可能在騙我。"
 
 # game/murdochroute4.rpy:4699
 translate Tchinese failuremerge_73463806:
 
     # "She probably is lying to me."
-    ""
+    "她八成就是在騙我。"
 
 # game/murdochroute4.rpy:4701
 translate Tchinese failuremerge_7ade962a:
 
     # "But I can’t shake the fact that she’s right."
-    ""
+    "但我無法反駁她的說法。"
 
 # game/murdochroute4.rpy:4703
 translate Tchinese failuremerge_018d54d3:
 
     # "I can see Jim standing near her, avoiding eye contact with me."
-    ""
+    "我能看到Jim站在她身邊，避著我的目光。"
 
 # game/murdochroute4.rpy:4705
 translate Tchinese failuremerge_5574fa6d:
 
     # "But no other flash of red."
-    ""
+    "卻不見其他紅毛。"
 
 # game/murdochroute4.rpy:4707
 translate Tchinese failuremerge_86126630:
 
     # "No other red fox in the crowd."
-    ""
+    "人群中不存在赤狐。"
 
 # game/murdochroute4.rpy:4709
 translate Tchinese failuremerge_80c3e519:
 
     # ho "\"My brother is free to live his own life.\""
-    ho ""
+    ho "我弟弟的生活，是他的自由。"
 
 # game/murdochroute4.rpy:4712
 translate Tchinese failuremerge_f698b618:
 
     # ho "\"It’s about time he started.\""
-    ho ""
+    ho "也該是時候了。"
 
 # game/murdochroute4.rpy:4715
 translate Tchinese failuremerge_3b73520c:
 
     # "The whistle blows. The doors of the train open."
-    ""
+    "汽笛響起，火車門打開了。"
 
 # game/murdochroute4.rpy:4717
 translate Tchinese failuremerge_eb3c8569:
 
     # ho "\"Are you ready, dear?\""
-    ho ""
+    ho "準備好了嗎，親愛的？"
 
 # game/murdochroute4.rpy:4720
 translate Tchinese failuremerge_abbf5974:
 
     # "The silver fox has the look of somebody deeply troubled but made up in his mind."
-    ""
+    "銀狐看上去心事重重，但心意已決。"
 
 # game/murdochroute4.rpy:4723
 translate Tchinese failuremerge_f9a1d25c:
 
     # ji "\"I am.\""
-    ji ""
+    ji "好了。"
 
 # game/murdochroute4.rpy:4726
 translate Tchinese failuremerge_96af5d68:
 
     # ho "\"Then let’s not look back.\""
-    ho ""
+    ho "那就別回頭了。"
 
 # game/murdochroute4.rpy:4728
 translate Tchinese failuremerge_a52dedef:
 
     # "She holds out her paw to him."
-    ""
+    "她向他伸爪。"
 
 # game/murdochroute4.rpy:4732
 translate Tchinese failuremerge_34352670:
 
     # "He takes it and they step on board."
-    ""
+    "而他牽起，兩人登上火車。"
 
 # game/murdochroute4.rpy:4734
 translate Tchinese failuremerge_5f3ddbd8:
 
     # m "\"Holly what the hell HAPPENED last night?\""
-    m ""
+    m "Holly，昨晚到底{b}發生{/b}了什麼事？"
 
 # game/murdochroute4.rpy:4736
 translate Tchinese failuremerge_54b58e3d:
 
     # "She stops for a moment at the door."
-    ""
+    "她在門口停了一下。"
 
 # game/murdochroute4.rpy:4738
 translate Tchinese failuremerge_f58c77e7:
 
     # "I hear her speak."
-    ""
+    "開口說道："
 
 # game/murdochroute4.rpy:4740
 translate Tchinese failuremerge_4475fa98:
 
     # ho "\"You can see that he’s not with us.\""
-    ho ""
+    ho "你也看得到，他沒有跟我們在一起。"
 
 # game/murdochroute4.rpy:4742
 translate Tchinese failuremerge_2f795f9d:
 
     # "And then she disappears."
-    ""
+    "然後身影消失。"
 
 # game/murdochroute4.rpy:4744
 translate Tchinese failuremerge_6614e40f:
 
     # "Dozens more fill into the train."
-    ""
+    "更多人湧進火車。"
 
 # game/murdochroute4.rpy:4746
 translate Tchinese failuremerge_99477cc2:
 
     # "I look around me, half expecting to see some sign of Murdoch."
-    ""
+    "我左顧右盼，希望能看到Murdoch的蹤跡。"
 
 # game/murdochroute4.rpy:4748
 translate Tchinese failuremerge_dd645ed3:
 
     # "But there isn’t any."
-    ""
+    "但什麼也沒有。"
 
 # game/murdochroute4.rpy:4750
 translate Tchinese failuremerge_706573ce:
 
     # cy "\"Sam, are you getting on the train?\""
-    cy ""
+    cy "Sam，你要上車嗎？"
 
 # game/murdochroute4.rpy:4752
 translate Tchinese failuremerge_ebd5094d:
 
     # m "\"Huh...?\""
-    m ""
+    m "啊……？"
 
 # game/murdochroute4.rpy:4754
 translate Tchinese failuremerge_7078ebbf:
 
     # cy "\"Everybody’s boarding!\""
-    cy ""
+    cy "大家都上車了！"
 
 # game/murdochroute4.rpy:4756
 translate Tchinese failuremerge_37ef442b:
 
     # cy "\"You got your ticket, right?\""
-    cy ""
+    cy "你有票，對吧？"
 
 # game/murdochroute4.rpy:4758
 translate Tchinese failuremerge_6bff4e6b_1:
 
     # m "\"...Yeah.\""
-    m ""
+    m "……有。"
 
 # game/murdochroute4.rpy:4760
 translate Tchinese failuremerge_1b451e7c:
 
     # "She’s right."
-    ""
+    "她說得對。"
 
 # game/murdochroute4.rpy:4762
 translate Tchinese failuremerge_704bd6cb:
 
     # "But I’m not sure what to do."
-    ""
+    "但我不知道該如何是好。"
 
 # game/murdochroute4.rpy:4764
 translate Tchinese failuremerge_b35e429d:
 
     # "There’s a possibility Murdoch is already on that train."
-    ""
+    "也有可能，Murdoch已經上了火車。"
 
 # game/murdochroute4.rpy:4766
 translate Tchinese failuremerge_95eb7d1d:
 
     # "Is he avoiding me?"
-    ""
+    "他是在躲我嗎？"
 
 # game/murdochroute4.rpy:4768
 translate Tchinese failuremerge_78ef3828:
 
     # "I wouldn’t know why."
-    ""
+    "我不明白為什麼。"
 
 # game/murdochroute4.rpy:4770
 translate Tchinese failuremerge_4dcce2b6:
 
     # "I haven’t done anything."
-    ""
+    "我什麼都沒做。"
 
 # game/murdochroute4.rpy:4772
 translate Tchinese failuremerge_b037163a:
 
     # "But if he isn’t on the train, where would he be?"
-    ""
+    "但要是他不在火車上，那會在哪？"
 
 # game/murdochroute4.rpy:4774
 translate Tchinese failuremerge_11cee0b7:
 
     # "That doesn’t make sense either."
-    ""
+    "那也說不通。"
 
 # game/murdochroute4.rpy:4776
 translate Tchinese failuremerge_6e5b57b8:
 
     # cy "\"Sam, we’ve got to go.\""
-    cy ""
+    cy "Sam，我們得走了。"
 
 # game/murdochroute4.rpy:4778
 translate Tchinese failuremerge_dc6ac5c6:
 
     # m "\"But my friend is missing.\""
-    m ""
+    m "可是我的朋友不見了。"
 
 # game/murdochroute4.rpy:4780
 translate Tchinese failuremerge_10e22a42:
 
     # cy "\"Which one?\""
-    cy ""
+    cy "哪個？"
 
 # game/murdochroute4.rpy:4782
 translate Tchinese failuremerge_6745d7ed:
 
     # cy "\"You’ve had a lot of those recently.\""
-    cy ""
+    cy "你最近挺多朋友的。"
 
 # game/murdochroute4.rpy:4784
 translate Tchinese failuremerge_a57a9297:
 
     # m "\"The red fox.\""
-    m ""
+    m "那隻赤狐。"
 
 # game/murdochroute4.rpy:4786
 translate Tchinese failuremerge_c2c24598:
 
     # cy "\"Oh!\""
-    cy ""
+    cy "喔！"
 
 # game/murdochroute4.rpy:4788
 translate Tchinese failuremerge_6f97b046:
 
     # cy "\"Hrm.\""
-    cy ""
+    cy "嗯……"
 
 # game/murdochroute4.rpy:4790
 translate Tchinese failuremerge_5ea13399:
 
     # cy "\"That family’s never been hurting for money, so if somebody said he’s getting out, I’d believe he has the means.\""
-    cy ""
+    cy "那家人從不缺錢，所以如果有人說他走了，我相信他自有門路。"
 
 # game/murdochroute4.rpy:4792
 translate Tchinese failuremerge_9788f6f8:
 
     # m "\"...Right.\""
-    m ""
+    m "……也對。"
 
 # game/murdochroute4.rpy:4794
 translate Tchinese failuremerge_4fbcc48b:
 
     # cy "\"Why don’t you come with me to Payton and we can work it out?\""
-    cy ""
+    cy "不如先跟我去沛頓，再從長計議吧？"
 
 # game/murdochroute4.rpy:4796
 translate Tchinese failuremerge_2e550946:
 
     # cy "\"We’ve got to get out of here until the roads are cleared anyway.\""
-    cy ""
+    cy "反正在道路清理好之前，我們也只能先離開了。"
 
 # game/murdochroute4.rpy:4798
 translate Tchinese failuremerge_f10cd663:
 
     # cy "\"If he’s still here, it’s only a short train ride back?\""
-    cy ""
+    cy "就算他人還在這裡，坐火車回來也很快不是嗎？"
 
 # game/murdochroute4.rpy:4800
 translate Tchinese failuremerge_fdded483:
 
     # "That seems like the sensible option."
-    ""
+    "這似乎是明智的選擇。"
 
 # game/murdochroute4.rpy:4802
 translate Tchinese failuremerge_c9188ca6:
 
     # "But something feels wrong."
-    ""
+    "但總感覺不太對勁。"
 
 # game/murdochroute4.rpy:4804
 translate Tchinese failuremerge_01058330:
 
     # "Like I’ve missed something."
-    ""
+    "我好像錯過了什麼。"
 
 # game/murdochroute4.rpy:4806
 translate Tchinese failuremerge_3e48424c:
 
     # "Something I can’t afford to miss."
-    ""
+    "某種我絕不可錯過的事物。"
 
 # game/murdochroute4.rpy:4808
 translate Tchinese failuremerge_8bdd5ca4:
 
     # "I don’t know."
-    ""
+    "我不知道。"
 
 # game/murdochroute4.rpy:4812
 translate Tchinese failuremerge_e771e908:
 
     # "All I know is that I feel terrible, like my stomach is sinking."
-    ""
+    "我只知道感覺很糟，心裡一沉。"
 
 # game/murdochroute4.rpy:4816
 translate Tchinese failuremerge_c608345f:
 
     # "But I board that train."
-    ""
+    "但我還是上了火車。"
 
 # game/murdochroute4.rpy:4819
 translate Tchinese failuremerge_3ab81b23:
 
     # "And I walk each and every cart as it starts to move."
-    ""
+    "火車出發時，我走遍每一節車廂。"
 
 # game/murdochroute4.rpy:4821
 translate Tchinese failuremerge_e1b1db10:
 
     # "I can’t find him."
-    ""
+    "就是找不到他。"
 
 # game/murdochroute4.rpy:4823
 translate Tchinese failuremerge_1671f191:
 
     # "I find Ralph Walker sitting alone."
-    ""
+    "Ralph Walker獨自坐著。"
 
 # game/murdochroute4.rpy:4825
 translate Tchinese failuremerge_58548615:
 
     # "I decide to sit beside him."
-    ""
+    "我決定坐到他旁邊。"
 
 # game/murdochroute4.rpy:4826
 translate Tchinese failuremerge_fde90112:
 
     # "Tell him something I think he already knows."
-    ""
+    "告訴他一些我覺得他已經知道的事。"
 
 # game/murdochroute4.rpy:4827
 translate Tchinese failuremerge_9376e556:
 
     # m "\"He’s not on this train.\""
-    m ""
+    m "他不在這列火車上。"
 
 # game/murdochroute4.rpy:4829
 translate Tchinese failuremerge_0ac0335f:
 
     # ra "\"Or if he is, he’s hiding from us.\""
-    ra ""
+    ra "要是他在，那也在躲著我們。"
 
 # game/murdochroute4.rpy:4830
 translate Tchinese failuremerge_d558b60d:
 
     # ra "\"I’m sorry.\""
-    ra ""
+    ra "對不起。"
 
 # game/murdochroute4.rpy:4831
 translate Tchinese failuremerge_431aedfa:
 
     # m "\"Sorry for what?\""
-    m ""
+    m "對不起什麼？"
 
 # game/murdochroute4.rpy:4833
 translate Tchinese failuremerge_77eada3a:
 
     # ra "\"For knowing what it’s like to be me.\""
-    ra ""
+    ra "現在你知道我的感覺了吧。"
 
 # game/murdochroute4.rpy:4834
 translate Tchinese failuremerge_9c02709f:
 
     # ra "\"He’d rather chase the past than be in the present.\""
-    ra ""
+    ra "他寧願追逐過去，也不願活在當下。"
 
 # game/murdochroute4.rpy:4836
 translate Tchinese failuremerge_65a7576a:
 
     # ra "\"You might see him again one day.\""
-    ra ""
+    ra "有朝一日，你可能會再見到他。"
 
 # game/murdochroute4.rpy:4837
 translate Tchinese failuremerge_aa439ab7:
 
     # ra "\"But you’ll just remember how things can never be the same.\""
-    ra ""
+    ra "但你只會記得：事情再也回不到從前。"
 
 # game/murdochroute4.rpy:4838
 translate Tchinese failuremerge_b9c04d9f:
 
     # m "\"But what does that have to do with where he is?\""
-    m ""
+    m "這跟他在哪又有什麼關係？"
 
 # game/murdochroute4.rpy:4839
 translate Tchinese failuremerge_943bfb81:
 
     # ra "\"Because he’s not with you.\""
-    ra ""
+    ra "因為他沒跟你在一起。"
 
 # game/murdochroute4.rpy:4841
 translate Tchinese failuremerge_b84cdbaa:
 
     # ra "\"Accept that point.\""
-    ra ""
+    ra "接受這件事實吧。"
 
 # game/murdochroute4.rpy:4842
 translate Tchinese failuremerge_e68b6fad:
 
     # m "\"That doesn’t make any damn sense.\""
-    m ""
+    m "聽不懂你到底想表達什麼。"
 
 # game/murdochroute4.rpy:4844
 translate Tchinese failuremerge_7e53a65a:
 
     # ra "\"Welcome to people.\""
-    ra ""
+    ra "歡迎加入人群。"
 
 # game/murdochroute4.rpy:4845
 translate Tchinese failuremerge_3999cfb8:
 
     # ra "\"You must be new.\""
-    ra ""
+    ra "你一定是新來的吧。"
 
 # game/murdochroute4.rpy:4847
 translate Tchinese failuremerge_6b3e0ac3:
 
     # "We don’t talk for the rest of the train ride."
-    ""
+    "接下來的車程，我們沒再談話。"
 
 # game/murdochroute4.rpy:4849
 translate Tchinese failuremerge_3e40ea97:
 
     # "That's the last time I see Ralph Walker, who elects to stay on the train."
-    ""
+    "那是我最後一次見到Ralph Walker，他決定繼續搭乘火車。"
 
 # game/murdochroute4.rpy:4851
 translate Tchinese failuremerge_128c6b5e:
 
     # "He says he isn’t stopping until he reaches the sea."
-    ""
+    "說是要一路坐到海邊為止。"
 
 # game/murdochroute4.rpy:4853
 translate Tchinese failuremerge_b8b0b598:
 
     # "When we arrive in Payton, I don’t see Murdoch get off the train."
-    ""
+    "抵達沛頓時，我沒看到Murdoch下車。"
 
 # game/murdochroute4.rpy:4854
 translate Tchinese failuremerge_4b8a3a78:
 
     # "Just another flash of red fur from one of the windows that must be Holly’s as the train continues into the east."
-    ""
+    "火車繼續向東行駛，只見一扇窗戶閃過一抹紅毛，估計是Holly的。"
 
 # game/murdochroute4.rpy:4856
 translate Tchinese failuremerge_b297ee21:
 
     # "Cynthia’s rendezvous in Payton is a little bed and breakfast."
-    ""
+    "Cynthia在沛頓的會合點，是一家小民宿。"
 
 # game/murdochroute4.rpy:4857
 translate Tchinese failuremerge_63d93160:
 
     # "Scarlet shows up with a sizable chunk of money to put her, me, and a few of the other Hip girls up for a while."
-    ""
+    "Scarlet帶著一大筆錢現身，讓我、她和幾個Hip的女孩暫時住下。"
 
 # game/murdochroute4.rpy:4858
 translate Tchinese failuremerge_33b72a6c:
 
     # "News of what has happened in Echo is spreading across the nation."
-    ""
+    "回音鎮事件的消息傳遍全國。"
 
 # game/murdochroute4.rpy:4859
 translate Tchinese failuremerge_6f6eb664:
 
     # "There are a few interviews from Mayor Testerman in the local paper announcing his resignation, as little there is left to govern."
-    ""
+    "地方報紙有幾篇Testerman市長的訪談，宣布他已辭職，畢竟也沒什麼好治理的了。"
 
 # game/murdochroute4.rpy:4860
 translate Tchinese failuremerge_9b21a43a:
 
     # "A long list of missing people runs through the paper."
-    ""
+    "報紙上列出很長的失蹤人口名單。"
 
 # game/murdochroute4.rpy:4861
 translate Tchinese failuremerge_ca940ba8:
 
     # "Some of the more notable names include James Hendricks and William Adler."
-    ""
+    "較著名的有James Hendricks和William Adler。"
 
 # game/murdochroute4.rpy:4862
 translate Tchinese failuremerge_0bd867d6:
 
     # "Murdoch Byrnes isn’t mentioned, though the paper does state there are likely unaccounted-for persons."
-    ""
+    "Murdoch Byrnes沒有被提到，不過報紙寫說有些人可能並未記載。"
 
 # game/murdochroute4.rpy:4868
 translate Tchinese failuremerge_d4193009:
 
     # "After relying on Scarlet’s hospitality for a while, I decided to take the train back to Echo."
-    ""
+    "依靠Scarlet的招待一段時間後，我決定坐火車回到回音鎮。"
 
 # game/murdochroute4.rpy:4870
 translate Tchinese failuremerge_97297e8f:
 
     # "When I arrived, I wasn’t too shocked to see how little had been repaired or cleaned up."
-    ""
+    "眼見幾乎沒怎麼修復或清理，我也並不太驚訝。"
 
 # game/murdochroute4.rpy:4871
 translate Tchinese failuremerge_eab36ee1:
 
     # "It was almost like all of the lifeblood had drained from it and spilled into Payton."
-    ""
+    "彷彿這裡的所有活力都被抽走，流向沛頓。"
 
 # game/murdochroute4.rpy:4872
 translate Tchinese failuremerge_71c8602a:
 
     # "Everything was familiar, but unfamiliar."
-    ""
+    "一切既熟悉，而又不熟悉。"
 
 # game/murdochroute4.rpy:4873
 translate Tchinese failuremerge_f6dd5fe9:
 
     # "Porches where people drank and hollered were crusted with black dust."
-    ""
+    "人們曾飲酒喧嘩的門廊鋪滿黑塵。"
 
 # game/murdochroute4.rpy:4874
 translate Tchinese failuremerge_7d7e1264:
 
     # "Roads where traffic ran heavy had only tracks."
-    ""
+    "曾經車水馬龍的路獨留車轍。"
 
 # game/murdochroute4.rpy:4875
 translate Tchinese failuremerge_ddbae2ff:
 
     # "The place was a shell of itself."
-    ""
+    "這地方成了空殼。"
 
 # game/murdochroute4.rpy:4876
 translate Tchinese failuremerge_a731d71d:
 
     # "The tent city was still here though."
-    ""
+    "不過帳篷區還在。"
 
 # game/murdochroute4.rpy:4877
 translate Tchinese failuremerge_78a30ff2:
 
     # "People were still living here."
-    ""
+    "還有人住在這裡。"
 
 # game/murdochroute4.rpy:4878
 translate Tchinese failuremerge_723542cd:
 
     # "The ones who couldn’t get out, or didn’t want to leave."
-    ""
+    "那些出不去或不想離開的人。"
 
 # game/murdochroute4.rpy:4879
 translate Tchinese failuremerge_3b2919f4:
 
     # "Life recovered partially."
-    ""
+    "部分生機恢復了。"
 
 # game/murdochroute4.rpy:4881
 translate Tchinese failuremerge_a650f1fd:
 
     # "The Stag didn’t get hit by the fire, but it was on its last legs."
-    ""
+    "Stag沒被火燒到，但已搖搖欲墜。"
 
 # game/murdochroute4.rpy:4883
 translate Tchinese failuremerge_e3afb8e1:
 
     # "I sat there on weekends, waiting for a guitar pluck or a gentle tap on my shoulder, but it never came."
-    ""
+    "我會在週末坐著，等待某個人彈奏吉他或拍我肩膀，但一直等不到。"
 
 # game/murdochroute4.rpy:4885
 translate Tchinese failuremerge_3dd77e3b:
 
     # "At times the pit in my stomach turned to bitter acid."
-    ""
+    "有時，胃裡的空洞化為苦酸。"
 
 # game/murdochroute4.rpy:4887
 translate Tchinese failuremerge_bc726b65:
 
     # "Where had he gone?"
-    ""
+    "他去哪了？"
 
 # game/murdochroute4.rpy:4889
 translate Tchinese failuremerge_a9cef83b:
 
     # "Had something happened to him, or did he trick me?"
-    ""
+    "是出事了，還是他騙了我？"
 
 # game/murdochroute4.rpy:4891
 translate Tchinese failuremerge_e091705d:
 
     # "How can somebody say that they care about you more than anything one day, then disappear altogether the next?"
-    ""
+    "怎麼有人會說了自己比什麼都在乎你，隔天卻人間蒸發？"
 
 # game/murdochroute4.rpy:4893
 translate Tchinese failuremerge_12a55d24:
 
     # "As if nothing happened?"
-    ""
+    "像是什麼都沒發生過？"
 
 # game/murdochroute4.rpy:4895
 translate Tchinese failuremerge_7bf43377:
 
     # "As if we hadn’t happened."
-    ""
+    "像是我們什麼都沒發生過。"
 
 # game/murdochroute4.rpy:4897
 translate Tchinese failuremerge_b1c74f38:
 
     # "But it did happen."
-    ""
+    "但確實發生了。"
 
 # game/murdochroute4.rpy:4899
 translate Tchinese failuremerge_f114d630:
 
     # "I remember it like it was yesterday."
-    ""
+    "我歷歷在目。"
 
 # game/murdochroute4.rpy:4901
 translate Tchinese failuremerge_7cca650e:
 
     # "Sometimes it felt like he was still right there with me, telling me his worries or brushing his muzzle against me."
-    ""
+    "有時，我感覺他還在我身邊，談著他的煩惱，或用吻部蹭我。"
 
 # game/murdochroute4.rpy:4903
 translate Tchinese failuremerge_a1ce0de2:
 
     # "The more time passed, the more it felt like time wasn’t real."
-    ""
+    "時間過得越久，越覺得時間不真實。"
 
 # game/murdochroute4.rpy:4905
 translate Tchinese failuremerge_44b07208:
 
     # "Each day I felt more like I was there with him, in that summer."
-    ""
+    "每天，我都更加覺得自己還在他身邊，身處那盛夏。"
 
 # game/murdochroute4.rpy:4907
 translate Tchinese failuremerge_692515e4:
 
     # "I walked by his house on occasion."
-    ""
+    "我偶爾會路過他家。"
 
 # game/murdochroute4.rpy:4909
 translate Tchinese failuremerge_024310eb:
 
     # "Somebody still lived there, but I never saw them come out."
-    ""
+    "還有人住著，但從不見有人出來。"
 
 # game/murdochroute4.rpy:4911
 translate Tchinese failuremerge_bd81de91:
 
     # "I learned it was his mother, after she had sold the house."
-    ""
+    "後來在他母親賣掉房子之後，我才知道是她。"
 
 # game/murdochroute4.rpy:4913
 translate Tchinese failuremerge_65e569ff:
 
     # "When she left, the school closed."
-    ""
+    "她離開後，學校就關了。"
 
 # game/murdochroute4.rpy:4915
 translate Tchinese failuremerge_e899772c:
 
     # "After it was abandoned, I broke in."
-    ""
+    "學校廢棄後，我闖了進去。"
 
 # game/murdochroute4.rpy:4917
 translate Tchinese failuremerge_5ba05212:
 
     # "The walls were painted slightly different, but it was the same place."
-    ""
+    "牆壁漆得稍微不一樣，但還是同一個地方。"
 
 # game/murdochroute4.rpy:4919
 translate Tchinese failuremerge_ef167f80:
 
     # "It had the same photos."
-    ""
+    "有同樣的照片、"
 
 # game/murdochroute4.rpy:4921
 translate Tchinese failuremerge_19560eca:
 
     # "The same trophies."
-    ""
+    "同樣的獎盃、"
 
 # game/murdochroute4.rpy:4923
 translate Tchinese failuremerge_dd6f0bdc:
 
     # "The same musty smells."
-    ""
+    "同樣的霉味。"
 
 # game/murdochroute4.rpy:4925
 translate Tchinese failuremerge_7b7a2d84:
 
     # "I knew he wasn’t here, but this was the last place I had seen him."
-    ""
+    "我知道他不在這裡，但這裡就是我最後一次見到他的地方。"
 
 # game/murdochroute4.rpy:4927
 translate Tchinese failuremerge_e75b34d5:
 
     # "I needed a hint."
-    ""
+    "我需要提示。"
 
 # game/murdochroute4.rpy:4929
 translate Tchinese failuremerge_cfa93b86:
 
     # "He was always sharing hints he found with me, wasn’t he?"
-    ""
+    "他總會與我分享他找到的提示，不是嗎？"
 
 # game/murdochroute4.rpy:4931
 translate Tchinese failuremerge_ddfeadbd:
 
     # "But it was just another sterile building."
-    ""
+    "但這只不過是另一棟空蕩的建築。"
 
 # game/murdochroute4.rpy:4933
 translate Tchinese failuremerge_8edca564:
 
     # "I checked the auditorium."
-    ""
+    "我檢查了禮堂、"
 
 # game/murdochroute4.rpy:4935
 translate Tchinese failuremerge_fc8319d8:
 
     # "The classrooms."
-    ""
+    "教室、"
 
 # game/murdochroute4.rpy:4937
 translate Tchinese failuremerge_14954165:
 
     # "The offices."
-    ""
+    "辦公室。"
 
 # game/murdochroute4.rpy:4939
 translate Tchinese failuremerge_8fe6f8d1:
 
     # "There was no trace left of Murdoch Byrnes, or his sisters."
-    ""
+    "沒有任何Murdoch Byrnes或他姐妹的蹤跡。"
 
 # game/murdochroute4.rpy:4941
 translate Tchinese failuremerge_de7eb4cc:
 
     # "The observatory had long been relocated."
-    ""
+    "天文台早就被搬走了。"
 
 # game/murdochroute4.rpy:4943
 translate Tchinese failuremerge_0a5ea803:
 
     # "The last place I needed to check was the basement."
-    ""
+    "最後要檢查的地方是地下室。"
 
 # game/murdochroute4.rpy:4945
 translate Tchinese failuremerge_45900144:
 
     # "The door was locked, but I wasn’t going to let that stop me."
-    ""
+    "門鎖著，但我可不會打退堂鼓。"
 
 # game/murdochroute4.rpy:4948
 translate Tchinese failuremerge_991f0d44:
 
     # "I was still strong enough to break it, even though I was long past my prime, and my joints were starting to hurt."
-    ""
+    "我還是壯到能把門撞開——哪怕早已過了巔峰時期，關節都發疼了。"
 
 # game/murdochroute4.rpy:4951
 translate Tchinese failuremerge_357ede2f:
 
     # "The basement had only gotten worse."
-    ""
+    "地下室變得更糟了。"
 
 # game/murdochroute4.rpy:4952
 translate Tchinese failuremerge_f5b71d15:
 
     # "More dusty."
-    ""
+    "更多塵埃。"
 
 # game/murdochroute4.rpy:4953
 translate Tchinese failuremerge_6e272015:
 
     # "But it felt the same."
-    ""
+    "但感覺還是一樣。"
 
 # game/murdochroute4.rpy:4954
 translate Tchinese failuremerge_b76f98a4:
 
     # "Everything was left as we put it."
-    ""
+    "一切都與當時無異。"
 
 # game/murdochroute4.rpy:4955
 translate Tchinese failuremerge_05297cd5:
 
     # "Even the cellar door was left exposed."
-    ""
+    "連地窖門都還敞開著。"
 
 # game/murdochroute4.rpy:4956
 translate Tchinese failuremerge_edc48353:
 
     # "Except that the locks were open."
-    ""
+    "只差在，鎖已經開了。"
 
 translate Tchinese strings:
 
     # game/murdochroute4.rpy:4236
     old "Ask Murdoch."
-    new ""
+    new "詢問Murdoch。"
 
     # game/murdochroute4.rpy:4264
     old "Give Up."
-    new ""
+    new "放棄。"
