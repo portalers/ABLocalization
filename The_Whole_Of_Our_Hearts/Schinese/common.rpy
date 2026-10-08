@@ -1363,3 +1363,59 @@ translate Schinese strings:
     old "Retry"
     new ""
 
+# TODO: Translation updated at 2026-10-08 14:05
+
+translate Schinese strings:
+
+    # renpy/common/000statements.rpy:28
+    old "Click to play the video."
+    new ""
+
+    # renpy/common/00accessibility.rpy:137
+    old "Self-voicing support is limited when using a touch screen."
+    new ""
+
+    # renpy/common/00accessibility.rpy:180
+    old "Mono Audio"
+    new ""
+
+    # renpy/common/00accessibility.rpy:246
+    old "Kerning"
+    new ""
+
+    # renpy/common/00accessibility.rpy:288
+    old "Self-Voicing and Audio"
+    new ""
+
+    # renpy/common/00accessibility.rpy:292
+    old "Text"
+    new ""
+
+    # renpy/common/00preferences.rpy:602
+    old "mono audio"
+    new ""
+
+    # renpy/common/00preferences.rpy:611
+    old "font kerning"
+    new ""
+
+    # renpy/common/00translation.rpy:63
+    old "Translation identifier: [identifier]"
+    new ""
+
+    # renpy/common/00translation.rpy:84
+    old " translates [tl.filename]:[tl.linenumber]"
+    new ""
+
+    # renpy/common/00translation.rpy:101
+    old "\n{color=#fff}Copied to clipboard.{/color}"
+    new ""
+
+    # renpy/common/00updater.rpy:1935
+    old "An error has occurred:"
+    new ""
+
+    # renpy/common/00updater.rpy:1992
+    old "An error occurred when trying to download game data:"
+    new ""
+
