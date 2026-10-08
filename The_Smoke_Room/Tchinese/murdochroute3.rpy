@@ -17882,7 +17882,7 @@ translate Tchinese murdochroute3b_5d121054:
 translate Tchinese murdochroute3b_65abdad3:
 
     # "{font=font/forbid.ttf}{i}Don’t wake those who sleep, child.{/i}{font}"
-    "{font=font/forbid.ttf}{i}可別吵醒了那些沉睡者，孩子。{/i}{font}"
+    "{font=fonts/forbid.ttf}{i}可別吵醒了那些沉睡者，孩子。{/i}{font}"
 
 # game/murdochroute3.rpy:5635
 translate Tchinese murdochroute3b_183d06ca:
@@ -17906,7 +17906,7 @@ translate Tchinese murdochroute3b_0f97ac77:
 translate Tchinese murdochroute3b_28a4fc0b:
 
     # "{font=font/forbid.ttf}{i}Noisome people oft have noisome ends.{/i}{font}"
-    "{font=font/forbid.ttf}{i}令人生厭之人，將落得令人生厭之下場。{/i}{font}"
+    "{font=fonts/forbid.ttf}{i}令人生厭之人，將落得令人生厭之下場。{/i}{font}"
 
 # game/murdochroute3.rpy:5644
 translate Tchinese murdochroute3b_f0f1515d:

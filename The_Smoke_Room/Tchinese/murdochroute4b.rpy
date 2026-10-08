@@ -7121,6 +7121,45 @@ translate Tchinese medicine5_4fee121e:
 
     # "Shit, there’s something missing."
     "操，還少了什麼。"
+    label medicinemissing_tw:
+    $ missingreagent = renpy.input("What am I missing?", exclude="0123456789", length=30)
+    $ missingreagent = missingreagent.lower()
+    $ attemptcount += 1
+    if missingreagent == "奶薊" or missingreagent == "milk thistle" or missingreagent == "milkthistle":
+        $ medicineprogress += 1
+        "是奶薊！"
+        "我的天啊。"
+        "好了..."
+        jump medicinedone
+    elif missingreagent == "薊":
+        "Ralph{b}提過{/b}薊什麼的。"
+        "我快速掃視貨架，尋找{b}T{/b}開頭的標籤。"
+        "沒有寫著{b}薊{/b}的。"
+        "操。"
+        if attemptcount < 3:
+            jump medicinemissing_tw
+        else:
+            jump medicinetimeout       
+    elif missingreagent == "奶":
+        "Ralph好像提到了{b}奶{/b}。"
+        "但肯定{b}不對{/b}。"
+        if attemptcount < 3:
+            jump medicinemissing_tw
+        else:
+            jump medicinetimeout
+
+    else:
+        "不，肯定不對。"
+        if attemptcount < 3:
+            menu:
+                "I am I really missing something?"
+
+                "Yes.":
+                    jump medicinemissing_tw
+                "No.":
+                    jump medicinedone
+        else:
+            jump medicinetimeout
 
 # game/murdochroute4b.rpy:2736
 translate Tchinese medicinemissing_c23257e8:
@@ -7942,7 +7981,7 @@ translate Tchinese medicinedone_b5507aa1:
 translate Tchinese medicinedone_b21ddd59:
 
     # "This isn’t my fault."
-    這不是我的錯。""
+    "這不是我的錯。"
 
 # game/murdochroute4b.rpy:3025
 translate Tchinese medicinedone_e31d82db:

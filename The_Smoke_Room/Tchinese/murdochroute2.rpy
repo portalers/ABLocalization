@@ -19285,7 +19285,7 @@ translate Tchinese murdochroute2_7fc9dc79:
 translate Tchinese murdochroute2_7f48b182:
 
     # "Mouse" "\"Is there something the matter back there?\""
-    "Mouse" "你們有什麼問題嗎？"
+    "老鼠" "你們有什麼問題嗎？"
 
 # game/murdochroute2.rpy:5442
 translate Tchinese murdochroute2_cffa7650:
@@ -19321,7 +19321,7 @@ translate Tchinese murdochroute2_1aa6d8ea:
 translate Tchinese murdochroute2_0e9de456:
 
     # "Mouse" "\"Do not hesitate to call for assistance.\""
-    "Mouse" "有要幫忙的儘管開口。"
+    "老鼠" "有要幫忙的儘管開口。"
 
 # game/murdochroute2.rpy:5450
 translate Tchinese murdochroute2_68392c2d:
@@ -19789,7 +19789,7 @@ translate Tchinese muc0_68ef86c5:
 translate Tchinese muc0_886ae065:
 
     # "Mouse" "\"Can I offer any assistance?\""
-    "Mouse" "需要幫忙嗎？"
+    "老鼠" "需要幫忙嗎？"
 
 # game/murdochroute2.rpy:5616
 translate Tchinese muc0_84d12468:

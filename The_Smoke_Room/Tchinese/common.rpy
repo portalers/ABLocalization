@@ -632,7 +632,7 @@ translate Tchinese strings:
 
     # renpy/common/00library.rpy:316
     old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
-    new "本遊戲由{a=https://weibo.com/u/7429628292}北極光漢化組{/a}完成當地語系化工作，如需訪問漢化組微博，請點擊{a=https://weibo.com/u/7429628292}此處{/a}。\n\n\n本套裝程式含了由數個許可證授權的免費軟體，包括 MIT 許可證和 GNU 寬鬆通用公共許可證。完整軟體清單及原始程式碼連結，請{a=https://www.renpy.org/l/license}訪問此處{/a}。"
+    new "本遊戲由{a=https://weibo.com/u/7429628292}北極光漢化組{/a}完成當地語系化工作，如需訪問漢化組搭建的wiki百科，請{a=https://wiki.ablocalization.ltd}訪問此處{/a}。\n\n本套裝程式含了由數個許可證授權的免費軟體，包括 MIT 許可證和 GNU 寬鬆通用公共許可證。完整軟體清單及原始程式碼連結，請{a=https://www.renpy.org/l/license}訪問此處{/a}。"
 
     # renpy/common/00preferences.rpy:259
     old "display"

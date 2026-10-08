@@ -15,7 +15,7 @@ translate Tchinese strings:
     old "He’s the last one to approach."
     new "就差他了。"
 
-    old "Let's talk to the bride now."
+    old "Let’s talk to the bride now."
     new "現在去找新娘聊聊吧。"
 
     old "coin"
