@@ -6827,3 +6827,35 @@ translate Schinese commonroute_76509049:
     # "Murdoch looks away, appearing not to listen, and busies himself with his camera. He takes a snapshot of a few of the gathered crowds."
     "Murdoch移开了视线，似乎不打算听。他正忙活着自己的相机，并为聚集的人群拍了张快照。"
 
+# TODO: Translation updated at 2025-07-04 19:49
+
+# game/commonroute.rpy:751
+translate Schinese commonroute_9c45b431:
+
+    # cy "\"Madam wants you to do a few errands today, considering you’ve been idle. Could be helpful for you to be out and about for a spell.\""
+    cy "“夫人看你最近一直闲着，给你安排了些差事。多到外面走走吧，有助于身体康复。”"
+
+# game/commonroute.rpy:817
+translate Schinese commonroute_d0f1a9e3:
+
+    # "Some of the more expensive ones closer to the bar are electric, which Madam says is safer near the alcohol."
+    "昂贵得多的电灯则紧挨着吧台，夫人说酒精旁会比较安全。"
+
+# game/commonroute.rpy:825
+translate Schinese commonroute_42c108a1:
+
+    # "Madam has me run errands for board..."
+    "夫人让我跑腿..."
+
+# game/commonroute.rpy:1198
+translate Schinese commonroute_c7b96979:
+
+    # "I can read the familiar twinge of anger on his face when he stares at me, but I can sense a harsh protectiveness there, too... similar to Madam."
+    "他盯着我的时候，我能读到他脸上那隐忍的愤怒，但我同样从中感觉到一种严厉的保护...类似于夫人。"
+
+# game/commonroute.rpy:1444
+translate Schinese commonroute_84b00fbd:
+
+    # "Madam places her chin on her wrist as she stares into William's eyes, dark and sparkling in the candlelight."
+    "夫人用手腕托着下巴，凝视着William那双在烛光中闪烁的眼眸。"
+

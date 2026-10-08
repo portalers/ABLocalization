@@ -7070,3 +7070,41 @@ translate Schinese nikroute_c746244f:
     # "An old looking polecat sees us and gives us an apprehensive look, and starts speaking in a language I don’t understand."
     "一只长相老成的艾鼬看到了我们，投来怀疑的眼神，还说着陌生的语言。"
 
+# TODO: Translation updated at 2025-07-04 19:49
+
+# game/nikroute.rpy:847
+translate Schinese nikroute_59188e9f:
+
+    # m "\"Eh, think so. Memory's fuzzy, having my brains shook up like that.\""
+    m "“呃，大概吧。伤到头让我的记忆有点儿模糊。”"
+
+# game/nikroute.rpy:1025
+translate Schinese nikroute_e011b163:
+
+    # "I should read the Bible for now."
+    "我该去读圣经了。"
+
+# game/nikroute.rpy:1028
+translate Schinese nikroute_02a09d67:
+
+    # "I open the little wooden compartment on my vanity, seeing the worn, leather spine of the Bible that was there when I first started working here."
+    "我打开梳妆台上的小木盒子，看到了那本自打我在这儿工作来就一直陪伴着我的，破旧、皮制书脊的圣经。"
+
+# game/nikroute.rpy:1044
+translate Schinese nikroute_2433cf87:
+
+    # "I quickly snap shut the chest, hiding the Bible from sight, saying a quick \"sorry\" to God for cursing in front of the holy book."
+    "我迅速关上盒子，将圣经藏在里面，并为在它面前讲脏话而向上帝简单说了句“对不起”。"
+
+# game/nikroute.rpy:1151
+translate Schinese nikroute_aeb87dc1:
+
+    # cl "\"Indeed, you said almost as many words to me in the past five minutes as you have the past few days. I look forward to our appointment!\""
+    cl "“确实，你在过去五分钟里对我说的话几乎赶上好几天的了。我很期待我们的约会！”"
+
+# game/nikroute.rpy:1452
+translate Schinese nikroute_0a4e54a9:
+
+    # "An old-looking polecat sees us and gives us an apprehensive look, and starts speaking in a language I don’t understand."
+    "一只长相老成的艾鼬看到了我们，投来怀疑的眼神，还说着陌生的语言。"
+

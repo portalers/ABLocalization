@@ -39055,7 +39055,7 @@ translate Schinese sny5_80eaf9f6:
 translate Schinese sny5_9041ea77:
 
     # fe "\"How can I share my burdens with you when I know you’re keeping secrets from me?\""
-    fe "“知道你们有秘密瞒着我，我还怎么能跟你们同舟共济？”"
+    fe "“明知你们对我有所隐瞒，我又怎么能跟你们患难与共？”"
 
 # game/nikroute3.rpy:12453
 translate Schinese sny5_e69dd345:
@@ -40191,7 +40191,7 @@ translate Schinese nikroute3d1_79cf6714:
 translate Schinese nikroute3d1_396ace62:
 
     # wi "\"He ain’t clergy, if that’s what you’re askin’.\""
-    wi "“他可不是牧师，如果你是在问的话。”"
+    wi "“他可不是神父，如果你是在问的话。”"
 
 # game/nikroute3.rpy:12769
 translate Schinese nikroute3d1_72dd4bf8:
@@ -48448,4 +48448,668 @@ translate Schinese nikroute3d2_4d7f4c19:
 
     # wi "\"What’s unnecessary is an occupation-- especially in response to civilian concern of criminal allegations.\""
     wi "“驻扎才是没有必要，这只是一场民事指控。”"
+
+# TODO: Translation updated at 2025-07-04 19:49
+
+# game/nikroute3.rpy:112
+translate Schinese nikroute3_5e8ef183:
+
+    # ya "\"I have never had a problem checking on this space until tonight.\""
+    ya "“我从未在那地方遇到过麻烦，直到今晚。”"
+
+# game/nikroute3.rpy:218
+translate Schinese nikroute3_1936b2ca:
+
+    # m "\"Ain’t a snowball’s chance in Hell that thing was a person.\""
+    m "“那东西压根儿不可能是人。”"
+
+# game/nikroute3.rpy:308
+translate Schinese nikroute3_6540d5fa:
+
+    # pa "\"The Hell you been?\""
+    pa "“你跑哪儿去了？”"
+
+# game/nikroute3.rpy:433
+translate Schinese nikroute3_82a9d491:
+
+    # pa "\"They sicced the National Guard on their asses.\""
+    pa "“他们可是派出了国民警卫队啊。”"
+
+# game/nikroute3.rpy:445
+translate Schinese nikroute3_89be12b7:
+
+    # pa "\"They end up sending the National Guard for us and we’re finished.\""
+    pa "“一但他们出兵，咱们就全完了。”"
+
+# game/nikroute3.rpy:878
+translate Schinese nikroute3_6bef2e17:
+
+    # "It’s not the most crowded in the middle of the week, but the Hip always has a crowd."
+    "虽然是工作日，但Hip永远不乏客人光临。"
+
+# game/nikroute3.rpy:1064
+translate Schinese nikroute3_d46b9ae8:
+
+    # m "\"To drag me down to Hell where I belong.\""
+    m "“这是我罪有应得。”"
+
+# game/nikroute3.rpy:1465
+translate Schinese sny2_3895b84d:
+
+    # "There’s ladies in Sunday dresses and men in top hats wandering about."
+    "女士们身着洋装，男士们顶着高筒礼帽。"
+
+# game/nikroute3.rpy:1466
+translate Schinese sny2_d7f9a8a6:
+
+    # m "\"The Hell?\""
+    m "“什么鬼？”"
+
+# game/nikroute3.rpy:1483
+translate Schinese sny2_d7f9a8a6_1:
+
+    # m "\"The Hell?\""
+    m "“你睡迷糊了吧？”"
+
+# game/nikroute3.rpy:1687
+translate Schinese sny2_23a71bd2:
+
+    # jam "\"Naw don’t just stand there jabberjawed!\""
+    jam "“别在那里耍嘴皮子了！”"
+
+# game/nikroute3.rpy:1833
+translate Schinese sny2_44b54934:
+
+    # md "\"And Lord knows she could use more people to talk to.\""
+    md "“而且她很缺聊天对象的。”"
+
+# game/nikroute3.rpy:2122
+translate Schinese sny3_8cf5fe12:
+
+    # co "\"The popular opinion in town is that this is the natives’ fault.\""
+    co "“镇上的居民普遍认为，这些都是原住民引发的。”"
+
+# game/nikroute3.rpy:2246
+translate Schinese sny3_80edab47:
+
+    # co "\"It’s a card game developed during the Renaissance meant to reveal the truth of the world to the viewer through their own understandings.\""
+    co "“这种卡牌游戏起源于文艺复兴时期，意在通过占卜者自己的理解，揭示世界的真相。”"
+
+# game/nikroute3.rpy:2694
+translate Schinese sny3_ea5e8f72:
+
+    # co "\"We haven’t bothered to replace it yet because we aren’t down here enough to be fussed with it.\""
+    co "“我们不常下来，也就不急着换掉。”"
+
+# game/nikroute3.rpy:2882
+translate Schinese nikroute3a_fa1704dc:
+
+    # co "\"I’m loath to say it, gentlemen, but I don’t know which products are safe to use at the moment.\""
+    co "“虽然很遗憾，但今天恐怕没有办法请二位吃冰淇淋了。”"
+
+# game/nikroute3.rpy:4598
+translate Schinese nikroute3a_8701ccea:
+
+    # m "\"...What the Hell is going on here?\""
+    m "“...这是在干嘛？”"
+
+# game/nikroute3.rpy:4625
+translate Schinese nikroute3a_ebc2fbf8:
+
+    # m "\"How the Hell are you supposed to build muscle like that?\""
+    m "“这能练肌肉吗？”"
+
+# game/nikroute3.rpy:4680
+translate Schinese nikroute3a_63efe2e0:
+
+    # "The German Shepherd nods his head, backing away from one bar while the polar bear groans and stretches, hopping away."
+    "德国牧羊犬点头退场，北极熊则呻吟着舒展身体，跳步离开。"
+
+# game/nikroute3.rpy:4948
+translate Schinese nikroute3a_c746330d:
+
+    # m "\"The Hell!?\""
+    m "“搞什么？！”"
+
+# game/nikroute3.rpy:5002
+translate Schinese nikroute3a_6e1e728d:
+
+    # "What the Hell does he know about my faith, exactly?"
+    "这跟我的信仰有个毛关系？"
+
+# game/nikroute3.rpy:5277
+translate Schinese nikroute3a_dde2ad26:
+
+    # m "\"Do we look like fellas who can afford a fancy watch?\""
+    m "“我们看起来像买得起高级手表的人吗？”"
+
+# game/nikroute3.rpy:5545
+translate Schinese nikroute3a_8451f6cd:
+
+    # pa "\"It’s seven-thirty PM.\""
+    pa "“晚上七点半。”"
+
+# game/nikroute3.rpy:5629
+translate Schinese nikroute3a_2168ddc6:
+
+    # "He chuckles, and then{nw}"
+    "他呵呵笑了几声，然后{nw}"
+
+# game/nikroute3.rpy:5631
+translate Schinese nikroute3a_96e0f05c:
+
+    # extend " frowns."
+    extend "皱起眉头。"
+
+# game/nikroute3.rpy:6053
+translate Schinese nikroute3a_0cfddf9a:
+
+    # "The stories, as terse as they were, still leave us tense."
+    "这些故事仍然让我们坐立难安。"
+
+# game/nikroute3.rpy:6159
+translate Schinese nikroute3a_b511fba2:
+
+    # "Then I hear the screen door and the wooden door creak as he starts to shuffle through the knobs of his locker."
+    "纱门跟木门磨轧的声音传来，他也开始转动储物柜的锁。"
+
+# game/nikroute3.rpy:6165
+translate Schinese nikroute3a_63d8d9c3:
+
+    # "It’s a Hell of a lot prettier than the flat, muggy swamp I crawled out of."
+    "这里比我拼了命爬出来的烂泥沼漂亮千百倍。"
+
+# game/nikroute3.rpy:6215
+translate Schinese nikroute3a_9f7a0176:
+
+    # "???" "\"The Hell?\""
+    "？？？" "“搞什么？”"
+
+# game/nikroute3.rpy:6266
+translate Schinese nikroute3b_286fb2ed:
+
+    # ben "\"Took you by the hand and gave you a newcomer’s welcome and everything.\""
+    ben "“我亲切地，手把手地带你入行。”"
+
+# game/nikroute3.rpy:6355
+translate Schinese nikroute3b_8250c730:
+
+    # "I hardly ever see his face so that he keeps slipping my mind."
+    "我没见过他几面，自然也不怎么记得。"
+
+# game/nikroute3.rpy:6512
+translate Schinese nikroute3b_6d493248:
+
+    # m "\"His name’s Mr. Król.\""
+    m "“Krol先生。”"
+
+# game/nikroute3.rpy:6594
+translate Schinese nikroute3b_c85470f1:
+
+    # ni "\"Nicholas King is a direct translation of my birth name, from Lachian.\""
+    ni "“Nicholas King是我拉克希亚名的直译。”"
+
+# game/nikroute3.rpy:6803
+translate Schinese nikroute3b_48d24f60:
+
+    # br "\"So with that truth lying at my feet every day, do you really think I have the space in my head to give a damn about the life or death of a singular man based on his eccentric proclivities?\""
+    br "“所以，你难道真的认为每天都行走在这件事实中的我有那个闲心，去计较一个比较与众不同的男人的死活？"
+
+# game/nikroute3.rpy:6909
+translate Schinese nikroute3b_87fbb48c:
+
+    # bk "\"Now what the Hell do you want?\""
+    bk "“所以你究竟是来干嘛的？”"
+
+# game/nikroute3.rpy:6936
+translate Schinese nikroute3b_cf4b45ed:
+
+    # "There’s a picture of a big family group of Gilas."
+    "是张大家庭的合照。"
+
+# game/nikroute3.rpy:6938
+translate Schinese nikroute3b_73744972:
+
+    # "He’s touched on the shoulder by a much older looking lizard, who’s also touching a Gila who looks like a slightly younger Beckett."
+    "一只年龄稍大的蜥蜴把手搭在他的肩膀上，另一只手则搭在疑似年轻时候的Beckett的肩上。"
+
+# game/nikroute3.rpy:6967
+translate Schinese nikroute3b_645dd4b1:
+
+    # bk "\"That’s me, my late cousin Amos, and the good-for-nothing spawn from Hell who I used to call my twin brother.\""
+    bk "“这是我、我过世的表亲Amos，和与我断交的，曾是我孪生兄弟的恶魔。”"
+
+# game/nikroute3.rpy:7104
+translate Schinese nikroute3b_6c52c609:
+
+    # bk "\"It’s been a shitty day.\""
+    bk "“我那天心情不好。”"
+
+# game/nikroute3.rpy:7251
+translate Schinese nikroute3b_5f17ecfc:
+
+    # ni "\"The National Guard are on their way.\""
+    ni "“国民兵在路上了。”"
+
+# game/nikroute3.rpy:7634
+translate Schinese sny4_7361a614:
+
+    # ni "\"How could I not when you and Sam are the ones who have to put up with my snoring all these years?\""
+    ni "“不然你和Sam怎么能忍受我打这么多年鼾呢？”"
+
+# game/nikroute3.rpy:7807
+translate Schinese sny4_e05a358d:
+
+    # ni "\"A blast could cause a cave-in.\""
+    ni "“爆炸可能会引起塌方。”"
+
+# game/nikroute3.rpy:8039
+translate Schinese sny4_4e8edcc3:
+
+    # m "\"Briggs called the National Guard.\""
+    m "“Briggs把国民兵搬来了。”"
+
+# game/nikroute3.rpy:8040
+translate Schinese sny4_141d6260:
+
+    # ya "\"The National Guard?!\""
+    ya "“国民兵？！”"
+
+# game/nikroute3.rpy:8048
+translate Schinese sny4_87355464:
+
+    # ya "\"Against the Guard?\""
+    ya "“从国民兵手下？”"
+
+# game/nikroute3.rpy:8748
+translate Schinese sny4_e4412a36:
+
+    # "I think for a moment that another cave-in is about to happen."
+    "有一瞬间，我以为矿洞又要塌方了。"
+
+# game/nikroute3.rpy:8757
+translate Schinese sny4_73c503c1:
+
+    # "Something big and stone-colored dangles from the ceiling,{nw}"
+    "有个石头色的物体从顶部垂了下来，{nw}"
+
+# game/nikroute3.rpy:8952
+translate Schinese sny4_e4412a36_1:
+
+    # "I think for a moment that another cave-in is about to happen."
+    "有一瞬间，我以为矿洞又要塌方了。"
+
+# game/nikroute3.rpy:9078
+translate Schinese nikroute3c1_21988566:
+
+    # m "\"But where the Hell are we gonna go, Nik?\""
+    m "“可是该往哪走呢，Nik？”"
+
+# game/nikroute3.rpy:9181
+translate Schinese nikroute3c1_69161282:
+
+    # ya "\"I believe that the odd tunnel shapes in this mine do not come just from a desire to confuse us.\""
+    ya "“我认为这种奇怪的形状不是只为了迷惑我们。”"
+
+# game/nikroute3.rpy:9317
+translate Schinese nikroute3c1_a07215d2:
+
+    # ya talking "\"I vote to stay behind and use the tools to clear the cave-in.\""
+    ya talking "“我选择留下来，用工具挖开塌方的岩石。”"
+
+# game/nikroute3.rpy:9354
+translate Schinese caveinchoice_96bf41ca:
+
+    # ya "\"Very well, I will not drag my feet.\""
+    ya "“也罢，我不多言了。”"
+
+# game/nikroute3.rpy:9518
+translate Schinese caveinchoice_113ba1cc:
+
+    # "He says something harsh in Huaxian that neither me nor Nik understands."
+    "他用我跟Nik都听不懂的华夏语咒骂了几声。"
+
+# game/nikroute3.rpy:9791
+translate Schinese caveinchoice_9a32e2b7:
+
+    # ya talking "\"Surely if his tunnels were in use by him, he would check his secret places from time to time.\""
+    ya talking "“如果他有在用这条隧道，肯定会偶尔过来查看。”"
+
+# game/nikroute3.rpy:9866
+translate Schinese caveinchoice_2bc17bc4:
+
+    # "The Bible doesn’t mention ghosts."
+    "圣经上可没提到鬼。"
+
+# game/nikroute3.rpy:9953
+translate Schinese caveinchoice_9eebce13:
+
+    # no "\"Why should the stairs to the mouth of Hell be quick?\""
+    no_CN "“通往地狱之口的阶梯怎么会短呢？”"
+
+# game/nikroute3.rpy:10003
+translate Schinese caveinchoice_74d4658d:
+
+    # ya talking "\"There are signs of some volcanic activity in areas close to this one.\""
+    ya talking "“这附近有火山活动的迹象。”"
+
+# game/nikroute3.rpy:10025
+translate Schinese caveinchoice_20d956c4:
+
+    # m "\"Well, the Hendricks are weird, aren’t they?\""
+    m "“反正Hendricks家里的人都是怪胎不是吗？”"
+
+# game/nikroute3.rpy:10026
+translate Schinese caveinchoice_cd85439c:
+
+    # "I say that, ignoring the voice, the one implying to me that people are drawn here, that they crawl here on their bellies, hands first and alone, and make the journey directly into Hell."
+    "我无视跟我说话的那个声音说道，无视它所说的，人们是被吸引而来，在地上匍匐前进，独自一人径直爬入地狱。"
+
+# game/nikroute3.rpy:10030
+translate Schinese caveinchoice_e3bca431:
+
+    # ni "\"That honestly would not surprise me.\""
+    ni "“就算是真的我也不意外。”"
+
+# game/nikroute3.rpy:10064
+translate Schinese caveinchoice_74d04942:
+
+    # ni "\"It’s just a pathway, is it not?\""
+    ni "“再怎么样这也只是条路吧？”"
+
+# game/nikroute3.rpy:10080
+translate Schinese caveinchoice_6e281905:
+
+    # "I hear noises the likes of which I’ve never heard before."
+    "我还听见了从没听过的声音。"
+
+# game/nikroute3.rpy:10177
+translate Schinese caveinchoice_8f3832ce:
+
+    # "I don’t want to upset Yao, or slow Nik down any more than I already am because of the burden of the ore."
+    "我不想烦Yao，也不愿意拖Nik的后腿，毕竟他还背着那些矿。"
+
+# game/nikroute3.rpy:10186
+translate Schinese caveinchoice_4815f6d7:
+
+    # "If this were some kind of gateway to Hell..."
+    "如果这里就是通往地狱的大门..."
+
+# game/nikroute3.rpy:10495
+translate Schinese caveinchoice_c6663552:
+
+    # "The male voice says it’s not his fault."
+    "男人说这不是他的错。"
+
+# game/nikroute3.rpy:10499
+translate Schinese caveinchoice_a2a297c8:
+
+    # "Because I’m in Hell."
+    "因为我正身处地狱。"
+
+# game/nikroute3.rpy:10597
+translate Schinese caveinchoice_20d9bb27:
+
+    # m "\"I don’t sleepwalk.\""
+    m "“我从不梦游。”"
+
+# game/nikroute3.rpy:10862
+translate Schinese caveinchoice_80789f74:
+
+    # m "\"How the Hell we gonna get down that?\""
+    m "“这他妈要怎么下去？”"
+
+# game/nikroute3.rpy:10922
+translate Schinese caveinchoice_484d505e:
+
+    # m "\"What the Hell was that for?!\""
+    m "“你干嘛啊？！”"
+
+# game/nikroute3.rpy:10973
+translate Schinese caveinchoice_65a1fb09:
+
+    # ya "\"There are important decisions I have yet to make.\""
+    ya "“有很多重要的抉择等着我去做。”"
+
+# game/nikroute3.rpy:11121
+translate Schinese nikroute3c2_e4b518c7:
+
+    # m "\"Those stones he threw hurt like Hell.\""
+    m "“他扔的石头砸得我很疼。”"
+
+# game/nikroute3.rpy:11548
+translate Schinese sny5_e1cfef52:
+
+    # "What the Hell is that?"
+    "那是什么鬼？"
+
+# game/nikroute3.rpy:11738
+translate Schinese sny5_bc4cbe2d:
+
+    # nojack "\"C'est du gâteau, mon chéri.\""
+    no_CN "“{rb}C'est du gateau, mon cheri{/rb}{rt}小菜一碟，亲爱的{/rt}。”"
+
+# game/nikroute3.rpy:11817
+translate Schinese sny5_4f8365ab:
+
+    # "But I certainly can’t move around that much in this place."
+    "但我的确移动不了分毫。"
+
+# game/nikroute3.rpy:11884
+translate Schinese sny5_889b630e:
+
+    # m "\"The Hell is a seed?\""
+    m "“根源是什么鬼？”"
+
+# game/nikroute3.rpy:12334
+translate Schinese sny5_c6864be6:
+
+    # m "\"You sure that ain’t supposed to be Hell?\""
+    m "“这更像是地狱吧？”"
+
+# game/nikroute3.rpy:12354
+translate Schinese sny5_955de5df:
+
+    # m "\"That’s a Hell of a lot of an effort to make for somebody just because they sang to you.\""
+    m "“只因为一首歌？你太有奉献精神了吧。”"
+
+# game/nikroute3.rpy:12416
+translate Schinese sny5_1b6ebe3a:
+
+    # fe "\"Tú también fuiste responsable por eso.\""
+    fe "“{rb}Tu también fuiste responsable por eso{/rb}{rt}我知道那件事你脱不了干系{/rt}。”"
+
+# game/nikroute3.rpy:12459
+translate Schinese sny5_dd51fce6:
+
+    # "He must not be aware of anything that just happened."
+    "他一定没察觉现在上演的事。"
+
+# game/nikroute3.rpy:12602
+translate Schinese sny5_3c94eded:
+
+    # "But it sure is a Hell of a lot of silver."
+    "是白花花的银子。"
+
+# game/nikroute3.rpy:12675
+translate Schinese sny5_ea30f0e0:
+
+    # ya talking "\"If everything goes well, I will send you a telegraph.\""
+    ya talking "“如果一切顺利的话，我会给你们发电报。”"
+
+# game/nikroute3.rpy:12800
+translate Schinese nikroute3d1_dbc94b2c:
+
+    # ni "\"It’s the National Guard, Will.\""
+    ni "“因为国民兵啊，Will。”"
+
+# game/nikroute3.rpy:12837
+translate Schinese nikroute3d1_f420f330:
+
+    # wi "\"So what if the Guard is coming?\""
+    wi "“卫兵来了又怎么样？”"
+
+# game/nikroute3.rpy:12847
+translate Schinese nikroute3d1_4b4db516:
+
+    # "Especially if the tiger’s going to try something illegal with the Guard before he leaves."
+    "尤其是那只老虎可能会在离开前对卫兵做些见不得光的事。"
+
+# game/nikroute3.rpy:12906
+translate Schinese nikroute3d1_9cc34394:
+
+    # wi "\"Especially if the National Guard does start a disaster.\""
+    wi "“尤其是国民兵当真要闹事的话。”"
+
+# game/nikroute3.rpy:12928
+translate Schinese nikroute3d1_102d367f:
+
+    # ni "\"If the Guard is there, this is their opportunity to remove undesirables without claiming responsibility!\""
+    ni "“他们是想借卫兵之手排除异己。”"
+
+# game/nikroute3.rpy:12943
+translate Schinese nikroute3d1_7a9444ab:
+
+    # ni "\"If you want to help, then we need to tell people to stay away from the mines before the Guard shows up!\""
+    ni "“你若有心帮忙，就去警告所有人在卫兵来之前远离矿井！”"
+
+# game/nikroute3.rpy:12969
+translate Schinese nikroute3d1_243c7b93:
+
+    # wi "\"I am not going to let a serial killer go because there’s a chance that the Guard and the protestors start up a fight.\""
+    wi "“单单是卫兵和抗议者发生冲突的可能性，还不足以让我放跑一个连环杀手。”"
+
+# game/nikroute3.rpy:12983
+translate Schinese nikroute3d2_c662af51:
+
+    # wi "\"What the Hell happened to your face?\""
+    wi "“你的脸到底怎么了？”"
+
+# game/nikroute3.rpy:13123
+translate Schinese nikroute3d2_c07287ed:
+
+    # wi "\"Sometimes you sure as Hell make it hard to.\""
+    wi "“有时候，我真不知道该拿你怎么办。”"
+
+# game/nikroute3.rpy:13174
+translate Schinese nikroute3d2_c4d3e899:
+
+    # m "\"I told you countless times that I wanted out of this hellhole.\""
+    m "“我早就对你说过无数次，我想离开这鬼地方了。”"
+
+# game/nikroute3.rpy:13223
+translate Schinese nikroute3d2_6ef01a26:
+
+    # ni "\"The National Guard is coming to town.\""
+    ni "“国民兵要来了。”"
+
+# game/nikroute3.rpy:13297
+translate Schinese nikroute3d2_82d23e96:
+
+    # wi "\"And believe me, it’s a Hell of a pill to swallow....\""
+    wi "“...但如果你们所言非虚...”"
+
+# game/nikroute3.rpy:13375
+translate Schinese nikroute3d2_87fa10d4:
+
+    # "It’s a picture of a lady wolf, who’s young and pretty, and a very small wolf who looks not a day over ten, and a Hell of a lot like William."
+    "上面有只年轻貌美的母狼，和一只不到十岁、酷似William的幼狼。"
+
+# game/nikroute3.rpy:13398
+translate Schinese nikroute3d2_786445b6:
+
+    # m "\"Need to pack up my things. Talk to the Madam.\""
+    m "“打包行李，还有跟夫人谈谈。”"
+
+# game/nikroute3.rpy:13662
+translate Schinese nikroute3d2_9327928a:
+
+    # cy "\"And the Madam?\""
+    cy "“还有夫人呢？”"
+
+# game/nikroute3.rpy:13687
+translate Schinese nikroute3d2_3458bd1a:
+
+    # m "\"The National Guard is coming to the mines.\""
+    m "“国民兵要来矿场了。”"
+
+# game/nikroute3.rpy:13727
+translate Schinese nikroute3d2_996913f3:
+
+    # "Both U and W used to be replaced by one V and two V’s respectively in spite of the very fact that all three of these letters make drastically different phonemes."
+    "它们本来是用来替代V和双V的，尽管这三个字母的发音大相径庭。"
+
+# game/nikroute3.rpy:13966
+translate Schinese nikroute3d2_841b9bb3:
+
+    # pa "\"Who the Hell is attacking a damn press?\""
+    pa "“谁他妈的会袭击报社？”"
+
+# game/nikroute3.rpy:14032
+translate Schinese nikroute3d2_2830828e:
+
+    # pa "\"So what the Hell changed?\""
+    pa "“那是出什么状况了？”"
+
+# game/nikroute3.rpy:14175
+translate Schinese nikroute3d2_d3c5a549:
+
+    # m "\"Is the Guard already here?!\""
+    m "“卫兵已经来了吗？！”"
+
+# game/nikroute3.rpy:14221
+translate Schinese nikroute3d2_bd98ed67:
+
+    # cy "\"I’ll ask the Madam first, then see if we can get additional tickets.\""
+    cy "“我先去问问夫人，看能不能筹到更多票。”"
+
+# game/nikroute3.rpy:14252
+translate Schinese nikroute3d2_ff4ebce6:
+
+    # "He mouths {i}are y’all seeing all this?{/i}"
+    "用口型说：{b}你们看见这状况没{/b}？"
+
+# game/nikroute3.rpy:14416
+translate Schinese nikroute3d2_8d4ef223:
+
+    # wi "\"Can somebody tell me what the Hell’s going on?\""
+    wi "“谁先来跟我解释下现在的情况？”"
+
+# game/nikroute3.rpy:14440
+translate Schinese nikroute3d2_3068364b:
+
+    # "The Gila gives William a frustrated shrug."
+    "蜥蜴无奈地朝William耸肩。"
+
+# game/nikroute3.rpy:14508
+translate Schinese nikroute3d2_230a195b:
+
+    # ni @ talking "\"The National Guard is coming.\""
+    ni @ talking "“国民兵要来了。”"
+
+# TODO: Translation updated at 2026-06-05 18:07
+
+# game/nikroute3.rpy:10902
+translate Schinese caveinchoice_66120fbf:
+
+    # badeli "\"Yeah.\""
+    badeli "“是啊。”"
+
+# game/nikroute3.rpy:10905
+translate Schinese caveinchoice_24f920d3:
+
+    # badeli "\"Thought I heard voices too.\""
+    "badeli" "“好像还听见了一些动静。”"
+
+# game/nikroute3.rpy:10909
+translate Schinese caveinchoice_ad04b2b8:
+
+    # badeli "\"Doesn’t mean there wasn’t none.\""
+    "badeli" "“你没听见不代表没有。”"
+
+# game/nikroute3.rpy:10915
+translate Schinese caveinchoice_08076638:
+
+    # badeli "\"Wasn’t wasted if I hit one of ‘em.\""
+    "badeli" "“要是打中了就不算浪费。”"
 

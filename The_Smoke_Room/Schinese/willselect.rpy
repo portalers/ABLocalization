@@ -105,3 +105,23 @@ translate Schinese strings:
     new "扮演William时，你有帮Sam发泄出来吗？"
 
 
+# TODO: Translation updated at 2026-09-01 17:41
+
+translate Schinese strings:
+
+    # game/willselect.rpy:254
+    old "As William, when Sam asked why would you take a risk with Kane, what did you reply?"
+    new "作为William，Sam问你为何会冒险与Kane勾搭时，你的回答是？"
+
+    # game/willselect.rpy:270
+    old "As William, when Sam asked asked if you would loosen up and let Kane call the shots, what was your reply?"
+    new "作为William，Sam问你是否会放下身段让Kane主导时，你的回答是？"
+
+    # game/willselect.rpy:287
+    old "As William, did you decide to make a mistake with Kane?"
+    new "作为William，你有铸下大错，与Kane过夜吗？"
+
+    # game/willselect.rpy:296
+    old "As William, did you decide to tell Nikolai the truth about how you feel?"
+    new "作为William，你有向Nikolai坦白心意吗？"
+

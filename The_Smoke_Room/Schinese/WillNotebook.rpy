@@ -7,7 +7,7 @@ translate Schinese strings:
     new "{color=#000000}{font=fonts/willfont.ttf}尸体所在地是？{b}要找机会问问Todd。{/b} {/font}{/color}"
 
     old "{color=#000000} {font=willfont.ttf}Cliff claims Reed tries to break into his apartment.{/font} {/color}"
-    new "{color=#000000}{font=fonts/willfont.ttf}Cliff说Reed试图闯入他的公寓。{/font}{/color}"
+    new "{color=#000000} {font=fonts/willfont.ttf}Cliff说Reed试图闯入他的公寓。{/font} {/color}"
 
     old "{color=#000000}{font=willfont.ttf}Cliff works with James for CSCG.{/font}{/color}"
     new "{color=#000000}{font=fonts/willfont.ttf}Cliff和James一起效力于CSCG。{/font}{/color}"
@@ -124,7 +124,7 @@ translate Schinese strings:
 
     # game/williamroute3.rpy:1618
     old "According to Reed, Huxley's gun was pawned. Sales records indicate Huxley repurchased it."
-    new "根据Reed的说法，Huxley当了自己的枪。销售记录显示是Huxley亲自赎回了它。"
+    new "根据Reed的说法，Huxley当了自己的枪。销售记录显示，Huxley后来亲自赎回了它。"
 
     # game/williamroute3.rpy:1690
     old "Huxley was an alcoholic who needed more money for his drinking habit. I wonder where he was getting the cash?"
@@ -209,4 +209,4 @@ translate Schinese strings:
     new "黑手党把这些图案当成恐吓讯息。没人想一大早就在邮箱里看到这些东西，那个叫Chang Fulin的家伙大概也一样。"
 
     old "We could hear him down the hallway. But at least I know now that Harlan asked for the wine delivery."
-    new "在走廊上都听得一清二楚，但好歹我知道酒是Harlan要的了。"
+    new "在走廊上都听得一清二楚，但好歹知道酒是Harlan要的了。"

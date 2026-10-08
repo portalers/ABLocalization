@@ -39,7 +39,20 @@ translate Schinese python:
         gui.history_text_width = 1035
         ## Quick buttons.
         gui.quick_button_text_size = 50
-        gui.quick_button_borders = Borders(45, 5, 45, 8)  
+        gui.quick_button_borders = Borders(45, 5, 45, 8)
+
+    if renpy.variant("medium"):
+        gui.text_size = 43
+        gui.dialogue_width = 1230
+        gui.label_text_size = 42
+        gui.button_text_size = 37
+        gui.interface_text_size = 42
+        gui.history_name_xpos = 0.15
+        gui.history_height = 285
+        gui.history_text_width = 1035
+        ## Quick buttons.
+        gui.quick_button_text_size = 50
+        gui.quick_button_borders = Borders(45, 5, 45, 8)
 
 ## PC界面配置微调
     if renpy.variant("pc"):

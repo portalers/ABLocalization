@@ -7341,3 +7341,47 @@ translate Schinese nikroute4a_b49c5c96:
     # "Much longer after the fire goes out."
     "大火熄灭后也没有走。"
 
+# TODO: Translation updated at 2025-07-04 19:49
+
+# game/nikroute4.rpy:13
+translate Schinese nikroute4a_0a40570d:
+
+    # "I want to say {i}we can’t leave him{/i}."
+    "我想说{b}‘不能丢下他不管’{/b}。"
+
+# game/nikroute4.rpy:14
+translate Schinese nikroute4a_9788b547:
+
+    # "I want to say {i}but he’s still right there{/i}."
+    "想说{b}‘他还活着’{/b}。"
+
+# game/nikroute4.rpy:671
+translate Schinese nikroute4a_426e354e:
+
+    # "I can barely make out Paul and Felipe exchanging glances silently. Then the wolverine clears his throat."
+    "我隐约看到Paul和Felipe对视了一眼，然后狼貛清了清嗓子道："
+
+# game/nikroute4.rpy:699
+translate Schinese nikroute4a_478c4506:
+
+    # "I can make out Nik and Felipe getting tense when he says that."
+    "Nik和Felipe听见这话，顿时变得紧张起来。"
+
+# game/nikroute4.rpy:1200
+translate Schinese nikroute4a_d22fa2f9:
+
+    # "The wolverine gestures with his arms and shouts."
+    "狼貛挥动手臂，指着坑洞大喊："
+
+# game/nikroute4.rpy:1511
+translate Schinese nikroute4a_44f965d8:
+
+    # "Some of the men start following him while others argue with one another, perhaps over in which direction to go."
+    "一部分人开始跟着他，也有一部分人对方向表示异议。"
+
+# game/nikroute4.rpy:1816
+translate Schinese nikroute4a_181c71db:
+
+    # "The girls and the Madam are nowhere to be found."
+    "姑娘们和夫人都不见了踪影。"
+

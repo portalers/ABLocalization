@@ -6561,13 +6561,13 @@ translate Schinese after_sw1_d42849cb:
 translate Schinese after_sw1_f2b2ab19:
 
     # cy "“But some people liked to be scared at this stuff and I don’t want to ruin their fun.”"
-    cy "“但就有些人喜欢被这些东西吓一跳，我不想坏了她们的兴头。”"
+    cy "“但就有些人喜欢被这些东西吓一跳，我不想坏了她们的兴致。”"
 
 # game/williamroute2.rpy:1835
 translate Schinese after_sw1_7c02c751:
 
     # m "“Making yourself scared is the dumbest thing I’ve ever heard of.”"
-    m "“自找惊吓真是我听过的最愚蠢的行为。”"
+    m "“自找惊吓是我听过的最愚蠢的行为。”"
 
 # game/williamroute2.rpy:1836
 translate Schinese after_sw1_6c6d05c2:
@@ -7755,13 +7755,13 @@ translate Schinese after_sw1_1e38c1e0:
 translate Schinese after_sw1_26ac7530:
 
     # ha "“With all due respect, ma’am, it’s one thing after another.”"
-    ha "“恕我直言，夫人，这里就没有消停过。”"
+    ha "“恕我直言，夫人，这镇子就没有消停过。”"
 
 # game/williamroute2.rpy:2174
 translate Schinese after_sw1_4ac486f8:
 
     # ha "“Broken glasses. Fainting spells? Miscarriages!”"
-    ha "“碎玻璃，昏厥？流产！”"
+    ha "“碎玻璃。昏厥？流产！”"
 
 # game/williamroute2.rpy:2176
 translate Schinese after_sw1_cdf96dfb:
@@ -7797,7 +7797,7 @@ translate Schinese after_sw1_29fa7548:
 translate Schinese after_sw1_4dc6b602:
 
     # ha "“You’ll be in your 70’s before you know it, and I’ll soon follow!”"
-    ha "“您不久之后便会迈入古稀，我也没有多少年头了！”"
+    ha "“您不久之后便会迈入古稀，而我也没有多少年头了！”"
 
 # game/williamroute2.rpy:2193
 translate Schinese after_sw1_36834ad9:
@@ -7833,7 +7833,7 @@ translate Schinese after_sw1_7b5d67ee:
 translate Schinese after_sw1_13fe33fd:
 
     # ha "“You could sell this whole place and purchase a pub in the big city.”"
-    ha "“您大可把这地方全卖了，在大城市里置办一间酒馆。”"
+    ha "“您大可把这地方卖了，在大城市里置办一间酒馆。”"
 
 # game/williamroute2.rpy:2207
 translate Schinese after_sw1_04516271:
@@ -7857,7 +7857,7 @@ translate Schinese after_sw1_6ee4600a:
 translate Schinese after_sw1_34a5978f:
 
     # ha "“They loved you on the stage!”"
-    ha "“他们喜爱的是舞台上的您！”"
+    ha "“他们爱的是舞台上的您！”"
 
 # game/williamroute2.rpy:2217
 translate Schinese after_sw1_ab591295:
@@ -7881,7 +7881,7 @@ translate Schinese after_sw1_2b7b4c71:
 translate Schinese after_sw1_80097c28:
 
     # md "“It means I have more than enough eyes on me here, and it’s exhausting.”"
-    md "“意思是这里有更多视线集中在我身上，耗尽了我的精力。”"
+    md "“意思是这儿盯着我的眼睛已经够多了，真让人精疲力尽。”"
 
 # game/williamroute2.rpy:2226
 translate Schinese after_sw1_cc4a36f8:
@@ -7911,7 +7911,7 @@ translate Schinese after_sw1_ac86c0cd:
 translate Schinese after_sw1_46ed5b8a:
 
     # md "“Why do you presume that?”"
-    md "“你为什么会有如此念头？”"
+    md "“你为什么会有这样的念头？”"
 
 # game/williamroute2.rpy:2236
 translate Schinese after_sw1_83ad4d84:
@@ -7923,13 +7923,13 @@ translate Schinese after_sw1_83ad4d84:
 translate Schinese after_sw1_aac7ec3d:
 
     # ha "“East coast to west. Seaside to desert. We’ve seen it all.”"
-    ha "“从东岸到西岸。从海边到沙漠。我们看遍了一切。”"
+    ha "“从东海岸到西海岸，从海边到沙漠。我们看遍了一切。”"
 
 # game/williamroute2.rpy:2241
 translate Schinese after_sw1_c9c3f234:
 
     # md "“We did, yes.”"
-    md "“是的。”"
+    md "“是啊。”"
 
 # game/williamroute2.rpy:2243
 translate Schinese after_sw1_c263eb7e:
@@ -7947,13 +7947,13 @@ translate Schinese after_sw1_bed3675d:
 translate Schinese after_sw1_4acef8c3:
 
     # md "“Even after all of the others were gone.”"
-    md "“即便在其他人全部离去以后。”"
+    md "“即便其他人早已离去。”"
 
 # game/williamroute2.rpy:2251
 translate Schinese after_sw1_2befa41c:
 
     # ha "“Because even as you aged, you stayed beautiful.”"
-    ha "“纵然时光荏茬，您依旧美丽如初。”"
+    ha "“纵使时光荏茬，您依旧美丽如初。”"
 
 # game/williamroute2.rpy:2254
 translate Schinese after_sw1_29fa7548_1:
@@ -7965,7 +7965,7 @@ translate Schinese after_sw1_29fa7548_1:
 translate Schinese after_sw1_59c227bf:
 
     # ha "“You’re the last blossom on the last cactus on this patch of oblivion.”"
-    ha "“您是盛开在这片被遗忘的土地上，最后一株仙人掌的最后一朵花。”"
+    ha "“您是在这片被遗忘的土地上盛开的，最后一株仙人掌上的最后一朵花。”"
 
 # game/williamroute2.rpy:2259
 translate Schinese after_sw1_899ce1e6:
@@ -7983,7 +7983,7 @@ translate Schinese after_sw1_a181198f:
 translate Schinese after_sw1_2de6ae77:
 
     # md "“I’m happy here.”"
-    md "“我在这里过得很高兴。”"
+    md "“我在这里过得很快乐。”"
 
 # game/williamroute2.rpy:2265
 translate Schinese after_sw1_87937044:
@@ -7995,7 +7995,7 @@ translate Schinese after_sw1_87937044:
 translate Schinese after_sw1_568a90df:
 
     # md "“We had a wonderful, wild adventure together.”"
-    md "“我们共同经历过一场奇妙而又狂野的冒险。”"
+    md "“我们共同经历过一场奇妙又狂野的冒险。”"
 
 # game/williamroute2.rpy:2269
 translate Schinese after_sw1_7c91709f:
@@ -8013,7 +8013,7 @@ translate Schinese after_sw1_2bd01fc3:
 translate Schinese after_sw1_0ff8e6a4:
 
     # md "“Well, I don’t.”"
-    md "“我就没有。”"
+    md "“我就不会。”"
 
 # game/williamroute2.rpy:2277
 translate Schinese after_sw1_f57f41aa:
@@ -8109,7 +8109,7 @@ translate Schinese after_sw1_ca89084b:
 translate Schinese after_sw1_b8206200:
 
     # md "“Either somebody stole a twenty year old picture from you or, more likely, that trunk belonged to you!”"
-    md "“要么有人偷了你20年前的照片，要么更有可能的是，那个箱子本就属于你！”"
+    md "“要么有人偷走你20年前的照片，要么更有可能的是，那个箱子本就属于你！”"
 
 # game/williamroute2.rpy:2314
 translate Schinese after_sw1_ed5bfa42:
@@ -8133,7 +8133,7 @@ translate Schinese after_sw1_887a7130:
 translate Schinese after_sw1_7cb3921c:
 
     # md "“So you’re really admitting it?”"
-    md "“这么说你真的承认了？”"
+    md "“这么说你承认了？”"
 
 # game/williamroute2.rpy:2325
 translate Schinese after_sw1_798996a5:
@@ -8157,19 +8157,19 @@ translate Schinese after_sw1_7f286d37:
 translate Schinese after_sw1_1a4eafbb:
 
     # ha "“But...”"
-    ha "“但...”"
+    ha "“可...”"
 
 # game/williamroute2.rpy:2334
 translate Schinese after_sw1_b1576d11:
 
     # ha "“But those are my things!”"
-    ha "“但那是我的东西！”"
+    ha "“可那是我的东西！”"
 
 # game/williamroute2.rpy:2336
 translate Schinese after_sw1_7e434185:
 
     # md "“That’s entirely the problem!”"
-    md "“这才是全部的问题所在！”"
+    md "“那是一切问题的根源！”"
 
 # game/williamroute2.rpy:2338
 translate Schinese after_sw1_fa363028:
@@ -8199,7 +8199,7 @@ translate Schinese after_sw1_33dd771c:
 translate Schinese after_sw1_8b5b58c9:
 
     # md "“Don’t ever bring back anything else like it.”"
-    md "“永远别再带类似的东西回来了。”"
+    md "“永远别再把类似的东西带回来了。”"
 
 # game/williamroute2.rpy:2352
 translate Schinese after_sw1_569b5132:
@@ -8313,7 +8313,7 @@ translate Schinese dd1b_4cdc8b64:
 translate Schinese dd1b_2d14fb34:
 
     # ha "“What the hell do you think you were doing here!?”"
-    ha "“你到底有什么企图！？”"
+    ha "“你这家伙到底有什么企图！？”"
 
 # game/williamroute2.rpy:2384
 translate Schinese dd1b_832db967:
@@ -8691,13 +8691,13 @@ translate Schinese dd2b_6a0edea1:
 translate Schinese dd2b_44f74de3:
 
     # md "\"...who apparently took a sudden interest in a certain kind of literature he used to loathe.\""
-    md "“...突然对某种曾经厌恶的文学产生了兴趣。”"
+    md "“...突然对某种曾经深恶痛绝的文学产生了兴趣。”"
 
 # game/williamroute2.rpy:2494
 translate Schinese dd2b_64b0929e:
 
     # md "\"Unless it wasn’t sudden, and he was very good at hiding it this long.\""
-    md "“又或者并不突然，他只是很好地隐瞒了这么长时间。”"
+    md "“又或者并不突然，他只是隐瞒得很好。”"
 
 # game/williamroute2.rpy:2496
 translate Schinese dd2b_b23b29f6:
@@ -8727,7 +8727,7 @@ translate Schinese dd2b_71f833bf:
 translate Schinese dd2b_c901c8c0:
 
     # md "\"But think carefully before telling her what you saw tonight.\""
-    md "“但在告诉她你今晚看到的事之前，先三思。”"
+    md "“但别贸然告诉她你今晚看到的事。”"
 
 # game/williamroute2.rpy:2504
 translate Schinese dd2b_25772c0e:
@@ -8739,7 +8739,7 @@ translate Schinese dd2b_25772c0e:
 translate Schinese dd2b_9c24521b:
 
     # md "\"If she knows what Harlan did, and he’s still here, I suspect she’ll never be comfortable in this saloon again.\""
-    md "“若是被她得知了Harlan的所作所为，而对方还在这个酒馆，那她在这里的生活估计再也不会自在了。”"
+    md "“若是她得知了Harlan的所作所为，而对方还在这个酒馆...恐怕她再也没法安心待在这了。”"
 
 # game/williamroute2.rpy:2508
 translate Schinese dd2b_25839dc7:
@@ -8757,7 +8757,7 @@ translate Schinese dd2b_00983fa0:
 translate Schinese dd2b_880ee1d5:
 
     # m "\"Why don’t you just get rid of Harlan?\""
-    m "“您为什么不干脆炒了Harlan？”"
+    m "“为什么不直接辞退他？”"
 
 # game/williamroute2.rpy:2513
 translate Schinese dd2b_ed3184d9:
@@ -8793,7 +8793,7 @@ translate Schinese dd2b_0ebdaeff:
 translate Schinese dd2b_9928d5ff:
 
     # md "\"There’s always that reedy pharmacist with hot little hands, but I could never.\""
-    md "“那个瘦高的药剂师也生得一双巧手，不过我接受不了他。”"
+    md "“那个瘦高的药剂师也生得一双巧手，不过我受不了他。”"
 
 # game/williamroute2.rpy:2525
 translate Schinese dd2b_ae400139:
@@ -8859,7 +8859,7 @@ translate Schinese dd2b_09630f32:
 translate Schinese dd2b_8d544be3:
 
     # "I would have turned it down since she needs a long term replacement, but I still wish she would have asked."
-    "不过我本来就打算拒绝的，毕竟她需要一个长久的接替者。虽然我还是希望她考虑过我。"
+    "不过我本来就打算拒绝的，毕竟她需要一个长久的接替者。虽然我还是希望她有考虑过我。"
 
 # game/williamroute2.rpy:2676
 translate Schinese dd2b_b973f4f9:
@@ -8901,7 +8901,7 @@ translate Schinese dd2b_e587fb77:
 translate Schinese dd2b_9b78ca0f:
 
     # m "\"Yeah?\""
-    m "“啥？”"
+    m "“嗯？”"
 
 # game/williamroute2.rpy:2655
 translate Schinese dd2b_ce80f734:
@@ -13940,4 +13940,40 @@ translate Schinese sw2_75d43515:
 
     # wi "\"Speaking of hard work... I won’t be able to see you until the weekend, will I Nik?\""
     wi "“说到努力...周天之前你有时间外出吗，Nik？”"
+
+# TODO: Translation updated at 2025-07-04 19:49
+
+# game/williamroute2.rpy:1968
+translate Schinese after_sw1_a5b1daad:
+
+    # cy "\"But some people like to be scared at this stuff and I don’t want to ruin their fun.\""
+    cy "“但就有些人喜欢被这些东西吓一跳，我不想坏了她们的兴头。”"
+
+# game/williamroute2.rpy:2174
+translate Schinese after_sw1_8815fb59:
+
+    # ha "\"I got ‘im.\""
+    ha "“逮到他了。”"
+
+# game/williamroute2.rpy:2533
+translate Schinese dd1b_dbe756d9:
+
+    # ha "\"This man is the piss poorest liar I’ve met in my life.\""
+    ha "“这个人是我这辈子见过的最差劲的骗子。”"
+
+# TODO: Translation updated at 2026-06-05 18:07
+
+# game/williamroute2.rpy:964
+translate Schinese williamroute2_ac36ce9b:
+
+    # "The blue eyes of a badger bodyguard are watching me from the passenger seat."
+    "坐在副驾驶座上的獾保镖用蓝色的眼睛注视着我。"
+
+# TODO: Translation updated at 2026-09-01 17:41
+
+# game/williamroute2.rpy:2417
+translate Schinese after_sw1_fb660abb:
+
+    # ha "\"Ma’am... If I may ask... why did you have to bring this up?\""
+    ha "“夫人...恕我直言...您为何要提起这些？”"
 

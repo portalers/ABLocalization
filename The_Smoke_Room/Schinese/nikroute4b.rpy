@@ -9802,7 +9802,7 @@ translate Schinese yaofuturechoice2_54e5ceff:
 translate Schinese yaofuturechoice2_37fa1085:
 
     # ni "\"They may have, but I never followed it closely.\""
-    ni "“或许有，但我没怎么关注。”"
+    ni "“或许有，但我没太关注。”"
 
 # game/nikroute4b.rpy:3444
 translate Schinese yaofuturechoice2_eb63f916:
@@ -9880,7 +9880,7 @@ translate Schinese yaofuturechoice2_87ab7215:
 translate Schinese yaofuturechoice2_85a75afe:
 
     # ni "\"A-at least eat the sausages.\""
-    ni "“你至-至少把香肠吃了。”"
+    ni "“你至、至少把香肠吃了。”"
 
 # game/nikroute4b.rpy:3254
 translate Schinese yaofuturechoice2_f0105877_1:
@@ -11057,3 +11057,157 @@ translate Schinese strings:
     # game/nikroute4b.rpy:2626
     old "Because you’re my friend."
     new "因为你是我的朋友。"
+# TODO: Translation updated at 2025-07-04 19:49
+
+# game/nikroute4b.rpy:1230
+translate Schinese nikroute4b_fe917b25:
+
+    # br "\"Of course, he’s still a chink, through no fault of his own. That means he will sell me out to the highest price one day.\""
+    br "“当然了，他骨子里还是个华夏佬，总有一天会为了利益把我卖出去。”"
+
+# game/nikroute4b.rpy:1307
+translate Schinese nikroute4b_a154aee2:
+
+    # br "\"I like to be careful with my gun...\""
+    br "“我对这枪还是挺小心的...”"
+
+# game/nikroute4b.rpy:2312
+translate Schinese nikroute4b_2808565f:
+
+    # wi "\"The Guard’s still hauling buckets up and down from Lake Emma to put it out.\""
+    wi "“卫兵们正从艾玛湖取水灭火。”"
+
+# game/nikroute4b.rpy:2340
+translate Schinese nikroute4b_060fde8a:
+
+    # m "\"I need to check on the Madam.\""
+    m "“我要去找夫人。”"
+
+# game/nikroute4b.rpy:2360
+translate Schinese nikroute4b_e1f3dd9a:
+
+    # "If I didn’t know better, I’d say it feels like the end of the world."
+    "世界末日也不过如此。"
+
+# game/nikroute4b.rpy:2366
+translate Schinese nikroute4b_34a18126:
+
+    # "The upper scale menswear store had its glass kicked in."
+    "高档男装店的玻璃橱窗被砸得稀烂。"
+
+# game/nikroute4b.rpy:2487
+translate Schinese nikroute4b_9fc2cfdc:
+
+    # "But it does feel weird to know this will be the last errand I run for the Madam."
+    "但一想到这是最后一次帮夫人办事，我着实心情复杂。"
+
+# game/nikroute4b.rpy:3201
+translate Schinese yaofuturechoice2_4df9aa8a:
+
+    # wi "\"And thanks to the evidence we’ve compiled, she’s trying to pin the fire on ‘im, too.\""
+    wi "“在我们搜集到的证据帮助下，她在积极地给他定纵火罪。”"
+
+# game/nikroute4b.rpy:3264
+translate Schinese yaofuturechoice2_abdd9ab8:
+
+    # "One is a picture of the old staff at the Hip last year."
+    "一个是去年Stag酒馆的员工合照。"
+
+# game/nikroute4b.rpy:3265
+translate Schinese yaofuturechoice2_cc1a1cbd:
+
+    # "The other is a browned, formal-looking piece of paper."
+    "另一个则是微微泛黄，看起来很正式的纸张。"
+
+# game/nikroute4b.rpy:3338
+translate Schinese yaofuturechoice2_5c930c96:
+
+    # wi "\"No need to be cold with me Yao, I ain’t police no more.\""
+    wi "“别这么冷淡嘛Yao，我已经不当警察了。”"
+
+# game/nikroute4b.rpy:3689
+translate Schinese yaofuturechoice2_8a98fd50:
+
+    # ni "\"Or some calliope music sounding off.\""
+    ni "“或汽笛风琴声。”"
+
+# TODO: Translation updated at 2026-06-05 18:07
+
+# game/nikroute4b.rpy:1059
+translate Schinese nikroute4b_9703739b:
+
+    # "But it doesn’t much matter now, because the wolf and the badger are running straight for us."
+    "但也无所谓了，那一狼一獾正笔直朝我们这边冲来。"
+
+# game/nikroute4b.rpy:1189
+translate Schinese nikroute4b_68cc71b6:
+
+    # "He nods at the badger on his left."
+    "他点头示意左手边的獾。"
+
+# game/nikroute4b.rpy:1439
+translate Schinese nikroute4b_25077857:
+
+    # badeli "\"Should I shut him up?\""
+    badeli "“要我让他闭嘴吗？”"
+
+# game/nikroute4b.rpy:1450
+translate Schinese nikroute4b_97869079:
+
+    # "Ben's eyes narrow and he opens his mouth."
+    "他眯着眼睛说。"
+
+# game/nikroute4b.rpy:1534
+translate Schinese nikroute4b_839d5878:
+
+    # "The wolf aims his guns at us while the badger pats us down, one by one."
+    "狼拿枪指着我们，獾依次搜我们的身。"
+
+# game/nikroute4b.rpy:1537
+translate Schinese nikroute4b_3ac836c6:
+
+    # badeli "\"They’re clear.\""
+    "badeli" "“没问题。”"
+
+# game/nikroute4b.rpy:1779
+translate Schinese nikroute4b_f7903f6b:
+
+    # "I fumble with the box a bit, {nw}"
+    "我摸索着盒子，{nw}"
+
+# game/nikroute4b.rpy:1782
+translate Schinese nikroute4b_4e744b93:
+
+    # extend "noticing the wolf and the badger still staring at me as I get a little bit closer to the wires that go toward the Hendricks manor."
+    extend "在一狼一獾的监视之下走向通往Hendricks庄园的引线。"
+
+# game/nikroute4b.rpy:1792
+translate Schinese nikroute4b_b653b73a:
+
+    # "And I look at both of the bodyguards above me."
+    "望向身前的两个保镖。"
+
+# game/nikroute4b.rpy:1835
+translate Schinese nikroute4b_f1484d29:
+
+    # "The badger is bleeding from his hand, just like I am."
+    "獾的手血流如注，和我一样。"
+
+# game/nikroute4b.rpy:1862
+translate Schinese nikroute4b_a8dfadb3:
+
+    # "But the badger is up again, {nw}"
+    "但那只獾又爬了起来，{nw}"
+
+# game/nikroute4b.rpy:1876
+translate Schinese nikroute4b_9405be76:
+
+    # "Yao’s claws are out, leaving deep gashes in the badger’s arms as he fights for control of the rifle, until he can wrestle it out of his arms."
+    "Yao露出尖爪，狠狠划裂獾的双臂，从他手中夺过来福枪。"
+
+# game/nikroute4b.rpy:1881
+translate Schinese nikroute4b_507a7b97:
+
+    # "Nik races for it across the rope bridge, pulling a pair of shears from his pocket and cutting it."
+    "Nik飞奔过吊桥，从口袋里掏出一把剪刀，赶在火光前剪断引线。"
+

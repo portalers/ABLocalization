@@ -8026,7 +8026,7 @@ translate Schinese sny1_63ab506f:
 translate Schinese sny1_6da9d3e7:
 
     # m "\"Payton has a place they call The Stag too.\""
-    m "“沛顿镇也有间酒馆叫Stag。”"
+    m "“佩顿镇也有间酒馆叫Stag。”"
 
 # game/nikroute2.rpy:2335
 translate Schinese sny1_b4b518c5:
@@ -26909,4 +26909,126 @@ translate Schinese youdidit_56b3b38f:
 
     # "Yao tosses the massive lead pipe he's carrying with both of his hands to the ground."
     "Yao把两只手拿着的巨大铅管丢到地上。"
+
+# TODO: Translation updated at 2025-07-04 19:49
+
+# game/nikroute2.rpy:1205
+translate Schinese nikroute2_82af61bf:
+
+    # jam "\"It would make his life so much easier if he were to rein those thoughts in.\""
+    jam "“若是能收敛那些想法，他的生活想必会轻松许多。”"
+
+# game/nikroute2.rpy:1766
+translate Schinese sny1_11d57222:
+
+    # "She takes a puff of her cigarette then blows smoke."
+    "她抽了一口雪茄，吐出烟雾。"
+
+# game/nikroute2.rpy:2663
+translate Schinese sny1_16f80f94:
+
+    # m "\"Twitchy fella.\""
+    m "“鬼鬼祟祟的家伙。”"
+
+# game/nikroute2.rpy:2921
+translate Schinese sny1_844aa40a:
+
+    # m "\"’M ready.\""
+    m "“我准备好了。”"
+
+# game/nikroute2.rpy:2979
+translate Schinese sny1_5a72d4dc:
+
+    # ben "\"You Sam Ayers, fella?\""
+    ben "“哥们儿，你就是Sam Ayers？”"
+
+# game/nikroute2.rpy:2981
+translate Schinese sny1_ac72fd7d:
+
+    # "He looks and sounds a bit too familiar to be calling me fella."
+    "他叫我哥们儿，是不是有点太自来熟了。"
+
+# game/nikroute2.rpy:3140
+translate Schinese sny1_d6900169:
+
+    # "But when I get a closer look, it’s a sturdy-looking Gila monster. "
+    "待靠近观察，我发现那是一只强壮的希拉毒蜥。"
+
+# game/nikroute2.rpy:3244
+translate Schinese sny1_f3ce6504:
+
+    # ben "\"Wait, don’t blame me for the new fella’s mistakes.\""
+    ben "“等下，别把新人的问题怪到我头上。”"
+
+# game/nikroute2.rpy:3274
+translate Schinese sny1_f303e188:
+
+    # "The Gila turns away from us and flips the switch to his machine."
+    "蜥蜴转回身，打开了机器开关。"
+
+# game/nikroute2.rpy:3279
+translate Schinese sny1_1ca686c2:
+
+    # "The Gila curses under his breath."
+    "蜥蜴低声咒骂道："
+
+# game/nikroute2.rpy:5237
+translate Schinese sny1_aa511a53:
+
+    # "A stack of papers is scattered on a coffee table in front of the sofa he sits on, and he notices me immediately."
+    "对方坐在散放着纸张的茶几前，并立刻注意到了我。"
+
+# game/nikroute2.rpy:5524
+translate Schinese sny1_efa09ae3:
+
+    # "The Gila fake yawns."
+    "蜥蜴假装打了个呵欠。"
+
+# game/nikroute2.rpy:6560
+translate Schinese sellcomp_434d8aff:
+
+    # ben "\"Howdy fellas.\""
+    ben "“哥几个好啊。”"
+
+# game/nikroute2.rpy:6753
+translate Schinese sellcomp_e253dc1f:
+
+    # "Once we haul all of the rocks out of the way and load them into carts, then unload them into cages, it’s my and Dimitri’s turn to do the next blast."
+    "我们把石块全部收拾起来，用推车运进升降机，接着轮到我和Dimitri爆破了。"
+
+# game/nikroute2.rpy:7426
+translate Schinese sellcomp_84b45744:
+
+    # "Then I’m relieved to hear Nik, Yao and my name in the yellow team."
+    "听见Nik、Yao和我的名字都在黄队，我这才松了口气。"
+
+# game/nikroute2.rpy:7445
+translate Schinese sellcomp_3e1047fd:
+
+    # "He takes out his map."
+    "他拿出地图。"
+
+# game/nikroute2.rpy:7736
+translate Schinese locker1bright_cc28177a:
+
+    # "But being nude around Nik just reminds me of all of the time we've spend together."
+    "赤身裸体待在Nik身旁，我会不禁想起我们一起度过的所有那些时光。"
+
+# game/nikroute2.rpy:8876
+translate Schinese youdidit_480f7628:
+
+    # "Will takes another drag on his cigarette."
+    "Will又吸了一口烟。"
+
+# game/nikroute2.rpy:8910
+translate Schinese youdidit_aeca2ff7:
+
+    # "He shakes his head."
+    "他摇摇头。"
+
+# game/nikroute2.rpy:8926
+translate Schinese youdidit_ff3934c2:
+
+    # "He takes a good look at the both of us."
+    "他仔细审视着我们。"
 

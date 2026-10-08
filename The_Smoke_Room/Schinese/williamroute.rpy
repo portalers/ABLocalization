@@ -8741,3 +8741,23 @@ translate Schinese williamroute_04b19289:
     # wi "\"Well, make sure you check in with me tomorrow. We need to put ideas together.\""
     wi "“行吧，明天记得和我联系，我们需要集思广益。”"
 
+# TODO: Translation updated at 2025-07-04 19:49
+
+# game/williamroute.rpy:417
+translate Schinese williamroute_606affa0:
+
+    # "I swerve to the left, leading us up the dirt road."
+    "我转向右侧，领着一行人走上土路。"
+
+# game/williamroute.rpy:591
+translate Schinese williamroute_4d427a4f:
+
+    # "I flinch away. My paw almost brushed one of the many bundles of legs."
+    "我吓得缩回手指，差点擦过那成扎的蜘蛛脚。"
+
+# game/williamroute.rpy:2148
+translate Schinese williamroute_48537202:
+
+    # wi "\"Todd weren’t troublin’ Mrs. Greene just for her pies.\""
+    wi "“Todd可不只是为了Greene夫人的派才去叨扰她的。”"
+

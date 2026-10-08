@@ -633,7 +633,7 @@ translate Schinese strings:
 
     # renpy/common/00library.rpy:316
     old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
-    new "本游戏由{a=https://space.bilibili.com/1571398540/dynamic}北极光汉化组{/a}完成本地化工作，如需访问汉化组QQ频道，请点击{a=https://pd.qq.com/s/37zrlf5mx?businessType=9}此处{/a}。\n\n本程序包含了由数个许可证授权的免费软件，包括 MIT 许可证和 GNU 宽松通用公共许可证。完整软件列表及源代码链接，请{a=https://www.renpy.org/l/license}访问此处{/a}。"
+    new "本游戏由{a=https://weibo.com/u/7429628292}北极光汉化组{/a}完成本地化工作，如需访问汉化组搭建的wiki百科，请点击{a=https://wiki.ablocalization.ltd}此处{/a}。\n\n本程序包含了由数个许可证授权的免费软件，包括 MIT 许可证和 GNU 宽松通用公共许可证。完整软件列表及源代码链接，请{a=https://www.renpy.org/l/license}访问此处{/a}。"
 
     # renpy/common/00preferences.rpy:259
     old "display"
@@ -1361,5 +1361,61 @@ translate Schinese strings:
 
     # renpy/common/00updater.rpy:2090
     old "Retry"
+    new ""
+
+# TODO: Translation updated at 2026-06-05 18:08
+
+translate Schinese strings:
+
+    # renpy/common/000statements.rpy:28
+    old "Click to play the video."
+    new ""
+
+    # renpy/common/00accessibility.rpy:137
+    old "Self-voicing support is limited when using a touch screen."
+    new ""
+
+    # renpy/common/00accessibility.rpy:180
+    old "Mono Audio"
+    new ""
+
+    # renpy/common/00accessibility.rpy:246
+    old "Kerning"
+    new ""
+
+    # renpy/common/00accessibility.rpy:288
+    old "Self-Voicing and Audio"
+    new ""
+
+    # renpy/common/00accessibility.rpy:292
+    old "Text"
+    new ""
+
+    # renpy/common/00preferences.rpy:602
+    old "mono audio"
+    new ""
+
+    # renpy/common/00preferences.rpy:611
+    old "font kerning"
+    new ""
+
+    # renpy/common/00translation.rpy:63
+    old "Translation identifier: [identifier]"
+    new ""
+
+    # renpy/common/00translation.rpy:84
+    old " translates [tl.filename]:[tl.linenumber]"
+    new ""
+
+    # renpy/common/00translation.rpy:101
+    old "\n{color=#fff}Copied to clipboard.{/color}"
+    new ""
+
+    # renpy/common/00updater.rpy:1935
+    old "An error has occurred:"
+    new ""
+
+    # renpy/common/00updater.rpy:1992
+    old "An error occurred when trying to download game data:"
     new ""
 
