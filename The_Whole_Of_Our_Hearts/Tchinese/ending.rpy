@@ -25,10 +25,10 @@ translate Tchinese end_bdd964b9:
     narrator sideInfernus "立繪與手機：{a=https://bsky.app/profile/infernojam.bsky.social}Infernus{/a} (@infernojam.bsky.social)"
 
 # game/ending.rpy:71
-translate Tchinese end_1ac88567:
+translate Tchinese end_ff7182fc:
 
-    # narrator sideTeal "Tarot Cards: {a=https://bsky.app/profile/tealfolf.bsky.social}Teal{/a} (@tealfolf.bsky.social)"
-    narrator sideTeal "塔羅牌：{a=https://bsky.app/profile/tealfolf.bsky.social}Teal{/a} (@tealfolf.bsky.social)"
+    # narrator sideTeal "Tarot Cards & Kill Arthur CG: {a=https://bsky.app/profile/tealfolf.bsky.social}Teal{/a} (@tealfolf.bsky.social)"
+    narrator sideTeal "塔羅牌與Kill Arthur CG：{a=https://bsky.app/profile/tealfolf.bsky.social}Teal{/a} (@tealfolf.bsky.social)"
 
 # game/ending.rpy:72
 translate Tchinese end_239e788c:
@@ -37,10 +37,10 @@ translate Tchinese end_239e788c:
     narrator sideDaniel "Cody公寓與主要大街：{a=https://bsky.app/profile/dmillustration.bsky.social}Daniel McIntyre{/a} (@dmillustration.bsky.social)"
 
 # game/ending.rpy:73
-translate Tchinese end_53db4237:
+translate Tchinese end_0a73b4f5:
 
-    # narrator sideBunniesOnFire "Backgrounds: {a=https://bsky.app/profile/bunniesonfire.bsky.social}BunniesOnFire{/a} (@bunniesonfire.bsky.social)"
-    narrator sideBunniesOnFire "背景：{a=https://bsky.app/profile/bunniesonfire.bsky.social}BunniesOnFire{/a} (@bunniesonfire.bsky.social)"
+    # narrator sideBunniesOnFire "Backgrounds & Kill Cody CG: {a=https://bsky.app/profile/bunniesonfire.bsky.social}BunniesOnFire{/a} (@bunniesonfire.bsky.social)"
+    narrator sideBunniesOnFire "背景與Kill Cody CG：{a=https://bsky.app/profile/bunniesonfire.bsky.social}BunniesOnFire{/a} (@bunniesonfire.bsky.social)"
 
 # game/ending.rpy:74
 translate Tchinese end_9066e2ea:
@@ -49,9 +49,9 @@ translate Tchinese end_9066e2ea:
     narrator sideJango "存檔圖標與CG：{a=https://bsky.app/profile/jangomango.bsky.social}Jango{/a} (@jangomango.bsky.social)"
 
 # game/ending.rpy:76
-translate Tchinese end_0b318f0d:
+translate Tchinese end_40963f6f:
 
-    # narrator sideReece "The rest of the background sprites were sourced from stock image websites. I tried to weed out any A.I. images. If one turns out to be A.I. generated let me know and I'll replace it."
+    # narrator sideReece "The rest of the backgrounds were sourced from stock image websites. I tried to weed out any A.I. images. If one turns out to be A.I. generated let me know and I'll replace it."
     narrator sideReece "其他背景圖片是在免費材料網站上找來的。我已經排除各種AI圖了，但如果有漏網之魚還請回報給我，我會換掉。"
 
 # game/ending.rpy:77
@@ -66,17 +66,47 @@ translate Tchinese end_72600ab3:
     # "Hopefully one day all backgrounds will be drawn, but the current ones will have to make do."
     "希望有朝一日所有背景都是手繪的，但現在就先這樣將就一下。"
 
-# game/ending.rpy:81
-translate Tchinese end_01aee3f4:
-
-    # "I was able to use music by the ever amazing {a=https://jjbbllkk.itch.io}Jeremy Leaird-Koch (Red Means Recording){/a} (@jjbbllkk.bsky.social) and {a=https://www.incompetech.com}Kevin Macleod{/a}."
-    "我還從偉大的{a=https://jjbbllkk.itch.io}Jeremy Leaird-Koch (Red Means Recording){/a} (@jjbbllkk.bsky.social)和{a=https://www.incompetech.com}Kevin Macleod{/a}這邊取用了音樂。"
-
 # game/ending.rpy:82
+translate Tchinese end_9db3bfa8:
+
+    # narrator sideGojii "{a=https://gojii.bandcamp.com}Elliott Gold (aka \"GOJII\"){/a} made this incredible song you're listening to; {i}This Way Back Home{/i}! Give them some love!"
+    narrator sideGojii "{i}This Way Back Home{/i}這首超讚的曲子是{a=https://gojii.bandcamp.com}Elliott Gold (或 \"GOJII\")作的！請各位多多支持！"
+
+# game/ending.rpy:84
+translate Tchinese end_f80b41cd:
+
+    # narrator sideTigerDragon "And huge thanks to {a=https://tigerdragon.bandcamp.com}t.i.g.e.r.DRAGON{/a} for the original song; {i}Do You Remember Someone Named Cody{/i}!"
+    narrator sideTigerDragon "也非常感謝{a=https://tigerdragon.bandcamp.com}t.i.g.e.r.DRAGON{/a}的原創曲{i}Do You Remember Someone Named Cody{/i}！"
+
+# game/ending.rpy:85
+translate Tchinese end_d630f4a8:
+
+    # narrator sideTigerDragon "If you haven't read the Kill Cody route of the Fuck Sean and Marry Rocco path please do! They did an incredible job with the song and I'm sad it might only play there..."
+    narrator sideTigerDragon "如果你還沒玩Fuck Sean、Marry Rocco的Kill Cody路線，請務必去玩！這首曲子真的超讚，只可惜恐怕只會出現在那條路線……"
+
+# game/ending.rpy:87
+translate Tchinese end_3a7e6513:
+
+    # narrator sideReece "I was able to use music by the ever amazing {a=https://jjbbllkk.itch.io}Jeremy Leaird-Koch (Red Means Recording){/a} (@jjbbllkk.bsky.social) and {a=https://hopskipandthechewtoys.bandcamp.com}Hop-Skip & The Chewtoys{/a} (@hopskipchewtoys.bsky.social)"
+    narrator sideReece "我還從偉大的{a=https://jjbbllkk.itch.io}Jeremy Leaird-Koch (Red Means Recording){/a} (@jjbbllkk.bsky.social)和{a=https://hopskipandthechewtoys.bandcamp.com}Hop-Skip & The Chewtoys{/a} (@hopskipchewtoys.bsky.social)這邊取用了音樂。"
+
+# game/ending.rpy:88
 translate Tchinese end_9817969b:
 
     # "Without their generous music libraries this visual novel would not sound as good as it does! Please support them!"
     "沒有他們的公開音樂庫，這個VN氣氛營造就沒這麼好了！請給予他們支持！"
+
+# game/ending.rpy:90
+translate Tchinese end_b80b0b74:
+
+    # "As well as tracks from {a=https://www.incompetech.com}Kevin Macleod{/a}. I know Kevin Macleod has gotten into A.I. music recently, but the two tracks I have are before that era."
+    "還有{a=https://www.incompetech.com}Kevin Macleod{/a}的曲子。我知道Kevin Macleod現在有在用AI輔助作曲，但我使用的兩首是在那之前出的。"
+
+# game/ending.rpy:91
+translate Tchinese end_a749c81a:
+
+    # "I'm mostly keeping them in as an homage to the many projects his past work has helped, but I am thinking about removing them due to his current use of A.I."
+    "我會出於對他們提供了諸多作品支援的敬重繼續使用這兩首曲子，但考慮到對方在AI使用上的轉型，我可能會將之移除。"
 
 # game/ending.rpy:84
 translate Tchinese end_f4ee09ea:
@@ -102,37 +132,43 @@ translate Tchinese end_1e92cce6:
     # "If I decide to put more time into this project, maybe I'll activate a Patreon or a Ko-fi."
     "將來如果打算專心製作此作品，我再考慮開Patreon或Ko-fi。"
 
-# game/ending.rpy:90
+# game/ending.rpy:99
 translate Tchinese end_5e22081c:
 
     # "The current Route I'm working on involves picking fuck for Sean and marry for Rocco (make sure to have a save file for those). With how I have everything planed out I should be able to simultaneously write the kill routes."
     "目前我在寫的路線是在fuck時選Sean、marry時選Rocco（記得準備好存檔）。以我的計畫，kill路線應該可以同時撰寫。"
 
-# game/ending.rpy:91
+# game/ending.rpy:100
 translate Tchinese end_bb4fb53b:
 
     # "If that plan changes then I'll let you know."
     "要是計畫有變，我會另行通知。"
 
-# game/ending.rpy:94
+# game/ending.rpy:103
 translate Tchinese end_0e70c380:
 
     # "Looks like the save file you're using doesn't have Sean selected for fuck and Rocco selected for marry."
     "你現在這個存檔，似乎沒有選擇Sean為「fuck」的對象、Rocco為「marry」的對象。"
 
-# game/ending.rpy:95
+# game/ending.rpy:104
 translate Tchinese end_33afa67d:
 
     # "If you wan't to fix your descision, so you're on the correct path, I can take you back to the Astral Night!"
     "若想更改選擇，以走向正確路線，我能將你帶回觀星之夜！"
 
-# game/ending.rpy:101
+# game/ending.rpy:107
+translate Tchinese end_983c80ee:
+
+    # "Thanks for reading, and I'll, hopefully, see you in the next build!"
+    "感謝遊玩，期待下個版本再見！"
+
+# game/ending.rpy:110
 translate Tchinese end_5fe8bcf2:
 
     # "Must be an alt save eh?"
     "看來是分身存檔吧？"
 
-# game/ending.rpy:103
+# game/ending.rpy:112
 translate Tchinese end_983c80ee_1:
 
     # "Thanks for reading, and I'll, hopefully, see you in the next build!"
@@ -140,18 +176,10 @@ translate Tchinese end_983c80ee_1:
 
 translate Tchinese strings:
 
-    # game/ending.rpy:97
+    # game/ending.rpy:106
     old "Take me back please!"
     new "帶我回去！"
 
-    # game/ending.rpy:100
+    # game/ending.rpy:109
     old "Nah I'm good."
     new "不用了。"
-
-# TODO: Translation updated at 2026-02-11 14:39
-
-# game/ending.rpy:98
-translate Tchinese end_983c80ee:
-
-    # "Thanks for reading, and I'll, hopefully, see you in the next build!"
-    "感謝遊玩，期待下個版本再見！"

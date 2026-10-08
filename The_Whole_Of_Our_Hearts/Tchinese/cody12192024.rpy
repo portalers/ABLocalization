@@ -411,9 +411,9 @@ translate Tchinese cody12192024_f0a55211:
     "是個正常人都該為此感到羞愧。"
 
 # game/cody12192024.rpy:98
-translate Tchinese cody12192024_e15f4445:
+translate Tchinese cody12192024_65732bb9:
 
-    # "The perfect lines that cover my once wellkept coat are proof that I'm not a failure. Why... why, in the one time it mattered, I could not do it."
+    # "The perfect lines that cover my once well kept coat are proof that I'm not a failure. Why... why, in the one time it mattered, I could not do it."
     "在我以前那精心打理的皮毛上的完美切痕，就是我並非廢物的證明。可是為什麼……為什麼，在唯一一次的重要關頭，我卻沒能做到？"
 
 # game/cody12192024.rpy:100

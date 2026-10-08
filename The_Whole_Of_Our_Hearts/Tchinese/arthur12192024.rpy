@@ -117,9 +117,9 @@ translate Tchinese arthur12192024_e29314bc:
     "第一，這裡冷死了；第二，我不想吵醒Cody；第三——"
 
 # game/arthur12192024.rpy:33
-translate Tchinese arthur12192024_7a4ef268:
+translate Tchinese arthur12192024_9977c6aa:
 
-    # narrator sideArthurUnmanedConcerned "Wait, where is cody?"
+    # narrator sideArthurUnmanedConcerned "Wait, where is Cody?"
     narrator sideArthurUnmanedConcerned "等一下，Cody人呢？"
 
 # game/arthur12192024.rpy:35
